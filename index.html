@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400&family=Inter:wght@300;400;600;700;800;900&display=swap" rel="stylesheet">
     <script src="https://unpkg.com/lucide@latest"></script>
     <script>
+        // Tailwind configuration for SelaLink identity
         tailwind.config = {
             darkMode: 'class',
             theme: {
@@ -25,7 +26,6 @@
                     },
                     animation: {
                         'origin-pulse': 'origin-pulse 4s ease-in-out infinite',
-                        'scanline': 'scanline 8s linear infinite',
                         'float-slow': 'float 10s ease-in-out infinite',
                         'orbit-spin': 'orbit-spin 10s linear infinite',
                     },
@@ -33,10 +33,6 @@
                         'origin-pulse': {
                             '0%, 100%': { transform: 'scale(1)', opacity: '0.2', filter: 'blur(40px)' },
                             '50%': { transform: 'scale(1.2)', opacity: '0.4', filter: 'blur(60px)' },
-                        },
-                        scanline: {
-                            '0%': { transform: 'translateY(-100%)' },
-                            '100%': { transform: 'translateY(1000%)' },
                         },
                         float: {
                             '0%, 100%': { transform: 'translateY(0)' },
@@ -59,6 +55,7 @@
             word-break: keep-all;
         }
         
+        /* Fixed Background Canvas for stars and comets */
         .cosmic-canvas {
             position: fixed;
             top: 0; left: 0; width: 100%; height: 100%;
@@ -66,6 +63,7 @@
             z-index: 0;
         }
 
+        /* IT/Lab Grid Pattern */
         .tech-grid {
             background-image: radial-gradient(rgba(0, 242, 255, 0.08) 1px, transparent 1px);
             background-size: 40px 40px;
@@ -74,6 +72,7 @@
             background-image: radial-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px);
         }
 
+        /* Branding Text Effects */
         .shimmer-brand {
             background: linear-gradient(90deg, #0f172a, #3b82f6, #0f172a);
             background-size: 200% auto;
@@ -100,6 +99,7 @@
             opacity: 0.4;
         }
 
+        /* Scroll Reveal Transitions */
         .reveal {
             opacity: 0;
             transform: translateY(30px);
@@ -118,7 +118,7 @@
         ::-webkit-scrollbar { width: 3px; }
         ::-webkit-scrollbar-thumb { background: rgba(59, 130, 246, 0.5); border-radius: 10px; }
 
-        /* Custom Icon Styles */
+        /* Custom SVG Icon Base Styling */
         .icon-container svg {
             width: 100%;
             height: 100%;
@@ -135,7 +135,7 @@
     <!-- Background Engine -->
     <canvas id="cosmic-canvas" class="cosmic-canvas"></canvas>
     <div class="fixed inset-0 tech-grid pointer-events-none z-10 opacity-50"></div>
-    <div class="fixed inset-0 bg-gradient-to-b from-transparent via-blue-500/5 to-transparent h-20 w-full animate-scanline pointer-events-none z-20"></div>
+    <!-- Note: Scanline div was removed here per user request -->
 
     <!-- Navigation -->
     <nav class="fixed w-full z-50 border-b border-slate-200 dark:border-white/5 bg-white/70 dark:bg-black/70 backdrop-blur-3xl">
@@ -145,7 +145,6 @@
                 <div class="flex items-center gap-3 md:gap-5 group cursor-pointer" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
                     <div class="relative w-10 h-10 md:w-12 md:h-12 flex items-center justify-center">
                         <div class="absolute inset-0 bg-tech/20 rounded-lg rotate-45 group-hover:rotate-[225deg] transition-transform duration-1000"></div>
-                        <!-- Custom SelaLink SVG Logo -->
                         <div class="relative w-full h-full p-2.5 flex items-center justify-center icon-container text-blue-600 dark:text-tech group-hover:scale-110 transition-transform">
                             <svg viewBox="0 0 24 24">
                                 <circle cx="12" cy="12" r="3" class="opacity-50" stroke-dasharray="2 2" />
@@ -167,12 +166,10 @@
                         <span class="mono-ui opacity-40 group-hover:opacity-100 hidden sm:inline">UNIT:</span>
                         <span id="lang-label" class="text-[10px] md:text-xs font-bold tracking-widest">EN</span>
                     </button>
-                    <!-- Custom Theme Toggle Icon -->
+                    <!-- Custom Theme Toggle -->
                     <button id="theme-toggle" class="relative w-10 h-10 md:w-12 md:h-12 rounded-full bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 flex items-center justify-center hover:scale-105 transition-transform group overflow-hidden">
                         <div class="icon-container w-5 h-5 text-slate-600 dark:text-tech transition-all">
-                            <svg id="theme-icon-svg" viewBox="0 0 24 24">
-                                <!-- Initial Sun/Moon path will be injected by JS -->
-                            </svg>
+                            <svg id="theme-icon-svg" viewBox="0 0 24 24"></svg>
                         </div>
                     </button>
                 </div>
@@ -180,7 +177,7 @@
         </div>
     </nav>
 
-    <!-- UI Decor: System Metrics -->
+    <!-- Side Decoration UI -->
     <div class="fixed left-6 md:left-10 top-1/2 -translate-y-1/2 hidden 2xl:flex flex-col gap-32 z-40">
         <div class="mono-ui vertical-label origin-center">SIGNAL_SYNC_ACTIVE</div>
         <div class="mono-ui vertical-label origin-center">LAB_CORE_01</div>
@@ -190,8 +187,9 @@
         <div class="mono-ui vertical-label origin-center text-blue-500">REF: SELA-LINK</div>
     </div>
 
-    <!-- Hero Section -->
+    <!-- Section 1: Hero -->
     <section class="relative min-h-screen flex flex-col items-center justify-center text-center px-6 overflow-hidden">
+        <!-- Origin Flare Visualization -->
         <div class="absolute w-[300px] h-[300px] md:w-[600px] md:h-[600px] bg-blue-600 rounded-full animate-origin-pulse -z-10"></div>
         
         <div class="reveal active space-y-6 md:space-y-10 w-full max-w-7xl">
@@ -219,7 +217,7 @@
         </div>
     </section>
 
-    <!-- Philosophy: The Singularity -->
+    <!-- Section 2: Philosophy -->
     <section class="py-32 md:py-60 relative bg-white dark:bg-black overflow-hidden transition-colors">
         <div class="max-w-[1400px] mx-auto px-6 md:px-8">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 md:gap-32 items-center">
@@ -246,7 +244,7 @@
                     </div>
                 </div>
 
-                <!-- Abstract Tech Visualization -->
+                <!-- Abstract Visualization -->
                 <div class="relative flex justify-center reveal">
                     <div class="w-full aspect-square max-w-[300px] md:max-w-[500px] relative flex items-center justify-center">
                         <div class="absolute inset-0 border border-blue-500/10 rounded-full animate-[spin_60s_linear_infinite]"></div>
@@ -264,7 +262,7 @@
         </div>
     </section>
 
-    <!-- Streams: The Emission -->
+    <!-- Section 3: Value Streams -->
     <section class="py-32 md:py-60 relative">
         <div class="max-w-[1400px] mx-auto px-6 md:px-8">
             <div class="flex flex-col md:flex-row items-start md:items-end justify-between mb-16 md:mb-32 gap-6 reveal">
@@ -278,7 +276,7 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
-                <!-- Stream 1 -->
+                <!-- Happiness Node -->
                 <div class="group p-10 md:p-16 bg-white dark:bg-white/[0.02] border border-slate-100 dark:border-white/5 hover:bg-slate-50 dark:hover:bg-white/[0.05] transition-all duration-700 reveal shadow-sm hover:shadow-2xl">
                     <div class="mono-ui mb-8 md:mb-12 text-blue-500">Node: Happiness</div>
                     <div class="icon-container w-12 h-12 text-slate-300 dark:text-slate-700 group-hover:text-blue-500 mb-8 md:mb-10 transition-all">
@@ -293,7 +291,7 @@
                     </p>
                 </div>
 
-                <!-- Stream 2 -->
+                <!-- Connection Node -->
                 <div class="group p-10 md:p-16 bg-white dark:bg-white/[0.02] border border-slate-100 dark:border-white/5 hover:bg-slate-50 dark:hover:bg-white/[0.05] transition-all duration-700 reveal shadow-sm hover:shadow-2xl" style="transition-delay: 150ms;">
                     <div class="mono-ui mb-8 md:mb-12 text-indigo-500">Node: Connection</div>
                     <div class="icon-container w-12 h-12 text-slate-300 dark:text-slate-700 group-hover:text-indigo-500 mb-8 md:mb-10 transition-all">
@@ -309,7 +307,7 @@
                     </p>
                 </div>
 
-                <!-- Stream 3 -->
+                <!-- Future Node -->
                 <div class="group p-10 md:p-16 bg-white dark:bg-white/[0.02] border border-slate-100 dark:border-white/5 hover:bg-slate-50 dark:hover:bg-white/[0.05] transition-all duration-700 reveal shadow-sm hover:shadow-2xl" style="transition-delay: 300ms;">
                     <div class="mono-ui mb-8 md:mb-12 text-emerald-500">Node: Future</div>
                     <div class="icon-container w-12 h-12 text-slate-300 dark:text-slate-700 group-hover:text-emerald-500 mb-8 md:mb-10 transition-all">
@@ -327,7 +325,7 @@
         </div>
     </section>
 
-    <!-- Outro -->
+    <!-- Outro Section -->
     <section class="py-40 md:py-80 relative overflow-hidden text-center bg-white dark:bg-black transition-colors px-4">
         <div class="max-w-5xl mx-auto relative z-20 reveal">
             <div class="inline-block px-6 md:px-10 py-2 border border-blue-500/20 rounded-full mb-10 md:mb-16">
@@ -336,9 +334,19 @@
             <h2 class="text-5xl sm:text-6xl md:text-8xl lg:text-[120px] xl:text-[140px] font-black tracking-tighter leading-none mb-12 md:mb-20 uppercase" data-i18n="outro-title">
                 Beyond <br><span class="text-blue-600 dark:text-tech">SelaLink</span>
             </h2>
-            <p class="text-lg md:text-2xl lg:text-3xl text-slate-400 dark:text-slate-500 font-mono font-light leading-relaxed max-w-4xl mx-auto" data-i18n="outro-desc">
+            <p class="text-lg md:text-2xl lg:text-3xl text-slate-400 dark:text-slate-500 font-mono font-light leading-relaxed max-w-4xl mx-auto mb-16" data-i18n="outro-desc">
                 우주는 지금 이 순간에도 팽창하고 있습니다. <br class="hidden md:block">우리의 생각과 가치 역시 당신의 일상 속에서 끊임없이 확장될 것입니다.
             </p>
+            
+            <div class="flex flex-col items-center gap-4 reveal" style="transition-delay: 400ms;">
+                <span class="mono-ui text-blue-500/60 dark:text-tech/60 tracking-[0.5em] text-[8px] mb-2">Collaboration Channel</span>
+                <div class="group flex items-center gap-4 px-8 py-3 rounded-full border border-slate-200 dark:border-white/10 transition-all cursor-default">
+                    <div class="icon-container w-4 h-4 text-blue-500 dark:text-tech">
+                        <svg viewBox="0 0 24 24"><path d="M2 6l10 7 10-7V18H2V6zM2 6l10 7 10-7V4H2v2z" stroke-width="1.5"/></svg>
+                    </div>
+                    <span class="text-sm font-bold tracking-widest text-slate-600 dark:text-slate-300 font-mono">support@selalink.net</span>
+                </div>
+            </div>
         </div>
         <div class="absolute inset-0 flex items-center justify-center opacity-30 pointer-events-none">
             <div class="w-[500px] h-[500px] md:w-[1000px] md:h-[1000px] bg-blue-600/10 rounded-full blur-[100px] md:blur-[150px] animate-origin-pulse"></div>
@@ -361,6 +369,13 @@
                     </div>
                     <div class="text-xs md:text-sm font-medium text-slate-400 leading-relaxed" data-i18n="footer-text">
                         SelaLink는 사람의 존엄성을 기술의 핵심으로 삼는 <br class="hidden md:block">창의적 기술 연구 그룹입니다.
+                    </div>
+                    
+                    <div class="flex items-center gap-4 opacity-60">
+                        <div class="icon-container w-4 h-4 text-blue-600 dark:text-tech">
+                            <svg viewBox="0 0 24 24"><path d="M22 6L12 13 2 6V18H22V6zM2 6L12 13 22 6V4H2V6z" stroke-width="1.5"/></svg>
+                        </div>
+                        <span class="mono-ui text-[10px] tracking-widest lowercase">support@selalink.net</span>
                     </div>
                 </div>
 
@@ -385,13 +400,12 @@
     </footer>
 
     <script>
-        // --- Custom Theme SVG Path Data ---
+        // Custom Theme Icon Path Data
         const themeIcons = {
-            light: `<path d="M12 3a9 9 0 1 0 9 9 9.75 9.75 0 0 0-.5-3 5.25 5.25 0 0 1-8.5-4.5c0-.17 0-.33.02-.5a9.75 9.75 0 0 0-1.5-.02z" />`, // Moon for light mode
-            dark: `<circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2m16 0h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/>` // Sun for dark mode
+            light: `<path d="M12 3a9 9 0 1 0 9 9 9.75 9.75 0 0 0-.5-3 5.25 5.25 0 0 1-8.5-4.5c0-.17 0-.33.02-.5a9.75 9.75 0 0 0-1.5-.02z" />`,
+            dark: `<circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2m16 0h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/>`
         };
 
-        // --- Deep Cosmic Engine ---
         const canvas = document.getElementById('cosmic-canvas');
         const ctx = canvas.getContext('2d');
         let starLayers = [];
@@ -405,11 +419,12 @@
             initStars();
         }
 
+        // Initialize Layered Stars
         function initStars() {
             starLayers = [
-                { count: 350, speed: 0.003, size: 0.7, opacity: 0.25, stars: [] }, // Far
-                { count: 150, speed: 0.01, size: 1.1, opacity: 0.5, stars: [] },   // Mid
-                { count: 40, speed: 0.02, size: 1.5, opacity: 0.8, stars: [] }    // Near
+                { count: 350, speed: 0.003, size: 0.7, opacity: 0.25, stars: [] },
+                { count: 150, speed: 0.01, size: 1.1, opacity: 0.5, stars: [] },
+                { count: 40, speed: 0.02, size: 1.5, opacity: 0.8, stars: [] }
             ];
             starLayers.forEach(layer => {
                 for(let i = 0; i < layer.count; i++) {
@@ -418,6 +433,7 @@
             });
         }
 
+        // Animated Comet class
         class Comet {
             constructor() { this.reset(); }
             reset() {
@@ -474,7 +490,6 @@
         window.addEventListener('mousemove', (e) => { mouseX = e.clientX; mouseY = e.clientY; });
         window.addEventListener('resize', resize);
         
-        // --- Theme Engine ---
         const themeToggle = document.getElementById('theme-toggle');
         const themeIconSvg = document.getElementById('theme-icon-svg');
 
@@ -494,12 +509,10 @@
             localStorage.setItem('sela-theme', isDark ? 'dark' : 'light');
         });
 
-        // Init
         const savedTheme = localStorage.getItem('sela-theme') || 'dark';
         updateTheme(savedTheme === 'dark');
         resize(); initComets(); animate();
 
-        // --- Multi-Language Engine ---
         const translations = {
             'ko': {
                 'hero-tag': '실시간 가치 설계 시스템 가동',
@@ -507,7 +520,7 @@
                 'hero-2': '가능성',
                 'hero-desc': 'SelaLink는 기술이 사람의 가능성을 방해하지 않고, 가장 자연스럽게 삶의 가치를 높일 수 있는 새로운 차원을 설계합니다.',
                 'phil-title': '복잡함 속에서 <br><span class="text-blue-600 dark:text-tech">본질</span>을 찾습니다.',
-                'phil-desc': '우리는 세상의 흩어진 수많은 요구사항들을 깊이 있게 관찰합니다. 거대한 정보의 중력 속에서 사람에게 꼭 필요한 단 하나의 가치를 도출하고 이를 기술로 압축합니다.',
+                'phil-desc': '우리는 세상의 흩어진 수많은 요구사항들을 깊이 있게 관찰합니다. <br class="hidden md:block">거대한 정보의 중력 속에서 사람에게 꼭 필요한 단 하나의 가치를 도출하고 이를 기술로 압축합니다.',
                 'streams-title': 'VALUE RADIANCE',
                 'streams-subtitle': '정제된 아이디어는 각자의 궤도를 그리며 세상으로 방출됩니다.',
                 's1-title': '행복의 일상화',
@@ -517,7 +530,7 @@
                 's3-title': '내일의 도구',
                 's3-desc': '다가올 시대를 미리 탐사하고, 그 시대가 필요로 할 가치들을 미리 현실로 가져옵니다.',
                 'outro-title': 'Continuous <br><span class="text-blue-600 dark:text-tech">Expansion</span>',
-                'outro-desc': '우주는 지금 이 순간에도 팽창하고 있습니다. 우리의 생각과 가치 역시 당신의 일상 속에서 끊임없이 확장될 것입니다.',
+                'outro-desc': '우주는 지금 이 순간에도 팽창하고 있습니다. <br class="hidden md:block">우리의 생각과 가치 역시 당신의 일상 속에서 끊임없이 확장될 것입니다.',
                 'footer-text': 'SelaLink는 사람의 존엄성을 기술의 핵심으로 삼는 <br class="hidden md:block">창의적 기술 연구 그룹입니다.',
                 'lang-btn': 'EN'
             },
