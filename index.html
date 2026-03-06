@@ -88,8 +88,8 @@
 
         /* 이메일 한 줄 표시 고도화 */
         .fluid-text-lg {
-            font-size: clamp(0.9rem, 4.2vw, 4.2rem); /* 컨테이너 너비를 고려한 최대 크기 제한 */
-            white-space: nowrap; /* 한 줄로 강제 유지 */
+            font-size: clamp(0.9rem, 4.2vw, 4.2rem); 
+            white-space: nowrap; 
             line-height: 1.1;
             display: inline-block;
         }
@@ -376,7 +376,7 @@
     <footer class="bg-slate-100 dark:bg-[#010204] border-t border-slate-200 dark:border-white/5 py-32 relative z-50 transition-colors duration-1000">
         <div class="section-content px-6 flex flex-col lg:flex-row justify-between items-start lg:items-end gap-20">
             <div class="space-y-12">
-                <div class="flex items-center gap-8">
+                <div class="flex items-center gap-10">
                     <div class="w-14 h-14 bg-slate-900 dark:bg-white rounded-3xl flex items-center justify-center text-white dark:text-black shadow-3xl p-3.5 transition-transform hover:scale-105">
                          <svg viewBox="0 0 24 24" class="w-full h-full" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 17l6-6-6-6M12 19h8" stroke-linecap="round"/></svg>
                     </div>
@@ -431,7 +431,7 @@
 
         function updateScene() {
             const isDark = document.documentElement.classList.contains('dark');
-            const scrollPercent = window.scrollY / (document.documentElement.scrollHeight - window.innerHeight);
+            const scrollPercent = Math.min(1, window.scrollY / (document.documentElement.scrollHeight - window.innerHeight));
             document.documentElement.style.setProperty('--journey-progress', scrollPercent);
             
             const descentSpeed = Math.max(0, 1 - Math.pow(scrollPercent, 2)); 
@@ -457,7 +457,11 @@
             document.documentElement.style.setProperty('--shield-rgb', isDark ? '0,0,0' : '255,255,255');
             
             layerDisplay.innerText = layerName;
-            const alt = Math.max(0, Math.floor(35000 * (1 - scrollPercent)));
+            
+            // 고도 수치 0 스냅 로직 수정
+            let alt = Math.max(0, Math.floor(35000 * (1 - scrollPercent)));
+            if (scrollPercent >= 0.999) alt = 0; // 바닥 도달 시 강제 0M 처리
+            
             digitalAlt.innerText = `${alt.toLocaleString()} ${alt > 1000 ? 'KM' : 'M'}`;
 
             ctx.clearRect(0, 0, canvas.width, canvas.height);
@@ -530,10 +534,10 @@
             },
             'en': {
                 'hero-tag': 'Lab_Origin_Seoul',
-                'hero-1': 'Architecture',
-                'hero-2': 'Optimization',
+                'hero-1': 'System',
+                'hero-2': 'Architecture',
                 'hero-desc': 'Simplifying complex structures to deliver practical value. Realizing technical potential in real-world environments through sophisticated design.',
-                'phil-title': 'Defining the <br><span class="text-brand-600 dark:text-tech italic">Essence</span>',
+                'phil-title': 'Refining the <br><span class="text-brand-600 dark:text-tech italic">Essence</span>',
                 'phil-desc': 'Removing redundant data and maximizing system availability. Implementing core business functionality through high-performance architecture design.',
                 'streams-title': 'Performance',
                 'streams-subtitle': 'Deploying sustainable technical value based on verified designs.',
