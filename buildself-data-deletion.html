@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Deletion Request - SelaLink (BuildSelf)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-900 leading-relaxed">
+
+    <!-- Header -->
+    <header class="bg-white border-b border-gray-200 sticky top-0 z-10">
+        <div class="max-w-5xl mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-2">
+                <span class="text-xl font-bold tracking-tight text-blue-600">SelaLink</span>
+                <span class="text-gray-300">|</span>
+                <span class="text-gray-600 font-medium text-sm">BuildSelf</span>
+            </div>
+            <a href="https://selalink.net" class="text-sm text-gray-500 hover:text-blue-600 transition-colors">Home</a>
+        </div>
+    </header>
+
+    <main class="max-w-3xl mx-auto px-6 py-12 md:py-20">
+        
+        <!-- Hero Section -->
+        <section class="mb-12">
+            <h1 class="text-3xl md:text-4xl font-extrabold mb-4 tracking-tight">Data Deletion Request</h1>
+            <p class="text-lg text-gray-600">데이터 삭제 요청 안내</p>
+        </section>
+
+        <!-- Instructions Box -->
+        <div class="bg-white border border-gray-200 rounded-2xl p-8 shadow-sm mb-12">
+            <h2 class="text-xl font-semibold mb-6 flex items-center">
+                <span class="w-8 h-8 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center mr-3 text-sm">!</span>
+                How to Request Deletion (삭제 요청 방법)
+            </h2>
+            <p class="text-gray-700 mb-6">
+                Users of the <strong>BuildSelf</strong> app provided by <strong>SelaLink</strong> can request the deletion of their personal data by contacting us via email. 
+                <br><br>
+                <strong>세라링크(SelaLink)</strong>의 <strong>빌드셀프(BuildSelf)</strong> 앱 사용자는 아래 이메일 주소를 통해 개인정보 및 관련 데이터 삭제를 요청하실 수 있습니다.
+            </p>
+            
+            <div class="bg-gray-50 rounded-xl p-6 border border-dashed border-gray-300 text-center">
+                <p class="text-sm text-gray-500 mb-1 uppercase tracking-wider font-semibold text-xs">Contact Email</p>
+                <a href="mailto:support@selalink.net" class="text-2xl font-bold text-blue-600 hover:underline">support@selalink.net</a>
+            </div>
+            
+            <ul class="mt-6 space-y-3 text-sm text-gray-600">
+                <li class="flex items-start italic">
+                    <span class="mr-2">•</span>
+                    <span>Please include your device identifier or payment receipt ID for verification.</span>
+                </li>
+                <li class="flex items-start italic">
+                    <span class="mr-2">•</span>
+                    <span>본인 확인 및 데이터 식별을 위해 기기 식별자 또는 결제 영수증 번호를 포함해 주세요.</span>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Details Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            
+            <!-- Types of Data -->
+            <div>
+                <h3 class="text-lg font-bold mb-3 border-b pb-2">Types of Data Collected</h3>
+                <h4 class="text-sm font-semibold text-gray-500 mb-2 uppercase">수집되는 데이터 유형</h4>
+                <p class="text-gray-700 text-sm mb-4">
+                    As BuildSelf does not require an account, we do not collect personal profiles. However, the following service-related data may be collected:
+                </p>
+                <ul class="list-disc list-inside text-sm text-gray-600 space-y-1">
+                    <li>Device Identifiers (Installation ID)</li>
+                    <li>Crash Logs & Diagnostic Info (Sentry)</li>
+                    <li>Payment & Subscription History (RevenueCat)</li>
+                </ul>
+                <p class="text-gray-700 text-sm mt-4">
+                    회원가입 기능이 없어 개인 프로필은 수집하지 않으나, 원활한 서비스 제공을 위해 다음 데이터를 수집할 수 있습니다: 기기 식별자, 크래시 로그 및 성능 정보, 결제 이력 및 구독 상태.
+                </p>
+            </div>
+
+            <!-- Retention Policy -->
+            <div>
+                <h3 class="text-lg font-bold mb-3 border-b pb-2">Data Retention Policy</h3>
+                <h4 class="text-sm font-semibold text-gray-500 mb-2 uppercase">데이터 보유 및 파기 정책</h4>
+                <p class="text-gray-700 text-sm mb-4">
+                    Upon receiving a deletion request, all identifiable data will be permanently deleted within <strong>30 days</strong>.
+                </p>
+                <p class="text-sm text-gray-600 bg-yellow-50 p-3 rounded-lg border border-yellow-100 italic">
+                    * Exception: Data required for legal or tax obligations (e.g., payment records) will be retained for the period specified by law.
+                </p>
+                <p class="text-gray-700 text-sm mt-4">
+                    삭제 요청 접수 후 30일 이내에 식별 가능한 모든 데이터를 파기합니다. 단, 결제 이력 등 관련 법령에 따라 보관 의무가 있는 정보는 법정 기간 동안 별도 보관됩니다.
+                </p>
+            </div>
+
+        </div>
+
+        <!-- Footer Note -->
+        <footer class="mt-20 pt-8 border-t border-gray-100 text-center text-gray-400 text-xs">
+            <p>&copy; 2024 SelaLink. All rights reserved.</p>
+            <p class="mt-1">BuildSelf is a product of SelaLink.</p>
+        </footer>
+
+    </main>
+
+</body>
+</html>
