@@ -26,10 +26,10 @@ jobs:
       - name: 📦 저장소(레포지토리) 체크아웃
         uses: actions/checkout@v4
 
-      - name: 🟢 Node.js 20버전 환경 셋팅
+      - name: 🟢 Node.js 22버전 환경 셋팅
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: 📥 패키지 설치 (npm ci)
         working-directory: ./v3-app
