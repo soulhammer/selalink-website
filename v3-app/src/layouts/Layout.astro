@@ -66,7 +66,7 @@ const getPathForLang = (targetLang: string) => {
 			if (supportedLanguages && !supportedLanguages.includes(code)) return null;
 			return <link rel="alternate" hreflang={code} href={new URL(getPathForLang(code), Astro.site).href.replace(/\/$/, '')} />;
 		})}
-		<link rel="alternate" hreflang="x-default" href={new URL(getPathForLang('en'), Astro.site).href.replace(/\/$/, '')} />
+		<link rel="alternate" hreflang="x-default" href={new URL(getPathForLang(supportedLanguages && supportedLanguages.length > 0 ? supportedLanguages[0] : 'en'), Astro.site).href.replace(/\/$/, '')} />
 
 		<!-- AI & Semantic SEO Rules -->
 		<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
@@ -76,10 +76,11 @@ const getPathForLang = (targetLang: string) => {
 		<script type="application/ld+json" set:html={JSON.stringify({
 			"@context": "https://schema.org",
 			"@type": ogType === 'software' ? "SoftwareApplication" : "Organization",
-			"name": "SelaLink Studio",
-			"url": "https://selalink.com",
-			...(ogType === 'software' && title.includes('BuildSelf') ? {
-				"applicationCategory": "HealthApplication",
+			"name": ogType === 'software' && title.includes('BuildSelf') ? "BuildSelf" : (ogType === 'software' && title.includes('DeepMood') ? "DeepMood" : "SelaLink Studio"),
+			"url": canonicalUrl || Astro.url.href.replace(/\/$/, ''),
+			"description": description,
+			...(ogType === 'software' ? {
+				"applicationCategory": title.includes('DeepMood') ? "LifestyleApplication" : "HealthApplication",
 				"operatingSystem": "iOS, Android",
 				"offers": {
 					"@type": "Offer",
@@ -87,10 +88,9 @@ const getPathForLang = (targetLang: string) => {
 					"priceCurrency": "USD"
 				}
 			} : {}),
-			"description": description,
-			"sameAs": [
-				"https://play.google.com/store/apps/details?id=com.selalink.buildself"
-			]
+			...(title.includes('BuildSelf') ? {
+				"sameAs": ["https://play.google.com/store/apps/details?id=com.selalink.buildself"]
+			} : {})
 		})} />
 		
 		<style is:global>
