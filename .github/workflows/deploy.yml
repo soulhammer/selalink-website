@@ -1,0 +1,59 @@
+name: Deploy Astro site to GitHub Pages
+
+on:
+  # 매번 main 브랜치에 코드가 푸시(push)될 때마다 자동으로 빌드 및 배포를 실행합니다.
+  push:
+    branches: ["main"]
+  # (필요시) GitHub Actions 탭에서 수동으로 배포 버튼을 누를 수 있게 해줍니다.
+  workflow_dispatch:
+
+# GitHub Pages 배포를 위해 필요한 권한(Permission) 설정
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 동일한 배포가 동시에 여러 개 실행되는 것을 방지합니다.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: "🛠️ Astro 프로젝트 빌드"
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📦 저장소(레포지토리) 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 🟢 Node.js 20버전 환경 셋팅
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 📥 패키지 설치 (npm ci)
+        working-directory: ./v3-app
+        run: npm ci
+
+      - name: 🏗️ Astro 사이트 빌드 (정적 HTML 렌더링)
+        working-directory: ./v3-app
+        run: npm run build
+
+      - name: 🚀 빌드된 최종 산출물(dist)을 GitHub Pages 배포 준비 폴더로 업로드
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # v3-app의 dist 안의 파일들만을 배포 타겟으로 지정합니다. 
+          # (이 덕분에 루트 폴더의 파일들이 섞이지 않고 완벽히 격리됩니다.)
+          path: ./v3-app/dist
+
+  deploy:
+    name: "🌐 GitHub Pages로 라이브 배포"
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🌍 전 세계에 릴리즈 (Deploy)
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,93 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import { useTranslations, languages } from '../../../../i18n/ui';
+
+export function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+const t = useTranslations(lang as keyof typeof languages);
+
+const isKo = lang === 'ko';
+const title = isKo ? '서비스 이용약관' : 'Terms of Service';
+---
+
+<Layout title={`${title} | BuildSelf`} lang={lang as string}>
+  <main class="w-full bg-[#FAFAF9] dark:bg-[#1C1917] min-h-screen font-sans text-stone-900 dark:text-[#FAFAF9] pt-32 pb-24 px-6 transition-colors duration-500">
+    <div class="max-w-3xl mx-auto flex flex-col items-start gap-8">
+      <a href={`/${lang}/apps/buildself`} class="group inline-flex items-center space-x-2 text-emerald-600 dark:text-[#059669] hover:text-emerald-800 dark:hover:text-[#10B981] transition-colors duration-300">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="group-hover:-translate-x-1 transition-transform">
+          <path d="m15 18-6-6 6-6"/>
+        </svg>
+        <span class="text-sm font-medium tracking-wide">Back to BuildSelf</span>
+      </a>
+      
+      <h1 class="text-3xl md:text-5xl font-serif text-stone-900 dark:text-white" style="font-family: 'Bodoni Moda', serif;">
+        {title}
+      </h1>
+      
+      <div class="w-full h-px bg-stone-200 dark:bg-stone-800 mt-4 mb-4"></div>
+      
+            <div class="prose prose-stone dark:prose-invert max-w-none w-full text-stone-600 dark:text-stone-300 leading-relaxed font-light text-[0.95rem]">
+        {isKo ? (
+          <Fragment set:html={`<p>본 서비스 약관은 SelaLink(이하 "서비스 제공자")가 부분 유료화(Freemium) 서비스로 제작한 모바일 기기용 BuildSelf 앱(이하 "애플리케이션")에 적용됩니다.</p><br>
+    
+    <p>애플리케이션을 다운로드하거나 사용함으로써, 귀하는 자동으로 다음 약관에 동의하게 됩니다. 애플리케이션을 사용하기 전에 본 약관을 주의 깊게 읽고 숙지할 것을 강력히 권장합니다.</p>
+    
+    <div><br><p>애플리케이션, 애플리케이션의 일부 또는 당사의 상표를 무단으로 복사하거나 수정하는 것은 엄격히 금지됩니다. 애플리케이션의 소스 코드를 추출하거나, 다른 언어로 번역하거나, 파생 버전을 생성하려는 어떠한 시도도 허용되지 않습니다. 애플리케이션과 관련된 모든 상표, 저작권, 데이터베이스 권리 및 기타 지적 재산권은 서비스 제공자의 자산입니다.</p></div><br>
+    
+    <p>서비스 제공자는 애플리케이션이 최대한 유용하고 효율적일 수 있도록 최선을 다하고 있습니다. 따라서 서비스 제공자는 언제든지 어떠한 이유로든 애플리케이션을 수정하거나 서비스에 대한 요금을 청구할 권리를 보유합니다. 서비스 제공자는 애플리케이션이나 서비스에 대한 모든 청구 금액을 귀하에게 명확히 안내할 것을 보장합니다.</p><br>
+    
+    <p>애플리케이션은 서비스를 제공하고 유지하기 위해 필요한 특정 사용 데이터를 저장하고 처리합니다. 휴대폰의 보안 및 애플리케이션에 대한 접근을 유지하는 것은 귀하의 책임입니다. 서비스 제공자는 기기의 공식 운영 체제에서 부과하는 소프트웨어 제한 및 제약을 제거하는 휴대폰의 탈옥(jailbreaking) 또는 루팅(rooting)을 강력히 권장하지 않습니다. 이러한 행동은 휴대폰을 악성 코드, 바이러스, 악성 프로그램에 노출시키고 휴대폰의 보안 기능을 손상시킬 수 있으며, 결과적으로 애플리케이션이 제대로 작동하지 않거나 전혀 작동하지 않을 수 있습니다.</p><br>
+    
+    <p>서비스 제공자는 특정 측면에 대해 책임을 지지 않음을 유의하시기 바랍니다. 애플리케이션의 일부 기능은 활성화된 인터넷 연결이 필요하며, 이는 Wi-Fi 또는 모바일 네트워크 제공업체를 통해 제공될 수 있습니다. Wi-Fi에 연결할 수 없거나 데이터 허용량을 소진하여 애플리케이션이 온전한 기능으로 작동하지 않는 경우, 서비스 제공자는 책임을 지지 않습니다.</p><br>
+    
+    <p>Wi-Fi 지역 밖에서 애플리케이션을 사용하는 경우, 모바일 네트워크 제공업체의 계약 조건이 계속 적용됨을 유의하시기 바랍니다. 따라서 애플리케이션에 연결하는 동안 데이터 사용에 대해 모바일 제공업체로부터 요금이 청구되거나 기타 제3자 요금이 발생할 수 있습니다. 애플리케이션을 사용함으로써, 귀하는 데이터 로밍을 비활성화하지 않고 홈 지역(즉, 지역 또는 국가) 외부에서 애플리케이션을 사용하는 경우의 로밍 데이터 요금을 포함하여 이러한 모든 요금에 대한 책임을 수용하게 됩니다. 애플리케이션을 사용하는 기기의 요금 납부자가 아닌 경우, 귀하가 요금 납부자로부터 권한을 얻은 것으로 간주합니다.</p><br>
+    
+    <p>마찬가지로, 서비스 제공자는 귀하의 애플리케이션 사용에 대해 항상 책임을 질 수는 없습니다. 예를 들어, 기기가 충전된 상태를 유지하도록 하는 것은 귀하의 책임입니다. 기기의 배터리가 소진되어 서비스에 접근할 수 없는 경우, 서비스 제공자는 책임을 지지 않습니다.</p><br>
+    
+    <p>귀하의 애플리케이션 사용에 대한 서비스 제공자의 책임과 관련하여, 애플리케이션이 항상 최신 상태이고 정확하도록 노력하지만, 귀하에게 정보를 제공하기 위해 제3자가 제공하는 정보에 의존한다는 점을 유의하는 것이 중요합니다. 서비스 제공자는 귀하가 애플리케이션의 이러한 기능에 전적으로 의존함으로써 경험하는 직간접적인 손실에 대해 어떠한 책임도 지지 않습니다.</p><br>
+    
+    <p>서비스 제공자는 향후 애플리케이션을 업데이트할 수 있습니다. 운영 체제에 대한 요구 사항(및 애플리케이션의 가용성을 확장하기로 결정한 추가 시스템)이 변경될 수 있으며, 애플리케이션을 계속 사용하려면 업데이트를 다운로드해야 합니다. 서비스 제공자는 애플리케이션이 항상 귀하에게 적합하도록, 또는 귀하의 기기에 설치된 특정 운영 체제 버전과 호환되도록 업데이트할 것을 보장하지 않습니다. 그러나 귀하는 애플리케이션 업데이트가 제공될 때 이를 항상 수락하는 데 동의합니다. 서비스 제공자는 또한 애플리케이션 제공을 중단할 수 있으며, 종료 통지를 제공하지 않고 언제든지 사용을 종료할 수 있습니다. 다르게 안내하지 않는 한, 종료 시 (a) 본 약관에 따라 귀하에게 부여된 권리 및 라이선스는 종료되며, (b) 귀하는 애플리케이션 사용을 중단하고 (필요한 경우) 기기에서 애플리케이션을 삭제해야 합니다.</p><br>
+    
+    <strong>본 서비스 약관의 변경</strong>
+    <p>서비스 제공자는 주기적으로 본 서비스 약관을 업데이트할 수 있습니다. 따라서 본 페이지를 정기적으로 검토하여 변경 사항을 확인하시기 바랍니다. 서비스 제공자는 본 페이지에 새로운 서비스 약관을 게시하여 변경 사항을 귀하에게 통지할 것입니다.</p><br>
+    
+    <p>본 서비스 약관은 2026년 3월 5일부터 효력이 발생합니다. (최종 업데이트: 2026년 3월 16일)</p><br>
+    
+    <strong>연락처</strong>
+    <p>서비스 약관에 대한 질문이나 제안 사항이 있으시면 언제든지 support@selalink.net으로 서비스 제공자에게 문의해 주십시오.</p>`} />
+        ) : (
+          <Fragment set:html={`<p>These terms and conditions apply to the BuildSelf app (hereby referred to as "Application") for mobile devices that was created by SelaLink (hereby referred to as "Service Provider") as a Freemium service.</p><br>
+    
+    <p>Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.</p>
+    
+    <div><br><p>Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.</p></div><br>
+    
+    <p>The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.</p><br>
+    
+    <p>The Application stores and processes certain usage data necessary in order to provide and maintain the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.</p><br>
+    
+    <p>Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.</p><br>
+    
+    <p>If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.</p><br>
+    
+    <p>Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.</p><br>
+    
+    <p>In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.</p><br>
+    
+    <p>The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.</p><br>
+    
+    <strong>Changes to These Terms and Conditions</strong>
+    <p>The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.</p><br>
+    
+    <p>These terms and conditions are effective as of 2026-03-05 (Last updated: 2026-03-16)</p><br>
+    
+    <strong>Contact Us</strong>
+    <p>If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at support@selalink.net.</p>`} />
+        )}
+      </div>
+    </div>
+  </main>
+</Layout>
