@@ -1,0 +1,176 @@
+export const languages = {
+  en: 'English',
+  ko: '한국어',
+  ja: '日本語',
+  zh: '中文',
+  es: 'Español',
+  fr: 'Français',
+  de: 'Deutsch',
+  pt: 'Português',
+  id: 'Bahasa Indonesia'
+};
+
+export const defaultLang = 'en';
+
+export const ui = {
+  en: {
+    'nav.darkmode': 'Dark',
+    'nav.lightmode': 'Light',
+    'hero.title': 'We build your daily life.',
+    'hero.desc': 'SelaLink Global App Studio.',
+    'app.buildself.title': 'BuildSelf',
+    'app.buildself.desc': 'Architect your daily habits and routines.',
+    'app.buildself.status': 'Live',
+    'app.buildself.supported': '9 Languages Supported',
+    'app.deepmood.title': 'DeepMood',
+    'app.deepmood.desc': 'AI-driven emotion journal.',
+    'app.deepmood.status': 'Coming Soon',
+    'app.deepmood.supported': 'Korean Only (Currently)',
+    'app.deepmood.warning': 'This app currently only supports Korean.',
+    'footer.more': 'More App Experiences Dropping Soon',
+    'lang.switcher': 'Language'
+  },
+  ko: {
+    'nav.darkmode': '다크',
+    'nav.lightmode': '라이트',
+    'hero.title': '당신의 일상을 설계합니다.',
+    'hero.desc': 'SelaLink 글로벌 모바일 앱 스튜디오.',
+    'app.buildself.title': 'BuildSelf',
+    'app.buildself.desc': '작심삼일을 끊어내는 완벽한 루틴 설계자.',
+    'app.buildself.status': '스토어 출시됨',
+    'app.buildself.supported': '🔥 9개 국어 완벽 지원',
+    'app.deepmood.title': 'DeepMood',
+    'app.deepmood.desc': '다중 감정 분석 AI가 기록하는 진짜 당신의 하루.',
+    'app.deepmood.status': '출시 예정',
+    'app.deepmood.supported': '⏳ 현재 한국어 전용 개발 중',
+    'app.deepmood.warning': '이 앱은 현재 한국어만 지원합니다.',
+    'footer.more': '새로운 앱 경험이 곧 공개됩니다',
+    'lang.switcher': '언어'
+  },
+  ja: {
+    'nav.darkmode': 'ダーク',
+    'nav.lightmode': 'ライト',
+    'hero.title': 'あなたの日常を設計します。',
+    'hero.desc': 'SelaLink グローバルアプリスタジオ。',
+    'app.buildself.title': 'BuildSelf',
+    'app.buildself.desc': '完璧なルーティン設計者。',
+    'app.buildself.status': 'リリース済み',
+    'app.buildself.supported': '9ヶ国語対応',
+    'app.deepmood.title': 'DeepMood',
+    'app.deepmood.desc': 'AI感情分析ジャーナル。',
+    'app.deepmood.status': '近日公開',
+    'app.deepmood.supported': '現在韓国語のみ対応',
+    'app.deepmood.warning': 'このアプリは現在韓国語のみ対応しています。',
+    'footer.more': '新しいアプリ体験がまもなく公開されます',
+    'lang.switcher': '言語'
+  },
+  zh: {
+    'nav.darkmode': '深色',
+    'nav.lightmode': '浅色',
+    'hero.title': '设计你的日常生活。',
+    'hero.desc': 'SelaLink 全球应用工作室。',
+    'app.buildself.title': 'BuildSelf',
+    'app.buildself.desc': '完美的习惯设计者。',
+    'app.buildself.status': '已上线',
+    'app.buildself.supported': '支持9种语言',
+    'app.deepmood.title': 'DeepMood',
+    'app.deepmood.desc': 'AI情感驱动日记。',
+    'app.deepmood.status': '即将推出',
+    'app.deepmood.supported': '目前仅支持韩语',
+    'app.deepmood.warning': '此应用目前仅支持韩语。',
+    'footer.more': '更多应用体验即将推出',
+    'lang.switcher': '语言'
+  },
+  es: {
+    'nav.darkmode': 'Oscuro',
+    'nav.lightmode': 'Claro',
+    'hero.title': 'Construimos tu vida diaria.',
+    'hero.desc': 'SelaLink Estudio de Apps Global.',
+    'app.buildself.title': 'BuildSelf',
+    'app.buildself.desc': 'Diseña tus rutinas diarias.',
+    'app.buildself.status': 'Disponible',
+    'app.buildself.supported': '9 idiomas soportados',
+    'app.deepmood.title': 'DeepMood',
+    'app.deepmood.desc': 'Diario de emociones por IA.',
+    'app.deepmood.status': 'Próximamente',
+    'app.deepmood.supported': 'Solo Coreano (Actualmente)',
+    'app.deepmood.warning': 'Esta aplicación solo soporta coreano.',
+    'footer.more': 'Más experiencias pronto',
+    'lang.switcher': 'Idioma'
+  },
+  fr: {
+    'nav.darkmode': 'Sombre',
+    'nav.lightmode': 'Clair',
+    'hero.title': 'Nous construisons votre quotidien.',
+    'hero.desc': 'SelaLink Global App Studio.',
+    'app.buildself.title': 'BuildSelf',
+    'app.buildself.desc': 'Architecte de vos routines quotidiennes.',
+    'app.buildself.status': 'Disponible',
+    'app.buildself.supported': '9 langues supportées',
+    'app.deepmood.title': 'DeepMood',
+    'app.deepmood.desc': 'Journal des émotions par IA.',
+    'app.deepmood.status': 'Bientôt disponible',
+    'app.deepmood.supported': 'Coréen uniquement',
+    'app.deepmood.warning': 'Cette application ne supporte que le coréen.',
+    'footer.more': 'Plus d\'expériences à venir',
+    'lang.switcher': 'Langue'
+  },
+  de: {
+    'nav.darkmode': 'Dunkel',
+    'nav.lightmode': 'Hell',
+    'hero.title': 'Wir gestalten deinen Alltag.',
+    'hero.desc': 'SelaLink Global App Studio.',
+    'app.buildself.title': 'BuildSelf',
+    'app.buildself.desc': 'Entwickle deine täglichen Routinen.',
+    'app.buildself.status': 'Live',
+    'app.buildself.supported': '9 Sprachen unterstützt',
+    'app.deepmood.title': 'DeepMood',
+    'app.deepmood.desc': 'KI-gesteuertes Emotionstagebuch.',
+    'app.deepmood.status': 'Demnächst',
+    'app.deepmood.supported': 'Derzeit nur auf Koreanisch',
+    'app.deepmood.warning': 'Diese App unterstützt derzeit nur Koreanisch.',
+    'footer.more': 'Weitere App-Erlebnisse in Kürze',
+    'lang.switcher': 'Sprache'
+  },
+  pt: {
+    'nav.darkmode': 'Escuro',
+    'nav.lightmode': 'Claro',
+    'hero.title': 'Construímos o seu dia a dia.',
+    'hero.desc': 'SelaLink Estúdio Global de Apps.',
+    'app.buildself.title': 'BuildSelf',
+    'app.buildself.desc': 'Crie suas rotinas diárias.',
+    'app.buildself.status': 'Disponível',
+    'app.buildself.supported': '9 idiomas suportados',
+    'app.deepmood.title': 'DeepMood',
+    'app.deepmood.desc': 'Diário de emoções por IA.',
+    'app.deepmood.status': 'Em breve',
+    'app.deepmood.supported': 'Apenas Coreano',
+    'app.deepmood.warning': 'Este aplicativo suporta apenas coreano.',
+    'footer.more': 'Mais lançamentos em breve',
+    'lang.switcher': 'Idioma'
+  },
+  id: {
+    'nav.darkmode': 'Gelap',
+    'nav.lightmode': 'Terang',
+    'hero.title': 'Kami merancang keseharian Anda.',
+    'hero.desc': 'SelaLink Global App Studio.',
+    'app.buildself.title': 'BuildSelf',
+    'app.buildself.desc': 'Rancang rutinitas harian Anda.',
+    'app.buildself.status': 'Tersedia',
+    'app.buildself.supported': 'Mendukung 9 Bahasa',
+    'app.deepmood.title': 'DeepMood',
+    'app.deepmood.desc': 'Jurnal emosi berbasis AI.',
+    'app.deepmood.status': 'Segera Hadir',
+    'app.deepmood.supported': 'Hanya Bahasa Korea',
+    'app.deepmood.warning': 'Aplikasi ini hanya mendukung bahasa Korea.',
+    'footer.more': 'Lebih banyak pengalaman segera hadir',
+    'lang.switcher': 'Bahasa'
+  }
+} as const;
+
+export function useTranslations(lang: keyof typeof ui) {
+  return function t(key: keyof typeof ui[typeof defaultLang]) {
+    // @ts-ignore
+    return (ui[lang] && ui[lang][key]) ? ui[lang][key] : ui[defaultLang][key];
+  }
+}

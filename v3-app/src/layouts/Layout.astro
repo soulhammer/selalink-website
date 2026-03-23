@@ -1,0 +1,162 @@
+---
+import '../styles/global.css';
+import { useTranslations, languages } from '../i18n/ui';
+
+interface Props {
+	title: string;
+	lang: string;
+	description?: string;
+}
+
+const { title, lang, description = "SelaLink Global App Studio" } = Astro.props;
+---
+<!doctype html>
+<html lang={lang} class="dark">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={description} />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+		<title>{title}</title>
+		
+		<style is:global>
+			body {
+				font-family: 'Space Grotesk', 'Pretendard', sans-serif;
+				transition: background-color 0.5s ease, color 0.5s ease;
+				overflow-x: hidden;
+			}
+			
+			/* LIGHT MODE DEFAULT */
+			body {
+				background-color: #f8fafc; /* slate-50 */
+				color: #0f172a; /* slate-900 */
+			}
+			.bento-card {
+				background: rgba(255, 255, 255, 0.7);
+				backdrop-filter: blur(24px);
+				-webkit-backdrop-filter: blur(24px);
+				border: 1px solid rgba(0, 0, 0, 0.05);
+				border-radius: 32px;
+				transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+				box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
+				position: relative;
+				overflow: hidden;
+			}
+			.bento-card:hover {
+				transform: translateY(-4px) scale(1.01);
+				background: rgba(255, 255, 255, 0.9);
+				border-color: rgba(0, 0, 0, 0.1);
+				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+				z-index: 10;
+			}
+            
+			/* DARK MODE SPATIAL */
+			html.dark body {
+				background-color: #0b0c10;
+				color: #ffffff;
+			}
+			html.dark .bento-card {
+				background: rgba(30, 33, 40, 0.4);
+				border: 1px solid rgba(255, 255, 255, 0.05);
+				box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+			}
+			html.dark .bento-card:hover {
+				background: rgba(40, 44, 52, 0.5);
+				border-color: rgba(255, 255, 255, 0.1);
+				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+			}
+            
+			/* GLOW EFFECT */
+			.bento-glow {
+				position: absolute;
+				width: 300px;
+				height: 300px;
+				background: radial-gradient(circle, var(--glow-color, rgba(255,255,255,0.1)) 0%, transparent 70%);
+				opacity: 0;
+				transition: opacity 0.5s;
+				pointer-events: none;
+				border-radius: 50%;
+			}
+			.bento-card:hover .bento-glow {
+				opacity: 1;
+			}
+		</style>
+		
+		<script is:inline>
+			const theme = (() => {
+				if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
+					return localStorage.getItem('theme');
+				}
+				if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+					return 'dark';
+				}
+				return 'dark'; // Always default to dark for SelaLink Spatial aesthetic
+			})();
+			if (theme === 'light') {
+				document.documentElement.classList.remove('dark');
+			} else {
+				document.documentElement.classList.add('dark');
+			}
+			window.localStorage.setItem('theme', theme);
+		</script>
+	</head>
+	<body class="antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black">
+		<!-- Navigation Bar with Lang & Theme Switches -->
+		<header class="max-w-[1400px] mx-auto px-6 pt-12 flex justify-between items-center relative z-50">
+			<a href={`/${lang}`} class="text-2xl font-bold tracking-tighter">SelaLink.</a>
+			<div class="flex items-center gap-6">
+				<!-- Language Dropdown -->
+				<div class="relative" id="langWrapper">
+					<button id="langButton" class="flex items-center gap-1 text-sm font-medium hover:opacity-70 transition-opacity uppercase outline-none">
+						{lang} ▼
+					</button>
+					<div id="langMenu" class="absolute right-0 top-full mt-2 w-48 bg-white dark:bg-slate-800 rounded-xl shadow-xl flex flex-col py-2 opacity-0 invisible transition-all transform origin-top-right scale-95 z-50 pointer-events-none">
+						{Object.entries(languages).map(([code, label]) => (
+							<a href={`/${code}`} class="px-4 py-2 text-sm text-slate-800 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors">
+								{code.toUpperCase()} - {label}
+							</a>
+						))}
+					</div>
+				</div>
+				<!-- Theme Toggle -->
+				<button id="themeToggle" class="w-10 h-10 rounded-full flex items-center justify-center bg-slate-200 dark:bg-slate-800 hover:scale-110 transition-transform">
+					<span class="dark:hidden">🌙</span>
+					<span class="hidden dark:block">☀️</span>
+				</button>
+			</div>
+		</header>
+		
+		<slot />
+		
+		<script>
+            // Theme toggle logic
+			document.getElementById('themeToggle')?.addEventListener('click', () => {
+				const isDark = document.documentElement.classList.contains('dark');
+				localStorage.setItem('theme', isDark ? 'light' : 'dark');
+				document.documentElement.classList.toggle('dark');
+			});
+
+            // Language Dropdown toggle logic
+            const langBtn = document.getElementById('langButton');
+            const langMenu = document.getElementById('langMenu');
+            
+            langBtn?.addEventListener('click', (e) => {
+                e.stopPropagation();
+                langMenu.classList.toggle('opacity-0');
+                langMenu.classList.toggle('invisible');
+                langMenu.classList.toggle('scale-95');
+                langMenu.classList.toggle('scale-100');
+                langMenu.classList.toggle('pointer-events-none');
+            });
+
+            // Close dropdown when clicking outside
+            document.addEventListener('click', (e) => {
+                if (langMenu && !langMenu.classList.contains('opacity-0')) {
+                    langMenu.classList.add('opacity-0', 'invisible', 'scale-95', 'pointer-events-none');
+                    langMenu.classList.remove('scale-100');
+                }
+            });
+		</script>
+	</body>
+</html>

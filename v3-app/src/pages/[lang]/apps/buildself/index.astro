@@ -1,0 +1,23 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { useTranslations, languages } from '../../../i18n/ui';
+
+export function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+const t = useTranslations(lang as keyof typeof languages);
+---
+<Layout title={`BuildSelf | ${languages[lang]}`} lang={lang}>
+	<main class="max-w-[1400px] mx-auto px-6 py-24 min-h-screen">
+		<a href={`/${lang}/`} class="text-emerald-600 dark:text-emerald-500 hover:underline mb-8 inline-block font-semibold">← Back to SelaLink</a>
+		<h1 class="text-6xl md:text-8xl font-black mb-6 text-emerald-600 dark:text-emerald-500 tracking-tighter">{t('app.buildself.title')}</h1>
+		<p class="text-2xl text-slate-600 dark:text-slate-400 font-light max-w-2xl">{t('app.buildself.desc')}</p>
+        
+		<div class="mt-12 p-8 bg-emerald-50 dark:bg-emerald-500/10 border border-emerald-200 dark:border-emerald-500/20 rounded-3xl max-w-3xl shadow-sm">
+            <h2 class="text-2xl font-bold mb-3 text-emerald-900 dark:text-emerald-100">Current Language Context: {languages[lang]} ({lang.toUpperCase()})</h2>
+            <p class="text-emerald-700 dark:text-emerald-300 leading-relaxed text-lg">This BuildSelf sub-page is automatically generated for 9 languages using Astro's `getStaticPaths()` dynamic routing. It perfectly inherits the Light/Dark theme toggle from the global Layout.</p>
+        </div>
+	</main>
+</Layout>

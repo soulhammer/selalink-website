@@ -1,0 +1,78 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { useTranslations, languages } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+const t = useTranslations(lang as keyof typeof languages);
+---
+<Layout title={`SelaLink Studio | ${t('hero.title')}`} lang={lang}>
+	<main class="max-w-[1400px] mx-auto px-6 py-8 min-h-screen">
+		
+		<!-- Hero -->
+		<section class="mb-24 mt-12 text-center md:text-left">
+			<h1 class="text-6xl md:text-8xl font-black tracking-tighter leading-[1.1] mb-6 whitespace-pre-wrap text-slate-900 dark:text-white">{t('hero.title')}</h1>
+			<p class="text-xl md:text-2xl text-slate-500 font-light tracking-tight max-w-2xl">{t('hero.desc')}</p>
+		</section>
+
+		<!-- Bento Grid 2.0 -->
+		<section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-[350px]">
+			
+			<!-- BuildSelf Card (Large) -->
+			<a href={`/${lang}/apps/buildself/`} class="bento-card col-span-1 md:col-span-2 row-span-2 p-10 flex flex-col justify-between group" style="--glow-color: rgba(16,185,129,0.2);">
+				<div class="bento-glow top-0 left-0"></div>
+				<div class="z-10 relative">
+					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-sm font-semibold mb-6 border border-emerald-500/20">
+						<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.buildself.status')}
+					</div>
+					<h2 class="text-5xl font-black mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">{t('app.buildself.title')}</h2>
+					<p class="text-2xl text-slate-600 dark:text-slate-300 font-light max-w-md">{t('app.buildself.desc')}</p>
+				</div>
+				<div class="z-10 relative flex justify-between items-end transition-transform">
+					<div class="text-sm font-medium text-slate-700 dark:text-slate-400 bg-white/50 dark:bg-black/30 px-4 py-2 rounded-full backdrop-blur-md border border-black/5 dark:border-white/5">
+						{t('app.buildself.supported')}
+					</div>
+					<div class="w-14 h-14 rounded-full bg-black text-white dark:bg-white dark:text-black flex items-center justify-center group-hover:scale-110 transition-transform shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
+						<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+					</div>
+				</div>
+				<!-- Background Gradient Effect -->
+				<div class="absolute -bottom-32 -right-32 w-96 h-96 bg-emerald-300/30 dark:bg-emerald-600/20 blur-[100px] rounded-full group-hover:bg-emerald-400/50 dark:group-hover:bg-emerald-500/30 transition-colors duration-700"></div>
+			</a>
+
+			<!-- DeepMood Card (Korean Only) -->
+			<a href="/ko/apps/deepmood/" class="bento-card col-span-1 row-span-2 p-10 flex flex-col justify-between group" style="--glow-color: rgba(139,92,246,0.2);">
+				<div class="bento-glow top-0 right-0"></div>
+				<div class="z-10 relative">
+					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-700 dark:bg-purple-500/10 dark:text-purple-300 text-sm font-medium mb-6 border border-purple-500/20">
+						{t('app.deepmood.status')}
+					</div>
+					<h2 class="text-4xl font-black mb-4 text-slate-900 dark:text-white group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors">{t('app.deepmood.title')}</h2>
+					<p class="text-lg text-slate-600 dark:text-slate-300 font-light">{t('app.deepmood.desc')}</p>
+				</div>
+				<div class="z-10 relative mt-8">
+					<div class="text-sm border border-orange-500/30 text-orange-700 dark:text-orange-300 bg-orange-100 dark:bg-orange-500/10 px-4 py-3 rounded-2xl flex items-start gap-3 backdrop-blur-md">
+						<svg class="w-5 h-5 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+						<span class="leading-snug">{t('app.deepmood.supported')} {lang !== 'ko' ? <br/><span class="font-bold opacity-80 mt-1 block">{t('app.deepmood.warning')}</span> : null}</span>
+					</div>
+				</div>
+				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-purple-400/20 dark:bg-purple-600/10 blur-[80px] rounded-full group-hover:bg-purple-500/30 dark:group-hover:bg-purple-500/20 transition-colors duration-700"></div>
+			</a>
+
+			<!-- More Apps Placeholder (Horizontal) -->
+			<div class="bento-card col-span-1 md:col-span-3 row-span-1 p-8 flex items-center justify-center border-dashed border-2 border-slate-300 dark:border-slate-800 bg-transparent hover:border-slate-400 dark:hover:border-slate-600 cursor-not-allowed transition-colors">
+				<p class="text-slate-500 font-mono tracking-widest uppercase">{t('footer.more')}</p>
+			</div>
+
+		</section>
+		
+		<!-- Footer -->
+		<footer class="mt-32 pt-8 border-t border-slate-200 dark:border-white/5 flex justify-between text-sm text-slate-500 dark:text-slate-600 font-mono">
+			<span>&copy; 2026 SelaLink Global.</span>
+			<a href="#" class="hover:text-slate-800 dark:hover:text-slate-300">Privacy & Terms</a>
+		</footer>
+	</main>
+</Layout>

@@ -1,0 +1,12 @@
+<meta http-equiv="refresh" content="0;url=/en/" />
+<script>
+  const validLangs = ['en', 'ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'];
+  let lang = navigator.language || navigator.userLanguage || "en";
+  lang = lang.split('-')[0]; // Extract primary code (e.g. ko-KR -> ko)
+  
+  if (validLangs.includes(lang)) {
+    window.location.replace('/' + lang + '/');
+  } else {
+    window.location.replace('/en/');
+  }
+</script>
