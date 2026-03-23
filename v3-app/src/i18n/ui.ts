@@ -39,7 +39,16 @@ export const ui = {
     'bs.feature2.title': 'Perfect Organizer',
     'bs.feature2.desc': 'Flexible tag-based mapping. Drag and drop to reorder. Manage everything seamlessly in one place.',
     'bs.download.appstore': 'App Store',
-    'bs.download.playstore': 'Google Play'
+    'bs.download.playstore': 'Google Play',
+
+    // DeepMood App Subpage
+    'dm.hero.subtitle': '100% Local AI Emotion Journal',
+    'dm.hero.title': 'The most private place to unpack your truest emotions.',
+    'dm.hero.cta': 'Coming 2026',
+    'dm.feature1.title': 'Absolutely Local Privacy',
+    'dm.feature1.desc': 'Your journaling never leaves your device. Qwen3 On-device LLM summarizes your day with guaranteed secrecy.',
+    'dm.feature2.title': 'Hybrid Semantic Search',
+    'dm.feature2.desc': 'Search conceptually. Find the "sadness from that rainy day" using advanced multi-dimensional vector search.'
   },
   ko: {
     'nav.darkmode': '다크',
@@ -67,7 +76,16 @@ export const ui = {
     'bs.feature2.title': '자유로운 오거나이저',
     'bs.feature2.desc': '자유로운 태그 매핑과 드래그 앤 드롭 정렬. 내 맘에 쏙 드는 나만의 루틴 페이지를 손쉽게 구성해보세요.',
     'bs.download.appstore': 'App Store',
-    'bs.download.playstore': 'Google Play'
+    'bs.download.playstore': 'Google Play',
+
+    // DeepMood App Subpage
+    'dm.hero.subtitle': '100% 온디바이스 AI 감정 일기장',
+    'dm.hero.title': '아무도 보지 않는 곳에서, AI가 조용히 당신의 마음을 읽습니다.',
+    'dm.hero.cta': '출시 예정',
+    'dm.feature1.title': '서버리스 로컬 AI 프라이버시',
+    'dm.feature1.desc': '진짜 속마음을 클라우드에 보낼 수 있나요? 모든 일기와 AI 감정 분석은 오직 당신의 기기 안에서만 실행됩니다.',
+    'dm.feature2.title': '차원 초월의 하이브리드 검색',
+    'dm.feature2.desc': '"비 오던 날 느꼈던 우울함"을 검색하세요. 벡터 기반의 AI가 가장 사적인 과거의 순간을 찾아냅니다.'
   },
   ja: {
     'nav.darkmode': 'ダーク',
