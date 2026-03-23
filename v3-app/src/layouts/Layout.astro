@@ -8,9 +8,11 @@ interface Props {
 	description?: string;
 	supportedLanguages?: string[];
 	forceTheme?: 'dark' | 'light';
+	image?: string;
+	ogType?: string;
 }
 
-const { title, lang, description = "SelaLink Global App Studio", supportedLanguages, forceTheme } = Astro.props;
+const { title, lang, description = "SelaLink Global Product Studio - 경계를 허무는 완벽한 제품을 설계합니다.", supportedLanguages, forceTheme, image, ogType } = Astro.props;
 
 const currentPath = Astro.url.pathname;
 const getPathForLang = (targetLang: string) => {
@@ -33,11 +35,38 @@ const getPathForLang = (targetLang: string) => {
 		<link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 		<title>{title}</title>
 		
+		<!-- SEO / Open Graph Setup -->
+		<meta property="og:site_name" content="SelaLink Studio" />
+		<meta property="og:type" content={ogType || 'website'} />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:url" content={Astro.url.href} />
+		{image && <meta property="og:image" content={new URL(image, Astro.site).href} />}
+		
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
+		{image && <meta name="twitter:image" content={new URL(image, Astro.site).href} />}
+		
+		<!-- Canonical URL -->
+		<link rel="canonical" href={Astro.url.href.replace(/\/$/, '')} />
+		
+		<!-- Hreflang SEO for Global Reach -->
+		{Object.keys(languages).map((code) => {
+			if (supportedLanguages && !supportedLanguages.includes(code)) return null;
+			return <link rel="alternate" hreflang={code} href={new URL(getPathForLang(code), Astro.site).href.replace(/\/$/, '')} />;
+		})}
+		<link rel="alternate" hreflang="x-default" href={new URL(getPathForLang('en'), Astro.site).href.replace(/\/$/, '')} />
+		
 		<style is:global>
 			body {
 				font-family: 'Space Grotesk', 'Pretendard', sans-serif;
 				transition: background-color 0.5s ease, color 0.5s ease;
 				overflow-x: hidden;
+			}
+			/* Global Typography Polish for Korean */
+			html[lang="ko"] body {
+				word-break: keep-all;
 			}
 			
 			/* LIGHT MODE DEFAULT */
@@ -124,7 +153,7 @@ const getPathForLang = (targetLang: string) => {
 			<div class="flex items-center gap-6">
 				<!-- Language Dropdown -->
 				<div class="relative" id="langWrapper">
-					<button id="langButton" class="flex items-center gap-1 text-sm font-medium hover:opacity-70 transition-opacity uppercase outline-none">
+					<button id="langButton" aria-label="Select Language" class="flex items-center gap-1 text-sm font-medium hover:opacity-70 transition-opacity uppercase focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-600 rounded-md px-2 py-1">
 						{lang} ▼
 					</button>
 					<div id="langMenu" class="absolute right-0 top-full mt-2 w-48 bg-white dark:bg-slate-800 rounded-xl shadow-xl flex flex-col py-2 opacity-0 invisible transition-all transform origin-top-right scale-95 z-50 pointer-events-none">
@@ -150,7 +179,7 @@ const getPathForLang = (targetLang: string) => {
 				</div>
 				<!-- Theme Toggle -->
 				{!forceTheme && (
-					<button id="themeToggle" class="w-10 h-10 rounded-full flex items-center justify-center bg-slate-200 dark:bg-slate-800 hover:scale-110 transition-transform">
+					<button id="themeToggle" aria-label="Toggle Dark Mode" class="w-10 h-10 rounded-full flex items-center justify-center bg-slate-200 dark:bg-slate-800 hover:scale-110 transition-transform focus:outline-none focus:ring-2 focus:ring-slate-400 dark:focus:ring-slate-600">
 						<span class="dark:hidden">🌙</span>
 						<span class="hidden dark:block">☀️</span>
 					</button>

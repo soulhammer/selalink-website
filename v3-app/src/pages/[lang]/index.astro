@@ -13,53 +13,91 @@ const t = useTranslations(lang as keyof typeof languages);
 	<main class="max-w-[1400px] mx-auto px-6 py-8 min-h-screen">
 		
 		<!-- Hero -->
-		<section class="mb-24 mt-12 text-center md:text-left">
-			<h1 class="text-6xl md:text-8xl font-black tracking-tighter leading-[1.1] mb-6 whitespace-pre-wrap text-slate-900 dark:text-white">{t('hero.title')}</h1>
-			<p class="text-xl md:text-2xl text-slate-500 font-light tracking-tight max-w-2xl">{t('hero.desc')}</p>
+		<section class="mb-20 md:mb-24 mt-8 md:mt-12 text-center md:text-left">
+			<h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-black tracking-tighter leading-[1.15] md:leading-[1.1] mb-4 md:mb-6 whitespace-pre-wrap text-slate-900 dark:text-white">{t('hero.title')}</h1>
+			<p class="text-lg md:text-xl lg:text-2xl text-slate-500 font-light tracking-tight max-w-2xl mx-auto md:mx-0">{t('hero.desc')}</p>
 		</section>
 
 		<!-- Bento Grid 2.0 -->
 		<section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-[350px]">
 			
-			<!-- BuildSelf Card (Large) -->
-			<a href={`/${lang}/apps/buildself/`} class="bento-card col-span-1 md:col-span-2 row-span-2 p-10 flex flex-col justify-between group" style="--glow-color: rgba(16,185,129,0.2);">
+			<!-- BuildSelf Card (Large Spatial Canvas) -->
+			<a href={`/${lang}/apps/buildself/`} class="bento-card col-span-1 md:col-span-2 row-span-2 p-8 md:p-10 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.2);">
 				<div class="bento-glow top-0 left-0"></div>
-				<div class="z-10 relative">
-					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-sm font-semibold mb-6 border border-emerald-500/20">
+				
+				<!-- Top Content (Z-20) -->
+				<div class="z-20 relative">
+					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold mb-4 md:mb-6 border border-emerald-500/20 shadow-sm backdrop-blur-md">
 						<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.buildself.status')}
 					</div>
-					<h2 class="text-5xl font-black mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">{t('app.buildself.title')}</h2>
-					<p class="text-2xl text-slate-600 dark:text-slate-300 font-light max-w-md">{t('app.buildself.desc')}</p>
+					<h2 class="text-3xl sm:text-4xl md:text-5xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm">{t('app.buildself.title')}</h2>
+					<p class="text-lg md:text-xl lg:text-2xl text-slate-700 dark:text-slate-200 font-medium max-w-sm drop-shadow-md">{t('app.buildself.desc')}</p>
 				</div>
-				<div class="z-10 relative flex justify-between items-end transition-transform">
-					<div class="text-sm font-medium text-slate-700 dark:text-slate-400 bg-white/50 dark:bg-black/30 px-4 py-2 rounded-full backdrop-blur-md border border-black/5 dark:border-white/5">
+                
+				<!-- Spatial 3D Collage (Active Grid - Z-10) -->
+				<div class="absolute bottom-[-15%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-10%] sm:right-[-5%] md:right-0 lg:right-[-5%] w-[120%] sm:w-[90%] md:w-[75%] lg:w-[65%] h-[50%] sm:h-[60%] md:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end">
+					<!-- Back Left Image -->
+					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 sm:group-hover:-translate-x-8 group-hover:-translate-y-2 lg:group-hover:-translate-y-4 group-hover:-rotate-16 transition-all duration-700 opacity-50 sm:opacity-60 dark:opacity-40">
+						<img src="/assets/images/2.jpeg" alt="BuildSelf Habit List" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
+					</div>
+					<!-- Back Right Image -->
+					<div class="absolute right-[5%] sm:right-[0%] bottom-[25%] w-[50%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-2xl transform rotate-12 translate-y-2 group-hover:translate-x-4 sm:group-hover:translate-x-8 group-hover:-translate-y-3 lg:group-hover:-translate-y-6 group-hover:rotate-16 transition-all duration-700 opacity-70 lg:opacity-80 dark:opacity-60">
+						<img src="/assets/images/4.jpeg" alt="BuildSelf Analytics" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
+					</div>
+					<!-- Front Main Image -->
+					<div class="relative w-[65%] sm:w-[55%] mb-2 sm:mb-8 mr-6 sm:mr-12 rounded-[1.5rem] lg:rounded-[2rem] p-1.5 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.3)] dark:shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)] transform rotate-[-4deg] group-hover:rotate-0 group-hover:scale-[1.03] lg:group-hover:scale-105 group-hover:-translate-y-2 lg:group-hover:-translate-y-4 transition-all duration-700 z-20 mx-auto sm:mx-0">
+						<img src="/assets/images/1.jpeg" alt="BuildSelf Main UI" class="w-full h-auto rounded-[1.3rem] lg:rounded-[1.7rem] shadow-inner object-cover" loading="eager" />
+					</div>
+				</div>
+
+				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
+					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
 						{t('app.buildself.supported')}
 					</div>
-					<div class="w-14 h-14 rounded-full bg-black text-white dark:bg-white dark:text-black flex items-center justify-center group-hover:scale-110 transition-transform shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
-						<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
+						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
 					</div>
 				</div>
 				<!-- Background Gradient Effect -->
-				<div class="absolute -bottom-32 -right-32 w-96 h-96 bg-emerald-300/30 dark:bg-emerald-600/20 blur-[100px] rounded-full group-hover:bg-emerald-400/50 dark:group-hover:bg-emerald-500/30 transition-colors duration-700"></div>
+				<div class="absolute -bottom-32 -right-32 w-[600px] h-[600px] bg-emerald-300/20 dark:bg-emerald-700/20 blur-[120px] rounded-full group-hover:bg-emerald-400/30 dark:group-hover:bg-emerald-500/20 transition-colors duration-700 z-0 pointer-events-none"></div>
 			</a>
 
 			<!-- DeepMood Card (Korean Only) -->
-			<a href={`/${lang}/apps/deepmood/`} class="bento-card col-span-1 row-span-2 p-10 flex flex-col justify-between group" style="--glow-color: rgba(139,92,246,0.2);">
+			<a href={`/${lang}/apps/deepmood/`} class="bento-card col-span-1 row-span-2 p-8 md:p-10 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.2);">
 				<div class="bento-glow top-0 right-0"></div>
-				<div class="z-10 relative">
-					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-700 dark:bg-purple-500/10 dark:text-purple-300 text-sm font-medium mb-6 border border-purple-500/20">
+				
+				<!-- Top Content (Z-20) -->
+				<div class="z-20 relative">
+					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-700 dark:bg-purple-500/10 dark:text-purple-300 text-xs md:text-sm font-medium mb-4 md:mb-6 border border-purple-500/20 shadow-sm backdrop-blur-md">
 						{t('app.deepmood.status')}
 					</div>
-					<h2 class="text-4xl font-black mb-4 text-slate-900 dark:text-white group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors">{t('app.deepmood.title')}</h2>
-					<p class="text-lg text-slate-600 dark:text-slate-300 font-light">{t('app.deepmood.desc')}</p>
+					<h2 class="text-3xl md:text-4xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors drop-shadow-sm">{t('app.deepmood.title')}</h2>
+					<p class="text-base md:text-lg text-slate-700 dark:text-slate-200 font-medium drop-shadow-md relative z-20">{t('app.deepmood.desc')}</p>
 				</div>
-				<div class="z-10 relative mt-8">
-					<div class="text-sm border border-orange-500/30 text-orange-700 dark:text-orange-300 bg-orange-100 dark:bg-orange-500/10 px-4 py-3 rounded-2xl flex items-start gap-3 backdrop-blur-md">
-						<svg class="w-5 h-5 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-						<span class="leading-snug">{t('app.deepmood.supported')} {lang !== 'ko' ? <br/><span class="font-bold opacity-80 mt-1 block">{t('app.deepmood.warning')}</span> : null}</span>
+                
+				<!-- Premium Spatial Void Fill (Z-10) -->
+				<div class="absolute inset-0 z-10 pointer-events-none flex items-center justify-center opacity-80 group-hover:opacity-100 transition-opacity duration-700">
+					<!-- Massive Floating Icon -->
+					<div class="absolute top-[40%] right-[-10%] sm:right-0 transform rotate-12 group-hover:rotate-0 group-hover:scale-110 transition-transform duration-1000 ease-in-out blur-[1px]">
+						<svg class="w-64 h-64 text-purple-200/40 dark:text-purple-900/40" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+					</div>
+					<!-- High-end Glass Pill -->
+					<div class="absolute bottom-[30%] right-[10%] bg-white/60 dark:bg-black/40 backdrop-blur-2xl border border-white/50 dark:border-white/10 rounded-2xl p-4 md:p-5 shadow-2xl transform -rotate-6 group-hover:-rotate-3 group-hover:-translate-y-4 transition-all duration-700 opacity-0 sm:opacity-100 translate-y-8 group-hover:opacity-100">
+						<div class="w-10 h-10 rounded-full bg-gradient-to-br from-purple-400 to-indigo-500 flex items-center justify-center mb-2 shadow-inner">
+							<svg class="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+						</div>
+						<span class="text-sm font-bold text-slate-900 dark:text-white block tracking-tight">AI Insights</span>
+						<span class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">100% On-Device</span>
 					</div>
 				</div>
-				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-purple-400/20 dark:bg-purple-600/10 blur-[80px] rounded-full group-hover:bg-purple-500/30 dark:group-hover:bg-purple-500/20 transition-colors duration-700"></div>
+                
+				<div class="z-20 relative mt-auto pt-12">
+					<div class="text-xs md:text-sm font-bold border border-orange-500/40 text-orange-700 dark:text-orange-300 bg-orange-100/80 dark:bg-orange-950/40 px-3 py-2 md:px-4 md:py-3 rounded-2xl flex items-start gap-2 md:gap-3 backdrop-blur-md shadow-lg">
+						<svg class="w-4 h-4 md:w-5 md:h-5 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+						<span class="leading-snug">{t('app.deepmood.supported')} {lang !== 'ko' ? <br/><span class="font-bold opacity-80 mt-1 block tracking-tighter">{t('app.deepmood.warning')}</span> : null}</span>
+					</div>
+				</div>
+				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[400px] h-[400px] bg-purple-400/20 dark:bg-purple-600/20 blur-[100px] rounded-full group-hover:bg-purple-500/30 dark:group-hover:bg-purple-500/30 transition-colors duration-700 pointer-events-none z-0"></div>
 			</a>
 
 			<!-- More Apps Placeholder (Horizontal) -->
