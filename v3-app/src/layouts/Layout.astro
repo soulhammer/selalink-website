@@ -2,17 +2,27 @@
 import '../styles/global.css';
 import { useTranslations, languages } from '../i18n/ui';
 
-interface Props {
+export interface Props {
 	title: string;
 	lang: string;
 	description?: string;
 	supportedLanguages?: string[];
 	forceTheme?: 'dark' | 'light';
 	image?: string;
-	ogType?: string;
+	ogType?: 'website' | 'software';
+	canonicalUrl?: string;
 }
 
-const { title, lang, description = "SelaLink Global Product Studio - 경계를 허무는 완벽한 제품을 설계합니다.", supportedLanguages, forceTheme, image, ogType } = Astro.props;
+const { 
+	title, 
+	lang, 
+	description = "Break the cycle. You are already great, you just lacked the right tool.", 
+	supportedLanguages, 
+	forceTheme, 
+	image, 
+	ogType = 'website',
+	canonicalUrl
+} = Astro.props;
 
 const currentPath = Astro.url.pathname;
 const getPathForLang = (targetLang: string) => {
@@ -49,7 +59,7 @@ const getPathForLang = (targetLang: string) => {
 		{image && <meta name="twitter:image" content={new URL(image, Astro.site).href} />}
 		
 		<!-- Canonical URL -->
-		<link rel="canonical" href={Astro.url.href.replace(/\/$/, '')} />
+		<link rel="canonical" href={canonicalUrl || Astro.url.href.replace(/\/$/, '')} />
 		
 		<!-- Hreflang SEO for Global Reach -->
 		{Object.keys(languages).map((code) => {
