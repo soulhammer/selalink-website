@@ -1,6 +1,6 @@
 ---
-import Layout from '../../../layouts/Layout.astro';
-import { useTranslations, languages } from '../../../i18n/ui';
+import Layout from '../../../../layouts/Layout.astro';
+import { useTranslations, languages } from '../../../../i18n/ui';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -9,15 +9,126 @@ export function getStaticPaths() {
 const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 ---
-<Layout title={`BuildSelf | ${languages[lang]}`} lang={lang}>
-	<main class="max-w-[1400px] mx-auto px-6 py-24 min-h-screen">
-		<a href={`/${lang}/`} class="text-emerald-600 dark:text-emerald-500 hover:underline mb-8 inline-block font-semibold">← Back to SelaLink</a>
-		<h1 class="text-6xl md:text-8xl font-black mb-6 text-emerald-600 dark:text-emerald-500 tracking-tighter">{t('app.buildself.title')}</h1>
-		<p class="text-2xl text-slate-600 dark:text-slate-400 font-light max-w-2xl">{t('app.buildself.desc')}</p>
-        
-		<div class="mt-12 p-8 bg-emerald-50 dark:bg-emerald-500/10 border border-emerald-200 dark:border-emerald-500/20 rounded-3xl max-w-3xl shadow-sm">
-            <h2 class="text-2xl font-bold mb-3 text-emerald-900 dark:text-emerald-100">Current Language Context: {languages[lang]} ({lang.toUpperCase()})</h2>
-            <p class="text-emerald-700 dark:text-emerald-300 leading-relaxed text-lg">This BuildSelf sub-page is automatically generated for 9 languages using Astro's `getStaticPaths()` dynamic routing. It perfectly inherits the Light/Dark theme toggle from the global Layout.</p>
-        </div>
-	</main>
+<Layout title={`BuildSelf - ${languages[lang]}`} lang={lang}>
+	<!-- Override default dark bg constraint if we want this page uniquely themed -->
+	<style>
+		:root {
+			--bs-primary: #0D9488;
+			--bs-secondary: #14B8A6;
+			--bs-cta: #F97316;
+		}
+		
+		/* BuildSelf specific animations */
+		.footprint-card {
+			transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+		}
+		.footprint-card:hover {
+			transform: scale(1.02) translateY(-4px);
+			box-shadow: 0 20px 40px -10px rgba(13, 148, 136, 0.15);
+		}
+		
+		.app-button {
+			transition: all 0.3s ease;
+		}
+		.app-button:hover {
+			transform: translateY(-2px);
+			box-shadow: 0 10px 25px -5px var(--bs-primary);
+		}
+	</style>
+
+	<div class="bg-slate-50 dark:bg-slate-900 min-h-screen pt-20 pb-32 overflow-hidden relative">
+		<!-- Background decorative elements -->
+		<div class="absolute top-0 right-0 -mr-40 -mt-40 w-96 h-96 rounded-full bg-teal-400/20 dark:bg-teal-600/10 blur-3xl pointer-events-none"></div>
+		<div class="absolute bottom-40 left-0 -ml-40 w-80 h-80 rounded-full bg-orange-400/10 dark:bg-orange-600/10 blur-3xl pointer-events-none"></div>
+
+		<main class="max-w-[1200px] mx-auto px-6 relative z-10">
+			<!-- Header Action -->
+			<div class="mb-16">
+				<a href={`/${lang}/`} class="inline-flex items-center text-sm font-semibold text-teal-600 dark:text-teal-400 hover:text-teal-800 dark:hover:text-teal-300 transition-colors">
+					<svg class="w-4 h-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>
+					Back to SelaLink Studio
+				</a>
+			</div>
+
+			<!-- Hero Section -->
+			<section class="flex flex-col lg:flex-row items-center justify-between gap-16 mb-40">
+				<div class="flex-1 space-y-8">
+					<div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-orange-100 dark:bg-orange-500/20 text-orange-600 dark:text-orange-400 font-bold text-sm">
+						<span class="w-2 h-2 rounded-full bg-orange-500 animate-pulse"></span>
+						{t('bs.hero.subtitle')}
+					</div>
+					<h1 class="text-5xl md:text-7xl font-black text-slate-900 dark:text-white leading-[1.2] tracking-tight whitespace-pre-line">
+						{t('bs.hero.title')}
+					</h1>
+					<p class="text-xl text-slate-600 dark:text-slate-400 leading-relaxed max-w-lg">
+						{t('app.buildself.desc')}
+					</p>
+					
+					<div class="flex flex-col sm:flex-row gap-4 pt-4">
+						<button class="app-button flex items-center justify-center gap-3 bg-slate-900 dark:bg-white text-white dark:text-slate-900 px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer">
+							<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.253 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.04 2.26-.79 3.59-.76 2.6.04 4.19 1.45 4.8 1.8-3.1 1.76-2.58 5.86.37 6.94-1.04 2.45-2.51 3.5-3.84 4.19zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+							{t('bs.download.appstore')}
+						</button>
+						<button class="app-button flex items-center justify-center gap-3 bg-teal-600 hover:bg-teal-700 text-white px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer">
+							<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/></svg>
+							{t('bs.download.playstore')}
+						</button>
+					</div>
+					<div class="text-sm font-medium text-slate-500 pt-2 flex items-center gap-2">
+						⭐️⭐️⭐️⭐️⭐️ 4.9/5 Average Rating
+					</div>
+				</div>
+
+				<div class="flex-1 relative w-full max-w-lg">
+					<!-- Abstract phone frame UI element representing foot-prints -->
+					<div class="relative w-full aspect-[1/2] rounded-[48px] bg-white dark:bg-slate-800 border-8 border-slate-100 dark:border-slate-700 shadow-2xl overflow-hidden flex flex-col pt-12 footprint-card">
+						<div class="px-8 pb-6 border-b border-slate-100 dark:border-slate-700">
+							<div class="h-4 w-32 bg-slate-200 dark:bg-slate-600 rounded-full mb-3"></div>
+							<div class="h-8 w-48 bg-teal-100 dark:bg-teal-500/20 rounded-lg"></div>
+						</div>
+						<!-- Fake Bento Grid for Habits -->
+						<div class="p-8 flex-1 bg-slate-50 dark:bg-slate-900/50 flex flex-col gap-4">
+							<div class="h-16 bg-white dark:bg-slate-800/80 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-700 flex items-center px-4 gap-4">
+								<div class="w-8 h-8 rounded-full bg-teal-500 text-white flex items-center justify-center font-bold">✓</div>
+								<div class="flex-1 h-3 bg-slate-200 dark:bg-slate-600 rounded-full"></div>
+							</div>
+							<div class="h-16 bg-white dark:bg-slate-800/80 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-700 flex items-center px-4 gap-4 opacity-80">
+								<div class="w-8 h-8 rounded-full bg-slate-200 dark:bg-slate-600 text-slate-500 flex items-center justify-center font-bold text-xs font-mono">||</div>
+								<div class="flex-1 h-3 bg-slate-200 dark:bg-slate-600 rounded-full"></div>
+								<div class="text-xs font-semibold text-slate-400">Pause</div>
+							</div>
+							<div class="h-16 bg-white dark:bg-slate-800/80 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-700 flex items-center px-4 gap-4 opacity-50">
+								<div class="w-8 h-8 rounded-full bg-orange-100 dark:bg-orange-500/20 text-orange-500 flex items-center justify-center font-bold pb-1">...</div>
+								<div class="flex-1 h-3 bg-slate-200 dark:bg-slate-600 rounded-full"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Anti-Streak Feature Grid (Bento Style) -->
+			<section class="mb-32">
+				<div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+					<div class="footprint-card bg-white dark:bg-slate-800/80 p-10 rounded-[32px] border border-slate-200 dark:border-slate-700 shadow-xl shadow-slate-200/50 dark:shadow-none relative overflow-hidden backdrop-blur-md">
+						<div class="w-16 h-16 bg-orange-100 dark:bg-orange-500/20 text-orange-600 dark:text-orange-400 rounded-2xl flex items-center justify-center mb-6">
+							<svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+						</div>
+						<h3 class="text-3xl font-bold text-slate-900 dark:text-white mb-4">{t('bs.feature1.title')}</h3>
+						<p class="text-lg text-slate-600 dark:text-slate-400 leading-relaxed font-light">{t('bs.feature1.desc')}</p>
+					</div>
+
+					<div class="footprint-card bg-teal-600 dark:bg-teal-700 p-10 rounded-[32px] border border-teal-500 dark:border-teal-600 shadow-xl shadow-teal-600/20 dark:shadow-none text-white relative overflow-hidden">
+						<div class="w-16 h-16 bg-white/20 text-white rounded-2xl flex items-center justify-center mb-6">
+							<svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16"/></svg>
+						</div>
+						<h3 class="text-3xl font-bold mb-4">{t('bs.feature2.title')}</h3>
+						<p class="text-lg text-white/90 leading-relaxed font-light">{t('bs.feature2.desc')}</p>
+						
+						<!-- Decorative background for teal card -->
+						<div class="absolute -bottom-10 -right-10 w-48 h-48 bg-white/10 rounded-full blur-2xl"></div>
+					</div>
+				</div>
+			</section>
+		</main>
+	</div>
 </Layout>

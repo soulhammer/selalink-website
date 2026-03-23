@@ -28,7 +28,18 @@ export const ui = {
     'app.deepmood.supported': 'Korean Only (Currently)',
     'app.deepmood.warning': 'This app currently only supports Korean.',
     'footer.more': 'More App Experiences Dropping Soon',
-    'lang.switcher': 'Language'
+    'lang.switcher': 'Language',
+    
+    // BuildSelf App Subpage
+    'bs.hero.subtitle': 'Your Footprint Matters.',
+    'bs.hero.title': 'Break the cycle. You are already great, you just lacked the right tool.',
+    'bs.hero.cta': 'Download Now',
+    'bs.feature1.title': 'Focus on the Footprint, not the Streak.',
+    'bs.feature1.desc': 'We don\'t punish you for taking a break. A legitimate "Pause" is part of the journey. Keep your data footprint intact without the stress.',
+    'bs.feature2.title': 'Perfect Organizer',
+    'bs.feature2.desc': 'Flexible tag-based mapping. Drag and drop to reorder. Manage everything seamlessly in one place.',
+    'bs.download.appstore': 'App Store',
+    'bs.download.playstore': 'Google Play'
   },
   ko: {
     'nav.darkmode': '다크',
@@ -45,7 +56,18 @@ export const ui = {
     'app.deepmood.supported': '⏳ 현재 한국어 전용 개발 중',
     'app.deepmood.warning': '이 앱은 현재 한국어만 지원합니다.',
     'footer.more': '새로운 앱 경험이 곧 공개됩니다',
-    'lang.switcher': '언어'
+    'lang.switcher': '언어',
+    
+    // BuildSelf App Subpage
+    'bs.hero.subtitle': '당신의 발자국은 위대합니다.',
+    'bs.hero.title': '작심삼일을 깨부수세요. 완벽한 도구 하나만 있으면 달라집니다.',
+    'bs.hero.cta': '지금 다운로드',
+    'bs.feature1.title': '강박에서 벗허난 "휴식"의 철학',
+    'bs.feature1.desc': '연속 달성(Streak)이 끊겼다고 벌하지 않습니다. 진짜 삶에는 합법적인 휴식(Pause)이 필요하니까요. 스트레스 없이 발자국을 남기세요.',
+    'bs.feature2.title': '자유로운 오거나이저',
+    'bs.feature2.desc': '자유로운 태그 매핑과 드래그 앤 드롭 정렬. 내 맘에 쏙 드는 나만의 루틴 페이지를 손쉽게 구성해보세요.',
+    'bs.download.appstore': 'App Store',
+    'bs.download.playstore': 'Google Play'
   },
   ja: {
     'nav.darkmode': 'ダーク',
@@ -62,7 +84,17 @@ export const ui = {
     'app.deepmood.supported': '現在韓国語のみ対応',
     'app.deepmood.warning': 'このアプリは現在韓国語のみ対応しています。',
     'footer.more': '新しいアプリ体験がまもなく公開されます',
-    'lang.switcher': '言語'
+    'lang.switcher': '言語',
+    
+    'bs.hero.subtitle': 'あなたの足跡が重要です。',
+    'bs.hero.title': '三日坊主を終わらせよう。あなたに必要なのは完璧なツールだけ。',
+    'bs.hero.cta': 'ダウンロード',
+    'bs.feature1.title': '「継続」よりも「足跡」を',
+    'bs.feature1.desc': '途切れても罰しません。正当な「休む」権利を認め、ストレスなく足跡を残せます。',
+    'bs.feature2.title': '完璧なオーガナイザー',
+    'bs.feature2.desc': 'タグ付けで柔軟に管理し、ドラッグ＆ドロップで並び替え。すべてを一つに。',
+    'bs.download.appstore': 'App Store',
+    'bs.download.playstore': 'Google Play'
   },
   zh: {
     'nav.darkmode': '深色',
@@ -79,7 +111,17 @@ export const ui = {
     'app.deepmood.supported': '目前仅支持韩语',
     'app.deepmood.warning': '此应用目前仅支持韩语。',
     'footer.more': '更多应用体验即将推出',
-    'lang.switcher': '语言'
+    'lang.switcher': '语言',
+    
+    'bs.hero.subtitle': '你的足迹很重要。',
+    'bs.hero.title': '打破三分钟热度。你已经很棒，只是缺一个完美的工具。',
+    'bs.hero.cta': '立即下载',
+    'bs.feature1.title': '不要强迫打卡，允许休息',
+    'bs.feature1.desc': '我们不会因为中断而惩罚你。合法的“休息”也是旅程的一部分。无压力地记录足迹。',
+    'bs.feature2.title': '完美的组织者',
+    'bs.feature2.desc': '灵活的标签分类，拖放排序。一站式无缝管理所有习惯。',
+    'bs.download.appstore': 'App Store',
+    'bs.download.playstore': 'Google Play'
   },
   es: {
     'nav.darkmode': 'Oscuro',
@@ -96,7 +138,17 @@ export const ui = {
     'app.deepmood.supported': 'Solo Coreano (Actualmente)',
     'app.deepmood.warning': 'Esta aplicación solo soporta coreano.',
     'footer.more': 'Más experiencias pronto',
-    'lang.switcher': 'Idioma'
+    'lang.switcher': 'Idioma',
+    
+    'bs.hero.subtitle': 'Tu huella es importante.',
+    'bs.hero.title': 'Rompe el ciclo. Ya eres increíble, solo te faltaba la herramienta adecuada.',
+    'bs.hero.cta': 'Descargar ahora',
+    'bs.feature1.title': 'Concéntrate en la huella, no en la racha.',
+    'bs.feature1.desc': 'No te castigamos por tomar un descanso. Una "Pausa" es parte del camino.',
+    'bs.feature2.title': 'Organizador Perfecto',
+    'bs.feature2.desc': 'Mapeo flexible basado en etiquetas. Gestiona todo en un solo lugar.',
+    'bs.download.appstore': 'App Store',
+    'bs.download.playstore': 'Google Play'
   },
   fr: {
     'nav.darkmode': 'Sombre',
@@ -113,7 +165,17 @@ export const ui = {
     'app.deepmood.supported': 'Coréen uniquement',
     'app.deepmood.warning': 'Cette application ne supporte que le coréen.',
     'footer.more': 'Plus d\'expériences à venir',
-    'lang.switcher': 'Langue'
+    'lang.switcher': 'Langue',
+    
+    'bs.hero.subtitle': 'Votre empreinte compte.',
+    'bs.hero.title': 'Brisez le cycle. Vous êtes déjà génial, il vous manquait juste le bon outil.',
+    'bs.hero.cta': 'Télécharger',
+    'bs.feature1.title': 'Oubliez la série, regardez l\'empreinte',
+    'bs.feature1.desc': 'Nous ne vous punissons pas pour une pause. Un "Repos" est naturel.',
+    'bs.feature2.title': 'Organisateur Parfait',
+    'bs.feature2.desc': 'Gestion flexible par tags et glisser-déposer intuitif.',
+    'bs.download.appstore': 'App Store',
+    'bs.download.playstore': 'Google Play'
   },
   de: {
     'nav.darkmode': 'Dunkel',
@@ -130,7 +192,17 @@ export const ui = {
     'app.deepmood.supported': 'Derzeit nur auf Koreanisch',
     'app.deepmood.warning': 'Diese App unterstützt derzeit nur Koreanisch.',
     'footer.more': 'Weitere App-Erlebnisse in Kürze',
-    'lang.switcher': 'Sprache'
+    'lang.switcher': 'Sprache',
+    
+    'bs.hero.subtitle': 'Dein Fußabdruck zählt.',
+    'bs.hero.title': 'Brich den Kreislauf. Dir hat nur das richtige Tool gefehlt.',
+    'bs.hero.cta': 'Jetzt herunterladen',
+    'bs.feature1.title': 'Fußabdruck statt Strafen',
+    'bs.feature1.desc': 'Pausen sind erlaubt. Wir bestrafen dich nicht für einen Ruhetag.',
+    'bs.feature2.title': 'Perfekter Organizer',
+    'bs.feature2.desc': 'Flexible Tags und einfaches Drag & Drop für all deine Gewohnheiten.',
+    'bs.download.appstore': 'App Store',
+    'bs.download.playstore': 'Google Play'
   },
   pt: {
     'nav.darkmode': 'Escuro',
@@ -147,7 +219,17 @@ export const ui = {
     'app.deepmood.supported': 'Apenas Coreano',
     'app.deepmood.warning': 'Este aplicativo suporta apenas coreano.',
     'footer.more': 'Mais lançamentos em breve',
-    'lang.switcher': 'Idioma'
+    'lang.switcher': 'Idioma',
+    
+    'bs.hero.subtitle': 'A sua pegada importa.',
+    'bs.hero.title': 'Quebre o ciclo. Só lhe faltava a ferramenta certa.',
+    'bs.hero.cta': 'Baixar Agora',
+    'bs.feature1.title': 'Foco na pegada, não na sequência',
+    'bs.feature1.desc': 'Uma "Pausa" legítima faz parte da jornada sem perder o progresso.',
+    'bs.feature2.title': 'Organizador Perfeito',
+    'bs.feature2.desc': 'Mapeamento flexível de tags. Gerencie tudo num só lugar.',
+    'bs.download.appstore': 'App Store',
+    'bs.download.playstore': 'Google Play'
   },
   id: {
     'nav.darkmode': 'Gelap',
@@ -164,7 +246,17 @@ export const ui = {
     'app.deepmood.supported': 'Hanya Bahasa Korea',
     'app.deepmood.warning': 'Aplikasi ini hanya mendukung bahasa Korea.',
     'footer.more': 'Lebih banyak pengalaman segera hadir',
-    'lang.switcher': 'Bahasa'
+    'lang.switcher': 'Bahasa',
+    
+    'bs.hero.subtitle': 'Jejak langkah Anda penting.',
+    'bs.hero.title': 'Hancurkan siklus menyerah. Anda hanya butuh alat yang tepat.',
+    'bs.hero.cta': 'Unduh Sekarang',
+    'bs.feature1.title': 'Tanpa hukuman beruntun',
+    'bs.feature1.desc': 'Kami tidak menghukum Anda karena istirahat. Jeda adalah bagian dari proses.',
+    'bs.feature2.title': 'Penyelenggara Sempurna',
+    'bs.feature2.desc': 'Sistem tag yang fleksibel. Kelola semuanya di satu tempat dengan mudah.',
+    'bs.download.appstore': 'App Store',
+    'bs.download.playstore': 'Google Play'
   }
 } as const;
 
