@@ -40,6 +40,8 @@ export const ui = {
     'bs.feature2.desc': 'Flexible tag-based mapping. Drag and drop to reorder. Manage everything seamlessly in one place.',
     'bs.download.appstore': 'App Store',
     'bs.download.playstore': 'Google Play',
+    'bs.demo.drink': 'Drink 2L',
+    'bs.demo.complete': 'Habit Complete! 🎉',
 
     // DeepMood App Subpage
     'dm.hero.subtitle': '100% Local AI Emotion Journal',
@@ -58,7 +60,7 @@ export const ui = {
     'app.buildself.title': 'BuildSelf',
     'app.buildself.desc': '작심삼일을 끊어내는 완벽한 루틴 설계자.',
     'app.buildself.status': 'Now Available',
-    'app.buildself.supported': '🔥 9개 국어 완벽 지원',
+    'app.buildself.supported': '9개 국어 완벽 지원',
     'app.deepmood.title': 'DeepMood',
     'app.deepmood.desc': '다중 감정 분석 AI가 기록하는 진짜 당신의 하루.',
     'app.deepmood.status': 'Coming Soon',
@@ -77,6 +79,8 @@ export const ui = {
     'bs.feature2.desc': '자유로운 태그 매핑과 드래그 앤 드롭 정렬. 내 맘에 쏙 드는 나만의 루틴 페이지를 손쉽게 구성해보세요.',
     'bs.download.appstore': 'App Store',
     'bs.download.playstore': 'Google Play',
+    'bs.demo.drink': '물 2L 마시기',
+    'bs.demo.complete': '루틴 달성 완료! 🎉',
 
     // DeepMood App Subpage
     'dm.hero.subtitle': '100% 온디바이스 AI 감정 일기장',
@@ -112,7 +116,9 @@ export const ui = {
     'bs.feature2.title': '完璧なオーガナイザー',
     'bs.feature2.desc': 'タグ付けで柔軟に管理し、ドラッグ＆ドロップで並び替え。すべてを一つに。',
     'bs.download.appstore': 'App Store',
-    'bs.download.playstore': 'Google Play'
+    'bs.download.playstore': 'Google Play',
+    'bs.demo.drink': '水2L飲む',
+    'bs.demo.complete': '習慣達成！ 🎉'
   },
   zh: {
     'nav.darkmode': '深色',
@@ -139,7 +145,9 @@ export const ui = {
     'bs.feature2.title': '完美的组织者',
     'bs.feature2.desc': '灵活的标签分类，拖放排序。一站式无缝管理所有习惯。',
     'bs.download.appstore': 'App Store',
-    'bs.download.playstore': 'Google Play'
+    'bs.download.playstore': 'Google Play',
+    'bs.demo.drink': '喝水2L',
+    'bs.demo.complete': '习惯完成！ 🎉'
   },
   es: {
     'nav.darkmode': 'Oscuro',
@@ -166,7 +174,9 @@ export const ui = {
     'bs.feature2.title': 'Organizador Perfecto',
     'bs.feature2.desc': 'Mapeo flexible basado en etiquetas. Gestiona todo en un solo lugar.',
     'bs.download.appstore': 'App Store',
-    'bs.download.playstore': 'Google Play'
+    'bs.download.playstore': 'Google Play',
+    'bs.demo.drink': 'Beber 2L',
+    'bs.demo.complete': '¡Hábito Completado! 🎉'
   },
   fr: {
     'nav.darkmode': 'Sombre',
@@ -193,7 +203,9 @@ export const ui = {
     'bs.feature2.title': 'Organisateur Parfait',
     'bs.feature2.desc': 'Gestion flexible par tags et glisser-déposer intuitif.',
     'bs.download.appstore': 'App Store',
-    'bs.download.playstore': 'Google Play'
+    'bs.download.playstore': 'Google Play',
+    'bs.demo.drink': 'Boire 2L',
+    'bs.demo.complete': 'Habitude Terminée! 🎉'
   },
   de: {
     'nav.darkmode': 'Dunkel',
@@ -220,7 +232,9 @@ export const ui = {
     'bs.feature2.title': 'Perfekter Organizer',
     'bs.feature2.desc': 'Flexible Tags und einfaches Drag & Drop für all deine Gewohnheiten.',
     'bs.download.appstore': 'App Store',
-    'bs.download.playstore': 'Google Play'
+    'bs.download.playstore': 'Google Play',
+    'bs.demo.drink': '2L Wasser trinken',
+    'bs.demo.complete': 'Gewohnheit Erreicht! 🎉'
   },
   pt: {
     'nav.darkmode': 'Escuro',
@@ -247,7 +261,9 @@ export const ui = {
     'bs.feature2.title': 'Organizador Perfeito',
     'bs.feature2.desc': 'Mapeamento flexível de tags. Gerencie tudo num só lugar.',
     'bs.download.appstore': 'App Store',
-    'bs.download.playstore': 'Google Play'
+    'bs.download.playstore': 'Google Play',
+    'bs.demo.drink': 'Beber 2L de água',
+    'bs.demo.complete': 'Hábito Concluído! 🎉'
   },
   id: {
     'nav.darkmode': 'Gelap',
@@ -274,7 +290,9 @@ export const ui = {
     'bs.feature2.title': 'Penyelenggara Sempurna',
     'bs.feature2.desc': 'Sistem tag yang fleksibel. Kelola semuanya di satu tempat dengan mudah.',
     'bs.download.appstore': 'App Store',
-    'bs.download.playstore': 'Google Play'
+    'bs.download.playstore': 'Google Play',
+    'bs.demo.drink': 'Minum 2L air',
+    'bs.demo.complete': 'Kebiasaan Selesai! 🎉'
   }
 } as const;
 

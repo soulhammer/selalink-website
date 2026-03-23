@@ -57,6 +57,31 @@ const getPathForLang = (targetLang: string) => {
 			return <link rel="alternate" hreflang={code} href={new URL(getPathForLang(code), Astro.site).href.replace(/\/$/, '')} />;
 		})}
 		<link rel="alternate" hreflang="x-default" href={new URL(getPathForLang('en'), Astro.site).href.replace(/\/$/, '')} />
+
+		<!-- AI & Semantic SEO Rules -->
+		<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+		<meta name="author" content="SelaLink Studio" />
+		
+		<!-- Comprehensive JSON-LD Structured Data for AI Search -->
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": ogType === 'software' ? "SoftwareApplication" : "Organization",
+			"name": "SelaLink Studio",
+			"url": "https://selalink.com",
+			...(ogType === 'software' && title.includes('BuildSelf') ? {
+				"applicationCategory": "HealthApplication",
+				"operatingSystem": "iOS, Android",
+				"offers": {
+					"@type": "Offer",
+					"price": "0",
+					"priceCurrency": "USD"
+				}
+			} : {}),
+			"description": description,
+			"sameAs": [
+				"https://play.google.com/store/apps/details?id=com.selalink.buildself"
+			]
+		})} />
 		
 		<style is:global>
 			body {
