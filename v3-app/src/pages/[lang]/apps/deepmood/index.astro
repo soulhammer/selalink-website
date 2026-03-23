@@ -10,7 +10,7 @@ const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 ---
 
-<Layout title={`${t("app.deepmood.title")} | SelaLink Studio`}>
+<Layout title={`${t("app.deepmood.title")} | SelaLink Studio`} lang={lang as string} supportedLanguages={['ko']} forceTheme="dark">
   <main class="w-full bg-[#1C1917] min-h-screen font-sans text-[#FAFAF9] overflow-hidden">
     <!-- Fluid Gradient Ambient Background -->
     <div class="fixed inset-0 z-0 opacity-40 pointer-events-none">

@@ -6,9 +6,22 @@ interface Props {
 	title: string;
 	lang: string;
 	description?: string;
+	supportedLanguages?: string[];
+	forceTheme?: 'dark' | 'light';
 }
 
-const { title, lang, description = "SelaLink Global App Studio" } = Astro.props;
+const { title, lang, description = "SelaLink Global App Studio", supportedLanguages, forceTheme } = Astro.props;
+
+const currentPath = Astro.url.pathname;
+const getPathForLang = (targetLang: string) => {
+    // Current path usually starts with /lang/ (e.g. /ko/apps/buildself)
+    const regex = new RegExp(`^/${lang}(/|$)`);
+    if (regex.test(currentPath)) {
+        return currentPath.replace(regex, `/${targetLang}$1`);
+    } else {
+        return `/${targetLang}${currentPath}`;
+    }
+};
 ---
 <!doctype html>
 <html lang={lang} class="dark">
@@ -83,8 +96,9 @@ const { title, lang, description = "SelaLink Global App Studio" } = Astro.props;
 			}
 		</style>
 		
-		<script is:inline>
+		<script is:inline define:vars={{ forceTheme }}>
 			const theme = (() => {
+				if (forceTheme) return forceTheme;
 				if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
 					return localStorage.getItem('theme');
 				}
@@ -98,7 +112,9 @@ const { title, lang, description = "SelaLink Global App Studio" } = Astro.props;
 			} else {
 				document.documentElement.classList.add('dark');
 			}
-			window.localStorage.setItem('theme', theme);
+			if (!forceTheme) {
+				window.localStorage.setItem('theme', theme);
+			}
 		</script>
 	</head>
 	<body class="antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black">
@@ -112,18 +128,33 @@ const { title, lang, description = "SelaLink Global App Studio" } = Astro.props;
 						{lang} ▼
 					</button>
 					<div id="langMenu" class="absolute right-0 top-full mt-2 w-48 bg-white dark:bg-slate-800 rounded-xl shadow-xl flex flex-col py-2 opacity-0 invisible transition-all transform origin-top-right scale-95 z-50 pointer-events-none">
-						{Object.entries(languages).map(([code, label]) => (
-							<a href={`/${code}`} class="px-4 py-2 text-sm text-slate-800 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors">
-								{code.toUpperCase()} - {label}
-							</a>
-						))}
+						{Object.entries(languages).map(([code, label]) => {
+							const isSupported = !supportedLanguages || supportedLanguages.includes(code);
+							
+							if (!isSupported) {
+								return (
+									<div class="px-4 py-2 text-sm text-slate-400 dark:text-slate-500 cursor-not-allowed flex justify-between items-center group">
+										<span>{code.toUpperCase()} - {label}</span>
+										<span class="text-[10px] hidden group-hover:inline-block text-red-500/80 font-bold uppercase tracking-wider">Only {supportedLanguages.join(', ').toUpperCase()}</span>
+									</div>
+								);
+							}
+
+							return (
+								<a href={getPathForLang(code)} class="px-4 py-2 text-sm text-slate-800 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors">
+									{code.toUpperCase()} - {label}
+								</a>
+							);
+						})}
 					</div>
 				</div>
 				<!-- Theme Toggle -->
-				<button id="themeToggle" class="w-10 h-10 rounded-full flex items-center justify-center bg-slate-200 dark:bg-slate-800 hover:scale-110 transition-transform">
-					<span class="dark:hidden">🌙</span>
-					<span class="hidden dark:block">☀️</span>
-				</button>
+				{!forceTheme && (
+					<button id="themeToggle" class="w-10 h-10 rounded-full flex items-center justify-center bg-slate-200 dark:bg-slate-800 hover:scale-110 transition-transform">
+						<span class="dark:hidden">🌙</span>
+						<span class="hidden dark:block">☀️</span>
+					</button>
+				)}
 			</div>
 		</header>
 		
