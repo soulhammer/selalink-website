@@ -7,7 +7,9 @@ export function getStaticPaths() {
 }
 
 const { lang } = Astro.params;
-const t = useTranslations(lang as keyof typeof languages);
+// Force DeepMood to always render Korean strings regardless of URL path
+const contentLang = 'ko';
+const t = useTranslations(contentLang);
 ---
 
 <Layout
