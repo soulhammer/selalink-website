@@ -42,6 +42,9 @@ export const ui = {
     'bs.download.playstore': 'Google Play',
     'bs.demo.drink': 'Drink 2L',
     'bs.demo.complete': 'Habit Complete! 🎉',
+    'bs.shorts.story': 'Highlights',
+    'bs.shorts.gallery.title': 'See it in Action',
+    'bs.shorts.gallery.desc': 'Discover how BuildSelf changes daily routines.',
 
     // DeepMood App Subpage
     'dm.hero.subtitle': '100% Local AI Emotion Journal',
@@ -81,6 +84,9 @@ export const ui = {
     'bs.download.playstore': 'Google Play',
     'bs.demo.drink': '물 2L 마시기',
     'bs.demo.complete': '루틴 달성 완료! 🎉',
+    'bs.shorts.story': '하이라이트',
+    'bs.shorts.gallery.title': '모든 활용 사례',
+    'bs.shorts.gallery.desc': 'BuildSelf가 일상의 루틴을 완벽하게 관리하는 방법을 확인하세요.',
 
     // DeepMood App Subpage
     'dm.hero.subtitle': '100% 온디바이스 AI 감정 일기장',

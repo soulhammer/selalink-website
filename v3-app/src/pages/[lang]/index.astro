@@ -1,6 +1,8 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import { useTranslations, languages } from '../../i18n/ui';
+import AppStories from '../../components/AppStories.astro';
+import ShortsPlayerModal from '../../components/ShortsPlayerModal.astro';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -17,6 +19,9 @@ const t = useTranslations(lang as keyof typeof languages);
 			<h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-black tracking-tighter leading-[1.15] md:leading-[1.1] mb-4 md:mb-6 whitespace-pre-wrap text-slate-900 dark:text-white">{t('hero.title')}</h1>
 			<p class="text-lg md:text-xl lg:text-2xl text-slate-500 font-light tracking-tight max-w-2xl mx-auto md:mx-0">{t('hero.desc')}</p>
 		</section>
+
+		<!-- Dynamic App Stories (Full Screen Shorts Hook) -->
+		<AppStories lang={lang} />
 
 		<!-- Bento Grid 2.0 -->
 		<section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-[350px]">
@@ -113,4 +118,5 @@ const t = useTranslations(lang as keyof typeof languages);
 			<a href="#" class="hover:text-slate-800 dark:hover:text-slate-300">Privacy & Terms</a>
 		</footer>
 	</main>
+	<ShortsPlayerModal lang={lang} />
 </Layout>
