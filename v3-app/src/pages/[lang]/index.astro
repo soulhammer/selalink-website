@@ -11,7 +11,7 @@ export function getStaticPaths() {
 const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 ---
-<Layout title={`SelaLink Studio | ${t('hero.title')}`} lang={lang} image="/assets/images/og/selalink_studio.png">
+<Layout title={`SelaLink Studio | ${t('hero.title')}`} description={t('hero.meta.desc')} lang={lang} image="/assets/images/og/selalink_studio.png">
 	<main class="max-w-[1400px] mx-auto px-6 py-8 min-h-screen">
 		
 		<!-- Hero -->

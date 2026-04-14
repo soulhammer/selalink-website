@@ -11,7 +11,7 @@ export function getStaticPaths() {
 const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 ---
-<Layout title={`BuildSelf - ${languages[lang]}`} lang={lang} description={t('app.buildself.desc')} ogType="software" image="/assets/images/og/buildself.png">
+<Layout title={t('app.buildself.meta.title')} lang={lang} description={t('app.buildself.desc')} ogType="software" image="/assets/images/og/buildself.png">
 	<!-- Override default dark bg constraint if we want this page uniquely themed -->
 	<style>
 		:root {
