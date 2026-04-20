@@ -33,16 +33,16 @@ const mentors = [
   </div>
 
   <!-- Background Gradients -->
-  <div class="absolute top-1/2 left-0 -translate-y-1/2 w-64 h-full bg-gradient-to-r from-slate-50 dark:from-slate-900 to-transparent z-10 pointer-events-none"></div>
-  <div class="absolute top-1/2 right-0 -translate-y-1/2 w-64 h-full bg-gradient-to-l from-slate-50 dark:from-slate-900 to-transparent z-10 pointer-events-none"></div>
+  <div class="absolute top-1/2 left-0 -translate-y-1/2 w-12 md:w-32 lg:w-64 h-full bg-gradient-to-r from-slate-50 dark:from-slate-900 to-transparent z-10 pointer-events-none transition-all"></div>
+  <div class="absolute top-1/2 right-0 -translate-y-1/2 w-12 md:w-32 lg:w-64 h-full bg-gradient-to-l from-slate-50 dark:from-slate-900 to-transparent z-10 pointer-events-none transition-all"></div>
 
   <!-- Infinite Marquee Track -->
   <div class="flex marquee-container gap-6 md:gap-10 w-max hover:[&>div]:animation-play-state-paused">
     <!-- First Batch -->
     <div class="flex animate-marquee gap-6 md:gap-10 whitespace-nowrap">
       {mentors.map((src, index) => (
-        <div class="relative group cursor-pointer perspective-[1000px] shrink-0">
-          <div class="w-[220px] md:w-[280px] aspect-[9/19.5] rounded-[2.5rem] bg-slate-200/50 dark:bg-slate-800/50 p-1.5 md:p-2 border-2 border-slate-300/50 dark:border-white/10 backdrop-blur-md shadow-2xl transition-all duration-500 transform group-hover:scale-[1.03] group-hover:rotate-y-[-5deg] group-hover:-translate-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.1)] group-hover:shadow-[0_20px_50px_rgba(13,148,136,0.2)] dark:group-hover:shadow-[0_20px_50px_rgba(20,184,166,0.3)]">
+        <div class="relative group perspective-[1000px] shrink-0">
+          <div class="w-[220px] md:w-[280px] aspect-[9/19.5] rounded-[2.5rem] bg-slate-200/50 dark:bg-slate-800/50 p-1.5 md:p-2 border-2 border-slate-300/50 dark:border-white/10 backdrop-blur-md shadow-2xl transition-all duration-500 transform lg:group-hover:scale-[1.03] lg:group-hover:rotate-y-[-5deg] lg:group-hover:-translate-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.1)] lg:group-hover:shadow-[0_20px_50px_rgba(13,148,136,0.2)] dark:lg:group-hover:shadow-[0_20px_50px_rgba(20,184,166,0.3)]">
             <img src={src} alt={`Mentor Screen ${index + 1}`} class="w-full h-full object-cover rounded-[2.1rem] md:rounded-[2.2rem] shadow-inner" loading="lazy" />
             <!-- Reflection layer -->
             <div class="absolute inset-x-2 top-2 h-[40%] bg-gradient-to-b from-white/30 to-transparent rounded-t-[2rem] pointer-events-none"></div>
@@ -53,8 +53,8 @@ const mentors = [
     <!-- Duplicated Batch for Seamless Infinite Scroll -->
     <div class="flex animate-marquee gap-6 md:gap-10 whitespace-nowrap" aria-hidden="true">
       {mentors.map((src, index) => (
-        <div class="relative group cursor-pointer perspective-[1000px] shrink-0">
-          <div class="w-[220px] md:w-[280px] aspect-[9/19.5] rounded-[2.5rem] bg-slate-200/50 dark:bg-slate-800/50 p-1.5 md:p-2 border-2 border-slate-300/50 dark:border-white/10 backdrop-blur-md shadow-2xl transition-all duration-500 transform group-hover:scale-[1.03] group-hover:rotate-y-[-5deg] group-hover:-translate-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.1)] group-hover:shadow-[0_20px_50px_rgba(13,148,136,0.2)] dark:group-hover:shadow-[0_20px_50px_rgba(20,184,166,0.3)]">
+        <div class="relative group perspective-[1000px] shrink-0">
+          <div class="w-[220px] md:w-[280px] aspect-[9/19.5] rounded-[2.5rem] bg-slate-200/50 dark:bg-slate-800/50 p-1.5 md:p-2 border-2 border-slate-300/50 dark:border-white/10 backdrop-blur-md shadow-2xl transition-all duration-500 transform lg:group-hover:scale-[1.03] lg:group-hover:rotate-y-[-5deg] lg:group-hover:-translate-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.1)] lg:group-hover:shadow-[0_20px_50px_rgba(13,148,136,0.2)] dark:lg:group-hover:shadow-[0_20px_50px_rgba(20,184,166,0.3)]">
             <img src={src} alt={`Mentor Screen ${index + 1}`} class="w-full h-full object-cover rounded-[2.1rem] md:rounded-[2.2rem] shadow-inner" loading="lazy" />
             <!-- Reflection layer -->
             <div class="absolute inset-x-2 top-2 h-[40%] bg-gradient-to-b from-white/30 to-transparent rounded-t-[2rem] pointer-events-none"></div>
@@ -69,8 +69,10 @@ const mentors = [
   .animate-marquee {
     animation: marquee 40s linear infinite;
   }
-  .marquee-container:hover .animate-marquee {
-    animation-play-state: paused;
+  @media (hover: hover) and (pointer: fine) {
+    .marquee-container:hover .animate-marquee {
+      animation-play-state: paused;
+    }
   }
   @keyframes marquee {
     0% { transform: translateX(0); }
