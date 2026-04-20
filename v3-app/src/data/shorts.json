@@ -1,17 +1,42 @@
 {
   "buildself": {
     "ko": [
-      { "id": "ned3O6w2MuQ" },
-      { "id": "Sw7sVOEAYHs" },
-      { "id": "pqM_HdsnCn8" },
-      { "id": "9uKCv7awsIo" },
-      { "id": "J_ugQasOAWw" }
+      { "id": "rjODnGVjEhQ", "mentorId": "lincoln" },
+      { "id": "J_ugQasOAWw", "mentorId": "franklin" },
+      { "id": "5OF6APWwfA4", "mentorId": "nightingale" },
+      { "id": "Sw7sVOEAYHs", "mentorId": "kant" },
+      { "id": "9uKCv7awsIo", "mentorId": "newton" },
+      { "id": "ned3O6w2MuQ", "mentorId": "beethoven" },
+      { "id": "GdpuJIAgjns", "mentorId": "michelangelo" },
+      { "id": "pqM_HdsnCn8", "mentorId": "tesla" },
+      { "id": "hQkiNTtVHWA", "mentorId": "edison" },
+      { "id": "GABnvnM0L9c", "mentorId": "curie" },
+      { "id": "JtLag0HNabU", "mentorId": "kim_mandeok" },
+      { "id": "zno9kmfynpQ", "mentorId": "keller" },
+      { "id": "8BYWxK6SUxQ", "mentorId": "tubman" },
+      { "id": "ztXsyZIsf3c", "mentorId": "saimdang" },
+      { "id": "C7yleONE6uU", "mentorId": "diogenes" },
+      { "id": "7WVXAQFAFrU", "mentorId": "jeong_yakyong" },
+      { "id": "G5EsMUBG6t4", "mentorId": "davinci" }
     ],
     "en": [
-      { "id": "H4wjD4fd2uc" },
-      { "id": "hud1Ql4x84o" },
-      { "id": "2A8tB07LMxg" },
-      { "id": "NPxgbRE_Jcg" }
+      { "id": "AEuo1ZThi9s", "mentorId": "lincoln" },
+      { "id": "JGGVBApmD3U", "mentorId": "franklin" },
+      { "id": "PLU8SiXD3UA", "mentorId": "nightingale" },
+      { "id": "2A8tB07LMxg", "mentorId": "kant" },
+      { "id": "H4wjD4fd2uc", "mentorId": "newton" },
+      { "id": "NPxgbRE_Jcg", "mentorId": "beethoven" },
+      { "id": "lTzavX3Ou_k", "mentorId": "michelangelo" },
+      { "id": "hud1Ql4x84o", "mentorId": "tesla" },
+      { "id": "ZKNSwf_8fu0", "mentorId": "edison" },
+      { "id": "OH5vBuQl5oc", "mentorId": "curie" },
+      { "id": "Gp0-xLUiuNw", "mentorId": "kim_mandeok" },
+      { "id": "ma0AOOPoj98", "mentorId": "keller" },
+      { "id": "ACQ40M7-jUI", "mentorId": "tubman" },
+      { "id": "PetTpZINvtY", "mentorId": "saimdang" },
+      { "id": "KITrM4CYLa0", "mentorId": "diogenes" },
+      { "id": "zBq29EUtLjA", "mentorId": "jeong_yakyong" },
+      { "id": "elwpj7WmHKY", "mentorId": "davinci" }
     ]
   }
 }

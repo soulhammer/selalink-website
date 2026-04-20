@@ -33,11 +33,19 @@ const availableShorts = shortsData.buildself[lang] || shortsData.buildself['en']
           onerror={`this.onerror=null; this.src='https://img.youtube.com/vi/${short.id}/hqdefault.jpg';`}
         />
         <!-- 그라데이션 오버레이 및 플레이 버튼 -->
-        <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent flex flex-col justify-end p-6 z-20">
-          <div class="w-14 h-14 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white border border-white/50 group-hover:bg-teal-500 group-hover:border-teal-400 transition-all duration-300 self-center mb-10 shadow-2xl group-hover:shadow-[0_0_40px_rgba(20,184,166,0.6)]">
+        <div class="absolute inset-0 bg-gradient-to-t from-black/95 via-black/40 to-transparent flex flex-col justify-end p-6 z-20 transition-all duration-500">
+          <div class="w-14 h-14 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white border border-white/50 group-hover:bg-teal-500 group-hover:border-teal-400 transition-all duration-300 self-center mb-6 shadow-2xl group-hover:shadow-[0_0_40px_rgba(20,184,166,0.6)] transform group-hover:-translate-y-2">
             <svg class="w-6 h-6 translate-x-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
           </div>
-          <span class="text-white text-xs md:text-sm font-bold tracking-widest uppercase opacity-70 group-hover:opacity-100 transition-opacity text-center mt-auto pb-4">Play Short</span>
+          
+          <div class="flex flex-col items-center mt-auto transform transition-transform duration-500 group-hover:-translate-y-1">
+            <span class="text-white font-black text-2xl drop-shadow-lg tracking-tight text-center">
+              {t(`bs.mentor.${short.mentorId}.short`)}
+            </span>
+            <span class="text-white/60 text-xs tracking-widest mt-1.5 font-medium line-clamp-1 text-center px-1">
+              {t(`bs.mentor.${short.mentorId}.full`)}
+            </span>
+          </div>
         </div>
       </button>
     ))}

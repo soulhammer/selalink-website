@@ -1,0 +1,79 @@
+---
+import { useTranslations } from '../i18n/ui';
+
+export interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+// @ts-ignore
+const t = useTranslations(lang);
+
+// 8 Mentor Images
+const mentors = [
+  '/assets/images/1_buildself_phone_screen.jpeg',
+  '/assets/images/2_buildself_phone_screen.jpeg',
+  '/assets/images/3_buildself_phone_screen.jpeg',
+  '/assets/images/4_buildself_phone_screen.jpeg',
+  '/assets/images/5_buildself_phone_screen.jpeg',
+  '/assets/images/6_buildself_phone_screen.jpeg',
+  '/assets/images/7_buildself_phone_screen.jpeg',
+  '/assets/images/8_buildself_phone_screen.jpeg',
+];
+---
+<section class="py-20 md:py-32 overflow-hidden relative border-y border-slate-200/50 dark:border-white/5 bg-slate-50/50 dark:bg-black/20 backdrop-blur-3xl my-16">
+  
+  <div class="max-w-[1240px] mx-auto px-6 mb-12 md:mb-16 relative z-10 text-center">
+    <div class="inline-flex items-center px-4 py-2 rounded-full bg-teal-50 dark:bg-teal-500/10 border border-teal-200 dark:border-teal-500/30 shadow-sm mx-auto mb-6">
+      <span class="w-2 h-2 rounded-full bg-teal-500 animate-pulse mr-2"></span>
+      <span class="font-bold text-teal-700 dark:text-teal-400 text-sm tracking-tight">Mentors Library</span>
+    </div>
+    <h2 class="text-3xl md:text-5xl font-black text-slate-900 dark:text-white mb-4 tracking-tight drop-shadow-sm">{t('bs.mentors.title')}</h2>
+    <p class="text-lg md:text-xl text-slate-500 dark:text-slate-400 font-medium max-w-2xl mx-auto">{t('bs.mentors.desc')}</p>
+  </div>
+
+  <!-- Background Gradients -->
+  <div class="absolute top-1/2 left-0 -translate-y-1/2 w-64 h-full bg-gradient-to-r from-slate-50 dark:from-slate-900 to-transparent z-10 pointer-events-none"></div>
+  <div class="absolute top-1/2 right-0 -translate-y-1/2 w-64 h-full bg-gradient-to-l from-slate-50 dark:from-slate-900 to-transparent z-10 pointer-events-none"></div>
+
+  <!-- Infinite Marquee Track -->
+  <div class="flex marquee-container gap-6 md:gap-10 w-max hover:[&>div]:animation-play-state-paused">
+    <!-- First Batch -->
+    <div class="flex animate-marquee gap-6 md:gap-10 whitespace-nowrap">
+      {mentors.map((src, index) => (
+        <div class="relative group cursor-pointer perspective-[1000px] shrink-0">
+          <div class="w-[220px] md:w-[280px] aspect-[9/19.5] rounded-[2.5rem] bg-slate-200/50 dark:bg-slate-800/50 p-1.5 md:p-2 border-2 border-slate-300/50 dark:border-white/10 backdrop-blur-md shadow-2xl transition-all duration-500 transform group-hover:scale-[1.03] group-hover:rotate-y-[-5deg] group-hover:-translate-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.1)] group-hover:shadow-[0_20px_50px_rgba(13,148,136,0.2)] dark:group-hover:shadow-[0_20px_50px_rgba(20,184,166,0.3)]">
+            <img src={src} alt={`Mentor Screen ${index + 1}`} class="w-full h-full object-cover rounded-[2.1rem] md:rounded-[2.2rem] shadow-inner" loading="lazy" />
+            <!-- Reflection layer -->
+            <div class="absolute inset-x-2 top-2 h-[40%] bg-gradient-to-b from-white/30 to-transparent rounded-t-[2rem] pointer-events-none"></div>
+          </div>
+        </div>
+      ))}
+    </div>
+    <!-- Duplicated Batch for Seamless Infinite Scroll -->
+    <div class="flex animate-marquee gap-6 md:gap-10 whitespace-nowrap" aria-hidden="true">
+      {mentors.map((src, index) => (
+        <div class="relative group cursor-pointer perspective-[1000px] shrink-0">
+          <div class="w-[220px] md:w-[280px] aspect-[9/19.5] rounded-[2.5rem] bg-slate-200/50 dark:bg-slate-800/50 p-1.5 md:p-2 border-2 border-slate-300/50 dark:border-white/10 backdrop-blur-md shadow-2xl transition-all duration-500 transform group-hover:scale-[1.03] group-hover:rotate-y-[-5deg] group-hover:-translate-y-4 shadow-[0_10px_30px_rgba(0,0,0,0.1)] group-hover:shadow-[0_20px_50px_rgba(13,148,136,0.2)] dark:group-hover:shadow-[0_20px_50px_rgba(20,184,166,0.3)]">
+            <img src={src} alt={`Mentor Screen ${index + 1}`} class="w-full h-full object-cover rounded-[2.1rem] md:rounded-[2.2rem] shadow-inner" loading="lazy" />
+            <!-- Reflection layer -->
+            <div class="absolute inset-x-2 top-2 h-[40%] bg-gradient-to-b from-white/30 to-transparent rounded-t-[2rem] pointer-events-none"></div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .animate-marquee {
+    animation: marquee 40s linear infinite;
+  }
+  .marquee-container:hover .animate-marquee {
+    animation-play-state: paused;
+  }
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
+</style>
