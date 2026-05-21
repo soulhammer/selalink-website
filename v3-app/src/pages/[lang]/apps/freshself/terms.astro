@@ -1,0 +1,143 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import { useTranslations, languages } from '../../../../i18n/ui';
+
+export function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+const t = useTranslations(lang as keyof typeof languages);
+
+const isKo = lang === 'ko';
+const title = isKo ? '서비스 이용약관' : 'Terms of Service';
+---
+
+<Layout title={`${title} | FreshSelf`} lang={lang as string}>
+  <main class="w-full bg-[#FAFAF9] dark:bg-[#1C1917] min-h-screen font-sans text-stone-900 dark:text-[#FAFAF9] pt-32 pb-24 px-6 transition-colors duration-500">
+    <div class="max-w-3xl mx-auto flex flex-col items-start gap-8">
+      <a href={`/${lang}/`} class="group inline-flex items-center space-x-2 text-emerald-600 dark:text-[#059669] hover:text-emerald-800 dark:hover:text-[#10B981] transition-colors duration-300">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="group-hover:-translate-x-1 transition-transform">
+          <path d="m15 18-6-6 6-6"/>
+        </svg>
+        <span class="text-sm font-medium tracking-wide">Back to Home</span>
+      </a>
+      
+      <h1 class="text-3xl md:text-5xl font-serif text-stone-900 dark:text-white" style="font-family: 'Bodoni Moda', serif;">
+        {title}
+      </h1>
+      
+      <div class="w-full h-px bg-stone-200 dark:bg-stone-800 mt-4 mb-4"></div>
+      
+      <div class="prose prose-stone dark:prose-invert max-w-none w-full text-stone-600 dark:text-stone-300 leading-relaxed font-light text-[0.95rem]">
+        {isKo ? (
+          <Fragment set:html={`<p>본 서비스 이용약관은 SelaLink(이하 "서비스 제공자")가 부분 유료화(Freemium) 서비스로 개발한 모바일 애플리케이션 FreshSelf(이하 "애플리케이션")의 이용 조건과 회원 간 권리 및 의무 관계를 규정합니다.</p><br>
+    
+    <p>애플리케이션을 다운로드하여 소셜 로그인을 통해 계정을 생성하거나 사용함으로써, 귀하는 자동으로 본 서비스 약관에 동의하게 됩니다. 서비스를 이용하시기 전에 본 약관을 주의 깊게 읽고 충분히 이해해 주시기 바랍니다.</p><br>
+    
+    <strong>1. 지적 재산권 및 라이선스</strong>
+    <p>애플리케이션의 소스 코드, 디자인, 로고, 캐릭터, 상표, 데이터베이스 권리 등 서비스 전반에 대한 모든 지적 재산권은 서비스 제공자의 독점적 자산입니다. 사용자는 서비스를 모바일 기기에서 비상업적인 목적으로만 다운로드하고 이용할 수 있는 양도 불가능한 개인용 라이선스를 부여받습니다. 애플리케이션의 일부를 임의로 복사, 수정, 소스 코드 추출, 다른 언어로의 번역 또는 파생 버전 제작 시도는 저작권법에 의해 엄격히 금지됩니다.</p><br>
+    
+    <strong>2. 계정 및 동기화 보안</strong>
+    <p>본 애플리케이션은 Supabase 클라우드 데이터베이스 및 소셜 인증(카카오 등)을 바탕으로 동기화 기능을 제공합니다. 소셜 로그인 연동 계정 및 기기의 보안을 안전하게 유지할 책임은 전적으로 회원 본인에게 있습니다. 탈옥(jailbreaking) 또는 루팅(rooting)된 단말기에서의 이용은 보안 우려 및 오작동 가능성으로 인해 권장하지 않으며, 이로 인해 발생한 데이터 노출이나 서비스 에러에 대해 서비스 제공자는 책임을 지지 않습니다.</p><br>
+    
+    <strong>3. 이용 한도 및 요금 정책 (Freemium Quota)</strong>
+    <p>귀하는 애플리케이션을 무료로 이용하거나, 프리미엄 정기 구독(Premium Subscription) 상품을 구매하여 서비스 한도를 확장할 수 있습니다.</p>
+    <ul>
+        <li><strong>무료 (Basic) 플랜:</strong> 가벼운 관리를 원하는 사용자를 위한 등급입니다.
+            <ul>
+                <li>생성 가능한 공유/개인 공간(Space)은 최대 <strong>2개</strong>로 제한됩니다.</li>
+                <li>생성 및 보유할 수 있는 아이템은 최대 <strong>50개</strong>로 제한됩니다.</li>
+                <li>한도 도달 시 공간이나 아이템을 데이터베이스에서 '영구 삭제(Hard Delete)'하여 무료 슬롯을 반환해야 새 아이템을 등록할 수 있습니다. (소비/폐기 상태 정보는 버려지지 않고 보존되어 계속 누적 집계됩니다.)</li>
+            </ul>
+        </li>
+        <li><strong>프리미엄 (Premium) 플랜:</strong> 대규모 정리 및 가족 공유를 원하는 유저를 위한 정기 결제 플랜입니다.
+            <ul>
+                <li>무제한 공간 생성, 무제한 아이템 생성, 무제한 공간 공유 인원 및 과거 소비 히스토리의 평생 보존 한도를 제공합니다.</li>
+            </ul>
+        </li>
+        <li><strong>작성자(Actor) 과금 원칙:</strong> 무료 사용자가 타인(프리미엄 회원 등)이 소유한 공유 공간에 참가하더라도, **해당 공간에서 본인이 직접 생성(created_by)한 아이템은 본인의 무료 50개 한도 슬롯에서 차감**됩니다. 이를 통해 한도 세탁 꼼수가 차단되며, 공정하게 한도가 차감됩니다.</li>
+    </ul>
+    <br>
+    
+    <strong>4. 정기 구독 및 결제</strong>
+    <p>프리미엄 구독 요금은 구글 플레이 스토어 인앱 결제망을 통해 청구됩니다. 구독은 만료 24시간 전에 직접 취소하지 않는 한 동일한 요금과 주기로 자동 갱신됩니다. 구독 결제 관리, 정기 결제 해지 및 환불 처리는 모두 구글 플레이 스토어의 결제 관리 규정과 약관에 따릅니다.</p><br>
+    
+    <strong>5. 구독 만료 시의 서비스 제한 정책 (Create-Only Lock)</strong>
+    <p>프리미엄 구독 회원이 구독을 취소하여 무료 플랜 상태로 돌아간 경우, 사용자의 소중한 기존 데이터를 임의로 지우거나 제한하지 않습니다.
+        <ul>
+            <li><strong>허용 범주:</strong> 기존 공간 및 수백 개의 아이템에 대한 조회(R), 상세 정보 수정 및 폐기/소비 상태 처리(U), 영구 삭제(D) 기능은 무조건 100% 정상 작동하며 유지됩니다.</li>
+            <li><strong>차단 범주:</strong> 현재 등록된 아이템/공간의 총 개수가 무료 한도를 초과해 있는 동안에는 **새로운 공간 생성 및 새 아이템 생성(C)** 행동만 차단되며, 생성 탭에서 결제창이 팝업됩니다.</li>
+        </ul>
+    </p><br>
+    
+    <strong>6. 회원 탈퇴 및 공간 영구 삭제 (CASCADE)</strong>
+    <p>공간 소유자(소유 권한을 가진 사용자)가 공간을 영구 삭제하거나 회원 탈퇴를 하는 경우, 해당 공간과 공간에 소속되어 있던 다른 멤버의 아이템 및 관련 소비 기록들은 데이터 정합성을 위해 데이터베이스에서 **연쇄 영구 삭제(CASCADE)**되어 영구히 복구할 수 없게 됩니다. 공간 삭제 또는 탈퇴 시 이와 관련된 데이터 손실 위험을 사전에 인지하고 동의한 것으로 간주합니다.</p><br>
+    
+    <strong>7. 책임 및 서비스 이용 제한</strong>
+    <p>인터넷 네트워크 미연결, 데이터 요금제 소진, 모바일 기기의 배터리 방전 등으로 인해 서비스 작동이 일부 중단되는 현상에 대해 서비스 제공자는 민형사상 책임을 지지 않습니다. 또한 서비스 제공자는 예기치 않은 서버 유지보수, 보안 이슈, 또는 비즈니스 의사결정에 따라 사전 종료 통지 없이 애플리케이션의 공급을 일시 중단하거나 종료할 수 있습니다.</p><br>
+    
+    <strong>8. 약관의 변경 및 효력</strong>
+    <p>서비스 제공자는 수시로 본 서비스 약관을 업데이트할 권리를 가집니다. 약관 변경 시 본 약관 페이지에 게시함으로써 개정 통지를 대신합니다. 계속해서 애플리케이션을 이용하시는 행위는 개정된 약관에 완전히 동의한 것으로 봅니다.</p>
+    <p>본 서비스 약관은 2026년 5월 21일부터 효력이 발생합니다.</p><br>
+    
+    <strong>9. 연락처</strong>
+    <p>서비스 약관에 대한 의문점, 건의 또는 이의 신청이 있으시면 언제든지 support@selalink.net 으로 이메일을 보내 주시기 바랍니다.</p>`} />
+        ) : (
+          <Fragment set:html={`<p>These terms and conditions apply to the FreshSelf mobile application (hereby referred to as "Application") developed by SelaLink (hereby referred to as "Service Provider") as a Freemium service.</p><br>
+    
+    <p>By downloading, creating an account via social login, or using the Application, you automatically agree to these terms. It is strongly advised that you read and understand these terms thoroughly prior to using the Application.</p><br>
+    
+    <strong>1. Intellectual Property & License</strong>
+    <p>All source code, designs, logos, trademarks, database rights, and other intellectual property rights related to the Application remain the exclusive property of the Service Provider. Users are granted a non-transferable, personal license to download and use the Application for non-commercial purposes on mobile devices. Any unauthorized copying, modification of the Application, extracting the source code, translating into other languages, or creating derivative works is strictly prohibited by copyright laws.</p><br>
+    
+    <strong>2. Account Security & Synchronization</strong>
+    <p>The Application utilizes Supabase cloud databases and social login (such as Kakao) for real-time synchronization. It is your sole responsibility to maintain the security of your social login account and your mobile device. Using jailbroken or rooted devices is highly discouraged due to security and stability risks. The Service Provider is not liable for data exposure or system errors arising from compromised devices.</p><br>
+    
+    <strong>3. Quota & Billing Policies (Freemium Limits)</strong>
+    <p>You can use the Application for free under the Basic Plan, or purchase a Premium Subscription to unlock extended features and higher quotas.</p>
+    <ul>
+        <li><strong>Basic Plan (Free):</strong> Tailored for users looking for casual organization.
+            <ul>
+                <li>Limited to a maximum of <strong>2 Spaces</strong> (shared or personal).</li>
+                <li>Limited to a maximum of <strong>50 Items</strong>.</li>
+                <li>Upon reaching the limit, you must permanently delete (Hard Delete) items or spaces to free up slots. (Consumed or disposed item histories continue to count towards the limits as part of lifetime records.)</li>
+            </ul>
+        </li>
+        <li><strong>Premium Plan (Paid Subscription):</strong> A recurring subscription designed for family sharing and large inventories.
+            <ul>
+                <li>Unlocks unlimited spaces, unlimited items, unlimited member sharing, and permanent lifetime retention of consumed history.</li>
+            </ul>
+        </li>
+        <li><strong>Actor-Based Billing Principle:</strong> Even if a free user joins a shared space owned by a Premium user, **any items directly created (created_by) by the free user count against their own 50-item Basic limit**. This ensures fairness and prevents bypass strategies.</li>
+    </ul>
+    <br>
+    
+    <strong>4. Subscription Billing</strong>
+    <p>Premium Subscription fees are billed through the Google Play Store billing service. Subscriptions auto-renew at the same rate and frequency unless canceled at least 24 hours prior to the end of the billing period. Subscription management, cancellations, and refunds are subject to the official terms and billing regulations of the Google Play Store.</p><br>
+    
+    <strong>5. Subscription Expiration Policy (Create-Only Lock)</strong>
+    <p>If a Premium subscription expires and the user reverts to the Basic Plan, we do not delete or restrict access to their existing data.
+        <ul>
+            <li><strong>Allowed Actions:</strong> View (R) existing spaces and items, update (U) item details/consumption status, and perform hard deletion (D). 100% of these capabilities remain functional.</li>
+            <li><strong>Blocked Actions:</strong> While your total item or space count exceeds the Basic limits, the **creation of new items or spaces (C)** will be blocked, and a payment prompt will be displayed.</li>
+        </ul>
+    </p><br>
+    
+    <strong>6. Account Termination & Space Deletion (CASCADE)</strong>
+    <p>If a space owner deletes a space or permanently terminates their account, that space along with all member items and histories therein will be **CASCADE-deleted** from our cloud databases. This action is permanent and irreversible. By using the Application, you acknowledge and agree to this cascade deletion and potential data loss risk.</p><br>
+    
+    <strong>7. Limitation of Liability</strong>
+    <p>The Service Provider is not liable for temporary service interruptions due to lack of network connectivity, data plan exhaustion, or drained device batteries. The Service Provider also reserves the right to suspend or terminate the Application at any time for server maintenance, security upgrades, or business changes without prior notice.</p><br>
+    
+    <strong>8. Changes to These Terms</strong>
+    <p>The Service Provider may periodically update these Terms and Conditions. Updates will be published directly on this page and will take effect immediately. Continued use of the Application signifies your agreement to the modified terms.</p>
+    <p>These terms and conditions are effective as of May 21, 2026.</p><br>
+    
+    <strong>9. Contact Us</strong>
+    <p>If you have any questions or suggestions regarding these Terms and Conditions, please contact us at support@selalink.net.</p>`} />
+        )}
+      </div>
+    </div>
+  </main>
+</Layout>
