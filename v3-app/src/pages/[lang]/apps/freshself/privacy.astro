@@ -42,6 +42,8 @@ const title = isKo ? '개인정보처리방침' : 'Privacy Policy';
         <li><strong>기기 식별자 (Installation ID):</strong> 앱의 필수 기능 작동 및 모바일 푸시 알림 등을 전송하기 위해 기기 고유 식별자를 수집할 수 있습니다.</li>
         <li><strong>비정상 종료 로그 및 진단:</strong> 애플리케이션의 성능을 모니터링하고 예기치 못한 버그를 추적 및 수정하기 위해 Sentry를 통해 비식별 진단 데이터를 수집합니다.</li>
         <li><strong>구매 및 결제 내역:</strong> 프리미엄 구독 상태를 검증하고 인앱 상품 주문을 안정적으로 처리하기 위해 RevenueCat을 통해 수집되는 결제 영수증 번호 및 거래 식별 코드를 수집합니다.</li>
+        <li><strong>서비스 개선 및 분석 (Google Analytics):</strong> 앱 내 사용자 행동 데이터(화면 방문, 버튼 클릭 등), 기기 정보(기기 모델, OS 버전 등), 대략적인 위치 정보(IP 기준 국가 및 도시) 및 기기 광고 식별자(ADID)를 수집하여 앱 서비스를 지속적으로 개선하기 위한 통계 데이터 분석용으로 활용합니다.</li>
+        <li><strong>기기 카메라 및 사진 라이브러리 접근 권한 (선택):</strong> 사용자가 아이템 등록 시 카메라로 사진을 촬영하거나 갤러리에서 사진을 선택하여 등록하는 경우, 해당 기능을 지원하기 위해 기기 카메라 및 사진 보관함 권한에 접근합니다.</li>
     </ul>
     <br>
     
@@ -50,7 +52,7 @@ const title = isKo ? '개인정보처리방침' : 'Privacy Policy';
     <br>
     
     <strong>제3자가 애플리케이션이 수집한 정보를 보거나 접근할 수 있나요?</strong>
-    <p>서비스 제공자는 사용자의 데이터를 외부 당사자에게 판매, 거래, 또는 기타 방법으로 양도하지 않습니다. 수집된 모든 데이터는 오직 애플리케이션을 안정적으로 운영하고 핵심 기능(실시간 데이터 동기화, 결제 검증, 버그 추적)을 제공하기 위한 목적으로만 신뢰할 수 있는 제3자 클라우드 및 보안 서비스(Supabase, Sentry, RevenueCat)와 기술적으로 연동 및 공유됩니다.</p>
+    <p>서비스 제공자는 사용자의 데이터를 외부 당사자에게 판매, 거래, 또는 기타 방법으로 양도하지 않습니다. 수집된 모든 데이터는 오직 애플리케이션을 안정적으로 운영하고 핵심 기능(실시간 데이터 동기화, 결제 검증, 버그 추적, 앱 사용 분석)을 제공하기 위한 목적으로만 신뢰할 수 있는 제3자 서비스(Supabase, Sentry, RevenueCat, Google Analytics)와 기술적으로 연동 및 공유됩니다.</p>
     <br>
 
     <strong>데이터 보관 및 삭제 (회원 탈퇴)</strong>
@@ -98,6 +100,8 @@ const title = isKo ? '개인정보처리방침' : 'Privacy Policy';
         <li><strong>Device Identifiers (Installation ID):</strong> We may collect a unique device identifier to support push notifications and core app stability.</li>
         <li><strong>Crash Logs & Diagnostics:</strong> Non-personally identifiable diagnostics are collected via Sentry to monitor performance and fix software bugs.</li>
         <li><strong>Purchase & Subscription History:</strong> Receipt identifiers and transaction status are collected via RevenueCat to verify Premium subscription status and manage payments.</li>
+        <li><strong>Service Improvement & Analytics (Google Analytics):</strong> We collect user interaction data within the Application (such as screen views and button clicks), non-identifiable device details (device model, OS version), approximate location (based on IP), and advertising identifiers (ADID) to analyze usage patterns and improve the overall user experience.</li>
+        <li><strong>Device Camera & Photo Gallery Access (Optional):</strong> If you choose to upload photos for your items, we request permission to access your device’s camera and photo gallery. Photos you select or take are either processed locally or uploaded to secure cloud storage (Supabase Storage).</li>
     </ul>
     <br>
     
@@ -106,7 +110,7 @@ const title = isKo ? '개인정보처리방침' : 'Privacy Policy';
     <br>
     
     <strong>Do third parties see and/or have access to information obtained by the Application?</strong>
-    <p>The Service Provider does not sell, trade, or otherwise transfer your data to outside parties. Your data is technically shared only with trusted backend and diagnostic platforms (such as Supabase, Sentry, and RevenueCat) strictly for operating the Application and providing its core features.</p>
+    <p>The Service Provider does not sell, trade, or otherwise transfer your data to outside parties. Your data is technically shared only with trusted platforms (such as Supabase, Sentry, RevenueCat, and Google Analytics) strictly for operating the Application and providing its core features (real-time sync, error tracking, billing verification, and analytics).</p>
     <br>
 
     <strong>Data Retention and Deletion (Account Termination)</strong>
