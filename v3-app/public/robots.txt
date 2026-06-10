@@ -1,4 +1,14 @@
 User-agent: *
 Allow: /
 
+# AI 기반 검색/답변 엔진의 웹 수집을 명시적으로 허용하여 노출과 인용을 극대화
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
 Sitemap: https://selalink.net/sitemap-index.xml

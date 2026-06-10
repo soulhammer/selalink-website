@@ -56,7 +56,7 @@ const getPathForLang = (targetLang: string) => {
 		<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0b0c10" />
 		
 		<!-- Local Search Keywords Backup -->
-		<meta name="keywords" content="SelaLink, 셀라링크, BuildSelf, 빌드셀프, DeepMood, 딥무드, 습관형성, 감정일기, habit tracker, mood tracker, productivity" />
+		<meta name="keywords" content="SelaLink, 셀라링크, BuildSelf, 빌드셀프, DeepMood, 딥무드, FreshSelf, 프레쉬셀프, 습관형성, 감정일기, 살림비서, 유통기한 관리, habit tracker, mood tracker, productivity" />
 		
 		<!-- Search Engine Verification -->
 		<meta name="naver-site-verification" content="1060c1abc665f9d239ecdc584674b5fbac97f34d" />
@@ -97,11 +97,11 @@ const getPathForLang = (targetLang: string) => {
 		<script type="application/ld+json" set:html={JSON.stringify({
 			"@context": "https://schema.org",
 			"@type": ogType === 'software' ? "SoftwareApplication" : "Organization",
-			"name": ogType === 'software' && title.includes('BuildSelf') ? "BuildSelf" : (ogType === 'software' && title.includes('DeepMood') ? "DeepMood" : "SelaLink Studio"),
+			"name": ogType === 'software' && title.includes('BuildSelf') ? "BuildSelf" : (ogType === 'software' && title.includes('DeepMood') ? "DeepMood" : (ogType === 'software' && title.includes('FreshSelf') ? "FreshSelf" : "SelaLink Studio")),
 			"url": canonicalUrl || Astro.url.href.replace(/\/$/, ''),
 			"description": description,
 			...(ogType === 'software' ? {
-				"applicationCategory": title.includes('DeepMood') ? "LifestyleApplication" : "HealthApplication",
+				"applicationCategory": title.includes('DeepMood') || title.includes('FreshSelf') ? "LifestyleApplication" : "HealthApplication",
 				"operatingSystem": "iOS, Android",
 				"offers": {
 					"@type": "Offer",
@@ -109,8 +109,12 @@ const getPathForLang = (targetLang: string) => {
 					"priceCurrency": "USD"
 				}
 			} : {}),
-			...(title.includes('BuildSelf') ? {
-				"sameAs": ["https://play.google.com/store/apps/details?id=com.selalink.buildself"]
+			...(title.includes('BuildSelf') || title.includes('FreshSelf') ? {
+				"sameAs": [
+					title.includes('BuildSelf') 
+						? "https://play.google.com/store/apps/details?id=com.selalink.buildself" 
+						: "https://play.google.com/store/apps/details?id=com.selalink.freshself"
+				]
 			} : {})
 		})} />
 		
