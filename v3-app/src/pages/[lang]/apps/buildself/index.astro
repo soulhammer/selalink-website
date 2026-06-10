@@ -11,6 +11,14 @@ export function getStaticPaths() {
 
 const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
+
+const isKo = lang === 'ko';
+const qrTitle = isKo ? '카메라로 즉시 설치' : 'Scan to Install';
+const qrDesc = isKo ? '스마트폰 카메라로<br/>QR 코드를 스캔하세요.' : 'Scan the QR code<br/>with your smartphone camera.';
+const toastTitle = isKo ? 'iOS 앱스토어 준비 중' : 'iOS App Store Coming Soon';
+const toastDesc = isKo 
+  ? 'App Store 출시 등록 심사 진행 중입니다. 곧 런칭 예정입니다!' 
+  : 'App Store registration and review are in progress. Launching very soon!';
 ---
 <Layout title={t('app.buildself.meta.title')} lang={lang} description={t('app.buildself.desc')} ogType="software" image="/assets/images/og/buildself.png">
 	<!-- Override default dark bg constraint if we want this page uniquely themed -->
@@ -39,7 +47,7 @@ const t = useTranslations(lang as keyof typeof languages);
 		}
 	</style>
 
-	<div class="bg-slate-50 dark:bg-slate-900 min-h-screen pt-20 pb-32 overflow-hidden relative">
+	<div class="bg-slate-50 dark:bg-slate-900 min-h-screen pt-8 md:pt-20 pb-32 overflow-hidden relative">
 		<!-- Background decorative elements -->
 		<div class="absolute top-0 right-0 -mr-40 -mt-40 w-96 h-96 rounded-full bg-teal-400/20 dark:bg-teal-600/10 blur-3xl pointer-events-none"></div>
 		<div class="absolute bottom-40 left-0 -ml-40 w-80 h-80 rounded-full bg-orange-400/10 dark:bg-orange-600/10 blur-3xl pointer-events-none"></div>
@@ -72,18 +80,33 @@ const t = useTranslations(lang as keyof typeof languages);
 						{t('app.buildself.desc')}
 					</p>
 					
-					<div class="flex flex-col sm:flex-row gap-3 md:gap-4 pt-4 md:pt-6 justify-center lg:justify-start w-full">
-						<button disabled class="flex items-center justify-center gap-3 bg-slate-200/50 dark:bg-slate-800/50 border border-slate-300 dark:border-slate-700 text-slate-500 dark:text-slate-400 px-6 md:px-8 py-3 md:py-4 rounded-xl md:rounded-2xl font-bold text-base md:text-lg opacity-70 cursor-not-allowed backdrop-blur-sm w-full sm:w-auto">
-							<svg class="w-5 h-5 md:w-6 md:h-6 opacity-70" fill="currentColor" viewBox="0 0 24 24"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.253 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.04 2.26-.79 3.59-.76 2.6.04 4.19 1.45 4.8 1.8-3.1 1.76-2.58 5.86.37 6.94-1.04 2.45-2.51 3.5-3.84 4.19zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+					<div class="flex flex-col sm:flex-row gap-3 md:gap-4 pt-4 md:pt-6 justify-center lg:justify-start w-full relative z-20">
+						<button id="bsIosDownloadBtn" class="flex items-center justify-center gap-3 bg-slate-200/50 dark:bg-slate-800/50 border border-slate-300 dark:border-slate-700 text-slate-500 dark:text-slate-400 px-6 md:px-8 py-3 md:py-4 rounded-xl md:rounded-2xl font-bold text-base md:text-lg opacity-70 cursor-pointer w-full sm:w-auto transition-all duration-300 hover:scale-[1.01]">
+							<svg class="w-5 h-5 md:w-6 md:h-6 opacity-70" fill="currentColor" viewBox="0 0 24 24"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.253 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8(1.18-.04 2.26-.79 3.59-.76 2.6.04 4.19 1.45 4.8 1.8-3.1 1.76-2.58 5.86.37 6.94-1.04 2.45-2.51 3.5-3.84 4.19zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
 							<div class="flex flex-col items-start leading-tight">
-								<span>{t('bs.download.appstore')}</span>
-								<span class="text-[9px] md:text-[10px] font-bold uppercase tracking-widest text-slate-500 dark:text-slate-400 mt-0.5">Coming Soon</span>
+								<span class="text-xs text-slate-400 font-medium uppercase tracking-wider">App Store</span>
+								<span class="text-sm font-bold text-slate-500">Coming Soon</span>
 							</div>
 						</button>
-						<a href="https://play.google.com/store/apps/details?id=com.selalink.buildself" target="_blank" rel="noopener noreferrer" class="app-button flex items-center justify-center gap-3 bg-teal-600 hover:bg-teal-500 text-white px-6 md:px-8 py-3 md:py-4 rounded-xl md:rounded-2xl font-bold text-base md:text-lg cursor-pointer shadow-xl shadow-teal-600/30 w-full sm:w-auto">
-							<svg class="w-5 h-5 md:w-6 md:h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/></svg>
-							{t('bs.download.playstore')}
+						
+						<a href="https://play.google.com/store/apps/details?id=com.selalink.buildself" target="_blank" rel="noopener noreferrer" class="group/btn flex items-center justify-center gap-3 bg-teal-600 hover:bg-teal-500 text-white px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer shadow-lg shadow-teal-600/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 w-full sm:w-auto">
+							<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/></svg>
+							<div class="flex flex-col items-start leading-tight">
+								<span class="text-xs text-teal-200 font-medium uppercase tracking-wider">Google Play</span>
+								<span class="text-sm font-bold text-white">{t('bs.hero.cta')}</span>
+							</div>
 						</a>
+					</div>
+
+					<!-- Frictionless QR Code Card (Desktop Only) -->
+					<div class="hidden md:flex items-center gap-4 p-4 rounded-2xl bg-white/70 dark:bg-slate-900/50 backdrop-blur-2xl border border-white/80 dark:border-white/10 shadow-md w-max mt-6 relative z-20">
+						<div class="w-20 h-20 bg-white p-2 rounded-xl border border-slate-200 flex items-center justify-center shadow-inner">
+							<img src="/assets/images/qr_buildself.png" alt="BuildSelf Play Store QR Code" class="w-full h-full object-contain" />
+						</div>
+						<div class="flex flex-col text-left font-sans">
+							<span class="text-xs font-bold text-slate-800 dark:text-slate-200">{qrTitle}</span>
+							<span class="text-[10px] text-slate-500 mt-0.5 leading-tight" set:html={qrDesc}></span>
+						</div>
 					</div>
 				</div>
 
@@ -95,7 +118,7 @@ const t = useTranslations(lang as keyof typeof languages);
 					</div>
 					
 					<!-- Front Image (Daily Routine) - Relative and centered on mobile/tablet -->
-					<div class="relative lg:absolute lg:left-4 lg:bottom-10 w-[85%] sm:w-[60%] lg:w-[75%] max-w-[340px] rounded-[2rem] lg:rounded-[2.5rem] p-1.5 lg:p-2 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-10px_10px_40px_rgba(0,0,0,0.15)] lg:shadow-[-20px_20px_60px_rgba(0,0,0,0.15)] dark:shadow-[-20px_30px_70px_rgba(0,0,0,0.6)] transform -rotate-3 hover:transform-none transition-all duration-700 z-10 footprint-card mx-auto lg:mx-0">
+					<div class="relative lg:absolute lg:left-4 lg:bottom-10 w-[68%] sm:w-[60%] lg:w-[75%] max-w-[340px] rounded-[2rem] lg:rounded-[2.5rem] p-1.5 lg:p-2 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-10px_10px_40px_rgba(0,0,0,0.15)] lg:shadow-[-20px_20px_60px_rgba(0,0,0,0.15)] dark:shadow-[-20px_30px_70px_rgba(0,0,0,0.6)] transform -rotate-3 hover:transform-none transition-all duration-700 z-10 footprint-card mx-auto lg:mx-0">
 						<img src="/assets/images/1_buildself_phone_screen.jpeg" alt="Daily Routine Check Main UI" class="w-full h-auto rounded-[1.8rem] lg:rounded-[2rem] shadow-sm object-cover" loading="eager" />
 						
 						<!-- Floating Glass Chip -->
@@ -187,4 +210,33 @@ const t = useTranslations(lang as keyof typeof languages);
 		</main>
 	</div>
 	<ShortsPlayerModal lang={lang} />
+
+	<!-- Toast Notification Popover -->
+	<div id="bsToastNotification" class="fixed bottom-6 right-6 z-50 bg-slate-900/95 dark:bg-white/95 text-white dark:text-slate-900 px-6 py-4 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.3)] border border-white/10 dark:border-slate-200/50 backdrop-blur-xl flex items-center gap-3 transform translate-y-20 opacity-0 invisible transition-all duration-500 ease-out">
+		<span class="text-xl">🍏</span>
+		<div class="flex flex-col text-left">
+			<span class="text-sm font-bold">{toastTitle}</span>
+			<span class="text-xs text-slate-400 dark:text-slate-600 mt-0.5">{toastDesc}</span>
+		</div>
+	</div>
+
+	<script>
+		const iosBtn = document.getElementById('bsIosDownloadBtn');
+		const toast = document.getElementById('bsToastNotification');
+		
+		if (iosBtn && toast) {
+			iosBtn.addEventListener('click', (e) => {
+				e.preventDefault();
+				// Show toast
+				toast.classList.remove('translate-y-20', 'opacity-0', 'invisible');
+				toast.classList.add('translate-y-0', 'opacity-100', 'visible');
+				
+				// Hide after 3.5s
+				setTimeout(() => {
+					toast.classList.remove('translate-y-0', 'opacity-100', 'visible');
+					toast.classList.add('translate-y-20', 'opacity-0', 'invisible');
+				}, 3500);
+			});
+		}
+	</script>
 </Layout>

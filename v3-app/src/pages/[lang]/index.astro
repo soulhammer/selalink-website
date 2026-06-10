@@ -26,6 +26,43 @@ const t = useTranslations(lang as keyof typeof languages);
 		<!-- Bento Grid 2.0 -->
 		<section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-[350px]">
 			
+			<!-- FreshSelf Card (Horizontal Bento - Z-10) -->
+			<a href={`/${lang}/apps/freshself/`} aria-label={t('app.freshself.title')} class="bento-card col-span-1 md:col-span-3 row-span-2 p-8 md:p-12 lg:p-16 flex flex-col lg:flex-row justify-between items-start lg:items-center group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.15);">
+				<div class="bento-glow top-0 left-0"></div>
+
+				<!-- Left Side Content (Z-20) -->
+				<div class="z-20 relative max-w-md lg:max-w-xl xl:max-w-2xl space-y-6">
+					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-700 dark:bg-purple-500/20 dark:text-purple-400 text-xs md:text-sm font-semibold border border-purple-500/20 shadow-sm backdrop-blur-md">
+						<span class="w-1.5 h-1.5 rounded-full bg-purple-500 animate-pulse"></span>{t('app.freshself.status')}
+					</div>
+					<div class="space-y-4">
+						<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-2 text-slate-900 dark:text-white group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors drop-shadow-sm flex items-center gap-3">
+							<img src="/freshself/invite/icon.png" alt="FreshSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain" />
+							{t('app.freshself.title')}
+						</h2>
+						<p class="text-base sm:text-lg md:text-xl lg:text-2xl text-slate-700 dark:text-slate-200 font-medium leading-relaxed max-w-xl">{t('app.freshself.desc')}</p>
+					</div>
+					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-md inline-block">
+						{t('app.freshself.supported')}
+					</div>
+				</div>
+
+				<!-- Right Side 3D Spatial Mockup (Z-10) -->
+				<div class="absolute bottom-[-30px] lg:bottom-[-20px] right-[-25px] sm:right-[-15px] lg:right-[5%] w-[60%] sm:w-[48%] lg:w-[35%] h-[260px] sm:h-[300px] lg:h-[95%] z-10 pointer-events-none perspective-[1000px] flex items-end justify-end self-end lg:self-auto mt-8 lg:mt-0 opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700">
+					<!-- Back Left Image -->
+					<div class="absolute right-[35%] bottom-2 w-[55%] rounded-2xl p-1.5 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700">
+						<img src="/assets/images/4_freshself_phone_screen.jpg" alt="FreshSelf Report Screen" class="w-full h-auto rounded-[1rem] object-cover" loading="lazy" />
+					</div>
+					<!-- Front Right Image -->
+					<div class="relative right-0 bottom-4 w-[60%] rounded-2xl p-2 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_50px_rgba(0,0,0,0.25)] transform rotate-[-4deg] group-hover:rotate-0 transition-all duration-700 z-20">
+						<img src="/assets/images/2_freshself_phone_screen.jpg" alt="FreshSelf Main Screen" class="w-full h-auto rounded-[1rem] shadow-inner object-cover" loading="lazy" />
+					</div>
+				</div>
+
+				<!-- Purple Light Bloom Effect -->
+				<div class="absolute -bottom-32 -right-32 w-[500px] h-[500px] bg-purple-400/10 dark:bg-purple-600/10 blur-[100px] rounded-full group-hover:bg-purple-400/20 dark:group-hover:bg-purple-500/15 transition-colors duration-700 z-0 pointer-events-none"></div>
+			</a>
+
 			<!-- BuildSelf Card (Large Spatial Canvas) -->
 			<a href={`/${lang}/apps/buildself/`} aria-label={t('app.buildself.title')} class="bento-card col-span-1 md:col-span-2 row-span-2 p-8 md:p-10 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.2);">
 				<div class="bento-glow top-0 left-0"></div>
@@ -40,7 +77,7 @@ const t = useTranslations(lang as keyof typeof languages);
 				</div>
                 
 				<!-- Spatial 3D Collage (Active Grid - Z-10) -->
-				<div class="absolute bottom-[-15%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-10%] sm:right-[-5%] md:right-0 lg:right-[-5%] w-[120%] sm:w-[90%] md:w-[75%] lg:w-[65%] h-[50%] sm:h-[60%] md:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end">
+				<div class="absolute bottom-[-15%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-15%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[90%] sm:w-[80%] md:w-[70%] lg:w-[65%] h-[45%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end">
 					<!-- Back Left Image -->
 					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 sm:group-hover:-translate-x-8 group-hover:-translate-y-2 lg:group-hover:-translate-y-4 group-hover:-rotate-16 transition-all duration-700 opacity-50 sm:opacity-60 dark:opacity-40">
 						<img src="/assets/images/2_buildself_phone_screen.jpeg" alt="BuildSelf Habit List" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
@@ -104,11 +141,6 @@ const t = useTranslations(lang as keyof typeof languages);
 				</div>
 				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[400px] h-[400px] bg-purple-400/20 dark:bg-purple-600/20 blur-[100px] rounded-full group-hover:bg-purple-500/30 dark:group-hover:bg-purple-500/30 transition-colors duration-700 pointer-events-none z-0"></div>
 			</a>
-
-			<!-- More Apps Placeholder (Horizontal) -->
-			<div class="bento-card col-span-1 md:col-span-3 row-span-1 p-8 flex items-center justify-center border-dashed border-2 border-slate-300 dark:border-slate-800 bg-transparent hover:border-slate-400 dark:hover:border-slate-600 cursor-not-allowed transition-colors">
-				<p class="text-slate-500 font-mono tracking-widest uppercase">{t('footer.more')}</p>
-			</div>
 
 		</section>
 		

@@ -1,0 +1,289 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import { useTranslations, languages } from '../../../../i18n/ui';
+
+export function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+// Force FreshSelf to always render Korean strings for the initial launch
+const contentLang = 'ko';
+const t = useTranslations(contentLang);
+// Read general lang translation for warning bar
+const gt = useTranslations(lang as keyof typeof languages);
+---
+
+<Layout
+  title={`${t("app.freshself.title")} | SelaLink Studio`}
+  lang={lang as string}
+  description={t('app.freshself.desc')}
+  ogType="software"
+  supportedLanguages={['ko']}
+  canonicalUrl="https://selalink.net/ko/apps/freshself"
+  image="/assets/images/1_freshself_phone_screen.jpg"
+>
+  <style>
+    :root {
+      --fs-primary: #8B5CF6;
+      --fs-secondary: #10B981;
+      --fs-primary-glow: rgba(139, 92, 246, 0.15);
+      --fs-secondary-glow: rgba(16, 185, 129, 0.15);
+    }
+    
+    .screenshot-card {
+      transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+    .screenshot-card:hover {
+      transform: translateY(-6px) scale(1.02);
+      box-shadow: 0 30px 60px -15px var(--fs-primary-glow);
+    }
+
+    .leaf-logo {
+      animation: gentle-wave 4s ease-in-out infinite alternate;
+    }
+
+    @keyframes gentle-wave {
+      0% { transform: rotate(-3deg) translateY(0px); }
+      100% { transform: rotate(3deg) translateY(-3px); }
+    }
+  </style>
+
+  <main class="w-full bg-slate-50 dark:bg-[#0B0F19] min-h-screen font-sans text-slate-900 dark:text-slate-100 overflow-hidden transition-colors duration-500">
+    <!-- Fluid Decorative Blurs -->
+    <div class="fixed inset-0 z-0 opacity-40 pointer-events-none">
+      <div class="absolute top-[-10%] right-[-10%] w-[50%] h-[50%] bg-purple-500/10 dark:bg-purple-600/5 rounded-full filter blur-[120px]"></div>
+      <div class="absolute bottom-[-20%] left-[-10%] w-[60%] h-[60%] bg-emerald-500/10 dark:bg-emerald-600/5 rounded-full filter blur-[130px]"></div>
+    </div>
+
+    <!-- Header / Navigation Back -->
+    <div class="relative z-10 w-full max-w-7xl mx-auto px-6 pt-20 md:pt-32 pb-4 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+      <a href={`/${lang}/`} class="group inline-flex items-center space-x-2 text-purple-600 dark:text-purple-400 hover:text-purple-800 dark:hover:text-purple-300 transition-colors duration-300">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="m15 18-6-6 6-6"/>
+        </svg>
+        <span class="text-sm font-semibold tracking-wide">Back to SelaLink Studio</span>
+      </a>
+      
+      {lang !== 'ko' && (
+        <div class="flex items-center space-x-2 px-4 py-2 rounded-full border border-orange-500/30 dark:border-orange-500/20 bg-orange-50 dark:bg-orange-500/10 text-orange-600 dark:text-orange-400 text-xs font-bold tracking-wider backdrop-blur-md">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/>
+            <path d="M12 9v4"/><path d="M12 17h.01"/>
+          </svg>
+          <span>{gt("app.freshself.warning")}</span>
+        </div>
+      )}
+    </div>
+
+    <!-- Hero Section -->
+    <section class="relative z-10 w-full max-w-7xl mx-auto px-6 py-12 lg:py-24 grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
+      <!-- Title & CTA -->
+      <div class="lg:col-span-7 flex flex-col items-start space-y-6 md:space-y-8 text-left">
+        <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-purple-50 dark:bg-purple-950/30 border border-purple-200 dark:border-purple-900/50 shadow-sm">
+          <span class="w-2 h-2 rounded-full bg-purple-500 animate-pulse"></span>
+          <span class="text-xs font-bold text-purple-700 dark:text-purple-400 tracking-wider uppercase">{t('fs.hero.subtitle')}</span>
+        </div>
+        
+        <h1 class="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight leading-[1.2] text-slate-900 dark:text-white whitespace-pre-wrap">
+          {t('fs.hero.title')}
+        </h1>
+        
+        <p class="text-lg md:text-xl text-slate-600 dark:text-slate-300 font-medium leading-relaxed max-w-xl">
+          {t('app.freshself.desc')}
+        </p>
+
+        <!-- CTAs / Store Buttons -->
+        <div class="flex flex-col sm:flex-row gap-4 w-full sm:w-auto pt-4 relative z-20">
+          <button id="iosDownloadBtn" class="flex items-center justify-center gap-3 bg-slate-200/50 dark:bg-slate-800/50 border border-slate-300 dark:border-slate-700 text-slate-500 dark:text-slate-400 px-8 py-4 rounded-2xl font-bold text-lg opacity-70 cursor-pointer w-full sm:w-auto transition-all duration-300 hover:scale-[1.01]">
+            <svg class="w-6 h-6 opacity-70" fill="currentColor" viewBox="0 0 24 24"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.253 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.04 2.26-.79 3.59-.76 2.6.04 4.19 1.45 4.8 1.8-3.1 1.76-2.58 5.86.37 6.94-1.04 2.45-2.51 3.5-3.84 4.19zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+            <div class="flex flex-col items-start leading-tight">
+              <span class="text-xs text-slate-400 font-medium uppercase tracking-wider">App Store</span>
+              <span class="text-sm font-bold text-slate-500">Coming Soon</span>
+            </div>
+          </button>
+          
+          <a href="https://play.google.com/store/apps/details?id=com.selalink.freshself" target="_blank" rel="noopener noreferrer" class="group/btn flex items-center justify-center gap-3 bg-purple-600 hover:bg-purple-500 text-white px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer shadow-lg shadow-purple-600/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 w-full sm:w-auto">
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/></svg>
+            <div class="flex flex-col items-start leading-tight">
+              <span class="text-xs text-purple-200 font-medium uppercase tracking-wider">Google Play</span>
+              <span class="text-sm font-bold text-white">다운로드</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- Frictionless QR Code Card (Desktop Only) -->
+        <div class="hidden md:flex items-center gap-4 p-4 rounded-2xl bg-white/70 dark:bg-slate-900/50 backdrop-blur-2xl border border-white/80 dark:border-white/10 shadow-md w-max mt-6 relative z-20">
+          <div class="w-20 h-20 bg-white p-2 rounded-xl border border-slate-200 flex items-center justify-center shadow-inner">
+            <img src="/assets/images/qr_freshself.png" alt="FreshSelf Play Store QR Code" class="w-full h-full object-contain" />
+          </div>
+          <div class="flex flex-col text-left">
+            <span class="text-xs font-bold text-slate-800 dark:text-slate-200">카메라로 즉시 설치</span>
+            <span class="text-[10px] text-slate-500 mt-0.5 leading-tight">스마트폰 카메라로<br/>QR 코드를 스캔하세요.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Conceptual 3D Glass Stack Mockup -->
+      <div class="lg:col-span-5 relative w-full h-[450px] sm:h-[550px] flex items-center justify-center pointer-events-none mt-12 lg:mt-0">
+        <!-- Leaf Floating Logo (Back background decoration) -->
+        <div class="absolute top-10 left-10 w-28 h-28 opacity-10 dark:opacity-20 leaf-logo">
+          <img src="/freshself/invite/icon.png" alt="FreshSelf Leaf Symbol" class="w-full h-full object-contain" />
+        </div>
+        
+        <!-- Back Stack (Login Screen) -->
+        <div class="absolute left-10 bottom-10 w-[55%] max-w-[220px] rounded-[2rem] p-1 bg-white/30 dark:bg-slate-800/30 backdrop-blur-xl border border-white/40 dark:border-white/10 shadow-xl transform -rotate-12 translate-x-[-15px] translate-y-[15px] opacity-75 sm:opacity-90">
+          <img src="/assets/images/1_freshself_phone_screen.jpg" alt="FreshSelf Login Interface" class="w-full h-auto rounded-[1.8rem] object-cover shadow-inner" loading="eager" />
+        </div>
+        
+        <!-- Front Stack (Main Storage Shelf Screen) -->
+        <div class="screenshot-card relative w-[65%] max-w-[250px] rounded-[2.5rem] p-1.5 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-15px_15px_50px_rgba(0,0,0,0.15)] dark:shadow-[-20px_30px_70px_rgba(0,0,0,0.6)] transform rotate-[-4deg] z-10 mx-auto">
+          <img src="/assets/images/2_freshself_phone_screen.jpg" alt="FreshSelf Main Locker" class="w-full h-auto rounded-[2.2rem] object-cover shadow-sm" loading="eager" />
+          
+          <!-- Floating Status Glass Badge -->
+          <div class="absolute -right-4 top-24 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md px-3.5 py-2.5 rounded-2xl border border-slate-100 dark:border-slate-800 shadow-xl flex items-center gap-2 transform rotate-6 z-20">
+            <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+            <span class="text-xs font-bold text-slate-800 dark:text-slate-200">모든 아이템 신선함</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Detailed Feature Section 1: Space Sharing -->
+    <section class="relative z-10 w-full max-w-7xl mx-auto px-6 py-20 border-t border-slate-200/50 dark:border-slate-800/40">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center">
+        
+        <!-- Left Graphics (Space List & Members overlap) -->
+        <div class="lg:col-span-5 order-2 lg:order-1 relative w-full h-[450px] sm:h-[500px] flex items-center justify-center pointer-events-none">
+          <!-- Back Stack (Space Member Invitation list) -->
+          <div class="absolute left-8 bottom-6 w-[70%] max-w-[250px] rounded-[2rem] p-1 bg-white/30 dark:bg-slate-800/30 backdrop-blur-xl border border-white/40 dark:border-white/10 shadow-xl transform rotate-6 translate-x-[20px] translate-y-[-10px] opacity-80">
+            <img src="/assets/images/6_freshself_phone_screen.jpg" alt="FreshSelf Space Settings" class="w-full h-auto rounded-[1.8rem] object-cover shadow-inner" loading="lazy" />
+          </div>
+          <!-- Front Stack (Space Group List) -->
+          <div class="screenshot-card relative w-[75%] max-w-[270px] rounded-[2.5rem] p-1.5 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-10px_10px_40px_rgba(0,0,0,0.1)] dark:shadow-[-20px_20px_60px_rgba(0,0,0,0.5)] transform -rotate-3 z-10">
+            <img src="/assets/images/3_freshself_phone_screen.jpg" alt="FreshSelf Space Selection" class="w-full h-auto rounded-[2.2rem] object-cover shadow-sm" loading="lazy" />
+          </div>
+        </div>
+
+        <!-- Right Copy -->
+        <div class="lg:col-span-7 order-1 lg:order-2 space-y-6">
+          <div class="w-12 h-12 rounded-2xl bg-purple-100 dark:bg-purple-950/40 border border-purple-200 dark:border-purple-900/50 flex items-center justify-center text-purple-600 dark:text-purple-400 shadow-sm">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+            </svg>
+          </div>
+          <h2 class="text-3xl sm:text-4xl font-black tracking-tight text-slate-900 dark:text-white leading-tight">
+            {t('fs.feature1.title')}
+          </h2>
+          <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium leading-relaxed">
+            {t('fs.feature1.desc')}
+          </p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Detailed Feature Section 2: Timeline & Feedback -->
+    <section class="relative z-10 w-full max-w-7xl mx-auto px-6 py-20 border-t border-slate-200/50 dark:border-slate-800/40">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center">
+        
+        <!-- Left Copy -->
+        <div class="lg:col-span-7 space-y-6">
+          <div class="w-12 h-12 rounded-2xl bg-emerald-100 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-900/50 flex items-center justify-center text-emerald-600 dark:text-emerald-400 shadow-sm">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <h2 class="text-3xl sm:text-4xl font-black tracking-tight text-slate-900 dark:text-white leading-tight">
+            {t('fs.feature2.title')}
+          </h2>
+          <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium leading-relaxed">
+            {t('fs.feature2.desc')}
+          </p>
+        </div>
+
+        <!-- Right Graphics (Timeline Details overlap) -->
+        <div class="lg:col-span-5 relative w-full h-[450px] sm:h-[500px] flex items-center justify-center pointer-events-none">
+          <!-- Back Stack (Timeline detail log) -->
+          <div class="absolute right-8 bottom-6 w-[70%] max-w-[250px] rounded-[2rem] p-1 bg-white/30 dark:bg-slate-800/30 backdrop-blur-xl border border-white/40 dark:border-white/10 shadow-xl transform -rotate-6 translate-x-[-20px] translate-y-[-10px] opacity-80">
+            <img src="/assets/images/8_freshself_phone_screen.jpg" alt="FreshSelf Timeline Detail" class="w-full h-auto rounded-[1.8rem] object-cover shadow-inner" loading="lazy" />
+          </div>
+          <!-- Front Stack (Overall history list) -->
+          <div class="screenshot-card relative w-[75%] max-w-[270px] rounded-[2.5rem] p-1.5 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-10px_10px_40px_rgba(0,0,0,0.15)] dark:shadow-[-20px_20px_60px_rgba(0,0,0,0.5)] transform rotate-3 z-10">
+            <img src="/assets/images/7_freshself_phone_screen.jpg" alt="FreshSelf History List" class="w-full h-auto rounded-[2.2rem] object-cover shadow-sm" loading="lazy" />
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Bento Section 3: Smart Report Analysis -->
+    <section class="relative z-10 w-full max-w-5xl mx-auto px-6 py-20 border-t border-slate-200/50 dark:border-slate-800/40 text-center">
+      <div class="max-w-3xl mx-auto mb-16 space-y-4">
+        <h2 class="text-3xl sm:text-4xl font-black text-slate-900 dark:text-white tracking-tight">지혜로운 가계경제와 지구 보호의 첫걸음</h2>
+        <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium">실시간 공간 모니터링과 소비 분석 리포트로, 기한을 놓쳐 버려지는 낭비를 영구히 차단합니다.</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-center bg-white dark:bg-slate-900/40 border border-slate-200/60 dark:border-slate-800/80 p-8 sm:p-12 rounded-[2.5rem] backdrop-blur-xl shadow-xl">
+        <!-- Graphic -->
+        <div class="md:col-span-5 flex justify-center pointer-events-none">
+          <div class="screenshot-card relative w-[80%] max-w-[260px] rounded-[2rem] p-1.5 bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700 shadow-2xl">
+            <img src="/assets/images/4_freshself_phone_screen.jpg" alt="FreshSelf Analytics Chart" class="w-full h-auto rounded-[1.7rem] object-cover" loading="lazy" />
+          </div>
+        </div>
+        
+        <!-- Explanation -->
+        <div class="md:col-span-7 text-left space-y-6">
+          <div class="space-y-2">
+            <h3 class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">아이템 구출률 90일 보고서</h3>
+            <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 font-medium">제때 소진한 '다 씀' 비율과 아깝게 기한이 지난 '버림' 비율을 도넛 그래프로 모니터링합니다. 공간별 낭비 점수와 평균 보관일 분석 기능으로 스마트한 주거 관리 습관을 길러 줍니다.</p>
+          </div>
+          
+          <div class="space-y-4 font-medium text-slate-700 dark:text-slate-300 text-sm">
+            <div class="flex items-center gap-3">
+              <span class="w-6 h-6 rounded-full bg-purple-100 dark:bg-purple-950/40 text-purple-600 dark:text-purple-400 flex items-center justify-center font-bold text-xs">✓</span>
+              <span>기한 내 소비율(구출률) 극대화 및 지출 절감</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <span class="w-6 h-6 rounded-full bg-purple-100 dark:bg-purple-950/40 text-purple-600 dark:text-purple-400 flex items-center justify-center font-bold text-xs">✓</span>
+              <span>가족이 함께 참여하는 투명한 보관소 공동 모니터링</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <span class="w-6 h-6 rounded-full bg-purple-100 dark:bg-purple-950/40 text-purple-600 dark:text-purple-400 flex items-center justify-center font-bold text-xs">✓</span>
+              <span>1일/3일/7일 전 푸시 알림 및 손맛을 살린 햅틱 피드백</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Toast Notification Popover -->
+  <div id="toastNotification" class="fixed bottom-6 right-6 z-50 bg-slate-900/95 dark:bg-white/95 text-white dark:text-slate-900 px-6 py-4 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.3)] border border-white/10 dark:border-slate-200/50 backdrop-blur-xl flex items-center gap-3 transform translate-y-20 opacity-0 invisible transition-all duration-500 ease-out">
+    <span class="text-xl">🍏</span>
+    <div class="flex flex-col text-left">
+      <span class="text-sm font-bold">iOS 앱스토어 준비 중</span>
+      <span class="text-xs text-slate-400 dark:text-slate-600 mt-0.5">App Store 출시 등록 심사 진행 중입니다. 곧 런칭 예정입니다!</span>
+    </div>
+  </div>
+
+  <script>
+    const iosBtn = document.getElementById('iosDownloadBtn');
+    const toast = document.getElementById('toastNotification');
+    
+    if (iosBtn && toast) {
+      iosBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        // Show toast
+        toast.classList.remove('translate-y-20', 'opacity-0', 'invisible');
+        toast.classList.add('translate-y-0', 'opacity-100', 'visible');
+        
+        // Hide after 3.5s
+        setTimeout(() => {
+          toast.classList.remove('translate-y-0', 'opacity-100', 'visible');
+          toast.classList.add('translate-y-20', 'opacity-0', 'invisible');
+        }, 3500);
+      });
+    }
+  </script>
+</Layout>
