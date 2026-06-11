@@ -80,7 +80,7 @@ const getPathForLang = (targetLang: string) => {
 		{image && <meta name="twitter:image" content={new URL(image, Astro.site).href} />}
 		
 		<!-- Canonical URL -->
-		<link rel="canonical" href={canonicalUrl || Astro.url.href.replace(/\/$/, '')} />
+		<link rel="canonical" href={canonicalUrl || (Astro.url.href.endsWith('/') ? Astro.url.href : Astro.url.href + '/')} />
 		
 		<!-- Hreflang SEO for Global Reach -->
 		{Object.keys(languages).map((code) => {
