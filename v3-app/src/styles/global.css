@@ -1,4 +1,8 @@
 @import "tailwindcss";
 
+@theme {
+  --font-sans: 'Space Grotesk', 'Pretendard', system-ui, -apple-system, sans-serif;
+}
+
 /* Force Tailwind v4 to use class-based dark mode instead of strictly relying on media queries */
 @custom-variant dark (&:is(.dark *));

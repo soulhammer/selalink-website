@@ -29,7 +29,7 @@ const title = isKo ? '개인정보처리방침' : 'Privacy Policy';
       
       <div class="w-full h-px bg-stone-200 dark:bg-stone-800 mt-4 mb-4"></div>
       
-      <div class="prose prose-stone dark:prose-invert max-w-none w-full text-stone-600 dark:text-stone-300 leading-relaxed font-light text-[0.95rem]">
+      <div class="privacy-content max-w-none w-full leading-relaxed font-light text-[0.95rem] space-y-4">
         {isKo ? (
           <Fragment set:html={`<p>본 개인정보처리방침은 SelaLink(이하 "서비스 제공자")가 부분 유료화(Freemium) 서비스로 제공하는 모바일 기기용 FreshSelf 앱(이하 "애플리케이션")에 적용됩니다. 본 서비스는 "있는 그대로(AS IS)" 제공됩니다.</p>
     <br>
@@ -151,3 +151,45 @@ const title = isKo ? '개인정보처리방침' : 'Privacy Policy';
     </div>
   </main>
 </Layout>
+
+<style is:global>
+  /* 라이트 모드 (기본) */
+  .privacy-content p,
+  .privacy-content li {
+    color: #44403c !important; /* stone-700 */
+    margin-bottom: 0.5rem;
+  }
+  .privacy-content strong {
+    color: #1c1917 !important; /* stone-900 */
+    font-weight: 700 !important;
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 0.25rem;
+  }
+  .privacy-content strong:first-of-type {
+    margin-top: 0;
+  }
+  .privacy-content a {
+    color: #059669 !important; /* emerald-600 */
+    text-decoration: underline;
+  }
+  .privacy-content ul {
+    list-style-type: disc !important;
+    padding-left: 1.5rem !important;
+    margin-bottom: 1rem !important;
+    margin-top: 0.5rem !important;
+  }
+
+  /* 다크 모드 */
+  html.dark .privacy-content p,
+  html.dark .privacy-content li {
+    color: #d6d3d1 !important; /* stone-300 */
+  }
+  html.dark .privacy-content strong {
+    color: #fafaf9 !important; /* stone-50 */
+    font-weight: 700 !important;
+  }
+  html.dark .privacy-content a {
+    color: #34d399 !important; /* emerald-400 */
+  }
+</style>
