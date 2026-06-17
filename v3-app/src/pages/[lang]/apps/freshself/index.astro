@@ -7,11 +7,17 @@ export function getStaticPaths() {
 }
 
 const { lang } = Astro.params;
-// Force FreshSelf to always render Korean strings for the initial launch
-const contentLang = 'ko';
-const t = useTranslations(contentLang);
-// Read general lang translation for warning bar
-const gt = useTranslations(lang as keyof typeof languages);
+const t = useTranslations(lang as keyof typeof languages);
+
+const isKo = lang === 'ko';
+const qrTitle = isKo ? '카메라로 즉시 설치' : 'Scan to Install';
+const qrDesc = isKo ? '스마트폰 카메라로<br/>QR 코드를 스캔하세요.' : 'Scan the QR code<br/>with your smartphone camera.';
+const toastTitle = isKo ? 'iOS 앱스토어 준비 중' : 'iOS App Store Coming Soon';
+const toastDesc = isKo 
+  ? 'App Store 출시 등록 심사 진행 중입니다. 곧 런칭 예정입니다!' 
+  : 'App Store registration and review are in progress. Launching very soon!';
+const floatingBadge = isKo ? '모든 아이템 신선함' : 'All Items Fresh';
+const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps/freshself/en';
 ---
 
 <Layout
@@ -63,16 +69,6 @@ const gt = useTranslations(lang as keyof typeof languages);
         </svg>
         <span class="text-sm font-semibold tracking-wide">Back to SelaLink Studio</span>
       </a>
-      
-      {lang !== 'ko' && (
-        <div class="flex items-center space-x-2 px-4 py-2 rounded-full border border-orange-500/30 dark:border-orange-500/20 bg-orange-50 dark:bg-orange-500/10 text-orange-600 dark:text-orange-400 text-xs font-bold tracking-wider backdrop-blur-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/>
-            <path d="M12 9v4"/><path d="M12 17h.01"/>
-          </svg>
-          <span>{gt("app.freshself.warning")}</span>
-        </div>
-      )}
     </div>
 
     <!-- Hero Section -->
@@ -102,11 +98,11 @@ const gt = useTranslations(lang as keyof typeof languages);
             </div>
           </button>
           
-          <a href="https://play.google.com/store/apps/details?id=com.selalink.freshself" target="_blank" rel="noopener noreferrer" class="group/btn flex items-center justify-center gap-3 bg-purple-600 hover:bg-purple-500 text-white px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer shadow-lg shadow-purple-600/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 w-full sm:w-auto">
+          <a href={`https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${lang}`} target="_blank" rel="noopener noreferrer" class="group/btn flex items-center justify-center gap-3 bg-purple-600 hover:bg-purple-500 text-white px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer shadow-lg shadow-purple-600/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 w-full sm:w-auto">
             <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/></svg>
             <div class="flex flex-col items-start leading-tight">
               <span class="text-xs text-purple-200 font-medium uppercase tracking-wider">Google Play</span>
-              <span class="text-sm font-bold text-white">다운로드</span>
+              <span class="text-sm font-bold text-white">{t('fs.hero.cta')}</span>
             </div>
           </a>
         </div>
@@ -114,11 +110,11 @@ const gt = useTranslations(lang as keyof typeof languages);
         <!-- Frictionless QR Code Card (Desktop Only) -->
         <div class="hidden md:flex items-center gap-4 p-4 rounded-2xl bg-white/70 dark:bg-slate-900/50 backdrop-blur-2xl border border-white/80 dark:border-white/10 shadow-md w-max mt-6 relative z-20">
           <div class="w-20 h-20 bg-white p-2 rounded-xl border border-slate-200 flex items-center justify-center shadow-inner">
-            <img src="/assets/images/qr_freshself.png" alt="FreshSelf Play Store QR Code" class="w-full h-full object-contain" />
+            <img src={`/assets/images/qr/qr_freshself_${lang}.png`} alt="FreshSelf Play Store QR Code" class="w-full h-full object-contain" />
           </div>
           <div class="flex flex-col text-left">
-            <span class="text-xs font-bold text-slate-800 dark:text-slate-200">카메라로 즉시 설치</span>
-            <span class="text-[10px] text-slate-500 mt-0.5 leading-tight">스마트폰 카메라로<br/>QR 코드를 스캔하세요.</span>
+            <span class="text-xs font-bold text-slate-800 dark:text-slate-200">{qrTitle}</span>
+            <span class="text-[10px] text-slate-500 mt-0.5 leading-tight" set:html={qrDesc}></span>
           </div>
         </div>
       </div>
@@ -132,17 +128,17 @@ const gt = useTranslations(lang as keyof typeof languages);
         
         <!-- Back Stack (Login Screen) -->
         <div class="absolute left-10 bottom-10 w-[55%] max-w-[220px] rounded-[2rem] p-1 bg-white/30 dark:bg-slate-800/30 backdrop-blur-xl border border-white/40 dark:border-white/10 shadow-xl transform -rotate-12 translate-x-[-15px] translate-y-[15px] opacity-75 sm:opacity-90">
-          <img src="/assets/images/1_freshself_phone_screen.jpg" alt="FreshSelf Login Interface" class="w-full h-auto rounded-[1.8rem] object-cover shadow-inner" loading="eager" />
+          <img src={`${imgBase}/1_freshself_phone_screen.jpg`} alt="FreshSelf Login Interface" class="w-full h-auto rounded-[1.8rem] object-cover shadow-inner" loading="eager" />
         </div>
         
         <!-- Front Stack (Main Storage Shelf Screen) -->
         <div class="screenshot-card relative w-[65%] max-w-[250px] rounded-[2.5rem] p-1.5 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-15px_15px_50px_rgba(0,0,0,0.15)] dark:shadow-[-20px_30px_70px_rgba(0,0,0,0.6)] transform rotate-[-4deg] z-10 mx-auto">
-          <img src="/assets/images/2_freshself_phone_screen.jpg" alt="FreshSelf Main Locker" class="w-full h-auto rounded-[2.2rem] object-cover shadow-sm" loading="eager" />
+          <img src={`${imgBase}/2_freshself_phone_screen.jpg`} alt="FreshSelf Main Locker" class="w-full h-auto rounded-[2.2rem] object-cover shadow-sm" loading="eager" />
           
           <!-- Floating Status Glass Badge -->
           <div class="absolute -right-4 top-24 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md px-3.5 py-2.5 rounded-2xl border border-slate-100 dark:border-slate-800 shadow-xl flex items-center gap-2 transform rotate-6 z-20">
             <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-            <span class="text-xs font-bold text-slate-800 dark:text-slate-200">모든 아이템 신선함</span>
+            <span class="text-xs font-bold text-slate-800 dark:text-slate-200">{floatingBadge}</span>
           </div>
         </div>
       </div>
@@ -156,11 +152,11 @@ const gt = useTranslations(lang as keyof typeof languages);
         <div class="lg:col-span-5 order-2 lg:order-1 relative w-full h-[450px] sm:h-[500px] flex items-center justify-center pointer-events-none">
           <!-- Back Stack (Space Member Invitation list) -->
           <div class="absolute left-8 bottom-6 w-[70%] max-w-[190px] rounded-[2rem] p-1 bg-white/30 dark:bg-slate-800/30 backdrop-blur-xl border border-white/40 dark:border-white/10 shadow-xl transform rotate-6 translate-x-[20px] translate-y-[-10px] opacity-80">
-            <img src="/assets/images/6_freshself_phone_screen.jpg" alt="FreshSelf Space Settings" class="w-full h-auto rounded-[1.8rem] object-cover shadow-inner" loading="lazy" />
+            <img src={`${imgBase}/6_freshself_phone_screen.jpg`} alt="FreshSelf Space Settings" class="w-full h-auto rounded-[1.8rem] object-cover shadow-inner" loading="lazy" />
           </div>
           <!-- Front Stack (Space Group List) -->
           <div class="screenshot-card relative w-[75%] max-w-[210px] rounded-[2.5rem] p-1.5 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-10px_10px_40px_rgba(0,0,0,0.1)] dark:shadow-[-20px_20px_60px_rgba(0,0,0,0.5)] transform -rotate-3 z-10">
-            <img src="/assets/images/3_freshself_phone_screen.jpg" alt="FreshSelf Space Selection" class="w-full h-auto rounded-[2.2rem] object-cover shadow-sm" loading="lazy" />
+            <img src={`${imgBase}/3_freshself_phone_screen.jpg`} alt="FreshSelf Space Selection" class="w-full h-auto rounded-[2.2rem] object-cover shadow-sm" loading="lazy" />
           </div>
         </div>
 
@@ -205,11 +201,11 @@ const gt = useTranslations(lang as keyof typeof languages);
         <div class="lg:col-span-5 relative w-full h-[450px] sm:h-[500px] flex items-center justify-center pointer-events-none">
           <!-- Back Stack (Timeline detail log) -->
           <div class="absolute right-8 bottom-6 w-[70%] max-w-[190px] rounded-[2rem] p-1 bg-white/30 dark:bg-slate-800/30 backdrop-blur-xl border border-white/40 dark:border-white/10 shadow-xl transform -rotate-6 translate-x-[-20px] translate-y-[-10px] opacity-80">
-            <img src="/assets/images/8_freshself_phone_screen.jpg" alt="FreshSelf Timeline Detail" class="w-full h-auto rounded-[1.8rem] object-cover shadow-inner" loading="lazy" />
+            <img src={`${imgBase}/8_freshself_phone_screen.jpg`} alt="FreshSelf Timeline Detail" class="w-full h-auto rounded-[1.8rem] object-cover shadow-inner" loading="lazy" />
           </div>
           <!-- Front Stack (Overall history list) -->
           <div class="screenshot-card relative w-[75%] max-w-[210px] rounded-[2.5rem] p-1.5 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-10px_10px_40px_rgba(0,0,0,0.15)] dark:shadow-[-20px_20px_60px_rgba(0,0,0,0.5)] transform rotate-3 z-10">
-            <img src="/assets/images/7_freshself_phone_screen.jpg" alt="FreshSelf History List" class="w-full h-auto rounded-[2.2rem] object-cover shadow-sm" loading="lazy" />
+            <img src={`${imgBase}/7_freshself_phone_screen.jpg`} alt="FreshSelf History List" class="w-full h-auto rounded-[2.2rem] object-cover shadow-sm" loading="lazy" />
           </div>
         </div>
 
@@ -219,37 +215,37 @@ const gt = useTranslations(lang as keyof typeof languages);
     <!-- Bento Section 3: Smart Report Analysis -->
     <section class="relative z-10 w-full max-w-5xl mx-auto px-6 py-20 border-t border-slate-200/50 dark:border-slate-800/40 text-center">
       <div class="max-w-3xl mx-auto mb-16 space-y-4">
-        <h2 class="text-3xl sm:text-4xl font-black text-slate-900 dark:text-white tracking-tight">지혜로운 가계경제와 지구 보호의 첫걸음</h2>
-        <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium">실시간 공간 모니터링과 소비 분석 리포트로, 기한을 놓쳐 버려지는 낭비를 영구히 차단합니다.</p>
+        <h2 class="text-3xl sm:text-4xl font-black text-slate-900 dark:text-white tracking-tight">{t('fs.bento.header.title')}</h2>
+        <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium">{t('fs.bento.header.desc')}</p>
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-center bg-white dark:bg-slate-900/40 border border-slate-200/60 dark:border-slate-800/80 p-8 sm:p-12 rounded-[2.5rem] backdrop-blur-xl shadow-xl">
         <!-- Graphic -->
         <div class="md:col-span-5 flex justify-center pointer-events-none">
           <div class="screenshot-card relative w-[80%] max-w-[260px] rounded-[2rem] p-1.5 bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700 shadow-2xl">
-            <img src="/assets/images/4_freshself_phone_screen.jpg" alt="FreshSelf Analytics Chart" class="w-full h-auto rounded-[1.7rem] object-cover" loading="lazy" />
+            <img src={`${imgBase}/4_freshself_phone_screen.jpg`} alt="FreshSelf Analytics Chart" class="w-full h-auto rounded-[1.7rem] object-cover" loading="lazy" />
           </div>
         </div>
         
         <!-- Explanation -->
         <div class="md:col-span-7 text-left space-y-6">
           <div class="space-y-2">
-            <h3 class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">아이템 구출률 90일 보고서</h3>
-            <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 font-medium">제때 소진한 '다 씀' 비율과 아깝게 기한이 지난 '버림' 비율을 도넛 그래프로 모니터링합니다. 공간별 낭비 점수와 평균 보관일 분석 기능으로 스마트한 주거 관리 습관을 길러 줍니다.</p>
+            <h3 class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">{t('fs.bento.body.title')}</h3>
+            <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 font-medium">{t('fs.bento.body.desc')}</p>
           </div>
           
           <div class="space-y-4 font-medium text-slate-700 dark:text-slate-300 text-sm">
             <div class="flex items-center gap-3">
               <span class="w-6 h-6 rounded-full bg-purple-100 dark:bg-purple-950/40 text-purple-600 dark:text-purple-400 flex items-center justify-center font-bold text-xs">✓</span>
-              <span>기한 내 소비율(구출률) 극대화 및 지출 절감</span>
+              <span>{t('fs.bento.body.check1')}</span>
             </div>
             <div class="flex items-center gap-3">
               <span class="w-6 h-6 rounded-full bg-purple-100 dark:bg-purple-950/40 text-purple-600 dark:text-purple-400 flex items-center justify-center font-bold text-xs">✓</span>
-              <span>가족이 함께 참여하는 투명한 보관소 공동 모니터링</span>
+              <span>{t('fs.bento.body.check2')}</span>
             </div>
             <div class="flex items-center gap-3">
               <span class="w-6 h-6 rounded-full bg-purple-100 dark:bg-purple-950/40 text-purple-600 dark:text-purple-400 flex items-center justify-center font-bold text-xs">✓</span>
-              <span>1일/3일/7일 전 푸시 알림 및 손맛을 살린 햅틱 피드백</span>
+              <span>{t('fs.bento.body.check3')}</span>
             </div>
           </div>
         </div>
@@ -261,8 +257,8 @@ const gt = useTranslations(lang as keyof typeof languages);
   <div id="toastNotification" class="fixed bottom-6 right-6 z-50 bg-slate-900/95 dark:bg-white/95 text-white dark:text-slate-900 px-6 py-4 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.3)] border border-white/10 dark:border-slate-200/50 backdrop-blur-xl flex items-center gap-3 transform translate-y-20 opacity-0 invisible transition-all duration-500 ease-out">
     <span class="text-xl">🍏</span>
     <div class="flex flex-col text-left">
-      <span class="text-sm font-bold">iOS 앱스토어 준비 중</span>
-      <span class="text-xs text-slate-400 dark:text-slate-600 mt-0.5">App Store 출시 등록 심사 진행 중입니다. 곧 런칭 예정입니다!</span>
+      <span class="text-sm font-bold">{toastTitle}</span>
+      <span class="text-xs text-slate-400 dark:text-slate-600 mt-0.5">{toastDesc}</span>
     </div>
   </div>
 

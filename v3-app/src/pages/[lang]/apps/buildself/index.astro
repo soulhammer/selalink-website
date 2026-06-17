@@ -89,7 +89,7 @@ const toastDesc = isKo
 							</div>
 						</button>
 						
-						<a href="https://play.google.com/store/apps/details?id=com.selalink.buildself" target="_blank" rel="noopener noreferrer" class="group/btn flex items-center justify-center gap-3 bg-teal-600 hover:bg-teal-500 text-white px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer shadow-lg shadow-teal-600/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 w-full sm:w-auto">
+						<a href={`https://play.google.com/store/apps/details?id=com.selalink.buildself&hl=${lang}`} target="_blank" rel="noopener noreferrer" class="group/btn flex items-center justify-center gap-3 bg-teal-600 hover:bg-teal-500 text-white px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer shadow-lg shadow-teal-600/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 w-full sm:w-auto">
 							<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/></svg>
 							<div class="flex flex-col items-start leading-tight">
 								<span class="text-xs text-teal-200 font-medium uppercase tracking-wider">Google Play</span>
@@ -101,7 +101,7 @@ const toastDesc = isKo
 					<!-- Frictionless QR Code Card (Desktop Only) -->
 					<div class="hidden md:flex items-center gap-4 p-4 rounded-2xl bg-white/70 dark:bg-slate-900/50 backdrop-blur-2xl border border-white/80 dark:border-white/10 shadow-md w-max mt-6 relative z-20">
 						<div class="w-20 h-20 bg-white p-2 rounded-xl border border-slate-200 flex items-center justify-center shadow-inner">
-							<img src="/assets/images/qr_buildself.png" alt="BuildSelf Play Store QR Code" class="w-full h-full object-contain" />
+							<img src={`/assets/images/qr/qr_buildself_${lang}.png`} alt="BuildSelf Play Store QR Code" class="w-full h-full object-contain" />
 						</div>
 						<div class="flex flex-col text-left font-sans">
 							<span class="text-xs font-bold text-slate-800 dark:text-slate-200">{qrTitle}</span>
