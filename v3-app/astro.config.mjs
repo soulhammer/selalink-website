@@ -13,6 +13,14 @@ export default defineConfig({
   },
 
   integrations: [sitemap({
+    filter: (page) => {
+      try {
+        const url = new URL(page);
+        return url.pathname !== '/apps/freshself/' && url.pathname !== '/apps/buildself/';
+      } catch (e) {
+        return true;
+      }
+    },
     i18n: {
       defaultLocale: 'en',
       locales: {
