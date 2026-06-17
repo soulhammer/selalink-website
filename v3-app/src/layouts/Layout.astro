@@ -85,38 +85,62 @@ const getPathForLang = (targetLang: string) => {
 		<!-- Hreflang SEO for Global Reach -->
 		{Object.keys(languages).map((code) => {
 			if (supportedLanguages && !supportedLanguages.includes(code)) return null;
-			return <link rel="alternate" hreflang={code} href={new URL(getPathForLang(code), Astro.site).href.replace(/\/$/, '')} />;
+			const rawUrl = new URL(getPathForLang(code), Astro.site).href;
+			const formattedUrl = rawUrl.endsWith('/') ? rawUrl : rawUrl + '/';
+			return <link rel="alternate" hreflang={code} href={formattedUrl} />;
 		})}
-		<link rel="alternate" hreflang="x-default" href={new URL(getPathForLang(supportedLanguages && supportedLanguages.length > 0 ? supportedLanguages[0] : 'en'), Astro.site).href.replace(/\/$/, '')} />
+		{(() => {
+			const defaultCode = supportedLanguages && supportedLanguages.length > 0 ? supportedLanguages[0] : 'en';
+			const rawDefaultUrl = new URL(getPathForLang(defaultCode), Astro.site).href;
+			const formattedDefaultUrl = rawDefaultUrl.endsWith('/') ? rawDefaultUrl : rawDefaultUrl + '/';
+			return <link rel="alternate" hreflang="x-default" href={formattedDefaultUrl} />;
+		})()}
 
 		<!-- AI & Semantic SEO Rules -->
 		<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 		<meta name="author" content="SelaLink Studio" />
 		
 		<!-- Comprehensive JSON-LD Structured Data for AI Search -->
-		<script type="application/ld+json" set:html={JSON.stringify({
-			"@context": "https://schema.org",
-			"@type": ogType === 'software' ? "SoftwareApplication" : "Organization",
-			"name": ogType === 'software' && title.includes('BuildSelf') ? "BuildSelf" : (ogType === 'software' && title.includes('DeepMood') ? "DeepMood" : (ogType === 'software' && title.includes('FreshSelf') ? "FreshSelf" : "SelaLink Studio")),
-			"url": canonicalUrl || Astro.url.href.replace(/\/$/, ''),
-			"description": description,
-			...(ogType === 'software' ? {
-				"applicationCategory": title.includes('DeepMood') || title.includes('FreshSelf') ? "LifestyleApplication" : "HealthApplication",
-				"operatingSystem": "iOS, Android",
-				"offers": {
-					"@type": "Offer",
-					"price": "0",
-					"priceCurrency": "USD"
-				}
-			} : {}),
-			...(title.includes('BuildSelf') || title.includes('FreshSelf') ? {
-				"sameAs": [
-					title.includes('BuildSelf') 
-						? "https://play.google.com/store/apps/details?id=com.selalink.buildself" 
-						: "https://play.google.com/store/apps/details?id=com.selalink.freshself"
-				]
-			} : {})
-		})} />
+		{(() => {
+			const isBuildSelf = Astro.url.pathname.includes('/apps/buildself');
+			const isFreshSelf = Astro.url.pathname.includes('/apps/freshself');
+			const isDeepMood = Astro.url.pathname.includes('/apps/deepmood');
+			
+			const appName = isBuildSelf ? "BuildSelf" : (isDeepMood ? "DeepMood" : (isFreshSelf ? "FreshSelf" : "SelaLink Studio"));
+			const appCategory = isDeepMood || isFreshSelf ? "LifestyleApplication" : "HealthApplication";
+			
+			const rawUrl = canonicalUrl || Astro.url.href;
+			const formattedUrl = rawUrl.endsWith('/') ? rawUrl : rawUrl + '/';
+			
+			const sameAsLinks = [];
+			if (isBuildSelf) {
+				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.buildself");
+			} else if (isFreshSelf) {
+				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.freshself");
+			}
+			
+			return (
+				<script type="application/ld+json" set:html={JSON.stringify({
+					"@context": "https://schema.org",
+					"@type": ogType === 'software' ? "SoftwareApplication" : "Organization",
+					"name": ogType === 'software' ? appName : "SelaLink Studio",
+					"url": formattedUrl,
+					"description": description,
+					...(ogType === 'software' ? {
+						"applicationCategory": appCategory,
+						"operatingSystem": "iOS, Android",
+						"offers": {
+							"@type": "Offer",
+							"price": "0",
+							"priceCurrency": "USD"
+						}
+					} : {}),
+					...(sameAsLinks.length > 0 ? {
+						"sameAs": sameAsLinks
+					} : {})
+				})} />
+			);
+		})()}
 		
 		<style is:global>
 			body {
