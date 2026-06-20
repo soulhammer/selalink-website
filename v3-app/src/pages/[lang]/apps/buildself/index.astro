@@ -47,14 +47,14 @@ const toastDesc = isKo
 		}
 	</style>
 
-	<div class="bg-slate-50 dark:bg-slate-900 min-h-screen pt-8 md:pt-20 pb-32 overflow-hidden relative">
+	<div class="bg-slate-50 dark:bg-slate-900 min-h-screen pt-4 md:pt-10 pb-20 overflow-hidden relative">
 		<!-- Background decorative elements -->
 		<div class="absolute top-0 right-0 -mr-40 -mt-40 w-96 h-96 rounded-full bg-teal-400/20 dark:bg-teal-600/10 blur-3xl pointer-events-none"></div>
 		<div class="absolute bottom-40 left-0 -ml-40 w-80 h-80 rounded-full bg-orange-400/10 dark:bg-orange-600/10 blur-3xl pointer-events-none"></div>
 
 		<main class="max-w-[1240px] mx-auto px-6 relative z-10">
 			<!-- Header Action -->
-			<div class="mb-16">
+			<div class="mb-8">
 				<a href={`/${lang}/`} class="inline-flex items-center text-sm font-semibold text-teal-600 dark:text-teal-400 hover:text-teal-800 dark:hover:text-teal-300 transition-colors">
 					<svg class="w-4 h-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>
 					Back to SelaLink Studio
@@ -62,7 +62,7 @@ const toastDesc = isKo
 			</div>
 
 			<!-- Hero Section - Spatial Design Integration -->
-			<section class="flex flex-col lg:flex-row items-center justify-between gap-8 lg:gap-20 mb-20 md:mb-32">
+			<section class="flex flex-col lg:flex-row items-center justify-between gap-8 lg:gap-20 mb-12 md:mb-20">
 				<div class="flex-1 space-y-6 md:space-y-8 w-full max-w-2xl lg:max-w-xl z-20 text-center lg:text-left">
 					<!-- Ultra-Clean Localized Badge -->
 					<div class="inline-flex items-center px-4 py-2 rounded-full bg-orange-50 dark:bg-orange-500/10 border border-orange-200 dark:border-orange-500/30 shadow-sm mx-auto lg:mx-0 w-max">
@@ -73,7 +73,7 @@ const toastDesc = isKo
 						<div class="w-[1px] h-4 bg-orange-300 dark:bg-orange-500/50 mx-3"></div>
 						<span class="font-bold text-orange-600 dark:text-orange-400 text-sm tracking-tight">{t('app.buildself.supported')}</span>
 					</div>
-					<h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black text-slate-900 dark:text-white leading-[1.1] tracking-tight whitespace-pre-line mx-auto lg:mx-0">
+					<h1 class="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 dark:text-white leading-[1.1] tracking-tight whitespace-pre-line mx-auto lg:mx-0">
 						{t('bs.hero.title')}
 					</h1>
 					<p class="text-lg md:text-xl text-slate-600 dark:text-slate-400 leading-relaxed font-medium mx-auto lg:mx-0">
@@ -144,7 +144,7 @@ const toastDesc = isKo
 			</section>
 
 			<!-- Mentor & Media Bento Image Grid Section -->
-			<section class="mb-32">
+			<section class="mb-16 md:mb-24">
 				<div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
 					
 					<!-- Feature 1: Mentor Journey (Amber/Gold Glowing Card) -->
