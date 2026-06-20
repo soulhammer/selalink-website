@@ -1,0 +1,467 @@
+---
+import Layout from '../../../../../layouts/Layout.astro';
+import { languages } from '../../../../../i18n/ui';
+import { ingredients } from '../../../../../data/ingredients';
+
+export function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({
+    params: { lang },
+  }));
+}
+
+const { lang } = Astro.params;
+const currentLang = (lang as string) || 'en';
+
+// 로컬 번역 딕셔너리
+const localTranslations: Record<string, Record<string, string>> = {
+  ko: {
+    'util.title': '식재료 보관법 & 권장 기한 검색기',
+    'util.subtitle': '올바른 보관법으로 음식물 쓰레기를 줄이고, 스마트하게 식재료를 관리해보세요.',
+    'util.search.placeholder': '식재료 이름을 검색해보세요 (예: 대파, 양파, 우유)',
+    'util.category.all': '전체',
+    'util.category.vegetable': '🥬 채소',
+    'util.category.fruit': '🍎 과일',
+    'util.category.dairy': '🥛 유제품/두부',
+    'util.category.meat': '🥩 육류',
+    'util.category.seafood': '🐟 수산물',
+    'util.category.grain': '🍞 곡류/베이커리',
+    'util.category.condiment': '🥫 소스/통조림',
+    'util.category.etc': '🍱 기타',
+    'util.card.view': '보관법 보기 →',
+    'util.card.room': '실온',
+    'util.card.fridge': '냉장',
+    'util.card.freezer': '냉동',
+    'util.card.days': '일',
+    'util.no_results': '검색 결과가 없습니다. 다른 검색어를 입력해 보세요.'
+  },
+  en: {
+    'util.title': 'Food Storage & Expiration Guide',
+    'util.subtitle': 'Reduce food waste with correct storage methods and manage your ingredients smartly.',
+    'util.search.placeholder': 'Search ingredients (e.g., Green onion, Onion, Milk)',
+    'util.category.all': 'All',
+    'util.category.vegetable': '🥬 Vegetable',
+    'util.category.fruit': '🍎 Fruit',
+    'util.category.dairy': '🥛 Dairy/Tofu',
+    'util.category.meat': '🥩 Meat',
+    'util.category.seafood': '🐟 Seafood',
+    'util.category.grain': '🍞 Grains/Bakery',
+    'util.category.condiment': '🥫 Condiment',
+    'util.category.etc': '🍱 Etc',
+    'util.card.view': 'View Guide →',
+    'util.card.room': 'Room',
+    'util.card.fridge': 'Fridge',
+    'util.card.freezer': 'Freezer',
+    'util.card.days': 'd',
+    'util.no_results': 'No results found. Try another search term.'
+  },
+  ja: {
+    'util.title': '食材保存法＆期限チェッカー',
+    'util.subtitle': '正しい保存方法で食品ロスを減らし、スマートに食材を管理しましょう。',
+    'util.search.placeholder': '食材を検索する (例：ネギ、玉ねぎ、牛乳)',
+    'util.category.all': 'すべて',
+    'util.category.vegetable': '🥬 野菜',
+    'util.category.fruit': '🍎 果物',
+    'util.category.dairy': '🥛 乳製品/豆腐',
+    'util.category.meat': '🥩 肉類',
+    'util.category.seafood': '🐟 魚介類',
+    'util.category.grain': '🍞 穀物/パン',
+    'util.category.condiment': '🥫 調味料/缶詰',
+    'util.category.etc': '🍱 その他',
+    'util.card.view': '保存法を見る →',
+    'util.card.room': '常温',
+    'util.card.fridge': '冷蔵',
+    'util.card.freezer': '冷凍',
+    'util.card.days': '日',
+    'util.no_results': '検索結果が見つかりません。別のキーワードをお試しください。'
+  },
+  zh: {
+    'util.title': '食材保存与保质期查询助手',
+    'util.subtitle': '掌握正确的保存方法以减少食品浪费，更智能地管理您的厨房食材。',
+    'util.search.placeholder': '搜索食材（例如：大葱、洋葱、牛奶）',
+    'util.category.all': '全部',
+    'util.category.vegetable': '🥬 蔬菜',
+    'util.category.fruit': '🍎 水果',
+    'util.category.dairy': '🥛 乳制品/豆腐',
+    'util.category.meat': '🥩 肉类',
+    'util.category.seafood': '🐟 海鲜',
+    'util.category.grain': '🍞 谷物面点',
+    'util.category.condiment': '🥫 调料罐头',
+    'util.category.etc': '🍱 其他',
+    'util.card.view': '查看保存法 →',
+    'util.card.room': '常温',
+    'util.card.fridge': '冷藏',
+    'util.card.freezer': '冷冻',
+    'util.card.days': '天',
+    'util.no_results': '未找到相关食材。请尝试其他搜索词。'
+  },
+  es: {
+    'util.title': 'Guía de Conservación de Alimentos',
+    'util.subtitle': 'Reduzca el desperdicio con métodos de conservación correctos y administre sus ingredientes con inteligencia.',
+    'util.search.placeholder': 'Buscar ingredientes (ej. Cebollín, Cebolla, Leche)',
+    'util.category.all': 'Todo',
+    'util.category.vegetable': '🥬 Verdura',
+    'util.category.fruit': '🍎 Fruta',
+    'util.category.dairy': '🥛 Lácteos/Tofu',
+    'util.category.meat': '🥩 Carne',
+    'util.category.seafood': '🐟 Pescado',
+    'util.category.grain': '🍞 Granos/Pan',
+    'util.category.condiment': '🥫 Condimento',
+    'util.category.etc': '🍱 Otros',
+    'util.card.view': 'Ver guía →',
+    'util.card.room': 'Ambiente',
+    'util.card.fridge': 'Refrig',
+    'util.card.freezer': 'Congel',
+    'util.card.days': 'días',
+    'util.no_results': 'No se encontraron resultados. Pruebe con otro término.'
+  },
+  fr: {
+    'util.title': 'Guide de Conservation des Aliments',
+    'util.subtitle': 'Réduisez le gaspillage grâce aux méthodes de conservation adaptées et gérez vos stocks.',
+    'util.search.placeholder': 'Rechercher un aliment (ex: Oignon vert, Oignon, Lait)',
+    'util.category.all': 'Tout',
+    'util.category.vegetable': '🥬 Légume',
+    'util.category.fruit': '🍎 Fruit',
+    'util.category.dairy': '🥛 Laitages/Tofu',
+    'util.category.meat': '🥩 Viande',
+    'util.category.seafood': '🐟 Poisson',
+    'util.category.grain': '🍞 Grains/Boulangerie',
+    'util.category.condiment': '🥫 Condiment',
+    'util.category.etc': '🍱 Divers',
+    'util.card.view': 'Consulter →',
+    'util.card.room': 'Ambiante',
+    'util.card.fridge': 'Réfrig',
+    'util.card.freezer': 'Congél',
+    'util.card.days': 'j',
+    'util.no_results': 'Aucun résultat trouvé. Essayez un autre mot.'
+  },
+  de: {
+    'util.title': 'Haltbarkeits- & Vorrats-Ratgeber',
+    'util.subtitle': 'Vermeiden Sie Lebensmittelverschwendung durch die richtige Lagerung Ihrer Lebensmittel.',
+    'util.search.placeholder': 'Lebensmittel suchen (z. B. Lauch, Zwiebel, Milch)',
+    'util.category.all': 'Alle',
+    'util.category.vegetable': '🥬 Gemüse',
+    'util.category.fruit': '🍎 Obst',
+    'util.category.dairy': '🥛 Milchprodukte/Tofu',
+    'util.category.meat': '🥩 Fleisch',
+    'util.category.seafood': '🐟 Fisch/Meeresfrüchte',
+    'util.category.grain': '🍞 Getreide/Brot',
+    'util.category.condiment': '🥫 Gewürze/Konserven',
+    'util.category.etc': '🍱 Sonstiges',
+    'util.card.view': 'Ansehen →',
+    'util.card.room': 'Zimmertemp',
+    'util.card.fridge': 'Kühlen',
+    'util.card.freezer': 'Gefrieren',
+    'util.card.days': 'Tage',
+    'util.no_results': 'Keine Ergebnisse gefunden. Versuchen Sie einen anderen Begriff.'
+  },
+  pt: {
+    'util.title': 'Guia de Conservação de Alimentos',
+    'util.subtitle': 'Reduza o desperdício com métodos corretos de armazenamento e gerencie sua despensa com inteligência.',
+    'util.search.placeholder': 'Buscar ingredientes (ex: Cebolinha, Cebola, Leite)',
+    'util.category.all': 'Tudo',
+    'util.category.vegetable': '🥬 Vegetal',
+    'util.category.fruit': '🍎 Fruta',
+    'util.category.dairy': '🥛 Laticínio/Tofu',
+    'util.category.meat': '🥩 Carne',
+    'util.category.seafood': '🐟 Peixes/Frutos',
+    'util.category.grain': '🍞 Grãos/Padaria',
+    'util.category.condiment': '🥫 Condimento/Enlatados',
+    'util.category.etc': '🍱 Outros',
+    'util.card.view': 'Ver Guia →',
+    'util.card.room': 'Ambiente',
+    'util.card.fridge': 'Refrig',
+    'util.card.freezer': 'Congel',
+    'util.card.days': 'dias',
+    'util.no_results': 'Nenhum resultado encontrado. Tente outro termo.'
+  },
+  id: {
+    'util.title': 'Panduan Penyimpanan Bahan Makanan',
+    'util.subtitle': 'Kurangi pemborosan makanan dengan metode penyimpanan yang tepat dan kelola bahan masakan Anda.',
+    'util.search.placeholder': 'Cari bahan makanan (misal: Daun bawang, Bawang bombay, Susu)',
+    'util.category.all': 'Semua',
+    'util.category.vegetable': '🥬 Sayuran',
+    'util.category.fruit': '🍎 Buah-buahan',
+    'util.category.dairy': '🥛 Olahan Susu/Tahu',
+    'util.category.meat': '🥩 Daging',
+    'util.category.seafood': '🐟 Hasil Laut',
+    'util.category.grain': '🍞 Biji-bijian/Roti',
+    'util.category.condiment': '🥫 Bumbu/Kalengan',
+    'util.category.etc': '🍱 Lain-lain',
+    'util.card.view': 'Lihat Panduan →',
+    'util.card.room': 'Suhu Ruang',
+    'util.card.fridge': 'Dingin',
+    'util.card.freezer': 'Beku',
+    'util.card.days': 'hari',
+    'util.no_results': 'Tidak ditemukan hasil. Coba kata kunci lain.'
+  }
+};
+
+const t = (key: string) => {
+  return localTranslations[currentLang]?.[key] || localTranslations['en']?.[key] || key;
+};
+
+// 현재 로케일에 최적화된 식재료 정보 생성
+const localizedIngredients = ingredients.map((item) => {
+  const localName = item.names[currentLang] || item.names['en'];
+  return {
+    ...item,
+    localName,
+    // 검색 인덱스를 위한 키워드 결합
+    searchIndex: `${localName.toLowerCase()} ${item.id} ${item.category} ${item.searchKeywords?.join(' ') || ''}`
+  };
+});
+
+const categories = [
+  'all',
+  'vegetable',
+  'fruit',
+  'dairy',
+  'meat',
+  'seafood',
+  'grain',
+  'condiment',
+  'etc'
+];
+
+const categoryCounts = categories.reduce((acc, cat) => {
+  if (cat === 'all') {
+    acc[cat] = ingredients.length;
+  } else {
+    acc[cat] = ingredients.filter((item) => item.category === cat).length;
+  }
+  return acc;
+}, {} as Record<string, number>);
+---
+
+<Layout 
+  title={`${t('util.title')} | FreshSelf`} 
+  lang={currentLang}
+  description={t('util.subtitle')}
+  canonicalUrl={`https://selalink.net/${currentLang}/apps/freshself/ingredients/`}
+  ogType="website"
+  image="/assets/images/og/freshself.png"
+  appId="freshself"
+>
+  <main class="max-w-[1200px] mx-auto px-6 py-12 md:py-24">
+    <!-- Hero Section -->
+    <div class="text-center mb-12 md:mb-20">
+      <h1 class="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6 bg-gradient-to-r from-purple-600 to-indigo-600 dark:from-purple-400 dark:to-indigo-400 bg-clip-text text-transparent">
+        {t('util.title')}
+      </h1>
+      <p class="text-lg md:text-xl text-slate-600 dark:text-slate-300 max-w-2xl mx-auto leading-relaxed">
+        {t('util.subtitle')}
+      </p>
+    </div>
+
+    <!-- Search Input & Filters Bento Group -->
+    <div class="bento-card p-6 md:p-8 mb-8" style="--glow-color: rgba(139,92,246,0.15);">
+      <!-- Search Input Container -->
+      <div class="relative max-w-2xl mx-auto mb-6">
+        <span class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none text-slate-400 text-lg">
+          🔍
+        </span>
+        <input 
+          type="text" 
+          id="searchInput" 
+          placeholder={t('util.search.placeholder')}
+          class="w-full pl-12 pr-4 py-4 rounded-2xl bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 text-base md:text-lg focus:outline-none focus:ring-2 focus:ring-purple-500 transition-all font-medium text-slate-800 dark:text-slate-100"
+        />
+      </div>
+
+      <!-- Categories Filter Slider -->
+      <div class="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none scroll-smooth">
+        {categories.map((cat) => (
+          <button
+            data-category={cat}
+            class={`category-btn flex items-center gap-1.5 px-4 py-2 rounded-xl text-sm font-semibold cursor-pointer whitespace-nowrap transition-all duration-300 border ${
+              cat === 'all' 
+                ? 'bg-purple-600 border-purple-600 text-white shadow-md shadow-purple-600/20' 
+                : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-purple-500 dark:hover:border-purple-500'
+            }`}
+          >
+            <span>{t(`util.category.${cat}`)}</span>
+            <span class={`count-badge px-1.5 py-0.5 text-[11px] rounded-md transition-colors ${
+              cat === 'all'
+                ? 'bg-purple-700/50 text-purple-100'
+                : 'bg-slate-100 dark:bg-slate-800/80 text-slate-500 dark:text-slate-400'
+            }`}>
+              {categoryCounts[cat]}
+            </span>
+          </button>
+        ))}
+      </div>
+    </div>
+
+    <!-- Grid Container -->
+    <div 
+      id="ingredientsGrid" 
+      class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6 transition-opacity duration-300"
+    >
+      {localizedIngredients.map((item) => (
+        <a 
+          href={`/${currentLang}/apps/freshself/ingredients/${item.id}/`}
+          data-item-category={item.category}
+          data-search-index={item.searchIndex}
+          class="ingredient-item bento-card p-5 flex flex-col justify-between group overflow-hidden" 
+          style="--glow-color: rgba(139,92,246,0.12);"
+        >
+          <div class="flex flex-col gap-3">
+            {item.iconImage ? (
+              <img 
+                src={item.iconImage} 
+                alt={item.localName}
+                class="w-[52px] h-[52px] sm:w-[58px] sm:h-[58px] object-contain group-hover:scale-110 transition-transform duration-300 select-none block"
+                loading="lazy"
+              />
+            ) : (
+              <span class="text-4xl sm:text-5xl group-hover:scale-110 transition-transform duration-300 select-none block w-fit">
+                {item.emoji}
+              </span>
+            )}
+            <div class="mt-1">
+              <h2 class="text-lg md:text-xl font-bold text-slate-800 dark:text-slate-100 group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors">
+                {item.localName}
+              </h2>
+              <span class="text-xs font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500">
+                {t(`util.category.${item.category}`).split(' ').slice(1).join(' ') || t(`util.category.${item.category}`)}
+              </span>
+            </div>
+          </div>
+
+          <div class="mt-6 pt-4 border-t border-slate-100 dark:border-slate-800/80 flex flex-col gap-2">
+            <!-- Storage Durations Badge List -->
+            <div class="flex flex-wrap gap-1.5 text-[11px] font-semibold text-slate-600 dark:text-slate-400">
+              {item.storage.room && (
+                <span class="bg-amber-100/60 dark:bg-amber-950/40 text-amber-800 dark:text-amber-300 px-2 py-0.5 rounded-md">
+                  {t('util.card.room')} {item.storage.room.durationDays}{t('util.card.days')}
+                </span>
+              )}
+              {item.storage.fridge && (
+                <span class="bg-emerald-100/60 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-300 px-2 py-0.5 rounded-md">
+                  {t('util.card.fridge')} {item.storage.fridge.durationDays}{t('util.card.days')}
+                </span>
+              )}
+              {item.storage.freezer && (
+                <span class="bg-blue-100/60 dark:bg-blue-950/40 text-blue-800 dark:text-blue-300 px-2 py-0.5 rounded-md">
+                  {t('util.card.freezer')} {item.storage.freezer.durationDays}{t('util.card.days')}
+                </span>
+              )}
+            </div>
+            
+            <div class="text-xs font-bold text-purple-600 dark:text-purple-400 flex items-center gap-1 mt-1 opacity-0 group-hover:opacity-100 translate-x-[-5px] group-hover:translate-x-0 transition-all duration-300">
+              {t('util.card.view')}
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <!-- Empty State -->
+    <div id="emptyState" class="hidden text-center py-16">
+      <span class="text-5xl block mb-4">🫙</span>
+      <p class="text-lg text-slate-500 dark:text-slate-400">{t('util.no_results')}</p>
+    </div>
+  </main>
+
+  <script>
+    // Client-side search and filtering logic
+    const searchInput = document.getElementById('searchInput') as HTMLInputElement;
+    const categoryButtons = document.querySelectorAll('.category-btn');
+    const ingredientItems = document.querySelectorAll('.ingredient-item') as NodeListOf<HTMLElement>;
+    const emptyState = document.getElementById('emptyState') as HTMLElement;
+    const grid = document.getElementById('ingredientsGrid') as HTMLElement;
+
+    let activeCategory = 'all';
+    let searchQuery = '';
+
+    const filterIngredients = () => {
+      let visibleCount = 0;
+
+      ingredientItems.forEach((item) => {
+        const cat = item.getAttribute('data-item-category') || '';
+        const searchIndex = item.getAttribute('data-search-index') || '';
+        
+        const matchesCategory = activeCategory === 'all' || cat === activeCategory;
+        const matchesSearch = searchIndex.includes(searchQuery);
+
+        if (matchesCategory && matchesSearch) {
+          item.classList.remove('hidden');
+          visibleCount++;
+        } else {
+          item.classList.add('hidden');
+        }
+      });
+
+      if (visibleCount === 0) {
+        emptyState.classList.remove('hidden');
+        grid.classList.add('opacity-0');
+        setTimeout(() => {
+          if (document.getElementById('emptyState')?.classList.contains('hidden') === false) {
+            grid.classList.add('hidden');
+          }
+        }, 150);
+      } else {
+        emptyState.classList.add('hidden');
+        grid.classList.remove('hidden', 'opacity-0');
+      }
+    };
+
+    // Search Input Event
+    searchInput?.addEventListener('input', (e) => {
+      searchQuery = (e.target as HTMLInputElement).value.toLowerCase().trim();
+      filterIngredients();
+    });
+
+    // Category Button Click Events
+    categoryButtons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        // Toggle active states
+        categoryButtons.forEach((b) => {
+          b.classList.remove('bg-purple-600', 'border-purple-600', 'text-white', 'shadow-md', 'shadow-purple-600/20');
+          b.classList.add('bg-white', 'dark:bg-slate-900', 'border-slate-200', 'dark:border-slate-800', 'text-slate-700', 'dark:text-slate-300');
+        });
+
+        btn.classList.remove('bg-white', 'dark:bg-slate-900', 'border-slate-200', 'dark:border-slate-800', 'text-slate-700', 'dark:text-slate-300');
+        btn.classList.add('bg-purple-600', 'border-purple-600', 'text-white', 'shadow-md', 'shadow-purple-600/20');
+
+        activeCategory = btn.getAttribute('data-category') || 'all';
+        filterIngredients();
+      });
+    });
+
+    // Spatial Glow hydration logic for dynamically updated layouts
+    document.querySelectorAll('.bento-card').forEach((card) => {
+      let glow = card.querySelector('.bento-glow');
+      if (!glow) {
+        glow = document.createElement('div');
+        glow.className = 'bento-glow';
+        card.prepend(glow);
+      }
+      
+      card.addEventListener('mousemove', (e: any) => {
+        const rect = card.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+        (glow as HTMLElement).style.setProperty('--mouse-x', `${x}px`);
+        (glow as HTMLElement).style.setProperty('--mouse-y', `${y}px`);
+      });
+    });
+  </script>
+</Layout>
+
+<style>
+  /* Hide scrollbar for category filter slider */
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-none {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
+  /* Active state for badge inside active button */
+  .category-btn.bg-purple-600 .count-badge {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    color: #ffffff !important;
+  }
+</style>
