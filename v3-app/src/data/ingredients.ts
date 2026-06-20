@@ -1,6 +1,7 @@
 export interface StorageGuide {
   durationDays: number;
   tips: Record<string, string>;
+  sources?: string[];
 }
 
 export interface Ingredient {
@@ -9,7 +10,7 @@ export interface Ingredient {
   emoji: string;
   names: Record<string, string>;
   isProcessed: boolean;
-  iconImage?: string; // True: 가공식품(바코드/OCR 스캔 대상), False: 신선식품(간편 등록 대상)
+  iconImage?: string;
   searchKeywords?: string[];
   storage: {
     room?: StorageGuide;
@@ -19,7 +20,6 @@ export interface Ingredient {
 }
 
 export const ingredients: Ingredient[] = [
-  // 🥬 채소류 (Vegetables)
   {
     id: 'green-onion',
     iconImage: '/assets/images/apps/freshself/ingredients/green-onion.png',
@@ -27,8 +27,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🎋',
     isProcessed: false,
     names: {
-      ko: '대파', en: 'Green Onion', ja: 'ネギ', zh: '大葱', es: 'Cebollín',
-      fr: 'Oignon vert', de: 'Frühlingszwiebel', pt: 'Cebolinha', id: 'Daun bawang'
+      ko: '대파',
+      en: 'Green Onion',
+      ja: 'ネギ',
+      zh: '大葱',
+      es: 'Cebollín',
+      fr: 'Oignon vert',
+      de: 'Frühlingszwiebel',
+      pt: 'Cebolinha',
+      id: 'Daun bawang'
     },
     storage: {
       room: {
@@ -43,7 +50,10 @@ export const ingredients: Ingredient[] = [
           de: 'In Zeitungspapier einwickeln, Wurzeln intakt lassen und an einem kühlen, schattigen Ort aufbewahren.',
           pt: 'Embrulhe em jornal com as raízes intactas e guarde em local fresco e com sombra.',
           id: 'Bungkus dengan koran dengan akar utuh dan simpan di tempat yang sejuk dan teduh.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       fridge: {
         durationDays: 21,
@@ -57,7 +67,10 @@ export const ingredients: Ingredient[] = [
           de: 'Vollständig trocknen, auf Behälterhöhe schneiden und senkrecht mit den Wurzeln nach unten aufbewahren.',
           pt: 'Seque completamente, corte na altura do recipiente e guarde verticalmente com as raízes para baixo.',
           id: 'Keringkan sepenuhnya, potong sesuai tinggi wadah, dan simpan secara vertikal dengan akar menghadap ke bawah.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       freezer: {
         durationDays: 180,
@@ -71,7 +84,10 @@ export const ingredients: Ingredient[] = [
           de: 'Hacken, in luftdichten Beuteln portionieren und einfrieren. Direkt gefroren beim Kochen verwenden.',
           pt: 'Pique, divida em sacos herméticos e congele. Use diretamente na cozinha sem descongelar.',
           id: 'Cincang, bagi ke dalam kantong kedap udara, lalu bekukan. Gunakan langsung dalam masakan tanpa mencairkannya.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       }
     }
   },
@@ -81,8 +97,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🧅',
     isProcessed: false,
     names: {
-      ko: '양파', en: 'Onion', ja: '玉ねぎ', zh: '洋葱', es: 'Cebolla',
-      fr: 'Oignon', de: 'Zwiebel', pt: 'Cebola', id: 'Bawang bombay'
+      ko: '양파',
+      en: 'Onion',
+      ja: '玉ねぎ',
+      zh: '洋葱',
+      es: 'Cebolla',
+      fr: 'Oignon',
+      de: 'Zwiebel',
+      pt: 'Cebola',
+      id: 'Bawang bombay'
     },
     storage: {
       room: {
@@ -97,7 +120,11 @@ export const ingredients: Ingredient[] = [
           de: 'In einem Netz aufhängen, ohne dass sie sich berühren, oder einzeln in Zeitungspapier an einem kühlen Ort lagern.',
           pt: 'Pendure em uma rede sem que se toquem, ou embrulhe individualmente em jornal em local fresco e arejado.',
           id: 'Gantung dalam jaring tanpa bersentuhan, atau bungkus satu per satu dengan koran di tempat yang sejuk dan berventilasi.'
-        }
+        },
+        sources: [
+          'RDA',
+          'FSA'
+        ]
       },
       fridge: {
         durationDays: 14,
@@ -111,7 +138,12 @@ export const ingredients: Ingredient[] = [
           de: 'Schälen, waschen, trocknen, einzeln in Frischhaltefolie einwickeln und im Kühlschrank lagern.',
           pt: 'Descasque, lave, seque, embrulhe individualmente em filme plástico e refrigere.',
           id: 'Kupas, cuci, keringkan, bungkus satu per satu dengan plastik wrap, lalu masukkan ke dalam lemari es.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA',
+          'FSA'
+        ]
       }
     }
   },
@@ -121,8 +153,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥔',
     isProcessed: false,
     names: {
-      ko: '감자', en: 'Potato', ja: 'じゃがいも', zh: '土豆', es: 'Patata',
-      fr: 'Pomme de terre', de: 'Kartoffel', pt: 'Batata', id: 'Kentang'
+      ko: '감자',
+      en: 'Potato',
+      ja: 'じゃがいも',
+      zh: '土豆',
+      es: 'Patata',
+      fr: 'Pomme de terre',
+      de: 'Kartoffel',
+      pt: 'Batata',
+      id: 'Kentang'
     },
     storage: {
       room: {
@@ -137,7 +176,12 @@ export const ingredients: Ingredient[] = [
           de: 'In einer Kiste oder Papiertüte an einem gut belüfteten, schattigen Ort lagern. Ein Apfel verhindert das Keimen.',
           pt: 'Guarde em caixa ou saco de papel em local arejado e com sombra. Colocar uma maçã ajuda a evitar o brotamento.',
           id: 'Simpan dalam kotak atau kantong kertas di ruangan yang sejuk dan berventilasi. Menambahkan apel dapat mencegah bertunas.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'RDA',
+          'FSA'
+        ]
       }
     }
   },
@@ -147,8 +191,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍠',
     isProcessed: false,
     names: {
-      ko: '고구마', en: 'Sweet Potato', ja: 'さつまいも', zh: '红薯', es: 'Batata dulce',
-      fr: 'Patate douce', de: 'Süßkartoffel', pt: 'Batata-doce', id: 'Ubi jalar'
+      ko: '고구마',
+      en: 'Sweet Potato',
+      ja: 'さつまいも',
+      zh: '红薯',
+      es: 'Batata dulce',
+      fr: 'Patate douce',
+      de: 'Süßkartoffel',
+      pt: 'Batata-doce',
+      id: 'Ubi jalar'
     },
     storage: {
       room: {
@@ -163,7 +214,11 @@ export const ingredients: Ingredient[] = [
           de: 'Lagerung im Kühlschrank führt zu Kälteschäden. Feuchtigkeit trocknen, in Zeitungspapier wickeln und bei 12–15 °C lagern.',
           pt: 'A refrigeração causa danos pelo frio. Seque a umidade, embrulhe em jornal e guarde à temperatura ambiente (12–15 °C).',
           id: 'Memasukkannya ke lemari es dapat merusaknya karena dingin. Keringkan, bungkus koran, simpan di suhu 12–15°C.'
-        }
+        },
+        sources: [
+          'RDA',
+          'FSA'
+        ]
       }
     }
   },
@@ -173,8 +228,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🧄',
     isProcessed: false,
     names: {
-      ko: '마늘', en: 'Garlic', ja: 'にんにく', zh: '大蒜', es: 'Ajo',
-      fr: 'Ail', de: 'Knoblauch', pt: 'Alho', id: 'Bawang putih'
+      ko: '마늘',
+      en: 'Garlic',
+      ja: 'にんにく',
+      zh: '大蒜',
+      es: 'Ajo',
+      fr: 'Ail',
+      de: 'Knoblauch',
+      pt: 'Alho',
+      id: 'Bawang putih'
     },
     storage: {
       room: {
@@ -189,7 +251,10 @@ export const ingredients: Ingredient[] = [
           de: 'Ganzen Knoblauch in einem Netz an einem kühlen, gut belüfteten Ort aufhängen. Belüftung ist der Schlüssel.',
           pt: 'Pendure o alho inteiro em uma rede em local fresco e arejado. A ventilação é fundamental.',
           id: 'Gantung bawang putih utuh dalam jaring di tempat yang sejuk dan berventilasi. Ventilasi adalah kunci.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       fridge: {
         durationDays: 14,
@@ -203,7 +268,11 @@ export const ingredients: Ingredient[] = [
           de: 'Geschälte Zehen gut trocknen. Zucker auf den Boden des Behälters streuen, Küchenpapier darüber legen und Knoblauch darauflegen.',
           pt: 'Para dentes descascados, seque bem. Coloque açúcar no fundo do pote, cubra com papel-toalha e coloque o alho.',
           id: 'Untuk bawang kupas, keringkan. Taburkan gula di dasar wadah, alasi dengan tisu dapur, lalu taruh bawang.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 180,
@@ -217,7 +286,10 @@ export const ingredients: Ingredient[] = [
           de: 'Gehackten Knoblauch in Eiswürfelformen oder flach in Beuteln einfrieren, dann in Portionen schneiden.',
           pt: 'Congele o alho picado em formas de gelo ou achatado em sacos, depois corte em porções.',
           id: 'Bekukan bawang putih cincang dalam cetakan es atau pipihkan dalam kantong, lalu potong-potong.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       }
     }
   },
@@ -227,8 +299,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥑',
     isProcessed: false,
     names: {
-      ko: '아보카도', en: 'Avocado', ja: 'アボカド', zh: '牛油果', es: 'Aguacate',
-      fr: 'Avocat', de: 'Avocado', pt: 'Abacate', id: 'Alpukat'
+      ko: '아보카도',
+      en: 'Avocado',
+      ja: 'アボカド',
+      zh: '牛油果',
+      es: 'Aguacate',
+      fr: 'Avocat',
+      de: 'Avocado',
+      pt: 'Abacate',
+      id: 'Alpukat'
     },
     storage: {
       room: {
@@ -243,7 +322,10 @@ export const ingredients: Ingredient[] = [
           de: 'Wenn unreif (grün), in einer Papiertüte mit Bananen oder Äpfeln bei Raumtemperatur reifen lassen.',
           pt: 'Se estiver verde, coloque em um saco de papel com bananas ou maçãs e amadureça à temperatura ambiente.',
           id: 'Jika belum matang (hijau), taruh di kantong kertas bersama pisang atau apel dan matangkan di suhu ruang.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       },
       fridge: {
         durationDays: 7,
@@ -257,7 +339,10 @@ export const ingredients: Ingredient[] = [
           de: 'Kühlen, sobald gereift (braune Schale und weich), um den Verderb zu verlangsamen.',
           pt: 'Refrigere assim que estiver maduro (casca marrom e macio ao toque) para retardar a deterioração.',
           id: 'Masukkan ke lemari es setelah matang (kulit cokelat dan empuk saat ditekan) untuk memperlambat pembusukan.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   },
@@ -268,8 +353,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥗',
     isProcessed: false,
     names: {
-      ko: '상추', en: 'Lettuce', ja: 'レタス', zh: '生菜', es: 'Lechuga',
-      fr: 'Laitue', de: 'Salat', pt: 'Alface', id: 'Selada'
+      ko: '상추',
+      en: 'Lettuce',
+      ja: 'レタス',
+      zh: '生菜',
+      es: 'Lechuga',
+      fr: 'Laitue',
+      de: 'Salat',
+      pt: 'Alface',
+      id: 'Selada'
     },
     storage: {
       fridge: {
@@ -284,7 +376,13 @@ export const ingredients: Ingredient[] = [
           de: 'Ungewaschenen Salat in Küchenpapier wickeln und in einer Tüte verschließen. Nach dem Waschen gut trocknen.',
           pt: 'Embrulhe a alface sem lavar em papel-toalha e sele num saco. Se lavar, seque completamente para não murchar.',
           id: 'Bungkus selada yang belum dicuci dengan tisu dapur lalu segel. Jika dicuci, keringkan sepenuhnya.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'RDA',
+          'EFSA',
+          'FSA'
+        ]
       }
     }
   },
@@ -295,23 +393,35 @@ export const ingredients: Ingredient[] = [
     emoji: '🌿',
     isProcessed: false,
     names: {
-      ko: '시금치', en: 'Spinach', ja: 'ほうれん草', zh: '菠菜', es: 'Espinaca',
-      fr: 'Épinards', de: 'Spinat', pt: 'Espinafre', id: 'Bayam'
+      ko: '시금치',
+      en: 'Spinach',
+      ja: 'ほうれん草',
+      zh: '菠菜',
+      es: 'Espinaca',
+      fr: 'Épinards',
+      de: 'Spinat',
+      pt: 'Espinafre',
+      id: 'Bayam'
     },
     storage: {
       fridge: {
         durationDays: 7,
         tips: {
-          ko: '뿌리를 위로 세워서 보관하면 수명이 늘어납니다. 신문지나 키친타월로 가볍게 싸서 비닐팩에 넣어 세워두세요.',
+          ko: '뿌리가 아래로 가도록 세워서 보관하면 수명이 늘어납니다. 신문지나 키친타월로 가볍게 싸서 비닐팩에 넣어 세워두세요.',
           en: 'Store standing upright to extend shelf life. Wrap gently in paper towel and put vertically in a plastic bag.',
-          ja: '根を下・葉を上にして立てて保存すると長持ちします。新聞紙やペーパーで軽く包み、袋に入れて立ててください。',
+          ja: '根を下にして立てて保存すると長持ちします。新聞紙やペーパーで軽く包み、袋に入れて立ててください。',
           zh: '立着存放可以延长保鲜期。用报纸或厨房纸轻轻包裹，放入塑料袋中竖立保存。',
           es: 'Guárdelas de pie para prolongar su vida útil. Envuélvalas en papel de cocina y póngalas verticales.',
           fr: 'Conservez-les debout pour prolonger leur durée de vie. Enveloppez-les de papier et placez-les verticalement.',
           de: 'Aufrecht lagern, um die Frische zu verlängern. Locker in Küchenpapier wickeln und senkrecht in eine Tüte stellen.',
           pt: 'Guarde em pé para prolongar a validade. Embrulhe em papel-toalha e coloque verticalmente em um saco.',
           id: 'Simpan berdiri tegak agar awet lebih lama. Bungkus dengan tisu dapur lalu taruh tegak di kantong plastik.'
-        }
+        },
+        sources: [
+          'RDA',
+          'EFSA',
+          'FSA'
+        ]
       }
     }
   },
@@ -322,8 +432,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥬',
     isProcessed: false,
     names: {
-      ko: '양배추', en: 'Cabbage', ja: 'キャベツ', zh: '卷心菜', es: 'Repollo',
-      fr: 'Chou', de: 'Kohl', pt: 'Repolho', id: 'Kubis'
+      ko: '양배추',
+      en: 'Cabbage',
+      ja: 'キャベツ',
+      zh: '卷心菜',
+      es: 'Repollo',
+      fr: 'Chou',
+      de: 'Kohl',
+      pt: 'Repolho',
+      id: 'Kubis'
     },
     storage: {
       fridge: {
@@ -338,7 +455,12 @@ export const ingredients: Ingredient[] = [
           de: 'Schneiden führt zu Verfärbungen. Den Strunk herausheben, mit feuchtem Küchenpapier füllen und einwickeln.',
           pt: 'Cortar com faca causa escurecimento. Retire o miolo, preencha com papel-toalha úmido e embrulhe em filme.',
           id: 'Memotong dengan pisau memicu kecokelatan. Buang bagian tengahnya, sumbat dengan tisu basah, lalu bungkus.'
-        }
+        },
+        sources: [
+          'RDA',
+          'EFSA',
+          'FSA'
+        ]
       }
     }
   },
@@ -348,8 +470,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥕',
     isProcessed: false,
     names: {
-      ko: '당근', en: 'Carrot', ja: '人参', zh: '胡萝卜', es: 'Zanahoria',
-      fr: 'Carotte', de: 'Karotte', pt: 'Cenoura', id: 'Wortel'
+      ko: '당근',
+      en: 'Carrot',
+      ja: '人参',
+      zh: '胡萝卜',
+      es: 'Zanahoria',
+      fr: 'Carotte',
+      de: 'Karotte',
+      pt: 'Cenoura',
+      id: 'Wortel'
     },
     storage: {
       fridge: {
@@ -364,7 +493,11 @@ export const ingredients: Ingredient[] = [
           de: 'Oberflächenfeuchtigkeit komplett entfernen, einzeln in Zeitungspapier wickeln und aufrecht lagern.',
           pt: 'Seque a umidade superficial, embrulhe individualmente em jornal ou filme e guarde na vertical.',
           id: 'Keringkan kelembapan permukaan, bungkus satu per satu dengan koran atau plastik wrap, simpan tegak.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       }
     }
   },
@@ -374,8 +507,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍄',
     isProcessed: false,
     names: {
-      ko: '버섯', en: 'Mushroom', ja: 'キノコ', zh: '蘑菇', es: 'Champiñón',
-      fr: 'Champignon', de: 'Pilz', pt: 'Cogumelo', id: 'Jamur'
+      ko: '버섯',
+      en: 'Mushroom',
+      ja: 'キノコ',
+      zh: '蘑菇',
+      es: 'Champiñón',
+      fr: 'Champignon',
+      de: 'Pilz',
+      pt: 'Cogumelo',
+      id: 'Jamur'
     },
     storage: {
       fridge: {
@@ -390,7 +530,11 @@ export const ingredients: Ingredient[] = [
           de: 'Vor der Lagerung niemals mit Wasser waschen. In Papiertüten oder Küchenpapier gewickelt luftdicht lagern.',
           pt: 'Nunca lave com água antes de guardar. Embrulhe em sacos de papel ou papel-toalha para reter a umidade.',
           id: 'Jangan pernah cuci sebelum disimpan. Bungkus dengan kantong kertas atau tisu dapur untuk menyerap air.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       }
     }
   },
@@ -400,8 +544,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥒',
     isProcessed: false,
     names: {
-      ko: '오이', en: 'Cucumber', ja: 'きゅうり', zh: '黄瓜', es: 'Pepino',
-      fr: 'Concombre', de: 'Gurke', pt: 'Pepino', id: 'Timun'
+      ko: '오이',
+      en: 'Cucumber',
+      ja: 'きゅうり',
+      zh: '黄瓜',
+      es: 'Pepino',
+      fr: 'Concombre',
+      de: 'Gurke',
+      pt: 'Pepino',
+      id: 'Timun'
     },
     storage: {
       fridge: {
@@ -416,7 +567,10 @@ export const ingredients: Ingredient[] = [
           de: 'Kälteempfindlich, im Gemüsefach lagern. Einzeln in Zeitungspapier wickeln und aufrecht hinstellen.',
           pt: 'Sensível ao frio, guarde na gaveta de vegetais. Embrulhe individualmente em jornal e mantenha em pé.',
           id: 'Sensitif dingin, simpan di laci sayur. Bungkus satu per satu dengan koran dan posisikan berdiri.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       }
     }
   },
@@ -426,8 +580,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🫑',
     isProcessed: false,
     names: {
-      ko: '파프리카', en: 'Bell Pepper', ja: 'パプリカ', zh: '彩椒/甜椒', es: 'Pimiento',
-      fr: 'Poivron', de: 'Paprika', pt: 'Pimentão', id: 'Paprika'
+      ko: '파프리카',
+      en: 'Bell Pepper',
+      ja: 'パプリカ',
+      zh: '彩椒/甜椒',
+      es: 'Pimiento',
+      fr: 'Poivron',
+      de: 'Paprika',
+      pt: 'Pimentão',
+      id: 'Paprika'
     },
     storage: {
       fridge: {
@@ -442,7 +603,10 @@ export const ingredients: Ingredient[] = [
           de: 'Vollständig trocknen, einzeln in Folie einwickeln und kühlen. Stiele verderben zuerst.',
           pt: 'Seque tudo, embrulhe em filme e refrigere. O pedúnculo mofa primeiro; garanta que esteja seco.',
           id: 'Keringkan, bungkus plastik wrap, dinginkan. Tangkai cepat busuk; pastikan tangkai kering.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       }
     }
   },
@@ -452,8 +616,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥦',
     isProcessed: false,
     names: {
-      ko: '브로콜리', en: 'Broccoli', ja: 'ブロッコリー', zh: '西兰花', es: 'Brócoli',
-      fr: 'Brocoli', de: 'Brokkoli', pt: 'Brócolis', id: 'Brokoli'
+      ko: '브로콜리',
+      en: 'Broccoli',
+      ja: 'ブロッコリー',
+      zh: '西兰花',
+      es: 'Brócoli',
+      fr: 'Brocoli',
+      de: 'Brokkoli',
+      pt: 'Brócolis',
+      id: 'Brokoli'
     },
     storage: {
       fridge: {
@@ -468,7 +639,13 @@ export const ingredients: Ingredient[] = [
           de: 'Aufrecht lagern. Den Strunk in ein Gefäß mit etwas Wasser stellen und eine Plastiktüte darüber stülpen.',
           pt: 'Guarde em pé. Coloque o talo em um copo com água e cubra com saco plástico para maior durabilidade.',
           id: 'Simpan berdiri. Masukkan batangnya ke gelas berisi sedikit air lalu tutup dengan plastik.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA',
+          'EFSA',
+          'FSA'
+        ]
       },
       freezer: {
         durationDays: 120,
@@ -482,7 +659,11 @@ export const ingredients: Ingredient[] = [
           de: 'Nach dem Waschen 30 Sek. in Salzwasser blanchieren, in Eiswasser abschrecken, trocknen und gefrieren.',
           pt: 'Branqueie em água fervente com sal por 30s, esfrie em água gelada, seque e congele.',
           id: 'Rebus sebentar 30 detik di air garam, dinginkan di air es, keringkan, lalu bekukan.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       }
     }
   },
@@ -492,8 +673,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🌶️',
     isProcessed: false,
     names: {
-      ko: '고추', en: 'Chili Pepper', ja: '唐辛子', zh: '辣椒', es: 'Chile/Pimiento picante',
-      fr: 'Piment', de: 'Chili', pt: 'Pimenta', id: 'Cabai'
+      ko: '고추',
+      en: 'Chili Pepper',
+      ja: '唐辛子',
+      zh: '辣椒',
+      es: 'Chile/Pimiento picante',
+      fr: 'Piment',
+      de: 'Chili',
+      pt: 'Pimenta',
+      id: 'Cabai'
     },
     storage: {
       fridge: {
@@ -508,7 +696,10 @@ export const ingredients: Ingredient[] = [
           de: 'Ungewaschene Chilis trocknen und in einer mit Papier ausgelegten Dose lagern. Stiele nicht entfernen.',
           pt: 'Seque pimentas sem lavar e guarde em pote forrado. Mantenha os cabinhos para não desidratar.',
           id: 'Keringkan cabai yang belum dicuci di wadah beralas tisu. Jangan buang tangkai agar tidak layu.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       freezer: {
         durationDays: 180,
@@ -522,20 +713,28 @@ export const ingredients: Ingredient[] = [
           de: 'Hacken und in Gefrierbeuteln portionieren. Praktisch, um sie beim Kochen direkt hinzuzufügen.',
           pt: 'Pique e congele em sacos herméticos. Muito prático para adicionar diretamente nos pratos ao cozinhar.',
           id: 'Cincang dan bekukan dalam kantong plastik. Praktis untuk langsung dimasukkan saat memasak.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       }
     }
   },
-
-  // 🍎 과일류 (Fruits)
   {
     id: 'banana',
     category: 'fruit',
     emoji: '🍌',
     isProcessed: false,
     names: {
-      ko: '바나나', en: 'Banana', ja: 'バナナ', zh: '香蕉', es: 'Plátano',
-      fr: 'Banane', de: 'Banane', pt: 'Banana', id: 'Pisang'
+      ko: '바나나',
+      en: 'Banana',
+      ja: 'バナナ',
+      zh: '香蕉',
+      es: 'Plátano',
+      fr: 'Banane',
+      de: 'Banane',
+      pt: 'Banana',
+      id: 'Pisang'
     },
     storage: {
       room: {
@@ -550,7 +749,10 @@ export const ingredients: Ingredient[] = [
           de: 'An einem Ständer aufhängen und den Stiel fest mit Frischhaltefolie umwickeln, um die Reifung zu verlangsamen.',
           pt: 'Pendure em um suporte e embrulhe o pedúnculo firmemente com filme plástico para retardar o amadurecimento.',
           id: 'Gantung di gantungan pisang, dan bungkus batangnya rapat dengan plastik wrap untuk memperlambat kematangan.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   },
@@ -560,8 +762,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍎',
     isProcessed: false,
     names: {
-      ko: '사과', en: 'Apple', ja: 'りんご', zh: '苹果', es: 'Manzana',
-      fr: 'Pomme', de: 'Apfel', pt: 'Maçã', id: 'Apel'
+      ko: '사과',
+      en: 'Apple',
+      ja: 'りんご',
+      zh: '苹果',
+      es: 'Manzana',
+      fr: 'Pomme',
+      de: 'Apfel',
+      pt: 'Maçã',
+      id: 'Apel'
     },
     storage: {
       fridge: {
@@ -576,7 +785,11 @@ export const ingredients: Ingredient[] = [
           de: 'Äpfel geben Ethylengas ab, das andere Produkte verdirbt. Einzeln in Folie einwickeln oder in Beutel verpacken.',
           pt: 'As maçãs liberam gás etileno que estraga outros vegetais. Embrulhe individualmente em filme plástico.',
           id: 'Apel melepaskan gas etilen yang merusak sayuran lain. Bungkus satu per satu dengan plastik wrap.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       }
     }
   },
@@ -586,8 +799,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍅',
     isProcessed: false,
     names: {
-      ko: '토마토', en: 'Tomato', ja: 'トマト', zh: '西红柿', es: 'Tomate',
-      fr: 'Tomate', de: 'Tomate', pt: 'Tomate', id: 'Tomat'
+      ko: '토마토',
+      en: 'Tomato',
+      ja: 'トマト',
+      zh: '西红柿',
+      es: 'Tomate',
+      fr: 'Tomate',
+      de: 'Tomate',
+      pt: 'Tomate',
+      id: 'Tomat'
     },
     storage: {
       room: {
@@ -602,7 +822,11 @@ export const ingredients: Ingredient[] = [
           de: 'Mit dem Stiel nach unten und ohne Überlappung in einen Korb legen. Unreife Tomaten im Kühlschrank verlieren Geschmack.',
           pt: 'Coloque com o pedúnculo para baixo sem sobrepor em uma cesta. Refrigerar tomates verdes interrompe o amadurecimento.',
           id: 'Letakkan bagian tangkai di bawah tanpa bertumpuk di keranjang. Mendinginkan tomat mentah merusak rasanya.'
-        }
+        },
+        sources: [
+          'USDA',
+          'USDA'
+        ]
       },
       fridge: {
         durationDays: 10,
@@ -616,7 +840,11 @@ export const ingredients: Ingredient[] = [
           de: 'Reife rote Tomaten waschen, trocknen, Stiele entfernen (schimmeln schnell) und luftdicht lagern.',
           pt: 'Para tomates bem maduros, lave, seque, retire o pedúnculo (que mofa facilmente) e guarde em pote vedado.',
           id: 'Untuk tomat matang merah, cuci, keringkan, buang tangkainya (mudah berjamur), lalu simpan kedap udara.'
-        }
+        },
+        sources: [
+          'USDA',
+          'USDA'
+        ]
       }
     }
   },
@@ -626,8 +854,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍓',
     isProcessed: false,
     names: {
-      ko: '딸기', en: 'Strawberry', ja: 'イチゴ', zh: '草莓', es: 'Fresa',
-      fr: 'Fraise', de: 'Erdbeere', pt: 'Morango', id: 'Stroberi'
+      ko: '딸기',
+      en: 'Strawberry',
+      ja: 'イチゴ',
+      zh: '草莓',
+      es: 'Fresa',
+      fr: 'Fraise',
+      de: 'Erdbeere',
+      pt: 'Morango',
+      id: 'Stroberi'
     },
     storage: {
       fridge: {
@@ -642,7 +877,11 @@ export const ingredients: Ingredient[] = [
           de: 'Feuchtigkeit verdirbt Erdbeeren. Ungewaschen mit Stiel lagern. Behälter mit Küchenpapier auslegen, nicht stapeln.',
           pt: 'A água amolece os morangos. Guarde-os secos com pedúnculo, em pote forrado com papel-toalha e sem sobrepor.',
           id: 'Air membuat stroberi cepat busuk. Jangan dicuci, biarkan tangkainya, alasi wadah dengan tisu dapur.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       }
     }
   },
@@ -652,8 +891,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🫐',
     isProcessed: false,
     names: {
-      ko: '블루베리', en: 'Blueberry', ja: 'ブルーベリー', zh: '蓝莓', es: 'Arándano',
-      fr: 'Myrtille', de: 'Blaubeere', pt: 'Mirtilo', id: 'Murbai'
+      ko: '블루베리',
+      en: 'Blueberry',
+      ja: 'ブルーベリー',
+      zh: '蓝莓',
+      es: 'Arándano',
+      fr: 'Myrtille',
+      de: 'Blaubeere',
+      pt: 'Mirtilo',
+      id: 'Murbai'
     },
     storage: {
       fridge: {
@@ -668,7 +914,10 @@ export const ingredients: Ingredient[] = [
           de: 'Der weiße Reif ist eine Schutzschicht. Ungewaschen in einer luftdichten, mit Papier ausgelegten Dose lagern.',
           pt: 'O pó branco é uma proteção natural. Guarde sem lavar em pote hermético forrado com papel-toalha.',
           id: 'Lapisan putih adalah pelindung alami. Simpan tanpa dicuci di wadah kedap udara beralas tisu dapur.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 270,
@@ -682,7 +931,10 @@ export const ingredients: Ingredient[] = [
           de: 'Zum Einfrieren gründlich waschen, vollständig trocknen und in Gefrierbeuteln einfrieren.',
           pt: 'Para congelar, lave bem, seque completamente e congele em sacos herméticos.',
           id: 'Untuk dibekukan, cuci bersih, keringkan sepenuhnya, lalu bekukan di kantong segel.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   },
@@ -692,8 +944,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍉',
     isProcessed: false,
     names: {
-      ko: '수박', en: 'Watermelon', ja: 'スイカ', zh: '西瓜', es: 'Sandía',
-      fr: 'Pastèque', de: 'Wassermelone', pt: 'Melancia', id: 'Semangka'
+      ko: '수박',
+      en: 'Watermelon',
+      ja: 'スイカ',
+      zh: '西瓜',
+      es: 'Sandía',
+      fr: 'Pastèque',
+      de: 'Wassermelone',
+      pt: 'Melancia',
+      id: 'Semangka'
     },
     storage: {
       fridge: {
@@ -708,7 +967,11 @@ export const ingredients: Ingredient[] = [
           de: '⚠️ Halbe Wassermelonen nur in Folie zu wickeln führt zu 3.000-facher Bakterienvermehrung. Schale entfernen, würfeln und in Dosen lagern.',
           pt: '⚠️ Cobrir metade da melancia com filme plástico multiplica bactérias em 3.000 vezes. Corte a casca, faça cubos e guarde em pote vedado.',
           id: '⚠️ Membungkus belahan semangka dengan plastik wrap memicu bakteri berkembang 3.000 kali. Kupas kulit, potong dadu.'
-        }
+        },
+        sources: [
+          'KCA',
+          'MFDS'
+        ]
       }
     }
   },
@@ -718,8 +981,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍋',
     isProcessed: false,
     names: {
-      ko: '레몬', en: 'Lemon', ja: 'レモン', zh: '柠檬', es: 'Limón',
-      fr: 'Citron', de: 'Zitrone', pt: 'Limão', id: 'Lemon'
+      ko: '레몬',
+      en: 'Lemon',
+      ja: 'レモン',
+      zh: '柠檬',
+      es: 'Limón',
+      fr: 'Citron',
+      de: 'Zitrone',
+      pt: 'Limão',
+      id: 'Lemon'
     },
     storage: {
       fridge: {
@@ -734,35 +1004,47 @@ export const ingredients: Ingredient[] = [
           de: 'Mit Natron waschen, trocknen und im Gemüsefach lagern. Angeschnittene Zitronen mit der flachen Seite nach oben einwickeln.',
           pt: 'Lave com bicarbonato, seque e guarde em saco na gaveta de vegetais. Embulhe metade cortada com o lado plano para cima.',
           id: 'Cuci dengan soda kue, keringkan, simpan di laci sayur. Bungkus lemon potongan dengan bagian datar menghadap atas.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   },
-
-  // 🥛 유제품 & 알류 (Dairy & Eggs)
   {
     id: 'milk',
     category: 'dairy',
     emoji: '🥛',
     isProcessed: true,
     names: {
-      ko: '우유', en: 'Milk', ja: '牛乳', zh: '牛奶', es: 'Leche',
-      fr: 'Lait', de: 'Milch', pt: 'Leite', id: 'Susu'
+      ko: '우유',
+      en: 'Milk',
+      ja: '牛乳',
+      zh: '牛奶',
+      es: 'Leche',
+      fr: 'Lait',
+      de: 'Milch',
+      pt: 'Leite',
+      id: 'Susu'
     },
     storage: {
       fridge: {
-        durationDays: 50,
+        durationDays: 14,
         tips: {
-          ko: '냉장고 문 쪽 보관 시 온도 변화가 심해 쉽게 상합니다. 냉장 안쪽 선반에 보관하고, 개봉 후에는 유통기한 전이라도 1주일 내로 드세요.',
-          en: 'Temperature fluctuations in the door cause spoilage. Store on the inner shelf; consume within 1 week of opening.',
-          ja: '冷蔵庫のドアポケットは温度変化が激しく傷みやすいです。奥の棚に保管し、開封後は期限前でも1週間以内に飲みきってください。',
-          zh: '冰箱门侧温度起伏大，极易变质。存放在内侧搁板上，开封后即使未过保质期也请在1周内饮用完毕。',
+          ko: '냉장고 문 쪽 보관 시 온도 변화가 심해 쉽게 상하므로 안쪽 선반에 두세요. 미개봉 상태에서 0~5℃ 냉장이 잘 유지되면 유통기한 만료 후 최대 45일까지 섭취 가능하나, 개봉 후에는 1주일 이내로 드시는 것이 안전합니다.',
+          en: 'Do not store in the door as temperature fluctuates; place on an inner shelf. Unopened milk keeps up to 45 days past expiry if kept at 0–5°C, but consume within 1 week once opened.',
+          ja: '冷蔵庫のドアポケットは温度変化が大きいため傷みやすくなります。棚の内側に保管し、未開封で0〜5℃の冷蔵が維持されれば賞味期限後最大45日まで摂取可能ですが、開封後は1週間以内にお召し上がりください。',
+          zh: '冰箱门处温度变化剧烈易变质，建议存放在内侧搁板上。在0-5℃冷藏且未开封状态下，过期后最多可保存45天，但开封后请在1周内饮用完毕。',
           es: 'Las fluctuaciones en la puerta causan deterioro. Guárdela en un estante interior; consuma en 1 semana tras abrir.',
           fr: 'La porte subit des variations de température. Stockez sur une étagère intérieure ; buvez sous 1 semaine après ouverture.',
           de: 'Türfächer haben Temperaturschwankungen. Im inneren Regal lagern und nach dem Öffnen innerhalb einer Woche verbrauchen.',
           pt: 'As oscilações na porta aceleram a deterioração. Guarde nas prateleiras internas e consuma em até 1 semana após abrir.',
           id: 'Perubahan suhu di pintu kulkas mempercepat basi. Simpan di rak dalam; konsumsi dalam 1 minggu setelah dibuka.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'EFSA'
+        ]
       }
     }
   },
@@ -772,8 +1054,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥚',
     isProcessed: false,
     names: {
-      ko: '계란', en: 'Egg', ja: '卵', zh: '鸡蛋', es: 'Huevo',
-      fr: 'Œuf', de: 'Ei', pt: 'Ovo', id: 'Telur'
+      ko: '계란',
+      en: 'Egg',
+      ja: '卵',
+      zh: '鸡蛋',
+      es: 'Huevo',
+      fr: 'Œuf',
+      de: 'Ei',
+      pt: 'Ovo',
+      id: 'Telur'
     },
     storage: {
       fridge: {
@@ -788,7 +1077,11 @@ export const ingredients: Ingredient[] = [
           de: 'Eier nicht waschen, da die Schutzschicht entfernt wird. Mit dem spitzen Ende nach unten lagern.',
           pt: 'Lavar os ovos remove a película protetora, facilitando a entrada de bactérias. Não lave e guarde com a ponta para baixo.',
           id: 'Mencuci telur merusak lapisan pelindung, memudahkan bakteri masuk. Jangan dicuci; simpan ujung runcing di bawah.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       }
     }
   },
@@ -799,8 +1092,15 @@ export const ingredients: Ingredient[] = [
     emoji: '⬜',
     isProcessed: true,
     names: {
-      ko: '두부', en: 'Tofu', ja: '豆腐', zh: '豆腐', es: 'Tofu',
-      fr: 'Tofu', de: 'Tofu', pt: 'Tofu', id: 'Tahu'
+      ko: '두부',
+      en: 'Tofu',
+      ja: '豆腐',
+      zh: '豆腐',
+      es: 'Tofu',
+      fr: 'Tofu',
+      de: 'Tofu',
+      pt: 'Tofu',
+      id: 'Tahu'
     },
     storage: {
       fridge: {
@@ -815,7 +1115,11 @@ export const ingredients: Ingredient[] = [
           de: 'Übriggehaltenen Tofu in Wasser mit einer Prise Salz legen, sodass er bedeckt ist. Wasser täglich wechseln.',
           pt: 'Coloque o tofu restante em pote, coubra totalmente com água filtrada e uma pitada de sal. Troque a água diariamente.',
           id: 'Taruh sisa tahu di wadah, rendam dalam air bersih dengan secubit garam. Ganti air setiap hari.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 90,
@@ -829,7 +1133,11 @@ export const ingredients: Ingredient[] = [
           de: 'Ganzen Tofu einfrieren, wodurch er schwammartig wird und Saucen in Eintöpfen hervorragend aufnimmt.',
           pt: 'Congelar o tofu inteiro muda sua textura para uma esponja mastigável, excelente para ensopados absorverem sabor.',
           id: 'Membekukan tahu utuh membuatnya berongga seperti spons dan kenyal, sangat cocok untuk masakan berkuah.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       }
     }
   },
@@ -839,8 +1147,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🧀',
     isProcessed: true,
     names: {
-      ko: '치즈', en: 'Cheese', ja: 'チーズ', zh: '奶酪/芝士', es: 'Queso',
-      fr: 'Fromage', de: 'Käse', pt: 'Queijo', id: 'Keju'
+      ko: '치즈',
+      en: 'Cheese',
+      ja: 'チーズ',
+      zh: '奶酪/芝士',
+      es: 'Queso',
+      fr: 'Fromage',
+      de: 'Käse',
+      pt: 'Queijo',
+      id: 'Keju'
     },
     storage: {
       fridge: {
@@ -855,7 +1170,12 @@ export const ingredients: Ingredient[] = [
           de: 'Nach dem Öffnen luftdicht verschließen. Scheibenkäse in Beutel verpacken, Mozzarella portionieren.',
           pt: 'Vedar bem é crucial após abrir. Guarde fatias em sacos herméticos e porcione a mussarela no fundo da geladeira.',
           id: 'Segel rapat setelah dibuka. Taruh keju lembaran dalam kantong; bagi mozzarella dan simpan di bagian dalam kulkas.'
-        }
+        },
+        sources: [
+          'USDA',
+          'USDA',
+          'EFSA'
+        ]
       }
     }
   },
@@ -865,8 +1185,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🧈',
     isProcessed: true,
     names: {
-      ko: '버터', en: 'Butter', ja: 'バター', zh: '黄油', es: 'Mantequilla',
-      fr: 'Beurre', de: 'Butter', pt: 'Manteiga', id: 'Mentega'
+      ko: '버터',
+      en: 'Butter',
+      ja: 'バター',
+      zh: '黄油',
+      es: 'Mantequilla',
+      fr: 'Beurre',
+      de: 'Butter',
+      pt: 'Manteiga',
+      id: 'Mentega'
     },
     storage: {
       fridge: {
@@ -881,7 +1208,11 @@ export const ingredients: Ingredient[] = [
           de: 'Butter nimmt leicht Gerüche an. Fest einwickeln und in einer Dose lagern. Türfächer vermeiden.',
           pt: 'Absorve odores facilmente. Embrulhe bem e guarde em pote hermético longe da porta da geladeira.',
           id: 'Mentega mudah menyerap bau. Bungkus rapat dan simpan di wadah kedap udara jauh dari pintu.'
-        }
+        },
+        sources: [
+          'USDA',
+          'EFSA'
+        ]
       },
       freezer: {
         durationDays: 365,
@@ -895,7 +1226,11 @@ export const ingredients: Ingredient[] = [
           de: 'In Portionsgröße schneiden, in Backpapier wickeln und gefrieren.',
           pt: 'Corte em porções, embrulhe em papel-manteiga e congele em pote vedado.',
           id: 'Potong dalam porsi sekali pakai, bungkus kertas roti, lalu bekukan.'
-        }
+        },
+        sources: [
+          'USDA',
+          'EFSA'
+        ]
       }
     }
   },
@@ -906,8 +1241,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥣',
     isProcessed: true,
     names: {
-      ko: '요거트', en: 'Yogurt', ja: 'ヨーグルト', zh: '酸奶', es: 'Yogur',
-      fr: 'Yaourt', de: 'Joghurt', pt: 'Iogurte', id: 'Yoghurt'
+      ko: '요거트',
+      en: 'Yogurt',
+      ja: 'ヨーグルト',
+      zh: '酸奶',
+      es: 'Yogur',
+      fr: 'Yaourt',
+      de: 'Joghurt',
+      pt: 'Iogurte',
+      id: 'Yoghurt'
     },
     storage: {
       fridge: {
@@ -922,7 +1264,12 @@ export const ingredients: Ingredient[] = [
           de: 'Ungeöffnet bis zu 2 Wochen nach Ablauf haltbar. Nach dem Öffnen innerhalb von 2-3 Tagen verbrauchen.',
           pt: 'Fechado dura até 2 semanas após o vencimento. Aberto, consuma em 2-3 dias devido à saliva e fungos.',
           id: 'Kemasan utuh aman hingga 2 minggu setelah kedaluwarsa. Setelah dibuka, habiskan dalam 2-3 hari.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA',
+          'EFSA'
+        ]
       }
     }
   },
@@ -933,8 +1280,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🧁',
     isProcessed: true,
     names: {
-      ko: '생크림', en: 'Whipping Cream', ja: '生クリーム', zh: '淡奶油/鲜奶油', es: 'Nata para montar',
-      fr: 'Crème fouettée', de: 'Schlagsahne', pt: 'Creme de leite', id: 'Krim kocok'
+      ko: '생크림',
+      en: 'Whipping Cream',
+      ja: '生クリーム',
+      zh: '淡奶油/鲜奶油',
+      es: 'Nata para montar',
+      fr: 'Crème fouettée',
+      de: 'Schlagsahne',
+      pt: 'Creme de leite',
+      id: 'Krim kocok'
     },
     storage: {
       fridge: {
@@ -949,20 +1303,28 @@ export const ingredients: Ingredient[] = [
           de: 'Nach dem Öffnen extrem leicht verderblich. Gut verschließen, tief im Kühlschrank lagern und in 5 Tagen verbrauchen.',
           pt: 'Estraga muito rápido após abrir. Sele bem a abertura e consuma em até 5 dias.',
           id: 'Sangat cepat basi setelah dibuka. Segel rapat mulut kemasan dan habiskan dalam 5 hari.'
-        }
+        },
+        sources: [
+          'MFDS'
+        ]
       }
     }
   },
-
-  // 🥩 육류 (Meat)
   {
     id: 'beef',
     category: 'meat',
     emoji: '🥩',
     isProcessed: false,
     names: {
-      ko: '소고기', en: 'Beef', ja: '牛肉', zh: '牛肉', es: 'Carne de res',
-      fr: 'Bœuf', de: 'Rindfleisch', pt: 'Carne bovina', id: 'Daging sapi'
+      ko: '소고기',
+      en: 'Beef',
+      ja: '牛肉',
+      zh: '牛肉',
+      es: 'Carne de res',
+      fr: 'Bœuf',
+      de: 'Rindfleisch',
+      pt: 'Carne bovina',
+      id: 'Daging sapi'
     },
     storage: {
       fridge: {
@@ -977,7 +1339,11 @@ export const ingredients: Ingredient[] = [
           de: 'Fest in Frischhaltefolie einwickeln oder vakuumieren. Eine dünne Schicht Olivenöl auf der Oberfläche verlängert die Frische.',
           pt: 'Embrulhe bem em filme plástico para evitar o ar ou sele a vácuo. Passar azeite na carne ajuda a vedar a umidade.',
           id: 'Bungkus rapat dengan plastik wrap atau segel vakum. Mengolesi permukaannya dengan minyak zaitun menjaga kesegaran.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 180,
@@ -991,7 +1357,11 @@ export const ingredients: Ingredient[] = [
           de: 'In Einzelportionen teilen, einwickeln und in Gefrierbeuteln einfrieren. Hält bis zu 6 Monate.',
           pt: 'Divida em porções, embrulhe bem e guarde em sacos de congelador. Pode ser mantido por até 6 meses.',
           id: 'Bagi dalam porsi sekali masak, bungkus, dan segel dalam kantong pembeku. Awet hingga 6 bulan.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       }
     }
   },
@@ -1002,8 +1372,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🐖',
     isProcessed: false,
     names: {
-      ko: '돼지고기', en: 'Pork', ja: '豚肉', zh: '猪肉', es: 'Carne de cerdo',
-      fr: 'Porc', de: 'Schweinefleisch', pt: 'Carne suína', id: 'Daging babi'
+      ko: '돼지고기',
+      en: 'Pork',
+      ja: '豚肉',
+      zh: '猪肉',
+      es: 'Carne de cerdo',
+      fr: 'Porc',
+      de: 'Schweinefleisch',
+      pt: 'Carne suína',
+      id: 'Daging babi'
     },
     storage: {
       fridge: {
@@ -1018,7 +1395,11 @@ export const ingredients: Ingredient[] = [
           de: 'Verdirbt durch Feuchtigkeit schneller als Rindfleisch. Vor dem Einwickeln mit Papier abtupfen.',
           pt: 'Estraga mais rápido que a bovina devido à umidade. Seque o sangue com papel-toalha antes de embalar.',
           id: 'Lebih cepat busuk daripada sapi karena basah. Keringkan sisa darah dengan tisu sebelum dibungkus.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 120,
@@ -1032,7 +1413,11 @@ export const ingredients: Ingredient[] = [
           de: 'Eine dünne Ölschicht verhindert Gefrierbrand und bewahrt die Fleischqualität beim Gefrieren.',
           pt: 'Passar uma fina camada de óleo na carne evita queimaduras pelo frio e conserva a qualidade.',
           id: 'Mengolesi tipis minyak pada permukaan daging mencegah freezer burn dan menjaga kualitas.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       }
     }
   },
@@ -1042,8 +1427,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍗',
     isProcessed: false,
     names: {
-      ko: '닭고기', en: 'Chicken', ja: '鶏肉', zh: '鸡肉', es: 'Pollo',
-      fr: 'Poulet', de: 'Hähnchen', pt: 'Frango', id: 'Daging ayam'
+      ko: '닭고기',
+      en: 'Chicken',
+      ja: '鶏肉',
+      zh: '鸡肉',
+      es: 'Pollo',
+      fr: 'Poulet',
+      de: 'Hähnchen',
+      pt: 'Frango',
+      id: 'Daging ayam'
     },
     storage: {
       fridge: {
@@ -1058,7 +1450,13 @@ export const ingredients: Ingredient[] = [
           de: 'Sehr leicht verderblich. Geflügel nicht waschen, um Keime im Spülbecken zu vermeiden. Vor dem Kochen abtupfen.',
           pt: 'Altamente perecível. Lavar o frango espalha bactérias na pia. Não lave, apenas seque antes de cozinhar.',
           id: 'Sangat mudah busuk. Mencuci ayam mentah menyebarkan bakteri. Jangan dicuci; lap kering sebelum dimasak.'
-        }
+        },
+        sources: [
+          'CDC',
+          'USDA',
+          'WHO',
+          'FSA'
+        ]
       },
       freezer: {
         durationDays: 180,
@@ -1072,7 +1470,13 @@ export const ingredients: Ingredient[] = [
           de: 'Geflügel mit Knochen verdirbt beim Auftauen am Knochen schneller. Ausbeinen und einfrieren.',
           pt: 'Frango com osso estraga mais rápido perto dos ossos ao degelar. Retire os ossos e congele a carne para segurança.',
           id: 'Ayam bertulang cepat busuk di sekitar tulang saat dicairkan. Buang tulang dan bekukan dagingnya.'
-        }
+        },
+        sources: [
+          'CDC',
+          'USDA',
+          'WHO',
+          'FSA'
+        ]
       }
     }
   },
@@ -1083,8 +1487,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥩',
     isProcessed: false,
     names: {
-      ko: '다진 고기', en: 'Minced Meat', ja: 'ひき肉', zh: '肉馅/碎肉', es: 'Carne picada',
-      fr: 'Viande hachée', de: 'Hackfleisch', pt: 'Carne moída', id: 'Daging cincang'
+      ko: '다진 고기',
+      en: 'Minced Meat',
+      ja: 'ひき肉',
+      zh: '肉馅/碎肉',
+      es: 'Carne picada',
+      fr: 'Viande hachée',
+      de: 'Hackfleisch',
+      pt: 'Carne moída',
+      id: 'Daging cincang'
     },
     storage: {
       fridge: {
@@ -1099,7 +1510,11 @@ export const ingredients: Ingredient[] = [
           de: 'Große Oberfläche begünstigt Keimwachstum. Luftdicht verpacken und innerhalb von 2 Tagen verbrauchen.',
           pt: 'A grande área de contato acelera a oxidação e fungos. Vede em vácuo e consuma em até 2 dias.',
           id: 'Luas permukaan memicu bakteri berkembang cepat. Bungkus rapat dan masak dalam 2 hari.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 90,
@@ -1113,7 +1528,11 @@ export const ingredients: Ingredient[] = [
           de: 'Nicht als Kugel einfrieren. Flach in Beutel streichen und Portionierungslinien eindrücken.',
           pt: 'Não congele em blocos grossos. Aplane a carne dentro do saco e marque divisórias para quebrar facilmente.',
           id: 'Jangan bekukan dalam gumpalan tebal. Pipihkan dalam kantong plastik dan beri sekat.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       }
     }
   },
@@ -1123,8 +1542,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥓',
     isProcessed: true,
     names: {
-      ko: '베이컨', en: 'Bacon', ja: 'ベーコン', zh: '培根', es: 'Bacon',
-      fr: 'Bacon', de: 'Speck', pt: 'Bacon', id: 'Bacon'
+      ko: '베이컨',
+      en: 'Bacon',
+      ja: 'ベーコン',
+      zh: '培根',
+      es: 'Bacon',
+      fr: 'Bacon',
+      de: 'Speck',
+      pt: 'Bacon',
+      id: 'Bacon'
     },
     storage: {
       fridge: {
@@ -1139,7 +1565,11 @@ export const ingredients: Ingredient[] = [
           de: 'Ungeöffnet 2 Wochen haltbar. Nach dem Öffnen fest in Folie wickeln, um Luft auszuschließen.',
           pt: 'Fechado dura até 2 semanas. Após aberto, embrulhe bem com várias camadas de filme plástico.',
           id: 'Bacon utuh awet 2 minggu. Setelah dibuka, bungkus rapat berlapis dengan plastik wrap.'
-        }
+        },
+        sources: [
+          'USDA',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 90,
@@ -1153,7 +1583,11 @@ export const ingredients: Ingredient[] = [
           de: 'Scheiben auf Backpapier legen, einzeln aufrollen und in Beuteln gefrieren.',
           pt: 'Coloque as fatias sobre papel-manteiga, enrole individualmente e congele em sacos vedados.',
           id: 'Alasi bacon dengan kertas roti, gulung satu per satu, dan bekukan dalam kantong plastik.'
-        }
+        },
+        sources: [
+          'USDA',
+          'USDA'
+        ]
       }
     }
   },
@@ -1164,8 +1598,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🌭',
     isProcessed: true,
     names: {
-      ko: '소시지', en: 'Sausage', ja: 'ソーセージ', zh: '香肠/热狗肠', es: 'Salchicha',
-      fr: 'Saucisse', de: 'Würstchen', pt: 'Salsicha', id: 'Sosis'
+      ko: '소시지',
+      en: 'Sausage',
+      ja: 'ソーセージ',
+      zh: '香肠/热狗肠',
+      es: 'Salchicha',
+      fr: 'Saucisse',
+      de: 'Würstchen',
+      pt: 'Salsicha',
+      id: 'Sosis'
     },
     storage: {
       fridge: {
@@ -1180,7 +1621,11 @@ export const ingredients: Ingredient[] = [
           de: 'Ungeöffnet nach Packungsdatum lagern. Nach dem Öffnen in Beutel legen. Nicht vor der Lagerung einschneiden.',
           pt: 'Siga a data da embalagem se fechado. Após aberto, guarde em sacos vedados; não faça cortes antes.',
           id: 'Ikuti tanggal kemasan jika utuh. Setelah dibuka, simpan dalam kantong; jangan diiris sebelum disimpan.'
-        }
+        },
+        sources: [
+          'USDA',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 90,
@@ -1194,20 +1639,29 @@ export const ingredients: Ingredient[] = [
           de: 'In Scheiben schneiden oder portionieren und flach in Gefrierbeuteln einfrieren.',
           pt: 'Fatie ou divida em porções e congele em sacos bem espalhados.',
           id: 'Potong-potong sesuai porsi masak dan bekukan mendatar dalam kantong.'
-        }
+        },
+        sources: [
+          'USDA',
+          'USDA'
+        ]
       }
     }
   },
-
-  // 🐟 수산물 (Seafood)
   {
     id: 'shrimp',
     category: 'seafood',
     emoji: '🦐',
     isProcessed: false,
     names: {
-      ko: '새우', en: 'Shrimp', ja: 'エビ', zh: '虾', es: 'Camarón/Gambas',
-      fr: 'Crevette', de: 'Garnele', pt: 'Camarão', id: 'Udang'
+      ko: '새우',
+      en: 'Shrimp',
+      ja: 'エビ',
+      zh: '虾',
+      es: 'Camarón/Gambas',
+      fr: 'Crevette',
+      de: 'Garnele',
+      pt: 'Camarão',
+      id: 'Udang'
     },
     storage: {
       fridge: {
@@ -1222,7 +1676,11 @@ export const ingredients: Ingredient[] = [
           de: 'Garnelen verderben an Kopf und Schale schnell. Vor dem Lagern schälen, entdarmen und abtupfen.',
           pt: 'Camarão cru estraga rápido nas cabeças e cascas. Retire-as, remova a tripa e seque bem antes de guardar.',
           id: 'Udang mentah cepat busuk di kepala dan kulitnya. Bersihkan kepala, kulit, dan kotorannya lalu lap kering.'
-        }
+        },
+        sources: [
+          'USDA',
+          'MFDS'
+        ]
       },
       freezer: {
         durationDays: 120,
@@ -1236,7 +1694,11 @@ export const ingredients: Ingredient[] = [
           de: 'Trockene Garnelen nebeneinander in einen Beutel legen und flach gefrieren für einfache Entnahme.',
           pt: 'Seque os camarões limpos, espalhe em camada única num saco e congele para retirar individualmente.',
           id: 'Keringkan udang bersih, ratakan satu lapis di kantong plastik, lalu bekukan.'
-        }
+        },
+        sources: [
+          'USDA',
+          'MFDS'
+        ]
       }
     }
   },
@@ -1246,8 +1708,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🦑',
     isProcessed: false,
     names: {
-      ko: '오징어', en: 'Squid', ja: 'イカ', zh: '乌贼/鱿鱼', es: 'Calamar',
-      fr: 'Calamar', de: 'Tintenfisch', pt: 'Lula', id: 'Cumi-cumi'
+      ko: '오징어',
+      en: 'Squid',
+      ja: 'イカ',
+      zh: '乌贼/鱿鱼',
+      es: 'Calamar',
+      fr: 'Calamar',
+      de: 'Tintenfisch',
+      pt: 'Lula',
+      id: 'Cumi-cumi'
     },
     storage: {
       fridge: {
@@ -1262,7 +1731,11 @@ export const ingredients: Ingredient[] = [
           de: 'Eingeweide führen zu Verderb und Geruch. Augen, Schnabel und Eingeweide vor dem Lagern entfernen.',
           pt: 'Manter as vísceras causa mau cheiro e decomposição. Limpe tudo, retire olhos e ventosas antes de guardar.',
           id: 'Membiarkan isi perutnya memicu kebusukan dan bau. Selalu bersihkan isi perut, mata, dan tentakelnya.'
-        }
+        },
+        sources: [
+          'NIFS',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 90,
@@ -1276,7 +1749,11 @@ export const ingredients: Ingredient[] = [
           de: 'Häuten, einschneiden, einzeln einwickeln und gefrieren für schnelles Auftauen.',
           pt: 'Retire a pele, faça cortes cruzados, embrulhe bem em filme e congele para descongelar rápido.',
           id: 'Kupas kulit, beri keratan silang, bungkus per ekor, bekukan agar cepat dicairkan saat akan dimasak.'
-        }
+        },
+        sources: [
+          'NIFS',
+          'USDA'
+        ]
       }
     }
   },
@@ -1286,8 +1763,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🦪',
     isProcessed: false,
     names: {
-      ko: '조개', en: 'Clam / Oyster', ja: '貝/牡蠣', zh: '贝类/牡蛎', es: 'Almeja/Ostra',
-      fr: 'Palourde/Huître', de: 'Muschel/Auster', pt: 'Molusco/Ostra', id: 'Kerang/Tiram'
+      ko: '조개',
+      en: 'Clam / Oyster',
+      ja: '貝/牡蠣',
+      zh: '贝类/牡蛎',
+      es: 'Almeja/Ostra',
+      fr: 'Palourde/Huître',
+      de: 'Muschel/Auster',
+      pt: 'Molusco/Ostra',
+      id: 'Kerang/Tiram'
     },
     storage: {
       fridge: {
@@ -1302,7 +1786,11 @@ export const ingredients: Ingredient[] = [
           de: 'Muscheln müssen am Leben bleiben. In Salzwasser entsanden, offen lagern und mit feuchtem Tuch bedecken. Nicht deckeln.',
           pt: 'Moluscos devem ser mantidos vivos. Faça a depuração em água salgada, coloque em pote aberto e cubra com pano úmido.',
           id: 'Kerang harus tetap hidup. Rendam air garam agar bersih, taruh wadah terbuka, tutup kain basah. Jangan segel.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 90,
@@ -1316,20 +1804,29 @@ export const ingredients: Ingredient[] = [
           de: 'Kochen, bis sie sich öffnen. Fleisch entnehmen und zusammen mit der gefilterten Brühe einfrieren.',
           pt: 'Ferva os moluscos até abrirem. Retire a carne e congele junto com o caldo coado em sacos.',
           id: 'Rebus kerang hingga cangkang terbuka. Ambil dagingnya, bekukan bersama air rebusannya.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       }
     }
   },
-
-  // 🍞 베이커리 & 곡류 (Grains & Bakery)
   {
     id: 'bread',
     category: 'grain',
     emoji: '🍞',
     isProcessed: true,
     names: {
-      ko: '식빵', en: 'Bread', ja: '食パン', zh: '吐司/面包', es: 'Pan de molde',
-      fr: 'Pain de mie', de: 'Brot', pt: 'Pão de forma', id: 'Roti tawar'
+      ko: '식빵',
+      en: 'Bread',
+      ja: '食パン',
+      zh: '吐司/面包',
+      es: 'Pan de molde',
+      fr: 'Pain de mie',
+      de: 'Brot',
+      pt: 'Pão de forma',
+      id: 'Roti tawar'
     },
     storage: {
       room: {
@@ -1344,7 +1841,10 @@ export const ingredients: Ingredient[] = [
           de: 'Schimmelt bei Feuchtigkeit schnell. Luftdicht an einem trockenen, kühlen Ort lagern und in 3 Tagen verzehren.',
           pt: 'Mofa facilmente em climas úmidos. Mantenha fechado em local seco e fresco, e consuma em 3 dias.',
           id: 'Mudah berjamur di cuaca lembap. Simpan tertutup di tempat yang kering dan sejuk; makan dalam 3 hari.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 90,
@@ -1358,7 +1858,10 @@ export const ingredients: Ingredient[] = [
           de: 'Lagerung im Kühlschrank macht das Brot trocken. Scheiben einzeln einwickeln und einfrieren. Direkt gefroren toasten.',
           pt: 'A refrigeração resseca o pão e acelera o envelhecimento. Embrulhe as fatias individualmente e congele. Toste diretamente.',
           id: 'Mendinginkannya membuat roti kering dan keras. Bungkus per lembar lalu bekukan. Panggang langsung saat beku.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   },
@@ -1369,8 +1872,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍡',
     isProcessed: false,
     names: {
-      ko: '떡', en: 'Rice Cake', ja: '餅', zh: '年糕/米糕', es: 'Pastel de arroz',
-      fr: 'Gâteau de riz', de: 'Reiskuchen', pt: 'Bolo de arroz', id: 'Kue beras'
+      ko: '떡',
+      en: 'Rice Cake',
+      ja: '餅',
+      zh: '年糕/米糕',
+      es: 'Pastel de arroz',
+      fr: 'Gâteau de riz',
+      de: 'Reiskuchen',
+      pt: 'Bolo de arroz',
+      id: 'Kue beras'
     },
     storage: {
       freezer: {
@@ -1385,7 +1895,10 @@ export const ingredients: Ingredient[] = [
           de: 'Sofort einfrieren, solange er weich ist. Gefrieren nach dem Aushärten zerstört die Konsistenz.',
           pt: 'Congele imediatamente enquanto estiver macio em sacos de congelador. Congelar depois de duro arruína a textura.',
           id: 'Bekukan segera selagi empuk dalam kantong pembeku. Membekukan setelah keras merusak teksturnya.'
-        }
+        },
+        sources: [
+          'MFDS'
+        ]
       }
     }
   },
@@ -1395,8 +1908,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍚',
     isProcessed: false,
     names: {
-      ko: '쌀', en: 'Rice', ja: '米', zh: '大米', es: 'Arroz',
-      fr: 'Riz', de: 'Reis', pt: 'Arroz', id: 'Beras'
+      ko: '쌀',
+      en: 'Rice',
+      ja: '米',
+      zh: '大米',
+      es: 'Arroz',
+      fr: 'Riz',
+      de: 'Reis',
+      pt: 'Arroz',
+      id: 'Beras'
     },
     storage: {
       room: {
@@ -1411,12 +1931,14 @@ export const ingredients: Ingredient[] = [
           de: 'Sonnenlicht rissig macht. Luftdicht dunkel lagern oder in Plastikflaschen im Kühlschrank aufbewahren gegen Rüsselkäfer.',
           pt: 'A luz solar racha o grão. Vede em potes escuros ou guarde em garrafas plásticas limpas na geladeira para evitar caruncho.',
           id: 'Sinar matahari merusak beras. Segel di wadah gelap, atau masukkan botol plastik lalu dinginkan agar bebas kutu.'
-        }
+        },
+        sources: [
+          'RDA',
+          'WHO'
+        ]
       }
     }
   },
-
-  // 🧂 양념 & 통조림 (Condiments & Canned Goods)
   {
     id: 'canned-tuna',
     iconImage: '/assets/images/apps/freshself/ingredients/canned-tuna.png',
@@ -1424,8 +1946,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥫',
     isProcessed: true,
     names: {
-      ko: '참치통조림', en: 'Canned Tuna', ja: 'ツナ缶', zh: '金枪鱼罐头', es: 'Atún en lata',
-      fr: 'Thon en boîte', de: 'Thunfischdose', pt: 'Atum em lata', id: 'Tuna kaleng'
+      ko: '참치통조림',
+      en: 'Canned Tuna',
+      ja: 'ツナ缶',
+      zh: '金枪鱼罐头',
+      es: 'Atún en lata',
+      fr: 'Thon en boîte',
+      de: 'Thunfischdose',
+      pt: 'Atum em lata',
+      id: 'Tuna kaleng'
     },
     storage: {
       room: {
@@ -1440,7 +1969,12 @@ export const ingredients: Ingredient[] = [
           de: 'Ungeöffnete Dosen halten sich jahrelang an einem kühlen, trockenen Ort.',
           pt: 'Latas fechadas duram anos em local seco e fresco.',
           id: 'Kaleng yang belum dibuka awet bertahun-tahun di tempat yang sejuk dan kering.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA',
+          'WHO'
+        ]
       },
       fridge: {
         durationDays: 3,
@@ -1454,7 +1988,12 @@ export const ingredients: Ingredient[] = [
           de: '⚠️ Nach dem Öffnen oxidiert die Dose rasch. Thunfisch und Öl in einen luftdichten Glas- oder Kunststoffbehälter umfüllen.',
           pt: '⚠️ Após aberto, a lata oxida rápido. Transfira o atum e o óleo para um pote de vidro ou plástico e refrigere.',
           id: '⚠️ Setelah dibuka, kaleng cepat berkarat. Pindahkan tuna dan minyaknya ke wadah kaca atau plastik lalu dinginkan.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA',
+          'WHO'
+        ]
       }
     }
   },
@@ -1465,8 +2004,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🫙',
     isProcessed: true,
     names: {
-      ko: '마요네즈', en: 'Mayonnaise', ja: 'マヨネーズ', zh: '蛋黄酱/沙拉酱', es: 'Mayonesa',
-      fr: 'Mayonnaise', de: 'Mayonnaise', pt: 'Maionese', id: 'Mayones'
+      ko: '마요네즈',
+      en: 'Mayonnaise',
+      ja: 'マヨネーズ',
+      zh: '蛋黄酱/沙拉酱',
+      es: 'Mayonesa',
+      fr: 'Mayonnaise',
+      de: 'Mayonnaise',
+      pt: 'Maionese',
+      id: 'Mayones'
     },
     storage: {
       fridge: {
@@ -1481,7 +2027,10 @@ export const ingredients: Ingredient[] = [
           de: 'Zu kalte Lagerung (tief im Kühlschrank) trennt das Öl. In wärmeren Bereichen wie den Türfächern lagern.',
           pt: 'Temperaturas muito frias separam o óleo. Guarde em áreas mais quentes como a porta da geladeira.',
           id: 'Suhu terlalu dingin (bagian dalam kulkas) memisahkan minyak. Simpan di tempat hangat seperti pintu kulkas.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   },
@@ -1492,8 +2041,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥫',
     isProcessed: true,
     names: {
-      ko: '케첩', en: 'Ketchup', ja: 'ケチャップ', zh: '番茄酱', es: 'Kétchup',
-      fr: 'Ketchup', de: 'Ketchup', pt: 'Ketchup', id: 'Saus tomat'
+      ko: '케첩',
+      en: 'Ketchup',
+      ja: 'ケチャップ',
+      zh: '番茄酱',
+      es: 'Kétchup',
+      fr: 'Ketchup',
+      de: 'Ketchup',
+      pt: 'Ketchup',
+      id: 'Saus tomat'
     },
     storage: {
       fridge: {
@@ -1508,7 +2064,10 @@ export const ingredients: Ingredient[] = [
           de: 'Sauer genug für Raumtemp., aber nach dem Öffnen kühlen für besseren Geschmack. Auf den Kopf stellen.',
           pt: 'A acidez conserva, mas refrigere após abrir para manter o sabor. Guarde de cabeça para baixo.',
           id: 'Bisa di suhu ruang karena asam, tapi dinginkan setelah dibuka untuk menjaga rasa. Simpan terbalik.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   },
@@ -1518,8 +2077,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍯',
     isProcessed: true,
     names: {
-      ko: '꿀', en: 'Honey', ja: '蜂蜜', zh: '蜂蜜', es: 'Miel',
-      fr: 'Miel', de: 'Honig', pt: 'Mel', id: 'Madu'
+      ko: '꿀',
+      en: 'Honey',
+      ja: '蜂蜜',
+      zh: '蜂蜜',
+      es: 'Miel',
+      fr: 'Miel',
+      de: 'Honig',
+      pt: 'Mel',
+      id: 'Madu'
     },
     storage: {
       room: {
@@ -1534,20 +2100,29 @@ export const ingredients: Ingredient[] = [
           de: 'Niemals kühlen; Kälte kristallisiert den Zucker. Fest verschlossen bei Raumtemperatur lagern.',
           pt: 'Nunca refrigere; o frio cristaliza o açúcar. Mantenha bem fechado em temperatura ambiente.',
           id: 'Jangan dinginkan; dingin membuat gula mengkristal dan mengeras. Simpan rapat di suhu ruang.'
-        }
+        },
+        sources: [
+          'USDA',
+          'RDA'
+        ]
       }
     }
   },
-
-  // 🍱 기타 (Others)
   {
     id: 'pizza',
     category: 'etc',
     emoji: '🍕',
     isProcessed: true,
     names: {
-      ko: '남은 피자', en: 'Leftover Pizza', ja: '残ったピザ', zh: '吃剩的披萨', es: 'Pizza sobrante',
-      fr: 'Reste de pizza', de: 'Übriggebliebene Pizza', pt: 'Sobras de pizza', id: 'Sisa pizza'
+      ko: '남은 피자',
+      en: 'Leftover Pizza',
+      ja: '残ったピザ',
+      zh: '吃剩的披萨',
+      es: 'Pizza sobrante',
+      fr: 'Reste de pizza',
+      de: 'Übriggebliebene Pizza',
+      pt: 'Sobras de pizza',
+      id: 'Sisa pizza'
     },
     storage: {
       fridge: {
@@ -1562,7 +2137,10 @@ export const ingredients: Ingredient[] = [
           de: 'Trocknet offen aus. In Beuteln verschließen. Zum Aufwärmen mit einer Tasse Wasser in die Mikrowelle stellen.',
           pt: 'Resseca se deixada aberta. Vede em sacos e aqueça no micro-ondas com um copo de água para reidratar.',
           id: 'Mengering jika dibiarkan terbuka. Segel dalam kantong plastik dan microwave dengan secangkir air.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 60,
@@ -1576,7 +2154,10 @@ export const ingredients: Ingredient[] = [
           de: 'Scheiben einzeln einwickeln und gefrieren. Für frischen Geschmack 5 Min. bei 180 °C in die Heißluftfritteuse geben.',
           pt: 'Embrulhe as fatias individualmente e congele. Aqueça na air fryer a 180°C por 5 minutos para dourar.',
           id: 'Bungkus potongan per lembar lalu bekukan. Panggang di air fryer 180°C selama 5 menit agar renyah.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   },
@@ -1587,8 +2168,15 @@ export const ingredients: Ingredient[] = [
     emoji: '☕',
     isProcessed: true,
     names: {
-      ko: '커피 원두', en: 'Coffee Beans', ja: 'コーヒー豆', zh: '咖啡豆', es: 'Granos de café',
-      fr: 'Grains de café', de: 'Kaffeebohnen', pt: 'Café em grãos', id: 'Biji kopi'
+      ko: '커피 원두',
+      en: 'Coffee Beans',
+      ja: 'コーヒー豆',
+      zh: '咖啡豆',
+      es: 'Granos de café',
+      fr: 'Grains de café',
+      de: 'Kaffeebohnen',
+      pt: 'Café em grãos',
+      id: 'Biji kopi'
     },
     storage: {
       room: {
@@ -1603,7 +2191,10 @@ export const ingredients: Ingredient[] = [
           de: 'Licht- und sauerstoffempfindlich. In einem dunklen, luftdichten Ventilbeutel bei Raumtemperatur lagern.',
           pt: 'Vulnerável à luz e oxigênio. Guarde em saco escuro hermético com válvula em temperatura ambiente.',
           id: 'Biji kopi rentan terhadap cahaya dan oksigen. Simpan di wadah kedap udara gelap dengan katup aroma di suhu ruang.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 180,
@@ -1617,7 +2208,10 @@ export const ingredients: Ingredient[] = [
           de: '⚠️ Kaffee nimmt Gerüche extrem auf. Vakuumieren oder doppelt verpacken, um Geruchsübertragung zu verhindern.',
           pt: '⚠️ O café absorve odores facilmente. Vede a vácuo ou use saco duplo para evitar odores do congelador.',
           id: '⚠️ Kopi sangat mudah menyerap bau. Segel vakum atau bungkus ganda agar bau freezer tidak merusak rasa.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   },
@@ -1628,8 +2222,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥡',
     isProcessed: true,
     names: {
-      ko: '남은 치킨', en: 'Leftover Chicken', ja: '残ったチキン', zh: '剩炸鸡', es: 'Pollo frito sobrante',
-      fr: 'Reste de poulet', de: 'Übriggebratenes Hühnchen', pt: 'Sobras de frango frito', id: 'Sisa ayam goreng'
+      ko: '남은 치킨',
+      en: 'Leftover Chicken',
+      ja: '残ったチキン',
+      zh: '剩炸鸡',
+      es: 'Pollo frito sobrante',
+      fr: 'Reste de poulet',
+      de: 'Übriggebratenes Hühnchen',
+      pt: 'Sobras de frango frito',
+      id: 'Sisa ayam goreng'
     },
     storage: {
       fridge: {
@@ -1644,7 +2245,10 @@ export const ingredients: Ingredient[] = [
           de: 'In Beuteln lagern und innerhalb von 3 Tagen essen. Heißluftfritteuse (170 °C, 5 Min.) stellt die Knusprigkeit wieder her.',
           pt: 'Guarde em sacos e coma em até 3 dias. Reaquecer na air fryer a 170°C por 5 minutos devolve a crocância.',
           id: 'Simpan dalam kantong plastik selama 3 hari. Panaskan dengan air fryer 170°C selama 5 menit agar renyah.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   },
@@ -1655,8 +2259,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍼',
     isProcessed: true,
     names: {
-      ko: '이유식', en: 'Baby Food', ja: '離乳食', zh: '婴儿辅食', es: 'Comida para bebés',
-      fr: 'Aliments pour bébés', de: 'Babynahrung', pt: 'Comida de bebê', id: 'Makanan bayi'
+      ko: '이유식',
+      en: 'Baby Food',
+      ja: '離乳食',
+      zh: '婴儿辅食',
+      es: 'Comida para bebés',
+      fr: 'Aliments pour bébés',
+      de: 'Babynahrung',
+      pt: 'Comida de bebê',
+      id: 'Makanan bayi'
     },
     storage: {
       fridge: {
@@ -1671,7 +2282,12 @@ export const ingredients: Ingredient[] = [
           de: '⚠️ Babys haben ein schwaches Immunsystem. Speichelkontaminierte Reste entsorgen. Frischportionen max. 2 Tage kühlen.',
           pt: '⚠️ O sistema imune do bebê é frágil. Descarte sobras com saliva. Não guarde porções frescas por mais de 2 dias.',
           id: '⚠️ Sistem imun bayi lemah. Buang sisa yang terkena ludah. Jangan simpan di kulkas lebih dari 2 hari.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'CDC',
+          'WHO'
+        ]
       },
       freezer: {
         durationDays: 14,
@@ -1685,19 +2301,30 @@ export const ingredients: Ingredient[] = [
           de: 'In Einzelportionen in Silikonformen einfrieren. Innerhalb von 2 Wochen im Wasserbad auftauen.',
           pt: 'Congele em porções em formas de silicone. Degele em até 2 semanas em banho-maria ou vaporizador.',
           id: 'Bekukan porsi sekali makan dalam cetakan silikon. Cairkan dalam 2 minggu dengan direndam air hangat.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'CDC',
+          'WHO'
+        ]
       }
     }
   },
-  // 🫚 신규 추가 식재료 17종 (글로벌 인기 식재료)
   {
     id: 'ginger',
     category: 'vegetable',
     emoji: '🫚',
     isProcessed: false,
     names: {
-      ko: '생강', en: 'Ginger', ja: '生姜', zh: '生姜', es: 'Jengibre',
-      fr: 'Gingembre', de: 'Ingwer', pt: 'Gengibre', id: 'Jahe'
+      ko: '생강',
+      en: 'Ginger',
+      ja: '生姜',
+      zh: '生姜',
+      es: 'Jengibre',
+      fr: 'Gingembre',
+      de: 'Ingwer',
+      pt: 'Gengibre',
+      id: 'Jahe'
     },
     storage: {
       room: {
@@ -1712,7 +2339,10 @@ export const ingredients: Ingredient[] = [
           de: 'In Zeitungspapier mit Erde einwickeln und an einem kühlen, schattigen und gut belüfteten Ort aufbewahren.',
           pt: 'Embrulhe em jornal com a terra intacta e guarde em local fresco, sombreado e ventilado.',
           id: 'Bungkus dengan koran beserta tanahnya dan simpan di tempat yang sejuk, teduh, dan berventilasi.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       fridge: {
         durationDays: 30,
@@ -1726,7 +2356,10 @@ export const ingredients: Ingredient[] = [
           de: 'Schälen, in einem luftdichten Behälter in Wasser einlegen und das Wasser alle 1–2 Tage wechseln.',
           pt: 'Descasque, mergulhe em água em pote hermético e troque a água a cada 1 ou 2 dias.',
           id: 'Kupas, rendam dalam air dalam wadah kedap udara, dan ganti airnya setiap 1-2 hari sekali.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       freezer: {
         durationDays: 180,
@@ -1740,7 +2373,10 @@ export const ingredients: Ingredient[] = [
           de: 'In Scheiben schneiden oder hacken, flach in Beuteln gefrieren. Direkt gefroren verwenden.',
           pt: 'Fatie ou pique, aplane em sacos de congelador e congele. Use diretamente ao cozinhar.',
           id: 'Iris atau cincang, pipihkan dalam kantong plastik, lalu bekukan. Gunakan langsung saat memasak.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       }
     }
   },
@@ -1751,8 +2387,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥔',
     isProcessed: false,
     names: {
-      ko: '무', en: 'Radish', ja: '大根', zh: '白萝卜', es: 'Rábano',
-      fr: 'Radis', de: 'Rettich', pt: 'Rabanete', id: 'Lobak'
+      ko: '무',
+      en: 'Radish',
+      ja: '大根',
+      zh: '白萝卜',
+      es: 'Rábano',
+      fr: 'Radis',
+      de: 'Rettich',
+      pt: 'Rabanete',
+      id: 'Lobak'
     },
     storage: {
       fridge: {
@@ -1767,7 +2410,10 @@ export const ingredients: Ingredient[] = [
           de: 'Blätter abschneiden, um Feuchtigkeitsverlust zu vermeiden. Fest in Zeitungspapier wickeln und aufrecht kühlen.',
           pt: 'Corte as folhas para evitar perda de umidade. Embrulhe bem in jornal e guarde em pé na geladeira.',
           id: 'Potong daunnya untuk mencegah hilangnya air. Bungkus rapat dengan koran dan simpan berdiri di kulkas.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       freezer: {
         durationDays: 90,
@@ -1781,7 +2427,10 @@ export const ingredients: Ingredient[] = [
           de: 'Schneiden, in Salzwasser kurz blanchieren, abkühlen lassen, gut trocknen und portionieren.',
           pt: 'Corte, branqueie em água com sal, esfrie, seque bem e congele em porções.',
           id: 'Potong, rebus sebentar di air garam, dinginkan, keringkan sepenuhnya, lalu bekukan dalam porsi.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       }
     }
   },
@@ -1792,8 +2441,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🌱',
     isProcessed: false,
     names: {
-      ko: '콩나물', en: 'Bean Sprouts', ja: 'もやし', zh: '豆芽', es: 'Brotes de soja',
-      fr: 'Pousses de soja', de: 'Sojasprossen', pt: 'Broto de feijão', id: 'Toge'
+      ko: '콩나물',
+      en: 'Bean Sprouts',
+      ja: 'もやし',
+      zh: '豆芽',
+      es: 'Brotes de soja',
+      fr: 'Pousses de soja',
+      de: 'Sojasprossen',
+      pt: 'Broto de feijão',
+      id: 'Toge'
     },
     storage: {
       fridge: {
@@ -1808,7 +2464,10 @@ export const ingredients: Ingredient[] = [
           de: 'In einem luftdichten Behälter vollständig in kaltes Wasser einlegen. Wasser täglich wechseln.',
           pt: 'Mergulhe totalmente em água fria em pote hermético. Troque a água diariamente para manter a crocância.',
           id: 'Rendam seluruhnya dalam air dingin di wadah kedap udara. Ganti air setiap hari agar tetap renyah.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       freezer: {
         durationDays: 30,
@@ -1822,7 +2481,10 @@ export const ingredients: Ingredient[] = [
           de: 'In kochendem Salzwasser 30 Sek. blanchieren, abschrecken, gut ausdrücken und für Suppen einfrieren.',
           pt: 'Branqueie em água fervente com sal por 30s, esfrie, esprema bem a água e congele para caldos.',
           id: 'Rebus di air garam mendidih selama 30 detik, bilas air dingin, peras airnya, lalu bekukan untuk sup.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       }
     }
   },
@@ -1833,8 +2495,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥛',
     isProcessed: true,
     names: {
-      ko: '두유', en: 'Soy Milk', ja: '豆乳', zh: '豆奶/豆浆', es: 'Leche de soja',
-      fr: 'Lait de soja', de: 'Sojamilch', pt: 'Leite de soja', id: 'Susu kedelai'
+      ko: '두유',
+      en: 'Soy Milk',
+      ja: '豆乳',
+      zh: '豆奶/豆浆',
+      es: 'Leche de soja',
+      fr: 'Lait de soja',
+      de: 'Sojamilch',
+      pt: 'Leite de soja',
+      id: 'Susu kedelai'
     },
     storage: {
       room: {
@@ -1849,7 +2518,10 @@ export const ingredients: Ingredient[] = [
           de: 'Ungeöffnete sterile Packungen können bis zu 6 Monate an einem kühlen, trockenen Ort gelagert werden.',
           pt: 'Caixas fechadas podem ser armazenadas em local seco e fresco à temperatura ambiente.',
           id: 'Kemasan karton steril yang belum dibuka dapat disimpan di tempat sejuk dan kering.'
-        }
+        },
+        sources: [
+          'MFDS'
+        ]
       },
       fridge: {
         durationDays: 7,
@@ -1863,7 +2535,10 @@ export const ingredients: Ingredient[] = [
           de: 'Nach dem Öffnen sofort kühlen und unabhängig vom Ablaufdatum innerhalb von 7 Tagen verbrauchen.',
           pt: 'Depois de aberto, refrigere imediatamente e consuma em até 7 dias, independente da data de validade.',
           id: 'Setelah dibuka, segera dinginkan dan konsumsi dalam 7 hari tanpa melihat tanggal kedaluwarsa.'
-        }
+        },
+        sources: [
+          'MFDS'
+        ]
       }
     }
   },
@@ -1873,8 +2548,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍇',
     isProcessed: false,
     names: {
-      ko: '포도', en: 'Grape', ja: 'ぶどう', zh: '葡萄', es: 'Uva',
-      fr: 'Raisin', de: 'Weintraube', pt: 'Uva', id: 'Anggur'
+      ko: '포도',
+      en: 'Grape',
+      ja: 'ぶどう',
+      zh: '葡萄',
+      es: 'Uva',
+      fr: 'Raisin',
+      de: 'Weintraube',
+      pt: 'Uva',
+      id: 'Anggur'
     },
     storage: {
       fridge: {
@@ -1889,7 +2571,11 @@ export const ingredients: Ingredient[] = [
           de: 'Feuchtigkeit begünstigt Fäulnis. Ungewaschen in Papier gewickelt im Kühlschrank lagern. Vor dem Verzehr waschen.',
           pt: 'A umidade apodrece as uvas. Guarde sem lavar embrulhadas em papel na geladeira. Lave antes de comer.',
           id: 'Air memicu pembusukan. Simpan tanpa dicuci dibungkus kertas di kulkas. Cuci sesaat sebelum dimakan.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 90,
@@ -1903,7 +2589,11 @@ export const ingredients: Ingredient[] = [
           de: 'Beeren abzupfen, waschen, gut trocknen und nebeneinander in Beuteln gefrieren.',
           pt: 'Retire as uvas dos cabos, lave, seque bem e congele em camada única em sacos vedados.',
           id: 'Petik buahnya, cuci, keringkan sepenuhnya, lalu bekukan mendatar dalam kantong plastik.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       }
     }
   },
@@ -1913,8 +2603,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍑',
     isProcessed: false,
     names: {
-      ko: '복숭아', en: 'Peach', ja: '桃', zh: '桃子', es: 'Melocotón',
-      fr: 'Pêche', de: 'Pfirsich', pt: 'Pêssego', id: 'Persik'
+      ko: '복숭아',
+      en: 'Peach',
+      ja: '桃',
+      zh: '桃子',
+      es: 'Melocotón',
+      fr: 'Pêche',
+      de: 'Pfirsich',
+      pt: 'Pêssego',
+      id: 'Persik'
     },
     storage: {
       room: {
@@ -1929,7 +2626,11 @@ export const ingredients: Ingredient[] = [
           de: 'Kühlschrank entzieht die Süße. In Papier gewickelt bei Raumtemperatur im schattigen Wind reifen lassen.',
           pt: 'A geladeira tira o sabor doce. Embrulhe em papel e amadureça à temperatura ambiente na sombra.',
           id: 'Mendinginkan merusak rasa manisnya. Bungkus kertas dan matangkan di suhu ruang yang teduh.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       },
       fridge: {
         durationDays: 7,
@@ -1943,7 +2644,11 @@ export const ingredients: Ingredient[] = [
           de: 'Einzeln in Folie oder Küchenpapier wickeln und ins Gemüsefach legen. 1 Std. vor dem Verzehr herausnehmen.',
           pt: 'Embrulhe em filme ou papel-toalha e guarde na gaveta de vegetais. Retire 1 hora antes de comer.',
           id: 'Bungkus dengan plastik wrap atau tisu dapur dan taruh di laci sayur. Keluarkan 1 jam sebelum dimakan.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       }
     }
   },
@@ -1953,8 +2658,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍊',
     isProcessed: false,
     names: {
-      ko: '오렌지/귤', en: 'Orange / Mandarin', ja: 'オレンジ/みかん', zh: '橙子/橘子', es: 'Naranja / Mandarina',
-      fr: 'Orange / Mandarine', de: 'Orange / Mandarine', pt: 'Laranja / Tangarina', id: 'Jeruk'
+      ko: '오렌지/귤',
+      en: 'Orange / Mandarin',
+      ja: 'オレンジ/みかん',
+      zh: '橙子/橘子',
+      es: 'Naranja / Mandarina',
+      fr: 'Orange / Mandarine',
+      de: 'Orange / Mandarine',
+      pt: 'Laranja / Tangarina',
+      id: 'Jeruk'
     },
     storage: {
       room: {
@@ -1969,7 +2681,11 @@ export const ingredients: Ingredient[] = [
           de: 'Verdorbene sofort aussortieren. Zeitungspapier unterlegen und Früchte getrennt an einem kühlen, dunklen Ort lagern.',
           pt: 'Retire as estragadas. Coloque folhas de jornal e separe as frutas em local fresco e com sombra.',
           id: 'Buang yang busuk segera. Alasi koran berlapis dan beri jarak antaruah di tempat sejuk dan gelap.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       },
       fridge: {
         durationDays: 21,
@@ -1983,7 +2699,11 @@ export const ingredients: Ingredient[] = [
           de: 'In leichtem Salzwasser waschen, um Schimmelsporen zu entfernen, trocknen, in Zeitung wickeln und kühlen.',
           pt: 'Lave em água salgada para retirar esporos de mofo, seque, embrulhe em jornal e guarde em sacos.',
           id: 'Cuci dengan air garam untuk membunuh spora jamur, keringkan, bungkus koran, lalu segel di kantong plastik.'
-        }
+        },
+        sources: [
+          'RDA',
+          'USDA'
+        ]
       }
     }
   },
@@ -1994,8 +2714,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍣',
     isProcessed: false,
     names: {
-      ko: '연어', en: 'Salmon', ja: '鮭', zh: '三文鱼/鲑鱼', es: 'Salmón',
-      fr: 'Saumon', de: 'Lachs', pt: 'Salmão', id: 'Salmon'
+      ko: '연어',
+      en: 'Salmon',
+      ja: '鮭',
+      zh: '三文鱼/鲑鱼',
+      es: 'Salmón',
+      fr: 'Saumon',
+      de: 'Lachs',
+      pt: 'Salmão',
+      id: 'Salmon'
     },
     storage: {
       fridge: {
@@ -2010,7 +2737,11 @@ export const ingredients: Ingredient[] = [
           de: 'Feuchtigkeit gut abtupfen, vakuumieren und kühlen. Etwas Sake oder Weißwein verhindert Gerüche.',
           pt: 'Seque o líquido da carne, vede a vácuo e refrigere. Borrifar saquê ou vinho branco ajuda a eliminar odores.',
           id: 'Lap kering cairannya, bungkus vakum, dan dinginkan. Percikan sedikit sake atau anggur putih mengurangi bau amis.'
-        }
+        },
+        sources: [
+          'NIFS',
+          'USDA'
+        ]
       },
       freezer: {
         durationDays: 60,
@@ -2024,7 +2755,11 @@ export const ingredients: Ingredient[] = [
           de: 'In Portionsgröße schneiden, leicht salzen, mit Olivenöl bestreichen, einwickeln und gefrieren.',
           pt: 'Corte em porções, salgue levemente para drenar a água, pincele azeite, embrulhe em filme e congele.',
           id: 'Potong dalam porsi sekali makan, taburi sedikit garam, olesi minyak zaitun, bungkus, lalu bekukan.'
-        }
+        },
+        sources: [
+          'NIFS',
+          'USDA'
+        ]
       }
     }
   },
@@ -2035,8 +2770,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🐟',
     isProcessed: false,
     names: {
-      ko: '멸치', en: 'Anchovy', ja: '煮干し/カタクチイワシ', zh: '鳀鱼/小银鱼', es: 'Anchoa',
-      fr: 'Anchois', de: 'Sardelle', pt: 'Anchova', id: 'Ikan teri'
+      ko: '멸치',
+      en: 'Anchovy',
+      ja: '煮干し/カタクチイワシ',
+      zh: '鳀鱼/小银鱼',
+      es: 'Anchoa',
+      fr: 'Anchois',
+      de: 'Sardelle',
+      pt: 'Anchova',
+      id: 'Ikan teri'
     },
     storage: {
       room: {
@@ -2051,7 +2793,10 @@ export const ingredients: Ingredient[] = [
           de: 'Schimmel und Schädlinge vermehren sich bei Feuchtigkeit. Nur kurzfristig trocken und kühl lagern.',
           pt: 'Mofo e insetos proliferam em umidade. Guarde fechado em local seco e fresco apenas a curto prazo.',
           id: 'Jamur dan serangga mudah berkembang di cuaca lembap. Simpan kering dan sejuk untuk jangka pendek saja.'
-        }
+        },
+        sources: [
+          'MFDS'
+        ]
       },
       freezer: {
         durationDays: 365,
@@ -2065,7 +2810,10 @@ export const ingredients: Ingredient[] = [
           de: 'Ohne Öl kurz in der Pfanne anrösten, abkühlen lassen und in Beuteln gefrieren gegen Gerüche.',
           pt: 'Toste levemente sem óleo na frigideira para secar, esfrie e congele em sacos herméticos para evitar odores.',
           id: 'Sangrai tanpa minyak untuk menghilangkan kelembapan, dinginkan, lalu bekukan dalam kantong plastik.'
-        }
+        },
+        sources: [
+          'MFDS'
+        ]
       }
     }
   },
@@ -2076,8 +2824,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🫙',
     isProcessed: true,
     names: {
-      ko: '간장', en: 'Soy Sauce', ja: '醤油', zh: '酱油', es: 'Salsa de soja',
-      fr: 'Sauce soja', de: 'Sojasauce', pt: 'Molho de soja', id: 'Kecap asin'
+      ko: '간장',
+      en: 'Soy Sauce',
+      ja: '醤油',
+      zh: '酱油',
+      es: 'Salsa de soja',
+      fr: 'Sauce soja',
+      de: 'Sojasauce',
+      pt: 'Molho de soja',
+      id: 'Kecap asin'
     },
     storage: {
       room: {
@@ -2092,7 +2847,11 @@ export const ingredients: Ingredient[] = [
           de: 'Ungeöffnet fast unbegrenzt an einem kühlen, dunklen Ort lagerfähig.',
           pt: 'Fechado pode ser mantido quase indefinidamente em local fresco e escuro.',
           id: 'Sebelum dibuka dapat disimpan hampir tanpa batas di tempat yang sejuk dan gelap.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       },
       fridge: {
         durationDays: 365,
@@ -2106,7 +2865,11 @@ export const ingredients: Ingredient[] = [
           de: 'Nach dem Öffnen gut verschlossen im Kühlschrank lagern, um Oxidation zu vermeiden.',
           pt: 'Após aberto, conserve na geladeira com a tampa bem fechada para evitar a oxidação e manter o aroma.',
           id: 'Setelah dibuka, simpan di kulkas dengan tutup rapat untuk mencegah oksidasi dan menjaga rasa.'
-        }
+        },
+        sources: [
+          'MFDS',
+          'USDA'
+        ]
       }
     }
   },
@@ -2117,8 +2880,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🌶️',
     isProcessed: true,
     names: {
-      ko: '김치', en: 'Kimchi', ja: 'キムチ', zh: '泡菜', es: 'Kimchi',
-      fr: 'Kimchi', de: 'Kimchi', pt: 'Kimchi', id: 'Kimchi'
+      ko: '김치',
+      en: 'Kimchi',
+      ja: 'キムチ',
+      zh: '泡菜',
+      es: 'Kimchi',
+      fr: 'Kimchi',
+      de: 'Kimchi',
+      pt: 'Kimchi',
+      id: 'Kimchi'
     },
     storage: {
       fridge: {
@@ -2158,8 +2928,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🫒',
     isProcessed: true,
     names: {
-      ko: '식용유/올리브유', en: 'Cooking Oil / Olive Oil', ja: '食用油/オリーブオイル', zh: '食用油/橄榄油', es: 'Aceite de cocina / Oliva',
-      fr: 'Huile de cuisson / Olive', de: 'Speiseöl / Olivenöl', pt: 'Óleo de cozinha / Azeite', id: 'Minyak goreng / Zaitun'
+      ko: '식용유/올리브유',
+      en: 'Cooking Oil / Olive Oil',
+      ja: '食用油/オリーブオイル',
+      zh: '食用油/橄榄油',
+      es: 'Aceite de cocina / Oliva',
+      fr: 'Huile de cuisson / Olive',
+      de: 'Speiseöl / Olivenöl',
+      pt: 'Óleo de cozinha / Azeite',
+      id: 'Minyak goreng / Zaitun'
     },
     storage: {
       room: {
@@ -2198,8 +2975,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥜',
     isProcessed: true,
     names: {
-      ko: '견과류', en: 'Nuts', ja: 'ナッツ', zh: '坚果', es: 'Frutos secos',
-      fr: 'Fruits secs', de: 'Nüsse', pt: 'Nozes', id: 'Kacang-kacangan'
+      ko: '견과류',
+      en: 'Nuts',
+      ja: 'ナッツ',
+      zh: '坚果',
+      es: 'Frutos secos',
+      fr: 'Fruits secs',
+      de: 'Nüsse',
+      pt: 'Nozes',
+      id: 'Kacang-kacangan'
     },
     storage: {
       room: {
@@ -2253,8 +3037,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍖',
     isProcessed: true,
     names: {
-      ko: '햄', en: 'Ham', ja: 'ハム', zh: '火腿', es: 'Jamón',
-      fr: 'Jambon', de: 'Schinken', pt: 'Presunto', id: 'Daging ham'
+      ko: '햄',
+      en: 'Ham',
+      ja: 'ハム',
+      zh: '火腿',
+      es: 'Jamón',
+      fr: 'Jambon',
+      de: 'Schinken',
+      pt: 'Presunto',
+      id: 'Daging ham'
     },
     storage: {
       fridge: {
@@ -2293,8 +3084,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🍆',
     isProcessed: false,
     names: {
-      ko: '가지', en: 'Eggplant', ja: 'ナス', zh: '茄子', es: 'Berenjena',
-      fr: 'Aubergine', de: 'Aubergine', pt: 'Berinjela', id: 'Terong'
+      ko: '가지',
+      en: 'Eggplant',
+      ja: 'ナス',
+      zh: '茄子',
+      es: 'Berenjena',
+      fr: 'Aubergine',
+      de: 'Aubergine',
+      pt: 'Berinjela',
+      id: 'Terong'
     },
     storage: {
       room: {
@@ -2309,7 +3107,10 @@ export const ingredients: Ingredient[] = [
           de: 'Kälteempfindlich. Einzeln in Zeitung wickeln und an einem kühlen, schattigen Ort lagern.',
           pt: 'Sensível ao frio. Embrulhe individualmente em jornal e guarde em local fresco e com sombra.',
           id: 'Sangat sensitif terhadap dingin. Bungkus satu per satu dengan koran, simpan di tempat sejuk dan teduh.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       fridge: {
         durationDays: 3,
@@ -2323,7 +3124,10 @@ export const ingredients: Ingredient[] = [
           de: 'Falls Kühlung nötig, in Zeitung wickeln und ins Gemüsefach legen; innerhalb von 3 Tagen verbrauchen.',
           pt: 'Se precisar refrigerar, embrulhe em jornal e guarde na gaveta de vegetais; consuma em até 3 dias.',
           id: 'Jika harus didinginkan, bungkus koran dan taruh di laci sayur; gunakan dalam 3 hari.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       }
     }
   },
@@ -2334,8 +3138,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🎃',
     isProcessed: false,
     names: {
-      ko: '호박 / 단호박', en: 'Pumpkin / Squash', ja: 'カボチャ', zh: '南瓜', es: 'Calabaza',
-      fr: 'Citrouille', de: 'Kürbis', pt: 'Abóbora', id: 'Labu'
+      ko: '호박 / 단호박',
+      en: 'Pumpkin / Squash',
+      ja: 'カボチャ',
+      zh: '南瓜',
+      es: 'Calabaza',
+      fr: 'Citrouille',
+      de: 'Kürbis',
+      pt: 'Abóbora',
+      id: 'Labu'
     },
     storage: {
       room: {
@@ -2350,7 +3161,10 @@ export const ingredients: Ingredient[] = [
           de: 'Ganze, ungeschnittene Kürbisse halten sich über einen Monat an einem kühlen, dunklen Ort.',
           pt: 'Abóboras inteiras e sem cortes duram mais de um mês em local fresco e escuro à temperatura ambiente.',
           id: 'Labu utuh yang belum dipotong awet lebih dari sebulan di ruangan sejuk dan gelap.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       fridge: {
         durationDays: 7,
@@ -2364,7 +3178,10 @@ export const ingredients: Ingredient[] = [
           de: 'Kerne und Fruchtfleisch komplett entfernen, da sie zuerst schimmeln. Schnittstellen mit Papier abdecken und fest einwickeln.',
           pt: 'Retire as sementes e a polpa completamente, pois mofam primeiro. Cubra os cortes com papel-toalha e embrulhe.',
           id: 'Keruk biji dan serabutnya sampai bersih karena cepat berjamur. Alasi tisu pada potongan lalu bungkus rapat.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       },
       freezer: {
         durationDays: 180,
@@ -2378,7 +3195,10 @@ export const ingredients: Ingredient[] = [
           de: 'Schälen, schneiden und dämpfen oder pürieren. In Portionsbeuteln für Suppen oder Brei einfrieren.',
           pt: 'Descasque, corte e cozinhe no vapor ou faça purê. Congele em sacos em porções para sopas ou papinhas.',
           id: 'Kupas, potong, kukus atau haluskan. Bekukan dalam kantong porsi sekali pakai untuk sup atau makanan bayi.'
-        }
+        },
+        sources: [
+          'RDA'
+        ]
       }
     }
   },
@@ -2388,8 +3208,15 @@ export const ingredients: Ingredient[] = [
     emoji: '🥝',
     isProcessed: false,
     names: {
-      ko: '키위', en: 'Kiwi', ja: 'キウイ', zh: '猕猴桃/奇異果', es: 'Kiwi',
-      fr: 'Kiwi', de: 'Kiwi', pt: 'Kiwi', id: 'Kiwi'
+      ko: '키위',
+      en: 'Kiwi',
+      ja: 'キウイ',
+      zh: '猕猴桃/奇異果',
+      es: 'Kiwi',
+      fr: 'Kiwi',
+      de: 'Kiwi',
+      pt: 'Kiwi',
+      id: 'Kiwi'
     },
     storage: {
       room: {
@@ -2404,7 +3231,10 @@ export const ingredients: Ingredient[] = [
           de: 'Bei Raumtemperatur reifen lassen, wenn hart. Zusammen mit Bananen oder Äpfeln in eine Tüte legen beschleunigt dies.',
           pt: 'Amadureça em temperatura ambiente se estiver duro. Colocar em saco com bananas ou maçãs acelera o processo.',
           id: 'Matangkan di suhu ruang jika keras. Taruh dalam kantong bersama pisang atau apel mempercepat matang.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       },
       fridge: {
         durationDays: 14,
@@ -2418,7 +3248,10 @@ export const ingredients: Ingredient[] = [
           de: 'Sobald reif und weich, in einer Plastiktüte im Kühlschrank lagern. Hält bis zu 2 Wochen.',
           pt: 'Uma vez maduro e macio, coloque em saco plástico e refrigere para prolongar por até 2 semanas.',
           id: 'Setelah matang dan empuk, masukkan ke kantong plastik dan dinginkan untuk memperpanjang awet hingga 2 minggu.'
-        }
+        },
+        sources: [
+          'USDA'
+        ]
       }
     }
   }

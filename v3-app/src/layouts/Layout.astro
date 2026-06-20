@@ -13,6 +13,7 @@ export interface Props {
 	canonicalUrl?: string;
 	robots?: string;
 	appId?: 'buildself' | 'freshself' | 'deepmood' | 'studio';
+	structuredData?: Record<string, any> | Record<string, any>[];
 }
 
 const { 
@@ -25,7 +26,8 @@ const {
 	ogType = 'website',
 	canonicalUrl,
 	robots,
-	appId = 'studio'
+	appId = 'studio',
+	structuredData
 } = Astro.props;
 
 // appId에 따른 테마 색상 및 서체 지정
@@ -170,6 +172,16 @@ const getPathForLang = (targetLang: string) => {
 				})} />
 			);
 		})()}
+		
+		{structuredData && (
+			Array.isArray(structuredData) ? (
+				structuredData.map((sd) => (
+					<script type="application/ld+json" set:html={JSON.stringify(sd)} />
+				))
+			) : (
+				<script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+			)
+		)}
 		
 		<style is:global>
 			body {
