@@ -24,19 +24,20 @@ export const ui = {
     'app.buildself.meta.title': 'BuildSelf - The Ultimate Habit Tracker App | SelaLink',
     'app.buildself.status': 'Now Available',
     'app.buildself.supported': '9 Languages Supported',
-    'app.deepmood.title': 'DeepMood',
-    'app.deepmood.desc': 'AI-driven emotion journal.',
-    'app.deepmood.status': 'Coming Soon',
-    'app.deepmood.supported': 'Korean Only (Currently)',
-    'app.deepmood.warning': 'This app currently only supports Korean.',
+    'app.moodself.title': 'MoodSelf',
+    'app.moodself.desc': 'AI-driven emotion journal.',
+    'app.moodself.status': 'Coming Soon',
+    'app.moodself.supported': 'Korean Only (Currently)',
+    'app.moodself.warning': 'This app currently only supports Korean.',
     
-    // DeepMood App Subpage
+    // MoodSelf App Subpage
     'dm.hero.subtitle': '100% On-Device AI Mind Journal',
     'dm.hero.title': 'In a place where no one looks, AI quietly reads your heart.',
     'dm.hero.cta': 'Coming Soon',
     'dm.feature1.title': 'Serverless Local AI Privacy',
     'dm.feature1.desc': 'Can you send your true thoughts to the cloud? All journals and AI emotional analyses run only inside your device.',
     'dm.feature2.title': 'Transcendental Hybrid Search',
+    'dm.feature2.desc': "Search for 'the sadness I felt on a rainy day'. Vector-based AI retrieves your most private past moments.",
     'app.freshself.title': 'FreshSelf',
     'app.freshself.desc': 'Smartly manage expiration dates for food and household items without any waste. Share refrigerators, pantries, and storage spaces with family in real time, and monitor consumption timelines.',
     'app.freshself.meta.title': 'FreshSelf | Smart Expiration Date & Pantry Tracker',
@@ -44,6 +45,11 @@ export const ui = {
     'app.freshself.status': 'Now Available',
     'app.freshself.supported': '9 Languages Supported',
     'app.freshself.warning': 'This app supports multiple languages.',
+    'app.storeself.title': 'StoreSelf',
+    'app.storeself.desc': 'Calculate the optimal storage method and fresh D-Day for your food items instantly on the web.',
+    'app.storeself.meta.title': 'StoreSelf | Food Storage & Expiration D-Day Calculator',
+    'app.storeself.meta.desc': 'StoreSelf Web App: Check correct food storage methods and calculate fresh D-Day instantly to reduce food waste.',
+    'app.storeself.status': 'Free Web App',
     
     // FreshSelf App Subpage (Type placeholder for defaultLang)
     'fs.hero.subtitle': 'Smart Home Assistant',
@@ -165,11 +171,11 @@ export const ui = {
     'app.buildself.meta.title': '빌드셀프 BuildSelf | 위인 캐릭터와 함께하는 습관 형성 루틴 트래커',
     'app.buildself.status': '정식 출시',
     'app.buildself.supported': '9개 국어 완벽 지원',
-    'app.deepmood.title': 'DeepMood',
-    'app.deepmood.desc': '다중 감정 분석 AI가 기록하는 진짜 당신의 하루.',
-    'app.deepmood.status': '출시 예정',
-    'app.deepmood.supported': '⏳ 현재 한국어 전용 개발 중',
-    'app.deepmood.warning': '이 앱은 현재 한국어만 지원합니다.',
+    'app.moodself.title': '무드셀프 MoodSelf',
+    'app.moodself.desc': '다중 감정 분석 AI가 기록하는 진짜 당신의 하루.',
+    'app.moodself.status': '출시 예정',
+    'app.moodself.supported': '⏳ 현재 한국어 전용 개발 중',
+    'app.moodself.warning': '이 앱은 현재 한국어만 지원합니다.',
     'app.freshself.title': '프레시셀프 FreshSelf',
     'app.freshself.desc': '식재료와 생활용품 유통기한을 버리는 것 없이 똑똑하게 관리하는 프레시셀프(프레쉬셀프). 냉장고, 팬트리 수납장을 가족과 실시간으로 공유하고 소비 타임라인을 모니터링하세요.',
     'app.freshself.meta.title': '프레시셀프 FreshSelf | 냉장고 유통기한 및 소비기한 관리 살림 비서',
@@ -177,6 +183,11 @@ export const ui = {
     'app.freshself.status': '정식 출시',
     'app.freshself.supported': '9개 국어 완벽 지원',
     'app.freshself.warning': '이 앱은 다국어를 지원합니다.',
+    'app.storeself.title': '스토어셀프 StoreSelf',
+    'app.storeself.desc': '식재료별 올바른 보관법을 확인하고 권장 신선 기한(D-Day)을 즉석에서 계산해 주는 스마트 살림 유틸리티 웹앱.',
+    'app.storeself.meta.title': '스토어셀프 StoreSelf | 식재료 보관법 & 소비기한 D-Day 계산기',
+    'app.storeself.meta.desc': '스토어셀프(StoreSelf) 웹앱: 대파, 양파, 우유 등 다양한 식재료의 보관 가이드와 남은 신선 기한 계산을 통해 낭비 없는 살림을 시작하세요.',
+    'app.storeself.status': '무료 웹앱',
     'footer.more': '새로운 디지털 경험이 곧 공개됩니다',
     'lang.switcher': '언어',
     
@@ -198,7 +209,7 @@ export const ui = {
     'bs.mentors.title': '역사를 바꾼 거인들이 당신의 루틴을 이끕니다',
     'bs.mentors.desc': '위인 캐릭터들의 든든한 등 뒤에서 당신만의 완벽한 습관을 만들어보세요.',
 
-    // DeepMood App Subpage
+    // MoodSelf App Subpage
     'dm.hero.subtitle': '100% 온디바이스 AI 감정 일기장',
     'dm.hero.title': '아무도 보지 않는 곳에서, AI가 조용히 당신의 마음을 읽습니다.',
     'dm.hero.cta': '출시 예정',
@@ -307,13 +318,13 @@ export const ui = {
     'app.buildself.meta.title': 'BuildSelf - 究極の習慣トラッカー＆目標達成アプリ | SelaLink',
     'app.buildself.status': '配信中',
     'app.buildself.supported': '9ヶ国語対応',
-    'app.deepmood.title': 'DeepMood',
-    'app.deepmood.desc': 'AI感情分析ジャーナル。',
-    'app.deepmood.status': '近日公開',
-    'app.deepmood.supported': '現在韓国語のみ対応',
-    'app.deepmood.warning': 'このアプリは現在韓国語のみ対応しています。',
+    'app.moodself.title': 'MoodSelf',
+    'app.moodself.desc': 'AI感情分析ジャーナル。',
+    'app.moodself.status': '近日公開',
+    'app.moodself.supported': '現在韓国語のみ対応',
+    'app.moodself.warning': 'このアプリは現在韓国語のみ対応しています。',
     
-    // DeepMood App Subpage
+    // MoodSelf App Subpage
     'dm.hero.subtitle': '100%オンデバイスAI感情日記',
     'dm.hero.title': '誰も見ていない場所で、AIが静かにあなたの心を読み取ります。',
     'dm.hero.cta': '近日公開',
@@ -327,6 +338,11 @@ export const ui = {
     'app.freshself.status': '配信中',
     'app.freshself.supported': '9ヶ国語対応',
     'app.freshself.warning': 'このアプリは多言語に対応しています。',
+    'app.storeself.title': 'StoreSelf',
+    'app.storeself.desc': '食材の正しい保存方法を確認し、推奨消費期限(D-Day)を即座に計算するスマートな暮らしのWebアプリ。',
+    'app.storeself.meta.title': 'StoreSelf | 食材保存法＆期限チェッカー Webアプリ',
+    'app.storeself.meta.desc': 'StoreSelf Webアプリ：正しい保存方法と期限計算で食品ロスを減らし、スマートに食材を管理しましょう。',
+    'app.storeself.status': '無料Webアプリ',
     
     // FreshSelf App Subpage
     'fs.hero.subtitle': 'スマートな暮らしのパートナー',
@@ -447,13 +463,13 @@ export const ui = {
     'app.buildself.meta.title': 'BuildSelf - 终极习惯养成打卡App | SelaLink',
     'app.buildself.status': '现已推出',
     'app.buildself.supported': '支持9种语言',
-    'app.deepmood.title': 'DeepMood',
-    'app.deepmood.desc': 'AI情感驱动日记。',
-    'app.deepmood.status': '即将推出',
-    'app.deepmood.supported': '目前仅支持韩语',
-    'app.deepmood.warning': '此应用目前仅支持韩语。',
+    'app.moodself.title': 'MoodSelf',
+    'app.moodself.desc': 'AI情感驱动日记。',
+    'app.moodself.status': '即将推出',
+    'app.moodself.supported': '目前仅支持韩语',
+    'app.moodself.warning': '此应用目前仅支持韩语。',
     
-    // DeepMood App Subpage
+    // MoodSelf App Subpage
     'dm.hero.subtitle': '100% 离线端侧 AI 情绪日记',
     'dm.hero.title': '在无人注视的角落，AI 静静聆听你的心声。',
     'dm.hero.cta': '即将推出',
@@ -467,6 +483,11 @@ export const ui = {
     'app.freshself.status': '现已推出',
     'app.freshself.supported': '支持 9 种语言',
     'app.freshself.warning': '此应用支持多种语言。',
+    'app.storeself.title': 'StoreSelf',
+    'app.storeself.desc': '在网页上即时计算食材的最佳保存方法与保质期倒计时(D-Day)的智能生活助手。',
+    'app.storeself.meta.title': 'StoreSelf | 食材保存与保质期查询助手 Web应用',
+    'app.storeself.meta.desc': 'StoreSelf Web应用：掌握正确的保存方法以减少食品浪费，更智能地管理您的厨房食材。',
+    'app.storeself.status': '免费Web应用',
     
     // FreshSelf App Subpage
     'fs.hero.subtitle': '智能生活管家',
@@ -587,13 +608,13 @@ export const ui = {
     'app.buildself.meta.title': 'BuildSelf - El Rastreador de Hábitos Definitivo | SelaLink',
     'app.buildself.status': 'Ya disponible',
     'app.buildself.supported': '9 idiomas soportados',
-    'app.deepmood.title': 'DeepMood',
-    'app.deepmood.desc': 'Diario de emociones por IA.',
-    'app.deepmood.status': 'Próximamente',
-    'app.deepmood.supported': 'Solo Coreano (Actualmente)',
-    'app.deepmood.warning': 'Esta aplicación solo soporta coreano.',
+    'app.moodself.title': 'MoodSelf',
+    'app.moodself.desc': 'Diario de emociones por IA.',
+    'app.moodself.status': 'Próximamente',
+    'app.moodself.supported': 'Solo Coreano (Actualmente)',
+    'app.moodself.warning': 'Esta aplicación solo soporta coreano.',
     
-    // DeepMood App Subpage
+    // MoodSelf App Subpage
     'dm.hero.subtitle': 'Diario mental 100% on-device con IA',
     'dm.hero.title': 'En un lugar donde nadie mira, la IA lee silenciosamente tu corazón.',
     'dm.hero.cta': 'Próximamente',
@@ -607,6 +628,11 @@ export const ui = {
     'app.freshself.status': 'Ya disponible',
     'app.freshself.supported': 'Disponible en 9 idiomas',
     'app.freshself.warning': 'Esta aplicación soporta varios idiomas.',
+    'app.storeself.title': 'StoreSelf',
+    'app.storeself.desc': 'Calcula al instante el método de conservación óptimo y los días de frescura restantes para tus alimentos en la web.',
+    'app.storeself.meta.title': 'StoreSelf | Guía de Conservación & Calculador de Caducidad',
+    'app.storeself.meta.desc': 'Aplicación Web StoreSelf: Consulta métodos de conservación y calcula la caducidad al instante para evitar el desperdicio.',
+    'app.storeself.status': 'Web App Gratis',
     
     // FreshSelf App Subpage
     'fs.hero.subtitle': 'Asistente de Hogar Inteligente',
@@ -727,13 +753,13 @@ export const ui = {
     'app.buildself.meta.title': 'BuildSelf - Suivi d\'habitudes et Tracker Ultime | SelaLink',
     'app.buildself.status': 'Disponible maintenant',
     'app.buildself.supported': '9 langues supportées',
-    'app.deepmood.title': 'DeepMood',
-    'app.deepmood.desc': 'Journal des émotions par IA.',
-    'app.deepmood.status': 'Bientôt disponible',
-    'app.deepmood.supported': 'Coréen uniquement',
-    'app.deepmood.warning': 'Cette application ne supporte que le coréen.',
+    'app.moodself.title': 'MoodSelf',
+    'app.moodself.desc': 'Journal des émotions par IA.',
+    'app.moodself.status': 'Bientôt disponible',
+    'app.moodself.supported': 'Coréen uniquement',
+    'app.moodself.warning': 'Cette application ne supporte que le coréen.',
     
-    // DeepMood App Subpage
+    // MoodSelf App Subpage
     'dm.hero.subtitle': 'Journal intime 100% On-Device par IA',
     'dm.hero.title': 'Là où personne ne regarde, l\'IA lit discrètement votre cœur.',
     'dm.hero.cta': 'Bientôt disponible',
@@ -747,6 +773,11 @@ export const ui = {
     'app.freshself.status': 'Disponible maintenant',
     'app.freshself.supported': 'Disponible en 9 langues',
     'app.freshself.warning': 'Cette application supporte plusieurs langues.',
+    'app.storeself.title': 'StoreSelf',
+    'app.storeself.desc': 'Calculez instantanément la méthode de conservation optimale et la durée de fraîcheur restante pour vos aliments sur le web.',
+    'app.storeself.meta.title': 'StoreSelf | Guide de Conservation & Calculateur de D-Day',
+    'app.storeself.meta.desc': 'Application Web StoreSelf : Consultez les méthodes de conservation et calculez la fraîcheur de vos aliments pour éviter le gaspillage.',
+    'app.storeself.status': 'Web App Gratuite',
     
     // FreshSelf App Subpage
     'fs.hero.subtitle': 'Assistant Domestique Intelligent',
@@ -867,13 +898,13 @@ export const ui = {
     'app.buildself.meta.title': 'BuildSelf - Der ultimative Gewohnheits-Tracker | SelaLink',
     'app.buildself.status': 'Jetzt verfügbar',
     'app.buildself.supported': '9 Sprachen unterstützt',
-    'app.deepmood.title': 'DeepMood',
-    'app.deepmood.desc': 'KI-gesteuertes Emotionstagebuch.',
-    'app.deepmood.status': 'Demnächst',
-    'app.deepmood.supported': 'Derzeit nur auf Koreanisch',
-    'app.deepmood.warning': 'Diese App unterstützt derzeit nur Koreanisch.',
+    'app.moodself.title': 'MoodSelf',
+    'app.moodself.desc': 'KI-gesteuertes Emotionstagebuch.',
+    'app.moodself.status': 'Demnächst',
+    'app.moodself.supported': 'Derzeit nur auf Koreanisch',
+    'app.moodself.warning': 'Diese App unterstützt derzeit nur Koreanisch.',
     
-    // DeepMood App Subpage
+    // MoodSelf App Subpage
     'dm.hero.subtitle': '100 % On-Device AI Seelentagebuch',
     'dm.hero.title': 'An einem Ort, an dem niemand hinsieht, liest die KI leise Ihr Herz.',
     'dm.hero.cta': 'Demnächst',
@@ -887,6 +918,11 @@ export const ui = {
     'app.freshself.status': 'Jetzt verfügbar',
     'app.freshself.supported': 'In 9 Sprachen verfügbar',
     'app.freshself.warning': 'Diese App unterstützt mehrere Sprachen.',
+    'app.storeself.title': 'StoreSelf',
+    'app.storeself.desc': 'Ermitteln Sie die optimale Lagerungsmethode und berechnen Sie die verbleibende Haltbarkeit Ihrer Lebensmittel sofort im Web.',
+    'app.storeself.meta.title': 'StoreSelf | Haltbarkeits- & Vorrats-Ratgeber Web-App',
+    'app.storeself.meta.desc': 'StoreSelf Web-App: Vermeiden Sie Lebensmittelverschwendung durch die richtige Lagerung und Haltbarkeitsberechnung.',
+    'app.storeself.status': 'Kostenlose Web-App',
     
     // FreshSelf App Subpage
     'fs.hero.subtitle': 'Intelligenter Haushaltsassistent',
@@ -1007,13 +1043,13 @@ export const ui = {
     'app.buildself.meta.title': 'BuildSelf - Rastreador de Hábitos e Rotina | SelaLink',
     'app.buildself.status': 'Disponível agora',
     'app.buildself.supported': '9 idiomas suportados',
-    'app.deepmood.title': 'DeepMood',
-    'app.deepmood.desc': 'Diário de emoções por IA.',
-    'app.deepmood.status': 'Em breve',
-    'app.deepmood.supported': 'Apenas Coreano',
-    'app.deepmood.warning': 'Este aplicativo suporta apenas coreano.',
+    'app.moodself.title': 'MoodSelf',
+    'app.moodself.desc': 'Diário de emoções por IA.',
+    'app.moodself.status': 'Em breve',
+    'app.moodself.supported': 'Apenas Coreano',
+    'app.moodself.warning': 'Este aplicativo suporta apenas coreano.',
     
-    // DeepMood App Subpage
+    // MoodSelf App Subpage
     'dm.hero.subtitle': 'Diário mental 100% On-Device por IA',
     'dm.hero.title': 'Num lugar onde ninguém olha, a IA lê silenciosamente o seu coração.',
     'dm.hero.cta': 'Em breve',
@@ -1027,6 +1063,11 @@ export const ui = {
     'app.freshself.status': 'Disponível agora',
     'app.freshself.supported': 'Suporte para 9 idiomas',
     'app.freshself.warning': 'Este aplicativo suporta vários idiomas.',
+    'app.storeself.title': 'StoreSelf',
+    'app.storeself.desc': 'Calcule instantaneamente o método ideal de conservação e os dias de frescor restantes para seus alimentos diretamente na web.',
+    'app.storeself.meta.title': 'StoreSelf | Guia de Conservação & Calculador de Frescor',
+    'app.storeself.meta.desc': 'Aplicativo Web StoreSelf: Reduza o desperdício de alimentos com guias corretos de armazenamento e cálculos de validade.',
+    'app.storeself.status': 'Web App Grátis',
     
     // FreshSelf App Subpage
     'fs.hero.subtitle': 'Assistente Doméstico Inteligente',
@@ -1147,13 +1188,13 @@ export const ui = {
     'app.buildself.meta.title': 'BuildSelf - Pelacak Kebiasaan Terbaik | SelaLink',
     'app.buildself.status': 'Tersedia Sekarang',
     'app.buildself.supported': 'Mendukung 9 Bahasa',
-    'app.deepmood.title': 'DeepMood',
-    'app.deepmood.desc': 'Jurnal emosi berbasis AI.',
-    'app.deepmood.status': 'Segera Hadir',
-    'app.deepmood.supported': 'Hanya Bahasa Korea',
-    'app.deepmood.warning': 'Aplikasi ini hanya mendukung bahasa Korea.',
+    'app.moodself.title': 'MoodSelf',
+    'app.moodself.desc': 'Jurnal emosi berbasis AI.',
+    'app.moodself.status': 'Segera Hadir',
+    'app.moodself.supported': 'Hanya Bahasa Korea',
+    'app.moodself.warning': 'Aplikasi ini hanya mendukung bahasa Korea.',
     
-    // DeepMood App Subpage
+    // MoodSelf App Subpage
     'dm.hero.subtitle': 'Jurnal Pikiran AI 100% On-Device',
     'dm.hero.title': 'Di tempat di mana tidak ada orang yang melihat, AI diam-diam membaca hati Anda.',
     'dm.hero.cta': 'Segera Hadir',
@@ -1167,6 +1208,11 @@ export const ui = {
     'app.freshself.status': 'Tersedia Sekarang',
     'app.freshself.supported': 'Mendukung 9 Bahasa',
     'app.freshself.warning': 'Aplikasi ini mendukung berbagai bahasa.',
+    'app.storeself.title': 'StoreSelf',
+    'app.storeself.desc': 'Hitung metode penyimpanan optimal dan sisa hari kesegaran bahan makanan Anda secara instan di web.',
+    'app.storeself.meta.title': 'StoreSelf | Panduan Penyimpanan & Kalkulator Kesegaran Web',
+    'app.storeself.meta.desc': 'Aplikasi Web StoreSelf: Kurangi pemborosan makanan dengan metode penyimpanan yang tepat dan kalkulator kesegaran instan.',
+    'app.storeself.status': 'Web App Gratis',
     
     // FreshSelf App Subpage
     'fs.hero.subtitle': 'Asisten Rumah Tangga Pintar',

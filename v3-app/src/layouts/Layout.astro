@@ -12,7 +12,7 @@ export interface Props {
 	ogType?: 'website' | 'software';
 	canonicalUrl?: string;
 	robots?: string;
-	appId?: 'buildself' | 'freshself' | 'deepmood' | 'studio';
+	appId?: 'buildself' | 'freshself' | 'storeself' | 'moodself' | 'studio';
 	structuredData?: Record<string, any> | Record<string, any>[];
 	keywords?: string;
 }
@@ -37,13 +37,15 @@ const themeColors = {
 	studio: '#0D9488', // Teal
 	buildself: '#0D9488',
 	freshself: '#8B5CF6',
-	deepmood: '#CA8A04'
+	storeself: '#10B981', // Pistachio Mint
+	moodself: '#CA8A04'
 };
 const themeFonts = {
 	studio: "'Space Grotesk', 'Pretendard', sans-serif",
 	buildself: "'Outfit', 'Space Grotesk', 'Pretendard', sans-serif",
 	freshself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', sans-serif",
-	deepmood: "'Bodoni Moda', 'Pretendard', serif"
+	storeself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', sans-serif",
+	moodself: "'Bodoni Moda', 'Pretendard', serif"
 };
 
 const currentAccent = themeColors[appId];
@@ -81,7 +83,7 @@ const getPathForLang = (targetLang: string) => {
 		<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0b0c10" />
 		
 		<!-- Local Search Keywords Backup -->
-		<meta name="keywords" content={keywords || "SelaLink, 셀라링크, BuildSelf, 빌드셀프, DeepMood, 딥무드, FreshSelf, 프레쉬셀프, 프레시셀프, 습관형성, 감정일기, 살림비서, 유통기한 관리, habit tracker, mood tracker, productivity"} />
+		<meta name="keywords" content={keywords || "SelaLink, 셀라링크, BuildSelf, 빌드셀프, MoodSelf, 무드셀프, FreshSelf, 프레쉬셀프, 프레시셀프, 습관형성, 감정일기, 살림비서, 유통기한 관리, habit tracker, mood tracker, productivity"} />
 		
 		<!-- Search Engine Verification -->
 		<meta name="naver-site-verification" content="1060c1abc665f9d239ecdc584674b5fbac97f34d" />
@@ -127,12 +129,13 @@ const getPathForLang = (targetLang: string) => {
 		
 		<!-- Comprehensive JSON-LD Structured Data for AI Search -->
 		{(() => {
-			const isBuildSelf = Astro.url.pathname.includes('/apps/buildself');
-			const isFreshSelf = Astro.url.pathname.includes('/apps/freshself');
-			const isDeepMood = Astro.url.pathname.includes('/apps/deepmood');
+			const isBuildSelf = Astro.url.pathname.includes('/apps/buildself') || appId === 'buildself';
+			const isFreshSelf = (Astro.url.pathname.includes('/apps/freshself') && !Astro.url.pathname.includes('/apps/storeself')) || appId === 'freshself';
+			const isStoreSelf = Astro.url.pathname.includes('/apps/storeself') || appId === 'storeself';
+			const isMoodSelf = Astro.url.pathname.includes('/apps/moodself') || appId === 'moodself';
 			
-			const appName = isBuildSelf ? "BuildSelf" : (isDeepMood ? "DeepMood" : (isFreshSelf ? "FreshSelf" : "SelaLink Studio"));
-			const appCategory = isDeepMood || isFreshSelf ? "LifestyleApplication" : "HealthApplication";
+			const appName = isBuildSelf ? "BuildSelf" : (isMoodSelf ? "MoodSelf" : (isStoreSelf ? "StoreSelf" : (isFreshSelf ? "FreshSelf" : "SelaLink Studio")));
+			const appCategory = isStoreSelf ? "LifestyleApplication" : (isMoodSelf || isFreshSelf ? "LifestyleApplication" : "HealthApplication");
 			
 			const rawUrl = canonicalUrl || Astro.url.href;
 			const formattedUrl = rawUrl.endsWith('/') ? rawUrl : rawUrl + '/';
@@ -140,7 +143,7 @@ const getPathForLang = (targetLang: string) => {
 			const sameAsLinks = [];
 			if (isBuildSelf) {
 				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.buildself");
-			} else if (isFreshSelf) {
+			} else if (isFreshSelf || isStoreSelf) {
 				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.freshself");
 			} else {
 				// 메인/기타 페이지일 때 공식 유튜브 채널 바인딩
@@ -302,8 +305,11 @@ const getPathForLang = (targetLang: string) => {
 				{appId === 'freshself' && (
 					<span class="text-purple-600 dark:text-purple-400 font-bold ml-1.5 font-jakarta text-xl tracking-normal animate-fade-in">FreshSelf</span>
 				)}
-				{appId === 'deepmood' && (
-					<span class="text-amber-600 dark:text-[#CA8A04] font-serif font-medium ml-1.5 text-xl tracking-wide animate-fade-in" style="font-family: 'Bodoni Moda', serif;">DeepMood</span>
+				{appId === 'storeself' && (
+					<span class="text-emerald-600 dark:text-emerald-400 font-bold ml-1.5 font-jakarta text-xl tracking-normal animate-fade-in">StoreSelf</span>
+				)}
+				{appId === 'moodself' && (
+					<span class="text-amber-600 dark:text-[#CA8A04] font-serif font-medium ml-1.5 text-xl tracking-wide animate-fade-in" style="font-family: 'Bodoni Moda', serif;">MoodSelf</span>
 				)}
 			</a>
 			<div class="flex items-center gap-6">
@@ -395,11 +401,13 @@ const getPathForLang = (targetLang: string) => {
             } else {
                 langBtn?.addEventListener('click', (e) => {
                     e.stopPropagation();
-                    langMenu.classList.toggle('opacity-0');
-                    langMenu.classList.toggle('invisible');
-                    langMenu.classList.toggle('scale-95');
-                    langMenu.classList.toggle('scale-100');
-                    langMenu.classList.toggle('pointer-events-none');
+                    if (langMenu) {
+                        langMenu.classList.toggle('opacity-0');
+                        langMenu.classList.toggle('invisible');
+                        langMenu.classList.toggle('scale-95');
+                        langMenu.classList.toggle('scale-100');
+                        langMenu.classList.toggle('pointer-events-none');
+                    }
                 });
             }
 

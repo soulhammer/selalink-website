@@ -7,19 +7,19 @@ export function getStaticPaths() {
 }
 
 const { lang } = Astro.params;
-// Force DeepMood to always render Korean strings regardless of URL path
+// Force MoodSelf to always render Korean strings regardless of URL path
 const contentLang = 'ko';
 const t = useTranslations(contentLang);
 ---
 
 <Layout
-  title={`${t("app.deepmood.title")} | SelaLink Studio`}
+  title={`${t("app.moodself.title")} | SelaLink Studio`}
   lang={lang as string}
-  description={t('app.deepmood.desc')}
+  description={t('app.moodself.desc')}
   ogType="software"
-  canonicalUrl={`https://selalink.net/${lang}/apps/deepmood/`}
-  image="/assets/images/og/deepmood.png"
-  appId="deepmood"
+  canonicalUrl={`https://selalink.net/${lang}/apps/moodself/`}
+  image="/assets/images/og/moodself.png"
+  appId="moodself"
 >
   <main class="w-full bg-stone-50 dark:bg-[#1C1917] min-h-screen font-sans text-stone-900 dark:text-[#FAFAF9] overflow-hidden transition-colors duration-500">
     <!-- Fluid Gradient Ambient Background -->
@@ -32,7 +32,7 @@ const t = useTranslations(contentLang);
     <!-- Navigation / Header Breadcrumb -->
     <div class="relative z-10 w-full max-w-7xl mx-auto px-6 pt-32 pb-8 flex flex-col md:flex-row items-start md:items-center justify-between">
       <a href={`/${lang}/`} class="group inline-flex items-center space-x-2 text-amber-700 dark:text-[#CA8A04] hover:text-amber-900 dark:hover:text-yellow-400 transition-colors duration-300">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="transition-transform group-hover:-translate-x-1">
           <path d="m15 18-6-6 6-6"/>
         </svg>
         <span class="text-sm font-medium tracking-wide">Back to SelaLink Studio</span>
@@ -41,7 +41,7 @@ const t = useTranslations(contentLang);
       {lang !== 'ko' && (
         <div class="mt-4 md:mt-0 flex items-center space-x-2 px-4 py-2 rounded-full border border-red-500/30 dark:border-red-500/20 bg-red-50 dark:bg-red-500/10 text-red-600 dark:text-red-400 text-xs tracking-wider backdrop-blur-md">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg>
-          <span>{t("app.deepmood.warning")}</span>
+          <span>{t("app.moodself.warning")}</span>
         </div>
       )}
     </div>
@@ -60,7 +60,7 @@ const t = useTranslations(contentLang);
         </h1>
         
         <p class="text-base md:text-xl text-stone-600 dark:text-[#FAFAF9]/60 max-w-lg font-light leading-relaxed transition-colors duration-500">
-          {t('app.deepmood.desc')}
+          {t('app.moodself.desc')}
         </p>
 
         <button class="group mt-4 relative inline-flex h-14 items-center justify-center overflow-hidden rounded-full bg-[#CA8A04] px-8 font-medium text-white dark:text-[#1C1917] transition-all hover:bg-amber-500 dark:hover:bg-yellow-400 hover:scale-105 active:scale-95 shadow-lg shadow-amber-900/20 dark:shadow-none">
@@ -103,7 +103,7 @@ const t = useTranslations(contentLang);
              <!-- Semantic Output -->
              <div class="flex self-start w-4/5 mt-auto">
                <div class="p-4 rounded-2xl rounded-tl-sm bg-white dark:bg-[#44403C]/40 border border-stone-100 dark:border-[#44403C]/60 backdrop-blur-md text-sm text-stone-800 dark:text-[#FAFAF9] font-light shadow-md dark:shadow-lg transition-colors duration-300">
-                  <span class="font-bold text-amber-600 dark:text-[#CA8A04] block mb-1">AI Daily Deepmood</span>
+                  <span class="font-bold text-amber-600 dark:text-[#CA8A04] block mb-1">AI Daily MoodSelf</span>
                   You seem to be experiencing Melancholy. I've safely encrypted this memory vector.
                </div>
              </div>
@@ -151,47 +151,47 @@ const t = useTranslations(contentLang);
     </section>
 
   </main>
-
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500;600;700&display=swap');
-    
-    /* DeepMood Soft Spatial Cards (Border-free glass) */
-    .soft-spatial-card {
-      border: none !important;
-      background: rgba(255, 255, 255, 0.4) !important;
-      backdrop-filter: blur(40px) !important;
-      -webkit-backdrop-filter: blur(40px) !important;
-      box-shadow: 0 30px 70px -10px rgba(202, 138, 4, 0.08), 0 15px 30px -15px rgba(0, 0, 0, 0.05) !important;
-      transition: all 0.7s cubic-bezier(0.16, 1, 0.3, 1);
-    }
-    html.dark .soft-spatial-card {
-      background: rgba(28, 25, 23, 0.3) !important;
-      box-shadow: 0 40px 90px -15px rgba(0, 0, 0, 0.5), 0 0 50px -10px rgba(202, 138, 4, 0.05) !important;
-    }
-    .soft-spatial-card:hover {
-      transform: translateY(-6px) scale(1.01);
-      background: rgba(255, 255, 255, 0.5) !important;
-      box-shadow: 0 45px 100px -10px rgba(202, 138, 4, 0.12), 0 20px 40px -20px rgba(0, 0, 0, 0.08) !important;
-    }
-    html.dark .soft-spatial-card:hover {
-      background: rgba(44, 40, 60, 0.15) !important;
-      box-shadow: 0 55px 120px -10px rgba(0, 0, 0, 0.7), 0 0 60px -5px rgba(202, 138, 4, 0.1) !important;
-    }
-
-    @keyframes blob {
-      0% { transform: translate(0px, 0px) scale(1); filter: blur(120px); }
-      33% { transform: translate(45px, -70px) scale(1.2); filter: blur(140px); }
-      66% { transform: translate(-30px, 35px) scale(0.85); filter: blur(100px); }
-      100% { transform: translate(0px, 0px) scale(1); filter: blur(120px); }
-    }
-    .animate-blob {
-      animation: blob 20s infinite alternate ease-in-out;
-    }
-    .animation-delay-2000 {
-      animation-delay: 3s;
-    }
-    .animation-delay-4000 {
-      animation-delay: 6s;
-    }
-  </style>
 </Layout>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500;600;700&display=swap');
+  
+  /* MoodSelf Soft Spatial Cards (Border-free glass) */
+  .soft-spatial-card {
+    border: none !important;
+    background: rgba(255, 255, 255, 0.4) !important;
+    backdrop-filter: blur(40px) !important;
+    -webkit-backdrop-filter: blur(40px) !important;
+    box-shadow: 0 30px 70px -10px rgba(202, 138, 4, 0.08), 0 15px 30px -15px rgba(0, 0, 0, 0.05) !important;
+    transition: all 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  html.dark .soft-spatial-card {
+    background: rgba(28, 25, 23, 0.3) !important;
+    box-shadow: 0 40px 90px -15px rgba(0, 0, 0, 0.5), 0 0 50px -10px rgba(202, 138, 4, 0.05) !important;
+  }
+  .soft-spatial-card:hover {
+    transform: translateY(-6px) scale(1.01);
+    background: rgba(255, 255, 255, 0.5) !important;
+    box-shadow: 0 45px 100px -10px rgba(202, 138, 4, 0.12), 0 20px 40px -20px rgba(0, 0, 0, 0.08) !important;
+  }
+  html.dark .soft-spatial-card:hover {
+    background: rgba(44, 40, 60, 0.15) !important;
+    box-shadow: 0 55px 120px -10px rgba(0, 0, 0, 0.7), 0 0 60px -5px rgba(202, 138, 4, 0.1) !important;
+  }
+
+  @keyframes blob {
+    0% { transform: translate(0px, 0px) scale(1); filter: blur(120px); }
+    33% { transform: translate(45px, -70px) scale(1.2); filter: blur(140px); }
+    66% { transform: translate(-30px, 35px) scale(0.85); filter: blur(100px); }
+    100% { transform: translate(0px, 0px) scale(1); filter: blur(120px); }
+  }
+  .animate-blob {
+    animation: blob 20s infinite alternate ease-in-out;
+  }
+  .animation-delay-2000 {
+    animation-delay: 3s;
+  }
+  .animation-delay-4000 {
+    animation-delay: 6s;
+  }
+</style>

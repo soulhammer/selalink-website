@@ -1,0 +1,11 @@
+---
+import { languages } from '../../../../i18n/ui';
+
+export function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({
+    params: { lang, redirect: undefined }
+  }));
+}
+
+return Astro.redirect(`/${Astro.params.lang || 'en'}/apps/moodself/`, 301);
+---

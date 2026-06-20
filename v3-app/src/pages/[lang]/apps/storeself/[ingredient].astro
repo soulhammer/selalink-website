@@ -1,7 +1,7 @@
 ---
-import Layout from '../../../../../layouts/Layout.astro';
-import { languages } from '../../../../../i18n/ui';
-import { ingredients } from '../../../../../data/ingredients';
+import Layout from '../../../../layouts/Layout.astro';
+import { languages } from '../../../../i18n/ui';
+import { ingredients } from '../../../../data/ingredients';
 
 export function getStaticPaths() {
   const paths = [];
@@ -21,7 +21,7 @@ const currentLang = (lang as string) || 'en';
 const currentItem = ingredients.find((item) => item.id === ingredient);
 
 if (!currentItem) {
-  return Astro.redirect(`/${currentLang}/apps/freshself/ingredients/`);
+  return Astro.redirect(`/${currentLang}/apps/storeself/`);
 }
 
 const localName = currentItem.names[currentLang] || currentItem.names['en'];
@@ -35,7 +35,7 @@ const localTranslations: Record<string, Record<string, string>> = {
     'detail.storage.freezer': '냉동 보관',
     'detail.recommend.days': '권장 보관 기간',
     'detail.guide.title': '핵심 보관 가이드',
-    'detail.calc.title': '📅 보관 만료일 계산기',
+    'detail.calc.title': '📅 StoreSelf 보관 만료일 계산기',
     'detail.calc.buy_date': '식재료 구매 날짜',
     'detail.calc.eat_until': '이 식재료의 권장 섭취 기한은 {date} 까지입니다.',
     'detail.calc.dday': '신선하게 먹을 수 있는 시간이 {dday} 남았습니다.',
@@ -49,11 +49,11 @@ const localTranslations: Record<string, Record<string, string>> = {
     'detail.back': '← 다른 식재료 보관법 검색하기',
     'detail.days': '일',
     'detail.days.plural': '일',
-    'detail.not_recommended': '해당 방식의 보관은 권장되지 않습니다.',
+    'detail.not_recommended': '해당 방식의 보관 is 권장되지 않습니다.',
     'detail.tips.recommended': '권장 보관법',
     'detail.recommended.badge': '추천 보관법',
     'detail.disclaimer': '* 본 보관 가이드는 공인된 식품 안전 지침을 참조하여 제공하는 일반 정보로, 보관 환경이나 식재료의 초기 상태에 따라 실제 신선 기한은 달라질 수 있습니다. 최종 섭취 여부는 식재료 상태를 직접 확인 후 판단해 주세요.',
-    'detail.nudge.fresh': '{name}이 냉장고에서 상하기 전에 드시려면? FreshSelf 앱에서 원터치로 등록하고 만료일 알림을 받아보세요!',
+    'detail.nudge.fresh': 'StoreSelf에서 계산한 기한대로 {name}을 신선하게 관리해 보세요! FreshSelf 앱에서 원터치로 등록하고 만료 3일 전 알림을 무료로 받아보실 수 있습니다.',
     'detail.nudge.processed': '{name} 유통기한을 매번 직접 치기 번거로우시죠? FreshSelf 앱에서 카메라/바코드로 1초 만에 스마트 등록해 보세요!',
     'detail.nudge.cta': '무료 다운로드',
     'detail.toast.title': 'iOS 앱스토어 준비 중',
@@ -454,7 +454,7 @@ const dynamicDescription = (descTemplates[currentLang] || descTemplates['en'])
   .replace('{details}', detailsText);
 
 // 9개 언어 대응 동적 키워드 생성
-const dynamicKeywords = `${localName}, ${localName} 보관법, ${localName} 보관 기간, ${localName} 소비기한, ${currentItem.id.replace(/-/g, ' ')}, ${currentItem.searchKeywords?.join(', ') || ''}, FreshSelf, SelaLink`;
+const dynamicKeywords = `${localName}, ${localName} 보관법, ${localName} 보관 기간, ${localName} 소비기한, ${currentItem.id.replace(/-/g, ' ')}, ${currentItem.searchKeywords?.join(', ') || ''}, StoreSelf, FreshSelf, SelaLink`;
 
 // 동적 HowTo 스키마(JSON-LD) 생성
 const isKo = currentLang === 'ko';
@@ -490,30 +490,73 @@ const ingredientHowToSchema = {
   "image": `https://selalink.net${currentItem.iconImage || "/assets/images/og/freshself.png"}`,
   "step": steps
 };
+
+// 동적 FAQ 스키마 생성 (Semantic SEO 극대화)
+const faqEntities: any[] = [];
+['fridge', 'room', 'freezer'].forEach((m) => {
+  const guide = currentItem.storage[m as keyof typeof currentItem.storage];
+  if (guide && guide.durationDays > 0) {
+    const methodLabel = localTranslations[currentLang]?.[`detail.storage.${m}`] || localTranslations['en']?.[`detail.storage.${m}`] || m;
+    const qText = isKo 
+      ? `${localName} ${methodLabel} 기간과 보관 방법은 어떻게 되나요?`
+      : `How long can you store ${localName} in the ${m} and how to do it?`;
+    const aText = `${localName}의 권장 ${methodLabel} 기간은 ${guide.durationDays}일입니다. 보관 팁: ${guide.tips[currentLang] || guide.tips['en']}`;
+    faqEntities.push({
+      "@type": "Question",
+      "name": qText,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": aText
+      }
+    });
+  }
+});
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqEntities
+};
+
+const combinedSchemas = [ingredientHowToSchema, faqSchema];
+
+// 다국어 페이지 타이틀 템플릿
+const detailTitleTemplate: Record<string, string> = {
+  ko: `${localName} - 보관법 & 소비기한 계산기 (StoreSelf) | FreshSelf`,
+  en: `${localName} - Storage Guide & Expiration Calculator (StoreSelf) | FreshSelf`,
+  ja: `${localName} - 保存方法＆期限チェッカー (StoreSelf) | FreshSelf`,
+  zh: `${localName} - 保存方式与保质期查询 (StoreSelf) | FreshSelf`,
+  es: `${localName} - Guía de Conservación & Caducidad (StoreSelf) | FreshSelf`,
+  fr: `${localName} - Guide de Conservation & D-Day (StoreSelf) | FreshSelf`,
+  de: `${localName} - Haltbarkeits- & Vorrats-Ratgeber (StoreSelf) | FreshSelf`,
+  pt: `${localName} - Guia de Conservação & Validade (StoreSelf) | FreshSelf`,
+  id: `${localName} - Panduan Penyimpanan & Kalkulator Kesegaran (StoreSelf) | FreshSelf`
+};
+const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
 ---
 
 <Layout 
-  title={`${localName} - ${t('detail.storage.type')} & ${t('detail.recommend.days')} | FreshSelf`} 
+  title={pageTitle} 
   lang={currentLang}
   description={dynamicDescription}
   keywords={dynamicKeywords}
-  canonicalUrl={`https://selalink.net/${currentLang}/apps/freshself/ingredients/${currentItem.id}/`}
+  canonicalUrl={`https://selalink.net/${currentLang}/apps/storeself/${currentItem.id}/`}
   ogType="website"
   image="/assets/images/og/freshself.png"
-  appId="freshself"
-  structuredData={ingredientHowToSchema}
+  appId="storeself"
+  structuredData={combinedSchemas}
 >
   <main class="max-w-[900px] mx-auto px-6 py-12 md:py-20">
     <!-- Back button -->
     <a 
-      href={`/${currentLang}/apps/freshself/ingredients/`} 
-      class="inline-flex items-center gap-2 text-sm font-semibold text-slate-500 hover:text-purple-600 dark:text-slate-400 dark:hover:text-purple-400 mb-8 transition-colors duration-300"
+      href={`/${currentLang}/apps/storeself/`} 
+      class="inline-flex items-center gap-2 text-sm font-semibold text-slate-500 hover:text-emerald-600 dark:text-slate-400 dark:hover:text-emerald-400 mb-8 transition-colors duration-300"
     >
       {t('detail.back')}
     </a>
 
     <!-- Bento Header: Ingredient Name -->
-    <div class="bento-card p-8 mb-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6" style="--glow-color: rgba(139,92,246,0.15);">
+    <div class="bento-card p-8 mb-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6" style="--glow-color: rgba(16,185,129,0.15);">
       <div class="flex items-center gap-5">
         {currentItem.iconImage ? (
           <img 
@@ -540,7 +583,7 @@ const ingredientHowToSchema = {
         href={`https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${currentLang}`}
         target="_blank"
         rel="noopener noreferrer"
-        class="flex items-center gap-2.5 bg-purple-600/10 hover:bg-purple-600/20 text-purple-600 dark:text-purple-400 px-4 py-2.5 rounded-2xl font-bold text-sm transition-all duration-300"
+        class="flex items-center gap-2.5 bg-emerald-600/10 hover:bg-emerald-600/20 text-emerald-600 dark:text-emerald-400 px-4 py-2.5 rounded-2xl font-bold text-sm transition-all duration-300"
       >
         <span>App Download</span> 📲
       </a>
@@ -549,7 +592,7 @@ const ingredientHowToSchema = {
     <!-- Storage Method Selection & Duration Gauge Bento Card -->
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
       <!-- 1. Selection Tab (Vertical styled) -->
-      <div class="bento-card p-5 md:col-span-1 flex flex-col gap-2.5" style="--glow-color: rgba(139,92,246,0.12);">
+      <div class="bento-card p-5 md:col-span-1 flex flex-col gap-2.5" style="--glow-color: rgba(16,185,129,0.12);">
         <span class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">{t('detail.storage.type')}</span>
         
         {['room', 'fridge', 'freezer'].map((method) => {
@@ -565,8 +608,8 @@ const ingredientHowToSchema = {
                 !hasMethod 
                   ? 'opacity-40 cursor-not-allowed border-transparent bg-slate-50/50 dark:bg-slate-900/30 text-slate-400' 
                   : isRecommended
-                    ? 'active-tab bg-purple-600 text-white border-purple-600 shadow-md shadow-purple-600/15'
-                    : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-purple-500/50 cursor-pointer'
+                    ? 'active-tab bg-emerald-600 text-white border-emerald-600 shadow-md shadow-emerald-600/15'
+                    : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-emerald-500/50 cursor-pointer'
               }`}
             >
               <span>{t(`detail.storage.${method}`)}</span>
@@ -581,11 +624,11 @@ const ingredientHowToSchema = {
       </div>
 
       <!-- 2. Gauge Bar Display & Expiration days -->
-      <div class="bento-card p-6 md:col-span-2 flex flex-col justify-between" style="--glow-color: rgba(139,92,246,0.12);">
+      <div class="bento-card p-6 md:col-span-2 flex flex-col justify-between" style="--glow-color: rgba(16,185,129,0.12);">
         <div>
           <span class="text-xs font-bold text-slate-400 uppercase tracking-wider block mb-2">{t('detail.recommend.days')}</span>
           <div class="flex items-baseline gap-2">
-            <span id="daysCount" class="text-5xl font-black text-purple-600 dark:text-purple-400 font-outfit">{initialDays}</span>
+            <span id="daysCount" class="text-5xl font-black text-emerald-600 dark:text-emerald-400 font-outfit">{initialDays}</span>
             <span id="daysUnit" class="text-lg font-bold text-slate-500 dark:text-slate-400">
               {initialDays === 1 ? t('detail.days') : t('detail.days.plural')}
             </span>
@@ -597,7 +640,7 @@ const ingredientHowToSchema = {
           <div class="h-3 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
             <div 
               id="gaugeFill" 
-              class="h-full bg-gradient-to-r from-purple-500 to-indigo-500 rounded-full transition-all duration-700 ease-out"
+              class="h-full bg-gradient-to-r from-emerald-500 to-teal-500 rounded-full transition-all duration-700 ease-out"
               style={`width: ${Math.min(100, (initialDays / 45) * 100)}%`}
             ></div>
           </div>
@@ -612,14 +655,14 @@ const ingredientHowToSchema = {
     </div>
 
     <!-- Storage Tips Guide Bento Card -->
-    <div class="bento-card p-6 md:p-8 mb-8" style="--glow-color: rgba(139,92,246,0.15);">
+    <div class="bento-card p-6 md:p-8 mb-8" style="--glow-color: rgba(16,185,129,0.15);">
       <h2 class="text-xl font-bold text-slate-800 dark:text-slate-100 mb-6 flex items-center gap-2">
         💡 {t('detail.guide.title')}
       </h2>
       <div id="tipsContainer" class="text-base leading-relaxed text-slate-600 dark:text-slate-300 space-y-4">
         {/* Initial Tip load in SSR */}
         {initialGuide && (
-          <div class="p-5 rounded-2xl bg-purple-50/50 dark:bg-purple-950/10 border border-purple-500/10 transition-opacity duration-300">
+          <div class="p-5 rounded-2xl bg-emerald-50/50 dark:bg-emerald-950/10 border border-emerald-500/10 transition-opacity duration-300">
             <p class="font-medium text-slate-700 dark:text-slate-200">
               {initialGuide.tips[currentLang] || initialGuide.tips['en']}
             </p>
@@ -643,7 +686,7 @@ const ingredientHowToSchema = {
     </div>
 
     <!-- D-Day Interactive Calculator Bento Card -->
-    <div class="bento-card p-6 md:p-8 mb-8 relative z-20 !overflow-visible" style="--glow-color: rgba(139,92,246,0.15);">
+    <div class="bento-card p-6 md:p-8 mb-8 relative z-20 !overflow-visible" style="--glow-color: rgba(16,185,129,0.15);">
       <h2 class="text-xl font-bold text-slate-800 dark:text-slate-100 mb-6">
         {t('detail.calc.title')}
       </h2>
@@ -660,7 +703,7 @@ const ingredientHowToSchema = {
           <button 
             type="button"
             id="buyDateTrigger" 
-            class="w-full px-4 py-3 rounded-xl bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-slate-800 dark:text-slate-100 font-bold flex items-center justify-between hover:border-purple-500/50 transition-all cursor-pointer select-none active:scale-[0.99]"
+            class="w-full px-4 py-3 rounded-xl bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-slate-800 dark:text-slate-100 font-bold flex items-center justify-between hover:border-emerald-500/50 transition-all cursor-pointer select-none active:scale-[0.99]"
           >
             <span id="buyDateFormatted" class="font-outfit font-bold">2026-06-20</span>
             <span class="text-slate-400 shrink-0 text-base">📅</span>
@@ -668,13 +711,13 @@ const ingredientHowToSchema = {
 
           <!-- Quick Preset Chips -->
           <div class="flex items-center gap-1.5 mt-1.5 flex-wrap">
-            <button type="button" data-preset="0" class="preset-chip px-2.5 py-1 text-[11px] font-bold rounded-lg border border-slate-200 dark:border-slate-800/80 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 hover:border-purple-500/50 hover:text-purple-600 dark:hover:text-purple-400 active:scale-95 transition-all cursor-pointer select-none">
+            <button type="button" data-preset="0" class="preset-chip px-2.5 py-1 text-[11px] font-bold rounded-lg border border-slate-200 dark:border-slate-800/80 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 hover:border-emerald-500/50 hover:text-emerald-600 dark:hover:text-emerald-400 active:scale-95 transition-all cursor-pointer select-none">
               {t('detail.calc.preset.today')}
             </button>
-            <button type="button" data-preset="1" class="preset-chip px-2.5 py-1 text-[11px] font-bold rounded-lg border border-slate-200 dark:border-slate-800/80 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 hover:border-purple-500/50 hover:text-purple-600 dark:hover:text-purple-400 active:scale-95 transition-all cursor-pointer select-none">
+            <button type="button" data-preset="1" class="preset-chip px-2.5 py-1 text-[11px] font-bold rounded-lg border border-slate-200 dark:border-slate-800/80 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 hover:border-emerald-500/50 hover:text-emerald-600 dark:hover:text-emerald-400 active:scale-95 transition-all cursor-pointer select-none">
               {t('detail.calc.preset.yesterday')}
             </button>
-            <button type="button" data-preset="3" class="preset-chip px-2.5 py-1 text-[11px] font-bold rounded-lg border border-slate-200 dark:border-slate-800/80 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 hover:border-purple-500/50 hover:text-purple-600 dark:hover:text-purple-400 active:scale-95 transition-all cursor-pointer select-none">
+            <button type="button" data-preset="3" class="preset-chip px-2.5 py-1 text-[11px] font-bold rounded-lg border border-slate-200 dark:border-slate-800/80 bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 hover:border-emerald-500/50 hover:text-emerald-600 dark:hover:text-emerald-400 active:scale-95 transition-all cursor-pointer select-none">
               {t('detail.calc.preset.3days')}
             </button>
           </div>
@@ -896,9 +939,9 @@ const ingredientHowToSchema = {
         if (isFuture) {
           cell.className += 'text-slate-300 dark:text-slate-700 opacity-20 pointer-events-none cursor-not-allowed';
         } else if (isSelected) {
-          cell.className += 'bg-purple-600 text-white shadow-md shadow-purple-600/25 hover:bg-purple-500 scale-[1.05]';
+          cell.className += 'bg-emerald-600 text-white shadow-md shadow-emerald-600/25 hover:bg-emerald-500 scale-[1.05]';
         } else if (isToday) {
-          cell.className += 'border border-purple-500 text-purple-600 dark:text-purple-400 hover:bg-slate-100 dark:hover:bg-slate-800';
+          cell.className += 'border border-emerald-500 text-emerald-600 dark:text-emerald-400 hover:bg-slate-100 dark:hover:bg-slate-800';
         } else {
           cell.className += 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800';
         }
@@ -1096,10 +1139,10 @@ const ingredientHowToSchema = {
       // Update Active Tab styles
       tabs.forEach((tab) => {
         if (tab.getAttribute('data-method') === method) {
-          tab.classList.add('active-tab', 'bg-purple-600', 'text-white', 'border-purple-600', 'shadow-md', 'shadow-purple-600/15');
+          tab.classList.add('active-tab', 'bg-emerald-600', 'text-white', 'border-emerald-600', 'shadow-md', 'shadow-emerald-600/15');
           tab.classList.remove('bg-white', 'dark:bg-slate-900', 'border-slate-200', 'dark:border-slate-800', 'text-slate-700', 'dark:text-slate-300');
         } else {
-          tab.classList.remove('active-tab', 'bg-purple-600', 'text-white', 'border-purple-600', 'shadow-md', 'shadow-purple-600/15');
+          tab.classList.remove('active-tab', 'bg-emerald-600', 'text-white', 'border-emerald-600', 'shadow-md', 'shadow-emerald-600/15');
           const isDisabled = tab.hasAttribute('disabled');
           if (!isDisabled) {
             tab.classList.add('bg-white', 'dark:bg-slate-900', 'border-slate-200', 'dark:border-slate-800', 'text-slate-700', 'dark:text-slate-300');
@@ -1120,7 +1163,7 @@ const ingredientHowToSchema = {
       if (tipsContainer && guide) {
         const tipText = guide.tips[currentLang] || guide.tips['en'];
         tipsContainer.innerHTML = `
-          <div class="p-5 rounded-2xl bg-purple-50/50 dark:bg-purple-950/10 border border-purple-500/10 opacity-0 transition-opacity duration-300" id="tipTextWrapper">
+          <div class="p-5 rounded-2xl bg-emerald-50/50 dark:bg-emerald-950/10 border border-emerald-500/10 opacity-0 transition-opacity duration-300" id="tipTextWrapper">
             <p class="font-medium text-slate-700 dark:text-slate-200">${tipText}</p>
           </div>
         `;

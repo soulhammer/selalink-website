@@ -1,7 +1,7 @@
 ---
-import Layout from '../../../../../layouts/Layout.astro';
-import { languages } from '../../../../../i18n/ui';
-import { ingredients } from '../../../../../data/ingredients';
+import Layout from '../../../../layouts/Layout.astro';
+import { languages } from '../../../../i18n/ui';
+import { ingredients } from '../../../../data/ingredients';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({
@@ -15,8 +15,8 @@ const currentLang = (lang as string) || 'en';
 // 로컬 번역 딕셔너리
 const localTranslations: Record<string, Record<string, string>> = {
   ko: {
-    'util.title': '식재료 보관법 & 권장 기한 검색기',
-    'util.subtitle': '올바른 보관법으로 음식물 쓰레기를 줄이고, 스마트하게 식재료를 관리해보세요.',
+    'util.title': 'StoreSelf - 식재료 보관법 & 소비기한 계산기',
+    'util.subtitle': '올바른 보관법으로 음식물 쓰레기를 줄이고, 남은 신선 기한(D-Day)을 즉석에서 계산해 보세요.',
     'util.search.placeholder': '식재료 이름을 검색해보세요 (예: 대파, 양파, 우유)',
     'util.category.all': '전체',
     'util.category.vegetable': '🥬 채소',
@@ -37,8 +37,8 @@ const localTranslations: Record<string, Record<string, string>> = {
     'util.disclaimer': '* 본 보관 가이드는 공인된 식품 안전 지침을 참조하여 제공하는 일반 정보로, 보관 환경이나 식재료의 초기 상태에 따라 실제 신선 기한은 달라질 수 있습니다. 최종 섭취 여부는 식재료 상태를 직접 확인 후 판단해 주세요.'
   },
   en: {
-    'util.title': 'Food Storage & Expiration Guide',
-    'util.subtitle': 'Reduce food waste with correct storage methods and manage your ingredients smartly.',
+    'util.title': 'StoreSelf - Food Storage & Expiration Guide',
+    'util.subtitle': 'Reduce food waste with correct storage methods and calculate fresh D-Day instantly.',
     'util.search.placeholder': 'Search ingredients (e.g., Green onion, Onion, Milk)',
     'util.category.all': 'All',
     'util.category.vegetable': '🥬 Vegetable',
@@ -59,8 +59,8 @@ const localTranslations: Record<string, Record<string, string>> = {
     'util.disclaimer': '* This storage guide provides general informational references based on verified safety standards. Freshness periods may vary depending on storage conditions and initial food status. Always inspect the quality of food before consumption.'
   },
   ja: {
-    'util.title': '食材保存法＆期限チェッカー',
-    'util.subtitle': '正しい保存方法で食品ロスを減らし、スマートに食材を管理しましょう。',
+    'util.title': 'StoreSelf - 食材保存法＆期限チェッカー',
+    'util.subtitle': '正しい保存方法で食品ロスを減らし、新鮮期限(D-Day)を即座に計算しましょう。',
     'util.search.placeholder': '食材を検索する (例：ネギ、玉ねぎ、牛乳)',
     'util.category.all': 'すべて',
     'util.category.vegetable': '🥬 野菜',
@@ -81,8 +81,8 @@ const localTranslations: Record<string, Record<string, string>> = {
     'util.disclaimer': '* 本保存ガイドは公認の食品安全指針を参照して提供される一般的な情報であり、保存環境や食材の初期状態によって新鮮期限は異なる場合があります。最終的な摂取の有無は、食材の状態を直接確認した上でご判断ください。'
   },
   zh: {
-    'util.title': '食材保存与保质期查询助手',
-    'util.subtitle': '掌握正确的保存方法以减少食品浪费，更智能地管理您的厨房食材。',
+    'util.title': 'StoreSelf - 食材保存与保质期查询助手',
+    'util.subtitle': '掌握正确的保存方法以减少食品浪费，即时计算您的食材最佳保质期(D-Day)。',
     'util.search.placeholder': '搜索食材（例如：大葱、洋葱、牛奶）',
     'util.category.all': '全部',
     'util.category.vegetable': '🥬 蔬菜',
@@ -103,8 +103,8 @@ const localTranslations: Record<string, Record<string, string>> = {
     'util.disclaimer': '* 本保存指南是参考权威食品安全指南提供的通用信息，新鲜度期限可能因保存环境或食材的初始状态而异。请在食用前务必亲自检查食材状态。'
   },
   es: {
-    'util.title': 'Guía de Conservación de Alimentos',
-    'util.subtitle': 'Reduzca el desperdicio con métodos de conservación correctos y administre sus ingredientes con inteligencia.',
+    'util.title': 'StoreSelf - Guía de Conservación & Calculador de Caducidad',
+    'util.subtitle': 'Reduzca el desperdicio con métodos de conservación correctos y calcule la caducidad al instante.',
     'util.search.placeholder': 'Buscar ingredientes (ej. Cebollín, Cebolla, Leche)',
     'util.category.all': 'Todo',
     'util.category.vegetable': '🥬 Verdura',
@@ -125,8 +125,8 @@ const localTranslations: Record<string, Record<string, string>> = {
     'util.disclaimer': '* Esta guía es una referencia de información general basada en estándares de seguridad verificados. Los períodos de frescura pueden variar según las condiciones de almacenamiento. Siempre inspeccione la comida antes de consumirla.'
   },
   fr: {
-    'util.title': 'Guide de Conservation des Aliments',
-    'util.subtitle': 'Réduisez le gaspillage grâce aux méthodes de conservation adaptées et gérez vos stocks.',
+    'util.title': 'StoreSelf - Guide de Conservation & Calculateur de D-Day',
+    'util.subtitle': 'Réduisez le gaspillage grâce aux méthodes de conservation adaptées et calculez la fraîcheur en direct.',
     'util.search.placeholder': 'Rechercher un aliment (ex: Oignon vert, Oignon, Lait)',
     'util.category.all': 'Tout',
     'util.category.vegetable': '🥬 Légume',
@@ -147,8 +147,8 @@ const localTranslations: Record<string, Record<string, string>> = {
     'util.disclaimer': '* Ce guide de conservation fournit des informations générales basées sur des normes de sécurité. La durée de fraîcheur peut varier selon les conditions de stockage. Veuillez toujours inspecter l\'état des aliments avant consommation.'
   },
   de: {
-    'util.title': 'Haltbarkeits- & Vorrats-Ratgeber',
-    'util.subtitle': 'Vermeiden Sie Lebensmittelverschwendung durch die richtige Lagerung Ihrer Lebensmittel.',
+    'util.title': 'StoreSelf - Haltbarkeits- & Vorrats-Ratgeber',
+    'util.subtitle': 'Lagerungsmethoden ermitteln und verbleibende Haltbarkeit von Lebensmitteln sofort im Web berechnen.',
     'util.search.placeholder': 'Lebensmittel suchen (z. B. Lauch, Zwiebel, Milch)',
     'util.category.all': 'Alle',
     'util.category.vegetable': '🥬 Gemüse',
@@ -169,8 +169,8 @@ const localTranslations: Record<string, Record<string, string>> = {
     'util.disclaimer': '* Dieser Lagerungsratgeber dient als allgemeine Information auf Basis geprüfter Sicherheitsstandards. Die Haltbarkeit kann je nach Lagerbedingungen variieren. Prüfen Sie Lebensmittel vor dem Verzehr stets selbst.'
   },
   pt: {
-    'util.title': 'Guia de Conservação de Alimentos',
-    'util.subtitle': 'Reduza o desperdício com métodos corretos de armazenamento e gerencie sua despensa com inteligência.',
+    'util.title': 'StoreSelf - Guia de Conservação & Calculador de Frescor',
+    'util.subtitle': 'Reduzca o desperdício com métodos corretos de armazenamento e calculador de validade instantâneo.',
     'util.search.placeholder': 'Buscar ingredientes (ex: Cebolinha, Cebola, Leite)',
     'util.category.all': 'Tudo',
     'util.category.vegetable': '🥬 Vegetal',
@@ -180,7 +180,7 @@ const localTranslations: Record<string, Record<string, string>> = {
     'util.category.seafood': '🐟 Peixes/Frutos',
     'util.category.grain': '🍞 Grãos/Padaria',
     'util.category.condiment': '🥫 Condimento/Enlatados',
-    'util.category.etc': '🍱 Outros',
+    'util.category.etc': 'Outros',
     'util.card.view': 'Ver Guia →',
     'util.card.room': 'Ambiente',
     'util.card.fridge': 'Refrig',
@@ -191,8 +191,8 @@ const localTranslations: Record<string, Record<string, string>> = {
     'util.disclaimer': '* Este guia de armazenamento fornece referências gerais baseadas em padrões de segurança. Os períodos de validade podem variar conforme as condições de armazenamento. Inspecione sempre o alimento antes de consumir.'
   },
   id: {
-    'util.title': 'Panduan Penyimpanan Bahan Makanan',
-    'util.subtitle': 'Kurangi pemborosan makanan dengan metode penyimpanan yang tepat dan kelola bahan masakan Anda.',
+    'util.title': 'StoreSelf - Panduan Penyimpanan & Kalkulator Kesegaran',
+    'util.subtitle': 'Kurangi pemborosan makanan dengan metode penyimpanan yang tepat dan hitung sisa hari kesegaran secara instan.',
     'util.search.placeholder': 'Cari bahan makanan (misal: Daun bawang, Bawang bombay, Susu)',
     'util.category.all': 'Semua',
     'util.category.vegetable': '🥬 Sayuran',
@@ -301,18 +301,28 @@ const categoryCounts = categories.reduce((acc, cat) => {
 ---
 
 <Layout 
-  title={`${t('util.title')} | FreshSelf`} 
+  title={t('util.title')} 
   lang={currentLang}
   description={t('util.subtitle')}
-  canonicalUrl={`https://selalink.net/${currentLang}/apps/freshself/ingredients/`}
+  canonicalUrl={`https://selalink.net/${currentLang}/apps/storeself/`}
   ogType="website"
   image="/assets/images/og/freshself.png"
-  appId="freshself"
+  appId="storeself"
 >
-  <main class="max-w-[1200px] mx-auto px-6 py-12 md:py-24">
+  <main class="max-w-[1200px] mx-auto px-6 pt-32 pb-12 md:pt-40 md:pb-24">
+    <!-- Navigation / Header Breadcrumb -->
+    <div class="mb-8 flex flex-col md:flex-row items-start md:items-center justify-between">
+      <a href={`/${currentLang}/`} class="group inline-flex items-center space-x-2 text-emerald-600 dark:text-emerald-400 hover:text-emerald-800 dark:hover:text-emerald-300 transition-colors duration-300">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="transition-transform group-hover:-translate-x-1">
+          <path d="m15 18-6-6 6-6"/>
+        </svg>
+        <span class="text-sm font-medium tracking-wide">Back to SelaLink Studio</span>
+      </a>
+    </div>
+
     <!-- Hero Section -->
     <div class="text-center mb-12 md:mb-20">
-      <h1 class="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6 bg-gradient-to-r from-purple-600 to-indigo-600 dark:from-purple-400 dark:to-indigo-400 bg-clip-text text-transparent">
+      <h1 class="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6 bg-gradient-to-r from-emerald-600 to-teal-600 dark:from-emerald-400 dark:to-teal-400 bg-clip-text text-transparent">
         {t('util.title')}
       </h1>
       <p class="text-lg md:text-xl text-slate-600 dark:text-slate-300 max-w-2xl mx-auto leading-relaxed">
@@ -323,7 +333,7 @@ const categoryCounts = categories.reduce((acc, cat) => {
       <div class="flex flex-col items-center gap-3 mt-8 select-none">
         <div class="flex flex-wrap justify-center gap-1.5 max-w-xl">
           {['WHO / FAO', 'EFSA (EU)', 'USDA (U.S.)', 'FSA (UK)', 'MFDS (KR)'].map((org) => (
-            <span class="text-[10px] md:text-xs font-bold uppercase tracking-wider bg-slate-100/80 dark:bg-slate-800/40 text-slate-500 dark:text-slate-400 px-3 py-1.5 rounded-full border border-slate-200/40 dark:border-slate-700/40 hover:border-purple-500/30 dark:hover:border-purple-400/30 transition-colors duration-300">
+            <span class="text-[10px] md:text-xs font-bold uppercase tracking-wider bg-slate-100/80 dark:bg-slate-800/40 text-slate-500 dark:text-slate-400 px-3 py-1.5 rounded-full border border-slate-200/40 dark:border-slate-700/40 hover:border-emerald-500/30 dark:hover:border-emerald-400/30 transition-colors duration-300">
               {org}
             </span>
           ))}
@@ -335,7 +345,7 @@ const categoryCounts = categories.reduce((acc, cat) => {
     </div>
 
     <!-- Search Input & Filters Bento Group -->
-    <div class="bento-card p-6 md:p-8 mb-8" style="--glow-color: rgba(139,92,246,0.15);">
+    <div class="bento-card p-6 md:p-8 mb-8" style="--glow-color: rgba(16,185,129,0.15);">
       <!-- Search Input Container -->
       <div class="relative max-w-2xl mx-auto mb-6">
         <span class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none text-slate-400 text-lg">
@@ -345,7 +355,7 @@ const categoryCounts = categories.reduce((acc, cat) => {
           type="text" 
           id="searchInput" 
           placeholder={t('util.search.placeholder')}
-          class="w-full pl-12 pr-4 py-4 rounded-2xl bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 text-base md:text-lg focus:outline-none focus:ring-2 focus:ring-purple-500 transition-all font-medium text-slate-800 dark:text-slate-100"
+          class="w-full pl-12 pr-4 py-4 rounded-2xl bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 text-base md:text-lg focus:outline-none focus:ring-2 focus:ring-emerald-500 transition-all font-medium text-slate-800 dark:text-slate-100"
         />
       </div>
 
@@ -356,14 +366,14 @@ const categoryCounts = categories.reduce((acc, cat) => {
             data-category={cat}
             class={`category-btn flex items-center gap-1.5 px-4 py-2 rounded-xl text-sm font-semibold cursor-pointer whitespace-nowrap transition-all duration-300 border ${
               cat === 'all' 
-                ? 'bg-purple-600 border-purple-600 text-white shadow-md shadow-purple-600/20' 
-                : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-purple-500 dark:hover:border-purple-500'
+                ? 'bg-emerald-600 border-emerald-600 text-white shadow-md shadow-emerald-600/20' 
+                : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-emerald-500 dark:hover:border-emerald-500'
             }`}
           >
             <span>{t(`util.category.${cat}`)}</span>
             <span class={`count-badge px-1.5 py-0.5 text-[11px] rounded-md transition-colors ${
               cat === 'all'
-                ? 'bg-purple-700/50 text-purple-100'
+                ? 'bg-emerald-700/50 text-emerald-100'
                 : 'bg-slate-100 dark:bg-slate-800/80 text-slate-500 dark:text-slate-400'
             }`}>
               {categoryCounts[cat]}
@@ -380,11 +390,11 @@ const categoryCounts = categories.reduce((acc, cat) => {
     >
       {localizedIngredients.map((item) => (
         <a 
-          href={`/${currentLang}/apps/freshself/ingredients/${item.id}/`}
+          href={`/${currentLang}/apps/storeself/${item.id}/`}
           data-item-category={item.category}
           data-search-index={item.searchIndex}
           class="ingredient-item bento-card p-5 flex flex-col justify-between group overflow-hidden" 
-          style="--glow-color: rgba(139,92,246,0.12);"
+          style="--glow-color: rgba(16,185,129,0.12);"
         >
           <div class="flex flex-col gap-3">
             {item.iconImage ? (
@@ -400,7 +410,7 @@ const categoryCounts = categories.reduce((acc, cat) => {
               </span>
             )}
             <div class="mt-1">
-              <h2 class="text-lg md:text-xl font-bold text-slate-800 dark:text-slate-100 group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors">
+              <h2 class="text-lg md:text-xl font-bold text-slate-800 dark:text-slate-100 group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
                 {item.localName}
               </h2>
               <span class="text-xs font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500">
@@ -434,7 +444,7 @@ const categoryCounts = categories.reduce((acc, cat) => {
               {item.sources && item.sources.length > 0 && (
                 <div class="flex gap-0.5 opacity-30 group-hover:opacity-100 transition-opacity duration-300 select-none shrink-0">
                   {item.sources.slice(0, 2).map((src) => (
-                    <span class="text-[9px] font-extrabold uppercase tracking-tight bg-slate-100 dark:bg-slate-800/80 text-slate-400 dark:text-slate-500 group-hover:text-purple-600 dark:group-hover:text-purple-400 group-hover:border-purple-500/20 px-1.5 py-0.5 rounded border border-slate-200/20 dark:border-slate-700/20 transition-colors duration-300">
+                    <span class="text-[9px] font-extrabold uppercase tracking-tight bg-slate-100 dark:bg-slate-800/80 text-slate-400 dark:text-slate-500 group-hover:text-emerald-600 dark:group-hover:text-emerald-400 group-hover:border-emerald-500/20 px-1.5 py-0.5 rounded border border-slate-200/20 dark:border-slate-700/20 transition-colors duration-300">
                       {src}
                     </span>
                   ))}
@@ -442,7 +452,7 @@ const categoryCounts = categories.reduce((acc, cat) => {
               )}
             </div>
             
-            <div class="text-xs font-bold text-purple-600 dark:text-purple-400 flex items-center gap-1 mt-1 opacity-0 group-hover:opacity-100 translate-x-[-5px] group-hover:translate-x-0 transition-all duration-300">
+            <div class="text-xs font-bold text-emerald-600 dark:text-emerald-400 flex items-center gap-1 mt-1 opacity-0 group-hover:opacity-100 translate-x-[-5px] group-hover:translate-x-0 transition-all duration-300">
               {t('util.card.view')}
             </div>
           </div>
@@ -519,12 +529,12 @@ const categoryCounts = categories.reduce((acc, cat) => {
       btn.addEventListener('click', () => {
         // Toggle active states
         categoryButtons.forEach((b) => {
-          b.classList.remove('bg-purple-600', 'border-purple-600', 'text-white', 'shadow-md', 'shadow-purple-600/20');
+          b.classList.remove('bg-emerald-600', 'border-emerald-600', 'text-white', 'shadow-md', 'shadow-emerald-600/20');
           b.classList.add('bg-white', 'dark:bg-slate-900', 'border-slate-200', 'dark:border-slate-800', 'text-slate-700', 'dark:text-slate-300');
         });
 
         btn.classList.remove('bg-white', 'dark:bg-slate-900', 'border-slate-200', 'dark:border-slate-800', 'text-slate-700', 'dark:text-slate-300');
-        btn.classList.add('bg-purple-600', 'border-purple-600', 'text-white', 'shadow-md', 'shadow-purple-600/20');
+        btn.classList.add('bg-emerald-600', 'border-emerald-600', 'text-white', 'shadow-md', 'shadow-emerald-600/20');
 
         activeCategory = btn.getAttribute('data-category') || 'all';
         filterIngredients();
@@ -562,7 +572,7 @@ const categoryCounts = categories.reduce((acc, cat) => {
   }
   
   /* Active state for badge inside active button */
-  .category-btn.bg-purple-600 .count-badge {
+  .category-btn.bg-emerald-600 .count-badge {
     background-color: rgba(255, 255, 255, 0.2) !important;
     color: #ffffff !important;
   }
