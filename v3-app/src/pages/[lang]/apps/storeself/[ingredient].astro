@@ -683,15 +683,7 @@ const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
         </div>
       </div>
       
-      <!-- App Store Link Icon -->
-      <a 
-        href={`https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${currentLang}`}
-        target="_blank"
-        rel="noopener noreferrer"
-        class="flex items-center gap-2 bg-emerald-600/10 hover:bg-emerald-600/20 text-emerald-600 dark:text-emerald-400 px-3.5 py-2 rounded-xl font-bold text-xs sm:text-sm transition-all duration-300"
-      >
-        <span>App Download</span> 📲
-      </a>
+
     </div>
 
     <!-- 2-Column Side-by-Side Layout for Desktop (PC) / Stacked for Mobile -->
@@ -725,7 +717,7 @@ const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
                 >
                   <span>{t(`detail.storage.${method}`)}</span>
                   {isRecommended && hasMethod && (
-                    <span class="text-[8px] bg-white/20 text-white px-1.5 py-0.5 rounded font-black tracking-tighter uppercase">
+                    <span class="recommend-badge text-[8px] px-1.5 py-0.5 rounded font-black tracking-tighter uppercase">
                       {t('detail.recommended.badge')}
                     </span>
                   )}
@@ -879,18 +871,7 @@ const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
                 <p id="calcDDay" class={initialDays > 0 ? "text-lg font-extrabold text-emerald-600 dark:text-emerald-400 leading-snug" : "text-base font-bold text-rose-600 dark:text-rose-400 leading-snug"}>{initialDDayText}</p>
               </div>
               
-              <!-- Non-intrusive Inline Nudge Banner -->
-              <div id="inlineNudge" class="mt-3 pt-2.5 border-t border-slate-200/60 dark:border-slate-800/80 text-[10px] text-slate-500 dark:text-slate-400 leading-relaxed transition-all duration-500 opacity-0 transform translate-y-1 hidden">
-                <span id="nudgeText"></span>
-                <a 
-                  href={`https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${currentLang}`} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  class="text-purple-600 dark:text-purple-400 font-bold hover:underline ml-0.5 inline-flex items-center gap-0.5"
-                >
-                  <span>{t('detail.nudge.cta')}</span> 📲
-                </a>
-              </div>
+
             </div>
           </div>
         </div>
@@ -1145,17 +1126,11 @@ const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
     const updateDDayCalculator = () => {
       const calcEatUntil = document.getElementById('calcEatUntil');
       const calcDDay = document.getElementById('calcDDay');
-      const inlineNudge = document.getElementById('inlineNudge');
-      const nudgeText = document.getElementById('nudgeText');
       const feedbackCard = document.getElementById('resultFeedbackCard');
 
       const clearResult = () => {
         if (calcEatUntil) calcEatUntil.textContent = '';
         if (calcDDay) calcDDay.textContent = '';
-        if (inlineNudge) {
-          inlineNudge.classList.remove('opacity-100', 'translate-y-0');
-          inlineNudge.classList.add('opacity-0', 'translate-y-1', 'hidden');
-        }
         if (feedbackCard) {
           feedbackCard.className = "p-4 rounded-xl bg-slate-50 dark:bg-slate-900/60 border border-slate-200/50 dark:border-slate-800/80 flex flex-col justify-between min-h-[90px] transition-all duration-300";
         }
@@ -1264,24 +1239,7 @@ const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
         }
       }
 
-      // Inline Nudge logic
-      if (inlineNudge && nudgeText) {
-        if (storageDuration > 0) {
-          const clientLocalName = currentItem.names[currentLang] || currentItem.names['en'];
-          let msg = "";
-          if (currentItem.isProcessed) {
-            msg = translate('detail.nudge.processed', { name: clientLocalName });
-          } else {
-            msg = translate('detail.nudge.fresh', { name: clientLocalName });
-          }
-          nudgeText.textContent = msg;
-          inlineNudge.classList.remove('opacity-0', 'translate-y-1', 'hidden');
-          inlineNudge.classList.add('opacity-100', 'translate-y-0');
-        } else {
-          inlineNudge.classList.remove('opacity-100', 'translate-y-0');
-          inlineNudge.classList.add('opacity-0', 'translate-y-1', 'hidden');
-        }
-      }
+
     };
 
     const switchMethod = (method) => {
@@ -1464,4 +1422,24 @@ const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
       });
     }
   </script>
+
+  <style>
+    /* 추천 뱃지 기본 스타일 (비활성 상태) */
+    .recommend-badge {
+      background-color: rgba(16, 185, 129, 0.1);
+      color: #059669; /* emerald-600 */
+      transition: all 0.3s ease;
+    }
+    
+    :global(.dark) .recommend-badge {
+      background-color: rgba(52, 211, 153, 0.15);
+      color: #34d399; /* emerald-400 */
+    }
+
+    /* 활성화된 탭 내부의 추천 뱃지 스타일 */
+    :global(.active-tab) .recommend-badge {
+      background-color: rgba(255, 255, 255, 0.2) !important;
+      color: #ffffff !important;
+    }
+  </style>
 </Layout>
