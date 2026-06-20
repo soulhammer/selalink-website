@@ -1,0 +1,23 @@
+---
+// This is a client-side redirection page designed to avoid browser back-button loops.
+// Static rendering is used.
+---
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting to Play Store...</title>
+  <meta name="robots" content="noindex, nofollow">
+  <meta http-equiv="refresh" content="0;url=https://play.google.com/store/apps/details?id=com.selalink.buildself">
+  <script is:inline>
+    // location.replace overrides history stack entry so user doesn't get stuck on back button
+    window.location.replace("https://play.google.com/store/apps/details?id=com.selalink.buildself");
+  </script>
+</head>
+<body style="background-color: #0f172a; color: #94a3b8; font-family: sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0;">
+  <div style="text-align: center;">
+    <p>스토어로 이동 중입니다...</p>
+    <p style="font-size: 13px; color: #64748b;">자동으로 이동하지 않으면 <a href="https://play.google.com/store/apps/details?id=com.selalink.buildself" style="color: #38bdf8; text-decoration: underline;">여기</a>를 클릭하세요.</p>
+  </div>
+</body>
+</html>
