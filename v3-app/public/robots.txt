@@ -1,5 +1,12 @@
 User-agent: *
 Allow: /
+# 법률 및 약관 페이지 수집 및 인덱싱 방지
+Disallow: /*/apps/*/privacy
+Disallow: /*/apps/*/terms
+Disallow: /*/apps/*/data-deletion
+Disallow: /privacy-*
+Disallow: /terms-*
+Disallow: /buildself-data-deletion.html
 
 # AI 기반 검색/답변 엔진의 웹 수집을 명시적으로 허용하여 노출과 인용을 극대화
 User-agent: OAI-SearchBot
