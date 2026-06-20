@@ -26,7 +26,12 @@ export default defineConfig({
           return false;
         }
         
-        // 2. 모든 언어의 규정/약관/데이터 삭제 페이지 제외 (noindex 대상)
+        // 2. 301 리다이렉트 대상인 구버전 freshself/ingredients 하위 경로 sitemap에서 제외
+        if (url.pathname.includes('/apps/freshself/ingredients/')) {
+          return false;
+        }
+        
+        // 3. 모든 언어의 규정/약관/데이터 삭제 페이지 제외 (noindex 대상)
         const isLegalPage = /\/(privacy|terms|data-deletion)\/?$/.test(url.pathname);
         if (isLegalPage) {
           return false;
