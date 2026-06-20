@@ -29,21 +29,65 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
   ogType="software"
   canonicalUrl={`https://selalink.net/${lang}/apps/freshself/`}
   image="/assets/images/og/freshself.png"
+  appId="freshself"
 >
   <style>
     :root {
       --fs-primary: #8B5CF6;
       --fs-secondary: #10B981;
-      --fs-primary-glow: rgba(139, 92, 246, 0.15);
-      --fs-secondary-glow: rgba(16, 185, 129, 0.15);
+      --fs-primary-glow: rgba(139, 92, 246, 0.25);
+      --fs-secondary-glow: rgba(16, 185, 129, 0.25);
     }
     
+    .font-jakarta-all {
+      font-family: 'Plus Jakarta Sans', 'Pretendard', sans-serif;
+    }
+
     .screenshot-card {
-      transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+      border: 1px solid rgba(139, 92, 246, 0.1);
     }
     .screenshot-card:hover {
-      transform: translateY(-6px) scale(1.02);
-      box-shadow: 0 30px 60px -15px var(--fs-primary-glow);
+      transform: translateY(-8px) scale(1.03);
+      box-shadow: 0 30px 60px -15px var(--fs-primary-glow), 0 0 30px -5px var(--fs-secondary-glow);
+      border-color: rgba(16, 185, 129, 0.3);
+    }
+
+    /* Shelf Grid System for FreshSelf Hero */
+    .shelf-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+      align-items: center;
+      perspective: 1200px;
+    }
+    @media (max-width: 768px) {
+      .shelf-container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+    }
+    .shelf-item-left {
+      transform: rotateY(12deg) rotateX(4deg) translateZ(0);
+      transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .shelf-item-center {
+      transform: translateZ(25px) scale(1.04);
+      z-index: 20;
+      transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .shelf-item-right {
+      transform: rotateY(-12deg) rotateX(4deg) translateZ(0);
+      transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .shelf-item-left:hover {
+      transform: rotateY(3deg) scale(1.02) translateY(-5px);
+    }
+    .shelf-item-center:hover {
+      transform: translateZ(40px) scale(1.07) translateY(-8px);
+    }
+    .shelf-item-right:hover {
+      transform: rotateY(-3deg) scale(1.02) translateY(-5px);
     }
 
     .leaf-logo {
@@ -51,12 +95,22 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
     }
 
     @keyframes gentle-wave {
-      0% { transform: rotate(-3deg) translateY(0px); }
-      100% { transform: rotate(3deg) translateY(-3px); }
+      0% { transform: rotate(-6deg) translateY(0px) scale(0.95); }
+      100% { transform: rotate(6deg) translateY(-5px) scale(1.05); }
+    }
+
+    /* Neon Bento Card variant for FreshSelf */
+    .fresh-bento-card {
+      border: 1px solid rgba(139, 92, 246, 0.15) !important;
+      transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .fresh-bento-card:hover {
+      border-color: rgba(16, 185, 129, 0.4) !important;
+      box-shadow: 0 25px 50px -12px rgba(139, 92, 246, 0.25), 0 0 30px rgba(16, 185, 129, 0.15) !important;
     }
   </style>
 
-  <main class="w-full bg-slate-50 dark:bg-[#0B0F19] min-h-screen font-sans text-slate-900 dark:text-slate-100 overflow-hidden transition-colors duration-500">
+  <main class="w-full font-jakarta-all bg-slate-50 dark:bg-[#0B0F19] min-h-screen text-slate-900 dark:text-slate-100 overflow-hidden transition-colors duration-500">
     <!-- Fluid Decorative Blurs -->
     <div class="fixed inset-0 z-0 opacity-40 pointer-events-none">
       <div class="absolute top-[-10%] right-[-10%] w-[50%] h-[50%] bg-purple-500/10 dark:bg-purple-600/5 rounded-full filter blur-[120px]"></div>
@@ -73,74 +127,81 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
       </a>
     </div>
 
-    <!-- Hero Section -->
+    <!-- Hero Section (5:7 개편 및 Shelf Layout 도입) -->
     <section class="relative z-10 w-full max-w-7xl mx-auto px-6 py-6 lg:py-16 grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
-      <!-- Title & CTA -->
-      <div class="lg:col-span-7 flex flex-col items-start space-y-6 md:space-y-8 text-left">
+      <!-- Title & CTA (lg:col-span-5) -->
+      <div class="lg:col-span-5 flex flex-col items-start space-y-6 md:space-y-8 text-left">
         <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-purple-50 dark:bg-purple-950/30 border border-purple-200 dark:border-purple-900/50 shadow-sm">
           <span class="w-2 h-2 rounded-full bg-purple-500 animate-pulse"></span>
           <span class="text-xs font-bold text-purple-700 dark:text-purple-400 tracking-wider uppercase">{t('fs.hero.subtitle')}</span>
         </div>
         
-        <h1 class="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight leading-[1.2] text-slate-900 dark:text-white whitespace-pre-wrap">
+        <h1 class="text-3xl sm:text-5xl md:text-5xl lg:text-6xl font-black tracking-tight leading-[1.15] text-slate-900 dark:text-white whitespace-pre-wrap">
           {t('fs.hero.title')}
         </h1>
         
-        <p class="text-lg md:text-xl text-slate-600 dark:text-slate-300 font-medium leading-relaxed max-w-xl">
+        <p class="text-base md:text-lg text-slate-600 dark:text-slate-300 font-medium leading-relaxed max-w-xl">
           {t('app.freshself.desc')}
         </p>
 
         <!-- CTAs / Store Buttons -->
-        <div class="flex flex-col sm:flex-row gap-4 w-full sm:w-auto pt-4 relative z-20">
-          <button id="iosDownloadBtn" class="flex items-center justify-center gap-3 bg-slate-200/50 dark:bg-slate-800/50 border border-slate-300 dark:border-slate-700 text-slate-500 dark:text-slate-400 px-8 py-4 rounded-2xl font-bold text-lg opacity-70 cursor-pointer w-full sm:w-auto transition-all duration-300 hover:scale-[1.01]">
-            <svg class="w-6 h-6 opacity-70" fill="currentColor" viewBox="0 0 24 24"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.253 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.04 2.26-.79 3.59-.76 2.6.04 4.19 1.45 4.8 1.8-3.1 1.76-2.58 5.86.37 6.94-1.04 2.45-2.51 3.5-3.84 4.19zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+        <div class="flex flex-col sm:flex-row gap-4 w-full sm:w-auto pt-2 relative z-20">
+          <button id="iosDownloadBtn" class="flex items-center justify-center gap-3 bg-slate-200/50 dark:bg-slate-800/50 border border-slate-300 dark:border-slate-700 text-slate-500 dark:text-slate-400 px-6 py-3 rounded-xl font-bold text-base opacity-70 cursor-pointer w-full sm:w-auto transition-all duration-300 hover:scale-[1.01]">
+            <svg class="w-5 h-5 opacity-70" fill="currentColor" viewBox="0 0 24 24"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.253 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.04 2.26-.79 3.59-.76 2.6.04 4.19 1.45 4.8 1.8-3.1 1.76-2.58 5.86.37 6.94-1.04 2.45-2.51 3.5-3.84 4.19zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
             <div class="flex flex-col items-start leading-tight">
-              <span class="text-xs text-slate-400 font-medium uppercase tracking-wider">App Store</span>
-              <span class="text-sm font-bold text-slate-500">Coming Soon</span>
+              <span class="text-[10px] text-slate-400 font-medium uppercase tracking-wider">App Store</span>
+              <span class="text-xs font-bold text-slate-500">Coming Soon</span>
             </div>
           </button>
           
-          <a href={`https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${lang}`} target="_blank" rel="noopener noreferrer" class="group/btn flex items-center justify-center gap-3 bg-purple-600 hover:bg-purple-500 text-white px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer shadow-lg shadow-purple-600/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 w-full sm:w-auto">
-            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/></svg>
+          <a href={`https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${lang}`} target="_blank" rel="noopener noreferrer" class="group/btn flex items-center justify-center gap-3 bg-purple-600 hover:bg-purple-500 text-white px-6 py-3 rounded-xl font-bold text-base cursor-pointer shadow-lg shadow-purple-600/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 w-full sm:w-auto">
+            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/></svg>
             <div class="flex flex-col items-start leading-tight">
-              <span class="text-xs text-purple-200 font-medium uppercase tracking-wider">Google Play</span>
-              <span class="text-sm font-bold text-white">{t('fs.hero.cta')}</span>
+              <span class="text-[10px] text-purple-200 font-medium uppercase tracking-wider">Google Play</span>
+              <span class="text-xs font-bold text-white">{t('fs.hero.cta')}</span>
             </div>
           </a>
         </div>
 
         <!-- Frictionless QR Code Card (Desktop Only) -->
-        <div class="hidden md:flex items-center gap-4 p-4 rounded-2xl bg-white/70 dark:bg-slate-900/50 backdrop-blur-2xl border border-white/80 dark:border-white/10 shadow-md w-max mt-6 relative z-20">
-          <div class="w-20 h-20 bg-white p-2 rounded-xl border border-slate-200 flex items-center justify-center shadow-inner">
+        <div class="hidden md:flex items-center gap-4 p-3 rounded-xl bg-white/70 dark:bg-slate-900/50 backdrop-blur-2xl border border-white/80 dark:border-white/10 shadow-md w-max mt-4 relative z-20">
+          <div class="w-16 h-16 bg-white p-1.5 rounded-lg border border-slate-200 flex items-center justify-center shadow-inner">
             <img src={`/assets/images/qr/qr_freshself_${lang}.png`} alt="FreshSelf Play Store QR Code" class="w-full h-full object-contain" />
           </div>
           <div class="flex flex-col text-left">
             <span class="text-xs font-bold text-slate-800 dark:text-slate-200">{qrTitle}</span>
-            <span class="text-[10px] text-slate-500 dark:text-slate-400 font-medium mt-0.5 leading-tight" set:html={qrDesc}></span>
+            <span class="text-[9px] text-slate-500 dark:text-slate-400 font-medium mt-0.5 leading-tight" set:html={qrDesc}></span>
           </div>
         </div>
       </div>
 
-      <!-- Conceptual 3D Glass Stack Mockup -->
-      <div class="lg:col-span-5 relative w-full h-[450px] sm:h-[550px] flex items-center justify-center pointer-events-none mt-12 lg:mt-0">
-        <!-- Leaf Floating Logo (Back background decoration) -->
-        <div class="absolute top-10 left-10 w-28 h-28 opacity-10 dark:opacity-20 leaf-logo">
+      <!-- Shelf-Inspired 3D 3-Column Display (lg:col-span-7) -->
+      <div class="lg:col-span-7 relative w-full h-auto min-h-[480px] flex items-center justify-center mt-12 lg:mt-0">
+        <!-- Leaf Floating Logo Background -->
+        <div class="absolute top-0 right-1/4 w-32 h-32 opacity-15 dark:opacity-25 leaf-logo pointer-events-none">
           <img src="/freshself/invite/icon.png" alt="FreshSelf Leaf Symbol" class="w-full h-full object-contain" />
         </div>
-        
-        <!-- Back Stack (Login Screen) -->
-        <div class="absolute left-10 bottom-10 w-[55%] max-w-[220px] rounded-[2rem] p-1 bg-white/30 dark:bg-slate-800/30 backdrop-blur-xl border border-white/40 dark:border-white/10 shadow-xl transform -rotate-12 translate-x-[-15px] translate-y-[15px] opacity-75 sm:opacity-90">
-          <img src={`${imgBase}/1_freshself_phone_screen.jpg`} alt="FreshSelf Login Interface" class="w-full h-auto rounded-[1.8rem] object-cover shadow-inner" loading="eager" />
-        </div>
-        
-        <!-- Front Stack (Main Storage Shelf Screen) -->
-        <div class="screenshot-card relative w-[65%] max-w-[250px] rounded-[2.5rem] p-1.5 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-15px_15px_50px_rgba(0,0,0,0.15)] dark:shadow-[-20px_30px_70px_rgba(0,0,0,0.6)] transform rotate-[-4deg] z-10 mx-auto">
-          <img src={`${imgBase}/2_freshself_phone_screen.jpg`} alt="FreshSelf Main Locker" class="w-full h-auto rounded-[2.2rem] object-cover shadow-sm" loading="eager" />
-          
-          <!-- Floating Status Glass Badge -->
-          <div class="absolute -right-4 top-24 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md px-3.5 py-2.5 rounded-2xl border border-slate-100 dark:border-slate-800 shadow-xl flex items-center gap-2 transform rotate-6 z-20">
-            <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-            <span class="text-xs font-bold text-slate-800 dark:text-slate-200">{floatingBadge}</span>
+
+        <!-- Shelf Container -->
+        <div class="shelf-container w-full max-w-[680px]">
+          <!-- Shelf Item 1: Login/Setup (Left) -->
+          <div class="shelf-item-left screenshot-card rounded-[2rem] p-1 bg-white/40 dark:bg-slate-800/30 backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+            <img src={`${imgBase}/1_freshself_phone_screen.jpg`} alt="FreshSelf Login Interface" class="w-full h-auto rounded-[1.8rem] object-cover" loading="eager" />
+          </div>
+
+          <!-- Shelf Item 2: Main Shelf (Center - Prominent) -->
+          <div class="shelf-item-center relative screenshot-card rounded-[2.2rem] p-1.5 bg-white/80 dark:bg-slate-800/80 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-2xl">
+            <img src={`${imgBase}/2_freshself_phone_screen.jpg`} alt="FreshSelf Main Locker" class="w-full h-auto rounded-[2rem] object-cover" loading="eager" />
+            <!-- Floating Status Glass Badge -->
+            <div class="absolute -right-2 top-16 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md px-3 py-2 rounded-xl border border-slate-100 dark:border-slate-800 shadow-xl flex items-center gap-1.5 transform rotate-6 z-20">
+              <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
+              <span class="text-[10px] font-bold text-slate-800 dark:text-slate-200">{floatingBadge}</span>
+            </div>
+          </div>
+
+          <!-- Shelf Item 3: Analytics/Report (Right) -->
+          <div class="shelf-item-right screenshot-card rounded-[2rem] p-1 bg-white/40 dark:bg-slate-800/30 backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+            <img src={`${imgBase}/4_freshself_phone_screen.jpg`} alt="FreshSelf Analytics Interface" class="w-full h-auto rounded-[1.8rem] object-cover" loading="eager" />
           </div>
         </div>
       </div>
@@ -223,7 +284,7 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
         <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium">{t('fs.bento.header.desc')}</p>
       </div>
 
-      <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-center bg-white dark:bg-slate-900/40 border border-slate-200/60 dark:border-slate-800/80 p-8 sm:p-12 rounded-[2.5rem] backdrop-blur-xl shadow-xl">
+      <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-center bg-white dark:bg-slate-900/40 fresh-bento-card border border-slate-200/60 dark:border-slate-800/80 p-8 sm:p-12 rounded-[2.5rem] backdrop-blur-xl shadow-xl">
         <!-- Graphic -->
         <div class="md:col-span-5 flex justify-center pointer-events-none">
           <div class="screenshot-card relative w-[80%] max-w-[260px] rounded-[2rem] p-1.5 bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700 shadow-2xl">

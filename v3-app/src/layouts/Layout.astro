@@ -12,6 +12,7 @@ export interface Props {
 	ogType?: 'website' | 'software';
 	canonicalUrl?: string;
 	robots?: string;
+	appId?: 'buildself' | 'freshself' | 'deepmood' | 'studio';
 }
 
 const { 
@@ -23,8 +24,26 @@ const {
 	image, 
 	ogType = 'website',
 	canonicalUrl,
-	robots
+	robots,
+	appId = 'studio'
 } = Astro.props;
+
+// appId에 따른 테마 색상 및 서체 지정
+const themeColors = {
+	studio: '#0D9488', // Teal
+	buildself: '#0D9488',
+	freshself: '#8B5CF6',
+	deepmood: '#CA8A04'
+};
+const themeFonts = {
+	studio: "'Space Grotesk', 'Pretendard', sans-serif",
+	buildself: "'Outfit', 'Space Grotesk', 'Pretendard', sans-serif",
+	freshself: "'Plus Jakarta Sans', 'Pretendard', sans-serif",
+	deepmood: "'Bodoni Moda', 'Pretendard', serif"
+};
+
+const currentAccent = themeColors[appId];
+const currentFont = themeFonts[appId];
 
 const currentPath = Astro.url.pathname;
 const getPathForLang = (targetLang: string) => {
@@ -38,7 +57,7 @@ const getPathForLang = (targetLang: string) => {
 };
 ---
 <!doctype html>
-<html lang={lang} class="dark">
+<html lang={lang} class="dark" style={`--theme-accent: ${currentAccent}; --theme-font-family: ${currentFont};`}>
 	<head>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-F045X42F26"></script>
@@ -65,7 +84,7 @@ const getPathForLang = (targetLang: string) => {
 
 		<link rel="icon" type="image/png" href="/favicon.png" />
 		<link rel="apple-touch-icon" href="/favicon.png" />
-		<link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 		<title>{title}</title>
 		
 		<!-- SEO / Open Graph Setup -->
@@ -154,7 +173,7 @@ const getPathForLang = (targetLang: string) => {
 		
 		<style is:global>
 			body {
-				font-family: 'Space Grotesk', 'Pretendard', sans-serif;
+				font-family: var(--theme-font-family, 'Space Grotesk', 'Pretendard', sans-serif);
 				transition: background-color 0.5s ease, color 0.5s ease;
 				overflow-x: hidden;
 			}
@@ -163,11 +182,27 @@ const getPathForLang = (targetLang: string) => {
 				word-break: keep-all;
 			}
 			
+			/* Font Helpers */
+			.font-outfit {
+				font-family: 'Outfit', 'Space Grotesk', 'Pretendard', sans-serif;
+			}
+			.font-jakarta {
+				font-family: 'Plus Jakarta Sans', 'Pretendard', sans-serif;
+			}
+			
 			/* LIGHT MODE DEFAULT */
 			body {
 				background-color: #f8fafc; /* slate-50 */
 				color: #0f172a; /* slate-900 */
 				transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+			}
+			
+			/* Dynamic Accent UI Links */
+			#langButton {
+				transition: color 0.3s ease;
+			}
+			#langButton:hover {
+				color: var(--theme-accent) !important;
 			}
 			.bento-card {
 				background: rgba(255, 255, 255, 0.7);
@@ -245,7 +280,18 @@ const getPathForLang = (targetLang: string) => {
 	<body class="antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black">
 		<!-- Navigation Bar with Lang & Theme Switches -->
 		<header class="max-w-[1400px] mx-auto px-6 pt-12 flex justify-between items-center relative z-50">
-			<a href={`/${lang}`} class="text-2xl font-bold tracking-tighter">SelaLink.</a>
+			<a href={`/${lang}`} class="text-2xl font-bold tracking-tighter flex items-center transition-all duration-300 hover:opacity-80">
+				<span>SelaLink.</span>
+				{appId === 'buildself' && (
+					<span class="text-teal-600 dark:text-teal-400 font-extrabold ml-1.5 font-outfit text-xl tracking-tight animate-fade-in">BuildSelf</span>
+				)}
+				{appId === 'freshself' && (
+					<span class="text-purple-600 dark:text-purple-400 font-bold ml-1.5 font-jakarta text-xl tracking-normal animate-fade-in">FreshSelf</span>
+				)}
+				{appId === 'deepmood' && (
+					<span class="text-amber-600 dark:text-[#CA8A04] font-serif font-medium ml-1.5 text-xl tracking-wide animate-fade-in" style="font-family: 'Bodoni Moda', serif;">DeepMood</span>
+				)}
+			</a>
 			<div class="flex items-center gap-6">
 				<!-- Language Dropdown -->
 				<div class="relative" id="langWrapper">

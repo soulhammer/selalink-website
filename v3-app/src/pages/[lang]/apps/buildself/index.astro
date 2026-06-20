@@ -20,7 +20,7 @@ const toastDesc = isKo
   ? 'App Store 출시 등록 심사 진행 중입니다. 곧 런칭 예정입니다!' 
   : 'App Store registration and review are in progress. Launching very soon!';
 ---
-<Layout title={t('app.buildself.meta.title')} lang={lang} description={t('app.buildself.desc')} ogType="software" image="/assets/images/og/buildself.png">
+<Layout title={t('app.buildself.meta.title')} lang={lang} description={t('app.buildself.desc')} ogType="software" image="/assets/images/og/buildself.png" appId="buildself">
 	<!-- Override default dark bg constraint if we want this page uniquely themed -->
 	<style>
 		:root {
@@ -29,13 +29,20 @@ const toastDesc = isKo
 			--bs-cta: #F97316;
 		}
 		
+		/* BuildSelf Typography */
+		.font-outfit-all {
+			font-family: 'Outfit', 'Space Grotesk', 'Pretendard', sans-serif;
+		}
+		
 		/* BuildSelf specific animations */
 		.footprint-card {
-			transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+			transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+			border: 1px solid rgba(13, 148, 136, 0.1);
 		}
 		.footprint-card:hover {
-			transform: scale(1.02) translateY(-4px);
-			box-shadow: 0 20px 40px -10px rgba(13, 148, 136, 0.15);
+			transform: scale(1.02) translateY(-6px);
+			box-shadow: 0 30px 60px -15px rgba(13, 148, 136, 0.2), 0 0 0 1px rgba(249, 115, 22, 0.2);
+			border-color: rgba(249, 115, 22, 0.3);
 		}
 		
 		.app-button {
@@ -45,9 +52,24 @@ const toastDesc = isKo
 			transform: translateY(-2px);
 			box-shadow: 0 10px 25px -5px var(--bs-primary);
 		}
+
+		/* Neon Border Accent on feature cards */
+		.neon-accent-card {
+			border: 1px solid rgba(13, 148, 136, 0.15) !important;
+			background: linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.7) 100%);
+			transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+		}
+		html.dark .neon-accent-card {
+			border: 1px solid rgba(13, 148, 136, 0.15) !important;
+			background: linear-gradient(180deg, rgba(30, 33, 40, 0.5) 0%, rgba(20, 23, 30, 0.3) 100%) !important;
+		}
+		.neon-accent-card:hover {
+			border-color: var(--bs-secondary) !important;
+			box-shadow: 0 20px 40px rgba(13, 148, 136, 0.15), 0 0 25px rgba(249, 115, 22, 0.05) !important;
+		}
 	</style>
 
-	<div class="bg-slate-50 dark:bg-slate-900 min-h-screen pt-4 md:pt-10 pb-20 overflow-hidden relative">
+	<div class="font-outfit-all bg-slate-50 dark:bg-slate-900 min-h-screen pt-4 md:pt-10 pb-20 overflow-hidden relative">
 		<!-- Background decorative elements -->
 		<div class="absolute top-0 right-0 -mr-40 -mt-40 w-96 h-96 rounded-full bg-teal-400/20 dark:bg-teal-600/10 blur-3xl pointer-events-none"></div>
 		<div class="absolute bottom-40 left-0 -ml-40 w-80 h-80 rounded-full bg-orange-400/10 dark:bg-orange-600/10 blur-3xl pointer-events-none"></div>
@@ -148,7 +170,7 @@ const toastDesc = isKo
 				<div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
 					
 					<!-- Feature 1: Mentor Journey (Amber/Gold Glowing Card) -->
-					<div class="footprint-card flex flex-col pt-8 md:pt-12 px-6 md:px-10 items-center bg-white dark:bg-slate-900/80 rounded-[2rem] md:rounded-[3rem] border border-slate-200/80 dark:border-amber-500/10 shadow-2xl shadow-slate-200/50 dark:shadow-none relative overflow-hidden backdrop-blur-xl group">
+					<div class="footprint-card neon-accent-card flex flex-col pt-8 md:pt-12 px-6 md:px-10 items-center rounded-[2rem] md:rounded-[3rem] relative overflow-hidden backdrop-blur-xl group">
 						<!-- Ambient Gold Glow in Dark Mode -->
 						<div class="absolute inset-0 bg-gradient-to-b from-amber-50/50 to-transparent dark:from-amber-900/20 dark:to-transparent pointer-events-none"></div>
 						<div class="absolute -top-32 -left-32 w-96 h-96 bg-amber-400/20 dark:bg-amber-500/10 rounded-full blur-[100px] pointer-events-none group-hover:scale-110 transition-transform duration-1000"></div>
