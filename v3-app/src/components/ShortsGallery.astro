@@ -8,10 +8,10 @@ interface Props {
 }
 
 const { lang, appType = 'buildself' } = Astro.props;
-const t = useTranslations(lang);
+const t = useTranslations(lang as any);
 
 // 안전하게 해당 앱의 언어별 쇼츠 리스트 바인딩
-const availableShorts = shortsData[appType]?.[lang] || shortsData[appType]?.['en'] || [];
+const availableShorts = (shortsData[appType] as any)?.[lang] || (shortsData[appType] as any)?.['en'] || [];
 
 // 브랜드 고유 테마 컬러 및 텍스트 매핑 설정 (규칙 3 테마 색상 준수)
 const theme = appType === 'buildself' 
@@ -41,10 +41,10 @@ const theme = appType === 'buildself'
   <div class="mb-12 flex flex-col items-center md:items-start text-center md:text-left">
     <div class={`inline-flex items-center px-4 py-2 rounded-full border shadow-sm mb-6 ${theme.tagBg}`}>
       <span class={`w-2 h-2 rounded-full animate-pulse mr-2 ${theme.tagDot}`}></span>
-      <span class={`font-bold text-xs md:text-sm tracking-widest uppercase ${theme.tagText}`}>{t(theme.storyKey)}</span>
+      <span class={`font-bold text-xs md:text-sm tracking-widest uppercase ${theme.tagText}`}>{t(theme.storyKey as any)}</span>
     </div>
-    <h2 class="text-3xl md:text-5xl font-black text-slate-900 dark:text-white tracking-tight mb-4">{t(theme.titleKey)}</h2>
-    <p class="text-lg text-slate-600 dark:text-slate-400 font-medium max-w-2xl">{t(theme.descKey)}</p>
+    <h2 class="text-3xl md:text-5xl font-black text-slate-900 dark:text-white tracking-tight mb-4">{t(theme.titleKey as any)}</h2>
+    <p class="text-lg text-slate-600 dark:text-slate-400 font-medium max-w-2xl">{t(theme.descKey as any)}</p>
   </div>
 
   <div class="flex gap-4 md:gap-8 overflow-x-auto pb-10 hide-scrollbar snap-x snap-mandatory px-4 md:px-0 -mx-4 md:mx-0">

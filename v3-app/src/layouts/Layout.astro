@@ -61,6 +61,8 @@ const getPathForLang = (targetLang: string) => {
         return `/${targetLang}${currentPath}`;
     }
 };
+
+const t = useTranslations(lang as any);
 ---
 <!doctype html>
 <html lang={lang} class="dark" style={`--theme-accent: ${currentAccent}; --theme-font-family: ${currentFont};`}>
@@ -179,7 +181,7 @@ const getPathForLang = (targetLang: string) => {
 				alternateNames.push(t('app.moodself.title'), "무드셀프", "MoodSelf");
 			}
 			
-			let appFeatures = [];
+			let appFeatures: string[] = [];
 			if (isBuildSelf) {
 				appFeatures = (t('app.buildself.meta.features') || '').split(',');
 			} else if (isFreshSelf) {
@@ -379,7 +381,7 @@ const getPathForLang = (targetLang: string) => {
 					
 					{supportedLanguages?.length === 1 && (
 						<div id="langLockTooltip" class="absolute right-0 top-full mt-2 w-56 bg-orange-600 text-white rounded-xl shadow-xl p-3 text-xs font-bold leading-normal transition-all transform origin-top-right scale-95 opacity-0 invisible z-50 pointer-events-none border border-orange-500/20">
-							🌍 본 앱은 현재 한국어 전용이며 곧 글로벌 다국어로 확장됩니다!
+							{t('nav.lang.locked')}
 						</div>
 					)}
 					

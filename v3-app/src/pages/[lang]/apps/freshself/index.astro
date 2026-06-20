@@ -12,21 +12,17 @@ const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 
 const isKo = lang === 'ko';
-const qrTitle = isKo ? '카메라로 즉시 설치' : 'Scan to Install';
-const qrDesc = isKo ? '스마트폰 카메라로<br/>QR 코드를 스캔하세요.' : 'Scan the QR code<br/>with your smartphone camera.';
-const toastTitle = isKo ? 'iOS 앱스토어 준비 중' : 'iOS App Store Coming Soon';
-const toastDesc = isKo 
-  ? 'App Store 출시 등록 심사 진행 중입니다. 곧 런칭 예정입니다!' 
-  : 'App Store registration and review are in progress. Launching very soon!';
-const floatingBadge = isKo ? '모든 아이템 신선함' : 'All Items Fresh';
+const qrTitle = t('app.qr.title');
+const qrDesc = t('app.qr.desc');
+const toastTitle = t('app.toast.ios.title');
+const toastDesc = t('app.toast.ios.desc');
+const floatingBadge = t('app.freshself.badge.all_fresh');
 const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps/freshself/en';
 
 // Web Utility Banner Translations
-const utilBannerTitle = isKo ? '🥬 StoreSelf - 식재료 보관 기한 계산 웹앱 출시' : '🥬 StoreSelf - Free Food Expiration Web App';
-const utilBannerDesc = isKo 
-  ? '앱 설치 없이 웹 브라우저에서 즉시 실행 가능한 StoreSelf 웹앱을 만나보세요. 65종 핵심 식재료의 보관 가이드와 신선 기한 계산을 무료로 제공합니다.' 
-  : 'Meet StoreSelf, a free web app to check storage guides and calculate fresh D-Day instantly without any installation.';
-const utilBannerBtn = isKo ? 'StoreSelf 웹앱 실행하기 →' : 'Launch StoreSelf Web App →';
+const utilBannerTitle = t('app.freshself.banner.title');
+const utilBannerDesc = t('app.freshself.banner.desc');
+const utilBannerBtn = t('app.freshself.banner.btn');
 ---
 
 <Layout

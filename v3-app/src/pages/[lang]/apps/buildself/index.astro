@@ -12,13 +12,10 @@ export function getStaticPaths() {
 const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 
-const isKo = lang === 'ko';
-const qrTitle = isKo ? '카메라로 즉시 설치' : 'Scan to Install';
-const qrDesc = isKo ? '스마트폰 카메라로<br/>QR 코드를 스캔하세요.' : 'Scan the QR code<br/>with your smartphone camera.';
-const toastTitle = isKo ? 'iOS 앱스토어 준비 중' : 'iOS App Store Coming Soon';
-const toastDesc = isKo 
-  ? 'App Store 출시 등록 심사 진행 중입니다. 곧 런칭 예정입니다!' 
-  : 'App Store registration and review are in progress. Launching very soon!';
+const qrTitle = t('app.qr.title');
+const qrDesc = t('app.qr.desc');
+const toastTitle = t('app.toast.ios.title');
+const toastDesc = t('app.toast.ios.desc');
 ---
 <Layout title={t('app.buildself.meta.title')} lang={lang} description={t('app.buildself.desc')} ogType="software" image="/assets/images/og/buildself.png" appId="buildself">
 	<!-- Override default dark bg constraint if we want this page uniquely themed -->
