@@ -11,7 +11,7 @@ export interface Ingredient {
   names: Record<string, string>;
   isProcessed: boolean;
   iconImage?: string;
-  searchKeywords?: string[];
+  searchKeywords?: Record<string, string[]>;
   storage: {
     room?: StorageGuide;
     fridge?: StorageGuide;
@@ -26,6 +26,12 @@ export const ingredients: Ingredient[] = [
     category: 'vegetable',
     emoji: '🎋',
     isProcessed: false,
+    searchKeywords: {
+      ko: ['파', '쪽파', '실파', '대파보관'],
+      en: ['scallion', 'spring onion', 'scallions', 'shallot'],
+      ja: ['ねぎ', 'ネギ', '青ねぎ', '白ねぎ'],
+      zh: ['小葱', '大葱', '香葱', '青葱']
+    },
     names: {
       ko: '대파',
       en: 'Green Onion',
@@ -96,6 +102,12 @@ export const ingredients: Ingredient[] = [
     category: 'vegetable',
     emoji: '🧅',
     isProcessed: false,
+    searchKeywords: {
+      ko: ['자색양파', '붉은양파', '조미양파', '햇양파'],
+      en: ['red onion', 'white onion', 'shallots', 'sweet onion'],
+      ja: ['タマネギ', '玉ねぎ', '赤玉ねぎ'],
+      zh: ['洋葱', '红洋葱', '白洋葱']
+    },
     names: {
       ko: '양파',
       en: 'Onion',
@@ -1016,6 +1028,12 @@ export const ingredients: Ingredient[] = [
     category: 'dairy',
     emoji: '🥛',
     isProcessed: true,
+    searchKeywords: {
+      ko: ['유제품', '생우유', '저지방우유', '멸균우유'],
+      en: ['dairy', 'whole milk', 'raw milk', 'low fat milk'],
+      ja: ['牛乳', 'ミルク', '低脂肪乳'],
+      zh: ['牛奶', '鲜牛奶', '脱脂牛奶']
+    },
     names: {
       ko: '우유',
       en: 'Milk',
@@ -1053,6 +1071,12 @@ export const ingredients: Ingredient[] = [
     category: 'dairy',
     emoji: '🥚',
     isProcessed: false,
+    searchKeywords: {
+      ko: ['달걀', '유정란', '무항생제란', '계란보관'],
+      en: ['eggs', 'yolk', 'egg white', 'poultry'],
+      ja: ['たまご', '卵', '玉子', '鶏卵'],
+      zh: ['鸡蛋', '蛋黄', '蛋清']
+    },
     names: {
       ko: '계란',
       en: 'Egg',
