@@ -5,13 +5,22 @@ import shortsData from '../data/shorts.json';
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 
-// 다국어 폴백: 해당 언어가 없으면 'en' 데이터 모음 사용
-const availableShorts = shortsData.buildself[lang] || shortsData.buildself['en'];
-const shortsIds = availableShorts.map(s => s.id);
+// 안전하게 BuildSelf 및 FreshSelf 데이터 파싱 및 appType 매핑
+const bsShorts = (shortsData.buildself[lang] || shortsData.buildself['en']).map(s => ({
+  ...s,
+  appType: 'buildself',
+  label: 'BuildSelf'
+}));
+
+const fsShorts = (shortsData.freshself?.[lang] || shortsData.freshself?.['en'] || []).map(s => ({
+  ...s,
+  appType: 'freshself',
+  label: 'FreshSelf'
+}));
 ---
 
 <div class="flex items-center gap-4 md:gap-6 pt-10 pb-6 overflow-x-auto w-full max-w-[1400px] mx-auto hide-scrollbar px-6" id="app-stories-container">
-  <!-- Story items will be generated here by client-side JS -->
+  <!-- 클라이언트 자바스크립트로 2:2 추출 및 셔플된 최종 아이템 4개가 삽입됩니다 -->
 </div>
 
 <style>
@@ -24,30 +33,56 @@ const shortsIds = availableShorts.map(s => s.id);
   }
 </style>
 
-<script define:vars={{ shortsIds }}>
+<script define:vars={{ bsShorts, fsShorts }}>
   document.addEventListener('DOMContentLoaded', () => {
     const container = document.getElementById('app-stories-container');
-    if (!container || !shortsIds || shortsIds.length === 0) return;
+    if (!container || !bsShorts || !fsShorts) return;
 
-    // 무작위로 섞은 뒤 최대 3개 선택 (English는 4개 중 3개, Korean은 5개 중 3개)
-    const shuffled = [...shortsIds].sort(() => 0.5 - Math.random());
-    const displayCount = Math.min(3, shuffled.length);
-    const selectedIds = shuffled.slice(0, displayCount);
+    // 1. BuildSelf에서 랜덤 2개 추출
+    const shuffledBs = [...bsShorts].sort(() => 0.5 - Math.random());
+    const selectedBs = shuffledBs.slice(0, 2);
 
-    selectedIds.forEach((id, index) => {
+    // 2. FreshSelf에서 랜덤 2개 추출
+    const shuffledFs = [...fsShorts].sort(() => 0.5 - Math.random());
+    const selectedFs = shuffledFs.slice(0, 2);
+
+    // 3. 2:2로 추출한 4개 아이템 병합
+    const combined = [...selectedBs, ...selectedFs];
+
+    // 4. 병합한 4개 아이템을 무작위 셔플 (Fisher-Yates Shuffle 적용)
+    for (let i = combined.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [combined[i], combined[j]] = [combined[j], combined[i]];
+    }
+
+    // 5. 셔플 완료된 4개의 스토리를 화면에 동적 렌더링
+    combined.forEach((story, index) => {
       const numLabel = `0${index + 1}`;
       
+      // 앱 브랜드 테마 색상 분기 (규칙 3 테마 색상 준수)
+      const gradientClass = story.appType === 'buildself'
+        ? 'from-teal-500 via-teal-400 to-indigo-500 shadow-[0_10px_30px_rgba(20,184,166,0.2)] hover:shadow-[0_10px_40px_rgba(20,184,166,0.4)]' // BuildSelf: 민트
+        : 'from-purple-600 via-purple-400 to-pink-500 shadow-[0_10px_30px_rgba(139,92,246,0.2)] hover:shadow-[0_10px_40px_rgba(139,92,246,0.4)]'; // FreshSelf: 보라/핑크
+        
+      const hoverTextColor = story.appType === 'buildself'
+        ? 'group-hover:text-teal-600 dark:group-hover:text-teal-400'
+        : 'group-hover:text-purple-600 dark:group-hover:text-purple-400';
+
+      const storyTitle = story.appType === 'buildself'
+        ? `BuildSelf ${numLabel}`
+        : `FreshSelf ${numLabel}`;
+
       const button = document.createElement('button');
       button.className = "group flex flex-col items-center gap-2.5 flex-shrink-0 focus:outline-none";
-      button.onclick = () => window.openShortsModal(id);
+      button.onclick = () => window.openShortsModal(story.id, story.appType);
       
       button.innerHTML = `
-        <div class="relative w-[80px] h-[80px] md:w-[96px] md:h-[96px] rounded-full p-[3px] bg-gradient-to-tr from-brand-500 via-teal-400 to-indigo-500 shadow-[0_10px_30px_rgba(20,184,166,0.2)] hover:shadow-[0_10px_40px_rgba(20,184,166,0.4)] transition-all animate-[spin_8s_linear_infinite]">
+        <div class="relative w-[80px] h-[80px] md:w-[96px] md:h-[96px] rounded-full p-[3px] bg-gradient-to-tr ${gradientClass} transition-all animate-[spin_8s_linear_infinite]">
           <div class="absolute inset-0 bg-white dark:bg-slate-900 rounded-full m-[3px]"></div>
           <div class="relative w-full h-full rounded-full overflow-hidden border-2 border-white dark:border-slate-900 animate-[spin_8s_linear_infinite_reverse]">
             <img 
-              src="https://img.youtube.com/vi/${id}/hqdefault.jpg" 
-              alt="BuildSelf Highlight ${numLabel}" 
+              src="https://img.youtube.com/vi/${story.id}/hqdefault.jpg" 
+              alt="${story.label} Highlight ${numLabel}" 
               class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500 bg-slate-200 dark:bg-slate-800" 
             />
             <div class="absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
@@ -55,8 +90,8 @@ const shortsIds = availableShorts.map(s => s.id);
             </div>
           </div>
         </div>
-        <span class="text-[12px] md:text-[13px] font-black text-slate-800 dark:text-slate-200 tracking-tight transition-colors group-hover:text-teal-600 dark:group-hover:text-teal-400 mt-1 uppercase">
-          BuildSelf ${numLabel}
+        <span class="text-[12px] md:text-[13px] font-black text-slate-800 dark:text-slate-200 tracking-tight transition-colors ${hoverTextColor} mt-1 uppercase">
+          ${storyTitle}
         </span>
       `;
       

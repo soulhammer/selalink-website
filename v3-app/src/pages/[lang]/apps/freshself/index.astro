@@ -1,6 +1,8 @@
 ---
 import Layout from '../../../../layouts/Layout.astro';
 import { useTranslations, languages } from '../../../../i18n/ui';
+import ShortsGallery from '../../../../components/ShortsGallery.astro';
+import ShortsPlayerModal from '../../../../components/ShortsPlayerModal.astro';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -212,6 +214,8 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
       </div>
     </section>
 
+
+
     <!-- Bento Section 3: Smart Report Analysis -->
     <section class="relative z-10 w-full max-w-5xl mx-auto px-6 py-20 border-t border-slate-200/50 dark:border-slate-800/40 text-center">
       <div class="max-w-3xl mx-auto mb-16 space-y-4">
@@ -251,6 +255,11 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
         </div>
       </div>
     </section>
+
+    <!-- FreshSelf Promo Shorts Gallery (최하단 배치 및 가로 정렬 래퍼 추가) -->
+    <div class="relative z-10 w-full max-w-7xl mx-auto px-6 pb-24">
+      <ShortsGallery lang={lang} appType="freshself" />
+    </div>
   </main>
 
   <!-- Toast Notification Popover -->
@@ -281,4 +290,6 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
       });
     }
   </script>
+  
+  <ShortsPlayerModal lang={lang} />
 </Layout>

@@ -74,5 +74,17 @@
       { "id": "v-eBQBY1x3M", "mentorId": "montessori" },
       { "id": "QUATVSMWIEQ", "mentorId": "gehrig" }
     ]
+  },
+  "freshself": {
+    "ko": [
+      { "id": "ibeMTi6Y3AM", "title": "어린 왕자" },
+      { "id": "FRI3OdsEcyc", "title": "강아지와 나" },
+      { "id": "Fculvfrgah8", "title": "산타와 루돌프" }
+    ],
+    "en": [
+      { "id": "ibeMTi6Y3AM", "title": "The Little Prince" },
+      { "id": "FRI3OdsEcyc", "title": "Puppy and Me" },
+      { "id": "Fculvfrgah8", "title": "Santa and Rudolph" }
+    ]
   }
 }

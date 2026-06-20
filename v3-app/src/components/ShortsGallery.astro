@@ -2,49 +2,79 @@
 import { useTranslations } from '../i18n/ui';
 import shortsData from '../data/shorts.json';
 
-const { lang } = Astro.props;
+interface Props {
+  lang: string;
+  appType?: 'buildself' | 'freshself';
+}
+
+const { lang, appType = 'buildself' } = Astro.props;
 const t = useTranslations(lang);
 
-// 언어 폴백 적용: 해당 lang에 배열이 없으면 'en' 배열을 꺼내 옴
-const availableShorts = shortsData.buildself[lang] || shortsData.buildself['en'];
+// 안전하게 해당 앱의 언어별 쇼츠 리스트 바인딩
+const availableShorts = shortsData[appType]?.[lang] || shortsData[appType]?.['en'] || [];
+
+// 브랜드 고유 테마 컬러 및 텍스트 매핑 설정 (규칙 3 테마 색상 준수)
+const theme = appType === 'buildself' 
+  ? {
+      tagBg: 'bg-teal-50 dark:bg-teal-500/10 border-teal-200 dark:border-teal-500/30',
+      tagText: 'text-teal-600 dark:text-teal-400',
+      tagDot: 'bg-teal-500',
+      borderHover: 'hover:border-teal-400 dark:hover:border-teal-500',
+      btnBg: 'group-hover:bg-teal-500 group-hover:border-teal-400 group-hover:shadow-[0_0_40px_rgba(20,184,166,0.6)]',
+      titleKey: 'bs.shorts.gallery.title',
+      descKey: 'bs.shorts.gallery.desc',
+      storyKey: 'bs.shorts.story'
+    }
+  : {
+      tagBg: 'bg-purple-50 dark:bg-purple-500/10 border-purple-200 dark:border-purple-500/30',
+      tagText: 'text-purple-600 dark:text-purple-400',
+      tagDot: 'bg-purple-500',
+      borderHover: 'hover:border-purple-400 dark:hover:border-purple-500',
+      btnBg: 'group-hover:bg-purple-500 group-hover:border-purple-400 group-hover:shadow-[0_0_40px_rgba(139,92,246,0.6)]',
+      titleKey: 'fs.shorts.gallery.title',
+      descKey: 'fs.shorts.gallery.desc',
+      storyKey: 'fs.shorts.story'
+    };
 ---
 
 <section class="mt-20 lg:mt-32 pt-16 border-t border-slate-200 dark:border-slate-800">
   <div class="mb-12 flex flex-col items-center md:items-start text-center md:text-left">
-    <div class="inline-flex items-center px-4 py-2 rounded-full bg-teal-50 dark:bg-teal-500/10 border border-teal-200 dark:border-teal-500/30 shadow-sm mb-6">
-      <span class="w-2 h-2 rounded-full bg-teal-500 animate-pulse mr-2"></span>
-      <span class="font-bold text-teal-600 dark:text-teal-400 text-xs md:text-sm tracking-widest uppercase">{t('bs.shorts.story')}</span>
+    <div class={`inline-flex items-center px-4 py-2 rounded-full border shadow-sm mb-6 ${theme.tagBg}`}>
+      <span class={`w-2 h-2 rounded-full animate-pulse mr-2 ${theme.tagDot}`}></span>
+      <span class={`font-bold text-xs md:text-sm tracking-widest uppercase ${theme.tagText}`}>{t(theme.storyKey)}</span>
     </div>
-    <h2 class="text-3xl md:text-5xl font-black text-slate-900 dark:text-white tracking-tight mb-4">{t('bs.shorts.gallery.title')}</h2>
-    <p class="text-lg text-slate-600 dark:text-slate-400 font-medium max-w-2xl">{t('bs.shorts.gallery.desc')}</p>
+    <h2 class="text-3xl md:text-5xl font-black text-slate-900 dark:text-white tracking-tight mb-4">{t(theme.titleKey)}</h2>
+    <p class="text-lg text-slate-600 dark:text-slate-400 font-medium max-w-2xl">{t(theme.descKey)}</p>
   </div>
 
   <div class="flex gap-4 md:gap-8 overflow-x-auto pb-10 hide-scrollbar snap-x snap-mandatory px-4 md:px-0 -mx-4 md:mx-0">
     {availableShorts.map((short) => (
       <button 
-        onclick={`window.openShortsModal('${short.id}')`}
-        class="group relative flex-shrink-0 w-64 md:w-[320px] aspect-[9/16] rounded-[2rem] overflow-hidden shadow-xl snap-center focus:outline-none border-2 border-slate-200 dark:border-slate-800 hover:border-teal-400 dark:hover:border-teal-500 transition-colors"
+        onclick={`window.openShortsModal('${short.id}', '${appType}')`}
+        class={`group relative flex-shrink-0 w-64 md:w-[320px] aspect-[9/16] rounded-[2rem] overflow-hidden shadow-xl snap-center focus:outline-none border-2 border-slate-200 dark:border-slate-800 transition-colors ${theme.borderHover}`}
       >
-         <div class="absolute inset-0 bg-slate-200 dark:bg-slate-800 animate-pulse z-0"></div>
+        <div class="absolute inset-0 bg-slate-200 dark:bg-slate-800 animate-pulse z-0"></div>
         <img 
           src={`https://img.youtube.com/vi/${short.id}/maxresdefault.jpg`} 
-          alt="BuildSelf Highlight" 
+          alt={`${appType} Highlight`} 
           class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700 relative z-10"
           onerror={`this.onerror=null; this.src='https://img.youtube.com/vi/${short.id}/hqdefault.jpg';`}
         />
         <!-- 그라데이션 오버레이 및 플레이 버튼 -->
         <div class="absolute inset-0 bg-gradient-to-t from-black/95 via-black/40 to-transparent flex flex-col justify-end p-6 z-20 transition-all duration-500">
-          <div class="w-14 h-14 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white border border-white/50 group-hover:bg-teal-500 group-hover:border-teal-400 transition-all duration-300 self-center mb-6 shadow-2xl group-hover:shadow-[0_0_40px_rgba(20,184,166,0.6)] transform group-hover:-translate-y-2">
+          <div class={`w-14 h-14 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center text-white border border-white/50 transition-all duration-300 self-center mb-6 shadow-2xl transform group-hover:-translate-y-2 ${theme.btnBg}`}>
             <svg class="w-6 h-6 translate-x-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
           </div>
           
           <div class="flex flex-col items-center mt-auto transform transition-transform duration-500 group-hover:-translate-y-1">
             <span class="text-white font-black text-2xl drop-shadow-lg tracking-tight text-center">
-              {t(`bs.mentor.${short.mentorId}.short`)}
+              {appType === 'buildself' ? t(`bs.mentor.${short.mentorId}.short`) : short.title}
             </span>
-            <span class="text-white/60 text-xs tracking-widest mt-1.5 font-medium line-clamp-1 text-center px-1">
-              {t(`bs.mentor.${short.mentorId}.full`)}
-            </span>
+            {appType === 'buildself' && (
+              <span class="text-white/60 text-xs tracking-widest mt-1.5 font-medium line-clamp-1 text-center px-1">
+                {t(`bs.mentor.${short.mentorId}.full`)}
+              </span>
+            )}
           </div>
         </div>
       </button>
