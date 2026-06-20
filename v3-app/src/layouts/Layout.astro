@@ -11,6 +11,7 @@ export interface Props {
 	image?: string;
 	ogType?: 'website' | 'software';
 	canonicalUrl?: string;
+	robots?: string;
 }
 
 const { 
@@ -21,7 +22,8 @@ const {
 	forceTheme, 
 	image, 
 	ogType = 'website',
-	canonicalUrl
+	canonicalUrl,
+	robots
 } = Astro.props;
 
 const currentPath = Astro.url.pathname;
@@ -97,7 +99,7 @@ const getPathForLang = (targetLang: string) => {
 		})()}
 
 		<!-- AI & Semantic SEO Rules -->
-		<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+		<meta name="robots" content={robots || "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"} />
 		<meta name="author" content="SelaLink Studio" />
 		
 		<!-- Comprehensive JSON-LD Structured Data for AI Search -->
@@ -117,6 +119,9 @@ const getPathForLang = (targetLang: string) => {
 				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.buildself");
 			} else if (isFreshSelf) {
 				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.freshself");
+			} else {
+				// 메인/기타 페이지일 때 공식 유튜브 채널 바인딩
+				sameAsLinks.push("https://www.youtube.com/channel/UChmmgdbcjP5PnVE-WGUspgA");
 			}
 			
 			return (
@@ -133,6 +138,11 @@ const getPathForLang = (targetLang: string) => {
 							"@type": "Offer",
 							"price": "0",
 							"priceCurrency": "USD"
+						},
+						"publisher": {
+							"@type": "Organization",
+							"name": "SelaLink Studio",
+							"url": "https://selalink.net/"
 						}
 					} : {}),
 					...(sameAsLinks.length > 0 ? {

@@ -13,7 +13,7 @@ const isKo = lang === 'ko';
 const title = isKo ? '개인정보처리방침' : 'Privacy Policy';
 ---
 
-<Layout title={`${title} | BuildSelf`} lang={lang as string}>
+<Layout title={`${title} | BuildSelf`} lang={lang as string} robots="noindex, follow">
   <main class="w-full bg-[#FAFAF9] dark:bg-[#1C1917] min-h-screen font-sans text-stone-900 dark:text-[#FAFAF9] pt-32 pb-24 px-6 transition-colors duration-500">
     <div class="max-w-3xl mx-auto flex flex-col items-start gap-8">
       <a href={`/${lang}/apps/buildself`} class="group inline-flex items-center space-x-2 text-emerald-600 dark:text-[#059669] hover:text-emerald-800 dark:hover:text-[#10B981] transition-colors duration-300">

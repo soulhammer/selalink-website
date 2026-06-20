@@ -16,7 +16,19 @@ export default defineConfig({
     filter: (page) => {
       try {
         const url = new URL(page);
-        return url.pathname !== '/apps/freshself/' && url.pathname !== '/apps/buildself/';
+        
+        // 1. 언어 중립 리다이렉트 페이지 제외
+        if (url.pathname === '/apps/freshself/' || url.pathname === '/apps/buildself/') {
+          return false;
+        }
+        
+        // 2. 모든 언어의 규정/약관/데이터 삭제 페이지 제외 (noindex 대상)
+        const isLegalPage = /\/(privacy|terms|data-deletion)\/?$/.test(url.pathname);
+        if (isLegalPage) {
+          return false;
+        }
+        
+        return true;
       } catch (e) {
         return true;
       }
