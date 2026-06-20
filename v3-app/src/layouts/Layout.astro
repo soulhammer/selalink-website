@@ -83,7 +83,23 @@ const getPathForLang = (targetLang: string) => {
 		<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0b0c10" />
 		
 		<!-- Local Search Keywords Backup -->
-		<meta name="keywords" content={keywords || "SelaLink, 셀라링크, BuildSelf, 빌드셀프, MoodSelf, 무드셀프, FreshSelf, 프레쉬셀프, 프레시셀프, 습관형성, 감정일기, 살림비서, 유통기한 관리, habit tracker, mood tracker, productivity"} />
+		{(() => {
+			const t = useTranslations(lang as any);
+			const isBuildSelf = Astro.url.pathname.includes('/apps/buildself') || appId === 'buildself';
+			const isFreshSelf = (Astro.url.pathname.includes('/apps/freshself') && !Astro.url.pathname.includes('/apps/storeself')) || appId === 'freshself';
+			const isStoreSelf = Astro.url.pathname.includes('/apps/storeself') || appId === 'storeself';
+			const isMoodSelf = Astro.url.pathname.includes('/apps/moodself') || appId === 'moodself';
+
+			let fallbackKeywords = keywords;
+			if (!fallbackKeywords) {
+				if (isBuildSelf) fallbackKeywords = t('app.buildself.meta.keywords');
+				else if (isFreshSelf) fallbackKeywords = t('app.freshself.meta.keywords');
+				else if (isStoreSelf) fallbackKeywords = t('app.storeself.meta.keywords');
+				else if (isMoodSelf) fallbackKeywords = t('app.moodself.meta.keywords');
+				else fallbackKeywords = t('meta.keywords');
+			}
+			return <meta name="keywords" content={fallbackKeywords} />;
+		})()}
 		
 		<!-- Search Engine Verification -->
 		<meta name="naver-site-verification" content="1060c1abc665f9d239ecdc584674b5fbac97f34d" />
@@ -149,17 +165,53 @@ const getPathForLang = (targetLang: string) => {
 				// 메인/기타 페이지일 때 공식 유튜브 채널 바인딩
 				sameAsLinks.push("https://www.youtube.com/channel/UChmmgdbcjP5PnVE-WGUspgA");
 			}
+
+			const t = useTranslations(lang as any);
+			
+			const alternateNames = [];
+			if (isBuildSelf) {
+				alternateNames.push(t('app.buildself.title'), "빌드셀프", "BuildSelf");
+			} else if (isFreshSelf) {
+				alternateNames.push(t('app.freshself.title'), "프레시셀프", "프레쉬셀프", "FreshSelf");
+			} else if (isStoreSelf) {
+				alternateNames.push(t('app.storeself.title'), "스토어셀프", "StoreSelf");
+			} else if (isMoodSelf) {
+				alternateNames.push(t('app.moodself.title'), "무드셀프", "MoodSelf");
+			}
+			
+			let appFeatures = [];
+			if (isBuildSelf) {
+				appFeatures = (t('app.buildself.meta.features') || '').split(',');
+			} else if (isFreshSelf) {
+				appFeatures = (t('app.freshself.meta.features') || '').split(',');
+			} else if (isStoreSelf) {
+				appFeatures = (t('app.storeself.meta.features') || '').split(',');
+			} else if (isMoodSelf) {
+				appFeatures = (t('app.moodself.meta.features') || '').split(',');
+			}
+			
+			let pageKeywords = keywords;
+			if (!pageKeywords) {
+				if (isBuildSelf) pageKeywords = t('app.buildself.meta.keywords');
+				else if (isFreshSelf) pageKeywords = t('app.freshself.meta.keywords');
+				else if (isStoreSelf) pageKeywords = t('app.storeself.meta.keywords');
+				else if (isMoodSelf) pageKeywords = t('app.moodself.meta.keywords');
+				else pageKeywords = t('meta.keywords');
+			}
 			
 			return (
 				<script type="application/ld+json" set:html={JSON.stringify({
 					"@context": "https://schema.org",
 					"@type": ogType === 'software' ? "SoftwareApplication" : "Organization",
 					"name": ogType === 'software' ? appName : "SelaLink Studio",
+					"alternateName": alternateNames.length > 0 ? alternateNames : undefined,
 					"url": formattedUrl,
 					"description": description,
+					"keywords": pageKeywords,
 					...(ogType === 'software' ? {
 						"applicationCategory": appCategory,
 						"operatingSystem": "iOS, Android",
+						"featureList": appFeatures.length > 0 ? appFeatures : undefined,
 						"offers": {
 							"@type": "Offer",
 							"price": "0",

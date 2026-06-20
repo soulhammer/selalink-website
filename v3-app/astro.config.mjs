@@ -18,7 +18,11 @@ export default defineConfig({
         const url = new URL(page);
         
         // 1. 언어 중립 리다이렉트 페이지 제외
-        if (url.pathname === '/apps/freshself/' || url.pathname === '/apps/buildself/') {
+        if (
+          url.pathname === '/apps/freshself/' || 
+          url.pathname === '/apps/buildself/' ||
+          url.pathname === '/apps/storeself/'
+        ) {
           return false;
         }
         
