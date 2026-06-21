@@ -334,7 +334,17 @@ const categoryCounts = categories.reduce((acc, cat) => {
       <!-- 글로벌 신뢰성 뱃지 그룹 (대비 대폭 개선) -->
       <div class="flex flex-col items-center gap-2 mt-6 select-none">
         <div class="flex flex-wrap justify-center gap-1.5 max-w-xl">
-          {['WHO / FAO', 'EFSA (EU)', 'USDA (U.S.)', 'FSA (UK)', 'MFDS (KR)'].map((org) => (
+          {[
+            'WHO / FAO',
+            'EFSA (EU)',
+            'USDA (U.S.)',
+            'FSA (UK)',
+            'CDC (U.S.)',
+            'MFDS (KR)',
+            'RDA (KR)',
+            'NIFS (KR)',
+            'KCA (KR)'
+          ].map((org) => (
             <span class="text-[10px] md:text-xs font-bold uppercase tracking-wider bg-slate-200/50 dark:bg-slate-800/80 text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-full border border-slate-300/80 dark:border-slate-700/80 hover:border-emerald-500 dark:hover:border-emerald-400 transition-colors duration-300">
               {org}
             </span>
