@@ -329,7 +329,8 @@ export const meatIngredients: Ingredient[] = [
           de: 'Nach dem Öffnen gut einwickeln und in Beuteln lagern, um Austrocknen zu verhindern. In 7 Tagen verbrauchen.',
           pt: 'Após aberto, embrulhe bien e guarde em sacos vedados para não ressecar as bordas. Consuma em até 7 dias.',
           id: 'Setelah dibuka, bungkus rapat dan segel dalam kantong agar pinggirannya tidak kering. Gunakan dalam 7 hari.'
-        }
+        },
+        sources: ['USDA', 'MFDS']
       },
       freezer: {
         durationDays: 60,
@@ -343,7 +344,8 @@ export const meatIngredients: Ingredient[] = [
           de: 'Würfeln, Schichten mit Backpapier trennen, einwickeln und einfrieren für schnelles Kochen.',
           pt: 'Corte em cubos ou fatias, separe as camadas com papel-manteiga, embrulhe e congele para facilitar.',
           id: 'Potong dadu atau iris, beri sekat kertas roti, bungkus, lalu bekukan untuk memudahkan memasak.'
-        }
+        },
+        sources: ['USDA', 'MFDS']
       }
     }
   },

@@ -38,7 +38,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Embrulhe em jornal com as raízes intactas e guarde em local fresco e com sombra.',
           id: 'Bungkus dengan koran dengan akar utuh dan simpan di tempat yang sejuk dan teduh.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS', 'USDA']
       },
       fridge: {
         durationDays: 14,
@@ -53,7 +53,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Seque completamente, corte na altura do recipiente e guarde verticalmente com as raízes para baixo.',
           id: 'Keringkan sepenuhnya, potong sesuai tinggi wadah, dan simpan secara vertikal dengan akar menghadap ke bawah.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS', 'USDA']
       },
       freezer: {
         durationDays: 180,
@@ -68,7 +68,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Pique, divida em sacos herméticos e congele. Use diretamente na cozinha sem descongelar.',
           id: 'Cincang, bagi ke dalam kantong kedap udara, lalu bekukan. Gunakan langsung dalam masakan tanpa mencairkannya.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS', 'USDA']
       }
     }
   },
@@ -225,7 +225,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Pendure o alho inteiro em uma rede em local fresco e arejado. A ventilação é fundamental.',
           id: 'Gantung bawang putih utuh dalam jaring di tempat yang sejuk dan berventilasi. Ventilasi adalah kunci.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       },
       fridge: {
         durationDays: 14,
@@ -255,7 +255,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Congele o alho picado em formas de gelo ou achatado em sacos, depois corte em porções.',
           id: 'Bekukan bawang putih cincang dalam cetakan es atau pipihkan dalam kantong, lalu potong-potong.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -289,7 +289,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Se estiver verde, coloque em um saco de papel com bananas ou maçãs e amadureça à temperatura ambiente.',
           id: 'Jika belum matang (hijau), taruh di kantong kertas bersama pisang atau apel dan matangkan di suhu ruang.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       },
       fridge: {
         durationDays: 7,
@@ -304,7 +304,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Refrigere assim que estiver maduro (casca marrom e macio ao toque) para retardar a deterioração.',
           id: 'Masukkan ke lemari es setelah matang (kulit cokelat dan empuk saat ditekan) untuk memperlambat pembusukan.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -511,7 +511,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Sensível ao frio, guarde na gaveta de vegetais. Embrulhe individualmente em jornal e mantenha em pé.',
           id: 'Sensitif dingin, simpan di laci sayur. Bungkus satu per satu dengan koran dan posisikan berdiri.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -545,7 +545,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Seque tudo, embrulhe em filme e refrigere. O pedúnculo mofa primeiro; garanta que esteja seco.',
           id: 'Keringkan, bungkus plastik wrap, dinginkan. Tangkai cepat busuk; pastikan tangkai kering.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -628,7 +628,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Seque pimentas sem lavar e guarde em pote forrado. Mantenha os cabinhos para não desidratar.',
           id: 'Keringkan cabai yang belum dicuci di wadah beralas tisu. Jangan buang tangkai agar tidak layu.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       },
       freezer: {
         durationDays: 180,
@@ -643,7 +643,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Pique e congele em sacos herméticos. Muito prático para adicionar diretamente nos pratos ao cozinhar.',
           id: 'Cincang dan bekukan dalam kantong plastik. Praktis untuk langsung dimasukkan saat memasak.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -677,7 +677,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Embrulhe em jornal com a terra intacta e guarde em local fresco, sombreado e ventilado.',
           id: 'Bungkus dengan koran beserta tanahnya dan simpan di tempat yang sejuk, teduh, dan berventilasi.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       },
       fridge: {
         durationDays: 30,
@@ -692,7 +692,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Descasque, mergulhe em água em pote hermético e troque a água a cada 1 ou 2 dias.',
           id: 'Kupas, rendam dalam air dalam wadah kedap udara, dan ganti airnya setiap 1-2 hari sekali.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       },
       freezer: {
         durationDays: 180,
@@ -707,7 +707,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Fatie ou pique, aplane em sacos de congelador e congele. Use diretamente ao cozinhar.',
           id: 'Iris atau cincang, pipihkan dalam kantong plastik, lalu bekukan. Gunakan langsung saat memasak.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -742,7 +742,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Corte as folhas para evitar perda de umidade. Embrulhe bem in jornal e guarde em pé na geladeira.',
           id: 'Potong daunnya untuk mencegah hilangnya air. Bungkus rapat dengan koran dan simpan berdiri di kulkas.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       },
       freezer: {
         durationDays: 90,
@@ -757,7 +757,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Corte, branqueie em água com sal, esfrie, seque bem e congele em porções.',
           id: 'Potong, rebus sebentar di air garam, dinginkan, keringkan sepenuhnya, lalu bekukan dalam porsi.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -792,7 +792,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Mergulhe totalmente em água fria em pote hermético. Troque a água diariamente para manter a crocância.',
           id: 'Rendam seluruhnya dalam air dingin di wadah kedap udara. Ganti air setiap hari agar tetap renyah.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       },
       freezer: {
         durationDays: 30,
@@ -807,7 +807,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Branqueie em água fervente com sal por 30s, esfrie, esprema bem a água e congele para caldos.',
           id: 'Rebus di air garam mendidih selama 30 detik, bilas air dingin, peras airnya, lalu bekukan untuk sup.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -841,7 +841,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Sensível ao frio. Embrulhe individualmente em jornal e guarde em local fresco e com sombra.',
           id: 'Sangat sensitif terhadap dingin. Bungkus satu per satu dengan koran, simpan di tempat sejuk dan teduh.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       },
       fridge: {
         durationDays: 3,
@@ -856,7 +856,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Se precisar refrigerar, embrulhe em jornal e guarde na gaveta de vegetais; consuma em até 3 dias.',
           id: 'Jika harus didinginkan, bungkus koran dan taruh di laci sayur; gunakan dalam 3 hari.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -891,7 +891,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Abóboras inteiras e sem cortes duram mais de um mês em local fresco e escuro à temperatura ambiente.',
           id: 'Labu utuh yang belum dipotong awet lebih dari sebulan di ruangan sejuk dan gelap.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       },
       fridge: {
         durationDays: 7,
@@ -906,7 +906,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Retire as sementes e a polpa completamente, pois mofam primeiro. Cubra os cortes com papel-toalha e embrulhe.',
           id: 'Keruk biji dan serabutnya sampai bersih karena cepat berjamur. Alasi tisu pada potongan lalu bungkus rapat.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       },
       freezer: {
         durationDays: 180,
@@ -921,7 +921,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Descasque, corte e cozinhe no vapor ou faça purê. Congele em sacos em porções para sopas ou papinhas.',
           id: 'Kupas, potong, kukus atau haluskan. Bekukan dalam kantong porsi sekali pakai untuk sup atau makanan bayi.'
         },
-        sources: ['RDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -1017,7 +1017,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Manter a umidade é fundamental. Corte os talos, submerja em água fria em pote fechado e guarde na gaveta. Fica crocante por 2 semanas. Troque a água a cada 2-3 dias.',
           id: 'Menjaga air adalah kunci. Potong seledri, rendam air dingin di wadah kedap, taruh laci sayur. Renyah 2 minggu. Ganti air tiap 2-3 hari.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -1318,7 +1318,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Não lave. Cubra o talo com papel-toalha úmido e embrulhe firme em filme plástico. Rasgue com as mãos para evitar que escureça com faca.',
           id: 'Jangan cuci. Tutup bagian batang dengan tisu basah, lalu bungkus rapat plastik wrap. Robek dengan tangan agar tidak cokelat karena pisau.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },

@@ -280,7 +280,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Estraga muito rápido após abrir. Sele bem a abertura e consuma em até 5 dias.',
           id: 'Sangat cepat basi setelah dibuka. Segel rapat mulut kemasan dan habiskan dalam 5 hari.'
         },
-        sources: ['MFDS']
+        sources: ['MFDS', 'USDA']
       }
     }
   },
@@ -315,7 +315,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Caixas fechadas podem ser armazenadas em local seco e fresco à temperatura ambiente.',
           id: 'Kemasan karton steril yang belum dibuka dapat disimpan di tempat sejuk dan kering.'
         },
-        sources: ['MFDS']
+        sources: ['MFDS', 'USDA']
       },
       fridge: {
         durationDays: 7,
@@ -330,7 +330,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Depois de aberto, refrigere imediatamente e consuma em até 7 dias, independente da data de validade.',
           id: 'Setelah dibuka, segera dinginkan dan konsumsi dalam 7 hari tanpa melihat tanggal kedaluwarsa.'
         },
-        sources: ['MFDS']
+        sources: ['MFDS', 'USDA']
       }
     }
   },

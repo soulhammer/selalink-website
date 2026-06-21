@@ -82,7 +82,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Temperaturas muito frias separam o óleo. Guarde em áreas mais quentes como a porta da geladeira.',
           id: 'Suhu terlalu dingin (bagian dalam kulkas) memisahkan minyak. Simpan di tempat hangat seperti pintu kulkas.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -117,7 +117,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'A acidez conserva, mas refrigere após abrir para manter o sabor. Guarde de cabeça para baixo.',
           id: 'Bisa di suhu ruang karena asam, tapi dinginkan setelah dibuka untuk menjaga rasa. Simpan terbalik.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -235,7 +235,8 @@ export const condimentIngredients: Ingredient[] = [
           de: 'Kimchi unter der Flüssigkeit halten und die Oberfläche abdecken, um Kahmhaut zu vermeiden.',
           pt: 'Mantenha o kimchi mergulhado no caldo e cubra a superfície com plástico para evitar levedura branca.',
           id: 'Jaga kimchi terendam dalam airnya dan tutup permukaannya dengan plastik wrap untuk mencegah ragi putih.'
-        }
+        },
+        sources: ['MFDS']
       },
       freezer: {
         durationDays: 180,
@@ -249,7 +250,8 @@ export const condimentIngredients: Ingredient[] = [
           de: '⚠️ Gefrieren zerstört die knackige Konsistenz. Gefrorener Kimchi wird matschig und eignet sich nur zum Kochen.',
           pt: '⚠️ Congelar danifica a textura da acelga, que fica mole. Use apenas para pratos cozidos como ensopados.',
           id: '⚠️ Membekukan merusak tekstur renyahnya. Kimchi beku menjadi lembek dan hanya cocok untuk masakan matang.'
-        }
+        },
+        sources: ['MFDS']
       }
     }
   },
@@ -283,7 +285,8 @@ export const condimentIngredients: Ingredient[] = [
           de: 'Licht- und hitzeempfindlich. In dunklen Flaschen kühl (15-25°C) und fern vom Herd lagern.',
           pt: 'Sensível à luz e calor. Guarde em garrafas escuras em local fresco (15-25°C) longe do fogão.',
           id: 'Rentan terhadap cahaya dan panas. Simpan di botol gelap pada suhu ruang (15-25°C) jauh dari kompor.'
-        }
+        },
+        sources: ['USDA', 'MFDS']
       },
       fridge: {
         durationDays: 0,
@@ -297,7 +300,8 @@ export const condimentIngredients: Ingredient[] = [
           de: '⚠️ Niemals kühlen! Natives Olivenöl extra verfestigt sich und kristallisiert im Kühlschrank.',
           pt: '⚠️ Nunca refrigere! O azeite de oliva extravirgem se solidifica e cristaliza sob baixas temperaturas.',
           id: '⚠️ Jangan pernah dinginkan! Minyak zaitun ekstra murni membeku dan mengkristal di suhu dingin.'
-        }
+        },
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -435,7 +439,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Fechado dura de 18 a 24 meses em local fresco e escuro.',
           id: 'Sebelum dibuka awet 18-24 bulan di lemari makanan yang sejuk dan gelap.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       },
       fridge: {
         durationDays: 90,

@@ -31,7 +31,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Resseca se deixada aberta. Vede em sacos e aqueça no micro-ondas com um copo de água para reidratar.',
           id: 'Mengering jika dibiarkan terbuka. Segel dalam kantong plastik dan microwave dengan secangkir air.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       },
       freezer: {
         durationDays: 60,
@@ -46,7 +46,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Embrulhe as fatias individualmente e congele. Aqueça na air fryer a 180°C por 5 minutos para dourar.',
           id: 'Bungkus potongan per lembar lalu bekukan. Panggang di air fryer 180°C selama 5 menit agar renyah.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -81,7 +81,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Vulnerável à luz e oxigênio. Guarde em saco escuro hermético com válvula em temperatura ambiente.',
           id: 'Biji kopi rentan terhadap cahaya dan oksigen. Simpan di wadah kedap udara gelap dengan katup aroma di suhu ruang.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       },
       freezer: {
         durationDays: 180,
@@ -96,7 +96,7 @@ export const etcIngredients: Ingredient[] = [
           pt: '⚠️ O café absorve odores facilmente. Vede a vácuo ou use saco duplo para evitar odores do congelador.',
           id: '⚠️ Kopi sangat mudah menyerap bau. Segel vakum atau bungkus ganda agar bau freezer tidak merusak rasa.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -131,7 +131,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Guarde em sacos e coma em até 3 dias. Reaquecer na air fryer a 170°C por 5 minutos devolve a crocância.',
           id: 'Simpan dalam kantong plastik selama 3 hari. Panaskan dengan air fryer 170°C selama 5 menit agar renyah.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -215,7 +215,8 @@ export const etcIngredients: Ingredient[] = [
           de: 'Ungesättigte Fettsäuren oxidieren schnell. Luftdicht mit Sauerstoffabsorber dunkel lagern.',
           pt: 'Gorduras insaturadas oxidam rapidamente. Vede bem com absorvedores de oxigênio em local escuro.',
           id: 'Lemak tak jenuh memicu oksidasi cepat. Segel rapat dengan penyerap oksigen di tempat gelap.'
-        }
+        },
+        sources: ['USDA', 'FDA']
       },
       fridge: {
         durationDays: 180,
@@ -229,7 +230,8 @@ export const etcIngredients: Ingredient[] = [
           de: 'Bei warmem Wetter im Kühlschrank in dicht geschlossenen Beuteln lagern, um Schimmelbildung (Aflatoxin) zu verhindern.',
           pt: 'Refrigere em sacos bem vedados sob clima quente para evitar o crescimento de mofo tóxico (aflatoxina).',
           id: 'Dinginkan dalam kantong tersegel rapat saat cuaca panas untuk mencegah jamur beracun (aflatoksin).'
-        }
+        },
+        sources: ['USDA', 'FDA']
       },
       freezer: {
         durationDays: 365,
@@ -243,7 +245,8 @@ export const etcIngredients: Ingredient[] = [
           de: 'Doppelt verpackt einfrieren ist der beste Weg, um Ranzigkeit zu vermeiden und den Biss zu erhalten.',
           pt: 'Usar saco duplo e congelar é a melhor forma de evitar o ranço e manter a crocância típica.',
           id: 'Bungkus ganda dan bekukan adalah cara terbaik mencegah tengik dan menjaga kerenyahannya.'
-        }
+        },
+        sources: ['USDA', 'FDA']
       }
     }
   },

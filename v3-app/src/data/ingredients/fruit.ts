@@ -31,7 +31,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Pendure em um suporte e embrulhe o pedúnculo firmemente com filme plástico para retardar o amadurecimento.',
           id: 'Gantung di gantungan pisang, dan bungkus batangnya rapat dengan plastik wrap untuk memperlambat kematangan.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -182,7 +182,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'O pó branco é uma proteção natural. Guarde sem lavar em pote hermético forrado com papel-toalha.',
           id: 'Lapisan putih adalah pelindung alami. Simpan tanpa dicuci di wadah kedap udara beralas tisu dapur.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       },
       freezer: {
         durationDays: 270,
@@ -197,7 +197,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Para congelar, lave bem, seque completamente e congele em sacos herméticos.',
           id: 'Untuk dibekukan, cuci bersih, keringkan sepenuhnya, lalu bekukan di kantong segel.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -265,7 +265,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Lave com bicarbonato, seque e guarde em saco na gaveta de vegetais. Embulhe metade cortada com o lado plano para cima.',
           id: 'Cuci dengan soda kue, keringkan, simpan di laci sayur. Bungkus lemon potongan dengan bagian datar menghadap atas.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -446,7 +446,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Amadureça em temperatura ambiente se estiver duro. Colocar em saco com bananas ou maçãs acelera o processo.',
           id: 'Matangkan di suhu ruang jika keras. Taruh dalam kantong bersama pisang atau apel mempercepat matang.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       },
       fridge: {
         durationDays: 14,
@@ -461,7 +461,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Uma vez maduro e macio, coloque em saco plástico e refrigere para prolongar por até 2 semanas.',
           id: 'Setelah matang dan empuk, masukkan ke kantong plastik dan dinginkan untuk memperpanjang awet hingga 2 minggu.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },

@@ -230,7 +230,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Mofo e insetos proliferam em umidade. Guarde fechado em local seco e fresco apenas a curto prazo.',
           id: 'Jamur dan serangga mudah berkembang di cuaca lembap. Simpan kering dan sejuk untuk jangka pendek saja.'
         },
-        sources: ['MFDS']
+        sources: ['MFDS', 'USDA']
       },
       freezer: {
         durationDays: 365,
@@ -245,7 +245,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Toste levemente sem óleo na frigideira para secar, esfrie e congele em sacos herméticos para evitar odores.',
           id: 'Sangrai tanpa minyak untuk menghilangkan kelembapan, dinginkan, lalu bekukan dalam kantong plastik.'
         },
-        sources: ['MFDS']
+        sources: ['MFDS', 'USDA']
       }
     }
   },

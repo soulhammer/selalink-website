@@ -31,7 +31,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'Mofa facilmente em climas úmidos. Mantenha fechado em local seco e fresco, e consuma em 3 dias.',
           id: 'Mudah berjamur di cuaca lembap. Simpan tertutup di tempat yang kering dan sejuk; makan dalam 3 hari.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       },
       freezer: {
         durationDays: 90,
@@ -46,7 +46,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'A refrigeração resseca o pão e acelera o envelhecimento. Embrulhe as fatias individualmente e congele. Toste diretamente.',
           id: 'Mendinginkannya membuat roti kering dan keras. Bungkus per lembar lalu bekukan. Panggang langsung saat beku.'
         },
-        sources: ['USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -81,7 +81,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'Congele imediatamente enquanto estiver macio em sacos de congelador. Congelar depois de duro arruína a textura.',
           id: 'Bekukan segera selagi empuk dalam kantong pembeku. Membekukan setelah keras merusak teksturnya.'
         },
-        sources: ['MFDS']
+        sources: ['MFDS', 'USDA']
       }
     }
   },
