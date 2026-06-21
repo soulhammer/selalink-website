@@ -218,7 +218,7 @@ export const meatIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 14,
+        durationDays: 7,
         tips: {
           ko: '개봉 전에는 최대 2주가량 보관 가능하지만, 개봉하는 즉시 공기와 만나 부패하므로 남은 베이컨은 공기가 들어가지 않게 랩으로 이중 감싸 보관하세요.',
           en: 'Unopened bacon keeps 2 weeks. Once opened, wrap tightly in multiple layers of plastic wrap to keep air out.',
@@ -233,7 +233,7 @@ export const meatIngredients: Ingredient[] = [
         sources: ['USDA', 'USDA']
       },
       freezer: {
-        durationDays: 90,
+        durationDays: 30,
         tips: {
           ko: '종이 유산지에 한 줄씩 올리고 돌돌 말아서 지퍼백에 담아 냉동하세요. 요리할 때 필요한 개수만큼 풀어서 사용하기 편리합니다.',
           en: 'Lay slices on parchment paper, roll them up individually, and freeze in airtight bags.',
@@ -268,7 +268,7 @@ export const meatIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 14,
+        durationDays: 7,
         tips: {
           ko: '개봉 전에는 유통기한을 따르되 개봉 시 밀폐 지퍼백에 넣어 두세요. 요리용 칼집을 넣은 상태로 보관 시 단면을 통해 급격히 변질됩니다.',
           en: 'Follow package dates if unopened. Once opened, store in zip bags; do not slash or slice before storing.',
@@ -283,7 +283,7 @@ export const meatIngredients: Ingredient[] = [
         sources: ['USDA', 'USDA']
       },
       freezer: {
-        durationDays: 90,
+        durationDays: 60,
         tips: {
           ko: '요리에 바로 사용할 수 있게 소분하거나 어슷썰기하여 지퍼백에 넓게 펴서 얼리세요.',
           en: 'Slice or portion into cooking sizes and freeze flat in freezer bags.',

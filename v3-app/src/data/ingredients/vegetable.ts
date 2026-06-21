@@ -41,7 +41,7 @@ export const vegetableIngredients: Ingredient[] = [
         sources: ['RDA']
       },
       fridge: {
-        durationDays: 21,
+        durationDays: 14,
         tips: {
           ko: '물기를 완전히 제거한 후, 용기 높이에 맞게 썰어 뿌리가 아래로 가도록 세워서 밀폐 보관하세요.',
           en: 'Dry completely, slice to container height, and store vertically with roots facing down in an airtight container.',
@@ -1184,17 +1184,17 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 21,
+        durationDays: 14,
         tips: {
-          ko: '물기를 닦고 꼭지 부분을 아래로 하여 키친타월로 감싸 지퍼백에 세워 냉장 보관하세요. 건조를 막아 3주간 신선합니다.',
-          en: 'Dry surface moisture, wrap stems down in paper towels, and store upright in a zipper bag. Stays fresh for 3 weeks.',
-          ja: '水気を拭き取り、茎を下にしてキッチンペーパーで包み、保存袋に立てて冷蔵保管します。3週間新鮮に保てます。',
-          zh: '擦干水分，将叶柄朝下用厨房纸包裹，放入密封袋中竖立冷藏。可防止干燥并保持3周新鲜。',
-          es: 'Seque la humedad, envuelva los tallos hacia abajo en papel y guárdelos verticalmente en una bolsa. Dura fresco 3 semanas.',
-          fr: 'Séchez l’humidité, enveloppez les tiges vers le bas dans du papier et stockez debout. Reste frais 3 semaines.',
-          de: 'Feuchtigkeit abtrocknen, Stiele nach unten in Küchenpapier wickeln und aufrecht im Beutel lagern. Bleibt 3 Wochen frisch.',
-          pt: 'Seque a umidade, embrulhe os cabos para baixo em papel-toalha e guarde em pé. Mantém-se fresco por 3 semanas.',
-          id: 'Keringkan air, bungkus tangkai di bawah dengan tisu, lalu simpan tegak di kantong. Segar selama 3 minggu.'
+          ko: '물기를 닦고 꼭지 부분을 아래로 하여 키친타월로 감싸 지퍼백에 세워 냉장 보관하세요. 건조를 막아 2주간 신선합니다.',
+          en: 'Dry surface moisture, wrap stems down in paper towels, and store upright in a zipper bag. Stays fresh for 2 weeks.',
+          ja: '水気を拭き取り、茎を下にしてキッチンペーパーで包み、保存袋に立てて冷蔵保管します。2週間新鮮に保てます。',
+          zh: '擦干水分，将叶柄朝下用厨房纸包裹，放入密封袋中竖立冷藏。可防止干燥并保持2周新鲜。',
+          es: 'Seque la humedad, envuelva los tallos hacia abajo en papel y guárdelos verticalmente en una bolsa. Dura fresco 2 semanas.',
+          fr: 'Séchez l’humidité, enveloppez les tiges vers le bas dans du papier et stockez debout. Reste frais 2 semaines.',
+          de: 'Feuchtigkeit abtrocknen, Stiele nach unten in Küchenpapier wickeln und aufrecht im Beutel lagern. Bleibt 2 Wochen frisch.',
+          pt: 'Seque a umidade, embrulhe os cabos para baixo em papel-toalha e guarde em pé. Mantém-se fresco por 2 semanas.',
+          id: 'Keringkan air, bungkus tangkai di bawah dengan tisu, lalu simpan tegak di kantong. Segar selama 2 minggu.'
         },
         sources: ['MFDS', 'USDA']
       }
@@ -1225,7 +1225,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 10,
+        durationDays: 7,
         tips: {
           ko: '수분에 매우 약하므로 씻지 말고 키친타월로 감싸 지퍼백에 세워서 보관하세요. 눕혀두면 자체 무게로 쉽게 짓무릅니다.',
           en: 'Very sensitive to moisture. Wrap unwashed in paper towels and store upright in a bag. Lying flat causes bruising under its own weight.',

@@ -25,7 +25,7 @@ export const dairyIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 14,
+        durationDays: 7,
         tips: {
           ko: '냉장고 문 쪽 보관 시 온도 변화가 심해 쉽게 상하므로 안쪽 선반에 두세요. 미개봉 상태에서 0~5℃ 냉장이 잘 유지되면 유통기한 만료 후 최대 45일까지 섭취 가능하나, 개봉 후에는 1주일 이내로 드시는 것이 안전합니다.',
           en: 'Do not store in the door as temperature fluctuates; place on an inner shelf. Unopened milk keeps up to 45 days past expiry if kept at 0–5°C, but consume within 1 week once opened.',
@@ -100,7 +100,7 @@ export const dairyIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 5,
+        durationDays: 3,
         tips: {
           ko: '사용 후 남은 두부는 밀폐용기에 담고 생수와 소금 한 꼬집을 넣어 두부가 완전히 잠기게 한 뒤 보관하세요. 매일 물을 갈아주어야 합니다.',
           en: 'Place leftover tofu in a container, cover fully with fresh water and a pinch of salt. Change water daily.',
@@ -198,7 +198,7 @@ export const dairyIngredients: Ingredient[] = [
         sources: ['USDA', 'EFSA']
       },
       freezer: {
-        durationDays: 365,
+        durationDays: 270,
         tips: {
           ko: '한 번에 쓸 크기로 잘라 종이 유산지에 올려 개별 랩핑한 뒤 냉동하세요. 요리할 때 하나씩 꺼내 쓰기 좋습니다.',
           en: 'Slice into single-use portions, wrap in parchment paper, and freeze in sealed containers.',
