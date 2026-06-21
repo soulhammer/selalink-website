@@ -32,6 +32,21 @@ export const fruitIngredients: Ingredient[] = [
           id: 'Gantung di gantungan pisang, dan bungkus batangnya rapat dengan plastik wrap untuk memperlambat kematangan.'
         },
         sources: ['USDA', 'MFDS']
+      },
+      fridge: {
+        durationDays: 5,
+        tips: {
+          ko: '완전히 숙성되어 단맛이 오른 바나나는 낱개로 잘라 비닐백에 밀봉해 냉장 야채칸에 보관하세요. 껍질은 까맣게 갈변하지만 과육의 연화를 막아 며칠 더 신선하게 먹을 수 있습니다.',
+          en: 'Once fully ripe and sweet, separate and seal individual bananas in plastic bags, then store in the crisper drawer. The skin will darken, but the flesh will remain firm and fresh for a few more days.',
+          ja: '十分に熟して甘くなったバナナは、1本ずつ切り離してビニール袋に密閉し、冷蔵庫の野菜室で保存してください。皮は黒く変色しますが、果肉が柔らかくなるのを防ぎ、さらに数日間新鮮に保てます。',
+          zh: '完全熟透且变甜的香蕉，请拆分成单个并密封在塑料袋中，然后存放在冷藏蔬菜抽屉中。虽然表皮会变黑，但果肉仍能保持紧实新鲜数日。',
+          es: 'Una vez completamente maduro y dulce, separe y selle los plátanos individuales en bolsas de plástico, luego guárdelos en el cajón de verduras. La piel se oscurecerá, pero la pulpa se mantendrá firme y fresca por unos días más.',
+          fr: 'Une fois bien mûres et sucrées, séparez les bananes et scellez-les individuellement dans des sacs en plastique, puis stockez-les dans le bac à légumes. La peau va noircir, mais la chair restera ferme et fraîche pendant quelques jours de plus.',
+          de: 'Sobald sie vollreif und süß sind, trennen Sie die Bananen und verschließen Sie sie einzeln in Plastiktüten. Lagern Sie sie dann im Gemüsefach. Die Schale wird sich dunkel verfärben, aber das Fruchtfleisch bleibt noch einige Tage fest und frisch.',
+          pt: 'Depois de maduras e doces, separe e embale as bananas individualmente em sacos plásticos, guardando na gaveta de vegetais. A casca escurecerá, mas a polpa continuará firme e fresca por mais alguns dias.',
+          id: 'Setelah benar-benar matang dan manis, pisahkan dan segel pisang satu per satu dalam kantong plastik, lalu simpan di laci sayur kulkas. Kulitnya akan menghitam, tetapi daging buahnya tetap kencang dan segar selama beberapa hari lagi.'
+        },
+        sources: ['MFDS', 'FSA']
       }
     }
   },

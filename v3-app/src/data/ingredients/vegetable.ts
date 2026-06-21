@@ -98,15 +98,15 @@ export const vegetableIngredients: Ingredient[] = [
       room: {
         durationDays: 30,
         tips: {
-          ko: '망에 넣어 서로 닿지 않게 매달거나, 신문지에 하나씩 싸서 서늘하고 바람이 잘 통하는 그늘에 보관하세요.',
-          en: 'Hang in a net without touching each other, or wrap individually in newspaper in a cool, well-ventilated shade.',
-          ja: 'ネットに入れて互いに触れないよう吊るすか、1つずつ新聞紙に包んで涼しく風通しの良い日陰で保管してください。',
-          zh: '装入网袋中悬挂避免相互接触，或用报纸单独包裹，存放在凉爽通风的阴凉处。',
-          es: 'Cuélguelas en una red sin que se toquen, o envuélvalas individualmente en papel de periódico en la sombra.',
-          fr: 'Suspendez-les dans un filet sans qu’ils se touchent, ou enveloppez-les individuellement dans du papier journal au frais.',
-          de: 'In einem Netz aufhängen, ohne dass sie sich berühren, oder einzeln in Zeitungspapier an einem kühlen Ort lagern.',
-          pt: 'Pendure em uma rede sem que se toquem, ou embrulhe individualmente em jornal em local fresco e arejado.',
-          id: 'Gantung dalam jaring tanpa bersentuhan, atau bungkus satu per satu dengan koran di tempat yang sejuk dan berventilasi.'
+          ko: '망에 넣어 서로 닿지 않게 매달거나, 신문지에 하나씩 싸서 서늘하고 바람이 잘 통하는 그늘에 보관하세요. 감자와 함께 보관하면 감자의 수분과 양파의 에틸렌 가스로 인해 둘 다 쉽게 상하므로 반드시 분리하여 보관해야 합니다.',
+          en: 'Hang in a net without touching each other, or wrap individually in newspaper in a cool, well-ventilated shade. Keep separate from potatoes, as their mutual moisture and gases accelerate spoilage.',
+          ja: 'ネットに入れて互いに触れないよう吊るすか、1つずつ新聞紙に包んで涼しく風通しの良い日陰で保管してください。ジャガイモと一緒に保管すると、ジャガイモの水分とタマネギのエチレンガスにより両方とも傷みやすくなるため、必ず別々に保管してください。',
+          zh: '装入网袋中悬挂避免相互接触，或用报纸单独包裹，存放在凉爽通风的阴凉处。与土豆一起存放会因土豆的水分和洋葱的乙烯气体导致两者都易腐烂，请务必分开放置。',
+          es: 'Cuélguelas en una red sin que se toquen, o envuélvalas individualmente en papel de periódico en la sombra. Si se guardan con patatas, la humedad de estas y el gas etileno de las cebollas harán que ambas se dañen fácilmente, por lo que deben guardarse por separado.',
+          fr: 'Suspendez-les dans un filet sans qu’ils se touchent, ou enveloppez-les individuellement dans du papier journal au frais. Conservez séparément des pommes de terre, car leur humidité mutuelle et les gaz accélèrent le pourrissement.',
+          de: 'In einem Netz aufhängen, ohne dass sie sich berühren, oder einzeln in Zeitungspapier an einem kühlen Ort lagern. Nicht zusammen mit Kartoffeln lagern, da die gegenseitige Feuchtigkeit und Gase Fäulnis beschleunigen.',
+          pt: 'Pendure em uma rede sem que se toquem, ou embrulhe individualmente em jornal em local fresco e arejado. Guardar com batatas faz com que ambas estraguem facilmente devido à umidade das batatas e ao gás etileno das cebolas, por isso guarde-as separadamente.',
+          id: 'Gantung dalam jaring tanpa bersentuhan, atau bungkus satu per satu dengan koran di tempat yang sejuk dan berventilasi. Menyimpan bersama kentang membuat keduanya mudah busuk akibat kelembapan kentang dan gas etilen bawang bombay, jadi simpan secara terpisah.'
         },
         sources: ['RDA', 'FSA']
       },
@@ -147,15 +147,15 @@ export const vegetableIngredients: Ingredient[] = [
       room: {
         durationDays: 45,
         tips: {
-          ko: '상자나 종이봉투에 담아 바람이 잘 통하는 그늘진 실온에 보관하세요. 사과를 한 개 같이 넣으면 싹 트는 것을 방지합니다.',
-          en: 'Store in a box or paper bag in a well-ventilated, shady room. Adding an apple prevents sprouting.',
-          ja: '箱や紙袋に入れ、風通しの良い日陰の常温で保管してください。りんごを1個一緒に入れると発芽を防げます。',
-          zh: '装在纸箱或纸袋中，存放在通风阴凉的常温下。放入一个苹果可以防止发芽。',
-          es: 'Almacenar en una caja o bolsa de papel en un lugar templado y ventilado. Añadir una manzana evita la germinación.',
-          fr: 'Conserver dans une boîte ou un sac en papier dans une pièce ventilée et sombre. Ajouter une pomme empêche la germination.',
-          de: 'In einer Kiste oder Papiertüte an einem gut belüfteten, schattigen Ort lagern. Ein Apfel verhindert das Keimen.',
-          pt: 'Guarde em caixa ou saco de papel em local arejado e com sombra. Colocar uma maçã ajuda a evitar o brotamento.',
-          id: 'Simpan dalam kotak atau kantong kertas di ruangan yang sejuk dan berventilasi. Menambahkan apel dapat mencegah bertunas.'
+          ko: '상자나 종이봉투에 담아 바람이 잘 통하는 그늘진 실온에 보관하세요. 사과를 한 개 같이 넣으면 싹 트는 것을 방지하지만, 양파와 함께 보관하면 둘 다 빨리 상하니 따로 두세요. 빛에 노출 시 솔라닌 독소가 생기므로 신문지나 검은 봉지로 감싸 빛을 철저히 차단해야 합니다.',
+          en: 'Store in a box or paper bag in a well-ventilated, shady room. Adding an apple prevents sprouting, but avoid storing with onions to prevent decay. Wrap in newspaper or dark bags to completely block light and prevent solanine toxin build-up.',
+          ja: '箱や紙袋に入れ、風通しの良い日陰の常温で保管してください。りんごを1個一緒に入れると発芽を防げますが、玉ねぎと一緒に保管すると伤みやすいので別々に置いてください。光に当たるとソラニン毒素が発生するため、新聞紙や黒い袋で包んで光を遮断することが重要です。',
+          zh: '装在纸箱或纸袋中，存放在通风阴凉的常温下。放入一个苹果可以防止发芽，但避免与洋葱一起存放以防腐烂。用报纸或黑色袋子包裹以完全阻挡光线，防止龙葵素毒素积聚。',
+          es: 'Almacenar en una caja o bolsa de papel en un lugar templado y ventilado. Añadir una manzana evita la germinación, pero evite guardarlo con cebollas para evitar la pudrición. Envuélvalo en papel de periódico o bolsas oscuras para bloquear la luz por completo y evitar la acumulación de solanina.',
+          fr: 'Conserver dans une boîte ou un sac en papier dans une pièce ventilée et sombre. Ajouter une pomme empêche la germination, mais évitez de la stocker avec des oignons pour éviter le pourrissement. Enveloppez dans du journal ou des sacs sombres pour bloquer complètement la lumière et éviter l\'accumulation de solanine.',
+          de: 'In einer Kiste oder Papiertüte an einem gut belüfteten, schattigen Ort lagern. Ein Apfel verhindert das Keimen, aber vermeiden Sie die Lagerung mit Zwiebeln, um Fäulnis zu verhindern. In Zeitungspapier oder dunkle Beutel einwickeln, um das Licht vollständig auszuschließen und die Bildung von Solanin zu verhindern.',
+          pt: 'Guarde em caixa ou saco de papel em local arejado e com sombra. Colocar uma maçã ajuda a evitar o brotamento, mas evite guardar com cebolas para não apodrecer. Embrulhe em jornal ou sacos escuros para bloquear completamente a luz e evitar o acúmulo de solanina.',
+          id: 'Simpan dalam kotak atau kantong kertas di ruangan yang sejuk dan berventilasi. Menambahkan apel dapat mencegah bertunas, tetapi hindari menyimpan bersama bawang bombay agar tidak busuk. Bungkus dengan koran atau kantong gelap untuk memblokir cahaya sepenuhnya dan mencegah penumpukan racun solanin.'
         },
         sources: ['MFDS', 'RDA', 'FSA']
       }

@@ -541,15 +541,15 @@ export const condimentIngredients: Ingredient[] = [
       fridge: {
         durationDays: 30,
         tips: {
-          ko: '산패되기 쉬운 오메가-3가 60% 이상 들어 있어 실온에 두면 금방 상합니다. 반드시 뚜껑을 꼭 닫아 냉장 보관하며, 참기름을 2:8 비율로 섞어두면 보존 기간이 2배로 늘어납니다.',
-          en: 'Contains 60%+ omega-3 which oxidizes very quickly at room temp. Must refrigerate with lid tight. Mixing it with sesame oil (2:8 ratio) doubles shelf life.',
-          ja: '酸化しやすいオメガ3が60%以上含まれているため、室温に置くと傷みやすいです。必ずフタを閉め冷蔵保管し、ごま油を2:8で混ぜると日持ちが2倍になります。',
-          zh: '含有60%以上极易氧化的欧米伽-3，置于常温下极易变质。必须盖紧盖子冷藏保存。与参油按2:8比例混合存放，保质期可延长2倍。',
-          es: 'Contiene 60%+ de omega-3 que se oxida rápido a temp. ambiente. Guarde en nevera bien cerrado. Mezclar con aceite de sésamo (2:8) duplica su duración.',
-          fr: 'Contient 60 % d’oméga-3 sensibles à l’oxydation. Conservez au réfrigérateur bien fermé. Mélanger à l’huile de sésame (2:8) double sa durée de conservation.',
-          de: 'Enthält 60 %+ Omega-3-Fettsäuren, die schnell oxidieren. Luftdicht im Kühlschrank lagern. Mischen mit Sesamöl (2:8-Verhältnis) verdoppelt die Haltbarkeit.',
-          pt: 'Contém mais de 60% de ômega-3, que oxida rápido em temp. ambiente. Guarde na geladeira bem fechado. Misturar com óleo de gergelim (2:8) dobra a durabilidade.',
-          id: 'Mengandung 60%+ omega-3 yang cepat teroksidasi di suhu ruang. Wajib taruh kulkas. Campur minyak wijen (2:8) memperpanjang awet 2x lipat.'
+          ko: '산패되기 쉬운 오메가-3가 60% 이상 들어 있어 실온 보관 시 급격히 상합니다. 빛을 받으면 광산패가 발생하므로 갈색병에 담아 보관하거나 병을 신문지/은박지로 감싸 빛을 원천 차단한 상태로 냉장 보관하세요. 참기름과 2:8 비율로 섞어두면 보존 기간이 2배로 늘어납니다.',
+          en: 'Contains 60%+ omega-3 which oxidizes very quickly at room temp. Light triggers photo-oxidation, so store in dark bottles or wrap in newspaper/foil to block light completely under refrigeration. Mixing with sesame oil (2:8 ratio) doubles shelf life.',
+          ja: '酸化しやすいオメガ3が60%以上含まれているため、室温放置は厳禁です。光による酸化（光酸化）を防ぐため、遮光瓶に入れるかアルミホイルで包んで光を完全に遮断し冷蔵保管し、ごま油を2:8で混ぜると持ちが2倍になります。',
+          zh: '含有60%以上极易氧化的欧米伽-3，置于常温下极易变质。光照会引发光氧化，请使用深色瓶保存或用报纸/铝箔包裹以彻底遮光冷藏。与芝麻油按2:8比例混合存放，保质期可延长2倍。',
+          es: 'Contiene 60%+ de omega-3 que se oxida rápido a temp. ambiente. La luz provoca fotooxidación, así que guárdelo en botellas oscuras o envuélvalo en papel/aluminio para bloquear la luz por completo en la nevera. Mezclar con aceite de sésamo (2:8) duplica su duración.',
+          fr: 'Contient 60 % d’oméga-3 sensibles à l’oxydation. La lumière déclenche la photo-oxydation ; stockez en bouteille opaque ou enveloppez de journal/aluminium pour bloquer la lumière au frais. Mélanger à l’huile de sésame (2:8) double sa durée.',
+          de: 'Enthält 60 %+ Omega-3-Fettsäuren, die schnell oxidieren. Licht löst Photooxidation aus, daher in dunklen Flaschen lagern oder in Zeitung/Alufolie wickeln, um Licht im Kühlschrank komplett auszuschließen. Mischen mit Sesamöl (2:8-Verhältnis) verdoppelt die Haltbarkeit.',
+          pt: 'Contém mais de 60% de ômega-3, que oxida rápido em temp. ambiente. A luz provoca foto-oxidação, então guarde em garrafa escura ou embrulhe em jornal/alumínio para bloquear a luz na geladeira. Misturar com óleo de gergelim (2:8) dobra a durabilidade.',
+          id: 'Mengandung 60%+ omega-3 yang cepat teroksidasi di suhu ruang. Cahaya memicu foto-oksidasi, jadi simpan di botol gelap atau bungkus koran/aluminium untuk memblokir cahaya di kulkas. Campur minyak wijen (2:8) memperpanjang awet 2x lipat.'
         },
         sources: ['USDA', 'EFSA']
       }

@@ -67,15 +67,15 @@ export const dairyIngredients: Ingredient[] = [
       fridge: {
         durationDays: 30,
         tips: {
-          ko: '물로 씻으면 계란 표면의 보호막이 씻겨 내려가 껍질의 기공을 통해 세균이 유입됩니다. 씻지 말고, 뾰족한 쪽이 아래를 향하도록 보관하세요.',
-          en: 'Washing eggs removes the protective barrier, letting bacteria in. Do not wash; store pointed end down.',
-          ja: '水洗いすると卵の保護膜が消え気孔から雑菌が侵入します。洗わずに、尖った方を下にして保存してください。',
-          zh: '水洗会冲掉鸡蛋表面的保护膜，导致细菌从气孔渗入。切勿清洗，大头朝上、小头朝下竖放保存。',
-          es: 'Lavar los huevos elimina su capa protectora e introduce bacterias. No los lave; guárdelos con la punta hacia abajo.',
-          fr: 'Laver les œufs détruit leur pellicule protectrice. Ne les lavez pas ; stockez-les la pointe vers le bas.',
-          de: 'Eier nicht waschen, da die Schutzschicht entfernt wird. Mit dem spitzen Ende nach unten lagern.',
-          pt: 'Lavar os ovos remove a película protetora, facilitando a entrada de bactérias. Não lave e guarde com a ponta para baixo.',
-          id: 'Mencuci telur merusak lapisan pelindung, memudahkan bakteri masuk. Jangan dicuci; simpan ujung runcing di bawah.'
+          ko: '물로 씻으면 표면 보호막이 파괴되어 기공으로 세균이 침투합니다. 절대 씻지 말고, 뾰족한 쪽이 아래를 향하게 하되, 온도 변화가 심한 냉장고 문 쪽을 피해 내부 안쪽 선반에 보관해 살모넬라균 번식을 방지하세요.',
+          en: 'Washing eggs removes the protective barrier, letting bacteria in. Do not wash; store pointed end down inside the main body of the fridge rather than the door to prevent Salmonella growth from temperature shifts.',
+          ja: '水洗いすると卵の保護膜が消え気孔から雑菌が侵入します。洗わずに、尖った方を下にして保存してください。また、温度変化の激しいドアポケットを避け、冷蔵庫内の棚の奥に保管してサルモネラ菌の繁殖を防ぎましょう。',
+          zh: '水洗会冲掉鸡蛋表面的保护膜，导致细菌从气孔渗入。切勿清洗，大头朝上、小头朝下竖放保存。避免存放在温度变化的冰箱门侧，放在冰箱内侧冷藏搁板上以防沙门氏菌繁殖。',
+          es: 'Lavar los huevos elimina su capa protectora e introduce bacterias. No los lave; guárdelos con la punta hacia abajo y en un estante interior en lugar de la puerta para evitar el crecimiento de Salmonella.',
+          fr: 'Laver les œufs détruit leur pellicule protectrice. Ne les lavez pas ; stockez-les la pointe vers le bas sur une étagère intérieure plutôt que dans la porte pour éviter la prolifération de Salmonella.',
+          de: 'Eier nicht waschen, da die Schutzschicht entfernt wird. Mit dem spitzen Ende nach unten im Hauptteil des Kühlschranks statt in der Tür lagern, um Salmonellenwachstum zu verhindern.',
+          pt: 'Lavar os ovos remove a película protetora, facilitando a entrada de bactérias. Não lave; guarde com a ponta para baixo nas prateleiras internas, longe da porta, para evitar a proliferação de Salmonella.',
+          id: 'Mencuci telur merusak lapisan pelindung, memudahkan bakteri masuk. Jangan dicuci; simpan ujung runcing di bawah di dalam rak utama kulkas, hindari bagian pintu untuk mencegah pertumbuhan Salmonella.'
         },
         sources: ['MFDS', 'USDA']
       }
@@ -151,15 +151,15 @@ export const dairyIngredients: Ingredient[] = [
       fridge: {
         durationDays: 21,
         tips: {
-          ko: '개봉 후에는 밀폐가 중요합니다. 슬라이스 치즈는 지퍼백에 밀봉하고, 모짜렐라는 소분하여 냉장실 안쪽 깊숙한 곳에 두세요.',
-          en: 'Airtight sealing is crucial after opening. Seal sliced cheese in bags; portion and store mozzarella deep in the fridge.',
-          ja: '開封後は密閉が極めて重要です。スライスチーズは袋に入れ、モッツァレラは小分けして冷蔵庫の奥で保存します。',
-          zh: '开封后密封至关重要。片装奶酪封入口袋中；马苏里拉奶酪切块，存放在冰箱冷藏室最深处。',
-          es: 'El sellado es clave tras abrir. Guarde las lonchas en bolsas; porcione y guarde la mozzarella al fondo.',
-          fr: 'L’étanchéité est cruciale après ouverture. Fermez les tranches en sachet ; divisez la mozzarella au fond du frigo.',
-          de: 'Nach dem Öffnen luftdicht verschließen. Scheibenkäse in Beutel verpacken, Mozzarella portionieren.',
-          pt: 'Vedar bem é crucial após abrir. Guarde fatias em sacos herméticos e porcione a mussarela no fundo da geladeira.',
-          id: 'Segel rapat setelah dibuka. Taruh keju lembaran dalam kantong; bagi mozzarella dan simpan di bagian dalam kulkas.'
+          ko: '개봉 후에는 밀폐가 중요합니다. 슬라이스 치즈는 지퍼백에 밀봉하고, 모짜렐라는 소분하여 냉장실 안쪽 깊숙한 곳에 두세요. 수분이 많은 소프트 치즈는 개봉 후 1~2주 내 드시고, 하드 치즈는 밀봉 시 3~4주까지 보존 가능합니다.',
+          en: 'Airtight sealing is crucial after opening. Seal sliced cheese in bags; portion and store mozzarella deep in the fridge. Soft cheeses with high moisture should be consumed within 1–2 weeks, while hard cheeses can keep up to 3–4 weeks if sealed.',
+          ja: '開封後は密閉が極めて重要です。スライスチーズは袋に入れ、モッツァレラは小分けして冷蔵庫の奥で保存します。水分の多いソフトチーズは開封後1〜2週間以内に消費し、ハードチーズは密閉状態で3〜4週間保存可能です。',
+          zh: '开封后密封至关重要。片装奶酪封入口袋中；马苏里拉奶酪切块，存放在冰箱冷藏室最深处。高水分的软质奶酪应在开封后1-2周内食用，硬质奶酪密封时可保存3-4周。',
+          es: 'El sellado es clave tras abrir. Guarde las lonchas en bolsas; porcione y guarde la mozzarella al fondo. Consuma los quesos blandos con alta humedad en 1-2 semanas, mientras que los duros duran 3-4 semanas si se sellan.',
+          fr: 'L’étanchéité est cruciale après ouverture. Fermez les tranches en sachet ; divisez la mozzarella au fond du frigo. Les fromages frais humides se mangent sous 1-2 semaines, les fromages à pâte dure se gardent 3-4 semaines sous vide.',
+          de: 'Nach dem Öffnen luftdicht verschließen. Scheibenkäse in Beutel verpacken, Mozzarella portionieren. Feuchter Weichkäse sollte innerhalb von 1-2 Wochen verzehrt werden, während Hartkäse luftdicht verschlossen 3-4 Wochen haltbar ist.',
+          pt: 'Vedar bem é crucial após abrir. Guarde fatias em sacos herméticos e porcione a mussarela no fundo da geladeira. Consuma queijos macios em 1-2 semanas, enquanto os queijos duros duram de 3-4 semanas se bem vedados.',
+          id: 'Segel rapat setelah dibuka. Taruh keju lembaran dalam kantong; bagi mozzarella dan simpan di bagian dalam kulkas. Keju lunak berkadar air tinggi sebaiknya dikonsumsi dalam 1-2 minggu, sedangkan keju keras dapat bertahan hingga 3-4 minggu jika disegel.'
         },
         sources: ['USDA', 'EFSA']
       }
