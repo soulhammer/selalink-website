@@ -274,7 +274,7 @@ export const seafoodIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 7,
+        durationDays: 5,
         tips: {
           ko: '수분과 단백질이 많아 쉽게 상합니다. 개봉 전에는 7일 정도 가능하지만, 개봉 후에는 밀폐용기에 소분해 담아 2~3일 이내에 드세요.',
           en: 'High moisture and protein make it spoil easily. Can last 7 days unopened, but store in airtight containers and consume in 2–3 days once opened.',

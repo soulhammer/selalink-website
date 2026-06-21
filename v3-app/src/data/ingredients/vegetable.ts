@@ -362,7 +362,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 7,
+        durationDays: 4,
         tips: {
           ko: '뿌리가 아래로 가도록 세워서 보관하면 수명이 늘어납니다. 신문지나 키친타월로 가볍게 싸서 비닐팩에 넣어 세워두세요.',
           en: 'Store standing upright to extend shelf life. Wrap gently in paper towel and put vertically in a plastic bag.',
@@ -465,7 +465,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 7,
+        durationDays: 3,
         tips: {
           ko: '절대 물에 씻어서 보관하지 마세요. 수분을 잘 흡수하는 종이봉투나 키친타월로 감싸 밀폐용기에 담아 보관해야 쫄깃함이 유지됩니다.',
           en: 'Never wash with water before storing. Wrap in paper bags or paper towels to absorb moisture.',
@@ -499,7 +499,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 7,
+        durationDays: 5,
         tips: {
           ko: '오이는 저온에 민감하므로 냉장고 야채칸에 보관하세요. 한 개씩 신문지로 싸서 꼭지가 위를 향하게 세워 보관하면 더 오래갑니다.',
           en: 'Sensitive to cold, store in the crisper drawer. Wrap individually in newspaper and stand upright.',
@@ -533,7 +533,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 10,
+        durationDays: 7,
         tips: {
           ko: '물기를 완전히 말린 후 랩으로 하나씩 감싸 냉장 보관하세요. 꼭지 부분이 먼저 상하므로 꼭지 주위 물기 제거가 중요합니다.',
           en: 'Dry completely, wrap individually in plastic wrap, and refrigerate. Stems spoil first; ensure dry stems.',
@@ -567,7 +567,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 10,
+        durationDays: 5,
         tips: {
           ko: '수분이 날아가지 않게 포장하되, 세워 두는 것이 좋습니다. 컵에 물을 약간 담고 꼭지(기둥) 부분을 꽂아 비닐을 씌우면 생화처럼 오래 갑니다.',
           en: 'Store standing upright. Place the stem in a cup with a little water and cover with plastic to keep fresh.',
@@ -829,7 +829,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 5,
+        durationDays: 3,
         tips: {
           ko: '가지는 저온 장애에 약하므로 절대 차가운 냉장실 깊숙이 오래 보관하지 마세요. 하나씩 신문지에 싸서 그늘지고 서늘한 상온에 보관하는 것이 최선입니다.',
           en: 'Very sensitive to cold. Wrap individually in newspaper and store in a cool, shady pantry.',

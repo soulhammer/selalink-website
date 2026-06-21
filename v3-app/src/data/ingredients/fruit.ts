@@ -99,7 +99,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Coloque com o pedúnculo para baixo sem sobrepor em uma cesta. Refrigerar tomates verdes interrompe o amadurecimento.',
           id: 'Letakkan bagian tangkai di bawah tanpa bertumpuk di keranjang. Mendinginkan tomat mentah merusak rasanya.'
         },
-        sources: ['USDA', 'USDA']
+        sources: ['USDA', 'RDA']
       },
       fridge: {
         durationDays: 10,
@@ -114,7 +114,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Para tomates bem maduros, lave, seque, retire o pedúnculo (que mofa facilmente) e guarde em pote vedado.',
           id: 'Untuk tomat matang merah, cuci, keringkan, buang tangkainya (mudah berjamur), lalu simpan kedap udara.'
         },
-        sources: ['USDA', 'USDA']
+        sources: ['USDA', 'RDA']
       }
     }
   },
@@ -542,7 +542,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Fruta subtropical sensível a menos de 4 °C. Não lave, embrulhe em jornal e guarde a 5–7 °C na gaveta de vegetais.',
           id: 'Buah subtropis rentan suhu di bawah 4°C. Jangan cuci, bungkus koran, lalu simpan di laci sayur suhu 5–7°C.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -583,7 +583,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Melhor guardado a 0 ou -1 °C e alta umidade. Seque, coloque com o cabo para baixo, embrulhe em papel-toalha e sele.',
           id: 'Terbaik di suhu 0 hingga -1°C dan kelembapan 90–95%. Keringkan, posisikan tangkai di bawah, bungkus tisu, lalu segel.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'MFDS']
       }
     }
   },

@@ -230,7 +230,7 @@ export const meatIngredients: Ingredient[] = [
           pt: 'Fechado dura até 2 semanas. Após aberto, embrulhe bem com várias camadas de filme plástico.',
           id: 'Bacon utuh awet 2 minggu. Setelah dibuka, bungkus rapat berlapis dengan plastik wrap.'
         },
-        sources: ['USDA', 'USDA']
+        sources: ['USDA', 'MFDS']
       },
       freezer: {
         durationDays: 30,
@@ -245,7 +245,7 @@ export const meatIngredients: Ingredient[] = [
           pt: 'Coloque as fatias sobre papel-manteiga, enrole individualmente e congele em sacos vedados.',
           id: 'Alasi bacon dengan kertas roti, gulung satu per satu, dan bekukan dalam kantong plastik.'
         },
-        sources: ['USDA', 'USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -280,7 +280,7 @@ export const meatIngredients: Ingredient[] = [
           pt: 'Siga a data da embalagem se fechado. Após aberto, guarde em sacos vedados; não faça cortes antes.',
           id: 'Ikuti tanggal kemasan jika utuh. Setelah dibuka, simpan dalam kantong; jangan diiris sebelum disimpan.'
         },
-        sources: ['USDA', 'USDA']
+        sources: ['USDA', 'MFDS']
       },
       freezer: {
         durationDays: 60,
@@ -295,7 +295,7 @@ export const meatIngredients: Ingredient[] = [
           pt: 'Fatie ou divida em porções e congele em sacos bem espalhados.',
           id: 'Potong-potong sesuai porsi masak dan bekukan mendatar dalam kantong.'
         },
-        sources: ['USDA', 'USDA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -318,17 +318,17 @@ export const meatIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 7,
+        durationDays: 4,
         tips: {
           ko: '개봉 후 남은 슬라이스 햄은 단면이 빠르게 건조해지고 상합니다. 개별 랩핑하여 지퍼백에 완전히 진공 밀봉하여 냉장 보관하세요.',
-          en: 'Once opened, wrap tightly and seal in bags to prevent edges from drying. Use within 7 days.',
+          en: 'Once opened, wrap tightly and seal in bags to prevent edges from drying. Use within 4 days.',
           ja: '開封後のスライスハムは断面が乾いて傷みやすいです. 1枚ずつラップで包み, 袋に密閉して冷蔵保存してください。',
           zh: '开封后吃剩的片状火腿切面会迅速变干且变质. 请用保鲜膜单独裹紧装入密封袋冷藏。',
-          es: 'Abierto, envuelva bien y selle en bolsas para evitar que se seque. Consuma en 7 días.',
-          fr: 'Une fois ouvert, filmez serré en sachet pour éviter le dessèchement des bords. Consommez sous 7 jours.',
-          de: 'Nach dem Öffnen gut einwickeln und in Beuteln lagern, um Austrocknen zu verhindern. In 7 Tagen verbrauchen.',
-          pt: 'Após aberto, embrulhe bien e guarde em sacos vedados para não ressecar as bordas. Consuma em até 7 dias.',
-          id: 'Setelah dibuka, bungkus rapat dan segel dalam kantong agar pinggirannya tidak kering. Gunakan dalam 7 hari.'
+          es: 'Abierto, envuelva bien y selle en bolsas para evitar que se seque. Consuma en 4 días.',
+          fr: 'Une fois ouvert, filmez serré en sachet pour éviter le dessèchement des bords. Consommez sous 4 jours.',
+          de: 'Nach dem Öffnen gut einwickeln und in Beuteln lagern, um Austrocknen zu verhindern. In 4 Tagen verbrauchen.',
+          pt: 'Após aberto, embrulhe bien e guarde em sacos vedados para não ressecar as bordas. Consuma em até 4 dias.',
+          id: 'Setelah dibuka, bungkus rapat dan segel dalam kantong agar pinggirannya tidak kering. Gunakan dalam 4 hari.'
         },
         sources: ['USDA', 'MFDS']
       },
@@ -445,16 +445,16 @@ export const meatIngredients: Ingredient[] = [
         sources: ['USDA', 'MFDS']
       },
       fridge: {
-        durationDays: 5,
+        durationDays: 4,
         tips: {
-          ko: '개봉 후 남은 햄을 캔 그대로 냉장 보관 시 산소 접촉으로 산패 및 금속 용출이 일어납니다. 반드시 락앤락 등 별도 밀폐용기에 덜어 냉장하고 5일 이내 드세요.',
-          en: 'Do not refrigerate in the open metal can; oxygen contact causes spoilage and metal leaching. Transfer to a sealed plastic/glass container and consume in 5 days.',
-          ja: '開封後、缶に入れたまま冷蔵すると酸素との接触で酸化や金属の溶出が起こります。必ず密閉容器に移し替えて冷蔵し5日以内に使い切ってください。',
-          zh: '开封后，若直接将罐头原样冷藏，会因接触氧气导致变质及重金属溶出。请务必移至独立的密封容器中冷藏并在5天内食用。',
-          es: 'No refrigere en la lata abierta; el oxígeno causa deterioro y filtración de metal. Páselo a un envase hermético y consuma en 5 días.',
-          fr: 'Ne conservez pas dans la boîte ouverte ; le contact avec l’oxygène gâte le produit et libère du métal. Transférez en boîte étanche et cuisez sous 5 jours.',
-          de: 'Nicht in der geöffneten Metalldose kühlen; Sauerstoffkontakt führt zu Verderb und Metallabgabe. In eine Dose umfüllen und in 5 Tagen verbrauchen.',
-          pt: 'Não guarde na lata aberta; o contato com o oxigênio causa oxidação e contaminação por metal. Transfira para um pote hermético e consuma em 5 dias.',
+          ko: '개봉 후 남은 햄을 캔 그대로 냉장 보관 시 산소 접촉으로 산패 및 금속 용출이 일어납니다. 반드시 락앤락 등 별도 밀폐용기에 덜어 냉장하고 4일 이내 드세요.',
+          en: 'Do not refrigerate in the open metal can; oxygen contact causes spoilage and metal leaching. Transfer to a sealed plastic/glass container and consume in 4 days.',
+          ja: '開封後、缶に入れたまま冷蔵すると酸素との接触で酸化や金属の溶出が起こります。必ず密閉容器に移し替えて冷蔵し4日以内に使い切ってください。',
+          zh: '开封后，若直接将罐头原样冷藏，会因接触氧气导致变质及重金属溶出。请务必移至独立的密封容器中冷藏并在4天内食用。',
+          es: 'No refrigere en la lata abierta; el oxígeno causa deterioro y filtración de metal. Páselo a un envase hermético y consuma en 4 días.',
+          fr: 'Ne conservez pas dans la boîte ouverte ; le contact avec l’oxygène gâte le produit et libère du métal. Transférez en boîte étanche et cuisez sous 4 jours.',
+          de: 'Nicht in der geöffneten Metalldose kühlen; Sauerstoffkontakt führt zu Verderb und Metallabgabe. In eine Dose umfüllen und in 4 Tagen verbrauchen.',
+          pt: 'Não guarde na lata aberta; o contato com o oxigênio causa oxidação e contaminação por metal. Transfira para um pote hermético e consuma em 4 dias.',
           id: 'Jangan masukkan kulkas langsung di kaleng terbuka; kontak oksigen memicu pembusukan dan zat besi. Pindahkan ke wadah kedap.'
         },
         sources: ['USDA', 'MFDS']

@@ -65,7 +65,7 @@ export const dairyIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 25,
+        durationDays: 30,
         tips: {
           ko: '물로 씻으면 계란 표면의 보호막이 씻겨 내려가 껍질의 기공을 통해 세균이 유입됩니다. 씻지 말고, 뾰족한 쪽이 아래를 향하도록 보관하세요.',
           en: 'Washing eggs removes the protective barrier, letting bacteria in. Do not wash; store pointed end down.',
@@ -149,7 +149,7 @@ export const dairyIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 30,
+        durationDays: 21,
         tips: {
           ko: '개봉 후에는 밀폐가 중요합니다. 슬라이스 치즈는 지퍼백에 밀봉하고, 모짜렐라는 소분하여 냉장실 안쪽 깊숙한 곳에 두세요.',
           en: 'Airtight sealing is crucial after opening. Seal sliced cheese in bags; portion and store mozzarella deep in the fridge.',
@@ -161,7 +161,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Vedar bem é crucial após abrir. Guarde fatias em sacos herméticos e porcione a mussarela no fundo da geladeira.',
           id: 'Segel rapat setelah dibuka. Taruh keju lembaran dalam kantong; bagi mozzarella dan simpan di bagian dalam kulkas.'
         },
-        sources: ['USDA', 'USDA', 'EFSA']
+        sources: ['USDA', 'EFSA']
       }
     }
   },
