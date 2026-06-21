@@ -79,12 +79,16 @@
     "ko": [
       { "id": "ibeMTi6Y3AM", "title": "어린 왕자" },
       { "id": "FRI3OdsEcyc", "title": "강아지와 나" },
-      { "id": "Fculvfrgah8", "title": "산타와 루돌프" }
+      { "id": "Fculvfrgah8", "title": "산타와 루돌프" },
+      { "id": "xBdVXpVbrPQ", "title": "타임머신" },
+      { "id": "qAyJRd8kTbo", "title": "냉장고 전쟁" }
     ],
     "en": [
       { "id": "ibeMTi6Y3AM", "title": "The Little Prince" },
       { "id": "FRI3OdsEcyc", "title": "Puppy and Me" },
-      { "id": "Fculvfrgah8", "title": "Santa and Rudolph" }
+      { "id": "Fculvfrgah8", "title": "Santa and Rudolph" },
+      { "id": "xBdVXpVbrPQ", "title": "Time Machine" },
+      { "id": "qAyJRd8kTbo", "title": "Refrigerator War" }
     ]
   }
 }
