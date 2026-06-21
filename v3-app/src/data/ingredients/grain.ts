@@ -54,7 +54,7 @@ export const grainIngredients: Ingredient[] = [
     id: 'rice-cake',
     iconImage: '/assets/images/apps/freshself/ingredients/rice-cake.png',
     category: 'grain',
-    emoji: '🍡',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '떡',

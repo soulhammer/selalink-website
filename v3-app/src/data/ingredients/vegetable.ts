@@ -5,7 +5,7 @@ export const vegetableIngredients: Ingredient[] = [
     id: 'green-onion',
     iconImage: '/assets/images/apps/freshself/ingredients/green-onion.png',
     category: 'vegetable',
-    emoji: '🎋',
+    emoji: '',
     isProcessed: false,
     searchKeywords: {
       ko: ['파', '쪽파', '실파', '대파보관'],
@@ -312,7 +312,7 @@ export const vegetableIngredients: Ingredient[] = [
     id: 'lettuce',
     iconImage: '/assets/images/apps/freshself/ingredients/lettuce.png',
     category: 'vegetable',
-    emoji: '🥗',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '상추',
@@ -347,7 +347,7 @@ export const vegetableIngredients: Ingredient[] = [
     id: 'spinach',
     iconImage: '/assets/images/apps/freshself/ingredients/spinach.png',
     category: 'vegetable',
-    emoji: '🌿',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '시금치',
@@ -382,7 +382,7 @@ export const vegetableIngredients: Ingredient[] = [
     id: 'cabbage',
     iconImage: '/assets/images/apps/freshself/ingredients/cabbage.png',
     category: 'vegetable',
-    emoji: '🥬',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '양배추',
@@ -715,7 +715,7 @@ export const vegetableIngredients: Ingredient[] = [
     id: 'radish',
     iconImage: '/assets/images/apps/freshself/ingredients/radish.png',
     category: 'vegetable',
-    emoji: '🥔',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '무',
@@ -765,7 +765,7 @@ export const vegetableIngredients: Ingredient[] = [
     id: 'bean-sprouts',
     iconImage: '/assets/images/apps/freshself/ingredients/bean-sprouts.png',
     category: 'vegetable',
-    emoji: '🌱',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '콩나물',
@@ -864,7 +864,7 @@ export const vegetableIngredients: Ingredient[] = [
     id: 'pumpkin',
     iconImage: '/assets/images/apps/freshself/ingredients/pumpkin.png',
     category: 'vegetable',
-    emoji: '🎃',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '호박 / 단호박',

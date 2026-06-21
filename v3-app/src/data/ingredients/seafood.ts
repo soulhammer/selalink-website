@@ -101,8 +101,9 @@ export const seafoodIngredients: Ingredient[] = [
   },
   {
     id: 'clam',
+    iconImage: '/assets/images/apps/freshself/ingredients/clam.png',
     category: 'seafood',
-    emoji: '🦪',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '조개',
@@ -152,7 +153,7 @@ export const seafoodIngredients: Ingredient[] = [
     id: 'salmon',
     iconImage: '/assets/images/apps/freshself/ingredients/salmon.png',
     category: 'seafood',
-    emoji: '🍣',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '연어',
@@ -202,7 +203,7 @@ export const seafoodIngredients: Ingredient[] = [
     id: 'anchovy',
     iconImage: '/assets/images/apps/freshself/ingredients/anchovy.png',
     category: 'seafood',
-    emoji: '🐟',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '멸치',

@@ -85,7 +85,7 @@ export const dairyIngredients: Ingredient[] = [
     id: 'tofu',
     iconImage: '/assets/images/apps/freshself/ingredients/tofu.png',
     category: 'dairy',
-    emoji: '⬜',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '두부',
@@ -218,7 +218,7 @@ export const dairyIngredients: Ingredient[] = [
     id: 'yogurt',
     iconImage: '/assets/images/apps/freshself/ingredients/yogurt.png',
     category: 'dairy',
-    emoji: '🥣',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '요거트',
@@ -253,7 +253,7 @@ export const dairyIngredients: Ingredient[] = [
     id: 'whipping-cream',
     iconImage: '/assets/images/apps/freshself/ingredients/whipping-cream.png',
     category: 'dairy',
-    emoji: '🧁',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '생크림',
@@ -288,7 +288,7 @@ export const dairyIngredients: Ingredient[] = [
     id: 'soy-milk',
     iconImage: '/assets/images/apps/freshself/ingredients/soy-milk.png',
     category: 'dairy',
-    emoji: '🥛',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '두유',

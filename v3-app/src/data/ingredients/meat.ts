@@ -54,7 +54,7 @@ export const meatIngredients: Ingredient[] = [
     id: 'pork',
     iconImage: '/assets/images/apps/freshself/ingredients/pork.png',
     category: 'meat',
-    emoji: '🐖',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '돼지고기',
@@ -102,8 +102,9 @@ export const meatIngredients: Ingredient[] = [
   },
   {
     id: 'chicken',
+    iconImage: '/assets/images/apps/freshself/ingredients/chicken.png',
     category: 'meat',
-    emoji: '🍗',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '닭고기',
@@ -153,7 +154,7 @@ export const meatIngredients: Ingredient[] = [
     id: 'minced-meat',
     iconImage: '/assets/images/apps/freshself/ingredients/minced-meat.png',
     category: 'meat',
-    emoji: '🥩',
+    emoji: '',
     isProcessed: false,
     names: {
       ko: '다진 고기',
@@ -252,7 +253,7 @@ export const meatIngredients: Ingredient[] = [
     id: 'sausage',
     iconImage: '/assets/images/apps/freshself/ingredients/sausage.png',
     category: 'meat',
-    emoji: '🌭',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '소시지',
@@ -302,7 +303,7 @@ export const meatIngredients: Ingredient[] = [
     id: 'ham',
     iconImage: '/assets/images/apps/freshself/ingredients/ham.png',
     category: 'meat',
-    emoji: '🍖',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '햄',
@@ -348,8 +349,9 @@ export const meatIngredients: Ingredient[] = [
   },
   {
     id: 'duck',
+    iconImage: '/assets/images/apps/freshself/ingredients/duck.png',
     category: 'meat',
-    emoji: '🦆',
+    emoji: '',
     isProcessed: false,
     searchKeywords: {
       ko: ['오리고기', '생오리', '오리훈제', '오리보관'],

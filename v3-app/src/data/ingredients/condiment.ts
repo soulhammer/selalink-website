@@ -5,7 +5,7 @@ export const condimentIngredients: Ingredient[] = [
     id: 'canned-tuna',
     iconImage: '/assets/images/apps/freshself/ingredients/canned-tuna.png',
     category: 'condiment',
-    emoji: '🥫',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '참치통조림',
@@ -55,7 +55,7 @@ export const condimentIngredients: Ingredient[] = [
     id: 'mayonnaise',
     iconImage: '/assets/images/apps/freshself/ingredients/mayonnaise.png',
     category: 'condiment',
-    emoji: '🫙',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '마요네즈',
@@ -90,7 +90,7 @@ export const condimentIngredients: Ingredient[] = [
     id: 'ketchup',
     iconImage: '/assets/images/apps/freshself/ingredients/ketchup.png',
     category: 'condiment',
-    emoji: '🥫',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '케첩',
@@ -159,7 +159,7 @@ export const condimentIngredients: Ingredient[] = [
     id: 'soy-sauce',
     iconImage: '/assets/images/apps/freshself/ingredients/soy-sauce.png',
     category: 'condiment',
-    emoji: '🫙',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '간장',
@@ -209,7 +209,7 @@ export const condimentIngredients: Ingredient[] = [
     id: 'kimchi',
     iconImage: '/assets/images/apps/freshself/ingredients/kimchi.png',
     category: 'condiment',
-    emoji: '🌶️',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '김치',
@@ -257,7 +257,7 @@ export const condimentIngredients: Ingredient[] = [
     id: 'olive-oil',
     iconImage: '/assets/images/apps/freshself/ingredients/olive-oil.png',
     category: 'condiment',
-    emoji: '🫒',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '식용유/올리브유',

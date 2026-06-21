@@ -54,7 +54,7 @@ export const etcIngredients: Ingredient[] = [
     id: 'coffee-beans',
     iconImage: '/assets/images/apps/freshself/ingredients/coffee-beans.png',
     category: 'etc',
-    emoji: '☕',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '커피 원두',
@@ -104,7 +104,7 @@ export const etcIngredients: Ingredient[] = [
     id: 'chicken-leftover',
     iconImage: '/assets/images/apps/freshself/ingredients/chicken-leftover.png',
     category: 'etc',
-    emoji: '🥡',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '남은 치킨',
@@ -139,7 +139,7 @@ export const etcIngredients: Ingredient[] = [
     id: 'baby-food',
     iconImage: '/assets/images/apps/freshself/ingredients/baby-food.png',
     category: 'etc',
-    emoji: '🍼',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '이유식',
@@ -187,8 +187,9 @@ export const etcIngredients: Ingredient[] = [
   },
   {
     id: 'nuts',
+    iconImage: '/assets/images/apps/freshself/ingredients/nuts.png',
     category: 'etc',
-    emoji: '🥜',
+    emoji: '',
     isProcessed: true,
     names: {
       ko: '견과류',
