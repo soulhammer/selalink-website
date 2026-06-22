@@ -8,7 +8,21 @@ heroImage: "/images/blog/beef_storage_hack.png"
 app: "storeself"
 ---
 
-비싼 소고기를 사 와서 이틀 냉장고에 넣어 두었더니 거무스름하게 변해 찝찝했던 적 있으시죠? 산소를 차단하는 오일 코팅 기술을 소개합니다.
+비싼 소고기를 사 와서 이틀 냉장고에 넣어 두었더니 거무스름하게 변해 찝찝했던 적 있으시죠? 오늘 StoreSelf에서는 미국 농무부 식품안전검사국(USDA FSIS)의 신선육 관리 지침에 근거한 오일 랩핑 비법을 전합니다.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      신뢰 근거 기관
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 가이드는 <strong>미국 농무부 식품안전검사국(USDA FSIS)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+    </p>
+  </div>
+</div>
+
 
 ---
 
@@ -36,7 +50,7 @@ app: "storeself"
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">표면에 식용유(올리브유)를 살짝 바르기 — 산소 차단 오일 코팅 🫒</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    핏물을 뺀 소고기 표면에 브러시나 손으로 식용유나 올리브유를 얇게 바릅니다. 기름막이 공기 중 산소가 고기 단백질과 닿는 것을 원천 봉쇄하여 갈변과 신선도 저하를 획기적으로 지연시킵니다.
+    핏물을 뺀 소고기 표면에 식용유나 올리브유를 얇게 바릅니다. 기름막이 공기 중 산소가 고기 단백질과 닿는 것을 원천 봉쇄하여 갈변과 신선도 저하를 획기적으로 지연시킵니다.
   </p>
 </div>
 

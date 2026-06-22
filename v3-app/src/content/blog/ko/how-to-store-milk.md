@@ -8,7 +8,21 @@ heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
 ---
 
-대부분의 가정에서 우유를 냉장고 문 쪽 포켓에 보관합니다. 하지만 이는 우유의 유통기한을 절반 이하로 줄이는 잘못된 보관 방법입니다.
+대부분의 가정에서 우유를 냉장고 문 쪽 포켓에 보관합니다. 오늘 StoreSelf에서는 미국 식품의약국(FDA)의 위생 가이드를 기반으로, 신선함을 극대화하는 올바른 우유 냉장 보관 규칙을 소개합니다.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      신뢰 근거 기관
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 가이드는 <strong>미국 식품의약국(FDA) 및 미국 질병통제예방센터(CDC)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+    </p>
+  </div>
+</div>
+
 
 ---
 

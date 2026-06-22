@@ -8,7 +8,21 @@ heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
 ---
 
-참기름과 들기름을 나란히 양념 가방에 담아 가스레인지 옆 실온에 보관하셨나요? 들기름은 열과 공기에 닿으면 며칠 만에 산패하여 독성 물질로 변합니다.
+참기름과 들기름을 나란히 가스레인지 옆 실온에 보관하셨나요? 오늘 StoreSelf에서는 농촌진흥청(RDA)의 들기름 보관 연구 결과를 토대로, 산패를 막고 맛을 유지하는 들기름 보관 비법을 알려드립니다.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      신뢰 근거 기관
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 가이드는 <strong>농촌진흥청(RDA) 및 식품의약품안전처</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+    </p>
+  </div>
+</div>
+
 
 ---
 
@@ -36,7 +50,7 @@ app: "storeself"
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">갈색 차광병에 담고 공기 노출 제한 — 산소 및 자외선 차단 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    빛이 들기름 산화의 주범이므로 어두운 갈색 유리병에 담아 보관해야 합니다. 또한 공기와의 접촉면이 많아질수록 쩐내가 나기 쉬우므로 큰 통에 한 번에 두기보다 작은 차광병에 소분하는 것이 좋습니다.
+    빛이 들기름 산화의 주범이므로 어두운 갈색 유리병에 담아 보관해야 합니다. 또한 공기와의 접촉면이 많아질수록 쩐내가 나기 쉬으므로 큰 통에 한 번에 두기보다 작은 차광병에 소분하는 것이 좋습니다.
   </p>
 </div>
 

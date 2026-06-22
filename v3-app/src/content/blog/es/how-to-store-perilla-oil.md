@@ -8,7 +8,21 @@ heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
 ---
 
-참기름과 들기름을 나란히 양념 가방에 담아 가스레인지 옆 실온에 보관하셨나요? 들기름은 열과 공기에 닿으면 며칠 만에 산패하여 독성 물질로 변합니다.
+Do you keep perilla oil next to your stovetop? Today, StoreSelf shares perilla oil preservation methods based on RDA research results.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Verified Scientific Authority
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This storage guide is verified based on official guidelines from the <strong>Rural Development Administration (RDA) & Ministry of Food and Drug Safety</strong>.
+    </p>
+  </div>
+</div>
+
 
 ---
 

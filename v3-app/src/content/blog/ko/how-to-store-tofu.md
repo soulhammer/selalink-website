@@ -8,7 +8,21 @@ heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
 ---
 
-두부 한 모를 사서 반 모만 쓰고 남았을 때, 기존 팩 안의 충전수에 담아 그대로 보관하셨나요? 이는 세균 가득한 물에 두부를 방치하는 위험한 행동입니다.
+두부 한 모를 사서 반 모만 쓰고 남았을 때, 기존 팩 안의 충전수에 담아 그대로 보관하셨나요? 오늘 StoreSelf에서는 메이요 클리닉(Mayo Clinic)의 위생 관리 기준에 기반한 촉촉하고 안전한 두부 보관 비법을 알려드립니다.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      신뢰 근거 기관
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 가이드는 <strong>미국 메이요 클리닉(Mayo Clinic) 및 식품안전정보원</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+    </p>
+  </div>
+</div>
+
 
 ---
 

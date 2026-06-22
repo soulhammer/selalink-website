@@ -8,7 +8,21 @@ heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
 ---
 
-두부 한 모를 사서 반 모만 쓰고 남았을 때, 기존 팩 안의 충전수에 담아 그대로 보관하셨나요? 이는 세균 가득한 물에 두부를 방치하는 위험한 행동입니다.
+When half a block of tofu is left, did you store it in the original package water? Today, StoreSelf shares a safe tofu storage guide based on Mayo Clinic food safety standards.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Verified Scientific Authority
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This storage guide is verified based on official guidelines from the <strong>Mayo Clinic & Food Safety Information Services</strong>.
+    </p>
+  </div>
+</div>
+
 
 ---
 

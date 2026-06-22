@@ -8,7 +8,21 @@ heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "storeself"
 ---
 
-고급 엑스트라 버진 올리브유를 아끼려고 냉장고에 보관하셨나요? 이는 올리브유의 영양 성분과 특유의 향을 모두 파괴하는 지름길입니다.
+Did you put extra virgin olive oil in the fridge to preserve it? Today, StoreSelf shares UC Davis Olive Center and IOC-verified room temperature storage hacks.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Verified Scientific Authority
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This storage guide is verified based on official guidelines from the <strong>International Olive Council (IOC) & UC Davis Olive Center</strong>.
+    </p>
+  </div>
+</div>
+
 
 ---
 

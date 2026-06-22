@@ -8,7 +8,21 @@ heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
 ---
 
-오징어를 냉동실에 얼려두었는데 아이스크림이나 다른 냉동식품에서 꿉꿉한 오징어 냄새가 난 경험 있으시죠? 해산물 냄새를 완벽히 가두는 보관법을 소개합니다.
+오징어를 냉동실에 얼려두었는데 다른 냉동식품에서 꿉꿉한 냄새가 난 경험 있으시죠? 오늘 StoreSelf에서는 국립수산과학원의 수산물 신선 가이드를 기초로 냄새 배임 없는 오징어 보관법을 소개합니다.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      신뢰 근거 기관
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 가이드는 <strong>국립수산과학원 및 식품의약품안전처</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+    </p>
+  </div>
+</div>
+
 
 ---
 

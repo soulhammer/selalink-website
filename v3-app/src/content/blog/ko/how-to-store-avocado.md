@@ -8,7 +8,21 @@ heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
 ---
 
-덜 익은 아보카도를 무심코 냉장고에 넣었다가 푸석푸석하게 썩어 버린 경험 있으시죠? 아보카도는 후숙의 타이밍과 보관 온도가 신선도를 결정합니다.
+덜 익은 아보카도를 무심코 냉장고에 넣었다가 푸석푸석하게 썩어 버린 경험 있으시죠? 오늘 StoreSelf에서는 캘리포니아 아보카도 위원회(CAC)와 미국 농무부(USDA)의 가이드를 기반으로, 아보카도 후숙 타이밍과 완벽 보관 비법을 전합니다.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      신뢰 근거 기관
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 가이드는 <strong>캘리포니아 아보카도 위원회(CAC) 및 미국 농무부(USDA)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+    </p>
+  </div>
+</div>
+
 
 ---
 

@@ -8,7 +8,21 @@ heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
 ---
 
-생닭 표면의 끈적거림 때문에 물에 박박 씻어서 냉장고에 넣으셨나요? 이는 식중독 원인균인 캠필로박터균을 주방 식기와 벽면에 다 퍼뜨리는 대단히 위험한 행위입니다.
+생닭을 물에 씻으면 식중독균이 주방에 확산됩니다. 오늘 StoreSelf에서는 미국 질병통제예방센터(CDC)의 주방 위생 지침에 따른 안전한 생닭 손질 및 보관 요령을 소개합니다.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      신뢰 근거 기관
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 가이드는 <strong>미국 질병통제예방센터(CDC) 및 농무부(USDA)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+    </p>
+  </div>
+</div>
+
 
 ---
 

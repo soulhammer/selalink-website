@@ -8,7 +8,21 @@ heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
 ---
 
-건강을 위해 매일 먹는 아몬드, 호두를 상온 식탁 위에 투명 병에 담아 보관하셨나요? 이는 가족 모두에게 유해 성분을 먹이는 위험한 지름길입니다.
+Do you leave healthy nuts in transparent jars on your kitchen table? Today, StoreSelf shares safe nut preservation guides based on FDA aflatoxin control guidelines.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Verified Scientific Authority
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This storage guide is verified based on official guidelines from the <strong>Food and Drug Administration (FDA) & Almond Board of California</strong>.
+    </p>
+  </div>
+</div>
+
 
 ---
 

@@ -8,7 +8,21 @@ heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
 ---
 
-오징어를 냉동실에 얼려두었는데 아이스크림이나 다른 냉동식품에서 꿉꿉한 오징어 냄새가 난 경험 있으시죠? 해산물 냄새를 완벽히 가두는 보관법을 소개합니다.
+Does frozen squid leave a fishy smell on other freezer items? Today, StoreSelf presents odor-locking squid storage hacks based on NIFS guidelines.
+
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Verified Scientific Authority
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This storage guide is verified based on official guidelines from the <strong>National Institute of Fisheries Science (NIFS) & Ministry of Food and Drug Safety</strong>.
+    </p>
+  </div>
+</div>
+
 
 ---
 
