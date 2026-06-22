@@ -10,7 +10,7 @@ authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "Não armazene na geladeira — Evite a solidificação ❌❄️"
     text: "Refrigerar o azeite de oliva faz com que ele solidifique e crie cristais brancos. Esse ciclo destrói o sabor premium e os nutrientes como o ácido oleico. Mantenha em temperatura ambiente (14-18 °C)."
-  - name: "Evite luz solar direta e use garrafas escuras — Bloqueie a luz 🫙"
+  - name: "Evite luz solar direta e use garrafas escuras — Conservação em Temp. Ambiente (365Dias) 🫙"
     text: "A luz ultravioleta é a principal causa de rancidez em óleos vegetais. Se o azeite vier em garrafa plástica transparente, embrulhe-a com papel alumínio ou mude para uma garrafa de vidro escuro para proteger da luz."
   - name: "Guarde em armário fresco longe de fontes de calor — Proteção contra calor 🌬️"
     text: "Não guarde o azeite perto do fogão ou forno por conveniência. A exposição ao calor dobra a velocidade de oxidação. Guarde em um armário fresco e escuro, longe de fontes de calor."
@@ -53,7 +53,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evite luz solar direta e use garrafas escuras — Bloqueie a luz 🫙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evite luz solar direta e use garrafas escuras — Conservação em Temp. Ambiente (365Dias) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     A luz ultravioleta é a principal causa de rancidez em óleos vegetais. Se o azeite vier em garrafa plástica transparente, embrulhe-a com papel alumínio ou mude para uma garrafa de vidro escuro para proteger da luz.

@@ -8,7 +8,7 @@ heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Jangan simpan di rak pintu kulkas — Taruh di rak bagian dalam ❌ Pintu"
+  - name: "Jangan simpan di rak pintu kulkas — Penyimpanan Dingin (7Hari)"
     text: "Rak pintu kulkas mengalami perubahan suhu paling drastis setiap kali dibuka dan ditutup. Agar susu awet, simpan di rak bagian dalam kulkas yang suhunya stabil pada 0–4°C."
   - name: "Habiskan dalam 7 hari setelah dibuka — Mencegah bakteri 🥛"
     text: "Saat kemasan susu dibuka, udara membawa masuk oksigen dan bakteri, memulai pembusukan. Hindari menyentuh bagian corong tuang dan habiskan susu dalam 7 hari tanpa memedulikan tanggal kedaluwarsa."
@@ -43,7 +43,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jangan simpan di rak pintu kulkas — Taruh di rak bagian dalam ❌ Pintu</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jangan simpan di rak pintu kulkas — Penyimpanan Dingin (7Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Rak pintu kulkas mengalami perubahan suhu paling drastis setiap kali dibuka dan ditutup. Agar susu awet, simpan di rak bagian dalam kulkas yang suhunya stabil pada 0–4°C.

@@ -10,9 +10,9 @@ authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "Innereien und Saugnäpfe gründlich reinigen — Fischgeruch blockieren 🦑"
     text: "Die Innereien und der Schmutz in den Saugnäpfen sind die Hauptursache für Fischgeruch und Bakterien. Schneiden Sie den Körper auf, entfernen Sie Innereien und Tintenbeutel, und spülen Sie die Fangarme ab."
-  - name: "Vollständig trocknen und in Frischhaltefolie wickeln — Texturschutz 📦"
+  - name: "Vollständig trocknen und in Frischhaltefolie wickeln — Kühllagerung (2Tage) 📦"
     text: "Wischen Sie die gereinigten Tintenfische innen und außen mit Küchenpapier gründlich trocken. Restwasser bildet Eiskristalle, die das Fleisch nach dem Auftauen zäh machen. Einzeln einwickeln."
-  - name: "In Gefrierbeutel legen und doppelt versiegeln — Geruchsübertragung verhindern 🛡️"
+  - name: "In Gefrierbeutel legen und doppelt versiegeln — Gefrierlagerung (60Tage)"
     text: "Legen Sie die eingewickelten Tintenfische in einen Gefrierbeutel, pressen Sie die Luft heraus und lagern Sie sie bei unter -18 °C. Dies schützt andere Lebensmittel vor Fischgeruch."
 ---
 
@@ -53,7 +53,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vollständig trocknen und in Frischhaltefolie wickeln — Texturschutz 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vollständig trocknen und in Frischhaltefolie wickeln — Kühllagerung (2Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wischen Sie die gereinigten Tintenfische innen und außen mit Küchenpapier gründlich trocken. Restwasser bildet Eiskristalle, die das Fleisch nach dem Auftauen zäh machen. Einzeln einwickeln.
@@ -63,7 +63,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In Gefrierbeutel legen und doppelt versiegeln — Geruchsübertragung verhindern 🛡️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In Gefrierbeutel legen und doppelt versiegeln — Gefrierlagerung (60Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Legen Sie die eingewickelten Tintenfische in einen Gefrierbeutel, pressen Sie die Luft heraus und lagern Sie sie bei unter -18 °C. Dies schützt andere Lebensmittel vor Fischgeruch.

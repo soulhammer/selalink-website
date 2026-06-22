@@ -8,11 +8,11 @@ heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
-  - name: "洗わずに新聞紙で包んで立てて保存する — 立てて保存 🌿"
+  - name: "洗わずに新聞紙で包んで立てて保存する — 常温保存 (5日間) 🌿"
     text: "大ネギは水気をつけないまま新聞紙で包み、涼しい日陰に根を下にして立てて置きます。ネギが立っている生育環境を模倣することで, 劣化のスピードを遅らせることができます。"
-  - name: "洗った大ネギは水分を取り、ペーパーを敷いた容器に立てて保存 📦"
+  - name: "洗った大ネギは水分を取り、ペーパーを敷いた容器に立てて保存 — 冷蔵保存 (14日間) 📦"
     text: "洗った大ネギは, サラダスピナーやペーパー等で水分を完全に拭き取ってください。背の高い密閉容器の底にペーパーを敷き, 根を下にして立てて冷蔵庫の野菜室に入れます。"
-  - name: "刻んで密閉し、冷凍保存する — 長期保存 ❄️"
+  - name: "刻んで密閉し、冷凍保存する — 冷凍保存 (180日間)"
     text: "2週間以内に使い切れないネギは, あらかじめ刻んで水分を完全に乾かしてから, ジッパーバッグに入れて冷凍庫で保存します。調理の際, 凍ったまま鍋などに入れるとネギが潰れません。"
 ---
 
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">洗わずに新聞紙で包んで立てて保存する — 立てて保存 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">洗わずに新聞紙で包んで立てて保存する — 常温保存 (5日間) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     大ネギは水気をつけないまま新聞紙で包み、涼しい日陰に根を下にして立てて置きます。ネギが立っている生育環境を模倣することで, 劣化のスピードを遅らせることができます。
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">洗った大ネギは水分を取り、ペーパーを敷いた容器に立てて保存 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">洗った大ネギは水分を取り、ペーパーを敷いた容器に立てて保存 — 冷蔵保存 (14日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     洗った大ネギは, サラダスピナーやペーパー等で水分を完全に拭き取ってください。背の高い密閉容器の底にペーパーを敷き, 根を下にして立てて冷蔵庫の野菜室に入れます。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">刻んで密閉し、冷凍保存する — 長期保存 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">刻んで密閉し、冷凍保存する — 冷凍保存 (180日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     2週間以内に使い切れないネギは, あらかじめ刻んで水分を完全に乾かしてから, ジッパーバッグに入れて冷凍庫で保存します。調理の際, 凍ったまま鍋などに入れるとネギが潰れません。

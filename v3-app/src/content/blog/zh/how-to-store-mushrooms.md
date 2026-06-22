@@ -12,7 +12,7 @@ steps:
     text: "菇类表面布满微小孔隙，会像海绵一样迅速吸水。如果洗过后再保存，菇类内部组织会软烂塌陷，使其失去弹牙的口感和独特鲜味。烹饪前只需用纸巾轻轻掸掉杂质即可。"
   - name: "用纸袋或厨房纸包裹密封 — 吸除湿气 📦"
     text: "如果用普通塑料袋保存，菇类自身呼吸产生的水汽无法散发，会形成冷凝水使其很快腐烂。应使用能吸收湿气并保持微量透气的纸袋（牛皮纸）或厨房纸巾包裹后再收纳。"
-  - name: "存放在冷藏室隔板上避免挤压 — 保持形态 ❄️"
+  - name: "存放在冷藏室隔板上避免挤压 — 冷藏储存 (3天)"
     text: "菇类组织娇嫩，如果压在重物之下，细胞壁破损会导致其变黑并开始变质腐烂。应将其平放在冰箱上层层架，或蔬菜盒的最上方，避免受任何重压。"
 ---
 
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">存放在冷藏室隔板上避免挤压 — 保持形态 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">存放在冷藏室隔板上避免挤压 — 冷藏储存 (3天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     菇类组织娇嫩，如果压在重物之下，细胞壁破损会导致其变黑并开始变质腐烂。应将其平放在冰箱上层层架，或蔬菜盒的最上方，避免受任何重压。

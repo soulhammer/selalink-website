@@ -10,9 +10,9 @@ authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "Bersihkan jeroan dan tentakel sepenuhnya — Mencegah bau amis 🦑"
     text: "Jeroan cumi dan kotoran pada alat hisap tentakel adalah sumber bau amis dan bakteri. Belah tubuh cumi, buang jeroan dan kantong tinta, lalu gosok tentakel di bawah air mengalir."
-  - name: "Keringkan sepenuhnya lalu bungkus dengan plastik wrap — Menjaga tekstur 📦"
+  - name: "Keringkan sepenuhnya lalu bungkus dengan plastik wrap — Penyimpanan Dingin (2Hari) 📦"
     text: "Lap semua sisa air pada bagian dalam dan luar cumi dengan tisu dapur. Air yang tersisa memicu kristal es yang merusak serat cumi saat dibekukan, membuatnya lembek saat dicairkan."
-  - name: "Masukkan ke kantong ziploc lalu segel ganda untuk dibekukan — Menahan bau 🛡️"
+  - name: "Masukkan ke kantong ziploc lalu segel ganda untuk dibekukan — Penyimpanan Beku (60Hari)"
     text: "Masukkan cumi yang telah dibungkus ke dalam kantong ziploc, buang udaranya, lalu bekukan di bawah -18°C. Segel ganda menahan bau amis agar tidak menyebar ke makanan lain."
 ---
 
@@ -53,7 +53,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Keringkan sepenuhnya lalu bungkus dengan plastik wrap — Menjaga tekstur 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Keringkan sepenuhnya lalu bungkus dengan plastik wrap — Penyimpanan Dingin (2Hari) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Lap semua sisa air pada bagian dalam dan luar cumi dengan tisu dapur. Air yang tersisa memicu kristal es yang merusak serat cumi saat dibekukan, membuatnya lembek saat dicairkan.
@@ -63,7 +63,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Masukkan ke kantong ziploc lalu segel ganda untuk dibekukan — Menahan bau 🛡️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Masukkan ke kantong ziploc lalu segel ganda untuk dibekukan — Penyimpanan Beku (60Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Masukkan cumi yang telah dibungkus ke dalam kantong ziploc, buang udaranya, lalu bekukan di bawah -18°C. Segel ganda menahan bau amis agar tidak menyebar ke makanan lain.

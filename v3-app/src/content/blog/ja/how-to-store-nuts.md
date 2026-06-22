@@ -8,11 +8,11 @@ heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
-  - name: "開封後は必ず密閉して冷蔵・冷凍保存 — アフラトキシン遮断 ❄️"
+  - name: "開封後は必ず密閉して冷蔵・冷凍保存 — 冷蔵 90日間 & 冷凍 180日間"
     text: "ナッツ類は高温多湿の常温に放置すると, 脂質が酸化して悪臭を放ちます。また, 発がん性のあるカビ毒アフラトキシンが発生しやすくなるため, 開封後は必ず密閉して冷蔵または冷凍で保存してください。"
   - name: "遮光の密閉容器や保存袋に小分けにする — 光を遮る 📦"
     text: "光や酸素は, ナッツに含まれる良質な不飽和脂肪酸の酸化を促します。透明な保存袋よりも, 光を通さない不透明な袋や濃い色の密閉容器に入れ, 乾燥剤を入れて空気を遮断してください。"
-  - name: "湿気のない乾燥した状態を維持 — 乾燥密閉 🌬️"
+  - name: "湿気のない乾燥した状態を維持 — 常温保存 (15日間)"
     text: "ナッツは湿気を吸うと食感が悪くなり, 風味も損なわれます。保存時は常に乾燥した状態を保ち, 開封後は必ず密閉容器に移して湿気が入り込まないように注意してください。"
 ---
 
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">開封後は必ず密閉して冷蔵・冷凍保存 — アフラトキシン遮断 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">開封後は必ず密閉して冷蔵・冷凍保存 — 冷蔵 90日間 & 冷凍 180日間</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     ナッツ類は高温多湿の常温に放置すると, 脂質が酸化して悪臭を放ちます。また, 発がん性のあるカビ毒アフラトキシンが発生しやすくなるため, 開封後は必ず密閉して冷蔵または冷凍で保存してください。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">湿気のない乾燥した状態を維持 — 乾燥密閉 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">湿気のない乾燥した状態を維持 — 常温保存 (15日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     ナッツは湿気を吸うと食感が悪くなり, 風味も損なわれます。保存時は常に乾燥した状態を保ち, 開封後は必ず密閉容器に移して湿気が入り込まないように注意してください。

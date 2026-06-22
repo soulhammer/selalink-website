@@ -8,7 +8,7 @@ heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
-  - name: "切勿放在冰箱门架上 — 存放在内部深处 ❌ 门"
+  - name: "切勿放在冰箱门架上 — 冷藏储存 (7天)"
     text: "冰箱门是开关时温度变动最剧烈的地方。为了保证牛奶的新鲜，应避免存放在门架上，而应放在冷气充足且温度稳定在0-4℃的冰箱内侧隔板上。"
   - name: "开封后在7天内饮用完 — 抑制微生物 🥛"
     text: "从牛奶包装打开的瞬间起，空气中的微生物和氧气就会进入，牛奶开始发生酸败。注意不要用手碰触纸盒倒出口，开封后请务必在一周内喝完，无论原保质期还有多久。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">切勿放在冰箱门架上 — 存放在内部深处 ❌ 门</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">切勿放在冰箱门架上 — 冷藏储存 (7天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     冰箱门是开关时温度变动最剧烈的地方。为了保证牛奶的新鲜，应避免存放在门架上，而应放在冷气充足且温度稳定在0-4℃的冰箱内侧隔板上。

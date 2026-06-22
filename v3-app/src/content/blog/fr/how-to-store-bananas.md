@@ -9,11 +9,11 @@ app: "storeself"
 youtubeId: "yJz71H46PJM"
 
 steps:
-  - name: "Utiliser un porte-banane — Éviter les meurtrissures 🍌"
+  - name: "Suspendre les bananes sur un support — Stockage à Temp. Ambiante (7 Jours) 🍌"
     text: "Laisser les bananes posées à plat écrase les fruits du dessous sous leur propre poids. Ces zones meurtries rejettent plus d'éthylène et noircissent. 💡 Astuce de conservation : Suspendez les bananes à un crochet. Cela imite leur position sur le bananier, évitant les chocs et préservant leur fermeté plus longtemps."
   - name: "Envelopper la couronne de papier aluminium — Bloquer le gaz 🪙"
     text: "Le gaz éthylène de la banane provient principalement de la tige. 💡 Astuce de conservation : Enveloppez la couronne de papier aluminium ou de film étirable. Cela bloque la diffusion du gaz et retarde le mûrissement de 3 à 5 jours."
-  - name: "Réfrigérer une fois bien mûr — Ralentir la dégradation ❄️"
+  - name: "Réfrigérer UNIQUEMENT après mûrissement — Stockage Réfrigéré (7 Jours) ❄️"
     text: "On pense souvent qu'il ne faut jamais réfrigérer les bananes, mais cela ne concerne que les bananes vertes. Le froid les abîme et les fait noircir sans mûrir. En revanche, les bananes mûres tachées de noir réagissent bien. 💡 Astuce de conservation : Enveloppez les bananes mûres séparément et placez-les dans le bac à légumes (0-4 °C). La peau va noircir, mais la chair restera ferme et fraîche une semaine de plus."
 ---
 
@@ -53,7 +53,7 @@ Par conséquent, la règle d'or pour conserver les bananes est : 🌿 **"Minimis
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Suspendre les bananes sur un support — Éviter les meurtrissures 🍌</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Suspendre les bananes sur un support — Stockage à Temp. Ambiante (7 Jours) 🍌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Poser les bananes directement sur le plan de travail écrase les fruits du dessous sous le poids du régime, créant des taches brunes qui accélèrent le mûrissement.<br/><br/>
@@ -75,7 +75,7 @@ Par conséquent, la règle d'or pour conserver les bananes est : 🌿 **"Minimis
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Réfrigérer UNIQUEMENT après mûrissement ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Réfrigérer UNIQUEMENT après mûrissement — Stockage Réfrigéré (7 Jours) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     On entend souvent qu'il ne faut jamais mettre de bananes au frigo. C'est en fait une demi-vérité. Y placer des bananes vertes causera des dommages dus au froid et stoppera leur mûrissement. En revanche, pour des <strong>bananes bien mûres</strong> (avec de jolies taches sombres), les règles changent.<br/><br/>

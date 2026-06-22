@@ -12,7 +12,7 @@ steps:
     text: "The blood and liquid (drip) leaking from the beef are the primary cause of unpleasant odors and bacterial growth. Press the meat firmly with paper towels to absorb all surface moisture before cooking or storing."
   - name: "Lightly coat the surface with cooking oil (olive oil) — Block oxygen 🫒"
     text: "Lightly brush cooking oil or olive oil on the surface of the dry beef. The oil barrier blocks air contact, delaying oxidation (browning) and keeping the meat fresh."
-  - name: "Wrap tightly with plastic wrap to exclude air — Vacuum effect 📦"
+  - name: "Wrap tightly with plastic wrap to exclude air — Refrigerated 3 days, Frozen 90 days 📦"
     text: "Wrap the oil-coated beef tightly in plastic wrap, squeezing out any air pockets. This sealing method keeps the beef tasting fresh for up to 3 days in the fridge and up to 90 days in the freezer."
 ---
 
@@ -63,7 +63,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap tightly with plastic wrap to exclude air — Vacuum effect 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap tightly with plastic wrap to exclude air — Refrigerated 3 days, Frozen 90 days 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wrap the oil-coated beef tightly in plastic wrap, squeezing out any air pockets. This sealing method keeps the beef tasting fresh for up to 3 days in the fridge and up to 90 days in the freezer.

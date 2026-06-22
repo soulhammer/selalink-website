@@ -38,7 +38,7 @@ authority: "<strong>미국 식품의약국(FDA) 및 미국 농무부(USDA)</stro
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">표면의 기름기와 수분 제거하기 — 오염 차단 🍣</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">표면의 기름기와 수분 제거하기 — 냉장 보관 (2일) 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     생연어 표면의 기름과 수분은 공기 중 산소와 닿자마자 산패하여 산패취(비린내)를 뿜어냅니다. 보관 전 키친타월로 연어 겉면의 오일과 물기를 부드럽게 꾹꾹 눌러 제거하세요.
@@ -58,7 +58,7 @@ authority: "<strong>미국 식품의약국(FDA) 및 미국 농무부(USDA)</stro
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">식품용 랩으로 진공에 가깝게 포장하기 — 완벽 차단 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">식품용 랩으로 진공에 가깝게 포장하기 — 냉동 보관 (90일) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     레몬즙 코팅된 연어를 랩 위에 올리고 공기가 전혀 통하지 않도록 꽁꽁 감싸 밀착 랩핑합니다. 공기 접촉을 차단하여 신선도 저하를 늦추고 냉장실 안쪽에 넣어 2일 이내 섭취해야 합니다.

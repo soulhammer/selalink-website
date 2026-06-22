@@ -10,7 +10,7 @@ app: "storeself"
 steps:
   - name: "Wrap individually with plastic wrap without washing — Moisture retention 📦"
     text: "Exposing apples to open air or refrigerating them directly causes moisture to evaporate, making the skin wrinkly and the flesh mealy. 💡 Storage Tip: Wrap each dry apple tightly with plastic wrap or a small plastic bag. This locks in the natural moisture to maintain a crisp texture and prevents the ethylene gas from leaking out to surrounding foods."
-  - name: "Store at a low temperature of 0–4°C — Delay ripening ❄️"
+  - name: "Store at Low Temperature (0 to 4°C / 32 to 39°F) — Refrigerated Storage (30 Days) ❄️"
     text: "Higher temperatures speed up the apple's respiration, leading to more ethylene gas release and quicker spoilage. 💡 Storage Tip: The optimal storage temperature for apples is 0–4°C. Place the wrapped apples in the crisper drawer of your refrigerator. Avoid sub-zero temperatures as freezing alters the texture and taste."
   - name: "Isolate completely from other foods — Double protection 🛡️"
     text: "Even if wrapped, the strong ethylene gas from apples can travel through the refrigerator air and affect other fresh produce. 💡 Storage Tip: Put the individually wrapped apples inside a sealed ziploc bag or airtight container for double sealing. Keep them in a separate compartment away from ethylene-sensitive vegetables and fruits like lettuce, spinach, bananas, and pears."
@@ -63,7 +63,7 @@ Therefore, the key to successful apple storage is **preventing moisture loss and
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store at Low Temperature (0 to 4°C / 32 to 39°F) — Delay Ripening ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store at Low Temperature (0 to 4°C / 32 to 39°F) — Refrigerated Storage (30 Days) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Warm temperatures accelerate the respiration rate of apples, which triggers more ethylene emission and quicker spoilage.<br/><br/>

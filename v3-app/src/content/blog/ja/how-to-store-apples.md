@@ -10,7 +10,7 @@ app: "storeself"
 steps:
   - name: "洗わずに食品用ラップで個別に包む — 水分キープ 📦"
     text: "リンゴをそのまま常温や冷蔵庫に置いておくと、水分が抜けて皮がしわしわになり、食感がパサついてしまいます。💡保存のコツ：水気のついていないリンゴを食品用ラップで1個ずつ隙間なく包んでください。水分が閉じ込められてシャキシャキ感が長持ちし、エチレンガスの放出も防ぐことができます。"
-  - name: "0〜4℃の低温冷蔵保存 — 追熟と呼吸の抑制 ❄️"
+  - name: "0〜4℃の低温で冷蔵保存する — 冷蔵保存 (30日間) ❄️"
     text: "温度が高くなるとリンゴの呼吸作用が活発になり、エチレンの放出量が増えて傷みやすくなります。💡保存のコツ：リンゴの保存に最適な温度は0〜4℃です。ラップで包んだリンゴを冷蔵庫の野菜室に入れてください。氷点下になると凍って食感が変わるため、適切な温度を維持することが重要です。"
   - name: "他の食材と完全に隔離して保存する — 徹底遮断 🛡️"
     text: "いくらラップで包んでいても、リンゴの強いエチレンガスは冷蔵庫の空気を伝って他の食材を傷める原因になります。💡保存のコツ：包んだリンゴをさらにチャック付き保存袋や密閉容器に入れ、二重に密閉してください。レタス、ほうれん草、バナナ、梨などのエチレンガスに弱い食材とは別の段に分けて保管しましょう。"
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">0〜4℃の低温で冷蔵保存する — 成熟と呼吸を遅らせる ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">0〜4℃の低温で冷蔵保存する — 冷蔵保存 (30日間) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     温度が高くなるとリンゴの呼吸作用が活発になり、エチレンガスの放出量が増えて早く傷んでしまいます。<br/><br/>

@@ -9,11 +9,11 @@ app: "storeself"
 youtubeId: "yJz71H46PJM"
 
 steps:
-  - name: "使用香蕉架挂起 — 防止压伤 🍌"
+  - name: "使用香蕉架悬挂保存 — 常温储存 (7天) 🍌"
     text: "如果将香蕉直接平放在桌面上，下方的香蕉会因自身重力受压产生褐斑。受损部位释放更多乙烯并加速变黑。💡储存小贴士：用香蕉架或挂钩将香蕉悬空挂起。这能模拟香蕉在树上的自然生长环境，防止挤压，长久保持坚挺新鲜。"
   - name: "用铝箔纸包裹香蕉根部 — 阻断气体 🪙"
     text: "香蕉的乙烯气体主要从根部（茎部连接处）释放。💡储存小贴士：用铝箔纸或保鲜膜将香蕉根部紧紧缠绕。这样可以阻断气体散发，将整串香蕉的熟化速度延缓至少3-5天。"
-  - name: "熟透后冷藏保存 — 延缓变质 ❄️"
+  - name: "成熟后放入冰箱冷藏 — 冷藏储存 (7天) ❄️"
     text: "许多人认为香蕉绝对不能放冰箱，但这其实只对未熟的香蕉有效。未熟的绿香蕉放冰箱会受冻伤导致变黑且无法熟化。但出现黑斑（糖斑）熟透的香蕉则不同。💡储存小贴士：将熟透的香蕉用保鲜膜单独包裹起来，放入冰箱蔬菜抽屉（0-4℃）。虽然皮会因低温变黑，但果肉不会变烂，新鲜度和硬度可维持一周以上。"
 ---
 
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">使用香蕉架悬挂保存 — 预防碰伤 🍌</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">使用香蕉架悬挂保存 — 常温储存 (7天) 🍌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     将香蕉平放会让底部的香蕉承受整串的重量，导致果肉受压变软，并集中释放乙烯，加速发黑。<br/><br/>
@@ -75,7 +75,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">成熟后放入冰箱冷藏 — 延缓老化 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">成熟后放入冰箱冷藏 — 冷藏储存 (7天) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     很多人认为“香蕉绝对不能放进冰箱”，这其实只说对了一半。如果把还没熟透的青香蕉放进冰箱，会导致其发生低温冻伤，变黑且不再成熟。但对于<strong>已经长了小黑点（熟透）的香蕉</strong>，情况就不同了。<br/><br/>

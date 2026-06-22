@@ -12,7 +12,7 @@ steps:
     text: "Le sang et le jus qui s'échappent du bœuf sont les principales causes de mauvaises odeurs et de bactéries. Pressez fermement la viande avec du papier absorbant pour sécher la surface avant cuisson ou stockage."
   - name: "Badigeonner la surface d'huile végétale (ou d'olive) — Bloquer l'oxygène 🫒"
     text: "Badigeonnez d'une fine couche d'huile de cuisson ou d'olive la viande séchée. Ce film étanche fait écran à l'air, ce qui retarde l'oxydation et préserve la fraîcheur de la viande."
-  - name: "Envelopper fermement de film plastique sans air — Effet sous vide 📦"
+  - name: "Envelopper fermement de film plastique sans air — Réfrigéré 3 jours, Congelé 90 jours 📦"
     text: "Enveloppez la viande huilée très serré dans du film étirable en chassant l'air. Ainsi scellée, la viande conserve son goût jusqu'à 3 jours au réfrigérateur et 90 jours au congélateur."
 ---
 
@@ -63,7 +63,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper fermement de film plastique sans air — Effet sous vide 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper fermement de film plastique sans air — Réfrigéré 3 jours, Congelé 90 jours 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Enveloppez la viande huilée très serré dans du film étirable en chassant l'air. Ainsi scellée, la viande conserve son goût jusqu'à 3 jours au réfrigérateur et 90 jours au congélateur.

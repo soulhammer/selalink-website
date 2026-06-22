@@ -8,11 +8,11 @@ heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
-  - name: "Store in a shaded area at room temp before fully ripe — Natural ripening 🌿"
+  - name: "Store in a shaded area at room temp before fully ripe — Room Temp Storage (7Days) 🌿"
     text: "Unripe green tomatoes should be stored stem-side up in a shaded area at room temperature (15–20°C). Refrigerating unripe tomatoes permanently stops the ripening process, making the skin wrinkly and destroying the flavor."
   - name: "Remove green stems before storing — Prevent mold ✂️"
     text: "The stem of a tomato is highly susceptible to mold growth. Removing the green stems before storage prevents tomatoes from scratching each other and significantly lowers the risk of mold infections."
-  - name: "Wrap ripe tomatoes in newspaper and store in the crisper — Extend freshness ❄️"
+  - name: "Wrap ripe tomatoes in newspaper and store in the crisper — Refrigerated Storage (7Days)"
     text: "Only store fully red, ripe tomatoes in the refrigerator crisper drawer (5–10°C), wrapped individually in newspaper or plastic wrap. This prevents cold air from evaporating their moisture and skin drying."
 ---
 
@@ -43,7 +43,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store in a shaded area at room temp before fully ripe — Natural ripening 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store in a shaded area at room temp before fully ripe — Room Temp Storage (7Days) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Unripe green tomatoes should be stored stem-side up in a shaded area at room temperature (15–20°C). Refrigerating unripe tomatoes permanently stops the ripening process, making the skin wrinkly and destroying the flavor.
@@ -63,7 +63,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap ripe tomatoes in newspaper and store in the crisper — Extend freshness ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap ripe tomatoes in newspaper and store in the crisper — Refrigerated Storage (7Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Only store fully red, ripe tomatoes in the refrigerator crisper drawer (5–10°C), wrapped individually in newspaper or plastic wrap. This prevents cold air from evaporating their moisture and skin drying.

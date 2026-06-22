@@ -8,7 +8,7 @@ heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS</strong>"
 steps:
-  - name: "Toujours conserver au réfrigérateur entre 0 et 4 °C — Éviter l'oxydation des oméga-3 ❄️"
+  - name: "Toujours conserver au réfrigérateur entre 0 et 4 °C — Stockage Réfrigéré (30Jours)"
     text: "Contrairement à l'huile de sésame, l'huile de pérille ne contient pas de sésamol (conservateur naturel) et possède plus de 60 % d'acides gras oméga-3, ce qui la fait rancir très vite à l'air. Conservez-la obligatoirement au frais (0-4 °C)."
   - name: "Utiliser des flacons en verre teinté et limiter l'air — Oxygène et UV 🫙"
     text: "La lumière et l'oxygène accélèrent fortement l'oxydation des oméga-3. L'huile de pérille doit être conservée en bouteille en verre brun ou vert, en refermant bien le bouchon après usage."
@@ -43,7 +43,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Toujours conserver au réfrigérateur entre 0 et 4 °C — Éviter l'oxydation des oméga-3 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Toujours conserver au réfrigérateur entre 0 et 4 °C — Stockage Réfrigéré (30Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Contrairement à l'huile de sésame, l'huile de pérille ne contient pas de sésamol (conservateur naturel) et possède plus de 60 % d'acides gras oméga-3, ce qui la fait rancir très vite à l'air. Conservez-la obligatoirement au frais (0-4 °C).

@@ -8,9 +8,9 @@ heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
-  - name: "Pendure em local fresco e ventilado com casca — Circulação de ar 🌬️"
+  - name: "Pendure em local fresco e ventilado com casca — Conservação em Temp. Ambiente (30Dias)"
     text: "Cebolas com casca duram mais em locais sombreados e ventilados. Colocá-las individualmente em uma rede ou meia, dando nós entre cada uma e pendurando, evita o contato direto e o apodrecimento."
-  - name: "Seque as cebolas descascadas e embrulhe com filme plástico — Selo frio 📦"
+  - name: "Seque as cebolas descascadas e embrulhe com filme plástico — Armazenamento Refrigerado (14Dias) 📦"
     text: "Seque bem as cebolas descascadas, embrulhe individualmente em filme plástico e guarde na gaveta de legumes. Isso impede o contato com o oxigênio, mantendo-as firmes por até 10 dias."
   - name: "Isole completamente das batatas — Evite o apodrecimento mútuo 🛡️"
     text: "Cebolas e batatas são inimigas de armazenamento. Guardá-las juntas faz com que as batatas absorvam a umidade e os gases das cebolas, brotando rápido. Por outro lado, a umidade das batatas amolece as cebolas. Separe-as."
@@ -43,7 +43,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pendure em local fresco e ventilado com casca — Circulação de ar 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pendure em local fresco e ventilado com casca — Conservação em Temp. Ambiente (30Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Cebolas com casca duram mais em locais sombreados e ventilados. Colocá-las individualmente em uma rede ou meia, dando nós entre cada uma e pendurando, evita o contato direto e o apodrecimento.
@@ -53,7 +53,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque as cebolas descascadas e embrulhe com filme plástico — Selo frio 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque as cebolas descascadas e embrulhe com filme plástico — Armazenamento Refrigerado (14Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Seque bem as cebolas descascadas, embrulhe individualmente em filme plástico e guarde na gaveta de legumes. Isso impede o contato com o oxigênio, mantendo-as firmes por até 10 dias.

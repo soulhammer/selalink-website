@@ -8,9 +8,9 @@ heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
-  - name: "Hang in a cool, well-ventilated area with skins on — Air circulation 🌬️"
+  - name: "Hang in a cool, well-ventilated area with skins on — Room Temp Storage (30Days)"
     text: "Unpeeled onions thrive in shady, well-ventilated spaces. Putting onions individually in a mesh bag or clean pantyhose, tying knots between them, and hanging them up prevents them from touching and spoiling."
-  - name: "Dry peeled onions and wrap individually with plastic wrap — Cold seal 📦"
+  - name: "Dry peeled onions and wrap individually with plastic wrap — Refrigerated Storage (14Days) 📦"
     text: "Wipe all moisture off peeled onions, wrap them individually in plastic wrap, and store them in the refrigerator crisper drawer. This blocks oxygen, keeping them firm and rot-free for up to 10 days."
   - name: "Isolate completely from potatoes — Prevent mutual decay 🛡️"
     text: "Onions and potatoes are rivals. Storing them together causes the potatoes to absorb moisture and gas from the onions, prompting sprouting. Conversely, the potatoes' moisture makes the onions turn soft. Keep them separate."
@@ -43,7 +43,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hang in a cool, well-ventilated area with skins on — Air circulation 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hang in a cool, well-ventilated area with skins on — Room Temp Storage (30Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Unpeeled onions thrive in shady, well-ventilated spaces. Putting onions individually in a mesh bag or clean pantyhose, tying knots between them, and hanging them up prevents them from touching and spoiling.
@@ -53,7 +53,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Dry peeled onions and wrap individually with plastic wrap — Cold seal 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Dry peeled onions and wrap individually with plastic wrap — Refrigerated Storage (14Days) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wipe all moisture off peeled onions, wrap them individually in plastic wrap, and store them in the refrigerator crisper drawer. This blocks oxygen, keeping them firm and rot-free for up to 10 days.

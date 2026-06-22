@@ -8,7 +8,7 @@ heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
-  - name: "絶対に水洗いしない — 天然の保護膜（クチクラ）の保護 ❌💧"
+  - name: "絶対に水洗いしない — 冷蔵保存 (45日間) 💧"
     text: "卵の殻には、呼吸をするための数千個の微細な穴（気孔）が開いています。水洗いすると殻の表面の天然の保護膜（クチクラ）が失われ、気孔を通じてサルモネラ菌などの細菌が内部へ侵入しやすくなります。汚れは乾いた布で拭き取る程度にしてください。"
   - name: "尖った側を下にして立てて保存 — 気室の維持 🥚"
     text: "卵の丸い方の先端には、呼吸をするための空気の部屋（気室）があります。気室側を下にして置くと、黄身が気室に触れて傷みやすくなります。気室が上にくるように、丸い側を上、尖った側を下にして保存しましょう。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">絶対に水洗いしない — 天然の保護膜（クチクラ）の保護 ❌💧</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">絶対に水洗いしない — 冷蔵保存 (45日間) 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     卵の殻には、呼吸をするための数千個の微細な穴（気孔）が開いています。水洗いすると殻の表面の天然の保護膜（クチクラ）が失われ、気孔を通じてサルモネラ菌などの細菌が内部へ侵入しやすくなります。汚れは乾いた布で拭き取る程度にしてください。

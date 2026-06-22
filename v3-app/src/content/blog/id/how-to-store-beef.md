@@ -12,7 +12,7 @@ steps:
     text: "Darah dan cairan yang keluar dari daging sapi adalah penyebab utama bau tidak sedap dan berkembang biaknya bakteri. Tekan daging dengan tisu dapur untuk menyerap semua cairan sebelum dimasak atau disimpan."
   - name: "Oleskan sedikit minyak goreng (atau minyak zaitun) pada permukaan daging — Mencegah kontak oksigen 🫒"
     text: "Oleskan sedikit minyak goreng atau minyak zaitun pada permukaan daging sapi yang sudah kering. Lapisan minyak menahan kontak dengan udara, memperlambat oksidasi dan menjaga kesegaran daging."
-  - name: "Bungkus rapat dengan plastik wrap tanpa udara — Efek kemasan vakum 📦"
+  - name: "Bungkus rapat dengan plastik wrap tanpa udara — Dingin 3 hari, Beku 90 hari 📦"
     text: "Bungkus daging sapi yang telah diolesi minyak dengan plastik wrap, lalu buang semua sisa udara. Metode pembungkusan ini menjaga daging tetap segar hingga 3 hari di kulkas dan 90 hari di freezer."
 ---
 
@@ -63,7 +63,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus rapat dengan plastik wrap tanpa udara — Efek kemasan vakum 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus rapat dengan plastik wrap tanpa udara — Dingin 3 hari, Beku 90 hari 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Bungkus daging sapi yang telah diolesi minyak dengan plastik wrap, lalu buang semua sisa udara. Metode pembungkusan ini menjaga daging tetap segar hingga 3 hari di kulkas dan 90 hari di freezer.

@@ -48,7 +48,7 @@ authority: "<strong>국립수산과학원(NIFS) 및 식품의약품안전처(MFD
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">물기를 완전히 건조하고 랩으로 감싸기 — 텍스처 보호 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">물기를 완전히 건조하고 랩으로 감싸기 — 냉장 보관 (2일) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     세척 완료된 오징어에 물기가 남아있으면 얼릴 때 성에가 생겨 살이 푸석해집니다. 키친타월로 안팎의 수분을 완벽히 닦아내고 한 마리씩 겹치지 않게 식품용 랩으로 평평하게 랩핑합니다.
@@ -58,7 +58,7 @@ authority: "<strong>국립수산과학원(NIFS) 및 식품의약품안전처(MFD
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">지퍼백에 넣어 이중 밀봉 냉동하기 — 냄새 배임 방지 🛡️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">지퍼백에 넣어 이중 밀봉 냉동하기 — 냉동 보관 (60일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     랩핑한 오징어들을 냉동용 지퍼백에 넣고 공기를 뺀 뒤 끝까지 밀봉합니다. 해산물 특유의 트리메틸아민(비린 향 성분) 기체가 냉동실 공기로 퍼져나가는 것을 막기 위해 반드시 이중 밀봉해야 합니다.

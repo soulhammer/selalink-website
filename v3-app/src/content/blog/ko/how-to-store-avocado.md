@@ -38,7 +38,7 @@ authority: "<strong>미국 농무부(USDA) 및 식품의약품안전처(MFDS)</s
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">완숙 전에는 종이봉투에 넣어 상온 보관 — 자연 후숙 🥑</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">완숙 전에는 종이봉투에 넣어 상온 보관 — 실온 보관 (5일) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     단단한 아보카도는 15~20℃ 상온에서 보관해야 합니다. 종이봉투에 넣어 바나나나 사과와 함께 두면 방출되는 에틸렌 가스가 숙성 속도를 빠르게 당겨줍니다.
@@ -48,7 +48,7 @@ authority: "<strong>미국 농무부(USDA) 및 식품의약품안전처(MFDS)</s
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">후숙 완료 시 랩으로 감싸 냉장 보관 — 노화 지연 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">후숙 완료 시 랩으로 감싸 냉장 보관 — 냉장 보관 (7일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     껍질이 검갈색으로 변하고 손으로 쥐었을 때 약간 들어갈 정도로 익은 아보카도는 즉시 개별 랩핑하여 냉장고 야채칸에 보관해 노화 속도를 늦춰야 오래 먹을 수 있습니다.

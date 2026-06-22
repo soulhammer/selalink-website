@@ -8,7 +8,7 @@ heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
-  - name: "Embrulhe as batatas sem lavar em jornal/saco de papel — Bloqueie a luz 📦"
+  - name: "Embrulhe as batatas sem lavar em jornal/saco de papel — Conservação em Temp. Ambiente (45Dias) 📦"
     text: "As batatas duram mais se guardadas com terra. Embrulhá-las em jornal ou sacos de papel bloqueia a luz, evitando que fiquem verdes e produzam solanina (composto tóxico)."
   - name: "Guarde em temp. ambiente com uma maçã — Impeça brotos 🍎"
     text: "Colocar uma maçã na caixa de batatas libera gás etileno, que inibe os genes de crescimento dos brotos, atrasando o surgimento deles de forma eficaz."
@@ -43,7 +43,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe as batatas sem lavar em jornal/saco de papel — Bloqueie a luz 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe as batatas sem lavar em jornal/saco de papel — Conservação em Temp. Ambiente (45Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     As batatas duram mais se guardadas com terra. Embrulhá-las em jornal ou sacos de papel bloqueia a luz, evitando que fiquem verdes e produzam solanina (composto tóxico).

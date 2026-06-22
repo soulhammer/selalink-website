@@ -10,7 +10,7 @@ authority: "<strong>農村振興庁(RDA) & EFSA & FSA</strong>"
 steps:
   - name: "洗わずに新聞紙やペーパーで包む — 湿気コントロール 📦"
     text: "ほうれん草は葉の表面に水分がつくと傷みやすく, すぐに腐ってしまいます。土がついた状態のまま新聞紙やペーパーで軽く包み, 余分な湿気がたまるのを防いでください。"
-  - name: "根を下にして立てて保存する — 呼吸作用の抑制 🌿"
+  - name: "根を下にして立てて保存する — 冷蔵保存 (4日間) 🌿"
     text: "ほうれん草を横にして保存すると, 葉が上へ伸びようとする性質があるためエネルギーを無駄に消費し, すぐにしおれてしまいます。根を下にして容器などに立てて野菜室に保存してください。"
   - name: "エチレンガスを出す果物から隔離する — 遮断保存 🛡️"
     text: "ほうれん草はエチレンガスに非常に敏感で, りんごや梨, トマト等と同じ段に入れると葉が黄色く変色し, 腐敗が早まります。ガスを発生させる果物とは段や場所を完全に分けて保存してください。"
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">根を下にして立てて保存する — 呼吸作用の抑制 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">根を下にして立てて保存する — 冷蔵保存 (4日間) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     ほうれん草を横にして保存すると, 葉が上へ伸びようとする性質があるためエネルギーを無駄に消費し, すぐにしおれてしまいます。根を下にして容器などに立てて野菜室に保存してください。

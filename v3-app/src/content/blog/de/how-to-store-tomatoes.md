@@ -8,11 +8,11 @@ heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
-  - name: "Vor der Reife an einem schattigen Ort bei Raumtemperatur lagern 🌿"
+  - name: "Vor der Reife an einem schattigen Ort bei Raumtemperatur lagern — Lagerung bei Raumtemperatur (7Tage) 🌿"
     text: "Unreife grüne Tomaten sollten mit dem Strunk nach oben an einem schattigen Ort bei Raumtemperatur (15–20 °C) reifen. Das Kühlen stoppt die Reifung und führt zu schrumpeliger Schale."
   - name: "Grüne Strunke vor dem Lagern entfernen — Schimmel vermeiden ✂️"
     text: "Am Strunk bildet sich am leichtesten Schimmel. Das Entfernen vor dem Lagern verhindert, dass sich die Tomaten gegenseitig beschädigen, und verringert das Schimmelrisiko."
-  - name: "Reife Tomaten in Zeitung wickeln und im Gemüsefach lagern ❄️"
+  - name: "Reife Tomaten in Zeitung wickeln und im Gemüsefach lagern ❄️ — Kühllagerung (7Tage)"
     text: "Lagern Sie nur vollreife Tomaten im Gemüsefach (5–10 °C), einzeln in Zeitungspapier eingewickelt. Dies schützt vor Feuchtigkeitsverlust durch die Kälte."
 ---
 
@@ -43,7 +43,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vor der Reife an einem schattigen Ort bei Raumtemperatur lagern 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vor der Reife an einem schattigen Ort bei Raumtemperatur lagern — Lagerung bei Raumtemperatur (7Tage) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Unreife grüne Tomaten sollten mit dem Strunk nach oben an einem schattigen Ort bei Raumtemperatur (15–20 °C) reifen. Das Kühlen stoppt die Reifung und führt zu schrumpeliger Schale.
@@ -63,7 +63,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Reife Tomaten in Zeitung wickeln und im Gemüsefach lagern ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Reife Tomaten in Zeitung wickeln und im Gemüsefach lagern ❄️ — Kühllagerung (7Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Lagern Sie nur vollreife Tomaten im Gemüsefach (5–10 °C), einzeln in Zeitungspapier eingewickelt. Dies schützt vor Feuchtigkeitsverlust durch die Kälte.

@@ -10,7 +10,7 @@ authority: "<strong>KCA & MFDS</strong>"
 steps:
   - name: "Nunca cubra com filme plástico direto — Evite infecção alimentar ❌🍉"
     text: "Cobrir uma melancia cortada diretamente com filme plástico gera umidade que multiplica as bactérias em milhares de vezes, aumentando o risco de infecção. Nunca guarde apenas com filme plástico."
-  - name: "Retire a casca, corte em cubos e guarde em pote hermético 📦"
+  - name: "Retire a casca, corte em cubos e guarde em pote hermético — Armazenamento Refrigerado (7Dias) 📦"
     text: "Retire a casca com cuidado para que a sujeira de fora não encoste na polpa. Corte a melancia em cubos e guarde em pote hermético limpo com a tampa bem fechada."
   - name: "Guarde no fundo da gaveta de legumes em temperatura de 0-4 °C ❄️"
     text: "Coloque o pote hermético no fundo da gaveta de legumes. Armazenar em local com o mínimo de oscilação térmica mantém a melancia crocante e preserva a doçura."
@@ -53,7 +53,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Retire a casca, corte em cubos e guarde em pote hermético 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Retire a casca, corte em cubos e guarde em pote hermético — Armazenamento Refrigerado (7Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Retire a casca com cuidado para que a sujeira de fora não encoste na polpa. Corte a melancia em cubos e guarde em pote hermético limpo com a tampa bem fechada.

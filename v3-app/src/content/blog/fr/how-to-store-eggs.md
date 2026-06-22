@@ -8,7 +8,7 @@ heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Ne jamais laver les œufs avant stockage — Protéger la cuticule ❌💧"
+  - name: "Ne jamais laver les œufs avant stockage — Stockage Réfrigéré (45Jours) 💧"
     text: "La coquille d'œuf a des milliers de pores par lesquels l'œuf respire. Le lavage dissout la cuticule, barrière protectrice naturelle, ce qui permet aux bactéries (Salmonelles) de s'infiltrer. Essuyez la saleté au chiffon sec."
   - name: "Ranger le bout pointu vers le bas — Préserver la poche d'air 🥚"
     text: "Le gros bout arrondi de l'œuf abrite la chambre à air. Si ce bout est dirigé vers le bas, le jaune risque de se coller à la membrane et de s'altérer. Laissez le gros bout vers le haut pour que l'œuf respire."
@@ -43,7 +43,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ne jamais laver les œufs avant stockage — Protéger la cuticule ❌💧</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ne jamais laver les œufs avant stockage — Stockage Réfrigéré (45Jours) 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     La coquille d'œuf a des milliers de pores par lesquels l'œuf respire. Le lavage dissout la cuticule, barrière protectrice naturelle, ce qui permet aux bactéries (Salmonelles) de s'infiltrer. Essuyez la saleté au chiffon sec.

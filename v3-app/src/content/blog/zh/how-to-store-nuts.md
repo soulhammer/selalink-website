@@ -8,11 +8,11 @@ heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
-  - name: "开封后务必密封冷藏/冷冻 — 阻断黄曲霉毒素 ❄️"
+  - name: "开封后务必密封冷藏/冷冻 — 冷藏 90天 & 冷冻 180天"
     text: "坚果含有大量油脂，如果存放在高温潮湿的常温下，脂肪成分会与氧气氧化产生哈喇味，并且极易滋生1类致癌霉菌毒素——黄曲霉毒素（Aflatoxin）。因此开封后务必密封好冷藏或冷冻保存。"
   - name: "装入不透明密封罐或密封袋 — 阻断光线 📦"
     text: "光照和氧气会加速坚果中优质不饱和脂肪酸的氧化酸败。相比透明自封袋，更建议装入能遮光的不透明铝箔袋或深色密封罐中，并放入脱氧剂（硅胶干燥剂）以隔绝空气和湿气。"
-  - name: "保持干燥无水分状态 — 干燥密封 🌬️"
+  - name: "保持干燥无水分状态 — 常温储存 (15天)"
     text: "坚果一旦受潮就会变软变潮，口感和风味大打折扣。储存时应时刻保持干燥。开封后必须换装入密封性极佳的的容器中，谨防外界湿气渗入。"
 ---
 
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">开封后务必密封冷藏/冷冻 — 阻断黄曲霉毒素 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">开封后务必密封冷藏/冷冻 — 冷藏 90天 & 冷冻 180天</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     坚果含有大量油脂，如果存放在高温潮湿的常温下，脂肪成分会与氧气氧化产生哈喇味，并且极易滋生1类致癌霉菌毒素——黄曲霉毒素（Aflatoxin）。因此开封后务必密封好冷藏或冷冻保存。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">保持干燥无水分状态 — 干燥密封 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">保持干燥无水分状态 — 常温储存 (15天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     坚果一旦受潮就会变软变潮，口感和风味大打折扣。储存时应时刻保持干燥。开封后必须换装入密封性极佳的的容器中，谨防外界湿气渗入。

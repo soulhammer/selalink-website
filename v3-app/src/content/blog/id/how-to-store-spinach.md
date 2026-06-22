@@ -10,7 +10,7 @@ authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
   - name: "Bungkus bayam kering dengan koran/tisu dapur — Mengontrol kelembapan 📦"
     text: "Daun bayam mudah membusuk jika terkena air. Biarkan tanahnya tetap menempel dan bungkus dengan koran atau tisu dapur untuk mencegah kelembapan."
-  - name: "Simpan tegak dengan akar di bawah — Memperlambat respirasi 🌿"
+  - name: "Simpan tegak dengan akar di bawah — Penyimpanan Dingin (4Hari) 🌿"
     text: "Jika disimpan secara tidur, bayam akan membuang energi untuk tumbuh ke atas, membuatnya cepat layu. Simpan bayam dalam posisi tegak dengan akar di bawah di laci sayur."
   - name: "Pisahkan dari buah yang menghasilkan etilen — Perlindungan 🛡️"
     text: "Bayam sangat sensitif terhadap gas etilen. Menyimpannya di rak yang sama dengan apel, pir, atau tomat akan membuat daunnya menguning dan cepat membusuk. Pisahkan wadahnya."
@@ -53,7 +53,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan tegak dengan akar di bawah — Memperlambat respirasi 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan tegak dengan akar di bawah — Penyimpanan Dingin (4Hari) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Jika disimpan secara tidur, bayam akan membuang energi untuk tumbuh ke atas, membuatnya cepat layu. Simpan bayam dalam posisi tegak dengan akar di bawah di laci sayur.

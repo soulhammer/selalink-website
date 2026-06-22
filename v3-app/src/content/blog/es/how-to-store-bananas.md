@@ -9,11 +9,11 @@ app: "storeself"
 youtubeId: "yJz71H46PJM"
 
 steps:
-  - name: "Use un soporte para plátanos — Evite abolladuras 🍌"
+  - name: "Colgar los plátanos en un soporte — Conservación a Temp. Ambiente (7 Días) 🍌"
     text: "Dejar los plátanos apoyados en una superficie aplasta los frutos inferiores por su propio peso. Las partes golpeadas liberan más etileno y se oscurecen. 💡 Consejos de almacenamiento: Cuelgue los plátanos en un soporte. Esto imita su estado natural en el árbol, manteniéndolos firmes y sin abolladuras por más tiempo."
   - name: "Envuelva la corona con papel de aluminio — Bloqueo de gas 🪙"
     text: "La mayor parte del gas etileno del plátano se libera por el tallo (corona). 💡 Consejos de almacenamiento: Envuelva la corona firmemente con papel de aluminio o film plástico. Esto evita que el gas se propague, retrasando la maduración del racimo de 3 a 5 días."
-  - name: "Refrigere una vez maduro — Retrase el deterioro ❄️"
+  - name: "Refrigerar SOLO cuando estén maduros — Almacenamiento Refrigerado (7 Días) ❄️"
     text: "Muchos creen que los plátanos nunca deben refrigerarse, pero esto solo aplica para los verdes. El frío daña los plátanos verdes, ennegreciéndolos sin madurar. Sin embargo, los maduros con manchas oscuras son distintos. 💡 Consejos de almacenamiento: Envuelva los plátanos maduros de forma individual y guárdelos en el cajón de verduras (0-4 °C). La piel se oscurecerá por el frío, pero la pulpa se mantendrá firme por una semana."
 ---
 
@@ -53,7 +53,7 @@ Por lo tanto, la regla de oro para conservar plátanos es: 🌿 **"Minimizar los
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Colgar los plátanos en un soporte — Evitar golpes 🍌</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Colgar los plátanos en un soporte — Conservación a Temp. Ambiente (7 Días) 🍌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Dejar los plátanos apoyados en la encimera hace que los frutos inferiores soporten todo el peso del racimo, lo que los golpea y acelera su maduración.<br/><br/>
@@ -75,7 +75,7 @@ Por lo tanto, la regla de oro para conservar plátanos es: 🌿 **"Minimizar los
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Refrigerar SOLO cuando estén maduros ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Refrigerar SOLO cuando estén maduros — Almacenamiento Refrigerado (7 Días) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Es común creer que los plátanos nunca deben meterse en la nevera, pero esto es solo una verdad a medias. Meter plátanos verdes causará daños por frío y nunca madurarán. Sin embargo, para <strong>plátanos completamente maduros</strong> (con manchas oscuras), las reglas cambian.<br/><br/>

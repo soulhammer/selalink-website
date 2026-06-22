@@ -8,9 +8,9 @@ heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
-  - name: "パックの水は必ず捨て、流水できれいに洗う — 衛生管理 🚿"
+  - name: "パックの水は必ず捨て、流水できれいに洗う — 冷蔵保存 (7日間) 🚿"
     text: "豆腐のパックに入っている水は, 豆腐のタンパク質が溶け出しており, 雑菌が繁殖しやすい状態になっています。保存する前にパックの水を捨て、豆腐を流水で軽く洗い流してください。"
-  - name: "密閉容器に入れ、きれいな冷水と塩をひとつまみ加える — 天然の保存効果 🧂"
+  - name: "密閉容器に入れ、きれいな冷水と塩をひとつまみ加える — 冷凍保存 (21日間) 🧂"
     text: "密閉容器に豆腐が完全に浸かる量のきれいな冷水を注ぎ, 塩をひとつまみ（約小さじ半分）入れて混ぜます。塩水が雑菌の活動を抑え, 豆腐の弾力をキープします。"
   - name: "冷水はなるべく毎日入れ替える — 清潔キープ 💧"
     text: "塩を入れていても, 容器の水は毎日または2日に1回は新しい冷水に入れ替えてください。これにより豆腐が傷むのを防ぎ, 最大1週間まで弾力を保ちながら新鮮に保存できます。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">パックの水は必ず捨て、流水できれいに洗う — 衛生管理 🚿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">パックの水は必ず捨て、流水できれいに洗う — 冷蔵保存 (7日間) 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     豆腐のパックに入っている水は, 豆腐のタンパク質が溶け出しており, 雑菌が繁殖しやすい状態になっています。保存する前にパックの水を捨て、豆腐を流水で軽く洗い流してください。
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">密閉容器に入れ、きれいな冷水と塩をひとつまみ加える — 天然の保存効果 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">密閉容器に入れ、きれいな冷水と塩をひとつまみ加える — 冷凍保存 (21日間) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     密閉容器に豆腐が完全に浸かる量のきれいな冷水を注ぎ, 塩をひとつまみ（約小さじ半分）入れて混ぜます。塩水が雑菌の活動を抑え, 豆腐の弾力をキープします。

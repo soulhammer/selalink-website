@@ -48,7 +48,7 @@ authority: "<strong>한국소비자원(KCA) 및 식품의약품안전처(MFDS)</
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">껍질을 도려내고 깍둑썰기 후 밀폐용기 보관 — 위생 밀봉 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">껍질을 도려내고 깍둑썰기 후 밀폐용기 보관 — 냉장 보관 (7일) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     가장 위생적인 수박 보관법은 껍질 부위를 칼로 완전히 잘라내고 속살만 깍둑썰기(큐브형)하여 플라스틱이나 유리 밀폐용기에 이중 포장하는 것입니다. 세균 번식율을 99% 이상 예방할 수 있습니다.

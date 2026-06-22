@@ -10,9 +10,9 @@ authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "Clean innards and tentacles thoroughly — Block fishy odor 🦑"
     text: "The squid's innards and the dirt on its suction cups are the main cause of fishy smells and bacteria. Split the body open, remove the entrailles and ink sac, and rub the tentacles under running water to scrub away all dirt."
-  - name: "Dry completely and wrap with plastic wrap — Protect texture 📦"
+  - name: "Dry completely and wrap with plastic wrap — Refrigerated Storage (2Days) 📦"
     text: "Wipe all water off the washed squid inside and out with paper towels. Remaining water forms large ice crystals when frozen, which damages the tissue and makes the squid mushy upon thawing. Seal individually in wrap."
-  - name: "Place in a freezer bag and seal double — Prevent odor leaks 🛡️"
+  - name: "Place in a freezer bag and seal double — Frozen Storage (60Days)"
     text: "Put the wrapped squid in a freezer bag, squeeze out the air, and freeze it below -18°C. This double sealing blocks the seafood odor from transferring to other frozen foods."
 ---
 
@@ -53,7 +53,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Dry completely and wrap with plastic wrap — Protect texture 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Dry completely and wrap with plastic wrap — Refrigerated Storage (2Days) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wipe all water off the washed squid inside and out with paper towels. Remaining water forms large ice crystals when frozen, which damages the tissue and makes the squid mushy upon thawing. Seal individually in wrap.
@@ -63,7 +63,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Place in a freezer bag and seal double — Prevent odor leaks 🛡️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Place in a freezer bag and seal double — Frozen Storage (60Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Put the wrapped squid in a freezer bag, squeeze out the air, and freeze it below -18°C. This double sealing blocks the seafood odor from transferring to other frozen foods.

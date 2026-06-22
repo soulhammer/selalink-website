@@ -8,7 +8,7 @@ heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "No guarde en la puerta del refrigerador — Conserve al fondo ❌ Puerta"
+  - name: "No guarde en la puerta del refrigerador — Almacenamiento Refrigerado (7Días)"
     text: "La puerta del refrigerador experimenta los mayores cambios de temperatura cada vez que se abre. Para conservar la leche, colóquela en las repisas internas del refrigerador, donde la temperatura se mantiene estable a 0-4 °C."
   - name: "Consuma en un plazo de 7 días una vez abierta — Limite bacterias 🥛"
     text: "Una vez abierta la leche, el contacto con el aire introduce bacterias, iniciando el deterioro. Evite tocar la boquilla del envase y consúmala en un plazo de 7 días, sin importar la fecha de vencimiento."
@@ -43,7 +43,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">No guarde en la puerta del refrigerador — Conserve al fondo ❌ Puerta</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">No guarde en la puerta del refrigerador — Almacenamiento Refrigerado (7Días)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     La puerta del refrigerador experimenta los mayores cambios de temperatura cada vez que se abre. Para conservar la leche, colóquela en las repisas internas del refrigerador, donde la temperatura se mantiene estable a 0-4 °C.

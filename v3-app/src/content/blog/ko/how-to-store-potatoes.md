@@ -38,7 +38,7 @@ authority: "<strong>식품의약품안전처(MFDS) 및 농촌진흥청(RDA) 및 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">씻지 않고 신문지/종이봉투 개별 포장하기 — 빛 차단 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">씻지 않고 신문지/종이봉투 개별 포장하기 — 실온 보관 (45일) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     감자를 상처 없이 오래 보관하려면 씻지 않은 흙감자 그대로 신문지나 종이봉투로 낱개 포장합니다. 이는 습기를 조절하고 솔라닌 독소를 방지합니다.

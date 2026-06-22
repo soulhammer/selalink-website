@@ -8,9 +8,9 @@ heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
-  - name: "Gantung di area sejuk berventilasi dengan kulit utuh — Sirkulasi udara 🌬️"
+  - name: "Gantung di area sejuk berventilasi dengan kulit utuh — Penyimpanan Suhu Ruang (30Hari)"
     text: "Bawang merah utuh dengan kulitnya cocok ditaruh di tempat teduh berventilasi. Masukkan bawang satu per satu ke kantong jaring, ikat simpul di antaranya, lalu gantung agar tidak saling bersentuhan."
-  - name: "Keringkan bawang kupas lalu bungkus satu per satu dengan plastik wrap 📦"
+  - name: "Keringkan bawang kupas lalu bungkus satu per satu dengan plastik wrap — Penyimpanan Dingin (14Hari) 📦"
     text: "Lap semua sisa air dari bawang kupas, bungkus satu per satu dengan plastik wrap, lalu simpan di laci sayur kulkas. Ini mencegah kontak oksigen, menjaga bawang tetap kokoh hingga 10 hari."
   - name: "Pisahkan sepenuhnya dari kentang — Mencegah pembusukan bersama 🛡️"
     text: "Bawang merah dan kentang adalah musuh dalam penyimpanan. Menyimpannya bersama membuat kentang menyerap air dan gas dari bawang, memicu pertumbuhan tunas. Sebaliknya, air kentang melembekkan bawang."
@@ -43,7 +43,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gantung di area sejuk berventilasi dengan kulit utuh — Sirkulasi udara 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gantung di area sejuk berventilasi dengan kulit utuh — Penyimpanan Suhu Ruang (30Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Bawang merah utuh dengan kulitnya cocok ditaruh di tempat teduh berventilasi. Masukkan bawang satu per satu ke kantong jaring, ikat simpul di antaranya, lalu gantung agar tidak saling bersentuhan.
@@ -53,7 +53,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Keringkan bawang kupas lalu bungkus satu per satu dengan plastik wrap 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Keringkan bawang kupas lalu bungkus satu per satu dengan plastik wrap — Penyimpanan Dingin (14Hari) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Lap semua sisa air dari bawang kupas, bungkus satu per satu dengan plastik wrap, lalu simpan di laci sayur kulkas. Ini mencegah kontak oksigen, menjaga bawang tetap kokoh hingga 10 hari.

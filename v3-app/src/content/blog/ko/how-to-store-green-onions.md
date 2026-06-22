@@ -38,7 +38,7 @@ authority: "<strong>농촌진흥청(RDA) 및 식품의약품안전처(MFDS) 및 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">씻지 않고 신문지에 싸서 세워 보관하기 — 수직 보관 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">씻지 않고 신문지에 싸서 세워 보관하기 — 실온 보관 (5일) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     수확한 대파는 물기를 묻히지 않은 채 신문지에 둘둘 싸서 그늘지고 서늘한 곳에 뿌리가 아래로 향하게 세워 둡니다. 대파가 서 있는 생장 상태를 인식하여 노화가 지연됩니다.
@@ -48,7 +48,7 @@ authority: "<strong>농촌진흥청(RDA) 및 식품의약품안전처(MFDS) 및 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">세척 대파는 물기 제거 후 락앤락에 세워 보관 — 키친타월 활용 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">세척 대파는 물기 제거 후 락앤락에 세워 보관 — 냉장 보관 (14일) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     세척 대파는 꼭 야채 탈수기나 키친타월로 물기를 완벽히 말려야 합니다. 보관 용기 바닥에 키친타월을 깔고 뿌리 방향이 아래로 가게 수직으로 세워 냉장실 야채칸에 보관합니다.
@@ -58,7 +58,7 @@ authority: "<strong>농촌진흥청(RDA) 및 식품의약품안전처(MFDS) 및 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">썰어서 밀봉 후 냉동 보관하기 — 장기 활용 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">썰어서 밀봉 후 냉동 보관하기 — 냉동 보관 (180일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     2주 이내로 다 쓰지 못할 대파는 미리 송송 썰어서 물기를 완전히 말린 후 지퍼백에 밀봉해 냉동 보관합니다. 요리 직전에 얼어 있는 상태 그대로 넣어야 대파가 뭉개지지 않습니다.

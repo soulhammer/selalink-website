@@ -8,9 +8,9 @@ heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
-  - name: "Ungeschält an einem kühlen, gut belüfteten Ort aufhängen — Luftzirkulation 🌬️"
+  - name: "Ungeschält an einem kühlen, gut belüfteten Ort aufhängen — Lagerung bei Raumtemperatur (30Tage)"
     text: "Ungeschälte Zwiebeln gedeihen an schattigen, gut belüfteten Orten. Wenn man die Zwiebeln einzeln in ein Netz legt (Knoten dazwischen machen) und aufhängt, berühren sie sich nicht und faulen nicht."
-  - name: "Geschälte Zwiebeln trocknen und einzeln in Frischhaltefolie wickeln 📦"
+  - name: "Geschälte Zwiebeln trocknen und einzeln in Frischhaltefolie wickeln — Kühllagerung (14Tage) 📦"
     text: "Wischen Sie Feuchtigkeit von geschälten Zwiebeln ab, wickeln Sie sie einzeln in Frischhaltefolie und lagern sie im Gemüsefach. Dies schützt vor Sauerstoff und hält sie bis zu 10 Tage fest."
   - name: "Vollständig von Kartoffeln isolieren — Gegenseitigen Verfall verhindern 🛡️"
     text: "Zwiebeln und Kartoffeln vertragen sich bei der Lagerung nicht. Kartoffeln nehmen Feuchtigkeit und Gase der Zwiebeln auf und keimen schneller. Umgekehrt lässt die Feuchtigkeit der Kartoffeln die Zwiebeln weich werden. Trennen."
@@ -43,7 +43,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ungeschält an einem kühlen, gut belüfteten Ort aufhängen — Luftzirkulation 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ungeschält an einem kühlen, gut belüfteten Ort aufhängen — Lagerung bei Raumtemperatur (30Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Ungeschälte Zwiebeln gedeihen an schattigen, gut belüfteten Orten. Wenn man die Zwiebeln einzeln in ein Netz legt (Knoten dazwischen machen) und aufhängt, berühren sie sich nicht und faulen nicht.
@@ -53,7 +53,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Geschälte Zwiebeln trocknen und einzeln in Frischhaltefolie wickeln 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Geschälte Zwiebeln trocknen und einzeln in Frischhaltefolie wickeln — Kühllagerung (14Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wischen Sie Feuchtigkeit von geschälten Zwiebeln ab, wickeln Sie sie einzeln in Frischhaltefolie und lagern sie im Gemüsefach. Dies schützt vor Sauerstoff und hält sie bis zu 10 Tage fest.

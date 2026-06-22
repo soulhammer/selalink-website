@@ -10,7 +10,7 @@ authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "No almacene en el refrigerador — Evite la solidificación ❌❄️"
     text: "Refrigerar el aceite de oliva hace que se solidifique y cristalice en una pasta blanca. Este proceso repetido daña su sabor premium y nutrientes como el ácido oleico. Consérvelo a temperatura ambiente (14-18 °C)."
-  - name: "Evite la luz solar directa y use botellas oscuras — Bloquee la luz 🫙"
+  - name: "Evite la luz solar directa y use botellas oscuras — Conservación a Temp. Ambiente (365Días) 🫙"
     text: "La luz ultravioleta es la principal causa de rancidez en los aceites vegetales. Si viene en botella de plástico transparente, envuélvala con papel de aluminio o pásela a una botella de vidrio oscuro para protegerla de la luz."
   - name: "Guarde en una alacena fresca lejos de fuentes de calor — Evite calor 🌬️"
     text: "No guarde el aceite cerca de la estufa o el horno por conveniencia. El calor duplica la velocidad de oxidación. Consérvelo en una alacena fresca y oscura, alejado de cualquier fuente de calor."
@@ -53,7 +53,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evite la luz solar directa y use botellas oscuras — Bloquee la luz 🫙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evite la luz solar directa y use botellas oscuras — Conservación a Temp. Ambiente (365Días) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     La luz ultravioleta es la principal causa de rancidez en los aceites vegetales. Si viene en botella de plástico transparente, envuélvala con papel de aluminio o pásela a una botella de vidrio oscuro para protegerla de la luz.

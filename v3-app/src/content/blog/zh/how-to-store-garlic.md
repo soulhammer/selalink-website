@@ -8,11 +8,11 @@ heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
-  - name: "在密封盒底部铺沙糖与厨房纸 — 天然吸湿 🪙"
+  - name: "在密封盒底部铺沙糖与厨房纸 — 冷藏储存 (14天) 🪙"
     text: "在密封保鲜盒底部均匀铺上约1厘米厚的砂糖，上面覆盖2-3层厨房纸巾，然后再放入剥皮的大蒜。砂糖是极佳的天然吸湿剂，能吸收空气中的水分，使大蒜长久保持干燥。"
-  - name: "通蒜装入网袋悬挂 — 常温通风 🌬️"
+  - name: "通蒜装入网袋悬挂 — 常温储存 (30天)"
     text: "带皮的整头大蒜冷藏时容易发芽和霉烂。科学的存放方式是放入网袋中，悬挂在通风、凉爽且避光的地方（10-15℃）保存。"
-  - name: "碎大蒜装入硅胶冰格冷冻 — 分装保存 ❄️"
+  - name: "碎大蒜装入硅胶冰格冷冻 — 冷冻储存 (180天)"
     text: "大量大蒜打碎后，可以平铺入保鲜袋中压出网格线，或者装入硅胶冰格中冷冻。烹饪时按需取出一块，既方便实用，又能减少营养成分流失。"
 ---
 
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">在密封盒底部铺沙糖与厨房纸 — 天然吸湿 🪙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">在密封盒底部铺沙糖与厨房纸 — 冷藏储存 (14天) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     在密封保鲜盒底部均匀铺上约1厘米厚的砂糖，上面覆盖2-3层厨房纸巾，然后再放入剥皮的大蒜。砂糖是极佳的天然吸湿剂，能吸收空气中的水分，使大蒜长久保持干燥。
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">通蒜装入网袋悬挂 — 常温通风 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">通蒜装入网袋悬挂 — 常温储存 (30天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     带皮的整头大蒜冷藏时容易发芽和霉烂。科学的存放方式是放入网袋中，悬挂在通风、凉爽且避光的地方（10-15℃）保存。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">碎大蒜装入硅胶冰格冷冻 — 分装保存 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">碎大蒜装入硅胶冰格冷冻 — 冷冻储存 (180天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     大量大蒜打碎后，可以平铺入保鲜袋中压出网格线，或者装入硅胶冰格中冷冻。烹饪时按需取出一块，既方便实用，又能减少营养成分流失。

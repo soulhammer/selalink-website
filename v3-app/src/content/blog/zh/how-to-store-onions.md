@@ -8,9 +8,9 @@ heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA</strong>"
 steps:
-  - name: "带皮悬挂在通风阴凉处 — 空气流通 🌬️"
+  - name: "带皮悬挂在通风阴凉处 — 常温储存 (30天)"
     text: "带皮洋葱最适合存放在避光且通风良好的地方。将洋葱逐个放入网袋或干净网袜中，在每个洋葱之间打个结并悬挂起来，这样能防止洋葱相互接触挤压变烂。"
-  - name: "剥皮洋葱控干水分后用保鲜膜单独密封 — 冷藏包装 📦"
+  - name: "剥皮洋葱控干水分后用保鲜膜单独密封 — 冷藏储存 (14天) 📦"
     text: "剥去外皮的洋葱，要彻底擦干表面水分，然后用保鲜膜将单个洋葱严密包裹，放入冰箱蔬菜室保存。隔绝空气接触能让洋葱保持坚挺不软烂长达10天。"
   - name: "与土豆必须彻底隔离 — 防止相互腐烂 🛡️"
     text: "洋葱和土豆是“天敌”。如果将它们放在一起，土豆会吸收洋葱释放的水分和气体而迅速发芽；同时土豆的水汽也会导致洋葱变软霉烂，导致两者以极快的速度双双腐烂。请务必分开存放。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">带皮悬挂在通风阴凉处 — 空气流通 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">带皮悬挂在通风阴凉处 — 常温储存 (30天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     带皮洋葱最适合存放在避光且通风良好的地方。将洋葱逐个放入网袋或干净网袜中，在每个洋葱之间打个结并悬挂起来，这样能防止洋葱相互接触挤压变烂。
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">剥皮洋葱控干水分后用保鲜膜单独密封 — 冷藏包装 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">剥皮洋葱控干水分后用保鲜膜单独密封 — 冷藏储存 (14天) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     剥去外皮的洋葱，要彻底擦干表面水分，然后用保鲜膜将单个洋葱严密包裹，放入冰箱蔬菜室保存。隔绝空气接触能让洋葱保持坚挺不软烂长达10天。

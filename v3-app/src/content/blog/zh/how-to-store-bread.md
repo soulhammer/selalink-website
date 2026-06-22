@@ -10,9 +10,9 @@ authority: "<strong>美国农务部(USDA) & FSA</strong>"
 steps:
   - name: "切勿放入冷藏室 — 防止淀粉迅速老化变干 ❌🍞"
     text: "面包的主要成分小麦淀粉在1-6℃的冷藏温度下水分流失最快，分子结构会发生硬化（老化），使面包变得干硬多孔。这种变化即使重新加热也无法完全恢复松软。"
-  - name: "用保鲜膜单片贴紧包裹 — 锁住水分 📦"
+  - name: "用保鲜膜单片贴紧包裹 — 常温储存 (3天) 📦"
     text: "保存前，将吐司单片用保鲜膜包裹，确保排出空气且无缝贴合。如果包装内留有空气，冷冻时容易起霜，导致面包内部失水发硬。"
-  - name: "放入密封袋中立即冷冻 — 锁住新鲜 ❄️"
+  - name: "放入密封袋中立即冷冻 — 冷冻储存 (90天)"
     text: "将单独包好的面包片整齐排入密封拉链袋中，挤出多余空气，然后放入零下18℃以下的冷冻室。吃的时候取出一片，常温解冻15分钟或直接用多士炉烘烤，即可恢复刚出炉般的润泽口感。"
 ---
 
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用保鲜膜单片贴紧包裹 — 锁住水分 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用保鲜膜单片贴紧包裹 — 常温储存 (3天) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     保存前，将吐司单片用保鲜膜包裹，确保排出空气且无缝贴合。如果包装内留有空气，冷冻时容易起霜，导致面包内部失水发硬。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">放入密封袋中立即冷冻 — 锁住新鲜 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">放入密封袋中立即冷冻 — 冷冻储存 (90天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     将单独包好的面包片整齐排入密封拉链袋中，挤出多余空气，然后放入零下18℃以下的冷冻室。吃的时候取出一片，常温解冻15分钟或直接用多士炉烘烤，即可恢复刚出炉般的润泽口感。

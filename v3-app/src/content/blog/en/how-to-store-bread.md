@@ -10,9 +10,9 @@ authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "Never store in the refrigerator compartment — Prevent dry bread ❌🍞"
     text: "The starch in wheat flour, the main component of bread, crystallizes (retrogrades) and dries out fastest at refrigerator temperatures (1–6°C). Once this happens, the bread becomes dry and crumbly, and thawing won't restore its original texture."
-  - name: "Wrap individual slices tightly with plastic wrap — Lock moisture 📦"
+  - name: "Wrap individual slices tightly with plastic wrap — Room Temp Storage (3Days) 📦"
     text: "Wrap each slice of bread tightly with plastic wrap before storing, ensuring no air is trapped inside. If there are air gaps, freezer burn (frost) will develop, drying out and hardening the bread."
-  - name: "Place wrapped slices in a freezer bag and freeze immediately — Fresh quality ❄️"
+  - name: "Place wrapped slices in a freezer bag and freeze immediately — Frozen Storage (90Days)"
     text: "Place the individually wrapped slices into a freezer ziploc bag, squeeze out the air, and store in the freezer below -18°C. When ready to eat, thaw a slice at room temperature for 15 minutes or toast it directly for a fresh, fluffy texture."
 ---
 
@@ -53,7 +53,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap individual slices tightly with plastic wrap — Lock moisture 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap individual slices tightly with plastic wrap — Room Temp Storage (3Days) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wrap each slice of bread tightly with plastic wrap before storing, ensuring no air is trapped inside. If there are air gaps, freezer burn (frost) will develop, drying out and hardening the bread.
@@ -63,7 +63,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Place wrapped slices in a freezer bag and freeze immediately — Fresh quality ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Place wrapped slices in a freezer bag and freeze immediately — Frozen Storage (90Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Place the individually wrapped slices into a freezer ziploc bag, squeeze out the air, and store in the freezer below -18°C. When ready to eat, thaw a slice at room temperature for 15 minutes or toast it directly for a fresh, fluffy texture.

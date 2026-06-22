@@ -12,7 +12,7 @@ steps:
     text: "Cogumelos são porosos e absorvem água como esponjas. Lavá-los antes de guardar destrói a textura firme e o aroma único. Retire a sujeira levemente apenas na hora de cozinhar."
   - name: "Embrulhe em saco de papel ou papel-toalha — Controle de umidade 📦"
     text: "Guardar cogumelos em sacos plásticos retém a umidade da respiração deles, causando condensação e apodrecimento. Embrulhe em papel-toalha ou coloque em um saco de papel pardo."
-  - name: "Guarde em uma prateleira média sem peso por cima — Evite amassados ❄️"
+  - name: "Guarde em uma prateleira média sem peso por cima — Armazenamento Refrigerado (3Dias)"
     text: "Cogumelos têm estruturas delicadas. Se forem amassados por itens pesados, as fibras se rompem, fazendo-os escurecer e apodrecer. Coloque-os com cuidado por cima de outros vegetais."
 ---
 
@@ -63,7 +63,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde em uma prateleira média sem peso por cima — Evite amassados ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde em uma prateleira média sem peso por cima — Armazenamento Refrigerado (3Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Cogumelos têm estruturas delicadas. Se forem amassados por itens pesados, as fibras se rompem, fazendo-os escurecer e apodrecer. Coloque-os com cuidado por cima de outros vegetais.

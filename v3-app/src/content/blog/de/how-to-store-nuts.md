@@ -8,11 +8,11 @@ heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Nach dem Öffnen versiegeln und kühlen/einfrieren — Aflatoxine blockieren ❄️"
+  - name: "Nach dem Öffnen versiegeln und kühlen/einfrieren — Kühllagerung 90 Tage & Gefrierlagerung 180 Tage"
     text: "Nüsse enthalten viel Fett, das bei warmen, feuchten Temperaturen oxidiert und ranzig wird. Diese Umgebung begünstigt auch die Bildung von Aflatoxinen, einem krebserregenden Schimmelpilzgift."
   - name: "In lichtundurchlässigen Behältern verpacken — Lichtschutz 📦"
     text: "Licht und Sauerstoff beschleunigen den Verderb der ungesättigten Fettsäuren in Nüssen. Verwenden Sie statt transparenter Beutel lichtundurchlässige Behälter und legen Sie ein Silica-Gel-Paket hinein."
-  - name: "In trockener, feuchtigkeitsfreier Umgebung lagern — Trockenversiegelung 🌬️"
+  - name: "In trockener, feuchtigkeitsfreier Umgebung lagern — Lagerung bei Raumtemperatur (15Tage)"
     text: "Nüsse verlieren bei Feuchtigkeit schnell ihre Knackigkeit und ihren Geschmack. Halten Sie sie stets trocken. Nach dem Öffnen sofort in einen dichten Behälter umfüllen."
 ---
 
@@ -43,7 +43,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nach dem Öffnen versiegeln und kühlen/einfrieren — Aflatoxine blockieren ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nach dem Öffnen versiegeln und kühlen/einfrieren — Kühllagerung 90 Tage & Gefrierlagerung 180 Tage</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Nüsse enthalten viel Fett, das bei warmen, feuchten Temperaturen oxidiert und ranzig wird. Diese Umgebung begünstigt auch die Bildung von Aflatoxinen, einem krebserregenden Schimmelpilzgift.
@@ -63,7 +63,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In trockener, feuchtigkeitsfreier Umgebung lagern — Trockenversiegelung 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In trockener, feuchtigkeitsfreier Umgebung lagern — Lagerung bei Raumtemperatur (15Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Nüsse verlieren bei Feuchtigkeit schnell ihre Knackigkeit und ihren Geschmack. Halten Sie sie stets trocken. Nach dem Öffnen sofort in einen dichten Behälter umfüllen.

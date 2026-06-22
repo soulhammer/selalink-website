@@ -10,7 +10,7 @@ authority: "<strong>KCA & MFDS</strong>"
 steps:
   - name: "Ne jamais couvrir de film étirable directement — Éviter les bactéries ❌🍉"
     text: "Couvrir directement la pastèque coupée de film étirable crée une humidité où les bactéries se multiplient par milliers, risquant l'intoxication. Ne la conservez jamais sous simple film."
-  - name: "Retirer l'écorce, couper en dés et stocker en boîte hermétique 📦"
+  - name: "Retirer l'écorce, couper en dés et stocker en boîte hermétique — Stockage Réfrigéré (7Jours) 📦"
     text: "Retirez l'écorce en veillant à ce que les impuretés de surface ne touchent pas la chair rouge. Coupez-la en dés et rangez-les dans une boîte hermétique propre bien fermée."
   - name: "Ranger au fond du bac à légumes à température stable de 0-4 °C ❄️"
     text: "Placez la boîte hermétique au fond du bac à légumes. Conserver dans une zone sans écart de température garde la pastèque croquante et préserve son taux de sucre."
@@ -53,7 +53,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Retirer l'écorce, couper en dés et stocker en boîte hermétique 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Retirer l'écorce, couper en dés et stocker en boîte hermétique — Stockage Réfrigéré (7Jours) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Retirez l'écorce en veillant à ce que les impuretés de surface ne touchent pas la chair rouge. Coupez-la en dés et rangez-les dans une boîte hermétique propre bien fermée.

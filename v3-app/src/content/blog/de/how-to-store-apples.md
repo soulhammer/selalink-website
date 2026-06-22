@@ -10,7 +10,7 @@ app: "storeself"
 steps:
   - name: "Ungewaschen einzeln in Frischhaltefolie einwickeln — Feuchtigkeitsschutz 📦"
     text: "Wenn Äpfel ungeschützt gelagert werden, entweicht Feuchtigkeit, wodurch die Schale schrumpelig und das Fruchtfleisch mehlig wird. 💡 Lagerungstipp: Wickeln Sie jeden trockenen Apfel fest in Frischhaltefolie ein. Dies bewahrt die Feuchtigkeit für knackigen Genuss und stoppt die Ausbreitung von Ethylengas."
-  - name: "Bei niedrigen Temperaturen von 0–4 °C lagern — Reifung verzögern ❄️"
+  - name: "Bei niedriger Temperatur lagern (0 bis 4 °C) — Kühllagerung (30 Tage) ❄️"
     text: "Höhere Temperaturen beschleunigen die Atmung des Apfels, was zu mehr Ethylengas und schnellerem Verderb führt. 💡 Lagerungstipp: Die optimale Temperatur liegt bei 0–4 °C. Legen Sie die eingewickelten Äpfel in das Gemüsefach des Kühlschranks. Vermeiden Sie Minustemperaturen, damit sie nicht gefrieren."
   - name: "Vollständig von anderen Lebensmitteln isolieren — Schutzbarriere 🛡️"
     text: "Selbst wenn sie eingewickelt sind, kann das starke Ethylengas der Äpfel über die Luft andere frische Produkte beeinträchtigen. 💡 Lagerungstipp: Legen Sie die Äpfel zusätzlich in einen verschließbaren Beutel oder Behälter. Lagern Sie sie getrennt von ethylenempfindlichem Gemüse und Obst wie Salat, Spinat, Bananen und Birnen."
@@ -63,7 +63,7 @@ Daher ist der Schlüssel zu einer erfolgreichen Apfellagerung, **Feuchtigkeitsve
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bei niedriger Temperatur lagern (0 bis 4 °C) — Reifung verzögern ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bei niedriger Temperatur lagern (0 bis 4 °C) — Kühllagerung (30 Tage) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Warme Temperaturen beschleunigen die Atmungsrate der Äpfel, was zu einer höheren Ethylenemission und einem schnelleren Verderb führt.<br/><br/>

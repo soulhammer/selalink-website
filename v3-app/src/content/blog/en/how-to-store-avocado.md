@@ -8,9 +8,9 @@ heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: "Store in a paper bag at room temperature before fully ripe — Natural ripening 🥑"
+  - name: "Store in a paper bag at room temperature before fully ripe — Room Temp Storage (5Days) 🥑"
     text: "Firm, unripe avocados should be kept at a room temperature of 15–20°C. Placing them in a paper bag with bananas or apples will trap the ethylene gas and accelerate the ripening process."
-  - name: "Wrap with plastic wrap and refrigerate once ripe — Slow down aging ❄️"
+  - name: "Wrap with plastic wrap and refrigerate once ripe — Refrigerated Storage (7Days)"
     text: "Once the skin turns dark brown and yields to gentle pressure, wrap the avocado individually in plastic wrap and store it in the refrigerator crisper drawer to slow down spoilage."
   - name: "Apply lemon juice to cut surfaces and seal — Prevent browning 🍋"
     text: "Keep the pit in the unused half, brush the cut surface with a thin layer of lemon juice (or olive oil), and wrap tightly with plastic wrap. The acidity blocks oxygen to prevent oxidation and browning."
@@ -43,7 +43,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store in a paper bag at room temperature before fully ripe — Natural ripening 🥑</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store in a paper bag at room temperature before fully ripe — Room Temp Storage (5Days) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Firm, unripe avocados should be kept at a room temperature of 15–20°C. Placing them in a paper bag with bananas or apples will trap the ethylene gas and accelerate the ripening process.
@@ -53,7 +53,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap with plastic wrap and refrigerate once ripe — Slow down aging ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap with plastic wrap and refrigerate once ripe — Refrigerated Storage (7Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Once the skin turns dark brown and yields to gentle pressure, wrap the avocado individually in plastic wrap and store it in the refrigerator crisper drawer to slow down spoilage.

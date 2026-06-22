@@ -8,11 +8,11 @@ heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
-  - name: "Bungkus kering dengan koran lalu simpan tegak — Penyimpanan vertikal 🌿"
+  - name: "Bungkus kering dengan koran lalu simpan tegak — Penyimpanan Suhu Ruang (5Hari) 🌿"
     text: "Bungkus daun bawang kering yang belum dicuci dengan koran, lalu simpan dalam posisi tegak dengan akar di bawah di tempat yang sejuk. Menyimpan secara vertikal meniru posisi tumbuh alaminya sehingga lebih awet."
-  - name: "Keringkan daun bawang lalu simpan tegak dengan tisu dapur 📦"
+  - name: "Keringkan daun bawang lalu simpan tegak dengan tisu dapur — Penyimpanan Dingin (14Hari) 📦"
     text: "Daun bawang yang telah dicuci harus dikeringkan sepenuhnya dengan tisu dapur. Alasi bagian bawah wadah tinggi dengan tisu dapur, lalu simpan daun bawang secara berdiri, akar di bawah, di laci sayur kulkas."
-  - name: "Iris, segel, lalu simpan di freezer — Penyimpanan jangka panjang ❄️"
+  - name: "Iris, segel, lalu simpan di freezer — Penyimpanan Beku (180Hari)"
     text: "Jika tidak habis dalam 2 minggu, iris daun bawang, keringkan sampai tidak ada air, lalu segel di kantong ziploc untuk dibekukan. Masukkan langsung dalam keadaan beku saat memasak agar tidak lembek."
 ---
 
@@ -43,7 +43,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus kering dengan koran lalu simpan tegak — Penyimpanan vertikal 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus kering dengan koran lalu simpan tegak — Penyimpanan Suhu Ruang (5Hari) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Bungkus daun bawang kering yang belum dicuci dengan koran, lalu simpan dalam posisi tegak dengan akar di bawah di tempat yang sejuk. Menyimpan secara vertikal meniru posisi tumbuh alaminya sehingga lebih awet.
@@ -53,7 +53,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Keringkan daun bawang lalu simpan tegak dengan tisu dapur 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Keringkan daun bawang lalu simpan tegak dengan tisu dapur — Penyimpanan Dingin (14Hari) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Daun bawang yang telah dicuci harus dikeringkan sepenuhnya dengan tisu dapur. Alasi bagian bawah wadah tinggi dengan tisu dapur, lalu simpan daun bawang secara berdiri, akar di bawah, di laci sayur kulkas.
@@ -63,7 +63,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Iris, segel, lalu simpan di freezer — Penyimpanan jangka panjang ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Iris, segel, lalu simpan di freezer — Penyimpanan Beku (180Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Jika tidak habis dalam 2 minggu, iris daun bawang, keringkan sampai tidak ada air, lalu segel di kantong ziploc untuk dibekukan. Masukkan langsung dalam keadaan beku saat memasak agar tidak lembek.

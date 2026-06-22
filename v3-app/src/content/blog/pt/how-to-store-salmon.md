@@ -8,11 +8,11 @@ heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
 authority: "<strong>FDA & USDA</strong>"
 steps:
-  - name: "Seque o óleo e a umidade da superfície — Evite contaminação 🍣"
+  - name: "Seque o óleo e a umidade da superfície — Armazenamento Refrigerado (2Dias) 🍣"
     text: "A umidade e o óleo na superfície do salmão cru são os principais causadores de bactérias. Pressione ambos os lados com papel-toalha para secar bem antes de guardar."
   - name: "Passe suco de limão ou vinho de cozinha — Conservante natural 🍋"
     text: "Passe uma camada fina de suco de limão ou um pouco de vinho de cozinha no salmão seco. O ácido e o álcool funcionam como conservantes naturais, impedindo bactérias e oxidação da gordura."
-  - name: "Embrulhe bem com filme plástico, retirando todo o ar — Vedação perfeita 📦"
+  - name: "Embrulhe bem com filme plástico, retirando todo o ar — Armazenamento Congelado (90Dias) 📦"
     text: "Embrulhe o salmão firme no filme plástico, tirando todo o ar, e feche dentro de um saco plástico com lacre. Isso mantém a qualidade por até 2 dias na geladeira e até 60 dias no freezer."
 ---
 
@@ -43,7 +43,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque o óleo e a umidade da superfície — Evite contaminação 🍣</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque o óleo e a umidade da superfície — Armazenamento Refrigerado (2Dias) 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     A umidade e o óleo na superfície do salmão cru são os principais causadores de bactérias. Pressione ambos os lados com papel-toalha para secar bem antes de guardar.
@@ -63,7 +63,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe bem com filme plástico, retirando todo o ar — Vedação perfeita 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe bem com filme plástico, retirando todo o ar — Armazenamento Congelado (90Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Embrulhe o salmão firme no filme plástico, tirando todo o ar, e feche dentro de um saco plástico com lacre. Isso mantém a qualidade por até 2 dias na geladeira e até 60 dias no freezer.

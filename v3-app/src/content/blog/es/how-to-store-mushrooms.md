@@ -12,7 +12,7 @@ steps:
     text: "Los champiñones son porosos y absorben agua como esponjas. Lavarlos antes de guardarlos arruina su textura firme y su aroma. Limpie el polvo con un cepillo justo antes de cocinar."
   - name: "Envuelva en una bolsa de papel o toallas de papel — Control de humedad 📦"
     text: "Guardar los champiñones en una bolsa de plástico atrapa la humedad de su respiración, causando condensación y pudriéndolos. Envuélvalos en papel de cocina o una bolsa de papel marrón que absorba la humedad."
-  - name: "Guarde en una repisa media sin presión — Evite aplastamiento ❄️"
+  - name: "Guarde en una repisa media sin presión — Almacenamiento Refrigerado (3Días)"
     text: "Los champiñones tienen estructuras delicadas. Si se aplastan bajo alimentos pesados, sus paredes celulares se rompen, ennegreciéndolos y pudriéndolos. Colóquelos encima de los demás vegetales."
 ---
 
@@ -63,7 +63,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde en una repisa media sin presión — Evite aplastamiento ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde en una repisa media sin presión — Almacenamiento Refrigerado (3Días)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Los champiñones tienen estructuras delicadas. Si se aplastan bajo alimentos pesados, sus paredes celulares se rompen, ennegreciéndolos y pudriéndolos. Colóquelos encima de los demás vegetales.

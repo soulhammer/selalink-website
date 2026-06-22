@@ -10,9 +10,9 @@ authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "Ne pas laver la volaille crue à l'eau — Éviter la contamination croisée ❌💧"
     text: "Laver le poulet cru projette des gouttelettes d'eau chargées en bactéries (Campylobacter, Salmonelle) à 50 cm à la ronde, ce qui contamine la vaisselle et le plan de travail. Essuyez-le plutôt au papier absorbant ou ébouillantez-le."
-  - name: "Sceller dans un double sac et stocker sur l'étagère du bas — Éviter les fuites de jus 📦"
+  - name: "Sceller dans un double sac et stocker sur l'étagère du bas — Stockage Réfrigéré (2Jours) 📦"
     text: "Le jus de volaille crue contient des bactéries et peut contaminer les autres aliments s'il s'écoule. Placez le poulet dans un sachet, puis dans un double sac et rangez sur l'étagère du bas, la zone la plus froide."
-  - name: "Assaisonner de sel et d'alcool de cuisine — Prolonger la conservation 🧂"
+  - name: "Assaisonner de sel et d'alcool de cuisine — Stockage Congelé (90Jours) 🧂"
     text: "Si vous ne cuisinez pas le poulet le jour même, arrosez-le d'un peu d'alcool de cuisine (saké, vin blanc) et de gros sel. L'alcool désinfecte et le sel raffermit les fibres, prolongeant la fraîcheur de 24 heures."
 ---
 
@@ -53,7 +53,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sceller dans un double sac et stocker sur l'étagère du bas — Éviter les fuites de jus 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sceller dans un double sac et stocker sur l'étagère du bas — Stockage Réfrigéré (2Jours) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Le jus de volaille crue contient des bactéries et peut contaminer les autres aliments s'il s'écoule. Placez le poulet dans un sachet, puis dans un double sac et rangez sur l'étagère du bas, la zone la plus froide.
@@ -63,7 +63,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Assaisonner de sel et d'alcool de cuisine — Prolonger la conservation 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Assaisonner de sel et d'alcool de cuisine — Stockage Congelé (90Jours) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Si vous ne cuisinez pas le poulet le jour même, arrosez-le d'un peu d'alcool de cuisine (saké, vin blanc) et de gros sel. L'alcool désinfecte et le sel raffermit les fibres, prolongeant la fraîcheur de 24 heures.

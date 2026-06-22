@@ -8,11 +8,11 @@ heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
 authority: "<strong>FDA & USDA</strong>"
 steps:
-  - name: "Limpie el aceite y agua de la superficie — Evite contaminación 🍣"
+  - name: "Limpie el aceite y agua de la superficie — Almacenamiento Refrigerado (2Días) 🍣"
     text: "La humedad y el aceite en la superficie del salmón crudo favorecen el crecimiento bacteriano. Presione ambos lados con papel de cocina para secarlo del todo antes de almacenar."
   - name: "Aplique jugo de limón o vino de cocina — Conservante natural 🍋"
     text: "Unte una capa fina de jugo de limón o un poco de vino de cocina en el salmón seco. El ácido y el alcohol actúan como conservantes naturales, frenando bacterias y la oxidación de las grasas."
-  - name: "Envuelva firmemente con film plástico sacando el aire — Sello perfecto 📦"
+  - name: "Envuelva firmemente con film plástico sacando el aire — Almacenamiento Congelado (90Días) 📦"
     text: "Envuelva el salmón firmemente con film plástico, eliminando el aire, y métalo en una bolsa con cierre. Esto lo mantiene fresco hasta 2 días en el refrigerador y 60 días en el congelador."
 ---
 
@@ -43,7 +43,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Limpie el aceite y agua de la superficie — Evite contaminación 🍣</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Limpie el aceite y agua de la superficie — Almacenamiento Refrigerado (2Días) 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     La humedad y el aceite en la superficie del salmón crudo favorecen el crecimiento bacteriano. Presione ambos lados con papel de cocina para secarlo del todo antes de almacenar.
@@ -63,7 +63,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva firmemente con film plástico sacando el aire — Sello perfecto 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva firmemente con film plástico sacando el aire — Almacenamiento Congelado (90Días) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Envuelva el salmón firmemente con film plástico, eliminando el aire, y métalo en una bolsa con cierre. Esto lo mantiene fresco hasta 2 días en el refrigerador y 60 días en el congelador.

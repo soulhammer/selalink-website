@@ -8,11 +8,11 @@ heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
 authority: "<strong>FDA & USDA</strong>"
 steps:
-  - name: "Wipe off surface oil and moisture — Prevent contamination 🍣"
+  - name: "Wipe off surface oil and moisture — Refrigerated Storage (2Days) 🍣"
     text: "Moisture and fish oil on the surface of raw salmon are the main cause of bacterial growth. Press both sides of the salmon firmly with paper towels to dry it completely before storing."
   - name: "Apply lemon juice or cooking wine — Natural preservation 🍋"
     text: "Brush a thin layer of lemon juice or a small amount of cooking wine (sake or mirin) on the dry salmon. The acid and alcohol act as natural preservatives, inhibiting microbial growth and fat oxidation."
-  - name: "Wrap tightly with plastic wrap to exclude air — Perfect seal 📦"
+  - name: "Wrap tightly with plastic wrap to exclude air — Frozen Storage (90Days) 📦"
     text: "Wrap the salmon tightly in plastic wrap, squeezing out all air, then place it inside a ziploc bag for a double seal. This keeps it fresh for up to 2 days in the fridge and 60 days in the freezer."
 ---
 
@@ -43,7 +43,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wipe off surface oil and moisture — Prevent contamination 🍣</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wipe off surface oil and moisture — Refrigerated Storage (2Days) 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Moisture and fish oil on the surface of raw salmon are the main cause of bacterial growth. Press both sides of the salmon firmly with paper towels to dry it completely before storing.
@@ -63,7 +63,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap tightly with plastic wrap to exclude air — Perfect seal 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap tightly with plastic wrap to exclude air — Frozen Storage (90Days) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wrap the salmon tightly in plastic wrap, squeezing out all air, then place it inside a ziploc bag for a double seal. This keeps it fresh for up to 2 days in the fridge and 60 days in the freezer.

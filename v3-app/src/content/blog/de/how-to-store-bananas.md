@@ -9,11 +9,11 @@ app: "storeself"
 youtubeId: "yJz71H46PJM"
 
 steps:
-  - name: "Einen Bananenständer verwenden — Druckstellen vermeiden 🍌"
+  - name: "Bananen an einem Bananenständer aufhängen — Lagerung bei Raumtemperatur (7 Tage) 🍌"
     text: "Bananen direkt auf eine Oberfläche zu legen, führt zu Druckstellen durch ihr eigenes Gewicht. Diese Stellen setzen vermehrt Ethylengas frei. 💡 Lagerungstipp: Hängen Sie die Bananen auf einen Bananenständer. Dies ahmt die natürliche Wuchsform nach, verhindert Druckstellen und hält sie länger fest."
   - name: "Den Strunk mit Alufolie umwickeln — Gasbarriere 🪙"
     text: "Die Freisetzung von Ethylengas erfolgt vor allem über den Strunk. 💡 Lagerungstipp: Umwickeln Sie den Bananenstrunk fest mit Alufolie oder Frischhaltefolie. Dies verhindert das Entweichen des Gases und zögert die Reifung um 3 bis 5 Tage hinaus."
-  - name: "Sobald vollreif, im Kühlschrank lagern — Haltbarkeit verlängern ❄️"
+  - name: "NUR vollreife Bananen im Kühlschrank lagern — Kühllagerung (7 Tage) ❄️"
     text: "Viele glauben, dass Bananen niemals in den Kühlschrank gehören. Dies gilt jedoch nur für unreife Bananen. Das Kühlen grüner Bananen führt zu Kälteschäden. Reife Bananen mit Zuckerflecken können jedoch gekühlt werden. 💡 Lagerungstipp: Wickeln Sie reife Bananen einzeln ein und lagern sie im Gemüsefach (0–4 °C). Die Schale wird schwarz, das Fruchtfleisch bleibt jedoch bis zu einer Woche fest."
 ---
 
@@ -53,7 +53,7 @@ Die goldene Regel der Bananenlagerung lautet daher: 🌿 **"Druckstellen vermeid
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bananen an einem Bananenständer aufhängen — Druckstellen vermeiden 🍌</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bananen an einem Bananenständer aufhängen — Lagerung bei Raumtemperatur (7 Tage) 🍌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wenn Bananen flach auf der Küchenzeile liegen, drückt das Gewicht der gesamten Staude die unteren Früchte ein. Das beschädigt die Früchte und beschleunigt den Verderb.<br/><br/>
@@ -75,7 +75,7 @@ Die goldene Regel der Bananenlagerung lautet daher: 🌿 **"Druckstellen vermeid
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">NUR vollreife Bananen im Kühlschrank lagern ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">NUR vollreife Bananen im Kühlschrank lagern — Kühllagerung (7 Tage) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Oft hört man, Bananen dürften niemals in den Kühlschrank. Das ist nur eine Halbwahrheit. Unreife grüne Bananen nehmen im Kühlschrank Schaden und reifen nicht mehr nach. Bei <strong>vollreifen Bananen</strong> (mit süßen braunen Flecken) ist das jedoch anders.<br/><br/>

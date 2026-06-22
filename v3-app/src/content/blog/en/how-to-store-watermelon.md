@@ -10,7 +10,7 @@ authority: "<strong>KCA & MFDS</strong>"
 steps:
   - name: "Never cover with plastic wrap directly — Prevent food poisoning ❌🍉"
     text: "Covering a cut watermelon directly with plastic wrap creates a humid seal that causes bacteria to multiply thousands of times over, increasing the risk of food poisoning. Never store cut watermelon with just plastic wrap."
-  - name: "Cut off rind and cube into airtight containers — Hygienic seal 📦"
+  - name: "Cut off rind and cube into airtight containers — Refrigerated Storage (7Days) 📦"
     text: "Carefully slice off the rind to prevent surface dust and bacteria from touching the red pulp. Chop the fruit into bite-sized cubes and store them in a clean, sanitized airtight container with the lid tightly closed."
   - name: "Store deep inside the crisper drawer at a stable 0–4°C ❄️"
     text: "Place the airtight container deep inside the crisper drawer or on the inner shelf of the refrigerator. Storing it in an area with minimal temperature fluctuation keeps the watermelon crisp and preserves its sweetness."
@@ -53,7 +53,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cut off rind and cube into airtight containers — Hygienic seal 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cut off rind and cube into airtight containers — Refrigerated Storage (7Days) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Carefully slice off the rind to prevent surface dust and bacteria from touching the red pulp. Chop the fruit into bite-sized cubes and store them in a clean, sanitized airtight container with the lid tightly closed.

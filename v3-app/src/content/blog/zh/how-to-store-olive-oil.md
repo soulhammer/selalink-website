@@ -10,7 +10,7 @@ authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)
 steps:
   - name: "切勿冷藏保存 — 防止结晶凝固与风味流失 ❌❄️"
     text: "橄榄油冷藏时会变白并凝固结晶，反复凝结和解冻会破坏橄榄油本来的高级风味以及油酸等营养成分。请务必存放在14-18℃的常温下。"
-  - name: "避免阳光直射并使用深色玻璃瓶 — 阻断光线 🫙"
+  - name: "避免阳光直射并使用深色玻璃瓶 — 常温储存 (365天) 🫙"
     text: "紫外线是导致植物油氧化变质的罪魁祸首。如果购买的橄榄油是装在透明塑料瓶中，可用铝箔纸将瓶身包裹，或将其转移到深褐色/深绿色的避光玻璃瓶中以阻断光线。"
   - name: "存放在远离灶台热源的阴凉橱柜中 — 阻断热量 🌬️"
     text: "为了烹饪方便而把橄榄油直接放在灶台或烤箱旁是错误的。每当受热，油脂的氧化速度就会加快2倍以上。请将其存放在远离热源、阴凉避光的橱柜中。"
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">避免阳光直射并使用深色玻璃瓶 — 阻断光线 🫙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">避免阳光直射并使用深色玻璃瓶 — 常温储存 (365天) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     紫外线是导致植物油氧化变质的罪魁祸首。如果购买的橄榄油是装在透明塑料瓶中，可用铝箔纸将瓶身包裹，或将其转移到深褐色/深绿色的避光玻璃瓶中以阻断光线。

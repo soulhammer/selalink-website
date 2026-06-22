@@ -8,11 +8,11 @@ heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
-  - name: "Zucker und Küchenpapier auf den Behälterboden legen — Natürliches Trockenmittel 🪙"
+  - name: "Zucker und Küchenpapier auf den Behälterboden legen — Kühllagerung (14Tage) 🪙"
     text: "Verteilen Sie eine 1 cm dicke Zuckerschicht auf dem Boden eines luftdichten Behälters, bedecken Sie diese mit 2–3 Lagen Küchenpapier und legen Sie den geschälten Knoblauch darauf. Zucker absorbiert die Feuchtigkeit."
-  - name: "Ganzen Knoblauch in einem Netz aufhängen — Belüftung bei Raumtemperatur 🌬️"
+  - name: "Ganzen Knoblauch in einem Netz aufhängen — Lagerung bei Raumtemperatur (30Tage)"
     text: "Das Kühlen von ungeschältem Knoblauch führt zu Keimung und schnellem Verderb. Die wissenschaftliche Methode besteht darin, ihn in einem Netz an einem kühlen, schattigen und gut belüfteten Ort (10–15 °C) aufzuhängen."
-  - name: "Gehackten Knoblauch in Silikonformen einfrieren — Portionsweise Lagerung ❄️"
+  - name: "Gehackten Knoblauch in Silikonformen einfrieren — Gefrierlagerung (180Tage)"
     text: "Große Mengen Knoblauch hacken und flach in einem Gefrierbeutel einfrieren (vorher Rasterlinien eindrücken) oder in Silikon-Eiswürfelformen füllen. Bei Bedarf portionsweise entnehmen."
 ---
 
@@ -43,7 +43,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Zucker und Küchenpapier auf den Behälterboden legen — Natürliches Trockenmittel 🪙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Zucker und Küchenpapier auf den Behälterboden legen — Kühllagerung (14Tage) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Verteilen Sie eine 1 cm dicke Zuckerschicht auf dem Boden eines luftdichten Behälters, bedecken Sie diese mit 2–3 Lagen Küchenpapier und legen Sie den geschälten Knoblauch darauf. Zucker absorbiert die Feuchtigkeit.
@@ -53,7 +53,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ganzen Knoblauch in einem Netz aufhängen — Belüftung bei Raumtemperatur 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ganzen Knoblauch in einem Netz aufhängen — Lagerung bei Raumtemperatur (30Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Das Kühlen von ungeschältem Knoblauch führt zu Keimung und schnellem Verderb. Die wissenschaftliche Methode besteht darin, ihn in einem Netz an einem kühlen, schattigen und gut belüfteten Ort (10–15 °C) aufzuhängen.
@@ -63,7 +63,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gehackten Knoblauch in Silikonformen einfrieren — Portionsweise Lagerung ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gehackten Knoblauch in Silikonformen einfrieren — Gefrierlagerung (180Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Große Mengen Knoblauch hacken und flach in einem Gefrierbeutel einfrieren (vorher Rasterlinien eindrücken) oder in Silikon-Eiswürfelformen füllen. Bei Bedarf portionsweise entnehmen.

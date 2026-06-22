@@ -8,7 +8,7 @@ heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS</strong>"
 steps:
-  - name: "Immer im Kühlschrank bei 0–4 °C lagern — Omega-3-Oxidation verhindern ❄️"
+  - name: "Immer im Kühlschrank bei 0–4 °C lagern — Kühllagerung (30Tage)"
     text: "Im Gegensatz zu Sesamöl enthält Perillaöl kein Sesamol (ein natürliches Antioxidans) und besteht zu über 60 % aus Omega-3-Fettsäuren, weshalb es bei Raumtemperatur rasch verdirbt. Stets im Kühlschrank (0–4 °C) lagern."
   - name: "Dunkle Glasflaschen nutzen und Luftkontakt minimieren — Sauerstoff- und UV-Schutz 🫙"
     text: "Licht und Sauerstoff beschleunigen die Oxidation von Omega-3. Perillaöl sollte in braunen oder grünen Glasflaschen gelagert werden. Nach Gebrauch den Deckel stets fest verschließen."
@@ -43,7 +43,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Immer im Kühlschrank bei 0–4 °C lagern — Omega-3-Oxidation verhindern ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Immer im Kühlschrank bei 0–4 °C lagern — Kühllagerung (30Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Im Gegensatz zu Sesamöl enthält Perillaöl kein Sesamol (ein natürliches Antioxidans) und besteht zu über 60 % aus Omega-3-Fettsäuren, weshalb es bei Raumtemperatur rasch verdirbt. Stets im Kühlschrank (0–4 °C) lagern.

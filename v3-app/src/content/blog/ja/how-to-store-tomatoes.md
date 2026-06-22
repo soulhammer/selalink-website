@@ -8,11 +8,11 @@ heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
 authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & CDC</strong>"
 steps:
-  - name: "完熟前は必ず常温の日陰で保存する — 追熟 🌿"
+  - name: "完熟前は必ず常温の日陰で保存する — 常温保存 (7日間) 🌿"
     text: "緑色が残る未熟なトマトは, 15〜20℃の常温の日陰でヘタを上に向けて置き, 自然に追熟させます。未完熟のトマトを冷蔵庫に入れると追熟が止まり, 皮がしわしわになって味が落ちてしまいます。"
   - name: "保存する前にヘタを取り除く — カビ防止 ✂️"
     text: "トマトのヘタ部分は, 最もカビが発生しやすい場所です。ヘタを取ってから保存すると, トマト同士がぶつかって傷つくのを防ぐだけでなく, カビが発生するリスクを大幅に下げて保存性を高めます。"
-  - name: "完熟トマトのみ新聞紙で包み、冷蔵庫の野菜室に保管 — 鮮度維持 ❄️"
+  - name: "完熟トマトのみ新聞紙で包み、冷蔵庫の野菜室に保管 — 冷蔵保存 (7日間)"
     text: "完全に赤く熟したトマトだけを新聞紙やラップで1個ずつ包み, 冷蔵庫の野菜室（5〜10℃）に保存します。冷気による水分の蒸発と乾燥を防ぎ, 数日間は新鮮なまま食べられます。"
 ---
 
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">完熟前は必ず常温の日陰で保存する — 追熟 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">完熟前は必ず常温の日陰で保存する — 常温保存 (7日間) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     緑色が残る未熟なトマトは, 15〜20℃の常温の日陰でヘタを上に向けて置き, 自然に追熟させます。未完熟のトマトを冷蔵庫に入れると追熟が止まり, 皮がしわしわになって味が落ちてしまいます。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">完熟トマトのみ新聞紙で包み、冷蔵庫の野菜室に保管 — 鮮度維持 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">完熟トマトのみ新聞紙で包み、冷蔵庫の野菜室に保管 — 冷蔵保存 (7日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     完全に赤く熟したトマトだけを新聞紙やラップで1個ずつ包み, 冷蔵庫の野菜室（5〜10℃）に保存します。冷気による水分の蒸発と乾燥を防ぎ, 数日間は新鮮なまま食べられます。

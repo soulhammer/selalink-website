@@ -8,11 +8,11 @@ heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
-  - name: "Stocker à l'ombre à temp. ambiante avant maturité — Mûrissement 🌿"
+  - name: "Stocker à l'ombre à temp. ambiante avant maturité — Stockage à Temp. Ambiante (7Jours) 🌿"
     text: "Les tomates vertes doivent être posées pédoncule vers le haut, à l'ombre à température ambiante (15-20 °C). Le frigo bloque leur mûrissement, flétrit leur peau et gâte leur goût."
   - name: "Retirer les pédoncules avant stockage — Éviter le moisi ✂️"
     text: "Le pédoncule est la zone la plus sujette aux moisissures. Le retirer avant stockage évite aux tomates de s'égratigner et limite le risque de pourriture."
-  - name: "Envelopper les tomates mûres de journal et ranger au bac à légumes ❄️"
+  - name: "Envelopper les tomates mûres de journal et ranger au bac à légumes ❄️ — Stockage Réfrigéré (7Jours)"
     text: "Ne réfrigérez que les tomates bien rouges, emballées séparément de journal ou de film étirable, au bac à légumes (5-10 °C). Cela limite la déshydratation causée par le froid."
 ---
 
@@ -43,7 +43,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stocker à l'ombre à temp. ambiante avant maturité — Mûrissement 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stocker à l'ombre à temp. ambiante avant maturité — Stockage à Temp. Ambiante (7Jours) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Les tomates vertes doivent être posées pédoncule vers le haut, à l'ombre à température ambiante (15-20 °C). Le frigo bloque leur mûrissement, flétrit leur peau et gâte leur goût.
@@ -63,7 +63,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper les tomates mûres de journal et ranger au bac à légumes ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper les tomates mûres de journal et ranger au bac à légumes ❄️ — Stockage Réfrigéré (7Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Ne réfrigérez que les tomates bien rouges, emballées séparément de journal ou de film étirable, au bac à légumes (5-10 °C). Cela limite la déshydratation causée par le froid.

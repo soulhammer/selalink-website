@@ -38,7 +38,7 @@ authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 영국 �
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">껍질째 통풍이 잘되는 서늘한 곳에 매달아 보관하기 — 공기 순환 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">껍질째 통풍이 잘되는 서늘한 곳에 매달아 보관하기 — 실온 보관 (30일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     껍질이 있는 통양파는 습기가 차면 금방 무르고 싹이 납니다. 그늘지고 바람이 잘 통하는 통풍망이나 매다는 스타킹 보관법을 사용해 서로 닿지 않도록 건조함을 유지해야 합니다.
@@ -48,7 +48,7 @@ authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 영국 �
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">깐 양파는 물기 건조 후 랩으로 낱개 밀봉하기 — 냉장 포장 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">깐 양파는 물기 건조 후 랩으로 낱개 밀봉하기 — 냉장 보관 (14일) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     요리에 쓰다 남은 깐 양파는 수분을 제거하는 것이 핵심입니다. 세척 후 키친타월로 물기를 완벽히 말리고, 식품용 랩으로 빈틈없이 꽁꽁 감싸 야채칸에 보관해야 2주 넘게 단단함이 보존됩니다.

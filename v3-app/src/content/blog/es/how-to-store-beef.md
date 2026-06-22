@@ -12,7 +12,7 @@ steps:
     text: "El jugo y la sangre que gotean de la carne son la principal causa de malos olores y proliferación bacteriana. Presione la carne firmemente con papel de cocina para secarla por completo antes de cocinar o guardar."
   - name: "Unte un poco de aceite vegetal (o de oliva) en la superficie — Bloquee el oxígeno 🫒"
     text: "Unte una capa fina de aceite de cocina o de oliva sobre la carne seca. La barrera de aceite bloquea el contacto con el aire, retrasando la oxidación y manteniendo el color fresco de la carne."
-  - name: "Envuelva firmemente con film plástico sin dejar aire — Efecto al vacío 📦"
+  - name: "Envuelva firmemente con film plástico sin dejar aire — Refrigerado 3 días, Congelado 90 días 📦"
     text: "Envuelva la carne aceitada firmemente con film plástico, sacando todo el aire. Sellada así, la carne mantendrá su sabor hasta por 3 días en el refrigerador y hasta 90 días en el congelador."
 ---
 
@@ -63,7 +63,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva firmemente con film plástico sin dejar aire — Efecto al vacío 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva firmemente con film plástico sin dejar aire — Refrigerado 3 días, Congelado 90 días 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Envuelva la carne aceitada firmemente con film plástico, sacando todo el aire. Sellada así, la carne mantendrá su sabor hasta por 3 días en el refrigerador y hasta 90 días en el congelador.

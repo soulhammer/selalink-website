@@ -8,11 +8,11 @@ heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Segel dan dinginkan/bekukan setelah dibuka — Menahan aflatoksin ❄️"
+  - name: "Segel dan dinginkan/bekukan setelah dibuka — Dingin 90 hari & Beku 180 hari"
     text: "Kacang-kacangan mengandung lemak tinggi yang mudah teroksidasi dan berbau tengik di suhu ruang hangat dan lembap. Suhu ini juga memicu tumbuhnya racun aflatoksin (kanker). Selalu bekukan."
   - name: "Kemas dalam wadah kedap udara atau kantong buram — Menghalangi cahaya 📦"
     text: "Cahaya dan oksigen mempercepat oksidasi asam lemak tak jenuh dalam kacang. Daripada kantong transparan, kemas dalam kantong buram atau wadah gelap, lalu tambahkan paket silika gel."
-  - name: "Jaga dalam kondisi kering bebas lembap — Segel kering 🌬️"
+  - name: "Jaga dalam kondisi kering bebas lembap — Penyimpanan Suhu Ruang (15Hari)"
     text: "Kacang kehilangan kerenyahan dan rasanya jika terkena kelembapan. Selalu jaga kacang dalam kondisi kering. Setelah dibuka, segera pindahkan ke wadah kedap udara."
 ---
 
@@ -43,7 +43,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Segel dan dinginkan/bekukan setelah dibuka — Menahan aflatoksin ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Segel dan dinginkan/bekukan setelah dibuka — Dingin 90 hari & Beku 180 hari</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Kacang-kacangan mengandung lemak tinggi yang mudah teroksidasi dan berbau tengik di suhu ruang hangat dan lembap. Suhu ini juga memicu tumbuhnya racun aflatoksin (kanker). Selalu bekukan.
@@ -63,7 +63,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jaga dalam kondisi kering bebas lembap — Segel kering 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jaga dalam kondisi kering bebas lembap — Penyimpanan Suhu Ruang (15Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Kacang kehilangan kerenyahan dan rasanya jika terkena kelembapan. Selalu jaga kacang dalam kondisi kering. Setelah dibuka, segera pindahkan ke wadah kedap udara.

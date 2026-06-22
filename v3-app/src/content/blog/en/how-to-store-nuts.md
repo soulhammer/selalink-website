@@ -8,11 +8,11 @@ heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Seal and refrigerate/freeze once opened — Block aflatoxins ❄️"
+  - name: "Seal and refrigerate/freeze once opened — Refrigerated 90 days & Frozen 180 days"
     text: "Nuts contain high levels of fats which oxidize and turn rancid in warm, humid room temperatures. This environment also fosters aflatoxin, a dangerous carcinogen produced by mold. Always store nuts in airtight containers in the fridge or freezer."
   - name: "Pack in opaque airtight containers or bags — Block light 📦"
     text: "Light and oxygen accelerate the oxidation of unsaturated fatty acids in nuts. Instead of transparent bags, pack them in opaque bags or dark airtight containers, and add a silica gel pack to control moisture."
-  - name: "Keep in a dry, moisture-free environment — Dry sealing 🌬️"
+  - name: "Keep in a dry, moisture-free environment — Room Temp Storage (15Days)"
     text: "Nuts lose their crunch and flavor quickly when exposed to moisture. Always keep them in a dry environment. Once the original package is opened, transfer them immediately to a sealed container to keep humidity out."
 ---
 
@@ -43,7 +43,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seal and refrigerate/freeze once opened — Block aflatoxins ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seal and refrigerate/freeze once opened — Refrigerated 90 days & Frozen 180 days</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Nuts contain high levels of fats which oxidize and turn rancid in warm, humid room temperatures. This environment also fosters aflatoxin, a dangerous carcinogen produced by mold. Always store nuts in airtight containers in the fridge or freezer.
@@ -63,7 +63,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Keep in a dry, moisture-free environment — Dry sealing 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Keep in a dry, moisture-free environment — Room Temp Storage (15Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Nuts lose their crunch and flavor quickly when exposed to moisture. Always keep them in a dry environment. Once the original package is opened, transfer them immediately to a sealed container to keep humidity out.

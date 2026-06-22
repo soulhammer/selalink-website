@@ -58,7 +58,7 @@ authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA)</strong>"
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">냉장실 일반 선반에 눌리지 않게 보관 — 형태 보존 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">냉장실 일반 선반에 눌리지 않게 보관 — 냉장 보관 (3일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     버섯은 조직이 부드러워 다른 무거운 식재료 아래에 깔려 짓눌리면 세포벽이 상해 검게 변하고 부패가 시작됩니다. 냉장고 상단 칸이나 야채칸 맨 위에 눌림이 없도록 편안히 올려두세요.

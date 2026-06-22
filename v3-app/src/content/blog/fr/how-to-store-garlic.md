@@ -8,11 +8,11 @@ heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
-  - name: "Étaler du sucre et du papier absorbant au fond de la boîte — Absorbeur naturel 🪙"
+  - name: "Étaler du sucre et du papier absorbant au fond de la boîte — Stockage Réfrigéré (14Jours) 🪙"
     text: "Versez 1 cm de sucre au fond d'une boîte hermétique, recouvrez de 2 ou 3 feuilles de papier absorbant, puis déposez l'ail pelé. Le sucre sert d'absorbeur d'humidité naturel et garde l'ail au sec."
-  - name: "Suspendre les têtes d'ail dans un filet — Ventilation à temp. ambiante 🌬️"
+  - name: "Suspendre les têtes d'ail dans un filet — Stockage à Temp. Ambiante (30Jours)"
     text: "Mettre les têtes d'ail non pelées au réfrigérateur favorise la germination et le pourrissement. La méthode scientifique consiste à les placer dans un filet suspendu dans un endroit frais, sombre et aéré (10-15 °C)."
-  - name: "Congeler l'ail haché dans des bacs en silicone — Portions congelées ❄️"
+  - name: "Congeler l'ail haché dans des bacs en silicone — Stockage Congelé (180Jours)"
     text: "Pour de grandes quantités d'ail, hachez-les et étalez-les à plat dans un sac congélation pré-quadrillé, ou congelez-les dans des bacs à glaçons en silicone. Démoulez une portion à chaque utilisation pour plus de praticité."
 ---
 
@@ -43,7 +43,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Étaler du sucre et du papier absorbant au fond de la boîte — Absorbeur naturel 🪙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Étaler du sucre et du papier absorbant au fond de la boîte — Stockage Réfrigéré (14Jours) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Versez 1 cm de sucre au fond d'une boîte hermétique, recouvrez de 2 ou 3 feuilles de papier absorbant, puis déposez l'ail pelé. Le sucre sert d'absorbeur d'humidité naturel et garde l'ail au sec.
@@ -53,7 +53,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Suspendre les têtes d'ail dans un filet — Ventilation à temp. ambiante 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Suspendre les têtes d'ail dans un filet — Stockage à Temp. Ambiante (30Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Mettre les têtes d'ail non pelées au réfrigérateur favorise la germination et le pourrissement. La méthode scientifique consiste à les placer dans un filet suspendu dans un endroit frais, sombre et aéré (10-15 °C).
@@ -63,7 +63,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Congeler l'ail haché dans des bacs en silicone — Portions congelées ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Congeler l'ail haché dans des bacs en silicone — Stockage Congelé (180Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Pour de grandes quantités d'ail, hachez-les et étalez-les à plat dans un sac congélation pré-quadrillé, ou congelez-les dans des bacs à glaçons en silicone. Démoulez une portion à chaque utilisation pour plus de praticité.

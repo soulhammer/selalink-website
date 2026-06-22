@@ -8,11 +8,11 @@ heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
-  - name: "Espalhe açúcar e papel-toalha no fundo do pote — Dessecante natural 🪙"
+  - name: "Espalhe açúcar e papel-toalha no fundo do pote — Armazenamento Refrigerado (14Dias) 🪙"
     text: "Espalhe uma camada de 1 cm de açúcar no fundo do pote hermético, cubra com 2 a 3 folhas de papel-toalha e coloque o alho descascado. O açúcar atua como dessecante natural, retendo a umidade."
-  - name: "Pendure o alho inteiro em uma rede — Ventilação em temp. ambiente 🌬️"
+  - name: "Pendure o alho inteiro em uma rede — Conservação em Temp. Ambiente (30Dias)"
     text: "Refrigerar cabeças de alho inteiras faz com que brotem e apodreçam rápido devido à umidade. O método correto é colocá-las em um saco de rede e pendurar em local fresco, escuro e ventilado (10-15 °C)."
-  - name: "Congele o alho picado em fôrmas de silicone — Porções congeladas ❄️"
+  - name: "Congele o alho picado em fôrmas de silicone — Armazenamento Congelado (180Dias)"
     text: "Para grandes quantidades, triture o alho e espalhe em um saco plástico com marcações em grade, ou congele em fôrmas de silicone para gelo. Retire uma porção a cada receita para evitar a perda de nutrientes."
 ---
 
@@ -43,7 +43,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Espalhe açúcar e papel-toalha no fundo do pote — Dessecante natural 🪙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Espalhe açúcar e papel-toalha no fundo do pote — Armazenamento Refrigerado (14Dias) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Espalhe uma camada de 1 cm de açúcar no fundo do pote hermético, cubra com 2 a 3 folhas de papel-toalha e coloque o alho descascado. O açúcar atua como dessecante natural, retendo a umidade.
@@ -53,7 +53,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pendure o alho inteiro em uma rede — Ventilação em temp. ambiente 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pendure o alho inteiro em uma rede — Conservação em Temp. Ambiente (30Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Refrigerar cabeças de alho inteiras faz com que brotem e apodreçam rápido devido à umidade. O método correto é colocá-las em um saco de rede e pendurar em local fresco, escuro e ventilado (10-15 °C).
@@ -63,7 +63,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Congele o alho picado em fôrmas de silicone — Porções congeladas ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Congele o alho picado em fôrmas de silicone — Armazenamento Congelado (180Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Para grandes quantidades, triture o alho e espalhe em um saco plástico com marcações em grade, ou congele em fôrmas de silicone para gelo. Retire uma porção a cada receita para evitar a perda de nutrientes.

@@ -8,9 +8,9 @@ heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: "Stocker dans un sac en papier à température ambiante avant maturité — Mûrissement naturel 🥑"
+  - name: "Stocker dans un sac en papier à température ambiante avant maturité — Stockage à Temp. Ambiante (5Jours) 🥑"
     text: "Les avocats fermes doivent être conservés à température ambiante (15-20 °C). Les placer dans un sac en papier avec des bananes ou des pommes accélère le mûrissement grâce au gaz éthylène."
-  - name: "Envelopper de film étirable et réfrigérer une fois mûr — Ralentir le vieillissement ❄️"
+  - name: "Envelopper de film étirable et réfrigérer une fois mûr — Stockage Réfrigéré (7Jours)"
     text: "Dès que la peau devient brun foncé et souple sous le doigt, enveloppez l'avocat dans du film étirable et placez-le dans le bac à légumes du réfrigérateur pour stopper sa maturation."
   - name: "Appliquer du jus de citron sur les faces coupées et sceller — Éviter le brunissement 🍋"
     text: "Pour la moitié restante, laissez le noyau, badigeonnez la chair de jus de citron (ou d'huile d'olive) et enveloppez fermement de film étirable. L'acide bloque l'oxydation et le brunissement."
@@ -43,7 +43,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stocker dans un sac en papier à température ambiante avant maturité — Mûrissement naturel 🥑</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stocker dans un sac en papier à température ambiante avant maturité — Stockage à Temp. Ambiante (5Jours) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Les avocats fermes doivent être conservés à température ambiante (15-20 °C). Les placer dans un sac en papier avec des bananes ou des pommes accélère le mûrissement grâce au gaz éthylène.
@@ -53,7 +53,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper de film étirable et réfrigérer une fois mûr — Ralentir le vieillissement ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper de film étirable et réfrigérer une fois mûr — Stockage Réfrigéré (7Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Dès que la peau devient brun foncé et souple sous le doigt, enveloppez l'avocat dans du film étirable et placez-le dans le bac à légumes du réfrigérateur pour stopper sa maturation.

@@ -8,9 +8,9 @@ heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
 authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
 steps:
-  - name: "完熟前は紙袋に入れて常温保存 — 自然追熟 🥑"
+  - name: "完熟前は紙袋に入れて常温保存 — 常温保存 (5日間) 🥑"
     text: "固くて未熟なアボカドは15〜20℃の常温で保存します。紙袋に入れ、バナナやりんごと一緒に置いておくと、放出されるエチレンガスによって追熟スピードが早まります。"
-  - name: "追熟完了後はラップで包んで冷蔵保存 — 傷み防止 ❄️"
+  - name: "追熟完了後はラップで包んで冷蔵保存 — 冷蔵保存 (7日間)"
     text: "皮が黒褐色になり、手で握ると少し柔らかさを感じるくらいに熟したアボカドは、すぐにラップで個別に包んで冷蔵庫の野菜室に入れ、劣化の速度を遅らせてください。"
   - name: "カット断面にレモン果汁を塗って密閉 — 変色防止 🍋"
     text: "使い残したアボカドは種を残したまま、カットした断面にレモン果汁（またはオリーブオイル）を薄く塗り、ラップで密閉します。酸性成分が空気との接触による酸化（黒変）を防ぎます。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">完熟前は紙袋に入れて常温保存 — 自然追熟 🥑</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">完熟前は紙袋に入れて常温保存 — 常温保存 (5日間) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     固くて未熟なアボカドは15〜20℃の常温で保存します。紙袋に入れ、バナナやりんごと一緒に置いておくと、放出されるエチレンガスによって追熟スピードが早まります。
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">追熟完了後はラップで包んで冷蔵保存 — 傷み防止 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">追熟完了後はラップで包んで冷蔵保存 — 冷蔵保存 (7日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     皮が黒褐色になり、手で握ると少し柔らかさを感じるくらいに熟したアボカドは、すぐにラップで個別に包んで冷蔵庫の野菜室に入れ、劣化の速度を遅らせてください。

@@ -10,7 +10,7 @@ authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</stro
 steps:
   - name: "冷蔵保存は避ける — 凝固と風味の低下防止 ❌❄️"
     text: "オリーブオイルを冷蔵庫に入れると白く固まって結晶化し, 固まったり溶けたりを繰り返すことでオリーブオイル本来の風味や栄養素が失われます。必ず14〜18℃の常温で保存してください。"
-  - name: "直射日光を避け、遮光瓶（茶・緑）を使用する — 光の遮断 🫙"
+  - name: "直射日光を避け、遮光瓶（茶・緑）を使用する — 常温保存 (365日間) 🫙"
     text: "紫外線は植物性オイルを酸化（酸敗）させる最大の原因です。透明な容器に入っている場合は, アルミホイルでボトルを包むか, 茶色や緑色のガラス瓶に移し替えて光を遮断してください。"
   - name: "コンロ周辺など熱源から遠い日陰の棚に置く — 熱の遮断 🌬️"
     text: "調理時に便利だからといって、ガスコンロやオーブンのすぐ隣に置かないでください。熱が加わるたびにオイルの酸化スピードが2倍以上速くなります。熱源のない涼しい日陰の棚に収納してください。"
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">直射日光を避け、遮光瓶（茶・緑）を使用する — 光の遮断 🫙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">直射日光を避け、遮光瓶（茶・緑）を使用する — 常温保存 (365日間) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     紫外線は植物性オイルを酸化（酸敗）させる最大の原因です。透明な容器に入っている場合は, アルミホイルでボトルを包むか, 茶色や緑色のガラス瓶に移し替えて光を遮断してください。

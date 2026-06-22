@@ -8,7 +8,7 @@ heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Nunca lave los huevos antes de guardarlos — Proteja la cutícula ❌💧"
+  - name: "Nunca lave los huevos antes de guardarlos — Almacenamiento Refrigerado (45Días) 💧"
     text: "El cascarón de los huevos tiene miles de poros microscópicos para respirar. Lavarlos elimina la capa protectora natural (cutícula), lo que facilita que bacterias como la Salmonella entren por esos poros. Limpie la suciedad solo con un paño seco."
   - name: "Guarde con el extremo puntiagudo hacia abajo — Mantenga la cámara de aire 🥚"
     text: "El extremo ancho y redondeado del huevo contiene la cámara de aire. Si este extremo apunta hacia abajo, la yema puede pegarse al cascarón o romperse la membrana, dañando el huevo. Conserve el extremo redondo hacia arriba."
@@ -43,7 +43,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nunca lave los huevos antes de guardarlos — Proteja la cutícula ❌💧</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nunca lave los huevos antes de guardarlos — Almacenamiento Refrigerado (45Días) 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     El cascarón de los huevos tiene miles de poros microscópicos para respirar. Lavarlos elimina la capa protectora natural (cutícula), lo que facilita que bacterias como la Salmonella entren por esos poros. Limpie la suciedad solo con un paño seco.

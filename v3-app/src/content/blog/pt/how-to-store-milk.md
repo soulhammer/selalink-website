@@ -8,7 +8,7 @@ heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Não guarde na porta da geladeira — Mantenha nas prateleiras internas ❌ Porta"
+  - name: "Não guarde na porta da geladeira — Armazenamento Refrigerado (7Dias)"
     text: "A porta da geladeira sofre constantes oscilações de temperatura a cada abertura. Para conservar o leite, mantenha-o nas prateleiras internas da geladeira, onde a temperatura fica estável a 0-4 °C."
   - name: "Consuma em até 7 dias após aberto — Limite bactérias 🥛"
     text: "Depois de aberto o leite, o contato com o ar introduz bactérias, iniciando a deterioração. Evite tocar no bocal da embalagem e consuma em até 7 dias, independente da data de validade."
@@ -43,7 +43,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Não guarde na porta da geladeira — Mantenha nas prateleiras internas ❌ Porta</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Não guarde na porta da geladeira — Armazenamento Refrigerado (7Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     A porta da geladeira sofre constantes oscilações de temperatura a cada abertura. Para conservar o leite, mantenha-o nas prateleiras internas da geladeira, onde a temperatura fica estável a 0-4 °C.

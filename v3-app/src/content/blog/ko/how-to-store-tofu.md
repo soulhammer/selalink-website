@@ -38,7 +38,7 @@ authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</s
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">팩 충전수 무조건 버리고 흐르는 물에 헹구기 — 위생 건조 🚿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">팩 충전수 무조건 버리고 흐르는 물에 헹구기 — 냉장 보관 (7일) 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     두부 팩 내부에 들어있는 충전수는 유통 과정에서 두부 변질을 막아주지만 개봉 후에는 균 번식률이 높습니다. 충전수를 싹 버리고 흐르는 찬물에 두부를 가볍게 헹구어 줍니다.
@@ -48,7 +48,7 @@ authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</s
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">밀폐용기에 맑은 찬물과 소금 한 꼬집 넣기 — 천연 방부제 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">밀폐용기에 맑은 찬물과 소금 한 꼬집 넣기 — 냉동 보관 (21일) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     소독된 밀폐용기에 두부를 담고, 두부가 완전히 잠기도록 깨끗한 찬물을 채웁니다. 이때 소금을 한 꼬집(약 1/2티스푼) 섞어주면 천연 방부 작용을 해 7일까지 단단함을 지킵니다.

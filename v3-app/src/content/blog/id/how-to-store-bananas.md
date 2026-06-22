@@ -9,11 +9,11 @@ app: "storeself"
 youtubeId: "yJz71H46PJM"
 
 steps:
-  - name: "Gunakan gantungan pisang — Mencegah memar 🍌"
+  - name: "Gantung Pisang di Gantungan — Penyimpanan Suhu Ruang (7 Hari) 🍌"
     text: "Meletakkan pisang langsung di atas permukaan datar akan membuat buah bagian bawah memar akibat beratnya sendiri. Bagian memar mempercepat pelepasan gas etilen dan pembusukan. 💡 Tips Penyimpanan: Gantung pisang pada gantungan khusus. Cara ini meniru lingkungan tumbuh alaminya, menjaga buah tetap kokoh dan bebas memar lebih lama."
   - name: "Bungkus bagian pangkal dengan aluminium foil — Menahan gas 🪙"
     text: "Sebagian besar gas etilen pisang dilepaskan dari bagian pangkal (tangkai). 💡 Tips Penyimpanan: Bungkus bagian pangkal pisang rapat-rapat dengan aluminium foil atau plastik wrap. Ini menahan gas agar tidak menyebar, memperlambat pematangan selama 3–5 hari."
-  - name: "Dinginkan setelah benar-benar matang — Memperlambat kebusukan ❄️"
+  - name: "Masukkan ke Kulkas HANYA Setelah Matang — Penyimpanan Dingin (7 Hari) ❄️"
     text: "Banyak yang percaya pisang tidak boleh dimasukkan ke kulkas. Ini hanya berlaku untuk pisang mentah (hijau). Pisang mentah yang didinginkan akan memar karena dingin dan tidak akan matang. Namun, pisang yang sudah matang (ada bintik manis) berbeda. 💡 Tips Penyimpanan: Bungkus pisang matang satu per satu dan taruh di laci sayur kulkas (0–4°C). Kulitnya akan menghitam, tetapi daging buahnya tetap segar dan kokoh selama seminggu."
 ---
 
@@ -53,7 +53,7 @@ Oleh karena itu, aturan emas dalam menyimpan pisang adalah: 🌿 **"Minimalkan b
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gantung Pisang di Gantungan — Hindari Memar 🍌</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gantung Pisang di Gantungan — Penyimpanan Suhu Ruang (7 Hari) 🍌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Meletakkan pisang secara mendatar di atas meja dapur membuat buah di bagian bawah menahan beban seluruh sisir pisang. Hal ini memicu memar dan mempercepat pembusukan.<br/><br/>
@@ -75,7 +75,7 @@ Oleh karena itu, aturan emas dalam menyimpan pisang adalah: 🌿 **"Minimalkan b
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Masukkan ke Kulkas HANYA Setelah Matang ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Masukkan ke Kulkas HANYA Setelah Matang — Penyimpanan Dingin (7 Hari) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Banyak yang percaya bahwa \"pisang tidak boleh dimasukkan ke dalam kulkas,\" padahal ini hanya setengah benar. Menyimpan pisang yang masih hijau di dalam kulkas akan menyebabkan kerusakan akibat suhu dingin dan menghentikan pematangan. Namun, untuk <strong>pisang yang sudah matang sempurna</strong> (dengan bintik hitam manis), aturannya berbeda.<br/><br/>

@@ -12,7 +12,7 @@ steps:
     text: "牛肉表面渗出的血水和水分（血水）是产生肉腥味和细菌滋生的主要原因。在烹饪或储存前，用厨房纸巾用力按压牛肉，将表面水分彻底吸干。"
   - name: "表面涂抹薄薄一层食用油（橄榄油） — 阻断空气 🫒"
     text: "在吸干水分的牛肉表面涂抹一层薄薄的食用油或橄榄油。油膜能阻断空气中的氧气与肌肉中的肌红蛋白接触，显著延缓变黑和鲜度变差。"
-  - name: "用保鲜膜紧密包裹排出空气 — 模拟真空包装 📦"
+  - name: "用保鲜膜紧密包裹排出空气 — 冷藏 3天, 冷冻 90天 📦"
     text: "用保鲜膜将涂好油的牛肉紧紧包裹，尽量排尽空气。这种双重密封方式可在冷藏下保鲜3天，冷冻状态下可安全保存长达90天。"
 ---
 
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用保鲜膜紧密包裹排出空气 — 模拟真空包装 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用保鲜膜紧密包裹排出空气 — 冷藏 3天, 冷冻 90天 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     用保鲜膜将涂好油的牛肉紧紧包裹，尽量排尽空气。这种双重密封方式可在冷藏下保鲜3天，冷冻状态下可安全保存长达90天。

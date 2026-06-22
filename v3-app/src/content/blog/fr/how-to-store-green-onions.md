@@ -8,11 +8,11 @@ heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
-  - name: "Envelopper non lavé dans du journal et stocker debout — Stockage vertical 🌿"
+  - name: "Envelopper non lavé dans du journal et stocker debout — Stockage à Temp. Ambiante (5Jours) 🌿"
     text: "Enveloppez les oignons verts secs dans du papier journal et placez-les debout, racines vers le bas, dans un endroit frais. Les stocker verticalement imita leur croissance et prolonge leur vie."
-  - name: "Sécher et stocker debout dans une boîte avec du papier absorbant 📦"
+  - name: "Sécher et stocker debout dans une boîte avec du papier absorbant — Stockage Réfrigéré (14Jours) 📦"
     text: "Les oignons verts lavés doivent être séchés au papier absorbant ou à l'essoreuse. Tapissez le fond d'une boîte haute de papier essuie-tout et placez-les debout, racines vers le bas, dans le bac à légumes."
-  - name: "Hacher, sceller et stocker au congélateur — Long terme ❄️"
+  - name: "Hacher, sceller et stocker au congélateur — Stockage Congelé (180Jours)"
     text: "Si vous ne pouvez pas les consommer sous 2 semaines, émincez-les, séchez-les bien et congelez-les dans un sachet hermétique. Ajoutez-les gelés dans vos plats pour éviter qu'ils ne ramollissent."
 ---
 
@@ -43,7 +43,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper non lavé dans du journal et stocker debout — Stockage vertical 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper non lavé dans du journal et stocker debout — Stockage à Temp. Ambiante (5Jours) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Enveloppez les oignons verts secs dans du papier journal et placez-les debout, racines vers le bas, dans un endroit frais. Les stocker verticalement imita leur croissance et prolonge leur vie.
@@ -53,7 +53,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sécher et stocker debout dans une boîte avec du papier absorbant 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sécher et stocker debout dans une boîte avec du papier absorbant — Stockage Réfrigéré (14Jours) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Les oignons verts lavés doivent être séchés au papier absorbant ou à l'essoreuse. Tapissez le fond d'une boîte haute de papier essuie-tout et placez-les debout, racines vers le bas, dans le bac à légumes.
@@ -63,7 +63,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hacher, sceller et stocker au congélateur — Long terme ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hacher, sceller et stocker au congélateur — Stockage Congelé (180Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Si vous ne pouvez pas les consommer sous 2 semaines, émincez-les, séchez-les bien et congelez-les dans un sachet hermétique. Ajoutez-les gelés dans vos plats pour éviter qu'ils ne ramollissent.

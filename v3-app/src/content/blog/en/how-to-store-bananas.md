@@ -9,11 +9,11 @@ app: "storeself"
 youtubeId: "yJz71H46PJM"
 
 steps:
-  - name: "Use a banana hanger — Prevent bruising 🍌"
+  - name: "Hang Them Up to Prevent Bruising — Room Temp Storage (7 Days) 🍌"
     text: "Leaving bananas lying on a flat surface causes the bottom fruits to bruise under their own weight. Bruised spots accelerate ethylene gas release and browning. 💡 Storage Tip: Hang bananas on a banana hanger or a coat hanger to suspend them. This mimics their natural growing environment, keeping them firm and bruise-free for much longer."
   - name: "Wrap the crown with aluminum foil — Gas blockage 🪙"
     text: "Most of the banana's ethylene gas is released from the stem (crown). 💡 Storage Tip: Wrap the crown tightly with aluminum foil or plastic wrap. This prevents the gas from spreading, slowing down the ripening of the entire bunch by 3 to 5 days."
-  - name: "Refrigerate once fully ripe — Delay spoilage ❄️"
+  - name: "Refrigerate ONLY After Ripening — Refrigerated Storage (7 Days) ❄️"
     text: "While many believe bananas should never be refrigerated, this is only true for unripe ones. Refrigerating green bananas causes cold damage, turning them black without ripening. However, fully ripe bananas with sugar spots are different. 💡 Storage Tip: Wrap ripe bananas individually and store them in the crisper drawer (0–4°C). The peel will turn black due to the cold, but the pulp inside will remain firm and fresh for up to a week."
 ---
 
@@ -53,7 +53,7 @@ Therefore, the golden rule of banana storage is to 🌿 minimize bruising and co
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hang Them Up to Prevent Bruising 🍌</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hang Them Up to Prevent Bruising — Room Temp Storage (7 Days) 🍌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     When you rest a bunch of bananas on the counter, the weight of the bunch bruises the bottom bananas.<br/><br/>
@@ -75,7 +75,7 @@ Therefore, the golden rule of banana storage is to 🌿 minimize bruising and co
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Refrigerate ONLY After Ripening ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Refrigerate ONLY After Ripening — Refrigerated Storage (7 Days) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     You might have heard that you should never put bananas in the fridge. This is actually a half-truth. Placing green, unripe bananas in the fridge will cause cold damage, turning the peel dark brown and stopping the ripening process permanently. However, for <strong>fully ripe bananas</strong> (when delicious sugar spots start to appear), the rules change.<br/><br/>

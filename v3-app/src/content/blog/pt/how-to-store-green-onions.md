@@ -8,11 +8,11 @@ heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
-  - name: "Embrulhe sem lavar em jornal e guarde de pé — Armazenamento vertical 🌿"
+  - name: "Embrulhe sem lavar em jornal e guarde de pé — Conservação em Temp. Ambiente (5Dias) 🌿"
     text: "Embrulhe as cebolinhas secas e sem lavar em jornal e coloque-as de pé com as raízes para baixo em local fresco. Armazenar na vertical simula o crescimento natural delas e atrasa a deterioração."
-  - name: "Seque e guarde em pote vertical com papel-toalha 📦"
+  - name: "Seque e guarde em pote vertical com papel-toalha — Armazenamento Refrigerado (14Dias) 📦"
     text: "Cebolinhas lavadas devem ser bem secas com papel-toalha. Coloque papel-toalha no fundo de um pote alto e guarde-as de pé com as raízes para baixo na gaveta de legumes."
-  - name: "Pique, sele e guarde no freezer — Longo prazo ❄️"
+  - name: "Pique, sele e guarde no freezer — Armazenamento Congelado (180Dias)"
     text: "Se não for usar em 2 semanas, pique as cebolinhas, seque bem e guarde em um saco para freezer. Adicione-as congeladas direto na panela para que não fiquem moles."
 ---
 
@@ -43,7 +43,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe sem lavar em jornal e guarde de pé — Armazenamento vertical 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe sem lavar em jornal e guarde de pé — Conservação em Temp. Ambiente (5Dias) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Embrulhe as cebolinhas secas e sem lavar em jornal e coloque-as de pé com as raízes para baixo em local fresco. Armazenar na vertical simula o crescimento natural delas e atrasa a deterioração.
@@ -53,7 +53,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque e guarde em pote vertical com papel-toalha 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque e guarde em pote vertical com papel-toalha — Armazenamento Refrigerado (14Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Cebolinhas lavadas devem ser bem secas com papel-toalha. Coloque papel-toalha no fundo de um pote alto e guarde-as de pé com as raízes para baixo na gaveta de legumes.
@@ -63,7 +63,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pique, sele e guarde no freezer — Longo prazo ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pique, sele e guarde no freezer — Armazenamento Congelado (180Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Se não for usar em 2 semanas, pique as cebolinhas, seque bem e guarde em um saco para freezer. Adicione-as congeladas direto na panela para que não fiquem moles.

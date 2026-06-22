@@ -10,9 +10,9 @@ authority: "<strong>国立水産科学部(NIFS) & 食品医薬品安全処(MFDS)
 steps:
   - name: "内臓と吸盤の汚れを完全に除去する — 臭み防止 🦑"
     text: "いかの内臓や吸盤についた汚れは, 生臭さや雑菌繁殖の原因になります。胴体を切り開いて内臓とイカスミ袋を取り除き, 足の吸盤についたイカの角質リングなどの汚れを流水でこすり落としながらきれいに洗います。"
-  - name: "水気を完全に乾かしてラップで包む — 食感の保護 📦"
+  - name: "水気を完全に乾かしてラップで包む — 冷蔵保存 (2日間) 📦"
     text: "洗ったいかは, ペーパーで胴体の中も外も水分を完全に拭き取ってください。水分が残っていると凍らせる際に氷結晶ができ, 解凍した時に身がふにゃふにゃになってしまいます。水気を取ったらラップで個別に密閉します。"
-  - name: "ジッパーバッグに入れて二重に密閉して冷凍 — におい移り防止 🛡️"
+  - name: "ジッパーバッグに入れて二重に密閉して冷凍 — 冷凍保存 (60日間)"
     text: "ラップで包んだいかをジッパーバッグに入れ, 空気を抜いてからマイナス18℃以下の冷凍庫に保存します。海鮮特有のにおいが他の冷凍食品に移るのを完全に防ぎます。"
 ---
 
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">水気を完全に乾かしてラップで包む — 食感の保護 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">水気を完全に乾かしてラップで包む — 冷蔵保存 (2日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     洗ったいかは, ペーパーで胴体の中も外も水分を完全に拭き取ってください。水分が残っていると凍らせる際に氷結晶ができ, 解凍した時に身がふにゃふにゃになってしまいます。水気を取ったらラップで個別に密閉します。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ジッパーバッグに入れて二重に密閉して冷凍 — におい移り防止 🛡️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ジッパーバッグに入れて二重に密閉して冷凍 — 冷凍保存 (60日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     ラップで包んだいかをジッパーバッグに入れ, 空気を抜いてからマイナス18℃以下の冷凍庫に保存します。海鮮特有のにおいが他の冷凍食品に移るのを完全に防ぎます。

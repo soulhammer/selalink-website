@@ -8,11 +8,11 @@ heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
-  - name: "Simpan di tempat teduh pada suhu ruang sebelum matang — Pematangan 🌿"
+  - name: "Simpan di tempat teduh pada suhu ruang sebelum matang — Penyimpanan Suhu Ruang (7Hari) 🌿"
     text: "Tomat hijau yang belum matang harus disimpan dengan posisi tangkai di atas di tempat teduh pada suhu ruang (15–20°C). Mendinginkannya membuat pematangan terhenti dan kulit keriput."
   - name: "Lepas tangkai hijau sebelum disimpan — Mencegah jamur ✂️"
     text: "Tangkai tomat adalah area yang paling rentan ditumbuhi jamur. Melepas tangkai sebelum disimpan mencegah tomat saling menggores dan menekan risiko pembusukan."
-  - name: "Bungkus tomat matang dengan koran lalu taruh di laci sayur ❄️"
+  - name: "Bungkus tomat matang dengan koran lalu taruh di laci sayur ❄️ — Penyimpanan Dingin (7Hari)"
     text: "Hanya simpan tomat yang sudah matang merah di laci sayur kulkas (5–10°C), bungkus satu per satu dengan koran. Ini mencegah air menguap akibat suhu dingin."
 ---
 
@@ -43,7 +43,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan di tempat teduh pada suhu ruang sebelum matang — Pematangan 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan di tempat teduh pada suhu ruang sebelum matang — Penyimpanan Suhu Ruang (7Hari) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Tomat hijau yang belum matang harus disimpan dengan posisi tangkai di atas di tempat teduh pada suhu ruang (15–20°C). Mendinginkannya membuat pematangan terhenti dan kulit keriput.
@@ -63,7 +63,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus tomat matang dengan koran lalu taruh di laci sayur ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus tomat matang dengan koran lalu taruh di laci sayur ❄️ — Penyimpanan Dingin (7Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Hanya simpan tomat yang sudah matang merah di laci sayur kulkas (5–10°C), bungkus satu per satu dengan koran. Ini mencegah air menguap akibat suhu dingin.

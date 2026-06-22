@@ -8,7 +8,7 @@ heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
-  - name: "切勿清洗鸡蛋 — 保护天然保护膜（角质层） ❌💧"
+  - name: "切勿清洗鸡蛋 — 冷藏储存 (45天) 💧"
     text: "蛋壳表面有数千个肉眼看不见的微小气孔以进行呼吸。用水清洗会破坏蛋壳外的天然保护膜（角质层），使沙门氏菌等外部细菌通过气孔轻易渗入蛋内。表面脏污只需用干布或纸巾擦掉即可。"
   - name: "将尖头朝下摆放 — 保持气室在上 🥚"
     text: "鸡蛋的大头（圆头）端有一个气室（存积空气的地方）。如果将大头朝下摆放，蛋黄容易贴住气室导致蛋膜破裂变质。让大头朝上，气室能够正常呼吸，也能让蛋黄保持在中心位置。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">切勿清洗鸡蛋 — 保护天然保护膜（角质层） ❌💧</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">切勿清洗鸡蛋 — 冷藏储存 (45天) 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     蛋壳表面有数千个肉眼看不见的微小气孔以进行呼吸。用水清洗会破坏蛋壳外的天然保护膜（角质层），使沙门氏菌等外部细菌通过气孔轻易渗入蛋内。表面脏污只需用干布或纸巾擦掉即可。

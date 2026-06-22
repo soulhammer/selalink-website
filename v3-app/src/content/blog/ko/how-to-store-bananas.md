@@ -46,7 +46,7 @@ youtubeId: "yJz71H46PJM"
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">바나나 걸이(행거) 사용하기 — 상처 방지 🍌</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">바나나 걸이(행거) 사용하기 — 실온 보관 (7일) 🍌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     바나나를 바닥에 그냥 두면 자체 무게로 인해 아랫부분이 눌려 멍이 듭니다. 멍든 부위는 세포벽이 파괴되어 에틸렌 가스가 과다하게 분출되고 갈변이 가속화됩니다.<br/><br/>
@@ -68,7 +68,7 @@ youtubeId: "yJz71H46PJM"
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">완숙 후에는 냉장 보관 활용하기 — 노화 지연 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">완숙 후에는 냉장 보관 활용하기 — 냉장 보관 (7일) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     많은 분들이 바나나는 절대 냉장고에 넣으면 안 된다고 알고 계시지만, 이는 절반만 맞고 절반은 틀린 상식입니다. 덜 익은 초록색 바나나를 냉장고에 넣으면 세포가 냉해를 입어 갈변하고 익지 않습니다. 하지만 <strong>검은 반점(슈가스팟)이 생기며 완숙된 바나나</strong>는 다릅니다.<br/><br/>

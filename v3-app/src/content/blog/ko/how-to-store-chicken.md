@@ -48,7 +48,7 @@ authority: "<strong>미국 농무부(USDA) 및 식품의약품안전처(MFDS) �
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">지퍼백에 이중 소분하여 밀봉 후 하단 선반 보관 — 수액 누출 차단 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">지퍼백에 이중 소분하여 밀봉 후 하단 선반 보관 — 냉장 보관 (2일) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     생닭에서 나오는 붉은 닭 육즙(수액)이 다른 반찬에 닿으면 즉시 상합니다. 닭고기를 일회용 팩에 넣고 한 번 더 지퍼백에 이중 밀봉하여 냉장고에서 가장 온도가 일정한 하단 선반 구석에 보관하세요.
@@ -58,7 +58,7 @@ authority: "<strong>미국 농무부(USDA) 및 식품의약품안전처(MFDS) �
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">소금과 청주로 가벼운 밑간하여 냉장 — 보존 연장 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">소금과 청주로 가벼운 밑간하여 냉장 — 냉동 보관 (90일) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     구입 즉시 조리하지 못할 생닭은 청주(또는 소주)와 굵은 소금을 살짝 뿌려 냉장 보관하면 알코올의 살균 작용과 소금의 삼투압 작용으로 닭고기 신선도가 하루 더 연장됩니다.

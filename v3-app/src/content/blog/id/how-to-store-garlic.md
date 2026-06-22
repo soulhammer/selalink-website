@@ -8,11 +8,11 @@ heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
-  - name: "Taburkan gula dan tisu dapur di dasar wadah — Penyerap kelembapan alami 🪙"
+  - name: "Taburkan gula dan tisu dapur di dasar wadah — Penyimpanan Dingin (14Hari) 🪙"
     text: "Taburkan gula setebal 1 cm secara merata di dasar wadah kedap udara, lapisi dengan 2–3 lembar tisu dapur, lalu masukkan bawang putih kupas. Gula berfungsi menyerap kelembapan agar bawang tetap kering."
-  - name: "Gantung bawang putih utuh dalam kantong jaring — Ventilasi suhu ruang 🌬️"
+  - name: "Gantung bawang putih utuh dalam kantong jaring — Penyimpanan Suhu Ruang (30Hari)"
     text: "Menyimpan bawang putih utuh yang belum dikupas di kulkas memicu pertumbuhan tunas dan pembusukan. Taruh bawang di kantong jaring lalu gantung di area berventilasi baik, sejuk, dan teduh (10–15°C)."
-  - name: "Bekukan bawang putih cincang dalam cetakan silikon — Pembekuan porsi ❄️"
+  - name: "Bekukan bawang putih cincang dalam cetakan silikon — Penyimpanan Beku (180Hari)"
     text: "Untuk bawang putih dalam jumlah banyak, haluskan lalu ratakan di kantong ziploc dengan garis sekat, atau bekukan dalam cetakan silikon. Ambil satu kubus saat memasak, cara ini praktis dan menjaga nutrisinya."
 ---
 
@@ -43,7 +43,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Taburkan gula dan tisu dapur di dasar wadah — Penyerap kelembapan alami 🪙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Taburkan gula dan tisu dapur di dasar wadah — Penyimpanan Dingin (14Hari) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Taburkan gula setebal 1 cm secara merata di dasar wadah kedap udara, lapisi dengan 2–3 lembar tisu dapur, lalu masukkan bawang putih kupas. Gula berfungsi menyerap kelembapan agar bawang tetap kering.
@@ -53,7 +53,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gantung bawang putih utuh dalam kantong jaring — Ventilasi suhu ruang 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gantung bawang putih utuh dalam kantong jaring — Penyimpanan Suhu Ruang (30Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Menyimpan bawang putih utuh yang belum dikupas di kulkas memicu pertumbuhan tunas dan pembusukan. Taruh bawang di kantong jaring lalu gantung di area berventilasi baik, sejuk, dan teduh (10–15°C).
@@ -63,7 +63,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bekukan bawang putih cincang dalam cetakan silikon — Pembekuan porsi ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bekukan bawang putih cincang dalam cetakan silikon — Penyimpanan Beku (180Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Untuk bawang putih dalam jumlah banyak, haluskan lalu ratakan di kantong ziploc dengan garis sekat, atau bekukan dalam cetakan silikon. Ambil satu kubus saat memasak, cara ini praktis dan menjaga nutrisinya.

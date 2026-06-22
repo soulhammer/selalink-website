@@ -9,11 +9,11 @@ app: "storeself"
 youtubeId: "yJz71H46PJM"
 
 steps:
-  - name: "Use um suporte para bananas — Evite amassados 🍌"
+  - name: "Pendurar as bananas em um suporte — Conservação em Temp. Ambiente (7 Dias) 🍌"
     text: "Deixar as bananas apoiadas em uma superfície amassa os frutos de baixo devido ao próprio peso. As partes machucadas liberam mais etileno e escurecem. 💡 Dicas de conservação: Pendure as bananas em um suporte. Isso simula o cacho no pé, mantendo-as firmes e sem amassados por muito mais tempo."
   - name: "Embrulhe a coroa com papel alumínio — Bloqueio de gás 🪙"
     text: "O gás etileno da banana é liberado principalmente pela coroa (talo). 💡 Dicas de conservação: Embrulhe a coroa firmemente com papel alumínio ou filme plástico. Isso evita que o gás se espalhe, atrasando o amadurecimento em até 3 a 5 dias."
-  - name: "Refrigere quando estiver bem maduro — Retarde a deterioração ❄️"
+  - name: "Refrigerar APENAS quando estiverem maduras — Armazenamento Refrigerado (7 Dias) ❄️"
     text: "Muitos acham que bananas nunca devem ir à geladeira, mas isso vale para as verdes. Refrigerar bananas verdes causa injúria por frio, enegrecendo a casca sem amadurecer. Bananas maduras com pintas pretas são diferentes. 💡 Dicas de conservação: Embrulhe as bananas maduras individualmente e guarde na gaveta de legumes (0-4 °C). A casca escurece, mas a polpa se mantém firme e fresca por até uma semana."
 ---
 
@@ -53,7 +53,7 @@ Por isso, a regra de ouro para conservar bananas é: 🌿 **"Minimizar os machuc
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pendurar as bananas em um suporte — Evitar machucados 🍌</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pendurar as bananas em um suporte — Conservação em Temp. Ambiente (7 Dias) 🍌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Deixar as bananas apoiadas faz com que as frutas inferiores suportem todo o peso do racimo, o que as machuca e acelera o amadurecimento.<br/><br/>
@@ -75,7 +75,7 @@ Por isso, a regra de ouro para conservar bananas é: 🌿 **"Minimizar os machuc
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Refrigerar APENAS quando estiverem maduras ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Refrigerar APENAS quando estiverem maduras — Armazenamento Refrigerado (7 Dias) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     É comum acreditar que as bananas nunca devem ir à geladeira, mas isso é apenas meia verdade. Colocar bananas verdes causará danos pelo frio e elas nunca amadurecerão. No entanto, para <strong>bananas totalmente maduras</strong> (com pintinhas pretas), as regras mudam.<br/><br/>

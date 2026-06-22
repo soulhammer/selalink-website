@@ -10,9 +10,9 @@ authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "Não lave o frango cru com água — Evite contaminação cruzada ❌💧"
     text: "Lavar o frango cru espalha água com bactérias como Campylobacter a até 50 cm ao redor da pia, contaminando louças e utensílios. Não lave o frango; limpe-o com papel-toalha ou escalde em água fervente."
-  - name: "Sele em saco duplo e guarde na prateleira inferior — Evite vazamento de sucos 📦"
+  - name: "Sele em saco duplo e guarde na prateleira inferior — Armazenamento Refrigerado (2Dias) 📦"
     text: "Os sucos do frango cru contêm bactérias e podem contaminar outros alimentos caso vazem. Coloque o frango em um saco plástico, feche dentro de outro com lacre e guarde na prateleira inferior da geladeira."
-  - name: "Tempere levemente com sal e vinho de cozinha — Prolongue a conservação 🧂"
+  - name: "Tempere levemente com sal e vinho de cozinha — Armazenamento Congelado (90Dias) 🧂"
     text: "Se não puder cozinhar o frango imediatamente, salpique sal grosso e um pouco de saquê culinário ou álcool transparente antes de refrigerar. O álcool higieniza e o sal preserva as fibras por mais um dia."
 ---
 
@@ -53,7 +53,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sele em saco duplo e guarde na prateleira inferior — Evite vazamento de sucos 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sele em saco duplo e guarde na prateleira inferior — Armazenamento Refrigerado (2Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Os sucos do frango cru contêm bactérias e podem contaminar outros alimentos caso vazem. Coloque o frango em um saco plástico, feche dentro de outro com lacre e guarde na prateleira inferior da geladeira.
@@ -63,7 +63,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tempere levemente com sal e vinho de cozinha — Prolongue a conservação 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tempere levemente com sal e vinho de cozinha — Armazenamento Congelado (90Dias) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Se não puder cozinhar o frango imediatamente, salpique sal grosso e um pouco de saquê culinário ou álcool transparente antes de refrigerar. O álcool higieniza e o sal preserva as fibras por mais um dia.

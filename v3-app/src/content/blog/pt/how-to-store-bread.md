@@ -10,9 +10,9 @@ authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "Nunca guarde na geladeira — Evite o ressecamento do pão ❌🍞"
     text: "O amido da farinha de trigo, principal componente do pão, cristaliza e resseca muito rápido na temperatura da geladeira (1-6 °C). Uma vez que isso ocorre, o pão fica duro e esfarelado, e aquecer não devolverá a maciez natural."
-  - name: "Embrulhe as fatias individualmente com filme plástico — Sele a umidade 📦"
+  - name: "Embrulhe as fatias individualmente com filme plástico — Conservação em Temp. Ambiente (3Dias) 📦"
     text: "Embrulhe cada fatia de pão firmemente com filme plástico antes de guardar, garantindo que não fique ar. O ar retido formará cristais de gelo, ressecando e endurecendo o pão."
-  - name: "Coloque as fatias em um saco para freezer e congele imediatamente ❄️"
+  - name: "Coloque as fatias em um saco para freezer e congele imediatamente ❄️ — Armazenamento Congelado (90Dias)"
     text: "Coloque as fatias embrulhadas em um saco para freezer com fecho, retire o ar e guarde no freezer a menos de -18 °C. Quando for consumir, descongele em temp. ambiente por 15 minutos ou coloque direto na torradeira."
 ---
 
@@ -53,7 +53,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe as fatias individualmente com filme plástico — Sele a umidade 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe as fatias individualmente com filme plástico — Conservação em Temp. Ambiente (3Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Embrulhe cada fatia de pão firmemente com filme plástico antes de guardar, garantindo que não fique ar. O ar retido formará cristais de gelo, ressecando e endurecendo o pão.
@@ -63,7 +63,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Coloque as fatias em um saco para freezer e congele imediatamente ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Coloque as fatias em um saco para freezer e congele imediatamente ❄️ — Armazenamento Congelado (90Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Coloque as fatias embrulhadas em um saco para freezer com fecho, retire o ar e guarde no freezer a menos de -18 °C. Quando for consumir, descongele em temp. ambiente por 15 minutos ou coloque direto na torradeira.

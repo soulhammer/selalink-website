@@ -10,9 +10,9 @@ authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "Niemals im Kühlschrank lagern — Austrocknen des Brotes verhindern ❌🍞"
     text: "Die Stärke im Weizenmehl, dem Hauptbestandteil von Brot, kristallisiert bei Kühlschranktemperaturen (1–6 °C) am schnellsten. Einmal ausgetrocknet, wird das Brot krümelig und verliert dauerhaft seine Weichheit."
-  - name: "Einzelne Scheiben fest in Frischhaltefolie einwickeln — Feuchtigkeit einschließen 📦"
+  - name: "Einzelne Scheiben fest in Frischhaltefolie einwickeln — Lagerung bei Raumtemperatur (3Tage) 📦"
     text: "Wickeln Sie jede Brotscheibe vor der Lagerung fest in Frischhaltefolie ein und achten Sie darauf, dass keine Luft eingeschlossen wird. Luft führt zu Gefrierbrand, der das Brot austrocknet."
-  - name: "Eingewickelte Scheiben in einen Gefrierbeutel legen und sofort einfrieren ❄️"
+  - name: "Eingewickelte Scheiben in einen Gefrierbeutel legen und sofort einfrieren ❄️ — Gefrierlagerung (90Tage)"
     text: "Legen Sie die Scheiben in einen Gefrierbeutel, pressen Sie die Luft heraus und frieren sie bei unter -18 °C ein. Bei Bedarf einfach 15 Minuten bei Raumtemperatur auftauen lassen oder direkt toasten."
 ---
 
@@ -53,7 +53,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Einzelne Scheiben fest in Frischhaltefolie einwickeln — Feuchtigkeit einschließen 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Einzelne Scheiben fest in Frischhaltefolie einwickeln — Lagerung bei Raumtemperatur (3Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wickeln Sie jede Brotscheibe vor der Lagerung fest in Frischhaltefolie ein und achten Sie darauf, dass keine Luft eingeschlossen wird. Luft führt zu Gefrierbrand, der das Brot austrocknet.
@@ -63,7 +63,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Eingewickelte Scheiben in einen Gefrierbeutel legen und sofort einfrieren ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Eingewickelte Scheiben in einen Gefrierbeutel legen und sofort einfrieren ❄️ — Gefrierlagerung (90Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Legen Sie die Scheiben in einen Gefrierbeutel, pressen Sie die Luft heraus und frieren sie bei unter -18 °C ein. Bei Bedarf einfach 15 Minuten bei Raumtemperatur auftauen lassen oder direkt toasten.

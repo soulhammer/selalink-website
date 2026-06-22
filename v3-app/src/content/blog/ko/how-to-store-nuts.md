@@ -38,7 +38,7 @@ authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</s
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">개봉 후 무조건 밀봉하여 냉장/냉동실 보관 — 아플라톡신 차단 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">개봉 후 무조건 밀봉하여 냉장/냉동실 보관 — 냉장 90일 및 냉동 180일</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     견과류는 온도가 높고 습한 상온에 두면 지방 성분이 공기 중 산소와 만나 찌든 내가 나고 1급 발암 곰팡이독소인 아플라톡신(Aflatoxin)이 피어나기 쉬우므로 무조건 밀봉 냉장/냉동해야 합니다.
@@ -58,7 +58,7 @@ authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</s
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">습기가 없는 건조한 상태 유지하기 — 건조 밀폐 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">습기가 없는 건조한 상태 유지하기 — 실온 보관 (15일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     냉장실 습기가 견과류에 스며들면 조직이 눅눅해지고 즉시 균이 번식합니다. 락앤락 통 뚜껑에 제습제를 붙이거나 지퍼를 확실히 잠가 외부 수분 유입을 완전히 차단하는 것이 과학적 팩트입니다.

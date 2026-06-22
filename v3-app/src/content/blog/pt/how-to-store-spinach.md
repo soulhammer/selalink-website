@@ -10,7 +10,7 @@ authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
   - name: "Embrulhe o espinafre sem lavar em jornal/papel-toalha 📦"
     text: "As folhas do espinafre apodrecem rápido se molhadas. Mantenha a terra e embrulhe sem apertar em jornal ou papel-toalha para evitar a condensação."
-  - name: "Guarde na vertical com as raízes para baixo — Diminua a respiração 🌿"
+  - name: "Guarde na vertical com as raízes para baixo — Armazenamento Refrigerado (4Dias) 🌿"
     text: "Se guardar deitados, os espinafres gastam energia tentando crescer para cima, murchando mais rápido. Coloque-os na vertical, com as raízes para baixo, em um copo ou pote na gaveta de legumes."
   - name: "Isole de frutas que liberam etileno — Armazenamento protegido 🛡️"
     text: "O espinafre é extremamente sensível ao gás etileno. Guardar perto de maçã, pera ou tomate amarela as folhas e causa apodrecimento rápido. Deixe em gavetas totalmente separadas."
@@ -53,7 +53,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde na vertical com as raízes para baixo — Diminua a respiração 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde na vertical com as raízes para baixo — Armazenamento Refrigerado (4Dias) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Se guardar deitados, os espinafres gastam energia tentando crescer para cima, murchando mais rápido. Coloque-os na vertical, com as raízes para baixo, em um copo ou pote na gaveta de legumes.

@@ -10,9 +10,9 @@ authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC
 steps:
   - name: "水で洗うのは絶対に避ける — シンクの二次汚染防止 ❌💧"
     text: "生鶏肉に付着しているカンピロバクターなどの食中毒菌は、水洗いすると細かな水しぶきとなって周囲50cm以内の食器や調理器具に飛び散ります。絶対に水洗いせず, ペーパーで水分を拭き取るか, 沸騰したお湯に通して調理してください。"
-  - name: "二重に密閉して保存し、冷蔵庫の最下段に置く — ドリップの漏れ防止 📦"
+  - name: "二重に密閉して保存し、冷蔵庫の最下段に置く — 冷蔵保存 (2日間) 📦"
     text: "鶏肉から出る水分や汁（ドリップ）が他の食材に付着すると, 食中毒の原因になります。鶏肉を袋に入れ、さらにジッパーバッグで二重に密閉し, 冷蔵庫の中で最も温度が一定な最下段の奥に保存してください。"
-  - name: "塩と料理酒で軽く下味をつけて保存 — 保存期間の延長 🧂"
+  - name: "塩と料理酒で軽く下味をつけて保存 — 冷凍保存 (90日間) 🧂"
     text: "購入してすぐに調理しない鶏肉は、料理酒（または焼酎）と粗塩を軽く振ってから冷蔵保存すると、アルコールの殺菌作用と塩の浸透圧作用により、鮮度をさらに1日延ばすことができます。"
 ---
 
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">二重に密閉して保存し、冷蔵庫の最下段に置く — ドリップの漏れ防止 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">二重に密閉して保存し、冷蔵庫の最下段に置く — 冷蔵保存 (2日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     鶏肉から出る水分や汁（ドリップ）が他の食材に付着すると, 食中毒の原因になります。鶏肉を袋に入れ、さらにジッパーバッグで二重に密閉し, 冷蔵庫の中で最も温度が一定な最下段の奥に保存してください。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">塩と料理酒で軽く下味をつけて保存 — 保存期間の延長 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">塩と料理酒で軽く下味をつけて保存 — 冷凍保存 (90日間) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     購入してすぐに調理しない鶏肉は、料理酒（または焼酎）と粗塩を軽く振ってから冷蔵保存すると、アルコールの殺菌作用と塩の浸透圧作用により、鮮度をさらに1日延ばすことができます。

@@ -8,7 +8,7 @@ heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
-  - name: "Envelopper les pommes de terre sèches de journal/sac papier — Écran à la lumière 📦"
+  - name: "Envelopper les pommes de terre sèches de journal/sac papier — Stockage à Temp. Ambiante (45Jours) 📦"
     text: "Les pommes de terre se conservent mieux avec leur terre d'origine. Les envelopper de journal ou de papier fait barrage à la lumière, ce qui les empêche de verdir et de sécréter de la solanine (toxique)."
   - name: "Stocker à temp. ambiante avec une pomme — Éviter la germination 🍎"
     text: "Placer une pomme au milieu des pommes de terre libère de l'éthylène. Ce gaz inhibe la germination et retarde de beaucoup l'apparition des germes."
@@ -43,7 +43,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper les pommes de terre sèches de journal/sac papier — Écran à la lumière 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper les pommes de terre sèches de journal/sac papier — Stockage à Temp. Ambiante (45Jours) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Les pommes de terre se conservent mieux avec leur terre d'origine. Les envelopper de journal ou de papier fait barrage à la lumière, ce qui les empêche de verdir et de sécréter de la solanine (toxique).

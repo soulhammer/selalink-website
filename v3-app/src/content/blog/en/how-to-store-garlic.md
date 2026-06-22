@@ -8,11 +8,11 @@ heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
-  - name: "Spread sugar and paper towels at the bottom of the container — Natural desiccant 🪙"
+  - name: "Spread sugar and paper towels at the bottom of the container — Refrigerated Storage (14Days) 🪙"
     text: "Spread a 1cm layer of sugar evenly at the bottom of an airtight container, cover it with 2–3 layers of paper towels, and place the peeled garlic inside. Sugar acts as a natural desiccant to absorb ambient moisture and keep the garlic dry."
-  - name: "Hang whole garlic in a mesh bag — Room temp ventilation 🌬️"
+  - name: "Hang whole garlic in a mesh bag — Room Temp Storage (30Days)"
     text: "Refrigerating unpeeled whole garlic causes it to sprout and decay quickly due to cold moisture. The scientific storage method is to place them in a mesh bag and hang them in a cool, dark, and well-ventilated area (10–15°C)."
-  - name: "Freeze minced garlic in silicone trays — Portioned freezing ❄️"
+  - name: "Freeze minced garlic in silicone trays — Frozen Storage (180Days)"
     text: "For large amounts of garlic, mince and lay them flat in a ziploc bag with pre-scored grid lines, or freeze them in silicone cube trays. Pop out one cube whenever cooking, which prevents nutrient loss and is highly convenient."
 ---
 
@@ -43,7 +43,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Spread sugar and paper towels at the bottom of the container — Natural desiccant 🪙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Spread sugar and paper towels at the bottom of the container — Refrigerated Storage (14Days) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Spread a 1cm layer of sugar evenly at the bottom of an airtight container, cover it with 2–3 layers of paper towels, and place the peeled garlic inside. Sugar acts as a natural desiccant to absorb ambient moisture and keep the garlic dry.
@@ -53,7 +53,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hang whole garlic in a mesh bag — Room temp ventilation 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hang whole garlic in a mesh bag — Room Temp Storage (30Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Refrigerating unpeeled whole garlic causes it to sprout and decay quickly due to cold moisture. The scientific storage method is to place them in a mesh bag and hang them in a cool, dark, and well-ventilated area (10–15°C).
@@ -63,7 +63,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Freeze minced garlic in silicone trays — Portioned freezing ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Freeze minced garlic in silicone trays — Frozen Storage (180Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     For large amounts of garlic, mince and lay them flat in a ziploc bag with pre-scored grid lines, or freeze them in silicone cube trays. Pop out one cube whenever cooking, which prevents nutrient loss and is highly convenient.

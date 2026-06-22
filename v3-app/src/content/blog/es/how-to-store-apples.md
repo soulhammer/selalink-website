@@ -10,7 +10,7 @@ app: "storeself"
 steps:
   - name: "Envuelva individualmente con film plástico sin lavar — Retención de humedad 📦"
     text: "Exponer las manzanas al aire o refrigerarlas directamente hace que pierdan humedad, arrugando la piel y ablandando la pulpa. 💡 Consejos de almacenamiento: Envuelva cada manzana seca firmemente con film plástico. Esto retiene la humedad natural para mantener su textura crujiente y evita que el gas etileno se propague."
-  - name: "Conserve en refrigeración a 0–4 °C — Retrase la maduración ❄️"
+  - name: "Conserve a baja temperatura (0 a 4 °C) — Almacenamiento Refrigerado (30 Días) ❄️"
     text: "Las temperaturas altas aceleran la respiración de la manzana, liberando más gas etileno y dañándola rápido. 💡 Consejos de almacenamiento: La temperatura ideal es de 0 a 4 °C. Guarde las manzanas envueltas en el cajón de verduras del refrigerador. Evite temperaturas congelantes para que no pierda su sabor."
   - name: "Aísle por completo de otros alimentos — Protección doble 🛡️"
     text: "Aunque estén envueltas, el gas etileno de las manzanas puede viajar por el aire y dañar otros alimentos. 💡 Consejos de almacenamiento: Coloque las manzanas envueltas en una bolsa con cierre o contenedor hermético. Manténgalas en compartimentos separados de frutas y verduras sensibles al etileno como lechugas, espinacas o plátanos."
@@ -63,7 +63,7 @@ Por lo tanto, la clave para un almacenamiento exitoso de las manzanas es **evita
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Conserve a baja temperatura (0 a 4 °C) — Retrase la maduración ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Conserve a baja temperatura (0 a 4 °C) — Almacenamiento Refrigerado (30 Días) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Las temperaturas cálidas aceleran la tasa de respiración de las manzanas, lo que desencadena una mayor emisión de etileno y un deterioro más rápido.<br/><br/>

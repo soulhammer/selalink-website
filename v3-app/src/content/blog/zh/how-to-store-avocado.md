@@ -8,9 +8,9 @@ heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
 authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
 steps:
-  - name: "熟透前放入纸袋常温保存 — 自然催熟 🥑"
+  - name: "熟透前放入纸袋常温保存 — 常温储存 (5天) 🥑"
     text: "未成熟的硬牛油果应保存在15-20℃的常温下。放入纸袋中并与香蕉或苹果放在一起，它们释放的乙烯气体会加速熟化过程。"
-  - name: "熟透后裹保鲜膜冷藏 — 延缓老化 ❄️"
+  - name: "熟透后裹保鲜膜冷藏 — 冷藏储存 (7天)"
     text: "当表皮变为黑褐色、手轻轻捏感觉微软时，说明已经熟透。此时应立即用保鲜膜单独包裹放入冰箱冷藏，以减缓变质并延长保鲜。"
   - name: "切开的表面涂抹柠檬汁密封 — 防止褐变 🍋"
     text: "用剩的半个牛油果请保留果核，在切面上涂抹一层薄薄的柠檬汁（或橄榄油），然后用保鲜膜紧密密封。酸性成分能有效阻断空气接触引发的氧化褐变。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">熟透前放入纸袋常温保存 — 自然催熟 🥑</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">熟透前放入纸袋常温保存 — 常温储存 (5天) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     未成熟的硬牛油果应保存在15-20℃的常温下。放入纸袋中并与香蕉或苹果放在一起，它们释放的乙烯气体会加速熟化过程。
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">熟透后裹保鲜膜冷藏 — 延缓老化 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">熟透后裹保鲜膜冷藏 — 冷藏储存 (7天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     当表皮变为黑褐色、手轻轻捏感觉微软时，说明已经熟透。此时应立即用保鲜膜单独包裹放入冰箱冷藏，以减缓变质并延长保鲜。

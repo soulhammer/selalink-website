@@ -10,9 +10,9 @@ authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)
 steps:
   - name: "切勿用水冲洗生鸡肉 — 防止水槽交叉污染 ❌💧"
     text: "冲洗生鸡肉时，鸡肉表面携带的弯曲杆菌或沙门氏菌会随微小水珠飞溅到水槽周围50厘米内的餐具、刀具和砧板上。切勿用水清洗生鸡肉，建议直接用厨房纸巾吸干表面水分，或用沸水焯烫消毒。"
-  - name: "用双层袋密封并放在冰箱最下层 — 防止肉汁滴落 📦"
+  - name: "用双层袋密封并放在冰箱最下层 — 冷藏储存 (2天) 📦"
     text: "鸡肉渗出的肉汁含有大量细菌，一旦滴落到其他熟食上会引发变质。将鸡肉放入塑料袋中，再放入密封拉链袋中进行双重密封，存放在冰箱最底层的内侧，以防止肉汁滴漏。"
-  - name: "用盐和料酒轻微腌制冷藏 — 延长保鲜期 🧂"
+  - name: "用盐和料酒轻微腌制冷藏 — 冷冻储存 (90天) 🧂"
     text: "如果买回来的生鸡肉不能立即烹饪，可以撒上少许粗盐和料酒（或烧酒）后再冷藏。酒精的杀菌作用和食盐的渗透压作用，能让鸡肉的鲜度多延长一天。"
 ---
 
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用双层袋密封并放在冰箱最下层 — 防止肉汁滴落 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用双层袋密封并放在冰箱最下层 — 冷藏储存 (2天) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     鸡肉渗出的肉汁含有大量细菌，一旦滴落到其他熟食上会引发变质。将鸡肉放入塑料袋中，再放入密封拉链袋中进行双重密封，存放在冰箱最底层的内侧，以防止肉汁滴漏。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用盐和料酒轻微腌制冷藏 — 延长保鲜期 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用盐和料酒轻微腌制冷藏 — 冷冻储存 (90天) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     如果买回来的生鸡肉不能立即烹饪，可以撒上少许粗盐和料酒（或烧酒）后再冷藏。酒精的杀菌作用和食盐的渗透压作用，能让鸡肉的鲜度多延长一天。

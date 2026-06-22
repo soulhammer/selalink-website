@@ -9,11 +9,11 @@ app: "storeself"
 youtubeId: "yJz71H46PJM"
 
 steps:
-  - name: "バナナスタンド（ハンガー）の使用 — 傷み防止 🍌"
+  - name: "バナナスタンド（ハンガー）に吊るす — 常温保存 (7日間) 🍌"
     text: "バナナをテーブルなどに直に置いておくと、自重によって下の部分が潰れて傷んでしまいます。潰れた部分は傷みやすく、エチレンガスが過剰に発生して変色が進みます。💡保存のコツ：専用のスタンドやフックを使って吊るして保存してください。木に実っている状態に近い環境を作ることで、傷みを防ぎ長持ちします。"
   - name: "茎（コブ）の結合部分をアルミホイルで包む — ガス遮단 🪙"
     text: "バナナのエチレンガスは、主に茎の結合部分から放出されます。💡保存のコツ：結合部分をアルミホイルやラップできつく包んでください。ガスが外部へ広がるのを抑え、全体の追熟を3〜5日遅らせることができます。"
-  - name: "完熟後は冷蔵保存を活用 — 鮮도長持ち ❄️"
+  - name: "熟した後は冷蔵庫（野菜室）を活用する — 冷蔵保存 (7日間) ❄️"
     text: "バナナは絶対に冷蔵庫に入れてはいけないと言われますが, それは未熟なバナナの場合です。未完熟の緑のバナナは冷気で傷んでしまいますが, 黒い斑点（シュガースポット）が出た完熟バナナは別です。💡保存のコツ：完熟したバナナを1本ずつラップで包み、冷蔵庫の野菜室（0〜4℃）に入れてください。皮は黒くなりますが、中の果肉はしっかりと固く、新鮮な状態が1週間以上保てます。"
 ---
 
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">バナナスタンド（ハンガー）に吊るす — 傷みを防止 🍌</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">バナナスタンド（ハンガー）に吊るす — 常温保存 (7日間) 🍌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     バナナを直置きすると、バナナ自身の重みで下の部分が潰れて傷んでしまいます。そこからエチレンガスが余分に発生し、黒ずみ（褐変）が一気に進みます。<br/><br/>
@@ -75,7 +75,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">熟した後は冷蔵庫（野菜室）を活用する — 老化を遅らせる ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">熟した後は冷蔵庫（野菜室）を活用する — 冷蔵保存 (7日間) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     「バナナは絶対に冷蔵庫に入れてはいけない」と思われがちですが、それは半分正解で半分間違いです。まだ青いバナナを冷蔵すると低温障害を起こして熟さなくなりますが、<strong>甘いシュガースポットが出た完熟バナナ</strong>は別です。<br/><br/>

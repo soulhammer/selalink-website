@@ -8,11 +8,11 @@ heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
-  - name: "Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Vertikale Lagerung 🌿"
+  - name: "Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Lagerung bei Raumtemperatur (5Tage) 🌿"
     text: "Wickeln Sie ungewaschene Frühlingszwiebeln in Zeitungspapier und lagern Sie sie aufrecht mit den Wurzeln nach unten an einem kühlen Ort. Die aufrechte Haltung ahmt das Wachstum nach und verzögert das Altern."
-  - name: "Gewaschene Zwiebeln trocknen und aufrecht mit Küchenpapier lagern 📦"
+  - name: "Gewaschene Zwiebeln trocknen und aufrecht mit Küchenpapier lagern — Kühllagerung (14Tage) 📦"
     text: "Gewaschene Frühlingszwiebeln müssen mit Küchenpapier getrocknet werden. Legen Sie Küchenpapier auf den Boden eines hohen Behälters und lagern Sie die Zwiebeln aufrecht mit den Wurzeln nach unten im Gemüsefach."
-  - name: "Hacken, verschließen und einfrieren — Langzeitlagerung ❄️"
+  - name: "Hacken, verschließen und einfrieren — Gefrierlagerung (180Tage)"
     text: "Wenn Sie sie nicht innerhalb von 2 Wochen verbrauchen, hacken Sie die Frühlingszwiebeln, trocknen sie gut ab und frieren sie in einem Gefrierbeutel ein. Gefroren direkt in die Gerichte geben."
 ---
 
@@ -43,7 +43,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Vertikale Lagerung 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Lagerung bei Raumtemperatur (5Tage) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wickeln Sie ungewaschene Frühlingszwiebeln in Zeitungspapier und lagern Sie sie aufrecht mit den Wurzeln nach unten an einem kühlen Ort. Die aufrechte Haltung ahmt das Wachstum nach und verzögert das Altern.
@@ -53,7 +53,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gewaschene Zwiebeln trocknen und aufrecht mit Küchenpapier lagern 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gewaschene Zwiebeln trocknen und aufrecht mit Küchenpapier lagern — Kühllagerung (14Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Gewaschene Frühlingszwiebeln müssen mit Küchenpapier getrocknet werden. Legen Sie Küchenpapier auf den Boden eines hohen Behälters und lagern Sie die Zwiebeln aufrecht mit den Wurzeln nach unten im Gemüsefach.
@@ -63,7 +63,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hacken, verschließen und einfrieren — Langzeitlagerung ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hacken, verschließen und einfrieren — Gefrierlagerung (180Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wenn Sie sie nicht innerhalb von 2 Wochen verbrauchen, hacken Sie die Frühlingszwiebeln, trocknen sie gut ab und frieren sie in einem Gefrierbeutel ein. Gefroren direkt in die Gerichte geben.

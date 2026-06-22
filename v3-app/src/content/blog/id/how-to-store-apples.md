@@ -10,7 +10,7 @@ app: "storeself"
 steps:
   - name: "Bungkus satu per satu dengan plastik wrap tanpa dicuci — Menjaga kelembapan 📦"
     text: "Membiarkan apel terbuka di suhu ruang atau kulkas membuat kadar air menguap, menyebabkan kulit keriput dan daging buah menjadi layu. 💡 Tips Penyimpanan: Bungkus setiap apel kering rapat-rapat dengan plastik wrap. Ini mengunci kelembapan alami agar tetap renyah dan mencegah kebocoran gas etilen."
-  - name: "Simpan pada suhu rendah 0–4°C — Memperlambat pematangan ❄️"
+  - name: "Simpan pada Suhu Rendah (0 hingga 4°C) — Penyimpanan Dingin (30 Hari) ❄️"
     text: "Suhu yang tinggi mempercepat respirasi apel, meningkatkan pelepasan gas etilen dan memicu pembusukan. 💡 Tips Penyimpanan: Suhu terbaik untuk apel adalah 0–4°C. Taruh apel yang sudah dibungkus di laci sayur kulkas. Hindari suhu di bawah nol agar apel tidak membeku dan berubah rasa."
   - name: "Pisahkan sepenuhnya dari bahan makanan lain — Perlindungan ganda 🛡️"
     text: "Meskipun dibungkus, gas etilen yang kuat dari apel dapat menyebar melalui udara kulkas dan memengaruhi bahan segar lainnya. 💡 Tips Penyimpanan: Masukkan apel yang telah dibungkus ke dalam kantong ziploc atau wadah kedap udara. Pisahkan rak penyimpanannya dari buah dan sayur yang sensitif terhadap etilen seperti selada, bayam, pisang, dan pir."
@@ -63,7 +63,7 @@ Oleh karena itu, kunci sukses penyimpanan apel adalah **mencegah hilangnya kelem
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan pada Suhu Rendah (0 hingga 4°C) — Perlambat Pematangan ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan pada Suhu Rendah (0 hingga 4°C) — Penyimpanan Dingin (30 Hari) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Suhu hangat mempercepat laju respirasi apel, yang memicu lebih banyak emisi etilen dan pembusukan yang lebih cepat.<br/><br/>

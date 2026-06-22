@@ -38,7 +38,7 @@ authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</s
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">냉장고 문 포켓 보관 금지 — 안쪽 깊은 선반 수납 ❌ 문</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">냉장고 문 포켓 보관 금지 — 냉장 보관 (7일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     냉장고 문은 열고 닫을 때마다 온도 변화가 가장 극심한 곳입니다. 유통기한을 지키려면 외부 공기 노출이 적고 온도가 항상 0~4℃로 일정하게 지켜지는 안쪽 깊은 선반에 보관해야 합니다.

@@ -8,9 +8,9 @@ heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
-  - name: "倒掉盒装原水并在流水下冲洗 — 卫生处理 🚿"
+  - name: "倒掉盒装原水并在流水下冲洗 — 冷藏储存 (7天) 🚿"
     text: "包装盒内的水溶解了豆腐的蛋白质，极易滋生细菌。储存前必须倒净包装内的原水，并在流动的清水下将豆腐轻轻洗净。"
-  - name: "放入加有一小撮盐的净水中 — 天然防腐 🧂"
+  - name: "放入加有一小撮盐的净水中 — 冷冻储存 (21天) 🧂"
     text: "在密封容器中注入能完全没过豆腐的干净凉水，加入半勺（一小撮）食盐搅拌均匀。盐水能抑制微生物活性，并帮助维持豆腐质地的紧致。"
   - name: "尽量每天更换一次凉水 — 保持清洁 💧"
     text: "即便加入了食盐，容器中的清水也应每天或每两天更换一次。经常更换冷水能防止豆腐酸败，使其在冷藏下维持多达一周的鲜嫩紧致。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">倒掉盒装原水并在流水下冲洗 — 卫生处理 🚿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">倒掉盒装原水并在流水下冲洗 — 冷藏储存 (7天) 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     包装盒内的水溶解了豆腐的蛋白质，极易滋生细菌。储存前必须倒净包装内的原水，并在流动的清水下将豆腐轻轻洗净。
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">放入加有一小撮盐的净水中 — 天然防腐 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">放入加有一小撮盐的净水中 — 冷冻储存 (21天) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     在密封容器中注入能完全没过豆腐的干净凉水，加入半勺（一小撮）食盐搅拌均匀。盐水能抑制微生物活性，并帮助维持豆腐质地的紧致。

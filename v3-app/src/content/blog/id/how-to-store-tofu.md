@@ -8,9 +8,9 @@ heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Buang air kemasan dan bilas dengan air mengalir — Menjaga higienitas 🚿"
+  - name: "Buang air kemasan dan bilas dengan air mengalir — Penyimpanan Dingin (7Hari) 🚿"
     text: "Air di dalam kemasan tahu mengandung protein terlarut, menjadikannya tempat berkembang biak bakteri. Buang air kemasan dan bilas tahu di bawah air mengalir."
-  - name: "Rendam dalam air dingin dengan sejumput garam — Pengawet alami 🧂"
+  - name: "Rendam dalam air dingin dengan sejumput garam — Penyimpanan Beku (21Hari) 🧂"
     text: "Masukkan tahu ke wadah kedap udara, rendam seluruhnya dengan air dingin bersih, lalu tambahkan sejumput garam. Air garam menekan mikroba dan menjaga tahu tetap kokoh."
   - name: "Ganti air setiap hari — Menjaga kesegaran 💧"
     text: "Meskipun diberi garam, air rendaman harus diganti dengan air dingin baru setiap hari atau dua hari sekali. Ini mencegah tahu menjadi asam dan membuatnya tetap segar selama seminggu."
@@ -43,7 +43,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Buang air kemasan dan bilas dengan air mengalir — Menjaga higienitas 🚿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Buang air kemasan dan bilas dengan air mengalir — Penyimpanan Dingin (7Hari) 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Air di dalam kemasan tahu mengandung protein terlarut, menjadikannya tempat berkembang biak bakteri. Buang air kemasan dan bilas tahu di bawah air mengalir.
@@ -53,7 +53,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rendam dalam air dingin dengan sejumput garam — Pengawet alami 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rendam dalam air dingin dengan sejumput garam — Penyimpanan Beku (21Hari) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Masukkan tahu ke wadah kedap udara, rendam seluruhnya dengan air dingin bersih, lalu tambahkan sejumput garam. Air garam menekan mikroba dan menjaga tahu tetap kokoh.

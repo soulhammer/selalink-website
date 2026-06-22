@@ -10,9 +10,9 @@ authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "Do not wash raw poultry with water — Prevent cross-contamination ❌💧"
     text: "Washing raw chicken splashes water containing Campylobacter or Salmonella bacteria up to 50cm around the sink, contaminating dishes, utensils, and countertops. Do not wash raw poultry; instead, pat it dry with paper towels or blanch it directly in boiling water."
-  - name: "Seal in a double bag and store on the bottom shelf — Prevent juice leaks 📦"
+  - name: "Seal in a double bag and store on the bottom shelf — Refrigerated Storage (2Days) 📦"
     text: "The raw juices leaking from poultry contain bacteria and can easily spoil other foods. Place the chicken in a plastic bag, seal it inside a second ziploc bag, and store it on the bottom shelf of the refrigerator where temperatures are coldest and most stable."
-  - name: "Season lightly with salt and cooking wine — Extend preservation 🧂"
+  - name: "Season lightly with salt and cooking wine — Frozen Storage (90Days) 🧂"
     text: "If you cannot cook the raw chicken immediately, sprinkle it lightly with coarse salt and cooking sake or clear alcohol before refrigerating. The alcohol disinfects while the salt's osmotic pressure firms up the muscle fibers, extending freshness by an extra day."
 ---
 
@@ -53,7 +53,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seal in a double bag and store on the bottom shelf — Prevent juice leaks 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seal in a double bag and store on the bottom shelf — Refrigerated Storage (2Days) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     The raw juices leaking from poultry contain bacteria and can easily spoil other foods. Place the chicken in a plastic bag, seal it inside a second ziploc bag, and store it on the bottom shelf of the refrigerator where temperatures are coldest and most stable.
@@ -63,7 +63,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Season lightly with salt and cooking wine — Extend preservation 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Season lightly with salt and cooking wine — Frozen Storage (90Days) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     If you cannot cook the raw chicken immediately, sprinkle it lightly with coarse salt and cooking sake or clear alcohol before refrigerating. The alcohol disinfects while the salt's osmotic pressure firms up the muscle fibers, extending freshness by an extra day.

@@ -8,9 +8,9 @@ heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: "Vor der Reife in einer Papiertüte bei Raumtemperatur lagern — Natürliche Reifung 🥑"
+  - name: "Vor der Reife in einer Papiertüte bei Raumtemperatur lagern — Lagerung bei Raumtemperatur (5Tage) 🥑"
     text: "Feste, unreife Avocados sollten bei Raumtemperatur (15–20 °C) gelagert werden. In einer Papiertüte mit Bananen oder Äpfeln beschleunigt das austretende Ethylengas den Reifungsprozess."
-  - name: "Sobald gereift, in Frischhaltefolie wickeln und kühlen — Frische erhalten ❄️"
+  - name: "Sobald gereift, in Frischhaltefolie wickeln und kühlen — Kühllagerung (7Tage)"
     text: "Sobald die Schale dunkelbraun wird und auf sanften Druck nachgibt, wickeln Sie die Avocado einzeln in Frischhaltefolie und lagern sie im Gemüsefach des Kühlschranks."
   - name: "Zitronensaft auf die Schnittfläche träufeln und luftdicht verschließen — Verfärbungen verhindern 🍋"
     text: "Lassen Sie bei der übrig gebliebenen Hälfte den Kern stecken, bestreichen Sie die Schnittfläche mit etwas Zitronensaft (oder Olivenöl) und wickeln sie fest in Folie. Die Säure verhindert die Oxidation."
@@ -43,7 +43,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vor der Reife in einer Papiertüte bei Raumtemperatur lagern — Natürliche Reifung 🥑</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vor der Reife in einer Papiertüte bei Raumtemperatur lagern — Lagerung bei Raumtemperatur (5Tage) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Feste, unreife Avocados sollten bei Raumtemperatur (15–20 °C) gelagert werden. In einer Papiertüte mit Bananen oder Äpfeln beschleunigt das austretende Ethylengas den Reifungsprozess.
@@ -53,7 +53,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sobald gereift, in Frischhaltefolie wickeln und kühlen — Frische erhalten ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sobald gereift, in Frischhaltefolie wickeln und kühlen — Kühllagerung (7Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Sobald die Schale dunkelbraun wird und auf sanften Druck nachgibt, wickeln Sie die Avocado einzeln in Frischhaltefolie und lagern sie im Gemüsefach des Kühlschranks.

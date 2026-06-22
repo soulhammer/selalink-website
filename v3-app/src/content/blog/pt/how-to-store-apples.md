@@ -10,7 +10,7 @@ app: "storeself"
 steps:
   - name: "Embrulhe individualmente com filme plástico sem lavar — Retenção de umidade 📦"
     text: "Expor as maçãs diretamente ao ar ou à geladeira faz com que percam umidade, murchando a casca e amolecendo a polpa. 💡 Dicas de conservação: Embrulhe cada maçã seca firmemente com filme plástico. Isso retém a umidade natural para mantê-las crocantes e evita a liberação de gás etileno."
-  - name: "Armazene em temperatura baixa de 0–4 °C — Retarde o amadurecimento ❄️"
+  - name: "Conserve a baixa temperatura (0 a 4 °C) — Armazenamento Refrigerado (30 Dias) ❄️"
     text: "Temperaturas mais altas aceleram a respiração da maçã, liberando mais gás etileno e estragando-a mais rápido. 💡 Dicas de conservação: A temperatura ideal é de 0 a 4 °C. Coloque as maçãs embrulhadas na gaveta de legumes do refrigerador. Evite temperaturas abaixo de zero para não congelar."
   - name: "Isole completamente de outros alimentos — Proteção dupla 🛡️"
     text: "Mesmo embrulhadas, o forte gás etileno das maçãs pode circular na geladeira e amadurecer outros alimentos. 💡 Dicas de conservação: Coloque as maçãs em um saco com fecho hermético ou pote fechado. Guarde-as em gavetas separadas de vegetais sensíveis como alface, espinafre, bananas e peras."
@@ -63,7 +63,7 @@ Por isso, a chave para um armazenamento bem-sucedido de maçãs é **evitar a pe
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Conserve a baixa temperatura (0 a 4 °C) — Atrase o amadurecimento ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Conserve a baixa temperatura (0 a 4 °C) — Armazenamento Refrigerado (30 Dias) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     As temperaturas quentes aceleram a taxa de respiração das maçãs, o que desencadeia maior emissão de etileno e deterioração mais rápida.<br/><br/>

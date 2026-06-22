@@ -48,7 +48,7 @@ authority: "<strong>농촌진흥청(RDA) 및 유럽 식품안전청(EFSA) 및 �
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">뿌리가 아래로 가게 수직으로 세워 보관하기 — 호흡 억제 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">뿌리가 아래로 가게 수직으로 세워 보관하기 — 냉장 보관 (4일) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     시금치는 눕혀두면 자연 성장 방향과 달라 스트레스를 받아 호흡작용이 급증하고 에너지를 소모해 쉽게 썩습니다. 컵이나 전용 케이스를 활용해 세워서 냉장 보관하는 것이 핵심입니다.

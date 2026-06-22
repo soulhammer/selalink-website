@@ -10,7 +10,7 @@ authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
   - name: "Envuelva las espinacas sin lavar en periódico/papel de cocina 📦"
     text: "Las espinacas se pudren rápido si se mojan las hojas. Déjeles la tierra y envuélvalas suavemente en periódico o papel de cocina para evitar la condensación y mantenerlas secas."
-  - name: "Guarde verticalmente con las raíces hacia abajo — Limite la respiración 🌿"
+  - name: "Guarde verticalmente con las raíces hacia abajo — Almacenamiento Refrigerado (4Días) 🌿"
     text: "Si se guardan acostadas, las espinacas consumen energía al intentar crecer hacia arriba, marchitándose rápido. Colóquelas de pie con las raíces hacia abajo en un envase dentro del cajón de verduras."
   - name: "Aísle de frutas que liberen etileno — Almacenamiento protegido 🛡️"
     text: "Las espinacas son muy sensibles al gas etileno. Si las coloca junto a manzanas, peras o tomates, las hojas amarillearán y se pudrirán rápido. Mantenga compartimentos separados."
@@ -53,7 +53,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde verticalmente con las raíces hacia abajo — Limite la respiración 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde verticalmente con las raíces hacia abajo — Almacenamiento Refrigerado (4Días) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Si se guardan acostadas, las espinacas consumen energía al intentar crecer hacia arriba, marchitándose rápido. Colóquelas de pie con las raíces hacia abajo en un envase dentro del cajón de verduras.

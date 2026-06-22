@@ -12,7 +12,7 @@ steps:
     text: "牛肉から出るドリップ（血水）は、臭みや雑菌の繁殖の最大の原因です。調理や保存の前に、キッチンペーパーで牛肉の表面を軽く押さえるようにして、ドリップをしっかりと拭き取ってください。"
   - name: "表面にサラダ油（オリーブオイル）を薄く塗る — 酸素遮断コーティング 🫒"
     text: "ドリップを拭き取った牛肉の表面に、サラダ油やオリーブオイルを薄く塗ります。油の膜が空気中の酸素と肉のタンパク質との接触を防ぎ、変色や鮮度の低下を抑えます。"
-  - name: "食品用ラップで空気を抜いてぴったりと包む — 真空パック効果 📦"
+  - name: "食品用ラップで空気を抜いてぴったりと包む — 冷蔵 3日間, 冷凍 90日間 📦"
     text: "オイルを塗った牛肉をラップで隙間なく包み, 空気をしっかりと抜きます。このように密閉して保存すれば, 冷蔵室で3日間, 冷凍室では最大90日間、鮮度を保つことができます。"
 ---
 
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">食品用ラップで空気を抜いてぴったりと包む — 真空パック効果 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">食品用ラップで空気を抜いてぴったりと包む — 冷蔵 3日間, 冷凍 90日間 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     オイルを塗った牛肉をラップで隙間なく包み, 空気をしっかりと抜きます。このように密閉して保存すれば, 冷蔵室で3日間, 冷凍室では最大90日間、鮮度を保つことができます。

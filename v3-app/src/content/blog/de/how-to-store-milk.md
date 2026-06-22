@@ -8,7 +8,7 @@ heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Nicht in der Kühlschranktür lagern — Auf den inneren Regalen aufbewahren ❌ Tür"
+  - name: "Nicht in der Kühlschranktür lagern — Kühllagerung (7Tage)"
     text: "Die Kühlschranktür ist beim Öffnen den stärksten Temperaturschwankungen ausgesetzt. Um Milch frisch zu halten, lagern Sie sie auf den inneren Regalen des Kühlschranks bei konstanten 0–4 °C."
   - name: "Nach dem Öffnen innerhalb von 7 Tagen verbrauchen 🥛"
     text: "Sobald die Milch geöffnet ist, dringen Sauerstoff und Bakterien ein, was den Verderb einleitet. Vermeiden Sie es, die Ausgussöffnung zu berühren, und verbrauchen Sie die Milch innerhalb von 7 Tagen."
@@ -43,7 +43,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nicht in der Kühlschranktür lagern — Auf den inneren Regalen aufbewahren ❌ Tür</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nicht in der Kühlschranktür lagern — Kühllagerung (7Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Die Kühlschranktür ist beim Öffnen den stärksten Temperaturschwankungen ausgesetzt. Um Milch frisch zu halten, lagern Sie sie auf den inneren Regalen des Kühlschranks bei konstanten 0–4 °C.

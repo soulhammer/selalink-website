@@ -12,7 +12,7 @@ steps:
     text: "Les champignons sont très poreux et absorbent l'eau comme des éponges. Les laver avant stockage détruit leur texture et leur parfum. Brossez-les légèrement juste avant de les cuire."
   - name: "Envelopper dans un sac en papier ou du papier absorbant — Humidité 📦"
     text: "Stocker les champignons dans un sac plastique retient l'humidité de leur respiration, créant de la condensation. Enveloppez-les de papier absorbant ou placez-les dans un sac en papier kraft."
-  - name: "Ranger sur une étagère du milieu sans pression — Préserver la forme ❄️"
+  - name: "Ranger sur une étagère du milieu sans pression — Stockage Réfrigéré (3Jours)"
     text: "Les champignons sont délicats. Écrasés sous des aliments lourds, leurs tissus s'abîment, noircissent et pourrissent. Posez-les délicatement sur le dessus dans le bac à légumes."
 ---
 
@@ -63,7 +63,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ranger sur une étagère du milieu sans pression — Préserver la forme ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ranger sur une étagère du milieu sans pression — Stockage Réfrigéré (3Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Les champignons sont délicats. Écrasés sous des aliments lourds, leurs tissus s'abîment, noircissent et pourrissent. Posez-les délicatement sur le dessus dans le bac à légumes.

@@ -10,7 +10,7 @@ app: "storeself"
 steps:
   - name: "Envelopper individuellement de film plastique sans laver — Préservation de l'humidité 📦"
     text: "Laisser les pommes à l'air libre ou au réfrigérateur sans protection fait évaporer l'humidité, ce qui flétrit la peau et ramollit la chair. 💡 Astuce de conservation : Enveloppez chaque pomme sèche de film étirable. Cela préserve son jus pour la garder croquante et empêche le gaz éthylène de s'échapper."
-  - name: "Conserver à basse température entre 0 et 4 °C — Ralentir le mûrissement ❄️"
+  - name: "Conservez à basse température (0 à 4 °C) — Stockage Réfrigéré (30 Jours) ❄️"
     text: "La chaleur accélère la respiration de la pomme, ce qui augmente le rejet d'éthylène et hâte le pourrissement. 💡 Astuce de conservation : La température idéale est de 0 à 4 °C. Placez les pommes emballées dans le bac à légumes. Évitez le gel qui altère la structure et le goût."
   - name: "Isoler totalement des autres aliments — Double isolation 🛡️"
     text: "Même bien emballé, le puissant gaz éthylène de la pomme circule dans le réfrigérateur et altère les autres aliments. 💡 Astuce de conservation : Rangez les pommes dans un sac hermétique ou une boîte fermée. Éloignez-les des fruits et légumes sensibles comme la salade, les épinards, les bananes ou les poires."
@@ -63,7 +63,7 @@ Par conséquent, la clé d'une conservation réussie des pommes est de **préven
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Conservez à basse température (0 à 4 °C) — Retardez le mûrissement ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Conservez à basse température (0 à 4 °C) — Stockage Réfrigéré (30 Jours) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Les températures chaudes accélèrent le taux de respiration des pommes, ce qui déclenche une plus grande émission d'éthylène et une détérioration plus rapide.<br/><br/>

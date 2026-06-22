@@ -8,11 +8,11 @@ heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
-  - name: "Esparza azúcar y papel de cocina al fondo del contenedor — Desecante natural 🪙"
+  - name: "Esparza azúcar y papel de cocina al fondo del contenedor — Almacenamiento Refrigerado (14Días) 🪙"
     text: "Esparza una capa de 1 cm de azúcar en el fondo de un contenedor hermético, cúbrala con 2 o 3 capas de papel de cocina y coloque los ajos pelados encima. El azúcar absorbe la humedad ambiente, manteniendo los ajos secos."
-  - name: "Cuelgue las cabezas de ajo en una red — Ventilación a temp. ambiente 🌬️"
+  - name: "Cuelgue las cabezas de ajo en una red — Conservación a Temp. Ambiente (30Días)"
     text: "Refrigerar las cabezas de ajo sin pelar hace que broten y se pudran rápido por la humedad fría. El método científico es ponerlas en una bolsa de red y colgarlas en un lugar fresco, oscuro y ventilado (10-15 °C)."
-  - name: "Congele el ajo picado en bandejas de silicona — Porciones congeladas ❄️"
+  - name: "Congele el ajo picado en bandejas de silicona — Almacenamiento Congelado (180Días)"
     text: "Para grandes cantidades de ajo, píquelos y extiéndalos en una bolsa con cierre marcando líneas de cuadrícula, o congélelos en bandejas de silicona. Extraiga una porción cada vez que cocine para evitar la pérdida de nutrientes."
 ---
 
@@ -43,7 +43,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Esparza azúcar y papel de cocina al fondo del contenedor — Desecante natural 🪙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Esparza azúcar y papel de cocina al fondo del contenedor — Almacenamiento Refrigerado (14Días) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Esparza una capa de 1 cm de azúcar en el fondo de un contenedor hermético, cúbrala con 2 o 3 capas de papel de cocina y coloque los ajos pelados encima. El azúcar absorbe la humedad ambiente, manteniendo los ajos secos.
@@ -53,7 +53,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cuelgue las cabezas de ajo en una red — Ventilación a temp. ambiente 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cuelgue las cabezas de ajo en una red — Conservación a Temp. Ambiente (30Días)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Refrigerar las cabezas de ajo sin pelar hace que broten y se pudran rápido por la humedad fría. El método científico es ponerlas en una bolsa de red y colgarlas en un lugar fresco, oscuro y ventilado (10-15 °C).
@@ -63,7 +63,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Congele el ajo picado en bandejas de silicona — Porciones congeladas ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Congele el ajo picado en bandejas de silicona — Almacenamiento Congelado (180Días)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Para grandes cantidades de ajo, píquelos y extiéndalos en una bolsa con cierre marcando líneas de cuadrícula, o congélelos en bandejas de silicona. Extraiga una porción cada vez que cocine para evitar la pérdida de nutrientes.

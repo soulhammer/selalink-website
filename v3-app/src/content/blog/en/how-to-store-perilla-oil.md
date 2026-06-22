@@ -8,7 +8,7 @@ heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
 authority: "<strong>RDA & MFDS</strong>"
 steps:
-  - name: "Always store in the refrigerator at 0–4°C — Prevent omega-3 oxidation ❄️"
+  - name: "Always store in the refrigerator at 0–4°C — Refrigerated Storage (30Days)"
     text: "Unlike sesame oil, perilla oil lacks sesamol, a natural preservative, and contains over 60% omega-3 fatty acids, making it highly susceptible to rancidity at room temperature. Always store it in the refrigerator at 0–4°C."
   - name: "Use dark glass bottles and limit air exposure — Block oxygen 🫙"
     text: "Light and oxygen accelerate the oxidation of omega-3. Perilla oil must be kept in brown or green glass bottles, and the cap must be closed tightly after each use to minimize contact with air."
@@ -43,7 +43,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Always store in the refrigerator at 0–4°C — Prevent omega-3 oxidation ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Always store in the refrigerator at 0–4°C — Refrigerated Storage (30Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Unlike sesame oil, perilla oil lacks sesamol, a natural preservative, and contains over 60% omega-3 fatty acids, making it highly susceptible to rancidity at room temperature. Always store it in the refrigerator at 0–4°C.

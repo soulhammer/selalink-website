@@ -10,7 +10,7 @@ authority: "<strong>KCA & MFDS</strong>"
 steps:
   - name: "Nunca cubra con film plástico directo — Evite intoxicaciones ❌🍉"
     text: "Cubrir la mitad de una sandía con film plástico crea un sello húmedo que multiplica las bacterias rápidamente, aumentando el riesgo de intoxicación. Nunca guarde la sandía solo con film."
-  - name: "Quite la cáscara, corte en cubos y guarde en un envase hermético 📦"
+  - name: "Quite la cáscara, corte en cubos y guarde en un envase hermético — Almacenamiento Refrigerado (7Días) 📦"
     text: "Retire la cáscara con cuidado para que el polvo de la superficie no toque la pulpa. Corte la sandía en cubos pequeños y guárdelos en un contenedor hermético limpio con la tapa bien cerrada."
   - name: "Guarde al fondo del cajón de verduras a una temperatura estable de 0-4 °C ❄️"
     text: "Coloque el contenedor hermético al fondo del cajón de verduras. Almacenar en un lugar con fluctuaciones mínimas de temperatura mantiene la sandía crujiente y conserva su dulzura."
@@ -53,7 +53,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Quite la cáscara, corte en cubos y guarde en un envase hermético 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Quite la cáscara, corte en cubos y guarde en un envase hermético — Almacenamiento Refrigerado (7Días) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Retire la cáscara con cuidado para que el polvo de la superficie no toque la pulpa. Corte la sandía en cubos pequeños y guárdelos en un contenedor hermético limpio con la tapa bien cerrada.

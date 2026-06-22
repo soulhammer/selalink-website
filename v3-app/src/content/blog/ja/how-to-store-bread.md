@@ -10,9 +10,9 @@ authority: "<strong>米国農務省(USDA) & FSA</strong>"
 steps:
   - name: "冷蔵室保存は絶対に避ける — デンプンの劣化（パサつき）防止 ❌🍞"
     text: "パンの主成分である小麦粉のでんぷんは、1〜6℃の冷蔵室の温度帯で最も水分が抜けやすく、でんぷんの組織が硬化（老化）してパサついてしまいます。一度硬くなると、解凍しても元のふんわり感は戻りません。"
-  - name: "1枚ずつラップでぴったりと包む — 水分を閉じ込める 📦"
+  - name: "1枚ずつラップでぴったりと包む — 常温保存 (3日間) 📦"
     text: "保存する前に、食パンを1枚ずつラップで空気の入らないようにぴったりと包んでください。パンの間に隙間があると、冷凍室の中で霜が降りてパンの一部が硬くなってしまいます。"
-  - name: "包んだ後に保存袋に入れてすぐに冷凍 — 急速冷凍 ❄️"
+  - name: "包んだ後に保存袋に入れてすぐに冷凍 — 冷凍保存 (90日間)"
     text: "個別に包んだ食パンをジッパーバッグに入れ、空気を抜いてからマイナス18℃以下の冷凍室に入れてください。食べるときは1枚ずつ取り出し、常温で15分ほど自然解凍するか、トースターで焼くと焼きたての柔らかさが戻ります。"
 ---
 
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1枚ずつラップでぴったりと包む — 水分を閉じ込める 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1枚ずつラップでぴったりと包む — 常温保存 (3日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     保存する前に、食パンを1枚ずつラップで空気の入らないようにぴったりと包んでください。パンの間に隙間があると、冷凍室の中で霜が降りてパンの一部が硬くなってしまいます。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">包んだ後に保存袋に入れてすぐに冷凍 — 急速冷凍 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">包んだ後に保存袋に入れてすぐに冷凍 — 冷凍保存 (90日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     個別に包んだ食パンをジッパーバッグに入れ、空気を抜いてからマイナス18℃以下の冷凍室に入れてください。食べるときは1枚ずつ取り出し、常温で15分ほど自然解凍するか、トースターで焼くと焼きたての柔らかさが戻ります。

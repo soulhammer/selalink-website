@@ -8,11 +8,11 @@ heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
-  - name: "密閉容器の底に砂糖とキッチンペーパーを敷く — 天然の除湿剤 🪙"
+  - name: "密閉容器の底に砂糖とキッチンペーパーを敷く — 冷蔵保存 (14日間) 🪙"
     text: "密閉容器の底に砂糖を約1cmの厚さで均一に敷き, その上にキッチンペーパーを2〜3枚重ねてから、むいたにんにくを入れます。砂糖が湿気を効果的に吸収し、にんにくが乾燥した状態を長持ちさせます。"
-  - name: "丸ごとのにんにくはネットに入れて吊るす — 常温通風 🌬️"
+  - name: "丸ごとのにんにくはネットに入れて吊るす — 常温保存 (30日間)"
     text: "皮のついた丸ごとのにんにくは, 冷蔵庫に入れると湿気で芽が出たり早く傷んだりします。ネットやメッシュ袋に入れ, 風通しの良い涼しい日陰（10〜15℃）に吊るして保存するのが正しい方法です。"
-  - name: "刻みにんにくはシリコン型で凍らせて小分け保存 — 冷凍保存 ❄️"
+  - name: "刻みにんにくはシリコン型で凍らせて小分け保存 — 冷凍保存 (180日間)"
     text: "大量のにんにくは刻んだ後, 保存袋に入れて薄く伸ばして切れ目を入れておくか, シリコンの製氷皿などに入れて凍らせます。調理の際に必要な分だけ取り出せるので非常に便利で, 栄養分の損失も抑えられます。"
 ---
 
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">密閉容器の底に砂糖とキッチンペーパーを敷く — 天然の除湿剤 🪙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">密閉容器の底に砂糖とキッチンペーパーを敷く — 冷蔵保存 (14日間) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     密閉容器の底に砂糖を約1cmの厚さで均一に敷き, その上にキッチンペーパーを2〜3枚重ねてから、むいたにんにくを入れます。砂糖が湿気を効果的に吸収し、にんにくが乾燥した状態を長持ちさせます。
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">丸ごとのにんにくはネットに入れて吊るす — 常温通風 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">丸ごとのにんにくはネットに入れて吊るす — 常温保存 (30日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     皮のついた丸ごとのにんにくは, 冷蔵庫に入れると湿気で芽が出たり早く傷んだりします。ネットやメッシュ袋に入れ, 風通しの良い涼しい日陰（10〜15℃）に吊るして保存するのが正しい方法です。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">刻みにんにくはシリコン型で凍らせて小分け保存 — 冷凍保存 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">刻みにんにくはシリコン型で凍らせて小分け保存 — 冷凍保存 (180日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     大量のにんにくは刻んだ後, 保存袋に入れて薄く伸ばして切れ目を入れておくか, シリコンの製氷皿などに入れて凍らせます。調理の際に必要な分だけ取り出せるので非常に便利で, 栄養分の損失も抑えられます。

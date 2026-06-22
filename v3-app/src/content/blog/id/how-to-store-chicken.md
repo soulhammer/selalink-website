@@ -10,9 +10,9 @@ authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "Jangan cuci ayam mentah dengan air — Mencegah kontaminasi silang ❌💧"
     text: "Mencuci ayam mentah akan memercikkan air yang mengandung bakteri Campylobacter hingga radius 50 cm di sekitar wastafel, mengontaminasi peralatan makan dan masak. Cukup lap dengan tisu dapur atau rebus dalam air mendidih."
-  - name: "Segel dalam wadah ganda lalu simpan di rak paling bawah — Mencegah kebocoran cairan daging 📦"
+  - name: "Segel dalam wadah ganda lalu simpan di rak paling bawah — Penyimpanan Dingin (2Hari) 📦"
     text: "Cairan dari ayam mentah mengandung banyak bakteri dan dapat mencemari bahan makanan lain. Masukkan ayam ke dalam kantong plastik, segel lagi dengan kantong ziploc, lalu simpan di rak kulkas bagian paling bawah."
-  - name: "Bumbui tipis dengan garam dan alkohol masak — Memperpanjang kesegaran 🧂"
+  - name: "Bumbui tipis dengan garam dan alkohol masak — Penyimpanan Beku (90Hari) 🧂"
     text: "Jika tidak bisa langsung dimasak, taburkan sedikit garam kasar dan sake atau alkohol masak sebelum didinginkan. Alkohol berfungsi membunuh bakteri dan garam menjaga tekstur daging tetap segar sehari lebih lama."
 ---
 
@@ -53,7 +53,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Segel dalam wadah ganda lalu simpan di rak paling bawah — Mencegah kebocoran cairan daging 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Segel dalam wadah ganda lalu simpan di rak paling bawah — Penyimpanan Dingin (2Hari) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Cairan dari ayam mentah mengandung banyak bakteri dan dapat mencemari bahan makanan lain. Masukkan ayam ke dalam kantong plastik, segel lagi dengan kantong ziploc, lalu simpan di rak kulkas bagian paling bawah.
@@ -63,7 +63,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bumbui tipis dengan garam dan alkohol masak — Memperpanjang kesegaran 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bumbui tipis dengan garam dan alkohol masak — Penyimpanan Beku (90Hari) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Jika tidak bisa langsung dimasak, taburkan sedikit garam kasar dan sake atau alkohol masak sebelum didinginkan. Alkohol berfungsi membunuh bakteri dan garam menjaga tekstur daging tetap segar sehari lebih lama.

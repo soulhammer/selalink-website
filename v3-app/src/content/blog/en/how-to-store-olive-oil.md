@@ -10,7 +10,7 @@ authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "Do not store in the refrigerator — Prevent solidification ❌❄️"
     text: "Refrigerating olive oil causes it to solidify and crystallize into a white paste. Repeated freezing and thawing destroys the premium flavor and key nutrients like oleic acid. Keep it at room temperature (14–18°C)."
-  - name: "Avoid direct sunlight and use dark glass bottles — Block light 🫙"
+  - name: "Avoid direct sunlight and use dark glass bottles — Room Temp Storage (365Days) 🫙"
     text: "Ultraviolet light is the main cause of rancidity in vegetable oils. If your olive oil comes in a clear plastic bottle, wrap the bottle with aluminum foil or transfer it to a dark amber or green glass bottle to shield it from light."
   - name: "Keep in a cool cupboard away from heat sources — Heat protection 🌬️"
     text: "Do not store olive oil near the stove or oven for convenience. Exposure to heat doubles the speed of oil oxidation. Keep it in a cool, dark kitchen cabinet away from all heat sources."
@@ -53,7 +53,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Avoid direct sunlight and use dark glass bottles — Block light 🫙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Avoid direct sunlight and use dark glass bottles — Room Temp Storage (365Days) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Ultraviolet light is the main cause of rancidity in vegetable oils. If your olive oil comes in a clear plastic bottle, wrap the bottle with aluminum foil or transfer it to a dark amber or green glass bottle to shield it from light.

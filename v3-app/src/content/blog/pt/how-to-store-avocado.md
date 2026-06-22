@@ -8,9 +8,9 @@ heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: "Guarde em um saco de papel em temperatura ambiente antes de maduro — Maturação natural 🥑"
+  - name: "Guarde em um saco de papel em temperatura ambiente antes de maduro — Conservação em Temp. Ambiente (5Dias) 🥑"
     text: "Abacates duros e verdes devem ser mantidos em temperatura ambiente (15–20 °C). Colocá-los em um saco de papel com bananas ou maçãs acelera a maturação devido ao gás etileno acumulado."
-  - name: "Embrulhe com filme plástico e refrigere quando maduro — Retarde o envelhecimento ❄️"
+  - name: "Embrulhe com filme plástico e refrigere quando maduro — Armazenamento Refrigerado (7Dias)"
     text: "Quando a casca estiver marrom-escura e ceder a uma leve pressão, embrulhe o abacate em filme plástico e guarde na gaveta de legumes para evitar que passe do ponto."
   - name: "Passe suco de limão nas faces cortadas e sele — Evite o escurecimento 🍋"
     text: "Para conservar a metade restante, mantenha o caroço, passe um pouco de suco de limão (ou azeite) na polpa exposta e embrulhe firme. O ácido bloqueia o oxigênio e evita que a polpa escureça."
@@ -43,7 +43,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde em um saco de papel em temperatura ambiente antes de maduro — Maturação natural 🥑</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde em um saco de papel em temperatura ambiente antes de maduro — Conservação em Temp. Ambiente (5Dias) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Abacates duros e verdes devem ser mantidos em temperatura ambiente (15–20 °C). Colocá-los em um saco de papel com bananas ou maçãs acelera a maturação devido ao gás etileno acumulado.
@@ -53,7 +53,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe com filme plástico e refrigere quando maduro — Retarde o envelhecimento ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe com filme plástico e refrigere quando maduro — Armazenamento Refrigerado (7Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Quando a casca estiver marrom-escura e ceder a uma leve pressão, embrulhe o abacate em filme plástico e guarde na gaveta de legumes para evitar que passe do ponto.

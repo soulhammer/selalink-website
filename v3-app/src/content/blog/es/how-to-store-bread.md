@@ -10,9 +10,9 @@ authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "Nunca guarde en la zona de refrigeración — Evite que se reseque ❌🍞"
     text: "El almidón de la harina, principal componente del pan, se cristaliza (envejece) y se seca muy rápido a temperaturas de refrigeración (1-6 °C). Una vez que esto ocurre, el pan queda seco y duro, y calentarlo no le devolverá su textura."
-  - name: "Envuelva las rebanadas una por una con film plástico — Proteja la humedad 📦"
+  - name: "Envuelva las rebanadas una por una con film plástico — Conservación a Temp. Ambiente (3Días) 📦"
     text: "Envuelva cada rebanada de pan firmemente con film plástico antes de guardarla, asegurándose de que no quede aire. Si queda aire, se formará escarcha, lo que secará y endurecerá el pan."
-  - name: "Coloque las rebanadas envueltas en una bolsa para congelar y congele de inmediato ❄️"
+  - name: "Coloque las rebanadas envueltas en una bolsa para congelar y congele de inmediato ❄️ — Almacenamiento Congelado (90Días)"
     text: "Coloque las rebanadas envueltas en una bolsa para congelar con cierre, saque el aire y guárdelas a menos de -18 °C. Cuando las vaya a consumir, descongélelas a temp. ambiente por 15 minutos o tuéstelas directo para que queden suaves."
 ---
 
@@ -53,7 +53,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva las rebanadas una por una con film plástico — Proteja la humedad 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva las rebanadas una por una con film plástico — Conservación a Temp. Ambiente (3Días) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Envuelva cada rebanada de pan firmemente con film plástico antes de guardarla, asegurándose de que no quede aire. Si queda aire, se formará escarcha, lo que secará y endurecerá el pan.
@@ -63,7 +63,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Coloque las rebanadas envueltas en una bolsa para congelar y congele de inmediato ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Coloque las rebanadas envueltas en una bolsa para congelar y congele de inmediato ❄️ — Almacenamiento Congelado (90Días)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Coloque las rebanadas envueltas en una bolsa para congelar con cierre, saque el aire y guárdelas a menos de -18 °C. Cuando las vaya a consumir, descongélelas a temp. ambiente por 15 minutos o tuéstelas directo para que queden suaves.

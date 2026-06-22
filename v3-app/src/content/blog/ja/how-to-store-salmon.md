@@ -8,11 +8,11 @@ heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
 authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA)</strong>"
 steps:
-  - name: "表面の脂分と水気を拭き取る — 細菌汚染の防止 🍣"
+  - name: "表面の脂分と水気を拭き取る — 冷蔵保存 (2日間) 🍣"
     text: "生鮭の表面にある水分や脂分は, 雑菌が繁殖する主な原因になります。保存する前に, ペーパーで鮭の表裏を軽く押さえて表面の水分を完全に拭き取ってください。"
   - name: "レモン果汁や料理酒を塗る — 天然の酸化・腐敗防止 🍋"
     text: "水気を拭き取った鮭の表面に, レモン果汁や少量の料理酒（またはみりん）を薄く塗ります。酸やアルコール成分が雑菌の繁殖を抑え, 脂質の酸化を防ぐ天然の保存料として働きます。"
-  - name: "食品用ラップで空気を抜いて密着包装 — 完璧な遮断 📦"
+  - name: "食品用ラップで空気を抜いて密着包装 — 冷凍保存 (90日間) 📦"
     text: "下処理をした鮭をラップで空気の入らないようにぴったりと包み, ジッパーバッグに入れて二重に密閉します。冷蔵保存で2日間, 冷凍保存で最大60日間, 鮮度を維持できます。"
 ---
 
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">表面の脂分と水気を拭き取る — 細菌汚染の防止 🍣</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">表面の脂分と水気を拭き取る — 冷蔵保存 (2日間) 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     生鮭の表面にある水分や脂分は, 雑菌が繁殖する主な原因になります。保存する前に, ペーパーで鮭の表裏を軽く押さえて表面の水分を完全に拭き取ってください。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">食品用ラップで空気を抜いて密着包装 — 完璧な遮断 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">食品用ラップで空気を抜いて密着包装 — 冷凍保存 (90日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     下処理をした鮭をラップで空気の入らないようにぴったりと包み, ジッパーバッグに入れて二重に密閉します。冷蔵保存で2日間, 冷凍保存で最大60日間, 鮮度を維持できます。

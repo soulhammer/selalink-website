@@ -10,7 +10,7 @@ authority: "<strong>韓国消費者院(KCA) & 食品医薬品安全処(MFDS)</st
 steps:
   - name: "プラスチックラップでの保存は避ける — 食中毒菌繁殖の防止 ❌🍉"
     text: "スイカを半分に切ってラップだけをかけて保存すると, 切り口に雑菌が数千倍以上に繁殖し, 食中毒のリスクが高まります。残ったスイカにラップだけをかけて保存するのは避けてください。"
-  - name: "皮を取り除き、角切りにして密閉容器に入れる — 衛生的な密閉 📦"
+  - name: "皮を取り除き、角切りにして密閉容器に入れる — 冷蔵保存 (7日間) 📦"
     text: "スイカの皮についた汚れや細菌が断面につかないように注意しながら皮を切り落とし, 食べやすい大きさに角切りにして、きれいに洗った密閉容器に入れてしっかりと蓋を閉めて保存します。"
   - name: "0〜4℃の一定の温度で野菜室の奥に保存 — 冷蔵保存 ❄️"
     text: "密閉容器に入れたスイカを, 冷蔵庫の野菜室の奥や棚の奥に入れて保存します。温度変化が少ない場所に置くことで, スイカのシャキシャキした食感や甘みを落とさずに保存できます。"
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">皮を取り除き、角切りにして密閉容器に入れる — 衛生的な密閉 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">皮を取り除き、角切りにして密閉容器に入れる — 冷蔵保存 (7日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     スイカの皮についた汚れや細菌が断面につかないように注意しながら皮を切り落とし, 食べやすい大きさに角切りにして、きれいに洗った密閉容器に入れてしっかりと蓋を閉めて保存します。

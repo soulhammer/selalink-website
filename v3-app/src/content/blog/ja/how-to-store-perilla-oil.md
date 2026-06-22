@@ -8,7 +8,7 @@ heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>"
 steps:
-  - name: "必ず0〜4℃の冷蔵室に保存する — オメガ3の酸化防止 ❄️"
+  - name: "必ず0〜4℃の冷蔵室に保存する — 冷蔵保存 (30日間)"
     text: "エゴマ油はごま油とは異なり, 酸化を防ぐセサモール成分が含まれておらず, オメガ3脂肪酸が60%以上も含まれているため, 常温に置くとすぐに傷んでしまいます。必ず0〜4℃の冷蔵庫で保存してください。"
   - name: "遮光瓶（茶）に入れ、空気との接触を防ぐ — 酸素と紫外線の遮断 🫙"
     text: "光や酸素はオメガ3の酸化を急激に促します。エゴマ油は茶色や緑色の遮光ガラス瓶に入れ, 使用後はしっかりと蓋を閉めて空気との接触を最小限に抑えてください。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">必ず0〜4℃の冷蔵室に保存する — オメガ3の酸化防止 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">必ず0〜4℃の冷蔵室に保存する — 冷蔵保存 (30日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     エゴマ油はごま油とは異なり, 酸化を防ぐセサモール成分が含まれておらず, オメガ3脂肪酸が60%以上も含まれているため, 常温に置くとすぐに傷んでしまいます。必ず0〜4℃の冷蔵庫で保存してください。

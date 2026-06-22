@@ -38,7 +38,7 @@ authority: "<strong>농촌진흥청(RDA) 및 식품의약품안전처(MFDS)</str
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">무조건 냉장실 0~4℃ 보관하기 — 오메가-3 산패 철저 방어 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">무조건 냉장실 0~4℃ 보관하기 — 냉장 보관 (30일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     들기름은 몸에 좋은 불포화지방산인 오메가-3 비율이 60% 이상으로 극도로 높습니다. 이는 산소와 빛, 온도가 오르면 즉각 산화 반응을 일으키므로 반드시 냉장실에 넣어 저온 보존해야 합니다.

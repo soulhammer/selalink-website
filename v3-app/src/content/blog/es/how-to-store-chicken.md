@@ -10,9 +10,9 @@ authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "No lave el pollo crudo con agua — Evite la contaminación cruzada ❌💧"
     text: "Lavar el pollo crudo salpica agua con bacterias de Campylobacter o Salmonella hasta 50 cm alrededor del fregadero, contaminando platos y utensilios. No lave el pollo; séquelo con papel de cocina o blanquéelo en agua hirviendo."
-  - name: "Selle en una bolsa doble y guarde en la repisa inferior — Evite goteos 📦"
+  - name: "Selle en una bolsa doble y guarde en la repisa inferior — Almacenamiento Refrigerado (2Días) 📦"
     text: "El jugo crudo del pollo contiene bacterias y puede contaminar otros alimentos si gotea. Coloque el pollo en una bolsa, métala en otra con cierre y guárdelo en la repisa inferior del refrigerador, donde la temperatura es más fría."
-  - name: "Sazone ligeramente con sal y vino de cocina — Prolongue la conservación 🧂"
+  - name: "Sazone ligeramente con sal y vino de cocina — Almacenamiento Congelado (90Días) 🧂"
     text: "Si no puede cocinar el pollo de inmediato, espolvoréelo con sal gruesa y un poco de sake o alcohol de cocina antes de refrigerar. El alcohol desinfecta y la sal mantiene la firmeza, ganando un día extra de frescura."
 ---
 
@@ -53,7 +53,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Selle en una bolsa doble y guarde en la repisa inferior — Evite goteos 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Selle en una bolsa doble y guarde en la repisa inferior — Almacenamiento Refrigerado (2Días) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     El jugo crudo del pollo contiene bacterias y puede contaminar otros alimentos si gotea. Coloque el pollo en una bolsa, métala en otra con cierre y guárdelo en la repisa inferior del refrigerador, donde la temperatura es más fría.
@@ -63,7 +63,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sazone ligeramente con sal y vino de cocina — Prolongue la conservación 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sazone ligeramente con sal y vino de cocina — Almacenamiento Congelado (90Días) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Si no puede cocinar el pollo de inmediato, espolvoréelo con sal gruesa y un poco de sake o alcohol de cocina antes de refrigerar. El alcohol desinfecta y la sal mantiene la firmeza, ganando un día extra de frescura.

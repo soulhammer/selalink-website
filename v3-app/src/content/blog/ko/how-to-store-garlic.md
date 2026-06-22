@@ -38,7 +38,7 @@ authority: "<strong>농촌진흥청(RDA) 및 식품의약품안전처(MFDS) 및 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">밀폐용기 바닥에 설탕과 키친타월 깔기 — 천연 제습제 🪙</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">밀폐용기 바닥에 설탕과 키친타월 깔기 — 냉장 보관 (14일) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     밀폐용기 바닥에 설탕을 1cm 두께로 고르게 깔고, 그 위에 키친타월을 2~3겹 덮은 뒤 깐 마늘을 담습니다. 설탕이 공기 중의 미세 습기를 빨아들이는 훌륭한 천연 제습제 역할을 하여 건조 상태가 오래 유지됩니다.
@@ -48,7 +48,7 @@ authority: "<strong>농촌진흥청(RDA) 및 식품의약품안전처(MFDS) 및 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">통마늘은 바람이 통하는 그물망에 걸어두기 — 상온 통풍 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">통마늘은 바람이 통하는 그물망에 걸어두기 — 실온 보관 (30일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     껍질을 벗기지 않은 통마늘은 냉장 보관 시 싹이 트고 금방 부패합니다. 망이나 그물백에 담아 통풍이 원활한 서늘한 그늘(10~15℃)에 매달아 보관하는 것이 과학적인 기본 보관법입니다.
@@ -58,7 +58,7 @@ authority: "<strong>농촌진흥청(RDA) 및 식품의약품안전처(MFDS) 및 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">다진 마늘은 실리콘 틀에 얼려 소분 보관 — 냉동 활용 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">다진 마늘은 실리콘 틀에 얼려 소분 보관 — 냉동 보관 (180일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     다량의 마늘은 다진 후 얇게 펴서 지퍼백에 칼집을 내거나, 실리콘 큐브 틀에 담아 얼립니다. 필요한 양만큼 한 조각씩 쏙쏙 꺼내어 요리에 사용할 수 있어 편리하며 영양 성분 손실도 줄어듭니다.

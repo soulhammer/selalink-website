@@ -8,9 +8,9 @@ heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & FSA</strong>"
 steps:
-  - name: "皮付きのまま風通しの良い涼しい場所に吊るして保存 — 空気循環 🌬️"
+  - name: "皮付きのまま風通しの良い涼しい場所に吊るして保存 — 常温保存 (30日間)"
     text: "皮付きの玉ねぎは, 日陰で風通しの良い場所が最適です。ネットやストッキングに玉ねぎを1個ずつ入れ, 間に結び目を作って吊るしておくと, 玉ねぎ同士が触れ合わず傷むのを防ぎます。"
-  - name: "むき玉ねぎは水気を取り、1個ずつラップで密閉 — 冷蔵保存 📦"
+  - name: "むき玉ねぎは水気を取り、1個ずつラップで密閉 — 冷蔵保存 (14日間) 📦"
     text: "皮をむいた玉ねぎは水分をきれいに拭き取り, 1個ずつラップできつく包んで冷蔵庫の野菜室に保管します。酸素との接触を防ぐことで, 最大10日間軟らかくならずに硬さを維持できます。"
   - name: "じゃがいもと絶対に隔離して保存する — 相互腐敗の防止 🛡️"
     text: "玉ねぎとじゃがいもは相性が悪いです。2つを同じ場所に置くと, 玉ねぎの水分やガスをじゃがいもが吸収して芽が出やすくなり, じゃがいもの水分は玉ねぎを軟らかくして互いの腐敗を早めます。必ず分けて保存してください。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">皮付きのまま風通しの良い涼しい場所に吊るして保存 — 空気循環 🌬️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">皮付きのまま風通しの良い涼しい場所に吊るして保存 — 常温保存 (30日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     皮付きの玉ねぎは, 日陰で風通しの良い場所が最適です。ネットやストッキングに玉ねぎを1個ずつ入れ, 間に結び目を作って吊るしておくと, 玉ねぎ同士が触れ合わず傷むのを防ぎます。
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">むき玉ねぎは水気を取り、1個ずつラップで密閉 — 冷蔵保存 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">むき玉ねぎは水気を取り、1個ずつラップで密閉 — 冷蔵保存 (14日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     皮をむいた玉ねぎは水分をきれいに拭き取り, 1個ずつラップできつく包んで冷蔵庫の野菜室に保管します。酸素との接触を防ぐことで, 最大10日間軟らかくならずに硬さを維持できます。

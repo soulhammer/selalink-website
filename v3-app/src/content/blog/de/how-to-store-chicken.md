@@ -10,9 +10,9 @@ authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "Geflügel niemals mit Wasser waschen — Kreuzkontamination vermeiden ❌💧"
     text: "Das Waschen von rohem Hühnerfleisch spritzt Bakterien wie Campylobacter bis zu 50 cm weit um das Spülbecken herum und kontaminiert Geschirr und Oberflächen. Fleisch stattdessen mit Küchenpapier abtupfen oder kurz blanchieren."
-  - name: "In zwei Beuteln verschließen und auf dem untersten Fach lagern 📦"
+  - name: "In zwei Beuteln verschließen und auf dem untersten Fach lagern — Kühllagerung (2Tage) 📦"
     text: "Der austretende Fleischsaft von Geflügel enthält Bakterien und kann andere Lebensmittel verderben. Verpacken Sie das Fleisch doppelt und lagern es auf der untersten Ebene des Kühlschranks, wo es am kältesten ist."
-  - name: "Leicht mit Salz und Kochwein würzen — Haltbarkeit verlängern 🧂"
+  - name: "Leicht mit Salz und Kochwein würzen — Gefrierlagerung (90Tage) 🧂"
     text: "Wenn Sie das Fleisch nicht sofort zubereiten, streuen Sie etwas Salz und Reiswein oder klaren Alkohol darüber. Der Alkohol desinfiziert, während das Salz die Fasern festigt, was die Frische um einen Tag verlängert."
 ---
 
@@ -53,7 +53,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In zwei Beuteln verschließen und auf dem untersten Fach lagern 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In zwei Beuteln verschließen und auf dem untersten Fach lagern — Kühllagerung (2Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Der austretende Fleischsaft von Geflügel enthält Bakterien und kann andere Lebensmittel verderben. Verpacken Sie das Fleisch doppelt und lagern es auf der untersten Ebene des Kühlschranks, wo es am kältesten ist.
@@ -63,7 +63,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Leicht mit Salz und Kochwein würzen — Haltbarkeit verlängern 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Leicht mit Salz und Kochwein würzen — Gefrierlagerung (90Tage) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wenn Sie das Fleisch nicht sofort zubereiten, streuen Sie etwas Salz und Reiswein oder klaren Alkohol darüber. Der Alkohol desinfiziert, während das Salz die Fasern festigt, was die Frische um einen Tag verlängert.

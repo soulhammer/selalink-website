@@ -8,9 +8,9 @@ heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: "Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Maduración natural 🥑"
+  - name: "Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Conservación a Temp. Ambiente (5Días) 🥑"
     text: "Los aguacates duros y verdes deben conservarse a temperatura ambiente (15-20 °C). Ponerlos en una bolsa de papel con plátanos o manzanas acelerará su maduración gracias al gas etileno."
-  - name: "Envuelva con film plástico y refrigere una vez maduro — Retrase el deterioro ❄️"
+  - name: "Envuelva con film plástico y refrigere una vez maduro — Almacenamiento Refrigerado (7Días)"
     text: "Cuando la piel se vuelva marrón oscuro y ceda ante una ligera presión, envuelva el aguacate en film plástico y guárdelo en el cajón de verduras del refrigerador para evitar que se pase."
   - name: "Aplique jugo de limón en las caras cortadas y selle — Evite el oscurecimiento 🍋"
     text: "Para conservar la mitad sobrante, deje el hueso puesto, unte una capa fina de jugo de limón (o aceite de oliva) en la pulpa expuesta y selle con film plástico. La acidez bloquea la oxidación."
@@ -43,7 +43,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Maduración natural 🥑</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Conservación a Temp. Ambiente (5Días) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Los aguacates duros y verdes deben conservarse a temperatura ambiente (15-20 °C). Ponerlos en una bolsa de papel con plátanos o manzanas acelerará su maduración gracias al gas etileno.
@@ -53,7 +53,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva con film plástico y refrigere una vez maduro — Retrase el deterioro ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva con film plástico y refrigere una vez maduro — Almacenamiento Refrigerado (7Días)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Cuando la piel se vuelva marrón oscuro y ceda ante una ligera presión, envuelva el aguacate en film plástico y guárdelo en el cajón de verduras del refrigerador para evitar que se pase.

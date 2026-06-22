@@ -8,11 +8,11 @@ heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
-  - name: "不洗用报纸包裹竖立存放 — 垂直保存 🌿"
+  - name: "不洗用报纸包裹竖立存放 — 常温储存 (5天) 🌿"
     text: "大葱保持干燥不洗，用报纸卷好，根部朝下竖立存放在阴凉通风处。大葱在直立状态下会认为自己仍在生长，从而有效延缓老化。"
-  - name: "洗净的大葱控干水分后用保鲜盒竖立保存 — 铺厨房纸 📦"
+  - name: "洗净的大葱控干水分后用保鲜盒竖立保存 — 冷藏储存 (14天) 📦"
     text: "清洗过的大葱必须用厨房纸或蔬菜脱水机彻底擦干水分。在保鲜盒底部铺上厨房纸巾，将大葱根部朝下竖立摆放，存放在冰箱蔬菜保鲜室内。"
-  - name: "切段后密封冷冻保存 — 长期保存 ❄️"
+  - name: "切段后密封冷冻保存 — 冷冻储存 (180天)"
     text: "2周内用不完的大葱，可以提前切成葱花或大葱段，彻底晾干水分后装入密封袋中冷冻保存。做菜时直接从冷冻状态下入锅，这样大葱不会变黏烂。"
 ---
 
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">不洗用报纸包裹竖立存放 — 垂直保存 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">不洗用报纸包裹竖立存放 — 常温储存 (5天) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     大葱保持干燥不洗，用报纸卷好，根部朝下竖立存放在阴凉通风处。大葱在直立状态下会认为自己仍在生长，从而有效延缓老化。
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">洗净的大葱控干水分后用保鲜盒竖立保存 — 铺厨房纸 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">洗净的大葱控干水分后用保鲜盒竖立保存 — 冷藏储存 (14天) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     清洗过的大葱必须用厨房纸或蔬菜脱水机彻底擦干水分。在保鲜盒底部铺上厨房纸巾，将大葱根部朝下竖立摆放，存放在冰箱蔬菜保鲜室内。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">切段后密封冷冻保存 — 长期保存 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">切段后密封冷冻保存 — 冷冻储存 (180天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     2周内用不完的大葱，可以提前切成葱花或大葱段，彻底晾干水分后装入密封袋中冷冻保存。做菜时直接从冷冻状态下入锅，这样大葱不会变黏烂。

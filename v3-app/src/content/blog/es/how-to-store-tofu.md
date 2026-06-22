@@ -8,9 +8,9 @@ heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Deseche el agua del empaque y enjuague con agua corriente 🚿"
+  - name: "Deseche el agua del empaque y enjuague con agua corriente — Almacenamiento Refrigerado (7Días) 🚿"
     text: "El agua del paquete de tofu contiene proteínas disueltas, lo que propicia el desarrollo de bacterias. Deseche este agua por completo y enjuague el tofu bajo agua fría corriente antes de guardarlo."
-  - name: "Sumerja en agua fría con una pizca de sal — Conservante natural 🧂"
+  - name: "Sumerja en agua fría con una pizca de sal — Almacenamiento Congelado (21Días) 🧂"
     text: "Coloque el tofu en un contenedor hermético, cúbralo de agua fría y añada media cucharadita de sal. El agua salada frena el desarrollo de microbios y ayuda a mantener firme el tofu."
   - name: "Cambie el agua todos los días — Mantenga la frescura 💧"
     text: "Aunque tenga sal, el agua se debe cambiar por agua fresca fría diariamente o cada dos días. Esto evita que el tofu se agrie, manteniéndolo fresco y firme hasta por una semana."
@@ -43,7 +43,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Deseche el agua del empaque y enjuague con agua corriente 🚿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Deseche el agua del empaque y enjuague con agua corriente — Almacenamiento Refrigerado (7Días) 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     El agua del paquete de tofu contiene proteínas disueltas, lo que propicia el desarrollo de bacterias. Deseche este agua por completo y enjuague el tofu bajo agua fría corriente antes de guardarlo.
@@ -53,7 +53,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sumerja en agua fría con una pizca de sal — Conservante natural 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sumerja en agua fría con una pizca de sal — Almacenamiento Congelado (21Días) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Coloque el tofu en un contenedor hermético, cúbralo de agua fría y añada media cucharadita de sal. El agua salada frena el desarrollo de microbios y ayuda a mantener firme el tofu.

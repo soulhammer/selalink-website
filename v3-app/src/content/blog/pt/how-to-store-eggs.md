@@ -8,7 +8,7 @@ heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Nunca lave os ovos antes de guardar — Proteja a cutícula natural ❌💧"
+  - name: "Nunca lave os ovos antes de guardar — Armazenamento Refrigerado (45Dias) 💧"
     text: "A casca do ovo tem milhares de poros microscópicos pelos quais o ovo respira. Lavá-los remove a película protetora natural (cutícula), facilitando a entrada de bactérias como a Salmonella. Limpe a sujeira apenas com um pano seco."
   - name: "Guarde com a ponta fina para baixo — Mantenha a câmara de ar no lugar 🥚"
     text: "O lado redondo do ovo contém a câmara de aire. Se esse lado ficar para baixo, a gema pode encostar na casca ou romper a membrana, estragando o ovo. Guarde com o lado arredondado voltado para cima."
@@ -43,7 +43,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nunca lave os ovos antes de guardar — Proteja a cutícula natural ❌💧</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nunca lave os ovos antes de guardar — Armazenamento Refrigerado (45Dias) 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     A casca do ovo tem milhares de poros microscópicos pelos quais o ovo respira. Lavá-los remove a película protetora natural (cutícula), facilitando a entrada de bactérias como a Salmonella. Limpe a sujeira apenas com um pano seco.

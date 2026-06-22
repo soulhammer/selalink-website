@@ -12,7 +12,7 @@ steps:
     text: "Mushrooms have porous structures and absorb water like a sponge. Washing them before storage ruins their firm texture and unique aroma. Simply brush off dirt right before cooking."
   - name: "Wrap in a paper bag or paper towels — Moisture control 📦"
     text: "Storing mushrooms in a plastic bag traps moisture from their respiration, causing condensation and fast decay. Wrap them in paper towels or place them in a brown paper bag which absorbs excess moisture."
-  - name: "Store on a middle shelf without pressure — Prevent bruising ❄️"
+  - name: "Store on a middle shelf without pressure — Refrigerated Storage (3Days)"
     text: "Mushrooms have delicate structures. If crushed under heavy food items, their cell walls break down, causing them to turn black and rot. Place them gently on refrigerator shelves or on top of other vegetables."
 ---
 
@@ -63,7 +63,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store on a middle shelf without pressure — Prevent bruising ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store on a middle shelf without pressure — Refrigerated Storage (3Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Mushrooms have delicate structures. If crushed under heavy food items, their cell walls break down, causing them to turn black and rot. Place them gently on refrigerator shelves or on top of other vegetables.

@@ -8,11 +8,11 @@ heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & CDC</strong>"
 steps:
-  - name: "熟透前务必存放在常温避光处 — 促进熟化 🌿"
+  - name: "熟透前务必存放在常温避光处 — 常温储存 (7天) 🌿"
     text: "青色未熟的西红柿应放在15-20℃的常温避光处，将蒂头朝上摆放进行自然催熟。把未熟的西红柿放进冰箱会终止其熟化过程，导致果皮起皱、失去原本的风味。"
   - name: "储存前摘除青色蒂头 — 防止发霉 ✂️"
     text: "西红柿的蒂头处最易滋生霉菌。储存前摘除蒂头，不仅可以防止西红柿相互碰撞扎伤，还能显著降低发霉腐烂的风险，延长保存期。"
-  - name: "仅将熟透的西红柿用报纸包裹放冰箱蔬菜室 — 延长保鲜 ❄️"
+  - name: "仅将熟透的西红柿用报纸包裹放冰箱蔬菜室 — 冷藏储存 (7天)"
     text: "只有完全变红熟透的西红柿才能用报纸或保鲜膜逐个包裹，存放在冰箱蔬菜保鲜室（5-10℃）。这样可以防止冷气导致水分蒸发和表面干瘪，延长几天保鲜时间。"
 ---
 
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">熟透前务必存放在常温避光处 — 促进熟化 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">熟透前务必存放在常温避光处 — 常温储存 (7天) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     青色未熟的西红柿应放在15-20℃的常温避光处，将蒂头朝上摆放进行自然催熟。把未熟的西红柿放进冰箱会终止其熟化过程，导致果皮起皱、失去原本的风味。
@@ -63,7 +63,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">仅将熟透的西红柿用报纸包裹放冰箱蔬菜室 — 延长保鲜 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">仅将熟透的西红柿用报纸包裹放冰箱蔬菜室 — 冷藏储存 (7天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     只有完全变红熟透的西红柿才能用报纸或保鲜膜逐个包裹，存放在冰箱蔬菜保鲜室（5-10℃）。这样可以防止冷气导致水分蒸发和表面干瘪，延长几天保鲜时间。

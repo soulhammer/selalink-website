@@ -8,7 +8,7 @@ heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
 authority: "<strong>食品医薬品安全処(MFDS) & 農村振興庁(RDA) & FSA</strong>"
 steps:
-  - name: "洗わずに新聞紙や紙袋で個別に包む — 光の遮断 📦"
+  - name: "洗わずに新聞紙や紙袋で個別に包む — 常温保存 (45日間) 📦"
     text: "じゃがいもは土がついた状態のまま保存した方が長持ちします。新聞紙や紙袋で包むことで光を完全に遮断し, じゃがいもが緑色に変色して有害なソラニンが生成されるのを防ぎます。"
   - name: "りんごを1個一緒に入れて常温保存 — 芽の成長抑制 🍎"
     text: "じゃがいもを入れる箱の中にりんごを1個入れておくと, りんごから放出されるエチレンガスがじゃがいもの芽の成長を抑え, 発芽を大幅に遅らせてくれます。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">洗わずに新聞紙や紙袋で個別に包む — 光の遮断 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">洗わずに新聞紙や紙袋で個別に包む — 常温保存 (45日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     じゃがいもは土がついた状態のまま保存した方が長持ちします。新聞紙や紙袋で包むことで光を完全に遮断し, じゃがいもが緑色に変色して有害なソラニンが生成されるのを防ぎます。

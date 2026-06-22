@@ -10,9 +10,9 @@ authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "Ne jamais conserver au réfrigérateur — Éviter le pain sec ❌🍞"
     text: "L'amidon de blé, principal composant du pain, cristallise (vieillit) et s'assèche le plus vite entre 1 et 6 °C. Une fois sec, le pain devient friable et même réchauffé, il ne retrouvera pas son moelleux."
-  - name: "Envelopper chaque tranche fermement de film étirable — Bloquer l'humidité 📦"
+  - name: "Envelopper chaque tranche fermement de film étirable — Stockage à Temp. Ambiante (3Jours) 📦"
     text: "Enveloppez chaque tranche de pain de mie dans du film étirable en chassant l'air. S'il reste des poches d'air, le givre va s'y accumuler, ce qui va dessécher et durcir la mie."
-  - name: "Mettre les tranches dans un sac congélation et congeler immédiatement ❄️"
+  - name: "Mettre les tranches dans un sac congélation et congeler immédiatement ❄️ — Stockage Congelé (90Jours)"
     text: "Mettez les tranches emballées dans un sac congélation hermétique, videz l'air et placez au congélateur à -18 °C ou moins. Pour consommer, laissez décongeler 15 min à température ambiante ou passez au grille-pain."
 ---
 
@@ -53,7 +53,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper chaque tranche fermement de film étirable — Bloquer l'humidité 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper chaque tranche fermement de film étirable — Stockage à Temp. Ambiante (3Jours) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Enveloppez chaque tranche de pain de mie dans du film étirable en chassant l'air. S'il reste des poches d'air, le givre va s'y accumuler, ce qui va dessécher et durcir la mie.
@@ -63,7 +63,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mettre les tranches dans un sac congélation et congeler immédiatement ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mettre les tranches dans un sac congélation et congeler immédiatement ❄️ — Stockage Congelé (90Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Mettez les tranches emballées dans un sac congélation hermétique, videz l'air et placez au congélateur à -18 °C ou moins. Pour consommer, laissez décongeler 15 min à température ambiante ou passez au grille-pain.

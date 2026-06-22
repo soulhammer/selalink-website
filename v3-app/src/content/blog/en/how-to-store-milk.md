@@ -8,7 +8,7 @@ heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Do not store on the refrigerator door — Keep on inner shelves ❌ Door"
+  - name: "Do not store on the refrigerator door — Refrigerated Storage (7Days)"
     text: "The refrigerator door experiences the most severe temperature fluctuations whenever it is opened and closed. To preserve milk, keep it on the inner shelves of the refrigerator where the temperature is stable at 0–4°C."
   - name: "Consume within 7 days once opened — Limit bacterial growth 🥛"
     text: "Once milk is opened, contact with air introduces oxygen and bacteria, starting the spoilage process. Avoid touching the carton spout and consume the milk within 7 days, regardless of the expiration date."
@@ -43,7 +43,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Do not store on the refrigerator door — Keep on inner shelves ❌ Door</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Do not store on the refrigerator door — Refrigerated Storage (7Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     The refrigerator door experiences the most severe temperature fluctuations whenever it is opened and closed. To preserve milk, keep it on the inner shelves of the refrigerator where the temperature is stable at 0–4°C.

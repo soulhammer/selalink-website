@@ -10,7 +10,7 @@ authority: "<strong>韩国消费者院(KCA) & 韩国食品医药品安全处(MFD
 steps:
   - name: "切勿直接覆盖保鲜膜 — 防止食中毒菌繁殖 ❌🍉"
     text: "如果将西红柿或西瓜切半直接覆上保鲜膜保存，切面上会滋生几千倍以上的细菌，极易引发食物中毒。切开的西瓜绝对不能仅包一层保鲜膜存放。"
-  - name: "去皮切块装入密封盒保存 — 卫生密封 📦"
+  - name: "去皮切块装入密封盒保存 — 冷藏储存 (7天) 📦"
     text: "小心切除西瓜外皮，防止外皮的泥沙和细菌接触红瓤。将果肉切成一口大小的方块，装入洗净控干的密封保鲜盒中，扣紧盖子冷藏保存。"
   - name: "在0-4℃恒温下存放在蔬菜保鲜室深处 — 低温冷藏 ❄️"
     text: "将装入密封盒的西瓜放在冰箱蔬菜保鲜室深处或隔板最内侧。必须存放在温度变化较小的地方，这样才能防止西瓜松软并锁住糖分，安全保鲜。"
@@ -53,7 +53,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">去皮切块装入密封盒保存 — 卫生密封 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">去皮切块装入密封盒保存 — 冷藏储存 (7天) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     小心切除西瓜外皮，防止外皮的泥沙和细菌接触红瓤。将果肉切成一口大小的方块，装入洗净控干的密封保鲜盒中，扣紧盖子冷藏保存。

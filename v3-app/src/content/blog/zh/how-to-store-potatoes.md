@@ -8,7 +8,7 @@ heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
 authority: "<strong>韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & FSA</strong>"
 steps:
-  - name: "不洗用报纸/纸袋单独包裹 — 阻断光线 📦"
+  - name: "不洗用报纸/纸袋单独包裹 — 常温储存 (45天) 📦"
     text: "土豆带泥保存寿命更长。用报纸或纸袋将土豆包裹，能完全阻隔光照，防止土豆表皮变绿产生有毒的龙葵素（Solanine）。"
   - name: "放入1个苹果常温保存 — 抑制发芽 🍎"
     text: "在装有土豆的箱子里放一个苹果，苹果释放的乙烯气体会抑制土豆发芽的生长因子，从而显著推迟土豆发芽的时间。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">不洗用报纸/纸袋单独包裹 — 阻断光线 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">不洗用报纸/纸袋单独包裹 — 常温储存 (45天) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     土豆带泥保存寿命更长。用报纸或纸袋将土豆包裹，能完全阻隔光照，防止土豆表皮变绿产生有毒的龙葵素（Solanine）。

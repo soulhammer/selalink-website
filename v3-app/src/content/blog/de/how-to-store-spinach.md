@@ -10,7 +10,7 @@ authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
   - name: "Ungewaschenen Spinat in Zeitung/Küchenpapier wickeln — Feuchtigkeitsschutz 📦"
     text: "Spinatblätter verfaulen schnell bei Feuchtigkeit. Lassen Sie die Erde daran und wickeln Sie ihn locker in Zeitungspapier oder Küchenpapier, um Kondenswasser zu vermeiden."
-  - name: "Aufrecht mit den Wurzeln nach unten lagern — Atmung verlangsamen 🌿"
+  - name: "Aufrecht mit den Wurzeln nach unten lagern — Kühllagerung (4Tage) 🌿"
     text: "Wenn Spinat flach gelagert wird, verbrauchen die Blätter Energie beim Versuch, nach oben zu wachsen, und welken schneller. Lagern Sie ihn aufrecht mit den Wurzeln nach unten in einem Gefäß."
   - name: "Von ethylenproduzierenden Früchten isolieren — Schutzbarriere 🛡️"
     text: "Spinat reagiert sehr empfindlich auf Ethylengas. Wenn er zusammen mit Äpfeln, Birnen oder Tomaten gelagert wird, vergilben die Blätter schnell und verfaulen. Räumlich trennen."
@@ -53,7 +53,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aufrecht mit den Wurzeln nach unten lagern — Atmung verlangsamen 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aufrecht mit den Wurzeln nach unten lagern — Kühllagerung (4Tage) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wenn Spinat flach gelagert wird, verbrauchen die Blätter Energie beim Versuch, nach oben zu wachsen, und welken schneller. Lagern Sie ihn aufrecht mit den Wurzeln nach unten in einem Gefäß.

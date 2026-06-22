@@ -8,7 +8,7 @@ heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Eier vor dem Lagern niemals abwaschen — Schutzschicht erhalten ❌💧"
+  - name: "Eier vor dem Lagern niemals abwaschen — Kühllagerung (45Tage) 💧"
     text: "Eierschalen besitzen Tausende winzige Poren zum Atmen. Das Waschen entfernt die natürliche Schutzschicht (Kutikula), sodass Bakterien wie Salmonellen durch die Poren eindringen können. Schmutz nur trocken abreiben."
   - name: "Mit dem spitzen Ende nach unten lagern — Lage der Luftkammer stabilisieren 🥚"
     text: "Das stumpfe, runde Ende des Eies enthält die Luftkammer. Liegt dieses Ende unten, kommt das Eigelb eher mit der Schalenmembran in Kontakt und verdirbt. Lagern Sie das runde Ende nach oben gerichtet."
@@ -43,7 +43,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Eier vor dem Lagern niemals abwaschen — Schutzschicht erhalten ❌💧</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Eier vor dem Lagern niemals abwaschen — Kühllagerung (45Tage) 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Eierschalen besitzen Tausende winzige Poren zum Atmen. Das Waschen entfernt die natürliche Schutzschicht (Kutikula), sodass Bakterien wie Salmonellen durch die Poren eindringen können. Schmutz nur trocken abreiben.

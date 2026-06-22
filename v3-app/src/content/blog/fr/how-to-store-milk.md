@@ -8,7 +8,7 @@ heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Ne pas conserver dans la porte du frigo — Placer sur les étagères intérieures ❌ Porte"
+  - name: "Ne pas conserver dans la porte du frigo — Stockage Réfrigéré (7Jours)"
     text: "La porte du réfrigérateur subit les variations de température les plus fortes à chaque ouverture. Pour préserver le lait, rangez-le sur les étagères du fond où la température est stable à 0-4 °C."
   - name: "Consommer sous 7 jours après ouverture — Limiter les bactéries 🥛"
     text: "Dès que le lait est ouvert, l'air apporte des bactéries qui débutent la dégradation. Évitez de toucher le bec verseur et consommez sous 7 jours, quelle que soit la date de péremption."
@@ -43,7 +43,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ne pas conserver dans la porte du frigo — Placer sur les étagères intérieures ❌ Porte</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ne pas conserver dans la porte du frigo — Stockage Réfrigéré (7Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     La porte du réfrigérateur subit les variations de température les plus fortes à chaque ouverture. Pour préserver le lait, rangez-le sur les étagères du fond où la température est stable à 0-4 °C.

@@ -8,7 +8,7 @@ heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>"
 steps:
-  - name: "务必存放在0-4℃的冷藏室中 — 彻底防止欧米伽-3氧化 ❄️"
+  - name: "务必存放在0-4℃的冷藏室中 — 冷藏储存 (30天)"
     text: "与芝麻油不同，苏子油中不含能防止变质的芝麻酚成分，且含有60%以上的欧米伽-3脂肪酸，放在常温下极易氧化酸败。请务必存放在0-4℃的冰箱中。"
   - name: "使用深色避光瓶并减少空气接触 — 阻断氧气与紫外线 🫙"
     text: "光照和氧气会加速欧米伽-3的氧化。苏子油应装在褐色或绿色的玻璃瓶中，使用后须盖紧瓶盖，以尽量减少与空气接触。"
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">务必存放在0-4℃的冷藏室中 — 彻底防止欧米伽-3氧化 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">务必存放在0-4℃的冷藏室中 — 冷藏储存 (30天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     与芝麻油不同，苏子油中不含能防止变质的芝麻酚成分，且含有60%以上的欧米伽-3脂肪酸，放在常温下极易氧化酸败。请务必存放在0-4℃的冰箱中。

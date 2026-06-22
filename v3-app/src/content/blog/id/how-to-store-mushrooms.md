@@ -12,7 +12,7 @@ steps:
     text: "Jamur memiliki struktur berpori dan menyerap air seperti spons. Mencucinya sebelum disimpan akan merusak tekstur kenyal dan aroma khasnya. Cukup bersihkan kotoran sesaat sebelum dimasak."
   - name: "Bungkus dengan kantong kertas atau tisu dapur — Mengatur kelembapan 📦"
     text: "Menyimpan jamur dalam kantong plastik akan menjebak uap air dari respirasinya, memicu pembusukan cepat. Bungkus jamur dengan tisu dapur atau kantong kertas cokelat yang menyerap kelembapan."
-  - name: "Simpan di rak tengah kulkas tanpa tertindih — Menjaga bentuk ❄️"
+  - name: "Simpan di rak tengah kulkas tanpa tertindih — Penyimpanan Dingin (3Hari)"
     text: "Jamur memiliki struktur yang rapuh. Jika tertindih bahan makanan yang berat, jaringan jamur akan rusak sehingga menghitam dan membusuk. Taruh jamur dengan hati-hati di rak bagian atas."
 ---
 
@@ -63,7 +63,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan di rak tengah kulkas tanpa tertindih — Menjaga bentuk ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan di rak tengah kulkas tanpa tertindih — Penyimpanan Dingin (3Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Jamur memiliki struktur yang rapuh. Jika tertindih bahan makanan yang berat, jaringan jamur akan rusak sehingga menghitam dan membusuk. Taruh jamur dengan hati-hati di rak bagian atas.

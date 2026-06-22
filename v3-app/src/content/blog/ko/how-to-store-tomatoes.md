@@ -38,7 +38,7 @@ authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 미국 �
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">완숙 전에는 무조건 꼭 상온 그늘 보관하기 — 후숙 유도 🌿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">완숙 전에는 무조건 꼭 상온 그늘 보관하기 — 실온 보관 (7일) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     초록빛이 있거나 단단한 토마토는 15~20℃의 바람이 통하는 그늘에 보관해 자연 후숙시킵니다. 맛을 내는 리코펜 성분과 당도가 상온에서 서서히 무르익어야 풍부한 즙과 단맛을 냅니다.
@@ -58,7 +58,7 @@ authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 미국 �
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">완숙 토마토만 신문지에 싸서 냉장고 야채칸 보관 — 노화 연장 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">완숙 토마토만 신문지에 싸서 냉장고 야채칸 보관 — 냉장 보관 (7일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     새빨갛게 완전히 말랑해진 토마토는 노화를 늦춰야 합니다. 서로 닿지 않도록 개별 랩핑하거나 신문지에 감싼 후 비교적 덜 차가운 냉장고 야채칸(10℃ 부근)에 넣어 보존 기간을 넓히세요.

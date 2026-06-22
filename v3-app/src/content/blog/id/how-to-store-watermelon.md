@@ -10,7 +10,7 @@ authority: "<strong>KCA & MFDS</strong>"
 steps:
   - name: "Jangan tutup langsung dengan plastik wrap — Mencegah keracunan makanan ❌🍉"
     text: "Menutup potongan semangka langsung dengan plastik wrap memicu bakteri berkembang biak ribuan kali lipat pada permukaannya, meningkatkan risiko keracunan makanan."
-  - name: "Potong kulitnya, potong dadu, lalu simpan di wadah kedap udara 📦"
+  - name: "Potong kulitnya, potong dadu, lalu simpan di wadah kedap udara — Penyimpanan Dingin (7Hari) 📦"
     text: "Kupas bersih kulitnya agar debu di luar tidak menyentuh daging buah. Potong daging buah menjadi dadu lalu taruh di wadah kedap udara yang bersih dan tutup rapat."
   - name: "Simpan di bagian dalam laci sayur pada suhu stabil 0–4°C ❄️"
     text: "Taruh wadah kedap udara berisi semangka di laci sayur bagian dalam. Menyimpannya di area dengan fluktuasi suhu minimal menjaga kerenyahan dan rasa manisnya."
@@ -53,7 +53,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Potong kulitnya, potong dadu, lalu simpan di wadah kedap udara 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Potong kulitnya, potong dadu, lalu simpan di wadah kedap udara — Penyimpanan Dingin (7Hari) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Kupas bersih kulitnya agar debu di luar tidak menyentuh daging buah. Potong daging buah menjadi dadu lalu taruh di wadah kedap udara yang bersih dan tutup rapat.

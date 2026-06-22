@@ -10,9 +10,9 @@ authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "Retirer les entrailles et nettoyer les tentacules — Éviter l'odeur de marée 🦑"
     text: "Les entrailles et les ventouses sales provoquent l'odeur de poisson et les bactéries. Ouvrez le corps, ôtez les viscères et la poche d'encre, puis frottez les tentacules sous l'eau pour les nettoyer."
-  - name: "Sécher complètement et envelopper de film étirable — Protéger la texture 📦"
+  - name: "Sécher complètement et envelopper de film étirable — Stockage Réfrigéré (2Jours) 📦"
     text: "Essuyez tout le calamar à l'intérieur et à l'extérieur au papier absorbant. L'eau résiduelle forme des cristaux de gel à la congélation qui ramollissent la chair à la décongélation. Emballez séparément."
-  - name: "Placer dans un sac congélation et sceller double — Éviter les odeurs 🛡️"
+  - name: "Placer dans un sac congélation et sceller double — Stockage Congelé (60Jours)"
     text: "Rangez le calamar emballé dans un sac congélation, videz l'air et congelez sous -18 °C. Ce double emballage empêche l'odeur de marée de se propager aux autres aliments."
 ---
 
@@ -53,7 +53,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sécher complètement et envelopper de film étirable — Protéger la texture 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sécher complètement et envelopper de film étirable — Stockage Réfrigéré (2Jours) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Essuyez tout le calamar à l'intérieur et à l'extérieur au papier absorbant. L'eau résiduelle forme des cristaux de gel à la congélation qui ramollissent la chair à la décongélation. Emballez séparément.
@@ -63,7 +63,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Placer dans un sac congélation et sceller double — Éviter les odeurs 🛡️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Placer dans un sac congélation et sceller double — Stockage Congelé (60Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Rangez le calamar emballé dans un sac congélation, videz l'air et congelez sous -18 °C. Ce double emballage empêche l'odeur de marée de se propager aux autres aliments.

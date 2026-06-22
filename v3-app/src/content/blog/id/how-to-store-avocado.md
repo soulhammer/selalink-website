@@ -8,9 +8,9 @@ heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: "Simpan di kantong kertas pada suhu ruang sebelum matang — Pematangan alami 🥑"
+  - name: "Simpan di kantong kertas pada suhu ruang sebelum matang — Penyimpanan Suhu Ruang (5Hari) 🥑"
     text: "Alpukat yang masih keras harus disimpan pada suhu ruang 15–20°C. Memasukkannya ke dalam kantong kertas bersama pisang atau apel akan mempercepat proses pematangan berkat gas etilen."
-  - name: "Bungkus dengan plastik wrap lalu dinginkan setelah matang — Memperlambat pembusukan ❄️"
+  - name: "Bungkus dengan plastik wrap lalu dinginkan setelah matang — Penyimpanan Dingin (7Hari)"
     text: "Jika kulitnya sudah berubah menjadi cokelat tua dan terasa agak empuk saat ditekan, segera bungkus dengan plastik wrap lalu taruh di laci sayur kulkas untuk memperlambat pembusukan."
   - name: "Oleskan jus lemon pada permukaan potongan lalu segel — Mencegah perubahan warna 🍋"
     text: "Biarkan bijinya tetap menempel pada belahan alpukat yang tidak digunakan, oleskan sedikit jus lemon (atau minyak zaitun) pada permukaan potongan, lalu segel dengan plastik wrap. Keasaman akan mencegah oksidasi."
@@ -43,7 +43,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan di kantong kertas pada suhu ruang sebelum matang — Pematangan alami 🥑</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan di kantong kertas pada suhu ruang sebelum matang — Penyimpanan Suhu Ruang (5Hari) 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Alpukat yang masih keras harus disimpan pada suhu ruang 15–20°C. Memasukkannya ke dalam kantong kertas bersama pisang atau apel akan mempercepat proses pematangan berkat gas etilen.
@@ -53,7 +53,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus dengan plastik wrap lalu dinginkan setelah matang — Memperlambat pembusukan ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus dengan plastik wrap lalu dinginkan setelah matang — Penyimpanan Dingin (7Hari)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Jika kulitnya sudah berubah menjadi cokelat tua dan terasa agak empuk saat ditekan, segera bungkus dengan plastik wrap lalu taruh di laci sayur kulkas untuk memperlambat pembusukan.
