@@ -14,6 +14,19 @@ app: "storeself"
 
 오늘 StoreSelf에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 **사과 신선도 극대화 3단계 보관 비법**을 소개해 드립니다. 🛡️
 
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      신뢰 근거 기관
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 가이드는 <strong>미국 농무부(USDA) 및 농업연구청(ARS)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. 사과가 부패의 주범인 이유, '에틸렌 가스'

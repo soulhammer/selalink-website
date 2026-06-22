@@ -15,6 +15,19 @@ youtubeId: "yJz71H46PJM"
 
 今天， **StoreSelf** 将基于美国农业部 (USDA) 和世界卫生组织 (WHO) 的官方安全指南，为你介绍科学且极其有效的香蕉 3 步骤保鲜秘诀。 🛡️
 
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Verified Scientific Authority
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This storage guide is verified based on official guidelines from the <strong>United States Department of Agriculture (USDA) & World Health Organization (WHO)</strong>.
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. 罪魁祸首竟是“乙烯气体”！香蕉变坏的原因

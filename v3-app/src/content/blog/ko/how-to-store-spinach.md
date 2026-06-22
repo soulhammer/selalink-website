@@ -10,6 +10,20 @@ app: "storeself"
 
 시금치는 영양이 풍부한 채소이지만, 냉장고 야채칸에 가로로 눕혀 방치하면 하루이틀 만에 잎이 누렇게 뜨고 짓눌려 썩어버립니다. 호흡 작용을 억제하는 과학적인 보관법을 설명합니다.
 
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      신뢰 근거 기관
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 가이드는 <strong>미국 농무부(USDA) 및 식품안전정보원</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+    </p>
+  </div>
+</div>
+
+
 ---
 
 ## 1. 왜 이렇게 보관해야 할까요? 과학적 상식

@@ -15,6 +15,19 @@ youtubeId: "yJz71H46PJM"
 
 本日 **StoreSelf** では、米国農務省（USDA）や世界保健機関（WHO）の公式安全ガイドをベースに、科学的で効果的なバナナの鮮度を維持する3ステップ保存法をお届けします。 🛡️
 
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Verified Scientific Authority
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This storage guide is verified based on official guidelines from the <strong>United States Department of Agriculture (USDA) & World Health Organization (WHO)</strong>.
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. 犯人は「エチレンガス」！バナナが早く傷む理由

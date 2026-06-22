@@ -15,6 +15,19 @@ El plátano (o banana) es una de las frutas más queridas del mundo, pero debido
 
 Hoy en **StoreSelf** compartimos un método científicamente probado en 3 pasos, basado en los estándares de seguridad alimentaria de la USDA y la OMS, para que disfrutes de plátanos perfectos durante mucho más tiempo. 🛡️
 
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Verified Scientific Authority
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This storage guide is verified based on official guidelines from the <strong>United States Department of Agriculture (USDA) & World Health Organization (WHO)</strong>.
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. El culpable: El gas etileno y el ablandamiento

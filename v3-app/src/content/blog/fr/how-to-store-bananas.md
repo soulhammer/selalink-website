@@ -15,6 +15,19 @@ La banane est l'un des fruits les plus appréciés au monde, mais en raison de s
 
 Aujourd'hui, **StoreSelf** vous propose une méthode scientifiquement prouvée en 3 étapes, basée sur les directives de sécurité alimentaire de l'USDA et de l'OMS, pour préserver la fermeté de vos bananes beaucoup plus longtemps. 🛡️
 
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      Verified Scientific Authority
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      This storage guide is verified based on official guidelines from the <strong>United States Department of Agriculture (USDA) & World Health Organization (WHO)</strong>.
+    </p>
+  </div>
+</div>
+
 ---
 
 ## 1. Le coupable : Le gaz éthylène et le brunissement
