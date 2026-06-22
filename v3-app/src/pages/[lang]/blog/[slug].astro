@@ -102,6 +102,53 @@ if (post.id.includes('how-to-store-bananas')) {
       }
     ]
   });
+} else if (post.id.includes('how-to-store-apples')) {
+  structuredDataList.push({
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": title,
+    "description": description,
+    "image": heroImage ? new URL(heroImage, Astro.site).href : undefined,
+    "step": lang === 'ko' ? [
+      {
+        "@type": "HowToStep",
+        "name": "씻지 않고 랩으로 개별 포장",
+        "text": "수분 증발을 막고 에틸렌 가스 노출을 차단하기 위해 씻지 않은 사과를 랩으로 감쌉니다.",
+        "url": `${formattedUrl}#step-1`
+      },
+      {
+        "@type": "HowToStep",
+        "name": "저온 냉장 보관",
+        "text": "사과의 호흡과 에틸렌 방출을 억제하여 신선도를 오래 지키도록 냉장고 야채칸(0~4℃)에 보관합니다.",
+        "url": `${formattedUrl}#step-2`
+      },
+      {
+        "@type": "HowToStep",
+        "name": "다른 식재료와 완벽 격리",
+        "text": "사과의 에틸렌 가스가 다른 채소와 과일을 부패시키지 않도록 지퍼백 등에 밀봉해 격리 보관합니다.",
+        "url": `${formattedUrl}#step-3`
+      }
+    ] : [
+      {
+        "@type": "HowToStep",
+        "name": "Wrap Individually Without Washing",
+        "text": "Wrap each unwashed apple tightly with plastic wrap to prevent moisture loss and block ethylene.",
+        "url": `${formattedUrl}#step-1`
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Store at Low Temperature",
+        "text": "Store wrapped apples in the refrigerator crisper drawer (0-4°C) to delay respiration and aging.",
+        "url": `${formattedUrl}#step-2`
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Isolate from Other Produce",
+        "text": "Double-seal wrapped apples in a bag or container and keep them away from other ethylene-sensitive produce.",
+        "url": `${formattedUrl}#step-3`
+      }
+    ]
+  });
 }
 
 const formattedDate = new Date(pubDate).toLocaleDateString(lang === 'ko' ? 'ko-KR' : 'en-US', {
