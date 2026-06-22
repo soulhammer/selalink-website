@@ -31,10 +31,10 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Camarão cru estraga rápido nas cabeças e cascas. Retire-as, remova a tripa e seque bem antes de guardar.',
           id: 'Udang mentah cepat busuk di kepala dan kulitnya. Bersihkan kepala, kulit, dan kotorannya lalu lap kering.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['FDA', 'USDA', 'MFDS']
       },
       freezer: {
-        durationDays: 120,
+        durationDays: 90,
         tips: {
           ko: '물기를 말린 생새우를 지퍼백에 겹치지 않게 펼쳐 얼려두면 조리 시 낱개로 꺼내 쓰기 좋습니다.',
           en: 'Dry cleaned shrimp, spread in a single layer in a bag, and freeze for easy individual portioning.',
@@ -46,7 +46,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Seque os camarões limpos, espalhe em camada única num saco e congele para retirar individualmente.',
           id: 'Keringkan udang bersih, ratakan satu lapis di kantong plastik, lalu bekukan.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['FDA', 'USDA', 'MFDS']
       }
     }
   },
@@ -80,10 +80,10 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Manter as vísceras causa mau cheiro e decomposição. Limpe tudo, retire olhos e ventosas antes de guardar.',
           id: 'Membiarkan isi perutnya memicu kebusukan dan bau. Selalu bersihkan isi perut, mata, dan tentakelnya.'
         },
-        sources: ['NIFS', 'USDA']
+        sources: ['NIFS', 'MFDS', 'USDA']
       },
       freezer: {
-        durationDays: 90,
+        durationDays: 60,
         tips: {
           ko: '껍질을 벗겨 격자 칼집을 낸 뒤 한 마리씩 랩으로 포장하여 냉동하면 요리할 때 즉석 해동하여 쓰기 수월합니다.',
           en: 'Skin, score with a grid pattern, wrap individually in wrap, and freeze for quick thawing and cooking.',
@@ -95,7 +95,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Retire a pele, faça cortes cruzados, embrulhe bem em filme e congele para descongelar rápido.',
           id: 'Kupas kulit, beri keratan silang, bungkus per ekor, bekukan agar cepat dicairkan saat akan dimasak.'
         },
-        sources: ['NIFS', 'USDA']
+        sources: ['NIFS', 'MFDS', 'USDA']
       }
     }
   },
@@ -118,7 +118,7 @@ export const seafoodIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 2,
+        durationDays: 1,
         tips: {
           ko: '조개는 살아있는 상태로 보관해야 합니다. 해감(소금물에 담가 모래 빼기) 후, 밀폐용기에 담고 젖은 면포나 키친타월을 덮어 보관하세요. 밀봉하면 질식사합니다.',
           en: 'Clams must stay alive. Depurate in saltwater, place in an open container, and cover with a wet cloth. Do not seal.',
@@ -130,7 +130,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Moluscos devem ser mantidos vivos. Faça a depuração em água salgada, coloque em pote aberto e cubra com pano úmido.',
           id: 'Kerang harus tetap hidup. Rendam air garam agar bersih, taruh wadah terbuka, tutup kain basah. Jangan segel.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['MFDS', 'NIFS']
       },
       freezer: {
         durationDays: 90,
@@ -145,7 +145,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Ferva os moluscos até abrirem. Retire a carne e congele junto com o caldo coado em sacos.',
           id: 'Rebus kerang hingga cangkang terbuka. Ambil dagingnya, bekukan bersama air rebusannya.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['MFDS', 'NIFS']
       }
     }
   },
@@ -180,10 +180,10 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Seque o líquido da carne, vede a vácuo e refrigere. Borrifar saquê ou vinho branco ajuda a eliminar odores.',
           id: 'Lap kering cairannya, bungkus vakum, dan dinginkan. Percikan sedikit sake atau anggur putih mengurangi bau amis.'
         },
-        sources: ['NIFS', 'USDA']
+        sources: ['FDA', 'USDA']
       },
       freezer: {
-        durationDays: 60,
+        durationDays: 90,
         tips: {
           ko: '1회분 크기로 썰어 소금을 살짝 뿌려 수분을 빼고, 올리브유를 발라 랩핑한 뒤 지퍼백에 밀봉하여 급속 냉동하세요.',
           en: 'Slice into single portions, salt lightly to draw out water, brush with olive oil, wrap, and freeze.',
@@ -195,7 +195,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Corte em porções, salgue levemente para drenar a água, pincele azeite, embrulhe em filme e congele.',
           id: 'Potong dalam porsi sekali makan, taburi sedikit garam, olesi minyak zaitun, bungkus, lalu bekukan.'
         },
-        sources: ['NIFS', 'USDA']
+        sources: ['FDA', 'USDA']
       }
     }
   },
@@ -230,10 +230,10 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Mofo e insetos proliferam em umidade. Guarde fechado em local seco e fresco apenas a curto prazo.',
           id: 'Jamur dan serangga mudah berkembang di cuaca lembap. Simpan kering dan sejuk untuk jangka pendek saja.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['NIFS', 'KCA']
       },
       freezer: {
-        durationDays: 365,
+        durationDays: 180,
         tips: {
           ko: '멸치를 프라이팬에 기름 없이 가볍게 볶아 습기를 날린 후, 식혀서 지퍼백에 밀봉해 냉동 보관하면 비린내 없이 오래 유지됩니다.',
           en: 'Pan-fry without oil to remove moisture, cool, and freeze in sealed bags to keep crunchy and odor-free.',
@@ -245,7 +245,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Toste levemente sem óleo na frigideira para secar, esfrie e congele em sacos herméticos para evitar odores.',
           id: 'Sangrai tanpa minyak untuk menghilangkan kelembapan, dinginkan, lalu bekukan dalam kantong plastik.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['NIFS', 'KCA']
       }
     }
   },
@@ -274,7 +274,7 @@ export const seafoodIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 5,
+        durationDays: 7,
         tips: {
           ko: '수분과 단백질이 많아 쉽게 상합니다. 개봉 전에는 7일 정도 가능하지만, 개봉 후에는 밀폐용기에 소분해 담아 2~3일 이내에 드세요.',
           en: 'High moisture and protein make it spoil easily. Can last 7 days unopened, but store in airtight containers and consume in 2–3 days once opened.',
@@ -342,10 +342,10 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Limpe as vísceras, lave e seque com papel. Embrulhe em papel-toalha, coloque no saco e prepare em até 2 days.',
           id: 'Buang isi perut, cuci, keringkan dengan tisu. Bungkus tisu, taruh di kantong, masak dalam 1-2 hari.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['NIFS', 'MFDS']
       },
       freezer: {
-        durationDays: 90,
+        durationDays: 60,
         tips: {
           ko: '1회분씩 랩으로 포장하고 토막 사이에 종이호일을 넣어 두면 해동 시 하나씩 떼기 좋습니다. 지퍼백에 이중 밀봉해 얼리세요.',
           en: 'Wrap portions in plastic wrap and place parchment paper between slices for easy separation. Double seal in zipper bags.',
@@ -357,7 +357,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Embrulhe as porções em filme e coloque papel-manteiga entre as fatias para facilitar a separação. Sele duplo em sacos.',
           id: 'Bungkus porsi dengan plastik wrap dan beri sekat kertas roti antar potongan agar mudah dilepas. Segel ganda.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['NIFS', 'MFDS']
       }
     }
   },
@@ -398,7 +398,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Retire escamas e vísceras, lave e seque bem por dentro. Embrulhe 1-2 peixes com filme e guarde na gaveta mais fria.',
           id: 'Buang sisik dan isi perut, cuci, keringkan bagian dalam. Bungkus 1-2 ekor dengan plastik wrap, taruh di bagian paling dingin.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['NIFS', 'MFDS']
       },
       freezer: {
         durationDays: 90,
@@ -413,7 +413,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Para guardar por longo prazo, embrulhe a vácuo com filme, sele duplo em sacos e coloque ao fundo. Consuma em até 3 meses.',
           id: 'Untuk awet, bungkus rapat seperti divakum, segel ganda dalam kantong, lalu simpan di bagian dalam freezer. Konsumsi dalam 3 bulan.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['NIFS', 'MFDS']
       }
     }
   },
@@ -442,7 +442,7 @@ export const seafoodIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 180,
+        durationDays: 365,
         tips: {
           ko: '건미역은 개봉 후 지퍼백에 담아 공기를 빼고 밀봉해 건조하고 그늘진 실온에 두세요. 변색이나 눅눅함을 방지하기 위해 실리카겔을 동봉하면 좋습니다.',
           en: 'For dry seaweed, seal in a bag, remove air, and store in a cool, dark room. Adding silica gel helps prevent dampness and discoloration.',
@@ -454,7 +454,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Para alga seca, guarde no saco sem ar em local seco e escuro. Colocar sílica-gel ajuda a evitar umidade e descoloração.',
           id: 'Segel dalam kantong plastik tanpa udara, simpan di tempat kering dan teduh. Beri silika gel untuk mencegah lembap.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['NIFS', 'KCA']
       },
       fridge: {
         durationDays: 3,
@@ -469,7 +469,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Para alga ya hidratada, escorra e seque bem com papel. Guarde no pote hermético e consuma em até 3 dias.',
           id: 'Untuk rumput laut yang sudah direndam, tiriskan lalu keringkan dengan tisu. Simpan di wadah kedap dan masak dalam 1-3 hari.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['NIFS', 'KCA']
       }
     }
   },
@@ -510,10 +510,10 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Não lave o abalone vivo. Cubra com papel-toalha úmido e guarde na gaveta com a tampa um pouco aberta. Prepare em até 2 dias. Se limpo, use em 1 a 2 dias.',
           id: 'Jangan cuci abalon hidup. Alas tisu basah dan simpan di laci sayur dengan penutup sedikit terbuka. Masak dalam 2 hari. Jika dikupas, habiskan dalam 1-2 hari.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['NIFS', 'MFDS']
       },
       freezer: {
-        durationDays: 30,
+        durationDays: 90,
         tips: {
           ko: '살과 내장을 숟가락으로 분리해 솔로 씻은 뒤 수분을 닦고 따로따로 1회분씩 랩으로 진공포장해 지퍼백에 이중 보관해 얼리세요. 내장은 2주 이내 소비 권장합니다.',
           en: 'Separate meat and organs with a spoon, scrub, pat dry, wrap individually in plastic wrap, and double bag. Organs go bad quickly; consume within 2 weeks.',
@@ -525,7 +525,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Separe a carne e as vísceras, limpe, seque, embrulhe separado em filme e guarde no saco. Consuma as vísceras em até 2 semanas.',
           id: 'Pisah daging dan jeroan dengan sendok, sikat, keringkan, bungkus rapat secara terpisah, lalu segel ganda. Konsumsi jeroan dalam 2 minggu.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['NIFS', 'MFDS']
       }
     }
   },
@@ -553,7 +553,7 @@ export const seafoodIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 2,
+        durationDays: 1,
         tips: {
           ko: '신선도가 급격히 떨어지므로 가급적 당일 조리하시고, 냉장 시에는 밀가루로 이물질을 씻어 물기를 완전히 말려 밀폐 용기에 담아 2일 내로 드세요.',
           en: 'Spoils rapidly; cook on purchase day if possible. Otherwise, wash with flour, dry completely, and store in airtight containers for up to 2 days.',
@@ -565,10 +565,10 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Estraga muito rápido; prepare no dia da compra. Se refrigerar, limpe com farinha, seque bem e consuma em até 2 dias.',
           id: 'Cepat busuk; masak segera. Untuk kulkas, bersihkan dengan tepung, keringkan, simpan di wadah kedap maks 2 hari.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['NIFS', 'MFDS']
       },
       freezer: {
-        durationDays: 30,
+        durationDays: 90,
         tips: {
           ko: '생으로 얼리면 수분이 파괴되어 해동 시 질겨집니다. 끓는 물에 30초간 살짝 데친 후 식혀서 소분 밀봉 보관하면 부드러운 식감이 지켜집니다.',
           en: 'Freezing raw destroys cell walls, making it tough when thawed. Blanch in boiling water for 30s, cool, portion, and freeze to keep it tender.',
@@ -580,7 +580,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Congelar cru destrói as células, tornando-o duro. Branqueie por 30s em água fervente, esfrie e congele para ficar macio.',
           id: 'Membekukan mentah merusak air sel sehingga alot saat cair. Rebus 30 detik, dinginkan, lalu bekukan agar tetap empuk.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['NIFS', 'MFDS']
       }
     }
   },
@@ -621,10 +621,10 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Lave e seque bem por dentro e por fora com papel-toalha. Guarde no pote hermético na gaveta mais fria e prepare em até 2 dias.',
           id: 'Cuci dan keringkan bagian dalam luar dengan tisu. Taruh wadah kedap di laci paling dingin, masak dalam 1-2 hari.'
         },
-        sources: ['MFDS', 'USDA', 'WHO']
+        sources: ['NIFS', 'MFDS', 'FDA']
       },
       freezer: {
-        durationDays: 90,
+        durationDays: 60,
         tips: {
           ko: '내장을 제거해 토막 낸 뒤 천일염과 레몬즙을 살짝 뿌려 수분을 한 번 더 빼고, 랩으로 진공하듯 밀착 감싸 지퍼백에 밀봉 냉동하세요.',
           en: 'Gut, slice, sprinkle salt and lemon juice to drain moisture. Wrap tightly in wrap as if vacuum-sealed and freeze in a zipper bag.',
@@ -636,7 +636,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Retire as vísceras, corte em postas, tempere com sal e limão para desidratar. Embrulhe bem em filme e congele no saco.',
           id: 'Buang isi perut, potong, beri garam dan jeruk lemon untuk membuang air. Bungkus rapat plastik wrap lalu bekukan.'
         },
-        sources: ['MFDS', 'USDA', 'WHO']
+        sources: ['NIFS', 'MFDS', 'FDA']
       }
     }
   },
@@ -676,7 +676,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Muito vulnerável a intoxicação (Norovírus). Lave em água salgada, escorra, guarde no pote hermético e consuma bem cozido em até 2 dias.',
           id: 'Sangat rentan keracunan (Norovirus). Segera cuci air garam, tiriskan, taruh wadah kedap, masak matang dalam 2 hari.'
         },
-        sources: ['MFDS', 'USDA', 'WHO']
+        sources: ['MFDS', 'FDA']
       },
       freezer: {
         durationDays: 60,
@@ -691,7 +691,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Lave em água salgada, escorra, divida em porções e congele. Após descongelar, consuma apenas cozido ou frito.',
           id: 'Bilas air garam, tiriskan, bagi per porsi, lalu bekukan. Setelah dicairkan, hanya gunakan untuk masakan matang.'
         },
-        sources: ['MFDS', 'USDA', 'WHO']
+        sources: ['MFDS', 'FDA']
       }
     }
   },
@@ -731,10 +731,10 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Estraga muito rápido e cria bactérias após morrer. Caranguejo fresco deve ser cozido em até 24 horas.',
           id: 'Cepat busuk dan memicu bakteri jika mati. Kepiting segar wajib dimasak dalam waktu 24 jam.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['NIFS', 'MFDS']
       },
       freezer: {
-        durationDays: 30,
+        durationDays: 180,
         tips: {
           ko: '생으로 얼리면 게살의 단백질이 녹아내립니다. 반드시 끓는 물에 완전히 쪄낸 뒤 식혀 지퍼백에 담아 급속 냉동해야 살이 유지됩니다.',
           en: 'Freezing raw melts the crab meat. Steam completely first, cool down, and pack in zipper bags before freezing to retain the meat.',
@@ -746,7 +746,7 @@ export const seafoodIngredients: Ingredient[] = [
           pt: 'Congelar cru faz a carne derreter. Cozinhe no vapor primeiro, esfrie e congele no saco plástico para manter a carne intacta.',
           id: 'Membekukan mentah membuat daging menyusut. Kukus matang terlebih dahulu, dinginkan, lalu bekukan dalam kantong plastik.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['NIFS', 'MFDS']
       }
     }
   }

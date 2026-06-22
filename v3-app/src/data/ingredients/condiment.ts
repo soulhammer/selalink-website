@@ -32,7 +32,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Latas fechadas duram anos em local seco e fresco.',
           id: 'Kaleng yang belum dibuka awet bertahun-tahun di tempat yang sejuk dan kering.'
         },
-        sources: ['MFDS', 'USDA', 'WHO']
+        sources: ['MFDS', 'USDA']
       },
       fridge: {
         durationDays: 3,
@@ -47,7 +47,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: '⚠️ Após aberto, a lata oxida rápido. Transfira o atum e o óleo para um pote de vidro ou plástico e refrigere.',
           id: '⚠️ Setelah dibuka, kaleng cepat berkarat. Pindahkan tuna dan minyaknya ke wadah kaca atau plastik lalu dinginkan.'
         },
-        sources: ['MFDS', 'USDA', 'WHO']
+        sources: ['MFDS', 'USDA']
       }
     }
   },
@@ -151,7 +151,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Nunca refrigere; o frio cristaliza o açúcar. Mantenha bem fechado em temperatura ambiente.',
           id: 'Jangan dinginkan; dingin membuat gula mengkristal dan mengeras. Simpan rapat di suhu ruang.'
         },
-        sources: ['USDA', 'RDA']
+        sources: ['FDA', 'RDA']
       }
     }
   },
@@ -236,24 +236,9 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Mantenha o kimchi mergulhado no caldo e cubra a superfície com plástico para evitar levedura branca.',
           id: 'Jaga kimchi terendam dalam airnya dan tutup permukaannya dengan plastik wrap untuk mencegah ragi putih.'
         },
-        sources: ['MFDS']
+        sources: ['RDA', 'MFDS']
       },
-      freezer: {
-        durationDays: 180,
-        tips: {
-          ko: '⚠️ 배추 김치를 얼리면 해동 시 섬유질이 손상되어 푸석하고 흐물거립니다. 생식용으로는 불가하며, 오직 찌개나 볶음 조리용으로 사용할 목적일 때만 냉동하세요.',
-          en: '⚠️ Freezing ruins crunchy texture. Frozen kimchi becomes mushy and should only be used for cooked dishes like stews.',
-          ja: '⚠️ 冷凍すると白菜の繊維質が壊れ, 解凍後に食感が崩れてグズグズになります. 加熱調理（鍋や炒め物）用としてのみ冷凍してください。',
-          zh: '⚠️ 冰冻会破坏白菜纤维结构, 解冻后口感软烂. 不能生吃, 仅在打算做汤或炒菜使用时才可冷冻。',
-          es: '⚠️ Congelarlo arruina la textura. Se vuelve blando y solo sirve para platos cocinados como guisos.',
-          fr: '⚠️ La congélation gâte la texture. Il devient mou et ne doit servir que pour des plats cuits ou ragoûts.',
-          de: '⚠️ Gefrieren zerstört die knackige Konsistenz. Gefrorener Kimchi wird matschig und eignet sich nur zum Kochen.',
-          pt: '⚠️ Congelar danifica a textura da acelga, que fica mole. Use apenas para pratos cozidos como ensopados.',
-          id: '⚠️ Membekukan merusak tekstur renyahnya. Kimchi beku menjadi lembek dan hanya cocok untuk masakan matang.'
-        },
-        sources: ['MFDS']
       }
-    }
   },
   {
     id: 'olive-oil',
@@ -274,7 +259,7 @@ export const condimentIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 730,
+        durationDays: 365,
         tips: {
           ko: '빛과 공기에 닿으면 쉽게 산패하므로 어두운 병에 담아 화구 주변을 피해 15~25℃ 서늘한 상온에 보관하세요.',
           en: 'Vulnerable to light and heat. Store in dark bottles in a cool (15–25°C) pantry away from the stove.',
@@ -288,22 +273,7 @@ export const condimentIngredients: Ingredient[] = [
         },
         sources: ['USDA', 'MFDS']
       },
-      fridge: {
-        durationDays: 0,
-        tips: {
-          ko: '⚠️ 절대 냉장 보관하지 마세요! 특히 엑스트라 버진 올리브유는 0~5℃ 이하에서 하얗게 굳어지고 결정이 생겨 품질이 손상됩니다.',
-          en: '⚠️ Never refrigerate! Extra virgin olive oil solidifies, turns cloudy, and crystallizes at cold temperatures.',
-          ja: '⚠️ 絶対に冷蔵庫に入れないでください！特にエキストラバージンオリーブオイルは0〜5℃以下で白く固まり品質が落ちます。',
-          zh: '⚠️ 切勿冷藏！尤其是特级初榨橄榄油, 在0-5℃以下会凝固结晶变白, 损害其品质。',
-          es: '⚠️ ¡Nunca refrigere! El aceite de oliva extra virgen se solidifica y cristaliza a bajas temperaturas.',
-          fr: '⚠️ Ne réfrigérez jamais ! L’huile d’olive extra vierge se fige et cristallise à basse température.',
-          de: '⚠️ Niemals kühlen! Natives Olivenöl extra verfestigt sich und kristallisiert im Kühlschrank.',
-          pt: '⚠️ Nunca refrigere! O azeite de oliva extravirgem se solidifica e cristaliza sob baixas temperaturas.',
-          id: '⚠️ Jangan pernah dinginkan! Minyak zaitun ekstra murni membeku dan mengkristal di suhu dingin.'
-        },
-        sources: ['USDA', 'MFDS']
       }
-    }
   },
   {
     id: 'vinegar',
@@ -342,7 +312,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'O vinagre se autoconserva pela alta acidez. Feche bem e guarde em local fresco e escuro. Validade quase indeterminada. Sedimento branco é natural.',
           id: 'Cuka mengawetkan dirinya sendiri karena sangat asam. Tutup rapat dan simpan di suhu ruang gelap. Awet selamanya. Endapan putih aman dikonsumsi.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'FDA']
       }
     }
   },
@@ -371,7 +341,7 @@ export const condimentIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 365,
+        durationDays: 180,
         tips: {
           ko: '미개봉 상태일 경우 직사광선이 닿지 않고 습도가 낮은 서늘한 그늘(팬트리)에 보관하세요.',
           en: 'If unopened, store in a cool, dry, and dark pantry away from direct sunlight.',
@@ -383,24 +353,9 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Se fechado, guarde em local fresco, seco e escuro, longe da luz solar direta.',
           id: 'Sebelum dibuka, simpan di tempat sejuk, kering, dan gelap terhindar dari sinar matahari.'
         },
-        sources: ['USDA', 'FSA']
+        sources: ['USDA']
       },
-      freezer: {
-        durationDays: 90,
-        tips: {
-          ko: '개봉 후 실온에 방치하면 습기로 뭉치고 향이 다 날아갑니다. 지퍼백에 밀봉해 공기를 완전히 뺀 후 냉동 보관하면 풍미가 오랫동안 유지됩니다.',
-          en: 'Leaving opened powder at room temp causes clumping and flavor loss. Seal tightly in a zipper bag, remove all air, and store in the freezer to preserve flavor.',
-          ja: '개봉 후 실온에 그냥 두면 굳어지고 특유의 향이 날아갑니다. 지퍼백에 밀봉해 공기를 완전히 짜낸 뒤 냉동 보관해 풍미를 지키세요.',
-          zh: '开封后如果放在常温下，会因受潮结块且风味散失。请装入密封袋中密闭并彻底排出空气，放入冷冻室保存能长期保持风味。',
-          es: 'Dejarlo abierto a temp. ambiente causa grumos y pérdida de sabor. Selle bien en bolsas sin aire y congele para conservar el sabor.',
-          fr: 'Laisser le sachet entamé à l’air libre crée des grumos et altère l’arôme. Fermez bien sans air et congelez pour préserver le goût.',
-          de: 'Nach dem Öffnen feuchtigkeits- und aromaverlustgefährdet. Luftdicht in Beuteln verschließen, Luft komplett herausdrücken und im Gefrierschrank lagern.',
-          pt: 'Deixar aberto à temp. ambiente causa pelotas e perda de sabor. Feche bem no saco, retire o ar e guarde no freezer para reter aroma.',
-          id: 'Setelah dibuka, suhu ruang membuat bubuk menggumpal dan rasa hilang. Segel rapat di kantong plastik tanpa udara, simpan di freezer.'
-        },
-        sources: ['USDA', 'FSA']
       }
-    }
   },
   {
     id: 'oyster-sauce',
@@ -426,23 +381,8 @@ export const condimentIngredients: Ingredient[] = [
       id: 'Saus tiram'
     },
     storage: {
-      room: {
-        durationDays: 540,
-        tips: {
-          ko: '개봉 전에는 햇빛이 닿지 않고 온도 변화가 없는 서늘한 실온(팬트리)에 최대 1년 반 이상 보관 가능합니다.',
-          en: 'Unopened lasts 18–24 months in a cool, dark pantry away from sunlight.',
-          ja: '개봉하기 전에는 직사광선이 닿지 않고 선선한 실온(팬트리)에 1년 반 이상 보관할 수 있습니다.',
-          zh: '开封前，可在避光且无温度变化的阴凉常温下（食品储藏室）保存1年半以上。',
-          es: 'Antes de abrir, dura 18–24 meses en alacena fresca y oscura.',
-          fr: 'Non ouvert, se conserve 18 à 24 mois au frais et à l’abri de la lumière.',
-          de: 'Ungeöffnet bis zu 18–24 Monate kühl und dunkel (Speisekammer) haltbar.',
-          pt: 'Fechado dura de 18 a 24 meses em local fresco e escuro.',
-          id: 'Sebelum dibuka awet 18-24 bulan di lemari makanan yang sejuk dan gelap.'
-        },
-        sources: ['USDA', 'MFDS']
-      },
       fridge: {
-        durationDays: 90,
+        durationDays: 180,
         tips: {
           ko: '개봉 후 실온에 두면 곰팡이가 필 확률이 대단히 높으므로 반드시 입구를 닦아 냉장 보관하고, 3~6개월 내에 드세요.',
           en: 'Highly prone to mold at room temp once opened. Wipe opening clean, keep refrigerated, and consume within 3–6 months.',
@@ -483,7 +423,7 @@ export const condimentIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 180,
+        durationDays: 30,
         tips: {
           ko: '볶은 깨는 오일 성분이 함유되어 공기 노출 시 찌든 내(산패)가 납니다. 투명 병을 피해 어두운 밀폐 용기에 담아 서늘한 곳에 두세요.',
           en: 'Contains oil which becomes rancid when exposed to air. Store in dark, airtight containers in a cool pantry.',
@@ -495,10 +435,10 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Contém óleo que rança com o ar. Guarde em pote escuro e hermético em local fresco.',
           id: 'Mengandung minyak yang bisa tengik oleh udara. Simpan di wadah kedap cahaya di tempat sejuk.'
         },
-        sources: ['USDA', 'FSA']
+        sources: ['RDA', 'MFDS']
       },
       freezer: {
-        durationDays: 365,
+        durationDays: 180,
         tips: {
           ko: '1년 이상 오래 두고 쓸 때는 지퍼백에 꽉 밀봉해 냉동 보관하면 산패가 완전히 억제되어 쩐내 없이 고소함을 끝까지 지킬 수 있습니다.',
           en: 'For storage over 1 year, seal tightly in bags and freeze. This stops rancidity completely and preserves the nutty flavor.',
@@ -510,7 +450,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Para guardar por mais de 1 ano, feche bem e congele. Isso impede o ranço e preserva o sabor tostado.',
           id: 'Untuk simpan lebih dari 1 tahun, segel rapat lalu bekukan. Ini mencegah tengik dan menjaga rasa gurih.'
         },
-        sources: ['USDA', 'FSA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -551,7 +491,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Contém mais de 60% de ômega-3, que oxida rápido em temp. ambiente. A luz provoca foto-oxidação, então guarde em garrafa escura ou embrulhe em jornal/alumínio para bloquear a luz na geladeira. Misturar com óleo de gergelim (2:8) dobra a durabilidade.',
           id: 'Mengandung 60%+ omega-3 yang cepat teroksidasi di suhu ruang. Cahaya memicu foto-oksidasi, jadi simpan di botol gelap atau bungkus koran/aluminium untuk memblokir cahaya di kulkas. Campur minyak wijen (2:8) memperpanjang awet 2x lipat.'
         },
-        sources: ['USDA', 'EFSA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -592,7 +532,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Graças aos antioxidantes (lignanas), conserva-se melhor em temp. ambiente. Refrigerar altera o sabor e solidifica o óleo; guarde em local escuro e seco.',
           id: 'Antioksidan alami (lignan) menjaga minyak wijen awet di suhu ruang. Kulkas merusak rasa dan memicu kristalisasi; simpan di ruang gelap.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -620,8 +560,23 @@ export const condimentIngredients: Ingredient[] = [
       id: 'Bubuk cabai'
     },
     storage: {
+      freezer: {
+        durationDays: 365,
+        tips: {
+          ko: '고춧가루는 수분과 빛에 취약하므로 지퍼백에 밀봉하여 냉동 보관하면 색이 변하지 않고 장기 보존이 가능합니다.',
+          en: 'Chili powder is vulnerable to moisture and light. Seal in airtight bags and freeze to preserve color.',
+          ja: '粉唐辛子は湿気と光に弱いです。チャック付き保存袋に入れて密閉し、冷凍保存すると色が変わらず長期保存できます。',
+          zh: '辣椒粉极易受潮和怕光。装入密封袋封口冷冻，可防止变色并长期保存。',
+          es: 'El chile en polvo es sensible a la humedad y la luz. Séllelo en bolsas herméticas y congélelo para preservar el color.',
+          fr: 'Le piment en poudre craint l’humidité et la lumière. Congelez-le en sachet hermétique pour préserver sa couleur.',
+          de: 'Chilipulver ist empfindlich gegen Feuchtigkeit und Licht. Luftdicht verpacken und einfrieren, um die Farbe zu erhalten.',
+          pt: 'A pimenta em pó é sensível à umidade e luz. Vede em sacos herméticos e congele para preservar a cor.',
+          id: 'Bubuk cabai rentan terhadap kelembapan dan cahaya. Segel dalam kantong kedap dan bekukan untuk menjaga warna.'
+        },
+        sources: ['MFDS', 'RDA']
+      },
       fridge: {
-        durationDays: 90,
+        durationDays: 180,
         tips: {
           ko: '습기와 상온 노출에 매우 취약하며 아스페르길루스 곰팡이(오크라톡신 A 발암 물질)가 자라기 쉽습니다. 소분하여 지퍼백에 밀봉한 후 반드시 10℃ 이하 냉장 보관하고 장기 보관 시 냉동하세요.',
           en: 'Extremely vulnerable to moisture and warmth, easily breeding Aspergillus mold (Ochratoxin A cancer pathogen). Seal in small bags and store below 10°C; freeze for long term.',
@@ -633,7 +588,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Muito sensível a umidade e calor, facilitando o fungo Aspergillus (carcinógeno Ocratoxina A). Divida, sele em sacos e guarde abaixo de 10 °C; congele para longo prazo.',
           id: 'Sangat rentan lembap dan suhu ruang, mudah berjamur Aspergillus (zat karsinogenik Ochratoxin A). Segel di kantong porsi, simpan di bawah 10°C.'
         },
-        sources: ['MFDS', 'USDA', 'WHO']
+        sources: ['MFDS', 'RDA']
       }
     }
   },
@@ -662,7 +617,7 @@ export const condimentIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 60,
+        durationDays: 180,
         tips: {
           ko: '전통 발효 장류이지만 시판 고추장은 전분과 감미료 함량이 높아 개봉 후 실온에 두면 곰팡이가 핍니다. 개봉 후에는 표면을 밀착 밀폐하여 반드시 냉장 보관하세요.',
           en: 'Store-bought chili paste has sugar/starches that mold easily at room temp once opened. Seal surface tightly with wrap and keep refrigerated after opening.',
@@ -674,7 +629,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'O Gochujang industrializado contém açúcar e amido que mofam facilmente em temp. ambiente após aberto. Sele a superfície com filme e guarde na geladeira.',
           id: 'Gochujang kemasan mengandung pati/pemanis yang mudah berjamur di suhu ruang setelah dibuka. Tutup rapat permukaan dan taruh kulkas.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['MFDS', 'RDA']
       }
     }
   },
@@ -703,7 +658,7 @@ export const condimentIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 60,
+        durationDays: 180,
         tips: {
           ko: '개봉 후 실온 방치 시 하얀 산막효모(곰팡이의 일종)와 유해 곰팡이가 증식합니다. 밀폐 보관하되, 된장 표면에 종이호일을 깔고 그 위에 천일염을 도톰하게 덮어두면 습기를 잡고 상하지 않습니다.',
           en: 'Leaving it at room temp breeds white film yeast (mold) and pathogenetic molds. Seal and place parchment paper on surface, then sprinkle sea salt on top to block moisture.',
@@ -715,7 +670,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Deixar em temp. ambiente cria leveduras brancas (tipo de mofo) e fungos prejudiciais. Cubra a superfície com papel-manteiga e sal grosso para evitar umidade.',
           id: 'Suhu ruang memicu ragi film putih (jamur) dan bakteri jahat. Lapisi kertas roti di permukaan, taburi garam kasar untuk menyerap air.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['MFDS', 'RDA']
       }
     }
   },
@@ -744,7 +699,7 @@ export const condimentIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 180,
+        durationDays: 90,
         tips: {
           ko: '당도가 높아 미개봉 시 상온 보관이 되나 개봉 후에는 산소 접촉과 수분 유입으로 곰팡이가 쉽게 핍니다. 반드시 냉장 보관하고, 침과 이물질이 묻은 숟가락은 절대 사용하지 마세요.',
           en: 'High sugar preserves it unopened, but oxygen and moisture after opening cause mold. Keep refrigerated and never use a spoon with saliva or crumbs.',
@@ -785,7 +740,7 @@ export const condimentIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 4,
+        durationDays: 5,
         tips: {
           ko: '잼과 달리 당도가 낮고 수분이 매우 많아 개봉 후 3~4일 이내에 먹지 않으면 흰 곰팡이가 생깁니다. 개봉한 소스는 유리병 등 밀폐 용기에 덜어 신속히 드세요.',
           en: 'Unlike jam, low sugar and high moisture cause white mold quickly. Transfer opened sauce to an airtight container and consume within 4 days.',
@@ -797,7 +752,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Ao contrário da geleia, tem baixo teor de açúcar e muita umidade, mofando rápido. Transfira para um pote hermético e consuma em até 4 dias.',
           id: 'Berbeda dengan selai, saus pasta rendah gula dan tinggi air sehingga cepat berjamur. Pindahkan ke wadah kedap dan habiskan dalam 4 hari.'
         },
-        sources: ['USDA', 'FSA']
+        sources: ['USDA', 'MFDS']
       },
       freezer: {
         durationDays: 90,
@@ -812,7 +767,7 @@ export const condimentIngredients: Ingredient[] = [
           pt: 'Divida em porções em sacos ou potes e congele plano. Facilita o descongelamento rápido na hora de cozinhar.',
           id: 'Bagi per porsi dalam kantong plastik atau wadah lalu bekukan mendatar. Ini memudahkan pencairan saat dimasak.'
         },
-        sources: ['USDA', 'FSA']
+        sources: ['USDA', 'MFDS']
       }
     }
   }

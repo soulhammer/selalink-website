@@ -34,7 +34,7 @@ export const meatIngredients: Ingredient[] = [
         sources: ['MFDS', 'USDA']
       },
       freezer: {
-        durationDays: 180,
+        durationDays: 90,
         tips: {
           ko: '용도에 맞게 1회용으로 소분하여 랩핑한 뒤 지퍼백에 넣어 급속 냉동하세요. 냉동 상태에서도 최대 6개월 보관 가능합니다.',
           en: 'Portion into single-use sizes, wrap, and seal in freezer bags. Keeps for up to 6 months.',
@@ -84,7 +84,7 @@ export const meatIngredients: Ingredient[] = [
         sources: ['MFDS', 'USDA']
       },
       freezer: {
-        durationDays: 120,
+        durationDays: 90,
         tips: {
           ko: '냉동 보관 시 고기 표면에 식용유를 아주 얇게 발라 랩핑하면 성에 및 고기 건조를 방지해 고기 질을 유지해 줍니다.',
           en: 'Brushing a thin layer of oil on the meat surface prevents freezer burn and keeps quality.',
@@ -131,10 +131,10 @@ export const meatIngredients: Ingredient[] = [
           pt: 'Altamente perecível. Lavar o frango espalha bactérias na pia. Não lave, apenas seque antes de cozinhar.',
           id: 'Sangat mudah busuk. Mencuci ayam mentah menyebarkan bakteri. Jangan dicuci; lap kering sebelum dimasak.'
         },
-        sources: ['CDC', 'USDA', 'WHO', 'FSA']
+        sources: ['USDA', 'MFDS', 'CDC']
       },
       freezer: {
-        durationDays: 180,
+        durationDays: 90,
         tips: {
           ko: '뼈가 있는 닭고기는 해동 시 뼈 주변 핏물이 먼저 상할 수 있으므로, 뼈를 미리 손질하고 살코기 위주로 얼려 보관하는 것이 안전합니다.',
           en: 'Bone-in chicken spoils faster near bones when thawing. Debone and freeze meat slices for safety.',
@@ -146,7 +146,7 @@ export const meatIngredients: Ingredient[] = [
           pt: 'Frango com osso estraga mais rápido perto dos ossos ao degelar. Retire os ossos e congele a carne para segurança.',
           id: 'Ayam bertulang cepat busuk di sekitar tulang saat dicairkan. Buang tulang dan bekukan dagingnya.'
         },
-        sources: ['CDC', 'USDA', 'WHO', 'FSA']
+        sources: ['USDA', 'MFDS', 'CDC']
       }
     }
   },
@@ -445,7 +445,7 @@ export const meatIngredients: Ingredient[] = [
         sources: ['USDA', 'MFDS']
       },
       fridge: {
-        durationDays: 4,
+        durationDays: 7,
         tips: {
           ko: '개봉 후 남은 햄을 캔 그대로 냉장 보관 시 산소 접촉으로 산패 및 금속 용출이 일어납니다. 반드시 락앤락 등 별도 밀폐용기에 덜어 냉장하고 4일 이내 드세요.',
           en: 'Do not refrigerate in the open metal can; oxygen contact causes spoilage and metal leaching. Transfer to a sealed plastic/glass container and consume in 4 days.',

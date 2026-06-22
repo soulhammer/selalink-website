@@ -37,7 +37,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'As oscilações na porta aceleram a deterioração. Guarde nas prateleiras internas e consuma em até 1 semana após abrir.',
           id: 'Perubahan suhu di pintu kulkas mempercepat basi. Simpan di rak dalam; konsumsi dalam 1 minggu setelah dibuka.'
         },
-        sources: ['MFDS', 'EFSA']
+        sources: ['MFDS', 'USDA']
       }
     }
   },
@@ -65,7 +65,7 @@ export const dairyIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 30,
+        durationDays: 45,
         tips: {
           ko: '물로 씻으면 표면 보호막이 파괴되어 기공으로 세균이 침투합니다. 절대 씻지 말고, 뾰족한 쪽이 아래를 향하게 하되, 온도 변화가 심한 냉장고 문 쪽을 피해 내부 안쪽 선반에 보관해 살모넬라균 번식을 방지하세요.',
           en: 'Washing eggs removes the protective barrier, letting bacteria in. Do not wash; store pointed end down inside the main body of the fridge rather than the door to prevent Salmonella growth from temperature shifts.',
@@ -100,7 +100,7 @@ export const dairyIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 3,
+        durationDays: 7,
         tips: {
           ko: '사용 후 남은 두부는 밀폐용기에 담고 생수와 소금 한 꼬집을 넣어 두부가 완전히 잠기게 한 뒤 보관하세요. 매일 물을 갈아주어야 합니다.',
           en: 'Place leftover tofu in a container, cover fully with fresh water and a pinch of salt. Change water daily.',
@@ -115,7 +115,7 @@ export const dairyIngredients: Ingredient[] = [
         sources: ['MFDS', 'USDA']
       },
       freezer: {
-        durationDays: 90,
+        durationDays: 21,
         tips: {
           ko: '두부를 팩 통째로 냉동하면 얼면서 내부 수분이 응축되어 노랗고 쫄깃한 얼린 두부(동두부)가 되어 찌개용으로 훌륭합니다.',
           en: 'Freezing tofu whole makes it sponge-like and chewy, which is excellent for stews and absorbing flavors.',
@@ -149,7 +149,7 @@ export const dairyIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 21,
+        durationDays: 30,
         tips: {
           ko: '개봉 후에는 밀폐가 중요합니다. 슬라이스 치즈는 지퍼백에 밀봉하고, 모짜렐라는 소분하여 냉장실 안쪽 깊숙한 곳에 두세요. 수분이 많은 소프트 치즈는 개봉 후 1~2주 내 드시고, 하드 치즈는 밀봉 시 3~4주까지 보존 가능합니다.',
           en: 'Airtight sealing is crucial after opening. Seal sliced cheese in bags; portion and store mozzarella deep in the fridge. Soft cheeses with high moisture should be consumed within 1–2 weeks, while hard cheeses can keep up to 3–4 weeks if sealed.',
@@ -161,7 +161,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Vedar bem é crucial após abrir. Guarde fatias em sacos herméticos e porcione a mussarela no fundo da geladeira. Consuma queijos macios em 1-2 semanas, enquanto os queijos duros duram de 3-4 semanas se bem vedados.',
           id: 'Segel rapat setelah dibuka. Taruh keju lembaran dalam kantong; bagi mozzarella dan simpan di bagian dalam kulkas. Keju lunak berkadar air tinggi sebaiknya dikonsumsi dalam 1-2 minggu, sedangkan keju keras dapat bertahan hingga 3-4 minggu jika disegel.'
         },
-        sources: ['USDA', 'EFSA']
+        sources: ['USDA', 'FSA']
       }
     }
   },
@@ -183,7 +183,7 @@ export const dairyIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 90,
+        durationDays: 180,
         tips: {
           ko: '냄새를 쉽게 흡수하므로 랩으로 감싸 밀폐용기에 이중 보관하세요. 냉장실 문 쪽은 피하는 것이 좋습니다.',
           en: 'Butter absorbs odors easily. Wrap tightly and store in an airtight container away from the door.',
@@ -195,10 +195,10 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Absorve odores facilmente. Embrulhe bem e guarde em pote hermético longe da porta da geladeira.',
           id: 'Mentega mudah menyerap bau. Bungkus rapat dan simpan di wadah kedap udara jauh dari pintu.'
         },
-        sources: ['USDA', 'EFSA']
+        sources: ['USDA', 'MFDS']
       },
       freezer: {
-        durationDays: 270,
+        durationDays: 365,
         tips: {
           ko: '한 번에 쓸 크기로 잘라 종이 유산지에 올려 개별 랩핑한 뒤 냉동하세요. 요리할 때 하나씩 꺼내 쓰기 좋습니다.',
           en: 'Slice into single-use portions, wrap in parchment paper, and freeze in sealed containers.',
@@ -210,7 +210,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Corte em porções, embrulhe em papel-manteiga e congele em pote vedado.',
           id: 'Potong dalam porsi sekali pakai, bungkus kertas roti, lalu bekukan.'
         },
-        sources: ['USDA', 'EFSA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -233,7 +233,7 @@ export const dairyIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 14,
+        durationDays: 10,
         tips: {
           ko: '미개봉 상태에서 온도가 잘 유지되면 유통기한 경과 후에도 최대 2주 가량 섭취 가능하나, 개봉했다면 내부에 침이나 균이 들어가 2~3일 내 다 드셔야 합니다.',
           en: 'Unopened yogurt stays safe up to 2 weeks past expiry under cold storage. Once opened, consume within 2-3 days.',
@@ -245,7 +245,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Fechado dura até 2 semanas após o vencimento. Aberto, consuma em 2-3 dias devido à saliva e fungos.',
           id: 'Kemasan utuh aman hingga 2 minggu setelah kedaluwarsa. Setelah dibuka, habiskan dalam 2-3 hari.'
         },
-        sources: ['MFDS', 'USDA', 'EFSA']
+        sources: ['MFDS', 'USDA']
       }
     }
   },
@@ -280,7 +280,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Estraga muito rápido após abrir. Sele bem a abertura e consuma em até 5 dias.',
           id: 'Sangat cepat basi setelah dibuka. Segel rapat mulut kemasan dan habiskan dalam 5 hari.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['USDA', 'FSA']
       }
     }
   },
@@ -359,7 +359,7 @@ export const dairyIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 7,
+        durationDays: 5,
         tips: {
           ko: '유지방 함량이 높아 냄새 흡수가 매우 빠릅니다. 개봉 후 팩 입구를 집게로 꽉 밀봉하고 반찬이나 김치 옆은 피해서 보관하되 7일 내에 사용하세요.',
           en: 'High milk fat absorbs odors quickly. After opening, seal the pack tightly with a clip and store away from smelly food. Use in 7 days.',
@@ -371,7 +371,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Absorve cheiro muito rápido pela gordura. Após aberto, feche com clipe e guarde longe de comidas com cheiro. Use em até 7 dias.',
           id: 'Kadar lemak susu tinggi cepat menyerap bau. Setelah dibuka, segel rapat dengan klip, jauhkan dari makanan berbau. Gunakan dalam 7 hari.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA']
       }
     }
   },
@@ -412,7 +412,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Após aberto, feche bem e guarde ao fundo da geladeira. A alta umidade facilita o mofo; se aparecer, descarte o pote inteiro.',
           id: 'Setelah dibuka, segel rapat dan simpan di bagian dalam kulkas. Tinggi air mudah berjamur; buang seluruh isi jika berjamur.'
         },
-        sources: ['USDA', 'EFSA']
+        sources: ['USDA', 'MFDS']
       }
     }
   }

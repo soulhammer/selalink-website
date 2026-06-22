@@ -108,7 +108,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Pendure em uma rede sem que se toquem, ou embrulhe individualmente em jornal em local fresco e arejado. Guardar com batatas faz com que ambas estraguem facilmente devido à umidade das batatas e ao gás etileno das cebolas, por isso guarde-as separadamente.',
           id: 'Gantung dalam jaring tanpa bersentuhan, atau bungkus satu per satu dengan koran di tempat yang sejuk dan berventilasi. Menyimpan bersama kentang membuat keduanya mudah busuk akibat kelembapan kentang dan gas etilen bawang bombay, jadi simpan secara terpisah.'
         },
-        sources: ['RDA', 'FSA']
+        sources: ['RDA', 'USDA', 'FSA']
       },
       fridge: {
         durationDays: 14,
@@ -225,7 +225,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Pendure o alho inteiro em uma rede em local fresco e arejado. A ventilação é fundamental.',
           id: 'Gantung bawang putih utuh dalam jaring di tempat yang sejuk dan berventilasi. Ventilasi adalah kunci.'
         },
-        sources: ['RDA', 'MFDS']
+        sources: ['RDA', 'MFDS', 'USDA']
       },
       fridge: {
         durationDays: 14,
@@ -240,7 +240,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Para dentes descascados, seque bem. Coloque açúcar no fundo do pote, cubra com papel-toalha e coloque o alho.',
           id: 'Untuk bawang kupas, keringkan. Taburkan gula di dasar wadah, alasi dengan tisu dapur, lalu taruh bawang.'
         },
-        sources: ['RDA', 'USDA']
+        sources: ['RDA', 'MFDS', 'USDA']
       },
       freezer: {
         durationDays: 180,
@@ -255,7 +255,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Congele o alho picado em formas de gelo ou achatado em sacos, depois corte em porções.',
           id: 'Bekukan bawang putih cincang dalam cetakan es atau pipihkan dalam kantong, lalu potong-potong.'
         },
-        sources: ['RDA', 'MFDS']
+        sources: ['RDA', 'MFDS', 'USDA']
       }
     }
   },
@@ -339,7 +339,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Embrulhe a alface sem lavar em papel-toalha e sele num saco. Se lavar, seque completamente para não murchar.',
           id: 'Bungkus selada yang belum dicuci dengan tisu dapur lalu segel. Jika dicuci, keringkan sepenuhnya.'
         },
-        sources: ['MFDS', 'RDA', 'EFSA', 'FSA']
+        sources: ['MFDS', 'RDA', 'EFSA']
       }
     }
   },
@@ -579,7 +579,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Guarde em pé. Coloque o talo em um copo com água e cubra com saco plástico para maior durabilidade.',
           id: 'Simpan berdiri. Masukkan batangnya ke gelas berisi sedikit air lalu tutup dengan plastik.'
         },
-        sources: ['RDA', 'USDA', 'EFSA', 'FSA']
+        sources: ['RDA', 'USDA', 'EFSA']
       },
       freezer: {
         durationDays: 120,
@@ -594,7 +594,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Branqueie em água fervente com sal por 30s, esfrie em água gelada, seque e congele.',
           id: 'Rebus sebentar 30 detik di air garam, dinginkan di air es, keringkan, lalu bekukan.'
         },
-        sources: ['RDA', 'USDA']
+        sources: ['RDA', 'USDA', 'EFSA']
       }
     }
   },
@@ -780,7 +780,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 3,
+        durationDays: 7,
         tips: {
           ko: '밀폐용기에 콩나물을 담고 찬물에 완전히 잠기게 한 뒤 냉장 보관하세요. 물을 매일 한 번씩 갈아주어야 아삭함이 유지됩니다.',
           en: 'Submerge fully in cold water in an airtight container. Change water daily to keep them crunchy.',
@@ -829,7 +829,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 3,
+        durationDays: 5,
         tips: {
           ko: '가지는 저온 장애에 약하므로 절대 차가운 냉장실 깊숙이 오래 보관하지 마세요. 하나씩 신문지에 싸서 그늘지고 서늘한 상온에 보관하는 것이 최선입니다.',
           en: 'Very sensitive to cold. Wrap individually in newspaper and store in a cool, shady pantry.',
@@ -891,7 +891,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Abóboras inteiras e sem cortes duram mais de um mês em local fresco e escuro à temperatura ambiente.',
           id: 'Labu utuh yang belum dipotong awet lebih dari sebulan di ruangan sejuk dan gelap.'
         },
-        sources: ['RDA', 'MFDS']
+        sources: ['RDA', 'USDA']
       },
       fridge: {
         durationDays: 7,
@@ -906,7 +906,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Retire as sementes e a polpa completamente, pois mofam primeiro. Cubra os cortes com papel-toalha e embrulhe.',
           id: 'Keruk biji dan serabutnya sampai bersih karena cepat berjamur. Alasi tisu pada potongan lalu bungkus rapat.'
         },
-        sources: ['RDA', 'MFDS']
+        sources: ['RDA', 'USDA']
       },
       freezer: {
         durationDays: 180,
@@ -921,7 +921,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Descasque, corte e cozinhe no vapor ou faça purê. Congele em sacos em porções para sopas ou papinhas.',
           id: 'Kupas, potong, kukus atau haluskan. Bekukan dalam kantong porsi sekali pakai untuk sup atau makanan bayi.'
         },
-        sources: ['RDA', 'MFDS']
+        sources: ['RDA', 'USDA']
       }
     }
   },
@@ -961,7 +961,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Guarde com casca embrulhado in jornal e selado no saco. O açúcar diminui rápido; consuma em até 3 dias.',
           id: 'Simpan tanpa dikupas, bungkus koran, segel dalam kantong. Manis cepat hilang; konsumsi dalam 3 hari.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'USDA']
       },
       freezer: {
         durationDays: 365,
@@ -976,7 +976,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Cozinhe ou asse logo após comprar, esfrie bem, embrulhe individual em filme e congele. Cozinhe de novo sem descongelar.',
           id: 'Segera rebus setelah dibeli, dinginkan, bungkus rapat, lalu bekukan. Kukus kembali tanpa dicairkan untuk rasa awal.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'USDA']
       }
     }
   },
@@ -1017,7 +1017,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Manter a umidade é fundamental. Corte os talos, submerja em água fria em pote fechado e guarde na gaveta. Fica crocante por 2 semanas. Troque a água a cada 2-3 dias.',
           id: 'Menjaga air adalah kunci. Potong seledri, rendam air dingin di wadah kedap, taruh laci sayur. Renyah 2 minggu. Ganti air tiap 2-3 hari.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'FSA']
       }
     }
   },
@@ -1046,7 +1046,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 5,
+        durationDays: 7,
         tips: {
           ko: '사용 후 남은 조각 애호박은 자른 단면 물기를 닦고 키친타월을 밀착시켜 감싼 뒤 랩으로 완전 진공 밀봉하여 보관해야 3~5일간 물러지지 않습니다.',
           en: 'Dry cut surface, wrap tightly with a paper towel, and seal completely with plastic wrap. Keeps fresh for 3–5 days without rotting.',
@@ -1058,7 +1058,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Seque a área de corte, cubra com papel-toalha e envolva em filme plástico a vácuo. Mantém por até 5 dias.',
           id: 'Keringkan bekas potongan, alas tisu, lalu bungkus plastik wrap rapat. Awet 3-5 hari tanpa membusuk.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -1087,7 +1087,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 4,
+        durationDays: 5,
         tips: {
           ko: '씻지 말고 포장 봉지 그대로 겉을 키친타월로 가볍게 싸서 채소실에 세워 보관하며 3~4일 내에 드세요. 물기가 닿으면 금방 물러집니다.',
           en: 'Do not wash. Keep in original bag, wrap in paper towels, and store upright in the crisper drawer. Use in 3–4 days.',
@@ -1099,7 +1099,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Não lave. Mantenha no saco, envolva em papel-toalha e guarde em pé na gaveta. Consuma em até 4 dias.',
           id: 'Jangan cuci. Biarkan di kemasan, alas tisu, lalu taruh tegak di laci sayur. Gunakan dalam 3-4 hari.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'MFDS']
       },
       freezer: {
         durationDays: 90,
@@ -1114,7 +1114,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Corte a base, desfie e congele. Congelar realça o sabor (ácido guanílico). Adicione direto nas receitas sem descongelar.',
           id: 'Potong pangkal, suwir, lalu bekukan. Bekukan meningkatkan rasa (asam guanilat). Langsung masak tanpa dicairkan.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -1155,7 +1155,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Não lave. Sacuda a sujeira, embrulhe em jornal e coloque no saco com furos. Guarde em pé com as raízes para baixo.',
           id: 'Jangan cuci. Bersihkan tanah, bungkus koran, masukkan kantong berlubang. Simpan tegak dengan akar di bawah.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -1184,7 +1184,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 14,
+        durationDays: 7,
         tips: {
           ko: '물기를 닦고 꼭지 부분을 아래로 하여 키친타월로 감싸 지퍼백에 세워 냉장 보관하세요. 건조를 막아 2주간 신선합니다.',
           en: 'Dry surface moisture, wrap stems down in paper towels, and store upright in a zipper bag. Stays fresh for 2 weeks.',
@@ -1196,7 +1196,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Seque a umidade, embrulhe os cabos para baixo em papel-toalha e guarde em pé. Mantém-se fresco por 2 semanas.',
           id: 'Keringkan air, bungkus tangkai di bawah dengan tisu, lalu simpan tegak di kantong. Segar selama 2 minggu.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -1225,7 +1225,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 7,
+        durationDays: 5,
         tips: {
           ko: '수분에 매우 약하므로 씻지 말고 키친타월로 감싸 지퍼백에 세워서 보관하세요. 눕혀두면 자체 무게로 쉽게 짓무릅니다.',
           en: 'Very sensitive to moisture. Wrap unwashed in paper towels and store upright in a bag. Lying flat causes bruising under its own weight.',
@@ -1237,7 +1237,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Muito sensível à umidade. Não lave, embrulhe em papel-toalha e guarde em pé. Deitar as folhas faz com que amassem e estraguem.',
           id: 'Sangat sensitif lembap. Jangan cuci, bungkus tisu, simpan tegak di kantong. Menyimpan mendatar membuatnya mudah busuk.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -1265,7 +1265,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 30,
+        durationDays: 21,
         tips: {
           ko: '씻지 않은 상태에서 신문지에 포장한 뒤 뿌리가 아래로 향하도록 세워 야채칸에 보관하세요. 손질한 배추는 밀봉 후 7일 이내에 드세요.',
           en: 'Wrap unwashed cabbage in newspaper and store upright with roots down in the crisper. Cut cabbage should be sealed and consumed in 7 days.',
@@ -1277,7 +1277,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Embrulhe sem lavar em jornal e guarde em pé com a raiz para baixo. Se cortada, sele e consuma em até 7 dias.',
           id: 'Bungkus tanpa dicuci dengan koran, simpan tegak dengan akar di bawah di laci sayur. Sawi potong harus disegel dan digunakan dalam 7 hari.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -1306,7 +1306,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 10,
+        durationDays: 7,
         tips: {
           ko: '씻지 말고 심지 부분에 젖은 키친타월을 댄 뒤 통째로 랩으로 팽팽하게 감싸 보관하세요. 칼이 닿으면 단면이 갈변하므로 손으로 뜯어 조리하세요.',
           en: 'Do not wash. Cover the stem core with a damp paper towel and wrap tightly in plastic wrap. Hand-tear to prevent browning caused by metal knives.',
@@ -1318,7 +1318,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Não lave. Cubra o talo com papel-toalha úmido e embrulhe firme em filme plástico. Rasgue com as mãos para evitar que escureça com faca.',
           id: 'Jangan cuci. Tutup bagian batang dengan tisu basah, lalu bungkus rapat plastik wrap. Robek dengan tangan agar tidak cokelat karena pisau.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['RDA', 'USDA', 'FSA']
       }
     }
   },
@@ -1347,7 +1347,7 @@ export const vegetableIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 4,
+        durationDays: 10,
         tips: {
           ko: '밑동을 살짝 자르고 찬물을 조금 담은 컵에 세워 꽂은 후 비닐봉지를 씌워 냉장 보관하세요. 수분 유지가 핵심입니다.',
           en: 'Trim ends slightly, stand upright in a glass with a little cold water, cover with a plastic bag, and refrigerate. Moisture retention is key.',
@@ -1415,7 +1415,7 @@ export const vegetableIngredients: Ingredient[] = [
           pt: 'Submirja os brotos totalmente em água fria em um pote hermético e troque a água diariamente. Evitar o ar previne o escurecimento.',
           id: 'Rendam toge sepenuhnya dalam air dingin di wadah kedap, ganti air setiap hari. Mencegah kontak udara menjaga warna tetap putih.'
         },
-        sources: ['USDA', 'MFDS', 'WHO']
+        sources: ['RDA', 'MFDS']
       }
     }
   }

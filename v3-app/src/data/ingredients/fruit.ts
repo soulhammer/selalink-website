@@ -31,24 +31,9 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Pendure em um suporte e embrulhe o pedúnculo firmemente com filme plástico para retardar o amadurecimento.',
           id: 'Gantung di gantungan pisang, dan bungkus batangnya rapat dengan plastik wrap untuk memperlambat kematangan.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'WHO']
       },
-      fridge: {
-        durationDays: 5,
-        tips: {
-          ko: '완전히 숙성되어 단맛이 오른 바나나는 낱개로 잘라 비닐백에 밀봉해 냉장 야채칸에 보관하세요. 껍질은 까맣게 갈변하지만 과육의 연화를 막아 며칠 더 신선하게 먹을 수 있습니다.',
-          en: 'Once fully ripe and sweet, separate and seal individual bananas in plastic bags, then store in the crisper drawer. The skin will darken, but the flesh will remain firm and fresh for a few more days.',
-          ja: '十分に熟して甘くなったバナナは、1本ずつ切り離してビニール袋に密閉し、冷蔵庫の野菜室で保存してください。皮は黒く変色しますが、果肉が柔らかくなるのを防ぎ、さらに数日間新鮮に保てます。',
-          zh: '完全熟透且变甜的香蕉，请拆分成单个并密封在塑料袋中，然后存放在冷藏蔬菜抽屉中。虽然表皮会变黑，但果肉仍能保持紧实新鲜数日。',
-          es: 'Una vez completamente maduro y dulce, separe y selle los plátanos individuales en bolsas de plástico, luego guárdelos en el cajón de verduras. La piel se oscurecerá, pero la pulpa se mantendrá firme y fresca por unos días más.',
-          fr: 'Une fois bien mûres et sucrées, séparez les bananes et scellez-les individuellement dans des sacs en plastique, puis stockez-les dans le bac à légumes. La peau va noircir, mais la chair restera ferme et fraîche pendant quelques jours de plus.',
-          de: 'Sobald sie vollreif und süß sind, trennen Sie die Bananen und verschließen Sie sie einzeln in Plastiktüten. Lagern Sie sie dann im Gemüsefach. Die Schale wird sich dunkel verfärben, aber das Fruchtfleisch bleibt noch einige Tage fest und frisch.',
-          pt: 'Depois de maduras e doces, separe e embale as bananas individualmente em sacos plásticos, guardando na gaveta de vegetais. A casca escurecerá, mas a polpa continuará firme e fresca por mais alguns dias.',
-          id: 'Setelah benar-benar matang dan manis, pisahkan dan segel pisang satu per satu dalam kantong plastik, lalu simpan di laci sayur kulkas. Kulitnya akan menghitam, tetapi daging buahnya tetap kencang dan segar selama beberapa hari lagi.'
-        },
-        sources: ['MFDS', 'FSA']
       }
-    }
   },
   {
     id: 'apple',
@@ -80,7 +65,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'As maçãs liberam gás etileno que estraga outros vegetais. Embrulhe individualmente em filme plástico.',
           id: 'Apel melepaskan gas etilen yang merusak sayuran lain. Bungkus satu per satu dengan plastik wrap.'
         },
-        sources: ['RDA', 'USDA']
+        sources: ['RDA', 'USDA', 'MFDS']
       }
     }
   },
@@ -114,10 +99,10 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Coloque com o pedúnculo para baixo sem sobrepor em uma cesta. Refrigerar tomates verdes interrompe o amadurecimento.',
           id: 'Letakkan bagian tangkai di bawah tanpa bertumpuk di keranjang. Mendinginkan tomat mentah merusak rasanya.'
         },
-        sources: ['USDA', 'RDA']
+        sources: ['RDA', 'USDA', 'CDC']
       },
       fridge: {
-        durationDays: 10,
+        durationDays: 7,
         tips: {
           ko: '붉게 완숙된 토마토는 씻어서 물기를 닦은 후 꼭지를 떼어내고(꼭지에 곰팡이가 피기 쉬움) 밀폐 보관하세요.',
           en: 'For fully ripe red tomatoes, wash, dry, remove stems (stems mold easily), and store in an airtight container.',
@@ -129,7 +114,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Para tomates bem maduros, lave, seque, retire o pedúnculo (que mofa facilmente) e guarde em pote vedado.',
           id: 'Untuk tomat matang merah, cuci, keringkan, buang tangkainya (mudah berjamur), lalu simpan kedap udara.'
         },
-        sources: ['USDA', 'RDA']
+        sources: ['RDA', 'USDA', 'CDC']
       }
     }
   },
@@ -151,7 +136,7 @@ export const fruitIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 5,
+        durationDays: 4,
         tips: {
           ko: '물이 닿으면 금방 물러집니다. 꼭지를 떼지 말고 씻지 않은 상태에서 밀폐용기 바닥에 키친타월을 깔고 겹치지 않게 담아 보관하세요.',
           en: 'Moisture ruins strawberries. Keep unwashed with stems on, line container with paper towel, and do not layer.',
@@ -163,7 +148,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'A água amolece os morangos. Guarde-os secos com pedúnculo, em pote forrado com papel-toalha e sem sobrepor.',
           id: 'Air membuat stroberi cepat busuk. Jangan dicuci, biarkan tangkainya, alasi wadah dengan tisu dapur.'
         },
-        sources: ['RDA', 'USDA']
+        sources: ['MFDS', 'USDA']
       }
     }
   },
@@ -185,7 +170,7 @@ export const fruitIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 10,
+        durationDays: 7,
         tips: {
           ko: '겉면의 하얀 가루는 신선도를 유지해 주는 천연 보호막입니다. 씻지 않은 상태로 키친타월을 깐 밀폐용기에 담아 보관하세요.',
           en: 'The white bloom is a natural protective layer. Store unwashed in an airtight container lined with paper towel.',
@@ -197,10 +182,10 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'O pó branco é uma proteção natural. Guarde sem lavar em pote hermético forrado com papel-toalha.',
           id: 'Lapisan putih adalah pelindung alami. Simpan tanpa dicuci di wadah kedap udara beralas tisu dapur.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'RDA']
       },
       freezer: {
-        durationDays: 270,
+        durationDays: 365,
         tips: {
           ko: '냉동 보관할 때는 물로 깨끗이 씻은 후 물기를 완벽히 건조하여 지퍼백에 넣어 얼려 두세요.',
           en: 'For freezing, wash thoroughly, dry completely, and freeze in sealed bags.',
@@ -212,7 +197,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Para congelar, lave bem, seque completamente e congele em sacos herméticos.',
           id: 'Untuk dibekukan, cuci bersih, keringkan sepenuhnya, lalu bekukan di kantong segel.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'RDA']
       }
     }
   },
@@ -234,7 +219,7 @@ export const fruitIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 5,
+        durationDays: 7,
         tips: {
           ko: '⚠️ 먹다 남은 수박을 반으로 잘라 랩만 씌워 냉장 보관 시 표면 세균이 3,000배 이상 증식해 배탈을 유발합니다. 껍질을 썰어내고 과육만 깍둑썰기하여 밀폐용기에 담아 보관하세요.',
           en: '⚠️ Wrapping halved watermelon with plastic wrap causes 3,000x bacterial growth. Cut rind off, cube the flesh, and store in airtight containers.',
@@ -280,7 +265,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Lave com bicarbonato, seque e guarde em saco na gaveta de vegetais. Embulhe metade cortada com o lado plano para cima.',
           id: 'Cuci dengan soda kue, keringkan, simpan di laci sayur. Bungkus lemon potongan dengan bagian datar menghadap atas.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'FSA']
       }
     }
   },
@@ -412,7 +397,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Retire as estragadas. Coloque folhas de jornal e separe as frutas em local fresco e com sombra.',
           id: 'Buang yang busuk segera. Alasi koran berlapis dan beri jarak antaruah di tempat sejuk dan gelap.'
         },
-        sources: ['RDA', 'USDA']
+        sources: ['MFDS', 'USDA']
       },
       fridge: {
         durationDays: 21,
@@ -427,7 +412,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Lave em água salgada para retirar esporos de mofo, seque, embrulhe em jornal e guarde em sacos.',
           id: 'Cuci dengan air garam untuk membunuh spora jamur, keringkan, bungkus koran, lalu segel di kantong plastik.'
         },
-        sources: ['RDA', 'USDA']
+        sources: ['MFDS', 'USDA']
       }
     }
   },
@@ -449,7 +434,7 @@ export const fruitIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 5,
+        durationDays: 7,
         tips: {
           ko: '만졌을 때 단단한 상태라면 실온 보관하여 후숙하세요. 바나나나 사과와 함께 비닐봉지에 넣어두면 후숙 가스(에틸렌)로 인해 2~3일 만에 말랑해집니다.',
           en: 'Ripen at room temperature if hard. Putting in a bag with bananas or apples speeds up ripening.',
@@ -461,10 +446,10 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Amadureça em temperatura ambiente se estiver duro. Colocar em saco com bananas ou maçãs acelera o processo.',
           id: 'Matangkan di suhu ruang jika keras. Taruh dalam kantong bersama pisang atau apel mempercepat matang.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'RDA']
       },
       fridge: {
-        durationDays: 14,
+        durationDays: 30,
         tips: {
           ko: '후숙이 끝나 살짝 눌렀을 때 부드러우면 비닐팩에 담아 냉장 보관하세요. 신선함이 최대 2주까지 지속됩니다.',
           en: 'Once ripe and soft, place in a plastic bag and refrigerate to extend freshness up to 2 weeks.',
@@ -476,7 +461,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Uma vez maduro e macio, coloque em saco plástico e refrigere para prolongar por até 2 semanas.',
           id: 'Setelah matang dan empuk, masukkan ke kantong plastik dan dinginkan untuk memperpanjang awet hingga 2 minggu.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'RDA']
       }
     }
   },
@@ -504,7 +489,7 @@ export const fruitIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 60,
+        durationDays: 30,
         tips: {
           ko: '사과와 보관하면 에틸렌 가스로 인해 빨리 무르므로 반드시 분리하세요. 신문지로 개별 포장한 뒤 비닐팩에 넣어 김치냉장고(0~1℃)에 보관하는 것이 최선입니다.',
           en: 'Must separate from apples as ethylene gas spoils pears quickly. Wrap individually in newspaper and store in a plastic bag in a 0–1°C drawer.',
@@ -516,7 +501,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Separe das maçãs, pois o gás etileno estraga pêras rapidamente. Embrulhe em jornal e guarde a 0-1 °C na geladeira.',
           id: 'Wajib dipisah dari apel karena gas etilen merusak pir dengan cepat. Bungkus koran, simpan di laci 0–1°C.'
         },
-        sources: ['USDA', 'EFSA']
+        sources: ['RDA', 'USDA']
       }
     }
   },
@@ -545,7 +530,7 @@ export const fruitIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 7,
+        durationDays: 14,
         tips: {
           ko: '참외는 아열대 과채류로 4℃ 이하에서는 저온 장해(껍질 패임, 씨 갈변)가 생깁니다. 씻지 말고 신문지로 감싸 온도 변화가 적은 5~7℃ 야채칸에 보관하세요.',
           en: 'Subtropical fruit vulnerable to under 4°C (causes skin pitting and seed browning). Wrap unwashed in newspaper and store in 5–7°C crisper drawers.',
@@ -586,7 +571,7 @@ export const fruitIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 30,
+        durationDays: 21,
         tips: {
           ko: '0~-1℃ 저온과 고습도(90~95%)에서 가장 잘 보관됩니다. 물기를 닦고 꼭지가 바닥을 향하도록 세워 키친타월로 싸서 지퍼백에 밀봉해 보관하세요.',
           en: 'Best stored at 0 to -1°C and high humidity (90–95%). Dry surface, stand with stems facing down, wrap in paper towels, and seal in bags.',
@@ -666,7 +651,7 @@ export const fruitIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 5,
+        durationDays: 14,
         tips: {
           ko: '바람이 잘 통하는 서늘한 실온에 서로 닿지 않게 종이상자나 바구니에 담아 보관하세요. 귤끼리 닿으면 쉽게 곰팡이가 핍니다.',
           en: 'Store in a cool, ventilated room in a box or basket. Keep them separated; touching accelerates mold growth.',
@@ -678,7 +663,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Guarde em local fresco e ventilado em caixa ou cesta. Evite contato direto entre elas, pois acelera o aparecimento de mofo.',
           id: 'Simpan di suhu ruang sejuk dan berangin dalam wadah. Pisahkan jeruk; saling menempel mempercepat pertumbuhan jamur.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['MFDS', 'RDA']
       },
       fridge: {
         durationDays: 7,
@@ -693,7 +678,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Refrigere na gaveta de vegetais (5-7 °C) com papel no fundo. Temperaturas muito baixas diminuem a doçura.',
           id: 'Masukkan kulkas di laci sayur (5-7°C) dengan alas kertas koran atau tisu. Suhu terlalu dingin mengurangi manis.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['MFDS', 'RDA']
       }
     }
   },
@@ -721,7 +706,7 @@ export const fruitIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 3,
+        durationDays: 5,
         tips: {
           ko: '단단한 망고는 후숙이 필요하므로 실온(20℃ 안팎)에 두세요. 손으로 만졌을 때 살짝 말랑해지고 향이 진해지면 완숙된 것입니다.',
           en: 'Unripe mangoes need ripening at room temp (around 20°C). Ripe when slightly soft to the touch and highly aromatic.',
@@ -733,10 +718,10 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Mangas verdes precisam maturar em temp. ambiente (cerca de 20 °C). Estará madura quando estiver macia ao toque e aromática.',
           id: 'Mangga keras perlu dimatangkan di suhu ruang (sekitar 20°C). Mangga matang jika terasa agak empuk saat ditekan dan wangi.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'FDA']
       },
       fridge: {
-        durationDays: 4,
+        durationDays: 7,
         tips: {
           ko: '후숙이 끝난 망고는 신문지에 감싸 냉장실 야채칸에 보관해 3~4일 이내에 드세요. 덜 익은 채 냉장하면 저온장해로 후숙되지 않고 썩습니다.',
           en: 'Once ripe, wrap in newspaper and store in the crisper drawer; consume in 3–4 days. Refrigerating unripe mangoes stops ripening and causes rot.',
@@ -748,7 +733,7 @@ export const fruitIngredients: Ingredient[] = [
           pt: 'Uma vez madura, embrulhe em jornal e guarde na gaveta de vegetais; consuma em até 4 dias. Refrigerar verde causa danos por frio e apodrece.',
           id: 'Jika matang, bungkus koran dan taruh di laci sayur; konsumsi dalam 3-4 hari. Kulkas merusak mangga mentah sehingga busuk tanpa matang.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'FDA']
       }
     }
   }

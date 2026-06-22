@@ -31,10 +31,10 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Resseca se deixada aberta. Vede em sacos e aqueça no micro-ondas com um copo de água para reidratar.',
           id: 'Mengering jika dibiarkan terbuka. Segel dalam kantong plastik dan microwave dengan secangkir air.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'FSA']
       },
       freezer: {
-        durationDays: 60,
+        durationDays: 30,
         tips: {
           ko: '한 조각씩 랩으로 감싸진 지퍼백에 넣어 냉동하세요. 에어프라이어 180도에 5분 돌리면 갓 구운 피자처럼 맛있어집니다.',
           en: 'Wrap slices individually in plastic wrap and freeze. Bake at 180°C for 5 minutes in an air fryer for a fresh taste.',
@@ -46,7 +46,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Embrulhe as fatias individualmente e congele. Aqueça na air fryer a 180°C por 5 minutos para dourar.',
           id: 'Bungkus potongan per lembar lalu bekukan. Panggang di air fryer 180°C selama 5 menit agar renyah.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'FSA']
       }
     }
   },
@@ -81,24 +81,9 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Vulnerável à luz e oxigênio. Guarde em saco escuro hermético com válvula em temperatura ambiente.',
           id: 'Biji kopi rentan terhadap cahaya dan oksigen. Simpan di wadah kedap udara gelap dengan katup aroma di suhu ruang.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['FDA', 'USDA']
       },
-      freezer: {
-        durationDays: 180,
-        tips: {
-          ko: '⚠️ 냄새를 매우 강력하게 흡수하므로 밀봉을 완벽하게(진공팩 추천) 하지 않으면 냉장고 냄새가 뱁니다. 소분 지퍼백 이중 밀봉 필수.',
-          en: '⚠️ Coffee absorbs odors extremely well. Vacuum seal or double bag to prevent freezer odors from ruining the flavor.',
-          ja: '⚠️ 周りの臭いを強力に吸収するため、密閉が不十分だと冷蔵庫の臭いが移ります。真空パックか二重密閉が必須です。',
-          zh: '⚠️ 咖啡豆极易吸附异味。如果密封不完美（推荐真空包装），会吸附冰箱异味变质。必须进行双重复合密封。',
-          es: '⚠️ El café absorbe olores fácilmente. Selle al vacío o use doble bolsa para evitar olores del congelador.',
-          fr: '⚠️ Le café occupe beaucoup les odeurs. Scellez sous vide ou doublez le sachet pour éviter les odeurs du congélateur.',
-          de: '⚠️ Kaffee nimmt Gerüche extrem auf. Vakuumieren oder doppelt verpacken, um Geruchsübertragung zu verhindern.',
-          pt: '⚠️ O café absorve odores facilmente. Vede a vácuo ou use saco duplo para evitar odores do congelador.',
-          id: '⚠️ Kopi sangat mudah menyerap bau. Segel vakum atau bungkus ganda agar bau freezer tidak merusak rasa.'
-        },
-        sources: ['USDA', 'MFDS']
       }
-    }
   },
   {
     id: 'chicken-leftover',
@@ -118,8 +103,23 @@ export const etcIngredients: Ingredient[] = [
       id: 'Sisa ayam goreng'
     },
     storage: {
+      freezer: {
+        durationDays: 14,
+        tips: {
+          ko: '가급적 냉동은 권장하지 않으나, 냉동 시 14일 이내 소진하고 해동 시 닭 비린내 발생에 유의하여 완전히 데워 드세요.',
+          en: 'Freezing is not recommended due to odor. Freeze up to 14 days and reheat thoroughly before eating.',
+          ja: 'なるべく冷凍は推奨しませんが、冷凍する場合は14日以内に消費し、解凍時のにおいに注意して完全に温めて食べてください。',
+          zh: '不建议冷冻。如果冷冻，请在14天内食用完，注意解冻时可能会产生鸡肉腥味，需彻底加热后食用。',
+          es: 'No se recomienda congelar por el olor. Congele hasta 14 días y recaliente completamente antes de consumir.',
+          fr: 'Congélation non recommandée. Congelez 14 jours maximum et réchauffez soigneusement pour éviter les odeurs.',
+          de: 'Einfrieren wegen Geruchsbildung nicht empfohlen. Maximal 14 Tage einfrieren und vor dem Verzehr gründlich erhitzen.',
+          pt: 'Não é recomendado congelar devido ao odor. Congele por até 14 dias e reaqueça bem antes de consumir.',
+          id: 'Tidak disarankan dibekukan karena bau kulkas. Bekukan maksimal 14 hari dan panaskan kembali hingga merata.'
+        },
+        sources: ['USDA', 'MFDS']
+      },
       fridge: {
-        durationDays: 3,
+        durationDays: 2,
         tips: {
           ko: '밀봉 지퍼백에 담아 보관하고, 3일 내 드세요. 다시 데울 때 전자레인지는 눅눅해지므로 에어프라이어 170도에서 5분가량 구우면 바삭함이 복구됩니다.',
           en: 'Store in bags and consume in 3 days. Microwave makes it soggy; reheat in an air fryer at 170°C for 5 minutes for crispiness.',
@@ -166,10 +166,10 @@ export const etcIngredients: Ingredient[] = [
           pt: '⚠️ O sistema imune do bebê é frágil. Descarte sobras com saliva. Não guarde porções frescas por mais de 2 dias.',
           id: '⚠️ Sistem imun bayi lemah. Buang sisa yang terkena ludah. Jangan simpan di kulkas lebih dari 2 hari.'
         },
-        sources: ['MFDS', 'CDC', 'WHO']
+        sources: ['CDC', 'FDA', 'MFDS']
       },
       freezer: {
-        durationDays: 14,
+        durationDays: 30,
         tips: {
           ko: '실리콘 큐브나 모유저장팩에 한 끼 분량씩 얇게 팩팅하여 급속 냉동하고, 2주 이내에 중탕 또는 전용 찜기로 해동하여 섭취하세요.',
           en: 'Freeze in single-meal portions in silicone cubes or bags. Thaw within 2 weeks using a warm water bath or steamer.',
@@ -181,7 +181,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Congele em porções em formas de silicone. Degele em até 2 semanas em banho-maria ou vaporizador.',
           id: 'Bekukan porsi sekali makan dalam cetakan silikon. Cairkan dalam 2 minggu dengan direndam air hangat.'
         },
-        sources: ['MFDS', 'CDC', 'WHO']
+        sources: ['CDC', 'FDA', 'MFDS']
       }
     }
   },
@@ -204,7 +204,7 @@ export const etcIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 30,
+        durationDays: 15,
         tips: {
           ko: '불포화지방산이 풍부해 산소와 접촉하면 쉽게 찌든 내(산패)가 납니다. 지퍼백에 산소흡수제와 함께 완전 밀봉하여 어두운 상온에 두세요.',
           en: 'High unsaturated fat causes rapid oxidation. Seal tightly with oxygen absorbers in a dark pantry.',
@@ -216,10 +216,10 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Gorduras insaturadas oxidam rapidamente. Vede bem com absorvedores de oxigênio em local escuro.',
           id: 'Lemak tak jenuh memicu oksidasi cepat. Segel rapat dengan penyerap oksigen di tempat gelap.'
         },
-        sources: ['USDA', 'FDA']
+        sources: ['MFDS', 'USDA']
       },
       fridge: {
-        durationDays: 180,
+        durationDays: 90,
         tips: {
           ko: '여름철에는 실온 보관 시 곰팡이가 피어 아플라톡신(발암 독소)이 생길 수 있으므로 지퍼백에 꽉 밀봉하여 냉장 보관하는 것이 비교적 안전합니다.',
           en: 'Refrigerate in tightly sealed bags during hot weather to prevent toxic mold (aflatoxin) growth.',
@@ -231,10 +231,10 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Refrigere em sacos bem vedados sob clima quente para evitar o crescimento de mofo tóxico (aflatoxina).',
           id: 'Dinginkan dalam kantong tersegel rapat saat cuaca panas untuk mencegah jamur beracun (aflatoksin).'
         },
-        sources: ['USDA', 'FDA']
+        sources: ['MFDS', 'USDA']
       },
       freezer: {
-        durationDays: 365,
+        durationDays: 180,
         tips: {
           ko: '수분과 산소를 차단하는 지퍼백에 넣어 이중 밀봉한 뒤 냉동 보관하는 것이 견과류의 고소함을 끝까지 지키는 가장 좋은 보관법입니다.',
           en: 'Double-bagging and freezing is the best way to prevent rancidity and preserve the nutty crunch.',
@@ -246,7 +246,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Usar saco duplo e congelar é a melhor forma de evitar o ranço e manter a crocância típica.',
           id: 'Bungkus ganda dan bekukan adalah cara terbaik mencegah tengik dan menjaga kerenyahannya.'
         },
-        sources: ['USDA', 'FDA']
+        sources: ['MFDS', 'USDA']
       }
     }
   },
@@ -286,7 +286,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Evite a queima por congelamento. Pressione filme plástico sobre o sorvete aberto, feche e guarde de cabeça para baixo ao fundo. Nunca recongele sorvete derretido.',
           id: 'Cegah freezer burn. Tempel plastik wrap langsung di permukaan es krim, tutup, simpan terbalik di bagian dalam. Jangan bekukan lagi es cair.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['FDA', 'MFDS']
       }
     }
   },
@@ -314,7 +314,7 @@ export const etcIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 5,
+        durationDays: 7,
         tips: {
           ko: '개봉 후 탄산 유실을 막으려면 페트병을 찌그러뜨려 빈 공간을 줄인 뒤 뚜껑을 꽉 닫으세요. 차가울수록 탄산 기체가 잘 녹아 보존됩니다.',
           en: 'To prevent loss of carbonation, squeeze the plastic bottle to minimize empty space and close tight. Keep cold; lower temperatures retain gas better.',
@@ -326,7 +326,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Para não perder o gás, esprema a garrafa para reduzir o ar e feche bem. Mantenha gelado para reter o gás.',
           id: 'Cegah soda hilang. Remas botol plastik untuk meminimalkan ruang kosong lalu tutup rapat. Simpan dingin agar gas awet.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['USDA']
       }
     }
   },
@@ -354,7 +354,7 @@ export const etcIngredients: Ingredient[] = [
     },
     storage: {
       freezer: {
-        durationDays: 180,
+        durationDays: 90,
         tips: {
           ko: '밀봉 상태가 불량하면 냉동실 안의 건조한 냉기로 인해 피가 깨지고 마르는 냉동장해(Freezer burn)가 생깁니다. 클립이나 테이프로 입구를 완벽히 밀봉하세요.',
           en: 'Poor sealing leads to dry cold air cracking the skin, causing freezer burn. Seal the opening tightly with clips or tape.',
@@ -406,7 +406,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Melhor guardado em local escuro a 15-18 °C. Evite a geladeira pois absorve cheiros e causa esbranquiçamento (sugar bloom) por condensação; se necessário, sele bem.',
           id: 'Terbaik di ruang gelap suhu 15–18°C. Kulkas memicu serap bau and sugar bloom (putih di permukaan) karena kondensasi; segel rapat.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['FDA', 'USDA']
       }
     }
   }

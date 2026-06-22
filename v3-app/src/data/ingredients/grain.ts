@@ -31,7 +31,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'Mofa facilmente em climas úmidos. Mantenha fechado em local seco e fresco, e consuma em 3 dias.',
           id: 'Mudah berjamur di cuaca lembap. Simpan tertutup di tempat yang kering dan sejuk; makan dalam 3 hari.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'FSA']
       },
       freezer: {
         durationDays: 90,
@@ -46,7 +46,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'A refrigeração resseca o pão e acelera o envelhecimento. Embrulhe as fatias individualmente e congele. Toste diretamente.',
           id: 'Mendinginkannya membuat roti kering dan keras. Bungkus per lembar lalu bekukan. Panggang langsung saat beku.'
         },
-        sources: ['USDA', 'MFDS']
+        sources: ['USDA', 'FSA']
       }
     }
   },
@@ -69,7 +69,7 @@ export const grainIngredients: Ingredient[] = [
     },
     storage: {
       freezer: {
-        durationDays: 90,
+        durationDays: 120,
         tips: {
           ko: '말랑한 상태에서 즉시 지퍼백에 소분하여 급속 냉동하세요. 굳은 뒤 얼리면 해동 시 푸석해지고 찢어집니다.',
           en: 'Freeze immediately while soft in portioned freezer bags. Freezing after it stales ruins texture.',
@@ -81,7 +81,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'Congele imediatamente enquanto estiver macio em sacos de congelador. Congelar depois de duro arruína a textura.',
           id: 'Bekukan segera selagi empuk dalam kantong pembeku. Membekukan setelah keras merusak teksturnya.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['MFDS', 'RDA']
       }
     }
   },
@@ -103,7 +103,7 @@ export const grainIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 365,
+        durationDays: 90,
         tips: {
           ko: '햇빛을 받으면 건조해져 쌀알이 갈라지고 영양이 소실됩니다. 밀폐하여 서늘하고 어두운 상온에 두거나, 생수용 페트병에 담아 김치냉장고에 넣으면 쌀벌레가 생기지 않습니다.',
           en: 'Sunlight dehydrates and cracks grains. Seal in dark containers at room temp, or pour into clean plastic bottles and refrigerate to prevent weevils.',
@@ -115,7 +115,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'A luz solar racha o grão. Vede em potes escuros ou guarde em garrafas plásticas limpas na geladeira para evitar caruncho.',
           id: 'Sinar matahari merusak beras. Segel di wadah gelap, atau masukkan botol plastik lalu dinginkan agar bebas kutu.'
         },
-        sources: ['RDA', 'WHO']
+        sources: ['RDA', 'MFDS']
       }
     }
   },
@@ -156,7 +156,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'Sensível à umidade e insetos. Após aberto, guarde no saco hermético em local seco e fresco. Refrigerar causa condensação e mofo.',
           id: 'Rentan lembap dan kutu. Setelah dibuka, simpan di wadah kedap suhu ruang sejuk. Hindari kulkas (kondensasi dan jamur).'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['USDA', 'FDA']
       }
     }
   },
@@ -197,7 +197,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'Insetos furam embalagens de papel facilmente. Transfira para pote hermético de vidro ou plástico e guarde em local fresco.',
           id: 'Kantong kertas mudah ditembus kutu. Segera pindahkan ke wadah kedap plastik atau kaca di tempat sejuk.'
         },
-        sources: ['USDA', 'FSA']
+        sources: ['USDA', 'MFDS']
       },
       freezer: {
         durationDays: 365,
@@ -212,7 +212,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'No verão ou se não for usar logo, feche bem e congele. Congelar elimina ovos de insetos e estende a validade para 1 ano.',
           id: 'Saat cuaca panas atau penyimpanan lama, segel dan bekukan. Membekukan mematikan telur kutu dan awet hingga 1 tahun.'
         },
-        sources: ['USDA', 'FSA']
+        sources: ['USDA', 'MFDS']
       }
     }
   },
@@ -241,7 +241,7 @@ export const grainIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 3,
+        durationDays: 14,
         tips: {
           ko: '떡은 냉장 보관 시 전분 노화로 쉽게 굳고 곰팡이가 잘 핍니다. 곰팡이 독소는 가열해도 남아 식중독을 일으키므로 핀 것은 전량 폐기해야 합니다.',
           en: 'Refrigeration causes starch aging (hardening) and mold. Mold toxins remain after cooking and cause food poisoning; discard fully if moldy.',
@@ -253,10 +253,10 @@ export const grainIngredients: Ingredient[] = [
           pt: 'Refrigerar endurece o amido e favorece o mofo. Toxinas de mofo resistem ao cozimento e causam infecção; descarte tudo se mofar.',
           id: 'Kulkas mengeraskan pati dan memicu jamur. Racun jamur tidak hilang saat dimasak; wajib buang semuanya jika berjamur.'
         },
-        sources: ['MFDS', 'WHO/FAO']
+        sources: ['MFDS', 'RDA']
       },
       freezer: {
-        durationDays: 180,
+        durationDays: 90,
         tips: {
           ko: '남은 떡은 즉시 소분하여 지퍼백에 공기를 빼고 밀봉 냉동하고, 요리할 때는 차가운 물에 살짝 불렸다가 사용하면 식감이 쫄깃합니다.',
           en: 'Portion immediately, remove air from bags, and freeze. Soak in cold water before cooking to restore a chewy texture.',
@@ -268,7 +268,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'Divida em porções, retire o ar e congele. Mergulhe em água fria antes de cozinhar para recuperar a maciez.',
           id: 'Bagi per porsi, buang udara dari kantong, lalu bekukan. Rendam air dingin sebelum dimasak agar kembali kenyal.'
         },
-        sources: ['MFDS', 'WHO/FAO']
+        sources: ['MFDS', 'RDA']
       }
     }
   },
@@ -297,7 +297,7 @@ export const grainIngredients: Ingredient[] = [
     },
     storage: {
       fridge: {
-        durationDays: 80,
+        durationDays: 180,
         tips: {
           ko: '쌀겨와 배아에 지방 성분이 많아 실온에 두면 기름 쩐내가 나고 쌀벌레가 생깁니다. 밀폐 펫트병이나 용기에 담아 반드시 냉장 보관하는 것이 향을 지키는 비결입니다.',
           en: 'Bran and germ contain oils that go rancid and attract weevils at room temp. Store in airtight bottles or containers in the fridge to preserve quality.',
@@ -309,7 +309,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'O farelo e o germe contêm óleos que oxidam e atraem carunchos em temp. ambiente. Guarde no pote hermético na geladeira.',
           id: 'Bekatul dan lembaga mengandung minyak yang bisa tengik dan mengundang kutu. Simpan di wadah kedap dalam kulkas.'
         },
-        sources: ['USDA', 'FSA']
+        sources: ['RDA', 'MFDS']
       },
       freezer: {
         durationDays: 180,
@@ -324,7 +324,7 @@ export const grainIngredients: Ingredient[] = [
           pt: 'Sele duplo em sacos antes de congelar. Evita perda de umidade e que o arroz pegue cheiro do congelador.',
           id: 'Segel ganda dalam kantong plastik sebelum dibekukan. Ini mencegah susut air dan bau kulkas.'
         },
-        sources: ['USDA', 'FSA']
+        sources: ['RDA', 'MFDS']
       }
     }
   }
