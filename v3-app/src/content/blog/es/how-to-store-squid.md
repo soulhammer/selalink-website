@@ -1,15 +1,22 @@
 ---
-title: "오징어 비린내 냉동실에 배는 이유? 냄새 가두는 오징어 보관법"
-description: "오징어는 내장을 방치하면 바로 비린내의 온상이 됩니다. 깔끔한 내장 제거와 지퍼백 2중 밀봉 보관 요령을 알아봅니다."
+title: "Cómo almacenar Calamar fresco: Guía científica de conservación"
+description: "Descubra la mejor temperatura, métodos y duración para conservar Calamar según las directrices oficiales de seguridad."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["오징어 보관법","해산물 보관","오징어 손질","냄새 차단","냉동 보관"]
+tags: ["Calamar","Guía de almacenamiento científicamente probada","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+authority: "<strong>NIFS & MFDS & USDA</strong>"
+steps:
+  - name: "Limpie tripas e impurezas de tentáculos — Evite olor a pescado 🦑"
+    text: "Las tripas del calamar y la suciedad de las ventosas causan el olor fuerte y bacterias. Abra el cuerpo, retire las tripas y la bolsa de tinta, y limpie los tentáculos bajo agua corriente para eliminar la suciedad."
+  - name: "Seque del todo y envuelva con film plástico — Proteja la textura 📦"
+    text: "Seque el calamar por completo con papel de cocina por dentro y por fuera. El agua residual forma cristales de hielo al congelar, ablandando el calamar al descongelarlo. Envuelva individualmente."
+  - name: "Coloque en una bolsa para congelar y selle doble — Evite olores 🛡️"
+    text: "Guarde los calamares envueltos en una bolsa para congelar, saque el aire y congele a menos de -18 °C. El sellado doble evita que el olor a marisco pase a otros alimentos congelados."
 ---
 
-Does frozen squid leave a fishy smell on other freezer items? Today, StoreSelf presents odor-locking squid storage hacks based on NIFS guidelines.
-
+¿Puso calamar fresco en el refrigerador y vio cómo olía a choquía y se dañaba la carne? Las tripas se pudren primero, por lo que limpiarlo y congelarlo es vital. Hoy, StoreSelf comparte trucos de manejo seguro.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Does frozen squid leave a fishy smell on other freezer items? Today, StoreSelf p
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>National Institute of Fisheries Science (NIFS) & Ministry of Food and Drug Safety</strong>.
+      Esta guía de conservación cumple con las directrices oficiales de: <strong>NIFS & MFDS & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. ¿Por qué almacenarlo así? Datos científicos
+
+Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guía de almacenamiento científicamente probada
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Remove Organs and Scrub Suckers with Salt — Odor Stop 🦑</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Limpie tripas e impurezas de tentáculos — Evite olor a pescado 🦑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Squid viscera decay very quickly, causing bad smell. Slice the body, scrape off all inner organs, and scrub the tentacle suckers with coarse salt.
+    Las tripas del calamar y la suciedad de las ventosas causan el olor fuerte y bacterias. Abra el cuerpo, retire las tripas y la bolsa de tinta, y limpie los tentáculos bajo agua corriente para eliminar la suciedad.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Wipe Moisture Fully and Wrap with Film — Texture Protection 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque del todo y envuelva con film plástico — Proteja la textura 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Wipe off all surface water with paper towels to prevent freezer burn. Wrap each squid flatly in plastic wrap.
+    Seque el calamar por completo con papel de cocina por dentro y por fuera. El agua residual forma cristales de hielo al congelar, ablandando el calamar al descongelarlo. Envuelva individualmente.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Double Seal in Freezer Bag — Prevent Freezer Smell 🛡️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Coloque en una bolsa para congelar y selle doble — Evite olores 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Place wrapped squid inside a heavy freezer bag and seal tightly. Double sealing locks in the fishy smell, protecting other freezer items.
+    Guarde los calamares envueltos en una bolsa para congelar, saque el aire y congele a menos de -18 °C. El sellado doble evita que el olor a marisco pase a otros alimentos congelados.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Reglas cruciales y precauciones
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ES] Freezing raw squid can make it chewy ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Retire vísceras, ojos y ventosas por completo sin falta</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ES] Blanching squid in boiling water with a drop of vinegar for 10 seconds before freezing preserves a tender and springy texture upon thawing.
+      Dejar las tripas causa una descomposición veloz, bacterias y mal olor. Límpielo de inmediato.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ES] Limit refrigeration to 24 hours ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Cocine el calamar crudo en 2 días máximo en el refrigerador</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ES] Seafood spoils extremely fast. Cook raw squid within a day of purchase, or freeze it immediately.
+      Los mariscos crudos se dañan rápido en refrigeración. Para guardarlos más tiempo, congélelos en porciones.
     </p>
   </div>
 </div>

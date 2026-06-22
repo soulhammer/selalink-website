@@ -1,15 +1,22 @@
 ---
-title: "올리브유 냉장고에 넣으면 굳는다? 향 보존하는 올리브유 보관법"
-description: "올리브유는 냉장고에 보관하면 하얀 결정이 생기며 고유의 고소한 풍미를 잃어버립니다. 올바른 실온 차단법을 알려드립니다."
+title: "Cómo almacenar Aceite de cocina / Oliva fresco: Guía científica de conservación"
+description: "Descubra la mejor temperatura, métodos y duración para conservar Aceite de cocina / Oliva según las directrices oficiales de seguridad."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["올리브유 보관법","올리브유 냉장금지","식용유 보관","산패 방지","주방 관리"]
+tags: ["Aceite de cocina / Oliva","Guía de almacenamiento científicamente probada","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "storeself"
+authority: "<strong>USDA & MFDS</strong>"
+steps:
+  - name: "No almacene en el refrigerador — Evite la solidificación ❌❄️"
+    text: "Refrigerar el aceite de oliva hace que se solidifique y cristalice en una pasta blanca. Este proceso repetido daña su sabor premium y nutrientes como el ácido oleico. Consérvelo a temperatura ambiente (14-18 °C)."
+  - name: "Evite la luz solar directa y use botellas oscuras — Bloquee la luz 🫙"
+    text: "La luz ultravioleta es la principal causa de rancidez en los aceites vegetales. Si viene en botella de plástico transparente, envuélvala con papel de aluminio o pásela a una botella de vidrio oscuro para protegerla de la luz."
+  - name: "Guarde en una alacena fresca lejos de fuentes de calor — Evite calor 🌬️"
+    text: "No guarde el aceite cerca de la estufa o el horno por conveniencia. El calor duplica la velocidad de oxidación. Consérvelo en una alacena fresca y oscura, alejado de cualquier fuente de calor."
 ---
 
-Did you put extra virgin olive oil in the fridge to preserve it? Today, StoreSelf shares UC Davis Olive Center and IOC-verified room temperature storage hacks.
-
+¿Guardó el aceite de oliva en el refrigerador para que durara más? Refrigerarlo hace que se solidifique en cristales blancos, destruyendo su aroma y grasas saludables. Hoy, StoreSelf comparte trucos a temperatura ambiente.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Did you put extra virgin olive oil in the fridge to preserve it? Today, StoreSel
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>International Olive Council (IOC) & UC Davis Olive Center</strong>.
+      Esta guía de conservación cumple con las directrices oficiales de: <strong>USDA & MFDS</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. ¿Por qué almacenarlo así? Datos científicos
+
+Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guía de almacenamiento científicamente probada
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Never Store in Refrigerator — Prevent Solidification ❌❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">No almacene en el refrigerador — Evite la solidificación ❌❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Olive oil fats solidify into white crystals below 8°C. Thawing restores liquidity but destroys the delicate olive aroma and flavor compounds.
+    Refrigerar el aceite de oliva hace que se solidifique y cristalice en una pasta blanca. Este proceso repetido daña su sabor premium y nutrientes como el ácido oleico. Consérvelo a temperatura ambiente (14-18 °C).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Use Dark Glass Bottles and Block Light 🫙</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evite la luz solar directa y use botellas oscuras — Bloquee la luz 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Light accelerates lipid oxidation. Always store olive oil in dark green or amber glass bottles, or wrap clear bottles in aluminum foil.
+    La luz ultravioleta es la principal causa de rancidez en los aceites vegetales. Si viene en botella de plástico transparente, envuélvala con papel de aluminio o pásela a una botella de vidrio oscuro para protegerla de la luz.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Keep in a Dark Cabinet Away from Stovetop Heat 🌬️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde en una alacena fresca lejos de fuentes de calor — Evite calor 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Keep the bottle away from oven and stovetop heat, which ruins quality. Store inside a cool, dark kitchen cupboard.
+    No guarde el aceite cerca de la estufa o el horno por conveniencia. El calor duplica la velocidad de oxidación. Consérvelo en una alacena fresca y oscura, alejado de cualquier fuente de calor.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Reglas cruciales y precauciones
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ES] Seal the cap tightly after every use ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Selle la tapa firmemente después de cada uso</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ES] Olive oil oxidises when exposed to air, increasing free radicals. Always close the cap firmly to restrict air inflow.
+      El aceite de oliva se oxida al contacto con el oxígeno, aumentando su acidez y perdiendo propiedades. Cierre bien la tapa siempre.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ES] Note the storage difference of perilla oil 🫒</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Manténgalo alejado de fuentes de calor como estufas y hornos</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ES] While olive and sesame oils belong in the room temp pantry, perilla oil is rich in omega-3 and must be refrigerated to prevent fast rot.
+      El calor de la estufa acelera la oxidación y arruina la calidad. Guarde el aceite dentro de un armario fresco y oscuro.
     </p>
   </div>
 </div>

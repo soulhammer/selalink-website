@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["수박 보관법","수박 랩 보관 금지","수박 세균 증식","식재료 안전","살림 정보"]
 heroImage: "/images/blog/watermelon_storage_hack.png"
 app: "storeself"
+authority: "<strong>한국소비자원(KCA) 및 식품의약품안전처(MFDS)</strong>"
 ---
 
 여름철 수박을 먹고 남았을 때 무심코 비닐 랩으로 겉만 감싸 냉장고에 넣으셨나요? 이는 수백만 마리의 식중독균을 급증시키는 원인입니다. 한국소비자원 공식 검증 보관법을 소개합니다.

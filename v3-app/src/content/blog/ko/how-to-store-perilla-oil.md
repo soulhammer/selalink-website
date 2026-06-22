@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["들기름 보관법","들기름 냉장","참기름 실온","오메가3 산패","기름 보관"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+authority: "<strong>농촌진흥청(RDA) 및 식품의약품안전처(MFDS)</strong>"
 ---
 
 참기름과 들기름을 나란히 가스레인지 옆 실온에 보관하셨나요? 오늘 StoreSelf에서는 농촌진흥청(RDA)의 들기름 보관 연구 결과를 토대로, 산패를 막고 맛을 유지하는 들기름 보관 비법을 알려드립니다.

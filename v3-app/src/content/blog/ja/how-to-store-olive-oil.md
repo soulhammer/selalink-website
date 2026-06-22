@@ -1,15 +1,22 @@
 ---
-title: "올리브유 냉장고에 넣으면 굳는다? 향 보존하는 올리브유 보관법"
-description: "올리브유는 냉장고에 보관하면 하얀 결정이 생기며 고유의 고소한 풍미를 잃어버립니다. 올바른 실온 차단법을 알려드립니다."
+title: "食用油/オリーブオイルの鮮度を保つ保存方法：科学的保管ガイド"
+description: "公的安全基準に基づく食用油/オリーブオイルの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["올리브유 보관법","올리브유 냉장금지","식용유 보관","산패 방지","주방 관리"]
+tags: ["食用油/オリーブオイル","科学的に検証された保存ガイド","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "storeself"
+authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+steps:
+  - name: "冷蔵保存は避ける — 凝固と風味の低下防止 ❌❄️"
+    text: "オリーブオイルを冷蔵庫に入れると白く固まって結晶化し, 固まったり溶けたりを繰り返すことでオリーブオイル本来の風味や栄養素が失われます。必ず14〜18℃の常温で保存してください。"
+  - name: "直射日光を避け、遮光瓶（茶・緑）を使用する — 光の遮断 🫙"
+    text: "紫外線は植物性オイルを酸化（酸敗）させる最大の原因です。透明な容器に入っている場合は, アルミホイルでボトルを包むか, 茶色や緑色のガラス瓶に移し替えて光を遮断してください。"
+  - name: "コンロ周辺など熱源から遠い日陰の棚に置く — 熱の遮断 🌬️"
+    text: "調理時に便利だからといって、ガスコンロやオーブンのすぐ隣に置かないでください。熱が加わるたびにオイルの酸化スピードが2倍以上速くなります。熱源のない涼しい日陰の棚に収納してください。"
 ---
 
-Did you put extra virgin olive oil in the fridge to preserve it? Today, StoreSelf shares UC Davis Olive Center and IOC-verified room temperature storage hacks.
-
+オリーブオイルを新鮮に保つために、冷蔵庫に入れていませんか？冷蔵庫に保管すると白く結晶化して固まってしまい、特有の豊かな風味や栄養成分が壊れてしまいます。正しい常温保存方法をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Did you put extra virgin olive oil in the fridge to preserve it? Today, StoreSel
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>International Olive Council (IOC) & UC Davis Olive Center</strong>.
+      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. なぜこのように保存するのか？科学的な事実
+
+食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. 科学的に検証された保存ガイド
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Never Store in Refrigerator — Prevent Solidification ❌❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">冷蔵保存は避ける — 凝固と風味の低下防止 ❌❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Olive oil fats solidify into white crystals below 8°C. Thawing restores liquidity but destroys the delicate olive aroma and flavor compounds.
+    オリーブオイルを冷蔵庫に入れると白く固まって結晶化し, 固まったり溶けたりを繰り返すことでオリーブオイル本来の風味や栄養素が失われます。必ず14〜18℃の常温で保存してください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Use Dark Glass Bottles and Block Light 🫙</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">直射日光を避け、遮光瓶（茶・緑）を使用する — 光の遮断 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Light accelerates lipid oxidation. Always store olive oil in dark green or amber glass bottles, or wrap clear bottles in aluminum foil.
+    紫外線は植物性オイルを酸化（酸敗）させる最大の原因です。透明な容器に入っている場合は, アルミホイルでボトルを包むか, 茶色や緑色のガラス瓶に移し替えて光を遮断してください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Keep in a Dark Cabinet Away from Stovetop Heat 🌬️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">コンロ周辺など熱源から遠い日陰の棚に置く — 熱の遮断 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Keep the bottle away from oven and stovetop heat, which ruins quality. Store inside a cool, dark kitchen cupboard.
+    調理時に便利だからといって、ガスコンロやオーブンのすぐ隣に置かないでください。熱が加わるたびにオイルの酸化スピードが2倍以上速くなります。熱源のない涼しい日陰の棚に収納してください。
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Seal the cap tightly after every use ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">使用後は必ず蓋をきつく閉めて空気を遮断してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] Olive oil oxidises when exposed to air, increasing free radicals. Always close the cap firmly to restrict air inflow.
+      オリーブオイルは酸素に触れると酸化が進み、風味が低下して酸度が上がります。使用後はすぐにキャップをしっかり閉めてください。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Note the storage difference of perilla oil 🫒</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">コンロやオーブンなどの熱源から遠ざけて保管してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] While olive and sesame oils belong in the room temp pantry, perilla oil is rich in omega-3 and must be refrigerated to prevent fast rot.
+      コンロ周辺の熱は酸化を急速に進め、品質を著しく低下させます。調理スペースから離れた、温度変化の少ない暗い収納棚に保管してください。
     </p>
   </div>
 </div>

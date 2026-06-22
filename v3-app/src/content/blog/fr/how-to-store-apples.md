@@ -6,6 +6,14 @@ category: "StoreSelf"
 tags: ["Conserver Pommes", "Soin des Fruits", "Gaz Éthylène", "Astuces Fraîcheur", "Hacks Cuisine"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+
+steps:
+  - name: "Envelopper individuellement de film plastique sans laver — Préservation de l'humidité 📦"
+    text: "Laisser les pommes à l'air libre ou au réfrigérateur sans protection fait évaporer l'humidité, ce qui flétrit la peau et ramollit la chair. 💡 Astuce de conservation : Enveloppez chaque pomme sèche de film étirable. Cela préserve son jus pour la garder croquante et empêche le gaz éthylène de s'échapper."
+  - name: "Conserver à basse température entre 0 et 4 °C — Ralentir le mûrissement ❄️"
+    text: "La chaleur accélère la respiration de la pomme, ce qui augmente le rejet d'éthylène et hâte le pourrissement. 💡 Astuce de conservation : La température idéale est de 0 à 4 °C. Placez les pommes emballées dans le bac à légumes. Évitez le gel qui altère la structure et le goût."
+  - name: "Isoler totalement des autres aliments — Double isolation 🛡️"
+    text: "Même bien emballé, le puissant gaz éthylène de la pomme circule dans le réfrigérateur et altère les autres aliments. 💡 Astuce de conservation : Rangez les pommes dans un sac hermétique ou une boîte fermée. Éloignez-les des fruits et légumes sensibles comme la salade, les épinards, les bananes ou les poires."
 ---
 
 Avez-vous déjà acheté un sac de pommes fraîches, douces et croquantes pour les retrouver ridées et molles à peine quelques semaines plus tard ? 🍎

@@ -1,15 +1,22 @@
 ---
-title: "생닭 물에 씻으면 싱크대 오염 폭발? 올바른 닭고기 보관 및 손질법"
-description: "생닭은 씻으면 식중독균이 주방에 확산됩니다. 물 세척 자제령과 위생적인 2일 이내 보관법을 소개합니다."
+title: "Cara Menyimpan Daging ayam agar Tetap Segar: Panduan Penyimpanan Ilmiah"
+description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Daging ayam berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["닭고기 보관법","닭고기 세척 경고","캠필로박터","생닭 보관","식품 위생"]
+tags: ["Daging ayam","Panduan Penyimpanan yang Terbukti Secara Ilmiah","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+authority: "<strong>USDA & MFDS & CDC</strong>"
+steps:
+  - name: "Jangan cuci ayam mentah dengan air — Mencegah kontaminasi silang ❌💧"
+    text: "Mencuci ayam mentah akan memercikkan air yang mengandung bakteri Campylobacter hingga radius 50 cm di sekitar wastafel, mengontaminasi peralatan makan dan masak. Cukup lap dengan tisu dapur atau rebus dalam air mendidih."
+  - name: "Segel dalam wadah ganda lalu simpan di rak paling bawah — Mencegah kebocoran cairan daging 📦"
+    text: "Cairan dari ayam mentah mengandung banyak bakteri dan dapat mencemari bahan makanan lain. Masukkan ayam ke dalam kantong plastik, segel lagi dengan kantong ziploc, lalu simpan di rak kulkas bagian paling bawah."
+  - name: "Bumbui tipis dengan garam dan alkohol masak — Memperpanjang kesegaran 🧂"
+    text: "Jika tidak bisa langsung dimasak, taburkan sedikit garam kasar dan sake atau alkohol masak sebelum didinginkan. Alkohol berfungsi membunuh bakteri dan garam menjaga tekstur daging tetap segar sehari lebih lama."
 ---
 
-Does washing raw chicken spread bacteria? Today, StoreSelf shares safe raw poultry storage guidelines based on CDC and USDA instructions.
-
+Mencuci ayam mentah dapat menyebarkan bakteri berbahaya ke seluruh dapur. Hari ini, StoreSelf membagikan panduan penanganan dan penyimpanan ayam dari CDC.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Does washing raw chicken spread bacteria? Today, StoreSelf shares safe raw poult
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Centers for Disease Control and Prevention (CDC) & USDA</strong>.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>USDA & MFDS & CDC</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Mengapa disimpan seperti ini? Fakta ilmiah
+
+Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Panduan Penyimpanan yang Terbukti Secara Ilmiah
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Never Wash Raw Chicken — Avoid Cross-Contamination ❌💧</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jangan cuci ayam mentah dengan air — Mencegah kontaminasi silang ❌💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Washing raw chicken splashes campylobacter bacteria onto surrounding sink surfaces, utensils, and walls. Simply wipe dry with paper towels.
+    Mencuci ayam mentah akan memercikkan air yang mengandung bakteri Campylobacter hingga radius 50 cm di sekitar wastafel, mengontaminasi peralatan makan dan masak. Cukup lap dengan tisu dapur atau rebus dalam air mendidih.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Double Bag and Store on Lower Shelf — Prevent Drip Spreads 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Segel dalam wadah ganda lalu simpan di rak paling bawah — Mencegah kebocoran cairan daging 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Chicken raw juices carrying pathogens must not drip on other foods. Double-bag the chicken and place it on the lowest shelf of your fridge.
+    Cairan dari ayam mentah mengandung banyak bakteri dan dapat mencemari bahan makanan lain. Masukkan ayam ke dalam kantong plastik, segel lagi dengan kantong ziploc, lalu simpan di rak kulkas bagian paling bawah.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Lightly Season with Salt and Cooking Sake — Extend Freshness 🧂</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bumbui tipis dengan garam dan alkohol masak — Memperpanjang kesegaran 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] If not cooking immediately, rub with a splash of sake and salt. Alcohol kills surface microbes and salt regulates osmosis, extending shelf life.
+    Jika tidak bisa langsung dimasak, taburkan sedikit garam kasar dan sake atau alkohol masak sebelum didinginkan. Alkohol berfungsi membunuh bakteri dan garam menjaga tekstur daging tetap segar sehari lebih lama.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Use dedicated cutting boards and knives 🔪</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Gunakan talenan dan pisau khusus untuk ayam mentah</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] Always sanitize cutting boards and knives used for raw poultry with boiling water or bleach. Avoid slicing raw greens with the same tools.
+      Peralatan yang digunakan untuk ayam mentah harus disterilkan atau dicuci bersih. Langsung menggunakannya untuk salad memicu kontaminasi silang.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Consume within 2 days or freeze ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Habiskan dalam 2 hari atau segera bekukan</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] Chicken has higher water content and rot rates than other meats. Limit refrigeration to 48 hours and freeze any remaining portions.
+      Ayam memiliki kadar air dan kepadatan bakteri yang lebih tinggi daripada daging babi atau sapi, membuatnya cepat busuk. Batasi penyimpanan di kulkas maks 48 jam.
     </p>
   </div>
 </div>

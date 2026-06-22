@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["두부 보관법","두부 보관","남은 두부","두부 소금물","식재료 팁"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</strong>"
 ---
 
 두부 한 모를 사서 반 모만 쓰고 남았을 때, 기존 팩 안의 충전수에 담아 그대로 보관하셨나요? 오늘 StoreSelf에서는 메이요 클리닉(Mayo Clinic)의 위생 관리 기준에 기반한 촉촉하고 안전한 두부 보관 비법을 알려드립니다.

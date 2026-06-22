@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["대파 보관법","대파 보관","식재료 팁","채소 보관","대파 손질"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
+authority: "<strong>농촌진흥청(RDA) 및 식품의약품안전처(MFDS) 및 미국 농무부(USDA)</strong>"
 ---
 
 대파는 요리의 베이스이자 만능 채소이지만, 조금만 방심해도 수분 때문에 잎이 물러지고 상하기 쉽습니다. 물기를 완벽히 제어하는 보관법을 소개합니다.

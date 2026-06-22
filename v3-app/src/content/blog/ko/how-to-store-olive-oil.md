@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["올리브유 보관법","올리브유 냉장금지","식용유 보관","산패 방지","주방 관리"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "storeself"
+authority: "<strong>미국 농무부(USDA) 및 식품의약품안전처(MFDS)</strong>"
 ---
 
 고급 엑스트라 버진 올리브유를 아끼려고 냉장고에 보관하셨나요? 오늘 StoreSelf에서는 국제올리브협회(IOC) 지침에 근거하여 올리브유의 향과 영양을 지키는 올바른 실온 보관법을 소개합니다.

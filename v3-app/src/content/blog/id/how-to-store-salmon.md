@@ -1,15 +1,22 @@
 ---
-title: "연어 2일 만에 비린내 풀풀? 산화를 늦추는 생연어 보관 가이드"
-description: "연어는 산화 속도가 매우 빠릅니다. 청주 and 레몬즙 코팅, 진공 랩핑을 이용해 신선도를 오래 보존하는 법을 전합니다."
+title: "Cara Menyimpan Salmon agar Tetap Segar: Panduan Penyimpanan Ilmiah"
+description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Salmon berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["연어 보관법","연어 보관","생연어 냉장","연어 비린내","수산물 위생"]
+tags: ["Salmon","Panduan Penyimpanan yang Terbukti Secara Ilmiah","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+authority: "<strong>FDA & USDA</strong>"
+steps:
+  - name: "Lap bersih minyak dan air di permukaan — Mencegah kontaminasi 🍣"
+    text: "Air dan minyak pada permukaan salmon mentah adalah penyebab utama bakteri berkembang biak. Tekan kedua sisi salmon dengan tisu dapur untuk mengeringkannya."
+  - name: "Oleskan jus lemon atau alkohol masak — Pengawet alami 🍋"
+    text: "Oleskan sedikit jus lemon atau alkohol masak pada permukaan salmon yang sudah kering. Keasaman dan alkohol berfungsi sebagai pengawet alami, menekan bakteri dan oksidasi lemak."
+  - name: "Bungkus rapat dengan plastik wrap tanpa udara — Segel sempurna 📦"
+    text: "Bungkus salmon dengan plastik wrap secara rapat, buang semua udaranya, lalu masukkan ke dalam kantong ziploc. Cara ini menjaga kesegaran hingga 2 hari di kulkas dan 60 hari di freezer."
 ---
 
-Did your beautiful salmon turn dull and smell fishy in the fridge? Today, StoreSelf shares salmon preservation tips based on official FDA guidelines.
-
+Apakah Anda membiarkan salmon segar di kulkas selama lebih dari dua hari? Salmon memiliki kadar air tinggi, memicu bakteri berkembang cepat. Hari ini, StoreSelf membagikan tips penyimpanan salmon.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Did your beautiful salmon turn dull and smell fishy in the fridge? Today, StoreS
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Food and Drug Administration (FDA) & National Oceanic and Atmospheric Administration (NOAA)</strong>.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>FDA & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Mengapa disimpan seperti ini? Fakta ilmiah
+
+Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Panduan Penyimpanan yang Terbukti Secara Ilmiah
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Wipe Off Surface Oil and Moisture — Prevent Spoilage 🍣</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lap bersih minyak dan air di permukaan — Mencegah kontaminasi 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Surface moisture and fish oil oxidise quickly when touching air, creating fishy smells. Wipe the salmon dry using paper towels.
+    Air dan minyak pada permukaan salmon mentah adalah penyebab utama bakteri berkembang biak. Tekan kedua sisi salmon dengan tisu dapur untuk mengeringkannya.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Apply Lemon Juice or Sake — Natural Acid Preservation 🍋</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Oleskan jus lemon atau alkohol masak — Pengawet alami 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Lightly coat the salmon surface with sake or lemon juice. This acid/alcohol coat limits bacterial growth and lipid oxidation.
+    Oleskan sedikit jus lemon atau alkohol masak pada permukaan salmon yang sudah kering. Keasaman dan alkohol berfungsi sebagai pengawet alami, menekan bakteri dan oksidasi lemak.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Wrap Tightly with Cling Film — Airtight Storage 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus rapat dengan plastik wrap tanpa udara — Segel sempurna 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Place the salmon on cling wrap, wrap it tightly to expel air, and store in the coldest part of the fridge. Consume within 2 days.
+    Bungkus salmon dengan plastik wrap secara rapat, buang semua udaranya, lalu masukkan ke dalam kantong ziploc. Cara ini menjaga kesegaran hingga 2 hari di kulkas dan 60 hari di freezer.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Inspect color changes carefully ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Lap bersih kelembapan dan cairan pada permukaan daging</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] If the salmon turns dull brown or lacks elasticity when pressed, the proteins have broken down. Discard it immediately.
+      Cairan pada permukaan ikan memicu bau amis dan pembusukan cepat. Keringkan sepenuhnya sebelum dibungkus.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Remove skin and bones for freezing ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Bungkus vakum atau segel rapat tanpa udara</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] For long-term freezing (up to 60 days), removing the skin and bones beforehand preserves texture and makes thawing convenient.
+      Paparan oksigen memicu ketengikan lemak dan tekstur kering. Membungkusnya dengan rapat menghalangi kontak dengan udara.
     </p>
   </div>
 </div>

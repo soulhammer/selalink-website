@@ -1,15 +1,22 @@
 ---
-title: "남은 두부 소금 한 꼬집으로 7일 동안? 촉촉하고 안전한 두부 보관법"
-description: "두부 팩 안의 물은 세균 번식의 온상입니다. 깨끗한 찬물과 소금을 이용해 신선도를 유지하는 3단계 비법을 전합니다."
+title: "How to Store Tofu Fresh: Scientific Storage Guide"
+description: "Learn the best storage temperature, methods, and duration for Tofu based on official safety guidelines."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["두부 보관법","두부 보관","남은 두부","두부 소금물","식재료 팁"]
+tags: ["Tofu","Scientifically Proven Storage Guide","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+authority: "<strong>MFDS & USDA</strong>"
+steps:
+  - name: "Discard pack water and rinse under running water — Hygiene 🚿"
+    text: "The water inside the packaged tofu contains dissolved proteins, making it a breeding ground for bacteria. Discard this water completely and rinse the tofu thoroughly under cold running water before storing."
+  - name: "Submerge in cold water with a pinch of salt — Natural preservative 🧂"
+    text: "Place the tofu in an airtight container, cover it completely with clean cold water, and mix in half a teaspoon of salt. The salt water inhibits bacteria growth and helps keep the tofu firm."
+  - name: "Change the water daily — Keep clean and fresh 💧"
+    text: "Even with salt, the water must be replaced with fresh cold water daily or every two days. This prevents the tofu from spoiling and keeps it fresh and firm for up to a week."
 ---
 
-When half a block of tofu is left, did you store it in the original package water? Today, StoreSelf shares a safe tofu storage guide based on Mayo Clinic food safety standards.
-
+Did you pour the original packaging water into the container when storing leftover tofu? The packaging water is a breeding ground for bacteria. Today, StoreSelf shares safe tofu storage hacks to keep it fresh for 7 days.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ When half a block of tofu is left, did you store it in the original package wate
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Mayo Clinic & Food Safety Information Services</strong>.
+      This storage guide is verified based on official guidelines from the <strong>MFDS & USDA</strong>.
     </p>
   </div>
 </div>
-
 
 ---
 
 ## 1. Why store like this? Scientific facts
 
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
+Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.
 
 ---
 
-## 2. Scientifically proven 3-step storage guide
+## 2. Scientifically Proven Storage Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Discard Package Liquid and Rinse under Cold Water 🚿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Discard pack water and rinse under running water — Hygiene 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    The liquid inside the tofu package has high microbial growth after opening. Discard it and rinse the tofu gently under clean running water.
+    The water inside the packaged tofu contains dissolved proteins, making it a breeding ground for bacteria. Discard this water completely and rinse the tofu thoroughly under cold running water before storing.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Submerge in Clean Water with a Pinch of Salt — Natural Preservative 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Submerge in cold water with a pinch of salt — Natural preservative 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Place the tofu in an airtight container, submerge it fully in fresh cold water, and add a pinch of salt. Salt acts as a natural decay barrier.
+    Place the tofu in an airtight container, cover it completely with clean cold water, and mix in half a teaspoon of salt. The salt water inhibits bacteria growth and helps keep the tofu firm.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Change the Water Daily — Maintain Purity 💧</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Change the water daily — Keep clean and fresh 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Even with salt, still water allows protein-decomposing bacteria to grow. Change the water daily to keep the tofu fresh for up to 7 days.
+    Even with salt, the water must be replaced with fresh cold water daily or every two days. This prevents the tofu from spoiling and keeps it fresh and firm for up to a week.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Crucial Rules and Cautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Freezing changes tofu into a spongy texture ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Discard packaging water and change with fresh cold water daily</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Freezing tofu expels moisture, creating pockets that make it spongy and chewy. Only do this if you intend to cook braised or stewed tofu.
+      Leftover tofu spoils quickly due to bacteria. Changing the cold water daily blocks bacterial growth and keeps it clean.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Check for slippery surface texture ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Add a pinch of salt to the water</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      If the surface of the tofu feels slimy or shows white mucus-like fluid, it is spoiled by bacteria. Do not consume.
+      A tiny amount of salt acts as a natural preservative and keeps the tofu texture firm and prevent softening.
     </p>
   </div>
 </div>

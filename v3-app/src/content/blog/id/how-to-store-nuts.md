@@ -1,15 +1,22 @@
 ---
-title: "견과류 상온에 두면 발암 물질 발생? 신선하고 안전한 견과류 보관법"
-description: "견과류는 상온에서 아플라톡신이라는 1급 발암 곰팡이독소가 생기기 쉽습니다. 밀봉 후 냉장/냉동 보관의 중요성을 알아봅니다."
+title: "Cara Menyimpan Kacang-kacangan agar Tetap Segar: Panduan Penyimpanan Ilmiah"
+description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Kacang-kacangan berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["견과류 보관법","견과류 곰팡이","아플라톡신","견과류 냉동","살림 팁"]
+tags: ["Kacang-kacangan","Panduan Penyimpanan yang Terbukti Secara Ilmiah","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+authority: "<strong>MFDS & USDA</strong>"
+steps:
+  - name: "Segel dan dinginkan/bekukan setelah dibuka — Menahan aflatoksin ❄️"
+    text: "Kacang-kacangan mengandung lemak tinggi yang mudah teroksidasi dan berbau tengik di suhu ruang hangat dan lembap. Suhu ini juga memicu tumbuhnya racun aflatoksin (kanker). Selalu bekukan."
+  - name: "Kemas dalam wadah kedap udara atau kantong buram — Menghalangi cahaya 📦"
+    text: "Cahaya dan oksigen mempercepat oksidasi asam lemak tak jenuh dalam kacang. Daripada kantong transparan, kemas dalam kantong buram atau wadah gelap, lalu tambahkan paket silika gel."
+  - name: "Jaga dalam kondisi kering bebas lembap — Segel kering 🌬️"
+    text: "Kacang kehilangan kerenyahan dan rasanya jika terkena kelembapan. Selalu jaga kacang dalam kondisi kering. Setelah dibuka, segera pindahkan ke wadah kedap udara."
 ---
 
-Do you leave healthy nuts in transparent jars on your kitchen table? Today, StoreSelf shares safe nut preservation guides based on FDA aflatoxin control guidelines.
-
+Apakah Anda membiarkan kacang-kacangan di meja makan dalam wadah transparan? Kacang kaya lemak tak jenuh, membuatnya cepat teroksidasi oleh udara dan cahaya, menimbulkan bau tengik dan racun. Hari ini, StoreSelf membagikan panduan penyimpanan kacang.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Do you leave healthy nuts in transparent jars on your kitchen table? Today, Stor
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Food and Drug Administration (FDA) & Almond Board of California</strong>.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>MFDS & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Mengapa disimpan seperti ini? Fakta ilmiah
+
+Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Panduan Penyimpanan yang Terbukti Secara Ilmiah
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Store Sealed in Fridge/Freezer — Stop Aflatoxin ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Segel dan dinginkan/bekukan setelah dibuka — Menahan aflatoksin ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Nuts left at room temp oxidize and develop a highly toxic carcinogen called aflatoxin. Always store them airtight in the fridge or freezer.
+    Kacang-kacangan mengandung lemak tinggi yang mudah teroksidasi dan berbau tengik di suhu ruang hangat dan lembap. Suhu ini juga memicu tumbuhnya racun aflatoksin (kanker). Selalu bekukan.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Use Opaque Airtight Bags or Containers — Light Shield 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Kemas dalam wadah kedap udara atau kantong buram — Menghalangi cahaya 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Oxygen and light ruin unsaturated fats. Use opaque containers or amber jars, and include a silica gel moisture absorber inside.
+    Cahaya dan oksigen mempercepat oksidasi asam lemak tak jenuh dalam kacang. Daripada kantong transparan, kemas dalam kantong buram atau wadah gelap, lalu tambahkan paket silika gel.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Keep Dry to Prevent Mold Growth 🌬️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jaga dalam kondisi kering bebas lembap — Segel kering 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Any moisture causes nuts to become soggy and moldy. Keep containers tightly sealed to block refrigerator humidity.
+    Kacang kehilangan kerenyahan dan rasanya jika terkena kelembapan. Selalu jaga kacang dalam kondisi kering. Setelah dibuka, segera pindahkan ke wadah kedap udara.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Never eat rancid or soft nuts ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jangan pernah memakan kacang yang tengik atau lembap</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] If nuts smell oily or feel soft, lipid oxidation and mold have started. Washing or roasting will not remove aflatoxin. Discard them.
+      Kacang yang teroksidasi menghasilkan aflatoksin, zat karsinogenik kuat yang tidak hancur bahkan dengan pemanasan. Segera buang.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Handle nuts gently to avoid cracks 🥜</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Segel dengan penyerap oksigen di tempat gelap</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] Cracks or powdering on nut surfaces exposes interior lipids to air, speeding up oxidation. Avoid crushing the storage bags.
+      Simpan kacang dalam wadah kedap cahaya dengan penyerap oksigen di dalamnya, letakkan di laci sejuk atau bekukan.
     </p>
   </div>
 </div>

@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["식빵 보관법","빵 보관","식빵 냉장 금지","빵 냉동 소분","살림 팁"]
 heroImage: "/images/blog/bread_storage_hack.png"
 app: "storeself"
+authority: "<strong>미국 농무부(USDA) 및 영국 식품표준청(FSA)</strong>"
 ---
 
 남은 식빵을 아껴 먹기 위해 냉장고 일반 칸에 넣어두신 적이 있나요? 이는 빵의 촉촉한 수분과 맛을 앗아가는 가장 나쁜 방법입니다. 과학적으로 식빵 질감을 살리는 보관법을 소개합니다.

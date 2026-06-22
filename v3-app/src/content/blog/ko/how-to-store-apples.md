@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["사과 보관법", "과일 보관", "식재료 팁", "에틸렌 가스", "살림 꿀팁"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 식품의약품안전처(MFDS)</strong>"
 ---
 
 아삭하고 달콤한 사과를 한 상자 가득 사 왔는데, 시간이 지날수록 껍질이 쭈글쭈글해지고 푸석해진 경험 다들 있으시죠? 🍎
@@ -22,7 +23,7 @@ app: "storeself"
       신뢰 근거 기관
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 가이드는 <strong>미국 농무부(USDA) 및 농업연구청(ARS)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+      본 가이드는 <strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 식품의약품안전처(MFDS)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
     </p>
   </div>
 </div>

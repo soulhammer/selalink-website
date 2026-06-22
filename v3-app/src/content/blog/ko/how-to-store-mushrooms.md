@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["버섯 보관법","버섯 물 세척 금지","버섯 종이봉투","버섯 보관 팁","식재료 팁"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
 app: "storeself"
+authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA)</strong>"
 ---
 
 버섯 표면의 미세한 먼지가 신경 쓰여 깨끗이 물로 씻은 뒤 락앤락에 담아 보관하셨나요? 이는 버섯이 끈적하게 변하고 썩게 만드는 가장 빠른 지름길입니다. 버섯 보관 비법을 알려드립니다.

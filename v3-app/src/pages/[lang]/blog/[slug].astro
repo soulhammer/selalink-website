@@ -4,6 +4,7 @@ import BlogAppCta from '../../../components/BlogAppCta.astro';
 import YoutubeEmbed from '../../../components/YoutubeEmbed.astro';
 import ShortsPlayerModal from '../../../components/ShortsPlayerModal.astro';
 import { getCollection, render } from 'astro:content';
+import { useTranslations } from '../../../i18n/ui';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -22,11 +23,12 @@ const { post } = Astro.props;
 const { lang } = Astro.params;
 const { title, description, pubDate, heroImage, app, youtubeId } = post.data;
 
+const t = useTranslations(lang as any);
 const { Content } = await render(post);
 
 // SEO를 위한 구조화된 데이터(JSON-LD) 생성
 const formattedUrl = new URL(Astro.url.pathname, Astro.site).href;
-const structuredDataList = [
+const structuredDataList: any[] = [
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -54,285 +56,15 @@ const structuredDataList = [
   }
 ];
 
-// 12종 식재료별 다국어 HowTo 스키마 단계 데이터정의
-const howToData = {
-  'how-to-store-bananas': {
-    ko: [
-      { name: "바나나 공중에 매달기", text: "바나나 걸이 또는 옷걸이에 매달아 공중에 띄워 멍이 드는 것을 방지하고 신선도를 지킵니다." },
-      { name: "꼭지 알루미늄 호일 감싸기", text: "바나나 에틸렌 가스 배출의 핵심인 꼭지(줄기) 부분을 랩이나 은박지로 꽁꽁 묶어 숙성을 지연시킵니다." },
-      { name: "완숙 시 개별 포장 후 냉장실 보관", text: "바나나가 노랗게 완전히 익고 슈가스팟이 생기면 낱개로 랩핑하여 냉장고 야채칸에 보관해 노화를 멈춥니다." }
-    ],
-    en: [
-      { name: "Hang Bananas Up", text: "Hang bananas on a hanger to distribute weight evenly and prevent soft bruising spots." },
-      { name: "Wrap Stems with Foil", text: "Wrap the banana stems tightly with aluminum foil or plastic wrap to lock ethylene gas." },
-      { name: "Refrigerate When Fully Ripe", text: "Wrap ripe bananas individually and store them in the crisper drawer to retard further ripening." }
-    ]
-  },
-  'how-to-store-apples': {
-    ko: [
-      { name: "씻지 않고 랩으로 개별 포장", text: "수분 증발을 막고 에틸렌 가스 노출을 차단하기 위해 씻지 않은 사과를 랩으로 감쌉니다." },
-      { name: "저온 냉장 보관", text: "사과의 호흡과 에틸렌 방출을 억제하여 신선도를 오래 지키도록 냉장고 야채칸(0~4℃)에 보관합니다." },
-      { name: "다른 식재료와 완벽 격리", text: "사과의 에틸렌 가스가 다른 채소와 과일을 부패시키지 않도록 지퍼백 등에 밀봉해 격리 보관합니다." }
-    ],
-    en: [
-      { name: "Wrap Individually Without Washing", text: "Wrap each unwashed apple tightly with plastic wrap to prevent moisture loss and block ethylene." },
-      { name: "Store at Low Temperature", text: "Store wrapped apples in the refrigerator crisper drawer (0-4°C) to delay respiration and aging." },
-      { name: "Isolate from Other Produce", text: "Double-seal wrapped apples in a bag or container and keep them away from other ethylene-sensitive produce." }
-    ]
-  },
-  'how-to-store-potatoes': {
-    ko: [
-      { name: "씻지 않고 신문지 개별 포장", text: "수분 흡수 및 빛 차단을 위해 씻지 않은 감자를 신문지나 종이봉투로 개별 감쌉니다." },
-      { name: "사과 1개 동봉 보관", text: "에틸렌 가스를 방출하는 사과 한 알을 같이 상자에 넣어 감자의 싹 성장 호르몬을 억제합니다." },
-      { name: "냉장 보관 금지", text: "6℃ 이하 보관 시 전분이 당분으로 바뀌어 맛이 변하고 발암 물질이 발생하므로 서늘한 상온에 보관합니다." }
-    ],
-    en: [
-      { name: "Wrap Potatoes Individually", text: "Wrap each unwashed potato in newspaper or paper bags to control humidity and block light." },
-      { name: "Store with 1 Apple", text: "Put one apple inside the potato box to let ethylene gas suppress potato sprouting hormones." },
-      { name: "Never Refrigerate Potatoes", text: "Avoid temperatures below 6°C to prevent starch-to-sugar conversion and acrylamide risks." }
-    ]
-  },
-  'how-to-store-eggs': {
-    ko: [
-      { name: "물 세척 절대 금지", text: "세척 시 껍질 표면의 천연 보호막(큐티클)이 손상되어 기공으로 살모넬라균이 유입되므로 씻지 않고 보관합니다." },
-      { name: "뾰족한 쪽을 아래로 정렬", text: "둥근 쪽에 기실(공기주머니)이 있어 숨을 쉴 수 있도록 둥근 부위를 위로, 뾰족한 부위를 아래로 하여 세워 둡니다." },
-      { name: "냉장실 안쪽 보관", text: "온도 변화가 잦고 충격이 있는 냉장실 문 쪽을 피하고 본체 안쪽 깊숙한 선반에 보관합니다." }
-    ],
-    en: [
-      { name: "Never Wash Eggs", text: "Washing strips the protective cuticle layer, letting salmonella enter. Wipe dirt with a dry cloth." },
-      { name: "Pointy End Downward", text: "Keep the round end containing the air pocket upward so the egg can breathe and stay centered." },
-      { name: "Store on Inside Fridge Shelf", text: "Place eggs in their carton on a stable inner shelf to avoid temperature shifts from the door." }
-    ]
-  },
-  'how-to-store-onions': {
-    ko: [
-      { name: "껍질째 통풍망에 보관", text: "수분을 방지하고 공기 순환을 돕기 위해 그물망이나 스타킹에 넣어 서늘한 그늘에 매달아 보관합니다." },
-      { name: "깐 양파는 물기 말려 랩핑", text: "손질된 양파는 표면 물기를 완벽히 건조시킨 뒤 식품용 랩으로 개별 밀봉해 냉장 야채칸에 보관합니다." },
-      { name: "감자와 완벽 격리 보관", text: "감자의 수분과 양파의 에틸렌 가스가 서로를 썩게 하므로 절대 같은 상자나 가까이 두지 않습니다." }
-    ],
-    en: [
-      { name: "Store in a Well-Ventilated Net", text: "Keep whole unpeeled onions in a hanging mesh bag in a dry, dark pantry to ensure air flow." },
-      { name: "Dry and Wrap Peeled Onions", text: "Wipe surface moisture off peeled onions and wrap tightly in cling wrap before refrigerating." },
-      { name: "Isolate from Potatoes", text: "Never store together as potato moisture and onion ethylene gas accelerate mutual rotting." }
-    ]
-  },
-  'how-to-store-tomatoes': {
-    ko: [
-      { name: "완숙 전 상온 그늘 보관", text: "설익은 토마토를 냉장하면 풍미 성분이 파괴되므로 15~20℃ 통풍이 잘되는 상온 그늘에서 후숙시킵니다." },
-      { name: "보관 전 꼭지 떼어내기", text: "초록색 꼭지 부위는 습기가 차고 곰팡이가 쉽게 발생하므로 보관하기 전에 꼭지를 미리 뗍니다." },
-      { name: "완숙 토마토만 야채칸 냉장", text: "완전한 적색으로 익은 토마토만 서로 닿지 않게 종이나 랩으로 감싸 냉장고 야채칸에 보관합니다." }
-    ],
-    en: [
-      { name: "Store at Room Temp Before Ripe", text: "Keep firm or green tomatoes at room temperature to let lycopene and sugars mature naturally." },
-      { name: "Remove Green Stems", text: "Remove the green stems before storing to prevent mold from developing on the damp stem base." },
-      { name: "Refrigerate Ripe Tomatoes Only", text: "Wrap fully ripe tomatoes individually in paper and store in the crisper drawer to delay decay." }
-    ]
-  },
-  'how-to-store-green-onions': {
-    ko: [
-      { name: "씻지 않은 대파 세워 보관", text: "물기를 건조하게 유지하기 위해 신문지에 감싸 뿌리가 밑으로 향하게 그늘에 세워서 보관합니다." },
-      { name: "밀폐용기 바닥 키친타월 활용", text: "세척한 대파는 물기를 완벽히 말린 후 꼭지가 아래로 가게 통에 담고 밑에 키친타월을 깔어 냉장 보관합니다." },
-      { name: "장기 보관 시 냉동 소분", text: "썰어서 물기를 완전히 말린 후 지퍼백에 밀봉해 얼려두고 요리 시 바로 꺼내 씁니다." }
-    ],
-    en: [
-      { name: "Store Unwashed Green Onions Upright", text: "Wrap in newspaper and store upright with roots down in a cool place to reduce stress." },
-      { name: "Keep in Container with Paper Towels", text: "For washed onions, dry them completely, lay a paper towel in a bin, and store them standing upright." },
-      { name: "Slice and Freeze Green Onions", text: "Slice excess onions, dry completely, freeze in a zip-top bag, and use directly without thawing." }
-    ]
-  },
-  'how-to-store-garlic': {
-    ko: [
-      { name: "용기 바닥 설탕 제습제 세팅", text: "밀폐용기 바닥에 설탕을 깔고 키친타월을 2~3장 덮은 뒤 깐 마늘을 올려 습기를 완벽 차단합니다." },
-      { name: "통마늘은 상온 망사 보관", text: "껍질째 있는 통마늘은 냉장 보관 시 싹이 트고 썩으므로 바람이 통하는 그늘에 매달아 보관합니다." },
-      { name: "다진 마늘 얼음틀 소분", text: "다량의 마늘은 다져서 실리콘 큐브 틀에 소분해 냉동실에 얼려두고 요리 시 한 블록씩 꺼내 씁니다." }
-    ],
-    en: [
-      { name: "Set Sugar Dehumidifier at Bottom", text: "Spread sugar and cover with paper towels at the container bottom, placing peeled garlic on top." },
-      { name: "Hang Whole Garlic in a Net", text: "Store unpeeled whole garlic in a hanging net in a dry, dark, well-ventilated space." },
-      { name: "Freeze Minced Garlic in Trays", text: "Freeze minced garlic in silicone ice trays to pop out convenient single-use cubes." }
-    ]
-  },
-  'how-to-store-watermelon': {
-    ko: [
-      { name: "비닐 랩 포장 절대 금지", text: "반 자른 수박에 비닐 랩만 씌우면 세균이 하루 만에 3,000배 증식하므로 절대 그대로 보관하지 않습니다." },
-      { name: "속살만 깍둑썰기 보관", text: "수박 껍질을 잘라내고 붉은 속살만 조각내어 유리 또는 플라스틱 밀폐용기에 청결하게 보관합니다." },
-      { name: "냉장실 깊숙이 안쪽 보관", text: "수분이 많아 쉽게 상하므로 온도 변화가 잦은 문 쪽을 피해 차가운 야채칸 안쪽에 밀폐 보관합니다." }
-    ],
-    en: [
-      { name: "Never Use Wrap Only", text: "Plastic film wrapping traps bacteria, leading to a massive germ spike. Avoid wrap-only refrigeration." },
-      { name: "Cut into Cubes and Store", text: "Remove the rind, cut the red flesh into cubes, and store in an airtight container for hygiene." },
-      { name: "Keep Deep Inside Refrigerator", text: "Store the container in the coldest section (0-4°C) away from the door to prevent fermentation." }
-    ]
-  },
-  'how-to-store-bread': {
-    ko: [
-      { name: "냉장 보관 절대 금지", text: "냉장고 온도(1~6℃)는 빵 속 전분을 가장 빨리 결정화(노화)시켜 질기고 푸석하게 만들므로 절대 피합니다." },
-      { name: "한 장씩 랩으로 개별 포장", text: "공기 노출과 냉동실 성에로 인한 수분 손실을 막기 위해 빵을 한 장씩 식품용 랩으로 밀착 포장합니다." },
-      { name: "지퍼백 이중 밀봉 후 즉시 냉동", text: "포장한 빵을 지퍼백에 한 번 더 밀봉해 즉시 냉동실로 보낸 뒤 먹을 때 자연해동하거나 구워 먹습니다." }
-    ],
-    en: [
-      { name: "Never Refrigerate Bread", text: "Fridge temperatures cause starch retrogradation, making bread crumb stale and hard." },
-      { name: "Wrap Slices Individually", text: "Wrap each slice tightly in plastic cling wrap to lock in the moisture and prevent freezer burn." },
-      { name: "Double Bag and Freeze", text: "Store wrapped slices in a freezer zip-top bag and freeze instantly. Toast directly from frozen." }
-    ]
-  },
-  'how-to-store-spinach': {
-    ko: [
-      { name: "씻지 않고 신문지 래핑", text: "물기가 닿으면 쉽게 물러지므로 세척하지 않고 마른 신문지나 키친타월에 둘둘 말아 보관합니다." },
-      { name: "뿌리가 아래로 가게 수직 정렬", text: "눕혀두면 식물이 위로 자라려는 스트레스로 쉽게 에너지를 잃고 썩으므로 컵 등에 세워서 냉장 보관합니다." },
-      { name: "사과나 바나나 등과 격리", text: "에틸렌 가스에 의해 시금치 잎의 엽록소가 파괴되어 누렇게 뜨므로 에틸렌 방출 과일과 차단 보관합니다." }
-    ],
-    en: [
-      { name: "Wrap with Paper Without Washing", text: "Do not wash before storing. Wrap gently in paper towels or newspaper to regulate humidity." },
-      { name: "Store Spinach Vertically Roots Down", text: "Keep spinach upright in the fridge drawer to prevent horizontal gravity stress and wilting." },
-      { name: "Isolate from Ethylene Emitters", text: "Store away from apples, bananas, and ripe tomatoes to prevent quick yellowing of leaves." }
-    ]
-  },
-  'how-to-store-mushrooms': {
-    ko: [
-      { name: "보관 전 물 세척 금지", text: "버섯은 스펀지 구조로 물을 흡수하면 금방 조직이 뭉개지고 진액이 나므로 씻지 않고 보관합니다." },
-      { name: "종이봉투나 키친타월 밀봉", text: "비닐 밀봉 시 호흡으로 인해 결로가 생겨 상하므로 수분을 머금어주는 종이봉투나 타월로 감쌉니다." },
-      { name: "눌림 없이 야채칸 상단 보관", text: "조직이 연해 무거운 식품 아래 깔리면 세포벽이 터져 검게 변하므로 맨 위나 눌리지 않는 곳에 둡니다." }
-    ],
-    en: [
-      { name: "Never Wash Before Storing", text: "Mushrooms act like sponges. Surface water causes slimy textures and swift decay. Dry wipe only." },
-      { name: "Wrap in a Paper Bag", text: "Wrap in a brown paper bag or paper towels instead of plastic to keep them aerated and dry." },
-      { name: "Place on Top Shelf Without Compression", text: "Keep on a top shelf where they won't be crushed by heavy items, protecting cellular structure." }
-    ]
-  },
-  'how-to-store-avocado': {
-    ko: [
-      { name: "완숙 전 종이봉투 상온 보관", text: "단단한 아보카도는 15~20℃ 상온에서 보관해야 합니다. 종이봉투에 넣어 바나나나 사과와 함께 두면 방출되는 에틸렌 가스가 숙성 속도를 빠르게 당겨줍니다." },
-      { name: "후숙 완료 시 랩 밀봉 냉장 보관", text: "껍질이 검갈색으로 변하고 손으로 쥐었을 때 약간 들어갈 정도로 익은 아보카도는 즉시 개별 랩핑하여 냉장고 야채칸에 보관해 노화 속도를 늦춰야 오래 먹을 수 있습니다." },
-      { name: "자른 단면 레몬즙 도포 후 밀봉", text: "사용하고 남은 아보카도는 씨앗을 남겨둔 채 잘린 단면에 레몬즙(또는 올리브유)을 얇게 바른 뒤 랩으로 밀봉합니다. 산성 성분이 공기 접촉 시 일어나는 산화(갈변) 현상을 강력 차단합니다." }
-    ],
-    en: [
-      { name: "Store Room Temp in Paper Bag", text: "Keep firm avocados at 15-20°C. Placing them inside a paper bag with an apple or banana accelerates ripening via natural ethylene gas." },
-      { name: "Wrap and Refrigerate Once Ripe", text: "Once the skin turns dark brown and yields to gentle pressure, wrap it tightly in plastic cling wrap and keep in the crisper drawer to prolong freshness." },
-      { name: "Apply Lemon Juice to Cut Surfaces", text: "Keep the pit inside the unused half, apply a thin layer of lemon juice or olive oil on the cut surface, and wrap tightly to block oxygen and browning." }
-    ]
-  },
-  'how-to-store-milk': {
-    ko: [
-      { name: "냉장고 안쪽 깊은 선반 보관", text: "냉장고 문은 열고 닫을 때마다 온도 변화가 가장 극심한 곳입니다. 유통기한을 지키려면 외부 공기 노출이 적고 온도가 항상 0~4℃로 일정하게 지켜지는 안쪽 깊은 선반에 보관해야 합니다." },
-      { name: "개봉 후 7일 이내 소비", text: "우유를 개봉하는 순간부터 공기 중 미생물과 산소가 유입되어 산패가 시작됩니다. 팩 입구를 만지지 않도록 주의하고 개봉 후엔 소비기한과 상관없이 일주일 내 소진하세요." },
-      { name: "강한 냄새 식품과 분리 보관", text: "우유는 주변의 강한 냄새를 스펀지처럼 흡착하는 성질이 있습니다. 마늘, 양파, 찌개 남은 것 등을 뚜껑 없이 우유 팩 근처에 두면 우유 속에서 양파 향이 나게 되므로 분리 보관하세요." }
-    ],
-    en: [
-      { name: "Use Inner Fridge Shelf", text: "The refrigerator door experiences constant temperature swings. Store milk on a deep, stable inner shelf (0-4°C) to keep it cold and fresh." },
-      { name: "Consume Within 7 Days of Opening", text: "Once opened, airborne bacteria and oxygen trigger spoiling. Keep the carton tightly closed and consume within a week, regardless of the date." },
-      { name: "Keep Away from Pungent Foods", text: "Milk readily absorbs surrounding odors like garlic or onions. Keep it separated from pungent open foods in the fridge." }
-    ]
-  },
-  'how-to-store-tofu': {
-    ko: [
-      { name: "충전수 폐기 후 흐르는 물 세척", text: "두부 팩 내부에 들어있는 충전수는 유통 과정에서 두부 변질을 막아주지만 개봉 후에는 균 번식률이 높습니다. 충전수를 싹 버리고 흐르는 찬물에 두부를 가볍게 헹구어 줍니다." },
-      { name: "밀폐용기에 소금물 채워 보관", text: "소독된 밀폐용기에 두부를 담고, 두부가 완전히 잠기도록 깨끗한 찬물을 채웁니다. 이때 소금을 한 꼬집(약 1/2티스푼) 섞어주면 천연 방부 작용을 해 7일까지 단단함을 지킵니다." },
-      { name: "보관용 찬물 매일 교체", text: "아무리 소금을 넣었더라도 물이 고여있으면 단백질 분해균이 자라납니다. 번거롭더라도 하루에 한 번 깨끗한 물로 갈아주는 것이 두부 신선도를 최고로 유지하는 과학적 방법입니다." }
-    ],
-    en: [
-      { name: "Discard Package Liquid and Rinse", text: "The liquid inside the tofu package has high microbial growth after opening. Discard it and rinse the tofu gently under clean running water." },
-      { name: "Submerge in Water with Salt", text: "Place the tofu in an airtight container, submerge it fully in fresh cold water, and add a pinch of salt. Salt acts as a natural decay barrier." },
-      { name: "Change the Water Daily", text: "Even with salt, still water allows protein-decomposing bacteria to grow. Change the water daily to keep the tofu fresh for up to 7 days." }
-    ]
-  },
-  'how-to-store-beef': {
-    ko: [
-      { name: "키친타월 핏물 제거", text: "소고기 표면의 핏물은 누린내와 미생물 번식의 가장 큰 원인입니다. 조리 및 보관 전에 키친타월로 소고기를 꾹꾹 눌러 표면의 핏물을 완전히 흡수시켜야 합니다." },
-      { name: "표면 오일 코팅 적용", text: "핏물을 뺀 소고기 표면에 식용유나 올리브유를 얇게 바릅니다. 기름막이 공기 중 산소가 고기 단백질과 닿는 것을 원천 봉쇄하여 갈변과 신선도 저하를 획기적으로 지연시킵니다." },
-      { name: "밀착 랩핑 및 밀봉", text: "오일 코팅된 소고기를 랩으로 겹치지 않게 타이트하게 말아 공기를 뺍니다. 이렇게 이중 밀봉하여 냉장 보관 시 3일까지 맛이 유지되며, 냉동 시에는 90일까지 안심할 수 있습니다." }
-    ],
-    en: [
-      { name: "Remove Surface Blood with Paper", text: "Surface blood is the primary cause of odors and bacterial growth. Press the steak firmly with paper towels to absorb excess blood before storage." },
-      { name: "Brush Surface with Cooking Oil", text: "Apply a thin layer of olive oil or cooking oil to the beef surface. The oil film prevents oxygen from touching the meat, delaying browning." },
-      { name: "Wrap Tightly with Cling Film", text: "Wrap the oiled beef slices tightly in plastic wrap, squeezing out all air. Store deep inside the fridge (up to 3 days) or freeze (up to 90 days)." }
-    ]
-  },
-  'how-to-store-chicken': {
-    ko: [
-      { name: "생닭 물 세척 절대 금지", text: "생닭에 묻은 캠필로박터 식중독균은 흐르는 물에 씻을 때 미세 물방울을 통해 반경 50cm 이내의 식기, 칼, 도마에 다 튊니다. 절대 물에 씻지 말고, 끓는 물에 데쳐 소독하거나 키친타월로 물기만 닦으세요." },
-      { name: "이중 소분 후 하단 선반 보관", text: "생닭에서 나오는 붉은 닭 육즙(수액)이 다른 반찬에 닿으면 즉시 상합니다. 닭고기를 일회용 팩에 넣고 한 번 더 지퍼백에 이중 밀봉하여 냉장고에서 가장 온도가 일정한 하단 선반 구석에 보관하세요." },
-      { name: "소금과 청주로 밑간 보관", text: "구입 즉시 조리하지 못할 생닭은 청주(또는 소주)와 굵은 소금을 살짝 뿌려 냉장 보관하면 알코올의 살균 작용과 소금의 삼투압 작용으로 닭고기 신선도가 하루 더 연장됩니다." }
-    ],
-    en: [
-      { name: "Never Wash Raw Chicken", text: "Washing raw chicken splashes campylobacter bacteria onto surrounding sink surfaces, utensils, and walls. Simply wipe dry with paper towels." },
-      { name: "Double Bag on Lower Shelf", text: "Chicken raw juices carrying pathogens must not drip on other foods. Double-bag the chicken and place it on the lowest shelf of your fridge." },
-      { name: "Season with Salt and Sake", text: "If not cooking immediately, rub with a splash of sake and salt. Alcohol kills surface microbes and salt regulates osmosis, extending shelf life." }
-    ]
-  },
-  'how-to-store-squid': {
-    ko: [
-      { name: "내장 및 빨판 이물질 제거", text: "오징어 뼈와 먹물, 내장 부위는 효소 분해가 빨라 비린 향과 잡내의 본거지입니다. 배를 갈라 내장을 완전히 긁어내고 다리 빨판에 낀 이물질은 굵은 소금으로 박박 문질러 깨끗이 세척합니다." },
-      { name: "수분 건조 후 개별 랩핑", text: "세척 완료된 오징어에 물기가 남아있으면 얼릴 때 성에가 생겨 살이 푸석해집니다. 키친타월로 안팎의 수분을 완벽히 닦아내고 한 마리씩 겹치지 않게 식품용 랩으로 평평하게 랩핑합니다." },
-      { name: "지퍼백 이중 밀봉 후 냉동", text: "랩핑한 오징어들을 냉동용 지퍼백에 넣고 공기를 뺀 뒤 끝까지 밀봉합니다. 해산물 특유의 트리메틸아민(비린 향 성분) 기체가 냉동실 공기로 퍼져나가는 것을 막기 위해 반드시 이중 밀봉해야 합니다." }
-    ],
-    en: [
-      { name: "Remove Organs and Scrub Suckers", text: "Squid viscera decay very quickly, causing bad smell. Slice the body, scrape off all inner organs, and scrub the tentacle suckers with coarse salt." },
-      { name: "Wipe Moisture and Wrap with Film", text: "Wipe off all surface water with paper towels to prevent freezer burn. Wrap each squid flatly in plastic wrap." },
-      { name: "Double Seal in Freezer Bag", text: "Place wrapped squid inside a heavy freezer bag and seal tightly. Double sealing locks in the fishy smell, protecting other freezer items." }
-    ]
-  },
-  'how-to-store-salmon': {
-    ko: [
-      { name: "표면 수분과 기름 제거", text: "생연어 표면의 기름과 수분은 공기 중 산소와 닿자마자 산패하여 산패취(비린내)를 뿜어냅니다. 보관 전 키친타월로 연어 겉면의 오일과 물기를 부드럽게 꾹꾹 눌러 제거하세요." },
-      { name: "레몬즙 및 청주 코팅", text: "연어 표면에 브러시나 손가락을 이용해 레몬즙이나 청주를 아주 살짝 코팅하듯 바릅니다. 산성 성분과 알코올이 미생물 증식을 억제하고 표면 지방 산화를 강력하게 막아줍니다." },
-      { name: "밀착 랩핑 냉장 보관", text: "레몬즙 코팅된 연어를 랩 위에 올리고 공기가 전혀 통하지 않도록 꽁꽁 감싸 밀착 랩핑합니다. 공기 접촉을 차단하여 신선도 저하를 늦추고 냉장실 안쪽에 넣어 2일 이내 섭취해야 합니다." }
-    ],
-    en: [
-      { name: "Wipe Off Surface Oil and Moisture", text: "Surface moisture and fish oil oxidise quickly when touching air, creating fishy smells. Wipe the salmon dry using paper towels." },
-      { name: "Apply Lemon Juice or Sake", text: "Lightly coat the salmon surface with sake or lemon juice. This acid/alcohol coat limits bacterial growth and lipid oxidation." },
-      { name: "Wrap Tightly with Cling Film", text: "Place the salmon on cling wrap, wrap it tightly to expel air, and store in the coldest part of the fridge. Consume within 2 days." }
-    ]
-  },
-  'how-to-store-olive-oil': {
-    ko: [
-      { name: "냉장 보관 금지 (상온 보관)", text: "올리브유 속 불포화지방산은 8℃ 이하 저온에서 하얗게 고체로 응고됩니다. 해동하면 액체로 돌아가지만, 이 과정이 반복되면 올리브 고유의 풀 향과 고소한 풍미가 전부 소실되어 밋밋해집니다." },
-      { name: "어두운 차광 유리병 사용", text: "올리브유는 빛(자외선)에 닿으면 급속도로 산화되어 유해 성분이 증가합니다. 애초에 빛을 통과시키지 않는 갈색이나 어두운 녹색 유리병 제품을 고르고 투명 병이라면 쿠킹호일로 감싸두세요." },
-      { name: "열기가 없는 찬장 보관", text: "요리하기 편하도록 가스레인지나 오븐 바로 옆에 올리브유를 두는 경우가 많습니다. 하지만 잦은 주변 열기가 산패를 촉진해 쩐내를 만드니, 반드시 열기가 닿지 않는 싱크대 아래 그늘진 찬장에 두세요." }
-    ],
-    en: [
-      { name: "Never Store in Refrigerator", text: "Olive oil fats solidify into white crystals below 8°C. Thawing restores liquidity but destroys the delicate olive aroma and flavor compounds." },
-      { name: "Use Dark Glass and Block Light", text: "Light accelerates lipid oxidation. Always store olive oil in dark green or amber glass bottles, or wrap clear bottles in aluminum foil." },
-      { name: "Keep Away from Stovetop Heat", text: "Keep the bottle away from oven and stovetop heat, which ruins quality. Store inside a cool, dark kitchen cupboard." }
-    ]
-  },
-  'how-to-store-perilla-oil': {
-    ko: [
-      { name: "냉장실 저온 보관", text: "들기름은 몸에 좋은 불포화지방산인 오메가-3 비율이 60% 이상으로 극도로 높습니다. 이는 산소와 빛, 온도가 오르면 즉각 산화 반응을 일으키므로 반드시 냉장실에 넣어 저온 보존해야 합니다." },
-      { name: "갈색 차광병 및 소분 보관", text: "빛이 들기름 산화의 주범이므로 어두운 갈색 유리병에 담아 보관해야 합니다. 또한 공기와의 접촉면이 많아질수록 쩐내가 나기 쉬우므로 큰 통에 한 번에 두기보다 작은 차광병에 소분하는 것이 좋습니다." },
-      { name: "참기름과 8:2 비율 혼합", text: "들기름을 더 오래 두고 먹는 아주 영리한 방법은 참기름을 조금 섞는 것입니다. 참기름 속에 풍부한 천연 항산화 물질인 '세사몰'과 '리그난' 성분이 들기름의 산패 작용을 막아 보관 기간을 2배 늘려줍니다." }
-    ],
-    en: [
-      { name: "Always Store in Refrigerator", text: "Perilla oil is over 60% omega-3, which is highly unstable. Store it in the fridge to prevent rapid oxidation and toxic rancidity." },
-      { name: "Use Dark Bottle & Small Portion", text: "Light is the catalyst for rancidity. Use dark glass bottles and decant into smaller containers to reduce headspace oxygen contact." },
-      { name: "Mix with Sesame Oil at 8:2", text: "Mixing 20% sesame oil into 80% perilla oil extends the shelf life. Sesame oil's natural sesamol and lignan act as strong antioxidants." }
-    ]
-  },
-  'how-to-store-nuts': {
-    ko: [
-      { name: "밀봉 후 냉장 또는 냉동 보관", text: "견과류는 온도가 높고 습한 상온에 두면 지방 성분이 공기 중 산소와 만나 찌든 내가 나고 1급 발암 곰팡이독소인 아플라톡신(Aflatoxin)이 피어나기 쉬우므로 무조건 밀봉 냉장/냉동해야 합니다." },
-      { name: "불투명 밀폐 용기 소분 포장", text: "빛과 산소는 견과류 속 양질의 불포화지방산 산패를 촉진합니다. 투명 지퍼백보다는 차광이 되는 불투명 백이나 어두운 밀폐 밀봉 용기에 담아 산소 흡수제(실리카겔)를 넣어 공기를 차단하는 것이 좋습니다." },
-      { name: "완벽 건조 및 밀폐 상태 유지", text: "냉장실 습기가 견과류에 스며들면 조직이 눅눅해지고 즉시 균이 번식합니다. 락앤락 통 뚜껑에 제습제를 붙이거나 지퍼를 확실히 잠가 외부 수분 유입을 완전히 차단하는 것이 과학적 팩트입니다." }
-    ],
-    en: [
-      { name: "Store Sealed in Fridge or Freezer", text: "Nuts left at room temp oxidize and develop a highly toxic carcinogen called aflatoxin. Always store them airtight in the fridge or freezer." },
-      { name: "Use Opaque Airtight Containers", text: "Oxygen and light ruin unsaturated fats. Use opaque containers or amber jars, and include a silica gel moisture absorber inside." },
-      { name: "Keep Dry and Moisture Free", text: "Any moisture causes nuts to become soggy and moldy. Keep containers tightly sealed to block refrigerator humidity." }
-    ]
-  }
-};
-
-// 접속 포스트 ID에 맞추어 매칭되는 HowTo 구조화 스키마를 동적으로 렌더링
-const matchedHowToKey = Object.keys(howToData).find(key => post.id.includes(key));
-if (matchedHowToKey) {
-  const steps = howToData[matchedHowToKey][lang === 'ko' ? 'ko' : 'en'] || howToData[matchedHowToKey]['en'];
+// 포스트 프론트매터에 정의된 steps가 있는 경우 HowTo 구조화 스키마 동적 생성
+if (post.data.steps && post.data.steps.length > 0) {
   structuredDataList.push({
     "@context": "https://schema.org",
     "@type": "HowTo",
     "name": title,
     "description": description,
     "image": heroImage ? new URL(heroImage, Astro.site).href : undefined,
-    "step": steps.map((step, idx) => ({
+    "step": post.data.steps.map((step: any, idx: number) => ({
       "@type": "HowToStep",
       "name": step.name,
       "text": step.text,
@@ -341,7 +73,36 @@ if (matchedHowToKey) {
   });
 }
 
-const formattedDate = new Date(pubDate).toLocaleDateString(lang === 'ko' ? 'ko-KR' : 'en-US', {
+// 포스트 프론트매터에 정의된 faqs가 있는 경우 FAQPage 구조화 스키마 동적 생성
+if (post.data.faqs && post.data.faqs.length > 0) {
+  structuredDataList.push({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": post.data.faqs.map((faq: any) => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  });
+}
+
+const localeMap: Record<string, string> = {
+  ko: 'ko-KR',
+  en: 'en-US',
+  ja: 'ja-JP',
+  zh: 'zh-CN',
+  es: 'es-ES',
+  fr: 'fr-FR',
+  de: 'de-DE',
+  pt: 'pt-PT',
+  id: 'id-ID'
+};
+const locale = localeMap[lang || 'en'] || lang || 'en';
+
+const formattedDate = new Date(pubDate).toLocaleDateString(locale, {
   year: 'numeric',
   month: 'long',
   day: 'numeric'
@@ -361,7 +122,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
   title={title} 
   lang={lang as string} 
   description={description} 
-  appId={app} 
+  appId={app === 'general' ? undefined : app} 
   image={heroImage}
   ogType="website"
   structuredData={structuredDataList}
@@ -371,12 +132,12 @@ const activeAccent = themeAccents[app] || themeAccents.general;
     <nav class="flex text-xs font-semibold text-slate-500 mb-8" aria-label="Breadcrumb">
       <ol class="inline-flex items-center space-x-1 md:space-x-2">
         <li class="inline-flex items-center">
-          <a href={`/${lang}/`} class="hover:text-slate-900 dark:hover:text-white transition-colors">Home</a>
+          <a href={`/${lang}/`} class="hover:text-slate-900 dark:hover:text-white transition-colors">{t('nav.home')}</a>
         </li>
         <li>
           <div class="flex items-center">
             <span class="mx-2 text-slate-400 dark:text-slate-700">/</span>
-            <a href={`/${lang}/blog/`} class="hover:text-slate-900 dark:hover:text-white transition-colors">Blog</a>
+            <a href={`/${lang}/blog/`} class="hover:text-slate-900 dark:hover:text-white transition-colors">{t('nav.blog')}</a>
           </div>
         </li>
         <li aria-current="page">
@@ -426,12 +187,10 @@ const activeAccent = themeAccents[app] || themeAccents.general;
         <div class="space-y-4 max-w-sm text-center md:text-left">
           <span class="px-2.5 py-1 rounded-full bg-red-600 text-white font-bold text-[10px] tracking-widest uppercase">YOUTUBE SHORTS</span>
           <h4 class="text-xl font-extrabold text-slate-900 dark:text-white leading-snug tracking-tight">
-            {lang === 'ko' ? '1분 영상 꿀팁으로 크게 보기 🎬' : 'Watch the 1-Min Quick Tip in HD! 🎬'}
+            {t('blog.shorts.title')}
           </h4>
           <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">
-            {lang === 'ko' 
-              ? '바나나 보관 꿀팁의 전체 과정을 요약한 공식 쇼츠 영상입니다. 이미지를 클릭하시면 선명한 전체 화면으로 감상하실 수 있습니다.' 
-              : 'Official shorts summarizing the quick banana hacks. Click the card to open in cinematic full screen!'}
+            {t('blog.shorts.desc')}
           </p>
         </div>
         <div class="w-full md:w-auto flex justify-center shrink-0">
@@ -454,6 +213,19 @@ const activeAccent = themeAccents[app] || themeAccents.general;
       prose-blockquote:border-l-4 prose-blockquote:border-emerald-500 prose-blockquote:bg-emerald-500/5 prose-blockquote:py-5 prose-blockquote:px-7 prose-blockquote:rounded-r-3xl prose-blockquote:my-8 prose-blockquote:text-slate-700 dark:prose-blockquote:text-slate-300 prose-blockquote:not-italic`}>
       <Content />
     </article>
+ 
+    <!-- Legal Disclaimer Section -->
+    <div class="my-10 p-5 rounded-[1.5rem] border border-slate-200/80 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20 shadow-sm backdrop-blur-sm">
+      <div class="flex items-center gap-2 mb-2 text-slate-500 dark:text-slate-400">
+        <span class="text-base">⚖️</span>
+        <h5 class="text-xs font-bold uppercase tracking-wider m-0">
+          {t('blog.disclaimer.title')}
+        </h5>
+      </div>
+      <p class="text-[11px] md:text-xs text-slate-500/80 dark:text-slate-400/80 m-0 leading-relaxed font-medium">
+        {t('blog.disclaimer.desc')}
+      </p>
+    </div>
 
     <!-- App Promotion CTA Banner -->
     <div class="pt-10 border-t border-slate-200 dark:border-white/10 space-y-4">

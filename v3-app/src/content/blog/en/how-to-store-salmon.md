@@ -1,15 +1,22 @@
 ---
-title: "연어 2일 만에 비린내 풀풀? 산화를 늦추는 생연어 보관 가이드"
-description: "연어는 산화 속도가 매우 빠릅니다. 청주 and 레몬즙 코팅, 진공 랩핑을 이용해 신선도를 오래 보존하는 법을 전합니다."
+title: "How to Store Salmon Fresh: Scientific Storage Guide"
+description: "Learn the best storage temperature, methods, and duration for Salmon based on official safety guidelines."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["연어 보관법","연어 보관","생연어 냉장","연어 비린내","수산물 위생"]
+tags: ["Salmon","Scientifically Proven Storage Guide","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+authority: "<strong>FDA & USDA</strong>"
+steps:
+  - name: "Wipe off surface oil and moisture — Prevent contamination 🍣"
+    text: "Moisture and fish oil on the surface of raw salmon are the main cause of bacterial growth. Press both sides of the salmon firmly with paper towels to dry it completely before storing."
+  - name: "Apply lemon juice or cooking wine — Natural preservation 🍋"
+    text: "Brush a thin layer of lemon juice or a small amount of cooking wine (sake or mirin) on the dry salmon. The acid and alcohol act as natural preservatives, inhibiting microbial growth and fat oxidation."
+  - name: "Wrap tightly with plastic wrap to exclude air — Perfect seal 📦"
+    text: "Wrap the salmon tightly in plastic wrap, squeezing out all air, then place it inside a ziploc bag for a double seal. This keeps it fresh for up to 2 days in the fridge and 60 days in the freezer."
 ---
 
-Did your beautiful salmon turn dull and smell fishy in the fridge? Today, StoreSelf shares salmon preservation tips based on official FDA guidelines.
-
+Did you leave fresh salmon in the fridge for over two days? Salmon has high moisture, allowing bacteria to multiply quickly. Today, StoreSelf shares FDA-approved scent-free salmon storage and sealing tips.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Did your beautiful salmon turn dull and smell fishy in the fridge? Today, StoreS
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Food and Drug Administration (FDA) & National Oceanic and Atmospheric Administration (NOAA)</strong>.
+      This storage guide is verified based on official guidelines from the <strong>FDA & USDA</strong>.
     </p>
   </div>
 </div>
-
 
 ---
 
 ## 1. Why store like this? Scientific facts
 
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
+Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.
 
 ---
 
-## 2. Scientifically proven 3-step storage guide
+## 2. Scientifically Proven Storage Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wipe Off Surface Oil and Moisture — Prevent Spoilage 🍣</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wipe off surface oil and moisture — Prevent contamination 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Surface moisture and fish oil oxidise quickly when touching air, creating fishy smells. Wipe the salmon dry using paper towels.
+    Moisture and fish oil on the surface of raw salmon are the main cause of bacterial growth. Press both sides of the salmon firmly with paper towels to dry it completely before storing.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Apply Lemon Juice or Sake — Natural Acid Preservation 🍋</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Apply lemon juice or cooking wine — Natural preservation 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Lightly coat the salmon surface with sake or lemon juice. This acid/alcohol coat limits bacterial growth and lipid oxidation.
+    Brush a thin layer of lemon juice or a small amount of cooking wine (sake or mirin) on the dry salmon. The acid and alcohol act as natural preservatives, inhibiting microbial growth and fat oxidation.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap Tightly with Cling Film — Airtight Storage 📦</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap tightly with plastic wrap to exclude air — Perfect seal 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Place the salmon on cling wrap, wrap it tightly to expel air, and store in the coldest part of the fridge. Consume within 2 days.
+    Wrap the salmon tightly in plastic wrap, squeezing out all air, then place it inside a ziploc bag for a double seal. This keeps it fresh for up to 2 days in the fridge and 60 days in the freezer.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Crucial Rules and Cautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Inspect color changes carefully ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wipe off surface moisture and liquid completely</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      If the salmon turns dull brown or lacks elasticity when pressed, the proteins have broken down. Discard it immediately.
+      The liquid (drip) on the fish surface causes a fishy smell and rapid spoilage. Dry it thoroughly before wrapping.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Remove skin and bones for freezing ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Vacuum wrap or seal tightly without air</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      For long-term freezing (up to 60 days), removing the skin and bones beforehand preserves texture and makes thawing convenient.
+      Oxygen exposure leads to lipid rancidity and dry texture. Tightly wrapping with wrap blocks oxygen contact.
     </p>
   </div>
 </div>

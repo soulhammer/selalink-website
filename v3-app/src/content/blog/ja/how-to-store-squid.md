@@ -1,15 +1,22 @@
 ---
-title: "오징어 비린내 냉동실에 배는 이유? 냄새 가두는 오징어 보관법"
-description: "오징어는 내장을 방치하면 바로 비린내의 온상이 됩니다. 깔끔한 내장 제거와 지퍼백 2중 밀봉 보관 요령을 알아봅니다."
+title: "イカの鮮度を保つ保存方法：科学的保管ガイド"
+description: "公的安全基準に基づくイカの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["오징어 보관법","해산물 보관","오징어 손질","냄새 차단","냉동 보관"]
+tags: ["イカ","科学的に検証された保存ガイド","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+authority: "<strong>国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+steps:
+  - name: "内臓と吸盤の汚れを完全に除去する — 臭み防止 🦑"
+    text: "いかの内臓や吸盤についた汚れは, 生臭さや雑菌繁殖の原因になります。胴体を切り開いて内臓とイカスミ袋を取り除き, 足の吸盤についたイカの角質リングなどの汚れを流水でこすり落としながらきれいに洗います。"
+  - name: "水気を完全に乾かしてラップで包む — 食感の保護 📦"
+    text: "洗ったいかは, ペーパーで胴体の中も外も水分を完全に拭き取ってください。水分が残っていると凍らせる際に氷結晶ができ, 解凍した時に身がふにゃふにゃになってしまいます。水気を取ったらラップで個別に密閉します。"
+  - name: "ジッパーバッグに入れて二重に密閉して冷凍 — におい移り防止 🛡️"
+    text: "ラップで包んだいかをジッパーバッグに入れ, 空気を抜いてからマイナス18℃以下の冷凍庫に保存します。海鮮特有のにおいが他の冷凍食品に移るのを完全に防ぎます。"
 ---
 
-Does frozen squid leave a fishy smell on other freezer items? Today, StoreSelf presents odor-locking squid storage hacks based on NIFS guidelines.
-
+生のイカをビニール袋に入れて冷蔵庫に置いておいたら、生臭い臭いが充満して身が傷んでしまった経験はありませんか？イカは内臓から腐り始めるため、下処理と冷凍が不可欠です。正しい手入れ方法をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Does frozen squid leave a fishy smell on other freezer items? Today, StoreSelf p
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>National Institute of Fisheries Science (NIFS) & Ministry of Food and Drug Safety</strong>.
+      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. なぜこのように保存するのか？科学的な事実
+
+食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. 科学的に検証された保存ガイド
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Remove Organs and Scrub Suckers with Salt — Odor Stop 🦑</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">内臓と吸盤の汚れを完全に除去する — 臭み防止 🦑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Squid viscera decay very quickly, causing bad smell. Slice the body, scrape off all inner organs, and scrub the tentacle suckers with coarse salt.
+    いかの内臓や吸盤についた汚れは, 生臭さや雑菌繁殖の原因になります。胴体を切り開いて内臓とイカスミ袋を取り除き, 足の吸盤についたイカの角質リングなどの汚れを流水でこすり落としながらきれいに洗います。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Wipe Moisture Fully and Wrap with Film — Texture Protection 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">水気を完全に乾かしてラップで包む — 食感の保護 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Wipe off all surface water with paper towels to prevent freezer burn. Wrap each squid flatly in plastic wrap.
+    洗ったいかは, ペーパーで胴体の中も外も水分を完全に拭き取ってください。水分が残っていると凍らせる際に氷結晶ができ, 解凍した時に身がふにゃふにゃになってしまいます。水気を取ったらラップで個別に密閉します。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Double Seal in Freezer Bag — Prevent Freezer Smell 🛡️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ジッパーバッグに入れて二重に密閉して冷凍 — におい移り防止 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Place wrapped squid inside a heavy freezer bag and seal tightly. Double sealing locks in the fishy smell, protecting other freezer items.
+    ラップで包んだいかをジッパーバッグに入れ, 空気を抜いてからマイナス18℃以下の冷凍庫に保存します。海鮮特有のにおいが他の冷凍食品に移るのを完全に防ぎます。
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Freezing raw squid can make it chewy ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">内臓、目、吸盤を必ず綺麗に取り除いてください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] Blanching squid in boiling water with a drop of vinegar for 10 seconds before freezing preserves a tender and springy texture upon thawing.
+      内臓を残したままだとそこから腐って悪臭を放ち、雑菌が繁殖します。購入後すぐに取り除いて洗浄することが大切です。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Limit refrigeration to 24 hours ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">生のイカは冷蔵庫で最大2日以内に調理してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] Seafood spoils extremely fast. Cook raw squid within a day of purchase, or freeze it immediately.
+      生の水産物は冷蔵室では急速に傷みます。長期間保存する場合は、必ず小分けにして冷凍庫で保管してください。
     </p>
   </div>
 </div>

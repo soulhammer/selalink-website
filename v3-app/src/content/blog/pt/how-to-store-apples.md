@@ -6,6 +6,14 @@ category: "StoreSelf"
 tags: ["Armazenar Maçãs", "Cuidado de Frutas", "Gás Etileno", "Dicas de Frescor", "Trucos de Cozinha"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+
+steps:
+  - name: "Embrulhe individualmente com filme plástico sem lavar — Retenção de umidade 📦"
+    text: "Expor as maçãs diretamente ao ar ou à geladeira faz com que percam umidade, murchando a casca e amolecendo a polpa. 💡 Dicas de conservação: Embrulhe cada maçã seca firmemente com filme plástico. Isso retém a umidade natural para mantê-las crocantes e evita a liberação de gás etileno."
+  - name: "Armazene em temperatura baixa de 0–4 °C — Retarde o amadurecimento ❄️"
+    text: "Temperaturas mais altas aceleram a respiração da maçã, liberando mais gás etileno e estragando-a mais rápido. 💡 Dicas de conservação: A temperatura ideal é de 0 a 4 °C. Coloque as maçãs embrulhadas na gaveta de legumes do refrigerador. Evite temperaturas abaixo de zero para não congelar."
+  - name: "Isole completamente de outros alimentos — Proteção dupla 🛡️"
+    text: "Mesmo embrulhadas, o forte gás etileno das maçãs pode circular na geladeira e amadurecer outros alimentos. 💡 Dicas de conservação: Coloque as maçãs em um saco com fecho hermético ou pote fechado. Guarde-as em gavetas separadas de vegetais sensíveis como alface, espinafre, bananas e peras."
 ---
 
 Você já comprou um saco de maçãs frescas, doces e crocantes apenas para encontrá-las murchas e moles apenas duas semanas depois? 🍎

@@ -1,15 +1,22 @@
 ---
-title: "연어 2일 만에 비린내 풀풀? 산화를 늦추는 생연어 보관 가이드"
-description: "연어는 산화 속도가 매우 빠릅니다. 청주 and 레몬즙 코팅, 진공 랩핑을 이용해 신선도를 오래 보존하는 법을 전합니다."
+title: "Comment conserver Saumon frais : Guide scientifique de conservation"
+description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Saumon selon les directives de sécurité officielles."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["연어 보관법","연어 보관","생연어 냉장","연어 비린내","수산물 위생"]
+tags: ["Saumon","Guide de conservation scientifiquement prouvé","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+authority: "<strong>FDA & USDA</strong>"
+steps:
+  - name: "Essuyer le gras et l'humidité en surface — Éviter la contamination 🍣"
+    text: "L'humidité et le gras à la surface du saumon cru favorisent la prolifération des bactéries. Pressez les deux faces au papier absorbant pour sécher la chair avant stockage."
+  - name: "Badigeonner de jus de citron ou d'alcool de cuisine — Conservateur 🍋"
+    text: "Badigeonnez une fine couche de jus de citron ou d'alcool de cuisine sur le saumon séché. L'acidité et l'alcool servent de conservateur naturel en limitant les bactéries et le rancissement."
+  - name: "Envelopper très serré dans du film étirable sans air — Barrière totale 📦"
+    text: "Enveloppez le saumon très serré dans du film étirable en chassant l'air, puis mettez-le dans un sac congélation. Il reste frais 2 jours au réfrigérateur et 60 jours au congélateur."
 ---
 
-Did your beautiful salmon turn dull and smell fishy in the fridge? Today, StoreSelf shares salmon preservation tips based on official FDA guidelines.
-
+Avez-vous laissé du saumon frais au frigo plus de deux jours ? Le saumon est très humide et les bactéries s'y développent vite. Aujourd'hui, StoreSelf vous montre comment le conserver sans odeur selon l'FDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Did your beautiful salmon turn dull and smell fishy in the fridge? Today, StoreS
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Food and Drug Administration (FDA) & National Oceanic and Atmospheric Administration (NOAA)</strong>.
+      Ce guide de conservation est basé sur les directives officielles de : <strong>FDA & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Pourquoi conserver ainsi ? Faits scientifiques
+
+Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guide de conservation scientifiquement prouvé
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[FR] Wipe Off Surface Oil and Moisture — Prevent Spoilage 🍣</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Essuyer le gras et l'humidité en surface — Éviter la contamination 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [FR] Surface moisture and fish oil oxidise quickly when touching air, creating fishy smells. Wipe the salmon dry using paper towels.
+    L'humidité et le gras à la surface du saumon cru favorisent la prolifération des bactéries. Pressez les deux faces au papier absorbant pour sécher la chair avant stockage.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[FR] Apply Lemon Juice or Sake — Natural Acid Preservation 🍋</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Badigeonner de jus de citron ou d'alcool de cuisine — Conservateur 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [FR] Lightly coat the salmon surface with sake or lemon juice. This acid/alcohol coat limits bacterial growth and lipid oxidation.
+    Badigeonnez une fine couche de jus de citron ou d'alcool de cuisine sur le saumon séché. L'acidité et l'alcool servent de conservateur naturel en limitant les bactéries et le rancissement.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[FR] Wrap Tightly with Cling Film — Airtight Storage 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper très serré dans du film étirable sans air — Barrière totale 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [FR] Place the salmon on cling wrap, wrap it tightly to expel air, and store in the coldest part of the fridge. Consume within 2 days.
+    Enveloppez le saumon très serré dans du film étirable en chassant l'air, puis mettez-le dans un sac congélation. Il reste frais 2 jours au réfrigérateur et 60 jours au congélateur.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Règles cruciales et précautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[FR] Inspect color changes carefully ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Essuyez complètement l'humidité et le jus en surface</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [FR] If the salmon turns dull brown or lacks elasticity when pressed, the proteins have broken down. Discard it immediately.
+      Le jus qui s'échappe du poisson provoque de mauvaises odeurs et accélère le pourrissement. Séchez-le bien avant de l'emballer.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[FR] Remove skin and bones for freezing ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Filmez sous vide ou fermez hermétiquement sans air</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [FR] For long-term freezing (up to 60 days), removing the skin and bones beforehand preserves texture and makes thawing convenient.
+      Le contact de l'oxygène oxyde les graisses et assèche la chair. Filmer très serré permet de bloquer l'air.
     </p>
   </div>
 </div>

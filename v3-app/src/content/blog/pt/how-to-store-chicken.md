@@ -1,15 +1,22 @@
 ---
-title: "생닭 물에 씻으면 싱크대 오염 폭발? 올바른 닭고기 보관 및 손질법"
-description: "생닭은 씻으면 식중독균이 주방에 확산됩니다. 물 세척 자제령과 위생적인 2일 이내 보관법을 소개합니다."
+title: "Como armazenar Frango fresco: Guia científico de conservação"
+description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Frango con base nas diretrizes oficiais de segurança."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["닭고기 보관법","닭고기 세척 경고","캠필로박터","생닭 보관","식품 위생"]
+tags: ["Frango","Guia de armazenamento comprovado cientificamente","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+authority: "<strong>USDA & MFDS & CDC</strong>"
+steps:
+  - name: "Não lave o frango cru com água — Evite contaminação cruzada ❌💧"
+    text: "Lavar o frango cru espalha água com bactérias como Campylobacter a até 50 cm ao redor da pia, contaminando louças e utensílios. Não lave o frango; limpe-o com papel-toalha ou escalde em água fervente."
+  - name: "Sele em saco duplo e guarde na prateleira inferior — Evite vazamento de sucos 📦"
+    text: "Os sucos do frango cru contêm bactérias e podem contaminar outros alimentos caso vazem. Coloque o frango em um saco plástico, feche dentro de outro com lacre e guarde na prateleira inferior da geladeira."
+  - name: "Tempere levemente com sal e vinho de cozinha — Prolongue a conservação 🧂"
+    text: "Se não puder cozinhar o frango imediatamente, salpique sal grosso e um pouco de saquê culinário ou álcool transparente antes de refrigerar. O álcool higieniza e o sal preserva as fibras por mais um dia."
 ---
 
-Does washing raw chicken spread bacteria? Today, StoreSelf shares safe raw poultry storage guidelines based on CDC and USDA instructions.
-
+Lavar frango cru pode espalhar bactérias perigosas por toda a cozinha. Hoje, o StoreSelf compartilha orientações da CDC para manusear e guardar aves com segurança.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Does washing raw chicken spread bacteria? Today, StoreSelf shares safe raw poult
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Centers for Disease Control and Prevention (CDC) & USDA</strong>.
+      Este guia de conservação segue as diretrizes oficiais de: <strong>USDA & MFDS & CDC</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Por que armazenar assim? Fatos científicos
+
+Compreender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guia de armazenamento comprovado cientificamente
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Never Wash Raw Chicken — Avoid Cross-Contamination ❌💧</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Não lave o frango cru com água — Evite contaminação cruzada ❌💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] Washing raw chicken splashes campylobacter bacteria onto surrounding sink surfaces, utensils, and walls. Simply wipe dry with paper towels.
+    Lavar o frango cru espalha água com bactérias como Campylobacter a até 50 cm ao redor da pia, contaminando louças e utensílios. Não lave o frango; limpe-o com papel-toalha ou escalde em água fervente.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Double Bag and Store on Lower Shelf — Prevent Drip Spreads 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sele em saco duplo e guarde na prateleira inferior — Evite vazamento de sucos 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] Chicken raw juices carrying pathogens must not drip on other foods. Double-bag the chicken and place it on the lowest shelf of your fridge.
+    Os sucos do frango cru contêm bactérias e podem contaminar outros alimentos caso vazem. Coloque o frango em um saco plástico, feche dentro de outro com lacre e guarde na prateleira inferior da geladeira.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Lightly Season with Salt and Cooking Sake — Extend Freshness 🧂</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tempere levemente com sal e vinho de cozinha — Prolongue a conservação 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] If not cooking immediately, rub with a splash of sake and salt. Alcohol kills surface microbes and salt regulates osmosis, extending shelf life.
+    Se não puder cozinhar o frango imediatamente, salpique sal grosso e um pouco de saquê culinário ou álcool transparente antes de refrigerar. O álcool higieniza e o sal preserva as fibras por mais um dia.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[PT] Use dedicated cutting boards and knives 🔪</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Use tábuas e facas exclusivas para o frango cru</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [PT] Always sanitize cutting boards and knives used for raw poultry with boiling water or bleach. Avoid slicing raw greens with the same tools.
+      Os utensílios usados para o frango cru devem ser esterilizados. Usá-los direto em saladas causa contaminação cruzada.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[PT] Consume within 2 days or freeze ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Consuma em até 2 dias ou congele imediatamente</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [PT] Chicken has higher water content and rot rates than other meats. Limit refrigeration to 48 hours and freeze any remaining portions.
+      O frango tem mais água e proliferação bacteriana do que porco ou boi, estragando muito rápido. Limite o refrigerador a 48 horas.
     </p>
   </div>
 </div>

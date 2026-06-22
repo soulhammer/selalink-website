@@ -1,15 +1,22 @@
 ---
-title: "견과류 상온에 두면 발암 물질 발생? 신선하고 안전한 견과류 보관법"
-description: "견과류는 상온에서 아플라톡신이라는 1급 발암 곰팡이독소가 생기기 쉽습니다. 밀봉 후 냉장/냉동 보관의 중요성을 알아봅니다."
+title: "ナッツの鮮度を保つ保存方法：科学的保管ガイド"
+description: "公的安全基準に基づくナッツの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["견과류 보관법","견과류 곰팡이","아플라톡신","견과류 냉동","살림 팁"]
+tags: ["ナッツ","科学的に検証された保存ガイド","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+steps:
+  - name: "開封後は必ず密閉して冷蔵・冷凍保存 — アフラトキシン遮断 ❄️"
+    text: "ナッツ類は高温多湿の常温に放置すると, 脂質が酸化して悪臭を放ちます。また, 発がん性のあるカビ毒アフラトキシンが発生しやすくなるため, 開封後は必ず密閉して冷蔵または冷凍で保存してください。"
+  - name: "遮光の密閉容器や保存袋に小分けにする — 光を遮る 📦"
+    text: "光や酸素は, ナッツに含まれる良質な不飽和脂肪酸の酸化を促します。透明な保存袋よりも, 光を通さない不透明な袋や濃い色の密閉容器に入れ, 乾燥剤を入れて空気を遮断してください。"
+  - name: "湿気のない乾燥した状態を維持 — 乾燥密閉 🌬️"
+    text: "ナッツは湿気を吸うと食感が悪くなり, 風味も損なわれます。保存時は常に乾燥した状態を保ち, 開封後は必ず密閉容器に移して湿気が入り込まないように注意してください。"
 ---
 
-Do you leave healthy nuts in transparent jars on your kitchen table? Today, StoreSelf shares safe nut preservation guides based on FDA aflatoxin control guidelines.
-
+健康に良いナッツ類を、食卓の上にそのまま置いて保存していませんか？ナッツは不飽和脂肪酸が豊富なため、空気や光に触れると急速に酸化が進み、油臭くなったり毒性物質が発生したりします。正しい保存方法をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Do you leave healthy nuts in transparent jars on your kitchen table? Today, Stor
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Food and Drug Administration (FDA) & Almond Board of California</strong>.
+      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. なぜこのように保存するのか？科学的な事実
+
+食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. 科学的に検証された保存ガイド
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Store Sealed in Fridge/Freezer — Stop Aflatoxin ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">開封後は必ず密閉して冷蔵・冷凍保存 — アフラトキシン遮断 ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Nuts left at room temp oxidize and develop a highly toxic carcinogen called aflatoxin. Always store them airtight in the fridge or freezer.
+    ナッツ類は高温多湿の常温に放置すると, 脂質が酸化して悪臭を放ちます。また, 発がん性のあるカビ毒アフラトキシンが発生しやすくなるため, 開封後は必ず密閉して冷蔵または冷凍で保存してください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Use Opaque Airtight Bags or Containers — Light Shield 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">遮光の密閉容器や保存袋に小分けにする — 光を遮る 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Oxygen and light ruin unsaturated fats. Use opaque containers or amber jars, and include a silica gel moisture absorber inside.
+    光や酸素は, ナッツに含まれる良質な不飽和脂肪酸の酸化を促します。透明な保存袋よりも, 光を通さない不透明な袋や濃い色の密閉容器に入れ, 乾燥剤を入れて空気を遮断してください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Keep Dry to Prevent Mold Growth 🌬️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">湿気のない乾燥した状態を維持 — 乾燥密閉 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Any moisture causes nuts to become soggy and moldy. Keep containers tightly sealed to block refrigerator humidity.
+    ナッツは湿気を吸うと食感が悪くなり, 風味も損なわれます。保存時は常に乾燥した状態を保ち, 開封後は必ず密閉容器に移して湿気が入り込まないように注意してください。
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Never eat rancid or soft nuts ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">油臭い臭いがしたり、湿気たナッツは絶対に食べないでください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] If nuts smell oily or feel soft, lipid oxidation and mold have started. Washing or roasting will not remove aflatoxin. Discard them.
+      酸化したナッツにはアフラトキシンという強力な発がん性物質（カビ毒）が発生します。加熱しても消えないため、すぐに破棄してください。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Handle nuts gently to avoid cracks 🥜</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">脱酸素剤と一緒に光を通さない容器で密閉保存してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] Cracks or powdering on nut surfaces exposes interior lipids to air, speeding up oxidation. Avoid crushing the storage bags.
+      不透明な容器やジッパーバッグに脱酸素剤と一緒に入れ、光を遮断した涼しい引き出しに入れるか、冷凍庫で保管してください。
     </p>
   </div>
 </div>

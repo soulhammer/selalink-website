@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["바나나 보관법", "과일 보관", "식재료 팁", "에틸렌 가스", "살림 꿀팁"]
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
+authority: "<strong>미국 농무부(USDA) 및 세계보건기구(WHO)</strong>"
 youtubeId: "yJz71H46PJM"
 ---
 
@@ -13,7 +14,7 @@ youtubeId: "yJz71H46PJM"
 
 바나나는 전 세계인이 가장 사랑하는 과일이지만, 상온에서 호흡 속도가 매우 빠르고 스스로 익히는 호르몬을 뿜어내기 때문에 보관 난이도가 꽤 높은 편입니다.
 
-오늘 StoreSelf에서는 미국 농무부(USDA)와 세계보건기구(WHO)의 안전 가이드를 기반으로, 과학적이고 확실하게 바나나 신선도를 유지하는 3단계 보관 비법을 알려드립니다. 🛡️
+오늘 StoreSelf에서는 공인된 식재료 안전 가이드를 기반으로, 과학적이고 확실하게 바나나 신선도를 유지하는 3단계 보관 비법을 알려드립니다. 🛡️
 
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">

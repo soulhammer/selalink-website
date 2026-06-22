@@ -1,15 +1,22 @@
 ---
-title: "아보카도 냉장고에 넣으면 안 되는 이유? 갈변 없는 아보카도 보관법"
-description: "아보카도는 설익은 상태로 냉장 보관 시 숙성을 멈추고 냉해를 입습니다. 종이봉투를 이용한 후숙과 절단면 갈변 차단 요령을 소개합니다."
+title: "Cómo almacenar Aguacate fresco: Guía científica de conservación"
+description: "Descubra la mejor temperatura, métodos y duración para conservar Aguacate según las directrices oficiales de seguridad."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["아보카도 보관법","아보카도 후숙","과일 보관","아보카도 갈변","식재료 팁"]
+tags: ["Aguacate","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+authority: "<strong>USDA & MFDS</strong>"
+steps:
+  - name: "Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Maduración natural 🥑"
+    text: "Los aguacates duros y verdes deben conservarse a temperatura ambiente (15-20 °C). Ponerlos en una bolsa de papel con plátanos o manzanas acelerará su maduración gracias al gas etileno."
+  - name: "Envuelva con film plástico y refrigere una vez maduro — Retrase el deterioro ❄️"
+    text: "Cuando la piel se vuelva marrón oscuro y ceda ante una ligera presión, envuelva el aguacate en film plástico y guárdelo en el cajón de verduras del refrigerador para evitar que se pase."
+  - name: "Aplique jugo de limón en las caras cortadas y selle — Evite el oscurecimiento 🍋"
+    text: "Para conservar la mitad sobrante, deje el hueso puesto, unte una capa fina de jugo de limón (o aceite de oliva) en la pulpa expuesta y selle con film plástico. La acidez bloquea la oxidación."
 ---
 
-Did you accidentally put an unripe avocado in the fridge and watch it rot? Today, StoreSelf presents California Avocado Commission (CAC) and USDA-verified avocado ripening and preservation hacks.
-
+¿Alguna vez puso un aguacate verde en el refrigerador y terminó podrido y aguado? Hoy, StoreSelf comparte trucos de maduración y conservación verificados por la CAC y la USDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Did you accidentally put an unripe avocado in the fridge and watch it rot? Today
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>California Avocado Commission (CAC) & United States Department of Agriculture (USDA)</strong>.
+      Esta guía de conservación cumple con las directrices oficiales de: <strong>USDA & MFDS</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. ¿Por qué almacenarlo así? Datos científicos
+
+Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guía de almacenamiento científicamente probada
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Store Room Temp in Paper Bag Before Ripe — Natural Ripening 🥑</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Maduración natural 🥑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Keep firm avocados at 15-20°C. Placing them inside a paper bag with an apple or banana accelerates ripening via natural ethylene gas.
+    Los aguacates duros y verdes deben conservarse a temperatura ambiente (15-20 °C). Ponerlos en una bolsa de papel con plátanos o manzanas acelerará su maduración gracias al gas etileno.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Wrap with Plastic Cling Film and Refrigerate Once Ripe — Delay Decay ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva con film plástico y refrigere una vez maduro — Retrase el deterioro ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Once the skin turns dark brown and yields to gentle pressure, wrap it tightly in plastic cling wrap and keep in the crisper drawer to prolong freshness.
+    Cuando la piel se vuelva marrón oscuro y ceda ante una ligera presión, envuelva el aguacate en film plástico y guárdelo en el cajón de verduras del refrigerador para evitar que se pase.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Apply Lemon Juice to Cut Surfaces and Seal — Prevent Oxidation 🍋</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aplique jugo de limón en las caras cortadas y selle — Evite el oscurecimiento 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Keep the pit inside the unused half, apply a thin layer of lemon juice or olive oil on the cut surface, and wrap tightly to block oxygen and browning.
+    Para conservar la mitad sobrante, deje el hueso puesto, unte una capa fina de jugo de limón (o aceite de oliva) en la pulpa expuesta y selle con film plástico. La acidez bloquea la oxidación.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Reglas cruciales y precauciones
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ES] Never refrigerate unripe avocados ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">No refrigere aguacates que no estén maduros</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ES] Keeping hard green avocados in the fridge causes cold injury, preventing them from ripening permanently even when brought back to room temperature.
+      Refrigerarlos antes de que maduren detiene el proceso de maduración de forma permanente, haciendo que la textura quede dura y pastosa.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ES] Watch out for soft black spots 🥑</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Aplique jugo de limón en las superficies cortadas</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ES] Large black spots on the skin combined with extreme mushiness indicate internal decay. Avoid consumption.
+      La parte cortada se oxida y se oscurece rápido al aire. Aplicar jugo de limón o aceite de oliva y conservar el hueso ayuda a bloquear el oxígeno.
     </p>
   </div>
 </div>

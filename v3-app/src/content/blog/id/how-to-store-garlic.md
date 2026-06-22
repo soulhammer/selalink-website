@@ -1,15 +1,22 @@
 ---
-title: "깐 마늘에 설탕을 깔아둔다? 곰팡이 안 피는 마늘 보관법 3단계"
-description: "깐 마늘은 수분 관리가 90%입니다. 설탕의 천연 제습제 원리와 다진마늘 냉동 보관법을 소개합니다."
+title: "Cara Menyimpan Bawang putih agar Tetap Segar: Panduan Penyimpanan Ilmiah"
+description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Bawang putih berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["마늘 보관법","깐 마늘 보관","설탕 제습제","다진마늘 보관","살림 팁"]
+tags: ["Bawang putih","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+authority: "<strong>RDA & MFDS & USDA</strong>"
+steps:
+  - name: "Taburkan gula dan tisu dapur di dasar wadah — Penyerap kelembapan alami 🪙"
+    text: "Taburkan gula setebal 1 cm secara merata di dasar wadah kedap udara, lapisi dengan 2–3 lembar tisu dapur, lalu masukkan bawang putih kupas. Gula berfungsi menyerap kelembapan agar bawang tetap kering."
+  - name: "Gantung bawang putih utuh dalam kantong jaring — Ventilasi suhu ruang 🌬️"
+    text: "Menyimpan bawang putih utuh yang belum dikupas di kulkas memicu pertumbuhan tunas dan pembusukan. Taruh bawang di kantong jaring lalu gantung di area berventilasi baik, sejuk, dan teduh (10–15°C)."
+  - name: "Bekukan bawang putih cincang dalam cetakan silikon — Pembekuan porsi ❄️"
+    text: "Untuk bawang putih dalam jumlah banyak, haluskan lalu ratakan di kantong ziploc dengan garis sekat, atau bekukan dalam cetakan silikon. Ambil satu kubus saat memasak, cara ini praktis dan menjaga nutrisinya."
 ---
 
-요리할 때마다 껍질을 벗기기 번거로워 대량으로 까놓은 마늘, 며칠 만에 진물이 생기고 하얀 곰팡이가 피어 버려본 경험 다들 있으시죠? 마늘 수분을 완벽히 잡아보겠습니다.
-
+Pernahkah Anda mengupas bawang putih dalam jumlah banyak untuk menghemat waktu, lalu menjadi busuk dan berjamur putih dalam beberapa hari? Hari ini, StoreSelf membagikan panduan penyimpanan bawang putih.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ app: "storeself"
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>World Health Organization (WHO) & Food and Drug Administration (FDA)</strong>.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>RDA & MFDS & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Mengapa disimpan seperti ini? Fakta ilmiah
+
+Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Panduan Penyimpanan yang Terbukti Secara Ilmiah
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Place Sugar and Paper Towel at Container Bottom — Natural Dehumidifier 🪙</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Taburkan gula dan tisu dapur di dasar wadah — Penyerap kelembapan alami 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Put a 1cm layer of sugar at the container bottom and cover it with paper towels. Place peeled garlic on top. Sugar acts as a natural dehumidifier.
+    Taburkan gula setebal 1 cm secara merata di dasar wadah kedap udara, lapisi dengan 2–3 lembar tisu dapur, lalu masukkan bawang putih kupas. Gula berfungsi menyerap kelembapan agar bawang tetap kering.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Hang Whole Garlic in a Mesh Net — Room Ventilation 🌬️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gantung bawang putih utuh dalam kantong jaring — Ventilasi suhu ruang 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Store unpeeled whole garlic in a mesh net hanging in a cool, dark, well-ventilated space. Avoid refrigerating whole garlic.
+    Menyimpan bawang putih utuh yang belum dikupas di kulkas memicu pertumbuhan tunas dan pembusukan. Taruh bawang di kantong jaring lalu gantung di area berventilasi baik, sejuk, dan teduh (10–15°C).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Freeze Minced Garlic in Ice Trays — Frozen Cubes ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bekukan bawang putih cincang dalam cetakan silikon — Pembekuan porsi ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Mince garlic and freeze it in silicone ice cube trays or a flat bag with scored lines. Pop out convenient single-use portions when cooking.
+    Untuk bawang putih dalam jumlah banyak, haluskan lalu ratakan di kantong ziploc dengan garis sekat, atau bekukan dalam cetakan silikon. Ambil satu kubus saat memasak, cara ini praktis dan menjaga nutrisinya.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Isolate bruised or sprouted garlic 🧄</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Pisahkan bawang putih yang rusak atau bertunas</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] Garlic with cuts or sprouts releases more moisture and decay signals. Use them immediately instead of storing.
+      Bawang yang rusak melepaskan lebih banyak kelembapan dan gas pembusukan, merusak bawang sehat di sekitarnya.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Discard moldy garlic entirely ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jangan sepelekan jamur pada bawang yang rusak</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] If blue or black mold appears, throw away the whole bulb. Mycotoxins spread deeply through the cloves and cannot be washed off.
+      Jika jamur biru atau hitam muncul, jangan hanya dicuci lalu dimasak. Spora jamur telah menyebar ke dalam; sebaiknya buang.
     </p>
   </div>
 </div>

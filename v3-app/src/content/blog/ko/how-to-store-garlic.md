@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["마늘 보관법","깐 마늘 보관","설탕 제습제","다진마늘 보관","살림 팁"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+authority: "<strong>농촌진흥청(RDA) 및 식품의약품안전처(MFDS) 및 미국 농무부(USDA)</strong>"
 ---
 
 요리할 때마다 껍질을 벗기기 번거로워 대량으로 까놓은 마늘, 며칠 만에 진물이 생기고 하얀 곰팡이가 피어 버려본 경험 다들 있으시죠? 마늘 수분을 완벽히 잡아보겠습니다.

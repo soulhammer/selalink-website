@@ -1,15 +1,22 @@
 ---
-title: "깐 마늘에 설탕을 깔아둔다? 곰팡이 안 피는 마늘 보관법 3단계"
-description: "깐 마늘은 수분 관리가 90%입니다. 설탕의 천연 제습제 원리와 다진마늘 냉동 보관법을 소개합니다."
+title: "Comment conserver Ail frais : Guide scientifique de conservation"
+description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Ail selon les directives de sécurité officielles."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["마늘 보관법","깐 마늘 보관","설탕 제습제","다진마늘 보관","살림 팁"]
+tags: ["Ail","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+authority: "<strong>RDA & MFDS & USDA</strong>"
+steps:
+  - name: "Étaler du sucre et du papier absorbant au fond de la boîte — Absorbeur naturel 🪙"
+    text: "Versez 1 cm de sucre au fond d'une boîte hermétique, recouvrez de 2 ou 3 feuilles de papier absorbant, puis déposez l'ail pelé. Le sucre sert d'absorbeur d'humidité naturel et garde l'ail au sec."
+  - name: "Suspendre les têtes d'ail dans un filet — Ventilation à temp. ambiante 🌬️"
+    text: "Mettre les têtes d'ail non pelées au réfrigérateur favorise la germination et le pourrissement. La méthode scientifique consiste à les placer dans un filet suspendu dans un endroit frais, sombre et aéré (10-15 °C)."
+  - name: "Congeler l'ail haché dans des bacs en silicone — Portions congelées ❄️"
+    text: "Pour de grandes quantités d'ail, hachez-les et étalez-les à plat dans un sac congélation pré-quadrillé, ou congelez-les dans des bacs à glaçons en silicone. Démoulez une portion à chaque utilisation pour plus de praticité."
 ---
 
-요리할 때마다 껍질을 벗기기 번거로워 대량으로 까놓은 마늘, 며칠 만에 진물이 생기고 하얀 곰팡이가 피어 버려본 경험 다들 있으시죠? 마늘 수분을 완벽히 잡아보겠습니다.
-
+Avez-vous déjà pelé beaucoup d'ail à l'avance pour gagner du temps, pour le retrouver ramolli et couvert de moisissure blanche après quelques jours ? Aujourd'hui, StoreSelf vous montre comment éliminer l'humidité.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ app: "storeself"
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>World Health Organization (WHO) & Food and Drug Administration (FDA)</strong>.
+      Ce guide de conservation est basé sur les directives officielles de : <strong>RDA & MFDS & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Pourquoi conserver ainsi ? Faits scientifiques
+
+Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guide de conservation scientifiquement prouvé
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[FR] Place Sugar and Paper Towel at Container Bottom — Natural Dehumidifier 🪙</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Étaler du sucre et du papier absorbant au fond de la boîte — Absorbeur naturel 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [FR] Put a 1cm layer of sugar at the container bottom and cover it with paper towels. Place peeled garlic on top. Sugar acts as a natural dehumidifier.
+    Versez 1 cm de sucre au fond d'une boîte hermétique, recouvrez de 2 ou 3 feuilles de papier absorbant, puis déposez l'ail pelé. Le sucre sert d'absorbeur d'humidité naturel et garde l'ail au sec.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[FR] Hang Whole Garlic in a Mesh Net — Room Ventilation 🌬️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Suspendre les têtes d'ail dans un filet — Ventilation à temp. ambiante 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [FR] Store unpeeled whole garlic in a mesh net hanging in a cool, dark, well-ventilated space. Avoid refrigerating whole garlic.
+    Mettre les têtes d'ail non pelées au réfrigérateur favorise la germination et le pourrissement. La méthode scientifique consiste à les placer dans un filet suspendu dans un endroit frais, sombre et aéré (10-15 °C).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[FR] Freeze Minced Garlic in Ice Trays — Frozen Cubes ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Congeler l'ail haché dans des bacs en silicone — Portions congelées ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [FR] Mince garlic and freeze it in silicone ice cube trays or a flat bag with scored lines. Pop out convenient single-use portions when cooking.
+    Pour de grandes quantités d'ail, hachez-les et étalez-les à plat dans un sac congélation pré-quadrillé, ou congelez-les dans des bacs à glaçons en silicone. Démoulez une portion à chaque utilisation pour plus de praticité.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Règles cruciales et précautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[FR] Isolate bruised or sprouted garlic 🧄</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Triez et séparez les gousses d'ail abîmées ou germées</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [FR] Garlic with cuts or sprouts releases more moisture and decay signals. Use them immediately instead of storing.
+      Les gousses abîmées ou germées libèrent plus d'humidité et de gaz de décomposition, faisant pourrir les gousses saines autour.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[FR] Discard moldy garlic entirely ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ne négligez pas la moisissure sur l'ail gâté</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [FR] If blue or black mold appears, throw away the whole bulb. Mycotoxins spread deeply through the cloves and cannot be washed off.
+      Si de la moisissure bleue ou noire apparaît, ne la lavez pas pour la cuire. Les spores ont pénétré à l'intérieur ; jetez-le.
     </p>
   </div>
 </div>

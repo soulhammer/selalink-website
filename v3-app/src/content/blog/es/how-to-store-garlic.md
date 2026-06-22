@@ -1,15 +1,22 @@
 ---
-title: "깐 마늘에 설탕을 깔아둔다? 곰팡이 안 피는 마늘 보관법 3단계"
-description: "깐 마늘은 수분 관리가 90%입니다. 설탕의 천연 제습제 원리와 다진마늘 냉동 보관법을 소개합니다."
+title: "Cómo almacenar Ajo fresco: Guía científica de conservación"
+description: "Descubra la mejor temperatura, métodos y duración para conservar Ajo según las directrices oficiales de seguridad."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["마늘 보관법","깐 마늘 보관","설탕 제습제","다진마늘 보관","살림 팁"]
+tags: ["Ajo","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+authority: "<strong>RDA & MFDS & USDA</strong>"
+steps:
+  - name: "Esparza azúcar y papel de cocina al fondo del contenedor — Desecante natural 🪙"
+    text: "Esparza una capa de 1 cm de azúcar en el fondo de un contenedor hermético, cúbrala con 2 o 3 capas de papel de cocina y coloque los ajos pelados encima. El azúcar absorbe la humedad ambiente, manteniendo los ajos secos."
+  - name: "Cuelgue las cabezas de ajo en una red — Ventilación a temp. ambiente 🌬️"
+    text: "Refrigerar las cabezas de ajo sin pelar hace que broten y se pudran rápido por la humedad fría. El método científico es ponerlas en una bolsa de red y colgarlas en un lugar fresco, oscuro y ventilado (10-15 °C)."
+  - name: "Congele el ajo picado en bandejas de silicona — Porciones congeladas ❄️"
+    text: "Para grandes cantidades de ajo, píquelos y extiéndalos en una bolsa con cierre marcando líneas de cuadrícula, o congélelos en bandejas de silicona. Extraiga una porción cada vez que cocine para evitar la pérdida de nutrientes."
 ---
 
-요리할 때마다 껍질을 벗기기 번거로워 대량으로 까놓은 마늘, 며칠 만에 진물이 생기고 하얀 곰팡이가 피어 버려본 경험 다들 있으시죠? 마늘 수분을 완벽히 잡아보겠습니다.
-
+¿Alguna vez peló muchos ajos para ahorrar tiempo y vio cómo se ablandaban y criaban moho blanco en pocos días? Hoy, StoreSelf comparte trucos científicos para controlar la humedad y mantenerlos frescos.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ app: "storeself"
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>World Health Organization (WHO) & Food and Drug Administration (FDA)</strong>.
+      Esta guía de conservación cumple con las directrices oficiales de: <strong>RDA & MFDS & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. ¿Por qué almacenarlo así? Datos científicos
+
+Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guía de almacenamiento científicamente probada
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Place Sugar and Paper Towel at Container Bottom — Natural Dehumidifier 🪙</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Esparza azúcar y papel de cocina al fondo del contenedor — Desecante natural 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Put a 1cm layer of sugar at the container bottom and cover it with paper towels. Place peeled garlic on top. Sugar acts as a natural dehumidifier.
+    Esparza una capa de 1 cm de azúcar en el fondo de un contenedor hermético, cúbrala con 2 o 3 capas de papel de cocina y coloque los ajos pelados encima. El azúcar absorbe la humedad ambiente, manteniendo los ajos secos.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Hang Whole Garlic in a Mesh Net — Room Ventilation 🌬️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cuelgue las cabezas de ajo en una red — Ventilación a temp. ambiente 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Store unpeeled whole garlic in a mesh net hanging in a cool, dark, well-ventilated space. Avoid refrigerating whole garlic.
+    Refrigerar las cabezas de ajo sin pelar hace que broten y se pudran rápido por la humedad fría. El método científico es ponerlas en una bolsa de red y colgarlas en un lugar fresco, oscuro y ventilado (10-15 °C).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ES] Freeze Minced Garlic in Ice Trays — Frozen Cubes ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Congele el ajo picado en bandejas de silicona — Porciones congeladas ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ES] Mince garlic and freeze it in silicone ice cube trays or a flat bag with scored lines. Pop out convenient single-use portions when cooking.
+    Para grandes cantidades de ajo, píquelos y extiéndalos en una bolsa con cierre marcando líneas de cuadrícula, o congélelos en bandejas de silicona. Extraiga una porción cada vez que cocine para evitar la pérdida de nutrientes.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Reglas cruciales y precauciones
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ES] Isolate bruised or sprouted garlic 🧄</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Clasifique y separe los dientes de ajo dañados o brotados</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ES] Garlic with cuts or sprouts releases more moisture and decay signals. Use them immediately instead of storing.
+      Los ajos dañados o con brotes liberan más humedad y compuestos de descomposición, pudriendo los ajos sanos de alrededor.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ES] Discard moldy garlic entirely ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">No ignore el moho en los ajos dañados</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ES] If blue or black mold appears, throw away the whole bulb. Mycotoxins spread deeply through the cloves and cannot be washed off.
+      Si aparece moho azul o negro, no lo lave para cocinar. Las esporas ya se habrán extendido por dentro; deséchelo.
     </p>
   </div>
 </div>

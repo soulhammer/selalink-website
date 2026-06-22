@@ -1,15 +1,22 @@
 ---
-title: "우유는 냉장고 문에 두면 안 된다? 신선함을 지키는 우유 보관법"
-description: "우유는 온도 변화에 예민합니다. 문 쪽을 피하고 본체 안쪽에 보관해야 하는 이유와 소비기한 가이드를 제공합니다."
+title: "Como armazenar Leite fresco: Guia científico de conservação"
+description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Leite con base nas diretrizes oficiais de segurança."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["우유 보관법","우유 냉장","우유 보관 장소","유제품 위생","살림 정보"]
+tags: ["Leite","Guia de armazenamento comprovado cientificamente","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
+authority: "<strong>MFDS & USDA</strong>"
+steps:
+  - name: "Não guarde na porta da geladeira — Mantenha nas prateleiras internas ❌ Porta"
+    text: "A porta da geladeira sofre constantes oscilações de temperatura a cada abertura. Para conservar o leite, mantenha-o nas prateleiras internas da geladeira, onde a temperatura fica estável a 0-4 °C."
+  - name: "Consuma em até 7 dias após aberto — Limite bactérias 🥛"
+    text: "Depois de aberto o leite, o contato com o ar introduz bactérias, iniciando a deterioração. Evite tocar no bocal da embalagem e consuma em até 7 dias, independente da data de validade."
+  - name: "Mantenha longe de alimentos com cheiro forte — Evite absorção de odores 🧅"
+    text: "O leite funciona como uma esponja e absorve facilmente cheiros fortes ao redor. Evite guardar perto de cebola, alho ou restos de comida sem tampa. Mantenha-o sempre fechado e afastado."
 ---
 
-Most households store milk in the refrigerator door pockets. Today, StoreSelf shares FDA-guided refrigeration rules to maximize freshness.
-
+Você guarda as caixas de leite alinhadas nas prateleiras da porta da geladeira? A porta sofre variações diretas de temperatura a cada abertura, sendo o pior lugar para o leite. Hoje, o StoreSelf compartilha orientações seguras.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Most households store milk in the refrigerator door pockets. Today, StoreSelf sh
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Food and Drug Administration (FDA) & Centers for Disease Control and Prevention (CDC)</strong>.
+      Este guia de conservação segue as diretrizes oficiais de: <strong>MFDS & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Por que armazenar assim? Fatos científicos
+
+Compreender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guia de armazenamento comprovado cientificamente
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Do Not Store on the Fridge Door — Use Inner Shelf ❌🚪</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Não guarde na porta da geladeira — Mantenha nas prateleiras internas ❌ Porta</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] The refrigerator door experiences constant temperature swings. Store milk on a deep, stable inner shelf (0-4°C) to keep it cold and fresh.
+    A porta da geladeira sofre constantes oscilações de temperatura a cada abertura. Para conservar o leite, mantenha-o nas prateleiras internas da geladeira, onde a temperatura fica estável a 0-4 °C.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Consume Within 7 Days of Opening 🥛</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Consuma em até 7 dias após aberto — Limite bactérias 🥛</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] Once opened, airborne bacteria and oxygen trigger spoiling. Keep the carton tightly closed and consume within a week, regardless of the date.
+    Depois de aberto o leite, o contato com o ar introduz bactérias, iniciando a deterioração. Evite tocar no bocal da embalagem e consuma em até 7 dias, independente da data de validade.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Keep Away from Strong Smelling Foods — Avoid Odor Absorption 🧅</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mantenha longe de alimentos com cheiro forte — Evite absorção de odores 🧅</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] Milk readily absorbs surrounding odors like garlic or onions. Keep it separated from pungent open foods in the fridge.
+    O leite funciona como uma esponja e absorve facilmente cheiros fortes ao redor. Evite guardar perto de cebola, alho ou restos de comida sem tampa. Mantenha-o sempre fechado e afastado.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[PT] Avoid touching the carton opening 🥛</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Guarde ao fundo da prateleira após abrir</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [PT] Touching the spout or drinking directly from the carton introduces mouth bacteria, which multiply quickly inside the cold milk.
+      A área perto da porta varia muito de temperatura, acelerando as bactérias. Coloque o leite nas prateleiras do meio.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[PT] Discard if milk clumps or smells sour ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Evite guardar perto de alimentos com cheiro forte</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [PT] If white clumps settle at the bottom or the milk smells acidic, rot bacteria have taken over. Discard it immediately.
+      O leite absorbe cheiros facilmente devido à gordura. Mantenha longe de alho, cebola ou kimchi.
     </p>
   </div>
 </div>

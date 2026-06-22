@@ -1,15 +1,22 @@
 ---
-title: "洋葱和土豆放在一起会烂？科学储存洋葱的 3 个步骤"
-description: "洋葱对水分和周围食材很敏感。为您介绍将洋葱与土豆分开储存、保持脆嫩的保鲜方法。"
+title: "如何保鲜储存洋葱：科学储存指南"
+description: "根据官方食品安全指南，了解洋葱的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["洋葱储存法","蔬菜保鲜","马铃薯隔离","保鲜窍门","生活妙招"]
+tags: ["洋葱","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA</strong>"
+steps:
+  - name: "带皮悬挂在通风阴凉处 — 空气流通 🌬️"
+    text: "带皮洋葱最适合存放在避光且通风良好的地方。将洋葱逐个放入网袋或干净网袜中，在每个洋葱之间打个结并悬挂起来，这样能防止洋葱相互接触挤压变烂。"
+  - name: "剥皮洋葱控干水分后用保鲜膜单独密封 — 冷藏包装 📦"
+    text: "剥去外皮的洋葱，要彻底擦干表面水分，然后用保鲜膜将单个洋葱严密包裹，放入冰箱蔬菜室保存。隔绝空气接触能让洋葱保持坚挺不软烂长达10天。"
+  - name: "与土豆必须彻底隔离 — 防止相互腐烂 🛡️"
+    text: "洋葱和土豆是“天敌”。如果将它们放在一起，土豆会吸收洋葱释放的水分和气体而迅速发芽；同时土豆的水汽也会导致洋葱变软霉烂，导致两者以极快的速度双双腐烂。请务必分开存放。"
 ---
 
-洋葱和土豆放在同一个篮子里是常见的厨房错误。它们会释放气体和水分导致迅速腐烂。让我们看看科学的储存洋葱法。
-
+您是否曾买了一整网袋洋葱，随手堆在阳台角落？不久后，洋葱重叠接触的地方就会开始变软腐烂，或是发芽。今天，StoreSelf为您分享调控水分与气体的科学洋葱保鲜储存法。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ app: "storeself"
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>National Academy of Agricultural Science & United States Department of Agriculture (USDA)</strong>.
+      本指南严格遵守以下机构公认的食品安全与储存指南： <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. 为什么要这样储存？科学原理
+
+了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. 科学验证的储存指南
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">带皮存放在通风良好的网袋中挂起 — 空气流通 🌬️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">带皮悬挂在通风阴凉处 — 空气流通 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    带皮的完整洋葱需要良好的空气流通以保持干燥。请将其放入暗处的网袋或悬挂网中，避免堆叠或相互接触。
+    带皮洋葱最适合存放在避光且通风良好的地方。将洋葱逐个放入网袋或干净网袜中，在每个洋葱之间打个结并悬挂起来，这样能防止洋葱相互接触挤压变烂。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">剥皮洋葱控干水分后用保鲜膜单独密封 — 冷藏包裹 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">剥皮洋葱控干水分后用保鲜膜单独密封 — 冷藏包装 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    剥皮或切开的洋葱必须彻底控干。用纸巾擦干表面水分，并用保鲜膜紧紧包裹，防止在冰箱蔬菜抽屉中氧化变质。
+    剥去外皮的洋葱，要彻底擦干表面水分，然后用保鲜膜将单个洋葱严密包裹，放入冰箱蔬菜室保存。隔绝空气接触能让洋葱保持坚挺不软烂长达10天。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">与土豆完全彻底隔离 — 防止相互腐烂 🛡️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">与土豆必须彻底隔离 — 防止相互腐烂 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    土豆释放的水分和洋葱释放的乙烯气体会加速彼此的变质。请务必将土豆和洋葱存放在完全分开的抽屉或篮子中。
+    洋葱和土豆是“天敌”。如果将它们放在一起，土豆会吸收洋葱释放的水分和气体而迅速发芽；同时土豆的水汽也会导致洋葱变软霉烂，导致两者以极快的速度双双腐烂。请务必分开存放。
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. 储存注意事项
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">切勿在常温下密封带水分的洋葱 💧</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">受损的洋葱请剔除并立即食用</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      在常温下将潮湿的洋葱密封存放在容器中会积聚湿气，导致洋葱在一天之内长出白霉并变软。
+      有破损的洋葱会释放水分和变质气体，导致周围完好的洋葱连锁腐烂。请优先食用受损洋葱。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">立即隔离受损洋葱 🧅</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">千万不要与土豆放在一起保存</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      只要有一颗洋葱开始腐烂，就会释放大量湿气和微生物，传染给周围的洋葱。请定期检查并挑出变软的洋葱。
+      洋葱释放水分，而土豆释放乙烯气体。混放会互相加速发芽和腐烂速度，导致双方迅速变质。
     </p>
   </div>
 </div>

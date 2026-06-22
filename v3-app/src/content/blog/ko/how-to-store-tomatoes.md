@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["토마토 보관법","토마토 보관","식재료 팁","후숙 과일","주방 정리"]
 heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
+authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 미국 질병통제예방센터(CDC)</strong>"
 ---
 
 토마토는 냉장고에 보관하는 것이 기본이라고 생각하기 쉽지만, 이는 토마토 특유의 달콤한 향과 풍미를 완전히 파괴하는 지름길입니다. 저온 노출 시 세포막이 상하는 토마토를 위한 과학적 보관법을 소개합니다.

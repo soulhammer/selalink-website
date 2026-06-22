@@ -1,15 +1,22 @@
 ---
-title: "들기름은 무조건 냉장고로? 참기름과 정반대인 들기름 보관 비법"
-description: "들기름은 오메가-3가 많아 실온 방치 시 쩐내가 나고 상합니다. 무조건 냉장 보관해야 하는 이유를 전합니다."
+title: "Comment conserver Huile de pérille frais : Guide scientifique de conservation"
+description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Huile de pérille selon les directives de sécurité officielles."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["들기름 보관법","들기름 냉장","참기름 실온","오메가3 산패","기름 보관"]
+tags: ["Huile de pérille","Guide de conservation scientifiquement prouvé","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+authority: "<strong>RDA & MFDS</strong>"
+steps:
+  - name: "Toujours conserver au réfrigérateur entre 0 et 4 °C — Éviter l'oxydation des oméga-3 ❄️"
+    text: "Contrairement à l'huile de sésame, l'huile de pérille ne contient pas de sésamol (conservateur naturel) et possède plus de 60 % d'acides gras oméga-3, ce qui la fait rancir très vite à l'air. Conservez-la obligatoirement au frais (0-4 °C)."
+  - name: "Utiliser des flacons en verre teinté et limiter l'air — Oxygène et UV 🫙"
+    text: "La lumière et l'oxygène accélèrent fortement l'oxydation des oméga-3. L'huile de pérille doit être conservée en bouteille en verre brun ou vert, en refermant bien le bouchon après usage."
+  - name: "Mélanger l'huile de pérille et de sésame au ratio 8:2 — Conservateur naturel 🫒"
+    text: "Mélangez 20 % d'huile de sésame à l'huile de pérille. Les antioxydants naturels du sésame (lignanes) bloquent l'oxydation de l'huile de pérille, ce qui double sa durée de conservation."
 ---
 
-Do you keep perilla oil next to your stovetop? Today, StoreSelf shares perilla oil preservation methods based on RDA research results.
-
+Avez-vous stocké votre huile de périlla dans un placard à température ambiante comme l'huile d'olive ou de sésame ? Elle contient plus de 60 % d'acides gras oméga-3, ce qui la fait s'oxyder très vite à l'air libre. Aujourd'hui, StoreSelf vous montre comment la conserver au frais.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Do you keep perilla oil next to your stovetop? Today, StoreSelf shares perilla o
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Rural Development Administration (RDA) & Ministry of Food and Drug Safety</strong>.
+      Ce guide de conservation est basé sur les directives officielles de : <strong>RDA & MFDS</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Pourquoi conserver ainsi ? Faits scientifiques
+
+Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guide de conservation scientifiquement prouvé
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[FR] Always Store in Refrigerator (0-4°C) — Block Omega-3 Oxidation ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Toujours conserver au réfrigérateur entre 0 et 4 °C — Éviter l'oxydation des oméga-3 ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [FR] Perilla oil is over 60% omega-3, which is highly unstable. Store it in the fridge to prevent rapid oxidation and toxic rancidity.
+    Contrairement à l'huile de sésame, l'huile de pérille ne contient pas de sésamol (conservateur naturel) et possède plus de 60 % d'acides gras oméga-3, ce qui la fait rancir très vite à l'air. Conservez-la obligatoirement au frais (0-4 °C).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[FR] Use Dark Glass Bottle and Limit Air Contact 🫙</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Utiliser des flacons en verre teinté et limiter l'air — Oxygène et UV 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [FR] Light is the catalyst for rancidity. Use dark glass bottles and decant into smaller containers to reduce headspace oxygen contact.
+    La lumière et l'oxygène accélèrent fortement l'oxydation des oméga-3. L'huile de pérille doit être conservée en bouteille en verre brun ou vert, en refermant bien le bouchon après usage.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[FR] Mix with Sesame Oil at 8:2 Ratio — Natural Preservative Hack 🫒</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mélanger l'huile de pérille et de sésame au ratio 8:2 — Conservateur naturel 🫒</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [FR] Mixing 20% sesame oil into 80% perilla oil extends the shelf life. Sesame oil's natural sesamol and lignan act as strong antioxidants.
+    Mélangez 20 % d'huile de sésame à l'huile de pérille. Les antioxydants naturels du sésame (lignanes) bloquent l'oxydation de l'huile de pérille, ce qui double sa durée de conservation.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Règles cruciales et précautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[FR] Discard immediately if it smells sour ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Conservez impérativement l'huile de périlla au réfrigérateur</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [FR] If the oil smells sour or has a heavy rancid odor, it is fully oxidized. Rancid oil contains harmful toxins and must be discarded.
+      L'exposition à l'oxygène et à la lumière la fait rancir très vite. Gardez-la scellée dans des bouteilles sombres au réfrigérateur.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[FR] Do not refrigerate sesame oil ❌</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mélanger avec 20 % d'huile de sésame double la durée de conservation</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [FR] Sesame oil has stable natural antioxidants. Storing it in the fridge degrades flavor and causes crystallization. Keep it in a dark pantry.
+      L'huile de sésame est riche en sésamol et sésamoline, des antioxydants naturels qui empêchent l'huile de périlla de rancir.
     </p>
   </div>
 </div>

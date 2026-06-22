@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["우유 보관법","우유 냉장","우유 보관 장소","유제품 위생","살림 정보"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
+authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</strong>"
 ---
 
 대부분의 가정에서 우유를 냉장고 문 쪽 포켓에 보관합니다. 오늘 StoreSelf에서는 미국 식품의약국(FDA)의 위생 가이드를 기반으로, 신선함을 극대화하는 올바른 우유 냉장 보관 규칙을 소개합니다.

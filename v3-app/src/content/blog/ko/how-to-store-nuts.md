@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["견과류 보관법","견과류 곰팡이","아플라톡신","견과류 냉동","살림 팁"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</strong>"
 ---
 
 건강을 위해 매일 먹는 아몬드, 호두를 상온 식탁 위에 투명 병에 담아 보관하셨나요? 오늘 StoreSelf에서는 미국 식품의약국(FDA)의 발암 곰팡이독소 차단 가이드라인에 맞춘 안전한 견과류 보관법을 전합니다.

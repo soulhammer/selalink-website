@@ -1,15 +1,22 @@
 ---
-title: "생닭 물에 씻으면 싱크대 오염 폭발? 올바른 닭고기 보관 및 손질법"
-description: "생닭은 씻으면 식중독균이 주방에 확산됩니다. 물 세척 자제령과 위생적인 2일 이내 보관법을 소개합니다."
+title: "鶏肉の鮮度を保つ保存方法：科学的保管ガイド"
+description: "公的安全基準に基づく鶏肉の最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["닭고기 보관법","닭고기 세척 경고","캠필로박터","생닭 보관","식품 위생"]
+tags: ["鶏肉","科学的に検証された保存ガイド","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>"
+steps:
+  - name: "水で洗うのは絶対に避ける — シンクの二次汚染防止 ❌💧"
+    text: "生鶏肉に付着しているカンピロバクターなどの食中毒菌は、水洗いすると細かな水しぶきとなって周囲50cm以内の食器や調理器具に飛び散ります。絶対に水洗いせず, ペーパーで水分を拭き取るか, 沸騰したお湯に通して調理してください。"
+  - name: "二重に密閉して保存し、冷蔵庫の最下段に置く — ドリップの漏れ防止 📦"
+    text: "鶏肉から出る水分や汁（ドリップ）が他の食材に付着すると, 食中毒の原因になります。鶏肉を袋に入れ、さらにジッパーバッグで二重に密閉し, 冷蔵庫の中で最も温度が一定な最下段の奥に保存してください。"
+  - name: "塩と料理酒で軽く下味をつけて保存 — 保存期間の延長 🧂"
+    text: "購入してすぐに調理しない鶏肉は、料理酒（または焼酎）と粗塩を軽く振ってから冷蔵保存すると、アルコールの殺菌作用と塩の浸透圧作用により、鮮度をさらに1日延ばすことができます。"
 ---
 
-Does washing raw chicken spread bacteria? Today, StoreSelf shares safe raw poultry storage guidelines based on CDC and USDA instructions.
-
+生鶏肉を水で洗うと、食中毒菌がキッチンのいたる所に飛び散って危険です。本日、StoreSelfでは米国疾病予防管理センター（CDC）などの公式ガイドラインに基づく安全な鶏肉の保存方法をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Does washing raw chicken spread bacteria? Today, StoreSelf shares safe raw poult
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Centers for Disease Control and Prevention (CDC) & USDA</strong>.
+      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. なぜこのように保存するのか？科学的な事実
+
+食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. 科学的に検証された保存ガイド
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Never Wash Raw Chicken — Avoid Cross-Contamination ❌💧</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">水で洗うのは絶対に避ける — シンクの二次汚染防止 ❌💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Washing raw chicken splashes campylobacter bacteria onto surrounding sink surfaces, utensils, and walls. Simply wipe dry with paper towels.
+    生鶏肉に付着しているカンピロバクターなどの食中毒菌は、水洗いすると細かな水しぶきとなって周囲50cm以内の食器や調理器具に飛び散ります。絶対に水洗いせず, ペーパーで水分を拭き取るか, 沸騰したお湯に通して調理してください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Double Bag and Store on Lower Shelf — Prevent Drip Spreads 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">二重に密閉して保存し、冷蔵庫の最下段に置く — ドリップの漏れ防止 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Chicken raw juices carrying pathogens must not drip on other foods. Double-bag the chicken and place it on the lowest shelf of your fridge.
+    鶏肉から出る水分や汁（ドリップ）が他の食材に付着すると, 食中毒の原因になります。鶏肉を袋に入れ、さらにジッパーバッグで二重に密閉し, 冷蔵庫の中で最も温度が一定な最下段の奥に保存してください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Lightly Season with Salt and Cooking Sake — Extend Freshness 🧂</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">塩と料理酒で軽く下味をつけて保存 — 保存期間の延長 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] If not cooking immediately, rub with a splash of sake and salt. Alcohol kills surface microbes and salt regulates osmosis, extending shelf life.
+    購入してすぐに調理しない鶏肉は、料理酒（または焼酎）と粗塩を軽く振ってから冷蔵保存すると、アルコールの殺菌作用と塩の浸透圧作用により、鮮度をさらに1日延ばすことができます。
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Use dedicated cutting boards and knives 🔪</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">生鶏肉専用のまな板と包丁を用意し、分けて使用してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] Always sanitize cutting boards and knives used for raw poultry with boiling water or bleach. Avoid slicing raw greens with the same tools.
+      生鶏肉を扱った道具は必ず熱湯消毒するか、塩素系漂白剤などで除菌してください。そのまま生野菜などを切るとクロス汚染（二次汚染）の原因になります。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Consume within 2 days or freeze ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">冷蔵保存は2日以内に消費するか、すぐに冷凍してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] Chicken has higher water content and rot rates than other meats. Limit refrigeration to 48 hours and freeze any remaining portions.
+      鶏肉は豚肉や牛肉に比べて水分量が多く細菌が繁殖しやすいため、傷む速度が最も早いです。冷蔵保存の場合は必ず48時間以内に使い切ってください。
     </p>
   </div>
 </div>

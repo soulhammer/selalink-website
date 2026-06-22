@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["계란 보관법","달걀 보관","식재료 위생","살모넬라 예방","주방 정보"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
+authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</strong>"
 ---
 
 계란 표면의 먼지나 오염물질을 보고 물에 씻어서 보관한 적이 있으신가요? 이는 미생물 오염을 부르는 치명적인 행위입니다. 농림축산식품부 및 FDA가 권장하는 올바른 계란 보관 규칙을 전해드립니다.

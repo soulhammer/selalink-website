@@ -34,7 +34,7 @@ const appTags = {
 };
 
 const activeTag = appTags[app] || appTags.general;
-const formattedDate = new Date(pubDate).toLocaleDateString(lang === 'ko' ? 'ko-KR' : 'en-US', {
+const formattedDate = new Date(pubDate).toLocaleDateString(lang, {
   year: 'numeric',
   month: 'long',
   day: 'numeric'

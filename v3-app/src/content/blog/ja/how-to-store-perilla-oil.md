@@ -1,15 +1,22 @@
 ---
-title: "들기름은 무조건 냉장고로? 참기름과 정반대인 들기름 보관 비법"
-description: "들기름은 오메가-3가 많아 실온 방치 시 쩐내가 나고 상합니다. 무조건 냉장 보관해야 하는 이유를 전합니다."
+title: "エゴマ油の鮮度を保つ保存方法：科学的保管ガイド"
+description: "公的安全基準に基づくエゴマ油の最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["들기름 보관법","들기름 냉장","참기름 실온","오메가3 산패","기름 보관"]
+tags: ["エゴマ油","科学的に検証された保存ガイド","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>"
+steps:
+  - name: "必ず0〜4℃の冷蔵室に保存する — オメガ3の酸化防止 ❄️"
+    text: "エゴマ油はごま油とは異なり, 酸化を防ぐセサモール成分が含まれておらず, オメガ3脂肪酸が60%以上も含まれているため, 常温に置くとすぐに傷んでしまいます。必ず0〜4℃の冷蔵庫で保存してください。"
+  - name: "遮光瓶（茶）に入れ、空気との接触を防ぐ — 酸素と紫外線の遮断 🫙"
+    text: "光や酸素はオメガ3の酸化を急激に促します。エゴマ油は茶色や緑色の遮光ガラス瓶に入れ, 使用後はしっかりと蓋を閉めて空気との接触を最小限に抑えてください。"
+  - name: "エゴマ油とごま油を8:2の割合で混ぜる — 天然の防腐効果 🫒"
+    text: "エゴマ油にごま油を20%混ぜて保存してみてください。ごま油に含まれる天然の抗酸化物質（リグナンなど）がエゴマ油の酸化を防ぎ, 保存期間が2倍以上に延びます。"
 ---
 
-Do you keep perilla oil next to your stovetop? Today, StoreSelf shares perilla oil preservation methods based on RDA research results.
-
+オリーブオイルやごま油のように、エゴマ油もシンクの下や常温のパントリーに保管していませんか？エゴマ油はオメガ3脂肪酸の含有量が60%以上と非常に高いため、常温に置くと数日で酸化が進み、油臭くなって体に有害な物質が発生してしまいます。正しい冷蔵保存方法をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Do you keep perilla oil next to your stovetop? Today, StoreSelf shares perilla o
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Rural Development Administration (RDA) & Ministry of Food and Drug Safety</strong>.
+      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. なぜこのように保存するのか？科学的な事実
+
+食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. 科学的に検証された保存ガイド
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Always Store in Refrigerator (0-4°C) — Block Omega-3 Oxidation ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">必ず0〜4℃の冷蔵室に保存する — オメガ3の酸化防止 ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Perilla oil is over 60% omega-3, which is highly unstable. Store it in the fridge to prevent rapid oxidation and toxic rancidity.
+    エゴマ油はごま油とは異なり, 酸化を防ぐセサモール成分が含まれておらず, オメガ3脂肪酸が60%以上も含まれているため, 常温に置くとすぐに傷んでしまいます。必ず0〜4℃の冷蔵庫で保存してください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Use Dark Glass Bottle and Limit Air Contact 🫙</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">遮光瓶（茶）に入れ、空気との接触を防ぐ — 酸素と紫外線の遮断 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Light is the catalyst for rancidity. Use dark glass bottles and decant into smaller containers to reduce headspace oxygen contact.
+    光や酸素はオメガ3の酸化を急激に促します。エゴマ油は茶色や緑色の遮光ガラス瓶に入れ, 使用後はしっかりと蓋を閉めて空気との接触を最小限に抑えてください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Mix with Sesame Oil at 8:2 Ratio — Natural Preservative Hack 🫒</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">エゴマ油とごま油を8:2の割合で混ぜる — 天然の防腐効果 🫒</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Mixing 20% sesame oil into 80% perilla oil extends the shelf life. Sesame oil's natural sesamol and lignan act as strong antioxidants.
+    エゴマ油にごま油を20%混ぜて保存してみてください。ごま油に含まれる天然の抗酸化物質（リグナンなど）がエゴマ油の酸化を防ぎ, 保存期間が2倍以上に延びます。
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Discard immediately if it smells sour ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">エゴマ油は必ず冷蔵庫で保存してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] If the oil smells sour or has a heavy rancid odor, it is fully oxidized. Rancid oil contains harmful toxins and must be discarded.
+      酸素や光にさらされると非常に傷みやすいです。遮光瓶に入れ、しっかりと蓋を閉めて冷蔵庫で保管してください。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Do not refrigerate sesame oil ❌</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">ごま油を20%混ぜると保存期間が2倍に延びます</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] Sesame oil has stable natural antioxidants. Storing it in the fridge degrades flavor and causes crystallization. Keep it in a dark pantry.
+      ごま油に含まれるセサモールなどの天然抗酸化成分が、エゴマ油の酸化を強力に抑制し、保存期間を延ばしてくれます。
     </p>
   </div>
 </div>

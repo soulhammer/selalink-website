@@ -13,6 +13,15 @@ const blogCollection = defineCollection({
     category: z.string().default('General'),
     app: z.enum(['storeself', 'freshself', 'buildself', 'general']).default('general'),
     youtubeId: z.string().optional(),
+    authority: z.string().optional(),
+    steps: z.array(z.object({
+      name: z.string(),
+      text: z.string(),
+    })).optional(),
+    faqs: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }),
 });
 

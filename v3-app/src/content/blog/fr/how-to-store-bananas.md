@@ -7,6 +7,14 @@ tags: ["Bananes", "Conservation des Aliments", "Astuces Cuisine", "Gaz Éthylèn
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
 youtubeId: "yJz71H46PJM"
+
+steps:
+  - name: "Utiliser un porte-banane — Éviter les meurtrissures 🍌"
+    text: "Laisser les bananes posées à plat écrase les fruits du dessous sous leur propre poids. Ces zones meurtries rejettent plus d'éthylène et noircissent. 💡 Astuce de conservation : Suspendez les bananes à un crochet. Cela imite leur position sur le bananier, évitant les chocs et préservant leur fermeté plus longtemps."
+  - name: "Envelopper la couronne de papier aluminium — Bloquer le gaz 🪙"
+    text: "Le gaz éthylène de la banane provient principalement de la tige. 💡 Astuce de conservation : Enveloppez la couronne de papier aluminium ou de film étirable. Cela bloque la diffusion du gaz et retarde le mûrissement de 3 à 5 jours."
+  - name: "Réfrigérer une fois bien mûr — Ralentir la dégradation ❄️"
+    text: "On pense souvent qu'il ne faut jamais réfrigérer les bananes, mais cela ne concerne que les bananes vertes. Le froid les abîme et les fait noircir sans mûrir. En revanche, les bananes mûres tachées de noir réagissent bien. 💡 Astuce de conservation : Enveloppez les bananes mûres séparément et placez-les dans le bac à légumes (0-4 °C). La peau va noircir, mais la chair restera ferme et fraîche une semaine de plus."
 ---
 
 Avez-vous déjà acheté de superbes bananes bien jaunes pour les voir se couvrir de taches noires et ramollir en seulement quelques jours ? 🍌

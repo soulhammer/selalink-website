@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["아보카도 보관법","아보카도 후숙","과일 보관","아보카도 갈변","식재료 팁"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+authority: "<strong>미국 농무부(USDA) 및 식품의약품안전처(MFDS)</strong>"
 ---
 
 덜 익은 아보카도를 무심코 냉장고에 넣었다가 푸석푸석하게 썩어 버린 경험 있으시죠? 오늘 StoreSelf에서는 캘리포니아 아보카도 위원회(CAC)와 미국 농무부(USDA)의 가이드를 기반으로, 아보카도 후숙 타이밍과 완벽 보관 비법을 전합니다.

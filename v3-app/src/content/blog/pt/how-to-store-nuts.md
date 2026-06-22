@@ -1,15 +1,22 @@
 ---
-title: "견과류 상온에 두면 발암 물질 발생? 신선하고 안전한 견과류 보관법"
-description: "견과류는 상온에서 아플라톡신이라는 1급 발암 곰팡이독소가 생기기 쉽습니다. 밀봉 후 냉장/냉동 보관의 중요성을 알아봅니다."
+title: "Como armazenar Nozes fresco: Guia científico de conservação"
+description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Nozes con base nas diretrizes oficiais de segurança."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["견과류 보관법","견과류 곰팡이","아플라톡신","견과류 냉동","살림 팁"]
+tags: ["Nozes","Guia de armazenamento comprovado cientificamente","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+authority: "<strong>MFDS & USDA</strong>"
+steps:
+  - name: "Sele e refrigere/congele após aberto — Impeça as aflatoxinas ❄️"
+    text: "Oleaginosas contêm gorduras que oxidam e rancificam em temperatura quente e úmida. Esse ambiente favorece as aflatoxinas, toxinas cancerígenas dos fungos. Guarde sempre seladas sob refrigeração ou congeladas."
+  - name: "Use potos ou sacos herméticos opacos — Bloqueie a luz 📦"
+    text: "Luz e oxigênio aceleram a oxidação das gorduras saudáveis das oleaginosas. Em vez de sacos transparentes, use embalagens opacas ou potes escuros, e coloque um sachê antiumidade (sílica-gel)."
+  - name: "Mantenha em ambiente seco e livre de umidade — Vedação seca 🌬️"
+    text: "As oleaginosas perdem a crocância e o sabor em contato com a umidade. Mantenha-as sempre secas e, após abertas, mude-as para um pote vedado para impedir a entrada de umidade."
 ---
 
-Do you leave healthy nuts in transparent jars on your kitchen table? Today, StoreSelf shares safe nut preservation guides based on FDA aflatoxin control guidelines.
-
+Você deixa as oleaginosas na mesa em potes transparentes? Elas têm muita gordura boa, por isso oxidam rápido com ar e luz, criando mau cheiro e toxinas. Hoje, o StoreSelf compartilha orientações corretas.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Do you leave healthy nuts in transparent jars on your kitchen table? Today, Stor
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Food and Drug Administration (FDA) & Almond Board of California</strong>.
+      Este guia de conservação segue as diretrizes oficiais de: <strong>MFDS & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Por que armazenar assim? Fatos científicos
+
+Compreender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guia de armazenamento comprovado cientificamente
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Store Sealed in Fridge/Freezer — Stop Aflatoxin ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sele e refrigere/congele após aberto — Impeça as aflatoxinas ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] Nuts left at room temp oxidize and develop a highly toxic carcinogen called aflatoxin. Always store them airtight in the fridge or freezer.
+    Oleaginosas contêm gorduras que oxidam e rancificam em temperatura quente e úmida. Esse ambiente favorece as aflatoxinas, toxinas cancerígenas dos fungos. Guarde sempre seladas sob refrigeração ou congeladas.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Use Opaque Airtight Bags or Containers — Light Shield 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Use potos ou sacos herméticos opacos — Bloqueie a luz 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] Oxygen and light ruin unsaturated fats. Use opaque containers or amber jars, and include a silica gel moisture absorber inside.
+    Luz e oxigênio aceleram a oxidação das gorduras saudáveis das oleaginosas. Em vez de sacos transparentes, use embalagens opacas ou potes escuros, e coloque um sachê antiumidade (sílica-gel).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Keep Dry to Prevent Mold Growth 🌬️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mantenha em ambiente seco e livre de umidade — Vedação seca 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] Any moisture causes nuts to become soggy and moldy. Keep containers tightly sealed to block refrigerator humidity.
+    As oleaginosas perdem a crocância e o sabor em contato com a umidade. Mantenha-as sempre secas e, após abertas, mude-as para um pote vedado para impedir a entrada de umidade.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[PT] Never eat rancid or soft nuts ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nunca coma oleaginosas rancias ou úmidas</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [PT] If nuts smell oily or feel soft, lipid oxidation and mold have started. Washing or roasting will not remove aflatoxin. Discard them.
+      Oleaginosas oxidadas desenvolvem aflatoxinas, potentes carcinógenos que não são destruídos pelo calor. Descarte-as imediatamente.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[PT] Handle nuts gently to avoid cracks 🥜</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Selle com absorventes de oxigênio em potes escuros</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [PT] Cracks or powdering on nut surfaces exposes interior lipids to air, speeding up oxidation. Avoid crushing the storage bags.
+      Guarde as oleaginosas em recipientes opacos com absorventes de oxigênio, em gaveta fresca ou no freezer.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ interface Props {
 }
 
 const { lang, appType = 'buildself' } = Astro.props;
-const t = useTranslations(lang as any);
+const t = useTranslations(lang as any) as any;
 
 // 안전하게 해당 앱의 언어별 쇼츠 리스트 바인딩
 const availableShorts = (shortsData[appType] as any)?.[lang] || (shortsData[appType] as any)?.['en'] || [];
@@ -48,7 +48,7 @@ const theme = appType === 'buildself'
   </div>
 
   <div class="flex gap-4 md:gap-8 overflow-x-auto pb-10 hide-scrollbar snap-x snap-mandatory px-4 md:px-0 -mx-4 md:mx-0">
-    {availableShorts.map((short) => (
+    {availableShorts.map((short: any) => (
       <button 
         onclick={`window.openShortsModal('${short.id}', '${appType}')`}
         class={`group relative flex-shrink-0 w-64 md:w-[320px] aspect-[9/16] rounded-[2rem] overflow-hidden shadow-xl snap-center focus:outline-none border-2 border-slate-200 dark:border-slate-800 transition-colors ${theme.borderHover}`}

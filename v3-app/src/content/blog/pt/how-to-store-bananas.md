@@ -7,6 +7,14 @@ tags: ["Bananas", "Conservação de Alimentos", "Dicas de Cozinha", "Gás Etilen
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
 youtubeId: "yJz71H46PJM"
+
+steps:
+  - name: "Use um suporte para bananas — Evite amassados 🍌"
+    text: "Deixar as bananas apoiadas em uma superfície amassa os frutos de baixo devido ao próprio peso. As partes machucadas liberam mais etileno e escurecem. 💡 Dicas de conservação: Pendure as bananas em um suporte. Isso simula o cacho no pé, mantendo-as firmes e sem amassados por muito mais tempo."
+  - name: "Embrulhe a coroa com papel alumínio — Bloqueio de gás 🪙"
+    text: "O gás etileno da banana é liberado principalmente pela coroa (talo). 💡 Dicas de conservação: Embrulhe a coroa firmemente com papel alumínio ou filme plástico. Isso evita que o gás se espalhe, atrasando o amadurecimento em até 3 a 5 dias."
+  - name: "Refrigere quando estiver bem maduro — Retarde a deterioração ❄️"
+    text: "Muitos acham que bananas nunca devem ir à geladeira, mas isso vale para as verdes. Refrigerar bananas verdes causa injúria por frio, enegrecendo a casca sem amadurecer. Bananas maduras com pintas pretas são diferentes. 💡 Dicas de conservação: Embrulhe as bananas maduras individualmente e guarde na gaveta de legumes (0-4 °C). A casca escurece, mas a polpa se mantém firme e fresca por até uma semana."
 ---
 
 Você já comprou bananas amarelas e perfeitas no mercado apenas para vê-las cheias de manchas pretas e moles em poucos dias? 🍌

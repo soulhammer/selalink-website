@@ -7,6 +7,14 @@ tags: ["Bananen", "Lebensmittel aufbewahren", "Küche", "Ethylengas", "Zero Wast
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
 youtubeId: "yJz71H46PJM"
+
+steps:
+  - name: "Einen Bananenständer verwenden — Druckstellen vermeiden 🍌"
+    text: "Bananen direkt auf eine Oberfläche zu legen, führt zu Druckstellen durch ihr eigenes Gewicht. Diese Stellen setzen vermehrt Ethylengas frei. 💡 Lagerungstipp: Hängen Sie die Bananen auf einen Bananenständer. Dies ahmt die natürliche Wuchsform nach, verhindert Druckstellen und hält sie länger fest."
+  - name: "Den Strunk mit Alufolie umwickeln — Gasbarriere 🪙"
+    text: "Die Freisetzung von Ethylengas erfolgt vor allem über den Strunk. 💡 Lagerungstipp: Umwickeln Sie den Bananenstrunk fest mit Alufolie oder Frischhaltefolie. Dies verhindert das Entweichen des Gases und zögert die Reifung um 3 bis 5 Tage hinaus."
+  - name: "Sobald vollreif, im Kühlschrank lagern — Haltbarkeit verlängern ❄️"
+    text: "Viele glauben, dass Bananen niemals in den Kühlschrank gehören. Dies gilt jedoch nur für unreife Bananen. Das Kühlen grüner Bananen führt zu Kälteschäden. Reife Bananen mit Zuckerflecken können jedoch gekühlt werden. 💡 Lagerungstipp: Wickeln Sie reife Bananen einzeln ein und lagern sie im Gemüsefach (0–4 °C). Die Schale wird schwarz, das Fruchtfleisch bleibt jedoch bis zu einer Woche fest."
 ---
 
 Haben Sie schon einmal wunderschöne, gelbe Bananen gekauft, nur um zuzusehen, wie sie innerhalb weniger Tage braune Flecken bekommen und matschig werden? 🍌

@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["오징어 보관법","해산물 보관","오징어 손질","냄새 차단","냉동 보관"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+authority: "<strong>국립수산과학원(NIFS) 및 식품의약품안전처(MFDS) 및 미국 농무부(USDA)</strong>"
 ---
 
 오징어를 냉동실에 얼려두었는데 다른 냉동식품에서 꿉꿉한 냄새가 난 경험 있으시죠? 오늘 StoreSelf에서는 국립수산과학원의 수산물 신선 가이드를 기초로 냄새 배임 없는 오징어 보관법을 소개합니다.

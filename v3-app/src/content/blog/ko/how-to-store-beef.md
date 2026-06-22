@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["소고기 보관법","소고기 오일 랩핑","핏물 제거","소고기 냉동","고기 보관"]
 heroImage: "/images/blog/beef_storage_hack.png"
 app: "storeself"
+authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</strong>"
 ---
 
 비싼 소고기를 사 와서 이틀 냉장고에 넣어 두었더니 거무스름하게 변해 찝찝했던 적 있으시죠? 오늘 StoreSelf에서는 미국 농무부 식품안전검사국(USDA FSIS)의 신선육 관리 지침에 근거한 오일 랩핑 비법을 전합니다.

@@ -1,15 +1,22 @@
 ---
-title: "Sollte man Eier vor dem Lagern waschen? 3 Schritte zur sicheren Eierlagerung"
-description: "Das Waschen von Eiern zerstört ihre natürliche Schutzschicht. Erfahren Sie, wie Sie Eier in 3 Schritten richtig lagern."
+title: "Wie man Ei frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
+description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Ei basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["Eier Lagern","Eierhygiene","Salmonellen Vorbeugen","Frische-Tipps","Küchenhacks"]
+tags: ["Ei","Wissenschaftlich geprüfter Lagerungsratgeber","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
+authority: "<strong>MFDS & USDA</strong>"
+steps:
+  - name: "Eier vor dem Lagern niemals abwaschen — Schutzschicht erhalten ❌💧"
+    text: "Eierschalen besitzen Tausende winzige Poren zum Atmen. Das Waschen entfernt die natürliche Schutzschicht (Kutikula), sodass Bakterien wie Salmonellen durch die Poren eindringen können. Schmutz nur trocken abreiben."
+  - name: "Mit dem spitzen Ende nach unten lagern — Lage der Luftkammer stabilisieren 🥚"
+    text: "Das stumpfe, runde Ende des Eies enthält die Luftkammer. Liegt dieses Ende unten, kommt das Eigelb eher mit der Schalenmembran in Kontakt und verdirbt. Lagern Sie das runde Ende nach oben gerichtet."
+  - name: "Tief im Kühlschrank platzieren — Temperaturschwankungen vermeiden ❄️"
+    text: "Die Kühlschranktür ist bei jedem Öffnen großen Temperaturschwankungen ausgesetzt, was das Eiklar verflüssigt. Lagern Sie empfindliche Lebensmittel wie Eier und Milch im Inneren des Kühlschranks."
 ---
 
-Das Waschen von Eiern vor der Lagerung ist ein schwerer Fehler. Es entfernt die Kutikula und ermöglicht das Eindringen von Keimen. Erfahren Sie die richtige Methode.
-
+Waschen Sie Eier ab und lagern sie in der Kühlschranktür? Diese Methode beeinträchtigt die Frische und führt zu Kreuzkontaminationen. Heute teilt StoreSelf offizielle USDA-Tipps.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Das Waschen von Eiern vor der Lagerung ist ein schwerer Fehler. Es entfernt die 
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Ministry of Agriculture, Food and Rural Affairs & Food and Drug Administration (FDA)</strong>.
+      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>MFDS & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Warum so lagern? Wissenschaftliche Fakten
+
+Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Wissenschaftlich geprüfter Lagerungsratgeber
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Eier Niemals Waschen — Die natürliche Kutikula erhalten ❌💧</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Eier vor dem Lagern niemals abwaschen — Schutzschicht erhalten ❌💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Eierschalen haben Tausende winziger Poren. Das Waschen entfernt die Kutikula-Schutzschicht, wodurch Salmonellen leicht ins Ei gelangen können. Schmutz nur trocken abreiben.
+    Eierschalen besitzen Tausende winzige Poren zum Atmen. Das Waschen entfernt die natürliche Schutzschicht (Kutikula), sodass Bakterien wie Salmonellen durch die Poren eindringen können. Schmutz nur trocken abreiben.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Spitzes Ende Nach Unten — Die Luftkammer schützen 🥚</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mit dem spitzen Ende nach unten lagern — Lage der Luftkammer stabilisieren 🥚</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Das runde Ende des Eies enthält die Luftkammer. Wenn Eier mit dem spitzen Ende nach unten gelagert werden, bleibt das Eigelb zentriert, was die Frische verlängert.
+    Das stumpfe, runde Ende des Eies enthält die Luftkammer. Liegt dieses Ende unten, kommt das Eigelb eher mit der Schalenmembran in Kontakt und verdirbt. Lagern Sie das runde Ende nach oben gerichtet.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Im inneren Fach lagern — Temperaturschwankungen vermeiden ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tief im Kühlschrank platzieren — Temperaturschwankungen vermeiden ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Die Kühlschranktür ist wegen der Temperaturschwankungen beim Öffnen der schlechteste Platz für Eier. Lagern Sie sie auf einem stabilen Innenbrett.
+    Die Kühlschranktür ist bei jedem Öffnen großen Temperaturschwankungen ausgesetzt, was das Eiklar verflüssigt. Lagern Sie empfindliche Lebensmittel wie Eier und Milch im Inneren des Kühlschranks.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Wichtige Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Rissige Eier sofort verbrauchen 🍳</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Eier vor dem Lagern niemals abwaschen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Eier mit feinen Rissen lassen Keime schnell ins Innere gelangen. Verbrauchen Sie beschädigte Eier umgehend nach dem Kauf durch Erhitzen.
+      Das Waschen entfernt die natürliche Schutzschicht (Kutikula) auf der Schale, wodurch Bakterien (wie Salmonellen) ins Innere gelangen können.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Geruchsintensive Lebensmittel meiden 🧄</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Eier mit dem stumpfen Ende nach oben lagern</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Eierschalen nehmen Gerüche leicht auf. Lagern Sie Eier nicht offen neben Fisch, Zwiebeln oder Knoblauch.
+      Das stumpfe Ende enthält die Luftkammer. Die Lagerung nach oben verhindert, dass das Eigelb mit der Lufttasche in Kontakt kommt, was die Eier länger frisch hält.
     </p>
   </div>
 </div>

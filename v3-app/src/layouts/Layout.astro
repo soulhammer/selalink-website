@@ -69,7 +69,7 @@ const t = useTranslations(lang as any);
 	<head>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-F045X42F26"></script>
-		<script>
+		<script is:inline>
 		  window.dataLayer = window.dataLayer || [];
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
@@ -369,7 +369,7 @@ const t = useTranslations(lang as any);
 			<div class="flex items-center gap-6">
 				<!-- Blog Link -->
 				<a href={`/${lang}/blog/`} class="text-sm font-semibold transition-all duration-300 hover:text-[var(--theme-accent,#0D9488)]">
-					{lang === 'ko' ? '블로그' : 'Blog'}
+					{t('nav.blog')}
 				</a>
 				<!-- Language Dropdown -->
 				<div class="relative" id="langWrapper">

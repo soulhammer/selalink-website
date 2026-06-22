@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["닭고기 보관법","닭고기 세척 경고","캠필로박터","생닭 보관","식품 위생"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+authority: "<strong>미국 농무부(USDA) 및 식품의약품안전처(MFDS) 및 미국 질병통제예방센터(CDC)</strong>"
 ---
 
 생닭을 물에 씻으면 식중독균이 주방에 확산됩니다. 오늘 StoreSelf에서는 미국 질병통제예방센터(CDC)의 주방 위생 지침에 따른 안전한 생닭 손질 및 보관 요령을 소개합니다.

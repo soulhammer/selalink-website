@@ -1,15 +1,22 @@
 ---
-title: "들기름은 무조건 냉장고로? 참기름과 정반대인 들기름 보관 비법"
-description: "들기름은 오메가-3가 많아 실온 방치 시 쩐내가 나고 상합니다. 무조건 냉장 보관해야 하는 이유를 전합니다."
+title: "Cara Menyimpan Minyak perila agar Tetap Segar: Panduan Penyimpanan Ilmiah"
+description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Minyak perila berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["들기름 보관법","들기름 냉장","참기름 실온","오메가3 산패","기름 보관"]
+tags: ["Minyak perila","Panduan Penyimpanan yang Terbukti Secara Ilmiah","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+authority: "<strong>RDA & MFDS</strong>"
+steps:
+  - name: "Selalu simpan di kulkas pada suhu 0–4°C — Mencegah oksidasi omega-3 ❄️"
+    text: "Berbeda dengan minyak wijen, minyak perilla tidak memiliki kandungan sesamol yang mencegah ketengikan dan mengandung lebih dari 60% asam lemak omega-3, membuatnya cepat rusak di suhu ruang. Selalu simpan di kulkas."
+  - name: "Gunakan botol kaca gelap dan kurangi paparan udara — Menahan oksigen & UV 🫙"
+    text: "Cahaya dan oksigen mempercepat oksidasi omega-3. Minyak perilla harus disimpan dalam botol kaca cokelat atau hijau, dan tutupnya harus rapat setelah digunakan untuk mengurangi kontak udara."
+  - name: "Campurkan minyak perilla dan minyak wijen dengan rasio 8:2 — Pengawet alami 🫒"
+    text: "Cobalah mencampur minyak perilla dengan minyak wijen sebanyak 20%. Antioksidan alami dalam minyak wijen, seperti lignan, menahan oksidasi minyak perilla, menggandakan masa simpannya."
 ---
 
-Do you keep perilla oil next to your stovetop? Today, StoreSelf shares perilla oil preservation methods based on RDA research results.
-
+Apakah Anda menyimpan minyak perilla di kabinet dapur atau pantry suhu ruang seperti minyak zaitun? Minyak perilla mengandung lebih dari 60% asam lemak omega-3, membuatnya cepat teroksidasi di suhu ruang. Hari ini, StoreSelf membagikan panduan penyimpanan kulkas.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Do you keep perilla oil next to your stovetop? Today, StoreSelf shares perilla o
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Rural Development Administration (RDA) & Ministry of Food and Drug Safety</strong>.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>RDA & MFDS</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Mengapa disimpan seperti ini? Fakta ilmiah
+
+Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Panduan Penyimpanan yang Terbukti Secara Ilmiah
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Always Store in Refrigerator (0-4°C) — Block Omega-3 Oxidation ❄️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Selalu simpan di kulkas pada suhu 0–4°C — Mencegah oksidasi omega-3 ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Perilla oil is over 60% omega-3, which is highly unstable. Store it in the fridge to prevent rapid oxidation and toxic rancidity.
+    Berbeda dengan minyak wijen, minyak perilla tidak memiliki kandungan sesamol yang mencegah ketengikan dan mengandung lebih dari 60% asam lemak omega-3, membuatnya cepat rusak di suhu ruang. Selalu simpan di kulkas.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Use Dark Glass Bottle and Limit Air Contact 🫙</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gunakan botol kaca gelap dan kurangi paparan udara — Menahan oksigen & UV 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Light is the catalyst for rancidity. Use dark glass bottles and decant into smaller containers to reduce headspace oxygen contact.
+    Cahaya dan oksigen mempercepat oksidasi omega-3. Minyak perilla harus disimpan dalam botol kaca cokelat atau hijau, dan tutupnya harus rapat setelah digunakan untuk mengurangi kontak udara.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Mix with Sesame Oil at 8:2 Ratio — Natural Preservative Hack 🫒</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Campurkan minyak perilla dan minyak wijen dengan rasio 8:2 — Pengawet alami 🫒</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Mixing 20% sesame oil into 80% perilla oil extends the shelf life. Sesame oil's natural sesamol and lignan act as strong antioxidants.
+    Cobalah mencampur minyak perilla dengan minyak wijen sebanyak 20%. Antioksidan alami dalam minyak wijen, seperti lignan, menahan oksidasi minyak perilla, menggandakan masa simpannya.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Discard immediately if it smells sour ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Selalu simpan minyak perilla di dalam kulkas</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] If the oil smells sour or has a heavy rancid odor, it is fully oxidized. Rancid oil contains harmful toxins and must be discarded.
+      Paparan oksigen dan cahaya membuat minyak perilla cepat rusak. Simpan rapat dalam botol gelap di kulkas.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Do not refrigerate sesame oil ❌</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Campur dengan 20% minyak gergelim untuk melipatgandakan masa simpan</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] Sesame oil has stable natural antioxidants. Storing it in the fridge degrades flavor and causes crystallization. Keep it in a dark pantry.
+      Minyak gergelim kaya akan sesamol dan sesamolin, antioksidan alami yang mencegah minyak perilla menjadi tengik.
     </p>
   </div>
 </div>

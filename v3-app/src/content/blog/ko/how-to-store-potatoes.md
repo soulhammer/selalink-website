@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["감자 보관법","채소 보관","식재료 팁","솔라닌 예방","살림 꿀팁"]
 heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
+authority: "<strong>식품의약품안전처(MFDS) 및 농촌진흥청(RDA) 및 영국 식품표준청(FSA)</strong>"
 ---
 
 흙 묻은 감자를 무심코 냉장고에 넣으셨나요? 감자는 저온 냉장 보관 시 전분이 당으로 변해 맛이 떨어지고 암 유발 물질을 형성합니다. 안전한 상온 격리 보관법을 알아봅니다.

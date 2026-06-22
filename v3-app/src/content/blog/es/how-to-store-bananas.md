@@ -7,6 +7,14 @@ tags: ["Plátanos", "Conservación de Alimentos", "Trucos de Cocina", "Gas Etile
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
 youtubeId: "yJz71H46PJM"
+
+steps:
+  - name: "Use un soporte para plátanos — Evite abolladuras 🍌"
+    text: "Dejar los plátanos apoyados en una superficie aplasta los frutos inferiores por su propio peso. Las partes golpeadas liberan más etileno y se oscurecen. 💡 Consejos de almacenamiento: Cuelgue los plátanos en un soporte. Esto imita su estado natural en el árbol, manteniéndolos firmes y sin abolladuras por más tiempo."
+  - name: "Envuelva la corona con papel de aluminio — Bloqueo de gas 🪙"
+    text: "La mayor parte del gas etileno del plátano se libera por el tallo (corona). 💡 Consejos de almacenamiento: Envuelva la corona firmemente con papel de aluminio o film plástico. Esto evita que el gas se propague, retrasando la maduración del racimo de 3 a 5 días."
+  - name: "Refrigere una vez maduro — Retrase el deterioro ❄️"
+    text: "Muchos creen que los plátanos nunca deben refrigerarse, pero esto solo aplica para los verdes. El frío daña los plátanos verdes, ennegreciéndolos sin madurar. Sin embargo, los maduros con manchas oscuras son distintos. 💡 Consejos de almacenamiento: Envuelva los plátanos maduros de forma individual y guárdelos en el cajón de verduras (0-4 °C). La piel se oscurecerá por el frío, pero la pulpa se mantendrá firme por una semana."
 ---
 
 ¿Alguna vez has comprado plátanos amarillos y perfectos en el supermercado solo para ver cómo se llenan de manchas negras y se vuelven blandos en pocos días? 🍌

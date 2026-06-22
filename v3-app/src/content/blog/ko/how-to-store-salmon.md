@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["연어 보관법","연어 보관","생연어 냉장","연어 비린내","수산물 위생"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+authority: "<strong>미국 식품의약국(FDA) 및 미국 농무부(USDA)</strong>"
 ---
 
 선홍빛 아름다운 연어를 사 와서 보관했는데 다음 날 칙칙한 주황색으로 변해 찝찝하셨나요? 오늘 StoreSelf에서는 미국 식품의약국(FDA) 가이드를 바탕으로 비린내를 잡고 신선도를 지키는 연어 보관법을 알려드립니다.

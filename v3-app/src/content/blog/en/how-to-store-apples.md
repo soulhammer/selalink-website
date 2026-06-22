@@ -6,6 +6,14 @@ category: "StoreSelf"
 tags: ["Apple Storage", "Fruit Care", "Ethylene Gas", "Freshness Tips", "Kitchen Hacks"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+
+steps:
+  - name: "Wrap individually with plastic wrap without washing — Moisture retention 📦"
+    text: "Exposing apples to open air or refrigerating them directly causes moisture to evaporate, making the skin wrinkly and the flesh mealy. 💡 Storage Tip: Wrap each dry apple tightly with plastic wrap or a small plastic bag. This locks in the natural moisture to maintain a crisp texture and prevents the ethylene gas from leaking out to surrounding foods."
+  - name: "Store at a low temperature of 0–4°C — Delay ripening ❄️"
+    text: "Higher temperatures speed up the apple's respiration, leading to more ethylene gas release and quicker spoilage. 💡 Storage Tip: The optimal storage temperature for apples is 0–4°C. Place the wrapped apples in the crisper drawer of your refrigerator. Avoid sub-zero temperatures as freezing alters the texture and taste."
+  - name: "Isolate completely from other foods — Double protection 🛡️"
+    text: "Even if wrapped, the strong ethylene gas from apples can travel through the refrigerator air and affect other fresh produce. 💡 Storage Tip: Put the individually wrapped apples inside a sealed ziploc bag or airtight container for double sealing. Keep them in a separate compartment away from ethylene-sensitive vegetables and fruits like lettuce, spinach, bananas, and pears."
 ---
 
 Have you ever bought a fresh bag of crisp, sweet apples only to find them wrinkled and soft just a couple of weeks later? 🍎

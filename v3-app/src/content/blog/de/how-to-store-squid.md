@@ -1,15 +1,22 @@
 ---
-title: "오징어 비린내 냉동실에 배는 이유? 냄새 가두는 오징어 보관법"
-description: "오징어는 내장을 방치하면 바로 비린내의 온상이 됩니다. 깔끔한 내장 제거와 지퍼백 2중 밀봉 보관 요령을 알아봅니다."
+title: "Wie man Tintenfisch frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
+description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Tintenfisch basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["오징어 보관법","해산물 보관","오징어 손질","냄새 차단","냉동 보관"]
+tags: ["Tintenfisch","Wissenschaftlich geprüfter Lagerungsratgeber","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+authority: "<strong>NIFS & MFDS & USDA</strong>"
+steps:
+  - name: "Innereien und Saugnäpfe gründlich reinigen — Fischgeruch blockieren 🦑"
+    text: "Die Innereien und der Schmutz in den Saugnäpfen sind die Hauptursache für Fischgeruch und Bakterien. Schneiden Sie den Körper auf, entfernen Sie Innereien und Tintenbeutel, und spülen Sie die Fangarme ab."
+  - name: "Vollständig trocknen und in Frischhaltefolie wickeln — Texturschutz 📦"
+    text: "Wischen Sie die gereinigten Tintenfische innen und außen mit Küchenpapier gründlich trocken. Restwasser bildet Eiskristalle, die das Fleisch nach dem Auftauen zäh machen. Einzeln einwickeln."
+  - name: "In Gefrierbeutel legen und doppelt versiegeln — Geruchsübertragung verhindern 🛡️"
+    text: "Legen Sie die eingewickelten Tintenfische in einen Gefrierbeutel, pressen Sie die Luft heraus und lagern Sie sie bei unter -18 °C. Dies schützt andere Lebensmittel vor Fischgeruch."
 ---
 
-Does frozen squid leave a fishy smell on other freezer items? Today, StoreSelf presents odor-locking squid storage hacks based on NIFS guidelines.
-
+Haben Sie frischen Tintenfisch im Beutel im Kühlschrank gelagert, nur um festzustellen, dass die Küche nach Fisch roch und das Fleisch verdarb? Die Innereien verfaulen zuerst. Heute teilt StoreSelf Tipps zur Handhabung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ Does frozen squid leave a fishy smell on other freezer items? Today, StoreSelf p
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>National Institute of Fisheries Science (NIFS) & Ministry of Food and Drug Safety</strong>.
+      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>NIFS & MFDS & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Warum so lagern? Wissenschaftliche Fakten
+
+Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Wissenschaftlich geprüfter Lagerungsratgeber
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[DE] Remove Organs and Scrub Suckers with Salt — Odor Stop 🦑</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Innereien und Saugnäpfe gründlich reinigen — Fischgeruch blockieren 🦑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [DE] Squid viscera decay very quickly, causing bad smell. Slice the body, scrape off all inner organs, and scrub the tentacle suckers with coarse salt.
+    Die Innereien und der Schmutz in den Saugnäpfen sind die Hauptursache für Fischgeruch und Bakterien. Schneiden Sie den Körper auf, entfernen Sie Innereien und Tintenbeutel, und spülen Sie die Fangarme ab.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[DE] Wipe Moisture Fully and Wrap with Film — Texture Protection 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Vollständig trocknen und in Frischhaltefolie wickeln — Texturschutz 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [DE] Wipe off all surface water with paper towels to prevent freezer burn. Wrap each squid flatly in plastic wrap.
+    Wischen Sie die gereinigten Tintenfische innen und außen mit Küchenpapier gründlich trocken. Restwasser bildet Eiskristalle, die das Fleisch nach dem Auftauen zäh machen. Einzeln einwickeln.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[DE] Double Seal in Freezer Bag — Prevent Freezer Smell 🛡️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In Gefrierbeutel legen und doppelt versiegeln — Geruchsübertragung verhindern 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [DE] Place wrapped squid inside a heavy freezer bag and seal tightly. Double sealing locks in the fishy smell, protecting other freezer items.
+    Legen Sie die eingewickelten Tintenfische in einen Gefrierbeutel, pressen Sie die Luft heraus und lagern Sie sie bei unter -18 °C. Dies schützt andere Lebensmittel vor Fischgeruch.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Wichtige Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[DE] Freezing raw squid can make it chewy ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Innereien, Augen und Saugnäpfe vollständig entfernen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [DE] Blanching squid in boiling water with a drop of vinegar for 10 seconds before freezing preserves a tender and springy texture upon thawing.
+      Das Belassen der Innereien führt zu schnellem Verderb, Bakterien und starkem Geruch. Sofort reinigen.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[DE] Limit refrigeration to 24 hours ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Rohen Tintenfisch maximal 2 Tage im Kühlschrank lagern</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [DE] Seafood spoils extremely fast. Cook raw squid within a day of purchase, or freeze it immediately.
+      Roher Fisch verdirbt im Kühlschrank schnell. Zur längeren Aufbewahrung portionsweise einfrieren.
     </p>
   </div>
 </div>

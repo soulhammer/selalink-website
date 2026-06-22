@@ -1,15 +1,22 @@
 ---
-title: "남은 두부 소금 한 꼬집으로 7일 동안? 촉촉하고 안전한 두부 보관법"
-description: "두부 팩 안의 물은 세균 번식의 온상입니다. 깨끗한 찬물과 소금을 이용해 신선도를 유지하는 3단계 비법을 전합니다."
+title: "豆腐の鮮度を保つ保存方法：科学的保管ガイド"
+description: "公的安全基準に基づく豆腐の最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["두부 보관법","두부 보관","남은 두부","두부 소금물","식재료 팁"]
+tags: ["豆腐","科学的に検証された保存ガイド","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+steps:
+  - name: "パックの水は必ず捨て、流水できれいに洗う — 衛生管理 🚿"
+    text: "豆腐のパックに入っている水は, 豆腐のタンパク質が溶け出しており, 雑菌が繁殖しやすい状態になっています。保存する前にパックの水を捨て、豆腐を流水で軽く洗い流してください。"
+  - name: "密閉容器に入れ、きれいな冷水と塩をひとつまみ加える — 天然の保存効果 🧂"
+    text: "密閉容器に豆腐が完全に浸かる量のきれいな冷水を注ぎ, 塩をひとつまみ（約小さじ半分）入れて混ぜます。塩水が雑菌の活動を抑え, 豆腐の弾力をキープします。"
+  - name: "冷水はなるべく毎日入れ替える — 清潔キープ 💧"
+    text: "塩を入れていても, 容器の水は毎日または2日に1回は新しい冷水に入れ替えてください。これにより豆腐が傷むのを防ぎ, 最大1週間まで弾力を保ちながら新鮮に保存できます。"
 ---
 
-When half a block of tofu is left, did you store it in the original package water? Today, StoreSelf shares a safe tofu storage guide based on Mayo Clinic food safety standards.
-
+使い残した半分の豆腐を保存する際、パックに入っていた元の水をそのまま容器に注いでいませんか？実は元の水は雑菌が最も繁殖しやすい状態です。安全に7日間新鮮さを保つ方法をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ When half a block of tofu is left, did you store it in the original package wate
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Mayo Clinic & Food Safety Information Services</strong>.
+      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. なぜこのように保存するのか？科学的な事実
+
+食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. 科学的に検証された保存ガイド
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Discard Package Liquid and Rinse under Cold Water 🚿</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">パックの水は必ず捨て、流水できれいに洗う — 衛生管理 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] The liquid inside the tofu package has high microbial growth after opening. Discard it and rinse the tofu gently under clean running water.
+    豆腐のパックに入っている水は, 豆腐のタンパク質が溶け出しており, 雑菌が繁殖しやすい状態になっています。保存する前にパックの水を捨て、豆腐を流水で軽く洗い流してください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Submerge in Clean Water with a Pinch of Salt — Natural Preservative 🧂</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">密閉容器に入れ、きれいな冷水と塩をひとつまみ加える — 天然の保存効果 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Place the tofu in an airtight container, submerge it fully in fresh cold water, and add a pinch of salt. Salt acts as a natural decay barrier.
+    密閉容器に豆腐が完全に浸かる量のきれいな冷水を注ぎ, 塩をひとつまみ（約小さじ半分）入れて混ぜます。塩水が雑菌の活動を抑え, 豆腐の弾力をキープします。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[JA] Change the Water Daily — Maintain Purity 💧</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">冷水はなるべく毎日入れ替える — 清潔キープ 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [JA] Even with salt, still water allows protein-decomposing bacteria to grow. Change the water daily to keep the tofu fresh for up to 7 days.
+    塩を入れていても, 容器の水は毎日または2日に1回は新しい冷水に入れ替えてください。これにより豆腐が傷むのを防ぎ, 最大1週間まで弾力を保ちながら新鮮に保存できます。
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Freezing changes tofu into a spongy texture ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">パックの水は捨て、毎日綺麗な冷たい水に入れ替えてください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] Freezing tofu expels moisture, creating pockets that make it spongy and chewy. Only do this if you intend to cook braised or stewed tofu.
+      残った豆腐は雑菌によって傷みやすいです。毎日冷たい水を交換することで、雑菌の繁殖を抑え、清潔に保てます。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[JA] Check for slippery surface texture ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">水に塩をひとつまみ入れて保存してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [JA] If the surface of the tofu feels slimy or shows white mucus-like fluid, it is spoiled by bacteria. Do not consume.
+      少量の塩を入れることで天然の保存料の役割を果たし、豆腐の食感を固く保ち、型崩れを防ぎます。
     </p>
   </div>
 </div>

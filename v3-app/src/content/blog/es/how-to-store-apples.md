@@ -6,6 +6,14 @@ category: "StoreSelf"
 tags: ["Conservar Manzanas", "Cuidado de Frutas", "Gas Etileno", "Consejos de Frescura", "Trucos de Cocina"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+
+steps:
+  - name: "Envuelva individualmente con film plástico sin lavar — Retención de humedad 📦"
+    text: "Exponer las manzanas al aire o refrigerarlas directamente hace que pierdan humedad, arrugando la piel y ablandando la pulpa. 💡 Consejos de almacenamiento: Envuelva cada manzana seca firmemente con film plástico. Esto retiene la humedad natural para mantener su textura crujiente y evita que el gas etileno se propague."
+  - name: "Conserve en refrigeración a 0–4 °C — Retrase la maduración ❄️"
+    text: "Las temperaturas altas aceleran la respiración de la manzana, liberando más gas etileno y dañándola rápido. 💡 Consejos de almacenamiento: La temperatura ideal es de 0 a 4 °C. Guarde las manzanas envueltas en el cajón de verduras del refrigerador. Evite temperaturas congelantes para que no pierda su sabor."
+  - name: "Aísle por completo de otros alimentos — Protección doble 🛡️"
+    text: "Aunque estén envueltas, el gas etileno de las manzanas puede viajar por el aire y dañar otros alimentos. 💡 Consejos de almacenamiento: Coloque las manzanas envueltas en una bolsa con cierre o contenedor hermético. Manténgalas en compartimentos separados de frutas y verduras sensibles al etileno como lechugas, espinacas o plátanos."
 ---
 
 ¿Alguna vez ha comprado una bolsa de manzanas frescas, dulces y crujientes solo para encontrarlas arrugadas y blandas un par de semanas después? 🍎

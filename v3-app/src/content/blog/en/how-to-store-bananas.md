@@ -7,6 +7,14 @@ tags: ["Banana Storage", "Fruit Care", "Food Waste Hacks", "Ethylene Gas", "Kitc
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
 youtubeId: "yJz71H46PJM"
+
+steps:
+  - name: "Use a banana hanger — Prevent bruising 🍌"
+    text: "Leaving bananas lying on a flat surface causes the bottom fruits to bruise under their own weight. Bruised spots accelerate ethylene gas release and browning. 💡 Storage Tip: Hang bananas on a banana hanger or a coat hanger to suspend them. This mimics their natural growing environment, keeping them firm and bruise-free for much longer."
+  - name: "Wrap the crown with aluminum foil — Gas blockage 🪙"
+    text: "Most of the banana's ethylene gas is released from the stem (crown). 💡 Storage Tip: Wrap the crown tightly with aluminum foil or plastic wrap. This prevents the gas from spreading, slowing down the ripening of the entire bunch by 3 to 5 days."
+  - name: "Refrigerate once fully ripe — Delay spoilage ❄️"
+    text: "While many believe bananas should never be refrigerated, this is only true for unripe ones. Refrigerating green bananas causes cold damage, turning them black without ripening. However, fully ripe bananas with sugar spots are different. 💡 Storage Tip: Wrap ripe bananas individually and store them in the crisper drawer (0–4°C). The peel will turn black due to the cold, but the pulp inside will remain firm and fresh for up to a week."
 ---
 
 Have you ever brought home a beautiful, bright yellow bunch of bananas only to watch them develop black spots and turn into a mushy mess just a few days later? 🍌

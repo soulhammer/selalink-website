@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["양파 보관법","채소 보관","감자 격리","에틸렌 제어","식재료 보관"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 영국 식품표준청(FSA)</strong>"
 ---
 
 식재료 보관실의 대표적인 실수 중 하나는 양파와 감자를 한 바구니에 같이 담아두는 것입니다. 이 조합은 두 식품의 수명 단축을 재촉합니다. 과학적 팩트에 입각한 양파 보관법을 소개합니다.

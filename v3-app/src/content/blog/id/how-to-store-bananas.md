@@ -7,6 +7,14 @@ tags: ["Pisang", "Pengawetan Makanan", "Tips Dapur", "Gas Etilen", "Bebas Sampah
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
 youtubeId: "yJz71H46PJM"
+
+steps:
+  - name: "Gunakan gantungan pisang — Mencegah memar 🍌"
+    text: "Meletakkan pisang langsung di atas permukaan datar akan membuat buah bagian bawah memar akibat beratnya sendiri. Bagian memar mempercepat pelepasan gas etilen dan pembusukan. 💡 Tips Penyimpanan: Gantung pisang pada gantungan khusus. Cara ini meniru lingkungan tumbuh alaminya, menjaga buah tetap kokoh dan bebas memar lebih lama."
+  - name: "Bungkus bagian pangkal dengan aluminium foil — Menahan gas 🪙"
+    text: "Sebagian besar gas etilen pisang dilepaskan dari bagian pangkal (tangkai). 💡 Tips Penyimpanan: Bungkus bagian pangkal pisang rapat-rapat dengan aluminium foil atau plastik wrap. Ini menahan gas agar tidak menyebar, memperlambat pematangan selama 3–5 hari."
+  - name: "Dinginkan setelah benar-benar matang — Memperlambat kebusukan ❄️"
+    text: "Banyak yang percaya pisang tidak boleh dimasukkan ke kulkas. Ini hanya berlaku untuk pisang mentah (hijau). Pisang mentah yang didinginkan akan memar karena dingin dan tidak akan matang. Namun, pisang yang sudah matang (ada bintik manis) berbeda. 💡 Tips Penyimpanan: Bungkus pisang matang satu per satu dan taruh di laci sayur kulkas (0–4°C). Kulitnya akan menghitam, tetapi daging buahnya tetap segar dan kokoh selama seminggu."
 ---
 
 Apakah Anda pernah membeli pisang kuning yang mulus di supermarket, hanya untuk melihatnya dipenuhi bintik-bintik hitam dan menjadi benyek dalam beberapa hari saja? 🍌

@@ -1,15 +1,22 @@
 ---
-title: "시금치는 눕혀두면 먼저 썩는다? 신선도를 오래 유지하는 시금치 보관법"
-description: "시금치처럼 세워 자라는 엽채류는 세워서 보관해야 수명이 늘어납니다. 과학적으로 증명된 보관법을 전합니다."
+title: "Como armazenar Espinafre fresco: Guia científico de conservação"
+description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Espinafre con base nas diretrizes oficiais de segurança."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["시금치 보관법","시금치 수직 보관","채소 보관","시금치 손질","주방 정보"]
+tags: ["Espinafre","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
 app: "storeself"
+authority: "<strong>RDA & EFSA & FSA</strong>"
+steps:
+  - name: "Embrulhe o espinafre sem lavar em jornal/papel-toalha 📦"
+    text: "As folhas do espinafre apodrecem rápido se molhadas. Mantenha a terra e embrulhe sem apertar em jornal ou papel-toalha para evitar a condensação."
+  - name: "Guarde na vertical com as raízes para baixo — Diminua a respiração 🌿"
+    text: "Se guardar deitados, os espinafres gastam energia tentando crescer para cima, murchando mais rápido. Coloque-os na vertical, com as raízes para baixo, em um copo ou pote na gaveta de legumes."
+  - name: "Isole de frutas que liberam etileno — Armazenamento protegido 🛡️"
+    text: "O espinafre é extremamente sensível ao gás etileno. Guardar perto de maçã, pera ou tomate amarela as folhas e causa apodrecimento rápido. Deixe em gavetas totalmente separadas."
 ---
 
-시금치는 영양이 풍부한 채소이지만, 냉장고 야채칸에 가로로 눕혀 방치하면 하루이틀 만에 잎이 누렇게 뜨고 짓눌려 썩어버립니다. 호흡 작용을 억제하는 과학적인 보관법을 설명합니다.
-
+Você comprou espinafre, deixou no saco plástico e jogou fora em dois dias porque as folhas apodreceram? Hoy, o StoreSelf ensina como controlar a umidade para manter fresco por uma semana.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ app: "storeself"
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>United States Department of Agriculture (USDA) & Food Safety Information Services</strong>.
+      Este guia de conservação segue as diretrizes oficiais de: <strong>RDA & EFSA & FSA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Por que armazenar assim? Fatos científicos
+
+Compreender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Guia de armazenamento comprovado cientificamente
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Wrap with Paper Towels/Newspaper — Humidity Control 📦</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe o espinafre sem lavar em jornal/papel-toalha 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] Do not wash spinach before storing. Wrap it gently in paper towels or newspaper to absorb excess transpiration and prevent rotting.
+    As folhas do espinafre apodrecem rápido se molhadas. Mantenha a terra e embrulhe sem apertar em jornal ou papel-toalha para evitar a condensação.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Store Vertically with Roots Pointing Down — Reduce Stress 🌿</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde na vertical com as raízes para baixo — Diminua a respiração 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] Spinach is a vertical crop. Storing it horizontally causes physiological stress and accelerates wilting. Keep it upright in the fridge drawer.
+    Se guardar deitados, os espinafres gastam energia tentando crescer para cima, murchando mais rápido. Coloque-os na vertical, com as raízes para baixo, em um copo ou pote na gaveta de legumes.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[PT] Keep Separated from Ethylene Emitters — Gaseous Isolation 🛡️</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Isole de frutas que liberam etileno — Armazenamento protegido 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [PT] Spinach is highly sensitive to ethylene gas. Keep it away from apples, bananas, and ripe tomatoes to prevent yellowing of the leaves.
+    O espinafre é extremamente sensível ao gás etileno. Guardar perto de maçã, pera ou tomate amarela as folhas e causa apodrecimento rápido. Deixe em gavetas totalmente separadas.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[PT] Never seal wet spinach in plastic bags 💧</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Seque bem a umidade para evitar que as folhas amoleçam</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [PT] Surface water trapped inside plastic bags suffocates the spinach leaves, leading to slimy rot within 2 days.
+      O excesso de água nas folhas verdes acelera o apodrecimento. Embrulhe em papel-toalha para absorver a umidade.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[PT] Sort out yellowing leaves first 🍂</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Guarde o espinafre de pé com as raízes para baixo</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [PT] Wilted or yellowing leaves emit decay microbes. Always check and sort the spinach bundle before wrapping.
+      Os vegetais duram mais se guardados na posição natural de crescimento. Manter de pé evita que as folhas se esmaguem.
     </p>
   </div>
 </div>

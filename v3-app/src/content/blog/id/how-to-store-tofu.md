@@ -1,15 +1,22 @@
 ---
-title: "남은 두부 소금 한 꼬집으로 7일 동안? 촉촉하고 안전한 두부 보관법"
-description: "두부 팩 안의 물은 세균 번식의 온상입니다. 깨끗한 찬물과 소금을 이용해 신선도를 유지하는 3단계 비법을 전합니다."
+title: "Cara Menyimpan Tahu agar Tetap Segar: Panduan Penyimpanan Ilmiah"
+description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Tahu berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["두부 보관법","두부 보관","남은 두부","두부 소금물","식재료 팁"]
+tags: ["Tahu","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+authority: "<strong>MFDS & USDA</strong>"
+steps:
+  - name: "Buang air kemasan dan bilas dengan air mengalir — Menjaga higienitas 🚿"
+    text: "Air di dalam kemasan tahu mengandung protein terlarut, menjadikannya tempat berkembang biak bakteri. Buang air kemasan dan bilas tahu di bawah air mengalir."
+  - name: "Rendam dalam air dingin dengan sejumput garam — Pengawet alami 🧂"
+    text: "Masukkan tahu ke wadah kedap udara, rendam seluruhnya dengan air dingin bersih, lalu tambahkan sejumput garam. Air garam menekan mikroba dan menjaga tahu tetap kokoh."
+  - name: "Ganti air setiap hari — Menjaga kesegaran 💧"
+    text: "Meskipun diberi garam, air rendaman harus diganti dengan air dingin baru setiap hari atau dua hari sekali. Ini mencegah tahu menjadi asam dan membuatnya tetap segar selama seminggu."
 ---
 
-When half a block of tofu is left, did you store it in the original package water? Today, StoreSelf shares a safe tofu storage guide based on Mayo Clinic food safety standards.
-
+Apakah Anda menuangkan air kemasan asli saat menyimpan sisa tahu? Air kemasan adalah tempat bakteri berkembang biak. Hari ini, StoreSelf membagikan panduan penyimpanan tahu agar awet 7 hari.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ When half a block of tofu is left, did you store it in the original package wate
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Mayo Clinic & Food Safety Information Services</strong>.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>MFDS & USDA</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. Mengapa disimpan seperti ini? Fakta ilmiah
+
+Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. Panduan Penyimpanan yang Terbukti Secara Ilmiah
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Discard Package Liquid and Rinse under Cold Water 🚿</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Buang air kemasan dan bilas dengan air mengalir — Menjaga higienitas 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] The liquid inside the tofu package has high microbial growth after opening. Discard it and rinse the tofu gently under clean running water.
+    Air di dalam kemasan tahu mengandung protein terlarut, menjadikannya tempat berkembang biak bakteri. Buang air kemasan dan bilas tahu di bawah air mengalir.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Submerge in Clean Water with a Pinch of Salt — Natural Preservative 🧂</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rendam dalam air dingin dengan sejumput garam — Pengawet alami 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Place the tofu in an airtight container, submerge it fully in fresh cold water, and add a pinch of salt. Salt acts as a natural decay barrier.
+    Masukkan tahu ke wadah kedap udara, rendam seluruhnya dengan air dingin bersih, lalu tambahkan sejumput garam. Air garam menekan mikroba dan menjaga tahu tetap kokoh.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ID] Change the Water Daily — Maintain Purity 💧</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ganti air setiap hari — Menjaga kesegaran 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ID] Even with salt, still water allows protein-decomposing bacteria to grow. Change the water daily to keep the tofu fresh for up to 7 days.
+    Meskipun diberi garam, air rendaman harus diganti dengan air dingin baru setiap hari atau dua hari sekali. Ini mencegah tahu menjadi asam dan membuatnya tetap segar selama seminggu.
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Freezing changes tofu into a spongy texture ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Buang air kemasan dan ganti dengan air dingin bersih setiap hari</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] Freezing tofu expels moisture, creating pockets that make it spongy and chewy. Only do this if you intend to cook braised or stewed tofu.
+      Tahu sisa cepat rusak akibat bakteri. Mengganti air dingin setiap hari menghambat pertumbuhan bakteri.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ID] Check for slippery surface texture ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Tambahkan sejumput garam ke dalam air</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ID] If the surface of the tofu feels slimy or shows white mucus-like fluid, it is spoiled by bacteria. Do not consume.
+      Sedikit garam bertindak sebagai pengawet alami dan menjaga tekstur tahu tetap kokoh, mencegahnya hancur.
     </p>
   </div>
 </div>

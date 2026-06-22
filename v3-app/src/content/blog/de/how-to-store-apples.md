@@ -6,6 +6,14 @@ category: "StoreSelf"
 tags: ["Äpfel Lagern", "Obstpflege", "Ethylengas", "Frische-Tipps", "Küchenhacks"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+
+steps:
+  - name: "Ungewaschen einzeln in Frischhaltefolie einwickeln — Feuchtigkeitsschutz 📦"
+    text: "Wenn Äpfel ungeschützt gelagert werden, entweicht Feuchtigkeit, wodurch die Schale schrumpelig und das Fruchtfleisch mehlig wird. 💡 Lagerungstipp: Wickeln Sie jeden trockenen Apfel fest in Frischhaltefolie ein. Dies bewahrt die Feuchtigkeit für knackigen Genuss und stoppt die Ausbreitung von Ethylengas."
+  - name: "Bei niedrigen Temperaturen von 0–4 °C lagern — Reifung verzögern ❄️"
+    text: "Höhere Temperaturen beschleunigen die Atmung des Apfels, was zu mehr Ethylengas und schnellerem Verderb führt. 💡 Lagerungstipp: Die optimale Temperatur liegt bei 0–4 °C. Legen Sie die eingewickelten Äpfel in das Gemüsefach des Kühlschranks. Vermeiden Sie Minustemperaturen, damit sie nicht gefrieren."
+  - name: "Vollständig von anderen Lebensmitteln isolieren — Schutzbarriere 🛡️"
+    text: "Selbst wenn sie eingewickelt sind, kann das starke Ethylengas der Äpfel über die Luft andere frische Produkte beeinträchtigen. 💡 Lagerungstipp: Legen Sie die Äpfel zusätzlich in einen verschließbaren Beutel oder Behälter. Lagern Sie sie getrennt von ethylenempfindlichem Gemüse und Obst wie Salat, Spinat, Bananen und Birnen."
 ---
 
 Haben Sie schon einmal eine frische Tüte knackiger, süßer Äpfel gekauft, nur um sie ein paar Wochen später schrumpelig und weich vorzufinden? 🍎

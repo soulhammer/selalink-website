@@ -6,6 +6,7 @@ category: "StoreSelf"
 tags: ["시금치 보관법","시금치 수직 보관","채소 보관","시금치 손질","주방 정보"]
 heroImage: "/images/blog/spinach_storage_hack.png"
 app: "storeself"
+authority: "<strong>농촌진흥청(RDA) 및 유럽 식품안전청(EFSA) 및 영국 식품표준청(FSA)</strong>"
 ---
 
 시금치는 영양이 풍부한 채소이지만, 냉장고 야채칸에 가로로 눕혀 방치하면 하루이틀 만에 잎이 누렇게 뜨고 짓눌려 썩어버립니다. 호흡 작용을 억제하는 과학적인 보관법을 설명합니다.

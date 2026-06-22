@@ -1,15 +1,22 @@
 ---
-title: "남은 두부 소금 한 꼬집으로 7일 동안? 촉촉하고 안전한 두부 보관법"
-description: "두부 팩 안의 물은 세균 번식의 온상입니다. 깨끗한 찬물과 소금을 이용해 신선도를 유지하는 3단계 비법을 전합니다."
+title: "如何保鲜储存豆腐：科学储存指南"
+description: "根据官方食品安全指南，了解豆腐的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-06-22"
 category: "StoreSelf"
-tags: ["두부 보관법","두부 보관","남은 두부","두부 소금물","식재료 팁"]
+tags: ["豆腐","科学验证的储存指南","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
+steps:
+  - name: "倒掉盒装原水并在流水下冲洗 — 卫生处理 🚿"
+    text: "包装盒内的水溶解了豆腐的蛋白质，极易滋生细菌。储存前必须倒净包装内的原水，并在流动的清水下将豆腐轻轻洗净。"
+  - name: "放入加有一小撮盐的净水中 — 天然防腐 🧂"
+    text: "在密封容器中注入能完全没过豆腐的干净凉水，加入半勺（一小撮）食盐搅拌均匀。盐水能抑制微生物活性，并帮助维持豆腐质地的紧致。"
+  - name: "尽量每天更换一次凉水 — 保持清洁 💧"
+    text: "即便加入了食盐，容器中的清水也应每天或每两天更换一次。经常更换冷水能防止豆腐酸败，使其在冷藏下维持多达一周的鲜嫩紧致。"
 ---
 
-When half a block of tofu is left, did you store it in the original package water? Today, StoreSelf shares a safe tofu storage guide based on Mayo Clinic food safety standards.
-
+保存吃剩的半块豆腐时，您是否把包装盒里的原水一起倒进了保鲜盒？原水其实是细菌滋生最快的地方。今天，StoreSelf为您分享让豆腐安全保鲜7天以上的科学储存法。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -18,72 +25,71 @@ When half a block of tofu is left, did you store it in the original package wate
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>Mayo Clinic & Food Safety Information Services</strong>.
+      本指南严格遵守以下机构公认的食品安全与储存指南： <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>.
     </p>
   </div>
 </div>
 
+---
+
+## 1. 为什么要这样储存？科学原理
+
+了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。
 
 ---
 
-## 1. Why store like this? Scientific facts
-
-Understanding the nature of each ingredient and following the proper storage method is extremely important.
-
----
-
-## 2. Scientifically proven 3-step storage guide
+## 2. 科学验证的储存指南
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ZH] Discard Package Liquid and Rinse under Cold Water 🚿</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">倒掉盒装原水并在流水下冲洗 — 卫生处理 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ZH] The liquid inside the tofu package has high microbial growth after opening. Discard it and rinse the tofu gently under clean running water.
+    包装盒内的水溶解了豆腐的蛋白质，极易滋生细菌。储存前必须倒净包装内的原水，并在流动的清水下将豆腐轻轻洗净。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ZH] Submerge in Clean Water with a Pinch of Salt — Natural Preservative 🧂</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">放入加有一小撮盐的净水中 — 天然防腐 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ZH] Place the tofu in an airtight container, submerge it fully in fresh cold water, and add a pinch of salt. Salt acts as a natural decay barrier.
+    在密封容器中注入能完全没过豆腐的干净凉水，加入半勺（一小撮）食盐搅拌均匀。盐水能抑制微生物活性，并帮助维持豆腐质地的紧致。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">[ZH] Change the Water Daily — Maintain Purity 💧</h4>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">尽量每天更换一次凉水 — 保持清洁 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    [ZH] Even with salt, still water allows protein-decomposing bacteria to grow. Change the water daily to keep the tofu fresh for up to 7 days.
+    即便加入了食盐，容器中的清水也应每天或每两天更换一次。经常更换冷水能防止豆腐酸败，使其在冷藏下维持多达一周的鲜嫩紧致。
   </p>
 </div>
 
 ---
 
-## 3. Crucial rules to avoid
+## 3. 储存注意事项
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ZH] Freezing changes tofu into a spongy texture ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">请倒掉原包装水并每日更换干净的冷水</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ZH] Freezing tofu expels moisture, creating pockets that make it spongy and chewy. Only do this if you intend to cook braised or stewed tofu.
+      剩豆腐极易因细菌而变质。每日更换冷水可以抑制细菌繁殖，保持豆腐干净卫生。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">[ZH] Check for slippery surface texture ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">在水中加入一小撮盐</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      [ZH] If the surface of the tofu feels slimy or shows white mucus-like fluid, it is spoiled by bacteria. Do not consume.
+      加入少量的盐能起到天然防腐剂的作用，并保持豆腐口感紧实，防止其变软化水。
     </p>
   </div>
 </div>
