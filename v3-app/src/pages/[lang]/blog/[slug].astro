@@ -54,100 +54,170 @@ const structuredDataList = [
   }
 ];
 
-// 바나나 보관법 등의 구체적인 하우투 가이드일 때 HowTo 스키마 추가 주입
-if (post.id.includes('how-to-store-bananas')) {
+// 12종 식재료별 다국어 HowTo 스키마 단계 데이터정의
+const howToData = {
+  'how-to-store-bananas': {
+    ko: [
+      { name: "바나나 공중에 매달기", text: "바나나 걸이 또는 옷걸이에 매달아 공중에 띄워 멍이 드는 것을 방지하고 신선도를 지킵니다." },
+      { name: "꼭지 알루미늄 호일 감싸기", text: "바나나 에틸렌 가스 배출의 핵심인 꼭지(줄기) 부분을 랩이나 은박지로 꽁꽁 묶어 숙성을 지연시킵니다." },
+      { name: "완숙 시 개별 포장 후 냉장실 보관", text: "바나나가 노랗게 완전히 익고 슈가스팟이 생기면 낱개로 랩핑하여 냉장고 야채칸에 보관해 노화를 멈춥니다." }
+    ],
+    en: [
+      { name: "Hang Bananas Up", text: "Hang bananas on a hanger to distribute weight evenly and prevent soft bruising spots." },
+      { name: "Wrap Stems with Foil", text: "Wrap the banana stems tightly with aluminum foil or plastic wrap to lock ethylene gas." },
+      { name: "Refrigerate When Fully Ripe", text: "Wrap ripe bananas individually and store them in the crisper drawer to retard further ripening." }
+    ]
+  },
+  'how-to-store-apples': {
+    ko: [
+      { name: "씻지 않고 랩으로 개별 포장", text: "수분 증발을 막고 에틸렌 가스 노출을 차단하기 위해 씻지 않은 사과를 랩으로 감쌉니다." },
+      { name: "저온 냉장 보관", text: "사과의 호흡과 에틸렌 방출을 억제하여 신선도를 오래 지키도록 냉장고 야채칸(0~4℃)에 보관합니다." },
+      { name: "다른 식재료와 완벽 격리", text: "사과의 에틸렌 가스가 다른 채소와 과일을 부패시키지 않도록 지퍼백 등에 밀봉해 격리 보관합니다." }
+    ],
+    en: [
+      { name: "Wrap Individually Without Washing", text: "Wrap each unwashed apple tightly with plastic wrap to prevent moisture loss and block ethylene." },
+      { name: "Store at Low Temperature", text: "Store wrapped apples in the refrigerator crisper drawer (0-4°C) to delay respiration and aging." },
+      { name: "Isolate from Other Produce", text: "Double-seal wrapped apples in a bag or container and keep them away from other ethylene-sensitive produce." }
+    ]
+  },
+  'how-to-store-potatoes': {
+    ko: [
+      { name: "씻지 않고 신문지 개별 포장", text: "수분 흡수 및 빛 차단을 위해 씻지 않은 감자를 신문지나 종이봉투로 개별 감쌉니다." },
+      { name: "사과 1개 동봉 보관", text: "에틸렌 가스를 방출하는 사과 한 알을 같이 상자에 넣어 감자의 싹 성장 호르몬을 억제합니다." },
+      { name: "냉장 보관 금지", text: "6℃ 이하 보관 시 전분이 당분으로 바뀌어 맛이 변하고 발암 물질이 발생하므로 서늘한 상온에 보관합니다." }
+    ],
+    en: [
+      { name: "Wrap Potatoes Individually", text: "Wrap each unwashed potato in newspaper or paper bags to control humidity and block light." },
+      { name: "Store with 1 Apple", text: "Put one apple inside the potato box to let ethylene gas suppress potato sprouting hormones." },
+      { name: "Never Refrigerate Potatoes", text: "Avoid temperatures below 6°C to prevent starch-to-sugar conversion and acrylamide risks." }
+    ]
+  },
+  'how-to-store-eggs': {
+    ko: [
+      { name: "물 세척 절대 금지", text: "세척 시 껍질 표면의 천연 보호막(큐티클)이 손상되어 기공으로 살모넬라균이 유입되므로 씻지 않고 보관합니다." },
+      { name: "뾰족한 쪽을 아래로 정렬", text: "둥근 쪽에 기실(공기주머니)이 있어 숨을 쉴 수 있도록 둥근 부위를 위로, 뾰족한 부위를 아래로 하여 세워 둡니다." },
+      { name: "냉장실 안쪽 보관", text: "온도 변화가 잦고 충격이 있는 냉장실 문 쪽을 피하고 본체 안쪽 깊숙한 선반에 보관합니다." }
+    ],
+    en: [
+      { name: "Never Wash Eggs", text: "Washing strips the protective cuticle layer, letting salmonella enter. Wipe dirt with a dry cloth." },
+      { name: "Pointy End Downward", text: "Keep the round end containing the air pocket upward so the egg can breathe and stay centered." },
+      { name: "Store on Inside Fridge Shelf", text: "Place eggs in their carton on a stable inner shelf to avoid temperature shifts from the door." }
+    ]
+  },
+  'how-to-store-onions': {
+    ko: [
+      { name: "껍질째 통풍망에 보관", text: "수분을 방지하고 공기 순환을 돕기 위해 그물망이나 스타킹에 넣어 서늘한 그늘에 매달아 보관합니다." },
+      { name: "깐 양파는 물기 말려 랩핑", text: "손질된 양파는 표면 물기를 완벽히 건조시킨 뒤 식품용 랩으로 개별 밀봉해 냉장 야채칸에 보관합니다." },
+      { name: "감자와 완벽 격리 보관", text: "감자의 수분과 양파의 에틸렌 가스가 서로를 썩게 하므로 절대 같은 상자나 가까이 두지 않습니다." }
+    ],
+    en: [
+      { name: "Store in a Well-Ventilated Net", text: "Keep whole unpeeled onions in a hanging mesh bag in a dry, dark pantry to ensure air flow." },
+      { name: "Dry and Wrap Peeled Onions", text: "Wipe surface moisture off peeled onions and wrap tightly in cling wrap before refrigerating." },
+      { name: "Isolate from Potatoes", text: "Never store together as potato moisture and onion ethylene gas accelerate mutual rotting." }
+    ]
+  },
+  'how-to-store-tomatoes': {
+    ko: [
+      { name: "완숙 전 상온 그늘 보관", text: "설익은 토마토를 냉장하면 풍미 성분이 파괴되므로 15~20℃ 통풍이 잘되는 상온 그늘에서 후숙시킵니다." },
+      { name: "보관 전 꼭지 떼어내기", text: "초록색 꼭지 부위는 습기가 차고 곰팡이가 쉽게 발생하므로 보관하기 전에 꼭지를 미리 뗍니다." },
+      { name: "완숙 토마토만 야채칸 냉장", text: "완전한 적색으로 익은 토마토만 서로 닿지 않게 종이나 랩으로 감싸 냉장고 야채칸에 보관합니다." }
+    ],
+    en: [
+      { name: "Store at Room Temp Before Ripe", text: "Keep firm or green tomatoes at room temperature to let lycopene and sugars mature naturally." },
+      { name: "Remove Green Stems", text: "Remove the green stems before storing to prevent mold from developing on the damp stem base." },
+      { name: "Refrigerate Ripe Tomatoes Only", text: "Wrap fully ripe tomatoes individually in paper and store in the crisper drawer to delay decay." }
+    ]
+  },
+  'how-to-store-green-onions': {
+    ko: [
+      { name: "씻지 않은 대파 세워 보관", text: "물기를 건조하게 유지하기 위해 신문지에 감싸 뿌리가 밑으로 향하게 그늘에 세워서 보관합니다." },
+      { name: "밀폐용기 바닥 키친타월 활용", text: "세척한 대파는 물기를 완벽히 말린 후 꼭지가 아래로 가게 통에 담고 밑에 키친타월을 깔어 냉장 보관합니다." },
+      { name: "장기 보관 시 냉동 소분", text: "썰어서 물기를 완전히 말린 후 지퍼백에 밀봉해 얼려두고 요리 시 바로 꺼내 씁니다." }
+    ],
+    en: [
+      { name: "Store Unwashed Green Onions Upright", text: "Wrap in newspaper and store upright with roots down in a cool place to reduce stress." },
+      { name: "Keep in Container with Paper Towels", text: "For washed onions, dry them completely, lay a paper towel in a bin, and store them standing upright." },
+      { name: "Slice and Freeze Green Onions", text: "Slice excess onions, dry completely, freeze in a zip-top bag, and use directly without thawing." }
+    ]
+  },
+  'how-to-store-garlic': {
+    ko: [
+      { name: "용기 바닥 설탕 제습제 세팅", text: "밀폐용기 바닥에 설탕을 깔고 키친타월을 2~3장 덮은 뒤 깐 마늘을 올려 습기를 완벽 차단합니다." },
+      { name: "통마늘은 상온 망사 보관", text: "껍질째 있는 통마늘은 냉장 보관 시 싹이 트고 썩으므로 바람이 통하는 그늘에 매달아 보관합니다." },
+      { name: "다진 마늘 얼음틀 소분", text: "다량의 마늘은 다져서 실리콘 큐브 틀에 소분해 냉동실에 얼려두고 요리 시 한 블록씩 꺼내 씁니다." }
+    ],
+    en: [
+      { name: "Set Sugar Dehumidifier at Bottom", text: "Spread sugar and cover with paper towels at the container bottom, placing peeled garlic on top." },
+      { name: "Hang Whole Garlic in a Net", text: "Store unpeeled whole garlic in a hanging net in a dry, dark, well-ventilated space." },
+      { name: "Freeze Minced Garlic in Trays", text: "Freeze minced garlic in silicone ice trays to pop out convenient single-use cubes." }
+    ]
+  },
+  'how-to-store-watermelon': {
+    ko: [
+      { name: "비닐 랩 포장 절대 금지", text: "반 자른 수박에 비닐 랩만 씌우면 세균이 하루 만에 3,000배 증식하므로 절대 그대로 보관하지 않습니다." },
+      { name: "속살만 깍둑썰기 보관", text: "수박 껍질을 잘라내고 붉은 속살만 조각내어 유리 또는 플라스틱 밀폐용기에 청결하게 보관합니다." },
+      { name: "냉장실 깊숙이 안쪽 보관", text: "수분이 많아 쉽게 상하므로 온도 변화가 잦은 문 쪽을 피해 차가운 야채칸 안쪽에 밀폐 보관합니다." }
+    ],
+    en: [
+      { name: "Never Use Wrap Only", text: "Plastic film wrapping traps bacteria, leading to a massive germ spike. Avoid wrap-only refrigeration." },
+      { name: "Cut into Cubes and Store", text: "Remove the rind, cut the red flesh into cubes, and store in an airtight container for hygiene." },
+      { name: "Keep Deep Inside Refrigerator", text: "Store the container in the coldest section (0-4°C) away from the door to prevent fermentation." }
+    ]
+  },
+  'how-to-store-bread': {
+    ko: [
+      { name: "냉장 보관 절대 금지", text: "냉장고 온도(1~6℃)는 빵 속 전분을 가장 빨리 결정화(노화)시켜 질기고 푸석하게 만들므로 절대 피합니다." },
+      { name: "한 장씩 랩으로 개별 포장", text: "공기 노출과 냉동실 성에로 인한 수분 손실을 막기 위해 빵을 한 장씩 식품용 랩으로 밀착 포장합니다." },
+      { name: "지퍼백 이중 밀봉 후 즉시 냉동", text: "포장한 빵을 지퍼백에 한 번 더 밀봉해 즉시 냉동실로 보낸 뒤 먹을 때 자연해동하거나 구워 먹습니다." }
+    ],
+    en: [
+      { name: "Never Refrigerate Bread", text: "Fridge temperatures cause starch retrogradation, making bread crumb stale and hard." },
+      { name: "Wrap Slices Individually", text: "Wrap each slice tightly in plastic cling wrap to lock in the moisture and prevent freezer burn." },
+      { name: "Double Bag and Freeze", text: "Store wrapped slices in a freezer zip-top bag and freeze instantly. Toast directly from frozen." }
+    ]
+  },
+  'how-to-store-spinach': {
+    ko: [
+      { name: "씻지 않고 신문지 래핑", text: "물기가 닿으면 쉽게 물러지므로 세척하지 않고 마른 신문지나 키친타월에 둘둘 말아 보관합니다." },
+      { name: "뿌리가 아래로 가게 수직 정렬", text: "눕혀두면 식물이 위로 자라려는 스트레스로 쉽게 에너지를 잃고 썩으므로 컵 등에 세워서 냉장 보관합니다." },
+      { name: "사과나 바나나 등과 격리", text: "에틸렌 가스에 의해 시금치 잎의 엽록소가 파괴되어 누렇게 뜨므로 에틸렌 방출 과일과 차단 보관합니다." }
+    ],
+    en: [
+      { name: "Wrap with Paper Without Washing", text: "Do not wash before storing. Wrap gently in paper towels or newspaper to regulate humidity." },
+      { name: "Store Spinach Vertically Roots Down", text: "Keep spinach upright in the fridge drawer to prevent horizontal gravity stress and wilting." },
+      { name: "Isolate from Ethylene Emitters", text: "Store away from apples, bananas, and ripe tomatoes to prevent quick yellowing of leaves." }
+    ]
+  },
+  'how-to-store-mushrooms': {
+    ko: [
+      { name: "보관 전 물 세척 금지", text: "버섯은 스펀지 구조로 물을 흡수하면 금방 조직이 뭉개지고 진액이 나므로 씻지 않고 보관합니다." },
+      { name: "종이봉투나 키친타월 밀봉", text: "비닐 밀봉 시 호흡으로 인해 결로가 생겨 상하므로 수분을 머금어주는 종이봉투나 타월로 감쌉니다." },
+      { name: "눌림 없이 야채칸 상단 보관", text: "조직이 연해 무거운 식품 아래 깔리면 세포벽이 터져 검게 변하므로 맨 위나 눌리지 않는 곳에 둡니다." }
+    ],
+    en: [
+      { name: "Never Wash Before Storing", text: "Mushrooms act like sponges. Surface water causes slimy textures and swift decay. Dry wipe only." },
+      { name: "Wrap in a Paper Bag", text: "Wrap in a brown paper bag or paper towels instead of plastic to keep them aerated and dry." },
+      { name: "Place on Top Shelf Without Compression", text: "Keep on a top shelf where they won't be crushed by heavy items, protecting cellular structure." }
+    ]
+  }
+};
+
+// 접속 포스트 ID에 맞추어 매칭되는 HowTo 구조화 스키마를 동적으로 렌더링
+const matchedHowToKey = Object.keys(howToData).find(key => post.id.includes(key));
+if (matchedHowToKey) {
+  const steps = howToData[matchedHowToKey][lang === 'ko' ? 'ko' : 'en'] || howToData[matchedHowToKey]['en'];
   structuredDataList.push({
     "@context": "https://schema.org",
     "@type": "HowTo",
     "name": title,
     "description": description,
     "image": heroImage ? new URL(heroImage, Astro.site).href : undefined,
-    "step": lang === 'ko' ? [
-      {
-        "@type": "HowToStep",
-        "name": "바나나 공중에 매달기",
-        "text": "바나나 걸이 또는 옷걸이에 매달아 공중에 띄워 멍이 드는 것을 방지하고 신선도를 지킵니다.",
-        "url": `${formattedUrl}#step-1`
-      },
-      {
-        "@type": "HowToStep",
-        "name": "꼭지 알루미늄 호일 감싸기",
-        "text": "바나나 에틸렌 가스 배출의 핵심인 꼭지(줄기) 부분을 랩이나 은박지로 꽁꽁 묶어 숙성을 지연시킵니다.",
-        "url": `${formattedUrl}#step-2`
-      },
-      {
-        "@type": "HowToStep",
-        "name": "완숙 시 개별 포장 후 냉장실 보관",
-        "text": "바나나가 노랗게 완전히 익고 슈가스팟이 생기면 낱개로 랩핑하여 냉장고 야채칸에 보관해 노화를 멈춥니다.",
-        "url": `${formattedUrl}#step-3`
-      }
-    ] : [
-      {
-        "@type": "HowToStep",
-        "name": "Hang Bananas Up",
-        "text": "Hang bananas on a hanger to distribute weight evenly and prevent soft bruising spots.",
-        "url": `${formattedUrl}#step-1`
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Wrap Stems with Foil",
-        "text": "Wrap the banana stems tightly with aluminum foil or plastic wrap to lock ethylene gas.",
-        "url": `${formattedUrl}#step-2`
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Refrigerate When Fully Ripe",
-        "text": "Wrap ripe bananas individually and store them in the crisper drawer to retard further ripening.",
-        "url": `${formattedUrl}#step-3`
-      }
-    ]
-  });
-} else if (post.id.includes('how-to-store-apples')) {
-  structuredDataList.push({
-    "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": title,
-    "description": description,
-    "image": heroImage ? new URL(heroImage, Astro.site).href : undefined,
-    "step": lang === 'ko' ? [
-      {
-        "@type": "HowToStep",
-        "name": "씻지 않고 랩으로 개별 포장",
-        "text": "수분 증발을 막고 에틸렌 가스 노출을 차단하기 위해 씻지 않은 사과를 랩으로 감쌉니다.",
-        "url": `${formattedUrl}#step-1`
-      },
-      {
-        "@type": "HowToStep",
-        "name": "저온 냉장 보관",
-        "text": "사과의 호흡과 에틸렌 방출을 억제하여 신선도를 오래 지키도록 냉장고 야채칸(0~4℃)에 보관합니다.",
-        "url": `${formattedUrl}#step-2`
-      },
-      {
-        "@type": "HowToStep",
-        "name": "다른 식재료와 완벽 격리",
-        "text": "사과의 에틸렌 가스가 다른 채소와 과일을 부패시키지 않도록 지퍼백 등에 밀봉해 격리 보관합니다.",
-        "url": `${formattedUrl}#step-3`
-      }
-    ] : [
-      {
-        "@type": "HowToStep",
-        "name": "Wrap Individually Without Washing",
-        "text": "Wrap each unwashed apple tightly with plastic wrap to prevent moisture loss and block ethylene.",
-        "url": `${formattedUrl}#step-1`
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Store at Low Temperature",
-        "text": "Store wrapped apples in the refrigerator crisper drawer (0-4°C) to delay respiration and aging.",
-        "url": `${formattedUrl}#step-2`
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Isolate from Other Produce",
-        "text": "Double-seal wrapped apples in a bag or container and keep them away from other ethylene-sensitive produce.",
-        "url": `${formattedUrl}#step-3`
-      }
-    ]
+    "step": steps.map((step, idx) => ({
+      "@type": "HowToStep",
+      "name": step.name,
+      "text": step.text,
+      "url": `${formattedUrl}#step-${idx + 1}`
+    }))
   });
 }
 
