@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Kacang-kacangan agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Kacang-kacangan berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-06-18"
 category: "StoreSelf"
 tags: ["Kacang-kacangan","Panduan Penyimpanan yang Terbukti Secara Ilmiah","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"

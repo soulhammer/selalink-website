@@ -1,7 +1,7 @@
 ---
 title: "대파 물기 때문에 다 버렸다? 과학적으로 신선도 3배 늘리는 대파 보관법"
 description: "대파는 수분에 극도로 예방되어 쉽게 물러집니다. 신문지와 냉동 소분을 활용한 스마트 보관 기술을 전해드립니다."
-pubDate: "2026-06-22"
+pubDate: "2026-01-07"
 category: "StoreSelf"
 tags: ["대파 보관법","대파 보관","식재료 팁","채소 보관","대파 손질"]
 heroImage: "/images/blog/green_onion_storage_hack.png"

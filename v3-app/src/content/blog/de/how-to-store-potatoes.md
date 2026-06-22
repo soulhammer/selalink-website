@@ -1,7 +1,7 @@
 ---
 title: "Wie man Kartoffel frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Kartoffel basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-01-20"
 category: "StoreSelf"
 tags: ["Kartoffel","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"

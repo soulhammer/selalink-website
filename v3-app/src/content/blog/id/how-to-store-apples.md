@@ -1,7 +1,7 @@
 ---
 title: "Menjaga Apel Tetap Renyah Lebih dari Sebulan? 3 Langkah Menyimpan Apel dan Isolasi Etilen"
 description: "Apakah apel Anda cepat lembek atau merusak buah lainnya? Temukan cara ilmiah menyimpan apel dan mengendalikan etilen yang direkomendasikan oleh para ahli pertanian."
-pubDate: "2026-06-22"
+pubDate: "2026-03-11"
 category: "StoreSelf"
 tags: ["Menyimpan Apel", "Perawatan Buah", "Gas Etilen", "Tips Kesegaran", "Trik Dapur"]
 heroImage: "/images/blog/apple_storage_hack.png"

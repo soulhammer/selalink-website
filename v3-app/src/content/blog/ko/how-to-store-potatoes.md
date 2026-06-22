@@ -1,7 +1,7 @@
 ---
 title: "감자 신선함 유지와 독소 방지? 과학적인 감자 보관법 3단계"
 description: "감자를 냉장고에 보관하고 계셨나요? 싹이 트는 것을 방지하고 독소를 막는 과학적 감자 보관법을 소개합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-01-20"
 category: "StoreSelf"
 tags: ["감자 보관법","채소 보관","식재료 팁","솔라닌 예방","살림 꿀팁"]
 heroImage: "/images/blog/potato_storage_hack.png"

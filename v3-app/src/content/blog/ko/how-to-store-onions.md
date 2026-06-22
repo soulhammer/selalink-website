@@ -1,7 +1,7 @@
 ---
 title: "양파와 감자를 같이 두면 썩는다? 과학적인 양파 보관법 3단계"
 description: "양파는 습기와 다른 식재료의 영향을 많이 받습니다. 감자와 분리하여 오래 아삭하게 유지하는 보관법을 알려드립니다."
-pubDate: "2026-06-22"
+pubDate: "2026-01-16"
 category: "StoreSelf"
 tags: ["양파 보관법","채소 보관","감자 격리","에틸렌 제어","식재료 보관"]
 heroImage: "/images/blog/onion_storage_hack.png"

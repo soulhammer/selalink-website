@@ -1,7 +1,7 @@
 ---
 title: "如何保鲜储存牛肉：科学储存指南"
 description: "根据官方食品安全指南，了解牛肉的最佳储存温度、方式和保鲜时长。"
-pubDate: "2026-06-22"
+pubDate: "2026-03-28"
 category: "StoreSelf"
 tags: ["牛肉","科学验证的储存指南","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"

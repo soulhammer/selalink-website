@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Tahu agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Tahu berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-04-20"
 category: "StoreSelf"
 tags: ["Tahu","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"

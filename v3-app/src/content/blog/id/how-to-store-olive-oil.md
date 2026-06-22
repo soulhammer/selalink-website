@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Minyak goreng / Zaitun agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Minyak goreng / Zaitun berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-05-24"
 category: "StoreSelf"
 tags: ["Minyak goreng / Zaitun","Panduan Penyimpanan yang Terbukti Secara Ilmiah","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"

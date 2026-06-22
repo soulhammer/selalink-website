@@ -1,7 +1,7 @@
 ---
 title: "如何保鲜储存大蒜：科学储存指南"
 description: "根据官方食品安全指南，了解大蒜的最佳储存温度、方式和保鲜时长。"
-pubDate: "2026-06-22"
+pubDate: "2026-02-02"
 category: "StoreSelf"
 tags: ["大蒜","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"

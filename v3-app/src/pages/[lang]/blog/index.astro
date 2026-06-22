@@ -4,6 +4,61 @@ import BlogPostCard from '../../../components/BlogPostCard.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations, languages } from '../../../i18n/ui';
 
+// 식재료 데이터 임포트
+import { condimentIngredients } from '../../../data/ingredients/condiment';
+import { dairyIngredients } from '../../../data/ingredients/dairy';
+import { etcIngredients } from '../../../data/ingredients/etc';
+import { fruitIngredients } from '../../../data/ingredients/fruit';
+import { grainIngredients } from '../../../data/ingredients/grain';
+import { meatIngredients } from '../../../data/ingredients/meat';
+import { seafoodIngredients } from '../../../data/ingredients/seafood';
+import { vegetableIngredients } from '../../../data/ingredients/vegetable';
+
+const allIngredients = [
+  ...condimentIngredients,
+  ...dairyIngredients,
+  ...etcIngredients,
+  ...fruitIngredients,
+  ...grainIngredients,
+  ...meatIngredients,
+  ...seafoodIngredients,
+  ...vegetableIngredients,
+];
+
+const blogToIngMap: Record<string, string> = {
+  'how-to-store-apples': 'apple',
+  'how-to-store-avocado': 'avocado',
+  'how-to-store-bananas': 'banana',
+  'how-to-store-beef': 'beef',
+  'how-to-store-bread': 'bread',
+  'how-to-store-chicken': 'chicken',
+  'how-to-store-eggs': 'egg',
+  'how-to-store-garlic': 'garlic',
+  'how-to-store-green-onions': 'green-onion',
+  'how-to-store-milk': 'milk',
+  'how-to-store-mushrooms': 'mushroom',
+  'how-to-store-nuts': 'nuts',
+  'how-to-store-olive-oil': 'olive-oil',
+  'how-to-store-onions': 'onion',
+  'how-to-store-perilla-oil': 'perilla-oil',
+  'how-to-store-potatoes': 'potato',
+  'how-to-store-salmon': 'salmon',
+  'how-to-store-spinach': 'spinach',
+  'how-to-store-squid': 'squid',
+  'how-to-store-tofu': 'tofu',
+  'how-to-store-tomatoes': 'tomato',
+  'how-to-store-watermelon': 'watermelon'
+};
+
+const getIngredientName = (postId: string, lang: string) => {
+  const slug = postId.split('/').pop() || '';
+  const ingId = blogToIngMap[slug];
+  if (!ingId) return '';
+  const ing = allIngredients.find((i) => i.id === ingId);
+  if (!ing) return '';
+  return ing.names[lang as any] || ing.names['en'] || '';
+};
+
 export async function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({
     params: { lang },
@@ -42,11 +97,56 @@ const description = t('blog.desc');
     </div>
 
     {filteredPosts.length > 0 ? (
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {filteredPosts.map((post) => (
-          <BlogPostCard post={post} lang={normalizedLang} />
-        ))}
-      </div>
+      <>
+        {/* 세련된 Glassmorphism 검색 제어 패널 */}
+        <div class="mb-10 p-5 rounded-[2rem] border border-slate-200/60 bg-white/60 dark:border-white/5 dark:bg-slate-900/40 backdrop-blur-md flex flex-col sm:flex-row gap-4 items-center justify-between shadow-sm">
+          {/* 검색어 입력 */}
+          <div class="relative w-full sm:max-w-md">
+            <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none text-slate-400 dark:text-slate-500">
+              <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </div>
+            <input 
+              type="text" 
+              id="blog-search-input"
+              placeholder={t('blog.search.placeholder')}
+              class="w-full pl-11 pr-4 py-3 rounded-2xl border border-slate-200 bg-white/50 text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-emerald-500/20 focus:border-emerald-500 dark:border-white/10 dark:bg-slate-950/40 dark:text-white dark:placeholder-slate-500 dark:focus:ring-emerald-500/20 transition-all duration-200 text-sm"
+            />
+          </div>
+
+          {/* 정렬 드롭다운 */}
+          <div class="relative w-full sm:w-auto min-w-[160px]">
+            <select 
+              id="blog-sort-select"
+              class="w-full appearance-none pl-4 pr-10 py-3 rounded-2xl border border-slate-200 bg-white/50 text-slate-900 focus:outline-none focus:ring-2 focus:ring-emerald-500/20 focus:border-emerald-500 dark:border-white/10 dark:bg-slate-950/40 dark:text-white dark:focus:ring-emerald-500/20 transition-all duration-200 text-sm font-medium cursor-pointer"
+            >
+              <option value="latest">{t('blog.sort.latest')}</option>
+              <option value="oldest">{t('blog.sort.oldest')}</option>
+            </select>
+            <div class="absolute inset-y-0 right-0 pr-4 flex items-center pointer-events-none text-slate-400 dark:text-slate-500">
+              <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </div>
+          </div>
+        </div>
+
+        <div id="blog-posts-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {filteredPosts.map((post) => {
+            const ingName = getIngredientName(post.id, normalizedLang);
+            return <BlogPostCard post={post} lang={normalizedLang} ingredientName={ingName} />;
+          })}
+        </div>
+
+        {/* 검색 결과 없음 Empty State */}
+        <div id="blog-empty-state" class="hidden text-center py-24 border border-slate-200/60 dark:border-white/5 rounded-3xl bg-slate-500/5 dark:bg-slate-900/10">
+          <span class="text-4xl mb-4 block">🔍</span>
+          <p class="text-slate-500 dark:text-slate-400 font-medium">
+            {t('blog.empty')}
+          </p>
+        </div>
+      </>
     ) : (
       <div class="text-center py-24 border border-slate-200/60 dark:border-white/5 rounded-3xl bg-slate-500/5 dark:bg-slate-900/10">
         <span class="text-4xl mb-4 block">📭</span>
@@ -57,3 +157,77 @@ const description = t('blog.desc');
     )}
   </main>
 </Layout>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('blog-search-input') as HTMLInputElement | null;
+    const sortSelect = document.getElementById('blog-sort-select') as HTMLSelectElement | null;
+    const postsContainer = document.getElementById('blog-posts-container');
+    const emptyState = document.getElementById('blog-empty-state');
+
+    if (!postsContainer) return;
+
+    // 카드를 배열로 캐싱
+    const cards = Array.from(postsContainer.children) as HTMLElement[];
+
+    function filterAndSort() {
+      const query = searchInput ? searchInput.value.toLowerCase().trim() : '';
+      const sortBy = sortSelect ? sortSelect.value : 'latest';
+
+      let visibleCount = 0;
+
+      // 1. 필터링 (검색어)
+      cards.forEach(card => {
+        const title = card.getAttribute('data-title') || '';
+        const desc = card.getAttribute('data-desc') || '';
+        const ingName = card.getAttribute('data-ing-name') || '';
+
+        const matches = title.includes(query) || desc.includes(query) || ingName.includes(query);
+        if (matches) {
+          card.classList.remove('hidden');
+          visibleCount++;
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+
+      // 2. 정렬
+      const sortedCards = [...cards].sort((a, b) => {
+        const dateA = parseInt(a.getAttribute('data-date') || '0', 10);
+        const dateB = parseInt(b.getAttribute('data-date') || '0', 10);
+
+        if (sortBy === 'latest') {
+          return dateB - dateA;
+        } else {
+          return dateA - dateB;
+        }
+      });
+
+      // DOM에 정렬된 순서대로 재배치
+      if (postsContainer) {
+        sortedCards.forEach(card => {
+          postsContainer.appendChild(card);
+        });
+      }
+
+      // 3. 결과 없음 토글
+      if (emptyState) {
+        if (visibleCount === 0) {
+          emptyState.classList.remove('hidden');
+        } else {
+          emptyState.classList.add('hidden');
+        }
+      }
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', filterAndSort);
+    }
+    if (sortSelect) {
+      sortSelect.addEventListener('change', filterAndSort);
+    }
+
+    // 초기 상태 반영
+    filterAndSort();
+  });
+</script>

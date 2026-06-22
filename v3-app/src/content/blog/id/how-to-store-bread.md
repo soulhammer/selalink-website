@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Roti tawar agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Roti tawar berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-05-19"
 category: "StoreSelf"
 tags: ["Roti tawar","Panduan Penyimpanan yang Terbukti Secara Ilmiah","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"

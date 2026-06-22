@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Espinafre fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Espinafre con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-02-18"
 category: "StoreSelf"
 tags: ["Espinafre","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"

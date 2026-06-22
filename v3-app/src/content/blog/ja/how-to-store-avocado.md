@@ -1,7 +1,7 @@
 ---
 title: "アボカドの鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくアボカドの最適な保存温度、保管方法、保存期間について解説します。"
-pubDate: "2026-06-22"
+pubDate: "2026-02-07"
 category: "StoreSelf"
 tags: ["アボカド","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"

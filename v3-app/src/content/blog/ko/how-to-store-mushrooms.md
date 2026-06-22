@@ -1,7 +1,7 @@
 ---
 title: "버섯은 보관 전에 씻으면 독이 된다? 스펀지 원리의 과학적 버섯 보관법"
 description: "버섯은 스펀지처럼 수분을 흡수하여 금방 부패합니다. 물기를 멀리하고 아삭하게 보관하는 3단계 비법을 전합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-02-23"
 category: "StoreSelf"
 tags: ["버섯 보관법","버섯 물 세척 금지","버섯 종이봉투","버섯 보관 팁","식재료 팁"]
 heroImage: "/images/blog/mushroom_storage_hack.png"

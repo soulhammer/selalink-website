@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Patata fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Patata según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-01-20"
 category: "StoreSelf"
 tags: ["Patata","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"

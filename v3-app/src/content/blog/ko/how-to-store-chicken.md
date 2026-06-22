@@ -1,7 +1,7 @@
 ---
 title: "생닭 물에 씻으면 싱크대 오염 폭발? 올바른 닭고기 보관 및 손질법"
 description: "생닭은 씻으면 식중독균이 주방에 확산됩니다. 물 세척 자제령과 위생적인 2일 이내 보관법을 소개합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-04-06"
 category: "StoreSelf"
 tags: ["닭고기 보관법","닭고기 세척 경고","캠필로박터","생닭 보관","식품 위생"]
 heroImage: "/images/blog/chicken_storage_hack.png"

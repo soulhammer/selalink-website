@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Alpukat agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Alpukat berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-02-07"
 category: "StoreSelf"
 tags: ["Alpukat","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"

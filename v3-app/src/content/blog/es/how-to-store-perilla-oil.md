@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Aceite de perilla fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Aceite de perilla según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-06-03"
 category: "StoreSelf"
 tags: ["Aceite de perilla","Guía de almacenamiento científicamente probada","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"

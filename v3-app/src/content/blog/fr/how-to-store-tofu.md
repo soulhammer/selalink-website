@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Tofu frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Tofu selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-04-20"
 category: "StoreSelf"
 tags: ["Tofu","Guide de conservation scientifiquement prouvé","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Oignon vert frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Oignon vert selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-01-07"
 category: "StoreSelf"
 tags: ["Oignon vert","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"

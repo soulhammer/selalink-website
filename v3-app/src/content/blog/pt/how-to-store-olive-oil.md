@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Óleo de cozinha / Azeite fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Óleo de cozinha / Azeite con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-05-24"
 category: "StoreSelf"
 tags: ["Óleo de cozinha / Azeite","Guia de armazenamento comprovado cientificamente","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"

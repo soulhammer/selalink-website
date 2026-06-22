@@ -1,7 +1,7 @@
 ---
 title: "食用油/オリーブオイルの鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づく食用油/オリーブオイルの最適な保存温度、保管方法、保存期間について解説します。"
-pubDate: "2026-06-22"
+pubDate: "2026-05-24"
 category: "StoreSelf"
 tags: ["食用油/オリーブオイル","科学的に検証された保存ガイド","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"

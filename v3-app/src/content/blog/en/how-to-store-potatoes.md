@@ -1,7 +1,7 @@
 ---
 title: "How to Store Potato Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Potato based on official safety guidelines."
-pubDate: "2026-06-22"
+pubDate: "2026-01-20"
 category: "StoreSelf"
 tags: ["Potato","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"

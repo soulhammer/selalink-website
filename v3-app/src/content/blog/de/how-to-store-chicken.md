@@ -1,7 +1,7 @@
 ---
 title: "Wie man Hähnchen frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Hähnchen basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-04-06"
 category: "StoreSelf"
 tags: ["Hähnchen","Wissenschaftlich geprüfter Lagerungsratgeber","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"

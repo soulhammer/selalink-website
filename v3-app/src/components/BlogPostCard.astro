@@ -4,9 +4,10 @@ import type { CollectionEntry } from 'astro:content';
 interface Props {
   post: CollectionEntry<'blog'>;
   lang: string;
+  ingredientName?: string;
 }
 
-const { post, lang } = Astro.props;
+const { post, lang, ingredientName = '' } = Astro.props;
 const { title, description, pubDate, heroImage, app } = post.data;
 
 // 앱에 따른 대표 배지/색상 구성 (라이트/다크 양방향 지원)
@@ -44,6 +45,10 @@ const formattedDate = new Date(pubDate).toLocaleDateString(lang, {
 <a 
   href={`/${lang}/blog/${post.id.split('/').pop()}/`}
   class="group flex flex-col overflow-hidden rounded-3xl border border-slate-200/60 bg-white/60 shadow-sm backdrop-blur-md transition-all duration-300 hover:-translate-y-1.5 hover:border-slate-300 hover:shadow-xl dark:border-white/5 dark:bg-slate-900/40 dark:hover:border-white/10 dark:hover:shadow-2xl"
+  data-date={new Date(pubDate).getTime()}
+  data-title={title.toLowerCase()}
+  data-desc={description.toLowerCase()}
+  data-ing-name={ingredientName.toLowerCase()}
 >
   {heroImage && (
     <div class="relative aspect-video w-full overflow-hidden">

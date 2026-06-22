@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Cebolla fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Cebolla según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-01-16"
 category: "StoreSelf"
 tags: ["Cebolla","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"

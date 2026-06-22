@@ -1,7 +1,7 @@
 ---
 title: "아보카도 냉장고에 넣으면 안 되는 이유? 갈변 없는 아보카도 보관법"
 description: "아보카도는 설익은 상태로 냉장 보관 시 숙성을 멈추고 냉해를 입습니다. 종이봉투를 이용한 후숙과 절단면 갈변 차단 요령을 소개합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-02-07"
 category: "StoreSelf"
 tags: ["아보카도 보관법","아보카도 후숙","과일 보관","아보카도 갈변","식재료 팁"]
 heroImage: "/images/blog/avocado_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "쪼갠 수박에 랩만 씌우면 세균 3,000배 폭증? 올바른 수박 보관법 3단계"
 description: "수박을 반으로 잘라 비닐 랩으로 보관하면 식중독 위험이 급증합니다. 깍둑썰기와 밀폐용기를 이용한 위생 보관 비법을 알아봅니다."
-pubDate: "2026-06-22"
+pubDate: "2026-06-09"
 category: "StoreSelf"
 tags: ["수박 보관법","수박 랩 보관 금지","수박 세균 증식","식재료 안전","살림 정보"]
 heroImage: "/images/blog/watermelon_storage_hack.png"

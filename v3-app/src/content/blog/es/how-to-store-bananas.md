@@ -1,7 +1,7 @@
 ---
 title: "Conservar plátanos por 2 semanas: Guía científica en 3 pasos"
 description: "¿Cansado de que los plátanos se vuelvan negros y blandos demasiado rápido? Descubre los trucos recomendados por la USDA y la OMS para controlar el gas etileno."
-pubDate: "2026-06-22"
+pubDate: "2026-03-05"
 category: "StoreSelf"
 tags: ["Plátanos", "Conservación de Alimentos", "Trucos de Cocina", "Gas Etileno", "Desperdicio Cero"]
 heroImage: "/images/blog/banana_storage_hack.png"

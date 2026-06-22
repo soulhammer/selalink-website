@@ -1,7 +1,7 @@
 ---
 title: "Wie man Spinat frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Spinat basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-02-18"
 category: "StoreSelf"
 tags: ["Spinat","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"

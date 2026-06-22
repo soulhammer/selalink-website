@@ -1,7 +1,7 @@
 ---
 title: "香蕉保鲜超过两周？掌控乙烯气体的香蕉保鲜3步骤"
 description: "讨厌香蕉变黑变软吗？介绍基于美国农业部(USDA)和世界卫生组织(WHO)食品安全标准的控制乙烯气体香蕉保鲜窍门。"
-pubDate: "2026-06-22"
+pubDate: "2026-03-05"
 category: "StoreSelf"
 tags: ["香蕉保鲜", "水果保存", "食材窍门", "乙烯气体", "居家生活"]
 heroImage: "/images/blog/banana_storage_hack.png"

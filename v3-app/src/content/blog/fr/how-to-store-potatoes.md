@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Pomme de terre frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Pomme de terre selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-01-20"
 category: "StoreSelf"
 tags: ["Pomme de terre","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"

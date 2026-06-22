@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Œuf frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Œuf selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-04-15"
 category: "StoreSelf"
 tags: ["Œuf","Guide de conservation scientifiquement prouvé","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"

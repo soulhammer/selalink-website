@@ -1,7 +1,7 @@
 ---
 title: "Menjaga Pisang Tetap Segar Selama 2 Minggu: Panduan Ilmiah 3 Langkah"
 description: "Bosan dengan pisang yang cepat menghitam dan lembek? Temukan trik yang direkomendasikan USDA dan WHO untuk mengendalikan gas etilen."
-pubDate: "2026-06-22"
+pubDate: "2026-03-05"
 category: "StoreSelf"
 tags: ["Pisang", "Pengawetan Makanan", "Tips Dapur", "Gas Etilen", "Bebas Sampah Makanan"]
 heroImage: "/images/blog/banana_storage_hack.png"

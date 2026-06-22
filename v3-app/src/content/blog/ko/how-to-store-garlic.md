@@ -1,7 +1,7 @@
 ---
 title: "깐 마늘에 설탕을 깔아둔다? 곰팡이 안 피는 마늘 보관법 3단계"
 description: "깐 마늘은 수분 관리가 90%입니다. 설탕의 천연 제습제 원리와 다진마늘 냉동 보관법을 소개합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-02-02"
 category: "StoreSelf"
 tags: ["마늘 보관법","깐 마늘 보관","설탕 제습제","다진마늘 보관","살림 팁"]
 heroImage: "/images/blog/garlic_storage_hack.png"

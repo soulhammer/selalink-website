@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Batata fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Batata con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-01-20"
 category: "StoreSelf"
 tags: ["Batata","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"

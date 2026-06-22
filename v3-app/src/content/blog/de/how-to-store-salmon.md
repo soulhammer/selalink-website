@@ -1,7 +1,7 @@
 ---
 title: "Wie man Lachs frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Lachs basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-05-02"
 category: "StoreSelf"
 tags: ["Lachs","Wissenschaftlich geprüfter Lagerungsratgeber","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"

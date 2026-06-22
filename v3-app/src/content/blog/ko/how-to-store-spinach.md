@@ -1,7 +1,7 @@
 ---
 title: "시금치는 눕혀두면 먼저 썩는다? 신선도를 오래 유지하는 시금치 보관법"
 description: "시금치처럼 세워 자라는 엽채류는 세워서 보관해야 수명이 늘어납니다. 과학적으로 증명된 보관법을 전합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-02-18"
 category: "StoreSelf"
 tags: ["시금치 보관법","시금치 수직 보관","채소 보관","시금치 손질","주방 정보"]
 heroImage: "/images/blog/spinach_storage_hack.png"

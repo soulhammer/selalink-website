@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Aceite de cocina / Oliva fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Aceite de cocina / Oliva según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-05-24"
 category: "StoreSelf"
 tags: ["Aceite de cocina / Oliva","Guía de almacenamiento científicamente probada","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"

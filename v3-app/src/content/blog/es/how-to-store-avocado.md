@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Aguacate fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Aguacate según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-02-07"
 category: "StoreSelf"
 tags: ["Aguacate","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"

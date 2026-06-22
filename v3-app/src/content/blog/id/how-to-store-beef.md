@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Daging sapi agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Daging sapi berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-03-28"
 category: "StoreSelf"
 tags: ["Daging sapi","Panduan Penyimpanan yang Terbukti Secara Ilmiah","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"

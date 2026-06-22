@@ -1,7 +1,7 @@
 ---
 title: "소고기 갈변 막는 오일 랩핑 비법? 과학적인 소고기 보관 가이드"
 description: "소고기는 산소와 핏물이 부패의 주원인입니다. 올리브유와 밀착 랩핑을 이용해 신선도를 유지하는 법을 알아봅니다."
-pubDate: "2026-06-22"
+pubDate: "2026-03-28"
 category: "StoreSelf"
 tags: ["소고기 보관법","소고기 오일 랩핑","핏물 제거","소고기 냉동","고기 보관"]
 heroImage: "/images/blog/beef_storage_hack.png"

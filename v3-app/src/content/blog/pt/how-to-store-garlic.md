@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Alho fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Alho con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-02-02"
 category: "StoreSelf"
 tags: ["Alho","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"

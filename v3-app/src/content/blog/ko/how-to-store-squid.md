@@ -1,7 +1,7 @@
 ---
 title: "오징어 비린내 냉동실에 배는 이유? 냄새 가두는 오징어 보관법"
 description: "오징어는 내장을 방치하면 바로 비린내의 온상이 됩니다. 깔끔한 내장 제거와 지퍼백 2중 밀봉 보관 요령을 알아봅니다."
-pubDate: "2026-06-22"
+pubDate: "2026-05-08"
 category: "StoreSelf"
 tags: ["오징어 보관법","해산물 보관","오징어 손질","냄새 차단","냉동 보관"]
 heroImage: "/images/blog/squid_storage_hack.png"

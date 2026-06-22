@@ -1,7 +1,7 @@
 ---
 title: "Wie man Tofu frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Tofu basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-04-20"
 category: "StoreSelf"
 tags: ["Tofu","Wissenschaftlich geprüfter Lagerungsratgeber","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"

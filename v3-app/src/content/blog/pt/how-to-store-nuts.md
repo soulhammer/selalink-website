@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Nozes fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Nozes con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-06-18"
 category: "StoreSelf"
 tags: ["Nozes","Guia de armazenamento comprovado cientificamente","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"

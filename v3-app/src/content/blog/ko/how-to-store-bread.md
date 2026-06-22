@@ -1,7 +1,7 @@
 ---
 title: "식빵 냉장고에 넣으면 돌처럼 굳는다? 전분 노화를 방지하는 빵 보관법"
 description: "식빵을 냉장 보관하면 빵 전분이 빠르게 굳어 맛을 버립니다. 신선함을 가두는 3단계 냉동 가이드를 제시합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-05-19"
 category: "StoreSelf"
 tags: ["식빵 보관법","빵 보관","식빵 냉장 금지","빵 냉동 소분","살림 팁"]
 heroImage: "/images/blog/bread_storage_hack.png"

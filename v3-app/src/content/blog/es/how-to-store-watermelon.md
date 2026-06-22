@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Sandía fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Sandía según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-06-09"
 category: "StoreSelf"
 tags: ["Sandía","Guía de almacenamiento científicamente probada","fruit"]
 heroImage: "/images/blog/watermelon_storage_hack.png"

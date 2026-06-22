@@ -1,7 +1,7 @@
 ---
 title: "Wie man Frühlingszwiebel frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Frühlingszwiebel basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-01-07"
 category: "StoreSelf"
 tags: ["Frühlingszwiebel","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"

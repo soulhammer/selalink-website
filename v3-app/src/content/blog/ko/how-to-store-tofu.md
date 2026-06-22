@@ -1,7 +1,7 @@
 ---
 title: "남은 두부 소금 한 꼬집으로 7일 동안? 촉촉하고 안전한 두부 보관법"
 description: "두부 팩 안의 물은 세균 번식의 온상입니다. 깨끗한 찬물과 소금을 이용해 신선도를 유지하는 3단계 비법을 전합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-04-20"
 category: "StoreSelf"
 tags: ["두부 보관법","두부 보관","남은 두부","두부 소금물","식재료 팁"]
 heroImage: "/images/blog/tofu_storage_hack.png"

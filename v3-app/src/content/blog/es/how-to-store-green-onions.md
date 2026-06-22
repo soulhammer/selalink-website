@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Cebollín fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Cebollín según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-01-07"
 category: "StoreSelf"
 tags: ["Cebollín","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"

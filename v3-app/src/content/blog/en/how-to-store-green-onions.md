@@ -1,7 +1,7 @@
 ---
 title: "How to Store Green Onion Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Green Onion based on official safety guidelines."
-pubDate: "2026-06-22"
+pubDate: "2026-01-07"
 category: "StoreSelf"
 tags: ["Green Onion","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"

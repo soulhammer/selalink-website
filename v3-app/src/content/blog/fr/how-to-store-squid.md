@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Calamar frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Calamar selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-05-08"
 category: "StoreSelf"
 tags: ["Calamar","Guide de conservation scientifiquement prouvé","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"

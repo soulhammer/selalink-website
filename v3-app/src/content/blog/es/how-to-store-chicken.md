@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Pollo fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Pollo según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-04-06"
 category: "StoreSelf"
 tags: ["Pollo","Guía de almacenamiento científicamente probada","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"

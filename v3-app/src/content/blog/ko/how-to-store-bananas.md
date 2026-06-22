@@ -1,7 +1,7 @@
 ---
 title: "바나나 초록색으로 2주 넘게? 에틸렌 가스를 지배하는 바나나 보관법 3단계"
 description: "바나나가 금방 까맣게 변해서 버리셨나요? 미국 농무부(USDA)와 세계보건기구(WHO)가 권장하는 과학적 바나나 보관법과 에틸렌 가스 제어 꿀팁을 소개합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-03-05"
 category: "StoreSelf"
 tags: ["바나나 보관법", "과일 보관", "식재료 팁", "에틸렌 가스", "살림 꿀팁"]
 heroImage: "/images/blog/banana_storage_hack.png"

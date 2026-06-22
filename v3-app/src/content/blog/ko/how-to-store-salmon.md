@@ -1,7 +1,7 @@
 ---
 title: "연어 2일 만에 비린내 풀풀? 산화를 늦추는 생연어 보관 가이드"
 description: "연어는 산화 속도가 매우 빠릅니다. 청주 and 레몬즙 코팅, 진공 랩핑을 이용해 신선도를 오래 보존하는 법을 전합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-05-02"
 category: "StoreSelf"
 tags: ["연어 보관법","연어 보관","생연어 냉장","연어 비린내","수산물 위생"]
 heroImage: "/images/blog/salmon_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "苹果脆甜能存一个月以上？隔离乙烯气体的苹果储存法 3 步走"
 description: "苹果很快变粉变软，或者弄坏了其他水果？为您介绍农业专家推荐的科学苹果储存法与控制乙烯气体的窍门。"
-pubDate: "2026-06-22"
+pubDate: "2026-03-11"
 category: "StoreSelf"
 tags: ["苹果储存法", "水果保鲜", "乙烯气体", "保鲜窍门", "生活妙招"]
 heroImage: "/images/blog/apple_storage_hack.png"

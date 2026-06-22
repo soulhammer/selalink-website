@@ -1,7 +1,7 @@
 ---
 title: "¿Manzanas crujientes por más de un mes? 3 pasos para almacenar manzanas y aislar el etileno"
 description: "¿Sus manzanas se ablandan rápido o dañan otras frutas? Descubra el método científico para almacenar manzanas y controlar el etileno recomendado por expertos agrícolas."
-pubDate: "2026-06-22"
+pubDate: "2026-03-11"
 category: "StoreSelf"
 tags: ["Conservar Manzanas", "Cuidado de Frutas", "Gas Etileno", "Consejos de Frescura", "Trucos de Cocina"]
 heroImage: "/images/blog/apple_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Jamur agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Jamur berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-02-23"
 category: "StoreSelf"
 tags: ["Jamur","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"

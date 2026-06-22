@@ -1,7 +1,7 @@
 ---
 title: "Äpfel über einen Monat knackig halten? 3 Schritte zur Apfellagerung und Ethylen-Isolierung"
 description: "Werden Ihre Äpfel schnell weich oder verderben anderes Obst? Entdecken Sie die wissenschaftliche Methode zur Lagerung von Äpfeln und zur Regulierung von Ethylen, empfohlen von Agrarexperten."
-pubDate: "2026-06-22"
+pubDate: "2026-03-11"
 category: "StoreSelf"
 tags: ["Äpfel Lagern", "Obstpflege", "Ethylengas", "Frische-Tipps", "Küchenhacks"]
 heroImage: "/images/blog/apple_storage_hack.png"

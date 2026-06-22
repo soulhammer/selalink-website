@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Frango fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Frango con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-04-06"
 category: "StoreSelf"
 tags: ["Frango","Guia de armazenamento comprovado cientificamente","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"

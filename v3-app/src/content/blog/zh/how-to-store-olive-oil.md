@@ -1,7 +1,7 @@
 ---
 title: "如何保鲜储存食用油/橄榄油：科学储存指南"
 description: "根据官方食品安全指南，了解食用油/橄榄油的最佳储存温度、方式和保鲜时长。"
-pubDate: "2026-06-22"
+pubDate: "2026-05-24"
 category: "StoreSelf"
 tags: ["食用油/橄榄油","科学验证的储存指南","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"

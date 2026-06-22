@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Abacate fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Abacate con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-02-07"
 category: "StoreSelf"
 tags: ["Abacate","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "如何保鲜储存西红柿：科学储存指南"
 description: "根据官方食品安全指南，了解西红柿的最佳储存温度、方式和保鲜时长。"
-pubDate: "2026-06-22"
+pubDate: "2026-03-24"
 category: "StoreSelf"
 tags: ["西红柿","科学验证的储存指南","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"

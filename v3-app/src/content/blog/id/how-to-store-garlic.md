@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Bawang putih agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Bawang putih berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-02-02"
 category: "StoreSelf"
 tags: ["Bawang putih","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"

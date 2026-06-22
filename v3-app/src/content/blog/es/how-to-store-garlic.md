@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Ajo fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Ajo según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-02-02"
 category: "StoreSelf"
 tags: ["Ajo","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"

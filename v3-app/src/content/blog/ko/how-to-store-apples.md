@@ -1,7 +1,7 @@
 ---
 title: "사과 아삭함을 한 달 넘게? 에틸렌 가스를 격리하는 사과 보관법 3단계"
 description: "사과가 금방 퍼석퍼석해지고 다른 과일을 망쳤나요? 미국 농무부(USDA)가 권장하는 과학적 사과 보관법과 에틸렌 가스 제어 꿀팁을 소개합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-03-11"
 category: "StoreSelf"
 tags: ["사과 보관법", "과일 보관", "식재료 팁", "에틸렌 가스", "살림 꿀팁"]
 heroImage: "/images/blog/apple_storage_hack.png"

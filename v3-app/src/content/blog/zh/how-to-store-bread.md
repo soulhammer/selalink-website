@@ -1,7 +1,7 @@
 ---
 title: "如何保鲜储存吐司/面包：科学储存指南"
 description: "根据官方食品安全指南，了解吐司/面包的最佳储存温度、方式和保鲜时长。"
-pubDate: "2026-06-22"
+pubDate: "2026-05-19"
 category: "StoreSelf"
 tags: ["吐司/面包","科学验证的储存指南","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"

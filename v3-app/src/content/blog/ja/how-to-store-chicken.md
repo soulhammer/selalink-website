@@ -1,7 +1,7 @@
 ---
 title: "鶏肉の鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づく鶏肉の最適な保存温度、保管方法、保存期間について解説します。"
-pubDate: "2026-06-22"
+pubDate: "2026-04-06"
 category: "StoreSelf"
 tags: ["鶏肉","科学的に検証された保存ガイド","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"

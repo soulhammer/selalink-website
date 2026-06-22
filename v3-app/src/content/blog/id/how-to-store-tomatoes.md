@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Tomat agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Tomat berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-03-24"
 category: "StoreSelf"
 tags: ["Tomat","Panduan Penyimpanan yang Terbukti Secara Ilmiah","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"

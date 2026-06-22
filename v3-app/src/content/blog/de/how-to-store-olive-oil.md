@@ -1,7 +1,7 @@
 ---
 title: "Wie man Speiseöl / Olivenöl frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Speiseöl / Olivenöl basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-05-24"
 category: "StoreSelf"
 tags: ["Speiseöl / Olivenöl","Wissenschaftlich geprüfter Lagerungsratgeber","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"

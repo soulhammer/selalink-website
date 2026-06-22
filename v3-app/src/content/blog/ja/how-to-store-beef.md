@@ -1,7 +1,7 @@
 ---
 title: "牛肉の鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づく牛肉の最適な保存温度、保管方法、保存期間について解説します。"
-pubDate: "2026-06-22"
+pubDate: "2026-03-28"
 category: "StoreSelf"
 tags: ["牛肉","科学的に検証された保存ガイド","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Carne bovina fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Carne bovina con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-03-28"
 category: "StoreSelf"
 tags: ["Carne bovina","Guia de armazenamento comprovado cientificamente","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"

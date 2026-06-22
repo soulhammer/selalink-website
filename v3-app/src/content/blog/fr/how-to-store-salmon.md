@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Saumon frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Saumon selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-05-02"
 category: "StoreSelf"
 tags: ["Saumon","Guide de conservation scientifiquement prouvé","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"

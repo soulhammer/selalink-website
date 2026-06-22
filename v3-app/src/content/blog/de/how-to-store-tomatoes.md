@@ -1,7 +1,7 @@
 ---
 title: "Wie man Tomate frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Tomate basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-03-24"
 category: "StoreSelf"
 tags: ["Tomate","Wissenschaftlich geprüfter Lagerungsratgeber","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"

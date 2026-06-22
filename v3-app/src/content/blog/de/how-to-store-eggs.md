@@ -1,7 +1,7 @@
 ---
 title: "Wie man Ei frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Ei basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-04-15"
 category: "StoreSelf"
 tags: ["Ei","Wissenschaftlich geprüfter Lagerungsratgeber","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "如何保鲜储存三文鱼/鲑鱼：科学储存指南"
 description: "根据官方食品安全指南，了解三文鱼/鲑鱼的最佳储存温度、方式和保鲜时长。"
-pubDate: "2026-06-22"
+pubDate: "2026-05-02"
 category: "StoreSelf"
 tags: ["三文鱼/鲑鱼","科学验证的储存指南","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"

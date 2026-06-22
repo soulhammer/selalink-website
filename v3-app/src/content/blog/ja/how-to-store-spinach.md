@@ -1,7 +1,7 @@
 ---
 title: "ほうれん草の鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくほうれん草の最適な保存温度、保管方法、保存期間について解説します。"
-pubDate: "2026-06-22"
+pubDate: "2026-02-18"
 category: "StoreSelf"
 tags: ["ほうれん草","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"

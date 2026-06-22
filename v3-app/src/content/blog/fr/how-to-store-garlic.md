@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Ail frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Ail selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-02-02"
 category: "StoreSelf"
 tags: ["Ail","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"

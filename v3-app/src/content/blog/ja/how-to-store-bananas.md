@@ -1,7 +1,7 @@
 ---
 title: "バナナを2週間長持ちさせる？エチレンガスをコントロールするバナナ保存法3ステップ"
 description: "バナナがすぐに黒くなって諦めていませんか？米国農務省（USDA）と世界保健機関（WHO）の基準に基づいた、エチレンガスを制御する科学的なバナナ保存ハックをご紹介します。"
-pubDate: "2026-06-22"
+pubDate: "2026-03-05"
 category: "StoreSelf"
 tags: ["バナナ保存法", "果物保存", "食材管理", "エチレンガス", "暮らしの知恵"]
 heroImage: "/images/blog/banana_storage_hack.png"

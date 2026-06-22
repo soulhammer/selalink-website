@@ -1,7 +1,7 @@
 ---
 title: "Wie man Tintenfisch frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Tintenfisch basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-05-08"
 category: "StoreSelf"
 tags: ["Tintenfisch","Wissenschaftlich geprüfter Lagerungsratgeber","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"

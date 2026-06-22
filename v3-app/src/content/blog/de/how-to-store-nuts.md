@@ -1,7 +1,7 @@
 ---
 title: "Wie man Nüsse frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Nüsse basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-06-18"
 category: "StoreSelf"
 tags: ["Nüsse","Wissenschaftlich geprüfter Lagerungsratgeber","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"

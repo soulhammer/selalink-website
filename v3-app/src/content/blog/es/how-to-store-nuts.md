@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Frutos secos fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Frutos secos según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-06-18"
 category: "StoreSelf"
 tags: ["Frutos secos","Guía de almacenamiento científicamente probada","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"

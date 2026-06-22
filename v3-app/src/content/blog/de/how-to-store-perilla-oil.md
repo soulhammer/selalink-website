@@ -1,7 +1,7 @@
 ---
 title: "Wie man Perillaöl frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Perillaöl basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-06-03"
 category: "StoreSelf"
 tags: ["Perillaöl","Wissenschaftlich geprüfter Lagerungsratgeber","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"

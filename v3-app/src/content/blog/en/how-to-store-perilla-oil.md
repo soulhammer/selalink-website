@@ -1,7 +1,7 @@
 ---
 title: "How to Store Perilla Oil Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Perilla Oil based on official safety guidelines."
-pubDate: "2026-06-22"
+pubDate: "2026-06-03"
 category: "StoreSelf"
 tags: ["Perilla Oil","Scientifically Proven Storage Guide","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"

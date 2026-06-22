@@ -1,7 +1,7 @@
 ---
 title: "Conservar bananas por 2 semanas: Guia científico em 3 passos"
 description: "Cansado de bananas que ficam pretas e moles rápido demais? Descubra os truques recomendados pelo USDA e OMS para controlar o gás etileno."
-pubDate: "2026-06-22"
+pubDate: "2026-03-05"
 category: "StoreSelf"
 tags: ["Bananas", "Conservação de Alimentos", "Dicas de Cozinha", "Gás Etileno", "Desperdício Zero"]
 heroImage: "/images/blog/banana_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "견과류 상온에 두면 발암 물질 발생? 신선하고 안전한 견과류 보관법"
 description: "견과류는 상온에서 아플라톡신이라는 1급 발암 곰팡이독소가 생기기 쉽습니다. 밀봉 후 냉장/냉동 보관의 중요성을 알아봅니다."
-pubDate: "2026-06-22"
+pubDate: "2026-06-18"
 category: "StoreSelf"
 tags: ["견과류 보관법","견과류 곰팡이","아플라톡신","견과류 냉동","살림 팁"]
 heroImage: "/images/blog/nuts_storage_hack.png"

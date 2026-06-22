@@ -1,7 +1,7 @@
 ---
 title: "계란 씻어서 보관하면 독? 과학적으로 검증된 계란 보관법 3단계"
 description: "계란을 씻어서 보관하면 오히려 세균이 유입됩니다. 신선하고 안전하게 위생을 지키는 3단계 보관 요령을 소개합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-04-15"
 category: "StoreSelf"
 tags: ["계란 보관법","달걀 보관","식재료 위생","살모넬라 예방","주방 정보"]
 heroImage: "/images/blog/egg_storage_hack.png"

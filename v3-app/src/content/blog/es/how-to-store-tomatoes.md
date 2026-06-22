@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Tomate fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Tomate según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-03-24"
 category: "StoreSelf"
 tags: ["Tomate","Guía de almacenamiento científicamente probada","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"

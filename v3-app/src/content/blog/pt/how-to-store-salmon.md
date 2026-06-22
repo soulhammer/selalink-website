@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Salmão fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Salmão con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-05-02"
 category: "StoreSelf"
 tags: ["Salmão","Guia de armazenamento comprovado cientificamente","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"

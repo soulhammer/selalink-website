@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Óleo de perila fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Óleo de perila con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-06-03"
 category: "StoreSelf"
 tags: ["Óleo de perila","Guia de armazenamento comprovado cientificamente","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"

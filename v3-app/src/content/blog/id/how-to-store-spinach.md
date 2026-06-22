@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Bayam agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Bayam berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-02-18"
 category: "StoreSelf"
 tags: ["Bayam","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "How to Store Salmon Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Salmon based on official safety guidelines."
-pubDate: "2026-06-22"
+pubDate: "2026-05-02"
 category: "StoreSelf"
 tags: ["Salmon","Scientifically Proven Storage Guide","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "如何保鲜储存乌贼/鱿鱼：科学储存指南"
 description: "根据官方食品安全指南，了解乌贼/鱿鱼的最佳储存温度、方式和保鲜时长。"
-pubDate: "2026-06-22"
+pubDate: "2026-05-08"
 category: "StoreSelf"
 tags: ["乌贼/鱿鱼","科学验证的储存指南","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"

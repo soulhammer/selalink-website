@@ -179,6 +179,11 @@ function run() {
     }
 
     const koContent = fs.readFileSync(koPath, 'utf-8');
+    
+    // koContent에서 pubDate 파싱
+    const pubDateMatch = koContent.match(/pubDate:\s*"([^"]+)"/);
+    const koPubDate = pubDateMatch ? pubDateMatch[1] : '2026-06-22';
+
     const ing = allIngredients.find(i => i.id === ingId);
     if (!ing) {
       console.warn(`[경고] 식재료 ID 없음: ${ingId}`);
@@ -240,6 +245,13 @@ function run() {
               originalFrontmatter = originalFrontmatter.replace(/steps:[\s\S]*/, `steps:\n${stepsYaml}\n`);
             } else {
               originalFrontmatter += `\nsteps:\n${stepsYaml}\n`;
+            }
+
+            // pubDate 동적 반영
+            if (originalFrontmatter.includes('pubDate:')) {
+              originalFrontmatter = originalFrontmatter.replace(/pubDate:\s*"[^"]*"/, `pubDate: "${koPubDate}"`);
+            } else {
+              originalFrontmatter += `\npubDate: "${koPubDate}"\n`;
             }
 
             const finalContent = `---${originalFrontmatter}---${originalBody}`;
@@ -342,7 +354,7 @@ function run() {
       const newContent = `---
 title: "${title.replace(/"/g, '\\"')}"
 description: "${description.replace(/"/g, '\\"')}"
-pubDate: "2026-06-22"
+pubDate: "${koPubDate}"
 category: "StoreSelf"
 tags: ${tags}
 heroImage: "/images/blog/${ingId.replace(/-/g, '_')}_storage_hack.png"

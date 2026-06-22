@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Épinards frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Épinards selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-02-18"
 category: "StoreSelf"
 tags: ["Épinards","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"

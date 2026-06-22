@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Cogumelo fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Cogumelo con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-02-23"
 category: "StoreSelf"
 tags: ["Cogumelo","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"

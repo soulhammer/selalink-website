@@ -1,7 +1,7 @@
 ---
 title: "Como armazenar Cebolinha fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Cebolinha con base nas diretrizes oficiais de segurança."
-pubDate: "2026-06-22"
+pubDate: "2026-01-07"
 category: "StoreSelf"
 tags: ["Cebolinha","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"

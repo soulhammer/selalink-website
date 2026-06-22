@@ -1,7 +1,7 @@
 ---
 title: "토마토 냉장고에 넣으면 맛없어지는 이유? 토마토 보관법 3단계"
 description: "토마토를 냉장하면 풍미 성분이 파괴됩니다. 신선도와 맛을 동시에 잡는 보관 원리와 꼭지 꿀팁을 전합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-03-24"
 category: "StoreSelf"
 tags: ["토마토 보관법","토마토 보관","식재료 팁","후숙 과일","주방 정리"]
 heroImage: "/images/blog/tomato_storage_hack.png"

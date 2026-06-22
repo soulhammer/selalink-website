@@ -1,7 +1,7 @@
 ---
 title: "Garder les bananes fraîches 2 semaines : Guide scientifique en 3 étapes"
 description: "Marre des bananes qui noircissent et ramollissent trop vite ? Découvrez les astuces recommandées par l'USDA et l'OMS pour contrôler le gaz éthylène."
-pubDate: "2026-06-22"
+pubDate: "2026-03-05"
 category: "StoreSelf"
 tags: ["Bananes", "Conservation des Aliments", "Astuces Cuisine", "Gaz Éthylène", "Zéro Déchet"]
 heroImage: "/images/blog/banana_storage_hack.png"

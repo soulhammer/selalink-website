@@ -1,7 +1,7 @@
 ---
 title: "Wie man Pilz frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Pilz basierend auf offiziellen Sicherheitsrichtlinien."
-pubDate: "2026-06-22"
+pubDate: "2026-02-23"
 category: "StoreSelf"
 tags: ["Pilz","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"

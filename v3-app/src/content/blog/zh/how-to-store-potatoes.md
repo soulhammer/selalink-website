@@ -1,7 +1,7 @@
 ---
 title: "如何保鲜储存土豆：科学储存指南"
 description: "根据官方食品安全指南，了解土豆的最佳储存温度、方式和保鲜时长。"
-pubDate: "2026-06-22"
+pubDate: "2026-01-20"
 category: "StoreSelf"
 tags: ["土豆","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"

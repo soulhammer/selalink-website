@@ -1,7 +1,7 @@
 ---
 title: "Cómo almacenar Espinaca fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Espinaca según las directrices oficiales de seguridad."
-pubDate: "2026-06-22"
+pubDate: "2026-02-18"
 category: "StoreSelf"
 tags: ["Espinaca","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"

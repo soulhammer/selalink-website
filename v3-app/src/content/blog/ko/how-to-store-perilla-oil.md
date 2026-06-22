@@ -1,7 +1,7 @@
 ---
 title: "들기름은 무조건 냉장고로? 참기름과 정반대인 들기름 보관 비법"
 description: "들기름은 오메가-3가 많아 실온 방치 시 쩐내가 나고 상합니다. 무조건 냉장 보관해야 하는 이유를 전합니다."
-pubDate: "2026-06-22"
+pubDate: "2026-06-03"
 category: "StoreSelf"
 tags: ["들기름 보관법","들기름 냉장","참기름 실온","오메가3 산패","기름 보관"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"

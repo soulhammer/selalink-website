@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Fruits secs frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Fruits secs selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-06-18"
 category: "StoreSelf"
 tags: ["Fruits secs","Guide de conservation scientifiquement prouvé","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"

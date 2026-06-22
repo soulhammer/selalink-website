@@ -1,7 +1,7 @@
 ---
 title: "Bananen bis zu 2 Wochen frisch halten: Wissenschaftlicher 3-Schritte-Ratgeber"
 description: "Ärgern Sie sich über Bananen, die zu schnell braun und matschig werden? Entdecken Sie die von USDA und WHO empfohlenen Tricks zur Regulierung von Ethylengas."
-pubDate: "2026-06-22"
+pubDate: "2026-03-05"
 category: "StoreSelf"
 tags: ["Bananen", "Lebensmittel aufbewahren", "Küche", "Ethylengas", "Zero Waste"]
 heroImage: "/images/blog/banana_storage_hack.png"

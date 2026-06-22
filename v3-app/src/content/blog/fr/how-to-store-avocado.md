@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Avocat frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Avocat selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-02-07"
 category: "StoreSelf"
 tags: ["Avocat","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"

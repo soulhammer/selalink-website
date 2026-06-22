@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Cumi-cumi agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Cumi-cumi berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-05-08"
 category: "StoreSelf"
 tags: ["Cumi-cumi","Panduan Penyimpanan yang Terbukti Secara Ilmiah","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"

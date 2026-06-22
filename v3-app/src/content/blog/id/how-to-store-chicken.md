@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Daging ayam agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Daging ayam berdasarkan pedoman keselamatan resmi."
-pubDate: "2026-06-22"
+pubDate: "2026-04-06"
 category: "StoreSelf"
 tags: ["Daging ayam","Panduan Penyimpanan yang Terbukti Secara Ilmiah","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "올리브유 냉장고에 넣으면 굳는다? 향 보존하는 올리브유 보관법"
 description: "올리브유는 냉장고에 보관하면 하얀 결정이 생기며 고유의 고소한 풍미를 잃어버립니다. 올바른 실온 차단법을 알려드립니다."
-pubDate: "2026-06-22"
+pubDate: "2026-05-24"
 category: "StoreSelf"
 tags: ["올리브유 보관법","올리브유 냉장금지","식용유 보관","산패 방지","주방 관리"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"

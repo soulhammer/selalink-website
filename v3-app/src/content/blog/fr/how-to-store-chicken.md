@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Poulet frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Poulet selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-04-06"
 category: "StoreSelf"
 tags: ["Poulet","Guide de conservation scientifiquement prouvé","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"

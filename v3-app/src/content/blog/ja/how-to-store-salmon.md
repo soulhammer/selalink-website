@@ -1,7 +1,7 @@
 ---
 title: "鮭の鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づく鮭の最適な保存温度、保管方法、保存期間について解説します。"
-pubDate: "2026-06-22"
+pubDate: "2026-05-02"
 category: "StoreSelf"
 tags: ["鮭","科学的に検証された保存ガイド","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"

@@ -1,7 +1,7 @@
 ---
 title: "Comment conserver Oignon frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Oignon selon les directives de sécurité officielles."
-pubDate: "2026-06-22"
+pubDate: "2026-01-16"
 category: "StoreSelf"
 tags: ["Oignon","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
