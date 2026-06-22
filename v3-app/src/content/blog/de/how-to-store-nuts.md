@@ -74,22 +74,22 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 ## 3. Wichtige Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Niemals ranzige oder feuchte Nüsse essen</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Essen Sie niemals ranzige oder feuchte Nüsse ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Oxidierte Nüsse bilden Aflatoxine, starke Karzinogene, die durch Erhitzen nicht zerstört werden. Sofort entsorgen.
+      Wenn Nüsse ranzig riechen oder sich feucht anfühlen, hat die Fettoxidation und das Wachstum von Aflatoxin-Schimmelpilzen bereits begonnen. Das Toxin wird weder durch Waschen noch durch Rösten zerstört, daher müssen Sie sie entsorgen.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mit Sauerstoffabsorbern an dunklen Orten luftdicht lagern</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nüsse vorsichtig handhaben, um Risse zu vermeiden 🥜</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Nüsse in lichtundurchlässigen Behältern mit Sauerstoffabsorbern im kühlen Schrank oder im Gefrierfach lagern.
+      Wenn die Oberfläche von Walnüssen oder Mandeln durch Stöße Risse bekommt oder beschädigt wird, dringt Luft in die Risse ein und die Oxidation schreitet viel schneller voran. Vermeiden Sie es, die Tüte stark zusammenzupressen.
     </p>
   </div>
 </div>

@@ -74,22 +74,22 @@ Understanding the unique characteristics of each ingredient and following the pr
 
 ## 3. Crucial Rules and Cautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Never eat rancid or damp nuts</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Never eat rancid or damp nuts ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Oxidized nuts develop aflatoxins, powerful carcinogens that are not destroyed even by heat. Discard them immediately.
+      If nuts have a stale oil smell or feel damp, it means lipid oxidation and aflatoxin mold growth have already begun. The toxin is not destroyed by washing or roasting, so you must discard them.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Seal with oxygen absorbers in dark places</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Handle nuts carefully to prevent cracks 🥜</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Store nuts in opaque containers or bags with oxygen absorbers inside, and keep them in a cool drawer or freeze.
+      If the surface of walnuts or almonds is cracked or damaged by impact, air will seep into the cracks and oxidation will progress much faster. Avoid compressing the bag heavily.
     </p>
   </div>
 </div>

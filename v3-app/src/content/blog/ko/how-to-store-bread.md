@@ -19,7 +19,7 @@ authority: "<strong>미국 농무부(USDA) 및 영국 식품표준청(FSA)</stro
       신뢰 근거 기관
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 가이드는 <strong>미국 제빵협회(AIB) 및 식품위생안전 연구소</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+      본 가이드는 <strong>미국 농무부(USDA) 및 영국 식품표준청(FSA)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
     </p>
   </div>
 </div>

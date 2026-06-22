@@ -19,7 +19,7 @@ authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 미국 �
       신뢰 근거 기관
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 가이드는 <strong>미국 하버드 공공보건대학원 및 농촌진흥청(RDA)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+      본 가이드는 <strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 미국 질병통제예방센터(CDC)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
     </p>
   </div>
 </div>

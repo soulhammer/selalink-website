@@ -74,22 +74,22 @@ Understanding the unique characteristics of each ingredient and following the pr
 
 ## 3. Crucial Rules and Cautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wipe off surface moisture and blood thoroughly</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Browning inside the beef can be normal 🥩</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      The red liquid (drip) leaking from the meat is a breeding ground for bacteria. Wiping it dry before wrapping slows decay.
+      The dark color in parts where the meat overlaps is a temporary phenomenon due to the lack of oxygen preventing the reaction of myoglobin. If it returns to bright red after exposing it to air for 20 minutes, it is not spoiled.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wrap tightly to block air exposure</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Never use hot water to thaw meat ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Oxygen triggers lipid oxidation and turns myoglobin brown. Wrapping tight like a vacuum seal retains quality.
+      Submerging frozen beef in hot water for quick thawing causes excessive loss of meat juices (drip), making the meat tough and triggering rapid bacterial growth. Always thaw it in the refrigerator one day prior to cooking.
     </p>
   </div>
 </div>

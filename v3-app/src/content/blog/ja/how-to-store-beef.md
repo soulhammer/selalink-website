@@ -74,22 +74,22 @@ steps:
 
 ## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">表面のドリップ（血水と水分）をしっかり拭き取ってください</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">牛肉の内側の変色は正常な場合があります 🥩</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      牛肉から出る赤い汁（ドリップ）は雑菌繁殖の温床になります。包装する前にペーパーで拭き取ることで、腐敗を効果的に防げます。
+      肉同士が重なり合っている部分が黒ずんでいるのは、酸素に触れていないため一時的にミオグロビンが反応していない状態です。空気にさらして20分ほどで赤色に戻れば、傷んでいるわけではありません。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">空気に触れないようラップで隙間なくぴったり包んでください</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">解凍時に熱湯は使わないでください ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      酸素に触れると脂質の酸化が進み、ミオグロビンが変色して茶色くなります。真空パックのようにぴったり密着させることで品質を維持できます。
+      冷凍牛肉を早く解凍しようと熱湯に浸すと、ドリップ（肉汁）が過剰に流出して肉質がパサつき、雑菌が急増する原因になります。必ず調理の前日に冷蔵庫に移して解凍してください。
     </p>
   </div>
 </div>

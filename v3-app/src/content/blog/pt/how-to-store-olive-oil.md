@@ -74,22 +74,22 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 
 ## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Feche bem a tampa após cada uso</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Feche bem a tampa após cada uso ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      O azeite oxida em contato com o oxigênio, aumentando a acidez e perdendo propriedades. Feche sempre bem a tampa.
+      Quando o azeite se combina com o oxigênio do ar, os radicais livres aumentam rapidamente. Certifique-se de fechar bem a tampa após cada utilização para evitar a entrada de ar.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mantenha longe de fontes de calor como fogão e forno</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Lembre-se das diferenças de temperatura de armazenamento dos óleos 🫒</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      O calor do fogão acelera a oxidação e estraga a qualidade. Guarde o azeite dentro de um armário fresco e escuro.
+      Embora o azeite de oliva e o óleo de gergelim devam ser armazenados à temperatura ambiente para preservar o seu sabor, o óleo de perila, que é rico em ómega-3 e oxida extremamente rápido, deve ser guardado no frigorífico.
     </p>
   </div>
 </div>

@@ -74,22 +74,22 @@ steps:
 
 ## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">内臓、目、吸盤を必ず綺麗に取り除いてください</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">生で冷凍すると身が硬くなることがあります ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      内臓を残したままだとそこから腐って悪臭を放ち、雑菌が繁殖します。購入後すぐに取り除いて洗浄することが大切です。
+      長期冷凍保存する場合、生のまま凍らせるよりも、沸騰したお湯に酢を1滴入れて10秒ほどさっと茹で、冷まして水気を切ってから冷凍保存すると、解凍したときに硬くならずプリプリした食感を保てます。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">生のイカは冷蔵庫で最大2日以内に調理してください</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">冷蔵保存は1日を超えないようにしてください ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      生の水産物は冷蔵室では急速に傷みます。長期間保存する場合は、必ず小分けにして冷凍庫で保管してください。
+      水産物は常温はもちろん、冷蔵庫でもわずか1日で食中毒菌や腐敗菌が増殖しやすいデリケートな組織です。購入後はすぐに調理するか、すぐに冷凍してください。
     </p>
   </div>
 </div>

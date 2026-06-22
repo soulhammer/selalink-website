@@ -74,22 +74,22 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 ## 3. Wichtige Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Perillaöl ausnahmslos im Kühlschrank lagern</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Sofort entsorgen, wenn es ranzig riecht ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Sauerstoff und Licht lassen Perillaöl schnell verderben. Gut verschlossen in dunklen Flaschen im Kühlschrank aufbewahren.
+      Wenn das Öl beim Öffnen sauer oder muffig statt nussig riecht, ist es bereits vollständig oxidiert. Ranziges Perillaöl enthält giftige Stoffe, die Krebs verursachen und das Altern beschleunigen können. Verzehren Sie es niemals und entsorgen Sie es sofort.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mischung mit 20 % Sesamöl verdoppelt die Haltbarkeit</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Lagern Sie Sesamöl nicht im Kühlschrank ❌</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Sesamöl ist reich an Sesamol und Sesamolin, natürlichen Antioxidantien, die das Perillaöl vor Ranzigkeit schützen.
+      Dank seiner natürlichen Antioxidantien oxidiert Sesamöl auch bei Raumtemperatur nicht leicht. Eine Kühlhaltung führt dazu, dass die Geschmackskomponenten erstarren und das Aroma verfliegt. Bewahren Sie Sesamöl daher in einem schattigen Schrank bei Raumtemperatur auf.
     </p>
   </div>
 </div>

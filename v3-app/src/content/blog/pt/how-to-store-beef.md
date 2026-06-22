@@ -74,22 +74,22 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 
 ## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Seque bem o sangue e a umidade da superfície</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">O escurecimento dentro da carne bovina pode ser normal 🥩</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      O líquido vermelho que escorre da carne é um ninho de bactérias. Secar a carne antes de embalar retarda a deterioração.
+      A cor escura ou acinzentada nas partes onde la carne se sobrepõe é um fenômeno temporário devido à falta de oxigênio que impede a reação da mioglobina. Se a carne voltar a ficar vermelha após ser exposta ao ar por 20 minutos, ela não está estragada.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Embrulhe firmemente para bloquear o contato com o ar</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nunca use água quente para descongelar a carne ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      O oxigênio oxida a gordura e escurece a mioglobina. Embrulhar bem apertado, como se fosse a vácuo, preserva a qualidade.
+      Mergulhar a carne bovina congelada em água quente para descongelar rapidamente causa perda excessiva de suco da carne (drip), tornando-a seca e dura, além de multiplicar rapidamente as bactérias. Descongele-a sempre na geladeira um dia antes de cozinhar.
     </p>
   </div>
 </div>

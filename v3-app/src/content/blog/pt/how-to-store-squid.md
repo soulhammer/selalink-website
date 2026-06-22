@@ -74,22 +74,22 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 
 ## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Retire as vísceras, olhos e ventosas completamente</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Congelar a lula crua pode deixar a carne dura ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Manter as vísceras causa decomposição rápida, bactérias e mau cheiro. Limpe imediatamente.
+      Para congelar a lula por um longo período, em vez de congelá-la crua, escalde-a em água fervente com uma gota de vinagre por 10 segundos. Deixe esfriar, seque bem e congele. Isso evita que ela fique borrachuda e garante sua maciez após o descongelamento.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Prepare a lula crua em até 2 dias de geladeira</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Não armazene na geladeira por mais de um dia ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Frutos do mar crus estragam rápido na geladeira. Para guardar por mais tempo, congele em porções.
+      Frutos do mar têm tecidos delicados nos quais bactérias de deterioração e intoxicação alimentar se multiplicam facilmente em apenas um dia, mesmo sob refrigeração. Cozinhe logo após a compra ou congele imediatamente.
     </p>
   </div>
 </div>

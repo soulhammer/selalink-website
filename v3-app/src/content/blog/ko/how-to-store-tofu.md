@@ -19,7 +19,7 @@ authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</s
       신뢰 근거 기관
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 가이드는 <strong>미국 메이요 클리닉(Mayo Clinic) 및 식품안전정보원</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+      본 가이드는 <strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
     </p>
   </div>
 </div>
@@ -38,7 +38,7 @@ authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</s
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">팩 충전수 무조건 버리고 흐르는 물에 헹구기 — 냉장 보관 (7일) 🚿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">팩 충전수 무조건 버리고 흐르는 물에 헹구기 — 찬물 헹구기 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     두부 팩 내부에 들어있는 충전수는 유통 과정에서 두부 변질을 막아주지만 개봉 후에는 균 번식률이 높습니다. 충전수를 싹 버리고 흐르는 찬물에 두부를 가볍게 헹구어 줍니다.
@@ -48,7 +48,7 @@ authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</s
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">밀폐용기에 맑은 찬물과 소금 한 꼬집 넣기 — 냉동 보관 (21일) 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">밀폐용기에 맑은 찬물과 소금 한 꼬집 넣기 — 냉장 보관 (7일) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     소독된 밀폐용기에 두부를 담고, 두부가 완전히 잠기도록 깨끗한 찬물을 채웁니다. 이때 소금을 한 꼬집(약 1/2티스푼) 섞어주면 천연 방부 작용을 해 7일까지 단단함을 지킵니다.
@@ -72,9 +72,9 @@ authority: "<strong>식품의약품안전처(MFDS) 및 미국 농무부(USDA)</s
 <div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">냉동 시 스펀지 형태로 변합니다 ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">데친 후 냉동 보관 (21일) 시 스펀지 형태로 변합니다 ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      두부를 냉동실에 얼리면 내부 수분이 빠져나가며 구멍이 송송 뚫려 질긴 스펀지 식감이 됩니다. 찌개용 대신 찌개용 만두나 조림용으로 쓰고 싶을 때만 냉동하세요.
+      두부를 끓는 물에 살짝 데친 후 냉동실에 얼리면 내부 수분이 빠져나가며 구멍이 송송 뚫려 질긴 스펀지 식감이 됩니다. 찌개용 대신 조림이나 만두소 등으로 쓰고 싶을 때만 냉동 보관(21일)하세요.
     </p>
   </div>
 </div>

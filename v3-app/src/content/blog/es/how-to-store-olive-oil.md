@@ -74,22 +74,22 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 
 ## 3. Reglas cruciales y precauciones
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Selle la tapa firmemente después de cada uso</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Cierre bien la tapa después de cada uso ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El aceite de oliva se oxida al contacto con el oxígeno, aumentando su acidez y perdiendo propiedades. Cierre bien la tapa siempre.
+      Cuando el aceite de oliva se combina con el oxígeno del aire, los radicales libres aumentan rápidamente. Asegúrese de cerrar bien la tapa después de cada uso para evitar la entrada de aire.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Manténgalo alejado de fuentes de calor como estufas y hornos</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Recuerde las diferencias de temperatura de almacenamiento de los aceites 🫒</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El calor de la estufa acelera la oxidación y arruina la calidad. Guarde el aceite dentro de un armario fresco y oscuro.
+      Mientras que el aceite de oliva y el aceite de sésamo deben almacenarse a temperatura ambiente para preservar su sabor, el aceite de perilla, que es rico en omega-3 y se oxida extremadamente rápido, debe guardarse en el refrigerador.
     </p>
   </div>
 </div>

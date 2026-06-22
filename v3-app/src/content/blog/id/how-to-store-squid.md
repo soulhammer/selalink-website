@@ -74,22 +74,22 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 ## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Buang isi perut, mata, dan tentakel cumi sepenuhnya</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Membekukan cumi-cumi mentah dapat membuat teksturnya alot ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Membiarkan isi perut cumi memicu pembusukan cepat, perkembangbiakan bakteri, dan bau amis. Segera bersihkan.
+      Untuk pembekuan jangka panjang, alih-alih membekukannya secara mentah, rebus cumi-cumi sebentar dalam air mendidih dengan setetes cuka selama 10 detik. Dinginkan, tiriskan sisa air, lalu bekukan. Cara ini akan menjaga teksturnya tetap empuk dan kenyal setelah dicairkan.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Masak cumi mentah dalam kulkas maks 2 hari</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jangan simpan di dalam kulkas lebih dari satu hari ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Seafood mentah cepat busuk di kulkas. Untuk penyimpanan lama, bekukan dalam porsi-porsi kecil.
+      Seafood memiliki jaringan lunak yang sangat mudah ditumbuhi bakteri pembusuk dan bakteri penyebab keracunan makanan hanya dalam waktu satu hari, bahkan di dalam kulkas. Segera masak setelah dibeli atau langsung bekukan.
     </p>
   </div>
 </div>

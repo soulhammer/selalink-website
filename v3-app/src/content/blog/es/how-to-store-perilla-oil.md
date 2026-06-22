@@ -74,22 +74,22 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 
 ## 3. Reglas cruciales y precauciones
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Guarde el aceite de perilla en el refrigerador sin excepción</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Deseche de inmediato si huele rancio ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      La exposición al oxígeno y la luz hace que se dañe rápido. Guárdelo sellado en botellas oscuras dentro del refrigerador.
+      Si el aceite de perilla huele agrio o rancio en lugar de a nuez al abrirlo, ya está completamente oxidado. El aceite de perilla rancio contiene sustancias tóxicas que pueden causar cáncer y acelerar el envejecimiento. No lo consuma y deséchelo de inmediato.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mezclar con 20% de aceite de sésamo duplica su duración</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">No guarde el aceite de sésamo en el refrigerador ❌</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El aceite de sésamo es rico en sesamol y sesamolina, antioxidantes naturales que evitan que el aceite de perilla se rancie.
+      Gracias a sus antioxidantes naturales, el aceite de sésamo no se oxida fácilmente incluso a temperatura ambiente. Refrigerarlo hace que los componentes del sabor se solidifiquen y el aroma se disipe. Mantenga el aceite de sésamo en una alacena oscura a temperatura ambiente.
     </p>
   </div>
 </div>

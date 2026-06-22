@@ -74,22 +74,22 @@ steps:
 
 ## 3. 储存注意事项
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">彻底擦净表面的血水和水分</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">牛肉内部变暗褐色可能是正常现象 🥩</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      牛肉渗出的红色液体（血水）是细菌繁殖的温床。在包装前用厨房纸擦干，可有效减缓变质速度。
+      肉片重叠部分变暗褐色或发灰是由于缺少氧气导致肌红蛋白未发生反应的暂发现象。如果将其暴露在空气中20分钟后恢复鲜红色，则说明并未变质。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">用保鲜膜紧密包裹以阻断空气</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">解冻时请勿使用热水 ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      氧气会引发脂质氧化并使肌红蛋白变褐。像真空密封一样紧紧包裹可保持肉质品质。
+      为了快速解冻而将冷冻牛肉浸入热水中，会导致肉汁（汁液）过度流失，使肉质变得干柴，并引发细菌暴增。请务必在烹饪前一天放入冷藏室解冻。
     </p>
   </div>
 </div>

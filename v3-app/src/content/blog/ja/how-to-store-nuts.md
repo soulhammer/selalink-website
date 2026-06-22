@@ -74,22 +74,22 @@ steps:
 
 ## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">油臭い臭いがしたり、湿気たナッツは絶対に食べないでください</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">酸敗臭（酸化した臭い）がしたり、湿気たナッツ類は絶対に食べないでください ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      酸化したナッツにはアフラトキシンという強力な発がん性物質（カビ毒）が発生します。加熱しても消えないため、すぐに破棄してください。
+      ナッツ類から古い油の臭いがしたり、触ったときに湿気ているものは、すでに脂肪の酸化とアフラトキシン（カビ毒）の増殖が始まっています。水で洗ったり炒めたりしても毒素は消えないため、必ず廃棄してください。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">脱酸素剤と一緒に光を通さない容器で密閉保存してください</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">ナッツ類に傷がつかないよう優しく扱ってください 🥜</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      不透明な容器やジッパーバッグに脱酸素剤と一緒に入れ、光を遮断した涼しい引き出しに入れるか、冷凍庫で保管してください。
+      クルミやアーモンドの表面にひびが入ったり、粉が出るほどの衝撃を与えると、傷ついた隙間から空気が入り込んで酸化が急激に進みます。袋を無理に圧迫しないでください。
     </p>
   </div>
 </div>

@@ -13,7 +13,7 @@ steps:
   - name: "Oleskan jus lemon atau alkohol masak — Pengawet alami 🍋"
     text: "Oleskan sedikit jus lemon atau alkohol masak pada permukaan salmon yang sudah kering. Keasaman dan alkohol berfungsi sebagai pengawet alami, menekan bakteri dan oksidasi lemak."
   - name: "Bungkus rapat dengan plastik wrap tanpa udara — Penyimpanan Beku (90Hari) 📦"
-    text: "Bungkus salmon dengan plastik wrap secara rapat, buang semua udaranya, lalu masukkan ke dalam kantong ziploc. Cara ini menjaga kesegaran hingga 2 hari di kulkas dan 60 hari di freezer."
+    text: "Bungkus salmon dengan plastik wrap secara rapat, buang semua udaranya, lalu masukkan ke dalam kantong ziploc. Cara ini menjaga kesegaran hingga 2 hari di kulkas dan 90 hari di freezer."
 ---
 
 Apakah Anda membiarkan salmon segar di kulkas selama lebih dari dua hari? Salmon memiliki kadar air tinggi, memicu bakteri berkembang cepat. Hari ini, StoreSelf membagikan tips penyimpanan salmon.
@@ -66,7 +66,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus rapat dengan plastik wrap tanpa udara — Penyimpanan Beku (90Hari) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Bungkus salmon dengan plastik wrap secara rapat, buang semua udaranya, lalu masukkan ke dalam kantong ziploc. Cara ini menjaga kesegaran hingga 2 hari di kulkas dan 60 hari di freezer.
+    Bungkus salmon dengan plastik wrap secara rapat, buang semua udaranya, lalu masukkan ke dalam kantong ziploc. Cara ini menjaga kesegaran hingga 2 hari di kulkas dan 90 hari di freezer.
   </p>
 </div>
 
@@ -74,22 +74,22 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 ## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Lap bersih kelembapan dan cairan pada permukaan daging</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Periksa perubahan warna dan tekstur dengan teliti ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cairan pada permukaan ikan memicu bau amis dan pembusukan cepat. Keringkan sepenuhnya sebelum dibungkus.
+      Jika salmon telah kehilangan warna merah muda cerah dan berubah menjadi cokelat tua, atau jika dagingnya ambles dan tidak kembali setelah ditekan dengan jari, proteinnya sudah mulai rusak dan harus segera dibuang.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Bungkus vakum atau segel rapat tanpa udara</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Buang kulit dan duri sebelum dibekukan ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Paparan oksigen memicu ketengikan lemak dan tekstur kering. Membungkusnya dengan rapat menghalangi kontak dengan udara.
+      Untuk pembekuan jangka panjang (hingga 90 hari), disarankan untuk membuang kulit dan duri terlebih dahulu, lalu bekukan dalam porsi kecil dengan bungkus plastik yang rapat. Hal ini memudahkan proses pencairan dan konsumsi nantinya, serta membantu menjaga tekstur ikan.
     </p>
   </div>
 </div>

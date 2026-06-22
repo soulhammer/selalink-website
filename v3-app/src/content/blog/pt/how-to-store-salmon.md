@@ -13,7 +13,7 @@ steps:
   - name: "Passe suco de limão ou vinho de cozinha — Conservante natural 🍋"
     text: "Passe uma camada fina de suco de limão ou um pouco de vinho de cozinha no salmão seco. O ácido e o álcool funcionam como conservantes naturais, impedindo bactérias e oxidação da gordura."
   - name: "Embrulhe bem com filme plástico, retirando todo o ar — Armazenamento Congelado (90Dias) 📦"
-    text: "Embrulhe o salmão firme no filme plástico, tirando todo o ar, e feche dentro de um saco plástico com lacre. Isso mantém a qualidade por até 2 dias na geladeira e até 60 dias no freezer."
+    text: "Embrulhe o salmão firme no filme plástico, tirando todo o ar, e feche dentro de um saco plástico com lacre. Isso mantém a qualidade por até 2 dias na geladeira e até 90 dias no freezer."
 ---
 
 Você deixou salmão fresco na geladeira por mais de dois dias? O salmão é muito úmido, facilitando as bactérias. Hoje, o StoreSelf compartilha técnicas de fechamento recomendadas pela FDA.
@@ -66,7 +66,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe bem com filme plástico, retirando todo o ar — Armazenamento Congelado (90Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Embrulhe o salmão firme no filme plástico, tirando todo o ar, e feche dentro de um saco plástico com lacre. Isso mantém a qualidade por até 2 dias na geladeira e até 60 dias no freezer.
+    Embrulhe o salmão firme no filme plástico, tirando todo o ar, e feche dentro de um saco plástico com lacre. Isso mantém a qualidade por até 2 dias na geladeira e até 90 dias no freezer.
   </p>
 </div>
 
@@ -74,22 +74,22 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 
 ## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Seque bem a umidade e o líquido da superfície com papel-toalha</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Verifique atentamente as mudanças de cor e textura ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      O líquido que escorre do peixe causa mau cheiro e acelera a deterioração. Seque bem antes de embalar.
+      Se o salmão tiver perdido a cor rosa brilhante e ficado marrom-escuro, ou se ao pressionar com o dedo a carne afundar e não retornar, as proteínas já começaram a se decompor e ele deve ser descartado.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Embrulhe a vácuo ou sele hermeticamente sem ar</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Remova a pele e as espinhas antes de congelar ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      O contato com o oxigênio oxida as gorduras e resseca a polpa. Embrulhar bem apertado com filme bloqueia o ar.
+      Para congelamento de longo prazo (até 90 dias), recomenda-se retirar previamente a pele e as espinhas, congelando-o bem embrulhado em porções individuais. Isso facilitará o descongelamento e o consumo posteriores, além de preservar a textura.
     </p>
   </div>
 </div>

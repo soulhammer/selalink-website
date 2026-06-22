@@ -74,22 +74,22 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 ## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Lap bersih cairan dan darah pada permukaan daging</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Perubahan warna kecokelatan di dalam daging sapi bisa jadi normal 🥩</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Cairan merah yang keluar dari daging adalah tempat berkembang biaknya bakteri. Mengelapnya sebelum dibungkus akan memperlambat pembusukan.
+      Warna gelap atau keabu-abuan pada bagian daging yang saling bertumpuk adalah fenomena sementara karena kurangnya oksigen sehingga mioglobin tidak bereaksi. Jika warnanya kembali merah setelah terpapar udara selama 20 menit, daging tersebut tidak busuk.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Bungkus rapat untuk mencegah paparan udara</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jangan gunakan air panas untuk mencairkan daging ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Oksigen memicu oksidasi lemak dan mengubah mioglobin menjadi cokelat. Membungkusnya dengan rapat seperti divakum dapat menjaga kualitas daging.
+      Merendam daging sapi beku dalam air panas untuk mencairkannya dengan cepat menyebabkan hilangnya cairan daging (drip) secara berlebihan, membuat daging menjadi keras dan kering, serta memicu pertumbuhan bakteri yang sangat cepat. Selalu cairkan daging di dalam kulkas satu hari sebelum dimasak.
     </p>
   </div>
 </div>

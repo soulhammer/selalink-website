@@ -13,7 +13,7 @@ steps:
   - name: "Badigeonner de jus de citron ou d'alcool de cuisine — Conservateur 🍋"
     text: "Badigeonnez une fine couche de jus de citron ou d'alcool de cuisine sur le saumon séché. L'acidité et l'alcool servent de conservateur naturel en limitant les bactéries et le rancissement."
   - name: "Envelopper très serré dans du film étirable sans air — Stockage Congelé (90Jours) 📦"
-    text: "Enveloppez le saumon très serré dans du film étirable en chassant l'air, puis mettez-le dans un sac congélation. Il reste frais 2 jours au réfrigérateur et 60 jours au congélateur."
+    text: "Enveloppez le saumon très serré dans du film étirable en chassant l'air, puis mettez-le dans un sac congélation. Il reste frais 2 jours au réfrigérateur et 90 jours au congélateur."
 ---
 
 Avez-vous laissé du saumon frais au frigo plus de deux jours ? Le saumon est très humide et les bactéries s'y développent vite. Aujourd'hui, StoreSelf vous montre comment le conserver sans odeur selon l'FDA.
@@ -66,7 +66,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper très serré dans du film étirable sans air — Stockage Congelé (90Jours) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Enveloppez le saumon très serré dans du film étirable en chassant l'air, puis mettez-le dans un sac congélation. Il reste frais 2 jours au réfrigérateur et 60 jours au congélateur.
+    Enveloppez le saumon très serré dans du film étirable en chassant l'air, puis mettez-le dans un sac congélation. Il reste frais 2 jours au réfrigérateur et 90 jours au congélateur.
   </p>
 </div>
 
@@ -74,22 +74,22 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 ## 3. Règles cruciales et précautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Essuyez complètement l'humidité et le jus en surface</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Vérifiez attentivement les changements de couleur et de texture ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le jus qui s'échappe du poisson provoque de mauvaises odeurs et accélère le pourrissement. Séchez-le bien avant de l'emballer.
+      Si le saumon a perdu sa belle couleur rose vif pour devenir brun foncé, ou si la chair reste enfoncée sans retrouver sa forme sous la pression du doigt, les protéines sont déjà dégradées et il doit être jeté.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Filmez sous vide ou fermez hermétiquement sans air</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Retirez la peau et les arêtes avant de congeler ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le contact de l'oxygène oxyde les graisses et assèche la chair. Filmer très serré permet de bloquer l'air.
+      Pour une congélation de longue durée (jupqu'à 90 jours), il est conseillé de retirer préalablement la peau et les arêtes, puis de congeler le saumon en portions individuelles bien enveloppées. Cela facilitera sa décongélation et sa dégustation ultérieures, tout en préservant sa texture.
     </p>
   </div>
 </div>

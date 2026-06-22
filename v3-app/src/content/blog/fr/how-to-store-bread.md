@@ -74,22 +74,22 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 ## 3. Règles cruciales et précautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ne mettez jamais le pain de mie au réfrigérateur</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Évitez que les odeurs du congélateur ne s'imprègnent dans le pain ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      La rétrogradation (cristallisation) de l'amidon se produit le plus rapidement entre 2 et 6 °C, ce qui assèche le pain à toute vitesse.
+      Le pain absorbe les odeurs subtiles comme une éponge. Si le sac de congélation est mal fermé, les odeurs de poisson ou de raviolis du congélateur risquent de s'imprégner dans le pain et de le rendre immangeable. Scellez-le hermétiquement.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Gardez à température ambiante 2 jours maximum ; congelez le reste</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Limitez la conservation à température ambiante à 3 jours maximum 🍞</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Le pain frais s'altère et moisit facilement à température ambiante. Congelez-le sans attendre pour préserver son humidité.
+      Le pain contenant peu de conservateurs peut facilement moisir en 2 à 3 jours s'il est conservé à température ambiante par temps humide. Il est plus sûr de congeler le jour même ce que vous ne pouvez pas finir.
     </p>
   </div>
 </div>

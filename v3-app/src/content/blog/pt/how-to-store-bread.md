@@ -74,22 +74,22 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 
 ## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nunca guarde o pão na geladeira</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Evite que os odores do freezer impregnem no pão ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      A cristalização do amido ocorre mais rápido na temperatura da geladeira (2-6°C), ressecando o pão muito depressa.
+      O pão absorbe odores sutis como uma esponja. Se o saco do freezer ficar parcialmente aberto, os cheiros de peixe ou salgados do freezer podem passar para o pão, tornando-o impróprio para consumo. Sele-o em saco duplo.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Deixe em temp. ambiente no máximo por 2 dias; congele o resto</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Limite o armazenamento em temperatura ambiente a no máximo 3 dias 🍞</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      O pão fresco estraga e mofa fácil em temperatura ambiente. Congele imediatamente para preservar a umidade natural.
+      Pães sem muitos conservantes podem facilmente embolorar em 2 a 3 dias se armazenados em temperatura ambiente sob alta umidade. O mais seguro é congelar no mesmo dia o que não for consumido.
     </p>
   </div>
 </div>

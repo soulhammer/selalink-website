@@ -74,22 +74,22 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 ## 3. Wichtige Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Innereien, Augen und Saugnäpfe vollständig entfernen</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Das Einfrieren von rohem Tintenfisch kann das Fleisch zäh machen ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das Belassen der Innereien führt zu schnellem Verderb, Bakterien und starkem Geruch. Sofort reinigen.
+      Wenn Sie Tintenfisch für längere Zeit einfrieren möchten, blanchieren Sie ihn am besten kurz (ca. 10 Sekunden) in kochendem Wasser mit einem Tropfen Essig, anstatt ihn rohem einzufrieren. Lassen Sie ihn abkühlen, entfernen Sie überschüssige Feuchtigkeit und frieren Sie ihn ein. So bleibt er nach dem Auftauen zart und zäh.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Rohen Tintenfisch maximal 2 Tage im Kühlschrank lagern</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nicht länger als einen Tag im Kühlschrank lagern ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Roher Fisch verdirbt im Kühlschrank schnell. Zur längeren Aufbewahrung portionsweise einfrieren.
+      Meeresfrüchte haben ein empfindliches Gewebe, in dem sich Bakterien selbst im Kühlschrank innerhalb eines Tages leicht vermehren können. Kochen Sie sie direkt nach dem Kauf oder frieren Sie sie sofort ein.
     </p>
   </div>
 </div>

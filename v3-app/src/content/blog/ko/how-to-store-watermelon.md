@@ -19,7 +19,7 @@ authority: "<strong>한국소비자원(KCA) 및 식품의약품안전처(MFDS)</
       신뢰 근거 기관
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 가이드는 <strong>한국소비자원 및 미국 농무부(USDA)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+      본 가이드는 <strong>한국소비자원(KCA) 및 식품의약품안전처(MFDS)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
     </p>
   </div>
 </div>

@@ -74,22 +74,22 @@ steps:
 
 ## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">食パンは絶対に冷蔵室に入れないでください</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">冷凍庫の臭いがパンに移らないようにしてください ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      デンプンの老化（結晶化）は冷蔵室の温度帯（2〜6℃）で最も早く進み、パンの水分が急速に抜けて硬くなってしまいます。
+      パンは周囲の微細な臭いをスポンジのように吸収してしまいます。ジッパーバッグの口が少しでも開いていると、冷凍庫内の魚や餃子の臭いが食パンに移って食べられなくなるため、二重に密閉してください。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">常温保存は最大2日とし、残りはすぐに冷凍してください</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">常温保存は最大3日以内にしてください 🍞</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      新鮮な食パンは常温に置くと傷みやすく、カビが生えやすいです。水分を含んだ組織を守るため、すぐに冷凍することをおすすめします。
+      保存料があまり入っていない食パンは、常温保存時に湿度が高いと2〜3日で青カビが生えることがあります。食べきれない分は、購入当日に冷凍するのが安全です。
     </p>
   </div>
 </div>

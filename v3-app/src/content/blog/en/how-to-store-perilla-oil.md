@@ -74,22 +74,22 @@ Understanding the unique characteristics of each ingredient and following the pr
 
 ## 3. Crucial Rules and Cautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Always store perilla oil in the refrigerator</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Discard immediately if it smells rancid ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Exposure to oxygen and light causes perilla oil to spoil fast. Keep it sealed in dark bottles inside the fridge.
+      If perilla oil smells sour or stale instead of nutty when opened, it is already completely oxidized. Rancid perilla oil contains toxic substances that can cause cancer and accelerate aging, so never consume it and discard it immediately.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mix with 20% sesame oil to double the shelf life</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Do not store sesame oil in the refrigerator ❌</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Sesame oil is rich in sesamol and sesamolin, natural antioxidants that prevent perilla oil from rancidifying.
+      Thanks to its natural antioxidants, sesame oil does not oxidize easily even when stored at room temperature. Refrigerating it causes the flavor components to solidify and the aroma to fade, so keep sesame oil in a shaded cabinet at room temperature.
     </p>
   </div>
 </div>

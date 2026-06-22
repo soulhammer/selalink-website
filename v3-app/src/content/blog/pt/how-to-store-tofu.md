@@ -8,10 +8,10 @@ heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Descarte a água da embalagem e enxágue em água corrente — Armazenamento Refrigerado (7Dias) 🚿"
+  - name: "Descarte a água da embalagem e enxágue em água corrente — Enxaguar com água fria 🚿"
     text: "A água da embalagem do tofu contém proteínas dissolvidas, sendo propícia à proliferação de bactérias. Descarte essa água e enxágue bem o bloco de tofu em água corrente antes de guardar."
-  - name: "Submerja em água fria com uma pitada de sal — Armazenamento Congelado (21Dias) 🧂"
-    text: "Coloque o tofu em um pote hermético, cubra totalmente com água fria limpa e misture meia colher de chá de sal. A água salgada inibe microbios e ajuda a manter o tofu firme."
+  - name: "Submerja em água fria com uma pitada de sal — Armazenamento Refrigerado (7Dias) 🧂"
+    text: "Coloque o tofu in um pote hermético, cubra totalmente com água fria limpa e misture meia colher de chá de sal. A água salgada inibe microbios e ajuda a manter o tofu firme."
   - name: "Troque a água diariamente — Preserve o frescor 💧"
     text: "Mesmo com sal, a água deve ser trocada por água fresca limpa diariamente ou a cada dois dias. Isso evita que o tofu azede, mantendo-o fresco e firme por até uma semana."
 ---
@@ -43,7 +43,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Descarte a água da embalagem e enxágue em água corrente — Armazenamento Refrigerado (7Dias) 🚿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Descarte a água da embalagem e enxágue em água corrente — Enxaguar com água fria 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     A água da embalagem do tofu contém proteínas dissolvidas, sendo propícia à proliferação de bactérias. Descarte essa água e enxágue bem o bloco de tofu em água corrente antes de guardar.
@@ -53,7 +53,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Submerja em água fria com uma pitada de sal — Armazenamento Congelado (21Dias) 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Submerja em água fria com uma pitada de sal — Armazenamento Refrigerado (7Dias) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Coloque o tofu em um pote hermético, cubra totalmente com água fria limpa e misture meia colher de chá de sal. A água salgada inibe microbios e ajuda a manter o tofu firme.
@@ -77,9 +77,9 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 <div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Descarte a água da embalagem e troque por água fria limpa diariamente</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Congelar após branquear (21Dias) altera a textura para tipo esponja ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      O tofu que sobra estraga rápido por causa das bactérias. Trocar a água fria todo dia impede as bactérias.
+      Se você congelar o tofu após branqueá-lo levemente em água fervente, a água interna drena, criando uma textura semelhante a de esponja. Use em ensopados ou recheios. O armazenamento congelado é recomendado por até 21 dias.
     </p>
   </div>
 </div>

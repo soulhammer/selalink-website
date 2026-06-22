@@ -19,7 +19,7 @@ authority: "<strong>미국 식품의약국(FDA) 및 미국 농무부(USDA)</stro
       신뢰 근거 기관
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      본 가이드는 <strong>미국 식품의약국(FDA) 및 해양대기청(NOAA)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
+      본 가이드는 <strong>미국 식품의약국(FDA) 및 미국 농무부(USDA)</strong>의 공인된 식품 위생 및 보관 가이드라인을 준수하여 작성되었습니다.
     </p>
   </div>
 </div>
@@ -84,7 +84,7 @@ authority: "<strong>미국 식품의약국(FDA) 및 미국 농무부(USDA)</stro
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">냉동 시 껍질과 가시를 제거해 보관하세요 ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      장기 냉동(최대 60일) 보관할 때는 나중에 해동하여 먹기 편하도록 미리 껍질과 가시를 발라내고 소분 밀착 랩핑하여 얼려두시는 것이 질감 유지에 좋습니다.
+      장기 냉동(최대 90일) 보관할 때는 나중에 해동하여 먹기 편하도록 미리 껍질과 가시를 발라내고 소분 밀착 랩핑하여 얼려두시는 것이 질감 유지에 좋습니다.
     </p>
   </div>
 </div>
