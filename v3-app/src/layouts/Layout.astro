@@ -367,6 +367,10 @@ const t = useTranslations(lang as any);
 				)}
 			</a>
 			<div class="flex items-center gap-6">
+				<!-- Blog Link -->
+				<a href={`/${lang}/blog/`} class="text-sm font-semibold transition-all duration-300 hover:text-[var(--theme-accent,#0D9488)]">
+					{lang === 'ko' ? '블로그' : 'Blog'}
+				</a>
 				<!-- Language Dropdown -->
 				<div class="relative" id="langWrapper">
 					<button 

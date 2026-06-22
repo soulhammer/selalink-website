@@ -1,0 +1,77 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+  lang: string;
+}
+
+const { post, lang } = Astro.props;
+const { title, description, pubDate, heroImage, app } = post.data;
+
+// 앱에 따른 대표 배지/색상 구성 (라이트/다크 양방향 지원)
+const appTags = {
+  storeself: { 
+    name: 'StoreSelf', 
+    style: 'bg-emerald-50 text-emerald-700 border-emerald-200 dark:bg-emerald-500/10 dark:text-emerald-400 dark:border-emerald-500/20',
+    hoverText: 'group-hover:text-emerald-600 dark:group-hover:text-emerald-400'
+  },
+  freshself: { 
+    name: 'FreshSelf', 
+    style: 'bg-purple-50 text-purple-700 border-purple-200 dark:bg-purple-500/10 dark:text-purple-400 dark:border-purple-500/20',
+    hoverText: 'group-hover:text-purple-600 dark:group-hover:text-purple-400'
+  },
+  buildself: { 
+    name: 'BuildSelf', 
+    style: 'bg-indigo-50 text-indigo-700 border-indigo-200 dark:bg-indigo-500/10 dark:text-indigo-400 dark:border-indigo-500/20',
+    hoverText: 'group-hover:text-indigo-600 dark:group-hover:text-indigo-400'
+  },
+  general: { 
+    name: 'SelaLink', 
+    style: 'bg-slate-100 text-slate-700 border-slate-200 dark:bg-slate-500/10 dark:text-slate-400 dark:border-slate-500/20',
+    hoverText: 'group-hover:text-teal-600 dark:group-hover:text-teal-400'
+  }
+};
+
+const activeTag = appTags[app] || appTags.general;
+const formattedDate = new Date(pubDate).toLocaleDateString(lang === 'ko' ? 'ko-KR' : 'en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+});
+---
+
+<a 
+  href={`/${lang}/blog/${post.id.split('/').pop()}/`}
+  class="group flex flex-col overflow-hidden rounded-3xl border border-slate-200/60 bg-white/60 shadow-sm backdrop-blur-md transition-all duration-300 hover:-translate-y-1.5 hover:border-slate-300 hover:shadow-xl dark:border-white/5 dark:bg-slate-900/40 dark:hover:border-white/10 dark:hover:shadow-2xl"
+>
+  {heroImage && (
+    <div class="relative aspect-video w-full overflow-hidden">
+      <img 
+        src={heroImage} 
+        alt={title}
+        class="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+        loading="lazy"
+      />
+      <div class="absolute inset-0 bg-gradient-to-t from-slate-950/20 to-transparent dark:from-slate-950/80"></div>
+    </div>
+  )}
+  <div class="flex flex-1 flex-col p-6 md:p-7 justify-between space-y-4">
+    <div class="space-y-3">
+      <div class="flex items-center gap-2">
+        <span class={`inline-flex items-center px-2.5 py-0.5 rounded-full text-[11px] font-bold border tracking-wider uppercase ${activeTag.style}`}>
+          {activeTag.name}
+        </span>
+      </div>
+      <h3 class={`text-lg md:text-xl font-bold text-slate-900 dark:text-white leading-snug tracking-tight transition-colors duration-200 ${activeTag.hoverText}`}>
+        {title}
+      </h3>
+      <p class="text-sm text-slate-600 dark:text-slate-400 line-clamp-2 leading-relaxed">
+        {description}
+      </p>
+    </div>
+    <div class="flex items-center text-xs text-slate-400 dark:text-slate-500 pt-3 border-t border-slate-100 dark:border-white/5">
+      <time datetime={new Date(pubDate).toISOString()}>{formattedDate}</time>
+    </div>
+  </div>
+</a>

@@ -1,0 +1,86 @@
+---
+import { useTranslations, languages } from '../i18n/ui';
+
+interface Props {
+  lang: string;
+  app: 'storeself' | 'freshself' | 'buildself' | 'general';
+}
+
+const { lang, app } = Astro.props;
+const currentLang = (lang in languages ? lang : 'en') as keyof typeof languages;
+const t = useTranslations(currentLang);
+
+// 앱별 브랜드 컬러 및 안내 텍스트 분기 (라이트/다크 양방향 대비 완전성 확보)
+const appDetails = {
+  storeself: {
+    title: currentLang === 'ko' ? '🥬 StoreSelf - 무료 식재료 보관 가이드 웹앱' : '🥬 StoreSelf - Free Food Storage Guide Web App',
+    desc: currentLang === 'ko' 
+      ? '115가지 식재료의 보관 기한과 손질법을 앱 설치 없이 지금 바로 확인해 보세요.' 
+      : 'Check storage guides and shelf lives for over 115 ingredients instantly without installing anything.',
+    btnText: currentLang === 'ko' ? 'StoreSelf 웹앱 시작하기 →' : 'Launch StoreSelf Web App →',
+    link: `/${currentLang}/apps/storeself/`,
+    bgColor: 'bg-emerald-50/50 border-emerald-100 dark:bg-emerald-950/10 dark:border-emerald-500/20',
+    btnBg: 'bg-emerald-600 hover:bg-emerald-700 text-white focus:ring-emerald-500/20',
+    badgeText: 'FREE WEB APP',
+    badgeStyle: 'bg-emerald-100 text-emerald-800 dark:bg-emerald-500/20 dark:text-emerald-300 border-emerald-200/50 dark:border-emerald-500/20'
+  },
+  freshself: {
+    title: currentLang === 'ko' ? '🍏 FreshSelf - 우리 집 냉장고 관리 도우미' : '🍏 FreshSelf - Smart Home Refrigerator Assistant',
+    desc: currentLang === 'ko'
+      ? '가족들과 실시간으로 냉장고를 공유하고 유통기한 임박 알림으로 버려지는 식재료를 제로로 만드세요.'
+      : 'Share your fridge with family in real-time, get expiration alerts, and reduce food waste to zero.',
+    btnText: currentLang === 'ko' ? 'FreshSelf 알아보기 →' : 'Discover FreshSelf →',
+    link: `/${currentLang}/apps/freshself/`,
+    bgColor: 'bg-purple-50/50 border-purple-100 dark:bg-purple-950/10 dark:border-purple-500/20',
+    btnBg: 'bg-purple-600 hover:bg-purple-700 text-white focus:ring-purple-500/20',
+    badgeText: 'DOWNLOAD APP',
+    badgeStyle: 'bg-purple-100 text-purple-800 dark:bg-purple-500/20 dark:text-purple-300 border-purple-200/50 dark:border-purple-500/20'
+  },
+  buildself: {
+    title: currentLang === 'ko' ? '🏆 BuildSelf - 위인들과 함께하는 루틴 트래커' : '🏆 BuildSelf - Habits & Routine Tracker',
+    desc: currentLang === 'ko'
+      ? '역사 속 위인들이 매일 보내주는 특별한 자극과 칭찬을 받으며 매일의 성장 습관을 기록하세요.'
+      : 'Build your daily routines alongside historical mentors. Stay motivated and track your goals.',
+    btnText: currentLang === 'ko' ? 'BuildSelf 알아보기 →' : 'Discover BuildSelf →',
+    link: `/${currentLang}/apps/buildself/`,
+    bgColor: 'bg-indigo-50/50 border-indigo-100 dark:bg-indigo-950/10 dark:border-indigo-500/20',
+    btnBg: 'bg-indigo-600 hover:bg-indigo-700 text-white focus:ring-indigo-500/20',
+    badgeText: 'DOWNLOAD APP',
+    badgeStyle: 'bg-indigo-100 text-indigo-800 dark:bg-indigo-500/20 dark:text-indigo-300 border-indigo-200/50 dark:border-indigo-500/20'
+  },
+  general: {
+    title: currentLang === 'ko' ? '🌍 SelaLink Digital Products' : '🌍 SelaLink Digital Products',
+    desc: currentLang === 'ko'
+      ? 'SelaLink가 만드는 일상 속 완벽한 제품들을 만나보세요.'
+      : 'Discover the perfect everyday products designed by SelaLink Global Product Studio.',
+    btnText: currentLang === 'ko' ? '홈으로 가기' : 'Go to Home',
+    link: `/${currentLang}/`,
+    bgColor: 'bg-slate-50/50 border-slate-100 dark:bg-slate-950/10 dark:border-slate-500/20',
+    btnBg: 'bg-slate-700 hover:bg-slate-800 text-white focus:ring-slate-500/20',
+    badgeText: 'STUDIO',
+    badgeStyle: 'bg-slate-100 text-slate-800 dark:bg-slate-500/20 dark:text-slate-300 border-slate-200/50 dark:border-slate-500/20'
+  }
+};
+
+const activeDetails = appDetails[app] || appDetails.general;
+---
+
+<div class={`relative overflow-hidden rounded-3xl border p-6 md:p-8 bg-gradient-to-br ${activeDetails.bgColor} backdrop-blur-md transition-all duration-300 hover:shadow-lg`}>
+  <div class="flex flex-wrap items-center justify-between gap-6">
+    <div class="space-y-3 max-w-xl">
+      <span class={`inline-flex items-center px-2.5 py-0.5 rounded-full text-[11px] font-bold border tracking-wider uppercase ${activeDetails.badgeStyle}`}>
+        {activeDetails.badgeText}
+      </span>
+      <h3 class="text-xl font-bold text-slate-900 dark:text-white tracking-tight">{activeDetails.title}</h3>
+      <p class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">{activeDetails.desc}</p>
+    </div>
+    <div>
+      <a 
+        href={activeDetails.link}
+        class={`inline-flex items-center justify-center px-6 py-3.5 rounded-2xl font-semibold text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow ${activeDetails.btnBg}`}
+      >
+        {activeDetails.btnText}
+      </a>
+    </div>
+  </div>
+</div>

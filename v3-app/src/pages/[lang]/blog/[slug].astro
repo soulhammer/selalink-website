@@ -1,0 +1,232 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import BlogAppCta from '../../../components/BlogAppCta.astro';
+import YoutubeEmbed from '../../../components/YoutubeEmbed.astro';
+import ShortsPlayerModal from '../../../components/ShortsPlayerModal.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => {
+    const parts = post.id.split('/');
+    const lang = parts[0];
+    const slug = parts.slice(1).join('/');
+    return {
+      params: { lang, slug },
+      props: { post },
+    };
+  });
+}
+
+const { post } = Astro.props;
+const { lang } = Astro.params;
+const { title, description, pubDate, heroImage, app, youtubeId } = post.data;
+
+const { Content } = await render(post);
+
+// SEO를 위한 구조화된 데이터(JSON-LD) 생성
+const formattedUrl = new URL(Astro.url.pathname, Astro.site).href;
+const structuredDataList = [
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": title,
+    "description": description,
+    "image": heroImage ? new URL(heroImage, Astro.site).href : undefined,
+    "datePublished": new Date(pubDate).toISOString(),
+    "author": {
+      "@type": "Organization",
+      "name": "SelaLink Studio",
+      "url": "https://selalink.net/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "SelaLink Studio",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://selalink.net/favicon.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": formattedUrl
+    }
+  }
+];
+
+// 바나나 보관법 등의 구체적인 하우투 가이드일 때 HowTo 스키마 추가 주입
+if (post.id.includes('how-to-store-bananas')) {
+  structuredDataList.push({
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": title,
+    "description": description,
+    "image": heroImage ? new URL(heroImage, Astro.site).href : undefined,
+    "step": lang === 'ko' ? [
+      {
+        "@type": "HowToStep",
+        "name": "바나나 공중에 매달기",
+        "text": "바나나 걸이 또는 옷걸이에 매달아 공중에 띄워 멍이 드는 것을 방지하고 신선도를 지킵니다.",
+        "url": `${formattedUrl}#step-1`
+      },
+      {
+        "@type": "HowToStep",
+        "name": "꼭지 알루미늄 호일 감싸기",
+        "text": "바나나 에틸렌 가스 배출의 핵심인 꼭지(줄기) 부분을 랩이나 은박지로 꽁꽁 묶어 숙성을 지연시킵니다.",
+        "url": `${formattedUrl}#step-2`
+      },
+      {
+        "@type": "HowToStep",
+        "name": "완숙 시 개별 포장 후 냉장실 보관",
+        "text": "바나나가 노랗게 완전히 익고 슈가스팟이 생기면 낱개로 랩핑하여 냉장고 야채칸에 보관해 노화를 멈춥니다.",
+        "url": `${formattedUrl}#step-3`
+      }
+    ] : [
+      {
+        "@type": "HowToStep",
+        "name": "Hang Bananas Up",
+        "text": "Hang bananas on a hanger to distribute weight evenly and prevent soft bruising spots.",
+        "url": `${formattedUrl}#step-1`
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Wrap Stems with Foil",
+        "text": "Wrap the banana stems tightly with aluminum foil or plastic wrap to lock ethylene gas.",
+        "url": `${formattedUrl}#step-2`
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Refrigerate When Fully Ripe",
+        "text": "Wrap ripe bananas individually and store them in the crisper drawer to retard further ripening.",
+        "url": `${formattedUrl}#step-3`
+      }
+    ]
+  });
+}
+
+const formattedDate = new Date(pubDate).toLocaleDateString(lang === 'ko' ? 'ko-KR' : 'en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+});
+
+// 앱 타입별 테마 스타일링 바인딩
+const themeAccents = {
+  storeself: 'prose-a:text-emerald-600 dark:prose-a:text-emerald-400 hover:prose-a:text-emerald-700 dark:hover:prose-a:text-emerald-300 border-emerald-500/10 dark:border-emerald-500/20 bg-emerald-500/5',
+  freshself: 'prose-a:text-purple-600 dark:prose-a:text-purple-400 hover:prose-a:text-purple-700 dark:hover:prose-a:text-purple-300 border-purple-500/10 dark:border-purple-500/20 bg-purple-500/5',
+  buildself: 'prose-a:text-indigo-600 dark:prose-a:text-indigo-400 hover:prose-a:text-indigo-700 dark:hover:prose-a:text-indigo-300 border-indigo-500/10 dark:border-indigo-500/20 bg-indigo-500/5',
+  general: 'prose-a:text-teal-600 dark:prose-a:text-teal-400 hover:prose-a:text-teal-700 dark:hover:prose-a:text-teal-300 border-teal-500/10 dark:border-teal-500/20 bg-teal-500/5'
+};
+const activeAccent = themeAccents[app] || themeAccents.general;
+---
+
+<Layout 
+  title={title} 
+  lang={lang as string} 
+  description={description} 
+  appId={app} 
+  image={heroImage}
+  ogType="website"
+  structuredData={structuredDataList}
+>
+  <main class="max-w-[760px] mx-auto px-6 py-12 md:py-20">
+    <!-- Breadcrumb -->
+    <nav class="flex text-xs font-semibold text-slate-500 mb-8" aria-label="Breadcrumb">
+      <ol class="inline-flex items-center space-x-1 md:space-x-2">
+        <li class="inline-flex items-center">
+          <a href={`/${lang}/`} class="hover:text-slate-900 dark:hover:text-white transition-colors">Home</a>
+        </li>
+        <li>
+          <div class="flex items-center">
+            <span class="mx-2 text-slate-400 dark:text-slate-700">/</span>
+            <a href={`/${lang}/blog/`} class="hover:text-slate-900 dark:hover:text-white transition-colors">Blog</a>
+          </div>
+        </li>
+        <li aria-current="page">
+          <div class="flex items-center">
+            <span class="mx-2 text-slate-400 dark:text-slate-700">/</span>
+            <span class="text-slate-400 dark:text-slate-500 max-w-[200px] md:max-w-xs truncate">{title}</span>
+          </div>
+        </li>
+      </ol>
+    </nav>
+
+    <!-- Article Header -->
+    <header class="space-y-6 mb-12">
+      <div class="space-y-3">
+        <h1 class="text-3xl md:text-5xl font-extrabold tracking-tight text-slate-900 dark:text-white leading-tight">
+          {title}
+        </h1>
+        <div class="flex items-center gap-4 text-xs font-bold text-slate-400 dark:text-slate-500 pt-1">
+          <time datetime={new Date(pubDate).toISOString()}>{formattedDate}</time>
+          <span>•</span>
+          <span class="capitalize tracking-widest text-emerald-600 dark:text-emerald-400">{app}</span>
+        </div>
+      </div>
+
+      {heroImage && (
+        <div class="relative rounded-[2rem] overflow-hidden border border-slate-200/80 dark:border-white/10 bg-slate-100 dark:bg-slate-950/20 shadow-xl dark:shadow-2xl max-h-[420px] md:max-h-[480px] aspect-video flex items-center justify-center">
+          {/* Blurred background shadow for aesthetic depth */}
+          <img 
+            src={heroImage} 
+            alt=""
+            class="absolute inset-0 w-full h-full object-cover blur-3xl opacity-25 dark:opacity-35 pointer-events-none scale-105"
+            aria-hidden="true"
+          />
+          {/* Main Contain Image to prevent cutting */}
+          <img 
+            src={heroImage} 
+            alt={title}
+            class="relative z-10 max-h-[420px] md:max-h-[480px] w-auto object-contain mx-auto"
+          />
+        </div>
+      )}
+    </header>
+
+    <!-- YouTube Shorts Embed Section (Interactive & Cinematic) -->
+    {youtubeId && (
+      <div class={`p-6 md:p-8 rounded-[2rem] border ${activeAccent} mb-12 flex flex-col md:flex-row items-center gap-8 justify-between shadow-sm dark:shadow-none`}>
+        <div class="space-y-4 max-w-sm text-center md:text-left">
+          <span class="px-2.5 py-1 rounded-full bg-red-600 text-white font-bold text-[10px] tracking-widest uppercase">YOUTUBE SHORTS</span>
+          <h4 class="text-xl font-extrabold text-slate-900 dark:text-white leading-snug tracking-tight">
+            {lang === 'ko' ? '1분 영상 꿀팁으로 크게 보기 🎬' : 'Watch the 1-Min Quick Tip in HD! 🎬'}
+          </h4>
+          <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">
+            {lang === 'ko' 
+              ? '바나나 보관 꿀팁의 전체 과정을 요약한 공식 쇼츠 영상입니다. 이미지를 클릭하시면 선명한 전체 화면으로 감상하실 수 있습니다.' 
+              : 'Official shorts summarizing the quick banana hacks. Click the card to open in cinematic full screen!'}
+          </p>
+        </div>
+        <div class="w-full md:w-auto flex justify-center shrink-0">
+          <YoutubeEmbed id={youtubeId} title={title} isShorts={true} app={app} />
+        </div>
+      </div>
+    )}
+
+    <!-- Article Body (Refined Premium Typography) -->
+    <article class={`prose prose-slate dark:prose-invert max-w-none mb-16 tracking-tight text-slate-800/95 dark:text-slate-200/95 ${themeAccents[app] || ''}
+      prose-headings:text-slate-900 dark:prose-headings:text-white prose-headings:font-extrabold prose-headings:tracking-tight
+      prose-h2:text-2xl prose-h2:md:text-3xl prose-h2:mt-14 prose-h2:mb-6 prose-h2:pb-3.5 prose-h2:border-b prose-h2:border-slate-200/80 dark:prose-h2:border-white/5
+      prose-h3:text-lg prose-h3:md:text-xl prose-h3:mt-10 prose-h3:mb-4
+      prose-p:my-5 prose-p:text-[16px] prose-p:md:text-[17px] prose-p:leading-[1.75] prose-p:text-slate-700 dark:prose-p:text-slate-300
+      prose-strong:text-slate-900 dark:prose-strong:text-white prose-strong:font-extrabold
+      prose-hr:my-12 prose-hr:border-slate-200 dark:prose-hr:border-white/5
+      prose-ul:list-none prose-ul:pl-0 prose-ul:my-6
+      prose-li:relative prose-li:pl-7 prose-li:my-3 prose-li:text-[15px] prose-li:md:text-[16px] prose-li:text-slate-700 dark:prose-li:text-slate-300
+      prose-li:before:content-["•"] prose-li:before:absolute prose-li:before:left-2 prose-li:before:text-emerald-500 prose-li:before:font-extrabold prose-li:before:text-lg
+      prose-blockquote:border-l-4 prose-blockquote:border-emerald-500 prose-blockquote:bg-emerald-500/5 prose-blockquote:py-5 prose-blockquote:px-7 prose-blockquote:rounded-r-3xl prose-blockquote:my-8 prose-blockquote:text-slate-700 dark:prose-blockquote:text-slate-300 prose-blockquote:not-italic`}>
+      <Content />
+    </article>
+
+    <!-- App Promotion CTA Banner -->
+    <div class="pt-10 border-t border-slate-200 dark:border-white/10 space-y-4">
+      <BlogAppCta lang={lang as string} app={app} />
+      {app === 'storeself' && (
+        <BlogAppCta lang={lang as string} app="freshself" />
+      )}
+    </div>
+  </main>
+
+  <!-- Shared Popup Modal Component (Rule 5 compliance) -->
+  <ShortsPlayerModal lang={lang} />
+</Layout>

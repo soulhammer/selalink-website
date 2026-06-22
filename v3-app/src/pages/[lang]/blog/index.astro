@@ -1,0 +1,60 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import BlogPostCard from '../../../components/BlogPostCard.astro';
+import { getCollection } from 'astro:content';
+import { languages } from '../../../i18n/ui';
+
+export async function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({
+    params: { lang },
+  }));
+}
+
+const { lang } = Astro.params;
+const normalizedLang = lang as string;
+
+// 전체 블로그 로드 및 언어 필터링
+const allPosts = await getCollection('blog');
+const filteredPosts = allPosts
+  .filter((post) => {
+    // id가 'ko/how-to-store-bananas' 형태이므로 앞 폴더명으로 언어 구별
+    return post.id.startsWith(normalizedLang + '/');
+  })
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const title = normalizedLang === 'ko' ? 'SelaLink 공식 블로그' : 'SelaLink Official Blog';
+const description = normalizedLang === 'ko' 
+  ? '식재료 보관부터 습관 형성까지, SelaLink가 제공하는 일상 생활 꿀팁과 유용한 팁을 만나보세요.' 
+  : 'Discover everyday lifestyle tips, smart food storage hacks, and habit guides from SelaLink.';
+---
+
+<Layout title={title} lang={normalizedLang} description={description} appId="studio">
+  <main class="max-w-[1200px] mx-auto px-6 py-16 md:py-24">
+    <div class="space-y-4 text-center max-w-2xl mx-auto mb-16 md:mb-20">
+      <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 tracking-wider uppercase">
+        LIFESTYLE HACKS
+      </span>
+      <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight text-slate-900 dark:text-white">
+        {normalizedLang === 'ko' ? 'SelaLink 블로그' : 'SelaLink Blog'}
+      </h1>
+      <p class="text-slate-600 dark:text-slate-400 text-base md:text-lg leading-relaxed max-w-xl mx-auto">
+        {description}
+      </p>
+    </div>
+
+    {filteredPosts.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {filteredPosts.map((post) => (
+          <BlogPostCard post={post} lang={normalizedLang} />
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-24 border border-slate-200/60 dark:border-white/5 rounded-3xl bg-slate-500/5 dark:bg-slate-900/10">
+        <span class="text-4xl mb-4 block">📭</span>
+        <p class="text-slate-500 dark:text-slate-400 font-medium">
+          {normalizedLang === 'ko' ? '등록된 블로그 포스트가 없습니다.' : 'No blog posts found for this language.'}
+        </p>
+      </div>
+    )}
+  </main>
+</Layout>
