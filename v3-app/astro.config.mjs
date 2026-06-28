@@ -21,7 +21,8 @@ export default defineConfig({
         if (
           url.pathname === '/apps/freshself/' || 
           url.pathname === '/apps/buildself/' ||
-          url.pathname === '/apps/storeself/'
+          url.pathname === '/apps/storeself/' ||
+          url.pathname === '/apps/logself/'
         ) {
           return false;
         }
