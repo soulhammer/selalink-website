@@ -1,0 +1,296 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import { useTranslations, languages } from '../../../../i18n/ui';
+
+export function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+const t = useTranslations(lang as keyof typeof languages);
+
+const isKo = lang === 'ko';
+const toastTitle = isKo ? '안내' : 'Notice';
+const toastDesc = isKo ? 'iOS 버전은 현재 준비 중입니다.' : 'iOS version is coming soon.';
+---
+
+<Layout title={t('app.logself.meta.title')} lang={lang} description={t('app.logself.desc')} ogType="software" appId="logself">
+	<style>
+		:root {
+			--ls-primary: #6366F1;
+			--ls-secondary: #4F46E5;
+			--ls-cta: #4F46E5;
+		}
+		
+		.font-outfit-all {
+			font-family: 'Outfit', 'Space Grotesk', 'Pretendard', sans-serif;
+		}
+		
+		.glass-card {
+			transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+			border: 1px solid rgba(99, 102, 241, 0.1);
+		}
+		.glass-card:hover {
+			transform: scale(1.02) translateY(-6px);
+			box-shadow: 0 30px 60px -15px rgba(99, 102, 241, 0.25), 0 0 0 1px rgba(99, 102, 241, 0.2);
+			border-color: rgba(99, 102, 241, 0.3);
+		}
+		
+		.app-button {
+			transition: all 0.3s ease;
+		}
+		.app-button:hover {
+			transform: translateY(-2px);
+			box-shadow: 0 10px 25px -5px var(--ls-primary);
+		}
+
+		.neon-accent-card {
+			border: 1px solid rgba(99, 102, 241, 0.15) !important;
+			background: linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.7) 100%);
+			transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+		}
+		html.dark .neon-accent-card {
+			border: 1px solid rgba(99, 102, 241, 0.15) !important;
+			background: linear-gradient(180deg, rgba(30, 33, 45, 0.5) 0%, rgba(20, 23, 35, 0.3) 100%) !important;
+		}
+		.neon-accent-card:hover {
+			border-color: var(--ls-primary) !important;
+			box-shadow: 0 20px 40px rgba(99, 102, 241, 0.15), 0 0 25px rgba(99, 102, 241, 0.05) !important;
+		}
+	</style>
+
+	<div class="font-outfit-all bg-slate-50 dark:bg-slate-900 min-h-screen pt-4 md:pt-10 pb-20 overflow-hidden relative">
+		<!-- Background decorative elements -->
+		<div class="absolute top-0 right-0 -mr-40 -mt-40 w-96 h-96 rounded-full bg-indigo-400/20 dark:bg-indigo-600/10 blur-3xl pointer-events-none"></div>
+		<div class="absolute bottom-40 left-0 -ml-40 w-80 h-80 rounded-full bg-violet-400/10 dark:bg-violet-600/10 blur-3xl pointer-events-none"></div>
+
+		<main class="max-w-[1240px] mx-auto px-6 relative z-10">
+			<!-- Header Action -->
+			<div class="mb-8">
+				<a href={`/${lang}/`} class="inline-flex items-center text-sm font-semibold text-indigo-600 dark:text-indigo-400 hover:text-indigo-800 dark:hover:text-indigo-300 transition-colors">
+					<svg class="w-4 h-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>
+					Back to SelaLink Studio
+				</a>
+			</div>
+
+			<!-- Hero Section - Spatial Design Integration -->
+			<section class="flex flex-col lg:flex-row items-center justify-between gap-8 lg:gap-20 mb-12 md:mb-20">
+				<div class="flex-1 space-y-6 md:space-y-8 w-full max-w-2xl lg:max-w-xl z-20 text-center lg:text-left">
+					<!-- Badge -->
+					<div class="inline-flex items-center px-4 py-2 rounded-full bg-indigo-50 dark:bg-indigo-500/10 border border-indigo-200 dark:border-indigo-500/30 shadow-sm mx-auto lg:mx-0 w-max">
+						<div class="flex items-center gap-2">
+							<span class="w-1.5 md:w-2 h-1.5 md:h-2 rounded-full bg-indigo-500 animate-pulse"></span>
+							<span class="text-base leading-none">🔒</span>
+						</div>
+						<div class="w-[1px] h-4 bg-indigo-300 dark:bg-indigo-500/50 mx-3"></div>
+						<span class="font-bold text-indigo-600 dark:text-indigo-400 text-sm tracking-tight">{t('app.logself.supported')}</span>
+					</div>
+					<h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 dark:text-white leading-[1.1] tracking-tight whitespace-pre-line mx-auto lg:mx-0">
+						{t('ls.hero.title')}
+					</h1>
+					<p class="text-lg md:text-xl text-slate-600 dark:text-slate-400 leading-relaxed font-medium mx-auto lg:mx-0">
+						{t('app.logself.desc')}
+					</p>
+					
+					<div class="flex flex-col sm:flex-row gap-3 md:gap-4 pt-4 md:pt-6 justify-center lg:justify-start w-full relative z-20">
+						<button id="lsIosDownloadBtn" class="flex items-center justify-center gap-3 bg-slate-200/50 dark:bg-slate-800/50 border border-slate-300 dark:border-slate-700 text-slate-500 dark:text-slate-400 px-6 md:px-8 py-3 md:py-4 rounded-xl md:rounded-2xl font-bold text-base md:text-lg opacity-70 cursor-pointer w-full sm:w-auto transition-all duration-300 hover:scale-[1.01]">
+							<svg class="w-5 h-5 md:w-6 md:h-6 opacity-70" fill="currentColor" viewBox="0 0 24 24"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.253 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.04 2.26-.79 3.59-.76 2.6.04 4.19 1.45 4.8 1.8-3.1 1.76-2.58 5.86.37 6.94-1.04 2.45-2.51 3.5-3.84 4.19zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+							<div class="flex flex-col items-start leading-tight">
+								<span class="text-xs text-slate-400 font-medium uppercase tracking-wider">App Store</span>
+								<span class="text-sm font-bold text-slate-500">Coming Soon</span>
+							</div>
+						</button>
+						
+						<a href={`https://play.google.com/store/apps/details?id=com.selalink.logself&hl=${lang}`} target="_blank" rel="noopener noreferrer" class="group/btn flex items-center justify-center gap-3 bg-indigo-600 hover:bg-indigo-500 text-white px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer shadow-lg shadow-indigo-600/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 w-full sm:w-auto">
+							<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/></svg>
+							<div class="flex flex-col items-start leading-tight">
+								<span class="text-xs text-indigo-200 font-medium uppercase tracking-wider">Google Play</span>
+								<span class="text-sm font-bold text-white">{t('ls.hero.cta')}</span>
+							</div>
+						</a>
+					</div>
+				</div>
+
+				<!-- Premium Interactive CSS Mockup (Saves having missing image assets) -->
+				<div class="flex-1 w-full h-auto lg:h-[550px] relative flex flex-col items-center justify-center perspective-[1200px] mt-12 lg:mt-0 z-10">
+					<!-- Main Device Canvas -->
+					<div class="w-[280px] sm:w-[310px] h-[520px] rounded-[2.5rem] bg-slate-900 border-4 border-slate-800 shadow-2xl relative p-3 overflow-hidden flex flex-col justify-between transform rotate-2 hover:rotate-0 transition-transform duration-700">
+						<!-- Speaker & Camera Notch -->
+						<div class="absolute top-3 left-1/2 -translate-x-1/2 w-32 h-5 bg-slate-800 rounded-full z-20 flex items-center justify-end px-4">
+							<div class="w-2.5 h-2.5 rounded-full bg-slate-900"></div>
+						</div>
+						
+						<!-- Internal Screen Layout -->
+						<div class="w-full h-full bg-slate-950 rounded-[2rem] p-4 flex flex-col justify-between pt-8 text-left font-sans">
+							<!-- Header -->
+							<div class="flex justify-between items-center mb-4">
+								<div class="flex flex-col">
+									<span class="text-[10px] text-slate-500 uppercase tracking-widest font-semibold">Today</span>
+									<span class="text-sm font-bold text-white">Sunday, June 28</span>
+								</div>
+								<div class="w-8 h-8 rounded-full bg-indigo-500/10 border border-indigo-500/30 flex items-center justify-center text-xs">👤</div>
+							</div>
+							
+							<!-- Interactive Log Cards -->
+							<div class="flex-1 space-y-3 overflow-hidden">
+								<!-- Card 1 -->
+								<div class="p-3 rounded-xl bg-slate-900/90 border border-indigo-500/20 shadow-sm flex flex-col gap-2">
+									<div class="flex justify-between items-center">
+										<span class="text-[10px] bg-indigo-500/20 text-indigo-300 px-2 py-0.5 rounded-full font-bold">#thought</span>
+										<span class="text-[10px] text-slate-500">18:53</span>
+									</div>
+									<p class="text-xs text-slate-200 font-light leading-relaxed">
+										Decided to launch logSelf today. Encrypted all local files. Feels incredibly secure. 🔒
+									</p>
+								</div>
+
+								<!-- Card 2 -->
+								<div class="p-3 rounded-xl bg-slate-900/90 border border-violet-500/20 shadow-sm flex flex-col gap-2">
+									<div class="flex justify-between items-center">
+										<span class="text-[10px] bg-violet-500/20 text-violet-300 px-2 py-0.5 rounded-full font-bold">#idea</span>
+										<span class="text-[10px] text-slate-500">15:10</span>
+									</div>
+									<p class="text-xs text-slate-200 font-light leading-relaxed">
+										Build a secure, client-side web link scraper. Everything done in-app, zero data leakage.
+									</p>
+									<!-- Scrap Preview Mock -->
+									<div class="p-2 rounded-lg bg-slate-950/80 border border-slate-800 flex items-center gap-2">
+										<div class="w-8 h-8 rounded bg-indigo-500/10 flex items-center justify-center text-xs">🌐</div>
+										<div class="flex flex-col">
+											<span class="text-[9px] font-bold text-slate-300 truncate w-36">SelaLink Studio</span>
+											<span class="text-[8px] text-slate-500">selalink.net</span>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<!-- Bottom Tabbar Mock -->
+							<div class="h-12 border-t border-slate-900 mt-4 flex justify-around items-center text-slate-600 text-xs">
+								<span class="text-indigo-400">✏️</span>
+								<span>🔍</span>
+								<span>📊</span>
+								<span>⚙️</span>
+							</div>
+						</div>
+					</div>
+					
+					<!-- Floating Glass Badge: SQLCipher Encryption -->
+					<div class="absolute -left-6 bottom-16 bg-white/85 dark:bg-slate-800/85 backdrop-blur-md px-4 py-3 rounded-2xl border border-slate-100 dark:border-slate-700 shadow-xl flex items-center gap-3 transform -rotate-3 z-20">
+						<div class="w-8 h-8 rounded-full bg-emerald-100 dark:bg-emerald-500/20 flex items-center justify-center text-emerald-600 dark:text-emerald-400 text-sm">✓</div>
+						<div class="flex flex-col text-left">
+							<span class="text-xs font-black text-slate-800 dark:text-white">SQLCipher Active</span>
+							<span class="text-[10px] text-slate-500 dark:text-slate-400">Military-grade Encryption</span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Feature Bento Grid Section -->
+			<section class="mb-16 md:mb-24">
+				<div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
+					
+					<!-- Feature 1: SQLCipher Local Security -->
+					<div class="footprint-card neon-accent-card flex flex-col pt-8 md:pt-12 px-6 md:px-10 items-center rounded-[2rem] md:rounded-[3rem] relative overflow-hidden backdrop-blur-xl group">
+						<div class="absolute inset-0 bg-gradient-to-b from-indigo-50/50 to-transparent dark:from-indigo-900/15 dark:to-transparent pointer-events-none"></div>
+						<div class="absolute -top-32 -left-32 w-96 h-96 bg-indigo-400/20 dark:bg-indigo-500/10 rounded-full blur-[100px] pointer-events-none group-hover:scale-110 transition-transform duration-1000"></div>
+						
+						<!-- Lock Icon -->
+						<div class="w-12 h-12 md:w-16 md:h-16 bg-gradient-to-br from-indigo-100 to-indigo-50 dark:from-indigo-500/20 dark:to-indigo-500/5 text-indigo-600 dark:text-indigo-400 rounded-full flex items-center justify-center mb-6 md:mb-8 self-start border border-indigo-200 dark:border-indigo-500/20 shadow-inner z-10 transition-transform duration-500 group-hover:rotate-12 group-hover:scale-110">
+							<svg class="w-6 h-6 md:w-8 md:h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/></svg>
+						</div>
+						
+						<!-- Card Copy -->
+						<div class="flex-1 w-full flex flex-col items-start z-10 min-h-[160px] md:min-h-0">
+							<h3 class="text-2xl md:text-3xl font-black text-slate-900 dark:text-white mb-3 md:mb-4 tracking-tight group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors drop-shadow-sm">{t('ls.feature1.title')}</h3>
+							<p class="text-base md:text-lg text-slate-600 dark:text-slate-400 leading-relaxed font-medium mb-8 md:mb-12 max-w-sm">{t('ls.feature1.desc')}</p>
+						</div>
+						
+						<!-- Local Database Graphic -->
+						<div class="w-full mt-auto relative rounded-t-2xl overflow-hidden border border-slate-200 dark:border-slate-700 bg-slate-900 p-6 flex flex-col gap-3 text-left font-mono text-[10px] text-indigo-300">
+							<div class="flex items-center gap-2 border-b border-slate-800 pb-2">
+								<span class="w-3 h-3 rounded-full bg-red-500"></span>
+								<span class="w-3 h-3 rounded-full bg-yellow-500"></span>
+								<span class="w-3 h-3 rounded-full bg-green-500"></span>
+								<span class="text-slate-500 ml-2">local_database.db (SQLCipher encrypted)</span>
+							</div>
+							<div>
+								<span class="text-slate-500"># PRAGMA key = '**********';</span><br>
+								<span class="text-indigo-400">SELECT</span> * <span class="text-indigo-400">FROM</span> personal_logs <span class="text-indigo-400">WHERE</span> tag = <span class="text-emerald-400">'#thought'</span>;<br>
+								<span class="text-slate-500">&gt;&gt; [Encrypted Payload: 0x9F82A3BC...]</span>
+							</div>
+						</div>
+					</div>
+
+					<!-- Feature 2: Rich Media & Web Scraping -->
+					<div class="footprint-card flex flex-col pt-8 md:pt-12 px-6 md:px-10 items-center bg-gradient-to-b from-indigo-900 to-slate-950 rounded-[2rem] md:rounded-[3rem] border border-indigo-500/30 shadow-2xl text-white relative overflow-hidden group">
+						<div class="absolute -bottom-10 -right-10 w-64 h-64 bg-indigo-500/20 rounded-full blur-[80px] pointer-events-none group-hover:scale-125 transition-transform duration-[1.5s]"></div>
+						
+						<!-- Media Icon -->
+						<div class="w-12 h-12 md:w-16 md:h-16 bg-white/10 text-white rounded-full flex items-center justify-center mb-6 md:mb-8 self-start backdrop-blur-md border border-white/20 shadow-[0_0_20px_rgba(99,102,241,0.2)] z-10 transition-transform duration-500 group-hover:scale-110">
+							<svg class="w-6 h-6 md:w-8 md:h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+						</div>
+						
+						<!-- Card Copy -->
+						<div class="flex-1 w-full flex flex-col items-start z-10 min-h-[160px] md:min-h-0">
+							<h3 class="text-2xl md:text-3xl font-black mb-3 md:mb-4 tracking-tight drop-shadow-md">{t('ls.feature2.title')}</h3>
+							<p class="text-base md:text-lg text-indigo-100/90 leading-relaxed font-medium mb-8 md:mb-12 max-w-sm drop-shadow-sm">{t('ls.feature2.desc')}</p>
+						</div>
+						
+						<!-- Local Scraping Animation Box -->
+						<div class="w-full mt-auto relative rounded-t-2xl overflow-hidden bg-slate-900 border border-indigo-500/20 p-6 flex flex-col gap-3 text-left">
+							<span class="text-xs font-bold text-indigo-300">Smart Link Scraping Pipeline</span>
+							<div class="flex items-center gap-3 bg-slate-950 p-3 rounded-xl border border-slate-800">
+								<span class="text-xl">🔗</span>
+								<div class="flex-1 min-w-0">
+									<p class="text-[10px] text-indigo-400 font-mono truncate">https://tiktok.com/v/123456...</p>
+									<div class="h-1 w-full bg-indigo-500/20 rounded mt-1.5 overflow-hidden">
+										<div class="h-full bg-indigo-500 animate-pulse w-2/3"></div>
+									</div>
+								</div>
+								<span class="text-[9px] bg-indigo-500/20 text-indigo-300 px-2 py-0.5 rounded font-mono">Scraping...</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Store Legal Links Section -->
+			<section class="mt-12 pt-8 border-t border-slate-200 dark:border-slate-800 text-center text-xs text-slate-500 dark:text-slate-400 space-x-6">
+				<a href={`/${lang}/apps/logself/privacy`} class="hover:text-indigo-500 dark:hover:text-indigo-400 transition-colors font-semibold">{isKo ? '개인정보처리방침' : 'Privacy Policy'}</a>
+				<span class="text-slate-300 dark:text-slate-700">•</span>
+				<a href={`/${lang}/apps/logself/terms`} class="hover:text-indigo-500 dark:hover:text-indigo-400 transition-colors font-semibold">{isKo ? '서비스 이용약관' : 'Terms of Service'}</a>
+				<span class="text-slate-300 dark:text-slate-700">•</span>
+				<a href={`/${lang}/apps/logself/data-deletion`} class="hover:text-indigo-500 dark:hover:text-indigo-400 transition-colors font-semibold">{isKo ? '데이터 삭제 안내' : 'Data Deletion'}</a>
+			</section>
+		</main>
+	</div>
+
+	<!-- Toast Notification Popover -->
+	<div id="lsToastNotification" class="fixed bottom-6 right-6 z-50 bg-slate-900/95 dark:bg-white/95 text-white dark:text-slate-900 px-6 py-4 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.3)] border border-white/10 dark:border-slate-200/50 backdrop-blur-xl flex items-center gap-3 transform translate-y-20 opacity-0 invisible transition-all duration-500 ease-out">
+		<span class="text-xl">🍏</span>
+		<div class="flex flex-col text-left font-sans">
+			<span class="text-sm font-bold">{toastTitle}</span>
+			<span class="text-xs text-slate-400 dark:text-slate-600 mt-0.5">{toastDesc}</span>
+		</div>
+	</div>
+
+	<script>
+		const iosBtn = document.getElementById('lsIosDownloadBtn');
+		const toast = document.getElementById('lsToastNotification');
+		
+		if (iosBtn && toast) {
+			iosBtn.addEventListener('click', (e) => {
+				e.preventDefault();
+				// Show toast
+				toast.classList.remove('translate-y-20', 'opacity-0', 'invisible');
+				toast.classList.add('translate-y-0', 'opacity-100', 'visible');
+				
+				// Hide after 3.5s
+				setTimeout(() => {
+					toast.classList.remove('translate-y-0', 'opacity-100', 'visible');
+					toast.classList.add('translate-y-20', 'opacity-0', 'invisible');
+				}, 3500);
+			});
+		}
+	</script>
+</Layout>

@@ -12,7 +12,7 @@ export interface Props {
 	ogType?: 'website' | 'software';
 	canonicalUrl?: string;
 	robots?: string;
-	appId?: 'buildself' | 'freshself' | 'storeself' | 'moodself' | 'studio';
+	appId?: 'buildself' | 'freshself' | 'storeself' | 'moodself' | 'studio' | 'logself';
 	structuredData?: Record<string, any> | Record<string, any>[];
 	keywords?: string;
 }
@@ -38,14 +38,16 @@ const themeColors = {
 	buildself: '#0D9488',
 	freshself: '#8B5CF6',
 	storeself: '#10B981', // Pistachio Mint
-	moodself: '#CA8A04'
+	moodself: '#CA8A04',
+	logself: '#6366F1'
 };
 const themeFonts = {
 	studio: "'Space Grotesk', 'Pretendard', sans-serif",
 	buildself: "'Outfit', 'Space Grotesk', 'Pretendard', sans-serif",
 	freshself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', sans-serif",
 	storeself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', sans-serif",
-	moodself: "'Bodoni Moda', 'Pretendard', serif"
+	moodself: "'Bodoni Moda', 'Pretendard', serif",
+	logself: "'Outfit', 'Space Grotesk', 'Pretendard', sans-serif"
 };
 
 const currentAccent = themeColors[appId];
@@ -91,6 +93,7 @@ const t = useTranslations(lang as any);
 			const isFreshSelf = (Astro.url.pathname.includes('/apps/freshself') && !Astro.url.pathname.includes('/apps/storeself')) || appId === 'freshself';
 			const isStoreSelf = Astro.url.pathname.includes('/apps/storeself') || appId === 'storeself';
 			const isMoodSelf = Astro.url.pathname.includes('/apps/moodself') || appId === 'moodself';
+			const isLogSelf = Astro.url.pathname.includes('/apps/logself') || appId === 'logself';
 
 			let fallbackKeywords = keywords;
 			if (!fallbackKeywords) {
@@ -98,6 +101,7 @@ const t = useTranslations(lang as any);
 				else if (isFreshSelf) fallbackKeywords = t('app.freshself.meta.keywords');
 				else if (isStoreSelf) fallbackKeywords = t('app.storeself.meta.keywords');
 				else if (isMoodSelf) fallbackKeywords = t('app.moodself.meta.keywords');
+				else if (isLogSelf) fallbackKeywords = t('app.logself.meta.keywords');
 				else fallbackKeywords = t('meta.keywords');
 			}
 			return <meta name="keywords" content={fallbackKeywords} />;
@@ -151,9 +155,10 @@ const t = useTranslations(lang as any);
 			const isFreshSelf = (Astro.url.pathname.includes('/apps/freshself') && !Astro.url.pathname.includes('/apps/storeself')) || appId === 'freshself';
 			const isStoreSelf = Astro.url.pathname.includes('/apps/storeself') || appId === 'storeself';
 			const isMoodSelf = Astro.url.pathname.includes('/apps/moodself') || appId === 'moodself';
+			const isLogSelf = Astro.url.pathname.includes('/apps/logself') || appId === 'logself';
 			
-			const appName = isBuildSelf ? "BuildSelf" : (isMoodSelf ? "MoodSelf" : (isStoreSelf ? "StoreSelf" : (isFreshSelf ? "FreshSelf" : "SelaLink Studio")));
-			const appCategory = isStoreSelf ? "LifestyleApplication" : (isMoodSelf || isFreshSelf ? "LifestyleApplication" : "HealthApplication");
+			const appName = isBuildSelf ? "BuildSelf" : (isMoodSelf ? "MoodSelf" : (isStoreSelf ? "StoreSelf" : (isFreshSelf ? "FreshSelf" : (isLogSelf ? "logSelf" : "SelaLink Studio"))));
+			const appCategory = isStoreSelf ? "LifestyleApplication" : (isMoodSelf || isFreshSelf || isLogSelf ? "LifestyleApplication" : "HealthApplication");
 			
 			const rawUrl = canonicalUrl || Astro.url.href;
 			const formattedUrl = rawUrl.endsWith('/') ? rawUrl : rawUrl + '/';
@@ -163,6 +168,8 @@ const t = useTranslations(lang as any);
 				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.buildself");
 			} else if (isFreshSelf || isStoreSelf) {
 				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.freshself");
+			} else if (isLogSelf) {
+				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.logself");
 			} else {
 				// 메인/기타 페이지일 때 공식 유튜브 채널 바인딩
 				sameAsLinks.push("https://www.youtube.com/channel/UChmmgdbcjP5PnVE-WGUspgA");
@@ -364,6 +371,9 @@ const t = useTranslations(lang as any);
 				)}
 				{appId === 'moodself' && (
 					<span class="text-amber-600 dark:text-[#CA8A04] font-serif font-medium ml-1.5 text-xl tracking-wide animate-fade-in" style="font-family: 'Bodoni Moda', serif;">MoodSelf</span>
+				)}
+				{appId === 'logself' && (
+					<span class="text-indigo-600 dark:text-indigo-400 font-extrabold ml-1.5 font-outfit text-xl tracking-tight animate-fade-in">logSelf</span>
 				)}
 			</a>
 			<div class="flex items-center gap-6">

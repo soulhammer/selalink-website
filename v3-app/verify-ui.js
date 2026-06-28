@@ -63,6 +63,15 @@ async function run() {
       const buildScreenshotPath = path.join(outputDir, `auto_buildself_${vp.name}.png`);
       await page.screenshot({ path: buildScreenshotPath });
       console.log(`BuildSelf 상세 페이지 스크린샷 저장 완료: ${buildScreenshotPath}`);
+
+      // 4. logSelf 상세 페이지 검증
+      console.log(`logSelf 상세 페이지 접속 중... (http://localhost:4321/ko/apps/logself/)`);
+      await page.goto('http://localhost:4321/ko/apps/logself/', { waitUntil: 'networkidle0' });
+      await new Promise(resolve => setTimeout(resolve, 1000));
+
+      const logselfScreenshotPath = path.join(outputDir, `auto_logself_${vp.name}.png`);
+      await page.screenshot({ path: logselfScreenshotPath });
+      console.log(`logSelf 상세 페이지 스크린샷 저장 완료: ${logselfScreenshotPath}`);
     }
     
     console.log(`\n모든 뷰포트 검증 완료! 브라우저를 종료합니다.`);
