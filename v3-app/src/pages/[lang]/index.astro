@@ -109,6 +109,50 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 				<div class="absolute -bottom-32 -right-32 w-[600px] h-[600px] bg-indigo-300/20 dark:bg-indigo-700/20 blur-[120px] rounded-full group-hover:bg-indigo-400/30 dark:group-hover:bg-indigo-500/20 transition-colors duration-700 z-0 pointer-events-none"></div>
 			</a>
 
+			<!-- BuildSelf Card (Large Spatial Canvas) -->
+			<a href={`/${lang}/apps/buildself/`} aria-label={t('app.buildself.title')} class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.2);">
+				<div class="bento-glow top-0 left-0"></div>
+				
+				<!-- Top Content (Z-20) -->
+				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
+					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold mb-4 md:mb-6 border border-emerald-500/20 shadow-sm backdrop-blur-md">
+						<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.buildself.status')}
+					</div>
+					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-3">
+						<img src="/images/buildself/icon.png" alt="BuildSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-emerald-500/10" />
+						{t('app.buildself.title')}
+					</h2>
+					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">{t('app.buildself.desc')}</p>
+				</div>
+                
+				<!-- Spatial 3D Collage (Active Grid - Z-10) -->
+				<div class="absolute bottom-[-15%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-15%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[55%] sm:w-[45%] md:w-[70%] lg:w-[65%] h-[45%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-45 group-hover:opacity-100 transition-all duration-700">
+					<!-- Back Left Image -->
+					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-50 sm:opacity-60 dark:opacity-40">
+						<img src="/assets/images/apps/buildself/2_buildself_phone_screen.jpeg" alt="BuildSelf Habit List" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
+					</div>
+					<!-- Back Right Image -->
+					<div class="absolute right-[5%] sm:right-[0%] bottom-[25%] w-[50%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-2xl transform rotate-12 translate-y-2 group-hover:translate-x-4 group-hover:-translate-y-3 lg:group-hover:-translate-y-6 group-hover:rotate-16 transition-all duration-700 opacity-70 lg:opacity-80 dark:opacity-60">
+						<img src="/assets/images/apps/buildself/4_buildself_phone_screen.jpeg" alt="BuildSelf Analytics" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
+					</div>
+					<!-- Front Main Image -->
+					<div class="relative w-[65%] sm:w-[55%] mb-2 sm:mb-8 mr-6 sm:mr-12 rounded-[1.5rem] lg:rounded-[2rem] p-1.5 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.3)] dark:shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)] transform rotate-[-4deg] group-hover:rotate-0 group-hover:scale-[1.03] lg:group-hover:scale-105 group-hover:-translate-y-2 lg:group-hover:-translate-y-4 transition-all duration-700 z-20 mx-auto sm:mx-0">
+						<img src="/assets/images/apps/buildself/1_buildself_phone_screen.jpeg" alt="BuildSelf Main UI" class="w-full h-auto rounded-[1.3rem] lg:rounded-[1.7rem] shadow-inner object-cover" loading="eager" />
+					</div>
+				</div>
+
+				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
+					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+						{t('app.buildself.supported')}
+					</div>
+					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
+						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+					</div>
+				</div>
+				<!-- Background Gradient Effect -->
+				<div class="absolute -bottom-32 -right-32 w-[600px] h-[600px] bg-emerald-300/20 dark:bg-emerald-700/20 blur-[120px] rounded-full group-hover:bg-emerald-400/30 dark:group-hover:bg-emerald-500/20 transition-colors duration-700 z-0 pointer-events-none"></div>
+			</a>
+
 			<!-- StoreSelf Card (Free Web Utility) -->
 			<a href={`/${lang}/apps/storeself/`} aria-label={t('app.storeself.title')} class="bento-card col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.25);">
 				<div class="bento-glow top-0 right-0"></div>
@@ -152,50 +196,6 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 					</div>
 				</div>
 				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[350px] h-[350px] bg-emerald-400/15 dark:bg-emerald-600/15 blur-[90px] rounded-full group-hover:bg-emerald-500/25 dark:group-hover:bg-emerald-500/20 transition-colors duration-700 pointer-events-none z-0"></div>
-			</a>
-
-			<!-- BuildSelf Card (Large Spatial Canvas) -->
-			<a href={`/${lang}/apps/buildself/`} aria-label={t('app.buildself.title')} class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.2);">
-				<div class="bento-glow top-0 left-0"></div>
-				
-				<!-- Top Content (Z-20) -->
-				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
-					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold mb-4 md:mb-6 border border-emerald-500/20 shadow-sm backdrop-blur-md">
-						<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.buildself.status')}
-					</div>
-					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-3">
-						<img src="/images/buildself/icon.png" alt="BuildSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-emerald-500/10" />
-						{t('app.buildself.title')}
-					</h2>
-					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">{t('app.buildself.desc')}</p>
-				</div>
-                
-				<!-- Spatial 3D Collage (Active Grid - Z-10) -->
-				<div class="absolute bottom-[-15%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-15%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[55%] sm:w-[45%] md:w-[70%] lg:w-[65%] h-[45%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-45 group-hover:opacity-100 transition-all duration-700">
-					<!-- Back Left Image -->
-					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-50 sm:opacity-60 dark:opacity-40">
-						<img src="/assets/images/apps/buildself/2_buildself_phone_screen.jpeg" alt="BuildSelf Habit List" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
-					</div>
-					<!-- Back Right Image -->
-					<div class="absolute right-[5%] sm:right-[0%] bottom-[25%] w-[50%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-2xl transform rotate-12 translate-y-2 group-hover:translate-x-4 group-hover:-translate-y-3 lg:group-hover:-translate-y-6 group-hover:rotate-16 transition-all duration-700 opacity-70 lg:opacity-80 dark:opacity-60">
-						<img src="/assets/images/apps/buildself/4_buildself_phone_screen.jpeg" alt="BuildSelf Analytics" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
-					</div>
-					<!-- Front Main Image -->
-					<div class="relative w-[65%] sm:w-[55%] mb-2 sm:mb-8 mr-6 sm:mr-12 rounded-[1.5rem] lg:rounded-[2rem] p-1.5 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.3)] dark:shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)] transform rotate-[-4deg] group-hover:rotate-0 group-hover:scale-[1.03] lg:group-hover:scale-105 group-hover:-translate-y-2 lg:group-hover:-translate-y-4 transition-all duration-700 z-20 mx-auto sm:mx-0">
-						<img src="/assets/images/apps/buildself/1_buildself_phone_screen.jpeg" alt="BuildSelf Main UI" class="w-full h-auto rounded-[1.3rem] lg:rounded-[1.7rem] shadow-inner object-cover" loading="eager" />
-					</div>
-				</div>
-
-				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
-					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
-						{t('app.buildself.supported')}
-					</div>
-					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
-						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
-					</div>
-				</div>
-				<!-- Background Gradient Effect -->
-				<div class="absolute -bottom-32 -right-32 w-[600px] h-[600px] bg-emerald-300/20 dark:bg-emerald-700/20 blur-[120px] rounded-full group-hover:bg-emerald-400/30 dark:group-hover:bg-emerald-500/20 transition-colors duration-700 z-0 pointer-events-none"></div>
 			</a>
 
 			<!-- MoodSelf Card (Korean Only) -->
