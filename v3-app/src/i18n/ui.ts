@@ -647,6 +647,7 @@ export const ui = {
     'app.storeself.meta.title': 'StoreSelf | 食材保存法＆期限チェッカー Webアプリ',
     'app.storeself.meta.desc': 'StoreSelf Webアプリ：正しい保存方法と期限計算で食品ロスを減らし、スマートに食材を管理しましょう。',
     'app.storeself.status': '無料Webアプリ',
+    'app.storeself.supported': 'Webベースのユーティリティ',
     
     // logSelf App Subpage
     'ls.hero.subtitle': '100%オンデバイス暗号化ライフログ',
@@ -935,6 +936,7 @@ export const ui = {
     'app.storeself.meta.title': 'StoreSelf | 食材保存与保质期查询助手 Web应用',
     'app.storeself.meta.desc': 'StoreSelf Web应用：掌握正确的保存方法以减少食品浪费，更智能地管理您的厨房食材。',
     'app.storeself.status': '免费Web应用',
+    'app.storeself.supported': '网页版实用工具',
     
     // logSelf App Subpage
     'ls.hero.subtitle': '100%设备端加密生活记录',
@@ -1223,6 +1225,7 @@ export const ui = {
     'app.storeself.meta.title': 'StoreSelf | Guía de Conservación & Calculador de Caducidad',
     'app.storeself.meta.desc': 'Aplicación Web StoreSelf: Consulta métodos de conservación y calcula la caducidad al instante para evitar el desperdicio.',
     'app.storeself.status': 'Web App Gratis',
+    'app.storeself.supported': 'Utilidad basada en web',
     
     // logSelf App Subpage
     'ls.hero.subtitle': 'Diario Encriptado 100% en el Dispositivo',
@@ -1511,6 +1514,7 @@ export const ui = {
     'app.storeself.meta.title': 'StoreSelf | Guide de Conservation & Calculateur de D-Day',
     'app.storeself.meta.desc': 'Application Web StoreSelf : Consultez les méthodes de conservation et calculez la fraîcheur de vos aliments pour éviter le gaspillage.',
     'app.storeself.status': 'Web App Gratuite',
+    'app.storeself.supported': 'Utilitaire basé sur le Web',
     
     // logSelf App Subpage
     'ls.hero.subtitle': 'Journal de Vie Chiffré 100% sur l\'Appareil',
@@ -1535,7 +1539,7 @@ export const ui = {
     'fs.bento.body.desc': 'Visualisez la proportion de produits consommés à temps par rapport à ceux gaspillés grâce à un graphique en anneau. Développez des habitudes intelligentes de gestion grâce à l\'analyse du score de gaspillage et du temps de stockage moyen.',
     'fs.bento.body.check1': 'Maximiser la consommation à temps (taux de sauvetage) et réduire les dépenses',
     'fs.bento.body.check2': 'Surveillance transparente et collaborative des espaces partagés en famille ou entre collègues',
-    'fs.bento.check3': 'Notifications push (1, 3 ou 7 jours avant) et retour haptique immersif',
+    'fs.bento.body.check3': 'Notifications push (1, 3 ou 7 jours avant) et retour haptique immersif',
     'fs.shorts.story': 'Courtes Vidéos',
     'fs.shorts.gallery.title': 'Promos de FreshSelf',
     'fs.shorts.gallery.desc': 'Gérez vos dates de péremption plus simplement ! Regardez les vidéos promotionnelles de FreshSelf.',
@@ -1799,6 +1803,7 @@ export const ui = {
     'app.storeself.meta.title': 'StoreSelf | Haltbarkeits- & Vorrats-Ratgeber Web-App',
     'app.storeself.meta.desc': 'StoreSelf Web-App: Vermeiden Sie Lebensmittelverschwendung durch die richtige Lagerung und Haltbarkeitsberechnung.',
     'app.storeself.status': 'Kostenlose Web-App',
+    'app.storeself.supported': 'Webbasiertes Dienstprogramm',
     
     // logSelf App Subpage
     'ls.hero.subtitle': '100% auf dem Gerät verschlüsseltes Tagebuch',
@@ -2087,6 +2092,7 @@ export const ui = {
     'app.storeself.meta.title': 'StoreSelf | Guia de Conservação & Calculador de Frescor',
     'app.storeself.meta.desc': 'Aplicativo Web StoreSelf: Reduza o desperdício de alimentos com guias corretos de armazenamento e cálculos de validade.',
     'app.storeself.status': 'Web App Grátis',
+    'app.storeself.supported': 'Utilitário baseado na web',
     
     // logSelf App Subpage
     'ls.hero.subtitle': 'Diário de Vida Criptografado 100% no Dispositivo',
@@ -2374,6 +2380,7 @@ export const ui = {
     'app.storeself.meta.title': 'StoreSelf | Panduan Penyimpanan & Kalkulator Kesegaran Web',
     'app.storeself.meta.desc': 'Aplikasi Web StoreSelf: Kurangi pemborosan makanan dengan metode penyimpanan yang tepat dan kalkulator kesegaran instan.',
     'app.storeself.status': 'Web App Gratis',
+    'app.storeself.supported': 'Utilitas berbasis web',
     
     // logSelf App Subpage
     'ls.hero.subtitle': 'Jurnal Kehidupan Terenkripsi 100% di Perangkat',
@@ -2408,6 +2415,9 @@ export const ui = {
     'blog.heading': 'Blog SelaLink',
     'blog.desc': 'Temukan trik kehidupan sehari-hari, cara cerdas menyimpan makanan, dan panduan kebiasaan dari SelaLink.',
     'blog.empty': 'Tidak ada artikel blog yang ditemukan untuk bahasa ini.',
+    'blog.search.placeholder': 'Cari bahan...',
+    'blog.sort.latest': 'Terbaru',
+    'blog.sort.oldest': 'Terlama',
     
     'bs.hero.subtitle': 'Jejak langkah Anda penting.',
     'bs.hero.title': 'Hancurkan siklus menyerah dengan pelacak kebiasaan yang kuat. Anda hanya butuh alat yang tepat.',
