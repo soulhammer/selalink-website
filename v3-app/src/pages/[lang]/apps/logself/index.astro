@@ -367,15 +367,32 @@ const toastDesc = isKo ? 'iOS 버전은 현재 준비 중입니다.' : 'iOS vers
 						<h2 class="text-2xl md:text-4xl font-black tracking-tight">{t('ls.themes.title')}</h2>
 						<p class="text-sm md:text-base text-indigo-200/90 leading-relaxed font-medium">{t('ls.themes.desc')}</p>
 					</div>
-					<div class="flex flex-wrap gap-2 justify-start md:justify-end max-w-md">
+					<div class="flex flex-wrap gap-4 md:gap-6 justify-start md:justify-end items-center max-w-lg w-full mt-4 md:mt-0">
 						{([
-							{ key: 'default' },
-							{ key: 'color' },
-							{ key: 'gradient' },
-							{ key: 'template' },
-							{ key: 'image' }
+							{ key: 'default', style: 'bg-[#0b0c10] border-indigo-500/60 shadow-[0_0_15px_rgba(99,102,241,0.3)]', preview: 'w-5 h-5 rounded-full bg-indigo-500/20 border border-indigo-500/40', bgImage: undefined, isImage: false },
+							{ key: 'color', style: 'bg-rose-500 border-white/20 shadow-md', preview: undefined, bgImage: undefined, isImage: false },
+							{ key: 'gradient', style: 'bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 border-white/20 shadow-md', preview: undefined, bgImage: undefined, isImage: false },
+							{ key: 'template', style: 'bg-cover bg-center border-white/20 shadow-md', bgImage: '/images/logself/templates/temp_sunset.webp', preview: undefined, isImage: false },
+							{ key: 'image', style: 'bg-cover bg-center border-white/20 shadow-md relative', bgImage: '/images/logself/templates/temp_cozy.webp', preview: undefined, isImage: true }
 						] as const).map((theme) => (
-							<span class="px-4 py-2 rounded-xl bg-white/10 border border-white/10 backdrop-blur-md text-xs font-bold shadow-sm">{t(`ls.themes.${theme.key}` as any)}</span>
+							<div class="flex flex-col items-center group/chip cursor-pointer">
+								<div 
+									class={`w-14 h-14 sm:w-16 sm:h-16 rounded-full border-2 ${theme.style} flex items-center justify-center transition-all duration-300 group-hover/chip:scale-110 group-hover/chip:-translate-y-1 group-hover/chip:border-white`}
+									style={theme.bgImage ? `background-image: url('${theme.bgImage}')` : undefined}
+								>
+									{theme.preview && <div class={theme.preview} />}
+									{theme.isImage && (
+										<div class="absolute inset-0 bg-black/30 rounded-full flex items-center justify-center">
+											<svg class="w-5 h-5 text-white/95 drop-shadow-sm" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+												<path stroke-linecap="round" stroke-linejoin="round" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+											</svg>
+										</div>
+									)}
+								</div>
+								<span class="text-[10px] sm:text-xs font-bold text-indigo-250 dark:text-indigo-200 mt-2 group-hover/chip:text-white transition-colors">
+									{t(`ls.themes.${theme.key}` as any)}
+								</span>
+							</div>
 						))}
 					</div>
 				</div>
