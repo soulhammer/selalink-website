@@ -131,6 +131,9 @@ const t = useTranslations(lang as any);
 		<!-- Canonical URL -->
 		<link rel="canonical" href={canonicalUrl || (Astro.url.href.endsWith('/') ? Astro.url.href : Astro.url.href + '/')} />
 		
+		<!-- Sitemap Link -->
+		<link rel="sitemap" type="application/xml" href="/sitemap-index.xml" />
+		
 		<!-- Hreflang SEO for Global Reach -->
 		{Object.keys(languages).map((code) => {
 			if (supportedLanguages && !supportedLanguages.includes(code)) return null;

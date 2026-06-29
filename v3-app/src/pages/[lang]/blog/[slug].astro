@@ -56,15 +56,33 @@ const structuredDataList: any[] = [
   }
 ];
 
-// 포스트 프론트매터에 정의된 steps가 있는 경우 HowTo 구조화 스키마 동적 생성
-if (post.data.steps && post.data.steps.length > 0) {
+// 포스트 프론트매터에 정의된 steps가 없으나, 본문 HTML 구조에서 단계를 추출할 수 있는 경우 (예: ko 마스터 원본)
+let activeSteps = post.data.steps;
+if (!activeSteps || activeSteps.length === 0) {
+  const stepsParsed: any[] = [];
+  const rawContent = post.body || '';
+  const stepRegex = /STEP\s*(\d+)[^]*?<h4[^>]*>([\s\S]*?)<\/h4>[^]*?<p[^>]*>([\s\S]*?)<\/p>/g;
+  let match;
+  while ((match = stepRegex.exec(rawContent)) !== null) {
+    stepsParsed.push({
+      name: match[2].replace(/<[^>]*>/g, '').trim(),
+      text: match[3].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim()
+    });
+  }
+  if (stepsParsed.length > 0) {
+    activeSteps = stepsParsed;
+  }
+}
+
+// 파싱되었거나 정의된 steps가 있는 경우 HowTo 구조화 스키마 동적 생성
+if (activeSteps && activeSteps.length > 0) {
   structuredDataList.push({
     "@context": "https://schema.org",
     "@type": "HowTo",
     "name": title,
     "description": description,
     "image": heroImage ? new URL(heroImage, Astro.site).href : undefined,
-    "step": post.data.steps.map((step: any, idx: number) => ({
+    "step": activeSteps.map((step: any, idx: number) => ({
       "@type": "HowToStep",
       "name": step.name,
       "text": step.text,
