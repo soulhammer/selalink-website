@@ -233,23 +233,27 @@ const toastDesc = t('app.toast.ios.desc');
 				</div>
 				<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
 					{([
-						{ nameKey: 'bs.mentor.lincoln.full', roleKey: 'bs.mentor.lincoln.role', avatar: '/images/buildself/mentors/lincoln.webp', quoteKey: 'bs.mentors_dialogue.lincoln', color: 'from-amber-500/10 to-amber-500/5 hover:border-amber-500/30' },
-						{ nameKey: 'bs.mentor.franklin.full', roleKey: 'bs.mentor.franklin.role', avatar: '/images/buildself/mentors/franklin.webp', quoteKey: 'bs.mentors_dialogue.franklin', color: 'from-teal-500/10 to-teal-500/5 hover:border-teal-500/30' },
-						{ nameKey: 'bs.mentor.nightingale.full', roleKey: 'bs.mentor.nightingale.role', avatar: '/images/buildself/mentors/nightingale.webp', quoteKey: 'bs.mentors_dialogue.nightingale', color: 'from-rose-500/10 to-rose-500/5 hover:border-rose-500/30' },
-						{ nameKey: 'bs.mentor.einstein.full', roleKey: 'bs.mentor.einstein.role', avatar: '/images/buildself/mentors/einstein.webp', quoteKey: 'bs.mentors_dialogue.einstein', color: 'from-indigo-500/10 to-indigo-500/5 hover:border-indigo-500/30' }
+						{ nameKey: 'bs.mentor.lincoln.full', roleKey: 'bs.mentor.lincoln.role', lifespan: '1809 - 1865', avatar: '/images/buildself/mentors/lincoln.webp', quoteKey: 'bs.mentors_dialogue.lincoln', color: 'from-amber-500/10 to-amber-500/5 hover:border-amber-500/35 hover:shadow-[0_0_30px_rgba(245,158,11,0.18)]' },
+						{ nameKey: 'bs.mentor.franklin.full', roleKey: 'bs.mentor.franklin.role', lifespan: '1706 - 1790', avatar: '/images/buildself/mentors/franklin.webp', quoteKey: 'bs.mentors_dialogue.franklin', color: 'from-teal-500/10 to-teal-500/5 hover:border-teal-500/35 hover:shadow-[0_0_30px_rgba(20,184,166,0.18)]' },
+						{ nameKey: 'bs.mentor.nightingale.full', roleKey: 'bs.mentor.nightingale.role', lifespan: '1820 - 1910', avatar: '/images/buildself/mentors/nightingale.webp', quoteKey: 'bs.mentors_dialogue.nightingale', color: 'from-rose-500/10 to-rose-500/5 hover:border-rose-500/35 hover:shadow-[0_0_30px_rgba(244,63,94,0.18)]' },
+						{ nameKey: 'bs.mentor.einstein.full', roleKey: 'bs.mentor.einstein.role', lifespan: '1879 - 1955', avatar: '/images/buildself/mentors/einstein.webp', quoteKey: 'bs.mentors_dialogue.einstein', color: 'from-indigo-500/10 to-indigo-500/5 hover:border-indigo-500/35 hover:shadow-[0_0_30px_rgba(99,102,241,0.18)]' }
 					] as const).map((mentor) => (
 						<div class={`footprint-card flex flex-col p-6 rounded-3xl bg-gradient-to-b ${mentor.color} border border-slate-200/50 dark:border-slate-800/50 backdrop-blur-xl shadow-sm text-left group hover:scale-[1.03] hover:-translate-y-2 transition-all duration-500`}>
 							<div class="flex items-center gap-4 mb-5">
-								<div class="w-14 h-14 rounded-2xl overflow-hidden border border-slate-200/50 dark:border-slate-700/80 shadow-md">
+								<div class="w-14 h-14 rounded-2xl overflow-hidden border border-slate-200/50 dark:border-slate-700/80 shadow-md flex-shrink-0">
 									<img src={mentor.avatar} alt={t(mentor.nameKey)} class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" loading="lazy" />
 								</div>
 								<div>
 									<h4 class="text-base font-black text-slate-900 dark:text-white leading-snug">{t(mentor.nameKey)}</h4>
-									<p class="text-[10px] text-slate-400 dark:text-slate-500 font-bold uppercase tracking-wider mt-0.5">{t(mentor.roleKey)}</p>
+									<p class="text-[10px] text-slate-400 dark:text-slate-500 font-bold uppercase tracking-wider mt-0.5 flex flex-wrap items-center gap-1">
+										<span>{t(mentor.roleKey)}</span>
+										<span class="text-slate-300 dark:text-slate-700">|</span>
+										<span class="text-slate-500 dark:text-slate-400 font-mono font-medium lowercase tracking-normal">{mentor.lifespan}</span>
+									</p>
 								</div>
 							</div>
 							<div class="relative flex-1 bg-white/60 dark:bg-slate-900/50 rounded-2xl p-4 border border-slate-150/40 dark:border-slate-800/40">
-								<span class="absolute -top-3 left-4 text-2xl text-slate-300 dark:text-slate-750 font-serif">“</span>
+								<span class="absolute -top-3 left-4 text-2xl text-slate-350 dark:text-slate-750 font-serif">“</span>
 								<p class="text-xs sm:text-sm text-slate-650 dark:text-slate-300 font-medium leading-relaxed italic">{t(mentor.quoteKey)}</p>
 							</div>
 						</div>
@@ -267,18 +271,91 @@ const toastDesc = t('app.toast.ios.desc');
 						<p class="text-sm md:text-base text-teal-200/90 leading-relaxed font-medium">{t('bs.gamified.desc')}</p>
 					</div>
 					
-					<!-- Heatmap Grid Graphic (Astro/CSS) -->
-					<div class="flex flex-col gap-2 p-5 rounded-2xl bg-slate-950/70 border border-slate-800/80 shadow-2xl backdrop-blur-md max-w-md w-full">
-						<div class="flex items-center justify-between text-[10px] text-slate-500 font-mono mb-2">
-							<span>Routine Consistency: 94.2%</span>
-							<span class="text-teal-400 font-bold">Level 12 (Lincoln)</span>
+					<!-- Monthly Donut-Ring Footprint Calendar (Astro/CSS) -->
+					<div class="flex flex-col gap-3 p-5 rounded-2xl bg-slate-950/80 border border-slate-800/80 shadow-2xl backdrop-blur-md max-w-sm sm:max-w-md w-full">
+						<!-- Calendar Header -->
+						<div class="flex items-center justify-between border-b border-slate-800/60 pb-3">
+							<div class="flex flex-col text-left">
+								<span class="text-[10px] text-teal-400 font-mono font-bold tracking-wider uppercase">Footprint Calendar</span>
+								<span class="text-sm font-black text-white font-sans mt-0.5">March 2026</span>
+							</div>
+							<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-teal-500/10 border border-teal-500/20 text-[10px] text-teal-300 font-bold">
+								<span class="w-1.5 h-1.5 rounded-full bg-teal-400 animate-pulse"></span>
+								<span>Monthly Score: 92%</span>
+							</div>
 						</div>
-						<div class="grid grid-cols-7 gap-1.5 w-full aspect-[7/2] min-h-[70px]">
-							{Array.from({ length: 28 }).map((_, i) => {
-								const levels = ['bg-slate-850', 'bg-teal-900/60', 'bg-teal-700/80', 'bg-teal-500'];
-								const idx = i % 4 === 0 ? 0 : (i % 3 === 0 ? 1 : (i % 5 === 0 ? 2 : 3));
-								return <div class={`w-full h-full rounded-[3px] ${levels[idx]} border border-white/5 shadow-inner`} />;
-							})}
+
+						<!-- Weekday Headers -->
+						<div class="grid grid-cols-7 gap-1 text-center text-[10px] text-slate-500 font-bold tracking-wider uppercase">
+							<span>Su</span><span>Mo</span><span>Tu</span><span>We</span><span>Th</span><span>Fr</span><span>Sa</span>
+						</div>
+
+						<!-- Calendar Days Grid (March 2026: starts on Sunday, 31 days) -->
+						<div class="grid grid-cols-7 gap-1.5 w-full aspect-[7/5] min-h-[160px]">
+							{(() => {
+								const totalDays = 31;
+								const daysArray = Array.from({ length: 35 }, (_, i) => {
+									const dayNum = i + 1;
+									return totalDays >= dayNum ? dayNum : null;
+								});
+
+								return daysArray.map((day) => {
+									if (!day) {
+										return <div class="w-full h-full opacity-0 pointer-events-none" />;
+									}
+
+									// Define completion rate styles (SVG stroke-dasharray based on 2 * pi * r where r=14, circumference ~ 88)
+									// 0: None, 1: 30%, 2: 65%, 3: 100%
+									const rates = [
+										{ dash: "0 88", color: "text-slate-800/30" }, // 0%
+										{ dash: "26 88", color: "text-amber-500" },   // 30% (Warning/Partial)
+										{ dash: "57 88", color: "text-teal-400/80" }, // 65% (Good)
+										{ dash: "88 88", color: "text-teal-400" }     // 100% (Perfect)
+									];
+									
+									let rateIdx = 3;
+									if (day % 7 === 0) rateIdx = 0;
+									else if (day % 5 === 0) rateIdx = 1;
+									else if (day % 3 === 0) rateIdx = 2;
+									
+									const rate = rates[rateIdx];
+									const isToday = day === 29;
+
+									return (
+										<div class="relative w-full h-full aspect-square flex items-center justify-center rounded-xl bg-slate-900/60 border border-slate-800/40 hover:border-teal-500/50 hover:scale-110 hover:z-10 transition-all duration-300 cursor-pointer group">
+											<!-- SVG Donut Ring -->
+											<svg class="absolute w-[90%] h-[90%] -rotate-90 transform" viewBox="0 0 36 36">
+												{/* Outer ring track */}
+												<circle cx="18" cy="18" r="14" fill="none" stroke="currentColor" stroke-width="3" class="text-slate-850/50 dark:text-slate-850/60" />
+												{/* Progress segment */}
+												{rateIdx > 0 && (
+													<circle 
+														cx="18" 
+														cy="18" 
+														r="14" 
+														fill="none" 
+														stroke="currentColor" 
+														stroke-width="3" 
+														class={`${rate.color} transition-all duration-300 group-hover:drop-shadow-[0_0_4px_rgba(45,212,191,0.5)]`}
+														stroke-dasharray={rate.dash}
+														stroke-linecap="round"
+													/>
+												)}
+											</svg>
+
+											{/* Today Highlight Indicator */}
+											{isToday && (
+												<span class="absolute inset-0.5 rounded-[10px] border border-teal-400/80 animate-pulse pointer-events-none" />
+											)}
+
+											{/* Day Number */}
+											<span class={`relative z-10 text-[10px] sm:text-xs font-mono font-bold ${isToday ? 'text-teal-400' : 'text-slate-350 group-hover:text-white'}`}>
+												{day}
+											</span>
+										</div>
+									);
+								});
+							})()}
 						</div>
 					</div>
 				</div>
