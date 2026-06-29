@@ -953,7 +953,7 @@ export const vegetableIngredients: Ingredient[] = [
         tips: {
           ko: '껍질을 벗기지 않은 상태로 신문지로 싸서 지퍼백에 밀봉 보관하되, 당도가 빠르게 떨어지므로 3일 이내에 드세요.',
           en: 'Store unpeeled, wrap in newspaper, and seal in zipper bags. Sugars drop quickly; consume within 3 days.',
-          ja: '껍질을 벗기지 않은 채 신문지에 싸서 지퍼백에 밀봉한 후 냉장 보관하되 3일 안에 다 드셔야 본연의 단맛을 즐길 수 있습니다.',
+          ja: '皮をむかない状態で新聞紙に包み、ジッパーバッグに入れて密閉し冷蔵保管します。糖度が急速に落ちるため、3日以内にお召し上がりください。',
           zh: '保留外皮，用报纸包裹并密封在密封袋中冷藏。因糖分流失快，请在3天内食用。',
           es: 'Guarde con cáscara wrapped en papel y selle en bolsas. El dulce baja rápido; consuma en 3 días.',
           fr: 'Conservez avec les feuilles enveloppé de journal dans un sachet. Le sucre baisse vite, consommez sous 3 jours.',
@@ -968,7 +968,7 @@ export const vegetableIngredients: Ingredient[] = [
         tips: {
           ko: '구매 즉시 삶거나 찐 후 충분히 식혀서 1개씩 랩으로 밀착 포장해 냉동하세요. 해동 없이 그대로 쪄내면 처음 식감 그대로 드실 수 있습니다.',
           en: 'Steam or boil immediately after purchase, cool completely, wrap individually in wrap, and freeze. Re-steam directly without thawing.',
-          ja: '수확/구매 당일에 즉시 삶거나 찐 후 완전히 식혀 1개씩 랩으로 포장해 냉동하세요. 해동 없이 찜통에 바로 쪄내면 식감이 쫄깃합니다.',
+          ja: '収穫または購入した当日にすぐに茹でるか蒸し、十分に冷ましてから1本ずつラップで密着包装して冷凍してください。解凍せずにそのまま蒸し直すと、もっちりとした食感のままお召し上がりいただけます。',
           zh: '购买后立即煮熟或蒸熟，彻底晾凉，逐个用保鲜膜裹紧冷冻。食用时无需解冻，直接重新蒸一下即可恢复原口感。',
           es: 'Hierva o cueza al vapor tras comprar, enfríe bien, envuelva individual con film y congele. Vuelva a cocer al vapor sin descongelar.',
           fr: 'Cuisez à la vapeur ou à l’eau après achat, refroidissez bien, filmez individuellement et congelez. Recuisez sans décongeler.',

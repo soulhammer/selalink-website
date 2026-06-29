@@ -26,28 +26,28 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 		<AppStories lang={lang} />
 
 		<!-- Bento Grid 2.0 -->
-		<section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-[230px] md:auto-rows-[350px]">
+		<section class="grid grid-cols-1 md:grid-cols-2 gap-6 auto-rows-[230px] md:auto-rows-[350px]">
 			
 			<!-- FreshSelf Card (Horizontal Bento - Z-10) -->
-			<a href={`/${lang}/apps/freshself/`} aria-label={t('app.freshself.title')} class="bento-card col-span-1 md:col-span-3 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.15);">
+			<a href={`/${lang}/apps/freshself/`} aria-label={t('app.freshself.title')} class="bento-card col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.15);">
 				<div class="bento-glow top-0 left-0"></div>
 
 				<!-- Left Side Content (Z-20) -->
-				<div class="z-20 relative max-w-md lg:max-w-xl xl:max-w-2xl space-y-6">
+				<div class="z-20 relative max-w-md lg:max-w-xl xl:max-w-2xl space-y-6 dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-700 dark:bg-purple-500/20 dark:text-purple-400 text-xs md:text-sm font-semibold border border-purple-500/20 shadow-sm backdrop-blur-md">
 						<span class="w-1.5 h-1.5 rounded-full bg-purple-500 animate-pulse"></span>{t('app.freshself.status')}
 					</div>
 					<div class="space-y-4">
 						<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-2 text-slate-900 dark:text-white group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors drop-shadow-sm flex items-center gap-3">
-							<img src="/freshself/invite/icon.png" alt="FreshSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain" />
+							<img src="/freshself/invite/icon.png" alt="FreshSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-purple-500/10" />
 							{t('app.freshself.title')}
 						</h2>
-						<p class="text-base sm:text-lg md:text-xl lg:text-2xl text-slate-700 dark:text-slate-200 font-medium leading-relaxed max-w-xl">{t('app.freshself.desc')}</p>
+						<p class="text-base sm:text-lg md:text-xl lg:text-2xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-xl">{t('app.freshself.desc')}</p>
 					</div>
 				</div>
 
 				<!-- Right Side 3D Spatial Mockup (Z-10) -->
-				<div class="absolute bottom-[-30px] lg:bottom-[-20px] right-[-25px] sm:right-[-15px] lg:right-[5%] w-[50%] sm:w-[40%] lg:w-[35%] h-[220px] sm:h-[260px] lg:h-[95%] z-10 pointer-events-none perspective-[1000px] flex items-end justify-end self-end lg:self-auto mt-8 lg:mt-0 opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700">
+				<div class="absolute bottom-[-30px] lg:bottom-[-20px] right-[-25px] sm:right-[-15px] lg:right-[5%] w-[50%] sm:w-[40%] lg:w-[35%] h-[220px] sm:h-[260px] lg:h-[95%] z-10 pointer-events-none perspective-[1000px] flex items-end justify-end self-end lg:self-auto mt-8 lg:mt-0 opacity-50 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700">
 					<!-- Back Left Image -->
 					<div class="absolute right-[35%] bottom-2 w-[55%] rounded-2xl p-1.5 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700">
 						<img src={`${imgBase}/4_freshself_phone_screen.jpg`} alt="FreshSelf Report Screen" class="w-full h-auto rounded-[1rem] object-cover" loading="lazy" />
@@ -70,40 +70,30 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 			</a>
 
 			<!-- logSelf Card (Encrypted Personal Log) -->
-			<a href={`/${lang}/apps/logself/`} aria-label={t('app.logself.title')} class="bento-card col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(99,102,241,0.2);">
+			<a href={`/${lang}/apps/logself/`} aria-label={t('app.logself.title')} class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(99,102,241,0.2);">
 				<div class="bento-glow top-0 left-0"></div>
 				
 				<!-- Top Content (Z-20) -->
-				<div class="z-20 relative">
+				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-100 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-400 text-xs md:text-sm font-semibold mb-4 md:mb-6 border border-indigo-500/20 shadow-sm backdrop-blur-md">
 						<span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>{t('app.logself.status')}
 					</div>
-					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors drop-shadow-sm">{t('app.logself.title')}</h2>
-					<p class="text-lg md:text-xl lg:text-2xl text-slate-700 dark:text-slate-200 font-medium max-w-sm drop-shadow-md">{t('app.logself.desc')}</p>
+					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors drop-shadow-sm flex items-center gap-3">
+						<img src="/images/logself/icon.png" alt="logSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-indigo-500/10" />
+						{t('app.logself.title')}
+					</h2>
+					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">{t('app.logself.desc')}</p>
 				</div>
                 
-				<!-- Spatial 3D Collage Mock (Z-10) -->
-				<div class="absolute bottom-[-15%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-15%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[55%] sm:w-[45%] md:w-[70%] lg:w-[65%] h-[45%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end">
-					<!-- Back Left Glass Panel -->
-					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] aspect-[3/4] rounded-3xl p-4 bg-white/10 dark:bg-slate-800/30 backdrop-blur-md border border-white/20 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-60 flex flex-col justify-between text-left">
-						<span class="text-[9px] bg-indigo-500/20 text-indigo-300 px-2 py-0.5 rounded-full w-max font-bold">#thought</span>
-						<div class="w-full h-2 bg-slate-200 dark:bg-slate-750 rounded"></div>
-						<div class="w-2/3 h-2 bg-slate-200 dark:bg-slate-750 rounded"></div>
+				<!-- Spatial 3D Collage Mock (Z-10) - Matches FreshSelf/BuildSelf style -->
+				<div class="absolute bottom-[-15%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-12%] sm:right-[-8%] md:right-[-3%] lg:right-[0%] w-[50%] sm:w-[40%] md:w-[65%] lg:w-[60%] h-[45%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-45 group-hover:opacity-100 transition-all duration-700">
+					<!-- Back Left Image (High transparency for readability) -->
+					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-3xl p-1.5 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-45 sm:opacity-55 dark:opacity-30">
+						<img src={`/images/logself/${isKo ? 'ko' : 'en'}/3.jpeg`} alt="logSelf Stats Screen" class="w-full h-auto rounded-[1rem] object-cover" loading="lazy" />
 					</div>
-					<!-- Front Main Glass Panel -->
-					<div class="relative w-[65%] sm:w-[55%] mb-2 sm:mb-8 mr-6 sm:mr-12 aspect-[3/4] rounded-[1.5rem] lg:rounded-[2rem] p-5 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.2)] dark:shadow-[0_20px_60px_-15px_rgba(0,0,0,0.5)] transform rotate-[-4deg] group-hover:rotate-0 group-hover:scale-[1.03] lg:group-hover:scale-105 group-hover:-translate-y-2 lg:group-hover:-translate-y-4 transition-all duration-700 z-20 mx-auto sm:mx-0 flex flex-col justify-between text-left">
-						<div class="flex justify-between items-center">
-							<span class="text-[10px] bg-indigo-500/20 text-indigo-300 px-2 py-0.5 rounded-full font-bold">logSelf</span>
-							<span class="text-[10px] text-slate-400">🔒 Encrypted</span>
-						</div>
-						<div class="space-y-2 my-auto">
-							<div class="w-full h-2.5 bg-indigo-100 dark:bg-indigo-950/40 rounded"></div>
-							<div class="w-full h-2.5 bg-indigo-100 dark:bg-indigo-950/40 rounded"></div>
-							<div class="w-3/4 h-2.5 bg-indigo-100 dark:bg-indigo-950/40 rounded"></div>
-						</div>
-						<div class="flex items-center gap-2 text-[10px] text-slate-400">
-							<span>📁 100% Local SQLite</span>
-						</div>
+					<!-- Front Right Image -->
+					<div class="relative w-[65%] sm:w-[55%] mb-2 sm:mb-8 mr-6 sm:mr-12 rounded-3xl p-2 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_50px_rgba(0,0,0,0.25)] transform rotate-[-4deg] group-hover:rotate-0 group-hover:scale-105 group-hover:-translate-y-2 transition-all duration-700 z-20 opacity-90 dark:opacity-85">
+						<img src={`/images/logself/${isKo ? 'ko' : 'en'}/1.jpeg`} alt="logSelf Main Screen" class="w-full h-auto rounded-[1rem] shadow-inner object-cover" loading="lazy" />
 					</div>
 				</div>
 
@@ -120,24 +110,29 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 			</a>
 
 			<!-- StoreSelf Card (Free Web Utility) -->
-			<a href={`/${lang}/apps/storeself/`} aria-label={t('app.storeself.title')} class="bento-card col-span-1 row-span-2 p-5 sm:p-8 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.25);">
+			<a href={`/${lang}/apps/storeself/`} aria-label={t('app.storeself.title')} class="bento-card col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.25);">
 				<div class="bento-glow top-0 right-0"></div>
 				
 				<!-- Top Content -->
-				<div class="z-20 relative">
+				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold mb-4 md:mb-6 border border-emerald-500/20 shadow-sm backdrop-blur-md">
 						<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.storeself.status')}
 					</div>
-					<h2 class="text-3xl md:text-4xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-2">
+					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-3">
+						<div class="w-10 h-10 sm:w-12 sm:h-12 rounded-xl bg-emerald-100 dark:bg-emerald-500/20 flex items-center justify-center text-emerald-600 dark:text-emerald-400 shadow-sm border border-emerald-500/10">
+							<svg class="w-6 h-6 sm:w-7 sm:h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+								<path stroke-linecap="round" stroke-linejoin="round" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+							</svg>
+						</div>
 						{t('app.storeself.title')}
 					</h2>
-					<p class="text-base md:text-lg text-slate-700 dark:text-slate-200 font-medium drop-shadow-md relative z-20">
+					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">
 						{t('app.storeself.desc')}
 					</p>
 				</div>
                 
 				<!-- Interactive Web Visual (3D Glassmorphism Mockup) -->
-				<div class="absolute bottom-[-5%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-8%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[80%] sm:w-[55%] md:w-[75%] lg:w-[70%] h-[62%] sm:h-[60%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-90 group-hover:opacity-100 transition-all duration-700">
+				<div class="absolute bottom-[-5%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-8%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[80%] sm:w-[55%] md:w-[75%] lg:w-[70%] h-[62%] sm:h-[60%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-45 group-hover:opacity-100 transition-all duration-700">
 					<!-- Back Left Image (Detail Screen) -->
 					<div class="absolute left-[5%] sm:left-[0%] bottom-[24%] w-[55%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-60">
 						<img src="/assets/images/apps/storeself/2_storeself_web_screen.png" alt="StoreSelf Detail Screen" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
@@ -148,32 +143,35 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 					</div>
 				</div>
                 
-				<div class="z-20 relative mt-auto pt-12 flex justify-between items-end">
-					<div class="text-xs font-bold text-slate-500 dark:text-slate-400">
-						{t('app.buildself.supported')}
+				<div class="z-20 relative mt-auto pt-8 flex justify-between items-end">
+					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+						{t('app.storeself.supported')}
 					</div>
-					<div class="w-12 h-12 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_20px_rgba(0,0,0,0.1)] dark:shadow-[0_0_20px_rgba(255,255,255,0.2)]">
-						<svg class="w-5 h-5 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
+						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
 					</div>
 				</div>
 				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[350px] h-[350px] bg-emerald-400/15 dark:bg-emerald-600/15 blur-[90px] rounded-full group-hover:bg-emerald-500/25 dark:group-hover:bg-emerald-500/20 transition-colors duration-700 pointer-events-none z-0"></div>
 			</a>
 
 			<!-- BuildSelf Card (Large Spatial Canvas) -->
-			<a href={`/${lang}/apps/buildself/`} aria-label={t('app.buildself.title')} class="bento-card col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.2);">
+			<a href={`/${lang}/apps/buildself/`} aria-label={t('app.buildself.title')} class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.2);">
 				<div class="bento-glow top-0 left-0"></div>
 				
 				<!-- Top Content (Z-20) -->
-				<div class="z-20 relative">
+				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold mb-4 md:mb-6 border border-emerald-500/20 shadow-sm backdrop-blur-md">
 						<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.buildself.status')}
 					</div>
-					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm">{t('app.buildself.title')}</h2>
-					<p class="text-lg md:text-xl lg:text-2xl text-slate-700 dark:text-slate-200 font-medium max-w-sm drop-shadow-md">{t('app.buildself.desc')}</p>
+					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-3">
+						<img src="/images/buildself/icon.png" alt="BuildSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-emerald-500/10" />
+						{t('app.buildself.title')}
+					</h2>
+					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">{t('app.buildself.desc')}</p>
 				</div>
                 
 				<!-- Spatial 3D Collage (Active Grid - Z-10) -->
-				<div class="absolute bottom-[-15%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-15%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[55%] sm:w-[45%] md:w-[70%] lg:w-[65%] h-[45%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end">
+				<div class="absolute bottom-[-15%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-15%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[55%] sm:w-[45%] md:w-[70%] lg:w-[65%] h-[45%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-45 group-hover:opacity-100 transition-all duration-700">
 					<!-- Back Left Image -->
 					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-50 sm:opacity-60 dark:opacity-40">
 						<img src="/assets/images/apps/buildself/2_buildself_phone_screen.jpeg" alt="BuildSelf Habit List" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
@@ -205,19 +203,26 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 				<div class="bento-glow top-0 right-0"></div>
 				
 				<!-- Top Content (Z-20) -->
-				<div class="z-20 relative">
+				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-100 text-amber-700 dark:bg-amber-500/10 dark:text-amber-300 text-xs md:text-sm font-medium mb-4 md:mb-6 border border-amber-500/20 shadow-sm backdrop-blur-md">
 						{t('app.moodself.status')}
 					</div>
-					<h2 class="text-3xl md:text-4xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors drop-shadow-sm">{t('app.moodself.title')}</h2>
-					<p class="text-base md:text-lg text-slate-700 dark:text-slate-200 font-medium drop-shadow-md relative z-20">{t('app.moodself.desc')}</p>
+					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors drop-shadow-sm flex items-center gap-3">
+						<div class="w-10 h-10 sm:w-12 sm:h-12 rounded-xl bg-amber-100 dark:bg-amber-500/20 flex items-center justify-center text-amber-600 dark:text-amber-400 shadow-sm border border-amber-500/10">
+							<svg class="w-6 h-6 sm:w-7 sm:h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+								<path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+							</svg>
+						</div>
+						{t('app.moodself.title')}
+					</h2>
+					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">{t('app.moodself.desc')}</p>
 				</div>
                 
 				<!-- Premium Spatial Void Fill (Z-10) -->
 				<div class="absolute inset-0 z-10 pointer-events-none flex items-center justify-center opacity-80 group-hover:opacity-100 transition-opacity duration-700">
 					<!-- Massive Floating Icon -->
 					<div class="absolute top-[40%] right-[10%] sm:right-0 transform rotate-12 group-hover:rotate-0 group-hover:scale-110 transition-transform duration-1000 ease-in-out blur-[1px]">
-						<svg class="w-64 h-64 text-amber-200/40 dark:text-amber-900/40" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+						<svg class="w-64 h-64 text-amber-200/5 dark:text-amber-950/15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
 					</div>
 					<!-- High-end Glass Pill -->
 					<div class="absolute bottom-[30%] right-[10%] bg-white/60 dark:bg-black/40 backdrop-blur-2xl border border-white/50 dark:border-white/10 rounded-2xl p-4 md:p-5 shadow-2xl transform -rotate-6 group-hover:-rotate-3 group-hover:-translate-y-4 transition-all duration-700 opacity-0 sm:opacity-100 translate-y-8 group-hover:opacity-100">
@@ -229,10 +234,13 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 					</div>
 				</div>
                 
-				<div class="z-20 relative mt-auto pt-12">
-					<div class="text-xs md:text-sm font-bold border border-amber-500/40 text-amber-700 dark:text-amber-300 bg-amber-100/80 dark:bg-amber-950/40 px-3 py-2 md:px-4 md:py-3 rounded-2xl flex items-start gap-2 md:gap-3 backdrop-blur-md shadow-lg">
+				<div class="z-20 relative mt-auto pt-8 flex justify-between items-end gap-4">
+					<div class="text-xs md:text-sm font-bold border border-amber-500/40 text-amber-700 dark:text-amber-300 bg-amber-100/80 dark:bg-amber-950/40 px-3 py-2 md:px-4 md:py-3 rounded-2xl flex items-start gap-2 md:gap-3 backdrop-blur-md shadow-lg max-w-[70%]">
 						<svg class="w-4 h-4 md:w-5 md:h-5 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
 						<span class="leading-snug">{t('app.moodself.supported')} {lang !== 'ko' ? <br/><span class="font-bold opacity-80 mt-1 block tracking-tighter">{t('app.moodself.warning')}</span> : null}</span>
+					</div>
+					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-amber-600 dark:group-hover:bg-amber-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)] flex-shrink-0">
+						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
 					</div>
 				</div>
 				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[400px] h-[400px] bg-amber-400/20 dark:bg-amber-600/20 blur-[100px] rounded-full group-hover:bg-amber-500/30 dark:group-hover:bg-amber-500/30 transition-colors duration-700 pointer-events-none z-0"></div>

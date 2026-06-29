@@ -186,7 +186,7 @@ const toastDesc = isKo ? 'iOS 버전은 현재 준비 중입니다.' : 'iOS vers
 			</section>
 
 			<!-- Feature Bento Grid Section -->
-			<section class="mb-16 md:mb-24">
+			<section class="mb-20 md:mb-28">
 				<div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
 					
 					<!-- Feature 1: SQLCipher Local Security -->
@@ -200,24 +200,17 @@ const toastDesc = isKo ? 'iOS 버전은 현재 준비 중입니다.' : 'iOS vers
 						</div>
 						
 						<!-- Card Copy -->
-						<div class="flex-1 w-full flex flex-col items-start z-10 min-h-[160px] md:min-h-0">
+						<div class="flex-1 w-full flex flex-col items-start z-10 min-h-[140px] md:min-h-0">
 							<h3 class="text-2xl md:text-3xl font-black text-slate-900 dark:text-white mb-3 md:mb-4 tracking-tight group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors drop-shadow-sm">{t('ls.feature1.title')}</h3>
 							<p class="text-base md:text-lg text-slate-600 dark:text-slate-400 leading-relaxed font-medium mb-8 md:mb-12 max-w-sm">{t('ls.feature1.desc')}</p>
 						</div>
 						
-						<!-- Local Database Graphic -->
-						<div class="w-full mt-auto relative rounded-t-2xl overflow-hidden border border-slate-200 dark:border-slate-700 bg-slate-900 p-6 flex flex-col gap-3 text-left font-mono text-[10px] text-indigo-300">
-							<div class="flex items-center gap-2 border-b border-slate-800 pb-2">
-								<span class="w-3 h-3 rounded-full bg-red-500"></span>
-								<span class="w-3 h-3 rounded-full bg-yellow-500"></span>
-								<span class="w-3 h-3 rounded-full bg-green-500"></span>
-								<span class="text-slate-500 ml-2">local_database.db (SQLCipher encrypted)</span>
+						<!-- Local Database & Settings Mock Extruded -->
+						<div class="w-[95%] md:w-full mt-auto relative flex justify-center rounded-[1.5rem] md:rounded-t-[2rem] overflow-hidden shadow-[0_-20px_60px_rgba(0,0,0,0.12)] border border-indigo-500/20 z-10 mb-6 md:mb-0 bg-slate-900">
+							<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start bg-slate-50 dark:bg-slate-900 border-t border-white/10">
+								<img src={`/images/logself/${isKo ? 'ko' : 'en'}/8.jpeg`} alt="SQLCipher Encrypted Settings" class="w-full h-full object-cover object-[center_12%] scale-[1.02] hover:scale-[1.05] transition-transform duration-700" loading="lazy" />
 							</div>
-							<div>
-								<span class="text-slate-500"># PRAGMA key = '**********';</span><br>
-								<span class="text-indigo-400">SELECT</span> * <span class="text-indigo-400">FROM</span> personal_logs <span class="text-indigo-400">WHERE</span> tag = <span class="text-emerald-400">'#thought'</span>;<br>
-								<span class="text-slate-500">&gt;&gt; [Encrypted Payload: 0x9F82A3BC...]</span>
-							</div>
+							<div class="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-white dark:from-slate-900 to-transparent pointer-events-none rounded-b-[1.5rem] md:rounded-none"></div>
 						</div>
 					</div>
 
@@ -231,25 +224,159 @@ const toastDesc = isKo ? 'iOS 버전은 현재 준비 중입니다.' : 'iOS vers
 						</div>
 						
 						<!-- Card Copy -->
-						<div class="flex-1 w-full flex flex-col items-start z-10 min-h-[160px] md:min-h-0">
+						<div class="flex-1 w-full flex flex-col items-start z-10 min-h-[140px] md:min-h-0">
 							<h3 class="text-2xl md:text-3xl font-black mb-3 md:mb-4 tracking-tight drop-shadow-md">{t('ls.feature2.title')}</h3>
 							<p class="text-base md:text-lg text-indigo-100/90 leading-relaxed font-medium mb-8 md:mb-12 max-w-sm drop-shadow-sm">{t('ls.feature2.desc')}</p>
 						</div>
 						
-						<!-- Local Scraping Animation Box -->
-						<div class="w-full mt-auto relative rounded-t-2xl overflow-hidden bg-slate-900 border border-indigo-500/20 p-6 flex flex-col gap-3 text-left">
-							<span class="text-xs font-bold text-indigo-300">Smart Link Scraping Pipeline</span>
-							<div class="flex items-center gap-3 bg-slate-950 p-3 rounded-xl border border-slate-800">
-								<span class="text-xl">🔗</span>
-								<div class="flex-1 min-w-0">
-									<p class="text-[10px] text-indigo-400 font-mono truncate">https://tiktok.com/v/123456...</p>
-									<div class="h-1 w-full bg-indigo-500/20 rounded mt-1.5 overflow-hidden">
-										<div class="h-full bg-indigo-500 animate-pulse w-2/3"></div>
-									</div>
-								</div>
-								<span class="text-[9px] bg-indigo-500/20 text-indigo-300 px-2 py-0.5 rounded font-mono">Scraping...</span>
+						<!-- Local Scraping Timeline Mock Extruded -->
+						<div class="w-[95%] md:w-full mt-auto relative flex justify-center rounded-[1.5rem] md:rounded-t-[2rem] overflow-hidden shadow-[0_-20px_60px_rgba(0,0,0,0.3)] border border-indigo-500/30 z-10 mb-6 md:mb-0 bg-slate-950">
+							<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start bg-slate-50 dark:bg-slate-900 border-t border-white/10">
+								<img src={`/images/logself/${isKo ? 'ko' : 'en'}/1.jpeg`} alt="Smart Link Scraping Timeline" class="w-full h-full object-cover object-[center_8%] scale-[1.02] hover:scale-[1.05] transition-transform duration-[1.5s]" loading="lazy" />
+							</div>
+							<div class="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-slate-100/5 dark:from-slate-900 to-transparent pointer-events-none rounded-b-[1.5rem] md:rounded-none"></div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Zero-Knowledge Security Section -->
+			<section class="mb-20 md:mb-28">
+				<div class="text-center max-w-2xl mx-auto mb-12">
+					<h2 class="text-3xl md:text-4xl font-black text-slate-900 dark:text-white tracking-tight mb-4">
+						{t('ls.security.title')}
+					</h2>
+					<p class="text-slate-600 dark:text-slate-400 font-medium px-4">
+						{t('ls.security.desc')}
+					</p>
+				</div>
+				<div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+					<!-- Card 1: On-Device Storage -->
+					<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-indigo-500/30 transition-all duration-500 shadow-sm">
+						<div class="w-12 h-12 rounded-2xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 flex items-center justify-center mb-6 font-bold text-xl">📱</div>
+						<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('ls.security.card1.title')}</h3>
+						<p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('ls.security.card1.desc')}</p>
+					</div>
+					<!-- Card 2: Military-Grade SQLCipher -->
+					<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-indigo-500/30 transition-all duration-500 shadow-sm">
+						<div class="w-12 h-12 rounded-2xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 flex items-center justify-center mb-6 font-bold text-xl">🔑</div>
+						<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('ls.security.card2.title')}</h3>
+						<p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('ls.security.card2.desc')}</p>
+					</div>
+					<!-- Card 3: Encrypted Cloud Backup -->
+					<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-indigo-500/30 transition-all duration-500 shadow-sm">
+						<div class="w-12 h-12 rounded-2xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 flex items-center justify-center mb-6 font-bold text-xl">☁️</div>
+						<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('ls.security.card3.title')}</h3>
+						<p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('ls.security.card3.desc')}</p>
+					</div>
+				</div>
+			</section>
+
+			<!-- Self-Reflection & Insights Section -->
+			<section class="mb-20 md:mb-28">
+				<div class="text-center max-w-2xl mx-auto mb-12">
+					<h2 class="text-3xl md:text-4xl font-black text-slate-900 dark:text-white tracking-tight mb-4">
+						{t('ls.insights.title')}
+					</h2>
+					<p class="text-slate-600 dark:text-slate-400 font-medium px-4">
+						{t('ls.insights.desc')}
+					</p>
+				</div>
+				<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+					<!-- Card 1: Mood Calendar -->
+					<div class="footprint-card neon-accent-card flex flex-col pt-8 px-6 items-center rounded-3xl relative overflow-hidden backdrop-blur-xl group">
+						<div class="flex-1 w-full flex flex-col items-start text-left">
+							<span class="text-2xl mb-4">📅</span>
+							<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">{t('ls.insights.card1.title')}</h3>
+							<p class="text-xs md:text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium mb-6">{t('ls.insights.card1.desc')}</p>
+						</div>
+						<div class="w-full mt-auto relative rounded-t-2xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-lg bg-white/50 dark:bg-slate-900/50">
+							<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start">
+								<img src={`/images/logself/${isKo ? 'ko' : 'en'}/4.jpeg`} alt="logSelf Mood Calendar" class="w-full h-full object-cover object-[center_62%] scale-[1.02] hover:scale-[1.05] transition-transform duration-700" loading="lazy" />
 							</div>
 						</div>
+					</div>
+					<!-- Card 2: Photo & Link Gallery -->
+					<div class="footprint-card neon-accent-card flex flex-col pt-8 px-6 items-center rounded-3xl relative overflow-hidden backdrop-blur-xl group">
+						<div class="flex-1 w-full flex flex-col items-start text-left">
+							<span class="text-2xl mb-4">🖼️</span>
+							<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">{t('ls.insights.card2.title')}</h3>
+							<p class="text-xs md:text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium mb-6">{t('ls.insights.card2.desc')}</p>
+						</div>
+						<div class="w-full mt-auto relative rounded-t-2xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-lg bg-white/50 dark:bg-slate-900/50">
+							<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start">
+								<img src={`/images/logself/${isKo ? 'ko' : 'en'}/5.jpeg`} alt="logSelf Media Gallery" class="w-full h-full object-cover object-[center_12%] scale-[1.02] hover:scale-[1.05] transition-transform duration-700" loading="lazy" />
+							</div>
+						</div>
+					</div>
+					<!-- Card 3: Chronicle Insights -->
+					<div class="footprint-card neon-accent-card flex flex-col pt-8 px-6 items-center rounded-3xl relative overflow-hidden backdrop-blur-xl group">
+						<div class="flex-1 w-full flex flex-col items-start text-left">
+							<span class="text-2xl mb-4">📊</span>
+							<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">{t('ls.insights.card3.title')}</h3>
+							<p class="text-xs md:text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium mb-6">{t('ls.insights.card3.desc')}</p>
+						</div>
+						<div class="w-full mt-auto relative rounded-t-2xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-lg bg-white/50 dark:bg-slate-900/50">
+							<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start">
+								<img src={`/images/logself/${isKo ? 'ko' : 'en'}/6.jpeg`} alt="logSelf Chronicle Insights" class="w-full h-full object-cover object-[center_12%] scale-[1.02] hover:scale-[1.05] transition-transform duration-700" loading="lazy" />
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Signature Mood Templates Section -->
+			<section class="mb-20 md:mb-28">
+				<div class="text-center max-w-2xl mx-auto mb-12">
+					<h2 class="text-3xl md:text-4xl font-black text-slate-900 dark:text-white tracking-tight mb-4">
+						{t('ls.templates.title')}
+					</h2>
+					<p class="text-slate-600 dark:text-slate-400 font-medium px-4">
+						{t('ls.templates.desc')}
+					</p>
+				</div>
+				<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 md:gap-6">
+					{([
+						{ id: 'temp_forest', titleKey: 'ls.templates.forest.title', descKey: 'ls.templates.forest.desc' },
+						{ id: 'temp_sunset', titleKey: 'ls.templates.sunset.title', descKey: 'ls.templates.sunset.desc' },
+						{ id: 'temp_dawn', titleKey: 'ls.templates.dawn.title', descKey: 'ls.templates.dawn.desc' },
+						{ id: 'temp_starry', titleKey: 'ls.templates.starry.title', descKey: 'ls.templates.starry.desc' },
+						{ id: 'temp_cozy', titleKey: 'ls.templates.cozy.title', descKey: 'ls.templates.cozy.desc' },
+						{ id: 'temp_fog', titleKey: 'ls.templates.fog.title', descKey: 'ls.templates.fog.desc' }
+					] as const).map((temp) => (
+						<div class="footprint-card flex flex-col p-3 rounded-2xl bg-white/50 dark:bg-slate-900/40 border border-slate-200/50 dark:border-slate-800/50 backdrop-blur-xl group hover:scale-[1.04] hover:-translate-y-2 hover:border-indigo-500/30 hover:shadow-xl hover:shadow-indigo-500/5 transition-all duration-500 text-left">
+							<div class="aspect-[3/4] w-full rounded-xl overflow-hidden mb-3 border border-slate-100 dark:border-slate-800/80 shadow-inner relative">
+								<img src={`/images/logself/templates/${temp.id}.webp`} alt={t(temp.titleKey)} class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
+								<div class="absolute inset-0 bg-gradient-to-t from-slate-950/20 to-transparent"></div>
+							</div>
+							<div class="px-1">
+								<h4 class="text-sm font-bold text-slate-900 dark:text-white truncate">{t(temp.titleKey)}</h4>
+								<p class="text-[10px] text-slate-400 dark:text-slate-500 font-semibold mt-0.5">{t(temp.descKey)}</p>
+							</div>
+						</div>
+					))}
+				</div>
+			</section>
+
+			<!-- Aesthetics & Customization Banner -->
+			<section class="mb-16 md:mb-24 p-8 md:p-12 rounded-[2rem] bg-gradient-to-r from-indigo-950 to-indigo-900 border border-indigo-500/30 text-white relative overflow-hidden group">
+				<div class="absolute -top-32 -right-32 w-96 h-96 bg-indigo-500/20 rounded-full blur-[100px] pointer-events-none"></div>
+				<div class="relative z-10 flex flex-col md:flex-row items-center justify-between gap-8 text-left">
+					<div class="max-w-xl space-y-4">
+						<span class="text-[11px] uppercase tracking-wider font-bold bg-indigo-500/30 text-indigo-300 px-3 py-1 rounded-full">{t('ls.themes.badge')}</span>
+						<h2 class="text-2xl md:text-4xl font-black tracking-tight">{t('ls.themes.title')}</h2>
+						<p class="text-sm md:text-base text-indigo-200/90 leading-relaxed font-medium">{t('ls.themes.desc')}</p>
+					</div>
+					<div class="flex flex-wrap gap-2 justify-start md:justify-end max-w-md">
+						{([
+							{ key: 'default' },
+							{ key: 'color' },
+							{ key: 'gradient' },
+							{ key: 'template' },
+							{ key: 'image' }
+						] as const).map((theme) => (
+							<span class="px-4 py-2 rounded-xl bg-white/10 border border-white/10 backdrop-blur-md text-xs font-bold shadow-sm">{t(`ls.themes.${theme.key}` as any)}</span>
+						))}
 					</div>
 				</div>
 			</section>

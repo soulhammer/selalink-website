@@ -344,6 +344,67 @@ const utilBannerBtn = t('app.freshself.banner.btn');
       </div>
     </section>
 
+    <!-- New Section 1: Expiry OCR & Barcode Scan (실제 기능: 유효기간 OCR 및 바코드 조회) -->
+    <section class="relative z-10 w-full max-w-5xl mx-auto px-6 py-12 md:py-16 border-t border-slate-200/50 dark:border-slate-800/40">
+      <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
+        <h2 class="text-2xl sm:text-3xl lg:text-4xl font-black text-slate-900 dark:text-white tracking-tight">
+          {t('fs.impact.title')}
+        </h2>
+        <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium">
+          {t('fs.impact.desc')}
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+        <!-- Card 1: Expiry OCR -->
+        <div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-purple-500/30 transition-all duration-500 shadow-sm">
+          <div class="w-12 h-12 rounded-2xl bg-purple-50 dark:bg-purple-950/30 text-purple-600 dark:text-purple-400 flex items-center justify-center mb-6 font-bold text-xl">📷</div>
+          <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('fs.impact.card1.title')}</h3>
+          <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('fs.impact.card1.desc')}</p>
+        </div>
+        <!-- Card 2: Barcode Scan -->
+        <div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-emerald-500/30 transition-all duration-500 shadow-sm">
+          <div class="w-12 h-12 rounded-2xl bg-emerald-50 dark:bg-emerald-950/30 text-emerald-600 dark:text-emerald-400 flex items-center justify-center mb-6 font-bold text-xl">🔍</div>
+          <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('fs.impact.card2.title')}</h3>
+          <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('fs.impact.card2.desc')}</p>
+        </div>
+        <!-- Card 3: Batch Action -->
+        <div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-purple-500/30 transition-all duration-500 shadow-sm">
+          <div class="w-12 h-12 rounded-2xl bg-purple-50 dark:bg-purple-950/30 text-purple-600 dark:text-purple-400 flex items-center justify-center mb-6 font-bold text-xl">⚡</div>
+          <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('fs.impact.card3.title')}</h3>
+          <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('fs.impact.card3.desc')}</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- New Section 2: Rescue Level & Expiry Reports (실제 기능: 구출 레벨 시스템) -->
+    <section class="relative z-10 w-full max-w-5xl mx-auto px-6 py-12 md:py-16 border-t border-slate-200/50 dark:border-slate-800/40">
+      <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
+        <h2 class="text-2xl sm:text-3xl lg:text-4xl font-black text-slate-900 dark:text-white tracking-tight">
+          {t('fs.push.title')}
+        </h2>
+        <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium">
+          {t('fs.push.desc')}
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 max-w-4xl mx-auto">
+        {([
+          { id: 'd7', titleKey: 'fs.push.d7.title', bodyKey: 'fs.push.d7.body', icon: '🛡️', color: 'border-l-purple-500' },
+          { id: 'd3', titleKey: 'fs.push.d3.title', bodyKey: 'fs.push.d3.body', icon: '🌟', color: 'border-l-emerald-500' },
+          { id: 'd1', titleKey: 'fs.push.d1.title', bodyKey: 'fs.push.d1.body', icon: '🏆', color: 'border-l-amber-500' }
+        ] as const).map((level) => (
+          <div class={`flex flex-col p-6 rounded-2xl bg-white/75 dark:bg-slate-900/80 backdrop-blur-xl border border-slate-200/50 dark:border-slate-800/80 border-l-4 ${level.color} shadow-md text-left group hover:scale-[1.03] transition-all duration-300`}>
+            <div class="flex items-center gap-2 mb-3">
+              <span class="text-xl">{level.icon}</span>
+              <span class="text-sm font-black text-slate-900 dark:text-white">{t(level.titleKey)}</span>
+            </div>
+            <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 font-medium leading-relaxed">{t(level.bodyKey)}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
     <!-- FreshSelf Promo Shorts Gallery (최하단 배치 및 가로 정렬 래퍼 추가) -->
     <div class="relative z-10 w-full max-w-7xl mx-auto px-6 pb-24">
       <ShortsGallery lang={lang} appType="freshself" />
