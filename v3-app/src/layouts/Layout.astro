@@ -186,6 +186,8 @@ const t = useTranslations(lang as any);
 				alternateNames.push(t('app.storeself.title'), "스토어셀프", "StoreSelf");
 			} else if (isMoodSelf) {
 				alternateNames.push(t('app.moodself.title'), "무드셀프", "MoodSelf");
+			} else if (isLogSelf) {
+				alternateNames.push(t('app.logself.title'), "로그셀프", "logSelf");
 			}
 			
 			let appFeatures: string[] = [];
@@ -197,6 +199,8 @@ const t = useTranslations(lang as any);
 				appFeatures = (t('app.storeself.meta.features') || '').split(',');
 			} else if (isMoodSelf) {
 				appFeatures = (t('app.moodself.meta.features') || '').split(',');
+			} else if (isLogSelf) {
+				appFeatures = (t('app.logself.meta.features') || '').split(',');
 			}
 			
 			let pageKeywords = keywords;
@@ -205,6 +209,7 @@ const t = useTranslations(lang as any);
 				else if (isFreshSelf) pageKeywords = t('app.freshself.meta.keywords');
 				else if (isStoreSelf) pageKeywords = t('app.storeself.meta.keywords');
 				else if (isMoodSelf) pageKeywords = t('app.moodself.meta.keywords');
+				else if (isLogSelf) pageKeywords = t('app.logself.meta.keywords');
 				else pageKeywords = t('meta.keywords');
 			}
 			
