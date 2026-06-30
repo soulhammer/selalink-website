@@ -49,6 +49,8 @@ const formattedDate = new Date(pubDate).toLocaleDateString(lang, {
   data-title={title.toLowerCase()}
   data-desc={description.toLowerCase()}
   data-ing-name={ingredientName.toLowerCase()}
+  data-app={app}
+  data-tags={post.data.tags ? post.data.tags.join(',').toLowerCase() : ''}
 >
   {heroImage && (
     <div class="relative aspect-video w-full overflow-hidden">

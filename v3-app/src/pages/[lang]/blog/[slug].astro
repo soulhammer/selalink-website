@@ -241,7 +241,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
         </h5>
       </div>
       <p class="text-[11px] md:text-xs text-slate-500/80 dark:text-slate-400/80 m-0 leading-relaxed font-medium">
-        {t('blog.disclaimer.desc')}
+        {app === 'buildself' ? t('blog.disclaimer.buildself.desc') : t('blog.disclaimer.desc')}
       </p>
     </div>
 
