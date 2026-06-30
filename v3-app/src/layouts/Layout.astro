@@ -43,11 +43,11 @@ const themeColors = {
 	logself: '#6366F1'
 };
 const themeFonts = {
-	studio: "'Space Grotesk', 'Pretendard', sans-serif",
-	buildself: "'Outfit', 'Space Grotesk', 'Pretendard', sans-serif",
-	freshself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', sans-serif",
-	storeself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', sans-serif",
-	logself: "'Outfit', 'Space Grotesk', 'Pretendard', sans-serif"
+	studio: "'Space Grotesk', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif",
+	buildself: "'Outfit', 'Space Grotesk', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif",
+	freshself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif",
+	storeself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif",
+	logself: "'Outfit', 'Space Grotesk', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif"
 };
 
 const currentAccent = themeColors[appId];
@@ -110,7 +110,8 @@ const t = useTranslations(lang as any);
 
 		<link rel="icon" type="image/png" href="/favicon.png" />
 		<link rel="apple-touch-icon" href="/favicon.png" />
-		<link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+		<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
 		<title>{title}</title>
 		
 		<!-- SEO / Open Graph Setup -->
@@ -258,6 +259,7 @@ const t = useTranslations(lang as any);
 			/* Global Typography Polish for Korean */
 			html[lang="ko"] body {
 				word-break: keep-all;
+				letter-spacing: -0.02em;
 			}
 			
 			/* Font Helpers */
