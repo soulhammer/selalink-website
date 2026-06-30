@@ -9,7 +9,8 @@ import LogSelfSecurity from '../../../../components/logself/LogSelfSecurity.astr
 import LogSelfInsights from '../../../../components/logself/LogSelfInsights.astro';
 import LogSelfTemplates from '../../../../components/logself/LogSelfTemplates.astro';
 import LogSelfThemes from '../../../../components/logself/LogSelfThemes.astro';
-import AppToast from '../../../../components/AppToast.astro';
+import BackToStudioButton from '../../../../components/BackToStudioButton.astro';
+import AppBackgroundBlurs from '../../../../components/AppBackgroundBlurs.astro';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -24,17 +25,11 @@ const isKo = lang === 'ko';
 <Layout title={t('app.logself.meta.title')} lang={lang} description={t('app.logself.desc')} ogType="software" appId="logself">
 	<div class="bg-slate-50 dark:bg-slate-900 min-h-screen pt-4 md:pt-10 pb-20 overflow-hidden relative">
 		<!-- Background decorative elements -->
-		<div class="absolute top-0 right-0 -mr-40 -mt-40 w-96 h-96 rounded-full bg-indigo-400/20 dark:bg-indigo-600/10 blur-3xl pointer-events-none"></div>
-		<div class="absolute bottom-40 left-0 -ml-40 w-80 h-80 rounded-full bg-violet-400/10 dark:bg-violet-600/10 blur-3xl pointer-events-none"></div>
+		<AppBackgroundBlurs appId="logself" />
 
 		<main class="max-w-[1240px] mx-auto px-6 relative z-10">
 			<!-- Header Action -->
-			<div class="mb-8">
-				<a href={`/${lang}/`} class="inline-flex items-center text-sm font-semibold text-indigo-600 dark:text-indigo-400 hover:text-indigo-800 dark:hover:text-indigo-300 transition-colors">
-					<svg class="w-4 h-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>
-					Back to SelaLink Studio
-				</a>
-			</div>
+			<BackToStudioButton lang={lang} theme="indigo" class="mb-8" />
 
 			<!-- Hero Section -->
 			<LogSelfHero lang={lang} />
@@ -64,7 +59,4 @@ const isKo = lang === 'ko';
 			</section>
 		</main>
 	</div>
-
-	<!-- Toast Notification Popover -->
-	<AppToast lang={lang} triggerId="lsIosDownloadBtn" toastId="lsToastNotification" />
 </Layout>

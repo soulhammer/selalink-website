@@ -1,7 +1,6 @@
 ---
 import Layout from '../../../../layouts/Layout.astro';
 import { useTranslations, languages } from '../../../../i18n/ui';
-import ShortsPlayerModal from '../../../../components/ShortsPlayerModal.astro';
 import ShortsGallery from '../../../../components/ShortsGallery.astro';
 import MentorMarquee from '../../../../components/MentorMarquee.astro';
 
@@ -10,7 +9,8 @@ import BuildSelfHero from '../../../../components/buildself/BuildSelfHero.astro'
 import BuildSelfFeatures from '../../../../components/buildself/BuildSelfFeatures.astro';
 import BuildSelfMentors from '../../../../components/buildself/BuildSelfMentors.astro';
 import BuildSelfCalendar from '../../../../components/buildself/BuildSelfCalendar.astro';
-import AppToast from '../../../../components/AppToast.astro';
+import BackToStudioButton from '../../../../components/BackToStudioButton.astro';
+import AppBackgroundBlurs from '../../../../components/AppBackgroundBlurs.astro';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -22,17 +22,11 @@ const t = useTranslations(lang as keyof typeof languages);
 <Layout title={t('app.buildself.meta.title')} lang={lang} description={t('app.buildself.desc')} ogType="software" image="/assets/images/og/buildself.png" appId="buildself">
 	<div class="bg-slate-50 dark:bg-slate-900 min-h-screen pt-4 md:pt-10 pb-20 overflow-hidden relative">
 		<!-- Background decorative elements -->
-		<div class="absolute top-0 right-0 -mr-40 -mt-40 w-96 h-96 rounded-full bg-teal-400/20 dark:bg-teal-600/10 blur-3xl pointer-events-none"></div>
-		<div class="absolute bottom-40 left-0 -ml-40 w-80 h-80 rounded-full bg-orange-400/10 dark:bg-orange-600/10 blur-3xl pointer-events-none"></div>
+		<AppBackgroundBlurs appId="buildself" />
 
 		<main class="max-w-[1240px] mx-auto px-6 relative z-10">
 			<!-- Header Action -->
-			<div class="mb-8">
-				<a href={`/${lang}/`} class="inline-flex items-center text-sm font-semibold text-teal-600 dark:text-teal-400 hover:text-teal-800 dark:hover:text-teal-300 transition-colors">
-					<svg class="w-4 h-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>
-					Back to SelaLink Studio
-				</a>
-			</div>
+			<BackToStudioButton lang={lang} theme="teal" class="mb-8" />
 
 			<!-- Hero Section -->
 			<BuildSelfHero lang={lang} />
@@ -53,8 +47,4 @@ const t = useTranslations(lang as keyof typeof languages);
 			<ShortsGallery lang={lang} />
 		</main>
 	</div>
-	<ShortsPlayerModal lang={lang} />
-
-	<!-- Toast Notification Popover -->
-	<AppToast lang={lang} triggerId="bsIosDownloadBtn" toastId="bsToastNotification" />
 </Layout>

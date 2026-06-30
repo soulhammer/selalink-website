@@ -1,6 +1,8 @@
 ---
 import '../styles/global.css';
 import { useTranslations, languages } from '../i18n/ui';
+import AppToast from '../components/AppToast.astro';
+import ShortsPlayerModal from '../components/ShortsPlayerModal.astro';
 
 export interface Props {
 	title: string;
@@ -506,5 +508,24 @@ const t = useTranslations(lang as any);
 				});
 			});
 		</script>
+
+		{appId === 'buildself' && (
+			<>
+				<ShortsPlayerModal lang={lang} />
+				<AppToast lang={lang} triggerId="bsIosDownloadBtn" toastId="bsToastNotification" />
+			</>
+		)}
+		{appId === 'logself' && (
+			<AppToast lang={lang} triggerId="lsIosDownloadBtn" toastId="lsToastNotification" />
+		)}
+		{appId === 'freshself' && (
+			<>
+				<AppToast lang={lang} triggerId="iosDownloadBtn" toastId="toastNotification" />
+				<ShortsPlayerModal lang={lang} />
+			</>
+		)}
+		{appId === 'storeself' && (
+			<AppToast lang={lang} triggerId="iosDownloadBtn" toastId="toastNotification" title={t('detail.toast.title')} desc={t('detail.toast.desc')} />
+		)}
 	</body>
 </html>

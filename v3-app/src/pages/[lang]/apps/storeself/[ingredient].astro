@@ -978,15 +978,6 @@ const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
     </div>
   </main>
 
-  <!-- Toast Notification Popover -->
-  <div id="toastNotification" class="fixed bottom-6 right-6 z-50 bg-slate-900/95 dark:bg-white/95 text-white dark:text-slate-900 px-6 py-4 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.3)] border border-white/10 dark:border-slate-200/50 backdrop-blur-xl flex items-center gap-3 transform translate-y-20 opacity-0 invisible transition-all duration-500 ease-out">
-    <span class="text-xl">🍏</span>
-    <div class="flex flex-col text-left">
-      <span class="text-sm font-bold">{t('detail.toast.title')}</span>
-      <span class="text-xs text-slate-400 dark:text-slate-600 mt-0.5">{t('detail.toast.desc')}</span>
-    </div>
-  </div>
-
   <script define:vars={{ currentItem, currentLang, localTranslations, sourceTranslations, initialBuyDateStr }}>
     // Client-side Tab and Slider calculation scripts
     let storageDuration = 0;
@@ -1489,22 +1480,6 @@ const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
       });
     });
 
-    // Toast Notification logic
-    const iosBtn = document.getElementById('iosDownloadBtn');
-    const toast = document.getElementById('toastNotification');
-    
-    if (iosBtn && toast) {
-      iosBtn.addEventListener('click', (e) => {
-        e.preventDefault();
-        toast.classList.remove('translate-y-20', 'opacity-0', 'invisible');
-        toast.classList.add('translate-y-0', 'opacity-100', 'visible');
-        
-        setTimeout(() => {
-          toast.classList.remove('translate-y-0', 'opacity-100', 'visible');
-          toast.classList.add('translate-y-20', 'opacity-0', 'invisible');
-        }, 3500);
-      });
-    }
   </script>
 
   <style>

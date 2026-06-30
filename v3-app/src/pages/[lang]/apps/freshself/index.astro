@@ -2,7 +2,6 @@
 import Layout from '../../../../layouts/Layout.astro';
 import { useTranslations, languages } from '../../../../i18n/ui';
 import ShortsGallery from '../../../../components/ShortsGallery.astro';
-import ShortsPlayerModal from '../../../../components/ShortsPlayerModal.astro';
 
 // New Sub-components
 import FreshSelfHero from '../../../../components/freshself/FreshSelfHero.astro';
@@ -10,7 +9,8 @@ import FreshSelfFeatures from '../../../../components/freshself/FreshSelfFeature
 import FreshSelfBento from '../../../../components/freshself/FreshSelfBento.astro';
 import FreshSelfImpact from '../../../../components/freshself/FreshSelfImpact.astro';
 import FreshSelfPush from '../../../../components/freshself/FreshSelfPush.astro';
-import AppToast from '../../../../components/AppToast.astro';
+import BackToStudioButton from '../../../../components/BackToStudioButton.astro';
+import AppBackgroundBlurs from '../../../../components/AppBackgroundBlurs.astro';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -31,20 +31,10 @@ const t = useTranslations(lang as keyof typeof languages);
 >
   <main class="w-full bg-slate-50 dark:bg-[#0B0F19] min-h-screen text-slate-900 dark:text-slate-100 overflow-hidden transition-colors duration-500">
     <!-- Fluid Decorative Blurs -->
-    <div class="fixed inset-0 z-0 opacity-40 pointer-events-none">
-      <div class="absolute top-[-10%] right-[-10%] w-[50%] h-[50%] bg-purple-500/10 dark:bg-purple-600/5 rounded-full filter blur-[120px]"></div>
-      <div class="absolute bottom-[-20%] left-[-10%] w-[60%] h-[60%] bg-emerald-500/10 dark:bg-emerald-600/5 rounded-full filter blur-[130px]"></div>
-    </div>
+    <AppBackgroundBlurs appId="freshself" />
 
     <!-- Header / Navigation Back -->
-    <div class="relative z-10 w-full max-w-7xl mx-auto px-6 pt-10 md:pt-16 pb-2 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-      <a href={`/${lang}/`} class="group inline-flex items-center space-x-2 text-purple-600 dark:text-purple-400 hover:text-purple-800 dark:hover:text-purple-300 transition-colors duration-300">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="m15 18-6-6 6-6"/>
-        </svg>
-        <span class="text-sm font-semibold tracking-wide">Back to SelaLink Studio</span>
-      </a>
-    </div>
+    <BackToStudioButton lang={lang} theme="purple" class="relative z-10 w-full max-w-7xl mx-auto px-6 pt-10 md:pt-16 pb-2" />
 
     <!-- Hero Section -->
     <FreshSelfHero lang={lang} />
@@ -66,9 +56,4 @@ const t = useTranslations(lang as keyof typeof languages);
       <ShortsGallery lang={lang} appType="freshself" />
     </div>
   </main>
-
-  <!-- Toast Notification Popover -->
-  <AppToast lang={lang} triggerId="iosDownloadBtn" toastId="toastNotification" />
-  
-  <ShortsPlayerModal lang={lang} />
 </Layout>

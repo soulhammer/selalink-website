@@ -6,3 +6,33 @@
 
 /* Force Tailwind v4 to use class-based dark mode instead of strictly relying on media queries */
 @custom-variant dark (&:is(.dark *));
+
+/* ==========================================
+   Design System - Premium Interactive Cards
+   ========================================== */
+
+/* 1. Base Interactive Card */
+.app-card-interactive {
+  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+  border: 1px solid var(--theme-color-light, rgba(13, 148, 136, 0.1));
+}
+.app-card-interactive:hover {
+  transform: scale(1.02) translateY(-6px);
+  box-shadow: 0 30px 60px -15px var(--theme-color-glow, rgba(13, 148, 136, 0.2)), 0 0 0 1px var(--theme-color-border-hover, rgba(249, 115, 22, 0.2));
+  border-color: var(--theme-color-border-hover, rgba(249, 115, 22, 0.3));
+}
+
+/* 2. Neon Accent Glassmorphism Card */
+.app-card-neon {
+  border: 1px solid var(--theme-color-light, rgba(13, 148, 136, 0.15)) !important;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.7) 100%);
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+html.dark .app-card-neon {
+  border: 1px solid var(--theme-color-light, rgba(13, 148, 136, 0.15)) !important;
+  background: linear-gradient(180deg, rgba(30, 33, 40, 0.5) 0%, rgba(20, 23, 30, 0.3) 100%) !important;
+}
+.app-card-neon:hover {
+  border-color: var(--theme-color-brand, #14B8A6) !important;
+  box-shadow: 0 20px 40px var(--theme-color-glow, rgba(13, 148, 136, 0.15)), 0 0 25px var(--theme-color-glow-secondary, rgba(249, 115, 22, 0.05)) !important;
+}
