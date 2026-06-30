@@ -21,19 +21,28 @@ const t = useTranslations(lang as keyof typeof languages);
 	</div>
 	<div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
 		<!-- Card 1: On-Device Storage -->
-		<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-indigo-500/30 transition-all duration-500 shadow-sm">
+		<div 
+			class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group app-card-interactive transition-all duration-500 shadow-sm"
+			style="--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);"
+		>
 			<div class="w-12 h-12 rounded-2xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 flex items-center justify-center mb-6 font-bold text-xl">📱</div>
 			<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('ls.security.card1.title')}</h3>
 			<p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('ls.security.card1.desc')}</p>
 		</div>
 		<!-- Card 2: Military-Grade SQLCipher -->
-		<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-indigo-500/30 transition-all duration-500 shadow-sm">
+		<div 
+			class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group app-card-interactive transition-all duration-500 shadow-sm"
+			style="--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);"
+		>
 			<div class="w-12 h-12 rounded-2xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 flex items-center justify-center mb-6 font-bold text-xl">🔑</div>
 			<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('ls.security.card2.title')}</h3>
 			<p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('ls.security.card2.desc')}</p>
 		</div>
 		<!-- Card 3: Encrypted Cloud Backup -->
-		<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-indigo-500/30 transition-all duration-500 shadow-sm">
+		<div 
+			class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group app-card-interactive transition-all duration-500 shadow-sm"
+			style="--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);"
+		>
 			<div class="w-12 h-12 rounded-2xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 flex items-center justify-center mb-6 font-bold text-xl">☁️</div>
 			<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('ls.security.card3.title')}</h3>
 			<p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('ls.security.card3.desc')}</p>

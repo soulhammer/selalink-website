@@ -357,24 +357,24 @@ const t = useTranslations(lang as any);
 	</head>
 	<body class="antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black">
 		<!-- Navigation Bar with Lang & Theme Switches -->
-		<header class="max-w-[1400px] mx-auto px-6 pt-12 flex justify-between items-center relative z-50">
-			<a href={`/${lang}`} class="text-2xl font-bold tracking-tighter flex items-center transition-all duration-300 hover:opacity-80">
+		<header class="max-w-[1400px] mx-auto px-6 pt-6 md:pt-12 flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-0 relative z-50">
+			<a href={`/${lang}`} class="text-xl sm:text-2xl font-bold tracking-tighter flex items-center transition-all duration-300 hover:opacity-80">
 				<span>SelaLink.</span>
 				{appId === 'buildself' && (
-					<span class="text-teal-600 dark:text-teal-400 font-extrabold ml-1.5 font-outfit text-xl tracking-tight animate-fade-in">BuildSelf</span>
+					<span class="text-teal-600 dark:text-teal-400 font-extrabold ml-1.5 font-outfit text-lg sm:text-xl tracking-tight animate-fade-in">BuildSelf</span>
 				)}
 				{appId === 'freshself' && (
-					<span class="text-purple-600 dark:text-purple-400 font-bold ml-1.5 font-jakarta text-xl tracking-normal animate-fade-in">FreshSelf</span>
+					<span class="text-purple-600 dark:text-purple-400 font-bold ml-1.5 font-jakarta text-lg sm:text-xl tracking-normal animate-fade-in">FreshSelf</span>
 				)}
 				{appId === 'storeself' && (
-					<span class="text-emerald-600 dark:text-emerald-400 font-bold ml-1.5 font-jakarta text-xl tracking-normal animate-fade-in">StoreSelf</span>
+					<span class="text-emerald-600 dark:text-emerald-400 font-bold ml-1.5 font-jakarta text-lg sm:text-xl tracking-normal animate-fade-in">StoreSelf</span>
 				)}
 
 				{appId === 'logself' && (
-					<span class="text-indigo-600 dark:text-indigo-400 font-extrabold ml-1.5 font-outfit text-xl tracking-tight animate-fade-in">logSelf</span>
+					<span class="text-indigo-600 dark:text-indigo-400 font-extrabold ml-1.5 font-outfit text-lg sm:text-xl tracking-tight animate-fade-in">logSelf</span>
 				)}
 			</a>
-			<div class="flex items-center gap-6">
+			<div class="flex items-center gap-4 sm:gap-6">
 				<!-- Blog Link -->
 				<a href={`/${lang}/blog/`} class="text-sm font-semibold transition-all duration-300 hover:text-[var(--theme-accent,#0D9488)]">
 					{t('nav.blog')}
@@ -509,20 +509,16 @@ const t = useTranslations(lang as any);
 			});
 		</script>
 
+		<ShortsPlayerModal lang={lang} />
+
 		{appId === 'buildself' && (
-			<>
-				<ShortsPlayerModal lang={lang} />
-				<AppToast lang={lang} triggerId="bsIosDownloadBtn" toastId="bsToastNotification" />
-			</>
+			<AppToast lang={lang} triggerId="bsIosDownloadBtn" toastId="bsToastNotification" />
 		)}
 		{appId === 'logself' && (
 			<AppToast lang={lang} triggerId="lsIosDownloadBtn" toastId="lsToastNotification" />
 		)}
 		{appId === 'freshself' && (
-			<>
-				<AppToast lang={lang} triggerId="iosDownloadBtn" toastId="toastNotification" />
-				<ShortsPlayerModal lang={lang} />
-			</>
+			<AppToast lang={lang} triggerId="iosDownloadBtn" toastId="toastNotification" />
 		)}
 		{appId === 'storeself' && (
 			<AppToast lang={lang} triggerId="iosDownloadBtn" toastId="toastNotification" title={t('detail.toast.title')} desc={t('detail.toast.desc')} />

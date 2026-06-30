@@ -21,12 +21,15 @@ const t = useTranslations(lang as keyof typeof languages);
 	</div>
 	<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
 		{([
-			{ nameKey: 'bs.mentor.lincoln.full', roleKey: 'bs.mentor.lincoln.role', lifespan: '1809 - 1865', avatar: '/images/buildself/mentors/lincoln.webp', quoteKey: 'bs.mentors_dialogue.lincoln', color: 'from-amber-500/10 to-amber-500/5 hover:border-amber-500/35 hover:shadow-[0_0_30px_rgba(245,158,11,0.18)]' },
-			{ nameKey: 'bs.mentor.franklin.full', roleKey: 'bs.mentor.franklin.role', lifespan: '1706 - 1790', avatar: '/images/buildself/mentors/franklin.webp', quoteKey: 'bs.mentors_dialogue.franklin', color: 'from-teal-500/10 to-teal-500/5 hover:border-teal-500/35 hover:shadow-[0_0_30px_rgba(20,184,166,0.18)]' },
-			{ nameKey: 'bs.mentor.nightingale.full', roleKey: 'bs.mentor.nightingale.role', lifespan: '1820 - 1910', avatar: '/images/buildself/mentors/nightingale.webp', quoteKey: 'bs.mentors_dialogue.nightingale', color: 'from-rose-500/10 to-rose-500/5 hover:border-rose-500/35 hover:shadow-[0_0_30px_rgba(244,63,94,0.18)]' },
-			{ nameKey: 'bs.mentor.einstein.full', roleKey: 'bs.mentor.einstein.role', lifespan: '1879 - 1955', avatar: '/images/buildself/mentors/einstein.webp', quoteKey: 'bs.mentors_dialogue.einstein', color: 'from-indigo-500/10 to-indigo-500/5 hover:border-indigo-500/35 hover:shadow-[0_0_30px_rgba(99,102,241,0.18)]' }
+			{ nameKey: 'bs.mentor.lincoln.full', roleKey: 'bs.mentor.lincoln.role', lifespan: '1809 - 1865', avatar: '/images/buildself/mentors/lincoln.webp', quoteKey: 'bs.mentors_dialogue.lincoln', color: 'from-amber-500/10 to-amber-500/5', styleVars: '--theme-color-light: rgba(245, 158, 11, 0.05); --theme-color-border-hover: rgba(245, 158, 11, 0.35); --theme-color-glow: rgba(245, 158, 11, 0.18);' },
+			{ nameKey: 'bs.mentor.franklin.full', roleKey: 'bs.mentor.franklin.role', lifespan: '1706 - 1790', avatar: '/images/buildself/mentors/franklin.webp', quoteKey: 'bs.mentors_dialogue.franklin', color: 'from-teal-500/10 to-teal-500/5', styleVars: '--theme-color-light: rgba(20, 184, 166, 0.05); --theme-color-border-hover: rgba(20, 184, 166, 0.35); --theme-color-glow: rgba(20, 184, 166, 0.18);' },
+			{ nameKey: 'bs.mentor.nightingale.full', roleKey: 'bs.mentor.nightingale.role', lifespan: '1820 - 1910', avatar: '/images/buildself/mentors/nightingale.webp', quoteKey: 'bs.mentors_dialogue.nightingale', color: 'from-rose-500/10 to-rose-500/5', styleVars: '--theme-color-light: rgba(244, 63, 94, 0.05); --theme-color-border-hover: rgba(244, 63, 94, 0.35); --theme-color-glow: rgba(244, 63, 94, 0.18);' },
+			{ nameKey: 'bs.mentor.einstein.full', roleKey: 'bs.mentor.einstein.role', lifespan: '1879 - 1955', avatar: '/images/buildself/mentors/einstein.webp', quoteKey: 'bs.mentors_dialogue.einstein', color: 'from-indigo-500/10 to-indigo-500/5', styleVars: '--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.35); --theme-color-glow: rgba(99, 102, 241, 0.18);' }
 		] as const).map((mentor) => (
-			<div class={`footprint-card flex flex-col p-6 rounded-3xl bg-gradient-to-b ${mentor.color} border border-slate-200/50 dark:border-slate-800/50 backdrop-blur-xl shadow-sm text-left group hover:scale-[1.03] hover:-translate-y-2 transition-all duration-500`}>
+			<div 
+				class={`app-card-interactive flex flex-col p-6 rounded-3xl bg-gradient-to-b ${mentor.color} border border-slate-200/50 dark:border-slate-800/50 backdrop-blur-xl shadow-sm text-left group hover:scale-[1.03] hover:-translate-y-2 transition-all duration-500`}
+				style={mentor.styleVars}
+			>
 				<div class="flex items-center gap-4 mb-5">
 					<div class="w-14 h-14 rounded-2xl overflow-hidden border border-slate-200/50 dark:border-slate-700/80 shadow-md flex-shrink-0">
 						<img src={mentor.avatar} alt={t(mentor.nameKey)} class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" loading="lazy" />
@@ -48,15 +51,3 @@ const t = useTranslations(lang as keyof typeof languages);
 		))}
 	</div>
 </section>
-
-<style>
-	.footprint-card {
-		transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-		border: 1px solid rgba(13, 148, 136, 0.1);
-	}
-	.footprint-card:hover {
-		transform: scale(1.02) translateY(-6px);
-		box-shadow: 0 30px 60px -15px rgba(13, 148, 136, 0.2), 0 0 0 1px rgba(249, 115, 22, 0.2);
-		border-color: rgba(249, 115, 22, 0.3);
-	}
-</style>

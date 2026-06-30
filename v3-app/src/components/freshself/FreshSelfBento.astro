@@ -19,10 +19,16 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 	<p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium">{t('fs.bento.header.desc')}</p>
   </div>
 
-  <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-center bg-white dark:bg-slate-900/40 fresh-bento-card border border-slate-200/60 dark:border-slate-800/80 p-8 sm:p-12 rounded-[2.5rem] backdrop-blur-xl shadow-xl">
+  <div 
+  	class="grid grid-cols-1 md:grid-cols-12 gap-8 items-center bg-white dark:bg-slate-900/40 app-card-neon p-8 sm:p-12 rounded-[2.5rem] backdrop-blur-xl shadow-xl"
+  	style="--theme-color-light: rgba(139, 92, 246, 0.15); --theme-color-brand: #8B5CF6; --theme-color-glow: rgba(139, 92, 246, 0.15); --theme-color-glow-secondary: rgba(16, 185, 129, 0.05);"
+  >
 	<!-- Graphic -->
 	<div class="md:col-span-5 flex justify-center pointer-events-none">
-	  <div class="screenshot-card relative w-[80%] max-w-[260px] rounded-[2rem] p-1.5 bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700 shadow-2xl">
+	  <div 
+	  	class="relative w-[80%] max-w-[260px] rounded-[2rem] p-1.5 bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700 shadow-2xl app-card-interactive"
+	  	style="--theme-color-light: rgba(139, 92, 246, 0.1); --theme-color-glow: rgba(139, 92, 246, 0.25); --theme-color-border-hover: rgba(16, 185, 129, 0.3);"
+	  >
 		<img src={`${imgBase}/4_freshself_phone_screen.jpg`} alt="FreshSelf Analytics Chart" class="w-full h-auto rounded-[1.7rem] object-cover" loading="lazy" />
 	  </div>
 	</div>
@@ -51,23 +57,3 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 	</div>
   </div>
 </section>
-
-<style>
-	.screenshot-card {
-	  transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
-	  border: 1px solid rgba(139, 92, 246, 0.1);
-	}
-	.screenshot-card:hover {
-	  transform: translateY(-8px) scale(1.03);
-	  box-shadow: 0 30px 60px -15px rgba(139, 92, 246, 0.25), 0 0 30px -5px rgba(16, 185, 129, 0.25);
-	  border-color: rgba(16, 185, 129, 0.3);
-	}
-	.fresh-bento-card {
-	  border: 1px solid rgba(139, 92, 246, 0.15) !important;
-	  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-	}
-	.fresh-bento-card:hover {
-	  border-color: rgba(16, 185, 129, 0.4) !important;
-	  box-shadow: 0 25px 50px -12px rgba(139, 92, 246, 0.25), 0 0 30px rgba(16, 185, 129, 0.15) !important;
-	}
-</style>

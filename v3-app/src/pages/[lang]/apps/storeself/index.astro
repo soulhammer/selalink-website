@@ -526,8 +526,10 @@ const categoryCounts = categories.reduce((acc, cat) => {
       </div>
     </div>
 
-    <!-- Search Input & Filters Bento Group -->
-    <div class="bento-card p-4 md:p-6 mb-6" style="--glow-color: rgba(16,185,129,0.15);">
+    <div 
+      class="app-card-neon p-4 md:p-6 mb-6" 
+      style="--theme-color-light: rgba(16, 185, 129, 0.15); --theme-color-brand: #10B981; --theme-color-glow: rgba(16, 185, 129, 0.15); --theme-color-glow-secondary: rgba(16, 185, 129, 0.05);"
+    >
       <!-- Search Input Container with Ambient Glow -->
       <div class="relative max-w-2xl mx-auto mb-5 group/search">
         <div class="absolute -inset-0.5 bg-gradient-to-r from-emerald-500 to-teal-500 rounded-2xl blur-md opacity-0 group-focus-within/search:opacity-20 dark:group-focus-within/search:opacity-30 transition duration-500"></div>
@@ -626,12 +628,12 @@ const categoryCounts = categories.reduce((acc, cat) => {
               data-duration-freezer={item.storage.freezer?.durationDays || 0}
               data-recommended-method={item.recommendedMethod}
               data-recommended-label={t(`util.card.${item.recommendedMethod}.recommended`)}
-              class={`ingredient-item bento-card p-4 sm:p-5 w-full flex justify-between group overflow-hidden transition-all duration-300 ${
+              class={`ingredient-item app-card-interactive p-4 sm:p-5 w-full flex justify-between group overflow-hidden transition-all duration-300 ${
                 isFeatured 
                   ? 'flex-row items-center gap-4 sm:gap-6' 
                   : 'flex-col gap-4'
               }`}
-              style="--glow-color: rgba(16,185,129,0.12);"
+              style="--theme-color-light: rgba(16, 185, 129, 0.1); --theme-color-glow: rgba(16, 185, 129, 0.25); --theme-color-border-hover: rgba(16, 185, 129, 0.3);"
             >
               <div class={`flex gap-3 ${isFeatured ? 'flex-row items-center' : 'flex-col'}`}>
                 {item.iconImage ? (

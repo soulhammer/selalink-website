@@ -35,6 +35,16 @@ const appTags = {
 };
 
 const activeTag = appTags[app] || appTags.general;
+
+// 앱 테마에 어울리는 글로우 스타일 변수 주입
+const styleVars = app === 'storeself'
+  ? '--theme-color-light: rgba(16, 185, 129, 0.05); --theme-color-border-hover: rgba(16, 185, 129, 0.3); --theme-color-glow: rgba(16, 185, 129, 0.15);'
+  : app === 'freshself'
+  ? '--theme-color-light: rgba(139, 92, 246, 0.05); --theme-color-border-hover: rgba(139, 92, 246, 0.3); --theme-color-glow: rgba(139, 92, 246, 0.15);'
+  : app === 'buildself'
+  ? '--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);'
+  : '--theme-color-light: rgba(13, 148, 136, 0.05); --theme-color-border-hover: rgba(13, 148, 136, 0.3); --theme-color-glow: rgba(13, 148, 136, 0.15);';
+
 const formattedDate = new Date(pubDate).toLocaleDateString(lang, {
   year: 'numeric',
   month: 'long',
@@ -44,7 +54,8 @@ const formattedDate = new Date(pubDate).toLocaleDateString(lang, {
 
 <a 
   href={`/${lang}/blog/${post.id.split('/').pop()}/`}
-  class="group flex flex-col overflow-hidden rounded-3xl border border-slate-200/60 bg-white/60 shadow-sm backdrop-blur-md transition-all duration-300 hover:-translate-y-1.5 hover:border-slate-300 hover:shadow-xl dark:border-white/5 dark:bg-slate-900/40 dark:hover:border-white/10 dark:hover:shadow-2xl"
+  class="group flex flex-col overflow-hidden rounded-3xl border border-slate-200/60 bg-white/60 shadow-sm backdrop-blur-md transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl dark:border-white/5 dark:bg-slate-900/40 dark:hover:shadow-2xl app-card-interactive"
+  style={styleVars}
   data-date={new Date(pubDate).getTime()}
   data-title={title.toLowerCase()}
   data-desc={description.toLowerCase()}

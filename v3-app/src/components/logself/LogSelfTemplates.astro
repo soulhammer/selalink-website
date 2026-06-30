@@ -28,7 +28,10 @@ const t = useTranslations(lang as keyof typeof languages);
 			{ id: 'temp_cozy', titleKey: 'ls.templates.cozy.title', descKey: 'ls.templates.cozy.desc' },
 			{ id: 'temp_fog', titleKey: 'ls.templates.fog.title', descKey: 'ls.templates.fog.desc' }
 		] as const).map((temp) => (
-			<div class="footprint-card flex flex-col p-3 rounded-2xl bg-white/50 dark:bg-slate-900/40 border border-slate-200/50 dark:border-slate-800/50 backdrop-blur-xl group hover:scale-[1.04] hover:-translate-y-2 hover:border-indigo-500/30 hover:shadow-xl hover:shadow-indigo-500/5 transition-all duration-500 text-left">
+			<div 
+				class="app-card-interactive flex flex-col p-3 rounded-2xl bg-white/50 dark:bg-slate-900/40 border border-slate-200/50 dark:border-slate-800/50 backdrop-blur-xl group hover:scale-[1.04] hover:-translate-y-2 hover:shadow-xl hover:shadow-indigo-500/5 transition-all duration-500 text-left"
+				style="--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);"
+			>
 				<div class="aspect-[3/4] w-full rounded-xl overflow-hidden mb-3 border border-slate-100 dark:border-slate-800/80 shadow-inner relative">
 					<img src={`/images/logself/templates/${temp.id}.webp`} alt={t(temp.titleKey)} class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
 					<div class="absolute inset-0 bg-gradient-to-t from-slate-950/20 to-transparent"></div>
@@ -41,15 +44,3 @@ const t = useTranslations(lang as keyof typeof languages);
 		))}
 	</div>
 </section>
-
-<style>
-	.footprint-card {
-		transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-		border: 1px solid rgba(99, 102, 241, 0.1);
-	}
-	.footprint-card:hover {
-		transform: scale(1.02) translateY(-6px);
-		box-shadow: 0 30px 60px -15px rgba(99, 102, 241, 0.25), 0 0 0 1px rgba(99, 102, 241, 0.2);
-		border-color: rgba(99, 102, 241, 0.3);
-	}
-</style>

@@ -2,7 +2,6 @@
 import Layout from '../../../layouts/Layout.astro';
 import BlogAppCta from '../../../components/BlogAppCta.astro';
 import YoutubeEmbed from '../../../components/YoutubeEmbed.astro';
-import ShortsPlayerModal from '../../../components/ShortsPlayerModal.astro';
 import { getCollection, render } from 'astro:content';
 import { useTranslations } from '../../../i18n/ui';
 
@@ -253,7 +252,4 @@ const activeAccent = themeAccents[app] || themeAccents.general;
       )}
     </div>
   </main>
-
-  <!-- Shared Popup Modal Component (Rule 5 compliance) -->
-  <ShortsPlayerModal lang={lang} />
 </Layout>

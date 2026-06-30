@@ -23,11 +23,14 @@ const isKo = lang === 'ko';
 	</div>
 	<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
 		<!-- Card 1: Mood Calendar -->
-		<div class="footprint-card neon-accent-card flex flex-col pt-8 px-6 items-center rounded-3xl relative overflow-hidden backdrop-blur-xl group">
+		<div 
+			class="app-card-neon flex flex-col pt-8 px-6 items-center rounded-3xl relative overflow-hidden backdrop-blur-xl group"
+			style="--theme-color-light: rgba(99, 102, 241, 0.15); --theme-color-brand: #6366F1; --theme-color-glow: rgba(99, 102, 241, 0.15); --theme-color-glow-secondary: rgba(99, 102, 241, 0.05);"
+		>
 			<div class="flex-1 w-full flex flex-col items-start text-left">
 				<span class="text-2xl mb-4">📅</span>
 				<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">{t('ls.insights.card1.title')}</h3>
-				<p class="text-xs md:text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium mb-6">{t('ls.insights.card1.desc')}</p>
+				<p class="text-xs md:text-sm text-slate-650 dark:text-slate-455 leading-relaxed font-medium mb-6">{t('ls.insights.card1.desc')}</p>
 			</div>
 			<div class="w-full mt-auto relative rounded-t-2xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-lg bg-white/50 dark:bg-slate-900/50">
 				<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start">
@@ -36,11 +39,14 @@ const isKo = lang === 'ko';
 			</div>
 		</div>
 		<!-- Card 2: Photo & Link Gallery -->
-		<div class="footprint-card neon-accent-card flex flex-col pt-8 px-6 items-center rounded-3xl relative overflow-hidden backdrop-blur-xl group">
+		<div 
+			class="app-card-neon flex flex-col pt-8 px-6 items-center rounded-3xl relative overflow-hidden backdrop-blur-xl group"
+			style="--theme-color-light: rgba(99, 102, 241, 0.15); --theme-color-brand: #6366F1; --theme-color-glow: rgba(99, 102, 241, 0.15); --theme-color-glow-secondary: rgba(99, 102, 241, 0.05);"
+		>
 			<div class="flex-1 w-full flex flex-col items-start text-left">
 				<span class="text-2xl mb-4">🖼️</span>
 				<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">{t('ls.insights.card2.title')}</h3>
-				<p class="text-xs md:text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium mb-6">{t('ls.insights.card2.desc')}</p>
+				<p class="text-xs md:text-sm text-slate-650 dark:text-slate-455 leading-relaxed font-medium mb-6">{t('ls.insights.card2.desc')}</p>
 			</div>
 			<div class="w-full mt-auto relative rounded-t-2xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-lg bg-white/50 dark:bg-slate-900/50">
 				<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start">
@@ -49,11 +55,14 @@ const isKo = lang === 'ko';
 			</div>
 		</div>
 		<!-- Card 3: Chronicle Insights -->
-		<div class="footprint-card neon-accent-card flex flex-col pt-8 px-6 items-center rounded-3xl relative overflow-hidden backdrop-blur-xl group">
+		<div 
+			class="app-card-neon flex flex-col pt-8 px-6 items-center rounded-3xl relative overflow-hidden backdrop-blur-xl group"
+			style="--theme-color-light: rgba(99, 102, 241, 0.15); --theme-color-brand: #6366F1; --theme-color-glow: rgba(99, 102, 241, 0.15); --theme-color-glow-secondary: rgba(99, 102, 241, 0.05);"
+		>
 			<div class="flex-1 w-full flex flex-col items-start text-left">
 				<span class="text-2xl mb-4">📊</span>
 				<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">{t('ls.insights.card3.title')}</h3>
-				<p class="text-xs md:text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium mb-6">{t('ls.insights.card3.desc')}</p>
+				<p class="text-xs md:text-sm text-slate-650 dark:text-slate-455 leading-relaxed font-medium mb-6">{t('ls.insights.card3.desc')}</p>
 			</div>
 			<div class="w-full mt-auto relative rounded-t-2xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-lg bg-white/50 dark:bg-slate-900/50">
 				<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start">
@@ -63,28 +72,3 @@ const isKo = lang === 'ko';
 		</div>
 	</div>
 </section>
-
-<style>
-	.footprint-card {
-		transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-		border: 1px solid rgba(99, 102, 241, 0.1);
-	}
-	.footprint-card:hover {
-		transform: scale(1.02) translateY(-6px);
-		box-shadow: 0 30px 60px -15px rgba(99, 102, 241, 0.25), 0 0 0 1px rgba(99, 102, 241, 0.2);
-		border-color: rgba(99, 102, 241, 0.3);
-	}
-	.neon-accent-card {
-		border: 1px solid rgba(99, 102, 241, 0.15) !important;
-		background: linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.7) 100%);
-		transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-	}
-	html.dark .neon-accent-card {
-		border: 1px solid rgba(99, 102, 241, 0.15) !important;
-		background: linear-gradient(180deg, rgba(30, 33, 45, 0.5) 0%, rgba(20, 23, 35, 0.3) 100%) !important;
-	}
-	.neon-accent-card:hover {
-		border-color: #6366F1 !important;
-		box-shadow: 0 20px 40px rgba(99, 102, 241, 0.15), 0 0 25px rgba(99, 102, 241, 0.05) !important;
-	}
-</style>
