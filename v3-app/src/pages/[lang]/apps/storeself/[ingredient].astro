@@ -585,8 +585,16 @@ const detailsList: string[] = [];
 ['fridge', 'room', 'freezer'].forEach((m) => {
   const guide = currentItem.storage[m as keyof typeof currentItem.storage];
   if (guide && guide.durationDays > 0) {
-    const template = methodNames[currentLang]?.[m] || methodNames['en']?.[m] || '';
-    detailsList.push(template.replace('{d}', String(guide.durationDays)));
+    const template = methodNames[currentLang]?.[m as keyof (typeof methodNames)['en']] || methodNames['en']?.[m as keyof (typeof methodNames)['en']] || '';
+    if (guide.durationDays === 9999) {
+      const infiniteText: Record<string, string> = {
+        ko: '무기한', en: 'Infinite', ja: '無期限', zh: '无期限', es: 'Indefinido', fr: 'Indéfini', de: 'Unbegrenzt', pt: 'Indefinido', id: 'Selamanya'
+      };
+      const infStr = infiniteText[currentLang] || infiniteText['en'];
+      detailsList.push(template.replace('({d}일)', `(${infStr})`).replace('({d} days)', `(${infStr})`).replace('({d}日)', `(${infStr})`).replace('({d}天)', `(${infStr})`).replace('({d} dias)', `(${infStr})`).replace('({d} jours)', `(${infStr})`).replace('({d} Tagen)', `(${infStr})`).replace('({d} dias)', `(${infStr})`).replace('({d} hari)', `(${infStr})`).replace('{d}', infStr));
+    } else {
+      detailsList.push(template.replace('{d}', String(guide.durationDays)));
+    }
   }
 });
 const detailsText = detailsList.join(', ');
@@ -643,7 +651,9 @@ const faqEntities: any[] = [];
     const qText = isKo 
       ? `${localName} ${methodLabel} 기간과 보관 방법은 어떻게 되나요?`
       : `How long can you store ${localName} in the ${m} and how to do it?`;
-    const aText = `${localName}의 권장 ${methodLabel} 기간은 ${guide.durationDays}일입니다. 보관 팁: ${guide.tips[currentLang] || guide.tips['en']}`;
+    const aText = guide.durationDays === 9999
+      ? `${localName}의 권장 ${methodLabel} 기간은 무기한입니다. 보관 팁: ${guide.tips[currentLang] || guide.tips['en']}`
+      : `${localName}의 권장 ${methodLabel} 기간은 ${guide.durationDays}일입니다. 보관 팁: ${guide.tips[currentLang] || guide.tips['en']}`;
     faqEntities.push({
       "@type": "Question",
       "name": qText,
@@ -1200,6 +1210,26 @@ const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
         return;
       }
 
+      if (storageDuration === 9999) {
+        if (calcEatUntil) {
+          const infUntilText = {
+            ko: '소비기한 없음', en: 'No Expiry Date', ja: '消費期限なし', zh: '无消费期限', es: 'Sin fecha de caducidad', fr: 'Pas de date de péremption', de: 'Kein Verfallsdatum', pt: 'Sem data de validade', id: 'Tidak ada tanggal kedaluwarsa'
+          }[currentLang] || 'No Expiry Date';
+          calcEatUntil.textContent = infUntilText;
+        }
+        if (calcDDay) {
+          const infLabel = {
+            ko: '무기한 보관 가능 ♾️', en: 'Stored Indefinitely ♾️', ja: '無期限保存可能 ♾️', zh: '可无期限保存 ♾️', es: 'Almacenado indefinidamente ♾️', fr: 'Stocké indéfiniment ♾️', de: 'Unbegrenzt haltbar ♾️', pt: 'Armazenado indefinidamente ♾️', id: 'Disimpan selamanya ♾️'
+          }[currentLang] || 'Stored Indefinitely ♾️';
+          calcDDay.innerHTML = `🟢 ${infLabel}`;
+          calcDDay.className = 'text-lg font-extrabold text-emerald-600 dark:text-emerald-400 leading-snug';
+          if (feedbackCard) {
+            feedbackCard.className = "p-4 rounded-xl bg-emerald-50/60 dark:bg-emerald-950/15 border border-emerald-500/40 flex flex-col justify-between min-h-[90px] transition-all duration-300";
+          }
+        }
+        return;
+      }
+
       // YYYY-MM-DD 문자열을 로컬 타임존 기준으로 안전하게 파싱 (UTC 타임존 왜곡 방지)
       const dateParts = buyDateInput.value.split('-');
       if (dateParts.length !== 3) {
@@ -1305,16 +1335,24 @@ const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
       });
 
       // Update days counters & Gauge
-      if (daysCount) daysCount.textContent = String(storageDuration);
-      if (daysUnit) daysUnit.textContent = getDaysTranslation(storageDuration);
+      if (daysCount) {
+        daysCount.textContent = storageDuration === 9999
+          ? ({ ko: '무기한', en: 'Infinite', ja: '無期限', zh: '无期限', es: 'Indefinido', fr: 'Indéfini', de: 'Unbegrenzt', pt: 'Indefinido', id: 'Selamanya' }[currentLang] || 'Infinite')
+          : String(storageDuration);
+      }
+      if (daysUnit) {
+        daysUnit.textContent = storageDuration === 9999 ? '' : getDaysTranslation(storageDuration);
+      }
       
       if (gaugeFill) {
-        const percentage = Math.min(100, (storageDuration / 45) * 100);
+        const percentage = storageDuration === 9999 ? 100 : Math.min(100, (storageDuration / 45) * 100);
         gaugeFill.style.width = `${percentage}%`;
         
         // 게이지 색상 그라데이션 동적 조절
         gaugeFill.className = 'h-full rounded-full transition-all duration-700 ease-out shadow-[0_1px_2px_rgba(0,0,0,0.15)]';
-        if (storageDuration <= 7) {
+        if (storageDuration === 9999) {
+          gaugeFill.classList.add('bg-gradient-to-r', 'from-emerald-400', 'to-blue-500');
+        } else if (storageDuration <= 7) {
           gaugeFill.classList.add('bg-gradient-to-r', 'from-amber-400', 'to-orange-500');
         } else if (storageDuration <= 30) {
           gaugeFill.classList.add('bg-gradient-to-r', 'from-emerald-500', 'to-teal-500');

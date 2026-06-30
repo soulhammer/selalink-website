@@ -20,7 +20,7 @@ export const condimentIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 1095,
+        durationDays: 9999,
         tips: {
           ko: '개봉 전에는 서늘하고 건조한 상온에 보관하면 매우 오래 두고 드실 수 있습니다.',
           en: 'Unopened cans keep for years in a cool, dry pantry.',
@@ -139,7 +139,7 @@ export const condimentIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 730,
+        durationDays: 9999,
         tips: {
           ko: '절대 냉장 보관하지 마세요. 하얗게 당분이 결정화되어 굳어집니다. 뚜껑을 꼭 닫아 건조하고 서늘한 실온에 두면 상하지 않고 영구적입니다.',
           en: 'Never refrigerate; cold causes sugar crystallization and hardening. Keep tightly sealed in a dry, room-temp pantry.',
@@ -300,7 +300,7 @@ export const condimentIngredients: Ingredient[] = [
     },
     storage: {
       room: {
-        durationDays: 730,
+        durationDays: 9999,
         tips: {
           ko: '식초는 산도가 매우 높아 미생물이 자라지 못하는 자기보존 식품입니다. 뚜껑을 꼭 닫아 그늘지고 서늘한 상온에 보관하면 거의 영구히 보존됩니다. 흰 침전물은 자연스러운 현상입니다.',
           en: 'Vinegar is self-preserving due to high acidity. Tighten lid and store in a cool, dark room. It will last almost indefinitely. Cloudiness/sediment is natural and safe.',
