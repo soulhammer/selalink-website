@@ -1,0 +1,52 @@
+---
+// Language-neutral redirect page for old FreshSelf ingredients paths
+import { ingredients } from '../../../../data/ingredients';
+
+export function getStaticPaths() {
+  const paths = [];
+  
+  // 1. Index page redirection (/apps/freshself/ingredients/ -> /apps/storeself/)
+  paths.push({
+    params: { redirect: undefined }
+  });
+  
+  // 2. Individual ingredient redirection (/apps/freshself/ingredients/[ingredient]/ -> /apps/storeself/[ingredient]/)
+  for (const item of ingredients) {
+    paths.push({
+      params: { redirect: item.id }
+    });
+  }
+  return paths;
+}
+
+const { redirect } = Astro.params;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, follow" />
+  <!-- Fallback meta refresh for crawlers/AI bots with JS disabled -->
+  <meta http-equiv="refresh" content={`0;url=/en/apps/storeself/${redirect ? redirect + '/' : ''}`} />
+  <title>Redirecting...</title>
+</head>
+<body>
+  <script is:inline define:vars={{ redirect }}>
+    (function() {
+      var validLangs = ['en', 'ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'];
+      var lang = navigator.language || navigator.userLanguage || "en";
+      lang = lang.split('-')[0]; // ko-KR -> ko
+      
+      var searchParams = window.location.search || "";
+      var hash = window.location.hash || "";
+      
+      var targetLang = validLangs.indexOf(lang) !== -1 ? lang : "en";
+      var targetPath = redirect ? redirect + '/' : '';
+      var targetUrl = '/' + targetLang + '/apps/storeself/' + targetPath + searchParams + hash;
+      
+      window.location.replace(targetUrl);
+    })();
+  </script>
+</body>
+</html>
