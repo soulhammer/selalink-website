@@ -76,7 +76,11 @@ const filteredPosts = allPosts
     // id가 'ko/how-to-store-bananas' 형태이므로 앞 폴더명으로 언어 구별
     return post.id.startsWith(normalizedLang + '/');
   })
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  .sort((a, b) => {
+    const dateA = a.data.updatedDate ? new Date(a.data.updatedDate).getTime() : new Date(a.data.pubDate).getTime();
+    const dateB = b.data.updatedDate ? new Date(b.data.updatedDate).getTime() : new Date(b.data.pubDate).getTime();
+    return dateB - dateA;
+  });
 
 const title = t('blog.title');
 const description = t('blog.desc');

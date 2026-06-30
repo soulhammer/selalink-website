@@ -20,7 +20,7 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { lang } = Astro.params;
-const { title, description, pubDate, heroImage, app, youtubeId } = post.data;
+const { title, description, pubDate, heroImage, app, youtubeId, updatedDate } = post.data;
 
 const t = useTranslations(lang as any);
 const { Content, headings } = await render(post);
@@ -35,6 +35,7 @@ const structuredDataList: any[] = [
     "description": description,
     "image": heroImage ? new URL(heroImage, Astro.site).href : undefined,
     "datePublished": new Date(pubDate).toISOString(),
+    "dateModified": updatedDate ? new Date(updatedDate).toISOString() : new Date(pubDate).toISOString(),
     "author": {
       "@type": "Organization",
       "name": "SelaLink Studio",
