@@ -270,7 +270,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
       <!-- Desktop Table of Contents (TOC) -->
       {headings.length > 0 && (
         <aside class="hidden lg:block sticky top-28 self-start bg-slate-500/5 dark:bg-slate-900/20 p-6 rounded-[2rem] border border-slate-200/50 dark:border-white/5 backdrop-blur-sm max-h-[calc(100vh-160px)] overflow-y-auto shadow-sm">
-          <h5 class="text-[10px] font-bold uppercase tracking-widest text-slate-400 dark:text-slate-500 mb-4">목차</h5>
+          <h5 class="text-[10px] font-bold uppercase tracking-widest text-slate-400 dark:text-slate-500 mb-4">{t('blog.toc')}</h5>
           <nav class="space-y-2.5 text-[13px]">
             {headings.filter(h => h.depth <= 3).map(h => (
               <a 
@@ -293,7 +293,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
             href={`/${lang}/blog/${prevPost.id.split('/').pop()}/`} 
             class="group flex flex-col p-6 rounded-[2rem] border border-slate-200/60 dark:border-white/5 bg-slate-50/30 dark:bg-slate-900/20 hover:border-slate-300 dark:hover:border-white/10 transition-all duration-300 shadow-sm"
           >
-            <span class="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-1.5">이전 글</span>
+            <span class="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-1.5">{t('blog.prev')}</span>
             <h4 class="text-sm font-bold text-slate-700 dark:text-slate-200 group-hover:text-slate-950 dark:group-hover:text-white transition-colors line-clamp-2 leading-snug">{prevPost.data.title}</h4>
           </a>
         ) : (
@@ -305,7 +305,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
             href={`/${lang}/blog/${nextPost.id.split('/').pop()}/`} 
             class="group flex flex-col p-6 rounded-[2rem] border border-slate-200/60 dark:border-white/5 bg-slate-50/30 dark:bg-slate-900/20 hover:border-slate-300 dark:hover:border-white/10 transition-all duration-300 shadow-sm text-right"
           >
-            <span class="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-1.5">다음 글</span>
+            <span class="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-1.5">{t('blog.next')}</span>
             <h4 class="text-sm font-bold text-slate-700 dark:text-slate-200 group-hover:text-slate-950 dark:group-hover:text-white transition-colors line-clamp-2 leading-snug">{nextPost.data.title}</h4>
           </a>
         )}

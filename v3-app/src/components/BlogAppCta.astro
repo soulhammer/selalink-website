@@ -3,7 +3,7 @@ import { useTranslations, languages } from '../i18n/ui';
 
 interface Props {
   lang: string;
-  app: 'storeself' | 'freshself' | 'buildself' | 'general';
+  app: 'storeself' | 'freshself' | 'buildself' | 'logself' | 'general';
 }
 
 const { lang, app } = Astro.props;
@@ -42,6 +42,16 @@ const appDetails = {
     badgeText: t('cta.badge.download'),
     badgeStyle: 'bg-indigo-100 text-indigo-800 dark:bg-indigo-500/20 dark:text-indigo-300 border-indigo-200/50 dark:border-indigo-500/20'
   },
+  logself: {
+    title: t('app.logself.title') || 'logSelf',
+    desc: t('app.logself.desc') || 'The safest way to log yourself.',
+    btnText: t('cta.general.btn') || 'Learn More',
+    link: `/${currentLang}/apps/logself/`,
+    bgColor: 'bg-blue-50/50 border-blue-100 dark:bg-blue-950/10 dark:border-blue-500/20',
+    btnBg: 'bg-blue-600 hover:bg-blue-700 text-white focus:ring-blue-500/20',
+    badgeText: t('app.logself.status') || 'Coming Soon',
+    badgeStyle: 'bg-blue-100 text-blue-800 dark:bg-blue-500/20 dark:text-blue-300 border-blue-200/50 dark:border-blue-500/20'
+  },
   general: {
     title: t('cta.general.title'),
     desc: t('cta.general.desc'),
@@ -63,6 +73,8 @@ const styleVars = app === 'storeself'
   ? '--theme-color-light: rgba(139, 92, 246, 0.05); --theme-color-border-hover: rgba(139, 92, 246, 0.3); --theme-color-glow: rgba(139, 92, 246, 0.15);'
   : app === 'buildself'
   ? '--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);'
+  : app === 'logself'
+  ? '--theme-color-light: rgba(59, 130, 246, 0.05); --theme-color-border-hover: rgba(59, 130, 246, 0.3); --theme-color-glow: rgba(59, 130, 246, 0.15);'
   : '--theme-color-light: rgba(13, 148, 136, 0.05); --theme-color-border-hover: rgba(13, 148, 136, 0.3); --theme-color-glow: rgba(13, 148, 136, 0.15);';
 ---
 

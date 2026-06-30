@@ -24,7 +24,7 @@ authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(
       역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 그녀의 딸 이브 퀴리가 쓴 전기 <strong>&lt;Madame Curie: A Biography&gt;</strong> 및 하버드 헬스 퍼블리싱(Harvard Health Publishing)에 게재된 야외 유산소 운동의 인지 회복 및 스트레스 호르몬 코르티솔 조절 연구를 바탕으로 작성되었습니다.
+      본 콘텐츠는 그녀의 딸 이브 퀴리가 쓴 전기 <strong>&lt;Madame Curie: A Biography&gt;</strong> 및 하버드 헬스 퍼블리싱(Harvard Health) 운동 연구를 바탕으로 작성되었습니다.
     </p>
   </div>
 </div>

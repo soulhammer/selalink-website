@@ -116,17 +116,10 @@ const description = t('blog.desc');
           </button>
           <button 
             type="button"
-            data-filter="buildself" 
-            class="filter-btn px-6 py-2.5 rounded-full text-xs font-bold border border-slate-200 bg-white/50 text-slate-600 hover:border-indigo-500/30 hover:bg-indigo-500/5 hover:text-indigo-600 dark:border-white/5 dark:bg-slate-900/40 dark:text-slate-300 dark:hover:border-indigo-500/30 dark:hover:bg-indigo-500/10 dark:hover:text-indigo-400 transition-all duration-300 shadow-sm cursor-pointer"
+            class="filter-btn px-5 py-2.5 rounded-full text-xs font-bold border border-slate-200 bg-white/50 text-slate-700 hover:text-slate-900 hover:bg-white dark:border-white/5 dark:bg-slate-950/40 dark:text-slate-400 dark:hover:text-white dark:hover:bg-slate-900 transition-all duration-300 shadow-sm cursor-pointer"
+            data-filter="buildself"
           >
             🏆 {t('blog.filter.buildself')}
-          </button>
-          <button 
-            type="button"
-            data-filter="logself" 
-            class="filter-btn px-6 py-2.5 rounded-full text-xs font-bold border border-slate-200 bg-white/50 text-slate-600 hover:border-blue-500/30 hover:bg-blue-500/5 hover:text-blue-600 dark:border-white/5 dark:bg-slate-900/40 dark:text-slate-300 dark:hover:border-blue-500/30 dark:hover:bg-blue-500/10 dark:hover:text-blue-400 transition-all duration-300 shadow-sm cursor-pointer"
-          >
-            📝 {t('blog.filter.logself')}
           </button>
         </div>
 
@@ -283,20 +276,34 @@ const description = t('blog.desc');
 
       // DOM에 정렬된 순서대로 재배치
       sortedCards.forEach(card => {
-        postsContainer.appendChild(card);
+        postsContainer?.appendChild(card);
       });
 
       // 4. 결과 개수 피드백 업데이트
       if (searchCount) {
         const lang = document.documentElement.lang || 'ko';
         if (query.length > 0 || activeFilter !== 'all') {
+          let text = '';
           if (lang === 'ko') {
-            searchCount.textContent = `총 ${visibleCount}개의 포스트가 발견되었습니다.`;
+            text = `총 ${visibleCount}개의 포스트가 발견되었습니다.`;
           } else if (lang === 'ja') {
-            searchCount.textContent = `合計 ${visibleCount} 件の記事が見つかりました。`;
+            text = `合計 ${visibleCount} 件の記事が見つかりました。`;
+          } else if (lang === 'zh') {
+            text = `共找到 ${visibleCount} 篇符合条件的文章。`;
+          } else if (lang === 'es') {
+            text = `Se encontraron ${visibleCount} artículo(s) que coinciden con tus criterios.`;
+          } else if (lang === 'fr') {
+            text = `Trouvé ${visibleCount} article(s) correspondant à vos critères.`;
+          } else if (lang === 'de') {
+            text = `${visibleCount} Beitrag/Beiträge gefunden, die Ihren Kriterien entsprechen.`;
+          } else if (lang === 'pt') {
+            text = `Encontrado(s) ${visibleCount} artigo(s) correspondente(s) aos seus critérios.`;
+          } else if (lang === 'id') {
+            text = `Ditemukan ${visibleCount} artikel yang sesuai dengan kriteria Anda.`;
           } else {
-            searchCount.textContent = `Found ${visibleCount} post(s) matching your criteria.`;
+            text = `Found ${visibleCount} post(s) matching your criteria.`;
           }
+          searchCount.textContent = text;
           searchCount.classList.remove('opacity-0');
         } else {
           searchCount.textContent = '';

@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "니콜라 테슬라", "수면 루틴", "집중력", "동기부여"]
 heroImage: "/images/blog/tesla_sleep_hack.png"
-app: "logself"
+app: "buildself"
 authority: "니콜라 테슬라 자서전 'My Inventions' 및 물리치료과학학회지(JPTS)"
 ---
 
