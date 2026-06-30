@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
 heroImage: "/images/blog/edison_nap.png"
-app: "buildself"
+app: "logself"
 authority: "에디슨의 일기 및 관찰록(1948) 및 프랑스 파리 뇌연구소(Paris Brain Institute) 연구"
 ---
 

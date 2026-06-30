@@ -121,6 +121,13 @@ const description = t('blog.desc');
           >
             🏆 {t('blog.filter.buildself')}
           </button>
+          <button 
+            type="button"
+            data-filter="logself" 
+            class="filter-btn px-6 py-2.5 rounded-full text-xs font-bold border border-slate-200 bg-white/50 text-slate-600 hover:border-blue-500/30 hover:bg-blue-500/5 hover:text-blue-600 dark:border-white/5 dark:bg-slate-900/40 dark:text-slate-300 dark:hover:border-blue-500/30 dark:hover:bg-blue-500/10 dark:hover:text-blue-400 transition-all duration-300 shadow-sm cursor-pointer"
+          >
+            📝 {t('blog.filter.logself')}
+          </button>
         </div>
 
         {/* 세련된 Glassmorphism 검색 제어 패널 */}
@@ -244,6 +251,8 @@ const description = t('blog.desc');
           matchesFilter = (app === 'storeself' || app === 'freshself');
         } else if (activeFilter === 'buildself') {
           matchesFilter = (app === 'buildself');
+        } else if (activeFilter === 'logself') {
+          matchesFilter = (app === 'logself');
         }
 
         // 2. 검색어 매칭 (제목, 설명, 식재료 한글명, 태그)
@@ -253,11 +262,14 @@ const description = t('blog.desc');
           ingName.includes(query) || 
           tags.includes(query);
 
+        // 초기 카드들에 트랜지션 클래스 추가
+        card.classList.add('blog-card-transition');
+
         if (matchesFilter && matchesQuery) {
-          card.classList.remove('hidden');
+          card.classList.remove('blog-card-hidden');
           visibleCount++;
         } else {
-          card.classList.add('hidden');
+          card.classList.add('blog-card-hidden');
         }
       });
 
@@ -319,6 +331,8 @@ const description = t('blog.desc');
           btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-emerald-500 border-emerald-500 text-white dark:bg-emerald-600 dark:border-emerald-600";
         } else if (filter === 'buildself') {
           btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-indigo-500 border-indigo-500 text-white dark:bg-indigo-600 dark:border-indigo-600";
+        } else if (filter === 'logself') {
+          btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-blue-500 border-blue-500 text-white dark:bg-blue-600 dark:border-blue-600";
         }
 
         filterAndSort();
@@ -346,3 +360,23 @@ const description = t('blog.desc');
     filterAndSort();
   });
 </script>
+
+<style is:global>
+  .blog-card-transition {
+    transition: opacity 0.3s ease, transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    opacity: 1;
+    transform: scale(1);
+  }
+  .blog-card-hidden {
+    opacity: 0 !important;
+    transform: scale(0.95) !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    width: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+  }
+</style>

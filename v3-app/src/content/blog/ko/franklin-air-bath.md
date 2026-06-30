@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 category: "BuildSelf"
 tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
 heroImage: "/images/blog/franklin_air_bath.png"
-app: "buildself"
+app: "logself"
 authority: "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Franklin' 및 뉴잉글랜드 의학저널(NEJM)"
 ---
 

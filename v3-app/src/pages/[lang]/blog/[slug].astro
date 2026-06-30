@@ -23,7 +23,7 @@ const { lang } = Astro.params;
 const { title, description, pubDate, heroImage, app, youtubeId } = post.data;
 
 const t = useTranslations(lang as any);
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
 
 // SEO를 위한 구조화된 데이터(JSON-LD) 생성
 const formattedUrl = new URL(Astro.url.pathname, Astro.site).href;
@@ -125,11 +125,20 @@ const formattedDate = new Date(pubDate).toLocaleDateString(locale, {
   day: 'numeric'
 });
 
+// 이전 글 / 다음 글 계산
+const allPostsOfLang = (await getCollection('blog'))
+  .filter((p) => p.id.startsWith(lang + '/'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const currentIndex = allPostsOfLang.findIndex((p) => p.id === post.id);
+const nextPost = currentIndex > 0 ? allPostsOfLang[currentIndex - 1] : null;
+const prevPost = currentIndex < allPostsOfLang.length - 1 ? allPostsOfLang[currentIndex + 1] : null;
+
 // 앱 타입별 테마 스타일링 바인딩
 const themeAccents = {
   storeself: 'prose-a:text-emerald-600 dark:prose-a:text-emerald-400 hover:prose-a:text-emerald-700 dark:hover:prose-a:text-emerald-300 border-emerald-500/10 dark:border-emerald-500/20 bg-emerald-500/5',
   freshself: 'prose-a:text-purple-600 dark:prose-a:text-purple-400 hover:prose-a:text-purple-700 dark:hover:prose-a:text-purple-300 border-purple-500/10 dark:border-purple-500/20 bg-purple-500/5',
   buildself: 'prose-a:text-indigo-600 dark:prose-a:text-indigo-400 hover:prose-a:text-indigo-700 dark:hover:prose-a:text-indigo-300 border-indigo-500/10 dark:border-indigo-500/20 bg-indigo-500/5',
+  logself: 'prose-a:text-blue-600 dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 border-blue-500/10 dark:border-blue-500/20 bg-blue-500/5',
   general: 'prose-a:text-teal-600 dark:prose-a:text-teal-400 hover:prose-a:text-teal-700 dark:hover:prose-a:text-teal-300 border-teal-500/10 dark:border-teal-500/20 bg-teal-500/5'
 };
 const activeAccent = themeAccents[app] || themeAccents.general;
@@ -144,7 +153,19 @@ const activeAccent = themeAccents[app] || themeAccents.general;
   ogType="website"
   structuredData={structuredDataList}
 >
-  <main class="max-w-[760px] mx-auto px-6 py-12 md:py-20">
+  {/* Reading Progress Bar */}
+  <div 
+    id="reading-progress" 
+    class="fixed top-0 left-0 h-1 bg-gradient-to-r from-[var(--theme-accent,#10B981)] to-teal-400 z-50 transition-all duration-100" 
+    style={`width: 0%; --theme-accent: ${
+      app === 'storeself' ? '#10B981' : 
+      app === 'freshself' ? '#A855F7' : 
+      app === 'buildself' ? '#6366F1' : 
+      app === 'logself' ? '#3B82F6' : '#14B8A6'
+    };`}
+  ></div>
+
+  <main class="max-w-[1080px] mx-auto px-6 py-12 md:py-20">
     <!-- Breadcrumb -->
     <nav class="flex text-xs font-semibold text-slate-500 mb-8" aria-label="Breadcrumb">
       <ol class="inline-flex items-center space-x-1 md:space-x-2">
@@ -198,38 +219,98 @@ const activeAccent = themeAccents[app] || themeAccents.general;
       )}
     </header>
 
-    <!-- YouTube Shorts Embed Section (Interactive & Cinematic) -->
-    {youtubeId && (
-      <div class={`p-6 md:p-8 rounded-[2rem] border ${activeAccent} mb-12 flex flex-col md:flex-row items-center gap-8 justify-between shadow-sm dark:shadow-none`}>
-        <div class="space-y-4 max-w-sm text-center md:text-left">
-          <span class="px-2.5 py-1 rounded-full bg-red-600 text-white font-bold text-[10px] tracking-widest uppercase">YOUTUBE SHORTS</span>
-          <h4 class="text-xl font-extrabold text-slate-900 dark:text-white leading-snug tracking-tight">
-            {t('blog.shorts.title')}
-          </h4>
-          <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">
-            {t('blog.shorts.desc')}
-          </p>
-        </div>
-        <div class="w-full md:w-auto flex justify-center shrink-0">
-          <YoutubeEmbed id={youtubeId} title={title} isShorts={true} app={app} />
-        </div>
+    <!-- Layout Grid: Content + Desktop TOC -->
+    <div class="grid grid-cols-1 lg:grid-cols-[1fr_260px] gap-12 items-start">
+      <div class="w-full min-w-0">
+        <!-- YouTube Shorts Embed Section (Interactive & Cinematic) -->
+        {youtubeId && (
+          <div class={`p-6 md:p-8 rounded-[2rem] border ${activeAccent} mb-12 flex flex-col md:flex-row items-center gap-8 justify-between shadow-sm dark:shadow-none`}>
+            <div class="space-y-4 max-w-sm text-center md:text-left">
+              <span class="px-2.5 py-1 rounded-full bg-red-600 text-white font-bold text-[10px] tracking-widest uppercase">YOUTUBE SHORTS</span>
+              <h4 class="text-xl font-extrabold text-slate-900 dark:text-white leading-snug tracking-tight">
+                {t('blog.shorts.title')}
+              </h4>
+              <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">
+                {t('blog.shorts.desc')}
+              </p>
+            </div>
+            <div class="w-full md:w-auto flex justify-center shrink-0">
+              <YoutubeEmbed id={youtubeId} title={title} isShorts={true} app={app} />
+            </div>
+          </div>
+        )}
+
+        <!-- Article Body (Refined Premium Typography) -->
+        <article 
+          class={`prose prose-slate dark:prose-invert max-w-none mb-16 tracking-tight text-slate-800/95 dark:text-slate-200/95 ${themeAccents[app] || ''}
+            prose-headings:text-slate-900 dark:prose-headings:text-white prose-headings:font-extrabold prose-headings:tracking-tight
+            prose-h2:text-2xl prose-h2:md:text-3xl prose-h2:mt-14 prose-h2:mb-6 prose-h2:pb-3.5 prose-h2:border-b prose-h2:border-slate-200/80 dark:prose-h2:border-white/5
+            prose-h3:text-lg prose-h3:md:text-xl prose-h3:mt-10 prose-h3:mb-4
+            prose-p:my-5 prose-p:text-[16px] prose-p:md:text-[17px] prose-p:leading-[1.75] prose-p:text-slate-700 dark:prose-p:text-slate-300
+            /* 한글 가독성 어절 단위 래핑 설정 */
+            prose-p:break-keep prose-p:overflow-wrap-anywhere
+            prose-li:break-keep
+            prose-strong:text-slate-900 dark:prose-strong:text-white prose-strong:font-extrabold
+            prose-hr:my-12 prose-hr:border-slate-200 dark:prose-hr:border-white/5
+            prose-ul:list-none prose-ul:pl-0 prose-ul:my-6
+            prose-li:relative prose-li:pl-7 prose-li:my-3 prose-li:text-[15px] prose-li:md:text-[16px] prose-li:text-slate-700 dark:prose-li:text-slate-300
+            prose-li:before:content-["•"] prose-li:before:absolute prose-li:before:left-2 prose-li:before:text-[var(--theme-accent,#10B981)] prose-li:before:font-extrabold prose-li:before:text-lg
+            prose-blockquote:border-l-4 prose-blockquote:border-[var(--theme-accent,#10B981)] prose-blockquote:bg-[var(--theme-accent,#10B981)]/5 prose-blockquote:py-5 prose-blockquote:px-7 prose-blockquote:rounded-r-3xl prose-blockquote:my-8 prose-blockquote:text-slate-700 dark:prose-blockquote:text-slate-300 prose-blockquote:not-italic`}
+          style={`--theme-accent: ${
+            app === 'storeself' ? '#10B981' : 
+            app === 'freshself' ? '#A855F7' : 
+            app === 'buildself' ? '#6366F1' : 
+            app === 'logself' ? '#3B82F6' : '#14B8A6'
+          };`}
+        >
+          <Content />
+        </article>
+      </div>
+
+      <!-- Desktop Table of Contents (TOC) -->
+      {headings.length > 0 && (
+        <aside class="hidden lg:block sticky top-28 self-start bg-slate-500/5 dark:bg-slate-900/20 p-6 rounded-[2rem] border border-slate-200/50 dark:border-white/5 backdrop-blur-sm max-h-[calc(100vh-160px)] overflow-y-auto shadow-sm">
+          <h5 class="text-[10px] font-bold uppercase tracking-widest text-slate-400 dark:text-slate-500 mb-4">목차</h5>
+          <nav class="space-y-2.5 text-[13px]">
+            {headings.filter(h => h.depth <= 3).map(h => (
+              <a 
+                href={`#${h.slug}`} 
+                class={`block text-slate-505 hover:text-slate-800 dark:text-slate-400 dark:hover:text-white transition-colors duration-150 py-0.5 leading-relaxed ${h.depth === 3 ? 'pl-4 text-xs' : 'font-bold'}`}
+              >
+                {h.text}
+              </a>
+            ))}
+          </nav>
+        </aside>
+      )}
+    </div>
+
+    <!-- 이전 글 / 다음 글 내비게이션 -->
+    {(prevPost || nextPost) && (
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 my-16 pt-12 border-t border-slate-200 dark:border-white/10">
+        {prevPost ? (
+          <a 
+            href={`/${lang}/blog/${prevPost.id.split('/').pop()}/`} 
+            class="group flex flex-col p-6 rounded-[2rem] border border-slate-200/60 dark:border-white/5 bg-slate-50/30 dark:bg-slate-900/20 hover:border-slate-300 dark:hover:border-white/10 transition-all duration-300 shadow-sm"
+          >
+            <span class="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-1.5">이전 글</span>
+            <h4 class="text-sm font-bold text-slate-700 dark:text-slate-200 group-hover:text-slate-950 dark:group-hover:text-white transition-colors line-clamp-2 leading-snug">{prevPost.data.title}</h4>
+          </a>
+        ) : (
+          <div class="hidden sm:block"></div>
+        )}
+        
+        {nextPost && (
+          <a 
+            href={`/${lang}/blog/${nextPost.id.split('/').pop()}/`} 
+            class="group flex flex-col p-6 rounded-[2rem] border border-slate-200/60 dark:border-white/5 bg-slate-50/30 dark:bg-slate-900/20 hover:border-slate-300 dark:hover:border-white/10 transition-all duration-300 shadow-sm text-right"
+          >
+            <span class="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-1.5">다음 글</span>
+            <h4 class="text-sm font-bold text-slate-700 dark:text-slate-200 group-hover:text-slate-950 dark:group-hover:text-white transition-colors line-clamp-2 leading-snug">{nextPost.data.title}</h4>
+          </a>
+        )}
       </div>
     )}
-
-    <!-- Article Body (Refined Premium Typography) -->
-    <article class={`prose prose-slate dark:prose-invert max-w-none mb-16 tracking-tight text-slate-800/95 dark:text-slate-200/95 ${themeAccents[app] || ''}
-      prose-headings:text-slate-900 dark:prose-headings:text-white prose-headings:font-extrabold prose-headings:tracking-tight
-      prose-h2:text-2xl prose-h2:md:text-3xl prose-h2:mt-14 prose-h2:mb-6 prose-h2:pb-3.5 prose-h2:border-b prose-h2:border-slate-200/80 dark:prose-h2:border-white/5
-      prose-h3:text-lg prose-h3:md:text-xl prose-h3:mt-10 prose-h3:mb-4
-      prose-p:my-5 prose-p:text-[16px] prose-p:md:text-[17px] prose-p:leading-[1.75] prose-p:text-slate-700 dark:prose-p:text-slate-300
-      prose-strong:text-slate-900 dark:prose-strong:text-white prose-strong:font-extrabold
-      prose-hr:my-12 prose-hr:border-slate-200 dark:prose-hr:border-white/5
-      prose-ul:list-none prose-ul:pl-0 prose-ul:my-6
-      prose-li:relative prose-li:pl-7 prose-li:my-3 prose-li:text-[15px] prose-li:md:text-[16px] prose-li:text-slate-700 dark:prose-li:text-slate-300
-      prose-li:before:content-["•"] prose-li:before:absolute prose-li:before:left-2 prose-li:before:text-[var(--theme-accent,#10B981)] prose-li:before:font-extrabold prose-li:before:text-lg
-      prose-blockquote:border-l-4 prose-blockquote:border-[var(--theme-accent,#10B981)] prose-blockquote:bg-[var(--theme-accent,#10B981)]/5 prose-blockquote:py-5 prose-blockquote:px-7 prose-blockquote:rounded-r-3xl prose-blockquote:my-8 prose-blockquote:text-slate-700 dark:prose-blockquote:text-slate-300 prose-blockquote:not-italic`}>
-      <Content />
-    </article>
  
     <!-- Legal Disclaimer Section -->
     <div class="my-10 p-5 rounded-[1.5rem] border border-slate-200/80 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20 shadow-sm backdrop-blur-sm">
@@ -253,3 +334,50 @@ const activeAccent = themeAccents[app] || themeAccents.general;
     </div>
   </main>
 </Layout>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    // 1. 읽기 진행 바 제어
+    const progressBar = document.getElementById('reading-progress');
+    if (progressBar) {
+      window.addEventListener('scroll', () => {
+        const winScroll = document.documentElement.scrollTop || document.body.scrollTop;
+        const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        const scrolled = height > 0 ? (winScroll / height) * 100 : 0;
+        progressBar.style.width = scrolled + '%';
+      });
+    }
+
+    // 2. TOC 활성화 하이라이팅 (Intersection Observer)
+    const headings = Array.from(document.querySelectorAll('article h2, article h3'));
+    const tocLinks = Array.from(document.querySelectorAll('aside nav a'));
+    
+    if (headings.length > 0 && tocLinks.length > 0) {
+      const observerOptions = {
+        root: null,
+        rootMargin: '-100px 0px -70% 0px',
+        threshold: 0
+      };
+
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            const id = entry.target.getAttribute('id');
+            tocLinks.forEach((link) => {
+              const href = link.getAttribute('href')?.substring(1);
+              if (href === id) {
+                link.classList.add('text-slate-900', 'dark:text-white', 'font-extrabold');
+                link.classList.remove('text-slate-500', 'dark:text-slate-400');
+              } else {
+                link.classList.remove('text-slate-900', 'dark:text-white', 'font-extrabold');
+                link.classList.add('text-slate-500', 'dark:text-slate-400');
+              }
+            });
+          }
+        });
+      }, observerOptions);
+
+      headings.forEach((heading) => observer.observe(heading));
+    }
+  });
+</script>
