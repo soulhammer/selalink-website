@@ -913,7 +913,7 @@ export const vegetableIngredients: Ingredient[] = [
         tips: {
           ko: '껍질을 벗겨 썰어서 살짝 찌거나 으깬 후, 1회분씩 지퍼백에 얇게 펴서 얼려두면 수프나 이유식 만들 때 편리합니다.',
           en: 'Peel, chop, and steam or puree. Freeze in single-use bags for easy soups or baby food.',
-          ja: '껍질을 벗겨 썰어서 살짝 찌거나 으깬 후, 1회분씩 지퍼백에 얇게 펴서 얼려두면 수프나 이유식 만들 때 편리합니다.',
+          ja: '皮をむいてカットし、軽く蒸すか潰した後、1回分ずつフリーザーバッグに平らに広げて冷凍してください。スープや離乳食用にすぐに使えて便利です。',
           zh: '去皮切块后蒸熟或捣成泥, 按单次用量装袋平摊冷冻, 方便制作浓汤或辅食。',
           es: 'Pele, pique y cocine al vapor o puré. Congele en porciones para sopas o purés.',
           fr: 'Pelez, coupez et cuisez à la vapeur ou en purée. Congelez en portions pour soupes ou purées.',
