@@ -37,7 +37,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'As oscilações na porta aceleram a deterioração. Guarde nas prateleiras internas e consuma em até 1 semana após abrir.',
           id: 'Perubahan suhu di pintu kulkas mempercepat basi. Simpan di rak dalam; konsumsi dalam 1 minggu setelah dibuka.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['MFDS', 'USDA', 'FDA']
       }
     }
   },
@@ -77,7 +77,7 @@ export const dairyIngredients: Ingredient[] = [
           pt: 'Lavar os ovos remove a película protetora, facilitando a entrada de bactérias. Não lave; guarde com a ponta para baixo nas prateleiras internas, longe da porta, para evitar a proliferação de Salmonella.',
           id: 'Mencuci telur merusak lapisan pelindung, memudahkan bakteri masuk. Jangan dicuci; simpan ujung runcing di bawah di dalam rak utama kulkas, hindari bagian pintu untuk mencegah pertumbuhan Salmonella.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['MFDS', 'USDA', 'FDA']
       }
     }
   },

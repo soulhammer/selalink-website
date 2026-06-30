@@ -216,7 +216,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Gorduras insaturadas oxidam rapidamente. Vede bem com absorvedores de oxigênio em local escuro.',
           id: 'Lemak tak jenuh memicu oksidasi cepat. Segel rapat dengan penyerap oksigen di tempat gelap.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['MFDS', 'USDA', 'FDA']
       },
       fridge: {
         durationDays: 90,
@@ -231,7 +231,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Refrigere em sacos bem vedados sob clima quente para evitar o crescimento de mofo tóxico (aflatoxina).',
           id: 'Dinginkan dalam kantong tersegel rapat saat cuaca panas untuk mencegah jamur beracun (aflatoksin).'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['MFDS', 'USDA', 'FDA']
       },
       freezer: {
         durationDays: 180,
@@ -246,7 +246,7 @@ export const etcIngredients: Ingredient[] = [
           pt: 'Usar saco duplo e congelar é a melhor forma de evitar o ranço e manter a crocância típica.',
           id: 'Bungkus ganda dan bekukan adalah cara terbaik mencegah tengik dan menjaga kerenyahannya.'
         },
-        sources: ['MFDS', 'USDA']
+        sources: ['MFDS', 'USDA', 'FDA']
       }
     }
   },
