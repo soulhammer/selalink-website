@@ -1,0 +1,42 @@
+---
+import { useTranslations, languages } from '../../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang as keyof typeof languages);
+---
+
+<!-- Zero-Knowledge Security Section -->
+<section class="mb-20 md:mb-28">
+	<div class="text-center max-w-2xl mx-auto mb-12">
+		<h2 class="text-3xl md:text-4xl font-black text-slate-900 dark:text-white tracking-tight mb-4">
+			{t('ls.security.title')}
+		</h2>
+		<p class="text-slate-600 dark:text-slate-400 font-medium px-4">
+			{t('ls.security.desc')}
+		</p>
+	</div>
+	<div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+		<!-- Card 1: On-Device Storage -->
+		<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-indigo-500/30 transition-all duration-500 shadow-sm">
+			<div class="w-12 h-12 rounded-2xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 flex items-center justify-center mb-6 font-bold text-xl">📱</div>
+			<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('ls.security.card1.title')}</h3>
+			<p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('ls.security.card1.desc')}</p>
+		</div>
+		<!-- Card 2: Military-Grade SQLCipher -->
+		<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-indigo-500/30 transition-all duration-500 shadow-sm">
+			<div class="w-12 h-12 rounded-2xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 flex items-center justify-center mb-6 font-bold text-xl">🔑</div>
+			<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('ls.security.card2.title')}</h3>
+			<p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('ls.security.card2.desc')}</p>
+		</div>
+		<!-- Card 3: Encrypted Cloud Backup -->
+		<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-indigo-500/30 transition-all duration-500 shadow-sm">
+			<div class="w-12 h-12 rounded-2xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 flex items-center justify-center mb-6 font-bold text-xl">☁️</div>
+			<h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('ls.security.card3.title')}</h3>
+			<p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('ls.security.card3.desc')}</p>
+		</div>
+	</div>
+</section>

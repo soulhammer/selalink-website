@@ -5,6 +5,12 @@ import ShortsPlayerModal from '../../../../components/ShortsPlayerModal.astro';
 import ShortsGallery from '../../../../components/ShortsGallery.astro';
 import MentorMarquee from '../../../../components/MentorMarquee.astro';
 
+// New Sub-components
+import BuildSelfHero from '../../../../components/buildself/BuildSelfHero.astro';
+import BuildSelfFeatures from '../../../../components/buildself/BuildSelfFeatures.astro';
+import BuildSelfMentors from '../../../../components/buildself/BuildSelfMentors.astro';
+import BuildSelfCalendar from '../../../../components/buildself/BuildSelfCalendar.astro';
+
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
 }
@@ -12,55 +18,10 @@ export function getStaticPaths() {
 const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 
-const qrTitle = t('app.qr.title');
-const qrDesc = t('app.qr.desc');
 const toastTitle = t('app.toast.ios.title');
 const toastDesc = t('app.toast.ios.desc');
 ---
 <Layout title={t('app.buildself.meta.title')} lang={lang} description={t('app.buildself.desc')} ogType="software" image="/assets/images/og/buildself.png" appId="buildself">
-	<!-- Override default dark bg constraint if we want this page uniquely themed -->
-	<style>
-		:root {
-			--bs-primary: #0D9488;
-			--bs-secondary: #14B8A6;
-			--bs-cta: #F97316;
-		}
-
-		/* BuildSelf specific animations */
-		.footprint-card {
-			transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-			border: 1px solid rgba(13, 148, 136, 0.1);
-		}
-		.footprint-card:hover {
-			transform: scale(1.02) translateY(-6px);
-			box-shadow: 0 30px 60px -15px rgba(13, 148, 136, 0.2), 0 0 0 1px rgba(249, 115, 22, 0.2);
-			border-color: rgba(249, 115, 22, 0.3);
-		}
-		
-		.app-button {
-			transition: all 0.3s ease;
-		}
-		.app-button:hover {
-			transform: translateY(-2px);
-			box-shadow: 0 10px 25px -5px var(--bs-primary);
-		}
-
-		/* Neon Border Accent on feature cards */
-		.neon-accent-card {
-			border: 1px solid rgba(13, 148, 136, 0.15) !important;
-			background: linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.7) 100%);
-			transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-		}
-		html.dark .neon-accent-card {
-			border: 1px solid rgba(13, 148, 136, 0.15) !important;
-			background: linear-gradient(180deg, rgba(30, 33, 40, 0.5) 0%, rgba(20, 23, 30, 0.3) 100%) !important;
-		}
-		.neon-accent-card:hover {
-			border-color: var(--bs-secondary) !important;
-			box-shadow: 0 20px 40px rgba(13, 148, 136, 0.15), 0 0 25px rgba(249, 115, 22, 0.05) !important;
-		}
-	</style>
-
 	<div class="bg-slate-50 dark:bg-slate-900 min-h-screen pt-4 md:pt-10 pb-20 overflow-hidden relative">
 		<!-- Background decorative elements -->
 		<div class="absolute top-0 right-0 -mr-40 -mt-40 w-96 h-96 rounded-full bg-teal-400/20 dark:bg-teal-600/10 blur-3xl pointer-events-none"></div>
@@ -75,286 +36,17 @@ const toastDesc = t('app.toast.ios.desc');
 				</a>
 			</div>
 
-			<!-- Hero Section - Spatial Design Integration -->
-			<section class="flex flex-col lg:flex-row items-center justify-between gap-8 lg:gap-20 mb-12 md:mb-20">
-				<div class="flex-1 space-y-6 md:space-y-8 w-full max-w-2xl lg:max-w-xl z-20 text-center lg:text-left">
-					<!-- Ultra-Clean Localized Badge -->
-					<div class="inline-flex items-center px-4 py-2 rounded-full bg-orange-50 dark:bg-orange-500/10 border border-orange-200 dark:border-orange-500/30 shadow-sm mx-auto lg:mx-0 w-max">
-						<div class="flex items-center gap-2">
-							<span class="w-1.5 md:w-2 h-1.5 md:h-2 rounded-full bg-orange-500 animate-pulse"></span>
-							<span class="text-base leading-none">🌍</span>
-						</div>
-						<div class="w-[1px] h-4 bg-orange-300 dark:bg-orange-500/50 mx-3"></div>
-						<span class="font-bold text-orange-600 dark:text-orange-400 text-sm tracking-tight">{t('app.buildself.supported')}</span>
-					</div>
-					<h1 class="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 dark:text-white leading-[1.1] tracking-tight whitespace-pre-line mx-auto lg:mx-0">
-						{t('bs.hero.title')}
-					</h1>
-					<p class="text-lg md:text-xl text-slate-600 dark:text-slate-400 leading-relaxed font-medium mx-auto lg:mx-0">
-						{t('app.buildself.desc')}
-					</p>
-					
-					<div class="flex flex-col sm:flex-row gap-3 md:gap-4 pt-4 md:pt-6 justify-center lg:justify-start w-full relative z-20">
-						<button id="bsIosDownloadBtn" class="flex items-center justify-center gap-3 bg-slate-200/50 dark:bg-slate-800/50 border border-slate-300 dark:border-slate-700 text-slate-500 dark:text-slate-400 px-6 md:px-8 py-3 md:py-4 rounded-xl md:rounded-2xl font-bold text-base md:text-lg opacity-70 cursor-pointer w-full sm:w-auto transition-all duration-300 hover:scale-[1.01]">
-							<svg class="w-5 h-5 md:w-6 md:h-6 opacity-70" fill="currentColor" viewBox="0 0 24 24"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.253 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.04 2.26-.79 3.59-.76 2.6.04 4.19 1.45 4.8 1.8-3.1 1.76-2.58 5.86.37 6.94-1.04 2.45-2.51 3.5-3.84 4.19zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
-							<div class="flex flex-col items-start leading-tight">
-								<span class="text-xs text-slate-400 font-medium uppercase tracking-wider">App Store</span>
-								<span class="text-sm font-bold text-slate-500">Coming Soon</span>
-							</div>
-						</button>
-						
-						<a href={`https://play.google.com/store/apps/details?id=com.selalink.buildself&hl=${lang}`} target="_blank" rel="noopener noreferrer" class="group/btn flex items-center justify-center gap-3 bg-teal-600 hover:bg-teal-500 text-white px-8 py-4 rounded-2xl font-bold text-lg cursor-pointer shadow-lg shadow-teal-600/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 w-full sm:w-auto">
-							<svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/></svg>
-							<div class="flex flex-col items-start leading-tight">
-								<span class="text-xs text-teal-200 font-medium uppercase tracking-wider">Google Play</span>
-								<span class="text-sm font-bold text-white">{t('bs.hero.cta')}</span>
-							</div>
-						</a>
-					</div>
+			<!-- Hero Section -->
+			<BuildSelfHero lang={lang} />
 
-					<!-- Frictionless QR Code Card (Desktop Only) -->
-					<div class="hidden md:flex items-center gap-4 p-4 rounded-2xl bg-white/70 dark:bg-slate-900/50 backdrop-blur-2xl border border-white/80 dark:border-white/10 shadow-md w-max mt-6 relative z-20">
-						<div class="w-32 h-32 bg-white dark:bg-white p-3 rounded-2xl border border-slate-200 flex items-center justify-center shadow-inner">
-							<img src="/assets/images/qr/qr_buildself.svg" alt="BuildSelf Play Store QR Code" class="w-full h-full object-contain" />
-						</div>
-						<div class="flex flex-col text-left font-sans">
-							<span class="text-xs font-bold text-slate-800 dark:text-slate-200">{qrTitle}</span>
-							<span class="text-[10px] text-slate-500 dark:text-slate-400 font-medium mt-0.5 leading-tight" set:html={qrDesc}></span>
-						</div>
-					</div>
-				</div>
+			<!-- Features Section -->
+			<BuildSelfFeatures lang={lang} />
 
-				<!-- Premium 3D Glassmorphism Image Stack -->
-				<div class="flex-1 w-full h-auto lg:h-[650px] relative flex flex-col items-center justify-center perspective-[1200px] mt-12 lg:mt-0 z-10 pointer-events-none">
-					<!-- Back Image (Analytics/Consistency) - Hidden on mobile/tablet for clarity -->
-					<div class="hidden lg:block absolute right-4 top-10 w-[70%] max-w-[320px] rounded-[2.5rem] p-1.5 bg-white/30 dark:bg-slate-800/30 backdrop-blur-xl border border-white/40 dark:border-white/10 shadow-2xl transform rotate-6 hover:rotate-3 transition-all duration-700 opacity-90">
-						<img src="/assets/images/apps/buildself/4_buildself_phone_screen.jpeg" alt="BuildSelf Consistency Tracking" class="w-full h-auto rounded-[2.2rem] shadow-inner object-cover" loading="lazy" />
-					</div>
-					
-					<!-- Front Image (Daily Routine) - Relative and centered on mobile/tablet -->
-					<div class="relative lg:absolute lg:left-4 lg:bottom-10 w-[68%] sm:w-[60%] lg:w-[75%] max-w-[340px] rounded-[2rem] lg:rounded-[2.5rem] p-1.5 lg:p-2 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-10px_10px_40px_rgba(0,0,0,0.15)] lg:shadow-[-20px_20px_60px_rgba(0,0,0,0.15)] dark:shadow-[0_20px_30px_70px_rgba(0,0,0,0.6)] transform -rotate-3 hover:transform-none transition-all duration-700 z-10 footprint-card mx-auto lg:mx-0">
-						<img src="/assets/images/apps/buildself/1_buildself_phone_screen.jpeg" alt="Daily Routine Check Main UI" class="w-full h-auto rounded-[1.8rem] lg:rounded-[2rem] shadow-sm object-cover" loading="eager" />
-						
-						<!-- Floating Glass Chip -->
-						<div class="absolute -left-2 lg:-left-6 top-16 lg:top-20 bg-white/90 dark:bg-slate-800/90 backdrop-blur-md px-3 lg:px-4 py-2 lg:py-3 rounded-xl lg:rounded-2xl border border-slate-100 dark:border-slate-700 shadow-xl flex items-center gap-2 lg:gap-3 transform -rotate-6 z-10">
-							<div class="w-6 h-6 lg:w-8 lg:h-8 rounded-full bg-teal-100 dark:bg-teal-500/20 flex items-center justify-center text-teal-600 dark:text-teal-400 text-xs lg:text-base">✓</div>
-							<div class="text-xs lg:text-sm font-bold text-slate-800 dark:text-slate-200 shadow-sm lg:shadow-none bg-slate-100 dark:bg-slate-700 lg:bg-slate-100/50 lg:dark:bg-slate-800/50 rounded-full lg:rounded-lg px-2.5 py-1 lg:px-2 lg:py-0.5">{t('bs.demo.drink')}</div>
-						</div>
+			<!-- Mentors Section -->
+			<BuildSelfMentors lang={lang} />
 
-						<!-- Sleek Live Translation Pill (Static, Elegant) -->
-						<div class="absolute -right-2 lg:-right-8 top-32 lg:top-1/3 bg-white/95 dark:bg-slate-800/95 backdrop-blur-xl px-4 py-3 rounded-full border border-slate-200/80 dark:border-slate-700/80 shadow-[0_15px_30px_rgba(0,0,0,0.12)] dark:shadow-[0_15px_30px_rgba(0,0,0,0.6)] flex items-center gap-3 transform rotate-2 hover:-rotate-1 hover:scale-105 transition-all duration-500 z-20 tooltip-hover-group group">
-							<!-- Glowing Translator Icon -->
-							<div class="w-7 h-7 rounded-full bg-gradient-to-br from-orange-100 to-orange-50 dark:from-orange-500/20 dark:to-orange-500/5 flex items-center justify-center text-orange-600 dark:text-orange-400 border border-orange-200/50 dark:border-orange-500/20 shadow-inner group-hover:scale-110 transition-transform">
-								<svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 6C11.642 9.073 9.4 12 7 12m0 0a17.964 17.964 0 01-4-1.5"/></svg>
-							</div>
-							
-							<!-- Static Text Container -->
-							<div class="text-sm font-bold text-slate-800 dark:text-slate-200 tracking-tight text-left flex items-center font-sans tracking-wide">
-								{t('bs.demo.complete')}
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-
-			<!-- Mentor & Media Bento Image Grid Section -->
-			<section class="mb-16 md:mb-24">
-				<div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
-					
-					<!-- Feature 1: Mentor Journey (Amber/Gold Glowing Card) -->
-					<div class="footprint-card neon-accent-card flex flex-col pt-8 md:pt-12 px-6 md:px-10 items-center rounded-[2rem] md:rounded-[3rem] relative overflow-hidden backdrop-blur-xl group">
-						<!-- Ambient Gold Glow in Dark Mode -->
-						<div class="absolute inset-0 bg-gradient-to-b from-amber-50/50 to-transparent dark:from-amber-900/20 dark:to-transparent pointer-events-none"></div>
-						<div class="absolute -top-32 -left-32 w-96 h-96 bg-amber-400/20 dark:bg-amber-500/10 rounded-full blur-[100px] pointer-events-none group-hover:scale-110 transition-transform duration-1000"></div>
-						
-						<!-- Star Mentor Icon -->
-						<div class="w-12 h-12 md:w-16 md:h-16 bg-gradient-to-br from-amber-100 to-amber-50 dark:from-amber-500/20 dark:to-amber-500/5 text-amber-600 dark:text-amber-400 rounded-full flex items-center justify-center mb-6 md:mb-8 self-start border border-amber-200 dark:border-amber-500/20 shadow-inner z-10 transition-transform duration-500 group-hover:rotate-12 group-hover:scale-110">
-							<svg class="w-6 h-6 md:w-8 md:h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"/></svg>
-						</div>
-						
-						<!-- Card Copy -->
-						<div class="flex-1 w-full flex flex-col items-start z-10 min-h-[160px] md:min-h-0">
-							<h3 class="text-2xl md:text-3xl font-black text-slate-900 dark:text-white mb-3 md:mb-4 tracking-tight group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors drop-shadow-sm">{t('bs.feature1.title')}</h3>
-							<p class="text-base md:text-lg text-slate-600 dark:text-slate-400 leading-relaxed font-medium mb-8 md:mb-12 max-w-sm">{t('bs.feature1.desc')}</p>
-						</div>
-						
-						<!-- App Screen Base -->
-						<div class="w-full mt-auto relative rounded-[1.5rem] md:rounded-t-[2rem] overflow-hidden border border-slate-200 dark:border-slate-700 shadow-[0_-10px_40px_rgba(0,0,0,0.08)] mb-6 md:mb-0 z-10">
-							<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start bg-slate-50 dark:bg-slate-900 border-t border-white/10">
-								<img src="/assets/images/apps/buildself/3_buildself_phone_screen.jpeg" alt="Mentor Journey Interface" class="w-full h-full object-cover object-[center_62%] scale-[1.02] hover:scale-[1.05] transition-transform duration-700 cursor-pointer" loading="lazy" />
-							</div>
-							<div class="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-white dark:from-slate-900 to-transparent pointer-events-none rounded-b-[1.5rem] md:rounded-none"></div>
-						</div>
-					</div>
-
-					<!-- Feature 2: Shorts Integration (Vibrant Crimson/Rose Dark Card) -->
-					<div class="footprint-card flex flex-col pt-8 md:pt-12 px-6 md:px-10 items-center bg-gradient-to-b from-rose-600 to-rose-900 dark:from-rose-800 dark:to-slate-900 rounded-[2rem] md:rounded-[3rem] border border-rose-500/50 dark:border-rose-500/30 shadow-2xl shadow-rose-600/20 text-white relative overflow-hidden group">
-						<!-- Dynamic Light Meshes -->
-						<div class="absolute -bottom-10 md:-bottom-20 -right-10 md:-right-20 w-64 md:w-80 h-64 md:h-80 bg-rose-400/40 rounded-full blur-[80px] pointer-events-none group-hover:scale-125 transition-transform duration-[1.5s]"></div>
-						<div class="absolute top-0 right-0 w-48 md:w-64 h-48 md:h-64 bg-orange-500/30 rounded-full blur-[60px] pointer-events-none"></div>
-						
-						<!-- Analytics Icon -->
-						<div class="w-12 h-12 md:w-16 md:h-16 bg-white/20 text-white rounded-full flex items-center justify-center mb-6 md:mb-8 self-start backdrop-blur-md border border-white/30 shadow-[0_0_20px_rgba(255,255,255,0.2)] z-10 transition-transform duration-500 group-hover:scale-110">
-							<svg class="w-6 h-6 md:w-8 md:h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>
-						</div>
-						
-						<!-- Card Copy -->
-						<div class="flex-1 w-full flex flex-col items-start z-10 min-h-[160px] md:min-h-0">
-							<h3 class="text-2xl md:text-3xl font-black mb-3 md:mb-4 tracking-tight drop-shadow-md">{t('bs.feature2.title')}</h3>
-							<p class="text-base md:text-lg text-rose-50/90 leading-relaxed font-medium mb-8 md:mb-12 max-w-sm drop-shadow-sm">{t('bs.feature2.desc')}</p>
-						</div>
-						
-						<!-- App Screen Extruded -->
-						<div class="w-[95%] md:w-full mt-auto relative flex justify-center rounded-[1.5rem] md:rounded-t-[2rem] overflow-hidden shadow-[0_-20px_60px_rgba(0,0,0,0.4)] border border-rose-300/30 z-10 mb-6 md:mb-0">
-							<div class="aspect-[4/3] w-full bg-slate-900 absolute inset-0 -z-10 opacity-0 transition-opacity duration-700"></div>
-							<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start bg-slate-50 dark:bg-slate-900 border-t border-white/10">
-								<img src="/assets/images/apps/buildself/6_buildself_phone_screen.jpeg" alt="Insightful Analytics Interface" class="w-full h-full object-cover object-[center_16%] scale-[1.02] hover:scale-[1.05] transition-transform duration-[1.5s] cursor-pointer" loading="lazy" />
-							</div>
-							<div class="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-slate-100/5 dark:from-slate-900 to-transparent pointer-events-none rounded-b-[1.5rem] md:rounded-none"></div>
-						</div>
-					</div>
-				</div>
-			</section>
-
-			<!-- New Section 1: Historical Mentors Mapping & Interaction (위인 멘토 매핑 및 인터랙션) -->
-			<section class="mb-20 md:mb-28">
-				<div class="text-center max-w-2xl mx-auto mb-12">
-					<h2 class="text-3xl md:text-4xl font-black text-slate-900 dark:text-white tracking-tight mb-4">
-						{t('bs.mentors_dialogue.title')}
-					</h2>
-					<p class="text-slate-600 dark:text-slate-400 font-medium px-4">
-						{t('bs.mentors_dialogue.desc')}
-					</p>
-				</div>
-				<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
-					{([
-						{ nameKey: 'bs.mentor.lincoln.full', roleKey: 'bs.mentor.lincoln.role', lifespan: '1809 - 1865', avatar: '/images/buildself/mentors/lincoln.webp', quoteKey: 'bs.mentors_dialogue.lincoln', color: 'from-amber-500/10 to-amber-500/5 hover:border-amber-500/35 hover:shadow-[0_0_30px_rgba(245,158,11,0.18)]' },
-						{ nameKey: 'bs.mentor.franklin.full', roleKey: 'bs.mentor.franklin.role', lifespan: '1706 - 1790', avatar: '/images/buildself/mentors/franklin.webp', quoteKey: 'bs.mentors_dialogue.franklin', color: 'from-teal-500/10 to-teal-500/5 hover:border-teal-500/35 hover:shadow-[0_0_30px_rgba(20,184,166,0.18)]' },
-						{ nameKey: 'bs.mentor.nightingale.full', roleKey: 'bs.mentor.nightingale.role', lifespan: '1820 - 1910', avatar: '/images/buildself/mentors/nightingale.webp', quoteKey: 'bs.mentors_dialogue.nightingale', color: 'from-rose-500/10 to-rose-500/5 hover:border-rose-500/35 hover:shadow-[0_0_30px_rgba(244,63,94,0.18)]' },
-						{ nameKey: 'bs.mentor.einstein.full', roleKey: 'bs.mentor.einstein.role', lifespan: '1879 - 1955', avatar: '/images/buildself/mentors/einstein.webp', quoteKey: 'bs.mentors_dialogue.einstein', color: 'from-indigo-500/10 to-indigo-500/5 hover:border-indigo-500/35 hover:shadow-[0_0_30px_rgba(99,102,241,0.18)]' }
-					] as const).map((mentor) => (
-						<div class={`footprint-card flex flex-col p-6 rounded-3xl bg-gradient-to-b ${mentor.color} border border-slate-200/50 dark:border-slate-800/50 backdrop-blur-xl shadow-sm text-left group hover:scale-[1.03] hover:-translate-y-2 transition-all duration-500`}>
-							<div class="flex items-center gap-4 mb-5">
-								<div class="w-14 h-14 rounded-2xl overflow-hidden border border-slate-200/50 dark:border-slate-700/80 shadow-md flex-shrink-0">
-									<img src={mentor.avatar} alt={t(mentor.nameKey)} class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" loading="lazy" />
-								</div>
-								<div>
-									<h4 class="text-base font-black text-slate-900 dark:text-white leading-snug">{t(mentor.nameKey)}</h4>
-									<p class="text-[10px] text-slate-400 dark:text-slate-500 font-bold uppercase tracking-wider mt-0.5 flex flex-wrap items-center gap-1">
-										<span>{t(mentor.roleKey)}</span>
-										<span class="text-slate-300 dark:text-slate-700">|</span>
-										<span class="text-slate-500 dark:text-slate-400 font-mono font-medium lowercase tracking-normal">{mentor.lifespan}</span>
-									</p>
-								</div>
-							</div>
-							<div class="relative flex-1 bg-white/60 dark:bg-slate-900/50 rounded-2xl p-4 border border-slate-150/40 dark:border-slate-800/40">
-								<span class="absolute -top-3 left-4 text-2xl text-slate-350 dark:text-slate-750 font-serif">“</span>
-								<p class="text-xs sm:text-sm text-slate-650 dark:text-slate-300 font-medium leading-relaxed italic">{t(mentor.quoteKey)}</p>
-							</div>
-						</div>
-					))}
-				</div>
-			</section>
-
-			<!-- New Section 2: Gamified Habit Loop & Heatmap (습관 복리 루프) -->
-			<section class="mb-20 md:mb-28 p-8 md:p-12 rounded-[2.5rem] bg-gradient-to-r from-teal-950/40 to-slate-900/60 border border-teal-500/20 backdrop-blur-xl text-white relative overflow-hidden group">
-				<div class="absolute -top-32 -left-32 w-96 h-96 bg-teal-500/10 rounded-full blur-[100px] pointer-events-none"></div>
-				<div class="relative z-10 flex flex-col lg:flex-row items-center justify-between gap-12 text-left">
-					<div class="max-w-xl space-y-4">
-						<span class="text-[11px] uppercase tracking-wider font-bold bg-teal-500/20 text-teal-300 px-3 py-1 rounded-full">{t('bs.gamified.title')}</span>
-						<h2 class="text-2xl md:text-4xl font-black tracking-tight leading-tight">{t('bs.gamified.title')}</h2>
-						<p class="text-sm md:text-base text-teal-200/90 leading-relaxed font-medium">{t('bs.gamified.desc')}</p>
-					</div>
-					
-					<!-- Monthly Donut-Ring Footprint Calendar (Astro/CSS) -->
-					<div class="flex flex-col gap-3 p-5 rounded-2xl bg-slate-950/80 border border-slate-800/80 shadow-2xl backdrop-blur-md max-w-sm sm:max-w-md w-full">
-						<!-- Calendar Header -->
-						<div class="flex items-center justify-between border-b border-slate-800/60 pb-3">
-							<div class="flex flex-col text-left">
-								<span class="text-[10px] text-teal-400 font-mono font-bold tracking-wider uppercase">Footprint Calendar</span>
-								<span class="text-sm font-black text-white font-sans mt-0.5">March 2026</span>
-							</div>
-							<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-teal-500/10 border border-teal-500/20 text-[10px] text-teal-300 font-bold">
-								<span class="w-1.5 h-1.5 rounded-full bg-teal-400 animate-pulse"></span>
-								<span>Monthly Score: 92%</span>
-							</div>
-						</div>
-
-						<!-- Weekday Headers -->
-						<div class="grid grid-cols-7 gap-1 text-center text-[10px] text-slate-500 font-bold tracking-wider uppercase">
-							<span>Su</span><span>Mo</span><span>Tu</span><span>We</span><span>Th</span><span>Fr</span><span>Sa</span>
-						</div>
-
-						<!-- Calendar Days Grid (March 2026: starts on Sunday, 31 days) -->
-						<div class="grid grid-cols-7 gap-1.5 w-full aspect-[7/5] min-h-[160px]">
-							{(() => {
-								const totalDays = 31;
-								const daysArray = Array.from({ length: 35 }, (_, i) => {
-									const dayNum = i + 1;
-									return totalDays >= dayNum ? dayNum : null;
-								});
-
-								return daysArray.map((day) => {
-									if (!day) {
-										return <div class="w-full h-full opacity-0 pointer-events-none" />;
-									}
-
-									// Define completion rate styles (SVG stroke-dasharray based on 2 * pi * r where r=14, circumference ~ 88)
-									// 0: None, 1: 30%, 2: 65%, 3: 100%
-									const rates = [
-										{ dash: "0 88", color: "text-slate-800/30" }, // 0%
-										{ dash: "26 88", color: "text-amber-500" },   // 30% (Warning/Partial)
-										{ dash: "57 88", color: "text-teal-400/80" }, // 65% (Good)
-										{ dash: "88 88", color: "text-teal-400" }     // 100% (Perfect)
-									];
-									
-									let rateIdx = 3;
-									if (day % 7 === 0) rateIdx = 0;
-									else if (day % 5 === 0) rateIdx = 1;
-									else if (day % 3 === 0) rateIdx = 2;
-									
-									const rate = rates[rateIdx];
-									const isToday = day === 29;
-
-									return (
-										<div class="relative w-full h-full aspect-square flex items-center justify-center rounded-xl bg-slate-900/60 border border-slate-800/40 hover:border-teal-500/50 hover:scale-110 hover:z-10 transition-all duration-300 cursor-pointer group">
-											<!-- SVG Donut Ring -->
-											<svg class="absolute w-[90%] h-[90%] -rotate-90 transform" viewBox="0 0 36 36">
-												{/* Outer ring track */}
-												<circle cx="18" cy="18" r="14" fill="none" stroke="currentColor" stroke-width="3" class="text-slate-850/50 dark:text-slate-850/60" />
-												{/* Progress segment */}
-												{rateIdx > 0 && (
-													<circle 
-														cx="18" 
-														cy="18" 
-														r="14" 
-														fill="none" 
-														stroke="currentColor" 
-														stroke-width="3" 
-														class={`${rate.color} transition-all duration-300 group-hover:drop-shadow-[0_0_4px_rgba(45,212,191,0.5)]`}
-														stroke-dasharray={rate.dash}
-														stroke-linecap="round"
-													/>
-												)}
-											</svg>
-
-											{/* Today Highlight Indicator */}
-											{isToday && (
-												<span class="absolute inset-0.5 rounded-[10px] border border-teal-400/80 animate-pulse pointer-events-none" />
-											)}
-
-											{/* Day Number */}
-											<span class={`relative z-10 text-[10px] sm:text-xs font-mono font-bold ${isToday ? 'text-teal-400' : 'text-slate-350 group-hover:text-white'}`}>
-												{day}
-											</span>
-										</div>
-									);
-								});
-							})()}
-						</div>
-					</div>
-				</div>
-			</section>
+			<!-- Calendar Section -->
+			<BuildSelfCalendar lang={lang} />
 
 			<!-- Premium Mentor Marquee Section -->
 			<MentorMarquee lang={lang} />

@@ -1,0 +1,43 @@
+---
+import { useTranslations, languages } from '../../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang as keyof typeof languages);
+---
+
+<!-- Expiry OCR & Barcode Scan (실제 기능: 유효기간 OCR 및 바코드 조회) -->
+<section class="relative z-10 w-full max-w-5xl mx-auto px-6 py-12 md:py-16 border-t border-slate-200/50 dark:border-slate-800/40">
+  <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
+	<h2 class="text-2xl sm:text-3xl lg:text-4xl font-black text-slate-900 dark:text-white tracking-tight">
+	  {t('fs.impact.title')}
+	</h2>
+	<p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium">
+	  {t('fs.impact.desc')}
+	</p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+	<!-- Card 1: Expiry OCR -->
+	<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-purple-500/30 transition-all duration-500 shadow-sm">
+	  <div class="w-12 h-12 rounded-2xl bg-purple-50 dark:bg-purple-950/30 text-purple-600 dark:text-purple-400 flex items-center justify-center mb-6 font-bold text-xl">📷</div>
+	  <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('fs.impact.card1.title')}</h3>
+	  <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('fs.impact.card1.desc')}</p>
+	</div>
+	<!-- Card 2: Barcode Scan -->
+	<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-emerald-500/30 transition-all duration-500 shadow-sm">
+	  <div class="w-12 h-12 rounded-2xl bg-emerald-50 dark:bg-emerald-950/30 text-emerald-600 dark:text-emerald-400 flex items-center justify-center mb-6 font-bold text-xl">🔍</div>
+	  <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('fs.impact.card2.title')}</h3>
+	  <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('fs.impact.card2.desc')}</p>
+	</div>
+	<!-- Card 3: Batch Action -->
+	<div class="p-8 rounded-3xl bg-white/50 dark:bg-slate-900/30 border border-slate-200/60 dark:border-slate-800/50 backdrop-blur-xl flex flex-col items-start text-left group hover:border-purple-500/30 transition-all duration-500 shadow-sm">
+	  <div class="w-12 h-12 rounded-2xl bg-purple-50 dark:bg-purple-950/30 text-purple-600 dark:text-purple-400 flex items-center justify-center mb-6 font-bold text-xl">⚡</div>
+	  <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-3">{t('fs.impact.card3.title')}</h3>
+	  <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed font-medium">{t('fs.impact.card3.desc')}</p>
+	</div>
+  </div>
+</section>

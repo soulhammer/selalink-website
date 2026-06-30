@@ -1,0 +1,55 @@
+---
+import { useTranslations, languages } from '../../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang as keyof typeof languages);
+---
+
+<!-- Signature Mood Templates Section -->
+<section class="mb-20 md:mb-28">
+	<div class="text-center max-w-2xl mx-auto mb-12">
+		<h2 class="text-3xl md:text-4xl font-black text-slate-900 dark:text-white tracking-tight mb-4">
+			{t('ls.templates.title')}
+		</h2>
+		<p class="text-slate-600 dark:text-slate-400 font-medium px-4">
+			{t('ls.templates.desc')}
+		</p>
+	</div>
+	<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 md:gap-6">
+		{([
+			{ id: 'temp_forest', titleKey: 'ls.templates.forest.title', descKey: 'ls.templates.forest.desc' },
+			{ id: 'temp_sunset', titleKey: 'ls.templates.sunset.title', descKey: 'ls.templates.sunset.desc' },
+			{ id: 'temp_dawn', titleKey: 'ls.templates.dawn.title', descKey: 'ls.templates.dawn.desc' },
+			{ id: 'temp_starry', titleKey: 'ls.templates.starry.title', descKey: 'ls.templates.starry.desc' },
+			{ id: 'temp_cozy', titleKey: 'ls.templates.cozy.title', descKey: 'ls.templates.cozy.desc' },
+			{ id: 'temp_fog', titleKey: 'ls.templates.fog.title', descKey: 'ls.templates.fog.desc' }
+		] as const).map((temp) => (
+			<div class="footprint-card flex flex-col p-3 rounded-2xl bg-white/50 dark:bg-slate-900/40 border border-slate-200/50 dark:border-slate-800/50 backdrop-blur-xl group hover:scale-[1.04] hover:-translate-y-2 hover:border-indigo-500/30 hover:shadow-xl hover:shadow-indigo-500/5 transition-all duration-500 text-left">
+				<div class="aspect-[3/4] w-full rounded-xl overflow-hidden mb-3 border border-slate-100 dark:border-slate-800/80 shadow-inner relative">
+					<img src={`/images/logself/templates/${temp.id}.webp`} alt={t(temp.titleKey)} class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
+					<div class="absolute inset-0 bg-gradient-to-t from-slate-950/20 to-transparent"></div>
+				</div>
+				<div class="px-1">
+					<h4 class="text-sm font-bold text-slate-900 dark:text-white truncate">{t(temp.titleKey)}</h4>
+					<p class="text-[10px] text-slate-400 dark:text-slate-500 font-semibold mt-0.5">{t(temp.descKey)}</p>
+				</div>
+			</div>
+		))}
+	</div>
+</section>
+
+<style>
+	.footprint-card {
+		transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+		border: 1px solid rgba(99, 102, 241, 0.1);
+	}
+	.footprint-card:hover {
+		transform: scale(1.02) translateY(-6px);
+		box-shadow: 0 30px 60px -15px rgba(99, 102, 241, 0.25), 0 0 0 1px rgba(99, 102, 241, 0.2);
+		border-color: rgba(99, 102, 241, 0.3);
+	}
+</style>

@@ -1,0 +1,73 @@
+---
+import { useTranslations, languages } from '../../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang as keyof typeof languages);
+
+const isKo = lang === 'ko';
+const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps/freshself/en';
+---
+
+<!-- Bento Section 3: Smart Report Analysis -->
+<section class="relative z-10 w-full max-w-5xl mx-auto px-6 py-12 md:py-16 border-t border-slate-200/50 dark:border-slate-800/40 text-center">
+  <div class="max-w-3xl mx-auto mb-16 space-y-4">
+	<h2 class="text-xl sm:text-3xl lg:text-4xl font-black text-slate-900 dark:text-white tracking-tight">{t('fs.bento.header.title')}</h2>
+	<p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium">{t('fs.bento.header.desc')}</p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-center bg-white dark:bg-slate-900/40 fresh-bento-card border border-slate-200/60 dark:border-slate-800/80 p-8 sm:p-12 rounded-[2.5rem] backdrop-blur-xl shadow-xl">
+	<!-- Graphic -->
+	<div class="md:col-span-5 flex justify-center pointer-events-none">
+	  <div class="screenshot-card relative w-[80%] max-w-[260px] rounded-[2rem] p-1.5 bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700 shadow-2xl">
+		<img src={`${imgBase}/4_freshself_phone_screen.jpg`} alt="FreshSelf Analytics Chart" class="w-full h-auto rounded-[1.7rem] object-cover" loading="lazy" />
+	  </div>
+	</div>
+	
+	<!-- Explanation -->
+	<div class="md:col-span-7 text-left space-y-6">
+	  <div class="space-y-2">
+		<h3 class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white">{t('fs.bento.body.title')}</h3>
+		<p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 font-medium">{t('fs.bento.body.desc')}</p>
+	  </div>
+	  
+	  <div class="space-y-4 font-medium text-slate-700 dark:text-slate-300 text-sm">
+		<div class="flex items-center gap-3">
+		  <span class="w-6 h-6 rounded-full bg-purple-100 dark:bg-purple-950/40 text-purple-600 dark:text-purple-400 flex items-center justify-center font-bold text-xs">✓</span>
+		  <span>{t('fs.bento.body.check1')}</span>
+		</div>
+		<div class="flex items-center gap-3">
+		  <span class="w-6 h-6 rounded-full bg-purple-100 dark:bg-purple-950/40 text-purple-600 dark:text-purple-400 flex items-center justify-center font-bold text-xs">✓</span>
+		  <span>{t('fs.bento.body.check2')}</span>
+		</div>
+		<div class="flex items-center gap-3">
+		  <span class="w-6 h-6 rounded-full bg-purple-100 dark:bg-purple-950/40 text-purple-600 dark:text-purple-400 flex items-center justify-center font-bold text-xs">✓</span>
+		  <span>{t('fs.bento.body.check3')}</span>
+		</div>
+	  </div>
+	</div>
+  </div>
+</section>
+
+<style>
+	.screenshot-card {
+	  transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+	  border: 1px solid rgba(139, 92, 246, 0.1);
+	}
+	.screenshot-card:hover {
+	  transform: translateY(-8px) scale(1.03);
+	  box-shadow: 0 30px 60px -15px rgba(139, 92, 246, 0.25), 0 0 30px -5px rgba(16, 185, 129, 0.25);
+	  border-color: rgba(16, 185, 129, 0.3);
+	}
+	.fresh-bento-card {
+	  border: 1px solid rgba(139, 92, 246, 0.15) !important;
+	  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+	}
+	.fresh-bento-card:hover {
+	  border-color: rgba(16, 185, 129, 0.4) !important;
+	  box-shadow: 0 25px 50px -12px rgba(139, 92, 246, 0.25), 0 0 30px rgba(16, 185, 129, 0.15) !important;
+	}
+</style>

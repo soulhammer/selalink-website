@@ -1,0 +1,92 @@
+---
+import { useTranslations, languages } from '../../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang as keyof typeof languages);
+
+const isKo = lang === 'ko';
+---
+
+<!-- Feature Bento Grid Section -->
+<section class="mb-20 md:mb-28">
+	<div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
+		
+		<!-- Feature 1: SQLCipher Local Security -->
+		<div class="footprint-card neon-accent-card flex flex-col pt-8 md:pt-12 px-6 md:px-10 items-center rounded-[2rem] md:rounded-[3rem] relative overflow-hidden backdrop-blur-xl group">
+			<div class="absolute inset-0 bg-gradient-to-b from-indigo-50/50 to-transparent dark:from-indigo-900/15 dark:to-transparent pointer-events-none"></div>
+			<div class="absolute -top-32 -left-32 w-96 h-96 bg-indigo-400/20 dark:bg-indigo-500/10 rounded-full blur-[100px] pointer-events-none group-hover:scale-110 transition-transform duration-1000"></div>
+			
+			<!-- Lock Icon -->
+			<div class="w-12 h-12 md:w-16 md:h-16 bg-gradient-to-br from-indigo-100 to-indigo-50 dark:from-indigo-500/20 dark:to-indigo-500/5 text-indigo-600 dark:text-indigo-400 rounded-full flex items-center justify-center mb-6 md:mb-8 self-start border border-indigo-200 dark:border-indigo-500/20 shadow-inner z-10 transition-transform duration-500 group-hover:rotate-12 group-hover:scale-110">
+				<svg class="w-6 h-6 md:w-8 md:h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/></svg>
+			</div>
+			
+			<!-- Card Copy -->
+			<div class="flex-1 w-full flex flex-col items-start z-10 min-h-[140px] md:min-h-0">
+				<h3 class="text-2xl md:text-3xl font-black text-slate-900 dark:text-white mb-3 md:mb-4 tracking-tight group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors drop-shadow-sm">{t('ls.feature1.title')}</h3>
+				<p class="text-base md:text-lg text-slate-600 dark:text-slate-400 leading-relaxed font-medium mb-8 md:mb-12 max-w-sm">{t('ls.feature1.desc')}</p>
+			</div>
+			
+			<!-- Local Database & Settings Mock Extruded -->
+			<div class="w-[95%] md:w-full mt-auto relative flex justify-center rounded-[1.5rem] md:rounded-t-[2rem] overflow-hidden shadow-[0_-20px_60px_rgba(0,0,0,0.12)] border border-indigo-500/20 z-10 mb-6 md:mb-0 bg-slate-900">
+				<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start bg-slate-50 dark:bg-slate-900 border-t border-white/10">
+					<img src={`/images/logself/${isKo ? 'ko' : 'en'}/8.jpeg`} alt="SQLCipher Encrypted Settings" class="w-full h-full object-cover object-[center_12%] scale-[1.02] hover:scale-[1.05] transition-transform duration-700" loading="lazy" />
+				</div>
+				<div class="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-white dark:from-slate-900 to-transparent pointer-events-none rounded-b-[1.5rem] md:rounded-none"></div>
+			</div>
+		</div>
+
+		<!-- Feature 2: Rich Media & Web Scraping -->
+		<div class="footprint-card flex flex-col pt-8 md:pt-12 px-6 md:px-10 items-center bg-gradient-to-b from-indigo-900 to-slate-950 rounded-[2rem] md:rounded-[3rem] border border-indigo-500/30 shadow-2xl text-white relative overflow-hidden group">
+			<div class="absolute -bottom-10 -right-10 w-64 h-64 bg-indigo-500/20 rounded-full blur-[80px] pointer-events-none group-hover:scale-125 transition-transform duration-[1.5s]"></div>
+			
+			<!-- Media Icon -->
+			<div class="w-12 h-12 md:w-16 md:h-16 bg-white/10 text-white rounded-full flex items-center justify-center mb-6 md:mb-8 self-start backdrop-blur-md border border-white/20 shadow-[0_0_20px_rgba(99,102,241,0.2)] z-10 transition-transform duration-500 group-hover:scale-110">
+				<svg class="w-6 h-6 md:w-8 md:h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+			</div>
+			
+			<!-- Card Copy -->
+			<div class="flex-1 w-full flex flex-col items-start z-10 min-h-[140px] md:min-h-0">
+				<h3 class="text-2xl md:text-3xl font-black mb-3 md:mb-4 tracking-tight drop-shadow-md">{t('ls.feature2.title')}</h3>
+				<p class="text-base md:text-lg text-indigo-100/90 leading-relaxed font-medium mb-8 md:mb-12 max-w-sm drop-shadow-sm">{t('ls.feature2.desc')}</p>
+			</div>
+			
+			<!-- Local Scraping Timeline Mock Extruded -->
+			<div class="w-[95%] md:w-full mt-auto relative flex justify-center rounded-[1.5rem] md:rounded-t-[2rem] overflow-hidden shadow-[0_-20px_60px_rgba(0,0,0,0.3)] border border-indigo-500/30 z-10 mb-6 md:mb-0 bg-slate-950">
+				<div class="aspect-[4/3] w-full overflow-hidden flex justify-center items-start bg-slate-50 dark:bg-slate-900 border-t border-white/10">
+					<img src={`/images/logself/${isKo ? 'ko' : 'en'}/1.jpeg`} alt="Smart Link Scraping Timeline" class="w-full h-full object-cover object-[center_8%] scale-[1.02] hover:scale-[1.05] transition-transform duration-[1.5s]" loading="lazy" />
+				</div>
+				<div class="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-slate-100/5 dark:from-slate-900 to-transparent pointer-events-none rounded-b-[1.5rem] md:rounded-none"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<style>
+	.footprint-card {
+		transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+		border: 1px solid rgba(99, 102, 241, 0.1);
+	}
+	.footprint-card:hover {
+		transform: scale(1.02) translateY(-6px);
+		box-shadow: 0 30px 60px -15px rgba(99, 102, 241, 0.25), 0 0 0 1px rgba(99, 102, 241, 0.2);
+		border-color: rgba(99, 102, 241, 0.3);
+	}
+	.neon-accent-card {
+		border: 1px solid rgba(99, 102, 241, 0.15) !important;
+		background: linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.7) 100%);
+		transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+	}
+	html.dark .neon-accent-card {
+		border: 1px solid rgba(99, 102, 241, 0.15) !important;
+		background: linear-gradient(180deg, rgba(30, 33, 45, 0.5) 0%, rgba(20, 23, 35, 0.3) 100%) !important;
+	}
+	.neon-accent-card:hover {
+		border-color: #6366F1 !important;
+		box-shadow: 0 20px 40px rgba(99, 102, 241, 0.15), 0 0 25px rgba(99, 102, 241, 0.05) !important;
+	}
+</style>

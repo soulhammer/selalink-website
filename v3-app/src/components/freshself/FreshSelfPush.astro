@@ -1,0 +1,38 @@
+---
+import { useTranslations, languages } from '../../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang as keyof typeof languages);
+---
+
+<!-- Rescue Level & Expiry Reports (실제 기능: 구출 레벨 시스템) -->
+<section class="relative z-10 w-full max-w-5xl mx-auto px-6 py-12 md:py-16 border-t border-slate-200/50 dark:border-slate-800/40">
+  <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
+	<h2 class="text-2xl sm:text-3xl lg:text-4xl font-black text-slate-900 dark:text-white tracking-tight">
+	  {t('fs.push.title')}
+	</h2>
+	<p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium">
+	  {t('fs.push.desc')}
+	</p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 max-w-4xl mx-auto">
+	{([
+	  { id: 'd7', titleKey: 'fs.push.d7.title', bodyKey: 'fs.push.d7.body', icon: '🛡️', color: 'border-l-purple-500' },
+	  { id: 'd3', titleKey: 'fs.push.d3.title', bodyKey: 'fs.push.d3.body', icon: '🌟', color: 'border-l-emerald-500' },
+	  { id: 'd1', titleKey: 'fs.push.d1.title', bodyKey: 'fs.push.d1.body', icon: '🏆', color: 'border-l-amber-500' }
+	] as const).map((level) => (
+	  <div class={`flex flex-col p-6 rounded-2xl bg-white/75 dark:bg-slate-900/80 backdrop-blur-xl border border-slate-200/50 dark:border-slate-800/80 border-l-4 ${level.color} shadow-md text-left group hover:scale-[1.03] transition-all duration-300`}>
+		<div class="flex items-center gap-2 mb-3">
+		  <span class="text-xl">{level.icon}</span>
+		  <span class="text-sm font-black text-slate-900 dark:text-white">{t(level.titleKey)}</span>
+		</div>
+		<p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 font-medium leading-relaxed">{t(level.bodyKey)}</p>
+	  </div>
+	))}
+  </div>
+</section>
