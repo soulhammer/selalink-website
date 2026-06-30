@@ -34,9 +34,14 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 
 				<!-- Left Side Content (Z-20) -->
 				<div class="z-20 relative max-w-md lg:max-w-xl xl:max-w-2xl space-y-6 dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
+				<div class="flex flex-wrap gap-2 mb-4 md:mb-6">
 					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-700 dark:bg-purple-500/20 dark:text-purple-400 text-xs md:text-sm font-semibold border border-purple-500/20 shadow-sm backdrop-blur-md">
 						<span class="w-1.5 h-1.5 rounded-full bg-purple-500 animate-pulse"></span>{t('app.freshself.status')}
 					</div>
+					<div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/60 dark:bg-white/10 text-slate-800 dark:text-slate-300 text-xs md:text-sm font-semibold border border-white/40 dark:border-white/10 shadow-sm backdrop-blur-md">
+						{t('platform.mobile')}
+					</div>
+				</div>
 					<div class="space-y-4">
 						<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-2 text-slate-900 dark:text-white group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors drop-shadow-sm flex items-center gap-3">
 							<img src="/freshself/invite/icon.png" alt="FreshSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-purple-500/10" />
@@ -58,10 +63,12 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 					</div>
 				</div>
 
-				<!-- Bottom Action Row with supported badge & entry arrow (Z-20) -->
-				<div class="z-20 relative flex justify-end items-end transition-transform mt-auto pt-8">
+				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
+					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+						{t('app.freshself.supported')}
+					</div>
 					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-purple-600 dark:group-hover:bg-purple-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
-						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
 					</div>
 				</div>
 
@@ -75,8 +82,13 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 				
 				<!-- Top Content (Z-20) -->
 				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
-					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-100 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-400 text-xs md:text-sm font-semibold mb-4 md:mb-6 border border-indigo-500/20 shadow-sm backdrop-blur-md">
-						<span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>{t('app.logself.status')}
+					<div class="flex flex-wrap gap-2 mb-4 md:mb-6">
+						<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-100 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-400 text-xs md:text-sm font-semibold border border-indigo-500/20 shadow-sm backdrop-blur-md">
+							<span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>{t('app.logself.status')}
+						</div>
+						<div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/60 dark:bg-white/10 text-slate-800 dark:text-slate-300 text-xs md:text-sm font-semibold border border-white/40 dark:border-white/10 shadow-sm backdrop-blur-md">
+							{t('platform.mobile')}
+						</div>
 					</div>
 					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors drop-shadow-sm flex items-center gap-3">
 						<img src="/images/logself/icon.png" alt="logSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-indigo-500/10" />
@@ -102,7 +114,7 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 						{t('app.logself.supported')}
 					</div>
 					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-indigo-600 dark:group-hover:bg-indigo-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
-						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
 					</div>
 				</div>
 				<!-- Background Gradient Effect -->
@@ -115,8 +127,13 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 				
 				<!-- Top Content (Z-20) -->
 				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
-					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold mb-4 md:mb-6 border border-emerald-500/20 shadow-sm backdrop-blur-md">
-						<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.buildself.status')}
+					<div class="flex flex-wrap gap-2 mb-4 md:mb-6">
+						<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold border border-emerald-500/20 shadow-sm backdrop-blur-md">
+							<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.buildself.status')}
+						</div>
+						<div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/60 dark:bg-white/10 text-slate-800 dark:text-slate-300 text-xs md:text-sm font-semibold border border-white/40 dark:border-white/10 shadow-sm backdrop-blur-md">
+							{t('platform.mobile')}
+						</div>
 					</div>
 					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-3">
 						<img src="/images/buildself/icon.png" alt="BuildSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-emerald-500/10" />
@@ -146,7 +163,7 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 						{t('app.buildself.supported')}
 					</div>
 					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
-						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
 					</div>
 				</div>
 				<!-- Background Gradient Effect -->
@@ -154,18 +171,23 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 			</a>
 
 			<!-- StoreSelf Card (Free Web Utility) -->
-			<a href={`/${lang}/apps/storeself/`} aria-label={t('app.storeself.title')} class="bento-card col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.25);">
+			<a href={`/${lang}/apps/storeself/`} aria-label={t('app.storeself.title')} class="bento-card col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.25);">
 				<div class="bento-glow top-0 right-0"></div>
 				
 				<!-- Top Content -->
 				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
-					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold mb-4 md:mb-6 border border-emerald-500/20 shadow-sm backdrop-blur-md">
+				<div class="flex flex-wrap gap-2 mb-4 md:mb-6">
+					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold border border-emerald-500/20 shadow-sm backdrop-blur-md">
 						<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.storeself.status')}
 					</div>
+					<div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/60 dark:bg-white/10 text-slate-800 dark:text-slate-300 text-xs md:text-sm font-semibold border border-white/40 dark:border-white/10 shadow-sm backdrop-blur-md">
+						{t('platform.web')}
+					</div>
+				</div>
 					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-3">
 						<div class="w-10 h-10 sm:w-12 sm:h-12 rounded-xl bg-emerald-100 dark:bg-emerald-500/20 flex items-center justify-center text-emerald-600 dark:text-emerald-400 shadow-sm border border-emerald-500/10">
-							<svg class="w-6 h-6 sm:w-7 sm:h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-								<path stroke-linecap="round" stroke-linejoin="round" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+							<svg class="w-6 h-6 sm:w-7 sm:h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+								<path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
 							</svg>
 						</div>
 						{t('app.storeself.title')}
@@ -192,59 +214,13 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 						{t('app.storeself.supported')}
 					</div>
 					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
-						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
 					</div>
 				</div>
 				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[350px] h-[350px] bg-emerald-400/15 dark:bg-emerald-600/15 blur-[90px] rounded-full group-hover:bg-emerald-500/25 dark:group-hover:bg-emerald-500/20 transition-colors duration-700 pointer-events-none z-0"></div>
 			</a>
 
-			<!-- MoodSelf Card (Korean Only) -->
-			<a href={`/${lang}/apps/moodself/`} aria-label={t('app.moodself.title')} class="bento-card col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(202,138,4,0.25);">
-				<div class="bento-glow top-0 right-0"></div>
-				
-				<!-- Top Content (Z-20) -->
-				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
-					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-100 text-amber-700 dark:bg-amber-500/10 dark:text-amber-300 text-xs md:text-sm font-medium mb-4 md:mb-6 border border-amber-500/20 shadow-sm backdrop-blur-md">
-						{t('app.moodself.status')}
-					</div>
-					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors drop-shadow-sm flex items-center gap-3">
-						<div class="w-10 h-10 sm:w-12 sm:h-12 rounded-xl bg-amber-100 dark:bg-amber-500/20 flex items-center justify-center text-amber-600 dark:text-amber-400 shadow-sm border border-amber-500/10">
-							<svg class="w-6 h-6 sm:w-7 sm:h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-								<path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
-							</svg>
-						</div>
-						{t('app.moodself.title')}
-					</h2>
-					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">{t('app.moodself.desc')}</p>
-				</div>
-                
-				<!-- Premium Spatial Void Fill (Z-10) -->
-				<div class="absolute inset-0 z-10 pointer-events-none flex items-center justify-center opacity-80 group-hover:opacity-100 transition-opacity duration-700">
-					<!-- Massive Floating Icon -->
-					<div class="absolute top-[40%] right-[10%] sm:right-0 transform rotate-12 group-hover:rotate-0 group-hover:scale-110 transition-transform duration-1000 ease-in-out blur-[1px]">
-						<svg class="w-64 h-64 text-amber-200/5 dark:text-amber-950/15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
-					</div>
-					<!-- High-end Glass Pill -->
-					<div class="absolute bottom-[30%] right-[10%] bg-white/60 dark:bg-black/40 backdrop-blur-2xl border border-white/50 dark:border-white/10 rounded-2xl p-4 md:p-5 shadow-2xl transform -rotate-6 group-hover:-rotate-3 group-hover:-translate-y-4 transition-all duration-700 opacity-0 sm:opacity-100 translate-y-8 group-hover:opacity-100">
-						<div class="w-10 h-10 rounded-full bg-gradient-to-br from-amber-400 to-yellow-500 flex items-center justify-center mb-2 shadow-inner">
-							<svg class="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
-						</div>
-						<span class="text-sm font-bold text-slate-900 dark:text-white block tracking-tight">AI Insights</span>
-						<span class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">100% On-Device</span>
-					</div>
-				</div>
-                
-				<div class="z-20 relative mt-auto pt-8 flex justify-between items-end gap-4">
-					<div class="text-xs md:text-sm font-bold border border-amber-500/40 text-amber-700 dark:text-amber-300 bg-amber-100/80 dark:bg-amber-950/40 px-3 py-2 md:px-4 md:py-3 rounded-2xl flex items-start gap-2 md:gap-3 backdrop-blur-md shadow-lg max-w-[70%]">
-						<svg class="w-4 h-4 md:w-5 md:h-5 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-						<span class="leading-snug">{t('app.moodself.supported')} {lang !== 'ko' ? <br/><span class="font-bold opacity-80 mt-1 block tracking-tighter">{t('app.moodself.warning')}</span> : null}</span>
-					</div>
-					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-amber-600 dark:group-hover:bg-amber-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)] flex-shrink-0">
-						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
-					</div>
-				</div>
-				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[400px] h-[400px] bg-amber-400/20 dark:bg-amber-600/20 blur-[100px] rounded-full group-hover:bg-amber-500/30 dark:group-hover:bg-amber-500/30 transition-colors duration-700 pointer-events-none z-0"></div>
-			</a>
+
 
 		</section>
 		
