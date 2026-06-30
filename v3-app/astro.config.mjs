@@ -17,15 +17,7 @@ export default defineConfig({
       try {
         const url = new URL(page);
         
-        // 1. 언어 중립 리다이렉트 페이지 제외
-        if (
-          url.pathname === '/apps/freshself/' || 
-          url.pathname === '/apps/buildself/' ||
-          url.pathname === '/apps/storeself/' ||
-          url.pathname === '/apps/logself/'
-        ) {
-          return false;
-        }
+        // 1. 언어 중립 리다이렉트 페이지 제외 (Astro sitemap i18n grouping 유지를 위해 제외하지 않고 살려둠)
         
         // 2. 301 리다이렉트 대상인 구버전 freshself/ingredients 하위 경로 sitemap에서 제외
         if (url.pathname.includes('/apps/freshself/ingredients/')) {
