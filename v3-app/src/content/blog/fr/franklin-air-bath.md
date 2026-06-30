@@ -1,7 +1,7 @@
 ---
 title: "30 minutes chaque matin, l'insolite « bain d'air » (Air Bath) de Benjamin Franklin"
 description: "Benjamin Franklin, inventeur du paratonnerre et figure de la fondation des États-Unis. Découvrez les bienfaits scientifiques et la pratique de sa routine de « bain d'air » consistant à s'exposer nu au vent chaque matin."
-pubDate: "2026-06-30"
+pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Habitudes Historiques","Benjamin Franklin","Routine Matinale","Immunité","Éveil"]
 heroImage: "/images/blog/franklin_air_bath.png"

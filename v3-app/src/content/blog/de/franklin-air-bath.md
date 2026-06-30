@@ -1,7 +1,7 @@
 ---
 title: "Jeden Morgen 30 Minuten, Benjamin Franklins seltsame 'Luftbad (Air Bath)'-Gesundheitsmethode"
 description: "Benjamin Franklin, der den Blitzableiter erfand und die Gründung der USA anführte. Lernen Sie die wissenschaftlichen Effekte seiner Routine kennen, bei der er jeden Morgen nackt die Fenster öffnete und den Wind auf sich wirken ließ."
-pubDate: "2026-06-30"
+pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Historische Gewohnheiten","Benjamin Franklin","Morgenroutine","Immunsystem","Wachheit"]
 heroImage: "/images/blog/franklin_air_bath.png"

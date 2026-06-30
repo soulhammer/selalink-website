@@ -1,7 +1,7 @@
 ---
 title: "30 minutos todas as manhãs, o estranho método de saúde do 'banho de ar (Air Bath)' de Benjamin Franklin"
 description: "Benjamin Franklin, que inventou o para-raios e liderou a fundação dos Estados Unidos. Conheça os efeitos científicos e a prática de sua rotina de 'banho de ar', abrindo as janelas e recebendo o vento nu todas as manhãs."
-pubDate: "2026-06-30"
+pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Hábitos Históricos","Benjamin Franklin","Rotina Matinal","Imunidade","Despertar"]
 heroImage: "/images/blog/franklin_air_bath.png"

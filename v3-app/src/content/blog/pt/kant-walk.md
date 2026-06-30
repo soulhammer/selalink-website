@@ -1,7 +1,7 @@
 ---
 title: "O relógio de Königsberg? O passeio diário de Immanuel Kant às 15h30"
 description: "Immanuel Kant, o gigante da filosofia moderna. Conheça os benefícios da neurociência ocultos em sua rotina de caminhada precisa, que os vizinhos usavam para ajustar os relógios."
-pubDate: "2026-06-30"
+pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Hábitos Históricos","Immanuel Kant","Caminhada","Disciplina","Descanso"]
 heroImage: "/images/blog/kant_walk.png"

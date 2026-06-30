@@ -1,7 +1,7 @@
 ---
 title: "¿El genio que tomaba siestas con bolas de acero en la mano? El método de sueño Hypnagogia de Thomas Edison"
 description: "Un extraño ritual de siesta que Edison realizaba cada vez que se topaba con una pared al buscar ideas innovadoras. Compartimos los principios y la guía de práctica del método de siesta de Edison para obtener inspiración creativa en un estado de semisueño."
-pubDate: "2026-06-30"
+pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Hábitos Históricos","Thomas Edison","Creatividad","Siesta","Inspiración"]
 heroImage: "/images/blog/edison_nap.png"

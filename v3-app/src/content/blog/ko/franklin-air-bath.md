@@ -1,7 +1,7 @@
 ---
 title: "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air Bath)' 건강법"
 description: "피뢰침을 발명하고 미국의 건국을 이끈 벤자민 프랭클린. 그가 매일 아침 나체로 창문을 열어두고 바람을 맞았던 '공기욕' 루틴의 과학적 효과와 실천법을 소개합니다."
-pubDate: "2026-06-30"
+pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
 heroImage: "/images/blog/franklin_air_bath.png"

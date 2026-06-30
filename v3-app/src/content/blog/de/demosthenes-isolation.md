@@ -1,7 +1,7 @@
 ---
 title: "Der Redner, der sich die halbe Haarseite rasierte? Demosthenes' Gesetz der extremen Umweltkontrolle"
 description: "Demosthenes überwand angeborene körperliche Einschränkungen, um der größte Redner des antiken Griechenlands zu werden. Lernen Sie seine Routine kennen, bei der er sich die halbe Haarseite rasierte und in eine Höhle zog, um Ablenkungen zu vermeiden."
-pubDate: "2026-06-30"
+pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["Historische Gewohnheiten","Demosthenes","Fokus","Umweltkontrolle","Willenskraft"]
 heroImage: "/images/blog/demosthenes_isolation.png"

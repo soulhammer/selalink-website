@@ -1,7 +1,7 @@
 ---
 title: "克服镭研究压力的秘诀？居里夫人的傍晚骑行常规"
 description: "居里夫人是首位获得诺贝尔奖的女性，也是唯一一位在两个不同科学领域同时获得诺贝尔奖的传奇科学家。探索她在极度疲劳和镭研究压力下保护大脑的自行车骑行常规。"
-pubDate: "2026-06-30"
+pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["伟人习惯","居里夫人","自行车","休息","减压"]
 heroImage: "/images/blog/curie_cycling.png"

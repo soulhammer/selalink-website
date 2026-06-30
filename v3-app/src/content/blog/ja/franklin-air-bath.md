@@ -1,7 +1,7 @@
 ---
 title: "毎朝30分、ベンジャミン・フランクリンの奇妙な「空気浴（Air Bath）」健康法"
 description: "避雷針を発明し、米国の建国を導いたベンジャミン・フランクリン。彼が毎朝、裸で窓を開けて風を浴びていた「空気浴」ルーティンの科学的効果と実践法を紹介します。"
-pubDate: "2026-06-30"
+pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["偉人の習慣","ベンジャミン・フランクリン","朝のルーティン","免疫力","覚醒"]
 heroImage: "/images/blog/franklin_air_bath.png"

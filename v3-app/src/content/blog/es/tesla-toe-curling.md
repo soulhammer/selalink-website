@@ -1,7 +1,7 @@
 ---
 title: "¿El genio que encogía los dedos de los pies 100 veces? El extraño ritual de sueño de Nikola Tesla"
 description: "Nikola Tesla, el genio inventor que encogía los dedos de los pies cada noche en la cama. Presentamos los secretos neurocientíficos ocultos en su rutina y una práctica de 3 pasos para la vida moderna."
-pubDate: "2026-06-30"
+pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["Hábitos Históricos","Nikola Tesla","Rutina de Sueño","Enfoque","Motivación"]
 heroImage: "/images/blog/tesla_sleep_hack.png"

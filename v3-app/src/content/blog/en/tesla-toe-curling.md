@@ -1,7 +1,7 @@
 ---
 title: "The Genius Who Curled His Toes 100 Times? Nikola Tesla's Strange Sleep Ritual"
 description: "Nikola Tesla, the genius inventor who curled his toes every night in bed. Introduce the brain-scientific secrets hidden in his unique routine and a 3-step practice for modern people."
-pubDate: "2026-06-30"
+pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["Historical Habits","Nikola Tesla","Sleep Routine","Focus","Motivation"]
 heroImage: "/images/blog/tesla_sleep_hack.png"

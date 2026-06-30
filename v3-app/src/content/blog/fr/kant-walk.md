@@ -1,7 +1,7 @@
 ---
 title: "L'horloge de Königsberg ? La promenade quotidienne d'Immanuel Kant à 15h30"
 description: "Immanuel Kant, le monument de la philosophie moderne. Découvrez les bienfaits neurobiologiques de sa routine de marche quotidienne, si régulière que ses voisins réglaient leur montre sur son passage."
-pubDate: "2026-06-30"
+pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Habitudes Historiques","Immanuel Kant","Marche","Discipline","Repos"]
 heroImage: "/images/blog/kant_walk.png"

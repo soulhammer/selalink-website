@@ -1,7 +1,7 @@
 ---
 title: "쾨니히스베르크의 시계? 임마누엘 칸트의 매일 오후 3시 30분 산책"
 description: "근대 철학의 거장 임마누엘 칸트. 이웃들이 보고 시계를 맞췄을 정도로 정확했던 그의 일정한 산책 루틴 속에 숨겨진 뇌 과학적 이점을 소개합니다."
-pubDate: "2026-06-30"
+pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
 heroImage: "/images/blog/kant_walk.png"

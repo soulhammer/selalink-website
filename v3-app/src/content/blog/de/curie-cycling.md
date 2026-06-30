@@ -1,7 +1,7 @@
 ---
 title: "Das Geheimnis gegen den Stress der Radiumforschung? Marie Curies abendliche Radtouren"
 description: "Marie Curie, die erste Nobelpreisträgerin und die einzige Person, die Nobelpreise in zwei verschiedenen Wissenschaftsgebieten erhielt. Entdecken Sie ihre Radfahr-Routine, die ihr Gehirn vor Erschöpfung und Stress schützte."
-pubDate: "2026-06-30"
+pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["Historische Gewohnheiten","Marie Curie","Fahrrad","Erholung","Stress"]
 heroImage: "/images/blog/curie_cycling.png"

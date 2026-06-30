@@ -1,7 +1,7 @@
 ---
 title: "Jenius yang Tidur Siang dengan Bola Baja di Tangan? Metode Tidur Hypnagogia Thomas Edison"
 description: "Ritual tidur siang aneh yang dilakukan Edison setiap kali dia menemui jalan buntu dengan ide-ide penemuan terobosan. Bagikan prinsip dan panduan praktik metode tidur siang Edison untuk mendapatkan inspirasi kreatif dalam keadaan setengah tidur."
-pubDate: "2026-06-30"
+pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Kebiasaan Tokoh","Thomas Edison","Kreativitas","Tidur Siang","Inspirasi"]
 heroImage: "/images/blog/edison_nap.png"

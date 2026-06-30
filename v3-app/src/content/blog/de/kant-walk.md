@@ -1,7 +1,7 @@
 ---
 title: "Die Uhr von Königsberg? Immanuel Kants täglicher Spaziergang um 15:30 Uhr"
 description: "Immanuel Kant, der Gigant der modernen Philosophie. Lernen Sie die hirnphysiologischen Vorteile seiner präzisen Spaziergang-Routine kennen, nach der die Nachbarn ihre Uhren stellten."
-pubDate: "2026-06-30"
+pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Historische Gewohnheiten","Immanuel Kant","Spaziergang","Disziplin","Erholung"]
 heroImage: "/images/blog/kant_walk.png"

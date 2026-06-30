@@ -1,7 +1,7 @@
 ---
 title: "Le génie qui faisait la sieste avec des billes d'acier en main ? La méthode de sommeil hypnagogique de Thomas Edison"
 description: "Un rituel de sieste insolite qu'Edison pratiquait chaque fois qu'il se heurtait à un mur créatif. Découvrez les principes de la sieste d'Edison pour capter l'inspiration dans un état de semi-sommeil."
-pubDate: "2026-06-30"
+pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Habitudes Historiques","Thomas Edison","Créativité","Sieste","Inspiration"]
 heroImage: "/images/blog/edison_nap.png"

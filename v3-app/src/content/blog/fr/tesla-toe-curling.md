@@ -1,7 +1,7 @@
 ---
 title: "Le génie qui pliait ses orteils 100 fois ? Le rituel de sommeil insolite de Nikola Tesla"
 description: "Nikola Tesla, l'inventeur de génie qui pliait ses orteils chaque nuit dans son lit. Découvrez les secrets neurobiologiques de cette routine et une méthode en 3 étapes pour l'appliquer."
-pubDate: "2026-06-30"
+pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["Habitudes Historiques","Nikola Tesla","Routine de Sommeil","Concentration","Motivation"]
 heroImage: "/images/blog/tesla_sleep_hack.png"

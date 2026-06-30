@@ -1,7 +1,7 @@
 ---
 title: "每天清晨30分钟，本杰明·富兰克林奇妙的“空气浴（Air Bath）”养生法"
 description: "发明避雷针并领导美国建国的本杰明·富兰克林。介绍他每天早晨裸体开窗迎风进行的“空气浴”常规的科学效果和实践方法。"
-pubDate: "2026-06-30"
+pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["伟人习惯","本杰明·富兰克林","晨间常规","免疫力","觉醒"]
 heroImage: "/images/blog/franklin_air_bath.png"

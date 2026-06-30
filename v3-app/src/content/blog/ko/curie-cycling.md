@@ -1,7 +1,7 @@
 ---
 title: "라듐 연구 스트레스를 극복한 비결? 마리 퀴리의 저녁 자전거 라이딩"
 description: "여성 최초이자 물리학·화학 분야 노벨상 동시 수상자인 마리 퀴리. 극심한 피로와 라듐 연구 스트레스 속에서도 그녀의 두뇌를 지켰던 자전거 라이딩 루틴을 알아봅니다."
-pubDate: "2026-06-30"
+pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
 heroImage: "/images/blog/curie_cycling.png"

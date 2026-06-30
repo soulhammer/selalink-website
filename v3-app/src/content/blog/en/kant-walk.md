@@ -1,7 +1,7 @@
 ---
 title: "The Clock of Königsberg? Immanuel Kant's Daily 3:30 PM Walk"
 description: "Immanuel Kant, the giant of modern philosophy. Introduce the brain-scientific benefits hidden in his precise walk routine, which was so accurate that neighbors set their clocks by him."
-pubDate: "2026-06-30"
+pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Historical Habits","Immanuel Kant","Walk","Discipline","Rest"]
 heroImage: "/images/blog/kant_walk.png"

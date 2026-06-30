@@ -1,7 +1,7 @@
 ---
 title: "O gênio que tirava sonecas com bolas de ferro na mão? O método de sono Hypnagogia de Thomas Edison"
 description: "Um estranho ritual de soneca que Edison realizava sempre que encontrava um bloqueio em ideias inovadoras. Conheça a lógica do método de soneca de Edison para obter insights criativos em estado de semissono."
-pubDate: "2026-06-30"
+pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Hábitos Históricos","Thomas Edison","Criatividade","Soneca","Inspiração"]
 heroImage: "/images/blog/edison_nap.png"

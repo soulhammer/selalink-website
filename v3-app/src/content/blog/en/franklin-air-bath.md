@@ -1,7 +1,7 @@
 ---
 title: "30 Minutes Every Morning, Benjamin Franklin's Strange 'Air Bath' Health Method"
 description: "Benjamin Franklin, who invented the lightning rod and led the founding of the United States. Introduce the scientific effects and practice of his 'Air Bath' routine, where he opened windows and faced the wind naked every morning."
-pubDate: "2026-06-30"
+pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Historical Habits","Benjamin Franklin","Morning Routine","Immunity","Arousal"]
 heroImage: "/images/blog/franklin_air_bath.png"

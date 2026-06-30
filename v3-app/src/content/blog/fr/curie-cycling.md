@@ -1,7 +1,7 @@
 ---
 title: "Le secret pour surmonter le stress de la recherche sur le radium ? La routine de vélo en soirée de Marie Curie"
 description: "Marie Curie, première femme à remporter un prix Nobel et seule personne récompensée dans deux domaines scientifiques différents. Découvrez sa routine de cyclisme qui a protégé son cerveau du stress et de l'épuisement."
-pubDate: "2026-06-30"
+pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["Habitudes Historiques","Marie Curie","Vélo","Repos","Stress"]
 heroImage: "/images/blog/curie_cycling.png"

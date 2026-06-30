@@ -1,7 +1,7 @@
 ---
 title: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식"
 description: "매일 밤 침대에 누워 발가락을 오므렸던 천재 발명가 니콜라 테슬라. 그의 독특한 루틴 속에 숨겨진 뇌과학적 비밀과 현대인을 위한 3단계 실천법을 소개합니다."
-pubDate: "2026-06-30"
+pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["위인 습관", "니콜라 테슬라", "수면 루틴", "집중력", "동기부여"]
 heroImage: "/images/blog/tesla_sleep_hack.png"

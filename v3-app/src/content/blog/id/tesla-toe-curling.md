@@ -1,7 +1,7 @@
 ---
 title: "Jenius yang Mengerutkan Jari Kakinya 100 Kali? Ritual Tidur Aneh Nikola Tesla"
 description: "Nikola Tesla, penemu jenius yang mengerutkan jari kakinya setiap malam di tempat tidur. Temukan rahasia sains otak yang tersembunyi dalam rutinitas uniknya dan 3 tahap praktik untuk manusia modern."
-pubDate: "2026-06-30"
+pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["Kebiasaan Tokoh","Nikola Tesla","Rutinitas Tidur","Fokus","Motivasi"]
 heroImage: "/images/blog/tesla_sleep_hack.png"

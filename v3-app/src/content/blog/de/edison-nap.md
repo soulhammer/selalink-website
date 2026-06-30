@@ -1,7 +1,7 @@
 ---
 title: "Das Genie, das mit Stahlkugeln in der Hand schlief? Thomas Edisons Hypnagogia-Schlafmethode"
 description: "Ein seltsames Nickerchen-Ritual, das Edison durchführte, wann immer er bei bahnbrechenden Erfindungen blockiert war. Teilen Sie die Prinzipien der Edison-Nickerchen-Methode, um im Halbschlaf kreative Inspiration zu erlangen."
-pubDate: "2026-06-30"
+pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Historische Gewohnheiten","Thomas Edison","Kreativität","Nickerchen","Inspiration"]
 heroImage: "/images/blog/edison_nap.png"

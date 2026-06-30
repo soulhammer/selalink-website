@@ -1,7 +1,7 @@
 ---
 title: "L'orateur qui s'est rasé la moitié de la tête ? La loi de Démosthène sur le contrôle de l'environnement"
 description: "Démosthène a surmonté des limites physiques congénitales pour devenir le plus grand orateur de la Grèce antique. Découvrez sa routine consistant à se raser la moitié de la tête pour s'isoler dans une grotte afin de fuir les tentations."
-pubDate: "2026-06-30"
+pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["Habitudes Historiques","Démosthène","Concentration","Contrôle Environnemental","Volonté"]
 heroImage: "/images/blog/demosthenes_isolation.png"

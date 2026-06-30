@@ -1,7 +1,7 @@
 ---
 title: "¿El orador que se afeitó la mitad de la cabeza? La ley de control ambiental extremo de Demóstenes"
 description: "Demóstenes superó limitaciones físicas congénitas para convertirse en el mejor orador de la antigua Grecia. Conozca su rutina de control ambiental de afeitarse la mitad de la cabeza y encerrarse en una cueva para evitar distracciones."
-pubDate: "2026-06-30"
+pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["Hábitos Históricos","Demóstenes","Enfoque","Control Ambiental","Voluntad"]
 heroImage: "/images/blog/demosthenes_isolation.png"

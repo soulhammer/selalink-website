@@ -1,7 +1,7 @@
 ---
 title: "哥尼斯堡的时钟？伊曼纽尔·康德每日下午3点30分的散步常规"
 description: "现代哲学巨匠伊曼纽尔·康德。介绍隐藏在他数十年如一日、精确到邻居们看他来对表的一致散步常规背后的脑科学益处。"
-pubDate: "2026-06-30"
+pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["伟人习惯","伊曼纽尔·康德","散步","自律","休息"]
 heroImage: "/images/blog/kant_walk.png"

@@ -1,7 +1,7 @@
 ---
 title: "O gênio que contraía os dedos dos pés 100 vezes? O estranho ritual de sono de Nikola Tesla"
 description: "Nikola Tesla, o gênio inventor que contraía os dedos dos pés todas as noites na cama. Conheça os segredos da neurociência ocultos em sua rotina e uma prática de 3 passos para o dia a dia."
-pubDate: "2026-06-30"
+pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["Hábitos Históricos","Nikola Tesla","Rotina de Sono","Foco","Motivação"]
 heroImage: "/images/blog/tesla_sleep_hack.png"

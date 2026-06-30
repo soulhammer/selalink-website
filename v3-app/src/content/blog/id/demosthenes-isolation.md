@@ -1,7 +1,7 @@
 ---
 title: "Orator yang Mencukur Setengah Rambutnya? Hukum Kontrol Lingkungan Ekstrem Demosthenes"
 description: "Demosthenes mengatasi keterbatasan fisik bawaan untuk menjadi orator terhebat di Yunani kuno. Temukan rutinitas kontrol lingkungannya dengan mencukur setengah kepalanya dan memasuki gua untuk memblokir godaan."
-pubDate: "2026-06-30"
+pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["Kebiasaan Tokoh","Demosthenes","Fokus","Kontrol Lingkungan","Kemauan"]
 heroImage: "/images/blog/demosthenes_isolation.png"

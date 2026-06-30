@@ -1,7 +1,7 @@
 ---
 title: "¿El secreto para superar el estrés de la investigación del radio? El paseo vespertino en bicicleta de Marie Curie"
 description: "Marie Curie, la primera mujer en ganar un Premio Nobel y la única persona en ganarlo en dos campos científicos diferentes. Conozca su rutina de ciclismo que protegió su cerebro del cansancio extremo y del estrés de la investigación."
-pubDate: "2026-06-30"
+pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["Hábitos Históricos","Marie Curie","Bicicleta","Descanso","Estrés"]
 heroImage: "/images/blog/curie_cycling.png"

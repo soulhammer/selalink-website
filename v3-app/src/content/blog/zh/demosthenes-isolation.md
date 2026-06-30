@@ -1,7 +1,7 @@
 ---
 title: "剃掉半边头发的演说家？德摩斯梯尼的极限环境控制法则"
 description: "德摩斯梯尼克服了先天的身体缺陷，成为古希腊最伟大的演说家。介绍他为了阻断诱惑，自己剃掉半边头发并进入山洞闭关的环境控制常规。"
-pubDate: "2026-06-30"
+pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["伟人习惯","德摩斯梯尼","专注","环境控制","意志力"]
 heroImage: "/images/blog/demosthenes_isolation.png"

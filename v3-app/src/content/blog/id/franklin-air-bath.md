@@ -1,7 +1,7 @@
 ---
 title: "30 Menit Setiap Pagi, Metode Kesehatan 'Mandi Udara (Air Bath)' Benjamin Franklin yang Aneh"
 description: "Benjamin Franklin, yang menemukan penangkal petir dan memimpin pendirian Amerika Serikat. Temukan efek ilmiah dan praktik rutinitas 'Mandi Udara'-nya, di mana dia membuka jendela dan menghadap angin dengan telanjang setiap pagi."
-pubDate: "2026-06-30"
+pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Kebiasaan Tokoh","Benjamin Franklin","Rutinitas Pagi","Kekebalan","Gairah"]
 heroImage: "/images/blog/franklin_air_bath.png"

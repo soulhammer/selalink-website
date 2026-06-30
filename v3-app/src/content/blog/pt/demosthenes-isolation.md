@@ -1,7 +1,7 @@
 ---
 title: "O orador que raspou metade da cabeça? A lei do controle ambiental extremo de Demóstenes"
 description: "Demóstenes superou limitações físicas congênitas para se tornar o maior orador da Grécia Antiga. Conheça sua rotina de controle ambiental de raspar metade da cabeça e isolar-se em uma caverna para evitar distrações."
-pubDate: "2026-06-30"
+pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["Hábitos Históricos","Demóstenes","Foco","Controle Ambiental","Força de Vontade"]
 heroImage: "/images/blog/demosthenes_isolation.png"

@@ -1,7 +1,7 @@
 ---
 title: "Jam Königsberg? Jalan Kaki Harian Immanuel Kant Pukul 15.30"
 description: "Immanuel Kant, raksasa filsafat modern. Temukan manfaat sains otak yang tersembunyi dalam rutinitas jalan kakinya yang tepat, yang sangat akurat sehingga tetangga mencocokkan jam mereka dengannya."
-pubDate: "2026-06-30"
+pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Kebiasaan Tokoh","Immanuel Kant","Jalan Kaki","Disiplin","Istirahat"]
 heroImage: "/images/blog/kant_walk.png"

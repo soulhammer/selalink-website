@@ -1,7 +1,7 @@
 ---
 title: "手握钢球午睡的天才？托马斯·爱迪生的半入睡（Hypnagogia）睡眠法"
 description: "每当遇到瓶颈、缺乏创意灵感时，爱迪生就会进行这种奇妙的午睡仪式。分享爱迪生午睡法的原理和实践指南，教你如何在半梦半醒的状态下获得创造性灵感。"
-pubDate: "2026-06-30"
+pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["伟人习惯","托马斯·爱迪生","创造力","午睡","灵感"]
 heroImage: "/images/blog/edison_nap.png"

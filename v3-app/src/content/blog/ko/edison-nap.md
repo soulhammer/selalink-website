@@ -1,7 +1,7 @@
 ---
 title: "쇠구슬을 손에 쥐고 낮잠을 잔 천재? 토마스 에디슨의 하프나고지아(Hypnagogia) 수면법"
 description: "획기적인 발명 아이디어가 막힐 때마다 에디슨이 행했던 기묘한 낮잠 리추얼. 반수면 상태에서 창의적 영감을 얻는 에디슨 낮잠법의 원리와 실천 가이드를 공유합니다."
-pubDate: "2026-06-30"
+pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
 heroImage: "/images/blog/edison_nap.png"

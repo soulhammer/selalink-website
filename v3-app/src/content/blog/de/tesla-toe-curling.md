@@ -1,7 +1,7 @@
 ---
 title: "Das Genie, das seine Zehen 100 Mal krallte? Nikola Teslas seltsames Schlafritual"
 description: "Nikola Tesla, der geniale Erfinder, der jeden Abend im Bett seine Zehen krallte. Lernen Sie die hirnphysiologischen Geheimnisse seiner Routine und eine 3-Schritte-Praxis für den Alltag kennen."
-pubDate: "2026-06-30"
+pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["Historische Gewohnheiten","Nikola Tesla","Schlafroutine","Fokus","Motivation"]
 heroImage: "/images/blog/tesla_sleep_hack.png"

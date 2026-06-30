@@ -1,7 +1,7 @@
 ---
 title: "The Orator Who Shaved Half His Head? Demosthenes' Law of Extreme Environmental Control"
 description: "Demosthenes overcame congenital physical limitations to become the greatest orator of ancient Greece. Introduce his environmental control routine of shaving half his head and entering a cave to block out temptations."
-pubDate: "2026-06-30"
+pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["Historical Habits","Demosthenes","Focus","Environmental Control","Willpower"]
 heroImage: "/images/blog/demosthenes_isolation.png"

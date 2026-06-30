@@ -1,7 +1,7 @@
 ---
 title: "頭の半分を剃り落とした雄弁家？デ모ステネスの極限環境コントロールの法則"
 description: "先天的身体限界を克服し、古代ギリシャ最高の雄弁家となったデモステネス。誘惑を遮断するために自ら頭の半分を剃り上げ、洞窟に入った彼の環境管理ルーティンを紹介します。"
-pubDate: "2026-06-30"
+pubDate: "2026-01-28"
 category: "BuildSelf"
 tags: ["偉人の習慣","デモステネス","没頭","環境管理","意志力"]
 heroImage: "/images/blog/demosthenes_isolation.png"

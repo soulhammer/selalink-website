@@ -1,7 +1,7 @@
 ---
 title: "The Secret to Overcoming Radium Research Stress? Marie Curie's Evening Bicycle Rides"
 description: "Marie Curie, the first woman to win a Nobel Prize and the only person to win in two different scientific fields. Discover her bicycle riding routine that protected her brain amidst extreme fatigue and radium research stress."
-pubDate: "2026-06-30"
+pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["Historical Habits","Marie Curie","Bicycle","Rest","Stress"]
 heroImage: "/images/blog/curie_cycling.png"

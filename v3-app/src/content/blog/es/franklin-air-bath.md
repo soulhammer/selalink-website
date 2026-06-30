@@ -1,7 +1,7 @@
 ---
 title: "30 minutos cada mañana, el extraño método de salud de 'baño de aire (Air Bath)' de Benjamin Franklin"
 description: "Benjamin Franklin, quien inventó el pararrayos y lideró la fundación de los Estados Unidos. Presentamos los efectos científicos y la práctica de su rutina de 'baño de aire', abriendo ventanas y enfrentando el viento desnudo cada mañana."
-pubDate: "2026-06-30"
+pubDate: "2026-02-12"
 category: "BuildSelf"
 tags: ["Hábitos Históricos","Benjamin Franklin","Rutina de Mañana","Inmunidad","Alerta"]
 heroImage: "/images/blog/franklin_air_bath.png"

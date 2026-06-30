@@ -1,7 +1,7 @@
 ---
 title: "Rahasia Mengatasi Stres Penelitian Radium? Rutinitas Bersepeda Sore Marie Curie"
 description: "Marie Curie, wanita pertama yang memenangkan Hadiah Nobel dan satu-satunya orang yang menang di dua bidang ilmiah berbeda. Temukan rutinitas bersepedanya yang melindungi otaknya di tengah kelelahan ekstrem dan stres penelitian radium."
-pubDate: "2026-06-30"
+pubDate: "2026-02-28"
 category: "BuildSelf"
 tags: ["Kebiasaan Tokoh","Marie Curie","Sepeda","Istirahat","Stres"]
 heroImage: "/images/blog/curie_cycling.png"

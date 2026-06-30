@@ -1,7 +1,7 @@
 ---
 title: "The Genius Who Napped with Steel Balls in Hand? Thomas Edison's Hypnagogia Sleep Method"
 description: "A strange nap ritual that Edison performed whenever he hit a wall with breakthrough invention ideas. Share the principles and practice guide of the Edison nap method to gain creative inspiration in a semi-sleep state."
-pubDate: "2026-06-30"
+pubDate: "2026-04-02"
 category: "BuildSelf"
 tags: ["Historical Habits","Thomas Edison","Creativity","Nap","Inspiration"]
 heroImage: "/images/blog/edison_nap.png"

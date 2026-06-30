@@ -1,7 +1,7 @@
 ---
 title: "把脚趾蜷缩100次的天才？尼古拉·特斯拉奇妙的熟睡仪式"
 description: "每天晚上躺在床上蜷缩脚趾的天才发明家尼古拉·特斯拉。介绍隐藏在他独特常规背后的脑科学秘密以及适合现代人的三步实践法。"
-pubDate: "2026-06-30"
+pubDate: "2026-04-28"
 category: "BuildSelf"
 tags: ["伟人习惯","尼古拉·特斯拉","睡眠常规","注意力","动力"]
 heroImage: "/images/blog/tesla_sleep_hack.png"
