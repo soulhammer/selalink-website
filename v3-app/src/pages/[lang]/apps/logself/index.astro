@@ -9,6 +9,7 @@ import LogSelfSecurity from '../../../../components/logself/LogSelfSecurity.astr
 import LogSelfInsights from '../../../../components/logself/LogSelfInsights.astro';
 import LogSelfTemplates from '../../../../components/logself/LogSelfTemplates.astro';
 import LogSelfThemes from '../../../../components/logself/LogSelfThemes.astro';
+import AppToast from '../../../../components/AppToast.astro';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -18,8 +19,6 @@ const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 
 const isKo = lang === 'ko';
-const toastTitle = isKo ? '안내' : 'Notice';
-const toastDesc = isKo ? 'iOS 버전은 현재 준비 중입니다.' : 'iOS version is coming soon.';
 ---
 
 <Layout title={t('app.logself.meta.title')} lang={lang} description={t('app.logself.desc')} ogType="software" appId="logself">
@@ -67,31 +66,5 @@ const toastDesc = isKo ? 'iOS 버전은 현재 준비 중입니다.' : 'iOS vers
 	</div>
 
 	<!-- Toast Notification Popover -->
-	<div id="lsToastNotification" class="fixed bottom-6 right-6 z-50 bg-slate-900/95 dark:bg-white/95 text-white dark:text-slate-900 px-6 py-4 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.3)] border border-white/10 dark:border-slate-200/50 backdrop-blur-xl flex items-center gap-3 transform translate-y-20 opacity-0 invisible transition-all duration-500 ease-out">
-		<span class="text-xl">🍏</span>
-		<div class="flex flex-col text-left font-sans">
-			<span class="text-sm font-bold">{toastTitle}</span>
-			<span class="text-xs text-slate-400 dark:text-slate-600 mt-0.5">{toastDesc}</span>
-		</div>
-	</div>
-
-	<script>
-		const iosBtn = document.getElementById('lsIosDownloadBtn');
-		const toast = document.getElementById('lsToastNotification');
-		
-		if (iosBtn && toast) {
-			iosBtn.addEventListener('click', (e) => {
-				e.preventDefault();
-				// Show toast
-				toast.classList.remove('translate-y-20', 'opacity-0', 'invisible');
-				toast.classList.add('translate-y-0', 'opacity-100', 'visible');
-				
-				// Hide after 3.5s
-				setTimeout(() => {
-					toast.classList.remove('translate-y-0', 'opacity-100', 'visible');
-					toast.classList.add('translate-y-20', 'opacity-0', 'invisible');
-				}, 3500);
-			});
-		}
-	</script>
+	<AppToast lang={lang} triggerId="lsIosDownloadBtn" toastId="lsToastNotification" />
 </Layout>

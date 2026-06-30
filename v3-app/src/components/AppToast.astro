@@ -1,0 +1,55 @@
+---
+import { useTranslations, languages } from '../i18n/ui';
+
+interface Props {
+  lang: string;
+  triggerId: string;
+  toastId?: string;
+  title?: string;
+  desc?: string;
+}
+
+const { 
+  lang, 
+  triggerId, 
+  toastId = 'appToastNotification', 
+  title, 
+  desc 
+} = Astro.props;
+
+const t = useTranslations(lang as keyof typeof languages);
+
+const displayTitle = title || t('app.toast.ios.title');
+const displayDesc = desc || t('app.toast.ios.desc');
+---
+
+<div 
+  id={toastId} 
+  class="fixed bottom-6 right-6 z-50 bg-slate-900/95 dark:bg-white/95 text-white dark:text-slate-900 px-6 py-4 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.3)] border border-white/10 dark:border-slate-200/50 backdrop-blur-xl flex items-center gap-3 transform translate-y-20 opacity-0 invisible transition-all duration-500 ease-out"
+>
+  <span class="text-xl">🍏</span>
+  <div class="flex flex-col text-left font-sans">
+    <span class="text-sm font-bold">{displayTitle}</span>
+    <span class="text-xs text-slate-400 dark:text-slate-600 mt-0.5">{displayDesc}</span>
+  </div>
+</div>
+
+<script define:vars={{ triggerId, toastId }}>
+  const iosBtn = document.getElementById(triggerId);
+  const toast = document.getElementById(toastId);
+  
+  if (iosBtn && toast) {
+    iosBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      // Show toast
+      toast.classList.remove('translate-y-20', 'opacity-0', 'invisible');
+      toast.classList.add('translate-y-0', 'opacity-100', 'visible');
+      
+      // Hide after 3.5s
+      setTimeout(() => {
+        toast.classList.remove('translate-y-0', 'opacity-100', 'visible');
+        toast.classList.add('translate-y-20', 'opacity-0', 'invisible');
+      }, 3500);
+    });
+  }
+</script>
