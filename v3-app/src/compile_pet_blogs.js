@@ -305,6 +305,61 @@ function generateMarkdown(slug, lang) {
       de: ["British Shorthair", "HCM-Prävention", "Gewichtskontrolle", "Adipositas"],
       pt: ["British Shorthair", "Prevenção de HCM", "Controle de Peso", "Obesidade"],
       id: ["British Shorthair", "Pencegahan HCM", "Kontrol Berat Badan", "Obesitas"]
+    },
+    'ragdoll-care': {
+      ko: ["렉돌 고양이", "안아 올리기", "관절 케어", "반려묘 홈케어"],
+      en: ["Ragdoll Cat", "Safe Holding", "Joint Care", "Cat Home Care"],
+      ja: ["ラグドール", "抱き方", "関節ケア", "猫のホームケア"],
+      zh: ["布偶猫", "抱姿训练", "关节护理", "猫咪家庭护理"],
+      es: ["Ragdoll", "Sujeción Segura", "Cuidado Articular", "Cuidado de Gatos"],
+      fr: ["Ragdoll", "Portage Sécurisé", "Soin Articulaire", "Soins Félins"],
+      de: ["Ragdoll", "Sicheres Halten", "Gelenkpflege", "Katzenpflege"],
+      pt: ["Ragdoll", "Colo Seguro", "Cuidado Articular", "Cuidado de Gatos"],
+      id: ["Ragdoll", "Gendong Aman", "Perawatan Sendi", "Perawatan Kucing"]
+    },
+    'scottish-fold-care': {
+      ko: ["스코티시폴드", "골연골이형성증", "귀 청소", "반려묘 관절"],
+      en: ["Scottish Fold", "Osteochondrodysplasia", "Ear Cleaning", "Cat Joints"],
+      ja: ["スコティッシュフォールド", "骨軟骨異形成症", "耳掃除", "猫の関節"],
+      zh: ["苏格兰折耳猫", "骨软骨发育不良", "洗耳清洁", "猫咪关节"],
+      es: ["Scottish Fold", "Osteocondrodiplasia", "Limpieza de Oídos", "Articulaciones"],
+      fr: ["Scottish Fold", "Ostéochondrodysplasie", "Nettoyage des Oreilles", "Articulaciones"],
+      de: ["Scottish Fold", "Osteochondrodysplasie", "Ohrenreinigung", "Gelenke"],
+      pt: ["Scottish Fold", "Osteochondrodisplasia", "Limpieza de Orelhas", "Articulações"],
+      id: ["Scottish Fold", "Osteochondrodysplasia", "Pembersihan Telinga", "Sendi Kucing"]
+    },
+    'maine-coon-care': {
+      ko: ["메인쿤", "거대묘", "비대성 심근증", "이중모 빗질"],
+      en: ["Maine Coon", "Giant Cat", "HCM Prevention", "Double Coat"],
+      ja: ["メインクーン", "大型猫", "肥大性心筋症", "二重毛のケア"],
+      zh: ["缅因猫", "巨型猫", "心肌病预防", "双层毛梳理"],
+      es: ["Maine Coon", "Gato Gigante", "Prevención de HCM", "Manto Doble"],
+      fr: ["Maine Coon", "Chat Géant", "Prévention de CMH", "Double Pelage"],
+      de: ["Maine Coon", "Riesenkatze", "HCM-Prävention", "Doppeltes Fell"],
+      pt: ["Maine Coon", "Gato Gigante", "Prevenção de HCM", "Pelagem Dupla"],
+      id: ["Maine Coon", "Kucing Raksasa", "Pencegahan HCM", "Bulu Ganda"]
+    },
+    'chihuahua-care': {
+      ko: ["치와와", "천문 보호", "저혈당 예방", "초소형견 케어"],
+      en: ["Chihuahua", "Molera Protection", "Hypoglycemia", "Toy Breed Care"],
+      ja: ["チワワ", "泉門保護", "低血糖予防", "超小型犬のケア"],
+      zh: ["吉娃娃", "囟门保护", "低血糖预防", "超小型犬护理"],
+      es: ["Chihuahua", "Protección de Molera", "Hipoglucemia", "Cuidado de Perros Toy"],
+      fr: ["Chihuahua", "Protection Molera", "Hypoglycémie", "Soins Races Toy"],
+      de: ["Chihuahua", "Molera-Schutz", "Hypoglykämie", "Zwergrassenpflege"],
+      pt: ["Chihuahua", "Proteção de Moleira", "Hipoglicemia", "Cuidado de Cães Toy"],
+      id: ["Chihuahua", "Perlindungan Molera", "Hipoglikemia", "Perawatan Ras Kecil"]
+    },
+    'husky-care': {
+      ko: ["시베리안 허스키", "이중모 브러싱", "하울링 방지", "대형견 산책"],
+      en: ["Siberian Husky", "Double Coat Brushing", "Howling Prevention", "Large Dog Walk"],
+      ja: ["シベリアンハスキー", "二重毛のブラッシング", "遠吠え防止", "大型犬の散歩"],
+      zh: ["西伯利亚哈士奇", "双层毛梳理", "防止嚎叫", "大型犬散步"],
+      es: ["Husky Siberiano", "Cepillado de Manto", "Prevenir Aullidos", "Paseos de Perros Grandes"],
+      fr: ["Husky Sibérien", "Brossage Double Pelage", "Prévenir Hurlements", "Promenade Grand Chien"],
+      de: ["Sibirischer Husky", "Doppelfellbürsten", "Jaulprävention", "Spaziergang großer Hunde"],
+      pt: ["Husky Siberiano", "Escovação de Pelagem", "Prevenir Uivos", "Passeios de Cães Grandes"],
+      id: ["Siberian Husky", "Menyikat Bulu Ganda", "Pencegahan Melolong", "Jalan Anjing Besar"]
     }
   };
 
@@ -327,7 +382,12 @@ function generateMarkdown(slug, lang) {
     'persian-care': { pub: '2026-06-05', upd: '2026-06-05' },
     'beagle-care': { pub: '2026-02-28', upd: '2026-03-01' },
     'bichon-care': { pub: '2026-05-10', upd: '2026-05-10' },
-    'bshorthair-care': { pub: '2026-03-08', upd: '2026-03-09' }
+    'bshorthair-care': { pub: '2026-03-08', upd: '2026-03-09' },
+    'ragdoll-care': { pub: '2026-06-18', upd: '2026-06-18' },
+    'scottish-fold-care': { pub: '2026-02-10', upd: '2026-02-12' },
+    'maine-coon-care': { pub: '2026-04-20', upd: '2026-04-20' },
+    'chihuahua-care': { pub: '2026-07-01', upd: '2026-07-01' },
+    'husky-care': { pub: '2026-03-29', upd: '2026-03-30' }
   };
 
   const pubDateStr = petDates[slug]?.pub || new Date().toISOString().split('T')[0];
