@@ -91,12 +91,29 @@ if (activeSteps && activeSteps.length > 0) {
   });
 }
 
-// 포스트 프론트매터에 정의된 faqs가 있는 경우 FAQPage 구조화 스키마 동적 생성
-if (post.data.faqs && post.data.faqs.length > 0) {
+// 포스트 프론트매터에 faqs가 없으나, 본문 HTML 구조에서 자주 묻는 질문을 추출할 수 있는 경우 (예: ko 마스터 원본)
+let activeFaqs = post.data.faqs;
+if (!activeFaqs || activeFaqs.length === 0) {
+  const faqsParsed: any[] = [];
+  const rawContent = post.body || '';
+  const faqRegex = /<summary[^>]*>([\s\S]*?)<\/summary>[^]*?<p[^>]*>([\s\S]*?)<\/p>/g;
+  let match;
+  while ((match = faqRegex.exec(rawContent)) !== null) {
+    const question = match[1].replace(/<[^>]*>/g, '').replace(/▼/g, '').trim();
+    const answer = match[2].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
+    faqsParsed.push({ question, answer });
+  }
+  if (faqsParsed.length > 0) {
+    activeFaqs = faqsParsed;
+  }
+}
+
+// 추출되었거나 프론트매터에 정의된 faqs가 있는 경우 FAQPage 구조화 스키마 동적 생성
+if (activeFaqs && activeFaqs.length > 0) {
   structuredDataList.push({
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    "mainEntity": post.data.faqs.map((faq: any) => ({
+    "mainEntity": activeFaqs.map((faq: any) => ({
       "@type": "Question",
       "name": faq.question,
       "acceptedAnswer": {
@@ -106,6 +123,7 @@ if (post.data.faqs && post.data.faqs.length > 0) {
     }))
   });
 }
+
 
 const localeMap: Record<string, string> = {
   ko: 'ko-KR',
