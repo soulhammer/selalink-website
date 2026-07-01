@@ -2,6 +2,10 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
+// 헬퍼 및 템플릿 임포트
+import { parseKoSteps, cleanMarkdown, ensureDir } from './utils/compilerHelper.js';
+import { renderEvidenceBox, renderStepCard, renderTipBox, renderFaqSection } from './utils/blogTemplates.js';
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
@@ -40,25 +44,14 @@ function run() {
     const updatedDate = updatedDateMatch ? updatedDateMatch[1] : null;
 
     // koContent로부터 한글 STEP 명칭 및 본문 파싱 수집
-    const koSteps = [];
-    const stepRegex = /<h4[^>]*>([\s\S]*?)<\/h4>\s*<\/div>\s*<p[^>]*>([\s\S]*?)<\/p>/g;
-    let koMatch;
-    const koBodyParts = koContent.split('---').slice(2).join('---');
-    while ((koMatch = stepRegex.exec(koBodyParts)) !== null) {
-      koSteps.push({
-        name: koMatch[1].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim(),
-        text: koMatch[2].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim()
-      });
-    }
+    const koSteps = parseKoSteps(koContent);
 
     languages.forEach(lang => {
       if (lang === 'ko') return;
       const targetDir = pathModule.join(blogRoot, lang);
       const targetPath = pathModule.join(targetDir, `${blogSlug}.md`);
 
-      if (!fs.existsSync(targetDir)) {
-        fs.mkdirSync(targetDir, { recursive: true });
-      }
+      ensureDir(targetDir);
 
       let title = data.title[lang] || data.title['en'] || "";
       let description = data.description[lang] || data.description['en'] || "";
@@ -68,25 +61,6 @@ function run() {
       let whyDesc = (data.whyDesc[lang] || data.whyDesc['en'] || "").replace(/\\n/g, '\n');
       let cautionTitle = data.cautionTitle[lang] || data.cautionTitle['en'] || "";
       let cautionDesc = (data.cautionDesc[lang] || data.cautionDesc['en'] || "").replace(/\\n/g, '\n');
-
-      if (lang === 'ko') {
-        const fmTitleMatch = koContent.match(/title:\s*"([^"]+)"/);
-        title = fmTitleMatch ? fmTitleMatch[1] : title;
-
-        const fmDescMatch = koContent.match(/description:\s*"([^"]+)"/);
-        description = fmDescMatch ? fmDescMatch[1] : description;
-
-        const fmAuthMatch = koContent.match(/authority:\s*"([^"]+)"/);
-        authority = fmAuthMatch ? fmAuthMatch[1] : authority;
-
-        // 인트로 추출 및 HTML 찌꺼기 제거
-        const introMatch = koBodyParts.match(/^([\s\S]*?)##\s+1\./);
-        if (introMatch) {
-          intro = introMatch[1].trim();
-          intro = intro.replace(/<div class="my-8 p-6 rounded-\[2rem\].*?<\/div>/s, '').trim();
-          intro = intro.replace(/<div[\s\S]*?<\/div>/g, '').replace(/<\/div>/g, '').replace(/<div[^>]*>/g, '').trim();
-        }
-      }
 
       const rawTags = lang === 'en' 
         ? ["Great Habits", blogSlug.split('-')[0], "Routine", "Stamina"]
@@ -112,11 +86,6 @@ function run() {
         let sName = step.name[lang] || step.name['en'] || "";
         let sText = (step.text[lang] || step.text['en'] || "").replace(/\\n/g, '\n');
 
-        if (lang === 'ko' && koSteps[idx]) {
-          sName = koSteps[idx].name;
-          sText = koSteps[idx].text;
-        }
-
         steps.push({ name: sName, text: sText });
 
         let imageHtml = '';
@@ -124,55 +93,22 @@ function run() {
           imageHtml = `\n  <div class="mt-6 flex justify-center">\n    <img src="${currentStepImages[idx]}" alt="${sName}" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />\n  </div>`;
         }
 
-        stepCards.push(`<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">${lang === 'ko' ? '단계' : lang === 'ja' ? 'ステップ' : lang === 'zh' ? '步骤' : lang === 'fr' ? 'ÉTAPE' : lang === 'es' || lang === 'pt' ? 'PASO' : lang === 'id' ? 'LANGKAH' : lang === 'de' ? 'SCHRITT' : 'STEP'} ${stepIdx}</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">${sName}</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    ${sText}
-  </p>${imageHtml}
-</div>`);
+        stepCards.push(renderStepCard(lang, stepIdx, sName, sText, imageHtml));
       });
 
       const stepsYaml = steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n');
 
-      let faqSection = '';
+      let faqItems = [];
       if (data.faqs && data.faqs.length > 0) {
-        const faqTitle = lang === 'ko' ? '자주 묻는 질문 (FAQ)'
-          : lang === 'ja' ? '\u3088\u304f\u3042\u308b\u8cea\u554f (FAQ)'
-          : lang === 'zh' ? '\u5e38\u89c1\u95ee\u9898 (FAQ)'
-          : lang === 'es' ? 'Preguntas Frecuentes (FAQ)'
-          : lang === 'fr' ? 'Foire Aux Questions (FAQ)'
-          : lang === 'de' ? 'H\u00e4ufig gestellte Fragen (FAQ)'
-          : lang === 'pt' ? 'Perguntas Frequentes (FAQ)'
-          : lang === 'id' ? 'Pertanyaan Sering Diajukan (FAQ)'
-          : 'Frequently Asked Questions (FAQ)';
-
-        const faqItems = data.faqs.map((faq, faqIdx) => {
-          const q = faq.question[lang] || faq.question['en'];
-          const a = (faq.answer[lang] || faq.answer['en']).replace(/\\n/g, '\n');
-          const isOpen = faqIdx === 0 ? ' open' : '';
-          const borderClass = faqIdx < data.faqs.length - 1 ? ' border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4' : '';
-          return `  <details class="group${borderClass} cursor-pointer"${isOpen}>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>${q}</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">\u25bc</span>
-    </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      ${a}
-    </p>
-  </details>`;
-        }).join('\n\n');
-
-        faqSection = `\n---\n\n<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>\ud83d\udccd</span> ${faqTitle}
-  </h3>
-  
-${faqItems}
-</div>\n`;
+        faqItems = data.faqs.map(faq => {
+          return {
+            question: faq.question[lang] || faq.question['en'],
+            answer: (faq.answer[lang] || faq.answer['en']).replace(/\\n/g, '\n')
+          };
+        });
       }
+
+      const faqSection = renderFaqSection(lang, faqItems);
 
       let faqsYaml = '';
       if (data.faqs && data.faqs.length > 0) {
@@ -198,17 +134,7 @@ ${faqsYaml}---
 
 ${intro}
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      ${lang === 'ko' ? '역사적 & 학술적 근거' : lang === 'ja' ? '歴史的＆学術的根拠' : lang === 'zh' ? '历史与学术依据' : lang === 'es' ? 'Fundamento Histórico y Académico' : lang === 'fr' ? 'Fondement Historique & Académique' : lang === 'de' ? 'Historischer & Wissenschaftlicher Beleg' : lang === 'pt' ? 'Base Histórica e Acadêmica' : lang === 'id' ? 'Bukti Sejarah & Akademik' : 'Historical & Academic Evidence'}
-    </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      ${lang === 'ko' ? `본 콘텐츠는 <strong>${authority}</strong>에 기반하고 있습니다.` : lang === 'ja' ? `本コンテンツは、<strong>${authority}</strong>に基づいています。` : lang === 'zh' ? `本内容基于 <strong>${authority}</strong>。` : lang === 'es' ? `Este contenido se basa en <strong>${authority}</strong>.` : lang === 'fr' ? `Ce contenu est basé sur <strong>${authority}</strong>.` : lang === 'de' ? `Dieser Inhalt basiert auf <strong>${authority}</strong>.` : lang === 'pt' ? `Este conteúdo baseia-se em <strong>${authority}</strong>.` : lang === 'id' ? `Konten ini didasarkan pada <strong>${authority}</strong>.` : `This content is based on <strong>${authority}</strong>.`}
-    </p>
-  </div>
-</div>
+${renderEvidenceBox(lang, authority, 'habits')}
 
 ---
 
@@ -225,17 +151,10 @@ ${stepCards.join('\n\n')}
 ---
 
 ## 3. ${cautionTitle}
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ${cautionDesc}
-    </p>
-  </div>
-</div>
+${renderTipBox(cautionDesc)}
 ${faqSection}`;
 
-      let finalFileContent = fileContent.replace(/\*\*/g, '');
+      let finalFileContent = cleanMarkdown(fileContent);
       fs.writeFileSync(targetPath, finalFileContent, 'utf-8');
       createdCount++;
     });

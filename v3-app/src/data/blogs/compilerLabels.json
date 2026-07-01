@@ -1,0 +1,92 @@
+{
+  "evidenceTitle": {
+    "ingredients": {
+      "ko": "과학적 & 행동학적 근거",
+      "en": "Scientific & Behavioral Evidence",
+      "ja": "科学的＆行動学的根拠",
+      "zh": "科学与行为学依据",
+      "es": "Fundamento Científico y Comportamental",
+      "fr": "Fondement Scientifique & Comportemental",
+      "de": "Wissenschaftlicher & Verhaltenstypischer Beleg",
+      "pt": "Base Científica e Comportamental",
+      "id": "Bukti Ilmiah & Perilaku"
+    },
+    "habits": {
+      "ko": "역사적 & 학술적 근거",
+      "en": "Historical & Academic Evidence",
+      "ja": "歴史的＆学術的根拠",
+      "zh": "历史与学术依据",
+      "es": "Fundamento Histórico y Académico",
+      "fr": "Fondement Historique & Académique",
+      "de": "Historischer & Wissenschaftlicher Beleg",
+      "pt": "Base Histórica e Acadêmica",
+      "id": "Bukti Sejarah & Akademik"
+    }
+  },
+  "evidenceDescPattern": {
+    "ko": "본 콘텐츠는 <strong>$1</strong>에 기반하고 있습니다.",
+    "en": "This content is based on <strong>$1</strong>.",
+    "ja": "本コンテンツは、<strong>$1</strong>に基づいています。",
+    "zh": "本内容基于 <strong>$1</strong>。",
+    "es": "Este contenido se basa en <strong>$1</strong>.",
+    "fr": "Ce contenu est basé sur <strong>$1</strong>.",
+    "de": "Dieser Inhalt basiert auf <strong>$1</strong>.",
+    "pt": "Este conteúdo baseia-se em <strong>$1</strong>.",
+    "id": "Konten ini didasarkan pada <strong>$1</strong>."
+  },
+  "faqTitle": {
+    "ko": "자주 묻는 질문 (FAQ)",
+    "en": "Frequently Asked Questions (FAQ)",
+    "ja": "よくある質問 (FAQ)",
+    "zh": "常见问题 (FAQ)",
+    "es": "Preguntas Frecuentes (FAQ)",
+    "fr": "Foire Aux Questions (FAQ)",
+    "de": "Häufig gestellte Fragen (FAQ)",
+    "pt": "Preguntas Frecuentes (FAQ)",
+    "id": "Pertanyaan Sering Diajukan (FAQ)"
+  },
+  "stepLabel": {
+    "ko": "단계",
+    "en": "STEP",
+    "ja": "ステップ",
+    "zh": "步骤",
+    "es": "PASO",
+    "fr": "ÉTAPE",
+    "de": "SCHRITT",
+    "pt": "PASO",
+    "id": "LANGKAH"
+  },
+  "petSection2Title": {
+    "ko": "맞춤형 홈케어 루틴",
+    "en": "Custom Daily Care Routine",
+    "ja": "カスタマイズされたホームケアルーティン",
+    "zh": "定制化日常护理惯例",
+    "es": "Rutina de cuidado diario personalizada",
+    "fr": "Routine de soins quotidiens personnalisée",
+    "de": "Individuelle häusliche Pflegeroutine",
+    "pt": "Rotina de cuidados diários personalizada",
+    "id": "Rutinitas Perawatan Harian Kustom"
+  },
+  "petSection3Title": {
+    "ko": "요약 및 주의사항",
+    "en": "Summary and Precautions",
+    "ja": "要約と注意事項",
+    "zh": "总结与注意事项",
+    "es": "Resumen y precauciones",
+    "fr": "Résumé et précautions",
+    "de": "Zusammenfassung und Vorsichtsmaßnahmen",
+    "pt": "Resumo e precauções",
+    "id": "Ringkasan dan Tindakan Pencegahan"
+  },
+  "petSummaryTexts": {
+    "ko": "반려동물의 언어(카밍 시그널)를 세심하게 관찰하는 것만으로도 대부분의 행동 발달 및 스트레스성 질환을 사전에 예방할 수 있습니다. 수의학적 치료도 중요하지만, 집안 환경(안전 발판, 수직 공간 확보, 신선한 다각적 물 공급)을 안전하게 관리하는 것이 평생 동반자로서의 행복을 지탱하는 가장 강력한 보호막입니다.",
+    "en": "Simply observing your pet's calming signals can prevent major behavioral issues and stress-induced illnesses. While veterinary treatment is important, providing a safe environment (steps, vertical spaces, multiple water sources) is the strongest shield supporting their lifetime happiness.",
+    "ja": "ペットの合図（カーミングシグナル）を細かく観察するだけでも、ほとんどの行動問題やストレス性疾患を事前に予防できます。獣医学的な治療も重要ですが、家庭環境（滑り止めステップ、垂直空間の確保、新鮮な複数箇所での給水）を安全に管理することが、生涯の伴侶としての幸せを支える最も強力な盾となります。",
+    "zh": "仅仅通过仔细观察宠物的身体语言（安定信号），就可以预防大部分行为问题和压力引起的疾病。虽然兽医治疗很重要，但安全管理家庭环境（安全台阶、垂直空间保障、新鲜的多角度饮水）是保障它们一生幸福的最强护盾。",
+    "es": "El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.",
+    "fr": "Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.",
+    "de": "Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.",
+    "pt": "Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.",
+    "id": "Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka."
+  }
+}

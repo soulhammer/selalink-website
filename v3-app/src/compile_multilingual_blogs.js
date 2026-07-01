@@ -12,6 +12,10 @@ import { meatIngredients } from './data/ingredients/meat.ts';
 import { seafoodIngredients } from './data/ingredients/seafood.ts';
 import { vegetableIngredients } from './data/ingredients/vegetable.ts';
 
+// 헬퍼 및 템플릿 임포트
+import { parseKoSteps, cleanMarkdown, ensureDir } from './utils/compilerHelper.js';
+import { renderStepCard, renderCautionBox, renderFaqSection } from './utils/blogTemplates.js';
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
@@ -51,7 +55,6 @@ const blogToIngMap = {
 };
 
 const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
-
 const ingredientsDir = path.join(__dirname, 'data/blogs/ingredients');
 
 // 1. 공통 메타 정보 로드
@@ -103,26 +106,15 @@ function run() {
       return;
     }
 
-    // 한국어 마스터 블로그로부터 STEP 수집 (h4와 p 태그 이용)
-    const koSteps = [];
-    const stepRegex = /<h4[^>]*>([\s\S]*?)<\/h4>\s*<\/div>\s*<p[^>]*>([\s\S]*?)<\/p>/g;
-    let koMatch;
-    const koBodyParts = koContent.split('---').slice(2).join('---');
-    while ((koMatch = stepRegex.exec(koBodyParts)) !== null) {
-      koSteps.push({
-        name: koMatch[1].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim(),
-        text: koMatch[2].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim()
-      });
-    }
+    // 한국어 마스터 블로그로부터 STEP 수집
+    const koSteps = parseKoSteps(koContent);
 
     // 2. 다국어 폴더에 컴파일 적용
     languages.forEach(lang => {
       const targetDir = path.join(blogRoot, lang);
       const targetPath = path.join(targetDir, `${blogSlug}.md`);
 
-      if (!fs.existsSync(targetDir)) {
-        fs.mkdirSync(targetDir, { recursive: true });
-      }
+      ensureDir(targetDir);
 
       if (blogSlug === 'how-to-store-apples' || blogSlug === 'how-to-store-watermelon') {
         if (fs.existsSync(targetPath)) {
@@ -167,7 +159,7 @@ function run() {
             }
 
             let finalContent = `---${originalFrontmatter}---${originalBody}`;
-            finalContent = finalContent.replace(/\*\*/g, '');
+            finalContent = cleanMarkdown(finalContent);
             fs.writeFileSync(targetPath, finalContent, 'utf-8');
             console.log(`[보존 및 갱신] ${lang}/${blogSlug}.md 고품질 수동 번역 보존 완료.`);
             compiledCount++;
@@ -226,15 +218,7 @@ function run() {
           }
         }
 
-        stepCards.push(`<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">${dict.step} ${stepIdx}</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">${translatedName}</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    ${translatedText}
-  </p>${imageHtml}
-</div>`);
+        stepCards.push(renderStepCard(lang, stepIdx, translatedName, translatedText, imageHtml));
       });
 
       const stepsYaml = steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n');
@@ -255,7 +239,7 @@ function run() {
         const lMap = sourceMapLang[lang] || sourceMapLang['en'];
         return lMap[s] || s;
       });
-      const authorityHtml = `<strong>${transSources.join(' & ')}</strong>`;
+      const authorityHtml = transSources.join(' & ');
 
       // 5. 번역 맵에서 인트로 및 주의사항 가져오기
       const ingTrans = transMap[ingId];
@@ -282,15 +266,7 @@ function run() {
           const cTitle = c.title[lang] || c.title['en'] || "";
           const cDesc = c.desc[lang] || c.desc['en'] || "";
           const colorClass = idx === 0 ? 'border-rose-500 bg-rose-500/5' : 'border-amber-500 bg-amber-500/5';
-          cautionHtmls.push(`<div class="my-6 p-5 rounded-2xl border-l-4 ${colorClass} flex items-start gap-4">
-  <span class="text-xl">⚠️</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">${cTitle}</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ${cDesc}
-    </p>
-  </div>
-</div>`);
+          cautionHtmls.push(renderCautionBox(colorClass, '⚠️', cTitle, cDesc));
         });
       }
 
@@ -299,49 +275,31 @@ function run() {
         ? specialFaqs[ingId][lang]
         : (specialFaqs[ingId] && specialFaqs[ingId]['en'])
           ? specialFaqs[ingId]['en']
-          : (storageFaqs[lang] || storageFaqs['en']);
-      const faqsYaml = 'faqs:\n' + faqList.map(faq => `  - question: "${faq.question.replace(/"/g, '\\"')}"\n    answer: "${faq.answer.replace(/"/g, '\\"')}"`).join('\n') + '\n';
+          : storageFaqs[lang] || storageFaqs['en'];
 
-      const faqTitle = lang === 'ko' ? '자주 묻는 질문 (FAQ)'
-        : lang === 'ja' ? 'よくある質問 (FAQ)'
-        : lang === 'zh' ? '常见问题 (FAQ)'
-        : lang === 'es' ? 'Preguntas Frecuentes (FAQ)'
-        : lang === 'fr' ? 'Foire Aux Questions (FAQ)'
-        : lang === 'de' ? 'Häufig gestellte Fragen (FAQ)'
-        : lang === 'pt' ? 'Perguntas Frequentes (FAQ)'
-        : lang === 'id' ? 'Pertanyaan Sering Diajukan (FAQ)'
-        : 'Frequently Asked Questions (FAQ)';
+      const faqItems = [];
+      const faqsYamlList = [];
 
-      const faqItems = faqList.map((faq, faqIdx) => {
-        const borderClass = faqIdx < faqList.length - 1 ? ' border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4' : '';
-        const isOpen = faqIdx === 0 ? ' open' : '';
-        return `  <details class="group${borderClass} cursor-pointer"${isOpen}>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>${faq.question}</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
-    </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      ${faq.answer}
-    </p>
-  </details>`;
-      }).join('\n\n');
+      faqList.forEach(faq => {
+        const fQuestion = faq.question.replaceAll('[name]', name);
+        const fAnswer = faq.answer.replaceAll('[name]', name);
+        faqItems.push({ question: fQuestion, answer: fAnswer });
+        faqsYamlList.push(`  - question: "${fQuestion.replace(/"/g, '\\"')}"\n    answer: "${fAnswer.replace(/"/g, '\\"')}"`);
+      });
 
-      const faqSection = `\n---\n\n<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> ${faqTitle}
-  </h3>
-  
-${faqItems}
-</div>\n`;
+      const faqsYaml = faqsYamlList.length > 0 ? `faqs:\n${faqsYamlList.join('\n')}\n` : '';
+      const faqSectionHtml = renderFaqSection(lang, faqItems);
 
-      // 최종 마크다운 조립
-      const newContent = `---
+      // 7. 최종 마크다운 조합
+      const heroImageName = `${ingId.replace(/-/g, '_')}_storage_hack.png`;
+      const markdown = `---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "${title.replace(/"/g, '\\"')}"
 description: "${description.replace(/"/g, '\\"')}"
 pubDate: "${koPubDate}"
 category: "StoreSelf"
 tags: ${tags}
-heroImage: "/images/blog/${ingId.replace(/-/g, '_')}_storage_hack.png"
+heroImage: "/images/blog/${heroImageName}"
 app: "storeself"
 authority: "${authorityHtml.replace(/"/g, '\\"')}"
 steps:
@@ -379,15 +337,14 @@ ${stepCards.join('\n\n')}
 ## 3. ${dict.cautionTitle}
 
 ${cautionHtmls.join('\n\n')}
-${faqSection}`;
-
-      let finalNewContent = newContent.replace(/\*\*/g, '');
-      fs.writeFileSync(targetPath, finalNewContent, 'utf-8');
+${faqSectionHtml}
+`;
+      const finalMarkdown = cleanMarkdown(markdown);
+      fs.writeFileSync(targetPath, finalMarkdown, 'utf-8');
       compiledCount++;
     });
   });
-
-  console.log(`[완료] 총 ${compiledCount}개의 다국어 마크다운 블로그 파일이 완벽하게 2단계 동기화 컴파일 완료되었습니다!`);
+  console.log(`[완료] 총 ${compiledCount}개의 다국어 식재료 블로그 파일이 정상적으로 빌드되었습니다!`);
 }
 
 run();
