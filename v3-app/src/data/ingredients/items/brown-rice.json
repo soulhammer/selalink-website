@@ -1,0 +1,79 @@
+{
+  "id": "brown-rice",
+  "iconImage": "/assets/images/apps/freshself/ingredients/brown-rice.png",
+  "category": "grain",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "현미",
+      "곡물보관",
+      "쌀벌레",
+      "현미보관"
+    ],
+    "en": [
+      "brown rice",
+      "grains",
+      "whole grain rice"
+    ],
+    "ja": [
+      "玄米",
+      "げんまい",
+      "穀物"
+    ],
+    "zh": [
+      "玄米",
+      "糙米",
+      "粗粮"
+    ]
+  },
+  "names": {
+    "ko": "현미",
+    "en": "Brown Rice",
+    "ja": "玄米",
+    "zh": "糙米",
+    "es": "Arroz integral",
+    "fr": "Riz complet",
+    "de": "Naturreis",
+    "pt": "Arroz integral",
+    "id": "Beras merah"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "쌀겨와 배아에 지방 성분이 많아 실온에 두면 기름 쩐내가 나고 쌀벌레가 생깁니다. 밀폐 펫트병이나 용기에 담아 반드시 냉장 보관하는 것이 향을 지키는 비결입니다.",
+        "en": "Bran and germ contain oils that go rancid and attract weevils at room temp. Store in airtight bottles or containers in the fridge to preserve quality.",
+        "ja": "ぬかと胚芽に油分が多いため、常温放置すると脂質が酸化し米虫がわきます。密閉容器やペットボトルに入れ、必ず冷蔵保管するのが品質維持の秘訣です。",
+        "zh": "米糠和胚芽中含有较多油脂成分，常温放置易产生油哈味并生米虫。装在密封瓶或容器中并务必冷藏，这是保持风味的秘诀。",
+        "es": "El salvado y germen contienen aceites que se rancean y atraen gorgojos a temp. ambiente. Guarde en envases herméticos en la nevera.",
+        "fr": "Le son et le germe contiennent des graisses qui rancissent et attirent les charançons. Stockez en boîte étanche au frais pour garder la qualité.",
+        "de": "Kleie und Keimling enthalten Fette, die bei Zimmertemperatur ranzig werden und Rüsselkäfer anziehen. Luftdicht gekühlt lagern.",
+        "pt": "O farelo e o germe contêm óleos que oxidam e atraem carunchos em temp. ambiente. Guarde no pote hermético na geladeira.",
+        "id": "Bekatul dan lembaga mengandung minyak yang bisa tengik dan mengundang kutu. Simpan di wadah kedap dalam kulkas."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "지퍼백에 이중 밀봉해 얼려두면 수분 증발과 잡내 배임 없이 오랫동안 신선한 상태로 보존됩니다.",
+        "en": "Double seal in zipper bags before freezing. This prevents moisture loss and absorbing other freezer odors.",
+        "ja": "保存袋に二重に入れて冷凍すると、水分の蒸発や冷凍庫の臭い移りを防ぎ、長期間新鮮に保てます。",
+        "zh": "装入密封袋双层密封后冷冻，可防止水分蒸发和串味，长期保持新鲜。",
+        "es": "Selle doble en bolsas antes de congelar. Evita la pérdida de humedad y que absorba olores del congelador.",
+        "fr": "Doublez le sachet étanche avant de congeler. Cela évite la perte d’humidité et le transfert d’odeurs du congélateur.",
+        "de": "Doppelt in Beutel einschließen und gefrieren. Das verhindert Feuchtigkeitsverlust und die Aufnahme von Gefriergerüchen.",
+        "pt": "Sele duplo em sacos antes de congelar. Evita perda de umidade e que o arroz pegue cheiro do congelador.",
+        "id": "Segel ganda dalam kantong plastik sebelum dibekukan. Ini mencegah susut air dan bau kulkas."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

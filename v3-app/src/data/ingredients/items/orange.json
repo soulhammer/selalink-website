@@ -1,0 +1,55 @@
+{
+  "id": "orange",
+  "category": "fruit",
+  "emoji": "🍊",
+  "isProcessed": false,
+  "names": {
+    "ko": "오렌지/귤",
+    "en": "Orange / Mandarin",
+    "ja": "オレンジ/みかん",
+    "zh": "橙子/橘子",
+    "es": "Naranja / Mandarina",
+    "fr": "Orange / Mandarine",
+    "de": "Orange / Mandarine",
+    "pt": "Laranja / Tangarina",
+    "id": "Jeruk"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 10,
+      "tips": {
+        "ko": "박스째 보관 시 상한 귤을 골라내지 않으면 에틸렌 가스로 동반 부패합니다. 신문지를 겹겹이 깔고 귤끼리 닿지 않게 통풍이 잘되는 서늘한 그늘에 보관하세요.",
+        "en": "Discard spoiled ones immediately. Place layers of newspaper and space fruits in a cool, dark place.",
+        "ja": "箱의 상태로 保管할 때는 傷んだ 것을 골라내지 않으면 에틸렌 가스로 동반 부패합니다. 新聞紙를 깔고 귤끼리 닿지 않게 통풍이 잘되는涼しい日陰에서 보관해 주세요.",
+        "zh": "整箱保存时必须挑出坏掉的, 否则会因乙烯气体导致大面积变质. 铺上多层报纸, 互不接触, 存放在凉爽阴凉处。",
+        "es": "Deseche las dañadas. Coloque capas de periódico y separe las frutas en un lugar fresco y oscuro.",
+        "fr": "Triez les fruits gâtés. Étalez des couches de journal et séparez les agrumes au frais et à l’ombre.",
+        "de": "Verdorbene sofort aussortieren. Zeitungspapier unterlegen und Früchte getrennt an einem kühlen, dunklen Ort lagern.",
+        "pt": "Retire as estragadas. Coloque folhas de jornal e separe as frutas em local fresco e com sombra.",
+        "id": "Buang yang busuk segera. Alasi koran berlapis dan beri jarak antaruah di tempat sejuk dan gelap."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 21,
+      "tips": {
+        "ko": "장기 보관하려면 옅은 소금물에 가볍게 씻어 껍질의 곰팡이 포자를 제거하고, 물기를 말려 신문지에 개별 싸서 지퍼백에 밀봉 보관하세요.",
+        "en": "Wash in diluted saltwater to remove mold spores, dry completely, wrap in newspaper, and seal in bags.",
+        "ja": "長期保存するなら薄い塩水で軽く洗い, カビ胞子を洗い流して乾かし, 新聞紙で1つずつ包んで冷蔵保存します。",
+        "zh": "如需长期保存, 请用淡盐水轻洗以去除表皮霉菌孢子, 擦干水分后用报纸单独包裹, 装入袋中冷藏。",
+        "es": "Lave en agua con sal para eliminar esporas de moho, seque, envuelva en periódico y guarde en bolsas.",
+        "fr": "Lavez à l’eau salée pour éliminer les spores, séchez, enveloppez de journal et ensachez au frais.",
+        "de": "In leichtem Salzwasser waschen, um Schimmelsporen zu entfernen, trocknen, in Zeitung wickeln und kühlen.",
+        "pt": "Lave em água salgada para retirar esporos de mofo, seque, embrulhe em jornal e guarde em sacos.",
+        "id": "Cuci dengan air garam untuk membunuh spora jamur, keringkan, bungkus koran, lalu segel di kantong plastik."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

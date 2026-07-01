@@ -1,0 +1,60 @@
+{
+  "id": "oyster-sauce",
+  "iconImage": "/assets/images/apps/freshself/ingredients/oyster-sauce.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "굴소스",
+      "이금기",
+      "조미료",
+      "양념보관",
+      "굴소스보관"
+    ],
+    "en": [
+      "oyster sauce",
+      "asian sauce",
+      "seasoning"
+    ],
+    "ja": [
+      "オイスターソース",
+      "中華調味料"
+    ],
+    "zh": [
+      "蚝油",
+      "蚝汁"
+    ]
+  },
+  "names": {
+    "ko": "굴소스",
+    "en": "Oyster Sauce",
+    "ja": "オイスターソース",
+    "zh": "蚝油",
+    "es": "Salsa de ostras",
+    "fr": "Sauce d’huître",
+    "de": "Austernsauce",
+    "pt": "Molho de ostra",
+    "id": "Saus tiram"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "개봉 후 실온에 두면 곰팡이가 필 확률이 대단히 높으므로 반드시 입구를 닦아 냉장 보관하고, 3~6개월 내에 드세요.",
+        "en": "Highly prone to mold at room temp once opened. Wipe opening clean, keep refrigerated, and consume within 3–6 months.",
+        "ja": "개봉한 뒤 실온에 두면 입구 부분에 곰팡이가 피기 쉽습니다. 반드시 입구를 닦아 냉장 보관하고 3~6개월 내로 사용하세요.",
+        "zh": "开封后若置于常温，极易发霉。请务必擦净瓶口并冷藏保存，在3-6个月内用完。",
+        "es": "Muy sensible al moho en alacena tras abrir. Limpie el borde, refrigere y consuma en 3-6 meses.",
+        "fr": "Très sensible aux moisissures à température ambiante. Essuyez le goulot, réfrigérez et consommez sous 3 à 6 mois.",
+        "de": "Geöffnet bei Raumtemperatur sehr schimmelgefährdet. Flaschenhals säubern, kühlen und in 3–6 Monaten verbrauchen.",
+        "pt": "Muito propenso a mofo se aberto fora da geladeira. Limpe a tampa, refrigere e use em 3 a 6 meses.",
+        "id": "Sangat mudah berjamur di suhu ruang setelah dibuka. Lap mulut botol, dinginkan, dan habiskan dalam 3-6 bulan."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "korean-zucchini",
+  "iconImage": "/assets/images/apps/freshself/ingredients/korean-zucchini.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "애호박",
+      "풋호박",
+      "호박보관",
+      "조각호박"
+    ],
+    "en": [
+      "korean zucchini",
+      "zucchini",
+      "squash"
+    ],
+    "ja": [
+      "ズッキーニ",
+      "エホバク",
+      "かぼちゃ"
+    ],
+    "zh": [
+      "西葫芦",
+      "角瓜"
+    ]
+  },
+  "names": {
+    "ko": "애호박",
+    "en": "Korean Zucchini",
+    "ja": "ズッキーニ / エホバク",
+    "zh": "西葫芦",
+    "es": "Calabacín coreano",
+    "fr": "Courgette coréenne",
+    "de": "Koreanische Zucchini",
+    "pt": "Abobrinha coreana",
+    "id": "Zucchini korea"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "사용 후 남은 조각 애호박은 자른 단면 물기를 닦고 키친타월을 밀착시켜 감싼 뒤 랩으로 완전 진공 밀봉하여 보관해야 3~5일간 물러지지 않습니다.",
+        "en": "Dry cut surface, wrap tightly with a paper towel, and seal completely with plastic wrap. Keeps fresh for 3–5 days without rotting.",
+        "ja": "남은 애호박 조각은 자른 단면의 물기를 닦고 키친타월을 대어 랩으로 완전히 감싸 밀폐 보관해야 물러짐을 늦출 수 있습니다.",
+        "zh": "用剩的西葫芦块，需擦干切面水分并用厨房纸贴紧包裹，用保鲜膜真空密封般裹好，可防止3-5天内腐烂。",
+        "es": "Seque la superficie de corte, envuelva con papel de cocina y selle con film hermético. Evita daños en 3–5 días.",
+        "fr": "Séchez la coupe, enveloppez de papier essuie-tout et filmez hermétiquement sans air. Se conserve 3 à 5 jours.",
+        "de": "Schnittfläche trocken tupfen, Küchenpapier andrücken und fest in Folie wickeln. Bleibt 3–5 Tage frisch.",
+        "pt": "Seque a área de corte, cubra com papel-toalha e envolva em filme plástico a vácuo. Mantém por até 5 dias.",
+        "id": "Keringkan bekas potongan, alas tisu, lalu bungkus plastik wrap rapat. Awet 3-5 hari tanpa membusuk."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

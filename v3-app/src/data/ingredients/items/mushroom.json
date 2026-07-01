@@ -1,0 +1,37 @@
+{
+  "id": "mushroom",
+  "category": "vegetable",
+  "emoji": "🍄",
+  "isProcessed": false,
+  "names": {
+    "ko": "버섯",
+    "en": "Mushroom",
+    "ja": "キノコ",
+    "zh": "蘑菇",
+    "es": "Champiñón",
+    "fr": "Champignon",
+    "de": "Pilz",
+    "pt": "Cogumelo",
+    "id": "Jamur"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "절대 물에 씻어서 보관하지 마세요. 수분을 잘 흡수하는 종이봉투나 키친타월로 감싸 밀폐용기에 담아 보관해야 쫄깃함이 유지됩니다.",
+        "en": "Never wash with water before storing. Wrap in paper bags or paper towels to absorb moisture.",
+        "ja": "絶対に水洗いして保存しないでください。水分を吸う紙袋やキッチンペーパーで包み、密閉保存します。",
+        "zh": "绝不能用水洗后保存。用吸水性好的纸袋或厨房纸包裹，放入密封容器中保存以保持弹牙口感。",
+        "es": "Nunca los lave con agua antes de guardar. Envuélvalos en bolsas de papel o toallas de papel.",
+        "fr": "Ne les lavez jamais à l’eau avant stockage. Enveloppez-les dans un sac en papier ou du papier absorbant.",
+        "de": "Vor der Lagerung niemals mit Wasser waschen. In Papiertüten oder Küchenpapier gewickelt luftdicht lagern.",
+        "pt": "Nunca lave com água antes de guardar. Embrulhe em sacos de papel ou papel-toalha para reter a umidade.",
+        "id": "Jangan pernah cuci sebelum disimpan. Bungkus dengan kantong kertas atau tisu dapur untuk menyerap air."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    }
+  }
+}

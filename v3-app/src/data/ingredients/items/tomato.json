@@ -1,0 +1,57 @@
+{
+  "id": "tomato",
+  "category": "fruit",
+  "emoji": "🍅",
+  "isProcessed": false,
+  "names": {
+    "ko": "토마토",
+    "en": "Tomato",
+    "ja": "トマト",
+    "zh": "西红柿",
+    "es": "Tomate",
+    "fr": "Tomate",
+    "de": "Tomate",
+    "pt": "Tomate",
+    "id": "Tomat"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "꼭지를 아래로 가게 하여 겹치지 않게 바구니에 담아 실온 보관하세요. 덜 익은 파란 토마토는 냉장하면 당도가 저하되고 후숙이 멈춥니다.",
+        "en": "Place stem-side down without overlapping in a basket. Refrigerating unripe tomatoes stops ripening and ruins flavor.",
+        "ja": "ヘタを下にして重ならないようバスケットなどに入れ、常温保存します。未熟な緑のトマトは冷蔵すると追熟が止まり風味も落ちます。",
+        "zh": "蒂朝下放入篮子中，避免重叠，在常温下保存。未熟透的青色西红柿若冷藏会停止熟化且降低甜度。",
+        "es": "Colóquelos con el tallo hacia abajo sin encabalgar en una cesta. Refrigerar tomates verdes frena su maduración.",
+        "fr": "Placez la tige vers le bas sans les superposer. Réfrigérer des tomates vertes arrête leur mûrissement et altère le goût.",
+        "de": "Mit dem Stiel nach unten und ohne Überlappung in einen Korb legen. Unreife Tomaten im Kühlschrank verlieren Geschmack.",
+        "pt": "Coloque com o pedúnculo para baixo sem sobrepor em uma cesta. Refrigerar tomates verdes interrompe o amadurecimento.",
+        "id": "Letakkan bagian tangkai di bawah tanpa bertumpuk di keranjang. Mendinginkan tomat mentah merusak rasanya."
+      },
+      "sources": [
+        "RDA",
+        "USDA",
+        "CDC"
+      ]
+    },
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "붉게 완숙된 토마토는 씻어서 물기를 닦은 후 꼭지를 떼어내고(꼭지에 곰팡이가 피기 쉬움) 밀폐 보관하세요.",
+        "en": "For fully ripe red tomatoes, wash, dry, remove stems (stems mold easily), and store in an airtight container.",
+        "ja": "赤く完熟したトマトは洗い、水気を拭き取ってからヘタを外して（ヘタにカビが生えやすいため）密閉保存します。",
+        "zh": "红透熟熟的西红柿清洗并擦干，摘掉果蒂（果蒂极易发霉），装入密封容器保存。",
+        "es": "Para tomates maduros rojos, lávelos, séquelos, quite los tallos (se mohean con facilidad) y guárdelos herméticamente.",
+        "fr": "Pour les tomates bien mûres, lavez, séchez, enlevez la tige (qui moisit vite) et fermez-les hermétiquement.",
+        "de": "Reife rote Tomaten waschen, trocknen, Stiele entfernen (schimmeln schnell) und luftdicht lagern.",
+        "pt": "Para tomates bem maduros, lave, seque, retire o pedúnculo (que mofa facilmente) e guarde em pote vedado.",
+        "id": "Untuk tomat matang merah, cuci, keringkan, buang tangkainya (mudah berjamur), lalu simpan kedap udara."
+      },
+      "sources": [
+        "RDA",
+        "USDA",
+        "CDC"
+      ]
+    }
+  }
+}

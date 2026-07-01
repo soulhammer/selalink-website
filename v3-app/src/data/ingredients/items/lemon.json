@@ -1,0 +1,37 @@
+{
+  "id": "lemon",
+  "category": "fruit",
+  "emoji": "🍋",
+  "isProcessed": false,
+  "names": {
+    "ko": "레몬",
+    "en": "Lemon",
+    "ja": "レモン",
+    "zh": "柠檬",
+    "es": "Limón",
+    "fr": "Citron",
+    "de": "Zitrone",
+    "pt": "Limão",
+    "id": "Lemon"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "껍질째 보관 시 베이킹소다로 세척 후 물기를 말려 지퍼백에 넣어 야채칸에 두세요. 반 쓰고 남은 레몬은 단면이 위로 가게 랩핑하여 밀폐 보관하세요.",
+        "en": "Wash with baking soda, dry, and place in bags in the vegetable drawer. Wrap cut lemons tightly with flat side up.",
+        "ja": "重曹で洗って水気を乾かし、袋に入れて野菜室へ。使いかけは断面にぴったりラップをして密閉保存します。",
+        "zh": "带皮保存时，用小苏打洗净并晾干水分，装入密封袋置于蔬菜室。用剩的半个切面朝上包裹保鲜膜密封保存。",
+        "es": "Lave con bicarbonato, seque y guarde en bolsas. Para limones cortados, envuelva bien con el lado plano hacia arriba.",
+        "fr": "Lavez au bicarbonate, séchez et ensachez au bac à légumes. Filmez le demi-citron entamé face plate vers le haut.",
+        "de": "Mit Natron waschen, trocknen und im Gemüsefach lagern. Angeschnittene Zitronen mit der flachen Seite nach oben einwickeln.",
+        "pt": "Lave com bicarbonato, seque e guarde em saco na gaveta de vegetais. Embulhe metade cortada com o lado plano para cima.",
+        "id": "Cuci dengan soda kue, keringkan, simpan di laci sayur. Bungkus lemon potongan dengan bagian datar menghadap atas."
+      },
+      "sources": [
+        "USDA",
+        "FSA"
+      ]
+    }
+  }
+}

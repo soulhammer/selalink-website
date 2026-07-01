@@ -1,0 +1,103 @@
+{
+  "id": "green-onion",
+  "iconImage": "/assets/images/apps/freshself/ingredients/green-onion.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "파",
+      "쪽파",
+      "실파",
+      "대파보관"
+    ],
+    "en": [
+      "scallion",
+      "spring onion",
+      "scallions",
+      "shallot"
+    ],
+    "ja": [
+      "ねぎ",
+      "ネギ",
+      "青ねぎ",
+      "白ねぎ"
+    ],
+    "zh": [
+      "小葱",
+      "大葱",
+      "香葱",
+      "青葱"
+    ]
+  },
+  "names": {
+    "ko": "대파",
+    "en": "Green Onion",
+    "ja": "ネギ",
+    "zh": "大葱",
+    "es": "Cebollín",
+    "fr": "Oignon vert",
+    "de": "Frühlingszwiebel",
+    "pt": "Cebolinha",
+    "id": "Daun bawang"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 5,
+      "tips": {
+        "ko": "뿌리를 남기고 신문지에 싸서 그늘진 서늘한 곳에 보관하세요.",
+        "en": "Wrap in newspaper with roots intact and keep in a cool, shady place.",
+        "ja": "根を残したまま新聞紙に包み、風通しの良い涼しい暗所で保管してください。",
+        "zh": "保留根部并用报纸包好，存放在阴凉通风处。",
+        "es": "Envuélvalo en papel de periódico con las raíces intactas y guárdelo en un lugar fresco y sombreado.",
+        "fr": "Enveloppez-le dans du papier journal avec ses racines et conservez-le dans un endroit frais et ombragé.",
+        "de": "In Zeitungspapier einwickeln, Wurzeln intakt lassen und an einem kühlen, schattigen Ort aufbewahren.",
+        "pt": "Embrulhe em jornal com as raízes intactas e guarde em local fresco e com sombra.",
+        "id": "Bungkus dengan koran dengan akar utuh dan simpan di tempat yang sejuk dan teduh."
+      },
+      "sources": [
+        "RDA",
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "물기를 완전히 제거한 후, 용기 높이에 맞게 썰어 뿌리가 아래로 가도록 세워서 밀폐 보관하세요.",
+        "en": "Dry completely, slice to container height, and store vertically with roots facing down in an airtight container.",
+        "ja": "水気を完全に拭き取り、容器の高さに合わせて切ってから、根を下にして立てて密閉保存してください。",
+        "zh": "彻底擦干水分，切成适合容器的高度，根部朝下竖立密封保存。",
+        "es": "Seque por completo, córtelo a la altura del recipiente y guárdelo verticalmente con las raíces hacia abajo.",
+        "fr": "Séchez complètement, coupez à la hauteur du récipient et stockez verticalement, racines vers le bas.",
+        "de": "Vollständig trocknen, auf Behälterhöhe schneiden und senkrecht mit den Wurzeln nach unten aufbewahren.",
+        "pt": "Seque completamente, corte na altura do recipiente e guarde verticalmente com as raízes para baixo.",
+        "id": "Keringkan sepenuhnya, potong sesuai tinggi wadah, dan simpan secara vertikal dengan akar menghadap ke bawah."
+      },
+      "sources": [
+        "RDA",
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "송송 썰어서 밀폐용기나 지퍼백에 소분하여 급속 냉동하세요. 요리할 때 해동 없이 즉시 사용 가능합니다.",
+        "en": "Chop, portion into airtight bags, and freeze. Use directly in cooking without thawing.",
+        "ja": "細かく刻んで密閉容器や保存袋に小分けにし、冷凍してください。凍ったまま調理に使えます。",
+        "zh": "切碎后分装在密封袋中冷冻。烹饪时无需解冻，直接使用即可。",
+        "es": "Píquelo, divídalo en bolsas herméticas y congélelo. Úselo directamente al cocinar sin descongelar.",
+        "fr": "Hachez-le, répartissez-le dans des sacs hermétiques et congelez-le. Utilisez-le directement en cuisine sans décongélation.",
+        "de": "Hacken, in luftdichten Beuteln portionieren und einfrieren. Direkt gefroren beim Kochen verwenden.",
+        "pt": "Pique, divida em sacos herméticos e congele. Use diretamente na cozinha sem descongelar.",
+        "id": "Cincang, bagi ke dalam kantong kedap udara, lalu bekukan. Gunakan langsung dalam masakan tanpa mencairkannya."
+      },
+      "sources": [
+        "RDA",
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

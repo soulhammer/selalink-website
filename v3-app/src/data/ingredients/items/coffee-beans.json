@@ -1,0 +1,38 @@
+{
+  "id": "coffee-beans",
+  "iconImage": "/assets/images/apps/freshself/ingredients/coffee-beans.png",
+  "category": "etc",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "커피 원두",
+    "en": "Coffee Beans",
+    "ja": "コーヒー豆",
+    "zh": "咖啡豆",
+    "es": "Granos de café",
+    "fr": "Grains de café",
+    "de": "Kaffeebohnen",
+    "pt": "Café em grãos",
+    "id": "Biji kopi"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "빛과 산소에 취약해 산패되기 쉽습니다. 아로마 밸브가 달린 어두운 밀폐봉투에 담아 그늘진 실온에 보관하는 것이 정석입니다.",
+        "en": "Vulnerable to light and oxygen. Store in a dark, airtight bag with an aroma valve at shady room temperature.",
+        "ja": "光と酸素に弱く酸化しやすいです。バルブ付きの遮光密閉袋に入れ、日陰の涼しい常温で保管してください。",
+        "zh": "对光线和氧气敏感极易氧化。务必存放在带排气阀的避光密封袋中，置于阴凉常温处。",
+        "es": "Vulnerable a la luz y el oxígeno. Guardar en bolsa oscura y hermética con válvula a temperatura ambiente.",
+        "fr": "Sensible à la lumière et l’oxygène. Stockez dans un sachet hermétique opaque avec valve à température ambiante.",
+        "de": "Licht- und sauerstoffempfindlich. In einem dunklen, luftdichten Ventilbeutel bei Raumtemperatur lagern.",
+        "pt": "Vulnerável à luz e oxigênio. Guarde em saco escuro hermético com válvula em temperatura ambiente.",
+        "id": "Biji kopi rentan terhadap cahaya dan oksigen. Simpan di wadah kedap udara gelap dengan katup aroma di suhu ruang."
+      },
+      "sources": [
+        "FDA",
+        "USDA"
+      ]
+    }
+  }
+}

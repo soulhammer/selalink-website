@@ -1,0 +1,55 @@
+{
+  "id": "bread",
+  "category": "grain",
+  "emoji": "🍞",
+  "isProcessed": true,
+  "names": {
+    "ko": "식빵",
+    "en": "Bread",
+    "ja": "食パン",
+    "zh": "吐司/面包",
+    "es": "Pan de molde",
+    "fr": "Pain de mie",
+    "de": "Brot",
+    "pt": "Pão de forma",
+    "id": "Roti tawar"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "고온다습한 날씨에는 쉽게 곰팡이가 핍니다. 실온에서는 밀봉하여 건조하고 서늘한 곳에 보관하고, 3일 이내에 드세요.",
+        "en": "Molds easily in humid weather. Keep in a dry, cool place and consume within 3 days.",
+        "ja": "高温多湿の環境ではカビが生えやすいです。密閉して直射日光の当たらない涼しい場所で保存し、3日以内にお召し上がりください。",
+        "zh": "高温潮湿环境下易发霉。密封存放在干燥阴凉处，并于3天内食用完毕。",
+        "es": "Se mohea fácilmente con humedad. Conservar sellado en un lugar seco y fresco; consumir en 3 días.",
+        "fr": "Moisit facilement par temps humide. Conservez fermé dans un endroit sec et consommez sous 3 jours.",
+        "de": "Schimmelt bei Feuchtigkeit schnell. Luftdicht an einem trockenen, kühlen Ort lagern und in 3 Tagen verzehren.",
+        "pt": "Mofa facilmente em climas úmidos. Mantenha fechado em local seco e fresco, e consuma em 3 dias.",
+        "id": "Mudah berjamur di cuaca lembap. Simpan tertutup di tempat yang kering dan sejuk; makan dalam 3 hari."
+      },
+      "sources": [
+        "USDA",
+        "FSA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "냉장하면 빵 속 전분이 빠르게 노화되어 푸석하고 건조해집니다. 먹을 만큼 개별 랩핑하여 냉동 보관하고, 해동 시 토스터에 굽거나 자연해동하세요.",
+        "en": "Refrigeration dehydrates and stales the bread. Wrap slices individually and freeze. Toast directly from frozen.",
+        "ja": "冷蔵するとパンのデンプンが老化しパサパサになります。1枚ずつラップに包んで冷凍し、食べる時は凍ったままトースターで焼いてください。",
+        "zh": "冷藏会导致面包中的淀粉老化，变得干硬无味。按每顿食量分装冷冻，吃时直接放入烤面包机或自然解冻。",
+        "es": "Refrigerarlo deshidrata y envejece el pan. Envuelva las rodajas individualmente y congélelas. Tueste directamente.",
+        "fr": "Le réfrigérateur assèche le pain. Filmez les tranches individuellement et congelez-les. Grillez-les directement.",
+        "de": "Lagerung im Kühlschrank macht das Brot trocken. Scheiben einzeln einwickeln und einfrieren. Direkt gefroren toasten.",
+        "pt": "A refrigeração resseca o pão e acelera o envelhecimento. Embrulhe as fatias individualmente e congele. Toste diretamente.",
+        "id": "Mendinginkannya membuat roti kering dan keras. Bungkus per lembar lalu bekukan. Panggang langsung saat beku."
+      },
+      "sources": [
+        "USDA",
+        "FSA"
+      ]
+    }
+  }
+}

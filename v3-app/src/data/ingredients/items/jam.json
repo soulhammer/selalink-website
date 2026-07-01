@@ -1,0 +1,64 @@
+{
+  "id": "jam",
+  "iconImage": "/assets/images/apps/freshself/ingredients/jam.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "잼",
+      "딸기잼",
+      "사과잼",
+      "스프레드",
+      "잼보관법"
+    ],
+    "en": [
+      "jam",
+      "fruit jam",
+      "strawberry jam",
+      "spread",
+      "fruit preserves"
+    ],
+    "ja": [
+      "ジャム",
+      "イチゴジャム",
+      "果物ジャム"
+    ],
+    "zh": [
+      "果酱",
+      "草莓酱",
+      "苹果酱"
+    ]
+  },
+  "names": {
+    "ko": "잼 (딸기잼 등)",
+    "en": "Jam",
+    "ja": "ジャム",
+    "zh": "果酱",
+    "es": "Mermelada",
+    "fr": "Confiture",
+    "de": "Marmelade",
+    "pt": "Geleia",
+    "id": "Selai"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "당도가 높아 미개봉 시 상온 보관이 되나 개봉 후에는 산소 접촉과 수분 유입으로 곰팡이가 쉽게 핍니다. 반드시 냉장 보관하고, 침과 이물질이 묻은 숟가락은 절대 사용하지 마세요.",
+        "en": "High sugar preserves it unopened, but oxygen and moisture after opening cause mold. Keep refrigerated and never use a spoon with saliva or crumbs.",
+        "ja": "糖度が高いため未開封では常温保存できますが、開封後は酸素と水分でカビが発生します。必ず冷蔵保管し、唾液や異物のついたスプーンは使わないでください。",
+        "zh": "含糖量高，未开封时可常温保存，但开封后会因接触氧气和水分而发霉。必须冷藏保存，绝对不要使用沾有唾液或食物残渣的勺子。",
+        "es": "Su alto azúcar la conserva sin abrir, pero el aire y humedad tras abrir crían moho. Refrigere y no use cucharas con saliva o restos de comida.",
+        "fr": "Le sucre conserve le pot fermé, mais l’oxygène et l’humidité l’abîment après ouverture. Gardez au frais ; n’y trempez jamais de cuillère sale.",
+        "de": "Ungeöffnet durch Zuckergehalt haltbar; geöffnet führen Sauerstoff und Feuchtigkeit zu Schimmel. Kühlen und nie Löffel mit Speichel oder Krümeln nutzen.",
+        "pt": "O alto teor de açúcar conserva o pote fechado, mas o contato com ar e umidade após aberto cria mofo. Refrigere e não use colheres sujas ou com saliva.",
+        "id": "Tinggi gula mengawetkan saat tertutup, tapi oksigen dan air memicu jamur setelah dibuka. Simpan di kulkas, jangan gunakan sendok kotor."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

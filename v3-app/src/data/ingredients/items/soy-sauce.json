@@ -1,0 +1,56 @@
+{
+  "id": "soy-sauce",
+  "iconImage": "/assets/images/apps/freshself/ingredients/soy-sauce.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "간장",
+    "en": "Soy Sauce",
+    "ja": "醤油",
+    "zh": "酱油",
+    "es": "Salsa de soja",
+    "fr": "Sauce soja",
+    "de": "Sojasauce",
+    "pt": "Molho de soja",
+    "id": "Kecap asin"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "개봉 전에는 서늘하고 어두운 상온에 두면 무기한에 가깝게 보관할 수 있습니다.",
+        "en": "Unopened soy sauce can be kept almost indefinitely in a cool, dark pantry.",
+        "ja": "未開封の状態なら, 直射日光の当たらない涼しい常温でほぼ半永久的に保存できます。",
+        "zh": "未开封前存放在凉爽避光的常温下, 几乎可以无限期保存。",
+        "es": "Sin abrir se conserva casi indefinidamente en una despensa fresca y oscura.",
+        "fr": "Non ouvert, il se conserve presque indéfiniment dans un placard frais et sombre.",
+        "de": "Ungeöffnet fast unbegrenzt an einem kühlen, dunklen Ort lagerfähig.",
+        "pt": "Fechado pode ser mantido quase indefinidamente em local fresco e escuro.",
+        "id": "Sebelum dibuka dapat disimpan hampir tanpa batas di tempat yang sejuk dan gelap."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 365,
+      "tips": {
+        "ko": "개봉 후 실온에 두면 산화되어 맛과 색이 변합니다. 뚜껑을 단단히 닫아 반드시 냉장 보관해야 고유의 풍미가 보존됩니다.",
+        "en": "Once opened, keep refrigerated with cap sealed tightly to prevent oxidation and preserve flavor.",
+        "ja": "開封後常温に置くと酸化して味や色が劣化します. ふたをしっかり閉めて必ず冷蔵庫で保管してください。",
+        "zh": "开封后若置于常温会氧化导致风味和颜色变差. 拧紧瓶盖务必冷藏保存以维持其原本风味。",
+        "es": "Una vez abierto, guarde en la nevera con la tapa bien cerrada para evitar oxidación.",
+        "fr": "Après ouverture, conservez au frais flacon bien fermé pour éviter l’oxydation.",
+        "de": "Nach dem Öffnen gut verschlossen im Kühlschrank lagern, um Oxidation zu vermeiden.",
+        "pt": "Após aberto, conserve na geladeira com a tampa bem fechada para evitar a oxidação e manter o aroma.",
+        "id": "Setelah dibuka, simpan di kulkas dengan tutup rapat untuk mencegah oksidasi dan menjaga rasa."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

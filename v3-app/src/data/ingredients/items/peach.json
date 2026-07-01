@@ -1,0 +1,55 @@
+{
+  "id": "peach",
+  "category": "fruit",
+  "emoji": "🍑",
+  "isProcessed": false,
+  "names": {
+    "ko": "복숭아",
+    "en": "Peach",
+    "ja": "桃",
+    "zh": "桃子",
+    "es": "Melocotón",
+    "fr": "Pêche",
+    "de": "Pfirsich",
+    "pt": "Pêssego",
+    "id": "Persik"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "냉장고에 오래 두면 단맛이 완전히 날아갑니다. 종이에 싸서 그늘지고 바람이 통하는 실온에 후숙한 후, 살짝 말랑해졌을 때 먹는 것이 가장 맛있습니다.",
+        "en": "Refrigeration destroys sweetness. Wrap in paper and ripen at room temperature in a breezy shade.",
+        "ja": "冷蔵庫에 길게 넣으면 甘み가 빠집니다. 紙에 싸서 風通し의 좋은 日陰의 常温에서 追熟시키고, 조금 부드러워지면 드십시오.",
+        "zh": "长期冷藏会流失甜味. 用纸包裹在通风避光的常温催熟, 变软后食用味道最佳。",
+        "es": "La nevera quita el dulzor. Envuelva en papel y madure a temperatura ambiente en la sombra.",
+        "fr": "Le frigo détruit le sucre. Enveloppez de papier et laissez mûrir à l’ombre à température ambiante.",
+        "de": "Kühlschrank entzieht die Süße. In Papier gewickelt bei Raumtemperatur im schattigen Wind reifen lassen.",
+        "pt": "A geladeira tira o sabor doce. Embrulhe em papel e amadureça à temperatura ambiente na sombra.",
+        "id": "Mendinginkan merusak rasa manisnya. Bungkus kertas dan matangkan di suhu ruang yang teduh."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "후숙된 복숭아는 씻지 않은 상태에서 개별 랩핑하거나 키친타월로 감싸 냉장고 야채칸에 보관하세요. 먹기 1시간 전에 꺼내두면 단맛이 되살아납니다.",
+        "en": "Wrap individually in wrap or paper towels and keep in the crisper drawer. Take out 1 hour before eating to restore sweetness.",
+        "ja": "追熟後の桃は洗わずにラップやペーパーで1つずつ包み野菜室へ. 食べる1時間前に常温に戻すと甘みが戻ります。",
+        "zh": "已熟的桃子在不洗的状态下,单独裹保鲜膜或厨房纸置于蔬菜室. 吃前1小时拿出来常温放置能恢复甜味。",
+        "es": "Envuelva en film o papel de cocina y guarde en el cajón de verduras. Sáquelo 1 hora antes de comer.",
+        "fr": "Filmez ou enveloppez de papier absorbant au bac à légumes. Sortez-le 1h avant consommation.",
+        "de": "Einzeln in Folie oder Küchenpapier wickeln und ins Gemüsefach legen. 1 Std. vor dem Verzehr herausnehmen.",
+        "pt": "Embrulhe em filme ou papel-toalha e guarde na gaveta de vegetais. Retire 1 hora antes de comer.",
+        "id": "Bungkus dengan plastik wrap atau tisu dapur dan taruh di laci sayur. Keluarkan 1 jam sebelum dimakan."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    }
+  }
+}

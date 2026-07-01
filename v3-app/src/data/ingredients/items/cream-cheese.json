@@ -1,0 +1,59 @@
+{
+  "id": "cream-cheese",
+  "iconImage": "/assets/images/apps/freshself/ingredients/cream-cheese.png",
+  "category": "dairy",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "크림치즈",
+      "치즈보관",
+      "연성치즈"
+    ],
+    "en": [
+      "cream cheese",
+      "soft cheese",
+      "cheese"
+    ],
+    "ja": [
+      "クリームチーズ",
+      "チーズ"
+    ],
+    "zh": [
+      "奶油干酪",
+      "奶油芝士",
+      "乳酪"
+    ]
+  },
+  "names": {
+    "ko": "크림치즈",
+    "en": "Cream Cheese",
+    "ja": "クリームチーズ",
+    "zh": "奶油芝士",
+    "es": "Queso crema",
+    "fr": "Fromage à la crème",
+    "de": "Frischkäse",
+    "pt": "Cream cheese / Requeijão",
+    "id": "Keju krim"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "개봉 후에는 은박지나 뚜껑을 꽉 닫아 밀봉하고 냉장실 깊숙이 보관하세요. 수분이 많아 곰팡이가 피기 쉬우며, 곰팡이가 피면 전체를 모두 폐기해야 합니다.",
+        "en": "Once opened, seal tightly and store in the back of the fridge. High moisture makes it mold easily; if mold appears, discard the entire container.",
+        "ja": "開封後はアルミホイルやフタをしっかり閉めて密閉し、冷蔵庫の奥で保管します。水分が多くカビやすいため、カビが発生した場合はすべて廃棄してください。",
+        "zh": "开封后请紧闭铝箔纸或盖子密封，存放在冷藏室深处。高水分极易发霉，一旦发霉必须将整盒全部丢弃。",
+        "es": "Tras abrir, selle bien y guarde al fondo de la nevera. Su humedad favorece el moho; si aparece, deseche todo el envase.",
+        "fr": "Après ouverture, fermez bien et stockez au fond du réfrigérateur. L’humidité favorise le moisissement ; jetez le pot complet si du moisi apparaît.",
+        "de": "Nach dem Öffnen luftdicht verschließen und hinten im Kühlschrank lagern. Hoher Feuchtigkeitsgehalt fördert Schimmel; bei Schimmel komplett entsorgen.",
+        "pt": "Após aberto, feche bem e guarde ao fundo da geladeira. A alta umidade facilita o mofo; se aparecer, descarte o pote inteiro.",
+        "id": "Setelah dibuka, segel rapat dan simpan di bagian dalam kulkas. Tinggi air mudah berjamur; buang seluruh isi jika berjamur."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

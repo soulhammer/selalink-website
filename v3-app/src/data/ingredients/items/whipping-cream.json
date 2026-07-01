@@ -1,0 +1,38 @@
+{
+  "id": "whipping-cream",
+  "iconImage": "/assets/images/apps/freshself/ingredients/whipping-cream.png",
+  "category": "dairy",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "생크림",
+    "en": "Whipping Cream",
+    "ja": "生クリーム",
+    "zh": "淡奶油/鲜奶油",
+    "es": "Nata para montar",
+    "fr": "Crème fouettée",
+    "de": "Schlagsahne",
+    "pt": "Creme de leite",
+    "id": "Krim kocok"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 5,
+      "tips": {
+        "ko": "개봉 후 아주 빠르게 변질됩니다. 멸균팩 제품이라도 개봉했다면 입구를 단단히 밀봉하고 냉장실 안쪽에 두어 5일 내 드세요.",
+        "en": "Spoils very quickly once opened. Seal the nozzle/flap tightly and store deep in the fridge. Consume within 5 days.",
+        "ja": "開封後は非常に傷みやすいです。開封口をきっちり密閉し、冷蔵庫の奥で保管して5日以内に消費してください。",
+        "zh": "开封后变质极快。即使是无菌包装开封后也请紧闭开口，存放在冷藏室最里侧，并在5天内用完。",
+        "es": "Se daña muy rápido tras abrir. Selle la boquilla firmemente y consuma en 5 días.",
+        "fr": "Tourne très vite après ouverture. Fermez hermétiquement la brique et consommez sous 5 jours.",
+        "de": "Nach dem Öffnen extrem leicht verderblich. Gut verschließen, tief im Kühlschrank lagern und in 5 Tagen verbrauchen.",
+        "pt": "Estraga muito rápido após abrir. Sele bem a abertura e consuma em até 5 dias.",
+        "id": "Sangat cepat basi setelah dibuka. Segel rapat mulut kemasan dan habiskan dalam 5 hari."
+      },
+      "sources": [
+        "USDA",
+        "FSA"
+      ]
+    }
+  }
+}

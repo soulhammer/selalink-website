@@ -1,0 +1,55 @@
+{
+  "id": "beef",
+  "category": "meat",
+  "emoji": "🥩",
+  "isProcessed": false,
+  "names": {
+    "ko": "소고기",
+    "en": "Beef",
+    "ja": "牛肉",
+    "zh": "牛肉",
+    "es": "Carne de res",
+    "fr": "Bœuf",
+    "de": "Rindfleisch",
+    "pt": "Carne bovina",
+    "id": "Daging sapi"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "공기와의 접촉을 피하기 위해 랩으로 꽁꽁 감싸거나 밀폐 용기에 진공 포장하세요. 겉면에 올리브유를 얇게 바르면 코팅 효과가 있어 신선도가 오래 갑니다.",
+        "en": "Wrap tightly in plastic wrap to avoid air, or vacuum seal. Coating the surface with olive oil helps preserve freshness.",
+        "ja": "空気との接触を防ぐためラップできっちり包むか、真空パックしてください。表面にオリーブオイルを薄く塗ると酸化を防げます。",
+        "zh": "用保鲜膜紧紧包裹避免接触空气，或进行真空密封。表面涂一层薄薄的橄榄油有涂层保护效果，保鲜更久。",
+        "es": "Envuelva bien en film plástico o selle al vacío. Untar aceite de oliva en la superficie ayuda a conservar la frescura.",
+        "fr": "Enveloppez hermétiquement de film ou scellez sous vide. Enduire la surface d’huile d’olive aide à la conserver.",
+        "de": "Fest in Frischhaltefolie einwickeln oder vakuumieren. Eine dünne Schicht Olivenöl auf der Oberfläche verlängert die Frische.",
+        "pt": "Embrulhe bem em filme plástico para evitar o ar ou sele a vácuo. Passar azeite na carne ajuda a vedar a umidade.",
+        "id": "Bungkus rapat dengan plastik wrap atau segel vakum. Mengolesi permukaannya dengan minyak zaitun menjaga kesegaran."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "용도에 맞게 1회용으로 소분하여 랩핑한 뒤 지퍼백에 넣어 급속 냉동하세요. 냉동 상태에서도 최대 6개월 보관 가능합니다.",
+        "en": "Portion into single-use sizes, wrap, and seal in freezer bags. Keeps for up to 6 months.",
+        "ja": "使いやすいよう1回分ずつ小分けにしてラップに包み、保存袋に入れて急速冷凍してください。最大6ヶ月持ちます。",
+        "zh": "按单次用量分装打包，包裹后放入密封袋中急速冷冻。在冷冻状态下最多可保存6个月。",
+        "es": "Divida en raciones de un solo uso, envuélvalas y séllelas en bolsas de congelador. Dura hasta 6 meses.",
+        "fr": "Répartissez en portions individuelles, enveloppez-les et placez-les au congélateur. Se conserve jusqu’à 6 mois.",
+        "de": "In Einzelportionen teilen, einwickeln und in Gefrierbeuteln einfrieren. Hält bis zu 6 Monate.",
+        "pt": "Divida em porções, embrulhe bem e guarde em sacos de congelador. Pode ser mantido por até 6 meses.",
+        "id": "Bagi dalam porsi sekali masak, bungkus, dan segel dalam kantong pembeku. Awet hingga 6 bulan."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

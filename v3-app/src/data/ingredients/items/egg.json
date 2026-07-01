@@ -1,0 +1,63 @@
+{
+  "id": "egg",
+  "category": "dairy",
+  "emoji": "🥚",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "달걀",
+      "유정란",
+      "무항생제란",
+      "계란보관"
+    ],
+    "en": [
+      "eggs",
+      "yolk",
+      "egg white",
+      "poultry"
+    ],
+    "ja": [
+      "たまご",
+      "卵",
+      "玉子",
+      "鶏卵"
+    ],
+    "zh": [
+      "鸡蛋",
+      "蛋黄",
+      "蛋清"
+    ]
+  },
+  "names": {
+    "ko": "계란",
+    "en": "Egg",
+    "ja": "卵",
+    "zh": "鸡蛋",
+    "es": "Huevo",
+    "fr": "Œuf",
+    "de": "Ei",
+    "pt": "Ovo",
+    "id": "Telur"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 45,
+      "tips": {
+        "ko": "물로 씻으면 표면 보호막이 파괴되어 기공으로 세균이 침투합니다. 절대 씻지 말고, 뾰족한 쪽이 아래를 향하게 하되, 온도 변화가 심한 냉장고 문 쪽을 피해 내부 안쪽 선반에 보관해 살모넬라균 번식을 방지하세요.",
+        "en": "Washing eggs removes the protective barrier, letting bacteria in. Do not wash; store pointed end down inside the main body of the fridge rather than the door to prevent Salmonella growth from temperature shifts.",
+        "ja": "水洗いすると卵の保護膜が消え気孔から雑菌が侵入します。洗わずに、尖った方を下にして保存してください。また、温度変化の激しいドアポケットを避け、冷蔵庫内の棚の奥に保管してサルモネラ菌の繁殖を防ぎましょう。",
+        "zh": "水洗会冲掉鸡蛋表面的保护膜，导致细菌从气孔渗入。切勿清洗，大头朝上、小头朝下竖放保存。避免存放在温度变化的冰箱门侧，放在冰箱内侧冷藏搁板上以防沙门氏菌繁殖。",
+        "es": "Lavar los huevos elimina su capa protectora e introduce bacterias. No los lave; guárdelos con la punta hacia abajo y en un estante interior en lugar de la puerta para evitar el crecimiento de Salmonella.",
+        "fr": "Laver les œufs détruit leur pellicule protectrice. Ne les lavez pas ; stockez-les la pointe vers le bas sur une étagère intérieure plutôt que dans la porte pour éviter la prolifération de Salmonella.",
+        "de": "Eier nicht waschen, da die Schutzschicht entfernt wird. Mit dem spitzen Ende nach unten im Hauptteil des Kühlschranks statt in der Tür lagern, um Salmonellenwachstum zu verhindern.",
+        "pt": "Lavar os ovos remove a película protetora, facilitando a entrada de bactérias. Não lave; guarde com a ponta para baixo nas prateleiras internas, longe da porta, para evitar a proliferação de Salmonella.",
+        "id": "Mencuci telur merusak lapisan pelindung, memudahkan bakteri masuk. Jangan dicuci; simpan ujung runcing di bawah di dalam rak utama kulkas, hindari bagian pintu untuk mencegah pertumbuhan Salmonella."
+      },
+      "sources": [
+        "MFDS",
+        "USDA",
+        "FDA"
+      ]
+    }
+  }
+}

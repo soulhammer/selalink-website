@@ -1,0 +1,38 @@
+{
+  "id": "rice-cake",
+  "iconImage": "/assets/images/apps/freshself/ingredients/rice-cake.png",
+  "category": "grain",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "떡",
+    "en": "Rice Cake",
+    "ja": "餅",
+    "zh": "年糕/米糕",
+    "es": "Pastel de arroz",
+    "fr": "Gâteau de riz",
+    "de": "Reiskuchen",
+    "pt": "Bolo de arroz",
+    "id": "Kue beras"
+  },
+  "storage": {
+    "freezer": {
+      "durationDays": 120,
+      "tips": {
+        "ko": "말랑한 상태에서 즉시 지퍼백에 소분하여 급속 냉동하세요. 굳은 뒤 얼리면 해동 시 푸석해지고 찢어집니다.",
+        "en": "Freeze immediately while soft in portioned freezer bags. Freezing after it stales ruins texture.",
+        "ja": "柔らかい状態のまま、すぐに保存袋に小分けにして急速冷凍してください。固くなってから冷凍すると解凍後に崩れます。",
+        "zh": "在柔软状态下立即分装入密封袋急速冷冻。如果变硬后再冷冻，解冻时会干硬开裂。",
+        "es": "Congele inmediatamente mientras esté blando en bolsas de congelador. Congelar duro estropea la textura.",
+        "fr": "Congelez immédiatement pendant qu’il est moelleux. Congeler un produit dur gâte la texture.",
+        "de": "Sofort einfrieren, solange er weich ist. Gefrieren nach dem Aushärten zerstört die Konsistenz.",
+        "pt": "Congele imediatamente enquanto estiver macio em sacos de congelador. Congelar depois de duro arruína a textura.",
+        "id": "Bekukan segera selagi empuk dalam kantong pembeku. Membekukan setelah keras merusak teksturnya."
+      },
+      "sources": [
+        "MFDS",
+        "RDA"
+      ]
+    }
+  }
+}

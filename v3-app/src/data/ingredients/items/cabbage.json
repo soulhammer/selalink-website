@@ -1,0 +1,39 @@
+{
+  "id": "cabbage",
+  "iconImage": "/assets/images/apps/freshself/ingredients/cabbage.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "양배추",
+    "en": "Cabbage",
+    "ja": "キャベツ",
+    "zh": "卷心菜",
+    "es": "Repollo",
+    "fr": "Chou",
+    "de": "Kohl",
+    "pt": "Repolho",
+    "id": "Kubis"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 21,
+      "tips": {
+        "ko": "칼로 자르면 절단면부터 갈변하고 상합니다. 겉잎을 떼어내 심지를 칼로 파내고, 젖은 키친타월을 채워 넣어 랩으로 감싸 보관하세요.",
+        "en": "Cutting with a knife causes browning. Remove the core, plug it with a wet paper towel, and wrap in plastic wrap.",
+        "ja": "カットすると断面から酸化します。芯をくり抜き、濡らしたペーパーを詰めてラップで丸ごと包んでください。",
+        "zh": "切开后切面会变褐腐烂。剥去外叶，挖掉菜芯，填入湿纸巾并用保鲜膜包裹保存。",
+        "es": "Cortarlo con cuchillo acelera su oxidación. Retire el corazón, rellene con papel húmedo y envuelva en film.",
+        "fr": "Le couper au couteau le fait noircir. Retirez le cœur, bouchez avec du papier humide et filmez le chou.",
+        "de": "Schneiden führt zu Verfärbungen. Den Strunk herausheben, mit feuchtem Küchenpapier füllen und einwickeln.",
+        "pt": "Cortar com faca causa escurecimento. Retire o miolo, preencha com papel-toalha úmido e embrulhe em filme.",
+        "id": "Memotong dengan pisau memicu kecokelatan. Buang bagian tengahnya, sumbat dengan tisu basah, lalu bungkus."
+      },
+      "sources": [
+        "RDA",
+        "EFSA",
+        "FSA"
+      ]
+    }
+  }
+}

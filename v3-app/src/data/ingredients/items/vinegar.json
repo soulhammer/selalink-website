@@ -1,0 +1,62 @@
+{
+  "id": "vinegar",
+  "iconImage": "/assets/images/apps/freshself/ingredients/vinegar.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "식초",
+      "사과식초",
+      "양조식초",
+      "조미료",
+      "식초보관"
+    ],
+    "en": [
+      "vinegar",
+      "apple cider vinegar",
+      "white vinegar"
+    ],
+    "ja": [
+      "酢",
+      "お酢",
+      "米酢"
+    ],
+    "zh": [
+      "醋",
+      "米醋",
+      "白醋"
+    ]
+  },
+  "names": {
+    "ko": "식초",
+    "en": "Vinegar",
+    "ja": "酢",
+    "zh": "醋",
+    "es": "Vinagre",
+    "fr": "Vinaigre",
+    "de": "Essig",
+    "pt": "Vinagre",
+    "id": "Cuka"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 9999,
+      "tips": {
+        "ko": "식초는 산도가 매우 높아 미생물이 자라지 못하는 자기보존 식품입니다. 뚜껑을 꼭 닫아 그늘지고 서늘한 상온에 보관하면 거의 영구히 보존됩니다. 흰 침전물은 자연스러운 현상입니다.",
+        "en": "Vinegar is self-preserving due to high acidity. Tighten lid and store in a cool, dark room. It will last almost indefinitely. Cloudiness/sediment is natural and safe.",
+        "ja": "식초는 자체 보존력이 높아 실온 보관 시 거의 영구적으로 품질이 유지됩니다. 뚜껑을 꽉 닫아 어두운 상온에 두세요. 흰 침전물이 생겨도 자연적인 현상입니다.",
+        "zh": "醋的酸度极高，属于自保鲜食品。盖紧盖子存放在阴凉避光的常温下可近乎永久保存。出现白色沉淀物是自然现象，不影响食用。",
+        "es": "El vinagre se autoconserva por su alta acidez. Tape bien y guarde en lugar fresco y oscuro. Dura casi indefinidamente. El sedimento es natural y seguro.",
+        "fr": "Le vinagre s’autoconserve grâce à sa forte acidité. Fermez bien et stockez au frais et au sec. Durée de vie quasi illimitée. Le dépôt blanc est naturel.",
+        "de": "Essig ist durch den hohen Säuregehalt selbstkonservierend. Deckel fest verschließen und kühl und dunkel lagern. Nahezu unbegrenzt haltbar. Trübungen sind natürlich.",
+        "pt": "O vinagre se autoconserva pela alta acidez. Feche bem e guarde em local fresco e escuro. Validade quase indeterminada. Sedimento branco é natural.",
+        "id": "Cuka mengawetkan dirinya sendiri karena sangat asam. Tutup rapat dan simpan di suhu ruang gelap. Awet selamanya. Endapan putih aman dikonsumsi."
+      },
+      "sources": [
+        "USDA",
+        "FDA"
+      ]
+    }
+  }
+}

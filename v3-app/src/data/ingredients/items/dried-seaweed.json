@@ -1,0 +1,79 @@
+{
+  "id": "dried-seaweed",
+  "iconImage": "/assets/images/apps/freshself/ingredients/dried-seaweed.png",
+  "category": "seafood",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "미역",
+      "건미역",
+      "미역보관",
+      "불린미역"
+    ],
+    "en": [
+      "dried seaweed",
+      "seaweed",
+      "wakame"
+    ],
+    "ja": [
+      "乾燥わかめ",
+      "わかめ",
+      "ワカメ"
+    ],
+    "zh": [
+      "干海带",
+      "裙带菜",
+      "海带"
+    ]
+  },
+  "names": {
+    "ko": "미역 / 건미역",
+    "en": "Dried Seaweed",
+    "ja": "乾燥わかめ",
+    "zh": "干海带",
+    "es": "Alga seca",
+    "fr": "Algue séchée",
+    "de": "Trockene Algen",
+    "pt": "Alga marinha seca",
+    "id": "Rumput laut kering"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 365,
+      "tips": {
+        "ko": "건미역은 개봉 후 지퍼백에 담아 공기를 빼고 밀봉해 건조하고 그늘진 실온에 두세요. 변색이나 눅눅함을 방지하기 위해 실리카겔을 동봉하면 좋습니다.",
+        "en": "For dry seaweed, seal in a bag, remove air, and store in a cool, dark room. Adding silica gel helps prevent dampness and discoloration.",
+        "ja": "건미역은 개봉 후 지퍼백에 담아 공기를 완전히 빼고 어둡고 서늘한 실온에 두세요. 눅눅함이나 변색 방지를 위해 실리카겔을 넣으면 좋습니다.",
+        "zh": "干海带开封后请放入密封袋中压出空气，存放在干燥阴凉의 常温下。放入干燥剂有助于防止受潮 and 变色。",
+        "es": "Para el alga seca, selle en una bolsa sin aire y guarde en un lugar seco y oscuro. Añadir gel de sílice evita la humedad.",
+        "fr": "Pour l’algue sèche, fermez sans air dans un sachet au sec et à l’abri de la lumière. Ajoutez du gel de silice contre l’humidité.",
+        "de": "Trockene Algen nach dem Öffnen luftdicht verschließen, kühl und dunkel lagern. Silica-Gel schützt vor Feuchtigkeit.",
+        "pt": "Para alga seca, guarde no saco sem ar em local seco e escuro. Colocar sílica-gel ajuda a evitar umidade e descoloração.",
+        "id": "Segel dalam kantong plastik tanpa udara, simpan di tempat kering dan teduh. Beri silika gel untuk mencegah lembap."
+      },
+      "sources": [
+        "NIFS",
+        "KCA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "이미 불린 미역은 체에 받쳐 물기를 확실히 제거한 뒤 키친타월로 물기를 완전히 닦고 밀폐용기에 넣어 1~3일 이내에 조리하세요.",
+        "en": "For soaked seaweed, drain and dry completely with paper towels. Store in airtight containers and use within 1–3 days.",
+        "ja": "이미 물에 불린 미역은 물기를 확실히 짜낸 후 밀폐용기나 지퍼백에 담아 1~3일 안에 조리해 드세요.",
+        "zh": "已泡发的海带请用筛网沥干，再用厨房纸彻底擦干水分。装入密封容器中并在1-3天内烹饪完毕。",
+        "es": "Para el alga ya hidratada, escurra y seque bien con papel. Guarde en recipientes herméticos y cocine en 1-3 días.",
+        "fr": "Pour l’algue réhydratée, égouttez et séchez bien au papier absorbant. Conservez en boîte étanche et cuisez sous 1 à 3 jours.",
+        "de": "Bereits eingeweichte Algen abtropfen lassen und trocken tupfen. Luftdicht verpacken und in 1-3 Tagen verkochen.",
+        "pt": "Para alga ya hidratada, escorra e seque bem com papel. Guarde no pote hermético e consuma em até 3 dias.",
+        "id": "Untuk rumput laut yang sudah direndam, tiriskan lalu keringkan dengan tisu. Simpan di wadah kedap dan masak dalam 1-3 hari."
+      },
+      "sources": [
+        "NIFS",
+        "KCA"
+      ]
+    }
+  }
+}

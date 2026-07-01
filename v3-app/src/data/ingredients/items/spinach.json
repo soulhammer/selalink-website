@@ -1,0 +1,39 @@
+{
+  "id": "spinach",
+  "iconImage": "/assets/images/apps/freshself/ingredients/spinach.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "시금치",
+    "en": "Spinach",
+    "ja": "ほうれん草",
+    "zh": "菠菜",
+    "es": "Espinaca",
+    "fr": "Épinards",
+    "de": "Spinat",
+    "pt": "Espinafre",
+    "id": "Bayam"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 4,
+      "tips": {
+        "ko": "뿌리가 아래로 가도록 세워서 보관하면 수명이 늘어납니다. 신문지나 키친타월로 가볍게 싸서 비닐팩에 넣어 세워두세요.",
+        "en": "Store standing upright to extend shelf life. Wrap gently in paper towel and put vertically in a plastic bag.",
+        "ja": "根を下にして立てて保存すると長持ちします。新聞紙やペーパーで軽く包み、袋に入れて立ててください。",
+        "zh": "立着存放可以延长保鲜期。用报纸或厨房纸轻轻包裹，放入塑料袋中竖立保存。",
+        "es": "Guárdelas de pie para prolongar su vida útil. Envuélvalas en papel de cocina y póngalas verticales.",
+        "fr": "Conservez-les debout pour prolonger leur durée de vie. Enveloppez-les de papier et placez-les verticalement.",
+        "de": "Aufrecht lagern, um die Frische zu verlängern. Locker in Küchenpapier wickeln und senkrecht in eine Tüte stellen.",
+        "pt": "Guarde em pé para prolongar a validade. Embrulhe em papel-toalha e coloque verticalmente em um saco.",
+        "id": "Simpan berdiri tegak agar awet lebih lama. Bungkus dengan tisu dapur lalu taruh tegak di kantong plastik."
+      },
+      "sources": [
+        "RDA",
+        "EFSA",
+        "FSA"
+      ]
+    }
+  }
+}

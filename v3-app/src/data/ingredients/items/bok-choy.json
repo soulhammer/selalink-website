@@ -1,0 +1,60 @@
+{
+  "id": "bok-choy",
+  "iconImage": "/assets/images/apps/freshself/ingredients/bok-choy.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "청경채",
+      "샤브샤브",
+      "청경채보관",
+      "마라탕야채"
+    ],
+    "en": [
+      "bok choy",
+      "pak choi",
+      "chinese cabbage"
+    ],
+    "ja": [
+      "チンゲンサイ",
+      "青梗菜"
+    ],
+    "zh": [
+      "青梗菜",
+      "上海青",
+      "油菜"
+    ]
+  },
+  "names": {
+    "ko": "청경채",
+    "en": "Bok Choy",
+    "ja": "チンゲンサイ",
+    "zh": "青梗菜",
+    "es": "Col china pak choi",
+    "fr": "Pak choï",
+    "de": "Pak Choi",
+    "pt": "Acelga-chinesa",
+    "id": "Sawi sendok"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "씻지 말고 이물질만 털어 신문지에 싸서 지퍼백에 담아 통기 구멍을 내세요. 뿌리 밑동이 아래로 향하게 세워 보관해야 오래 갑니다.",
+        "en": "Do not wash. Shake off dirt, wrap in newspaper, place in a bag, and poke air holes. Store standing upright with roots down.",
+        "ja": "씻지 않고 흙을 턴 뒤 신문지에 싸서 비닐팩에 구멍을 뚫어 보관하세요. 뿌리가 아래를 향하게 수직으로 세워 보관해야 합니다.",
+        "zh": "请勿清洗。仅抖落杂质，用报纸包裹放入袋中并戳出通风孔。将根部朝下竖立存放能保持更久。",
+        "es": "No lave. Sacuda la tierra, envuelva en papel, ponga en bolsa con agujeros. Guarde de pie con raíces hacia abajo.",
+        "fr": "Ne lavez pas. Secouez la terre, enveloppez de journal, mettez en sachet percé. Stockez debout, racines vers le bas.",
+        "de": "Nicht waschen. Erde abklopfen, in Zeitung wickeln, in gelöcherte Beutel legen. Aufrecht mit dem Strunk nach unten lagern.",
+        "pt": "Não lave. Sacuda a sujeira, embrulhe em jornal e coloque no saco com furos. Guarde em pé com as raízes para baixo.",
+        "id": "Jangan cuci. Bersihkan tanah, bungkus koran, masukkan kantong berlubang. Simpan tegak dengan akar di bawah."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

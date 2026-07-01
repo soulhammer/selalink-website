@@ -1,0 +1,73 @@
+{
+  "id": "ginger",
+  "category": "vegetable",
+  "emoji": "🫚",
+  "isProcessed": false,
+  "names": {
+    "ko": "생강",
+    "en": "Ginger",
+    "ja": "生姜",
+    "zh": "生姜",
+    "es": "Jengibre",
+    "fr": "Gingembre",
+    "de": "Ingwer",
+    "pt": "Gengibre",
+    "id": "Jahe"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "흙이 묻은 채로 신문지에 싸서 그늘지고 통풍이 잘되는 서늘한 곳에 보관하세요.",
+        "en": "Wrap in newspaper with soil intact and keep in a cool, shady, well-ventilated place.",
+        "ja": "土が付いたまま新聞紙に包み, 風通しの良い涼しい日陰で保管してください。",
+        "zh": "带土用报纸包好, 存放在阴凉通风处。",
+        "es": "Envuélvalo en papel de periódico con la tierra y guárdelo en un lugar fresco, sombreado y bien ventilado.",
+        "fr": "Enveloppez-le dans du journal avec sa terre et conservez-le dans un endroit frais, ombragé et aéré.",
+        "de": "In Zeitungspapier mit Erde einwickeln und an einem kühlen, schattigen und gut belüfteten Ort aufbewahren.",
+        "pt": "Embrulhe em jornal com a terra intacta e guarde em local fresco, sombreado e ventilado.",
+        "id": "Bungkus dengan koran beserta tanahnya dan simpan di tempat yang sejuk, teduh, dan berventilasi."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    },
+    "fridge": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "껍질을 벗겨 물에 담가 밀폐 용기에 보관하되, 물은 1~2일마다 정기적으로 갈아주어야 신선함이 오래 유지됩니다.",
+        "en": "Peel, submerge in water in an airtight container, and change water every 1–2 days.",
+        "ja": "皮をむいて水に浸し, 密閉容器に入れて保管します。水は1〜2日お기に入れ替えてください。",
+        "zh": "去皮浸泡在水中, 放入密封容器保存。每隔1-2天换一次水以保持新鲜。",
+        "es": "Pélelo, sumérjalo en agua en un recipiente hermético y cambie el agua cada 1-2 días.",
+        "fr": "Pelez-le, plongez-le dans l’eau dans une boîte étanche et changez l’eau tous les 1 à 2 jours.",
+        "de": "Schälen, in einem luftdichten Behälter in Wasser einlegen und das Wasser alle 1–2 Tage wechseln.",
+        "pt": "Descasque, mergulhe em água em pote hermético e troque a água a cada 1 ou 2 dias.",
+        "id": "Kupas, rendam dalam air dalam wadah kedap udara, dan ganti airnya setiap 1-2 hari sekali."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "편으로 썰거나 다진 후 지퍼백에 얇게 펴서 소분 냉동해 두면 요리할 때 즉시 해동 없이 꺼내 쓰기 좋습니다.",
+        "en": "Slice or mince, flatten in freezer bags, and freeze. Use directly while cooking.",
+        "ja": "薄切りにするかみじん切りにし, 保存袋에 薄く平らに伸ばして冷凍します。凍ったまま調理に使えます。",
+        "zh": "切片或切碎, 在密封袋中压平冷冻。烹饪时无需解冻, 直接使用即可。",
+        "es": "Córtelo en rodajas o píquelo, aplánelo en bolsas de congelador y congélelo. Úselo directamente sin descongelar.",
+        "fr": "Coupez-le en tranches ou hachez-le, étalez-le à plat en sachet et congelez. Utilisez-le directement.",
+        "de": "In Scheiben schneiden oder hacken, flach in Beuteln gefrieren. Direkt gefroren verwenden.",
+        "pt": "Fatie ou pique, aplane em sacos de congelador e congele. Use diretamente ao cozinhar.",
+        "id": "Iris atau cincang, pipihkan dalam kantong plastik, lalu bekukan. Gunakan langsung saat memasak."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

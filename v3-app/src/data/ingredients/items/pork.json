@@ -1,0 +1,56 @@
+{
+  "id": "pork",
+  "iconImage": "/assets/images/apps/freshself/ingredients/pork.png",
+  "category": "meat",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "돼지고기",
+    "en": "Pork",
+    "ja": "豚肉",
+    "zh": "猪肉",
+    "es": "Carne de cerdo",
+    "fr": "Porc",
+    "de": "Schweinefleisch",
+    "pt": "Carne suína",
+    "id": "Daging babi"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "소고기보다 수분이 많아 더 빨리 상합니다. 랩 밀봉 전 겉면의 핏물을 키친타월로 확실히 닦아내세요.",
+        "en": "Spoils faster than beef due to moisture. Pat dry with paper towels before wrapping tightly.",
+        "ja": "牛肉より水分が多く傷みやすいです。ラップで密閉する前に表面のドリップをしっかり拭き取ってください。",
+        "zh": "水分多于牛肉，更容易变质。用保鲜膜密封包裹前，务必用厨房纸吸净表面血水。",
+        "es": "Se daña más rápido que la res por la humedad. Seque los jugos con papel antes de envolver herméticamente.",
+        "fr": "Se gâte plus vite que le bœuf. Épongez le sang avec du papier absorbant avant de filmer serré.",
+        "de": "Verdirbt durch Feuchtigkeit schneller als Rindfleisch. Vor dem Einwickeln mit Papier abtupfen.",
+        "pt": "Estraga mais rápido que a bovina devido à umidade. Seque o sangue com papel-toalha antes de embalar.",
+        "id": "Lebih cepat busuk daripada sapi karena basah. Keringkan sisa darah dengan tisu sebelum dibungkus."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "냉동 보관 시 고기 표면에 식용유를 아주 얇게 발라 랩핑하면 성에 및 고기 건조를 방지해 고기 질을 유지해 줍니다.",
+        "en": "Brushing a thin layer of oil on the meat surface prevents freezer burn and keeps quality.",
+        "ja": "冷凍時にオリーブオイルを薄く塗ってラップすると、冷凍焼けや肉の乾燥を防ぎ品質を保てます。",
+        "zh": "冷冻保存时在肉表面涂一层薄薄的食用油再包裹，能有效防止结霜及肉质发干，保持口感。",
+        "es": "Pintar una capa fina de aceite evita las quemaduras por congelación y conserva la calidad.",
+        "fr": "Enduire d’une fine couche d’huile évite les brûlures de congélation et préserve la qualité.",
+        "de": "Eine dünne Ölschicht verhindert Gefrierbrand und bewahrt die Fleischqualität beim Gefrieren.",
+        "pt": "Passar uma fina camada de óleo na carne evita queimaduras pelo frio e conserva a qualidade.",
+        "id": "Mengolesi tipis minyak pada permukaan daging mencegah freezer burn dan menjaga kualitas."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

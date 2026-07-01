@@ -1,0 +1,55 @@
+{
+  "id": "grape",
+  "category": "fruit",
+  "emoji": "🍇",
+  "isProcessed": false,
+  "names": {
+    "ko": "포도",
+    "en": "Grape",
+    "ja": "ぶどう",
+    "zh": "葡萄",
+    "es": "Uva",
+    "fr": "Raisin",
+    "de": "Weintraube",
+    "pt": "Uva",
+    "id": "Anggur"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "물기가 있으면 쉽게 무르므로 씻지 말고 신문지나 한지에 싸서 팩에 담아 냉장 보관하세요. 먹기 직전에 베이킹소다나 식초로 씻어 드세요.",
+        "en": "Moisture causes decay. Store unwashed wrapped in paper in the fridge. Wash right before eating.",
+        "ja": "水気があると傷みやすいため, 洗わずに新聞紙などで包んで冷蔵保存します. 食べる直前に洗ってください。",
+        "zh": "有水分极易发霉. 洗净前用纸包裹置于冰箱冷藏. 吃前再洗干净。",
+        "es": "La humedad pudre las uvas. Guarde sin lavar envueltas en papel en la nevera. Lave justo antes de consumir.",
+        "fr": "L’humidité fait pourrir. Conservez non lavé dans du papier au frais. Lavez juste avant de manger.",
+        "de": "Feuchtigkeit begünstigt Fäulnis. Ungewaschen in Papier gewickelt im Kühlschrank lagern. Vor dem Verzehr waschen.",
+        "pt": "A umidade apodrece as uvas. Guarde sem lavar embrulhadas em papel na geladeira. Lave antes de comer.",
+        "id": "Air memicu pembusukan. Simpan tanpa dicuci dibungkus kertas di kulkas. Cuci sesaat sebelum dimakan."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "포도알을 송이에서 떼어내 깨끗이 씻은 후 물기를 완전히 제거하고, 지퍼백에 겹치지 않게 담아 얼려두면 샤베트처럼 맛있게 먹을 수 있습니다.",
+        "en": "Remove grapes from stems, wash, dry completely, and freeze in a single layer in bags.",
+        "ja": "粒を枝から外し, きれいに洗って水気を完全に乾かしてから保存袋に重ならないよう平らに並べて冷凍します。",
+        "zh": "将葡萄剪下, 洗净并彻底晾干, 装入袋中平铺冷冻. 口感像雪酪一样美味。",
+        "es": "Separe los granos, lávelos, séquelos bien y congélelos extendidos en bolsas herméticas.",
+        "fr": "Détachez les grains, lavez, séchez bien et congelez à plat en sachet pour obtenir des glaçons fruités.",
+        "de": "Beeren abzupfen, waschen, gut trocknen und nebeneinander in Beuteln gefrieren.",
+        "pt": "Retire as uvas dos cabos, lave, seque bem e congele em camada única em sacos vedados.",
+        "id": "Petik buahnya, cuci, keringkan sepenuhnya, lalu bekukan mendatar dalam kantong plastik."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "tteok",
+  "iconImage": "/assets/images/apps/freshself/ingredients/tteok.png",
+  "category": "grain",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "떡볶이떡",
+      "떡국떡",
+      "밀떡",
+      "쌀떡",
+      "떡보관",
+      "아플라톡신"
+    ],
+    "en": [
+      "rice cakes",
+      "tteok",
+      "tteokbokki rice cake"
+    ],
+    "ja": [
+      "トッポギ餅",
+      "トッポギ",
+      "お餅"
+    ],
+    "zh": [
+      "年糕",
+      "年糕条",
+      "年糕片"
+    ]
+  },
+  "names": {
+    "ko": "떡볶이 떡 / 떡국 떡",
+    "en": "Rice Cakes / Tteok",
+    "ja": "トッポギ餅 / 餅",
+    "zh": "年糕 / 年糕条",
+    "es": "Pastel de arroz",
+    "fr": "Galette de riz",
+    "de": "Reiskuchen / Tteok",
+    "pt": "Massa de arroz / Tteok",
+    "id": "Kue beras / Tteok"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "떡은 냉장 보관 시 전분 노화로 쉽게 굳고 곰팡이가 잘 핍니다. 곰팡이 독소는 가열해도 남아 식중독을 일으키므로 핀 것은 전량 폐기해야 합니다.",
+        "en": "Refrigeration causes starch aging (hardening) and mold. Mold toxins remain after cooking and cause food poisoning; discard fully if moldy.",
+        "ja": "떡은 냉장 보관하면 굳어지고 쉽게 곰팡이가 핍니다. 곰팡이가 핀 떡은 가열해도 독소(아플라톡신 등)가 그대로 남아 전량 폐기해야 합니다.",
+        "zh": "冷藏会因淀粉老化而发硬，极易发霉。霉菌毒素受热不分解，会引发食中毒。一旦发霉必须全部丢弃。",
+        "es": "Refrigerar endurece el almidón y atrae moho. Las toxinas resisten la cocción y causan intoxicación; deseche todo si hay moho.",
+        "fr": "Le frais fait durcir l’amidon et favorise les moisissures. Les toxines résistent à la cuisson ; jetez tout au moindre signe.",
+        "de": "Kühlen härtet die Stärke aus und begünstigt Schimmel. Schimmelpilzgifte überstehen das Garen; verschimmelte Ware komplett wegwerfen.",
+        "pt": "Refrigerar endurece o amido e favorece o mofo. Toxinas de mofo resistem ao cozimento e causam infecção; descarte tudo se mofar.",
+        "id": "Kulkas mengeraskan pati dan memicu jamur. Racun jamur tidak hilang saat dimasak; wajib buang semuanya jika berjamur."
+      },
+      "sources": [
+        "MFDS",
+        "RDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "남은 떡은 즉시 소분하여 지퍼백에 공기를 빼고 밀봉 냉동하고, 요리할 때는 차가운 물에 살짝 불렸다가 사용하면 식감이 쫄깃합니다.",
+        "en": "Portion immediately, remove air from bags, and freeze. Soak in cold water before cooking to restore a chewy texture.",
+        "ja": "남은 떡은 즉시 소분하여 지퍼백에 밀봉 냉동하세요. 조리 전 찬물에 가볍게 불려 사용하면 아주 쫄깃해집니다.",
+        "zh": "剩余的年糕请立即分装，压出密封袋空气冷冻。烹饪前放入冷水中浸泡片刻，口感会恢复软糯。",
+        "es": "Porcione de inmediato, retire el aire y congele. Remoje en agua fría antes de cocinar para recuperar textura elástica.",
+        "fr": "Portionnez de suite, videz l’air du sachet et congelez. Trempez dans l’eau froide avant cuisson pour redonner du moelleux.",
+        "de": "Reste sofort portionieren, Luft ausdrücken und einfrieren. Vor dem Kochen kurz in kaltem Wasser einweichen, damit sie zäh bleiben.",
+        "pt": "Divida em porções, retire o ar e congele. Mergulhe em água fria antes de cozinhar para recuperar a maciez.",
+        "id": "Bagi per porsi, buang udara dari kantong, lalu bekukan. Rendam air dingin sebelum dimasak agar kembali kenyal."
+      },
+      "sources": [
+        "MFDS",
+        "RDA"
+      ]
+    }
+  }
+}

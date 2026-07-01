@@ -1,0 +1,38 @@
+{
+  "id": "olive-oil",
+  "iconImage": "/assets/images/apps/freshself/ingredients/olive-oil.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "식용유/올리브유",
+    "en": "Cooking Oil / Olive Oil",
+    "ja": "食用油/オリーブオイル",
+    "zh": "食用油/橄榄油",
+    "es": "Aceite de cocina / Oliva",
+    "fr": "Huile de cuisson / Olive",
+    "de": "Speiseöl / Olivenöl",
+    "pt": "Óleo de cozinha / Azeite",
+    "id": "Minyak goreng / Zaitun"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 365,
+      "tips": {
+        "ko": "빛과 공기에 닿으면 쉽게 산패하므로 어두운 병에 담아 화구 주변을 피해 15~25℃ 서늘한 상온에 보관하세요.",
+        "en": "Vulnerable to light and heat. Store in dark bottles in a cool (15–25°C) pantry away from the stove.",
+        "ja": "光や熱에 약하고 酸化되기 쉬우므로, 차광병에 넣어 가스레인지 등 열원에서 피한 15~25℃ 서늘한 상온에 보관하십시오.",
+        "zh": "接触光线和空气极易酸败. 请用深色瓶装, 避开灶台等热源, 存放在15-25℃凉爽常温下。",
+        "es": "Sencible a luz y calor. Guarde en botellas oscuras a temperatura ambiente (15-25°C) lejos de la estufa.",
+        "fr": "Sensible à la lumière et chaleur. Conservez en bouteille opaque au sec (15-25°C) loin des plaques.",
+        "de": "Licht- und hitzeempfindlich. In dunklen Flaschen kühl (15-25°C) und fern vom Herd lagern.",
+        "pt": "Sensível à luz e calor. Guarde em garrafas escuras em local fresco (15-25°C) longe do fogão.",
+        "id": "Rentan terhadap cahaya dan panas. Simpan di botol gelap pada suhu ruang (15-25°C) jauh dari kompor."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

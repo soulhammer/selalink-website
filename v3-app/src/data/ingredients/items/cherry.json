@@ -1,0 +1,60 @@
+{
+  "id": "cherry",
+  "category": "fruit",
+  "emoji": "🍒",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "체리",
+      "버찌",
+      "수입체리",
+      "과일보관",
+      "체리보관"
+    ],
+    "en": [
+      "cherry",
+      "cherries",
+      "sweet cherries"
+    ],
+    "ja": [
+      "さくらんぼ",
+      "サクランボ",
+      "チェリー"
+    ],
+    "zh": [
+      "樱桃",
+      "车厘子"
+    ]
+  },
+  "names": {
+    "ko": "체리",
+    "en": "Cherry",
+    "ja": "さくらんぼ",
+    "zh": "樱桃",
+    "es": "Cereza",
+    "fr": "Cerise",
+    "de": "Kirsche",
+    "pt": "Cereja",
+    "id": "Ceri"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "껍질이 얇고 상처 입기 쉬우며 물기에 취약하므로 절대 먹기 직전까지 씻지 마세요. 꼭지를 단 채 키친타월을 깐 밀폐지퍼백에 낱개로 담아 보관하세요.",
+        "en": "Thin-skinned and vulnerable to moisture. Never wash until ready to eat. Keep stems attached, lay individually in paper-towel-lined bags, and refrigerate.",
+        "ja": "체리는 껍질이 얇고 습기에 극도로 취약합니다. 절대 씻지 않은 상태에서 꼭지가 달린 채로 키친타월을 깐 보관용기에 펼쳐 냉장 보관하세요.",
+        "zh": "果皮薄，易碰伤且怕湿。食用前切勿冲洗。保留果梗，单层平铺在垫有厨房纸的密封袋中冷藏。",
+        "es": "Piel fina y sensible a la humedad. Nunca lave hasta consumir. Conserve con tallo, extienda sobre papel de cocina en bolsas y refrigere.",
+        "fr": "Peau fine et sensible à l’humidité. Ne lavez qu’au moment de manger. Gardez la queue, étalez sur du papier absorbant dans un sachet au frais.",
+        "de": "Dünnhäutig und feuchtigkeitsempfindlich. Erst vor dem Verzehr waschen. Stiele nicht entfernen, auf Küchenpapier flach in Beuteln kühlen.",
+        "pt": "Casca fina e sensível a umidade. Lave apenas na hora de comer. Mantenha com cabo, espalhe sobre papel-toalha no saco e refrigere.",
+        "id": "Kulit tipis dan sensitif air. Jangan cuci sebelum dimakan. Biarkan tangkai utuh, alas tisu di kantong plastik, taruh kulkas."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

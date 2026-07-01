@@ -1,0 +1,78 @@
+{
+  "id": "duck",
+  "iconImage": "/assets/images/apps/freshself/ingredients/duck.png",
+  "category": "meat",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "오리고기",
+      "생오리",
+      "오리훈제",
+      "오리보관"
+    ],
+    "en": [
+      "duck meat",
+      "duck",
+      "ducks"
+    ],
+    "ja": [
+      "鴨肉",
+      "合鴨",
+      "かも"
+    ],
+    "zh": [
+      "鸭肉",
+      "鸭子"
+    ]
+  },
+  "names": {
+    "ko": "오리고기",
+    "en": "Duck Meat",
+    "ja": "鴨肉",
+    "zh": "鸭肉",
+    "es": "Carne de pato",
+    "fr": "Viande de canard",
+    "de": "Entenfleisch",
+    "pt": "Carne de pato",
+    "id": "Daging bebek"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 2,
+      "tips": {
+        "ko": "표면의 물기를 키친타월로 닦아 핏물을 빼고 1회분씩 밀폐봉지에 담아 공기를 빼서 보관하세요. 2일 이내에 드시는 것이 안전합니다.",
+        "en": "Dry surface moisture with paper towels. Portion in airtight bags, remove air, and consume within 2 days.",
+        "ja": "표면의 수분을 페이퍼로 닦고 1회분씩 밀폐 팩에 공기를 빼서 보관하세요. 2일 이내에 드시는 것이 안전합니다.",
+        "zh": "用厨房纸擦干表面水分以吸除血水，分装在密封袋中压出空气保存。在2天内食用完毕较为安全。",
+        "es": "Seque la humedad superficial con toallas de papel. Porcione en bolsas herméticas, retire el aire y consuma en 2 days.",
+        "fr": "Séchez l’humidité de surface. Portionnez dans des sacs hermétiques sans air et consommez sous 2 jours.",
+        "de": "Feuchtigkeit auf der Oberfläche mit Küchenpapier abtrocknen. Luftdicht portionsweise verpacken und in 2 Tagen garen.",
+        "pt": "Seque a umidade superficial com papel-toalha. Divida em sacos herméticos, retire o ar e consuma em até 2 dias.",
+        "id": "Keringkan kelembapan permukaan dengan tisu. Bagi per wadah kedap, buang udara, dan konsumsi dalam 2 hari."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "단면을 랩으로 빈틈없이 감싼 후 지퍼백에 넣어 이중 밀봉 냉동하면 산패와 냄새 배임을 방지하고 육즙 손실을 막아 줍니다.",
+        "en": "Wrap tightly with plastic wrap and double seal in zipper bags to prevent rancidity, odors, and juice loss.",
+        "ja": "단면을 랩으로 빈틈없이 래핑한 뒤 지퍼백에 밀봉 냉동하면 산패와 냉동실 잡내 배임을 방지할 수 있습니다.",
+        "zh": "用保鲜膜紧密包裹切面，放入密封袋中双层密封冷冻，这可以防止氧化、异味以及肉汁流失。",
+        "es": "Envuelva bien con film plástico y selle doble en bolsas para evitar la rancidez, olores y pérdida de jugos.",
+        "fr": "Enveloppez hermétiquement de film et doublez le sachet pour éviter le rancissement, les odeurs et la perte de jus.",
+        "de": "Fest in Frischhaltefolie wickeln und doppelt in Beutel einschließen, um Gefrierbrand, Gerüche und Saftverlust zu vermeiden.",
+        "pt": "Embrulhe bem em filme plástico e coloque no saco hermético (selagem dupla) para evitar oxidação, cheiros e perda de suco.",
+        "id": "Bungkus rapat plastik wrap lalu masukkan kantong segel ganda untuk cegah tengik, bau kulkas, and susut sari daging."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

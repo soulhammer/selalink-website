@@ -1,0 +1,79 @@
+{
+  "id": "canned-ham",
+  "iconImage": "/assets/images/apps/freshself/ingredients/canned-ham.png",
+  "category": "meat",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "스팸",
+      "통조림햄",
+      "캔햄",
+      "조미육통조림"
+    ],
+    "en": [
+      "spam",
+      "canned ham",
+      "luncheon meat"
+    ],
+    "ja": [
+      "スパム",
+      "缶詰ハム",
+      "ランチョンミート"
+    ],
+    "zh": [
+      "午餐肉",
+      "罐头火腿",
+      "世棒"
+    ]
+  },
+  "names": {
+    "ko": "스팸 / 통조림햄",
+    "en": "Canned Ham / Spam",
+    "ja": "スパム / 缶詰ハム",
+    "zh": "午餐肉 / 罐头火腿",
+    "es": "Jamón en conserva / Spam",
+    "fr": "Jambon en boîte / Spam",
+    "de": "Dosenfleisch / Spam",
+    "pt": "Presunto enlatado / Spam",
+    "id": "Daging ham kaleng / Spam"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 730,
+      "tips": {
+        "ko": "미개봉 상태에서는 서늘하고 건조한 실온(팬트리)에 보관 시 2년 이상 보존이 가능합니다. 캔 용기가 찌그러지거나 녹슬지 않았는지 확인하세요.",
+        "en": "Unopened, store in a cool, dry pantry for 2+ years. Ensure the can is not dented, bulged, or rusted.",
+        "ja": "未開封の状態では、涼しく乾燥した室温（パントリ）で2年以上保存できます。缶が凹んだり錆びたりしていないか確認してください。",
+        "zh": "未开封时，在阴凉干燥的常温下可保存2年以上。请检查罐体是否有凹陷、鼓包或生锈。",
+        "es": "Cerrado, dura 2+ años en lugar fresco y seco. Verifique que la lata no esté abollada, oxidada o hinchada.",
+        "fr": "Non ouvert, se conserve 2 ans et plus au sec. Vérifiez que la boîte n’est pas cabossée, rouillée ou gonflée.",
+        "de": "Ungeöffnet kühl und trocken gelagert 2+ Jahre haltbar. Sicherstellen, dass die Dose keine Dellen, Beulen oder Rost hat.",
+        "pt": "Fechado, dura mais de 2 anos em local fresco e seco. Verifique se a lata não está amassada, enferrujada ou estufada.",
+        "id": "Sebelum dibuka, simpan di tempat kering suhu ruang sejuk awet 2+ tahun. Pastikan kaleng tidak penyok atau berkarat."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    },
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "개봉 후 남은 햄을 캔 그대로 냉장 보관 시 산소 접촉으로 산패 및 금속 용출이 일어납니다. 반드시 락앤락 등 별도 밀폐용기에 덜어 냉장하고 4일 이내 드세요.",
+        "en": "Do not refrigerate in the open metal can; oxygen contact causes spoilage and metal leaching. Transfer to a sealed plastic/glass container and consume in 4 days.",
+        "ja": "開封後、缶に入れたまま冷蔵すると酸素との接触で酸化や金属の溶出が起こります。必ず密閉容器に移し替えて冷蔵し4日以内に使い切ってください。",
+        "zh": "开封后，若直接将罐头原样冷藏，会因接触氧气导致变质及重金属溶出。请务必移至独立的密封容器中冷藏并在4天内食用。",
+        "es": "No refrigere en la lata abierta; el oxígeno causa deterioro y filtración de metal. Páselo a un envase hermético y consuma en 4 días.",
+        "fr": "Ne conservez pas dans la boîte ouverte ; le contact avec l’oxygène gâte le produit et libère du métal. Transférez en boîte étanche et cuisez sous 4 jours.",
+        "de": "Nicht in der geöffneten Metalldose kühlen; Sauerstoffkontakt führt zu Verderb und Metallabgabe. In eine Dose umfüllen und in 4 Tagen verbrauchen.",
+        "pt": "Não guarde na lata aberta; o contato com o oxigênio causa oxidação e contaminação por metal. Transfira para um pote hermético e consuma em 4 dias.",
+        "id": "Jangan masukkan kulkas langsung di kaleng terbuka; kontak oksigen memicu pembusukan dan zat besi. Pindahkan ke wadah kedap."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

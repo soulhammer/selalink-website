@@ -1,0 +1,61 @@
+{
+  "id": "korean-melon",
+  "iconImage": "/assets/images/apps/freshself/ingredients/korean-melon.png",
+  "category": "fruit",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "참외",
+      "노란참외",
+      "참외보관",
+      "저온장해"
+    ],
+    "en": [
+      "korean melon",
+      "oriental melon",
+      "melon"
+    ],
+    "ja": [
+      "マクワウリ",
+      "まくわうり",
+      "メロン"
+    ],
+    "zh": [
+      "香瓜",
+      "甜瓜",
+      "东方蜜瓜"
+    ]
+  },
+  "names": {
+    "ko": "참외",
+    "en": "Korean Melon",
+    "ja": "マクワウリ",
+    "zh": "香瓜",
+    "es": "Melón coreano",
+    "fr": "Melon coréen",
+    "de": "Korea-Melone",
+    "pt": "Melão coreano",
+    "id": "Melon korea"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "참외는 아열대 과채류로 4℃ 이하에서는 저온 장해(껍질 패임, 씨 갈변)가 생깁니다. 씻지 말고 신문지로 감싸 온도 변화가 적은 5~7℃ 야채칸에 보관하세요.",
+        "en": "Subtropical fruit vulnerable to under 4°C (causes skin pitting and seed browning). Wrap unwashed in newspaper and store in 5–7°C crisper drawers.",
+        "ja": "참외는 아열대 과일로 4℃ 이하에서는 냉해(껍질 패임, 씨 갈변)가 생깁니다. 씻지 말고 신문지로 싸서 온도가 덜 차가운 야채칸에 보관하세요.",
+        "zh": "属于亚热带果蔬，低于4℃易受冷害（果皮凹陷、瓜籽变褐）。请勿淘洗，用报纸包裹存放在5-7℃의 蔬菜抽屉中。",
+        "es": "Fruta subtropical sensible a menos de 4 °C. No la lave, envuélvala en papel y guárdela a 5–7 °C en el cajón de verduras.",
+        "fr": "Fruit subtropical sensible sous 4 °C. Ne le lavez pas, enveloppez de journal et stockez à 5–7 °C dans le bac à légumes.",
+        "de": "Subtropische Frucht, kälteempfindlich unter 4 °C. Ungewaschen in Zeitung wickeln und bei 5–7 °C im Gemüsefach lagern.",
+        "pt": "Fruta subtropical sensível a menos de 4 °C. Não lave, embrulhe em jornal e guarde a 5–7 °C na gaveta de vegetais.",
+        "id": "Buah subtropis rentan suhu di bawah 4°C. Jangan cuci, bungkus koran, lalu simpan di laci sayur suhu 5–7°C."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

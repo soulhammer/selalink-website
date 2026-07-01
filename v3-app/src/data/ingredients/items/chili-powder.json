@@ -1,0 +1,80 @@
+{
+  "id": "chili-powder",
+  "iconImage": "/assets/images/apps/freshself/ingredients/chili-powder.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "고춧가루",
+      "태양초",
+      "양념가루",
+      "고춧가루보관"
+    ],
+    "en": [
+      "chili powder",
+      "chili flakes",
+      "gochugaru",
+      "red pepper powder"
+    ],
+    "ja": [
+      "唐辛子粉",
+      "唐辛子の粉",
+      "韓国唐辛子粉"
+    ],
+    "zh": [
+      "辣椒粉",
+      "粗辣椒粉",
+      "细辣椒粉"
+    ]
+  },
+  "names": {
+    "ko": "고춧가루",
+    "en": "Chili Powder",
+    "ja": "唐辛子粉",
+    "zh": "辣椒粉",
+    "es": "Chile en polvo",
+    "fr": "Piment en poudre",
+    "de": "Chilipulver",
+    "pt": "Pimenta em pó",
+    "id": "Bubuk cabai"
+  },
+  "storage": {
+    "freezer": {
+      "durationDays": 365,
+      "tips": {
+        "ko": "고춧가루는 수분과 빛에 취약하므로 지퍼백에 밀봉하여 냉동 보관하면 색이 변하지 않고 장기 보존이 가능합니다.",
+        "en": "Chili powder is vulnerable to moisture and light. Seal in airtight bags and freeze to preserve color.",
+        "ja": "粉唐辛子は湿気と光に弱いです。チャック付き保存袋に入れて密閉し、冷凍保存すると色が変わらず長期保存できます。",
+        "zh": "辣椒粉极易受潮和怕光。装入密封袋封口冷冻，可防止变色并长期保存。",
+        "es": "El chile en polvo es sensible a la humedad y la luz. Séllelo en bolsas herméticas y congélelo para preservar el color.",
+        "fr": "Le piment en poudre craint l’humidité et la lumière. Congelez-le en sachet hermétique pour préserver sa couleur.",
+        "de": "Chilipulver ist empfindlich gegen Feuchtigkeit und Licht. Luftdicht verpacken und einfrieren, um die Farbe zu erhalten.",
+        "pt": "A pimenta em pó é sensível à umidade e luz. Vede em sacos herméticos e congele para preservar a cor.",
+        "id": "Bubuk cabai rentan terhadap kelembapan dan cahaya. Segel dalam kantong kedap dan bekukan untuk menjaga warna."
+      },
+      "sources": [
+        "MFDS",
+        "RDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "습기와 상온 노출에 매우 취약하며 아스페르길루스 곰팡이(오크라톡신 A 발암 물질)가 자라기 쉽습니다. 소분하여 지퍼백에 밀봉한 후 반드시 10℃ 이하 냉장 보관하고 장기 보관 시 냉동하세요.",
+        "en": "Extremely vulnerable to moisture and warmth, easily breeding Aspergillus mold (Ochratoxin A cancer pathogen). Seal in small bags and store below 10°C; freeze for long term.",
+        "ja": "湿気と室温放置に非常に弱く、カビ（発がん性物質オクラトキシンA）が発生しやすいです。小分けにし密閉して必ず10℃以下で冷蔵し、長期は冷凍します。",
+        "zh": "极易受潮和受常温影响，易滋生黄曲霉菌（产生致癌物赭曲霉毒素A）。请分装密封在袋中，务必在10℃以下冷藏，长期保存请冷冻。",
+        "es": "Muy sensible a la humedad y calor; favorece el hongo Aspergillus (sustancia cancerígena Ocratoxina A). Selle en porciones por debajo de 10 °C y congele a largo plazo.",
+        "fr": "Très sensible à l’humidité et à la chaleur, propice aux moisissures Aspergillus (produisant de l’ochratoxine A cancérigène). Fermez en portions sous 10 °C ; congelez à long terme.",
+        "de": "Sehr feuchtigkeits- und wärmeempfindlich; bildet leicht Aspergillus-Schimmel (krebserregendes Ochratoxin A). Portionieren, luftdicht unter 10 °C lagern; für Langzeit einfrieren.",
+        "pt": "Muito sensível a umidade e calor, facilitando o fungo Aspergillus (carcinógeno Ocratoxina A). Divida, sele em sacos e guarde abaixo de 10 °C; congele para longo prazo.",
+        "id": "Sangat rentan lembap dan suhu ruang, mudah berjamur Aspergillus (zat karsinogenik Ochratoxin A). Segel di kantong porsi, simpan di bawah 10°C."
+      },
+      "sources": [
+        "MFDS",
+        "RDA"
+      ]
+    }
+  }
+}

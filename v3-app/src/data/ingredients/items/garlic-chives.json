@@ -1,0 +1,60 @@
+{
+  "id": "garlic-chives",
+  "iconImage": "/assets/images/apps/freshself/ingredients/garlic-chives.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "부추",
+      "솔부추",
+      "영양부추",
+      "부추보관"
+    ],
+    "en": [
+      "garlic chives",
+      "chives",
+      "chinese chives"
+    ],
+    "ja": [
+      "ニラ",
+      "にら",
+      "韮"
+    ],
+    "zh": [
+      "韭菜",
+      "洋韭菜"
+    ]
+  },
+  "names": {
+    "ko": "부추",
+    "en": "Garlic Chives",
+    "ja": "ニラ",
+    "zh": "韭菜",
+    "es": "Cebollino de ajo",
+    "fr": "Ciboulette chinoise",
+    "de": "Knoblauch-Schnittlauch",
+    "pt": "Nirá",
+    "id": "Kucai"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 5,
+      "tips": {
+        "ko": "수분에 매우 약하므로 씻지 말고 키친타월로 감싸 지퍼백에 세워서 보관하세요. 눕혀두면 자체 무게로 쉽게 짓무릅니다.",
+        "en": "Very sensitive to moisture. Wrap unwashed in paper towels and store upright in a bag. Lying flat causes bruising under its own weight.",
+        "ja": "水分に非常に弱いため、洗わずにペーパーで包み、袋に立てて保管します。横にすると自重で傷みやすくなります。",
+        "zh": "极易受潮。请勿冲洗，用厨房纸包裹并竖立存放在袋中。平放会因自身重量而压烂。",
+        "es": "Sensible a la humedad. No lave, envuelva en papel y guarde vertical en bolsa. Acostado se daña fácil por su propio peso.",
+        "fr": "Très sensible à l’humidité. Ne lavez pas, enveloppez de papier et stockez debout. À plat, il s’écrase sous son propre poids.",
+        "de": "Sehr feuchtigkeitsempfindlich. Ungewaschen in Küchenpapier wickeln und aufrecht lagern. Liegend zerdrückt es sich leicht.",
+        "pt": "Muito sensível à umidade. Não lave, embrulhe em papel-toalha e guarde em pé. Deitar as folhas faz com que amassem e estraguem.",
+        "id": "Sangat sensitif lembap. Jangan cuci, bungkus tisu, simpan tegak di kantong. Menyimpan mendatar membuatnya mudah busuk."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "gochujang",
+  "iconImage": "/assets/images/apps/freshself/ingredients/gochujang.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "고추장",
+      "전통장",
+      "고추장보관법"
+    ],
+    "en": [
+      "gochujang",
+      "korean chili paste",
+      "red pepper paste"
+    ],
+    "ja": [
+      "コチュジャン",
+      "韓国唐辛子みそ"
+    ],
+    "zh": [
+      "辣椒酱",
+      "韩式辣酱",
+      "苦椒酱"
+    ]
+  },
+  "names": {
+    "ko": "고추장",
+    "en": "Gochujang (Chili Paste)",
+    "ja": "コチュジャン",
+    "zh": "辣酱",
+    "es": "Gochujang",
+    "fr": "Gochujang",
+    "de": "Gochujang",
+    "pt": "Gochujang",
+    "id": "Gochujang"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "전통 발효 장류이지만 시판 고추장은 전분과 감미료 함량이 높아 개봉 후 실온에 두면 곰팡이가 핍니다. 개봉 후에는 표면을 밀착 밀폐하여 반드시 냉장 보관하세요.",
+        "en": "Store-bought chili paste has sugar/starches that mold easily at room temp once opened. Seal surface tightly with wrap and keep refrigerated after opening.",
+        "ja": "市販のコチュジャンは澱粉や甘味料が多く、開封後に常温放置するとカビます。開封後は表面を密着させてラップなどで密閉し、必ず冷蔵保管してください。",
+        "zh": "市售辣酱含有较高淀粉和甜味剂，开封后放常温易发霉。开封后请用保鲜膜紧贴酱面密封，并务必冷藏保存。",
+        "es": "El gochujang comercial tiene azúcar y almidón que crían moho si se abre y deja a temp. ambiente. Selle la superficie con film y refrigere tras abrir.",
+        "fr": "Le gochujang industriel contient des sucres et fécules qui moisissent à temp. ambiante après ouverture. Filmez au contact et gardez au frais.",
+        "de": "Gekauftes Gochujang enthält Stärke und Zucker, die geöffnet bei Zimmertemperatur schimmeln. Oberfläche fest mit Folie abdecken und kühl lagern.",
+        "pt": "O Gochujang industrializado contém açúcar e amido que mofam facilmente em temp. ambiente após aberto. Sele a superfície com filme e guarde na geladeira.",
+        "id": "Gochujang kemasan mengandung pati/pemanis yang mudah berjamur di suhu ruang setelah dibuka. Tutup rapat permukaan dan taruh kulkas."
+      },
+      "sources": [
+        "MFDS",
+        "RDA"
+      ]
+    }
+  }
+}

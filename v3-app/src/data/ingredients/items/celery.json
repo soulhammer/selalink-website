@@ -1,0 +1,60 @@
+{
+  "id": "celery",
+  "iconImage": "/assets/images/apps/freshself/ingredients/celery.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "샐러리",
+      "셀러리",
+      "야채보관",
+      "샐러리보관",
+      "침수보관"
+    ],
+    "en": [
+      "celery",
+      "celery stalks",
+      "celery sticks"
+    ],
+    "ja": [
+      "セロリ",
+      "せろり"
+    ],
+    "zh": [
+      "芹菜",
+      "西芹"
+    ]
+  },
+  "names": {
+    "ko": "샐러리",
+    "en": "Celery",
+    "ja": "セロリ",
+    "zh": "芹菜",
+    "es": "Apio",
+    "fr": "Céleri",
+    "de": "Sellerie",
+    "pt": "Aipo / Salsão",
+    "id": "Seledri"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "수분 보존이 핵심입니다. 줄기를 잘라 밀폐용기에 담고 찬물을 부어 푹 잠기게 냉장고 채소칸에 보관하면 2주 동안 아삭함이 유지됩니다. 물은 2~3일에 한 번씩 갈아주세요.",
+        "en": "Moisture retention is key. Cut stalks, submerge fully in cold water in an airtight container, and store in the crisper drawer. Keeps crisp for 2 weeks. Change water every 2–3 days.",
+        "ja": "줄기를 썰어 밀폐용기에 찬물과 함께 푹 잠기게 담아 채소칸에 보관하면 아삭함이 오래 유지됩니다. 물은 2~3일마다 한 번씩 교체하세요.",
+        "zh": "保水是关键。将芹菜切段，完全浸泡在装有冷水的密封容器中，存放在蔬菜室。可保持爽脆2周。每2-3天换一次水。",
+        "es": "Mantener la humedad es clave. Trocee, sumerja en agua fría en envase hermético y guarde en el cajón. Sigue crujiente 2 semanas. Cambie agua cada 2-3 días.",
+        "fr": "L’humidité est la clé. Coupez les branches, immergez-les dans l’eau froide en boîte étanche au bac à légumes. Reste croquant 2 semaines. Changez l’eau tous les 2-3 jours.",
+        "de": "Feuchtigkeitserhalt ist entscheidend. Stangen schneiden, komplett in kaltes Wasser gelegt in Dosen im Gemüsefach lagern. Bleibt 2 Wochen knackig. Wasser alle 2–3 Tage wechseln.",
+        "pt": "Manter a umidade é fundamental. Corte os talos, submerja em água fria em pote fechado e guarde na gaveta. Fica crocante por 2 semanas. Troque a água a cada 2-3 dias.",
+        "id": "Menjaga air adalah kunci. Potong seledri, rendam air dingin di wadah kedap, taruh laci sayur. Renyah 2 minggu. Ganti air tiap 2-3 hari."
+      },
+      "sources": [
+        "USDA",
+        "FSA"
+      ]
+    }
+  }
+}

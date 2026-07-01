@@ -1,0 +1,80 @@
+{
+  "id": "sesame-seeds",
+  "iconImage": "/assets/images/apps/freshself/ingredients/sesame-seeds.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "참깨",
+      "볶은깨",
+      "깨소금",
+      "참깨보관",
+      "산패"
+    ],
+    "en": [
+      "sesame seeds",
+      "roasted sesame seeds",
+      "sesame"
+    ],
+    "ja": [
+      "ごま",
+      "炒りごま",
+      "胡麻"
+    ],
+    "zh": [
+      "芝麻",
+      "炒芝麻",
+      "熟芝麻"
+    ]
+  },
+  "names": {
+    "ko": "참깨 / 깨",
+    "en": "Sesame Seeds",
+    "ja": "ごま / 胡麻",
+    "zh": "芝麻",
+    "es": "Semillas de sésamo",
+    "fr": "Graines de sésame",
+    "de": "Sesamsamen",
+    "pt": "Sementes de gergelim",
+    "id": "Biji wijen"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "볶은 깨는 오일 성분이 함유되어 공기 노출 시 찌든 내(산패)가 납니다. 투명 병을 피해 어두운 밀폐 용기에 담아 서늘한 곳에 두세요.",
+        "en": "Contains oil which becomes rancid when exposed to air. Store in dark, airtight containers in a cool pantry.",
+        "ja": "볶은 깨는 유지분으로 인해 공기 중 산패하여 쩐내가 나기 쉽습니다. 불투명한 밀폐 용기에 담아 서늘하고 건조한 상온에 보관하세요.",
+        "zh": "熟芝麻含有油分，暴露于空气中会产生哈喇味（氧化）。请避开透明瓶，放入深色密封容器中存放在凉爽处。",
+        "es": "Contiene aceite que se rancia al aire. Guarde en recipientes oscuros y herméticos en un lugar fresco.",
+        "fr": "Contiennent de l’huile et rancissent à l’air. Stockez dans un bocal opaque et étanche dans un endroit frais.",
+        "de": "Enthält Öl, das an der Luft ranzig wird. In lichtgeschützten, luftdichten Dosen an einem kühlen Ort lagern.",
+        "pt": "Contém óleo que rança com o ar. Guarde em pote escuro e hermético em local fresco.",
+        "id": "Mengandung minyak yang bisa tengik oleh udara. Simpan di wadah kedap cahaya di tempat sejuk."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "1년 이상 오래 두고 쓸 때는 지퍼백에 꽉 밀봉해 냉동 보관하면 산패가 완전히 억제되어 쩐내 없이 고소함을 끝까지 지킬 수 있습니다.",
+        "en": "For storage over 1 year, seal tightly in bags and freeze. This stops rancidity completely and preserves the nutty flavor.",
+        "ja": "1년 이상 보관할 때는 지퍼백에 공기를 빼서 밀봉 냉동하세요. 기름 쩐내가 전혀 나지 않고 풍미가 고스란히 보존됩니다.",
+        "zh": "需保存1年以上时,请在密封袋中密封冷冻。这能彻底阻断氧化，使其持久保持香浓风味。",
+        "es": "Para conservar más de 1 año, selle bien en bolsas y congele. Esto detiene el rancio y mantiene el aroma tostado.",
+        "fr": "Pour un stockage de plus d’un an, fermez bien et congelez. Cela stoppe le rancissement et garde l’odeur de grillé.",
+        "de": "Zur Lagerung über 1 Jahr luftdicht eintüten und einfrieren. Das verhindert Ranzigkeit komplett und erhält das Aroma.",
+        "pt": "Para guardar por mais de 1 ano, feche bem e congele. Isso impede o ranço e preserva o sabor tostado.",
+        "id": "Untuk simpan lebih dari 1 tahun, segel rapat lalu bekukan. Ini mencegah tengik dan menjaga rasa gurih."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

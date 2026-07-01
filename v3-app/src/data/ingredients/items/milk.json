@@ -1,0 +1,62 @@
+{
+  "id": "milk",
+  "category": "dairy",
+  "emoji": "🥛",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "유제품",
+      "생우유",
+      "저지방우유",
+      "멸균우유"
+    ],
+    "en": [
+      "dairy",
+      "whole milk",
+      "raw milk",
+      "low fat milk"
+    ],
+    "ja": [
+      "牛乳",
+      "ミルク",
+      "低脂肪乳"
+    ],
+    "zh": [
+      "牛奶",
+      "鲜牛奶",
+      "脱脂牛奶"
+    ]
+  },
+  "names": {
+    "ko": "우유",
+    "en": "Milk",
+    "ja": "牛乳",
+    "zh": "牛奶",
+    "es": "Leche",
+    "fr": "Lait",
+    "de": "Milch",
+    "pt": "Leite",
+    "id": "Susu"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "냉장고 문 쪽 보관 시 온도 변화가 심해 쉽게 상하므로 안쪽 선반에 두세요. 미개봉 상태에서 0~5℃ 냉장이 잘 유지되면 유통기한 만료 후 최대 45일까지 섭취 가능하나, 개봉 후에는 1주일 이내로 드시는 것이 안전합니다.",
+        "en": "Do not store in the door as temperature fluctuates; place on an inner shelf. Unopened milk keeps up to 45 days past expiry if kept at 0–5°C, but consume within 1 week once opened.",
+        "ja": "冷蔵庫のドアポケットは温度変化が大きいため傷みやすくなります。棚の内側に保管し、未開封で0〜5℃の冷蔵が維持されれば賞味期限後最大45日まで摂取可能ですが、開封後は1週間以内にお召し上がりください。",
+        "zh": "冰箱门处温度变化剧烈易变质，建议存放在内侧搁板上。在0-5℃冷藏且未开封状态下，过期后最多可保存45天，但开封后请在1周内饮用完毕。",
+        "es": "Las fluctuaciones en la puerta causan deterioro. Guárdela en un estante interior; consuma en 1 semana tras abrir.",
+        "fr": "La porte subit des variations de température. Stockez sur une étagère intérieure ; buvez sous 1 semaine après ouverture.",
+        "de": "Türfächer haben Temperaturschwankungen. Im inneren Regal lagern und nach dem Öffnen innerhalb einer Woche verbrauchen.",
+        "pt": "As oscilações na porta aceleram a deterioração. Guarde nas prateleiras internas e consuma em até 1 semana após abrir.",
+        "id": "Perubahan suhu di pintu kulkas mempercepat basi. Simpan di rak dalam; konsumsi dalam 1 minggu setelah dibuka."
+      },
+      "sources": [
+        "MFDS",
+        "USDA",
+        "FDA"
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "avocado",
+  "category": "vegetable",
+  "emoji": "🥑",
+  "isProcessed": false,
+  "names": {
+    "ko": "아보카도",
+    "en": "Avocado",
+    "ja": "アボカド",
+    "zh": "牛油果",
+    "es": "Aguacate",
+    "fr": "Avocat",
+    "de": "Avocado",
+    "pt": "Abacate",
+    "id": "Alpukat"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 5,
+      "tips": {
+        "ko": "초록색의 덜 익은 상태라면 바나나, 사과와 함께 종이봉투에 넣어 실온에서 후숙시키세요.",
+        "en": "If unripe (green), place in a paper bag with bananas or apples and ripen at room temperature.",
+        "ja": "緑色の未熟な状態であれば、バナナやりんごと一緒に紙袋に入れ、常温で追熟させてください。",
+        "zh": "如果是未熟的绿色，与香蕉或苹果一起放入纸袋中，在常温下催熟。",
+        "es": "Si está verde (inmaduro), póngalo en una bolsa de papel con plátanos o manzanas para madurar a temperatura ambiente.",
+        "fr": "S’il est vert (pas mûr), mettez-le dans un sac en papier avec des bananes ou des pommes pour mûrir.",
+        "de": "Wenn unreif (grün), in einer Papiertüte mit Bananen oder Äpfeln bei Raumtemperatur reifen lassen.",
+        "pt": "Se estiver verde, coloque em um saco de papel com bananas ou maçãs e amadureça à temperatura ambiente.",
+        "id": "Jika belum matang (hijau), taruh di kantong kertas bersama pisang atau apel dan matangkan di suhu ruang."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    },
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "후숙이 완료되어 갈색빛을 띠고 누르면 말랑할 때 냉장고에 넣어야 상하는 것을 늦춥니다.",
+        "en": "Refrigerate once ripe (brown skin and soft to touch) to slow down spoilage.",
+        "ja": "追熟が完了して皮が褐色になり、押すと柔らかくなった状態で冷蔵庫に入れると傷みを遅らせられます。",
+        "zh": "催熟至表皮呈褐色且触感变软后，再存入冰箱以减缓腐烂。",
+        "es": "Refrigérelo una vez maduro (piel marrón y suave al tacto) para retrasar el deterioro.",
+        "fr": "Réfrigérez-le une fois mûr (peau brune et texture souple) pour ralentir la dégradation.",
+        "de": "Kühlen, sobald gereift (braune Schale und weich), um den Verderb zu verlangsamen.",
+        "pt": "Refrigere assim que estiver maduro (casca marrom e macio ao toque) para retardar a deterioração.",
+        "id": "Masukkan ke lemari es setelah matang (kulit cokelat dan empuk saat ditekan) untuk memperlambat pembusukan."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

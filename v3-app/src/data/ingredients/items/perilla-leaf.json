@@ -1,0 +1,62 @@
+{
+  "id": "perilla-leaf",
+  "iconImage": "/assets/images/apps/freshself/ingredients/perilla-leaf.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "깻잎",
+      "깻잎보관",
+      "들깨잎",
+      "쌈채소"
+    ],
+    "en": [
+      "perilla leaf",
+      "perilla leaves",
+      "shiso",
+      "sesame leaf"
+    ],
+    "ja": [
+      "エゴマの葉",
+      "えごまの葉",
+      "エゴマ"
+    ],
+    "zh": [
+      "苏子叶",
+      "芝麻叶",
+      "紫苏叶"
+    ]
+  },
+  "names": {
+    "ko": "깻잎",
+    "en": "Perilla Leaf",
+    "ja": "エゴマの葉",
+    "zh": "苏子叶",
+    "es": "Hoja de perilla",
+    "fr": "Feuille de pérille",
+    "de": "Perillablatt",
+    "pt": "Folha de perila",
+    "id": "Daun perila"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "물기를 닦고 꼭지 부분을 아래로 하여 키친타월로 감싸 지퍼백에 세워 냉장 보관하세요. 건조를 막아 2주간 신선합니다.",
+        "en": "Dry surface moisture, wrap stems down in paper towels, and store upright in a zipper bag. Stays fresh for 2 weeks.",
+        "ja": "水気を拭き取り、茎を下にしてキッチンペーパーで包み、保存袋に立てて冷蔵保管します。2週間新鮮に保てます。",
+        "zh": "擦干水分，将叶柄朝下用厨房纸包裹，放入密封袋中竖立冷藏。可防止干燥并保持2周新鲜。",
+        "es": "Seque la humedad, envuelva los tallos hacia abajo en papel y guárdelos verticalmente en una bolsa. Dura fresco 2 semanas.",
+        "fr": "Séchez l’humidité, enveloppez les tiges vers le bas dans du papier et stockez debout. Reste frais 2 semaines.",
+        "de": "Feuchtigkeit abtrocknen, Stiele nach unten in Küchenpapier wickeln und aufrecht im Beutel lagern. Bleibt 2 Wochen frisch.",
+        "pt": "Seque a umidade, embrulhe os cabos para baixo em papel-toalha e guarde em pé. Mantém-se fresco por 2 semanas.",
+        "id": "Keringkan air, bungkus tangkai di bawah dengan tisu, lalu simpan tegak di kantong. Segar selama 2 minggu."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

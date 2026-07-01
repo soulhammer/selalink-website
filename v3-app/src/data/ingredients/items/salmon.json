@@ -1,0 +1,56 @@
+{
+  "id": "salmon",
+  "iconImage": "/assets/images/apps/freshself/ingredients/salmon.png",
+  "category": "seafood",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "연어",
+    "en": "Salmon",
+    "ja": "鮭",
+    "zh": "三文鱼/鲑鱼",
+    "es": "Salmón",
+    "fr": "Saumon",
+    "de": "Lachs",
+    "pt": "Salmão",
+    "id": "Salmon"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 2,
+      "tips": {
+        "ko": "겉면에 남은 드립(물기)을 키친타월로 확실히 닦아낸 후, 랩으로 완전히 진공 밀봉하여 보관하세요. 청주나 화이트와인을 살짝 뿌려두면 비린내를 잡고 살이 단단해집니다.",
+        "en": "Wipe all moisture, vacuum wrap, and refrigerate. Sprinkling sake or white wine keeps the meat firm.",
+        "ja": "表面のドリップ（水気）をペーパーでしっかり拭き取り, ラップで完全に真空密閉して冷蔵します. 酒や白ワインを軽く振ると臭みが消えます。",
+        "zh": "用厨房纸彻底擦干表面血水, 用保鲜膜真空密封冷藏. 淋少许料酒或白葡萄酒可去腥并使鱼肉更紧致。",
+        "es": "Seque bien los jugos, envuelva al vacío y refrigere. Rociar un poco de sake o vino blanco evita el olor.",
+        "fr": "Épongez le liquide, filmez sous vide et réfrigérez. Vaporiser du saké ou du vin blanc évite les odeurs.",
+        "de": "Feuchtigkeit gut abtupfen, vakuumieren und kühlen. Etwas Sake oder Weißwein verhindert Gerüche.",
+        "pt": "Seque o líquido da carne, vede a vácuo e refrigere. Borrifar saquê ou vinho branco ajuda a eliminar odores.",
+        "id": "Lap kering cairannya, bungkus vakum, dan dinginkan. Percikan sedikit sake atau anggur putih mengurangi bau amis."
+      },
+      "sources": [
+        "FDA",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "1회분 크기로 썰어 소금을 살짝 뿌려 수분을 빼고, 올리브유를 발라 랩핑한 뒤 지퍼백에 밀봉하여 급속 냉동하세요.",
+        "en": "Slice into single portions, salt lightly to draw out water, brush with olive oil, wrap, and freeze.",
+        "ja": "1回分のサイズに切り, 塩を軽く振って余分な水分를 빼고, 올리브유를 발라 랩으로 싸서 급속 냉동합니다.",
+        "zh": "切成单次用量的大小, 撒少许盐脱水, 涂抹橄榄油后包裹保鲜膜急速冷冻。",
+        "es": "Corte en porciones, sale un poco para deshidratar, unte aceite de oliva, envuelva y congele.",
+        "fr": "Coupez en portions, salez légèrement pour dégorger, badigeonnez d’huile d’olive, filmez et congelez.",
+        "de": "In Portionsgröße schneiden, leicht salzen, mit Olivenöl bestreichen, einwickeln und gefrieren.",
+        "pt": "Corte em porções, salgue levemente para drenar a água, pincele azeite, embrulhe em filme e congele.",
+        "id": "Potong dalam porsi sekali makan, taburi sedikit garam, olesi minyak zaitun, bungkus, lalu bekukan."
+      },
+      "sources": [
+        "FDA",
+        "USDA"
+      ]
+    }
+  }
+}

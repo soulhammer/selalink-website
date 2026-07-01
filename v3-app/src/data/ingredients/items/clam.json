@@ -1,0 +1,56 @@
+{
+  "id": "clam",
+  "iconImage": "/assets/images/apps/freshself/ingredients/clam.png",
+  "category": "seafood",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "조개",
+    "en": "Clam / Oyster",
+    "ja": "貝/牡蠣",
+    "zh": "贝类/牡蛎",
+    "es": "Almeja/Ostra",
+    "fr": "Palourde/Huître",
+    "de": "Muschel/Auster",
+    "pt": "Molusco/Ostra",
+    "id": "Kerang/Tiram"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 1,
+      "tips": {
+        "ko": "조개는 살아있는 상태로 보관해야 합니다. 해감(소금물에 담가 모래 빼기) 후, 밀폐용기에 담고 젖은 면포나 키친타월을 덮어 보관하세요. 밀봉하면 질식사합니다.",
+        "en": "Clams must stay alive. Depurate in saltwater, place in an open container, and cover with a wet cloth. Do not seal.",
+        "ja": "貝は生きた状態で保存します。砂抜きした後、濡らした布などを被せて密閉せずに保存してください。窒息死を防ぎます。",
+        "zh": "贝类必须保持活体保存。吐沙（泡入盐水吐净泥沙）后，装入保鲜盒盖上湿棉布或湿纸巾。完全密封会使其窒息死亡。",
+        "es": "Deben seguir vivas. Límpielas en agua salada, ponga en envase abierto y cubra con paño húmedo. No selle.",
+        "fr": "Elles doivent rester vivantes. Dégorgez-les dans l’eau salée, gardez en boîte ouverte sous un linge humide.",
+        "de": "Muscheln müssen am Leben bleiben. In Salzwasser entsanden, offen lagern und mit feuchtem Tuch bedecken. Nicht deckeln.",
+        "pt": "Moluscos devem ser mantidos vivos. Faça a depuração em água salgada, coloque em pote aberto e cubra com pano úmido.",
+        "id": "Kerang harus tetap hidup. Rendam air garam agar bersih, taruh wadah terbuka, tutup kain basah. Jangan segel."
+      },
+      "sources": [
+        "MFDS",
+        "NIFS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "해감한 조개를 껍질째 끓여서 입이 벌어지면 살만 발라내고 육수와 함께 팩에 담아 얼리는 것이 가장 신선하게 오래갑니다.",
+        "en": "Boil clams until shells open. Remove meat and freeze together with the strained broth in bags.",
+        "ja": "砂抜きした貝を殻のまま茹で、口が開いたら身だけを取り出して、茹で汁と一緒にパックして冷凍するのが最善です。",
+        "zh": "将吐沙后的贝类带壳煮至开口，剥出贝肉，连同过滤后的原汤一起装袋冷동，保鲜最久。",
+        "es": "Hierva hasta abrir. Retire la carne y congele junto con el caldo colado en bolsas.",
+        "fr": "Bouillez-les jusqu’à ouverture. Gardez la chair et congelez-la avec le jus de cuisson filtré.",
+        "de": "Kochen, bis sie sich öffnen. Fleisch entnehmen und zusammen mit der gefilterten Brühe einfrieren.",
+        "pt": "Ferva os moluscos até abrirem. Retire a carne e congele junto com o caldo coado em sacos.",
+        "id": "Rebus kerang hingga cangkang terbuka. Ambil dagingnya, bekukan bersama air rebusannya."
+      },
+      "sources": [
+        "MFDS",
+        "NIFS"
+      ]
+    }
+  }
+}

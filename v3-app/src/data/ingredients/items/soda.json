@@ -1,0 +1,61 @@
+{
+  "id": "soda",
+  "category": "etc",
+  "emoji": "🥤",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "탄산음료",
+      "콜라",
+      "사이다",
+      "김안빠지게",
+      "이산화탄소"
+    ],
+    "en": [
+      "soda",
+      "cola",
+      "soft drink",
+      "carbonated drink"
+    ],
+    "ja": [
+      "炭酸飲料",
+      "コーラ",
+      "サイダー"
+    ],
+    "zh": [
+      "碳酸饮料",
+      "可乐",
+      "汽水"
+    ]
+  },
+  "names": {
+    "ko": "탄산음료",
+    "en": "Soda / Cola",
+    "ja": "炭酸飲料",
+    "zh": "碳酸饮料 / 可乐",
+    "es": "Refresco / Cola",
+    "fr": "Soda / Cola",
+    "de": "Erfrischungsgetränk / Cola",
+    "pt": "Refrigerante / Cola",
+    "id": "Minuman bersoda"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "개봉 후 탄산 유실을 막으려면 페트병을 찌그러뜨려 빈 공간을 줄인 뒤 뚜껑을 꽉 닫으세요. 차가울수록 탄산 기체가 잘 녹아 보존됩니다.",
+        "en": "To prevent loss of carbonation, squeeze the plastic bottle to minimize empty space and close tight. Keep cold; lower temperatures retain gas better.",
+        "ja": "김빠짐을 막기 위해 페트병을 살짝 찌그러뜨려 내부 공기를 뺀 다음 뚜껑을 세게 닫아 보관하세요. 차가울수록 탄산이 덜 빠집니다.",
+        "zh": "为防汽水跑气，请捏扁塑料瓶以减少内部虚空，然后拧紧盖子。温度越低，二氧化碳越易溶解保存。",
+        "es": "Para evitar que se gasifique, presione la botella para reducir el espacio vacío y cierre fuerte. Mantenga frío para retener el gas.",
+        "fr": "Pour garder le gaz, pressez la bouteille en plastique pour vider l’air et vissez fort. Stockez au frais (le gaz s’y dissout mieux).",
+        "de": "Um Kohlensäureverlust zu vermeiden, die Plastikflasche zusammendrücken (Luftleerraum minimieren) und fest verschließen. Kalt lagern.",
+        "pt": "Para não perder o gás, esprema a garrafa para reduzir o ar e feche bem. Mantenha gelado para reter o gás.",
+        "id": "Cegah soda hilang. Remas botol plastik untuk meminimalkan ruang kosong lalu tutup rapat. Simpan dingin agar gas awet."
+      },
+      "sources": [
+        "USDA"
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "mayonnaise",
+  "iconImage": "/assets/images/apps/freshself/ingredients/mayonnaise.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "마요네즈",
+    "en": "Mayonnaise",
+    "ja": "マヨネーズ",
+    "zh": "蛋黄酱/沙拉酱",
+    "es": "Mayonesa",
+    "fr": "Mayonnaise",
+    "de": "Mayonnaise",
+    "pt": "Maionese",
+    "id": "Mayones"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 60,
+      "tips": {
+        "ko": "영하의 온도나 너무 차가운 곳(냉장실 깊숙이)에서는 기름이 분리되어 상해버립니다. 냉장고 문 쪽 등 비교적 온도가 높은 곳에 두세요.",
+        "en": "Cold temperatures (deep in the fridge) cause oil to separate. Store in warmer zones like the refrigerator door.",
+        "ja": "0℃以下や冷えすぎる場所（冷蔵庫の奥）では油が分離して傷みます。比較的温度の高いドアポケット等で保管してください。",
+        "zh": "在零度以下或过冷处（如冰箱深处）会导致油脂分离变质。建议存放在温度相对较高的冰箱门架上。",
+        "es": "Las bajas temperaturas separan el aceite. Guárdela en zonas menos frías como la puerta de la nevera.",
+        "fr": "Le grand froid sépare l’huile. Conservez-la dans les zones moins froides comme la porte du réfrigérateur.",
+        "de": "Zu kalte Lagerung (tief im Kühlschrank) trennt das Öl. In wärmeren Bereichen wie den Türfächern lagern.",
+        "pt": "Temperaturas muito frias separam o óleo. Guarde em áreas mais quentes como a porta da geladeira.",
+        "id": "Suhu terlalu dingin (bagian dalam kulkas) memisahkan minyak. Simpan di tempat hangat seperti pintu kulkas."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

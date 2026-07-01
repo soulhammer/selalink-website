@@ -1,0 +1,37 @@
+{
+  "id": "watermelon",
+  "category": "fruit",
+  "emoji": "🍉",
+  "isProcessed": false,
+  "names": {
+    "ko": "수박",
+    "en": "Watermelon",
+    "ja": "スイカ",
+    "zh": "西瓜",
+    "es": "Sandía",
+    "fr": "Pastèque",
+    "de": "Wassermelone",
+    "pt": "Melancia",
+    "id": "Semangka"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "⚠️ 먹다 남은 수박을 반으로 잘라 랩만 씌워 냉장 보관 시 표면 세균이 3,000배 이상 증식해 배탈을 유발합니다. 껍질을 썰어내고 과육만 깍둑썰기하여 밀폐용기에 담아 보관하세요.",
+        "en": "⚠️ Wrapping halved watermelon with plastic wrap causes 3,000x bacterial growth. Cut rind off, cube the flesh, and store in airtight containers.",
+        "ja": "⚠️ 半分に切ってラップをしたまま冷蔵保存すると、細菌が3,000倍以上に増殖し危険です。皮を切り落とし、果肉だけを一口大に切って密閉容器に保存してください。",
+        "zh": "⚠️ 吃剩的西瓜直接包保鲜膜冷藏会导致表面细菌暴增3000倍以上。务必切掉外皮，将果肉切块装入密封容器中冷藏。",
+        "es": "⚠️ Envolver sandía cortada en film multiplica las bacterias 3,000 veces. Quite la cáscara, corte en cubos y guarde herméticamente.",
+        "fr": "⚠️ Emballer une moitié de pastèque dans du film multiplie les bactéries par 3 000. Coupez l’écorce, faites des dés et fermez en boîte.",
+        "de": "⚠️ Halbe Wassermelonen nur in Folie zu wickeln führt zu 3.000-facher Bakterienvermehrung. Schale entfernen, würfeln und in Dosen lagern.",
+        "pt": "⚠️ Cobrir metade da melancia com filme plástico multiplica bactérias em 3.000 vezes. Corte a casca, faça cubos e guarde em pote vedado.",
+        "id": "⚠️ Membungkus belahan semangka dengan plastik wrap memicu bakteri berkembang 3.000 kali. Kupas kulit, potong dadu."
+      },
+      "sources": [
+        "KCA",
+        "MFDS"
+      ]
+    }
+  }
+}

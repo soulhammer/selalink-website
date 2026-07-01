@@ -1,0 +1,59 @@
+{
+  "id": "fresh-cream",
+  "iconImage": "/assets/images/apps/freshself/ingredients/fresh-cream.png",
+  "category": "dairy",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "생크림",
+      "동물성생크림",
+      "휘핑크림보관",
+      "생크림보관"
+    ],
+    "en": [
+      "fresh cream",
+      "heavy cream",
+      "whipping cream"
+    ],
+    "ja": [
+      "生クリーム",
+      "ホイップクリーム"
+    ],
+    "zh": [
+      "淡奶油",
+      "稀奶油",
+      "鲜奶油"
+    ]
+  },
+  "names": {
+    "ko": "생크림",
+    "en": "Fresh Cream",
+    "ja": "生クリーム",
+    "zh": "淡奶油",
+    "es": "Crema de leche / Nata",
+    "fr": "Crème fraîche",
+    "de": "Schlagsahne / Sahne",
+    "pt": "Creme de leite fresco",
+    "id": "Kepala susu / Krim"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 5,
+      "tips": {
+        "ko": "유지방 함량이 높아 냄새 흡수가 매우 빠릅니다. 개봉 후 팩 입구를 집게로 꽉 밀봉하고 반찬이나 김치 옆은 피해서 보관하되 7일 내에 사용하세요.",
+        "en": "High milk fat absorbs odors quickly. After opening, seal the pack tightly with a clip and store away from smelly food. Use in 7 days.",
+        "ja": "생크림은 냉장고 냄새를 스펀지처럼 흡수합니다. 개봉 후 반드시 입구를 꽉 집게로 닫아 잡내 배임을 방지하고 7일 내로 다 쓰세요.",
+        "zh": "乳脂肪含量高，极易吸收异味。开봉后请用夹子密封包装口，避开泡菜等有异味的食物，并在7天内用完。",
+        "es": "Absorbe olores rápido por la grasa láctea. Tras abrir, selle bien con un clip y guarde lejos de comidas con olor. Use en 7 days.",
+        "fr": "Absorbe les odeurs de par sa graisse. Après ouverture, fermez avec une pince et stockez loin des plats forts. Utilisez sous 7 jours.",
+        "de": "Milchfett absorbiert Gerüche extrem schnell. Nach dem Öffnen mit einer Klammer fest verschließen, geruchsintensive Speisen meiden. In 7 Tagen verbrauchen.",
+        "pt": "Absorve cheiro muito rápido pela gordura. Após aberto, feche com clipe e guarde longe de comidas com cheiro. Use em até 7 dias.",
+        "id": "Kadar lemak susu tinggi cepat menyerap bau. Setelah dibuka, segel rapat dengan klip, jauhkan dari makanan berbau. Gunakan dalam 7 hari."
+      },
+      "sources": [
+        "USDA"
+      ]
+    }
+  }
+}

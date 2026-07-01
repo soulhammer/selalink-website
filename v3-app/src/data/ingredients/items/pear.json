@@ -1,0 +1,60 @@
+{
+  "id": "pear",
+  "category": "fruit",
+  "emoji": "🍐",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "배",
+      "신고배",
+      "배보관",
+      "에틸렌"
+    ],
+    "en": [
+      "asian pear",
+      "pear",
+      "pears"
+    ],
+    "ja": [
+      "梨",
+      "なし",
+      "ナシ"
+    ],
+    "zh": [
+      "梨",
+      "雪梨",
+      "沙梨"
+    ]
+  },
+  "names": {
+    "ko": "배",
+    "en": "Asian Pear",
+    "ja": "梨",
+    "zh": "梨",
+    "es": "Pera asiática",
+    "fr": "Poire asiatique",
+    "de": "Nashi-Birne",
+    "pt": "Pêra asiática",
+    "id": "Pir"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "사과와 보관하면 에틸렌 가스로 인해 빨리 무르므로 반드시 분리하세요. 신문지로 개별 포장한 뒤 비닐팩에 넣어 김치냉장고(0~1℃)에 보관하는 것이 최선입니다.",
+        "en": "Must separate from apples as ethylene gas spoils pears quickly. Wrap individually in newspaper and store in a plastic bag in a 0–1°C drawer.",
+        "ja": "りんごと保存するとエチレンガスで早く傷むため、必ず分けてください。新聞紙で1つずつ包み、袋に入れてチルド室（0〜1℃）で保管するのが最適です。",
+        "zh": "与苹果一起存放会因乙烯气体而加速变质，请务必分开放置。用报纸单独包裹后放入塑料袋，存放在0-1℃의 냉장실中效果最佳。",
+        "es": "Separe de las manzanas, el gas etileno las daña rápido. Envuélvalas en papel y guárdelas a 0-1 °C en el refrigerador.",
+        "fr": "Séparez absolument des pommes à cause de l’éthylène. Enveloppez de journal et stockez à 0-1 °C au réfrigérateur.",
+        "de": "Unbedingt von Äpfeln trennen, da Ethylengas Birnen schnell verdirbt. Einzeln in Zeitung wickeln und bei 0–1 °C lagern.",
+        "pt": "Separe das maçãs, pois o gás etileno estraga pêras rapidamente. Embrulhe em jornal e guarde a 0-1 °C na geladeira.",
+        "id": "Wajib dipisah dari apel karena gas etilen merusak pir dengan cepat. Bungkus koran, simpan di laci 0–1°C."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    }
+  }
+}

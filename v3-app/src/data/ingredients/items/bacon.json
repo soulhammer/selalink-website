@@ -1,0 +1,55 @@
+{
+  "id": "bacon",
+  "category": "meat",
+  "emoji": "🥓",
+  "isProcessed": true,
+  "names": {
+    "ko": "베이컨",
+    "en": "Bacon",
+    "ja": "ベーコン",
+    "zh": "培根",
+    "es": "Bacon",
+    "fr": "Bacon",
+    "de": "Speck",
+    "pt": "Bacon",
+    "id": "Bacon"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "개봉 전에는 최대 2주가량 보관 가능하지만, 개봉하는 즉시 공기와 만나 부패하므로 남은 베이컨은 공기가 들어가지 않게 랩으로 이중 감싸 보관하세요.",
+        "en": "Unopened bacon keeps 2 weeks. Once opened, wrap tightly in multiple layers of plastic wrap to keep air out.",
+        "ja": "未開封なら約2週間持ちますが、開封後は急速に劣化します。空気に触れないようラップで厳重に包んでください。",
+        "zh": "未开封可保存2周。开封后极易受潮变质，余下的培根建议用保鲜膜多层严密包裹防氧化。",
+        "es": "Sin abrir dura 2 semanas. Abierto, envuelva firmemente en film transparente para evitar el aire.",
+        "fr": "Se conserve 2 semaines fermé. Ouvert, filmez-le très serré pour bloquer l’air.",
+        "de": "Ungeöffnet 2 Wochen haltbar. Nach dem Öffnen fest in Folie wickeln, um Luft auszuschließen.",
+        "pt": "Fechado dura até 2 semanas. Após aberto, embrulhe bem com várias camadas de filme plástico.",
+        "id": "Bacon utuh awet 2 minggu. Setelah dibuka, bungkus rapat berlapis dengan plastik wrap."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "종이 유산지에 한 줄씩 올리고 돌돌 말아서 지퍼백에 담아 냉동하세요. 요리할 때 필요한 개수만큼 풀어서 사용하기 편리합니다.",
+        "en": "Lay slices on parchment paper, roll them up individually, and freeze in airtight bags.",
+        "ja": "クッキングシートに1枚ずつのせてクルクルと丸め、保存袋に入れて冷凍すると、使う分だけ取り出せて便利です。",
+        "zh": "在防油纸上平铺单片并卷起来，装入密封袋冷冻。烹饪时可以方便地只取用需要的片数。",
+        "es": "Coloque las lonchas sobre papel vegetal, enróllelas individualmente y congélelas en bolsas.",
+        "fr": "Disposez les tranches sur du papier cuisson, roulez-les une à une et congelez en sachet.",
+        "de": "Scheiben auf Backpapier legen, einzeln aufrollen und in Beuteln gefrieren.",
+        "pt": "Coloque as fatias sobre papel-manteiga, enrole individualmente e congele em sacos vedados.",
+        "id": "Alasi bacon dengan kertas roti, gulung satu per satu, dan bekukan dalam kantong plastik."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

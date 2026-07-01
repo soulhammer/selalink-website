@@ -1,0 +1,56 @@
+{
+  "id": "soy-milk",
+  "iconImage": "/assets/images/apps/freshself/ingredients/soy-milk.png",
+  "category": "dairy",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "두유",
+    "en": "Soy Milk",
+    "ja": "豆乳",
+    "zh": "豆奶/豆浆",
+    "es": "Leche de soja",
+    "fr": "Lait de soja",
+    "de": "Sojamilch",
+    "pt": "Leite de soja",
+    "id": "Susu kedelai"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "미개봉 상태의 멸균 제품은 실온의 그늘지고 서늘한 곳에 장기 보관이 가능합니다.",
+        "en": "Unopened aseptic cartons can be stored in a cool, dry pantry for up to 6 months.",
+        "ja": "未開封の滅菌パック製品は, 直射日光를 피한 涼しい常温で長期間保存できます。",
+        "zh": "未开封灭菌包装产品可存放在阴凉干燥的常温下, 保存可达6个月。",
+        "es": "Los envases herméticos sin abrir se conservan en una despensa fresca y seca.",
+        "fr": "Les briques fermées se conservent dans un endroit sec et frais à température ambiante.",
+        "de": "Ungeöffnete sterile Packungen können bis zu 6 Monate an einem kühlen, trockenen Ort gelagert werden.",
+        "pt": "Caixas fechadas podem ser armazenadas em local seco e fresco à temperatura ambiente.",
+        "id": "Kemasan karton steril yang belum dibuka dapat disimpan di tempat sejuk dan kering."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "개봉한 두유는 공기 노출로 부패하기 쉬우므로 즉시 냉장 보관하고 유통기한과 상관없이 7일 내로 소비하세요.",
+        "en": "Once opened, refrigerate immediately and consume within 7 days regardless of expiration date.",
+        "ja": "開封後は傷みやすいため, すぐに冷蔵庫に入れ, 賞味期限にかかわらず7日以内に飲みきってください。",
+        "zh": "开封后极易腐坏, 请务必立即冷藏, 且无论保质期如何, 请在7天内饮用完毕。",
+        "es": "Abierto, refrigere de inmediato y consuma en un plazo de 7 días sin importar la fecha de vencimiento.",
+        "fr": "Après ouverture, réfrigérez immédiatement et consommez sous 7 jours maximum.",
+        "de": "Nach dem Öffnen sofort kühlen und unabhängig vom Ablaufdatum innerhalb von 7 Tagen verbrauchen.",
+        "pt": "Depois de aberto, refrigere imediatamente e consuma em até 7 dias, independente da data de validade.",
+        "id": "Setelah dibuka, segera dinginkan dan konsumsi dalam 7 hari tanpa melihat tanggal kedaluwarsa."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

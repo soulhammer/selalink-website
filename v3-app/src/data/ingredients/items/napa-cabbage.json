@@ -1,0 +1,61 @@
+{
+  "id": "napa-cabbage",
+  "category": "vegetable",
+  "emoji": "🥬",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "배추",
+      "통배추",
+      "쌈배추",
+      "알배기배추",
+      "배추보관"
+    ],
+    "en": [
+      "napa cabbage",
+      "chinese cabbage",
+      "cabbage"
+    ],
+    "ja": [
+      "白菜",
+      "はくさい",
+      "ハクサイ"
+    ],
+    "zh": [
+      "大白菜",
+      "白菜",
+      "黄芽菜"
+    ]
+  },
+  "names": {
+    "ko": "배추",
+    "en": "Napa Cabbage",
+    "ja": "白菜",
+    "zh": "白菜",
+    "es": "Col china",
+    "fr": "Chou chinois",
+    "de": "Chinakohl",
+    "pt": "Acelga",
+    "id": "Sawi putih"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 21,
+      "tips": {
+        "ko": "씻지 않은 상태에서 신문지에 포장한 뒤 뿌리가 아래로 향하도록 세워 야채칸에 보관하세요. 손질한 배추는 밀봉 후 7일 이내에 드세요.",
+        "en": "Wrap unwashed cabbage in newspaper and store upright with roots down in the crisper. Cut cabbage should be sealed and consumed in 7 days.",
+        "ja": "洗わずに新聞紙で包み、根を下にして野菜室に立てて保管します。カットした白菜は密閉して7日以内に召し上がりください。",
+        "zh": "请勿淘洗，用报纸包裹并将根部朝下竖立在蔬菜抽屉中。切开的白菜请密封并在7天内食用。",
+        "es": "Envuelva sin lavar en papel y guarde vertical con la raíz hacia abajo. Una vez cortada, selle y consuma en 7 días.",
+        "fr": "Enveloppez sans laver de journal et stockez debout, racine vers le bas. Coupé, fermez hermétiquement et consommez sous 7 jours.",
+        "de": "Ungewaschen in Zeitung wickeln und mit dem Strunk nach unten aufrecht lagern. Geschnittener Kohl luftdicht verpacken und in 7 Tagen verbrauchen.",
+        "pt": "Embrulhe sem lavar em jornal e guarde em pé com a raiz para baixo. Se cortada, sele e consuma em até 7 dias.",
+        "id": "Bungkus tanpa dicuci dengan koran, simpan tegak dengan akar di bawah di laci sayur. Sawi potong harus disegel dan digunakan dalam 7 hari."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

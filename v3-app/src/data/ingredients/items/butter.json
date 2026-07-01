@@ -1,0 +1,55 @@
+{
+  "id": "butter",
+  "category": "dairy",
+  "emoji": "🧈",
+  "isProcessed": true,
+  "names": {
+    "ko": "버터",
+    "en": "Butter",
+    "ja": "バター",
+    "zh": "黄油",
+    "es": "Mantequilla",
+    "fr": "Beurre",
+    "de": "Butter",
+    "pt": "Manteiga",
+    "id": "Mentega"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "냄새를 쉽게 흡수하므로 랩으로 감싸 밀폐용기에 이중 보관하세요. 냉장실 문 쪽은 피하는 것이 좋습니다.",
+        "en": "Butter absorbs odors easily. Wrap tightly and store in an airtight container away from the door.",
+        "ja": "臭いを吸着しやすいので、ラップで包んで密閉容器に二重保存します。ドアポケットは避けてください。",
+        "zh": "极其容易吸收异味。用保鲜膜包裹后放入密封容器中双重保存。建议避开冰箱门侧。",
+        "es": "Absorbe olores con facilidad. Envuélvala bien y guárdela herméticamente lejos de la puerta.",
+        "fr": "Le beurre absorbe les odeurs. Filmez-le et fermez-le en boîte étanche loin de la porte.",
+        "de": "Butter nimmt leicht Gerüche an. Fest einwickeln und in einer Dose lagern. Türfächer vermeiden.",
+        "pt": "Absorve odores facilmente. Embrulhe bem e guarde em pote hermético longe da porta da geladeira.",
+        "id": "Mentega mudah menyerap bau. Bungkus rapat dan simpan di wadah kedap udara jauh dari pintu."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 365,
+      "tips": {
+        "ko": "한 번에 쓸 크기로 잘라 종이 유산지에 올려 개별 랩핑한 뒤 냉동하세요. 요리할 때 하나씩 꺼내 쓰기 좋습니다.",
+        "en": "Slice into single-use portions, wrap in parchment paper, and freeze in sealed containers.",
+        "ja": "1回分ずつのサイズに切り、クッキングシートにのせて個別にラップ包みにして冷凍してください。",
+        "zh": "切成单次用量的大小，放在防油纸上单独包装后冷冻。烹饪时取用非常方便。",
+        "es": "Corte en porciones de un uso, envuélvalas en papel vegetal y congélelas en recipientes sellados.",
+        "fr": "Coupez en portions individuelles, enveloppez de papier cuisson et congelez en boîte étanche.",
+        "de": "In Portionsgröße schneiden, in Backpapier wickeln und gefrieren.",
+        "pt": "Corte em porções, embrulhe em papel-manteiga e congele em pote vedado.",
+        "id": "Potong dalam porsi sekali pakai, bungkus kertas roti, lalu bekukan."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

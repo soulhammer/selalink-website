@@ -1,0 +1,56 @@
+{
+  "id": "bean-sprouts",
+  "iconImage": "/assets/images/apps/freshself/ingredients/bean-sprouts.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "콩나물",
+    "en": "Bean Sprouts",
+    "ja": "もやし",
+    "zh": "豆芽",
+    "es": "Brotes de soja",
+    "fr": "Pousses de soja",
+    "de": "Sojasprossen",
+    "pt": "Broto de feijão",
+    "id": "Toge"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "밀폐용기에 콩나물을 담고 찬물에 완전히 잠기게 한 뒤 냉장 보관하세요. 물을 매일 한 번씩 갈아주어야 아삭함이 유지됩니다.",
+        "en": "Submerge fully in cold water in an airtight container. Change water daily to keep them crunchy.",
+        "ja": "密閉容器にもやしを入れ, 冷水に完全に浸した状態で冷蔵保存します. 水は毎日入れ替えてください。",
+        "zh": "将豆芽放入密封容器中, 用冷水完全淹没后冷藏. 每天换一次水以保持爽脆。",
+        "es": "Sumerja por completo en agua fría en un recipiente hermético. Cambie el agua a diario para mantenerlos crujientes.",
+        "fr": "Plongez complètement dans l’eau froide dans une boîte étanche. Changez l’eau tous les jours.",
+        "de": "In einem luftdichten Behälter vollständig in kaltes Wasser einlegen. Wasser täglich wechseln.",
+        "pt": "Mergulhe totalmente em água fria em pote hermético. Troque a água diariamente para manter a crocância.",
+        "id": "Rendam seluruhnya dalam air dingin di wadah kedap udara. Ganti air setiap hari agar tetap renyah."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "끓는 물에 소금을 넣고 30초간 아삭하게 데친 후, 찬물에 헹궈 물기를 단단히 짜낸 뒤 얼려서 국거리용으로 쓰세요.",
+        "en": "Blanch in salted boiling water for 30s, rinse in cold water, squeeze out moisture, and freeze.",
+        "ja": "沸騰した塩水で30秒下茹でし, 冷水で冷ましてから水分をしっかり絞って冷凍します。スープの具などに適しています。",
+        "zh": "放入沸盐水中焯水30秒, 用冷水冲凉, 用力捏干水分后冷冻. 适合做汤底配料。",
+        "es": "Blanquee en agua hirviendo con sal por 30s, enfríe, escurra bien y congele para caldos.",
+        "fr": "Blanchissez 30s à l’eau bouillante salée, rincez à l’eau froide, essorez bien et congelez.",
+        "de": "In kochendem Salzwasser 30 Sek. blanchieren, abschrecken, gut ausdrücken und für Suppen einfrieren.",
+        "pt": "Branqueie em água fervente com sal por 30s, esfrie, esprema bem a água e congele para caldos.",
+        "id": "Rebus di air garam mendidih selama 30 detik, bilas air dingin, peras airnya, lalu bekukan untuk sup."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

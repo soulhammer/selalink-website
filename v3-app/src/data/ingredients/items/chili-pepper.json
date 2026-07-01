@@ -1,0 +1,55 @@
+{
+  "id": "chili-pepper",
+  "category": "vegetable",
+  "emoji": "🌶️",
+  "isProcessed": false,
+  "names": {
+    "ko": "고추",
+    "en": "Chili Pepper",
+    "ja": "唐辛子",
+    "zh": "辣椒",
+    "es": "Chile/Pimiento picante",
+    "fr": "Piment",
+    "de": "Chili",
+    "pt": "Pimenta",
+    "id": "Cabai"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "씻지 않은 고추의 물기를 닦고 밀폐용기에 키친타월을 깔고 보관하세요. 꼭지는 떼지 않아야 수분 유출을 막을 수 있습니다.",
+        "en": "Dry unwashed chilies and store in a paper-lined container. Keep stems attached to prevent moisture loss.",
+        "ja": "洗わずに水気を拭き取り、ペーパーを敷いた密閉容器に保管します。ヘタは取らない方が乾燥を防げます。",
+        "zh": "擦干未洗辣椒的水分，装入铺有厨房纸的密封容器中。不要摘掉辣椒蒂，以防流失水分。",
+        "es": "Seque los chiles sin lavar y guarde con papel al fondo. No quite el tallo para evitar la deshidratación.",
+        "fr": "Séchez les piments non lavés dans une boîte tapissée de papier. Gardez la queue pour éviter le dessèchement.",
+        "de": "Ungewaschene Chilis trocknen und in einer mit Papier ausgelegten Dose lagern. Stiele nicht entfernen.",
+        "pt": "Seque pimentas sem lavar e guarde em pote forrado. Mantenha os cabinhos para não desidratar.",
+        "id": "Keringkan cabai yang belum dicuci di wadah beralas tisu. Jangan buang tangkai agar tidak layu."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "송송 썰어서 밀폐 지퍼백에 소분하여 급속 냉동해 두면 요리할 때 즉시 다용도로 사용할 수 있습니다.",
+        "en": "Chop and freeze in portioned bags. Convenient for adding directly to dishes while cooking.",
+        "ja": "細かく刻んで保存袋に小分けにして冷凍しておくと、料理の際すぐに使えて便利です。",
+        "zh": "切碎并分装在密封袋中急速冷冻，烹饪时可直接取出下锅，非常方便。",
+        "es": "Píquelos y congélelos en bolsas. Ideal para añadir directamente a los platos al cocinar.",
+        "fr": "Hachez-les et congelez-les en sachets. Pratique pour les jeter directement dans vos plats en cuisson.",
+        "de": "Hacken und in Gefrierbeuteln portionieren. Praktisch, um sie beim Kochen direkt hinzuzufügen.",
+        "pt": "Pique e congele em sacos herméticos. Muito prático para adicionar diretamente nos pratos ao cozinhar.",
+        "id": "Cincang dan bekukan dalam kantong plastik. Praktis untuk langsung dimasukkan saat memasak."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

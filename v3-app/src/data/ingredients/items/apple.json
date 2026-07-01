@@ -1,0 +1,38 @@
+{
+  "id": "apple",
+  "category": "fruit",
+  "emoji": "🍎",
+  "isProcessed": false,
+  "names": {
+    "ko": "사과",
+    "en": "Apple",
+    "ja": "りんご",
+    "zh": "苹果",
+    "es": "Manzana",
+    "fr": "Pomme",
+    "de": "Apfel",
+    "pt": "Maçã",
+    "id": "Apel"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "다른 과일/채소와 함께 보관하면 에틸렌 가스로 인해 동반 부패합니다. 지퍼백이나 랩으로 사과를 개별 밀봉하여 따로 두세요.",
+        "en": "Apples release ethylene gas which spoils other produce. Wrap individually in plastic wrap or seal in bags.",
+        "ja": "他の野菜や果物と一緒に保管するとエチレンガスで傷みやすくなります。ラップで1つずつ密閉するか袋に入れて分けて保管してください。",
+        "zh": "苹果会释放乙烯气体，导致其他蔬果变质。用保鲜膜单独包裹或密封在袋子中分开放置。",
+        "es": "Las manzanas liberan gas etileno que daña otros productos. Envuélvalas individualmente en film plástico.",
+        "fr": "Les pommes dégagent de l’éthylène qui abîme les autres fruits. Enveloppez-les individuellement dans du film.",
+        "de": "Äpfel geben Ethylengas ab, das andere Produkte verdirbt. Einzeln in Folie einwickeln oder in Beutel verpacken.",
+        "pt": "As maçãs liberam gás etileno que estraga outros vegetais. Embrulhe individualmente em filme plástico.",
+        "id": "Apel melepaskan gas etilen yang merusak sayuran lain. Bungkus satu per satu dengan plastik wrap."
+      },
+      "sources": [
+        "RDA",
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

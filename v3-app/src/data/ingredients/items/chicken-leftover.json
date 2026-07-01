@@ -1,0 +1,56 @@
+{
+  "id": "chicken-leftover",
+  "iconImage": "/assets/images/apps/freshself/ingredients/chicken-leftover.png",
+  "category": "etc",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "남은 치킨",
+    "en": "Leftover Chicken",
+    "ja": "残ったチキン",
+    "zh": "剩炸鸡",
+    "es": "Pollo frito sobrante",
+    "fr": "Reste de poulet",
+    "de": "Übriggebratenes Hühnchen",
+    "pt": "Sobras de frango frito",
+    "id": "Sisa ayam goreng"
+  },
+  "storage": {
+    "freezer": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "가급적 냉동은 권장하지 않으나, 냉동 시 14일 이내 소진하고 해동 시 닭 비린내 발생에 유의하여 완전히 데워 드세요.",
+        "en": "Freezing is not recommended due to odor. Freeze up to 14 days and reheat thoroughly before eating.",
+        "ja": "なるべく冷凍は推奨しませんが、冷凍する場合は14日以内に消費し、解凍時のにおいに注意して完全に温めて食べてください。",
+        "zh": "不建议冷冻。如果冷冻，请在14天内食用完，注意解冻时可能会产生鸡肉腥味，需彻底加热后食用。",
+        "es": "No se recomienda congelar por el olor. Congele hasta 14 días y recaliente completamente antes de consumir.",
+        "fr": "Congélation non recommandée. Congelez 14 jours maximum et réchauffez soigneusement pour éviter les odeurs.",
+        "de": "Einfrieren wegen Geruchsbildung nicht empfohlen. Maximal 14 Tage einfrieren und vor dem Verzehr gründlich erhitzen.",
+        "pt": "Não é recomendado congelar devido ao odor. Congele por até 14 dias e reaqueça bem antes de consumir.",
+        "id": "Tidak disarankan dibekukan karena bau kulkas. Bekukan maksimal 14 hari dan panaskan kembali hingga merata."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    },
+    "fridge": {
+      "durationDays": 2,
+      "tips": {
+        "ko": "밀봉 지퍼백에 담아 보관하고, 3일 내 드세요. 다시 데울 때 전자레인지는 눅눅해지므로 에어프라이어 170도에서 5분가량 구우면 바삭함이 복구됩니다.",
+        "en": "Store in bags and consume in 3 days. Microwave makes it soggy; reheat in an air fryer at 170°C for 5 minutes for crispiness.",
+        "ja": "袋に入れて密閉し3日以内に消費。レンジだとべたつきますが、フライヤー170度5分でカリカリに戻ります.",
+        "zh": "放入密封袋冷藏并在3天内吃完。微波炉加热会导致外皮变软，建议放入空气炸锅在170℃下烘烤5分钟即可复原酥脆口感。",
+        "es": "Guarde en bolsas por 3 días. Calentar en freidora de aire a 170 °C por 5 min devuelve el crujiente.",
+        "fr": "Conservez en sachet sous 3 jours. Le micro-ondes le ramollit ; réchauffez à l’air fryer à 170 °C pendant 5 min.",
+        "de": "In Beuteln lagern und innerhalb von 3 Tagen essen. Heißluftfritteuse (170 °C, 5 Min.) stellt die Knusprigkeit wieder her.",
+        "pt": "Guarde em sacos e coma em até 3 dias. Reaquecer na air fryer a 170°C por 5 minutos devolve a crocância.",
+        "id": "Simpan dalam kantong plastik selama 3 hari. Panaskan dengan air fryer 170°C selama 5 menit agar renyah."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

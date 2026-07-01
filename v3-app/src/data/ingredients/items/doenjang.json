@@ -1,0 +1,59 @@
+{
+  "id": "doenjang",
+  "iconImage": "/assets/images/apps/freshself/ingredients/doenjang.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "된장",
+      "재래된장",
+      "된장보관법"
+    ],
+    "en": [
+      "doenjang",
+      "soybean paste",
+      "korean soybean paste"
+    ],
+    "ja": [
+      "テンジャン",
+      "韓国味噌"
+    ],
+    "zh": [
+      "大酱",
+      "韩式大酱",
+      "黄豆酱"
+    ]
+  },
+  "names": {
+    "ko": "된장",
+    "en": "Doenjang (Soybean Paste)",
+    "ja": "テンジャン",
+    "zh": "大酱",
+    "es": "Doenjang",
+    "fr": "Doenjang",
+    "de": "Doenjang",
+    "pt": "Doenjang",
+    "id": "Doenjang"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "개봉 후 실온 방치 시 하얀 산막효모(곰팡이의 일종)와 유해 곰팡이가 증식합니다. 밀폐 보관하되, 된장 표면에 종이호일을 깔고 그 위에 천일염을 도톰하게 덮어두면 습기를 잡고 상하지 않습니다.",
+        "en": "Leaving it at room temp breeds white film yeast (mold) and pathogenetic molds. Seal and place parchment paper on surface, then sprinkle sea salt on top to block moisture.",
+        "ja": "開封後に常温放置すると、白い産膜酵母（カビの一種）や有害なカビが増殖します。密閉し、表面にクッキングシートを敷いて粗塩をのせると水分を防ぎ傷みません。",
+        "zh": "开封后放常温易生白膜酵母（霉菌的一种）和有害霉菌。密封保存，可在表面垫上烘焙纸并撒上一层厚厚的粗盐以防潮防变质。",
+        "es": "Dejarlo a temp. ambiente cría levaduras blancas (tipo de moho) y mohos dañinos. Selle, coloque papel de horno y cubra con sal gruesa para evitar humedad.",
+        "fr": "Laisser à temp. ambiante crée des levures (voile blanc) et moisissures. Fermez bien, posez du papier cuisson au contact et couvrez de gros sel pour sécher.",
+        "de": "Zimmertemperatur begünstigt Kahmhefe (weißer Belag) und Schimmel. Luftdicht lagern; Backpapier auflegen und grobes Salz aufstreuen, um Feuchtigkeit zu binden.",
+        "pt": "Deixar em temp. ambiente cria leveduras brancas (tipo de mofo) e fungos prejudiciais. Cubra a superfície com papel-manteiga e sal grosso para evitar umidade.",
+        "id": "Suhu ruang memicu ragi film putih (jamur) dan bakteri jahat. Lapisi kertas roti di permukaan, taburi garam kasar untuk menyerap air."
+      },
+      "sources": [
+        "MFDS",
+        "RDA"
+      ]
+    }
+  }
+}

@@ -1,3 +1,2 @@
-import type { Ingredient } from '../ingredients';
-import data from './meat.json' with { type: 'json' };
-export const meatIngredients = data as Ingredient[];
+import { ingredients } from '../ingredients';
+export const meatIngredients = ingredients.filter(item => item.category === 'meat');

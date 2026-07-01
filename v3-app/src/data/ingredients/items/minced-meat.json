@@ -1,0 +1,56 @@
+{
+  "id": "minced-meat",
+  "iconImage": "/assets/images/apps/freshself/ingredients/minced-meat.png",
+  "category": "meat",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "다진 고기",
+    "en": "Minced Meat",
+    "ja": "ひき肉",
+    "zh": "肉馅/碎肉",
+    "es": "Carne picada",
+    "fr": "Viande hachée",
+    "de": "Hackfleisch",
+    "pt": "Carne moída",
+    "id": "Daging cincang"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 2,
+      "tips": {
+        "ko": "표면적이 매우 넓어 일반 덩어리 고기보다 산소 노출과 세균 번식이 극도로 빠릅니다. 반드시 진공 랩 밀봉하여 2일 내 드세요.",
+        "en": "High surface area allows rapid bacterial growth. Store vacuum sealed or wrapped tightly; use in 2 days.",
+        "ja": "表面積が広く雑菌が非常に繁殖しやすいです。空気が入らないようしっかりラップ密閉し、2日以内に使い切ってください。",
+        "zh": "表面积大极易与空气接触氧化和滋生细菌。务必真空密封包裹，并在2天内烹饪完毕。",
+        "es": "Gran superficie de contacto permite rápido crecimiento bacterial. Use sellado al vacío y consuma en 2 días.",
+        "fr": "La surface d’exposition favorise les bactéries. Conservez sous vide et consommez sous 2 jours.",
+        "de": "Große Oberfläche begünstigt Keimwachstum. Luftdicht verpacken und innerhalb von 2 Tagen verbrauchen.",
+        "pt": "A grande área de contato acelera a oxidação e fungos. Vede em vácuo e consuma em até 2 dias.",
+        "id": "Luas permukaan memicu bakteri berkembang cepat. Bungkus rapat dan masak dalam 2 hari."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "두껍게 뭉쳐서 얼리면 나중에 해동이 어렵고 해동 중 상할 수 있습니다. 지퍼백에 넣고 얇고 편평하게 펴서 칸을 지어 얼리세요.",
+        "en": "Do not freeze in thick clumps. Flatten meat inside bags and mark partition lines for easy break-off.",
+        "ja": "厚くまとめた状態で凍らせると解凍に時間がかかります。袋に薄く平らに伸ばし、格子状の筋を入れて冷凍してください。",
+        "zh": "成团冷冻会导致解冻困难且中途易坏。平摊装入密封袋中压成扁平薄片，用筷子压出网格线后再冷冻。",
+        "es": "No congele en bolas gruesas. Aplánela en bolsas y marque líneas para dividir fácilmente.",
+        "fr": "Ne la congelez pas en boule. Aplatissez-la dans des sachets et marquez des séparations pour casser des parts.",
+        "de": "Nicht als Kugel einfrieren. Flach in Beutel streichen und Portionierungslinien eindrücken.",
+        "pt": "Não congele em blocos grossos. Aplane a carne dentro do saco e marque divisórias para quebrar facilmente.",
+        "id": "Jangan bekukan dalam gumpalan tebal. Pipihkan dalam kantong plastik dan beri sekat."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

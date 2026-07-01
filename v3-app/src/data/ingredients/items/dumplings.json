@@ -1,0 +1,65 @@
+{
+  "id": "dumplings",
+  "category": "etc",
+  "emoji": "🥟",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "만두",
+      "냉동만두",
+      "교자",
+      "손만두",
+      "군만두"
+    ],
+    "en": [
+      "dumplings",
+      "dumpling",
+      "frozen dumplings",
+      "gyoza",
+      "potstickers"
+    ],
+    "ja": [
+      "餃子",
+      "ぎょうざ",
+      "ギョーザ",
+      "冷凍餃子"
+    ],
+    "zh": [
+      "饺子",
+      "蒸饺",
+      "冷冻饺子",
+      "水饺"
+    ]
+  },
+  "names": {
+    "ko": "만두 / 냉동만두",
+    "en": "Frozen Dumplings",
+    "ja": "餃子 / 冷凍餃子",
+    "zh": "饺子 / 冷冻饺子",
+    "es": "Empanadillas / Dumplings",
+    "fr": "Raviolis / Dumplings",
+    "de": "Teigtaschen / Dumplings",
+    "pt": "Guioza / Dumplings",
+    "id": "Pangsit / Dumpling beku"
+  },
+  "storage": {
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "밀봉 상태가 불량하면 냉동실 안의 건조한 냉기로 인해 피가 깨지고 마르는 냉동장해(Freezer burn)가 생깁니다. 클립이나 테이프로 입구를 완벽히 밀봉하세요.",
+        "en": "Poor sealing leads to dry cold air cracking the skin, causing freezer burn. Seal the opening tightly with clips or tape.",
+        "ja": "密閉が不十分だと、冷凍庫内の冷気で皮が乾燥してひび割れる冷凍焼け（Freezer burn）が生じます。袋の口をクリップなどで完全に閉じてください。",
+        "zh": "密封不良会因冷冻室内的干燥冷风导致饺子皮干裂，产生冷冻灼伤（Freezer burn）。请用夹子或胶带将开口彻底密封。",
+        "es": "Un mal sellado agrieta la masa por el aire frío y seco, causando quemaduras por congelación. Selle bien la apertura con clips o cinta.",
+        "fr": "Un mauvais scellage assèche la pâte par le froid, créant des brûlures de congélation. Fermez hermétiquement avec un clip ou du ruban.",
+        "de": "Schlechte Versiegelung führt dazu, dass die kalte Luft den Teig austrocknet (Gefrierbrand). Öffnung fest mit Clips verschließen.",
+        "pt": "Vedação ruim faz com que o ar frio e seco rache a massa, causando queimadura de congelador. Feche bem a embalagem com clipes.",
+        "id": "Segel tidak rapat membuat kulit pangsit retak karena udara dingin kering (freezer burn). Segel rapat dengan klip."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "iceberg-lettuce",
+  "iconImage": "/assets/images/apps/freshself/ingredients/iceberg-lettuce.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "양상추",
+      "샐러드채소",
+      "양상추보관"
+    ],
+    "en": [
+      "iceberg lettuce",
+      "lettuce",
+      "salad greens"
+    ],
+    "ja": [
+      "レタス",
+      "たまレタス"
+    ],
+    "zh": [
+      "生菜",
+      "结球生菜",
+      "卷心生菜"
+    ]
+  },
+  "names": {
+    "ko": "양상추",
+    "en": "Iceberg Lettuce",
+    "ja": "レタス",
+    "zh": "生菜",
+    "es": "Lechuga iceberg",
+    "fr": "Laitue iceberg",
+    "de": "Eisbergsalat",
+    "pt": "Alface americana",
+    "id": "Selada iceberg"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "씻지 말고 심지 부분에 젖은 키친타월을 댄 뒤 통째로 랩으로 팽팽하게 감싸 보관하세요. 칼이 닿으면 단면이 갈변하므로 손으로 뜯어 조리하세요.",
+        "en": "Do not wash. Cover the stem core with a damp paper towel and wrap tightly in plastic wrap. Hand-tear to prevent browning caused by metal knives.",
+        "ja": "洗わずに芯の部分に濡らしたペーパーをあて、丸ごとラップで包んで保管します。刃物が触れると切り口が変色するため手でちぎってください。",
+        "zh": "请勿冲洗。在根茎切口处贴上湿厨房纸，然后用保鲜膜将整颗紧紧包裹。用手撕开可防止因金属刀切导致的断面变褐。",
+        "es": "No lave. Cubra el tallo con papel húmedo y envuelva firme con film. Corte con la mano, el metal del cuchillo la oxida.",
+        "fr": "Ne lavez pas. Placez du papier humide sur le trognon et filmez serré. Déchirez à la main pour éviter l’oxydation due au couteau.",
+        "de": "Ungewaschen den Strunk mit feuchtem Papier bedecken und fest in Folie wickeln. Von Hand zupfen, da Metallmesser braune Ränder verursachen.",
+        "pt": "Não lave. Cubra o talo com papel-toalha úmido e embrulhe firme em filme plástico. Rasgue com as mãos para evitar que escureça com faca.",
+        "id": "Jangan cuci. Tutup bagian batang dengan tisu basah, lalu bungkus rapat plastik wrap. Robek dengan tangan agar tidak cokelat karena pisau."
+      },
+      "sources": [
+        "RDA",
+        "USDA",
+        "FSA"
+      ]
+    }
+  }
+}

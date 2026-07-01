@@ -1,0 +1,76 @@
+{
+  "id": "corn",
+  "category": "vegetable",
+  "emoji": "🌽",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "옥수수",
+      "찰옥수수",
+      "초당옥수수",
+      "옥수수보관"
+    ],
+    "en": [
+      "corn",
+      "sweet corn",
+      "corn on the cob"
+    ],
+    "ja": [
+      "トウモロコシ",
+      "とうもろこし"
+    ],
+    "zh": [
+      "玉米",
+      "苞米"
+    ]
+  },
+  "names": {
+    "ko": "옥수수",
+    "en": "Corn",
+    "ja": "トウモロコシ",
+    "zh": "玉米",
+    "es": "Maíz",
+    "fr": "Maïs",
+    "de": "Mais",
+    "pt": "Milho",
+    "id": "Jagung"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "껍질을 벗기지 않은 상태로 신문지로 싸서 지퍼백에 밀봉 보관하되, 당도가 빠르게 떨어지므로 3일 이내에 드세요.",
+        "en": "Store unpeeled, wrap in newspaper, and seal in zipper bags. Sugars drop quickly; consume within 3 days.",
+        "ja": "皮をむかない状態で新聞紙に包み、ジッパーバッグに入れて密閉し冷蔵保管します。糖度が急速に落ちるため、3日以内にお召し上がりください。",
+        "zh": "保留外皮，用报纸包裹并密封在密封袋中冷藏。因糖分流失快，请在3天内食用。",
+        "es": "Guarde con cáscara wrapped en papel y selle en bolsas. El dulce baja rápido; consuma en 3 días.",
+        "fr": "Conservez avec les feuilles enveloppé de journal dans un sachet. Le sucre baisse vite, consommez sous 3 jours.",
+        "de": "Ungeschält in Zeitung wickeln und in Beuteln versiegeln. Der Zuckergehalt sinkt schnell; in 3 Tagen verzehren.",
+        "pt": "Guarde com casca embrulhado in jornal e selado no saco. O açúcar diminui rápido; consuma em até 3 dias.",
+        "id": "Simpan tanpa dikupas, bungkus koran, segel dalam kantong. Manis cepat hilang; konsumsi dalam 3 hari."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 365,
+      "tips": {
+        "ko": "구매 즉시 삶거나 찐 후 충분히 식혀서 1개씩 랩으로 밀착 포장해 냉동하세요. 해동 없이 그대로 쪄내면 처음 식감 그대로 드실 수 있습니다.",
+        "en": "Steam or boil immediately after purchase, cool completely, wrap individually in wrap, and freeze. Re-steam directly without thawing.",
+        "ja": "収穫または購入した当日にすぐに茹でるか蒸し、十分に冷ましてから1本ずつラップで密着包装して冷凍してください。解凍せずにそのまま蒸し直すと、もっちりとした食感のままお召し上がりいただけます。",
+        "zh": "购买后立即煮熟或蒸熟，彻底晾凉，逐个用保鲜膜裹紧冷冻。食用时无需解冻，直接重新蒸一下即可恢复原口感。",
+        "es": "Hierva o cueza al vapor tras comprar, enfríe bien, envuelva individual con film y congele. Vuelva a cocer al vapor sin descongelar.",
+        "fr": "Cuisez à la vapeur ou à l’eau après achat, refroidissez bien, filmez individuellement et congelez. Recuisez sans décongeler.",
+        "de": "Nach dem Kauf direkt garen, komplett abkühlen lassen, einzeln einwickeln und gefrieren. Ohne Auftauen direkt wieder aufdämpfen.",
+        "pt": "Cozinhe ou asse logo após comprar, esfrie bem, embrulhe individual em filme e congele. Cozinhe de novo sem descongelar.",
+        "id": "Segera rebus setelah dibeli, dinginkan, bungkus rapat, lalu bekukan. Kukus kembali tanpa dicairkan untuk rasa awal."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    }
+  }
+}

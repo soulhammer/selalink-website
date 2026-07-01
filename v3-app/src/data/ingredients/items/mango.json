@@ -1,0 +1,77 @@
+{
+  "id": "mango",
+  "category": "fruit",
+  "emoji": "🥭",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "망고",
+      "애플망고",
+      "망고보관",
+      "후숙과일"
+    ],
+    "en": [
+      "mango",
+      "mangoes",
+      "apple mango"
+    ],
+    "ja": [
+      "マンゴー",
+      "アップルマンゴー"
+    ],
+    "zh": [
+      "芒果",
+      "台农芒果",
+      "贵妃芒"
+    ]
+  },
+  "names": {
+    "ko": "망고",
+    "en": "Mango",
+    "ja": "マンゴー",
+    "zh": "芒果",
+    "es": "Mango",
+    "fr": "Mangue",
+    "de": "Mango",
+    "pt": "Manga",
+    "id": "Mangga"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 5,
+      "tips": {
+        "ko": "단단한 망고는 후숙이 필요하므로 실온(20℃ 안팎)에 두세요. 손으로 만졌을 때 살짝 말랑해지고 향이 진해지면 완숙된 것입니다.",
+        "en": "Unripe mangoes need ripening at room temp (around 20°C). Ripe when slightly soft to the touch and highly aromatic.",
+        "ja": "固いマンゴーは追熟が必要なため室温（20℃前後）に置きます。手で触って少し柔らかくなり、香りが強くなれば完熟です。",
+        "zh": "较硬的芒果需在常温（20℃左右）下催熟。手摸上去感觉微软、香气浓郁时即为完全成熟。",
+        "es": "Los mangos verdes maduran a temp. ambiente (unos 20 °C). Estará listo si se siente un poco blando al tacto y huele dulce.",
+        "fr": "Les mangues vertes doivent mûrir à temp. ambiante (environ 20 °C). Elle est mûre quand elle est souple sous le doigt et parfumée.",
+        "de": "Unreife Mangos bei Zimmertemperatur (ca. 20 °C) nachreifen lassen. Reif, wenn sie auf Druck leicht nachgeben und stark duften.",
+        "pt": "Mangas verdes precisam maturar em temp. ambiente (cerca de 20 °C). Estará madura quando estiver macia ao toque e aromática.",
+        "id": "Mangga keras perlu dimatangkan di suhu ruang (sekitar 20°C). Mangga matang jika terasa agak empuk saat ditekan dan wangi."
+      },
+      "sources": [
+        "USDA",
+        "FDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "후숙이 끝난 망고는 신문지에 감싸 냉장실 야채칸에 보관해 3~4일 이내에 드세요. 덜 익은 채 냉장하면 저온장해로 후숙되지 않고 썩습니다.",
+        "en": "Once ripe, wrap in newspaper and store in the crisper drawer; consume in 3–4 days. Refrigerating unripe mangoes stops ripening and causes rot.",
+        "ja": "追熟が終わったものは新聞紙で包み野菜室に入れ、3〜4日以内に召し上がりください。未熟なまま冷蔵すると冷害で熟さず腐ります。",
+        "zh": "成熟后的芒果请用报纸包裹存放在蔬菜抽屉中，并在3-4天内食用。未成熟时冷藏会受冷害，导致无法成熟并腐烂。",
+        "es": "Una vez maduro, envuelva en papel y ponga en el cajón; use en 3-4 días. Refrigerar verde causa daños por frío y se pudre sin madurar.",
+        "fr": "Mûre, enveloppez de journal au bac à légumes ; consommez sous 3-4 jours. Mettre au frais verte bloque le mûrissement et la fait pourrir.",
+        "de": "Reif in Zeitung gewickelt im Gemüsefach lagern; in 3-4 Tagen verzehren. Unreif kühlen führt zu Kälteschäden und Fäulnis ohne Reife.",
+        "pt": "Uma vez madura, embrulhe em jornal e guarde na gaveta de vegetais; consuma em até 4 dias. Refrigerar verde causa danos por frio e apodrece.",
+        "id": "Jika matang, bungkus koran dan taruh di laci sayur; konsumsi dalam 3-4 hari. Kulkas merusak mangga mentah sehingga busuk tanpa matang."
+      },
+      "sources": [
+        "USDA",
+        "FDA"
+      ]
+    }
+  }
+}

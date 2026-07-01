@@ -1,0 +1,55 @@
+{
+  "id": "pizza",
+  "category": "etc",
+  "emoji": "🍕",
+  "isProcessed": true,
+  "names": {
+    "ko": "남은 피자",
+    "en": "Leftover Pizza",
+    "ja": "残ったピザ",
+    "zh": "吃剩的披萨",
+    "es": "Pizza sobrante",
+    "fr": "Reste de pizza",
+    "de": "Übriggebliebene Pizza",
+    "pt": "Sobras de pizza",
+    "id": "Sisa pizza"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "냉장고에 그냥 두면 도우의 수분이 다 빠져 딱딱해집니다. 지퍼백에 밀봉하여 넣고, 해동 시 물 한 컵과 함께 전자레인지에 데우세요.",
+        "en": "Dries out if left open. Seal in bags and microwave with a cup of water to restore softness when reheating.",
+        "ja": "そのまま冷蔵すると生地の水分が抜けて固くなります。保存袋で密閉し、解凍時は水一杯と一緒にレンジで温めてください。",
+        "zh": "直接冷藏会导致饼底水分流失变硬。密封在防潮袋中，重温时与一杯水一起微波加热可恢复松软。",
+        "es": "Se reseca si se deja abierta. Séllela en bolsas y caliéntela en el microondas con un vaso de agua.",
+        "fr": "S’assèche si laissée à l’air libre. Filmez-la et réchauffez-la au micro-ondes avec un verre d’eau.",
+        "de": "Trocknet offen aus. In Beuteln verschließen. Zum Aufwärmen mit einer Tasse Wasser in die Mikrowelle stellen.",
+        "pt": "Resseca se deixada aberta. Vede em sacos e aqueça no micro-ondas com um copo de água para reidratar.",
+        "id": "Mengering jika dibiarkan terbuka. Segel dalam kantong plastik dan microwave dengan secangkir air."
+      },
+      "sources": [
+        "USDA",
+        "FSA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "한 조각씩 랩으로 감싸진 지퍼백에 넣어 냉동하세요. 에어프라이어 180도에 5분 돌리면 갓 구운 피자처럼 맛있어집니다.",
+        "en": "Wrap slices individually in plastic wrap and freeze. Bake at 180°C for 5 minutes in an air fryer for a fresh taste.",
+        "ja": "1枚ずつラップで包み保存袋に入れて冷凍します。エアフライヤー180度で5分温めると焼きたてのように戻ります。",
+        "zh": "单片用保鲜膜包裹后装入密封袋中冷冻。用空气炸锅180度烤5分钟，口感能恢复如新烤好一般。",
+        "es": "Envuelva las rodajas individualmente y congélelas. Hornee a 180 °C durante 5 minutos en freidora de aire.",
+        "fr": "Filmez les tranches séparément et congelez-les. Passez-les 5 min à l’air fryer à 180 °C pour un goût frais.",
+        "de": "Scheiben einzeln einwickeln und gefrieren. Für frischen Geschmack 5 Min. bei 180 °C in die Heißluftfritteuse geben.",
+        "pt": "Embrulhe as fatias individualmente e congele. Aqueça na air fryer a 180°C por 5 minutos para dourar.",
+        "id": "Bungkus potongan per lembar lalu bekukan. Panggang di air fryer 180°C selama 5 menit agar renyah."
+      },
+      "sources": [
+        "USDA",
+        "FSA"
+      ]
+    }
+  }
+}

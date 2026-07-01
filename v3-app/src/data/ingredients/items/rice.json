@@ -1,0 +1,37 @@
+{
+  "id": "rice",
+  "category": "grain",
+  "emoji": "🍚",
+  "isProcessed": false,
+  "names": {
+    "ko": "쌀",
+    "en": "Rice",
+    "ja": "米",
+    "zh": "大米",
+    "es": "Arroz",
+    "fr": "Riz",
+    "de": "Reis",
+    "pt": "Arroz",
+    "id": "Beras"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "햇빛을 받으면 건조해져 쌀알이 갈라지고 영양이 소실됩니다. 밀폐하여 서늘하고 어두운 상온에 두거나, 생수용 페트병에 담아 김치냉장고에 넣으면 쌀벌레가 생기지 않습니다.",
+        "en": "Sunlight dehydrates and cracks grains. Seal in dark containers at room temp, or pour into clean plastic bottles and refrigerate to prevent weevils.",
+        "ja": "直射日光にあたると米粒が割れて風味が落ちます。密閉して涼しい暗所に保管するか、空ペットボトルに入れて冷蔵庫で保管してください。虫除けになります。",
+        "zh": "受光照会发干开裂降低营养。密封存放在阴凉干燥避光处，或灌入干净的塑料饮料瓶内放入冷藏箱，可有效预防生虫。",
+        "es": "El sol deshidrata el grano. Selle en contenedores oscuros a temperatura ambiente, o en botellas y refrigere para evitar gorgojos.",
+        "fr": "Le soleil fend les grains. Conservez fermé à l’ombre ou versez dans des bouteilles au frigo pour éviter les charançons.",
+        "de": "Sonnenlicht rissig macht. Luftdicht dunkel lagern oder in Plastikflaschen im Kühlschrank aufbewahren gegen Rüsselkäfer.",
+        "pt": "A luz solar racha o grão. Vede em potes escuros ou guarde em garrafas plásticas limpas na geladeira para evitar caruncho.",
+        "id": "Sinar matahari merusak beras. Segel di wadah gelap, atau masukkan botol plastik lalu dinginkan agar bebas kutu."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

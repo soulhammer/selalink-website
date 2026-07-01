@@ -1,0 +1,58 @@
+{
+  "id": "chicken",
+  "iconImage": "/assets/images/apps/freshself/ingredients/chicken.png",
+  "category": "meat",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "닭고기",
+    "en": "Chicken",
+    "ja": "鶏肉",
+    "zh": "鸡肉",
+    "es": "Pollo",
+    "fr": "Poulet",
+    "de": "Hähnchen",
+    "pt": "Frango",
+    "id": "Daging ayam"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 2,
+      "tips": {
+        "ko": "가장 부패하기 쉽습니다. 물로 씻으면 식중독 세균(캠필로박터)이 싱크대 주변에 튀어 전염되므로 씻지 말고 조리 전에만 물기를 닦으세요.",
+        "en": "Highly perishable. Washing raw chicken splashes bacteria. Do not wash; wipe moisture right before cooking.",
+        "ja": "非常に傷みやすいです。生で水洗いすると食中毒菌がシンクに飛び散り危険です。洗わずに調理直前にペーパーで拭いてください。",
+        "zh": "极易变质。水洗会使致病菌（弯曲杆菌）溅洒污染洗手池周围，切勿水洗，在下锅烹饪前擦干即可。",
+        "es": "Muy perecedero. Lavar el pollo crudo esparce bacterias. No lo lave; seque con papel justo antes de cocinar.",
+        "fr": "Très périssable. Laver le poulet cru projette des bactéries. Ne le lavez pas ; essuyez-le avant cuisson.",
+        "de": "Sehr leicht verderblich. Geflügel nicht waschen, um Keime im Spülbecken zu vermeiden. Vor dem Kochen abtupfen.",
+        "pt": "Altamente perecível. Lavar o frango espalha bactérias na pia. Não lave, apenas seque antes de cozinhar.",
+        "id": "Sangat mudah busuk. Mencuci ayam mentah menyebarkan bakteri. Jangan dicuci; lap kering sebelum dimasak."
+      },
+      "sources": [
+        "USDA",
+        "MFDS",
+        "CDC"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "뼈가 있는 닭고기는 해동 시 뼈 주변 핏물이 먼저 상할 수 있으므로, 뼈를 미리 손질하고 살코기 위주로 얼려 보관하는 것이 안전합니다.",
+        "en": "Bone-in chicken spoils faster near bones when thawing. Debone and freeze meat slices for safety.",
+        "ja": "骨付き肉は解凍時に骨の周りから傷むことがあります。骨を取り除き、身の部分だけを冷凍する方が安全です。",
+        "zh": "带骨鸡肉在解冻时，骨头周围可能先变质。为了安全，建议剔除骨头后只冷冻纯肉。",
+        "es": "El pollo con hueso se daña antes al deshelar. Deshuese y congele solo la carne por seguridad.",
+        "fr": "Le poulet avec os se gâte plus vite à la décongélation. Désossez-le et congelez la chair.",
+        "de": "Geflügel mit Knochen verdirbt beim Auftauen am Knochen schneller. Ausbeinen und einfrieren.",
+        "pt": "Frango com osso estraga mais rápido perto dos ossos ao degelar. Retire os ossos e congele a carne para segurança.",
+        "id": "Ayam bertulang cepat busuk di sekitar tulang saat dicairkan. Buang tulang dan bekukan dagingnya."
+      },
+      "sources": [
+        "USDA",
+        "MFDS",
+        "CDC"
+      ]
+    }
+  }
+}

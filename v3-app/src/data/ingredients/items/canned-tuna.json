@@ -1,0 +1,56 @@
+{
+  "id": "canned-tuna",
+  "iconImage": "/assets/images/apps/freshself/ingredients/canned-tuna.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "참치통조림",
+    "en": "Canned Tuna",
+    "ja": "ツナ缶",
+    "zh": "金枪鱼罐头",
+    "es": "Atún en lata",
+    "fr": "Thon en boîte",
+    "de": "Thunfischdose",
+    "pt": "Atum em lata",
+    "id": "Tuna kaleng"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 9999,
+      "tips": {
+        "ko": "개봉 전에는 서늘하고 건조한 상온에 보관하면 매우 오래 두고 드실 수 있습니다.",
+        "en": "Unopened cans keep for years in a cool, dry pantry.",
+        "ja": "未開封の状態なら、直射日光を避けた涼しい常温で長期間保存できます。",
+        "zh": "未开封前存放在凉爽干燥的常温下，可保存非常久的时间。",
+        "es": "Las latas sin abrir duran años en una despensa fresca y seca.",
+        "fr": "Les boîtes non ouvertes se conservent des années dans un placard sec.",
+        "de": "Ungeöffnete Dosen halten sich jahrelang an einem kühlen, trockenen Ort.",
+        "pt": "Latas fechadas duram anos em local seco e fresco.",
+        "id": "Kaleng yang belum dibuka awet bertahun-tahun di tempat yang sejuk dan kering."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "⚠️ 개봉 즉시 캔 내부 주석/쇳가루가 부식하기 시작해 매우 유해합니다. 남은 참치는 반드시 유리/밀폐용기에 덜어 기름과 함께 냉장 보관하고 3일 내 드세요.",
+        "en": "⚠️ Once opened, the can rusts rapidly. Transfer tuna and oil to an airtight glass or plastic container and refrigerate.",
+        "ja": "⚠️ 開封後は缶の内面が酸化・腐食しやすいため非常に危険です。中身を必ず別の密閉ガラスまたはプラスチック容器に移し替え、3日以内に使い切ってください。",
+        "zh": "⚠️ 开封后铁罐内壁会迅速腐蚀。余下的部分务必倒入玻璃或密封容器中，连同油脂冷藏保存，并在3天内食用完毕。",
+        "es": "⚠️ Tras abrir, la lata se oxida rápido. Transfiera el atún y el aceite a un contenedor hermético de vidrio o plástico.",
+        "fr": "⚠️ Une fois ouverte, la boîte s’oxyde vite. Transférez le thon et son huile dans un récipient en verre ou plastique.",
+        "de": "⚠️ Nach dem Öffnen oxidiert die Dose rasch. Thunfisch und Öl in einen luftdichten Glas- oder Kunststoffbehälter umfüllen.",
+        "pt": "⚠️ Após aberto, a lata oxida rápido. Transfira o atum e o óleo para um pote de vidro ou plástico e refrigere.",
+        "id": "⚠️ Setelah dibuka, kaleng cepat berkarat. Pindahkan tuna dan minyaknya ke wadah kaca atau plastik lalu dinginkan."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

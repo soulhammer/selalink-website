@@ -1,0 +1,77 @@
+{
+  "id": "nuts",
+  "iconImage": "/assets/images/apps/freshself/ingredients/nuts.png",
+  "category": "etc",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "견과류",
+    "en": "Nuts",
+    "ja": "ナッツ",
+    "zh": "坚果",
+    "es": "Frutos secos",
+    "fr": "Fruits secs",
+    "de": "Nüsse",
+    "pt": "Nozes",
+    "id": "Kacang-kacangan"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 15,
+      "tips": {
+        "ko": "불포화지방산이 풍부해 산소와 접촉하면 쉽게 찌든 내(산패)가 납니다. 지퍼백에 산소흡수제와 함께 완전 밀봉하여 어두운 상온에 두세요.",
+        "en": "High unsaturated fat causes rapid oxidation. Seal tightly with oxygen absorbers in a dark pantry.",
+        "ja": "不飽和脂肪酸が多く空気に触れるとすぐ油臭く（酸化）なります. 保存袋에 脫酸素劑와 함께 밀봉해 凉しい暗所に保管해 주세요.",
+        "zh": "富含不饱和脂肪酸, 接触空气极易变哈拉（酸败）. 请装入密封袋并放入脱氧剂置于避光常温处。",
+        "es": "El alto contenido de grasas insaturadas oxida el producto. Selle herméticamente en un lugar oscuro.",
+        "fr": "Les graisses insaturées s’oxydent vite. Fermez hermétiquement avec absorbeur d’oxygène à l’obscurité.",
+        "de": "Ungesättigte Fettsäuren oxidieren schnell. Luftdicht mit Sauerstoffabsorber dunkel lagern.",
+        "pt": "Gorduras insaturadas oxidam rapidamente. Vede bem com absorvedores de oxigênio em local escuro.",
+        "id": "Lemak tak jenuh memicu oksidasi cepat. Segel rapat dengan penyerap oksigen di tempat gelap."
+      },
+      "sources": [
+        "MFDS",
+        "USDA",
+        "FDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "여름철에는 실온 보관 시 곰팡이가 피어 아플라톡신(발암 독소)이 생길 수 있으므로 지퍼백에 꽉 밀봉하여 냉장 보관하는 것이 비교적 안전합니다.",
+        "en": "Refrigerate in tightly sealed bags during hot weather to prevent toxic mold (aflatoxin) growth.",
+        "ja": "夏場など常温で置くとカビから発がん性毒素（アフラトキシン）が生じる恐れがあります. 袋に密閉して冷蔵してください。",
+        "zh": "夏季若在常温下保存极易发霉滋生黄曲霉毒素（致癌物）. 因此建议密封后冷藏保存。",
+        "es": "Refrigere en bolsas herméticas con calor para evitar moho tóxico (aflatoxina).",
+        "fr": "Réfrigérez en sachet bien fermé par temps chaud pour éviter les moisissures toxiques (aflatoxines).",
+        "de": "Bei warmem Wetter im Kühlschrank in dicht geschlossenen Beuteln lagern, um Schimmelbildung (Aflatoxin) zu verhindern.",
+        "pt": "Refrigere em sacos bem vedados sob clima quente para evitar o crescimento de mofo tóxico (aflatoxina).",
+        "id": "Dinginkan dalam kantong tersegel rapat saat cuaca panas untuk mencegah jamur beracun (aflatoksin)."
+      },
+      "sources": [
+        "MFDS",
+        "USDA",
+        "FDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "수분과 산소를 차단하는 지퍼백에 넣어 이중 밀봉한 뒤 냉동 보관하는 것이 견과류의 고소함을 끝까지 지키는 가장 좋은 보관법입니다.",
+        "en": "Double-bagging and freezing is the best way to prevent rancidity and preserve the nutty crunch.",
+        "ja": "湿気와 산소를 차단하는 지퍼백에 넣어 이중 밀폐해 냉동 보관하면, 견과류의 풍미와 아삭함을 오래 유지할 수 있습니다.",
+        "zh": "放入阻隔水分和空气的密封袋中进行双重包装后冷冻, 是保持坚果酥脆香浓的最佳方案。",
+        "es": "Usar doble bolsa y congelar es el mejor método para evitar la rancidez y conservar la textura crujiente.",
+        "fr": "Doubler le sachet et congeler est le meilleur moyen d’éviter le rance et de garder le croquant.",
+        "de": "Doppelt verpackt einfrieren ist der beste Weg, um Ranzigkeit zu vermeiden und den Biss zu erhalten.",
+        "pt": "Usar saco duplo e congelar é a melhor forma de evitar o ranço e manter a crocância típica.",
+        "id": "Bungkus ganda dan bekukan adalah cara terbaik mencegah tengik dan menjaga kerenyahannya."
+      },
+      "sources": [
+        "MFDS",
+        "USDA",
+        "FDA"
+      ]
+    }
+  }
+}

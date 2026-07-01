@@ -1,0 +1,79 @@
+{
+  "id": "enoki-mushroom",
+  "iconImage": "/assets/images/apps/freshself/ingredients/enoki-mushroom.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "팽이버섯",
+      "팽이",
+      "버섯보관",
+      "영양소농축",
+      "키토산"
+    ],
+    "en": [
+      "enoki mushroom",
+      "golden needle mushroom",
+      "enoki"
+    ],
+    "ja": [
+      "えのき茸",
+      "エノキ",
+      "えのき"
+    ],
+    "zh": [
+      "金针菇",
+      "构菌"
+    ]
+  },
+  "names": {
+    "ko": "팽이버섯",
+    "en": "Enoki Mushroom",
+    "ja": "えのき茸 / エノキ",
+    "zh": "金针菇",
+    "es": "Seta enoki",
+    "fr": "Enoki",
+    "de": "Enoki-Pilz",
+    "pt": "Cogumelo enoki",
+    "id": "Jamur enoki"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 5,
+      "tips": {
+        "ko": "씻지 말고 포장 봉지 그대로 겉을 키친타월로 가볍게 싸서 채소실에 세워 보관하며 3~4일 내에 드세요. 물기가 닿으면 금방 물러집니다.",
+        "en": "Do not wash. Keep in original bag, wrap in paper towels, and store upright in the crisper drawer. Use in 3–4 days.",
+        "ja": "씻지 않은 채로 포장 비닐째 키친타월로 감싸 채소칸에 세워서 보관하며 3~4일 안에 다 드셔야 신선합니다.",
+        "zh": "请勿清洗。保留原袋，用厨房纸包在外面，竖立存放在蔬菜室中。在3-4天内食用完。极怕潮湿。",
+        "es": "No lave. Conserve en su bolsa, envuelva en papel de cocina y guarde de pie en el cajón. Use en 3-4 días.",
+        "fr": "Ne lavez pas. Laissez dans le sachet, enveloppez de papier absorbant et stockez debout. Consommez sous 3-4 jours.",
+        "de": "Nicht waschen. In Originalverpackung belassen, Küchenpapier drumwickeln und aufrecht kühlen. In 3-4 Tagen verbrauchen.",
+        "pt": "Não lave. Mantenha no saco, envolva em papel-toalha e guarde em pé na gaveta. Consuma em até 4 dias.",
+        "id": "Jangan cuci. Biarkan di kemasan, alas tisu, lalu taruh tegak di laci sayur. Gunakan dalam 3-4 hari."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "밑동을 잘라 찢어 지퍼백에 냉동 보관하면 감칠맛(구아닐산)이 올라갑니다. 요리할 때 해동 없이 즉시 넣으면 식감이 아삭합니다.",
+        "en": "Cut roots, shred, and freeze in bags. Freezing boosts flavor (guanylic acid). Add directly to dishes while cooking without thawing.",
+        "ja": "밑동을 잘라내 찢어서 냉동 보관하면 감칠맛(구아닐산)이 훨씬 우러납니다. 요리할 때 해동 없이 바로 국에 넣으면 아삭합니다.",
+        "zh": "切除根部并撕开,放入密封袋中冷冻,可提升甘甜口感（鸟苷酸）。烹饪时无需解冻，直接加入可保持爽脆。",
+        "es": "Corte raíces, deshebre y congele. Congelar resalta el sabor (ácido guanílico). Añada directo al cocinar sin descongelar.",
+        "fr": "Coupez les pieds, effeuillez et congelez. Cela libère plus de saveurs. Jetez-les directement congelés dans vos cuissons.",
+        "de": "Strunck abschneiden, zerteilen und einfrieren. Gefrieren steigert das Aroma (Guanylsäure). Direkt gefroren verwenden.",
+        "pt": "Corte a base, desfie e congele. Congelar realça o sabor (ácido guanílico). Adicione direto nas receitas sem descongelar.",
+        "id": "Potong pangkal, suwir, lalu bekukan. Bekukan meningkatkan rasa (asam guanilat). Langsung masak tanpa dicairkan."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

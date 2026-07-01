@@ -1,0 +1,56 @@
+{
+  "id": "sausage",
+  "iconImage": "/assets/images/apps/freshself/ingredients/sausage.png",
+  "category": "meat",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "소시지",
+    "en": "Sausage",
+    "ja": "ソーセージ",
+    "zh": "香肠/热狗肠",
+    "es": "Salchicha",
+    "fr": "Saucisse",
+    "de": "Würstchen",
+    "pt": "Salsicha",
+    "id": "Sosis"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "개봉 전에는 유통기한을 따르되 개봉 시 밀폐 지퍼백에 넣어 두세요. 요리용 칼집을 넣은 상태로 보관 시 단면을 통해 급격히 변질됩니다.",
+        "en": "Follow package dates if unopened. Once opened, store in zip bags; do not slash or slice before storing.",
+        "ja": "未開封ならパッケージの期限に従い、開封後は保存袋へ。切れ目を入れた状態で保存すると傷みが早くなります。",
+        "zh": "未开封前遵循包装期限，开封后装入密封袋。千万不要切开或改刀后再保存，这会导致肉肠极速变质。",
+        "es": "Siga las fechas del envase si no está abierto. Abierto, guarde en bolsas; no corte antes de almacenar.",
+        "fr": "Suivez la date d’emballage si fermé. Ouvert, stockez en sachet hermétique ; ne les entaillez pas avant.",
+        "de": "Ungeöffnet nach Packungsdatum lagern. Nach dem Öffnen in Beutel legen. Nicht vor der Lagerung einschneiden.",
+        "pt": "Siga a data da embalagem se fechado. Após aberto, guarde em sacos vedados; não faça cortes antes.",
+        "id": "Ikuti tanggal kemasan jika utuh. Setelah dibuka, simpan dalam kantong; jangan diiris sebelum disimpan."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 60,
+      "tips": {
+        "ko": "요리에 바로 사용할 수 있게 소분하거나 어슷썰기하여 지퍼백에 넓게 펴서 얼리세요.",
+        "en": "Slice or portion into cooking sizes and freeze flat in freezer bags.",
+        "ja": "調理にすぐ使えるよう好みのサイズに切ってから、保存袋に平らに広げて冷凍してください。",
+        "zh": "可切片或分装成每次烹饪的大小，在密封袋中摊平冷冻。",
+        "es": "Corte en rodajas o porciones y congele planas en bolsas de congelación.",
+        "fr": "Coupez-les en rondelles ou en portions et congelez à plat en sachet.",
+        "de": "In Scheiben schneiden oder portionieren und flach in Gefrierbeuteln einfrieren.",
+        "pt": "Fatie ou divida em porções e congele em sacos bem espalhados.",
+        "id": "Potong-potong sesuai porsi masak dan bekukan mendatar dalam kantong."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

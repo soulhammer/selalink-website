@@ -1,0 +1,56 @@
+{
+  "id": "anchovy",
+  "iconImage": "/assets/images/apps/freshself/ingredients/anchovy.png",
+  "category": "seafood",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "멸치",
+    "en": "Anchovy",
+    "ja": "煮干し/カタクチイワシ",
+    "zh": "鳀鱼/小银鱼",
+    "es": "Anchoa",
+    "fr": "Anchois",
+    "de": "Sardelle",
+    "pt": "Anchova",
+    "id": "Ikan teri"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "개봉한 마른 멸치를 고온다습한 실온에 두면 벌레가 생기거나 누룩 곰팡이가 피기 쉽습니다. 단기 보관 시에만 건조하고 서늘한 곳에 밀봉 보관하세요.",
+        "en": "Molds and pests easily breed in humid climates. Keep in a dry, cool place for short term only.",
+        "ja": "開封済みの煮干しを高温多湿の常温に置くとカビや虫が付きやすいです. 短기 보관만, 건조하고 서늘한 곳에서 밀폐 보관해 주세요.",
+        "zh": "已开封的干银鱼在高温潮湿常温下极易生虫或发霉. 仅限短期保存时密封放在干燥凉爽处。",
+        "es": "Los mohos y plagas crecen en climas húmedos. Guarde en un lugar fresco y seco solo a corto plazo.",
+        "fr": "Moisissures et insectes adorent l’humidité. Conservez fermé au sec et au frais à court terme seulement.",
+        "de": "Schimmel und Schädlinge vermehren sich bei Feuchtigkeit. Nur kurzfristig trocken und kühl lagern.",
+        "pt": "Mofo e insetos proliferam em umidade. Guarde fechado em local seco e fresco apenas a curto prazo.",
+        "id": "Jamur dan serangga mudah berkembang di cuaca lembap. Simpan kering dan sejuk untuk jangka pendek saja."
+      },
+      "sources": [
+        "NIFS",
+        "KCA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "멸치를 프라이팬에 기름 없이 가볍게 볶아 습기를 날린 후, 식혀서 지퍼백에 밀봉해 냉동 보관하면 비린내 없이 오래 유지됩니다.",
+        "en": "Pan-fry without oil to remove moisture, cool, and freeze in sealed bags to keep crunchy and odor-free.",
+        "ja": "油를 두르지 않고 프라이팬에서 가볍게 볶아 습기를 날리고, 식혀서 지퍼백에 밀봉해 냉동 보관하면 오래 보관할 수 있습니다.",
+        "zh": "放入无油炒锅中轻炒以除去水分, 晾凉后装入密封袋冷冻, 可保持无腥味和爽脆口感。",
+        "es": "Tueste ligeramente sin aceite para secar, enfríe y congele en bolsas herméticas para conservar la textura.",
+        "fr": "Faites griller à sec à la poêle, laissez refroidir et congelez en sachet pour bloquer les odeurs.",
+        "de": "Ohne Öl kurz in der Pfanne anrösten, abkühlen lassen und in Beuteln gefrieren gegen Gerüche.",
+        "pt": "Toste levemente sem óleo na frigideira para secar, esfrie e congele em sacos herméticos para evitar odores.",
+        "id": "Sangrai tanpa minyak untuk menghilangkan kelembapan, dinginkan, lalu bekukan dalam kantong plastik."
+      },
+      "sources": [
+        "NIFS",
+        "KCA"
+      ]
+    }
+  }
+}

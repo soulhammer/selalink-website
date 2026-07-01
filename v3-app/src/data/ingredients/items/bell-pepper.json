@@ -1,0 +1,37 @@
+{
+  "id": "bell-pepper",
+  "category": "vegetable",
+  "emoji": "🫑",
+  "isProcessed": false,
+  "names": {
+    "ko": "파프리카",
+    "en": "Bell Pepper",
+    "ja": "パプリカ",
+    "zh": "彩椒/甜椒",
+    "es": "Pimiento",
+    "fr": "Poivron",
+    "de": "Paprika",
+    "pt": "Pimentão",
+    "id": "Paprika"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "물기를 완전히 말린 후 랩으로 하나씩 감싸 냉장 보관하세요. 꼭지 부분이 먼저 상하므로 꼭지 주위 물기 제거가 중요합니다.",
+        "en": "Dry completely, wrap individually in plastic wrap, and refrigerate. Stems spoil first; ensure dry stems.",
+        "ja": "水気を完全に乾かし、1つずつラップで包んで冷蔵保存します。ヘタから傷みやすいので乾燥が重要です.",
+        "zh": "彻底晾干水分后用保鲜膜逐个包裹冷藏。果蒂部分极易先腐烂，因此擦干果蒂周围水分至关重要。",
+        "es": "Seque por completo, envuelva en film y refrigere. Los tallos se dañan antes; séquelos bien.",
+        "fr": "Séchez complètement, filmez individuellement et réfrigérez. La tige s’abîme en premier.",
+        "de": "Vollständig trocknen, einzeln in Folie einwickeln und kühlen. Stiele verderben zuerst.",
+        "pt": "Seque tudo, embrulhe em filme e refrigere. O pedúnculo mofa primeiro; garanta que esteja seco.",
+        "id": "Keringkan, bungkus plastik wrap, dinginkan. Tangkai cepat busuk; pastikan tangkai kering."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "yogurt",
+  "iconImage": "/assets/images/apps/freshself/ingredients/yogurt.png",
+  "category": "dairy",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "요거트",
+    "en": "Yogurt",
+    "ja": "ヨーグルト",
+    "zh": "酸奶",
+    "es": "Yogur",
+    "fr": "Yaourt",
+    "de": "Joghurt",
+    "pt": "Iogurte",
+    "id": "Yoghurt"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 10,
+      "tips": {
+        "ko": "미개봉 상태에서 온도가 잘 유지되면 유통기한 경과 후에도 최대 2주 가량 섭취 가능하나, 개봉했다면 내부에 침이나 균이 들어가 2~3일 내 다 드셔야 합니다.",
+        "en": "Unopened yogurt stays safe up to 2 weeks past expiry under cold storage. Once opened, consume within 2-3 days.",
+        "ja": "未開封で適温保存されていれば期限後も約2週間持ちます。開封後は雑菌が入るため2〜3日中に消費してください。",
+        "zh": "未开封状态下若冷藏温度稳定，过期后最长2周仍可食用；开封后因混入杂菌，必须在2-3天内吃完。",
+        "es": "Cerrado dura hasta 2 semanas tras expirar. Abierto, consuma en 2-3 días para evitar bacterias.",
+        "fr": "Non ouvert, il reste propre 2 semaines après date. Ouvert, consommez sous 2-3 jours par sécurité.",
+        "de": "Ungeöffnet bis zu 2 Wochen nach Ablauf haltbar. Nach dem Öffnen innerhalb von 2-3 Tagen verbrauchen.",
+        "pt": "Fechado dura até 2 semanas após o vencimento. Aberto, consuma em 2-3 dias devido à saliva e fungos.",
+        "id": "Kemasan utuh aman hingga 2 minggu setelah kedaluwarsa. Setelah dibuka, habiskan dalam 2-3 hari."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

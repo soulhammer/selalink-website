@@ -1,0 +1,61 @@
+{
+  "id": "mung-bean-sprouts",
+  "iconImage": "/assets/images/apps/freshself/ingredients/mung-bean-sprouts.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "숙주나물",
+      "숙주",
+      "녹두나물",
+      "나물보관"
+    ],
+    "en": [
+      "mung bean sprouts",
+      "bean sprouts",
+      "sprouts"
+    ],
+    "ja": [
+      "もやし",
+      "緑豆もやし",
+      "モヤシ"
+    ],
+    "zh": [
+      "绿豆芽",
+      "豆芽",
+      "牙菜"
+    ]
+  },
+  "names": {
+    "ko": "숙주나물",
+    "en": "Mung Bean Sprouts",
+    "ja": "もやし",
+    "zh": "绿豆芽",
+    "es": "Brotes de soja verde",
+    "fr": "Pousses de haricot mungo",
+    "de": "Mungbohnensprossen",
+    "pt": "Broto de feijão",
+    "id": "Toge kacang hijau"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "밀폐용기에 숙주가 완전히 잠기도록 찬물을 부어 보관하고 물은 매일 갈아주세요. 공기 접촉을 차단해야 갈변과 무름을 막을 수 있습니다.",
+        "en": "Submerge sprouts fully in cold water in an airtight container and change water daily. Blocking air contact prevents browning and rot.",
+        "ja": "密閉容器にもやしが完全に浸るよう冷水を注いで保管し、水は毎日交換します。空気に触れさせないことで変色と傷みを防ぎます。",
+        "zh": "将豆芽完全浸泡在装有冷水的密封容器中，每天换水。隔绝空气接触可防止变褐和发烂。",
+        "es": "Sumerja por completo en agua fría en un recipiente hermético y cambie el agua a diario. Evitar el aire previene que se oxiden y pudran.",
+        "fr": "Immergez complètement dans de l’eau froide en boîte étanche et changez l’eau chaque jour. Éviter l’air empêche le brunissement.",
+        "de": "Sprossen komplett in kaltes Wasser in einer Dose einlegen, Wasser täglich wechseln. Luftkontakt meiden, um Fäulnis zu verhindern.",
+        "pt": "Submirja os brotos totalmente em água fria em um pote hermético e troque a água diariamente. Evitar o ar previne o escurecimento.",
+        "id": "Rendam toge sepenuhnya dalam air dingin di wadah kedap, ganti air setiap hari. Mencegah kontak udara menjaga warna tetap putih."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

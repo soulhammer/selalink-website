@@ -1,0 +1,56 @@
+{
+  "id": "ham",
+  "iconImage": "/assets/images/apps/freshself/ingredients/ham.png",
+  "category": "meat",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "햄",
+    "en": "Ham",
+    "ja": "ハム",
+    "zh": "火腿",
+    "es": "Jamón",
+    "fr": "Jambon",
+    "de": "Schinken",
+    "pt": "Presunto",
+    "id": "Daging ham"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 4,
+      "tips": {
+        "ko": "개봉 후 남은 슬라이스 햄은 단면이 빠르게 건조해지고 상합니다. 개별 랩핑하여 지퍼백에 완전히 진공 밀봉하여 냉장 보관하세요.",
+        "en": "Once opened, wrap tightly and seal in bags to prevent edges from drying. Use within 4 days.",
+        "ja": "開封後のスライスハムは断面が乾いて傷みやすいです. 1枚ずつラップで包み, 袋に密閉して冷蔵保存してください。",
+        "zh": "开封后吃剩的片状火腿切面会迅速变干且变质. 请用保鲜膜单独裹紧装入密封袋冷藏。",
+        "es": "Abierto, envuelva bien y selle en bolsas para evitar que se seque. Consuma en 4 días.",
+        "fr": "Une fois ouvert, filmez serré en sachet pour éviter le dessèchement des bords. Consommez sous 4 jours.",
+        "de": "Nach dem Öffnen gut einwickeln und in Beuteln lagern, um Austrocknen zu verhindern. In 4 Tagen verbrauchen.",
+        "pt": "Após aberto, embrulhe bien e guarde em sacos vedados para não ressecar as bordas. Consuma em até 4 dias.",
+        "id": "Setelah dibuka, bungkus rapat dan segel dalam kantong agar pinggirannya tidak kering. Gunakan dalam 4 hari."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 60,
+      "tips": {
+        "ko": "햄을 요리용 크기로 깍둑썰기하거나 소분하여 겹겹이 종이 호일을 끼우고 랩핑한 뒤 얼려두면 요리 시 즉시 넣기 수월합니다.",
+        "en": "Dice or slice, separate layers with parchment paper, wrap, and freeze for easy cooking.",
+        "ja": "料理의 用途에 맞게 사각썰기 또는 소분하여, 크래프트 종이 호일을 끼워 랩으로 싸서 얼려두면 편리합니다.",
+        "zh": "切成丁状或分装, 中间夹防油纸, 包裹后冷冻, 以便在烹饪时直接取出下锅。",
+        "es": "Corte en dados, separe las capas con papel vegetal, envuelva y congele para facilitar el cocinado.",
+        "fr": "Coupez en dés ou tranches, séparez avec du papier cuisson, filmez et congelez pour cuisiner facile.",
+        "de": "Würfeln, Schichten mit Backpapier trennen, einwickeln und einfrieren für schnelles Kochen.",
+        "pt": "Corte em cubos ou fatias, separe as camadas com papel-manteiga, embrulhe e congele para facilitar.",
+        "id": "Potong dadu atau iris, beri sekat kertas roti, bungkus, lalu bekukan untuk memudahkan memasak."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "curry-powder",
+  "iconImage": "/assets/images/apps/freshself/ingredients/curry-powder.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "카레가루",
+      "카레",
+      "향신료",
+      "카레보관",
+      "카레보관법"
+    ],
+    "en": [
+      "curry powder",
+      "curry spice",
+      "spices"
+    ],
+    "ja": [
+      "カレー粉",
+      "カレーパウダー",
+      "香辛料"
+    ],
+    "zh": [
+      "咖喱粉",
+      "香料"
+    ]
+  },
+  "names": {
+    "ko": "카레 가루",
+    "en": "Curry Powder",
+    "ja": "カレー粉",
+    "zh": "咖喱粉",
+    "es": "Curry en polvo",
+    "fr": "Curry en poudre",
+    "de": "Currypulver",
+    "pt": "Curry em pó",
+    "id": "Bubuk kari"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "미개봉 상태일 경우 직사광선이 닿지 않고 습도가 낮은 서늘한 그늘(팬트리)에 보관하세요.",
+        "en": "If unopened, store in a cool, dry, and dark pantry away from direct sunlight.",
+        "ja": "개봉하지 않은 것은 직사광선이 없고 습도가 적은 서늘한 그늘(팬트리)에 보관하세요.",
+        "zh": "未开封时，请存放在避免阳光直射、湿度低的阴凉避光处（食品储藏室）。",
+        "es": "Unopened, store in a cool, dry, dark place (pantry) away from direct sunlight.",
+        "fr": "Non ouvert, stockez dans un endroit frais, sec et sombre, à l’abri du soleil.",
+        "de": "Ungeöffnet an einem kühlen, trockenen, dunklen Ort (Speisekammer) ohne direkte Sonne lagern.",
+        "pt": "Se fechado, guarde em local fresco, seco e escuro, longe da luz solar direta.",
+        "id": "Sebelum dibuka, simpan di tempat sejuk, kering, dan gelap terhindar dari sinar matahari."
+      },
+      "sources": [
+        "USDA"
+      ]
+    }
+  }
+}

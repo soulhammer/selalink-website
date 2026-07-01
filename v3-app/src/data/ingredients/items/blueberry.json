@@ -1,0 +1,55 @@
+{
+  "id": "blueberry",
+  "category": "fruit",
+  "emoji": "🫐",
+  "isProcessed": false,
+  "names": {
+    "ko": "블루베리",
+    "en": "Blueberry",
+    "ja": "ブルーベリー",
+    "zh": "蓝莓",
+    "es": "Arándano",
+    "fr": "Myrtille",
+    "de": "Blaubeere",
+    "pt": "Mirtilo",
+    "id": "Murbai"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "겉면의 하얀 가루는 신선도를 유지해 주는 천연 보호막입니다. 씻지 않은 상태로 키친타월을 깐 밀폐용기에 담아 보관하세요.",
+        "en": "The white bloom is a natural protective layer. Store unwashed in an airtight container lined with paper towel.",
+        "ja": "果粉（白い粉）は鮮度を保つ保護膜です。洗わずにペーパーを敷いた密閉容器に入れて保管してください。",
+        "zh": "白霜是保持新鲜度的天然保护层。在不清洗的状态下装入铺有厨房纸的密封容器中保存。",
+        "es": "El polvo blanco es protector. Guárdelos sin lavar en un recipiente hermético forrado con papel de cocina.",
+        "fr": "La pruine blanche est protectrice. Conservez-les non lavés dans un récipient fermé tapissé de papier.",
+        "de": "Der weiße Reif ist eine Schutzschicht. Ungewaschen in einer luftdichten, mit Papier ausgelegten Dose lagern.",
+        "pt": "O pó branco é uma proteção natural. Guarde sem lavar em pote hermético forrado com papel-toalha.",
+        "id": "Lapisan putih adalah pelindung alami. Simpan tanpa dicuci di wadah kedap udara beralas tisu dapur."
+      },
+      "sources": [
+        "USDA",
+        "RDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 365,
+      "tips": {
+        "ko": "냉동 보관할 때는 물로 깨끗이 씻은 후 물기를 완벽히 건조하여 지퍼백에 넣어 얼려 두세요.",
+        "en": "For freezing, wash thoroughly, dry completely, and freeze in sealed bags.",
+        "ja": "冷凍する場合は水できれいに洗い、水気を完全に乾かしてから保存袋に入れて凍らせてください。",
+        "zh": "冷冻保存时，请先用水洗净，彻底晾干水分后装入密封袋中冷冻。",
+        "es": "Para congelar, lávelos bien, séquelos por completo y congélelos en bolsas herméticas.",
+        "fr": "Pour congeler, lavez-les bien, séchez-les complètement et congelez-les dans des sacs hermétiques.",
+        "de": "Zum Einfrieren gründlich waschen, vollständig trocknen und in Gefrierbeuteln einfrieren.",
+        "pt": "Para congelar, lave bem, seque completamente e congele em sacos herméticos.",
+        "id": "Untuk dibekukan, cuci bersih, keringkan sepenuhnya, lalu bekukan di kantong segel."
+      },
+      "sources": [
+        "USDA",
+        "RDA"
+      ]
+    }
+  }
+}

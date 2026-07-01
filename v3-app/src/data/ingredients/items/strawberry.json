@@ -1,0 +1,37 @@
+{
+  "id": "strawberry",
+  "category": "fruit",
+  "emoji": "🍓",
+  "isProcessed": false,
+  "names": {
+    "ko": "딸기",
+    "en": "Strawberry",
+    "ja": "イチゴ",
+    "zh": "草莓",
+    "es": "Fresa",
+    "fr": "Fraise",
+    "de": "Erdbeere",
+    "pt": "Morango",
+    "id": "Stroberi"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 4,
+      "tips": {
+        "ko": "물이 닿으면 금방 물러집니다. 꼭지를 떼지 말고 씻지 않은 상태에서 밀폐용기 바닥에 키친타월을 깔고 겹치지 않게 담아 보관하세요.",
+        "en": "Moisture ruins strawberries. Keep unwashed with stems on, line container with paper towel, and do not layer.",
+        "ja": "水気がつくとすぐ傷みます。ヘタを取らずに洗わないまま、容器の底にペーパーを敷いて重ならないよう並べてください。",
+        "zh": "碰到水极易软烂。不要摘掉果蒂，在不洗的状态下，于密封容器底部铺上厨房纸，避免重叠放入保存。",
+        "es": "La humedad las daña. Guárdelas sin lavar y con tallo en un envase con papel de cocina, sin amontonar.",
+        "fr": "L’humidité les gâte vite. Gardez-les non lavées avec la queue, sur du papier absorbant sans les superposer.",
+        "de": "Feuchtigkeit verdirbt Erdbeeren. Ungewaschen mit Stiel lagern. Behälter mit Küchenpapier auslegen, nicht stapeln.",
+        "pt": "A água amolece os morangos. Guarde-os secos com pedúnculo, em pote forrado com papel-toalha e sem sobrepor.",
+        "id": "Air membuat stroberi cepat busuk. Jangan dicuci, biarkan tangkainya, alasi wadah dengan tisu dapur."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

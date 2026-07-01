@@ -1,0 +1,39 @@
+{
+  "id": "lettuce",
+  "iconImage": "/assets/images/apps/freshself/ingredients/lettuce.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "상추",
+    "en": "Lettuce",
+    "ja": "レタス",
+    "zh": "生菜",
+    "es": "Lechuga",
+    "fr": "Laitue",
+    "de": "Salat",
+    "pt": "Alface",
+    "id": "Selada"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "씻지 않은 상태에서 키친타월에 감싸 지퍼백에 넣어 밀봉 보관하세요. 씻었다면 물기를 완전히 빼야 짓무르지 않습니다.",
+        "en": "Wrap unwashed lettuce in paper towels and seal in a bag. If washed, dry completely to prevent rotting.",
+        "ja": "洗わずにキッチンペーパーで包み、保存袋に入れて密閉保存します。洗った場合は水気を完全に拭き取ってください。",
+        "zh": "不洗的情况下用厨房纸包裹，放入密封袋中密封保存。如果洗过，必须彻底控干水分以防烂叶。",
+        "es": "Envuelva la lechuga sin lavar en papel de cocina y séllela en una bolsa. Si la lava, séquela por completo.",
+        "fr": "Enveloppez la laitue non lavée dans du papier absorbant et fermez le sac. Si lavée, séchez-la bien.",
+        "de": "Ungewaschenen Salat in Küchenpapier wickeln und in einer Tüte verschließen. Nach dem Waschen gut trocknen.",
+        "pt": "Embrulhe a alface sem lavar em papel-toalha e sele num saco. Se lavar, seque completamente para não murchar.",
+        "id": "Bungkus selada yang belum dicuci dengan tisu dapur lalu segel. Jika dicuci, keringkan sepenuhnya."
+      },
+      "sources": [
+        "MFDS",
+        "RDA",
+        "EFSA"
+      ]
+    }
+  }
+}

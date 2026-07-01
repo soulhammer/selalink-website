@@ -1,0 +1,37 @@
+{
+  "id": "cucumber",
+  "category": "vegetable",
+  "emoji": "🥒",
+  "isProcessed": false,
+  "names": {
+    "ko": "오이",
+    "en": "Cucumber",
+    "ja": "きゅうり",
+    "zh": "黄瓜",
+    "es": "Pepino",
+    "fr": "Concombre",
+    "de": "Gurke",
+    "pt": "Pepino",
+    "id": "Timun"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 5,
+      "tips": {
+        "ko": "오이는 저온에 민감하므로 냉장고 야채칸에 보관하세요. 한 개씩 신문지로 싸서 꼭지가 위를 향하게 세워 보관하면 더 오래갑니다.",
+        "en": "Sensitive to cold, store in the crisper drawer. Wrap individually in newspaper and stand upright.",
+        "ja": "低温に弱いので野菜室で保存します。1本ずつ新聞紙に包んでヘタを上にして立てるとさらに長持ちします。",
+        "zh": "对低温敏感，请存放在冰箱蔬菜室中。用报纸单独包裹，蒂朝上竖着存放可以保持更久。",
+        "es": "Sensible al frío, guardar en el cajón de verduras. Envuelva individualmente y póngalo vertical.",
+        "fr": "Sensible au froid, stockez dans le bac à légumes. Enveloppez-les individuellement de journal et debout.",
+        "de": "Kälteempfindlich, im Gemüsefach lagern. Einzeln in Zeitungspapier wickeln und aufrecht hinstellen.",
+        "pt": "Sensível ao frio, guarde na gaveta de vegetais. Embrulhe individualmente em jornal e mantenha em pé.",
+        "id": "Sensitif dingin, simpan di laci sayur. Bungkus satu per satu dengan koran dan posisikan berdiri."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

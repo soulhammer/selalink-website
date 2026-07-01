@@ -1,0 +1,81 @@
+{
+  "id": "mandarin",
+  "category": "fruit",
+  "emoji": "🍊",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "귤",
+      "밀감",
+      "감귤",
+      "조생귤",
+      "제주귤",
+      "귤보관"
+    ],
+    "en": [
+      "mandarin",
+      "tangerine",
+      "citrus",
+      "mandarins"
+    ],
+    "ja": [
+      "みかん",
+      "温州みかん",
+      "ミカン"
+    ],
+    "zh": [
+      "橘子",
+      "柑橘",
+      "蜜橘"
+    ]
+  },
+  "names": {
+    "ko": "귤",
+    "en": "Mandarin",
+    "ja": "みかん",
+    "zh": "橘子",
+    "es": "Mandarina",
+    "fr": "Mandarine",
+    "de": "Mandarine",
+    "pt": "Mandarina / Mexerica",
+    "id": "Jeruk mandarin"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "바람이 잘 통하는 서늘한 실온에 서로 닿지 않게 종이상자나 바구니에 담아 보관하세요. 귤끼리 닿으면 쉽게 곰팡이가 핍니다.",
+        "en": "Store in a cool, ventilated room in a box or basket. Keep them separated; touching accelerates mold growth.",
+        "ja": "風通しの良い涼しい室温で、互いに触れないよう紙箱やカゴに入れて保管します。重なり合うとカビが発生しやすくなります。",
+        "zh": "存放在通风阴凉的常温下，放入纸箱或篮子中，避免相互接触。橘子堆叠接触极易发霉。",
+        "es": "Guarde en lugar fresco y ventilado en caja o cesta. Manténgalas separadas; si se tocan, el moho se propaga rápido.",
+        "fr": "Stockez dans une pièce fraîche et ventilée en cagette. Séparez-les bien ; le contact accélère l’apparition de moisissure.",
+        "de": "Kühl und luftig in Kiste oder Korb lagern. Abstand halten, da Berührung die Schimmelbildung beschleunigt.",
+        "pt": "Guarde em local fresco e ventilado em caixa ou cesta. Evite contato direto entre elas, pois acelera o aparecimento de mofo.",
+        "id": "Simpan di suhu ruang sejuk dan berangin dalam wadah. Pisahkan jeruk; saling menempel mempercepat pertumbuhan jamur."
+      },
+      "sources": [
+        "MFDS",
+        "RDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "냉장실 보관 시 신문지나 키친타월을 바닥에 깔고 보관하며, 온도가 너무 낮으면 단맛이 떨어지므로 야채칸(5~7℃)에 보관하세요.",
+        "en": "Refrigerate in the crisper (5–7°C) with newspaper or paper towels at the bottom. Too cold temperatures reduce sweetness.",
+        "ja": "冷蔵室では新聞紙나ペーパーを敷いて並べ、温度が低すぎると甘みが抜けるため野菜室（5〜7℃）で保管します。",
+        "zh": "冷藏时在底部垫上报纸或厨房纸，因温度过低会降低甜度，请存放在蔬菜抽屉（5-7℃）中。",
+        "es": "Refrigere en el cajón (5–7 °C) con papel en el fondo. Las temperaturas muy bajas reducen el dulzor.",
+        "fr": "Réfrigérez dans le bac à légumes (5–7 °C) sur du papier. Une température trop froide altère le goût sucré.",
+        "de": "Im Gemüsefach (5–7 °C) auf Zeitung oder Papier lagern. Zu kalte Temperaturen verringern die Süße.",
+        "pt": "Refrigere na gaveta de vegetais (5-7 °C) com papel no fundo. Temperaturas muito baixas diminuem a doçura.",
+        "id": "Masukkan kulkas di laci sayur (5-7°C) dengan alas kertas koran atau tisu. Suhu terlalu dingin mengurangi manis."
+      },
+      "sources": [
+        "MFDS",
+        "RDA"
+      ]
+    }
+  }
+}

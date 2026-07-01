@@ -1,0 +1,76 @@
+{
+  "id": "garlic",
+  "category": "vegetable",
+  "emoji": "🧄",
+  "isProcessed": false,
+  "names": {
+    "ko": "마늘",
+    "en": "Garlic",
+    "ja": "にんにく",
+    "zh": "大蒜",
+    "es": "Ajo",
+    "fr": "Ail",
+    "de": "Knoblauch",
+    "pt": "Alho",
+    "id": "Bawang putih"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "통마늘은 망에 넣어 바람이 잘 통하는 서늘한 곳에 매달아 보관하세요. 통풍이 제일 중요합니다.",
+        "en": "Hang whole garlic in a net in a cool, well-ventilated place. Ventilation is key.",
+        "ja": "丸ごとのにんにくはネットに入れ、風通しの良い涼しい場所に吊るして保管してください。風通しが最も重要です。",
+        "zh": "整蒜装入网袋，挂在通风阴凉处。通风最关键。",
+        "es": "Cuelgue el ajo entero en una red en un lugar fresco y bien ventilado. La ventilación es clave.",
+        "fr": "Suspendez l’ail entier dans un filet dans un endroit frais et ventilé. La ventilation est la clé.",
+        "de": "Ganzen Knoblauch in einem Netz an einem kühlen, gut belüfteten Ort aufhängen. Belüftung ist der Schlüssel.",
+        "pt": "Pendure o alho inteiro em uma rede em local fresco e arejado. A ventilação é fundamental.",
+        "id": "Gantung bawang putih utuh dalam jaring di tempat yang sejuk dan berventilasi. Ventilasi adalah kunci."
+      },
+      "sources": [
+        "RDA",
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "깐마늘은 씻은 후 물기를 완전히 말리고, 밀폐용기 바닥에 설탕을 깔고 키친타월을 얹은 뒤 올려두면 수분 흡수에 탁월합니다.",
+        "en": "For peeled cloves, dry completely. Lay sugar at container bottom, cover with paper towel, and place garlic.",
+        "ja": "むいたにんにくは洗い、水기를 완전히 건조합니다. 密閉容器の底に砂糖を敷き、キッチンペーパーをのせてから保管すると水分を吸収できます。",
+        "zh": "去皮蒜瓣洗净并彻底晾干。在密封容器底部撒糖，铺上厨房纸巾再放入大蒜，能吸附多余水分。",
+        "es": "Para los dientes pelados, séquelos bien. Coloque azúcar al fondo del recipiente, cubra con papel de cocina y ponga el ajo.",
+        "fr": "Pour l’ail pelé, séchez-le. Déposez du sucre au fond du récipient, couvrez de papier absorbant, puis posez l’ail.",
+        "de": "Geschälte Zehen gut trocknen. Zucker auf den Boden des Behälters streuen, Küchenpapier darüber legen und Knoblauch darauflegen.",
+        "pt": "Para dentes descascados, seque bem. Coloque açúcar no fundo do pote, cubra com papel-toalha e coloque o alho.",
+        "id": "Untuk bawang kupas, keringkan. Taburkan gula di dasar wadah, alasi dengan tisu dapur, lalu taruh bawang."
+      },
+      "sources": [
+        "RDA",
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "다진 마늘은 얼음틀이나 지퍼백에 얇게 편 뒤 얼려서 격자 모양으로 잘라 소분 보관하세요.",
+        "en": "Freeze minced garlic in ice trays or flattened in bags, then cut into portions.",
+        "ja": "刻み・すりおろしにんにくは氷トレーや保存袋に薄く平らにして凍らせ、格子状に切って小分け保存してください。",
+        "zh": "将碎蒜泥装在冰格中或在袋子中压平冷冻，然后切成方块分装保存。",
+        "es": "Congele el ajo picado en cubiteras o aplanado en bolsas, luego córtelo en porciones.",
+        "fr": "Congelez l’ail haché dans des bacs à glaçons ou à plat dans des sacs, puis coupez-le en portions.",
+        "de": "Gehackten Knoblauch in Eiswürfelformen oder flach in Beuteln einfrieren, dann in Portionen schneiden.",
+        "pt": "Congele o alho picado em formas de gelo ou achatado em sacos, depois corte em porções.",
+        "id": "Bekukan bawang putih cincang dalam cetakan es atau pipihkan dalam kantong, lalu potong-potong."
+      },
+      "sources": [
+        "RDA",
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

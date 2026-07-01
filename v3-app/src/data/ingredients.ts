@@ -1,12 +1,3 @@
-import { vegetableIngredients } from './ingredients/vegetable';
-import { fruitIngredients } from './ingredients/fruit';
-import { dairyIngredients } from './ingredients/dairy';
-import { meatIngredients } from './ingredients/meat';
-import { seafoodIngredients } from './ingredients/seafood';
-import { grainIngredients } from './ingredients/grain';
-import { condimentIngredients } from './ingredients/condiment';
-import { etcIngredients } from './ingredients/etc';
-
 export interface StorageGuide {
   durationDays: number;
   tips: Record<string, string>;
@@ -28,13 +19,8 @@ export interface Ingredient {
   };
 }
 
-export const ingredients: Ingredient[] = [
-  ...vegetableIngredients,
-  ...fruitIngredients,
-  ...dairyIngredients,
-  ...meatIngredients,
-  ...seafoodIngredients,
-  ...grainIngredients,
-  ...condimentIngredients,
-  ...etcIngredients
-];
+// glob로 모든 개별 식재료 JSON 로드 (Vite 컴파일 타임 동적 수집)
+const modules = import.meta.glob('./ingredients/items/*.json', { eager: true });
+export const ingredients: Ingredient[] = Object.values(modules)
+  .map((mod: any) => mod.default as Ingredient)
+  .sort((a, b) => a.id.localeCompare(b.id));

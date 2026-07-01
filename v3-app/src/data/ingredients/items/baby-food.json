@@ -1,0 +1,58 @@
+{
+  "id": "baby-food",
+  "iconImage": "/assets/images/apps/freshself/ingredients/baby-food.png",
+  "category": "etc",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "이유식",
+    "en": "Baby Food",
+    "ja": "離乳食",
+    "zh": "婴儿辅食",
+    "es": "Comida para bebés",
+    "fr": "Aliments pour bébés",
+    "de": "Babynahrung",
+    "pt": "Comida de bebê",
+    "id": "Makanan bayi"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 2,
+      "tips": {
+        "ko": "⚠️ 아기의 면역력은 취약하므로 침이 닿았다면 즉시 버리고, 새 이유식이라도 냉장 보관 시 2일을 초과하지 않도록 각별히 유의하세요.",
+        "en": "⚠️ Baby immune systems are weak. Discard leftovers containing saliva. Do not store fresh portions past 2 days in the fridge.",
+        "ja": "⚠️ 赤ちゃんの免疫力は非常に弱いため、唾液の入った食べ残しは即座に廃棄し、新鮮なものでも冷蔵保存は2日を限度としてください。",
+        "zh": "⚠️ 婴儿免疫力弱。沾有口水的剩辅食必须丢弃；即使未碰过口水冷藏也绝不能超过2天。",
+        "es": "⚠️ Deseche sobras con saliva. Almacene porciones frescas en la nevera por un máximo de 2 días.",
+        "fr": "⚠️ Jetez les restes ayant touché la salive. Ne conservez pas au frigo plus de 2 jours.",
+        "de": "⚠️ Babys haben ein schwaches Immunsystem. Speichelkontaminierte Reste entsorgen. Frischportionen max. 2 Tage kühlen.",
+        "pt": "⚠️ O sistema imune do bebê é frágil. Descarte sobras com saliva. Não guarde porções frescas por mais de 2 dias.",
+        "id": "⚠️ Sistem imun bayi lemah. Buang sisa yang terkena ludah. Jangan simpan di kulkas lebih dari 2 hari."
+      },
+      "sources": [
+        "CDC",
+        "FDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "실리콘 큐브나 모유저장팩에 한 끼 분량씩 얇게 팩팅하여 급속 냉동하고, 2주 이내에 중탕 또는 전용 찜기로 해동하여 섭취하세요.",
+        "en": "Freeze in single-meal portions in silicone cubes or bags. Thaw within 2 weeks using a warm water bath or steamer.",
+        "ja": "シリコンケースや小分けパックに1回分ずつ冷凍し、2週間以内に湯煎または専用スチーマーで温めてください。",
+        "zh": "用硅胶辅食盒或储奶袋按每餐用量封好急速冷冻，并在2周内用温水隔水加热或专用蒸锅解冻食用。",
+        "es": "Congele en raciones individuales en moldes de silicona. Deshiele en 2 semanas al baño maría.",
+        "fr": "Congelez en portions individuelles dans des moules en silicone. Décongelez sous 2 semaines au bain-marie.",
+        "de": "In Einzelportionen in Silikonformen einfrieren. Innerhalb von 2 Wochen im Wasserbad auftauen.",
+        "pt": "Congele em porções em formas de silicone. Degele em até 2 semanas em banho-maria ou vaporizador.",
+        "id": "Bekukan porsi sekali makan dalam cetakan silikon. Cairkan dalam 2 minggu dengan direndam air hangat."
+      },
+      "sources": [
+        "CDC",
+        "FDA",
+        "MFDS"
+      ]
+    }
+  }
+}

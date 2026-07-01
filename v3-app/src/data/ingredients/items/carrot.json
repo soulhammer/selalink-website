@@ -1,0 +1,37 @@
+{
+  "id": "carrot",
+  "category": "vegetable",
+  "emoji": "🥕",
+  "isProcessed": false,
+  "names": {
+    "ko": "당근",
+    "en": "Carrot",
+    "ja": "人参",
+    "zh": "胡萝卜",
+    "es": "Zanahoria",
+    "fr": "Carotte",
+    "de": "Karotte",
+    "pt": "Cenoura",
+    "id": "Wortel"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 21,
+      "tips": {
+        "ko": "표면의 물기를 완전히 제거하고 신문지나 랩으로 낱개로 싸서 세워 보관하세요. 물기가 있으면 금방 썩습니다.",
+        "en": "Remove surface moisture completely, wrap individually in newspaper or plastic wrap, and store vertically.",
+        "ja": "表面の水分をしっかり拭き取り、新聞紙やラップで1本ずつ包んで立てて冷蔵保存してください。",
+        "zh": "彻底擦干表面水分，用报纸或保鲜膜单独包裹后竖立冷藏。有水分极易腐烂。",
+        "es": "Seque bien la humedad, envuélvalas individualmente en papel de periódico o film, y guárdelas verticales.",
+        "fr": "Séchez bien l’humidité, enveloppez individuellement de journal ou de film et conservez verticalement.",
+        "de": "Oberflächenfeuchtigkeit komplett entfernen, einzeln in Zeitungspapier wickeln und aufrecht lagern.",
+        "pt": "Seque a umidade superficial, embrulhe individualmente em jornal ou filme e guarde na vertical.",
+        "id": "Keringkan kelembapan permukaan, bungkus satu per satu dengan koran atau plastik wrap, simpan tegak."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    }
+  }
+}

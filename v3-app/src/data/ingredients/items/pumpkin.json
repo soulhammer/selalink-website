@@ -1,0 +1,74 @@
+{
+  "id": "pumpkin",
+  "iconImage": "/assets/images/apps/freshself/ingredients/pumpkin.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "호박 / 단호박",
+    "en": "Pumpkin / Squash",
+    "ja": "カボチャ",
+    "zh": "南瓜",
+    "es": "Calabaza",
+    "fr": "Citrouille",
+    "de": "Kürbis",
+    "pt": "Abóbora",
+    "id": "Labu"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "자르지 않은 통단호박은 그늘지고 서늘한 상온에 그냥 두어도 한 달 이상 거뜬히 보관 가능합니다.",
+        "en": "Whole, uncut squash keeps for over a month in a cool, dark room-temperature pantry.",
+        "ja": "丸ごとのカボチャは, 直射光를 피한 涼しい常温에 두면 1개월 이상 보관할 수 있습니다.",
+        "zh": "未切开的整南瓜存放在避光凉爽的常温下, 可轻松保存一个月以上。",
+        "es": "Las calabazas enteras duran más de un mes en una despensa fresca y oscura a temperatura ambiente.",
+        "fr": "Les courges entières se conservent plus d’un mois dans un placard frais et sombre.",
+        "de": "Ganze, ungeschnittene Kürbisse halten sich über einen Monat an einem kühlen, dunklen Ort.",
+        "pt": "Abóboras inteiras e sem cortes duram mais de um mês em local fresco e escuro à temperatura ambiente.",
+        "id": "Labu utuh yang belum dipotong awet lebih dari sebulan di ruangan sejuk dan gelap."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "칼로 자른 단호박은 씨와 속을 완전히 파낸 뒤(이 부위부터 쉽게 썩음), 단면에 키친타월을 대고 랩으로 감싸 밀폐 보관하세요.",
+        "en": "Scoop out seeds and pulp completely as they mold first. Cover cut surfaces with paper towels and wrap tightly.",
+        "ja": "カットしたカボチャは種とワタ를 기레우레 くり抜き（여기서 상하기 때문）, 断面에 페이퍼를 대고 랩으로 감싸 밀봉합니다.",
+        "zh": "切开的南瓜必须挖净瓜瓤和瓜子（此部位极易发霉腐烂）, 用厨房纸贴住切面, 裹紧保鲜膜密封冷藏。",
+        "es": "Quite semillas y pulpa por completo ya que se mohean primero. Cubra las zonas cortadas con papel y envuelva.",
+        "fr": "Retirez graines et pulpe qui moisissent en premier. Couvrez les coupes de papier absorbant et filmez.",
+        "de": "Kerne und Fruchtfleisch komplett entfernen, da sie zuerst schimmeln. Schnittstellen mit Papier abdecken und fest einwickeln.",
+        "pt": "Retire as sementes e a polpa completamente, pois mofam primeiro. Cubra os cortes com papel-toalha e embrulhe.",
+        "id": "Keruk biji dan serabutnya sampai bersih karena cepat berjamur. Alasi tisu pada potongan lalu bungkus rapat."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "껍질을 벗겨 썰어서 살짝 찌거나 으깬 후, 1회분씩 지퍼백에 얇게 펴서 얼려두면 수프나 이유식 만들 때 편리합니다.",
+        "en": "Peel, chop, and steam or puree. Freeze in single-use bags for easy soups or baby food.",
+        "ja": "皮をむいてカットし、軽く蒸すか潰した後、1回分ずつフリーザーバッグに平らに広げて冷凍してください。スープや離乳食用にすぐに使えて便利です。",
+        "zh": "去皮切块后蒸熟或捣成泥, 按单次用量装袋平摊冷冻, 方便制作浓汤或辅食。",
+        "es": "Pele, pique y cocine al vapor o puré. Congele en porciones para sopas o purés.",
+        "fr": "Pelez, coupez et cuisez à la vapeur ou en purée. Congelez en portions pour soupes ou purées.",
+        "de": "Schälen, schneiden und dämpfen oder pürieren. In Portionsbeuteln für Suppen oder Brei einfrieren.",
+        "pt": "Descasque, corte e cozinhe no vapor ou faça purê. Congele em sacos em porções para sopas ou papinhas.",
+        "id": "Kupas, potong, kukus atau haluskan. Bekukan dalam kantong porsi sekali pakai untuk sup atau makanan bayi."
+      },
+      "sources": [
+        "RDA",
+        "USDA"
+      ]
+    }
+  }
+}

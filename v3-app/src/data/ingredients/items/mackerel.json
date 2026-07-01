@@ -1,0 +1,80 @@
+{
+  "id": "mackerel",
+  "iconImage": "/assets/images/apps/freshself/ingredients/mackerel.png",
+  "category": "seafood",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "고등어",
+      "생선",
+      "자반고등어",
+      "고등어보관"
+    ],
+    "en": [
+      "mackerel",
+      "blue mackerel",
+      "fish"
+    ],
+    "ja": [
+      "サバ",
+      "さば",
+      "鯖"
+    ],
+    "zh": [
+      "鲭鱼",
+      "青花鱼"
+    ]
+  },
+  "names": {
+    "ko": "고등어",
+    "en": "Mackerel",
+    "ja": "サバ",
+    "zh": "鲭鱼",
+    "es": "Caballa",
+    "fr": "Maquereau",
+    "de": "Makrele",
+    "pt": "Cabala",
+    "id": "Ikan kembung"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 2,
+      "tips": {
+        "ko": "씻은 후 키친타월로 안팎의 물기를 완벽히 제거하고, 밀폐 용기에 담아 냉장실 중 가장 차가운 신선칸에 두고 1~2일 내에 조리하세요.",
+        "en": "Wash and pat completely dry inside and out with paper towels. Place in an airtight container in the coldest drawer and cook within 1–2 days.",
+        "ja": "洗った後、ペーパーで内外の水気を完全に拭き取ります。密閉容器に入れ、冷蔵室で最も冷たい場所に置いて1〜2日以内に調理してください。",
+        "zh": "冲洗后用厨房纸彻底擦干内外水分。装入密封容器中，存放在冷藏室最冷处，并在1-2天内烹饪。",
+        "es": "Lave y seque por completo dentro y fuera con papel. Ponga en envase hermético en la zona más fría y cocine en 1-2 días.",
+        "fr": "Lavez et séchez bien l’intérieur et l’extérieur au papier. Placez en boîte étanche dans la zone la plus froide ; cuisez sous 1 à 2 jours.",
+        "de": "Abspülen und innen wie außen ganz trocken tupfen. Luftdicht verschlossen im Kältefach lagern und in 1-2 Tagen zubereiten.",
+        "pt": "Lave e seque bem por dentro e por fora com papel-toalha. Guarde no pote hermético na gaveta mais fria e prepare em até 2 dias.",
+        "id": "Cuci dan keringkan bagian dalam luar dengan tisu. Taruh wadah kedap di laci paling dingin, masak dalam 1-2 hari."
+      },
+      "sources": [
+        "NIFS",
+        "MFDS",
+        "FDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 60,
+      "tips": {
+        "ko": "내장을 제거해 토막 낸 뒤 천일염과 레몬즙을 살짝 뿌려 수분을 한 번 더 빼고, 랩으로 진공하듯 밀착 감싸 지퍼백에 밀봉 냉동하세요.",
+        "en": "Gut, slice, sprinkle salt and lemon juice to drain moisture. Wrap tightly in wrap as if vacuum-sealed and freeze in a zipper bag.",
+        "ja": "内臓を取り除いてぶつ切りにし、塩とレモン汁を軽く振って水分を抜き、ラップで空気が入らないよう密着包装して冷凍します。",
+        "zh": "去内脏并切块，撒上少许盐和柠檬汁以进一步析出水分，用保鲜膜真空般紧密包裹，装在密封袋中冷冻。",
+        "es": "Limpie, trocee y añada sal y limón para extraer humedad. Envuelva bien con film como si fuera al vacío y congele en bolsa.",
+        "fr": "Videz, tronçonnez, salez et citronnez pour rejeter l’humidité. Filmez hermétiquement (effet sous vide) et congelez sous sachet.",
+        "de": "Innereien entfernen, zerteilen, mit Salz und Zitrone entwässern. Wie vakuumiert fest in Folie wickeln und im Beutel gefrieren.",
+        "pt": "Retire as vísceras, corte em postas, tempere com sal e limão para desidratar. Embrulhe bem em filme e congele no saco.",
+        "id": "Buang isi perut, potong, beri garam dan jeruk lemon untuk membuang air. Bungkus rapat plastik wrap lalu bekukan."
+      },
+      "sources": [
+        "NIFS",
+        "MFDS",
+        "FDA"
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "crab",
+  "category": "seafood",
+  "emoji": "🦀",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "꽃게",
+      "게",
+      "대게",
+      "홍게",
+      "꽃게보관"
+    ],
+    "en": [
+      "crab",
+      "crabs",
+      "blue crab",
+      "king crab"
+    ],
+    "ja": [
+      "カニ",
+      "かに",
+      "蟹",
+      "ワタリガニ"
+    ],
+    "zh": [
+      "螃蟹",
+      "梭子蟹",
+      "大闸蟹"
+    ]
+  },
+  "names": {
+    "ko": "꽃게 / 게",
+    "en": "Crab",
+    "ja": "かに",
+    "zh": "螃蟹",
+    "es": "Cangrejo",
+    "fr": "Crabe",
+    "de": "Krabbe",
+    "pt": "Caranguejo",
+    "id": "Kepiting"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 1,
+      "tips": {
+        "ko": "게는 죽으면 부패 속도가 매우 빠르고 식중독균이 증식합니다. 생물 상태일 때는 24시간 이내에 신속히 조리하는 것이 원칙입니다.",
+        "en": "Spoils extremely fast and breeds pathogens once dead. Fresh live crab must be cooked within 24 hours.",
+        "ja": "カニは死ぬと腐敗速度が非常に早く、食中毒菌が増殖します。生のままであれば24時間以内に速やかに調理してください。",
+        "zh": "螃蟹死亡后腐败极快，极易滋生食源性细菌。活蟹生鲜状态下，必须在24小时内迅速烹饪。",
+        "es": "Se daña muy rápido y genera bacterias una vez muerto. El cangrejo fresco debe cocinarse dentro de las 24 horas.",
+        "fr": "S’altère très vite et produit des bactéries dès sa mort. Le crabe frais doit être cuit sous 24 heures.",
+        "de": "Verdirbt nach dem Tod extrem schnell und bildet Keime. Frische Krabben müssen zwingend in 24 Stunden gegart werden.",
+        "pt": "Estraga muito rápido e cria bactérias após morrer. Caranguejo fresco deve ser cozido em até 24 horas.",
+        "id": "Cepat busuk dan memicu bakteri jika mati. Kepiting segar wajib dimasak dalam waktu 24 jam."
+      },
+      "sources": [
+        "NIFS",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "생으로 얼리면 게살의 단백질이 녹아내립니다. 반드시 끓는 물에 완전히 쪄낸 뒤 식혀 지퍼백에 담아 급속 냉동해야 살이 유지됩니다.",
+        "en": "Freezing raw melts the crab meat. Steam completely first, cool down, and pack in zipper bags before freezing to retain the meat.",
+        "ja": "生のまま冷凍すると身が溶けて流れてしまいます。必ず沸騰したお湯で完全に蒸し上げ、冷ましてから袋に入れ冷凍してください。",
+        "zh": "生冻会导致蟹肉溶化流失。请务必用沸水彻底蒸熟，晾凉后装入密封袋中冷冻，以保持肉质紧实。",
+        "es": "Congelar crudo disuelve la carne. Cuézalo al vapor por completo, enfríe y guarde en bolsas para conservar la consistencia.",
+        "fr": "Congeler cru fait fondre la chair. Cuisez d’abord à la vapeur, laissez refroidir et filmez en sachet pour garder la chair.",
+        "de": "Roh einfrieren verflüssigt das Fleisch. Erst komplett dämpfen, abkühlen lassen und in Beuteln einfrieren, um die Struktur zu erhalten.",
+        "pt": "Congelar cru faz a carne derreter. Cozinhe no vapor primeiro, esfrie e congele no saco plástico para manter a carne intacta.",
+        "id": "Membekukan mentah membuat daging menyusut. Kukus matang terlebih dahulu, dinginkan, lalu bekukan dalam kantong plastik."
+      },
+      "sources": [
+        "NIFS",
+        "MFDS"
+      ]
+    }
+  }
+}

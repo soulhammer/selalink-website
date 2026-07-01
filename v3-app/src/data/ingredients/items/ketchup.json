@@ -1,0 +1,38 @@
+{
+  "id": "ketchup",
+  "iconImage": "/assets/images/apps/freshself/ingredients/ketchup.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "케첩",
+    "en": "Ketchup",
+    "ja": "ケチャップ",
+    "zh": "番茄酱",
+    "es": "Kétchup",
+    "fr": "Ketchup",
+    "de": "Ketchup",
+    "pt": "Ketchup",
+    "id": "Saus tomat"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "식초 성분이 있어 실온에 두어도 상하지 않지만, 향과 맛을 유지하려면 개봉 후 반드시 냉장 보관하는 것이 좋습니다. 거꾸로 세워두면 깔끔하게 사용 가능합니다.",
+        "en": "Can stay at room temp due to acidity, but refrigerate after opening to preserve flavor. Store upside down.",
+        "ja": "酢が入っているので常温でも傷みにくいですが、風味維持のため開封後は冷蔵保存し、逆さまに立てておくと便利です。",
+        "zh": "含有醋酸成分即便常温也不易腐败，但为了保持风味与色泽，开封后建议冷藏，倒扣放置更易挤出。",
+        "es": "La acidez lo protege a temperatura ambiente, pero refrigere tras abrir para conservar sabor. Guarde boca abajo.",
+        "fr": "L’acidité le préserve à température ambiante, mais réchauffez après ouverture pour garder le goût. Tête en bas.",
+        "de": "Sauer genug für Raumtemp., aber nach dem Öffnen kühlen für besseren Geschmack. Auf den Kopf stellen.",
+        "pt": "A acidez conserva, mas refrigere após abrir para manter o sabor. Guarde de cabeça para baixo.",
+        "id": "Bisa di suhu ruang karena asam, tapi dinginkan setelah dibuka untuk menjaga rasa. Simpan terbalik."
+      },
+      "sources": [
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

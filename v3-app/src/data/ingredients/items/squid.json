@@ -1,0 +1,57 @@
+{
+  "id": "squid",
+  "category": "seafood",
+  "emoji": "🦑",
+  "isProcessed": false,
+  "names": {
+    "ko": "오징어",
+    "en": "Squid",
+    "ja": "イカ",
+    "zh": "乌贼/鱿鱼",
+    "es": "Calamar",
+    "fr": "Calamar",
+    "de": "Tintenfisch",
+    "pt": "Lula",
+    "id": "Cumi-cumi"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 2,
+      "tips": {
+        "ko": "내장을 제거하지 않고 보관하면 내장이 먼저 녹아 살을 오염시키고 악취가 납니다. 반드시 내장과 눈, 빨판을 제거하고 세척 후 보관하세요.",
+        "en": "Leaving guts inside causes decay and foul odor. Always clean guts, eyes, and suction cups before storing.",
+        "ja": "内臓を残したままだとそこから腐って悪臭を放ちます。内臓、目、吸盤を取り除き、洗ってから保存してください。",
+        "zh": "不去除内脏保存，内脏会腐烂污染肉质产生恶臭。必须挖除内脏、眼部和吸盘，洗净后冷藏。",
+        "es": "Dejar las tripas causa mal olor y putrefacción. Limpie vísceras, ojos y ventosas antes de guardar.",
+        "fr": "Laisser les viscères provoque odeurs et pourriture. Videz, enlevez yeux et ventouses avant de stocker.",
+        "de": "Eingeweide führen zu Verderb und Geruch. Augen, Schnabel und Eingeweide vor dem Lagern entfernen.",
+        "pt": "Manter as vísceras causa mau cheiro e decomposição. Limpe tudo, retire olhos e ventosas antes de guardar.",
+        "id": "Membiarkan isi perutnya memicu kebusukan dan bau. Selalu bersihkan isi perut, mata, dan tentakelnya."
+      },
+      "sources": [
+        "NIFS",
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 60,
+      "tips": {
+        "ko": "껍질을 벗겨 격자 칼집을 낸 뒤 한 마리씩 랩으로 포장하여 냉동하면 요리할 때 즉석 해동하여 쓰기 수월합니다.",
+        "en": "Skin, score with a grid pattern, wrap individually in wrap, and freeze for quick thawing and cooking.",
+        "ja": "皮をむいて格子状の切れ目を入れ、1杯ずつラップで包んで冷凍すると、使う時すぐ解凍できて便利です。",
+        "zh": "去皮打上花刀，按只用保鲜膜单独包裹冷冻，烹饪时极易快速解冻。",
+        "es": "Pele, marque cuadriculado, envuelva individualmente y congele para un deshelado y cocinado rápidos.",
+        "fr": "Pelez, quadrillez au couteau, filmez séparément et congelez pour décongeler et cuire plus vite.",
+        "de": "Häuten, einschneiden, einzeln einwickeln und gefrieren für schnelles Auftauen.",
+        "pt": "Retire a pele, faça cortes cruzados, embrulhe bem em filme e congele para descongelar rápido.",
+        "id": "Kupas kulit, beri keratan silang, bungkus per ekor, bekukan agar cepat dicairkan saat akan dimasak."
+      },
+      "sources": [
+        "NIFS",
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}

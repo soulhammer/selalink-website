@@ -1,0 +1,57 @@
+{
+  "id": "shrimp",
+  "category": "seafood",
+  "emoji": "🦐",
+  "isProcessed": false,
+  "names": {
+    "ko": "새우",
+    "en": "Shrimp",
+    "ja": "エビ",
+    "zh": "虾",
+    "es": "Camarón/Gambas",
+    "fr": "Crevette",
+    "de": "Garnele",
+    "pt": "Camarão",
+    "id": "Udang"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 2,
+      "tips": {
+        "ko": "생새우는 머리와 껍질에 부패 세균이 많습니다. 보관 전 머리와 껍질, 내장을 손질하여 물기를 완전히 닦아내세요.",
+        "en": "Raw shrimp spoils fast in heads and shells. Remove heads, shells, and veins; pat dry before storing.",
+        "ja": "生エビは頭や殻から傷み始めます。殻をむき、背ワタを取り除いてから水気を完全に拭き取ってください。",
+        "zh": "生虾的虾头和虾壳附带较多细菌极易腐烂。保存前请摘除虾头、剥壳并挑出虾线，彻底擦干水分。",
+        "es": "Se daña rápido en cabezas y cáscaras. Quite cabezas, cáscaras y venas; seque antes de guardar.",
+        "fr": "Tête et carapace se gâtent vite. Enlevez la tête, décortiquez, déveinez et séchez avant de stocker.",
+        "de": "Garnelen verderben an Kopf und Schale schnell. Vor dem Lagern schälen, entdarmen und abtupfen.",
+        "pt": "Camarão cru estraga rápido nas cabeças e cascas. Retire-as, remova a tripa e seque bem antes de guardar.",
+        "id": "Udang mentah cepat busuk di kepala dan kulitnya. Bersihkan kepala, kulit, dan kotorannya lalu lap kering."
+      },
+      "sources": [
+        "FDA",
+        "USDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "물기를 말린 생새우를 지퍼백에 겹치지 않게 펼쳐 얼려두면 조리 시 낱개로 꺼내 쓰기 좋습니다.",
+        "en": "Dry cleaned shrimp, spread in a single layer in a bag, and freeze for easy individual portioning.",
+        "ja": "水気を拭いたエビを保存袋に重ならないよう平らに並べて冷凍すると、調理の際1つずつ取り出せます。",
+        "zh": "控干水分的生虾平铺在密封袋中冷冻，烹饪时方便单颗取出。",
+        "es": "Seque los camarones limpios, extiéndalos en una sola capa en una bolsa y congele.",
+        "fr": "Séchez-les, disposez-les en couche simple dans un sachet et congelez pour les trier facilement après.",
+        "de": "Trockene Garnelen nebeneinander in einen Beutel legen und flach gefrieren für einfache Entnahme.",
+        "pt": "Seque os camarões limpos, espalhe em camada única num saco e congele para retirar individualmente.",
+        "id": "Keringkan udang bersih, ratakan satu lapis di kantong plastik, lalu bekukan."
+      },
+      "sources": [
+        "FDA",
+        "USDA",
+        "MFDS"
+      ]
+    }
+  }
+}

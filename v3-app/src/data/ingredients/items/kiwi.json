@@ -1,0 +1,55 @@
+{
+  "id": "kiwi",
+  "category": "fruit",
+  "emoji": "🥝",
+  "isProcessed": false,
+  "names": {
+    "ko": "키위",
+    "en": "Kiwi",
+    "ja": "キウイ",
+    "zh": "猕猴桃/奇異果",
+    "es": "Kiwi",
+    "fr": "Kiwi",
+    "de": "Kiwi",
+    "pt": "Kiwi",
+    "id": "Kiwi"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "만졌을 때 단단한 상태라면 실온 보관하여 후숙하세요. 바나나나 사과와 함께 비닐봉지에 넣어두면 후숙 가스(에틸렌)로 인해 2~3일 만에 말랑해집니다.",
+        "en": "Ripen at room temperature if hard. Putting in a bag with bananas or apples speeds up ripening.",
+        "ja": "만져 보았을 때 단단한 상태라면 실온 보관하여 후숙하세요. 바나나나 사과와 함께 비닐봉지에 넣어두면 후숙 가스(에틸렌)로 인해 2~3일 만에 말랑해집니다.",
+        "zh": "手摸较硬时请在常温下催熟. 与香蕉或苹果一起装入塑料袋中, 能借由催熟气体（乙烯）在2-3天内变软。",
+        "es": "Madure a temperatura ambiente si está duro. Poner en bolsa con plátanos o manzanas acelera el proceso.",
+        "fr": "Laissez mûrir à température ambiante s’il est dur. L’ensacher avec des bananes ou pommes accélère le mûrissement.",
+        "de": "Bei Raumtemperatur reifen lassen, wenn hart. Zusammen mit Bananen oder Äpfeln in eine Tüte legen beschleunigt dies.",
+        "pt": "Amadureça em temperatura ambiente se estiver duro. Colocar em saco com bananas ou maçãs acelera o processo.",
+        "id": "Matangkan di suhu ruang jika keras. Taruh dalam kantong bersama pisang atau apel mempercepat matang."
+      },
+      "sources": [
+        "USDA",
+        "RDA"
+      ]
+    },
+    "fridge": {
+      "durationDays": 30,
+      "tips": {
+        "ko": "후숙이 끝나 살짝 눌렀을 때 부드러우면 비닐팩에 담아 냉장 보관하세요. 신선함이 최대 2주까지 지속됩니다.",
+        "en": "Once ripe and soft, place in a plastic bag and refrigerate to extend freshness up to 2 weeks.",
+        "ja": "후숙이 완료되어 살짝 눌렀을 때 부드러우면 비닐팩에 담아 냉장 보관하세요. 신선함이 최대 2주까지 지속됩니다.",
+        "zh": "催熟结束, 轻轻按压变软后, 请装入塑料袋中冷藏. 新鲜度可维持长达2周。",
+        "es": "Una vez maduro y suave, póngalo en una bolsa de plástico y refrigere para extender la frescura hasta 2 semanas.",
+        "fr": "Une fois mûr et souple, ensachez-le au frais pour prolonger sa fraîcheur jusqu’à 2 semaines.",
+        "de": "Sobald reif und weich, in einer Plastiktüte im Kühlschrank lagern. Hält bis zu 2 Wochen.",
+        "pt": "Uma vez maduro e macio, coloque em saco plástico e refrigere para prolongar por até 2 semanas.",
+        "id": "Setelah matang dan empuk, masukkan ke kantong plastik dan dinginkan untuk memperpanjang awet hingga 2 minggu."
+      },
+      "sources": [
+        "USDA",
+        "RDA"
+      ]
+    }
+  }
+}

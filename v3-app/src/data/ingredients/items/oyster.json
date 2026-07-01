@@ -1,0 +1,81 @@
+{
+  "id": "oyster",
+  "category": "seafood",
+  "emoji": "🦪",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "굴",
+      "석화",
+      "생굴",
+      "봉지굴",
+      "굴보관"
+    ],
+    "en": [
+      "oyster",
+      "oysters",
+      "raw oysters",
+      "shucked oysters"
+    ],
+    "ja": [
+      "牡蠣",
+      "かき",
+      "カキ",
+      "生牡蠣"
+    ],
+    "zh": [
+      "牡蛎",
+      "生蚝",
+      "海蛎子"
+    ]
+  },
+  "names": {
+    "ko": "굴",
+    "en": "Oyster",
+    "ja": "牡蠣",
+    "zh": "牡蛎",
+    "es": "Ostra",
+    "fr": "Huître",
+    "de": "Auster",
+    "pt": "Ostra",
+    "id": "Tiram"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 2,
+      "tips": {
+        "ko": "식중독(노로바이러스)에 매우 취약하므로 구입 즉시 옅은 소금물에 씻어 물기를 빼고 밀폐용기에 담아 2일 이내에 완전히 익혀 드세요.",
+        "en": "Highly vulnerable to food poisoning (Norovirus). Wash in light saltwater immediately, drain, seal in a container, and cook fully within 2 days.",
+        "ja": "食中毒（ノロウイルス）に非常に弱いため、購入後すぐに薄い塩水で洗い、水気を切って密閉容器に入れ、2日以内に完全に加熱して召し上がりください。",
+        "zh": "极易感染食源性病毒（诺如病毒）。购买后立即用淡盐水洗净沥干，装入密封容器中，并在2天内彻底煮熟食用。",
+        "es": "Muy sensible a intoxicaciones (Norovirus). Lave en agua con sal, escurra, selle y consuma bien cocinado en 2 días.",
+        "fr": "Très sensible aux intoxications (Norovirus). Lavez à l’eau salée, égouttez, fermez et cuisez à cœur sous 2 jours.",
+        "de": "Sehr anfällig für Lebensmittelvergiftungen (Noroviren). Sofort in leichtem Salzwasser waschen, abtropfen lassen und in 2 Tagen komplett durchgaren.",
+        "pt": "Muito vulnerável a intoxicação (Norovírus). Lave em água salgada, escorra, guarde no pote hermético e consuma bem cozido em até 2 dias.",
+        "id": "Sangat rentan keracunan (Norovirus). Segera cuci air garam, tiriskan, taruh wadah kedap, masak matang dalam 2 hari."
+      },
+      "sources": [
+        "MFDS",
+        "FDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 60,
+      "tips": {
+        "ko": "봉지굴은 소금물에 헹궈 물기를 빼고 소분 포장해 얼리며, 해동 후에는 찌개나 부침 등 가열 조리용으로만 사용해야 안전합니다.",
+        "en": "Rinse in saltwater, drain, portion, and freeze. After thawing, use only for hot cooked dishes like stews or pancakes.",
+        "ja": "塩水で洗い水気を切ってから小分けにして冷凍します。解凍後はスープやチヂミなど、必ず加熱調理用としてのみご使用ください。",
+        "zh": "用盐水漂洗沥干，分装冷冻。解冻后为安全起见，请仅用于汤类或煎饼等加热烹饪的料理。",
+        "es": "Enjuague en agua con sal, escurra, porcione y congele. Tras descongelar, use solo para guisos o platos cocinados calientes.",
+        "fr": "Rincez à l’eau salée, égouttez, portionnez et congelez. Après décongélation, utilisez uniquement cuit (soupes, beignets).",
+        "de": "In Salzwasser abspülen, abtropfen lassen, portionieren und gefrieren. Nach dem Auftauen nur für heiße Kochgerichte verwenden.",
+        "pt": "Lave em água salgada, escorra, divida em porções e congele. Após descongelar, consuma apenas cozido ou frito.",
+        "id": "Bilas air garam, tiriskan, bagi per porsi, lalu bekukan. Setelah dicairkan, hanya gunakan untuk masakan matang."
+      },
+      "sources": [
+        "MFDS",
+        "FDA"
+      ]
+    }
+  }
+}

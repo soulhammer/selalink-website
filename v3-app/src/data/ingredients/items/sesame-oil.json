@@ -1,0 +1,60 @@
+{
+  "id": "sesame-oil",
+  "iconImage": "/assets/images/apps/freshself/ingredients/sesame-oil.png",
+  "category": "condiment",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "참기름",
+      "조미유",
+      "기름보관",
+      "리그난"
+    ],
+    "en": [
+      "sesame oil",
+      "toasted sesame oil"
+    ],
+    "ja": [
+      "ごま油",
+      "ゴマ油",
+      "胡麻油"
+    ],
+    "zh": [
+      "香油",
+      "芝麻油",
+      "参油"
+    ]
+  },
+  "names": {
+    "ko": "참기름",
+    "en": "Sesame Oil",
+    "ja": "ごま油",
+    "zh": "芝麻油",
+    "es": "Aceite de sésamo",
+    "fr": "Huile de sésame",
+    "de": "Sesamöl",
+    "pt": "Óleo de gergelim",
+    "id": "Minyak wijen"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 180,
+      "tips": {
+        "ko": "참기름 속 강력한 항산화 성분(리그난) 덕분에 실온 보관 시 가장 안전하며 오래 보존됩니다. 냉장 보관 시 침전물이 얼거나 풍미가 빠르게 파괴되므로 반드시 서늘하고 어두운 상온에 두세요.",
+        "en": "Strong antioxidants (lignans) make it self-preserving and long-lasting at room temp. Refrigeration spoils the flavor and causes solidification; store in a cool, dark pantry.",
+        "ja": "ごま油に含まれる強力な抗酸化成分（リグナン）のおかげで、室温保管が最も安全で長持ちします。冷蔵すると風味が落ち固まるため、必ず日陰の涼しい常温に置きます。",
+        "zh": "得益于其含有的强效抗氧化成分（芝麻素），常温保存最安全且时间最长。冷藏会结晶或使风味流失，请务必存放在阴凉避光的常温下。",
+        "es": "Sus antioxidantes (lignanos) la conservan mejor a temp. ambiente. Refrigerar daña el sabor y la solidifica; guarde en lugar fresco, seco y oscuro.",
+        "fr": "Les antioxydants (lignanes) la protègent naturellement à temp. ambiante. Le froid altère l’arôme et la fige ; stockez à l’abri de la lumière au sec.",
+        "de": "Starke Antioxidantien (Lignane) machen es bei Zimmertemperatur lange haltbar. Kühlen mindert das Aroma und führt zu Trübungen; dunkel und kühl lagern.",
+        "pt": "Graças aos antioxidantes (lignanas), conserva-se melhor em temp. ambiente. Refrigerar altera o sabor e solidifica o óleo; guarde em local escuro e seco.",
+        "id": "Antioksidan alami (lignan) menjaga minyak wijen awet di suhu ruang. Kulkas merusak rasa dan memicu kristalisasi; simpan di ruang gelap."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

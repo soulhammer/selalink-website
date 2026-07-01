@@ -1,0 +1,75 @@
+{
+  "id": "asparagus",
+  "iconImage": "/assets/images/apps/freshself/ingredients/asparagus.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "searchKeywords": {
+    "ko": [
+      "아스파라거스",
+      "그린아스파라거스",
+      "아스파라거스보관"
+    ],
+    "en": [
+      "asparagus",
+      "green asparagus"
+    ],
+    "ja": [
+      "アスパラガス",
+      "アスパラ"
+    ],
+    "zh": [
+      "芦笋",
+      "绿芦笋"
+    ]
+  },
+  "names": {
+    "ko": "아스파라거스",
+    "en": "Asparagus",
+    "ja": "アスパラガス",
+    "zh": "芦笋",
+    "es": "Espárrago",
+    "fr": "Asperge",
+    "de": "Spargel",
+    "pt": "Aspargo",
+    "id": "Aparagus"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 10,
+      "tips": {
+        "ko": "밑동을 살짝 자르고 찬물을 조금 담은 컵에 세워 꽂은 후 비닐봉지를 씌워 냉장 보관하세요. 수분 유지가 핵심입니다.",
+        "en": "Trim ends slightly, stand upright in a glass with a little cold water, cover with a plastic bag, and refrigerate. Moisture retention is key.",
+        "ja": "根元を少し切り落とし、冷水を少し入れたコップに立てて入れ、袋をかぶせて冷蔵保管します。水分の維持が鍵です。",
+        "zh": "切除根部末端，竖立放入装有少许冷水的分装杯中，罩上塑料袋冷藏。保持水分是关键。",
+        "es": "Corte un poco la base, colóquelos de pie en un vaso con agua fría, cubra con una bolsa y refrigere. Mantener la humedad es clave.",
+        "fr": "Coupez légèrement la base, placez debout dans un verre d’eau froide, couvrez d’un sachet et réfrigérez. Garder l’humidité est essentiel.",
+        "de": "Enden leicht abschneiden, aufrecht in ein Glas mit etwas kaltem Wasser stellen, Plastikbeutel darüberstülpen und kühlen. Feuchtigkeitserhalt ist wichtig.",
+        "pt": "Corte a base levemente, coloque em pé em um copo com água fria, cubra com um saco plástico e refrigere. Manter a umidade é a chave.",
+        "id": "Potong sedikit bagian bawah, berdirikan di gelas berisi sedikit air dingin, tutup kantong plastik, lalu masukkan kulkas. Lembap adalah kunci."
+      },
+      "sources": [
+        "USDA",
+        "FSA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 150,
+      "tips": {
+        "ko": "끓는 물에 30초~1분간 데친 후 찬물에 식혀 물기를 완전히 말립니다. 지퍼백에 평평하게 담아 급속 냉동하세요.",
+        "en": "Blanch in boiling water for 30–60s, cool in ice water, dry completely, lay flat in a bag, and freeze.",
+        "ja": "沸騰したお湯で30秒〜1分下茹でし、冷水で冷まして水気を完全に拭き取ります。袋に平らに入れて冷凍します。",
+        "zh": "在沸水中焯水30-60秒，用冰水冷却，彻底擦干水分。平整地放入密封袋中冷冻。",
+        "es": "Blanquee en agua hirviendo 30-60s, enfríe en agua helada, seque bien, coloque plano en una bolsa y congele.",
+        "fr": "Blanchissez 30 à 60s à l’eau bouillante, refroidissez à l’eau glacée, séchez bien, étalez à plat dans un sachet et congelez.",
+        "de": "30–60 Sek. in kochendem Wasser blanchieren, in Eiswasser abschrecken, komplett trocknen, flach in Beutel legen und gefrieren.",
+        "pt": "Branqueie em água fervente por 30-60s, resfrie em água gelada, seque bem, coloque plano no saco e congele.",
+        "id": "Rebus 30-60 detik, dinginkan di air es, keringkan airnya, susun rata di kantong plastik, lalu bekukan."
+      },
+      "sources": [
+        "USDA",
+        "FSA"
+      ]
+    }
+  }
+}

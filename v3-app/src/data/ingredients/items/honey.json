@@ -1,0 +1,37 @@
+{
+  "id": "honey",
+  "category": "condiment",
+  "emoji": "🍯",
+  "isProcessed": true,
+  "names": {
+    "ko": "꿀",
+    "en": "Honey",
+    "ja": "蜂蜜",
+    "zh": "蜂蜜",
+    "es": "Miel",
+    "fr": "Miel",
+    "de": "Honig",
+    "pt": "Mel",
+    "id": "Madu"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 9999,
+      "tips": {
+        "ko": "절대 냉장 보관하지 마세요. 하얗게 당분이 결정화되어 굳어집니다. 뚜껑을 꼭 닫아 건조하고 서늘한 실온에 두면 상하지 않고 영구적입니다.",
+        "en": "Never refrigerate; cold causes sugar crystallization and hardening. Keep tightly sealed in a dry, room-temp pantry.",
+        "ja": "絶対に冷蔵庫に入れないでください。糖分が結晶化して白く固まります。ふたを密閉して常温で保存すれば傷みません。",
+        "zh": "切勿冷藏。低温会导致糖分结晶变白发硬。拧紧瓶盖，存放在干燥阴凉的常温下，可保存极久。",
+        "es": "Nunca refrigere; el frío cristaliza el azúcar. Mantenga sellado en una despensa a temperatura ambiente.",
+        "fr": "Ne réfrigérez jamais, le froid cristallise le sucre. Gardez fermé au sec à température ambiante.",
+        "de": "Niemals kühlen; Kälte kristallisiert den Zucker. Fest verschlossen bei Raumtemperatur lagern.",
+        "pt": "Nunca refrigere; o frio cristaliza o açúcar. Mantenha bem fechado em temperatura ambiente.",
+        "id": "Jangan dinginkan; dingin membuat gula mengkristal dan mengeras. Simpan rapat di suhu ruang."
+      },
+      "sources": [
+        "FDA",
+        "RDA"
+      ]
+    }
+  }
+}

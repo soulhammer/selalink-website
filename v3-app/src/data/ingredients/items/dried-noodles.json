@@ -1,0 +1,66 @@
+{
+  "id": "dried-noodles",
+  "iconImage": "/assets/images/apps/freshself/ingredients/dried-noodles.png",
+  "category": "grain",
+  "emoji": "",
+  "isProcessed": true,
+  "searchKeywords": {
+    "ko": [
+      "국수",
+      "파스타",
+      "소면",
+      "건면",
+      "파스타보관",
+      "국수보관"
+    ],
+    "en": [
+      "dried noodles",
+      "pasta",
+      "spaghetti",
+      "ramen noodles"
+    ],
+    "ja": [
+      "乾麺",
+      "パスタ",
+      "そうめん",
+      "スパゲッティ"
+    ],
+    "zh": [
+      "干面",
+      "意面",
+      "挂面",
+      "通心粉"
+    ]
+  },
+  "names": {
+    "ko": "국수 / 파스타 건면",
+    "en": "Dried Noodles / Pasta",
+    "ja": "乾麺 / パスタ",
+    "zh": "干面 / 意面",
+    "es": "Pasta / Fideos secos",
+    "fr": "Pâtes / Nouilles sèches",
+    "de": "Trockene Nudeln / Pasta",
+    "pt": "Macarrão / Massa seca",
+    "id": "Mie kering / Pasta"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 365,
+      "tips": {
+        "ko": "습기와 해충에 무척 약하므로 개봉 후에는 지퍼백이나 전용 밀폐용기에 담아 통풍이 잘 되는 서늘한 실온에 두세요. 냉장 보관 시 결로로 곰팡이가 필 수 있습니다.",
+        "en": "Vulnerable to moisture and insects. After opening, store in a zipper bag or airtight container in a cool, dry room. Refrigeration causes condensation and mold.",
+        "ja": "습기와 해충에 무척 약하므로 개봉 후에는 지퍼백이나 밀폐 용기에 담아 서늘하고 건조한 실온에 보관하세요.",
+        "zh": "极易受潮和生虫。开封后请放入密封袋或专用密封容器中，存放在通风阴凉의 常温下。冷藏会因结露导致发霉。",
+        "es": "Sensible a la humedad e insectos. Tras abrir, guarde en bolsa hermética en un lugar seco y fresco. Refrigerar causa condensación y moho.",
+        "fr": "Sensible à l’humidité et aux insectes. Après ouverture, stockez sous sachet étanche dans une pièce fraîche. Évitez le frais (condensation et moisissure).",
+        "de": "Feuchtigkeits- und schädlingsanfällig. Nach dem Öffnen in Beutel oder Dosen kühl und trocken lagern. Kühlen meiden (Kondenswasser und Schimmel).",
+        "pt": "Sensível à umidade e insetos. Após aberto, guarde no saco hermético em local seco e fresco. Refrigerar causa condensação e mofo.",
+        "id": "Rentan lembap dan kutu. Setelah dibuka, simpan di wadah kedap suhu ruang sejuk. Hindari kulkas (kondensasi dan jamur)."
+      },
+      "sources": [
+        "USDA",
+        "FDA"
+      ]
+    }
+  }
+}

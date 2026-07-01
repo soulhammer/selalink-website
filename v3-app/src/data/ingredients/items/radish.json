@@ -1,0 +1,56 @@
+{
+  "id": "radish",
+  "iconImage": "/assets/images/apps/freshself/ingredients/radish.png",
+  "category": "vegetable",
+  "emoji": "",
+  "isProcessed": false,
+  "names": {
+    "ko": "무",
+    "en": "Radish",
+    "ja": "大根",
+    "zh": "白萝卜",
+    "es": "Rábano",
+    "fr": "Radis",
+    "de": "Rettich",
+    "pt": "Rabanete",
+    "id": "Lobak"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 14,
+      "tips": {
+        "ko": "무청(잎) 부분을 잘라내고(수분 손실 방지), 신문지로 꽁꽁 싸서 꼭지 부분이 위로 가도록 세워서 냉장 보관하세요.",
+        "en": "Cut off green leaves to prevent moisture loss. Wrap tightly in newspaper and store upright.",
+        "ja": "葉の部分を切り落とし（水分減少防止）, 新聞紙できっちり包んで, 葉側を上にして立てて冷蔵保存してください。",
+        "zh": "切除萝卜叶（防止水分流失）, 用报纸紧紧包裹, 根部朝下竖立冷藏。",
+        "es": "Corte las hojas para evitar deshidratación. Envuelva bien en periódico y guarde vertical en la nevera.",
+        "fr": "Coupez les feuilles pour éviter la perte d’eau. Enveloppez de journal et stockez debout au frais.",
+        "de": "Blätter abschneiden, um Feuchtigkeitsverlust zu vermeiden. Fest in Zeitungspapier wickeln und aufrecht kühlen.",
+        "pt": "Corte as folhas para evitar perda de umidade. Embrulhe bem in jornal e guarde em pé na geladeira.",
+        "id": "Potong daunnya untuk mencegah hilangnya air. Bungkus rapat dengan koran dan simpan berdiri di kulkas."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    },
+    "freezer": {
+      "durationDays": 90,
+      "tips": {
+        "ko": "용도에 맞게 썰어서 소금물에 가볍게 데친 후, 한 김 식혀 물기를 완전히 짜내고 소분하여 냉동 보관하세요.",
+        "en": "Slice, blanch lightly in salted water, cool down, dry completely, and freeze in portions.",
+        "ja": "使いやすい大きさに切り, 塩水で軽く下茹でしてから, 冷まして水気をしっかり切って冷凍します。",
+        "zh": "切成适合的大小, 在盐水中轻微焯水, 捞出晾凉并控干水分, 分装冷冻。",
+        "es": "Córtelo, blanquee en agua con sal, enfríe, seque por completo y congele en porciones.",
+        "fr": "Coupez-le, blanchissez-le à l’eau salée, laissez refroidir, séchez bien et congelez par portions.",
+        "de": "Schneiden, in Salzwasser kurz blanchieren, abkühlen lassen, gut trocknen und portionieren.",
+        "pt": "Corte, branqueie em água com sal, esfrie, seque bem e congele em porções.",
+        "id": "Potong, rebus sebentar di air garam, dinginkan, keringkan sepenuhnya, lalu bekukan dalam porsi."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

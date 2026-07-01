@@ -1,0 +1,57 @@
+{
+  "id": "broccoli",
+  "category": "vegetable",
+  "emoji": "🥦",
+  "isProcessed": false,
+  "names": {
+    "ko": "브로콜리",
+    "en": "Broccoli",
+    "ja": "ブロッコリー",
+    "zh": "西兰花",
+    "es": "Brócoli",
+    "fr": "Brocoli",
+    "de": "Brokkoli",
+    "pt": "Brócolis",
+    "id": "Brokoli"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 5,
+      "tips": {
+        "ko": "수분이 날아가지 않게 포장하되, 세워 두는 것이 좋습니다. 컵에 물을 약간 담고 꼭지(기둥) 부분을 꽂아 비닐을 씌우면 생화처럼 오래 갑니다.",
+        "en": "Store standing upright. Place the stem in a cup with a little water and cover with plastic to keep fresh.",
+        "ja": "乾燥を防ぎながら立てて保管します。少量の水を入れたコップに茎を挿し、ビニールを被せると長持ちします。",
+        "zh": "尽量竖着存放以防流失水分。在杯子里倒入少许水，将茎部插在水里，套上塑料袋可显著延长保鲜期。",
+        "es": "Almacenar de pie. Coloque el tallo en un vaso con un poco de agua y cubra con plástico para mantener fresco.",
+        "fr": "Conservez debout. Placez la tige dans un verre d’eau et couvrez d’un sachet plastique pour le garder frais.",
+        "de": "Aufrecht lagern. Den Strunk in ein Gefäß mit etwas Wasser stellen und eine Plastiktüte darüber stülpen.",
+        "pt": "Guarde em pé. Coloque o talo em um copo com água e cubra com saco plástico para maior durabilidade.",
+        "id": "Simpan berdiri. Masukkan batangnya ke gelas berisi sedikit air lalu tutup dengan plastik."
+      },
+      "sources": [
+        "RDA",
+        "USDA",
+        "EFSA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 120,
+      "tips": {
+        "ko": "식초물에 세척한 뒤 소금물에 30초간 데치고, 찬물에 식혀 물기를 완전히 말려 얼려 두면 식감이 유지됩니다.",
+        "en": "Blanch in salted boiling water for 30s after washing, cool in ice water, dry, and freeze.",
+        "ja": "酢水で洗った後、塩茹でで30秒下茹でし、冷水で冷まして水気を切ってから冷凍してください。",
+        "zh": "用醋水洗净，在盐水中焯水30秒，捞出放入冷水冷却后彻底控干水分再冷冻，可保持口感。",
+        "es": "Blanquee en agua hirviendo con sal durante 30s, enfríe en agua con hielo, seque y congele.",
+        "fr": "Blanchissez 30s à l’eau bouillante salée, refroidissez à l’eau glacée, séchez et congelez.",
+        "de": "Nach dem Waschen 30 Sek. in Salzwasser blanchieren, in Eiswasser abschrecken, trocknen und gefrieren.",
+        "pt": "Branqueie em água fervente com sal por 30s, esfrie em água gelada, seque e congele.",
+        "id": "Rebus sebentar 30 detik di air garam, dinginkan di air es, keringkan, lalu bekukan."
+      },
+      "sources": [
+        "RDA",
+        "USDA",
+        "EFSA"
+      ]
+    }
+  }
+}

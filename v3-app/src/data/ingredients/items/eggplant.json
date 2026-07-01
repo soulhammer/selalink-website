@@ -1,0 +1,55 @@
+{
+  "id": "eggplant",
+  "category": "vegetable",
+  "emoji": "🍆",
+  "isProcessed": false,
+  "names": {
+    "ko": "가지",
+    "en": "Eggplant",
+    "ja": "ナス",
+    "zh": "茄子",
+    "es": "Berenjena",
+    "fr": "Aubergine",
+    "de": "Aubergine",
+    "pt": "Berinjela",
+    "id": "Terong"
+  },
+  "storage": {
+    "room": {
+      "durationDays": 5,
+      "tips": {
+        "ko": "가지는 저온 장애에 약하므로 절대 차가운 냉장실 깊숙이 오래 보관하지 마세요. 하나씩 신문지에 싸서 그늘지고 서늘한 상온에 보관하는 것이 최선입니다.",
+        "en": "Very sensitive to cold. Wrap individually in newspaper and store in a cool, shady pantry.",
+        "ja": "ナス는 低温 障害에 약하므로 냉장고 안쪽에 오래 보관하지 마십시오. 하나씩 신문지에 싸서 그늘진 서늘한 실온에 보관하십시오.",
+        "zh": "对低温极其敏感. 请勿长期放在冷藏室深处. 建议用报纸单独包裹, 存放在凉爽避光的常温下。",
+        "es": "Sensible al frío. Envuelva individualmente en periódico y guarde en una despensa fresca y sombreada.",
+        "fr": "Très sensible au froid. Enveloppez de journal et stockez dans un placard frais et ombragé.",
+        "de": "Kälteempfindlich. Einzeln in Zeitung wickeln und an einem kühlen, schattigen Ort lagern.",
+        "pt": "Sensível ao frio. Embrulhe individualmente em jornal e guarde em local fresco e com sombra.",
+        "id": "Sangat sensitif terhadap dingin. Bungkus satu per satu dengan koran, simpan di tempat sejuk dan teduh."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    },
+    "fridge": {
+      "durationDays": 3,
+      "tips": {
+        "ko": "냉장 보관이 필요할 때는 신문지에 감싸 야채칸(비교적 온도가 높은 곳)에 두고 2~3일 내로 신속히 드세요.",
+        "en": "If you must refrigerate, wrap in newspaper and keep in the crisper drawer; use within 3 days.",
+        "ja": "冷蔵保存が必要な際は, 新聞紙に包んで野菜室（比較的温度の高い所）に入れ, 2〜3日中に消費してください。",
+        "zh": "若必须冷藏, 请用报纸包裹放入蔬菜室（温度相对较高处）, 并在2-3天内迅速用完。",
+        "es": "Si debe refrigerar, envuelva en periódico y guarde en el cajón de verduras; consuma en 3 días.",
+        "fr": "Si vous devez réfrigérer, enveloppez de journal au bac à légumes ; consommez sous 3 jours.",
+        "de": "Falls Kühlung nötig, in Zeitung wickeln und ins Gemüsefach legen; innerhalb von 3 Tagen verbrauchen.",
+        "pt": "Se precisar refrigerar, embrulhe em jornal e guarde na gaveta de vegetais; consuma em até 3 dias.",
+        "id": "Jika harus didinginkan, bungkus koran dan taruh di laci sayur; gunakan dalam 3 hari."
+      },
+      "sources": [
+        "RDA",
+        "MFDS"
+      ]
+    }
+  }
+}

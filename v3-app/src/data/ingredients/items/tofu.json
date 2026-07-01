@@ -1,0 +1,56 @@
+{
+  "id": "tofu",
+  "iconImage": "/assets/images/apps/freshself/ingredients/tofu.png",
+  "category": "dairy",
+  "emoji": "",
+  "isProcessed": true,
+  "names": {
+    "ko": "두부",
+    "en": "Tofu",
+    "ja": "豆腐",
+    "zh": "豆腐",
+    "es": "Tofu",
+    "fr": "Tofu",
+    "de": "Tofu",
+    "pt": "Tofu",
+    "id": "Tahu"
+  },
+  "storage": {
+    "fridge": {
+      "durationDays": 7,
+      "tips": {
+        "ko": "사용 후 남은 두부는 밀폐용기에 담고 생수와 소금 한 꼬집을 넣어 두부가 완전히 잠기게 한 뒤 보관하세요. 매일 물을 갈아주어야 합니다.",
+        "en": "Place leftover tofu in a container, cover fully with fresh water and a pinch of salt. Change water daily.",
+        "ja": "残った豆腐は密閉容器に入れ、きれいな水と塩をひとつまみ加えて完全に浸して保存します。水は毎日取り替えてください。",
+        "zh": "余下的豆腐放入密封容器，倒入纯净水并加少许盐以完全淹没豆腐。每天需要更换清水。",
+        "es": "Ponga el tofu sobrante en un recipiente, cúbralo por completo con agua y una pizca de sal. Cambie el agua a diario.",
+        "fr": "Mettez le tofu restant dans un récipient, couvrez-le d’eau avec une pincée de sel. Changez l’eau tous les jours.",
+        "de": "Übriggehaltenen Tofu in Wasser mit einer Prise Salz legen, sodass er bedeckt ist. Wasser täglich wechseln.",
+        "pt": "Coloque o tofu restante em pote, coubra totalmente com água filtrada e uma pitada de sal. Troque a água diariamente.",
+        "id": "Taruh sisa tahu di wadah, rendam dalam air bersih dengan secubit garam. Ganti air setiap hari."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    },
+    "freezer": {
+      "durationDays": 21,
+      "tips": {
+        "ko": "두부를 팩 통째로 냉동하면 얼면서 내부 수분이 응축되어 노랗고 쫄깃한 얼린 두부(동두부)가 되어 찌개용으로 훌륭합니다.",
+        "en": "Freezing tofu whole makes it sponge-like and chewy, which is excellent for stews and absorbing flavors.",
+        "ja": "豆腐をパックのまま冷凍すると水分が凍って凍み豆腐になり、高タンパクで弾力のある食感が鍋やスープに最適です。",
+        "zh": "将豆腐连同包装整盒冷冻，内部水分结冰后会变成蜂窝状、口感有弹性的冻豆腐，非常适合炖汤吸汁。",
+        "es": "Congelar el tofu entero le da una textura esponjosa y masticable, excelente para guisos.",
+        "fr": "Congeler le tofu entier lui donne une texture d’éponge idéale pour absorber le bouillon des ragoûts.",
+        "de": "Ganzen Tofu einfrieren, wodurch er schwammartig wird und Saucen in Eintöpfen hervorragend aufnimmt.",
+        "pt": "Congelar o tofu inteiro muda sua textura para uma esponja mastigável, excelente para ensopados absorverem sabor.",
+        "id": "Membekukan tahu utuh membuatnya berongga seperti spons dan kenyal, sangat cocok untuk masakan berkuah."
+      },
+      "sources": [
+        "MFDS",
+        "USDA"
+      ]
+    }
+  }
+}
