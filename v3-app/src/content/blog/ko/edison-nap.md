@@ -86,3 +86,21 @@ authority: "에디슨의 일기 및 관찰록(1948) 및 프랑스 파리 뇌연�
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>에디슨은 왜 손에 쇠구슬을 쥐고 낮잠을 잤나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      잠에 드는 순간 근육이 풀려 구슬이 떨어질 때 나는 소리로 잠에서 깨어나, 꿈과 깨어남의 경계(반수면)에서 스친 아이디어를 즉시 기록하기 위함이었습니다.
+    </p>
+  </details>
+</div>

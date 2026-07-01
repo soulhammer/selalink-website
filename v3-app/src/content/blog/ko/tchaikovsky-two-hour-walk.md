@@ -83,3 +83,21 @@ DMN은 뇌가 외부적인 자극에 의도적으로 집중하지 않고 자유�
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>차이코프스키는 왜 2시간의 산책 시간을 엄수했나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      미신적 강박에서 시작하였으나, 2시간의 보행이 실제 뇌 혈류량을 증가시키고 자율신경을 이완하여 명곡의 멜로디 영감을 뇌 속에 흐르게 도왔습니다.
+    </p>
+  </details>
+</div>

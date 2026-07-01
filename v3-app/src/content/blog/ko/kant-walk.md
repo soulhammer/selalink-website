@@ -84,3 +84,21 @@ authority: "만프레드 쿤 저 '칸트 평전' 및 신경과학·학습기억�
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>칸트는 왜 매일 오후 3시 30분에 산책을 나섰나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      고도의 추상적 철학 연구를 장기간 지속하기 위해 신체의 생체 리듬을 철저히 시계처럼 규칙적으로 유지하여, 건강과 정신적 평온함을 지켜내기 위한 엄격한 리추얼이었습니다.
+    </p>
+  </details>
+</div>

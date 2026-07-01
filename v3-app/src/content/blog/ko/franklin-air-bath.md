@@ -84,3 +84,21 @@ authority: "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Fran
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>공기욕(Air Bath)이 정말 감기 예방에 도움이 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      네, 피부를 차가운 공기에 가볍게 노출시키는 것은 온도 변화에 대한 신체 저항력을 높이고 면역력을 조절해 감기 예방에 긍정적인 영향을 줍니다.
+    </p>
+  </details>
+</div>

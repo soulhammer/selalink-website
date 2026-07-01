@@ -86,3 +86,21 @@ authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>퀴리 부부는 왜 결혼식 선물로 자전거를 요청했나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      화려한 결혼식 대신 자유롭고 건강하게 프랑스 시골길을 여행하며 사색하고, 일상의 번잡함을 피해 연구에 몰두할 수 있는 실용적인 도구를 원했기 때문입니다.
+    </p>
+  </details>
+</div>

@@ -173,6 +173,37 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
         }
 
         // ----------------------------------------------------
+        // 검증 2-C.2: 실물 FAQ 아코디언 블록 존재 여부 정밀 검증
+        // ----------------------------------------------------
+        const hasFaqsInFm = frontmatter.includes('faqs:') || frontmatter.includes('faqs');
+        if (hasFaqsInFm) {
+          const faqTitlesMap: Record<string, string> = {
+            ko: '자주 묻는 질문 (FAQ)',
+            ja: 'よくある質問 (FAQ)',
+            zh: '常见问题 (FAQ)',
+            es: 'Preguntas Frecuentes (FAQ)',
+            fr: 'Foire Aux Questions (FAQ)',
+            de: 'Häufig gestellte Fragen (FAQ)',
+            pt: 'Perguntas Frequentes (FAQ)',
+            id: 'Pertanyaan Sering Diajukan (FAQ)',
+            en: 'Frequently Asked Questions (FAQ)'
+          };
+          const expectedFaqTitle = faqTitlesMap[lang] || 'Frequently Asked Questions (FAQ)';
+          
+          const normalizedBody = body.toLowerCase();
+          const hasFaqTitle = normalizedBody.includes(expectedFaqTitle.toLowerCase()) || 
+                              normalizedBody.includes('frequently asked questions') ||
+                              normalizedBody.includes('perguntas frequentes') ||
+                              normalizedBody.includes('perguntas frecuentes') ||
+                              normalizedBody.includes('preguntas frecuentes');
+
+          expect(
+            hasFaqTitle,
+            `오류: [${lang.toUpperCase()}] ${fileName} 의 프론트매터에는 faqs가 정의되어 있으나, 본문 내에 실물 FAQ 아코디언 HTML 섹션('${expectedFaqTitle}')이 누락되어 있습니다.`
+          ).toBe(true);
+        }
+
+        // ----------------------------------------------------
         // 검증 2-D: 1단계 문자셋 격리 필터
         // ----------------------------------------------------
         const sanitizedAll = sanitizeText(rawContent);

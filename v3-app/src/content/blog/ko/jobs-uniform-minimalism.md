@@ -85,3 +85,21 @@ updatedDate: "2026-06-25"
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>스티브 잡스는 왜 매일 똑같은 옷만 고집했나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      아침마다 옷을 고르는 사소한 의사결정에서 소모되는 전두엽 에너지를 아껴, 애플 경영과 제품 혁신 등 본질적인 의사결정에 100% 집중하기 위함이었습니다.
+    </p>
+  </details>
+</div>

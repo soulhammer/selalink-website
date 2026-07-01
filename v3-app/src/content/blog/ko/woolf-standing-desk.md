@@ -87,3 +87,21 @@ authority: "버지니아 울프 일기 및 Applied Ergonomics 스탠딩 데스�
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>버지니아 울프는 왜 서서 글을 썼나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      화가인 언니가 캔버스 앞에서 서서 그림을 그리는 것처럼, 자신 또한 예술적 대등함과 고도의 몰입 상태를 지키기 위한 육체적 의식으로 서서 쓰는 책상을 애용했습니다.
+    </p>
+  </details>
+</div>

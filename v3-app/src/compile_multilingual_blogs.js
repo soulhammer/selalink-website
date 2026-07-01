@@ -903,7 +903,8 @@ function run() {
           : (storageFaqs[lang] || storageFaqs['en']);
       const faqsYaml = 'faqs:\n' + faqList.map(faq => `  - question: "${faq.question.replace(/"/g, '\\"')}"\n    answer: "${faq.answer.replace(/"/g, '\\"')}"`).join('\n') + '\n';
 
-      const faqTitle = lang === 'ja' ? 'よくある質問 (FAQ)'
+      const faqTitle = lang === 'ko' ? '자주 묻는 질문 (FAQ)'
+        : lang === 'ja' ? 'よくある質問 (FAQ)'
         : lang === 'zh' ? '常见问题 (FAQ)'
         : lang === 'es' ? 'Preguntas Frecuentes (FAQ)'
         : lang === 'fr' ? 'Foire Aux Questions (FAQ)'

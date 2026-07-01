@@ -85,3 +85,21 @@ updatedDate: "2026-01-25"
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>아침 침대 위 명상이 정말 뇌과학적으로 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      네, 각성 직후의 수평 자세는 뇌파를 알파(Alpha) 상태로 유도하여 자율신경계를 안정시키고, 창의성과 정서적 안정을 높여줍니다.
+    </p>
+  </details>
+</div>

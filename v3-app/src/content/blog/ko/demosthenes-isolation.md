@@ -86,3 +86,21 @@ authority: "플루타르코스 영웅전 '데모스테네스전' 및 미국심�
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>지하 독방에서 머리 반쪽을 깎은 이유는 무엇인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      외모가 우스꽝스러워져 사람들 앞에 나설 수 없게 함으로써, 유혹을 이겨내고 오직 연습실에만 갇혀 수련에 몰두하도록 강제하기 위한 장치였습니다.
+    </p>
+  </details>
+</div>

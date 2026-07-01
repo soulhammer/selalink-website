@@ -84,3 +84,21 @@ authority: "니콜라 테슬라 자서전 'My Inventions' 및 물리치료과학
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>발가락을 꼼지락거리는 행위가 정말 뇌 활성화에 도움이 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      네, 발가락 영역은 전두엽 피질의 신체 감각 지도상에서 뇌 중심부에 위치하고 있어, 발가락 미세 근육을 자극하는 것은 말초 신경을 통해 전두엽을 미세 자극하는 효과가 있습니다.
+    </p>
+  </details>
+</div>

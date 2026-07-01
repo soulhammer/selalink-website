@@ -85,3 +85,21 @@ authority: "찰스 다윈 자서전 및 스탠퍼드 대학 걷기 창의성 연
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>다윈의 샌드워크(Sandwalk)란 무엇인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      그가 매일 세 바퀴씩 걸으며 생각에 잠겼던 모래갈 길로, 가벼운 신체 활동을 통해 전두엽을 활성화하고 진화론 아이디어를 정리하던 생각의 산책로였습니다.
+    </p>
+  </details>
+</div>
