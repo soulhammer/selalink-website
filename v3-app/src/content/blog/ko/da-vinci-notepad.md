@@ -87,3 +87,21 @@ authority: "월터 아이작슨 저 '레오나르도 다 빈치' 및 교육심�
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>다빈치의 메모 습관을 현대인들이 따라 하려면 노트가 꼭 필요한가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      노트나 다이어리 같은 물리적 도구도 좋지만, 스마트폰의 기본 메모 앱이나 노션, 에버노트 등을 활용해 일상에서 드는 영감과 아이디어를 즉시 수집하는 것만으로도 충분히 동일한 효과를 낼 수 있습니다.
+    </p>
+  </details>
+</div>

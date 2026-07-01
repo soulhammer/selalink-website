@@ -4374,11 +4374,11 @@ function run() {
       let title = data.title[lang] || data.title['en'] || "";
       let description = data.description[lang] || data.description['en'] || "";
       let authority = data.authority[lang] || data.authority['en'] || "";
-      let intro = data.intro[lang] || data.intro['en'] || "";
+      let intro = (data.intro[lang] || data.intro['en'] || "").replace(/\\n/g, '\n');
       let whyTitle = data.whyTitle[lang] || data.whyTitle['en'] || "";
-      let whyDesc = data.whyDesc[lang] || data.whyDesc['en'] || "";
+      let whyDesc = (data.whyDesc[lang] || data.whyDesc['en'] || "").replace(/\\n/g, '\n');
       let cautionTitle = data.cautionTitle[lang] || data.cautionTitle['en'] || "";
-      let cautionDesc = data.cautionDesc[lang] || data.cautionDesc['en'] || "";
+      let cautionDesc = (data.cautionDesc[lang] || data.cautionDesc['en'] || "").replace(/\\n/g, '\n');
 
       if (lang === 'ko') {
         const fmTitleMatch = koContent.match(/title:\s*"([^"]+)"/);
@@ -4421,7 +4421,7 @@ function run() {
       data.steps.forEach((step, idx) => {
         const stepIdx = idx + 1;
         let sName = step.name[lang] || step.name['en'] || "";
-        let sText = step.text[lang] || step.text['en'] || "";
+        let sText = (step.text[lang] || step.text['en'] || "").replace(/\\n/g, '\n');
 
         if (lang === 'ko' && koSteps[idx]) {
           sName = koSteps[idx].name;
@@ -4437,7 +4437,7 @@ function run() {
 
         stepCards.push(`<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">${lang === 'ja' ? 'ステップ' : lang === 'zh' ? '步骤' : lang === 'fr' ? 'ÉTAPE' : lang === 'es' || lang === 'pt' ? 'PASO' : lang === 'id' ? 'LANGKAH' : lang === 'de' ? 'SCHRITT' : 'STEP'} ${stepIdx}</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">${lang === 'ko' ? '단계' : lang === 'ja' ? 'ステップ' : lang === 'zh' ? '步骤' : lang === 'fr' ? 'ÉTAPE' : lang === 'es' || lang === 'pt' ? 'PASO' : lang === 'id' ? 'LANGKAH' : lang === 'de' ? 'SCHRITT' : 'STEP'} ${stepIdx}</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">${sName}</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -4450,7 +4450,8 @@ function run() {
 
       let faqSection = '';
       if (data.faqs && data.faqs.length > 0) {
-        const faqTitle = lang === 'ja' ? '\u3088\u304f\u3042\u308b\u8cea\u554f (FAQ)'
+        const faqTitle = lang === 'ko' ? '자주 묻는 질문 (FAQ)'
+          : lang === 'ja' ? '\u3088\u304f\u3042\u308b\u8cea\u554f (FAQ)'
           : lang === 'zh' ? '\u5e38\u89c1\u95ee\u9898 (FAQ)'
           : lang === 'es' ? 'Preguntas Frecuentes (FAQ)'
           : lang === 'fr' ? 'Foire Aux Questions (FAQ)'
@@ -4461,7 +4462,7 @@ function run() {
 
         const faqItems = data.faqs.map((faq, faqIdx) => {
           const q = faq.question[lang] || faq.question['en'];
-          const a = faq.answer[lang] || faq.answer['en'];
+          const a = (faq.answer[lang] || faq.answer['en']).replace(/\\n/g, '\n');
           const isOpen = faqIdx === 0 ? ' open' : '';
           const borderClass = faqIdx < data.faqs.length - 1 ? ' border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4' : '';
           return `  <details class="group${borderClass} cursor-pointer"${isOpen}>

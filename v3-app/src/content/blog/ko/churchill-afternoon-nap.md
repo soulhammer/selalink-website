@@ -85,3 +85,21 @@ authority: "윈스턴 처칠 저 '제2차 세계대전 회고록' 및 NASA 우�
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>낮잠을 자고 나면 밤잠을 설칠까 봐 걱정돼요.</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      낮잠은 오후 1시에서 3시 사이, 최대 30분 이내로 취하는 것이 좋습니다. 이 범위를 지킨다면 야간 수면 압박에 거의 영향을 주지 않으면서 오후 집중력을 크게 끌어올릴 수 있습니다.
+    </p>
+  </details>
+</div>

@@ -85,3 +85,21 @@ authority: "안톤 쉰들러 저 '내가 아는 베토벤' 및 인지감정학�
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>베토벤처럼 매일 아침 정확히 60알의 커피 원두를 세어 마시는 것이 건강에 좋은가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      60알은 에스프레소 한 잔 반 정도의 카페인 양에 해당하므로 매일 아침 활력을 주기 위해 마시기에 신체적으로 적당하지만, 카페인 민감도가 높은 분들은 원두 개수를 줄이거나 디카페인을 활용해 의식을 이어가는 것이 좋습니다.
+    </p>
+  </details>
+</div>

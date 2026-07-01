@@ -83,3 +83,21 @@ authority: "어네스트 헤밍웨이의 Paris Review 인터뷰 (1958) 및 응�
     </p>
   </div>
 </div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>헤밍웨이는 왜 매일 단어 수를 차트에 기록했나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      자신의 집필 진행 상황을 객관적인 숫자로 관찰함으로써 집중력을 유지하고, 스스로 세운 목표치를 완수했다는 성취감을 시각적으로 느끼기 위해서였습니다.
+    </p>
+  </details>
+</div>
