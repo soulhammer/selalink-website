@@ -3,10 +3,20 @@ title: "¿El genio que tomaba siestas con bolas de acero en la mano? El método 
 description: "Un extraño ritual de siesta que Edison realizaba cada vez que se topaba con una pared al buscar ideas innovadoras. Compartimos los principios y la guía de práctica del método de siesta de Edison para obtener inspiración creativa en un estado de semisueño."
 pubDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["Hábitos Históricos","Thomas Edison","Creatividad","Siesta","Inspiración"]
+tags: ["¿El genio ","Routine"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
 authority: "Diario y observaciones de Edison (1948) e investigación del Instituto del Cerebro de París"
+steps:
+  - name: "Preparar un objeto pesado y una superficie de impacto"
+    text: ""
+  - name: "Tomar un semisueño ligero en un sillón"
+    text: ""
+  - name: "Anotar las ideas inmediatamente al despertarse con el sonido de la caída"
+    text: ""
+faqs:
+  - question: "¿Por qué Edison sostenera bolas de acero en sus manos al dormir?"
+    answer: "Al quedarse dormido y relajarse sus músculos, el sonido de las bolas al caer lo despertaba, permitiéndole anotar ideas del límite hipnagógico al instante."
 ---
 
 Thomas Edison, el rey de la invención que registró más de 1.000 patentes que cambiaron el rumbo de la vida cotidiana humana, incluyendo la bombilla incandescente, el fonógrafo y la cámara de cine. ¿Conoce el famoso y singular ritual de siesta que utilizaba cuando se enfrentaba a un reto intelectual complejo o a un bloqueo de ideas? 💤
@@ -17,6 +27,9 @@ En el momento en que empezaba a quedarse dormido y los músculos de todo su cuer
 
 Hoy, BuildSelf explora esta rutina de semisueño que era el secreto de la creatividad de un genio de la invención, junto con una guía moderna.
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
@@ -24,7 +37,7 @@ Hoy, BuildSelf explora esta rutina de semisueño que era el secreto de la creati
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en los registros personales de Thomas Edison <strong>&lt;The Diary and Sundry Observations of Thomas Alva Edison&gt;</strong> y en una investigación sobre la mejora de la resolución creativa de problemas en el estado hipnagógico publicada en la revista 'Science Advances' por el Instituto del Cerebro de París en 2021.
+      Este contenido se basa en <strong>Diario y observaciones de Edison (1948) e investigación del Instituto del Cerebro de París</strong>.
     </p>
   </div>
 </div>
@@ -39,50 +52,67 @@ La neurociencia moderna llama a este estado "Hipnagogia" (el estado de transici�
 
 ---
 
-## 2. La rutina de la siesta de la llave de Edison en 3 pasos para la vida moderna
-
-Proponemos un método moderno de siesta de 10 minutos inspirado en Edison para despertar inmediatamente el cerebro cuando se enfrente a bloqueos creativos o de planificación.
+## 2. Rutina Práctica de 3 Pasos para el Profesional Moderno
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Preparar un objeto pesado y una superficie de impacto</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Sostenga un manojo de llaves metálicas o un termo que sea fácil de sujetar con una mano y que haga un ruido fuerte al caer. Mientras está sentado en una silla, coloque una bandeja de metal o una superficie dura debajo de su mano donde el sonido pueda resonar con claridad.
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tomar un semisueño ligero en un sillón</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Recuéstese profundamente en el sillón, cierre los ojos y relaje todo el cuerpo. Piense muy vagamente en el problema que desea resolver y deje que su cuerpo se deslice hacia el sueño.
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/edison_nap_relax_detail.png" alt="Tomar un semisueño ligero en un sillón" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Anotar las ideas inmediatamente al despertarse con el sonido de la caída</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Cuando los músculos de la mano se relajen y el objeto caiga haciendo un ruido fuerte que lo despierte, no lo dude e inmediatamente escriba todas las palabras, imágenes y fragmentos de pensamientos en el bloc de notas de su móvil o en un cuaderno.
+    
   </p>
 </div>
 
 ---
 
 ## 3. 💡 Una reflexión neurocientífica para el éxito de la rutina
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">El secreto está en despertarse antes de caer en un sueño profundo</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       El propósito de esta rutina no es descansar, sino adquirir únicamente la energía creativa de la zona de hipnagogia, donde se levanta el filtro de control del cerebro. El estímulo de la caída de la bola de acero o las llaves es una alarma analógica muy inteligente que evita que caigamos en el sueño profundo de ondas lentas, donde las ondas cerebrales se ralentizan por completo y olvidamos la inspiración.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué Edison sostenera bolas de acero en sus manos al dormir?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Al quedarse dormido y relajarse sus músculos, el sonido de las bolas al caer lo despertaba, permitiéndole anotar ideas del límite hipnagógico al instante.
+    </p>
+  </details>
 </div>

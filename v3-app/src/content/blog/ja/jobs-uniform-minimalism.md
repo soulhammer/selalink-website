@@ -2,12 +2,22 @@
 title: "毎日同じ服だけを着た天才？スティーブ・ジョブズの意思決定ミニマリズムルーティン"
 description: "常に黒のタートルネックとジーンズを着ていたアップルの創業者スティーブ・ジョブズ。決断疲れを克服する彼のミニマリズム習慣と現代人のための3ステップ服選び簡素化を紹介します。"
 pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["偉人の習慣", "スティーブ・ジョブズ", "生産性", "簡素化", "意思決定"]
+tags: ["毎日同じ服だけを着た","Routine"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 authority: "スティーブ・ジョブズ公式伝記「Steve Jobs」および学術誌「JPSP」意思決定疲労研究"
-updatedDate: "2026-06-25"
+steps:
+  - name: "前日の夜の衣服と持ち物の事前準備"
+    text: ""
+  - name: "自分だけの「基本テンプレート（Uniform）」公式の構築"
+    text: ""
+  - name: "最もクリアな頭脳状態で重要意思決定を処理する"
+    text: ""
+faqs:
+  - question: "스티브・ジョブズはなぜ毎日同じ服ばかり着ていたのですか？"
+    answer: "朝の洋服選びという些細な意思決定で消費される前頭葉のエネルギーを節約し、アップルの経営や製品開発という本質的な決定に100％集中するためでした。"
 ---
 
 アップルを創業し、マッキントッシュ、iPhone、iPadなど革新的なIT機器を発表して、世界のデジタルライフスタイルと文化を永遠に変えた天才起業家、スティーブ・ジョブズ。彼がプレゼンテーションの舞台だけでなく、日常生活でも常に同じ黒のタートルネック、ジーンズ、スニーカーを着用していたことは非常に有名です。 👕
@@ -16,14 +26,17 @@ updatedDate: "2026-06-25"
 
 今日のBuildSelfでは、スティーブ・ジョブズが終生実践した「衣類のミニマリズム」ルーティンの科学的原理と、現代人が朝の時間に発生する決断疲れを減らし生産性を最大化する方法を紹介します。
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、ウォルター・アイザックソンが執筆した公式伝記<strong>「Steve Jobs」</strong>および、些細な選択の累積が意思決定の質と判断力を低下させるという自己消耗（Ego Depletion）理論を立証した社会性格心理学誌（JPSP）の研究を基に作成されました。
+      本コンテンツは、 <strong>スティーブ・ジョブズ公式伝記「Steve Jobs」および学術誌「JPSP」意思決定疲労研究</strong>.
     </p>
   </div>
 </div>
@@ -38,50 +51,67 @@ updatedDate: "2026-06-25"
 
 ---
 
-## 2. 現代人のためのジョブズ意思決定簡素化ルーティン3ステップ
-
-朝の頭の中を最大限クリアにし、ビジネスや重要な学習において最高の決断を下せるようサポートする、現代的なジョブズルーティンを提案します。
+## 2. 現代人のための実践ルーティン 3段階
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">前日の夜の衣服と持ち物の事前準備</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    毎晩寝る前、あるいは日曜日の夜に、翌日着る服、靴下、バッグ、持ち歩くもの（財布、車の鍵など）を、目につきやすい場所に完全に準備しておきます。朝起きた後に「どこにある？」「何を着よう？」と悩む全ての些細な行動を遮断します。
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">自分だけの「基本テンプレート（Uniform）」公式の構築</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    スティーブ・ジョブズのように完全に同じ服を着る必要はありませんが、着用した時に最も快適で、他人に良い印象を与える組み合わせ（例：シャツとスラックス、白いTシャツとベージュのパンツなど）を2〜3のキーテンプレートとして公式化しておきます。朝のコーディネート選びに時間とエネルギーを無駄にしない装置を作ります。
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/jobs_uniform_minimalism_relax_detail.png" alt="自分だけの「基本テンプレート（Uniform）」公式の構築" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">最もクリアな頭脳状態で重要意思決定を処理する</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    簡素化された外出準備のおかげで温存された朝9時の脳のエネルギーを確認してください。出勤直後のメール返信や些細なミーティングの代わりに、今日必ず処理すべき重たい企画書の検討や問題解決など、高度な認知資源を必要とする業務を最優先で処理します。
+    
   </p>
 </div>
 
 ---
 
 ## 3. 効率的なルーティンのための脳科学的なヒント
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">減らすほど疲れにくくなり、より集中できるようになります</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       スティーブ・ジョブズにとって、黒のタートルネックは単なる服一着以上の賢い道具でした。些細な選択を削ぎ落とすことで、彼が本当に没頭し愛したクリエイティブな世界とアップルの本質に、すべての認知能力を収束させることができたのです。今日から日常生活の中で選択のプロセスを一つずつシンプルにしてみてください。あなたの選択はもっと軽くなり、よりスマートになるでしょう。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>스티브・ジョブズはなぜ毎日同じ服ばかり着ていたのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      朝の洋服選びという些細な意思決定で消費される前頭葉のエネルギーを節約し、アップルの経営や製品開発という本質的な決定に100％集中するためでした。
+    </p>
+  </details>
 </div>

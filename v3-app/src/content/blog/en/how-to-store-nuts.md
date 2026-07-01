@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Nuts","Scientifically Proven Storage Guide","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Seal and refrigerate/freeze once opened — Refrigerated 90 days & Frozen 180 days"
     text: "Nuts contain high levels of fats which oxidize and turn rancid in warm, humid room temperatures. This environment also fosters aflatoxin, a dangerous carcinogen produced by mold. Always store nuts in airtight containers in the fridge or freezer."
@@ -25,7 +25,7 @@ Do you leave healthy nuts out on the dining table in clear containers? Nuts are 
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>MFDS & USDA</strong>.
+      This storage guide is verified based on official guidelines from the <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>
@@ -74,22 +74,22 @@ Understanding the unique characteristics of each ingredient and following the pr
 
 ## 3. Crucial Rules and Cautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Never eat rancid or damp nuts ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Never eat rancid or damp nuts</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      If nuts have a stale oil smell or feel damp, it means lipid oxidation and aflatoxin mold growth have already begun. The toxin is not destroyed by washing or roasting, so you must discard them.
+      Oxidized nuts develop aflatoxins, powerful carcinogens that are not destroyed even by heat. Discard them immediately.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Handle nuts carefully to prevent cracks 🥜</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Seal with oxygen absorbers in dark places</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      If the surface of walnuts or almonds is cracked or damaged by impact, air will seep into the cracks and oxidation will progress much faster. Avoid compressing the bag heavily.
+      Store nuts in opaque containers or bags with oxygen absorbers inside, and keep them in a cool drawer or freeze.
     </p>
   </div>
 </div>

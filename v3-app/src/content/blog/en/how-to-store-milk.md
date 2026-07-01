@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Milk","Scientifically Proven Storage Guide","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Do not store on the refrigerator door — Refrigerated Storage (7Days)"
     text: "The refrigerator door experiences the most severe temperature fluctuations whenever it is opened and closed. To preserve milk, keep it on the inner shelves of the refrigerator where the temperature is stable at 0–4°C."
@@ -25,7 +25,7 @@ Do you store milk cartons lined up in the refrigerator door shelves? The refrige
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>MFDS & USDA</strong>.
+      This storage guide is verified based on official guidelines from the <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>

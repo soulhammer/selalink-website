@@ -6,9 +6,9 @@ category: "StoreSelf"
 tags: ["牛乳","科学的に検証された保存ガイド","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
-authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
 steps:
-  - name: "冷蔵庫のドアポケット保存を避ける — 冷蔵保存 (7日間)"
+  - name: "冷蔵庫のドアポケット保存を避ける — 冷蔵保存 (7日間) ア"
     text: "冷蔵庫のドアポケットは, ドアの開閉のたびに最も温度変化が激しくなる場所です。牛乳を新鮮に保つためには, 温度が0〜4℃で安定している冷蔵庫の奥の棚に置いてください。"
   - name: "開封後は7日以内に消費する — 雑菌繁殖の抑制 🥛"
     text: "牛乳を開封した瞬間から, 空気中の雑菌や酸素が入り込み品質の低下が始まります。パックの注ぎ口に手が触れないよう注意し, 賞味期限に関わらず開封後は1週間以内に飲み切るようにしてください。"
@@ -25,7 +25,7 @@ steps:
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>.
+      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>.
     </p>
   </div>
 </div>
@@ -43,7 +43,7 @@ steps:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">冷蔵庫のドアポケット保存を避ける — 冷蔵保存 (7日間)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">冷蔵庫のドアポケット保存を避ける — 冷蔵保存 (7日間) ア</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     冷蔵庫のドアポケットは, ドアの開閉のたびに最も温度変化が激しくなる場所です。牛乳を新鮮に保つためには, 温度が0〜4℃で安定している冷蔵庫の奥の棚に置いてください。

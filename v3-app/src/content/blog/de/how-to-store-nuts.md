@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Nüsse","Wissenschaftlich geprüfter Lagerungsratgeber","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Nach dem Öffnen versiegeln und kühlen/einfrieren — Kühllagerung 90 Tage & Gefrierlagerung 180 Tage"
     text: "Nüsse enthalten viel Fett, das bei warmen, feuchten Temperaturen oxidiert und ranzig wird. Diese Umgebung begünstigt auch die Bildung von Aflatoxinen, einem krebserregenden Schimmelpilzgift."
@@ -25,7 +25,7 @@ Lagern Sie Nüsse in transparenten Gläsern auf dem Esstisch? Nüsse sind reich 
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>MFDS & USDA</strong>.
+      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>
@@ -74,22 +74,22 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 ## 3. Wichtige Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Essen Sie niemals ranzige oder feuchte Nüsse ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Niemals ranzige oder feuchte Nüsse essen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Wenn Nüsse ranzig riechen oder sich feucht anfühlen, hat die Fettoxidation und das Wachstum von Aflatoxin-Schimmelpilzen bereits begonnen. Das Toxin wird weder durch Waschen noch durch Rösten zerstört, daher müssen Sie sie entsorgen.
+      Oxidierte Nüsse bilden Aflatoxine, starke Karzinogene, die durch Erhitzen nicht zerstört werden. Sofort entsorgen.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nüsse vorsichtig handhaben, um Risse zu vermeiden 🥜</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mit Sauerstoffabsorbern an dunklen Orten luftdicht lagern</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Wenn die Oberfläche von Walnüssen oder Mandeln durch Stöße Risse bekommt oder beschädigt wird, dringt Luft in die Risse ein und die Oxidation schreitet viel schneller voran. Vermeiden Sie es, die Tüte stark zusammenzupressen.
+      Nüsse in lichtundurchlässigen Behältern mit Sauerstoffabsorbern im kühlen Schrank oder im Gefrierfach lagern.
     </p>
   </div>
 </div>

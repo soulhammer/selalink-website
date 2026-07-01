@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Leite","Guia de armazenamento comprovado cientificamente","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Não guarde na porta da geladeira — Armazenamento Refrigerado (7Dias)"
     text: "A porta da geladeira sofre constantes oscilações de temperatura a cada abertura. Para conservar o leite, mantenha-o nas prateleiras internas da geladeira, onde a temperatura fica estável a 0-4 °C."
@@ -25,7 +25,7 @@ Você guarda as caixas de leite alinhadas nas prateleiras da porta da geladeira?
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este guia de conservação segue as diretrizes oficiais de: <strong>MFDS & USDA</strong>.
+      Este guia de conservação segue as diretrizes oficiais de: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>

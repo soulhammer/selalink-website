@@ -13,7 +13,7 @@ steps:
   - name: "Aplique jugo de limón o vino de cocina — Conservante natural 🍋"
     text: "Unte una capa fina de jugo de limón o un poco de vino de cocina en el salmón seco. El ácido y el alcohol actúan como conservantes naturales, frenando bacterias y la oxidación de las grasas."
   - name: "Envuelva firmemente con film plástico sacando el aire — Almacenamiento Congelado (90Días) 📦"
-    text: "Envuelva el salmón firmemente con film plástico, eliminando el aire, y métalo en una bolsa con cierre. Esto lo mantiene fresco hasta 2 días en el refrigerador y 90 días en el congelador."
+    text: "Envuelva el salmón firmemente con film plástico, eliminando el aire, y métalo en una bolsa con cierre. Esto lo mantiene fresco hasta 2 días en el refrigerador y 60 días en el congelador."
 ---
 
 ¿Dejó salmón fresco en el refrigerador por más de dos días? El salmón tiene mucha agua, facilitando que las bacterias crezcan rápido. Hoy, StoreSelf comparte trucos de sellado aprobados por la FDA.
@@ -66,7 +66,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva firmemente con film plástico sacando el aire — Almacenamiento Congelado (90Días) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Envuelva el salmón firmemente con film plástico, eliminando el aire, y métalo en una bolsa con cierre. Esto lo mantiene fresco hasta 2 días en el refrigerador y 90 días en el congelador.
+    Envuelva el salmón firmemente con film plástico, eliminando el aire, y métalo en una bolsa con cierre. Esto lo mantiene fresco hasta 2 días en el refrigerador y 60 días en el congelador.
   </p>
 </div>
 
@@ -74,22 +74,22 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 
 ## 3. Reglas cruciales y precauciones
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Revise minuciosamente los cambios de color y la textura ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Limpie la humedad y los jugos de la superficie por completo</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Si el salmón ha perdido su color rosa brillante y se ha vuelto marrón oscuro, o si al presionarlo con el dedo se hunde y no recupera su forma, las proteínas ya han empezado a descomponerse y debe desecharlo.
+      El líquido que gotea del pescado causa olor a choquía y acelera su deterioro. Séquelo bien antes de envolverlo.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Retire la piel y las espinas antes de congelar ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Envuelva al vacío o selle herméticamente sin aire</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Para la congelación a largo plazo (hasta 90 días), se recomienda quitar previamente la piel y las espinas, y congelarlo bien envuelto en porciones individuales. Esto facilitará su posterior descongelación y consumo, y ayudará a conservar la textura.
+      El contacto con el oxígeno oxida las grasas y seca la textura. Envolver muy apretado con film evita el paso del aire.
     </p>
   </div>
 </div>

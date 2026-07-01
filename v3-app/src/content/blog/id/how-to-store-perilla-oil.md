@@ -74,22 +74,22 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 ## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Segera buang jika berbau tengik ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Selalu simpan minyak perilla di dalam kulkas</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Jika minyak perilla berbau asam atau tengik saat dibuka, bukan aroma gurih yang khas, artinya minyak sudah teroksidasi sepenuhnya. Minyak perilla yang tengik mengandung zat beracun yang dapat memicu kanker dan mempercepat penuaan, jadi jangan dikonsumsi dan segera buang.
+      Paparan oksigen dan cahaya membuat minyak perilla cepat rusak. Simpan rapat dalam botol gelap di kulkas.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jangan simpan minyak wijen di dalam kulkas ❌</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Campur dengan 20% minyak gergelim untuk melipatgandakan masa simpan</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Berkat kandungan antioksidan alaminya, minyak wijen tidak mudah teroksidasi meskipun disimpan pada suhu ruang. Menyimpannya di dalam kulkas justru akan membekukan komponen rasa gurih dan menghilangkan aromanya. Simpan minyak wijen di lemari dapur yang teduh pada suhu ruang.
+      Minyak gergelim kaya akan sesamol dan sesamolin, antioksidan alami yang mencegah minyak perilla menjadi tengik.
     </p>
   </div>
 </div>

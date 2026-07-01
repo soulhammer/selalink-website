@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["卵","科学的に検証された保存ガイド","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
-authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
 steps:
   - name: "絶対に水洗いしない — 冷蔵保存 (45日間) 💧"
     text: "卵の殻には、呼吸をするための数千個の微細な穴（気孔）が開いています。水洗いすると殻の表面の天然の保護膜（クチクラ）が失われ、気孔を通じてサルモネラ菌などの細菌が内部へ侵入しやすくなります。汚れは乾いた布で拭き取る程度にしてください。"
@@ -25,7 +25,7 @@ steps:
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>.
+      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>.
     </p>
   </div>
 </div>

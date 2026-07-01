@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Frutos secos","Guía de almacenamiento científicamente probada","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Selle y refrigere/congele una vez abierto — Refrigerado 90 días & Congelado 180 días"
     text: "Los frutos secos contienen grasas que se oxidan y se rancien a temperatura ambiente cálida y húmeda. Esto también propicia la aparición de aflatoxinas, toxinas cancerígenas de los hongos. Guárdelos sellados en frío."
@@ -25,7 +25,7 @@ steps:
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Esta guía de conservación cumple con las directrices oficiales de: <strong>MFDS & USDA</strong>.
+      Esta guía de conservación cumple con las directrices oficiales de: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>
@@ -74,22 +74,22 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 
 ## 3. Reglas cruciales y precauciones
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nunca coma frutos secos rancios o húmedos ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nunca coma frutos secos rancios o húmedos</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Si los frutos secos huelen a aceite rancio o se sienten húmedos, significa que la oxidación de los lípidos y el crecimiento del moho de la aflatoxina ya han comenzado. La toxina no se destruye al lavarlos ni al tostarlos, por lo que debe desecharlos.
+      Los frutos secos oxidados desarrollan aflatoxinas, potentes carcinógenos que no se destruyen con calor. Deséchelos de inmediato.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Manipule los frutos secos con cuidado para evitar grietas 🥜</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Selle con absorbentes de oxígeno en lugares oscuros</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Si la superficie de las nueces o almendras se agrieta o se daña por algún impacto, el aire se filtrará por las grietas y la oxidación avanzará mucho más rápido. Evite presionar la bolsa con fuerza.
+      Guarde los frutos secos en recipientes opacos con absorbentes de oxígeno, en un cajón fresco o en el congelador.
     </p>
   </div>
 </div>

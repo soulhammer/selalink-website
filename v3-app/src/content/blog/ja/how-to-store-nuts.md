@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["ナッツ","科学的に検証された保存ガイド","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
-authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
 steps:
   - name: "開封後は必ず密閉して冷蔵・冷凍保存 — 冷蔵 90日間 & 冷凍 180日間"
     text: "ナッツ類は高温多湿の常温に放置すると, 脂質が酸化して悪臭を放ちます。また, 発がん性のあるカビ毒アフラトキシンが発生しやすくなるため, 開封後は必ず密閉して冷蔵または冷凍で保存してください。"
@@ -25,7 +25,7 @@ steps:
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>.
+      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>.
     </p>
   </div>
 </div>
@@ -74,22 +74,22 @@ steps:
 
 ## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">酸敗臭（酸化した臭い）がしたり、湿気たナッツ類は絶対に食べないでください ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">油臭い臭いがしたり、湿気たナッツは絶対に食べないでください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ナッツ類から古い油の臭いがしたり、触ったときに湿気ているものは、すでに脂肪の酸化とアフラトキシン（カビ毒）の増殖が始まっています。水で洗ったり炒めたりしても毒素は消えないため、必ず廃棄してください。
+      酸化したナッツにはアフラトキシンという強力な発がん性物質（カビ毒）が発生します。加熱しても消えないため、すぐに破棄してください。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">ナッツ類に傷がつかないよう優しく扱ってください 🥜</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">脱酸素剤と一緒に光を通さない容器で密閉保存してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      クルミやアーモンドの表面にひびが入ったり、粉が出るほどの衝撃を与えると、傷ついた隙間から空気が入り込んで酸化が急激に進みます。袋を無理に圧迫しないでください。
+      不透明な容器やジッパーバッグに脱酸素剤と一緒に入れ、光を遮断した涼しい引き出しに入れるか、冷凍庫で保管してください。
     </p>
   </div>
 </div>

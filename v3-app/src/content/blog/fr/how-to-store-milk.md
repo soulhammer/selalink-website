@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Lait","Guide de conservation scientifiquement prouvé","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Ne pas conserver dans la porte du frigo — Stockage Réfrigéré (7Jours)"
     text: "La porte du réfrigérateur subit les variations de température les plus fortes à chaque ouverture. Pour préserver le lait, rangez-le sur les étagères du fond où la température est stable à 0-4 °C."
@@ -25,7 +25,7 @@ Rangez-vous les briques de lait alignées dans la porte du frigo ? La porte subi
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce guide de conservation est basé sur les directives officielles de : <strong>MFDS & USDA</strong>.
+      Ce guide de conservation est basé sur les directives officielles de : <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>

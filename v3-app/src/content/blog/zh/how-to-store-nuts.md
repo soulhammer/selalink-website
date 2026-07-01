@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["坚果","科学验证的储存指南","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
-authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
+authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"
 steps:
   - name: "开封后务必密封冷藏/冷冻 — 冷藏 90天 & 冷冻 180天"
     text: "坚果含有大量油脂，如果存放在高温潮湿的常温下，脂肪成分会与氧气氧化产生哈喇味，并且极易滋生1类致癌霉菌毒素——黄曲霉毒素（Aflatoxin）。因此开封后务必密封好冷藏或冷冻保存。"
@@ -25,7 +25,7 @@ steps:
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本指南严格遵守以下机构公认的食品安全与储存指南： <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>.
+      本指南严格遵守以下机构公认的食品安全与储存指南： <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>.
     </p>
   </div>
 </div>
@@ -74,22 +74,22 @@ steps:
 
 ## 3. 储存注意事项
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">变质有哈喇味或受潮的坚果千万不可食用 ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">绝对不要食用有哈喇味或受潮的坚果</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      坚果一旦散发出陈油哈喇味或摸起来受潮，说明脂肪酸败和黄曲霉毒素（致癌霉菌毒素）的滋生已经开始。该毒素通过清洗或炒制都无法消除，因此必须予以丢弃。
+      氧化的坚果会产生黄曲霉毒素，这是一种强致癌物，即使加热也无法被破坏。发现变质请立即丢弃。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">请轻拿轻放，避免坚果表皮受损 🥜</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">放入脱氧剂并密封存放在避光阴凉处</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      如果核桃或大杏仁的外表皮因磕碰出现裂纹或受损碎裂，空气会从未封闭的裂缝渗入，导致氧化酸败速度大大加快。请勿用力挤压包装袋。
+      将坚果装入不透明的容器或密封袋中，放入脱氧剂以阻断空气，存放在避光的抽屉中或直接冷冻。
     </p>
   </div>
 </div>

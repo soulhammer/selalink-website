@@ -10,19 +10,17 @@ app: "buildself"
 authority: "Salvador Dalís Autobiografie „Das geheime Leben des Salvador Dalí“ & Journal of Frontiers in Human Neuroscience"
 steps:
   - name: "Nehmen Sie eine halb zurückgelehnte Haltung ein"
-    text: "Anstatt sich ins Bett zu legen, lehnen Sie sich in einem Stuhl zurück. Hinlegen führt zu tiefem Schlaf, wodurch Sie die hypnagogischen Erinnerungen verlieren."
+    text: ""
   - name: "Stellen Sie einen kurzen Timer oder Fall-Mechanismus ein"
-    text: "Stellen Sie einen Wecker auf 5 bis 7 Minuten oder halten Sie einen leichten Gegenstand über den Boden. Bereiten Sie einen physischen Auslöser vor."
+    text: ""
   - name: "Halten Sie das Unterbewusstsein sofort fest"
-    text: "Schreiben Sie im Moment des Erwachens die verbleibenden Bilder oder Konzepte innerhalb von 1 Minute auf. Vermeiden Sie logische Formatierung."
-faqs:
-  - question: "Warum benutzte Dalí ausgerechnet einen Löffel und einen Teller?"
-    answer: "Das Eintreten in den Tiefschlaf (N2-Phase oder darüber hinaus) führt dazu, dass das Gehirn unterbewusste Bilder vergisst. Durch das Fallenlassen des Löffels erwachte Dalí an der Grenze (Hypnagogie) sofort, um die Bilder zu behalten."
-  - question: "Gibt es Alternativen zum Löffel für diese Routine?"
-    answer: "Ja, Sie können einen kurzen Timer (5–10 Minuten) einstellen oder einen leichten Gegenstand halten, um die gleiche Stimulation zu erzielen."
+    text: ""
 ---
 
 Salvador Dalí, ein Gigant der surrealistischen Kunst und einer der kreativsten Köpfe des 20. Jahrhunderts. Woher stammten die bizarren Inspirationen in seinen Werken? Wenn Dalí vor kreativen Blockaden oder geistiger Erschöpfung stand, setzte er sich bequem in einen Holzstuhl und hielt einen Metalllöffel locker in einer Hand, während er einen Metallteller auf den Boden stellte. Heute untersucht BuildSelf die Wissenschaft hinter Dalís Mittagsschlaf.
+
+
+</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -52,7 +50,7 @@ Die Übergangsphase zum Schlaf löst die „Hypnagogie“ aus, einen Zustand vol
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nehmen Sie eine halb zurückgelehnte Haltung ein</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Anstatt sich ins Bett zu legen, lehnen Sie sich in einem Stuhl zurück. Hinlegen führt zu tiefem Schlaf, wodurch Sie die hypnagogischen Erinnerungen verlieren.
+    
   </p>
 </div>
 
@@ -62,7 +60,7 @@ Die Übergangsphase zum Schlaf löst die „Hypnagogie“ aus, einen Zustand vol
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stellen Sie einen kurzen Timer oder Fall-Mechanismus ein</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Stellen Sie einen Wecker auf 5 bis 7 Minuten oder halten Sie einen leichten Gegenstand über den Boden. Bereiten Sie einen physischen Auslöser vor.
+    
   </p>
   <div class="mt-6 flex justify-center">
     <img src="/images/blog/dali_spoon_nap_relax_detail.png" alt="Stellen Sie einen kurzen Timer oder Fall-Mechanismus ein" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
@@ -75,7 +73,7 @@ Die Übergangsphase zum Schlaf löst die „Hypnagogie“ aus, einen Zustand vol
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Halten Sie das Unterbewusstsein sofort fest</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Schreiben Sie im Moment des Erwachens die verbleibenden Bilder oder Konzepte innerhalb von 1 Minute auf. Vermeiden Sie logische Formatierung.
+    
   </p>
 </div>
 
@@ -89,32 +87,4 @@ Die Übergangsphase zum Schlaf löst die „Hypnagogie“ aus, einen Zustand vol
       Dalís Löffel-Schlaf war ein eleganter Mechanismus, um das Unterbewusstsein mit kreativer Leistung zu verbinden. Wenn Sie feststecken, schenken Sie Ihrem Gehirn 5 Minuten Zeit, um die Kontrolle loszulassen.
     </p>
   </div>
-</div>
-
----
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> Häufig gestellte Fragen (FAQ)
-  </h3>
-  
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>Warum benutzte Dalí ausgerechnet einen Löffel und einen Teller?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
-    </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Das Eintreten in den Tiefschlaf (N2-Phase oder darüber hinaus) führt dazu, dass das Gehirn unterbewusste Bilder vergisst. Durch das Fallenlassen des Löffels erwachte Dalí an der Grenze (Hypnagogie) sofort, um die Bilder zu behalten.
-    </p>
-  </details>
-
-  <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>Gibt es Alternativen zum Löffel für diese Routine?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
-    </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, Sie können einen kurzen Timer (5–10 Minuten) einstellen oder einen leichten Gegenstand halten, um die gleiche Stimulation zu erzielen.
-    </p>
-  </details>
 </div>

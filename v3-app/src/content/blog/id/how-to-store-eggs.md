@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Telur","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Jangan mencuci telur sebelum disimpan — Penyimpanan Dingin (45Hari) 💧"
     text: "Cangkang telur memiliki ribuan pori-pori mikroskopis untuk bernapas. Mencucinya akan mengikis lapisan pelindung alami (kutikula) pada cangkang, memudahkan bakteri masuk. Cukup lap kotoran dengan kain kering."
@@ -25,7 +25,7 @@ Apakah Anda mencuci telur segar lalu menyimpannya di rak pintu kulkas? Cara ini 
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>MFDS & USDA</strong>.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>

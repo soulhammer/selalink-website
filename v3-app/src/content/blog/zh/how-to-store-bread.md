@@ -74,22 +74,22 @@ steps:
 
 ## 3. 储存注意事项
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">防止冷冻室异味渗入面包 ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">吐司绝对不要放入冷藏室</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      面包会像海绵一样吸附微小的异味。如果冷冻袋口没封严，冷冻室内的鱼腥味或饺子味就会渗入面包中导致无法食用，因此请务必进行双重密封。
+      淀粉老化（重结晶）在冷藏温度（2-6℃）下进行得最快，会迅速夺走吐司中的水分使其发硬。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">常温储存请勿超过3天 🍞</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">常温保存最多2天，剩余的请立即冷冻</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      未添加过多防腐剂的吐司面包在常温下若湿度较高，两三天内极易滋生霉菌。当天无法吃完的部分，最安全的方式是立即冷冻。
+      新鲜吐司在常温下极易变质发霉。请立即冷冻保存，以锁住其水分结构。
     </p>
   </div>
 </div>

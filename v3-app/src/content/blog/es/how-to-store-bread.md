@@ -74,22 +74,22 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 
 ## 3. Reglas cruciales y precauciones
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Evite que los olores del congelador penetren en el pan ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nunca guarde el pan en la zona de refrigeración</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El pan absorbe los olores sutiles como una esponja. Si la bolsa del congelador queda parcialmente abierta, los olores a pescado o empanadillas del congelador pueden impregnar el pan, haciéndolo incomible. Séllelo de forma doble.
+      La retrogradación (cristalización) del almidón ocurre más rápido a temperaturas de refrigeración (2-6 °C), secando el pan velozmente.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Limite el almacenamiento a temperatura ambiente a un máximo de 3 días 🍞</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Conserve a temp. ambiente 2 días máximo; congele el resto</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El pan sin muchos conservantes puede desarrollar moho azul fácilmente en 2 o 3 días si se almacena a temperatura ambiente con alta humedad. Lo más seguro es congelar el mismo día lo que no vaya a consumir.
+      El pan fresco se daña y cría moho fácil a temp. ambiente. Congele de inmediato para proteger su estructura y humedad.
     </p>
   </div>
 </div>

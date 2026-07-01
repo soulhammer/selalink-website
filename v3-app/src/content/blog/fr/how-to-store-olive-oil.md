@@ -74,22 +74,22 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 ## 3. Règles cruciales et précautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Fermez bien le bouchon après chaque utilisation ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Fermez soigneusement le bouchon après chaque utilisation</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Lorsque l'huile d'olive entre en contact avec l'oxygène de l'air, les radicaux libres augmentent rapidement. Veillez à bien fermer le bouchon après chaque utilisation pour empêcher l'air d'entrer.
+      L'huile d'olive s'oxyde au contact de l'oxygène, augmentant son acidité et perdant ses bienfaits. Fermez toujours fermement le bouchon.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">N'oubliez pas les différences de température de stockage des huiles 🫒</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Éloignez des sources de chaleur comme les plaques et le four</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Alors que l'huile d'olive et l'huile de sésame doivent être conservées à température ambiante pour préserver leur arôme, l'huile de périlla, riche en oméga-3 et qui s'oxyde extrêmement rapidement, doit impérativement être conservée au réfrigérateur.
+      La chaleur des plaques accélère l'oxydation et gâte l'huile. Stockez-la dans un placard de cuisine frais et sombre.
     </p>
   </div>
 </div>

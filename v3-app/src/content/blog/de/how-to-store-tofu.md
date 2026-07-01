@@ -8,10 +8,10 @@ heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Packungswasser weggießen und unter fließendem Wasser abspülen — Kaltes Abspülen 🚿"
+  - name: "Packungswasser weggießen und unter fließendem Wasser abspülen — Kühllagerung (7Tage) 🚿"
     text: "Das Wasser in der Tofupackung enthält gelöste Proteine und ist ein Nährboden für Bakterien. Gießen Sie das Wasser weg und spülen Sie den Tofu unter fließendem Wasser ab."
-  - name: "In kaltes Wasser mit einer Prise Salz einlegen — Kühllagerung (7 Tage) 🧂"
-    text: "Legen Sie den Tofu in einen Behälter, bedecken Sie ihn mit kaltem Wasser and geben Sie eine Prise Salz hinzu. Das Salzwasser hemmt Bakterien und hält den Tofu fest."
+  - name: "In kaltes Wasser mit einer Prise Salz einlegen — Gefrierlagerung (21Tage) 🧂"
+    text: "Legen Sie den Tofu in einen Behälter, bedecken Sie ihn mit kaltem Wasser und geben Sie eine Prise Salz hinzu. Das Salzwasser hemmt Bakterien und hält den Tofu fest."
   - name: "Das Wasser täglich wechseln — Sauberkeit und Frische erhalten 💧"
     text: "Auch mit Salz sollte das Wasser täglich oder alle zwei Tage gewechselt werden. Dies verhindert das Sauerwerden des Tofus und hält ihn bis zu einer Woche frisch."
 ---
@@ -43,7 +43,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Packungswasser weggießen und unter fließendem Wasser abspülen — Kaltes Abspülen 🚿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Packungswasser weggießen und unter fließendem Wasser abspülen — Kühllagerung (7Tage) 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Das Wasser in der Tofupackung enthält gelöste Proteine und ist ein Nährboden für Bakterien. Gießen Sie das Wasser weg und spülen Sie den Tofu unter fließendem Wasser ab.
@@ -53,7 +53,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In kaltes Wasser mit einer Prise Salz einlegen — Kühllagerung (7 Tage) 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In kaltes Wasser mit einer Prise Salz einlegen — Gefrierlagerung (21Tage) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Legen Sie den Tofu in einen Behälter, bedecken Sie ihn mit kaltem Wasser und geben Sie eine Prise Salz hinzu. Das Salzwasser hemmt Bakterien und hält den Tofu fest.
@@ -77,9 +77,9 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 <div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nach dem Blanchieren einfrieren (21 Tage) verändert die Struktur zu schwammartig ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Verpackungswasser weggießen und täglich durch frisches, kaltes Wasser ersetzen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Wenn Sie Tofu nach kurzem Blanchieren einfrieren, entweicht Feuchtigkeit und erzeugt eine schwammartige Textur. Verwenden Sie dies für Eintöpfe oder Füllungen. Gefrierlagerung bis zu 21 Tage.
+      Übrig gebliebener Tofu verdirbt durch Keime schnell. Täglicher Wasserwechsel hemmt das Bakterienwachstum.
     </p>
   </div>
 </div>

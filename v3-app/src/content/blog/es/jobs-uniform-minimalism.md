@@ -2,12 +2,22 @@
 title: "¿El genio que vestía la misma ropa todos los días? La rutina de minimalismo de decisiones de Steve Jobs"
 description: "Steve Jobs, el cofundador de Apple que vestía suéter negro y jeans a diario. Descubra su rutina para evitar la fatiga por decisión y una práctica de 3 pasos."
 pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["Hábitos Históricos", "Steve Jobs", "Productividad", "Simplificación", "Toma de Decisiones"]
+tags: ["¿El genio ","Routine"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 authority: "Biografía de Steve Jobs por Walter Isaacson y revista JPSP sobre la fatiga por decisión"
-updatedDate: "2026-06-25"
+steps:
+  - name: "Preparar la Ropa y los Objetos Personales la Noche Anterior"
+    text: ""
+  - name: "Crear su Propia 'Plantilla Básica (Uniforme)'"
+    text: ""
+  - name: "Tomar Decisiones Importantes con el Cerebro Despejado"
+    text: ""
+faqs:
+  - question: "¿Por qué Steve Jobs vestía la misma ropa todos los días?"
+    answer: "Para ahorrar la energía prefrontal consumida por elecciones triviales de ropa, enfocando el 100% de su capacidad en decisiones clave de negocio."
 ---
 
 Steve Jobs, el genio emprendedor que cofundó Apple y lanzó el Macintosh, iPhone, iPad y otros dispositivos revolucionarios que cambiaron para siempre el estilo de vida digital de la humanidad. ¿Sabía que vestía exactamente el mismo suéter negro, vaqueros y zapatillas todos los días, y no sólo en los escenarios? 👕
@@ -16,14 +26,17 @@ Mucha gente piensa en su uniforme como una simple expresión de personalidad o e
 
 Hoy, BuildSelf presenta los principios científicos de la rutina de 'minimalismo de vestuario' de Steve Jobs y cómo las personas modernas pueden reducir la fatiga por toma de decisiones por la mañana para maximizar la productividad.
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Base Histórica y Académica
+      Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en la biografía oficial <strong>&lt;Steve Jobs&gt;</strong> de Walter Isaacson y en investigaciones publicadas en el Journal of Personality and Social Psychology (JPSP) que demuestran la teoría del desgaste del ego (Ego Depletion), según la cual la acumulación de elecciones menores disminuye la calidad de las decisiones.
+      Este contenido se basa en <strong>Biografía de Steve Jobs por Walter Isaacson y revista JPSP sobre la fatiga por decisión</strong>.
     </p>
   </div>
 </div>
@@ -38,50 +51,67 @@ Cuando la fatiga se acumula, nuestro cerebro pierde su capacidad de juicio racio
 
 ---
 
-## 2. Rutina de Simplificación de Decisiones de Jobs en 3 Pasos para Personas Modernas
-
-Para despejar su mente por la mañana y tomar las mejores decisiones en los negocios o estudios importantes, le proponemos una rutina moderna de simplificación inspirada en Jobs.
+## 2. Rutina Práctica de 3 Pasos para el Profesional Moderno
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Preparar la Ropa y los Objetos Personales la Noche Anterior</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Cada tarde antes de ir a dormir o el domingo por la noche, coloque su ropa, calcetines, bolsos y objetos que deba llevar (cartera, llaves del coche, etc.) en un lugar visible. Evite todas las preocupaciones y búsquedas inútiles por la mañana.
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Crear su Propia 'Plantilla Básica (Uniforme)'</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    No necesita vestir el mismo uniforme que Steve Jobs, pero establezca de 2 a 3 combinaciones básicas de ropa que le resulten cómodas y den una buena impresión (por ejemplo, camisa y pantalón de vestir, camiseta blanca y pantalón beige). Esto evita perder el tiempo eligiendo ropa por la mañana.
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/jobs_uniform_minimalism_relax_detail.png" alt="Crear su Propia 'Plantilla Básica (Uniforme)'" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tomar Decisiones Importantes con el Cerebro Despejado</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Compruebe su nivel de energía a las 9 de la mañana gracias a la simplificación de los preparativos matutinos. En lugar de responder correos o mantener reuniones insignificantes, dedíquese primero a las tareas de alta exigencia cognitiva, como revisar propuestas críticas o resolver problemas complejos.
+    
   </p>
 </div>
 
 ---
 
 ## 3. Un Mensaje de la Neurociencia para una Rutina Exitosa
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Reducir la carga para disminuir la fatiga y enfocarse más</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       Para Steve Jobs, el suéter negro era más que una prenda de vestir: era una herramienta inteligente. Al eliminar elecciones secundarias, lograba canalizar toda su capacidad cognitiva hacia el mundo creativo y la esencia de Apple que tanto amaba. Empiece a simplificar los procesos de decisión uno a uno en su vida diaria. Sus elecciones serán mucho más ligeras e inteligentes.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué Steve Jobs vestía la misma ropa todos los días?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Para ahorrar la energía prefrontal consumida por elecciones triviales de ropa, enfocando el 100% de su capacidad en decisiones clave de negocio.
+    </p>
+  </details>
 </div>

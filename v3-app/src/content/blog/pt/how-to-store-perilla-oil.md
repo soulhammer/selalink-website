@@ -74,22 +74,22 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 
 ## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Descarte imediatamente se cheirar rancio ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Guarde o óleo de perila na geladeira sem exceção</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Se o óleo de perilla cheirar azedo ou rançoso ao invés do aroma característico ao abrir, ele já está completamente oxidado. O óleo de perilla rançoso contém substâncias tóxicas que podem causar câncer e acelerar o envelhecimento. Não consuma e descarte-o imediatamente.
+      A exposição ao oxigênio e à luz faz o óleo estragar rápido. Guarde-o fechado em garrafas escuras na geladeira.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Não guarde o óleo de gergelim na geladeira ❌</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Misturar com 20% de óleo de gergelim dobra a conservação</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Graças aos seus antioxidantes naturais, o óleo de gergelim não oxida facilmente mesmo armazenado em temperatura ambiente. Refrigerá-lo faz com que os componentes de sabor solidifiquem e o aroma se dissipe. Mantenha o óleo de gergelim em um armário escuro em temperatura ambiente.
+      O óleo de gergelim é rico em sesamol e sesamolina, antioxidantes naturais que evitam que o óleo de perila fique ranço.
     </p>
   </div>
 </div>

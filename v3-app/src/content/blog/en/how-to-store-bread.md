@@ -74,22 +74,22 @@ Understanding the unique characteristics of each ingredient and following the pr
 
 ## 3. Crucial Rules and Cautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Prevent freezer odors from soaking into the bread ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Never store bread in the refrigerator compartment</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Bread absorbs subtle odors like a sponge. If the freezer bag is left partially open, fish or dumpling odors from the freezer can soak into the bread, making it inedible, so double seal it.
+      Starch retrogradation (crystallization) happens fastest at refrigeration temperatures (2-6°C), drying out the bread rapidly.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Limit room temperature storage to 3 days maximum 🍞</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Keep at room temp for 2 days maximum; freeze the rest</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Bread without many preservatives can easily grow blue mold within 2 to 3 days when stored at room temperature in high humidity. It is safest to freeze what you cannot finish on the same day.
+      Fresh bread spoils and grows mold easily at room temp. Freeze it immediately to preserve moisture structure.
     </p>
   </div>
 </div>

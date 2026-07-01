@@ -74,22 +74,22 @@ steps:
 
 ## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">使用後はキャップをしっかりと閉めてください ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">使用後は必ず蓋をきつく閉めて空気を遮断してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      オリーブオイルは空気中の酸素と結合すると、活性酸素が急激に増加します。使用後はキャップをしっかり閉めて、空気の侵入を防いでください。
+      オリーブオイルは酸素に触れると酸化が進み、風味が低下して酸度が上がります。使用後はすぐにキャップをしっかり閉めてください。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">食用油による保存温度の違いに注意してください 🫒</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">コンロやオーブンなどの熱源から遠ざけて保管してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      オリーブオイルやごま油は風味を保つために「常温」で保存しますが、オメガ3が豊富で酸化が極めて早いえごま油は必ず「冷蔵」で保存する必要があるため、正しく区別してください。
+      コンロ周辺の熱は酸化を急速に進め、品質を著しく低下させます。調理スペースから離れた、温度変化の少ない暗い収納棚に保管してください。
     </p>
   </div>
 </div>

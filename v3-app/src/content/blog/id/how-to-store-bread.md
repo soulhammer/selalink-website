@@ -74,22 +74,22 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 ## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Cegah bau freezer meresap ke dalam roti ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jangan pernah menyimpan roti di kompartemen kulkas (refrigerator)</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Roti menyerap bau-bauan halus seperti spons. Jika kantong freezer tidak tertutup rapat, bau ikan atau pangsit dari freezer dapat meresap ke dalam roti sehingga tidak bisa dimakan. Lakukan penyegelan ganda.
+      Retrogradasi pati (kristalisasi) terjadi paling cepat pada suhu pendingin (2-6°C), membuat roti cepat kering.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Batasi penyimpanan pada suhu ruang maksimal 3 hari 🍞</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Simpan di suhu ruang maks 2 hari; bekukan sisanya</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Roti tanpa banyak bahan pengawet dapat dengan mudah berjamur dalam 2 hingga 3 hari jika disimpan pada suhu ruang dalam kondisi kelembapan tinggi. Paling aman adalah langsung membekukan roti yang tidak habis pada hari yang sama.
+      Roti segar mudah rusak dan berjamur di suhu ruang. Segera bekukan untuk menjaga kadar airnya.
     </p>
   </div>
 </div>

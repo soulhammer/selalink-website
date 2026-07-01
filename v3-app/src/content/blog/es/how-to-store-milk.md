@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Leche","Guía de almacenamiento científicamente probada","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "No guarde en la puerta del refrigerador — Almacenamiento Refrigerado (7Días)"
     text: "La puerta del refrigerador experimenta los mayores cambios de temperatura cada vez que se abre. Para conservar la leche, colóquela en las repisas internas del refrigerador, donde la temperatura se mantiene estable a 0-4 °C."
@@ -25,7 +25,7 @@ steps:
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Esta guía de conservación cumple con las directrices oficiales de: <strong>MFDS & USDA</strong>.
+      Esta guía de conservación cumple con las directrices oficiales de: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>

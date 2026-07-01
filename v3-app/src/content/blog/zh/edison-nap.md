@@ -3,10 +3,20 @@ title: "手握钢球午睡的天才？托马斯·爱迪生的半入睡（Hypnago
 description: "每当遇到瓶颈、缺乏创意灵感时，爱迪生就会进行这种奇妙的午睡仪式。分享爱迪生午睡法的原理和实践指南，教你如何在半梦半醒的状态下获得创造性灵感。"
 pubDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["伟人习惯","托马斯·爱迪生","创造力","午睡","灵感"]
+tags: ["手握钢球午睡的天才？","Routine"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
 authority: "爱迪生日记与杂记（1948）及法国巴黎脑研究所（Paris Brain Institute）研究"
+steps:
+  - name: "准备沉重物体和跌落表面"
+    text: ""
+  - name: "在扶手椅上进行轻度半入睡"
+    text: ""
+  - name: "被跌落声惊醒后立即记录"
+    text: ""
+faqs:
+  - question: "爱迪生为什么要在昼寝时手里握着铁球？"
+    answer: "在入睡肌肉放松、铁球落地的瞬间被声音唤醒，以便能够立即记录在梦境与醒来的边界（半醒状态）掠过的创意。"
 ---
 
 托马斯·爱迪生，这位登记了 1,000 多项专利、改变了人类日常生活历史范式的发明大王。你是否知道，每当他遇到高难度的智力难题或创意瓶颈时，他就会使用一种非常著名且独特的午睡仪式？ 💤
@@ -17,6 +27,9 @@ authority: "爱迪生日记与杂记（1948）及法国巴黎脑研究所（Pari
 
 今天，BuildSelf 将带您深入了解这位天才发明家创造力背后的秘密——半入睡常规，以及现代实践指南。
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
@@ -24,7 +37,7 @@ authority: "爱迪生日记与杂记（1948）及法国巴黎脑研究所（Pari
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于托马斯·爱迪生的回忆录 <strong>《The Diary and Sundry Observations of Thomas Alva Edison》</strong> 以及法国巴黎脑研究所（Paris Brain Institute）于 2021 年在国际学术期刊《Science Advances》上发表的关于半入睡状态下创造性问题解决能力提升的研究撰写。
+      本内容基于 <strong>爱迪生日记与杂记（1948）及法国巴黎脑研究所（Paris Brain Institute）研究</strong>.
     </p>
   </div>
 </div>
@@ -39,50 +52,67 @@ authority: "爱迪生日记与杂记（1948）及法国巴黎脑研究所（Pari
 
 ---
 
-## 2. 适合现代人的爱迪生钥匙午睡法三步
-
-为您推荐这套在面临新问题或企划瓶颈时能够立即唤醒大脑的现代爱迪生 10 分钟午睡法。
+## 2. 适合现代人的三步实践惯例
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">准备沉重物体和跌落表面</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    一手握住易于抓握且掉落时能发出清脆巨响的金属钥匙串或保温杯。坐在椅子上，在手正下方的地板上放置一个金属托盘或坚硬的底座，以便声音能清晰地回响。
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">在扶手椅上进行轻度半入睡</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    深深地靠在扶手椅上，闭上眼睛，放松全身。脑子里非常轻松地思考着想要解决的难题，让身体自然地融入睡意中。
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/edison_nap_relax_detail.png" alt="在扶手椅上进行轻度半入睡" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">被跌落声惊醒后立即记录</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    当手部肌肉放松，物体掉落的巨响将你惊醒时，不要迟疑，立即将那一瞬间在脑海中盘寻的所有单词、画面和思想碎片记录在手机备忘录或笔记本上，将其保存下来。
+    
   </p>
 </div>
 
 ---
 
 ## 3. 💡 助力习惯成功的脑科学寄语
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">在陷入深睡前醒来是关键</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       这一常规的目的不是熟睡，而仅仅是获取大脑控制过滤器被解除的“半入睡”区域的创造性力量。铁球或钥匙跌落的刺激是一个非常聪明的机械式硬件闹钟，它能防止我们陷入脑电波完全变慢的深度慢波睡眠（Deep Sleep），从而避免遗忘灵感。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>爱迪生为什么要在昼寝时手里握着铁球？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      在入睡肌肉放松、铁球落地的瞬间被声音唤醒，以便能够立即记录在梦境与醒来的边界（半醒状态）掠过的创意。
+    </p>
+  </details>
 </div>

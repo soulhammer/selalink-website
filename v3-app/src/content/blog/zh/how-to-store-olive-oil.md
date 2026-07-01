@@ -74,22 +74,22 @@ steps:
 
 ## 3. 储存注意事项
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">每次使用后请务必拧紧瓶盖 ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">每次使用后请务必拧紧盖子以隔绝空气</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      当橄榄油与空气中的氧气结合时，自由基会迅速增加。每次使用后，请务必拧紧瓶盖，从根本上隔绝空气进入。
+      橄榄油暴露在空气中会迅速氧化，导致酸值升高并流失营养。使用后请立即拧紧瓶盖以限制空气流入。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">切记不同食用油的保存温度差异 🫒</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">避开燃气灶、烤箱等热源</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      橄榄油和芝麻油应置于“室温”保存以保持风味，而富含Omega-3且极易氧化变质的紫苏油则必须放进“冰箱冷藏”，请务必区分清楚。
+      灶台周围的热量会加速氧化并破坏品质。请将橄榄油存放在远离烹饪区、阴凉避光的橱柜内部。
     </p>
   </div>
 </div>

@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["鸡蛋","科学验证的储存指南","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
-authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
+authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"
 steps:
   - name: "切勿清洗鸡蛋 — 冷藏储存 (45天) 💧"
     text: "蛋壳表面有数千个肉眼看不见的微小气孔以进行呼吸。用水清洗会破坏蛋壳外的天然保护膜（角质层），使沙门氏菌等外部细菌通过气孔轻易渗入蛋内。表面脏污只需用干布或纸巾擦掉即可。"
@@ -25,7 +25,7 @@ steps:
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本指南严格遵守以下机构公认的食品安全与储存指南： <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>.
+      本指南严格遵守以下机构公认的食品安全与储存指南： <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>.
     </p>
   </div>
 </div>

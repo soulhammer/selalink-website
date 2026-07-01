@@ -74,22 +74,22 @@ steps:
 
 ## 3. 储存注意事项
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">生鱿鱼直接冷冻会导致肉质变硬 ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">请务必彻底去除内脏、眼睛和吸盘</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      需要长期冷冻的鱿鱼，建议不要直接生冻。可放入加了滴醋的沸水中快速焯烫10秒，捞出放凉并吸干水分后再冷冻，这样解冻后能保持鲜嫩Q弹的口感。
+      保留内脏会导致迅速腐烂、滋生细菌并产生强烈的腥味。买回后请立即将其摘除并冲洗干净。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">冷藏储存请勿超过一天 ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">生鱿鱼在冰箱冷藏请于2天内烹饪</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      水海产品组织娇嫩，即使在冷藏室，也极易在一天内滋生食物中毒和腐败细菌。购买后请立即烹饪或直接冷冻。
+      生的海鲜在冷藏室极易变质。如需长期保存，请分装后直接冷冻。
     </p>
   </div>
 </div>

@@ -74,22 +74,22 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 ## 3. Wichtige Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Eine Braunfärbung im Inneren des Rindfleischs kann normal sein 🥩</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Oberflächlichen Fleischsaft gründlich abtupfen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Die dunkle Verfärbung an Stellen, an denen sich das Fleisch überlappt, ist eine vorübergehende Erscheinung, da Sauerstoff fehlt und das Myoglobin nicht reagiert. Wenn das Fleisch nach 20 Minuten an der Luft wieder rot wird, ist es nicht verdorben.
+      Auslaufender Fleischsaft ist ein Nährboden für Bakterien. Das Trockentupfen vor dem Einwickeln verlangsamt den Verderb.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Verwenden Sie zum Auftauen niemals heißes Wasser ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Luftdicht einwickeln, um Kontakt mit Sauerstoff zu vermeiden</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Das Eintauchen von gefrorenem Rindfleisch in heißes Wasser zum schnellen Auftauen führt zu einem übermäßigen Verlust an Fleischsaft (Drip), was das Fleisch zäh macht, und begünstigt eine explosionsartige Vermehrung von Bakterien. Tauen Sie es immer einen Tag vor dem Kochen im Kühlschrank auf.
+      Sauerstoff oxidiert Fette und färbt das Myoglobin braun. Ein enges Einwickeln wie beim Vakuumieren schützt die Qualität.
     </p>
   </div>
 </div>

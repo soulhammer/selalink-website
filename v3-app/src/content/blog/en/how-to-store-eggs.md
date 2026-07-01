@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Egg","Scientifically Proven Storage Guide","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Never wash eggs before storage — Refrigerated Storage (45Days) 💧"
     text: "Eggshells contain thousands of microscopic pores that allow respiration. Washing them strips off the natural protective barrier (cuticle), letting bacteria like Salmonella enter through these pores. Simply wipe off dirt with a dry cloth."
@@ -25,7 +25,7 @@ Do you wash fresh eggs in water and store them in the refrigerator door? This st
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>MFDS & USDA</strong>.
+      This storage guide is verified based on official guidelines from the <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>

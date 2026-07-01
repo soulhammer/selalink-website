@@ -74,22 +74,22 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 ## 3. Wichtige Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Verhindern Sie, dass Gefriergerüche in das Brot einziehen ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Brot niemals im normalen Kühlschrankfach lagern</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Brot nimmt feine Gerüche wie ein Schwamm auf. Wenn der Gefrierbeutel teilweise offen bleibt, können Fisch- oder Knödelgerüche aus dem Gefrierschrank in das Brot einziehen und es ungenießbar machen. Versiegeln Sie es daher doppelt.
+      Die Rekristallisation der Stärke erfolgt am schnellsten bei Kühlschranktemperaturen (2-6 °C), wodurch das Brot rasch austrocknet.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Begrenzen Sie die Lagerung bei Raumtemperatur auf maximal 3 Tage 🍞</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Bei Raumtemperatur maximal 2 Tage lagern; den Rest einfrieren</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Brot ohne viele Konservierungsstoffe kann bei Raumtemperatur und hoher Luftfeuchtigkeit innerhalb von 2 bis 3 Tagen leicht grünen Schimmel ansetzen. Es ist am sichersten, das Brot, das Sie nicht aufbrauchen können, noch am selben Tag einzufrieren.
+      Frisches Brot verdirbt und schimmelt bei Raumtemperatur schnell. Frieren Sie es sofort ein, um die Feuchtigkeitsstruktur zu erhalten.
     </p>
   </div>
 </div>

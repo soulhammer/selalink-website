@@ -3,10 +3,20 @@ title: "The Genius Who Napped with Steel Balls in Hand? Thomas Edison's Hypnagog
 description: "A strange nap ritual that Edison performed whenever he hit a wall with breakthrough invention ideas. Share the principles and practice guide of the Edison nap method to gain creative inspiration in a semi-sleep state."
 pubDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["Historical Habits","Thomas Edison","Creativity","Nap","Inspiration"]
+tags: ["Great Habits","edison","Routine","Stamina"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
 authority: "Edison's Diary and Sundry Observations (1948) & Paris Brain Institute Research"
+steps:
+  - name: "Prepare a Heavy Object and a Dropping Surface"
+    text: ""
+  - name: "Take a Light Semi-Sleep in an Armchair"
+    text: ""
+  - name: "Take Notes Immediately Upon Waking Up to the Dropping Sound"
+    text: ""
+faqs:
+  - question: "Why did Edison hold steel balls in his hands during naps?"
+    answer: "The moment he fell asleep and his muscles relaxed, the sound of dropping balls woke him up, allowing him to record ideas from the boundary of sleep and waking (hypnagogia) immediately."
 ---
 
 Thomas Edison, the king of invention who registered more than 1,000 patents that changed the historical paradigm of daily human life, including the incandescent light bulb, the phonograph, and the motion picture camera. Do you know the very famous and unique nap ritual he used when he hit a high-level intellectual challenge or a wall of ideas? 💤
@@ -17,14 +27,17 @@ The moment he began to fall asleep and the muscles of his entire body relaxed, t
 
 Today, BuildSelf explores the semi-sleep routine that was a genius inventor's secret to creativity, along with a modern guide.
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historical & Academic Basis
+      Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This content is based on Thomas Edison's personal records <strong>&lt;The Diary and Sundry Observations of Thomas Alva Edison&gt;</strong> and research on the creative problem-solving improvement of the hypnagogic state published in the journal 'Science Advances' by the Paris Brain Institute in 2021.
+      This content is based on <strong>Edison's Diary and Sundry Observations (1948) & Paris Brain Institute Research</strong>.
     </p>
   </div>
 </div>
@@ -39,9 +52,7 @@ Modern brain science calls this state 'Hypnagogia' (the transitional state enter
 
 ---
 
-## 2. 3-Step Edison Key Nap Routine for Modern People
-
-We propose a modern 10-minute Edison nap method that can immediately awaken the brain when facing new problem-solving or planning limits.
+## 2. 3-Step Practical Routine for Modern Professionals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -49,7 +60,7 @@ We propose a modern 10-minute Edison nap method that can immediately awaken the 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Prepare a Heavy Object and a Dropping Surface</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Hold a bunch of metal keys or a tumbler that is easy to hold in one hand and makes a loud noise when dropped. And while sitting in a chair, place a metal tray or a hard surface under your hand where the sound can echo clearly.
+    
   </p>
 </div>
 
@@ -59,8 +70,11 @@ We propose a modern 10-minute Edison nap method that can immediately awaken the 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Take a Light Semi-Sleep in an Armchair</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Lean back deeply in an armchair, close your eyes, and relax your entire body. Think very lightly about the challenge you want to solve and let your body drift into sleep.
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/edison_nap_relax_detail.png" alt="Take a Light Semi-Sleep in an Armchair" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -69,20 +83,36 @@ We propose a modern 10-minute Edison nap method that can immediately awaken the 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Take Notes Immediately Upon Waking Up to the Dropping Sound</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    When the muscles of your hand relax and you wake up to the loud sound of the object falling, do not hesitate and immediately write down all the words, images, and fragments of thoughts wandering in your head in a smartphone memo pad or notebook to preserve them.
+    
   </p>
 </div>
 
 ---
 
 ## 3. A Brain-Scientific Word for a Successful Routine
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Waking up before falling into a deep sleep is the key</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       The purpose of this routine is not deep sleep, but to acquire only the creative energy of the 'Hypnagogia' zone where the brain's control filter is lifted. The steel ball or key drop stimulus is a very wise mechanical hardware alarm that prevents us from falling into deep slow-wave sleep (Deep Sleep) where brainwaves slow down completely and we forget our inspiration.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why did Edison hold steel balls in his hands during naps?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      The moment he fell asleep and his muscles relaxed, the sound of dropping balls woke him up, allowing him to record ideas from the boundary of sleep and waking (hypnagogia) immediately.
+    </p>
+  </details>
 </div>

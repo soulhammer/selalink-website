@@ -10,19 +10,17 @@ app: "buildself"
 authority: "Autobiografia de Salvador Dalí 'A Vida Secreta de Salvador Dalí' e Journal of Frontiers in Human Neuroscience"
 steps:
   - name: "Adote uma postura semi-inclinada"
-    text: "Em vez de se deitar na cama, incline-se para trás numa cadeira. Deitar-se leva o cérebro para o sono profundo, fazendo com que perca as memórias hipnagógicas."
+    text: ""
   - name: "Configure um temporizador curto ou mecanismo de queda"
-    text: "Defina um alarme para 5 a 7 minutos, ou segure um objeto leve como uma caneta sobre o chão. Prepare um estímulo físico para acordar ao relaxar."
+    text: ""
   - name: "Externalize o subconsciente de imediato"
-    text: "Assim que acordar, anote as imagens, sentimentos ou conceitos persistentes no seu caderno em menos de 1 minuto. Evite a formatação lógica."
-faqs:
-  - question: "Porque é que Dalí utilizou especificamente uma colher e um prato?"
-    answer: "Ao entrar no sono profundo (fase N2 ou posterior), o cérebro esquece as imagens subconscientes. Ao soltar a colher quando os músculos relaxavam, Dalí acordava instantaneamente no limite da hipnagogia para conservar a inspiração."
-  - question: "Existe alguma alternativa ao uso de uma colher para esta rotina?"
-    answer: "Sim, pode configurar um temporizador curto (5-10 minutos) ou segurar um objeto leve como um porta-chaves enquanto se inclina na cadeira para obter o mesmo estímulo."
+    text: ""
 ---
 
 Salvador Dalí, um gigante da arte surrealista e uma das mentes mais criativas do século XX. De onde vinham as inspirações bizarras e caprichosas das suas obras? Quando Dalí enfrentava bloqueios criativos, sentava-se confortavelmente numa cadeira e segurava uma colher de metal acima de um prato pousado no chão. Hoje, o BuildSelf explora a ciência por trás do cochilo da colher.
+
+
+</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -52,7 +50,7 @@ A fase de transição para o sono ativa a 'Hypnagogia', um estado rico em ondas 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Adote uma postura semi-inclinada</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Em vez de se deitar na cama, incline-se para trás numa cadeira. Deitar-se leva o cérebro para o sono profundo, fazendo com que perca as memórias hipnagógicas.
+    
   </p>
 </div>
 
@@ -62,7 +60,7 @@ A fase de transição para o sono ativa a 'Hypnagogia', um estado rico em ondas 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Configure um temporizador curto ou mecanismo de queda</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Defina um alarme para 5 a 7 minutos, ou segure um objeto leve como uma caneta sobre o chão. Prepare um estímulo físico para acordar ao relaxar.
+    
   </p>
   <div class="mt-6 flex justify-center">
     <img src="/images/blog/dali_spoon_nap_relax_detail.png" alt="Configure um temporizador curto ou mecanismo de queda" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
@@ -75,7 +73,7 @@ A fase de transição para o sono ativa a 'Hypnagogia', um estado rico em ondas 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Externalize o subconsciente de imediato</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Assim que acordar, anote as imagens, sentimentos ou conceitos persistentes no seu caderno em menos de 1 minuto. Evite a formatação lógica.
+    
   </p>
 </div>
 
@@ -89,32 +87,4 @@ A fase de transição para o sono ativa a 'Hypnagogia', um estado rico em ondas 
       O cochilo da colher de Dalí era um mecanismo elegante para ligar o subconsciente à arte. Quando estiver bloqueado, en decay de forçar a lógica, dê ao seu cérebro 5 minutos para libertar o controlo consciente e reorganizar-se.
     </p>
   </div>
-</div>
-
----
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> Perguntas Frequentes (FAQ)
-  </h3>
-  
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>Porque é que Dalí utilizou especificamente uma colher e um prato?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
-    </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ao entrar no sono profundo (fase N2 ou posterior), o cérebro esquece as imagens subconscientes. Ao soltar a colher quando os músculos relaxavam, Dalí acordava instantaneamente no limite da hipnagogia para conservar a inspiração.
-    </p>
-  </details>
-
-  <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>Existe alguma alternativa ao uso de uma colher para esta rotina?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
-    </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sim, pode configurar um temporizador curto (5-10 minutos) ou segurar um objeto leve como um porta-chaves enquanto se inclina na cadeira para obter o mesmo estímulo.
-    </p>
-  </details>
 </div>

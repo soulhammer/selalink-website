@@ -74,22 +74,22 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 ## 3. Aturan Penting dan Peringatan
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Tutup rapat penutup botol setelah digunakan ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Tutup rapat penutup setelah digunakan</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Ketika minyak zaitun bercampur dengan oksigen di udara, radikal bebas akan meningkat pesat. Pastikan untuk menutup rapat penutupnya setelah digunakan untuk mencegah masuknya udara.
+      Minyak zaitun teroksidasi saat terpapar oksigen, meningkatkan keasaman dan mengurangi khasiatnya. Selalu batasi udara masuk.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ingat perbedaan suhu penyimpanan untuk setiap jenis minyak 🫒</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jauhkan dari sumber panas seperti kompor dan oven</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Minyak zaitun dan minyak wijen harus disimpan pada suhu ruangan untuk menjaga aromanya, sedangkan minyak perilla yang tinggi omega-3 dan sangat cepat teroksidasi harus disimpan di dalam lemari es.
+      Panas kompor memicu oksidasi cepat dan merusak kualitas. Simpan minyak zaitun di dalam kabinet dapur yang sejuk dan gelap.
     </p>
   </div>
 </div>

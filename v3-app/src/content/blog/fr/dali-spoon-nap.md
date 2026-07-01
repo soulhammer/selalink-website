@@ -10,19 +10,17 @@ app: "buildself"
 authority: "L'autobiographie de Salvador Dalí 'La Vie secrète de Salvador Dalí' & Journal of Frontiers in Human Neuroscience"
 steps:
   - name: "Adopter une posture semi-inclinée"
-    text: "Plutôt que de vous allonger, asseyez-vous incliné. S'allonger envoie le cerveau en sommeil profond, effaçant les souvenirs hypnagogiques."
+    text: ""
   - name: "Régler un minuteur ou un mécanisme de chute"
-    text: "Réglez une alarme sur 5 à 7 minutes, ou tenez un stylo au-dessus d'une feuille. Préparez un déclencheur physique pour vous réveiller au relâchement."
+    text: ""
   - name: "Extérioriser le subconscient immédiatement"
-    text: "Dès le réveil, notez les images ou concepts résiduels en 1 minute. Évitez toute mise en forme logique."
-faqs:
-  - question: "Pourquoi Dalí utilisait-il spécifiquement une cuillère et une assiette ?"
-    answer: "Le sommeil profond (stade N2 ou plus) efface les images du subconscient. En laissant tomber la cuillère au relâchement des muscles, Dalí se réveillait à la frontière (l'hypnagogie) pour préserver son inspiration."
-  - question: "Existe-t-il des alternatives à la cuillère pour cette routine ?"
-    answer: "Oui, vous pouvez régler un court minuteur (5-10 minutes) ou tenir un trousseau de clés assis incliné pour stimuler les mêmes ondes cérébrales."
+    text: ""
 ---
 
 Salvador Dalí, géant de l'art surréaliste et l'un des plus grands esprits créatifs du XXe siècle. D'où venaient les inspirations bizarres de ses œuvres ? Face aux blocages créatifs, Dalí s'asseyait dans un fauteuil en bois, tenait une cuillère en métal au-dessus d'une assiette posée au sol. Aujourd'hui, BuildSelf explore la science de la sieste à la cuillère.
+
+
+</div>
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -52,7 +50,7 @@ La phase de transition vers le sommeil déclenche l'« Hypnagogie », un état r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Adopter une posture semi-inclinée</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Plutôt que de vous allonger, asseyez-vous incliné. S'allonger envoie le cerveau en sommeil profond, effaçant les souvenirs hypnagogiques.
+    
   </p>
 </div>
 
@@ -62,7 +60,7 @@ La phase de transition vers le sommeil déclenche l'« Hypnagogie », un état r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Régler un minuteur ou un mécanisme de chute</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Réglez une alarme sur 5 à 7 minutes, ou tenez un stylo au-dessus d'une feuille. Préparez un déclencheur physique pour vous réveiller au relâchement.
+    
   </p>
   <div class="mt-6 flex justify-center">
     <img src="/images/blog/dali_spoon_nap_relax_detail.png" alt="Régler un minuteur ou un mécanisme de chute" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
@@ -75,7 +73,7 @@ La phase de transition vers le sommeil déclenche l'« Hypnagogie », un état r
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Extérioriser le subconscient immédiatement</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Dès le réveil, notez les images ou concepts résiduels en 1 minute. Évitez toute mise en forme logique.
+    
   </p>
 </div>
 
@@ -89,32 +87,4 @@ La phase de transition vers le sommeil déclenche l'« Hypnagogie », un état r
       La sieste à la cuillère était un mécanisme pour lier le subconscient à la création. En cas de blocage, plutôt que de forcer la logique, offrez à votre cerveau 5 minutes pour relâcher le contrôle et se réorganiser.
     </p>
   </div>
-</div>
-
----
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> Foire Aux Questions (FAQ)
-  </h3>
-  
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>Pourquoi Dalí utilisait-il spécifiquement une cuillère et une assiette ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
-    </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Le sommeil profond (stade N2 ou plus) efface les images du subconscient. En laissant tomber la cuillère au relâchement des muscles, Dalí se réveillait à la frontière (l'hypnagogie) pour préserver son inspiration.
-    </p>
-  </details>
-
-  <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>Existe-t-il des alternatives à la cuillère pour cette routine ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
-    </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Oui, vous pouvez régler un court minuteur (5-10 minutes) ou tenir un trousseau de clés assis incliné pour stimuler les mêmes ondes cérébrales.
-    </p>
-  </details>
 </div>

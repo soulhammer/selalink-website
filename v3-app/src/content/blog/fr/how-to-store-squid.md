@@ -74,22 +74,22 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 ## 3. Règles cruciales et précautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Congeler le calamar cru peut rendre la chair coriace ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Videz et retirez yeux et ventouses impérativement</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Pour une congélation de longue durée, plutôt que de le congeler cru, plongez-le brièvement (environ 10 secondes) dans de l'eau bouillante additionnée d'une goutte de vinaigre. Laissez-le refroidir, essuyez l'humidité et congelez-le. Il restera tendre et moelleux après décongélation.
+      Laisser les viscères provoque un pourrissement rapide, des bactéries et une mauvaise odeur. Videz-le sans attendre.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ne le conservez pas au réfrigérateur plus d'un jour ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Cuisez le calamar cru sous 2 jours maximum au réfrigérateur</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Les produits de la mer ont des tissus fragiles où les bactéries d'altération et d'intoxication se multiplient facilement en un jour seulement, même au réfrigérateur. Cuisinez-les dès l'achat ou congelez-les immédiatement.
+      Les fruits de mer crus s'altèrent vite au frigo. Pour un stockage long, congelez-les en portions.
     </p>
   </div>
 </div>

@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Nozes","Guia de armazenamento comprovado cientificamente","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Sele e refrigere/congele após aberto — Refrigerado 90 dias & Congelado 180 dias"
     text: "Oleaginosas contêm gorduras que oxidam e rancificam em temperatura quente e úmida. Esse ambiente favorece as aflatoxinas, toxinas cancerígenas dos fungos. Guarde sempre seladas sob refrigeração ou congeladas."
@@ -25,7 +25,7 @@ Você deixa as oleaginosas na mesa em potes transparentes? Elas têm muita gordu
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este guia de conservação segue as diretrizes oficiais de: <strong>MFDS & USDA</strong>.
+      Este guia de conservação segue as diretrizes oficiais de: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>
@@ -74,22 +74,22 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 
 ## 3. Regras cruciais e precauções
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nunca coma oleaginosas rançosas ou úmidas ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nunca coma oleaginosas rancias ou úmidas</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Se as nozes/castanhas tiverem cheiro de óleo rançoso ou parecerem úmidas, significa que a oxidação lipídica e o crescimento do fungo da aflatoxina já começaram. A toxina não é destruída por lavagem ou torrefação, por isso você deve descartá-las.
+      Oleaginosas oxidadas desenvolvem aflatoxinas, potentes carcinógenos que não são destruídos pelo calor. Descarte-as imediatamente.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Manuseie as nozes/castanhas com cuidado para evitar rachaduras 🥜</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Selle com absorventes de oxigênio em potes escuros</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Se a superfície de nozes ou amêndoas rachar ou for danificada por impactos, o ar se infiltrará pelas fendas e a oxidação progredirá muito mais rápido. Evite pressionar a embalagem com força.
+      Guarde as oleaginosas em recipientes opacos com absorventes de oxigênio, em gaveta fresca ou no freezer.
     </p>
   </div>
 </div>

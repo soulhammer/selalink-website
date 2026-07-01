@@ -3,10 +3,20 @@ title: "¿El secreto para superar el estrés de la investigación del radio? El 
 description: "Marie Curie, la primera mujer en ganar un Premio Nobel y la única persona en ganarlo en dos campos científicos diferentes. Conozca su rutina de ciclismo que protegió su cerebro del cansancio extremo y del estrés de la investigación."
 pubDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["Hábitos Históricos","Marie Curie","Bicicleta","Descanso","Estrés"]
+tags: ["¿El secret","Routine"]
 heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
 authority: "Biografía 'Madame Curie' de Ève Curie e investigación sobre ejercicio de Harvard Health Publishing"
+steps:
+  - name: "Establecer una ruta al aire libre de 1 o 2 veces por semana"
+    text: ""
+  - name: "Pedalear durante 30 minutos sin auriculares, concentrándose en los sentidos"
+    text: ""
+  - name: "Estiramiento ligero de los músculos del muslo"
+    text: ""
+faqs:
+  - question: "¿Por qué los Curie pidieron bicicletas como regalo de bodas?"
+    answer: "En lugar de una boda lujosa, querían una herramienta práctica para viajar por el campo francés, meditar y concentrarse en la investigación sin distracciones."
 ---
 
 Marie Curie, la primera mujer galardonada con el Premio Nobel y la legendaria científica que sigue siendo la única persona en la historia en ganar Premios Nobel en dos campos científicos diferentes: física y química.
@@ -17,6 +27,9 @@ La respuesta fue el paseo diario en bicicleta que daba cada tarde con su esposo,
 
 Hoy, BuildSelf explora la base científica y la guía práctica diaria de la rutina de ciclismo al aire libre que ayudó a una ganadora del Nobel a superar el estrés.
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
@@ -24,7 +37,7 @@ Hoy, BuildSelf explora la base científica y la guía práctica diaria de la rut
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en la biografía <strong>&lt;Madame Curie: A Biography&gt;</strong> escrita por su hija Ève Curie, y en estudios sobre la recuperación cognitiva y la regulación de la hormona del estrés cortisol a través del ejercicio aeróbico al aire libre publicados por Harvard Health Publishing.
+      Este contenido se basa en <strong>Biografía 'Madame Curie' de Ève Curie e investigación sobre ejercicio de Harvard Health Publishing</strong>.
     </p>
   </div>
 </div>
@@ -39,50 +52,67 @@ La psicología cognitiva y la fisiología del ejercicio modernas explican que el
 
 ---
 
-## 2. Rutina de bicicleta de Marie Curie en 3 pasos para la vida moderna
-
-Proponemos una rutina de ciclismo de 3 pasos que promete una recuperación de energía saludable para las personas cansadas del trabajo de oficina o de laboratorio.
+## 2. Rutina Práctica de 3 Pasos para el Profesional Moderno
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Establecer una ruta al aire libre de 1 o 2 veces por semana</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Los fines de semana o después del trabajo, elija un parque, la ribera de un río o un sendero bordeado de árboles en lugar de la bicicleta estática del gimnasio. Un entorno en contacto con la naturaleza es ideal.
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pedalear durante 30 minutos sin auriculares, concentrándose en los sentidos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Apague por completo la música o los podcasts de su móvil y abra los oídos. Conéctese con el sonido de la cadena de la bicicleta, la vibración de las ruedas sobre el suelo, la temperatura del viento en su rostro y el movimiento del paisaje durante 30 minutos.
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/curie_cycling_relax_detail.png" alt="Pedalear durante 30 minutos sin auriculares, concentrándose en los sentidos" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Estiramiento ligero de los músculos del muslo</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Al terminar el paseo, bájese de la bicicleta y estire los muslos y pantorrillas durante 2 minutos para ayudar a eliminar el ácido láctico acumulado. Dúchese y descanse con una mente despejada.
+    
   </p>
 </div>
 
 ---
 
 ## 3. 💡 Una reflexión neurocientífica para el éxito de la rutina
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">El ejercicio al aire libre borra la carga acumulada en el cerebro</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       Las actividades estáticas en interiores estimulan constantemente solo ciertos circuitos cerebrales, lo que aumenta la fatiga. Cuando la estimulación visual y espacial se une a un ejercicio aeróbico constante que involucra grandes grupos musculares como el ciclismo, el efecto de recuperación cognitiva se maximiza. Practicar paseos en bicicleta al aire libre de forma periódica, como hacía Madame Curie, es el antídoto más completo para un cerebro cansado.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué los Curie pidieron bicicletas como regalo de bodas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      En lugar de una boda lujosa, querían una herramienta práctica para viajar por el campo francés, meditar y concentrarse en la investigación sin distracciones.
+    </p>
+  </details>
 </div>

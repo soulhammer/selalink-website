@@ -3,10 +3,20 @@ title: "克服镭研究压力的秘诀？居里夫人的傍晚骑行常规"
 description: "居里夫人是首位获得诺贝尔奖的女性，也是唯一一位在两个不同科学领域同时获得诺贝尔奖的传奇科学家。探索她在极度疲劳和镭研究压力下保护大脑的自行车骑行常规。"
 pubDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["伟人习惯","居里夫人","自行车","休息","减压"]
+tags: ["克服镭研究压力的秘诀","Routine"]
 heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
 authority: "艾芙·居里著《居里夫人传》及哈佛健康出版（Harvard Health）运动研究"
+steps:
+  - name: "每周设定 1-2 次户外骑行路线"
+    text: ""
+  - name: "摘下耳机，专注于感官骑行 30 分钟"
+    text: ""
+  - name: "大腿肌肉拉伸"
+    text: ""
+faqs:
+  - question: "居里夫妇为什么要求自行车作为婚礼礼物？"
+    answer: "因为他们想要一个实用的工具来游览法国乡村、沉思，并远离日常琐事专注于研究，而不是举办奢华的婚礼。"
 ---
 
 作为首位获得诺贝尔奖的女性，也是历史上唯一一位在物理学和化学这两个截然不同的科学领域均斩获诺贝尔奖的传奇科学家——玛丽·居里。
@@ -17,6 +27,9 @@ authority: "艾芙·居里著《居里夫人传》及哈佛健康出版（Harvar
 
 今天，BuildSelf 将带您了解帮助诺贝尔奖得主克服压力的户外骑行常规的科学依据以及日常实践指南。
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
@@ -24,7 +37,7 @@ authority: "艾芙·居里著《居里夫人传》及哈佛健康出版（Harvar
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于居里夫人的女儿艾芙·居里所著的传记 <strong>《Madame Curie: A Biography》</strong> 以及哈佛健康出版（Harvard Health Publishing）上发表的关于户外有氧运动促进认知恢复和调节压力激素皮质醇的研究撰写。
+      本内容基于 <strong>艾芙·居里著《居里夫人传》及哈佛健康出版（Harvard Health）运动研究</strong>.
     </p>
   </div>
 </div>
@@ -39,50 +52,67 @@ authority: "艾芙·居里著《居里夫人传》及哈佛健康出版（Harvar
 
 ---
 
-## 2. 适合现代人的居里夫人骑行三步法
-
-我们为因实验室或办公室工作而疲惫不堪的现代人推荐这套能带来健康能量恢复的骑行常规。
+## 2. 适合现代人的三步实践惯例
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">每周设定 1-2 次户外骑行路线</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    在周末或下班后，选择开阔的户外公园、河畔或树木茂密的自行车专用道作为骑行路线，而不是健身房里的动感单车。亲近自然的自然环境效果更佳。
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">摘下耳机，专注于感官骑行 30 分钟</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    完全关闭智能手机里的音乐或播客，打开双耳。专注于自行车链条铺合的声音、车轮滚过地面的震动、迎面吹来的微风温度以及周围风景的移动，全身心地骑行 30 分钟。
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/curie_cycling_relax_detail.png" alt="摘下耳机，专注于感官骑行 30 分钟" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">大腿肌肉拉伸</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    骑行结束后，下车进行 2 分钟的大腿和小腿肌肉拉伸，帮助排出疲劳物质乳酸。以轻松清爽的精神状态洗个热水澡，然后舒适地休息。
+    
   </p>
 </div>
 
 ---
 
 ## 3. 💡 助力习惯成功的脑科学寄语
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">户外运动能抹去大脑累积的负荷</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       室内的静态活动会不断刺激大脑的特定回路，从而加重疲劳。当骑自行车这种持续的大肌肉群有氧运动与空间视觉刺激结合时，认知能力的恢复效果将达到最大化。像居里夫人一样每天傍晚或定期进行户外骑行，是疲惫大脑最奢华、最彻底的解毒剂。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>居里夫妇为什么要求自行车作为婚礼礼物？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      因为他们想要一个实用的工具来游览法国乡村、沉思，并远离日常琐事专注于研究，而不是举办奢华的婚礼。
+    </p>
+  </details>
 </div>

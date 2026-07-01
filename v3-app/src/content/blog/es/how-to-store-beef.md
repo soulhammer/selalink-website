@@ -74,22 +74,22 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 
 ## 3. Reglas cruciales y precauciones
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">El oscurecimiento dentro de la carne de res puede ser normal 🥩</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Limpie la humedad y la sangre de la superficie por completo</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El color oscuro o grisáceo en las partes donde la carne se superpone es un fenómeno temporal debido a la falta de oxígeno que impide la reacción de la mioglobina. Si vuelve a ponerse roja después de exponerla al aire durante 20 minutos, no está estropeada.
+      El líquido rojo (jugo) que gotea es un nido de bacterias. Limpiarlo antes de envolver la carne retrasa la descomposición.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nunca use agua caliente para descongelar la carne ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Envuelva herméticamente para evitar el contacto con el aire</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Sumergir la carne congelada en agua caliente para acelerar la descongelación provoca una pérdida excesiva de jugos (drip), lo que hace que la carne quede seca y dura, y multiplica las bacterias. Descongélela siempre en el refrigerador un día antes de cocinar.
+      El oxígeno oxida las grasas y oscurece la mioglobina. Envolverla muy apretada, como al vacío, conserva su calidad.
     </p>
   </div>
 </div>

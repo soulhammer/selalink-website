@@ -74,22 +74,22 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 ## 3. Wichtige Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Verschließen Sie den Deckel nach jedem Gebrauch fest ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Verschluss nach jedem Gebrauch fest verschließen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Wenn Olivenöl mit dem Sauerstoff in der Luft reagiert, steigt die Zahl der freien Radikale rapide an. Achten Sie darauf, den Deckel nach jedem Gebrauch fest zu schließen, um das Eindringen von Luft zu verhindern.
+      Olivenöl oxidiert bei Kontakt mit Sauerstoff, wodurch der Säuregehalt steigt und Nährstoffe verloren gehen. Luftzufuhr immer stoppen.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Beachten Sie die Temperaturunterschiede bei der Lagerung von Ölen 🫒</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Von Hitzequellen wie Herd und Ofen fernhalten</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Während Olivenöl und Sesamöl bei Raumtemperatur gelagert werden sollten, um ihr Aroma zu bewahren, muss Perillaöl, das reich an Omega-3-Fettsäuren ist und extrem schnell oxidiert, im Kühlschrank gelagert werden.
+      Die Wärme am Herd beschleunigt die Oxidation und ruiniert die Qualität. Olivenöl in einem kühlen, dunklen Küchenschrank lagern.
     </p>
   </div>
 </div>

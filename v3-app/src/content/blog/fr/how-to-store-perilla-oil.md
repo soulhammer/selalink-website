@@ -74,22 +74,22 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 ## 3. Règles cruciales et précautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jetez immédiatement si l'huile sent le rance ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Conservez impérativement l'huile de périlla au réfrigérateur</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Si l'huile de pérille sent l'aigre ou le rance au lieu d'une odeur de noisette à l'ouverture, elle est déjà complètement oxydée. L'huile de pérille rance contient des substances toxiques qui peuvent causer le cancer et accélérer le vieillissement. Ne la consommez pas et jetez-la immédiatement.
+      L'exposition à l'oxygène et à la lumière la fait rancir très vite. Gardez-la scellée dans des bouteilles sombres au réfrigérateur.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ne conservez pas l'huile de sésame au réfrigérateur ❌</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mélanger avec 20 % d'huile de sésame double la durée de conservation</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Grâce à ses antioxydants naturels, l'huile de sésame ne s'oxyde pas facilement même stockée à température ambiante. La réfrigérer solidifie les composants aromatiques et estompe le parfum. Gardez l'huile de sésame dans un placard sombre à température ambiante.
+      L'huile de sésame est riche en sésamol et sésamoline, des antioxydants naturels qui empêchent l'huile de périlla de rancir.
     </p>
   </div>
 </div>

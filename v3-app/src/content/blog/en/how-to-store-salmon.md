@@ -13,7 +13,7 @@ steps:
   - name: "Apply lemon juice or cooking wine — Natural preservation 🍋"
     text: "Brush a thin layer of lemon juice or a small amount of cooking wine (sake or mirin) on the dry salmon. The acid and alcohol act as natural preservatives, inhibiting microbial growth and fat oxidation."
   - name: "Wrap tightly with plastic wrap to exclude air — Frozen Storage (90Days) 📦"
-    text: "Wrap the salmon tightly in plastic wrap, squeezing out all air, then place it inside a ziploc bag for a double seal. This keeps it fresh for up to 2 days in the fridge and 90 days in the freezer."
+    text: "Wrap the salmon tightly in plastic wrap, squeezing out all air, then place it inside a ziploc bag for a double seal. This keeps it fresh for up to 2 days in the fridge and 60 days in the freezer."
 ---
 
 Did you leave fresh salmon in the fridge for over two days? Salmon has high moisture, allowing bacteria to multiply quickly. Today, StoreSelf shares FDA-approved scent-free salmon storage and sealing tips.
@@ -66,7 +66,7 @@ Understanding the unique characteristics of each ingredient and following the pr
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap tightly with plastic wrap to exclude air — Frozen Storage (90Days) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Wrap the salmon tightly in plastic wrap, squeezing out all air, then place it inside a ziploc bag for a double seal. This keeps it fresh for up to 2 days in the fridge and 90 days in the freezer.
+    Wrap the salmon tightly in plastic wrap, squeezing out all air, then place it inside a ziploc bag for a double seal. This keeps it fresh for up to 2 days in the fridge and 60 days in the freezer.
   </p>
 </div>
 
@@ -74,22 +74,22 @@ Understanding the unique characteristics of each ingredient and following the pr
 
 ## 3. Crucial Rules and Cautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Check color changes and texture closely ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wipe off surface moisture and liquid completely</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      If the salmon has lost its bright pink color and turned dark brown, or if it sinks and does not bounce back when pressed with a finger, the proteins have already started to break down and it must be discarded.
+      The liquid (drip) on the fish surface causes a fishy smell and rapid spoilage. Dry it thoroughly before wrapping.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Remove skin and bones before freezing ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Vacuum wrap or seal tightly without air</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      For long-term freezing (up to 90 days), it is recommended to remove the skin and bones beforehand and freeze them in tight individual wraps. This makes it easier to thaw and eat later and helps maintain a good texture.
+      Oxygen exposure leads to lipid rancidity and dry texture. Tightly wrapping with wrap blocks oxygen contact.
     </p>
   </div>
 </div>

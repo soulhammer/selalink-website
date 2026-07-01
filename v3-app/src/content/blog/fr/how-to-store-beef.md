@@ -74,22 +74,22 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 ## 3. Règles cruciales et précautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Le brunissement à l'intérieur du bœuf peut être normal 🥩</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Essuyez soigneusement le sang et l'humidité en surface</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      La coloration sombre ou grisâtre aux endroits où les morceaux de viande se superposent est un phénomène temporaire dû au manque d'oxygène empêchant la myoglobine de réagir. Si elle redevient rouge après avoir été exposée à l'air pendant 20 minutes, la viande n'est pas avariée.
+      Le liquide rouge (jus) qui s'échappe de la viande favorise la prolifération bactérienne. L'essuyer avant d'emballer ralentit la détérioration.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">N'utilisez jamais d'eau chaude pour la décongélation ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Emballez hermétiquement pour bloquer le contact avec l'air</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Plonger du bœuf congelé dans de l'eau chaude pour une décongélation rapide entraîne une perte excessive de jus de viande (drip), rendant la viande sèche et dure, et favorise une prolifération bactérienne fulgurante. Décongelez-le toujours au réfrigérateur un jour avant la cuisson.
+      L'oxygène oxyde les graisses et fait brunir la myoglobine. Envelopper la viande de façon très serrée, comme sous vide, préserve sa qualité.
     </p>
   </div>
 </div>

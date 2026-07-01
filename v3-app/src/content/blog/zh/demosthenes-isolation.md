@@ -3,10 +3,20 @@ title: "剃掉半边头发的演说家？德摩斯梯尼的极限环境控制法
 description: "德摩斯梯尼克服了先天的身体缺陷，成为古希腊最伟大的演说家。介绍他为了阻断诱惑，自己剃掉半边头发并进入山洞闭关的环境控制常规。"
 pubDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["伟人习惯","德摩斯梯尼","专注","环境控制","意志力"]
+tags: ["剃掉半边头发的演说家","Routine"]
 heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
 authority: "普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》及美国心理学会（APA）环境控制研究"
+steps:
+  - name: "物理隔离智能手机"
+    text: ""
+  - name: "设定番茄钟并进入专注状态"
+    text: ""
+  - name: "进行彻底的离线休息"
+    text: ""
+faqs:
+  - question: "德摩斯梯尼为什么要剃掉半边头发？"
+    answer: "通过让自己的外表变得滑稽，他阻止了自己外出，从而强迫自己战胜诱惑，留在书房里专心练习。"
 ---
 
 一个克服了先天口吃、体质虚弱，以及因气短而无法长时间演说的身体致命缺陷，最终成为古雅典最伟大的政治家和希腊历史上最伟大的演说家的男人。他就是德摩斯梯尼。 🏛️
@@ -17,6 +27,9 @@ authority: "普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》�
 
 今天，BuildSelf 将带您探寻这位为了克服人性弱点而为自己设计极限环境的伟人秘诀，以及如何在如今的智能手机时代有效地应用这一方法。
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
@@ -24,7 +37,7 @@ authority: "普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》�
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于普鲁塔克撰写的历史著作 <strong>《希腊罗马名人传：德摩斯梯尼传》</strong> 以及美国心理学会（APA）发表的刺激控制理论（Stimulus Control Theory）和防意志力耗竭行为研究撰写。
+      本内容基于 <strong>普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》及美国心理学会（APA）环境控制研究</strong>.
     </p>
   </div>
 </div>
@@ -39,50 +52,67 @@ authority: "普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》�
 
 ---
 
-## 2. 适合现代人的德摩斯梯尼式隔离常规三步法
-
-我们为您推荐这套战胜蚕食意志力的最大诱惑——现代“智能手机”的德摩斯梯尼式专注常规。
+## 2. 适合现代人的三步实践惯例
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">物理隔离智能手机</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    在开始重要的学习或工作之前，关闭智能手机电源或将其设置为完全静音（无震动）。然后，将手机放到另一个房间或抽屉深处，彻底从工作视线中移开。
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">设定番茄钟并进入专注状态</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    桌上只放一件当前需要处理的任务材料。然后，利用手办或机械定时器设定 25 分钟或 50 分钟的无干扰集中时间，在此期间只专注于这一项工作。
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/demosthenes_isolation_relax_detail.png" alt="设定番茄钟并进入专注状态" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">进行彻底的离线休息</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    专注时间结束后，不要去翻看手机，而是坐在位子上闭目养神、深呼吸，或者喝一杯温水，给大脑一个短暂的休息机会。保持离线状态，以便大脑能够正确处理信息。
+    
   </p>
 </div>
 
 ---
 
 ## 3. 💡 助力习惯成功的脑科学寄语
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">抵制眼前的诱惑，大脑其实已经疲惫不堪</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       仅仅把智能手机放在桌上，我们的大脑就在消耗能量以抑制“想看手机”的无意识诱惑。将诱惑物理隔离到视线之外，能从源头上阻断无谓的意志力消耗，这是一种科学的必胜法，让大脑将所有可用容量百分之百地投入到高难度的认知创意工作中。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>德摩斯梯尼为什么要剃掉半边头发？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      通过让自己的外表变得滑稽，他阻止了自己外出，从而强迫自己战胜诱惑，留在书房里专心练习。
+    </p>
+  </details>
 </div>

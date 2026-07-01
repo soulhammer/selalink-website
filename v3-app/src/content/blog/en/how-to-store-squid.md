@@ -74,22 +74,22 @@ Understanding the unique characteristics of each ingredient and following the pr
 
 ## 3. Crucial Rules and Cautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Freezing raw squid can make the meat tough ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Remove guts, eyes, and suction cups completely</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      For long-term freezing, instead of freezing it raw, blanch it in boiling water with a drop of vinegar for 10 seconds. Let it cool, remove excess moisture, and freeze it. This keeps it tender and chewy upon thawing.
+      Leaving guts inside causes rapid decay, bacteria multiplication, and strong fishy odors. Clean them immediately.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Refrigerate for no more than one day ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Cook raw squid within 2 days in the refrigerator</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Seafood has delicate tissues where food poisoning and decay bacteria can easily multiply within a single day, even in the refrigerator. Cook immediately after purchase or freeze right away.
+      Raw seafood spoils rapidly in the fridge. For longer storage, freeze it in portions.
     </p>
   </div>
 </div>

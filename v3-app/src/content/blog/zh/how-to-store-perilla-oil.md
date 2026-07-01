@@ -74,22 +74,22 @@ steps:
 
 ## 3. 储存注意事项
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">若有哈喇味（油哈味）请立即丢弃 ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">紫苏油请务必放入冰箱冷藏保存</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      打开苏子油瓶盖时，如果闻到的不是香气而是酸味或刺鼻的油哈味，说明已经完全氧化酸败。酸败的苏子油含有会诱发癌症和加速衰老的有毒物质，千万不可食用，必须立即丢弃。
+      接触氧气和光线会导致紫苏油迅速变质。请用避光瓶装好并密封放入冰箱冷藏。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">芝麻油（香油）请勿放入冰箱 ❌</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">掺入20%的芝麻油可使保鲜期翻倍</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      芝麻油富含天然抗氧化物质，在常温下储存也不易氧化变质，而冷藏反而会导致香气成分凝固流失。请将芝麻油放在避光的常温橱柜中保存。
+      芝麻油富含芝麻酚和芝麻素，这些天然抗氧化剂能有效防止紫苏油酸败变质。
     </p>
   </div>
 </div>

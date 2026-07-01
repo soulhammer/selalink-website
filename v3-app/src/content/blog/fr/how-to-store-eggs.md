@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Œuf","Guide de conservation scientifiquement prouvé","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Ne jamais laver les œufs avant stockage — Stockage Réfrigéré (45Jours) 💧"
     text: "La coquille d'œuf a des milliers de pores par lesquels l'œuf respire. Le lavage dissout la cuticule, barrière protectrice naturelle, ce qui permet aux bactéries (Salmonelles) de s'infiltrer. Essuyez la saleté au chiffon sec."
@@ -25,7 +25,7 @@ Est-ce que vous lavez vos œufs frais et les rangez dans la porte du frigo ? Cet
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce guide de conservation est basé sur les directives officielles de : <strong>MFDS & USDA</strong>.
+      Ce guide de conservation est basé sur les directives officielles de : <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>

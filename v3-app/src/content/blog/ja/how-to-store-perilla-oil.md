@@ -74,22 +74,22 @@ steps:
 
 ## 3. 保存時の注意点
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">酸敗臭（酸化した臭い）がしたらすぐに捨ててください ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">エゴマ油は必ず冷蔵庫で保存してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      エゴマ油の蓋を開けたとき、香ばしい香りの代わりに酸っぱい臭いや古い油の臭いがする場合は、すでに完全に酸化（酸敗）しています。酸化したエゴマ油はがんや老化を引き起こす有害物質を含んでいるため、絶対に口にせず廃棄してください。
+      酸素や光にさらされると非常に傷みやすいです。遮光瓶に入れ、しっかりと蓋を閉めて冷蔵庫で保管してください。
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">ごま油は冷蔵庫に入れないでください ❌</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">ごま油を20%混ぜると保存期間が2倍に延びます</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ごま油は独自の抗酸化物質のおかげで常温保存でも酸化しにくく、冷蔵保存するとむしろ香ばしい風味成分が固まり、香りが飛んでしまいます。ごま油は直射日光の当たらない常温の戸棚に保管してください。
+      ごま油に含まれるセサモールなどの天然抗酸化成分が、エゴマ油の酸化を強力に抑制し、保存期間を延ばしてくれます。
     </p>
   </div>
 </div>

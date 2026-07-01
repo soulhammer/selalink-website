@@ -13,7 +13,7 @@ steps:
   - name: "Zitronensaft oder Reiswein auftragen — Natürlicher Oxidationsschutz 🍋"
     text: "Bestreichen Sie den getrockneten Lachs dünn mit Zitronensaft oder etwas Reiswein (oder Mirin). Säure und Alkohol dienen als natürlicher Konservierungsschutz und verhindern das Ranzigwerden."
   - name: "Lachs fest in Folie wickeln und Luft herauspressen — Gefrierlagerung (90Tage) 📦"
-    text: "Wickeln Sie den behandelten Lachs fest in Frischhaltefolie (Luft entfernen) und legen ihn in einen Gefrierbeutel. Hält im Kühlschrank bis zu 2 Tage, im Gefrierschrank bis zu 90 Tage frisch."
+    text: "Wickeln Sie den behandelten Lachs fest in Frischhaltefolie (Luft entfernen) und legen ihn in einen Gefrierbeutel. Hält im Kühlschrank bis zu 2 Tage, im Gefrierschrank bis zu 60 Tage frisch."
 ---
 
 Haben Sie frischen Lachs länger als zwei Tage im Kühlschrank gelagert? Lachs ist feucht, wodurch sich Bakterien schnell vermehren. Heute teilt StoreSelf offizielle FDA-Tipps zum geruchfreien Lagern.
@@ -66,7 +66,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lachs fest in Folie wickeln und Luft herauspressen — Gefrierlagerung (90Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Wickeln Sie den behandelten Lachs fest in Frischhaltefolie (Luft entfernen) und legen ihn in einen Gefrierbeutel. Hält im Kühlschrank bis zu 2 Tage, im Gefrierschrank bis zu 90 Tage frisch.
+    Wickeln Sie den behandelten Lachs fest in Frischhaltefolie (Luft entfernen) und legen ihn in einen Gefrierbeutel. Hält im Kühlschrank bis zu 2 Tage, im Gefrierschrank bis zu 60 Tage frisch.
   </p>
 </div>
 
@@ -74,22 +74,22 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 ## 3. Wichtige Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Achten Sie genau auf Farbveränderungen und Textur ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Feuchtigkeit und austretenden Fischsaft gründlich abtupfen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Wenn der Lachs seine leuchtend rosa Farbe verloren hat und dunkelbraun geworden ist oder wenn er beim Eindrücken mit dem Finger keine Spannkraft mehr hat und eine Delle zurückbleibt, haben sich die Proteine bereits zersetzt und er muss entsorgt werden.
+      Fischsaft an der Oberfläche verursacht Fischgeruch und beschleunigt den Verderb. Vor dem Einwickeln gut abtrocknen.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Vor dem Einfrieren Haut und Gräten entfernen ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Vakuumieren oder luftdicht verschließen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Für ein langfristiges Einfrieren (bis zu 90 Tage) empfiehlt es sich, Haut und Gräten vorab zu entfernen und den Lachs in kleinen Portionen eng in Frischhaltefolie eingewickelt einzufrieren. Dies erleichtert das spätere Auftauen und Essen und erhält die Textur.
+      Sauerstoffkontakt oxidiert Fette und macht den Lachs trocken. Ein enges Einwickeln schützt vor Luftzufuhr.
     </p>
   </div>
 </div>

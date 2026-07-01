@@ -3,10 +3,20 @@ title: "O orador que raspou metade da cabeça? A lei do controle ambiental extre
 description: "Demóstenes superou limitações físicas congênitas para se tornar o maior orador da Grécia Antiga. Conheça sua rotina de controle ambiental de raspar metade da cabeça e isolar-se em uma caverna para evitar distrações."
 pubDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["Hábitos Históricos","Demóstenes","Foco","Controle Ambiental","Força de Vontade"]
+tags: ["O orador q","Routine"]
 heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
 authority: "Vidas Paralelas 'Vida de Demóstenes' de Plutarco e pesquisas sobre controle de estímulos da APA"
+steps:
+  - name: "Isolar fisicamente o smartphone"
+    text: ""
+  - name: "Definir um temporizador Pomodoro e focar"
+    text: ""
+  - name: "Fazer uma pausa offline completa"
+    text: ""
+faqs:
+  - question: "Porque é que Demóstenes rapou metade da cabeça?"
+    answer: "Ao ridicularizar a sua aparência, impediu-se de sair à rua, forçando-se a superar a tentação e a ficar no seu estúdio a praticar."
 ---
 
 Um homem que superou a gagueira congênita, um físico frágil e a falta de ar que o impedia de falar por longos períodos para se tornar o maior estadista da Atenas Antiga e o maior orador da história grega. Esse homem foi Demóstenes. 🏛️
@@ -17,14 +27,17 @@ Forçado a ficar em casa porque tinha vergonha de aparecer em público com aquel
 
 Hoje, o BuildSelf explora o segredo de Demóstenes, que desenhou um ambiente extremo para superar a fraqueza humana, e como aplicar essa lógica na era moderna dos smartphones.
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Acadêmica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se na obra histórica <strong>&lt;Vidas Paralelas: Vida de Demóstenes&gt;</strong> escrita por Plutarco, e nos conceitos da Teoria do Controle de Estímulos (Stimulus Control Theory) publicados pela Associação Americana de Psicologia (APA).
+      Este conteúdo baseia-se em <strong>Vidas Paralelas 'Vida de Demóstenes' de Plutarco e pesquisas sobre controle de estímulos da APA</strong>.
     </p>
   </div>
 </div>
@@ -39,50 +52,67 @@ Na psicologia moderna, esse conceito é considerado uma lei de extrema importân
 
 ---
 
-## 2. A rotina de isolamento de Demóstenes em 3 passos para o dia a dia
-
-Propomos uma rotina moderna inspirada em Demóstenes para vencer o smartphone, a maior distração da nossa era.
+## 2. Rotina Prática de 3 Passos para o Profissional Moderno
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Isolar fisicamente o smartphone</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Antes de começar a estudar ou trabalhar, desligue o smartphone ou coloque-o no modo silencioso absoluto (sem vibrar). Depois, guarde-o em outro cômodo ou no fundo de uma gaveta, longe do seu campo de visão.
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Definir um temporizador Pomodoro e focar</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Deixe sobre a mesa apenas o material ou tarefa que precisa ser feito agora. Utilize um cronômetro analógico para definir 25 ou 50 minutos de foco ininterrupto e trabalhe apenas nessa tarefa durante o período.
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/demosthenes_isolation_relax_detail.png" alt="Definir um temporizador Pomodoro e focar" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Fazer uma pausa offline completa</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Quando o bloco de foco terminar, em vez de olhar o celular, sente-se, feche os olhos, respire fundo ou beba um copo de água. Mantenha o cérebro offline para que ele processe as informações corretamente.
+    
   </p>
 </div>
 
 ---
 
 ## 3. 💡 Uma dica da neurociência para o sucesso da sua rotina
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Resistir à tentação visual já consome a energia do seu cérebro</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       O simples fato de ter o smartphone sobre a mesa consome energia mental, pois o cérebro precisa reprimir ativamente o impulso de olhar para ele. Isolar fisicamente a tentação evita o desgaste desnecessário da força de vontade, permitindo direcionar toda a capacidade do cérebro para tarefas intelectuais de alta complexidade.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Perguntas Frequentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Porque é que Demóstenes rapou metade da cabeça?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ao ridicularizar a sua aparência, impediu-se de sair à rua, forçando-se a superar a tentação e a ficar no seu estúdio a praticar.
+    </p>
+  </details>
 </div>

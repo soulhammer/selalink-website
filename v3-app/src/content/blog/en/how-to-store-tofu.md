@@ -8,9 +8,9 @@ heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: "Discard pack water and rinse under running water — Cold water rinse 🚿"
+  - name: "Discard pack water and rinse under running water — Refrigerated Storage (7Days) 🚿"
     text: "The water inside the packaged tofu contains dissolved proteins, making it a breeding ground for bacteria. Discard this water completely and rinse the tofu thoroughly under cold running water before storing."
-  - name: "Submerge in cold water with a pinch of salt — Refrigerated Storage (7Days) 🧂"
+  - name: "Submerge in cold water with a pinch of salt — Frozen Storage (21Days) 🧂"
     text: "Place the tofu in an airtight container, cover it completely with clean cold water, and mix in half a teaspoon of salt. The salt water inhibits bacteria growth and helps keep the tofu firm."
   - name: "Change the water daily — Keep clean and fresh 💧"
     text: "Even with salt, the water must be replaced with fresh cold water daily or every two days. This prevents the tofu from spoiling and keeps it fresh and firm for up to a week."
@@ -43,7 +43,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Discard pack water and rinse under running water — Cold water rinse 🚿</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Discard pack water and rinse under running water — Refrigerated Storage (7Days) 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     The water inside the packaged tofu contains dissolved proteins, making it a breeding ground for bacteria. Discard this water completely and rinse the tofu thoroughly under cold running water before storing.
@@ -53,7 +53,7 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Submerge in cold water with a pinch of salt — Refrigerated Storage (7Days) 🧂</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Submerge in cold water with a pinch of salt — Frozen Storage (21Days) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Place the tofu in an airtight container, cover it completely with clean cold water, and mix in half a teaspoon of salt. The salt water inhibits bacteria growth and helps keep the tofu firm.
@@ -77,9 +77,9 @@ Understanding the unique characteristics of each ingredient and following the pr
 <div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Freezing after blanching (21Days) changes texture to sponge-like ❄️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Discard packaging water and change with fresh cold water daily</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      If you freeze tofu after blanching it briefly in boiling water, the internal water drains out, creating a sponge-like texture. Use this for stews or fillings. Frozen storage is recommended for up to 21 days.
+      Leftover tofu spoils quickly due to bacteria. Changing the cold water daily blocks bacterial growth and keeps it clean.
     </p>
   </div>
 </div>

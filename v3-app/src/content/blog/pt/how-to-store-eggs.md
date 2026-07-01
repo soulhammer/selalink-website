@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Ovo","Guia de armazenamento comprovado cientificamente","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Nunca lave os ovos antes de guardar — Armazenamento Refrigerado (45Dias) 💧"
     text: "A casca do ovo tem milhares de poros microscópicos pelos quais o ovo respira. Lavá-los remove a película protetora natural (cutícula), facilitando a entrada de bactérias como a Salmonella. Limpe a sujeira apenas com um pano seco."
@@ -25,7 +25,7 @@ Você lava os ovos frescos e os guarda na porta da geladeira? Esse hábito destr
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este guia de conservação segue as diretrizes oficiais de: <strong>MFDS & USDA</strong>.
+      Este guia de conservação segue as diretrizes oficiais de: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>

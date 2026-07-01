@@ -2,12 +2,22 @@
 title: "Le génie qui restait au lit jusqu'à midi ? La routine de méditation allongée de René Descartes"
 description: "René Descartes, le père de la philosophie moderne qui restait au lit pour penser. Découvrez sa routine et une méditation de 5 minutes dans son lit."
 pubDate: "2026-01-25"
+updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["Habitudes Historiques", "René Descartes", "Routine Matinale", "Méditation", "Concentration"]
+tags: ["Le génie q","Routine"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 authority: "Biographie de René Descartes 'La Vie de Monsieur Descartes' & revue Psychophysiology"
-updatedDate: "2026-01-25"
+steps:
+  - name: "Garder la Posture et Bloquer le Smartphone Après l'Alarme"
+    text: ""
+  - name: "Respiration Relaxante et Balayage Corporel"
+    text: ""
+  - name: "Définir la 'Question Clé' de la Journée"
+    text: ""
+faqs:
+  - question: "La méditation matinale au lit est-elle vraiment efficace pour le cerveau ?"
+    answer: "Oui, la position allongée après le réveil guide les ondes cérébrales en état alpha, ce qui stabilise le système nerveux et stimule la créativité."
 ---
 
 René Descartes, le père de la philosophie moderne, qui a établi le point de départ de la philosophie moderne avec la proposition "Je pense, donc je suis" et a fondé la géométrie analytique. Saviez-vous que ce géant de l'intellect s'imposait chaque matin une routine aussi confortable qu'originale ? 🛏️
@@ -16,14 +26,17 @@ Descartes était de constitution très fragile depuis son enfance, ce qui lui re
 
 Aujourd'hui, BuildSelf présente les fondements scientifiques de la routine de méditation au lit de Descartes et comment les personnes actives peuvent l'appliquer le matin.
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Base Historique & Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur la première biographie de Descartes, <strong>&lt;La Vie de Monsieur Descartes&gt;</strong> d'Adrien Baillet, et sur des recherches publiées dans la revue Psychophysiology sur les effets de la posture horizontale au réveil sur la stabilisation du système nerveux autonome et la formation d'ondes cérébrales créatrices (ondes Alpha).
+      Ce contenu est basé sur <strong>Biographie de René Descartes 'La Vie de Monsieur Descartes' & revue Psychophysiology</strong>.
     </p>
   </div>
 </div>
@@ -38,50 +51,67 @@ De nombreux actifs se lèvent en sursaut au son de l'alarme, le cœur battant, v
 
 ---
 
-## 2. Méditation de 5 Minutes au Lit de Descartes pour les Modernes
-
-Dans un quotidien qui démarre dès l'ouverture des yeux, nous vous proposons une routine moderne pour donner du répit à votre cerveau et optimiser votre esprit.
+## 2. Routine Pratique en 3 Étapes pour l’Homme Moderne
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Garder la Posture et Bloquer le Smartphone Après l'Alarme</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ne sortez pas du lit dès l'alarme éteinte, et n'allumez pas l'écran de votre smartphone pour chercher sur Internet ou lire vos notifications. Restez allongé confortablement sous la couette et placez le téléphone hors de portée.
+    
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Respiration Relaxante et Balayage Corporel</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Fermez les yeux ou fixez le plafond, inspirez profondément par le nez et expirez lentement par la bouche 5 fois. Observez le calme envahir votre tête à l'inspiration, et la tension s'échapper de vos épaules, de votre cou et de votre dos à l'expiration.
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/descartes_lying_meditation_relax_detail.png" alt="Respiration Relaxante et Balayage Corporel" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Définir la 'Question Clé' de la Journée</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ne planifiez pas dans l'urgence tout ce que vous avez à faire, posez-vous une seule question : "Quelle est la valeur unique sur laquelle je veux me concentrer aujourd'hui ?" Visualisez cet objectif sous forme d'image ou de mot, profitez du calme pendant 1 minute, puis levez-vous doucement.
+    
   </p>
 </div>
 
 ---
 
 ## 3. Un Mot des Neurosciences pour une Routine Réussie
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Un démarrage en douceur régule la cadence de la journée</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       Pour Descartes, le lit n'était pas un symbole de paresse. C'était le moment et l'espace les plus calmes et parfaits pour échapper aux bruits de la réalité et poser les bases des mathématiques et de la philosophie. Prenez seulement 5 minutes chaque matin pour offrir à votre cerveau une vraie détente au réveil.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>La méditation matinale au lit est-elle vraiment efficace pour le cerveau ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Oui, la position allongée après le réveil guide les ondes cérébrales en état alpha, ce qui stabilise le système nerveux et stimule la créativité.
+    </p>
+  </details>
 </div>

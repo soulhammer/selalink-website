@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Ei","Wissenschaftlich geprüfter Lagerungsratgeber","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Eier vor dem Lagern niemals abwaschen — Kühllagerung (45Tage) 💧"
     text: "Eierschalen besitzen Tausende winzige Poren zum Atmen. Das Waschen entfernt die natürliche Schutzschicht (Kutikula), sodass Bakterien wie Salmonellen durch die Poren eindringen können. Schmutz nur trocken abreiben."
@@ -25,7 +25,7 @@ Waschen Sie Eier ab und lagern sie in der Kühlschranktür? Diese Methode beeint
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>MFDS & USDA</strong>.
+      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>

@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Huevo","Guía de almacenamiento científicamente probada","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Nunca lave los huevos antes de guardarlos — Almacenamiento Refrigerado (45Días) 💧"
     text: "El cascarón de los huevos tiene miles de poros microscópicos para respirar. Lavarlos elimina la capa protectora natural (cutícula), lo que facilita que bacterias como la Salmonella entren por esos poros. Limpie la suciedad solo con un paño seco."
@@ -25,7 +25,7 @@ steps:
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Esta guía de conservación cumple con las directrices oficiales de: <strong>MFDS & USDA</strong>.
+      Esta guía de conservación cumple con las directrices oficiales de: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>

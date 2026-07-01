@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Fruits secs","Guide de conservation scientifiquement prouvé","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Sceller et réfrigérer/congeler après ouverture — Réfrigéré 90 jours & Congelé 180 jours"
     text: "Les fruits secs contiennent beaucoup de lipides qui s'oxydent et rancissent à température ambiante chaude et humide. Ce milieu favorise aussi l'aflatoxine, une toxine cancérigène. Gardez-les fermés au froid."
@@ -25,7 +25,7 @@ Laissez-vous les fruits secs sur la table dans des bocaux transparents ? Ils son
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce guide de conservation est basé sur les directives officielles de : <strong>MFDS & USDA</strong>.
+      Ce guide de conservation est basé sur les directives officielles de : <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>
@@ -74,22 +74,22 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 ## 3. Règles cruciales et précautions
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 dark:bg-rose-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ne mangez jamais de fruits à coque rances ou humides ⚠️</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ne mangez jamais de fruits secs rancis ou humides</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Si les fruits à coque sentent l'huile rance ou semblent humides, cela signifie que l'oxydation des lipides et le développement de moisissures produisant de l'aflatoxine ont déjà commencé. Cette toxine n'étant pas détruite par le lavage ou la torréfaction, vous devez les jeter.
+      Les fruits secs oxydés développent des aflatoxines, de puissants cancérogènes qui ne sont pas détruits par la cuisson. Jetez-les.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500 bg-amber-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Manipulez les fruits à coque avec soin pour éviter les fissures 🥜</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Fermez avec des absorbeurs d'oxygène à l'abri de la lumière</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Si la surface des noix ou des amandes est fissurée ou endommagée par un choc, l'air s'infiltrera par les fissures et l'oxydation sera beaucoup plus rapide. Évitez de comprimer le sachet de manière excessive.
+      Stockez les fruits secs dans des contenants opaques avec des absorbeurs d'oxygène, dans un tiroir frais ou au congélateur.
     </p>
   </div>
 </div>

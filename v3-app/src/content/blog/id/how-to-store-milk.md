@@ -6,7 +6,7 @@ category: "StoreSelf"
 tags: ["Susu","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
-authority: "<strong>MFDS & USDA</strong>"
+authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Jangan simpan di rak pintu kulkas — Penyimpanan Dingin (7Hari)"
     text: "Rak pintu kulkas mengalami perubahan suhu paling drastis setiap kali dibuka dan ditutup. Agar susu awet, simpan di rak bagian dalam kulkas yang suhunya stabil pada 0–4°C."
@@ -25,7 +25,7 @@ Apakah Anda menyimpan kotak susu berjejer di rak pintu kulkas? Pintu kulkas meng
       Verified Scientific Authority
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>MFDS & USDA</strong>.
+      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>
