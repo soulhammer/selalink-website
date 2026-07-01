@@ -1,12 +1,13 @@
 ---
 title: "¿El genio que tocaba el violín en un callejón sin salida del pensamiento? La rutina de reinicio de Albert Einstein"
 description: "Albert Einstein, el genio de la física que tocaba el violín cuando se estancaba. Descubra su rutina de reinicio cognitivo y una práctica de 3 pasos para personas modernas."
-pubDate: "2026-07-01"
+pubDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["Hábitos Históricos", "Albert Einstein", "Creatividad", "Relajación", "Ideas"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
 authority: "Biografía de Albert Einstein 'Einstein: A Life' y revista Frontiers in Psychology"
+updatedDate: "2026-03-05"
 ---
 
 Albert Einstein, el físico más grande de la historia que cambió el paradigma de la física moderna al publicar la teoría de la relatividad y revolucionó la forma en que la humanidad comprende el universo. ¿De dónde surgieron las grandes inspiraciones físicas que cambiaron la mentalidad de la humanidad? 🎻

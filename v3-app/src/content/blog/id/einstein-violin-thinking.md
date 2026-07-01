@@ -1,12 +1,13 @@
 ---
 title: "Sang Genius yang Bermain Biola Saat Buntu Berpikir? Rutinitas Reset Albert Einstein"
 description: "Albert Einstein, fisikawan genius yang bermain biola saat pikirannya buntu. Temukan rutinitas reset kognitifnya dan panduan praktis 3 langkah untuk manusia modern."
-pubDate: "2026-07-01"
+pubDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["Kebiasaan Tokoh", "Albert Einstein", "Kreativitas", "Relaksasi", "Ide"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
 authority: "Biografi Albert Einstein 'Einstein: A Life' & Jurnal Frontiers in Psychology"
+updatedDate: "2026-03-05"
 ---
 
 Albert Einstein, fisikawan terbesar dalam sejarah yang mengubah paradigma fisika modern dengan merumuskan teori relativitas dan merevolusi cara manusia memahami semesta. Dari mana datangnya inspirasi fisik luar biasa yang mengubah pikiran manusia ini? 🎻

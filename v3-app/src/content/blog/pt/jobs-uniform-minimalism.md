@@ -1,12 +1,13 @@
 ---
 title: "O gênio que vestia a mesma roupa todos os dias? A rotina de minimalismo de decisões de Steve Jobs"
 description: "Steve Jobs, o cofundador da Apple que vestia gola rulê preta e jeans diariamente. Descubra sua rotina para evitar a fadiga de decisão e um guia de 3 passos."
-pubDate: "2026-07-01"
+pubDate: "2026-06-25"
 category: "BuildSelf"
 tags: ["Hábitos Históricos", "Steve Jobs", "Produtividade", "Simplificação", "Tomada de Decisão"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 authority: "Biografia de Steve Jobs por Walter Isaacson & revista JPSP"
+updatedDate: "2026-06-25"
 ---
 
 Steve Jobs, o gênio que cofundou a Apple e lançou o Macintosh, o iPhone, o iPad e outros dispositivos revolucionários que mudaram para sempre o estilo de vida digital. Você sabia que ele usava exatamente a mesma blusa preta de gola alta, jeans e tênis todos os dias, não apenas no palco? 👕

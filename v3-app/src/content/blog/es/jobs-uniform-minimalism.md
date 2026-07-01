@@ -1,12 +1,13 @@
 ---
 title: "¿El genio que vestía la misma ropa todos los días? La rutina de minimalismo de decisiones de Steve Jobs"
 description: "Steve Jobs, el cofundador de Apple que vestía suéter negro y jeans a diario. Descubra su rutina para evitar la fatiga por decisión y una práctica de 3 pasos."
-pubDate: "2026-07-01"
+pubDate: "2026-06-25"
 category: "BuildSelf"
 tags: ["Hábitos Históricos", "Steve Jobs", "Productividad", "Simplificación", "Toma de Decisiones"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 authority: "Biografía de Steve Jobs por Walter Isaacson y revista JPSP sobre la fatiga por decisión"
+updatedDate: "2026-06-25"
 ---
 
 Steve Jobs, el genio emprendedor que cofundó Apple y lanzó el Macintosh, iPhone, iPad y otros dispositivos revolucionarios que cambiaron para siempre el estilo de vida digital de la humanidad. ¿Sabía que vestía exactamente el mismo suéter negro, vaqueros y zapatillas todos los días, y no sólo en los escenarios? 👕

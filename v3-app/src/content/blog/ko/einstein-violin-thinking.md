@@ -1,12 +1,13 @@
 ---
 title: "생각의 막다른 길에서 바이올린을 켠 천재? 알베르트 아인슈타인의 리셋 루틴"
 description: "물리학의 패러다임을 바꾼 알베르트 아인슈타인. 연구 도중 생각이 꽉 막힐 때마다 바이올린을 연주했던 그의 독특한 뇌 리셋법과 현대인을 위한 3단계 인지 전환 실천법을 알아봅니다."
-pubDate: "2026-07-01"
+pubDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
 authority: "알베르트 아인슈타인 전기 'Einstein: A Life' 및 Frontiers in Psychology 학술지"
+updatedDate: "2026-03-05"
 ---
 
 상대성 이론을 발표하여 현대 물리학의 패러다임을 통째로 바꾸고 인류가 우주를 이해하는 방식을 혁명적으로 변화시킨 역사상 가장 위대한 물리학자, 알베르트 아인슈타인. 20세기 최고의 천재로 손꼽히는 그의 기발하고 혁신적인 아이디어들은 과연 어디서 탄생했을까요? 🎻

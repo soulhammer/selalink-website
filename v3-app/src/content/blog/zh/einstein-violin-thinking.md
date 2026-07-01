@@ -1,12 +1,13 @@
 ---
 title: "在思考死胡同里拉小提琴的天才？阿尔伯特·爱因斯坦的重置惯例"
 description: "阿尔伯特·爱因斯坦，每当思考受阻时就会拉小提琴的天才物理学家。介绍他的大脑重置方法以及现代人的三步实践指南。"
-pubDate: "2026-07-01"
+pubDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["名人习惯", "阿尔伯特·爱因斯坦", "创造力", "休息", "灵感"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
 authority: "传记《Einstein: A Life》与学术期刊《Frontiers in Psychology》"
+updatedDate: "2026-03-05"
 ---
 
 阿尔伯特·爱因斯坦，发表相对论、改写现代物理学范式，并彻底改变人类宇宙观的史诗级物理学家。改变人类思维范式的伟大物理灵感究竟源自何处？ 🎻

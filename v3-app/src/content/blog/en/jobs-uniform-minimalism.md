@@ -1,12 +1,13 @@
 ---
 title: "The Genius Who Wore the Exact Same Clothes Every Day? Steve Jobs' Decision Minimalism Routine"
 description: "Steve Jobs, the co-founder of Apple who wore a black turtleneck and jeans daily. Discover his routine to beat decision fatigue and a 3-step dress simplification for modern people."
-pubDate: "2026-07-01"
+pubDate: "2026-06-25"
 category: "BuildSelf"
 tags: ["Historical Habits", "Steve Jobs", "Productivity", "Simplification", "Decision Making"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 authority: "Steve Jobs' Biography by Walter Isaacson & JPSP Decision Fatigue Research"
+updatedDate: "2026-06-25"
 ---
 
 Steve Jobs, the entrepreneurial genius who co-founded Apple and launched the Macintosh, iPhone, iPad, and other revolutionary devices that permanently changed mankind's digital lifestyle. Did you know that he wore the exact same black turtleneck, jeans, and sneakers every single day, not just on stage? 👕

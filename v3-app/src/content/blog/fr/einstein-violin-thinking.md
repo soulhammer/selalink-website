@@ -1,12 +1,13 @@
 ---
 title: "Le génie qui jouait du violon dans une impasse de réflexion ? La routine de réinitialisation d'Albert Einstein"
 description: "Albert Einstein, le génie de la physique qui jouait du violon quand il était bloqué. Découvrez sa routine de réinitialisation cognitive et une pratique en 3 étapes."
-pubDate: "2026-07-01"
+pubDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["Habitudes Historiques", "Albert Einstein", "Créativité", "Relaxation", "Idées"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
 authority: "Biographie d'Albert Einstein 'Einstein: A Life' & revue Frontiers in Psychology"
+updatedDate: "2026-03-05"
 ---
 
 Albert Einstein, le plus grand physicien de l'histoire, qui a changé le paradigme de la physique moderne en publiant la théorie de la relativité et a révolutionné la façon dont l'humanité comprend l'univers. D'où sont nées les grandes inspirations physiques qui ont changé les mentalités ? 🎻

@@ -1,12 +1,13 @@
 ---
 title: "O gênio que não saía da cama até o meio-dia? A rotina de meditação deitado de René Descartes"
 description: "René Descartes, o pai da filosofia moderna que ficava na cama para pensar. Descubra sua rotina de meditação e um guia de 5 minutos na cama."
-pubDate: "2026-07-01"
+pubDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["Hábitos Históricos", "René Descartes", "Rotina Matinal", "Meditação", "Foco"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 authority: "Biografia de René Descartes 'La Vie de Monsieur Descartes' & revista Psychophysiology"
+updatedDate: "2026-01-25"
 ---
 
 René Descartes, o pai da filosofia moderna que estabeleceu o ponto de partida do pensamento racional com a frase "Penso, logo existo" e fundou a geometria analítica. Você sabia que este gigante do intelecto mantinha uma rotina muito confortável, porém única, todas as manhãs? 🛏️

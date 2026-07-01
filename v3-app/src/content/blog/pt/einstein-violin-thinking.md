@@ -1,12 +1,13 @@
 ---
 title: "O gênio que tocava violino em um beco sem saída mental? A rotina de reinício de Albert Einstein"
 description: "Albert Einstein, o físico genial que tocava violino quando estava bloqueado. Descubra sua rotina de reinício cognitivo e um guia prático de 3 passos."
-pubDate: "2026-07-01"
+pubDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["Hábitos Históricos", "Albert Einstein", "Criatividade", "Relaxamento", "Ideias"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
 authority: "Biografia de Albert Einstein 'Einstein: A Life' & revista Frontiers in Psychology"
+updatedDate: "2026-03-05"
 ---
 
 Albert Einstein, o maior físico da história, que mudou o paradigma da física moderna ao publicar a teoria da relatividade e revolucionou a forma como a humanidade compreende o universo. De onde vieram as grandes inspirações que mudaram a mente humana? 🎻

@@ -1,12 +1,13 @@
 ---
 title: "昼までベッドから出なかった天才？ルネ・デカルトの瞑想思索ルーティン"
 description: "朝起きてベッドの中で思索と瞑想にふけっていた近代哲学の父ルネ・デカルト。彼のベッドルーティンと現代人のための5分間ベッド瞑想を紹介します。"
-pubDate: "2026-07-01"
+pubDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["偉人の習慣", "ルネ・デカルト", "朝のルーティン", "瞑想", "集中力"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 authority: "デカルト伝記「La Vie de Monsieur Descartes」および学術誌「Psychophysiology」"
+updatedDate: "2026-01-25"
 ---
 
 「我思う、故に我あり」という哲学史上最も有名な命題を残して近代哲学の土台を築き、座標系を導入して解析幾何学を創始した天才数学者であり哲学者、ルネ・デカルト。この偉大な知性の巨人が、毎朝実践していた極めて快適でユニークなルーティンをご存知ですか？ 🛏️

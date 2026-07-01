@@ -1,12 +1,13 @@
 ---
 title: "Das Genie, das jeden Tag die gleiche Kleidung trug? Steve Jobs' Routine des Entscheidungsminimalismus"
 description: "Steve Jobs, der Mitbegründer von Apple, der täglich Rollkragen und Jeans trug. Entdecken Sie seine Routine zur Vermeidung von Entscheidungsermüdung."
-pubDate: "2026-07-01"
+pubDate: "2026-06-25"
 category: "BuildSelf"
 tags: ["Historische Gewohnheiten", "Steve Jobs", "Produktivität", "Vereinfachung", "Entscheidungsfindung"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 authority: "Steve Jobs' Biografie von Walter Isaacson & Fachzeitschrift JPSP"
+updatedDate: "2026-06-25"
 ---
 
 Steve Jobs, der geniale Unternehmer und Mitbegründer von Apple, der den Macintosh, das iPhone, das iPad und andere revolutionäre Geräte auf den Markt brachte, die unseren Lebensstil nachhaltig veränderten. Wussten Sie, dass er nicht nur auf der Bühne, sondern auch im Alltag täglich den gleichen schwarzen Rollkragenpullover, Jeans und Sneakers trug? 👕

@@ -1,12 +1,13 @@
 ---
 title: "The Genius Who Stayed in Bed Until Noon? René Descartes' Lying Meditation Routine"
 description: "René Descartes, the father of modern philosophy who stayed in bed to think. Discover his lying meditation routine and a 3-step bed meditation for modern people."
-pubDate: "2026-07-01"
+pubDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["Historical Habits", "René Descartes", "Morning Routine", "Meditation", "Focus"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 authority: "René Descartes' Biography 'La Vie de Monsieur Descartes' & Psychophysiology Journal"
+updatedDate: "2026-01-25"
 ---
 
 René Descartes, the father of modern philosophy who established the starting point of modern philosophy with the proposition "I think, therefore I am" and founded analytic geometry. Did you know that this giant of intellect maintained a very cozy yet unique routine every morning? 🛏️

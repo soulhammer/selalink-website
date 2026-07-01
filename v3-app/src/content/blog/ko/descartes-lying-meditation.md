@@ -1,12 +1,13 @@
 ---
 title: "침대에서 점심까지 안 일어난 천재? 르네 데카르트의 명상 사색 루틴"
 description: "근대 철학의 아버지이자 수학자 르네 데카르트. 아침에 잠에서 깬 뒤 침대에 누워 사색과 명상에 몰두했던 그의 독특한 루틴과 현대인을 위한 5분 침대 명상 실천법을 알아봅니다."
-pubDate: "2026-07-01"
+pubDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 authority: "르네 데카르트 전기 'La Vie de Monsieur Descartes' 및 정신생리학(Psychophysiology) 학술지"
+updatedDate: "2026-01-25"
 ---
 
 "나는 생각한다, 고로 존재한다 (Cogito, ergo sum)"라는 철학사상 가장 유명한 명제를 남기며 근대 철학의 토대를 쌓고, 좌표계를 도입하여 해석기하학을 창시한 천재 수학자이자 철학자, 르네 데카르트. 이 위대한 지성의 거장이 평생 아침마다 고수해 온 아주 게으르면서도 기묘한 루틴이 있었다는 사실을 아시나요? 🛏️

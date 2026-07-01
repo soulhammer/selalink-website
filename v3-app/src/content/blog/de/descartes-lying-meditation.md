@@ -1,12 +1,13 @@
 ---
 title: "Das Genie, das bis zum Mittag im Bett blieb? René Descartes' Meditations-Routine im Liegen"
 description: "René Descartes, der Vater der modernen Philosophie, der im Bett lag und nachdachte. Entdecken Sie seine Routine und eine 5-minütige Bettmeditation."
-pubDate: "2026-07-01"
+pubDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["Historische Gewohnheiten", "René Descartes", "Morgenroutine", "Meditation", "Fokus"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 authority: "René Descartes' Biografie 'La Vie de Monsieur Descartes' & Fachzeitschrift Psychophysiology"
+updatedDate: "2026-01-25"
 ---
 
 René Descartes, der Vater der modernen Philosophie, der mit dem Satz "Ich denke, also bin ich" den Ausgangspunkt des modernen Denkens markierte und die analytische Geometrie begründete. Wussten Sie, dass dieses Genie jeden Morgen eine sehr gemütliche, aber einzigartige Routine pflegte? 🛏️

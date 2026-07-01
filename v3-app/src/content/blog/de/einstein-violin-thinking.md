@@ -1,12 +1,13 @@
 ---
 title: "Das Genie, das in einer Denksackgasse Geige spielte? Albert Einsteins Reset-Routine"
 description: "Albert Einstein, das Physikergenie, das bei Denkblockaden Geige spielte. Entdecken Sie seine kognitive Reset-Routine und eine 3-Schritt-Praxis für moderne Menschen."
-pubDate: "2026-07-01"
+pubDate: "2026-03-05"
 category: "BuildSelf"
 tags: ["Historische Gewohnheiten", "Albert Einstein", "Kreativität", "Entspannung", "Ideen"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
 authority: "Albert Einsteins Biografie 'Einstein: A Life' & Fachzeitschrift Frontiers in Psychology"
+updatedDate: "2026-03-05"
 ---
 
 Albert Einstein, der größte Physiker der Geschichte, der mit der Relativitätstheorie das Paradigma der modernen Physik veränderte und das Weltbild der Menschheit revolutionierte. Woher stammten die großen physikalischen Inspirationen, die das Denken veränderten? 🎻

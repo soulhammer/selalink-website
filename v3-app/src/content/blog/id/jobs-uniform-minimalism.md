@@ -1,12 +1,13 @@
 ---
 title: "Sang Genius yang Memakai Pakaian yang Sama Setiap Hari? Rutinitas Minimalis Keputusan Steve Jobs"
 description: "Steve Jobs, pendiri Apple yang selalu memakai turtleneck hitam dan jeans. Temukan caranya mengatasi keletihan keputusan dan panduan 3 langkah menyederhanakan pakaian."
-pubDate: "2026-07-01"
+pubDate: "2026-06-25"
 category: "BuildSelf"
 tags: ["Kebiasaan Tokoh", "Steve Jobs", "Produktivitas", "Penyederhanaan", "Pengambilan Keputusan"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 authority: "Biografi Steve Jobs oleh Walter Isaacson & Jurnal JPSP"
+updatedDate: "2026-06-25"
 ---
 
 Steve Jobs, genius wirausaha yang mendirikan Apple dan meluncurkan Macintosh, iPhone, iPad, serta perangkat revolusioner lainnya. Tahukah Anda bahwa ia mengenakan turtleneck hitam, celana jins, dan sepatu kets yang sama persis setiap hari, bukan hanya di atas panggung? 👕

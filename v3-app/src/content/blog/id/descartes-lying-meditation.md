@@ -1,12 +1,13 @@
 ---
 title: "Sang Genius yang Rebahan di Kasur Sampai Siang? Rutinitas Meditasi René Descartes"
 description: "René Descartes, bapak filsafat modern yang merenung di tempat tidur. Temukan rutinitas meditasi rebahan dan panduan meditasi kasur 5 menit."
-pubDate: "2026-07-01"
+pubDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["Kebiasaan Tokoh", "René Descartes", "Rutinitas Pagi", "Meditasi", "Fokus"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 authority: "Biografi René Descartes 'La Vie de Monsieur Descartes' & Jurnal Psychophysiology"
+updatedDate: "2026-01-25"
 ---
 
 René Descartes, bapak filsafat modern yang meletakkan dasar pemikiran rasional lewat kutipan terkenal "Aku berpikir, maka aku ada" dan penemu geometri analitis. Tahukah Anda bahwa raksasa intelektual ini menjalani rutinitas pagi yang sangat nyaman namun unik? 🛏️

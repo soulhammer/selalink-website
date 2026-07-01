@@ -1,12 +1,13 @@
 ---
 title: "每天穿同样衣服的天才？史蒂夫·乔布斯的决策极简主义惯例"
 description: "始终穿着黑色套头衫和牛仔裤的苹果创始人史蒂夫·乔布斯。介绍他克服决策疲劳的极简主义习惯以及现代人的三步穿衣简化指南。"
-pubDate: "2026-07-01"
+pubDate: "2026-06-25"
 category: "BuildSelf"
 tags: ["名人习惯", "史蒂夫·乔布斯", "生产力", "简化", "决策"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 authority: "传记《Steve Jobs》与学术期刊《JPSP》决策疲劳研究"
+updatedDate: "2026-06-25"
 ---
 
 史蒂夫·乔布斯，苹果公司的联合创始人，推出了麦金塔、iPhone、iPad等革命性IT设备，永久改变了人类的数字生活方式和文化。您知道他不仅在发布会舞台上，甚至在日常生活中也始终穿着同一件黑色高领毛衣、牛仔裤和运动鞋吗？ 👕

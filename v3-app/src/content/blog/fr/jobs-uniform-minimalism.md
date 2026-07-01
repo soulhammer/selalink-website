@@ -1,12 +1,13 @@
 ---
 title: "Le génie qui portait les mêmes vêtements tous les jours ? La routine de minimalisme décisionnel de Steve Jobs"
 description: "Steve Jobs, le cofondateur d'Apple qui portait un col roulé noir et un jean. Découvrez sa routine contre la fatigue décisionnelle et une pratique en 3 étapes."
-pubDate: "2026-07-01"
+pubDate: "2026-06-25"
 category: "BuildSelf"
 tags: ["Habitudes Historiques", "Steve Jobs", "Productivité", "Simplification", "Prise de Décision"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
 authority: "Biographie de Steve Jobs par Walter Isaacson & revue JPSP"
+updatedDate: "2026-06-25"
 ---
 
 Steve Jobs, le génie entrepreneurial qui a cofondé Apple et lancé le Macintosh, l'iPhone, l'iPad et d'autres appareils révolutionnaires. Saviez-vous qu'il portait exactement le même col roulé noir, le même jean et les mêmes baskets tous les jours, et pas seulement sur scène ? 👕

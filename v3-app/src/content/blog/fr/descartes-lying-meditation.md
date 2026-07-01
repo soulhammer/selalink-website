@@ -1,12 +1,13 @@
 ---
 title: "Le génie qui restait au lit jusqu'à midi ? La routine de méditation allongée de René Descartes"
 description: "René Descartes, le père de la philosophie moderne qui restait au lit pour penser. Découvrez sa routine et une méditation de 5 minutes dans son lit."
-pubDate: "2026-07-01"
+pubDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["Habitudes Historiques", "René Descartes", "Routine Matinale", "Méditation", "Concentration"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 authority: "Biographie de René Descartes 'La Vie de Monsieur Descartes' & revue Psychophysiology"
+updatedDate: "2026-01-25"
 ---
 
 René Descartes, le père de la philosophie moderne, qui a établi le point de départ de la philosophie moderne avec la proposition "Je pense, donc je suis" et a fondé la géométrie analytique. Saviez-vous que ce géant de l'intellect s'imposait chaque matin une routine aussi confortable qu'originale ? 🛏️

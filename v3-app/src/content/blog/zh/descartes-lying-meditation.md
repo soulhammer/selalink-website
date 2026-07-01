@@ -1,12 +1,13 @@
 ---
 title: "躺到中午都不起床的天才？勒内·笛卡尔的床上冥想思索惯例"
 description: "勒内·笛卡尔，早晨醒来后躺在床上沉思和冥想的现代哲学之父。介绍他的床上惯例以及现代人的5分钟床上冥想实践指南。"
-pubDate: "2026-07-01"
+pubDate: "2026-01-25"
 category: "BuildSelf"
 tags: ["名人习惯", "勒内·笛卡尔", "晨间惯例", "冥想", "专注力"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 authority: "传记《La Vie de Monsieur Descartes》与学术期刊《Psychophysiology》"
+updatedDate: "2026-01-25"
 ---
 
 勒内·笛卡尔，通过“我思故我在”这一命题确立了现代哲学起点，并创立了解析几何的现代哲学之父。您知道这位智慧巨匠每天早晨都保持着一个非常舒适却又独特的惯例吗？ 🛏️
