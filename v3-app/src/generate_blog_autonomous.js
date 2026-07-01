@@ -208,6 +208,8 @@ function startAutonomousWorkflow() {
     try {
       console.log(`🤖 [AI 파이프라인] 반려동물 컴파일러 기동: node src/compile_pet_blogs.js --slug=${slugArg}`);
       execSync(`node src/compile_pet_blogs.js --slug=${slugArg}`, { cwd: path.join(__dirname, '..'), stdio: 'inherit' });
+      runSelfHealingValidation();
+      return;
     } catch (err) {
       console.error(`❌ [ERR] 반려동물 컴파일 중 오류 발생: ${err.message}`);
       process.exit(1);

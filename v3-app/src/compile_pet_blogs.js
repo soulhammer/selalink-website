@@ -1297,26 +1297,34 @@ ${whyDesc}
 const args = process.argv.slice(2);
 const slugArg = args.find(a => a.startsWith('--slug='))?.split('=')[1];
 
-if (!slugArg || !petTranslationData[slugArg]) {
-  console.error(`❌ [ERR] 유효한 --slug 인자가 필요합니다. (대상: maltese-care, koshort-care, golden-retriever-care)`);
-  process.exit(1);
+const buildPetBlog = (slug) => {
+  console.log(`🚀 [Pet 컴파일러] '${slug}' 다국어 블로그 생성 시작...`);
+  languages.forEach(lang => {
+    const langDir = path.join(blogRoot, lang);
+    if (!fs.existsSync(langDir)) {
+      fs.mkdirSync(langDir, { recursive: true });
+    }
+
+    let markdownContent = generateMarkdown(slug, lang);
+    if (markdownContent) {
+      markdownContent = markdownContent.replace(/\*\*/g, '');
+      const destPath = path.join(langDir, `${slug}.md`);
+      fs.writeFileSync(destPath, markdownContent, 'utf-8');
+      console.log(`✅ [생성 완료] ${lang.toUpperCase()} -> ${destPath}`);
+    }
+  });
+  console.log(`🎉 [컴파일 완료] '${slug}' 9개 국어 마크다운 빌드 성공.`);
+};
+
+if (slugArg) {
+  if (!petTranslationData[slugArg]) {
+    console.error(`❌ [ERR] 유효하지 않은 --slug 인자입니다: ${slugArg}`);
+    process.exit(1);
+  }
+  buildPetBlog(slugArg);
+} else {
+  console.log(`🚀 [Pet 컴파일러] 인자가 없어 등록된 모든 반려동물 블로그를 일괄 생성합니다.`);
+  Object.keys(petTranslationData).forEach(slug => {
+    buildPetBlog(slug);
+  });
 }
-
-console.log(`🚀 [Pet 컴파일러] '${slugArg}' 다국어 블로그 생성 시작...`);
-
-languages.forEach(lang => {
-  const langDir = path.join(blogRoot, lang);
-  if (!fs.existsSync(langDir)) {
-    fs.mkdirSync(langDir, { recursive: true });
-  }
-
-  let markdownContent = generateMarkdown(slugArg, lang);
-  if (markdownContent) {
-    markdownContent = markdownContent.replace(/\*\*/g, '');
-    const destPath = path.join(langDir, `${slugArg}.md`);
-    fs.writeFileSync(destPath, markdownContent, 'utf-8');
-    console.log(`✅ [생성 완료] ${lang.toUpperCase()} -> ${destPath}`);
-  }
-});
-
-console.log(`🎉 [컴파일 완료] '${slugArg}' 9개 국어 마크다운 빌드 성공.`);

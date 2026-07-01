@@ -111,24 +111,30 @@ function run() {
     process.exit(1);
   }
 
+  const petSlugs = ['maltese-care', 'koshort-care', 'golden-retriever-care'];
   const allKoFiles = fs.readdirSync(koDir).filter(f => f.endsWith('.md'));
   
   const habitRetrofitTargets = [];
   const storageRetrofitTargets = [];
+  const petRetrofitTargets = [];
 
   allKoFiles.forEach(file => {
     const slug = file.replace('.md', '');
     const isStorage = slug.startsWith('how-to-store-');
+    const isPet = petSlugs.includes(slug);
     const filePath = path.join(koDir, file);
     const content = fs.readFileSync(filePath, 'utf-8');
 
     // 결함 조건 판별: (1) 크롭 이미지 누락 또는 (2) FAQ 아코디언 UI 누락
-    const hasCroppedImage = content.includes('_detail.png');
-    const hasFaqAccordion = content.includes('자주 묻는 질문') || content.includes('FAQ');
+    // 반려동물 블로그는 크롭 이미지를 사용하지 않으므로 hasCroppedImage 검사를 통과한 것으로 처리
+    const hasCroppedImage = isPet ? true : content.includes('_detail.png');
+    const hasFaqAccordion = content.includes('자주 묻는 질문') || content.includes('FAQ') || content.includes('details class="group"');
 
     if (!hasCroppedImage || !hasFaqAccordion) {
       if (isStorage) {
         storageRetrofitTargets.push(slug);
+      } else if (isPet) {
+        petRetrofitTargets.push(slug);
       } else {
         habitRetrofitTargets.push(slug);
       }
@@ -138,6 +144,7 @@ function run() {
   console.log(`📊 [스캔 통계] 총 ${allKoFiles.length}개 포스트 검사 완료.`);
   console.log(`   - 갭(결함) 감지된 위인 습관 블로그 (${habitRetrofitTargets.length}개):`, habitRetrofitTargets);
   console.log(`   - 갭(결함) 감지된 식재료 보관 블로그 (${storageRetrofitTargets.length}개):`, storageRetrofitTargets);
+  console.log(`   - 갭(결함) 감지된 반려동물 케어 블로그 (${petRetrofitTargets.length}개):`, petRetrofitTargets);
 
   // 3. 동적으로 필터링된 위인 습관 대상 크롭 실행
   console.log('\n3️⃣ [미디어 개조] 결함 감지된 위인 습관 이미지 크롭 실행...');
@@ -165,6 +172,9 @@ function run() {
     
     console.log('   - 식재료 보관법 다국어 빌드 기동...');
     execSync('node src/compile_multilingual_blogs.js', { cwd: path.join(__dirname, '..') });
+
+    console.log('   - 반려동물 케어 다국어 빌드 기동...');
+    execSync('node src/compile_pet_blogs.js', { cwd: path.join(__dirname, '..') });
     
     console.log('\n\x1b[32m✨ [성공] 개조 파이프라인의 데이터 동적 합성 공정이 완료되었습니다!\x1b[0m');
   } catch (err) {
