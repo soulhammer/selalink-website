@@ -302,10 +302,23 @@ const loadMoreText = loadMoreTranslations[normalizedLang] || loadMoreTranslation
         }
       }
 
+      // 1. 정렬을 먼저 수행하여 DOM에 재배치
+      const sortedCards = [...cards].sort((a, b) => {
+        const dateA = parseInt(a.getAttribute('data-date') || '0', 10);
+        const dateB = parseInt(b.getAttribute('data-date') || '0', 10);
+
+        return sortBy === 'latest' ? dateB - dateA : dateA - dateB;
+      });
+
+      sortedCards.forEach(card => {
+        postsContainer?.appendChild(card);
+      });
+
+      // 2. 필터링 및 페이징 한도 적용
       let matchCount = 0;
       let visibleCount = 0;
 
-      cards.forEach(card => {
+      sortedCards.forEach(card => {
         const title = card.getAttribute('data-title') || '';
         const desc = card.getAttribute('data-desc') || '';
         const ingName = card.getAttribute('data-ing-name') || '';
@@ -347,19 +360,6 @@ const loadMoreText = loadMoreTranslations[normalizedLang] || loadMoreTranslation
         } else {
           card.classList.add('blog-card-hidden');
         }
-      });
-
-      // 3. 정렬
-      const sortedCards = [...cards].sort((a, b) => {
-        const dateA = parseInt(a.getAttribute('data-date') || '0', 10);
-        const dateB = parseInt(b.getAttribute('data-date') || '0', 10);
-
-        return sortBy === 'latest' ? dateB - dateA : dateA - dateB;
-      });
-
-      // DOM에 정렬된 순서대로 재배치
-      sortedCards.forEach(card => {
-        postsContainer?.appendChild(card);
       });
 
       // 4. 결과 개수 피드백 업데이트
