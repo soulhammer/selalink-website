@@ -1,0 +1,1010 @@
+{
+  "beagle-care": {
+    "title": "Beagle Energy and Anxiety Care: A 3-Step Routine for Separation Anxiety and Ear Health",
+    "description": "Beagles are highly curious hunting dogs with massive energy. Learn a 3-step routine to fulfill their sniff drive, reduce anxiety, and prevent ear infections.",
+    "authority": "Official AKC Breed Manual for Beagles & IAABC Nosework Protocols",
+    "profile": {
+      "breed": "Beagle",
+      "lifespan": "12 ~ 15 years",
+      "sleep_pattern": "10 ~ 12 hours (synchronized with outdoors)",
+      "temperament": "Friendly, Curious, Stubborn, Affectionate"
+    },
+    "intro": "With their cute floppy ears and happy white-tipped tail, Beagles are historic scent hounds. While friendly, they have high curiosity and a powerful drive to track scents. Without proper outlet, they can develop separation anxiety, leading to howling and destructive behavior. Additionally, their long floppy ears trap moisture, making them prone to yeast infections. Today, PetSelf decodes Beagle tracking and anxiety signals, and introduces a 3-step care routine.",
+    "whyTitle": "Beagle Body Language: Tracking Instinct and Meaning of Howling",
+    "whyDesc": "When focused on scent, Beagles show **'tracking'** behavior, ignoring surrounding sounds. This is their natural instinct. Conversely, **'howling'** when alone is a typical sign of separation anxiety and distress. Understanding these two signals is key to keeping Beagles healthy and calm.",
+    "body_signals": [
+      {
+        "name": "Tracking",
+        "meaning": "A normal state of excitement as they explore the world and burn hunting energy through scents.",
+        "response": "Do not yank their leash; let them smell and fully explore the scent to satisfy their brain."
+      },
+      {
+        "name": "Howling",
+        "meaning": "An expression of anxiety and attention seeking caused by loneliness, boredom, or unused energy.",
+        "response": "Do not scold them. Address the root cause by providing indoor nosework puzzles and ensuring adequate exercise."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Indoor Treats Sniffing Hunt and Puzzle Game",
+        "text": "After breakfast, hide treats in paper cups or around the house to satisfy their search drive and tire them out mentally."
+      },
+      {
+        "name": "Afternoon: 40-Minute Active Outdoor Tracking Walk",
+        "text": "Ensure at least a 40-minute walk daily. Let them sniff grass, trees, and ground freely, which is essential for reducing their stress levels."
+      },
+      {
+        "name": "Evening: Ear Aeration and Bi-weekly Cleaning",
+        "text": "Because their floppy ears block airflow, gently flip their ears back for a short time to ventilate, and clean with an ear solution twice a week."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How can I prevent Beagle howling?",
+        "answer": "Howling is often caused by isolation anxiety and unmet energy needs. Increasing physical walks and indoor nosework to mentally exhaust them is the most effective prevention."
+      },
+      {
+        "question": "Why do Beagles' floppy ears easily get infected?",
+        "answer": "Floppy ears block air from entering the ear canal, creating a warm, damp environment ideal for yeast and bacteria to grow. Weekly checkups and aeration are crucial."
+      }
+    ],
+    "tags": [
+      "Beagle",
+      "Separation Anxiety",
+      "Howling",
+      "Ear Health"
+    ]
+  },
+  "bichon-care": {
+    "title": "Bichon Frise Curly Coat Care: A 3-Step Routine for Detangling and Bichon Blitz",
+    "description": "Famous for their white powder-puff look, Bichons are highly friendly. Discover a 3-step routine to manage their dense curly coat and safely handle sudden bursts of energy (FRAPs).",
+    "authority": "Bichon Frise Club of America Standards & AVMA Health Guidelines",
+    "profile": {
+      "breed": "Bichon Frise",
+      "lifespan": "12 ~ 15 years",
+      "sleep_pattern": "12 ~ 14 hours (sleeping at owner's feet)",
+      "temperament": "Cheerful, Playful, Affectionate, Outgoing"
+    },
+    "intro": "Bichon Frises are known for their white, cotton-ball appearance and cheerful nature. However, their thin, curly coat easily tangles from the root, causing discomfort and dermatitis. In addition, sudden bursts of high-speed running indoors (often called Bichon Blitz or FRAPs) can strain their knees and spine. Today, PetSelf decodes Bichon body language and shares a 3-step routine to keep their coat healthy and joints safe.",
+    "whyTitle": "Bichon Frise Body Language: Bichon Blitz and Signals for Attention",
+    "whyDesc": "When excited, Bichons display **'Bichon Blitz'** (running frantically indoors) to burn energy. This is a natural instinct. Additionally, tapping their owner's arm with a paw (**'paw tap'**) is an affectionate signal asking for contact or playtime.",
+    "body_signals": [
+      {
+        "name": "Bichon Blitz",
+        "meaning": "A natural behavior to quickly burn off residual energy through intense physical activity.",
+        "response": "Clear their path of obstacles, ensure floor mats are in place, and let them stop naturally."
+      },
+      {
+        "name": "Paw Tap",
+        "meaning": "A peaceful and friendly way of asking for attention and engagement, typical of Bichons.",
+        "response": "Make eye contact, pet them gently, or do a quick obedience session (sit/paw) for mental stimulation."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Light Toy Fetching and Tug-of-war",
+        "text": "To prevent high-speed collisions with furniture, do a gentle tug-of-war in the morning to burn energy and ease them into a calm state."
+      },
+      {
+        "name": "Afternoon: 10-Minute Brushing with Slicker and Steel Comb",
+        "text": "Spritz brushing spray first, then brush the belly and inner legs with a slicker. Follow with a steel comb to ensure no painful knots remain near the skin."
+      },
+      {
+        "name": "Evening: Eye Area Brushing and Tear Stain Drying",
+        "text": "Gently comb the fur around their eyes with a fine-tooth facial comb, and blot excess tears with a cotton pad to keep the eye area dry."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How should I calm a Bichon during a Bichon Blitz?",
+        "answer": "Bichon Blitz is a normal emotional release. Do not grab or yell, which they may take as play. Instead, ensure mats are secure to prevent slipping and wait for them to stop."
+      },
+      {
+        "question": "Why is fur matting dangerous for Bichons?",
+        "answer": "Bichon fur is thin and curly. Skipping brushing causes severe matting. Matts constrict the skin, block blood flow, and cause contact dermatitis."
+      }
+    ],
+    "tags": [
+      "Bichon Frise",
+      "Bichon Blitz",
+      "Fur Matting",
+      "Dermatitis"
+    ]
+  },
+  "bshorthair-care": {
+    "title": "British Shorthair Weight Care: A 3-Step Routine for HCM and Obesity Prevention",
+    "description": "British Shorthairs are loved for their chunky build. Discover a 3-step diet and lifestyle routine to prevent obesity, which stresses their bones and genetic HCM risk.",
+    "authority": "GCCF Breed Standards for British Shorthairs & AAFP Feline Obesity Guidelines",
+    "profile": {
+      "breed": "British Shorthair",
+      "lifespan": "12 ~ 15 years",
+      "sleep_pattern": "14 ~ 16 hours (prefers cool, flat floor)",
+      "temperament": "Calm, Independent, Loyal, Patient"
+    },
+    "intro": "With their round faces and muscular build, British Shorthairs are the gentle giants of the cat world. However, their sturdy frame means obesity places critical stress on their joints. Furthermore, they are genetically prone to **Hypertrophic Cardiomyopathy (HCM)**, a heart disease exacerbated by excess weight. Today, PetSelf decodes British Shorthair body language and shares a 3-step diet and activity routine.",
+    "whyTitle": "British Shorthair Body Language: Distant Staring and Tail Flicking",
+    "whyDesc": "British Shorthairs dislike restrictive holding and show trust through **'soft staring'** from a distance. This means they trust you but want their space. Conversely, when annoyed, they show **'tail swishing'** (hitting the floor with their tail tip). Holding them during this time will trigger stress.",
+    "body_signals": [
+      {
+        "name": "Soft Staring",
+        "meaning": "A mature and independent expression of love, indicating they feel happy and safe just sharing the space.",
+        "response": "Blink slowly to return the affection. Do not approach or pick them up; let them enjoy the quiet presence."
+      },
+      {
+        "name": "Tail Swishing",
+        "meaning": "A warning sign indicating that they are annoyed or touched too roughly, asking you to stop.",
+        "response": "Immediately stop petting and avoid further contact to let the cat relax on its own."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Strict Dietary Measurement using Kitchen Scales",
+        "text": "To prevent hypertrophic cardiomyopathy (HCM) caused by obesity, weigh their food on a digital scale to ensure exact portion control."
+      },
+      {
+        "name": "Afternoon: Undercoat Brushing using Feline Rubber Brush",
+        "text": "Although short-haired, they have dense fur. Brush for 5 minutes with a feline rubber brush to collect dead undercoat without skin irritation."
+      },
+      {
+        "name": "Evening: Respiration Rate Check for HCM and Low-intensity Play",
+        "text": "Count their sleeping respiration rate (should be under 30 breaths per minute) to monitor heart health, and play lightly with wool balls."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why is obesity more dangerous for British Shorthairs than other cats?",
+        "answer": "British Shorthairs have a heavy frame and are genetically prone to Hypertrophic Cardiomyopathy (HCM). Obesity forces the heart to work harder, increasing heart failure risk."
+      },
+      {
+        "question": "Why do British Shorthairs dislike being held or picked up?",
+        "answer": "They value their independence and feel insecure when their paws lose contact with the ground. Forced holding can harm your bond with them."
+      }
+    ],
+    "tags": [
+      "British Shorthair",
+      "HCM Prevention",
+      "Weight Control",
+      "Obesity"
+    ]
+  },
+  "chihuahua-care": {
+    "title": "The World's Smallest Warrior: Chihuahua's Molera Protection and Hypoglycemia 3-Step Care",
+    "description": "Chihuahuas, the smallest brave dogs. Discover tips to protect their open skull fontanelle (molera) and a 3-step daily routine to prevent hypoglycemia and shivering.",
+    "authority": "Official Chihuahua Club of America Breed Manual & AVMA Toy Breed Metabolic Care Guidelines",
+    "profile": {
+      "breed": "Chihuahua",
+      "lifespan": "12 ~ 20 years",
+      "sleep_pattern": "12 ~ 14 hours (burrowing under blankets)",
+      "temperament": "Courageous, Loyally Devoted, Alertly Defensive"
+    },
+    "intro": "Chihuahuas, originating from Mexico, are the smallest dogs in the world but boast a courageous, lion-like personality. Known for their large ears, big eyes, and proud steps, they are fiercely loyal to their owner. 🐕\n\nHowever, their tiny frames come with serious structural vulnerabilities. First is the Molera (open fontanelle), an opening in their skull bones. Pressure on their forehead translates directly to the brain, requiring special handling. Also, they have minimal body fat and high metabolic rates, making them susceptible to shivering and Hypoglycemia (low blood sugar) during long fasting periods.\n\nToday, PetSelf decodes Chihuahua body language and introduces a precise 3-step home care routine for molera protection and metabolic health.",
+    "whyTitle": "Chihuahua's Signals: Emotional Shivering and Defensive Growling",
+    "whyDesc": "Chihuahuas are highly sensitive and express strong alerts due to their tiny size. Key behaviors include 'shivering' and 'growling'. Shivering occurs not only due to cold but when experiencing intense emotions like excitement or fear; their brain signals muscles to contract. Growling while showing teeth is a warning born of fear, asking you to step back. Forcing physical contact during this time can trigger defensive biting. Always give them space.",
+    "body_signals": [
+      {
+        "name": "Shivering/Trembling",
+        "meaning": "Occurs due to cold weather, or as a physical response to intense emotions like excitement or fear.",
+        "response": "Wrap them in a warm blanket and hold them quietly in a noise-free room to calm their nerves."
+      },
+      {
+        "name": "Growling with Teeth Shown",
+        "meaning": "A strong warning derived from fear, asking you to stop physical contact and step back.",
+        "response": "Stop moving or touching immediately, back away, and let them calm down on their own."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Forehead Protection Check and Indoor Warmth Setup",
+        "text": "Do not apply pressure to their forehead (molera). Chihuahuas are sensitive to cold, so check that indoor temperature is kept warm around 24-26°C."
+      },
+      {
+        "name": "Afternoon: Short Nosework and Sound Desensitization Session",
+        "text": "Avoid forced dog socializations. Let them sniff/nosework, and practice 5-minute counter-conditioning (giving treats when doors/bells ring) to prevent warning barks."
+      },
+      {
+        "name": "Evening: Timely Meal Feeding for Hypoglycemia and Paw Care",
+        "text": "Their small size makes them prone to low blood sugar shocks. Keep to strict evening feeding times, and trim hair between paw pads to prevent slipping indoors."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does the Chihuahua's molera (open fontanelle) have to close? Is it dangerous if it doesn't?",
+        "answer": "About 80-90% of Chihuahuas live their entire lives with an open molera. While not a disease, it means their skull has an opening that doesn't fully protect the brain. Physical impacts to their forehead must be strictly avoided."
+      },
+      {
+        "question": "Does the Chihuahua's shivering always mean they are cold?",
+        "answer": "They lack undercoats and body fat, so they shiver easily in the cold. However, they also tremble when experiencing intense emotions like excitement or fear, as their hyper-sensitive nervous system triggers muscle contractions."
+      }
+    ],
+    "tags": [
+      "Chihuahua",
+      "Molera Protection",
+      "Hypoglycemia",
+      "Toy Breed Care"
+    ]
+  },
+  "corgi-care": {
+    "title": "Pembroke Welsh Corgi Care: A 3-Step Routine for Spine and Joint Health",
+    "description": "Welsh Corgis are famous for their cute backsides and short legs. Discover a 3-step daily routine to prevent spinal issues and patellar luxation caused by their long backs.",
+    "authority": "Official Guide of the Pembroke Welsh Corgi Club of America & AKC Health Guidelines",
+    "profile": {
+      "breed": "Welsh Corgi",
+      "lifespan": "12 ~ 15 years",
+      "sleep_pattern": "12 ~ 14 hours (prefers floor)",
+      "temperament": "Smart, Playful, Bold, Loyal"
+    },
+    "intro": "Welsh Corgis are loved for their short legs and fluffy backsides. As former herding dogs, they are smart, active, and bold. However, their long backs and short legs place heavy stress on their spine and joints. Obesity increases the risk of spinal disc issues, making daily care essential. Today, PetSelf explores Corgi body language and introduces a 3-step routine to protect their spine and joints.",
+    "whyTitle": "Corgi Body Language: Signals of Spine and Emotion",
+    "whyDesc": "Because Corgis have very short or docked tails, they use their entire body and hips to express emotions. Typical signals include **'wiggle butt'** when happy and **'splooting'** (stretching back legs out flat) when relaxed. These physical expressions are important indicators of joint comfort and temperature regulation. Owners can monitor these signs to evaluate their dog's stress and fatigue levels.",
+    "body_signals": [
+      {
+        "name": "Wiggle Butt",
+        "meaning": "A state of extreme happiness and positive excitement expressed by short-tailed Corgis.",
+        "response": "Greet them affectionately and calm them down to prevent them from jumping onto sofas in excitement."
+      },
+      {
+        "name": "Splooting",
+        "meaning": "A relaxation signal to cool down body temperature on a cold floor and ease joint tension.",
+        "response": "They are resting comfortably. Do not disturb them and ensure they have a peaceful environment."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Mat Security Check and 2-Minute Back Leg Stretch",
+        "text": "Since their long backs make them prone to spinal issues, secure all floor mats under sofas and do a gentle 2-minute thigh and joint stretch in the morning."
+      },
+      {
+        "name": "Afternoon: Flat Terrain Walk with Harness and Nosework",
+        "text": "Use a body harness instead of a collar to reduce spinal strain. Walk on flat ground to avoid slopes and stairs, allowing 30 minutes of outdoor nosework."
+      },
+      {
+        "name": "Evening: Undercoat Brushing and Spinal Relaxation Massage",
+        "text": "Brush their double coat to remove dead hair for skin health, and gently massage the muscles along their spine in circular motions to relieve fatigue."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why shouldn't Corgis jump off beds or sofas?",
+        "answer": "Because of their long backs and short legs, landing from high surfaces puts over three times the normal impact on their spine and knees, directly causing spinal disc issues. Installing pet stairs is essential."
+      },
+      {
+        "question": "How should I manage Welsh Corgi shedding?",
+        "answer": "Corgis have a heavy-shedding double coat. Brush daily with a slicker and undercoat rake to remove trapped dead fur, promote air circulation, and prevent skin infections."
+      }
+    ],
+    "tags": [
+      "Welsh Corgi",
+      "Patellar Care",
+      "Spinal Health",
+      "Double Coat"
+    ]
+  },
+  "golden-retriever-care": {
+    "title": "The Angelic Golden Retriever? A 3-Step Healthy Routine for Joint and Retrieving Play",
+    "description": "Friendly and intelligent Golden Retrievers. Discover tips to prevent genetically vulnerable hip dysplasia in large dogs and a 3-step daily routine for energy outlet.",
+    "authority": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
+    "profile": {
+      "breed": "Golden Retriever",
+      "lifespan": "10 ~ 12 years",
+      "sleep_pattern": "12 ~ 14 hours (synchronized with owner)",
+      "temperament": "Intelligent, Affectionate, Active"
+    },
+    "intro": "The Golden Retriever, beloved for its golden coat and gentle personality, is an intelligent and friendly companion. While known as 'angelic,' they possess high energy as former retrieving gundogs and require active daily stimulation. Preventing genetically vulnerable hip dysplasia and satisfying their instinct to retrieve are critical for their health and happiness. Today, PetSelf explores Golden Retriever signals and introduces a 3-step healthy routine for joints and play.",
+    "whyTitle": "Golden Retriever Body Language: Understanding Trust and Signals",
+    "whyDesc": "Golden Retrievers express emotions actively through facial expressions and gestures. A key calming and trust signal is 'soft eye contact.' Unlike tense staring, squinting gently while maintaining eye contact represents deep affection, trust, and psychological bonding. Responding with gentle verbal praise triggers oxytocin release, deepening emotional stability. On the contrary, a stiff body posture with a high-held tail indicates tension and requires caution.",
+    "body_signals": [
+      {
+        "name": "Soft Eye Contact",
+        "meaning": "A positive eye contact indicating complete trust, affection, and psychological bonding.",
+        "response": "Respond by blinking slowly and praising them in a calm, gentle voice."
+      },
+      {
+        "name": "Full Body Wagging",
+        "meaning": "An active expression of friendliness and joy, showing extreme comfort.",
+        "response": "Gently stroke their chest or shoulders, sharing and centering their joyful energy."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Retrieving Play to Satisfy Gun-Dog Instincts",
+        "text": "Since they love carrying things, play fetch with soft balls for 5-10 minutes in the house or yard before walks. This satisfies their natural instincts and releases morning energy."
+      },
+      {
+        "name": "Afternoon: 1-Hour Energetic Sniffing Walk",
+        "text": "As highly active large dogs, they require at least 1 hour of exercise daily. Allowing ample sniffing opportunities in safe grassy areas lowers stress and prevents destructive behavior inside."
+      },
+      {
+        "name": "Evening: Ear Cleaning and Large Dog Joint Massage",
+        "text": "Check and clean their floppy ears daily to prevent infections. To prevent hip dysplasia, gently massage their hindquarters and leg joints to relieve tension and promote circulation."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why does my Golden Retriever always carry sticks or shoes during walks?",
+        "answer": "This is a natural retrieving instinct from their history as gun-dogs bred to carry game gently. Instead of scolding them, let them carry a safe dog toy during walks to satisfy this instinct."
+      },
+      {
+        "question": "At what age should joint care start for a Golden Retriever?",
+        "answer": "As they are prone to hip dysplasia, you should start joint care (weight control, non-slip mats, low-impact exercise like swimming) around 3 months of age during active growth."
+      }
+    ],
+    "tags": [
+      "Golden Retriever",
+      "Hip Dysplasia",
+      "Retrieving",
+      "Large Dog Care"
+    ]
+  },
+  "husky-care": {
+    "title": "The Burning Energy of Sled Dogs: Siberian Husky Double Coat and Activity 3-Step Care",
+    "description": "Siberian Huskies, the majestic sled dogs built for cold. Learn tips to manage heat stress and a 3-step daily routine to satisfy their huge energy levels and prevent howling.",
+    "authority": "Official Siberian Husky Club of America Breed Guide & IAABC Working Dog Activity Protocols",
+    "profile": {
+      "breed": "Siberian Husky",
+      "lifespan": "12 ~ 15 years",
+      "sleep_pattern": "10 ~ 12 hours (cool floors preferred)",
+      "temperament": "Highly Energetic, Independent, Pack-oriented"
+    },
+    "intro": "Siberian Huskies are famous for their wolf-like looks, enchanting eyes, and history of pulling sleds in Siberian wilderness. Built with unmatched stamina and a pack-oriented mindset, they are active, independent companions. 🐕\n\nHowever, their polar heritage makes them vulnerable to hot, humid weather, putting them at high risk of heatstroke in summer. Also, because they were bred to run miles daily, failing to satisfy their energy demands leads to stress, which they express through howling or destructive house-chewing.\n\nToday, PetSelf decodes the unique vocalizations of Huskies communicating their boredom and outlines a 3-step home care guide for double coat maintenance and activity management.",
+    "whyTitle": "Husky Body Language: Frustrated Howling and Pawing Interaction",
+    "whyDesc": "Siberian Huskies retain strong pack habits and use vocalizations and actions to express themselves. Key communication signals include 'howling' and 'paw offering'. A long, deep howl often communicates boredom or a demand for exercise rather than loneliness. Staring into your eyes and placing their heavy paw on your arm is a direct request for play or walking. Engage them with obedience drills or redirect their energy to chew toys to keep them occupied.",
+    "body_signals": [
+      {
+        "name": "Howling/Vocalizing",
+        "meaning": "An expression of extreme boredom and dissatisfaction from lack of exercise, demanding communication.",
+        "response": "Take them out for an active sniff walk or set up a challenging nosework mat indoors."
+      },
+      {
+        "name": "Paw Offering with Eye Contact",
+        "meaning": "An assertive request for attention, play, or walking, treating you as a pack peer.",
+        "response": "Do not give in to every demand. Give a command (sit, etc.) first, then reward to maintain order."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Y-harness Fitting and Pulling Force Check",
+        "text": "Huskies have strong instincts to pull. Fit a Y-shaped harness to prevent tracheal pressure, and check their synchronized pace with you."
+      },
+      {
+        "name": "Afternoon: AC Cooling Mats and Intensive Undercoat Slicker Brushing",
+        "text": "Sensitive to heat, keep indoors cool. Use a slicker brush and coat king undercoat rake to comb their dense polar double coat deeply, helping heat escape."
+      },
+      {
+        "name": "Evening: 1-hour Active Walk Check and Long-lasting Wood Chew",
+        "text": "Ensure at least 1 hour of active daily walking. To prevent frustrating nighttime howling, provide a safe coffeewood chew stick to channel their energy."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How can I stop my Husky from destroying furniture and going restless?",
+        "answer": "Huskies are working sled dogs with immense stamina. Mix jogging or hiking into their walks. Indoors, use brain puzzle toys and hard wood/antler chews to tire out their jaw muscles."
+      },
+      {
+        "question": "Will shaving my Husky's double coat make them feel cooler in the summer?",
+        "answer": "Absolutely not. A Husky's double coat acts as an insulator, blocking outside heat and UV rays. Shaving it destroys their thermal regulation, dramatically increasing the risk of heatstroke and sunburn. Slicker combing to remove dead undercoat is the only correct method."
+      }
+    ],
+    "tags": [
+      "Siberian Husky",
+      "Double Coat Brushing",
+      "Howling Prevention",
+      "Large Dog Walk"
+    ]
+  },
+  "koshort-care": {
+    "title": "An Untamed Instinct? A 3-Step Routine for Korean Shorthair Territory and Hydration",
+    "description": "Korean Shorthair, with strong hunting instincts. Learn proper hydration methods to prevent feline cystitis and a 3-step daily routine for territorial comfort.",
+    "authority": "Cornell Feline Health Center Behavioral Guide & NIAS Companion Animal Care Manual",
+    "profile": {
+      "breed": "Korean Shorthair",
+      "lifespan": "13 ~ 15 years",
+      "sleep_pattern": "15 ~ 18 hours (vertical & nocturnal)",
+      "temperament": "Independent, Strong Hunting Instinct, Curious"
+    },
+    "intro": "The Korean Shorthair, a native cat, boasts a sturdy build and strong vitality due to preserved wild instincts. While friendly, they can be cautious around strangers and highly focused during hunting play. 🐈\n\nHowever, these traits make them vulnerable to two indoor stressors: **territorial anxiety** from space limitations, and **Feline Lower Urinary Tract Disease (FLUTD)** or urinary stones caused by genetics and low hydration. Managing these conditions requires careful lifestyle management.\n\nToday, PetSelf explores Korean Shorthair body language and shares a 3-step daily routine to ensure hydration and territorial comfort.",
+    "whyTitle": "Feline Body Language: The Ultimate Expression of Trust",
+    "whyDesc": "One of the strongest expressions of trust a cat sends to its owner is **'vertical tail raising'** and **'purring'**. Approaching with a tail raised straight up is a friendly signal and a request to communicate. Also, purring stimulates endorphins in their brain, calming them down. Note that purring can also be a self-healing signal when they are in pain. If a cat hides in a dark place and purrs with a depressed expression, closely monitor their health.",
+    "body_signals": [
+      {
+        "name": "Tail Up",
+        "meaning": "An expression of strong friendliness, positive communication, and joy toward the owner.",
+        "response": "Respond with soft eye contact or a gentle chin rub to enhance the positive bond."
+      },
+      {
+        "name": "Purring",
+        "meaning": "Usually made when happy, but can also be a self-healing signal to relieve pain or anxiety.",
+        "response": "If they purr while hiding in dark corners, check closely to ensure they are not injured or sick."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Vertical Space Inspection and Window View Setup",
+        "text": "With morning ventilation, raise the blinds near window-side cat towers. Ensuring vertical space and allowing them to watch the outside view (Cat TV) provides mental stimulation and dramatically reduces stress caused by indoor containment."
+      },
+      {
+        "name": "Afternoon: 15-Minute Mock Hunting Play Routine",
+        "text": "Perform mock hunting play using wand toys for 15 minutes once a day. Since cats are natural predators, chasing toys and experiencing the 'joy of the catch' prevents frustration and increases physical activity."
+      },
+      {
+        "name": "Evening: Hydration Spot Check and Relaxation Brushing",
+        "text": "Replace all water bowls with fresh water and maintain at least three drinking stations around the house to encourage hydration. Before bed, gently brush scent gland areas like the cheeks and chin to induce emotional relaxation."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why do cats always climb to high and narrow spaces?",
+        "answer": "Cats instinctively feel safe and dominant when surveying their territory from high places. A lack of vertical space, like cat towers, leads to territorial stress."
+      },
+      {
+        "question": "What is the best way to prevent feline cystitis?",
+        "answer": "The key is increasing hydration. Place multiple water bowls away from food, and utilize fountain drinking systems to appeal to their preference for running water."
+      }
+    ],
+    "tags": [
+      "Korean Shorthair",
+      "FLUTD",
+      "Hydration Care",
+      "Cat Care"
+    ]
+  },
+  "maine-coon-care": {
+    "title": "The Gentle Giant Maine Coon: Heart Health and Magnificent Double Coat 3-Step Care",
+    "description": "Maine Coons, the gentle giant cats with lion-like looks. Discover safety measures to manage joint pressure and a 3-step routine for heart health and double coat care.",
+    "authority": "Official Maine Coon Breeders & Fanciers Association (MCBFA) Guide & AAFP Large Breed Management Protocols",
+    "profile": {
+      "breed": "Maine Coon",
+      "lifespan": "12 ~ 15 years",
+      "sleep_pattern": "14 ~ 16 hours (large open space preferred)",
+      "temperament": "Gentle, Highly Curious, Water-loving"
+    },
+    "intro": "Maine Coons, native to North America, are the 'Gentle Giants' of the feline world. Known for their lion-like ruffs, tufted ears, and majestic muzzles, they possess gentle, loving temperaments and a rare fondness for water. 🐈\n\nHowever, since adult males often reach weights of 8 to 12 kg, they face immense gravity load on their joints. Furthermore, they are genetically prone to Hypertrophic Cardiomyopathy (HCM), a serious heart muscle condition. Tägliche checks on breathing patterns and joint impact cushions are crucial elements of their home care.\n\nToday, PetSelf decodes Maine Coon body language and introduces a safe 3-step daily routine to protect their hearts and maintain their magnificent double coats.",
+    "whyTitle": "Maine Coon Body Language: Friendly Trilling and Alert Puffed Tails",
+    "whyDesc": "Maine Coons are highly social and have a strong urge to communicate. Key signals include 'trilling' and 'puffed tails'. A soft 'chirp' or 'trill' when approaching is a friendly greeting and a call for interaction. Conversely, when startled by loud noises or unfamiliar objects, their thick tail fully puffs up like a bottle brush. When you see a puffed tail, remove the stressor and allow them to calm down in a quiet room.",
+    "body_signals": [
+      {
+        "name": "Trilling",
+        "meaning": "A friendly vocalization showing trust and affection, asking for conversation or play.",
+        "response": "Reply in a gentle, warm tone or offer light physical affection to return the love."
+      },
+      {
+        "name": "Puffed Tail",
+        "meaning": "An involuntary fear response to sudden visual or auditory stressors, indicating high alertness.",
+        "response": "Identify and remove the stressor. Do not force physical contact; allow them to calm down alone."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Strict Food Measurement for Weight Control and HCM Prevention",
+        "text": "Maine Coon HCM is worsened by obesity. Weigh their food daily on a scale to ensure exact calorie control, and check water supply."
+      },
+      {
+        "name": "Afternoon: Undercoat Grooming with Steel Comb and Slicker Brush",
+        "text": "The lion-like ruff and armpit fur mat easily, causing dermatitis. Comb deeply with a steel comb to loosen the undercoat and brush to prevent dandruff."
+      },
+      {
+        "name": "Evening: Impact Cushioning Mat Check and Heart Rate Monitoring",
+        "text": "Their massive weight increases landing impact. Check cushion mats under scratchers. Monitor sleeping respiration rate (should be under 30 breaths per minute)."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How should I manage the Maine Coon's high risk of HCM?",
+        "answer": "Regular veterinary echocardiograms are essential. At home, prevent obesity through strict portion control. If their sleeping respiration rate exceeds 30 breaths per minute, seek medical attention immediately."
+      },
+      {
+        "question": "What happens if I force groom a Maine Coon's matted fur?",
+        "answer": "Due to their massive size and strength, if they associate grooming with pain and grow defensive, handling them can become extremely difficult. Spritz with detangling sprays first and comb in tiny sessions."
+      }
+    ],
+    "tags": [
+      "Maine Coon",
+      "Giant Cat",
+      "HCM Prevention",
+      "Double Coat"
+    ]
+  },
+  "maltese-care": {
+    "title": "The Feisty Maltese? A 3-Step Protective Routine for Joint and Eye Care",
+    "description": "Maltese, the most beloved dog. Discover tips to prevent genetically vulnerable patellar luxation and a 3-step daily routine for tear stain management.",
+    "authority": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
+    "profile": {
+      "breed": "Maltese",
+      "lifespan": "12 ~ 15 years",
+      "sleep_pattern": "12 ~ 14 hours (attached to owner)",
+      "temperament": "Lively, Affectionate, Spunky"
+    },
+    "intro": "Maltese, with their white, silky coat and three black dots (eyes and nose), are beloved companion dogs worldwide. While lively and affectionate, they express their boundaries clearly, earning them a spunky reputation. 🐕\n\nHowever, Maltese owners often worry about two genetic issues: **Patellar Luxation** (dislocated kneecaps) and **Tear Staining**, which causes red streaks and potential skin infections. Daily lifestyle adjustments are crucial for managing these conditions.\n\nToday, PetSelf explores Maltese body language and introduces a safe, 3-step daily care routine to protect their joints and eyes.",
+    "whyTitle": "Maltese Body Language: Signals of Stress and Comfort",
+    "whyDesc": "As dogs with high dependency on their owners, Maltese silently show their psychological state through body gestures. Typical calming signals include **'nose licking'** and **'yawning'**. When facing a tense or unfamiliar environment, licking their nose or yawning is not due to sleepiness; it is a peaceful message to calm themselves down and ask others not to threaten them. If owners continue excessive contact during this time, their stress increases. It is best to take a step back and give them space.",
+    "body_signals": [
+      {
+        "name": "Yawning",
+        "meaning": "Not due to sleepiness; it is a 'please calm down' signal to soothe themselves and others.",
+        "response": "If they yawn during training or grooming, stop immediately and provide a quiet space."
+      },
+      {
+        "name": "Nose Licking",
+        "meaning": "An expression of self-soothing when they feel awkward, tense, or anxious in their current situation.",
+        "response": "If shown when held or approached by strangers, stop the physical contact and give them space."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Slip Prevention Check and Joint Stretching",
+        "text": "Check that pet mats are secure. When your Maltese stretches in the morning, gently massage their hind leg joints to loosen stiff muscles. Ensure paw pad fur is trimmed."
+      },
+      {
+        "name": "Afternoon: 1:1 Eye Hygiene and Combing Routine",
+        "text": "Once a day, comb eye areas with fine-tooth combs and cleaning solutions. Wet fur leads to red stains and infections, so wipe moisture with cotton pads to keep dry."
+      },
+      {
+        "name": "Evening: Joint Supplement and Paw Desensitization",
+        "text": "Administer joint supplements. Touch their paws gently and immediately reward them with treats. This desensitization prevents aggressive reactions during claw clipping or physical checks."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why do Maltese hate having their paws touched?",
+        "answer": "Maltese are toy dogs with highly developed sensory nerves concentrated in their paws, causing them to instinctively avoid touch. Desensitization training, gently touching the paws and rewarding them, is recommended."
+      },
+      {
+        "question": "Can safety stairs completely prevent patellar luxation?",
+        "answer": "While stairs reduce impact, slippery floors and overgrown paw fur also play major roles. You must keep the paw pads trimmed and lay down non-slip mats in the house for optimal results."
+      }
+    ],
+    "tags": [
+      "Maltese",
+      "Patellar Luxation",
+      "Tear Staining",
+      "Dog Care"
+    ]
+  },
+  "persian-care": {
+    "title": "Persian Cat Longhair Care: A 3-Step Routine for Coat and Tear Stain Management",
+    "description": "Persian cats are known for their elegant coat. Learn a 3-step routine to prevent facial skin infections caused by tears and keep their double coat tangle-free.",
+    "authority": "CFA Breed Guidelines for Persians & AAFP Veterinary Standards",
+    "profile": {
+      "breed": "Persian Cat",
+      "lifespan": "12 ~ 17 years",
+      "sleep_pattern": "15 ~ 18 hours (prefers quiet, airy spots)",
+      "temperament": "Gentle, Quiet, Independent, Sensitive"
+    },
+    "intro": "With their thick coat and flat face, Persian cats are known for their gentle and calm nature. However, their flat facial structure causes excessive tearing, which can lead to bacterial infections in their skin folds. Their dense longhair coat easily tangles, causing pain and stopping air circulation. Today, PetSelf decodes Persian cat eye and coat stress signals and provides a 3-step homecare routine.",
+    "whyTitle": "Persian Cat Body Language: Silent Signs from Eyes and Ears",
+    "whyDesc": "Because Persians express emotions quietly, detecting stress can be difficult. While they show affection through **'half-closed eyes'** (blinking slowly), **'airplane ears'** (ears turned sideways) signal discomfort or annoyance. This is commonly observed when brushing is done too quickly or their face is touched roughly.",
+    "body_signals": [
+      {
+        "name": "Half-Closed Eyes",
+        "meaning": "A peaceful message indicating deep trust in the owner and a highly satisfied, comfortable state.",
+        "response": "Respond by blinking slowly at them in return and talking to them in a calm, soothing voice."
+      },
+      {
+        "name": "Airplane Ears",
+        "meaning": "An expression of discomfort caused by fur pulling during brushing or tension from surrounding noise.",
+        "response": "Immediately stop brushing or touching and give the cat space to calm down in a quiet spot."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Facial Fold Cleaning and Tear Stain Management",
+        "text": "In the morning, gently clean their facial folds and under-eye area with warm saline or a veterinary tear wipe to prevent red yeast dermatitis."
+      },
+      {
+        "name": "Afternoon: Dual Brushing with Slicker and Steel Comb",
+        "text": "Focus on high-friction areas like armpits and belly. Use a slicker brush first to detangle undercoat knots, then use a steel comb to align and check skin aeration."
+      },
+      {
+        "name": "Evening: Hairball Remedy and Water Fountain Check",
+        "text": "Give hairball paste to prevent intestinal blockage from swallowed hair, and inspect their water fountain to encourage proper hydration."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why is skipping grooming for even a few days harmful to Persians?",
+        "answer": "Persian fur is thin, long, and dense. Skipping brushing for 2-3 days causes severe matting. Matts pull on the skin, causing pain and requiring shaving."
+      },
+      {
+        "question": "Why is fold management crucial for brachycephalic cats?",
+        "answer": "Flatted-faced cats have deep folds around the nose. Trapped tears block oxygen, leading to red yeast and bacterial infections, causing bad odor and skin irritation."
+      }
+    ],
+    "tags": [
+      "Persian Cat",
+      "Longhair Grooming",
+      "Brachycephalic",
+      "Tear Stains"
+    ]
+  },
+  "pomeranian-care": {
+    "title": "Protecting Pomeranian Joints and Airway: A 3-Step Daily Routine",
+    "description": "Pomeranians are highly prone to patellar luxation and tracheal collapse. Discover tips to prevent joint injuries and relieve breathing issues using a 3-step routine.",
+    "authority": "Official American Pomeranian Club Breed Guide & AVMA Veterinary Manual",
+    "profile": {
+      "breed": "Pomeranian",
+      "lifespan": "12 ~ 16 years",
+      "sleep_pattern": "12 ~ 14 hours (prefers sleeping near owner's pillow)",
+      "temperament": "Outgoing, Intelligent, Lively"
+    },
+    "intro": "Pomeranians are highly popular toy dogs, beloved for their fluffy double coat and confident, active gait. They are outgoing and intelligent, but their hunting dog heritage can make them sensitive to sounds and prone to barking. 🐕 Pomeranian owners often face two significant health concerns: **Patellar Luxation** (dislocated kneecaps due to thin bones) and **Tracheal Collapse** (which causes a honking, goose-like cough). These conditions can easily worsen in slippery indoor environments. Today, PetSelf provides key insights into Pomeranian body language and introduces a protective 3-step home care routine for their joints and trachea.",
+    "whyTitle": "Pomeranian Body Language: Distinguishing Playfulness from Anxiety",
+    "whyDesc": "Pomeranians are highly expressive and shift emotions rapidly. Key body language signals include the **'play bow'** (stretching) and **'lip licking'**. When a Pomeranian lowers their front body while raising their hips, it is the classic 'play bow,' indicating an open invitation to play. However, if they appear to wag their tail but continuously lick their lips, it is a sign of internal anxiety or stress. Owners should not mistake this for excitement and should help calm them down.",
+    "body_signals": [
+      {
+        "name": "Play Bow",
+        "meaning": "Lowering the front body while raising the hips, representing an open and happy invitation to play.",
+        "response": "Respond joyfully by throwing a favorite toy or starting a gentle chase game."
+      },
+      {
+        "name": "Lip Licking",
+        "meaning": "Not anticipating food; it is a calming signal used to control internal anxiety or stress.",
+        "response": "If seen during walks or in new places, guide them away from the stimulus to ensure safety."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Floor Grip Maintenance and Jump Prevention",
+        "text": "Ensure non-slip mats are correctly placed around furniture to protect their thin bones. Train them to use pet stairs instead of jumping down."
+      },
+      {
+        "name": "Afternoon: Pin Brushing Against Hair Direction",
+        "text": "Use a pin brush to gently brush the coat from tail to head, fluffing it up. This prevents undercoat matting and allows healthy air flow to the skin."
+      },
+      {
+        "name": "Evening: Neck Massage and Harness Check to Avoid Tracheal Strain",
+        "text": "To protect their fragile trachea, examine your Y-shaped harness and avoid collars completely. Massage the sides of their neck gently to relieve muscle tension."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What should I do when my Pomeranian makes a goose-like honking sound?",
+        "answer": "This Honking is a common symptom of tracheal collapse. Do not panic; hold your Pomeranian close, rub their throat gently, or temporarily cover their nostrils for 1 second to encourage nose breathing."
+      },
+      {
+        "question": "Can home care cure patellar luxation without surgery?",
+        "answer": "No. Advanced stages (Grade 3 or 4) require surgical correction. Home care (maintaining healthy weight, preventing slips, and muscle-building exercises) is effective in early stages (Grade 1 or 2) to slow progression and prevent recurrence post-surgery."
+      }
+    ],
+    "tags": [
+      "Pomeranian",
+      "Patellar Care",
+      "Tracheal Collapse",
+      "Double Coat Brushing"
+    ]
+  },
+  "poodle-care": {
+    "title": "Brain Play and Ear Care: A 3-Step Routine for the Intelligent Poodle",
+    "description": "Discover how to relieve boredom in highly intelligent Poodles with brain games and prevent genetically vulnerable ear infections using a 3-step routine.",
+    "authority": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
+    "profile": {
+      "breed": "Poodle",
+      "lifespan": "12 ~ 15 years",
+      "sleep_pattern": "12 ~ 14 hours (synchronized with owner)",
+      "temperament": "Highly Intelligent, Active, Friendly"
+    },
+    "intro": "Poodles are widely recognized as one of the most intelligent dog breeds in the world. While they are highly trainable and sensitive to their owner's emotions, they can easily get bored and stressed due to their active minds. 🐩 Additionally, because their floppy ears cover the ear canal, they are highly prone to chronic ear infections (otitis) due to poor ventilation. Today, PetSelf shares tips on keeping your intelligent Poodle mentally stimulated and introduces a 3-step home care routine to keep their ears clean and healthy.",
+    "whyTitle": "Poodle Body Language: Distinguishing Demand from Stress",
+    "whyDesc": "Because of their intelligence, Poodles actively communicate using body language. Typical signals include **'paw raising'** and **'blinking'**. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions.",
+    "body_signals": [
+      {
+        "name": "Paw Raising",
+        "meaning": "An expression seeking attention or attempting to soothe minor tension or anxiety.",
+        "response": "If noticed, avoid giving forceful commands. Speak in a calm tone and pet them gently."
+      },
+      {
+        "name": "Soft Blinking",
+        "meaning": "A sign of deep trust and affection, confirming they feel safe and friendly with you.",
+        "response": "When you lock eyes, blink back slowly to share and reinforce that sense of peace."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Cognitive Relief with Brain Toys",
+        "text": "In addition to physical walks, use maze bowls or nosework mats to stimulate their highly active mind, helping them direct their excess energy productively."
+      },
+      {
+        "name": "Afternoon: Ear Check and Gentle Cleaning Massage",
+        "text": "Place 2-3 drops of ear cleanser into the ear canal, gently massage the base of the ear, and wipe away any dissolved wax with a cotton pad to prevent otitis."
+      },
+      {
+        "name": "Evening: Slicker Brushing to Prevent Skin Matting",
+        "text": "Since curly Poodle coats mat easily, brush daily with a slicker brush to remove dead hair, detangle, and allow proper air circulation to the skin."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is it normal for my Poodle to shake its head vigorously after ear cleaning?",
+        "answer": "Yes, this is a normal self-cleaning reaction. It helps shake out the cleanser along with dissolved debris from deep inside the ear. Just wipe the outer ear flap gently."
+      },
+      {
+        "question": "How do I stop my Poodle from chewing furniture?",
+        "answer": "Poodles often chew out of boredom when their brain is understimulated. Instead of just chew toys, introduce puzzles and interactive games to tire them out mentally."
+      }
+    ],
+    "tags": [
+      "Poodle",
+      "Brain Games",
+      "Ear Care",
+      "Dog Home Care"
+    ]
+  },
+  "ragdoll-care": {
+    "title": "A Cat That Hugs Like a Doll? Ragdoll's Safe Holding and 3-Step Joint Home Care",
+    "description": "Ragdolls, the giant fluffy cats that go limp like dolls when held. Learn tips to protect their large frame joints and a 3-step home care routine for safe holding.",
+    "authority": "Official Cat Fanciers' Association (CFA) Breed Guide & AAFP Cat Friendly Practice Guidelines",
+    "profile": {
+      "breed": "Ragdoll",
+      "lifespan": "12 ~ 17 years",
+      "sleep_pattern": "12 ~ 14 hours (high trust in owner)",
+      "temperament": "Docile, Calm, Highly Social"
+    },
+    "intro": "Ragdolls are large, fluffy cats famous for going completely limp like a rag doll when held. With their captivating blue eyes, silky coats, and incredibly gentle personalities, they are often called 'angel cats.' 🐈\n\nHowever, because they are a large breed reaching weights of 7 to 10 kg, their lower joints carry a heavy load. Furthermore, their signature limp posture when held can put twisting stress on their spine if not supported properly. Learning correct holding techniques is essential for their lifetime skeletal health.\n\nToday, PetSelf decodes Ragdoll body language and introduces a safe 3-step daily care routine to protect their joints and build mutual trust.",
+    "whyTitle": "Ragdoll's Calming Signals: Slow Blinks and Relaxed Paw Flexing",
+    "whyDesc": "Ragdoll cats express their high trust not just by going limp, but also through eye and paw gestures. Key signals of comfort include 'slow blinks' and 'paw flexing'. Looking at you and blinking very slowly is a message of complete safety and affection. When they feel extremely happy, they flex and stretch their toes like a fan. Massaging under their chin or behind the ears during this time maximizes their feeling of security.",
+    "body_signals": [
+      {
+        "name": "Slow Blink",
+        "meaning": "A sign of affection, showing they completely trust you and feel safe in their environment.",
+        "response": "Respond by blinking back slowly to strengthen your bond and mutual trust."
+      },
+      {
+        "name": "Paw Flexing",
+        "meaning": "Indicates extreme comfort and happiness, mimicking the memory of nursing as a kitten.",
+        "response": "Continue gently stroking under their chin or neck to keep them in this relaxed state."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Light Physical Release and Stretching for Skeletal Health",
+        "text": "As a large breed, physical strain accumulates in their joints. Before they start moving, gently hold and stretch their hind legs to protect joint mobility."
+      },
+      {
+        "name": "Afternoon: Pin Brushing to Prevent Tangles and Aerate Coat",
+        "text": "Ragdoll undercoats are very soft and prone to matting. Comb along the fur pattern with a round-tipped pin brush to aerate the coat and prevent skin issues and hairballs."
+      },
+      {
+        "name": "Evening: Spine-safe Holding Technique with Hip Support",
+        "text": "Lifting only their upper body causes spine twisting and joint strain from their weight. Always support their chest with one hand and their hips with the other."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does the Ragdoll going limp when held mean they have weak bones?",
+        "answer": "No. This is a unique genetic behavioral trait of Ragdolls where they fully relax their muscles when they feel completely safe and trust their handler. It is not a physical defect."
+      },
+      {
+        "question": "What happens if I don't support a Ragdoll's hips when holding them?",
+        "answer": "Since they are a large breed, holding them only by their armpits puts their entire weight (often over 7kg) on their spine and ribs, significantly raising the risk of disc herniation or joint subluxation."
+      }
+    ],
+    "tags": [
+      "Ragdoll Cat",
+      "Safe Holding",
+      "Joint Care",
+      "Cat Home Care"
+    ]
+  },
+  "russian-blue-care": {
+    "title": "Safe Haven and Trust Building: A 3-Step Routine for Russian Blue Cats",
+    "description": "Russian Blues are naturally shy and highly sensitive to noise. Learn how to create a stress-free safe zone and a 3-step routine for building trust with them.",
+    "authority": "Cat Fanciers' Association (CFA) Breed Guide & Cornell Feline Health Center",
+    "profile": {
+      "breed": "Russian Blue",
+      "lifespan": "15 ~ 20 years",
+      "sleep_pattern": "15 ~ 18 hours (seeks quiet, elevated hiding spots)",
+      "temperament": "Reserved, Gentle, Highly Quiet"
+    },
+    "intro": "Russian Blues are captivating felines renowned for their short, silvery-blue coat and striking green eyes. While quiet, gentle, and deeply loyal to their family, they are genetically shy, reserved, and highly sensitive to loud noises or environment changes. 🐱 This is why they quickly hide inside cat trees or closets when a guest visits or when a vacuum cleaner runs. Forcing them out of their hiding spots only causes more panic. Today, PetSelf details how to build a safe, stress-free space for your shy Russian Blue and introduces a 3-step routine to build a strong bond with them.",
+    "whyTitle": "Russian Blue Body Language: Reading Warning Signs of Panic",
+    "whyDesc": "Because of their gentle nature, Russian Blues show warning signals quietly before reacting. Key panic signals include **'dilated pupils'** and **'crouching'**. When they hear a sudden noise or are approached by a stranger, their pupils will dilate, becoming large and round as their stress system activates. If they press their body flat against the floor and flatten their ears sideways, they are experiencing extreme fear and are preparing to flee or defend themselves.",
+    "body_signals": [
+      {
+        "name": "Dilated Pupils",
+        "meaning": "A physical response indicating they are highly alert, tensed, or scared by surrounding triggers.",
+        "response": "Dim the lights and immediately stop the stimulating source (like household appliance noises)."
+      },
+      {
+        "name": "Crouching",
+        "meaning": "A sign of defensive panic, showing they feel cornered, helpless, or terrified.",
+        "response": "Do not force them into physical contact. Allow them to retreat to a quiet room or cabinet."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Litter Box and Feeding Station Safety Routine",
+        "text": "Clean the litter box early. Ensure their food and water bowls are placed in a quiet corner away from household foot traffic."
+      },
+      {
+        "name": "Afternoon: Quiet High-Rise Safe Haven Maintenance",
+        "text": "Confirm that their cozy, enclosed cat tree condo is always accessible. This gives them a private, elevated escape from unexpected visitors or noises."
+      },
+      {
+        "name": "Evening: Non-Intrusive Hand Sniff and Soft Bonding",
+        "text": "Instead of approaching them directly to pick them up, extend your index finger quietly at their level. Let them sniff your hand first to initiate contact."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Should I drag my Russian Blue out of their hiding spot when guests arrive?",
+        "answer": "Absolutely not. Forcing them out of their safe zone triggers panic and can damage their trust in you. Let them stay in their hiding spot until the guests leave."
+      },
+      {
+        "question": "What is the most effective way to bond with a shy Russian Blue?",
+        "answer": "Lower your posture and avoid direct, prolonged eye contact, which felines view as a threat. Let them sniff your finger first, and reward them with treats for approach."
+      }
+    ],
+    "tags": [
+      "Russian Blue",
+      "Shy Temperament",
+      "Safe Hiding Spots",
+      "Cat Home Care"
+    ]
+  },
+  "scottish-fold-care": {
+    "title": "The Genetic Issue Behind the Cuteness: Scottish Fold Joint and Ear 3-Step Care",
+    "description": "Scottish Folds, famous for folded ears. They are vulnerable to genetic joint pain and ear infections. Discover tips for joint protection and a 3-step routine for ear hygiene.",
+    "authority": "Official ISFM (International Society of Feline Medicine) Hereditary Cartilage Protocol & GCCF Breed Guidelines",
+    "profile": {
+      "breed": "Scottish Fold",
+      "lifespan": "11 ~ 15 years",
+      "sleep_pattern": "15 ~ 18 hours (cushioned beds preferred)",
+      "temperament": "Easygoing, Sweet-tempered, Loving"
+    },
+    "intro": "Scottish Folds capture hearts worldwide with their folded ears, round eyes, and owl-like appearance. They possess a sweet, quiet nature and enjoy peaceful companionship by their owner's side. 🐈\n\nHowever, the gene responsible for their folded ears also carries the risk of a severe genetic condition called Osteochondrodysplasia (hereditary cartilage disease). This causes their joint cartilage to stiffen, leading to chronic pain. Additionally, because their ears are folded, air circulation inside is restricted, making them highly susceptible to ear mites and infections.\n\nToday, PetSelf decodes the unique physical signals of Scottish Folds experiencing joint pain and outlines a 3-step home care routine for joint protection and ear hygiene.",
+    "whyTitle": "Fold's Body Language: Buddha Position and Tucking the Tail",
+    "whyDesc": "Scottish Folds use unique postures to manage genetic joint and bone pain. Key indicators of discomfort include the 'Buddha position' and 'tail lowering'. Sitting upright with their legs stretched out (Buddha position) is not a cute trick; it is a desperate resting posture to relieve weight pressure from their spine and legs. Lowering their tail or tucking it between their hind legs warns that their tail joints are stiffening or painful. Avoid touching their lower spine or tail when you see this.",
+    "body_signals": [
+      {
+        "name": "Buddha Position",
+        "meaning": "An instinctive posture to disperse weight and reduce pain caused by genetic cartilage disease.",
+        "response": "Do not force them to change posture. Place a soft cushion behind them to support their back."
+      },
+      {
+        "name": "Tail Lowering/Tucking",
+        "meaning": "A defensive signal showing that their tail joints are stiff or painful, rejecting touch.",
+        "response": "Immediately stop touching their tail or lower back, and guide them to a comfortable cushion."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Gait Analysis and Cartilage Support Supplements",
+        "text": "Watch their gait for 30 seconds when they wake up to check for limping. Administer joint supplements (glucosamine, MSM) with their morning meal."
+      },
+      {
+        "name": "Afternoon: Ear Canal Inspection and Weekly Aeration Cleaning",
+        "text": "Folded ears trap humidity. Do not use cotton swabs. Apply a few drops of feline ear cleaner, massage gently, and wipe away debris at the ear entrance with cotton pads."
+      },
+      {
+        "name": "Evening: Impact-absorbing Floor Padding and Controlled Low-impact Play",
+        "text": "Jumping down causes severe cartilage pain. Place impact-absorbing mats near furniture, and play low-intensity ground games that don't involve jumping or sharp twisting."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is the Scottish Fold's person-like 'Buddha position' a sign of pain?",
+        "answer": "Yes. Sitting upright on their buttocks with their legs extended forward is an instinctive response to disperse their body weight, relieving pressure and pain in their stiff leg joints."
+      },
+      {
+        "question": "Why shouldn't I use cotton swabs to clean a Scottish Fold's ears?",
+        "answer": "Because of their folded structure, the ear canal is narrow and bent. Cotton swabs can push debris deeper into the ear and damage the delicate inner skin, leading to severe bacterial or yeast infections."
+      }
+    ],
+    "tags": [
+      "Scottish Fold",
+      "Osteochondrodysplasia",
+      "Ear Cleaning",
+      "Cat Joints"
+    ]
+  },
+  "shiba-care": {
+    "title": "Managing Shiba Inu Independence and Double Coat: A 3-Step Routine",
+    "description": "Shiba Inus are highly independent and touch-sensitive. Learn proper brushing techniques for their double coat and a 3-step routine for stress-free contact.",
+    "authority": "National Shiba Club of America & IAABC Behavior Modification Guidelines",
+    "profile": {
+      "breed": "Shiba Inu",
+      "lifespan": "12 ~ 15 years",
+      "sleep_pattern": "12 ~ 14 hours (personal space oriented)",
+      "temperament": "Independent, Alert, Bold"
+    },
+    "intro": "Shiba Inus are beloved globally for their fox-like appearance and curled tail. However, they possess a cat-like independence, strong will, and alert nature. 🐕 Shibas are notoriously sensitive to having their paws, ears, or tail touched. If forced during grooming or nail clipping, they often emit a high-pitched Shiba Scream in protest. Moreover, they have a thick double coat that sheds heavily during seasonal changes. Today, PetSelf explores how to respect your Shiba's boundaries while maintaining their coat with a 3-step daily care routine.",
+    "whyTitle": "Shiba Inu Body Language: Signals of Pressure and Stress Relief",
+    "whyDesc": "Shiba Inus express their boundaries clearly and quietly. Key signals include **'looking away'** and **'shaking off'**. When a person reaches out to touch them and the Shiba turns their head away, it is not a playful gesture; it is a polite request saying 'please do not touch me right now.' Similarly, a full-body shake after a stressful event (like an examination or grooming session) is an instinctive mechanism to release physical tension and reset their psychological state.",
+    "body_signals": [
+      {
+        "name": "Looking Away",
+        "meaning": "A polite request asking the observer to stop approaching or touching, expressing pressure.",
+        "response": "If you see this, stop trying to touch them. Retract your hand and give them space."
+      },
+      {
+        "name": "Shake Off",
+        "meaning": "An action meant to shake off stress or physical tension experienced in a recent event.",
+        "response": "If they shake during grooming, they are releasing tension. Stop the activity and let them rest."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Sensitive Area Touch Desensitization",
+        "text": "Touch their paws or hips briefly for 1 second, then reward immediately with a high-value treat. Repeat to build positive associations with physical touch."
+      },
+      {
+        "name": "Afternoon: Low-Stress Double Coat Brushing",
+        "text": "Use a slicker brush or undercoat rake to gently brush in the direction of hair growth. If they show any signs of discomfort or growl, stop immediately."
+      },
+      {
+        "name": "Evening: Respecting the Independent Safe Zone",
+        "text": "When your Shiba retreats to their kennel or safe corner for evening rest, do not force them out or pet them. Allow them to recharge in total solitude."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why does my Shiba Inu scream during grooming?",
+        "answer": "This is known as the 'Shiba Scream.' It is an expression of genuine fear and pressure, not just acting out. Stop immediately and restart training from the basic level, like rewarding them simply for looking at the brush."
+      },
+      {
+        "question": "Why isn't my Shiba Inu as affectionate or wiggly as other dogs?",
+        "answer": "Shibas are naturally cat-like and value their personal space. Just because they do not wag their tails enthusiastically does not mean they don't love you; lying quietly near you is their way of showing affection."
+      }
+    ],
+    "tags": [
+      "Shiba Inu",
+      "Double Coat",
+      "Socialization",
+      "Dog Care"
+    ]
+  },
+  "siamese-care": {
+    "title": "Caring for Siamese Anxiety and Activity: A 3-Step Daily Routine",
+    "description": "Siamese cats are highly dependent on owners and prone to separation anxiety. Discover emotional bonding tips and a 3-step active play routine to manage their stress.",
+    "authority": "Cat Fanciers' Association (CFA) Official Breed Guide & AAFP Feline Behavioral Protocols",
+    "profile": {
+      "breed": "Siamese",
+      "lifespan": "12 ~ 15 years",
+      "sleep_pattern": "14 ~ 16 hours (prefers sleeping close under blankets)",
+      "temperament": "Affectionate, Vocal, Highly Intelligent"
+    },
+    "intro": "Siamese cats, originating from the royal family of Thailand, are elegant companion felines famous for their contrast points on ears, face, and paws. Known for their dog-like, highly social temperament, they are uniquely vocal, constantly 'talking' to their owners in distinct tones. 🐱 However, this extreme attachment makes them highly vulnerable to separation anxiety. If left alone for long periods, Siamese cats easily suffer from severe distress, which manifests as endless howling or destructive scratching. Today, PetSelf explores Siamese body language and provides a 3-step care routine to relieve separation stress and keep them emotionally stable.",
+    "whyTitle": "Siamese Body Language: Signs of Complete Trust and Possessiveness",
+    "whyDesc": "Siamese cats show their affection in clear, interactive ways. Typical signals include **'slow blinking'** and **'bunting'**. Closing their eyes slowly while maintaining eye contact is a statement of ultimate safety and peace. In the feline world, closing eyes in front of another is a risky move, proving they view you as a completely harmless companion. Rubbing their cheeks or forehead against your hand is their way of sharing comforting pheromones and marking you as their trusted person.",
+    "body_signals": [
+      {
+        "name": "Slow Blink",
+        "meaning": "A display of complete safety and deep affection, often described as a feline kiss.",
+        "response": "Lock eyes gently and return the gesture by closing and opening your eyes for 1.5 seconds."
+      },
+      {
+        "name": "Bunting",
+        "meaning": "An action leaving their scent (pheromones) to mark you as their safe person.",
+        "response": "Scratch their chin or cheeks, allowing them to happily exchange scents with you."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: 10-Minute High-Contact Greeting",
+        "text": "To ease separation anxiety, spend 10 minutes petting your Siamese and speaking softly to them in bed immediately after waking up."
+      },
+      {
+        "name": "Afternoon: Interactive Play and Food Puzzle Placement",
+        "text": "Keep them busy during the day with treat puzzles. When you return home, dedicate at least 15 minutes to high-energy feather wand chase games."
+      },
+      {
+        "name": "Evening: Warm Bedding Setup to Prevent Body Chill",
+        "text": "Because Siamese are short-haired with low body fat, they get cold easily. Keep indoor temperatures warm and provide a cozy dome-shaped heated bed."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why does my Siamese cat keep meowing constantly at night?",
+        "answer": "This is a natural trait of the breed. They often meow to communicate boredom or seek interaction. If they are not sick, avoid responding to their night cries and instead engage in intensive play during the day to tire them out."
+      },
+      {
+        "question": "How do I reduce my Siamese cat's separation anxiety when I go to work?",
+        "answer": "Set up food puzzle toys before leaving to distract them. Avoid emotional goodbyes (like picking them up and kissing them repeatedly) at least 10 minutes before stepping out, as this can worsen their anxiety."
+      }
+    ],
+    "tags": [
+      "Siamese",
+      "Separation Anxiety",
+      "Vocal Cats",
+      "Cat Playtime"
+    ]
+  }
+}

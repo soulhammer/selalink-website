@@ -13,71 +13,21 @@ export function getStaticPaths() {
 const { lang } = Astro.params;
 const currentLang = (lang as string) || 'en';
 
-import { indexLocalTranslations, indexSourceTranslations } from '../../../../i18n/storeselfTranslations';
-
-const localTranslations = indexLocalTranslations;
-const sourceTranslations = indexSourceTranslations;
+import { 
+  localTranslations, 
+  categories, 
+  getLocalizedIngredients, 
+  getCategoryCounts 
+} from '../../../../utils/storeself/indexHelper';
 
 const t = (key: string) => {
   return localTranslations[currentLang]?.[key] || localTranslations['en']?.[key] || key;
 };
 
 // 현재 로케일에 최적화된 식재료 정보 생성
-const localizedIngredients = ingredients.map((item) => {
-  const localName = item.names[currentLang] || item.names['en'];
-  
-  // 추천 보관 방식 결정 (상세 페이지와 동일)
-  const getRecommendedMethod = () => {
-    if (item.storage.fridge && item.storage.fridge.durationDays > 0) return 'fridge';
-    if (item.storage.room && item.storage.room.durationDays > 0) return 'room';
-    if (item.storage.freezer && item.storage.freezer.durationDays > 0) return 'freezer';
-    return item.storage.fridge ? 'fridge' : (item.storage.room ? 'room' : 'freezer');
-  };
-  
-  const recommendedMethod = getRecommendedMethod();
-  const guide = item.storage[recommendedMethod];
-  const sources = guide?.sources || [];
-  
-  // 검색 인덱스에 출처 다국어 명칭 및 약어 추가 (기획안 C)
-  let sourceKeywords = sources.join(' ');
-  sources.forEach((src) => {
-    const koText = sourceTranslations['ko']?.[`source.${src}`] || '';
-    const enText = sourceTranslations['en']?.[`source.${src}`] || '';
-    sourceKeywords += ` ${koText} ${enText}`;
-  });
+const localizedIngredients = getLocalizedIngredients(ingredients, currentLang);
 
-  const localSearchKeywords = item.searchKeywords?.[currentLang] || item.searchKeywords?.['en'] || [];
-  
-  return {
-    ...item,
-    localName,
-    recommendedMethod,
-    sources,
-    // 검색 인덱스를 위한 키워드 결합 (다국어 동의어 대응)
-    searchIndex: `${localName.toLowerCase()} ${item.id} ${item.category} ${localSearchKeywords.join(' ').toLowerCase()} ${sourceKeywords.toLowerCase()}`
-  };
-});
-
-const categories = [
-  'all',
-  'vegetable',
-  'fruit',
-  'dairy',
-  'meat',
-  'seafood',
-  'grain',
-  'condiment',
-  'etc'
-];
-
-const categoryCounts = categories.reduce((acc, cat) => {
-  if (cat === 'all') {
-    acc[cat] = ingredients.length;
-  } else {
-    acc[cat] = ingredients.filter((item) => item.category === cat).length;
-  }
-  return acc;
-}, {} as Record<string, number>);
+const categoryCounts = getCategoryCounts(ingredients);
 ---
 
 <Layout 
@@ -309,7 +259,7 @@ const categoryCounts = categories.reduce((acc, cat) => {
                   <!-- 마이크로 출처 뱃지 -->
                   {item.sources && item.sources.length > 0 && (
                     <div class="flex gap-0.5 opacity-80 group-hover:opacity-100 transition-opacity duration-300 select-none shrink-0">
-                      {item.sources.slice(0, 2).map((src) => (
+                      {item.sources.slice(0, 2).map((src: string) => (
                         <span class="text-[9px] font-extrabold uppercase tracking-tight bg-slate-100 dark:bg-slate-800/80 text-slate-500 dark:text-slate-400 group-hover:text-emerald-600 dark:group-hover:text-emerald-400 group-hover:border-emerald-500/20 px-1.5 py-0.5 rounded border border-slate-200 dark:border-slate-700/80 transition-colors duration-300">
                           {src}
                         </span>

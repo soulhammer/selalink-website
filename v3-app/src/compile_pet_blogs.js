@@ -28,40 +28,54 @@ if (!fs.existsSync(metaPath)) {
 const { labelDict } = JSON.parse(fs.readFileSync(metaPath, 'utf-8'));
 const labels = getPetLabels();
 
-const petTranslationData = {};
+// 1. 품종별 마스터 공통 메타 정보 로드
+const petMasterData = {};
 if (fs.existsSync(petsDir)) {
   fs.readdirSync(petsDir).forEach(file => {
     if (file.endsWith('.json') && file !== 'meta.json') {
       const filePath = path.join(petsDir, file);
       const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-      Object.assign(petTranslationData, fileData);
+      Object.assign(petMasterData, fileData);
     }
   });
-} else {
-  console.warn(`[경고] pets 디렉토리가 존재하지 않습니다: ${petsDir}`);
 }
+
+// 2. 다국어 번역 로케일 데이터 로드
+const localesDir = path.join(petsDir, 'locales');
+const petLocales = {};
+languages.forEach(lang => {
+  const localePath = path.join(localesDir, `${lang}.json`);
+  if (fs.existsSync(localePath)) {
+    petLocales[lang] = JSON.parse(fs.readFileSync(localePath, 'utf-8'));
+  } else {
+    petLocales[lang] = {};
+  }
+});
 
 // Markdown 생성 엔진
 function generateMarkdown(slug, lang) {
-  const data = petTranslationData[slug];
+  const master = petMasterData[slug];
+  if (!master) return '';
+
+  const data = petLocales[lang]?.[slug] || petLocales['en']?.[slug];
   if (!data) return '';
 
-  const title = data.title[lang] || data.title['en'];
-  const desc = data.description[lang] || data.description['en'];
-  const auth = data.authority[lang] || data.authority['en'];
-  const intro = data.intro[lang] || data.intro['en'];
+  const title = data.title;
+  const desc = data.description;
+  const auth = data.authority;
+  const intro = data.intro;
 
-  const pBreed = data.profile.breed[lang] || data.profile.breed['en'];
-  const pLifespan = data.profile.lifespan[lang] || data.profile.lifespan['en'];
-  const pSleep = data.profile.sleep_pattern[lang] || data.profile.sleep_pattern['en'];
-  const pTemp = data.profile.temperament[lang] || data.profile.temperament['en'];
+  const pBreed = data.profile.breed;
+  const pLifespan = data.profile.lifespan;
+  const pSleep = data.profile.sleep_pattern;
+  const pTemp = data.profile.temperament;
 
-  const whyTitle = data.whyTitle[lang] || data.whyTitle['en'];
-  const whyDesc = data.whyDesc[lang] || data.whyDesc['en'];
+  const whyTitle = data.whyTitle;
+  const whyDesc = data.whyDesc;
 
-  const bodySignals = data.body_signals;
-  const dailyRoutine = data.daily_routine;
-  const faqs = data.faqs[lang] || data.faqs['en'];
+  const bodySignals = data.body_signals || [];
+  const dailyRoutine = data.daily_routine || [];
+  const faqs = data.faqs || [];
 
   // 라벨 매핑
   const lProfile = labelDict.profileTitle[lang] || labelDict.profileTitle['en'];
@@ -76,12 +90,12 @@ function generateMarkdown(slug, lang) {
   const summaryText = labels.petSummaryTexts[lang] || labels.petSummaryTexts['en'];
 
   // Frontmatter 생성
-  const tags = data.tags?.[lang] || data.tags?.['en'] || [];
+  const tags = data.tags || [];
   const formattedTags = JSON.stringify(tags);
   const formattedFaqs = faqs.map(f => `  - question: "${f.question.replace(/"/g, '\\"')}"\n    answer: "${f.answer.replace(/"/g, '\\"')}"`).join('\n');
 
-  const pubDateStr = data.pubDate || new Date().toISOString().split('T')[0];
-  const updatedDateStr = data.updatedDate || pubDateStr;
+  const pubDateStr = master.pubDate || new Date().toISOString().split('T')[0];
+  const updatedDateStr = master.updatedDate || pubDateStr;
   const heroImageSlug = slug.replace(/-/g, '_');
 
   let md = `---
@@ -121,9 +135,9 @@ ${whyDesc}
 
   // 행동 시그널 해독 카드 생성
   bodySignals.forEach((sig, idx) => {
-    const sName = sig.name[lang] || sig.name['en'];
-    const sMean = sig.meaning[lang] || sig.meaning['en'];
-    const sResp = sig.response[lang] || sig.response['en'];
+    const sName = sig.name;
+    const sMean = sig.meaning;
+    const sResp = sig.response;
     md += renderPetStepCard(lang, idx + 1, 'SIGNAL', sName, lMeaning, sMean, lResponse, sResp) + '\n\n';
   });
 
@@ -135,8 +149,8 @@ ${whyDesc}
 
   // 3단계 홈케어 루틴 카드 생성
   dailyRoutine.forEach((rt, idx) => {
-    const rName = rt.name[lang] || rt.name['en'];
-    const rText = rt.text[lang] || rt.text['en'];
+    const rName = rt.name;
+    const rText = rt.text;
     md += renderPetRoutineCard(lang, idx + 1, rName, rText) + '\n\n';
   });
 
@@ -173,14 +187,15 @@ const buildPetBlog = (slug) => {
 };
 
 if (slugArg) {
-  if (!petTranslationData[slugArg]) {
+  if (!petMasterData[slugArg]) {
     console.error(`❌ [ERR] 유효하지 않은 --slug 인자입니다: ${slugArg}`);
     process.exit(1);
   }
   buildPetBlog(slugArg);
 } else {
   console.log(`🚀 [Pet 컴파일러] 인자가 없어 등록된 모든 반려동물 블로그를 일괄 생성합니다.`);
-  Object.keys(petTranslationData).forEach(slug => {
+  Object.keys(petMasterData).forEach(slug => {
     buildPetBlog(slug);
   });
 }
+

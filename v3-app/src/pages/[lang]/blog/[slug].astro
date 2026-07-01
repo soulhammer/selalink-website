@@ -4,6 +4,7 @@ import BlogAppCta from '../../../components/BlogAppCta.astro';
 import YoutubeEmbed from '../../../components/YoutubeEmbed.astro';
 import { getCollection, render } from 'astro:content';
 import { useTranslations } from '../../../i18n/ui';
+import { getFormattedDate, getPrevNextPost, generateStructuredData } from '../../../utils/blogDetailHelper';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -27,130 +28,24 @@ const { Content, headings } = await render(post);
 
 // SEO를 위한 구조화된 데이터(JSON-LD) 생성
 const formattedUrl = new URL(Astro.url.pathname, Astro.site).href;
-const structuredDataList: any[] = [
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": title,
-    "description": description,
-    "image": heroImage ? new URL(heroImage, Astro.site).href : undefined,
-    "datePublished": new Date(pubDate).toISOString(),
-    "dateModified": updatedDate ? new Date(updatedDate).toISOString() : new Date(pubDate).toISOString(),
-    "author": {
-      "@type": "Organization",
-      "name": "SelaLink Studio",
-      "url": "https://selalink.net/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "SelaLink Studio",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://selalink.net/favicon.png"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": formattedUrl
-    }
-  }
-];
-
-// 포스트 프론트매터에 정의된 steps가 없으나, 본문 HTML 구조에서 단계를 추출할 수 있는 경우 (예: ko 마스터 원본)
-let activeSteps = post.data.steps;
-if (!activeSteps || activeSteps.length === 0) {
-  const stepsParsed: any[] = [];
-  const rawContent = post.body || '';
-  const stepRegex = /STEP\s*(\d+)[^]*?<h4[^>]*>([\s\S]*?)<\/h4>[^]*?<p[^>]*>([\s\S]*?)<\/p>/g;
-  let match;
-  while ((match = stepRegex.exec(rawContent)) !== null) {
-    stepsParsed.push({
-      name: match[2].replace(/<[^>]*>/g, '').trim(),
-      text: match[3].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim()
-    });
-  }
-  if (stepsParsed.length > 0) {
-    activeSteps = stepsParsed;
-  }
-}
-
-// 파싱되었거나 정의된 steps가 있는 경우 HowTo 구조화 스키마 동적 생성
-if (activeSteps && activeSteps.length > 0) {
-  structuredDataList.push({
-    "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": title,
-    "description": description,
-    "image": heroImage ? new URL(heroImage, Astro.site).href : undefined,
-    "step": activeSteps.map((step: any, idx: number) => ({
-      "@type": "HowToStep",
-      "name": step.name,
-      "text": step.text,
-      "url": `${formattedUrl}#step-${idx + 1}`
-    }))
-  });
-}
-
-// 포스트 프론트매터에 faqs가 없으나, 본문 HTML 구조에서 자주 묻는 질문을 추출할 수 있는 경우 (예: ko 마스터 원본)
-let activeFaqs = post.data.faqs;
-if (!activeFaqs || activeFaqs.length === 0) {
-  const faqsParsed: any[] = [];
-  const rawContent = post.body || '';
-  const faqRegex = /<summary[^>]*>([\s\S]*?)<\/summary>[^]*?<p[^>]*>([\s\S]*?)<\/p>/g;
-  let match;
-  while ((match = faqRegex.exec(rawContent)) !== null) {
-    const question = match[1].replace(/<[^>]*>/g, '').replace(/▼/g, '').trim();
-    const answer = match[2].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
-    faqsParsed.push({ question, answer });
-  }
-  if (faqsParsed.length > 0) {
-    activeFaqs = faqsParsed;
-  }
-}
-
-// 추출되었거나 프론트매터에 정의된 faqs가 있는 경우 FAQPage 구조화 스키마 동적 생성
-if (activeFaqs && activeFaqs.length > 0) {
-  structuredDataList.push({
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": activeFaqs.map((faq: any) => ({
-      "@type": "Question",
-      "name": faq.question,
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": faq.answer
-      }
-    }))
-  });
-}
-
-
-const localeMap: Record<string, string> = {
-  ko: 'ko-KR',
-  en: 'en-US',
-  ja: 'ja-JP',
-  zh: 'zh-CN',
-  es: 'es-ES',
-  fr: 'fr-FR',
-  de: 'de-DE',
-  pt: 'pt-PT',
-  id: 'id-ID'
-};
-const locale = localeMap[lang || 'en'] || lang || 'en';
-
-const formattedDate = new Date(pubDate).toLocaleDateString(locale, {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric'
+const structuredDataList = generateStructuredData({
+  title,
+  description,
+  heroImage,
+  pubDate,
+  updatedDate,
+  postBody: post.body || '',
+  postSteps: post.data.steps,
+  postFaqs: post.data.faqs,
+  formattedUrl,
+  siteOrigin: Astro.site?.origin || 'https://selalink.net'
 });
 
+const formattedDate = getFormattedDate(pubDate, lang || 'en');
+
 // 이전 글 / 다음 글 계산
-const allPostsOfLang = (await getCollection('blog'))
-  .filter((p) => p.id.startsWith(lang + '/'))
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const currentIndex = allPostsOfLang.findIndex((p) => p.id === post.id);
-const nextPost = currentIndex > 0 ? allPostsOfLang[currentIndex - 1] : null;
-const prevPost = currentIndex < allPostsOfLang.length - 1 ? allPostsOfLang[currentIndex + 1] : null;
+const allPosts = await getCollection('blog');
+const { prevPost, nextPost } = getPrevNextPost(allPosts, post.id, lang || 'en');
 
 // 앱 타입별 테마 스타일링 바인딩
 const themeAccents: Record<string, string> = {

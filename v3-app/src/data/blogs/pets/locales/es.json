@@ -1,0 +1,1010 @@
+{
+  "beagle-care": {
+    "title": "Cuidado de la Energía y Ansiedad del Beagle: Rutina de 3 pasos para la ansiedad por separación y salud de oídos",
+    "description": "Los Beagles son perros de caza muy curiosos con gran energía. Conozca una rutina de 3 pasos para saciar su olfato, reducir la ansiedad y prevenir infecciones de oído.",
+    "authority": "Manual oficial de razas de AKC para Beagles y protocolos de olfato de IAABC",
+    "profile": {
+      "breed": "Beagle",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "10 ~ 12 horas (sincronizado con el exterior)",
+      "temperament": "Amigable, Curioso, Obstinado, Afectuoso"
+    },
+    "intro": "Con sus orejas caídas y cola alegre, los Beagles son sabuesos históricos. Aunque amigables, tienen una gran curiosidad y un fuerte impulso de rastreo. Sin el ejercicio adecuado, pueden desarrollar ansiedad por separación, aullando o rompiendo muebles. Sus orejas caídas atrapan humedad, facilitando infecciones. Hoy, PetSelf descifra sus señales y presenta una rutina de 3 pasos.",
+    "whyTitle": "Lenguaje corporal del Beagle: instinto de rastreo y significado de aullidos",
+    "whyDesc": "Cuando se concentran en el olor, los Beagles muestran un comportamiento de **'rastreo'**, ignorando su entorno. Por el contrario, el **'aullido'** cuando están solos es un signo de ansiedad por separación. Entender estas dos señales es clave para mantenerlos tranquilos.",
+    "body_signals": [
+      {
+        "name": "Rastreo",
+        "meaning": "Un estado normal de excitación mientras exploran el mundo y queman energía a través del olfato.",
+        "response": "No tire de la correa; déjelos olfatear y explorar para satisfacer su instinto."
+      },
+      {
+        "name": "Aullido",
+        "meaning": "Expresión de ansiedad y búsqueda de atención causada por la soledad, el aburrimiento o la energía acumulada.",
+        "response": "No los regañe. Aborde la causa proporcionando juguetes de olfato y asegurando el ejercicio adecuado."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Búsqueda de premios en casa y juegos de olfato",
+        "text": "Después del desayuno, esconda premios en vasos de papel por toda la casa para saciar su olfato y cansarle mentalmente."
+      },
+      {
+        "name": "Tarde: Paseo de rastreo al aire libre de más de 40 minutos",
+        "text": "Asegure un paseo de al aire libre de al menos 40 minutos diarios. Permítale olfatear el césped libremente para reducir el estrés."
+      },
+      {
+        "name": "Noche: Ventilación de orejas caídas y limpieza dos veces por semana",
+        "text": "Como sus orejas caídas bloquean el flujo de aire, voltéelas suavemente para ventilar y limpie con solución para oídos dos veces por semana."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo puedo evitar que mi Beagle aúlle?",
+        "answer": "El aullido se debe a la ansiedad por soledad y a la energía acumulada. Aumentar los paseos y juegos de olfato para cansarles es la prevención más eficaz."
+      },
+      {
+        "question": "¿Por qué las orejas caídas de los Beagles se infectan fácilmente?",
+        "answer": "Las orejas caídas bloquean el aire en el canal auditivo, creando un ambiente cálido y húmedo ideal para levaduras y bacterias. La ventilación semanal es crucial."
+      }
+    ],
+    "tags": [
+      "Beagle",
+      "Ansiedad por Separación",
+      "Aullidos",
+      "Oídos"
+    ]
+  },
+  "bichon-care": {
+    "title": "Cuidado del Manto Rizado del Bichón Frisé: Rutina de 3 pasos para desenredar y lidiar con el Bichon Blitz",
+    "description": "Famoso por su cabeza de pompón blanca, el Bichón Frisé es muy amigable. Conozca una rutina para cuidar su pelo rizado y manejar las explosiones de energía (Bichon Blitz).",
+    "authority": "Estándares del Bichon Frise Club of America y pautas de salud de AVMA",
+    "profile": {
+      "breed": "Bichón Frisé",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "12 ~ 14 horas (durmiendo a los pies del dueño)",
+      "temperament": "Alegre, Juguetón, Afectuoso, Sociable"
+    },
+    "intro": "Los Bichón Frisé son conocidos por su pelaje blanco esponjoso y su naturaleza alegre. Sin embargo, su pelo rizado y fino se enreda fácilmente desde la raíz, lo que causa dermatitis. Las carreras a gran velocidad en casa (Bichon Blitz) pueden dañar sus articulaciones. Hoy, PetSelf explica su lenguaje y comparte una rutina de 3 pasos.",
+    "whyTitle": "Lenguaje corporal del Bichón Frisé: Bichon Blitz y búsqueda de atención",
+    "whyDesc": "Cuando están emocionados, los Bichons muestran el **'Bichon Blitz'** (correr frenéticamente) para gastar energía. Además, tocar el brazo del dueño con la pata (**'toque de pata'**) es una señal afectuosa para pedir juego.",
+    "body_signals": [
+      {
+        "name": "Bichon Blitz",
+        "meaning": "Comportamiento natural para quemar rápidamente la energía acumulada mediante una actividad física intensa.",
+        "response": "Despeje el camino de obstáculos, asegure alfombras antideslizantes y deje que se detenga solo."
+      },
+      {
+        "name": "Toque de pata",
+        "meaning": "Una forma pacífica y amistosa de pedir atención e interacción, típica del Bichón.",
+        "response": "Haga contacto visual, acarícielo o realice una sesión corta de órdenes (sentado/pata) como estímulo."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Juego de traer juguetes y tiro de cuerda suave",
+        "text": "Para evitar colisiones con muebles, juegue al tiro de cuerda suave por la mañana para liberar energía y calmarle."
+      },
+      {
+        "name": "Tarde: 10 minutos de cepillado con carda y peine de acero",
+        "text": "Use spray desenredante primero, luego cepille el vientre y patas con carda. Siga con peine de acero para asegurar que no queden enredos cerca de la piel."
+      },
+      {
+        "name": "Noche: Cepillado del contorno de ojos y secado de manchas de lágrimas",
+        "text": "Limpie suavemente el pelo alrededor de los ojos con un peine facial fino y seque el exceso de lágrimas con un disco de algodón."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo debo calmar a mi Bichón durante un Bichon Blitz?",
+        "answer": "El Bichon Blitz es una liberación emocional normal. No lo agarre ni grite, ya que puede tomarlo como juego. Asegure alfombras para evitar resbalones y espere a que pare."
+      },
+      {
+        "question": "¿Por qué es peligroso el enredo de pelo para los Bichons?",
+        "answer": "El pelo del Bichón es fino y rizado. Evitar el cepillado causa enredos graves que aprietan la piel, bloquean el flujo sanguíneo y causan dermatitis."
+      }
+    ],
+    "tags": [
+      "Bichón Frisé",
+      "Bichon Blitz",
+      "Nudos de Pelo",
+      "Dermatitis"
+    ]
+  },
+  "bshorthair-care": {
+    "title": "Cuidado del Peso del British Shorthair: Rutina de 3 pasos para la prevención de HCM y obesidad",
+    "description": "Los British Shorthair son queridos por su complexión robusta. Descubra una rutina de 3 pasos de dieta y estilo de vida para prevenir la obesidad y la HCM genética.",
+    "authority": "Estándares de cría de GCCF para British Shorthairs y pautas de obesidad de AAFP",
+    "profile": {
+      "breed": "British Shorthair",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "14 ~ 16 horas (prefiere el suelo fresco y plano)",
+      "temperament": "Tranquilo, Independiente, Leal, Paciente"
+    },
+    "intro": "Con sus caras redondas y complexión musculosa, los British Shorthairs son gigantes gentiles. Sin embargo, su robusto cuerpo hace que la obesidad dañe sus articulaciones. Además, son propensos a la **Cardiomiopatía Hipertrófica (HCM)**, empeorada por el sobrepeso. Hoy, PetSelf explica su lenguaje y comparte una rutina de 3 pasos.",
+    "whyTitle": "Lenguaje corporal del British Shorthair: mirada distante y movimiento de cola",
+    "whyDesc": "A los British Shorthairs no les gusta que los retengan y muestran confianza a través de la **'mirada suave'** a distancia. Por el contrario, cuando están molestos, muestran un **'movimiento de cola'**. Cargarlos en ese momento les provocará estrés.",
+    "body_signals": [
+      {
+        "name": "Mirada suave",
+        "meaning": "Expresión madura e independiente de amor, indicando que se sienten felices y seguros con solo compartir el espacio.",
+        "response": "Parpadee lentamente para devolver el afecto. No se acerque ni lo cargue; deje que disfrute de su presencia."
+      },
+      {
+        "name": "Movimiento de cola",
+        "meaning": "Señal de advertencia de que están molestos o que se les toca con brusquedad, pidiéndole que pare.",
+        "response": "Deje de acariciarlo inmediatamente y evite más contacto para que el gato se relaje solo."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Control estricto de la dieta mediante báscula",
+        "text": "Para prevenir la cardiomiopatía hipertrófica (HCM) por obesidad, pese la comida en una báscula digital."
+      },
+      {
+        "name": "Tarde: Cepillado del subpelo con cepillo de goma para gatos",
+        "text": "Aunque son de pelo corto, su pelaje es denso. Cepille durante 5 minutos con cepillo de goma para retirar el subpelo muerto."
+      },
+      {
+        "name": "Noche: Control de frecuencia respiratoria para HCM y juego moderado",
+        "text": "Verifique que su frecuencia respiratoria al dormir sea inferior a 30 respiraciones por minuto y juegue de forma moderada con bolas de lana."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué la obesidad es más peligrosa para el British Shorthair que para otros gatos?",
+        "answer": "Tienen un cuerpo robusto y son propensos a la Cardiomiopatía Hipertrófica (HCM). La obesidad obliga al corazón a esforzarse más, elevando el riesgo de fallo cardíaco."
+      },
+      {
+        "question": "¿Por qué a los British Shorthairs no les gusta que los carguen?",
+        "answer": "Valoran su independencia y se sienten inseguros cuando sus patas pierden contacto con el suelo. Abrazarlos a la fuerza puede dañar la relación."
+      }
+    ],
+    "tags": [
+      "British Shorthair",
+      "Prevención de HCM",
+      "Control de Peso",
+      "Obesidad"
+    ]
+  },
+  "chihuahua-care": {
+    "title": "El guerrero más pequeño del mundo: Protección de molera y cuidado de hipoglucemia de 3 pasos del Chihuahua",
+    "description": "El Chihuahua, el guerrero más pequeño. Descubra cómo proteger su cabeza (molera abierta) y una rutina de 3 pasos para evitar la hipoglucemia y temblores.",
+    "authority": "Manual de raza de la Chihuahua Club of America y directrices de cuidado metabólico de razas miniatura de AVMA",
+    "profile": {
+      "breed": "Chihuahua",
+      "lifespan": "12 ~ 20 años",
+      "sleep_pattern": "12 ~ 14 horas (les gusta meterse bajo mantas)",
+      "temperament": "Valiente, Leal, Alerta y defensivo"
+    },
+    "intro": "Los Chihuahuas son los perros más pequeños del mundo pero tienen un temperamento valiente. Son muy leales y protectores con sus dueños. 🐕\n\nSin embargo, su diminuto cuerpo tiene debilidades. La primera es la molera (fontanela abierta) en su cráneo. La presión en su cabeza afecta directamente a su cerebro. Además, tienen poca grasa corporal y metabolizan rápido, siendo propensos a temblores e hipoglucemia (bajo azúcar en sangre).\n\nHoy, PetSelf descodifica su lenguaje corporal e introduce una rutina de 3 pasos para la protección de la molera y el azúcar.",
+    "whyTitle": "Señales del Chihuahua: Temblores emocionales y gruñido defensivo",
+    "whyDesc": "Los Chihuahuas son sensibles y se ponen en alerta rápido. Las señales clave son 'temblores' y 'gruñidos'. Los temblores ocurren por frío o por emociones como excitación o miedo. El gruñido mostrando dientes es una advertencia de miedo; forzar el contacto puede provocar una mordedura. Déle espacio.",
+    "body_signals": [
+      {
+        "name": "Temblores",
+        "meaning": "Ocurre debido al frío, o como respuesta física a emociones intensas como excitación o miedo.",
+        "response": "Envuélvalo en una manta cálida y sosténgalo en una habitación silenciosa para calmarlo."
+      },
+      {
+        "name": "Gruñido defensivo",
+        "meaning": "Una advertencia de miedo, que le pide que detenga el contacto y retroceda.",
+        "response": "Deje de tocarlo o acercarse de inmediato, retírese y deje que se calme solo."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Control de molera y ajuste de calefacción",
+        "text": "Evite presionar su cabeza (molera). Mantenga la temperatura interior cálida, alrededor de 24-26°C, ya que son vulnerables al frío."
+      },
+      {
+        "name": "Tarde: Paseos cortos de olfato y desensibilización al ruido",
+        "text": "Evite socializaciones forzadas. Deje que olfatee y practique 5 minutos de desensibilización al timbre con premios para evitar ladridos."
+      },
+      {
+        "name": "Noche: Alimentación puntual para evitar hipoglucemia y cuidado de patas",
+        "text": "Su pequeño tamaño facilita bajadas de azúcar. Cumpla los horarios de comida y recorte el pelo de las patas para evitar resbalones."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿La molera del Chihuahua debe cerrarse obligatoriamente?",
+        "answer": "El 80-90% de los Chihuahuas viven con la molera abierta. No es una enfermedad, pero significa que su cráneo no protege del todo su cerebro. Se deben evitar golpes en la cabeza."
+      },
+      {
+        "question": "¿Los temblores del Chihuahua siempre significan que tienen frío?",
+        "answer": "Tienen poca grasa y tiemblan con el frío, pero también lo hacen por emociones intensas como excitación o miedo, ya que su sistema nervioso sensible provoca contracciones musculares."
+      }
+    ],
+    "tags": [
+      "Chihuahua",
+      "Protección de Molera",
+      "Hipoglucemia",
+      "Cuidado de Perros Toy"
+    ]
+  },
+  "corgi-care": {
+    "title": "Cuidado del Welsh Corgi: Una rutina de 3 pasos para la salud de la columna y articulaciones",
+    "description": "El Welsh Corgi, famoso por su lindo trasero y patas cortas. Descubra una rutina diaria de 3 pasos para prevenir problemas de columna y la luxación patelar.",
+    "authority": "Guía oficial del Pembroke Welsh Corgi Club of America y pautas de salud de AKC",
+    "profile": {
+      "breed": "Welsh Corgi",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "12 ~ 14 horas (prefiere el suelo)",
+      "temperament": "Inteligente, Activo, Audaz, Leal"
+    },
+    "intro": "El Welsh Corgi es una raza muy querida por sus patas cortas y su trasero redondeado. Como antiguos perros pastores, son inteligentes, activos y valientes. Sin embargo, su espalda larga y patas cortas ejercen una gran presión sobre la columna y las articulaciones. La obesidad aumenta drásticamente el riesgo de hernias discales. Hoy, PetSelf explora su lenguaje corporal y presenta una rutina de 3 pasos para proteger su columna y rótulas.",
+    "whyTitle": "Lenguaje corporal del Corgi: señales de espalda y emociones",
+    "whyDesc": "Dado que los Corgis tienen colas muy cortas o sin cola, usan todo su cuerpo y caderas para expresar emociones. Las señales típicas incluyen el **'contoneo de cadera'** cuando están felices y el **'splooting'** (estirarse con las patas traseras hacia atrás) cuando están relajados. Estas expresiones físicas indican comodidad articular y regulación térmica. Los dueños pueden observar estos signos para evaluar el estrés.",
+    "body_signals": [
+      {
+        "name": "Contoneo de cadera",
+        "meaning": "Un estado de felicidad extrema y entusiasmo positivo expresado por Corgis de cola corta.",
+        "response": "Salúdelos con cariño y tranquilícelos para evitar que salten a los sofás por la emoción."
+      },
+      {
+        "name": "Splooting",
+        "meaning": "Señal de relajación para enfriar la temperatura corporal en un suelo frío y aliviar la tensión articular.",
+        "response": "Están descansando cómodamente. No los moleste y asegúrese de que tengan un ambiente tranquilo."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Control de alfombras antideslizantes y estiramiento de patas traseras",
+        "text": "Debido a su larga columna, son propensos a hernias discales. Asegure las alfombras cerca del sofá y realice un estiramiento suave de 2 minutos por la mañana."
+      },
+      {
+        "name": "Tarde: Paseo de 30 minutos en terreno llano con arnés y juegos de olfato",
+        "text": "Use un arnés en lugar de collar para reducir la tensión espinal. Camine en terreno plano evitando pendientes y escaleras, permitiendo 30 minutos de olfateo."
+      },
+      {
+        "name": "Noche: Cepillado del manto doble y masaje de relajación espinal",
+        "text": "Cepille su manto doble para eliminar el pelo muerto y masajee suavemente los músculos de la columna en círculos para aliviar la fatiga."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué los Corgis no deben saltar de camas o sofás?",
+        "answer": "Debido a su espalda larga y patas cortas, el aterrizaje ejerce un impacto tres veces mayor en su columna y rodillas, lo que causa hernias discales. Instalar escaleras para mascotas es esencial."
+      },
+      {
+        "question": "¿Cómo debo manejar la caída de pelo del Welsh Corgi?",
+        "answer": "Los Corgis tienen un manto doble de gran caída. Cepille diariamente con un cepillo slicker y un rastrillo para eliminar el pelo muerto y prevenir problemas en la piel."
+      }
+    ],
+    "tags": [
+      "Welsh Corgi",
+      "Cuidado Patelar",
+      "Salud Espinal",
+      "Manto Doble"
+    ]
+  },
+  "golden-retriever-care": {
+    "title": "¿El Golden Retriever angelical? Una rutina saludable de 3 pasos para las articulaciones y el juego de cobro",
+    "description": "Golden Retriever amigable e inteligente. Descubra consejos para prevenir la displasia de cadera genéticamente vulnerable en perros grandes y una rutina diaria de 3 pasos.",
+    "authority": "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC",
+    "profile": {
+      "breed": "Golden Retriever",
+      "lifespan": "10 ~ 12 años",
+      "sleep_pattern": "12 ~ 14 horas (sincronizado con el dueño)",
+      "temperament": "Inteligente, Afectuoso, Activo"
+    },
+    "intro": "El Golden Retriever, querido por su pelaje dorado y su personalidad gentil, es un compañero inteligente y amigable. Aunque se le conoce como 'angelical', posee una gran energía y requiere estimulación diaria. Prevenir la displasia de cadera genéticamente vulnerable y satisfacer su instinto de cobro son fundamentales para su salud. Hoy, PetSelf explora sus señales e introduce una rutina saludable de 3 pasos.",
+    "whyTitle": "Lenguaje corporal del Golden Retriever: comprensión de señales y confianza",
+    "whyDesc": "Los Golden Retrievers expresan sus emociones a través de gestos. Una señal clave es el 'contacto visual suave.' A diferencia de la mirada fija tensa, entrecerrar los ojos suavemente representa afecto y confianza. Responder con elogios suaves aumenta su estabilidad emocional. Por el contrario, un cuerpo tenso con la cola alta indica alerta.",
+    "body_signals": [
+      {
+        "name": "Contacto visual suave",
+        "meaning": "Un contacto visual positivo que indica confianza, afecto y vínculo psicológico.",
+        "response": "Responda parpadeando lentamente y elogiando con una voz tranquila."
+      },
+      {
+        "name": "Movimiento de todo el cuerpo",
+        "meaning": "Una expresión activa de amistad y alegría, que muestra comodidad extrema.",
+        "response": "Acaricie suavemente su pecho y comparta su energía alegre de forma tranquila."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Juego de cobro para satisfacer instintos",
+        "text": "Juegue a traer la pelota durante 5-10 minutos antes de pasear. Esto satisface su instinto natural y libera la energía de la mañana."
+      },
+      {
+        "name": "Tarde: Paseo energético de más de 1 hora",
+        "text": "Como perros grandes muy activos, necesitan al menos 1 hora de ejercicio al día. Permitirles olfatear en zonas seguras reduce el estrés y evita comportamientos destructivos."
+      },
+      {
+        "name": "Noche: Limpieza de oídos y masaje articular",
+        "text": "Limpie sus orejas caídas a diario para evitar infecciones. Para prevenir problemas de cadera, masajee suavemente las patas traseras y articulaciones para aliviar la tensión."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué mi Golden Retriever siempre lleva palos o zapatos durante los paseos?",
+        "answer": "Es su instinto natural de cobro (Retrieving) de cuando eran perros de caza. En lugar de regañarlo, deje que lleve un juguete seguro para satisfacer su instinto."
+      },
+      {
+        "question": "¿A qué edad debe comenzar el cuidado articular en un Golden Retriever?",
+        "answer": "Dado que son propensos a la displasia de cadera, empiece el cuidado (control de peso, alfombras y natación) a los 3 meses de edad durante su crecimiento activo."
+      }
+    ],
+    "tags": [
+      "Golden Retriever",
+      "Displasia de Cadera",
+      "Cobro",
+      "Cuidado de Perros Grandes"
+    ]
+  },
+  "husky-care": {
+    "title": "La energía ardiente de los perros de trineo: Cuidado de 3 pasos de manto doble y actividad del Husky Siberiano",
+    "description": "Husky Siberiano, el perro de trineo. Aprenda a combatir el calor y a canalizar su gran energía para evitar ladridos, aullidos y destrozos con una rutina de 3 pasos.",
+    "authority": "Guía de la Siberian Husky Club of America y protocolos de actividad para perros de trabajo de IAABC",
+    "profile": {
+      "breed": "Husky Siberiano",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "10 ~ 12 horas (prefieren suelos fríos)",
+      "temperament": "Muy Activo, Independiente, Instinto de manada"
+    },
+    "intro": "Los Huskies Siberianos son famosos por su apariencia lobuna y su historia tirando trineos. Tienen una resistencia increíble y un fuerte instinto de manada. 🐕\n\nSin embargo, su herencia polar los hace vulnerables al calor y humedad, con riesgo de golpe de calor en verano. Además, si no gastan su inmensa energía diaria, se aburren y lo expresan con aullidos o destrozando la casa.\n\nHoy, PetSelf descodifica la comunicación del Husky e introduce una rutina de 3 pasos de manto doble y ejercicio.",
+    "whyTitle": "Lenguaje corporal del Husky: Aullidos de aburrimiento y pata sobre la rodilla",
+    "whyDesc": "Los Huskies retienen hábitos de manada y se expresan activamente. Las señales clave son 'aullidos' y 'ofrecer la pata'. El aullido expresa aburrimiento y demanda de ejercicio. Poner la pata sobre usted con mirada fija es una petición directa de paseo. Canalice su energía con juguetes o ejercicios.",
+    "body_signals": [
+      {
+        "name": "Aullidos",
+        "meaning": "Una expresión de aburrimiento extremo y descontento por falta de ejercicio, que demanda atención.",
+        "response": "Sáquelo a pasear para que olfatee activamente o prepare una alfombra de olfato en casa."
+      },
+      {
+        "name": "Ofrecer la pata con mirada fija",
+        "meaning": "Una petición asertiva de atención, juego o paseo, tratándole como a un compañero de manada.",
+        "response": "No ceda ante cada demanda. Dé una orden (sentarse, etc.) primero, luego premie para mantener el orden."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Ajuste de arnés en Y y control de tracción",
+        "text": "Tienen un fuerte instinto de tracción. Coloque un arnés en Y para evitar presión en la tráquea y controle su ritmo de paseo."
+      },
+      {
+        "name": "Tarde: Aire acondicionado, alfombras de frío y cepillado del subpelo",
+        "text": "Sensibles al calor, mantenga la casa fresca. Use una carda y un rastrillo para manto para cepillar su denso manto polar, liberando el calor."
+      },
+      {
+        "name": "Noche: Paseo largo de 1 hora y juguetes para masticar duraderos",
+        "text": "Garantice al menos 1 hora de paseo activo. Para evitar aullidos nocturnos, proporcione un palo de madera de cafeto para masticar."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo puedo evitar que mi Husky destroce los muebles por aburrimiento?",
+        "answer": "Tienen una resistencia inmensa como perros de trabajo. Combine carreras o caminatas. En casa, use puzles con premios y mordedores de madera duros para cansar los músculos de su mandíbula."
+      },
+      {
+        "question": "¿Afeitar el pelo de mi Husky le ayudará a estar más fresco en verano?",
+        "answer": "No. Su doble capa sirve como aislante contra el calor y los rayos UV. Afeitarlo destruye su regulación térmica, elevando el riesgo de golpe de calor y quemaduras. Lo correcto es cepillar para retirar el pelo muerto."
+      }
+    ],
+    "tags": [
+      "Husky Siberiano",
+      "Cepillado de Manto",
+      "Prevenir Aullidos",
+      "Paseos de Perros Grandes"
+    ]
+  },
+  "koshort-care": {
+    "title": "¿Un instinto indomable? Una rutina de 3 pasos para el territorio e hidratación del shorthair coreano",
+    "description": "El shorthair coreano, con fuertes instintos de caza. Conozca los métodos de hidratación adecuados para prevenir la cistitis felina y una rutina diaria de 3 pasos para la comodidad territorial.",
+    "authority": "Guía de comportamento del Cornell Feline Health Center y manual de cuidado de NIAS",
+    "profile": {
+      "breed": "Shorthair coreano",
+      "lifespan": "13 ~ 15 años",
+      "sleep_pattern": "15 ~ 18 horas (vertical y nocturno)",
+      "temperament": "Independiente, Fuerte instinto de caza, Curioso"
+    },
+    "intro": "El shorthair coreano, un gato nativo, cuenta con una estructura robusta y una gran vitalidad debido a sus instintos salvajes conservados. Aunque son amigables, pueden ser cautelosos con los extraños y muy concentrados durante el juego de caza. 🐕\n\nSin embargo, estos rasgos los hacen vulnerables a dos factores de estrés en interiores: la **ansiedad territorial** por limitaciones de espacio y la **enfermedad de las vías urinarias inferiores felinas (FLUTD)**. El manejo de estas condiciones requiere una atención diaria cuidadosa.\n\nHoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina de cuidado diario de 3 pasos.",
+    "whyTitle": "Lenguaje corporal felino: la máxima expresión de confianza",
+    "whyDesc": "Una de las mayores expresiones de confianza de un gato hacia su dueño es la **'cola vertical hacia arriba'** y el **'ronroneo'**. Acercarse con la cola erguida es una señal amistosa y de comunicación. Además, el ronroneo calma su mente. Tenga en cuenta que el ronroneo también puede ser una señal de autocuración por dolor. Si se esconde en un lugar oscuro y ronronea con expressão triste, controle su salud.",
+    "body_signals": [
+      {
+        "name": "Cola arriba",
+        "meaning": "Una expresión de fuerte amistad, comunicación positiva y alegría hacia el dueño.",
+        "response": "Responda con un contacto visual suave o una caricia suave en la barbilla para mejorar el vínculo."
+      },
+      {
+        "name": "Ronroneo",
+        "meaning": "Normalmente lo hacen cuando están felices, pero también puede ser una señal de autocuración para el dolor.",
+        "response": "Si ronronean mientras se esconden en rincones oscuros, verifique de cerca si están enfermos."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Inspección de espacio vertical y visualización de ventanas",
+        "text": "Con la ventilación matutina, suba las persianas cerca de las torres para gatos de las ventanas. Asegurar el espacio vertical y permitirles ver el exterior (Cat TV) proporciona estimulación mental y reduce drásticamente el estrés por encierro."
+      },
+      {
+        "name": "Tarde: Rutina de juego de caza simulada de 15 minutos",
+        "text": "Realice un juego de caza simulado con juguetes de varita durante 15 minutos una vez al día. Dado que los gatos son depredadores naturales, perseguir juguetes y experimentar el atrapamiento previene la frustración y aumenta la actividad física."
+      },
+      {
+        "name": "Noche: Control de hidratación y cepillado de relajación",
+        "text": "Cambie el agua de los tazones y mantenga al menos tres puntos de bebida en la casa para fomentar la hidratación. Antes de dormir, cepille suavemente las zonas de glándulas aromáticas como las mejillas y la barbilla."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué a los gatos les gusta subirse a lugares altos y estrechos?",
+        "answer": "Los gatos se sienten seguros y dominantes cuando vigilan su territorio desde las alturas. La falta de espacio vertical provoca estrés territorial."
+      },
+      {
+        "question": "¿Cuál es la mejor manera de prevenir la cistitis felina?",
+        "answer": "La clave es aumentar la hidratación. Coloque varios tazones de agua lejos de la comida y use fuentes de agua corriente."
+      }
+    ],
+    "tags": [
+      "Común Coreano",
+      "FLUTD",
+      "Cuidado de Hidratación",
+      "Cuidado de Gatos"
+    ]
+  },
+  "maine-coon-care": {
+    "title": "El gigante gentil Maine Coon: Cuidado de 3 pasos para su salud cardíaca y magnífico manto doble",
+    "description": "El gigante gentil Maine Coon. Descubra medidas de seguridad para la columna por su gran peso y una rutina de 3 pasos para la salud cardíaca y cuidado de su manto.",
+    "authority": "Guía de la Maine Coon Breeders & Fanciers Association (MCBFA) y protocolos de manejo de gatos grandes de AAFP",
+    "profile": {
+      "breed": "Maine Coon",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "14 ~ 16 horas (prefiere espacios amplios)",
+      "temperament": "Gentil, Muy Curioso, Amante del agua"
+    },
+    "intro": "Los Maine Coons son los 'gigantes gentiles' del mundo felino. Tienen colas tupidas y caras leoninas. Son dulces y les encanta jugar con agua. 🐈\n\nSin embargo, al pesar de 8 a 12 kg, sus articulaciones sufren mucha presión. También son propensos a la Cardiomiopatía Hipertrófica (HCM), un problema cardíaco hereditario. Controlar su respiración al dormir y usar cojines de impacto en sus saltos es fundamental.\n\nHoy, PetSelf descodifica las señales del Maine Coon e introduce una rutina de 3 pasos para proteger su corazón y cuidar su hermoso pelo.",
+    "whyTitle": "Lenguaje corporal del Maine Coon: Trinos amigables y cola bufada",
+    "whyDesc": "Los Maine Coons son sociables y les gusta comunicarse. Las señales clave incluyen el 'trino' y la 'cola bufada'. Un trino suave al acercarse es un saludo amistoso. Por el contrario, al asustarse por ruidos fuertes, su cola se infla por completo. Cuando vea esto, retire el factor de estrés y déjelo calmarse solo.",
+    "body_signals": [
+      {
+        "name": "Trino",
+        "meaning": "Una vocalización amistosa que muestra confianza y afecto, pidiendo atención.",
+        "response": "Responda con un tono cálido o acarícielo suavemente para corresponder."
+      },
+      {
+        "name": "Cola bufada o erizada",
+        "meaning": "Una respuesta de miedo involuntaria a ruidos u objetos repentinos, que indica alta alerta.",
+        "response": "Retire el factor de estrés. No fuerce el contacto; deje que se calme solo."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Control estricto de peso e hidratación para evitar HCM",
+        "text": "La HCM en el Maine Coon empeora con la obesidad. Pese su comida diariamente en una báscula para controlar las calorías y proporcione agua fresca."
+      },
+      {
+        "name": "Tarde: Cepillado completo con peine de metal y carda",
+        "text": "El pelo del cuello y las axilas se enreda fácilmente, causando dermatitis. Peine a fondo con peine de metal para soltar el subpelo."
+      },
+      {
+        "name": "Noche: Alfombras amortiguadoras y control de frecuencia respiratoria",
+        "text": "Su gran peso aumenta el impacto al saltar. Revise alfombras amortiguadoras. Controle la frecuencia respiratoria al dormir (menos de 30 por minuto)."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo debo manejar el alto riesgo de HCM en el Maine Coon?",
+        "answer": "Las ecocardiografías veterinarias periódicas son esenciales. Evite la obesidad con control de raciones. Si la respiración al dormir supera las 30 por minuto, acuda al veterinario de inmediato."
+      },
+      {
+        "question": "¿Qué pasa si cepillo a la fuerza el pelo enredado de mi Maine Coon?",
+        "answer": "Por su gran tamaño y fuerza, si asocian el aseo con dolor y se defienden, será muy difícil manejarlos. Use sprays desenredantes primero y cepille en sesiones cortas."
+      }
+    ],
+    "tags": [
+      "Maine Coon",
+      "Gato Gigante",
+      "Prevención de HCM",
+      "Manto Doble"
+    ]
+  },
+  "maltese-care": {
+    "title": "¿El maltés audaz? Una rutina protectora de 3 pasos para el cuidado articular y ocular",
+    "description": "El maltés, el perro más querido. Descubra consejos para prevenir la luxación patelar genéticamente vulnerable y una rutina diaria de 3 pasos para el control de las manchas de lágrimas.",
+    "authority": "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC",
+    "profile": {
+      "breed": "Maltés",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "12 ~ 14 horas (apegado al dueño)",
+      "temperament": "Vivaz, Afectuoso, Valiente"
+    },
+    "intro": "Los malteses, con su pelaje blanco y sedoso y tres puntos negros (ojos y nariz), son perros de compañía muy queridos en todo el mundo. Aunque son vivaces y afectuosos, expresan sus límites con claridad, lo que les ha valido una reputación de valientes. 🐕\n\nSin embargo, los dueños de malteses a menudo se preocupan por dos problemas genéticos: la **luxación patelar** (rótulas dislocadas) y las **manchas de lágrimas**, que causan rayas rojas y posibles infecciones en la piel. Los ajustes diarios en el estilo de vida son cruciales para controlar estas condiciones.\n\nHoy, PetSelf explora el lenguaje corporal del maltés e introduce una rutina de cuidado diario segura de 3 pasos para proteger sus articulaciones y ojos.",
+    "whyTitle": "Lenguaje corporal del maltés: señales de estrés y comodidad",
+    "whyDesc": "Al ser perros con alta dependencia de sus dueños, los malteses muestran silenciosamente su estado psicológico a través de gestos corporales. Las señales de calma típicas incluyen **'lamerse la nariz'** y **'bostezar'**. Al enfrentarse a un entorno tenso o desconocido, lamerse la nariz o bostezar no es por sueño; es un mensaje pacífico para calmarse a sí mismos y pedir a los demás que no los amenacen. Si los dueños continúan con un contacto excesivo, aumenta su estrés. Lo mejor es dar un paso atrás y darles espacio.",
+    "body_signals": [
+      {
+        "name": "Bostezar",
+        "meaning": "No es por sueño; es una señal de 'por favor, cálmate' para calmarse a sí mismos y a los demás.",
+        "response": "Si bostezan durante el entrenamiento o el aseo, deténgase inmediatamente y ofrezca un espacio tranquilo."
+      },
+      {
+        "name": "Lamerse la nariz",
+        "meaning": "Una expresión de autocalma cuando se sienten incómodos o ansiosos en su situación actual.",
+        "response": "Si se muestra al cargarlo o al acercarse extraños, detenga el contacto físico y déles espacio."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Control antideslizante y estiramiento articular",
+        "text": "Revise que las alfombras estén firmes. Cuando se estire por la mañana, masajee suavemente las articulaciones traseras. Asegúrese de recortar el pelo de las almohadillas."
+      },
+      {
+        "name": "Tarde: Higiene ocular diaria y cepillado",
+        "text": "Una vez al día, limpie la zona de los ojos con peines finos y soluciones limpiadoras. El pelo húmedo genera manchas rojas e infecciones; seque con algodón."
+      },
+      {
+        "name": "Noche: Suplemento articular y desensibilización al tacto",
+        "text": "Administre suplementos articulares. Toque las patas suavemente y premie de inmediato. Esto evita reacciones agresivas durante el corte de uñas o chequeos físicos."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué a los malteses no les gusta que les toquen las patas?",
+        "answer": "Los malteses son perros pequeños con nervios sensoriales muy desarrollados en sus patas, por lo que evitan el contacto de forma instintiva. Se recomienda el entrenamiento de desensibilización, tocando suavemente y premiando."
+      },
+      {
+        "question": "¿Las escaleras de seguridad previenen la luxación patelar por completo?",
+        "answer": "Aunque las escaleras reducen el impacto, los suelos resbaladizos y el pelo largo de las patas influyen mucho. Se deben recortar los pelos de las almohadillas y usar alfombras antideslizantes."
+      }
+    ],
+    "tags": [
+      "Maltés",
+      "Luxación Patelar",
+      "Manchas de Lágrimas",
+      "Cuidado de Perros"
+    ]
+  },
+  "persian-care": {
+    "title": "Cuidado del Gato Persa de Pelo Largo: Rutina de 3 pasos para el pelaje y las manchas de lágrimas",
+    "description": "Los gatos persas son conocidos por su elegante pelaje. Aprenda una rutina de 3 pasos para prevenir infecciones en la piel de la cara por lágrimas y evitar enredos.",
+    "authority": "Directrices de cría de CFA para Persas y normas veterinarias de AAFP",
+    "profile": {
+      "breed": "Gato Persa",
+      "lifespan": "12 ~ 17 años",
+      "sleep_pattern": "15 ~ 18 horas (prefiere lugares tranquilos y ventilados)",
+      "temperament": "Dócil, Silencioso, Independiente, Sensible"
+    },
+    "intro": "Con su espeso pelaje y cara plana, los gatos persas son conocidos por su naturaleza gentil y tranquila. Sin embargo, su estructura facial plana provoca un lagrimeo excesivo que puede derivar en infecciones. Su denso pelaje largo se enreda fácilmente, causando dolor. Hoy, PetSelf decodes sus señales de estrés ocular y del pelaje y proporciona una rutina de 3 pasos.",
+    "whyTitle": "Lenguaje corporal del gato Persa: señales silenciosas de ojos y orejas",
+    "whyDesc": "Dado que los Persas expresan sus emociones en silencio, detectar el estrés puede ser difícil. Muestran afecto a través de **'ojos semicerrados'**, pero las **'orejas de avión'** (orejas hacia los lados) indican incomodidad. Se observa comúnmente si el cepillado es brusco.",
+    "body_signals": [
+      {
+        "name": "Ojos semicerrados",
+        "meaning": "Mensaje pacífico de confianza en el dueño y un estado cómodo de satisfacción.",
+        "response": "Responda parpadeando lentamente y hablándoles con una voz suave y tranquila."
+      },
+      {
+        "name": "Orejas de avión",
+        "meaning": "Expresión de incomodidad por tirones de pelo durante el cepillado o tensión por el ruido ambiental.",
+        "response": "Detenga el cepillado de inmediato y dé espacio al gato en un lugar tranquilo."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Limpieza de pliegues faciales y control de lágrimas",
+        "text": "Por la mañana, limpie suavemente los pliegues faciales con gasa estéril y solución templada para prevenir dermatitis por levaduras."
+      },
+      {
+        "name": "Tarde: Cepillado doble con cepillo slicker y peine metálico",
+        "text": "Enfoque en áreas propensas a enredos como axilas y vientre. Use una carda primero y luego un peine de acero para alinear el pelo y ventilar la piel."
+      },
+      {
+        "name": "Noche: Suplemento para bolas de pelo y control del bebedero de fuente",
+        "text": "Administre pasta para bolas de pelo para evitar obstrucciones digestivas e inspeccione la fuente de agua para animarle a beber."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué saltarse el cepillado aunque sea unos días daña al Persa?",
+        "answer": "El pelo del Persa es fino y denso. Dejar de cepillar por 2-3 días causa enredos graves que tiran de la piel, causando dolor y obligando a rapar."
+      },
+      {
+        "question": "¿Por qué es crucial el cuidado de pliegues en gatos braquicéfalos?",
+        "answer": "Los gatos de cara plana tienen pliegues profundos. Las lágrimas atrapadas bloquean el oxígeno, facilitando infecciones bacterianas, mal olor e irritación."
+      }
+    ],
+    "tags": [
+      "Gato Persa",
+      "Aseo de Pelo Largo",
+      "Braquicéfalo",
+      "Lágrimas"
+    ]
+  },
+  "pomeranian-care": {
+    "title": "Protección de articulaciones y vías respiratorias del Pomerania: rutina de 3 pasos",
+    "description": "Los Pomeranias son propensos a la luxación patelar y al colapso traqueal. Descubra consejos para prevenir lesiones articulares y aliviar problemas respiratorios.",
+    "authority": "Guía oficial de razas del American Pomeranian Club y manual veterinario de la AVMA",
+    "profile": {
+      "breed": "Pomerania",
+      "lifespan": "12 ~ 16 años",
+      "sleep_pattern": "12 ~ 14 horas (prefiere dormir cerca de la almohada del dueño)",
+      "temperament": "Extrovertido, Inteligente, Vivaz"
+    },
+    "intro": "Los Pomeranias son perros toy muy populares por su pelaje esponjoso y su andar seguro. Son extrovertidos e inteligentes, pero su herencia cazadora los hace sensibles a los sonidos y propensos a ladrar. 🐕 Los dueños a menudo enfrentan dos problemas de salud: la **luxación patelar** y el **colapso traqueal** (que causa una tos similar al graznido de un ganso). Estas condiciones pueden empeorar en interiores resbaladizos. Hoy, PetSelf presenta una rutina de 3 pasos para proteger sus articulaciones y tráquea.",
+    "whyTitle": "Lenguaje corporal del Pomerania: distinguir el juego de la ansiedad",
+    "whyDesc": "Los Pomeranias son muy expresivos y cambian de emoción rápidamente. Las señales clave incluyen el **'saludo de juego'** y **'lamerse los labios'**. Cuando baja la parte delantera de su cuerpo y levanta las caderas, es una invitación a jugar. Sin embargo, si parece mover la cola pero se lame continuamente los labios, es un signo de ansiedad interna. Los dueños no deben confundir esto con entusiasmo.",
+    "body_signals": [
+      {
+        "name": "Saludo de juego",
+        "meaning": "Bajar la parte delantera y levantar las caderas, representando una invitación feliz para jugar.",
+        "response": "Responda alegremente lanzando un juguete o comenzando un juego suave de persecución."
+      },
+      {
+        "name": "Lamerse los labios",
+        "meaning": "No es por anticipar comida; es una señal de calma utilizada para controlar la ansiedad o el estrés.",
+        "response": "Si lo ve durante paseos, guíelo lejos del estímulo para garantizar su tranquilidad."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Mantenimiento antideslizante y prevención de saltos",
+        "text": "Asegúrese de que las alfombras antideslizantes estén bien colocadas. Enséñeles a usar escaleras para mascotas en lugar de saltar."
+      },
+      {
+        "name": "Tarde: Cepillado con cepillo de púas contra el pelo",
+        "text": "Use un cepillo de púas para cepillar suavemente desde la cola hacia la cabeza. Esto evita enredos y permite el flujo de aire en la piel."
+      },
+      {
+        "name": "Noche: Masaje de cuello y control de arnés para evitar tensión traqueal",
+        "text": "Para proteger su frágil tráquea, examine su arnés en forma de Y y evite por completo los collares. Masajee suavemente los lados del cuello."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué debo hacer si mi Pomerania hace un graznido de ganso al respirar?",
+        "answer": "Esto suele ser un síntoma de colapso traqueal. No se alarme; cargue al perro, acaricie su cuello o tape sus orificios nasales por 1 segundo para forzar la respiración nasal."
+      },
+      {
+        "question": "¿Se puede curar la luxación patelar solo con cuidados en casa?",
+        "answer": "Las etapas avanzadas (Grado 3 o 4) requieren cirugía. El cuidado en casa (control de peso, evitar resbalones y fortalecer músculos) sirve en etapas tempranas (Grado 1 o 2) para retrasar el progreso."
+      }
+    ],
+    "tags": [
+      "Pomerania",
+      "Cuidado de Rótula",
+      "Colapso Traqueal",
+      "Cepillado de Manto"
+    ]
+  },
+  "poodle-care": {
+    "title": "Juegos mentales y cuidado de oídos: una rutina de 3 pasos para el inteligente caniche",
+    "description": "Descubra cómo aliviar el aburrimiento en caniches inteligentes con juegos mentales y prevenir infecciones de oído con una rutina de 3 pasos.",
+    "authority": "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC",
+    "profile": {
+      "breed": "Caniche",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "12 ~ 14 horas (sincronizado con el dueño)",
+      "temperament": "Altamente Inteligente, Activo, Amigable"
+    },
+    "intro": "Los caniches son reconocidos como una de las razas de perros más inteligentes del mundo. Si bien son muy dóciles y sensibles a las emociones de sus dueños, pueden aburrirse y estresarse fácilmente debido a sus mentes activas. 🐩 Además, debido a que sus orejas caídas cubren el canal auditivo, son muy propensos a infecciones de oído crónicas debido a la mala ventilación. Hoy, PetSelf comparte consejos para mantener a su caniche mentalmente estimulado e introduce una rutina de cuidado de 3 pasos para mantener sus oídos limpios y saludables.",
+    "whyTitle": "Lenguaje corporal del caniche: distinguir la demanda del estrés",
+    "whyDesc": "Debido a su inteligencia, los caniches se comunican activamente mediante el lenguaje corporal. Las señales típicas incluyen **'levantar la pata'** y **'parpadear'**. Cuando un caniche levanta una pata delantera, parece una petición de un truco, pero a menudo es un mensaje que dice 'préstame atención' o una señal de calma que significa 'estoy un poco tenso, por favor sé amable'. Mirar suavemente y parpadear lentamente es su forma de mostrar confianza y afecto.",
+    "body_signals": [
+      {
+        "name": "Levantar la pata",
+        "meaning": "Una expresión que busca atención o intenta calmar una leve tensión o ansiedad.",
+        "response": "Si lo nota, evite dar órdenes enérgicas. Hable en un tono tranquilo y acarícielo suavemente."
+      },
+      {
+        "name": "Parpadear suavemente",
+        "meaning": "Una señal de profunda confianza y afecto, que confirma que se sienten seguros con usted.",
+        "response": "Cuando crucen miradas, parpadee lentamente para compartir y reforzar esa sensación de paz."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Alivio cognitivo con juguetes interactivos",
+        "text": "Además de los paseos físicos, use comederos interactivos o alfombras de olfato untuk estimular su mente activa, ayudándoles a canalizar el exceso de energía."
+      },
+      {
+        "name": "Tarde: Control de oídos y masaje suave de limpieza",
+        "text": "Coloque 2-3 gotas de limpiador de oídos en el canal, masajee suavemente la base de la oreja y limpie la cera disuelta con un disco de algodón para prevenir la otitis."
+      },
+      {
+        "name": "Noche: Cepillado slicker para evitar nudos en la piel",
+        "text": "Dado que el pelaje rizado del caniche se enreda fácilmente, cepille a diario con un cepillo slicker para eliminar el pelo muerto y permitir la ventilación de la piel."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Es normal que mi caniche sacuda la cabeza vigorosamente después de la limpieza de oídos?",
+        "answer": "Sí, es una reacción normal de autolimpieza. Ayuda a expulsar el limpiador con la suciedad del interior del oído. Simplemente limpie la parte exterior de la oreja con cuidado."
+      },
+      {
+        "question": "¿Cómo evito que mi caniche muerda los muebles?",
+        "answer": "A menudo muerden por aburrimiento debido a la falta de estimulación mental. En lugar de juguetes masticables comunes, introduzca rompecabezas y juegos interactivos."
+      }
+    ],
+    "tags": [
+      "Caniche",
+      "Juegos Mentales",
+      "Cuidado de Oídos",
+      "Cuidado de Perros"
+    ]
+  },
+  "ragdoll-care": {
+    "title": "¿Un gato que se abraza como un muñeco? Rutina de 3 pasos de sujeción segura y cuidado articular del Ragdoll",
+    "description": "Ragdolls, los gatos gigantes que se relajan como muñecos al cargarlos. Aprenda consejos para proteger sus articulaciones y una rutina de 3 pasos de sujeción segura.",
+    "authority": "Guía de razas de la Cat Fanciers' Association (CFA) y directrices de práctica amigable con los gatos de AAFP",
+    "profile": {
+      "breed": "Ragdoll",
+      "lifespan": "12 ~ 17 años",
+      "sleep_pattern": "12 ~ 14 horas (alta confianza en el dueño)",
+      "temperament": "Dócil, Tranquilo, Muy Social"
+    },
+    "intro": "Los Ragdolls son gatos grandes y peludos famosos por relajarse por completo como un muñeco de trapo al cargarlos. Con sus ojos azules, pelaje sedoso y temperamento dócil, a menudo son llamados 'gatos ángel'. 🐈\n\nSin embargo, al ser una raza grande que alcanza pesos de 7 a 10 kg, sus articulaciones inferiores soportan una carga pesada. Además, su postura relajada al cargarlos puede causar torsión en la columna si no se sostiene adecuadamente. Aprender técnicas correctas es esencial para su salud esquelética.\n\nHoy, PetSelf descodifica el lenguaje corporal del Ragdoll e introduce una rutina de cuidado diario de 3 pasos para proteger sus articulaciones.",
+    "whyTitle": "Señales de calma del Ragdoll: Parpadeos lentos y dedos relajados",
+    "whyDesc": "Los Ragdolls expresan su confianza no solo al relajarse, sino también a través de gestos con los ojos y las patas. Las señales clave incluyen 'parpadeos lentos' y 'dedos relajados'. Mirarle y parpadear lentamente es un mensaje de afecto. Cuando se sienten extremadamente felices, extienden los dedos de las patas como un abanico. Acariciar bajo su barbilla durante este momento maximiza su seguridad.",
+    "body_signals": [
+      {
+        "name": "Parpadeo lento",
+        "meaning": "Una señal de afecto, que muestra que confían en usted y se sienten seguros.",
+        "response": "Responda parpadeando lentamente para fortalecer su vínculo y confianza mutua."
+      },
+      {
+        "name": "Dedos relajados",
+        "meaning": "Indica comodidad y felicidad extrema, imitando la memoria de lactancia cuando era gatito.",
+        "response": "Siga acariciando suavemente bajo la barbilla para mantenerlos relajados."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Estiramiento ligero para la salud esquelética",
+        "text": "Al ser una raza grande, la fatiga se acumula en las articulaciones. Antes de que se muevan, estire suavemente sus patas traseras."
+      },
+      {
+        "name": "Tarde: Cepillado con peine de púas para evitar enredos",
+        "text": "El subpelo es muy suave y propenso a enredos. Cepille con peine de púas redondeadas para ventilar el pelo y evitar dermatitis y bolas de pelo."
+      },
+      {
+        "name": "Noche: Técnica de sujeción segura con soporte en la cadera",
+        "text": "Levantar solo la parte superior del cuerpo tuerce la columna. Sostenga siempre el pecho con una mano y la cadera con la otra."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿El hecho de que el Ragdoll se relaje significa que tiene huesos débiles?",
+        "answer": "No. Es un rasgo genético único del Ragdoll, en el cual relajan sus músculos cuando se sienten seguros y confían en quien los sostiene. No es un defecto físico."
+      },
+      {
+        "question": "¿Qué pasa si no sostengo la cadera de mi Ragdoll al cargarlo?",
+        "answer": "Al ser una raza grande, cargarlos solo por las axilas concentra su peso (a menudo más de 7kg) en la columna, elevando el riesgo de daño discal o luxación."
+      }
+    ],
+    "tags": [
+      "Ragdoll",
+      "Sujeción Segura",
+      "Cuidado Articular",
+      "Cuidado de Gatos"
+    ]
+  },
+  "russian-blue-care": {
+    "title": "Refugio seguro y generación de confianza: rutina de 3 pasos para el Azul Ruso",
+    "description": "Los Azules Rusos son tímidos y sensibles al ruido. Aprenda a crear una zona segura sin estrés y una rutina de 3 pasos para ganarse su confianza.",
+    "authority": "Guía de razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center",
+    "profile": {
+      "breed": "Azul Ruso",
+      "lifespan": "15 ~ 20 años",
+      "sleep_pattern": "15 ~ 18 horas (busca escondites silenciosos y altos)",
+      "temperament": "Reservado, Gentil, Muy Silencioso"
+    },
+    "intro": "Los Azules Rusos son felinos conocidos por su pelaje azul plateado y sus ojos verdes. Aunque son silenciosos y leales a su familia, son genéticamente tímidos y sensibles a los ruidos fuertes. 🐱 Es por eso que se esconden rápidamente cuando hay visitas o suena la aspiradora. Obligarlos a salir de sus escondites les causa pánico. Hoy, PetSelf detalla cómo crear un espacio seguro con una rutina de 3 pasos.",
+    "whyTitle": "Lenguaje corporal del Azul Ruso: lectura de las señales de pánico",
+    "whyDesc": "Debido a su naturaleza gentil, los Azules Rusos muestran señales de advertencia en silencio. Las señales clave incluyen **'pupilas dilatadas'** y **'encogerse'** (crouching). Si escucha un ruido o se acerca un extraño, sus pupilas se dilatan. Si aplasta su cuerpo contra el suelo y aplana las orejas hacia los lados, experimenta un miedo extremo y se prepara para huir.",
+    "body_signals": [
+      {
+        "name": "Pupilas dilatadas",
+        "meaning": "Una respuesta física que indica que están muy alertas, tensos o asustados.",
+        "response": "Atenúe las luces e interrumpa de inmediato la fuente de estimulación (ruido de electrodomésticos)."
+      },
+      {
+        "name": "Encogerse",
+        "meaning": "Una señal de pánico defensivo, que muestra que se sienten acorralados o aterrorizados.",
+        "response": "No lo obligue al contacto físico. Permítale retirarse a una habitación o armario silencioso."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Rutina de seguridad en arenero y comedero",
+        "text": "Limpie el arenero temprano. Asegúrese de que sus platos de comida y agua estén en un rincón tranquilo lejos del paso de la gente."
+      },
+      {
+        "name": "Tarde: Mantenimiento del refugio seguro en las alturas",
+        "text": "Confirme que su cubículo cerrado en el árbol rascador esté siempre accesible. Esto le da una salida elevada ante ruidos o visitas."
+      },
+      {
+        "name": "Noche: Olfateo de mano no intrusivo y contacto suave",
+        "text": "En lugar de acercarse directamente para cargarlo, extienda su dedo índice a su nivel. Deje que olfatee su mano primero para iniciar el contacto."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Debería forzar a mi Azul Ruso a salir de su escondite cuando hay visitas?",
+        "answer": "Bajo ningún concepto. Obligarlo a salir de su zona segura le causará pánico y dañará la confianza que le tiene. Déjelo allí hasta que se vayan las visitas."
+      },
+      {
+        "question": "¿Cuál es la forma más efectiva de ganarse a un Azul Ruso tímido?",
+        "answer": "Agáchese y evite mirarlo directamente a los ojos, ya que lo ven como amenaza. Deje que olfatee su dedo primero y premie su acercamiento con bocadillos."
+      }
+    ],
+    "tags": [
+      "Azul Ruso",
+      "Temperamento Tímido",
+      "Escondites Seguros",
+      "Cuidado de Gatos"
+    ]
+  },
+  "scottish-fold-care": {
+    "title": "El problema genético detrás de la ternura: Cuidado de 3 pasos para las articulaciones y oídos del Scottish Fold",
+    "description": "Scottish Folds, famosos por sus orejas caídas. Son propensos a dolor articular genético e infecciones de oído. Descubra una rutina de 3 pasos para las articulaciones y oídos.",
+    "authority": "Protocolo de cartílago hereditario de la ISFM (International Society of Feline Medicine) y directrices de GCCF",
+    "profile": {
+      "breed": "Scottish Fold",
+      "lifespan": "11 ~ 15 años",
+      "sleep_pattern": "15 ~ 18 horas (prefiere camas acolchadas)",
+      "temperament": "Tranquilo, Dulce, Cariñoso"
+    },
+    "intro": "Los Scottish Folds cautivan corazones con sus orejas dobladas y apariencia de búho. Tienen una naturaleza dulce y disfrutan de la compañía tranquila de sus dueños. 🐈\n\nSin embargo, el gen de sus orejas dobladas también causa Osteocondrodiplasia (enfermedad hereditaria del cartílago). Esto endurece el cartílago de sus articulaciones, provocando dolor crónico. Además, sus orejas dobladas restringen el flujo de aire, lo que facilita infecciones.\n\nHoy, PetSelf decodifica las señales de dolor del Scottish Fold e introduce una rutina de 3 pasos para proteger sus articulaciones y oídos.",
+    "whyTitle": "Lenguaje corporal del Fold: Posición de Buda y cola oculta",
+    "whyDesc": "Los Scottish Folds usan posturas únicas para manejar el dolor articular. Las señales clave incluyen la 'posición de Buda' y la 'cola oculta'. Sentarse con las patas estiradas (posición de Buda) es una postura para aliviar la presión del peso. Ocultar la cola entre las patas advierte de dolor en la cola. Evite tocar su parte trasera cuando vea esto.",
+    "body_signals": [
+      {
+        "name": "Posición de Buda",
+        "meaning": "Una postura instintiva para dispersar el peso y reducir el dolor del cartílago.",
+        "response": "No les obligue a cambiar de postura. Coloque un cojín suave detrás para apoyar su espalda."
+      },
+      {
+        "name": "Cola oculta o caigunda",
+        "meaning": "Una señal defensiva que muestra que las articulaciones de la cola están rígidas o doloridas.",
+        "response": "Deje de tocar la cola o la espalda baja inmediatamente y llévelo a un cojín cómodo."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Análisis de marcha y suplementos de cartílago",
+        "text": "Observe su marcha durante 30 segundos al despertar. Administre suplementos articulares (glucosamina, MSM) con la comida de la mañana."
+      },
+      {
+        "name": "Tarde: Inspección del canal auditivo y limpieza semanal",
+        "text": "Las orejas dobladas acumulan humedad. No use bastoncillos de algodón. Aplique limpiador de oídos, masajee y limpie el residuo exterior con algodón."
+      },
+      {
+        "name": "Noche: Alfombras amortiguadoras de impacto y juego moderado",
+        "text": "Saltar causa dolor de cartílago. Coloque alfombras amortiguadoras y juegue a ras de suelo para evitar saltos o giros bruscos."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿La 'posición de Buda' de un Scottish Fold es señal de dolor?",
+        "answer": "Sí. Sentarse sobre los glúteos con las patas extendidas es una respuesta instintiva para dispersar el peso corporal, aliviando la presión y el dolor en las articulaciones rígidas."
+      },
+      {
+        "question": "¿Por qué no se deben usar bastoncillos para limpiar los oídos del Fold?",
+        "answer": "Debido a su oreja doblada, el canal es estrecho y curvo. Los bastoncillos pueden empujar la suciedad hacia adentro y dañar la piel sensible, causando infecciones."
+      }
+    ],
+    "tags": [
+      "Scottish Fold",
+      "Osteocondrodiplasia",
+      "Limpieza de Oídos",
+      "Articulaciones"
+    ]
+  },
+  "shiba-care": {
+    "title": "Independencia del Shiba Inu y cuidado del manto doble: rutina de 3 pasos",
+    "description": "El Shiba Inu es muy independiente y sensible al tacto. Aprenda técnicas de cepillado para su manto doble y una rutina de 3 pasos para un contacto sin estrés.",
+    "authority": "Club Nacional del Shiba Inu de América y directrices de modificación de conducta de IAABC",
+    "profile": {
+      "breed": "Shiba Inu",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "12 ~ 14 horas (orientado al espacio personal)",
+      "temperament": "Independiente, Alerta, Audaz"
+    },
+    "intro": "Los Shiba Inus son amados globalmente por su aspecto de zorro y su cola rizada. Sin embargo, poseen una independencia similar a la de los gatos, una fuerte voluntad y una naturaleza alerta. 🐕 Son notablemente sensibles a que les toquen las patas, las orejas o la cola. Si se les obliga a acicalarse o cortarse las uñas, suelen emitir un 'grito Shiba' en señal de protesta. Además, tienen un manto doble grueso que se desprende mucho. Hoy, PetSelf explora cómo respetar los límites de su Shiba con una rutina de 3 pasos.",
+    "whyTitle": "Lenguaje corporal del Shiba Inu: señales de presión y alivio de tensión",
+    "whyDesc": "Los Shiba Inus expresan sus límites de forma clara y silenciosa. Las señales clave incluyen **'evitar la mirada'** y **'sacudirse'**. Cuando una persona se acerca para tocarlos y el Shiba aparta la cabeza, es una petición cortés de 'por favor no me toques ahora'. Del mismo modo, sacudir todo el cuerpo después de un evento estresante es un mecanismo instintivo para liberar la tensión física y reiniciar su estado psicológico.",
+    "body_signals": [
+      {
+        "name": "Evitar la mirada",
+        "meaning": "Una petición cortés que pide al observador que deje de acercarse o tocarlo, expresando presión.",
+        "response": "Si ve esto, no intente tocarlo. Retire la mano y déle espacio."
+      },
+      {
+        "name": "Sacudirse",
+        "meaning": "Una acción destinada a sacudirse el estrés o la tensión física experimentados recientemente.",
+        "response": "Si se sacuden durante el acicalamiento, están liberando tensión. Detenga la actividad y déjelos descansar."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Desensibilización al tacto en zonas sensibles",
+        "text": "Toque sus patas o caderas brevemente por 1 segundo, luego premie de inmediato con un bocadillo. Repita para crear asociaciones positivas con el tacto."
+      },
+      {
+        "name": "Tarde: Cepillado de bajo estrés para el manto doble",
+        "text": "Use un cepillo slicker para cepillar suavemente en la dirección del crecimiento del pelo. Si muestra algún signo de incomodidad o gruñe, deténgase de inmediato."
+      },
+      {
+        "name": "Noche: Respetar la zona segura independiente",
+        "text": "Cuando su Shiba se retire a su transportín o rincón seguro para descansar, no lo obligue a salir ni lo acaricie. Permítale descansar en total soledad."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué mi Shiba Inu grita durante el acicalamiento?",
+        "answer": "Esto se conoce como el 'Grito Shiba'. Es una expresión de miedo y presión genuinos, no solo una actuación. Detenga la actividad y reinicie el entrenamiento desde el nivel básico."
+      },
+      {
+        "question": "¿Por qué mi Shiba Inu no es tan cariñoso o inquieto como otros perros?",
+        "answer": "Los Shibas son naturalmente similares a los gatos y valoran su espacio. Que no muevan la cola con entusiasmo no significa que no lo quieran; estar acostados cerca de usted es su forma de mostrar afecto."
+      }
+    ],
+    "tags": [
+      "Shiba Inu",
+      "Manto Doble",
+      "Socialización",
+      "Cuidado de Perros"
+    ]
+  },
+  "siamese-care": {
+    "title": "Cuidado de la ansiedad y actividad del Siamés: rutina de 3 pasos",
+    "description": "Los gatos siameses dependen mucho de sus dueños. Descubra consejos para fortalecer el vínculo emocional y una rutina de juego activo de 3 pasos.",
+    "authority": "Guía oficial de la Cat Fanciers' Association (CFA) y protocolos de conducta felina de la AAFP",
+    "profile": {
+      "breed": "Siamés",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "14 ~ 16 horas (prefiere dormir apegado bajo mantas)",
+      "temperament": "Afectuoso, Vocal, Muy Inteligente"
+    },
+    "intro": "Los gatos siameses, originarios de la realeza tailandesa, son elegantes felinos conocidos por sus puntos de contraste en orejas, cara y patas. Conocidos por su temperamento sociable, son muy vocales. 🐱 Sin embargo, este apego extremo los hace vulnerables a la ansiedad por separación. Si se quedan solos mucho tiempo, sufren angustia que se manifiesta en maullidos continuos o arañazos destructivos. Hoy, PetSelf presenta una rutina de 3 pasos para mantenerlos emocionalmente estables.",
+    "whyTitle": "Lenguaje corporal del Siamés: señales de confianza y posesividad",
+    "whyDesc": "Los siameses muestran su afecto de forma clara e interactiva. Las señales típicas incluyen el **'parpadeo lento'** y el **'frotamiento de cabeza'** (bunting). Cerrar los ojos lentamente es una declaración de seguridad y paz. Frotar sus mejillas contra su mano es su forma de compartir feromonas reconfortantes y marcarlo como su persona de confianza.",
+    "body_signals": [
+      {
+        "name": "Parpadeo lento",
+        "meaning": "Una muestra de completa seguridad y profundo afecto, a menudo descrita como un beso felino.",
+        "response": "Cruce la mirada y parpadee lentamente por 1.5 segundos para responder al gesto."
+      },
+      {
+        "name": "Frotamiento de cabeza",
+        "meaning": "Una acción que deja su olor (feromonas) para marcarlo como su persona segura.",
+        "response": "Acaricie su barbilla o mejillas, permitiéndoles intercambiar olores con gusto."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Saludo de 10 minutos de alto contacto para la ansiedad",
+        "text": "Para aliviar la ansiedad por separación, pase 10 minutos acariciando a su siamés y hablándole suavemente en la cama justo después de despertarse."
+      },
+      {
+        "name": "Tarde: Juego interactivo y rompecabezas de comida",
+        "text": "Manténgalo ocupado durante el día con rompecabezas de comida. Al volver a casa, dedique al menos 15 minutos a juegos interactivos con plumas."
+      },
+      {
+        "name": "Noche: Cama cálida para evitar el enfriamiento corporal",
+        "text": "Dado que los siameses son de pelo corto y poca grasa corporal, se enfrían fácilmente. Mantenga la casa cálida y ofrezca una cama tipo domo acolchada."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué mi siamés maúlla constantemente por la noche?",
+        "answer": "Es un rasgo natural de la raza. Suelen maullar para comunicar aburrimiento. Evite responder a sus maullidos nocturnos y aumente el juego durante el día para cansarlos."
+      },
+      {
+        "question": "¿Cómo reduzco la ansiedad por separación de mi siamés cuando salgo?",
+        "answer": "Prepare rompecabezas de comida antes de irse. Evite las despedidas efusivas al menos 10 minutos antes de salir, ya que esto puede empeorar su ansiedad."
+      }
+    ],
+    "tags": [
+      "Siamés",
+      "Ansiedad por Separación",
+      "Gatos Vocales",
+      "Juego de Gatos"
+    ]
+  }
+}
