@@ -310,4 +310,21 @@ describe('다국어 치환 헬퍼 함수(useTranslations) 단위 테스트', () 
   });
 });
 
+// ========================================================
+describe('블로그 콘텐츠 전체 무결성 정밀 Linter 테스트', () => {
+  it('모든 마크다운 포스트의 이미지, JSON-LD, 미번역 한글 누출, 깨진 내부 링크가 존재하지 않아야 한다', () => {
+    const { execSync } = require('child_process');
+    const path = require('path');
+
+    try {
+      const scriptPath = path.join(__dirname, '../src/check_blog_integrity.js');
+      const output = execSync(`node ${scriptPath}`, { stdio: 'pipe' }).toString();
+      expect(output).toContain('[블로그 무결성 검증 완료]');
+    } catch (err: any) {
+      const errMsg = err.stdout ? err.stdout.toString() : err.message;
+      throw new Error(`[Linter 검증 실패]\n${errMsg}`);
+    }
+  });
+});
+
 
