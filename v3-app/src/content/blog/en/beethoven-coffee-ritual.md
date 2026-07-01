@@ -15,6 +15,9 @@ steps:
     text: "During the 5 minutes of preparing tea or counting beans, do not look at your smartphone screen and block verbal stimuli like news or conversation. Focus solely on physical sensations: the touch of the beans, the vibration of grinding, the sound of boiling water, and the aroma."
   - name: "Start focus mode while drinking slowly"
     text: "Savor the prepared coffee or tea slowly. Maintain this calm brain state and immediately enter your first important task. Repeating this ritual at the same time every morning conditions the brain to recognize the coffee taste as a focus trigger."
+faqs:
+  - question: "Why did Beethoven insist on 60 coffee beans?"
+    answer: "Through the repetitive act of counting 60 beans, he gathered cognitive energy to use as a trigger signal for deep work."
 ---
 
 Ludwig van Beethoven, one of the greatest composers in Western music history who overcame the fatal ordeal of hearing loss and created the greatest melodies in human history such as the 'Fate Symphony' and the 'Choral Symphony.' Did you know the unique ritual he performed every morning before starting to compose? It was a precise coffee ritual of counting exactly '60 beans.' Beethoven was very sensitive to the taste and aroma of coffee and insisted on the perfect ratio. He used a glass siphon to extract coffee, counting exactly 60 raw beans by hand every morning. Even when guests visited, he strictly adhered to this rule. Counting these 60 beans was a sacred morning entryway for him to shut out distracting external noises and quietly enter his inner musical world. Today, BuildSelf shares the scientific secrets of Beethoven's coffee ritual and how to design a morning ritual to maximize your focus.
@@ -59,6 +62,9 @@ Focusing on precise physical actions like counting small coffee beans is an exce
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     During the 5 minutes of preparing tea or counting beans, do not look at your smartphone screen and block verbal stimuli like news or conversation. Focus solely on physical sensations: the touch of the beans, the vibration of grinding, the sound of boiling water, and the aroma.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="Completely block external stimuli for 5 minutes of preparation" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Focusing on precise physical actions like counting small coffee beans is an exce
       If you rush to get ready in the morning, your brain remains cluttered throughout the day. Like Beethoven, stick to a precise morning ritual of focusing on your senses for just 5 minutes. A day started with a calm, synchronized brain has a completely different depth of concentration.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why did Beethoven insist on 60 coffee beans?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Through the repetitive act of counting 60 beans, he gathered cognitive energy to use as a trigger signal for deep work.
+    </p>
+  </details>
 </div>

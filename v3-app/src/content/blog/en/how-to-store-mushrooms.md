@@ -14,6 +14,11 @@ steps:
     text: "Storing mushrooms in a plastic bag traps moisture from their respiration, causing condensation and fast decay. Wrap them in paper towels or place them in a brown paper bag which absorbs excess moisture."
   - name: "Store on a middle shelf without pressure — Refrigerated Storage (3Days)"
     text: "Mushrooms have delicate structures. If crushed under heavy food items, their cell walls break down, causing them to turn black and rot. Place them gently on refrigerator shelves or on top of other vegetables."
+faqs:
+  - question: "Why should mushrooms never be washed before storage?"
+    answer: "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
+  - question: "My mushrooms are slimy and smell slightly sour. Are they safe?"
+    answer: "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
 ---
 
 Do you wash mushrooms with water before cooking? This common habit ruins their unique flavor and texture while accelerating rot. Today, StoreSelf shares professional mushroom storage and cleaning tips.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Mushrooms have porous structures and absorb water like a sponge. Washing them before storage ruins their firm texture and unique aroma. Simply brush off dirt right before cooking.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/mushrooms_storage_detail.png" alt="Never wash mushrooms before storing — Avoid water absorption ❌💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       Mushrooms continuously release moisture. Wrapping them in paper towels absorbs excess condensation and prevents spoilage.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why should mushrooms never be washed before storage?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>My mushrooms are slimy and smell slightly sour. Are they safe?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately.
+    </p>
+  </details>
 </div>

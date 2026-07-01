@@ -14,6 +14,9 @@ steps:
     text: "Keep a paper planner, a wall chart, or a simple spreadsheet to write down the exact numbers every single day. Make sure to record even on the days you did not perform well; honesty is crucial."
   - name: "Focus on the act of recording itself"
     text: "Do not judge your productivity based on a single day's low numbers. The act of recording itself builds self-awareness and maintains the momentum needed to start again the next day."
+faqs:
+  - question: "Why did Hemingway record his word count daily?"
+    answer: "To objectively visualize writing progress, preventing slumps and forcing a regular flow of creative productivity without self-deception."
 ---
 
 Ernest Hemingway, a master of modern American literature who won both the Nobel Prize and the Pulitzer Prize. Known for his minimalist, hard-boiled writing style, his daily discipline was equally legendary. He started writing early in the morning and, at the end of each session, counted and recorded his daily word count on a large chart on the wall. Today, BuildSelf explores the scientific reasons behind Hemingway's progress tracking and how you can apply self-monitoring to maintain daily momentum.
@@ -58,6 +61,9 @@ Tracking your progress quantitatively triggers a cognitive process known in psyc
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Keep a paper planner, a wall chart, or a simple spreadsheet to write down the exact numbers every single day. Make sure to record even on the days you did not perform well; honesty is crucial.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/hemingway_word_count_relax_detail.png" alt="Record the numbers honestly on a visual chart" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Tracking your progress quantitatively triggers a cognitive process known in psyc
       Vague efforts lead to vague results. When you start tracking your actions with exact numbers, your brain gains objective self-awareness. Even on days when your numbers are low, the simple act of writing them down preserves your connection to the habit and prevents you from giving up. Track your progress daily and let the numbers guide your consistency.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why did Hemingway record his word count daily?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      To objectively visualize writing progress, preventing slumps and forcing a regular flow of creative productivity without self-deception.
+    </p>
+  </details>
 </div>

@@ -71,7 +71,7 @@ El violín de Einstein era una herramienta para un perfecto **'cambio cognitivo 
     Pruebe a tocar un instrumento de mano ligero (kalimba, flauta dulce, ukelele o incluso tambores de dedos) a su alrededor durante 5 minutos. Si no dispone de un instrumento, reproduzca un tema instrumental clásico o de jazz con los ojos cerrados, concentre todos los sentidos en el fluir de la melodía y el compás, y marque ligeramente el ritmo con los dedos.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/einstein_violin_relax.png" alt="Ritual de 5 Minutos de Escucha y Enfoque en el Ritmo" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/einstein_violin_thinking_relax_detail.png" alt="Ritual de 5 Minutos de Escucha y Enfoque en el Ritmo" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

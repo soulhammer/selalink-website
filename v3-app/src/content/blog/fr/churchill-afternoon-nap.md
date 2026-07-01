@@ -15,6 +15,9 @@ steps:
     text: "Installez-vous confortablement et utilisez un masque ou des bouchons d'oreilles. Même si vous ne vous endormez pas profondément, le simple fait de fermer les yeux et de bloquer la lumière met le cortex visuel au repos, réduisant la fatigue."
   - name: "Se réveiller immédiatement lorsque l'alarme retentit"
     text: "Lorsque l'alarme de 20 minutes retentit, surmontez la tentation de rester allongé et levez-vous immédiatement. Buvez un verre d'eau fraîche pour réveiller vos sens et étirez-vous légèrement. Reprenez votre travail l'esprit frais."
+faqs:
+  - question: "Quel était l'effet de la sieste de Churchill pendant la guerre ?"
+    answer: "Avec une sieste profonde, il divisait sa journée en deux périodes actives indépendantes pour supporter la charge des décisions."
 ---
 
 Winston Churchill, le Premier ministre britannique pendant la Seconde Guerre mondiale qui a mené la lutte contre l'Allemagne pour assurer la victoire finale des Alliés. Comment était-il capable de maintenir sa vigilance mentale maximale sans s'épuiser sous les tâches étatiques de plus de 18 heures par jour ? Le secret résidait dans une routine de sieste très singulière qu'il faisait chaque après-midi. Chaque après-midi, entre 14h00 et 14h30, Churchill interrompait tous les rapports et allait dans sa chambre, se déshabillait complètement et faisait une sieste profonde de 1 à 2 heures. Aujourd'hui, BuildSelf partage la vérité neuroscientifique derrière la sieste de Churchill.
@@ -59,6 +62,9 @@ Lorsque nous sommes éveillés, une substance de fatigue appelée adénosine s'a
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Installez-vous confortablement et utilisez un masque ou des bouchons d'oreilles. Même si vous ne vous endormez pas profondément, le simple fait de fermer les yeux et de bloquer la lumière met le cortex visuel au repos, réduisant la fatigue.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/churchill_afternoon_nap_relax_detail.png" alt="Bloquer les informations visuelles et fermer les yeux" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Lorsque nous sommes éveillés, une substance de fatigue appelée adénosine s'a
       Rester assis sans concentration l'après-midi réduit grandement la productivité. Plutôt que de forcer, rechargez vos batteries avec une sieste de 20 minutes comme Churchill. Votre cerveau sera optimisé, vous permettant de vous investir pour le reste de la journée.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Quel était l'effet de la sieste de Churchill pendant la guerre ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Avec une sieste profonde, il divisait sa journée en deux périodes actives indépendantes pour supporter la charge des décisions.
+    </p>
+  </details>
 </div>

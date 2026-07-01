@@ -14,6 +14,11 @@ steps:
     text: "トマトのヘタ部分は, 最もカビが発生しやすい場所です。ヘタを取ってから保存すると, トマト同士がぶつかって傷つくのを防ぐだけでなく, カビが発生するリスクを大幅に下げて保存性を高めます。"
   - name: "完熟トマトのみ新聞紙で包み、冷蔵庫の野菜室に保管 — 冷蔵保存 (7日間)"
     text: "完全に赤く熟したトマトだけを新聞紙やラップで1個ずつ包み, 冷蔵庫の野菜室（5〜10℃）に保存します。冷気による水分の蒸発と乾燥を防ぎ, 数日間は新鮮なまま食べられます。"
+faqs:
+  - question: "トマトを絶対に冷蔵庫に入れてはいけない理由は何ですか？"
+    answer: "トマトを12度以下の低温で保存すると、香り成分の 生成が止まり、細胞膜が破壊されて食感が悪くなり糖度も低下します。常温の日陰が最も適しています。"
+  - question: "完熟した赤いトマトも常温でいいですか？"
+    answer: "いいえ、完熟したトマトは常温ではすぐに傷みます。完熟トマトは新聞紙等で包んで野菜室に入れ、3日以内に消費してください。"
 ---
 
 トマトを冷蔵庫に保存すると、本来の美味しさや香りが損なわれてしまうのをご存知ですか？12℃以下の冷たい温度ではトマトの細胞膜が破壊され、皮がブヨブヨになり味が落ちてしまいます。正しい保存方法をご紹介します。
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      公認の科学的保管基準
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>農村振興庁(RDA) & 米国農務省(USDA) & CDC</strong>.
@@ -48,6 +53,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     緑色が残る未熟なトマトは, 15〜20℃の常温の日陰でヘタを上に向けて置き, 自然に追熟させます。未完熟のトマトを冷蔵庫に入れると追熟が止まり, 皮がしわしわになって味が落ちてしまいます。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tomatoes_storage_detail.png" alt="完熟前は必ず常温の日陰で保存する — 常温保存 (7日間) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ steps:
       ヘタの周辺は最も柔らかく、自重による負荷で傷みやすいです。逆さまに置くことで、重みによる潰れやカビを防ぎます。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>トマトを絶対に冷蔵庫に入れてはいけない理由は何ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      トマトを12度以下の低温で保存すると、香り成分の 生成が止まり、細胞膜が破壊されて食感が悪くなり糖度も低下します。常温の日陰が最も適しています。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>完熟した赤いトマトも常温でいいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      いいえ、完熟したトマトは常温ではすぐに傷みます。完熟トマトは新聞紙等で包んで野菜室に入れ、3日以内に消費してください。
+    </p>
+  </details>
 </div>

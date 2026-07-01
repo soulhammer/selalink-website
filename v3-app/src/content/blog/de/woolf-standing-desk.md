@@ -15,6 +15,9 @@ steps:
     text: "Erledigen Sie im Stehen anspruchsvolle Aufgaben, die höchste Logik und Konzentration erfordern, wie das Schreiben von Konzepten oder Berichten, anstatt nur E-Mails zu checken. Die leichte körperliche Spannung erhöht die Verarbeitungsgeschwindigkeit des Gehirns."
   - name: "Das Gewicht gleichmäßig verteilen und auf eine gute Haltung achten"
     text: "Vermeiden Sie es, das Gewicht nur auf ein Bein zu verlagern. Stehen Sie gleichmäßig auf beiden Füßen. Halten Sie Schultern und Brust geöffnet, stellen Sie den Monitor auf Augenhöhe ein und machen Sie nach 30–50 Minuten Fokus 10 Minuten Pause im Sitzen."
+faqs:
+  - question: "Warum schrieb Virginia Woolf im Stehen?"
+    answer: "Inspiriert von ihrer malenden Schwester nutzte sie ein Stehpult, um sich künstlerisch auf Augenhöhe zu fühlen."
 ---
 
 Virginia Woolf gilt als Pioneerin der modernistischen Literatur des 20. Jahrhunderts und hinterließ Meisterwerke wie 'Mrs. Dalloway' und 'Zum Leuchtturm'. Wie gelang es ihr, die inneren Welten und komplexen Seelenzustände ihrer Figuren in so raffinierten Sätzen darzustellen? Hinter ihrer erstaunlichen Konzentration steckte eine einzigartige Arbeitsgewohnheit. Jeden Morgen stand Woolf vor einem über einen meter hehen, geneigten Stehpult, um zu schreiben. Diese Schreibroutine war von der Arbeitsweise ihrer Schwester Vanessa Bell inspiriert, einer hervorragenden Malerin. Fasziniert davon, wie ihre Schwester vor der Staffelei stand und ihren ganzen Körper zum Malen einsetzte, dachte Woolf, dass auch sie im Stehen schreiben müsse. Heute stellt BuildSelf die wissenschaftlichen Vorteile von Woolfs Steh-Routine vor.
@@ -59,6 +62,9 @@ Langes Sitzen schadet nicht nur der Gesundheit, sondern schwächt auch die Konze
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Erledigen Sie im Stehen anspruchsvolle Aufgaben, die höchste Logik und Konzentration erfordern, wie das Schreiben von Konzepten oder Berichten, anstatt nur E-Mails zu checken. Die leichte körperliche Spannung erhöht die Verarbeitungsgeschwindigkeit des Gehirns.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="Die anspruchsvollsten und kreativsten Aufgaben einplanen" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Langes Sitzen schadet nicht nur der Gesundheit, sondern schwächt auch die Konze
       Moderne Menschen verbringen den größten Teil ihres Arbeitstages im Sitzen. Sobald Sie sich morgens an den Schreibtisch setzen, verwechselt das Gehirn dies leicht mit einer Ruhephase. Wenn Sie morgens wie Virginia Woolf eine 30-minütige Steh-Routine einführen, können Sie Herz-Kreislauf-System und Gehirn sofort aktivieren. Steigern Sie Ihre Stehzeit jeden Tag.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Warum schrieb Virginia Woolf im Stehen?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Inspiriert von ihrer malenden Schwester nutzte sie ein Stehpult, um sich künstlerisch auf Augenhöhe zu fühlen.
+    </p>
+  </details>
 </div>

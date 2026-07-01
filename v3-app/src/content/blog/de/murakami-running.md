@@ -15,6 +15,9 @@ steps:
     text: "Sie müssen nicht sofort 10 km laufen. Beginnen Sie damit, zu einer festen Zeit (z. B. nach der Arbeit um 20 Uhr) 20–30 Minuten locker zu laufen, und steigern Sie die distanz allmählich. Der Schlüssel ist nicht die Geschwindigkeit, sondern ein regelmäßiger Rhythmus."
   - name: "Das Laufen als Zeit für den inneren Dialog nutzen"
     text: "Checken Sie beim Laufen keine Nachrichten oder E-Mails auf dem Smartphone. Konzentrieren Sie sich nur auf Ihren Atemrhythmus und das Gefühl, wie Ihre Füße den Boden berühren. Dieses achtsame Laufen ist das beste mentale Detoxing für einen klaren Kopf."
+faqs:
+  - question: "Warum läuft Murakami jeden Tag 10 km?"
+    answer: "Um die Konzentration beim Schreiben aufrechtzuerhalten, stimuliert er die Gehirnzellen durch Ausdauersport."
 ---
 
 Haruki Murakami ist ein Gigant der modernen japanischen Literatur, der mit jedem seiner Werke weltweites Aufsehen erregt. Er ist nicht nur Schriftsteller, sondern auch ein leidenschaftlicher Läufer, der seit über 40 Jahren jedes Jahr einen Marathon läuft. Als er 1982 hauptberuflicher Autor wurde, bemerkte er durch das ständige Sitzen einen Mangel an Ausdauer und eine Gewichtszunahme. Er erkannte, dass ein Schriftsteller für langfristige Kreativität nicht nur Talent, sondern auch eine starke körperliche Fitness benötigt, um die Konzentration aufrechtzuerhalten. Er gab das Rauchen auf und begann jeden Morgen 10 km zu laufen oder 1.500 m zu schwimmen. Diese Routine behält er überall auf der Welt bei. Heute untersucht BuildSelf die wissenschaftlichen Gründe für Murakamis Laufroutine und wie Sie Ihre eigene Ausdauer aufbauen können.
@@ -59,6 +62,9 @@ Das Schreiben eines Romans verbraucht extrem viel geistige Energie. Murakami tra
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Sie müssen nicht sofort 10 km laufen. Beginnen Sie damit, zu einer festen Zeit (z. B. nach der Arbeit um 20 Uhr) 20–30 Minuten locker zu laufen, und steigern Sie die distanz allmählich. Der Schlüssel ist nicht die Geschwindigkeit, sondern ein regelmäßiger Rhythmus.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/murakami_running_relax_detail.png" alt="Konzentration auf Regelmäßigkeit statt auf Distanz" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Das Schreiben eines Romans verbraucht extrem viel geistige Energie. Murakami tra
       Einfache körperliche Aktivitäten, die täglich wiederholt werden, festigen sich als 'automatisierte Routinen', die keine Willenskraft kosten. Sobald dieser Rhythmus im Gehirn verankert ist, bildet er einen Schutzschild gegen extreme mentale Belastungen bei der Arbeit. Machen Sie regelmäßigen Sport zu einer Priorität in Ihrem Leben und behalten Sie den Rhythmus bei, genau wie Murakami.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Warum läuft Murakami jeden Tag 10 km?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Um die Konzentration beim Schreiben aufrechtzuerhalten, stimuliert er die Gehirnzellen durch Ausdauersport.
+    </p>
+  </details>
 </div>

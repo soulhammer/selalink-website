@@ -15,6 +15,9 @@ steps:
     text: ""
   - name: "Externaliza el subconsciente de inmediato"
     text: ""
+faqs:
+  - question: "¿Por qué Dalí sostenía una cuchara durante las siestas?"
+    answer: "Al relajarse sus músculos al dormir, la cuchara caía sobre un plato, despertándolo para capturar de inmediato inspiraciones surrealistas."
 ---
 
 Salvador Dalí, un gigante del arte surrealista y una de las mentes creativas más grandes del siglo XX. ¿De dónde venía la inspiración tan extraña y caprichosa de sus obras? Cuando Dalí se enfrentaba a bloqueos creativos o fatiga mental, se sentaba cómodamente en una silla de madera y sostenía ligeramente una cuchara de metal en una mano, colocando un plato de metal directamente en el suelo debajo. Hoy, BuildSelf analiza la ciencia detrás de la siesta de la cuchara.
@@ -87,4 +90,22 @@ La fase de transición al sueño activa la 'Hipnagogia', un estado rico en ondas
       La siesta de la cuchara de Dalí era un mecanismo elegante para vincular el subconsciente al arte. Cuando esté bloqueado, en lugar de forzar la lógica, regale a su cerebro 5 minutos para liberar el control consciente.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué Dalí sostenía una cuchara durante las siestas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Al relajarse sus músculos al dormir, la cuchara caía sobre un plato, despertándolo para capturar de inmediato inspiraciones surrealistas.
+    </p>
+  </details>
 </div>

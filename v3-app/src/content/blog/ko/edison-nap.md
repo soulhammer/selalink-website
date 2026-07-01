@@ -3,10 +3,20 @@ title: "쇠구슬을 손에 쥐고 낮잠을 잔 천재? 토마스 에디슨의 
 description: "획기적인 발명 아이디어가 막힐 때마다 에디슨이 행했던 기묘한 낮잠 리추얼. 반수면 상태에서 창의적 영감을 얻는 에디슨 낮잠법의 원리와 실천 가이드를 공유합니다."
 pubDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+tags: ["쇠구슬을 손에 쥐고","Routine"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
 authority: "에디슨의 일기 및 관찰록(1948) 및 프랑스 파리 뇌연구소(Paris Brain Institute) 연구"
+steps:
+  - name: "무거운 물체와 낙하 표면 준비"
+    text: ""
+  - name: "안락의자에서 가벼운 반수면 취하기"
+    text: ""
+  - name: "낙하 소리에 깨어난 즉시 메모하기"
+    text: ""
+faqs:
+  - question: "에디슨은 왜 손에 쇠구슬을 쥐고 낮잠을 잤나요?"
+    answer: "잠에 드는 순간 근육이 풀려 구슬이 떨어질 때 나는 소리로 잠에서 깨어나, 꿈과 깨어남의 경계(반수면)에서 스친 아이디어를 즉시 기록하기 위함이었습니다."
 ---
 
 백열전구, 축음기, 영사기 등 일상 인류의 역사적 패러다임을 바꾼 1,000개 이상의 특허를 등록한 발명의 왕 토마스 에디슨. 그가 고난도의 지적 난제나 아이디어의 벽에 부딪혔을 때 활용했던 아주 유명하고 독특한 낮잠 리추얼을 아시나요? 💤
@@ -17,6 +27,9 @@ authority: "에디슨의 일기 및 관찰록(1948) 및 프랑스 파리 뇌연�
 
 오늘 BuildSelf에서는 천재 발명가의 창의성 비밀인 반수면 수면 루틴과 현대적 가이드를 심도 있게 알아봅니다.
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
@@ -24,7 +37,7 @@ authority: "에디슨의 일기 및 관찰록(1948) 및 프랑스 파리 뇌연�
       역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 토마스 에디슨의 회고 기록인 <strong>&lt;The Diary and Sundry Observations of Thomas Alva Edison&gt;</strong> 및 프랑스 파리 뇌연구소(Paris Brain Institute)에서 2021년 국제 학술지 'Science Advances'에 게재한 하프나고지아 반수면 상태의 창의적 문제 해결 능력 개선 연구를 기반으로 작성되었습니다.
+      본 콘텐츠는 <strong>에디슨의 일기 및 관찰록(1948) 및 프랑스 파리 뇌연구소(Paris Brain Institute) 연구</strong>.
     </p>
   </div>
 </div>
@@ -39,9 +52,7 @@ authority: "에디슨의 일기 및 관찰록(1948) 및 프랑스 파리 뇌연�
 
 ---
 
-## 2. 현대인을 위한 에디슨 열쇠 낮잠 루틴 3단계
-
-새로운 문제 해결이나 기획적 한계에 봉착했을 때 즉시 뇌를 깨울 수 있는 현대적인 에디슨 10분 낮잠법을 제안합니다.
+## 2. 3-Step Practical Routine for Modern Professionals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -49,7 +60,7 @@ authority: "에디슨의 일기 및 관찰록(1948) 및 프랑스 파리 뇌연�
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">무거운 물체와 낙하 표면 준비</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    한 손에 쥐기 좋고 떨어지면 큰 소리가 나는 쇠열쇠 묶음이나 텀블러 등을 쥡니다. 그리고 의자에 앉은 상태에서 손 아래 바닥에 소리가 맑게 울릴 수 있는 금속 쟁반이나 단단한 받침을 놓습니다.
+    
   </p>
 </div>
 
@@ -59,8 +70,11 @@ authority: "에디슨의 일기 및 관찰록(1948) 및 프랑스 파리 뇌연�
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">안락의자에서 가벼운 반수면 취하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    안락의자에 깊게 기대앉아 눈을 감고 온몸의 긴장을 풉니다. 해결하고 싶은 난제에 대해 아주 가볍게 떠올리며 스르륵 잠이 드는 감각에 몸을 맡깁니다.
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/edison_nap_relax_detail.png" alt="안락의자에서 가벼운 반수면 취하기" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -69,20 +83,36 @@ authority: "에디슨의 일기 및 관찰록(1948) 및 프랑스 파리 뇌연�
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낙하 소리에 깨어난 즉시 메모하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    손의 근육이 풀려 물체가 떨어지는 큰 소리에 잠에서 깨면, 지체하지 않고 그 순간 머릿속을 맴돌던 모든 단어, 이미지, 생각의 파편들을 스마트폰 메모장이나 노트에 즉시 적어 기록으로 보존합니다.
+    
   </p>
 </div>
 
 ---
 
 ## 3. 성공적인 루틴을 위한 뇌과학적 한마디
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">깊은 잠에 들기 전에 깨어나는 것이 핵심입니다</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       이 루틴의 목적은 숙면이 아닌, 뇌의 통제 필터가 걷히는 '하프나고지아' 영역의 창의적 에너지만을 획득하는 것입니다. 쇠구슬이나 열쇠 낙하 자극은 우리가 뇌파가 완전히 느려지는 깊은 서파 수면(Deep Sleep)으로 빠져들어 영감을 잊어버리는 것을 방지해 주는 아주 지혜로운 기계식 하드웨어 알람입니다.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>에디슨은 왜 손에 쇠구슬을 쥐고 낮잠을 잤나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      잠에 드는 순간 근육이 풀려 구슬이 떨어질 때 나는 소리로 잠에서 깨어나, 꿈과 깨어남의 경계(반수면)에서 스친 아이디어를 즉시 기록하기 위함이었습니다.
+    </p>
+  </details>
 </div>

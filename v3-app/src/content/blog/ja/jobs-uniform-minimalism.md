@@ -16,7 +16,7 @@ steps:
   - name: "最もクリアな頭脳状態で重要意思決定を処理する"
     text: ""
 faqs:
-  - question: "스티브・ジョブズはなぜ毎日同じ服ばかり着ていたのですか？"
+  - question: "スティーブ・ジョブズはなぜ毎日同じ服ばかり着ていたのですか？"
     answer: "朝の洋服選びという些細な意思決定で消費される前頭葉のエネルギーを節約し、アップルの経営や製品開発という本質的な決定に100％集中するためでした。"
 ---
 
@@ -107,7 +107,7 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>스티브・ジョブズはなぜ毎日同じ服ばかり着ていたのですか？</span>
+      <span>スティーブ・ジョブズはなぜ毎日同じ服ばかり着ていたのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

@@ -15,6 +15,9 @@ steps:
     text: "En position debout, effectuez un travail de fond qui demande le plus haut niveau de logique et de concentration, comme rédiger des propositions complexes, traduire des documents ou écrire, plutôt que de vérifier vos e-mails. La légère tension stimule le cerveau."
   - name: "Répartir le poids uniformément et maintenir une bonne posture"
     text: "Évitiez de vous tenir sur une seule jambe et répartissez le poids sur vos deux pieds. Gardez les épaules et le buste ouverts, réglez l'écran à hauteur de regard, et alternez avec la position assise ou des étirements de 10 minutes après 30 à 50 minutes d'effort."
+faqs:
+  - question: "Pourquoi Virginia Woolf écrivait-elle debout ?"
+    answer: "Inspirée par sa sœur peintre debout devant son chevalet, elle utilisait un pupitre debout pour garder une égalité artistique."
 ---
 
 Virginia Woolf, considérée comme une pionnière de la littérature moderniste du XXe siècle, laissant derrière elle des chefs-d'œuvre tels que « Mrs Dalloway » et « La Promenade au phare ». Comment a-t-elle pu dépeindre des mondes intérieurs si intimes et des psychologies si complexes avec des phrases si denses et sophistiquées ? Derrière son incroyable concentration se cachait une habitude de travail très singulière. Chaque matin, Woolf se tenait debout devant un pupitre incliné de plus d'un mètre de haut pour écrire. Cette routine d'écriture a été inspirée par la méthode de travail de sa sœur, Vanessa Bell, une peintre accomplie. Fascinée par la façon dont sa sœur se tenait devant son chevalet, utilisant tout son corps pour peindre, Woolf a pensé qu'elle devait elle aussi se tenir debout pour écrire. Aujourd'hui, BuildSelf partage les avantages scientifiques de la routine d'écriture debout de Woolf.
@@ -59,6 +62,9 @@ L'habitude de rester assis de longues heures épuise lentement la santé mais au
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     En position debout, effectuez un travail de fond qui demande le plus haut niveau de logique et de concentration, comme rédiger des propositions complexes, traduire des documents ou écrire, plutôt que de vérifier vos e-mails. La légère tension stimule le cerveau.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="Planifier les tâches principales les plus complexes et créatives" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ L'habitude de rester assis de longues heures épuise lentement la santé mais au
       Les personnes modernes passent la majeure partie de la journée assises. Dès que vous vous asseyez au bureau le matin, le cerveau l'assimile à du repos. Si vous adoptez une routine de 30 minutes debout le matin comme Virginia Woolf, vous activez immédiatement vos fonctions cardiorespiratoires et cérébrales. Augmentez consciemment ce temps chaque jour.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Pourquoi Virginia Woolf écrivait-elle debout ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Inspirée par sa sœur peintre debout devant son chevalet, elle utilisait un pupitre debout pour garder une égalité artistique.
+    </p>
+  </details>
 </div>

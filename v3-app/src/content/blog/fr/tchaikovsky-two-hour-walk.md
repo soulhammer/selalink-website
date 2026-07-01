@@ -14,6 +14,9 @@ steps:
     text: "Laissez votre smartphone dans votre poche, n'écoutez ni musique ni podcast. Le silence est nécessaire pour laisser les pensées subconscientes remonter à la surface."
   - name: "Saisir immédiatement vos idées soudaines"
     text: "Portez un petit carnet ou utilisez un enregistreur vocal rapide pour saisir les pensées fugaces qui apparaissent pendant votre marche, puis relisez-les à votre retour."
+faqs:
+  - question: "Pourquoi Tchaïkovski respectait-il une promenade de 2 heures ?"
+    answer: "Cela a commencé comme une superstition, mais 2 heures de marche augmentaient le flux sanguin cérébral, apportant l'inspiration."
 ---
 
 Piotr Ilyitch Tchaïkovski, le légendaire compositeur qui a élevé la musique romantique russe à un niveau mondial avec des chefs-d'œuvre comme « Le Lac des cygnes », « Casse-Noisette » et la « Symphonie Pathétique ». Il maintenait un emploi du temps incroyablement strict, divisant ses séances de composition entre le matin et l'après-midi. En particulier, il sortait se promener pendant exactement deux heures chaque après-midi. Il croyait si fermement à cette routine qu'il craignait que l'écourter même de quelques minutes ne le rende malade physiquement ou ne tarisse son inspiration. Les thèmes musicaux qui lui venaient à l'esprit pendant ses promenades étaient immédiatement notés sur un petit carnet qu'il gardait toujours sur lui. Aujourd'hui, BuildSelf montre comment une marche quotidienne stimule vos pensées créatives.
@@ -58,6 +61,9 @@ Marcher à un rythme régulier libère des endorphines réduisant le stress et d
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Laissez votre smartphone dans votre poche, n'écoutez ni musique ni podcast. Le silence est nécessaire pour laisser les pensées subconscientes remonter à la surface.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tchaikovsky_two_hour_walk_relax_detail.png" alt="Se déconnecter complètement de toutes les sources numériques" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Marcher à un rythme régulier libère des endorphines réduisant le stress et d
       L'inspiration n'est pas un don du hasard ; c'est un invité qui rend visite à ceux qui y travaillent quotidiennement. En vous éloignant des écrans et en marchant en silence, vous donnez à votre cerveau l'espace pour faire le lien entre les idées.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Pourquoi Tchaïkovski respectait-il une promenade de 2 heures ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Cela a commencé comme une superstition, mais 2 heures de marche augmentaient le flux sanguin cérébral, apportant l'inspiration.
+    </p>
+  </details>
 </div>

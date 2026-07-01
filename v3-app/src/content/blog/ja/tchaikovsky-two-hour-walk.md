@@ -14,6 +14,9 @@ steps:
     text: "スマートフォンはポケットに入れたままにし、音楽やポッドキャストは聴かないようにします。無意識の思考が表面に浮かび上がるためには静寂が必要です。"
   - name: "突然のアイデアを即座に捕らえる"
     text: "散歩中に浮かんだ一時的な考えをキャッチするために、小さなノートを持ち歩くか、簡単なボイスレコーダーを使用して記録し、戻ってから見直します。"
+faqs:
+  - question: "チャイコフスキーはなぜ2時間の散歩時間を厳守したのですか？"
+    answer: "迷信的な強迫観念から始まりましたが、2時間の歩行が実際に脳の血流量を増やし、自律神経を緩和して名曲のインスピレーションをもたらしました。"
 ---
 
 『白鳥の湖』、『くるみ割り人形』、交響曲第6番『悲愴』などの名作でロシア・ロマン派音楽を世界的なレベルに引き上げた伝説的な作曲家、ピョートル・イリイチ・チャイコフスキー。彼は朝と午後に作曲セッションを分けるなど、非常に厳格なスケジュールを維持しました。特に、彼は毎日午後になるとお決まりのように外出して正確に2時間散歩をしました。彼はこのルーティンを非常に重んじており、数分でも短くなると身体的な病気にかかったり、音楽的なインスピレーションが枯渇したりすることを恐れていました。散歩の最中に浮かんだ音楽のテーマは、彼が常にポケットに入れていた小さな手帳にすぐに書き留められました。本日、BuildSelfでは、毎日の散歩がどのように創造的な思考を引き出すかを紹介します。
@@ -58,6 +61,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     スマートフォンはポケットに入れたままにし、音楽やポッドキャストは聴かないようにします。無意識の思考が表面に浮かび上がるためには静寂が必要です。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tchaikovsky_two_hour_walk_relax_detail.png" alt="すべてのデジタル入力から完全に切断する" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ steps:
       インスピレーションはランダムな贈り物ではなく、毎日そのために働く人を訪れるゲストです。画面から離れて静寂の中を歩くことで、脳に点と点をつなぐために必要なスペースを与えることができます。毎日の散歩を約束し、静けさを受け入れ、無意識に最も困難な問題を解決させてください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>チャイコフスキーはなぜ2時間の散歩時間を厳守したのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      迷信的な強迫観念から始まりましたが、2時間の歩行が実際に脳の血流量を増やし、自律神経を緩和して名曲のインスピレーションをもたらしました。
+    </p>
+  </details>
 </div>

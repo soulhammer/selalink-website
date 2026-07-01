@@ -15,6 +15,9 @@ steps:
     text: "Das Versprechen, 'es später aufzuschreiben, wenn ich Zeit habe', führt zu sofortigem Vergessen. In dem Moment, in dem Ihnen beim Gehen oder Sprechen eine interessante Idee, eine Beobachtung oder ein beeindruckender Satz durch den Kopf geht, schreiben Sie ihn innerhalb von 5 Sekunden in wenigen Worten auf."
   - name: "Am Ende des Tages 5 Minuten Zeit zur Durchsicht der Notizen nehmen"
     text: "Gehen Sie jeden Abend vor dem Schlafengehen oder am Ende des Tages die Notizen durch, die Sie heute gemacht haben. Allein das Durchsehen hilft, die tagsüber gesammelten Bruchstücke im Gehirn zu einem soliden Wissenssystem zu festigen, und wertvolle Gedanken können strukturiert werden."
+faqs:
+  - question: "Warum trug Da Vinci immer ein Notizbuch am Gürtel?"
+    answer: "Um flüchtige Ideen und Beobachtungen sofort festzuhalten und die kognitive Energie frei zu halten."
 ---
 
 Leonardo da Vinci, das ultimative Genie der Renaissance, das beispiellose übermenschliche Leistungen in Kunst, Wissenschaft, Anatomie, Musik und Ingenieurwesen hinterließ. Was war die Quelle seiner genialen Kreativität und seiner Fähigkeit, Wissen zu wissenschaftlichen Themen zu synthetisieren? Das Geheimnis liegt in einer sehr einfachen, aber wirkungsvollen Gewohnheit, die er sein Leben lang beibehielt. Da Vinci trug stets ein kleines, in Leder gebundenes Notizbuch am Gürtel, um Inspirationen sofort festhalten zu können. Wenn er auf der Straße jemanden mit einem markanten Gesicht traf, folgte er ihm beharrlich, um ein Porträt in sein Notizbuch zu skizzieren. Wenn er den Fluss des Wassers beobachtete, zeichnete er die Bewegung der Wirbel an Ort und Stelle auf. Skizzen und Notizen entwickelten sich später zu den Tausenden von Seiten des 'Codex Leonardo da Vinci', der bis heute ein Schatz der Menschheit ist. Heute stellt BuildSelf die wissenschaftlichen Geheimnisse von Da Vincis Notizbuch-Routine vor.
@@ -59,6 +62,9 @@ Unser Gehirn ähnelt eher einem Prozessor (CPU), der Informationen verarbeitet u
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Das Versprechen, 'es später aufzuschreiben, wenn ich Zeit habe', führt zu sofortigem Vergessen. In dem Moment, in dem Ihnen beim Gehen oder Sprechen eine interessante Idee, eine Beobachtung oder ein beeindruckender Satz durch den Kopf geht, schreiben Sie ihn innerhalb von 5 Sekunden in wenigen Worten auf.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="Schlüsselpunkte innerhalb von 5 Sekunden nach dem Aufblitzen einer Idee notieren" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Unser Gehirn ähnelt eher einem Prozessor (CPU), der Informationen verarbeitet u
       Der Versuch, sich Dinge krampfhaft zu merken, führt zu Stress und Müdigkeit im Gehirn. Wenn Sie sich wie Da Vinci angewöhnen, Inspirationen sofort schriftlich festzuhalten, kann sich Ihr Gehirn zu 100 % seiner eigentlichen Aufgabe widmen: dem Denken und Erschaffen. Beginnen Sie noch heute damit.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Warum trug Da Vinci immer ein Notizbuch am Gürtel?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Um flüchtige Ideen und Beobachtungen sofort festzuhalten und die kognitive Energie frei zu halten.
+    </p>
+  </details>
 </div>

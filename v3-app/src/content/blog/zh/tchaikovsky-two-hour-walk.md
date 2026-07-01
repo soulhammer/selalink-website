@@ -14,6 +14,9 @@ steps:
     text: "把智能手机放在口袋里，不要听音乐或播客。必须保持安静，以便让潜意识中的想法浮出水面。"
   - name: "立即捕捉你脑海中闪现的创意"
     text: "携带一个小笔记本或使用快速语音录音机，以捕捉散步期间浮现的转瞬即逝的想法，并在返回后进行查看。"
+faqs:
+  - question: "柴可夫斯基为什么要严格遵守2小时的散步时间？"
+    answer: "虽然始于迷信般的强迫，但2小时的步行确实增加了大脑血流量并放松了神经，从而带来了音乐灵感。"
 ---
 
 彼得·伊里奇·柴可夫斯基是传奇作曲家，凭借《天鹅湖》、《胡桃夹子》和《悲怆交响曲》等杰作将俄罗斯浪漫主义音乐提升至世界级水平。他维持着极其严格的时间表，将他的创作分成上午和下午两部分。特别的是，他每天下午都会准时出门散步整整两小时。他对这一惯例深信不疑，以至于担心如果缩短几分钟就会导致身体生病或使音乐灵感枯竭。散步时脑海中浮现的音乐主题会被立即记录在他随身携带在口袋里的一个小笔记本上。今天，BuildSelf将为您分享每日散步如何能激发您的创造性思维。
@@ -58,6 +61,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     把智能手机放在口袋里，不要听音乐或播客。必须保持安静，以便让潜意识中的想法浮出水面。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tchaikovsky_two_hour_walk_relax_detail.png" alt="彻底断开与所有数字输入的连接" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ steps:
       灵感绝非随机的恩赐；它是拜访那些每日为此付出努力之人的客人。通过远离屏幕并在安静中漫步，你给大脑提供了连接点滴所需的空间。坚持每日散步，拥抱宁静，让潜意识解决你最棘手的问题。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>柴可夫斯基为什么要严格遵守2小时的散步时间？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      虽然始于迷信般的强迫，但2小时的步行确实增加了大脑血流量并放松了神经，从而带来了音乐灵感。
+    </p>
+  </details>
 </div>

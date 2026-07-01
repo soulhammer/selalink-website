@@ -14,6 +14,11 @@ steps:
     text: "Once milk is opened, contact with air introduces oxygen and bacteria, starting the spoilage process. Avoid touching the carton spout and consume the milk within 7 days, regardless of the expiration date."
   - name: "Keep away from strong-smelling foods — Avoid odor absorption 🧅"
     text: "Milk acts like a sponge and easily absorbs strong odors from its surroundings. If left near uncovered onions, garlic, or leftovers, the milk will absorb those flavors. Always keep it sealed and separate."
+faqs:
+  - question: "Can I freeze milk for storage?"
+    answer: "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
+  - question: "Can unopened milk be consumed after the expiration date?"
+    answer: "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
 ---
 
 Do you store milk cartons lined up in the refrigerator door shelves? The refrigerator door experiences direct temperature changes every time it is opened, making it the worst place to keep milk. Today, StoreSelf shares safe milk storage guidelines.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     The refrigerator door experiences the most severe temperature fluctuations whenever it is opened and closed. To preserve milk, keep it on the inner shelves of the refrigerator where the temperature is stable at 0–4°C.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/milk_storage_detail.png" alt="Do not store on the refrigerator door — Refrigerated Storage (7Days)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       Milk absorbs surrounding odors very easily due to its fat content. Keep it away from garlic, onions, or kimchi.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can I freeze milk for storage?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can unopened milk be consumed after the expiration date?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes.
+    </p>
+  </details>
 </div>

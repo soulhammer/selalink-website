@@ -15,6 +15,9 @@ steps:
     text: "在数咖啡豆或泡茶的5分钟内，绝对不要看手机屏幕，阻断新闻或谈话等言语刺激。只专注于手指尖 of 触觉、转动磨豆机时传到手心的振动、水开的声音以及散发出来的茶香/咖啡香。"
   - name: "静心品记/饮咖啡，开启专注模式"
     text: "坐在位子上，慢慢品味精心冲泡的咖啡或茶。保持这种平静而整顿的大脑状态，立即投入到第一项重要工作中。每天早晨在同一时间重复这一仪式，大脑就会形成条件反射，将咖啡的味道视为“专注模式启动信号”。"
+faqs:
+  - question: "贝多芬为什么坚持只用60颗咖啡豆？"
+    answer: "在开始工作前通过数60颗咖啡豆这种简单重复的行为，将认知能量汇聚于一点，作为进入深度专注的触发信号。"
 ---
 
 路德维希·凡·贝多芬克服了听力受损这一对音乐家来说致命的考验，创作出了《命运交响曲》、《合唱交响曲》等人类历史上最伟大的旋律。您知道他在每天早晨开始创作之前，会进行一项非常独特且严格的奇妙仪式吗？那就是精确地数出“60颗咖啡豆”来冲泡咖啡。贝多芬对咖啡的口感和香气非常敏感，坚持追求完美的比例。他每天早晨都会亲手精确地数出60颗生咖啡豆。即使有客人来访，他也严格遵守每杯精确60颗的比例。数这60颗豆子对他来说不仅仅是准备饮物，而是一个神圣的清晨入口，让他把嘈杂的外部噪音关在门外，静静地进入内心的音乐世界。今天，BuildSelf为您分享贝多芬咖啡仪式背后的科学奥秘，以及如何设计清晨惯例以最大化您的专注力。
@@ -59,6 +62,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     在数咖啡豆或泡茶的5分钟内，绝对不要看手机屏幕，阻断新闻或谈话等言语刺激。只专注于手指尖 of 触觉、转动磨豆机时传到手心的振动、水开的声音以及散发出来的茶香/咖啡香。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="在准备的5分钟内彻底阻断外部刺激" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ steps:
       如果在忙碌的早晨手忙脚乱地准备出门，大脑一整天都会处于杂乱的状态。像贝多芬一样，坚持用仅仅5分钟的时间，专注于自我感官的精细清晨仪式吧。在平静、同步的大脑状态下开启的一天，其专注力的深度是完全不同的。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>贝多芬为什么坚持只用60颗咖啡豆？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      在开始工作前通过数60颗咖啡豆这种简单重复的行为，将认知能量汇聚于一点，作为进入深度专注的触发信号。
+    </p>
+  </details>
 </div>

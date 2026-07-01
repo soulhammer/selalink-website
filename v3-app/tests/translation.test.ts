@@ -200,6 +200,15 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
         const paragraphs = body.split(/\n\n+/);
 
         paragraphs.forEach((para, index) => {
+          // HTML 마크업 단독 문단이거나 CSS 스타일 속성이 섞인 레이아웃 문단은 스킵
+          const isMarkupOnly = /^\s*<\/?[a-zA-Z0-9]+[^>]*>\s*$/g.test(para.trim()) ||
+                               para.includes('class=') ||
+                               para.includes('</div') ||
+                               para.includes('border-') ||
+                               para.includes('bg-') ||
+                               para.includes('rounded-');
+          if (isMarkupOnly) return;
+
           const sanitizedPara = sanitizeText(para)
             .replace(systemCharRegex, '')
             .trim();

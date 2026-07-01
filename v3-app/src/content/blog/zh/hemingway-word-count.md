@@ -14,6 +14,9 @@ steps:
     text: "准备一个纸质计划本、墙面图表或简单的电子表格，每天写下确切的数字。即使在表现不佳的日子里，也务必如实记录；诚实至关重要。"
   - name: "专注于记录行为本身"
     text: "不要仅凭一天的低数字来判断自己的生产力。记录行为本身就能建立自我意识，并保持第二天重新开始所需的动力。"
+faqs:
+  - question: "海明威为什么每天都在图表上记录字数？"
+    answer: "为了不欺骗自己地客观可视化写作进度，从而防止低谷并强迫创造性生产力的规律流动。"
 ---
 
 欧内斯特·海明威是现代美国文学大师，曾荣获诺贝尔文学奖和普利策奖。他以极简、硬汉风格的文风闻名，而他每日的自律同样堪称传奇。他每天清晨便开始写作，在每次结束时，都会数出当天写作的字数，并记录在墙上的一张大图表上。今天，BuildSelf将带您探索海明威追踪进度背后的科学原理，以及您如何应用自我监控来保持每日的动力。
@@ -58,6 +61,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     准备一个纸质计划本、墙面图表或简单的电子表格，每天写下确切的数字。即使在表现不佳的日子里，也务必如实记录；诚实至关重要。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/hemingway_word_count_relax_detail.png" alt="如实将数字记录在可视化图表上" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ steps:
       模糊的努力会导致模糊的结果。当你开始用确切的数字追踪自己的行为时，你的大脑就会获得客观的自我意识。即使在数字偏低的日子里，仅仅是写下它们这一简单的动作也能维持你与习惯的联结，防止你放弃。每天追踪你的进度，让数字指引你的坚持。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>海明威为什么每天都在图表上记录字数？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      为了不欺骗自己地客观可视化写作进度，从而防止低谷并强迫创造性生产力的规律流动。
+    </p>
+  </details>
 </div>

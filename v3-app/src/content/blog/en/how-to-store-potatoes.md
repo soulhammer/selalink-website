@@ -14,6 +14,11 @@ steps:
     text: "Placing one apple in the potato container releases ethylene gas, which suppresses sprout growth genes in potatoes and significantly delays sprouting."
   - name: "Do not refrigerate — Prevent starch deformation ❄️"
     text: "When stored below 4°C, potato starch converts to sugar, spoiling the flavor and increasing the chemical acrylamide (a carcinogen) during high-heat cooking. Always store them in a cool dark space (8–10°C)."
+faqs:
+  - question: "Is it safe to eat potatoes after cutting off green patches or sprouts?"
+    answer: "Sprouts and green skin contain solanine, a toxic glycolalkaloid. You must slice away green skin thickly and dig out sprout eyes deeply before cooking."
+  - question: "Why shouldn't raw potatoes be refrigerated?"
+    answer: "Cold temperatures below 4°C convert potato starch into sugar. When cooked at high heat, this sugar reacts to form acrylamide, a potential carcinogen."
 ---
 
 Did you store potatoes in the refrigerator crisper drawer? Cold temperatures below 4°C cause potatoes to generate acrylamide, a carcinogen, and increase sugar content. Today, StoreSelf shares healthy potato preservation hacks.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Potatoes last longer when stored with soil still on them. Wrapping them in newspaper or paper bags blocks light completely, preventing them from turning green and developing toxic solanine.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/potatoes_storage_detail.png" alt="Wrap unwashed potatoes individually in newspaper/paper bags — Room Temp Storage (45Days) 📦" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       Exposure to light turns potato skin green and generates solanine, a toxic compound. Always block light completely.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Is it safe to eat potatoes after cutting off green patches or sprouts?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sprouts and green skin contain solanine, a toxic glycolalkaloid. You must slice away green skin thickly and dig out sprout eyes deeply before cooking.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why shouldn't raw potatoes be refrigerated?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Cold temperatures below 4°C convert potato starch into sugar. When cooked at high heat, this sugar reacts to form acrylamide, a potential carcinogen.
+    </p>
+  </details>
 </div>

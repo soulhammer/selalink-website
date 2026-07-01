@@ -14,6 +14,11 @@ steps:
     text: "Mettre les têtes d'ail non pelées au réfrigérateur favorise la germination et le pourrissement. La méthode scientifique consiste à les placer dans un filet suspendu dans un endroit frais, sombre et aéré (10-15 °C)."
   - name: "Congeler l'ail haché dans des bacs en silicone — Stockage Congelé (180Jours)"
     text: "Pour de grandes quantités d'ail, hachez-les et étalez-les à plat dans un sac congélation pré-quadrillé, ou congelez-les dans des bacs à glaçons en silicone. Démoulez une portion à chaque utilisation pour plus de praticité."
+faqs:
+  - question: "Why does peeled garlic spoil so quickly when exposed to moisture?"
+    answer: "Peeled garlic lacks its protective skin, making it highly vulnerable to humidity. Excess moisture triggers rapid mold growth; keep them dry using sugar and paper towels."
+  - question: "Should whole garlic heads be stored in the fridge or at room temp?"
+    answer: "Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature."
 ---
 
 Avez-vous déjà pelé beaucoup d'ail à l'avance pour gagner du temps, pour le retrouver ramolli et couvert de moisissure blanche après quelques jours ? Aujourd'hui, StoreSelf vous montre comment éliminer l'humidité.
@@ -22,7 +27,7 @@ Avez-vous déjà pelé beaucoup d'ail à l'avance pour gagner du temps, pour le 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Autorité Scientifique Vérifiée
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Ce guide de conservation est basé sur les directives officielles de : <strong>RDA & MFDS & USDA</strong>.
@@ -48,6 +53,9 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Versez 1 cm de sucre au fond d'une boîte hermétique, recouvrez de 2 ou 3 feuilles de papier absorbant, puis déposez l'ail pelé. Le sucre sert d'absorbeur d'humidité naturel et garde l'ail au sec.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/garlic_storage_detail.png" alt="Étaler du sucre et du papier absorbant au fond de la boîte — Stockage Réfrigéré (14Jours) 🪙" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
       Si de la moisissure bleue ou noire apparaît, ne la lavez pas pour la cuire. Les spores ont pénétré à l'intérieur ; jetez-le.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why does peeled garlic spoil so quickly when exposed to moisture?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Peeled garlic lacks its protective skin, making it highly vulnerable to humidity. Excess moisture triggers rapid mold growth; keep them dry using sugar and paper towels.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Should whole garlic heads be stored in the fridge or at room temp?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature.
+    </p>
+  </details>
 </div>

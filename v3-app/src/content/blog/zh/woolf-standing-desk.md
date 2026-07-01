@@ -15,6 +15,9 @@ steps:
     text: "在站立状态下，不要做简单的邮件检查，而是进行需要最高逻辑思维和专注力的深度工作（Deep Work），如撰写复杂的策划案、翻译文件、创作等。身体的微轻紧张感会提升大脑的运算速度。"
   - name: "均匀分布体重并保持良好体态"
     text: "避免将体重只压在一只脚上的“稍息”站姿，双脚要均匀用力。舒展肩膀和胸部，将显示器顶端与视线对齐，以分散压力。专注30-50分钟后，坐下休息或做10分钟拉伸。"
+faqs:
+  - question: "弗吉尼亚·伍尔夫为什么要站着写字？"
+    answer: "受到她那站立在画布前创作的画家姐姐的启发，她将立式书桌作为一项身体仪式，以保持艺术上的平等和专注。"
 ---
 
 弗吉尼亚·伍尔夫创作了《达洛维夫人》、《到灯塔去》等载入英美文学史的杰作，被誉为20世纪现代主义文学的先驱。她是如何用如此细腻而洗练的文字，展现人物隐秘的内心世界和复杂的心理活动呢？在她惊人的专注力背后，有着一种非常独特的创作习惯。伍尔夫每天早晨都会站在一张高度超过1米、倾斜的站立式书桌前挥毫泼墨。这种站立写作的惯例，灵感源自她当时身为杰出画家的妹妹瓦妮莎·贝尔（Vanessa Bell）的工作方式。今天，BuildSelf将为您介绍伍尔夫站立写作习惯背后的科学益处，以及适合现代人的专注力提升方法。
@@ -59,6 +62,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     在站立状态下，不要做简单的邮件检查，而是进行需要最高逻辑思维和专注力的深度工作（Deep Work），如撰写复杂的策划案、翻译文件、创作等。身体的微轻紧张感会提升大脑的运算速度。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="安排最繁重且最具创造力的核心任务" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ steps:
       现代人一天中的大部分时间都是坐在椅子上度过的。清晨上班坐下的一瞬间，大脑很容易误以为进入了静态休息模式。如果像弗吉尼亚·伍尔夫一样，在早晨进行30分钟的站立专注惯例，就能立即激活心肺功能和大脑。每天有意识地延长站立工作的时间吧。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>弗吉尼亚·伍尔夫为什么要站着写字？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      受到她那站立在画布前创作的画家姐姐的启发，她将立式书桌作为一项身体仪式，以保持艺术上的平等和专注。
+    </p>
+  </details>
 </div>

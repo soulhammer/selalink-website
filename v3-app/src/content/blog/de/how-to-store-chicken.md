@@ -14,6 +14,11 @@ steps:
     text: "Der austretende Fleischsaft von Geflügel enthält Bakterien und kann andere Lebensmittel verderben. Verpacken Sie das Fleisch doppelt und lagern es auf der untersten Ebene des Kühlschranks, wo es am kältesten ist."
   - name: "Leicht mit Salz und Kochwein würzen — Gefrierlagerung (90Tage) 🧂"
     text: "Wenn Sie das Fleisch nicht sofort zubereiten, streuen Sie etwas Salz und Reiswein oder klaren Alkohol darüber. Der Alkohol desinfiziert, während das Salz die Fasern festigt, was die Frische um einen Tag verlängert."
+faqs:
+  - question: "Should I wash raw chicken before cooking?"
+    answer: "No, washing raw chicken spreads food poisoning bacteria (like Campylobacter) to utensils and surfaces through splashing water. Thorough cooking kills all bacteria safely."
+  - question: "Why is chicken's shelf life shorter than pork or beef?"
+    answer: "Poultry has high moisture content and a delicate protein structure, making it highly susceptible to rapid bacterial growth. Keep chilled only for 2 days."
 ---
 
 Das Waschen von rohem Hühnchen kann gefährliche Bakterien in der gesamten Küche verteilen. Heute teilt StoreSelf offizielle CDC-Tipps zur sicheren Handhabung und Lagerung.
@@ -22,7 +27,7 @@ Das Waschen von rohem Hühnchen kann gefährliche Bakterien in der gesamten Küc
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Geprüfte wissenschaftliche Autorität
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>USDA & MFDS & CDC</strong>.
@@ -48,6 +53,9 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Das Waschen von rohem Hühnerfleisch spritzt Bakterien wie Campylobacter bis zu 50 cm weit um das Spülbecken herum und kontaminiert Geschirr und Oberflächen. Fleisch stattdessen mit Küchenpapier abtupfen oder kurz blanchieren.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/chicken_storage_detail.png" alt="Geflügel niemals mit Wasser waschen — Kreuzkontamination vermeiden ❌💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
       Hühnchen hat mehr Feuchtigkeit und Bakterien als Schwein oder Rind, weshalb es extrem schnell verdirbt. Maximal 48 Stunden kühlen.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Should I wash raw chicken before cooking?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, washing raw chicken spreads food poisoning bacteria (like Campylobacter) to utensils and surfaces through splashing water. Thorough cooking kills all bacteria safely.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why is chicken's shelf life shorter than pork or beef?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Poultry has high moisture content and a delicate protein structure, making it highly susceptible to rapid bacterial growth. Keep chilled only for 2 days.
+    </p>
+  </details>
 </div>

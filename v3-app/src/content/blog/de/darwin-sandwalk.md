@@ -15,6 +15,9 @@ steps:
     text: "Lassen Sie das Smartphone in der Tasche. Stellen Sie sich zu Beginn des Spaziergangs eine klare Frage, über die Sie nachdenken, und gehen Sie einfach los, ohne sich zu zwingen, sofort eine Lösung zu finden."
   - name: "Inspirationen sofort nach dem Spaziergang aufschreiben"
     text: "Während des Gehens verknüpfen sich die Gehirnzellen, und Lösungen tauchen oft von selbst auf. Setzen Sie sich sofort nach dem Spaziergang hin und schreiben Sie die Gedanken oder Inspirationen auf, die Ihnen durch den Kopf gegangen sind."
+faqs:
+  - question: "Was ist Darwins Sandwalk?"
+    answer: "Es war ein Pfad, den er täglich ging, um den präfrontalen Kortex zu aktivieren und die Evolutionstheorie zu ordnen."
 ---
 
 Charles Darwin, der Mann, der mit seinem Werk 'Die Entstehung der Arten' die größte Revolution des wissenschaftlichen Denkens in der Menschheitsgeschichte auslöste. Woher stammten die evolutionären Inspirationen, die das Paradigma der Menschheit veränderten? Darwin verbrachte sein Leben mit Forschungen im Down House, einem ruhigen Dorf in der Nähe von London. Jeden Morgen und Nachmittag ging er den 'Sandwalk', einen Kies- und Erdweg, den er um sein Haus herum angelegt hatte. Er nannte diesen Weg den 'Denkweg'. Zu Beginn seines Spaziergangs stapelte er fünf oder sechs kleine Steine an einer Ecke und stieß bei jeder Runde einen Stein weg, um zu wissen, wie viele Runden er bereits gegangen war. Heute untersucht BuildSelf die wissenschaftlichen Prinzipien von Darwins 'Sandwalk'-Routine und wie moderne Menschen sie nutzen können, um ihre Kreativität zu steigern.
@@ -59,6 +62,9 @@ Gehen ist die beste Brainstorming-Methode, die die Menschheit im Laufe von Milli
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Lassen Sie das Smartphone in der Tasche. Stellen Sie sich zu Beginn des Spaziergangs eine klare Frage, über die Sie nachdenken, und gehen Sie einfach los, ohne sich zu zwingen, sofort eine Lösung zu finden.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/darwin_sandwalk_relax_detail.png" alt="Das Smartphone ausschalten und eine einzige Frage stellen" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Gehen ist die beste Brainstorming-Methode, die die Menschheit im Laufe von Milli
       Das Gehirn moderner Menschen, die ständig Ziele verfolgen und Berechnungen anstellen, reichert müdigkeitsfördernde Stoffe wie Adenosin an, was kreatives Denken erschwert. Schalten Sie wie Darwin das Smartphone für 20 Minuten am Tag aus, gehen Sie denselben Weg ohne Ziel und geben Sie Ihrem Gehirn Raum, um Antworten von selbst zu finden.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Was ist Darwins Sandwalk?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Es war ein Pfad, den er täglich ging, um den präfrontalen Kortex zu aktivieren und die Evolutionstheorie zu ordnen.
+    </p>
+  </details>
 </div>

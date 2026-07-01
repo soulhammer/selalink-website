@@ -14,6 +14,9 @@ steps:
     text: "Clear your desk of any items that are unrelated to your current task. Turn off your smartphone, place it out of sight, or move it to another room to eliminate environmental triggers."
   - name: "Establish a clear start and end ritual"
     text: "Define exact times to enter and leave your focus zone. When your time is up, step away completely to return to your daily life, creating a psychological boundary between work and rest."
+faqs:
+  - question: "Why did Angelou write isolated in a hotel room?"
+    answer: "To completely block her brain from familiar domestic sensory stimuli (paintings, chores), forcing an extreme state of focus."
 ---
 
 Maya Angelou, an legendary American poet, memoirist, and civil rights activist who wrote the groundbreaking autobiography 'I Know Why the Caged Bird Sings.' To focus deeply, she checked into a local hotel room every morning at 6:30 AM. She requested the hotel staff to remove all paintings, photos, and decorations from the walls, leaving only a Bible, a dictionary, a deck of cards, and a bottle of sherry. Today, BuildSelf shares how creating an empty, distraction-free environment can drastically improve your cognitive output.
@@ -58,6 +61,9 @@ Human brains are constantly scanning the environment for visual and auditory cue
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Clear your desk of any items that are unrelated to your current task. Turn off your smartphone, place it out of sight, or move it to another room to eliminate environmental triggers.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/angelou_hotel_isolation_relax_detail.png" alt="Remove all visual and digital clutter" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Human brains are constantly scanning the environment for visual and auditory cue
       Willpower alone is rarely enough to fight distraction. True focus is built by designing a physical environment where temptation cannot exist. Clear your desk, isolate your phone, and let the simplicity of your surroundings command your brain to focus. Create your own distraction-free zone today.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why did Angelou write isolated in a hotel room?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      To completely block her brain from familiar domestic sensory stimuli (paintings, chores), forcing an extreme state of focus.
+    </p>
+  </details>
 </div>

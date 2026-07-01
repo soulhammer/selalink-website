@@ -71,7 +71,7 @@ Einsteins Geigenspiel war das Werkzeug für einen perfekten **'kognitiven Wechse
     Spielen Sie 5 Minuten lang ein einfaches Handinstrument (Kalimba, Blockflöte, Ukulele oder Fingertrommeln). Wenn Sie kein Instrument haben, spielen Sie mit geschlossenen Augen ein klassisches oder Jazz-Instrumentalstück ab, konzentrieren Sie sich auf die Melodie und klopfen Sie den Rhythmus mit den Fingern mit.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/einstein_violin_relax.png" alt="5-minütiges Hör- und Rhythmusritual" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/einstein_violin_thinking_relax_detail.png" alt="5-minütiges Hör- und Rhythmusritual" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

@@ -14,6 +14,11 @@ steps:
     text: "紫外線は植物性オイルを酸化（酸敗）させる最大の原因です。透明な容器に入っている場合は, アルミホイルでボトルを包むか, 茶色や緑色のガラス瓶に移し替えて光を遮断してください。"
   - name: "コンロ周辺など熱源から遠い日陰の棚に置く — 熱の遮断 🌬️"
     text: "調理時に便利だからといって、ガスコンロやオーブンのすぐ隣に置かないでください。熱が加わるたびにオイルの酸化スピードが2倍以上速くなります。熱源のない涼しい日陰の棚に収納してください。"
+faqs:
+  - question: "オリーブオイルが冷蔵庫で白く固まりましたが、傷んでいますか？"
+    answer: "いいえ、エキストラバージンオリーブオイルは温度が8〜10度以下に下がると自然に固まる性質があります。常温に戻すと透明な液体状態に戻り、品質には全く問題ありません。"
+  - question: "オリーブオイルは必ず遮光瓶に保存すべきですか？"
+    answer: "はい、オリーブオイルは光（紫外線）にさらされると酸化が急速に進みます。必ず光を遮る暗いガラス瓶に密閉し、涼しい日陰に保管してください。"
 ---
 
 オリーブオイルを新鮮に保つために、冷蔵庫に入れていませんか？冷蔵庫に保管すると白く結晶化して固まってしまい、特有の豊かな風味や栄養成分が壊れてしまいます。正しい常温保存方法をご紹介します。
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      公認の科学的保管基準
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>.
@@ -48,6 +53,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     オリーブオイルを冷蔵庫に入れると白く固まって結晶化し, 固まったり溶けたりを繰り返すことでオリーブオイル本来の風味や栄養素が失われます。必ず14〜18℃の常温で保存してください。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/olive-oil_storage_detail.png" alt="冷蔵保存は避ける — 凝固と風味の低下防止 ❌❄️" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ steps:
       コンロ周辺の熱は酸化を急速に進め、品質を著しく低下させます。調理スペースから離れた、温度変化の少ない暗い収納棚に保管してください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>オリーブオイルが冷蔵庫で白く固まりましたが、傷んでいますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      いいえ、エキストラバージンオリーブオイルは温度が8〜10度以下に下がると自然に固まる性質があります。常温に戻すと透明な液体状態に戻り、品質には全く問題ありません。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>オリーブオイルは必ず遮光瓶に保存すべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい、オリーブオイルは光（紫外線）にさらされると酸化が急速に進みます。必ず光を遮る暗いガラス瓶に密閉し、涼しい日陰に保管してください。
+    </p>
+  </details>
 </div>

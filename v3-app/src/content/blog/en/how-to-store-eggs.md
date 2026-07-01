@@ -14,6 +14,11 @@ steps:
     text: "The blunt, rounded end of the egg contains the air cell (pocket of air). If this end is pointing down, the yolk is more likely to contact the shell membrane and spoil. Keep the rounded end pointing up to let the egg breathe and stay centered."
   - name: "Place deep inside the refrigerator — Avoid temperature shifts ❄️"
     text: "The refrigerator door shelf undergoes severe temperature fluctuations every time it is opened and closed, which thins the egg white. Keep temperature-sensitive items like eggs and milk on the inner shelves of the main compartment."
+faqs:
+  - question: "Why shouldn't I wash fresh eggs before storing them?"
+    answer: "Washing strips away the natural protective cuticle coating. This allows Salmonella and other external bacteria to penetrate the porous eggshell."
+  - question: "Why store eggs with the pointed end down?"
+    answer: "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
 ---
 
 Do you wash fresh eggs in water and store them in the refrigerator door? This storage method can ruin egg freshness and trigger cross-contamination. Today, StoreSelf shares USDA-approved safe egg storage hacks.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Eggshells contain thousands of microscopic pores that allow respiration. Washing them strips off the natural protective barrier (cuticle), letting bacteria like Salmonella enter through these pores. Simply wipe off dirt with a dry cloth.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/eggs_storage_detail.png" alt="Never wash eggs before storage — Refrigerated Storage (45Days) 💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       The blunt end has the air cell. Storing it up prevents the yolk from contacting the air pocket, keeping it fresh longer.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why shouldn't I wash fresh eggs before storing them?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Washing strips away the natural protective cuticle coating. This allows Salmonella and other external bacteria to penetrate the porous eggshell.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why store eggs with the pointed end down?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling.
+    </p>
+  </details>
 </div>

@@ -14,6 +14,11 @@ steps:
     text: "Light and oxygen accelerate the oxidation of unsaturated fatty acids in nuts. Instead of transparent bags, pack them in opaque bags or dark airtight containers, and add a silica gel pack to control moisture."
   - name: "Keep in a dry, moisture-free environment — Room Temp Storage (15Days)"
     text: "Nuts lose their crunch and flavor quickly when exposed to moisture. Always keep them in a dry environment. Once the original package is opened, transfer them immediately to a sealed container to keep humidity out."
+faqs:
+  - question: "Is it okay to eat nuts that smell slightly rancid?"
+    answer: "Absolutely not. Rancid fat in nuts develops 'aflatoxins', a powerful Class 1 carcinogen that causes liver damage. This toxin cannot be destroyed by heat."
+  - question: "Should nuts be kept in the pantry at room temperature?"
+    answer: "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
 ---
 
 Do you leave healthy nuts out on the dining table in clear containers? Nuts are rich in unsaturated fatty acids, making them oxidize quickly when exposed to air and light, creating rancid odors and toxins. Today, StoreSelf shares safe nut preservation guides.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Nuts contain high levels of fats which oxidize and turn rancid in warm, humid room temperatures. This environment also fosters aflatoxin, a dangerous carcinogen produced by mold. Always store nuts in airtight containers in the fridge or freezer.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/nuts_storage_detail.png" alt="Seal and refrigerate/freeze once opened — Refrigerated 90 days & Frozen 180 days" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       Store nuts in opaque containers or bags with oxygen absorbers inside, and keep them in a cool drawer or freeze.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Is it okay to eat nuts that smell slightly rancid?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Absolutely not. Rancid fat in nuts develops 'aflatoxins', a powerful Class 1 carcinogen that causes liver damage. This toxin cannot be destroyed by heat.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Should nuts be kept in the pantry at room temperature?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer.
+    </p>
+  </details>
 </div>

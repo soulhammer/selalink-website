@@ -14,6 +14,11 @@ steps:
     text: "从牛奶包装打开的瞬间起，空气中的微生物和氧气就会进入，牛奶开始发生酸败。注意不要用手碰触纸盒倒出口，开封后请务必在一周内喝完，无论原保质期还有多久。"
   - name: "远离有强烈气味的食物 — 防止串味 🧅"
     text: "牛奶具有像海绵一样易吸附周围强气味的物理特性。如果把大蒜、洋葱或剩菜不盖盖子放在牛奶盒附近，牛奶就会串味。请务必密封好并与其他重口味食材隔开存放。"
+faqs:
+  - question: "牛奶可以冷冻保存吗？"
+    answer: "冷冻牛奶会导致脂肪 and 蛋白质分离，解冻时会产生结块且风味下降。建议尽量不要冷冻，而是冷藏保存并及时饮用。"
+  - question: "未开封的牛奶过期了还可以喝吗？"
+    answer: "如果保持未开封并在 0-5°C 下冷藏，只要味道和气味无异常，在保质期过后最长 45 天内仍可饮用。"
 ---
 
 您是否把牛奶盒整齐地排在冰箱门旁的架子上？冰箱门每次开关都会直接发生温度变化，是保存牛奶最应该避免的地方。今天，StoreSelf为您分享科学安全的牛奶储存指南。
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      官方科学验证权威
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本指南严格遵守以下机构公认的食品安全与储存指南： <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>.
@@ -48,6 +53,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     冰箱门是开关时温度变动最剧烈的地方。为了保证牛奶的新鲜，应避免存放在门架上，而应放在冷气充足且温度稳定在0-4℃的冰箱内侧隔板上。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/milk_storage_detail.png" alt="切勿放在冰箱门架上 — 冷藏储存 (7天)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ steps:
       牛奶中的乳脂肪极易吸收周围的异味。请让其避开大蒜、洋葱、泡菜等气味浓烈的食物。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>牛奶可以冷冻保存吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      冷冻牛奶会导致脂肪 and 蛋白质分离，解冻时会产生结块且风味下降。建议尽量不要冷冻，而是冷藏保存并及时饮用。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>未开封的牛奶过期了还可以喝吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      如果保持未开封并在 0-5°C 下冷藏，只要味道和气味无异常，在保质期过后最长 45 天内仍可饮用。
+    </p>
+  </details>
 </div>

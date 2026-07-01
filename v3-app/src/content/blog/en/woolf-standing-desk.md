@@ -15,6 +15,9 @@ steps:
     text: "While standing, perform deep work that requires the highest level of logic and concentration, such as writing complex proposals, translating documents, or writing, rather than light email checks. The light tension of the body boosts the brain's processing speed."
   - name: "Distribute weight evenly and maintain good posture"
     text: "Avoid standing on one leg and distribute weight evenly on both feet. Keep your shoulders and chest open, adjust the monitor height to align with your gaze, and alternate with sitting or stretching for 10 minutes after 30-50 minutes of focus."
+faqs:
+  - question: "Why did Virginia Woolf write standing up?"
+    answer: "Inspired by her painter sister working standing at a canvas, she used a standing desk as a physical ritual to keep artistic equality and focus."
 ---
 
 Virginia Woolf, evaluated as a pioneer of 20th-century modernist literature, leaving behind masterpieces such as 'Mrs. Dalloway' and 'To the Lighthouse.' How was she able to realize such intimate inner worlds and complex psychology with such persistent and sophisticated sentences? Behind her amazing concentration was a very unique working habit. Every morning, Woolf stood in front of a tilted standing desk over a meter high to write. This writing routine was inspired by the working method of her sister, Vanessa Bell, an outstanding painter. Fascinated by the way her sister stood in front of the easel, using her whole body to paint, Woolf thought that she too had to stand to write in order to perceive the sentences and the overall structure of the novel in a three-dimensional and balanced way. Today, BuildSelf shares the scientific benefits of Woolf's standing writing routine and concentration-boosting practices.
@@ -59,6 +62,9 @@ The habit of sitting and working for long hours slowly drains not only the healt
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     While standing, perform deep work that requires the highest level of logic and concentration, such as writing complex proposals, translating documents, or writing, rather than light email checks. The light tension of the body boosts the brain's processing speed.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="Arrange the heaviest and most creative core tasks" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ The habit of sitting and working for long hours slowly drains not only the healt
       Modern people spend most of their workday sitting. The moment you sit down at your desk in the morning, the brain easily mistakes it for static rest. If you take a 30-minute standing immersion routine in the morning like Virginia Woolf, you can immediately activate your cardiorespiratory function and brain. Consciously expand your standing time every day.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why did Virginia Woolf write standing up?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Inspired by her painter sister working standing at a canvas, she used a standing desk as a physical ritual to keep artistic equality and focus.
+    </p>
+  </details>
 </div>

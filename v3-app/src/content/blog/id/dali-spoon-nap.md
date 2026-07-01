@@ -15,6 +15,9 @@ steps:
     text: ""
   - name: "Eksternalisasikan alam bawah sadar segera"
     text: ""
+faqs:
+  - question: "Mengapa Dali memegang sendok saat tidur siang?"
+    answer: "Saat ia tertidur dan ototnya rileks, sendok jatuh ke piring di lantai, membangunkannya untuk menangkap inspirasi surealis."
 ---
 
 Salvador Dalí, raksasa seni surealis dan salah satu pikiran kreatif terbesar di abad ke-20. Dari mana inspirasi aneh dalam karya-karyanya berasal? Ketika Dalí menghadapi hambatan kreatif, ia tidur dengan pakaian dan sepatu botnya selama berminggu-minggu. Hari ini, BuildSelf mengeksplorasi ilmu kognitif di balik ini.
@@ -87,4 +90,22 @@ Memasuki fase transisi ke tidur memicu 'Hypnagogia', keadaan yang kaya akan gelo
       Tidur siang sendok Dalí adalah mekanisme elegan untuk menghubungkan alam bawah sadar ke hasil artistik. Saat buntu, alih-alih memaksakan logika, beri otak Anda waktu 5 menit untuk melepaskan kontrol.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Mengapa Dali memegang sendok saat tidur siang?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Saat ia tertidur dan ototnya rileks, sendok jatuh ke piring di lantai, membangunkannya untuk menangkap inspirasi surealis.
+    </p>
+  </details>
 </div>

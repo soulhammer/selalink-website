@@ -15,6 +15,9 @@ steps:
     text: "Lean back in a comfortable chair or lie in bed, and use an eye mask or earplugs to minimize external stimuli. Even if you cannot fall into a deep sleep, just closing your eyes and blocking visual information puts the visual cortex into rest mode, greatly reducing cognitive fatigue."
   - name: "Wake up immediately when the alarm rings"
     text: "When the 20-minute alarm rings, shake off the temptation to lie down longer and get up immediately. Drink a glass of cold water to awaken your body's senses and stretch lightly. Resume your afternoon work feeling your brain running fresh again like morning."
+faqs:
+  - question: "What was the effect of Churchill's wartime nap routine?"
+    answer: "With a deep 1.5-2 hour nap, he divided his day into two independent alert periods to handle heavy decision-making loads."
 ---
 
 Winston Churchill, the British Prime Minister during World War II who led the strong fight against Germany to secure the final victory of the Allies, and at the same time a historian and writer who won the Nobel Prize in Literature. How was he able to maintain his peak mental alertness without getting exhausted under the grueling state duties of over 18 hours a day? The secret lay in a very unique and firm 'nap routine' he had every afternoon. Every afternoon between 2:00 and 2:30 PM, Churchill stopped all state reports and went to his bedroom, undressed completely, and took a deep nap for 1 to 2 hours. This schedule was strictly protected even during the war. Churchill boasted that thanks to his nap, he was able to split the day into 'a day with two independent mornings.' Today, BuildSelf shares the neuroscientific truth behind Churchill's nap and the Power Nap practice for modern people to completely reset their fatigue.
@@ -59,6 +62,9 @@ While humans are awake and active, a fatigue substance called adenosine constant
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Lean back in a comfortable chair or lie in bed, and use an eye mask or earplugs to minimize external stimuli. Even if you cannot fall into a deep sleep, just closing your eyes and blocking visual information puts the visual cortex into rest mode, greatly reducing cognitive fatigue.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/churchill_afternoon_nap_relax_detail.png" alt="Block visual information and close your eyes" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ While humans are awake and active, a fatigue substance called adenosine constant
       Sitting blankly at your desk in the afternoon with low concentration greatly reduces productivity. Instead of forcing yourself through that inefficiency, recharge your focus with a 20-minute power nap like Churchill. Your brain will be optimized, allowing you to immerse yourself in the rest of the day with a fresh and clear mind.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>What was the effect of Churchill's wartime nap routine?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      With a deep 1.5-2 hour nap, he divided his day into two independent alert periods to handle heavy decision-making loads.
+    </p>
+  </details>
 </div>

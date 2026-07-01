@@ -14,6 +14,11 @@ steps:
     text: "Ultraviolet light is the main cause of rancidity in vegetable oils. If your olive oil comes in a clear plastic bottle, wrap the bottle with aluminum foil or transfer it to a dark amber or green glass bottle to shield it from light."
   - name: "Keep in a cool cupboard away from heat sources — Heat protection 🌬️"
     text: "Do not store olive oil near the stove or oven for convenience. Exposure to heat doubles the speed of oil oxidation. Keep it in a cool, dark kitchen cabinet away from all heat sources."
+faqs:
+  - question: "My olive oil solidified and turned white in the fridge. Is it spoiled?"
+    answer: "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
+  - question: "Should olive oil always be stored in dark bottles?"
+    answer: "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
 ---
 
 Did you store olive oil in the fridge to keep it fresh longer? Refrigerating olive oil causes it to solidify into white crystals, destroying its unique nutty aroma and healthy compounds. Today, StoreSelf shares room temperature storage hacks.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Refrigerating olive oil causes it to solidify and crystallize into a white paste. Repeated freezing and thawing destroys the premium flavor and key nutrients like oleic acid. Keep it at room temperature (14–18°C).
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/olive-oil_storage_detail.png" alt="Do not store in the refrigerator — Prevent solidification ❌❄️" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       Stovetop heat triggers quick oxidation and ruins quality. Store olive oil inside a cool, dark kitchen cabinet.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>My olive oil solidified and turned white in the fridge. Is it spoiled?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Should olive oil always be stored in dark bottles?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area.
+    </p>
+  </details>
 </div>

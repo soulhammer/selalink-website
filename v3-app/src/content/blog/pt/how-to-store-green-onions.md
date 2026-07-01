@@ -1,6 +1,6 @@
 ---
 title: "Como armazenar Cebolinha fresco: Guia científico de conservação"
-description: "Descubra la mejor temperatura, métodos y duración de almacenamiento para Cebolinha con base nas diretrizes oficiais de segurança."
+description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Cebolinha com base nas diretrizes oficiais de segurança."
 pubDate: "2026-01-07"
 category: "StoreSelf"
 tags: ["Cebolinha","Guia de armazenamento comprovado cientificamente","vegetable"]
@@ -14,6 +14,11 @@ steps:
     text: "Cebolinhas lavadas devem ser bem secas com papel-toalha. Coloque papel-toalha no fundo de um pote alto e guarde-as de pé com as raízes para baixo na gaveta de legumes."
   - name: "Pique, sele e guarde no freezer — Armazenamento Congelado (180Dias)"
     text: "Se não for usar em 2 semanas, pique as cebolinhas, seque bem e guarde em um saco para freezer. Adicione-as congeladas direto na panela para que não fiquem moles."
+faqs:
+  - question: "Why wrap green onions in newspaper and store them upright?"
+    answer: "Vegetables retain their growing instinct. If stored flat, they spend energy trying to bend upright, yellowing quickly. Keeping them vertical preserves energy."
+  - question: "How can I prevent slime when freezing chopped green onions?"
+    answer: "Freezing immediately breaks cell walls, releasing sticky mucin. Let the chopped green onions air-dry for 10 minutes before freezing to keep them separate and slime-free."
 ---
 
 Você já comprou um maço de cebolinha, deixou na gaveta de vegetais e jogou metade fora porque ficou gosmenta em poucos dias? Hoje, o StoreSelf ensina como mantê-la crocante por mais de um mês.
@@ -22,7 +27,7 @@ Você já comprou um maço de cebolinha, deixou na gaveta de vegetais e jogou me
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Autoridade Científica Verificada
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Este guia de conservação segue as diretrizes oficiais de: <strong>RDA & MFDS & USDA</strong>.
@@ -34,7 +39,7 @@ Você já comprou um maço de cebolinha, deixou na gaveta de vegetais e jogou me
 
 ## 1. Por que armazenar assim? Fatos científicos
 
-Compreender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
+Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.
 
 ---
 
@@ -42,17 +47,20 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe sem lavar em jornal e guarde de pé — Conservação em Temp. Ambiente (5Dias) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Embrulhe as cebolinhas secas e sem lavar em jornal e coloque-as de pé com as raízes para baixo em local fresco. Armazenar na vertical simula o crescimento natural delas e atrasa a deterioração.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/green-onions_storage_detail.png" alt="Embrulhe sem lavar em jornal e guarde de pé — Conservação em Temp. Ambiente (5Dias) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque e guarde em pote vertical com papel-toalha — Armazenamento Refrigerado (14Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -62,7 +70,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASSO 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pique, sele e guarde no freezer — Armazenamento Congelado (180Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -72,7 +80,7 @@ Compreender as características únicas de cada ingrediente e seguir o método d
 
 ---
 
-## 3. Regras cruciais e precauções
+## 3. Reglas cruciales e precauções
 
 <div class="my-6 p-5 rounded-2xl border-l-4 border-rose-500 bg-rose-500/5 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
@@ -92,4 +100,32 @@ Compreender as características únicas de cada ingrediente e seguir o método d
       Os talos e as folhas estragam em ritmos diferentes. Separar evita que apodreçam mutuamente e prolonga a conservação.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Perguntas Frequentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why wrap green onions in newspaper and store them upright?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Vegetables retain their growing instinct. If stored flat, they spend energy trying to bend upright, yellowing quickly. Keeping them vertical preserves energy.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>How can I prevent slime when freezing chopped green onions?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Freezing immediately breaks cell walls, releasing sticky mucin. Let the chopped green onions air-dry for 10 minutes before freezing to keep them separate and slime-free.
+    </p>
+  </details>
 </div>

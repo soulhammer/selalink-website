@@ -14,6 +14,11 @@ steps:
     text: "西红柿的蒂头处最易滋生霉菌。储存前摘除蒂头，不仅可以防止西红柿相互碰撞扎伤，还能显著降低发霉腐烂的风险，延长保存期。"
   - name: "仅将熟透的西红柿用报纸包裹放冰箱蔬菜室 — 冷藏储存 (7天)"
     text: "只有完全变红熟透的西红柿才能用报纸或保鲜膜逐个包裹，存放在冰箱蔬菜保鲜室（5-10℃）。这样可以防止冷气导致水分蒸发和表面干瘪，延长几天保鲜时间。"
+faqs:
+  - question: "为什么建议绝对不要把番茄放冰箱冷藏？"
+    answer: "番茄在 12°C 以下的低温下保存会停止产生风味物质，且细胞膜受损导致果肉变粉、甜度骤降。存放在常温避光处最美味。"
+  - question: "完全成熟的红番茄也放在常温下吗？"
+    answer: "不是的。熟透的红番茄在常温下过一天就会变质。熟番茄应包裹好放入冰箱冷藏蔬菜隔板中，并在 3 天内食用。"
 ---
 
 您知道吗？将西红柿（番茄）放进冰箱冷藏会破坏其特有的风味与香气。在低于12℃的低温下，番茄的细胞膜会被破坏，导致果皮变软、风味尽失。今天，StoreSelf为您分享常温熟化的科学保鲜窍门。
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      官方科学验证权威
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本指南严格遵守以下机构公认的食品安全与储存指南： <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & CDC</strong>.
@@ -48,6 +53,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     青色未熟的西红柿应放在15-20℃的常温避光处，将蒂头朝上摆放进行自然催熟。把未熟的西红柿放进冰箱会终止其熟化过程，导致果皮起皱、失去原本的风味。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tomatoes_storage_detail.png" alt="熟透前务必存放在常温避光处 — 常温储存 (7天) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ steps:
       蒂头周围最软，受重压极易变质。将蒂部朝下放置能防止因压迫导致的破损和霉菌滋生。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>为什么建议绝对不要把番茄放冰箱冷藏？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      番茄在 12°C 以下的低温下保存会停止产生风味物质，且细胞膜受损导致果肉变粉、甜度骤降。存放在常温避光处最美味。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>完全成熟的红番茄也放在常温下吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      不是的。熟透的红番茄在常温下过一天就会变质。熟番茄应包裹好放入冰箱冷藏蔬菜隔板中，并在 3 天内食用。
+    </p>
+  </details>
 </div>

@@ -14,6 +14,9 @@ steps:
     text: "Bersihkan meja Anda dari barang-barang yang tidak terkait dengan tugas Anda saat ini. Matikan ponsel cerdas Anda, letakkan di luar pandangan, atau pindahkan ke ruangan lain untuk menghilangkan pemicu lingkungan."
   - name: "Tetapkan ritual mulai dan selesai yang jelas"
     text: "Tentukan waktu pasti untuk masuk dan keluar dari zona fokus Anda. Jika waktu Anda habis, menjauhlah sepenuhnya untuk kembali ke kehidupan sehari-hari, menciptakan batas psikologis antara kerja & istirahat."
+faqs:
+  - question: "Mengapa Angelou menulis dengan mengisolasi diri di kamar hotel?"
+    answer: "Untuk memblokir otaknya dari rangsangan sensorik rumah tangga (lukisan, pekerjaan rumah), memaksa fokus ekstrem."
 ---
 
 Maya Angelou, penyair legendaris Amerika, penulis memoar, dan aktivis hak-hak sipil yang menulis otobiografi terobosan 'I Know Why the Caged Bird Sings.' Untuk fokus secara mendalam, dia check-in ke kamar hotel setempat setiap pagi pukul 06.30. Dia meminta staf hotel untuk menghapus semua lukisan, foto, dan dekorasi dari dinding, hanya menyisakan sebuah Alkitab, kamus, dek kartu, dan sebotol sherry. Hari ini, BuildSelf membagikan bagaimana menciptakan lingkungan kosong dapat meningkatkan hasil kognitif Anda.
@@ -58,6 +61,9 @@ Otak manusia terus-menerus memindai lingkungan untuk mencari isyarat visual dan 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Bersihkan meja Anda dari barang-barang yang tidak terkait dengan tugas Anda saat ini. Matikan ponsel cerdas Anda, letakkan di luar pandangan, atau pindahkan ke ruangan lain untuk menghilangkan pemicu lingkungan.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/angelou_hotel_isolation_relax_detail.png" alt="Hapus semua kekacauan visual dan digital" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Otak manusia terus-menerus memindai lingkungan untuk mencari isyarat visual dan 
       Tekad saja jarang cukup untuk melawan gangguan. Fokus sejati dibangun dengan merancang lingkungan fisik di mana godaan tidak dapat eksis. Bersihkan meja Anda, isolasi telepon Anda, dan biarkan kesederhanaan lingkungan sekitar memerintahkan otak Anda to focus.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Mengapa Angelou menulis dengan mengisolasi diri di kamar hotel?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Untuk memblokir otaknya dari rangsangan sensorik rumah tangga (lukisan, pekerjaan rumah), memaksa fokus ekstrem.
+    </p>
+  </details>
 </div>

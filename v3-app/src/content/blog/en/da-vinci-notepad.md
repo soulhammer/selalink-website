@@ -15,6 +15,9 @@ steps:
     text: "The promise to 'write it down later when I think of it' leads to immediate forgetfulness. The moment an interesting idea, observation, or impressive sentence flashes while walking or talking, quickly jot it down on paper within 5 seconds as a few words or a rough sentence."
   - name: "Have a 5-minute memo review time at the end of the day"
     text: "Every night before going to bed or at the end of the day, review the raw notes you took today. Just reviewing them helps consolidate the fragmented memories captured during the day into a solid knowledge system in the brain, and valuable thoughts can be organized separately in a proposal or diary."
+faqs:
+  - question: "Why did Da Vinci always carry a notebook at his waist?"
+    answer: "To immediately record passing curiosity, observations, and ideas without losing them, keeping his cognitive energy free."
 ---
 
 Leonardo da Vinci, the ultimate Renaissance master who left behind unprecedented superhuman achievements in art, science, anatomy, music, and civil engineering. What was the source of his genius creativity and ability to synthesize knowledge? The secret lies in a very simple but powerful habit he maintained throughout his life. Da Vinci carried a small leather-bound notebook tied to his belt at all times so that he could record inspiration whenever and wherever it struck. When he met a person with a unique face or expression on the street, he persistently followed them until they disappeared from sight to sketch a caricature in his notebook. When he observed the flow of water, he sketched the rules of the swirl on the spot. These doodles and notes later developed into thousands of pages of the 'Leonardo da Vinci Codex,' which remains a treasure of humanity. Today, BuildSelf shares the neuroscientific secrets of Da Vinci's notebook habit and how modern people can practice immediate note-taking.
@@ -59,6 +62,9 @@ Our brain is closer to a CPU (central processing unit) that processes and associ
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     The promise to 'write it down later when I think of it' leads to immediate forgetfulness. The moment an interesting idea, observation, or impressive sentence flashes while walking or talking, quickly jot it down on paper within 5 seconds as a few words or a rough sentence.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="Record key points within 5 seconds of an idea flashing" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Our brain is closer to a CPU (central processing unit) that processes and associ
       The act of trying to remember things itself accumulates subtle stress and fatigue in the brain. If you develop the habit of transferring inspiration to an external space immediately, like Da Vinci, your brain can devote 100% of its energy to its original role of thinking and creating. Start the habit of lightly recording even the smallest thoughts in your daily life the moment they arise.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why did Da Vinci always carry a notebook at his waist?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      To immediately record passing curiosity, observations, and ideas without losing them, keeping his cognitive energy free.
+    </p>
+  </details>
 </div>

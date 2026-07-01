@@ -14,6 +14,11 @@ steps:
     text: "Die Lagerung in einer Plastiktüte fängt die Feuchtigkeit aus der Atmung der Pilze ein, was zu Kondenswasser und schnellem Verderb führt. In Küchenpapier einwickeln oder in eine Papiertüte legen."
   - name: "Auf einem mittleren Regal ohne Druck lagern — Kühllagerung (3Tage)"
     text: "Pilze sind empfindlich. Wenn sie unter schweren Gegenständen zerdrückt werden, werden sie schwarz und verfaulen. Legen Sie sie vorsichtig oben auf andere Gemüse im Kühlschrank."
+faqs:
+  - question: "Why should mushrooms never be washed before storage?"
+    answer: "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
+  - question: "My mushrooms are slimy and smell slightly sour. Are they safe?"
+    answer: "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
 ---
 
 Waschen Sie Pilze vor dem Kochen mit Wasser ab? Diese Gewohnheit beeinträchtigt Aroma und Textur und beschleunigt den Verderb. Heute teilt StoreSelf Tipps zur Lagerung und Reinigung.
@@ -22,7 +27,7 @@ Waschen Sie Pilze vor dem Kochen mit Wasser ab? Diese Gewohnheit beeinträchtigt
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Geprüfte wissenschaftliche Autorität
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>RDA & USDA</strong>.
@@ -48,6 +53,9 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Pilze sind porös und saugen Wasser auf wie ein Schwamm. Das Waschen vor der Lagerung zerstört die Textur und das Aroma. Schmutz erst direkt vor dem Kochen abbürsten.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/mushrooms_storage_detail.png" alt="Pilze vor dem Lagern niemals waschen — Wasseraufnahme vermeiden ❌💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
       Pilze geben ständig Feuchtigkeit ab. Das Einwickeln in Küchenpapier absorbiert Kondenswasser und verhindert Fäulnis.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why should mushrooms never be washed before storage?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>My mushrooms are slimy and smell slightly sour. Are they safe?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately.
+    </p>
+  </details>
 </div>

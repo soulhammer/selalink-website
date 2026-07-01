@@ -15,6 +15,9 @@ steps:
     text: "Anda tidak perlu berlari 10 km sejak awal. Mulailah dengan berlari ringan selama 20-30 menit pada waktu yang ditentukan & tingkatkan jaraknya secara bertahap."
   - name: "Gunakan lari sebagai waktu untuk berdialog dengan diri sendiri"
     text: "Jangan memeriksa pesan atau email yang rumit di ponsel saat berlari; fokuslah hanya pada ritme napas dan sensasi kaki yang menyentuh tanah. Berlari dengan penuh kesadaran ini menjadi detoksifikasi mental terbaik untuk mengatur pikiran yang kacau."
+faqs:
+  - question: "Mengapa Murakami berlari 10 km setiap hari?"
+    answer: "Untuk mempertahankan konsentrasi dan daya tahan menulis, ia merangsang sel otak dengan olahraga aerobik."
 ---
 
 Haruki Murakami, seorang tokoh sastra Jepang modern yang menciptakan sensasi global dengan setiap karya yang diterbitkannya. Dia bukan hanya seorang novelis tetapi juga seorang pelari bersemangat yang telah menyelesaikan maraton penuh setiap tahun selama lebih dari 40 tahun. Ketika dia menjadi penulis penuh waktu pada tahun 1982, dia mengalami penurunan stamina & kenaikan berat badan akibat duduk & menulis sepanjang hari. Hari ini, BuildSelf mengeksplorasi alasan ilmiah di balik rutinitas lari Murakami & bagaimana Anda dapat membangun rutinitas stamina Anda sendiri.
@@ -59,6 +62,9 @@ Menulis novel adalah tugas yang menghabiskan energi mental yang luar biasa. Mura
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Anda tidak perlu berlari 10 km sejak awal. Mulailah dengan berlari ringan selama 20-30 menit pada waktu yang ditentukan & tingkatkan jaraknya secara bertahap.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/murakami_running_relax_detail.png" alt="Fokus pada waktu yang teratur daripada jarak" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Menulis novel adalah tugas yang menghabiskan energi mental yang luar biasa. Mura
       Aktivitas fisik sederhana yang diulang setiap hari akan menetap menjadi 'rutinitas otomatis' yang tidak memakan kemauan keras. Begitu ritme ini terpatri di otak, ia membentuk perisai fisik yang kokoh untuk menahan beban mental ekstrem yang berasal dari bekerja atau menulis.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Mengapa Murakami berlari 10 km setiap hari?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Untuk mempertahankan konsentrasi dan daya tahan menulis, ia merangsang sel otak dengan olahraga aerobik.
+    </p>
+  </details>
 </div>

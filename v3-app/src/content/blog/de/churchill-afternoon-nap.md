@@ -15,6 +15,9 @@ steps:
     text: "Lehnen Sie sich in einem bequemen Stuhl zurück oder legen Sie sich ins Bett. Nutzen Sie eine Schlafmaske oder Ohrstöpsel. Selbst wenn Sie nicht tief einschlafen, entlastet das bloße Schließen der Augen die Sehrinde und mindert die Müdigkeit."
   - name: "Sofort aufstehen, wenn der Wecker klingelt"
     text: "Wenn der Wecker nach 20 Minuten klingelt, widerstehen Sie der Versuchung, liegen zu bleiben, und stehen Sie sofort auf. Trinken Sie ein Glas kaltes Wasser und dehnen Sie sich leicht. Setzen Sie Ihre Arbeit mit frischer Energie fort."
+faqs:
+  - question: "Welcher Effekt hatte Churchills Mittagsschlaf im Krieg?"
+    answer: "Mit einem tiefen Schlaf teilte er seinen Tag in zwei unabhängige Phasen auf, um schwere Entscheidungen zu treffen."
 ---
 
 Winston Churchill, der britische Premierminister im Zweiten Weltkrieg, der den Kampf gegen Deutschland anführte, und Literaturnobelpreisträger. Wie konnte er bei einer täglichen Arbeitszeit von über 18 Stunden seine geistige Fitness aufrechterhalten? Das Geheimnis lag in einer Mittagschlaf-Routine. Jeden Nachmittag zwischen 14:00 und 14:30 Uhr unterbrach er alle Staatsgeschäfte, zog sich im Schlafzimmer komplett aus und schlief ein bis zwei Stunden tief. Heute stellt BuildSelf die wissenschaftlichen Erkenntnisse dahinter vor.
@@ -59,6 +62,9 @@ Während wir wach sind, reichert sich zwischen den Gehirnzellen ständig der mü
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Lehnen Sie sich in einem bequemen Stuhl zurück oder legen Sie sich ins Bett. Nutzen Sie eine Schlafmaske oder Ohrstöpsel. Selbst wenn Sie nicht tief einschlafen, entlastet das bloße Schließen der Augen die Sehrinde und mindert die Müdigkeit.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/churchill_afternoon_nap_relax_detail.png" alt="Visuelle Reize ausblenden und die Augen schließen" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Während wir wach sind, reichert sich zwischen den Gehirnzellen ständig der mü
       Nachmittags unkonzentriert am Schreibtisch zu sitzen, mindert die Produktivität. Anstatt sich durch diese Ineffizienz zu quälen, laden Sie Ihren Fokus mit einem 20-minütigen Power Nap auf. Ihr Gehirn wird optimiert, sodass Sie den Rest des Tages mit klarem Kopf arbeiten können.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Welcher Effekt hatte Churchills Mittagsschlaf im Krieg?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Mit einem tiefen Schlaf teilte er seinen Tag in zwei unabhängige Phasen auf, um schwere Entscheidungen zu treffen.
+    </p>
+  </details>
 </div>

@@ -14,6 +14,11 @@ steps:
     text: "Essuyez tout le calamar à l'intérieur et à l'extérieur au papier absorbant. L'eau résiduelle forme des cristaux de gel à la congélation qui ramollissent la chair à la décongélation. Emballez séparément."
   - name: "Placer dans un sac congélation et sceller double — Stockage Congelé (60Jours)"
     text: "Rangez le calamar emballé dans un sac congélation, videz l'air et congelez sous -18 °C. Ce double emballage empêche l'odeur de marée de se propager aux autres aliments."
+faqs:
+  - question: "Can I store raw squid in the fridge without cleaning the guts?"
+    answer: "No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling."
+  - question: "How can I prevent raw squid from smelling fishy when thawing?"
+    answer: "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
 ---
 
 Avez-vous mis du calamar frais au frigo pour retrouver une odeur de marée et une chair gâtée ? Les viscères pourrissent en premier, le vider et le congeler est capital. Aujourd'hui, StoreSelf vous montre comment faire.
@@ -22,7 +27,7 @@ Avez-vous mis du calamar frais au frigo pour retrouver une odeur de marée et un
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Autorité Scientifique Vérifiée
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Ce guide de conservation est basé sur les directives officielles de : <strong>NIFS & MFDS & USDA</strong>.
@@ -48,6 +53,9 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Les entrailles et les ventouses sales provoquent l'odeur de poisson et les bactéries. Ouvrez le corps, ôtez les viscères et la poche d'encre, puis frottez les tentacules sous l'eau pour les nettoyer.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/squid_storage_detail.png" alt="Retirer les entrailles et nettoyer les tentacules — Éviter l'odeur de marée 🦑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
       Les fruits de mer crus s'altèrent vite au frigo. Pour un stockage long, congelez-les en portions.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can I store raw squid in the fridge without cleaning the guts?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>How can I prevent raw squid from smelling fishy when thawing?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors.
+    </p>
+  </details>
 </div>

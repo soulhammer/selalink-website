@@ -14,6 +14,9 @@ steps:
     text: "Nutzen Sie einen Papierplaner, eine Wandtabelle oder eine einfache Tabellenkalkulation, um täglich die genauen Zahlen aufzuschreiben. Tragen Sie diese auch an schlechten Tagen ehrlich ein."
   - name: "Konzentrieren Sie sich auf den Akt des Aufschreibens selbst"
     text: "Beurteilen Sie Ihre Produktivität nicht anhand der niedrigen Zahlen eines einzelnen Tages. Der Akt des Aufschreibens selbst stärkt das Selbstbewusstsein und erhält den Schwung für den nächsten Tag."
+faqs:
+  - question: "Warum notierte Hemingway täglich seine Wortanzahl?"
+    answer: "Um den Schreibfortschritt objektiv zu visualisieren, Schreibblockaden vorzubeugen und die Produktivität zu fördern."
 ---
 
 Ernest Hemingway, ein Meister der modernen amerikanischen Literatur, der sowohl den Nobelpreis als auch den Pulitzer-Preis erhielt. Bekannt für seinen minimalistischen Schreibstil, war seine tägliche Disziplin ebenso legendär. Er begann frühmorgens mit dem Schreiben und hielt am Ende jeder Sitzung seine tägliche Wortzahl auf einer Wandtabelle fest. Heute untersucht BuildSelf die wissenschaftlichen Gründe für Hemingways Fortschrittsverfolgung und wie Sie Selbstbeobachtung im Alltag nutzen können.
@@ -58,6 +61,9 @@ Die quantitative Verfolgung Ihres Fortschritts löst einen kognitiven Prozess au
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Nutzen Sie einen Papierplaner, eine Wandtabelle oder eine einfache Tabellenkalkulation, um täglich die genauen Zahlen aufzuschreiben. Tragen Sie diese auch an schlechten Tagen ehrlich ein.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/hemingway_word_count_relax_detail.png" alt="Tragen Sie die Zahlen ehrlich in eine Tabelle ein" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Die quantitative Verfolgung Ihres Fortschritts löst einen kognitiven Prozess au
       Vage Bemühungen führen zu vagen Ergebnissen. Wenn Sie beginnen, Ihre Handlungen mit genauen Zahlen zu verfolgen, gewinnt Ihr Gehirn ein objektives Selbstbewusstsein. Selbst an Tagen mit niedrigen Zahlen bewahrt das bloße Aufschreiben die Verbindung zur Gewohnheit und verhindert das Aufgeben.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Warum notierte Hemingway täglich seine Wortanzahl?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Um den Schreibfortschritt objektiv zu visualisieren, Schreibblockaden vorzubeugen und die Produktivität zu fördern.
+    </p>
+  </details>
 </div>

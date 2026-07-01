@@ -15,6 +15,9 @@ steps:
     text: "Selama 5 menit menyiapkan teh atau menghitung biji kopi, jangan melihat layar ponsel Anda dan blokir rangsangan luar seperti berita atau percakapan. Fokus semata-mata pada sensasi fisik."
   - name: "Mulai mode fokus sambil minum perlahan"
     text: "Nikmati kopi atau teh yang disiapkan secara perlahan. Pertahankan kondisi otak yang tenang ini & segera lakukan tugas penting pertama Anda."
+faqs:
+  - question: "Mengapa Beethoven bersikeras menggunakan 60 biji kopi?"
+    answer: "Melalui tindakan berulang menghitung 60 biji kopi, ia mengumpulkan energi kognitif sebagai pemicu fokus."
 ---
 
 Ludwig van Beethoven, salah satu komposer terbesar dalam sejarah musik Barat yang mengatasi cobaan mematikan berupa kehilangan pendengaran dan menciptakan melodi terbesar dalam sejarah manusia seperti 'Simfoni Takdir' dan 'Simfoni Paduan Suara.' Tahukah Anda ritual unik yang dilakukannya setiap pagi sebelum mulai menggubah lagu? Itu adalah ritual kopi yang tepat dengan menghitung tepat '60 biji.' Beethoven sangat sensitif terhadap rasa & aroma kopi.
@@ -59,6 +62,9 @@ Fokus pada tindakan fisik yang tepat seperti menghitung biji kopi kecil adalah p
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Selama 5 menit menyiapkan teh atau menghitung biji kopi, jangan melihat layar ponsel Anda dan blokir rangsangan luar seperti berita atau percakapan. Fokus semata-mata pada sensasi fisik.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="Blokir rangsangan luar sepenuhnya selama 5 menit persiapan" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Fokus pada tindakan fisik yang tepat seperti menghitung biji kopi kecil adalah p
       Jika Anda terburu-buru bersiap-siap di pagi hari, otak Anda akan tetap kacau sepanjang hari. Seperti Beethoven, patuhi ritual pagi yang tepat untuk fokus pada indra Anda selama 5 menit saja. Hari yang dimulai dengan otak yang tenang memiliki kedalaman konsentrasi yang sangat berbeda.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Mengapa Beethoven bersikeras menggunakan 60 biji kopi?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Melalui tindakan berulang menghitung 60 biji kopi, ia mengumpulkan energi kognitif sebagai pemicu fokus.
+    </p>
+  </details>
 </div>

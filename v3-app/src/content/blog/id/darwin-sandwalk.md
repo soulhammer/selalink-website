@@ -15,6 +15,9 @@ steps:
     text: "Simpan ponsel Anda di saku dan jangan melihat ke layar. Di awal berjalan, munculkan satu pertanyaan jelas yang baru-baru ini Anda renungkan dan berjalanlah tanpa memaksakan diri untuk menyelesaikannya."
   - name: "Catat inspirasi segera setelah berjalan kaki"
     text: "Saat berjalan, saat sel-sel otak terhubung dengan lembut, petunjuk secara alami muncul dari luar kesadaran. Segera setelah selesai berjalan, duduklah & segera tuliskan pikiran atau inspirasi."
+faqs:
+  - question: "Apa itu Sandwalk Darwin?"
+    answer: "Itu adalah jalan tempat ia berjalan tiga putaran setiap hari untuk mengaktifkan korteks prefrontal."
 ---
 
 Charles Darwin, pria yang membawa revolusi terbesar dalam pemikiran ilmiah dalam sejarah manusia dengan menulis 'The Origin of Species' yang menjelaskan evolusi organisme berdasarkan seleksi alam. Dari mana datangnya inspirasi evolusioner hebat yang mengubah paradigma umat manusia? Darwin menghabiskan hidupnya meneliti di Down House, sebuah desa sunyi dekat London. Setiap pagi & sore, dia berjalan di 'Sandwalk,' jalan kerikil dan tanah yang dia bangun di sekitar rumahnya. Dia menyebut jalan ini 'Jalan Berpikir,' & di awal perjalanannya, dia menumpuk 5 atau 6 batu kecil di sudut, menendang satu batu setiap kali dia menyelesaikan satu putaran untuk melacak berapa banyak putaran yang telah dia lalui. Hari ini, BuildSelf mengeksplorasi prinsip-prinsip ilmiah dari rutinitas 'Sandwalk' Darwin dan bagaimana manusia modern dapat menerapkannya untuk meningkatkan kreativitas.
@@ -59,6 +62,9 @@ Berjalan adalah teknik brainstorming terbaik yang telah dioptimalkan manusia sel
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Simpan ponsel Anda di saku dan jangan melihat ke layar. Di awal berjalan, munculkan satu pertanyaan jelas yang baru-baru ini Anda renungkan dan berjalanlah tanpa memaksakan diri untuk menyelesaikannya.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/darwin_sandwalk_relax_detail.png" alt="Putuskan sambungan dari ponsel dan ajukan satu pertanyaan" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Berjalan adalah teknik brainstorming terbaik yang telah dioptimalkan manusia sel
       Otak manusia modern, yang terus-menerus mengejar dan menghitung tujuan di setiap saat, menumpuk zat kelelahan seperti adenosin, membuat penilaian kreatif menjadi sulit. Sama seperti Darwin, matikan ponsel Anda selama sekitar 20 menit sehari, berjalanlah di jalur yang sama tanpa berpikir, & berikan otak Anda waktu & ruang.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Apa itu Sandwalk Darwin?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Itu adalah jalan tempat ia berjalan tiga putaran setiap hari untuk mengaktifkan korteks prefrontal.
+    </p>
+  </details>
 </div>

@@ -14,6 +14,11 @@ steps:
     text: "The stem of a tomato is highly susceptible to mold growth. Removing the green stems before storage prevents tomatoes from scratching each other and significantly lowers the risk of mold infections."
   - name: "Wrap ripe tomatoes in newspaper and store in the crisper — Refrigerated Storage (7Days)"
     text: "Only store fully red, ripe tomatoes in the refrigerator crisper drawer (5–10°C), wrapped individually in newspaper or plastic wrap. This prevents cold air from evaporating their moisture and skin drying."
+faqs:
+  - question: "Why is it recommended never to refrigerate raw tomatoes?"
+    answer: "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
+  - question: "Should fully ripe red tomatoes also be kept at room temperature?"
+    answer: "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
 ---
 
 Did you know that storing tomatoes in the refrigerator ruins their unique flavor and aroma? Cold temperatures below 12°C break down tomato cell membranes, making the skin mushy and tasteless. Today, StoreSelf shares room temp ripening tips.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Unripe green tomatoes should be stored stem-side up in a shaded area at room temperature (15–20°C). Refrigerating unripe tomatoes permanently stops the ripening process, making the skin wrinkly and destroying the flavor.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tomatoes_storage_detail.png" alt="Store in a shaded area at room temp before fully ripe — Room Temp Storage (7Days) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       The stem area is the softest and decays quickly under weight. Keeping it down prevents bruising and mold.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why is it recommended never to refrigerate raw tomatoes?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Should fully ripe red tomatoes also be kept at room temperature?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days.
+    </p>
+  </details>
 </div>

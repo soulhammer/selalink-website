@@ -14,6 +14,9 @@ steps:
     text: "Limpia tu escritorio de cualquier elemento que no esté relacionado con tu tarea actual. Apaga tu teléfono inteligente, colócalo fuera de la vista o muévelo a otra habitación para eliminar los desencadenantes ambientales."
   - name: "Establece un ritual de inicio y fin claro"
     text: "Define horas exactas para entrar y salir de tu zona de enfoque. Cuando se acabe el tempo, aléjate por completo para volver a tu vida diaria, creando un límite psicológico entre el trabajo y el descanso."
+faqs:
+  - question: "¿Por qué Angelou escribía aislada en una habitación de hotel?"
+    answer: "Para bloquear por completo su mente de estímulos sensoriales domésticos, forzando un estado extremo de enfoque."
 ---
 
 Maya Angelou, la legendaria poeta, memorialista y activista por los derechos civiles estadounidense que escribió la innovadora autobiografía 'Sé por qué canta el pájaro enjaulado'. Para concentrarse profundamente, se registraba en una habitación de hotel local todas las mañanas a las 6:30 a. m. Solicitaba al personal del hotel que retirara todas las pinturas, fotos y decoraciones de las paredes, dejando solo una Biblia, un diccionario, una baraja de cartas y una botella de jerez. Hoy, BuildSelf comparte cómo crear un entorno vacío puede mejorar drásticamente tu rendimiento.
@@ -58,6 +61,9 @@ El cerebro humano escanea constantemente el entorno en busca de estímulos visua
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Limpia tu escritorio de cualquier elemento que no esté relacionado con tu tarea actual. Apaga tu teléfono inteligente, colócalo fuera de la vista o muévelo a otra habitación para eliminar los desencadenantes ambientales.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/angelou_hotel_isolation_relax_detail.png" alt="Elimina todo el desorden visual y digital" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ El cerebro humano escanea constantemente el entorno en busca de estímulos visua
       La fuerza de voluntad por sí sola rara vez es suficiente para combatir la distracción. El verdadero enfoque se construye diseñando un entorno físico donde la tentación no pueda existir. Limpia tu escritorio, aísla tu teléfono y deja que la simplicidad del entorno guíe a tu cerebro.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué Angelou escribía aislada en una habitación de hotel?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Para bloquear por completo su mente de estímulos sensoriales domésticos, forzando un estado extremo de enfoque.
+    </p>
+  </details>
 </div>

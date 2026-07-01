@@ -14,6 +14,9 @@ steps:
     text: "Limpe a sua secretária de quaisquer itens que não estejam relacionados com a sua tarefa atual. Desligue o seu smartphone, coloque-o fora de vista ou leve-o para outra sala para eliminar gatilhos ambientais."
   - name: "Estabeleça um ritual de início e fim claro"
     text: "Defina horas exatas para entrar e sair da sua zona de foco. Quando o tempo acabar, afaste-se completamente para voltar à sua vida quotidiana, criando um limite psicológico entre o trabalho e o descanso."
+faqs:
+  - question: "Porque é que Angelou escrevia isolada num quarto de hotel?"
+    answer: "Para bloquear por completo a sua mente de estímulos sensoriais domésticos, forçando um estado extremo de foco."
 ---
 
 Maya Angelou, a lendária poetisa, memorialista e ativista dos direitos civis americana que escreveu a autobiografia inovadora 'Sei por que o pássaro canta na gaiola'. Para se concentrar profundamente, ela hospedava-se num quarto de hotel local todas as manhãs às 6h30. Pedia à equipa do hotel para remover todos os quadros, fotos e decorações das paredes, deixando apenas uma Bíblia, um dicionário, um baralho de cartas e uma garrafa de xerez. Hoje, o BuildSelf partilha como a criação de um ambiente vazio melhora a produção.
@@ -58,6 +61,9 @@ O cérebro humano está constantemente a fazer o varrimento do ambiente à procu
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Limpe a sua secretária de quaisquer itens que não estejam relacionados com a sua tarefa atual. Desligue o seu smartphone, coloque-o fora de vista ou leve-o para outra sala para eliminar gatilhos ambientais.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/angelou_hotel_isolation_relax_detail.png" alt="Remova toda a desordem visual e digital" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ O cérebro humano está constantemente a fazer o varrimento do ambiente à procu
       A força de vontade por si só raramente é suficiente para combater a distração. O foco verdadeiro constrói-se ao desenhar um ambiente físico onde a tentação não possa existir. Limpe a sua secretária, isole o seu telemóvel e deixe que a simplicidade do ambiente comande o seu cérebro.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Perguntas Frequentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Porque é que Angelou escrevia isolada num quarto de hotel?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Para bloquear por completo a sua mente de estímulos sensoriais domésticos, forçando um estado extremo de foco.
+    </p>
+  </details>
 </div>

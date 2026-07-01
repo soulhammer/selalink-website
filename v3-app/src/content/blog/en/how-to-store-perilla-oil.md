@@ -14,6 +14,11 @@ steps:
     text: "Light and oxygen accelerate the oxidation of omega-3. Perilla oil must be kept in brown or green glass bottles, and the cap must be closed tightly after each use to minimize contact with air."
   - name: "Mix perilla oil and sesame oil at an 8:2 ratio — Natural preservative 🫒"
     text: "Try mixing perilla oil with sesame oil at a 20% ratio. Natural antioxidants in sesame oil, such as lignan, powerfully block the oxidation of perilla oil, doubling its shelf life."
+faqs:
+  - question: "Does mixing perilla oil with sesame oil increase its shelf life?"
+    answer: "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
+  - question: "Should sesame oil be refrigerated too?"
+    answer: "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
 ---
 
 Did you store perilla oil in a kitchen cabinet or room temp pantry like olive or sesame oil? Perilla oil contains over 60% omega-3 fatty acids, causing it to oxidize rapidly, rancidify, and generate harmful carcinogens at room temp. Today, StoreSelf shares cold storage hacks.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Unlike sesame oil, perilla oil lacks sesamol, a natural preservative, and contains over 60% omega-3 fatty acids, making it highly susceptible to rancidity at room temperature. Always store it in the refrigerator at 0–4°C.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/perilla-oil_storage_detail.png" alt="Always store in the refrigerator at 0–4°C — Refrigerated Storage (30Days)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       Sesame oil is rich in sesamol and sesamolin, natural antioxidants that prevent perilla oil from rancidifying.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Does mixing perilla oil with sesame oil increase its shelf life?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Should sesame oil be refrigerated too?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma.
+    </p>
+  </details>
 </div>

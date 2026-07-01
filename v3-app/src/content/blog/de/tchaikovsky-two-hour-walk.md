@@ -14,6 +14,9 @@ steps:
     text: "Lassen Sie Ihr Smartphone in der Tasche und hören Sie keine Musik oder Podcasts. Stille ist notwendig, damit Ihre unbewussten Gedanken an die Oberfläche steigen können."
   - name: "Halten Sie plötzliche Ideen sofort fest"
     text: "Tragen Sie ein kleines Notizbuch bei sich oder nutzen Sie ein Diktiergerät, um flüchtige Gedanken während des Spaziergangs festzuhalten und nach der Rückkehr zu überprüfen."
+faqs:
+  - question: "Warum hielt Tchaikovsky strikt an einem 2-stündigen Spaziergang fest?"
+    answer: "Es begann als Aberglaube, aber der 2-stündige Spaziergang steigerte die Hirndurchblutung und brachte musikalische Inspiration."
 ---
 
 Pjotr Iljitsch Tschaikowski, der legendäre Komponist, der die russische romantische Musik mit Meisterwerken wie „Schwanensee“, „Der Nussknacker“ und der „Sinfonie Pathétique“ auf weltweites Niveau hob. Er hielt einen strengen Zeitplan ein und teilte seine Arbeit in Vormittags- und Nachmittagssitzungen auf. Insbesondere ging er jeden Nachmittag exakt zwei Stunden spazieren. Er glaubte so fest an diese Routine, dass er befürchtete, eine Verkürzung um auch nur wenige Minuten würde ihn krank machen oder seine Inspiration versiegen lassen. Die musikalischen Themen, die ihm während dieser Spaziergänge einfielen, notierte er sofort in einem kleinen Notizbuch, das er stets in der Tasche trug. Heute zeigt BuildSelf, wie ein täglicher Spaziergang Ihre kreativen Gedanken anregen kann.
@@ -58,6 +61,9 @@ Das Gehen in gleichmäßigem Tempo über längere Zeit setzt Endorphine frei, di
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Lassen Sie Ihr Smartphone in der Tasche und hören Sie keine Musik oder Podcasts. Stille ist notwendig, damit Ihre unbewussten Gedanken an die Oberfläche steigen können.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tchaikovsky_two_hour_walk_relax_detail.png" alt="Trennen Sie sich vollständig von allen digitalen Kanälen" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Das Gehen in gleichmäßigem Tempo über längere Zeit setzt Endorphine frei, di
       Inspiration ist kein zufälliges Geschenk, sondern ein Gast, der diejenigen besucht, die täglich dafür arbeiten. Indem Sie Bildschirme meiden und in Stille gehen, geben Sie Ihrem Gehirn Raum, Zusammenhänge zu erkennen. Gehen Sie täglich spazieren.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Warum hielt Tchaikovsky strikt an einem 2-stündigen Spaziergang fest?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Es begann als Aberglaube, aber der 2-stündige Spaziergang steigerte die Hirndurchblutung und brachte musikalische Inspiration.
+    </p>
+  </details>
 </div>

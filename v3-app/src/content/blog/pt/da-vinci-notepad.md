@@ -15,6 +15,9 @@ steps:
     text: "A promessa de 'escrever mais tarde quando me lembrar' leva ao esquecimento imediato. No momento em que surgir uma ideia interessante, observação ou frase impressionante enquanto caminha ou fala, escreva-a rapidamente no papel em 5 segundos, como algumas palavras ou uma frase rápida."
   - name: "Ter um tempo de revisão de notas de 5 minutos no final do dia"
     text: "Todas as noites, antes de ir para a cama ou no final do dia, reveja as notas que tirou hoje. O simples ato de as rever ajuda a consolidar as memórias fragmentadas do dia num sistema de conhecimento sólido no cérebro, e os pensamentos valiosos podem ser organizados separadamente."
+faqs:
+  - question: "Porque é que Da Vinci sempre levava um caderno na cintura?"
+    answer: "Para registrar instantaneamente qualquer curiosidade ou observação sem perdê-las, mantendo livre sua energia cognitiva."
 ---
 
 Leonardo da Vinci, o mestre supremo do Renascimento que deixou conquistas sobre-humanas sem precedentes na arte, na ciência, na anatomia, na música e na engenharia civil. Qual era a fonte de sua genial criatividade e capacidade de sintetizar o conhecimento? O segredo reside num hábito muito simples mas poderoso que manteve durante toda a vida. Da Vinci trazia sempre um pequeno caderno encadernado em couro atado ao cinto para poder registar a inspiração onde e quando ela surgisse. Quando encontrava na rua alguém com um rosto ou expressão singular, seguiu-o persistentemente até o perder de vista para fazer um esboço no seu caderno. Quando observava o fluxo da água, desenhava no local as regras do redemoinho. Estes esboços e notas tornaram-se mais tarde as milhares de páginas do 'Códice Leonardo da Vinci', que continua a ser um tesouro da humanidade. Hoje, o BuildSelf partilha os segredos neurocientíficos da rotina de Da Vinci.
@@ -59,6 +62,9 @@ O nosso cérebro está mais próximo de uma CPU (unidade central de processament
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     A promessa de 'escrever mais tarde quando me lembrar' leva ao esquecimento imediato. No momento em que surgir uma ideia interessante, observação ou frase impressionante enquanto caminha ou fala, escreva-a rapidamente no papel em 5 segundos, como algumas palavras ou uma frase rápida.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="Registar pontos-chave dentro de 5 segundos após a ideia surgir" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ O nosso cérebro está mais próximo de uma CPU (unidade central de processament
       O ato de tentar lembrar-se das coisas acumula stress e fadiga subtis no cérebro. Se desenvolver o hábito de transferir a inspiração para um espaço externo imediatamente, como Da Vinci, o seu cérebro poderá dedicar 100% da sua energia à sua função original de pensar e criar. Comece hoje mesmo esse hábito.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Perguntas Frequentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Porque é que Da Vinci sempre levava um caderno na cintura?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Para registrar instantaneamente qualquer curiosidade ou observação sem perdê-las, mantendo livre sua energia cognitiva.
+    </p>
+  </details>
 </div>

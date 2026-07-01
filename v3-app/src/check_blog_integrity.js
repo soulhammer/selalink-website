@@ -236,6 +236,10 @@ function checkIntegrity() {
           logWarn(`[번역 중복 의심] ${lang.toUpperCase()} ${file}: 번역본 글자 수 분량이 한국어 원문 대비 비정상적으로 깁니다. (비율: ${(ratio * 100).toFixed(1)}%)`);
         }
       }
+      // 2-G. undefined 텍스트 누수 감지
+      if (parsed.body.includes('undefined') || parsed.frontmatter.includes('undefined')) {
+        logError(`[undefined 누수 방지] ${lang.toUpperCase()} ${file}: 포스트 내용 내에 'undefined' 문자열이 감지되었습니다.`);
+      }
     });
 
     if (!hasErrors) {

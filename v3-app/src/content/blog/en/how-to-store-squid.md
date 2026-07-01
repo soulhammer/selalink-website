@@ -14,6 +14,11 @@ steps:
     text: "Wipe all water off the washed squid inside and out with paper towels. Remaining water forms large ice crystals when frozen, which damages the tissue and makes the squid mushy upon thawing. Seal individually in wrap."
   - name: "Place in a freezer bag and seal double — Frozen Storage (60Days)"
     text: "Put the wrapped squid in a freezer bag, squeeze out the air, and freeze it below -18°C. This double sealing blocks the seafood odor from transferring to other frozen foods."
+faqs:
+  - question: "Can I store raw squid in the fridge without cleaning the guts?"
+    answer: "No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling."
+  - question: "How can I prevent raw squid from smelling fishy when thawing?"
+    answer: "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
 ---
 
 Have you ever put fresh squid in a plastic bag in the fridge only to have the kitchen smell fishy and the meat spoil? Squid guts decay first, making handling and freezing essential. Today, StoreSelf shares safe squid handling tips.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     The squid's innards and the dirt on its suction cups are the main cause of fishy smells and bacteria. Split the body open, remove the entrailles and ink sac, and rub the tentacles under running water to scrub away all dirt.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/squid_storage_detail.png" alt="Clean innards and tentacles thoroughly — Block fishy odor 🦑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       Raw seafood spoils rapidly in the fridge. For longer storage, freeze it in portions.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can I store raw squid in the fridge without cleaning the guts?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>How can I prevent raw squid from smelling fishy when thawing?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors.
+    </p>
+  </details>
 </div>

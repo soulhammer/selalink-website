@@ -15,6 +15,9 @@ steps:
     text: "Durante los 5 minutos de preparar el té o contar los granos, no mires la pantalla de tu teléfono y bloquea los estímulos verbales como las noticias o la conversación. Concéntrate únicamente en las sensaciones físicas."
   - name: "Iniciar el modo de enfoque mientras bebes lentamente"
     text: "Saborea el café o té preparado lentamente. Mantén este estado cerebral tranquilo e ingresa inmediatamente a tu primera tarea importante. Repetir este ritual por la mañana condiciona al cerebro a reconocer el sabor como un disparador."
+faqs:
+  - question: "¿Por qué Beethoven insistía en contar 60 granos de café?"
+    answer: "A través del acto repetitivo de contar 60 granos, concentraba la energía cognitiva para usarla como disparador de concentración."
 ---
 
 Ludwig van Beethoven, uno de los más grandes compositores de la historia de la música occidental, que superó la prueba mortal de la pérdida auditiva y creó las melodías más grandiosas de la historia, como la 'Sinfonía del Destino' y la 'Sinfonía Coral'. ¿Sabías que realizaba un ritual matutino antes de empezar a componer? Era el ritual de contar exactamente '60 granos' de café. Beethoven era muy sensible al sabor y aroma del café e insistía en la proporción perfecta. Contar estos 60 granos era una entrada sagrada para aislar los ruidos externos y entrar en su mundo musical. Hoy, BuildSelf comparte los secretos científicos del ritual de Beethoven y cómo diseñar una rutina matutina para maximizar tu enfoque.
@@ -59,6 +62,9 @@ Concentrarse en acciones físicas precisas como contar granos de café es un exc
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Durante los 5 minutos de preparar el té o contar los granos, no mires la pantalla de tu teléfono y bloquea los estímulos verbales como las noticias o la conversación. Concéntrate únicamente en las sensaciones físicas.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="Bloquear completamente los estímulos externos durante 5 minutos de preparación" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Concentrarse en acciones físicas precisas como contar granos de café es un exc
       Si te apresuras a prepararte por la mañana, tu cerebro permanecerá desordenado durante todo el día. Al igual que Beethoven, mantén un ritual matutino preciso de concentrarte en tus sentidos durante solo 5 minutos. Un día que comienza con un cerebro tranquilo tiene una profundidad de concentración diferente.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué Beethoven insistía en contar 60 granos de café?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      A través del acto repetitivo de contar 60 granos, concentraba la energía cognitiva para usarla como disparador de concentración.
+    </p>
+  </details>
 </div>

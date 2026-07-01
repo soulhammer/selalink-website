@@ -14,6 +14,9 @@ steps:
     text: "Deja tu teléfono en el bolsillo y no escuches música ni podcasts. El silencio es necesario para permitir que tus pensamientos subconscientes salgan a la superficie."
   - name: "Captura tus ideas repentinas de inmediato"
     text: "Lleva un cuaderno pequeño o utiliza una grabadora de voz rápida para capturar los pensamientos fugaces a medida que aparecen durante tu caminata, y revísalos cuando regreses."
+faqs:
+  - question: "¿Por qué Tchaikovsky respetaba estrictamente una caminata de 2 horas?"
+    answer: "Comenzó por obsesión, pero caminar 2 horas aumentaba el flujo de sangre cerebral y relajaba los nervios, trayendo inspiración."
 ---
 
 Pyotr Ilyich Tchaikovsky, el legendario compositor que elevó la música romántica rusa a un nivel mundial con obras maestras como 'El lago de los cisnes', 'El cascanueces' y la 'Sinfonía Patética'. Mantenía un horario increíblemente estricto, dividiendo sus sesiones de composición en mañana y tarde. En particular, salía a caminar exactamente dos horas todas las tardes. Creía tan firmemente en esta rutina que temía que acortarla aunque fuera unos minutos le causaría una enfermedad física o agotaría su inspiración musical. Los temas musicales que se le ocurrían durante estas caminatas se anotaban inmediatamente en un pequeño cuaderno que siempre llevaba en el bolsillo. Hoy, BuildSelf comparte cómo una caminata diaria puede despertar tus ideas creativas.
@@ -58,6 +61,9 @@ Caminar a un ritmo regular durante un período prolongado libera endorfinas que 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Deja tu teléfono en el bolsillo y no escuches música ni podcasts. El silencio es necesario para permitir que tus pensamientos subconscientes salgan a la superficie.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tchaikovsky_two_hour_walk_relax_detail.png" alt="Desconéctate por completo de todas las entradas digitales" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Caminar a un ritmo regular durante un período prolongado libera endorfinas que 
       La inspiración no es un regalo aleatorio; es una invitada que visita a quienes trabajan por ella a diario. Al alejarte de las pantallas y caminar en silencio, le das a tu cerebro el espacio que necesita para conectar los puntos. Comprométete con una caminata diaria.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué Tchaikovsky respetaba estrictamente una caminata de 2 horas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Comenzó por obsesión, pero caminar 2 horas aumentaba el flujo de sangre cerebral y relajaba los nervios, trayendo inspiración.
+    </p>
+  </details>
 </div>

@@ -14,6 +14,9 @@ steps:
     text: "Tinggalkan ponsel cerdas Anda di saku dan jangan mendengarkan musik atau podcast. Keheningan diperlukan untuk membiarkan pikiran bawah sadar Anda muncul ke permukaan."
   - name: "Tangkap ide-ide mendadak Anda segera"
     text: "Bawalah buku catatan kecil atau gunakan perekam suara cepat untuk menangkap pikiran-pikiran sekilas saat muncul selama Anda berjalan, dan tinjau kembali setelah Anda kembali."
+faqs:
+  - question: "Mengapa Tchaikovsky sangat mematuhi jalan-jalan selama 2 jam?"
+    answer: "Dimulai sebagai obsesi, tetapi 2 jam berjalan meningkatkan aliran darah otak dan membawa inspirasi musik."
 ---
 
 Pyotr Ilyich Tchaikovsky, komposer legendaris yang mengangkat musik romantis Rusia ke tingkat kelas dunia dengan mahakarya seperti 'Swan Lake,' 'The Nutcracker,' dan 'Pathétique Symphony.' Dia mempertahankan jadwal yang sangat ketat, membagi sesi menggubah lagunya menjadi pagi dan sore. Khususnya, dia pergi berjalan-jalan selama tepat dua jam setiap sore. Dia sangat percaya pada rutinitas ini sehingga dia takut jika menguranginya beberapa menit saja akan menyebabkan penyakit fisik atau menghabiskan inspirasi musiknya. Tema musik yang muncul di kepalanya selama berjalan-jalan ini segera ditulis di buku catatan kecil yang selalu dibawanya di saku. Hari ini, BuildSelf membagikan bagaimana jalan kaki harian dapat memicu pemikiran kreatif Anda.
@@ -58,6 +61,9 @@ Berjalan dengan tempo teratur dalam waktu lama melepaskan endorfin yang menguran
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Tinggalkan ponsel cerdas Anda di saku dan jangan mendengarkan musik atau podcast. Keheningan diperlukan untuk membiarkan pikiran bawah sadar Anda muncul ke permukaan.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tchaikovsky_two_hour_walk_relax_detail.png" alt="Putuskan sambungan sepenuhnya dari semua input digital" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Berjalan dengan tempo teratur dalam waktu lama melepaskan endorfin yang menguran
       Inspirasi bukanlah hadiah acak; itu adalah tamu yang mengunjungi mereka yang bekerja untuk itu setiap hari. Dengan menjauh dari layar & berjalan dalam keheningan, Anda memberikan otak Anda ruang yang dibutuhkan untuk menghubungkan titik-titik.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Mengapa Tchaikovsky sangat mematuhi jalan-jalan selama 2 jam?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Dimulai sebagai obsesi, tetapi 2 jam berjalan meningkatkan aliran darah otak dan membawa inspirasi musik.
+    </p>
+  </details>
 </div>

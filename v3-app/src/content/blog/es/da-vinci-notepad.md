@@ -15,6 +15,9 @@ steps:
     text: "La promesa de 'lo escribiré más tarde cuando lo piense' conduce al olvido inmediato. En el momento en que surja una idea interesante, observación o frase impresionante mientras caminas o hablas, escríbela rápidamente en papel en 5 segundos como unas pocas palabras o una oración rápida."
   - name: "Tener un tiempo de revisión de notas de 5 minutos al final del día"
     text: "Cada noche antes de acostarte o al final del día, revisa las notas que tomaste hoy. El simple hecho de revisarlas ayuda a consolidar los recuerdos fragmentados del día en un sistema de conocimiento sólido en el cerebro, y los pensamientos valiosos pueden organizarse por separado."
+faqs:
+  - question: "¿Por qué Da Vinci siempre llevaba un cuaderno en la cintura?"
+    answer: "Para registrar al instante cualquier curiosidad u observación sin perderlas, manteniendo libre su energía cognitiva."
 ---
 
 Leonardo da Vinci, el gran maestro del Renacimiento que dejó logros sobrehumanos sin precedentes en el arte, la ciencia, la anatomía, la música y la ingeniería civil. ¿Cuál era la fuente de su genial creatividad y capacidad para sintetizar el conocimiento? El secreto reside en un hábito muy simple pero poderoso que mantuvo durante toda su vida. Da Vinci llevaba un pequeño cuaderno encuadernado en cuero atado al cinturón en todo momento para poder registrar la inspiración donde y cuando surgiera. Cuando se encontraba con alguien con un rostro o expresión singular en la calle, lo seguía persistentemente hasta perderlo de vista para dibujarlo. Cuando observaba el flujo de agua, dibujaba las reglas del remolino en el acto. Estos bocetos y notas se convirtieron más tarde en miles de páginas del 'Códice Leonardo da Vinci', que sigue siendo un tesoro de la humanidad. Hoy, BuildSelf comparte los secretos neurocientíficos de la rutina de Da Vinci y cómo los profesionales modernos pueden practicar la anotación inmediata.
@@ -59,6 +62,9 @@ Nuestro cerebro está más cerca de una CPU (unidad central de procesamiento) qu
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     La promesa de 'lo escribiré más tarde cuando lo piense' conduce al olvido inmediato. En el momento en que surja una idea interesante, observación o frase impresionante mientras caminas o hablas, escríbela rápidamente en papel en 5 segundos como unas pocas palabras o una oración rápida.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="Registrar puntos clave dentro de los 5 segundos de surgir la idea" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Nuestro cerebro está más cerca de una CPU (unidad central de procesamiento) qu
       El acto de intentar recordar las cosas acumula estrés y fatiga sutiles en el cerebro. Si desarrollas el hábito de transferir la inspiración a un espacio externo de inmediato, como Da Vinci, tu cerebro podrá dedicar el 100% de su energía a su función original de pensar y crear. Comienza hoy mismo el hábito de registrar ligeramente incluso los pensamientos más pequeños.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué Da Vinci siempre llevaba un cuaderno en la cintura?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Para registrar al instante cualquier curiosidad u observación sin perderlas, manteniendo libre su energía cognitiva.
+    </p>
+  </details>
 </div>

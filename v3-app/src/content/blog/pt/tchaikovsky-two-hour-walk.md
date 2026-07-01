@@ -14,6 +14,9 @@ steps:
     text: "Deixe o seu telemóvel no bolso e não ouça música nem podcasts. O silêncio é necessário para permitir que os seus pensamentos subconscientes subam à superfície."
   - name: "Capte as suas ideias repentinas de imediato"
     text: "Lave um caderno pequeno ou use um gravador de voz rápido para capturar os pensamentos fugazes à medida que aparecem durante a caminhada, e reveja-os quando regressar."
+faqs:
+  - question: "Porque é que Tchaikovsky respeitava estritamente uma caminhada de 2 horas?"
+    answer: "Começou por obsessão, mas caminhar 2 horas aumentava o fluxo de sangue cerebral e relaxava os nervos, trazendo inspiração."
 ---
 
 Pyotr Ilyich Tchaikovsky, o lendário compositor que elevou a música romântica russa a um nível mundial com obras-primas como 'O Lago dos Cisnes', 'O Quebra-Nozes' e a 'Sinfonia Patética'. Mantinha um horário incrivelmente rigoroso, dividindo as suas sessões de composição em manhã e tarde. Em particular, saía para caminhar exatamente duas horas todas as tardes. Acreditava tão firmemente nesta rotina que temia que encurtá-la mesmo por alguns minutos causaria uma doença física ou esgotaria a sua inspiração musical. Os temas que lhe surgiam durante estas caminhadas eram registados imediatamente num pequeno caderno no bolso. Hoje, o BuildSelf partilha como uma caminhada diária pode despertar os seus pensamentos criativos.
@@ -58,6 +61,9 @@ Caminhar a um ritmo regular por um período prolongado liberta endorfinas que re
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Deixe o seu telemóvel no bolso e não ouça música nem podcasts. O silêncio é necessário para permitir que os seus pensamentos subconscientes subam à superfície.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tchaikovsky_two_hour_walk_relax_detail.png" alt="Desligue-se completamente de todas as fontes digitais" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Caminhar a um ritmo regular por um período prolongado liberta endorfinas que re
       A inspiração não é um presente aleatório; é uma convidada que visita quem trabalha para ela diariamente. Ao afastar-se dos ecrãs e caminhar em silêncio, dá ao seu cérebro o espaço necessário para ligar os pontos. Compromete-se com uma caminhada diária.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Perguntas Frequentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Porque é que Tchaikovsky respeitava estritamente uma caminhada de 2 horas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Começou por obsessão, mas caminhar 2 horas aumentava o fluxo de sangue cerebral e relaxava os nervos, trazendo inspiração.
+    </p>
+  </details>
 </div>

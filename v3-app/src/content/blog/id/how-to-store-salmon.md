@@ -14,6 +14,11 @@ steps:
     text: "Oleskan sedikit jus lemon atau alkohol masak pada permukaan salmon yang sudah kering. Keasaman dan alkohol berfungsi sebagai pengawet alami, menekan bakteri dan oksidasi lemak."
   - name: "Bungkus rapat dengan plastik wrap tanpa udara — Penyimpanan Beku (90Hari) 📦"
     text: "Bungkus salmon dengan plastik wrap secara rapat, buang semua udaranya, lalu masukkan ke dalam kantong ziploc. Cara ini menjaga kesegaran hingga 2 hari di kulkas dan 60 hari di freezer."
+faqs:
+  - question: "The color of my salmon turned slightly dull. Can I still eat it?"
+    answer: "If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately."
+  - question: "What should I keep in mind when freezing leftover raw salmon?"
+    answer: "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
 ---
 
 Apakah Anda membiarkan salmon segar di kulkas selama lebih dari dua hari? Salmon memiliki kadar air tinggi, memicu bakteri berkembang cepat. Hari ini, StoreSelf membagikan tips penyimpanan salmon.
@@ -22,7 +27,7 @@ Apakah Anda membiarkan salmon segar di kulkas selama lebih dari dua hari? Salmon
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Otoritas Ilmiah Terverifikasi
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>FDA & USDA</strong>.
@@ -48,6 +53,9 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Air dan minyak pada permukaan salmon mentah adalah penyebab utama bakteri berkembang biak. Tekan kedua sisi salmon dengan tisu dapur untuk mengeringkannya.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/salmon_storage_detail.png" alt="Lap bersih minyak dan air di permukaan — Penyimpanan Dingin (2Hari) 🍣" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
       Paparan oksigen memicu ketengikan lemak dan tekstur kering. Membungkusnya dengan rapat menghalangi kontak dengan udara.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>The color of my salmon turned slightly dull. Can I still eat it?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>What should I keep in mind when freezing leftover raw salmon?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals.
+    </p>
+  </details>
 </div>

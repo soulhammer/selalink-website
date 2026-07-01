@@ -15,6 +15,9 @@ steps:
     text: ""
   - name: "Externalize the subconscious immediately"
     text: ""
+faqs:
+  - question: "Why did Dali hold a spoon during naps?"
+    answer: "The moment he fell asleep, muscles relaxed and the spoon hit a plate on the floor, waking him up to capture surreal inspirations from hypnagogia."
 ---
 
 Salvador Dalí, a giant of surrealist art and one of the greatest creative minds of the 20th century. Where did the bizarre and whimsical inspirations in his works come from? When Dalí faced creative blocks or mental fatigue, he sat comfortably in a wooden chair and lightly held a metal spoon in one hand, placing a metal plate directly on the floor beneath it. Today, BuildSelf explores the science behind Dalí's spoon napping and how you can apply it to restore daily focus.
@@ -87,4 +90,22 @@ Entering the transition phase to sleep triggers 'Hypnagogia,' a state rich in th
       Dalí's spoon nap was an elegant mechanism to link the subconscious to artistic output. When blocked, instead of forcing analytical logic, gift your brain 5 minutes to release conscious control and reorganize.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why did Dali hold a spoon during naps?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      The moment he fell asleep, muscles relaxed and the spoon hit a plate on the floor, waking him up to capture surreal inspirations from hypnagogia.
+    </p>
+  </details>
 </div>

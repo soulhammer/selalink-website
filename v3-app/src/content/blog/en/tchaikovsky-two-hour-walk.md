@@ -14,6 +14,9 @@ steps:
     text: "Leave your smartphone in your pocket and do not listen to music or podcasts. Silence is necessary to allow your subconscious thoughts to rise to the surface."
   - name: "Capture your sudden ideas immediately"
     text: "Carry a small notebook or use a quick voice recorder to capture fleeting thoughts as they appear during your walk, and review them once you return."
+faqs:
+  - question: "Why did Tchaikovsky strictly observe a 2-hour walk?"
+    answer: "It started as a superstitious obsession, but 2 hours of walking increased brain blood flow and relaxed nerves, bringing musical inspiration."
 ---
 
 Pyotr Ilyich Tchaikovsky, the legendary composer who elevated Russian romantic music to a world-class level with masterpieces like 'Swan Lake,' 'The Nutcracker,' and the 'Pathétique Symphony.' He maintained an incredibly strict schedule, separating his composing sessions into morning and afternoon. Especially, he went out for a walk for exactly two hours every single afternoon. He believed so strongly in this routine that he feared cutting it short by even a few minutes would cause physical illness or exhaust his musical inspiration. The musical themes that came to him during these walks were immediately written down in a small notebook he always carried in his pocket. Today, BuildSelf shares how a daily walk can spark your creative thoughts.
@@ -58,6 +61,9 @@ Walking at a regular tempo for a prolonged period releases endorphins that reduc
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Leave your smartphone in your pocket and do not listen to music or podcasts. Silence is necessary to allow your subconscious thoughts to rise to the surface.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tchaikovsky_two_hour_walk_relax_detail.png" alt="Disconnect completely from all digital inputs" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Walking at a regular tempo for a prolonged period releases endorphins that reduc
       Inspiration is not a random gift; it is a guest that visits those who work for it daily. By stepping away from your screens and walking in silence, you give your brain the space it needs to connect the dots. Commit to a daily walk, embrace the silence, and let your subconscious solve your hardest problems.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why did Tchaikovsky strictly observe a 2-hour walk?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      It started as a superstitious obsession, but 2 hours of walking increased brain blood flow and relaxed nerves, bringing musical inspiration.
+    </p>
+  </details>
 </div>

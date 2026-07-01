@@ -14,6 +14,11 @@ steps:
     text: "Refrigerating unpeeled whole garlic causes it to sprout and decay quickly due to cold moisture. The scientific storage method is to place them in a mesh bag and hang them in a cool, dark, and well-ventilated area (10–15°C)."
   - name: "Freeze minced garlic in silicone trays — Frozen Storage (180Days)"
     text: "For large amounts of garlic, mince and lay them flat in a ziploc bag with pre-scored grid lines, or freeze them in silicone cube trays. Pop out one cube whenever cooking, which prevents nutrient loss and is highly convenient."
+faqs:
+  - question: "Why does peeled garlic spoil so quickly when exposed to moisture?"
+    answer: "Peeled garlic lacks its protective skin, making it highly vulnerable to humidity. Excess moisture triggers rapid mold growth; keep them dry using sugar and paper towels."
+  - question: "Should whole garlic heads be stored in the fridge or at room temp?"
+    answer: "Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature."
 ---
 
 Have you ever bought peeled garlic only to have it turn mushy and grow white mold in just a few days because peeling it every time is a hassle? Today, StoreSelf shares scientific moisture control hacks to keep garlic fresh longer.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Spread a 1cm layer of sugar evenly at the bottom of an airtight container, cover it with 2–3 layers of paper towels, and place the peeled garlic inside. Sugar acts as a natural desiccant to absorb ambient moisture and keep the garlic dry.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/garlic_storage_detail.png" alt="Spread sugar and paper towels at the bottom of the container — Refrigerated Storage (14Days) 🪙" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       If blue or black mold appears, do not just wash it off and cook. Mold spores spread deeply into the flesh, making it unsafe.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why does peeled garlic spoil so quickly when exposed to moisture?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Peeled garlic lacks its protective skin, making it highly vulnerable to humidity. Excess moisture triggers rapid mold growth; keep them dry using sugar and paper towels.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Should whole garlic heads be stored in the fridge or at room temp?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature.
+    </p>
+  </details>
 </div>

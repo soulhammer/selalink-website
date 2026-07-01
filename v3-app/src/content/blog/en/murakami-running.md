@@ -15,6 +15,9 @@ steps:
     text: "You do not need to run 10km from the start. Start by lightly running for 20-30 minutes at a set time (e.g., 8 PM after work) and gradually increase the distance. The key is not speed, but instilling a regular rhythm into your body."
   - name: "Use running as a time for self-dialogue"
     text: "Do not check complex messages or emails on your smartphone while running; focus solely on your breathing rhythm and the sensation of your feet touching the ground. This mindful run becomes the best mental detox to organize a cluttered mind."
+faqs:
+  - question: "Why does Murakami run 10km every day?"
+    answer: "To sustain high concentration and endurance for writing, he stimulates brain cells with aerobic exercise and builds a solid physical base."
 ---
 
 Haruki Murakami, a giant of modern Japanese literature who creates a global sensation with every work he publishes. He is not only a novelist but also a passionate runner who has completed a full marathon every year for over 40 years. When he became a full-time writer in 1982, he experienced a decline in stamina and weight gain from sitting and writing all day. He realized that to sustain creative activities in the long run, a novelist needs not just talent, but strong physical stamina to maintain high concentration. He quit smoking and started a routine of running 10km or swimming 1,500m every morning, which he maintains wherever he goes. Today, BuildSelf explores the scientific reasons behind Murakami's running and how you can build your own stamina routine.
@@ -59,6 +62,9 @@ Writing a novel is a task that consumes extreme mental energy. Murakami trained 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     You do not need to run 10km from the start. Start by lightly running for 20-30 minutes at a set time (e.g., 8 PM after work) and gradually increase the distance. The key is not speed, but instilling a regular rhythm into your body.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/murakami_running_relax_detail.png" alt="Focus on regular time rather than distance" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Writing a novel is a task that consumes extreme mental energy. Murakami trained 
       Simple physical activities repeated daily settle into automatic routines that do not consume willpower. Once this rhythm is engraved in the brain, it forms a solid physical shield to withstand the extreme mental load that comes from working or writing. Make regular exercise a top priority in your life and maintain the rhythm, just like Murakami.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why does Murakami run 10km every day?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      To sustain high concentration and endurance for writing, he stimulates brain cells with aerobic exercise and builds a solid physical base.
+    </p>
+  </details>
 </div>

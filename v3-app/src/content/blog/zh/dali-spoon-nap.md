@@ -15,6 +15,9 @@ steps:
     text: ""
   - name: "立即将潜意识外在化"
     text: ""
+faqs:
+  - question: "达利为什么在午睡时手里拿着勺子？"
+    answer: "入睡瞬间肌肉放松，勺子击中地上的盘子发出声音将其唤醒，以便能够立即捕捉在无意识（半醒状态）下产生的奇特创意。"
 ---
 
 萨尔瓦多·达利，超现实主义艺术巨匠，20世纪最伟大的创意心灵之一。他作品中那些怪诞、离奇的灵感究竟源自何处？当达利面临创意瓶颈或精神疲劳时，他会舒适地坐在木椅上，一只手轻轻拿一把金属勺子，并将一块金属盘子直接放在地上的手下方。今天，BuildSelf将带您探索达利“勺子昼寝”背后的科学原理，以及您如何应用它来恢复每日的专注力。
@@ -87,4 +90,22 @@ steps:
       达利的勺子昼寝是将无意识与艺术产出相连接的优雅机制。当遇到瓶颈时，不要强求逻辑分析，给大脑5分钟的时间释放意识控制并重新整理。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>达利为什么在午睡时手里拿着勺子？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      入睡瞬间肌肉放松，勺子击中地上的盘子发出声音将其唤醒，以便能够立即捕捉在无意识（半醒状态）下产生的奇特创意。
+    </p>
+  </details>
 </div>

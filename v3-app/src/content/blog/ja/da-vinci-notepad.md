@@ -15,6 +15,9 @@ steps:
     text: "歩いているときや会話中に、興味深い企画アイデア、観察結果、印象深い文章などが浮かんだら、5秒以内にためらわずに、いくつかの単語やラフな一言で素早く紙の上に書き出します。「後で思い出したら書こう」という決意は、即座の忘却につながります。"
   - name: "一日の終わりに5分間のメモレビュー時間を持つ"
     text: "毎晩寝る前や一日の終わりに、今日書き留めたありのままのメモに目を通します。目を通す行為だけで、日中に捉えた断片的な記憶が脳の中で強固な知識体系として長期記憶化され、価値のある考えは企画書や日記帳に別途整理します。"
+faqs:
+  - question: "ダ・ヴィンチはなぜいつも腰に手帳を下げていたのですか？"
+    answer: "頭に浮かぶ瞬間的な好奇心や観察、アイデアを1秒たりとも逃さず即座に記録し、脳の認知エネルギーを解放しておくためでした。"
 ---
 
 美術、科学、解剖学、幾何学、音楽、土木工学など多方面で、人類史上類を見ない超人的な業績を残したルネサンスの絶対的巨匠、レオナルド・ダ・ヴィンチ。彼はいつでもどこでもインスピレーションが浮かんだら即座に記録できるよう、一生革で製本された小さな手帳をベルトに結びつけて持ち歩きました。この落書きとメモが、後世の絵画、飛行体設計、解剖学的発見の基礎となった数千枚の「ダ・ヴィンチ・コデックス（手稿）」へと発展しました。本日、BuildSelfではダ・ヴィンチのメモ習慣の中に隠された脳科学的秘密と、現代人が日常生活でアイデアを逃さない即時メモ実践法を紹介します。
@@ -59,6 +62,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     歩いているときや会話中に、興味深い企画アイデア、観察結果、印象深い文章などが浮かんだら、5秒以内にためらわずに、いくつかの単語やラフな一言で素早く紙の上に書き出します。「後で思い出したら書こう」という決意は、即座の忘却につながります。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="アイデアがひらめいた5秒以内に要点だけを記録する" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ steps:
       記憶しておこうと努める行為自体が、脳に微細なストレスと疲労を蓄積させます。ダ・ヴィンチのようにインスピレーションを即座に外部の空間に移し替える習慣をつければ、脳は完全に「考えて創造する本来の役割」に100％のエネルギーを注ぐことができます。日常生活での些細な考えでも、浮かんだ瞬間に軽く記録しておく習慣を今日から始めてみてください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>ダ・ヴィンチはなぜいつも腰に手帳を下げていたのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      頭に浮かぶ瞬間的な好奇心や観察、アイデアを1秒たりとも逃さず即座に記録し、脳の認知エネルギーを解放しておくためでした。
+    </p>
+  </details>
 </div>

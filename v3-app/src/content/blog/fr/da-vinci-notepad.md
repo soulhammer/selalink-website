@@ -15,6 +15,9 @@ steps:
     text: "Se promettre de « l'écrire plus tard » conduit à l'oubli immédiat. Dès qu'une idée intéressante, une observation ou une phrase marquante apparaît en marchant ou en parlant, notez-la rapidement sur le papier en 5 secondes, sous forme de quelques mots ou d'une phrase rapide."
   - name: "Consacrer 5 minutes à la révision des notes en fin de journée"
     text: "Chaque soir avant de vous coucher ou en fin de journée, passez en revue les notes brutes prises aujourd'hui. Cette simple révision aide à consolider les souvenirs fragmentés de la journée dans un système de connaissances solide, et les pensées précieuses peuvent être classées à part."
+faqs:
+  - question: "Pourquoi De Vinci portait-il toujours un carnet à la taille ?"
+    answer: "Pour noter immédiatement les curiosités et observations afin de libérer son attention de la charge mentale."
 ---
 
 Léonard de Vinci, le maître absolu de la Renaissance qui a laissé des réalisations surhumaines sans précédent dans l'art, la science, l'anatomie, la musique et le génie civil. Quelle était la source de son génie créatif et de sa capacité à synthétiser les connaissances ? Le secret réside dans une habitude très simple mais puissante qu'il a conservée tout au long de sa vie. De Vinci portait en permanence un petit carnet relié en cuir attaché à sa ceinture afin de pouvoir enregistrer l'inspiration où et quand elle se présentait. Lorsqu'il rencontrait dans la rue une personne au visage ou à l'expression singulière, il la suivait avec insistance jusqu'à ce qu'elle disparaisse de sa vue pour en faire un croquis. Lorsqu'il observait l'écoulement de l'eau, il dessinait sur-le-champ les règles du tourbillon. Ces croquis et notes sont devenus plus tard les milliers de pages du « Codex Léonard de Vinci », qui reste un trésor de l'humanité. Aujourd'hui, BuildSelf partage les secrets neuroscientifiques de la routine de De Vinci.
@@ -59,6 +62,9 @@ Notre cerveau est plus proche d'un processeur (CPU) qui traite et associe des in
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Se promettre de « l'écrire plus tard » conduit à l'oubli immédiat. Dès qu'une idée intéressante, une observation ou une phrase marquante apparaît en marchant ou en parlant, notez-la rapidement sur le papier en 5 secondes, sous forme de quelques mots ou d'une phrase rapide.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="Noter les points clés dans les 5 secondes suivant l'apparition de l'idée" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Notre cerveau est plus proche d'un processeur (CPU) qui traite et associe des in
       Le fait d'essayer de se souvenir des choses accumule un stress et une fatigue subtils dans le cerveau. Si vous prenez l'habitude de transférer immédiatement l'inspiration vers un espace externe, comme De Vinci, votre cerveau pourra consacrer 100 % de son énergie à son rôle d'origine. Prenez cette habitude dès aujourd'hui.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Pourquoi De Vinci portait-il toujours un carnet à la taille ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Pour noter immédiatement les curiosités et observations afin de libérer son attention de la charge mentale.
+    </p>
+  </details>
 </div>

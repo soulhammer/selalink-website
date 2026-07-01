@@ -15,7 +15,7 @@ steps:
   - name: "呼吸を整えて復帰する"
     text: ""
 faqs:
-  - question: "カントはなぜ毎日午後3時30분きっかりに散歩に出かけたのですか？"
+  - question: "カントはなぜ毎日午後3時30分きっかりに散歩に出かけたのですか？"
     answer: "高度な哲学研究を長期にわたって維持するため、身体のバイオリズムを時計のように規則正しく管理し、健康と精神の平穏を守るための厳格な儀式でした。"
 ---
 
@@ -106,7 +106,7 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>カントはなぜ毎日午後3時30분きっかりに散歩に出かけたのですか？</span>
+      <span>カントはなぜ毎日午後3時30分きっかりに散歩に出かけたのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

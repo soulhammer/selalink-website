@@ -14,6 +14,11 @@ steps:
     text: "鶏肉から出る水分や汁（ドリップ）が他の食材に付着すると, 食中毒の原因になります。鶏肉を袋に入れ、さらにジッパーバッグで二重に密閉し, 冷蔵庫の中で最も温度が一定な最下段の奥に保存してください。"
   - name: "塩と料理酒で軽く下味をつけて保存 — 冷凍保存 (90日間) 🧂"
     text: "購入してすぐに調理しない鶏肉は、料理酒（または焼酎）と粗塩を軽く振ってから冷蔵保存すると、アルコールの殺菌作用と塩の浸透圧作用により、鮮度をさらに1日延ばすことができます。"
+faqs:
+  - question: "生鶏肉を調理前に水洗いすべきですか？"
+    answer: "いいえ、生鶏肉の表面のカンピロバクター等の食中毒菌は、水洗い時にシンク周辺の食器や食材に飛び散り、深刻な二次汚染を引き起こします。加熱調理することで菌は死滅します。"
+  - question: "鶏肉はなぜ豚肉や牛肉より保存期間が短いのですか？"
+    answer: "鶏肉は水分含有量が高く、組織が柔らかいため、細菌の増殖が非常に早いです。冷蔵保存時は必ず2日以内に調理し、長期保存は冷凍してください。"
 ---
 
 生鶏肉を水で洗うと、食中毒菌がキッチンのいたる所に飛び散って危険です。本日、StoreSelfでは米国疾病予防管理センター（CDC）などの公式ガイドラインに基づく安全な鶏肉の保存方法をご紹介します。
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      公認の科学的保管基準
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>.
@@ -48,6 +53,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     生鶏肉に付着しているカンピロバクターなどの食中毒菌は、水洗いすると細かな水しぶきとなって周囲50cm以内の食器や調理器具に飛び散ります。絶対に水洗いせず, ペーパーで水分を拭き取るか, 沸騰したお湯に通して調理してください。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/chicken_storage_detail.png" alt="水で洗うのは絶対に避ける — シンクの二次汚染防止 ❌💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ steps:
       鶏肉は豚肉や牛肉に比べて水分量が多く細菌が繁殖しやすいため、傷む速度が最も早いです。冷蔵保存の場合は必ず48時間以内に使い切ってください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>生鶏肉を調理前に水洗いすべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      いいえ、生鶏肉の表面のカンピロバクター等の食中毒菌は、水洗い時にシンク周辺の食器や食材に飛び散り、深刻な二次汚染を引き起こします。加熱調理することで菌は死滅します。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>鶏肉はなぜ豚肉や牛肉より保存期間が短いのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      鶏肉は水分含有量が高く、組織が柔らかいため、細菌の増殖が非常に早いです。冷蔵保存時は必ず2日以内に調理し、長期保存は冷凍してください。
+    </p>
+  </details>
 </div>

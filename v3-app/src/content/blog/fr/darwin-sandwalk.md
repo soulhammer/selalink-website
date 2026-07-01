@@ -15,6 +15,9 @@ steps:
     text: "Gardez votre téléphone dans votre poche et ne regardez pas l'écran. Au début de la marche, gardez à l'esprit une seule question claire que vous étudiez ou planifiez récemment, et marchez simplement sans vous forcer à la résoudre."
   - name: "Noter les inspirations immédiatement après la marche"
     text: "Pendant que vous marchez, les cellules cérébrales se connectent doucement et des indices émergent naturellement. Dès que vous avez fini de marcher, asseyez-vous et notez rapidement les pensées ou les inspirations qui vous ont traversé l'esprit."
+faqs:
+  - question: "Qu'est-ce que le Sandwalk de Darwin ?"
+    answer: "C'était un chemin où il marchait chaque jour pour stimuler son cortex préfrontal et ordonner ses idées sur l'évolution."
 ---
 
 Charles Darwin, l'homme qui a apporté la plus grande révelation à la pensée scientifique de l'histoire humaine en écrivant « L'Origine des espèces », expliquant l'évolution des organismes basée sur la sélection naturelle. D'où venaient les grandes inspirations de Darwin ? Il a passé sa vie à Down House, un village tranquille près de Londres. Chaque matin et après-midi, il parcourait le « Sandwalk », un sentier de gravier et de terre qu'il avait aménagé autour de sa maison. Il appelait ce sentier le « Sentier de la Réflexion » et, au début de sa marche, il empilait 5 ou 6 petites pierres dans un coin, en jetant une à chaque tour pour savoir combien de tours il avait faits. Aujourd'hui, BuildSelf explore les principes scientifiques de la routine « Sandwalk » de Darwin et comment l'appliquer pour stimuler la créativité.
@@ -59,6 +62,9 @@ La marche est la plus grande technique de brainstorming que l'humanité a optimi
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Gardez votre téléphone dans votre poche et ne regardez pas l'écran. Au début de la marche, gardez à l'esprit une seule question claire que vous étudiez ou planifiez récemment, et marchez simplement sans vous forcer à la résoudre.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/darwin_sandwalk_relax_detail.png" alt="Se déconnecter de son téléphone et poser une seule question" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ La marche est la plus grande technique de brainstorming que l'humanité a optimi
       Le cerveau des personnes modernes, qui poursuivent et calculent constamment des objectifs à chaque instant, accumule des substances de fatigue comme l'adénosine, ce qui rend les jugements créatifs difficiles. Comme Darwin, éteignez votre téléphone environ 20 minutes par jour, marchez sur le même chemin sans réfléchir et offrez à votre cerveau le temps et l'espace nécessaires pour connecter les réponses par lui-même.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Qu'est-ce que le Sandwalk de Darwin ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      C'était un chemin où il marchait chaque jour pour stimuler son cortex préfrontal et ordonner ses idées sur l'évolution.
+    </p>
+  </details>
 </div>

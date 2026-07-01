@@ -14,6 +14,11 @@ steps:
     text: "Wenn Spinat flach gelagert wird, verbrauchen die Blätter Energie beim Versuch, nach oben zu wachsen, und welken schneller. Lagern Sie ihn aufrecht mit den Wurzeln nach unten in einem Gefäß."
   - name: "Von ethylenproduzierenden Früchten isolieren — Schutzbarriere 🛡️"
     text: "Spinat reagiert sehr empfindlich auf Ethylengas. Wenn er zusammen mit Äpfeln, Birnen oder Tomaten gelagert wird, vergilben die Blätter schnell und verfaulen. Räumlich trennen."
+faqs:
+  - question: "Can I wash spinach before storing it in the fridge?"
+    answer: "No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking."
+  - question: "Why is it recommended to store spinach upright?"
+    answer: "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
 ---
 
 Haben Sie Spinat gekauft, im Plastikbeutel gelassen und nach zwei Tagen weggeworfen, weil die Blätter verfaulten? Heute teilt StoreSelf Tipps zur Feuchtigkeitskontrolle.
@@ -22,7 +27,7 @@ Haben Sie Spinat gekauft, im Plastikbeutel gelassen und nach zwei Tagen weggewor
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Geprüfte wissenschaftliche Autorität
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>RDA & EFSA & FSA</strong>.
@@ -48,6 +53,9 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Spinatblätter verfaulen schnell bei Feuchtigkeit. Lassen Sie die Erde daran und wickeln Sie ihn locker in Zeitungspapier oder Küchenpapier, um Kondenswasser zu vermeiden.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/spinach_storage_detail.png" alt="Ungewaschenen Spinat in Zeitung/Küchenpapier wickeln — Feuchtigkeitsschutz 📦" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
       Gemüse bleibt länger frisch, wenn es in seiner natürlichen Wuchsrichtung gelagert wird. Das aufrechte Stehen verhindert Druckstellen.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can I wash spinach before storing it in the fridge?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why is it recommended to store spinach upright?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness.
+    </p>
+  </details>
 </div>

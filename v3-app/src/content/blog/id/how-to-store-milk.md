@@ -14,6 +14,11 @@ steps:
     text: "Saat kemasan susu dibuka, udara membawa masuk oksigen dan bakteri, memulai pembusukan. Hindari menyentuh bagian corong tuang dan habiskan susu dalam 7 hari tanpa memedulikan tanggal kedaluwarsa."
   - name: "Jauhkan dari makanan berbau menyengat — Menghindari penyerapan bau 🧅"
     text: "Susu bekerja seperti spons dan mudah menyerap bau menyengat di sekitarnya. Jika ditaruh dekat bawang merah, bawang putih, atau sisa makanan yang tidak ditutup, rasa susu akan berubah. Selalu tutup rapat."
+faqs:
+  - question: "Can I freeze milk for storage?"
+    answer: "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
+  - question: "Can unopened milk be consumed after the expiration date?"
+    answer: "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
 ---
 
 Apakah Anda menyimpan kotak susu berjejer di rak pintu kulkas? Pintu kulkas mengalami perubahan suhu langsung setiap kali dibuka, menjadikannya tempat terburuk untuk susu. Hari ini, StoreSelf membagikan panduan penyimpanan susu.
@@ -22,7 +27,7 @@ Apakah Anda menyimpan kotak susu berjejer di rak pintu kulkas? Pintu kulkas meng
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Otoritas Ilmiah Terverifikasi
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>MFDS & USDA & FDA</strong>.
@@ -48,6 +53,9 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Rak pintu kulkas mengalami perubahan suhu paling drastis setiap kali dibuka dan ditutup. Agar susu awet, simpan di rak bagian dalam kulkas yang suhunya stabil pada 0–4°C.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/milk_storage_detail.png" alt="Jangan simpan di rak pintu kulkas — Penyimpanan Dingin (7Hari)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
       Susu sangat mudah menyerap bau di sekitarnya karena kandungan lemaknya. Jauhkan dari bawang putih, bawang bombay, atau kimchi.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can I freeze milk for storage?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can unopened milk be consumed after the expiration date?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes.
+    </p>
+  </details>
 </div>

@@ -14,6 +14,9 @@ steps:
     text: "Use uma agenda de papel, um gráfico na parede ou uma folha de cálculo simples para anotar os números exatos todos os dias. Certifique-se de registar mesmo nos dias em que não esteve bem; a honestidade é fundamental."
   - name: "Concentre-se no ato de registar em si mesmo"
     text: "Não julgue a sua produtividade com base nos números baixos de um único dia. O ato de registar em si desenvolve a autoconsciência e mantém o impulso necessário para recomeçar no dia seguinte."
+faqs:
+  - question: "Porque é que Hemingway registrava a sua contagem de palavras diariamente?"
+    answer: "Para visualizar o progresso da escrita, evitando bloqueios e forçando um fluxo regular de produtividade criativa."
 ---
 
 Ernest Hemingway, um mestre da literatura americana moderna que ganhou o Prémio Nobel e o Prémio Pulitzer. Conhecido pelo seu estilo de escrita minimalista, a sua disciplina diária era igualmente lendária. Começava a escrever de manhã cedo e, no final de cada sessão, contava e registava a sua contagem de palavras diária num gráfico na parede. Hoje, o BuildSelf explora as razões científicas por trás do rastreamento de progresso e como aplicar o automonitoramento.
@@ -58,6 +61,9 @@ Rastrear o seu progresso quantitativamente desencadeia um processo cognitivo con
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Use uma agenda de papel, um gráfico na parede ou uma folha de cálculo simples para anotar os números exatos todos os dias. Certifique-se de registar mesmo nos dias em que não esteve bem; a honestidade é fundamental.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/hemingway_word_count_relax_detail.png" alt="Registe os números honestamente num gráfico visual" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Rastrear o seu progresso quantitativamente desencadeia um processo cognitivo con
       Esforços vagos levam a resultados vagos. Quando começa a registar as suas ações com números exatos, o seu cérebro adquire uma autoconsciência objetiva. Mesmo nos dias em que os números são baixos, o simples ato de os escrever preserva a sua ligação ao hábito e evita que desista.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Perguntas Frequentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Porque é que Hemingway registrava a sua contagem de palavras diariamente?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Para visualizar o progresso da escrita, evitando bloqueios e forçando um fluxo regular de produtividade criativa.
+    </p>
+  </details>
 </div>

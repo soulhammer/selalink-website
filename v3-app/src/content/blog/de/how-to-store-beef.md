@@ -14,6 +14,11 @@ steps:
     text: "Bestreichen Sie das getrocknete Fleisch dünn mit Speiseöl oder Olivenöl. Der Ölfilm schützt das Fleisch vor Sauerstoff, verhindert Verfärbungen und hält es frisch."
   - name: "Eng in Frischhaltefolie einwickeln und Luft herauspressen — Kühllagerung 3 Tage, Gefrierlagerung 90 Tage 📦"
     text: "Wickeln Sie das geölte Fleisch fest in Frischhaltefolie und pressen Sie die Luft heraus. So verpackt bleibt das Rindfleisch im Kühlschrank bis zu 3 Tage frisch und im Gefrierschrank bis zu 90 Tage haltbar."
+faqs:
+  - question: "The inside of my packaged beef turned brown. Is it spoiled?"
+    answer: "No, meat pigment (myoglobin) turns brownish-red without oxygen. If it regains its bright red color after 15-20 minutes of exposure to air, it is perfectly fine."
+  - question: "What is the safest way to thaw frozen beef?"
+    answer: "Thaw it slowly in the refrigerator overnight. Avoid thawing at room temperature or in hot water, as it promotes rapid bacterial growth."
 ---
 
 Haben Sie hellrotes Rindfleisch in den Kühlschrank gelegt, nur um festzustellen, dass es nach zwei Tagen graubraun wurde und sauer roch? Heute teilt StoreSelf Tipps zur Vermeidung von Oxidation und zum Erhalt der Frische.
@@ -22,7 +27,7 @@ Haben Sie hellrotes Rindfleisch in den Kühlschrank gelegt, nur um festzustellen
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Geprüfte wissenschaftliche Autorität
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>MFDS & USDA</strong>.
@@ -48,6 +53,9 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Der Fleischsaft, der aus dem Rindfleisch austritt, ist die Hauptursache für unangenehme Gerüche und Bakterien. Tupfen Sie das Fleisch vor der Lagerung oder Zubereitung gründlich mit Küchenpapier trocken.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/beef_storage_detail.png" alt="Fleischsaft und Blut gründlich abtupfen — Geruchsbildung verhindern 🥩" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
       Sauerstoff oxidiert Fette und färbt das Myoglobin braun. Ein enges Einwickeln wie beim Vakuumieren schützt die Qualität.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>The inside of my packaged beef turned brown. Is it spoiled?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, meat pigment (myoglobin) turns brownish-red without oxygen. If it regains its bright red color after 15-20 minutes of exposure to air, it is perfectly fine.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>What is the safest way to thaw frozen beef?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Thaw it slowly in the refrigerator overnight. Avoid thawing at room temperature or in hot water, as it promotes rapid bacterial growth.
+    </p>
+  </details>
 </div>

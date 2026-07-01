@@ -14,6 +14,11 @@ steps:
     text: "Das Kühlen von ungeschältem Knoblauch führt zu Keimung und schnellem Verderb. Die wissenschaftliche Methode besteht darin, ihn in einem Netz an einem kühlen, schattigen und gut belüfteten Ort (10–15 °C) aufzuhängen."
   - name: "Gehackten Knoblauch in Silikonformen einfrieren — Gefrierlagerung (180Tage)"
     text: "Große Mengen Knoblauch hacken und flach in einem Gefrierbeutel einfrieren (vorher Rasterlinien eindrücken) oder in Silikon-Eiswürfelformen füllen. Bei Bedarf portionsweise entnehmen."
+faqs:
+  - question: "Why does peeled garlic spoil so quickly when exposed to moisture?"
+    answer: "Peeled garlic lacks its protective skin, making it highly vulnerable to humidity. Excess moisture triggers rapid mold growth; keep them dry using sugar and paper towels."
+  - question: "Should whole garlic heads be stored in the fridge or at room temp?"
+    answer: "Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature."
 ---
 
 Haben Sie schon einmal viel Knoblauch auf einmal geschält, um Zeit zu sparen, nur um festzustellen, dass er nach wenigen Tagen matschig wurde und weißen Schimmel ansetzte? Heute teilt StoreSelf Tipps zur Feuchtigkeitsregulierung.
@@ -22,7 +27,7 @@ Haben Sie schon einmal viel Knoblauch auf einmal geschält, um Zeit zu sparen, n
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Geprüfte wissenschaftliche Autorität
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>RDA & MFDS & USDA</strong>.
@@ -48,6 +53,9 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Verteilen Sie eine 1 cm dicke Zuckerschicht auf dem Boden eines luftdichten Behälters, bedecken Sie diese mit 2–3 Lagen Küchenpapier und legen Sie den geschälten Knoblauch darauf. Zucker absorbiert die Feuchtigkeit.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/garlic_storage_detail.png" alt="Zucker und Küchenpapier auf den Behälterboden legen — Kühllagerung (14Tage) 🪙" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
       Wenn sich blauer oder schwarzer Schimmel bildet, waschen Sie ihn nicht ab, um zu kochen. Sporen verteilen sich tief im Inneren; entsorgen.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why does peeled garlic spoil so quickly when exposed to moisture?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Peeled garlic lacks its protective skin, making it highly vulnerable to humidity. Excess moisture triggers rapid mold growth; keep them dry using sugar and paper towels.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Should whole garlic heads be stored in the fridge or at room temp?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature.
+    </p>
+  </details>
 </div>

@@ -14,6 +14,9 @@ steps:
     text: "Débarrassez votre bureau de tout objet sans rapport avec votre tâche. Éteignez votre smartphone, placez-le hors de portée de vue ou déplacez-le dans une autre pièce pour éliminer les déclencheurs environnementaux."
   - name: "Établir un rituel de début et de fin clair"
     text: "Définissez des heures précises pour entrer et sortir de votre zone de concentration. Une fois le temps écoulé, éloignez-vous complètement pour retourner à votre vie quotidienne, créant une barrière psychologique entre travail et repos."
+faqs:
+  - question: "Pourquoi Angelou écrivait-elle isolée dans une chambre d'hôtel ?"
+    answer: "Pour couper son cerveau des distractions du quotidien (corvées, tableaux), s'obligeant à un niveau de concentration maximal."
 ---
 
 Maya Angelou, poétesse, mémorialiste et militante des droits civiques américaine légendaire, autrice de l'autobiographie « Je sais pourquoi chante l'oiseau en cage ». Pour se concentrer profondément, elle s'installait dans une chambre d'hôtel chaque matin à 6h30. Elle demandait au personnel de retirer tous les tableaux et décorations, ne gardant qu'une Bible, un dictionnaire, un jeu de cartes et une bouteille de sherry. Aujourd'hui, BuildSelf montre comment un environnement épuré améliore le rendement.
@@ -58,6 +61,9 @@ Le cerveau humain scanne constamment son environnement à la recherche d'indices
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Débarrassez votre bureau de tout objet sans rapport avec votre tâche. Éteignez votre smartphone, placez-le hors de portée de vue ou déplacez-le dans une autre pièce pour éliminer les déclencheurs environnementaux.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/angelou_hotel_isolation_relax_detail.png" alt="Éliminer tout encombrement visuel et numérique" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Le cerveau humain scanne constamment son environnement à la recherche d'indices
       La volonté seule suffit rarement à lutter contre la distraction. La véritable concentration s'obtient en concevant un environnement physique où la tentation ne peut exister. Épurez votre bureau, isolez votre téléphone et laissez la simplicité ambiante guider votre esprit.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Pourquoi Angelou écrivait-elle isolée dans une chambre d'hôtel ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Pour couper son cerveau des distractions du quotidien (corvées, tableaux), s'obligeant à un niveau de concentration maximal.
+    </p>
+  </details>
 </div>

@@ -19,12 +19,36 @@ function cropImageIfExist(slug, type) {
     imageName = `${ingId}_storage`;
   }
 
-  const rawImagePath = path.join(publicRoot, 'images', 'blog', `${imageName}.png`);
+  let rawImagePath = path.join(publicRoot, 'images', 'blog', `${imageName}.png`);
   const croppedImagePath = path.join(publicRoot, 'images', 'blog', `${imageName}_detail.png`);
 
   if (!fs.existsSync(rawImagePath)) {
-    // 1:1 이미지가 생성되지 않은 상태이면 패스 (안전 장치)
-    return false;
+    // 1:1 보조 이미지가 존재하지 않을 경우, 기배포된 대표 이미지를 원본으로 삼아 복사 폴백 처리
+    let fallbackOrigin = '';
+    if (type === 'habit') {
+      fallbackOrigin = path.join(publicRoot, 'images', 'blog', `${slug.replace(/-/g, '_')}.png`);
+    } else {
+      let ingId = slug.replace('how-to-store-', '');
+      const pluralMap = {
+        'bananas': 'banana',
+        'potatoes': 'potato',
+        'tomatoes': 'tomato',
+        'onions': 'onion',
+        'eggs': 'egg',
+        'mushrooms': 'mushroom',
+        'green-onions': 'green_onion'
+      };
+      const mappedId = pluralMap[ingId] || ingId;
+      const finalId = mappedId.replace(/-/g, '_');
+      fallbackOrigin = path.join(publicRoot, 'images', 'blog', `${finalId}_storage_hack.png`);
+    }
+
+    if (fs.existsSync(fallbackOrigin)) {
+      console.log(`💡 [폴백 복사] '${path.basename(fallbackOrigin)}' -> '${path.basename(rawImagePath)}'`);
+      fs.copyFileSync(fallbackOrigin, rawImagePath);
+    } else {
+      return false;
+    }
   }
 
   if (fs.existsSync(croppedImagePath)) {

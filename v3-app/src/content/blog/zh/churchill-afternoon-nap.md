@@ -15,6 +15,9 @@ steps:
     text: "斜靠在舒适的椅子上或躺在床上，使用眼罩或耳塞将外部刺激降到最低。即使无法进入深度睡眠，仅闭上眼睛阻断视觉信息，也能让大脑的视觉皮层进入休息模式，大幅减轻认知疲劳。"
   - name: "闹钟响起时毫不犹豫地起床"
     text: "当20分钟的闹钟响起时，甩掉多躺一会儿的诱惑，立即起床。喝一杯凉水唤醒身体的感官，做一下轻微的拉伸。感受大脑重新像早晨一样清醒，然后继续下午的工作。"
+faqs:
+  - question: "丘吉尔战时昼寝惯例的效果是什么？"
+    answer: "通过午后1.5到2小时的深度睡眠，他将一天的工作划分为两个独立的清醒周期，以支撑24小时沉重的决策负荷。"
 ---
 
 温斯顿·丘吉尔在第二次世界大战期间担任英国首相，领导同盟国取得了最终胜利，同时他也是诺贝尔文学奖获得者。在每天超过18小时的繁重国政业务和战况报告下，他是如何保持最顶峰的精神觉醒状态而不感到疲惫的？秘诀就在于他每天下午都有着非常独特且固定的“午睡惯例”。每天下午2点到2点30分之间，丘吉尔会无一例外地中断所有国政报告，回到卧室脱光衣服躺下，进行1到2小时的深度午睡。这一日程在战争期间也得到了严格保护。丘吉尔自豪地宣称，得益于午睡，他能把一天一分为二。今天，BuildSelf为您分享丘吉尔午睡背后的脑科学奥秘，以及现代人如何通过强效午睡完全重置疲劳。
@@ -59,6 +62,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     斜靠在舒适的椅子上或躺在床上，使用眼罩或耳塞将外部刺激降到最低。即使无法进入深度睡眠，仅闭上眼睛阻断视觉信息，也能让大脑的视觉皮层进入休息模式，大幅减轻认知疲劳。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/churchill_afternoon_nap_relax_detail.png" alt="阻断视觉信息并闭上眼睛" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ steps:
       下午在注意力低下的情况下呆坐在书桌前会大大降低工作效率。与其强迫自己忍受这种低效，不如像丘吉尔一样，通过短暂的20分钟强效午睡来重获专注力。你的大脑将得到优化，让你在接下来的时间里以清新、清醒的头脑全身心投入工作。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>丘吉尔战时昼寝惯例的效果是什么？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      通过午后1.5到2小时的深度睡眠，他将一天的工作划分为两个独立的清醒周期，以支撑24小时沉重的决策负荷。
+    </p>
+  </details>
 </div>

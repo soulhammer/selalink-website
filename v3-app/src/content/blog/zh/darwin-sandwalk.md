@@ -15,6 +15,9 @@ steps:
     text: "将手机放进口袋深处，绝不看屏幕。开始散步时，在脑海中轻轻浮现一个你最近正在思考或规划的明确问题，然后只管迈步，不要强迫自己去解决它。"
   - name: "散步结束后面即刻记录灵感"
     text: "散步时，随着脑细胞的温和联结，线索会自然而然地从意识之外浮现。散步结束后的第一时间坐下来，将脑海中闪过的想法或灵感迅速草拟在备忘录或策划案上。"
+faqs:
+  - question: "达尔文的沙石路（Sandwalk）是指什么？"
+    answer: "这是他每天散步三圈以通过轻度身体活动激活前额叶并整理进化论想法的思想步道。"
 ---
 
 查尔斯·达尔文撰写了《物种起源》，以自然选择学说解释生物进化，为人类历史上的科学思维带来了最大变革。改变人类范式的伟大进化论灵感究竟源自何处？达尔文在伦敦近郊安静的唐恩村（Down House）度过了他专注于研究的一生。他每天上午和下午都会绕着自己亲手在房子周围铺设的沙石小路——“沙路（Sandwalk）”散步。他将这条路称为“思索之路”，在开始散步时，他会在拐角处堆放5到6块小石头，每走完一圈就用脚踢开一块，以此记录自己走了多少圈。今天，BuildSelf将带您探索达尔文每天坚持的“沙路”思索惯例的科学原理，以及现代人如何应用它来激发创造力。
@@ -59,6 +62,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     将手机放进口袋深处，绝不看屏幕。开始散步时，在脑海中轻轻浮现一个你最近正在思考或规划的明确问题，然后只管迈步，不要强迫自己去解决它。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/darwin_sandwalk_relax_detail.png" alt="彻底断开手机，抛出一个问题" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ steps:
       现代人的大脑在每一刻都在追求和计算目标，这会导致腺苷等疲劳物质的积累，使我们在关键时刻难以做出创造性的判断。像达尔文一样，每天关掉手机大约20分钟，心无旁骛地走在同一条路上，给大脑提供时间和空间，让它自己联结出答案。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>达尔文的沙石路（Sandwalk）是指什么？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      这是他每天散步三圈以通过轻度身体活动激活前额叶并整理进化论想法的思想步道。
+    </p>
+  </details>
 </div>

@@ -15,6 +15,9 @@ steps:
     text: "Pendant les 5 minutes de préparation, ne regardez pas votre écran de smartphone et bloquez les stimuli verbaux (actualités, conversations). Concentrez-vous uniquement sur les sensations physiques."
   - name: "Lancer le mode concentration tout en buvant lentement"
     text: "Savourez lentement le café ou le thé préparé. Maintenez cet état cérébral calme et attaquez immédiatement votre première tâche importante. Répéter ce rituel conditionne le cerveau à associer ce goût à la concentration."
+faqs:
+  - question: "Pourquoi Beethoven insistait-il sur 60 grains de café ?"
+    answer: "À travers l'action répétitive de compter 60 grains, il concentrait son attention pour en faire le déclencheur de son travail."
 ---
 
 Ludwig van Beethoven, l'un des plus grands compositeurs de l'histoire de la musique occidentale, qui a surmonté l'épreuve mortelle de la perte auditive pour créer les mélodies les plus grandioses, telles que la « Symphonie du Destin » et la « Symphonie chorale ». Saviez-vous qu'il accomplissait un rituel matutinal avant de commencer à composer ? C'était le rituel consistant à compter exactement « 60 grains » de café. Beethoven était très sensible au goût et à l'arôme du café et exigeait une proportion parfaite. Compter ces 60 grains était un prélude sacré pour s'isoler des bruits extérieurs et entrer dans son monde musical. Aujourd'hui, BuildSelf partage les secrets scientifiques du rituel de Beethoven.
@@ -59,6 +62,9 @@ Se concentrer sur des actions physiques précises comme compter des grains de ca
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Pendant les 5 minutes de préparation, ne regardez pas votre écran de smartphone et bloquez les stimuli verbaux (actualités, conversations). Concentrez-vous uniquement sur les sensations physiques.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="Bloquer complètement les stimuli externes pendant 5 minutes de préparation" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Se concentrer sur des actions physiques précises comme compter des grains de ca
       Si vous vous pressez le matin, votre cerveau restera encombré toute la journée. Comme Beethoven, tenez-vous à un rituel matinal précis consistant à vous concentrer sur vos sens pendant seulement 5 minutes. Une journée commencée avec un cerveau calme offre une concentration bien plus profonde.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Pourquoi Beethoven insistait-il sur 60 grains de café ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      À travers l'action répétitive de compter 60 grains, il concentrait son attention pour en faire le déclencheur de son travail.
+    </p>
+  </details>
 </div>

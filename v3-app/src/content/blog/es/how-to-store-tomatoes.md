@@ -14,6 +14,11 @@ steps:
     text: "El tallo es la zona más propensa a criar moho. Quitar los tallos antes de guardar evita que se pinchen entre sí y reduce notablemente el riesgo de infecciones de moho."
   - name: "Envuelva los tomates maduros en periódico y guarde en el cajón de verduras ❄️ — Almacenamiento Refrigerado (7Días)"
     text: "Solo guarde los tomates completamente maduros en el cajón de verduras (5-10 °C), envueltos en periódico o film plástico. Esto evita que el aire frío evapore su humedad y reseque la piel."
+faqs:
+  - question: "Why is it recommended never to refrigerate raw tomatoes?"
+    answer: "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
+  - question: "Should fully ripe red tomatoes also be kept at room temperature?"
+    answer: "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
 ---
 
 ¿Sabía que guardar los tomates en el refrigerador arruina su sabor y aroma? El frío por debajo de 12 °C rompe sus células y los pone insípidos. Hoy, StoreSelf comparte trucos de maduración.
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Autoridad Científica Verificada
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Esta guía de conservación cumple con las directrices oficiales de: <strong>RDA & USDA & CDC</strong>.
@@ -48,6 +53,9 @@ Comprender las características únicas de cada ingrediente y seguir el método 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Los tomates verdes deben guardarse con el tallo hacia arriba en la sombra a temp. ambiente (15-20 °C). Refrigerarlos verdes detiene la maduración, arruga la piel y les quita sabor.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/tomatoes_storage_detail.png" alt="Guarde a temp. ambiente en la sombra antes de madurar — Conservación a Temp. Ambiente (7Días) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Comprender las características únicas de cada ingrediente y seguir el método 
       La zona del tallo es la más blanda y se daña rápido bajo el peso. Mantenerla abajo evita golpes y moho.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why is it recommended never to refrigerate raw tomatoes?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Should fully ripe red tomatoes also be kept at room temperature?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days.
+    </p>
+  </details>
 </div>

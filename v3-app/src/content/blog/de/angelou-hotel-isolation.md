@@ -14,6 +14,9 @@ steps:
     text: "Räumen Sie alle Gegenstände vom Schreibtisch, die nichts mit der aktuellen Aufgabe zu tun haben. Schalten Sie Ihr Smartphone aus und legen Sie es außer Sichtweite oder in einen anderen Raum."
   - name: "Etablieren Sie ein klares Start- und Endritual"
     text: "Legen Sie genaue Zeiten fest, zu denen Sie Ihre Fokuszone betreten und verlassen. Wenn die Zeit abgelaufen ist, entfernen Sie sich vollständig, um eine Grenze zwischen Arbeit und Freizeit zu ziehen."
+faqs:
+  - question: "Warum schrieb Angelou isoliert in einem Hotelzimmer?"
+    answer: "Um ihr Gehirn von Reizen zu Hause (Bilder, Hausarbeit) abzuschirmen und einen Zustand extremen Fokus zu erzwingen."
 ---
 
 Maya Angelou, eine legendäre amerikanische Dichterin, Autobiografin und Bürgerrechtlerin, die die bahnbrechende Autobiografie „Ich weiß, warum der gefangene Vogel singt“ schrieb. Um sich tief zu konzentrieren, mietete sie sich jeden Morgen um 6:30 Uhr in ein Hotelzimmer ein. Sie bat das Personal, alle Bilder und Dekorationen zu entfernen, sodass nur eine Bibel, ein Wörterbuch, ein Kartenspiel und eine Flasche Sherry übrig blieben. Heute zeigt BuildSelf, wie ein ablenkungsfreies Umfeld Ihre kognitive Leistung steigern kann.
@@ -58,6 +61,9 @@ Das menschliche Gehirn scannt die Umgebung ständig nach visuellen und auditiven
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Räumen Sie alle Gegenstände vom Schreibtisch, die nichts mit der aktuellen Aufgabe zu tun haben. Schalten Sie Ihr Smartphone aus und legen Sie es außer Sichtweite oder in einen anderen Raum.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/angelou_hotel_isolation_relax_detail.png" alt="Entfernen Sie alle visuellen und digitalen Ablenkungen" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Das menschliche Gehirn scannt die Umgebung ständig nach visuellen und auditiven
       Willenskraft allein reicht selten aus, um Ablenkungen zu bekämpfen. Wahrer Fokus entsteht durch die Gestaltung einer physischen Umgebung, in der es keine Versuchungen gibt. Räumen Sie Ihren Schreibtisch auf, legen Sie Ihr Handy weg und lassen Sie die Einfachheit wirken.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Warum schrieb Angelou isoliert in einem Hotelzimmer?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Um ihr Gehirn von Reizen zu Hause (Bilder, Hausarbeit) abzuschirmen und einen Zustand extremen Fokus zu erzwingen.
+    </p>
+  </details>
 </div>

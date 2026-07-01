@@ -14,6 +14,11 @@ steps:
     text: "Una vez abierta la leche, el contacto con el aire introduce bacterias, iniciando el deterioro. Evite tocar la boquilla del envase y consúmala en un plazo de 7 días, sin importar la fecha de vencimiento."
   - name: "Mantenga alejada de alimentos con olor fuerte — Evite la absorción de olores 🧅"
     text: "La leche actúa como una esponja y absorbe fácilmente los olores fuertes de su entorno. Evite guardarla cerca de cebollas, ajos o sobras sin tapar. Manténgala sellada y separada."
+faqs:
+  - question: "Can I freeze milk for storage?"
+    answer: "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
+  - question: "Can unopened milk be consumed after the expiration date?"
+    answer: "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
 ---
 
 ¿Guarda los cartones de leche alineados en los estantes de la puerta del refrigerador? La puerta sufre cambios directos de temperatura al abrirse, siendo el peor lugar para la leche. Hoy, StoreSelf comparte pautas seguras.
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Autoridad Científica Verificada
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Esta guía de conservación cumple con las directrices oficiales de: <strong>MFDS & USDA & FDA</strong>.
@@ -48,6 +53,9 @@ Comprender las características únicas de cada ingrediente y seguir el método 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     La puerta del refrigerador experimenta los mayores cambios de temperatura cada vez que se abre. Para conservar la leche, colóquela en las repisas internas del refrigerador, donde la temperatura se mantiene estable a 0-4 °C.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/milk_storage_detail.png" alt="No guarde en la puerta del refrigerador — Almacenamiento Refrigerado (7Días)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Comprender las características únicas de cada ingrediente y seguir el método 
       La leche absorbe olores fácilmente debido a su grasa. Manténgala alejada del ajo, la cebolla o el kimchi.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can I freeze milk for storage?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can unopened milk be consumed after the expiration date?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes.
+    </p>
+  </details>
 </div>

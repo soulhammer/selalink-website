@@ -15,6 +15,9 @@ steps:
     text: "Comienza corriendo suavemente durante 20 o 30 minutos a una hora fija (por ejemplo, a las 8 p. m. después del trabajo) y aumenta gradualmente la distancia. La clave no es la velocidad, sino inculcar un ritmo regular en tu cuerpo."
   - name: "Usar el correr como un momento de diálogo interno"
     text: "No revises mensajes complejos ni correos en tu teléfono mientras corres; concéntrate únicamente en el ritmo de tu respiración y la sensación de tus pies tocando el suelo. Esta carrera consciente se convierte en la mejor desintoxicación mental para organizar una mente desordenada."
+faqs:
+  - question: "¿Por qué Murakami corre 10 km todos los días?"
+    answer: "Para mantener la alta concentración y resistencia para escribir, estimula las células cerebrales y construye una base física sólida."
 ---
 
 Haruki Murakami, un gigante de la literatura japonesa moderna que genera un revuelo global con cada obra que publica. No solo es novelista, sino también un corredor apasionado que ha completado un maratón completo cada año durante más de 40 años. Cuando se convirtió en escritor a tiempo completo en 1982, experimentó una disminución de su resistencia y un aumento de peso por estar sentado escribiendo todo el día. Se dio cuenta de que para mantener las actividades creativas a largo plazo, un novelista necesita no solo talento, sino una fuerte resistencia física para mantener una alta concentración. Dejó de fumar y comenzó una rutina de correr 10 km o nadar 1.500 m cada mañana, que mantiene dondequiera que vaya. Hoy, BuildSelf analiza las razones científicas detrás de la rutina de Murakami y cómo puedes construir tu propia rutina de resistencia.
@@ -59,6 +62,9 @@ Escribir una novela es una tarea que consume una energía mental extrema. Muraka
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Comienza corriendo suavemente durante 20 o 30 minutos a una hora fija (por ejemplo, a las 8 p. m. después del trabajo) y aumenta gradualmente la distancia. La clave no es la velocidad, sino inculcar un ritmo regular en tu cuerpo.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/murakami_running_relax_detail.png" alt="Concentrarse en la regularidad del tiempo antes que en la distancia" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Escribir una novela es una tarea que consume una energía mental extrema. Muraka
       Las actividades físicas simples que se repiten diariamente se convierten en 'rutinas automatizadas' que no con sumen fuerza de voluntad. Una vez que este ritmo se graba en el cerebro, forma un sólido escudo físico para soportar la extrema carga mental que proviene de trabajar o escribir. Haz del ejercicio regular una prioridad en tu vida y mantén el ritmo, al igual que Murakami.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué Murakami corre 10 km todos los días?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Para mantener la alta concentración y resistencia para escribir, estimula las células cerebrales y construye una base física sólida.
+    </p>
+  </details>
 </div>

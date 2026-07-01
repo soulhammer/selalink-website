@@ -14,6 +14,11 @@ steps:
     text: "Once the skin turns dark brown and yields to gentle pressure, wrap the avocado individually in plastic wrap and store it in the refrigerator crisper drawer to slow down spoilage."
   - name: "Apply lemon juice to cut surfaces and seal — Prevent browning 🍋"
     text: "Keep the pit in the unused half, brush the cut surface with a thin layer of lemon juice (or olive oil), and wrap tightly with plastic wrap. The acidity blocks oxygen to prevent oxidation and browning."
+faqs:
+  - question: "Can I refrigerate unripe avocados?"
+    answer: "No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling."
+  - question: "How do I store a cut avocado half?"
+    answer: "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
 ---
 
 Have you ever put an unripe avocado in the fridge only to have it turn mushy and rot? Today, StoreSelf shares California Avocado Commission (CAC) and USDA-verified ripening and storage hacks.
@@ -48,6 +53,9 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Firm, unripe avocados should be kept at a room temperature of 15–20°C. Placing them in a paper bag with bananas or apples will trap the ethylene gas and accelerate the ripening process.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/avocado_storage_detail.png" alt="Store in a paper bag at room temperature before fully ripe — Room Temp Storage (5Days) 🥑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Understanding the unique characteristics of each ingredient and following the pr
       The cut side oxidizes and turns brown quickly when exposed to air. Applying lemon juice or olive oil and keeping the pit blocks oxygen.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can I refrigerate unripe avocados?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>How do I store a cut avocado half?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning.
+    </p>
+  </details>
 </div>

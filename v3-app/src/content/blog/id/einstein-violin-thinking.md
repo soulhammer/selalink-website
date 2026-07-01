@@ -71,7 +71,7 @@ Biola Einstein berfungsi sebagai alat untuk melakukan **'alih kognitif (Cognitiv
     Cobalah memainkan instrumen musik tangan yang ringan (kalimba, suling, ukulele, atau bahkan mengetuk jari) selama 5 menit. Jika tidak memiliki instrumen, pejamkan mata dan dengarkan lagu instrumental klasik atau jazz, pusatkan seluruh indra pada melodi dan ikuti iramanya dengan jari Anda.
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/einstein_violin_relax.png" alt="Ritual 5 Menit Fokus Mendengar dan Mengikuti Irama" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/einstein_violin_thinking_relax_detail.png" alt="Ritual 5 Menit Fokus Mendengar dan Mengikuti Irama" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

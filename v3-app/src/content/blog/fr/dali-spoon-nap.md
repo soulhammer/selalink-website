@@ -15,6 +15,9 @@ steps:
     text: ""
   - name: "Extérioriser le subconscient immédiatement"
     text: ""
+faqs:
+  - question: "Pourquoi Dali tenait-il une cuillère pendant ses siestes ?"
+    answer: "Dès qu'il s'endormait, ses muscles se relâchaient et la cuillère tombait sur une assiette, le réveillant pour capturer des images surréalistes."
 ---
 
 Salvador Dalí, géant de l'art surréaliste et l'un des plus grands esprits créatifs du XXe siècle. D'où venaient les inspirations bizarres de ses œuvres ? Face aux blocages créatifs, Dalí s'asseyait dans un fauteuil en bois, tenait une cuillère en métal au-dessus d'une assiette posée au sol. Aujourd'hui, BuildSelf explore la science de la sieste à la cuillère.
@@ -87,4 +90,22 @@ La phase de transition vers le sommeil déclenche l'« Hypnagogie », un état r
       La sieste à la cuillère était un mécanisme pour lier le subconscient à la création. En cas de blocage, plutôt que de forcer la logique, offrez à votre cerveau 5 minutes pour relâcher le contrôle et se réorganiser.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Pourquoi Dali tenait-il une cuillère pendant ses siestes ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Dès qu'il s'endormait, ses muscles se relâchaient et la cuillère tombait sur une assiette, le réveillant pour capturer des images surréalistes.
+    </p>
+  </details>
 </div>

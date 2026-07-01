@@ -15,6 +15,9 @@ steps:
     text: "Mantenha o telemóvel no bolso e não olhe para o ecrã. Ao iniciar a caminhada, coloque mentalmente uma única questão clara que esteja a contemplar ou a planejar recentemente, e caminhe simplesmente sem se forçar a resolvê-la."
   - name: "Registrar as inspirações imediatamente após a caminhada"
     text: "Durante a caminhada, à medida que as células cerebrais se conectam suavemente, as pistas surgem naturalmente além da consciência. Imediatamente após terminar a caminhada, sente-se e anote rapidamente os pensamentos ou inspirações que lhe passaram pela mente."
+faqs:
+  - question: "O que é o Sandwalk de Darwin?"
+    answer: "Era um caminho onde caminhava três voltas diárias para ativar o córtex pré-frontal e ordenar as ideias da teoria da evolução."
 ---
 
 Charles Darwin, o homem que trouxe a maior revolução ao pensamento científico na história da humanidade al escrever 'A Origem das Espécies', explicando la evolução dos organismos com base na seleção natural. De onde surgiram as grandes inspirações evolutivas que mudaram o paradigma da humanidade? Darwin passou a vida investigando na Down House, uma vila tranquila perto de Londres. Todas as manhãs e tardes, caminhava pelo 'Sandwalk', um caminho de cascalho e terra que construiu ao redor de sua casa. Chamou a este caminho o 'Caminho do Pensamento' e, no início da caminhada, empilhava 5 ou 6 pequenas pedras no canto, chutando uma para longe cada vez que completaba uma volta para controlar quantas voltas tinha dado. Hoje, o BuildSelf explora os princípios científicos da rotina de Darwin e como los profissionais modernos podem aplicá-la para aumentar la criatividade.
@@ -59,6 +62,9 @@ Caminhar é a maior técnica de brainstorming que a humanidade otimizou ao longo
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Mantenha o telemóvel no bolso e não olhe para o ecrã. Ao iniciar a caminhada, coloque mentalmente uma única questão clara que esteja a contemplar ou a planejar recentemente, e caminhe simplesmente sem se forçar a resolvê-la.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/darwin_sandwalk_relax_detail.png" alt="Desligar o telemóvel e colocar uma única questão" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Caminhar é a maior técnica de brainstorming que a humanidade otimizou ao longo
       O cérebro das pessoas modernas, que constantemente perseguem e calculam objetivos a cada momento, acumula substâncias de fadiga como a adenosina, dificultando os julgamentos criativos. Tal como Darwin, desligue o telemóvel durante cerca de 20 minutos por dia, caminhe pelo mesmo percurso sem pensar e ofereça ao seu cérebro o tempo e o espaço para ligar as respostas por si próprio.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Perguntas Frequentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>O que é o Sandwalk de Darwin?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Era um caminho onde caminhava três voltas diárias para ativar o córtex pré-frontal e ordenar as ideias da teoria da evolução.
+    </p>
+  </details>
 </div>

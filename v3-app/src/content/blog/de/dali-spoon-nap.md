@@ -15,6 +15,9 @@ steps:
     text: ""
   - name: "Halten Sie das Unterbewusstsein sofort fest"
     text: ""
+faqs:
+  - question: "Warum hielt Dali während des Mittagsschlafs einen Löffel?"
+    answer: "Sobald er einschlief und die Muskeln locker ließen, fiel der Löffel auf einen teller, um surreale Inspirationen festzuhalten."
 ---
 
 Salvador Dalí, ein Gigant der surrealistischen Kunst und einer der kreativsten Köpfe des 20. Jahrhunderts. Woher stammten die bizarren Inspirationen in seinen Werken? Wenn Dalí vor kreativen Blockaden oder geistiger Erschöpfung stand, setzte er sich bequem in einen Holzstuhl und hielt einen Metalllöffel locker in einer Hand, während er einen Metallteller auf den Boden stellte. Heute untersucht BuildSelf die Wissenschaft hinter Dalís Mittagsschlaf.
@@ -87,4 +90,22 @@ Die Übergangsphase zum Schlaf löst die „Hypnagogie“ aus, einen Zustand vol
       Dalís Löffel-Schlaf war ein eleganter Mechanismus, um das Unterbewusstsein mit kreativer Leistung zu verbinden. Wenn Sie feststecken, schenken Sie Ihrem Gehirn 5 Minuten Zeit, um die Kontrolle loszulassen.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Warum hielt Dali während des Mittagsschlafs einen Löffel?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sobald er einschlief und die Muskeln locker ließen, fiel der Löffel auf einen teller, um surreale Inspirationen festzuhalten.
+    </p>
+  </details>
 </div>

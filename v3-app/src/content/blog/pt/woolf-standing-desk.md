@@ -15,6 +15,9 @@ steps:
     text: "Enquanto estiver de pé, realize um trabalho profundo que exija o mais alto nivel de lógica e concentração, como escrever propostas complexas, traduzir documentos ou redigir, em vez de verificar e-mails. A leve tensão do corpo aumenta a velocidade del cérebro."
   - name: "Distribuir o peso uniformemente e manter uma boa postura"
     text: "Evite apoiar-se numa só perna e distribua o peso igualmente por ambos os pés. Mantenha os ombros e o peito abertos, ajuste o monitor para o alinhar com o olhar e alterne com sentar-se ou alongar-se durante 10 minutos após 30 a 50 minutos de foco."
+faqs:
+  - question: "Porque é que Virginia Woolf escrevia de pé?"
+    answer: "Inspirada pela irmã pintora, utilizava uma escrivaninha de pé como um ritual físico para manter a igualdade artística."
 ---
 
 Virginia Woolf, considerada uma pioneira da literatura modernista do século XX, deixando obras-primas como 'Mrs. Dalloway' e 'Ao Farol'. Como foi ela capaz de retratar mundos interiores tão íntimos e psicologias tão complexas com frases tão persistentes e sofisticadas? Por trás da sua incrível concentração estava um hábito de trabalho muito singular. Todas as manhãs, Woolf escrevia de pé em frente a uma secretária inclinada com mais de um metro de altura. Esta rotina de escrita foi inspirada no método de trabalho da sua irmã, Vanessa Bell, uma pintora notável. Faszinala pela forma como a irmã se colocava em frente ao cavalete, usando todo o corpo para pintar, Woolf pensou que ela também tinha de escrever de pé. Hoje, o BuildSelf partilha os benefícios científicos da rotina de escrita de pé de Woolf.
@@ -59,6 +62,9 @@ O hábito de sentar e trabalhar por longas horas esgota lentamente não apenas a
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Enquanto estiver de pé, realize um trabalho profundo que exija o mais alto nivel de lógica e concentração, como escrever propostas complexas, traduzir documentos ou redigir, em vez de verificar e-mails. A leve tensão do corpo aumenta a velocidade del cérebro.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="Organizar as tarefas principais mais difíceis e criativas" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ O hábito de sentar e trabalhar por longas horas esgota lentamente não apenas a
       As pessoas modernas passam a maior parte do dia de trabalho sentadas. No momento em que se senta à secretária de manhã, o cérebro confunde-o facilmente com um descanso estático. Se adotar uma rotina de 30 minutos de pé de manhã como Virginia Woolf, pode activar imediatamente as funções cardiorrespiratórias e cerebrais. Aumente conscientemente o seu tempo de pé todos os dias.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Perguntas Frequentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Porque é que Virginia Woolf escrevia de pé?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Inspirada pela irmã pintora, utilizava uma escrivaninha de pé como um ritual físico para manter a igualdade artística.
+    </p>
+  </details>
 </div>

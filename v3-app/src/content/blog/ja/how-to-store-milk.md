@@ -14,6 +14,11 @@ steps:
     text: "牛乳を開封した瞬間から, 空気中の雑菌や酸素が入り込み品質の低下が始まります。パックの注ぎ口に手が触れないよう注意し, 賞味期限に関わらず開封後は1週間以内に飲み切るようにしてください。"
   - name: "においの強い食材から遠ざける — におい移り防止 🧅"
     text: "牛乳は周辺の強いにおいをスポンジのように吸収する性質があります。にんにくや玉ねぎ, 食べ残しなどを蓋をせずに牛乳パックの近くに置くとにおいが移るため, 離して保管してください。"
+faqs:
+  - question: "牛乳を冷凍保存してもいいですか？"
+    answer: "牛乳を凍らせると脂肪とタンパク質が分離し、解凍時に塊ができたり風味が損なわれたりします。極力凍らせず、冷蔵保存して期限内に消費することをお勧めします。"
+  - question: "未開封の牛乳は賞味期限が過ぎても飲めますか？"
+    answer: "未開封で0〜5度の冷蔵を維持していた場合、賞味期限経過後最大45日までは、味や臭いに異常がなければ飲むことができます。"
 ---
 
 牛乳パックを冷蔵庫のドアポケットに並べて保管していませんか？開閉するたびに温度変化を直接受けるドアポケットは、牛乳の傷みを早めるため、最も避けるべき場所です。正しい保管方法をご紹介します。
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      公認の科学的保管基準
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>.
@@ -48,6 +53,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     冷蔵庫のドアポケットは, ドアの開閉のたびに最も温度変化が激しくなる場所です。牛乳を新鮮に保つためには, 温度が0〜4℃で安定している冷蔵庫の奥の棚に置いてください。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/milk_storage_detail.png" alt="冷蔵庫のドアポケット保存を避ける — 冷蔵保存 (7日間) ア" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ steps:
       牛乳は脂肪成分の働きにより、周囲の臭いを非常に吸着しやすいです。にんにく、玉ねぎ、キムチなどの近くを避けて密閉保管してください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>牛乳を冷凍保存してもいいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      牛乳を凍らせると脂肪とタンパク質が分離し、解凍時に塊ができたり風味が損なわれたりします。極力凍らせず、冷蔵保存して期限内に消費することをお勧めします。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>未開封の牛乳は賞味期限が過ぎても飲めますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      未開封で0〜5度の冷蔵を維持していた場合、賞味期限経過後最大45日までは、味や臭いに異常がなければ飲むことができます。
+    </p>
+  </details>
 </div>

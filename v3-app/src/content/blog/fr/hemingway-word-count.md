@@ -14,6 +14,9 @@ steps:
     text: "Utilisez un agenda papier, un tableau mural ou un simple tableur pour noter les chiffres exacts chaque jour. Veillez à enregistrer même les jours où vous n'avez pas été performant ; l'honnêteté est essentielle."
   - name: "Se concentrer sur l'acte d'enregistrement lui-même"
     text: "Ne jugez pas votre productivité sur les bas chiffres d'un seul jour. L'acte d'enregistrer en lui-même développe la conscience de soi et maintient l'élan nécessaire pour recommencer le lendemain."
+faqs:
+  - question: "Pourquoi Hemingway notait-il son nombre de mots chaque jour ?"
+    answer: "Pour suivre objectivement sa progression, évitant les pannes d'inspiration et installant une régularité créative."
 ---
 
 Ernest Hemingway, un maître de la littérature américaine moderne qui a remporté le prix Nobel et le prix Pulitzer. Connu pour son style d'écriture minimaliste et hard-boiled, sa discipline quotidienne était tout aussi légendaire. Il commençait à écrire tôt le matin et, à la fin de chaque séance, comptait et enregistrait son nombre de mots sur un grand tableau au mur. Aujourd'hui, BuildSelf explore les raisons scientifiques de ce suivi et comment appliquer l'autosurveillance.
@@ -58,6 +61,9 @@ Le suivi quantitatif du progrès déclenche un processus cognitif appelé « Aut
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Utilisez un agenda papier, un tableau mural ou un simple tableur pour noter les chiffres exacts chaque jour. Veillez à enregistrer même les jours où vous n'avez pas été performant ; l'honnêteté est essentielle.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/hemingway_word_count_relax_detail.png" alt="Enregistrer honnêtement les chiffres sur un tableau" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ Le suivi quantitatif du progrès déclenche un processus cognitif appelé « Aut
       Des efforts vagues mènent à des résultats vagues. Lorsque vous suivez vos actions avec des chiffres exacts, votre cerveau acquiert une conscience de soi objective. Même les jours où vos chiffres sont bas, le simple fait de les écrire maintient le lien avec l'habitude et vous évite d'abandonner.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Pourquoi Hemingway notait-il son nombre de mots chaque jour ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Pour suivre objectivement sa progression, évitant les pannes d'inspiration et installant une régularité créative.
+    </p>
+  </details>
 </div>

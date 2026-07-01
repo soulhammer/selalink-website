@@ -15,6 +15,9 @@ steps:
     text: "快適な椅子にもたれて座るかベッドに横たわった後、アイマスクや耳栓を活用して外部刺激を最小限に抑えます。目を閉じて視覚情報を遮断するだけで、脳の視覚皮質が休息モードに入り、認知疲労が大幅に減少します。"
   - name: "アラームが鳴ったら躊躇なく起きる"
     text: "20分のアラームが鳴ったら、もっと横になっていたい誘惑を振り切ってすぐに起きます。冷たい水を一杯飲んで体の感覚を目覚めさせ、軽くストレッチをします。脳が再び朝のように爽快に動くのを感じながら、午後の業務を再開します。"
+faqs:
+  - question: "チャーチルの戦時中の昼寝ルーティンの効果は何でしたか？"
+    answer: "午後1.5〜2時間の深い昼寝によって、1日の仕事を2つの独立した精神的サイクルに分割し、24時間重い意思決定の負荷を支えました。"
 ---
 
 第二次世界大戦という人類史上未曾有の危機の中で、イギリスの首相として強力なドイツ抗戦を指揮し、連合軍の最終的な勝利を牽引したウィンストン・チャーチル。毎日18時間を超える過酷な国政業務と戦況報告の中でも、彼が疲れることなく知的覚醒度を最上に維持できた原動力は何だったのでしょうか？秘訣は、毎日の午後に持っていた非常にユニークで確固たる「昼寝ルーティン」にありました。チャーチルは毎日午後2時から2時30分の間になると、例外なくすべての報告を中断し、寝室に入って服を完全に脱いで横になり、1〜2時間深い昼寝をしました。本日BuildSelfでは、脳の疲労物質を掃除するパワーナップ（Power Nap）の実践法を伝えます。
@@ -59,6 +62,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     快適な椅子にもたれて座るかベッドに横たわった後、アイマスクや耳栓を活用して外部刺激を最小限に抑えます。目を閉じて視覚情報を遮断するだけで、脳の視覚皮質が休息モードに入り、認知疲労が大幅に減少します。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/churchill_afternoon_nap_relax_detail.png" alt="視覚情報を遮断して目を閉じる" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ steps:
       午後に集中力が低下したまま机の前にぼんやりと座っている時間は、生産性を大幅に低下させます。その非効率を無理に耐える代わりに、チャーチルのようにたった20分の完全なパワーナップを通じて、午後の日課を新しく始めるエネルギーを充電してみてください。脳が最適化され、残りの一日を完全に新しく澄んだ精神で没頭できるようになります。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>チャーチルの戦時中の昼寝ルーティンの効果は何でしたか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      午後1.5〜2時間の深い昼寝によって、1日の仕事を2つの独立した精神的サイクルに分割し、24時間重い意思決定の負荷を支えました。
+    </p>
+  </details>
 </div>

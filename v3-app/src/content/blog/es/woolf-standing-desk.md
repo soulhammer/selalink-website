@@ -15,6 +15,9 @@ steps:
     text: "Mientras estás de pie, realiza un trabajo profundo que requiera el más alto nivel de lógica y concentración, como escribir propuestas complejas, traducir documentos o redactar, en lugar de revisar correos. La ligera tensión del cuerpo aumenta la velocidad del cerebro."
   - name: "Distribuir el peso uniformemente y mantener una buena postura"
     text: "Evita apoyarte en una sola pierna y distribuye el peso por igual en ambos pies. Mantén los hombros y el pecho abiertos, ajusta el monitor para alinear lo con tu mirada y alterna con sentarte o estirarte durante 10 minutos después de 30-50 minutos de enfoque."
+faqs:
+  - question: "¿Por qué Virginia Woolf escribía de pie?"
+    answer: "Inspirada por su hermana pintora, utilizaba un escritorio de pie como un ritual físico para mantener la igualdad artística y el enfoque."
 ---
 
 Virginia Woolf, considerada una pionera de la literatura modernista del siglo XX, que dejó obras maestras como 'La señora Dalloway' y 'Al faro'. ¿Cómo fue capaz de plasmar mundos internos tan íntimos y psicologías tan complejas con oraciones tan persistentes y sofisticadas? Detrás de su asombrosa concentración había un hábito de trabajo muy singular. Cada mañana, Woolf se paraba frente a un escritorio de pie inclinado de más de un metro de altura para escribir. Esta rutina de escritura se inspiró en el método de trabajo de su hermana, Vanessa Bell, una destacada pintora. Fascinada por la forma en que su hermana se paraba frente al caballete, usando todo su cuerpo para pintar, Woolf pensé que ella también tenía que pararse para escribir. Hoy, BuildSelf comparte los beneficios científicos de la rutina de escritura de pie de Woolf y prácticas para aumentar la concentración.
@@ -59,6 +62,9 @@ El hábito de sentarse y trabajar durante largas horas agota lentamente no solo 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Mientras estás de pie, realiza un trabajo profundo que requiera el más alto nivel de lógica y concentración, como escribir propuestas complejas, traducir documentos o redactar, en lugar de revisar correos. La ligera tensión del cuerpo aumenta la velocidad del cerebro.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="Organizar las tareas principales más difíciles y creativas" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ El hábito de sentarse y trabajar durante largas horas agota lentamente no solo 
       Las personas modernas pasan la mayor parte de su jornada laboral sentadas. En el momento en que te sientas a tu escritorio por la mañana, el cerebro lo confunde fácilmente con un descanso. Si realizas una rutina de inmersión de pie de 30 minutos por la mañana como Virginia Woolf, puedes activar la función cardiorrespiratoria y el cerebro. Amplía conscientemente tu tiempo de pie cada día.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué Virginia Woolf escribía de pie?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Inspirada por su hermana pintora, utilizaba un escritorio de pie como un ritual físico para mantener la igualdad artística y el enfoque.
+    </p>
+  </details>
 </div>

@@ -15,6 +15,9 @@ steps:
     text: "Apóyate en una silla cómoda o acuéstate en la cama, y usa un antifaz o tapones para los oídos para minimizar los estímulos externos. Incluso si no puedes conciliar un sueño profundo, cerrar los ojos reduce en gran medida la fatiga cognitiva."
   - name: "Despertarse inmediatamente cuando suene la alarma"
     text: "Cuando suene la alarma de 20 minutos, descarta la tentación de acostarte más tiempo y levántate de inmediato. Bebe un vaso de agua fría para despertar tus sentidos y estírate ligeramente. Reanuda tu trabajo sintiéndote renovado."
+faqs:
+  - question: "¿Cuál era el efecto de la siesta de Churchill en la guerra?"
+    answer: "Con una siesta profunda de 1.5 a 2 horas, dividía su día en dos períodos independientes de alerta para manejar cargas de decisión."
 ---
 
 Winston Churchill, el primer ministro británico durante la Segunda Guerra Mundial que lideró la lucha contra Alemania para asegurar la victoria final de los Aliados, y al mismo tiempo historiador y escritor ganador del Premio Nobel de Literatura. ¿Cómo era capaz de mantener su máximo estado de alerta mental sin agotarse bajo las agotadoras tareas estatales de más de 18 horas al día? El secreto residía en una rutina de siesta muy singular y firme que realizaba cada tarde. Cada tarde, entre las 2:00 y las 2:30 p. m., Churchill interrumpía todos los informes y se iba a su dormitorio, se desnudaba por completo y tomaba una siesta profunda de 1 a 2 horas. Hoy, BuildSelf comparte la verdad neurocientífica detrás de la siesta de Churchill y la siesta reparadora.
@@ -59,6 +62,9 @@ Mientras los humanos están despiertos y activos, una sustancia de fatiga llamad
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Apóyate en una silla cómoda o acuéstate en la cama, y usa un antifaz o tapones para los oídos para minimizar los estímulos externos. Incluso si no puedes conciliar un sueño profundo, cerrar los ojos reduce en gran medida la fatiga cognitiva.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/churchill_afternoon_nap_relax_detail.png" alt="Bloquear la información visual y cerrar los ojos" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Mientras los humanos están despiertos y activos, una sustancia de fatiga llamad
       Sentarse sin pensar en el escritorio por la tarde con baja concentración reduce en gran medida la productividad. En lugar de forzarte a soportar esa ineficiencia, recarga tu enfoque con una siesta reparadora de 20 minutos como Churchill. Tu cerebro se optimizará, permitiéndote sumergirte en el resto del día.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Cuál era el efecto de la siesta de Churchill en la guerra?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Con una siesta profunda de 1.5 a 2 horas, dividía su día en dos períodos independientes de alerta para manejar cargas de decisión.
+    </p>
+  </details>
 </div>

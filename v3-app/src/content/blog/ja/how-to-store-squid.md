@@ -14,6 +14,11 @@ steps:
     text: "洗ったいかは, ペーパーで胴体の中も外も水分を完全に拭き取ってください。水分が残っていると凍らせる際に氷結晶ができ, 解凍した時に身がふにゃふにゃになってしまいます。水気を取ったらラップで個別に密閉します。"
   - name: "ジッパーバッグに入れて二重に密閉して冷凍 — 冷凍保存 (60日間)"
     text: "ラップで包んだいかをジッパーバッグに入れ, 空気を抜いてからマイナス18℃以下の冷凍庫に保存します。海鮮特有のにおいが他の冷凍食品に移るのを完全に防ぎます。"
+faqs:
+  - question: "生イカの内臓をそのまま冷蔵保存してもいいですか？"
+    answer: "生イカは内臓から急速に腐敗し、臭いや雑菌の繁殖を引き起こします。購入後すぐに内臓を取り除いてきれいに洗い、水気を切ってから冷蔵してください。"
+  - question: "イカを解凍する際、生臭さを防ぐには？"
+    answer: "冷蔵庫でゆっくり解凍することで、水分（ドリップ）の流出と身が硬くなるのを防ぎます。解凍時に少量の酒を振っておくと、生臭さを抑えられます。"
 ---
 
 生のイカをビニール袋に入れて冷蔵庫に置いておいたら、生臭い臭いが充満して身が傷んでしまった経験はありませんか？イカは内臓から腐り始めるため、下処理と冷凍が不可欠です。正しい手入れ方法をご紹介します。
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      公認の科学的保管基準
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>.
@@ -48,6 +53,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     いかの内臓や吸盤についた汚れは, 生臭さや雑菌繁殖の原因になります。胴体を切り開いて内臓とイカスミ袋を取り除き, 足の吸盤についたイカの角質リングなどの汚れを流水でこすり落としながらきれいに洗います。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/squid_storage_detail.png" alt="内臓と吸盤の汚れを完全に除去する — 臭み防止 🦑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ steps:
       生の水産物は冷蔵室では急速に傷みます。長期間保存する場合は、必ず小分けにして冷凍庫で保管してください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>生イカの内臓をそのまま冷蔵保存してもいいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      生イカは内臓から急速に腐敗し、臭いや雑菌の繁殖を引き起こします。購入後すぐに内臓を取り除いてきれいに洗い、水気を切ってから冷蔵してください。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>イカを解凍する際、生臭さを防ぐには？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      冷蔵庫でゆっくり解凍することで、水分（ドリップ）の流出と身が硬くなるのを防ぎます。解凍時に少量の酒を振っておくと、生臭さを抑えられます。
+    </p>
+  </details>
 </div>

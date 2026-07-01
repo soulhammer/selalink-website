@@ -71,7 +71,7 @@ faqs:
     身の回りにある手軽な楽器（カリンバ、リコーダー、ウクレレ、あるいはフィンガードラムなど）を5分間自由に演奏してみましょう。楽器がない場合は、歌詞のないクラシックやジャズの演奏曲を再生して目を閉じ、メロディの響きとリズムに意識を集中させ、指で軽く拍子をとります。
   </p>
   <div class="mt-6 flex justify-center">
-    <img src="/images/blog/einstein_violin_relax.png" alt="5分間の聴覚・リズム集中リチュアル" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+    <img src="/images/blog/einstein_violin_thinking_relax_detail.png" alt="5分間の聴覚・リズム集中リチュアル" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
   </div>
 </div>
 

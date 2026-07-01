@@ -15,6 +15,9 @@ steps:
     text: "Keep your smartphone deep in your pocket and do not look at the screen. At the start of the walk, float a single clear question you are recently contemplating or planning in your mind, and just walk without forcing yourself to solve it."
   - name: "Record inspirations immediately after the walk"
     text: "While walking, as brain cells gently connect, clues naturally emerge from beyond consciousness. Immediately after finishing the walk, sit down and quickly scribble down the thoughts or inspirations that flashed through your mind."
+faqs:
+  - question: "What is Darwin's Sandwalk?"
+    answer: "It was a path where he walked three laps daily to activate the prefrontal cortex with light activity and organize evolution theory ideas."
 ---
 
 Charles Darwin, the man who brought the greatest revolution to scientific thinking in human history by writing 'The Origin of Species' explaining the evolution of organisms based on natural selection. Where did the great evolutionary inspirations that changed the paradigm of humanity come from? Darwin spent his life researching at Down House, a quiet village near London. Every morning and afternoon, he walked the 'Sandwalk,' a gravel and dirt path he built around his house. He called this path the 'Thinking Path,' and at the start of his walk, he stacked 5 or 6 small stones at the corner, kicking one away each time he completed a lap to keep track of how many laps he had walked. Today, BuildSelf explores the scientific principles of Darwin's 'Sandwalk' routine and how modern people can apply it to boost creativity.
@@ -59,6 +62,9 @@ Walking is the greatest brainstorming technique that humanity has optimized whil
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Keep your smartphone deep in your pocket and do not look at the screen. At the start of the walk, float a single clear question you are recently contemplating or planning in your mind, and just walk without forcing yourself to solve it.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/darwin_sandwalk_relax_detail.png" alt="Disconnect from your smartphone and pose a single question" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Walking is the greatest brainstorming technique that humanity has optimized whil
       The brains of modern people, who constantly pursue and calculate goals at every moment, accumulate fatigue substances like adenosine, making creative judgments difficult. Just like Darwin, turn off your smartphone for about 20 minutes a day, walk the same path mindlessly, and gift your brain the time and space to connect the answers on its own.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>What is Darwin's Sandwalk?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      It was a path where he walked three laps daily to activate the prefrontal cortex with light activity and organize evolution theory ideas.
+    </p>
+  </details>
 </div>

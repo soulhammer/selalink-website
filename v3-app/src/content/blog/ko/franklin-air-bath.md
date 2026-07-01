@@ -3,10 +3,20 @@ title: "매일 아침 30분, 벤자민 프랭클린의 기묘한 '공기욕(Air 
 description: "피뢰침을 발명하고 미국의 건국을 이끈 벤자민 프랭클린. 그가 매일 아침 나체로 창문을 열어두고 바람을 맞았던 '공기욕' 루틴의 과학적 효과와 실천법을 소개합니다."
 pubDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+tags: ["매일 아침 30분,","Routine"]
 heroImage: "/images/blog/franklin_air_bath.png"
 app: "buildself"
 authority: "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Franklin' 및 뉴잉글랜드 의학저널(NEJM)"
+steps:
+  - name: "아침 환기하며 찬 공기 맞이하기 5분"
+    text: ""
+  - name: "찬 바람 속에서 하루 계획하기"
+    text: ""
+  - name: "가벼운 맨몸 스트레칭"
+    text: ""
+faqs:
+  - question: "공기욕(Air Bath)이 정말 감기 예방에 도움이 되나요?"
+    answer: "네, 피부를 차가운 공기에 가볍게 노출시키는 것은 온도 변화에 대한 신체 저항력을 높이고 면역력을 조절해 감기 예방에 긍정적인 영향을 줍니다."
 ---
 
 미국의 100달러 지폐에 새겨진 인물이자 피뢰침을 발명한 천재 과학자, 그리고 철저한 자기관리로 유명한 벤자민 프랭클린. 그가 매일 아침 침대에서 일어나 행했던 아주 독특하고 기묘한 건강법을 아시나요? 💨
@@ -15,6 +25,9 @@ authority: "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Fran
 
 오늘 BuildSelf에서는 미국의 건국 아버지가 사랑했던 이 기상천외한 아침 루틴 속에 숨겨진 과학적 원리와, 현대 바쁜 일상 속에서 안전하게 이를 실천하는 방법을 소개합니다.
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
@@ -22,7 +35,7 @@ authority: "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Fran
       역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 벤자민 프랭클린의 공식 자서전인 <strong>&lt;The Autobiography of Benjamin Franklin&gt;</strong> 및 뉴잉글랜드 의학저널(NEJM)에 게재된 저온 노출의 갈색지방 활성화 및 면역 반응 연구를 바탕으로 작성되었습니다.
+      본 콘텐츠는 <strong>벤자민 프랭클린 자서전 'The Autobiography of Benjamin Franklin' 및 뉴잉글랜드 의학저널(NEJM)</strong>.
     </p>
   </div>
 </div>
@@ -37,9 +50,7 @@ authority: "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Fran
 
 ---
 
-## 2. 현대인을 위한 프랭클린 공기욕 루틴 3단계
-
-현대 아파트 환경과 바쁜 아침 일정에 맞게 안전하고 세련되게 변형한 3단계 프랭클린 아침 루틴을 제안합니다.
+## 2. 3-Step Practical Routine for Modern Professionals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -47,7 +58,7 @@ authority: "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Fran
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침 환기하며 찬 공기 맞이하기 5분</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    아침에 눈을 뜨면 즉시 방이나 거실의 창문을 활짝 엽니다. 가벼운 반팔과 반바지 차림으로 창가에 서서 밤새 고여 있던 실내 공기를 환기하고 자연스럽게 들어오는 찬 공기를 맞이합니다.
+    
   </p>
 </div>
 
@@ -57,8 +68,11 @@ authority: "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Fran
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">찬 바람 속에서 하루 계획하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    창가를 향해 선 채로 찬 바람을 맞으며 오늘 꼭 해내야 할 핵심 일과 3가지를 다이어리나 스마트폰 메모장에 적습니다. 저온 노출로 각성된 뇌가 목표를 명확하게 정리하는 것을 돕습니다.
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/franklin_air_bath_relax_detail.png" alt="찬 바람 속에서 하루 계획하기" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -67,20 +81,36 @@ authority: "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Fran
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">가벼운 맨몸 스트레칭</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    공기욕을 마치며 가벼운 기지개나 목, 어깨 스트레칭을 1~2분간 진행합니다. 신선한 산소가 전신으로 원활하게 공급되면서 즉각적으로 활력 넘치는 하루를 시작할 준비가 완료됩니다.
+    
   </p>
 </div>
 
 ---
 
 ## 3. 성공적인 루틴을 위한 뇌과학적 한마디
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">체온 조절 대사가 두뇌를 깨웁니다</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       아침 일찍 신선하고 시원한 외부 공기에 일시적으로 노출되는 자극은 신체의 호르몬 체계를 활성화하는 훌륭한 생체 자극제입니다. 매일 아침 같은 시간 창문을 열고 공기욕을 실천하면 뇌는 이를 강력한 아침 각성 신호로 인지하게 되어, 커피를 마시기 전에도 맑고 쾌적한 정신 상태를 빠르게 회복할 수 있게 됩니다.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>공기욕(Air Bath)이 정말 감기 예방에 도움이 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      네, 피부를 차가운 공기에 가볍게 노출시키는 것은 온도 변화에 대한 신체 저항력을 높이고 면역력을 조절해 감기 예방에 긍정적인 영향을 줍니다.
+    </p>
+  </details>
 </div>

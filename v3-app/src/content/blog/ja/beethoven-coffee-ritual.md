@@ -15,6 +15,9 @@ steps:
     text: "豆を数えたりお茶を淹れたりする5分間は、スマートフォンの画面を絶対に見ず、ニュースや会話などの言語的刺激を遮断します。ただ指先の感覚、コーヒーの香り、お湯の落ちる音だけに極度に集中します。"
   - name: "落ち着いて一杯を飲みながら没頭モードを開始する"
     text: "丁寧に淹れたコーヒーやお茶を席に座ってゆっくり味わいます。この落ち着いて整えられた脳の状態を維持し、最初の重要な業務にすぐに突入します。繰り返すことで、集中モードの作動信号として条件付けます。"
+faqs:
+  - question: "ベートーヴェンはなぜコーヒー豆60粒にこだわったのですか？"
+    answer: "作業の直前に60粒の豆を数える単純反復行為を通じて、認知エネルギーを1箇所に集約し、没頭へのトリガーとするためでした。"
 ---
 
 音楽家として致命的な試練である聴覚障害を克服し、交響曲第5番《運命》や第9番《合唱》など、人類史上最も偉大な旋律を誕生させた作曲家、ルートヴィヒ・ヴァン・ベートーヴェン。彼が毎朝執筆を始める前、非常に静かに、そして厳格に行っていた奇妙な行動をご存知でしょうか？それは、コーヒー豆を正確に「60粒」数えて淹れる朝のコーヒー儀式でした。ベートーヴェンはコーヒーの味と香りに非常に敏感で、完璧な比率にこだわりました。この60粒の豆を数える時間は、彼にとって単なる飲み物の準備ではなく、雑多な外部の騒音から心を閉ざし、静かに自分自身の内なる音楽の世界へと入る神聖な朝の入り口でした。本日BuildSelfでは、朝のリチュアル設計法を紹介します。
@@ -59,6 +62,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     豆を数えたりお茶を淹れたりする5分間は、スマートフォンの画面を絶対に見ず、ニュースや会話などの言語的刺激を遮断します。ただ指先の感覚、コーヒーの香り、お湯の落ちる音だけに極度に集中します。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="準備する5分間、外部刺激を完全に遮断する" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ steps:
       忙しい朝の時間にバタバタと準備して出勤すると、一日中脳は雑然とした状態から抜け出せません。ベートーヴェンのように、たった5分だけでも自分のために温かい感覚に集中する精巧な朝のリチュアルを守ってみてください。脳を落ち着かせて同期化し、整えておいた状態で始める一日は、集中力の深さ自体がまったく異なります。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>ベートーヴェンはなぜコーヒー豆60粒にこだわったのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      作業の直前に60粒の豆を数える単純反復行為を通じて、認知エネルギーを1箇所に集約し、没頭へのトリガーとするためでした。
+    </p>
+  </details>
 </div>

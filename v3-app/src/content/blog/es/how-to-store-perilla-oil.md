@@ -14,6 +14,11 @@ steps:
     text: "La luz y el oxígeno aceleran la oxidación de los ácidos grasos omega-3. El aceite de linaza debe envasarse en botellas de vidrio marrón o verde, cerrando bien la tapa después de cada uso."
   - name: "Mezcle aceite de linaza y de sésamo en proporción 8:2 — Conservante natural 🫒"
     text: "Pruebe mezclando un 20% de aceite de sésamo con el aceite de linaza. Los antioxidantes naturales del sésamo, como el lignano, previenen la oxidación, duplicando la vida útil del aceite."
+faqs:
+  - question: "Does mixing perilla oil with sesame oil increase its shelf life?"
+    answer: "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
+  - question: "Should sesame oil be refrigerated too?"
+    answer: "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
 ---
 
 ¿Guardó el aceite de perilla en la alacena a temp. ambiente como el de oliva o sésamo? Al tener más de 60% de omega-3, se oxida rápido al aire y crea toxinas. Hoy, StoreSelf comparte trucos de refrigeración.
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Autoridad Científica Verificada
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Esta guía de conservación cumple con las directrices oficiales de: <strong>RDA & MFDS</strong>.
@@ -48,6 +53,9 @@ Comprender las características únicas de cada ingrediente y seguir el método 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     A diferencia del aceite de sésamo, el aceite de linaza (perilla) carece de sesamol, un conservante natural, y tiene más de 60% de ácidos grasos omega-3, por lo que se rancia rápido a temp. ambiente. Guárdelo siempre en frío (0-4 °C).
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/perilla-oil_storage_detail.png" alt="Almacene siempre en el refrigerador a 0–4 °C — Almacenamiento Refrigerado (30Días)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Comprender las características únicas de cada ingrediente y seguir el método 
       El aceite de sésamo es rico en sesamol y sesamolina, antioxidantes naturales que evitan que el aceite de perilla se rancie.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Does mixing perilla oil with sesame oil increase its shelf life?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Should sesame oil be refrigerated too?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma.
+    </p>
+  </details>
 </div>

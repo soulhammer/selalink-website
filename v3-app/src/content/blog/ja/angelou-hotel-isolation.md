@@ -14,6 +14,9 @@ steps:
     text: "デスクの上から現在の作業に関係のないアイテムを片付けます。スマートフォンは電源を切るか、見えない場所に置くか、別の部屋に移動させて環境的な引き金をなくします。"
   - name: "明確な開始と終了の儀式を確立する"
     text: "集中ゾーンに入り、そして出る正確な時間を定義します。時間が来たら完全にその場を離れて日常生活に戻り、仕事と休息の間に心理的な境界線を作ります。"
+faqs:
+  - question: "アンジェロウはなぜホテルの一室にこもって執筆したのですか？"
+    answer: "親しみのある家庭や日常の刺激（絵画、家事など）から脳を完全に遮断し、極限の没頭状態を強制するためでした。"
 ---
 
 名著『歌え、翔べない鳥たちよ』で知られる伝説的なアメリカの詩人、自叙伝作家、そして人権活動家であるマヤ・アンジェロウ。彼女は深い没頭のために、毎朝6時30分に近くのホテルの部屋にチェックインしました。彼女はホテルのスタッフに、壁の絵画や写真、装飾品をすべて取り外すよう依頼し、聖書、辞書、トランプ一組、そしてシェリー酒のボトル一本だけを部屋に残しました。本日、BuildSelfでは、障害物のない空の環境を作ることが、いかに認知能力を劇的に向上させるかを紹介します。
@@ -58,6 +61,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     デスクの上から現在の作業に関係のないアイテムを片付けます。スマートフォンは電源を切るか、見えない場所に置くか、別の部屋に移動させて環境的な引き金をなくします。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/angelou_hotel_isolation_relax_detail.png" alt="視覚的およびデジタルな雑音をすべて排除する" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ steps:
       意志の力だけで誘惑と戦うのは困難です。真の集中は、誘惑が存在し得ない物理的環境を設計することから生まれます。デスクを片付け、スマートフォンを隔離し、周囲の簡素さによって脳に集中を命じさせてください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>アンジェロウはなぜホテルの一室にこもって執筆したのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      親しみのある家庭や日常の刺激（絵画、家事など）から脳を完全に遮断し、極限の没頭状態を強制するためでした。
+    </p>
+  </details>
 </div>

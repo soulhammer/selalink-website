@@ -15,6 +15,9 @@ steps:
     text: "Bersandarlah di kursi yang nyaman atau berbaring di tempat tidur, dan gunakan masker mata atau penyumbat telinga untuk meminimalkan rangsangan luar. Bahkan jika Anda tidak bisa tidur nyenyak, hanya memejamkan mata sangat mengurangi kelelahan kognitif."
   - name: "Bangun segera setelah alarm berbunyi"
     text: "Ketika alarm 20 menit berbunyi, hilangkan godaan untuk berbaring lebih lama & segera bangun. Minum air dingin."
+faqs:
+  - question: "Apa efek dari rutinitas tidur siang Churchill di masa perang?"
+    answer: "Dengan tidur siang yang nyenyak, ia membagi harinya menjadi dua periode aktif untuk menangani beban keputusan."
 ---
 
 Winston Churchill, Perdana Menteri Inggris selama Perang Dunia II yang memimpin perjuangan kuat melawan Jerman untuk memastikan kemenangan akhir Sekutu, & pada saat yang sama seorang sejarawan & penulis pemenang Hadiah Nobel Sastra. Bagaimana dia bisa menjaga kewaspadaan mental puncaknya tanpa kelelahan di bawah tugas-tugas negara yang melelahkan selama lebih dari 18 jam sehari? Rahasianya terletak pada rutinitas tidur siang yang sangat unik & kokoh yang dia lakukan setiap sore. Setiap sore antara pukul 14.00 & 14.30, Churchill menghentikan semua laporan negara & pergi ke kamar tidurnya, menanggalkan pakaian sepenuhnya, & tidur nyenyak selama 1 hingga 2 jam.
@@ -59,6 +62,9 @@ Saat manusia terjaga dan aktif, zat kelelahan yang disebut adenosin terus menump
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Bersandarlah di kursi yang nyaman atau berbaring di tempat tidur, dan gunakan masker mata atau penyumbat telinga untuk meminimalkan rangsangan luar. Bahkan jika Anda tidak bisa tidur nyenyak, hanya memejamkan mata sangat mengurangi kelelahan kognitif.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/churchill_afternoon_nap_relax_detail.png" alt="Blokir informasi visual dan pejamkan mata Anda" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Saat manusia terjaga dan aktif, zat kelelahan yang disebut adenosin terus menump
       Duduk termenung di meja Anda di sore hari dengan konsentrasi rendah sangat mengurangi produktivitas. Daripada memaksakan diri melalui ketidakefisienan itu, isi ulang fokus Anda dengan tidur siang 20 menit seperti Churchill. Otak Anda akan dioptimalkan, memungkinkan Anda membenamkan diri dalam sisa hari itu.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Apa efek dari rutinitas tidur siang Churchill di masa perang?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Dengan tidur siang yang nyenyak, ia membagi harinya menjadi dua periode aktif untuk menangani beban keputusan.
+    </p>
+  </details>
 </div>

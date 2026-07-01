@@ -14,6 +14,11 @@ steps:
     text: "Guardar los champiñones en una bolsa de plástico atrapa la humedad de su respiración, causando condensación y pudriéndolos. Envuélvalos en papel de cocina o una bolsa de papel marrón que absorba la humedad."
   - name: "Guarde en una repisa media sin presión — Almacenamiento Refrigerado (3Días)"
     text: "Los champiñones tienen estructuras delicadas. Si se aplastan bajo alimentos pesados, sus paredes celulares se rompen, ennegreciéndolos y pudriéndolos. Colóquelos encima de los demás vegetales."
+faqs:
+  - question: "Why should mushrooms never be washed before storage?"
+    answer: "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
+  - question: "My mushrooms are slimy and smell slightly sour. Are they safe?"
+    answer: "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
 ---
 
 ¿Lava los champiñones con agua antes de cocinarlos? Este hábito daña su sabor y textura, y acelera su descomposición. Hoy, StoreSelf comparte trucos de conservación y limpieza.
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Autoridad Científica Verificada
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Esta guía de conservación cumple con las directrices oficiales de: <strong>RDA & USDA</strong>.
@@ -48,6 +53,9 @@ Comprender las características únicas de cada ingrediente y seguir el método 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Los champiñones son porosos y absorben agua como esponjas. Lavarlos antes de guardarlos arruina su textura firme y su aroma. Limpie el polvo con un cepillo justo antes de cocinar.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/mushrooms_storage_detail.png" alt="Nunca lave los champiñones antes de guardarlos — Evite absorber agua ❌💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ Comprender las características únicas de cada ingrediente y seguir el método 
       Los champiñones liberan humedad constantemente. Envolverlos en toallas de papel absorbe el exceso de condensación y evita que se pudran.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Why should mushrooms never be washed before storage?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>My mushrooms are slimy and smell slightly sour. Are they safe?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately.
+    </p>
+  </details>
 </div>

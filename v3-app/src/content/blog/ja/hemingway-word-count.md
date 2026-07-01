@@ -14,6 +14,9 @@ steps:
     text: "手帳や壁の表、シンプルなスプレッドシートを用意し、毎日正確な数値を書き留めます。うまくいかなかった日も含めて正直に記録することが不可欠です。"
   - name: "記録する行為そのものに集中する"
     text: "一日だけの低い数値で自分の生産性を判断しないでください。記録する行為そのものが自己認識を高め、翌日再び始めるために必要な弾みを維持します。"
+faqs:
+  - question: "ヘミングウェイはなぜ毎日単語数を記録したのですか？"
+    answer: "自分を欺くことなく執筆の進捗を客観的に可視化し、スランプを防止して創作活動の規則的な流れを保つためでした。"
 ---
 
 ノーベル賞とピューリッツァー賞を同時に受賞した、現代アメリカ文学の巨匠アーネスト・ヘミングウェイ。極限まで無駄を削ぎ落とした「ハードボイルド」な作風で知られる彼の、毎日の規律もまた伝説的でした。彼は早朝から執筆を始め、作業が終わるたびにその日書いた単語数を数え、壁に掛けた大きな表に記録しました。本日、BuildSelfではヘミングウェイの記録習慣の科学的根拠と、日常で自己監視を応用する方法を調べます。
@@ -58,6 +61,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     手帳や壁の表、シンプルなスプレッドシートを用意し、毎日正確な数値を書き留めます。うまくいかなかった日も含めて正直に記録することが不可欠です。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/hemingway_word_count_relax_detail.png" alt="数値を視覚的な表に正直に記録する" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -80,4 +86,22 @@ steps:
       曖昧な努力は曖昧な結果を招きます。正確な数値で行動を追跡し始めると、脳は客観的な自己認識を得ます。数値が低い日であっても、単に記録する行為そのものが習慣とのつながりを維持し、挫折を防ぎます。毎日進捗を追跡し、数値に継続性を導かせてください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>ヘミングウェイはなぜ毎日単語数を記録したのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      自分を欺くことなく執筆の進捗を客観的に可視化し、スランプを防止して創作活動の規則的な流れを保つためでした。
+    </p>
+  </details>
 </div>

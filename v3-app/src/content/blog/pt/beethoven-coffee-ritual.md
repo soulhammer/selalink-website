@@ -15,6 +15,9 @@ steps:
     text: "Durante os 5 minutos de preparação do chá ou contagem dos grãos, não olhe para o ecrã do telemóvel e bloqueie estímulos verbais como notícias ou conversas. Concentre-se unicamente nas sensações físicas."
   - name: "Iniciar o modo de foco enquanto bebe lentamente"
     text: "Saboreie o café ou chá preparado lentamente. Mantenha este estado cerebral calmo e entre imediatamente na sua primeira tarefa importante. Repetir este ritual de manhã condiciona o cérebro a reconhecer o sabor como um gatilho."
+faqs:
+  - question: "Porque é que Beethoven insistia em contar 60 grãos de café?"
+    answer: "Através do ato repetitivo de contar 60 grãos, concentrava a energia cognitiva para usá-la como gatilho de concentração."
 ---
 
 Ludwig van Beethoven, um dos maiores compositores da história da música ocidental, que superou a provação mortal da perda auditiva e criou as melodias mais grandiosas da história, como a 'Sinfonia do Destino' e a 'Sinfonia Coral'. Sabia que ele realizava um ritual matinal antes de começar a compor? Era o ritual de contar exatamente '60 grãos' de café. Beethoven era muito sensível ao sabor e aroma del café e insistia na proporção perfeita. Contar estes 60 grãos era uma entrada sagrada para isolar os ruídos externos e entrar no seu mundo musical. Hoje, o BuildSelf partilha os segredos científicos del ritual de Beethoven.
@@ -59,6 +62,9 @@ Focar em ações físicas precisas, como contar grãos de café, é um excelente
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Durante os 5 minutos de preparação do chá ou contagem dos grãos, não olhe para o ecrã do telemóvel e bloqueie estímulos verbais como notícias ou conversas. Concentre-se unicamente nas sensações físicas.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="Bloquear completamente os estímulos externos durante 5 minutes de preparação" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ Focar em ações físicas precisas, como contar grãos de café, é um excelente
       Se se apressar a preparar-se de manhã, o seu cérebro permanecerá desordenado durante todo o dia. Tal como Beethoven, mantenha um ritual matinal preciso de se concentrar nos seus sentidos durante apenas 5 minutos. Um dia começado com um cérebro calmo tem uma profundidade de concentração diferente.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Perguntas Frequentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Porque é que Beethoven insistia em contar 60 grãos de café?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Através do ato repetitivo de contar 60 grãos, concentrava a energia cognitiva para usá-la como gatilho de concentração.
+    </p>
+  </details>
 </div>

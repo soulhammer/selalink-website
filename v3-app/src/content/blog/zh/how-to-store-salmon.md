@@ -14,6 +14,11 @@ steps:
     text: "在吸干水分的三文鱼表面刷上一层薄薄的柠檬汁或少许料酒（或味醂）。酸和酒精成分能起到天然防腐剂的作用，有效抑制微生物繁殖和脂肪氧化。"
   - name: "用保鲜膜紧密包裹排出空气 — 冷冻储存 (90天) 📦"
     text: "将处理妥当的三文鱼用保鲜膜超紧密包裹，不留一丝空气，然后放入密封袋中进行双重密封。这样可以在冷藏下保鲜2天，在冷冻状态下安全保存长达60天。"
+faqs:
+  - question: "三文鱼表面颜色变暗淡了还可以吃吗？"
+    answer: "如果生三文鱼失去鲜粉红色而变得灰暗或发黄，说明已经开始氧化和滋生细菌。如果手感发黏或有酸味，绝对不能食用。"
+  - question: "剩下的生三文鱼冷冻时有什么注意事项吗？"
+    answer: "用厨房纸巾彻底擦干水分，表面薄薄涂一层食用油或橄榄油，紧贴包裹保鲜膜冷冻，可以防止冷冻干燥（冻伤）和结霜。"
 ---
 
 您是否把鲜红的三文鱼随手在冰箱里放了两天以上？三文鱼水分含量高，极易滋生细菌。今天，StoreSelf为您分享基于美国食品药品监督管理局(FDA)指南的无腥味三文鱼密封与保存秘诀。
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      官方科学验证权威
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本指南严格遵守以下机构公认的食品安全与储存指南： <strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA)</strong>.
@@ -48,6 +53,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     生三文鱼表面的水分和鱼油是细菌滋生的主要温床。储存前必须用厨房纸巾按压三文鱼的正反面，彻底吸干表面水分。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/salmon_storage_detail.png" alt="吸干表面油脂与水分 — 冷藏储存 (2天) 🍣" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ steps:
       接触氧气会导致脂肪酸败并使肉质变柴。用保鲜膜真空般紧密包裹能隔绝氧气接触。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>三文鱼表面颜色变暗淡了还可以吃吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      如果生三文鱼失去鲜粉红色而变得灰暗或发黄，说明已经开始氧化和滋生细菌。如果手感发黏或有酸味，绝对不能食用。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>剩下的生三文鱼冷冻时有什么注意事项吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      用厨房纸巾彻底擦干水分，表面薄薄涂一层食用油或橄榄油，紧贴包裹保鲜膜冷冻，可以防止冷冻干燥（冻伤）和结霜。
+    </p>
+  </details>
 </div>

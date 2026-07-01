@@ -15,6 +15,9 @@ steps:
     text: "スマートフォンはポケットに深く入れ、画面を絶対に見ません。歩き始めに、最近悩んでいることや企画段階にある一つの明確な問いを頭の中に軽く浮かべ、それについて無理に解決しようとせず、ただ歩みを進めます。"
   - name: "散歩が終わった直後にインスピレーションを記録する"
     text: "歩いている間、脳細胞が緩やかにつながりながら、意識の向こう側から自然に手がかりが浮かび上がってきます。散歩を終えたらすぐに席に座り、頭をよぎった考えやインスピレーションをメモ帳や企画書に素早く書き留めます。"
+faqs:
+  - question: "ダーウィンのサンドウォーク（Sandwalk）とは何ですか？"
+    answer: "彼が毎日3周歩いて思索に耽った砂利道で、軽い身体活動を通じて前頭葉を活性化し、進化論のアイデアを整理する思考の散歩道でした。"
 ---
 
 自然選択説に基づいて生物の進化を説明した『種の起源』を著し, 人類史において科学的思考に最大の革命をもたらしたチャールズ・ダーウィン。人類のパラダイムを変えた偉大な進化論的インスピレーションは, 一体どこから誕生したのでしょうか？ダーウィンはロンドン近郊の静かな田舎町ダウン・ハウス（Down House）で生涯研究に専念しました。彼は毎日午前と午後, 自宅の周りに自ら整備した砂利と土の道である「サンドウォーク（Sandwalk）」を歩きました。本日、BuildSelfではダーウィンが毎日守り続けた「サンドウォーク」思索ルーティンの科学的な作動原理と, 現代人がこれを応用して創造性を高める方法を紹介します。
@@ -59,6 +62,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     スマートフォンはポケットに深く入れ、画面を絶対に見ません。歩き始めに、最近悩んでいることや企画段階にある一つの明確な問いを頭の中に軽く浮かべ、それについて無理に解決しようとせず、ただ歩みを進めます。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/darwin_sandwalk_relax_detail.png" alt="スマートフォンを完全に遮断し、一つの問いを投げかける" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ steps:
       毎瞬間目標を追求し演算する現代人の脳は, アデノシンのような疲労物質が蓄積され, いざという時に創造的な判断を下すことを困難にします。ダーウィンのように一日20分ほどスマートフォンをオフにし, 同じ道を無心で散歩しながら, 脳が自ら答えをつなぎ合わせられる時間的・空間的なゆとりをプレゼントしてみてください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>ダーウィンのサンドウォーク（Sandwalk）とは何ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      彼が毎日3周歩いて思索に耽った砂利道で、軽い身体活動を通じて前頭葉を活性化し、進化論のアイデアを整理する思考の散歩道でした。
+    </p>
+  </details>
 </div>

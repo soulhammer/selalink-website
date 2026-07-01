@@ -15,6 +15,9 @@ steps:
     text: ""
   - name: "Externalize o subconsciente de imediato"
     text: ""
+faqs:
+  - question: "Porque é que Dali segurava uma colher durante os cochilos?"
+    answer: "Ao adormecer e relaxar os músculos, a colher caía sobre um prato, acordando-o para capturar imediatamente inspirações surrealistas."
 ---
 
 Salvador Dalí, um gigante da arte surrealista e uma das mentes mais criativas do século XX. De onde vinham as inspirações bizarras e caprichosas das suas obras? Quando Dalí enfrentava bloqueios criativos, sentava-se confortavelmente numa cadeira e segurava uma colher de metal acima de um prato pousado no chão. Hoje, o BuildSelf explora a ciência por trás do cochilo da colher.
@@ -87,4 +90,22 @@ A fase de transição para o sono ativa a 'Hypnagogia', um estado rico em ondas 
       O cochilo da colher de Dalí era um mecanismo elegante para ligar o subconsciente à arte. Quando estiver bloqueado, en decay de forçar a lógica, dê ao seu cérebro 5 minutos para libertar o controlo consciente e reorganizar-se.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Perguntas Frequentes (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Porque é que Dali segurava uma colher durante os cochilos?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ao adormecer e relaxar os músculos, a colher caía sobre um prato, acordando-o para capturar imediatamente inspirações surrealistas.
+    </p>
+  </details>
 </div>

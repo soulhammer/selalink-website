@@ -3,10 +3,20 @@ title: "라듐 연구 스트레스를 극복한 비결? 마리 퀴리의 저녁 
 description: "여성 최초이자 물리학·화학 분야 노벨상 동시 수상자인 마리 퀴리. 극심한 피로와 라듐 연구 스트레스 속에서도 그녀의 두뇌를 지켰던 자전거 라이딩 루틴을 알아봅니다."
 pubDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+tags: ["라듐 연구 스트레스","Routine"]
 heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
 authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(Harvard Health) 운동 연구"
+steps:
+  - name: "주 1~2회 야외 라이딩 코스 설정"
+    text: ""
+  - name: "이어폰을 빼고 감각에 집중하며 30분 라이딩"
+    text: ""
+  - name: "가벼운 허벅지 근육 스트레칭"
+    text: ""
+faqs:
+  - question: "퀴리 부부는 왜 결혼식 선물로 자전거를 요청했나요?"
+    answer: "화려한 결혼식 대신 자유롭고 건강하게 프랑스 시골길을 여행하며 사색하고, 일상의 번잡함을 피해 연구에 몰두할 수 있는 실용적인 도구를 원했기 때문입니다."
 ---
 
 여성 최초의 노벨상 수상자이자, 역사상 유일하게 물리학과 화학이라는 두 가지 서로 다른 과학 분야에서 모두 노벨상을 휩쓴 전설적인 과학자 마리 퀴리. 
@@ -17,6 +27,9 @@ authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(
 
 오늘 BuildSelf에서는 노벨상 수상자의 스트레스 극복을 도운 야외 자전거 루틴의 과학적 근거와 일상 실천 가이드를 알아봅니다.
 
+
+</div>
+
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
@@ -24,7 +37,7 @@ authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(
       역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 그녀의 딸 이브 퀴리가 쓴 전기 <strong>&lt;Madame Curie: A Biography&gt;</strong> 및 하버드 헬스 퍼블리싱(Harvard Health) 운동 연구를 바탕으로 작성되었습니다.
+      본 콘텐츠는 <strong>이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(Harvard Health) 운동 연구</strong>.
     </p>
   </div>
 </div>
@@ -39,9 +52,7 @@ authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(
 
 ---
 
-## 2. 현대인을 위한 마리 퀴리 자전거 루틴 3단계
-
-연구실이나 사무실의 피로로 방전된 현대인을 위해 건강한 에너지 회복을 약속하는 3단계 자전거 라이딩 루틴을 제안합니다.
+## 2. 3-Step Practical Routine for Modern Professionals
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -49,7 +60,7 @@ authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">주 1~2회 야외 라이딩 코스 설정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    주말이나 퇴근 후, 실내 헬스장 바이크 대신 탁 트인 야외 공원, 강변, 혹은 나무가 우거진 자전거 전용 도로를 라이딩 코스로 설정합니다. 자연과 접촉할 수 있는 환경이 효과적입니다.
+    
   </p>
 </div>
 
@@ -59,8 +70,11 @@ authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">이어폰을 빼고 감각에 집중하며 30분 라이딩</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    스마트폰 음악이나 팟캐스트를 완전히 끄고 귀를 엽니다. 자전거 체인이 맞물리는 소리, 바퀴가 지면을 구르는 진동, 얼굴에 부딪히는 바람의 온도와 풍경의 움직임에 온전히 몰입하며 30분간 페달을 밟습니다.
+    
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/curie_cycling_relax_detail.png" alt="이어폰을 빼고 감각에 집중하며 30분 라이딩" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -69,20 +83,36 @@ authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">가벼운 허벅지 근육 스트레칭</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    라이딩을 마친 후 자전거에서 내려와 2분간 허벅지와 앞다리 소근육을 뻗어주며 피로 물질인 젖산 배출을 돕습니다. 긴장이 해소된 맑은 정신으로 샤워를 하고 편안히 휴식합니다.
+    
   </p>
 </div>
 
 ---
 
 ## 3. 성공적인 루틴을 위한 뇌과학적 한마디
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">야외 운동은 뇌의 누적된 부하를 지워줍니다</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       실내의 정적인 활동은 뇌의 특정 회로만을 끊임없이 자극하여 피로를 더합니다. 자전거 페달링과 같은 일정한 대근육 유산소 활동에 공간적인 시각 자극이 더해지면, 인지 능력을 회복시켜 주는 효과가 극대화됩니다. 퀴리 부인처럼 매일 밤 혹은 주기적인 야외 라이딩을 실천하는 것은 지친 두뇌를 위한 가장 럭셔리하고 완전한 해독제입니다.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>퀴리 부부는 왜 결혼식 선물로 자전거를 요청했나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      화려한 결혼식 대신 자유롭고 건강하게 프랑스 시골길을 여행하며 사색하고, 일상의 번잡함을 피해 연구에 몰두할 수 있는 실용적인 도구를 원했기 때문입니다.
+    </p>
+  </details>
 </div>

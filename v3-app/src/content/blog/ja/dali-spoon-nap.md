@@ -15,6 +15,9 @@ steps:
     text: ""
   - name: "覚醒直後に無意識を書き留める"
     text: ""
+faqs:
+  - question: "なぜダリは昼寝中にスプーンを手にしたのですか？"
+    answer: "眠りに入った瞬間に筋肉が弛緩し、スプーンが床の皿に当たる音で目覚めることで、無意識（半睡眠）状態の奇想天外なインスピレーションを即座に捉えるためでした。"
 ---
 
 シュルレアリスムの画家であり、20世紀最高の天才芸術家サルバドール・ダリ。ぐにゃりと曲がった時計や宙に浮かぶ部屋など、奇想天外なひらめきはどこから生まれたのでしょうか？ダリは創作活動の合間に頭が疲れると、木製の椅子に腰掛け、片手に金属製のスプーンを軽く握りました。そして床のすぐ下に金属製のお皿を置いたのです。本日BuildSelfでは、ダリが実践した「スプーン昼寝」の科学的根拠を調べます。
@@ -87,4 +90,22 @@ steps:
       ダリのスプーン昼寝は、無意識を芸術的なインスピレーションに繋ぐ洗練された仕組みでした。問題に行き詰まったら、論理で解決しようとせず、5分間だけコントロールを手放して脳に再整理する余白を与えてください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>なぜダリは昼寝中にスプーンを手にしたのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      眠りに入った瞬間に筋肉が弛緩し、スプーンが床の皿に当たる音で目覚めることで、無意識（半睡眠）状態の奇想天外なインスピレーションを即座に捉えるためでした。
+    </p>
+  </details>
 </div>

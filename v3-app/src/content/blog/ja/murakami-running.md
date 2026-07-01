@@ -15,6 +15,9 @@ steps:
     text: "最初から10kmを走る必要はありません。毎朝または一定の時間（例：退勤後8時）に20〜30分間軽く走ることから始め、徐々に距離を伸ばしていきます。重要なのは速度ではなく、体に一定のリズムを染み込ませることです。"
   - name: "ランニングを自分との対話の時間にする"
     text: "走っている間はスマートフォンで複雑なメッセージやメールを確認せず、自分の呼吸のリズムと地面に足が触れる感覚だけに集中します。この無心で走る時間が、一日の中で複雑になった頭の中を整理する最高の精神的デトックスになります。"
+faqs:
+  - question: "ハルキはなぜ毎日10km走るのですか？"
+    answer: "執筆に必要な高度な集中力と持久力を維持するため、有酸素運動で脳細胞を刺激し、頑丈な体力の土台を築くためです。"
 ---
 
 発表する作品ごとに世界的な旋風を巻き起こす現代日本文学の巨匠、村上春樹。彼は小説家であると同時に、40年以上毎年フルマラソンを完走してきた熱心なランナーでもあります。1982年に専業作家になって以来、一日中座って執筆することによる体力低下と体重増加を経験した彼は、小説家が長期的に創作活動を続けるためには、単なる才能だけでなく、高度な集中力を維持するための頑丈な「基礎体力」が不可欠であると悟りました。そこでタバコをやめ、毎朝10kmを走るか1,500mを泳ぐルーティンを開始し、今でも世界中どこに行ってもこれを守り続けています。本日、BuildSelfでは春樹のランニングルーティンの科学的根拠と日常の実践ガイドを調べます。
@@ -59,6 +62,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     最初から10kmを走る必要はありません。毎朝または一定の時間（例：退勤後8時）に20〜30分間軽く走ることから始め、徐々に距離を伸ばしていきます。重要なのは速度ではなく、体に一定のリズムを染み込ませることです。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/murakami_running_relax_detail.png" alt="距離よりも規則的な時間に集中する" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,4 +87,22 @@ steps:
       毎日繰り返す単純な身体活動は、意志力を消耗しない「自動化ルーティン」として定着します。一度脳にこのリズムが刻まれると、仕事や執筆時に生じる極度の精神的負荷にも耐えられる頑丈な基礎体力的な防御壁が形成されます。春樹のように規則的な運動を人生の最優先事項に引き上げ、そのリズムを維持してみてください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>ハルキはなぜ毎日10km走るのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      執筆に必要な高度な集中力と持久力を維持するため、有酸素運動で脳細胞を刺激し、頑丈な体力の土台を築くためです。
+    </p>
+  </details>
 </div>

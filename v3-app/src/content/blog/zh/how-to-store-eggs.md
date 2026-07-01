@@ -14,6 +14,11 @@ steps:
     text: "鸡蛋的大头（圆头）端有一个气室（存积空气的地方）。如果将大头朝下摆放，蛋黄容易贴住气室导致蛋膜破裂变质。让大头朝上，气室能够正常呼吸，也能让蛋黄保持在中心位置。"
   - name: "存放在冰箱最内侧 — 避免温度波动 ❄️"
     text: "冰箱门上的蛋架在冰箱门开关时会经历剧烈的温度起伏，频繁的震动也会使蛋清变稀。鸡蛋和牛奶等对温度敏感的食材应始终存放在冰箱内部深处的隔板上。"
+faqs:
+  - question: "为什么不能洗完鸡蛋再保存？"
+    answer: "鸡蛋表面有一层被称为角质层的天然保护膜。用水清洗会破坏这层膜，导致沙门氏菌等外部有害细菌通过蛋壳气孔渗入内部。脏污请只用干布擦拭。"
+  - question: "为什么要把鸡蛋尖头朝下摆放？"
+    answer: "鸡蛋的圆头一端有被称为气室的空气囊。如果圆头朝下，蛋黄容易与气室接触导致变质，因此需要将圆头朝上、尖头朝下摆放。"
 ---
 
 为了保存新鲜的鸡蛋，您是否会将其用水清洗干净并存放在冰箱门旁的置蛋架上？这种方法会破坏鸡蛋的新鲜度并引发交叉污染。今天，StoreSelf为您分享经FDA认证的科学储存法。
@@ -22,7 +27,7 @@ steps:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      官方科学验证权威
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本指南严格遵守以下机构公认的食品安全与储存指南： <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>.
@@ -48,6 +53,9 @@ steps:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     蛋壳表面有数千个肉眼看不见的微小气孔以进行呼吸。用水清洗会破坏蛋壳外的天然保护膜（角质层），使沙门氏菌等外部细菌通过气孔轻易渗入蛋内。表面脏污只需用干布或纸巾擦掉即可。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/eggs_storage_detail.png" alt="切勿清洗鸡蛋 — 冷藏储存 (45天) 💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -92,4 +100,32 @@ steps:
       鸡蛋的大头一端有气室。将气室朝上摆放能防止蛋黄与气室直接接触，从而让鸡蛋保持新鲜更久。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📍</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>为什么不能洗完鸡蛋再保存？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      鸡蛋表面有一层被称为角质层的天然保护膜。用水清洗会破坏这层膜，导致沙门氏菌等外部有害细菌通过蛋壳气孔渗入内部。脏污请只用干布擦拭。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>为什么要把鸡蛋尖头朝下摆放？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      鸡蛋的圆头一端有被称为气室的空气囊。如果圆头朝下，蛋黄容易与气室接触导致变质，因此需要将圆头朝上、尖头朝下摆放。
+    </p>
+  </details>
 </div>
