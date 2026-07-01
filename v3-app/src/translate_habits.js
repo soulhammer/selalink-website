@@ -129,7 +129,7 @@ const translationData = {
         },
         text: {
           en: "Do not check complex messages or emails on your smartphone while running; focus solely on your breathing rhythm and the sensation of your feet touching the ground. This mindful run becomes the best mental detox to organize a cluttered mind.",
-          ja: "走っている間はスマートフォンで複雑なメッセージやメールを確認せず、自分の呼吸のリズムと地面に足が触れる感覚だけに集中します。この無心で走る時間が、一日중 複雑になった頭の中を整理する最高の精神的デトックスになります。",
+          ja: "走っている間はスマートフォンで複雑なメッセージやメールを確認せず、自分の呼吸のリズムと地面に足が触れる感覚だけに集中します。この無心で走る時間が、一日の中で複雑になった頭の中を整理する最高の精神的デトックスになります。",
           zh: "跑步时不要在手机上查看复杂的消息或邮件；只专注于你的呼吸节奏和脚踩地面的感觉。这种专注于当下的跑步会成为整理杂乱思绪的绝佳精神排毒方式。",
           es: "No revises mensajes complejos ni correos en tu teléfono mientras corres; concéntrate únicamente en el ritmo de tu respiración y la sensación de tus pies tocando el suelo. Esta carrera consciente se convierte en la mejor desintoxicación mental para organizar una mente desordenada.",
           fr: "Ne regardez pas vos messages ou vos e-mails complexes en courant ; concentrez-vous uniquement sur le rythme de votre respiration et la sensation de vos pieds sur le sol. Cette course en pleine conscience est la meilleure détox pour vider l'esprit.",
@@ -193,7 +193,7 @@ const translationData = {
     },
     intro: {
       en: "Charles Darwin, the man who brought the greatest revolution to scientific thinking in human history by writing 'The Origin of Species' explaining the evolution of organisms based on natural selection. Where did the great evolutionary inspirations that changed the paradigm of humanity come from? Darwin spent his life researching at Down House, a quiet village near London. Every morning and afternoon, he walked the 'Sandwalk,' a gravel and dirt path he built around his house. He called this path the 'Thinking Path,' and at the start of his walk, he stacked 5 or 6 small stones at the corner, kicking one away each time he completed a lap to keep track of how many laps he had walked. Today, BuildSelf explores the scientific principles of Darwin's 'Sandwalk' routine and how modern people can apply it to boost creativity.",
-      ja: "自然選択説に基づいて生物の進化を説明した『種の起源』を著し, 人類史において科学적 思考に最大の革命をもたらしたチャールズ・ダーウィン。人類のパラダイムを変えた偉大な進化論的インスピレーションは, 一体どこから誕生したのでしょうか？ダーウィンはロンドン近郊の静かな田舎町ダウン・ハウス（Down House）で生涯研究に専念しました。彼は毎日午前と午後, 自宅の周りに自ら整備した砂利と土の道である「サンドウォーク（Sandwalk）」を歩きました。本日、BuildSelfではダーウィンが毎日守り続けた「サンドウォーク」思索ルーティンの科学的な作動原理と, 現代人がこれを応用して創造性を高める方法を紹介します。",
+      ja: "自然選択説に基づいて生物の進化を説明した『種の起源』を著し, 人類史において科学的思考に最大の革命をもたらしたチャールズ・ダーウィン。人類のパラダイムを変えた偉大な進化論的インスピレーションは, 一体どこから誕生したのでしょうか？ダーウィンはロンドン近郊の静かな田舎町ダウン・ハウス（Down House）で生涯研究に専念しました。彼は毎日午前と午後, 自宅の周りに自ら整備した砂利と土の道である「サンドウォーク（Sandwalk）」を歩きました。本日、BuildSelfではダーウィンが毎日守り続けた「サンドウォーク」思索ルーティンの科学的な作動原理と, 現代人がこれを応用して創造性を高める方法を紹介します。",
       zh: "查尔斯·达尔文撰写了《物种起源》，以自然选择学说解释生物进化，为人类历史上的科学思维带来了最大变革。改变人类范式的伟大进化论灵感究竟源自何处？达尔文在伦敦近郊安静的唐恩村（Down House）度过了他专注于研究的一生。他每天上午和下午都会绕着自己亲手在房子周围铺设的沙石小路——“沙路（Sandwalk）”散步。他将这条路称为“思索之路”，在开始散步时，他会在拐角处堆放5到6块小石头，每走完一圈就用脚踢开一块，以此记录自己走了多少圈。今天，BuildSelf将带您探索达尔文每天坚持的“沙路”思索惯例的科学原理，以及现代人如何应用它来激发创造力。",
       es: "Charles Darwin, el hombre que trajo la mayor revolución al pensamiento científico en la historia de la humanidad al escribir 'El origen de las especies', explicando la evolución de los organismos basada en la selección natural. ¿De dónde surgieron las grandes inspiraciones evolutivas que cambiaron el paradigma de la humanidad? Darwin pasó su vida investigando en Down House, un pueblo tranquilo cerca de Londres. Cada mañana y tarde, caminaba por el 'Sandwalk', un sendero de grava y tierra que construyó al rededor de su casa. Llamó a este camino el 'Sendero del Pensamiento', y al comienzo de su caminata, apilaba 5 o 6 piedras pequeñas en la esquina, pateando una cada vez que completaba una vuelta para llevar un registro de cuántas vueltas había caminado. Hoy, BuildSelf explora los principios científicos de la rutina de Darwin y cómo los profesionales modernos pueden aplicarla para aumentar la creatividad.",
       fr: "Charles Darwin, l'homme qui a apporté la plus grande révelation à la pensée scientifique de l'histoire humaine en écrivant « L'Origine des espèces », expliquant l'évolution des organismes basée sur la sélection naturelle. D'où venaient les grandes inspirations de Darwin ? Il a passé sa vie à Down House, un village tranquille près de Londres. Chaque matin et après-midi, il parcourait le « Sandwalk », un sentier de gravier et de terre qu'il avait aménagé autour de sa maison. Il appelait ce sentier le « Sentier de la Réflexion » et, au début de sa marche, il empilait 5 ou 6 petites pierres dans un coin, en jetant une à chaque tour pour savoir combien de tours il avait faits. Aujourd'hui, BuildSelf explore les principes scientifiques de la routine « Sandwalk » de Darwin et comment l'appliquer pour stimuler la créativité.",
@@ -663,7 +663,7 @@ const translationData = {
     },
     whyDesc: {
       en: "Focusing on precise physical actions like counting small coffee beans is an excellent 'Mindfulness' training in neuroscience. When we wake up in the morning, the brain often overactivates the Default Mode Network (DMN) by thinking about unfinished worries or complex work plans. This state wastes brain energy and causes anxiety. Focusing on simple physical sensations and actions like Beethoven's bean counting suppresses DMN overactivation and awakens the sensory areas of the brain. Also, going through the same behavioral ritual every morning acts as a cognitive trigger that frames the brain to enter a state of high concentration.",
-      ja: "指先で小さく丸いコーヒー豆の感触を感じながら、数字を一つ一つ数える精巧な行動は、脳科学的に優れた「マインドフルネス（心付け）」トレーニングです。私たちが朝目覚めると、脳は昨日の心配事や今日の複雑な業務計画を連想し、デフォルトモードネットワーク（DMN）を過度に活性化させます。この状態は脳의 エレジーを無駄にし、不安を誘発します。ベートーヴェンのように単純な身体的感覚と動作に完全に意識を集中させると、DMNの過活動が抑制され、現時点での脳の感覚領域が目覚めます。また、毎朝同じ行動儀式を経ることは、認知的フレーミングとして機能します。", // '脳の'
+      ja: "指先で小さく丸いコーヒー豆の感触を感じながら、数字を一つ一つ数える精巧な行動は、脳科学的に優れた「マインドフルネス（心付け）」トレーニングです。私たちが朝目覚めると、脳は昨日の心配事や今日の複雑な業務計画を連想し、デフォルトモードネットワーク（DMN）を過度に活性化させます。この状態は脳のエネルギーを無駄にし、不安を誘発します。ベートーヴェンのように単純な身体的感覚と動作に完全に意識を集中させると、DMNの過活動が抑制され、現時点での脳の感覚領域が目覚めます。また、毎朝同じ行動儀式を経ることは、認知的フレーミングとして機能します。", // '脳の'
       zh: "指尖感受着咖啡豆细小圆润的触觉，将数字一颗一颗数出来的精细动作，在脑科学上是极佳的“正念（Mindfulness）”训练。早晨醒来时，大脑往往会通过联想昨天没完没了的烦恼或今天的复杂工作计划，过度激活默认模式网络（DMN）。这种状态会浪费大脑能量并诱发焦虑。像贝多芬那样将意识完全集中在简单的身体感觉和动作上，能抑制DMN的过度激活，唤醒当下的大脑感官区域。此外，每天早晨经历相同的行为仪式，可以作为认知的触发器，为大脑框定进入高度专注状态的路径。",
       es: "Concentrarse en acciones físicas precisas como contar granos de café es un excelente entrenamiento de 'Atención Plena' en neurociencia. Cuando nos despertamos por la mañana, el cerebro a menudo sobreactiva la Red Neuronal por Defecto (DMN) pensando en preocupaciones pendientes o planes de trabajo complejos. Este estado desperdicia energía y causa ansiedad. Centrarse en sensaciones físicas simples como el recuento de granos de Beethoven suprime la sobreactivación de la DMN y despierta las áreas sensoriales del cerebro. Además, pasar por el mismo ritual actúa como un disparador cognitivo que encuadra al cerebro para entrar en un estado de alta concentración.",
       fr: "Se concentrer sur des actions physiques précises comme compter des grains de café est un excellent entraînement de « Pleine conscience ». Au réveil, le cerveau suractive souvent le réseau du mode par défaut (DMN) en pensant aux soucis ou aux projets complexes. Cet état gaspille de l'énergie et génère de l'anxiété. Se concentrer sur des sensations physiques simples comme le comptage de grains de Beethoven supprime cette suractivation et éveille les zones sensorielles. De plus, accomplir le même rituel chaque matin agit comme un déclencheur cognitif qui prépare le cerveau à entrer en concentration.",
@@ -773,7 +773,7 @@ const translationData = {
     },
     description: {
       en: "The British Prime Minister who led the victory in WWII, Winston Churchill. Learn about the power of the nap he took fully in bed every afternoon, and the Power Nap practice to clean the brain's fatigue.",
-      ja: "第二次世界大戦の勝利を導いたイギリスの首相ウィンストン・チャーチル。毎日の午後に完全にベッドに横になって取った昼寝の力と、脳の疲労物質を掃除하는 파워냅(Power Nap)の実践法を紹介します。", // '掃除する'
+      ja: "第二次世界大戦の勝利を導いたイギリスの首相ウィンストン・チャーチル。毎日の午後に完全にベッドに横になって取った昼寝の力と、脳の疲労物質を掃除するパワーナップ(Power Nap)の実践法を紹介します。", // '掃除する'
       zh: "引领二战胜利的英国首相温斯顿·丘吉尔。了解他每天下午完全躺在床上度过的午睡力量，以及清除大脑疲劳物质的“强效午睡（Power Nap）”实践方法。",
       es: "El primer ministro británico que lideró la victoria en la Segunda Guerra Mundial, Winston Churchill. Conozca el poder de la siesta que tomaba en la cama cada tarde y la práctica de la siesta reparadora.",
       fr: "Le Premier ministre britannique qui a mené à la victoire lors de la Seconde Guerre mondiale, Winston Churchill. Découvrez le pouvoir de la sieste qu'il faisait chaque après-midi et la sieste reparatrice.",
@@ -909,8 +909,459 @@ const translationData = {
       pt: "Sentar-se sem concentração na secretária à tarde reduz muito a produtividade. Em vez de se forçar a sesta, recarregue o seu foco com uma sesta de 20 minutos como Churchill. O seu cérebro será otimizado, permitindo-lhe mergulhar no resto do dia.",
       id: "Duduk termenung di meja Anda di sore hari dengan konsentrasi rendah sangat mengurangi produktivitas. Daripada memaksakan diri melalui ketidakefisienan itu, isi ulang fokus Anda dengan tidur siang 20 menit seperti Churchill. Otak Anda akan dioptimalkan, memungkinkan Anda membenamkan diri dalam sisa hari itu."
     }
+  },
+  'hemingway-word-count': {
+    title: {
+      en: "Writing While Tracking Your Daily Word Count: Ernest Hemingway's Self-Monitoring Habit",
+      ja: "毎日の執筆単語数を記録する？アーネスト・ヘミングウェイの自己監視の習慣",
+      zh: "每天记录写作字数？欧内斯特·海明威的自我监控习惯",
+      es: "¿Escribir registrando tu recuento de palabras diario? El hábito de autocontrol de Ernest Hemingway",
+      fr: "Écrire en suivant son nombre de mots quotidien : L'habitude d'autosurveillance d'Ernest Hemingway",
+      de: "Tägliche Wortzahl erfassen: Ernest Hemingways Gewohnheit der Selbstbeobachtung",
+      pt: "Escrever rastreando sua contagem de palavras diária: O hábito de automonitoramento de Ernest Hemingway",
+      id: "Menulis Sembari Melacak Jumlah Kata Harian: Kebiasaan Pemantauan Diri Ernest Hemingway"
+    },
+    description: {
+      en: "Nobel laureate Ernest Hemingway tracked his daily word counts on a wall chart. Learn how this psychological self-monitoring routine boosts long-term productivity.",
+      ja: "ノーベル賞受賞者アーネスト・ヘミングウェイは毎日の単語数を壁の表に記録していました。この自己監視ルーティンが生産性を高める科学的理由を調べます。",
+      zh: "诺贝尔奖得主欧内斯特·海明威在墙上的图表上记录他每天的写作字数。了解这种心理学自我监控惯例如何提升长期生产力。",
+      es: "El premio Nobel Ernest Hemingway registraba sus palabras diarias en un gráfico en la pared. Conozca cómo esta rutina de autocontrol psicológico aumenta la productividad.",
+      fr: "Le prix Nobel Ernest Hemingway suivait son nombre de mots quotidien sur un tableau. Découvrez comment cette routine d'autosurveillance renforce la productivité à long terme.",
+      de: "Nobelpreisträger Ernest Hemingway hielt seine tägliche Wortzahl auf einer Wandtabelle fest. Erfahren Sie, wie diese psychologische Selbstbeobachtung die Produktivität steigert.",
+      pt: "O prémio Nobel Ernest Hemingway registava a sua contagem de palavras diária num gráfico na parede. Saiba como esta rotina de automonitoramento aumenta a produtividade.",
+      id: "Pemenang Nobel Ernest Hemingway melacak jumlah kata hariannya pada bagan dinding. Pelajari bagaimana rutinitas pemantauan diri psikologis ini meningkatkan produktivitas jangka panjang."
+    },
+    authority: {
+      en: "Ernest Hemingway's interview in The Paris Review (1958) & Journal of Applied Behavior Analysis",
+      ja: "アーネスト・ヘミングウェイ『パリ・レビュー』インタビュー(1958) ＆ 応用行動分析学ジャーナル(Journal of Applied Behavior Analysis)",
+      zh: "欧内斯特·海明威在《巴黎评论》的访谈(1958) 及应用行为分析期刊(Journal of Applied Behavior Analysis)",
+      es: "Entrevista de Ernest Hemingway en The Paris Review (1958) y estudio de Journal of Applied Behavior Analysis",
+      fr: "L'interview d'Ernest Hemingway dans The Paris Review (1958) & étude du Journal of Applied Behavior Analysis",
+      de: "Ernest Hemingways Interview in The Paris Review (1958) & Studie im Journal of Applied Behavior Analysis",
+      pt: "Entrevista de Ernest Hemingway na The Paris Review (1958) e estudo da Journal of Applied Behavior Analysis",
+      id: "Wawancara Ernest Hemingway di The Paris Review (1958) & Jurnal Analisis Perilaku Terapan"
+    },
+    intro: {
+      en: "Ernest Hemingway, a master of modern American literature who won both the Nobel Prize and the Pulitzer Prize. Known for his minimalist, hard-boiled writing style, his daily discipline was equally legendary. He started writing early in the morning and, at the end of each session, counted and recorded his daily word count on a large chart on the wall. Today, BuildSelf explores the scientific reasons behind Hemingway's progress tracking and how you can apply self-monitoring to maintain daily momentum.",
+      ja: "ノーベル賞とピューリッツァー賞を同時に受賞した、現代アメリカ文学の巨匠アーネスト・ヘミングウェイ。極限まで無駄を削ぎ落とした「ハードボイルド」な作風で知られる彼の、毎日の規律もまた伝説的でした。彼は早朝から執筆を始め、作業が終わるたびにその日書いた単語数を数え、壁に掛けた大きな表に記録しました。本日、BuildSelfではヘミングウェイの記録習慣の科学的根拠と、日常で自己監視を応用する方法を調べます。",
+      zh: "欧内斯特·海明威是现代美国文学大师，曾荣获诺贝尔文学奖和普利策奖。他以极简、硬汉风格的文风闻名，而他每日的自律同样堪称传奇。他每天清晨便开始写作，在每次结束时，都会数出当天写作的字数，并记录在墙上的一张大图表上。今天，BuildSelf将带您探索海明威追踪进度背后的科学原理，以及您如何应用自我监控来保持每日的动力。",
+      es: "Ernest Hemingway, un maestro de la literatura estadounidense moderna que ganó el Premio Nobel y el Premio Pulitzer. Conocido por su estilo de escritura minimalista y duro, su disciplina diaria era igualmente legendaria. Comenzaba a escribir temprano por la mañana y, al final de cada sesión, contaba y registraba su recuento diario de palabras en un gráfico en la pared. Hoy, BuildSelf analiza las razones científicas detrás de este seguimiento y cómo puedes aplicar el autocontrol para mantener el impulso diario.",
+      fr: "Ernest Hemingway, un maître de la littérature américaine moderne qui a remporté le prix Nobel et le prix Pulitzer. Connu pour son style d'écriture minimaliste et hard-boiled, sa discipline quotidienne était tout aussi légendaire. Il commençait à écrire tôt le matin et, à la fin de chaque séance, comptait et enregistrait son nombre de mots sur un grand tableau au mur. Aujourd'hui, BuildSelf explore les raisons scientifiques de ce suivi et comment appliquer l'autosurveillance.",
+      de: "Ernest Hemingway, ein Meister der modernen amerikanischen Literatur, der sowohl den Nobelpreis als auch den Pulitzer-Preis erhielt. Bekannt für seinen minimalistischen Schreibstil, war seine tägliche Disziplin ebenso legendär. Er begann frühmorgens mit dem Schreiben und hielt am Ende jeder Sitzung seine tägliche Wortzahl auf einer Wandtabelle fest. Heute untersucht BuildSelf die wissenschaftlichen Gründe für Hemingways Fortschrittsverfolgung und wie Sie Selbstbeobachtung im Alltag nutzen können.",
+      pt: "Ernest Hemingway, um mestre da literatura americana moderna que ganhou o Prémio Nobel e o Prémio Pulitzer. Conhecido pelo seu estilo de escrita minimalista, a sua disciplina diária era igualmente lendária. Começava a escrever de manhã cedo e, no final de cada sessão, contava e registava a sua contagem de palavras diária num gráfico na parede. Hoje, o BuildSelf explora as razões científicas por trás do rastreamento de progresso e como aplicar o automonitoramento.",
+      id: "Ernest Hemingway, seorang maestro sastra Amerika modern yang memenangkan Hadiah Nobel dan Hadiah Pulitzer. Dikenal dengan gaya menulisnya yang minimalis dan lugas, disiplin hariannya juga legendaris. Dia mulai menulis pagi-pagi sekali and, di akhir setiap sesi, menghitung dan mencatat jumlah kata hariannya di bagan besar di dinding. Hari ini, BuildSelf mengeksplorasi alasan ilmiah di balik pelacakan kemajuan Hemingway."
+    },
+    whyTitle: {
+      en: "The Psychology of Self-Monitoring and Dopamine Release",
+      ja: "自己監視の心理学とドパミンの放出",
+      zh: "自我监控的心理学与多巴胺释放",
+      es: "La psicología del autocontrol y la liberación de dopamina",
+      fr: "La psychologie de l'autosurveillance et la libération de dopamine",
+      de: "Die Psychologie der Selbstbeobachtung und Dopaminfreisetzung",
+      pt: "A psicologia do automonitoramento e a libertação de dopamina",
+      id: "Psikologi Pemantauan Diri dan Pelepasan Dopamin"
+    },
+    whyDesc: {
+      en: "Tracking your progress quantitatively triggers a cognitive process known in psychology as 'Self-Monitoring.' By visualizing daily output, the brain receives immediate feedback, triggering small releases of dopamine. This visual evidence of progress acts as a powerful intrinsic motivator, transforming vague efforts into structured accomplishments and boosting long-term behavioral consistency.",
+      ja: "進捗を定量的に追跡することは、心理学で「自己監視(Self-Monitoring)」と呼ばれる認知プロセスを刺激します。毎日の成果を視覚化することで、脳は即座にフィードバックを受け取り、微量のドパミンを放出します。この視覚的な進捗の証拠は、強力な内的動機付けとして働き、曖昧な努力を構造化された成果へと変換し、長期的な行動の継続性を高めます。",
+      zh: "定量追踪你的进度会触发心理学上称为“自我监控（Self-Monitoring）”的认知过程。通过将每日的产出可视化，大脑会收到即时反馈，从而触发微量多巴胺的释放。这种可见的进度证据可作为强大的内在驱动力，将模糊的努力转化为结构化的成就，并提升长期的行为一致性。",
+      es: "El seguimiento cuantitativo del progreso activa un proceso cognitivo conocido en psicología como 'Autocontrol'. Al visualizar la producción diaria, el cerebro recibe retroalimentación inmediata, lo que desencadena pequeñas liberaciones de dopamina. Esta evidencia visual del progreso actúa como un poderoso motivador intrínseco, transformando esfuerzos vagos en logros estructurados.",
+      fr: "Le suivi quantitatif du progrès déclenche un processus cognitif appelé « Autosurveillance ». En visualisant le travail accompli, le cerveau reçoit un feedback immédiat, ce qui libère de petites doses de dopamine. Cette preuve visuelle du progrès agit comme un puissant moteur intrinsèque, transformant des efforts vagues en réalisations structurées.",
+      de: "Die quantitative Verfolgung Ihres Fortschritts löst einen kognitiven Prozess aus, der in der Psychologie als „Selbstbeobachtung“ bezeichnet wird. Durch die Visualisierung der täglichen Leistung erhält das Gehirn sofortiges Feedback, was kleine Mengen Dopamin freisetzt. Dieser sichtbare Beweis des Fortschritts wirkt als starker innerer Motivator.",
+      pt: "Rastrear o seu progresso quantitativamente desencadeia um processo cognitivo conhecido na psicologia como 'Automonitoramento'. Ao visualizar a produção diária, o cérebro recebe feedback imediato, libertando pequenas doses de dopamina. Esta evidência visual de progresso funciona como um forte motivador intrínseco.",
+      id: "Melacak kemajuan Anda secara kuantitatif memicu proses kognitif yang dikenal dalam psikologi sebagai 'Pemantauan Diri'. Dengan memvisualisasikan hasil harian, otak menerima umpan balik langsung, memicu pelepasan kecil dopamin. Bukti kemajuan visual ini bertindak sebagai motivator intrinsik yang kuat."
+    },
+    steps: [
+      {
+        name: {
+          en: "Measure your daily core output quantitatively",
+          ja: "毎日の中心的な成果を定量的に測定する",
+          zh: "定量测量每日的核心产出",
+          es: "Mide tu producción principal diaria de forma cuantitativa",
+          fr: "Mesurer quantitativement votre production principale",
+          de: "Messen Sie Ihre tägliche Kernleistung quantitativ",
+          pt: "Meça a sua produção principal diária quantitativamente",
+          id: "Ukur hasil inti harian Anda secara kuantitatif"
+        },
+        text: {
+          en: "Instead of tracking vague goals like 'working hard,' measure a specific, countable metric such as pages read, words written, minutes of focused work, or reps completed.",
+          ja: "「一生懸命やる」といった曖昧な目標を追跡する代わりに、読んだページ数、書いた文字数、集中した時間、完了した回数など、具体的で数えられる指標を測定します。",
+          zh: "不要追踪如“努力工作”这样模糊的目标，而是测量具体、可计数的指标，例如阅读的页数、写作的字数、专注的时间或完成의 运动组数。",
+          es: "En lugar de hacer un seguimiento de objetivos vagos como 'trabajar duro', mide una métrica específica y contable, como páginas leídas, palabras escritas, minutos de trabajo concentrado o repeticiones completadas.",
+          fr: "Au lieu de suivre des objectifs vagues comme « travailler dur », mesurez un indicateur précis et quantifiable, tel que le nombre de pages lues, de mots écrits, de minutes de travail concentré ou de répétitions effectuées.",
+          de: "Anstatt vage Ziele wie „hart arbeiten“ zu verfolgen, messen Sie eine spezifische, zählbare Metrik wie gelesene Seiten, geschriebene Wörter, Minuten fokussierter Arbeit oder absolvierte Wiederholungen.",
+          pt: "Em vez de rastrear objetivos vagos como 'trabalhar arduamente', meça uma métrica específica e quantificável, como páginas lidas, palavras escritas, minutos de trabalho focado ou repetições concluídas.",
+          id: "Daripada melacak tujuan yang tidak jelas seperti 'bekerja keras', ukurlah metrik spesifik yang dapat dihitung seperti halaman yang dibaca, kata yang ditulis, menit kerja terfokus, atau repetisi yang diselesaikan."
+        }
+      },
+      {
+        name: {
+          en: "Record the numbers honestly on a visual chart",
+          ja: "数値を視覚的な表に正直に記録する",
+          zh: "如实将数字记录在可视化图表上",
+          es: "Registra los números con honestidad en un gráfico visual",
+          fr: "Enregistrer honnêtement les chiffres sur un tableau",
+          de: "Tragen Sie die Zahlen ehrlich in eine Tabelle ein",
+          pt: "Registe os números honestamente num gráfico visual",
+          id: "Catat angka-angka tersebut secara jujur pada bagan visual"
+        },
+        text: {
+          en: "Keep a paper planner, a wall chart, or a simple spreadsheet to write down the exact numbers every single day. Make sure to record even on the days you did not perform well; honesty is crucial.",
+          ja: "手帳や壁の表、シンプルなスプレッドシートを用意し、毎日正確な数値を書き留めます。うまくいかなかった日も含めて正直に記録することが不可欠です。",
+          zh: "准备一个纸质计划本、墙面图表或简单的电子表格，每天写下确切的数字。即使在表现不佳的日子里，也务必如实记录；诚实至关重要。",
+          es: "Lleva una agenda de papel, un gráfico en la pared o una hoja de cálculo simple para anotar los números exactos todos los días. Asegúrate de registrar incluso los días en que no te fue bien; la honestidad es fundamental.",
+          fr: "Utilisez un agenda papier, un tableau mural ou un simple tableur pour noter les chiffres exacts chaque jour. Veillez à enregistrer même les jours où vous n'avez pas été performant ; l'honnêteté est essentielle.",
+          de: "Nutzen Sie einen Papierplaner, eine Wandtabelle oder eine einfache Tabellenkalkulation, um täglich die genauen Zahlen aufzuschreiben. Tragen Sie diese auch an schlechten Tagen ehrlich ein.",
+          pt: "Use uma agenda de papel, um gráfico na parede ou uma folha de cálculo simples para anotar os números exatos todos os dias. Certifique-se de registar mesmo nos dias em que não esteve bem; a honestidade é fundamental.",
+          id: "Simpan perencana kertas, bagan dinding, atau spreadsheet sederhana untuk menuliskan angka pasti setiap hari. Pastikan untuk mencatat bahkan pada hari-hari Anda tidak berkinerja baik; kejujuran sangat penting."
+        }
+      },
+      {
+        name: {
+          en: "Focus on the act of recording itself",
+          ja: "記録する行為そのものに集中する",
+          zh: "专注于记录行为本身",
+          es: "Concéntrate en el acto de registrar en sí mismo",
+          fr: "Se concentrer sur l'acte d'enregistrement lui-même",
+          de: "Konzentrieren Sie sich auf den Akt des Aufschreibens selbst",
+          pt: "Concentre-se no ato de registar em si mesmo",
+          id: "Fokus pada tindakan pencatatan itu sendiri"
+        },
+        text: {
+          en: "Do not judge your productivity based on a single day's low numbers. The act of recording itself builds self-awareness and maintains the momentum needed to start again the next day.",
+          ja: "一日だけの低い数値で自分の生産性を判断しないでください。記録する行為そのものが自己認識を高め、翌日再び始めるために必要な弾みを維持します。",
+          zh: "不要仅凭一天的低数字来判断自己的生产力。记录行为本身就能建立自我意识，并保持第二天重新开始所需的动力。",
+          es: "No juzgues tu productividad en función de los números bajos de un solo día. El acto de registrar en sí mismo genera autoconciencia y mantiene el impulso necesario para comenzar de nuevo al día siguiente.",
+          fr: "Ne jugez pas votre productivité sur les bas chiffres d'un seul jour. L'acte d'enregistrer en lui-même développe la conscience de soi et maintient l'élan nécessaire pour recommencer le lendemain.",
+          de: "Beurteilen Sie Ihre Produktivität nicht anhand der niedrigen Zahlen eines einzelnen Tages. Der Akt des Aufschreibens selbst stärkt das Selbstbewusstsein und erhält den Schwung für den nächsten Tag.",
+          pt: "Não julgue a sua produtividade com base nos números baixos de um único dia. O ato de registar em si desenvolve a autoconsciência e mantém o impulso necessário para recomeçar no dia seguinte.",
+          id: "Jangan menilai produktivitas Anda berdasarkan angka rendah di satu hari. Tindakan mencatat itu sendiri membangun kesadaran diri dan menjaga momentum yang dibutuhkan untuk memulai lagi keesokan harinya."
+        }
+      }
+    ],
+    cautionTitle: {
+      en: "A behavioral-scientific word for a successful routine",
+      ja: "効果的なルーティンのための行動科学的な一言",
+      zh: "成功惯例的行为科学建议",
+      es: "Un consejo de la ciencia del comportamento para una rutina exitosa",
+      fr: "Un conseil des sciences du comportement pour une routine réussie",
+      de: "Ein verhaltenswissenschaftlicher Ratschlag für eine erfolgreiche Routine",
+      pt: "Um conselho da ciência do comportamento para uma rotina de sucesso",
+      id: "Saran ilmiah perilaku untuk rutinitas yang sukses"
+    },
+    cautionDesc: {
+      en: "Vague efforts lead to vague results. When you start tracking your actions with exact numbers, your brain gains objective self-awareness. Even on days when your numbers are low, the simple act of writing them down preserves your connection to the habit and prevents you from giving up. Track your progress daily and let the numbers guide your consistency.",
+      ja: "曖昧な努力は曖昧な結果を招きます。正確な数値で行動を追跡し始めると、脳は客観的な自己認識を得ます。数値が低い日であっても、単に記録する行為そのものが習慣とのつながりを維持し、挫折を防ぎます。毎日進捗を追跡し、数値に継続性を導かせてください。",
+      zh: "模糊的努力会导致模糊的结果。当你开始用确切的数字追踪自己的行为时，你的大脑就会获得客观的自我意识。即使在数字偏低的日子里，仅仅是写下它们这一简单的动作也能维持你与习惯的联结，防止你放弃。每天追踪你的进度，让数字指引你的坚持。",
+      es: "Los esfuerzos vagos conducen a resultados vagos. Cuando comienzas a registrar tus acciones con números exactos, tu cerebro adquiere un autoconocimiento objetivo. Incluso en los días en que tus números son bajos, el simple acto de escribirlos preserva tu conexión con el hábito y evita que te rindas. Registra tu progreso diariamente.",
+      fr: "Des efforts vagues mènent à des résultats vagues. Lorsque vous suivez vos actions avec des chiffres exacts, votre cerveau acquiert une conscience de soi objective. Même les jours où vos chiffres sont bas, le simple fait de les écrire maintient le lien avec l'habitude et vous évite d'abandonner.",
+      de: "Vage Bemühungen führen zu vagen Ergebnissen. Wenn Sie beginnen, Ihre Handlungen mit genauen Zahlen zu verfolgen, gewinnt Ihr Gehirn ein objektives Selbstbewusstsein. Selbst an Tagen mit niedrigen Zahlen bewahrt das bloße Aufschreiben die Verbindung zur Gewohnheit und verhindert das Aufgeben.",
+      pt: "Esforços vagos levam a resultados vagos. Quando começa a registar as suas ações com números exatos, o seu cérebro adquire uma autoconsciência objetiva. Mesmo nos dias em que os números são baixos, o simples ato de os escrever preserva a sua ligação ao hábito e evita que desista.",
+      id: "Usaha yang tidak jelas membuahkan hasil yang tidak jelas. Ketika Anda mulai melacak tindakan Anda dengan angka-angka pasti, otak Anda memperoleh kesadaran diri yang objektif. Bahkan pada hari-hari ketika angka Anda rendah, tindakan sederhana untuk menuliskannya mempertahankan hubungan Anda dengan kebiasaan tersebut."
+    }
+  },
+  'angelou-hotel-isolation': {
+    title: {
+      en: "Creating a Sacred Space for Deep Focus: Maya Angelou's Hotel Isolation Routine",
+      ja: "深い没頭のための神聖な空間作り：マヤ・アンジェロウのホテル隔離ルーティン",
+      zh: "创造深度专注的神圣空间：马雅·安杰卢的旅馆隔离惯例",
+      es: "Crear un espacio sagrado para el enfoque profundo: La rutina de aislamiento en hotel de Maya Angelou",
+      fr: "Créer un espacio sacré pour une concentration profonde : La routine d'isolement à l'hôtel de Maya Angelou",
+      de: "Einen heiligen Raum für tiefen Fokus schaffen: Maya Angelous Hotel-Isolations-Routine",
+      pt: "Criar um espaço sagrado para foco profundo: A rotina de isolamento em hotel de Maya Angelou",
+      id: "Menciptakan Ruang Suci untuk Fokus Mendalam: Rutinitas Isolasi Hotel Maya Angelou"
+    },
+    description: {
+      en: "Renowned author and activist Maya Angelou wrote only in empty hotel rooms to minimize distraction. Learn the cognitive science behind environmental cue control.",
+      ja: "著名な作家であり活動家のマヤ・アンジェロウは、気を散らすものを減らすために空のホテルの一室でのみ執筆しました。環境手がかり制御の認知科学を調べます。",
+      zh: "著名作家兼活动家马雅·安杰卢只在空无一物的旅馆房间里写作，以最大程度地减少分心。了解环境线索控制背后的认知科学原理。",
+      es: "La reconocida escritora y activista Maya Angelou escribía solo en habitaciones de hotel vacías para minimizar las distracciones. Conozca la ciencia cognitiva detrás del control de estímulos.",
+      fr: "L'écrivaine et activiste Maya Angelou n'écrivait que dans des chambres d'hôtel vides pour limiter les distractions. Découvrez la science cognitive du contrôle des indices environnementaux.",
+      de: "Die berühmte Autorin und Aktivistin Maya Angelou schrieb nur in leeren Hotelzimmern, um Ablenkungen zu minimieren. Erfahren Sie mehr über die kognitiven Aspekte der Umgebungskontrolle.",
+      pt: "A renomada autora e ativista Maya Angelou escrevia apenas em quartos de hotel vazios para minimizar as distrações. Conheça a ciência cognitiva por trás do controle de pistas ambientais.",
+      id: "Penulis dan aktivis terkenal Maya Angelou menulis hanya di kamar hotel kosong untuk meminimalkan gangguan. Pelajari ilmu kognitif di balik pengendalian isyarat lingkungan."
+    },
+    authority: {
+      en: "Maya Angelou's interview in The Paris Review (1990) & Cognitive Psychology Study on Distraction Control",
+      ja: "マヤ・アンジェロウ『パリ・レビュー』インタビュー(1990) ＆ 注意散漫制御に関する認知心理学研究",
+      zh: "马雅·安杰卢在《巴黎评论》的访谈(1990) 及关于注意力分心控制的认知心理学研究",
+      es: "Entrevista de Maya Angelou en The Paris Review (1990) y estudio de psicología cognitiva sobre control de distracciones",
+      fr: "L'interview de Maya Angelou dans The Paris Review (1990) & étude de psychologie cognitive sur le contrôle des distractions",
+      de: "Maya Angelous Interview in The Paris Review (1990) & kognitionspsychologische Studie zur Ablenkungskontrolle",
+      pt: "Entrevista de Maya Angelou na The Paris Review (1990) e estudo de psicologia cognitiva sobre o controle de distrações",
+      id: "Wawancara Maya Angelou di The Paris Review (1990) & Studi Psikologi Kognitif tentang Pengendalian Gangguan"
+    },
+    intro: {
+      en: "Maya Angelou, an legendary American poet, memoirist, and civil rights activist who wrote the groundbreaking autobiography 'I Know Why the Caged Bird Sings.' To focus deeply, she checked into a local hotel room every morning at 6:30 AM. She requested the hotel staff to remove all paintings, photos, and decorations from the walls, leaving only a Bible, a dictionary, a deck of cards, and a bottle of sherry. Today, BuildSelf shares how creating an empty, distraction-free environment can drastically improve your cognitive output.",
+      ja: "名著『歌え、翔べない鳥たちよ』で知られる伝説的なアメリカの詩人、自叙伝作家、そして人権活動家であるマヤ・アンジェロウ。彼女は深い没頭のために、毎朝6時30分に近くのホテルの部屋にチェックインしました。彼女はホテルのスタッフに、壁の絵画や写真、装飾品をすべて取り外すよう依頼し、聖書、辞書、トランプ一組、そしてシェリー酒のボトル一本だけを部屋に残しました。本日、BuildSelfでは、障害物のない空の環境を作ることが、いかに認知能力を劇的に向上させるかを紹介します。",
+      zh: "马雅·安杰卢是美国传奇诗人、自传作家和民权活动家，著有开创性的自传《我知道笼中鸟为何歌唱》。为了深度专注，她每天早晨6:30都会入住当地的一家旅馆房间。她要求旅馆工作人员移走墙上的所有画作、照片和装饰品，房间里只留下一本圣书、一本词典、一副扑克牌和一瓶雪利酒。今天，BuildSelf将为您分享创造一个空无一物、毫无干扰的环境如何能大幅提升您的认知产出。",
+      es: "Maya Angelou, la legendaria poeta, memorialista y activista por los derechos civiles estadounidense que escribió la innovadora autobiografía 'Sé por qué canta el pájaro enjaulado'. Para concentrarse profundamente, se registraba en una habitación de hotel local todas las mañanas a las 6:30 a. m. Solicitaba al personal del hotel que retirara todas las pinturas, fotos y decoraciones de las paredes, dejando solo una Biblia, un diccionario, una baraja de cartas y una botella de jerez. Hoy, BuildSelf comparte cómo crear un entorno vacío puede mejorar drásticamente tu rendimiento.",
+      fr: "Maya Angelou, poétesse, mémorialiste et militante des droits civiques américaine légendaire, autrice de l'autobiographie « Je sais pourquoi chante l'oiseau en cage ». Pour se concentrer profondément, elle s'installait dans une chambre d'hôtel chaque matin à 6h30. Elle demandait au personnel de retirer tous les tableaux et décorations, ne gardant qu'une Bible, un dictionnaire, un jeu de cartes et une bouteille de sherry. Aujourd'hui, BuildSelf montre comment un environnement épuré améliore le rendement.",
+      de: "Maya Angelou, eine legendäre amerikanische Dichterin, Autobiografin und Bürgerrechtlerin, die die bahnbrechende Autobiografie „Ich weiß, warum der gefangene Vogel singt“ schrieb. Um sich tief zu konzentrieren, mietete sie sich jeden Morgen um 6:30 Uhr in ein Hotelzimmer ein. Sie bat das Personal, alle Bilder und Dekorationen zu entfernen, sodass nur eine Bibel, ein Wörterbuch, ein Kartenspiel und eine Flasche Sherry übrig blieben. Heute zeigt BuildSelf, wie ein ablenkungsfreies Umfeld Ihre kognitive Leistung steigern kann.",
+      pt: "Maya Angelou, a lendária poetisa, memorialista e ativista dos direitos civis americana que escreveu a autobiografia inovadora 'Sei por que o pássaro canta na gaiola'. Para se concentrar profundamente, ela hospedava-se num quarto de hotel local todas as manhãs às 6h30. Pedia à equipa do hotel para remover todos os quadros, fotos e decorações das paredes, deixando apenas uma Bíblia, um dicionário, um baralho de cartas e uma garrafa de xerez. Hoje, o BuildSelf partilha como a criação de um ambiente vazio melhora a produção.",
+      id: "Maya Angelou, penyair legendaris Amerika, penulis memoar, dan aktivis hak-hak sipil yang menulis otobiografi terobosan 'I Know Why the Caged Bird Sings.' Untuk fokus secara mendalam, dia check-in ke kamar hotel setempat setiap pagi pukul 06.30. Dia meminta staf hotel untuk menghapus semua lukisan, foto, dan dekorasi dari dinding, hanya menyisakan sebuah Alkitab, kamus, dek kartu, dan sebotol sherry. Hari ini, BuildSelf membagikan bagaimana menciptakan lingkungan kosong dapat meningkatkan hasil kognitif Anda."
+    },
+    whyTitle: {
+      en: "Environmental Cue Control and Cognitive Load Reduction",
+      ja: "環境手がかり制御と認知負荷の軽減",
+      zh: "环境线索控制与认知负荷减轻",
+      es: "Control de estímulos ambientales y reducción de la carga cognitiva",
+      fr: "Contrôle des indices environnementaux et réduction de la charge cognitive",
+      de: "Umgebungskontrolle und Reduzierung der kognitiven Belastung",
+      pt: "Controle de pistas ambientais e redução da carga cognitiva",
+      id: "Pengendalian Isyarat Lingkungan dan Pengurangan Beban Kognitif"
+    },
+    whyDesc: {
+      en: "Human brains are constantly scanning the environment for visual and auditory cues, consuming cognitive resources. By physically isolating yourself in a blank space, you practice 'Environmental Cue Control.' Removing distractions minimizes cognitive load, allowing the brain to allocate all its working memory to the creative or complex task at hand, facilitating immediate entry into a state of 'flow.'",
+      ja: "人間の脳は常に視覚的・聴覚的な手がかりを求めて環境をスキャンしており、その過程で認知資源を消費しています。何もない空間に身を置くことで、「環境手がかり制御」を実践できます。気を散らすものを排除することで認知負荷が最小限に抑えられ、脳はワーキングメモリのすべてをクリエイティブまたは複雑な課題に割り当てることができ、即座に「フロー」状態に入るのを容易にします。",
+      zh: "人类的大脑不断在环境中扫描视觉和听觉线索，从而消耗认知资源。通过将自己物理隔离在一个空无一物的空间里，你就是在实践“环境线索控制”。消除干扰可将认知负荷降至最低，使大脑能够将其所有的工作记忆分配给眼前的创造性或复杂任务，从而有助于立即进入“心流”状态。",
+      es: "El cerebro humano escanea constantemente el entorno en busca de estímulos visuales y auditivos, lo que consume recursos cognitivos. Al aislarse físicamente en un espacio vacío, se practica el 'Control de estímulos ambientales'. Eliminar las distracciones minimiza la carga cognitiva, permitiendo al cerebro asignar toda su memoria de trabajo a la tarea creativa o compleja, facilitando la entrada en un estado de 'flujo'.",
+      fr: "Le cerveau humain scanne constamment son environnement à la recherche d'indices visuels et auditifs, ce qui consomme des ressources cognitives. En s'isolant dans un espace vide, on pratique le « Contrôle des indices environnementaux ». Éliminer les distractions réduit la charge cognitive, permettant au cerveau d'allouer toute sa mémoire de travail à la tâche complexe et d'entrer en état de « flow ».",
+      de: "Das menschliche Gehirn scannt die Umgebung ständig nach visuellen und auditiven Reizen ab, was kognitive Ressourcen verbraucht. Indem Sie sich in einem leeren Raum isolieren, praktizieren Sie „Umgebungskontrolle“. Das Entfernen von Ablenkungen minimiert die kognitive Belastung, sodass das Gehirn sein gesamtes Arbeitsgedächtnis für die kognitive oder komplexe Aufgabe nutzen kann, was den Einstieg in den „Flow“ erleichtert.",
+      pt: "O cérebro humano está constantemente a fazer o varrimento do ambiente à procura de pistas visuais e auditivas, consumindo recursos cognitivos. Ao isolar-se fisicamente num espaço vazio, pratica o 'Controle de pistas ambientais'. A remoção de distrações minimiza a carga cognitiva, permitiendo que o cérebro aloque toda a sua memória de trabalho à tarefa criativa ou complexa, facilitando a entrada imediata num estado de 'fluxo'.",
+      id: "Otak manusia terus-menerus memindai lingkungan untuk mencari isyarat visual dan pendengaran, yang mengonsumsi sumber daya kognitif. Dengan mengisolasi diri secara fisik di ruang kosong, Anda mempraktikkan 'Pengendalian Isyarat Lingkungan.' Menghilangkan gangguan meminimalkan beban kognitif, memungkinkan otak mengalokasikan semua memori kerjanya untuk tugas kreatif atau rumit, memfasilitasi masuk langsung ke keadaan 'flow.'"
+    },
+    steps: [
+      {
+        name: {
+          en: "Designate a single space solely for deep work",
+          ja: "ディープワーク専用の独立した空間を指定する",
+          zh: "指定一个仅用于深度工作的空间",
+          es: "Designa un único espacio exclusivo para el trabajo profundo",
+          fr: "Désigner un espace unique réservé au travail profond",
+          de: "Bestimmen Sie einen Raum ausschließlich für Deep Work",
+          pt: "Designe um espaço único exclusivamente para trabalho profundo",
+          id: "Tentukan satu ruang semata-mata untuk kerja mendalam"
+        },
+        text: {
+          en: "Choose a specific desk, a library cubicle, or a quiet room and declare it as your sacred focus zone. Do not browse social media or rest in this space; use it strictly for work.",
+          ja: "特定のデスク、図書館の自習ブース、または静かな部屋を選び、そこを神聖な集中ゾーンと宣言します。このスペースでSNSを見たり休んだりせず、厳密に作業のためだけに使用します。",
+          zh: "选择一张特定的书桌、图书馆的隔间或一间安静的房间，将其声明为你的神圣专注区域。不要在这个空间里浏览社交媒体或休息；严格将其用于工作。",
+          es: "Elige un escritorio específico, un cubículo de biblioteca o una habitación tranquila y decláralo como tu zona de enfoque sagrada. No navegues por redes sociales ni descanses en este espacio; úsalo estrictamente para trabajar.",
+          fr: "Choisissez un bureau spécifique, une cabine de bibliothèque ou une pièce calme et déclarez-la comme votre zone de concentration sacrée. Ne naviguez pas sur les réseaux sociaux et ne vous reposez pas dans cet espace ; utilisez-le strictement pour le travail.",
+          de: "Wählen Sie einen Schreibtisch, eine Bibliothekskabine oder einen ruhigen Raum und erklären Sie diesen zu Ihrer Fokuszone. Nutzen Sie diesen Bereich nicht für soziale Medien oder Pausen, sondern ausschließlich zum Arbeiten.",
+          pt: "Escolha uma secretária específica, uma cabine de biblioteca ou uma sala silenciosa e declare-a como a sua zona de foco sagrada. Não navegue nas redes sociais nem descanse neste espaço; use-o estritamente para trabalhar.",
+          id: "Pilihlah meja tertentu, bilik perpustakaan, atau ruangan yang tenang dan nyatakan sebagai zona fokus suci Anda. Jangan menjelajahi media sosial or beristirahat di ruang ini; gunakan hanya untuk bekerja."
+        }
+      },
+      {
+        name: {
+          en: "Remove all visual and digital clutter",
+          ja: "視覚的およびデジタルな雑音をすべて排除する",
+          zh: "清除所有视觉和数字杂乱",
+          es: "Elimina todo el desorden visual y digital",
+          fr: "Éliminer tout encombrement visuel et numérique",
+          de: "Entfernen Sie alle visuellen und digitalen Ablenkungen",
+          pt: "Remova toda a desordem visual e digital",
+          id: "Hapus semua kekacauan visual dan digital"
+        },
+        text: {
+          en: "Clear your desk of any items that are unrelated to your current task. Turn off your smartphone, place it out of sight, or move it to another room to eliminate environmental triggers.",
+          ja: "デスクの上から現在の作業に関係のないアイテムを片付けます。スマートフォンは電源を切るか、見えない場所に置くか、別の部屋に移動させて環境的な引き金をなくします。",
+          zh: "清理书桌上与当前任务无关的任何物品。关闭智能手机，将其放在视线之外，或者移到另一个房间，以消除环境触发因素。",
+          es: "Limpia tu escritorio de cualquier elemento que no esté relacionado con tu tarea actual. Apaga tu teléfono inteligente, colócalo fuera de la vista o muévelo a otra habitación para eliminar los desencadenantes ambientales.",
+          fr: "Débarrassez votre bureau de tout objet sans rapport avec votre tâche. Éteignez votre smartphone, placez-le hors de portée de vue ou déplacez-le dans une autre pièce pour éliminer les déclencheurs environnementaux.",
+          de: "Räumen Sie alle Gegenstände vom Schreibtisch, die nichts mit der aktuellen Aufgabe zu tun haben. Schalten Sie Ihr Smartphone aus und legen Sie es außer Sichtweite oder in einen anderen Raum.",
+          pt: "Limpe a sua secretária de quaisquer itens que não estejam relacionados com a sua tarefa atual. Desligue o seu smartphone, coloque-o fora de vista ou leve-o para outra sala para eliminar gatilhos ambientais.",
+          id: "Bersihkan meja Anda dari barang-barang yang tidak terkait dengan tugas Anda saat ini. Matikan ponsel cerdas Anda, letakkan di luar pandangan, atau pindahkan ke ruangan lain untuk menghilangkan pemicu lingkungan."
+        }
+      },
+      {
+        name: {
+          en: "Establish a clear start and end ritual",
+          ja: "明確な開始と終了の儀式を確立する",
+          zh: "建立明确的开始和结束仪式",
+          es: "Establece un ritual de inicio y fin claro",
+          fr: "Établir un rituel de début et de fin clair",
+          de: "Etablieren Sie ein klares Start- und Endritual",
+          pt: "Estabeleça um ritual de início e fim claro",
+          id: "Tetapkan ritual mulai dan selesai yang jelas"
+        },
+        text: {
+          en: "Define exact times to enter and leave your focus zone. When your time is up, step away completely to return to your daily life, creating a psychological boundary between work and rest.",
+          ja: "集中ゾーンに入り、そして出る正確な時間を定義します。時間が来たら完全にその場を離れて日常生活に戻り、仕事と休息の間に心理的な境界線を作ります。",
+          zh: "定义进入和离开专注区域的确切时间。时间到了之后，请彻底离开该区域，回归日常生活，在工作和休息之间建立心理边界。",
+          es: "Define horas exactas para entrar y salir de tu zona de enfoque. Cuando se acabe el tempo, aléjate por completo para volver a tu vida diaria, creando un límite psicológico entre el trabajo y el descanso.",
+          fr: "Définissez des heures précises pour entrer et sortir de votre zone de concentration. Une fois le temps écoulé, éloignez-vous complètement pour retourner à votre vie quotidienne, créant une barrière psychologique entre travail et repos.",
+          de: "Legen Sie genaue Zeiten fest, zu denen Sie Ihre Fokuszone betreten und verlassen. Wenn die Zeit abgelaufen ist, entfernen Sie sich vollständig, um eine Grenze zwischen Arbeit und Freizeit zu ziehen.",
+          pt: "Defina horas exatas para entrar e sair da sua zona de foco. Quando o tempo acabar, afaste-se completamente para voltar à sua vida quotidiana, criando um limite psicológico entre o trabalho e o descanso.",
+          id: "Tentukan waktu pasti untuk masuk dan keluar dari zona fokus Anda. Jika waktu Anda habis, menjauhlah sepenuhnya untuk kembali ke kehidupan sehari-hari, menciptakan batas psikologis antara kerja & istirahat."
+        }
+      }
+    ],
+    cautionTitle: {
+      en: "A cognitive-psychological word for a successful routine",
+      ja: "効果的なルーティンのための認知心理学的な一言",
+      zh: "成功惯例的认知心理学建议",
+      es: "Un consejo de la psicología cognitiva para una rutina exitosa",
+      fr: "Un conseil de psychologie cognitive pour une routine réussie",
+      de: "Ein kognitionspsychologischer Ratschlag für eine erfolgreiche Routine",
+      pt: "Um conselho da psicologia cognitiva para uma rotina de sucesso",
+      id: "Saran psikologi kognitif untuk rutinitas yang sukses"
+    },
+    cautionDesc: {
+      en: "Willpower alone is rarely enough to fight distraction. True focus is built by designing a physical environment where temptation cannot exist. Clear your desk, isolate your phone, and let the simplicity of your surroundings command your brain to focus. Create your own distraction-free zone today.",
+      ja: "意志の力だけで誘惑と戦うのは困難です。真の集中は、誘惑が存在し得ない物理的環境を設計することから生まれます。デスクを片付け、スマートフォンを隔離し、周囲の簡素さによって脳に集中を命じさせてください。",
+      zh: "仅凭意志力很难与分心作斗争。真正的专注是通过设计一个不存在诱惑的物理环境来建立的。清理你的书桌，隔离你的手机，让周围环境的简约感指挥你的大脑去专注。今天就创建你自己的无干扰区域吧。",
+      es: "La fuerza de voluntad por sí sola rara vez es suficiente para combatir la distracción. El verdadero enfoque se construye diseñando un entorno físico donde la tentación no pueda existir. Limpia tu escritorio, aísla tu teléfono y deja que la simplicidad del entorno guíe a tu cerebro.",
+      fr: "La volonté seule suffit rarement à lutter contre la distraction. La véritable concentration s'obtient en concevant un environnement physique où la tentation ne peut exister. Épurez votre bureau, isolez votre téléphone et laissez la simplicité ambiante guider votre esprit.",
+      de: "Willenskraft allein reicht selten aus, um Ablenkungen zu bekämpfen. Wahrer Fokus entsteht durch die Gestaltung einer physischen Umgebung, in der es keine Versuchungen gibt. Räumen Sie Ihren Schreibtisch auf, legen Sie Ihr Handy weg und lassen Sie die Einfachheit wirken.",
+      pt: "A força de vontade por si só raramente é suficiente para combater a distração. O foco verdadeiro constrói-se ao desenhar um ambiente físico onde a tentação não possa existir. Limpe a sua secretária, isole o seu telemóvel e deixe que a simplicidade do ambiente comande o seu cérebro.",
+      id: "Tekad saja jarang cukup untuk melawan gangguan. Fokus sejati dibangun dengan merancang lingkungan fisik di mana godaan tidak dapat eksis. Bersihkan meja Anda, isolasi telepon Anda, dan biarkan kesederhanaan lingkungan sekitar memerintahkan otak Anda to focus."
+    }
+  },
+  'tchaikovsky-two-hour-walk': {
+    title: {
+      en: "Walking 2 Hours Daily for Musical Inspiration: Pyotr Tchaikovsky's Creative Walk",
+      ja: "音楽的インスピレーションを得るための毎日2時間ずつの歩行：ピョートル・チャイコフスキーの創造的散歩",
+      zh: "每日步行2小时汲取音乐灵感：彼得·柴可夫斯基的创造性散步",
+      es: "Caminar 2 horas al día para obtener inspiración musical: La caminata creativa de Pyotr Tchaikovsky",
+      fr: "Marcher 2 heures par jour pour l'inspiration musicale : La marche créative de Piotr Tchaïkovski",
+      de: "Täglich 2 Stunden gehen für musikalische Inspiration: Pjotr Tschaikowskis kreativer Spaziergang",
+      pt: "Caminhar 2 horas por dia para inspiração musical: A caminhada criativa de Pyotr Tchaikovsky",
+      id: "Berjalan 2 Jam Setiap Hari untuk Inspirasi Musik: Jalan Kreatif Pyotr Tchaikovsky"
+    },
+    description: {
+      en: "Composer Pyotr Tchaikovsky walked exactly two hours every day to spark musical ideas. Discover the neuroscience of long-distance walking and the default mode network.",
+      ja: "作曲家ピョートル・チャイコフスキーは音楽的アイデアを生み出すために毎日正確に2時間歩きました。長距離歩行とデフォルトモードネットワークの脳科学を調べます。",
+      zh: "作曲家彼得·柴可夫斯基每天坚持散步整整两小时，以此激发音乐灵感。探索长距离步行与默认模式网络背后的脑科学原理。",
+      es: "El compositor Pyotr Tchaikovsky caminaba exactamente dos horas todos los días para generar ideas musicales. Conozca la neurociencia detrás de las largas caminatas y la red neuronal por defecto.",
+      fr: "Le compositeur Piotr Tchaïkovski marchait exactement deux heures par jour pour stimuler ses idées. Découvrez la neuroscience de la marche de fond et le réseau du mode par défaut.",
+      de: "Der Komponist Pjotr Tschaikowski ging jeden Tag genau zwei Stunden spazieren, um musikalische Ideen zu sammeln. Erfahren Sie mehr über die Neurowissenschaft des Gehens und das DMN.",
+      pt: "O compositor Pyotr Tchaikovsky caminhava exatamente duas horas todos os dias para gerar ideias musicais. Descubra a neurociência por trás das caminhadas longas e a rede de modo padrão.",
+      id: "Komposer Pyotr Tchaikovsky berjalan tepat dua jam setiap hari untuk memicu ide-ide musik. Temukan ilmu saraf dari jalan kaki jarak jauh dan jaringan mode default."
+    },
+    authority: {
+      en: "Modest Tchaikovsky's 'The Life & Letters of Peter Ilich Tchaikovsky' & Frontiers in Neuroscience",
+      ja: "モデスト・チャイコフスキー 著『チャイコフスキーの生涯と書簡』＆ Frontiers in Neuroscience 脳神経研究",
+      zh: "莫杰斯特·柴可夫斯基著《柴可夫斯基的生命与书信》及 Frontiers in Neuroscience 脑科学研究",
+      es: "Obra de Modest Tchaikovsky 'The Life & Letters of Peter Ilich Tchaikovsky' y estudio de Frontiers in Neuroscience",
+      fr: "L'ouvrage de Modest Tchaïkovski 'The Life & Letters of Peter Ilich Tchaikovsky' & étude de Frontiers in Neuroscience",
+      de: "Modest Tschaikowskis 'The Life & Letters of Peter Ilich Tchaikovsky' & Studie in Frontiers in Neuroscience",
+      pt: "Obra de Modest Tchaikovsky 'The Life & Letters of Peter Ilich Tchaikovsky' e estudo da Frontiers in Neuroscience",
+      id: "Buku Modest Tchaikovsky 'The Life & Letters of Peter Ilich Tchaikovsky' & Penelitian Frontiers in Neuroscience"
+    },
+    intro: {
+      en: "Pyotr Ilyich Tchaikovsky, the legendary composer who elevated Russian romantic music to a world-class level with masterpieces like 'Swan Lake,' 'The Nutcracker,' and the 'Pathétique Symphony.' He maintained an incredibly strict schedule, separating his composing sessions into morning and afternoon. Especially, he went out for a walk for exactly two hours every single afternoon. He believed so strongly in this routine that he feared cutting it short by even a few minutes would cause physical illness or exhaust his musical inspiration. The musical themes that came to him during these walks were immediately written down in a small notebook he always carried in his pocket. Today, BuildSelf shares how a daily walk can spark your creative thoughts.",
+      ja: "『白鳥の湖』、『くるみ割り人形』、交響曲第6番『悲愴』などの名作でロシア・ロマン派音楽を世界的なレベルに引き上げた伝説的な作曲家、ピョートル・イリイチ・チャイコフスキー。彼は朝と午後に作曲セッションを分けるなど、非常に厳格なスケジュールを維持しました。特に、彼は毎日午後になるとお決まりのように外出して正確に2時間散歩をしました。彼はこのルーティンを非常に重んじており、数分でも短くなると身体的な病気にかかったり、音楽的なインスピレーションが枯渇したりすることを恐れていました。散歩の最中に浮かんだ音楽のテーマは、彼が常にポケットに入れていた小さな手帳にすぐに書き留められました。本日、BuildSelfでは、毎日の散歩がどのように創造的な思考を引き出すかを紹介します。",
+      zh: "彼得·伊里奇·柴可夫斯基是传奇作曲家，凭借《天鹅湖》、《胡桃夹子》和《悲怆交响曲》等杰作将俄罗斯浪漫主义音乐提升至世界级水平。他维持着极其严格的时间表，将他的创作分成上午和下午两部分。特别的是，他每天下午都会准时出门散步整整两小时。他对这一惯例深信不疑，以至于担心如果缩短几分钟就会导致身体生病或使音乐灵感枯竭。散步时脑海中浮现的音乐主题会被立即记录在他随身携带在口袋里的一个小笔记本上。今天，BuildSelf将为您分享每日散步如何能激发您的创造性思维。",
+      es: "Pyotr Ilyich Tchaikovsky, el legendario compositor que elevó la música romántica rusa a un nivel mundial con obras maestras como 'El lago de los cisnes', 'El cascanueces' y la 'Sinfonía Patética'. Mantenía un horario increíblemente estricto, dividiendo sus sesiones de composición en mañana y tarde. En particular, salía a caminar exactamente dos horas todas las tardes. Creía tan firmemente en esta rutina que temía que acortarla aunque fuera unos minutos le causaría una enfermedad física o agotaría su inspiración musical. Los temas musicales que se le ocurrían durante estas caminatas se anotaban inmediatamente en un pequeño cuaderno que siempre llevaba en el bolsillo. Hoy, BuildSelf comparte cómo una caminata diaria puede despertar tus ideas creativas.",
+      fr: "Piotr Ilyitch Tchaïkovski, le légendaire compositeur qui a élevé la musique romantique russe à un niveau mondial avec des chefs-d'œuvre comme « Le Lac des cygnes », « Casse-Noisette » et la « Symphonie Pathétique ». Il maintenait un emploi du temps incroyablement strict, divisant ses séances de composition entre le matin et l'après-midi. En particulier, il sortait se promener pendant exactement deux heures chaque après-midi. Il croyait si fermement à cette routine qu'il craignait que l'écourter même de quelques minutes ne le rende malade physiquement ou ne tarisse son inspiration. Les thèmes musicaux qui lui venaient à l'esprit pendant ses promenades étaient immédiatement notés sur un petit carnet qu'il gardait toujours sur lui. Aujourd'hui, BuildSelf montre comment une marche quotidienne stimule vos pensées créatives.",
+      de: "Pjotr Iljitsch Tschaikowski, der legendäre Komponist, der die russische romantische Musik mit Meisterwerken wie „Schwanensee“, „Der Nussknacker“ und der „Sinfonie Pathétique“ auf weltweites Niveau hob. Er hielt einen strengen Zeitplan ein und teilte seine Arbeit in Vormittags- und Nachmittagssitzungen auf. Insbesondere ging er jeden Nachmittag exakt zwei Stunden spazieren. Er glaubte so fest an diese Routine, dass er befürchtete, eine Verkürzung um auch nur wenige Minuten würde ihn krank machen oder seine Inspiration versiegen lassen. Die musikalischen Themen, die ihm während dieser Spaziergänge einfielen, notierte er sofort in einem kleinen Notizbuch, das er stets in der Tasche trug. Heute zeigt BuildSelf, wie ein täglicher Spaziergang Ihre kreativen Gedanken anregen kann.",
+      pt: "Pyotr Ilyich Tchaikovsky, o lendário compositor que elevou a música romântica russa a um nível mundial com obras-primas como 'O Lago dos Cisnes', 'O Quebra-Nozes' e a 'Sinfonia Patética'. Mantinha um horário incrivelmente rigoroso, dividindo as suas sessões de composição em manhã e tarde. Em particular, saía para caminhar exatamente duas horas todas as tardes. Acreditava tão firmemente nesta rotina que temia que encurtá-la mesmo por alguns minutos causaria uma doença física ou esgotaria a sua inspiração musical. Os temas que lhe surgiam durante estas caminhadas eram registados imediatamente num pequeno caderno no bolso. Hoje, o BuildSelf partilha como uma caminhada diária pode despertar os seus pensamentos criativos.",
+      id: "Pyotr Ilyich Tchaikovsky, komposer legendaris yang mengangkat musik romantis Rusia ke tingkat kelas dunia dengan mahakarya seperti 'Swan Lake,' 'The Nutcracker,' dan 'Pathétique Symphony.' Dia mempertahankan jadwal yang sangat ketat, membagi sesi menggubah lagunya menjadi pagi dan sore. Khususnya, dia pergi berjalan-jalan selama tepat dua jam setiap sore. Dia sangat percaya pada rutinitas ini sehingga dia takut jika menguranginya beberapa menit saja akan menyebabkan penyakit fisik atau menghabiskan inspirasi musiknya. Tema musik yang muncul di kepalanya selama berjalan-jalan ini segera ditulis di buku catatan kecil yang selalu dibawanya di saku. Hari ini, BuildSelf membagikan bagaimana jalan kaki harian dapat memicu pemikiran kreatif Anda."
+    },
+    whyTitle: {
+      en: "The Neuroscience of Walking to Unchain the Unconscious Mind",
+      ja: "無意識の精神を解き放つ歩行の脳科学",
+      zh: "释放无意识思维的步行脑科学",
+      es: "La neurociencia de caminar para liberar la mente inconsciente",
+      fr: "La neuroscience de la marche pour libérer l'esprit inconscient",
+      de: "Die Neurowissenschaft des Gehens zur Befreiung des Unbewussten",
+      pt: "A neurociência de caminhar para libertar a mente inconsciente",
+      id: "Ilmu Saraf Berjalan untuk Membebaskan Pikiran Bawah Sadar"
+    },
+    whyDesc: {
+      en: "Walking at a regular tempo for a prolonged period releases endorphins that reduce stress, and temporarily relaxes prefrontal cortex activity to promote 'unconscious association.' From a neuroscience perspective, walking activates the Default Mode Network (DMN), which organizes memories and solves problems creatively, allowing new insights to bubble up from the subconscious to the conscious mind.",
+      ja: "規則的なテンポで長時間歩くことは、ストレスを軽減するエンドルフィンを放出し、前頭前野の活動を一時的に緩和して「無意識の連合」を促進します。脳科学の観点からは、歩行は記憶を整理し問題を創造的に解決するデフォルトモードネットワーク（DMN）を活性化し、無意識から意識へと新しい洞察が浮き上がるのを可能にします。",
+      zh: "以规律的节奏长时间步行会释放内啡肽以减轻压力，并暂时放松前额叶皮层活动，以促进“无意识联想”。从脑科学的角度来看，步行能激活默认模式网络（DMN），该网络负责整理记忆并创造性地解决问题，使新的见解能从无意识中涌现到意识层面。",
+      es: "Caminar a un ritmo regular durante un período prolongado libera endorfinas que reducen el estrés y relaja temporalmente la actividad de la corteza prefrontal para promover la 'asociación inconsciente'. Desde la perspectiva de la neurociencia, caminar activa la red neuronal por defecto (DMN), que organiza recuerdos y resuelve problemas creativamente.",
+      fr: "Marcher à un rythme régulier libère des endorphines réduisant le stress et détend l'activité du cortex préfrontal pour favoriser « l'association inconsciente ». En neuroscience, la marche active le réseau du mode par défaut (DMN), qui organise les souvenirs et résout les problèmes de manière créative, laissant les idées émerger de l'inconscient.",
+      de: "Das Gehen in gleichmäßigem Tempo über längere Zeit setzt Endorphine frei, die Stress abbauen, und entspannt vorübergehend die Aktivität des präfrontalen Cortex, um die „unbewusste Assoziation“ zu fördern. Aus Sicht der Neurowissenschaften aktiviert das Gehen das DMN, das Erinnerungen ordnet und Probleme kreativ löst.",
+      pt: "Caminhar a um ritmo regular por um período prolongado liberta endorfinas que reduzem o stress, e relaxa temporariamente a atividade do córtex pré-frontal para promover a 'associação inconsciente'. Do ponto de vista da neurociência, caminhar ativa la rede de modo padrão (DMN), que organiza memórias e resolve problemas de forma criativa.",
+      id: "Berjalan dengan tempo teratur dalam waktu lama melepaskan endorfin yang mengurangi stres, dan untuk sementara merilekskan aktivitas korteks prefrontal untuk mempromosikan 'asosiasi bawah sadar.' Dari sudut pandang ilmu saraf, berjalan mengaktifkan Default Mode Network (DMN), yang mengatur ingatan dan memecahkan masalah secara kreatif."
+    },
+    steps: [
+      {
+        name: {
+          en: "Select a scenic, quiet route with contact with nature",
+          ja: "自然と触れ合える静かで景色の良いルートを選ぶ",
+          zh: "选择与自然接触的安静、风景优美的路线",
+          es: "Selecciona una ruta escénica y tranquila con contacto con la naturaleza",
+          fr: "Sélectionner un itinéraire calme et verdoyant en contact avec la nature",
+          de: "Wählen Sie eine ruhige, landschaftlich schöne Route mit Naturkontakt",
+          pt: "Selecione um percurso calmo e cénico com contacto com a natureza",
+          id: "Pilih rute yang indah & tenang yang bersentuhan dengan alam"
+        },
+        text: {
+          en: "Select a scenic, quiet route with contact with nature. Walking the same path repeatedly removes the need for active navigation, allowing your mind to wander freely.",
+          ja: "自然と触れ合える静かで景色の良いルートを選びます。同じ道を繰り返し歩くことで、能動的にナビゲーションを考える必要がなくなり、心が自由にさまようことができるようになります。",
+          zh: "选择一条风景优美、安静且能接触自然的路线。重复走同一条路可以免去主动导航的需要，让你的思绪自由漫游。",
+          es: "Selecciona una ruta escénica y tranquila con contacto con la naturaleza. Caminar repetidamente por el mismo sendero elimina la necesidad de navegación activa, permitiendo que tu mente divague libremente.",
+          fr: "Sélectionnez un itinéraire calme et verdoyant en contact avec la nature. Marcher sur le même chemin évite d'avoir à s'orienter activement, ce qui permet à l'esprit de vagabonder librement.",
+          de: "Wählen Sie eine ruhige Route mit Naturkontakt. Wenn Sie denselben Weg wiederholt gehen, müssen Sie nicht aktiv navigieren, sodass Ihre Gedanken frei schweifen können.",
+          pt: "Selecione um percurso calmo e cénico com contacto com a natureza. Caminhar repetidamente pelo mesmo caminho elimina a necessidade de navegação ativa, permitindo que a sua mente divague livremente.",
+          id: "Pilih rute yang indah, tenang dengan kontak alam. Berjalan di jalur yang sama berulang kali menghilangkan kebutuhan navigasi aktif, memungkinkan pikiran Anda mengembara dengan bebas."
+        }
+      },
+      {
+        name: {
+          en: "Disconnect completely from all digital inputs",
+          ja: "すべてのデジタル入力から完全に切断する",
+          zh: "彻底断开与所有数字输入的连接",
+          es: "Desconéctate por completo de todas las entradas digitales",
+          fr: "Se déconnecter complètement de toutes les sources numériques",
+          de: "Trennen Sie sich vollständig von allen digitalen Kanälen",
+          pt: "Desligue-se completamente de todas as fontes digitais",
+          id: "Putuskan sambungan sepenuhnya dari semua input digital"
+        },
+        text: {
+          en: "Leave your smartphone in your pocket and do not listen to music or podcasts. Silence is necessary to allow your subconscious thoughts to rise to the surface.",
+          ja: "スマートフォンはポケットに入れたままにし、音楽やポッドキャストは聴かないようにします。無意識の思考が表面に浮かび上がるためには静寂が必要です。",
+          zh: "把智能手机放在口袋里，不要听音乐或播客。必须保持安静，以便让潜意识中的想法浮出水面。",
+          es: "Deja tu teléfono en el bolsillo y no escuches música ni podcasts. El silencio es necesario para permitir que tus pensamientos subconscientes salgan a la superficie.",
+          fr: "Laissez votre smartphone dans votre poche, n'écoutez ni musique ni podcast. Le silence est nécessaire pour laisser les pensées subconscientes remonter à la surface.",
+          de: "Lassen Sie Ihr Smartphone in der Tasche und hören Sie keine Musik oder Podcasts. Stille ist notwendig, damit Ihre unbewussten Gedanken an die Oberfläche steigen können.",
+          pt: "Deixe o seu telemóvel no bolso e não ouça música nem podcasts. O silêncio é necessário para permitir que os seus pensamentos subconscientes subam à superfície.",
+          id: "Tinggalkan ponsel cerdas Anda di saku dan jangan mendengarkan musik atau podcast. Keheningan diperlukan untuk membiarkan pikiran bawah sadar Anda muncul ke permukaan."
+        }
+      },
+      {
+        name: {
+          en: "Capture your sudden ideas immediately",
+          ja: "突然のアイデアを即座に捕らえる",
+          zh: "立即捕捉你脑海中闪现的创意",
+          es: "Captura tus ideas repentinas de inmediato",
+          fr: "Saisir immédiatement vos idées soudaines",
+          de: "Halten Sie plötzliche Ideen sofort fest",
+          pt: "Capte as suas ideias repentinas de imediato",
+          id: "Tangkap ide-ide mendadak Anda segera"
+        },
+        text: {
+          en: "Carry a small notebook or use a quick voice recorder to capture fleeting thoughts as they appear during your walk, and review them once you return.",
+          ja: "散歩中に浮かんだ一時的な考えをキャッチするために、小さなノートを持ち歩くか、簡単なボイスレコーダーを使用して記録し、戻ってから見直します。",
+          zh: "携带一个小笔记本或使用快速语音录音机，以捕捉散步期间浮现的转瞬即逝的想法，并在返回后进行查看。",
+          es: "Lleva un cuaderno pequeño o utiliza una grabadora de voz rápida para capturar los pensamientos fugaces a medida que aparecen durante tu caminata, y revísalos cuando regreses.",
+          fr: "Portez un petit carnet ou utilisez un enregistreur vocal rapide pour saisir les pensées fugaces qui apparaissent pendant votre marche, puis relisez-les à votre retour.",
+          de: "Tragen Sie ein kleines Notizbuch bei sich oder nutzen Sie ein Diktiergerät, um flüchtige Gedanken während des Spaziergangs festzuhalten und nach der Rückkehr zu überprüfen.",
+          pt: "Lave um caderno pequeno ou use um gravador de voz rápido para capturar os pensamentos fugazes à medida que aparecem durante a caminhada, e reveja-os quando regressar.",
+          id: "Bawalah buku catatan kecil atau gunakan perekam suara cepat untuk menangkap pikiran-pikiran sekilas saat muncul selama Anda berjalan, dan tinjau kembali setelah Anda kembali."
+        }
+      }
+    ],
+    cautionTitle: {
+      en: "A neuroscientific word for a successful routine",
+      ja: "効果的なルーティンのための脳科学的な一言",
+      zh: "成功惯例的脑科学建议",
+      es: "Un consejo neurocientífico para una rutina exitosa",
+      fr: "Un conseil neuroscientifique pour une routine réussie",
+      de: "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
+      pt: "Um conselho neurocientífico para uma rotina de sucesso",
+      id: "Saran ilmiah saraf untuk rutinitas yang sukses"
+    },
+    cautionDesc: {
+      en: "Inspiration is not a random gift; it is a guest that visits those who work for it daily. By stepping away from your screens and walking in silence, you give your brain the space it needs to connect the dots. Commit to a daily walk, embrace the silence, and let your subconscious solve your hardest problems.",
+      ja: "インスピレーションはランダムな贈り物ではなく、毎日そのために働く人を訪れるゲストです。画面から離れて静寂の中を歩くことで、脳に点と点をつなぐために必要なスペースを与えることができます。毎日の散歩を約束し、静けさを受け入れ、無意識に最も困難な問題を解決させてください。",
+      zh: "灵感绝非随机的恩赐；它是拜访那些每日为此付出努力之人的客人。通过远离屏幕并在安静中漫步，你给大脑提供了连接点滴所需的空间。坚持每日散步，拥抱宁静，让潜意识解决你最棘手的问题。",
+      es: "La inspiración no es un regalo aleatorio; es una invitada que visita a quienes trabajan por ella a diario. Al alejarte de las pantallas y caminar en silencio, le das a tu cerebro el espacio que necesita para conectar los puntos. Comprométete con una caminata diaria.",
+      fr: "L'inspiration n'est pas un don du hasard ; c'est un invité qui rend visite à ceux qui y travaillent quotidiennement. En vous éloignant des écrans et en marchant en silence, vous donnez à votre cerveau l'espace pour faire le lien entre les idées.",
+      de: "Inspiration ist kein zufälliges Geschenk, sondern ein Gast, der diejenigen besucht, die täglich dafür arbeiten. Indem Sie Bildschirme meiden und in Stille gehen, geben Sie Ihrem Gehirn Raum, Zusammenhänge zu erkennen. Gehen Sie täglich spazieren.",
+      pt: "A inspiração não é um presente aleatório; é uma convidada que visita quem trabalha para ela diariamente. Ao afastar-se dos ecrãs e caminhar em silêncio, dá ao seu cérebro o espaço necessário para ligar os pontos. Compromete-se com uma caminhada diária.",
+      id: "Inspirasi bukanlah hadiah acak; itu adalah tamu yang mengunjungi mereka yang bekerja untuk itu setiap hari. Dengan menjauh dari layar & berjalan dalam keheningan, Anda memberikan otak Anda ruang yang dibutuhkan untuk menghubungkan titik-titik."
+    }
   }
 };
+
 
 function run() {
   let createdCount = 0;

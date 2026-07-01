@@ -11,8 +11,10 @@ test.describe('메인 홈페이지 쇼츠 비디오 모달 연동 검증', () =>
     // 0. 동적으로 생성되는 스토리 버튼들이 나타날 때까지 대기
     await page.waitForSelector('#app-stories-container > button');
 
-    // 1. 첫 번째 쇼츠 카드(BuildSelf 소속)를 획득하여 클릭
+    // 1. 첫 번째 쇼츠 카드를 획득하여 앱 종류 판별 후 클릭
     const firstShortCard = page.locator('#app-stories-container > button').first();
+    const cardText = await firstShortCard.locator('span').textContent() || '';
+    const isBuildSelf = cardText.toUpperCase().includes('BUILDSELF');
     await firstShortCard.click();
     await page.waitForTimeout(500);
 
@@ -25,11 +27,16 @@ test.describe('메인 홈페이지 쇼츠 비디오 모달 연동 검증', () =>
     expect(iframeSrc).toContain('autoplay=1');
     expect(iframeSrc).toContain('https://www.youtube.com/embed/');
 
-    // 3. CTA 다운로드 버튼의 href 링크가 BuildSelf로 세팅되고 민트색 테마(from-teal-500)가 세팅되었는지 검사
+    // 3. CTA 다운로드 버튼의 href 링크 및 브랜드별 테마 색상 분기 검사
     const ctaBtn = page.locator('#modal-cta-btn');
     const ctaHref = await ctaBtn.getAttribute('href');
-    expect(ctaHref).toContain('id=com.selalink.buildself');
-    await expect(ctaBtn).toHaveClass(/from-teal-500/);
+    if (isBuildSelf) {
+      expect(ctaHref).toContain('id=com.selalink.buildself');
+      await expect(ctaBtn).toHaveClass(/from-teal-500/);
+    } else {
+      expect(ctaHref).toContain('id=com.selalink.freshself');
+      await expect(ctaBtn).toHaveClass(/from-purple-500/);
+    }
 
     // 4. 모달 닫기 버튼 클릭
     await page.click('#close-shorts-btn');
