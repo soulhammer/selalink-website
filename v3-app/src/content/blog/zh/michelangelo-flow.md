@@ -1,8 +1,8 @@
 ---
 title: " 数周不脱衣的雕塑家：米开朗基罗的极端专注习惯"
 description: "文艺复兴大师米开朗基罗为了保持高度专注，睡在工作靴里。了解减少日常决策如何提升精神能量。"
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-22"
+updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: [" 数周不脱衣的雕塑家","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"

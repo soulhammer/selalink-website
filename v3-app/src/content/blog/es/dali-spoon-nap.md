@@ -1,8 +1,8 @@
 ---
 title: "¿Echar la siesta sosteniendo una cuchara? La técnica de reinicio cerebral de Salvador Dalí"
 description: "El maestro surrealista Salvador Dalí captaba la inspiración artística en el límite entre el sueño y la vigilia. Conozca su rutina de reinicio cognitivo para potenciar la creatividad."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["¿Echar la ","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"

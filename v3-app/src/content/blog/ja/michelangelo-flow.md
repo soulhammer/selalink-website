@@ -1,8 +1,8 @@
 ---
 title: "服を着たまま数週間眠る？ミケランジェロの超集中習慣"
 description: "ルネサンスの巨匠ミケランジェロは、集中力を維持するためブーツを履いたまま眠りました。日常の決断を減らすことで精神的エネルギーを節約する習慣を調べます。"
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-22"
+updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["服を着たまま数週間眠","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"

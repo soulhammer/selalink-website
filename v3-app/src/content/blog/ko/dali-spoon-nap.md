@@ -1,13 +1,13 @@
 ---
 title: "숟가락 하나로 우주를 그린 천재? 살바도르 달리의 뇌 리셋 낮잠"
 description: "초현실주의 미술의 거장 살바도르 달리. 의자에 앉아 숟가락을 쥐고 선잠을 자다 깨어나며 기발한 예술적 아이디어를 포착했던 그의 독특한 뇌 리셋법과 현대인을 위한 창의성 리셋 루틴을 알아봅니다."
-pubDate: "2026-07-01"
+pubDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
 heroImage: "/images/blog/dali_spoon_nap.png"
 app: "buildself"
 authority: "살바도르 달리 자서전 'The Secret Life of Salvador Dali' 및 Frontiers in Human Neuroscience 학술지"
-updatedDate: "2026-07-01"
+updatedDate: "2026-03-07"
 faqs:
   - question: "달리는 왜 꼭 숟가락과 접시를 사용했나요?"
     answer: "깊은 수면(N2 단계 이상)에 접어들면 잠재의식 속의 초현실적 이미지를 망각하기 때문입니다. 잠에 드는 순간 근육이 이완되어 숟가락을 떨어뜨리도록 장치함으로써, 꿈과 깨어남의 경계인 '반수면 상태(Hypnagogia)'에서 뇌를 즉각 깨우기 위함이었습니다."

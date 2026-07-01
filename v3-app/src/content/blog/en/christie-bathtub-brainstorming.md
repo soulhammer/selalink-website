@@ -1,8 +1,8 @@
 ---
 title: "Eating Apples in the Bathtub: Agatha Christie's Plot Brainstorming Ritual"
 description: "The Queen of Mystery, Agatha Christie, designed her murder plots in a warm bathtub. Learn how sensory relaxation triggers creative breakthrough."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Great Habits","christie","Routine","Stamina"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"

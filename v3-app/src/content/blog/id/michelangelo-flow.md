@@ -1,8 +1,8 @@
 ---
 title: "Tidur dengan Pakaian Kerja Selama Berminggu-minggu: Kebiasaan Fokus Ekstrem Michelangelo"
 description: "Master Renaisans Michelangelo tidur dengan sepatu botnya untuk menjaga konsentrasi intens. Pelajari bagaimana meminimalkan keputusan harian meningkatkan energi mental."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-22"
+updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["Tidur deng","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"

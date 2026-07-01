@@ -1,13 +1,13 @@
 ---
 title: "몇 주 동안 옷을 벗지 않은 조각가? 미켈란젤로의 초몰입(Flow) 극대화 습관"
 description: "르네상스 최고의 거장 미켈란젤로 부오나로티. 시스티나 천장화와 다비드상을 조각할 때 옷과 장화를 벗지 않은 채 쪽잠을 자며 일했던 그의 인지 에너지 최소화 습관과 현대인을 위한 초몰입 설계법을 탐구합니다."
-pubDate: "2026-07-01"
+pubDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["위인 습관", "미켈란젤로", "몰입", "의사결정 피로", "생산성"]
 heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
 authority: "조르조 바사리 저서 '미술가 평전(Lives of the Artists)' 및 인지 심리학의 자아 고갈(Ego Depletion) 이론"
-updatedDate: "2026-07-01"
+updatedDate: "2026-03-22"
 faqs:
   - question: "미켈란젤로는 왜 옷과 신발도 벗지 않고 잤나요?"
     answer: "그는 극단적으로 예민한 몰입 상태를 깨뜨리고 싶지 않았기 때문입니다. 일상의 일화(옷 갈아입기, 샤워하기, 긴 잠을 청하기 등)를 전면 거부함으로써, 자신의 뇌에 흐르는 예술적 몰입의 흐름(Flow)을 중단 없이 조각상에 온전히 쏟아부었습니다."

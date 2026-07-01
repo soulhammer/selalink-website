@@ -1,8 +1,8 @@
 ---
 title: " 浴缸吃苹果与谋杀案构思：阿加莎·克里斯蒂的脑力激荡仪式"
 description: "推理女王阿加莎·克里斯蒂在温暖的浴缸中设计了她的谋杀案情节。了解感官放松如何触发创意突破。"
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: [" 浴缸吃苹果与谋杀案","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"

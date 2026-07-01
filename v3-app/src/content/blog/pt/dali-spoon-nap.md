@@ -1,8 +1,8 @@
 ---
 title: "Cochilar segurando uma colher: A técnica de reinicialização cerebral de Salvador Dalí"
 description: "O mestre surrealista Salvador Dalí captava a inspiração artística na fronteira entre o sono e a vigília. Conheça a sua rotina de reinício cognitivo."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["Cochilar s","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"

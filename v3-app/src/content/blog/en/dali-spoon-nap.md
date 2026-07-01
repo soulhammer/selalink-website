@@ -1,8 +1,8 @@
 ---
 title: "Napping While Holding a Spoon: Salvador Dalí's Brain Reset Technique"
 description: "Surrealist master Salvador Dalí captured artistic inspiration at the boundary of sleep and waking. Learn his cognitive reset routine and how you can boost creativity."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["Great Habits","dali","Routine","Stamina"]
 heroImage: "/images/blog/dali_spoon_nap.png"

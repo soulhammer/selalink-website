@@ -1,8 +1,8 @@
 ---
 title: "Makan Apel di Bak Mandi: Ritual Brainstorming Plot Agatha Christie"
 description: "Ratu Misteri, Agatha Christie, merancang plot pembunuhannya di bak mandi air hangat. Pelajari bagaimana relaksasi sensorik memicu terobosan kreatif."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Makan Apel","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"

@@ -1,13 +1,13 @@
 ---
 title: "욕조에서 사과를 먹으며 살인을 계획한 여인? 아가사 크리스티의 온수 브레인스토밍"
 description: "전 세계에서 성경 다음으로 많이 읽힌 추리소설의 여왕 아가사 크리스티. 욕조 안에서 사과를 먹으며 치밀한 알리바이와 트릭을 구상했던 그녀의 이완 루틴과 창의성을 자극하는 신체 이완 루틴을 알아봅니다."
-pubDate: "2026-07-01"
+pubDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"
 app: "buildself"
 authority: "아가사 크리스티 자서전 'Agatha Christie: An Autobiography' 및 세계 건강학 저널(Journal of Thermal Biology)"
-updatedDate: "2026-07-01"
+updatedDate: "2026-05-07"
 faqs:
   - question: "왜 하필 욕조 안에서 사과를 먹으며 아이디어를 짰나요?"
     answer: "온수 목욕은 근육의 긴장을 해소하고 심박수를 안정시킵니다. 여기에 껍질째 씹어 먹는 사과의 아삭아삭한 저작(씹기) 운동과 풍부한 과일 향이 후각과 턱 근육을 자극하여, 자율신경계가 가장 조화롭게 균형 잡힌 상태에서 극비의 트릭 영감을 이끌어 냈던 것입니다."

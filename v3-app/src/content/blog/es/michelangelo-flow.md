@@ -1,8 +1,8 @@
 ---
 title: "¿Dormir con la ropa de trabajo puesta durante semanas? El hábito de flujo extremo de Miguel Ángel"
 description: "El maestro del Renacimiento Miguel Ángel dormía con las botas puestas para mantener la concentración. Conozca cómo reducir las decisiones diarias ahorra energía."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-22"
+updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["¿Dormir co","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"

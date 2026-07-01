@@ -1,8 +1,8 @@
 ---
 title: "¿Comer manzanas en la bañera? El ritual de lluvia de ideas de Agatha Christie"
 description: "La reina del misterio, Agatha Christie, diseñaba sus tramas en una bañera cálida. Conozca cómo la relajación sensorial activa la creatividad."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["¿Comer man","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"

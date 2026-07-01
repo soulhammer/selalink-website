@@ -1,8 +1,8 @@
 ---
 title: "Dormir dans ses vêtements de travail : L'habitude de concentration extrême de Michel-Ange"
 description: "Le maître de la Renaissance Michel-Ange dormait dans ses bottes pour préserver sa concentration. Découvrez comment limiter les choix quotidiens libère de l'énergie."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-22"
+updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["Dormir dan","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"

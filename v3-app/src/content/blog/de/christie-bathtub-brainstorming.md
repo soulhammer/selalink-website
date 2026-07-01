@@ -1,8 +1,8 @@
 ---
 title: "Äpfel in der Badewanne essen: Agatha Christies Ritual zur Plot-Entwicklung"
 description: "Die Königin des Krimis, Agatha Christie, entwickelte ihre Plots in einer warmen Badewanne. Erfahren Sie, wie sensorische Entspannung Kreativität freisetzt."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Äpfel in d","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"

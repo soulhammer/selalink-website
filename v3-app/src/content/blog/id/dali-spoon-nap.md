@@ -1,8 +1,8 @@
 ---
 title: "Tidur Siang Sembari Memegang Sendok: Teknik Reset Otak Salvador Dalí"
 description: "Master surealis Salvador Dalí menangkap inspirasi artistik di batas antara tidur dan bangun. Pelajari rutinitas reset kognitifnya untuk meningkatkan kreativitas."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["Tidur Sian","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"

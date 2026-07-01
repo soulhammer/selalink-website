@@ -1,8 +1,8 @@
 ---
 title: "Comer maçãs na banheira: O ritual de brainstorming de Agatha Christie"
 description: "A rainha do mistério, Agatha Christie, desenhava os seus enredos numa banheira quente. Saiba como o relaxamento sensorial ativa a criatividade."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Comer maçã","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"

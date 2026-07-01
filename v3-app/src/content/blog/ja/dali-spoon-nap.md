@@ -1,8 +1,8 @@
 ---
 title: "スプーンを握って昼寝する？サルバドール・ダリの脳リセット法"
 description: "シュルレアリスムの巨匠サルバドール・ダリは、夢と覚醒の境界で芸術的ひらめきを捉えました。この自己監視ルーティンが創造性を高める理由を調べます。"
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["スプーンを握って昼寝","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"

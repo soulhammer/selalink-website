@@ -1,8 +1,8 @@
 ---
 title: "Sleeping in Work Clothes for Weeks: Michelangelo's Extreme Flow Habit"
 description: "Renaissance master Michelangelo slept in his boots to preserve intense concentration. Learn how minimizing daily decisions boosts mental energy."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-22"
+updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["Great Habits","michelangelo","Routine","Stamina"]
 heroImage: "/images/blog/michelangelo_flow.png"

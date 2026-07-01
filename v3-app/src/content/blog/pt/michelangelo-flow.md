@@ -1,8 +1,8 @@
 ---
 title: "Dormir com a roupa de trabalho durante semanas: O hábito de fluxo extremo de Miguel Ângelo"
 description: "O mestre do Renascimento Miguel Ângelo dormia com as botas calçadas para manter a concentração. Saiba como reduzir as decisões diárias economiza energia."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-22"
+updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["Dormir com","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"

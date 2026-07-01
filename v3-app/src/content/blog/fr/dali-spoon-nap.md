@@ -1,8 +1,8 @@
 ---
 title: "Faire la sieste en tenant une cuillère : La technique de réinitialisation cérébrale de Salvador Dalí"
 description: "Le maître surréaliste Salvador Dalí captait l'inspiration aux frontières du sommeil et de l'éveil. Découvrez sa routine de réinitialisation cognitive."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["Faire la s","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"

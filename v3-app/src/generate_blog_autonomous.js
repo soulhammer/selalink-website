@@ -43,6 +43,78 @@ function detectSourceLanguage(slug) {
   return enLen >= koLen ? 'en' : 'ko';
 }
 
+// 과거 발행일 자율 배정 함수 (Backdating)
+function distributeBlogDates(slug) {
+  const masterPath = path.join(blogRoot, 'ko', `${slug}.md`);
+  if (!fs.existsSync(masterPath)) return;
+
+  const content = fs.readFileSync(masterPath, 'utf-8');
+  
+  // 이미 수동으로 날짜가 기입되어 있고, 그 날짜가 오늘(2026-07-01) 날짜가 아니라 과거 날짜라면 보호
+  const pubDateMatch = content.match(/pubDate:\s*"([^"]+)"/);
+  const todayStr = '2026-07-01';
+  if (pubDateMatch && pubDateMatch[1] !== todayStr && pubDateMatch[1].match(/^\d{4}-\d{2}-\d{2}$/)) {
+    console.log(`ℹ️ [날짜 보존] '${slug}' 의 기존 발행일이 보존됩니다: ${pubDateMatch[1]}`);
+    return;
+  }
+
+  // 1. 기존 ko 폴더 내의 모든 마크다운 파일들의 pubDate 수집 (단, 현재 대상 파일은 제외)
+  const existingDates = new Set();
+  const koFiles = fs.readdirSync(path.join(blogRoot, 'ko')).filter(f => f.endsWith('.md') && f !== `${slug}.md`);
+  koFiles.forEach(f => {
+    const fileContent = fs.readFileSync(path.join(blogRoot, 'ko', f), 'utf-8');
+    const match = fileContent.match(/pubDate:\s*"([^"]+)"/);
+    if (match) {
+      existingDates.add(match[1]);
+    }
+  });
+
+  // 2. 2026-01-01부터 2026-07-01까지 기존 날짜와 겹치지 않는 빈 날짜 목록 추출
+  const startDate = new Date('2026-01-01');
+  const endDate = new Date('2026-07-01');
+  const availableDates = [];
+
+  for (let d = new Date(startDate); d <= endDate; d.setDate(d.getDate() + 1)) {
+    const dateStr = d.toISOString().split('T')[0];
+    if (!existingDates.has(dateStr)) {
+      availableDates.push(dateStr);
+    }
+  }
+
+  if (availableDates.length === 0) {
+    console.warn('⚠️ [경고] 2026년 상반기 중 남은 빈 날짜 슬롯이 없습니다. 오늘 날짜로 대체합니다.');
+    return;
+  }
+
+  // 3. 결정론적 무작위 인덱스 선택 (동일한 슬러그명은 항상 동일한 과거 날짜로 고정 매핑되도록 해시 유도)
+  let hash = 0;
+  for (let i = 0; i < slug.length; i++) {
+    hash = slug.charCodeAt(i) + ((hash << 5) - hash);
+  }
+  const selectedIndex = Math.abs(hash) % availableDates.length;
+  const selectedDate = availableDates[selectedIndex];
+
+  console.log(`📅 [날짜 안배] '${slug}' 포스트의 발행일이 [${selectedDate}] 로 과거 자동 배정되었습니다.`);
+
+  // 4. 마스터 파일의 pubDate 및 updatedDate 업데이트
+  let updatedContent = content;
+  
+  if (pubDateMatch) {
+    updatedContent = updatedContent.replace(/pubDate:\s*"[^"]+"/, `pubDate: "${selectedDate}"`);
+  } else {
+    updatedContent = updatedContent.replace('---\n', `---\npubDate: "${selectedDate}"\n`);
+  }
+
+  const updatedDateMatch = content.match(/updatedDate:\s*"([^"]+)"/);
+  if (updatedDateMatch) {
+    updatedContent = updatedContent.replace(/updatedDate:\s*"[^"]+"/, `updatedDate: "${selectedDate}"`);
+  } else {
+    updatedContent = updatedContent.replace('authority:', `updatedDate: "${selectedDate}"\nauthority:`);
+  }
+
+  fs.writeFileSync(masterPath, updatedContent, 'utf-8');
+}
+
 // 2. 파이썬 크롭 모듈 자동 트리거
 function cropSubImage(imageName) {
   const rawImagePath = path.join(publicRoot, 'images', 'blog', `${imageName}.png`);
@@ -135,6 +207,9 @@ function startAutonomousWorkflow() {
   // 1. 소스 언어 판별
   const masterLang = detectSourceLanguage(slugArg);
   console.log(`ℹ️ [소스 감지] 마스터 소스 파일의 언어는 [${masterLang.toUpperCase()}] 입니다.`);
+
+  // 1.5. 지능형 과거 날짜 자율 배정 (Backdating)
+  distributeBlogDates(slugArg);
 
   // 2. 이미지 가공 연동 (최상단 heroImage 명칭 기반 보조 이미지명 유도)
   const imageBaseName = slugArg.replace(/-/g, '_') + '_relax';

@@ -1,8 +1,8 @@
 ---
 title: "Mittagsschlaf mit einem Löffel: Salvador Dalís Methode zur Gehirn-Reaktivierung"
 description: "Der Surrealismus-Meister Salvador Dalí fing künstlerische Inspirationen an der Grenze zwischen Schlaf und Wachen ein. Erfahren Sie, wie Sie Ihre Kreativität steigern."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: ["Mittagssch","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"

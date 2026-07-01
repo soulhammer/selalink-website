@@ -1,8 +1,8 @@
 ---
 title: "Manger des pommes dans sa baignoire : Le rituel de brainstorming d'Agatha Christie"
 description: "La reine du mystère, Agatha Christie, concevait ses intrigues dans un bain chaud. Découvrez comment la relaxation stimule la créativité."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Manger des","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"

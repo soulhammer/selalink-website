@@ -1,8 +1,8 @@
 ---
 title: "Wochenlang in Arbeitskleidung schlafen: Michelangelos Angewohnheit des extremen Fokus"
 description: "Der Renaissance-Meister Michelangelo schlief in seinen Stiefeln, um die Konzentration aufrechtzuerhalten. Erfahren Sie, wie die Minimierung alltäglicher Entscheidungen Energie spart."
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-22"
+updatedDate: "2026-03-22"
 category: "BuildSelf"
 tags: ["Wochenlang","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"

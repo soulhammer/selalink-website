@@ -1,8 +1,8 @@
 ---
 title: "湯船でリンゴをかじる？アガサ・クリスティのプロット構想術"
 description: "ミステリーの女王アガサ・クリスティは、温かい湯船の中で殺人プロットを練り上げました。感覚の緩和が創造性を刺激するメカニズムを解説します。"
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["湯船でリンゴをかじる","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"

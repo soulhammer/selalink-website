@@ -1,8 +1,8 @@
 ---
 title: " Spoon Napping: 萨尔瓦多·达利的脑部重置技巧"
 description: "超现实主义大师萨尔瓦多·达利在梦境与醒来的边界捕捉艺术灵感。了解他的认知重置惯例以及如何提升创造力。"
-pubDate: "2026-07-01"
-updatedDate: "2026-07-01"
+pubDate: "2026-03-07"
+updatedDate: "2026-03-07"
 category: "BuildSelf"
 tags: [" Spoon Nap","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"
