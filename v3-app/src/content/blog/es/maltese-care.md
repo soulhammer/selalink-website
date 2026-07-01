@@ -109,7 +109,7 @@ Al ser perros con alta dependencia de sus dueños, los malteses muestran silenci
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Simply observing your pet's calming signals can prevent major behavioral issues and stress-induced illnesses. While veterinary treatment is important, providing a safe environment (steps, vertical spaces, multiple water sources) is the strongest shield supporting their lifetime happiness.
+      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Aunque el tratamiento veterinario es importante, proporcionar un entorno seguro (rampas, espacios verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
     </p>
   </div>
 </div>

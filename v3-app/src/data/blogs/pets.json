@@ -2814,5 +2814,1765 @@
         }
       ]
     }
+  },
+  "corgi-care": {
+    "title": {
+      "ko": "짧은 다리 웰시코기의 비결: 슬개골과 척추를 지키는 3단계 홈케어",
+      "en": "Pembroke Welsh Corgi Care: A 3-Step Routine for Spine and Joint Health",
+      "ja": "短い脚のウェルシュ・コーギー：関節と脊椎を守る3段階ホームケア",
+      "zh": "短腿柯基犬的秘诀：呵护关节与脊椎健康的日常3步护理",
+      "es": "Cuidado del Welsh Corgi: Una rutina de 3 pasos para la salud de la columna y articulaciones",
+      "fr": "Soins du Welsh Corgi : Une routine en 3 étapes pour la santé du dos et des articulations",
+      "de": "Welsh Corgi Pflege: Eine 3-Schritte-Routine für Wirbelsäulen- und Gelenkgesundheit",
+      "pt": "Cuidados com o Welsh Corgi: Uma rotina de 3 passos para a saúde da coluna e articulações",
+      "id": "Perawatan Welsh Corgi: Rutinitas 3 Langkah untuk Kesehatan Tulang Belakang dan Sendi"
+    },
+    "description": {
+      "ko": "귀여운 뒤태와 짧은 다리가 매력적인 웰시코기. 긴 허리와 체중 때문에 발생하기 쉬운 척추 질환 및 슬개골 탈구 예방을 위한 3단계 데일리 루틴을 소개합니다.",
+      "en": "Welsh Corgis are famous for their cute backsides and short legs. Discover a 3-step daily routine to prevent spinal issues and patellar luxation caused by their long backs.",
+      "ja": "愛らしいお尻と短い脚が魅力のウェルシュ・コーギー。長い背中と体重により発生しやすい脊椎疾患と膝蓋骨脱臼予防のための3段階ルーティンを紹介します。",
+      "zh": "因可爱的背影和短腿而闻名的柯基犬。介绍一套预防因身长而易患的脊椎疾病和髌骨脱位的日常3步护理惯例。",
+      "es": "El Welsh Corgi, famoso por su lindo trasero y patas cortas. Descubra una rutina diaria de 3 pasos para prevenir problemas de columna y la luxación patelar.",
+      "fr": "Le Welsh Corgi, célèbre pour son derrière mignon et ses pattes courtes. Découvrez une routine en 3 étapes pour prévenir les problèmes de colonne et la luxation de la rotule.",
+      "de": "Der Welsh Corgi, bekannt für seine süße Rückseite und kurzen Beine. Entdecken Sie eine 3-Schritte-Routine zur Vorbeugung von Wirbelsäulenproblemen und Patellaluxation.",
+      "pt": "O Welsh Corgi, famoso por seu traseiro fofo e patas curtas. Descubra uma rotina diária de 3 passos para evitar problemas na coluna e a luxação patelar.",
+      "id": "Welsh Corgi terkenal dengan bagian belakangnya yang lucu dan kakinya yang pendek. Temukan rutinitas harian 3 langkah untuk mencegah masalah tulang belakang dan luksasi patela."
+    },
+    "authority": {
+      "ko": "Pembroke Welsh Corgi Club of America 공식 가이드 및 AKC 건강 지침",
+      "en": "Official Guide of the Pembroke Welsh Corgi Club of America & AKC Health Guidelines",
+      "ja": "Pembroke Welsh Corgi Club of America公式ガイド＆AKC健康指針",
+      "zh": "美国彭布罗克威尔士柯基犬俱乐部官方指南与 AKC 健康指南",
+      "es": "Guía oficial del Pembroke Welsh Corgi Club of America y pautas de salud de AKC",
+      "fr": "Guide officiel du Pembroke Welsh Corgi Club of America et directives de santé de l'AKC",
+      "de": "Offizieller Leitfaden des Pembroke Welsh Corgi Club of America und AKC-Gesundheitsrichtlinien",
+      "pt": "Guia oficial do Pembroke Welsh Corgi Club of America e diretrizes de saúde do AKC",
+      "id": "Panduan Resmi Pembroke Welsh Corgi Club of America & Pedoman Kesehatan AKC"
+    },
+    "profile": {
+      "breed": {
+        "ko": "웰시코기 (Welsh Corgi)",
+        "en": "Welsh Corgi",
+        "ja": "ウェルシュ・コーギー",
+        "zh": "威尔士柯基犬",
+        "es": "Welsh Corgi",
+        "fr": "Welsh Corgi",
+        "de": "Welsh Corgi",
+        "pt": "Welsh Corgi",
+        "id": "Welsh Corgi"
+      },
+      "lifespan": {
+        "ko": "12 ~ 15년",
+        "en": "12 ~ 15 years",
+        "ja": "12 ~ 15年",
+        "zh": "12 ~ 15年",
+        "es": "12 ~ 15 años",
+        "fr": "12 ~ 15 ans",
+        "de": "12 ~ 15 Jahre",
+        "pt": "12 ~ 15 anos",
+        "id": "12 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "12 ~ 14시간 (바닥 취침 선호)",
+        "en": "12 ~ 14 hours (prefers floor)",
+        "ja": "12 ~ 14時間（床を好む）",
+        "zh": "12 ~ 14小时（偏好睡地板）",
+        "es": "12 ~ 14 horas (prefiere el suelo)",
+        "fr": "12 ~ 14 heures (préfère le sol)",
+        "de": "12 ~ 14 Stunden (bevorzugt Boden)",
+        "pt": "12 ~ 14 hours (prefere o chão)",
+        "id": "12 ~ 14 jam (menyukai lantai)"
+      },
+      "temperament": {
+        "ko": "영리함, 활발함, 대담함, 충직함",
+        "en": "Smart, Playful, Bold, Loyal",
+        "ja": "賢い、活発、大胆、忠実",
+        "zh": "聪明、活泼、大胆、忠诚",
+        "es": "Inteligente, Activo, Audaz, Leal",
+        "fr": "Intelligent, Actif, Audacieux, Fidèle",
+        "de": "Intelligent, Aktiv, Mutig, Loyal",
+        "pt": "Inteligente, Brincalhão, Audaz, Leal",
+        "id": "Pintar, Ceria, Berani, Setia"
+      }
+    },
+    "intro": {
+      "ko": "웰시코기는 짧은 다리와 빵빵한 엉덩이로 많은 사랑을 받는 견종입니다. 원래 목양견으로 활약하던 견종답게 지능이 높고 활동량이 엄청나며 대담한 성격을 지니고 있습니다. 하지만 긴 허리와 짧은 다리라는 신체적 특징 때문에 척추와 관절에 가해지는 부담이 매우 큽니다. 비만이 될 경우 디스크 위험이 급증하므로 철저한 일상 관리가 필수적입니다. 오늘 PetSelf에서는 웰시코기의 독특한 바디 랭귀지를 이해하고 척추와 슬개골을 평생 안전하게 지키는 3단계 케어 루틴을 소개합니다.",
+      "en": "Welsh Corgis are loved for their short legs and fluffy backsides. As former herding dogs, they are smart, active, and bold. However, their long backs and short legs place heavy stress on their spine and joints. Obesity increases the risk of spinal disc issues, making daily care essential. Today, PetSelf explores Corgi body language and introduces a 3-step routine to protect their spine and joints.",
+      "ja": "ウェルシュ・コーギーは、短い脚とお尻の愛らしさで人気の犬種です。牧羊犬だったため賢く、活動的で大胆な性格ですが、長い背中と短い脚という体型から脊椎と関節への負担が大きいです。肥満になるとヘルニアのリスクが急増するため、日常のケアが不可欠です。本日、PetSelfではコーギーのボディランゲージを理解し、脊椎と膝蓋骨を守る3段階ルーティンを紹介します。",
+      "zh": "威尔士柯基犬因其短腿和圆滚滚的屁股而深受喜爱。作为曾经的牧羊犬，它们聪明、活泼且大胆。然而，长背和短腿的身体特征使它们的脊椎和关节承受了巨大的压力。如果体重超标，患脊椎椎间盘疾病的风险会急剧上升，因此日常管理至关重要。今天，PetSelf 将带您解读柯基犬的身体语言，并介绍一套保护其脊椎和髌骨的3步日常护理惯例。",
+      "es": "El Welsh Corgi es una raza muy querida por sus patas cortas y su trasero redondeado. Como antiguos perros pastores, son inteligentes, activos y valientes. Sin embargo, su espalda larga y patas cortas ejercen una gran presión sobre la columna y las articulaciones. La obesidad aumenta drásticamente el riesgo de hernias discales. Hoy, PetSelf explora su lenguaje corporal y presenta una rutina de 3 pasos para proteger su columna y rótulas.",
+      "fr": "Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière rebondi. Anciens chiens de berger, ils sont intelligents, actifs et audacieux. Cependant, leur dos long et leurs pattes courtes exercent une forte pression sur la colonne et les articulations. L'obésité augmente le risque de hernie discale. Aujourd'hui, PetSelf étudie leur langage corporel et présente une routine en 3 étapes pour protéger leur dos et leurs rotules.",
+      "de": "Der Welsh Corgi ist eine beliebte Rasse mit kurzen Beinen und einem runden Hinterteil. Als ehemalige Hütehunde sind sie intelligent, aktiv und mutig. Ihr langer Rücken und ihre kurzen Beine belasten jedoch Wirbelsäule und Gelenke stark. Übergewicht erhöht das Risiko von Bandscheibenvorfällen. Heute befasst sich PetSelf mit ihrer Körpersprache und stellt eine 3-Schritte-Routine zum Schutz von Wirbelsäule und Kniescheiben vor.",
+      "pt": "O Welsh Corgi é uma raça muito amada por suas patas curtas e traseiro arredondado. Como antigos cães pastores, são inteligentes, ativos e leais. No entanto, seu dorso longo e patas curtas sobrecarregam a coluna e as articulações. A obesidade aumenta o risco de problemas discais. Hoje, o PetSelf explora sua linguagem corporal e apresenta uma rotina de 3 passos para proteger a coluna e as patelas.",
+      "id": "Welsh Corgi adalah ras yang sangat dicintai karena kakinya yang pendek dan bagian belakangnya yang bulat. Sebagai mantan anjing gembala, mereka pintar, aktif, dan berani. Namun, punggung yang panjang dan kaki yang pendek memberi tekanan besar pada tulang belakang dan sendi. Obesitas meningkatkan risiko masalah cakram tulang belakang. Hari ini, PetSelf mengeksplorasi bahasa tubuh mereka dan memperkenalkan rutinitas 3 langkah untuk melindungi tulang belakang dan patela."
+    },
+    "whyTitle": {
+      "ko": "웰시코기의 바디 랭귀지: 허리와 감정의 신호",
+      "en": "Corgi Body Language: Signals of Spine and Emotion",
+      "ja": "コーギーのボディランゲージ：腰と感情のサイン",
+      "zh": "柯基犬的身体语言：脊椎与情感的信号",
+      "es": "Lenguaje corporal del Corgi: señales de espalda y emociones",
+      "fr": "Langage corporel du Corgi : signaux du dos et des émotions",
+      "de": "Körpersprache des Corgis: Signale von Rücken und Emotionen",
+      "pt": "Linguagem corporal do Corgi: sinais de dorso e emoção",
+      "id": "Bahasa Tubuh Corgi: Sinyal Tulang Belakang dan Emosi"
+    },
+    "whyDesc": {
+      "ko": "웰시코기는 꼬리가 매우 짧거나 없기 때문에 감정을 표현할 때 몸 전체와 엉덩이를 적극적으로 사용합니다. 특히 기분이 좋을 때 보여주는 **'엉덩이 흔들기'**와 편안할 때 뒷다리를 쭉 뻗는 **'납작 엎드리기(Splooting)'** 자세는 웰시코기만의 대표적인 시그널입니다. 이러한 신체 표현들은 단순한 기쁨의 표현을 넘어 관절 상태와 체온 조절을 나타내는 중요한 지표입니다. 보호자는 이 자세들을 관찰하여 강아지의 스트레스 지수와 피로도를 진단할 수 있습니다.",
+      "en": "Because Corgis have very short or docked tails, they use their entire body and hips to express emotions. Typical signals include **'wiggle butt'** when happy and **'splooting'** (stretching back legs out flat) when relaxed. These physical expressions are important indicators of joint comfort and temperature regulation. Owners can monitor these signs to evaluate their dog's stress and fatigue levels.",
+      "ja": "コーギーは尻尾が非常に短いか無いため、感情を表現する際に体全体とお尻を大きく動かします。特に喜んでいる時の**「お尻振り」**や、リラックスしている時に後ろ脚を後ろに伸ばす**「ぺたんこ寝」**はコーギーの代表的なサインです。これらの姿勢は関節の状態や体温調節を示す重要な指標であり, 飼い主はこれを見て疲労度を診断できます。",
+      "zh": "由于柯基犬的尾巴非常短或断尾，它们在表达情感时会积极使用整个身体和臀部。特别是在高兴时展现的**“摇摆臀部”**和放松时将后腿向后伸直的**“趴平（Splooting）”**姿势是柯基犬独有的代表性信号。这些身体语言不仅表达喜悦，还是反映关节状态和体温调节的重要指标。家长可以通过观察这些姿势来判断狗狗的压力指数和疲劳程度。",
+      "es": "Dado que los Corgis tienen colas muy cortas o sin cola, usan todo su cuerpo y caderas para expresar emociones. Las señales típicas incluyen el **'contoneo de cadera'** cuando están felices y el **'splooting'** (estirarse con las patas traseras hacia atrás) cuando están relajados. Estas expresiones físicas indican comodidad articular y regulación térmica. Los dueños pueden observar estos signos para evaluar el estrés.",
+      "fr": "Comme les Corgis ont des queues très courtes, ils utilisent tout leur corps et leurs hanches pour s'exprimer. Les signaux typiques incluent le **'remuement de fesses'** quand ils sont joyeux et le **'splooting'** (s'étirer avec les pattes arrière à plat) quand ils sont détendus. Ces expressions physiques sont des indicateurs du confort articulaire et de la régulation thermique, aidant à évaluer leur fatigue.",
+      "de": "Da Corgis sehr kurze Ruten haben, nutzen sie ihren ganzen Körper und ihre Hüften, um Gefühle auszudrücken. Typische Signale sind das **'Hüftwackeln'** bei Freude und das **'Splooting'** (Flachlegen mit nach hinten gestreckten Beinen) bei Entspannung. Diese Ausdrücke zeigen Gelenkkomfort und Temperaturregulierung an. Besitzer können diese Zeichen nutzen, um Stress- und Müdigkeitswerte zu bewerten.",
+      "pt": "Como os Corgis têm caudas muito curtas, usam todo o corpo e quadris para expressar emoções. Sinais típicos incluem o **'rebolado de quadril'** quando felizes e o **'splooting'** (deitar com as patas traseiras esticadas) quando relaxados. Essas expressões físicas indicam o conforto das articulações e a regulação térmica. Os donos podem monitorar isso para avaliar o estresse.",
+      "id": "Karena Corgi memiliki ekor yang sangat pendek, mereka menggunakan seluruh tubuh dan pinggul untuk mengekspresikan emosi. Sinyal khas termasuk **'goyangan bokong'** saat senang dan **'splooting'** (meregangkan kaki belakang ke belakang) saat santai. Ekspresi fisik ini merupakan indikator kenyamanan sendi dan regulasi suhu. Pemilik dapat memantau tanda-tanda ini untuk mengevaluasi stres."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "엉덩이 흔들기 (Wiggle Butt)",
+          "en": "Wiggle Butt",
+          "ja": "お尻振り (Wiggle Butt)",
+          "zh": "摇摆臀部 (Wiggle Butt)",
+          "es": "Contoneo de cadera",
+          "fr": "Remuement de fesses",
+          "de": "Hüftwackeln",
+          "pt": "Rebolado de quadril",
+          "id": "Goyangan Bokong"
+        },
+        "meaning": {
+          "ko": "꼬리가 짧은 코기가 표현할 수 있는 극도의 반가움과 긍정적인 흥분 상태입니다.",
+          "en": "A state of extreme happiness and positive excitement expressed by short-tailed Corgis.",
+          "ja": "尻尾の短いコーギーが表現できる、最高の喜びと興奮状態です。",
+          "zh": "短尾柯基犬表达极度欢迎和积极兴奋状态的方式。",
+          "es": "Un estado de felicidad extrema y entusiasmo positivo expresado por Corgis de cola corta.",
+          "fr": "Un état de joie extrême et d'excitation positive exprimé par les Corgis à queue courte.",
+          "de": "Ein Zustand extremer Freude und positiver Erregung bei kurzschwänzigen Corgis.",
+          "pt": "Um estado de extrema alegria e excitação positiva expresso por Corgis de cauda curta.",
+          "id": "Keadaan sangat gembira dan kegembiraan positif yang diungkapkan oleh Corgi berekor pendek."
+        },
+        "response": {
+          "ko": "다정하게 맞장구치며 쓰다듬어 주되, 흥분해서 소파 위를 뛰지 않게 차분히 유도하세요.",
+          "en": "Greet them affectionately and calm them down to prevent them from jumping onto sofas in excitement.",
+          "ja": "優しく応えながら撫でてあげ、興奮してソファーから飛び降りないように落ち着かせてください。",
+          "zh": "亲切地给予回应并抚摸它们，但要冷静引导，防止它们因兴奋而在沙发上跳上跳下。",
+          "es": "Salúdelos con cariño y tranquilícelos para evitar que salten a los sofás por la emoción.",
+          "fr": "Accueillez-le avec affection et calmez-le pour éviter qu'il ne saute sur le canapé d'excitation.",
+          "de": "Begrüßen Sie sie liebevoll und beruhigen Sie sie, um zu verhindern, dass sie vor Freude auf Sofas springen.",
+          "pt": "Cumprimente-os com carinho e acalme-os para evitar que pulem nos sofás com a excitação.",
+          "id": "Sambut mereka dengan penuh kasih sayang dan tenangkan mereka agar tidak melompat ke sofa karena gembira."
+        }
+      },
+      {
+        "name": {
+          "ko": "납작 엎드리기 (Splooting)",
+          "en": "Splooting",
+          "ja": "ぺたんこ寝 (Splooting)",
+          "zh": "趴平 (Splooting)",
+          "es": "Splooting",
+          "fr": "Splooting",
+          "de": "Splooting",
+          "pt": "Splooting",
+          "id": "Splooting"
+        },
+        "meaning": {
+          "ko": "배를 시원한 바닥에 대고 체온을 내리거나 관절 긴장을 풀어주는 이완 신호입니다.",
+          "en": "A relaxation signal to cool down body temperature on a cold floor and ease joint tension.",
+          "ja": "お腹を冷たい床につけて体温を下げ、関節の緊張をほぐすリラックスのサインです。",
+          "zh": "将肚子贴在凉爽的地板上以降低体温，或放松关节紧张的放松信号。",
+          "es": "Señal de relajación para enfriar la temperatura corporal en un suelo frío y aliviar la tensión articular.",
+          "fr": "Un signal de relaxation pour refroidir la température corporelle sur un sol frais et soulager les articulations.",
+          "de": "Ein Entspannungssignal, um die Körpertemperatur auf kaltem Boden zu senken und Gelenkspannung zu lösen.",
+          "pt": "Um sinal de relaxamento para esfriar a temperatura corporal no chão frio e aliviar a tensão articular.",
+          "id": "Sinyal relaksasi untuk mendinginkan suhu tubuh di lantai yang dingin dan meredakan ketegangan sendi."
+        },
+        "response": {
+          "ko": "편안하게 휴식하고 있는 상태이므로 건드리지 말고 휴식 공간을 제공해 주세요.",
+          "en": "They are resting comfortably. Do not disturb them and ensure they have a peaceful environment.",
+          "ja": "快適に休んでいる状態なので、邪魔をせずに静かな空間を確保してください。",
+          "zh": "它们正在舒适地休息，请不要打扰，并提供安静的休息空间。",
+          "es": "Están descansando cómodamente. No los moleste y asegúrese de que tengan un ambiente tranquilo.",
+          "fr": "Il se repose confortablement. Ne le dérangez pas et assurez-lui un environnement calme.",
+          "de": "Sie ruhen sich bequem aus. Stören Sie sie nicht und sorgen Sie für eine ruhige Umgebung.",
+          "pt": "Eles estão descansando confortavelmente. Não os perturbe e garanta um ambiente tranquilo.",
+          "id": "Mereka sedang beristirahat dengan nyaman. Jangan ganggu mereka dan pastikan lingkungan yang tenang."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 미끄럼 방지 환경 매트 고정 및 뒷다리 2분 스트레칭",
+          "en": "Morning: Mat Security Check and 2-Minute Back Leg Stretch",
+          "ja": "朝：滑り止めマットの固定と後ろ脚の2分間ストレッチ",
+          "zh": "早晨：防滑地垫固定与后腿2分钟拉伸",
+          "es": "Mañana: Control de alfombras antideslizantes y estiramiento de patas traseras",
+          "fr": "Matin : Fixation du tapis anti-glisse et étirement des pattes arrière",
+          "de": "Morgen: Rutschfeste Matten sichern und 2 Minuten Dehnung der Hinterbeine",
+          "pt": "Manhã: Verificação de tapetes antiderrapantes e alongamento das patas traseiras",
+          "id": "Pagi: Pemeriksaan Keamanan Keset Antiselip dan Peregangan Kaki Belakang"
+        },
+        "text": {
+          "ko": "허리가 길어 척추 디스크 발생 빈도가 높으므로 아침에 침대나 소파 아래 매트 미끄러짐을 방지하고 가벼운 허벅지 관절 스트레칭을 2분간 실행합니다.",
+          "en": "Since their long backs make them prone to spinal issues, secure all floor mats under sofas and do a gentle 2-minute thigh and joint stretch in the morning.",
+          "ja": "背中が長くヘルニアになりやすいため、朝にソファの下などの滑り止めマットを確認し、後ろ脚の関節ストレッチを2分間行います。",
+          "zh": "由于身长易患脊椎椎间盘疾病，早晨应确认沙发或床底下的地垫没有滑动，并进行2分钟的后腿轻微拉伸。",
+          "es": "Debido a su larga columna, son propensos a hernias discales. Asegure las alfombras cerca del sofá y realice un estiramiento suave de 2 minutos por la mañana.",
+          "fr": "Leur dos long les rendant sujets aux hernies discales, fixez les tapis près du canapé et faites un étirement doux des cuisses pendant 2 minutes le matin.",
+          "de": "Da ihr langer Rücken sie anfällig für Bandscheibenprobleme macht, sichern Sie alle Bodenmatten und dehnen Sie morgens sanft die Hinterbeine.",
+          "pt": "Como o dorso longo os torna propensos a problemas discais, fixe os tapetes antiderrapantes perto do sofá e faça um alongamento suave nas patas traseiras por 2 minutos.",
+          "id": "Karena punggung yang panjang membuat mereka rentan terhadap masalah cakram tulang belakang, amankan keset lantai dan lakukan peregangan kaki belakang dengan lembut."
+        }
+      },
+      {
+        "name": {
+          "ko": "낮: 하네스 착용 후 평지 위주의 30분 노즈워크 산책",
+          "en": "Afternoon: Flat Terrain Walk with Harness and Nosework",
+          "ja": "昼：ハーネスを着用した平地中心の30分間ノーズワーク散歩",
+          "zh": "中午：佩戴胸背带进行以平地为主的30分钟嗅闻散步",
+          "es": "Tarde: Paseo de 30 minutos en terreno llano con arnés y juegos de olfato",
+          "fr": "Après-midi : Promenade de 30 min sur terrain plat avec harnais et pistage",
+          "de": "Nachmittag: 30-minütiger Spaziergang auf ebenem Gelände mit Geschirr",
+          "pt": "Tarde: Caminhada de 30 minutos em terreno plano com peitoral e nosework",
+          "id": "Siang: Jalan kaki 30 Menit di Medan Datar dengan Harness dan Nosework"
+        },
+        "text": {
+          "ko": "목줄 대신 목과 허리에 무리가 덜 가는 가슴줄(하네스)을 착용하고 경사지나 계단을 피해 평지 위주로 산책하며 야외 노즈워크를 30분 동안 유도합니다.",
+          "en": "Use a body harness instead of a collar to reduce spinal strain. Walk on flat ground to avoid slopes and stairs, allowing 30 minutes of outdoor nosework.",
+          "ja": "首輪の代わりに首や腰への負担が少ないハーネスを使用し、坂道や階段を避けた平地を中心に30分間のノーズワーク散歩を行います。",
+          "zh": "佩戴可减轻颈部和脊椎负担的胸背带代替项圈，避开斜坡或台阶，以平地为主进行30分钟的户外嗅闻散步。",
+          "es": "Use un arnés en lugar de collar para reducir la tensión espinal. Camine en terreno plano evitando pendientes y escaleras, permitiendo 30 minutos de olfateo.",
+          "fr": "Utilisez un harnais corporel plutôt qu'un collier pour réduire la tension sur le dos. Marchez sur terrain plat et évitez les escaliers pendant 30 min.",
+          "de": "Verwenden Sie ein Geschirr anstelle eines Halsbands, um die Wirbelsäule zu schonen. Gehen Sie auf ebenem Gelände spazieren und vermeiden Sie Steigungen.",
+          "pt": "Use peitoral em vez de coleira para reduzir a tensão espinhal. Caminhe em terreno plano, evitando rampas e escadas, permitindo 30 minutos de farejamento.",
+          "id": "Gunakan harness tubuh, bukan kalung leher untuk mengurangi ketegangan tulang belakang. Berjalanlah di tanah datar untuk menghindari tanjakan dan tangga."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 이중모 죽은 털 빗질 및 허리 이완 마사지",
+          "en": "Evening: Undercoat Brushing and Spinal Relaxation Massage",
+          "ja": "夜：二重毛の死毛ブラッシングと腰のリラックスマッサージ",
+          "zh": "晚上：双层毛死毛梳理与脊椎放松按摩",
+          "es": "Noche: Cepillado del manto doble y masaje de relajación espinal",
+          "fr": "Soir : Brossage du sous-poil et massage de relaxation du dos",
+          "de": "Abend: Unterfellbürsten und Massage zur Entspannung der Wirbelsäule",
+          "pt": "Noite: Escovação da pelagem dupla e massagem de relaxamento espinal",
+          "id": "Malam: Menyikat Bulu Mati dan Pijat Relaksasi Tulang Belakang"
+        },
+        "text": {
+          "ko": "이중모의 죽은 털을 제거해 피부 통풍을 돕고, 저녁에는 척추 기립근 주변을 손가락 끝으로 부드럽게 원을 그리듯 쓸어내려 피로를 이완해 줍니다.",
+          "en": "Brush their double coat to remove dead hair for skin health, and gently massage the muscles along their spine in circular motions to relieve fatigue.",
+          "ja": "ダブルコートの死毛を取り除いて皮膚の通気性を保ち、夜には背骨に沿った筋肉を優しくなでて緊張をほぐします。",
+          "zh": "梳理双层毛中的死毛以利于皮肤通风，晚上用指尖在脊椎两侧轻轻画圆按摩，以缓解脊椎肌肉的疲劳。",
+          "es": "Cepille su manto doble para eliminar el pelo muerto y masajee suavemente los músculos de la columna en círculos para aliviar la fatiga.",
+          "fr": "Brossez leur double pelage pour enlever le poil mort et massez doucement les muscles le long de la colonne pour soulager la fatigue.",
+          "de": "Bürsten Sie das doppelte Fell, um totes Haar zu entfernen, und massieren Sie sanft die Wirbelsäulenmuskulatur, um Müdigkeit zu lindern.",
+          "pt": "Escove a pelagem dupla para remover pelos mortos e massageie suavemente os músculos ao longo da coluna para aliviar a fadiga.",
+          "id": "Sikat bulu ganda mereka untuk mengangkat bulu mati, dan pijat lembut otot-otot di sepanjang tulang belakang mereka untuk meredakan kelelahan."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "웰시코기는 왜 침대나 소파에서 점프하면 안 되나요?",
+          "answer": "웰시코기는 긴 허리와 비교해 다리가 매우 짧기 때문에 착지할 때 척추와 무릎에 원형 대비 3배 이상의 큰 하중이 가해집니다. 이는 허리 디스크나 관절 탈구를 직접적으로 유발하므로 펫스텝 설치가 필수적입니다."
+        },
+        {
+          "question": "웰시코기 이중모 털빠짐은 어떻게 대처해야 하나요?",
+          "answer": "웰시코기는 엄청난 양의 털을 배출하는 이중모 견종입니다. 털이 뭉쳐 피부염을 일으키지 않도록 매일 슬리커와 레이크 빗을 교차해 빗질해 주어 공기 순환을 확보해야 합니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "Why shouldn't Corgis jump off beds or sofas?",
+          "answer": "Because of their long backs and short legs, landing from high surfaces puts over three times the normal impact on their spine and knees, directly causing spinal disc issues. Installing pet stairs is essential."
+        },
+        {
+          "question": "How should I manage Welsh Corgi shedding?",
+          "answer": "Corgis have a heavy-shedding double coat. Brush daily with a slicker and undercoat rake to remove trapped dead fur, promote air circulation, and prevent skin infections."
+        }
+      ],
+      "ja": [
+        {
+          "question": "コーギーはなぜベッドやソファから飛び降りてはいけないのですか？",
+          "answer": "コーギーは長い背中に対して脚が非常に短いため、着地時に関節と脊椎に通常の3倍以上の衝撃が加わります。これがヘルニアや脱臼の原因となるため、ペット用階段の設置が必須です。"
+        },
+        {
+          "question": "コーギーの激しい抜け毛にはどう対処すればいいですか？",
+          "answer": "コーギーは抜け毛が多いダブルコートの犬種です。毛が絡まって皮膚炎を起こさないよう、スリッカーとコームで毎日ブラッシングし、通気性を確保してください。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "为什么柯基犬不能从床或沙发上跳下来？",
+          "answer": "柯基犬的长背和短腿特征导致它们着地时脊椎和膝盖承受的冲击力是正常体型的3倍以上，这会直接诱发脊椎疾病或关节脱位。因此，必须安装宠物阶梯。"
+        },
+        {
+          "question": "如何应对柯基犬双层毛的掉毛问题？",
+          "answer": "柯基犬是掉毛量极大的双层毛犬种。为了防止毛发缠结引起皮肤炎，应每天交替使用针梳和开结梳进行梳理，以确保皮肤空气流通。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Por qué los Corgis no deben saltar de camas o sofás?",
+          "answer": "Debido a su espalda larga y patas cortas, el aterrizaje ejerce un impacto tres veces mayor en su columna y rodillas, lo que causa hernias discales. Instalar escaleras para mascotas es esencial."
+        },
+        {
+          "question": "¿Cómo debo manejar la caída de pelo del Welsh Corgi?",
+          "answer": "Los Corgis tienen un manto doble de gran caída. Cepille diariamente con un cepillo slicker y un rastrillo para eliminar el pelo muerto y prevenir problemas en la piel."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Pourquoi les Corgis ne doivent-ils pas sauter des lits ou canapés ?",
+          "answer": "En raison de leur dos long et de leurs pattes courtes, la réception d'un saut exerce un impact trois fois supérieur sur leur dos et leurs genoux, provoquant des hernies. Des escaliers pour chiens sont essentiels."
+        },
+        {
+          "question": "Comment gérer la perte de poils du Welsh Corgi ?",
+          "answer": "Le Corgi a un pelage double qui perd beaucoup de poils. Brossez quotidiennement avec une brosse carde pour enlever le sous-poil mort et éviter les infections de la peau."
+        }
+      ],
+      "de": [
+        {
+          "question": "Warum sollten Corgis nicht von Betten oder Sofas springen?",
+          "answer": "Aufgrund ihres langen Rückens und der kurzen Beine belastet die Landung ihre Wirbelsäule und Knie dreimal so stark, was direkt zu Bandscheibenvorfällen führt. TierTreppen sind unerlässlich."
+        },
+        {
+          "question": "Wie sollte ich den Haarausfall beim Welsh Corgi bewältigen?",
+          "answer": "Corgis haben ein stark haarendes doppeltes Fell. Bürsten Sie täglich mit einer Zupfbürste und einer Unterfellharke, um totes Haar zu entfernen und Hautproblemen vorzubeugen."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Por que os Corgis não devem pular de camas ou sofás?",
+          "answer": "Devido ao dorso longo e patas curtas, a aterrissagem exerce um impacto três vezes maior na coluna e joelhos, causando problemas discais. Instalar escadas para cães é essencial."
+        },
+        {
+          "question": "Como gerenciar a queda de pelos do Welsh Corgi?",
+          "answer": "Os Corgis têm pelagem dupla com forte queda de pelos. Escove diariamente com rasqueadeira e pente de subpelo para remover pelos mortos e evitar dermatites."
+        }
+      ],
+      "id": [
+        {
+          "question": "Mengapa Corgi tidak boleh melompat dari tempat tidur atau sofa?",
+          "answer": "Karena punggung yang panjang dan kaki yang pendek, pendaratan memberi dampak tiga kali lebih besar pada tulang belakang dan lutut mereka, yang menyebabkan masalah cakram. Memasang tangga hewan sangat penting."
+        },
+        {
+          "question": "Bagaimana cara mengatasi kerontokan bulu Welsh Corgi?",
+          "answer": "Corgi memiliki bulu ganda yang rontok parah. Sikat setiap hari dengan slicker dan sisir garu subbuku untuk mengangkat bulu mati dan mencegah infeksi kulit."
+        }
+      ]
+    }
+  },
+  "persian-care": {
+    "title": {
+      "ko": "페르시안 고양이 장모 케어: 모질과 눈물자국 관리를 위한 3단계 루틴",
+      "en": "Persian Cat Longhair Care: A 3-Step Routine for Coat and Tear Stain Management",
+      "ja": "ペルシアン猫の長毛ケア：毛並みと涙やけ管理のための3段階ルーティン",
+      "zh": "波斯猫长毛护理：呵护毛发与眼部泪痕的日常3步惯例",
+      "es": "Cuidado del Gato Persa de Pelo Largo: Rutina de 3 pasos para el pelaje y las manchas de lágrimas",
+      "fr": "Soins du chat Persan à poil long : Routine en 3 étapes pour le pelage et les taches de larmes",
+      "de": "Perserkatzen Langhaarpflege: 3-Schritte-Routine für Fell- und Tränenfleckenmanagement",
+      "pt": "Cuidados com o Gato Persa de Pelo Longo: Rotina de 3 passos para pelagem e manchas de lágrimas",
+      "id": "Perawatan Kucing Persia Bulu Panjang: Rutinitas 3 Langkah untuk Bulu dan Noda Air Mata"
+    },
+    "description": {
+      "ko": "우아한 털을 지닌 페르시안 고양이. 단두종 특유의 눈물로 인한 얼굴 피부염 예방과 풍성한 이중 장모의 엉킴 방지를 위한 3단계 데일리 교감 루틴을 다룹니다.",
+      "en": "Persian cats are known for their elegant coat. Learn a 3-step routine to prevent facial skin infections caused by tears and keep their double coat tangle-free.",
+      "ja": "優雅な毛並みを持つペルシアン。特有の涙による顔の皮膚炎予防と、もつれやすい長毛ケアのための3段階デイリールーティンを紹介します。",
+      "zh": "拥有优雅毛发的波斯猫。介绍一套预防因泪水引起的脸部皮肤炎以及防止双层长毛缠结的日常3步护理惯例。",
+      "es": "Los gatos persas son conocidos por su elegante pelaje. Aprenda una rutina de 3 pasos para prevenir infecciones en la piel de la cara por lágrimas y evitar enredos.",
+      "fr": "Le Persan est connu pour son pelage élégant. Apprenez une routine en 3 étapes pour prévenir les infections de la peau du visage dues aux larmes et éviter les nœuds.",
+      "de": "Perserkatzen sind für ihr elegantes Fell bekannt. Lernen Sie eine 3-Schritte-Routine kennen, um Tränenflecken und Fellverknotungen zu vermeiden.",
+      "pt": "Os gatos persas são conhecidos por sua pelagem elegante. Aprenda uma rotina de 3 passos para evitar dermatites na face causadas por lágrimas e evitar nós no subpelo.",
+      "id": "Kucing Persia dikenal dengan bulunya yang anggun. Pelajari rutinitas 3 langkah untuk mencegah infeksi kulit wajah akibat air mata dan menjaga bulu bebas kusut."
+    },
+    "authority": {
+      "ko": "Cat Fanciers' Association (CFA) 페르시안 가이드 및 AAFP 수의학 지침",
+      "en": "CFA Breed Guidelines for Persians & AAFP Veterinary Standards",
+      "ja": "CFAペルシアン種族ガイド＆AAFP獣医学指針",
+      "zh": "CFA 波斯猫品种指南与 AAFP 兽医学标准",
+      "es": "Directrices de cría de CFA para Persas y normas veterinarias de AAFP",
+      "fr": "Directives d'élevage de la CFA pour les Persans et normes vétérinaires de l'AAFP",
+      "de": "CFA-Perserzuchtrichtlinien und AAFP-Veterinärstandards",
+      "pt": "Diretrizes da CFA para gatos Persas e padrões veterinários da AAFP",
+      "id": "Pedoman Breed CFA untuk Persia & Standar Kedokteran Hewan AAFP"
+    },
+    "profile": {
+      "breed": {
+        "ko": "페르시안 고양이 (Persian Cat)",
+        "en": "Persian Cat",
+        "ja": "ペルシアン猫",
+        "zh": "波斯猫",
+        "es": "Gato Persa",
+        "fr": "Chat Persan",
+        "de": "Perserkatze",
+        "pt": "Gato Persa",
+        "id": "Kucing Persia"
+      },
+      "lifespan": {
+        "ko": "12 ~ 17년",
+        "en": "12 ~ 17 years",
+        "ja": "12 ~ 17年",
+        "zh": "12 ~ 17年",
+        "es": "12 ~ 17 años",
+        "fr": "12 ~ 17 ans",
+        "de": "12 ~ 17 Jahre",
+        "pt": "12 ~ 17 anos",
+        "id": "12 ~ 17 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "15 ~ 18시간 (조용하고 바람 통하는 곳 선호)",
+        "en": "15 ~ 18 hours (prefers quiet, airy spots)",
+        "ja": "15 ~ 18時間（静かで風通しの良い場所）",
+        "zh": "15 ~ 18小时（偏好安静通风处）",
+        "es": "15 ~ 18 horas (prefiere lugares tranquilos y ventilados)",
+        "fr": "15 ~ 18 heures (préfère les coins calmes et aérés)",
+        "de": "15 ~ 18 Stunden (bevorzugt ruhige, luftige Orte)",
+        "pt": "15 ~ 18 horas (prefere locais tranquilos e arejados)",
+        "id": "15 ~ 18 jam (menyukai tempat tenang dan sejuk)"
+      },
+      "temperament": {
+        "ko": "온화함, 조용함, 독립성, 예민함",
+        "en": "Gentle, Quiet, Independent, Sensitive",
+        "ja": "穏やか、静か、独立心、繊細",
+        "zh": "温和、安静、独立、敏感",
+        "es": "Dócil, Silencioso, Independiente, Sensible",
+        "fr": "Doux, Calme, Indépendant, Sensible",
+        "de": "Sanft, Ruhig, Unabhängig, Sensibel",
+        "pt": "Gentil, Quieto, Independente, Sensível",
+        "id": "Lembut, Tenang, Mandiri, Sensitif"
+      }
+    },
+    "intro": {
+      "ko": "풍성한 털과 특유의 동글납작한 얼굴이 귀여운 페르시안 고양이는 성격이 온화하고 차분하여 실내에서 기르기 좋은 대표적인 묘종입니다. 하지만 납작한 단두종 골격 때문에 눈물이 자주 흐르고 코와 눈 주변 주름에 이물질이 끼기 쉽습니다. 또한 촘촘하고 길어 뭉치기 쉬운 이중 장모는 엉켜서 굳어지면 피부를 당겨 큰 통증을 일으키고 공기 순환을 막아 피부염을 일으킵니다. 오늘 PetSelf에서는 페르시안 고양이의 은밀한 안구 및 모질 스트레스 신호를 읽어내고, 이를 일상에서 예방하는 3단계 홈케어 루틴을 공유합니다.",
+      "en": "With their thick coat and flat face, Persian cats are known for their gentle and calm nature. However, their flat facial structure causes excessive tearing, which can lead to bacterial infections in their skin folds. Their dense longhair coat easily tangles, causing pain and stopping air circulation. Today, PetSelf decodes Persian cat eye and coat stress signals and provides a 3-step homecare routine.",
+      "ja": "豊かな毛並みとつぶれた愛らしい顔が特徴のペルシアンは、温厚で落ち着いた性格の猫種です。しかし、短い鼻の構造上、涙が流れやすく、シワの間に汚れが溜まりやすいです。また、もつれやすい長毛は毛玉になると皮膚を引っ張り痛みを伴うため、毎日の管理が必要です。本日、PetSelfではペルシアンの繊細なサインを理解し、日常で目を守る3段階ルーティンを紹介します。",
+      "zh": "波斯猫拥有浓密的毛发和扁平可爱的脸庞，性格温和且安静，是非常适合室内饲养的代表性猫咪。然而，扁平的面部结构导致它们经常流泪，眼鼻周围的褶皱处极易积攒污垢。此外，细密且容易缠结的双层长毛一旦结块，会拉扯皮肤引起剧烈疼痛，并阻碍空气流通导致皮肤炎。今天，PetSelf 将教您如何读懂波斯猫隐秘的眼部与毛发压力信号，并分享日常预防的3步家庭护理惯例。",
+      "es": "Con su espeso pelaje y cara plana, los gatos persas son conocidos por su naturaleza gentil y tranquila. Sin embargo, su estructura facial plana provoca un lagrimeo excesivo que puede derivar en infecciones. Su denso pelaje largo se enreda fácilmente, causando dolor. Hoy, PetSelf decodes sus señales de estrés ocular y del pelaje y proporciona una rutina de 3 pasos.",
+      "fr": "Avec leur pelage épais et leur face aplatie, les chats Persans sont doux et calmes. Cependant, leur structure faciale plate provoque des larmes excessives. Leur pelage long et dense s'emmêle facilement, causant de la douleur et bloquant l'air. Aujourd'hui, PetSelf étudie leurs signaux de stress et propose une routine de soins en 3 étapes.",
+      "de": "Mit ihrem dicken Fell und dem flachen Gesicht sind Perserkatzen für ihr sanftes Wesen bekannt. Ihre flache Gesichtsstruktur führt jedoch zu übermäßigem Tränenfluss, was zu Infektionen führen kann. Ihr dichtes Langhaarfell verknotet leicht, was Schmerzen verursacht. Heute entschlüsselt PetSelf ihre Stresssignale und bietet eine 3-Schritte-Routine.",
+      "pt": "Com sua pelagem densa e face achatada, os Persas são conhecidos por sua natureza dócil e calma. No entanto, sua estrutura facial plana causa lacrimejamento excessivo, levando a dermatites nas dobras da pele. Sua pelagem longa embaraça facilmente, causando dor. Hoje, o PetSelf decodifica os sinais de estresse ocular e de pelagem do Persa e apresenta uma rotina de 3 passos.",
+      "id": "Dengan bulu yang tebal dan wajah rata, kucing Persia dikenal dengan sifatnya yang lembut dan tenang. Namun, struktur wajah mereka yang rata menyebabkan air mata berlebih, yang dapat menyebabkan infeksi. Bulu panjang mereka yang lebat mudah kusut dan menyebabkan rasa sakit. Hari ini, PetSelf menguraikan sinyal stres mata dan bulu Persia serta memberikan rutinitas perawatan 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "페르시안 고양이의 바디 랭귀지: 눈과 귀의 무언가 시그널",
+      "en": "Persian Cat Body Language: Silent Signs from Eyes and Ears",
+      "ja": "ペルシアンのボディランゲージ：目と耳の静かなサイン",
+      "zh": "波斯猫的身体语言：眼与耳的无声信号",
+      "es": "Lenguaje corporal del gato Persa: señales silenciosas de ojos y orejas",
+      "fr": "Langage corporel du Persan : signaux silencieux des yeux et des oreilles",
+      "de": "Körpersprache der Perserkatze: Stille Zeichen von Augen und Ohren",
+      "pt": "Linguagem corporal do gato Persa: sinais silenciosos de olhos e orelhas",
+      "id": "Bahasa Tubuh Kucing Persia: Sinyal Hening dari Mata dan Telinga"
+    },
+    "whyDesc": {
+      "ko": "페르시안 고양이는 조용하고 우아하게 표현하기 때문에 스트레스 상태를 감지하기 어렵습니다. 기분이 좋을 때는 눈을 반쯤 감고 지긋이 바라보는 **'반쯤 감긴 눈'**으로 애정을 표시하지만, 귀가 양옆으로 비스듬히 눕는 **'귀 눕히기(마징가 귀)'**가 보인다면 이는 심각한 거절이나 불편함의 시그널입니다. 특히 얼굴 주변 빗질을 서두르거나 눈가 주름 부위를 거칠게 만질 때 이러한 몸짓을 흔히 보입니다.",
+      "en": "Because Persians express emotions quietly, detecting stress can be difficult. While they show affection through **'half-closed eyes'** (blinking slowly), **'airplane ears'** (ears turned sideways) signal discomfort or annoyance. This is commonly observed when brushing is done too quickly or their face is touched roughly.",
+      "ja": "ペルシアンは感情を静かに表現するため、ストレスに気づきにくいです。愛しい時は目を細めて見つめる**「半目のサイン」**を出しますが、耳が横に倒れる**「イカ耳」**は不快感や拒否のサインです。顔まわりのブラッシングを急いだり、荒く触った時にこのサインが現れます。",
+      "zh": "波斯猫表达情感非常安静，因此很难察觉其压力状态。虽然它们在心情好时会用半眯着眼凝视（Blinking slowly）的方式表达爱意，但如果出现双耳向两侧平躺的“飞机耳”，则是严重的拒绝或不适信号。在急躁地梳理其面部毛发或粗暴触碰眼周褶皱时，常常能看到这种身体动作。",
+      "es": "Dado que los Persas expresan sus emociones en silencio, detectar el estrés puede ser difícil. Muestran afecto a través de **'ojos semicerrados'**, pero las **'orejas de avión'** (orejas hacia los lados) indican incomodidad. Se observa comúnmente si el cepillado es brusco.",
+      "fr": "Comme les Persans s'expriment calmement, le stress est difficile à détecter. S'ils montrent de l'affection par des **'yeux mi-clos'**, les **'oreilles en avion'** (tournées sur le côté) indiquent l'inconfort. Cela se produit souvent si le brossage est trop rapide.",
+      "de": "Da Perser ihre Gefühle leise ausdrücken, ist Stress schwer zu erkennen. Während sie Zuneigung durch **'halbgeschlossene Augen'** zeigen, signalisieren **'Flugzeugohren'** (zur Seite gedrehte Ohren) Unbehagen. Dies wird häufig bei zu schnellem Bürsten beobachtet.",
+      "pt": "Como os Persas expressam emoções silenciosamente, detectar o estresse pode ser difícil. Demonstram afeto através de **'olhos semicerrados'**, mas **'orelhas de avião'** (orelhas viradas para os lados) sinalizam desconforto. Comum ao escovar a face de forma brusca.",
+      "id": "Karena Persia mengekspresikan emosi dengan tenang, mendeteksi stres bisa jadi sulit. Meskipun mereka menunjukkan kasih sayang melalui **'mata setengah tertutup'**, **'telinga pesawat'** (telinga menoleh ke samping) menandakan ketidaknyamanan. Hal ini biasa terjadi saat menyikat terlalu cepat."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "반쯤 감긴 눈 (Half-Closed Eyes)",
+          "en": "Half-Closed Eyes",
+          "ja": "半目のサイン (Half-Closed Eyes)",
+          "zh": "半眯着眼 (Half-Closed Eyes)",
+          "es": "Ojos semicerrados",
+          "fr": "Yeux mi-clos",
+          "de": "Halbgeschlossene Augen",
+          "pt": "Olhos semicerrados",
+          "id": "Mata Setengah Tertutup"
+        },
+        "meaning": {
+          "ko": "보호자에 대한 깊은 신뢰와 현재 상태가 대단히 만족스럽고 편안하다는 평화적 메시지입니다.",
+          "en": "A peaceful message indicating deep trust in the owner and a highly satisfied, comfortable state.",
+          "ja": "飼い主への深い信頼と、現在の環境が非常に満足でリラックスしているというメッセージです。",
+          "zh": "对家长深切的信任，以及表达对当前状态非常满意和放松的和平信息。",
+          "es": "Mensaje pacífico de confianza en el dueño y un estado cómodo de satisfacción.",
+          "fr": "Un signal de paix indiquant une grande confiance et un état de confort et de satisfaction.",
+          "de": "Eine friedliche Botschaft, die tiefes Vertrauen zeigt und einen sehr zufriedenen Zustand anzeigt.",
+          "pt": "Uma mensagem pacífica que indica profunda confiança no tutor e um estado de conforto e satisfação.",
+          "id": "Pesan damai yang menunjukkan kepercayaan mendalam pada pemilik dan keadaan yang sangat nyaman."
+        },
+        "response": {
+          "ko": "마주 보며 눈을 천천히 감았다가 뜨며(눈인사) 따뜻한 목소리로 신뢰에 화답해 주세요.",
+          "en": "Respond by blinking slowly at them in return and talking to them in a calm, soothing voice.",
+          "ja": "目をゆっくり閉じて開ける（キャットインク）で返し、優しい声で応えてあげてください。",
+          "zh": "通过缓慢眨眼（猫咪式眼部问候）进行回应，并用温柔的声音回应这份信任。",
+          "es": "Responda parpadeando lentamente y hablándoles con una voz suave y tranquila.",
+          "fr": "Répondez en clignant lentement des yeux en retour et parlez-lui d'une voix douce.",
+          "de": "Antworten Sie, indem Sie langsam blinzeln, und sprechen Sie mit ruhiger, sanfter Stimme.",
+          "pt": "Responda piscando lentamente para eles e falando com uma voz calma e carinhosa.",
+          "id": "Balas dengan berkedip perlahan ke arah mereka dan berbicaralah dengan suara yang menenangkan."
+        }
+      },
+      {
+        "name": {
+          "ko": "귀 눕히기 (Airplane Ears)",
+          "en": "Airplane Ears",
+          "ja": "イカ耳 (Airplane Ears)",
+          "zh": "飞机耳 (Airplane Ears)",
+          "es": "Orejas de avión",
+          "fr": "Oreilles en avion",
+          "de": "Flugzeugohren",
+          "pt": "Orelhas de avião",
+          "id": "Telinga Pesawat"
+        },
+        "meaning": {
+          "ko": "과도한 빗질로 모근이 당겨 통증을 느끼거나 주위 소음에 긴장해 예민해진 불편함의 표현입니다.",
+          "en": "An expression of discomfort caused by fur pulling during brushing or tension from surrounding noise.",
+          "ja": "ブラッシングで毛根が引っ張られて痛むか、周囲の騒音に緊張している不快感の表れです.",
+          "zh": "因过度梳理拉扯毛根引起疼痛，或因周围噪音感到紧张、敏感的不适表达。",
+          "es": "Expresión de incomodidad por tirones de pelo durante el cepillado o tensión por el ruido ambiental.",
+          "fr": "Une expression d'inconfort causée par les tiraillements du brossage ou la tension due au bruit.",
+          "de": "Ein Ausdruck des Unbehagens, der durch Ziehen an den Haarwurzeln oder Lärm verursacht wird.",
+          "pt": "Expressão de desconforto por puxões nos pelos durante a escovação ou estresse com ruído externo.",
+          "id": "Ekspresi ketidaknyamanan akibat rambut tertarik saat disikat atau ketegangan akibat kebisingan sekitar."
+        },
+        "response": {
+          "ko": "즉시 빗질이나 터치를 멈추고 고양이가 소음이나 방해 없이 안정을 취할 수 있게 거리를 확보하세요.",
+          "en": "Immediately stop brushing or touching and give the cat space to calm down in a quiet spot.",
+          "ja": "すぐにブラッシングや接触を中止し、静かな場所で落ち着くまで距離を置いてください。",
+          "zh": "应立即停止梳毛或触碰，给猫咪留出空间，让其在没有噪音和打扰的地方恢复平静。",
+          "es": "Detenga el cepillado de inmediato y dé espacio al gato en un lugar tranquilo.",
+          "fr": "Arrêtez immédiatement de brosser ou de toucher le chat et laissez-le se calmer au calme.",
+          "de": "Hören Sie sofort auf zu bürsten und geben Sie der Katze an einem ruhigen Ort Freiraum.",
+          "pt": "Pare a escovação imediatamente e dê espaço para o gato se acalmar em um local tranquilo.",
+          "id": "Segera hentikan menyikat atau menyentuh dan beri ruang bagi kucing untuk tenang di tempat sepi."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 단두종 눈가 주름 세정 및 눈물자국 닦아주기",
+          "en": "Morning: Facial Fold Cleaning and Tear Stain Management",
+          "ja": "朝：顔のシワの洗浄と涙やけの拭き取り",
+          "zh": "早晨：扁脸眼鼻褶皱清洁与泪痕擦拭",
+          "es": "Mañana: Limpieza de pliegues faciales y control de lágrimas",
+          "fr": "Matin : Nettoyage des plis du visage et des taches de larmes",
+          "de": "Morgen: Reinigung der Gesichtsfalten und Tränenfleckenpflege",
+          "pt": "Manhã: Limpeza das dobras faciais e cuidado com lágrimas",
+          "id": "Pagi: Pembersihan Lipatan Wajah dan Penanganan Noda Air Mata"
+        },
+        "text": {
+          "ko": "눈물이 나기 쉬운 아침 시간에 미지근한 전용 세정액이나 멸균 거즈로 코 주변 안면 주름을 닦아주어 눈물로 인한 붉은 효모 피부염을 사전에 예방합니다.",
+          "en": "In the morning, gently clean their facial folds and under-eye area with warm saline or a veterinary tear wipe to prevent red yeast dermatitis.",
+          "ja": "涙の出やすい朝に、専用の洗浄液か滅菌ガーゼで目の周りや鼻のシワを拭き取り、赤みや皮膚炎を予防します。",
+          "zh": "在早晨易流泪的时间段，使用温水浸湿的专用清洁液或无菌纱布轻轻擦拭鼻部周围的面部褶皱，以预防泪水引起的红色酵母菌皮肤炎。",
+          "es": "Por la mañana, limpie suavemente los pliegues faciales con gasa estéril y solución templada para prevenir dermatitis por levaduras.",
+          "fr": "Le matin, nettoyez doucement les plis du visage avec une compresse stérile humide pour prévenir la dermatite.",
+          "de": "Reinigen Sie morgens die Gesichtsfalten unter den Augen mit steriler Gaze und milder Reinigungslösung, um Dermatitis vorzubeugen.",
+          "pt": "Pela manhã, limpe as dobras da pele ao redor da face com gaze estéril e loção própria para evitar dermatites causadas pelas lágrimas.",
+          "id": "Di pagi hari, bersihkan lipatan wajah dan area bawah mata secara lembut dengan kasa steril untuk mencegah dermatitis ragi merah."
+        }
+      },
+      {
+        "name": {
+          "ko": "낮: 일자빗과 슬리커를 혼용한 장모 빗질",
+          "en": "Afternoon: Dual Brushing with Slicker and Steel Comb",
+          "ja": "昼：コームとスリッカーを併用した長毛ブラッシング",
+          "zh": "中午：排梳与针梳结合的长毛梳理",
+          "es": "Tarde: Cepillado doble con cepillo slicker y peine metálico",
+          "fr": "Après-midi : Double brossage avec brosse carde et peigne en métal",
+          "de": "Nachmittag: Fellpflege mit Zupfbürste und Metallkamm",
+          "pt": "Tarde: Escovação dupla com rasqueadeira e pente de aço",
+          "id": "Siang: Menyikat Bulu Panjang dengan Slicker dan Sisir Besi"
+        },
+        "text": {
+          "ko": "풍성한 장모가 엉키기 쉬운 겨드랑이, 배 주위를 먼저 슬리커로 빗어 털뭉치를 풀고 철제 일자 빗으로 전체 모질을 한 올씩 정리하여 통풍 상태를 확인합니다.",
+          "en": "Focus on high-friction areas like armpits and belly. Use a slicker brush first to detangle undercoat knots, then use a steel comb to align and check skin aeration.",
+          "ja": "もつれやすい脇や腹の毛をスリッカーでほぐした後、スチールコームで毛並みを整え、風通しが良い状態を確認します。",
+          "zh": "对于容易缠结的腋下和腹部等区域，首先使用针梳将毛团梳开，再使用钢制排梳将整体毛发梳顺，以检查空气流通状态。",
+          "es": "Enfoque en áreas propensas a enredos como axilas y vientre. Use una carda primero y luego un peine de acero para alinear el pelo y ventilar la piel.",
+          "fr": "Ciblez les zones sujettes aux nœuds (aisselles et ventre). Utilisez d'abord une brosse carde, puis un peigne en métal pour aligner le poil.",
+          "de": "Pflegen Sie verfilzungsanfällige Zonen wie Achseln und Bauch. Erst mit Zupfbürste entwirren, dann mit Metallkamm glätten und Belüftung prüfen.",
+          "pt": "Concentre-se em áreas de fricção como axilas e abdômen. Use primeiro a rasqueadeira para desfazer nós, depois o pente de aço para alinhar os pelos.",
+          "id": "Fokus pada area yang mudah kusut seperti ketiak dan perut. Gunakan slicker untuk mengurai kusut, lalu gunakan sisir besi untuk merapikan bulu."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 헤어볼 예방 영양제 배급 및 순환 급수기 점검",
+          "en": "Evening: Hairball Remedy and Water Fountain Check",
+          "ja": "夜：ヘアボール予防サプリの給与と循環式給水器の点検",
+          "zh": "晚上：防毛球营养剂喂食与循环饮水机检查",
+          "es": "Noche: Suplemento para bolas de pelo y control del bebedero de fuente",
+          "fr": "Soir : Supplément anti-boules de poils et contrôle de la fontaine à eau",
+          "de": "Abend: Gabe von Malzpaste und Kontrolle des Trinkbrunnens",
+          "pt": "Noite: Suplemento para bola de pelo e inspeção da fonte de água",
+          "id": "Malam: Pemberian Obat Hairball dan Pemeriksaan Dispenser Air"
+        },
+        "text": {
+          "ko": "그루밍 중 삼킨 털이 축적되어 장폐색을 유발하지 않도록 저녁에는 헤어볼 배출 영양제를 급여하고, 충분한 음수를 유도하기 위해 급수 필터 상태를 확인합니다.",
+          "en": "Give hairball paste to prevent intestinal blockage from swallowed hair, and inspect their water fountain to encourage proper hydration.",
+          "ja": "毛玉が胃腸に詰まって閉塞を起こさないよう、夜にヘアボール排出サプリを与え, 給水器のフィルターを確認して水を補給します。",
+          "zh": "为了防止梳理时吞下的毛发堆积引起肠梗阻，晚上应喂食化毛膏，并检查循环饮水机的过滤状态，以引导其饮用充足的水。",
+          "es": "Administre pasta para bolas de pelo para evitar obstrucciones digestivas e inspeccione la fuente de agua para animarle a beber.",
+          "fr": "Donnez de la pâte anti-boules de poils pour éviter l'occlusion, et inspectez la fontaine à eau pour l'encourager à s'hydrater.",
+          "de": "Geben Sie Malzpaste zur Vorbeugung von Haarballen und überprüfen Sie den Trinkbrunnen, um eine gute Wasseraufnahme zu sichern.",
+          "pt": "Forneça pasta para bolas de pelo para evitar obstruções digestivas e verifique a fonte de água para incentivar o consumo de líquidos.",
+          "id": "Berikan pasta hairball untuk mencegah penyumbatan usus akibat bulu yang tertelan, dan periksa dispenser air untuk mendorong hidrasi."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "페르시안 고양이는 빗질을 며칠만 걸러도 왜 안 되나요?",
+          "answer": "페르시안의 모질은 얇고 길며 촘촘해 2~3일만 빗질을 소홀히 해도 뭉쳐 털판이 됩니다. 이는 피부가 당기는 통증을 일으키고 결국 털을 삭발해야 하므로 매일 빗질이 필수입니다."
+        },
+        {
+          "question": "단두종 고양이의 주름 관리는 왜 중요한가요?",
+          "answer": "얼굴이 납작한 페르시안은 코 주변에 주름이 깊게 생깁니다. 여기에 눈물이 고이면 산소 공급이 막히고 박테리아와 효모균이 번식해 악취와 피부 괴사성 염증을 유발할 수 있습니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "Why is skipping grooming for even a few days harmful to Persians?",
+          "answer": "Persian fur is thin, long, and dense. Skipping brushing for 2-3 days causes severe matting. Matts pull on the skin, causing pain and requiring shaving."
+        },
+        {
+          "question": "Why is fold management crucial for brachycephalic cats?",
+          "answer": "Flatted-faced cats have deep folds around the nose. Trapped tears block oxygen, leading to red yeast and bacterial infections, causing bad odor and skin irritation."
+        }
+      ],
+      "ja": [
+        {
+          "question": "ペルシアン猫はなぜ数日ブラッシングを怠るだけでダメなのですか？",
+          "answer": "ペルシアンの毛は細く長いため、2〜3日ブラッシングを怠るとすぐに絡まってしまいます。これが皮膚を引っ張る痛みを引き起こし、最終的に丸刈りが必要になるため毎日の梳きが必要です。"
+        },
+        {
+          "question": "つぶれ顔の猫のシワ管理が重要なのはなぜですか？",
+          "answer": "顔が平らなペルシアンは鼻の周りのシワが深いです。ここに涙が溜まると細菌や酵母菌が繁殖し、悪臭や皮膚炎の原因となります。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "为什么波斯猫即使只停几天不梳毛也不行？",
+          "answer": "波斯猫的毛发细长且浓密，只要疏忽梳理2~3天就会结成硬毛块。这会拉扯皮肤引起疼痛，最终只能被迫剃光毛发，因此每天梳毛是必须的。"
+        },
+        {
+          "question": "为什么扁脸猫的褶皱护理如此重要？",
+          "answer": "扁脸波斯猫的鼻部周围有深深的褶皱。如果泪水在此积聚，会阻断氧气，滋生细菌和酵母菌，从而导致异味和皮肤坏死性发炎。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Por qué saltarse el cepillado aunque sea unos días daña al Persa?",
+          "answer": "El pelo del Persa es fino y denso. Dejar de cepillar por 2-3 días causa enredos graves que tiran de la piel, causando dolor y obligando a rapar."
+        },
+        {
+          "question": "¿Por qué es crucial el cuidado de pliegues en gatos braquicéfalos?",
+          "answer": "Los gatos de cara plana tienen pliegues profundos. Las lágrimas atrapadas bloquean el oxígeno, facilitando infecciones bacterianas, mal olor e irritación."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Pourquoi négliger le brossage même quelques jours est-il nocif pour le Persan ?",
+          "answer": "Le poil du Persan est fin et dense. S'arrêter 2-3 jours provoque des nœuds serrés qui tirent sur la peau, créant de la douleur et obligeant à tondre."
+        },
+        {
+          "question": "Pourquoi le soin des plis faciaux est-il vital pour les chats au nez écrasé ?",
+          "answer": "Les chats à face plate ont des plis profonds près du nez. Les larmes stagnantes favorisent les bactéries et levures, causant des odeurs et infections."
+        }
+      ],
+      "de": [
+        {
+          "question": "Warum ist das Auslassen der Fellpflege selbst für wenige Tage schädlich?",
+          "answer": "Das Perserfell ist fein und dicht. Das Auslassen des Bürstens für 2-3 Tage führt zu Verfilzungen. Diese ziehen an der Haut und zwingen zum Scheren."
+        },
+        {
+          "question": "Warum ist die Faltenpflege bei kurzköpfigen Katzen so wichtig?",
+          "answer": "Katzen mit flachem Gesicht haben tiefe Falten um die Nase. Angestaute Tränen blockieren Sauerstoff und führen zu Bakterien- und Hefeinfektionen."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Por que não escovar o Persa por alguns dias pode ser prejudicial?",
+          "answer": "A pelagem do Persa é fina e densa. Deixar de escovar por 2-3 dias causa nós graves que puxam a pele, causando dor e obrigando a tosa total."
+        },
+        {
+          "question": "Por que o cuidado das dobras da pele é vital para gatos braquicefálicos?",
+          "answer": "Gatos de focinho achatado têm dobras profundas na face. Lágrimas acumuladas facilitam infecções por leveduras e bactérias, causando mau cheiro."
+        }
+      ],
+      "id": [
+        {
+          "question": "Mengapa tidak menyikat bulu kucing Persia beberapa hari saja sangat merugikan?",
+          "answer": "Bulu Persia tipis dan lebat. Melewatkan menyikat 2-3 hari menyebabkan kusut parah yang menarik kulit, menyebabkan rasa sakit dan harus dicukur."
+        },
+        {
+          "question": "Mengapa perawatan lipatan kulit sangat penting bagi kucing berwajah rata?",
+          "answer": "Kucing berwajah rata memiliki lipatan dalam di sekitar hidung. Air mata yang terperangkap memicu infeksi bakteri dan ragi, menyebabkan bau tidak sedap."
+        }
+      ]
+    }
+  },
+  "beagle-care": {
+    "title": {
+      "ko": "비글의 폭발적 에너지 케어: 분리불안 완화와 귓병 예방 3단계 루틴",
+      "en": "Beagle Energy and Anxiety Care: A 3-Step Routine for Separation Anxiety and Ear Health",
+      "ja": "ビーグルの活発なエネルギーケア：分離不安緩和と耳病予防の3段階ルーティン",
+      "zh": "比格犬的精力与焦虑护理：缓解分离焦虑与预防耳病的日常3步惯例",
+      "es": "Cuidado de la Energía y Ansiedad del Beagle: Rutina de 3 pasos para la ansiedad por separación y salud de oídos",
+      "fr": "Soins du Beagle (Énergie et Anxiété) : Routine en 3 étapes pour l'anxiété de séparation et les oreilles",
+      "de": "Beagle Energie- und Angstpflege: 3-Schritte-Routine bei Trennungsangst und für Ohrengesundheit",
+      "pt": "Cuidado da Energia e Ansiedade do Beagle: Rotina de 3 passos para ansiedade de separação e saúde das orelhas",
+      "id": "Perawatan Energi dan Kecemasan Beagle: Rutinitas 3 Langkah untuk Kecemasan Perpisahan dan Telinga"
+    },
+    "description": {
+      "ko": "사냥개 혈통으로 호기심과 운동량이 강한 비글. 넘치는 에너지를 충족시켜 분리불안을 극복하고 덮여있는 귀의 환기를 돕는 3단계 노즈워크 케어를 다룹니다.",
+      "en": "Beagles are highly curious hunting dogs with massive energy. Learn a 3-step routine to fulfill their sniff drive, reduce anxiety, and prevent ear infections.",
+      "ja": "狩猟犬の血を引くビーグルは好奇心と運動量が活発です。エネルギーを消費して分離不安を克服し、垂れ耳の衛生を保つ3段階ルーティンを紹介します。",
+      "zh": "拥有猎犬血统、充满好奇心和运动量的比格犬。介绍一套满足其嗅觉需求以缓解分离焦虑，并保持垂耳卫生的日常3步护理惯例。",
+      "es": "Los Beagles son perros de caza muy curiosos con gran energía. Conozca una rutina de 3 pasos para saciar su olfato, reducir la ansiedad y prevenir infecciones de oído.",
+      "fr": "Le Beagle est un chien de chasse curieux avec une grande énergie. Apprenez une routine en 3 étapes pour combler son besoin de flairer, réduire l'anxiété et soigner ses oreilles.",
+      "de": "Beagles sind neugierige Jagdhunde mit viel Energie. Lernen Sie eine 3-Schritte-Routine kennen, um ihren Schnüffeltrieb zu stillen, Angst zu lindern und Ohrenentzündungen vorzubeugen.",
+      "pt": "Os Beagles são cães de caça curiosos e enérgicos. Conheça uma rotina de 3 passos para satisfazer o olfato, reduzir a ansiedade e evitar infecções nas orelhas.",
+      "id": "Beagle adalah anjing pemburu yang sangat ingin tahu dengan energi besar. Pelajari rutinitas 3 langkah untuk memenuhi insting mengendus, meredakan kecemasan, dan merawat telinga."
+    },
+    "authority": {
+      "ko": "American Kennel Club (AKC) 비글 가이드 및 IAABC 노즈워크 행동 프로토콜",
+      "en": "Official AKC Breed Manual for Beagles & IAABC Nosework Protocols",
+      "ja": "AKCビーグルガイド＆IAABCノーズワーク行動プロトコル",
+      "zh": "AKC 比格犬官方指南与 IAABC 嗅闻行为协议",
+      "es": "Manual oficial de razas de AKC para Beagles y protocolos de olfato de IAABC",
+      "fr": "Manuel officiel de l'AKC pour le Beagle et protocoles de pistage de l'IAABC",
+      "de": "Offizielles AKC-Beagle-Handbuch und IAABC-Schnüffelprotokolle",
+      "pt": "Manual de raças do AKC para Beagles e protocolos de nosework da IAABC",
+      "id": "Manual Ras Resmi AKC untuk Beagle & Protokol Nosework IAABC"
+    },
+    "profile": {
+      "breed": {
+        "ko": "비글 (Beagle)",
+        "en": "Beagle",
+        "ja": "ビーグル",
+        "zh": "比格犬",
+        "es": "Beagle",
+        "fr": "Beagle",
+        "de": "Beagle",
+        "pt": "Beagle",
+        "id": "Beagle"
+      },
+      "lifespan": {
+        "ko": "12 ~ 15년",
+        "en": "12 ~ 15 years",
+        "ja": "12 ~ 15年",
+        "zh": "12 ~ 15年",
+        "es": "12 ~ 15 años",
+        "fr": "12 ~ 15 ans",
+        "de": "12 ~ 15 Jahre",
+        "pt": "12 ~ 15 anos",
+        "id": "12 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "10 ~ 12시간 (야외 활동 동조형)",
+        "en": "10 ~ 12 hours (synchronized with outdoors)",
+        "ja": "10 ~ 12時間（屋外の活動と同調）",
+        "zh": "10 ~ 12小时（与户外活动同步）",
+        "es": "10 ~ 12 horas (sincronizado con el exterior)",
+        "fr": "10 ~ 12 heures (synchronisé avec l'extérieur)",
+        "de": "10 ~ 12 Stunden (aktivitätsbezogen)",
+        "pt": "10 ~ 12 horas (sincronizado com o exterior)",
+        "id": "10 ~ 12 jam (sinkron dengan luar ruangan)"
+      },
+      "temperament": {
+        "ko": "온순함, 호기심 강함, 고집스러움, 다정함",
+        "en": "Friendly, Curious, Stubborn, Affectionate",
+        "ja": "フレンドリー、好奇心旺盛、頑固、甘えん坊",
+        "zh": "友善、好奇心强、固执、温顺",
+        "es": "Amigable, Curioso, Obstinado, Afectuoso",
+        "fr": "Amical, Curieux, Têtu, Affectueux",
+        "de": "Freundlich, Neugierig, Eigensinnig, Anhänglich",
+        "pt": "Amigável, Curioso, Teimoso, Afectuoso",
+        "id": "Ramah, Ingin Tahu, Keras Kepala, Penuh Kasih Sayang"
+      }
+    },
+    "intro": {
+      "ko": "귀엽고 처진 커다란 귀와 늘 쾌활하게 흔들리는 하얀 꼬리 팁이 매력적인 비글은 인간과 수세기 동안 함께 활동해 온 사냥개(하운드) 출신입니다. 뛰어난 친화력으로 누구와도 잘 지내지만, 타고난 호기심과 엄청난 후각 집착력을 가지고 있습니다. 이 에너지를 해소해 주지 못하면 하울링을 하거나 집안 가구를 파괴하는 등 분리불안 증상을 보이기 쉽습니다. 또한 축 늘어진 커다란 귀는 내부가 습해 곰팡이성 외이염에 취약합니다. 오늘 PetSelf에서는 비글의 독특한 추적 행동 및 불안 신호를 진단하고, 후각 본능 해소와 귀 건강을 잡는 3단계 데일리 루틴을 알려드립니다.",
+      "en": "With their cute floppy ears and happy white-tipped tail, Beagles are historic scent hounds. While friendly, they have high curiosity and a powerful drive to track scents. Without proper outlet, they can develop separation anxiety, leading to howling and destructive behavior. Additionally, their long floppy ears trap moisture, making them prone to yeast infections. Today, PetSelf decodes Beagle tracking and anxiety signals, and introduces a 3-step care routine.",
+      "ja": "大きな垂れ耳と常に陽気に揺れる白い尻尾の先が魅力のビーグルは、狩猟犬（ハウンド）出身です。非常に人懐っこいですが、強い好奇心と高い嗅覚執着を持っています。このエネルギーを解消できないと、遠吠えや家具を噛むなどの分離不安行動を起こしやすいです。また、垂れた耳は通気性が悪く外耳炎になりやすいです。本日、PetSelfではビーグルの本能と不安信号を理解し、健康を守る3段階ルーティンを紹介します。",
+      "zh": "比格犬拥有可爱耷拉的大耳朵和总是欢快摇摆的白尾尖，起源于与人类共同工作了几个世纪的猎犬（猎兔犬）。虽然它们极为友善，但具有天生的好奇心和强烈的嗅觉执着。如果这股精力无法得到宣泄，很容易表现出嚎叫或破坏家具等分离焦虑症状。此外，耷拉的大耳朵内部潮湿，极易患霉菌性外耳炎。今天，PetSelf 将教您如何读懂比格犬特有的追踪行为及焦虑信号，并提供满足嗅觉本能和保护耳朵健康的3步日常护理惯例。",
+      "es": "Con sus orejas caídas y cola alegre, los Beagles son sabuesos históricos. Aunque amigables, tienen una gran curiosidad y un fuerte impulso de rastreo. Sin el ejercicio adecuado, pueden desarrollar ansiedad por separación, aullando o rompiendo muebles. Sus orejas caídas atrapan humedad, facilitando infecciones. Hoy, PetSelf descifra sus señales y presenta una rutina de 3 pasos.",
+      "fr": "Avec ses grandes oreilles tombantes et sa queue joyeuse, le Beagle est un chien de chasse historique. Bien qu'amical, il est curieux et obsédé par les odeurs. Sans activité, il développe de l'anxiété (hurlements, destructions). De plus, ses oreilles tombantes gardent l'humidité, favorisant les otites. Aujourd'hui, PetSelf propose une routine en 3 étapes.",
+      "de": "Mit ihren großen Schlappohren und der fröhlichen Rute sind Beagles historische Jagdhunde. Sie sind zwar freundlich, haben aber eine ausgeprägte Neugier und einen starken Schnüffeltrieb. Ohne Auslastung entwickeln sie Trennungsangst (Jaulen, Zerstörung). Zudem sind ihre Schlappohren anfällig für Ohrenentzündungen. Heute stellt PetSelf eine 3-Schritte-Routine vor.",
+      "pt": "Com suas orelhas caídas e cauda alegre, os Beagles são históricos cães de caça. Embora amigáveis, têm grande curiosidade e fixação por rastrear odores. Sem o gasto dessa energia, podem desenvolver ansiedade de separação, uivando ou roendo móveis. Suas orelhas compridas retêm umidade, facilitando infecções. Hoje, o PetSelf apresenta uma rotina de 3 passos.",
+      "id": "Dengan telinga terkulai yang lucu dan ekor ceria, Beagle adalah anjing pemburu aroma historis. Meskipun ramah, mereka memiliki rasa ingin tahu yang tinggi dan dorongan kuat untuk melacak bau. Tanpa penyaluran yang tepat, mereka dapat mengalami kecemasan perpisahan, melolong atau merusak furnitur. Telinga terkulai mereka rentan terhadap infeksi telinga. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "비글의 바디 랭귀지: 추적 본능과 하울링의 의미",
+      "en": "Beagle Body Language: Tracking Instinct and Meaning of Howling",
+      "ja": "ビーグルのボディランゲージ：追跡本能と遠吠えの意味",
+      "zh": "比格犬的身体语言：追踪本能与嚎叫的含义",
+      "es": "Lenguaje corporal del Beagle: instinto de rastreo y significado de aullidos",
+      "fr": "Langage corporel du Beagle : instinct de pistage et hurlements",
+      "de": "Körpersprache des Beagles: Schnüffeltrieb und Bedeutung des Jaulens",
+      "pt": "Linguagem corporal do Beagle: instinto de rastreamento e significado de uivos",
+      "id": "Bahasa Tubuh Beagle: Insting Melacak dan Makna Melolong"
+    },
+    "whyDesc": {
+      "ko": "비글은 후각에 극도로 집중할 때 **'코를 땅에 대고 직진하기(Tracking)'** 행동을 보이며 주변 소리를 차단합니다. 이는 본능적인 자극 해소 단계입니다. 반면에 주인이 없을 때나 외로움을 느낄 때 나타내는 **'하울링'**은 전형적인 분리불안과 스트레스의 표현입니다. 이 두 신호를 정확히 감지해 주는 것이 비글을 활기차고 차분한 상태로 관리하는 비결입니다.",
+      "en": "When focused on scent, Beagles show **'tracking'** behavior, ignoring surrounding sounds. This is their natural instinct. Conversely, **'howling'** when alone is a typical sign of separation anxiety and distress. Understanding these two signals is key to keeping Beagles healthy and calm.",
+      "ja": "ビーグルは嗅覚に集中する際、**「追跡行動（Tracking）」**を行い、周りの音を聞かなくなります。これは本能的な刺激解消のプロセスです。一方、留守中や孤独を感じる時の**「遠吠え（Howling）」**は、分離不安とストレスの表現です。これらを理解することが健康の秘訣です。",
+      "zh": "比格犬在极度专注于嗅觉时，表现出**“将鼻子贴在地上直行（Tracking）”**的行为，并会忽略周围的声音。这是本能的自驱宣泄阶段。相反，在家长不在或感到孤独时表现出的**“嚎叫”**则是典型的心里焦虑与压力的体现。准确捕捉这两个信号，是让比格犬保持活泼且情绪稳定的秘诀。",
+      "es": "Cuando se concentran en el olor, los Beagles muestran un comportamiento de **'rastreo'**, ignorando su entorno. Por el contrario, el **'aullido'** cuando están solos es un signo de ansiedad por separación. Entender estas dos señales es clave para mantenerlos tranquilos.",
+      "fr": "Lorsqu'il suit une piste, le Beagle montre un comportement de **'pistage'** en ignorant son entourage. En revanche, le **'hurlement'** quand il est seul est un signe d'anxiété. Comprendre ces deux signaux est essentiel pour maintenir son équilibre.",
+      "de": "Wenn sie sich auf Düfte konzentrieren, zeigen Beagles ein **'Schnüffelverhalten'** und ignorieren ihre Umgebung. Dagegen ist das **'Jaulen'** bei Einsamkeit ein Zeichen von Trennungsangst. Das Verständnis dieser Signale ist der Schlüssel zu ihrer Beruhigung.",
+      "pt": "Ao focar em odores, os Beagles mostram comportamento de **'rastreamento'**, ignorando o redor. Por outro lado, o **'uivo'** quando sozinhos é um sinal de ansiedade de separação. Compreender esses dois sinais é a chave para mantê-los equilibrados.",
+      "id": "Saat fokus pada bau, Beagle menunjukkan perilaku **'melacak'**, mengabaikan sekitarnya. Sebaliknya, **'melolong'** saat sendirian adalah tanda kecemasan perpisahan. Memahami kedua sinyal ini adalah kunci untuk menjaga mereka tetap tenang."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "코 대고 직진하기 (Tracking)",
+          "en": "Tracking",
+          "ja": "追跡行動 (Tracking)",
+          "zh": "追踪行为 (Tracking)",
+          "es": "Rastreo",
+          "fr": "Pistage",
+          "de": "Schnüffeltrieb",
+          "pt": "Rastreamento",
+          "id": "Melacak"
+        },
+        "meaning": {
+          "ko": "주변 냄새 분자를 통해 세상을 탐색하고 사냥 에너지를 발산하고 있는 정상적 흥분 상태입니다.",
+          "en": "A normal state of excitement as they explore the world and burn hunting energy through scents.",
+          "ja": "周囲のにおいを通じて世界を探索し、狩猟本能を解消している正常な興奮状態です。",
+          "zh": "通过周围的气味分子探索世界并释放猎犬精力的正常兴奋状态。",
+          "es": "Un estado normal de excitación mientras exploran el mundo y queman energía a través del olfato.",
+          "fr": "Un état d'excitation normal lorsqu'il explore le monde et libère son énergie de chasseur.",
+          "de": "Ein normaler Erregungszustand, während sie die Welt erkunden und Jagdenergie abbauen.",
+          "pt": "Um estado normal de excitação enquanto exploram o mundo e gastam energia através do olfato.",
+          "id": "Keadaan kegembiraan normal saat mereka menjelajahi dunia dan membakar energi pemburu melalui aroma."
+        },
+        "response": {
+          "ko": "산책 중 억지로 줄을 당겨 끊지 말고, 냄새를 맡고 충분히 탐색하도록 허용하고 지켜보세요.",
+          "en": "Do not yank their leash; let them smell and fully explore the scent to satisfy their brain.",
+          "ja": "散歩中に無理にリードを引っ張らず、においを十分に嗅ぎ探索するのを温かく見守ってください。",
+          "zh": "在散步过程中，切勿强力拉扯牵引绳打断它们，应允许并静静观察它们充分嗅闻与探知。",
+          "es": "No tire de la correa; déjelos olfatear y explorar para satisfacer su instinto.",
+          "fr": "Ne tirez pas sur la laisse ; laissez-le flairer et explorer pour satisfaire son instinct.",
+          "de": "Ziehen Sie nicht an der Leine; lassen Sie sie schnüffeln und die Fährte erkunden, um ihren Trieb zu befriedigen.",
+          "pt": "Não puxe a guia com força; deixe-os farejar e explorar para satisfazer seu instinto natural.",
+          "id": "Jangan menyentak tali penuntun mereka; biarkan mereka mengendus dan menjelajah untuk memuaskan insting mereka."
+        }
+      },
+      {
+        "name": {
+          "ko": "하울링 (Howling)",
+          "en": "Howling",
+          "ja": "遠吠え (Howling)",
+          "zh": "嚎叫 (Howling)",
+          "es": "Aullido",
+          "fr": "Hurlement",
+          "de": "Jaulen",
+          "pt": "Uivo",
+          "id": "Melolong"
+        },
+        "meaning": {
+          "ko": "외로움, 지루함, 에너지가 해소되지 않아 생기는 불안과 주의 환기 표현입니다.",
+          "en": "An expression of anxiety and attention seeking caused by loneliness, boredom, or unused energy.",
+          "ja": "孤独や退屈、エネルギーが解消されないことによる不安と、気を引くための自己表現です.",
+          "zh": "因孤独、无聊、精力未能释放而产生的焦虑与寻求关注的表现。",
+          "es": "Expresión de ansiedad y búsqueda de atención causada por la soledad, el aburrimiento o la energía acumulada.",
+          "fr": "Une expression d'anxiété et de recherche d'attention causée par la solitude ou le manque d'activité.",
+          "de": "Ein Ausdruck von Angst und Aufmerksamkeitsforderung, verursacht durch Einsamkeit oder Langeweile.",
+          "pt": "Expressão de ansiedade e busca por atenção devido a solidão, tédio ou energia acumulada.",
+          "id": "Ekspresi kecemasan dan pencarian perhatian yang disebabkan oleh kesepian, bosan, atau energi yang tidak tersalurkan."
+        },
+        "response": {
+          "ko": "하울링을 할 때 혼내지 말고, 평소 실내 노즈워크 퍼즐이나 충분한 산책을 통해 에너지를 차단해 주세요.",
+          "en": "Do not scold them. Address the root cause by providing indoor nosework puzzles and ensuring adequate exercise.",
+          "ja": "遠吠えをした時に怒るのではなく、室内のノーズワークやお散歩を通じてエネルギーを解消してあげてください。",
+          "zh": "嚎叫时请勿训斥，而应通过平时的室内 嗅闻益智玩具或充足的散步来宣泄其过剩的精力。",
+          "es": "No los regañe. Aborde la causa proporcionando juguetes de olfato y asegurando el ejercicio adecuado.",
+          "fr": "Ne le grondez pas. Résolvez le problème en proposant des jeux de pistage en intérieur et des promenades.",
+          "de": "Schelten Sie sie nicht. Bieten Sie stattdessen Schnüffelspiele im Haus an und sorgen Sie für ausreichend Auslauf.",
+          "pt": "Não os repreenda. Resolva a causa fornecendo brinquedos de faro e garantindo o gasto de energia com passeios.",
+          "id": "Jangan memarahi mereka. Atasi penyebabnya dengan memberikan puzzle penciuman dan olahraga yang cukup."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 집안 실내 간식 숨기기 노즈워크 놀이",
+          "en": "Morning: Indoor Treats Sniffing Hunt and Puzzle Game",
+          "ja": "朝：室内のおやつ隠しノーズワーク遊び",
+          "zh": "早晨：室内零食隐藏嗅闻游戏",
+          "es": "Mañana: Búsqueda de premios en casa y juegos de olfato",
+          "fr": "Matin : Chasse aux friandises en intérieur et jeu de flair",
+          "de": "Morgen: Leckerli-Suche im Haus und Schnüffelspiel",
+          "pt": "Manhã: Caça aos petiscos dentro de casa e jogos de faro",
+          "id": "Pagi: Perburuan Mengendus Camilan di Dalam Ruangan"
+        },
+        "text": {
+          "ko": "아침 식사 후 비글의 예민한 후각 지능을 채우기 위해 집안 곳곳이나 종이컵 안에 간식을 숨겨 두고 찾게 하여 인지 능력을 발산시킵니다.",
+          "en": "After breakfast, hide treats in paper cups or around the house to satisfy their search drive and tire them out mentally.",
+          "ja": "朝食後、ビーグルの嗅覚を満たすために部屋のあちこちにフードやおやつを隠して探させ、本能を満たします。",
+          "zh": "早餐后，为了满足比格犬敏锐的嗅觉智力，可将零食隐藏在房屋角落或纸杯中，让其搜寻，以此消耗其认知精力。",
+          "es": "Después del desayuno, esconda premios en vasos de papel por toda la casa para saciar su olfato y cansarle mentalmente.",
+          "fr": "Après le repas, cachez des friandises dans des gobelets en carton dans la maison pour stimuler son flair et le fatiguer mentalement.",
+          "de": "Verstecken Sie nach dem Frühstück Leckerlis in Pappbechern im Haus, um ihren Jagdtrieb zu befriedigen und sie geistig auszulasten.",
+          "pt": "Após o café da manhã, esconda petiscos em copos de papel ou pela casa para satisfazer o instinto de busca e cansá-los mentalmente.",
+          "id": "Setelah sarapan, sembunyikan camilan dalam gelas kertas di sekitar rumah untuk memuaskan insting melacak dan melatih mental mereka."
+        }
+      },
+      {
+        "name": {
+          "ko": "낮: 40분 이상의 충분한 야외 냄새 탐색 산책",
+          "en": "Afternoon: 40-Minute Active Outdoor Tracking Walk",
+          "ja": "昼：40分以上の十分な屋外におい探索散歩",
+          "zh": "中午：40分钟以上充足的户外嗅闻追踪散步",
+          "es": "Tarde: Paseo de rastreo al aire libre de más de 40 minutos",
+          "fr": "Après-midi : Promenade de pistage de plus de 40 min en extérieur",
+          "de": "Nachmittag: Über 40-minütiger Fährten-Spaziergang an der frischen Luft",
+          "pt": "Tarde: Caminhada de rastreamento ao ar livre com mais de 40 minutos",
+          "id": "Siang: Jalan kaki Melacak 40 Menit di Luar Ruangan"
+        },
+        "text": {
+          "ko": "에너지 방산을 위해 하루 최소 40분 이상 매일 야외 산책을 나가며, 냄새를 쫓는 행동을 강제로 제약하지 않고 자유롭게 추적하도록 돕습니다.",
+          "en": "Ensure at least a 40-minute walk daily. Let them sniff grass, trees, and ground freely, which is essential for reducing their stress levels.",
+          "ja": "エネルギー発散のために毎日40分以上外へ連れ出し、においを追う行動を制限せずに自由に嗅がせてあげます.",
+          "zh": "为了释放精力，每天至少进行40分钟以上的户外 散步，并且不强行限制其嗅闻气味的行为，让其自由追踪。",
+          "es": "Asegure un paseo de al aire libre de al menos 40 minutos diarios. Permítale olfatear el césped libremente para reducir el estrés.",
+          "fr": "Faites une promenade d'au moins 40 min par jour. Laissez-le flairer l'herbe et le sol librement pour réduire son stress.",
+          "de": "Planen Sie täglich einen mindestens 40-minütigen Spaziergang ein. Lassen Sie sie frei schnüffeln, um Stress abzubauen.",
+          "pt": "Garanta um passeio de pelo menos 40 minutos diários. Deixe-os farejar a grama livremente para reduzir o nível de estresse.",
+          "id": "Pastikan jalan kaki minimal 40 menit setiap hari. Biarkan mereka mengendus rumput secara bebas untuk mengurangi stres."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 처진 귀 내부 환기 및 주 2회 귀 세정",
+          "en": "Evening: Ear Aeration and Bi-weekly Cleaning",
+          "ja": "夜：垂れ耳の通気性の確保と週2回の耳掃除",
+          "zh": "晚上：垂耳内部通风与每周2次耳道清洁",
+          "es": "Noche: Ventilación de orejas caídas y limpieza dos veces por semana",
+          "fr": "Soir : Aération des oreilles tombantes et nettoyage bihebdomadaire",
+          "de": "Abend: Belüftung der Schlappohren und Reinigung zweimal pro Woche",
+          "pt": "Noite: Ventilação das orelhas caídas e limpeza duas vezes por semana",
+          "id": "Malam: Aerasi Telinga Terkulai dan Pembersihan Dua Kali Seminggu"
+        },
+        "text": {
+          "ko": "귀가 늘어져 외이도가 밀폐되므로 저녁에는 귀를 가볍게 젖혀 공기를 통하게 해주고, 주 2회 전용 귀 세정제를 활용해 마사지 후 청결을 유지합니다.",
+          "en": "Because their floppy ears block airflow, gently flip their ears back for a short time to ventilate, and clean with an ear solution twice a week.",
+          "ja": "耳が垂れて中が湿りやすいため、夜は耳を軽くめくって換気し、週2回専用のクリーナーで優しく掃除します。",
+          "zh": "由于耳朵下垂导致外耳道密闭，晚上应轻轻向后翻起耳朵进行通风，每周使用2次专用耳道清洁剂进行按摩清洁，保持卫生。",
+          "es": "Como sus orejas caídas bloquean el flujo de aire, voltéelas suavemente para ventilar y limpie con solución para oídos dos veces por semana.",
+          "fr": "Leurs oreilles tombantes bloquant l'air, retournez-les doucement pour aérer et nettoyez avec une solution auriculaire deux fois par semaine.",
+          "de": "Da ihre Schlappohren die Belüftung behindern, klappen Sie sie kurz um und reinigen Sie sie zweimal wöchentlich mit Ohrenreiniger.",
+          "pt": "Como as orelhas caídas bloqueiam a ventilação, vire-as suavemente para arejar e limpe com solução própria duas vezes por semana.",
+          "id": "Karena telinga terkulai menghalangi aliran udara, balikkan telinga mereka untuk ventilasi, dan bersihkan dengan cairan telinga dua kali seminggu."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "비글의 하울링을 방지하려면 어떻게 해야 하나요?",
+          "answer": "하울링은 주로 고립에 따른 불안감과 넘치는 활동 에너지의 불균형에서 발생합니다. 산책과 실내 노즈워크의 비율을 높여 강아지를 피로하게 하고 심리적 안정감을 제공하는 것이 근본적인 예방책입니다."
+        },
+        {
+          "question": "비글의 덮인 귀는 왜 자주 외이염에 걸리나요?",
+          "answer": "비글처럼 늘어진 귀는 이도를 공기로부터 차단하여 내부에 수분과 먼지가 머무르기 쉬운 다습한 환경을 만듭니다. 이는 외이도 내 효모균 및 진드기 번식을 도와 가려움과 냄새를 유발하므로 주기적 환기와 세정이 필수입니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "How can I prevent Beagle howling?",
+          "answer": "Howling is often caused by isolation anxiety and unmet energy needs. Increasing physical walks and indoor nosework to mentally exhaust them is the most effective prevention."
+        },
+        {
+          "question": "Why do Beagles' floppy ears easily get infected?",
+          "answer": "Floppy ears block air from entering the ear canal, creating a warm, damp environment ideal for yeast and bacteria to grow. Weekly checkups and aeration are crucial."
+        }
+      ],
+      "ja": [
+        {
+          "question": "ビーグルの遠吠えを防ぐにはどうすればいいですか？",
+          "answer": "遠吠えは主に孤独による不安と、エネルギー過多から発生します. 散歩とノーズワークの時間を増やし、適度な疲労感と安心感を与えることが根本的な解決策です."
+        },
+        {
+          "question": "ビーグルの垂れ耳はなぜ外耳炎になりやすいのですか？",
+          "answer": "垂れ耳は耳の穴を塞ぐため、内部が蒸れて湿気が溜まりやすくなります。これが細菌やカビの繁殖を促すため、定期的な換気と掃除が必要です。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "如何防止比格犬嚎叫？",
+          "answer": "嚎叫主要由于独处的焦虑以及过剩的精力无处消耗所致。增加散步和室内嗅闻游戏的频率，使其身体适度疲劳并获得心理安全感，是根本的预防方法。"
+        },
+        {
+          "question": "为什么比格犬耷拉的耳朵容易得外耳炎？",
+          "answer": "像比格犬这样耷拉的耳朵会阻断耳道与空气的流通，形成潮湿多汗的内部环境，极易滋生霉菌和耳螨，引起瘙痒和异味。因此必须定期通风和清洁。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Cómo puedo evitar que mi Beagle aúlle?",
+          "answer": "El aullido se debe a la ansiedad por soledad y a la energía acumulada. Aumentar los paseos y juegos de olfato para cansarles es la prevención más eficaz."
+        },
+        {
+          "question": "¿Por qué las orejas caídas de los Beagles se infectan fácilmente?",
+          "answer": "Las orejas caídas bloquean el aire en el canal auditivo, creando un ambiente cálido y húmedo ideal para levaduras y bacterias. La ventilación semanal es crucial."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Comment empêcher mon Beagle de hurler ?",
+          "answer": "Le hurlement est dû à l'anxiété de solitude et au manque d'activité. Augmenter les promenades et les jeux de pistage pour le fatiguer est la meilleure prévention."
+        },
+        {
+          "question": "Pourquoi les oreilles tombantes du Beagle s'infectent-elles si vite ?",
+          "answer": "Les oreilles tombantes bloquent l'air dans le conduit, créant un milieu chaud et humide idéal pour les levures. Une aération et un nettoyage réguliers sont cruciaux."
+        }
+      ],
+      "de": [
+        {
+          "question": "Wie kann ich das Jaulen meines Beagles verhindern?",
+          "answer": "Jaulen wird durch Einsamkeitsangst und ungenutzte Energie verursacht. Mehr Auslauf und Schnüffelspiele zur geistigen Erschöpfung sind die beste Vorbeugung."
+        },
+        {
+          "question": "Warum entzünden sich die Schlappohren von Beagles so leicht?",
+          "answer": "Schlappohren blockieren den Luftstrom im Gehörgang, was ein feuchtwarmes Milieu für Hefepilze schafft. Wöchentliche Belüftung ist wichtig."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Como posso evitar que o meu Beagle uive?",
+          "answer": "O uivo é causado por ansiedade de solidão e acúmulo de energia. Aumentar passeios e jogos de faro para cansar o cão é a prevenção mais eficaz."
+        },
+        {
+          "question": "Por que as orelhas caídas dos Beagles inflamam facilmente?",
+          "answer": "Orelhas caídas bloqueiam a circulação de ar no conduto auditivo, criando um ambiente úmido propício para fungos e bactérias. A ventilação semanal é vital."
+        }
+      ],
+      "id": [
+        {
+          "question": "Bagaimana cara mencegah Beagle melolong?",
+          "answer": "Melolong disebabkan oleh kecemasan kesepian dan energi yang tidak tersalurkan. Meningkatkan jalan kaki dan puzzle penciuman adalah pencegahan paling efektif."
+        },
+        {
+          "question": "Mengapa telinga terkulai Beagle mudah terinfeksi?",
+          "answer": "Telinga terkulai menghalangi udara masuk ke saluran telinga, menciptakan lingkungan lembap yang ideal bagi ragi. Aerasi mingguan sangat penting."
+        }
+      ]
+    }
+  },
+  "bichon-care": {
+    "title": {
+      "ko": "비숑 프리제 곱슬모 케어: 엉킴 방지와 비숑타임 대처 3단계 루틴",
+      "en": "Bichon Frise Curly Coat Care: A 3-Step Routine for Detangling and Bichon Blitz",
+      "ja": "ビション・フリーゼの巻き毛ケア：もつれ防止とビションタイム対処の3段階ルーティン",
+      "zh": "比熊犬卷毛护理：防止缠结与应对比熊时间（Bichon Blitz）的日常3步惯例",
+      "es": "Cuidado del Manto Rizado del Bichón Frisé: Rutina de 3 pasos para desenredar y lidiar con el Bichon Blitz",
+      "fr": "Soins du Bichon Frisé à poil frisé : Routine en 3 étapes pour le démêlage et le quart d'heure de folie",
+      "de": "Bichon Frise Lockenfellpflege: 3-Schritte-Routine zum Entwirren und Umgang mit dem Bichon Blitz",
+      "pt": "Cuidado do Pelo Encaracolado do Bichon Frisé: Rotina de 3 passos para desembaraçar e lidar com o Bichon Blitz",
+      "id": "Perawatan Bulu Keriting Bichon Frise: Rutinitas 3 Langkah untuk Bulu Kusut dan Bichon Blitz"
+    },
+    "description": {
+      "ko": "하이바 헬멧 머리로 유명한 친근한 비숑 프리제. 얇고 조밀해 쉽게 엉키는 곱슬털 관리 팁과 갑작스러운 에너지 폭발(비숑타임)의 안전 대처 루틴을 알아봅니다.",
+      "en": "Famous for their white powder-puff look, Bichons are highly friendly. Discover a 3-step routine to manage their dense curly coat and safely handle sudden bursts of energy (FRAPs).",
+      "ja": "アフロヘアーのような頭で人気のビション・フリーゼ。絡まりやすい巻き毛の管理と、突然のエネルギー爆発（ビションタイム）への安全な対処法を紹介します。",
+      "zh": "以“头盔圆头”发型闻名、性格友善的比熊犬。介绍一套管理易缠结卷毛的窍门，以及安全应对突发性能量释放（比熊时间）的日常3步护理惯例。",
+      "es": "Famoso por su cabeza de pompón blanca, el Bichón Frisé es muy amigable. Conozca una rutina para cuidar su pelo rizado y manejar las explosiones de energía (Bichon Blitz).",
+      "fr": "Célèbre pour son aspect de houppette, le Bichon Frisé est très amical. Découvrez une routine pour gérer son poil frisé et gérer en sécurité son quart d'heure de folie.",
+      "de": "Bekannt für seinen weißen Puderquasten-Look ist der Bichon Frise sehr freundlich. Erfahren Sie, wie Sie das lockige Fell pflegen und sicher mit Energieausbrüchen umgehen.",
+      "pt": "Famoso por sua aparência de pompom de algodão, o Bichon Frisé é amigável. Descubra uma rotina para cuidar de sua pelagem encaracolada e lidar com o Bichon Blitz.",
+      "id": "Terkenal dengan tampilan bulat putihnya, Bichon sangat ramah. Temukan rutinitas untuk mengelola bulu keriting mereka dan menangani ledakan energi secara aman."
+    },
+    "authority": {
+      "ko": "Bichon Frise Club of America 가이드라인 및 AVMA 수의학 지침",
+      "en": "Bichon Frise Club of America Standards & AVMA Health Guidelines",
+      "ja": "Bichon Frise Club of Americaガイドライン＆AVMA獣医学指針",
+      "zh": "美国比熊犬俱乐部指南与 AVMA 兽医学指南",
+      "es": "Estándares del Bichon Frise Club of America y pautas de salud de AVMA",
+      "fr": "Normes du Bichon Frise Club of America et directives de santé de l'AVMA",
+      "de": "Richtlinien des Bichon Frise Club of America und AVMA-Gesundheitsleitlinien",
+      "pt": "Padrões do Bichon Frise Club of America e diretrizes de saúde da AVMA",
+      "id": "Standar Bichon Frise Club of America & Pedoman Kesehatan AVMA"
+    },
+    "profile": {
+      "breed": {
+        "ko": "비숑 프리제 (Bichon Frise)",
+        "en": "Bichon Frise",
+        "ja": "ビション・フリーゼ",
+        "zh": "比熊犬",
+        "es": "Bichón Frisé",
+        "fr": "Bichon Frisé",
+        "de": "Bichon Frise",
+        "pt": "Bichon Frisé",
+        "id": "Bichon Frise"
+      },
+      "lifespan": {
+        "ko": "12 ~ 15년",
+        "en": "12 ~ 15 years",
+        "ja": "12 ~ 15年",
+        "zh": "12 ~ 15年",
+        "es": "12 ~ 15 años",
+        "fr": "12 ~ 15 ans",
+        "de": "12 ~ 15 Jahre",
+        "pt": "12 ~ 15 anos",
+        "id": "12 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "12 ~ 14시간 (보호자 발밑 동침)",
+        "en": "12 ~ 14 hours (sleeping at owner's feet)",
+        "ja": "12 ~ 14時間（飼い主の足元で就寝）",
+        "zh": "12 ~ 14小时（伴家长脚边就寝）",
+        "es": "12 ~ 14 horas (durmiendo a los pies del dueño)",
+        "fr": "12 ~ 14 heures (dort aux pieds de son maître)",
+        "de": "12 ~ 14 Stunden (schläft zu Füßen des Besitzers)",
+        "pt": "12 ~ 14 horas (dorme aos pés do tutor)",
+        "id": "12 ~ 14 jam (tidur di kaki pemilik)"
+      },
+      "temperament": {
+        "ko": "명랑함, 쾌활함, 애교 많음, 사교적",
+        "en": "Cheerful, Playful, Affectionate, Outgoing",
+        "ja": "陽気、活発、甘えん坊、社交的",
+        "zh": "开朗、活泼、爱撒娇、社交能力强",
+        "es": "Alegre, Juguetón, Afectuoso, Sociable",
+        "fr": "Gai, Joueur, Affectueux, Sociable",
+        "de": "Fröhlich, Verspielt, Anhänglich, Aufgeschlossen",
+        "pt": "Alegre, Brincalhão, Afetuoso, Sociável",
+        "id": "Ceria, Lincah, Penuh Kasih Sayang, Ramah"
+      }
+    },
+    "intro": {
+      "ko": "솜사탕처럼 하얗고 보송보송한 비숑 프리제는 지치지 않는 쾌활함과 극강의 사랑스러움으로 많은 반려인들에게 행복을 주는 견종입니다. 하지만 곱슬거리는 얇은 장모는 빗질을 멈추면 속털부터 단단히 뭉치며, 귀와 다리 주변의 털 엉킴은 피부염을 직접 유발합니다. 또한 실내 생활에서 과도한 에너지가 폭발할 때 나타나는 급격한 전속력 질주 행동(일명 비숑타임, FRAPs)은 관절에 큰 무리를 줍니다. 오늘 PetSelf에서는 비숑의 유쾌한 몸짓 신호를 해독하고, 엉킴 없는 코트 브러싱과 비숑타임 시 부상 방지를 돕는 3단계 케어 루틴을 소개합니다.",
+      "en": "Bichon Frises are known for their white, cotton-ball appearance and cheerful nature. However, their thin, curly coat easily tangles from the root, causing discomfort and dermatitis. In addition, sudden bursts of high-speed running indoors (often called Bichon Blitz or FRAPs) can strain their knees and spine. Today, PetSelf decodes Bichon body language and shares a 3-step routine to keep their coat healthy and joints safe.",
+      "ja": "綿あめのように白くふわふわしたビション・フリーゼは、陽気で愛嬌があり人気の犬種です。しかし、細い巻き毛はブラッシングを怠ると根元から絡まり、皮膚炎の原因になります。また、突然猛スピードで走り回る行動（ビションタイム）は関節に大きな負担をかけます。本日、PetSelfではビションのしぐさを理解し、巻き毛と関節を守る3段階ルーティンを紹介します。",
+      "zh": "像棉花糖一样洁白蓬松的比熊犬，因其永不疲倦的开朗和极致的可爱，给许多养宠家庭带来了幸福。然而，它们纤细的卷毛一旦停止梳理，就会从内层毛发开始严重缠结，耳部和四肢周围的毛发缠结会直接诱发皮肤炎。此外，在室内生活因精力过剩而突发的高速奔跑行为（俗称比熊时间，FRAPs）会给关节带来巨大压力。今天，PetSelf 将教您如何读懂比熊犬愉快的身体信号，并介绍一套防止卷毛缠结以及在“比熊时间”防受伤的3步日常护理惯例。",
+      "es": "Los Bichón Frisé son conocidos por su pelaje blanco esponjoso y su naturaleza alegre. Sin embargo, su pelo rizado y fino se enreda fácilmente desde la raíz, lo que causa dermatitis. Las carreras a gran velocidad en casa (Bichon Blitz) pueden dañar sus articulaciones. Hoy, PetSelf explica su lenguaje y comparte una rutina de 3 pasos.",
+      "fr": "Le Bichon Frisé est célèbre pour son aspect cotonneux et sa joie de vivre. Cependant, son poil frisé s'emmêle facilement à la racine, provoquant des dermatites. Les courses folles en intérieur (FRAPs) fatiguent ses articulations. Aujourd'hui, PetSelf étudie son langage et partage une routine de soins en 3 étapes.",
+      "de": "Bichon Frises sind bekannt für ihr weißes, wattebauschartiges Fell und ihr fröhliches Wesen. Ihr feines, lockiges Fell verfilzt jedoch leicht an der Wurzel, was zu Hautentzündungen führt. Plötzliche Sprints im Haus (Bichon Blitz) belasten die Gelenke. Heute stellt PetSelf eine 3-Schritte-Routine zum Schutz von Fell und Gelenken vor.",
+      "pt": "Os Bichons Frisés são conhecidos por sua aparência de algodão doce e natureza alegre. No entanto, seu pelo encaracolado e fino embaraça facilmente na raiz, causando dermatites. Corridas em alta velocidade dentro de casa (Bichon Blitz) sobrecarregam as articulações. Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar do pelo e proteger as articulações.",
+      "id": "Bichon Frise dikenal dengan bulu bulat putihnya dan sifatnya yang ceria. Namun, bulu keriting mereka yang tipis mudah kusut dari akar, memicu dermatitis. Ledakan berlari dengan kecepatan tinggi di dalam ruangan (Bichon Blitz) dapat meregangkan persendian mereka. Hari ini, PetSelf membagikan rutinitas 3 langkah untuk menjaga kesehatan bulu dan sendi mereka."
+    },
+    "whyTitle": {
+      "ko": "비숑 프리제의 바디 랭귀지: 비숑 타임과 관심의 신호",
+      "en": "Bichon Frise Body Language: Bichon Blitz and Signals for Attention",
+      "ja": "ビション・フリーゼのボディランゲージ：ビションタイムと関心のサイン",
+      "zh": "比熊犬的身体语言：比熊时间与寻求关注的信号",
+      "es": "Lenguaje corporal del Bichón Frisé: Bichon Blitz y búsqueda de atención",
+      "fr": "Langage corporel du Bichon Frisé : quart d'heure de folie et recherche d'attention",
+      "de": "Körpersprache des Bichon Frise: Bichon Blitz und Aufmerksamkeitszeichen",
+      "pt": "Linguagem corporal do Bichon Frisé: Bichon Blitz e busca de atenção",
+      "id": "Bahasa Tubuh Bichon Frise: Bichon Blitz dan Sinyal Mencari Perhatian"
+    },
+    "whyDesc": {
+      "ko": "비숑 프리제는 흥분할 때 실내를 맹렬히 질주하는 **'비숑 타임(Bichon Blitz)'** 행동을 통해 에너지를 순간적으로 소비합니다. 이는 본능적인 에너지의 배출 현상입니다. 또한 보호자의 무릎이나 팔을 앞발로 가볍게 툭툭 치는 **'앞발 치기(Paw Tap)'** 행동은 관심을 끌고 놀이를 요청하는 애정적인 평화 시그널입니다.",
+      "en": "When excited, Bichons display **'Bichon Blitz'** (running frantically indoors) to burn energy. This is a natural instinct. Additionally, tapping their owner's arm with a paw (**'paw tap'**) is an affectionate signal asking for contact or playtime.",
+      "ja": "ビションは興奮すると室内を激しく走り回る**「ビションタイム（Bichon Blitz）」**を行い、エネルギーを消費します。これは自然な本能です。また、飼い主の足や腕を前脚で軽くたたく**「前脚タッチ」**は、関心を求め遊ぼうと誘うサインです。",
+      "zh": "比熊犬在兴奋时会通过在室内疯狂奔跑的**“比熊时间（Bichon Blitz）”**行为瞬间消耗能量。这是本能的精力排解现象。此外，它们用前爪轻轻触碰家长手臂或膝盖的**“前爪触碰”**行为，则是寻求关注和请求玩耍的友好信号。",
+      "es": "Cuando están emocionados, los Bichons muestran el **'Bichon Blitz'** (correr frenéticamente) para gastar energía. Además, tocar el brazo del dueño con la pata (**'toque de pata'**) es una señal afectuosa para pedir juego.",
+      "fr": "Lorsqu'il est excité, le Bichon montre son **'Bichon Blitz'** (courir follement) pour brûler de l'énergie. De plus, tapoter le bras de son maître (**'tapotement de patte'**) est un signal affectueux pour demander de l'attention.",
+      "de": "Bei Aufregung zeigen Bichons den **'Bichon Blitz'** (hektisches Rennen), um Energie abzubauen. Zudem ist das Tippen auf den Arm des Besitzers (**'PfotenTipp'**) ein liebevolles Zeichen, um Aufmerksamkeit oder Spielzeit einzufordern.",
+      "pt": "Quando animados, os Bichons mostram o **'Bichon Blitz'** (correr freneticamente) para gastar energia. Além disso, tocar o braço do tutor com a pata (**'toque de pata'**) é um sinal afetuoso pedindo contato ou brincadeira.",
+      "id": "Saat bersemangat, Bichon menunjukkan **'Bichon Blitz'** (berlari panik di dalam ruangan) untuk membakar energi. Selain itu, menepuk lengan pemilik dengan cakar (**'paw tap'**) adalah sinyal kasih sayang untuk meminta perhatian."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "비숑 타임 (Bichon Blitz)",
+          "en": "Bichon Blitz",
+          "ja": "ビションタイム (Bichon Blitz)",
+          "zh": "比熊时间 (Bichon Blitz)",
+          "es": "Bichon Blitz",
+          "fr": "Quart d'heure de folie",
+          "de": "Bichon Blitz",
+          "pt": "Bichon Blitz",
+          "id": "Bichon Blitz"
+        },
+        "meaning": {
+          "ko": "체내에 쌓인 잔여 에너지를 격렬한 움직임을 통해 빠르게 발산시키는 본능적인 놀이 요청 행동입니다.",
+          "en": "A natural behavior to quickly burn off residual energy through intense physical activity.",
+          "ja": "体内に溜まったエネルギーを、激しい走りを通じて発散させる本能的な遊び行動です.",
+          "zh": "通过剧烈的运动快速释放体内积攒的剩余精力的本能玩耍请求行为。",
+          "es": "Comportamiento natural para quemar rápidamente la energía acumulada mediante una actividad física intensa.",
+          "fr": "Un comportement naturel visant à brûler l'énergie accumulée par une activité physique intense.",
+          "de": "Ein natürliches Verhalten, um überschüssige Energie schnell durch intensive körperliche Aktivität abzubauen.",
+          "pt": "Comportamento natural para queimar rapidamente a energia acumulada por meio de atividade física intensa.",
+          "id": "Perilaku alami untuk membakar sisa energi dengan cepat melalui aktivitas fisik yang intens."
+        },
+        "response": {
+          "ko": "달리는 통로의 가구나 미끄러운 바닥에 안전 매트를 보충하고 자연스럽게 멈추길 지켜보세요.",
+          "en": "Clear their path of obstacles, ensure floor mats are in place, and let them stop naturally.",
+          "ja": "走る進路にある障害物を片付け、滑り止めマットの上で自然に止まるまで見守ってください。",
+          "zh": "在奔跑通道的家具边角添加防撞条，铺好防滑垫，静静等待其自然停止。",
+          "es": "Despeje el camino de obstáculos, asegure alfombras antideslizantes y deje que se detenga solo.",
+          "fr": "Dégagez les obstacles de sa trajectoire, fixez les tapis et laissez-le s'arrêter naturellement.",
+          "de": "Räumen Sie Hindernisse aus dem Weg, sichern Sie rutschfeste Matten und lassen Sie sie sich natürlich beruhigen.",
+          "pt": "Afaste os obstáculos do caminho, garanta tapetes antiderrapantes e deixe-os parar naturalmente.",
+          "id": "Bersihkan jalur mereka dari rintangan, pastikan keset antiselip terpasang, dan biarkan mereka berhenti secara alami."
+        }
+      },
+      {
+        "name": {
+          "ko": "앞발로 툭툭 치기 (Paw Tap)",
+          "en": "Paw Tap",
+          "ja": "前脚タッチ (Paw Tap)",
+          "zh": "前爪触碰 (Paw Tap)",
+          "es": "Toque de pata",
+          "fr": "Tapotement de patte",
+          "de": "Pfotentipp",
+          "pt": "Toque de pata",
+          "id": "Tepukan Cakar"
+        },
+        "meaning": {
+          "ko": "자신에게 관심을 보이고 교감해 달라는 비숑 프리제 특유의 평화롭고 친근한 의사소통입니다.",
+          "en": "A peaceful and friendly way of asking for attention and engagement, typical of Bichons.",
+          "ja": "自分に注意を向け、スキンシップを求めるビション特有のフレンドリーなコミュニケーションです.",
+          "zh": "请求关注及寻求互动的比熊犬特有的友好、亲近的沟通方式。",
+          "es": "Una forma pacífica y amistosa de pedir atención e interacción, típica del Bichón.",
+          "fr": "Une manière amicale et pacifique de demander de l'attention et du contact, typique du Bichon.",
+          "de": "Eine friedliche und freundliche Art, um Aufmerksamkeit und Kontakt zu bitten, typisch für Bichons.",
+          "pt": "Uma maneira pacífica e amigável de pedir atenção e contato, típica do Bichon.",
+          "id": "Cara yang damai dan ramah untuk meminta perhatian dan interaksi, khas dari Bichon."
+        },
+        "response": {
+          "ko": "부드럽게 눈을 맞춘 후 쓰다듬어 주거나, 간단한 앉아/손 훈련으로 인지 자극을 보충하세요.",
+          "en": "Make eye contact, pet them gently, or do a quick obedience session (sit/paw) for mental stimulation.",
+          "ja": "優しく目を合わせながらなでてあげるか、簡単な芸の練習で脳に刺激を与えてください。",
+          "zh": "温柔地进行眼神交流并抚摸它们，或者通过简单的“坐下/握手”训练来补充其认知刺激。",
+          "es": "Haga contacto visual, acarícielo o realice una sesión corta de órdenes (sentado/pata) como estímulo.",
+          "fr": "Faites un contact visuel, caressez-le, ou faites une séance d'obéissance rapide pour le stimuler.",
+          "de": "Nehmen Sie Blickkontakt auf, streicheln Sie sie oder machen Sie ein kurzes Training (Sitz/Pfote) zur Stimulation.",
+          "pt": "Faça contato visual, acaricie-os ou faça uma sessão rápida de comandos (senta/pata) para estimulá-los.",
+          "id": "Lakukan kontak mata, belai mereka secara lembut, atau lakukan sesi kepatuhan cepat untuk stimulasi mental."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 가벼운 장난감 추적 터그 놀이",
+          "en": "Morning: Light Toy Fetching and Tug-of-war",
+          "ja": "朝：軽いおもちゃ追いかけとターグ遊び",
+          "zh": "早晨：轻松的玩具追踪与拉扯游戏",
+          "es": "Mañana: Juego de traer juguetes y tiro de cuerda suave",
+          "fr": "Matin : Jeu de rapport de jouet et traction douce",
+          "de": "Morgen: Leichtes Spielzeug-Apportieren und Zerrspiel",
+          "pt": "Manhã: Brincadeira de buscar brinquedos e cabo de guerra suave",
+          "id": "Pagi: Permainan Ambil Mainan Ringan dan Tarik-Tambang"
+        },
+        "text": {
+          "ko": "실내 가구나 문틀 충돌을 방지하기 위해 아침에는 부드러운 직물의 터그 장난감을 흔들어 에너지를 서서히 소비시키고 이완 상태를 도모합니다.",
+          "en": "To prevent high-speed collisions with furniture, do a gentle tug-of-war in the morning to burn energy and ease them into a calm state.",
+          "ja": "家具への衝突を防ぐため、朝に柔らかい布製のおもちゃで軽く引っ張り合いをしてエネルギーを消費させます.",
+          "zh": "为了防止与室内家具或门框碰撞，早晨可以通过抖动柔软织物的拉扯玩具来慢慢消耗精力，促进其放松。",
+          "es": "Para evitar colisiones con muebles, juegue al tiro de cuerda suave por la mañana para liberar energía y calmarle.",
+          "fr": "Pour éviter les collisions avec les meubles, faites un jeu de traction douce le matin pour brûler de l'énergie.",
+          "de": "Um Zusammenstöße mit Möbeln zu vermeiden, spielen Sie morgens ein leichtes Zerrspiel, um Energie abzubauen.",
+          "pt": "Para evitar colisões com móveis, faça um cabo de guerra suave pela manhã para gastar energia e acalmá-los.",
+          "id": "Untuk mencegah tabrakan dengan furnitur, lakukan tarik-tambang ringan di pagi hari untuk membakar energi dan menenangkan mereka."
+        }
+      },
+      {
+        "name": {
+          "ko": "낮: 철제 콤과 슬리커를 교차한 10분 빗질 교육",
+          "en": "Afternoon: 10-Minute Brushing with Slicker and Steel Comb",
+          "ja": "昼：スリッカーとコームを交差させた10分間ブラシ練習",
+          "zh": "中午：钢排梳与针梳交替的10分钟梳理训练",
+          "es": "Tarde: 10 minutos de cepillado con carda y peine de acero",
+          "fr": "Après-midi : 10 minutes de brossage avec carde et peigne en métal",
+          "de": "Nachmittag: 10 Minuten Fellpflege mit Zupfbürste und Metallkamm",
+          "pt": "Tarde: 10 minutos de escovação com rasqueadeira e pente de aço",
+          "id": "Siang: Menyikat 10 Menit dengan Slicker dan Sisir Besi"
+        },
+        "text": {
+          "ko": "조밀한 곱슬 털뭉치가 피부를 조이지 않도록 빗질 미스트를 뿌린 후 배와 다리 안쪽을 슬리커로 펴주고 콤 빗으로 한 올씩 엉킴을 확인합니다.",
+          "en": "Spritz brushing spray first, then brush the belly and inner legs with a slicker. Follow with a steel comb to ensure no painful knots remain near the skin.",
+          "ja": "縮れた巻き毛が皮膚を引っ張らないよう、スプレーを吹きかけてからお腹や脚の内側をスリッカーでほぐし、コームで確認します.",
+          "zh": "为防止细密的卷毛团勒紧皮肤，喷洒理毛喷雾后，先用针梳梳开腹部和腿部内侧，再用排梳逐一确认有无缠结。",
+          "es": "Use spray desenredante primero, luego cepille el vientre y patas con carda. Siga con peine de acero para asegurar que no queden enredos cerca de la piel.",
+          "fr": "Vaporisez d'abord un spray de brossage, puis brossez le ventre et l'intérieur des pattes avec la carde. Suivez avec le peigne en métal.",
+          "de": "Sprühen Sie Pflegespray auf, bürsten Sie Bauch und Beininnenseiten mit einer Zupfbürste und prüfen Sie verfilzte Stellen mit dem Kamm.",
+          "pt": "Borrife spray de escovação, escove o abdômen e a parte interna das patas com a rasqueadeira e use o pente de aço para conferir nós perto da pele.",
+          "id": "Semprotkan spray sikat terlebih dahulu, lalu sikat perut dan kaki bagian dalam dengan slicker. Lanjutkan dengan sisir besi."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 미세모 빗으로 눈가 털 빗기 및 눈물자국 건조",
+          "en": "Evening: Eye Area Brushing and Tear Stain Drying",
+          "ja": "夜：極細コームによる目元の毛梳きと涙やけの乾燥",
+          "zh": "晚上：用细齿梳梳理眼周毛发并保持 泪痕干燥",
+          "es": "Noche: Cepillado del contorno de ojos y secado de manchas de lágrimas",
+          "fr": "Soir : Brossage du contour des yeux et séchage des larmes",
+          "de": "Abend: Kämmen der Augenpartie und Trocknen von Tränenflecken",
+          "pt": "Noite: Escovação da área dos olhos e secagem das lágrimas",
+          "id": "Malam: Menyikat Area Mata dan Mengeringkan Noda Air Mata"
+        },
+        "text": {
+          "ko": "흰 모질이 눈물로 오염되거나 피부염을 일으키지 않도록 안구 주변을 전용 안면 빗으로 쓸어주고 눈가 수분을 화장솜으로 건조하게 닦아 줍니다.",
+          "en": "Gently comb the fur around their eyes with a fine-tooth facial comb, and blot excess tears with a cotton pad to keep the eye area dry.",
+          "ja": "白い毛が涙で汚れたり皮膚炎を起こさないよう、目の周りを極細コームで整え、水分をコットンで拭き取ります.",
+          "zh": "为防止白色毛发被泪水污染或引起 皮肤炎，应使用专用的脸部梳理梳清理眼睛周围，并用化妆棉擦干眼角水分。",
+          "es": "Limpie suavemente el pelo alrededor de los ojos con un peine facial fino y seque el exceso de lágrimas con un disco de algodón.",
+          "fr": "Peignez doucement le poil autour des yeux avec un peigne facial fin et séchez l'excès de larmes avec un coton.",
+          "de": "Kämmen Sie das Fell um die Augen vorsichtig mit einem feinen Gesichtskamm und tupfen Sie Tränen mit einem Wattepad trocken.",
+          "pt": "Penteie suavemente o pelo ao redor dos olhos com um pente facial fino e seque o excesso de lágrimas com um disco de algodão.",
+          "id": "Sisir bulu di sekitar mata secara lembut dengan sisir wajah halus, dan keringkan air mata dengan kapas."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "비숑 타임(Bichon Blitz) 시 어떻게 진정시켜야 하나요?",
+          "answer": "비숑 타임은 지극히 자연스러운 감정 표출 행동이므로 억지로 붙잡아 소리를 지르면 놀이로 오인해 더 크게 달릴 수 있습니다. 달릴 때 미끄러져 슬개골이 탈구되지 않도록 거실 매트를 정돈하고 가만히 지켜보며 안정을 취하게 하세요."
+        },
+        {
+          "question": "비숑 프리제의 털 뭉침은 왜 위험한가요?",
+          "answer": "비숑의 털은 얇고 곱슬거리며 촘촘해 빗질을 거르면 털끼리 엉켜 하나의 두꺼운 부직포처럼 뭉칩니다. 이 상태가 오래되면 모근을 조여 피부를 옥죄며 혈액 순환을 차단해 접촉성 피부염과 가려움증을 초래합니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "How should I calm a Bichon during a Bichon Blitz?",
+          "answer": "Bichon Blitz is a normal emotional release. Do not grab or yell, which they may take as play. Instead, ensure mats are secure to prevent slipping and wait for them to stop."
+        },
+        {
+          "question": "Why is fur matting dangerous for Bichons?",
+          "answer": "Bichon fur is thin and curly. Skipping brushing causes severe matting. Matts constrict the skin, block blood flow, and cause contact dermatitis."
+        }
+      ],
+      "ja": [
+        {
+          "question": "ビションタイムにはどうやって落ち着かせればいいですか？",
+          "answer": "ビションタイムは自然な感情表現です. 無理に捕まえようと叫ぶと、遊びと勘違いしてさらに激しく走ります。滑って怪我をしないようマットを整え、見守ってください."
+        },
+        {
+          "question": "ビション・フリーゼの毛のもつれはなぜ危険ですか？",
+          "answer": "ビションの毛は細く絡まりやすいため, 放置すると束になって固まります。これが皮膚を締め付け血行を悪くし, 皮膚炎を引き起こす原因になります。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "在“比熊时间（Bichon Blitz）”时应该如何使其冷静？",
+          "answer": "比熊时间是极其自然的情感释放行为，如果强行抓住并大声呵斥，它们可能会误认为是玩耍而跑得更凶。为防止奔跑时滑倒导致髌骨脱位，应铺好客厅防滑垫并静静观察，让其自然安静下来。"
+        },
+        {
+          "question": "为什么比熊犬的毛发缠结非常危险？",
+          "answer": "比熊犬的毛发细软、卷曲且密实，如果疏忽梳理，毛发会互相缠绕结成类似厚无纺布一样的毛毡。这种状态时间一长会勒紧毛根，阻断血液循环，从而引发接触性皮肤炎和瘙痒症。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Cómo debo calmar a mi Bichón durante un Bichon Blitz?",
+          "answer": "El Bichon Blitz es una liberación emocional normal. No lo agarre ni grite, ya que puede tomarlo como juego. Asegure alfombras para evitar resbalones y espere a que pare."
+        },
+        {
+          "question": "¿Por qué es peligroso el enredo de pelo para los Bichons?",
+          "answer": "El pelo del Bichón es fino y rizado. Evitar el cepillado causa enredos graves que aprietan la piel, bloquean el flujo sanguíneo y causan dermatitis."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Comment calmer un Bichon pendant son quart d'heure de folie ?",
+          "answer": "Le Bichon Blitz est une libération émotionnelle normale. Ne l'attrapez pas et ne criez pas, cela l'exciterait. Fixez les tapis pour éviter les glissades et attendez."
+        },
+        {
+          "question": "Pourquoi les nœuds de poils sont-ils dangereux pour les Bichons ?",
+          "answer": "Le poil du Bichon est fin et frisé. Sans brossage, il s'emmêle. Les nœuds serrent la peau, bloquent la circulation sanguine et créent des dermatites."
+        }
+      ],
+      "de": [
+        {
+          "question": "Wie kann ich einen Bichon während des Bichon Blitz beruhigen?",
+          "answer": "Der Bichon Blitz ist ein normaler Gefühlsausdruck. Nicht festhalten oder anschreien, da sie dies als Spiel deuten. Sichern Sie rutschfeste Matten und warten Sie."
+        },
+        {
+          "question": "Warum ist Fellverfilzung für Bichons gefährlich?",
+          "answer": "Bichon-Fell ist fein und lockig. Das Auslassen des Bürstens führt zu Verfilzungen. Diese engen die Haut ein, hemmen die Durchblutung und führen zu Entzündungen."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Como devo acalmar um Bichon durante o Bichon Blitz?",
+          "answer": "O Bichon Blitz é uma liberação emocional normal. Não segure ou grite, pois eles podem achar que é brincadeira. Garanta tapetes firmes para evitar quedas e espere passar."
+        },
+        {
+          "question": "Por que o pelo embaraçado é perigoso para os Bichons?",
+          "answer": "O pelo do Bichon é fino e encaracolado. Não escovar causa nós que apertam a pele, impedem a circulação de sangue e causam dermatite."
+        }
+      ],
+      "id": [
+        {
+          "question": "Bagaimana cara menenangkan Bichon saat Bichon Blitz?",
+          "answer": "Bichon Blitz adalah pelampiasan emosi yang normal. Jangan menangkap atau berteriak, karena mereka akan mengiranya sebagai permainan. Pastikan keset aman dan tunggu hingga berhenti."
+        },
+        {
+          "question": "Mengapa bulu kusut berbahaya bagi Bichon?",
+          "answer": "Bulu Bichon tipis dan keriting. Melewatkan menyikat menyebabkan kusut parah yang menekan kulit, menghalangi aliran darah, dan memicu dermatitis."
+        }
+      ]
+    }
+  },
+  "bshorthair-care": {
+    "title": {
+      "ko": "브리티시 숏헤어 체중 케어: 비대성 심근증(HCM)과 비만 예방 3단계 루틴",
+      "en": "British Shorthair Weight Care: A 3-Step Routine for HCM and Obesity Prevention",
+      "ja": "ブリティッシュ・ショートヘアの体重ケア：HCMと肥満予防の3段階ルーティン",
+      "zh": "英国短毛猫体重护理：预防肥大性心肌病（HCM）与肥胖的日常3步惯例",
+      "es": "Cuidado del Peso del British Shorthair: Rutina de 3 pasos para la prevención de HCM y obesidad",
+      "fr": "Soins du British Shorthair (Poids) : Routine en 3 étapes pour la prévention de la CMH et de l'obésité",
+      "de": "British Shorthair Gewichtspflege: 3-Schritte-Routine zur HCM- und Adipositasprävention",
+      "pt": "Cuidado do Peso do British Shorthair: Rotina de 3 passos para prevenção de HCM e obesidade",
+      "id": "Perawatan Berat Badan British Shorthair: Rutinitas 3 Langkah untuk Pencegahan HCM dan Obesitas"
+    },
+    "description": {
+      "ko": "다부진 뼈대와 큰 머리가 매력적인 브리티시 숏헤어. 뼈마디와 심장에 무리를 주는 비만을 방지하고 유전 질환인 심근병증을 예방하는 3단계 식단/교감 케어를 소개합니다.",
+      "en": "British Shorthairs are loved for their chunky build. Discover a 3-step diet and lifestyle routine to prevent obesity, which stresses their bones and genetic HCM risk.",
+      "ja": "がっしりした体格と大きな顔が特徴のブリティッシュ・ショートヘア。心臓と関節に負担をかける肥満の予防と、遺伝病の心筋症（HCM）対策の3段階ルーティンを紹介します.",
+      "zh": "以结实身架和圆圆大脸而闻名的英国短毛猫。介绍一套预防肥胖（加重骨骼与心脏负担）和遗传性心肌病（HCM）的日常3步饮食与护理惯例。",
+      "es": "Los British Shorthair son queridos por su complexión robusta. Descubra una rutina de 3 pasos de dieta y estilo de vida para prevenir la obesidad y la HCM genética.",
+      "fr": "Le British Shorthair est aimé pour sa carrure trapue. Découvrez une routine en 3 étapes de régime et mode de vie pour prévenir l'obésité et la CMH génétique.",
+      "de": "British Shorthairs sind für ihren stämmigen Körperbau beliebt. Entdecken Sie eine 3-Schritte-Routine zur Vorbeugung von Übergewicht und genetischer HCM.",
+      "pt": "Os British Shorthairs são amados por seu porte robusto. Descubra uma rotina de 3 passos de dieta e estilo de vida para evitar a obesidade e a HCM genética.",
+      "id": "British Shorthair dicintai karena perawakannya yang kekar. Temukan rutinitas diet 3 langkah untuk mencegah obesitas dan risiko HCM genetik."
+    },
+    "authority": {
+      "ko": "GCCF 브리티시 숏헤어 표준 및 AAFP 고양이 비만 지침",
+      "en": "GCCF Breed Standards for British Shorthairs & AAFP Feline Obesity Guidelines",
+      "ja": "GCCFブリティッシュ・ショートヘア基準＆AAFP猫肥満指針",
+      "zh": "GCCF 英国短毛猫标准与 AAFP 猫咪肥胖指南",
+      "es": "Estándares de cría de GCCF para British Shorthairs y pautas de obesidad de AAFP",
+      "fr": "Normes de la GCCF pour le British Shorthair et directives sur l'obésité de l'AAFP",
+      "de": "GCCF-British-Shorthair-Standards und AAFP-Adipositasrichtlinien",
+      "pt": "Padrões da GCCF para British Shorthairs e diretrizes de obesidade felina da AAFP",
+      "id": "Standar Breed GCCF untuk British Shorthair & Pedoman Obesitas Feline AAFP"
+    },
+    "profile": {
+      "breed": {
+        "ko": "브리티시 숏헤어 (British Shorthair)",
+        "en": "British Shorthair",
+        "ja": "ブリティッシュ・ショートヘア",
+        "zh": "英国短毛猫",
+        "es": "British Shorthair",
+        "fr": "British Shorthair",
+        "de": "British Shorthair",
+        "pt": "British Shorthair",
+        "id": "British Shorthair"
+      },
+      "lifespan": {
+        "ko": "12 ~ 15년",
+        "en": "12 ~ 15 years",
+        "ja": "12 ~ 15年",
+        "zh": "12 ~ 15年",
+        "es": "12 ~ 15 años",
+        "fr": "12 ~ 15 ans",
+        "de": "12 ~ 15 Jahre",
+        "pt": "12 ~ 15 anos",
+        "id": "12 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "14 ~ 16시간 (선선하고 평평한 바닥 선호)",
+        "en": "14 ~ 16 hours (prefers cool, flat floor)",
+        "ja": "14 ~ 16時間（涼しく平らな床を好む）",
+        "zh": "14 ~ 16小时（偏好凉爽平坦的地板）",
+        "es": "14 ~ 16 horas (prefiere el suelo fresco y plano)",
+        "fr": "14 ~ 16 heures (préfère le sol frais et plat)",
+        "de": "14 ~ 16 Stunden (bevorzugt kühlen, flachen Boden)",
+        "pt": "14 ~ 16 horas (prefere o chão fresco e plano)",
+        "id": "14 ~ 16 jam (menyukai lantai sejuk dan rata)"
+      },
+      "temperament": {
+        "ko": "차분함, 독립적, 충직함, 인내심 강함",
+        "en": "Calm, Independent, Loyal, Patient",
+        "ja": "落ち着いた、独立心、忠実、我慢強い",
+        "zh": "冷静、独立、忠诚、有耐心",
+        "es": "Tranquilo, Independiente, Leal, Paciente",
+        "fr": "Calme, Indépendant, Fidèle, Patient",
+        "de": "Ruhig, Unabhängig, Loyal, Geduldig",
+        "pt": "Calmo, Independente, Leal, Paciente",
+        "id": "Tenang, Mandiri, Setia, Sabar"
+      }
+    },
+    "intro": {
+      "ko": "크고 둥근 얼굴과 다부진 근육질 체격을 지닌 브리티시 숏헤어는 젠틀자이언트라는 별명답게 성격이 침착하고 인내심이 강해 처음 고양이를 키우는 사람에게도 알맞은 묘종입니다. 하지만 이들의 통뼈대 체형은 자칫 체중 관리에 실패하면 관절에 심각한 과부하를 초래합니다. 또한 유전적으로 심장 벽이 두꺼워지는 **비대성 심근증(HCM)** 위험군에 속하므로 과체중이 되어 심장 부담이 가중되지 않도록 주의해야 합니다. 오늘 PetSelf에서는 브리티시 숏헤어의 차분한 안심 지표와 미세한 불편함 신호를 분석하고, 심장 및 몸무게를 안전하게 유지하는 3단계 홈케어 루틴을 소개합니다.",
+      "en": "With their round faces and muscular build, British Shorthairs are the gentle giants of the cat world. However, their sturdy frame means obesity places critical stress on their joints. Furthermore, they are genetically prone to **Hypertrophic Cardiomyopathy (HCM)**, a heart disease exacerbated by excess weight. Today, PetSelf decodes British Shorthair body language and shares a 3-step diet and activity routine.",
+      "ja": "丸い顔とがっしりした筋肉質の体を持つブリティッシュ・ショートヘアは、温和で我慢強く初心者に好まれる猫種です。しかし、体重管理を怠ると関節に深刻な負担がかかります。また、心臓の壁が厚くなる**肥大友心筋症（HCM）**のリスク種であるため, 肥満は絶対に防がなければなりません。本日、PetSelfでは彼らのサインを理解し、心臓を守る3段階ルーティンを紹介します.",
+      "zh": "拥有大圆脸和粗壮肌肉体格的英国短毛猫，正如其“温柔巨人”的绰号一样，性格沉稳、隐忍，非常适合新手家长饲养。然而，它们粗壮的骨架一旦体重管理失败，会给关节带来严重的超载。此外，它们在遗传上属于心脏壁变厚的**肥大性心肌病（HCM）**的高危群体，因此必须防止超重加重心脏负担。今天，PetSelf 将为您分析英短的冷静安心指标及微妙的不适信号，并介绍一套保护心脏与控制体重的3步家庭护理惯例。",
+      "es": "Con sus caras redondas y complexión musculosa, los British Shorthairs son gigantes gentiles. Sin embargo, su robusto cuerpo hace que la obesidad dañe sus articulaciones. Además, son propensos a la **Cardiomiopatía Hipertrófica (HCM)**, empeorada por el sobrepeso. Hoy, PetSelf explica su lenguaje y comparte una rutina de 3 pasos.",
+      "fr": "Avec leur face ronde et leur corps musclé, les British Shorthair sont de doux géants. Cependant, leur squelette robuste fait que l'obésité pèse sur leurs articulations. Ils sont de plus sujets à la **Cardiomyopathie Hypertrophique (CMH)**, aggravée par le surpoids. Aujourd'hui, PetSelf propose une routine en 3 étapes.",
+      "de": "Mit ihren runden Gesichtern und dem muskulösen Bau sind British Shorthairs sanfte Riesen. Ihr stämmiger Körper führt jedoch dazu, dass Übergewicht Gelenkschäden verursacht. Sie sind zudem anfällig für **Hypertrophe Kardiomyopathie (HCM)**, die durch Übergewicht verschlimmert wird. Heute stellt PetSelf eine 3-Schritte-Routine vor.",
+      "pt": "Com suas faces redondas e porte musculoso, os British Shorthairs são gigantes gentis. No entanto, seu corpo robusto faz com que a obesidade sobrecarregue suas articulações. Além disso, são propensos a **Cardiomiopatia Hipertrófica (HCM)**, agravada pelo excesso de peso. Hoje, o PetSelf apresenta uma rotina de 3 passos de dieta e atividade.",
+      "id": "Dengan wajah bulat dan tubuh berotot, British Shorthair adalah raksasa yang lembut. Namun, tubuh kekar mereka berarti obesitas memberi tekanan besar pada persendian. Mereka juga rentan terhadap **Kardiomiopati Hipertropik (HCM)**, yang diperburuk oleh kelebihan berat badan. Hari ini, PetSelf membagikan rutinitas 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "브리티시 숏헤어의 바디 랭귀지: 멀리서 돕는 눈인사와 꼬리 신호",
+      "en": "British Shorthair Body Language: Distant Staring and Tail Flicking",
+      "ja": "ブリティッシュ・ショートヘアのボディランゲージ：遠くからの目線と尻尾のサイン",
+      "zh": "英国短毛猫的身体语言：遥远的凝视与尾巴信号",
+      "es": "Lenguaje corporal del British Shorthair: mirada distante y movimiento de cola",
+      "fr": "Langage corporel du British Shorthair : regard distant et mouvements de queue",
+      "de": "Körpersprache der British Shorthair: DistanzBlick und SchwanzZucken",
+      "pt": "Linguagem corporal do British Shorthair: olhar distante e abanar de cauda",
+      "id": "Bahasa Tubuh British Shorthair: Tatapan Jauh dan Kibasan Ekor"
+    },
+    "whyDesc": {
+      "ko": "브리티시 숏헤어는 억압적인 스킨십을 싫어하며 일정한 거리를 둔 채 보호자를 바라보는 **'지긋이 바라보기(Soft Staring)'**를 통해 안정감을 표시합니다. 이는 독립적인 관계를 원하지만 신뢰한다는 뜻입니다. 반면에 불편하거나 귀찮을 때는 누운 채 꼬리 끝만 바닥을 툭툭 치는 **'꼬리 치기(Tail Swishing)'** 행동을 보입니다. 이때 억지로 안으면 스트레스 지수가 올라갑니다.",
+      "en": "British Shorthairs dislike restrictive holding and show trust through **'soft staring'** from a distance. This means they trust you but want their space. Conversely, when annoyed, they show **'tail swishing'** (hitting the floor with their tail tip). Holding them during this time will trigger stress.",
+      "ja": "ブリティッシュは無理な抱っこを嫌い、一定の距離から見つめる**「視線のサイン」**で信頼を示します。これは適度な距離を保ちつつも信頼しているという意味です。一方、不快な時は寝そべったまま尻尾の先で床を叩く**「尻尾振り」**をします. この時に抱き上げるとストレスが高まります.",
+      "zh": "英短讨厌强迫性的抚抱，它们会在保持一定距离的情况下，通过温和地凝视（Soft staring）来表示安全感。这代表它们虽希望保持独立的关系，但对家长是信任的。相反，在感到不便或烦躁时，它们会躺着仅用尾尖轻轻拍打地面。如果此时强行抱起它们，会导致其压力飙升。",
+      "es": "A los British Shorthairs no les gusta que los retengan y muestran confianza a través de la **'mirada suave'** a distancia. Por el contrario, cuando están molestos, muestran un **'movimiento de cola'**. Cargarlos en ese momento les provocará estrés.",
+      "fr": "Les British Shorthairs n'aiment pas être contraints et montrent leur confiance par un **'regard doux'** à distance. En revanche, lorsqu'ils sont agacés, ils montrent des **'mouvements de queue'**. Le porter à ce moment créera du stress.",
+      "de": "British Shorthairs mögen kein einengendes Halten und zeigen Vertrauen durch **'sanftes Anstarren'** aus der Ferne. Dagegen zeigt ein **'Schwanzzucken'** bei Ärger an. Das Halten in dieser Zeit löst Stress aus.",
+      "pt": "Os British Shorthairs não gostam de contato físico restritivo e demonstram confiança através do **'olhar suave'** à distância. Por outro lado, quando incomodados, mostram **'abanar de cauda'** (bater a cauda no chão). Pegá-los no colo gerará estresse.",
+      "id": "British Shorthair tidak suka dipeluk secara paksa dan menunjukkan kepercayaan melalui **'tatapan lembut'** dari kejauhan. Sebaliknya, saat kesal, mereka menunjukkan **'kibasan ekor'**. Memeluk mereka saat ini akan memicu stres."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "지긋이 바라보기 (Soft Staring)",
+          "en": "Soft Staring",
+          "ja": "視線のサイン (Soft Staring)",
+          "zh": "温和凝视 (Soft Staring)",
+          "es": "Mirada suave",
+          "fr": "Regard doux",
+          "de": "Sanftes Anstarren",
+          "pt": "Olhar suave",
+          "id": "Tatapan Lembut"
+        },
+        "meaning": {
+          "ko": "한 공간에 함께 머무는 것만으로도 행복하고 안정감을 느낀다는 독립적이고 성숙한 사랑 표현입니다.",
+          "en": "A mature and independent expression of love, indicating they feel happy and safe just sharing the space.",
+          "ja": "同じ部屋にいるだけで幸せと安心感を感じているという、独立して落ち着いた愛情の表現です.",
+          "zh": "仅呆在同一个空间里就感到幸福和安全，是一种独立且成熟的爱意表达。",
+          "es": "Expresión madura e independiente de amor, indicando que se sienten felices y seguros con solo compartir el espacio.",
+          "fr": "Une expression d'amour mature et indépendante, indiquant qu'il est heureux et en sécurité de partager l'espace.",
+          "de": "Ein reifer und unabhängiger Ausdruck von Liebe, der zeigt, dass sie sich allein durch das Teilen des Raums wohlfühlen.",
+          "pt": "Uma expressão madura e independente de amor, indicando que se sentem felizes e seguros apenas por compartilhar o espaço.",
+          "id": "Ungkapan kasih sayang yang mandiri dan matang, menunjukkan mereka merasa bahagia dan aman hanya dengan berbagi ruang."
+        },
+        "response": {
+          "ko": "눈을 천천히 깜빡이며 사랑을 확인해주고, 억지로 다가가 안아 올리지 말고 말없이 지켜보세요.",
+          "en": "Blink slowly to return the affection. Do not approach or pick them up; let them enjoy the quiet presence.",
+          "ja": "ゆっくり瞬きをして応え、無理に近づいて抱き上げず、静かに見守ってあげてください.",
+          "zh": "缓慢眨眼以回应这份爱意，切勿强行靠近抚抱，只需静静看着它们即可。",
+          "es": "Parpadee lentamente para devolver el afecto. No se acerque ni lo cargue; deje que disfrute de su presencia.",
+          "fr": "Clignez lentement des yeux pour répondre. Ne vous approchez pas et ne le portez pas ; laissez-le tranquille.",
+          "de": "Blinzeln Sie langsam, um die Zuneigung zu erwidern. Nicht nähern oder hochheben; lassen Sie sie die Ruhe genießen.",
+          "pt": "Pisque lentamente para retribuir o afeto. Não se aproxime ou pegue-os no colo; deixe-os aproveitar sua presença.",
+          "id": "Berkedip perlahan untuk membalas kasih sayang. Jangan mendekat atau memeluk mereka; biarkan mereka tenang."
+        }
+      },
+      {
+        "name": {
+          "ko": "꼬리 치기 (Tail Swishing)",
+          "en": "Tail Swishing",
+          "ja": "尻尾振り (Tail Swishing)",
+          "zh": "尾尖拍地 (Tail Swishing)",
+          "es": "Movimiento de cola",
+          "fr": "Mouvements de queue",
+          "de": "Schwanzzucken",
+          "pt": "Abanar de cauda",
+          "id": "Kibasan Ekor"
+        },
+        "meaning": {
+          "ko": "귀찮거나 만지는 강도가 강하여 스트레스 수치가 오르고 있으니 중단하라는 거절 신호입니다.",
+          "en": "A warning sign indicating that they are annoyed or touched too roughly, asking you to stop.",
+          "ja": "しつこい接触や触り方にストレスを感じており、「やめて」と要求する拒否のサインです.",
+          "zh": "感到烦躁或因抚摸力度过大导致压力值上升，要求停止的拒绝信号。",
+          "es": "Señal de advertencia de que están molestos o que se les toca con brusquedad, pidiéndole que pare.",
+          "fr": "Un signal d'avertissement indiquant qu'il est agacé ou touché trop fermement, demandant d'arrêter.",
+          "de": "Ein Warnzeichen, das zeigt, dass sie verärgert oder zu grob berührt werden, mit der Bitte aufzuhören.",
+          "pt": "Um sinal de alerta indicando que estão incomodados ou sendo tocados de forma bruta, pedindo que pare.",
+          "id": "Tanda peringatan yang menunjukkan bahwa mereka kesal atau disentuh terlalu kasar, meminta Anda berhenti."
+        },
+        "response": {
+          "ko": "즉시 만지는 것을 멈추고 고양이가 혼자 안정할 수 있게 물리적 자극을 피하세요.",
+          "en": "Immediately stop petting and avoid further contact to let the cat relax on its own.",
+          "ja": "すぐに触るのをやめ, 猫が一人で落ち着けるよう刺激を避けてください.",
+          "zh": "应立即停止抚摸，避免物理接触，让猫咪独自恢复平静。",
+          "es": "Deje de acariciarlo inmediatamente y evite más contacto para que el gato se relaje solo.",
+          "fr": "Arrêtez immédiatement de le caresser et évitez tout contact pour le laisser se détendre.",
+          "de": "Hören Sie sofort auf zu streicheln und vermeiden Sie weiteren Kontakt, damit sich die Katze beruhigen kann.",
+          "pt": "Pare de acariciar imediatamente e evite contato físico para deixar o gato se acalmar sozinho.",
+          "id": "Segera hentikan membelai dan hindari kontak lebih lanjut agar kucing dapat rileks sendiri."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 정밀 저울을 이용한 급여량 통제 식단 배급",
+          "en": "Morning: Strict Dietary Measurement using Kitchen Scales",
+          "ja": "朝：精密デジタルスケールを使用したフード量の管理",
+          "zh": "早晨：使用精密厨房秤控制给食量的食谱配给",
+          "es": "Mañana: Control estricto de la dieta mediante báscula",
+          "fr": "Matin : Mesure stricte des portions avec une balance de cuisine",
+          "de": "Morgen: Strenge Messung der Futtermenge mit Küchenwaage",
+          "pt": "Manhã: Controle rigoroso da dieta usando balança de cozinha",
+          "id": "Pagi: Pengukuran Diet Ketat menggunakan Timbangan Dapur"
+        },
+        "text": {
+          "ko": "비만으로 인한 심장 비대증(HCM)을 막기 위해 디지털 전자 저울로 하루 칼로리에 맞춰 정량 배급을 지킵니다.",
+          "en": "To prevent hypertrophic cardiomyopathy (HCM) caused by obesity, weigh their food on a digital scale to ensure exact portion control.",
+          "ja": "肥満による心筋症（HCM）を防ぐため, デジタルスケールで1日の必要摂取カロリーを正確に測って給与します.",
+          "zh": "为了防止肥胖引起的肥大性心肌病（HCM），应使用数码电子秤按照每日卡路里摄入标准进行定量给食。",
+          "es": "Para prevenir la cardiomiopatía hipertrófica (HCM) por obesidad, pese la comida en una báscula digital.",
+          "fr": "Pour prévenir la cardiomyopathie hypertrophique (CMH) due à l'obésité, pesez les croquettes sur une balance.",
+          "de": "Um einer durch Übergewicht bedingten HCM vorzubeugen, wiegen Sie das Futter auf einer Waage ab.",
+          "pt": "Para evitar a cardiomiopatia hipertrófica (HCM) causada por obesidade, pese a comida em uma balança digital.",
+          "id": "Untuk mencegah kardiomiopati hipertrofik (HCM) akibat obesitas, timbang makanan mereka pada timbangan digital."
+        }
+      },
+      {
+        "name": {
+          "ko": "낮: 단모종 전용 고무 빗을 활용한 죽은 털 제거",
+          "en": "Afternoon: Undercoat Brushing using Feline Rubber Brush",
+          "ja": "昼：短毛種用ラバーブラシによる抜け毛処理",
+          "zh": "中午：使用短毛猫专用橡胶梳清理死毛",
+          "es": "Tarde: Cepillado del subpelo con cepillo de goma para gatos",
+          "fr": "Après-midi : Brossage du sous-poil avec une brosse en caoutchouc",
+          "de": "Nachmittag: Unterfellpflege mit einer Gummi-Katzenbürste",
+          "pt": "Tarde: Escovação de subpelo usando escova de borracha felina",
+          "id": "Siang: Menyikat Bulu dengan Sikat Karet Khusus Kucing"
+        },
+        "text": {
+          "ko": "단모종이지만 밀도가 높은 촘촘한 모질을 지녔으므로 피부 자극이 덜한 전용 고무 브러시로 5분간 브러싱해 죽은 털을 날림 없이 수거합니다.",
+          "en": "Although short-haired, they have dense fur. Brush for 5 minutes with a feline rubber brush to collect dead undercoat without skin irritation.",
+          "ja": "短毛ですが密度の高い毛質なため、皮膚に負担の少ないラバーブラシで5分間ブラッシングし、死毛を取り除きます.",
+          "zh": "英短虽是短毛猫但毛发密度极高，应使用对皮肤刺激较小的专用橡胶梳进行5分钟的梳理，清理并收集死毛以防乱飞。",
+          "es": "Aunque son de pelo corto, su pelaje es denso. Cepille durante 5 minutos con cepillo de goma para retirar el subpelo muerto.",
+          "fr": "Bien que de poil court, leur pelage est dense. Brossez 5 min avec une brosse en caoutchouc pour ramasser le poil mort.",
+          "de": "Obwohl sie kurzhaarig sind, haben sie dichtes Fell. Bürsten Sie 5 Minuten lang mit einer Gummibürste, um Haare zu entfernen.",
+          "pt": "Embora de pelo curto, sua pelagem é densa. Escove por 5 minutos com escova de borracha felina para retirar pelos mortos.",
+          "id": "Meskipun berbulu pendek, mereka memiliki bulu yang lebat. Sikat selama 5 menit dengan sikat karet khusus kucing."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 유전 질환 HCM 예방 호흡수 진단 및 차분한 놀이",
+          "en": "Evening: Respiration Rate Check for HCM and Low-intensity Play",
+          "ja": "夜：HCM予防のための呼吸数測定と穏やかな遊び",
+          "zh": "晚上：遗传性 HCM 预防性呼吸次数观察与温和游戏",
+          "es": "Noche: Control de frecuencia respiratoria para HCM y juego moderado",
+          "fr": "Soir : Mesure du rythme respiratoire pour la CMH et jeu calme",
+          "de": "Abend: Atemfrequenzprüfung für HCM und ruhiges Spiel",
+          "pt": "Noite: Monitoramento da frequência respiratória para HCM e brincadeira leve",
+          "id": "Malam: Pemeriksaan Laju Pernapasan untuk HCM dan Bermain Santai"
+        },
+        "text": {
+          "ko": "수면 상태일 때 1분당 호흡수가 30회 미만인지 점검하여 심근 비대를 감시하고, 에너지를 위한 가벼운 양모 공 굴리기 놀이를 진행합니다.",
+          "en": "Count their sleeping respiration rate (should be under 30 breaths per minute) to monitor heart health, and play lightly with wool balls.",
+          "ja": "睡眠時の1分間の呼吸数が30回未満か確認して心臓の状態を監視し、羊毛ボールなどを使用した軽い遊びをさせます.",
+          "zh": "在猫咪睡眠状态下，观察1分钟内呼吸次数是否在30次以下，以此监控心肌肥厚状态，并陪其玩耍轻巧的羊毛球滚地游戏。",
+          "es": "Verifique que su frecuencia respiratoria al dormir sea inferior a 30 respiraciones por minuto y juegue de forma moderada con bolas de lana.",
+          "fr": "Vérifiez que son rythme respiratoire au repos est inférieur à 30 mouvements par minute, et jouez calmement avec des balles en laine.",
+          "de": "Prüfen Sie, ob die Atemfrequenz im Schlaf unter 30 Zügen pro Minute liegt, und spielen Sie leicht mit Wollbällen.",
+          "pt": "Verifique se a frequência respiratória ao dormir é inferior a 30 respirações por minuto e brinque de leve com bolinhas de lã.",
+          "id": "Periksa laju pernapasan saat tidur (harus di bawah 30 napas per menit) untuk memantau jantung, dan bermain dengan bola wol."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "브리티시 숏헤어가 비만이 되면 왜 다른 고양이보다 위험한가요?",
+          "answer": "브리티시 숏헤어는 뼈대 자체가 크고 둥글지만 유전적으로 비대성 심근증(HCM) 발생률이 높은 종입니다. 비만으로 인해 체중이 불면 심박출량이 증가하고 심근에 직접적인 가해 과부하가 생겨 급사 위험도가 크게 치솟습니다."
+        },
+        {
+          "question": "브리티시 숏헤어가 안아 올리는 것을 싫어하는 이유는 무엇인가요?",
+          "answer": "이들은 독립성이 높고 자신의 발이 지면에서 떨어지는 공중 상태에서 극심한 불안을 느낍니다. 따라서 이들이 원하지 않는 억압적인 포옹은 보호자와의 깊은 유대를 망칠 수 있습니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "Why is obesity more dangerous for British Shorthairs than other cats?",
+          "answer": "British Shorthairs have a heavy frame and are genetically prone to Hypertrophic Cardiomyopathy (HCM). Obesity forces the heart to work harder, increasing heart failure risk."
+        },
+        {
+          "question": "Why do British Shorthairs dislike being held or picked up?",
+          "answer": "They value their independence and feel insecure when their paws lose contact with the ground. Forced holding can harm your bond with them."
+        }
+      ],
+      "ja": [
+        {
+          "question": "ブリティッシュ・ショートヘアが肥満になると他の猫より危険なのはなぜですか？",
+          "answer": "がっしりした体格のブリティッシュは、遺伝的に肥大性心筋症（HCM）の発生率が高い種です。肥満になると心臓の負担が急増し, 急死などのリスクが高まります."
+        },
+        {
+          "question": "ブリティッシュ・ショートヘアが抱っこを嫌う理由は何ですか？",
+          "answer": "彼らは独立心が強く、足が宙に浮く状態に強い不安を感じます. 嫌がるのを無理に抱き上げると、飼い主との信頼関係が崩れてしまうことがあります。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "为什么英国短毛猫发胖会比其他猫咪更危险？",
+          "answer": "英国短毛猫虽然骨架大且结实，但遗传上属于肥大性心肌病（HCM）发病率很高的犬种。由于肥胖导致体重增加会使心脏排血量增加，给心肌带来直接超载，从而使突然死亡的风险急剧飙升。"
+        },
+        {
+          "question": "为什么英国短毛猫讨厌被抚抱抱起？",
+          "answer": "它们独立性极高，当自己的脚脱离地面处于半空状态时会感到极度不安。因此违背其意愿的强迫性拥抱可能会破坏与家长好不容易建立的信任纽带。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Por qué la obesidad es más peligrosa para el British Shorthair que para otros gatos?",
+          "answer": "Tienen un cuerpo robusto y son propensos a la Cardiomiopatía Hipertrófica (HCM). La obesidad obliga al corazón a esforzarse más, elevando el riesgo de fallo cardíaco."
+        },
+        {
+          "question": "¿Por qué a los British Shorthairs no les gusta que los carguen?",
+          "answer": "Valoran su independencia y se sienten inseguros cuando sus patas pierden contacto con el suelo. Abrazarlos a la fuerza puede dañar la relación."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Pourquoi l'obésité est-elle plus nocive pour le British Shorthair ?",
+          "answer": "Le British Shorthair a une carrure lourde et est sujet à la CMH. L'obésité oblige le cœur à travailler plus, augmentant les risques d'insuffisance."
+        },
+        {
+          "question": "Pourquoi les British Shorthairs détestent-ils être portés ?",
+          "answer": "Ils aiment leur indépendance et paniquent lorsque leurs pattes quittent le sol. Le porter de force peut détériorer le lien de confiance."
+        }
+      ],
+      "de": [
+        {
+          "question": "Warum ist Übergewicht für British Shorthairs gefährlicher als für andere Katzen?",
+          "answer": "Sie haben einen schweren Körperbau und sind anfällig für HCM. Übergewicht belastet das Herz zusätzlich und erhöht das Risiko von Herzversagen."
+        },
+        {
+          "question": "Warum mögen British Shorthairs es nicht, hochgehoben zu werden?",
+          "answer": "Sie schätzen ihre Unabhängigkeit und fühlen sich unsicher, wenn ihre Pfoten den Boden verlieren. Erzwungenes Tragen kann die Bindung schädigen."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Por que a obesidade é mais perigosa para o British Shorthair do que para outros gatos?",
+          "answer": "Eles têm porte robusto e são propensos a Cardiomiopatia Hipertrófica (HCM). A obesidade força o coração a trabalhar mais, elevando o risco cardíaco."
+        },
+        {
+          "question": "Por que os British Shorthairs não gostam de ser pegos no colo?",
+          "answer": "Eles prezam pela independência e se sentem inseguros quando as patas perdem o contato com o chão. Colo forçado pode abalar o vínculo com o tutor."
+        }
+      ],
+      "id": [
+        {
+          "question": "Mengapa obesitas lebih berbahaya bagi British Shorthair daripada kucing lain?",
+          "answer": "Mereka memiliki tubuh kekar dan rentan terhadap HCM. Obesitas memaksa jantung bekerja lebih keras, meningkatkan risiko gagal jantung."
+        },
+        {
+          "question": "Mengapa British Shorthair tidak suka dipeluk atau diangkat?",
+          "answer": "Mereka menghargai kemandirian dan merasa tidak aman saat cakar mereka kehilangan kontak dengan tanah. Pelukan paksa dapat merusak ikatan."
+        }
+      ]
+    }
   }
 }

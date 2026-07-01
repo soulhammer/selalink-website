@@ -1,0 +1,139 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "Soins du British Shorthair (Poids) : Routine en 3 étapes pour la prévention de la CMH et de l'obésité"
+description: "Le British Shorthair est aimé pour sa carrure trapue. Découvrez une routine en 3 étapes de régime et mode de vie pour prévenir l'obésité et la CMH génétique."
+pubDate: "2026-03-08"
+updatedDate: "2026-03-09"
+heroImage: "/images/blog/bshorthair_care.png"
+authority: "Normes de la GCCF pour le British Shorthair et directives sur l'obésité de l'AAFP"
+app: "petself"
+tags: ["British Shorthair","Prévention de CMH","Contrôle du Poids","Obésité"]
+faqs:
+  - question: "Pourquoi l'obésité est-elle plus nocive pour le British Shorthair ?"
+    answer: "Le British Shorthair a une carrure lourde et est sujet à la CMH. L'obésité oblige le cœur à travailler plus, augmentant les risques d'insuffisance."
+  - question: "Pourquoi les British Shorthairs détestent-ils être portés ?"
+    answer: "Ils aiment leur indépendance et paniquent lorsque leurs pattes quittent le sol. Le porter de force peut détériorer le lien de confiance."
+---
+
+Avec leur face ronde et leur corps musclé, les British Shorthair sont de doux géants. Cependant, leur squelette robuste fait que l'obésité pèse sur leurs articulations. Ils sont de plus sujets à la Cardiomyopathie Hypertrophique (CMH), aggravée par le surpoids. Aujourd'hui, PetSelf propose une routine en 3 étapes.
+
+<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+      Fondement Scientifique & Comportemental
+    </h5>
+    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+      Ce contenu est basé sur <strong>Normes de la GCCF pour le British Shorthair et directives sur l'obésité de l'AAFP</strong>.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
+  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
+    🐾 British Shorthair Profil principal
+  </h3>
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+    <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 15 ans</span></div>
+    <div class="flex flex-col"><span class="text-xs text-slate-400">Mode de sommeil</span><span class="font-bold text-slate-800 dark:text-slate-200">14 ~ 16 heures (préfère le sol frais et plat)</span></div>
+    <div class="flex flex-col"><span class="text-xs text-slate-400">Tempérament</span><span class="font-bold text-slate-800 dark:text-slate-200">Calme, Indépendant, Fidèle, Patient</span></div>
+  </div>
+</div>
+
+## 1. Langage corporel du British Shorthair : regard distant et mouvements de queue
+
+Les British Shorthairs n'aiment pas être contraints et montrent leur confiance par un 'regard doux' à distance. En revanche, lorsqu'ils sont agacés, ils montrent des 'mouvements de queue'. Le porter à ce moment créera du stress.
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Regard doux</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Signification:</strong> Une expression d'amour mature et indépendante, indiquant qu'il est heureux et en sécurité de partager l'espace.<br/>
+    <strong>• Action correcte:</strong> Clignez lentement des yeux pour répondre. Ne vous approchez pas et ne le portez pas ; laissez-le tranquille.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mouvements de queue</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Signification:</strong> Un signal d'avertissement indiquant qu'il est agacé ou touché trop fermement, demandant d'arrêter.<br/>
+    <strong>• Action correcte:</strong> Arrêtez immédiatement de le caresser et évitez tout contact pour le laisser se détendre.
+  </p>
+</div>
+
+---
+
+## 2. Routine de soins quotidiens personnalisée
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Mesure stricte des portions avec une balance de cuisine</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Pour prévenir la cardiomyopathie hypertrophique (CMH) due à l'obésité, pesez les croquettes sur une balance.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Brossage du sous-poil avec une brosse en caoutchouc</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Bien que de poil court, leur pelage est dense. Brossez 5 min avec une brosse en caoutchouc pour ramasser le poil mort.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Mesure du rythme respiratoire pour la CMH et jeu calme</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Vérifiez que son rythme respiratoire au repos est inférieur à 30 mouvements par minute, et jouez calmement avec des balles en laine.
+  </p>
+</div>
+
+## 3. Résumé et précautions
+<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
+  <span class="text-xl">💡</span>
+  <div>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+    </p>
+  </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire aux questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Pourquoi l'obésité est-elle plus nocive pour le British Shorthair ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Le British Shorthair a une carrure lourde et est sujet à la CMH. L'obésité oblige le cœur à travailler plus, augmentant les risques d'insuffisance.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Pourquoi les British Shorthairs détestent-ils être portés ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ils aiment leur indépendance et paniquent lorsque leurs pattes quittent le sol. Le porter de force peut détériorer le lien de confiance.
+    </p>
+  </details>
+</div>

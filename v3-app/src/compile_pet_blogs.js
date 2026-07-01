@@ -137,6 +137,18 @@ function generateMarkdown(slug, lang) {
     id: "Ringkasan dan Tindakan Pencegahan"
   };
 
+  const summaryTexts = {
+    ko: "반려동물의 언어(카밍 시그널)를 세심하게 관찰하는 것만으로도 대부분의 행동 발달 및 스트레스성 질환을 사전에 예방할 수 있습니다. 수의학적 치료도 중요하지만, 집안 환경(안전 발판, 수직 공간 확보, 신선한 다각적 물 공급)을 안전하게 관리하는 것이 평생 동반자로서의 행복을 지탱하는 가장 강력한 보호막입니다.",
+    en: "Simply observing your pet's calming signals can prevent major behavioral issues and stress-induced illnesses. While veterinary treatment is important, providing a safe environment (steps, vertical spaces, multiple water sources) is the strongest shield supporting their lifetime happiness.",
+    ja: "ペットの合図（カーミングシグナル）を細かく観察するだけでも、ほとんどの行動問題やストレス性疾患を事前に予防できます。獣医学的な治療も重要ですが、家庭環境（滑り止めステップ、垂直空間の確保、新鮮な複数箇所での給水）を安全に管理することが、生涯の伴侶としての幸せを支える最も強力な盾となります。",
+    zh: "仅仅通过仔细观察宠物的身体语言（安定信号），就可以预防大部分行为问题和压力引起的疾病。虽然兽医治疗很重要，但安全管理家庭环境（安全台阶、垂直空间保障、新鲜的多角度饮水）是保障它们一生幸福的最强护盾。",
+    es: "El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Aunque el tratamiento veterinario es importante, proporcionar un entorno seguro (rampas, espacios verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.",
+    fr: "Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.",
+    de: "Das einfache Beobachten der Beschwichtigungssignale Ihres Haustiers kann schwerwiegende Verhaltensprobleme und stressbedingte Krankheiten verhindern. Während eine tierärztliche Behandlung wichtig ist, ist eine sichere Umgebung (Treppen, vertikale Räume, mehrere Wasserstellen) der stärkste Schutz für ihr lebenslanges Glück.",
+    pt: "Observar simplesmente os sinais de calma do seu animal de estimação pode prevenir grandes problemas comportamentais e doenças induzidas pelo estresse. Embora o tratamento veterinário seja importante, proporcionar um ambiente seguro (degraus, espaços verticais, múltiplas fontes de água) é o escudo mais forte para apoiar a sua felicidade ao longo da vida.",
+    id: "Cukup dengan mengamati sinyal penenang hewan peliharaan Anda, Anda dapat mencegah masalah perilaku utama dan penyakit akibat stres. Meskipun perawatan medis penting, menyediakan lingkungan yang aman (tangga ramah hewan, ruang vertikal, beberapa sumber air) adalah pelindung terkuat untuk mendukung kebahagiaan seumur hidup mereka."
+  };
+
   const faqHeader = {
     ko: "자주 묻는 질문 (FAQ)",
     en: "Frequently Asked Questions (FAQ)",
@@ -238,6 +250,61 @@ function generateMarkdown(slug, lang) {
       de: ["Russisch Blau", "Scheues Temperament", "Sichere Verstecke", "Katzenpflege"],
       pt: ["Azul Russo", "Temperamento Tímido", "Esconderijos Seguros", "Cuidado de Cães"],
       id: ["Russian Blue", "Temperamen Pemalu", "Tempat Sembunyi Aman", "Perawatan Kucing"]
+    },
+    'corgi-care': {
+      ko: ["웰시코기", "슬개골 예방", "척추 디스크", "이중모 관리"],
+      en: ["Welsh Corgi", "Patellar Care", "Spinal Health", "Double Coat"],
+      ja: ["ウェルシュ・コーギー", "膝蓋骨ケア", "椎間板ヘルニア", "二重毛"],
+      zh: ["威尔士柯基", "髌骨护理", "脊椎健康", "双层毛"],
+      es: ["Welsh Corgi", "Cuidado Patelar", "Salud Espinal", "Manto Doble"],
+      fr: ["Welsh Corgi", "Soin de Rotule", "Santé du Dos", "Double Pelage"],
+      de: ["Welsh Corgi", "Kniescheibenpflege", "Rückengesundheit", "Doppeltes Fell"],
+      pt: ["Welsh Corgi", "Cuidado Patelar", "Saúde Espinal", "Pelagem Dupla"],
+      id: ["Welsh Corgi", "Perawatan Patela", "Kesehatan Tulang Belakang", "Bulu Ganda"]
+    },
+    'persian-care': {
+      ko: ["페르시안 고양이", "장모종 빗질", "단두종 관리", "눈물자국"],
+      en: ["Persian Cat", "Longhair Grooming", "Brachycephalic", "Tear Stains"],
+      ja: ["ペルシアン猫", "長毛のブラッシング", "短頭種", "涙やけ"],
+      zh: ["波斯猫", "长毛梳理", "扁脸猫", "泪痕"],
+      es: ["Gato Persa", "Aseo de Pelo Largo", "Braquicéfalo", "Lágrimas"],
+      fr: ["Chat Persan", "Brossage Poil Long", "Brachycéphale", "Larmes"],
+      de: ["Perserkatze", "Langhaarpflege", "Kurzköpfig", "Tränenflecken"],
+      pt: ["Gato Persa", "Escovação de Pelo Longo", "Braquicefálico", "Lágrimas"],
+      id: ["Kucing Persia", "Perawatan Bulu Panjang", "Brakisefalik", "Noda Air Mata"]
+    },
+    'beagle-care': {
+      ko: ["비글", "분리불안", "하울링", "외이염 예방"],
+      en: ["Beagle", "Separation Anxiety", "Howling", "Ear Health"],
+      ja: ["ビーグル", "分離不安", "遠吠え", "耳の健康"],
+      zh: ["比格犬", "分离焦虑", "嚎叫", "耳朵健康"],
+      es: ["Beagle", "Ansiedad por Separación", "Aullidos", "Oídos"],
+      fr: ["Beagle", "Anxiété de Séparation", "Hurlements", "Oreilles"],
+      de: ["Beagle", "Trennungsangst", "Jaulen", "Ohrengesundheit"],
+      pt: ["Beagle", "Ansiedade de Separação", "Uivos", "Orelhas"],
+      id: ["Beagle", "Kecemasan Perpisahan", "Melolong", "Kesehatan Telinga"]
+    },
+    'bichon-care': {
+      ko: ["비숑 프리제", "비숑타임", "털 엉킴", "피부염 예방"],
+      en: ["Bichon Frise", "Bichon Blitz", "Fur Matting", "Dermatitis"],
+      ja: ["ビション・フリーゼ", "ビションタイム", "毛のもつれ", "皮膚炎"],
+      zh: ["比熊犬", "比熊时间", "毛发缠结", "皮肤炎"],
+      es: ["Bichón Frisé", "Bichon Blitz", "Nudos de Pelo", "Dermatitis"],
+      fr: ["Bichon Frisé", "FRAPs", "Nœuds de Poils", "Dermatite"],
+      de: ["Bichon Frise", "Bichon Blitz", "Fellverfilzung", "Hautentzündung"],
+      pt: ["Bichon Frisé", "Bichon Blitz", "Pelagem Embaraçada", "Dermatite"],
+      id: ["Bichon Frise", "Bichon Blitz", "Bulu Kusut", "Dermatitis"]
+    },
+    'bshorthair-care': {
+      ko: ["브리티시 숏헤어", "비대성 심근증", "체중 조절", "비만 예방"],
+      en: ["British Shorthair", "HCM Prevention", "Weight Control", "Obesity"],
+      ja: ["ブリティッシュ・ショートヘア", "肥大性心筋症", "体重管理", "肥満"],
+      zh: ["英国短毛猫", "肥大性心肌病", "体重管理", "肥胖"],
+      es: ["British Shorthair", "Prevención de HCM", "Control de Peso", "Obesidad"],
+      fr: ["British Shorthair", "Prévention de CMH", "Contrôle du Poids", "Obésité"],
+      de: ["British Shorthair", "HCM-Prävention", "Gewichtskontrolle", "Adipositas"],
+      pt: ["British Shorthair", "Prevenção de HCM", "Controle de Peso", "Obesidade"],
+      id: ["British Shorthair", "Pencegahan HCM", "Kontrol Berat Badan", "Obesitas"]
     }
   };
 
@@ -254,7 +321,13 @@ function generateMarkdown(slug, lang) {
     'shiba-care': { pub: '2026-01-29', upd: '2026-01-29' },
     'pomeranian-care': { pub: '2026-01-05', upd: '2026-01-05' },
     'siamese-care': { pub: '2026-02-19', upd: '2026-02-19' },
-    'russian-blue-care': { pub: '2026-03-26', upd: '2026-03-26' }
+    'russian-blue-care': { pub: '2026-03-26', upd: '2026-03-26' },
+    // 신규 추가 위인/펫 블로그 발행일 랜덤 섞기
+    'corgi-care': { pub: '2026-04-12', upd: '2026-04-14' },
+    'persian-care': { pub: '2026-06-05', upd: '2026-06-05' },
+    'beagle-care': { pub: '2026-02-28', upd: '2026-03-01' },
+    'bichon-care': { pub: '2026-05-10', upd: '2026-05-10' },
+    'bshorthair-care': { pub: '2026-03-08', upd: '2026-03-09' }
   };
 
   const pubDateStr = petDates[slug]?.pub || new Date().toISOString().split('T')[0];
@@ -351,7 +424,7 @@ ${whyDesc}
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      ${lang === 'ko' ? '반려동물의 언어(카밍 시그널)를 세심하게 관찰하는 것만으로도 대부분의 행동 발달 및 스트레스성 질환을 사전에 예방할 수 있습니다. 수의학적 치료도 중요하지만, 집안 환경(안전 발판, 수직 공간 확보, 신선한 다각적 물 공급)을 안전하게 관리하는 것이 평생 동반자로서의 행복을 지탱하는 가장 강력한 보호막입니다.' : 'Simply observing your pet\'s calming signals can prevent major behavioral issues and stress-induced illnesses. While veterinary treatment is important, providing a safe environment (steps, vertical spaces, multiple water sources) is the strongest shield supporting their lifetime happiness.'}
+      ${summaryTexts[lang] || summaryTexts['en']}
     </p>
   </div>
 </div>
