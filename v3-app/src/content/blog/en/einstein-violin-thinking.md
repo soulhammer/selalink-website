@@ -46,7 +46,7 @@ Today, BuildSelf introduces the scientific principles behind Einstein's 'violin 
 
 When we are overly immersed in a single complex problem, the brain is trapped in a thinking trap and repeatedly activates only a specific neural circuit. Cognitive psychology calls this state 'tunnel vision' or 'cognitive overload.'
 
-Einstein's violin playing was a tool for a perfect **'cognitive shifting'** that immediately cut off this overloaded neural circuit and activated other areas of the brain. Playing a musical instrument simultaneously stimulates sight, hearing, and touch, and strongly stimulates the corpus callosum that connects the left and right brains. The moment you step away physically and mentally from the problem you were obsessed with and focus your attention entirely on the music, the brain enters the default mode network and creatively combines scattered information to create an 'Aha! Moment' that leads to a solution.
+Einstein's violin playing was a tool for a perfect 'cognitive shifting' that immediately cut off this overloaded neural circuit and activated other areas of the brain. Playing a musical instrument simultaneously stimulates sight, hearing, and touch, and strongly stimulates the corpus callosum that connects the left and right brains. The moment you step away physically and mentally from the problem you were obsessed with and focus your attention entirely on the music, the brain enters the default mode network and creatively combines scattered information to create an 'Aha! Moment' that leads to a solution.
 
 ---
 

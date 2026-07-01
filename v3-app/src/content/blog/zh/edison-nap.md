@@ -37,7 +37,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>爱迪生日记与杂记（1948）及法国巴黎脑研究所（Paris Brain Institute）研究</strong>.
+      本内容基于 <strong>爱迪生日记与杂记（1948）及法国巴黎脑研究所（Paris Brain Institute）研究</strong>。
     </p>
   </div>
 </div>

@@ -28,7 +28,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>欧内斯特·海明威在《巴黎评论》的访谈(1958) 及应用行为分析期刊(Journal of Applied Behavior Analysis)</strong>.
+      本内容基于 <strong>欧内斯特·海明威在《巴黎评论》的访谈(1958) 及应用行为分析期刊(Journal of Applied Behavior Analysis)</strong>。
     </p>
   </div>
 </div>

@@ -35,7 +35,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>传记《Einstein: A Life》与学术期刊《Frontiers in Psychology》</strong>.
+      本内容基于 <strong>传记《Einstein: A Life》与学术期刊《Frontiers in Psychology》</strong>。
     </p>
   </div>
 </div>
@@ -46,7 +46,7 @@ faqs:
 
 当我们过度沉浸在某一个复杂的难题中时，大脑会陷入思维陷阱，反复激活特定的单一神经回路。认知心理学将这种状态称为“隧道视野”或“认知超载”。
 
-爱因斯坦演奏小提琴的举动，正是阻断这一超载神经回路并激活大脑其他区域的完美**“认知转移（Cognitive Shifting）”**工具。演奏乐器同时刺激视觉、听觉和触觉，并强烈刺激连接左右脑的胼胝体（Corpus Callosum）。当你从执着的难题中抽身（无论是物理上还是精神上），将注意力完全集中于音乐时，大脑就会进入默认模式网络（Default Mode Network），从而创造性地重组零散信息，产生引导问题解决的“顿悟时刻（Aha! Moment）”。
+爱因斯坦演奏小提琴的举动，正是阻断这一超载神经回路并激活大脑其他区域的完美“认知转移（Cognitive Shifting）”工具。演奏乐器同时刺激视觉、听觉和触觉，并强烈刺激连接左右脑的胼胝体（Corpus Callosum）。当你从执着的难题中抽身（无论是物理上还是精神上），将注意力完全集中于音乐时，大脑就会进入默认模式网络（Default Mode Network），从而创造性地重组零散信息，产生引导问题解决的“顿悟时刻（Aha! Moment）”。
 
 ---
 

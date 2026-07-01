@@ -35,7 +35,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>ベンジャミン・フランクリン自伝『The Autobiography of Benjamin Franklin』およびニューイングランド・ジャーナル・オブ・メディシン（NEJM）</strong>.
+      本コンテンツは、<strong>ベンジャミン・フランクリン自伝『The Autobiography of Benjamin Franklin』およびニューイングランド・ジャーナル・オブ・メディシン（NEJM）</strong>に基づいています。
     </p>
   </div>
 </div>

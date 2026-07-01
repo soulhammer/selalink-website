@@ -31,7 +31,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>乔尔乔·瓦萨里著作《艺苑名人传》及认知心理学自我损耗（Ego Depletion）理论</strong>.
+      本内容基于 <strong>乔尔乔·瓦萨里著作《艺苑名人传》及认知心理学自我损耗（Ego Depletion）理论</strong>。
     </p>
   </div>
 </div>

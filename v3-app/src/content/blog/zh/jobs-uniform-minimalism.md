@@ -36,7 +36,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>传记《Steve Jobs》与学术期刊《JPSP》决策疲劳研究</strong>.
+      本内容基于 <strong>传记《Steve Jobs》与学术期刊《JPSP》决策疲劳研究</strong>。
     </p>
   </div>
 </div>

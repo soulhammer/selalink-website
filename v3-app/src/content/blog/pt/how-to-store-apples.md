@@ -26,7 +26,7 @@ Você já comprou um saco de maçãs frescas, doces e crocantes apenas para enco
 
 Embora as maçãs sejam uma das frutas mais populares do mundo, elas exigem atenção especial ao serem armazenadas porque liberam um potente hormônio vegetal natural que acelera a decomposição dos produtos próximos. Sem os devidos cuidados, as maçãs perderão a umidade, ficarão farinhentas e estragarão outros vegetais e frutas em sua geladeira.
 
-Hoje na StoreSelf, apresentamos o **guia de armazenamento de 3 etapas cientificamente comprovado para maximizar o frescor das maçãs**, apoiado por especialistas em agricultura e segurança alimentar. 🛡️
+Hoje na StoreSelf, apresentamos o guia de armazenamento de 3 etapas cientificamente comprovado para maximizar o frescor das maçãs, apoiado por especialistas em agricultura e segurança alimentar. 🛡️
 
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
@@ -45,11 +45,11 @@ Hoje na StoreSelf, apresentamos o **guia de armazenamento de 3 etapas cientifica
 
 ## 1. Por que as maçãs aceleram a decomposição: O culpado do gás etileno
 
-As maçãs continuam a respirar e amadurecer mesmo após a colheita, liberando uma quantidade significativa de 💨 **gás etileno** (um hormônio natural de amadurecimento das plantas).
+As maçãs continuam a respirar e amadurecer mesmo após a colheita, liberando uma quantidade significativa de 💨 gás etileno (um hormônio natural de amadurecimento das plantas).
 
 O problema é que uma vez que este gás é liberado no ar, ele acelera drasticamente o processo de amadurecimento das frutas próximas sensíveis ao etileno (como bananas, peras e caquis) e vegetais (como espinafre e pepinos), fazendo com que apodreçam rapidamente. Mesmo entre as próprias maçãs, compartilhar o mesmo espaço de ar acelera o envelhecimento devido à exposição cumulativa ao etileno.
 
-Por isso, a chave para um armazenamento bem-sucedido de maçãs é **evitar a perda de umidade e isolar as maçãs individualmente para que o gás etileno não se espalhe para outros produtos.**
+Por isso, a chave para um armazenamento bem-sucedido de maçãs é evitar a perda de umidade e isolar as maçãs individualmente para que o gás etileno não se espalhe para outros produtos.
 
 ---
 

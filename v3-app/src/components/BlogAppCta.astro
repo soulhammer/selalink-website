@@ -3,7 +3,7 @@ import { useTranslations, languages } from '../i18n/ui';
 
 interface Props {
   lang: string;
-  app: 'storeself' | 'freshself' | 'buildself' | 'logself' | 'general';
+  app: 'storeself' | 'freshself' | 'buildself' | 'logself' | 'general' | 'petself';
 }
 
 const { lang, app } = Astro.props;
@@ -61,6 +61,16 @@ const appDetails = {
     btnBg: 'bg-slate-700 hover:bg-slate-800 text-white focus:ring-slate-500/20',
     badgeText: t('cta.badge.studio'),
     badgeStyle: 'bg-slate-100 text-slate-800 dark:bg-slate-500/20 dark:text-slate-300 border-slate-200/50 dark:border-slate-500/20'
+  },
+  petself: {
+    title: t('cta.general.title'),
+    desc: t('cta.general.desc'),
+    btnText: t('cta.general.btn'),
+    link: `/${currentLang}/`,
+    bgColor: 'bg-rose-50/50 border-rose-100 dark:bg-rose-950/10 dark:border-rose-500/20',
+    btnBg: 'bg-rose-600 hover:bg-rose-700 text-white focus:ring-rose-500/20',
+    badgeText: t('cta.badge.studio'),
+    badgeStyle: 'bg-rose-100 text-rose-800 dark:bg-rose-500/20 dark:text-rose-300 border-rose-200/50 dark:border-rose-500/20'
   }
 };
 
@@ -75,6 +85,8 @@ const styleVars = app === 'storeself'
   ? '--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);'
   : app === 'logself'
   ? '--theme-color-light: rgba(59, 130, 246, 0.05); --theme-color-border-hover: rgba(59, 130, 246, 0.3); --theme-color-glow: rgba(59, 130, 246, 0.15);'
+  : app === 'petself'
+  ? '--theme-color-light: rgba(244, 63, 94, 0.05); --theme-color-border-hover: rgba(244, 63, 94, 0.3); --theme-color-glow: rgba(244, 63, 94, 0.15);'
   : '--theme-color-light: rgba(13, 148, 136, 0.05); --theme-color-border-hover: rgba(13, 148, 136, 0.3); --theme-color-glow: rgba(13, 148, 136, 0.15);';
 ---
 

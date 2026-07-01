@@ -29,7 +29,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>温斯顿·丘吉尔著《第二次世界大战回忆录》及美国国家航空航天局(NASA)宇航员强效午睡注意力研究</strong>.
+      本内容基于 <strong>温斯顿·丘吉尔著《第二次世界大战回忆录》及美国国家航空航天局(NASA)宇航员强效午睡注意力研究</strong>。
     </p>
   </div>
 </div>

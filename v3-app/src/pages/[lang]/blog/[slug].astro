@@ -153,11 +153,12 @@ const nextPost = currentIndex > 0 ? allPostsOfLang[currentIndex - 1] : null;
 const prevPost = currentIndex < allPostsOfLang.length - 1 ? allPostsOfLang[currentIndex + 1] : null;
 
 // 앱 타입별 테마 스타일링 바인딩
-const themeAccents = {
+const themeAccents: Record<string, string> = {
   storeself: 'prose-a:text-emerald-600 dark:prose-a:text-emerald-400 hover:prose-a:text-emerald-700 dark:hover:prose-a:text-emerald-300 border-emerald-500/10 dark:border-emerald-500/20 bg-emerald-500/5',
   freshself: 'prose-a:text-purple-600 dark:prose-a:text-purple-400 hover:prose-a:text-purple-700 dark:hover:prose-a:text-purple-300 border-purple-500/10 dark:border-purple-500/20 bg-purple-500/5',
   buildself: 'prose-a:text-indigo-600 dark:prose-a:text-indigo-400 hover:prose-a:text-indigo-700 dark:hover:prose-a:text-indigo-300 border-indigo-500/10 dark:border-indigo-500/20 bg-indigo-500/5',
   logself: 'prose-a:text-blue-600 dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 border-blue-500/10 dark:border-blue-500/20 bg-blue-500/5',
+  petself: 'prose-a:text-rose-600 dark:prose-a:text-rose-400 hover:prose-a:text-rose-700 dark:hover:prose-a:text-rose-300 border-rose-500/10 dark:border-rose-500/20 bg-rose-500/5',
   general: 'prose-a:text-teal-600 dark:prose-a:text-teal-400 hover:prose-a:text-teal-700 dark:hover:prose-a:text-teal-300 border-teal-500/10 dark:border-teal-500/20 bg-teal-500/5'
 };
 const activeAccent = themeAccents[app] || themeAccents.general;
@@ -220,7 +221,13 @@ const activeAccent = themeAccents[app] || themeAccents.general;
       </div>
 
       {heroImage && (
-        <div class="relative rounded-[2rem] overflow-hidden border border-slate-200/80 dark:border-white/10 bg-slate-100 dark:bg-slate-950/20 shadow-xl dark:shadow-2xl max-h-[420px] md:max-h-[480px] aspect-video flex items-center justify-center">
+        <div 
+          id="hero-image-trigger"
+          class="relative rounded-[2rem] overflow-hidden border border-slate-200/80 dark:border-white/10 bg-slate-100 dark:bg-slate-950/20 shadow-xl dark:shadow-2xl max-h-[420px] md:max-h-[480px] aspect-video flex items-center justify-center cursor-zoom-in hover:brightness-95 active:scale-[0.99] transition-all duration-200"
+          aria-label="View full image"
+          role="button"
+          tabindex="0"
+        >
           {/* Blurred background shadow for aesthetic depth */}
           <img 
             src={heroImage} 
@@ -232,7 +239,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
           <img 
             src={heroImage} 
             alt={title}
-            class="relative z-10 max-h-[420px] md:max-h-[480px] w-auto object-contain mx-auto"
+            class="relative z-10 max-h-[420px] md:max-h-[480px] w-auto object-contain mx-auto pointer-events-none"
           />
         </div>
       )}
@@ -340,7 +347,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
         </h5>
       </div>
       <p class="text-[11px] md:text-xs text-slate-500/80 dark:text-slate-400/80 m-0 leading-relaxed font-medium">
-        {app === 'buildself' ? t('blog.disclaimer.buildself.desc') : t('blog.disclaimer.desc')}
+        {app === 'buildself' ? t('blog.disclaimer.buildself.desc') : app === 'petself' ? t('blog.disclaimer.petself.desc') : t('blog.disclaimer.desc')}
       </p>
     </div>
 
@@ -352,11 +359,77 @@ const activeAccent = themeAccents[app] || themeAccents.general;
       )}
     </div>
   </main>
+
+  {heroImage && (
+    <!-- Lightbox Modal (Premium UI with blur and transition) -->
+    <div 
+      id="lightbox-modal" 
+      class="fixed inset-0 z-50 hidden items-center justify-center bg-slate-950/90 backdrop-blur-md opacity-0 transition-opacity duration-300 cursor-zoom-out"
+      aria-modal="true"
+      role="dialog"
+    >
+      <div class="relative max-w-[90vw] max-h-[90vh] flex items-center justify-center pointer-events-none">
+        <button 
+          id="lightbox-close" 
+          class="absolute top-[-3rem] right-0 md:right-[-3rem] text-white/70 hover:text-white text-3xl font-light transition-colors p-2 pointer-events-auto cursor-pointer"
+          aria-label="Close Lightbox"
+        >
+          &times;
+        </button>
+        <img 
+          id="lightbox-image" 
+          src={heroImage} 
+          alt={title} 
+          class="max-w-full max-h-[80vh] md:max-h-[85vh] object-contain rounded-2xl shadow-2xl pointer-events-auto bg-slate-950"
+        />
+      </div>
+    </div>
+  )}
 </Layout>
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    // 1. 읽기 진행 바 제어
+    // 1. 라이트박스(Lightbox) 모달 제어
+    const trigger = document.getElementById('hero-image-trigger');
+    const modal = document.getElementById('lightbox-modal');
+    const closeBtn = document.getElementById('lightbox-close');
+    const lightboxImg = document.getElementById('lightbox-image');
+
+    if (trigger && modal && closeBtn) {
+      trigger.addEventListener('click', () => {
+        modal.classList.remove('hidden');
+        modal.classList.add('flex');
+        requestAnimationFrame(() => {
+          modal.classList.remove('opacity-0');
+          modal.classList.add('opacity-100');
+        });
+        document.body.style.overflow = 'hidden';
+      });
+
+      const closeModal = () => {
+        modal.classList.remove('opacity-100');
+        modal.classList.add('opacity-0');
+        setTimeout(() => {
+          modal.classList.remove('flex');
+          modal.classList.add('hidden');
+          document.body.style.overflow = '';
+        }, 300);
+      };
+
+      closeBtn.addEventListener('click', closeModal);
+      modal.addEventListener('click', (e) => {
+        if (e.target === modal || e.target === lightboxImg) {
+          closeModal();
+        }
+      });
+      window.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+          closeModal();
+        }
+      });
+    }
+
+    // 2. 읽기 진행 바 제어
     const progressBar = document.getElementById('reading-progress');
     if (progressBar) {
       window.addEventListener('scroll', () => {

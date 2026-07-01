@@ -46,7 +46,7 @@ Aujourd'hui, BuildSelf présente les principes scientifiques qui sous-tendent la
 
 Lorsque nous sommes trop plongés dans un seul problème complexe, le cerveau s'enferme dans un piège de pensée et active de manière répétée un seul circuit neuronal spécifique. La psychologie cognitive appelle cet état 'vision tunnel' ou 'surcharge cognitive'.
 
-Le violon d'Einstein était l'outil d'une parfaite **'bascule cognitive (Cognitive Shifting)'** qui coupait immédiatement ce circuit surchargé pour activer d'autres zones cérébrales. Jouer d'un instrument stimule simultanément la vue, l'ouïe et le toucher, et stimule fortement le corps calleux reliant les deux hémisphères. Dès que l'on s'éloigne physiquement et mentalement du problème pour se concentrer sur la musique, le cerveau passe en réseau du mode par défaut et combine les informations dispersées pour créer le 'Moment Eurêka !' qui mène à la solution.
+Le violon d'Einstein était l'outil d'une parfaite 'bascule cognitive (Cognitive Shifting)' qui coupait immédiatement ce circuit surchargé pour activer d'autres zones cérébrales. Jouer d'un instrument stimule simultanément la vue, l'ouïe et le toucher, et stimule fortement le corps calleux reliant les deux hémisphères. Dès que l'on s'éloigne physiquement et mentalement du problème pour se concentrer sur la musique, le cerveau passe en réseau du mode par défaut et combine les informations dispersées pour créer le 'Moment Eurêka !' qui mène à la solution.
 
 ---
 

@@ -46,7 +46,7 @@ Hoje, o BuildSelf apresenta os princípios científicos por trás da rotina de '
 
 Quando estamos excessivamente imersos em um único problema complexo, o cérebro fica preso em uma armadilha mental e ativa repetidamente apenas um circuito neural específico. A psicologia cognitiva chama esse estado de 'visão de túnel' ou 'sobrecarga cognitiva'.
 
-O violino de Einstein funcionava como uma ferramenta para uma perfeita **'mudança cognitiva (Cognitive Shifting)'**, que interrompia imediatamente o circuito sobrecarregado e ativava outras áreas do cérebro. Tocar um instrumento estimula visão, audição e tato simultaneamente, ativando fortemente o corpo caloso que conecta os dois hemisférios. No momento em que você se afasta física e mentalmente do problema e foca sua atenção na música, o cérebro entra na rede de modo padrão (Default Mode Network) e combina informações dispersas de forma criativa, gerando o 'Momento Eureka!' que leva à solução.
+O violino de Einstein funcionava como uma ferramenta para uma perfeita 'mudança cognitiva (Cognitive Shifting)', que interrompia imediatamente o circuito sobrecarregado e ativava outras áreas do cérebro. Tocar um instrumento estimula visão, audição e tato simultaneamente, ativando fortemente o corpo caloso que conecta os dois hemisférios. No momento em que você se afasta física e mentalmente do problema e foca sua atenção na música, o cérebro entra na rede de modo padrão (Default Mode Network) e combina informações dispersas de forma criativa, gerando o 'Momento Eureka!' que leva à solução.
 
 ---
 

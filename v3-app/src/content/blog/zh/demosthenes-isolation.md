@@ -37,7 +37,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》及美国心理学会（APA）环境控制研究</strong>.
+      本内容基于 <strong>普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》及美国心理学会（APA）环境控制研究</strong>。
     </p>
   </div>
 </div>

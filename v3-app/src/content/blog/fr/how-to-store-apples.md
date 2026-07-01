@@ -26,7 +26,7 @@ Avez-vous déjà acheté un sac de pommes fraîches, douces et croquantes pour l
 
 Bien que les pommes soient l'un des fruits les plus populaires au monde, elles nécessitent une attention particulière lors de la conservation car elles libèrent une puissante hormone végétale naturelle qui accélère la décomposition des produits environnants. Sans soins appropriés, les pommes perdent leur humidité, deviennent farineuses et gâtent les autres fruits et légumes de votre réfrigérateur.
 
-Aujourd'hui chez StoreSelf, nous vous présentons le **guide de conservation en 3 étapes scientifiquement prouvé pour maximiser la fraîcheur des pommes**, soutenu par des experts en agriculture et en sécurité alimentaire. 🛡️
+Aujourd'hui chez StoreSelf, nous vous présentons le guide de conservation en 3 étapes scientifiquement prouvé pour maximiser la fraîcheur des pommes, soutenu par des experts en agriculture et en sécurité alimentaire. 🛡️
 
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
@@ -45,11 +45,11 @@ Aujourd'hui chez StoreSelf, nous vous présentons le **guide de conservation en 
 
 ## 1. Pourquoi les pommes accélèrent la décomposition : Le coupable de l'éthylène
 
-Les pommes continuent de respirer et de mûrir même après la récolte en libérant une quantité importante de 💨 **gaz éthylène** (une hormone végétale naturelle de maturation).
+Les pommes continuent de respirer et de mûrir même après la récolte en libérant une quantité importante de 💨 gaz éthylène (une hormone végétale naturelle de maturation).
 
 Le problème est qu'une fois ce gaz libéré dans l'air, il accélère considérablement le mûrissement des fruits sensibles à l'éthylène à proximité (comme les bananes, les poires et les kakis) et des légumes (comme les épinards et les concombres), les faisant pourrir rapidement. Même entre les pommes elles-mêmes, partager le même espace d'air accélère le vieillissement en raison de l'exposition cumulative à l'éthylène.
 
-Par conséquent, la clé d'une conservation réussie des pommes est de **prévenir la perte d'humidité et d'isoler les pommes individuellement afin que le gaz éthylène ne se propage pas aux autres produits.**
+Par conséquent, la clé d'une conservation réussie des pommes est de prévenir la perte d'humidité et d'isoler les pommes individuellement afin que le gaz éthylène ne se propage pas aux autres produits.
 
 ---
 

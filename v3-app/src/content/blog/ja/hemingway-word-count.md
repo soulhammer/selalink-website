@@ -28,7 +28,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>アーネスト・ヘミングウェイ『パリ・レビュー』インタビュー(1958) ＆ 応用行動分析学ジャーナル(Journal of Applied Behavior Analysis)</strong>.
+      本コンテンツは、<strong>アーネスト・ヘミングウェイ『パリ・レビュー』インタビュー(1958) ＆ 応用行動分析学ジャーナル(Journal of Applied Behavior Analysis)</strong>に基づいています。
     </p>
   </div>
 </div>

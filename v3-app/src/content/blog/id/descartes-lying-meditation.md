@@ -47,7 +47,7 @@ Hari ini, BuildSelf menyajikan landasan ilmiah dari rutinitas meditasi 'kasur' D
 
 Banyak manusia modern langsung bangun tergesa-gesa begitu mendengar alarm, dengan jantung berdebar, lalu memeriksa pesan di ponsel. Hal ini memicu pelepasan hormon stres kortisol dan adrenalin sejak awal hari, meningkatkan kecemasan dan kelelahan kronis sepanjang hari.
 
-Sebaliknya, menjaga posisi berbaring horizontal yang nyaman beberapa saat setelah bangun seperti Descartes mengaktifkan sistem saraf parasimpatis, membantu otak bangun dengan lembut. Dalam kondisi ini, **'gelombang Alpha'** (gelombang otak yang memicu kreativitas dan intuisi) dilepaskan secara harmonis. Waktu merenung yang singkat di kasur ini menjaga fungsi kognitif dan ketahanan emosional sepanjang hari.
+Sebaliknya, menjaga posisi berbaring horizontal yang nyaman beberapa saat setelah bangun seperti Descartes mengaktifkan sistem saraf parasimpatis, membantu otak bangun dengan lembut. Dalam kondisi ini, 'gelombang Alpha' (gelombang otak yang memicu kreativitas dan intuisi) dilepaskan secara harmonis. Waktu merenung yang singkat di kasur ini menjaga fungsi kognitif dan ketahanan emosional sepanjang hari.
 
 ---
 

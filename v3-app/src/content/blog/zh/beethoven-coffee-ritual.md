@@ -29,7 +29,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>安东·辛德勒著《我所知道的贝多芬》及认知与情感学术期刊(Cognition and Emotion)</strong>.
+      本内容基于 <strong>安东·辛德勒著《我所知道的贝多芬》及认知与情感学术期刊(Cognition and Emotion)</strong>。
     </p>
   </div>
 </div>

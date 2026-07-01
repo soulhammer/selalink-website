@@ -46,7 +46,7 @@ Hari ini, BuildSelf menyajikan prinsip-prinsip ilmiah di balik rutinitas 'reset 
 
 Ketika kita terlalu terpaku pada satu masalah rumit, otak akan terjebak dalam perangkap berpikir dan berulang kali mengaktifkan sirkuit saraf tertentu saja. Psikologi kognitif menyebut kondisi ini sebagai 'tunnel vision' (pandangan sempit) atau 'kelebihan beban kognitif'.
 
-Biola Einstein berfungsi sebagai alat untuk melakukan **'alih kognitif (Cognitive Shifting)'** yang sempurna, yang langsung memutus sirkuit saraf yang kelebihan beban dan mengaktifkan area otak lainnya. Memainkan instrumen musik menstimulasi penglihatan, pendengaran, dan sentuhan secara bersamaan, serta merangsang korpus kalosum yang menghubungkan belahan otak kanan dan kiri. Saat Anda menjauh secara fisik dan mental dari masalah yang membuat Anda terobsesi dan memfokuskan perhatian pada musik, otak akan masuk ke jaringan mode default (Default Mode Network) dan menggabungkan informasi yang tersebar secara kreatif, menghasilkan 'Momen Eureka!' yang membawa solusi.
+Biola Einstein berfungsi sebagai alat untuk melakukan 'alih kognitif (Cognitive Shifting)' yang sempurna, yang langsung memutus sirkuit saraf yang kelebihan beban dan mengaktifkan area otak lainnya. Memainkan instrumen musik menstimulasi penglihatan, pendengaran, dan sentuhan secara bersamaan, serta merangsang korpus kalosum yang menghubungkan belahan otak kanan dan kiri. Saat Anda menjauh secara fisik dan mental dari masalah yang membuat Anda terobsesi dan memfokuskan perhatian pada musik, otak akan masuk ke jaringan mode default (Default Mode Network) dan menggabungkan informasi yang tersebar secara kreatif, menghasilkan 'Momen Eureka!' yang membawa solusi.
 
 ---
 

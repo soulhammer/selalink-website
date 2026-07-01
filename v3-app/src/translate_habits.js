@@ -4516,7 +4516,7 @@ ${intro}
       ${lang === 'ko' ? '역사적 & 학술적 근거' : lang === 'ja' ? '歴史的＆学術的根拠' : lang === 'zh' ? '历史与学术依据' : lang === 'es' ? 'Fundamento Histórico y Académico' : lang === 'fr' ? 'Fondement Historique & Académique' : lang === 'de' ? 'Historischer & Wissenschaftlicher Beleg' : lang === 'pt' ? 'Base Histórica e Acadêmica' : lang === 'id' ? 'Bukti Sejarah & Akademik' : 'Historical & Academic Evidence'}
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      ${lang === 'ko' ? '본 콘텐츠는' : lang === 'ja' ? '本コンテンツは、' : lang === 'zh' ? '本内容基于' : lang === 'es' ? 'Este contenido se basa en' : lang === 'fr' ? 'Ce contenu est basé sur' : lang === 'de' ? 'Dieser Inhalt basiert auf' : lang === 'pt' ? 'Este conteúdo baseia-se em' : lang === 'id' ? 'Konten ini didasarkan pada' : 'This content is based on'} <strong>${authority}</strong>.
+      ${lang === 'ko' ? `본 콘텐츠는 <strong>${authority}</strong>에 기반하고 있습니다.` : lang === 'ja' ? `本コンテンツは、<strong>${authority}</strong>に基づいています。` : lang === 'zh' ? `本内容基于 <strong>${authority}</strong>。` : lang === 'es' ? `Este contenido se basa en <strong>${authority}</strong>.` : lang === 'fr' ? `Ce contenu est basé sur <strong>${authority}</strong>.` : lang === 'de' ? `Dieser Inhalt basiert auf <strong>${authority}</strong>.` : lang === 'pt' ? `Este conteúdo baseia-se em <strong>${authority}</strong>.` : lang === 'id' ? `Konten ini didasarkan pada <strong>${authority}</strong>.` : `This content is based on <strong>${authority}</strong>.`}
     </p>
   </div>
 </div>
@@ -4546,7 +4546,8 @@ ${stepCards.join('\n\n')}
 </div>
 ${faqSection}`;
 
-      fs.writeFileSync(targetPath, fileContent, 'utf-8');
+      let finalFileContent = fileContent.replace(/\*\*/g, '');
+      fs.writeFileSync(targetPath, finalFileContent, 'utf-8');
       createdCount++;
     });
   });

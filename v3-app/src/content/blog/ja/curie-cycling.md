@@ -37,7 +37,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>エーヴ・キュリー著『キュリー夫人』およびハーバード・ヘルス・パブリッシング（Harvard Health）の運動研究</strong>.
+      本コンテンツは、<strong>エーヴ・キュリー著『キュリー夫人』およびハーバード・ヘルス・パブリッシング（Harvard Health）の運動研究</strong>に基づいています。
     </p>
   </div>
 </div>

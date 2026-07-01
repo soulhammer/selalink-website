@@ -768,7 +768,8 @@ function run() {
               originalFrontmatter += `\npubDate: "${koPubDate}"\n`;
             }
 
-            const finalContent = `---${originalFrontmatter}---${originalBody}`;
+            let finalContent = `---${originalFrontmatter}---${originalBody}`;
+            finalContent = finalContent.replace(/\*\*/g, '');
             fs.writeFileSync(targetPath, finalContent, 'utf-8');
             console.log(`[보존 및 갱신] ${lang}/${blogSlug}.md 고품질 수동 번역 보존 완료.`);
             compiledCount++;
@@ -982,7 +983,8 @@ ${stepCards.join('\n\n')}
 ${cautionHtmls.join('\n\n')}
 ${faqSection}`;
 
-      fs.writeFileSync(targetPath, newContent, 'utf-8');
+      let finalNewContent = newContent.replace(/\*\*/g, '');
+      fs.writeFileSync(targetPath, finalNewContent, 'utf-8');
       compiledCount++;
     });
   });

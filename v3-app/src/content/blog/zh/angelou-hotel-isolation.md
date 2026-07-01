@@ -28,7 +28,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>马雅·安杰卢在《巴黎评论》的访谈(1990) 及关于注意力分心控制的认知心理学研究</strong>.
+      本内容基于 <strong>马雅·安杰卢在《巴黎评论》的访谈(1990) 及关于注意力分心控制的认知心理学研究</strong>。
     </p>
   </div>
 </div>

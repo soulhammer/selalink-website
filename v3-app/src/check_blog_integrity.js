@@ -240,6 +240,16 @@ function checkIntegrity() {
       if (parsed.body.includes('undefined') || parsed.frontmatter.includes('undefined')) {
         logError(`[undefined 누수 방지] ${lang.toUpperCase()} ${file}: 포스트 내용 내에 'undefined' 문자열이 감지되었습니다.`);
       }
+
+      // 2-H. 리터럴 \n 누수 감지
+      if (parsed.body.includes('\\n') || parsed.frontmatter.includes('\\n')) {
+        logError(`[리터럴 개행 누수 방지] ${lang.toUpperCase()} ${file}: 포스트 내용 내에 리터럴 '\\n' 문자열이 감지되었습니다.`);
+      }
+
+      // 2-I. 리터럴 ** 누수 감지
+      if (parsed.body.includes('**') || parsed.frontmatter.includes('**')) {
+        logError(`[리터럴 ** 누수 방지] ${lang.toUpperCase()} ${file}: 포스트 내용 내에 리터럴 '**' 문자열이 감지되었습니다.`);
+      }
     });
 
     if (!hasErrors) {

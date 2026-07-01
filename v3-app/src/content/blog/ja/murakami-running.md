@@ -29,7 +29,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>村上春樹 著『走ることについて語るときに僕の語ること』＆ Frontiers in Psychology 運動認知研究</strong>.
+      本コンテンツは、<strong>村上春樹 著『走ることについて語るときに僕の語ること』＆ Frontiers in Psychology 運動認知研究</strong>に基づいています。
     </p>
   </div>
 </div>

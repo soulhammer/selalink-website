@@ -35,7 +35,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>富兰克林自传《The Autobiography of Benjamin Franklin》及《新英格兰医学杂志》（NEJM）</strong>.
+      本内容基于 <strong>富兰克林自传《The Autobiography of Benjamin Franklin》及《新英格兰医学杂志》（NEJM）</strong>。
     </p>
   </div>
 </div>

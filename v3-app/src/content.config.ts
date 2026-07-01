@@ -11,7 +11,7 @@ const blogCollection = defineCollection({
     heroImage: z.string().optional(),
     tags: z.array(z.string()).default([]),
     category: z.string().default('General'),
-    app: z.enum(['storeself', 'freshself', 'buildself', 'logself', 'general']).default('general'),
+    app: z.enum(['storeself', 'freshself', 'buildself', 'logself', 'general', 'petself']).default('general'),
     youtubeId: z.string().optional(),
     authority: z.string().optional(),
     steps: z.array(z.object({

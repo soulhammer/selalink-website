@@ -31,7 +31,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>ジョルジョ・ヴァザーリ著『芸術家列伝』＆ 認知心理学の自己消耗(Ego Depletion)理論</strong>.
+      本コンテンツは、<strong>ジョルジョ・ヴァザーリ著『芸術家列伝』＆ 認知心理学の自己消耗(Ego Depletion)理論</strong>に基づいています。
     </p>
   </div>
 </div>

@@ -36,7 +36,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>スティーブ・ジョブズ公式伝記「Steve Jobs」および学術誌「JPSP」意思決定疲労研究</strong>.
+      本コンテンツは、<strong>スティーブ・ジョブズ公式伝記「Steve Jobs」および学術誌「JPSP」意思決定疲労研究</strong>に基づいています。
     </p>
   </div>
 </div>

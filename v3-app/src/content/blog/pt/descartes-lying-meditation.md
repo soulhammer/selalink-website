@@ -47,7 +47,7 @@ Hoje, o BuildSelf apresenta as bases científicas da rotina de 'meditação na c
 
 Muitas pessoas acordam sobressaltadas com o alarme, coração acelerado, e imediatamente checam mensagens no celular. Isso induz a secreção de cortisol e adrenalina logo no início do dia, elevando o estresse e causando fadiga crônica ao longo das horas.
 
-Por outro lado, manter-se deitado de forma confortável por um tempo após acordar, como Descartes fazia, ativa o sistema nervoso parassimpático, ajudando o cérebro a despertar suavemente. Nesse estado, as **'ondas Alfa'** (ondas que promovem criatividade e intuição) são liberadas de forma harmoniosa. Esse breve período de reflexão na cama sustenta as funções cognitivas e a resiliência emocional para o resto do dia.
+Por outro lado, manter-se deitado de forma confortável por um tempo após acordar, como Descartes fazia, ativa o sistema nervoso parassimpático, ajudando o cérebro a despertar suavemente. Nesse estado, as 'ondas Alfa' (ondas que promovem criatividade e intuição) são liberadas de forma harmoniosa. Esse breve período de reflexão na cama sustenta as funções cognitivas e a resiliência emocional para o resto do dia.
 
 ---
 

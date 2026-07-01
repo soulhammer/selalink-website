@@ -29,7 +29,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>弗吉尼亚·伍尔夫日记及人类工学学术期刊 Applied Ergonomics 站立工作研究</strong>.
+      本内容基于 <strong>弗吉尼亚·伍尔夫日记及人类工学学术期刊 Applied Ergonomics 站立工作研究</strong>。
     </p>
   </div>
 </div>

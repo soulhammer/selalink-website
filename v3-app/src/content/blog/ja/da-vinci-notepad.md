@@ -29,7 +29,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>ウォルター・アイザックソン 著『レオナルド・ダ・ヴィンチ』＆ 教育心理学術誌(JEP) メモ効果研究</strong>.
+      本コンテンツは、<strong>ウォルター・アイザックソン 著『レオナルド・ダ・ヴィンチ』＆ 教育心理学術誌(JEP) メモ効果研究</strong>に基づいています。
     </p>
   </div>
 </div>

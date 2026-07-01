@@ -29,7 +29,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>チャールズ・ダーウィン 自叙伝 ＆ スタンフォード大学 徒歩と創造性の相関関係研究</strong>.
+      本コンテンツは、<strong>チャールズ・ダーウィン 自叙伝 ＆ スタンフォード大学 徒歩と創造性の相関関係研究</strong>に基づいています。
     </p>
   </div>
 </div>

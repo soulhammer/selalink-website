@@ -29,7 +29,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>村上春树著《当我谈跑步时我谈些什么》及 Frontiers in Psychology 运动认知研究</strong>.
+      本内容基于 <strong>村上春树著《当我谈跑步时我谈些什么》及 Frontiers in Psychology 运动认知研究</strong>。
     </p>
   </div>
 </div>

@@ -35,7 +35,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>曼弗雷德·库恩《康德传》及《学习与记忆神经生物学》期刊（JN）</strong>.
+      本内容基于 <strong>曼弗雷德·库恩《康德传》及《学习与记忆神经生物学》期刊（JN）</strong>。
     </p>
   </div>
 </div>

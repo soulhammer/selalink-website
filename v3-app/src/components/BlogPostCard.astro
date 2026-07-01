@@ -32,6 +32,11 @@ const appTags = {
     style: 'bg-blue-50 text-blue-700 border-blue-200 dark:bg-blue-500/10 dark:text-blue-400 dark:border-blue-500/20',
     hoverText: 'group-hover:text-blue-600 dark:group-hover:text-blue-400'
   },
+  petself: { 
+    name: 'PetSelf', 
+    style: 'bg-rose-50 text-rose-700 border-rose-200 dark:bg-rose-500/10 dark:text-rose-400 dark:border-rose-500/20',
+    hoverText: 'group-hover:text-rose-600 dark:group-hover:text-rose-400'
+  },
   general: { 
     name: 'SelaLink', 
     style: 'bg-slate-100 text-slate-700 border-slate-200 dark:bg-slate-500/10 dark:text-slate-400 dark:border-slate-500/20',
@@ -50,6 +55,8 @@ const styleVars = app === 'storeself'
   ? '--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);'
   : app === 'logself'
   ? '--theme-color-light: rgba(59, 130, 246, 0.05); --theme-color-border-hover: rgba(59, 130, 246, 0.3); --theme-color-glow: rgba(59, 130, 246, 0.15);'
+  : app === 'petself'
+  ? '--theme-color-light: rgba(244, 63, 94, 0.05); --theme-color-border-hover: rgba(244, 63, 94, 0.3); --theme-color-glow: rgba(244, 63, 94, 0.15);'
   : '--theme-color-light: rgba(13, 148, 136, 0.05); --theme-color-border-hover: rgba(13, 148, 136, 0.3); --theme-color-glow: rgba(13, 148, 136, 0.15);';
 
 const formattedDate = new Date(pubDate).toLocaleDateString(lang, {

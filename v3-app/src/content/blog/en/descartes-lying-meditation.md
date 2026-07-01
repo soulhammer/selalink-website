@@ -47,7 +47,7 @@ Today, BuildSelf introduces the scientific basis of Descartes' 'bed thinking' me
 
 Many modern people get up in a hurry when they hear the alarm, their hearts beating, check emails or messages on their phones, and start the day. This induces cortisol and adrenaline secretion from the start of the day, raising the arousal level excessively and making them feel rushed and chronically fatigued throughout the day.
 
-On the other hand, maintaining a horizontal, comfortable lying posture for a while immediately after waking up like Descartes moderately activates the parasympathetic nervous system, helping the brain wake up gently. In this state, the **'Alpha wave'**, a brainwave that helps manifest high creativity and intuition, is harmoniously released. This brief morning lying meditation time firmly holds the cognitive function and emotional resilience of the entire day.
+On the other hand, maintaining a horizontal, comfortable lying posture for a while immediately after waking up like Descartes moderately activates the parasympathetic nervous system, helping the brain wake up gently. In this state, the 'Alpha wave', a brainwave that helps manifest high creativity and intuition, is harmoniously released. This brief morning lying meditation time firmly holds the cognitive function and emotional resilience of the entire day.
 
 ---
 

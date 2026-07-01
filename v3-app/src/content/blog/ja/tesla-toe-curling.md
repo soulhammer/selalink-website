@@ -35,7 +35,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>ニコラ・テスラ自伝『My Inventions』および理学療法科学学会誌（JPTS）</strong>.
+      本コンテンツは、<strong>ニコラ・テスラ自伝『My Inventions』および理学療法科学学会誌（JPTS）</strong>に基づいています。
     </p>
   </div>
 </div>

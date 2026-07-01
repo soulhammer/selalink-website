@@ -31,7 +31,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>阿加莎·克里斯蒂自传《阿加莎·克里斯蒂自传》及 Journal of Thermal Biology 学术期刊</strong>.
+      本内容基于 <strong>阿加莎·克里斯蒂自传《阿加莎·克里斯蒂自传》及 Journal of Thermal Biology 学术期刊</strong>。
     </p>
   </div>
 </div>

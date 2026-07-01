@@ -32,7 +32,7 @@ faqs:
       历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>萨尔瓦多·达利自传《达利的秘密生活》及 Frontiers in Human Neuroscience 学术期刊</strong>.
+      本内容基于 <strong>萨尔瓦多·达利自传《达利的秘密生活》及 Frontiers in Human Neuroscience 学术期刊</strong>。
     </p>
   </div>
 </div>

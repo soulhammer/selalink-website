@@ -19,7 +19,7 @@ const langMapping: Record<string, string> = {
 };
 
 const locales = Object.keys(langMapping);
-const latinLanguages = ['deu', 'eng', 'spa', 'fra', 'por', 'ita', 'lat', 'ind', 'zlm', 'jav', 'mad'];
+const latinLanguages = ['deu', 'eng', 'spa', 'fra', 'por', 'ita', 'lat', 'ind', 'zlm', 'jav', 'mad', 'ilo', 'tgl', 'msa'];
 
 // 공통 화이트리스트 단어군 (번역 제외하고 그대로 노출되어야 하는 약어, 인명, 브랜드명 등)
 const globalWhitelist = [
@@ -173,6 +173,25 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
         }
 
         // ----------------------------------------------------
+        // 검증 2-C.1.5: PetSelf 포스트의 app 및 tags 검증
+        // ----------------------------------------------------
+        const isPetSelf = fileName.includes('maltese-care') || fileName.includes('koshort-care') || fileName.includes('golden-retriever-care');
+        if (isPetSelf) {
+          const fmLines = frontmatter.split('\n');
+          const hasAppPetSelf = fmLines.some(line => line.trim().startsWith('app:') && line.includes('petself'));
+          expect(
+            hasAppPetSelf,
+            `오류: 반려동물 포스트인 ${fileName}의 frontmatter에 'app: "petself"'가 지정되어 있지 않습니다.`
+          ).toBe(true);
+
+          const hasTags = fmLines.some(line => line.trim().startsWith('tags:'));
+          expect(
+            hasTags,
+            `오류: 반려동물 포스트인 ${fileName}의 frontmatter에 'tags' 필드가 정의되어 있지 않습니다.`
+          ).toBe(true);
+        }
+
+        // ----------------------------------------------------
         // 검증 2-C.2: 실물 FAQ 아코디언 블록 존재 여부 정밀 검증
         // ----------------------------------------------------
         const hasFaqsInFm = frontmatter.includes('faqs:') || frontmatter.includes('faqs');
@@ -202,6 +221,22 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
             `오류: [${lang.toUpperCase()}] ${fileName} 의 프론트매터에는 faqs가 정의되어 있으나, 본문 내에 실물 FAQ 아코디언 HTML 섹션('${expectedFaqTitle}')이 누락되어 있습니다.`
           ).toBe(true);
         }
+
+        // ----------------------------------------------------
+        // 검증 2-C.2: 리터럴 \n 누수 감지
+        // ----------------------------------------------------
+        expect(
+          rawContent.includes('\\n'),
+          `오류: [${lang.toUpperCase()}] ${fileName} 내에 리터럴 '\\n' 이 유출되어 있습니다.`
+        ).toBe(false);
+
+        // ----------------------------------------------------
+        // 검증 2-C.3: 리터럴 ** 누수 감지
+        // ----------------------------------------------------
+        expect(
+          rawContent.includes('**'),
+          `오류: [${lang.toUpperCase()}] ${fileName} 내에 리터럴 '**' 이 유출되어 있습니다.`
+        ).toBe(false);
 
         // ----------------------------------------------------
         // 검증 2-D: 1단계 문자셋 격리 필터
@@ -358,6 +393,14 @@ describe('다국어 치환 헬퍼 함수(useTranslations) 단위 테스트', () 
     // (만약 독일어 사전에 값이 정의되어 있다면 독일어 값을, 없다면 영어 값을 반환하게 됨)
     const expectedValue = ui['de']['blog.heading'] || ui['en']['blog.heading'];
     expect(tDe('blog.heading')).toBe(expectedValue);
+  });
+
+  it('모든 다국어에 대해 blog.filter.petself 치환이 정상적으로 작동해야 한다', () => {
+    locales.forEach(locale => {
+      const t = useTranslations(locale as any);
+      expect(t('blog.filter.petself')).toBeDefined();
+      expect(t('blog.filter.petself').length).toBeGreaterThan(0);
+    });
   });
 });
 

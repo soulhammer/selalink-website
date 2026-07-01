@@ -13,7 +13,7 @@ const publicRoot = path.join(__dirname, '../public');
 // 인자 파싱
 const args = process.argv.slice(2);
 const slugArg = args.find(a => a.startsWith('--slug='))?.split('=')[1];
-const typeArg = args.find(a => a.startsWith('--type='))?.split('=')[1] || 'habit'; // 'habit' or 'storage'
+const typeArg = args.find(a => a.startsWith('--type='))?.split('=')[1] || 'habit'; // 'habit', 'storage' or 'pet'
 
 if (!slugArg) {
   console.error('\x1b[31m❌ [ERR] --slug=[블로그슬러그] 인자가 필요합니다.\x1b[0m');
@@ -204,6 +204,16 @@ function runSelfHealingValidation() {
 function startAutonomousWorkflow() {
   console.log(`\n🚀 [AI 자율 블로그 생성기] '${slugArg}' 생성 프로세스 기동 중...`);
   
+  if (typeArg === 'pet') {
+    try {
+      console.log(`🤖 [AI 파이프라인] 반려동물 컴파일러 기동: node src/compile_pet_blogs.js --slug=${slugArg}`);
+      execSync(`node src/compile_pet_blogs.js --slug=${slugArg}`, { cwd: path.join(__dirname, '..'), stdio: 'inherit' });
+    } catch (err) {
+      console.error(`❌ [ERR] 반려동물 컴파일 중 오류 발생: ${err.message}`);
+      process.exit(1);
+    }
+  }
+
   // 1. 소스 언어 판별
   const masterLang = detectSourceLanguage(slugArg);
   console.log(`ℹ️ [소스 감지] 마스터 소스 파일의 언어는 [${masterLang.toUpperCase()}] 입니다.`);

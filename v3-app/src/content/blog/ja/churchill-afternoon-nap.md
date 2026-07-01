@@ -29,7 +29,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>ウィンストン・チャーチル 著『第二次世界大戦回顧録』＆ NASA 宇宙飛行士パワーナップ注意回復研究</strong>.
+      本コンテンツは、<strong>ウィンストン・チャーチル 著『第二次世界大戦回顧録』＆ NASA 宇宙飛行士パワーナップ注意回復研究</strong>に基づいています。
     </p>
   </div>
 </div>

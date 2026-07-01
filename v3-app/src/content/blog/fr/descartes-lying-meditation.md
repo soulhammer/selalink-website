@@ -47,7 +47,7 @@ Aujourd'hui, BuildSelf présente les fondements scientifiques de la routine de m
 
 De nombreux actifs se lèvent en sursaut au son de l'alarme, le cœur battant, vérifient leurs mails ou messages sur leur téléphone et entament la journée. Cela induit dès le départ une sécrétion de cortisol et d'adrénaline, augmentant excessivement le niveau de stress et de fatigue chronique pour le reste du jour.
 
-À l'inverse, s'accorder un moment allongé confortablement au réveil, comme le faisait Descartes, active modérément le système parasympathique pour éveiller le cerveau en douceur. Dans cet état, les **'ondes Alpha'** (ondes de la créativité et de l'intuition) se libèrent harmonieusement. Ce court instant de réflexion au lit préserve la fonction cognitive et la résilience émotionnelle de toute la journée.
+À l'inverse, s'accorder un moment allongé confortablement au réveil, comme le faisait Descartes, active modérément le système parasympathique pour éveiller le cerveau en douceur. Dans cet état, les 'ondes Alpha' (ondes de la créativité et de l'intuition) se libèrent harmonieusement. Ce court instant de réflexion au lit préserve la fonction cognitive et la résilience émotionnelle de toute la journée.
 
 ---
 

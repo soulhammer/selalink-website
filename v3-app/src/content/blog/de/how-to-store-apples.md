@@ -26,7 +26,7 @@ Haben Sie schon einmal eine frische Tüte knackiger, süßer Äpfel gekauft, nur
 
 Obwohl Äpfel zu den beliebtesten Obstsorten weltweit gehören, erfordern sie bei der Lagerung besondere Aufmerksamkeit. Sie setzen ein starkes natürliches Pflanzenhormon frei, das den Verderf von umliegenden Produkten beschleunigt. Ohne die richtige Pflege verlieren Äpfel ihre Feuchtigkeit, werden mehlig und verderben anderes Gemüse und Obst in Ihrem Kühlschrank.
 
-Heute stellen wir Ihnen bei StoreSelf die wissenschaftlich erprobte **3-Schritte-Anleitung zur Maximierung der Apfelfrische** vor, die von Agrar- und Lebensmittelsicherheitsexperten unterstützt wird. 🛡️
+Heute stellen wir Ihnen bei StoreSelf die wissenschaftlich erprobte 3-Schritte-Anleitung zur Maximierung der Apfelfrische vor, die von Agrar- und Lebensmittelsicherheitsexperten unterstützt wird. 🛡️
 
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
@@ -45,11 +45,11 @@ Heute stellen wir Ihnen bei StoreSelf die wissenschaftlich erprobte **3-Schritte
 
 ## 1. Warum Äpfel den Verderb beschleunigen: Das Ethylengas-Problem
 
-Äpfel atmen und reifen auch nach der Ernte weiter, indem sie eine erhebliche Menge an 💨 **Ethylengas** (ein natürliches Pflanzenreifungshormon) freisetzen.
+Äpfel atmen und reifen auch nach der Ernte weiter, indem sie eine erhebliche Menge an 💨 Ethylengas (ein natürliches Pflanzenreifungshormon) freisetzen.
 
 Das Problem ist, dass dieses Gas, sobald es in die Luft freigesetzt wird, den Reifungsprozess von ethylenempfindlichen Früchten (wie Bananen, Birnen und Kaki) und Gemüse (wie Spinat und Gurken) in der Nähe drastisch beschleunigt und sie verfaulen lässt. Sogar unter den Äpfeln selbst führt das Teilen derselben Luft aufgrund der kumulativen Ethylenexposition zu einer schnelleren Alterung.
 
-Daher ist der Schlüssel zu einer erfolgreichen Apfellagerung, **Feuchtigkeitsverlust zu verhindern und die Äpfel einzeln zu isolieren, damit sich das Ethylengas nicht auf andere Produkte ausbreiten kann.**
+Daher ist der Schlüssel zu einer erfolgreichen Apfellagerung, Feuchtigkeitsverlust zu verhindern und die Äpfel einzeln zu isolieren, damit sich das Ethylengas nicht auf andere Produkte ausbreiten kann.
 
 ---
 

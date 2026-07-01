@@ -35,7 +35,7 @@ faqs:
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、 <strong>マンフレート・クーン著『カント伝』および神経科学・学習記憶ジャーナル（JN）</strong>.
+      本コンテンツは、<strong>マンフレート・クーン著『カント伝』および神経科学・学習記憶ジャーナル（JN）</strong>に基づいています。
     </p>
   </div>
 </div>
