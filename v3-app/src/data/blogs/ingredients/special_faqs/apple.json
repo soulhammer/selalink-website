@@ -1,0 +1,44 @@
+{
+  "apple": {
+    "ko": [
+      {
+        "question": "사과를 다른 과일과 함께 보관하면 안 되는 이유가 무엇인가요?",
+        "answer": "사과는 익으면서 에틸렌 가스를 많이 분출합니다. 이 가스가 주변의 다른 과일이나 채소의 숙성을 촉진시켜 쉽게 무르고 부패하게 만들기 때문에 지퍼백 등으로 따로 밀봉해 보관해야 합니다."
+      },
+      {
+        "question": "갈변을 방지하는 팁이 있나요?",
+        "answer": "자른 사과 표면에 묽은 소금물이나 설탕물을 살짝 바르거나 레몬즙을 발라두면, 산화 효소 작용이 억제되어 뽀얀 속살을 오래 유지할 수 있습니다."
+      }
+    ],
+    "en": [
+      {
+        "question": "Why shouldn't I store apples with other fruits?",
+        "answer": "Apples emit high amounts of ethylene gas, which accelerates ripening and rot in nearby produce. Store them sealed in zip-lock bags to isolate them."
+      },
+      {
+        "question": "Is there a tip to prevent browning of cut apples?",
+        "answer": "Lightly brushing cut apples with salted water, sugar water, or lemon juice inhibits oxidizing enzymes, keeping them fresh longer."
+      }
+    ],
+    "ja": [
+      {
+        "question": "リンゴを他の果物と一緒に保存してはいけない理由は何ですか？",
+        "answer": "リンゴは熟す過程でエチレンガスを多く放出します。このガスが周囲の他の果物や野菜の成熟を促し、傷みやすくするため、ジッパーバッグ等で個別に密封して保存する必要があります。"
+      },
+      {
+        "question": "変色を防ぐコツはありますか？",
+        "answer": "カットしたリンゴの表面に薄い塩水や砂糖水を塗るか、レモン汁をかけておくと、酸化酵素の働きが抑えられ、変色を防ぐことができます。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "为什么不能把苹果与其他水果一起存放？",
+        "answer": "苹果在成熟过程中会释放大量乙烯气体。这种气体会加速周围其他水果和蔬菜的成熟与腐烂，因此需要用保鲜袋等单独密封保存。"
+      },
+      {
+        "question": "有什么防止苹果切面变黑的窍门吗？",
+        "answer": "在切开的苹果表面涂上淡盐水、糖水或柠檬汁，可以抑制氧化酶 of 活性，从而防止变色。"
+      }
+    ]
+  }
+}

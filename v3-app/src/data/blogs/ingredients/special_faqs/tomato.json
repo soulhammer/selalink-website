@@ -1,0 +1,44 @@
+{
+  "tomato": {
+    "ko": [
+      {
+        "question": "토마토를 절대 냉장고에 넣지 말라는 이유가 무엇인가요?",
+        "answer": "토마토를 12도 이하 저온에 보관하면 고유의 향 성분을 내는 휘발성 물질 생성이 중단되고 세포막이 파괴되어 껍질이 퍼석거리고 당도가 급락합니다. 상온 그늘에 두는 것이 가장 맛있습니다."
+      },
+      {
+        "question": "완전히 익은 빨간 토마토도 상온에 두나요?",
+        "answer": "아닙니다. 완숙된 빨간 토마토는 상온에 두면 하루 만에 상합니다. 다 익은 토마토는 신문지 등으로 야채실에 보관하고 3일 내 드세요."
+      }
+    ],
+    "en": [
+      {
+        "question": "Why is it recommended never to refrigerate raw tomatoes?",
+        "answer": "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
+      },
+      {
+        "question": "Should fully ripe red tomatoes also be kept at room temperature?",
+        "answer": "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
+      }
+    ],
+    "ja": [
+      {
+        "question": "トマトを絶対に冷蔵庫に入れてはいけない理由は何ですか？",
+        "answer": "トマトを12度以下の低温で保存すると、香り成分の 生成が止まり、細胞膜が破壊されて食感が悪くなり糖度も低下します。常温の日陰が最も適しています。"
+      },
+      {
+        "question": "完熟した赤いトマトも常温でいいですか？",
+        "answer": "いいえ、完熟したトマトは常温ではすぐに傷みます。完熟トマトは新聞紙等で包んで野菜室に入れ、3日以内に消費してください。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "为什么建议绝对不要把番茄放冰箱冷藏？",
+        "answer": "番茄在 12°C 以下的低温下保存会停止产生风味物质，且细胞膜受损导致果肉变粉、甜度骤降。存放在常温避光处最美味。"
+      },
+      {
+        "question": "完全成熟的红番茄也放在常温下吗？",
+        "answer": "不是的。熟透的红番茄在常温下过一天就会变质。熟番茄应包裹好放入冰箱冷藏蔬菜隔板中，并在 3 天内食用。"
+      }
+    ]
+  }
+}

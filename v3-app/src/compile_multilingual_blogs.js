@@ -52,10 +52,25 @@ const blogToIngMap = {
 
 const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
 
-// 외부 JSON 파일에서 번역 데이터 로드
-const { l10n, storageFaqs, specialFaqs, sourceMapLang } = JSON.parse(
-  fs.readFileSync(path.join(__dirname, 'data/blogs/ingredients.json'), 'utf-8')
+const ingredientsDir = path.join(__dirname, 'data/blogs/ingredients');
+
+// 1. 공통 메타 정보 로드
+const { l10n, storageFaqs, sourceMapLang } = JSON.parse(
+  fs.readFileSync(path.join(ingredientsDir, 'meta.json'), 'utf-8')
 );
+
+// 2. specialFaqs 동적 빌드
+const specialFaqs = {};
+const specialFaqsDir = path.join(ingredientsDir, 'special_faqs');
+if (fs.existsSync(specialFaqsDir)) {
+  fs.readdirSync(specialFaqsDir).forEach(file => {
+    if (file.endsWith('.json')) {
+      const filePath = path.join(specialFaqsDir, file);
+      const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+      Object.assign(specialFaqs, fileData);
+    }
+  });
+}
 
 function run() {
   if (!fs.existsSync(transJsonPath)) {
@@ -109,7 +124,7 @@ function run() {
         fs.mkdirSync(targetDir, { recursive: true });
       }
 
-      if (blogSlug === 'how-to-store-apples') {
+      if (blogSlug === 'how-to-store-apples' || blogSlug === 'how-to-store-watermelon') {
         if (fs.existsSync(targetPath)) {
           // 기존 파일의 steps 메타데이터만 ko 스키마 및 각 언어 번역에 맞추어 보존/주입
           let originalContent = fs.readFileSync(targetPath, 'utf-8');

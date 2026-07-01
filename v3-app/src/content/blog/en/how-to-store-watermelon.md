@@ -14,11 +14,6 @@ steps:
     text: "Carefully slice off the rind to prevent surface dust and bacteria from touching the red pulp. Chop the fruit into bite-sized cubes and store them in a clean, sanitized airtight container with the lid tightly closed."
   - name: "Store deep inside the crisper drawer at a stable 0–4°C ❄️"
     text: "Place the airtight container deep inside the crisper drawer or on the inner shelf of the refrigerator. Storing it in an area with minimal temperature fluctuation keeps the watermelon crisp and preserves its sweetness."
-faqs:
-  - question: "Is it dangerous to store cut watermelon wrapped only in plastic wrap?"
-    answer: "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
-  - question: "Can I put a whole watermelon directly in the coldest part of the fridge?"
-    answer: "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
 ---
 
 Did you know that covering leftover watermelon with plastic wrap can multiply food poisoning bacteria on the surface by over 3,000 times? Today, StoreSelf shares KCA-approved safe watermelon sealing and storage hacks.

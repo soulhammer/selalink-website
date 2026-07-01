@@ -14,11 +14,6 @@ steps:
     text: "Kupas bersih kulitnya agar debu di luar tidak menyentuh daging buah. Potong daging buah menjadi dadu lalu taruh di wadah kedap udara yang bersih dan tutup rapat."
   - name: "Simpan di bagian dalam laci sayur pada suhu stabil 0–4°C ❄️"
     text: "Taruh wadah kedap udara berisi semangka di laci sayur bagian dalam. Menyimpannya di area dengan fluktuasi suhu minimal menjaga kerenyahan dan rasa manisnya."
-faqs:
-  - question: "Is it dangerous to store cut watermelon wrapped only in plastic wrap?"
-    answer: "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
-  - question: "Can I put a whole watermelon directly in the coldest part of the fridge?"
-    answer: "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
 ---
 
 Tahukah Anda bahwa menutup sisa semangka dengan plastik wrap dapat melipatgandakan bakteri di permukaan hingga 3.000 kali? Hari ini, StoreSelf membagikan panduan penyimpanan semangka.

@@ -1,0 +1,44 @@
+{
+  "milk": {
+    "ko": [
+      {
+        "question": "우유를 냉동 보관해도 되나요?",
+        "answer": "우유를 얼리면 지방과 단백질이 분리되어 해동 시 덩어리가 지고 풍미가 저하됩니다. 가급적 얼리지 않고 냉장 보관하여 기한 내 드시는 것을 권장합니다."
+      },
+      {
+        "question": "개봉 전 우유는 유통기한이 지나도 마실 수 있나요?",
+        "answer": "미개봉 상태로 0~5도 냉장을 유지했다면 유통기한 경과 후 최대 45일까지는 맛과 냄새에 이상이 없을 시 섭취가 가능합니다."
+      }
+    ],
+    "en": [
+      {
+        "question": "Can I freeze milk for storage?",
+        "answer": "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
+      },
+      {
+        "question": "Can unopened milk be consumed after the expiration date?",
+        "answer": "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
+      }
+    ],
+    "ja": [
+      {
+        "question": "牛乳を冷凍保存してもいいですか？",
+        "answer": "牛乳を凍らせると脂肪とタンパク質が分離し、解凍時に塊ができたり風味が損なわれたりします。極力凍らせず、冷蔵保存して期限内に消費することをお勧めします。"
+      },
+      {
+        "question": "未開封の牛乳は賞味期限が過ぎても飲めますか？",
+        "answer": "未開封で0〜5度の冷蔵を維持していた場合、賞味期限経過後最大45日までは、味や臭いに異常がなければ飲むことができます。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "牛奶可以冷冻保存吗？",
+        "answer": "冷冻牛奶会导致脂肪 and 蛋白质分离，解冻时会产生结块且风味下降。建议尽量不要冷冻，而是冷藏保存并及时饮用。"
+      },
+      {
+        "question": "未开封的牛奶过期了还可以喝吗？",
+        "answer": "如果保持未开封并在 0-5°C 下冷藏，只要味道和气味无异常，在保质期过后最长 45 天内仍可饮用。"
+      }
+    ]
+  }
+}

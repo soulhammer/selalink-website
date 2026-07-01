@@ -1,0 +1,354 @@
+{
+  "maltese-care": {
+    "title": {
+      "ko": "참지 않는 말티즈? 슬개골과 눈가 건강을 위한 3단계 보호막 루틴",
+      "en": "The Feisty Maltese? A 3-Step Protective Routine for Joint and Eye Care",
+      "ja": "怒れるマルチーズ？関節と目の健康のための3段階プロテクトルーティン",
+      "zh": "绝不妥协的马尔济斯？呵护关节与眼部健康的日常3步保护惯例",
+      "es": "¿El maltés audaz? Una rutina protectora de 3 pasos para el cuidado articular y ocular",
+      "fr": "Le fougueux bichon maltais ? Une routine protectrice en 3 étapes pour la santé des articulations et des yeux",
+      "de": "Der temperamentvolle Malteser? Eine 3-Schritte-Schutzroutine für Gelenk- und Augenpflege",
+      "pt": "O valente maltês? Uma rotina protetora de 3 passos para a saúde articular e ocular",
+      "id": "Maltese yang Pemberani? Rutinitas Perlindungan 3 Langkah untuk Kesehatan Sendi dan Mata"
+    },
+    "description": {
+      "ko": "한국인들이 가장 사랑하는 강아지 말티즈. 유전적으로 취약한 슬개골 탈구 방지 팁과 눈가 눈물자국 관리를 위한 3단계 데일리 교감 루틴을 소개합니다.",
+      "en": "Maltese, the most beloved dog. Discover tips to prevent genetically vulnerable patellar luxation and a 3-step daily routine for tear stain management.",
+      "ja": "日本や韓国で大人気のマルチーズ。遺伝的に弱い膝蓋骨脱臼の予防法と、涙やけケアのための3段階デイリールーティンを紹介します。",
+      "zh": "深受大家喜爱的马尔济斯犬。介绍预防遗传性膝盖骨脱臼的诀窍，以及用于 management 泪痕的3步日常护理惯例。",
+      "es": "El maltés, el perro más querido. Descubra consejos para prevenir la luxación patelar genéticamente vulnerable y una rutina diaria de 3 pasos para el control de las manchas de lágrimas.",
+      "fr": "Le bichon maltais, le chien le plus aimé. Découvrez des conseils pour prévenir la luxation de la rotule et une routine en 3 étapes pour les taches de larmes.",
+      "de": "Der beliebte Malteser. Entdecken Sie Tipps zur Vorbeugung von Patellaluxation und eine tägliche 3-Schritte-Routine zur Pflege von Tränenflecken.",
+      "pt": "O maltês, o cão mais amado. Descubra dicas para evitar a luxação patelar e uma rotina diária de 3 passos para cuidar das manchas de lágrimas.",
+      "id": "Maltese, anjing yang paling dicintai. Temukan tips untuk mencegah luksasi patela secara genetik dan rutinitas harian 3 langkah untuk mengatasi noda air mata."
+    },
+    "authority": {
+      "ko": "American Kennel Club (AKC) 공식 견종 가이드 및 IAABC 행동학 프로토콜",
+      "en": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
+      "ja": "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル",
+      "zh": "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议",
+      "es": "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC",
+      "fr": "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC",
+      "de": "Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle",
+      "pt": "Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC",
+      "id": "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
+    },
+    "profile": {
+      "breed": {
+        "ko": "말티즈 (Maltese)",
+        "en": "Maltese",
+        "ja": "マルチーズ",
+        "zh": "马尔济斯犬",
+        "es": "Maltés",
+        "fr": "Bichon maltais",
+        "de": "Malteser",
+        "pt": "Maltês",
+        "id": "Maltese"
+      },
+      "lifespan": {
+        "ko": "12 ~ 15년",
+        "en": "12 ~ 15 years",
+        "ja": "12 ~ 15年",
+        "zh": "12 ~ 15年",
+        "es": "12 ~ 15 años",
+        "fr": "12 ~ 15 ans",
+        "de": "12 ~ 15 Jahre",
+        "pt": "12 ~ 15 anos",
+        "id": "12 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "12 ~ 14시간 (보호자 밀착형)",
+        "en": "12 ~ 14 hours (attached to owner)",
+        "ja": "12 ~ 14時間（飼い主密着型）",
+        "zh": "12 ~ 14小时（依赖家长型）",
+        "es": "12 ~ 14 horas (apegado al dueño)",
+        "fr": "12 ~ 14 heures (attaché au maître)",
+        "de": "12 ~ 14 Stunden (besitzerbezogen)",
+        "pt": "12 ~ 14 horas (apegado ao dono)",
+        "id": "12 ~ 14 jam (melekat pada pemilik)"
+      },
+      "temperament": {
+        "ko": "활발함, 다정다감, 참지 않음",
+        "en": "Lively, Affectionate, Spunky",
+        "ja": "活発、甘えん坊、我慢しない",
+        "zh": "活泼、爱撒娇、绝不妥协",
+        "es": "Vivaz, Afectuoso, Valiente",
+        "fr": "Vif, Affectueux, Fougueux",
+        "de": "Lebhaft, Anhänglich, Temperamentvoll",
+        "pt": "Vivaz, Afectuoso, Valente",
+        "id": "Lincah, Penuh Kasih Sayang, Berani"
+      }
+    },
+    "intro": {
+      "ko": "하얗고 부드러운 털과 까만 세 개의 점(눈과 코)이 매력적인 말티즈는 전 세계적으로 오랫동안 큰 사랑을 받아온 반려견입니다. 활발하고 다정다감하지만, 자신의 의사를 아주 명확하게 표현해 간혹 '참지 않는 말티즈'라는 귀여운 별명으로 불리기도 합니다. 🐕\n\n하지만 말티즈를 키우는 반려인이라면 누구나 고민하는 두 가지 치명적인 유전 질환이 있습니다. 첫 번째는 무릎 뼈가 옆으로 빠지는 **슬개골 탈구(Patellar Luxation)**이고, 두 번째는 하얀 얼굴에 붉은 자국을 남기며 피부염을 유발하기 쉬운 **눈물자국(Tear Staining)**입니다. 이 두 가지는 병원 치료도 중요하지만, 일상에서의 보호막 루틴이 평생의 건강을 좌우합니다.\n\n오늘 PetSelf에서는 말티즈의 행동 언어 이해를 돕고, 관절과 눈가를 매일 보호할 수 있는 안전하고 과학적인 3단계 케어 루틴을 소개합니다.",
+      "en": "Maltese, with their white, silky coat and three black dots (eyes and nose), are beloved companion dogs worldwide. While lively and affectionate, they express their boundaries clearly, earning them a spunky reputation. 🐕\n\nHowever, Maltese owners often worry about two genetic issues: **Patellar Luxation** (dislocated kneecaps) and **Tear Staining**, which causes red streaks and potential skin infections. Daily lifestyle adjustments are crucial for managing these conditions.\n\nToday, PetSelf explores Maltese body language and introduces a safe, 3-step daily care routine to protect their joints and eyes.",
+      "ja": "白くふわふわした毛並みと黒い3つの点（目と鼻）が愛らしいマルチーズは、世界中で長く愛されてきた愛玩犬です。活発で甘えん坊ですが、自己主張がはっきりしており、「我慢しないマルチーズ」という可愛い別名もあります。🐕\n\nしかし、マルチーズの飼い主なら誰しも直面する2つの遺伝的悩みがあります。1つは膝の骨がずれる**膝蓋骨脱臼（パテラ）**、もう1つは白い顔に赤い跡を残し皮膚炎を起こしやすい**涙やけ（涙管閉塞）**です。これらは日常のルーティンが一生の健康を左右します。\n\n本日、PetSelfではマルチーズのボディランゲージを理解し、関節と目を保護する科学的な3段階ルーティンを紹介します。",
+      "zh": "马尔济斯犬拥有洁白丝滑的毛发和三个黑色斑点（眼睛和鼻子），是深受全世界喜爱的伴侣犬。它们活泼且充满爱意，但也会非常清晰地表达自己的界限，因此得到了“不妥协的马尔济斯”这一可爱的绰号。🐕\n\n然而，马尔济斯犬的家长们常常担心两个遗传性问题：**膝盖骨脱臼**（髌骨脱位）和易在面部留下红褐色痕迹并诱发皮肤炎的**泪痕**。日常的生活习惯调整对于管理这些状况至关重要。\n\n今天，PetSelf 将带您解读马尔济斯犬的身体语言，并介绍一套安全的日常3步护理惯例，以保护它们的关节和眼睛。",
+      "es": "Los malteses, con su pelaje blanco y sedoso y tres puntos negros (ojos y nariz), son perros de compañía muy queridos en todo el mundo. Aunque son vivaces y afectuosos, expresan sus límites con claridad, lo que les ha valido una reputación de valientes. 🐕\n\nSin embargo, los dueños de malteses a menudo se preocupan por dos problemas genéticos: la **luxación patelar** (rótulas dislocadas) y las **manchas de lágrimas**, que causan rayas rojas y posibles infecciones en la piel. Los ajustes diarios en el estilo de vida son cruciales para controlar estas condiciones.\n\nHoy, PetSelf explora el lenguaje corporal del maltés e introduce una rutina de cuidado diario segura de 3 pasos para proteger sus articulaciones y ojos.",
+      "fr": "Le bichon maltais, avec son pelage blanc et soyeux et ses trois points noirs (les yeux et la truffe), est un chien de compagnie adoré dans le monde entier. Bien que vif et affectueux, il exprime clairement ses limites, ce qui lui vaut une réputation de chien fougueux. 🐕\n\nCependant, les propriétaires de bichons maltais s'inquiètent souvent de deux problèmes génétiques : la **luxation de la rotule** (rotules disloquées) et les **taches de larmes** (oxydation des larmes), qui provoquent des traces rouges et de potentielles infections cutanées. Des ajustements quotidiens du mode de vie sont cruciaux pour gérer ces conditions.\n\nAujourd'hui, PetSelf étudie le langage corporel du bichon maltais et présente une routine de soins quotidiens sécurisée en 3 étapes pour protéger ses articulations et ses yeux.",
+      "de": "Malteser sind mit ihrem weißen, seidigen Fell und den drei schwarzen Punkten (Augen und Nase) weltweit beliebte Begleithunde. Sie sind zwar lebhaft und anhänglich, drücken aber ihre Grenzen klar aus, was ihnen den Ruf einträgt, temperamentvoll zu sein. 🐕\n\nMalteser-Besitzer sorgen sich jedoch oft um zwei genetische Probleme: **Patellaluxation** (ausgekugelte Kniescheiben) und **Tränenflecken**, die rote Streifen und mögliche Hautinfektionen verursachen. Tägliche Anpassungen des Lebensstils sind entscheidend für den Umgang mit diesen Beschwerden.\n\nHeute befasst sich PetSelf mit der Körpersprache des Maltesers und stellt eine sichere, tägliche 3-Schritte-Pflegeroutine zum Schutz seiner Gelenke und Augen vor.",
+      "pt": "Os malteses, com sua pelagem branca e sedosa e três pontos pretos (olhos e nariz), são cães de companhia amados em todo o mundo. Embora vivazes e afetuosos, expressam seus limites claramente, o que lhes rende uma reputação de valentes. 🐕\n\nNo entanto, os donos de malteses frequentemente se preocupam com dois problemas genéticos: a **luxação patelar** (patelas deslocadas) e as **manchas de lágrimas**, que causam manchas avermelhadas e potenciais infecções de pele. Ajustes diários no estilo de vida son cruciais para controlar estas condições.\n\nHoje, o PetSelf explora a linguagem corporal del maltês e apresenta uma rotina de cuidados diários de 3 passos segura para proteger suas articulações e olhos.",
+      "id": "Maltese, dengan bulu putih selembut sutra dan tiga titik hitam (mata dan hidung), adalah anjing pendamping yang dicintai di seluruh dunia. Meskipun lincah dan penuh kasih sayang, mereka mengekspresikan batasan mereka dengan jelas, memberi mereka reputasi sebagai anjing yang berani. 🐕\n\nNamun, pemilik Maltese sering khawatir tentang dua masalah genetik: **Luksasi Patela** (tempurung lutut bergeser) and **Noda Air Mata** (tear staining), yang menyebabkan garis kemerahan dan potensi infeksi kulit. Penyesuaian gaya hidup sehari-hari sangat penting untuk mengelola kondisi ini.\n\nHari ini, PetSelf mengeksplorasi bahasa tubuh Maltese dan memperkenalkan rutinitas perawatan harian 3 langkah yang aman untuk melindungi sendi dan mata mereka."
+    },
+    "whyTitle": {
+      "ko": "말티즈의 바디 랭귀지: 스트레스와 안정의 표현",
+      "en": "Maltese Body Language: Signals of Stress and Comfort",
+      "ja": "マルチーズのボディランゲージ：ストレスと安定のサイン",
+      "zh": "马尔济斯的身体语言：压力与放松的表达",
+      "es": "Lenguaje corporal del maltés: señales de estrés y comodidad",
+      "fr": "Langage corporel du bichon maltais : signaux de stress et de confort",
+      "de": "Körpersprache des Maltesers: Signale von Stress und Komfort",
+      "pt": "Linguagem corporal del maltês: sinais de estresse e conforto",
+      "id": "Bahasa Tubuh Maltese: Sinyal Stres dan Kenyamanan"
+    },
+    "whyDesc": {
+      "ko": "말티즈는 보호자에 대한 의존도가 높은 만큼 자신의 심리적 불안을 조용히 몸짓으로 나타냅니다. 대표적인 카밍 시그널(Calming Signal)은 **'코 핥기'**와 **'하품하기'**입니다. 긴장되거나 낯선 환경에 처했을 때 자신의 코를 낼름 핥거나 크게 하품을 하는 행동은 졸려서가 아니라 스스로를 진정시키고 주변에 '공격할 의사가 없으니 나를 위협하지 말아달라'는 평화의 메시지입니다. 이때 보호자가 과도한 스킨십을 계속하면 스트레스 지수가 올라가므로, 뒤로 한 걸음 물러나 공간을 제공해 주는 것이 좋습니다.",
+      "en": "As dogs with high dependency on their owners, Maltese silently show their psychological state through body gestures. Typical calming signals include **'nose licking'** and **'yawning'**. When facing a tense or unfamiliar environment, licking their nose or yawning is not due to sleepiness; it is a peaceful message to calm themselves down and ask others not to threaten them. If owners continue excessive contact during this time, their stress increases. It is best to take a step back and give them space.",
+      "ja": "マルチーズは飼い主への依存度が高い分、心理的な不安を静かにしぐさで表します。代表的なカーミングシグナルは**「鼻舐め」**と**「あくび」**です。緊張したり不慣れな環境に置かれた時、鼻をペロリと舐めたりあくびをする行動は、眠いからではなく自分を落ち着かせ、周囲に「敵意はないから脅かさないで」と伝える平和のサインです。この時に無理なスキンシップを続けるとストレスが高まるため、一歩引いて見守ることが大切です。",
+      "zh": "马尔济斯犬对家长的依赖度很高，因此它们会用微妙的身体姿势默默表达内心的不安。最典型的放松信号（Calming Signal）是“舔鼻子”和“打哈欠”。当处于紧张或陌生的环境中时，它们舔鼻（nose licking）或打大哈欠并不是因为疲倦，而是为了让自己冷静下来，并向周围传递“我没有恶意，请不要伤害我”的和平信息。如果家长此时继续过度抚摸，会导致其压力飙升，因此最好退后一步，给它们留出空间。",
+      "es": "Al ser perros con alta dependencia de sus dueños, los malteses muestran silenciosamente su estado psicológico a través de gestos corporales. Las señales de calma típicas incluyen **'lamerse la nariz'** y **'bostezar'**. Al enfrentarse a un entorno tenso o desconocido, lamerse la nariz o bostezar no es por sueño; es un mensaje pacífico para calmarse a sí mismos y pedir a los demás que no los amenacen. Si los dueños continúan con un contacto excesivo, aumenta su estrés. Lo mejor es dar un paso atrás y darles espacio.",
+      "fr": "En tant que chiens très dépendants de leurs maîtres, les bichons maltais montrent silencieusement leur état psychologique par des gestes corporels. Les signaux d'apaisement typiques incluent le fait de **se lécher la truffe** et de **bâiller**. Face à un environnement tendu ou inconnu, se lécher la truffe ou bâiller n'est pas dû à la fatigue ; c'est un message pacifique pour se calmer et demander aux autres de ne pas les menacer. Si les maîtres continuent le contact, leur stress augmente. Il est préférable de prendre du recul.",
+      "de": "Da sie sehr auf ihre Besitzer fixiert sind, zeigen Malteser ihren psychischen Zustand lautlos durch Körpergesten. Typische Beschwichtigungssignale (Calming Signals) sind **'Nasenlecken'** und **'Gähnen'**. In einer angespannten oder ungewohnten Umgebung ist das Lecken der Nase oder das Gähnen nicht auf Müdigkeit zurückzuführen; es ist eine friedliche Botschaft, um sich selbst zu beruhigen und andere aufzufordern, sie nicht zu bedrohen. Wenn Besitzer in dieser Zeit übermäßigen Konakt fortsetzen, steigt der Stress. Am besten ist es, einen Schritt zurückzutreten und ihnen Freiraum zu geben.",
+      "pt": "Como cães com alta dependência de seus donos, os malteses mostram silenciosamente seu estado psicológico por meio de gestos corporais. Os sinais de calma típicos incluem **'lamber o nariz'** e **'bocejar'**. Ao enfrentar um ambiente tenso ou desconhecido, lamber o nariz ou bocejar não é por sono; é uma mensagem pacífica para se acalmarem e pedirem aos outros que não os ameacem. Se os donos continuarem com contato excessivo, o estresse aumenta. O melhor é dar um passo atrás e dar-lhes espaço.",
+      "id": "Sebagai anjing dengan ketergantungan tinggi pada pemiliknya, Maltese secara diam-diam menunjukkan keadaan psikologis mereka melalui gerakan tubuh. Sinyal penenang yang khas termasuk **'menjilat hidung'** and **'menguap'**. Saat menghadapi lingkungan yang tegang atau asing, menjilat hidung atau menguap bukan karena mengantuk; itu adalah pesan damai untuk menenangkan diri dan meminta orang lain untuk tidak mengancam mereka. Jika pemilik terus melakukan kontak berlebihan selama waktu ini, stres mereka akan meningkat. Yang terbaik adalah mundur selangkah dan memberi mereka ruang."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "하품하기 (Yawning)",
+          "en": "Yawning",
+          "ja": "あくび (Yawning)",
+          "zh": "打哈欠 (Yawning)",
+          "es": "Bostezar",
+          "fr": "Bâiller",
+          "de": "Gähnen",
+          "pt": "Bocejar",
+          "id": "Menguap"
+        },
+        "meaning": {
+          "ko": "졸려서가 아니라 스스로와 상대방을 달래는 '진정해요'의 의사 표시입니다.",
+          "en": "Not due to sleepiness; it is a 'please calm down' signal to soothe themselves and others.",
+          "ja": "眠いからではなく、自分と相手を落ち着かせる「落ち着いて」の意思表示です。",
+          "zh": "并非因为困倦，而是为了安抚自己与对方而发出的“请冷静”的信号。",
+          "es": "No es por sueño; es una señal de 'por favor, cálmate' para calmarse a sí mismos y a los demás.",
+          "fr": "Ce n'est pas de la fatigue ; c'est un signal d'apaisement pour se calmer et calmer l'autre.",
+          "de": "Nicht aus Müdigkeit; es ist ein Beschwichtigungssignal, um sich und andere zu beruhigen.",
+          "pt": "Não por sono; é um sinal de 'por favor, acalme-se' para acalmar a si mesmos e aos outros.",
+          "id": "Bukan karena mengantuk; ini adalah sinyal 'tolong tenang' untuk menenangkan diri mereka sendiri dan orang lain."
+        },
+        "response": {
+          "ko": "트레이닝이나 발톱 깎기 도중 하품을 하면 즉시 중단하고 휴식을 취하게 하십시오.",
+          "en": "If they yawn during training or grooming, stop immediately and provide a quiet space.",
+          "ja": "トレーニングや爪切りの途中にあくびをしたら、すぐに中止して静かな空間を提供してください。",
+          "zh": "如果在训练或修剪指甲过程中它们开始打哈欠，应立即停止并给予安静的空间。",
+          "es": "Si bostezan durante el entrenamiento o el aseo, deténgase inmediatamente y ofrezca un espacio tranquilo.",
+          "fr": "S'il bâille pendant l'éducation ou le toilettage, arrêtez immédiatement et offrez un espace calme.",
+          "de": "Wenn sie beim Training oder Pflegen gähnen, brechen Sie sofort ab und sorgen Sie für einen ruhigen Ort.",
+          "pt": "Se bocejarem durante o treino ou cuidados, pare imediatamente e ofereça um espaço tranquilo.",
+          "id": "Jika mereka menguap selama pelatihan atau perawatan, segera hentikan dan berikan ruang yang tenang."
+        }
+      },
+      {
+        "name": {
+          "ko": "코 핥기 (Nose Licking)",
+          "en": "Nose Licking",
+          "ja": "鼻舐め (Nose Licking)",
+          "zh": "舔鼻 (Nose Licking)",
+          "es": "Lamerse la nariz",
+          "fr": "Se lécher la truffe",
+          "de": "Nasenlecken",
+          "pt": "Lamber o nariz",
+          "id": "Menjilat Hidung"
+        },
+        "meaning": {
+          "ko": "현재 자신이 처한 상황이 어색하고 불안하다는 자기 진정의 표현입니다.",
+          "en": "An expression of self-soothing when they feel awkward, tense, or anxious in their current situation.",
+          "ja": "現在の環境が気まずく、不安を感じているサインです。",
+          "zh": "在当前环境中感到尴尬、紧张或焦虑时自我安抚的表达。",
+          "es": "Una expresión de autocalma cuando se sienten incómodos o ansiosos en su situación actual.",
+          "fr": "Une expression d'auto-apaisement lorsqu'il se sent mal à l'aise ou anxieux.",
+          "de": "Ein Ausdruck der Selbstberuhigung, wenn sie sich in ihrer aktuellen Situation unwohl oder ängstlich fühlen.",
+          "pt": "Uma expressão de autotranquilização quando se sentem desconfortáveis ou ansiosos na situação atual.",
+          "id": "Ekspresi menenangkan diri ketika mereka merasa canggung atau cemas dengan situasi saat ini."
+        },
+        "response": {
+          "ko": "안아주거나 낯선 사람이 다가왔을 때 이 행동을 보이면 과도한 접촉을 피하고 거리를 두십시오.",
+          "en": "If shown when held or approached by strangers, stop the physical contact and give them space.",
+          "ja": "抱っこしたり近づいた時にこのサインが出たら、過度な接触をやめ、少し距離を置いてください。",
+          "zh": "如果抱它们或有陌生人靠近时出现此动作，请停止身体接触并退后留出空间。",
+          "es": "Si se muestra al cargarlo o al acercarse extraños, detenga el contacto físico y déles espacio.",
+          "fr": "Si ce geste apparaît lorsqu'il est porté ou approché par des inconnus, cessez le contact et laissez-lui de l'espace.",
+          "de": "Wenn dies beim Halten oder Annähern von Fremden gezeigt wird, beenden Sie den Kontakt und geben Sie ihnen Freiraum.",
+          "pt": "Se mostrado ao pegar no colo ou ao se aproximar de estranhos, pare o contato físico e dê-lhes espaço.",
+          "id": "Jika terlihat saat dipeluk atau didekati orang asing, hentikan kontak fisik dan beri mereka ruang."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 미끄럼 방지 환경 점검 및 관절 스트레칭",
+          "en": "Morning: Slip Prevention Check and Joint Stretching",
+          "ja": "朝：滑り止め環境の点検と関節ストレッチ",
+          "zh": "早晨：防滑环境检查与关节拉伸",
+          "es": "Mañana: Control antideslizante y estiramiento articular",
+          "fr": "Matin : Contrôle anti-glisse et étirements des articulations",
+          "de": "Morgen: Rutschschutzprüfung und Gelenkdehnbewegung",
+          "pt": "Manhã: Verificação antiderrapante e alongamento articular",
+          "id": "Pagi: Pemeriksaan Antiselip dan Peregangan Sendi"
+        },
+        "text": {
+          "ko": "아침에 일어나 반려견 전용 매트가 밀리지 않았는지 확인하고, 말티즈가 가볍게 기지개를 켤 때 뒷다리 관절 부위를 부드럽게 마사지하여 굳어 있는 근육을 풀어줍니다. 발바닥 패드가 털에 가려지지 않도록 점검하는 것도 필수입니다.",
+          "en": "Check that pet mats are secure. When your Maltese stretches in the morning, gently massage their hind leg joints to loosen stiff muscles. Ensure paw pad fur is trimmed.",
+          "ja": "朝起きてペット用マットがずれていないか確認し、軽いストレッチの際、後ろ足の関節部位を優しくマッサージして固まった筋肉をほぐします。足裏の肉球が毛で隠れていないか確認することも必須です。",
+          "zh": "早晨起床检查防滑垫是否移位。当马尔济斯犬伸懒腰时，温柔按摩其后肢关节以舒缓僵硬肌肉。同时必须检查并修剪足底肉垫处的杂毛以防打滑。",
+          "es": "Revise que las alfombras estén firmes. Cuando se estire por la mañana, masajee suavemente las articulaciones traseras. Asegúrese de recortar el pelo de las almohadillas.",
+          "fr": "Vérifiez que les tapis de protection sont bien en place. Lors des étirements du matin, massez doucement les articulations arrière. Veillez à couper les poils sous les pattes.",
+          "de": "Überprüfen Sie den Halt der Matten. Massieren Sie morgens beim Dehnen sanft die Hintergelenke, um Muskeln zu lockern. Kürzen Sie das Fell an den Pfotenballen.",
+          "pt": "Verifique se os tapetes estão firmes. Quando alongarem de manhã, massageie suavemente as articulações traseiras. Garanta o corte dos pelos das almofadas.",
+          "id": "Periksa apakah keset antislip terpasang kuat. Saat Maltese meregangkan tubuh di pagi hari, pijat lembut sendi kaki belakang mereka untuk melemaskan otot yang kaku. Pastikan bulu bantalan cakar dicukur."
+        }
+      },
+      {
+        "name": {
+          "ko": "낮/오후: 빗질을 이용한 1:1 눈가 위생 관리",
+          "en": "Afternoon: 1:1 Eye Hygiene and Combing Routine",
+          "ja": "昼・午後：コームを用いた目の周りの衛生管理",
+          "zh": "中午/下午：使用排梳进行眼部卫生护理",
+          "es": "Tarde: Higiene ocular diaria y cepillado",
+          "fr": "Après-midi : Hygiène oculaire et brossage ciblé",
+          "de": "Nachmittag: Augenhygiene und Bürstenpflege",
+          "pt": "Tarde: Higiene ocular diária e escovação",
+          "id": "Siang/Sore: Kebersihan Mata dan Rutinitas Penyisiran 1:1"
+        },
+        "text": {
+          "ko": "하루 한 번, 미세한 눈곱 빗과 전용 세정액을 사용해 눈 주변의 젖은 털을 정돈해 줍니다. 젖은 상태의 털이 방치되면 붉은 눈물자국과 함께 피부염이 발생하기 쉬우므로, 빗질 후 마른 화장솜으로 남은 수분을 완전히 닦아내 건조하게 유지합니다.",
+          "en": "Once a day, comb eye areas with fine-tooth combs and cleaning solutions. Wet fur leads to red stains and infections, so wipe moisture with cotton pads to keep dry.",
+          "ja": "毎日1回、目の細かい涙やけコームと専用のアイクリーナーを使用し、目の周りの濡れた毛を優しくといて整えます。濡れた状態のまま毛が放置されると、皮膚炎を引き起こします。コームの後はコットンで水分をしっかり拭き取ります。",
+          "zh": "每天一次，使用细齿排梳与专用洗眼液整理眼周湿润的毛发。湿毛发长期氧化会产生红褐色泪痕并诱发皮肤炎，梳理后需用干棉球擦干水分以保持干燥。",
+          "es": "Una vez al día, limpie la zona de los ojos con peines finos y soluciones limpiadoras. El pelo húmedo genera manchas rojas e infecciones; seque con algodón.",
+          "fr": "Une fois par jour, peignez le contour des yeux avec un peigne fin et une lotion adaptée. Les poils humides favorisent les traces rouges et les infections ; séchez avec un coton.",
+          "de": "Reinigen Sie einmal täglich die Augenpartie mit feinen Kämmen und Pflegelösungen. Nasses Fell führt zu roten Flecken und Infektionen; tupfen Sie es trocken.",
+          "pt": "Uma vez ao dia, limpe a área dos olhos com pentes finos e loção de limpeza. O pelo úmido gera manchas e infecções; seque bem com algodão.",
+          "id": "Sekali sehari, sisir area mata dengan sisir bergigi rapat dan cairan pembersih. Bulu yang basah menyebabkan noda merah dan infeksi, jadi seka kelembapan dengan kapas hingga kering."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 관절 영양제 급여 및 터치 둔감화 교감",
+          "en": "Evening: Joint Supplement and Paw Desensitization",
+          "ja": "夜：関節サプリメントの給与とタッチ脱感作",
+          "zh": "晚上：喂食关节营养品与触碰脱敏训练",
+          "es": "Noche: Suplemento articular y desensibilización al tacto",
+          "fr": "Soir : Supplément articulaire et désensibilisation des pattes",
+          "de": "Abend: Gelenk-Nahrungsergänzung und Pfotendesensibilisierung",
+          "pt": "Noite: Suplemento articular e dessensibilização ao toque",
+          "id": "Malam: Pemberian Suplemen Sendi dan Desensitisasi Sentuhan"
+        },
+        "text": {
+          "ko": "슬개골 탈구 예방 영양제(콘드로이친 등)를 급여한 뒤, 말티즈가 가장 싫어하는 부위인 발끝을 가볍게 만졌다가 떼며 칭찬 보상(어포, 간식)을 해 줍니다. 이 둔감화 과정을 거쳐야 발톱 깎기나 관절 점검 시 보호자를 물거나 예민하게 반응하는 것을 예방합니다.",
+          "en": "Administer joint supplements. Touch their paws gently and immediately reward them with treats. This desensitization prevents aggressive reactions during claw clipping or physical checks.",
+          "ja": "関節保護サプリメントを与えた後、最も嫌がる部位である足先を軽く触れては褒めておやつを与えるトレーニングを行います。これにより、爪切りや関節点検時に神経質になるのを防ぎます。",
+          "zh": "喂食关节保健品（如软骨素）。轻轻触碰马尔济斯最敏感的脚尖并立即给予零食奖励，通过此脱敏过程可有效预防修爪甲或检查关节时的咬人与敏感抗拒行为。",
+          "es": "Administre suplementos articulares. Toque las patas suavemente y premie de inmediato. Esto evita reacciones agresivas durante el corte de uñas o chequeos físicos.",
+          "fr": "Donnez les compléments pour les articulations. Touchez doucement ses pattes et récompensez-le aussitôt. Cela évite les réactions agressives lors de la coupe des griffes.",
+          "de": "Geben Sie Gelenkpräparate. Berühren Sie die Pfoten sanft und belohnen Sie sofort. Dies beugt Abwehrreaktionen beim Krallenschneiden oder bei Untersuchungen vor.",
+          "pt": "Ofereça suplemento articular. Toque as patas suavemente e recompense em seguida. Isso evita reações agressivas durante o corte de unhas ou exames físicos.",
+          "id": "Berikan suplemen sendi. Sentuh cakar mereka dengan lembut dan segera beri hadiah berupa camilan. Desensitisasi ini mencegah reaksi agresif saat memotong kuku atau pemeriksaan fisik."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "말티즈는 발을 만지면 왜 싫어하나요?",
+          "answer": "말티즈는 말초 감각이 매우 발달한 소형견으로 발끝에 신경이 집중되어 있어 본능적으로 접촉을 꺼립니다. 강압적인 터치 대신 평소 발끝을 가볍게 댔다가 떼며 칭찬 보상을 해 주는 둔감화 훈련이 필요합니다."
+        },
+        {
+          "question": "소파 계단만 있으면 슬개골 탈구를 완전히 예방할 수 있나요?",
+          "answer": "안전 계단은 충격을 줄여주는 좋은 도구이지만, 미끄러운 마룻바닥과 발바닥 털 관리도 중요합니다. 발바닥 패드 사이의 털을 항상 짧게 정리하고 실내 매트를 깔아주는 것이 병행되어야 시너지 효과가 납니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "Why do Maltese hate having their paws touched?",
+          "answer": "Maltese are toy dogs with highly developed sensory nerves concentrated in their paws, causing them to instinctively avoid touch. Desensitization training, gently touching the paws and rewarding them, is recommended."
+        },
+        {
+          "question": "Can safety stairs completely prevent patellar luxation?",
+          "answer": "While stairs reduce impact, slippery floors and overgrown paw fur also play major roles. You must keep the paw pads trimmed and lay down non-slip mats in the house for optimal results."
+        }
+      ],
+      "ja": [
+        {
+          "question": "マルチーズはなぜ足を触られるのを嫌がるのですか？",
+          "answer": "マルチーズは末梢感覚が非常に発達した小型犬で、足先に神経が集中しているため本能的に接触を避けます。無理に触るのではなく、普段から足先に軽く触れてはおやつを与える脱感作トレーニングが必要です。"
+        },
+        {
+          "question": "ソファー用の階段だけで膝蓋骨脱臼を完全に予防できますか？",
+          "answer": "安全な階段は衝撃を減らす良い道具ですが、滑りやすい床と足裏の毛の管理も重要です。足裏の毛を常に短く整え、滑り止めマットを敷く対策を併用することで予防効果が高まります。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "马尔济斯为什么讨厌被碰爪子？",
+          "answer": "马尔济斯属于末梢感觉极其发达的小型犬，爪尖集中了大量神经，因此本能地排斥被触碰。不要强行抓握，而应在平时轻轻碰一下后给予零食奖励，进行脱敏训练。"
+        },
+        {
+          "question": "仅靠沙发踏步能完全预防膝盖骨脱臼吗？",
+          "answer": "安全踏步是减轻冲击的有效工具，但防滑地面和足底被毛的管理也同样重要。必须保持足底肉垫处的毛发修剪整齐，并铺设室内防滑垫，双管齐下才能发挥最佳效果。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Por qué a los malteses no les gusta que les toquen las patas?",
+          "answer": "Los malteses son perros pequeños con nervios sensoriales muy desarrollados en sus patas, por lo que evitan el contacto de forma instintiva. Se recomienda el entrenamiento de desensibilización, tocando suavemente y premiando."
+        },
+        {
+          "question": "¿Las escaleras de seguridad previenen la luxación patelar por completo?",
+          "answer": "Aunque las escaleras reducen el impacto, los suelos resbaladizos y el pelo largo de las patas influyen mucho. Se deben recortar los pelos de las almohadillas y usar alfombras antideslizantes."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Pourquoi les bichons maltais détestent-ils qu'on leur touche les pattes ?",
+          "answer": "Les bichons maltais sont des chiens miniatures aux nerfs sensoriels très développés concentrés dans leurs pattes, ce qui les pousse à éviter le toucher. Un entraînement de désensibilisation, en touchant doucement puis en récompensant, est conseillé."
+        },
+        {
+          "question": "Les escaliers de sécurité empêchent-ils complètement la luxation rotulienne ?",
+          "answer": "Bien que les escaliers réduisent l'impact, les sols glissants et les poils des pattes jouent un rôle majeur. Il faut couper les poils des coussinets et poser des tapis antidérapants."
+        }
+      ],
+      "de": [
+        {
+          "question": "Warum hassen es Malteser, an den Pfoten angefasst zu werden?",
+          "answer": "Malteser sind Zwerghunde mit hochentwickelten sensorischen Nerven in den Pfoten, weshalb sie Berührungen instinktiv meiden. Ein Desensibilisierungstraining (sanftes Berühren der Pfoten mit anschließender Belohnung) wird empfohlen."
+        },
+        {
+          "question": "Können Sicherheitstreppen eine Patellaluxation vollständig verhindern?",
+          "answer": "Treppen reduzieren zwar die Stoßbelastung, aber rutschige Böden und langes Pfotenfell spielen ebenfalls eine Rolle. Das Kürzen des Pfotenfells und das Auslegen von Antirutschmatten sind notwendig."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Por que os malteses não gostam que toquem nas suas patas?",
+          "answer": "Os malteses são cães de companhia com nervos sensoriais altamente desenvolvidos nas patas, evitando o toque instintivamente. Recomenda-se o treino de dessensibilização, tocando suavemente e premiando."
+        },
+        {
+          "question": "As escadas de segurança previnem a luxação patelar completamente?",
+          "answer": "Embora as escadas reduzam o impacto, os pisos escorregadios e o pelo comprido das patas também influenciam. Deve-se aparar os pelos das almofadas e usar tapetes antiderrapantes."
+        }
+      ],
+      "id": [
+        {
+          "question": "Mengapa Maltese tidak suka kaki mereka disentuh?",
+          "answer": "Maltese adalah anjing kecil dengan saraf sensorik yang sangat berkembang di cakar mereka, membuat mereka secara naluriah menghindari sentuhan. Latihan desensitisasi, menyentuh kaki dengan lembut dan memberi hadiah, sangat disarankan."
+        },
+        {
+          "question": "Apakah tangga pengaman dapat mencegah luksasi patela sepenuhnya?",
+          "answer": "Meskipun tangga mengurangi benturan, lantai yang licin dan bulu kaki yang panjang juga berperan penting. Anda harus menjaga bulu cakar tetap pendek dan memasang keset antislip."
+        }
+      ]
+    }
+  }
+}

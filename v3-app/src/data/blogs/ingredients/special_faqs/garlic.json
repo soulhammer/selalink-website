@@ -1,0 +1,44 @@
+{
+  "garlic": {
+    "ko": [
+      {
+        "question": "깐 마늘에 수분이 닿으면 왜 쉽게 상하나요?",
+        "answer": "껍질을 벗긴 깐 마늘은 외벽이 노출되어 습도에 매우 민감합니다. 수분이 머물면 백색이나 회색 곰팡이가 급속도로 번식하므로 키친타월과 설탕을 이용해 철저히 건조 보관해야 합니다."
+      },
+      {
+        "question": "통마늘은 냉장실과 상온 중 어디에 보관하는 것이 좋나요?",
+        "answer": "껍질이 있는 통마늘은 냉장실에 넣으면 저온 다습한 환경 때문에 싹이 나거나 부패합니다. 망에 담아 통풍이 잘되는 서늘한 상온 그늘에 두는 것이 최선입니다."
+      }
+    ],
+    "en": [
+      {
+        "question": "Why does peeled garlic spoil so quickly when exposed to moisture?",
+        "answer": "Peeled garlic lacks its protective skin, making it highly vulnerable to humidity. Excess moisture triggers rapid mold growth; keep them dry using sugar and paper towels."
+      },
+      {
+        "question": "Should whole garlic heads be stored in the fridge or at room temp?",
+        "answer": "Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature."
+      }
+    ],
+    "ja": [
+      {
+        "question": "むきにんにくに水分がつくと傷みやすいのはなぜですか？",
+        "answer": "皮をむいたにんにくは外壁が露出しており、湿度に非常に敏感です。水分があると白カビやグレーのカビが急速に繁殖するため、キッチンペーパー等で乾燥を保つ必要があります。"
+      },
+      {
+        "question": "丸ごとのにんにくは冷蔵庫と常温のどちらで保存すべきですか？",
+        "answer": "皮付きのにんにくは冷蔵庫に入れると、低温多湿な環境により芽が出たり腐敗しやすくなります。ネットに入れて通気性の良い涼しい常温の日陰で保存するのが最適です。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "剥好的大蒜接触水分为什么容易变质？",
+        "answer": "剥皮大蒜失去了保护外壳，对湿度非常敏感。如果有水分残留，白霉或灰霉会迅速滋生，因此需要使用厨房纸巾等工具保持彻底干燥。"
+      },
+      {
+        "question": "整头大蒜应该放冰箱还是常温保存？",
+        "answer": "带皮的整头大蒜如果放入冰箱，会因为低温潮湿的环境而发芽或腐烂。最好是装入网袋中，放在通风良好的凉爽常温避光处。"
+      }
+    ]
+  }
+}

@@ -9,9 +9,19 @@ const pathModule = path;
 const blogRoot = path.join(__dirname, 'content/blog');
 const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
 
-const translationData = JSON.parse(
-  fs.readFileSync(path.join(__dirname, 'data/blogs/habits.json'), 'utf-8')
-);
+const habitsDir = path.join(__dirname, 'data/blogs/habits');
+const translationData = {};
+if (fs.existsSync(habitsDir)) {
+  fs.readdirSync(habitsDir).forEach(file => {
+    if (file.endsWith('.json')) {
+      const filePath = path.join(habitsDir, file);
+      const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+      Object.assign(translationData, fileData);
+    }
+  });
+} else {
+  console.warn(`[경고] habits 디렉토리가 존재하지 않습니다: ${habitsDir}`);
+}
 
 function run() {
   let createdCount = 0;

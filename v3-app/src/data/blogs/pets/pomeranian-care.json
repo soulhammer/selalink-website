@@ -1,0 +1,354 @@
+{
+  "pomeranian-care": {
+    "title": {
+      "ko": "포메라니안의 슬개골 및 호흡기 안정을 위한 3단계 보호막 루틴",
+      "en": "Protecting Pomeranian Joints and Airway: A 3-Step Daily Routine",
+      "ja": "ポメラニアンの膝蓋骨と呼吸器安定のための3段階プロテクトルーティン",
+      "zh": "博美犬的髌骨与呼吸道保护：日常3步保护惯例",
+      "es": "Protección de articulaciones y vías respiratorias del Pomerania: rutina de 3 pasos",
+      "fr": "Protéger les articulations et la trachée du Loulou de Poméranie : routine en 3 étapes",
+      "de": "Zwergspitz Gelenk- und Atemwegsschutz: Eine 3-Schritte-Routine",
+      "pt": "Proteção de articulações e vias respiratórias do Spitz Alemão: rotina de 3 passos",
+      "id": "Melindungi Sendi dan Saluran Napas Pomeranian: Rutinitas 3 Langkah"
+    },
+    "description": {
+      "ko": "소형견 포메라니안의 유전적 취약점인 슬개골 탈구 방지 팁과 기관지 협착증(거위소리) 완화를 위한 3단계 데일리 케어를 소개합니다.",
+      "en": "Pomeranians are highly prone to patellar luxation and tracheal collapse. Discover tips to prevent joint injuries and relieve breathing issues using a 3-step routine.",
+      "ja": "小型犬ポメラニアンの遺伝的弱点である膝蓋骨脱臼の予防法と、気管虚脱（ガチョウの鳴き声のような呼吸音）の緩和のための3段階ケアを紹介します。",
+      "zh": "博美犬极易发生髌骨脱位和气管塌陷。介绍预防关节损伤及缓解呼吸问题的日常3步保护惯例。",
+      "es": "Los Pomeranias son propensos a la luxación patelar y al colapso traqueal. Descubra consejos para prevenir lesiones articulares y aliviar problemas respiratorios.",
+      "fr": "Le Loulou de Poméranie est sujet à la luxation de la rotule et au collapsus trachéal. Découvrez des conseils pour préserver ses articulations et sa trachée.",
+      "de": "Zwergspitze sind anfällig für Patellaluxation und Trachealkollaps. Erfahren Sie Tipps zur Gelenkvorsorge und Entlastung der Atemwege mit einer 3-Schritte-Routine.",
+      "pt": "Os Spitz Alemães são propensos à luxação patelar e ao colapso traqueal. Descubra dicas para evitar lesões articulares e aliviar problemas respiratórios.",
+      "id": "Pomeranian rentan terhadap luksasi patela dan kolaps trakea. Temukan tips mencegah cedera sendi dan meredakan masalah pernapasan dengan rutinitas 3 langkah."
+    },
+    "authority": {
+      "ko": "American Pomeranian Club 공식 견종 가이드 및 AVMA 수의학 매뉴얼",
+      "en": "Official American Pomeranian Club Breed Guide & AVMA Veterinary Manual",
+      "ja": "アメリカンポメラニアンクラブ公式犬種ガイド＆AVMA獣医学マニュアル",
+      "zh": "美国博美犬俱乐部官方犬种指南与 AVMA 兽医学手册",
+      "es": "Guía oficial de razas del American Pomeranian Club y manual veterinario de la AVMA",
+      "fr": "Guide officiel de race de l'American Pomeranian Club et manuel vétérinaire de l'AVMA",
+      "de": "Offizieller Rasseführer des American Pomeranian Clubs & Tierärztliches Handbuch der AVMA",
+      "pt": "Guia oficial de raças do American Pomeranian Club e manual veterinário da AVMA",
+      "id": "Panduan Ras Resmi American Pomeranian Club & Panduan Dokter Hewan AVMA"
+    },
+    "profile": {
+      "breed": {
+        "ko": "포메라니안 (Pomeranian)",
+        "en": "Pomeranian",
+        "ja": "ポメラニアン",
+        "zh": "博美犬",
+        "es": "Pomerania",
+        "fr": "Loulou de Poméranie",
+        "de": "Zwergspitz",
+        "pt": "Spitz Alemão",
+        "id": "Pomeranian"
+      },
+      "lifespan": {
+        "ko": "12 ~ 16년",
+        "en": "12 ~ 16 years",
+        "ja": "12 ~ 16年",
+        "zh": "12 ~ 16年",
+        "es": "12 ~ 16 años",
+        "fr": "12 ~ 16 ans",
+        "de": "12 ~ 16 Jahre",
+        "pt": "12 ~ 16 anos",
+        "id": "12 ~ 16 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "12 ~ 14시간 (보호자 머리맡 선호형)",
+        "en": "12 ~ 14 hours (prefers sleeping near owner's pillow)",
+        "ja": "12 ~ 14時間（飼い主の枕元優先型）",
+        "zh": "12 ~ 14小时（偏好在家长枕头旁型）",
+        "es": "12 ~ 14 horas (prefiere dormir cerca de la almohada del dueño)",
+        "fr": "12 ~ 14 heures (préfère dormir près de l'oreiller du maître)",
+        "de": "12 ~ 14 Stunden (bevorzugt Kissenbereich des Besitzers)",
+        "pt": "12 ~ 14 horas (prefere dormir perto do travesseiro do dono)",
+        "id": "12 ~ 14 jam (lebih suka tidur di dekat bantal pemilik)"
+      },
+      "temperament": {
+        "ko": "외향적, 총명함, 활기참",
+        "en": "Outgoing, Intelligent, Lively",
+        "ja": "外向的、聡明、活気がある",
+        "zh": "外向、聪明、活泼气派",
+        "es": "Extrovertido, Inteligente, Vivaz",
+        "fr": "Extroverti, Intelligent, Vif",
+        "de": "Extrovertiert, Intelligent, Lebhaft",
+        "pt": "Extrovertido, Inteligente, Vivaz",
+        "id": "Ekstrovert, Cerdas, Lincah"
+      }
+    },
+    "intro": {
+      "ko": "포메라니안은 작은 몸집에 풍성한 털, 그리고 밝고 당당한 걸음걸이로 전 세계에서 가장 인기 있는 초소형 반려견 중 하나입니다. 매우 외향적이고 총명하며, 애교가 넘치지만 고유의 사냥 개 유전자가 있어 소리에 예민하고 다소 앙칼지게 짖기도 합니다. 🐕 하지만 포메라니안을 키우는 반려인들의 공통적인 두 가지 건강 고민이 있습니다. 첫째는 뼈가 너무 얇아 발생하는 **슬개골 탈구(Patellar Luxation)**이고, 둘째는 기관지가 납작하게 눌려 거위 울음소리를 내는 **기관지 협착증(Tracheal Collapse)**입니다. 이 두 질환은 아파트 등 한국의 실내 환경에서 악화되기 쉽습니다. 오늘 PetSelf에서는 포메라니안의 신체 구조에 맞추어 슬개골과 호흡기를 동시에 안전하게 보호할 수 있는 3단계 홈케어 루틴을 소개합니다.",
+      "en": "Pomeranians are highly popular toy dogs, beloved for their fluffy double coat and confident, active gait. They are outgoing and intelligent, but their hunting dog heritage can make them sensitive to sounds and prone to barking. 🐕 Pomeranian owners often face two significant health concerns: **Patellar Luxation** (dislocated kneecaps due to thin bones) and **Tracheal Collapse** (which causes a honking, goose-like cough). These conditions can easily worsen in slippery indoor environments. Today, PetSelf provides key insights into Pomeranian body language and introduces a protective 3-step home care routine for their joints and trachea.",
+      "ja": "ポメラニアンは、小さな体に見事な被毛、そして明るく堂々とした歩き方で、世界中で最も人気のある超小型犬の一つです。非常に外向的で聡明、愛嬌たっぷりですが、犬としての本能から音に敏感で、少しけたたましく吠えることもあります。🐕しかし、ポメラニアンの飼い主に共通する2つの健康の悩みがあります。1つは骨が細いために起こる**膝蓋骨脱臼（パテラ）**、もう1つは気管が平らにつぶれてガチョウのような呼吸音を出す**気管虚脱**です。これらは日本の滑りやすい床環境で悪化しやすいです。本日、PetSelfでは関節と呼吸器を同時に保護する3段階ルーティンを紹介します。",
+      "zh": "博美犬以其娇小的体型、蓬松的双层被毛以及自信活泼的步态而备受喜爱。它们外向且聪明，但其猎犬血统也使其对声音较敏感，易吠叫。🐕博美犬家长经常面临两个重要的健康隐忧：**髌骨脱位**（因骨骼纤细导致膝盖骨易脱位）和**气管塌陷**（导致发出鹅叫般的咳嗽声）。这些状况在滑溜的室内地板上极易恶化。今天，PetSelf 将带您了解博美犬的身体语言，并介绍一套日常3步护理惯例，以保护它们的关节和气管健康。",
+      "es": "Los Pomeranias son perros toy muy populares por su pelaje esponjoso y su andar seguro. Son extrovertidos e inteligentes, pero su herencia cazadora los hace sensibles a los sonidos y propensos a ladrar. 🐕 Los dueños a menudo enfrentan dos problemas de salud: la **luxación patelar** y el **colapso traqueal** (que causa una tos similar al graznido de un ganso). Estas condiciones pueden empeorar en interiores resbaladizos. Hoy, PetSelf presenta una rutina de 3 pasos para proteger sus articulaciones y tráquea.",
+      "fr": "Le Loulou de Poméranie est un chien miniature très populaire, adoré pour sa fourrure bouffante et sa démarche fière. Extroverti et intelligent, il garde un instinct de garde qui le rend sensible aux bruits. 🐕 Les propriétaires de Poméraniens font face à deux soucis de santé majeurs : la **luxation de la rotule** (fragilité osseuse) et le **collapsus trachéal** (qui se traduit par une toux rappelant le cri de l'oie). Ces affections s'aggravent sur les sols glissants. Aujourd'hui, PetSelf présente une routine en 3 étapes pour protéger ses articulations et sa trachée.",
+      "de": "Zwergspitze sind beliebte Gesellschaftshunde, die für ihr plüschiges Fell und ihren selbstbewussten Gang bekannt sind. Sie sind extrovertiert und klug, können aber aufgrund ihres Erbes geräuschempfindlich sein und zum Bellen neigen. 🐕 Besitzer sorgen sich oft um zwei Gesundheitsprobleme: **Patellaluxation** (Kniescheibenluxation aufgrund feiner Knochen) und **Trachealkollaps** (der zu einem gänsehustenartigen Keuchen führt). Diese Beschwerden verschlimmern sich auf rutschigen Böden. Heute stellt PetSelf eine 3-Schritte-Routine vor.",
+      "pt": "Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar confiante. São extrovertidos e inteligentes, mas sua herança de caça pode torná-los sensíveis a sons e propensos a latir. 🐕 Os donos frequentemente enfrentam duas preocupações: a **luxação patelar** e o **colapso traqueal** (que causa uma tosse parecida com grasnido de ganso). Essas condições pioram em pisos rescorregadios. Hoje, o PetSelf apresenta uma rotina de 3 passos para as articulações e traqueia.",
+      "id": "Pomeranian adalah anjing mainan yang sangat populer, dicintai karena bulu ganda mereka yang lembut dan gaya berjalan mereka yang percaya diri. Mereka ekstrovert dan cerdas, tetapi warisan anjing pemburu dapat membuat mereka sensitif terhadap suara dan cenderung menggonggong. 🐕 Pemilik sering menghadapi dua masalah kesehatan utama: **Luksasi Patela** dan **Kolaps Trakea** (yang menyebabkan batuk mirip angsa). Kondisi ini dapat memburuk di lantai licin. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "포메라니안의 바디 랭귀지: 기쁨과 흥분의 조절",
+      "en": "Pomeranian Body Language: Distinguishing Playfulness from Anxiety",
+      "ja": "ポメラニアンのボディランゲージ：遊び心と不安の判別",
+      "zh": "博美犬的身体语言：区分玩耍与焦虑",
+      "es": "Lenguaje corporal del Pomerania: distinguir el juego de la ansiedad",
+      "fr": "Langage corporel du Poméranien : distinguer le jeu de l'anxiété",
+      "de": "Körpersprache des Zwergspitzes: Unterscheidung zwischen Spieltrieb und Angst",
+      "pt": "Linguagem corporal do Spitz Alemão: distinguindo o brincar da ansiedade",
+      "id": "Bahasa Tubuh Pomeranian: Membedakan Bermain dengan Kecemasan"
+    },
+    "whyDesc": {
+      "ko": "포메라니안은 작은 몸집만큼 신속하게 기분을 전환하며, 적극적인 몸짓 언어를 구사합니다. 대표적인 언어는 **'기지개 켜기(Play Bow)'**와 **'입술 핥기'**입니다. 포메라니안이 앞발을 낮추고 엉덩이를 번쩍 드는 기지개 동작은 기분 좋은 놀이 신청의 전형입니다. 반면, 흥분하여 꼬리를 흔드는 듯 보이지만 혀를 내밀어 입술을 낼름 핥는 것은 현재 상황에 심리적인 압박이나 불안감을 느껴 스스로를 통제하려는 시그널이므로 안정이 필요합니다.",
+      "en": "Pomeranians are highly expressive and shift emotions rapidly. Key body language signals include the **'play bow'** (stretching) and **'lip licking'**. When a Pomeranian lowers their front body while raising their hips, it is the classic 'play bow,' indicating an open invitation to play. However, if they appear to wag their tail but continuously lick their lips, it is a sign of internal anxiety or stress. Owners should not mistake this for excitement and should help calm them down.",
+      "ja": "ポメラニানেরは小さな体で素早く感情を切り替え、表情豊かなしぐさを見せます。代表的なサインは**「プレイバウ（お辞儀のポーズ）」**と**「唇舐め」**です。ポメラニアンが前足を低く下げ、お尻を高く持ち上げるポーズは、楽しい遊びの誘いです。一方、しっぽを振って喜んでいるように見えても、頻繁に唇をペロペロ舐めるのは、現在の環境に精神的な負担や不安を感じて落ち着こうとするサインです。",
+      "zh": "博美犬极富表现力，情绪变化迅速。关键的肢体语言包括“邀请玩耍姿势（Play Bow）”和“舔嘴唇”。当博美犬降低前半身并抬高臀部时，这是经典的邀请玩耍姿势。然而，如果它们看似在摇尾巴，却不断地用舌头舔嘴唇，这实际上是内心焦虑或压力的表现。家长不应将其误认为兴奋，而应该帮助它们冷静下来。",
+      "es": "Los Pomeranias son muy expresivos y cambian de emoción rápidamente. Las señales clave incluyen el **'saludo de juego'** y **'lamerse los labios'**. Cuando baja la parte delantera de su cuerpo y levanta las caderas, es una invitación a jugar. Sin embargo, si parece mover la cola pero se lame continuamente los labios, es un signo de ansiedad interna. Los dueños no deben confundir esto con entusiasmo.",
+      "fr": "Le Poméranien est très expressif et change d'émotion rapidement. Les signaux clés incluent la **'révérence de jeu'** (play bow) et le **'lèche-babines'**. Lorsqu'il abaisse le train avant et lève l'arrière-train, c'est une invitation classique au jeu. Cependant, s'il remue la queue tout en se léchant continuellement les babines, c'est un signe d'anxiété interne. Les maîtres ne doivent pas confondre cela avec de l'excitation.",
+      "de": "Zwergspitze sind sehr ausdrucksstark. Wichtige Signale sind die **'Spielaufforderung'** (Vorderkörper absenken) und das **'Lippenlecken'**. Wenn ein Zwergspitz den Vorderkörper senkt und das Hinterteil hebt, ist das eine Spielaufforderung. Wenn er jedoch mit dem Schwanz wedelt, aber ständig die Lippen leckt, deutet dies auf innere Unruhe oder Stress hin. Verwechseln Sie dies nicht mit Freude.",
+      "pt": "Os Spitz Alemães são muito expressivos. Os sinais principais incluem a **'posição de convite para brincar'** (Play Bow) e **'lamber os lábios'**. Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é sinal de ansiedade interna. Não confunda isso com entusiasmo.",
+      "id": "Pomeranian sangat ekspresif dan mengubah emosi dengan cepat. Sinyal bahasa tubuh utama meliputi **'posisi mengajak bermain'** (play bow) dan **'menjilat bibir'**. Saat Pomeranian menurunkan tubuh bagian depan sambil mengangkat pinggul, itu adalah ajakan bermain klasik. Namun, jika mereka menggoyangkan ekor tetapi terus menjilat bibir, itu adalah tanda kecemasan internal."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "기지개 켜기 (Play Bow)",
+          "en": "Play Bow",
+          "ja": "お辞儀のポーズ (Play Bow)",
+          "zh": "邀请玩耍姿势 (Play Bow)",
+          "es": "Saludo de juego",
+          "fr": "Révérence de jeu",
+          "de": "Spielaufforderung",
+          "pt": "Convite para brincar",
+          "id": "Posisi Mengajak Bermain"
+        },
+        "meaning": {
+          "ko": "앞발을 내리고 엉덩이를 든 상태로, 상대방에게 같이 놀자고 권하는 아주 행복한 제안입니다.",
+          "en": "Lowering the front body while raising the hips, representing an open and happy invitation to play.",
+          "ja": "前足を下げてお尻を持ち上げた状態で、相手に一緒に遊ぼうと誘うとてもハッピーなサインです。",
+          "zh": "前半身贴地而臀部抬起，表示非常高兴并向家长或伙伴发出一起玩耍的邀请。",
+          "es": "Bajar la parte delantera y levantar las caderas, representando una invitación feliz para jugar.",
+          "fr": "Abaissement du train avant et arrière-train levé, représentant une invitation joyeuse à jouer.",
+          "de": "Absenken des Vorderkörpers bei gehobenem Hinterteil, was eine freudige Einladung zum Spiel darstellt.",
+          "pt": "Abaixar a parte dianteira e levantar o quadril, representando um convite feliz para brincar.",
+          "id": "Menurunkan tubuh bagian depan sambil mengangkat pinggul, mewakili ajakan bermain yang bahagia."
+        },
+        "response": {
+          "ko": "장난감을 던져주거나 살짝 쫓아가는 놀이를 시작하여 기쁘게 호응해 주십시오.",
+          "en": "Respond joyfully by throwing a favorite toy or starting a gentle chase game.",
+          "ja": "おもちゃを投げてあげたり、軽く追いかけっこをして楽しく応えてあげてください。",
+          "zh": "扔出它们喜欢的玩具，或者开始一场温柔的追逐游戏以快乐地回应它们。",
+          "es": "Responda alegremente lanzando un juguete o comenzando un juego suave de persecución.",
+          "fr": "Répondez joyeusement en jetant un jouet ou en commençant un jeu de poursuite doux.",
+          "de": "Reagieren Sie freudig, indem Sie ein Spielzeug werfen oder ein sanftes Nachlaufspiel starten.",
+          "pt": "Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve.",
+          "id": "Tanggapi dengan gembira dengan melemparkan mainan favorit atau memulai permainan kejar-kejaran lembut."
+        }
+      },
+      {
+        "name": {
+          "ko": "입술 핥기 (Lip Licking)",
+          "en": "Lip Licking",
+          "ja": "唇を舐める (Lip Licking)",
+          "zh": "舔嘴唇 (Lip Licking)",
+          "es": "Lamerse los labios",
+          "fr": "Lèche-babines",
+          "de": "Lippenlecken",
+          "pt": "Lamber os lábios",
+          "id": "Menjilat Bibir"
+        },
+        "meaning": {
+          "ko": "음식을 기대하는 것이 아니라, 주변 환경에 의해 정신적인 불안감을 억누르는 행동입니다.",
+          "en": "Not anticipating food; it is a calming signal used to control internal anxiety or stress.",
+          "ja": "食べ物を期待しているのではなく、周囲の環境による精神的不安を和らげようとするしぐさです。",
+          "zh": "并非期待食物，而是一种用来平复内心焦虑或压力的放松信号。",
+          "es": "No es por anticipar comida; es una señal de calma utilizada para controlar la ansiedad o el estrés.",
+          "fr": "Il ne réclame pas de nourriture ; c'est un signal d'apaisement pour contrôler son anxiété.",
+          "de": "Keine Vorfreude auf Futter; ein Beschwichtigungssignal zur Bewältigung von innerer Unruhe.",
+          "pt": "Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou o estresse.",
+          "id": "Bukan mengantisipasi makanan; ini adalah sinyal penenang untuk mengendalikan kecemasan."
+        },
+        "response": {
+          "ko": "산책 도중이나 낯선 환경에서 이 행동을 하면 자극 원인으로부터 거리를 확보해 주십시오.",
+          "en": "If seen during walks or in new places, guide them away from the stimulus to ensure safety.",
+          "ja": "散歩の途中や不慣れな場所でこのしぐさをしたら、不安の要素から距離を置いてあげてください。",
+          "zh": "如果在散步或陌生环境中看到这个动作，请引导它们远离刺激源以确保安全感。",
+          "es": "Si lo ve durante paseos, guíelo lejos del estímulo para garantizar su tranquilidad.",
+          "fr": "Si vous l'observez en promenade, éloignez-le de la source de stress pour le rassurer.",
+          "de": "Wenn Sie dies beim Spaziergang sehen, führen Sie ihn aus der Situation heraus.",
+          "pt": "Se ver isso durante os passeios, afaste-o do estímulo para garantir sua tranquilidade.",
+          "id": "Jika terlihat saat jalan-jalan, jauhkan mereka dari stimulus untuk memastikan ketenangan."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 미끄럼 방지 매트 정돈 및 점프 차단 훈련",
+          "en": "Morning: Floor Grip Maintenance and Jump Prevention",
+          "ja": "朝：滑り止めマットの整理とジャンプ禁止トレーニング",
+          "zh": "早晨：防滑地垫整理与防止跳跃训练",
+          "es": "Mañana: Mantenimiento antideslizante y prevención de saltos",
+          "fr": "Matin : Entretien des tapis anti-glisse et apprentissage du non-saut",
+          "de": "Morgen: Rutschschutzprüfung und Sprungvermeidungstraining",
+          "pt": "Manhã: Manutenção antiderrapante e prevenção de saltos",
+          "id": "Pagi: Perawatan Lapisan Antiselip dan Pencegahan Lompat"
+        },
+        "text": {
+          "ko": "소형견 포메라니안이 침대에서 아래로 뛰어내리는 충격을 예방하기 위해 미끄럼 방지 매트 위치를 확인하고 계단 사용을 적극 유도합니다.",
+          "en": "Ensure non-slip mats are correctly placed around furniture to protect their thin bones. Train them to use pet stairs instead of jumping down.",
+          "ja": "超小型犬であるポメラニアンがベッド等から飛び降りる衝撃を防ぐため、滑り止めマットの位置を確認し、スロープや階段の使用を促します。",
+          "zh": "确保家具周围正确铺设防滑垫，以保护它们纤细的的骨骼。引导它们使用宠物台阶，避免直接跳下造成的冲击。",
+          "es": "Asegúrese de que las alfombras antideslizantes estén bien colocadas. Enséñeles a usar escaleras para mascotas en lugar de saltar.",
+          "fr": "Vérifiez que les tapis anti-glisse sont bien positionnés. Incitez-le à utiliser des escaliers pour chiens plutôt que de sauter des meubles.",
+          "de": "Stellen Sie sicher, dass rutschfeste Matten richtig liegen. Gewöhnen Sie ihn daran, Hundetreppen zu benutzen, anstatt herunterzuspringen.",
+          "pt": "Certifique-se de que os tapetes antiderrapantes estejam bem posicionados. Treine-os para usar escadas para pets em vez de pular.",
+          "id": "Pastikan keset antiselip diletakkan dengan benar di sekitar furnitur. Latih mereka menggunakan tangga hewan daripada melompat turun."
+        }
+      },
+      {
+        "name": {
+          "ko": "오후: 피부 공기 순환을 위한 핀 브러시 역방향 빗질",
+          "en": "Afternoon: Pin Brushing Against Hair Direction",
+          "ja": "午後：皮膚の空気循環のためのピンブラシ逆方向ブラッシング",
+          "zh": "下午：逆毛发生长方向梳理以促进空气流通",
+          "es": "Tarde: Cepillado con cepillo de púas contra el pelo",
+          "fr": "Après-midi : Brossage avec brosse à picots à rebrousse-poil",
+          "de": "Nachmittag: Bürsten gegen den Strich zur Hautbelüftung",
+          "pt": "Tarde: Escovação com escova de pinos contra o pelo",
+          "id": "Siang: Menyikat Bulu Berlawanan Arah dengan Sikat Pin"
+        },
+        "text": {
+          "ko": "풍성한 솜털(하모)이 엉켜 공기가 차단되는 포메라니안 모질을 위해, 핀 브러시로 털을 꼬리에서 머리 방향으로 부드럽게 세워 빗겨 피모 건강을 돕습니다.",
+          "en": "Use a pin brush to gently brush the coat from tail to head, fluffing it up. This prevents undercoat matting and allows healthy air flow to the skin.",
+          "ja": "豊かな綿毛（アンダーコート）が絡まって空気が遮断されやすいポメラニアンのため、ピンブラシで毛を尻尾から頭の方向へ優しく立たせるように梳かします。",
+          "zh": "使用针梳从尾部向头部方向轻轻梳理毛发，使其蓬松。这可以防止双层被毛结块，并促进皮肤的健康空气流通。",
+          "es": "Use un cepillo de púas para cepillar suavemente desde la cola hacia la cabeza. Esto evita enredos y permite el flujo de aire en la piel.",
+          "fr": "Utilisez une brosse à picots pour brosser délicatement de la queue vers la tête. Cela évite les nœuds de sous-poil et permet à la peau de respirer.",
+          "de": "Nutzen Sie eine Stiftbürste, um das Fell sanft von der Rute zum Kopf gegen den Strich zu bürsten. Dies verhindert Verfilzungen und lüftet die Haut.",
+          "pt": "Use uma escova de pinos para escovar suavemente da cauda para a cabeça. Isso evita nós na subpelagem e permite o fluxo de ar na pele.",
+          "id": "Gunakan sikat pin untuk menyikat bulu secara lembut dari ekor ke kepala. Ini mencegah kusut dan melancarkan aliran udara ke kulit."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 기관지 협착 예방을 위한 목 마사지 및 산책 장비 점검",
+          "en": "Evening: Neck Massage and Harness Check to Avoid Tracheal Strain",
+          "ja": "夜：気管虚脱予防のための首マッサージと散歩用ハーネスの点検",
+          "zh": "晚上：预防气管压力的颈部按摩与胸背带检查",
+          "es": "Noche: Masaje de cuello y control de arnés para evitar tensión traqueal",
+          "fr": "Soir : Massage du cou et vérification du harnais anti-traction",
+          "de": "Abend: Halsmassage und Brustgeschirr-Prüfung zur Atemwegsentlastung",
+          "pt": "Noite: Massagem no pescoço e verificação do peitoral para evitar tensão traqueal",
+          "id": "Malam: Pijat Leher dan Pemeriksaan Harness untuk Hindari Ketegangan Trakea"
+        },
+        "text": {
+          "ko": "유전적으로 좁고 약한 기관지를 누르지 않도록, 저녁 산책 시 목줄 대신 전용 Y자 가슴줄(하네스)을 점검하고 목 아래 연골 주변을 부드럽게 마사지합니다.",
+          "en": "To protect their fragile trachea, examine your Y-shaped harness and avoid collars completely. Massage the sides of their neck gently to relieve muscle tension.",
+          "ja": "遺伝的に細くて弱い気管を圧迫しないよう、夜の散歩時は首輪ではなくY字型ハーネスの調整を確認し、首の下の軟骨周りを優しくマッサージします。",
+          "zh": "为了保护其脆弱的气管，请完全避免使用项圈，而应使用Y字形胸背带。轻轻按摩其颈部两侧，以缓解肌肉紧张。",
+          "es": "Para proteger su frágil tráquea, examine su arnés en forma de Y y evite por completo los collares. Masajee suavemente los lados del cuello.",
+          "fr": "Pour protéger sa trachée fragile, vérifiez le harnais en Y et proscrivez les colliers. Massez doucement les côtés du cou pour relâcher la tension.",
+          "de": "Um die empfindliche Luftröhre zu schützen, nutzen Sie ein Y-Geschirr statt eines Halsbands. Massieren Sie die Halsseiten sanft, um Muskeln zu entspannen.",
+          "pt": "Para proteger sua traqueia frágil, use peitoral em Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão.",
+          "id": "Untuk melindungi trakea mereka yang rapuh, gunakan harness berbentuk Y dan hindari kalung leher. Pijat perlahan sisi leher untuk meredakan ketegangan."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "포메라니안이 갑자기 흥분하며 '꺽꺽' 거리는 거위 소리를 내는데 어떡하죠?",
+          "answer": "일시적인 기관지 협착증 증상일 수 있습니다. 당황하지 마시고 포메라니안을 안아 올린 뒤, 목덜미를 부드럽게 쓰다듬거나 콧구멍을 1초 정도 손으로 살짝 막아주면 코로 호흡을 유도해 빠르게 가라앉힐 수 있습니다."
+        },
+        {
+          "question": "슬개골 탈구를 수술 없이 홈케어만으로 완치할 수 있나요?",
+          "answer": "슬개골 탈구가 이미 진행된 3~4단계 수준의 물리적 변형은 수술적 치료가 필수적입니다. 홈케어는 슬개골 1~2단계 상태에서 주변 근력을 키워 악화를 늦추거나 수술 후 재발을 방지하는 아주 강력한 보조 예방책입니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "What should I do when my Pomeranian makes a goose-like honking sound?",
+          "answer": "This Honking is a common symptom of tracheal collapse. Do not panic; hold your Pomeranian close, rub their throat gently, or temporarily cover their nostrils for 1 second to encourage nose breathing."
+        },
+        {
+          "question": "Can home care cure patellar luxation without surgery?",
+          "answer": "No. Advanced stages (Grade 3 or 4) require surgical correction. Home care (maintaining healthy weight, preventing slips, and muscle-building exercises) is effective in early stages (Grade 1 or 2) to slow progression and prevent recurrence post-surgery."
+        }
+      ],
+      "ja": [
+        {
+          "question": "ポメラニアンが突然興奮して「カッカッ」とガチョウのような鳴き声でむせる時はどうしますか？",
+          "answer": "気管虚脱の一時的な症状です。慌てずに抱き上げ、首周りを優しく撫でたり、鼻の穴を1秒ほど指でそっと塞ぐと、鼻呼吸が促されて早く落ち着きます。"
+        },
+        {
+          "question": "膝蓋骨脱臼は手術なしでホームケアだけで完治しますか？",
+          "answer": "膝蓋骨脱臼がすでに進行したステージ3〜4の物理的な変形は手術が必要です。ホームケアは、ステージ1〜2の初期段階で悪化を遅らせ、手術後の再発を防止するための非常に強力な予防手段です。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "博美犬突然像鹅一样发出“咳咳”的 honking 咳嗽声，我该怎么办？",
+          "answer": "这通常是气管塌陷的暂时性症状。请保持冷静，抱起您的博美犬，轻轻抚摸它们的喉部，或短暂用手遮住其鼻孔1秒钟以促使其改用鼻子呼吸，症状通常会迅速缓解。"
+        },
+        {
+          "question": "仅仅依靠家庭护理能治愈髌骨脱位而无需手术吗？",
+          "answer": "对于已经发展至3至4期的物理性移位，必须进行手术矫正。家庭护理（控制体重、防止打滑、加强后肢肌肉）在早期（1至2期）能有效延缓病情进展，并在术后防止复发。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Qué debo hacer si mi Pomerania hace un graznido de ganso al respirar?",
+          "answer": "Esto suele ser un síntoma de colapso traqueal. No se alarme; cargue al perro, acaricie su cuello o tape sus orificios nasales por 1 segundo para forzar la respiración nasal."
+        },
+        {
+          "question": "¿Se puede curar la luxación patelar solo con cuidados en casa?",
+          "answer": "Las etapas avanzadas (Grado 3 o 4) requieren cirugía. El cuidado en casa (control de peso, evitar resbalones y fortalecer músculos) sirve en etapas tempranas (Grado 1 o 2) para retrasar el progreso."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Que faire lorsque mon Poméranien émet un bruit de klaxon rappelant l'oie ?",
+          "answer": "C'est un symptôme de collapsus trachéal. Gardez votre calme, prenez-le dans vos bras, massez doucement sa gorge ou obstruez brièvement ses narines pendant 1 seconde pour forcer la respiration nasale."
+        },
+        {
+          "question": "Le soin à la maison peut-il guérir la luxation de rotule sans chirurgie ?",
+          "answer": "Les stades avancés (Grade 3 ou 4) nécessitent une chirurgie. Le soin à la maison (poids idéal, tapis, exercices) est efficace aux stades précoces (Grade 1 ou 2) pour ralentir l'évolution."
+        }
+      ],
+      "de": [
+        {
+          "question": "Was soll ich tun, wenn mein Zwergspitz ein gänsehustenartiges Keuchen zeigt?",
+          "answer": "Dies ist ein Symptom des Trachealkollapses. Bleiben Sie ruhig; halten Sie ihn fest, streicheln Sie die Kehle sanft oder halten Sie die Nasenlöcher für 1 Sekunde zu, um Nasenatmung anzuregen."
+        },
+        {
+          "question": "Kann die Kniescheibenluxation ohne Operation durch Pflege geheilt werden?",
+          "answer": "Fortgeschrittene Stadien (Grad 3 oder 4) erfordern eine Operation. Pflege zu Hause (Gewichtskontrolle, rutschfeste Böden) ist in frühen Stadien (Grad 1 oder 2) wirksam, um das Fortschreiten zu verlangsamen."
+        }
+      ],
+      "pt": [
+        {
+          "question": "O que devo fazer quando o meu Spitz Alemão faz um grasnido de ganso?",
+          "answer": "Isso costuma ser um sintoma de colapso traqueal. Mantenha a calma, pegue o pet no colo, acaricie o pescoço ou tampe as narinas por 1 segundo para forçar a respiração nasal."
+        },
+        {
+          "question": "É possível curar a luxação patelar sem cirurgia, apenas com cuidados em casa?",
+          "answer": "Graus avançados (Grau 3 ou 4) requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e exercícios) servem no Grau 1 ou 2 para retardar a evolução."
+        }
+      ],
+      "id": [
+        {
+          "question": "Apa yang harus saya lakukan saat Pomeranian saya mengeluarkan batuk mirip klakson angsa?",
+          "answer": "Ini adalah gejala umum kolaps trakea. Jangan panik; peluk Pomeranian Anda, usap tenggorokan mereka dengan lembut, atau tutup lubang hidung mereka selama 1 detik untuk memicu pernapasan hidung."
+        },
+        {
+          "question": "Dapatkah perawatan rumahan menyembuhkan luksasi patela tanpa operasi?",
+          "answer": "Tidak. Tahap lanjut (Tingkat 3 atau 4) memerlukan koreksi bedah. Perawatan rumahan (berat badan sehat, mencegah slip) efektif pada tahap awal (Tingkat 1 atau 2) untuk memperlambat perkembangan."
+        }
+      ]
+    }
+  }
+}

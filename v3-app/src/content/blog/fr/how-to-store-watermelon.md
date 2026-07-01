@@ -14,11 +14,6 @@ steps:
     text: "Retirez l'écorce en veillant à ce que les impuretés de surface ne touchent pas la chair rouge. Coupez-la en dés et rangez-les dans une boîte hermétique propre bien fermée."
   - name: "Ranger au fond du bac à légumes à température stable de 0-4 °C ❄️"
     text: "Placez la boîte hermétique au fond du bac à légumes. Conserver dans une zone sans écart de température garde la pastèque croquante et préserve son taux de sucre."
-faqs:
-  - question: "Is it dangerous to store cut watermelon wrapped only in plastic wrap?"
-    answer: "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
-  - question: "Can I put a whole watermelon directly in the coldest part of the fridge?"
-    answer: "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
 ---
 
 Saviez-vous que recouvrir le reste de pastèque de film plastique multiplie les bactéries par 3 000 en surface ? Aujourd'hui, StoreSelf vous montre les astuces recommandées par la KCA.

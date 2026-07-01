@@ -1,0 +1,186 @@
+{
+  "da-vinci-notepad": {
+    "title": {
+      "ko": "허리춤에 항상 수첩을 매달아 둔 천재? 레오나르도 다 빈치의 즉시 메모 습관",
+      "en": "The Genius Who Kept a Notebook on His Belt? Leonardo da Vinci's Immediate Note-taking Habit",
+      "ja": "常に腰に手帳をぶら下げていた天才？レオナルド・ダ・ヴィンチの即時メモ習慣",
+      "zh": "腰间悬挂手账的天才？达芬奇的即时记事习惯",
+      "es": "¿El genio que llevaba un cuaderno en el cinturón? El hábito de anotación inmediata de Leonardo da Vinci",
+      "fr": "Le génie qui portait un carnet à la ceinture ? L'habitude de note immédiate de Léonard de Vinci",
+      "de": "Der Genießer mit dem Notizbuch am Gürtel? Leonardo da Vincis Gewohnheit der sofortigen Notiz",
+      "pt": "O génio que trazia um caderno no cinto? O hábito de anotação imediata de Leonardo da Vinci",
+      "id": "Jenius yang Menggantungkan Buku Catatan di Ikat Pinggangnya? Kebiasaan Mencatat Segera Leonardo da Vinci"
+    },
+    "description": {
+      "ko": "역사상 가장 다재다능한 천재 레오나르도 다 빈치. 항상 수첩을 소지하며 떠오르는 생각을 즉시 기록했던 그의 메모 습관과 뇌과학적 원리, 현대인을 위한 3단계 실천법을 전합니다.",
+      "en": "The most versatile genius in history, Leonardo da Vinci. Discover his habit of writing down ideas immediately, the neuroscience behind it, and a 3-step guide for modern professionals.",
+      "ja": "歴史上最も多才な天才レオナルド・ダ・ヴィンチ。常に手帳を持ち歩き、浮かんだ考えを即座に記録した彼のメモ習慣と脳科学的な原理、現代人のための3段階の実践法を紹介します。",
+      "zh": "历史多才天才达芬奇。探索他即时记事的习惯、脑科学原理，以及适合现代人的三步实践指南。",
+      "es": "El genio más polifacético de la historia, Leonardo da Vinci. Descubra su hábito de anotar ideas de inmediato, la neurociencia detrás de él y una guía de 3 pasos.",
+      "fr": "Le génie le plus polyvalent de l'historie, Léonard de Vinci. Découvrez son habitude de noter les idées immédiatement, la neuroscience derrière cela et un guide en 3 étapes.",
+      "de": "Das vielseitigste Genie der Geschichte, Leonardo da Vinci. Entdecken Sie seine Gewohnheit, Ideen sofort zu notieren, die Wissenschaft dahinter und eine 3-Schritte-Anleitung.",
+      "pt": "O génio mais polivalente da história, Leonardo da Vinci. Descubra o seu hábito de anotar ideias de imediato, la neurociência por trás disso e um guia de 3 passos.",
+      "id": "Jenius paling serbabisa dalam sejarah, Leonardo da Vinci. Temukan kebiasaannya mencatat ide dengan segera, ilmu saraf di baliknya, & panduan 3 langkah."
+    },
+    "authority": {
+      "ko": "월터 아이작슨 저 '레오나르도 다 빈치' 및 교육심리학회지(JEP)",
+      "en": "Walter Isaacson's 'Leonardo da Vinci' & Journal of Educational Psychology",
+      "ja": "ウォルター・アイザックソン 著『レオナルド・ダ・ヴィンチ』＆ 教育心理学術誌(JEP) メモ効果研究",
+      "zh": "沃尔特·艾萨克森著《达芬奇传》及教育心理学期刊(JEP)笔记研究",
+      "es": "Obra de Walter Isaacson 'Leonardo da Vinci' y estudio del Journal of Educational Psychology",
+      "fr": "L'ouvrage de Walter Isaacson 'Léonard de Vinci' et l'étude du Journal of Educational Psychology",
+      "de": "Walter Isaacsons 'Leonardo da Vinci' & Studie im Journal of Educational Psychology",
+      "pt": "Obra de Walter Isaacson 'Leonardo da Vinci' e estudio do Journal of Educational Psychology",
+      "id": "Buku Walter Isaacson 'Leonardo da Vinci' & Penelitian Journal of Educational Psychology"
+    },
+    "intro": {
+      "ko": "미술, 과학, 해부학, 기하학, 음악, 토목 공학 등 다방면에서 인류 역사상 유례를 찾을 수 없는 초인적인 업적을 남긴 르네상스의 절대적 거장, 레오나르도 다 빈치. 그가 가졌던 천재적인 창의성과 지식 융합 능력의 원천은 어디에 있었을까요? 📓\\n\\n그 비밀은 바로 그가 평생 고수했던 아주 단순하지만 강력한 습관에 있습니다. 다 빈치는 길을 걷거나, 사람들과 대화를 나누거나, 일을 하다가도 언제 어디서든 영감이 떠오르면 즉시 기록할 수 있도록 평생 가죽으로 제본된 작은 수첩을 허리띠에 묶어 매달고 다녔습니다. \\n\\n그는 시장통에서 기이한 외모나 독특한 표정을 지닌 사람을 발견하면 그가 시야에서 완전히 사라질 때까지 집요하게 쫓아가며 수첩에 크로키를 그렸고, 강물의 물소용돌이나 새의 날개짓을 관찰하면 그 물리적 규칙을 즉석에서 스케치했습니다. 그가 남긴 이 낙서와 메모들은 훗날 회화, 비행체 설계, 해부학적 발견의 밑바탕이 된 수천 장의 '다빈치 코덱스(Codex)'로 발전하여 오늘날까지 인류의 보물로 남아있습니다.\\n\\n오늘 BuildSelf에서는 다 빈치의 메모 습관 속에 숨겨진 뇌과학적 비밀과 현대인들이 일상에서 아이디어를 놓치지 않는 즉시 메모 실천법을 소개합니다.\\n\\n\\n\\n\\n---",
+      "en": "Leonardo da Vinci, the ultimate Renaissance master who left behind unprecedented superhuman achievements in art, science, anatomy, music, and civil engineering. What was the source of his genius creativity and ability to synthesize knowledge? The secret lies in a very simple but powerful habit he maintained throughout his life. Da Vinci carried a small leather-bound notebook tied to his belt at all times so that he could record inspiration whenever and wherever it struck. When he met a person with a unique face or expression on the street, he persistently followed them until they disappeared from sight to sketch a caricature in his notebook. When he observed the flow of water, he sketched the rules of the swirl on the spot. These doodles and notes later developed into thousands of pages of the 'Leonardo da Vinci Codex,' which remains a treasure of humanity. Today, BuildSelf shares the neuroscientific secrets of Da Vinci's notebook habit and how modern people can practice immediate note-taking.",
+      "ja": "美術、科学、解剖学、幾何学、音楽、土木工学など多方面で、人類史上類を見ない超人的な業績を残したルネサンスの絶対的巨匠、レオナルド・ダ・ヴィンチ。彼はいつでもどこでもインスピレーションが浮かんだら即座に記録できるよう、一生革で製本された小さな手帳をベルトに結びつけて持ち歩きました。この落書きとメモが、後世の絵画、飛行体設計、解剖学的発見の基礎となった数千枚の「ダ・ヴィンチ・コデックス（手稿）」へと発展しました。本日、BuildSelfではダ・ヴィンチのメモ習慣の中に隠された脳科学的秘密と、現代人が日常生活でアイデアを逃さない即時メモ実践法を紹介します。",
+      "zh": "列奥纳多·达·芬奇是文艺复兴时期的终极大师，在艺术、科学、解剖学、音乐和土木工程等领域留下了空前的超人成就。他天才般的创造力和融合知识的能力源自何处？秘密在于他终生保持的一个非常简单但强大的习惯。达·芬奇随身携带一本系在腰带上的皮革面小手账，以便随时随地记录灵感。他在街上遇到面容或表情独特的人时，会执着地跟随直到对方消失，在手账中画下漫画。观察水流时，他会当场画下漩涡的规律。这些涂鸦和笔记后来发展成了数千页的《达·指奇手稿》，至今仍是人类的宝藏。今天，BuildSelf为您分享达·芬奇手账习惯背后的脑科学奥秘，以及现代人如何实践即时记事。",
+      "es": "Leonardo da Vinci, el gran maestro del Renacimiento que dejó logros sobrehumanos sin precedentes en el arte, la ciencia, la anatomía, la música y la ingeniería civil. ¿Cuál era la fuente de su genial creatividad y capacidad para sintetizar el conocimiento? El secreto reside en un hábito muy simple pero poderoso que mantuvo durante toda su vida. Da Vinci llevaba un pequeño cuaderno encuadernado en cuero atado al cinturón en todo momento para poder registrar la inspiración donde y cuando surgiera. Cuando se encontraba con alguien con un rostro o expresión singular en la calle, lo seguía persistentemente hasta perderlo de vista para dibujarlo. Cuando observaba el flujo de agua, dibujaba las reglas del remolino en el acto. Estos bocetos y notas se convirtieron más tarde en miles de páginas del 'Códice Leonardo da Vinci', que sigue siendo un tesoro de la humanidad. Hoy, BuildSelf comparte los secretos neurocientíficos de la rutina de Da Vinci y cómo los profesionales modernos pueden practicar la anotación inmediata.",
+      "fr": "Léonard de Vinci, le maître absolu de la Renaissance qui a laissé des réalisations surhumaines sans précédent dans l'art, la science, l'anatomie, la musique et le génie civil. Quelle était la source de son génie créatif et de sa capacité à synthétiser les connaissances ? Le secret réside dans une habitude très simple mais puissante qu'il a conservée tout au long de sa vie. De Vinci portait en permanence un petit carnet relié en cuir attaché à sa ceinture afin de pouvoir enregistrer l'inspiration où et quand elle se présentait. Lorsqu'il rencontrait dans la rue une personne au visage ou à l'expression singulière, il la suivait avec insistance jusqu'à ce qu'elle disparaisse de sa vue pour en faire un croquis. Lorsqu'il observait l'écoulement de l'eau, il dessinait sur-le-champ les règles du tourbillon. Ces croquis et notes sont devenus plus tard les milliers de pages du « Codex Léonard de Vinci », qui reste un trésor de l'humanité. Aujourd'hui, BuildSelf partage les secrets neuroscientifiques de la routine de De Vinci.",
+      "de": "Leonardo da Vinci, das ultimative Genie der Renaissance, das beispiellose übermenschliche Leistungen in Kunst, Wissenschaft, Anatomie, Musik und Ingenieurwesen hinterließ. Was war die Quelle seiner genialen Kreativität und seiner Fähigkeit, Wissen zu wissenschaftlichen Themen zu synthetisieren? Das Geheimnis liegt in einer sehr einfachen, aber wirkungsvollen Gewohnheit, die er sein Leben lang beibehielt. Da Vinci trug stets ein kleines, in Leder gebundenes Notizbuch am Gürtel, um Inspirationen sofort festhalten zu können. Wenn er auf der Straße jemanden mit einem markanten Gesicht traf, folgte er ihm beharrlich, um ein Porträt in sein Notizbuch zu skizzieren. Wenn er den Fluss des Wassers beobachtete, zeichnete er die Bewegung der Wirbel an Ort und Stelle auf. Skizzen und Notizen entwickelten sich später zu den Tausenden von Seiten des 'Codex Leonardo da Vinci', der bis heute ein Schatz der Menschheit ist. Heute stellt BuildSelf die wissenschaftlichen Geheimnisse von Da Vincis Notizbuch-Routine vor.",
+      "pt": "Leonardo da Vinci, o mestre supremo do Renascimento que deixou conquistas sobre-humanas sem precedentes na arte, na ciência, na anatomia, na música e na engenharia civil. Qual era a fonte de sua genial criatividade e capacidade de sintetizar o conhecimento? O segredo reside num hábito muito simples mas poderoso que manteve durante toda a vida. Da Vinci trazia sempre um pequeno caderno encadernado em couro atado ao cinto para poder registar a inspiração onde e quando ela surgisse. Quando encontrava na rua alguém com um rosto ou expressão singular, seguiu-o persistentemente até o perder de vista para fazer um esboço no seu caderno. Quando observava o fluxo da água, desenhava no local as regras do redemoinho. Estes esboços e notas tornaram-se mais tarde as milhares de páginas do 'Códice Leonardo da Vinci', que continua a ser um tesouro da humanidade. Hoje, o BuildSelf partilha os segredos neurocientíficos da rotina de Da Vinci.",
+      "id": "Leonardo da Vinci, maestro Renaisans sejati yang meninggalkan pencapaian luar biasa yang belum pernah ada sebelumnya dalam seni, sains, anatomi, musik, dan teknik sipil. Apa sumber kreativitas jenius dan kemampuannya untuk mensintesis pengetahuan? Rahasianya terletak pada kebiasaan yang sangat sederhana namun kuat yang dia pertahankan sepanjang hidupnya. Da Vinci selalu membawa buku catatan kecil bersampul kulit yang diikatkan pada ikat pinggangnya sehingga dia dapat mencatat inspirasi kapan pun dan di mana pun inspirasi itu muncul. Ketika dia bertemu seseorang dengan wajah atau ekspresi unik di jalan, dia terus mengikutinya sampai mereka menghilang dari pandangan untuk membuat sketsa karikatur di buku catatannya. Ketika dia mengamati aliran water, dia membuat sketsa aturan pusaran."
+    },
+    "whyTitle": {
+      "ko": "뇌의 램(RAM) 용량을 비워주는 외재화 효과",
+      "en": "The Externalization Effect: Freeing the Brain's RAM",
+      "ja": "脳の外在化効果：ワーキングメモリ（RAM）を空ける",
+      "zh": "释放大脑内存的外化效应",
+      "es": "El efecto de externalización: Liberar la memoria RAM del cerebro",
+      "fr": "L'effet d'externalisation : Libérer la mémoire vive (RAM) du cerveau",
+      "de": "Der Externalisierungseffekt: Den Arbeitsspeicher des Gehirns entlasten",
+      "pt": "O efeito de externalização: Libertar a memória RAM do cérebro",
+      "id": "Efek Eksternalisasi: Membebaskan RAM Otak"
+    },
+    "whyDesc": {
+      "ko": "우리의 뇌는 아이디어를 보관하는 창고라기보다는, 정보를 처리하고 연상하는 CPU(중앙처리장치)에 가깝습니다. \\n\\n인지심리학에 따르면, 인간의 작동 기억(Working Memory) 용량은 극히 한계가 있어 새로 떠오른 영감이나 정보를 기록하지 않고 머릿속에만 가두어 두면 이를 유지하기 위해 엄청난 인지적 에너지(Cognitive Load)를 지속적으로 소모하게 됩니다. 다 빈치처럼 영감을 수첩에 즉시 적어 물리적으로 옮겨 담는 '외재화(Externalization)' 과정을 거치면, 뇌는 정보 유지 의무에서 해방되어 뇌의 작업 기억 영역(RAM)을 깨끗하게 비우게 됩니다. 비워진 뇌는 비로소 새로운 연상을 펼치며 고차원적인 창의적 사유를 시작할 수 있게 됩니다.",
+      "en": "Our brain is closer to a CPU (central processing unit) that processes and associates information, rather than a warehouse that stores ideas. According to cognitive psychology, human working memory capacity is extremely limited, so if you keep newly emerged inspirations in your head without recording them, you will continuously consume immense cognitive energy (cognitive load) to maintain them. If you go through the process of 'externalization'—transferring inspirations immediately onto paper like Da Vinci—the brain is freed from the duty of maintaining information, clearing the working memory (RAM). The cleared brain can then finally engage in new associations and high-level creative thinking.",
+      "ja": "私たちの脳は、情報を処理して連想するCPU（中央処理装置）に近いです。認知心理学によると、人間のワーキングメモリ（作動記憶）の容量は極めて限られており、新しく浮かんだインスピレーションや情報を記録せずに頭の中に閉じ込めておくと、それを維持するために膨大な認知負荷（Cognitive Load）を継続的に消費することになります。ダ・ヴィンチのようにインスピレーションを手帳に即座に書いて物理的に移し替える「外在化（Externalization）」の過程を経ると、脳は情報の維持義務から解放され、ワーキングメモリ（RAM）をきれいに空けることができます。",
+      "zh": "我们的大脑更接近于处理和联结信息的CPU（中央处理器），而不是存储点子的仓库。认知心理学表明，人类的工作记忆（Working Memory）容量极其有限，如果你把新产生的灵感只留在脑子里而不记录下来，你就会持续消耗额外的认知能量（认知负荷）来维持它们。如果经历像达・芬奇那样将灵感即时转移到纸上的“外化（Externalization）”过程，大脑就会从维持信息的负担中解脱出来，清空工作记忆（RAM）。清空后的大脑才能最终进行新的联结和高水平的创造性思考。",
+      "es": "Nuestro cerebro está más cerca de una CPU (unidad central de procesamiento) que procesa y asocia información, en lugar de un almacén que guarda ideas. Según la psicología cognitiva, la capacidad de la memoria de trabajo humana es extremadamente limitada, por lo que si guardas las inspiraciones recién surgidas en tu cabeza sin registrarlas, consumirás continuamente una inmensa energía cognitiva (carga cognitiva) para mantenerlas. Si pasas por el proceso de 'externalización'—transfiriendo las inspiraciones inmediatamente al papel como Da Vinci—el cerebro se libera del deber de mantener la información, limpiando la memoria de trabajo (RAM). El cerebro liberado puede finalmente dedicarse a nuevas asociaciones y a un pensamiento creativo de alto nivel.",
+      "fr": "Notre cerveau est plus proche d'un processeur (CPU) qui traite et associe des informations, plutôt que d'un entrepôt qui stocke des idées. Selon la psychologie cognitive, la capacité de la mémoire de travail humaine est extrêmement limitée. Si vous gardez les inspirations naissantes dans votre tête sans les noter, vous consommerez continuellement une énergie cognitive immense (charge cognitive) pour les maintenir. Si vous passez par le processus d'« externalisation » — en transférant immédiatement les inspirations sur le papier comme De Vinci — le cerveau est libéré du devoir de maintenir l'information, libérant la mémoire de travail (RAM). Le cerveau libéré peut alors enfin s'engager dans de nouvelles associations et une pensée créative de haut niveau.",
+      "de": "Unser Gehirn ähnelt eher einem Prozessor (CPU), der Informationen verarbeitet und verknüpft, als einem Lagerhaus, das Ideen speichert. Laut Kognitionspsychologie ist die Kapazität des menschlichen Arbeitsgedächtnisses äußerst begrenzt. Wenn Sie neu entstandene Inspirationen im Kopf behalten, ohne sie aufschreiben, verbrauchen Sie ständig enorme kognitive Energie (kognitive Belastung), um sie aufrechtzuerhalten. Wenn Sie den Prozess der 'Externalisierung' durchlaufen – also Inspirationen wie Da Vinci sofort auf Papier übertragen –, wird das Gehirn von der Pflicht befreit, Informationen aufrechtzuerhalten, und der Arbeitsspeicher (RAM) wird entlastet. Das freie Gehirn kann sich dann schließlich neuen Verknüpfungen und kreativem Denken auf hohem Niveau widmen.",
+      "pt": "O nosso cérebro está mais próximo de uma CPU (unidade central de processamento) que processa e associa informações, do que de um armazém que guarda ideias. Segundo a psicologia cognitiva, la capacidade da memória de trabalho humana é extremamente limitada, por isso, se guardar as inspirações recém-surgidas na cabeça sem as registar, consumirá continuamente uma imensa energia cognitiva (carga cognitiva) para as manter. Se passar pelo processo de 'externalização' — transferindo as inspirações imediatamente para o papel como Da Vinci — o cérebro liberta-se do dever de manter a informação, limpando a memória de trabalho (RAM). O cérebro limpo pode, então, finalmente dedicar-se a novas associações e a um pensamento criativo de alto nível.",
+      "id": "Otak kita lebih dekat ke CPU (central processing unit) yang memproses dan mengasosiasikan informasi, daripada gudang yang menyimpan ide. Menurut psikologi kognitif, kapasitas memori kerja manusia sangat terbatas, jadi jika Anda menyimpan inspirasi que baru muncul di kepala tanpa mencatatnya, Anda akan terus mengonsumsi energi kognitif yang sangat besar (beban kognitif) untuk mempertahankannya. Jika Anda melalui proses 'eksternalisasi'—memindahkan inspirasi segera ke kertas seperti Da Vinci—otak dibebaskan dari tugas mempertahankan informasi, membersihkan memori kerja (RAM). Otak yang bersih kemudian akhirnya dapat underdog dalam associações novas & pemikiran kreatif tingkat tinggi."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Keep a notebook handy or place a memo widget on the home screen",
+          "ja": "手帳を常時携帯するか、メモウィジェットをホーム画面に配置する",
+          "zh": "随身携带手账或在主屏幕放置便签组件",
+          "es": "Llevar un cuaderno a mano o colocar un widget de notas en la pantalla de inicio",
+          "fr": "Garder un carnet à portée de main ou placer un widget de note sur l'écran d'accueil",
+          "de": "Ein Notizbuch griffbereit halten oder ein Memo-Widget auf dem Startbildschirm platzieren",
+          "pt": "Manter um caderno à mão ou colocar um widget de notas no ecrã inicial",
+          "id": "Siapkan buku catatan atau tempatkan widget memo di layar beranda"
+        },
+        "text": {
+          "en": "Always carry a small, easily accessible notebook and pen in your bag or pocket. If you prefer digital tools, place a quick text or voice memo widget on your smartphone's home screen that can be accessed without unlocking.",
+          "ja": "バッグや服のポケットに、いつでも簡単に取り出せる小さな手帳とペンを常時携帯します。デジタルツールが便利なら、スマートフォンのホーム画面に、ロック解除なしですぐに入力できるテキストメモウィジェットや音声メモウィジェットを配置しておきます。",
+          "zh": "在包里或口袋里随身携带一本小巧、易拿取的手账和笔。如果喜欢数字化工具，请在智能手机的主屏幕上放置一个快速文本或语音备忘录组件，以便无需解锁即可直接输入。",
+          "es": "Lleva siempre un cuaderno pequeño y un bolígrafo de fácil acceso en tu bolso o bolsillo. Si prefieres las herramientas digitales, coloca un widget de notas de texto o de voz en la pantalla de inicio de tu teléfono para acceder a él sin desbloquearlo.",
+          "fr": "Portez toujours sur vous un petit carnet facile d'accès et un stylo. Si vous préférez le numérique, placez un widget de note texte ou vocale sur l'écran d'accueil de votre smartphone, accessible sans déverrouillage.",
+          "de": "Tragen Sie immer ein kleines, leicht zugängliches Notizbuch und einen Stift bei sich. Wenn Sie digitale Werkzeuge bevorzugen, platzieren Sie ein Text- oder Sprachmemo-Widget auf dem Startbildschirm Ihres Smartphones, auf das Sie ohne Entsperren zugreifen können.",
+          "pt": "Traga sempre um pequeno caderno e uma caneta de fácil acesso na sua mala ou bolso. Se preferir ferramentas digitais, coloque um widget de notas de texto ou de voz no ecrã inicial do seu smartphone que possa ser acedido sem desbloquear.",
+          "id": "Selalu bawa buku catatan kecil dan pena yang mudah diakses di tas atau saku Anda. Jika Anda lebih menyukai alat digital, tempatkan widget memo teks atau suara cepat di layar beranda ponsel cerdas Anda yang dapat diakses tanpa membuka kunci."
+        }
+      },
+      {
+        "name": {
+          "en": "Record key points within 5 seconds of an idea flashing",
+          "ja": "アイデアがひらめいた5秒以内に要点だけを記録する",
+          "zh": "在灵感闪现的5秒内记录关键点",
+          "es": "Registrar puntos clave dentro de los 5 segundos de surgir la idea",
+          "fr": "Noter les points clés dans les 5 secondes suivant l'apparition de l'idée",
+          "de": "Schlüsselpunkte innerhalb von 5 Sekunden nach dem Aufblitzen einer Idee notieren",
+          "pt": "Registar pontos-chave dentro de 5 segundos após a ideia surgir",
+          "id": "Catat poin-poin penting dalam waktu 5 detik setelah ide muncul"
+        },
+        "text": {
+          "en": "The promise to 'write it down later when I think of it' leads to immediate forgetfulness. The moment an interesting idea, observation, or impressive sentence flashes while walking or talking, quickly jot it down on paper within 5 seconds as a few words or a rough sentence.",
+          "ja": "歩いているときや会話中に、興味深い企画アイデア、観察結果、印象深い文章などが浮かんだら、5秒以内にためらわずに、いくつかの単語やラフな一言で素早く紙の上に書き出します。「後で思い出したら書こう」という決意は、即座の忘却につながります。",
+          "zh": "“等我想起来再写下来”的承诺往往会导致转头就忘。在散步或交谈时，只要脑海中闪过有趣的创意、观察或令人印象深刻的话语，请在5秒内迅速用几个词或一句话粗略地写在纸上。",
+          "es": "La promesa de 'lo escribiré más tarde cuando lo piense' conduce al olvido inmediato. En el momento en que surja una idea interesante, observación o frase impresionante mientras caminas o hablas, escríbela rápidamente en papel en 5 segundos como unas pocas palabras o una oración rápida.",
+          "fr": "Se promettre de « l'écrire plus tard » conduit à l'oubli immédiat. Dès qu'une idée intéressante, une observation ou une phrase marquante apparaît en marchant ou en parlant, notez-la rapidement sur le papier en 5 secondes, sous forme de quelques mots ou d'une phrase rapide.",
+          "de": "Das Versprechen, 'es später aufzuschreiben, wenn ich Zeit habe', führt zu sofortigem Vergessen. In dem Moment, in dem Ihnen beim Gehen oder Sprechen eine interessante Idee, eine Beobachtung oder ein beeindruckender Satz durch den Kopf geht, schreiben Sie ihn innerhalb von 5 Sekunden in wenigen Worten auf.",
+          "pt": "A promessa de 'escrever mais tarde quando me lembrar' leva ao esquecimento imediato. No momento em que surgir uma ideia interessante, observação ou frase impressionante enquanto caminha ou fala, escreva-a rapidamente no papel em 5 segundos, como algumas palavras ou uma frase rápida.",
+          "id": "Janji untuk 'menuliskannya nanti ketika saya memikirkannya' mengarah pada kelupaan segera. Saat ide menarik, pengamatan, atau kalimat mengesankan muncul saat berjalan atau berbicara, segera catat di kertas dalam waktu 5 detik sebagai beberapa kata atau kalimat kasar."
+        }
+      },
+      {
+        "name": {
+          "en": "Have a 5-minute memo review time at the end of the day",
+          "ja": "一日の終わりに5分間のメモレビュー時間を持つ",
+          "zh": "在一天结束时留出5分钟的笔记回顾时间",
+          "es": "Tener un tiempo de revisión de notas de 5 minutos al final del día",
+          "fr": "Consacrer 5 minutes à la révision des notes en fin de journée",
+          "de": "Am Ende des Tages 5 Minuten Zeit zur Durchsicht der Notizen nehmen",
+          "pt": "Ter um tempo de revisão de notas de 5 minutos no final do dia",
+          "id": "Sediakan waktu 5 menit untuk meninjau memo di akhir hari"
+        },
+        "text": {
+          "en": "Every night before going to bed or at the end of the day, review the raw notes you took today. Just reviewing them helps consolidate the fragmented memories captured during the day into a solid knowledge system in the brain, and valuable thoughts can be organized separately in a proposal or diary.",
+          "ja": "毎晩寝る前や一日の終わりに、今日書き留めたありのままのメモに目を通します。目を通す行為だけで、日中に捉えた断片的な記憶が脳の中で強固な知識体系として長期記憶化され、価値のある考えは企画書や日記帳に別途整理します。",
+          "zh": "每天晚上睡觉前或在一天结束时，回顾一下你今天记录的原始笔记。仅仅是浏览这些内容，就能帮助将白天捕捉到的零散记忆整合成大脑中牢固的知识体系，有价值的想法可以单独整理到策划案或日记中。",
+          "es": "Cada noche antes de acostarte o al final del día, revisa las notas que tomaste hoy. El simple hecho de revisarlas ayuda a consolidar los recuerdos fragmentados del día en un sistema de conocimiento sólido en el cerebro, y los pensamientos valiosos pueden organizarse por separado.",
+          "fr": "Chaque soir avant de vous coucher ou en fin de journée, passez en revue les notes brutes prises aujourd'hui. Cette simple révision aide à consolider les souvenirs fragmentés de la journée dans un système de connaissances solide, et les pensées précieuses peuvent être classées à part.",
+          "de": "Gehen Sie jeden Abend vor dem Schlafengehen oder am Ende des Tages die Notizen durch, die Sie heute gemacht haben. Allein das Durchsehen hilft, die tagsüber gesammelten Bruchstücke im Gehirn zu einem soliden Wissenssystem zu festigen, und wertvolle Gedanken können strukturiert werden.",
+          "pt": "Todas as noites, antes de ir para a cama ou no final do dia, reveja as notas que tirou hoje. O simples ato de as rever ajuda a consolidar as memórias fragmentadas do dia num sistema de conhecimento sólido no cérebro, e os pensamentos valiosos podem ser organizados separadamente.",
+          "id": "Setiap malam sebelum tidur atau di akhir hari, tinjau catatan kasar yang Anda ambil hari ini. Meninjaunya saja membantu mengonsolidasikan ingatan terfragmentasi yang ditangkap di siang hari menjadi sistem pengetahuan yang solid di otak, & pemikiran berharga."
+        }
+      }
+    ],
+    "cautionTitle": {
+      "ko": "성공적인 루틴을 위한 뇌과학적 한마디",
+      "en": "A brain-scientific word for a successful routine",
+      "ja": "効果的なルーティンのための脳科学的な一言",
+      "zh": "成功惯例的脑科学建议",
+      "es": "Un consejo neurocientífico para una rutina exitosa",
+      "fr": "Un conseil neuroscientifique pour une routine réussie",
+      "de": "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
+      "pt": "Um conselho neurocientífico para uma rotina de sucesso",
+      "id": "Saran ilmiah saraf untuk rutinitas yang sukses"
+    },
+    "cautionDesc": {
+      "ko": "**메모는 뇌의 인지적 피로를 막는 방패입니다**\\n\\n기억해 두려고 애쓰는 행위 자체가 뇌에 미세한 스트레스와 피로를 축적합니다. 다 빈치처럼 영감을 즉시 외부 공간으로 옮겨 담는 습관을 들이면, 뇌는 온전히 '생각하고 창조하는 본연의 역할'에 백퍼센트의 에너지를 쏟을 수 있습니다. 일상 속 소소한 생각이라도 떠오른 순간 가볍게 기록해 두는 습관을 오늘부터 시작해 보세요.",
+      "en": "The act of trying to remember things itself accumulates subtle stress and fatigue in the brain. If you develop the habit of transferring inspiration to an external space immediately, like Da Vinci, your brain can devote 100% of its energy to its original role of thinking and creating. Start the habit of lightly recording even the smallest thoughts in your daily life the moment they arise.",
+      "ja": "記憶しておこうと努める行為自体が、脳に微細なストレスと疲労を蓄積させます。ダ・ヴィンチのようにインスピレーションを即座に外部の空間に移し替える習慣をつければ、脳は完全に「考えて創造する本来の役割」に100％のエネルギーを注ぐことができます。日常生活での些細な考えでも、浮かんだ瞬間に軽く記録しておく習慣を今日から始めてみてください。",
+      "zh": "试图记住事情这一行为本身就会在大脑中累积微妙的压力和疲劳。如果你养成像达・芬奇那样立即将灵感转移到外部空间的习惯，你的大脑就可以将100%的能量投入到思考和创造的本职工作上。从今天开始，养成在日常生活中产生想法的瞬间就轻轻记录下来的习惯吧。",
+      "es": "El acto de intentar recordar las cosas acumula estrés y fatiga sutiles en el cerebro. Si desarrollas el hábito de transferir la inspiración a un espacio externo de inmediato, como Da Vinci, tu cerebro podrá dedicar el 100% de su energía a su función original de pensar y crear. Comienza hoy mismo el hábito de registrar ligeramente incluso los pensamientos más pequeños.",
+      "fr": "Le fait d'essayer de se souvenir des choses accumule un stress et une fatigue subtils dans le cerveau. Si vous prenez l'habitude de transférer immédiatement l'inspiration vers un espace externe, comme De Vinci, votre cerveau pourra consacrer 100 % de son énergie à son rôle d'origine. Prenez cette habitude dès aujourd'hui.",
+      "de": "Der Versuch, sich Dinge krampfhaft zu merken, führt zu Stress und Müdigkeit im Gehirn. Wenn Sie sich wie Da Vinci angewöhnen, Inspirationen sofort schriftlich festzuhalten, kann sich Ihr Gehirn zu 100 % seiner eigentlichen Aufgabe widmen: dem Denken und Erschaffen. Beginnen Sie noch heute damit.",
+      "pt": "O ato de tentar lembrar-se das coisas acumula stress e fadiga subtis no cérebro. Se desenvolver o hábito de transferir a inspiração para um espaço externo imediatamente, como Da Vinci, o seu cérebro poderá dedicar 100% da sua energia à sua função original de pensar e criar. Comece hoje mesmo esse hábito.",
+      "id": "Tindakan mencoba mengingat sesuatu itu sendiri menumpuk stres dan kelelahan halus di otak. Jika Anda mengembangkan kebiasaan memindahkan inspirasi ke ruang eksternal segera, seperti Da Vinci, otak Anda dapat mencurahkan 100% energinya untuk peran aslinya."
+    },
+    "faqs": [
+      {
+        "question": {
+          "ko": "다 빈치는 왜 항상 허리에 수첩을 찼나요?",
+          "en": "Why did Da Vinci always carry a notebook at his waist?",
+          "ja": "ダ・ヴィンチはなぜいつも腰に手帳を下げていたのですか？",
+          "zh": "达芬奇为什么总是把笔记本挂在腰间？",
+          "es": "¿Por qué Da Vinci siempre llevaba un cuaderno en la cintura?",
+          "fr": "Pourquoi De Vinci portait-il toujours un carnet à la taille ?",
+          "de": "Warum trug Da Vinci immer ein Notizbuch am Gürtel?",
+          "pt": "Porque é que Da Vinci sempre levava um caderno na cintura?",
+          "id": "Mengapa Da Vinci selalu membawa buku catatan di pinggangnya?"
+        },
+        "answer": {
+          "ko": "머릿속을 스쳐가는 즉각적인 호기심과 관찰, 아이디어를 단 1초도 유실하지 않고 즉시 기록하여 두뇌 인지 에너지를 확보해 두기 위함이었습니다.",
+          "en": "To immediately record passing curiosity, observations, and ideas without losing them, keeping his cognitive energy free.",
+          "ja": "頭に浮かぶ瞬間的な好奇心や観察、アイデアを1秒たりとも逃さず即座に記録し、脳の認知エネルギーを解放しておくためでした。",
+          "zh": "为了在瞬间记录脑海中闪过的眼神、观察与创意，而不流失它们，从而保持大脑认知能量的自由。",
+          "es": "Para registrar al instante cualquier curiosidad u observación sin perderlas, manteniendo libre su energía cognitiva.",
+          "fr": "Pour noter immédiatement les curiosités et observations afin de libérer son attention de la charge mentale.",
+          "de": "Um flüchtige Ideen und Beobachtungen sofort festzuhalten und die kognitive Energie frei zu halten.",
+          "pt": "Para registrar instantaneamente qualquer curiosidade ou observação sem perdê-las, mantendo livre sua energia cognitiva.",
+          "id": "Untuk segera mencatat rasa ingin tahu dan pengamatan yang lewat tanpa kehilangannya."
+        }
+      }
+    ]
+  }
+}

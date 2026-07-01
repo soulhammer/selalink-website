@@ -1,0 +1,354 @@
+{
+  "beagle-care": {
+    "title": {
+      "ko": "비글의 폭발적 에너지 케어: 분리불안 완화와 귓병 예방 3단계 루틴",
+      "en": "Beagle Energy and Anxiety Care: A 3-Step Routine for Separation Anxiety and Ear Health",
+      "ja": "ビーグルの活発なエネルギーケア：分離不安緩和と耳病予防の3段階ルーティン",
+      "zh": "比格犬的精力与焦虑护理：缓解分离焦虑与预防耳病的日常3步惯例",
+      "es": "Cuidado de la Energía y Ansiedad del Beagle: Rutina de 3 pasos para la ansiedad por separación y salud de oídos",
+      "fr": "Soins du Beagle (Énergie et Anxiété) : Routine en 3 étapes pour l'anxiété de séparation et les oreilles",
+      "de": "Beagle Energie- und Angstpflege: 3-Schritte-Routine bei Trennungsangst und für Ohrengesundheit",
+      "pt": "Cuidado da Energia e Ansiedade do Beagle: Rotina de 3 passos para ansiedade de separação e saúde das orelhas",
+      "id": "Perawatan Energi dan Kecemasan Beagle: Rutinitas 3 Langkah untuk Kecemasan Perpisahan dan Telinga"
+    },
+    "description": {
+      "ko": "사냥개 혈통으로 호기심과 운동량이 강한 비글. 넘치는 에너지를 충족시켜 분리불안을 극복하고 덮여있는 귀의 환기를 돕는 3단계 노즈워크 케어를 다룹니다.",
+      "en": "Beagles are highly curious hunting dogs with massive energy. Learn a 3-step routine to fulfill their sniff drive, reduce anxiety, and prevent ear infections.",
+      "ja": "狩猟犬の血を引くビーグルは好奇心と運動量が活発です。エネルギーを消費して分離不安を克服し、垂れ耳の衛生を保つ3段階ルーティンを紹介します。",
+      "zh": "拥有猎犬血统、充满好奇心和运动量的比格犬。介绍一套满足其嗅觉需求以缓解分离焦虑，并保持垂耳卫生的日常3步护理惯例。",
+      "es": "Los Beagles son perros de caza muy curiosos con gran energía. Conozca una rutina de 3 pasos para saciar su olfato, reducir la ansiedad y prevenir infecciones de oído.",
+      "fr": "Le Beagle est un chien de chasse curieux avec une grande énergie. Apprenez une routine en 3 étapes pour combler son besoin de flairer, réduire l'anxiété et soigner ses oreilles.",
+      "de": "Beagles sind neugierige Jagdhunde mit viel Energie. Lernen Sie eine 3-Schritte-Routine kennen, um ihren Schnüffeltrieb zu stillen, Angst zu lindern und Ohrenentzündungen vorzubeugen.",
+      "pt": "Os Beagles são cães de caça curiosos e enérgicos. Conheça uma rotina de 3 passos para satisfazer o olfato, reduzir a ansiedade e evitar infecções nas orelhas.",
+      "id": "Beagle adalah anjing pemburu yang sangat ingin tahu dengan energi besar. Pelajari rutinitas 3 langkah untuk memenuhi insting mengendus, meredakan kecemasan, dan merawat telinga."
+    },
+    "authority": {
+      "ko": "American Kennel Club (AKC) 비글 가이드 및 IAABC 노즈워크 행동 프로토콜",
+      "en": "Official AKC Breed Manual for Beagles & IAABC Nosework Protocols",
+      "ja": "AKCビーグルガイド＆IAABCノーズワーク行動プロトコル",
+      "zh": "AKC 比格犬官方指南与 IAABC 嗅闻行为协议",
+      "es": "Manual oficial de razas de AKC para Beagles y protocolos de olfato de IAABC",
+      "fr": "Manuel officiel de l'AKC pour le Beagle et protocoles de pistage de l'IAABC",
+      "de": "Offizielles AKC-Beagle-Handbuch und IAABC-Schnüffelprotokolle",
+      "pt": "Manual de raças do AKC para Beagles e protocolos de nosework da IAABC",
+      "id": "Manual Ras Resmi AKC untuk Beagle & Protokol Nosework IAABC"
+    },
+    "profile": {
+      "breed": {
+        "ko": "비글 (Beagle)",
+        "en": "Beagle",
+        "ja": "ビーグル",
+        "zh": "比格犬",
+        "es": "Beagle",
+        "fr": "Beagle",
+        "de": "Beagle",
+        "pt": "Beagle",
+        "id": "Beagle"
+      },
+      "lifespan": {
+        "ko": "12 ~ 15년",
+        "en": "12 ~ 15 years",
+        "ja": "12 ~ 15年",
+        "zh": "12 ~ 15年",
+        "es": "12 ~ 15 años",
+        "fr": "12 ~ 15 ans",
+        "de": "12 ~ 15 Jahre",
+        "pt": "12 ~ 15 anos",
+        "id": "12 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "10 ~ 12시간 (야외 활동 동조형)",
+        "en": "10 ~ 12 hours (synchronized with outdoors)",
+        "ja": "10 ~ 12時間（屋外の活動と同調）",
+        "zh": "10 ~ 12小时（与户外活动同步）",
+        "es": "10 ~ 12 horas (sincronizado con el exterior)",
+        "fr": "10 ~ 12 heures (synchronisé avec l'extérieur)",
+        "de": "10 ~ 12 Stunden (aktivitätsbezogen)",
+        "pt": "10 ~ 12 horas (sincronizado com o exterior)",
+        "id": "10 ~ 12 jam (sinkron dengan luar ruangan)"
+      },
+      "temperament": {
+        "ko": "온순함, 호기심 강함, 고집스러움, 다정함",
+        "en": "Friendly, Curious, Stubborn, Affectionate",
+        "ja": "フレンドリー、好奇心旺盛、頑固、甘えん坊",
+        "zh": "友善、好奇心强、固执、温顺",
+        "es": "Amigable, Curioso, Obstinado, Afectuoso",
+        "fr": "Amical, Curieux, Têtu, Affectueux",
+        "de": "Freundlich, Neugierig, Eigensinnig, Anhänglich",
+        "pt": "Amigável, Curioso, Teimoso, Afectuoso",
+        "id": "Ramah, Ingin Tahu, Keras Kepala, Penuh Kasih Sayang"
+      }
+    },
+    "intro": {
+      "ko": "귀엽고 처진 커다란 귀와 늘 쾌활하게 흔들리는 하얀 꼬리 팁이 매력적인 비글은 인간과 수세기 동안 함께 활동해 온 사냥개(하운드) 출신입니다. 뛰어난 친화력으로 누구와도 잘 지내지만, 타고난 호기심과 엄청난 후각 집착력을 가지고 있습니다. 이 에너지를 해소해 주지 못하면 하울링을 하거나 집안 가구를 파괴하는 등 분리불안 증상을 보이기 쉽습니다. 또한 축 늘어진 커다란 귀는 내부가 습해 곰팡이성 외이염에 취약합니다. 오늘 PetSelf에서는 비글의 독특한 추적 행동 및 불안 신호를 진단하고, 후각 본능 해소와 귀 건강을 잡는 3단계 데일리 루틴을 알려드립니다.",
+      "en": "With their cute floppy ears and happy white-tipped tail, Beagles are historic scent hounds. While friendly, they have high curiosity and a powerful drive to track scents. Without proper outlet, they can develop separation anxiety, leading to howling and destructive behavior. Additionally, their long floppy ears trap moisture, making them prone to yeast infections. Today, PetSelf decodes Beagle tracking and anxiety signals, and introduces a 3-step care routine.",
+      "ja": "大きな垂れ耳と常に陽気に揺れる白い尻尾の先が魅力のビーグルは、狩猟犬（ハウンド）出身です。非常に人懐っこいですが、強い好奇心と高い嗅覚執着を持っています。このエネルギーを解消できないと、遠吠えや家具を噛むなどの分離不安行動を起こしやすいです。また、垂れた耳は通気性が悪く外耳炎になりやすいです。本日、PetSelfではビーグルの本能と不安信号を理解し、健康を守る3段階ルーティンを紹介します。",
+      "zh": "比格犬拥有可爱耷拉的大耳朵和总是欢快摇摆的白尾尖，起源于与人类共同工作了几个世纪的猎犬（猎兔犬）。虽然它们极为友善，但具有天生的好奇心和强烈的嗅觉执着。如果这股精力无法得到宣泄，很容易表现出嚎叫或破坏家具等分离焦虑症状。此外，耷拉的大耳朵内部潮湿，极易患霉菌性外耳炎。今天，PetSelf 将教您如何读懂比格犬特有的追踪行为及焦虑信号，并提供满足嗅觉本能和保护耳朵健康的3步日常护理惯例。",
+      "es": "Con sus orejas caídas y cola alegre, los Beagles son sabuesos históricos. Aunque amigables, tienen una gran curiosidad y un fuerte impulso de rastreo. Sin el ejercicio adecuado, pueden desarrollar ansiedad por separación, aullando o rompiendo muebles. Sus orejas caídas atrapan humedad, facilitando infecciones. Hoy, PetSelf descifra sus señales y presenta una rutina de 3 pasos.",
+      "fr": "Avec ses grandes oreilles tombantes et sa queue joyeuse, le Beagle est un chien de chasse historique. Bien qu'amical, il est curieux et obsédé par les odeurs. Sans activité, il développe de l'anxiété (hurlements, destructions). De plus, ses oreilles tombantes gardent l'humidité, favorisant les otites. Aujourd'hui, PetSelf propose une routine en 3 étapes.",
+      "de": "Mit ihren großen Schlappohren und der fröhlichen Rute sind Beagles historische Jagdhunde. Sie sind zwar freundlich, haben aber eine ausgeprägte Neugier und einen starken Schnüffeltrieb. Ohne Auslastung entwickeln sie Trennungsangst (Jaulen, Zerstörung). Zudem sind ihre Schlappohren anfällig für Ohrenentzündungen. Heute stellt PetSelf eine 3-Schritte-Routine vor.",
+      "pt": "Com suas orelhas caídas e cauda alegre, os Beagles são históricos cães de caça. Embora amigáveis, têm grande curiosidade e fixação por rastrear odores. Sem o gasto dessa energia, podem desenvolver ansiedade de separação, uivando ou roendo móveis. Suas orelhas compridas retêm umidade, facilitando infecções. Hoje, o PetSelf apresenta uma rotina de 3 passos.",
+      "id": "Dengan telinga terkulai yang lucu dan ekor ceria, Beagle adalah anjing pemburu aroma historis. Meskipun ramah, mereka memiliki rasa ingin tahu yang tinggi dan dorongan kuat untuk melacak bau. Tanpa penyaluran yang tepat, mereka dapat mengalami kecemasan perpisahan, melolong atau merusak furnitur. Telinga terkulai mereka rentan terhadap infeksi telinga. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "비글의 바디 랭귀지: 추적 본능과 하울링의 의미",
+      "en": "Beagle Body Language: Tracking Instinct and Meaning of Howling",
+      "ja": "ビーグルのボディランゲージ：追跡本能と遠吠えの意味",
+      "zh": "比格犬的身体语言：追踪本能与嚎叫的含义",
+      "es": "Lenguaje corporal del Beagle: instinto de rastreo y significado de aullidos",
+      "fr": "Langage corporel du Beagle : instinct de pistage et hurlements",
+      "de": "Körpersprache des Beagles: Schnüffeltrieb und Bedeutung des Jaulens",
+      "pt": "Linguagem corporal do Beagle: instinto de rastreamento e significado de uivos",
+      "id": "Bahasa Tubuh Beagle: Insting Melacak dan Makna Melolong"
+    },
+    "whyDesc": {
+      "ko": "비글은 후각에 극도로 집중할 때 **'코를 땅에 대고 직진하기(Tracking)'** 행동을 보이며 주변 소리를 차단합니다. 이는 본능적인 자극 해소 단계입니다. 반면에 주인이 없을 때나 외로움을 느낄 때 나타내는 **'하울링'**은 전형적인 분리불안과 스트레스의 표현입니다. 이 두 신호를 정확히 감지해 주는 것이 비글을 활기차고 차분한 상태로 관리하는 비결입니다.",
+      "en": "When focused on scent, Beagles show **'tracking'** behavior, ignoring surrounding sounds. This is their natural instinct. Conversely, **'howling'** when alone is a typical sign of separation anxiety and distress. Understanding these two signals is key to keeping Beagles healthy and calm.",
+      "ja": "ビーグルは嗅覚に集中する際、**「追跡行動（Tracking）」**を行い、周りの音を聞かなくなります。これは本能的な刺激解消のプロセスです。一方、留守中や孤独を感じる時の**「遠吠え（Howling）」**は、分離不安とストレスの表現です。これらを理解することが健康の秘訣です。",
+      "zh": "比格犬在极度专注于嗅觉时，表现出**“将鼻子贴在地上直行（Tracking）”**的行为，并会忽略周围的声音。这是本能的自驱宣泄阶段。相反，在家长不在或感到孤独时表现出的**“嚎叫”**则是典型的心里焦虑与压力的体现。准确捕捉这两个信号，是让比格犬保持活泼且情绪稳定的秘诀。",
+      "es": "Cuando se concentran en el olor, los Beagles muestran un comportamiento de **'rastreo'**, ignorando su entorno. Por el contrario, el **'aullido'** cuando están solos es un signo de ansiedad por separación. Entender estas dos señales es clave para mantenerlos tranquilos.",
+      "fr": "Lorsqu'il suit une piste, le Beagle montre un comportement de **'pistage'** en ignorant son entourage. En revanche, le **'hurlement'** quand il est seul est un signe d'anxiété. Comprendre ces deux signaux est essentiel pour maintenir son équilibre.",
+      "de": "Wenn sie sich auf Düfte konzentrieren, zeigen Beagles ein **'Schnüffelverhalten'** und ignorieren ihre Umgebung. Dagegen ist das **'Jaulen'** bei Einsamkeit ein Zeichen von Trennungsangst. Das Verständnis dieser Signale ist der Schlüssel zu ihrer Beruhigung.",
+      "pt": "Ao focar em odores, os Beagles mostram comportamento de **'rastreamento'**, ignorando o redor. Por outro lado, o **'uivo'** quando sozinhos é um sinal de ansiedade de separação. Compreender esses dois sinais é a chave para mantê-los equilibrados.",
+      "id": "Saat fokus pada bau, Beagle menunjukkan perilaku **'melacak'**, mengabaikan sekitarnya. Sebaliknya, **'melolong'** saat sendirian adalah tanda kecemasan perpisahan. Memahami kedua sinyal ini adalah kunci untuk menjaga mereka tetap tenang."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "코 대고 직진하기 (Tracking)",
+          "en": "Tracking",
+          "ja": "追跡行動 (Tracking)",
+          "zh": "追踪行为 (Tracking)",
+          "es": "Rastreo",
+          "fr": "Pistage",
+          "de": "Schnüffeltrieb",
+          "pt": "Rastreamento",
+          "id": "Melacak"
+        },
+        "meaning": {
+          "ko": "주변 냄새 분자를 통해 세상을 탐색하고 사냥 에너지를 발산하고 있는 정상적 흥분 상태입니다.",
+          "en": "A normal state of excitement as they explore the world and burn hunting energy through scents.",
+          "ja": "周囲のにおいを通じて世界を探索し、狩猟本能を解消している正常な興奮状態です。",
+          "zh": "通过周围的气味分子探索世界并释放猎犬精力的正常兴奋状态。",
+          "es": "Un estado normal de excitación mientras exploran el mundo y queman energía a través del olfato.",
+          "fr": "Un état d'excitation normal lorsqu'il explore le monde et libère son énergie de chasseur.",
+          "de": "Ein normaler Erregungszustand, während sie die Welt erkunden und Jagdenergie abbauen.",
+          "pt": "Um estado normal de excitação enquanto exploram o mundo e gastam energia através do olfato.",
+          "id": "Keadaan kegembiraan normal saat mereka menjelajahi dunia dan membakar energi pemburu melalui aroma."
+        },
+        "response": {
+          "ko": "산책 중 억지로 줄을 당겨 끊지 말고, 냄새를 맡고 충분히 탐색하도록 허용하고 지켜보세요.",
+          "en": "Do not yank their leash; let them smell and fully explore the scent to satisfy their brain.",
+          "ja": "散歩中に無理にリードを引っ張らず、においを十分に嗅ぎ探索するのを温かく見守ってください。",
+          "zh": "在散步过程中，切勿强力拉扯牵引绳打断它们，应允许并静静观察它们充分嗅闻与探知。",
+          "es": "No tire de la correa; déjelos olfatear y explorar para satisfacer su instinto.",
+          "fr": "Ne tirez pas sur la laisse ; laissez-le flairer et explorer pour satisfaire son instinct.",
+          "de": "Ziehen Sie nicht an der Leine; lassen Sie sie schnüffeln und die Fährte erkunden, um ihren Trieb zu befriedigen.",
+          "pt": "Não puxe a guia com força; deixe-os farejar e explorar para satisfazer seu instinto natural.",
+          "id": "Jangan menyentak tali penuntun mereka; biarkan mereka mengendus dan menjelajah untuk memuaskan insting mereka."
+        }
+      },
+      {
+        "name": {
+          "ko": "하울링 (Howling)",
+          "en": "Howling",
+          "ja": "遠吠え (Howling)",
+          "zh": "嚎叫 (Howling)",
+          "es": "Aullido",
+          "fr": "Hurlement",
+          "de": "Jaulen",
+          "pt": "Uivo",
+          "id": "Melolong"
+        },
+        "meaning": {
+          "ko": "외로움, 지루함, 에너지가 해소되지 않아 생기는 불안과 주의 환기 표현입니다.",
+          "en": "An expression of anxiety and attention seeking caused by loneliness, boredom, or unused energy.",
+          "ja": "孤独や退屈、エネルギーが解消されないことによる不安と、気を引くための自己表現です.",
+          "zh": "因孤独、无聊、精力未能释放而产生的焦虑与寻求关注的表现。",
+          "es": "Expresión de ansiedad y búsqueda de atención causada por la soledad, el aburrimiento o la energía acumulada.",
+          "fr": "Une expression d'anxiété et de recherche d'attention causée par la solitude ou le manque d'activité.",
+          "de": "Ein Ausdruck von Angst und Aufmerksamkeitsforderung, verursacht durch Einsamkeit oder Langeweile.",
+          "pt": "Expressão de ansiedade e busca por atenção devido a solidão, tédio ou energia acumulada.",
+          "id": "Ekspresi kecemasan dan pencarian perhatian yang disebabkan oleh kesepian, bosan, atau energi yang tidak tersalurkan."
+        },
+        "response": {
+          "ko": "하울링을 할 때 혼내지 말고, 평소 실내 노즈워크 퍼즐이나 충분한 산책을 통해 에너지를 차단해 주세요.",
+          "en": "Do not scold them. Address the root cause by providing indoor nosework puzzles and ensuring adequate exercise.",
+          "ja": "遠吠えをした時に怒るのではなく、室内のノーズワークやお散歩を通じてエネルギーを解消してあげてください。",
+          "zh": "嚎叫时请勿训斥，而应通过平时的室内 嗅闻益智玩具或充足的散步来宣泄其过剩的精力。",
+          "es": "No los regañe. Aborde la causa proporcionando juguetes de olfato y asegurando el ejercicio adecuado.",
+          "fr": "Ne le grondez pas. Résolvez le problème en proposant des jeux de pistage en intérieur et des promenades.",
+          "de": "Schelten Sie sie nicht. Bieten Sie stattdessen Schnüffelspiele im Haus an und sorgen Sie für ausreichend Auslauf.",
+          "pt": "Não os repreenda. Resolva a causa fornecendo brinquedos de faro e garantindo o gasto de energia com passeios.",
+          "id": "Jangan memarahi mereka. Atasi penyebabnya dengan memberikan puzzle penciuman dan olahraga yang cukup."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 집안 실내 간식 숨기기 노즈워크 놀이",
+          "en": "Morning: Indoor Treats Sniffing Hunt and Puzzle Game",
+          "ja": "朝：室内のおやつ隠しノーズワーク遊び",
+          "zh": "早晨：室内零食隐藏嗅闻游戏",
+          "es": "Mañana: Búsqueda de premios en casa y juegos de olfato",
+          "fr": "Matin : Chasse aux friandises en intérieur et jeu de flair",
+          "de": "Morgen: Leckerli-Suche im Haus und Schnüffelspiel",
+          "pt": "Manhã: Caça aos petiscos dentro de casa e jogos de faro",
+          "id": "Pagi: Perburuan Mengendus Camilan di Dalam Ruangan"
+        },
+        "text": {
+          "ko": "아침 식사 후 비글의 예민한 후각 지능을 채우기 위해 집안 곳곳이나 종이컵 안에 간식을 숨겨 두고 찾게 하여 인지 능력을 발산시킵니다.",
+          "en": "After breakfast, hide treats in paper cups or around the house to satisfy their search drive and tire them out mentally.",
+          "ja": "朝食後、ビーグルの嗅覚を満たすために部屋のあちこちにフードやおやつを隠して探させ、本能を満たします。",
+          "zh": "早餐后，为了满足比格犬敏锐的嗅觉智力，可将零食隐藏在房屋角落或纸杯中，让其搜寻，以此消耗其认知精力。",
+          "es": "Después del desayuno, esconda premios en vasos de papel por toda la casa para saciar su olfato y cansarle mentalmente.",
+          "fr": "Après le repas, cachez des friandises dans des gobelets en carton dans la maison pour stimuler son flair et le fatiguer mentalement.",
+          "de": "Verstecken Sie nach dem Frühstück Leckerlis in Pappbechern im Haus, um ihren Jagdtrieb zu befriedigen und sie geistig auszulasten.",
+          "pt": "Após o café da manhã, esconda petiscos em copos de papel ou pela casa para satisfazer o instinto de busca e cansá-los mentalmente.",
+          "id": "Setelah sarapan, sembunyikan camilan dalam gelas kertas di sekitar rumah untuk memuaskan insting melacak dan melatih mental mereka."
+        }
+      },
+      {
+        "name": {
+          "ko": "낮: 40분 이상의 충분한 야외 냄새 탐색 산책",
+          "en": "Afternoon: 40-Minute Active Outdoor Tracking Walk",
+          "ja": "昼：40分以上の十分な屋外におい探索散歩",
+          "zh": "中午：40分钟以上充足的户外嗅闻追踪散步",
+          "es": "Tarde: Paseo de rastreo al aire libre de más de 40 minutos",
+          "fr": "Après-midi : Promenade de pistage de plus de 40 min en extérieur",
+          "de": "Nachmittag: Über 40-minütiger Fährten-Spaziergang an der frischen Luft",
+          "pt": "Tarde: Caminhada de rastreamento ao ar livre com mais de 40 minutos",
+          "id": "Siang: Jalan kaki Melacak 40 Menit di Luar Ruangan"
+        },
+        "text": {
+          "ko": "에너지 방산을 위해 하루 최소 40분 이상 매일 야외 산책을 나가며, 냄새를 쫓는 행동을 강제로 제약하지 않고 자유롭게 추적하도록 돕습니다.",
+          "en": "Ensure at least a 40-minute walk daily. Let them sniff grass, trees, and ground freely, which is essential for reducing their stress levels.",
+          "ja": "エネルギー発散のために毎日40分以上外へ連れ出し、においを追う行動を制限せずに自由に嗅がせてあげます.",
+          "zh": "为了释放精力，每天至少进行40分钟以上的户外 散步，并且不强行限制其嗅闻气味的行为，让其自由追踪。",
+          "es": "Asegure un paseo de al aire libre de al menos 40 minutos diarios. Permítale olfatear el césped libremente para reducir el estrés.",
+          "fr": "Faites une promenade d'au moins 40 min par jour. Laissez-le flairer l'herbe et le sol librement pour réduire son stress.",
+          "de": "Planen Sie täglich einen mindestens 40-minütigen Spaziergang ein. Lassen Sie sie frei schnüffeln, um Stress abzubauen.",
+          "pt": "Garanta um passeio de pelo menos 40 minutos diários. Deixe-os farejar a grama livremente para reduzir o nível de estresse.",
+          "id": "Pastikan jalan kaki minimal 40 menit setiap hari. Biarkan mereka mengendus rumput secara bebas untuk mengurangi stres."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 처진 귀 내부 환기 및 주 2회 귀 세정",
+          "en": "Evening: Ear Aeration and Bi-weekly Cleaning",
+          "ja": "夜：垂れ耳の通気性の確保と週2回の耳掃除",
+          "zh": "晚上：垂耳内部通风与每周2次耳道清洁",
+          "es": "Noche: Ventilación de orejas caídas y limpieza dos veces por semana",
+          "fr": "Soir : Aération des oreilles tombantes et nettoyage bihebdomadaire",
+          "de": "Abend: Belüftung der Schlappohren und Reinigung zweimal pro Woche",
+          "pt": "Noite: Ventilação das orelhas caídas e limpeza duas vezes por semana",
+          "id": "Malam: Aerasi Telinga Terkulai dan Pembersihan Dua Kali Seminggu"
+        },
+        "text": {
+          "ko": "귀가 늘어져 외이도가 밀폐되므로 저녁에는 귀를 가볍게 젖혀 공기를 통하게 해주고, 주 2회 전용 귀 세정제를 활용해 마사지 후 청결을 유지합니다.",
+          "en": "Because their floppy ears block airflow, gently flip their ears back for a short time to ventilate, and clean with an ear solution twice a week.",
+          "ja": "耳が垂れて中が湿りやすいため、夜は耳を軽くめくって換気し、週2回専用のクリーナーで優しく掃除します。",
+          "zh": "由于耳朵下垂导致外耳道密闭，晚上应轻轻向后翻起耳朵进行通风，每周使用2次专用耳道清洁剂进行按摩清洁，保持卫生。",
+          "es": "Como sus orejas caídas bloquean el flujo de aire, voltéelas suavemente para ventilar y limpie con solución para oídos dos veces por semana.",
+          "fr": "Leurs oreilles tombantes bloquant l'air, retournez-les doucement pour aérer et nettoyez avec une solution auriculaire deux fois par semaine.",
+          "de": "Da ihre Schlappohren die Belüftung behindern, klappen Sie sie kurz um und reinigen Sie sie zweimal wöchentlich mit Ohrenreiniger.",
+          "pt": "Como as orelhas caídas bloqueiam a ventilação, vire-as suavemente para arejar e limpe com solução própria duas vezes por semana.",
+          "id": "Karena telinga terkulai menghalangi aliran udara, balikkan telinga mereka untuk ventilasi, dan bersihkan dengan cairan telinga dua kali seminggu."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "비글의 하울링을 방지하려면 어떻게 해야 하나요?",
+          "answer": "하울링은 주로 고립에 따른 불안감과 넘치는 활동 에너지의 불균형에서 발생합니다. 산책과 실내 노즈워크의 비율을 높여 강아지를 피로하게 하고 심리적 안정감을 제공하는 것이 근본적인 예방책입니다."
+        },
+        {
+          "question": "비글의 덮인 귀는 왜 자주 외이염에 걸리나요?",
+          "answer": "비글처럼 늘어진 귀는 이도를 공기로부터 차단하여 내부에 수분과 먼지가 머무르기 쉬운 다습한 환경을 만듭니다. 이는 외이도 내 효모균 및 진드기 번식을 도와 가려움과 냄새를 유발하므로 주기적 환기와 세정이 필수입니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "How can I prevent Beagle howling?",
+          "answer": "Howling is often caused by isolation anxiety and unmet energy needs. Increasing physical walks and indoor nosework to mentally exhaust them is the most effective prevention."
+        },
+        {
+          "question": "Why do Beagles' floppy ears easily get infected?",
+          "answer": "Floppy ears block air from entering the ear canal, creating a warm, damp environment ideal for yeast and bacteria to grow. Weekly checkups and aeration are crucial."
+        }
+      ],
+      "ja": [
+        {
+          "question": "ビーグルの遠吠えを防ぐにはどうすればいいですか？",
+          "answer": "遠吠えは主に孤独による不安と、エネルギー過多から発生します. 散歩とノーズワークの時間を増やし、適度な疲労感と安心感を与えることが根本的な解決策です."
+        },
+        {
+          "question": "ビーグルの垂れ耳はなぜ外耳炎になりやすいのですか？",
+          "answer": "垂れ耳は耳の穴を塞ぐため、内部が蒸れて湿気が溜まりやすくなります。これが細菌やカビの繁殖を促すため、定期的な換気と掃除が必要です。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "如何防止比格犬嚎叫？",
+          "answer": "嚎叫主要由于独处的焦虑以及过剩的精力无处消耗所致。增加散步和室内嗅闻游戏的频率，使其身体适度疲劳并获得心理安全感，是根本的预防方法。"
+        },
+        {
+          "question": "为什么比格犬耷拉的耳朵容易得外耳炎？",
+          "answer": "像比格犬这样耷拉的耳朵会阻断耳道与空气的流通，形成潮湿多汗的内部环境，极易滋生霉菌和耳螨，引起瘙痒和异味。因此必须定期通风和清洁。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Cómo puedo evitar que mi Beagle aúlle?",
+          "answer": "El aullido se debe a la ansiedad por soledad y a la energía acumulada. Aumentar los paseos y juegos de olfato para cansarles es la prevención más eficaz."
+        },
+        {
+          "question": "¿Por qué las orejas caídas de los Beagles se infectan fácilmente?",
+          "answer": "Las orejas caídas bloquean el aire en el canal auditivo, creando un ambiente cálido y húmedo ideal para levaduras y bacterias. La ventilación semanal es crucial."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Comment empêcher mon Beagle de hurler ?",
+          "answer": "Le hurlement est dû à l'anxiété de solitude et au manque d'activité. Augmenter les promenades et les jeux de pistage pour le fatiguer est la meilleure prévention."
+        },
+        {
+          "question": "Pourquoi les oreilles tombantes du Beagle s'infectent-elles si vite ?",
+          "answer": "Les oreilles tombantes bloquent l'air dans le conduit, créant un milieu chaud et humide idéal pour les levures. Une aération et un nettoyage réguliers sont cruciaux."
+        }
+      ],
+      "de": [
+        {
+          "question": "Wie kann ich das Jaulen meines Beagles verhindern?",
+          "answer": "Jaulen wird durch Einsamkeitsangst und ungenutzte Energie verursacht. Mehr Auslauf und Schnüffelspiele zur geistigen Erschöpfung sind die beste Vorbeugung."
+        },
+        {
+          "question": "Warum entzünden sich die Schlappohren von Beagles so leicht?",
+          "answer": "Schlappohren blockieren den Luftstrom im Gehörgang, was ein feuchtwarmes Milieu für Hefepilze schafft. Wöchentliche Belüftung ist wichtig."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Como posso evitar que o meu Beagle uive?",
+          "answer": "O uivo é causado por ansiedade de solidão e acúmulo de energia. Aumentar passeios e jogos de faro para cansar o cão é a prevenção mais eficaz."
+        },
+        {
+          "question": "Por que as orelhas caídas dos Beagles inflamam facilmente?",
+          "answer": "Orelhas caídas bloqueiam a circulação de ar no conduto auditivo, criando um ambiente úmido propício para fungos e bactérias. A ventilação semanal é vital."
+        }
+      ],
+      "id": [
+        {
+          "question": "Bagaimana cara mencegah Beagle melolong?",
+          "answer": "Melolong disebabkan oleh kecemasan kesepian dan energi yang tidak tersalurkan. Meningkatkan jalan kaki dan puzzle penciuman adalah pencegahan paling efektif."
+        },
+        {
+          "question": "Mengapa telinga terkulai Beagle mudah terinfeksi?",
+          "answer": "Telinga terkulai menghalangi udara masuk ke saluran telinga, menciptakan lingkungan lembap yang ideal bagi ragi. Aerasi mingguan sangat penting."
+        }
+      ]
+    }
+  }
+}

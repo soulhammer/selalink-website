@@ -1,0 +1,354 @@
+{
+  "poodle-care": {
+    "title": {
+      "ko": "영리한 푸들을 위한 지능형 놀이법과 귓병 예방 3단계 홈케어 루틴",
+      "en": "Brain Play and Ear Care: A 3-Step Routine for the Intelligent Poodle",
+      "ja": "賢いプードルのための知能プレイと耳のケア3段階ルーティン",
+      "zh": "聪明贵宾犬的智力游戏与耳部护理3步日常惯例",
+      "es": "Juegos mentales y cuidado de oídos: una rutina de 3 pasos para el inteligente caniche",
+      "fr": "Jeux cérébraux et soin des oreilles : routine en 3 étapes pour le caniche intelligent",
+      "de": "Denkspiele und Ohrenpflege: Eine 3-Schritte-Routine für den intelligenten Pudel",
+      "pt": "Jogos mentais e cuidados com as orelhas: rotina de 3 passos para o poodle inteligente",
+      "id": "Permainan Otak dan Perawatan Telinga: Rutinitas 3 Langkah untuk Poodle yang Cerdas"
+    },
+    "description": {
+      "ko": "높은 지능으로 인해 지루함을 느끼기 쉬운 푸들. 지능적 피로를 풀어주는 놀이와 유전적으로 취약한 귓병을 예방하는 3단계 홈케어를 알아봅니다.",
+      "en": "Discover how to relieve boredom in highly intelligent Poodles with brain games and prevent genetically vulnerable ear infections using a 3-step routine.",
+      "ja": "高い知能ゆえに退屈しやすいプードル。知能的ストレスを和らげる遊びと、遺伝的に弱い耳の病気を予防する3段階ケアを紹介します。",
+      "zh": "了解如何通过智力游戏缓解高智商贵宾犬的无聊感，并使用3步日常护理惯例预防遗传性耳部感染。",
+      "es": "Descubra cómo aliviar el aburrimiento en caniches inteligentes con juegos mentales y prevenir infecciones de oído con una rutina de 3 pasos.",
+      "fr": "Découvrez comment soulager l'ennui des caniches intelligents avec des jeux cérébraux et prévenir les otites grâce à une routine en 3 étapes.",
+      "de": "Erfahren Sie, wie Sie Langeweile bei intelligenten Pudeln durch Denkspiele lindern und Ohrentzündungen mit einer 3-Schritte-Routine vorbeugen.",
+      "pt": "Descubra como aliviar o tédio em poodles inteligentes com jogos mentais e prevenir infecções de ouvido com uma rotina de 3 passos.",
+      "id": "Temukan cara mengatasi kebosanan pada Poodle yang cerdas dengan permainan otak dan mencegah infeksi telinga menggunakan rutinitas 3 langkah."
+    },
+    "authority": {
+      "ko": "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜",
+      "en": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
+      "ja": "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル",
+      "zh": "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议",
+      "es": "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC",
+      "fr": "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC",
+      "de": "Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle",
+      "pt": "Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC",
+      "id": "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
+    },
+    "profile": {
+      "breed": {
+        "ko": "푸들 (Poodle)",
+        "en": "Poodle",
+        "ja": "プードル",
+        "zh": "贵宾犬",
+        "es": "Caniche",
+        "fr": "Caniche",
+        "de": "Pudel",
+        "pt": "Poodle",
+        "id": "Poodle"
+      },
+      "lifespan": {
+        "ko": "12 ~ 15년",
+        "en": "12 ~ 15 years",
+        "ja": "12 ~ 15年",
+        "zh": "12 ~ 15年",
+        "es": "12 ~ 15 años",
+        "fr": "12 ~ 15 ans",
+        "de": "12 ~ 15 Jahre",
+        "pt": "12 ~ 15 anos",
+        "id": "12 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "12 ~ 14시간 (보호자 동조형)",
+        "en": "12 ~ 14 hours (synchronized with owner)",
+        "ja": "12 ~ 14時間（飼い主同調型）",
+        "zh": "12 ~ 14小时（与家长同步型）",
+        "es": "12 ~ 14 horas (sincronizado con el dueño)",
+        "fr": "12 ~ 14 heures (synchronisé avec le maître)",
+        "de": "12 ~ 14 Stunden (besitzersynchron)",
+        "pt": "12 ~ 14 horas (sincronizado com o dono)",
+        "id": "12 ~ 14 jam (sinkron dengan pemilik)"
+      },
+      "temperament": {
+        "ko": "극도로 영리함, 활발함, 친화적",
+        "en": "Highly Intelligent, Active, Friendly",
+        "ja": "極めて聡明、活発、フレンドリー",
+        "zh": "极度聪明、活泼、友好",
+        "es": "Altamente Inteligente, Activo, Amigable",
+        "fr": "Très Intelligent, Actif, Amical",
+        "de": "Sehr intelligent, Aktiv, Freundlich",
+        "pt": "Muito Inteligente, Ativo, Amigável",
+        "id": "Sangat Cerdas, Aktif, Ramah"
+      }
+    },
+    "intro": {
+      "ko": "푸들은 세계에서 가장 머리가 좋은 강아지 중 하나로 꼽힙니다. 영리하고 보호자의 감정을 잘 파악하며 훈련 속도도 매우 빠르지만, 높은 지능만큼이나 쉽게 지루함을 느끼고 스트레스를 받기도 합니다. 🐩 또한, 푸들은 귀가 아래로 축 늘어져 귓구멍을 덮고 있는 외형적 특징 때문에 귓속 통풍이 잘 안 되어 만성적인 외이염(귓병)에 걸릴 확률이 유전적으로 매우 높습니다. 오늘 PetSelf에서는 똑똑한 푸들의 지능적 피로를 풀어주어 파괴적 행동을 예방하고, 귀 건강을 효과적으로 지킬 수 있는 3단계 홈케어 루틴을 공유합니다.",
+      "en": "Poodles are widely recognized as one of the most intelligent dog breeds in the world. While they are highly trainable and sensitive to their owner's emotions, they can easily get bored and stressed due to their active minds. 🐩 Additionally, because their floppy ears cover the ear canal, they are highly prone to chronic ear infections (otitis) due to poor ventilation. Today, PetSelf shares tips on keeping your intelligent Poodle mentally stimulated and introduces a 3-step home care routine to keep their ears clean and healthy.",
+      "ja": "プードルは世界で最も頭の良い犬種の一つに挙げられます。賢くて飼い主の感情をよく理解し、訓練も非常に早いですが、高い知能ゆえに退屈しやすくストレスを感じやすいという面もあります。🐩また、垂れ耳で耳の穴が塞がれているため、耳の中の通気性が悪く、遺伝的に慢性外耳炎（耳の病気）にかかる確率が極めて高いです。本日、PetSelfでは聡明なプードルの知能的ストレスを解消し、耳の健康を効果的に守る3段階ホームケアルーティンを紹介します。",
+      "zh": "贵宾犬被公认为世界上最聪明的犬种之一。虽然它们非常易于训练，且对家长的情绪十分敏感，但也因为其活跃的大脑而极易感到无聊和产生压力。精神刺激不足可能会导致它们出现拆家等破坏性行为。🐩此外，由于它们垂下的耳朵覆盖了耳道，导致耳内通风不良，因此遗传上极易患慢性外耳道炎。今天，PetSelf 将分享如何为聪明的贵宾犬提供智力刺激，并介绍一套日常3步护理惯例，以保持它们的耳朵清洁与健康。",
+      "es": "Los caniches son reconocidos como una de las razas de perros más inteligentes del mundo. Si bien son muy dóciles y sensibles a las emociones de sus dueños, pueden aburrirse y estresarse fácilmente debido a sus mentes activas. 🐩 Además, debido a que sus orejas caídas cubren el canal auditivo, son muy propensos a infecciones de oído crónicas debido a la mala ventilación. Hoy, PetSelf comparte consejos para mantener a su caniche mentalmente estimulado e introduce una rutina de cuidado de 3 pasos para mantener sus oídos limpios y saludables.",
+      "fr": "Les caniches sont reconnus comme l'une des races de chiens les plus intelligentes au monde. Très faciles à éduquer et sensibles aux émotions de leur maître, ils peuvent s'ennuyer et stresser rapidement en raison de leur esprit vif. 🐩 De plus, comme leurs oreilles tombantes recouvrent le conduit auditif, ils sont très sujets aux otites chroniques à cause d'une mauvaise aération. Aujourd'hui, PetSelf partage des conseils pour stimuler mentalement votre caniche intelligent et présente une routine de soins en 3 étapes pour garder ses oreilles propres et saines.",
+      "de": "Pudel gelten als eine der intelligentesten Hunderassen der Welt. Sie sind zwar sehr lernwillig und feinfühlig für die Gefühle ihrer Besitzer, können sich aber aufgrund ihres aktiven Geistes leicht langweilen und stressen. 🐩 Da ihre Hängeohren den Gehörgang bedecken, sind sie aufgrund schlechter Belüftung anfällig für chronische Ohrentzündungen. Heute gibt PetSelf Tipps, wie Sie Ihren intelligenten Pudel geistig auslasten können, und stellt eine 3-Schritte-Pflegeroutine vor, um seine Ohren sauber und gesund zu halten.",
+      "pt": "Os poodles são reconhecidos como uma das raças de cães mais inteligentes do mundo. Embora sejam muito adestráveis e sensíveis às emoções de seus donos, eles podem ficar entediados e estressados facilmente devido às suas mentes ativas. 🐩 Além disso, como suas orelhas caídas cobrem o canal auditivo, eles são propensos a infecções crônicas de ouvido devido à má ventilação. Hoje, o PetSelf compartilha dicas para manter seu poodle mentalmente estimulado e apresenta uma rotina de cuidados de 3 passos para manter suas orelhas limpas e saudáveis.",
+      "id": "Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. Meskipun mereka sangat mudah dilatih dan peka terhadap emosi pemiliknya, mereka dapat dengan mudah bosan dan stres karena pikiran mereka yang aktif. 🐩 Selain itu, karena telinga mereka yang terkulai menutupi saluran telinga, mereka sangat rentan terhadap infeksi telinga kronis (otitis) akibat ventilasi yang buruk. Hari ini, PetSelf membagikan tips untuk menjaga Poodle cerdas Anda terstimulasi secara mental dan memperkenalkan rutinitas perawatan 3 langkah untuk menjaga telinga mereka tetap bersih dan sehat."
+    },
+    "whyTitle": {
+      "ko": "푸들의 바디 랭귀지: 요구성과 스트레스의 경계",
+      "en": "Poodle Body Language: Distinguishing Demand from Stress",
+      "ja": "プードルのボディランゲージ：要求とストレスの境界",
+      "zh": "贵宾犬的身体语言：区分需求与压力",
+      "es": "Lenguaje corporal del caniche: distinguir la demanda del estrés",
+      "fr": "Langage corporel du caniche : distinguer la demande du stress",
+      "de": "Körpersprache des Pudels: Unterscheidung zwischen Forderung und Stress",
+      "pt": "Linguagem corporal do poodle: distinguindo exigência de estresse",
+      "id": "Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres"
+    },
+    "whyDesc": {
+      "ko": "푸들은 지능이 높은 만큼 자신의 의사를 몸짓으로 적극 표현합니다. 대표적인 바디 랭귀지는 **'한 발 들기'**와 **'눈 깜빡이기'**입니다. 푸들이 보호자 앞에서 한쪽 앞발을 들어올리는 행동은 흔히 손을 주는 교육의 연장선으로 보이지만, 실은 '나한테 관심을 가져다주세요'라는 요구나 '지금 약간 긴장되니 부드럽게 대해주세요'라는 진정의 메시지입니다. 눈을 지그시 응시하다 부드럽게 깜빡이는 것은 '적의가 없으며 당신을 온전히 신뢰한다'는 애정 표현입니다.",
+      "en": "Because of their intelligence, Poodles actively communicate using body language. Typical signals include **'paw raising'** and **'blinking'**. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions.",
+      "ja": "プードルは知能が高い分、自分の意思をしぐさで積極的に表現します。代表的なボディランゲージは**「片足上げ」**と**「瞬き」**です。プードルが飼い主の前で片方の前足を上げる行動は、お手のおねだりに見えますが、実は「構ってほしい」という要求や「少し緊張しているから優しくして」というメッセージです。目をじっと見つめて優しく瞬きするのは、「敵意はなく、あなたを完全に信頼している」という愛情の表現です。",
+      "zh": "贵宾犬由于智商很高，会积极地用身体语言表达意图。最典型的肢体动作是“抬起一只前爪”和“眨眼睛”。当贵宾犬在家长面前抬起一只前爪时，通常看起来像是要求握手，但实际上这往往是“请关注我”的需求，或是“我现在有点紧张，请温柔待我”的放松信号。轻柔地注视并缓慢地眨眼是它们表达信任与爱意的方式，表明它们完全没有敌意。",
+      "es": "Debido a su inteligencia, los caniches se comunican activamente mediante el lenguaje corporal. Las señales típicas incluyen **'levantar la pata'** y **'parpadear'**. Cuando un caniche levanta una pata delantera, parece una petición de un truco, pero a menudo es un mensaje que dice 'préstame atención' o una señal de calma que significa 'estoy un poco tenso, por favor sé amable'. Mirar suavemente y parpadear lentamente es su forma de mostrar confianza y afecto.",
+      "fr": "En raison de leur intelligence, les caniches communiquent activement par le langage corporel. Les signaux typiques incluent **lever la patte** et **cligner des yeux**. Lorsqu'un caniche lève une patte avant, cela ressemble à une demande de poignée de main, mais c'est souvent un message disant 'occupe-toi de moi' ou un signal d'apaisement signifiant 'je suis un peu tendu, sois doux'. Regarder doucement et cligner lentement des yeux est leur façon de montrer de l'affection.",
+      "de": "Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. Typische Signale sind **'Pfotenheben'** und **'Blinzeln'**. Wenn ein Pudel eine Vorderpfote hebt, sieht das wie eine Bitte um ein Leckerli aus, ist aber oft eine Botschaft wie 'Gib mir Aufmerksamkeit' oder ein Beschwichtigungssignal mit der Bedeutung 'Ich bin etwas angespannt, bitte sei sanft'. Sanftes Anstarren und langsames Blinzeln ist ihre Art, Vertrauen zu zeigen.",
+      "pt": "Devido à sua inteligência, os poodles comunicam-se ativamente por meio da linguagem corporal. Os sinais típicos incluem **'levantar a pata'** e **'piscar'**. Quando um poodle levanta uma pata dianteira, parece um pedido de carinho, mas muitas vezes é uma mensagem dizendo 'dê-me atenção' ou um sinal de calma que significa 'estou um pouco tenso, por favor, seja gentil'. Olhar suavemente e piscar lentamente é sua forma de mostrar carinho.",
+      "id": "Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi **'mengangkat kaki depan'** dan **'berkedip'**. Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "한 발 들기 (Paw Raising)",
+          "en": "Paw Raising",
+          "ja": "片足上げ (Paw Raising)",
+          "zh": "抬爪 (Paw Raising)",
+          "es": "Levantar la pata",
+          "fr": "Lever la patte",
+          "de": "Pfotenheben",
+          "pt": "Levantar a pata",
+          "id": "Mengangkat Kaki Depan"
+        },
+        "meaning": {
+          "ko": "주변에 애정을 요구하거나 가벼운 긴장 상태를 진정시키려는 의도입니다.",
+          "en": "An expression seeking attention or attempting to soothe minor tension or anxiety.",
+          "ja": "周囲にかまってほしいと要求したり、軽い緊張状態を落ち着かせようとするサインです。",
+          "zh": "寻求家长的关注，或者试图安抚轻微的紧张与焦虑情绪。",
+          "es": "Una expresión que busca atención o intenta calmar una leve tensión o ansiedad.",
+          "fr": "Une expression pour demander de l'attention ou tenter de calmer une légère tension.",
+          "de": "Ein Ausdruck, um Aufmerksamkeit zu suchen oder leichte Anspannung zu beruhigen.",
+          "pt": "Uma expressão que busca atenção ou tenta acalmar uma leve tensão ou ansiedade.",
+          "id": "Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan."
+        },
+        "response": {
+          "ko": "이 시그널이 관찰되면 강제로 지시를 내리지 말고 차분한 톤으로 쓰다듬어 안정시키십시오.",
+          "en": "If noticed, avoid giving forceful commands. Speak in a calm tone and pet them gently.",
+          "ja": "このサインが見られたら、無理に指示を出さず、落ち着いた声で撫でて安心させてください。",
+          "zh": "如果注意到这个动作，请避免下达强迫性命令。用温和的语气说话，并轻轻抚摸它们。",
+          "es": "Si lo nota, evite dar órdenes enérgicas. Hable en un tono tranquilo y acarícielo suavemente.",
+          "fr": "Si vous le remarquez, évitez de donner des ordres stricts. Parlez calmement et caressez-le doucement.",
+          "de": "Wenn Sie dies bemerken, vermeiden Sie energische Befehle. Sprechen Sie ruhig und streicheln Sie ihn.",
+          "pt": "Se notar, evite dar ordens enérgicas. Fale em um tom calmo e acaricie-o suavemente.",
+          "id": "Jika terlihat, hindari memberikan perintah yang memaksa. Bicaralah dengan nada tenang dan belai dengan lembut."
+        }
+      },
+      {
+        "name": {
+          "ko": "부드럽게 눈 깜빡이기 (Soft Blinking)",
+          "en": "Soft Blinking",
+          "ja": "優しく瞬きする (Soft Blinking)",
+          "zh": "温柔眨眼 (Soft Blinking)",
+          "es": "Parpadear suavemente",
+          "fr": "Cligner doucement des yeux",
+          "de": "Sanftes Blinzeln",
+          "pt": "Piscar suavemente",
+          "id": "Berkedip Lembut"
+        },
+        "meaning": {
+          "ko": "보호자에 대한 깊은 신뢰와 적의가 전혀 없다는 애정 어린 약속입니다.",
+          "en": "A sign of deep trust and affection, confirming they feel safe and friendly with you.",
+          "ja": "飼い主への深い信頼と、敵意が全くないという愛情のメッセージです。",
+          "zh": "对家长深厚信任与爱意的表达，表明它们感到安全和友好。",
+          "es": "Una señal de profunda confianza y afecto, que confirma que se sienten seguros con usted.",
+          "fr": "Un signe de confiance profonde et d'affection, confirmant qu'il se sent en sécurité avec vous.",
+          "de": "Ein Zeichen von tiefem Vertrauen und Zuneigung, das zeigt, dass sie sich bei Ihnen sicher fühlen.",
+          "pt": "Um sinal de profunda confiança e carinho, confirmando que se sentem seguros com você.",
+          "id": "Tanda kepercayaan dan kasih sayang yang mendalam, menegaskan bahwa mereka merasa aman dengan Anda."
+        },
+        "response": {
+          "ko": "눈이 마주쳤을 때 같이 천천히 깜빡여 주어 안도감을 공유하십시오.",
+          "en": "When you lock eyes, blink back slowly to share and reinforce that sense of peace.",
+          "ja": "目が合ったら、一緒にゆっくり瞬きして安心感を共有してください。",
+          "zh": "当与它们眼神接触时，也缓慢地眨眼回应，以分享和巩固这种安全感。",
+          "es": "Cuando crucen miradas, parpadee lentamente para compartir y reforzar esa sensación de paz.",
+          "fr": "Quand vos regards se croisent, clignez des yeux lentement pour partager ce sentiment de paix.",
+          "de": "Wenn sich Ihre Blicke treffen, blinzeln Sie langsam zurück, um dieses Gefühl der Ruhe zu teilen.",
+          "pt": "Quando se olharem, pisque de volta lentamente para compartilhar e reforçar essa sensação de paz.",
+          "id": "Saat mata saling bertatapan, berkedip kembalilah perlahan untuk membagikan perasaan tenang tersebut."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 브레인 토이를 이용한 인지적 피로 해소",
+          "en": "Morning: Cognitive Relief with Brain Toys",
+          "ja": "朝：知能おもちゃを使った認知ストレス解消",
+          "zh": "早晨：利用智力玩具缓解认知疲劳",
+          "es": "Mañana: Alivio cognitivo con juguetes interactivos",
+          "fr": "Matin : Stimulation cognitive avec des jeux d'intelligence",
+          "de": "Morgen: Geistige Auslastung mit Denkspielzeug",
+          "pt": "Manhã: Alívio cognitivo com brinquedos inteligentes",
+          "id": "Pagi: Peredaan Kognitif dengan Mainan Otak"
+        },
+        "text": {
+          "ko": "단순한 달리기 산책 외에도 미로 식기나 노즈워크 담요를 사용해 간식을 찾아 먹게 함으로써 푸들의 뛰어난 지능을 자극하고 에너지 과잉을 이완시킵니다.",
+          "en": "In addition to physical walks, use maze bowls or nosework mats to stimulate their highly active mind, helping them direct their excess energy productively.",
+          "ja": "単純なランニング散歩だけでなく、迷路食器やノーズワークマットを使っておやつを探し出させることで、プードルの優れた知能を刺激し、エネルギー過多を和らげます。",
+          "zh": "除了普通的散步，还可以使用迷宫碗或闻嗅垫让贵宾犬寻找零食，以此刺激它们高活跃度的大脑，帮助它们以建设性的方式宣泄过剩的精力。",
+          "es": "Además de los paseos físicos, use comederos interactivos o alfombras de olfato untuk estimular su mente activa, ayudándoles a canalizar el exceso de energía.",
+          "fr": "En plus des promenades physiques, utilisez des gamelles anti-glouton ou des tapis de fouille pour stimuler leur esprit vif, les aidant à canaliser leur trop-plein d'énergie.",
+          "de": "Nutzen Sie neben Spaziergängen auch Labyrinth-Näpfe oder Schnüffelmatten, um ihren aktiven Geist zu fordern und überschüssige Energie abzubauen.",
+          "pt": "Além dos passeios físicos, use comedouros interativos ou tapetes de faro para estimular sua mente ativa, ajudando a canalizar o excesso de energia.",
+          "id": "Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka."
+        }
+      },
+      {
+        "name": {
+          "ko": "오후: 통풍 불량 귀의 청결 점검 및 마사지",
+          "en": "Afternoon: Ear Check and Gentle Cleaning Massage",
+          "ja": "午後：通気不良の耳の衛生点検とマッサージ",
+          "zh": "下午：耳部通风检查与温和清洁按摩",
+          "es": "Tarde: Control de oídos y masaje suave de limpieza",
+          "fr": "Après-midi : Contrôle des oreilles et massage de nettoyage doux",
+          "de": "Nachmittag: Ohrenkontrolle und sanfte Reinigungsmassage",
+          "pt": "Tarde: Verificação das orelhas e massagem suave de limpeza",
+          "id": "Siang: Pemeriksaan Telinga dan Pijat Pembersihan Lembut"
+        },
+        "text": {
+          "ko": "귀 세정제를 귓속에 2~3방울 넣고 귀밑 연골 부위를 부드럽게 마사지한 뒤, 밖으로 밀려 나온 이물질을 탈지면으로 닦아내 외이염 유발 인자를 차단합니다.",
+          "en": "Place 2-3 drops of ear cleanser into the ear canal, gently massage the base of the ear, and wipe away any dissolved wax with a cotton pad to prevent otitis.",
+          "ja": "耳洗浄液を耳の中に2〜3滴入れ、耳の根元の軟骨部分を優しくマッサージした後、外に出てきた汚れをコットンで拭き取って外耳炎を予防します。",
+          "zh": "在耳道内滴入2-3滴洗耳液，轻轻按摩耳根部的软骨，然后用棉片擦去溶解的耳垢，以预防耳道炎症。",
+          "es": "Coloque 2-3 gotas de limpiador de oídos en el canal, masajee suavemente la base de la oreja y limpie la cera disuelta con un disco de algodón para prevenir la otitis.",
+          "fr": "Versez 2 à 3 gouttes de nettoyant auriculaire dans le conduit, massez doucement la base de l'oreille et essuyez le cérumen dissous avec un coton pour prévenir les otites.",
+          "de": "Geben Sie 2-3 Tropfen Ohrreiniger in den Gehörgang, massieren Sie die Ohrbasis sanft und wischen Sie gelösten Schmalz mit einem Wattepad ab, um Ohrentzündungen vorzubeugen.",
+          "pt": "Coloque 2 a 3 gotas de limpador de orelha no canal, massageie suavemente a base da orelha e limpe a cera dissolvida com um algodão para evitar otites.",
+          "id": "Teteskan 2-3 tetes pembersih telinga ke dalam saluran telinga, pijat perlahan pangkal telinga, dan seka kotoran yang larut dengan kapas untuk mencegah otitis."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 곱슬거리는 피모의 피부염 방지 브러싱",
+          "en": "Evening: Slicker Brushing to Prevent Skin Matting",
+          "ja": "夜：巻き毛の皮膚炎を予防するブラッシング",
+          "zh": "晚上：梳理卷毛以防皮肤打结发炎",
+          "es": "Noche: Cepillado slicker para evitar nudos en la piel",
+          "fr": "Soir : Brossage carde pour éviter les nœuds et dermatites",
+          "de": "Abend: Bürsten gegen Verfilzungen und Hautprobleme",
+          "pt": "Noite: Escovação com rasqueadeira para evitar nós na pele",
+          "id": "Malam: Menyikat Bulu untuk Mencegah Kusut pada Kulit"
+        },
+        "text": {
+          "ko": "털이 꼬이기 쉬운 곱슬 푸들의 모질 특성을 감안해, 매일 저녁 슬리커 브러시로 죽은 털을 제거해 엉킴을 방지하고 피부에 공기가 잘 통하게 돕습니다.",
+          "en": "Since curly Poodle coats mat easily, brush daily with a slicker brush to remove dead hair, detangle, and allow proper air circulation to the skin.",
+          "ja": "毛が絡まりやすい巻き毛のプードルの特徴を考慮し、毎晩スリッカーブラシで死毛を取り除いて絡まりを防ぎ、皮膚の通気性を高めます。",
+          "zh": "由于贵宾犬的卷毛容易打结，应每天晚上使用针梳清除死毛、解开结节，以促进皮肤的空气流通并预防皮肤病。",
+          "es": "Dado que el pelaje rizado del caniche se enreda fácilmente, cepille a diario con un cepillo slicker para eliminar el pelo muerto y permitir la ventilación de la piel.",
+          "fr": "Le pelage frisé du caniche s'emmêlant facilement, brossez-le quotidiennement avec une carde pour retirer les poils morts et aérer la peau.",
+          "de": "Da das lockige Fell leicht verfilzt, bürsten Sie es täglich mit einer Zupfbürste, um abgestorbene Haare zu entfernen und die Belüftung der Haut zu fördern.",
+          "pt": "Como a pelagem crespa do poodle embaraça facilmente, escove diariamente com uma rasqueadeira para remover pelos mortos e permitir a ventilação da pele.",
+          "id": "Karena bulu Poodle yang keriting mudah kusut, sikatlah setiap hari dengan sikat slicker untuk merontokkan bulu mati dan melancarkan sirkulasi udara pada kulit."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "푸들이 귀 세정 후에 머리를 세차게 터는 것은 정상인가요?",
+          "answer": "정상적인 자가 청소 반응입니다. 귓속 깊이 들어갔던 세정제가 먼지와 함께 귀 밖으로 털려 나오는 과정이므로 놀라지 마시고 귓바퀴 부분만 가볍게 닦아주시면 됩니다."
+        },
+        {
+          "question": "푸들이 가구를 씹거나 물어뜯는 행동은 어떻게 교정하나요?",
+          "answer": "지능이 높은 만큼 신체 에너지는 물론 뇌의 에너지가 채워지지 않아 지루함을 느낄 때 자주 발생합니다. 단순 씹는 장난감 대신 노즈워크나 인지 놀이를 대폭 늘려주세요."
+        }
+      ],
+      "en": [
+        {
+          "question": "Is it normal for my Poodle to shake its head vigorously after ear cleaning?",
+          "answer": "Yes, this is a normal self-cleaning reaction. It helps shake out the cleanser along with dissolved debris from deep inside the ear. Just wipe the outer ear flap gently."
+        },
+        {
+          "question": "How do I stop my Poodle from chewing furniture?",
+          "answer": "Poodles often chew out of boredom when their brain is understimulated. Instead of just chew toys, introduce puzzles and interactive games to tire them out mentally."
+        }
+      ],
+      "ja": [
+        {
+          "question": "プードルが耳掃除の後に頭を激しく振るのは正常ですか？",
+          "answer": "正常な自浄作用反応です。耳の奥深くに入った洗浄液が汚れと一緒に外に振り落とされる過程ですので、慌てずに耳の表面だけを優しく拭き取ってください。"
+        },
+        {
+          "question": "プードルが家具をかじる行動はどうやって直しますか？",
+          "answer": "知能が高いため、脳のエネルギーが消費されず退屈を感じた時によく起こります。単なるおもちゃではなく、ノーズワークや知能パズルゲームを大幅に増やしてください。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "贵宾犬在洗耳后剧烈甩头是正常的吗？",
+          "answer": "这是正常的自我清洁反应。甩头能将溶解了污垢的洗耳液从耳道深处甩出，您只需轻轻擦拭外耳廓即可，无需惊慌。"
+        },
+        {
+          "question": "如何纠正贵宾犬啃咬家具的行为？",
+          "answer": "贵宾犬智商极高，这通常是因为缺乏脑力锻炼、感到无聊而引起的。相比普通的咬咬玩具，应多提供智力拼图和嗅闻游戏以满足它们的认知需求。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Es normal que mi caniche sacuda la cabeza vigorosamente después de la limpieza de oídos?",
+          "answer": "Sí, es una reacción normal de autolimpieza. Ayuda a expulsar el limpiador con la suciedad del interior del oído. Simplemente limpie la parte exterior de la oreja con cuidado."
+        },
+        {
+          "question": "¿Cómo evito que mi caniche muerda los muebles?",
+          "answer": "A menudo muerden por aburrimiento debido a la falta de estimulación mental. En lugar de juguetes masticables comunes, introduzca rompecabezas y juegos interactivos."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Est-il normal que mon caniche secoue la tête vigoureusement après le nettoyage des oreilles ?",
+          "answer": "Oui, c'est une réaction normale d'auto-nettoyage. Cela aide à expulser le nettoyant et les débris dissous. Essuyez simplement l'extérieur du pavillon de l'oreille."
+        },
+        {
+          "question": "Comment empêcher mon caniche de mâcher les meubles ?",
+          "answer": "Le caniche mâche souvent par ennui lorsque son esprit n'est pas assez stimulé. Remplacez les jouets à mâcher simples par des jeux d'intelligence et de fouille."
+        }
+      ],
+      "de": [
+        {
+          "question": "Ist es normal, dass mein Pudel nach der Ohrenreinigung heftig den Kopf schüttelt?",
+          "answer": "Ja, das ist eine normale Selbstreinigungsreaktion. Sie hilft, den Reiniger samt gelöstem Schmutz herauszuschütteln. Wischen Sie einfach die Ohrmuschel sanft ab."
+        },
+        {
+          "question": "Wie gewöhne ich meinem Pudel das Kauen an Möbeln ab?",
+          "answer": "Pudel kauen oft aus Langeweile, wenn sie geistig nicht ausgelastet sind. Bieten Sie statt einfachem Kauspielzeug vermehrt Denkspiele und Schnüffelteppiche an."
+        }
+      ],
+      "pt": [
+        {
+          "question": "É normal o meu poodle sacudir a cabeça vigorosamente após a limpeza das orelhas?",
+          "answer": "Sim, é uma reação normal de autolimpeza. Ajuda a expelir o limpador com a sujeira do interior da orelha. Apenas limpe a parte externa da orelha com cuidado."
+        },
+        {
+          "question": "Como faço para o meu poodle parar de roer móveis?",
+          "answer": "Poodles costumam roer por tédio devido à falta de estimulação mental. Em vez de brinquedos de mastigar comuns, introduza quebra-cabeças e jogos interativos."
+        }
+      ],
+      "id": [
+        {
+          "question": "Apakah normal bagi Poodle saya menggelengkan kepalanya dengan kuat setelah pembersihan telinga?",
+          "answer": "Ya, itu adalah reaksi pembersihan diri yang normal. Ini membantu mengeluarkan pembersih beserta kotoran dari dalam telinga. Cukup seka daun telinga bagian luar secara perlahan."
+        },
+        {
+          "question": "Bagaimana cara menghentikan Poodle saya menggigit furnitur?",
+          "answer": "Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih mental mereka."
+        }
+      ]
+    }
+  }
+}

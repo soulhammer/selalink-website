@@ -14,11 +14,6 @@ steps:
     text: "Retire a casca com cuidado para que a sujeira de fora não encoste na polpa. Corte a melancia em cubos e guarde em pote hermético limpo com a tampa bem fechada."
   - name: "Guarde no fundo da gaveta de legumes em temperatura de 0-4 °C ❄️"
     text: "Coloque o pote hermético no fundo da gaveta de legumes. Armazenar em local com o mínimo de oscilação térmica mantém a melancia crocante e preserva a doçura."
-faqs:
-  - question: "Is it dangerous to store cut watermelon wrapped only in plastic wrap?"
-    answer: "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
-  - question: "Can I put a whole watermelon directly in the coldest part of the fridge?"
-    answer: "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
 ---
 
 Você sabia que cobrir a melancia que sobrou com filme plástico multiplica as bactérias na superfície em 3.000 vezes? Hoje, o StoreSelf compartilha técnicas seguras recomendadas pela KCA.

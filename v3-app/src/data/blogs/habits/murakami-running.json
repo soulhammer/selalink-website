@@ -1,0 +1,186 @@
+{
+  "murakami-running": {
+    "title": {
+      "ko": "매일 아침 10km를 달리는 작가? 무라카미 하루키의 기초 체력 루틴",
+      "en": "The Writer Who Runs 10km Every Morning: Haruki Murakami's Stamina Routine",
+      "ja": "毎日朝10kmを走る作家？村上春樹の基礎体力ルーティン",
+      "zh": "每天早晨跑步10公里的作家？村上春树的基础体能惯例",
+      "es": "¿El escritor que corre 10 km cada mañana? La rutina de resistencia de Haruki Murakami",
+      "fr": "L'écrivain qui court 10 km chaque matin : La routine d'endurance de Haruki Murakami",
+      "de": "Der Schriftsteller, der jeden Morgen 10 km läuft: Haruki Murakamis Ausdauer-Routine",
+      "pt": "O escritor que corre 10 km todas as manhãs: A rotina de resistência de Haruki Murakami",
+      "id": "Penulis yang Berlari 10km Setiap Pagi: Rutinitas Stamina Haruki Murakami"
+    },
+    "description": {
+      "ko": "전 세계적인 베스트셀러 소설가 무라카미 하루키. 그의 철저한 아침 10km 달리기 루틴 속에 숨겨진 뇌과학적 원리와 현대인을 위한 3단계 실천법을 알아봅니다.",
+      "en": "World-renowned bestselling novelist Haruki Murakami. Discover the neuroscience behind his daily 10km running routine and a 3-step guide for modern professionals.",
+      "ja": "世界的なベストセラー作家、村上春樹。彼の毎朝10kmランニングの背後にある脳科学的な理由と、現代人のための3段階の実践法を紹介します。",
+      "zh": "享誉全球的畅销书作家村上春树。探索他每天早晨跑步10公里背后的脑科学原理，以及适合现代人的三步实践指南。",
+      "es": "El novelista superventas de renombre mundial Haruki Murakami. Descubra la neurociencia detrás de su rutina diaria de correr 10 km y una guía de 3 pasos para profesionales.",
+      "fr": "Le romancier à succès de renommée mondiale Haruki Murakami. Découvrez la neuroscience derrière sa course quotidienne de 10 km et un guide en 3 étapes pour les professionnels.",
+      "de": "Der weltberühmte Bestsellerautor Haruki Murakami. Entdecken Sie die Neurowissenschaft hinter seinem täglichen 10-km-Lauf und eine 3-Schritte-Anleitung für den Alltag.",
+      "pt": "O romancista de renome mundial Haruki Murakami. Descubra a neurociência por trás de sua corrida diária de 10 km e um guia de 3 passos para profissionais modernos.",
+      "id": "Novelis terlaris terkenal di dunia, Haruki Murakami. Temukan ilmu saraf di balik rutinitas lari 10 km setiap harinya dan panduan 3 langkah untuk para profesional."
+    },
+    "authority": {
+      "ko": "무라카미 하루키 저 '달리기를 말할 때 내가 하고 싶은 이야기' 및 Frontiers in Psychology 연구",
+      "en": "Haruki Murakami's 'What I Talk About When I Talk About Running' & Frontiers in Psychology",
+      "ja": "村上春樹 著『走ることについて語るときに僕の語ること』＆ Frontiers in Psychology 運動認知研究",
+      "zh": "村上春树著《当我谈跑步时我谈些什么》及 Frontiers in Psychology 运动认知研究",
+      "es": "Obra de Haruki Murakami 'De qué hablo cuando hablo de correr' y estudio de Frontiers in Psychology",
+      "fr": "L'ouvrage de Haruki Murakami 'Autoportrait de l'auteur en coureur de fond' et l'étude de Frontiers in Psychology",
+      "de": "Haruki Murakamis 'Wovon ich rede, wenn ich vom Laufen rede' & Studie in Frontiers in Psychology",
+      "pt": "Obra de Haruki Murakami 'Do Que Eu Falo Quando Falo de Corrida' e estudo da Frontiers in Psychology",
+      "id": "Buku Haruki Murakami 'What I Talk About When I Talk About Running' & Penelitian Frontiers in Psychology"
+    },
+    "intro": {
+      "ko": "《상실의 시대》, 《1Q84》 등 발표하는 작품마다 전 세계적인 열풍을 일으키는 현대 일본 문학의 거장 무라카미 하루키. 그는 소설가인 동시에 40년 넘게 매년 마라톤 풀코스를 완주해 온 열정적인 러너이기도 합니다. 🏃‍♂️\\n\\n하루키는 1982년 전업 작가의 길로 들어서면서 앉아서 글만 쓰는 생활이 가져다주는 체력 저하와 체중 증가를 겪었습니다. 그는 소설가가 장기적으로 창작 활동을 이어나가기 위해서는 단순한 재능을 넘어, 고도의 집중력을 며칠이고 몇 달이고 유지할 수 있는 강인한 '기초 체력'이 필수적임을 깨달았습니다. 이에 담배를 과감히 끊고 매일 아침 10km를 달리거나 1,500m를 수영하는 루틴을 시작해 전 세계 어디를 가든 이를 고수하고 있습니다.\\n\\n오늘 BuildSelf에서는 하루키의 철저한 달리기에 숨겨진 과학적 이유와 현대인들이 일상에서 체력 루틴을 다지는 방법을 살펴봅니다.\\n\\n\\n\\n\\n---",
+      "en": "Haruki Murakami, a giant of modern Japanese literature who creates a global sensation with every work he publishes. He is not only a novelist but also a passionate runner who has completed a full marathon every year for over 40 years. When he became a full-time writer in 1982, he experienced a decline in stamina and weight gain from sitting and writing all day. He realized that to sustain creative activities in the long run, a novelist needs not just talent, but strong physical stamina to maintain high concentration. He quit smoking and started a routine of running 10km or swimming 1,500m every morning, which he maintains wherever he goes. Today, BuildSelf explores the scientific reasons behind Murakami's running and how you can build your own stamina routine.",
+      "ja": "発表する作品ごとに世界的な旋風を巻き起こす現代日本文学の巨匠、村上春樹。彼は小説家であると同時に、40年以上毎年フルマラソンを完走してきた熱心なランナーでもあります。1982年に専業作家になって以来、一日中座って執筆することによる体力低下と体重増加を経験した彼は、小説家が長期的に創作活動を続けるためには、単なる才能だけでなく、高度な集中力を維持するための頑丈な「基礎体力」が不可欠であると悟りました。そこでタバコをやめ、毎朝10kmを走るか1,500mを泳ぐルーティンを開始し、今でも世界中どこに行ってもこれを守り続けています。本日、BuildSelfでは春樹のランニングルーティンの科学的根拠と日常の実践ガイドを調べます。",
+      "zh": "村上春树是现代日本文学巨匠，每部作品问世都会引发全球热潮。他不仅是一位小说家，也是一位热情的跑者，40多年来每年都坚持跑完一次全程马拉松。1982年成为全职作家后，他因整天坐着写作而经历了体能下降和体重增加。他意识到，要在长期的创作活动中走得更远，小说家不仅需要才华，更需要坚实的“基础体能”来维持高度的专注力。于是，他果断戒烟，开始每天早晨跑步10公里或游泳1500米的惯例，无论身处世界何地都雷打不动。今天，BuildSelf将带您探索村上春树跑步习惯背后的科学原理，以及现代人如何在日常中建立体能惯例。",
+      "es": "Haruki Murakami, un gigante de la literatura japonesa moderna que genera un revuelo global con cada obra que publica. No solo es novelista, sino también un corredor apasionado que ha completado un maratón completo cada año durante más de 40 años. Cuando se convirtió en escritor a tiempo completo en 1982, experimentó una disminución de su resistencia y un aumento de peso por estar sentado escribiendo todo el día. Se dio cuenta de que para mantener las actividades creativas a largo plazo, un novelista necesita no solo talento, sino una fuerte resistencia física para mantener una alta concentración. Dejó de fumar y comenzó una rutina de correr 10 km o nadar 1.500 m cada mañana, que mantiene dondequiera que vaya. Hoy, BuildSelf analiza las razones científicas detrás de la rutina de Murakami y cómo puedes construir tu propia rutina de resistencia.",
+      "fr": "Haruki Murakami, un géant de la littérature japonaise moderne qui crée une sensation mondiale à chaque œuvre publiée. Il est non seulement romancier, mais aussi un coureur passionné qui termine un marathon complet chaque année depuis plus de 40 ans. Lorsqu'il est devenu écrivain à plein temps en 1982, il a subi une baisse d'endurance et une prise de poids à force de rester assis à écrire toute la journée. Il a réalisé que pour soutenir ses activités créatives à long terme, un romancier a besoin non seulement de talent, mais d'une solide endurance physique pour maintenir une grande concentration. Il a arrêté de fumer et a commencé une routine consistant à courir 10 km ou à nager 1 500 m chaque matin, qu'il maintient où qu'il aille. Aujourd'hui, BuildSelf explore les raisons scientifiques de la routine de Murakami et comment développer votre propre routine d'endurance.",
+      "de": "Haruki Murakami ist ein Gigant der modernen japanischen Literatur, der mit jedem seiner Werke weltweites Aufsehen erregt. Er ist nicht nur Schriftsteller, sondern auch ein leidenschaftlicher Läufer, der seit über 40 Jahren jedes Jahr einen Marathon läuft. Als er 1982 hauptberuflicher Autor wurde, bemerkte er durch das ständige Sitzen einen Mangel an Ausdauer und eine Gewichtszunahme. Er erkannte, dass ein Schriftsteller für langfristige Kreativität nicht nur Talent, sondern auch eine starke körperliche Fitness benötigt, um die Konzentration aufrechtzuerhalten. Er gab das Rauchen auf und begann jeden Morgen 10 km zu laufen oder 1.500 m zu schwimmen. Diese Routine behält er überall auf der Welt bei. Heute untersucht BuildSelf die wissenschaftlichen Gründe für Murakamis Laufroutine und wie Sie Ihre eigene Ausdauer aufbauen können.",
+      "pt": "O romancista de renome mundial Haruki Murakami. Descubra a neurociência por trás de sua corrida diária de 10 km e um guia de 3 passos para profissionais modernos. Hoje, o BuildSelf explora as razões científicas por trás da corrida de Murakami e como você pode construir sua própria rotina de resistência.",
+      "id": "Haruki Murakami, seorang tokoh sastra Jepang modern yang menciptakan sensasi global dengan setiap karya yang diterbitkannya. Dia bukan hanya seorang novelis tetapi juga seorang pelari bersemangat yang telah menyelesaikan maraton penuh setiap tahun selama lebih dari 40 tahun. Ketika dia menjadi penulis penuh waktu pada tahun 1982, dia mengalami penurunan stamina & kenaikan berat badan akibat duduk & menulis sepanjang hari. Hari ini, BuildSelf mengeksplorasi alasan ilmiah di balik rutinitas lari Murakami & bagaimana Anda dapat membangun rutinitas stamina Anda sendiri."
+    },
+    "whyTitle": {
+      "ko": "뇌의 젊음을 유지하는 러닝의 뇌과학",
+      "en": "The Neuroscience of Running to Keep the Brain Young",
+      "ja": "脳の若さを保つランニングの脳科学",
+      "zh": "保持大脑年轻的跑步脑科学",
+      "es": "La neurociencia de correr para mantener el cerebro joven",
+      "fr": "La neuroscience de la course pour garder le cerveau jeune",
+      "de": "Die Neurowissenschaft des Laufens zur Verjüngung des Gehirns",
+      "pt": "A neurociência de correr para manter o cérebro jovem",
+      "id": "Ilmu Saraf di Balik Lari untuk Menjaga Otak Tetap Muda"
+    },
+    "whyDesc": {
+      "ko": "소설을 쓰는 것은 극도의 정신적 에너지를 소모하는 작업입니다. 하루키는 매일 일정량의 원고를 쓰는 고단한 정신 작업을 지탱하기 위해 달리기를 통해 뇌를 단련했습니다.\\n\\n실제로 장거리 달리기와 같은 지속적인 유산소 운동은 뇌의 해마 영역에 산소와 영양분을 공급하여 신경세포의 생성을 촉진합니다. 뇌과학 연구에 따르면, 달리기는 뇌신경영양인자(BDNF) 수치를 높여 장기 기억력과 학습 능력을 강화합니다. 또한, 달리면서 분비되는 엔도르핀과 엔도카나비노이드는 스트레스 호르몬인 코르티솔의 분비를 억제하여 정신적 압박감이 심한 현대인들의 두뇌를 평온하게 유지해 줍니다.",
+      "en": "Writing a novel is a task that consumes extreme mental energy. Murakami trained his brain through running to support the hard mental work of writing a set amount of manuscript every day. In fact, continuous aerobic exercise like long-distance running supplies oxygen and nutrients to the hippocampus, promoting the generation of new neurons. According to brain science, running increases levels of Brain-Derived Neurotrophic Factor (BDNF), strengthening long-term memory and learning capabilities. In addition, endorphins and endocannabinoids released during running suppress the secretion of cortisol, the stress hormone, keeping the minds of modern people peaceful.",
+      "ja": "小説を書くことは、極度の精神的エネルギーを消費する作業です。春樹は毎日一定量の原稿を書く過酷な精神作業を支えるため、ランニングを通じて脳を鍛えました。実際、長距離ランニングのような継続的な有酸素運動は、脳の海馬領域に酸素と栄養分を供給し、神経細胞の生成を促進します。脳科学の研究によると、ランニングは脳由来神経栄養因子(BDNF)の数値を高め、長期記憶力と学習能力を強化します。また、ランニング中に分泌されるエンドルフィンとエンドカンナビノイドは、ストレスホルモンであるコルチゾールの分泌を抑制し、精神的圧迫感の強い現代人の頭脳を穏やかに保ちます。",
+      "zh": "撰写小说是一项消耗极大精神能量的任务。村上春树通过跑步来锻炼大脑，以支持每天撰写固定数量手稿的繁重脑力工作。事实上，像长距离跑步这样持续的有氧运动，能为大脑的海马体区域提供充足的氧气和营养，促进神经元的新生。脑科学研究表明，跑步能提高脑源性神经营养因子（BDNF）的水平，从而增强长期记忆力和学习能力。此外，压力下释放的内啡肽和内源性大麻素能抑制压力脑中皮质醇的分泌，让现代人高度紧张的大脑保持平静。",
+      "es": "Escribir una novela es una tarea que consume una energía mental extrema. Murakami entrenó su cerebro corriendo para soportar el duro trabajo mental de escribir una cantidad fija de manuscrito todos los días. De hecho, el ejercicio aeróbico continuo como correr largas distancias suministra oxígeno y nutrientes al hipocampo, promoviendo la generación de nuevas neuronas. Según la ciencia cerebral, correr aumenta los niveles del Factor Neurotrófico Derivado del Cerebro (BDNF), fortaleciendo la memoria a largo plazo y las capacidades de aprendizaje. Además, las endorfinas y los endocannabinoides liberados al correr suprimen la secreción de cortisol, la hormona del estrés, manteniendo en paz la mente de las personas.",
+      "fr": "Écrire un roman est une tâche qui consomme une énergie mental extrême. Murakami a entraîné son cerveau grâce à la course à pied pour soutenir le dur travail mental consistant à écrire une quantité fixe de manuscrit chaque jour. En fait, un exercice aérobique continu comme la course de fond fournit de l'oxygène et des nutriments à l'hippocame, favorisant la génération de nouveaux neurones. Selon la science du cerveau, la course augmente les niveaux de facteur neurotrophique dérivé du cerveau (BDNF), renforçant la mémoire à l'échelle cognitive. De plus, les endorphines et les endocannabinoïdes libérés pendant la course suppriment la sécrétion de cortisol, l'hormone du stress, gardant l'esprit des gens paisible.",
+      "de": "Das Schreiben eines Romans verbraucht extrem viel geistige Energie. Murakami trainierte sein Gehirn durch das Laufen, um die harte mentale Arbeit des täglichen Schreibens zu unterstützen. Tatsächlich versorgt kontinuierliches Ausdauertraining wie Langstreckenlauf den Hippocampus mit Sauerstoff und Nährstoffen, was die Entstehung neuer Neuronen fördert. Laut Gehirnforschung erhöht Laufen den Spiegel des Brain-Derived Neurotrophic Factor (BDNF), was das Langzeitgedächtnis und die Lernfähigkeit stärkt. Darüber hinaus unterdrücken die beim Laufen freigesetzten Endorphine und Endocannabinoide die Ausschüttung von Cortisol, dem Stresshormon, und beruhigen so den Geist.",
+      "pt": "Escrever um romance é uma tarefa que consome extrema energia mental. Murakami treinou o seu cérebro através da corrida para apoiar o trabalho mental árduo de escrever uma quantidade fixa de manuscrito todos os dias. De fato, o exercício aeróbico contínuo, como a corrida de longa distância, fornece oxigênio e nutrientes ao hipocampo, promovendo a geração de novos neurônios. Segundo a ciência cerebral, correr aumenta os níveis do Fator Neurotrófico Derivado del Cérebro (BDNF), fortalecendo a memória de longo prazo e as capacidades de aprendizagem. Além disso, as endorfinas e os endocanabinoides liberados durante a corrida suprimem a secreção de cortisol, o hormônio do estresse, mantendo a mente calma.",
+      "id": "Menulis novel adalah tugas yang menghabiskan energi mental yang luar biasa. Murakami melatih otaknya melalui lari untuk mendukung kerja mental yang keras dalam menulis naskah dalam jumlah tertentu setiap hari. Faktanya, olahraga aerobik berkelanjutan seperti lari jarak jauh memasok oksigen & nutrisi ke hipokampus."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Put on running gear immediately upon waking",
+          "ja": "起きてすぐにランニングウェアに着替える",
+          "zh": "起床后立即换上跑步装备",
+          "es": "Ponerse la ropa de correr inmediatamente al despertar",
+          "fr": "Enfiler sa tenue de course dès le réveil",
+          "de": "Direkt nach dem Aufstehen die Laufsachen anziehen",
+          "pt": "Vestir a roupa de corrida imediatamente ao acordar",
+          "id": "Segera kenakan pakaian lari setelah bangun tidur"
+        },
+        "text": {
+          "en": "To avoid hesitation about whether to run or not when you wake up in the morning, change into your pre-prepared running gear immediately. The act of dressing your body sends the first trigger signal to the brain that it is time to move.",
+          "ja": "朝起きた時に走るべきか悩む時間さえ持たないように、前もって準備しておいたランニングウェアにすぐに着替えます。体に服を着せる行為自体が、脳に「動く時間」という最初のトリガー信号を送ります。",
+          "zh": "为了避免清晨醒来时犹豫跑不跑步，请立即换上提前准备好的跑步装备。穿上运动服这一动作本身，就会向大脑发送第一个触发信号：“该运动了”。",
+          "es": "Para evitar dudar sobre si correr o no cuando te despiertas por la mañana, cámbiate inmediatamente a la ropa de correr que preparaste previamente. El acto de vestir tu cuerpo envía la primera señal de activación al cerebro de que es hora de moverse.",
+          "fr": "Pour éviter d'hésiter à courir ou non à votre réveil, enfilez immédiatement la tenue de course préparée la veille. Le fait de s'habiller envoie au cerveau le tout premier signal indiquant qu'il est temps de bouger.",
+          "de": "Um morgens gar nicht erst darüber nachzudenken, ob Sie laufen sollen oder nicht, ziehen Sie sofort die am Vorabend bereitgelegte Laufkleidung an. Das Anziehen signalisiert dem Gehirn sofort: Es ist Zeit für Bewegung.",
+          "pt": "Para evitar hesitações sobre correr ou não ao acordar de manhã, vista imediatamente a roupa de corrida previamente preparada. O ato de vestir o corpo envia o primeiro sinal de gatilho ao cérebro de que é hora de se mover.",
+          "id": "Untuk menghindari keraguan apakah akan berlari atau tidak saat Anda bangun di pagi hari, segera ganti pakaian lari yang sudah disiapkan. Tindakan mengenakan pakaian lari mengirimkan sinyal pemicu pertama ke otak bahwa inilah saatnya untuk bergerak."
+        }
+      },
+      {
+        "name": {
+          "en": "Focus on regular time rather than distance",
+          "ja": "距離よりも規則的な時間に集中する",
+          "zh": "专注于规律的时间而非距离",
+          "es": "Concentrarse en la regularidad del tiempo antes que en la distancia",
+          "fr": "Se concentrer sur la régularité du temps plutôt que sur la distance",
+          "de": "Konzentration auf Regelmäßigkeit statt auf Distanz",
+          "pt": "Focar na regularidade do tempo em vez da distância",
+          "id": "Fokus pada waktu yang teratur daripada jarak"
+        },
+        "text": {
+          "en": "You do not need to run 10km from the start. Start by lightly running for 20-30 minutes at a set time (e.g., 8 PM after work) and gradually increase the distance. The key is not speed, but instilling a regular rhythm into your body.",
+          "ja": "最初から10kmを走る必要はありません。毎朝または一定の時間（例：退勤後8時）に20〜30分間軽く走ることから始め、徐々に距離を伸ばしていきます。重要なのは速度ではなく、体に一定のリズムを染み込ませることです。",
+          "zh": "不需要一开始就跑10公里。从每天早晨或固定时间（例如下班后的晚上8点）轻快地跑20-30分钟开始，然后逐渐增加距离。关键不在于速度，而在于给身体灌输一种规律的节奏。",
+          "es": "Comienza corriendo suavemente durante 20 o 30 minutos a una hora fija (por ejemplo, a las 8 p. m. después del trabajo) y aumenta gradualmente la distancia. La clave no es la velocidad, sino inculcar un ritmo regular en tu cuerpo.",
+          "fr": "Il n'est pas nécessaire de courir 10 km dès le début. Commencez par trottiner 20 à 30 minutes à heure fixe (par exemple, à 20h après le travail) et augmentez progressivement la distance. L'important n'est pas la vitesse, mais d'installer un rythme régulier.",
+          "de": "Sie müssen nicht sofort 10 km laufen. Beginnen Sie damit, zu einer festen Zeit (z. B. nach der Arbeit um 20 Uhr) 20–30 Minuten locker zu laufen, und steigern Sie die distanz allmählich. Der Schlüssel ist nicht die Geschwindigkeit, sondern ein regelmäßiger Rhythmus.",
+          "pt": "Não precisa de correr 10 km desde o início. Comece por correr suavemente durante 20 a 30 minutos a uma hora definida (por exemplo, às 20h após o trabalho) e augmente gradualmente a distância. A chave não é a velocidade, mas incutir um ritmo regular no corpo.",
+          "id": "Anda tidak perlu berlari 10 km sejak awal. Mulailah dengan berlari ringan selama 20-30 menit pada waktu yang ditentukan & tingkatkan jaraknya secara bertahap."
+        }
+      },
+      {
+        "name": {
+          "en": "Use running as a time for self-dialogue",
+          "ja": "ランニングを自分との対話の時間にする",
+          "zh": "将跑步作为与自我对话的时间",
+          "es": "Usar el correr como un momento de diálogo interno",
+          "fr": "Faire de la course un moment de dialogue avec soi-même",
+          "de": "Das Laufen als Zeit für den inneren Dialog nutzen",
+          "pt": "Usar a corrida como um momento de diálogo interno",
+          "id": "Gunakan lari sebagai waktu untuk berdialog dengan diri sendiri"
+        },
+        "text": {
+          "en": "Do not check complex messages or emails on your smartphone while running; focus solely on your breathing rhythm and the sensation of your feet touching the ground. This mindful run becomes the best mental detox to organize a cluttered mind.",
+          "ja": "走っている間はスマートフォンで複雑なメッセージやメールを確認せず、自分の呼吸のリズムと地面に足が触れる感覚だけに集中します。この無心で走る時間が、一日の中で複雑になった頭の中を整理する最高の精神的デトックスになります。",
+          "zh": "跑步时不要在手机上查看复杂的消息或邮件；只专注于你的呼吸节奏和脚踩地面的感觉。这种专注于当下的跑步会成为整理杂乱思绪的绝佳精神排毒方式。",
+          "es": "No revises mensajes complejos ni correos en tu teléfono mientras corres; concéntrate únicamente en el ritmo de tu respiración y la sensación de tus pies tocando el suelo. Esta carrera consciente se convierte en la mejor desintoxicación mental para organizar una mente desordenada.",
+          "fr": "Ne regardez pas vos messages ou vos e-mails complexes en courant ; concentrez-vous uniquement sur le rythme de votre respiration et la sensation de vos pieds sur le sol. Cette course en pleine conscience est la meilleure détox pour vider l'esprit.",
+          "de": "Checken Sie beim Laufen keine Nachrichten oder E-Mails auf dem Smartphone. Konzentrieren Sie sich nur auf Ihren Atemrhythmus und das Gefühl, wie Ihre Füße den Boden berühren. Dieses achtsame Laufen ist das beste mentale Detoxing für einen klaren Kopf.",
+          "pt": "Não verifique mensagens complexas ou e-mails no smartphone enquanto corre; concentre-se apenas no ritmo da respiração e na sensação dos pés tocando o chão. Esta corrida consciente torna-se a melhor desintoxicação mental para organizar a mente.",
+          "id": "Jangan memeriksa pesan atau email yang rumit di ponsel saat berlari; fokuslah hanya pada ritme napas dan sensasi kaki yang menyentuh tanah. Berlari dengan penuh kesadaran ini menjadi detoksifikasi mental terbaik untuk mengatur pikiran yang kacau."
+        }
+      }
+    ],
+    "cautionTitle": {
+      "ko": "성공적인 루틴을 위한 뇌과학적 한마디",
+      "en": "A brain-scientific word for a successful routine",
+      "ja": "効果的なルーティンのための脳科学的な一言",
+      "zh": "成功惯例的脑科学建议",
+      "es": "Un consejo neurocientífico para una rutina exitosa",
+      "fr": "Un conseil neuroscientifique pour une routine réussie",
+      "de": "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
+      "pt": "Um conselho neurocientífico para uma rotina de sucesso",
+      "id": "Saran ilmiah saraf untuk rutinitas yang sukses"
+    },
+    "cautionDesc": {
+      "ko": "**꾸준한 반복이 뇌의 리듬을 만듭니다**\\n\\n매일 반복하는 단순한 신체 활동은 의지력을 소모하지 않는 '자동화 루틴'으로 정착됩니다. 일단 뇌에 이 리듬이 새겨지면, 일을 하거나 글을 쓸 때 생기는 극심한 정신적 부하도 견뎌낼 수 있는 단단한 기초 체력적 방어벽이 형성됩니다. 하루키처럼 규칙적인 운동을 삶의 최우선 순위로 올려두고 리듬을 유지해 보세요.",
+      "en": "Simple physical activities repeated daily settle into automatic routines that do not consume willpower. Once this rhythm is engraved in the brain, it forms a solid physical shield to withstand the extreme mental load that comes from working or writing. Make regular exercise a top priority in your life and maintain the rhythm, just like Murakami.",
+      "ja": "毎日繰り返す単純な身体活動は、意志力を消耗しない「自動化ルーティン」として定着します。一度脳にこのリズムが刻まれると、仕事や執筆時に生じる極度の精神的負荷にも耐えられる頑丈な基礎体力的な防御壁が形成されます。春樹のように規則的な運動を人生の最優先事項に引き上げ、そのリズムを維持してみてください。",
+      "zh": "每天重复的简单身体活动会转化为不消耗意志力的“自动化惯例”。一旦大脑记住了这种节奏，就会形成一道坚固的体能防线，足以抵御工作或写作带来的极大精神压力。像村上春树一样，将规律运动作为生活的重中之重，并保持这种节奏。",
+      "es": "Las actividades físicas simples que se repiten diariamente se convierten en 'rutinas automatizadas' que no con sumen fuerza de voluntad. Una vez que este ritmo se graba en el cerebro, forma un sólido escudo físico para soportar la extrema carga mental que proviene de trabajar o escribir. Haz del ejercicio regular una prioridad en tu vida y mantén el ritmo, al igual que Murakami.",
+      "fr": "Les activités physiques simples répétées quotidiennement s'installent en « routines automatisées » qui ne provoquent pas de fatigue mentale. Une fois ce rythme gravé dans le cerveau, il forme un solide bouclier physique pour résister à la charge mentale extrême liée au travail ou à l'écriture. Faites de l'exercice une priorité absolue et gardez le rythme, comme Murakami.",
+      "de": "Einfache körperliche Aktivitäten, die täglich wiederholt werden, festigen sich als 'automatisierte Routinen', die keine Willenskraft kosten. Sobald dieser Rhythmus im Gehirn verankert ist, bildet er einen Schutzschild gegen extreme mentale Belastungen bei der Arbeit. Machen Sie regelmäßigen Sport zu einer Priorität in Ihrem Leben und behalten Sie den Rhythmus bei, genau wie Murakami.",
+      "pt": "As atividades físicas simples repetidas diariamente tornam-se 'rotinas automatizadas' que não consomem força de vontade. Uma vez que este ritmo se grava no cérebro, forma um sólido escudo físico para suportar a extrema carga mental decorrente do trabalho ou da escrita. Torne o exercício regular uma prioridade na sua vida e mantenha o ritmo, tal como Murakami.",
+      "id": "Aktivitas fisik sederhana yang diulang setiap hari akan menetap menjadi 'rutinitas otomatis' yang tidak memakan kemauan keras. Begitu ritme ini terpatri di otak, ia membentuk perisai fisik yang kokoh untuk menahan beban mental ekstrem yang berasal dari bekerja atau menulis."
+    },
+    "faqs": [
+      {
+        "question": {
+          "ko": "하루키는 왜 매일 10km를 달리나요?",
+          "en": "Why does Murakami run 10km every day?",
+          "ja": "ハルキはなぜ毎日10km走るのですか？",
+          "zh": "村上春树为什么每天跑10公里？",
+          "es": "¿Por qué Murakami corre 10 km todos los días?",
+          "fr": "Pourquoi Murakami court-il 10 km chaque jour ?",
+          "de": "Warum läuft Murakami jeden Tag 10 km?",
+          "pt": "Porque é que Murakami corre 10 km todos os dias?",
+          "id": "Mengapa Murakami berlari 10 km setiap hari?"
+        },
+        "answer": {
+          "ko": "소설 집필에 필요한 고도의 집중력과 지구력을 지탱하기 위해, 유산소 운동으로 뇌세포를 자극하고 물리적인 체력 기반을 구축하기 위함입니다.",
+          "en": "To sustain high concentration and endurance for writing, he stimulates brain cells with aerobic exercise and builds a solid physical base.",
+          "ja": "執筆に必要な高度な集中力と持久力を維持するため、有酸素運動で脳細胞を刺激し、頑丈な体力の土台を築くためです。",
+          "zh": "为了维持写作所需的高度专注力与持久力，他通过有酸素运动刺激脑细胞，并构建坚实的体力基础。",
+          "es": "Para mantener la alta concentración y resistencia para escribir, estimula las células cerebrales y construye una base física sólida.",
+          "fr": "Pour maintenir la concentration et l'endurance nécessaires à l'écriture, il stimule les cellules cérébrales par l'exercice aérobie.",
+          "de": "Um die Konzentration beim Schreiben aufrechtzuerhalten, stimuliert er die Gehirnzellen durch Ausdauersport.",
+          "pt": "Para manter a alta concentração e resistência para a escrita, estimula as células cerebrais com exercício aeróbico.",
+          "id": "Untuk mempertahankan konsentrasi dan daya tahan menulis, ia merangsang sel otak dengan olahraga aerobik."
+        }
+      }
+    ]
+  }
+}

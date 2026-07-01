@@ -1,0 +1,44 @@
+{
+  "potato": {
+    "ko": [
+      {
+        "question": "감자 싹이나 푸른 부위를 그냥 도려내고 먹으면 안전한가요?",
+        "answer": "싹이나 초록색 부위에는 '솔라닌'이라는 신경 독소가 들어있습니다. 섭취 시 구토나 마비를 유발하므로 초록색 겉면을 두껍게 깎아내고 싹눈 부위를 완전히 깊게 파내어 요리해야 안전합니다."
+      },
+      {
+        "question": "감자를 냉장고에 넣으면 왜 안 되나요?",
+        "answer": "감자를 4도 이하 저온 냉장하면 감자 속 전분이 당분으로 변해 단맛은 나지만, 가열 조리 시 아크릴아마이드라는 발암성 물질을 생성하게 됩니다. 통풍이 잘되는 서늘한 상온 그늘이 최선입니다."
+      }
+    ],
+    "en": [
+      {
+        "question": "Is it safe to eat potatoes after cutting off green patches or sprouts?",
+        "answer": "Sprouts and green skin contain solanine, a toxic glycolalkaloid. You must slice away green skin thickly and dig out sprout eyes deeply before cooking."
+      },
+      {
+        "question": "Why shouldn't raw potatoes be refrigerated?",
+        "answer": "Cold temperatures below 4°C convert potato starch into sugar. When cooked at high heat, this sugar reacts to form acrylamide, a potential carcinogen."
+      }
+    ],
+    "ja": [
+      {
+        "question": "ジャガイモの芽や緑色の部分を取り除いて食べれば安全ですか？",
+        "answer": "芽や緑色の部分には「ソラニン」という神経毒が含まれています。摂取すると食中毒を引き起こすため、緑色の部分は厚く剥き、芽の根元は深くくり抜いて調理してください。"
+      },
+      {
+        "question": "ジャガイモを冷蔵庫に入れてはいけない理由は何ですか？",
+        "answer": "ジャガイモを4度以下の低温で冷蔵すると、でんぷんが糖分に分解されます。この状態で加熱調理すると、発がん性物質アクリルアミドが生成されやすくなります。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "挖掉土豆发芽或变绿的部分吃安全吗？",
+        "answer": "发芽或变绿的部位含有名为龙葵素的神经毒素。食用会引起呕吐或麻痹，因此必须将变绿的表皮厚厚削掉，并将发芽部位完全深挖干净后烹饪。"
+      },
+      {
+        "question": "为什么土豆不能放进冰箱冷藏？",
+        "answer": "土豆在 4°C 以下的低温冷藏会导致其淀粉转化为糖分，虽然甜度增加，但在高温烹饪时会产生致癌物质丙烯酰胺。通风凉爽的常温避光处是最佳选择。"
+      }
+    ]
+  }
+}

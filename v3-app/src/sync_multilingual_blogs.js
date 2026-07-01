@@ -57,7 +57,7 @@ const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id']; // ko는 원
 
 // 외부 JSON 파일에서 번역 데이터 로드
 const { l10n } = JSON.parse(
-  fs.readFileSync(path.join(__dirname, 'data/blogs/ingredients.json'), 'utf-8')
+  fs.readFileSync(path.join(__dirname, 'data/blogs/ingredients/meta.json'), 'utf-8')
 );
 
 function run() {

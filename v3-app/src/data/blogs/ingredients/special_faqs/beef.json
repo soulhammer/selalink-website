@@ -1,0 +1,44 @@
+{
+  "beef": {
+    "ko": [
+      {
+        "question": "밀봉된 소고기 안쪽이 갈색으로 변했는데 상한 건가요?",
+        "answer": "아닙니다. 소고기의 미오글로빈 성분이 산소와 차단되면 일시적으로 갈색(자갈색)으로 변합니다. 개봉 후 공기 중에 15~20분 두어 붉은 선홍색으로 돌아온다면 정상입니다."
+      },
+      {
+        "question": "냉동 소고기를 안전하게 해동하는 방법은?",
+        "answer": "가장 안전한 방법은 하루 전에 냉장실로 옮겨 서서히 천천히 해동하는 것입니다. 실온이나 뜨거운 물에 해동하면 세균이 폭발적으로 증식하므로 절대 피해야 합니다."
+      }
+    ],
+    "en": [
+      {
+        "question": "The inside of my packaged beef turned brown. Is it spoiled?",
+        "answer": "No, meat pigment (myoglobin) turns brownish-red without oxygen. If it regains its bright red color after 15-20 minutes of exposure to air, it is perfectly fine."
+      },
+      {
+        "question": "What is the safest way to thaw frozen beef?",
+        "answer": "Thaw it slowly in the refrigerator overnight. Avoid thawing at room temperature or in hot water, as it promotes rapid bacterial growth."
+      }
+    ],
+    "ja": [
+      {
+        "question": "密閉された牛肉の内側が褐色に変色していますが、傷んでいますか？",
+        "answer": "いいえ、牛肉のミオグロビン成分が酸素から遮断されると、一時的に褐色になります。開封して空気に 15〜20分触れさせ、赤い鮮紅色に戻れば問題ありません。"
+      },
+      {
+        "question": "冷凍牛肉を安全に解凍する方法は？",
+        "answer": "最も安全な方法は、前日に冷蔵庫に移してゆっくりと低温解凍することです。常温や熱湯での解凍は、細菌が爆発的に増殖するため避けてください。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "密封包装的牛肉内部变褐了，是变质了吗？",
+        "answer": "不是的。牛肉中的肌红蛋白在缺氧状态下会暂时呈现褐色。打开包装在空气中静置 15-20 分钟后，若恢复鲜红色即属于正常现象。"
+      },
+      {
+        "question": "冷冻牛肉最安全的解冻方法是什么？",
+        "answer": "最安全的方法是提前一天移入冷藏室，使其缓慢解冻。避免在室温或热水中解冻，因为这会导致细菌爆发性滋生。"
+      }
+    ]
+  }
+}

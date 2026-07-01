@@ -14,11 +14,6 @@ steps:
     text: "Retire la cáscara con cuidado para que el polvo de la superficie no toque la pulpa. Corte la sandía en cubos pequeños y guárdelos en un contenedor hermético limpio con la tapa bien cerrada."
   - name: "Guarde al fondo del cajón de verduras a una temperatura estable de 0-4 °C ❄️"
     text: "Coloque el contenedor hermético al fondo del cajón de verduras. Almacenar en un lugar con fluctuaciones mínimas de temperatura mantiene la sandía crujiente y conserva su dulzura."
-faqs:
-  - question: "Is it dangerous to store cut watermelon wrapped only in plastic wrap?"
-    answer: "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
-  - question: "Can I put a whole watermelon directly in the coldest part of the fridge?"
-    answer: "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
 ---
 
 ¿Sabía que cubrir la sandía sobrante con film plástico multiplica las bacterias 3,000 veces en la superficie? Hoy, StoreSelf comparte trucos seguros aprobados por la KCA.

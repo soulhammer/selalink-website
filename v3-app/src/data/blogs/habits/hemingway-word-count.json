@@ -1,0 +1,186 @@
+{
+  "hemingway-word-count": {
+    "title": {
+      "ko": "매일 쓴 단어 수를 차트에 기록하며 스스로를 모니터링하기 (헤밍웨이 루틴)",
+      "en": "Writing While Tracking Your Daily Word Count: Ernest Hemingway's Self-Monitoring Habit",
+      "ja": "毎日の執筆単語数を記録する？アーネスト・ヘミングウェイの自己監視の習慣",
+      "zh": "每天记录写作字数？欧内斯特·海明威的自我监控习惯",
+      "es": "¿Escribir registrando tu recuento de palabras diario? El hábito de autocontrol de Ernest Hemingway",
+      "fr": "Écrire en suivant son nombre de mots quotidien : L'habitude d'autosurveillance d'Ernest Hemingway",
+      "de": "Tägliche Wortzahl erfassen: Ernest Hemingways Gewohnheit der Selbstbeobachtung",
+      "pt": "Escrever rastreando sua contagem de palavras diária: O hábito de automonitoramento de Ernest Hemingway",
+      "id": "Menulis Sembari Melacak Jumlah Kata Harian: Kebiasaan Pemantauan Diri Ernest Hemingway"
+    },
+    "description": {
+      "ko": "노벨상 수상 작가 어네스트 헤밍웨이가 매일 아침 자신의 글쓰기 단어 수를 기록했던 습관에 대해 알아봅니다.",
+      "en": "Nobel laureate Ernest Hemingway tracked his daily word counts on a wall chart. Learn how this psychological self-monitoring routine boosts long-term productivity.",
+      "ja": "ノーベル賞受賞者アーネスト・ヘミングウェイは毎日の単語数を壁の表に記録していました。この自己監視ルーティンが生産性を高める科学的理由を調べます。",
+      "zh": "诺贝尔奖得主欧内斯特·海明威在墙上的图表上记录他每天的写作字数。了解这种心理学自我监控惯例如何提升长期生产力。",
+      "es": "El premio Nobel Ernest Hemingway registraba sus palabras diarias en un gráfico en la pared. Conozca cómo esta rutina de autocontrol psicológico aumenta la productividad.",
+      "fr": "Le prix Nobel Ernest Hemingway suivait son nombre de mots quotidien sur un tableau. Découvrez comment cette routine d'autosurveillance renforce la productivité à long terme.",
+      "de": "Nobelpreisträger Ernest Hemingway hielt seine tägliche Wortzahl auf einer Wandtabelle fest. Erfahren Sie, wie diese psychologische Selbstbeobachtung die Produktivität steigert.",
+      "pt": "O prémio Nobel Ernest Hemingway registava a sua contagem de palavras diária num gráfico na parede. Saiba como esta rotina de automonitoramento aumenta a produtividade.",
+      "id": "Pemenang Nobel Ernest Hemingway melacak jumlah kata hariannya pada bagan dinding. Pelajari bagaimana rutinitas pemantauan diri psikologis ini meningkatkan produktivitas jangka panjang."
+    },
+    "authority": {
+      "ko": "어네스트 헤밍웨이의 Paris Review 인터뷰 (1958) 및 응용 행동 분석 학술지 (JABA)",
+      "en": "Ernest Hemingway's interview in The Paris Review (1958) & Journal of Applied Behavior Analysis",
+      "ja": "アーネスト・ヘミングウェイ『パリ・レビュー』インタビュー(1958) ＆ 応用行動分析学ジャーナル(Journal of Applied Behavior Analysis)",
+      "zh": "欧内斯特·海明威在《巴黎评论》的访谈(1958) 及应用行为分析期刊(Journal of Applied Behavior Analysis)",
+      "es": "Entrevista de Ernest Hemingway en The Paris Review (1958) y estudio de Journal of Applied Behavior Analysis",
+      "fr": "L'interview d'Ernest Hemingway dans The Paris Review (1958) & étude du Journal of Applied Behavior Analysis",
+      "de": "Ernest Hemingways Interview in The Paris Review (1958) & Studie im Journal of Applied Behavior Analysis",
+      "pt": "Entrevista de Ernest Hemingway na The Paris Review (1958) e estudo da Journal of Applied Behavior Analysis",
+      "id": "Wawancara Ernest Hemingway di The Paris Review (1958) & Jurnal Analisis Perilaku Terapan"
+    },
+    "intro": {
+      "ko": "《노인과 바다》, 《무기여 잘 있거라》 등으로 노벨 문학상과 퓰리처상을 동시에 수상한 미국의 대표적인 소설가 어네스트 헤밍웨이. 그의 간결하고 힘 있는 문체의 이면에는 매일 스스로를 철저히 기록하고 통제했던 전설적인 습관이 존재했습니다. 📝\\n\\n헤밍웨이는 매일 아침 글쓰기를 끝마칠 무렵, 자신이 그날 새로 쓴 단어의 개수를 세어 벽에 걸린 커다란 판지에 직접 적어 넣는 기록판(Progress Chart)을 사용했습니다. 이는 스스로에게 정직하기 위함이었으며, 하루의 노력이 시각적인 수치로 확인되어야 다음 날 다시 글을 쓸 수 있는 원동력이 생긴다고 믿었습니다. 그는 글이 아주 잘 풀리는 날도, 단 몇 마디만 겨우 적은 힘든 날도 있는 그대로의 숫자를 매일 빠짐없이 기록했습니다.\\n\\n오늘 BuildSelf에서는 헤밍웨이의 정량적 자기 기록 속에 숨겨진 과학적 이유와 현대인들이 일상에서 행동 생산성을 극대화하는 방법을 살펴봅니다.\\n\\n\\n\\n\\n---",
+      "en": "Ernest Hemingway, a master of modern American literature who won both the Nobel Prize and the Pulitzer Prize. Known for his minimalist, hard-boiled writing style, his daily discipline was equally legendary. He started writing early in the morning and, at the end of each session, counted and recorded his daily word count on a large chart on the wall. Today, BuildSelf explores the scientific reasons behind Hemingway's progress tracking and how you can apply self-monitoring to maintain daily momentum.",
+      "ja": "ノーベル賞とピューリッツァー賞を同時に受賞した、現代アメリカ文学の巨匠アーネスト・ヘミングウェイ。極限まで無駄を削ぎ落とした「ハードボイルド」な作風で知られる彼の、毎日の規律もまた伝説的でした。彼は早朝から執筆を始め、作業が終わるたびにその日書いた単語数を数え、壁に掛けた大きな表に記録しました。本日、BuildSelfではヘミングウェイの記録習慣の科学的根拠と、日常で自己監視を応用する方法を調べます。",
+      "zh": "欧内斯特·海明威是现代美国文学大师，曾荣获诺贝尔文学奖和普利策奖。他以极简、硬汉风格的文风闻名，而他每日的自律同样堪称传奇。他每天清晨便开始写作，在每次结束时，都会数出当天写作的字数，并记录在墙上的一张大图表上。今天，BuildSelf将带您探索海明威追踪进度背后的科学原理，以及您如何应用自我监控来保持每日的动力。",
+      "es": "Ernest Hemingway, un maestro de la literatura estadounidense moderna que ganó el Premio Nobel y el Premio Pulitzer. Conocido por su estilo de escritura minimalista y duro, su disciplina diaria era igualmente legendaria. Comenzaba a escribir temprano por la mañana y, al final de cada sesión, contaba y registraba su recuento diario de palabras en un gráfico en la pared. Hoy, BuildSelf analiza las razones científicas detrás de este seguimiento y cómo puedes aplicar el autocontrol para mantener el impulso diario.",
+      "fr": "Ernest Hemingway, un maître de la littérature américaine moderne qui a remporté le prix Nobel et le prix Pulitzer. Connu pour son style d'écriture minimaliste et hard-boiled, sa discipline quotidienne était tout aussi légendaire. Il commençait à écrire tôt le matin et, à la fin de chaque séance, comptait et enregistrait son nombre de mots sur un grand tableau au mur. Aujourd'hui, BuildSelf explore les raisons scientifiques de ce suivi et comment appliquer l'autosurveillance.",
+      "de": "Ernest Hemingway, ein Meister der modernen amerikanischen Literatur, der sowohl den Nobelpreis als auch den Pulitzer-Preis erhielt. Bekannt für seinen minimalistischen Schreibstil, war seine tägliche Disziplin ebenso legendär. Er begann frühmorgens mit dem Schreiben und hielt am Ende jeder Sitzung seine tägliche Wortzahl auf einer Wandtabelle fest. Heute untersucht BuildSelf die wissenschaftlichen Gründe für Hemingways Fortschrittsverfolgung und wie Sie Selbstbeobachtung im Alltag nutzen können.",
+      "pt": "Ernest Hemingway, um mestre da literatura americana moderna que ganhou o Prémio Nobel e o Prémio Pulitzer. Conhecido pelo seu estilo de escrita minimalista, a sua disciplina diária era igualmente lendária. Começava a escrever de manhã cedo e, no final de cada sessão, contava e registava a sua contagem de palavras diária num gráfico na parede. Hoje, o BuildSelf explora as razões científicas por trás do rastreamento de progresso e como aplicar o automonitoramento.",
+      "id": "Ernest Hemingway, seorang maestro sastra Amerika modern yang memenangkan Hadiah Nobel dan Hadiah Pulitzer. Dikenal dengan gaya menulisnya yang minimalis dan lugas, disiplin hariannya juga legendaris. Dia mulai menulis pagi-pagi sekali and, di akhir setiap sesi, menghitung dan mencatat jumlah kata hariannya di bagan besar di dinding. Hari ini, BuildSelf mengeksplorasi alasan ilmiah di balik pelacakan kemajuan Hemingway."
+    },
+    "whyTitle": {
+      "ko": "자기 관찰과 도파민 분비의 심리학",
+      "en": "The Psychology of Self-Monitoring and Dopamine Release",
+      "ja": "自己監視の心理学とドパミンの放出",
+      "zh": "自我监控的心理学与多巴胺释放",
+      "es": "La psicología del autocontrol y la liberación de dopamina",
+      "fr": "La psychologie de l'autosurveillance et la libération de dopamine",
+      "de": "Die Psychologie der Selbstbeobachtung und Dopaminfreisetzung",
+      "pt": "A psicologia do automonitoramento e a libertação de dopamina",
+      "id": "Psikologi Pemantauan Diri dan Pelepasan Dopamin"
+    },
+    "whyDesc": {
+      "ko": "목표 행동에 대한 정량적인 기록과 모니터링은 심리학에서 '자기 관찰(Self-Monitoring)' 효과로 불립니다.\\n\\n우리의 뇌는 행동의 결과가 정량적으로 시각화될 때 즉각적인 피드백을 인식하고 도파민을 분비합니다. 매일 스스로의 수행량을 정직하게 기록하는 행동은 모호했던 노력을 시각적 성취로 바꾸어주며, 이를 통해 다음 단계로 나아갈 수 있는 강력한 내재적 동기를 제공합니다. 헤밍웨이는 이 도파민 피드백 루프를 직관적으로 활용하여 매일 흔들림 없는 집필량을 유지할 수 있었습니다.",
+      "en": "Tracking your progress quantitatively triggers a cognitive process known in psychology as 'Self-Monitoring.' By visualizing daily output, the brain receives immediate feedback, triggering small releases of dopamine. This visual evidence of progress acts as a powerful intrinsic motivator, transforming vague efforts into structured accomplishments and boosting long-term behavioral consistency.",
+      "ja": "進捗を定量的に追跡することは、心理学で「自己監視(Self-Monitoring)」と呼ばれる認知プロセスを刺激します。毎日の成果を視覚化することで、脳は即座にフィードバックを受け取り、微量のドパミンを放出します。この視覚的な進捗の証拠は、強力な内的動機付けとして働き、曖昧な努力を構造化された成果へと変換し、長期的な行動の継続性を高めます。",
+      "zh": "定量追踪你的进度会触发心理学上称为“自我监控（Self-Monitoring）”的认知过程。通过将每日的产出可视化，大脑会收到即时反馈，从而触发微量多巴胺的释放。这种可见的进度证据可作为强大的内在驱动力，将模糊的努力转化为结构化的成就，并提升长期的行为一致性。",
+      "es": "El seguimiento cuantitativo del progreso activa un proceso cognitivo conocido en psicología como 'Autocontrol'. Al visualizar la producción diaria, el cerebro recibe retroalimentación inmediata, lo que desencadena pequeñas liberaciones de dopamina. Esta evidencia visual del progreso actúa como un poderoso motivador intrínseco, transformando esfuerzos vagos en logros estructurados.",
+      "fr": "Le suivi quantitatif du progrès déclenche un processus cognitif appelé « Autosurveillance ». En visualisant le travail accompli, le cerveau reçoit un feedback immédiat, ce qui libère de petites doses de dopamine. Cette preuve visuelle du progrès agit comme un puissant moteur intrinsèque, transformant des efforts vagues en réalisations structurées.",
+      "de": "Die quantitative Verfolgung Ihres Fortschritts löst einen kognitiven Prozess aus, der in der Psychologie als „Selbstbeobachtung“ bezeichnet wird. Durch die Visualisierung der täglichen Leistung erhält das Gehirn sofortiges Feedback, was kleine Mengen Dopamin freisetzt. Dieser sichtbare Beweis des Fortschritts wirkt als starker innerer Motivator.",
+      "pt": "Rastrear o seu progresso quantitativamente desencadeia um processo cognitivo conhecido na psicologia como 'Automonitoramento'. Ao visualizar a produção diária, o cérebro recebe feedback imediato, libertando pequenas doses de dopamina. Esta evidência visual de progresso funciona como um forte motivador intrínseco.",
+      "id": "Melacak kemajuan Anda secara kuantitatif memicu proses kognitif yang dikenal dalam psikologi sebagai 'Pemantauan Diri'. Dengan memvisualisasikan hasil harian, otak menerima umpan balik langsung, memicu pelepasan kecil dopamin. Bukti kemajuan visual ini bertindak sebagai motivator intrinsik yang kuat."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Measure your daily core output quantitatively",
+          "ja": "毎日の中心的な成果を定量的に測定する",
+          "zh": "定量测量每日的核心产出",
+          "es": "Mide tu producción principal diaria de forma cuantitativa",
+          "fr": "Mesurer quantitativement votre production principale",
+          "de": "Messen Sie Ihre tägliche Kernleistung quantitativ",
+          "pt": "Meça a sua produção principal diária quantitativamente",
+          "id": "Ukur hasil inti harian Anda secara kuantitatif"
+        },
+        "text": {
+          "en": "Instead of tracking vague goals like 'working hard,' measure a specific, countable metric such as pages read, words written, minutes of focused work, or reps completed.",
+          "ja": "「一生懸命やる」といった曖昧な目標を追跡する代わりに、読んだページ数、書いた文字数、集中した時間、完了した回数など、具体的で数えられる指標を測定します。",
+          "zh": "不要追踪如“努力工作”这样模糊的目标，而是测量具体、可计数的指标，例如阅读的页数、写作的字数、专注的时间或完成的运动组数。",
+          "es": "En lugar de hacer un seguimiento de objetivos vagos como 'trabajar duro', mide una métrica específica y contable, como páginas leídas, palabras escritas, minutos de trabajo concentrado o repeticiones completadas.",
+          "fr": "Au lieu de suivre des objectifs vagues comme « travailler dur », mesurez un indicateur précis et quantifiable, tel que le nombre de pages lues, de mots écrits, de minutes de travail concentré ou de répétitions effectuées.",
+          "de": "Anstatt vage Ziele wie „hart arbeiten“ zu verfolgen, messen Sie eine spezifische, zählbare Metrik wie gelesene Seiten, geschriebene Wörter, Minuten fokussierter Arbeit oder absolvierte Wiederholungen.",
+          "pt": "Em vez de rastrear objetivos vagos como 'trabalhar arduamente', meça uma métrica específica e quantificável, como páginas lidas, palavras escritas, minutos de trabalho focado ou repetições concluídas.",
+          "id": "Daripada melacak tujuan yang tidak jelas seperti 'bekerja keras', ukurlah metrik spesifik yang dapat dihitung seperti halaman yang dibaca, kata yang ditulis, menit kerja terfokus, atau repetisi yang diselesaikan."
+        }
+      },
+      {
+        "name": {
+          "en": "Record the numbers honestly on a visual chart",
+          "ja": "数値を視覚的な表に正直に記録する",
+          "zh": "如实将数字记录在可视化图表上",
+          "es": "Registra los números con honestidad en un gráfico visual",
+          "fr": "Enregistrer honnêtement les chiffres sur un tableau",
+          "de": "Tragen Sie die Zahlen ehrlich in eine Tabelle ein",
+          "pt": "Registe os números honestamente num gráfico visual",
+          "id": "Catat angka-angka tersebut secara jujur pada bagan visual"
+        },
+        "text": {
+          "en": "Keep a paper planner, a wall chart, or a simple spreadsheet to write down the exact numbers every single day. Make sure to record even on the days you did not perform well; honesty is crucial.",
+          "ja": "手帳や壁の表、シンプルなスプレッドシートを用意し、毎日正確な数値を書き留めます。うまくいかなかった日も含めて正直に記録することが不可欠です。",
+          "zh": "准备一个纸质计划本、墙面图表或简单的电子表格，每天写下确切的数字。即使在表现不佳的日子里，也务必如实记录；诚实至关重要。",
+          "es": "Lleva una agenda de papel, un gráfico en la pared o una hoja de cálculo simple para anotar los números exactos todos los días. Asegúrate de registrar incluso los días en que no te fue bien; la honestidad es fundamental.",
+          "fr": "Utilisez un agenda papier, un tableau mural ou un simple tableur pour noter les chiffres exacts chaque jour. Veillez à enregistrer même les jours où vous n'avez pas été performant ; l'honnêteté est essentielle.",
+          "de": "Nutzen Sie einen Papierplaner, eine Wandtabelle oder eine einfache Tabellenkalkulation, um täglich die genauen Zahlen aufzuschreiben. Tragen Sie diese auch an schlechten Tagen ehrlich ein.",
+          "pt": "Use uma agenda de papel, um gráfico na parede ou uma folha de cálculo simples para anotar os números exatos todos os dias. Certifique-se de registar mesmo nos dias em que não esteve bem; a honestidade é fundamental.",
+          "id": "Simpan perencana kertas, bagan dinding, atau spreadsheet sederhana untuk menuliskan angka pasti setiap hari. Pastikan untuk mencatat bahkan pada hari-hari Anda tidak berkinerja baik; kejujuran sangat penting."
+        }
+      },
+      {
+        "name": {
+          "en": "Focus on the act of recording itself",
+          "ja": "記録する行為そのものに集中する",
+          "zh": "专注于记录行为本身",
+          "es": "Concéntrate en el acto de registrar en sí mismo",
+          "fr": "Se concentrer sur l'acte d'enregistrement lui-même",
+          "de": "Konzentrieren Sie sich auf den Akt des Aufschreibens selbst",
+          "pt": "Concentre-se no ato de registar em si mesmo",
+          "id": "Fokus pada tindakan pencatatan itu sendiri"
+        },
+        "text": {
+          "en": "Do not judge your productivity based on a single day's low numbers. The act of recording itself builds self-awareness and maintains the momentum needed to start again the next day.",
+          "ja": "一日だけの低い数値で自分の生産性を判断しないでください。記録する行為そのものが自己認識を高め、翌日再び始めるために必要な弾みを維持します。",
+          "zh": "不要仅凭一天的低数字来判断自己的生产力。记录行为本身就能建立自我意识，并保持第二天重新开始所需的动力。",
+          "es": "No juzgues tu productividad en función de los números bajos de un solo día. El acto de registrar en sí mismo genera autoconciencia y mantiene el impulso necesario para comenzar de nuevo al día siguiente.",
+          "fr": "Ne jugez pas votre productivité sur les bas chiffres d'un seul jour. L'acte d'enregistrer en lui-même développe la conscience de soi et maintient l'élan nécessaire pour recommencer le lendemain.",
+          "de": "Beurteilen Sie Ihre Produktivität nicht anhand der niedrigen Zahlen eines einzelnen Tages. Der Akt des Aufschreibens selbst stärkt das Selbstbewusstsein und erhält den Schwung für den nächsten Tag.",
+          "pt": "Não julgue a sua produtividade com base nos números baixos de um único dia. O ato de registar em si desenvolve a autoconsciência e mantém o impulso necessário para recomeçar no dia seguinte.",
+          "id": "Jangan menilai produktivitas Anda berdasarkan angka rendah di satu hari. Tindakan mencatat itu sendiri membangun kesadaran diri dan menjaga momentum yang dibutuhkan untuk memulai lagi keesokan harinya."
+        }
+      }
+    ],
+    "cautionTitle": {
+      "ko": "성공적인 루틴을 위한 행동과학적 한마디",
+      "en": "A behavioral-scientific word for a successful routine",
+      "ja": "効果的なルーティンのための行動科学的な一言",
+      "zh": "成功惯例的行为科学建议",
+      "es": "Un consejo de la ciencia del comportamento para una rutina exitosa",
+      "fr": "Un conseil des sciences du comportement pour une routine réussie",
+      "de": "Ein verhaltenswissenschaftlicher Ratschlag für eine erfolgreiche Routine",
+      "pt": "Um conselho da ciência do comportamento para uma rotina de sucesso",
+      "id": "Saran ilmiah perilaku untuk rutinitas yang sukses"
+    },
+    "cautionDesc": {
+      "ko": "\\n  <div>\\n    <p class='text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed'>\\n      모호한 노력은 모호한 결과로 이어집니다. 자신의 행동을 구체적인 숫자로 관찰하기 시작할 때, 뇌는 비로소 정직한 자기 통제를 발휘하기 시작합니다. 숫자의 크기에 상관없이 매일 기록판에 흔적을 남기며 목표의 끈을 유지해 보세요.\\n    </p>",
+      "en": "Vague efforts lead to vague results. When you start tracking your actions with exact numbers, your brain gains objective self-awareness. Even on days when your numbers are low, the simple act of writing them down preserves your connection to the habit and prevents you from giving up. Track your progress daily and let the numbers guide your consistency.",
+      "ja": "曖昧な努力は曖昧な結果を招きます。正確な数値で行動を追跡し始めると、脳は客観的な自己認識を得ます。数値が低い日であっても、単に記録する行為そのものが習慣とのつながりを維持し、挫折を防ぎます。毎日進捗を追跡し、数値に継続性を導かせてください。",
+      "zh": "模糊的努力会导致模糊的结果。当你开始用确切的数字追踪自己的行为时，你的大脑就会获得客观的自我意识。即使在数字偏低的日子里，仅仅是写下它们这一简单的动作也能维持你与习惯的联结，防止你放弃。每天追踪你的进度，让数字指引你的坚持。",
+      "es": "Los esfuerzos vagos conducen a resultados vagos. Cuando comienzas a registrar tus acciones con números exactos, tu cerebro adquiere un autoconocimiento objetivo. Incluso en los días en que tus números son bajos, el simple acto de escribirlos preserva tu conexión con el hábito y evita que te rindas. Registra tu progreso diariamente.",
+      "fr": "Des efforts vagues mènent à des résultats vagues. Lorsque vous suivez vos actions avec des chiffres exacts, votre cerveau acquiert une conscience de soi objective. Même les jours où vos chiffres sont bas, le simple fait de les écrire maintient le lien avec l'habitude et vous évite d'abandonner.",
+      "de": "Vage Bemühungen führen zu vagen Ergebnissen. Wenn Sie beginnen, Ihre Handlungen mit genauen Zahlen zu verfolgen, gewinnt Ihr Gehirn ein objektives Selbstbewusstsein. Selbst an Tagen mit niedrigen Zahlen bewahrt das bloße Aufschreiben die Verbindung zur Gewohnheit und verhindert das Aufgeben.",
+      "pt": "Esforços vagos levam a resultados vagos. Quando começa a registar as suas ações com números exatos, o seu cérebro adquire uma autoconsciência objetiva. Mesmo nos dias em que os números são baixos, o simples ato de os escrever preserva a sua ligação ao hábito e evita que desista.",
+      "id": "Usaha yang tidak jelas membuahkan hasil yang tidak jelas. Ketika Anda mulai melacak tindakan Anda dengan angka-angka pasti, otak Anda memperoleh kesadaran diri yang objektif. Bahkan pada hari-hari ketika angka Anda rendah, tindakan sederhana untuk menuliskannya mempertahankan hubungan Anda dengan kebiasaan tersebut."
+    },
+    "faqs": [
+      {
+        "question": {
+          "ko": "헤밍웨이는 왜 매일 단어 수를 차트에 기록했나요?",
+          "en": "Why did Hemingway record his word count daily?",
+          "ja": "ヘミングウェイはなぜ毎日単語数を記録したのですか？",
+          "zh": "海明威为什么每天都在图表上记录字数？",
+          "es": "¿Por qué Hemingway registraba su cantidad de palabras diario?",
+          "fr": "Pourquoi Hemingway notait-il son nombre de mots chaque jour ?",
+          "de": "Warum notierte Hemingway täglich seine Wortanzahl?",
+          "pt": "Porque é que Hemingway registrava a sua contagem de palavras diariamente?",
+          "id": "Mengapa Hemingway mencatat jumlah katanya setiap hari?"
+        },
+        "answer": {
+          "ko": "스스로를 속이지 않고 집필 진행 상황을 객관적으로 시각화하여, 슬러프 방지 및 창작 생산성의 규칙적인 흐름을 강제하기 위함이었습니다.",
+          "en": "To objectively visualize writing progress, preventing slumps and forcing a regular flow of creative productivity without self-deception.",
+          "ja": "自分を欺くことなく執筆の進捗を客観的に可視化し、スランプを防止して創作活動の規則的な流れを保つためでした。",
+          "zh": "为了不欺骗自己地客观可视化写作进度，从而防止低谷并强迫创造性生产力的规律流动。",
+          "es": "Para visualizar el progreso de escritura, evitando bloqueos y forzando un flujo regular de productividad creativa.",
+          "fr": "Pour suivre objectivement sa progression, évitant les pannes d'inspiration et installant une régularité créative.",
+          "de": "Um den Schreibfortschritt objektiv zu visualisieren, Schreibblockaden vorzubeugen und die Produktivität zu fördern.",
+          "pt": "Para visualizar o progresso da escrita, evitando bloqueios e forçando um fluxo regular de produtividade criativa.",
+          "id": "Untuk memvisualisasikan kemajuan menulis secara objektif, mencegah kemacetan kreatif."
+        }
+      }
+    ]
+  }
+}

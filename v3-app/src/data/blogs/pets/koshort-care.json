@@ -1,0 +1,354 @@
+{
+  "koshort-care": {
+    "title": {
+      "ko": "길들여지지 않는 본능? 코리안 숏헤어의 영역 관리와 음수량 3단계 루틴",
+      "en": "An Untamed Instinct? A 3-Step Routine for Korean Shorthair Territory and Hydration",
+      "ja": "野生の野生本能？コリアンショートヘアの領域管理と飲水量3段階ルーティン",
+      "zh": "难以驯服的本能？针对野生血统的中华田园猫领地与饮水量3步惯例",
+      "es": "¿Un instinto indomable? Una rutina de 3 pasos para el territorio e hidratación del shorthair coreano",
+      "fr": "Un instinct indomptable ? Une routine en 3 étapes pour le territoire et l'hydratation du shorthair coréen",
+      "de": "Ein wilder Instinkt? Eine 3-Schritte-Routine für Territorium und Flüssigkeitszufuhr der Koreanisch Kurzhaar",
+      "pt": "Um instinto indomável? Uma rotina de 3 passos para o território e hidratação do shorthair coreano",
+      "id": "Insting yang Liar? Rutinitas 3 Langkah untuk Teritori dan Hidrasi Korean Shorthair"
+    },
+    "description": {
+      "ko": "강인한 사냥 본능을 지닌 코리안 숏헤어. 고양이 방광염 방지를 위한 올바른 음수량 보충 방법과 영역 안정감을 위한 3단계 데일리 교감 루틴을 다룹니다.",
+      "en": "Korean Shorthair, with strong hunting instincts. Learn proper hydration methods to prevent feline cystitis and a 3-step daily routine for territorial comfort.",
+      "ja": "強靭な狩猟本能を持つコリアンショートヘア。特有の膀胱炎を予防するための正しい水分補給法と、領域の安定のための3段階デイリールーティンを紹介します。",
+      "zh": "拥有强健捕猎天性的中华田园猫。介绍预防猫下泌尿道综合征的饮水方法，以及实现领域安全感的日常3步护理惯例。",
+      "es": "El shorthair coreano, con fuertes instintos de caza. Conozca los métodos de hidratación adecuados para prevenir la cistitis felina y una rutina diaria de 3 pasos para la comodidad territorial.",
+      "fr": "Le shorthair coréen, aux instincts de chasse développés. Apprenez les méthodes d'hydratation pour prévenir la cystite féline et une routine quotidienne en 3 étapes pour le confort territorial.",
+      "de": "Die Koreanisch Kurzhaar mit starkem Jagdinstinkt. Erfahren Sie mehr über die Flüssigkeitszufuhr zur Vorbeugung von Blasenentzündungen und eine tägliche 3-Schritte-Routine.",
+      "pt": "O shorthair coreano, com fortes instintos de caça. Conheça os métodos de hidratação adequados para prevenir la cistitis felina e uma rotina diária de 3 passos para o conforto territorial.",
+      "id": "Korean Shorthair, dengan insting berburu yang kuat. Pelajari metode hidrasi yang tepat untuk mencegah sistitis pada kucing dan rutinitas harian 3 langkah untuk kenyamanan teritorial."
+    },
+    "authority": {
+      "ko": "Cornell Feline Health Center 고양이 행동 백서 및 농촌진흥청 국립축산과학원 가이드",
+      "en": "Cornell Feline Health Center Behavioral Guide & NIAS Companion Animal Care Manual",
+      "ja": "コーネル猫健康センター(Cornell Feline Health Center)猫の行動学＆国立畜産科学院ガイド",
+      "zh": "康奈尔猫科健康中心行为指南与韩国国立畜产科学院伴侣动物看护手册",
+      "es": "Guía de comportamento del Cornell Feline Health Center y manual de cuidado de NIAS",
+      "fr": "Guide comportemental du Cornell Feline Health Center et manuel de soins du NIAS",
+      "de": "Körpersprache-Führer des Cornell Feline Health Centers und NIAS-Pflegehandbuch",
+      "pt": "Guia de comportamento do Cornell Feline Health Center e manual de cuidados do NIAS",
+      "id": "Panduan Perilaku Cornell Feline Health Center & Manual Perawatan Hewan Pendamping NIAS"
+    },
+    "profile": {
+      "breed": {
+        "ko": "코리안 숏헤어 (Korean Shorthair)",
+        "en": "Korean Shorthair",
+        "ja": "コリアンショートヘア",
+        "zh": "中华田园猫 (科绍特)",
+        "es": "Shorthair coreano",
+        "fr": "Shorthair coréen",
+        "de": "Koreanisch Kurzhaar",
+        "pt": "Shorthair coreano",
+        "id": "Korean Shorthair"
+      },
+      "lifespan": {
+        "ko": "13 ~ 15년",
+        "en": "13 ~ 15 years",
+        "ja": "13 ~ 15年",
+        "zh": "13 ~ 15年",
+        "es": "13 ~ 15 años",
+        "fr": "13 ~ 15 ans",
+        "de": "13 ~ 15 Jahre",
+        "pt": "13 ~ 15 anos",
+        "id": "13 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "15 ~ 18시간 (수직/야행성)",
+        "en": "15 ~ 18 hours (vertical & nocturnal)",
+        "ja": "15 ~ 18時間（垂直・夜行性）",
+        "zh": "15 ~ 18小时（垂直与夜行性）",
+        "es": "15 ~ 18 horas (vertical y nocturno)",
+        "fr": "15 ~ 18 heures (vertical et nocturne)",
+        "de": "15 ~ 18 Stunden (vertikal & nachtaktiv)",
+        "pt": "15 ~ 18 horas (vertical e noturno)",
+        "id": "15 ~ 18 jam (vertikal & nokturnal)"
+      },
+      "temperament": {
+        "ko": "독립적, 사냥 본능, 호기심 왕성",
+        "en": "Independent, Strong Hunting Instinct, Curious",
+        "ja": "独立心旺盛、狩猟本能、好奇心旺盛",
+        "zh": "独立、捕猎天性强、好奇心旺盛",
+        "es": "Independiente, Fuerte instinto de caza, Curioso",
+        "fr": "Indépendant, Fort instinct de chasse, Curieux",
+        "de": "Unabhängig, Starker Jagdtrieb, Neugierig",
+        "pt": "Independente, Forte instinto de caça, Curioso",
+        "id": "Mandiri, Insting Berburu Kuat, Penasaran"
+      }
+    },
+    "intro": {
+      "ko": "한국의 토종 고양이인 코리안 숏헤어(코숏)는 야생성이 잘 보존되어 있어 튼튼한 체격과 강인한 생명력을 자랑하는 매력적인 고양이입니다. 애교가 넘치다가도 낯선 사람에게는 경계심을 보이며, 사냥 놀이에 매우 높은 몰입도를 보입니다. 🐈\n\n하지만 이러한 특성 때문에 실내 생활을 할 때 두 가지 주요한 스트레스 요인에 직면하기 쉽습니다. 첫 번째는 수평/수직 영역의 제한에서 오는 **영역 불안감**이고, 두 번째는 유전적 요인 및 겨울철 급격한 음수량 저하로 발생하는 **특발성 방광염(FLUTD)과 요로결석**입니다. 이 두 질병은 고양이에게 극심한 고통을 주며, 반려인의 지속적이고 세밀한 생활 환경 관리가 절대적으로 요구됩니다.\n\n오늘 PetSelf에서는 코숏의 신뢰 신호를 이해하고, 방광과 영역 건강을 완벽히 챙겨주는 3단계 데일리 라이프스타일 루틴을 공개합니다.",
+      "en": "The Korean Shorthair, a native cat, boasts a sturdy build and strong vitality due to preserved wild instincts. While friendly, they can be cautious around strangers and highly focused during hunting play. 🐈\n\nHowever, these traits make them vulnerable to two indoor stressors: **territorial anxiety** from space limitations, and **Feline Lower Urinary Tract Disease (FLUTD)** or urinary stones caused by genetics and low hydration. Managing these conditions requires careful lifestyle management.\n\nToday, PetSelf explores Korean Shorthair body language and shares a 3-step daily routine to ensure hydration and territorial comfort.",
+      "ja": "韓国の在来猫であるコリアンショートヘアは、野生本能が残っているため丈夫な体格と強靭な生命力を誇る魅力的な猫です。甘えん坊な反面、見知らぬ人には警戒心を示し、おもちゃの狩り遊びには非常に高い集中力を見せます。🐈\n\nしかし、コリアンショートヘアの飼い主なら誰でも直面する2つの遺伝的な悩みがあります。1つは水平・垂直領域の制限による**領域の不安感**、もう1つは冬場の飲水量低下などから発生する**特発性膀胱炎（FLUTD）と尿路結石**です。これらは日常の細やかな環境管理が不可欠です。\n\n本日、PetSelfではコリアンショートヘアの信頼シグナルを理解し、膀胱と領域の健康を守る3段階デイリールーティンを公開します。",
+      "zh": "中华田园猫（简称科绍特）保留了优良的野生捕猎天性，拥有结实的体格和顽强的生命力。它们在熟人面前非常爱撒娇，但对陌生人十分警惕，并且极其沉迷于捕猎游戏。🐈\n\n然而，正是这些天性使它们在室内生活时容易面临两大压力源。第一是由于水平和垂直空间受限带来的**领地焦虑感**；第二是因为饮水量不足导致的**猫下泌尿道疾病（FLUTD）与尿路结石**。这些疾病会让猫咪承受巨大痛苦，极其需要家长在日常生活中进行细致入微的环境管理。\n\n今天，PetSelf 将带您解读它们的信任信号，并公开全面呵护其泌尿系统与领地健康的日常3步惯例。",
+      "es": "El shorthair coreano, un gato nativo, cuenta con una estructura robusta y una gran vitalidad debido a sus instintos salvajes conservados. Aunque son amigables, pueden ser cautelosos con los extraños y muy concentrados durante el juego de caza. 🐕\n\nSin embargo, estos rasgos los hacen vulnerables a dos factores de estrés en interiores: la **ansiedad territorial** por limitaciones de espacio y la **enfermedad de las vías urinarias inferiores felinas (FLUTD)**. El manejo de estas condiciones requiere una atención diaria cuidadosa.\n\nHoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina de cuidado diario de 3 pasos.",
+      "fr": "Le shorthair coréen, un chat indigène, possède une constitution robuste et une grande vitalité grâce à la préservation de ses instincts sauvages. Bien qu'amicaux, ils peuvent être méfiants envers les étrangers et très concentrés pendant le jeu. 🐕\n\nCependant, ces traits les rendent vulnérables à deux facteurs de stress en intérieur : l'**anxiété territoriale** due aux limites d'espace et les **maladies du bas appareil urinaire félin (MBAUF)** causées par une faible hydratation. Une gestion quotidienne de l'environnement est requise.\n\nAujourd'hui, PetSelf étudie le langage corporal de ces chats et partage une routine de soins quotidiens en 3 étapes.",
+      "de": "Die Koreanisch Kurzhaar, eine einheimische Katze, verfügt über einen robusten Körperbau und eine starke Vitalität, da ihre wilden Instinkte erhalten geblieben sind. Sie sind zwar freundlich, können aber Fremden gegenüber vorsichtig sein und sind beim Jagdspiel hochkonzentriert. 🐕\n\nDiese Eigenschaften machen sie jedoch anfällig für zwei Stressfaktoren in Innenräumen: **territoriale Ängste** aufgrund von Platzmangel und **Erkrankungen der unteren Harnwege bei Katzen (FLUTD)** durch zu geringe Flüssigkeitsaufnahme. Die Bewältigung dieser Probleme erfordert eine sorgfältige tägliche Pflege.\n\nHeute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine sichere, tägliche 3-Schritte-Pflegeroutine vor.",
+      "pt": "O shorthair coreano, um gato nativo, possui uma estrutura robusta e uma grande vitalidade devido aos seus instintos selvagens preservados. Embora amigáveis, podem ser cautelosos com estranhos e muito concentrados durante o jogo de caça. 🐕\n\nNo entanto, esses traços os tornam vulneráveis a dois estressores internos: a **ansiedade territorial** por limitações de espaço e a **doença das vias urinárias inferiores felinas (FLUTD)**. O controle dessas condições requer atenção diária cuidadosa.\n\nHoje, o PetSelf explora o linguagem corporal desses felinos e compartilha uma rotina de cuidados diários segura de 3 passos.",
+      "id": "Korean Shorthair, kucing asli Korea, memiliki fisik yang kokoh dan vitalitas yang kuat karena insting liar yang masih terjaga. Meskipun ramah, mereka bisa waspada terhadap orang asing dan sangat fokus selama permainan berburu. 🐕\n\nNamun, sifat-sifat ini membuat mereka rentan terhadap dua stresor dalam ruangan: kecemasan teritorial dari keterbatasan ruang, dan Feline Lower Urinary Tract Disease (FLUTD) atau batu kemih akibat hidrasi yang rendah. Mengelola kondisi ini membutuhkan perawatan harian yang cermat.\n\nHari ini, PetSelf mengeksplorasi bahasa tubuh kucing-kucing ini dan membagikan rutinitas perawatan harian 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "고양이의 바디 랭귀지: 최고의 신뢰 표현",
+      "en": "Feline Body Language: The Ultimate Expression of Trust",
+      "ja": "猫のボディランゲージ：最高の信頼のサイン",
+      "zh": "猫咪的身体语言：极致信任的表达",
+      "es": "Lenguaje corporal felino: la máxima expresión de confianza",
+      "fr": "Langage corporel félin : l'expression ultime de la confiance",
+      "de": "Körpersprache bei Katzen: Der ultimative Ausdruck von Vertrauen",
+      "pt": "Linguagem corporal felina: a expressão máxima de confiança",
+      "id": "Bahasa Tubuh Kucing: Ekspresi Kepercayaan Tertinggi"
+    },
+    "whyDesc": {
+      "ko": "고양이가 보호자에게 보내는 가장 강력한 신뢰의 표현 중 하나는 **'꼬리 세우기'**와 **'골골송(Purring)'**입니다. 꼬리를 하늘을 향해 수직으로 꼿꼿이 세우고 다가오는 행동은 친근함의 표시이자 소통을 원한다는 적극적인 신호입니다. 또한, 골골거리는 소리는 뇌에서 엔도르핀을 촉진해 마음을 안정시킵니다. 주의할 점은, 골골송이 신체적 통증을 완화하고 스스로를 치료하는 '자가 치유' 신호일 수도 있으므로, 만약 고양이가 어두운 곳에 숨어서 우울한 표정으로 골골 소리를 낸다면 주의 깊은 건강 상태 관찰이 필요합니다.",
+      "en": "One of the strongest expressions of trust a cat sends to its owner is **'vertical tail raising'** and **'purring'**. Approaching with a tail raised straight up is a friendly signal and a request to communicate. Also, purring stimulates endorphins in their brain, calming them down. Note that purring can also be a self-healing signal when they are in pain. If a cat hides in a dark place and purrs with a depressed expression, closely monitor their health.",
+      "ja": "猫が飼い主に見せる最も強力な信頼の表現が、**「尾を立てる」**と**「ゴロゴロ音」**です。尾を天に向かって垂直にピント立てて近づくのは、親密さの表れであり、コミュニケーションを求めるサインです。また、ゴロゴロという音は脳内でエンドルフィンを分泌させ、心を落ち着かせます。注意すべきは、この音は体調が悪い時に自らを治療する「自己治癒」のサインでもあるため、暗い場所に隠れて悲しそうに鳴る場合は健康チェックが必要です。",
+      "zh": "猫咪向家长发出信任最强烈的身体语言是**“竖起尾巴”**和**“发出呼噜声”**。尾巴垂直竖起并朝您走来是友善和渴望交流的明确信号。此外，呼噜声会刺激大脑释放内啡肽以帮助它们平静。需要注意的是，呼噜声也可能是它们在感到疼痛或不安时自我安抚的“自愈”信号。如果猫咪躲在阴暗角落，神情沮丧却持续发出呼噜声，需要家长高度关注其健康状况。",
+      "es": "Una de las mayores expresiones de confianza de un gato hacia su dueño es la **'cola vertical hacia arriba'** y el **'ronroneo'**. Acercarse con la cola erguida es una señal amistosa y de comunicación. Además, el ronroneo calma su mente. Tenga en cuenta que el ronroneo también puede ser una señal de autocuración por dolor. Si se esconde en un lugar oscuro y ronronea con expressão triste, controle su salud.",
+      "fr": "L'une des plus fortes expressions de confiance d'un chat envers son maître est la **queue dressée à la verticale** et le **ronronnement**. S'approcher avec la queue levée est un au signal amical et une demande de communication. De plus, le ronronnement calme leur esprit. Notez que le ronronnement peut aussi être un signal d'autoguérison en cas de douleur. Si le chat se cache dans un endroit sombre et ronronne avec un air abattu, surveillez-le.",
+      "de": "Einer der stärksten Vertrauensbeweise einer Katze gegenüber ihrem Besitzer ist die **senkrecht aufgerichtete Rute** und das **Schnurren**. Das Annähern mit aufgerichteter Rute ist ein freundliches Signal. Schnurren setzt Endorphine im Gehirn frei. Beachten Sie, dass Schnurren auch ein Selbstheilungssignal bei Schmerzen sein kann. Wenn sich eine Katze an einem dunklen Ort versteckt und mit traurigem Gesicht schnurrt, sollten Sie ihre Gesundheit überwachen.",
+      "pt": "Uma das maiores expressões de confiança de um gato para com o seu dono é a **'cauda erguida na vertical'** e o **'ronrono'**. Aproximar-se com a cauda erguida é um sinal amistoso de comunicação. Além disso, o ronrono acalma sua mente. Note que o ronrono também pode ser um sinal de autocura por dor. Se o gato se esconder num local escuro e ronronar com expressão triste, controle sua saúde.",
+      "id": "Salah satu ekspresi kepercayaan terkuat yang dikirimkan kucing kepada pemiliknya adalah **'menaikkan ekor secara vertikal'** dan **'mendengkur'**. Mendekat dengan ekor tegak lurus ke atas adalah sinyal ramah dan permintaan untuk berkomunikasi. Selain itu, dengkuran merangsang endorfin, menenangkan mereka. Perhatikan bahwa mendengkur juga bisa menjadi sinyal penyembuhan diri saat mereka kesakitan. Jika kucing bergeming di tempat gelap dan mendengkur dengan ekspresi tertekan, pantau kesehatan mereka."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "꼬리 세우기 (Tail Up)",
+          "en": "Tail Up",
+          "ja": "しっぽ立て (Tail Up)",
+          "zh": "竖起尾巴 (Tail Up)",
+          "es": "Cola arriba",
+          "fr": "Queue dressée",
+          "de": "Rute hoch",
+          "pt": "Cauda erguida",
+          "id": "Ekor Tegak"
+        },
+        "meaning": {
+          "ko": "보호자에 대한 강한 친근감과 긍정적인 소통 및 반가움의 의사 표시입니다.",
+          "en": "An expression of strong friendliness, positive communication, and joy toward the owner.",
+          "ja": "飼い主への強い親近感と肯定的なコミュニケーション、そして嬉しさの表れです。",
+          "zh": "对家长表达强烈的亲近感、积极交流的意愿以及喜悦之情。",
+          "es": "Una expresión de fuerte amistad, comunicación positiva y alegría hacia el dueño.",
+          "fr": "Une expression de grande amitié, de communication positive et de joie envers le maître.",
+          "de": "Ein Ausdruck von starker Freundlichkeit, positiver Kommunikation und Freude gegenüber dem Besitzer.",
+          "pt": "Uma expressão de forte amizade, comunicação positiva e alegria em relação ao dono.",
+          "id": "Ekspresi keramahan yang kuat, komunikasi positif, dan kegembiraan terhadap pemilik."
+        },
+        "response": {
+          "ko": "이때 고양이와 부드럽게 눈을 맞추거나 턱 밑을 가볍게 쓰다듬어 주며 긍정적인 교감을 나눕니다.",
+          "en": "Respond with soft eye contact or a gentle chin rub to enhance the positive bond.",
+          "ja": "この時、猫と優しく目を合わせたり、顎の下を軽く撫でてあげて肯定的な交流を交わします。",
+          "zh": "此时可与猫咪进行温柔的眼神接触，或轻轻抚摸其下巴，进行积极的双向互动。",
+          "es": "Responda con un contacto visual suave o una caricia suave en la barbilla para mejorar el vínculo.",
+          "fr": "Répondez par un contact visuel doux ou une caresse sous le menton pour renforcer le lien.",
+          "de": "Reagieren Sie mit sanftem Blickkontakt oder Kraulen am Kinn, um die Bindung zu stärken.",
+          "pt": "Responda com um contato visual suave ou um carinho no queixo para fortalecer o vínculo.",
+          "id": "Berikan kontak mata yang lembut atau belai dagu mereka untuk interaksi positif."
+        }
+      },
+      {
+        "name": {
+          "ko": "골골송 (Purring)",
+          "en": "Purring",
+          "ja": "ゴロゴロ音 (Purring)",
+          "zh": "发出呼噜声 (Purring)",
+          "es": "Ronroneo",
+          "fr": "Ronronnement",
+          "de": "Schnurren",
+          "pt": "Ronrono",
+          "id": "Mendengkur"
+        },
+        "meaning": {
+          "ko": "기분이 좋을 때 주로 내지만, 통증 완화나 불안 해소를 위한 자가 치유 시그널일 수 있습니다.",
+          "en": "Usually made when happy, but can also be a self-healing signal to relieve pain or anxiety.",
+          "ja": "嬉しい時に出すのが一般的ですが、痛みの緩和や不安解消のための自己治癒シグナルでもあります。",
+          "zh": "通常在感到快乐时发出，但也可能是缓解疼痛或焦虑的自我安抚与自愈信号。",
+          "es": "Normalmente lo hacen cuando están felices, pero también puede ser una señal de autocuración para el dolor.",
+          "fr": "Généralement émis quand il est heureux, mais peut aussi être un signal d'auto-apaisement face à la douleur.",
+          "de": "Wird meist bei Zufriedenheit erzeugt, kann aber auch ein Selbstheilungssignal bei Schmerz oder Angst sein.",
+          "pt": "Geralmente emitido quando felizes, mas também pode ser um sinal de autocura para aliviar a dor.",
+          "id": "Biasanya dilakukan saat senang, tetapi bisa juga menjadi tanda penyembuhan diri dari rasa sakit."
+        },
+        "response": {
+          "ko": "어둡고 구석진 곳에 혼자 숨어서 지속적으로 소리를 낸다면 아픈 곳이 없는지 주의 깊게 관찰해야 합니다.",
+          "en": "If they purr while hiding in dark corners, check closely to ensure they are not injured or sick.",
+          "ja": "暗い隅っこに隠れてゴロゴロ音を出している場合は、怪我や病気がないか細かく観察してください。",
+          "zh": "如果猫咪躲在阴暗角落里持续发出呼噜声，请仔细检查以确保它们没有受伤或生病。",
+          "es": "Si ronronean mientras se esconden en rincones oscuros, verifique de cerca si están enfermos.",
+          "fr": "S'il ronronne en se cachant dans un coin sombre, observez-le pour vous assurer qu'il n'est pas malade.",
+          "de": "Wenn sie schnurren, während sie sich in dunklen Ecken verstecken, untersuchen Sie sie auf Krankheiten.",
+          "pt": "Se ronronarem enquanto se escondem em cantos escuros, verifique se não estão doentes ou feridos.",
+          "id": "Jika mereka mendengkur saat bersembunyi di tempat gelap, periksa dengan teliti kesehatannya."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 수직 영역 관리 및 햇빛 캣 윈도우 오픈",
+          "en": "Morning: Vertical Space Inspection and Window View Setup",
+          "ja": "朝：垂直領域の管理と日差し窓の開放",
+          "zh": "早晨：垂直空间整理与开窗观景设置",
+          "es": "Mañana: Inspección de espacio vertical y visualización de ventanas",
+          "fr": "Matin : Inspection de l'espace vertical et vue sur l'extérieur",
+          "de": "Morgen: Vertikalbereichsprüfung und Fensterblick-Einrichtung",
+          "pt": "Manhã: Inspeção de espaço vertical e visualização de janelas",
+          "id": "Pagi: Pemeriksaan Ruang Vertikal dan Pengaturan Pemandangan Jendela"
+        },
+        "text": {
+          "ko": "아침 환기와 함께 베란다 창가나 방의 블라인드를 걷어 캣타워에서 창밖을 구경할 수 있는 환경을 만듭니다. 수직 영역이 확보되고 창밖 풍경(캣 TV)을 바라보는 시각적 자극은 실내 고양이의 무료함과 영역 제한에서 오는 스트레스를 크게 낮춰 줍니다.",
+          "en": "With morning ventilation, raise the blinds near window-side cat towers. Ensuring vertical space and allowing them to watch the outside view (Cat TV) provides mental stimulation and dramatically reduces stress caused by indoor containment.",
+          "ja": "朝の換気とともに、ベランダの窓際や部屋のブラインドを開け、キャットタワーから外を眺められるようにします。垂直方向の領域が確保され、窓の外の風景を見る視覚的な刺激は、室内猫の退屈や領域制限からくるストレスを大幅に軽減します。",
+          "zh": "早晨通风时，拉开阳台窗旁或房间的百叶窗，创造一个可以从猫爬架眺望窗外的环境。确保充足的垂直空间并提供观察窗外景色（猫咪电视）的视觉刺激，能极大降低室内猫咪因生活单调和空间受限带来的压力。",
+          "es": "Con la ventilación matutina, suba las persianas cerca de las torres para gatos de las ventanas. Asegurar el espacio vertical y permitirles ver el exterior (Cat TV) proporciona estimulación mental y reduce drásticamente el estrés por encierro.",
+          "fr": "Lors de l'aération matinale, ouvrez les stores près des arbres à chat situés près des fenêtres. Assurer un espace vertical et leur permettre de regarder l'extérieur offre une stimulation mentale et réduit le stress lié au confinement.",
+          "de": "Öffnen Sie morgens beim Lüften die Jalousien in der Nähe des Kratzbaums am Fenster. Das Einrichten von Vertikalbereichen und das Ermöglichen des Blicks nach draußen (Katzen-TV) reduziert den Stress durch das Eingesperrtsein erheblich.",
+          "pt": "Com a ventilação matinal, abra as persianas perto das torres para gatos nas janelas. Garantir o espaço vertical e permitir-lhes ver o exterior (Cat TV) fornece estimulação mental e reduz o estresse por confinamento.",
+          "id": "Bersamaan dengan ventilasi pagi, buka tirai di dekat pohon kucing di samping jendela. Memastikan ruang vertikal dan memungkinkan mereka melihat pemandangan luar memberikan stimulasi mental dan secara dramatis mengurangi stres akibat kurungan."
+        }
+      },
+      {
+        "name": {
+          "ko": "낮/오후: 15분간의 사냥 모사 놀이 루틴",
+          "en": "Afternoon: 15-Minute Mock Hunting Play Routine",
+          "ja": "昼・午後：15分間の狩猟模擬プレイのルーティン",
+          "zh": "下午：15分钟模拟捕猎游戏惯例",
+          "es": "Tarde: Rutina de juego de caza simulada de 15 minutos",
+          "fr": "Après-midi : Routine de jeu de chasse simulée de 15 minutes",
+          "de": "Nachmittag: 15-minütige Jagdspiel-Routine",
+          "pt": "Tarde: Rotina de jogo de caça simulada de 15 minutos",
+          "id": "Siang/Sore: Rutinitas Permainan Simulasi Berburu 15 Menit"
+        },
+        "text": {
+          "ko": "하루 1회 15분간 낚싯대 장난감을 흔들어 숨고 덮치는 야생 사냥 놀이를 수행합니다. 고양이는 타고난 포식자이므로 장난감을 끝까지 쫓아 '사냥의 성취감'을 주어야 욕구 불만이 생기지 않으며, 신체 활동량도 늘어납니다.",
+          "en": "Perform mock hunting play using wand toys for 15 minutes once a day. Since cats are natural predators, chasing toys and experiencing the 'joy of the catch' prevents frustration and increases physical activity.",
+          "ja": "1日1回15分間、おもちゃの釣り竿を振って隠れたり飛びついたりする狩り遊びをします。猫は天性の捕食者であるため、おもちゃを最後まで追いかけて「狩りの達成感」を与えることで、フラストレーションを防ぎ運動量を増やします。",
+          "zh": "每天进行一次为期15分钟的逗猫棒模拟捕猎游戏。猫是天生的捕食者，让它们追逐玩具并获得“捕猎成功的满足感”，可以防止产生挫折感，同时增加运动量。",
+          "es": "Realice un juego de caza simulado con juguetes de varita durante 15 minutos una vez al día. Dado que los gatos son depredadores naturales, perseguir juguetes y experimentar el atrapamiento previene la frustración y aumenta la actividad física.",
+          "fr": "Faites un jeu de chasse simulé avec un plumeau ou une canne à pêche pendant 15 minutes par jour. Les chats étant des prédateurs, chasser les jouets et faire l'expérience de la capture prévient la frustration et augmente l'activité.",
+          "de": "Spielen Sie einmal täglich 15 Minuten lang Jagdspiele mit Katzenangeln. Da Katzen Raubtiere sind, verhindert das Jagen von Spielzeug Frustration und erhöht die Bewegung.",
+          "pt": "Realize um jogo de caça simulado com brinquedos de varinha por 15 minutos uma vez ao dia. Dado que os gatos são predadores naturais, perseguir brinquedos e experimentar a captura previne a frustração e aumenta a atividade física.",
+          "id": "Lakukan permainan simulasi berburu menggunakan mainan pancingan selama 15 menit sekali sehari. Karena kucing adalah predator alami, mengejar mainan dan merasakan 'kegembiraan menangkap' mencegah frustrasi."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 음수처 보충 및 스트레스 이완 브러싱",
+          "en": "Evening: Hydration Spot Check and Relaxation Brushing",
+          "ja": "夜：水飲み場の点検とリラックスブラシケア",
+          "zh": "晚上：水源补充与放松梳理",
+          "es": "Noche: Control de hidratación y cepillado de relajación",
+          "fr": "Soir : Contrôle de l'hydratation et brossage de relaxation",
+          "de": "Abend: Trinkstellenprüfung und Entspannungsbürsten",
+          "pt": "Noite: Controle de hidratação e escovação de relaxamento",
+          "id": "Malam: Pemeriksaan Tempat Hidrasi dan Penyisiran Relaksasi"
+        },
+        "text": {
+          "ko": "저녁에 수돗물이나 정수기 물그릇을 신선한 물로 교체하고, 집안 곳곳에 최소 3개 이상의 음수처를 마련해 음수를 독려합니다. 또한, 잠들기 전 뺨이나 턱 아래 등 페로몬이 방출되는 취선을 부드러운 전용 빗으로 빗어주어 정서적 이완을 유도합니다.",
+          "en": "Replace all water bowls with fresh water and maintain at least three drinking stations around the house to encourage hydration. Before bed, gently brush scent gland areas like the cheeks and chin to induce emotional relaxation.",
+          "ja": "夜に水飲み場の水を新鮮な水に換え、家の中に少なくとも3箇所以上の給水スポットを設置して飲水を促します。また、寝る前に頬や顎の下などフェロモンが分泌される部位を優しいブラシでなで、情緒的な安定を促します。",
+          "zh": "晚上换上新鲜的饮用水，并在家中的不同角落放置至少3个水碗，以鼓励它们多喝水。睡觉前，用专用梳子温柔地梳理面颊和下巴等释放费洛蒙的腺体部位，以引导它们情绪放松。",
+          "es": "Cambie el agua de los tazones y mantenga al menos tres puntos de bebida en la casa para fomentar la hidratación. Antes de dormir, cepille suavemente las zonas de glándulas aromáticas como las mejillas y la barbilla.",
+          "fr": "Remplacez l'eau et maintenez au moins trois points d'eau dans la maison pour encourager l'hydratation. Avant le coucher, brossez doucement les zones des glandes odorantes comme les joues et le menton.",
+          "de": "Erneuern Sie abends das Wasser in den Näpfen und richtet Sie mindestens drei Trinkstellen ein. Bürsten Sie vor dem Schlafen die Duftdrüsenbereiche an Wangen und Kinn sanft, um die Entspannung zu fördern.",
+          "pt": "Substitua a água das tigelas e mantenha pelo menos três pontos de hidratação na casa. Antes de dormir, escove suavemente as áreas das glândulas aromáticas, como as bochechas e o queixo.",
+          "id": "Ganti semua wadah air dengan air segar dan pertahankan setidaknya tiga tempat minum di sekitar rumah untuk mendorong hidrasi. Sebelum tidur, sisir lembut area kelenjar aroma seperti pipi dan dagu."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "고양이는 왜 좁고 높은 곳만 올라가려 하나요?",
+          "answer": "고양이는 본능적으로 높은 곳에서 아래 영역을 조망할 때 지배력과 심리적 안전감을 느낍니다. 캣타워나 책장 윗부분 등 수직 공간이 부족하면 영역 스트레스를 받게 됩니다."
+        },
+        {
+          "question": "고양이 방광염을 예방하는 가장 좋은 방법은 무엇인가요?",
+          "answer": "방광염 예방의 핵심은 음수량 증대입니다. 밥그릇과 떨어진 곳에 물그릇을 여러 개 배치하고, 흐르는 물(분수 정수기)을 선호하는 고양이의 성향을 활용해야 합니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "Why do cats always climb to high and narrow spaces?",
+          "answer": "Cats instinctively feel safe and dominant when surveying their territory from high places. A lack of vertical space, like cat towers, leads to territorial stress."
+        },
+        {
+          "question": "What is the best way to prevent feline cystitis?",
+          "answer": "The key is increasing hydration. Place multiple water bowls away from food, and utilize fountain drinking systems to appeal to their preference for running water."
+        }
+      ],
+      "ja": [
+        {
+          "question": "猫はなぜ狭くて高い場所ばかりに登るのですか？",
+          "answer": "猫は本能的に高い場所から自分のテリトリーを見下ろすことで、優位性と心理的な安全感を感じます。キャットタワーなどの垂直空間が足りないと領域ストレスを受けやすくなります。"
+        },
+        {
+          "question": "猫の膀胱炎を予防する最良の方法は何ですか？",
+          "answer": "予防の鍵は飲水量を増やすことです。フード皿から離れた場所に水飲み場を複数設置し、流れる水（給水器）を好む猫の性質を活かすのが効果的です。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "猫为什么总喜欢往狭窄且高的地方爬？",
+          "answer": "猫在本能上通过居高临下俯瞰自己的领地来获得掌控感和安全感。如果缺乏猫爬架等垂直空间，会导致它们产生严重的领地压力。"
+        },
+        {
+          "question": "预防猫膀胱炎最有效的方法是什么？",
+          "answer": "预防的关键在于增加饮水量。将水碗放置在远离猫粮盆的多个地方，并利用猫咪偏爱流动水源的特性使用分水式猫咪饮水机。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Por qué a los gatos les gusta subirse a lugares altos y estrechos?",
+          "answer": "Los gatos se sienten seguros y dominantes cuando vigilan su territorio desde las alturas. La falta de espacio vertical provoca estrés territorial."
+        },
+        {
+          "question": "¿Cuál es la mejor manera de prevenir la cistitis felina?",
+          "answer": "La clave es aumentar la hidratación. Coloque varios tazones de agua lejos de la comida y use fuentes de agua corriente."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Pourquoi les chats montent-ils toujours dans des espaces étroits et élevés ?",
+          "answer": "Les chats se sentent en sécurité et dominants lorsqu'ils surveillent leur territoire depuis les hauteurs. Un manque d'espace vertical entraîne du stress."
+        },
+        {
+          "question": "Quelle est la meilleure façon de prévenir la cystite féline ?",
+          "answer": "La clé est d'augmenter l'hydratation. Placez plusieurs bols d'eau loin de la nourriture et utilisez des fontaines à eau."
+        }
+      ],
+      "de": [
+        {
+          "question": "Warum klettern Katzen immer auf hohe und enge Plätze?",
+          "answer": "Katzen fühlen sich sicher und dominant, wenn sie ihr Revier von oben betrachten. Ein Mangel an Vertikalbereichen führt zu Revierstress."
+        },
+        {
+          "question": "Wie beugt man einer Blasenentzündung bei Katzen am besten vor?",
+          "answer": "Der Schlüssel liegt in der Erhöhung der Flüssigkeitszufuhr. Stellen Sie mehrere Wasserschalen abseits des Futters auf und nutzen Sie Trinkbrunnen."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Por que os gatos sempre sobem para espaços altos e estreitos?",
+          "answer": "Os gatos sentem-se instintivamente seguros e dominantes ao vigiar o seu território a partir de locais altos. A falta de espaço vertical causa estresse territorial."
+        },
+        {
+          "question": "Qual é a melhor maneira de prevenir a cistite felina?",
+          "answer": "A chave é aumentar a hidratação. Coloque várias tigelas de água longe da comida e use fontes de água corrente."
+        }
+      ],
+      "id": [
+        {
+          "question": "Mengapa kucing selalu memanjat tempat yang tinggi dan sempit?",
+          "answer": "Kucing secara naluriah merasa aman dan dominan saat mengawasi wilayahnya dari tempat tinggi. Kurangnya ruang vertikal menyebabkan stres teritorial."
+        },
+        {
+          "question": "Bagaimana cara terbaik untuk mencegah sistitis pada kucing?",
+          "answer": "Kuncinya adalah meningkatkan hidrasi. Letakkan beberapa wadah air jauh dari makanan, dan gunakan sistem air mancur."
+        }
+      ]
+    }
+  }
+}

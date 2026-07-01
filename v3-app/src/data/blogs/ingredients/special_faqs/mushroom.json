@@ -1,0 +1,44 @@
+{
+  "mushroom": {
+    "ko": [
+      {
+        "question": "버섯을 보관 전에 절대 물로 씻으면 안 되는 이유는?",
+        "answer": "버섯은 스펀지처럼 주변 수분을 빠르게 흡수합니다. 물이 닿으면 갈변이 일어나고 쫄깃한 식감과 고유의 향이 소실되며 하루 만에 곰팡이가 슬어 썩어버립니다. 요리 직전에 가볍게 털어내세요."
+      },
+      {
+        "question": "버섯이 끈적거리고 신맛이 나는데 먹어도 되나요?",
+        "answer": "아닙니다. 표면이 미끈거리거나 시큼한 냄새, 신맛이 난다면 균류의 부패 작용이 일어난 상태이므로 식중독 예방을 위해 즉시 전량 폐기해야 합니다."
+      }
+    ],
+    "en": [
+      {
+        "question": "Why should mushrooms never be washed before storage?",
+        "answer": "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
+      },
+      {
+        "question": "My mushrooms are slimy and smell slightly sour. Are they safe?",
+        "answer": "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
+      }
+    ],
+    "ja": [
+      {
+        "question": "キノコを保存前に絶対に水洗いしてはいけない理由は何ですか？",
+        "answer": "キノコはスポンジのように周囲の水分を急速に吸収します。水がつくと褐変が起こり、食感や香りが失われるだけでなく、カビが発生して腐ってしまいます。"
+      },
+      {
+        "question": "キノコがベタベタして酸っぱい味がしますが、食べてもいいですか？",
+        "answer": "いいえ、表面がぬめったり酸っぱい臭い・味がする場合は細菌が繁殖しています。食中毒防止のため、直ちに廃棄してください。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "为什么蘑菇在存放前绝对不能洗？",
+        "answer": "蘑菇像海绵一样会迅速吸收周围的水分。接触水会导致变褐，失去弹性和特有香气，且在一天内就会滋生霉菌腐烂。"
+      },
+      {
+        "question": "蘑菇表面发黏且有酸味还能吃吗？",
+        "answer": "不能。表面发黏、有酸味或异味表明已经发生变质，为了预防食物中毒，必须立即全部扔掉。"
+      }
+    ]
+  }
+}

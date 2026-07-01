@@ -1,0 +1,44 @@
+{
+  "avocado": {
+    "ko": [
+      {
+        "question": "설익은 아보카도를 냉장고에 넣으면 안 되나요?",
+        "answer": "네, 덜 익은 초록색 아보카도를 저온 냉장하면 숙성이 완전히 멈추고 냉해를 입어 속이 검게 변합니다. 반드시 상온에서 겉껍질이 갈색으로 변할 때까지 완숙한 후 냉장 보관하세요."
+      },
+      {
+        "question": "남은 아보카도를 보관하는 방법은?",
+        "answer": "자르고 남은 아보카도는 씨를 남겨둔 채 표면에 레몬즙이나 올리브 오일을 얇게 바르고 밀폐 용기에 넣어 냉장 보관하면 갈변을 최소화할 수 있습니다."
+      }
+    ],
+    "en": [
+      {
+        "question": "Can I refrigerate unripe avocados?",
+        "answer": "No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling."
+      },
+      {
+        "question": "How do I store a cut avocado half?",
+        "answer": "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
+      }
+    ],
+    "ja": [
+      {
+        "question": "未熟なアボカドを冷蔵庫に入れてもいいですか？",
+        "answer": "いいえ、青く硬いアボカドを低温冷蔵すると追熟が完全に止まり、低温障害を起こして中身が黒く変色します。必ず常温で皮が茶色くなるまで完熟させてから冷蔵してください。"
+      },
+      {
+        "question": "残ったアボカドの保存方法は？",
+        "answer": "カットして残ったアボカドは、種を残したまま断面にレモン汁やオリーブオイルを薄く塗り、密閉容器に入れて冷蔵すると変色を最小限に抑えられます。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "未成熟的牛油果可以放进冰箱吗？",
+        "answer": "不可以。将未成熟的绿色硬牛油果冷藏会完全停止其催熟过程，并导致冻伤使果肉变黑。请务必在室温下放至外皮变褐成熟后再冷藏。"
+      },
+      {
+        "question": "切开剩下的半个牛油果怎么保存？",
+        "answer": "保留果核，在切面上薄薄地涂一层柠檬汁或橄榄油，放入密封容器中冷藏，可以最大程度地减少氧化变色。"
+      }
+    ]
+  }
+}

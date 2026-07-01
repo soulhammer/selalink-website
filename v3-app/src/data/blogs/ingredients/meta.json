@@ -1,0 +1,306 @@
+{
+  "l10n": {
+    "en": {
+      "title": "How to Store [name] Fresh: Scientific Storage Guide",
+      "desc": "Learn the best storage temperature, methods, and duration for [name] based on official safety guidelines.",
+      "whyTitle": "Why store like this? Scientific facts",
+      "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+      "guideTitle": "Scientifically Proven Storage Guide",
+      "cautionTitle": "Crucial Rules and Cautions",
+      "methodNames": {
+        "room": "Room Temperature",
+        "fridge": "Refrigerated Storage",
+        "freezer": "Frozen Storage"
+      },
+      "days": "Days",
+      "step": "STEP",
+      "authPrefix": "This storage guide is verified based on official guidelines from the",
+      "authTitle": "Verified Scientific Authority",
+      "cautionDesc": "Immediately isolate any damaged or spoiling ingredients. Storing them wet in an airtight container accelerates decay, so keep them dry or completely dehydrated before storage.",
+      "intro": "Have you ever wasted [name] due to improper storage? Today, StoreSelf shares the scientifically proven preservation guide to keep your [name] fresh longer."
+    },
+    "ja": {
+      "title": "[name]の鮮度を保つ保存方法：科学적保管ガイド",
+      "titleCorrected": "[name]の鮮度を保つ保存方法：科学的保管ガイド",
+      "desc": "公的安全基準に基づく[name]の最適な保存温度、保管方法、保存期間について解説します。",
+      "whyTitle": "なぜこのように保存するのか？科学的な事実",
+      "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+      "whyDescCorrected": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要입니다.",
+      "whyDescCorrectedCorrect": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+      "guideTitle": "科学的に検証された保存ガイド",
+      "cautionTitle": "保存時の注意点",
+      "methodNames": {
+        "room": "常温保存",
+        "fridge": "冷蔵保存",
+        "freezer": "冷凍保存"
+      },
+      "days": "日間",
+      "step": "ステップ",
+      "authPrefix": "本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。",
+      "authTitle": "公認の科学的保管基準",
+      "cautionDesc": "傷がついたり傷み始めた食材はすぐに隔離してください。水気が残った状態で密閉保存すると腐敗が早まるため、乾いた状態で保存することが重要です。",
+      "intro": "もしかして[name]の保存方法を間違えて、傷ませてしまった経験はありませんか？本日、StoreSelfでは科学的に検証された正しい[name]の保存方法をご紹介します。"
+    },
+    "zh": {
+      "title": "如何保鲜储存[name]：科学储存指南",
+      "desc": "根据官方食品安全指南，了解[name]的最佳储存温度、方式和保鲜时长。",
+      "whyTitle": "为什么要这样储存？科学原理",
+      "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+      "guideTitle": "科学验证的储存指南",
+      "cautionTitle": "储存注意事项",
+      "methodNames": {
+        "room": "常温储存",
+        "fridge": "冷藏储存",
+        "freezer": "冷冻储存"
+      },
+      "days": "天",
+      "step": "步骤",
+      "authPrefix": "本指南严格遵守以下机构公认的食品安全与储存指南：",
+      "authTitle": "官方科学验证权威",
+      "cautionDesc": "请立即隔离任何破损或变质的食材。带水密封储存会加速腐烂，因此在储存前请保持干燥或彻底晾干。",
+      "intro": "您是否曾因储存不当而浪费了[name]？今天，StoreSelf为您分享经过科学验证 of [name]保鲜储存指南，让食材持久新鲜。"
+    },
+    "es": {
+      "title": "Cómo almacenar [name] fresco: Guía científica de conservación",
+      "desc": "Descubra la mejor temperatura, métodos y duración para conservar [name] según las directrices oficiales de seguridad.",
+      "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+      "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+      "guideTitle": "Guía de almacenamiento científicamente probada",
+      "cautionTitle": "Reglas cruciales y precauciones",
+      "methodNames": {
+        "room": "Temperatura Ambiente",
+        "fridge": "Almacenamiento Refrigerado",
+        "freezer": "Almacenamiento Congelado"
+      },
+      "days": "Días",
+      "step": "PASO",
+      "authPrefix": "Esta guía de conservación cumple con las directrices oficiales de:",
+      "authTitle": "Autoridad Científica Verificada",
+      "cautionDesc": "Aísle inmediatamente los ingredientes dañados o en mal estado. Almacenarlos húmedos en un recipiente hermético acelera la descomposición; manténgalos secos antes de guardarlos.",
+      "intro": "¿Alguna vez ha tenido que tirar [name] por no guardarlo correctamente? Hoy, StoreSelf comparte la guía de conservación científicamente probada para mantener su [name] fresco por más tiempo."
+    },
+    "fr": {
+      "title": "Comment conserver [name] frais : Guide scientifique de conservation",
+      "desc": "Découvrez la température, les méthodes et la durée optimales de conservation pour [name] selon les directives de sécurité officielles.",
+      "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+      "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+      "guideTitle": "Guide de conservation scientifiquement prouvé",
+      "cautionTitle": "Règles cruciales et précautions",
+      "methodNames": {
+        "room": "Température Ambiante",
+        "fridge": "Stockage Réfrigéré",
+        "freezer": "Stockage Congelé"
+      },
+      "days": "Jours",
+      "step": "ÉTAPE",
+      "authPrefix": "Ce guide de conservation est basé sur les directives officielles de :",
+      "authTitle": "Autorité Scientifique Vérifiée",
+      "cautionDesc": "Isolez immédiatement tout ingrédient abîmé ou en début de dégradation. Conserver des aliments humides dans une boîte hermétique accélère le pourrissement ; séchez-les bien.",
+      "intro": "Avez-ce déjà jeté [name] parce qu’il était mal conservé ? Aujourd’hui, StoreSelf vous propose un guide de conservation scientifiquement prouvé pour garder votre [name] frais plus longtemps."
+    },
+    "de": {
+      "title": "Wie man [name] frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+      "desc": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für [name] basierend auf offiziellen Sicherheitsrichtlinien.",
+      "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+      "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+      "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+      "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+      "methodNames": {
+        "room": "Raumtemperatur",
+        "fridge": "Kühllagerung",
+        "freezer": "Gefrierlagerung"
+      },
+      "days": "Tage",
+      "step": "SCHRITT",
+      "authPrefix": "Dieser Leitfaden entspricht den offiziellen Richtlinien von:",
+      "authTitle": "Geprüfte wissenschaftliche Autorität",
+      "cautionDesc": "Sondern Sie beschädigte oder verderbende Lebensmittel sofort aus. Feucht verpackte Lagerung beschleunigt die Fäulnis; halten Sie sie trocken oder trocknen Sie sie vor dem Lagern vollständig.",
+      "intro": "Mussten Sie schon einmal [name] wegwerfen, weil es falsch gelagert wurde? Heute stellt Ihnen StoreSelf den wissenschaftlich geprüften Lagerungsratgeber vor, um Ihr [name] deutlich länger frisch zu halten."
+    },
+    "pt": {
+      "title": "Como armazenar [name] fresco: Guia científico de conservação",
+      "desc": "Descubra la mejor temperatura, métodos y duración de armazenamento para [name] com base nas diretrizes oficiais de segurança.",
+      "whyTitle": "Por que armazenar assim? Fatos científicos",
+      "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+      "guideTitle": "Guia de armazenamento comprovado cientificamente",
+      "cautionTitle": "Reglas cruciales e precauções",
+      "methodNames": {
+        "room": "Temperatura Ambiente",
+        "fridge": "Armazenamento Refrigerado",
+        "freezer": "Armazenamento Congelado"
+      },
+      "days": "Dias",
+      "step": "PASO",
+      "authPrefix": "Este guia de conservação segue as diretrizes oficiais de:",
+      "authTitle": "Autoridade Científica Verificada",
+      "cautionDesc": "Isole imediatamente qualquer ingrediente danificado ou estragado. Armazená-los úmidos em um recipiente fechado acelera a deterioração; mantenha-os secos antes de guardar.",
+      "intro": "Você já teve que deitar fora [name] por não o guardar corretamente? Hoje, o StoreSelf partilha o guia de conservação cientificamente comprovado para manter o seu [name] fresco por mais tempo."
+    },
+    "id": {
+      "title": "Cara Menyimpan [name] agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+      "desc": "Ketahui suhu, metode, dan masa simpan terbaik untuk [name] berdasarkan pedoman keselamatan resmi.",
+      "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+      "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+      "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+      "cautionTitle": "Aturan Penting dan Peringatan",
+      "methodNames": {
+        "room": "Suhu Ruang",
+        "fridge": "Penyimpanan Dingin",
+        "freezer": "Penyimpanan Beku"
+      },
+      "days": "Hari",
+      "step": "LANGKAH",
+      "authPrefix": "Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari:",
+      "authTitle": "Otoritas Ilmiah Terverifikasi",
+      "cautionDesc": "Segera pisahkan bahan makanan yang rusak atau mulai membusuk. Menyimpannya dalam keadaan basah di wadah kedap udara mempercepat pembusukan; pastikan kering sebelum disimpan.",
+      "intro": "Apakah Anda pernah membuang [name] karena salah menyimpannya? Hari ini, StoreSelf membagikan panduan penyimpanan terbukti ilmiah untuk menjaga [name] Anda tetap segar lebih lama."
+    },
+    "ko": {
+      "title": "[name] 신선하게 보관하는 법: 과학적 보관 가이드",
+      "desc": "공인된 안전 가이드라인에 따른 [name]의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+      "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+      "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+      "guideTitle": "과학적으로 검증된 보관 가이드",
+      "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+      "methodNames": {
+        "room": "상온 보관",
+        "fridge": "냉장 보관",
+        "freezer": "냉동 보관"
+      },
+      "days": "일",
+      "step": "STEP",
+      "authPrefix": "본 보관 가이드는 다음 기관의 공인된 가이드라인에 기초하여 검증되었습니다:",
+      "authTitle": "검증된 과학적 보관 기준"
+    }
+  },
+  "storageFaqs": {
+    "en": [
+      {
+        "question": "Should I wash ingredients with water before putting them in the refrigerator?",
+        "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+      },
+      {
+        "question": "How should I handle and store bruised or damaged parts?",
+        "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+      }
+    ],
+    "ko": [
+      {
+        "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
+        "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+      },
+      {
+        "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
+        "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+      }
+    ],
+    "ja": [
+      {
+        "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
+        "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+      },
+      {
+        "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
+        "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "把食材放进冰箱前一定要用水洗吗？",
+        "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+      },
+      {
+        "question": "碰伤或腐烂的部分应该如何处理和保存？",
+        "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+      }
+    ],
+    "es": [
+      {
+        "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
+        "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+      },
+      {
+        "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
+        "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+      }
+    ],
+    "fr": [
+      {
+        "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
+        "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+      },
+      {
+        "question": "Comment gérer et conserver les parties abîmées ?",
+        "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+      }
+    ],
+    "de": [
+      {
+        "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
+        "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+      },
+      {
+        "question": "Wie lagert man beschädigte Stellen?",
+        "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+      }
+    ],
+    "pt": [
+      {
+        "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
+        "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+      },
+      {
+        "question": "Como tratar e guardar partes machucadas?",
+        "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+      }
+    ],
+    "id": [
+      {
+        "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
+        "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+      },
+      {
+        "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
+        "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+      }
+    ]
+  },
+  "sourceMapLang": {
+    "en": {
+      "USDA": "USDA",
+      "FDA": "FDA",
+      "WHO": "WHO",
+      "MFDS": "MFDS",
+      "RDA": "RDA",
+      "NIFS": "NIFS",
+      "KCA": "KCA",
+      "CDC": "CDC",
+      "FSA": "FSA",
+      "EFSA": "EFSA"
+    },
+    "ja": {
+      "USDA": "米国農務省(USDA)",
+      "FDA": "米国食品医薬品局(FDA)",
+      "WHO": "世界保健機関(WHO)",
+      "MFDS": "食品医薬品安全処(MFDS)",
+      "RDA": "農村振興庁(RDA)",
+      "NIFS": "国立水産科学部(NIFS)",
+      "KCA": "韓国消費者院(KCA)",
+      "CDC": "CDC",
+      "FSA": "FSA",
+      "EFSA": "EFSA"
+    },
+    "zh": {
+      "USDA": "美国农务部(USDA)",
+      "FDA": "美国食品药品监督管理局(FDA)",
+      "WHO": "世界卫生组织(WHO)",
+      "MFDS": "韩国食品医药品安全处(MFDS)",
+      "RDA": "韩国农村振兴厅(RDA)",
+      "NIFS": "韩国国立水产科学部(NIFS)",
+      "KCA": "韩国消费者院(KCA)",
+      "CDC": "CDC",
+      "FSA": "FSA",
+      "EFSA": "EFSA"
+    }
+  }
+}

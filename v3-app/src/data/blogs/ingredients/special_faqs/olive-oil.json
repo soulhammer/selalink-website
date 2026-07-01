@@ -1,0 +1,44 @@
+{
+  "olive-oil": {
+    "ko": [
+      {
+        "question": "올리브 오일이 냉장고에서 하얗게 굳었는데 상한 건가요?",
+        "answer": "아닙니다. 엑스트라 버진 올리브 오일은 온도가 8~10도 이하로 떨어지면 굳어지는 자연스러운 응고 현상이 발생합니다. 상온에 두면 투명한 액체 상태로 정상 복귀되며 품질에도 전혀 지장이 없습니다."
+      },
+      {
+        "question": "올리브 오일은 꼭 어두운 병에 보관해야 하나요?",
+        "answer": "네, 올리브유는 빛(자외선)에 노출되면 산화가 빠르게 진행됩니다. 반드시 빛을 차단하는 어두운 유리병에 밀봉하여 서늘한 그늘에 두는 것이 좋습니다."
+      }
+    ],
+    "en": [
+      {
+        "question": "My olive oil solidified and turned white in the fridge. Is it spoiled?",
+        "answer": "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
+      },
+      {
+        "question": "Should olive oil always be stored in dark bottles?",
+        "answer": "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
+      }
+    ],
+    "ja": [
+      {
+        "question": "オリーブオイルが冷蔵庫で白く固まりましたが、傷んでいますか？",
+        "answer": "いいえ、エキストラバージンオリーブオイルは温度が8〜10度以下に下がると自然に固まる性質があります。常温に戻すと透明な液体状態に戻り、品質には全く問題ありません。"
+      },
+      {
+        "question": "オリーブオイルは必ず遮光瓶に保存すべきですか？",
+        "answer": "はい、オリーブオイルは光（紫外線）にさらされると酸化が急速に進みます。必ず光を遮る暗いガラス瓶に密閉し、涼しい日陰に保管してください。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "我的橄榄油在冰箱里凝固变白了，是变质了吗？",
+        "answer": "不是的。当温度降至 8-10°C 以下时，特级初榨橄榄油会自然凝固。将其放回室温下会恢复为清澈的液体状态，对品质完全没有影响。"
+      },
+      {
+        "question": "橄榄油一定要用深色瓶子装吗？",
+        "answer": "是的，橄榄油暴露在光线（紫外线）下会迅速氧化。强烈建议将其密封储存在避光的深色玻璃瓶中，并放置在阴凉处。"
+      }
+    ]
+  }
+}

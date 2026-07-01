@@ -1,0 +1,178 @@
+{
+  "darwin-sandwalk": {
+    "title": {
+      "en": "Completed the Theory of Evolution by Walking? Charles Darwin's 'Sandwalk' Routine",
+      "ja": "砂利道を歩いて進化論を完成させた？チャールズ・ダーウィンの「サンドウォーク」思索ルーティン",
+      "zh": "通过散步完成了进化论？查尔斯·达尔文的“沙路”思索惯例",
+      "es": "¿Completó la teoría de la evolución caminando? La rutina de pensamiento 'Sandwalk' de Charles Darwin",
+      "fr": "Compléter la théorie de l'évolution en marchant ? La routine de réflexion 'Sandwalk' de Charles Darwin",
+      "de": "Die Evolutionstheorie im Gehen vollendet? Charles Darwins 'Sandwalk'-Routine",
+      "pt": "Completou a teoria da evolução caminhando? A rotina de pensamento 'Sandwalk' de Charles Darwin",
+      "id": "Menyelesaikan Teori Evolusi Sambil Berjalan? Rutinitas Berpikir 'Sandwalk' Charles Darwin"
+    },
+    "description": {
+      "en": "The great biologist Charles Darwin. Learn about his unique thinking routine of walking a gravel path, counting laps with stones, and how to practice it today.",
+      "ja": "偉大な生物学者チャールズ・ダーウィン。砂利道を歩き, 石で周回を記録しながら複雑な理論を整理した彼の独特な思索法と, 現代的な実践法を紹介します。",
+      "zh": "倾听伟大的生物学家查尔斯·达尔文。探索他每天在沙石路上漫步、通过移动石头记录圈数来理清复杂理论的独特思考法，以及现代实践指南。",
+      "es": "El gran biólogo Charles Darwin. Conozca su rutina de pensamiento única de caminar por un sendero de grava, contar vueltas con piedras y cómo practicarla hoy en día.",
+      "fr": "Le grand biologiste Charles Darwin. Découvrez sa routine de réflexion unique consistant à marcher sur un sentier de gravier, à compter les tours avec des pierres, et comment la pratiquer aujourd'hui.",
+      "de": "Der große Biologe Charles Darwin. Erfahren Sie mehr über seine einzigartige Denkroutine auf einem Kiesweg, bei der er Runden mit Steinen zählte, und wie Sie sie heute anwenden können.",
+      "pt": "O grande biólogo Charles Darwin. Conheça sua rotina única de pensamento ao caminhar por um caminho de cascalho, contando voltas com pedras, e como praticá-la hoje.",
+      "id": "Biolog hebat Charles Darwin. Pelajari tentang rutinitas berpikir uniknya dengan berjalan di jalan kerikil, menghitung putaran dengan batu, & cara mempraktikkannya hari ini."
+    },
+    "authority": {
+      "en": "The Autobiography of Charles Darwin & Stanford University Study on Walking and Creativity",
+      "ja": "チャールズ・ダーウィン 自叙伝 ＆ スタンフォード大学 徒歩と創造性の相関関係研究",
+      "zh": "查尔斯·达尔文自传及斯坦福大学步行与创造力相关性研究",
+      "es": "Autobiografía de Charles Darwin y estudio de la Universidad de Stanford sobre el caminar y la creatividad",
+      "fr": "L'autobiographie de Charles Darwin et l'étude de l'Université de Stanford sur la marche et la créativité",
+      "de": "Die Autobiographie von Charles Darwin & Studie der Stanford University über Gehen und Kreativität",
+      "pt": "Autobiografia de Charles Darwin e estudo da Universidade de Stanford sobre caminhada e criatividade",
+      "id": "Otobiografi Charles Darwin & Penelitian Universitas Stanford tentang Berjalan dan Kreativitas"
+    },
+    "intro": {
+      "en": "Charles Darwin, the man who brought the greatest revolution to scientific thinking in human history by writing 'The Origin of Species' explaining the evolution of organisms based on natural selection. Where did the great evolutionary inspirations that changed the paradigm of humanity come from? Darwin spent his life researching at Down House, a quiet village near London. Every morning and afternoon, he walked the 'Sandwalk,' a gravel and dirt path he built around his house. He called this path the 'Thinking Path,' and at the start of his walk, he stacked 5 or 6 small stones at the corner, kicking one away each time he completed a lap to keep track of how many laps he had walked. Today, BuildSelf explores the scientific principles of Darwin's 'Sandwalk' routine and how modern people can apply it to boost creativity.",
+      "ja": "自然選択説に基づいて生物の進化を説明した『種の起源』を著し, 人類史において科学的思考に最大の革命をもたらしたチャールズ・ダーウィン。人類のパラダイムを変えた偉大な進化論的インスピレーションは, 一体どこから誕生したのでしょうか？ダーウィンはロンドン近郊の静かな田舎町ダウン・ハウス（Down House）で生涯研究に専念しました。彼は毎日午前と午後, 自宅の周りに自ら整備した砂利と土の道である「サンドウォーク（Sandwalk）」を歩きました。本日、BuildSelfではダーウィンが毎日守り続けた「サンドウォーク」思索ルーティンの科学的な作動原理と, 現代人がこれを応用して創造性を高める方法を紹介します。",
+      "zh": "查尔斯·达尔文撰写了《物种起源》，以自然选择学说解释生物进化，为人类历史上的科学思维带来了最大变革。改变人类范式的伟大进化论灵感究竟源自何处？达尔文在伦敦近郊安静的唐恩村（Down House）度过了他专注于研究的一生。他每天上午和下午都会绕着自己亲手在房子周围铺设的沙石小路——“沙路（Sandwalk）”散步。他将这条路称为“思索之路”，在开始散步时，他会在拐角处堆放5到6块小石头，每走完一圈就用脚踢开一块，以此记录自己走了多少圈。今天，BuildSelf将带您探索达尔文每天坚持的“沙路”思索惯例的科学原理，以及现代人如何应用它来激发创造力。",
+      "es": "Charles Darwin, el hombre que trajo la mayor revolución al pensamiento científico en la historia de la humanidad al escribir 'El origen de las especies', explicando la evolución de los organismos basada en la selección natural. ¿De dónde surgieron las grandes inspiraciones evolutivas que cambiaron el paradigma de la humanidad? Darwin pasó su vida investigando en Down House, un pueblo tranquilo cerca de Londres. Cada mañana y tarde, caminaba por el 'Sandwalk', un sendero de grava y tierra que construyó al rededor de su casa. Llamó a este camino el 'Sendero del Pensamiento', y al comienzo de su caminata, apilaba 5 o 6 piedras pequeñas en la esquina, pateando una cada vez que completaba una vuelta para llevar un registro de cuántas vueltas había caminado. Hoy, BuildSelf explora los principios científicos de la rutina de Darwin y cómo los profesionales modernos pueden aplicarla para aumentar la creatividad.",
+      "fr": "Charles Darwin, l'homme qui a apporté la plus grande révelation à la pensée scientifique de l'histoire humaine en écrivant « L'Origine des espèces », expliquant l'évolution des organismes basée sur la sélection naturelle. D'où venaient les grandes inspirations de Darwin ? Il a passé sa vie à Down House, un village tranquille près de Londres. Chaque matin et après-midi, il parcourait le « Sandwalk », un sentier de gravier et de terre qu'il avait aménagé autour de sa maison. Il appelait ce sentier le « Sentier de la Réflexion » et, au début de sa marche, il empilait 5 ou 6 petites pierres dans un coin, en jetant une à chaque tour pour savoir combien de tours il avait faits. Aujourd'hui, BuildSelf explore les principes scientifiques de la routine « Sandwalk » de Darwin et comment l'appliquer pour stimuler la créativité.",
+      "de": "Charles Darwin, der Mann, der mit seinem Werk 'Die Entstehung der Arten' die größte Revolution des wissenschaftlichen Denkens in der Menschheitsgeschichte auslöste. Woher stammten die evolutionären Inspirationen, die das Paradigma der Menschheit veränderten? Darwin verbrachte sein Leben mit Forschungen im Down House, einem ruhigen Dorf in der Nähe von London. Jeden Morgen und Nachmittag ging er den 'Sandwalk', einen Kies- und Erdweg, den er um sein Haus herum angelegt hatte. Er nannte diesen Weg den 'Denkweg'. Zu Beginn seines Spaziergangs stapelte er fünf oder sechs kleine Steine an einer Ecke und stieß bei jeder Runde einen Stein weg, um zu wissen, wie viele Runden er bereits gegangen war. Heute untersucht BuildSelf die wissenschaftlichen Prinzipien von Darwins 'Sandwalk'-Routine und wie moderne Menschen sie nutzen können, um ihre Kreativität zu steigern.",
+      "pt": "Charles Darwin, o homem que trouxe a maior revolução ao pensamento científico na história da humanidade al escrever 'A Origem das Espécies', explicando la evolução dos organismos com base na seleção natural. De onde surgiram as grandes inspirações evolutivas que mudaram o paradigma da humanidade? Darwin passou a vida investigando na Down House, uma vila tranquila perto de Londres. Todas as manhãs e tardes, caminhava pelo 'Sandwalk', um caminho de cascalho e terra que construiu ao redor de sua casa. Chamou a este caminho o 'Caminho do Pensamento' e, no início da caminhada, empilhava 5 ou 6 pequenas pedras no canto, chutando uma para longe cada vez que completaba uma volta para controlar quantas voltas tinha dado. Hoje, o BuildSelf explora os princípios científicos da rotina de Darwin e como los profissionais modernos podem aplicá-la para aumentar la criatividade.",
+      "id": "Charles Darwin, pria yang membawa revolusi terbesar dalam pemikiran ilmiah dalam sejarah manusia dengan menulis 'The Origin of Species' yang menjelaskan evolusi organisme berdasarkan seleksi alam. Dari mana datangnya inspirasi evolusioner hebat yang mengubah paradigma umat manusia? Darwin menghabiskan hidupnya meneliti di Down House, sebuah desa sunyi dekat London. Setiap pagi & sore, dia berjalan di 'Sandwalk,' jalan kerikil dan tanah yang dia bangun di sekitar rumahnya. Dia menyebut jalan ini 'Jalan Berpikir,' & di awal perjalanannya, dia menumpuk 5 atau 6 batu kecil di sudut, menendang satu batu setiap kali dia menyelesaikan satu putaran untuk melacak berapa banyak putaran yang telah dia lalui. Hari ini, BuildSelf mengeksplorasi prinsip-prinsip ilmiah dari rutinitas 'Sandwalk' Darwin dan bagaimana manusia modern dapat menerapkannya untuk meningkatkan kreativitas."
+    },
+    "whyTitle": {
+      "en": "Why Walking Sparks Creative Thoughts",
+      "ja": "歩くことが創造的な思考を生み出す理由",
+      "zh": "为什么步行能激发创造性思维",
+      "es": "Por qué el caminar despierta pensamientos creativos",
+      "fr": "Pourquoi la marche suscite des pensées créatives",
+      "de": "Warum Gehen kreative Gedanken anregt",
+      "pt": "Por que caminhar desperta pensamentos criativos",
+      "id": "Mengapa Berjalan Memicu Pikiran Kreatif"
+    },
+    "whyDesc": {
+      "en": "Walking is the greatest brainstorming technique that humanity has optimized while evolving for millions of years. In fact, when walking, the brain enters the 'Default Mode Network (DMN)' state. The DMN is a neural network that is activated when the brain stops intentional focus and daydreams freely, creating new creative connections by weaving together subconscious memories and information. According to a Stanford University study, people's divergent thinking levels when walking increase by an average of over 60% compared to when sitting. Darwin intuitively knew this and advanced his research by walking the Sandwalk.",
+      "ja": "歩くという行為は, 人類が何百万年もの間進化しながら最適化してきた最高のブレインストーミング技法です。実際, 歩くとき脳は「デフォルト・モード・ネットワーク（DMN）」状態に入ります。DMNは, 脳が意図的な集中を止め, 自由に空想するときに活性化する神経ネットワークであり, 無意識の中の記憶と情報の破片を編み合わせて新しい創造的なつながりを作ります。スタンフォード大学の研究によると, 歩くときの創造的発想（Divergent Thinking）のレベルは, 静かに座っているときよりも平均60％以上急上昇することが証明されました。ダーウィンは直感的にこの事実を知り, サンドウォークを歩きながら研究を進めていたのです。",
+      "zh": "步行是人类在数百万年进化过程中优化出的最佳头脑风暴技术。事实上，散步时大脑会进入“默认模式网络（DMN）”状态。DMN是当大脑停止刻意专注、进行自由遐想时被激活的神经元网络，它通过编织无意识中的记忆和信息碎片，创造出全新的创造性联结。斯坦福大学的研究表明，人们散步时的发散性思维水平比静坐时平均高出60%以上。达尔文直觉地发现了这一事实，并用散步的方式来推进他的进化论研究。",
+      "es": "Caminar es la mayor técnica de lluvia de ideas que la humanidad ha optimizado a lo largo de millones de años de evolución. De hecho, al caminar, el cerebro entra en el estado de la 'Red Neuronal por Defecto (DMN)'. La DMN es una red que se activa cuando el cerebro detiene el enfoque intencional y divaga libremente, creando nuevas conexiones creativas al entrelazar recuerdos e información subconscientes. Según un estudio de la Universidad de Stanford, los niveles de pensamiento divergente de las personas al caminar aumentan en promedio más del 60% en comparación con cuando están sentadas. Darwin sabía esto intuitivamente y avanzó en sus investigaciones recorriendo el Sandwalk.",
+      "fr": "La marche est la plus grande technique de brainstorming que l'humanité a optimisée au cours de millions d'années d'évolution. En fait, lors de la marche, le cerveau entre dans l'état de « réseau du mode par défaut (DMN) ». Le DMN éveille un réseau qui s'active lorsque le cerveau cesse de se concentrer intentionnellement et vagabonde librement, créant de nouvelles connexions créatives en tissant des souvenirs et des informations inconscintes. Selon une étude de l'Université de Stanford, les niveaux de pensée divergente lors de la marche augmentent en moyenne de plus de 60 % par rapport à la position assise. Darwin le savait intuitivement et a fait progresser ses recherches en marchant sur le Sandwalk.",
+      "de": "Gehen ist die beste Brainstorming-Methode, die die Menschheit im Laufe von Millionen von Jahren der Evolution optimiert hat. Tatsächlich schaltet das Gehirn beim Gehen in das 'Default Mode Network (DMN)'. Das DMN ist ein neuronales Netzwerk, das aktiv ist, wenn das Gehirn sich nicht bewusst konzentriert, sondern frei tagträumt. Es verknüpft unbewusste Erinnerungen und Informationen zu neuen, kognitiven Verbindungen. Laut einer Studie der Stanford University steigt die kognitive Denkleistung (divergentes Denken) beim Gehen im Vergleich zum Sitzen um durchschnittlich über 60 % an. Darwin wusste das intensiv und trieb seine Forschung auf dem Sandwalk voran.",
+      "pt": "Caminhar é a maior técnica de brainstorming que a humanidade otimizou ao longo de milhões de anos de evolução. De fato, ao caminhar, o cérebro entra no estado da 'Rede de Modo Padrão (DMN)'. A DMN é uma rede neural que é ativada quando o cérebro interrompe o foco intencional e devaneia livremente, criando novas conexões creativas ao entrelaçar memórias e informações subconscientes. Segundo um estudio da Universidade de Stanford, os níveis de pensamento divergente das pessoas ao caminhar aumentam, em média, mais de 60% em comparação com quando estão sentadas. Darwin sabia disso intuitivamente e avançou suas pesquisas caminhando pelo Sandwalk.",
+      "id": "Berjalan adalah teknik brainstorming terbaik yang telah dioptimalkan manusia selama jutaan tahun evolusi. Faktanya, saat berjalan, otak memasuki kondisi 'Default Mode Network (DMN)'. DMN adalah jaringan saraf yang diaktifkan ketika otak menghentikan fokus yang disengaja dan melamun secara bebas, menciptakan hubungan kreatif baru dengan menenun ingatan dan informasi bawah sabar."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Set your own 'Sandwalk' path",
+          "ja": "自分だけの「サンドウォーク」散策路を決める",
+          "zh": "设定专属于你的“沙路”散步道",
+          "es": "Establecer tu propio sendero 'Sandwalk'",
+          "fr": "Définir votre propre sentier « Sandwalk »",
+          "de": "Einen eigenen 'Sandwalk'-Pfad festlegen",
+          "pt": "Estabelecer o seu próprio caminho 'Sandwalk'",
+          "id": "Tentukan jalur 'Sandwalk' Anda sendiri"
+        },
+        "text": {
+          "en": "Set up a light walking course of about 20-30 minutes with low ambient noise and contact with nature (soil, trees, etc.). The key is to reduce unnecessary brain computation for route selection by walking the same course every day.",
+          "ja": "周辺の騒音が少なく, 自然（土, 木など）に触れ合える20〜30分程度の軽い散歩コースを設定します。毎日同じコースを歩くことで, ルート選択に関する不要な脳の演算を減らすことが核心です。",
+          "zh": "选择一条大约20-30分钟、周围噪音较少且能接触自然（泥土、树木等）的轻松散步路线。核心在于每天走相同的路线，以减少大脑在路线选择上不必要的计算。",
+          "es": "Establece un recorrido de caminata ligera de unos 20 o 30 minutos con poco ruido ambiental y contacto con la naturaleza (tierra, árboles, etc.). La clave es reducir los cálculos cerebrales innecesarios para elegir la ruta caminando por el mismo recorrido todos los días.",
+          "fr": "Définissez un parcours de marche simple de 20 à 30 minutes avec peu de bruit et un contact avec la nature (terre, arbres, etc.). L'important est de parcourir le même chemin chaque jour pour éviter au cerveau de réfléchir à l'itinéraire.",
+          "de": "Richten Sie eine leichte Laufstrecke von etwa 20–30 Minuten ein, die mit geringer Lautstärke verbunden ist und Kontakt zur Natur bietet. Der Schlüssel liegt darin, jeden Tag dieselbe Strecke zu gehen, um Entscheidungen über den Weg zu vermeiden.",
+          "pt": "Defina um percurso de caminhada leve de cerca de 20 a 30 minutos com pouco ruído ambiental e contacto com a natureza (terra, árvores, etc.). A chave é reduzir os cálculos cerebrais desnecessários para escolher a rota, caminhando pelo mesmo percurso todos os dias.",
+          "id": "Tentukan jalur 'Sandwalk' Anda sendiri dengan kebisingan sekitar yang rendah dan kontak dengan alam (tanah, pohon, dll.). Kuncinya adalah mengurangi komputasi otak yang tidak perlu untuk pemilihan rute dengan berjalan di jalur yang sama setiap hari."
+        }
+      },
+      {
+        "name": {
+          "en": "Disconnect from your smartphone and pose a single question",
+          "ja": "スマートフォンを完全に遮断し、一つの問いを投げかける",
+          "zh": "彻底断开手机，抛出一个问题",
+          "es": "Desconectarte del teléfono y plantear una sola pregunta",
+          "fr": "Se déconnecter de son téléphone et poser une seule question",
+          "de": "Das Smartphone ausschalten und eine einzige Frage stellen",
+          "pt": "Desligar o telemóvel e colocar uma única questão",
+          "id": "Putuskan sambungan dari ponsel dan ajukan satu pertanyaan"
+        },
+        "text": {
+          "en": "Keep your smartphone deep in your pocket and do not look at the screen. At the start of the walk, float a single clear question you are recently contemplating or planning in your mind, and just walk without forcing yourself to solve it.",
+          "ja": "スマートフォンはポケットに深く入れ、画面を絶対に見ません。歩き始めに、最近悩んでいることや企画段階にある一つの明確な問いを頭の中に軽く浮かべ、それについて無理に解決しようとせず、ただ歩みを進めます。",
+          "zh": "将手机放进口袋深处，绝不看屏幕。开始散步时，在脑海中轻轻浮现一个你最近正在思考或规划的明确问题，然后只管迈步，不要强迫自己去解决它。",
+          "es": "Mantén el teléfono en el bolsillo y no mires la pantalla. Al comenzar la caminata, plantea mentalmente una sola pregunta clara que estés contemplando o planificando recientemente, y simplemente camina sin obligarte a resolverla.",
+          "fr": "Gardez votre téléphone dans votre poche et ne regardez pas l'écran. Au début de la marche, gardez à l'esprit une seule question claire que vous étudiez ou planifiez récemment, et marchez simplement sans vous forcer à la résoudre.",
+          "de": "Lassen Sie das Smartphone in der Tasche. Stellen Sie sich zu Beginn des Spaziergangs eine klare Frage, über die Sie nachdenken, und gehen Sie einfach los, ohne sich zu zwingen, sofort eine Lösung zu finden.",
+          "pt": "Mantenha o telemóvel no bolso e não olhe para o ecrã. Ao iniciar a caminhada, coloque mentalmente uma única questão clara que esteja a contemplar ou a planejar recentemente, e caminhe simplesmente sem se forçar a resolvê-la.",
+          "id": "Simpan ponsel Anda di saku dan jangan melihat ke layar. Di awal berjalan, munculkan satu pertanyaan jelas yang baru-baru ini Anda renungkan dan berjalanlah tanpa memaksakan diri untuk menyelesaikannya."
+        }
+      },
+      {
+        "name": {
+          "en": "Record inspirations immediately after the walk",
+          "ja": "散歩が終わった直後にインスピレーションを記録する",
+          "zh": "散步结束后面即刻记录灵感",
+          "es": "Registrar las inspiraciones inmediatamente después de la caminata",
+          "fr": "Noter les inspirations immédiatement après la marche",
+          "de": "Inspirationen sofort nach dem Spaziergang aufschreiben",
+          "pt": "Registrar as inspirações imediatamente após a caminhada",
+          "id": "Catat inspirasi segera setelah berjalan kaki"
+        },
+        "text": {
+          "en": "While walking, as brain cells gently connect, clues naturally emerge from beyond consciousness. Immediately after finishing the walk, sit down and quickly scribble down the thoughts or inspirations that flashed through your mind.",
+          "ja": "歩いている間、脳細胞が緩やかにつながりながら、意識の向こう側から自然に手がかりが浮かび上がってきます。散歩を終えたらすぐに席に座り、頭をよぎった考えやインスピレーションをメモ帳や企画書に素早く書き留めます。",
+          "zh": "散步时，随着脑细胞的温和联结，线索会自然而然地从意识之外浮现。散步结束后的第一时间坐下来，将脑海中闪过的想法或灵感迅速草拟在备忘录或策划案上。",
+          "es": "Mientras caminas, a medida que las células cerebrales se conectan suavemente, las pistas surgen naturalmente más allá de la conciencia. Inmediatamente después de terminar la caminata, siéntate y anota rápidamente los pensamientos o inspiraciones que pasaron por tu mente.",
+          "fr": "Pendant que vous marchez, les cellules cérébrales se connectent doucement et des indices émergent naturellement. Dès que vous avez fini de marcher, asseyez-vous et notez rapidement les pensées ou les inspirations qui vous ont traversé l'esprit.",
+          "de": "Während des Gehens verknüpfen sich die Gehirnzellen, und Lösungen tauchen oft von selbst auf. Setzen Sie sich sofort nach dem Spaziergang hin und schreiben Sie die Gedanken oder Inspirationen auf, die Ihnen durch den Kopf gegangen sind.",
+          "pt": "Durante a caminhada, à medida que as células cerebrais se conectam suavemente, as pistas surgem naturalmente além da consciência. Imediatamente após terminar a caminhada, sente-se e anote rapidamente os pensamentos ou inspirações que lhe passaram pela mente.",
+          "id": "Saat berjalan, saat sel-sel otak terhubung dengan lembut, petunjuk secara alami muncul dari luar kesadaran. Segera setelah selesai berjalan, duduklah & segera tuliskan pikiran atau inspirasi."
+        }
+      }
+    ],
+    "cautionTitle": {
+      "en": "A brain-scientific word for a successful routine",
+      "ja": "効果的なルーティンのための脳科学的な一言",
+      "zh": "成功惯例的脑科学建议",
+      "es": "Un consejo neurocientífico para una rutina exitosa",
+      "fr": "Un conseil neuroscientifique pour une routine réussie",
+      "de": "Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine",
+      "pt": "Um conselho neurocientífico para uma rotina de sucesso",
+      "id": "Saran ilmiah saraf untuk rutinitas yang sukses"
+    },
+    "cautionDesc": {
+      "en": "The brains of modern people, who constantly pursue and calculate goals at every moment, accumulate fatigue substances like adenosine, making creative judgments difficult. Just like Darwin, turn off your smartphone for about 20 minutes a day, walk the same path mindlessly, and gift your brain the time and space to connect the answers on its own.",
+      "ja": "毎瞬間目標を追求し演算する現代人の脳は, アデノシンのような疲労物質が蓄積され, いざという時に創造的な判断を下すことを困難にします。ダーウィンのように一日20分ほどスマートフォンをオフにし, 同じ道を無心で散歩しながら, 脳が自ら答えをつなぎ合わせられる時間的・空間的なゆとりをプレゼントしてみてください。",
+      "zh": "现代人的大脑在每一刻都在追求和计算目标，这会导致腺苷等疲劳物质的积累，使我们在关键时刻难以做出创造性的判断。像达尔文一样，每天关掉手机大约20分钟，心无旁骛地走在同一条路上，给大脑提供时间和空间，让它自己联结出答案。",
+      "es": "El cerebro de las personas modernas, que constantemente persiguen y calculan objetivos en cada momento, acumula sustancias de fatiga como la adenosina, lo que dificulta los juicios creativos. Al igual que Darwin, apaga tu teléfono durante unos 20 minutos al día, camina por el mismo sendero sin pensar y regálale a tu cerebro el tiempo y el espacio para conectar las respuestas por sí mismo.",
+      "fr": "Le cerveau des personnes modernes, qui poursuivent et calculent constamment des objectifs à chaque instant, accumule des substances de fatigue comme l'adénosine, ce qui rend les jugements créatifs difficiles. Comme Darwin, éteignez votre téléphone environ 20 minutes par jour, marchez sur le même chemin sans réfléchir et offrez à votre cerveau le temps et l'espace nécessaires pour connecter les réponses par lui-même.",
+      "de": "Das Gehirn moderner Menschen, die ständig Ziele verfolgen und Berechnungen anstellen, reichert müdigkeitsfördernde Stoffe wie Adenosin an, was kreatives Denken erschwert. Schalten Sie wie Darwin das Smartphone für 20 Minuten am Tag aus, gehen Sie denselben Weg ohne Ziel und geben Sie Ihrem Gehirn Raum, um Antworten von selbst zu finden.",
+      "pt": "O cérebro das pessoas modernas, que constantemente perseguem e calculam objetivos a cada momento, acumula substâncias de fadiga como a adenosina, dificultando os julgamentos criativos. Tal como Darwin, desligue o telemóvel durante cerca de 20 minutos por dia, caminhe pelo mesmo percurso sem pensar e ofereça ao seu cérebro o tempo e o espaço para ligar as respostas por si próprio.",
+      "id": "Otak manusia modern, yang terus-menerus mengejar dan menghitung tujuan di setiap saat, menumpuk zat kelelahan seperti adenosin, membuat penilaian kreatif menjadi sulit. Sama seperti Darwin, matikan ponsel Anda selama sekitar 20 menit sehari, berjalanlah di jalur yang sama tanpa berpikir, & berikan otak Anda waktu & ruang."
+    },
+    "faqs": [
+      {
+        "question": {
+          "ko": "다윈의 샌드워크(Sandwalk)란 무엇인가요?",
+          "en": "What is Darwin's Sandwalk?",
+          "ja": "ダーウィンのサンドウォーク（Sandwalk）とは何ですか？",
+          "zh": "达尔文的沙石路（Sandwalk）是指什么？",
+          "es": "¿Qué es el Sandwalk de Darwin?",
+          "fr": "Qu'est-ce que le Sandwalk de Darwin ?",
+          "de": "Was ist Darwins Sandwalk?",
+          "pt": "O que é o Sandwalk de Darwin?",
+          "id": "Apa itu Sandwalk Darwin?"
+        },
+        "answer": {
+          "ko": "그가 매일 세 바퀴씩 걸으며 생각에 잠겼던 모래갈 길로, 가벼운 신체 활동을 통해 전두엽을 활성화하고 진화론 아이디어를 정리하던 생각의 산책로였습니다.",
+          "en": "It was a path where he walked three laps daily to activate the prefrontal cortex with light activity and organize evolution theory ideas.",
+          "ja": "彼が毎日3周歩いて思索に耽った砂利道で、軽い身体活動を通じて前頭葉を活性化し、進化論のアイデアを整理する思考の散歩道でした。",
+          "zh": "这是他每天散步三圈以通过轻度身体活动激活前额叶并整理进化论想法的思想步道。",
+          "es": "Era un sendero donde caminaba tres vueltas diarias para activar la corteza prefrontal y ordenar las ideas de la teoría de la evolución.",
+          "fr": "C'était un chemin où il marchait chaque jour pour stimuler son cortex préfrontal et ordonner ses idées sur l'évolution.",
+          "de": "Es war ein Pfad, den er täglich ging, um den präfrontalen Kortex zu aktivieren und die Evolutionstheorie zu ordnen.",
+          "pt": "Era um caminho onde caminhava três voltas diárias para ativar o córtex pré-frontal e ordenar as ideias da teoria da evolução.",
+          "id": "Itu adalah jalan tempat ia berjalan tiga putaran setiap hari untuk mengaktifkan korteks prefrontal."
+        }
+      }
+    ]
+  }
+}

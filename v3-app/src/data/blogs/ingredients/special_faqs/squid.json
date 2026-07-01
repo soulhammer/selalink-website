@@ -1,0 +1,44 @@
+{
+  "squid": {
+    "ko": [
+      {
+        "question": "생오징어 내장을 그대로 냉장 보관하면 안 되나요?",
+        "answer": "생오징어는 내장부터 급속 부패하며 냄새와 세균 번식을 일으킵니다. 구매 즉시 내장과 먹물 주머니를 제거하고 깨끗이 씻어 물기를 뺀 후 몸통과 다리를 분리해 냉장 보관하세요."
+      },
+      {
+        "question": "오징어를 해동할 때 비린내를 방지하려면?",
+        "answer": "오징어는 냉장실에서 서서히 해동하는 것이 수분 손실을 막아 질겨지는 것을 방지합니다. 해동 시 약간의 청주나 미림을 뿌려두면 해산물 특유의 잡내를 확실히 잡을 수 있습니다."
+      }
+    ],
+    "en": [
+      {
+        "question": "Can I store raw squid in the fridge without cleaning the guts?",
+        "answer": "No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling."
+      },
+      {
+        "question": "How can I prevent raw squid from smelling fishy when thawing?",
+        "answer": "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
+      }
+    ],
+    "ja": [
+      {
+        "question": "生イカの内臓をそのまま冷蔵保存してもいいですか？",
+        "answer": "生イカは内臓から急速に腐敗し、臭いや雑菌の繁殖を引き起こします。購入後すぐに内臓を取り除いてきれいに洗い、水気を切ってから冷蔵してください。"
+      },
+      {
+        "question": "イカを解凍する際、生臭さを防ぐには？",
+        "answer": "冷蔵庫でゆっくり解凍することで、水分（ドリップ）の流出と身が硬くなるのを防ぎます。解凍時に少量の酒を振っておくと、生臭さを抑えられます。"
+      }
+    ],
+    "zh": [
+      {
+        "question": "生乌贼可以带内脏直接冷藏保存吗？",
+        "answer": "不行。生乌贼会从内脏开始迅速腐烂，产生异味并滋生细菌。购买后请立即清除内脏 and 墨囊，洗净沥干水分，将身体与爪部分开后冷藏。"
+      },
+      {
+        "question": "乌贼解冻时如何防止腥味？",
+        "answer": "乌贼在冷藏室缓慢解冻可减少水分流失，防止肉质变硬。解冻时洒少许料酒或味醂可以有效去除海鲜特有的腥味。"
+      }
+    ]
+  }
+}

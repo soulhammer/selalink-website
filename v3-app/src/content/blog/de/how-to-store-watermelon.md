@@ -14,11 +14,6 @@ steps:
     text: "Schneiden Sie die Schale vorsichtig ab, damit Schmutz nicht das Fruchtfleisch berührt. Schneiden Sie die Melone in Würfel und lagern diese in einem sauberen, dichten Behälter."
   - name: "Tief im Gemüsefach bei konstanten 0–4 °C lagern ❄️"
     text: "Stellen Sie den Behälter tief in das Gemüsefach. Die Lagerung an einem Ort mit minimalen Temperaturschwankungen hält die Melone knackig und süß."
-faqs:
-  - question: "Is it dangerous to store cut watermelon wrapped only in plastic wrap?"
-    answer: "Very dangerous. Studies show wrapping cut watermelon increases bacterial levels by 3,000 times in a week. Cut the flesh into cubes and store in sealed containers."
-  - question: "Can I put a whole watermelon directly in the coldest part of the fridge?"
-    answer: "Whole watermelon suffers chilling injury in direct cold air, making the flesh mealy. Wrap it in a thick towel and store it in a cool pantry or crisper."
 ---
 
 Wussten Sie, dass das Abdecken von übrig gebliebener Wassermelone mit Frischhaltefolie die Bakterien um das 3.000-fache vermehren kann? Heute teilt StoreSelf Tipps.

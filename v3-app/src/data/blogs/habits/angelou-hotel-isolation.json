@@ -1,0 +1,178 @@
+{
+  "angelou-hotel-isolation": {
+    "title": {
+      "en": "Creating a Sacred Space for Deep Focus: Maya Angelou's Hotel Isolation Routine",
+      "ja": "深い没頭のための神聖な空間作り：マヤ・アンジェロウのホテル隔離ルーティン",
+      "zh": "创造深度专注的神圣空间：马雅·安杰卢的旅馆隔离惯例",
+      "es": "Crear un espacio sagrado para el enfoque profundo: La rutina de aislamiento en hotel de Maya Angelou",
+      "fr": "Créer un espacio sacré pour une concentration profonde : La routine d'isolement à l'hôtel de Maya Angelou",
+      "de": "Einen heiligen Raum für tiefen Fokus schaffen: Maya Angelous Hotel-Isolations-Routine",
+      "pt": "Criar um espaço sagrado para foco profundo: A rotina de isolamento em hotel de Maya Angelou",
+      "id": "Menciptakan Ruang Suci untuk Fokus Mendalam: Rutinitas Isolasi Hotel Maya Angelou"
+    },
+    "description": {
+      "en": "Renowned author and activist Maya Angelou wrote only in empty hotel rooms to minimize distraction. Learn the cognitive science behind environmental cue control.",
+      "ja": "著名な作家であり活動家のマヤ・アンジェロウは、気を散らすものを減らすために空のホテルの一室でのみ執筆しました。環境手がかり制御の認知科学を調べます。",
+      "zh": "著名作家兼活动家马雅·安杰卢只在空无一物的旅馆房间里写作，以最大程度地减少分心。了解环境线索控制背后的认知科学原理。",
+      "es": "La reconocida escritora y activista Maya Angelou escribía solo en habitaciones de hotel vacías para minimizar las distracciones. Conozca la ciencia cognitiva detrás del control de estímulos.",
+      "fr": "L'écrivaine et activiste Maya Angelou n'écrivait que dans des chambres d'hôtel vides pour limiter les distractions. Découvrez la science cognitive du contrôle des indices environnementaux.",
+      "de": "Die berühmte Autorin und Aktivistin Maya Angelou schrieb nur in leeren Hotelzimmern, um Ablenkungen zu minimieren. Erfahren Sie mehr über die kognitiven Aspekte der Umgebungskontrolle.",
+      "pt": "A renomada autora e ativista Maya Angelou escrevia apenas em quartos de hotel vazios para minimizar as distrações. Conheça a ciência cognitiva por trás do controle de pistas ambientais.",
+      "id": "Penulis dan aktivis terkenal Maya Angelou menulis hanya di kamar hotel kosong untuk meminimalkan gangguan. Pelajari ilmu kognitif di balik pengendalian isyarat lingkungan."
+    },
+    "authority": {
+      "en": "Maya Angelou's interview in The Paris Review (1990) & Cognitive Psychology Study on Distraction Control",
+      "ja": "マヤ・アンジェロウ『パリ・レビュー』インタビュー(1990) ＆ 注意散漫制御に関する認知心理学研究",
+      "zh": "马雅·安杰卢在《巴黎评论》的访谈(1990) 及关于注意力分心控制的认知心理学研究",
+      "es": "Entrevista de Maya Angelou en The Paris Review (1990) y estudio de psicología cognitiva sobre control de distracciones",
+      "fr": "L'interview de Maya Angelou dans The Paris Review (1990) & étude de psychologie cognitive sur le contrôle des distractions",
+      "de": "Maya Angelous Interview in The Paris Review (1990) & kognitionspsychologische Studie zur Ablenkungskontrolle",
+      "pt": "Entrevista de Maya Angelou na The Paris Review (1990) e estudo de psicologia cognitiva sobre o controle de distrações",
+      "id": "Wawancara Maya Angelou di The Paris Review (1990) & Studi Psikologi Kognitif tentang Pengendalian Gangguan"
+    },
+    "intro": {
+      "en": "Maya Angelou, an legendary American poet, memoirist, and civil rights activist who wrote the groundbreaking autobiography 'I Know Why the Caged Bird Sings.' To focus deeply, she checked into a local hotel room every morning at 6:30 AM. She requested the hotel staff to remove all paintings, photos, and decorations from the walls, leaving only a Bible, a dictionary, a deck of cards, and a bottle of sherry. Today, BuildSelf shares how creating an empty, distraction-free environment can drastically improve your cognitive output.",
+      "ja": "名著『歌え、翔べない鳥たちよ』で知られる伝説的なアメリカの詩人、自叙伝作家、そして人権活動家であるマヤ・アンジェロウ。彼女は深い没頭のために、毎朝6時30分に近くのホテルの部屋にチェックインしました。彼女はホテルのスタッフに、壁の絵画や写真、装飾品をすべて取り外すよう依頼し、聖書、辞書、トランプ一組、そしてシェリー酒のボトル一本だけを部屋に残しました。本日、BuildSelfでは、障害物のない空の環境を作ることが、いかに認知能力を劇的に向上させるかを紹介します。",
+      "zh": "马雅·安杰卢是美国传奇诗人、自传作家和民权活动家，著有开创性的自传《我知道笼中鸟为何歌唱》。为了深度专注，她每天早晨6:30都会入住当地的一家旅馆房间。她要求旅馆工作人员移走墙上的所有画作、照片和装饰品，房间里只留下一本圣书、一本词典、一副扑克牌和一瓶雪利酒。今天，BuildSelf将为您分享创造一个空无一物、毫无干扰的环境如何能大幅提升您的认知产出。",
+      "es": "Maya Angelou, la legendaria poeta, memorialista y activista por los derechos civiles estadounidense que escribió la innovadora autobiografía 'Sé por qué canta el pájaro enjaulado'. Para concentrarse profundamente, se registraba en una habitación de hotel local todas las mañanas a las 6:30 a. m. Solicitaba al personal del hotel que retirara todas las pinturas, fotos y decoraciones de las paredes, dejando solo una Biblia, un diccionario, una baraja de cartas y una botella de jerez. Hoy, BuildSelf comparte cómo crear un entorno vacío puede mejorar drásticamente tu rendimiento.",
+      "fr": "Maya Angelou, poétesse, mémorialiste et militante des droits civiques américaine légendaire, autrice de l'autobiographie « Je sais pourquoi chante l'oiseau en cage ». Pour se concentrer profondément, elle s'installait dans une chambre d'hôtel chaque matin à 6h30. Elle demandait au personnel de retirer tous les tableaux et décorations, ne gardant qu'une Bible, un dictionnaire, un jeu de cartes et une bouteille de sherry. Aujourd'hui, BuildSelf montre comment un environnement épuré améliore le rendement.",
+      "de": "Maya Angelou, eine legendäre amerikanische Dichterin, Autobiografin und Bürgerrechtlerin, die die bahnbrechende Autobiografie „Ich weiß, warum der gefangene Vogel singt“ schrieb. Um sich tief zu konzentrieren, mietete sie sich jeden Morgen um 6:30 Uhr in ein Hotelzimmer ein. Sie bat das Personal, alle Bilder und Dekorationen zu entfernen, sodass nur eine Bibel, ein Wörterbuch, ein Kartenspiel und eine Flasche Sherry übrig blieben. Heute zeigt BuildSelf, wie ein ablenkungsfreies Umfeld Ihre kognitive Leistung steigern kann.",
+      "pt": "Maya Angelou, a lendária poetisa, memorialista e ativista dos direitos civis americana que escreveu a autobiografia inovadora 'Sei por que o pássaro canta na gaiola'. Para se concentrar profundamente, ela hospedava-se num quarto de hotel local todas as manhãs às 6h30. Pedia à equipa do hotel para remover todos os quadros, fotos e decorações das paredes, deixando apenas uma Bíblia, um dicionário, um baralho de cartas e uma garrafa de xerez. Hoje, o BuildSelf partilha como a criação de um ambiente vazio melhora a produção.",
+      "id": "Maya Angelou, penyair legendaris Amerika, penulis memoar, dan aktivis hak-hak sipil yang menulis otobiografi terobosan 'I Know Why the Caged Bird Sings.' Untuk fokus secara mendalam, dia check-in ke kamar hotel setempat setiap pagi pukul 06.30. Dia meminta staf hotel untuk menghapus semua lukisan, foto, dan dekorasi dari dinding, hanya menyisakan sebuah Alkitab, kamus, dek kartu, dan sebotol sherry. Hari ini, BuildSelf membagikan bagaimana menciptakan lingkungan kosong dapat meningkatkan hasil kognitif Anda."
+    },
+    "whyTitle": {
+      "en": "Environmental Cue Control and Cognitive Load Reduction",
+      "ja": "環境手がかり制御と認知負荷の軽減",
+      "zh": "环境线索控制与认知负荷减轻",
+      "es": "Control de estímulos ambientales y reducción de la carga cognitiva",
+      "fr": "Contrôle des indices environnementaux et réduction de la charge cognitive",
+      "de": "Umgebungskontrolle und Reduzierung der kognitiven Belastung",
+      "pt": "Controle de pistas ambientais e redução da carga cognitiva",
+      "id": "Pengendalian Isyarat Lingkungan dan Pengurangan Beban Kognitif"
+    },
+    "whyDesc": {
+      "en": "Human brains are constantly scanning the environment for visual and auditory cues, consuming cognitive resources. By physically isolating yourself in a blank space, you practice 'Environmental Cue Control.' Removing distractions minimizes cognitive load, allowing the brain to allocate all its working memory to the creative or complex task at hand, facilitating immediate entry into a state of 'flow.'",
+      "ja": "人間の脳は常に視覚的・聴覚的な手がかりを求めて環境をスキャンしており、その過程で認知資源を消費しています。何もない空間に身を置くことで、「環境手がかり制御」を実践できます。気を散らすものを排除することで認知負荷が最小限に抑えられ、脳はワーキングメモリのすべてをクリエイティブまたは複雑な課題に割り当てることができ、即座に「フロー」状態に入るのを容易にします。",
+      "zh": "人类的大脑不断在环境中扫描视觉和听觉线索，从而消耗认知资源。通过将自己物理隔离在一个空无一物的空间里，你就是在实践“环境线索控制”。消除干扰可将认知负荷降至最低，使大脑能够将其所有的工作记忆分配给眼前的创造性或复杂任务，从而有助于立即进入“心流”状态。",
+      "es": "El cerebro humano escanea constantemente el entorno en busca de estímulos visuales y auditivos, lo que consume recursos cognitivos. Al aislarse físicamente en un espacio vacío, se practica el 'Control de estímulos ambientales'. Eliminar las distracciones minimiza la carga cognitiva, permitiendo al cerebro asignar toda su memoria de trabajo a la tarea creativa o compleja, facilitando la entrada en un estado de 'flujo'.",
+      "fr": "Le cerveau humain scanne constamment son environnement à la recherche d'indices visuels et auditifs, ce qui consomme des ressources cognitives. En s'isolant dans un espace vide, on pratique le « Contrôle des indices environnementaux ». Éliminer les distractions réduit la charge cognitive, permettant au cerveau d'allouer toute sa mémoire de travail à la tâche complexe et d'entrer en état de « flow ».",
+      "de": "Das menschliche Gehirn scannt die Umgebung ständig nach visuellen und auditiven Reizen ab, was kognitive Ressourcen verbraucht. Indem Sie sich in einem leeren Raum isolieren, praktizieren Sie „Umgebungskontrolle“. Das Entfernen von Ablenkungen minimiert die kognitive Belastung, sodass das Gehirn sein gesamtes Arbeitsgedächtnis für die kognitive oder komplexe Aufgabe nutzen kann, was den Einstieg in den „Flow“ erleichtert.",
+      "pt": "O cérebro humano está constantemente a fazer o varrimento do ambiente à procura de pistas visuais e auditivas, consumindo recursos cognitivos. Ao isolar-se fisicamente num espaço vazio, pratica o 'Controle de pistas ambientais'. A remoção de distrações minimiza a carga cognitiva, permitiendo que o cérebro aloque toda a sua memória de trabalho à tarefa criativa ou complexa, facilitando a entrada imediata num estado de 'fluxo'.",
+      "id": "Otak manusia terus-menerus memindai lingkungan untuk mencari isyarat visual dan pendengaran, yang mengonsumsi sumber daya kognitif. Dengan mengisolasi diri secara fisik di ruang kosong, Anda mempraktikkan 'Pengendalian Isyarat Lingkungan.' Menghilangkan gangguan meminimalkan beban kognitif, memungkinkan otak mengalokasikan semua memori kerjanya untuk tugas kreatif atau rumit, memfasilitasi masuk langsung ke keadaan 'flow.'"
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Designate a single space solely for deep work",
+          "ja": "ディープワーク専用の独立した空間を指定する",
+          "zh": "指定一个仅用于深度工作的空间",
+          "es": "Designa un único espacio exclusivo para el trabajo profundo",
+          "fr": "Désigner un espace unique réservé au travail profond",
+          "de": "Bestimmen Sie einen Raum ausschließlich für Deep Work",
+          "pt": "Designe um espaço único exclusivamente para trabalho profundo",
+          "id": "Tentukan satu ruang semata-mata untuk kerja mendalam"
+        },
+        "text": {
+          "en": "Choose a specific desk, a library cubicle, or a quiet room and declare it as your sacred focus zone. Do not browse social media or rest in this space; use it strictly for work.",
+          "ja": "特定のデスク、図書館の自習ブース、または静かな部屋を選び、そこを神聖な集中ゾーンと宣言します。このスペースでSNSを見たり休んだりせず、厳密に作業のためだけに使用します。",
+          "zh": "选择一张特定的书桌、图书馆的隔间或一间安静的房间，将其声明为你的神圣专注区域。不要在这个空间里浏览社交媒体或休息；严格将其用于工作。",
+          "es": "Elige un escritorio específico, un cubículo de biblioteca o una habitación tranquila y decláralo como tu zona de enfoque sagrada. No navegues por redes sociales ni descanses en este espacio; úsalo estrictamente para trabajar.",
+          "fr": "Choisissez un bureau spécifique, une cabine de bibliothèque ou une pièce calme et déclarez-la comme votre zone de concentration sacrée. Ne naviguez pas sur les réseaux sociaux et ne vous reposez pas dans cet espace ; utilisez-le strictement pour le travail.",
+          "de": "Wählen Sie einen Schreibtisch, eine Bibliothekskabine oder einen ruhigen Raum und erklären Sie diesen zu Ihrer Fokuszone. Nutzen Sie diesen Bereich nicht für soziale Medien oder Pausen, sondern ausschließlich zum Arbeiten.",
+          "pt": "Escolha uma secretária específica, uma cabine de biblioteca ou uma sala silenciosa e declare-a como a sua zona de foco sagrada. Não navegue nas redes sociais nem descanse neste espaço; use-o estritamente para trabalhar.",
+          "id": "Pilihlah meja tertentu, bilik perpustakaan, atau ruangan yang tenang dan nyatakan sebagai zona fokus suci Anda. Jangan menjelajahi media sosial or beristirahat di ruang ini; gunakan hanya untuk bekerja."
+        }
+      },
+      {
+        "name": {
+          "en": "Remove all visual and digital clutter",
+          "ja": "視覚的およびデジタルな雑音をすべて排除する",
+          "zh": "清除所有视觉和数字杂乱",
+          "es": "Elimina todo el desorden visual y digital",
+          "fr": "Éliminer tout encombrement visuel et numérique",
+          "de": "Entfernen Sie alle visuellen und digitalen Ablenkungen",
+          "pt": "Remova toda a desordem visual e digital",
+          "id": "Hapus semua kekacauan visual dan digital"
+        },
+        "text": {
+          "en": "Clear your desk of any items that are unrelated to your current task. Turn off your smartphone, place it out of sight, or move it to another room to eliminate environmental triggers.",
+          "ja": "デスクの上から現在の作業に関係のないアイテムを片付けます。スマートフォンは電源を切るか、見えない場所に置くか、別の部屋に移動させて環境的な引き金をなくします。",
+          "zh": "清理书桌上与当前任务无关的任何物品。关闭智能手机，将其放在视线之外，或者移到另一个房间，以消除环境触发因素。",
+          "es": "Limpia tu escritorio de cualquier elemento que no esté relacionado con tu tarea actual. Apaga tu teléfono inteligente, colócalo fuera de la vista o muévelo a otra habitación para eliminar los desencadenantes ambientales.",
+          "fr": "Débarrassez votre bureau de tout objet sans rapport avec votre tâche. Éteignez votre smartphone, placez-le hors de portée de vue ou déplacez-le dans une autre pièce pour éliminer les déclencheurs environnementaux.",
+          "de": "Räumen Sie alle Gegenstände vom Schreibtisch, die nichts mit der aktuellen Aufgabe zu tun haben. Schalten Sie Ihr Smartphone aus und legen Sie es außer Sichtweite oder in einen anderen Raum.",
+          "pt": "Limpe a sua secretária de quaisquer itens que não estejam relacionados com a sua tarefa atual. Desligue o seu smartphone, coloque-o fora de vista ou leve-o para outra sala para eliminar gatilhos ambientais.",
+          "id": "Bersihkan meja Anda dari barang-barang yang tidak terkait dengan tugas Anda saat ini. Matikan ponsel cerdas Anda, letakkan di luar pandangan, atau pindahkan ke ruangan lain untuk menghilangkan pemicu lingkungan."
+        }
+      },
+      {
+        "name": {
+          "en": "Establish a clear start and end ritual",
+          "ja": "明確な開始と終了の儀式を確立する",
+          "zh": "建立明确的开始和结束仪式",
+          "es": "Establece un ritual de inicio y fin claro",
+          "fr": "Établir un rituel de début et de fin clair",
+          "de": "Etablieren Sie ein klares Start- und Endritual",
+          "pt": "Estabeleça um ritual de início e fim claro",
+          "id": "Tetapkan ritual mulai dan selesai yang jelas"
+        },
+        "text": {
+          "en": "Define exact times to enter and leave your focus zone. When your time is up, step away completely to return to your daily life, creating a psychological boundary between work and rest.",
+          "ja": "集中ゾーンに入り、そして出る正確な時間を定義します。時間が来たら完全にその場を離れて日常生活に戻り、仕事と休息の間に心理的な境界線を作ります。",
+          "zh": "定义进入和离开专注区域的确切时间。时间到了之后，请彻底离开该区域，回归日常生活，在工作和休息之间建立心理边界。",
+          "es": "Define horas exactas para entrar y salir de tu zona de enfoque. Cuando se acabe el tempo, aléjate por completo para volver a tu vida diaria, creando un límite psicológico entre el trabajo y el descanso.",
+          "fr": "Définissez des heures précises pour entrer et sortir de votre zone de concentration. Une fois le temps écoulé, éloignez-vous complètement pour retourner à votre vie quotidienne, créant une barrière psychologique entre travail et repos.",
+          "de": "Legen Sie genaue Zeiten fest, zu denen Sie Ihre Fokuszone betreten und verlassen. Wenn die Zeit abgelaufen ist, entfernen Sie sich vollständig, um eine Grenze zwischen Arbeit und Freizeit zu ziehen.",
+          "pt": "Defina horas exatas para entrar e sair da sua zona de foco. Quando o tempo acabar, afaste-se completamente para voltar à sua vida quotidiana, criando um limite psicológico entre o trabalho e o descanso.",
+          "id": "Tentukan waktu pasti untuk masuk dan keluar dari zona fokus Anda. Jika waktu Anda habis, menjauhlah sepenuhnya untuk kembali ke kehidupan sehari-hari, menciptakan batas psikologis antara kerja & istirahat."
+        }
+      }
+    ],
+    "cautionTitle": {
+      "en": "A cognitive-psychological word for a successful routine",
+      "ja": "効果的なルーティンのための認知心理学的な一言",
+      "zh": "成功惯例的认知心理学建议",
+      "es": "Un consejo de la psicología cognitiva para una rutina exitosa",
+      "fr": "Un conseil de psychologie cognitive pour une routine réussie",
+      "de": "Ein kognitionspsychologischer Ratschlag für eine erfolgreiche Routine",
+      "pt": "Um conselho da psicologia cognitiva para uma rotina de sucesso",
+      "id": "Saran psikologi kognitif untuk rutinitas yang sukses"
+    },
+    "cautionDesc": {
+      "en": "Willpower alone is rarely enough to fight distraction. True focus is built by designing a physical environment where temptation cannot exist. Clear your desk, isolate your phone, and let the simplicity of your surroundings command your brain to focus. Create your own distraction-free zone today.",
+      "ja": "意志の力だけで誘惑と戦うのは困難です。真の集中は、誘惑が存在し得ない物理的環境を設計することから生まれます。デスクを片付け、スマートフォンを隔離し、周囲の簡素さによって脳に集中を命じさせてください。",
+      "zh": "仅凭意志力很难与分心作斗争。真正的专注是通过设计一个不存在诱惑的物理环境来建立的。清理你的书桌，隔离你的手机，让周围环境的简约感指挥你的大脑去专注。今天就创建你自己的无干扰区域吧。",
+      "es": "La fuerza de voluntad por sí sola rara vez es suficiente para combatir la distracción. El verdadero enfoque se construye diseñando un entorno físico donde la tentación no pueda existir. Limpia tu escritorio, aísla tu teléfono y deja que la simplicidad del entorno guíe a tu cerebro.",
+      "fr": "La volonté seule suffit rarement à lutter contre la distraction. La véritable concentration s'obtient en concevant un environnement physique où la tentation ne peut exister. Épurez votre bureau, isolez votre téléphone et laissez la simplicité ambiante guider votre esprit.",
+      "de": "Willenskraft allein reicht selten aus, um Ablenkungen zu bekämpfen. Wahrer Fokus entsteht durch die Gestaltung einer physischen Umgebung, in der es keine Versuchungen gibt. Räumen Sie Ihren Schreibtisch auf, legen Sie Ihr Handy weg und lassen Sie die Einfachheit wirken.",
+      "pt": "A força de vontade por si só raramente é suficiente para combater a distração. O foco verdadeiro constrói-se ao desenhar um ambiente físico onde a tentação não possa existir. Limpe a sua secretária, isole o seu telemóvel e deixe que a simplicidade do ambiente comande o seu cérebro.",
+      "id": "Tekad saja jarang cukup untuk melawan gangguan. Fokus sejati dibangun dengan merancang lingkungan fisik di mana godaan tidak dapat eksis. Bersihkan meja Anda, isolasi telepon Anda, dan biarkan kesederhanaan lingkungan sekitar memerintahkan otak Anda to focus."
+    },
+    "faqs": [
+      {
+        "question": {
+          "ko": "엔젤루는 왜 호텔 방에 고립되어 글을 썼나요?",
+          "en": "Why did Angelou write isolated in a hotel room?",
+          "ja": "アンジェロウはなぜホテルの一室にこもって執筆したのですか？",
+          "zh": "安杰卢为什么要孤立在酒店房间里写字？",
+          "es": "¿Por qué Angelou escribía aislada en una habitación de hotel?",
+          "fr": "Pourquoi Angelou écrivait-elle isolée dans une chambre d'hôtel ?",
+          "de": "Warum schrieb Angelou isoliert in einem Hotelzimmer?",
+          "pt": "Porque é que Angelou escrevia isolada num quarto de hotel?",
+          "id": "Mengapa Angelou menulis dengan mengisolasi diri di kamar hotel?"
+        },
+        "answer": {
+          "ko": "친숙한 가정과 일상의 오감 자극(그림, 가사 등)으로부터 두뇌를 원천 차단하여 극단적인 몰입 상태를 강제하기 위함이었습니다.",
+          "en": "To completely block her brain from familiar domestic sensory stimuli (paintings, chores), forcing an extreme state of focus.",
+          "ja": "親しみのある家庭や日常の刺激（絵画、家事など）から脳を完全に遮断し、極限の没頭状態を強制するためでした。",
+          "zh": "为了完全阻断大脑与熟悉的家庭日常感官刺激（画作、家务等）的联系，从而强迫自己进入极度的专注状态。",
+          "es": "Para bloquear por completo su mente de estímulos sensoriales domésticos, forzando un estado extremo de enfoque.",
+          "fr": "Pour couper son cerveau des distractions du quotidien (corvées, tableaux), s'obligeant à un niveau de concentration maximal.",
+          "de": "Um ihr Gehirn von Reizen zu Hause (Bilder, Hausarbeit) abzuschirmen und einen Zustand extremen Fokus zu erzwingen.",
+          "pt": "Para bloquear por completo a sua mente de estímulos sensoriais domésticos, forçando um estado extremo de foco.",
+          "id": "Untuk memblokir otaknya dari rangsangan sensorik rumah tangga (lukisan, pekerjaan rumah), memaksa fokus ekstrem."
+        }
+      }
+    ]
+  }
+}
