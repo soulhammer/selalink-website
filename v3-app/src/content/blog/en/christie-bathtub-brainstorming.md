@@ -90,12 +90,9 @@ Soaking in warm water expands blood vessels and increases brain blood flow. Simu
     </p>
   </div>
 </div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> Frequently Asked Questions (FAQ)
+    <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>

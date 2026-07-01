@@ -14,7 +14,7 @@ import { vegetableIngredients } from './data/ingredients/vegetable.ts';
 
 // 헬퍼 및 템플릿 임포트
 import { parseKoSteps, cleanMarkdown, ensureDir } from './utils/compilerHelper.js';
-import { renderStepCard, renderCautionBox, renderFaqSection } from './utils/blogTemplates.js';
+import { renderIngredientsStepCard, renderCautionBox, renderFaqSection } from './utils/blogTemplates.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -218,7 +218,7 @@ function run() {
           }
         }
 
-        stepCards.push(renderStepCard(lang, stepIdx, translatedName, translatedText, imageHtml));
+        stepCards.push(renderIngredientsStepCard(dict.step, stepIdx, translatedName, translatedText, imageHtml));
       });
 
       const stepsYaml = steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n');
@@ -239,7 +239,7 @@ function run() {
         const lMap = sourceMapLang[lang] || sourceMapLang['en'];
         return lMap[s] || s;
       });
-      const authorityHtml = transSources.join(' & ');
+      const authorityHtml = `<strong>${transSources.join(' & ')}</strong>`;
 
       // 5. 번역 맵에서 인트로 및 주의사항 가져오기
       const ingTrans = transMap[ingId];
@@ -288,7 +288,7 @@ function run() {
       });
 
       const faqsYaml = faqsYamlList.length > 0 ? `faqs:\n${faqsYamlList.join('\n')}\n` : '';
-      const faqSectionHtml = renderFaqSection(lang, faqItems);
+      const faqSectionHtml = renderFaqSection(lang, faqItems, '📍');
 
       // 7. 최종 마크다운 조합
       const heroImageName = `${ingId.replace(/-/g, '_')}_storage_hack.png`;

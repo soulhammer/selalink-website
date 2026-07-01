@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "バナナの鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくバナナの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-03-05"
@@ -101,9 +102,6 @@ faqs:
     </p>
   </div>
 </div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📍</span> よくある質問 (FAQ)

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存豆腐：科学储存指南"
 description: "根据官方食品安全指南，了解豆腐的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-04-20"
@@ -101,9 +102,6 @@ faqs:
     </p>
   </div>
 </div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📍</span> 常见问题 (FAQ)

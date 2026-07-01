@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Avocat frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Avocat selon les directives de sécurité officielles."
 pubDate: "2026-02-07"
@@ -101,9 +102,6 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
     </p>
   </div>
 </div>
-
----
-
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📍</span> Foire Aux Questions (FAQ)

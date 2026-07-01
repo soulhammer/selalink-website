@@ -8,6 +8,34 @@ const __dirname = path.dirname(__filename);
 const labelsPath = path.join(__dirname, '../data/blogs/compilerLabels.json');
 const labels = JSON.parse(fs.readFileSync(labelsPath, 'utf-8'));
 
+// 1. 식재료 보관 정보 전용 단계 카드 렌더러 (에메랄드 테마, dict.step 전달받음)
+export function renderIngredientsStepCard(stepLabel, stepIdx, name, text, imageHtml = '') {
+  return `<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">${stepLabel} ${stepIdx}</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">${name}</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    ${text}
+  </p>${imageHtml}
+</div>`;
+}
+
+// 2. 위인 습관 정보 전용 단계 카드 렌더러 (인디고 테마)
+export function renderStepCard(lang, stepIdx, name, text, imageHtml = '') {
+  const stepText = labels.stepLabel[lang] || labels.stepLabel['en'];
+  return `<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">${stepText} ${stepIdx}</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">${name}</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    ${text}
+  </p>${imageHtml}
+</div>`;
+}
+
+// 3. 위인 습관 정보 전용 근거 박스 (인디고 테마)
 export function renderEvidenceBox(lang, authority, domain) {
   const title = labels.evidenceTitle[domain]?.[lang] || labels.evidenceTitle[domain]?.['en'] || "";
   const pattern = labels.evidenceDescPattern[lang] || labels.evidenceDescPattern['en'] || "";
@@ -26,19 +54,7 @@ export function renderEvidenceBox(lang, authority, domain) {
 </div>`;
 }
 
-export function renderStepCard(lang, stepIdx, name, text, imageHtml = '') {
-  const stepText = labels.stepLabel[lang] || labels.stepLabel['en'];
-  return `<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">${stepText} ${stepIdx}</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">${name}</h4>
-  </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    ${text}
-  </p>${imageHtml}
-</div>`;
-}
-
+// 4. 반려동물 전용 시그널 카드
 export function renderPetStepCard(lang, stepIdx, stepType, name, meaningLabel, meaningText, responseLabel, responseText) {
   return `<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -52,6 +68,7 @@ export function renderPetStepCard(lang, stepIdx, stepType, name, meaningLabel, m
 </div>`;
 }
 
+// 5. 반려동물 전용 루틴 카드
 export function renderPetRoutineCard(lang, stepIdx, name, text) {
   return `<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
@@ -64,6 +81,7 @@ export function renderPetRoutineCard(lang, stepIdx, name, text) {
 </div>`;
 }
 
+// 6. 경고 박스
 export function renderCautionBox(colorClass, icon, title, desc) {
   return `<div class="my-6 p-5 rounded-2xl border-l-4 ${colorClass} flex items-start gap-4">
   <span class="text-xl">${icon}</span>
@@ -76,6 +94,7 @@ export function renderCautionBox(colorClass, icon, title, desc) {
 </div>`;
 }
 
+// 7. 팁 박스
 export function renderTipBox(desc) {
   return `<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
@@ -87,7 +106,8 @@ export function renderTipBox(desc) {
 </div>`;
 }
 
-export function renderFaqSection(lang, faqs) {
+// 8. FAQ 렌더러 (아이콘을 파라미터로 받음)
+export function renderFaqSection(lang, faqs, icon = '📌') {
   if (!faqs || faqs.length === 0) return '';
   const faqTitle = labels.faqTitle[lang] || labels.faqTitle['en'];
 
@@ -107,7 +127,7 @@ export function renderFaqSection(lang, faqs) {
 
   return `<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> ${faqTitle}
+    <span>${icon}</span> ${faqTitle}
   </h3>
   
 ${faqItems}

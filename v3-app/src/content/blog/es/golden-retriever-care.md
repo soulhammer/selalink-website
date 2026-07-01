@@ -105,7 +105,7 @@ Los Golden Retrievers expresan sus emociones a través de gestos. Una señal cla
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Aunque el tratamiento veterinario es importante, proporcionar un entorno seguro (rampas, espacios verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
+      El simple hecho de observar las señales de calma de su mascota puede prevenir problemas de comportamiento graves y enfermedades causadas por el estrés. Embora o tratamento veterinário é importante, proporcionar um ambiente seguro (rampas, espaços verticales, múltiples fuentes de agua) es el escudo más fuerte para apoyar su felicidad de por vida.
     </p>
   </div>
 </div>
@@ -114,7 +114,7 @@ Los Golden Retrievers expresan sus emociones a través de gestos. Una señal cla
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Preguntas frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
