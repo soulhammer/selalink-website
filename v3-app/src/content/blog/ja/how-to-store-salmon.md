@@ -66,7 +66,7 @@ steps:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">食品用ラップで空気を抜いて密着包装 — 冷凍保存 (90日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    下処理をした鮭をラップで空気의入らないようにぴったりと包み, ジッパーバッグに入れて二重に密閉します。冷蔵保存で2日間, 冷凍保存で最大90日間, 鮮度を維持できます。
+    下処理をした鮭をラップで空気の入らないようにぴったりと包み, ジッパーバッグに入れて二重に密閉します。冷蔵保存で2日間, 冷凍保存で最大90日間, 鮮度を維持できます。
   </p>
 </div>
 

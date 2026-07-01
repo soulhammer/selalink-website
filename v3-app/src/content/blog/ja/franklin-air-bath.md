@@ -22,7 +22,7 @@ authority: "ベンジャミン・フランクリン自伝『The Autobiography of
       歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、ベンジャ민・フランクリンの公式自伝<strong>『The Autobiography of Benjamin Franklin』</strong>およびニューイングランド・ジャーナル・オブ・メディシン（NEJM）に掲載された、低温露出による褐色脂肪の活性化と免疫反応に関する研究を基に作成されました。
+      本コンテンツは、ベンジャミン・フランクリンの公式自伝<strong>『The Autobiography of Benjamin Franklin』</strong>およびニューイングランド・ジャーナル・オブ・メディシン（NEJM）に掲載された、低温露出による褐色脂肪の活性化と免疫反応に関する研究を基に作成されました。
     </p>
   </div>
 </div>
@@ -73,14 +73,14 @@ authority: "ベンジャミン・フランクリン自伝『The Autobiography of
 
 ---
 
-## 3. 💡 루티인을 성공에 이끄는 뇌과학적인 한마디
+## 3. 💡 ルーティンを成功に導く脳科学的な一言
 
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">体温調節代謝が脳を目覚めさせます</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      朝早く新鮮で涼しい外部の空기에 一時的にさらされる刺激は、身体のホルモン体系を活性化する優れた生体刺激剤です。毎朝同じ時間に窓を開けて空気浴を実践すると、脳はこれを強力な朝の覚醒信号として認識するようになり、コーヒーを飲む前でも、すっきりと快適な精神状態を素早く回復できるようになります。
+      朝早く新鮮で涼しい外部の空気に一時的にさらされる刺激は、身体のホルモン体系を活性化する優れた生体刺激剤です。毎朝同じ時間に窓を開けて空気浴を実践すると、脳はこれを強力な朝の覚醒信号として認識するようになり、コーヒーを飲む前でも、すっきりと快適な精神状態を素早く回復できるようになります。
     </p>
   </div>
 </div>

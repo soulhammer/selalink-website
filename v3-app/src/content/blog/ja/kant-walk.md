@@ -1,5 +1,5 @@
 ---
-title: "ケーニヒスベルクの時計？イマヌエル・カントの毎日午後3시30分の散歩"
+title: "ケーニヒスベルクの時計？イマヌエル・カントの毎日午後3時30分の散歩"
 description: "近代哲学の巨匠イマヌエル・カント. 近所の人々が彼を見て時計を合わせたほど正確だった、彼の一定の散歩ルーティンに隠された脳科学的な利点を紹介します。"
 pubDate: "2026-03-18"
 category: "BuildSelf"
@@ -13,16 +13,16 @@ authority: "マンフレート・クーン著『カント伝』および神経�
 
 彼の散歩時間はあまりにも正確で、ケーニヒスベルクの住民たちはカントが通り過ぎる姿を見て自分の懐中時計のネジを合わせたという有名な逸話が残っています。カントは生涯でただ一度、ルソーの教育学書『エミール』を読むことに没頭して散歩を休んだときを除いて、雨の日も風の日も、この沈黙の散歩ルーティンを厳格に守り続けました.
 
-本日、BuildSelfでは、一日も欠かさず歩みを運んだ巨匠の厳格なライフスタイルに隠された医学적効能と、現代的な実践法を紹介します。
+本日、BuildSelfでは、一日も欠かさず歩みを運んだ巨匠の厳格なライフスタイルに隠された医学的効能と、現代的な実践法を紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的＆学術적根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、歴史学者マンフレート・クーンの研究적伝記<strong>『Kant: A Biography』</strong>および神経科学・学習記憶ジャーナル（Neurobiology of Learning and Memory）に掲載された、規則的な有酸素運動による認知機能リセットと記憶保存に関する研究を基に作成されました。
+      本コンテンツは、歴史学者マンフレート・クーンの研究的伝記<strong>『Kant: A Biography』</strong>および神経科学・学習記憶ジャーナル（Neurobiology of Learning and Memory）に掲載された、規則的な有酸素運動による認知機能リセットと記憶保存に関する研究を基に作成されました。
     </p>
   </div>
 </div>

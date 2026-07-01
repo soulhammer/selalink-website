@@ -79,7 +79,7 @@ Menulis novel adalah tugas yang menghabiskan energi mental yang luar biasa. Mura
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Aktivitas fisik sederhana yang diulang setiap hari akan menetap menjadi 'rutinitas otomatis' yang tidak memakan kemauan keras. Begitu ritme ini terpatri di otak, ia membentuk perisai fisik yang kokoh untuk menahan beban mental ekstrem yang berasal dari bekerja 또는 menulis.
+      Aktivitas fisik sederhana yang diulang setiap hari akan menetap menjadi 'rutinitas otomatis' yang tidak memakan kemauan keras. Begitu ritme ini terpatri di otak, ia membentuk perisai fisik yang kokoh untuk menahan beban mental ekstrem yang berasal dari bekerja atau menulis.
     </p>
   </div>
 </div>

@@ -47,7 +47,7 @@ Kami menawarkan rutinitas jalan kaki sore modern yang dapat menyetel ulang otak 
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Setel Alarm Penyegaran pada Pukul 15.30</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Setel alarm ringan dan ventilasi antara pukul 15.00 dan 16.00 (misalnya, pukul 15.30), ketika tingkat energi otak turun dan kesalahan meningkat. Hentikan apa yang Anda lakukan sejenak하고 걸어갈 채비를 합니다.
+    Setel alarm ringan dan ventilasi antara pukul 15.00 dan 16.00 (misalnya, pukul 15.30), ketika tingkat energi otak turun dan kesalahan meningkat. Hentikan apa yang Anda lakukan sejenak dan bersiaplah untuk berjalan.
   </p>
 </div>
 

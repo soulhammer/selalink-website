@@ -157,7 +157,7 @@ const translationData = {
       fr: "Les activités physiques simples répétées quotidiennement s'installent en « routines automatisées » qui ne provoquent pas de fatigue mentale. Une fois ce rythme gravé dans le cerveau, il forme un solide bouclier physique pour résister à la charge mentale extrême liée au travail ou à l'écriture. Faites de l'exercice une priorité absolue et gardez le rythme, comme Murakami.",
       de: "Einfache körperliche Aktivitäten, die täglich wiederholt werden, festigen sich als 'automatisierte Routinen', die keine Willenskraft kosten. Sobald dieser Rhythmus im Gehirn verankert ist, bildet er einen Schutzschild gegen extreme mentale Belastungen bei der Arbeit. Machen Sie regelmäßigen Sport zu einer Priorität in Ihrem Leben und behalten Sie den Rhythmus bei, genau wie Murakami.",
       pt: "As atividades físicas simples repetidas diariamente tornam-se 'rotinas automatizadas' que não consomem força de vontade. Uma vez que este ritmo se grava no cérebro, forma um sólido escudo físico para suportar a extrema carga mental decorrente do trabalho ou da escrita. Torne o exercício regular uma prioridade na sua vida e mantenha o ritmo, tal como Murakami.",
-      id: "Aktivitas fisik sederhana yang diulang setiap hari akan menetap menjadi 'rutinitas otomatis' yang tidak memakan kemauan keras. Begitu ritme ini terpatri di otak, ia membentuk perisai fisik yang kokoh untuk menahan beban mental ekstrem yang berasal dari bekerja 또는 menulis."
+      id: "Aktivitas fisik sederhana yang diulang setiap hari akan menetap menjadi 'rutinitas otomatis' yang tidak memakan kemauan keras. Begitu ritme ini terpatri di otak, ia membentuk perisai fisik yang kokoh untuk menahan beban mental ekstrem yang berasal dari bekerja atau menulis."
     }
   },
   'darwin-sandwalk': {
@@ -279,7 +279,7 @@ const translationData = {
         },
         text: {
           en: "While walking, as brain cells gently connect, clues naturally emerge from beyond consciousness. Immediately after finishing the walk, sit down and quickly scribble down the thoughts or inspirations that flashed through your mind.",
-          ja: "歩いている間, 脳細胞が緩やかにつながりながら, 意識의 向こう側から自然に手がかりが浮かび上がってきます。散歩を終えたらすぐに席に座り, 頭をよぎった考えやインスピレーションをメモ帳や企画書に素早く書き留めます。", // '意識の' 로 교정됨
+          ja: "歩いている間、脳細胞が緩やかにつながりながら、意識の向こう側から自然に手がかりが浮かび上がってきます。散歩を終えたらすぐに席に座り、頭をよぎった考えやインスピレーションをメモ帳や企画書に素早く書き留めます。", // '意識の' 로 교정됨
           zh: "散步时，随着脑细胞的温和联结，线索会自然而然地从意识之外浮现。散步结束后的第一时间坐下来，将脑海中闪过的想法或灵感迅速草拟在备忘录或策划案上。",
           es: "Mientras caminas, a medida que las células cerebrales se conectan suavemente, las pistas surgen naturalmente más allá de la conciencia. Inmediatamente después de terminar la caminata, siéntate y anota rápidamente los pensamientos o inspiraciones que pasaron por tu mente.",
           fr: "Pendant que vous marchez, les cellules cérébrales se connectent doucement et des indices émergent naturellement. Dès que vous avez fini de marcher, asseyez-vous et notez rapidement les pensées ou les inspirations qui vous ont traversé l'esprit.",

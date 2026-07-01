@@ -6,6 +6,7 @@
     "node": ">=22.12.0"
   },
   "scripts": {
+    "predev": "lsof -t -i:4321 | xargs kill -9 2>/dev/null || true",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
