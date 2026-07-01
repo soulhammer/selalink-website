@@ -1,0 +1,525 @@
+[
+  {
+    "id": "milk",
+    "category": "dairy",
+    "emoji": "🥛",
+    "isProcessed": true,
+    "searchKeywords": {
+      "ko": [
+        "유제품",
+        "생우유",
+        "저지방우유",
+        "멸균우유"
+      ],
+      "en": [
+        "dairy",
+        "whole milk",
+        "raw milk",
+        "low fat milk"
+      ],
+      "ja": [
+        "牛乳",
+        "ミルク",
+        "低脂肪乳"
+      ],
+      "zh": [
+        "牛奶",
+        "鲜牛奶",
+        "脱脂牛奶"
+      ]
+    },
+    "names": {
+      "ko": "우유",
+      "en": "Milk",
+      "ja": "牛乳",
+      "zh": "牛奶",
+      "es": "Leche",
+      "fr": "Lait",
+      "de": "Milch",
+      "pt": "Leite",
+      "id": "Susu"
+    },
+    "storage": {
+      "fridge": {
+        "durationDays": 7,
+        "tips": {
+          "ko": "냉장고 문 쪽 보관 시 온도 변화가 심해 쉽게 상하므로 안쪽 선반에 두세요. 미개봉 상태에서 0~5℃ 냉장이 잘 유지되면 유통기한 만료 후 최대 45일까지 섭취 가능하나, 개봉 후에는 1주일 이내로 드시는 것이 안전합니다.",
+          "en": "Do not store in the door as temperature fluctuates; place on an inner shelf. Unopened milk keeps up to 45 days past expiry if kept at 0–5°C, but consume within 1 week once opened.",
+          "ja": "冷蔵庫のドアポケットは温度変化が大きいため傷みやすくなります。棚の内側に保管し、未開封で0〜5℃の冷蔵が維持されれば賞味期限後最大45日まで摂取可能ですが、開封後は1週間以内にお召し上がりください。",
+          "zh": "冰箱门处温度变化剧烈易变质，建议存放在内侧搁板上。在0-5℃冷藏且未开封状态下，过期后最多可保存45天，但开封后请在1周内饮用完毕。",
+          "es": "Las fluctuaciones en la puerta causan deterioro. Guárdela en un estante interior; consuma en 1 semana tras abrir.",
+          "fr": "La porte subit des variations de température. Stockez sur une étagère intérieure ; buvez sous 1 semaine après ouverture.",
+          "de": "Türfächer haben Temperaturschwankungen. Im inneren Regal lagern und nach dem Öffnen innerhalb einer Woche verbrauchen.",
+          "pt": "As oscilações na porta aceleram a deterioração. Guarde nas prateleiras internas e consuma em até 1 semana após abrir.",
+          "id": "Perubahan suhu di pintu kulkas mempercepat basi. Simpan di rak dalam; konsumsi dalam 1 minggu setelah dibuka."
+        },
+        "sources": [
+          "MFDS",
+          "USDA",
+          "FDA"
+        ]
+      }
+    }
+  },
+  {
+    "id": "egg",
+    "category": "dairy",
+    "emoji": "🥚",
+    "isProcessed": false,
+    "searchKeywords": {
+      "ko": [
+        "달걀",
+        "유정란",
+        "무항생제란",
+        "계란보관"
+      ],
+      "en": [
+        "eggs",
+        "yolk",
+        "egg white",
+        "poultry"
+      ],
+      "ja": [
+        "たまご",
+        "卵",
+        "玉子",
+        "鶏卵"
+      ],
+      "zh": [
+        "鸡蛋",
+        "蛋黄",
+        "蛋清"
+      ]
+    },
+    "names": {
+      "ko": "계란",
+      "en": "Egg",
+      "ja": "卵",
+      "zh": "鸡蛋",
+      "es": "Huevo",
+      "fr": "Œuf",
+      "de": "Ei",
+      "pt": "Ovo",
+      "id": "Telur"
+    },
+    "storage": {
+      "fridge": {
+        "durationDays": 45,
+        "tips": {
+          "ko": "물로 씻으면 표면 보호막이 파괴되어 기공으로 세균이 침투합니다. 절대 씻지 말고, 뾰족한 쪽이 아래를 향하게 하되, 온도 변화가 심한 냉장고 문 쪽을 피해 내부 안쪽 선반에 보관해 살모넬라균 번식을 방지하세요.",
+          "en": "Washing eggs removes the protective barrier, letting bacteria in. Do not wash; store pointed end down inside the main body of the fridge rather than the door to prevent Salmonella growth from temperature shifts.",
+          "ja": "水洗いすると卵の保護膜が消え気孔から雑菌が侵入します。洗わずに、尖った方を下にして保存してください。また、温度変化の激しいドアポケットを避け、冷蔵庫内の棚の奥に保管してサルモネラ菌の繁殖を防ぎましょう。",
+          "zh": "水洗会冲掉鸡蛋表面的保护膜，导致细菌从气孔渗入。切勿清洗，大头朝上、小头朝下竖放保存。避免存放在温度变化的冰箱门侧，放在冰箱内侧冷藏搁板上以防沙门氏菌繁殖。",
+          "es": "Lavar los huevos elimina su capa protectora e introduce bacterias. No los lave; guárdelos con la punta hacia abajo y en un estante interior en lugar de la puerta para evitar el crecimiento de Salmonella.",
+          "fr": "Laver les œufs détruit leur pellicule protectrice. Ne les lavez pas ; stockez-les la pointe vers le bas sur une étagère intérieure plutôt que dans la porte pour éviter la prolifération de Salmonella.",
+          "de": "Eier nicht waschen, da die Schutzschicht entfernt wird. Mit dem spitzen Ende nach unten im Hauptteil des Kühlschranks statt in der Tür lagern, um Salmonellenwachstum zu verhindern.",
+          "pt": "Lavar os ovos remove a película protetora, facilitando a entrada de bactérias. Não lave; guarde com a ponta para baixo nas prateleiras internas, longe da porta, para evitar a proliferação de Salmonella.",
+          "id": "Mencuci telur merusak lapisan pelindung, memudahkan bakteri masuk. Jangan dicuci; simpan ujung runcing di bawah di dalam rak utama kulkas, hindari bagian pintu untuk mencegah pertumbuhan Salmonella."
+        },
+        "sources": [
+          "MFDS",
+          "USDA",
+          "FDA"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tofu",
+    "iconImage": "/assets/images/apps/freshself/ingredients/tofu.png",
+    "category": "dairy",
+    "emoji": "",
+    "isProcessed": true,
+    "names": {
+      "ko": "두부",
+      "en": "Tofu",
+      "ja": "豆腐",
+      "zh": "豆腐",
+      "es": "Tofu",
+      "fr": "Tofu",
+      "de": "Tofu",
+      "pt": "Tofu",
+      "id": "Tahu"
+    },
+    "storage": {
+      "fridge": {
+        "durationDays": 7,
+        "tips": {
+          "ko": "사용 후 남은 두부는 밀폐용기에 담고 생수와 소금 한 꼬집을 넣어 두부가 완전히 잠기게 한 뒤 보관하세요. 매일 물을 갈아주어야 합니다.",
+          "en": "Place leftover tofu in a container, cover fully with fresh water and a pinch of salt. Change water daily.",
+          "ja": "残った豆腐は密閉容器に入れ、きれいな水と塩をひとつまみ加えて完全に浸して保存します。水は毎日取り替えてください。",
+          "zh": "余下的豆腐放入密封容器，倒入纯净水并加少许盐以完全淹没豆腐。每天需要更换清水。",
+          "es": "Ponga el tofu sobrante en un recipiente, cúbralo por completo con agua y una pizca de sal. Cambie el agua a diario.",
+          "fr": "Mettez le tofu restant dans un récipient, couvrez-le d’eau avec une pincée de sel. Changez l’eau tous les jours.",
+          "de": "Übriggehaltenen Tofu in Wasser mit einer Prise Salz legen, sodass er bedeckt ist. Wasser täglich wechseln.",
+          "pt": "Coloque o tofu restante em pote, coubra totalmente com água filtrada e uma pitada de sal. Troque a água diariamente.",
+          "id": "Taruh sisa tahu di wadah, rendam dalam air bersih dengan secubit garam. Ganti air setiap hari."
+        },
+        "sources": [
+          "MFDS",
+          "USDA"
+        ]
+      },
+      "freezer": {
+        "durationDays": 21,
+        "tips": {
+          "ko": "두부를 팩 통째로 냉동하면 얼면서 내부 수분이 응축되어 노랗고 쫄깃한 얼린 두부(동두부)가 되어 찌개용으로 훌륭합니다.",
+          "en": "Freezing tofu whole makes it sponge-like and chewy, which is excellent for stews and absorbing flavors.",
+          "ja": "豆腐をパックのまま冷凍すると水分が凍って凍み豆腐になり、高タンパクで弾力のある食感が鍋やスープに最適です。",
+          "zh": "将豆腐连同包装整盒冷冻，内部水分结冰后会变成蜂窝状、口感有弹性的冻豆腐，非常适合炖汤吸汁。",
+          "es": "Congelar el tofu entero le da una textura esponjosa y masticable, excelente para guisos.",
+          "fr": "Congeler le tofu entier lui donne une texture d’éponge idéale pour absorber le bouillon des ragoûts.",
+          "de": "Ganzen Tofu einfrieren, wodurch er schwammartig wird und Saucen in Eintöpfen hervorragend aufnimmt.",
+          "pt": "Congelar o tofu inteiro muda sua textura para uma esponja mastigável, excelente para ensopados absorverem sabor.",
+          "id": "Membekukan tahu utuh membuatnya berongga seperti spons dan kenyal, sangat cocok untuk masakan berkuah."
+        },
+        "sources": [
+          "MFDS",
+          "USDA"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cheese",
+    "category": "dairy",
+    "emoji": "🧀",
+    "isProcessed": true,
+    "names": {
+      "ko": "치즈",
+      "en": "Cheese",
+      "ja": "チーズ",
+      "zh": "奶酪/芝士",
+      "es": "Queso",
+      "fr": "Fromage",
+      "de": "Käse",
+      "pt": "Queijo",
+      "id": "Keju"
+    },
+    "storage": {
+      "fridge": {
+        "durationDays": 30,
+        "tips": {
+          "ko": "개봉 후에는 밀폐가 중요합니다. 슬라이스 치즈는 지퍼백에 밀봉하고, 모짜렐라는 소분하여 냉장실 안쪽 깊숙한 곳에 두세요. 수분이 많은 소프트 치즈는 개봉 후 1~2주 내 드시고, 하드 치즈는 밀봉 시 3~4주까지 보존 가능합니다.",
+          "en": "Airtight sealing is crucial after opening. Seal sliced cheese in bags; portion and store mozzarella deep in the fridge. Soft cheeses with high moisture should be consumed within 1–2 weeks, while hard cheeses can keep up to 3–4 weeks if sealed.",
+          "ja": "開封後は密閉が極めて重要です。スライスチーズは袋に入れ、モッツァレラは小分けして冷蔵庫の奥で保存します。水分の多いソフトチーズは開封後1〜2週間以内に消費し、ハードチーズは密閉状態で3〜4週間保存可能です。",
+          "zh": "开封后密封至关重要。片装奶酪封入口袋中；马苏里拉奶酪切块，存放在冰箱冷藏室最深处。高水分的软质奶酪应在开封后1-2周内食用，硬质奶酪密封时可保存3-4周。",
+          "es": "El sellado es clave tras abrir. Guarde las lonchas en bolsas; porcione y guarde la mozzarella al fondo. Consuma los quesos blandos con alta humedad en 1-2 semanas, mientras que los duros duran 3-4 semanas si se sellan.",
+          "fr": "L’étanchéité est cruciale après ouverture. Fermez les tranches en sachet ; divisez la mozzarella au fond du frigo. Les fromages frais humides se mangent sous 1-2 semaines, les fromages à pâte dure se gardent 3-4 semaines sous vide.",
+          "de": "Nach dem Öffnen luftdicht verschließen. Scheibenkäse in Beutel verpacken, Mozzarella portionieren. Feuchter Weichkäse sollte innerhalb von 1-2 Wochen verzehrt werden, während Hartkäse luftdicht verschlossen 3-4 Wochen haltbar ist.",
+          "pt": "Vedar bem é crucial após abrir. Guarde fatias em sacos herméticos e porcione a mussarela no fundo da geladeira. Consuma queijos macios em 1-2 semanas, enquanto os queijos duros duram de 3-4 semanas se bem vedados.",
+          "id": "Segel rapat setelah dibuka. Taruh keju lembaran dalam kantong; bagi mozzarella dan simpan di bagian dalam kulkas. Keju lunak berkadar air tinggi sebaiknya dikonsumsi dalam 1-2 minggu, sedangkan keju keras dapat bertahan hingga 3-4 minggu jika disegel."
+        },
+        "sources": [
+          "USDA",
+          "FSA"
+        ]
+      }
+    }
+  },
+  {
+    "id": "butter",
+    "category": "dairy",
+    "emoji": "🧈",
+    "isProcessed": true,
+    "names": {
+      "ko": "버터",
+      "en": "Butter",
+      "ja": "バター",
+      "zh": "黄油",
+      "es": "Mantequilla",
+      "fr": "Beurre",
+      "de": "Butter",
+      "pt": "Manteiga",
+      "id": "Mentega"
+    },
+    "storage": {
+      "fridge": {
+        "durationDays": 180,
+        "tips": {
+          "ko": "냄새를 쉽게 흡수하므로 랩으로 감싸 밀폐용기에 이중 보관하세요. 냉장실 문 쪽은 피하는 것이 좋습니다.",
+          "en": "Butter absorbs odors easily. Wrap tightly and store in an airtight container away from the door.",
+          "ja": "臭いを吸着しやすいので、ラップで包んで密閉容器に二重保存します。ドアポケットは避けてください。",
+          "zh": "极其容易吸收异味。用保鲜膜包裹后放入密封容器中双重保存。建议避开冰箱门侧。",
+          "es": "Absorbe olores con facilidad. Envuélvala bien y guárdela herméticamente lejos de la puerta.",
+          "fr": "Le beurre absorbe les odeurs. Filmez-le et fermez-le en boîte étanche loin de la porte.",
+          "de": "Butter nimmt leicht Gerüche an. Fest einwickeln und in einer Dose lagern. Türfächer vermeiden.",
+          "pt": "Absorve odores facilmente. Embrulhe bem e guarde em pote hermético longe da porta da geladeira.",
+          "id": "Mentega mudah menyerap bau. Bungkus rapat dan simpan di wadah kedap udara jauh dari pintu."
+        },
+        "sources": [
+          "USDA",
+          "MFDS"
+        ]
+      },
+      "freezer": {
+        "durationDays": 365,
+        "tips": {
+          "ko": "한 번에 쓸 크기로 잘라 종이 유산지에 올려 개별 랩핑한 뒤 냉동하세요. 요리할 때 하나씩 꺼내 쓰기 좋습니다.",
+          "en": "Slice into single-use portions, wrap in parchment paper, and freeze in sealed containers.",
+          "ja": "1回分ずつのサイズに切り、クッキングシートにのせて個別にラップ包みにして冷凍してください。",
+          "zh": "切成单次用量的大小，放在防油纸上单独包装后冷冻。烹饪时取用非常方便。",
+          "es": "Corte en porciones de un uso, envuélvalas en papel vegetal y congélelas en recipientes sellados.",
+          "fr": "Coupez en portions individuelles, enveloppez de papier cuisson et congelez en boîte étanche.",
+          "de": "In Portionsgröße schneiden, in Backpapier wickeln und gefrieren.",
+          "pt": "Corte em porções, embrulhe em papel-manteiga e congele em pote vedado.",
+          "id": "Potong dalam porsi sekali pakai, bungkus kertas roti, lalu bekukan."
+        },
+        "sources": [
+          "USDA",
+          "MFDS"
+        ]
+      }
+    }
+  },
+  {
+    "id": "yogurt",
+    "iconImage": "/assets/images/apps/freshself/ingredients/yogurt.png",
+    "category": "dairy",
+    "emoji": "",
+    "isProcessed": true,
+    "names": {
+      "ko": "요거트",
+      "en": "Yogurt",
+      "ja": "ヨーグルト",
+      "zh": "酸奶",
+      "es": "Yogur",
+      "fr": "Yaourt",
+      "de": "Joghurt",
+      "pt": "Iogurte",
+      "id": "Yoghurt"
+    },
+    "storage": {
+      "fridge": {
+        "durationDays": 10,
+        "tips": {
+          "ko": "미개봉 상태에서 온도가 잘 유지되면 유통기한 경과 후에도 최대 2주 가량 섭취 가능하나, 개봉했다면 내부에 침이나 균이 들어가 2~3일 내 다 드셔야 합니다.",
+          "en": "Unopened yogurt stays safe up to 2 weeks past expiry under cold storage. Once opened, consume within 2-3 days.",
+          "ja": "未開封で適温保存されていれば期限後も約2週間持ちます。開封後は雑菌が入るため2〜3日中に消費してください。",
+          "zh": "未开封状态下若冷藏温度稳定，过期后最长2周仍可食用；开封后因混入杂菌，必须在2-3天内吃完。",
+          "es": "Cerrado dura hasta 2 semanas tras expirar. Abierto, consuma en 2-3 días para evitar bacterias.",
+          "fr": "Non ouvert, il reste propre 2 semaines après date. Ouvert, consommez sous 2-3 jours par sécurité.",
+          "de": "Ungeöffnet bis zu 2 Wochen nach Ablauf haltbar. Nach dem Öffnen innerhalb von 2-3 Tagen verbrauchen.",
+          "pt": "Fechado dura até 2 semanas após o vencimento. Aberto, consuma em 2-3 dias devido à saliva e fungos.",
+          "id": "Kemasan utuh aman hingga 2 minggu setelah kedaluwarsa. Setelah dibuka, habiskan dalam 2-3 hari."
+        },
+        "sources": [
+          "MFDS",
+          "USDA"
+        ]
+      }
+    }
+  },
+  {
+    "id": "whipping-cream",
+    "iconImage": "/assets/images/apps/freshself/ingredients/whipping-cream.png",
+    "category": "dairy",
+    "emoji": "",
+    "isProcessed": true,
+    "names": {
+      "ko": "생크림",
+      "en": "Whipping Cream",
+      "ja": "生クリーム",
+      "zh": "淡奶油/鲜奶油",
+      "es": "Nata para montar",
+      "fr": "Crème fouettée",
+      "de": "Schlagsahne",
+      "pt": "Creme de leite",
+      "id": "Krim kocok"
+    },
+    "storage": {
+      "fridge": {
+        "durationDays": 5,
+        "tips": {
+          "ko": "개봉 후 아주 빠르게 변질됩니다. 멸균팩 제품이라도 개봉했다면 입구를 단단히 밀봉하고 냉장실 안쪽에 두어 5일 내 드세요.",
+          "en": "Spoils very quickly once opened. Seal the nozzle/flap tightly and store deep in the fridge. Consume within 5 days.",
+          "ja": "開封後は非常に傷みやすいです。開封口をきっちり密閉し、冷蔵庫の奥で保管して5日以内に消費してください。",
+          "zh": "开封后变质极快。即使是无菌包装开封后也请紧闭开口，存放在冷藏室最里侧，并在5天内用完。",
+          "es": "Se daña muy rápido tras abrir. Selle la boquilla firmemente y consuma en 5 días.",
+          "fr": "Tourne très vite après ouverture. Fermez hermétiquement la brique et consommez sous 5 jours.",
+          "de": "Nach dem Öffnen extrem leicht verderblich. Gut verschließen, tief im Kühlschrank lagern und in 5 Tagen verbrauchen.",
+          "pt": "Estraga muito rápido após abrir. Sele bem a abertura e consuma em até 5 dias.",
+          "id": "Sangat cepat basi setelah dibuka. Segel rapat mulut kemasan dan habiskan dalam 5 hari."
+        },
+        "sources": [
+          "USDA",
+          "FSA"
+        ]
+      }
+    }
+  },
+  {
+    "id": "soy-milk",
+    "iconImage": "/assets/images/apps/freshself/ingredients/soy-milk.png",
+    "category": "dairy",
+    "emoji": "",
+    "isProcessed": true,
+    "names": {
+      "ko": "두유",
+      "en": "Soy Milk",
+      "ja": "豆乳",
+      "zh": "豆奶/豆浆",
+      "es": "Leche de soja",
+      "fr": "Lait de soja",
+      "de": "Sojamilch",
+      "pt": "Leite de soja",
+      "id": "Susu kedelai"
+    },
+    "storage": {
+      "room": {
+        "durationDays": 180,
+        "tips": {
+          "ko": "미개봉 상태의 멸균 제품은 실온의 그늘지고 서늘한 곳에 장기 보관이 가능합니다.",
+          "en": "Unopened aseptic cartons can be stored in a cool, dry pantry for up to 6 months.",
+          "ja": "未開封の滅菌パック製品は, 直射日光를 피한 涼しい常温で長期間保存できます。",
+          "zh": "未开封灭菌包装产品可存放在阴凉干燥的常温下, 保存可达6个月。",
+          "es": "Los envases herméticos sin abrir se conservan en una despensa fresca y seca.",
+          "fr": "Les briques fermées se conservent dans un endroit sec et frais à température ambiante.",
+          "de": "Ungeöffnete sterile Packungen können bis zu 6 Monate an einem kühlen, trockenen Ort gelagert werden.",
+          "pt": "Caixas fechadas podem ser armazenadas em local seco e fresco à temperatura ambiente.",
+          "id": "Kemasan karton steril yang belum dibuka dapat disimpan di tempat sejuk dan kering."
+        },
+        "sources": [
+          "MFDS",
+          "USDA"
+        ]
+      },
+      "fridge": {
+        "durationDays": 7,
+        "tips": {
+          "ko": "개봉한 두유는 공기 노출로 부패하기 쉬우므로 즉시 냉장 보관하고 유통기한과 상관없이 7일 내로 소비하세요.",
+          "en": "Once opened, refrigerate immediately and consume within 7 days regardless of expiration date.",
+          "ja": "開封後は傷みやすいため, すぐに冷蔵庫に入れ, 賞味期限にかかわらず7日以内に飲みきってください。",
+          "zh": "开封后极易腐坏, 请务必立即冷藏, 且无论保质期如何, 请在7天内饮用完毕。",
+          "es": "Abierto, refrigere de inmediato y consuma en un plazo de 7 días sin importar la fecha de vencimiento.",
+          "fr": "Après ouverture, réfrigérez immédiatement et consommez sous 7 jours maximum.",
+          "de": "Nach dem Öffnen sofort kühlen und unabhängig vom Ablaufdatum innerhalb von 7 Tagen verbrauchen.",
+          "pt": "Depois de aberto, refrigere imediatamente e consuma em até 7 dias, independente da data de validade.",
+          "id": "Setelah dibuka, segera dinginkan dan konsumsi dalam 7 hari tanpa melihat tanggal kedaluwarsa."
+        },
+        "sources": [
+          "MFDS",
+          "USDA"
+        ]
+      }
+    }
+  },
+  {
+    "id": "fresh-cream",
+    "iconImage": "/assets/images/apps/freshself/ingredients/fresh-cream.png",
+    "category": "dairy",
+    "emoji": "",
+    "isProcessed": true,
+    "searchKeywords": {
+      "ko": [
+        "생크림",
+        "동물성생크림",
+        "휘핑크림보관",
+        "생크림보관"
+      ],
+      "en": [
+        "fresh cream",
+        "heavy cream",
+        "whipping cream"
+      ],
+      "ja": [
+        "生クリーム",
+        "ホイップクリーム"
+      ],
+      "zh": [
+        "淡奶油",
+        "稀奶油",
+        "鲜奶油"
+      ]
+    },
+    "names": {
+      "ko": "생크림",
+      "en": "Fresh Cream",
+      "ja": "生クリーム",
+      "zh": "淡奶油",
+      "es": "Crema de leche / Nata",
+      "fr": "Crème fraîche",
+      "de": "Schlagsahne / Sahne",
+      "pt": "Creme de leite fresco",
+      "id": "Kepala susu / Krim"
+    },
+    "storage": {
+      "fridge": {
+        "durationDays": 5,
+        "tips": {
+          "ko": "유지방 함량이 높아 냄새 흡수가 매우 빠릅니다. 개봉 후 팩 입구를 집게로 꽉 밀봉하고 반찬이나 김치 옆은 피해서 보관하되 7일 내에 사용하세요.",
+          "en": "High milk fat absorbs odors quickly. After opening, seal the pack tightly with a clip and store away from smelly food. Use in 7 days.",
+          "ja": "생크림은 냉장고 냄새를 스펀지처럼 흡수합니다. 개봉 후 반드시 입구를 꽉 집게로 닫아 잡내 배임을 방지하고 7일 내로 다 쓰세요.",
+          "zh": "乳脂肪含量高，极易吸收异味。开봉后请用夹子密封包装口，避开泡菜等有异味的食物，并在7天内用完。",
+          "es": "Absorbe olores rápido por la grasa láctea. Tras abrir, selle bien con un clip y guarde lejos de comidas con olor. Use en 7 days.",
+          "fr": "Absorbe les odeurs de par sa graisse. Après ouverture, fermez avec une pince et stockez loin des plats forts. Utilisez sous 7 jours.",
+          "de": "Milchfett absorbiert Gerüche extrem schnell. Nach dem Öffnen mit einer Klammer fest verschließen, geruchsintensive Speisen meiden. In 7 Tagen verbrauchen.",
+          "pt": "Absorve cheiro muito rápido pela gordura. Após aberto, feche com clipe e guarde longe de comidas com cheiro. Use em até 7 dias.",
+          "id": "Kadar lemak susu tinggi cepat menyerap bau. Setelah dibuka, segel rapat dengan klip, jauhkan dari makanan berbau. Gunakan dalam 7 hari."
+        },
+        "sources": [
+          "USDA"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cream-cheese",
+    "iconImage": "/assets/images/apps/freshself/ingredients/cream-cheese.png",
+    "category": "dairy",
+    "emoji": "",
+    "isProcessed": true,
+    "searchKeywords": {
+      "ko": [
+        "크림치즈",
+        "치즈보관",
+        "연성치즈"
+      ],
+      "en": [
+        "cream cheese",
+        "soft cheese",
+        "cheese"
+      ],
+      "ja": [
+        "クリームチーズ",
+        "チーズ"
+      ],
+      "zh": [
+        "奶油干酪",
+        "奶油芝士",
+        "乳酪"
+      ]
+    },
+    "names": {
+      "ko": "크림치즈",
+      "en": "Cream Cheese",
+      "ja": "クリームチーズ",
+      "zh": "奶油芝士",
+      "es": "Queso crema",
+      "fr": "Fromage à la crème",
+      "de": "Frischkäse",
+      "pt": "Cream cheese / Requeijão",
+      "id": "Keju krim"
+    },
+    "storage": {
+      "fridge": {
+        "durationDays": 14,
+        "tips": {
+          "ko": "개봉 후에는 은박지나 뚜껑을 꽉 닫아 밀봉하고 냉장실 깊숙이 보관하세요. 수분이 많아 곰팡이가 피기 쉬우며, 곰팡이가 피면 전체를 모두 폐기해야 합니다.",
+          "en": "Once opened, seal tightly and store in the back of the fridge. High moisture makes it mold easily; if mold appears, discard the entire container.",
+          "ja": "開封後はアルミホイルやフタをしっかり閉めて密閉し、冷蔵庫の奥で保管します。水分が多くカビやすいため、カビが発生した場合はすべて廃棄してください。",
+          "zh": "开封后请紧闭铝箔纸或盖子密封，存放在冷藏室深处。高水分极易发霉，一旦发霉必须将整盒全部丢弃。",
+          "es": "Tras abrir, selle bien y guarde al fondo de la nevera. Su humedad favorece el moho; si aparece, deseche todo el envase.",
+          "fr": "Après ouverture, fermez bien et stockez au fond du réfrigérateur. L’humidité favorise le moisissement ; jetez le pot complet si du moisi apparaît.",
+          "de": "Nach dem Öffnen luftdicht verschließen und hinten im Kühlschrank lagern. Hoher Feuchtigkeitsgehalt fördert Schimmel; bei Schimmel komplett entsorgen.",
+          "pt": "Após aberto, feche bem e guarde ao fundo da geladeira. A alta umidade facilita o mofo; se aparecer, descarte o pote inteiro.",
+          "id": "Setelah dibuka, segel rapat dan simpan di bagian dalam kulkas. Tinggi air mudah berjamur; buang seluruh isi jika berjamur."
+        },
+        "sources": [
+          "USDA",
+          "MFDS"
+        ]
+      }
+    }
+  }
+]
