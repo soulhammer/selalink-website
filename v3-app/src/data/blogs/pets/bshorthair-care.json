@@ -349,6 +349,64 @@
           "answer": "Mereka menghargai kemandirian dan merasa tidak aman saat cakar mereka kehilangan kontak dengan tanah. Pelukan paksa dapat merusak ikatan."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "브리티시 숏헤어",
+        "비대성 심근증",
+        "체중 조절",
+        "비만 예방"
+      ],
+      "en": [
+        "British Shorthair",
+        "HCM Prevention",
+        "Weight Control",
+        "Obesity"
+      ],
+      "ja": [
+        "ブリティッシュ・ショートヘア",
+        "肥大性心筋症",
+        "体重管理",
+        "肥満"
+      ],
+      "zh": [
+        "英国短毛猫",
+        "肥大性心肌病",
+        "体重管理",
+        "肥胖"
+      ],
+      "es": [
+        "British Shorthair",
+        "Prevención de HCM",
+        "Control de Peso",
+        "Obesidad"
+      ],
+      "fr": [
+        "British Shorthair",
+        "Prévention de CMH",
+        "Contrôle du Poids",
+        "Obésité"
+      ],
+      "de": [
+        "British Shorthair",
+        "HCM-Prävention",
+        "Gewichtskontrolle",
+        "Adipositas"
+      ],
+      "pt": [
+        "British Shorthair",
+        "Prevenção de HCM",
+        "Controle de Peso",
+        "Obesidade"
+      ],
+      "id": [
+        "British Shorthair",
+        "Pencegahan HCM",
+        "Kontrol Berat Badan",
+        "Obesitas"
+      ]
+    },
+    "pubDate": "2026-03-08",
+    "updatedDate": "2026-03-09"
   }
 }

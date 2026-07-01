@@ -349,6 +349,64 @@
           "answer": "메인쿤은 힘이 세고 덩치가 크기 때문에 빗질 과정에서 통증을 느껴 빗에 대해 거부감이 생기면 통제가 불가능한 상황이 올 수 있습니다. 사타구니나 겨드랑이 엉킨 부위는 부드러운 전처리 스프레이 후 조금씩 나누어 빗어야 합니다."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "메인쿤",
+        "거대묘",
+        "비대성 심근증",
+        "이중모 빗질"
+      ],
+      "en": [
+        "Maine Coon",
+        "Giant Cat",
+        "HCM Prevention",
+        "Double Coat"
+      ],
+      "ja": [
+        "メインクーン",
+        "大型猫",
+        "肥大性心筋症",
+        "二重毛のケア"
+      ],
+      "zh": [
+        "缅因猫",
+        "巨型猫",
+        "心肌病预防",
+        "双层毛梳理"
+      ],
+      "es": [
+        "Maine Coon",
+        "Gato Gigante",
+        "Prevención de HCM",
+        "Manto Doble"
+      ],
+      "fr": [
+        "Maine Coon",
+        "Chat Géant",
+        "Prévention de CMH",
+        "Double Pelage"
+      ],
+      "de": [
+        "Maine Coon",
+        "Riesenkatze",
+        "HCM-Prävention",
+        "Doppeltes Fell"
+      ],
+      "pt": [
+        "Maine Coon",
+        "Gato Gigante",
+        "Prevenção de HCM",
+        "Pelagem Dupla"
+      ],
+      "id": [
+        "Maine Coon",
+        "Kucing Raksasa",
+        "Pencegahan HCM",
+        "Bulu Ganda"
+      ]
+    },
+    "pubDate": "2026-04-20",
+    "updatedDate": "2026-04-20"
   }
 }

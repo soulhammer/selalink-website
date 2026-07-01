@@ -349,6 +349,64 @@
           "answer": "Siapkan mainan teka-teki makanan sebelum pergi. Hindari perpisahan emosional (seperti menggendong dan mencium berulang kali) minimal 10 menit sebelum keluar."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "샴 고양이",
+        "분리불안",
+        "대화형 울음",
+        "반려묘 놀이"
+      ],
+      "en": [
+        "Siamese",
+        "Separation Anxiety",
+        "Vocal Cats",
+        "Cat Playtime"
+      ],
+      "ja": [
+        "シャム猫",
+        "分離不安",
+        "おしゃべりな猫",
+        "猫の遊び"
+      ],
+      "zh": [
+        "暹罗猫",
+        "分离焦虑",
+        "爱叫的猫",
+        "猫咪游戏"
+      ],
+      "es": [
+        "Siamés",
+        "Ansiedad por Separación",
+        "Gatos Vocales",
+        "Juego de Gatos"
+      ],
+      "fr": [
+        "Siamois",
+        "Anxiété de Séparation",
+        "Chats Vocaux",
+        "Jeu Félin"
+      ],
+      "de": [
+        "Siamese",
+        "Trennungsangst",
+        "Vokale Katzen",
+        "Katzenspielzeit"
+      ],
+      "pt": [
+        "Siamês",
+        "Ansiedade de Separação",
+        "Gatos Vocais",
+        "Joguete de Gatos"
+      ],
+      "id": [
+        "Siamese",
+        "Kecemasan Perpisahan",
+        "Kucing Vokal",
+        "Waktu Bermain Kucing"
+      ]
+    },
+    "pubDate": "2026-02-19",
+    "updatedDate": "2026-02-19"
   }
 }

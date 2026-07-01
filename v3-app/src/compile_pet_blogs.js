@@ -25,7 +25,7 @@ if (!fs.existsSync(metaPath)) {
   console.error(`❌ [ERR] meta.json 파일이 존재하지 않습니다: ${metaPath}`);
   process.exit(1);
 }
-const { labelDict, petTags, petDates } = JSON.parse(fs.readFileSync(metaPath, 'utf-8'));
+const { labelDict } = JSON.parse(fs.readFileSync(metaPath, 'utf-8'));
 const labels = getPetLabels();
 
 const petTranslationData = {};
@@ -76,12 +76,12 @@ function generateMarkdown(slug, lang) {
   const summaryText = labels.petSummaryTexts[lang] || labels.petSummaryTexts['en'];
 
   // Frontmatter 생성
-  const tags = petTags[slug]?.[lang] || petTags[slug]?.['en'] || [];
+  const tags = data.tags?.[lang] || data.tags?.['en'] || [];
   const formattedTags = JSON.stringify(tags);
   const formattedFaqs = faqs.map(f => `  - question: "${f.question.replace(/"/g, '\\"')}"\n    answer: "${f.answer.replace(/"/g, '\\"')}"`).join('\n');
 
-  const pubDateStr = petDates[slug]?.pub || new Date().toISOString().split('T')[0];
-  const updatedDateStr = petDates[slug]?.upd || pubDateStr;
+  const pubDateStr = data.pubDate || new Date().toISOString().split('T')[0];
+  const updatedDateStr = data.updatedDate || pubDateStr;
   const heroImageSlug = slug.replace(/-/g, '_');
 
   let md = `---

@@ -1,0 +1,84 @@
+body {
+  font-family: var(--theme-font-family, 'Space Grotesk', 'Pretendard', sans-serif);
+  transition: background-color 0.5s ease, color 0.5s ease;
+  overflow-x: hidden;
+}
+
+/* Global Typography Polish for Korean */
+html[lang="ko"] body {
+  word-break: keep-all;
+  letter-spacing: -0.02em;
+}
+
+/* Font Helpers */
+.font-outfit {
+  font-family: 'Outfit', 'Space Grotesk', 'Pretendard', sans-serif;
+}
+.font-jakarta {
+  font-family: 'Plus Jakarta Sans', 'Pretendard', sans-serif;
+}
+
+/* LIGHT MODE DEFAULT */
+body {
+  background-color: #f8fafc; /* slate-50 */
+  color: #0f172a; /* slate-900 */
+  transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+}
+
+/* Dynamic Accent UI Links */
+#langButton {
+  transition: color 0.3s ease;
+}
+#langButton:hover {
+  color: var(--theme-accent) !important;
+}
+.bento-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(40px);
+  -webkit-backdrop-filter: blur(40px);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 32px;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.5s ease-in-out, border-color 0.5s ease-in-out;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
+  position: relative;
+  overflow: hidden;
+}
+.bento-card:hover {
+  transform: translateY(-4px) scale(1.01);
+  background: rgba(255, 255, 255, 0.95);
+  border-color: rgba(0, 0, 0, 0.12);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+  z-index: 10;
+}
+
+/* DARK MODE SPATIAL */
+html.dark body {
+  background-color: #0b0c10;
+  color: #ffffff;
+}
+html.dark .bento-card {
+  background: rgba(15, 17, 23, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.45);
+}
+html.dark .bento-card:hover {
+  background: rgba(25, 28, 36, 0.85);
+  border-color: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
+}
+
+/* GLOW EFFECT */
+.bento-glow {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle 220px at var(--mouse-x, 50%) var(--mouse-y, 50%), var(--glow-color, rgba(255,255,255,0.08)) 0%, transparent 75%);
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+.bento-card:hover .bento-glow {
+  opacity: 1;
+}

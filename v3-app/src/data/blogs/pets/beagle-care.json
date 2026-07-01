@@ -349,6 +349,64 @@
           "answer": "Telinga terkulai menghalangi udara masuk ke saluran telinga, menciptakan lingkungan lembap yang ideal bagi ragi. Aerasi mingguan sangat penting."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "비글",
+        "분리불안",
+        "하울링",
+        "외이염 예방"
+      ],
+      "en": [
+        "Beagle",
+        "Separation Anxiety",
+        "Howling",
+        "Ear Health"
+      ],
+      "ja": [
+        "ビーグル",
+        "分離不安",
+        "遠吠え",
+        "耳の健康"
+      ],
+      "zh": [
+        "比格犬",
+        "分离焦虑",
+        "嚎叫",
+        "耳朵健康"
+      ],
+      "es": [
+        "Beagle",
+        "Ansiedad por Separación",
+        "Aullidos",
+        "Oídos"
+      ],
+      "fr": [
+        "Beagle",
+        "Anxiété de Séparation",
+        "Hurlements",
+        "Oreilles"
+      ],
+      "de": [
+        "Beagle",
+        "Trennungsangst",
+        "Jaulen",
+        "Ohrengesundheit"
+      ],
+      "pt": [
+        "Beagle",
+        "Ansiedade de Separação",
+        "Uivos",
+        "Orelhas"
+      ],
+      "id": [
+        "Beagle",
+        "Kecemasan Perpisahan",
+        "Melolong",
+        "Kesehatan Telinga"
+      ]
+    },
+    "pubDate": "2026-02-28",
+    "updatedDate": "2026-03-01"
   }
 }

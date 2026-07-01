@@ -1,8 +1,11 @@
 ---
 import '../styles/global.css';
+import '../styles/layout.css';
 import { useTranslations, languages } from '../i18n/ui';
 import AppToast from '../components/AppToast.astro';
 import ShortsPlayerModal from '../components/ShortsPlayerModal.astro';
+import { themeColors, themeFonts, getPathForLang } from '../utils/layoutHelper';
+import { generateBaseSchema } from '../utils/seoHelper';
 
 export interface Props {
 	title: string;
@@ -34,39 +37,22 @@ const {
 	keywords
 } = Astro.props;
 
-// appId에 따른 테마 색상 및 서체 지정
-const themeColors = {
-	studio: '#0D9488', // Teal
-	buildself: '#0D9488',
-	freshself: '#8B5CF6',
-	storeself: '#10B981', // Pistachio Mint
-	logself: '#6366F1',
-	petself: '#F43F5E' // Rose
-};
-const themeFonts = {
-	studio: "'Space Grotesk', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif",
-	buildself: "'Outfit', 'Space Grotesk', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif",
-	freshself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif",
-	storeself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif",
-	logself: "'Outfit', 'Space Grotesk', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif",
-	petself: "'Plus Jakarta Sans', 'Pretendard', 'PingFang SC', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Microsoft YaHei', 'Meiryo', system-ui, -apple-system, sans-serif"
-};
-
-const currentAccent = themeColors[appId];
-const currentFont = themeFonts[appId];
+const currentAccent = themeColors[appId] || themeColors.studio;
+const currentFont = themeFonts[appId] || themeFonts.studio;
 
 const currentPath = Astro.url.pathname;
-const getPathForLang = (targetLang: string) => {
-    // Current path usually starts with /lang/ (e.g. /ko/apps/buildself)
-    const regex = new RegExp(`^/${lang}(/|$)`);
-    if (regex.test(currentPath)) {
-        return currentPath.replace(regex, `/${targetLang}$1`);
-    } else {
-        return `/${targetLang}${currentPath}`;
-    }
-};
-
 const t = useTranslations(lang as any);
+
+const baseSchema = generateBaseSchema({
+	pathname: currentPath,
+	appId,
+	ogType,
+	description,
+	canonicalUrl,
+	urlHref: Astro.url.href,
+	keywords,
+	t
+});
 ---
 <!doctype html>
 <html lang={lang} class="dark" style={`--theme-accent: ${currentAccent}; --theme-font-family: ${currentFont};`}>
@@ -89,23 +75,7 @@ const t = useTranslations(lang as any);
 		<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0b0c10" />
 		
 		<!-- Local Search Keywords Backup -->
-		{(() => {
-			const t = useTranslations(lang as any);
-			const isBuildSelf = Astro.url.pathname.includes('/apps/buildself') || appId === 'buildself';
-			const isFreshSelf = (Astro.url.pathname.includes('/apps/freshself') && !Astro.url.pathname.includes('/apps/storeself')) || appId === 'freshself';
-			const isStoreSelf = Astro.url.pathname.includes('/apps/storeself') || appId === 'storeself';
-			const isLogSelf = Astro.url.pathname.includes('/apps/logself') || appId === 'logself';
-
-			let fallbackKeywords = keywords;
-			if (!fallbackKeywords) {
-				if (isBuildSelf) fallbackKeywords = t('app.buildself.meta.keywords');
-				else if (isFreshSelf) fallbackKeywords = t('app.freshself.meta.keywords');
-				else if (isStoreSelf) fallbackKeywords = t('app.storeself.meta.keywords');
-				else if (isLogSelf) fallbackKeywords = t('app.logself.meta.keywords');
-				else fallbackKeywords = t('meta.keywords');
-			}
-			return <meta name="keywords" content={fallbackKeywords} />;
-		})()}
+		<meta name="keywords" content={baseSchema.keywords} />
 		
 		<!-- Search Engine Verification -->
 		<meta name="naver-site-verification" content="1060c1abc665f9d239ecdc584674b5fbac97f34d" />
@@ -138,13 +108,13 @@ const t = useTranslations(lang as any);
 		<!-- Hreflang SEO for Global Reach -->
 		{Object.keys(languages).map((code) => {
 			if (supportedLanguages && !supportedLanguages.includes(code)) return null;
-			const rawUrl = new URL(getPathForLang(code), Astro.site).href;
+			const rawUrl = new URL(getPathForLang(currentPath, lang, code), Astro.site).href;
 			const formattedUrl = rawUrl.endsWith('/') ? rawUrl : rawUrl + '/';
 			return <link rel="alternate" hreflang={code} href={formattedUrl} />;
 		})}
 		{(() => {
 			const defaultCode = supportedLanguages && supportedLanguages.length > 0 ? supportedLanguages[0] : 'en';
-			const rawDefaultUrl = new URL(getPathForLang(defaultCode), Astro.site).href;
+			const rawDefaultUrl = new URL(getPathForLang(currentPath, lang, defaultCode), Astro.site).href;
 			const formattedDefaultUrl = rawDefaultUrl.endsWith('/') ? rawDefaultUrl : rawDefaultUrl + '/';
 			return <link rel="alternate" hreflang="x-default" href={formattedDefaultUrl} />;
 		})()}
@@ -154,93 +124,7 @@ const t = useTranslations(lang as any);
 		<meta name="author" content="SelaLink Studio" />
 		
 		<!-- Comprehensive JSON-LD Structured Data for AI Search -->
-		{(() => {
-			const isBuildSelf = Astro.url.pathname.includes('/apps/buildself') || appId === 'buildself';
-			const isFreshSelf = (Astro.url.pathname.includes('/apps/freshself') && !Astro.url.pathname.includes('/apps/storeself')) || appId === 'freshself';
-			const isStoreSelf = Astro.url.pathname.includes('/apps/storeself') || appId === 'storeself';
-			const isLogSelf = Astro.url.pathname.includes('/apps/logself') || appId === 'logself';
-			
-			const appName = isBuildSelf ? "BuildSelf" : (isStoreSelf ? "StoreSelf" : (isFreshSelf ? "FreshSelf" : (isLogSelf ? "logSelf" : "SelaLink Studio")));
-			const appCategory = isStoreSelf ? "LifestyleApplication" : (isFreshSelf || isLogSelf ? "LifestyleApplication" : "HealthApplication");
-			
-			const rawUrl = canonicalUrl || Astro.url.href;
-			const formattedUrl = rawUrl.endsWith('/') ? rawUrl : rawUrl + '/';
-			
-			const sameAsLinks = [];
-			if (isBuildSelf) {
-				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.buildself");
-			} else if (isFreshSelf || isStoreSelf) {
-				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.freshself");
-			} else if (isLogSelf) {
-				sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.logself");
-			} else {
-				// 메인/기타 페이지일 때 공식 유튜브 채널 바인딩
-				sameAsLinks.push("https://www.youtube.com/channel/UChmmgdbcjP5PnVE-WGUspgA");
-			}
-
-			const t = useTranslations(lang as any);
-			
-			const alternateNames = [];
-			if (isBuildSelf) {
-				alternateNames.push(t('app.buildself.title'), "빌드셀프", "BuildSelf");
-			} else if (isFreshSelf) {
-				alternateNames.push(t('app.freshself.title'), "프레시셀프", "프레쉬셀프", "FreshSelf");
-			} else if (isStoreSelf) {
-				alternateNames.push(t('app.storeself.title'), "스토어셀프", "StoreSelf");
-			} else if (isLogSelf) {
-				alternateNames.push(t('app.logself.title'), "로그셀프", "logSelf");
-			}
-			
-			let appFeatures: string[] = [];
-			if (isBuildSelf) {
-				appFeatures = (t('app.buildself.meta.features') || '').split(',');
-			} else if (isFreshSelf) {
-				appFeatures = (t('app.freshself.meta.features') || '').split(',');
-			} else if (isStoreSelf) {
-				appFeatures = (t('app.storeself.meta.features') || '').split(',');
-			} else if (isLogSelf) {
-				appFeatures = (t('app.logself.meta.features') || '').split(',');
-			}
-			
-			let pageKeywords = keywords;
-			if (!pageKeywords) {
-				if (isBuildSelf) pageKeywords = t('app.buildself.meta.keywords');
-				else if (isFreshSelf) pageKeywords = t('app.freshself.meta.keywords');
-				else if (isStoreSelf) pageKeywords = t('app.storeself.meta.keywords');
-				else if (isLogSelf) pageKeywords = t('app.logself.meta.keywords');
-				else pageKeywords = t('meta.keywords');
-			}
-			
-			return (
-				<script type="application/ld+json" set:html={JSON.stringify({
-					"@context": "https://schema.org",
-					"@type": ogType === 'software' ? "SoftwareApplication" : "Organization",
-					"name": ogType === 'software' ? appName : "SelaLink Studio",
-					"alternateName": alternateNames.length > 0 ? alternateNames : undefined,
-					"url": formattedUrl,
-					"description": description,
-					"keywords": pageKeywords,
-					...(ogType === 'software' ? {
-						"applicationCategory": appCategory,
-						"operatingSystem": "iOS, Android",
-						"featureList": appFeatures.length > 0 ? appFeatures : undefined,
-						"offers": {
-							"@type": "Offer",
-							"price": "0",
-							"priceCurrency": "USD"
-						},
-						"publisher": {
-							"@type": "Organization",
-							"name": "SelaLink Studio",
-							"url": "https://selalink.net/"
-						}
-					} : {}),
-					...(sameAsLinks.length > 0 ? {
-						"sameAs": sameAsLinks
-					} : {})
-				})} />
-			);
-		})()}
+		<script type="application/ld+json" set:html={JSON.stringify(baseSchema)} />
 		
 		{structuredData && (
 			Array.isArray(structuredData) ? (
@@ -251,92 +135,6 @@ const t = useTranslations(lang as any);
 				<script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 			)
 		)}
-		
-		<style is:global>
-			body {
-				font-family: var(--theme-font-family, 'Space Grotesk', 'Pretendard', sans-serif);
-				transition: background-color 0.5s ease, color 0.5s ease;
-				overflow-x: hidden;
-			}
-			/* Global Typography Polish for Korean */
-			html[lang="ko"] body {
-				word-break: keep-all;
-				letter-spacing: -0.02em;
-			}
-			
-			/* Font Helpers */
-			.font-outfit {
-				font-family: 'Outfit', 'Space Grotesk', 'Pretendard', sans-serif;
-			}
-			.font-jakarta {
-				font-family: 'Plus Jakarta Sans', 'Pretendard', sans-serif;
-			}
-			
-			/* LIGHT MODE DEFAULT */
-			body {
-				background-color: #f8fafc; /* slate-50 */
-				color: #0f172a; /* slate-900 */
-				transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
-			}
-			
-			/* Dynamic Accent UI Links */
-			#langButton {
-				transition: color 0.3s ease;
-			}
-			#langButton:hover {
-				color: var(--theme-accent) !important;
-			}
-			.bento-card {
-				background: rgba(255, 255, 255, 0.85);
-				backdrop-filter: blur(40px);
-				-webkit-backdrop-filter: blur(40px);
-				border: 1px solid rgba(0, 0, 0, 0.08);
-				border-radius: 32px;
-				transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.5s ease-in-out, border-color 0.5s ease-in-out;
-				box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
-				position: relative;
-				overflow: hidden;
-			}
-			.bento-card:hover {
-				transform: translateY(-4px) scale(1.01);
-				background: rgba(255, 255, 255, 0.95);
-				border-color: rgba(0, 0, 0, 0.12);
-				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
-				z-index: 10;
-			}
-            
-			/* DARK MODE SPATIAL */
-			html.dark body {
-				background-color: #0b0c10;
-				color: #ffffff;
-			}
-			html.dark .bento-card {
-				background: rgba(15, 17, 23, 0.7);
-				border: 1px solid rgba(255, 255, 255, 0.08);
-				box-shadow: 0 4px 30px rgba(0, 0, 0, 0.45);
-			}
-			html.dark .bento-card:hover {
-				background: rgba(25, 28, 36, 0.85);
-				border-color: rgba(255, 255, 255, 0.15);
-				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
-			}
-            
-			/* GLOW EFFECT */
-			.bento-glow {
-				position: absolute;
-				width: 400px;
-				height: 400px;
-				background: radial-gradient(circle 220px at var(--mouse-x, 50%) var(--mouse-y, 50%), var(--glow-color, rgba(255,255,255,0.08)) 0%, transparent 75%);
-				opacity: 0;
-				transition: opacity 0.5s ease;
-				pointer-events: none;
-				border-radius: 50%;
-				transform: translate(-50%, -50%);
-			}
-			.bento-card:hover .bento-glow {
-				opacity: 1;
-			}
-		</style>
 		
 		<script is:inline define:vars={{ forceTheme }}>
 			const theme = (() => {
@@ -373,7 +171,6 @@ const t = useTranslations(lang as any);
 				{appId === 'storeself' && (
 					<span class="text-emerald-600 dark:text-emerald-400 font-bold ml-1.5 font-jakarta text-lg sm:text-xl tracking-normal animate-fade-in">StoreSelf</span>
 				)}
-
 				{appId === 'logself' && (
 					<span class="text-indigo-600 dark:text-indigo-400 font-extrabold ml-1.5 font-outfit text-lg sm:text-xl tracking-tight animate-fade-in">logSelf</span>
 				)}
@@ -419,7 +216,7 @@ const t = useTranslations(lang as any);
 							}
 
 							return (
-								<a href={getPathForLang(code)} class="px-4 py-2 text-sm text-slate-800 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors">
+								<a href={getPathForLang(currentPath, lang, code)} class="px-4 py-2 text-sm text-slate-800 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors">
 									{code.toUpperCase()} - {label}
 								</a>
 							);

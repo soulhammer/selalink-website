@@ -349,6 +349,64 @@
           "answer": "Meskipun tangga mengurangi benturan, lantai yang licin dan bulu kaki yang panjang juga berperan penting. Anda harus menjaga bulu cakar tetap pendek dan memasang keset antislip."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "말티즈",
+        "슬개골 탈구",
+        "눈물자국",
+        "반려견 케어"
+      ],
+      "en": [
+        "Maltese",
+        "Patellar Luxation",
+        "Tear Staining",
+        "Dog Care"
+      ],
+      "ja": [
+        "マルチーズ",
+        "膝蓋骨脱臼",
+        "涙やけ",
+        "犬のケア"
+      ],
+      "zh": [
+        "马尔济斯犬",
+        "髌骨脱位",
+        "泪痕",
+        "犬类护理"
+      ],
+      "es": [
+        "Maltés",
+        "Luxación Patelar",
+        "Manchas de Lágrimas",
+        "Cuidado de Perros"
+      ],
+      "fr": [
+        "Bichon maltais",
+        "Luxation de la rotule",
+        "Taches de larmes",
+        "Soins des chiens"
+      ],
+      "de": [
+        "Malteser",
+        "Patellaluxation",
+        "Tränenflecken",
+        "Hundepflege"
+      ],
+      "pt": [
+        "Maltês",
+        "Luxação Patelar",
+        "Manchas de Lágrimas",
+        "Cuidado de Cães"
+      ],
+      "id": [
+        "Maltese",
+        "Luksasi Patela",
+        "Noda Air Mata",
+        "Perawatan Anjing"
+      ]
+    },
+    "pubDate": "2026-01-20",
+    "updatedDate": "2026-01-22"
   }
 }

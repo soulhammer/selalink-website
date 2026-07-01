@@ -349,6 +349,64 @@
           "answer": "접힌 귀 구조상 귓구멍 입구가 좁고 구부러져 있어 면봉을 넣으면 이물질이 오히려 안으로 깊숙이 박히고 약한 귀 안쪽 피부막을 손상시켜 세균이나 효모균에 의한 심각한 외이염을 초래합니다."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "스코티시폴드",
+        "골연골이형성증",
+        "귀 청소",
+        "반려묘 관절"
+      ],
+      "en": [
+        "Scottish Fold",
+        "Osteochondrodysplasia",
+        "Ear Cleaning",
+        "Cat Joints"
+      ],
+      "ja": [
+        "スコティッシュフォールド",
+        "骨軟骨異形成症",
+        "耳掃除",
+        "猫の関節"
+      ],
+      "zh": [
+        "苏格兰折耳猫",
+        "骨软骨发育不良",
+        "洗耳清洁",
+        "猫咪关节"
+      ],
+      "es": [
+        "Scottish Fold",
+        "Osteocondrodiplasia",
+        "Limpieza de Oídos",
+        "Articulaciones"
+      ],
+      "fr": [
+        "Scottish Fold",
+        "Ostéochondrodysplasie",
+        "Nettoyage des Oreilles",
+        "Articulaciones"
+      ],
+      "de": [
+        "Scottish Fold",
+        "Osteochondrodysplasie",
+        "Ohrenreinigung",
+        "Gelenke"
+      ],
+      "pt": [
+        "Scottish Fold",
+        "Osteochondrodisplasia",
+        "Limpieza de Orelhas",
+        "Articulações"
+      ],
+      "id": [
+        "Scottish Fold",
+        "Osteochondrodysplasia",
+        "Pembersihan Telinga",
+        "Sendi Kucing"
+      ]
+    },
+    "pubDate": "2026-02-10",
+    "updatedDate": "2026-02-12"
   }
 }

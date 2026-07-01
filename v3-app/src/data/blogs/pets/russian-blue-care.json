@@ -349,6 +349,64 @@
           "answer": "Rendahkan postur Anda dan hindari kontak mata langsung, yang dianggap kucing sebagai ancaman. Biarkan mereka mengendus jari Anda terlebih dahulu."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "러시안블루",
+        "소심한 성격",
+        "은신처 확보",
+        "반려묘 홈케어"
+      ],
+      "en": [
+        "Russian Blue",
+        "Shy Temperament",
+        "Safe Hiding Spots",
+        "Cat Home Care"
+      ],
+      "ja": [
+        "ロシアンブルー",
+        "人見知りな性格",
+        "隠れ場所の確保",
+        "猫のホームケア"
+      ],
+      "zh": [
+        "俄罗斯蓝猫",
+        "胆小性格",
+        "安全隐蔽处",
+        "猫咪家庭护理"
+      ],
+      "es": [
+        "Azul Ruso",
+        "Temperamento Tímido",
+        "Escondites Seguros",
+        "Cuidado de Gatos"
+      ],
+      "fr": [
+        "Bleu Russe",
+        "Caractère Timide",
+        "Cachettes Sécurisées",
+        "Soins Félins"
+      ],
+      "de": [
+        "Russisch Blau",
+        "Scheues Temperament",
+        "Sichere Verstecke",
+        "Katzenpflege"
+      ],
+      "pt": [
+        "Azul Russo",
+        "Temperamento Tímido",
+        "Esconderijos Seguros",
+        "Cuidado de Cães"
+      ],
+      "id": [
+        "Russian Blue",
+        "Temperamen Pemalu",
+        "Tempat Sembunyi Aman",
+        "Perawatan Kucing"
+      ]
+    },
+    "pubDate": "2026-03-26",
+    "updatedDate": "2026-03-26"
   }
 }

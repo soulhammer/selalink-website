@@ -349,6 +349,64 @@
           "answer": "Bulu Bichon tipis dan keriting. Melewatkan menyikat menyebabkan kusut parah yang menekan kulit, menghalangi aliran darah, dan memicu dermatitis."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "비숑 프리제",
+        "비숑타임",
+        "털 엉킴",
+        "피부염 예방"
+      ],
+      "en": [
+        "Bichon Frise",
+        "Bichon Blitz",
+        "Fur Matting",
+        "Dermatitis"
+      ],
+      "ja": [
+        "ビション・フリーゼ",
+        "ビションタイム",
+        "毛のもつれ",
+        "皮膚炎"
+      ],
+      "zh": [
+        "比熊犬",
+        "比熊时间",
+        "毛发缠结",
+        "皮肤炎"
+      ],
+      "es": [
+        "Bichón Frisé",
+        "Bichon Blitz",
+        "Nudos de Pelo",
+        "Dermatitis"
+      ],
+      "fr": [
+        "Bichon Frisé",
+        "FRAPs",
+        "Nœuds de Poils",
+        "Dermatite"
+      ],
+      "de": [
+        "Bichon Frise",
+        "Bichon Blitz",
+        "Fellverfilzung",
+        "Hautentzündung"
+      ],
+      "pt": [
+        "Bichon Frisé",
+        "Bichon Blitz",
+        "Pelagem Embaraçada",
+        "Dermatite"
+      ],
+      "id": [
+        "Bichon Frise",
+        "Bichon Blitz",
+        "Bulu Kusut",
+        "Dermatitis"
+      ]
+    },
+    "pubDate": "2026-05-10",
+    "updatedDate": "2026-05-10"
   }
 }

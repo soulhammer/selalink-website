@@ -349,6 +349,64 @@
           "answer": "Kucing berwajah rata memiliki lipatan dalam di sekitar hidung. Air mata yang terperangkap memicu infeksi bakteri dan ragi, menyebabkan bau tidak sedap."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "페르시안 고양이",
+        "장모종 빗질",
+        "단두종 관리",
+        "눈물자국"
+      ],
+      "en": [
+        "Persian Cat",
+        "Longhair Grooming",
+        "Brachycephalic",
+        "Tear Stains"
+      ],
+      "ja": [
+        "ペルシアン猫",
+        "長毛のブラッシング",
+        "短頭種",
+        "涙やけ"
+      ],
+      "zh": [
+        "波斯猫",
+        "长毛梳理",
+        "扁脸猫",
+        "泪痕"
+      ],
+      "es": [
+        "Gato Persa",
+        "Aseo de Pelo Largo",
+        "Braquicéfalo",
+        "Lágrimas"
+      ],
+      "fr": [
+        "Chat Persan",
+        "Brossage Poil Long",
+        "Brachycéphale",
+        "Larmes"
+      ],
+      "de": [
+        "Perserkatze",
+        "Langhaarpflege",
+        "Kurzköpfig",
+        "Tränenflecken"
+      ],
+      "pt": [
+        "Gato Persa",
+        "Escovação de Pelo Longo",
+        "Braquicefálico",
+        "Lágrimas"
+      ],
+      "id": [
+        "Kucing Persia",
+        "Perawatan Bulu Panjang",
+        "Brakisefalik",
+        "Noda Air Mata"
+      ]
+    },
+    "pubDate": "2026-06-05",
+    "updatedDate": "2026-06-05"
   }
 }

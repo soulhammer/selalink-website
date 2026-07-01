@@ -349,6 +349,64 @@
           "answer": "Tidak. Tahap lanjut (Tingkat 3 atau 4) memerlukan koreksi bedah. Perawatan rumahan (berat badan sehat, mencegah slip) efektif pada tahap awal (Tingkat 1 atau 2) untuk memperlambat perkembangan."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "포메라니안",
+        "슬개골 예방",
+        "기관지 협착증",
+        "이중모 빗질"
+      ],
+      "en": [
+        "Pomeranian",
+        "Patellar Care",
+        "Tracheal Collapse",
+        "Double Coat Brushing"
+      ],
+      "ja": [
+        "ポメラニアン",
+        "膝蓋骨ケア",
+        "気管虚脱",
+        "二重毛のブラッシング"
+      ],
+      "zh": [
+        "博美犬",
+        "髌骨护理",
+        "气管塌陷",
+        "双层毛梳理"
+      ],
+      "es": [
+        "Pomerania",
+        "Cuidado de Rótula",
+        "Colapso Traqueal",
+        "Cepillado de Manto"
+      ],
+      "fr": [
+        "Loulou de Poméranie",
+        "Soin de Rotule",
+        "Collapsus Trachéal",
+        "Brossage Double Pelage"
+      ],
+      "de": [
+        "Zwergspitz",
+        "Kniescheibenpflege",
+        "Trachealkollaps",
+        "Fellbürsten"
+      ],
+      "pt": [
+        "Spitz Alemão",
+        "Cuidado Patelar",
+        "Colapso Traqueal",
+        "Escovação de Pelagem"
+      ],
+      "id": [
+        "Pomeranian",
+        "Perawatan Patela",
+        "Kolaps Trakea",
+        "Menyikat Bulu Ganda"
+      ]
+    },
+    "pubDate": "2026-01-05",
+    "updatedDate": "2026-01-05"
   }
 }

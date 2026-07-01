@@ -349,6 +349,64 @@
           "answer": "절대 금지입니다. 허스키의 이중모는 외부 열기와 자외선으로부터 피부를 차단하는 단열재 역할을 합니다. 털을 다 밀어버리면 체온 조절 능력을 상실해 열사병 위험이 극도로 높아지고 일광 화상을 입게 됩니다. 브러싱으로 죽은 털을 제거하는 것이 최선입니다."
         }
       ]
-    }
+    },
+    "tags": {
+      "ko": [
+        "시베리안 허스키",
+        "이중모 브러싱",
+        "하울링 방지",
+        "대형견 산책"
+      ],
+      "en": [
+        "Siberian Husky",
+        "Double Coat Brushing",
+        "Howling Prevention",
+        "Large Dog Walk"
+      ],
+      "ja": [
+        "シベリアンハスキー",
+        "二重毛のブラッシング",
+        "遠吠え防止",
+        "大型犬の散歩"
+      ],
+      "zh": [
+        "西伯利亚哈士奇",
+        "双层毛梳理",
+        "防止嚎叫",
+        "大型犬散步"
+      ],
+      "es": [
+        "Husky Siberiano",
+        "Cepillado de Manto",
+        "Prevenir Aullidos",
+        "Paseos de Perros Grandes"
+      ],
+      "fr": [
+        "Husky Sibérien",
+        "Brossage Double Pelage",
+        "Prévenir Hurlements",
+        "Promenade Grand Chien"
+      ],
+      "de": [
+        "Sibirischer Husky",
+        "Doppelfellbürsten",
+        "Jaulprävention",
+        "Spaziergang großer Hunde"
+      ],
+      "pt": [
+        "Husky Siberiano",
+        "Escovação de Pelagem",
+        "Prevenir Uivos",
+        "Passeios de Cães Grandes"
+      ],
+      "id": [
+        "Siberian Husky",
+        "Menyikat Bulu Ganda",
+        "Pencegahan Melolong",
+        "Jalan Anjing Besar"
+      ]
+    },
+    "pubDate": "2026-03-29",
+    "updatedDate": "2026-03-30"
   }
 }
