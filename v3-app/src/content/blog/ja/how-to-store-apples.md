@@ -6,6 +6,12 @@ category: "StoreSelf"
 tags: ["リンゴの保存方法", "果物の保存", "エチレンガス", "鮮度キープ", "暮らしの知恵"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+faqs:
+  - question: "傷んだりんごをラップで包んで保存しても大丈夫ですか？"
+    answer: "いいえ。傷があったり傷み始めているりんごは、通常の何十倍ものエチレンガスを放出するため、すぐに他のりんごから隔離して早めに食べる必要があります。"
+  - question: "保存する前に水洗いしてはいけないのはなぜですか？"
+    answer: "水気が残った状態で密封すると、内部に湿気がこもり、カビや細菌が繁殖しやすくなります。保存時は乾いた布で汚れを拭き取り、食べる直前に洗ってください。"
+
 
 steps:
   - name: "洗わずに食品用ラップで個別に包む — 水分キープ 📦"
@@ -58,6 +64,9 @@ steps:
     リンゴをそのまま冷蔵庫や常温で放置すると、水分がどんどん蒸発して皮がシワシワになり、果肉がパサついてしまいます。<br/><br/>
     💡 <strong>保存のコツ</strong>: 水をつけない状態のリンゴを、食品用ラップ（またはポリ袋）で1玉ずつ隙間なくぴったりと包みます。これにより、リンゴ本来の水分が閉じ込められてシャキシャキとした食感を長く保つことができ、エチレンガスの外部への漏れも一次的に防ぐことができます。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -104,4 +113,32 @@ steps:
       水気が残った状態でラップをしたり容器に密封したりすると、湿気がこもり、リンゴの皮にカビや雑菌が繁殖しやすくなります。土などの汚れは乾いた布で軽く拭き取る程度にとどめ、洗うのは食べる直前にしてください。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>傷んだりんごをラップで包んで保存しても大丈夫ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      いいえ。傷があったり傷み始めているりんごは、通常の何十倍ものエチレンガスを放出するため、すぐに他のりんごから隔離して早めに食べる必要があります。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>保存する前に水洗いしてはいけないのはなぜですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      水気が残った状態で密封すると、内部に湿気がこもり、カビや細菌が繁殖しやすくなります。保存時は乾いた布で汚れを拭き取り、食べる直前に洗ってください。
+    </p>
+  </details>
 </div>

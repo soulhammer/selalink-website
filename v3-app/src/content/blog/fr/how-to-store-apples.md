@@ -6,6 +6,12 @@ category: "StoreSelf"
 tags: ["Conserver Pommes", "Soin des Fruits", "Gaz Éthylène", "Astuces Fraîcheur", "Hacks Cuisine"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+faqs:
+  - question: "Est-il possible d'envelopper et de conserver des pommes abîmées ?"
+    answer: "Non. Les pommes présentant des blessures ou en début de décomposition émettent beaucoup plus de gaz éthylène, ce qui gâterait rapidement les autres pommes. Consommez-les immédiatement."
+  - question: "Pourquoi ne faut-il pas laver les pommes avant de les conserver ?"
+    answer: "L'humidité piégée sous le film favorise la prolifération de moisissures et de bactéries. Essuyez-les avec un chiffon sec et lavez-les juste avant de les consommer."
+
 
 steps:
   - name: "Envelopper individuellement de film plastique sans laver — Préservation de l'humidité 📦"
@@ -58,6 +64,9 @@ Par conséquent, la clé d'une conservation réussie des pommes est de **préven
     Laisser les pommes exposées à l'air libre dans le réfrigérateur ou à température ambiante provoque une évaporation rapide de l'humidité, ce qui ride la peau et assèche la chair.<br/><br/>
     💡 <strong>Astuce de conservation</strong> : Enveloppez fermement chaque pomme non lavée avec du film étirable alimentaire (ou des sachets en plastique individuels). L'emballage retient l'humidité naturelle de la pomme pour maintenir son croquant emblématique, tout en agissant comme une barrière primaire pour empêcher la fuite de gaz éthylène.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -104,4 +113,32 @@ Par conséquent, la clé d'une conservation réussie des pommes est de **préven
       Conserver les pommes avec une humidité superficielle emprisonne l'humidité dans l'emballage, créant un environnement idéal pour la prolifération de moisissures et de bactéries. Essuyez la saleté avec un chiffon sec si nécessaire, et lavez vos pommes uniquement juste avant de les manger.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Est-il possible d'envelopper et de conserver des pommes abîmées ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Non. Les pommes présentant des blessures ou en début de décomposition émettent beaucoup plus de gaz éthylène, ce qui gâterait rapidement les autres pommes. Consommez-les immédiatement.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Pourquoi ne faut-il pas laver les pommes avant de les conserver ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      L'humidité piégée sous le film favorise la prolifération de moisissures et de bactéries. Essuyez-les avec un chiffon sec et lavez-les juste avant de les consommer.
+    </p>
+  </details>
 </div>

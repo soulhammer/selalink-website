@@ -73,7 +73,6 @@ Das menschliche Gehirn scannt die Umgebung ständig nach visuellen und auditiven
 ---
 
 ## 3. Ein kognitionspsychologischer Ratschlag für eine erfolgreiche Routine
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>

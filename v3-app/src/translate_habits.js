@@ -986,7 +986,7 @@ const translationData = {
         text: {
           en: "Instead of tracking vague goals like 'working hard,' measure a specific, countable metric such as pages read, words written, minutes of focused work, or reps completed.",
           ja: "「一生懸命やる」といった曖昧な目標を追跡する代わりに、読んだページ数、書いた文字数、集中した時間、完了した回数など、具体的で数えられる指標を測定します。",
-          zh: "不要追踪如“努力工作”这样模糊的目标，而是测量具体、可计数的指标，例如阅读的页数、写作的字数、专注的时间或完成의 运动组数。",
+          zh: "不要追踪如“努力工作”这样模糊的目标，而是测量具体、可计数的指标，例如阅读的页数、写作的字数、专注的时间或完成的运动组数。",
           es: "En lugar de hacer un seguimiento de objetivos vagos como 'trabajar duro', mide una métrica específica y contable, como páginas leídas, palabras escritas, minutos de trabajo concentrado o repeticiones completadas.",
           fr: "Au lieu de suivre des objectifs vagues comme « travailler dur », mesurez un indicateur précis et quantifiable, tel que le nombre de pages lues, de mots écrits, de minutes de travail concentré ou de répétitions effectuées.",
           de: "Anstatt vage Ziele wie „hart arbeiten“ zu verfolgen, messen Sie eine spezifische, zählbare Metrik wie gelesene Seiten, geschriebene Wörter, Minuten fokussierter Arbeit oder absolvierte Wiederholungen.",
@@ -1359,7 +1359,226 @@ const translationData = {
       pt: "A inspiração não é um presente aleatório; é uma convidada que visita quem trabalha para ela diariamente. Ao afastar-se dos ecrãs e caminhar em silêncio, dá ao seu cérebro o espaço necessário para ligar os pontos. Compromete-se com uma caminhada diária.",
       id: "Inspirasi bukanlah hadiah acak; itu adalah tamu yang mengunjungi mereka yang bekerja untuk itu setiap hari. Dengan menjauh dari layar & berjalan dalam keheningan, Anda memberikan otak Anda ruang yang dibutuhkan untuk menghubungkan titik-titik."
     }
-  }
+  },
+  'einstein-violin-thinking': {
+          "title": {
+              "ko": "생각의 막다른 길에서 바이올린을 켠 천재? 알베르트 아인슈타인의 리셋 루틴",
+              "en": "The Genius Who Played the Violin at a Thinking Dead End? Albert Einstein's Reset Routine",
+              "ja": "思考が行き詰まった時にバイオリンを弾いた天才？アルベルト・アインシュタインのリセットルーティン",
+              "zh": "在思考死胡同里拉小提琴的天才？阿尔伯特·爱因斯坦的重置惯例",
+              "es": "¿El genio que tocaba el violín en un callejón sin salida del pensamiento? La rutina de reinicio de Albert Einstein",
+              "fr": "Le génie qui jouait du violon dans une impasse de réflexion ? La routine de réinitialisation d'Albert Einstein",
+              "de": "Das Genie, das in einer Denksackgasse Geige spielte? Albert Einsteins Reset-Routine",
+              "pt": "O gênio que tocava violino em um beco sem saída mental? A rotina de reinício de Albert Einstein",
+              "id": "Sang Genius yang Bermain Biola Saat Buntu Berpikir? Rutinitas Reset Albert Einstein"
+          },
+          "description": {
+              "ko": "물리학의 패러다임을 바꾼 알베르트 아인슈타인. 연구 도중 생각이 꽉 막힐 때마다 바이올린을 연주했던 그의 독특한 뇌 리셋법과 현대인을 위한 3단계 인지 전환 실천법을 알아봅니다.",
+              "en": "Albert Einstein, the genius physicist who played the violin whenever he was stuck. Discover his cognitive reset routine and a 3-step practice for modern people.",
+              "ja": "思考が行き詰まるたびにバイオリンを弾いていた天才物理学者アルベルト・アインシュタイン。彼の脳のリセット法と現代人のための3ステップ実践法を紹介します。",
+              "zh": "阿尔伯特·爱因斯坦，每当思考受阻时就会拉小提琴的天才物理学家。介绍他的大脑重置方法以及现代人的三步实践指南。",
+              "es": "Albert Einstein, el genio de la física que tocaba el violín cuando se estancaba. Descubra su rutina de reinicio cognitivo y una práctica de 3 pasos para personas modernas.",
+              "fr": "Albert Einstein, le génie de la physique qui jouait du violon quand il était bloqué. Découvrez sa routine de réinitialisation cognitive et une pratique en 3 étapes.",
+              "de": "Albert Einstein, das Physikergenie, das bei Denkblockaden Geige spielte. Entdecken Sie seine kognitive Reset-Routine und eine 3-Schritt-Praxis für moderne Menschen.",
+              "pt": "Albert Einstein, o físico genial que tocava violino quando estava bloqueado. Descubra sua rotina de reinício cognitivo e um guia prático de 3 passos.",
+              "id": "Albert Einstein, fisikawan genius yang bermain biola saat pikirannya buntu. Temukan rutinitas reset kognitifnya dan panduan praktis 3 langkah untuk manusia modern."
+          },
+          "authority": {
+              "ko": "알베르트 아인슈타인 전기 'Einstein: A Life' 및 Frontiers in Psychology 학술지",
+              "en": "Albert Einstein's Biography 'Einstein: A Life' & Frontiers in Psychology Journal",
+              "ja": "アインシュタイン評伝「Einstein: A Life」および学術誌「Frontiers in Psychology」",
+              "zh": "传记《Einstein: A Life》与学术期刊《Frontiers in Psychology》",
+              "es": "Biografía de Albert Einstein 'Einstein: A Life' y revista Frontiers in Psychology",
+              "fr": "Biographie d'Albert Einstein 'Einstein: A Life' & revue Frontiers in Psychology",
+              "de": "Albert Einsteins Biografie 'Einstein: A Life' & Fachzeitschrift Frontiers in Psychology",
+              "pt": "Biografia de Albert Einstein 'Einstein: A Life' & revista Frontiers in Psychology",
+              "id": "Biografi Albert Einstein 'Einstein: A Life' & Jurnal Frontiers in Psychology"
+          },
+          "intro": {
+              "ko": "상대성 이론을 발표하여 현대 물리학의 패러다임을 통째로 바꾸고 인류가 우주를 이해하는 방식을 혁명적으로 변화시킨 역사상 가장 위대한 물리학자, 알베르트 아인슈타인. 20세기 최고의 천재로 손꼽히는 그의 기발하고 혁신적인 아이디어들은 과연 어디서 탄생했을까요? 🎻\n\n아인슈타인은 복잡한 물리학 방정식을 연구하던 중 수학적 계산이 막다른 길에 다다르거나 생각이 꽉 막혀 더 이상 진전이 없을 때, 책상에서 일어나 바이올린 활을 잡았습니다. 그는 그의 어머니로부터 물려받은 소중한 바이올린이자 애칭이 붙은 '리나(Lina)'를 연주했습니다. 그는 바이올린을 켜는 동안 머릿속의 복잡한 물리 법칙들을 완전히 내려놓고 음악의 선율과 리듬에 온전히 몰입했습니다. 신기하게도 연주를 마치고 나면, 무의식 속에서 해결되지 않던 물리 문제들의 돌파구와 영감이 벼락처럼 떠오르곤 했습니다.\n\n오늘 BuildSelf에서는 아인슈타인이 평생 실천했던 '바이올린 리셋' 루틴의 과학적 작동 원리와 현대인들이 창의적 문제 해결을 위해 이를 어떻게 활용할 수 있는지 알아봅니다.",
+              "en": "Albert Einstein, the greatest physicist in history who changed the paradigm of modern physics by publishing the theory of relativity and revolutionized the way mankind understands the universe. Where did the great physical inspirations that changed the paradigm of mankind come from? 🎻\n\nEinstein always got up from his desk and played the violin 'Lina', a precious violin inherited from his mother, whenever he ran into a difficult mathematical obstacle or was stuck in his research. While playing the violin, he completely let go of the complex physical laws in his head and immersed himself in the melody and rhythm of the music. Surprisingly, after playing, breakthroughs and inspirations for physics problems that were not resolved in his subconscious mind often came like lightning.\n\nToday, BuildSelf introduces the scientific principles behind Einstein's 'violin reset' routine and how modern people can use it to solve creative problems.",
+              "ja": "相対性理論を発表して現代物理学のパラダイムを塗り替え、人類の宇宙観に革命をもたらした歴史上最も偉大な物理学者、アルベルト・アインシュタイン。20世紀最高の天才と呼ばれる彼の独創的なアイデアは、一体どこから生まれたのでしょうか？ 🎻\n\nアインシュタインは研究中、難しい数学的難問に直面したり、思考が行き詰まったりするたびに、いつでも机から立ち上がり、母親から受け継いだ大切なバイオリンであり、愛称までついた「リーナ（Lina）」を演奏しました。バイオリンを弾いている間、彼は頭の中の複雑な物理法則を完全に手放し、音楽の旋律とリズムに没頭しました。不思議なことに、演奏を終えると、無意識の中で解決できなかった物理の問題に対する突破口やインスピレーションが、稲妻のようにひらめくことがよくありました。\n\n今日のBuildSelfでは、アインシュタインが終生実践した「バイオリンリセット」ルーティンの科学的原理と、現代人が創造的な問題解決のためにこれをどのように活用できるかを紹介します。",
+              "zh": "阿尔伯特·爱因斯坦，发表相对论、改写现代物理学范式，并彻底改变人类宇宙观的史诗级物理学家。改变人类思维范式的伟大物理灵感究竟源自何处？ 🎻\n\n爱因斯坦在研究中遇到复杂的数学瓶颈或思考卡壳时，总会离开书桌，拿起从母亲那里继承的珍贵小提琴——被他爱称为“莉娜（Lina）”的琴来演奏。在拉琴时，他彻底放下脑中复杂的物理定律，将自己完全沉浸在音乐的旋律和节奏中。令人惊奇的是，演奏结束之后，那些在潜意识中悬而未决的物理难题的突破口和灵感，往往会像闪电般浮现。\n\n今天，BuildSelf 将带您了解爱因斯坦“小提琴重置”惯例背后的科学原理，以及现代人如何利用它来解决创造性难题。",
+              "es": "Albert Einstein, el físico más grande de la historia que cambió el paradigma de la física moderna al publicar la teoría de la relatividad y revolucionó la forma en que la humanidad comprende el universo. ¿De dónde surgieron las grandes inspiraciones físicas que cambiaron la mentalidad de la humanidad? 🎻\n\nEinstein siempre se levantaba de su escritorio y tocaba el violín 'Lina', un valioso violín heredado de su madre, cada vez que tropezaba con un obstáculo matemático difícil o se estancaba en su investigación. Mientras tocaba el violín, se desprendía por completo de las complejas leyes físicas de su cabeza y se sumergía en la melodía y el ritmo de la música. Sorprendentemente, tras tocar, los avances e inspiraciones para los problemas de física que no se resolvían en su mente subconsciente solían llegar como un relámpago.\n\nHoy, BuildSelf presenta los principios científicos que subyacen a la rutina de 'reinicio de violín' de Einstein y cómo las personas modernas pueden utilizarla para resolver problemas creativos.",
+              "fr": "Albert Einstein, le plus grand physicien de l'histoire, qui a changé le paradigme de la physique moderne en publiant la théorie de la relativité et a révolutionné la façon dont l'humanité comprend l'univers. D'où sont nées les grandes inspirations physiques qui ont changé les mentalités ? 🎻\n\nEinstein se levait toujours de son bureau pour jouer du violon 'Lina', un précieux violon hérité de sa mère, dès qu'il se heurtait à un obstacle mathématique difficile ou qu'il était bloqué dans ses recherches. En jouant du violon, il se libérait complètement des lois physiques complexes qui lui trottaient dans la tête pour s'immerger dans la mélodie et le rythme. Étonnamment, après avoir joué, les solutions et inspirations aux problèmes de physique qui ne s'étaient pas résolus dans son subconscient lui apparaissaient souvent comme un éclair.\n\nAujourd'hui, BuildSelf présente les principes scientifiques qui sous-tendent la routine de 'réinitialisation par le violon' d'Einstein et comment les intégrer au quotidien pour résoudre des problèmes créatifs.",
+              "de": "Albert Einstein, der größte Physiker der Geschichte, der mit der Relativitätstheorie das Paradigma der modernen Physik veränderte und das Weltbild der Menschheit revolutionierte. Woher stammten die großen physikalischen Inspirationen, die das Denken veränderten? 🎻\n\nEinstein stand immer von seinem Schreibtisch auf und spielte auf seiner Geige 'Lina' – einer kostbaren Geige, die er von seiner Mutter geerbt hatte –, wann immer er vor einem schwierigen mathematischen Hindernis stand oder in seiner Forschung feststeckte. Beim Geigenspiel ließ er die komplexen physikalischen Gesetze in seinem Kopf völlig los und tauchte in die Melodie und den Rhythmus der Musik ein. Überraschenderweise kamen ihm danach oft blitzartig Durchbrüche und Inspirationen für ungelöste Probleme.\n\nHeute stellt BuildSelf die wissenschaftlichen Prinzipien hinter Einsteins 'Geigen-Reset'-Routine vor und zeigt, wie moderne Menschen sie zur kreativen Problemlösung nutzen können.",
+              "pt": "Albert Einstein, o maior físico da história, que mudou o paradigma da física moderna ao publicar a teoria da relatividade e revolucionou a forma como a humanidade compreende o universo. De onde vieram as grandes inspirações que mudaram a mente humana? 🎻\n\nEinstein sempre se levantava de sua mesa e tocava seu violino 'Lina' – um instrumento precioso herdado de sua mãe – sempre que encontrava um obstáculo matemático difícil ou se via bloqueado em suas pesquisas. Ao tocar violino, ele se desligava completamente das leis físicas complexas em sua cabeça e se entregava à melodia e ao ritmo. Surpreendentemente, depois de tocar, soluções e insights para problemas que pareciam insolúveis surgiam em sua mente como um raio.\n\nHoje, o BuildSelf apresenta os princípios científicos por trás da rotina de 'reinício pelo violino' de Einstein e como as pessoas modernas podem usá-la para resolver desafios de forma criativa.",
+              "id": "Albert Einstein, fisikawan terbesar dalam sejarah yang mengubah paradigma fisika modern dengan merumuskan teori relativitas dan merevolusi cara manusia memahami semesta. Dari mana datangnya inspirasi fisik luar biasa yang mengubah pikiran manusia ini? 🎻\n\nEinstein selalu bangkit dari mejanya dan memainkan biola 'Lina' – sebuah biola berharga warisan ibunya – setiap kali menemui hambatan matematika yang sulit atau pikirannya buntu saat meneliti. Sembari bermain biola, ia melepaskan sepenuhnya beban hukum fisika yang rumit di kepalanya dan membenamkan diri dalam melodi serta irama musik. Ajaibnya, setelah bermain biola, terobosan dan inspirasi untuk memecahkan masalah fisika yang tak kunjung selesai di alam bawah sadarnya justru sering kali muncul seketika.\n\nHari ini, BuildSelf menyajikan prinsip-prinsip ilmiah di balik rutinitas 'reset biola' Einstein dan bagaimana manusia modern dapat menggunakannya untuk memecahkan masalah secara kreatif."
+          },
+          "whyTitle": {
+              "ko": "뇌의 다른 영역을 깨우는 '인지적 전환'",
+              "en": "'Cognitive Shifting' to Awaken Other Areas of the Brain",
+              "ja": "脳の異なる領域を呼び覚ます「認知の切り替え」",
+              "zh": "唤醒大脑其他区域的“认知转移”",
+              "es": "'Cambio Cognitivo' para Despertar Otras Áreas del Cerebro",
+              "fr": "La 'Bascule Cognitive' pour Éveiller d'Autres Zones du Cerveau",
+              "de": "'Kognitiver Wechsel' zur Aktivierung anderer Gehirnareale",
+              "pt": "'Mudança Cognitiva' para Despertar Outras Áreas do Cérebro",
+              "id": "'Alih Kognitif' untuk Mengaktifkan Area Otak Lain"
+          },
+          "whyDesc": {
+              "ko": "우리가 하나의 복잡한 문제에 지나치게 몰입해 있으면, 뇌는 생각의 덫에 갇혀 특정 신경 회로만을 반복적으로 활성화합니다. 이를 인지 심리학에서는 '터널 시야(Tunnel Vision)' 또는 '생각의 과부하' 상태라고 부릅니다. \n\n아인슈타인이 행한 바이올린 연주는 이 과부하된 신경 회로를 즉각 차단하고 뇌의 다른 영역을 활성화하는 완벽한 **'인지적 전환(Cognitive Shifting)'**의 도구였습니다. 악기를 연주하는 행위는 시각, 청각, 촉각을 동시에 자극하며 좌뇌와 우뇌를 연결하는 뇌량(Corpus Callosum)을 강하게 자극합니다. 집착하던 문제로부터 물리적, 정신적으로 한 걸음 물러나 음악에 온전히 주의를 집중하는 순간, 뇌는 무의식 상태(Default Mode Network)로 접어들어 흩어져 있던 정보들을 창의적으로 결합하여 해답을 유도하는 '아하 모먼트(Aha! Moment)'를 만들어 냅니다.",
+              "en": "When we are overly immersed in a single complex problem, the brain is trapped in a thinking trap and repeatedly activates only a specific neural circuit. Cognitive psychology calls this state 'tunnel vision' or 'cognitive overload.'\n\nEinstein's violin playing was a tool for a perfect **'cognitive shifting'** that immediately cut off this overloaded neural circuit and activated other areas of the brain. Playing a musical instrument simultaneously stimulates sight, hearing, and touch, and strongly stimulates the corpus callosum that connects the left and right brains. The moment you step away physically and mentally from the problem you were obsessed with and focus your attention entirely on the music, the brain enters the default mode network and creatively combines scattered information to create an 'Aha! Moment' that leads to a solution.",
+              "ja": "私たちが一つの複雑な問題に過度に没頭していると、脳は思考の罠に陥り、特定の神経回路のみを繰り返し活性化させます。これは認知心理学において「トンネル視野」または「認知の過負荷」状態と呼ばれます。\n\nアインシュタインが行ったバイオリン演奏は、この過負荷になった神経回路を即座に遮断し、脳の他の領域を活性化する完璧な**「認知の切り替え（Cognitive Shifting）」**ツールでした。楽器の演奏は、視覚・聴覚・触覚を同時に刺激し、左右の脳をつなぐ脳梁（Corpus Callosum）を強力に刺激します。執着していた問題から物理的・精神的に一歩退き、音楽に完全に注意を集中する瞬間、脳はデフォルトモードネットワーク（Default Mode Network）に入り、分散していた情報を創造的に結合して解決へと導く「アハ・モーメント（Aha! Moment）」を作り出すのです。",
+              "zh": "当我们过度沉浸在某一个复杂的难题中时，大脑会陷入思维陷阱，反复激活特定的单一神经回路。认知心理学将这种状态称为“隧道视野”或“认知超载”。\n\n爱因斯坦演奏小提琴的举动，正是阻断这一超载神经回路并激活大脑其他区域的完美**“认知转移（Cognitive Shifting）”**工具。演奏乐器同时刺激视觉、听觉和触觉，并强烈刺激连接左右脑的胼胝体（Corpus Callosum）。当你从执着的难题中抽身（无论是物理上还是精神上），将注意力完全集中于音乐时，大脑就会进入默认模式网络（Default Mode Network），从而创造性地重组零散信息，产生引导问题解决的“顿悟时刻（Aha! Moment）”。",
+              "es": "Cuando estamos demasiado inmersos en un único problema complejo, el cerebro se ve atrapado en una trampa de pensamiento y activa repetidamente sólo un circuito neural específico. La psicología cognitiva denomina a este estado 'visión de túnel' o 'sobrecarga cognitiva'.\n\nEl violín de Einstein era una herramienta para un perfecto **'cambio cognitivo (Cognitive Shifting)'** que cortaba inmediatamente este circuito neuronal sobrecargado y activaba otras áreas cerebrales. Tocar un instrumento estimula simultáneamente la vista, el oído y el tacto, y estimula con fuerza el cuerpo calloso que conecta los cerebros izquierdo y derecho. En el momento en que se aleja física y mentalmente del problema que le obsesionaba y centra su atención por completo en la música, el cerebro entra en la red neuronal por defecto y combina creativamente la información dispersa para crear un 'Momento Aha!' que conduce a una solución.",
+              "fr": "Lorsque nous sommes trop plongés dans un seul problème complexe, le cerveau s'enferme dans un piège de pensée et active de manière répétée un seul circuit neuronal spécifique. La psychologie cognitive appelle cet état 'vision tunnel' ou 'surcharge cognitive'.\n\nLe violon d'Einstein était l'outil d'une parfaite **'bascule cognitive (Cognitive Shifting)'** qui coupait immédiatement ce circuit surchargé pour activer d'autres zones cérébrales. Jouer d'un instrument stimule simultanément la vue, l'ouïe et le toucher, et stimule fortement le corps calleux reliant les deux hémisphères. Dès que l'on s'éloigne physiquement et mentalement du problème pour se concentrer sur la musique, le cerveau passe en réseau du mode par défaut et combine les informations dispersées pour créer le 'Moment Eurêka !' qui mène à la solution.",
+              "de": "Wenn wir uns zu sehr in ein einzelnes komplexes Problem vertiefen, gerät das Gehirn in eine Denkfalle und aktiviert wiederholt nur einen bestimmten Schaltkreis. Die kognitive Psychologie nennt diesen Zustand 'Tunnelblick' oder 'kognitive Überlastung'.\n\nEinsteins Geigenspiel war das Werkzeug für einen perfekten **'kognitiven Wechsel (Cognitive Shifting)'**, der diesen überlasteten Schaltkreis sofort unterbrach und andere Gehirnareale aktivierte. Das Spielen eines Instruments stimuliert Sehen, Hören und Fühlen gleichermaßen und regt den Balken (Corpus Callosum) an, der die Gehirnhälften verbindet. Sobald man sich physisch und mental von dem Problem entfernt und sich ganz auf die Musik konzentriert, schaltet das Gehirn in das Ruhezustandsnetzwerk (Default Mode Network) und verknüpft verstreute Informationen kreativ zu einem 'Aha-Erlebnis'.",
+              "pt": "Quando estamos excessivamente imersos em um único problema complexo, o cérebro fica preso em uma armadilha mental e ativa repetidamente apenas um circuito neural específico. A psicologia cognitiva chama esse estado de 'visão de túnel' ou 'sobrecarga cognitiva'.\n\nO violino de Einstein funcionava como uma ferramenta para uma perfeita **'mudança cognitiva (Cognitive Shifting)'**, que interrompia imediatamente o circuito sobrecarregado e ativava outras áreas do cérebro. Tocar um instrumento estimula visão, audição e tato simultaneamente, ativando fortemente o corpo caloso que conecta os dois hemisférios. No momento em que você se afasta física e mentalmente do problema e foca sua atenção na música, o cérebro entra na rede de modo padrão (Default Mode Network) e combina informações dispersas de forma criativa, gerando o 'Momento Eureka!' que leva à solução.",
+              "id": "Ketika kita terlalu terpaku pada satu masalah rumit, otak akan terjebak dalam perangkap berpikir dan berulang kali mengaktifkan sirkuit saraf tertentu saja. Psikologi kognitif menyebut kondisi ini sebagai 'tunnel vision' (pandangan sempit) atau 'kelebihan beban kognitif'.\n\nBiola Einstein berfungsi sebagai alat untuk melakukan **'alih kognitif (Cognitive Shifting)'** yang sempurna, yang langsung memutus sirkuit saraf yang kelebihan beban dan mengaktifkan area otak lainnya. Memainkan instrumen musik menstimulasi penglihatan, pendengaran, dan sentuhan secara bersamaan, serta merangsang korpus kalosum yang menghubungkan belahan otak kanan dan kiri. Saat Anda menjauh secara fisik dan mental dari masalah yang membuat Anda terobsesi dan memfokuskan perhatian pada musik, otak akan masuk ke jaringan mode default (Default Mode Network) dan menggabungkan informasi yang tersebar secara kreatif, menghasilkan 'Momen Eureka!' yang membawa solusi."
+          },
+          "cautionTitle": {
+              "ko": "놓아주는 법을 알아야 새로운 아이디어가 보입니다",
+              "en": "You must know how to let go to see new ideas",
+              "ja": "手放す方法を知ってこそ、新しいアイデアが見えます",
+              "zh": "唯有学会放手，才能看见新的灵感",
+              "es": "Debe saber soltar para ver nuevas ideas",
+              "fr": "Il faut savoir lâcher prise pour voir naître les idées",
+              "de": "Man muss loslassen können, um neue Ideen zu sehen",
+              "pt": "É preciso saber desapegar para enxergar novas ideias",
+              "id": "Anda harus tahu cara melepas untuk melihat ide baru"
+          },
+          "cautionDesc": {
+              "ko": "아인슈타인은 뛰어난 물리학자이자 훌륭한 바이올리니스트이기도 했습니다. 그에게 음악은 물리학 연구와 무관한 취미가 아니라, 오히려 뇌의 피로를 예방하고 창의적 영감을 깨우는 가장 강력한 생각의 윤활유였습니다. 아이디어가 막힐 때 더 억지로 매달리기보다 아인슈타인처럼 감각적 자극의 대상을 완전히 다르게 바꾸어 뇌가 리셋할 기회를 주세요.",
+              "en": "Einstein was an outstanding physicist and also an excellent violinist. For him, music was not a hobby unrelated to physics research, but rather the most powerful lubricant of thought that prevented brain fatigue and awakened creative inspiration. When ideas are blocked, instead of hanging on by force, completely change the target of sensory stimulation like Einstein to give the brain a chance to reset.",
+              "ja": "アインシュタインは優れた物理学者であると同時に、優れたバイオリニストでもありました。彼にとって音楽は物理学研究とは無関係の趣味ではなく、むしろ脳の疲労を防ぎ、創造的なインスピレーションを呼び覚ます強力な思考の潤滑油でした。アイデアが行き詰まった時は、無理に執着し続けるのではなく、アインシュタインのように感覚刺激の対象を完全に変えて、脳にリセットの機会を与えてください。",
+              "zh": "爱因斯坦既是伟大的物理学家，也是出色的小提琴手。对他而言，音乐并非与物理研究无关的消遣，反而是防止大脑疲劳、唤醒创造性灵感的最强思维润滑剂。当灵感枯竭时，与其死磕，不如像爱因斯坦那样彻底改变感官刺激的对象，给大脑一个重置的机会。",
+              "es": "Einstein era un físico excepcional y también un excelente violinista. Para él, la música no era un pasatiempo ajeno a la investigación física, sino el lubricante del pensamiento más potente que evitaba la fatiga cerebral y despertaba la inspiración creativa. Cuando las ideas estén bloqueadas, en lugar de aferrarse a ellas por la fuerza, cambie por completo el foco de estimulación sensorial como hizo Einstein para dar al cerebro la oportunidad de reiniciar.",
+              "fr": "Einstein était un physicien hors pair mais aussi un excellent violoniste. Pour lui, la musique n'était pas un loisir déconnecté de ses travaux, mais le lubrifiant de pensée le plus puissant pour éviter la fatigue cérébrale et éveiller l'inspiration. Quand les idées bloquent, ne forcez pas : changez d'activité sensorielle comme lui pour réinitialiser le cerveau.",
+              "de": "Einstein war ein herausragender Physiker und auch ein exzellenter Geiger. Musik war für ihn kein von der Forschung getrenntes Hobby, sondern das stärkste Denkschmiermittel, das Gehirnmüdigkeit verhinderte und kreative Inspirationen weckte. Wenn Sie feststecken, versuchen Sie, wie Einstein den Sinnesreiz komplett zu wechseln, um dem Gehirn eine Chance zum Zurücksetzen zu geben.",
+              "pt": "Einstein era um físico brilhante e também um excelente violinista. Para ele, a música não era um hobby desconectado de suas pesquisas, mas sim o lubrificante mental mais potente para evitar a fadiga cerebral e despertar a inspiração. Quando as ideias travarem, não force: mude o foco sensorial como Einstein para dar ao cérebro a chance de reiniciar.",
+              "id": "Einstein adalah fisikawan luar biasa sekaligus pemain biola yang hebat. Baginya, musik bukanlah hobi yang terpisah dari penelitian fisikanya, melainkan pelumas pikiran paling ampuh untuk mencegah kelelahan otak dan membangkitkan inspirasi kreatif. Ketika ide Anda buntu, jangan dipaksakan: alihkan fokus sensorik seperti Einstein untuk memberi otak kesempatan mereset diri."
+          },
+          "steps": [
+              {
+                  "name": {
+                      "ko": "생각의 강제 정지 및 화면 차단",
+                      "en": "Forced Stop of Thinking and Screen Blocking",
+                      "ja": "思考の強制停止と画面の遮断",
+                      "zh": "强行停止思考并屏蔽屏幕",
+                      "es": "Parada Forzada del Pensamiento y Bloqueo de Pantallas",
+                      "fr": "Arrêt Forcé de la Réflexion et Blocage des Écrans",
+                      "de": "Erzwungener Denkstopp und Bildschirmsperre",
+                      "pt": "Pausa Forçada no Pensamento e Bloqueio de Telas",
+                      "id": "Hentikan Pikiran Secara Paksa dan Jauhi Layar"
+                  },
+                  "text": {
+                      "ko": "업무나 공부 중 아이디어가 막히거나 스트레스가 차오르면 즉시 키보드에서 손을 떼고 스마트폰이나 모니터 화면을 보지 않는 곳으로 이동합니다. 뇌에 들어오는 시각적 정보 유입을 차단하는 것이 우선입니다.",
+                      "en": "If you get stuck or feel stressed during work or study, immediately take your hands off the keyboard and move to a place where you do not see the smartphone or monitor screen. Cutting off the visual information flowing into the brain is the priority.",
+                      "ja": "仕事や勉強の途中でアイデアが行き詰まったりストレスを感じたら、すぐにキーボードから手を離し、スマートフォンやモニターの画面が見えない場所に移動します。脳に入る視覚情報の流入を遮断することが最優先です。",
+                      "zh": "如果在工作或学习中灵感卡壳或压力倍增，立即将手移开键盘，走到看不见手机或显示器屏幕的地方。阻断视觉信息输入大脑是首要一步。",
+                      "es": "Si se bloquea o siente estrés durante el trabajo o el estudio, retire inmediatamente las manos del teclado y diríjase a un lugar donde no vea la pantalla del smartphone o del monitor. Cortar la información visual que fluye hacia el cerebro es la prioridad.",
+                      "fr": "Si vous bloquez ou stressez au travail, lâchez immédiatement le clavier et déplacez-vous là où vous ne voyez ni smartphone ni écran. Couper les flux d'informations visuelles est la priorité absolue.",
+                      "de": "Wenn Sie bei der Arbeit feststecken oder Stress spüren, nehmen Sie sofort die Hände von der Tastatur und gehen Sie an einen Ort, an dem Sie keinen Bildschirm sehen. Die Unterbrechung des visuellen Informationsflusses hat Priorität.",
+                      "pt": "Se você travar ou sentir estresse no trabalho, tire imediatamente as mãos do teclado e vá para um local onde não veja a tela do celular ou computador. Cortar os estímulos visuais que chegam ao cérebro é a prioridade.",
+                      "id": "Jika Anda buntu atau merasa stres saat bekerja atau belajar, segera lepaskan tangan dari keyboard dan pergilah ke tempat di mana Anda tidak melihat layar ponsel atau komputer. Memutus aliran informasi visual ke otak adalah prioritas utama."
+                  }
+              },
+              {
+                  "name": {
+                      "ko": "5분간의 청각 및 리듬 집중 리추얼",
+                      "en": "5-Minute Listening and Rhythm Focus Ritual",
+                      "ja": "5分間の聴覚・リズム集中リチュアル",
+                      "zh": "5分钟听觉与节奏专注仪式",
+                      "es": "Ritual de 5 Minutos de Escucha y Enfoque en el Ritmo",
+                      "fr": "Ritual de 5 Min d'Écoute et de Focus sur le Rythme",
+                      "de": "5-minütiges Hör- und Rhythmusritual",
+                      "pt": "Ritual de 5 Minutos de Foco na Audição e no Ritmo",
+                      "id": "Ritual 5 Menit Fokus Mendengar dan Mengikuti Irama"
+                  },
+                  "text": {
+                      "ko": "주변에 있는 가벼운 손악기(칼림바, 리코더, 우쿨렐레, 심지어 핑거 드럼 등)를 5분간 마음대로 연주해 봅니다. 악기가 없다면 가사가 없는 클래식이나 재즈 연주곡을 재생한 뒤 눈을 감고, 멜로디의 흐름과 타악기의 박자에 온 감각을 집중하여 손가락으로 가볍게 박자를 탑니다.",
+                      "en": "Try playing a light hand instrument (kalimba, recorder, ukulele, or even finger drums) around you for 5 minutes. If you do not have an instrument, play a classical or jazz instrumental song with your eyes closed, focus all your senses on the flow of melody and the rhythm of the percussion, and lightly tap the rhythm with your fingers.",
+                      "ja": "身の回りにある手軽な楽器（カリンバ、リコーダー、ウクレレ、あるいはフィンガードラムなど）を5分間自由に演奏してみましょう。楽器がない場合は、歌詞のないクラシックやジャズの演奏曲を再生して目を閉じ、メロディの響きとリズムに意識を集中させ、指で軽く拍子をとります。",
+                      "zh": "尝试摆弄身边的简易手部乐器（如卡林巴琴、八孔竖笛、尤克里里，甚至指尖鼓）5分钟。如果没有乐器，闭上眼睛，播放一首无歌词的古典乐或爵士乐，将全部感官集中在旋律的流动和打击乐的节奏上，用手指轻轻打拍子。",
+                      "es": "Pruebe a tocar un instrumento de mano ligero (kalimba, flauta dulce, ukelele o incluso tambores de dedos) a su alrededor durante 5 minutos. Si no dispone de un instrumento, reproduzca un tema instrumental clásico o de jazz con los ojos cerrados, concentre todos los sentidos en el fluir de la melodía y el compás, y marque ligeramente el ritmo con los dedos.",
+                      "fr": "Essayez de jouer d'un instrument à main léger (kalimba, flûte, ukulélé, ou même pianoter avec les doigts) pendant 5 minutes. Sinon, fermez les yeux et écoutez un morceau instrumental de classique ou de jazz, concentrez vos sens sur la mélodie et marquez le rythme.",
+                      "de": "Spielen Sie 5 Minuten lang ein einfaches Handinstrument (Kalimba, Blockflöte, Ukulele oder Fingertrommeln). Wenn Sie kein Instrument haben, spielen Sie mit geschlossenen Augen ein klassisches oder Jazz-Instrumentalstück ab, konzentrieren Sie sich auf die Melodie und klopfen Sie den Rhythmus mit den Fingern mit.",
+                      "pt": "Tente tocar um instrumento manual leve (calimba, flauta, ukulele ou mesmo tambores de dedo) por 5 minutos. Se não tiver um instrumento, feche os olhos e ouça uma música instrumental clássica ou de jazz, concentrando-se na melodia e marcando o ritmo com os dedos.",
+                      "id": "Cobalah memainkan instrumen musik tangan yang ringan (kalimba, suling, ukulele, atau bahkan mengetuk jari) selama 5 menit. Jika tidak memiliki instrumen, pejamkan mata dan dengarkan lagu instrumental klasik atau jazz, pusatkan seluruh indra pada melodi dan ikuti iramanya dengan jari Anda."
+                  }
+              },
+              {
+                  "name": {
+                      "ko": "이완 후 떠오른 아이디어 즉시 외재화",
+                      "en": "Immediate Externalization of Ideas After Relaxation",
+                      "ja": "リラックス直後のアイデア即時メモ",
+                      "zh": "放松后立即将灵感外在化",
+                      "es": "Externalización Inmediata de Ideas Tras la Relajación",
+                      "fr": "Externalisation Immédiate des Idées Après la Relaxation",
+                      "de": "Sofortiges Aufschreiben von Ideen nach der Entspannung",
+                      "pt": "Externalização Imediata das Ideias Após o Relaxamento",
+                      "id": "Tulis Ide Segera Setelah Relaksasi"
+                  },
+                  "text": {
+                      "ko": "5분간의 리셋 시간이 끝난 직후, 의도적으로 원래 하던 문제로 가볍게 시선을 돌립니다. 이때 뇌가 긴장에서 해방되며 무의식 속에서 정제되어 떠오르는 짧은 힌트나 키워드를 가볍게 메모장에 옮겨 적습니다.",
+                      "en": "Immediately after the 5-minute reset time, intentionally turn your eyes back to the original problem. At this time, as the brain is released from tension, lightly write down short hints or keywords that naturally come up in your subconscious mind in a notepad.",
+                      "ja": "5分間のリセットタイムが終わった直後、意識を元の問題に軽く戻します。この時、緊張から解放された脳の無意識から自然に浮かび上がってくる短いヒントやキーワードを、すぐにメモ帳に書き留めます。",
+                      "zh": "5分钟重置结束后，有意识地将目光转回原本的问题上。此时，随着大脑压力释放，迅速将潜意识中自然浮现出的简短提示或关键词记录在备忘录上。",
+                      "es": "Inmediatamente después del tiempo de reinicio de 5 minutos, vuelva intencionadamente la mirada al problema original. En este momento, a medida que el cerebro se libera de la tensión, anote rápidamente en un bloc de notas las pistas cortas o palabras clave que surjan de forma natural en su subconsciente.",
+                      "fr": "Juste après les 5 minutes de pause, retournez vers le problème initial. Avec le relâchement des tensions, notez immédiatement sur un carnet les pistes ou mots-clés qui surgissent naturellement de votre subconscient.",
+                      "de": "Kehren Sie direkt nach dem 5-minütigen Reset gedanklich zum ursprünglichen Problem zurück. Schreiben Sie die kurzen Hinweise oder Schlüsselwörter, die sich nun aus dem entspannten Unterbewusstsein lösen, sofort in ein Notizbuch.",
+                      "pt": "Logo após os 5 minutos de pausa, volte sua atenção para o problema inicial. Com o relaxamento das tensões, anote rapidamente no bloco de notas as ideias ou palavras-chave que surgirem naturalmente do subconsciente.",
+                      "id": "Sesaat setelah jeda 5 menit selesai, kembalikan perhatian Anda pada masalah awal. Dengan meredanya ketegangan, segera catat ide atau kata kunci yang muncul secara alami dari alam bawah sadar di buku catatan."
+                  }
+              }
+          ],
+          "faqs": [
+              {
+                  "question": {
+                      "ko": "아인슈타인은 바이올린 연주 외에 다른 방식으로도 뇌를 리셋했나요?",
+                      "en": "Did Einstein reset his brain in other ways besides playing the violin?",
+                      "ja": "アインシュタインはバイオリン演奏以外にどのように脳をリセットしましたか？",
+                      "zh": "除演奏小提琴外，爱因斯坦还通过什么方式重置大脑？",
+                      "es": "¿Reajustaba Einstein su cerebro de otras formas además de tocar el violín?",
+                      "fr": "Einstein réinitialisait-il son cerveau autrement qu'en jouant du violon ?",
+                      "de": "Hat Einstein sein Gehirn auch auf andere Weise zurückgesetzt?",
+                      "pt": "Einstein reiniciava o cérebro de outras formas além do violino?",
+                      "id": "Apakah Einstein mereset otaknya dengan cara lain selain bermain biola?"
+                  },
+                  "answer": {
+                      "ko": "네, 아인슈타인은 연구 도중 정기적으로 요트를 타고 바다로 나가 바람을 느끼며 명상을 하거나, 하루 10시간 이상 충분한 수면을 통해 잠재의식이 문제를 정리할 수 있도록 도왔습니다.",
+                      "en": "Yes, Einstein regularly went sailing on the sea to feel the wind and meditate, or slept for over 10 hours a day to allow his subconscious to organize complex problems.",
+                      "ja": "はい、アインシュタインは研究の合間に定期的にヨットに乗って海に出て、風を感じながら瞑想したり、1日10時間以上の十分な睡眠をとることで、無意識が課題を整理できるようにしました。",
+                      "zh": "是的，爱因斯坦会定期乘帆船出海，在感受风吹的同时进行冥想，或者每天保持10小时以上的充足睡眠，让潜意识去整理复杂的科学难题。",
+                      "es": "Sí, Einstein navegaba regularmente por el mar para sentir el viento y meditar, o dormía más de 10 horas al día para permitir que su subconsciente organizara problemas complejos.",
+                      "fr": "Oui, Einstein faisait régulièrement de la voile pour sentir le vent et méditer, ou dormait plus de 10 heures par jour pour laisser son subconscient organiser les problèmes complexes.",
+                      "de": "Ja, Einstein ging regelmäßig segeln, um den Wind zu spüren und zu meditieren, oder schlief mehr als 10 Stunden am Tag, damit sein Unterbewusstsein komplexe Probleme ordnen konnte.",
+                      "pt": "Sim, Einstein costumava velejar no mar para sentir o vento e meditar, ou dormia mais de 10 horas por dia para permitir ao seu subconsciente organizar os problemas complexos.",
+                      "id": "Ya, Einstein secara teratur pergi berlayar di laut untuk merasakan angin dan bermeditasi, atau tidur lebih dari 10 jam sehari agar alam bawah sadarnya dapat merapikan masalah rumit."
+                  }
+              },
+              {
+                  "question": {
+                      "ko": "악기를 전혀 다룰 줄 모르는 사람도 이 루틴을 따라 할 수 있나요?",
+                      "en": "Can someone who doesn't know how to play any instrument follow this routine?",
+                      "ja": "楽器が全く弾けない人でもこのルーティンを実践できますか？",
+                      "zh": "完全不会乐器的人也可以实践这个习惯吗？",
+                      "es": "¿Puede seguir esta rutina alguien que no sepa tocar ningún instrumento?",
+                      "fr": "Quelqu'un qui ne sait pas jouer d'un instrument peut-il suivre cette routine ?",
+                      "de": "Kann jemand, der kein Instrument spielt, diese Routine anwenden?",
+                      "pt": "Quem não sabe tocar nenhum instrumento pode seguir esta rotina?",
+                      "id": "Bisakah seseorang yang tidak tahu cara bermain instrumen mengikuti rutinitas ini?"
+                  },
+                  "answer": {
+                      "ko": "물론입니다. 악기를 직접 다루는 대신 클래식 음악에 집중하며 핑거 탭(손가락으로 리듬 타기)을 하거나, 심호흡을 하며 5분간 외부 자극을 완전히 차단하는 것만으로도 동일한 인지적 전환 효과를 낼 수 있습니다.",
+                      "en": "Absolutely. Instead of playing an instrument, you can focus on classical music, do finger tapping to the rhythm, or simply practice deep breathing while blocking all external visual inputs for 5 minutes.",
+                      "ja": "もちろんです。楽器を演奏する代わりにクラシック音楽に集中して指でリズムをとったり、5分間目をつぶって深呼吸し、外部の視覚刺激を完全に遮断するだけでも同様の認知切り替え効果を得られます。",
+                      "zh": "当然可以。代替演奏乐器，闭上眼睛聆听古典音乐并用手指打拍子，或者仅仅在阻断外部视觉刺激的同时深呼吸5分钟，也能达到同样的认知转移效果。",
+                      "es": "Por supuesto. En lugar de tocar, puede concentrarse en la música clásica, marcar el ritmo con los dedos o practicar respiraciones profundas mientras bloquea los estímulos visuales durante 5 minutos.",
+                      "fr": "Absolument. Au lieu de jouer d'un instrument, vous pouvez écouter du classique en marquant le rythme avec vos doigts, ou faire des respirations profondes en coupant tout stimulus visuel pendant 5 minutes.",
+                      "de": "Absolut. Statt ein Instrument zu spielen, können Sie sich auf klassische Musik konzentrieren, den Rhythmus mit den Fingern mitklopfen oder tief durchatmen, während Sie alle visuellen Reize für 5 Minuten ausblenden.",
+                      "pt": "Com certeza. Em vez de tocar, pode concentrar-se na música clássica, marcar o ritmo com os dedos ou fazer respirações profundas enquanto bloqueia estímulos visuais por 5 minutos.",
+                      "id": "Tentu saja. Alih-alih bermain instrumen, Anda dapat fokus pada musik klasik, mengetuk jari mengikuti irama, atau sekadar bernapas dalam-dalam sambil menutup mata selama 5 menit."
+                  }
+              }
+          ],
+          "stepImages": [
+              "",
+              "/images/blog/einstein_violin_relax.png",
+              ""
+          ]
+      }
 };
 
 
@@ -1411,6 +1630,11 @@ function run() {
 
         steps.push({ name: sName, text: sText });
 
+        let imageHtml = '';
+        if (data.stepImages && data.stepImages[idx]) {
+          imageHtml = `\n  <div class="mt-6 flex justify-center">\n    <img src="${data.stepImages[idx]}" alt="${sName}" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />\n  </div>`;
+        }
+
         stepCards.push(`<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">${lang === 'ja' ? 'ステップ' : lang === 'zh' ? '步骤' : lang === 'fr' ? 'ÉTAPE' : lang === 'es' || lang === 'pt' ? 'PASO' : lang === 'id' ? 'LANGKAH' : lang === 'de' ? 'SCHRITT' : 'STEP'} ${stepIdx}</span>
@@ -1418,11 +1642,56 @@ function run() {
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     ${sText}
-  </p>
+  </p>${imageHtml}
 </div>`);
       });
 
       const stepsYaml = steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n');
+
+      let faqSection = '';
+      if (data.faqs && data.faqs.length > 0) {
+        const faqTitle = lang === 'ja' ? '\u3088\u304f\u3042\u308b\u8cea\u554f (FAQ)'
+          : lang === 'zh' ? '\u5e38\u89c1\u95ee\u9898 (FAQ)'
+          : lang === 'es' ? 'Preguntas Frecuentes (FAQ)'
+          : lang === 'fr' ? 'Foire Aux Questions (FAQ)'
+          : lang === 'de' ? 'H\u00e4ufig gestellte Fragen (FAQ)'
+          : lang === 'pt' ? 'Perguntas Frequentes (FAQ)'
+          : lang === 'id' ? 'Pertanyaan Sering Diajukan (FAQ)'
+          : 'Frequently Asked Questions (FAQ)';
+
+        const faqItems = data.faqs.map((faq, faqIdx) => {
+          const q = faq.question[lang] || faq.question['en'];
+          const a = faq.answer[lang] || faq.answer['en'];
+          const isOpen = faqIdx === 0 ? ' open' : '';
+          const borderClass = faqIdx < data.faqs.length - 1 ? ' border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4' : '';
+          return `  <details class="group${borderClass} cursor-pointer"${isOpen}>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>${q}</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">\u25bc</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      ${a}
+    </p>
+  </details>`;
+        }).join('\n\n');
+
+        faqSection = `\n---\n\n<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>\ud83d\udccd</span> ${faqTitle}
+  </h3>
+  
+${faqItems}
+</div>\n`;
+      }
+
+      let faqsYaml = '';
+      if (data.faqs && data.faqs.length > 0) {
+        faqsYaml = 'faqs:\n' + data.faqs.map(faq => {
+          const q = faq.question[lang] || faq.question['en'];
+          const a = faq.answer[lang] || faq.answer['en'];
+          return `  - question: "${q.replace(/"/g, '\\"')}"\n    answer: "${a.replace(/"/g, '\\"')}"`;
+        }).join('\n') + '\n';
+      }
 
       const fileContent = `---
 title: "${title.replace(/"/g, '\\"')}"
@@ -1435,7 +1704,7 @@ app: "buildself"
 authority: "${authority.replace(/"/g, '\\"')}"
 steps:
 ${stepsYaml}
----
+${faqsYaml}---
 
 ${intro}
 
@@ -1466,7 +1735,6 @@ ${stepCards.join('\n\n')}
 ---
 
 ## 3. ${cautionTitle}
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
@@ -1475,7 +1743,7 @@ ${stepCards.join('\n\n')}
     </p>
   </div>
 </div>
-`;
+${faqSection}`;
 
       fs.writeFileSync(targetPath, fileContent, 'utf-8');
       createdCount++;

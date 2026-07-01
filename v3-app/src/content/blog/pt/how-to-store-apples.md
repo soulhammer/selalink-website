@@ -6,6 +6,12 @@ category: "StoreSelf"
 tags: ["Armazenar Maçãs", "Cuidado de Frutas", "Gás Etileno", "Dicas de Frescor", "Trucos de Cozinha"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+faqs:
+  - question: "Posso embrulhar e guardar maçãs machucadas?"
+    answer: "Não. Maçãs com cortes ou em decomposição emitem muito mais gás etileno, o que estragará rapidamente as maçãs vizinhas. Consuma-as imediatamente."
+  - question: "Por que não devo lavar as maçãs antes de guardar?"
+    answer: "A humidade retida no embrulho favorece o aparecimento de fungos e bactérias. Limpe com um pano seco e lave apenas antes de consumir."
+
 
 steps:
   - name: "Embrulhe individualmente com filme plástico sem lavar — Retenção de umidade 📦"
@@ -58,6 +64,9 @@ Por isso, a chave para um armazenamento bem-sucedido de maçãs é **evitar a pe
     Deixar as maçãs expostas ao ar livre na geladeira ou em temperatura ambiente causa rápida evaporação da umidade, deixando a pele murcha e a polpa seca.<br/><br/>
     💡 <strong>Dica de armazenamento</strong>: Embrulhe bem cada maçã não lavada com plástico filme de cozinha (ou sacos plásticos individuais). O embrulho retém a umidade natural da maçã para manter sua textura crocante característica, enquanto atua como uma barreira primária para evitar o vazamento de gás etileno.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -104,4 +113,32 @@ Por isso, a chave para um armazenamento bem-sucedido de maçãs é **evitar a pe
       Armazenar maçãs com umidade superficial retém a umidade dentro do embrulho, criando um ambiente ideal para a proliferação de mofo e bactérias. Limpe a sujeira com um pano seco, se necessário, e lave as maçãs somente antes de consumi-las.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Perguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Posso embrulhar e guardar maçãs machucadas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Não. Maçãs com cortes ou em decomposição emitem muito mais gás etileno, o que estragará rapidamente as maçãs vizinhas. Consuma-as imediatamente.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Por que não devo lavar as maçãs antes de guardar?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      A humidade retida no embrulho favorece o aparecimento de fungos e bactérias. Limpe com um pano seco e lave apenas antes de consumir.
+    </p>
+  </details>
 </div>

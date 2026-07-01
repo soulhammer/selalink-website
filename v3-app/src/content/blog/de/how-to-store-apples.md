@@ -6,6 +6,12 @@ category: "StoreSelf"
 tags: ["Äpfel Lagern", "Obstpflege", "Ethylengas", "Frische-Tipps", "Küchenhacks"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+faqs:
+  - question: "Ist es in Ordnung, beschädigte Äpfel einzuwickeln und zu lagern?"
+    answer: "Nein. Äpfel mit Druckstellen oder Fäulnis geben viel mehr Ethylengas ab, was benachbarte Äpfel schnell verdirbt. Verbrauchen Sie diese sofort."
+  - question: "Warum sollte ich Äpfel vor der Lagerung nicht waschen?"
+    answer: "Feuchtigkeit unter der Folie begünstigt Schimmel und Bakterien. Wischen Sie Schmutz trocken ab und waschen Sie die Äpfel erst kurz vor dem Verzehr."
+
 
 steps:
   - name: "Ungewaschen einzeln in Frischhaltefolie einwickeln — Feuchtigkeitsschutz 📦"
@@ -58,6 +64,9 @@ Daher ist der Schlüssel zu einer erfolgreichen Apfellagerung, **Feuchtigkeitsve
     Wenn Äpfel ungeschützt der Luft im Kühlschrank oder bei Raumtemperatur ausgesetzt sind, verdunstet die Feuchtigkeit schnell, was die Schale schrumpelig und das Fruchtfleisch trocken macht.<br/><br/>
     💡 <strong>Lagertipp</strong>: Wickeln Sie jeden ungewaschenen Apfel fest in Frischhaltefolie (oder einzelne Plastiktüten) ein. Das Einwickeln schließt die natürliche Feuchtigkeit des Apfels ein, um seine typische Knackigkeit zu bewahren, und dient als primäre Barriere, um das Entweichen von Ethylengas zu verhindern.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -104,4 +113,32 @@ Daher ist der Schlüssel zu einer erfolgreichen Apfellagerung, **Feuchtigkeitsve
       Das Lagern von Äpfeln mit Oberflächenfeuchtigkeit schließt die Feuchtigkeit unter der Folie ein, was ein idealer Nährboden für Schimmel und Bakterien ist. Wischen Sie Schmutz bei Bedarf mit einem trockenen Tuch ab und waschen Sie Äpfel erst direkt vor dem Verzehr.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Ist es in Ordnung, beschädigte Äpfel einzuwickeln und zu lagern?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Nein. Äpfel mit Druckstellen oder Fäulnis geben viel mehr Ethylengas ab, was benachbarte Äpfel schnell verdirbt. Verbrauchen Sie diese sofort.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Warum sollte ich Äpfel vor der Lagerung nicht waschen?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Feuchtigkeit unter der Folie begünstigt Schimmel und Bakterien. Wischen Sie Schmutz trocken ab und waschen Sie die Äpfel erst kurz vor dem Verzehr.
+    </p>
+  </details>
 </div>

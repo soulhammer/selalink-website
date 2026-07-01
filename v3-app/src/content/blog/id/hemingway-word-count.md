@@ -73,7 +73,6 @@ Melacak kemajuan Anda secara kuantitatif memicu proses kognitif yang dikenal dal
 ---
 
 ## 3. Saran ilmiah perilaku untuk rutinitas yang sukses
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>

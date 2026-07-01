@@ -74,7 +74,6 @@ Fokus pada tindakan fisik yang tepat seperti menghitung biji kopi kecil adalah p
 ---
 
 ## 3. Saran ilmiah saraf untuk rutinitas yang sukses
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>

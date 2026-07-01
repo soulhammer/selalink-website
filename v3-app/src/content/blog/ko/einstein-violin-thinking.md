@@ -8,6 +8,11 @@ heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
 authority: "알베르트 아인슈타인 전기 'Einstein: A Life' 및 Frontiers in Psychology 학술지"
 updatedDate: "2026-03-05"
+faqs:
+  - question: "아인슈타인은 바이올린 연주 외에 다른 방식으로도 뇌를 리셋했나요?"
+    answer: "네, 아인슈타인은 연구 도중 정기적으로 요트를 타고 바다로 나가 바람을 느끼며 명상을 하거나, 하루 10시간 이상 충분한 수면을 통해 잠재의식이 문제를 정리할 수 있도록 도왔습니다."
+  - question: "악기를 전혀 다룰 줄 모르는 사람도 이 루틴을 따라 할 수 있나요?"
+    answer: "물론입니다. 악기를 직접 다루는 대신 클래식 음악에 집중하며 핑거 탭(손가락으로 리듬 타기)을 하거나, 심호흡을 하며 5분간 외부 자극을 완전히 차단하는 것만으로도 동일한 인지적 전환 효과를 낼 수 있습니다."
 ---
 
 상대성 이론을 발표하여 현대 물리학의 패러다임을 통째로 바꾸고 인류가 우주를 이해하는 방식을 혁명적으로 변화시킨 역사상 가장 위대한 물리학자, 알베르트 아인슈타인. 20세기 최고의 천재로 손꼽히는 그의 기발하고 혁신적인 아이디어들은 과연 어디서 탄생했을까요? 🎻
@@ -60,6 +65,9 @@ updatedDate: "2026-03-05"
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     주변에 있는 가벼운 손악기(칼림바, 리코더, 우쿨렐레, 심지어 핑거 드럼 등)를 5분간 마음대로 연주해 봅니다. 악기가 없다면 가사가 없는 클래식이나 재즈 연주곡을 재생한 뒤 눈을 감고, 멜로디의 흐름과 타악기의 박자에 온 감각을 집중하여 손가락으로 가볍게 박자를 탑니다.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/einstein_violin_relax.png" alt="5분간의 청각 및 리듬 집중 리추얼" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -84,4 +92,32 @@ updatedDate: "2026-03-05"
       아인슈타인은 뛰어난 물리학자이자 훌륭한 바이올리니스트이기도 했습니다. 그에게 음악은 물리학 연구와 무관한 취미가 아니라, 오히려 뇌의 피로를 예방하고 창의적 영감을 깨우는 가장 강력한 생각의 윤활유였습니다. 아이디어가 막힐 때 더 억지로 매달리기보다 아인슈타인처럼 감각적 자극의 대상을 완전히 다르게 바꾸어 뇌가 리셋할 기회를 주세요.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>아인슈타인은 바이올린 연주 외에 다른 방식으로도 뇌를 리셋했나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      네, 아인슈타인은 연구 도중 정기적으로 요트를 타고 바다로 나가 바람을 느끼며 명상을 하거나, 하루 10시간 이상 충분한 수면을 통해 잠재의식이 문제를 정리할 수 있도록 도왔습니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>악기를 전혀 다룰 줄 모르는 사람도 이 루틴을 따라 할 수 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      물론입니다. 악기를 직접 다루는 대신 클래식 음악에 집중하며 핑거 탭(손가락으로 리듬 타기)을 하거나, 심호흡을 하며 5분간 외부 자극을 완전히 차단하는 것만으로도 동일한 인지적 전환 효과를 낼 수 있습니다.
+    </p>
+  </details>
 </div>

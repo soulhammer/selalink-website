@@ -74,7 +74,6 @@ Das Schreiben eines Romans verbraucht extrem viel geistige Energie. Murakami tra
 ---
 
 ## 3. Ein gehirnwissenschaftlicher Ratschlag für eine erfolgreiche Routine
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>

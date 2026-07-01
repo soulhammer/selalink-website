@@ -6,6 +6,12 @@ category: "StoreSelf"
 tags: ["Conservar Manzanas", "Cuidado de Frutas", "Gas Etileno", "Consejos de Frescura", "Trucos de Cocina"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+faqs:
+  - question: "¿Está bien envolver y almacenar manzanas golpeadas?"
+    answer: "No. Las manzanas con golpes o en descomposición emiten decenas de veces más gas etileno, lo que dañará rápidamente a las manzanas vecinas. Consúmalas de inmediato."
+  - question: "¿Por qué no debo lavar las manzanas antes de almacenarlas?"
+    answer: "La humedad atrapada dentro del envoltorio favorece el crecimiento de moho y bacterias. Límpielas con un paño seco y lávelas justo antes de consumirlas."
+
 
 steps:
   - name: "Envuelva individualmente con film plástico sin lavar — Retención de humedad 📦"
@@ -58,6 +64,9 @@ Por lo tanto, la clave para un almacenamiento exitoso de las manzanas es **evita
     Dejar las manzanas expuestas al aire libre en el refrigerador o a temperatura ambiente provoca una rápida evaporación de la humedad, lo que arruga la piel y seca la pulpa.<br/><br/>
     💡 <strong>Consejo de conservación</strong>: Envuelva bien cada manzana sin lavar con papel film transparente de cocina (o bolsas de plástico individuales). El envoltorio retiene la humedad natural de la manzana para mantener su textura crujiente y actúa como una barrera primaria para evitar la fuga de gas etileno.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -104,4 +113,32 @@ Por lo tanto, la clave para un almacenamiento exitoso de las manzanas es **evita
       Guardar las manzanas con humedad superficial atrapa la humedad dentro del envoltorio, creando un ambiente ideal para la proliferación de moho y bacterias. Limpie la suciedad con un paño seco si es necesario y lave las manzanas solo antes de comerlas.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Está bien envolver y almacenar manzanas golpeadas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No. Las manzanas con golpes o en descomposición emiten decenas de veces más gas etileno, lo que dañará rápidamente a las manzanas vecinas. Consúmalas de inmediato.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Por qué no debo lavar las manzanas antes de almacenarlas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      La humedad atrapada dentro del envoltorio favorece el crecimiento de moho y bacterias. Límpielas con un paño seco y lávelas justo antes de consumirlas.
+    </p>
+  </details>
 </div>

@@ -7,6 +7,11 @@ tags: ["사과 보관법", "과일 보관", "식재료 팁", "에틸렌 가스",
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
 authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 식품의약품안전처(MFDS)</strong>"
+faqs:
+  - question: "상처 난 사과는 랩으로 감싸 보관하면 괜찮은가요?"
+    answer: "아닙니다. 흠집이 있거나 썩기 시작한 사과는 일반 사과보다 훨씬 많은 에틸렌 가스를 내뿜으므로 즉시 다른 사과와 완전히 격리하고 빠르게 섭취해야 합니다."
+  - question: "사과를 씻어서 보관하면 왜 안 되나요?"
+    answer: "물기가 묻은 상태로 밀봉하면 내부에 습기가 갇혀 곰팡이와 세균이 번식하기 쉬운 환경이 됩니다. 따라서 보관할 때는 마른 천으로 털어내고, 먹기 직전에 씻어야 합니다."
 ---
 
 아삭하고 달콤한 사과를 한 상자 가득 사 왔는데, 시간이 지날수록 껍질이 쭈글쭈글해지고 푸석해진 경험 다들 있으시죠? 🍎
@@ -51,6 +56,9 @@ authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 식품�
     사과를 상온이나 냉장고에 그대로 노출시키면 수분이 계속해서 날아가 껍질이 쭈글쭈글해지고 과육이 푸석해집니다.<br/><br/>
     💡 <strong>보관 팁</strong>: 수확 및 포장 상태 그대로 물을 묻히지 않은 사과를 식품용 랩(또는 위생 비닐봉지)으로 한 알씩 빈틈없이 꽁꽁 감싸주세요. 이렇게 하면 사과 자체의 수분이 가두어져 오랫동안 아삭아삭한 식감을 유지할 수 있고, 자체 방출되는 에틸렌 가스가 외부로 누출되는 것도 1차적으로 차단할 수 있습니다.
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/apple_storage_detail.png" alt="사과 랩 개별 포장법 일러스트" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -97,4 +105,32 @@ authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 식품�
       물기가 남아있는 상태로 랩핑하거나 용기에 밀봉하면 습기가 갇혀 사과 껍질에 곰팡이나 세균이 번식하기 매우 좋은 환경이 됩니다. 흙이나 이물질은 마른 천으로 가볍게 털어내어 보관하고, 씻는 것은 먹기 직전에 하세요.
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>상처 난 사과는 랩으로 감싸 보관하면 괜찮은가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      아닙니다. 흠집이 있거나 썩기 시작한 사과는 일반 사과보다 훨씬 많은 에틸렌 가스를 내뿜으므로 즉시 다른 사과와 완전히 격리하고 빠르게 섭취해야 합니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>사과를 씻어서 보관하면 왜 안 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      물기가 묻은 상태로 밀봉하면 내부에 습기가 갇혀 곰팡이와 세균이 번식하기 쉬운 환경이 됩니다. 따라서 보관할 때는 마른 천으로 털어내고, 먹기 직전에 씻어야 합니다.
+    </p>
+  </details>
 </div>

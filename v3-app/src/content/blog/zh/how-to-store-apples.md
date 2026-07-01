@@ -6,6 +6,12 @@ category: "StoreSelf"
 tags: ["苹果储存法", "水果保鲜", "乙烯气体", "保鲜窍门", "生活妙招"]
 heroImage: "/images/blog/apple_storage_hack.png"
 app: "storeself"
+faqs:
+  - question: "碰伤的苹果可以用保鲜膜包裹保存吗？"
+    answer: "不行。有伤痕或开始腐烂的苹果会释放出比普通苹果多出数十倍的乙烯气体，因此必须立即与其他苹果隔离并尽快食用。"
+  - question: "为什么保存前不能用水清洗苹果？"
+    answer: "在有水分的状态下密封，内部会积聚湿气，非常容易滋生霉菌和细菌。保存时用干布擦去污垢，吃之前再清洗。"
+
 
 steps:
   - name: "无需清洗，用保鲜膜单独包裹 — 锁水防干 📦"
@@ -58,6 +64,9 @@ steps:
     如果将苹果直接暴露在常温或冰箱中，水分会不断流失，导致表皮变皱，果肉变粉。<br/><br/>
     💡 <strong>储存窍门</strong>: 保持苹果干燥不沾水，用食品级保鲜膜（或塑料保鲜袋）将苹果一颗一颗严密地包裹起来。这样可以锁住苹果自身的水分，长期保持其爽脆的口感，同时也能初步阻断自身释放的乙烯气体向外泄漏。
   </p>
+  <div class="mt-6 flex justify-center">
+    <img src="/images/blog/apple_storage_detail.png" alt="Apple plastic wrap illustration" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
+  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -104,4 +113,32 @@ steps:
       在带有水分的状态下包裹或密封在容器中，会导致湿气滞留，从而在苹果皮上创造出非常适合霉菌和细菌繁殖的环境。如果有泥沙等杂物，用干布轻轻擦拭即可，吃之前再进行清洗。
     </p>
   </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>碰伤的苹果可以用保鲜膜包裹保存吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      不行。有伤痕或开始腐烂的苹果会释放出比普通苹果多出数十倍的乙烯气体，因此必须立即与其他苹果隔离并尽快食用。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>为什么保存前不能用水清洗苹果？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      在有水分的状态下密封，内部会积聚湿气，非常容易滋生霉菌和细菌。保存时用干布擦去污垢，吃之前再清洗。
+    </p>
+  </details>
 </div>

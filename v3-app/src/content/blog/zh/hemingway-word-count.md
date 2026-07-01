@@ -9,7 +9,7 @@ app: "buildself"
 authority: "欧内斯特·海明威在《巴黎评论》的访谈(1958) 及应用行为分析期刊(Journal of Applied Behavior Analysis)"
 steps:
   - name: "定量测量每日的核心产出"
-    text: "不要追踪如“努力工作”这样模糊的目标，而是测量具体、可计数的指标，例如阅读的页数、写作的字数、专注的时间或完成의 运动组数。"
+    text: "不要追踪如“努力工作”这样模糊的目标，而是测量具体、可计数的指标，例如阅读的页数、写作的字数、专注的时间或完成的运动组数。"
   - name: "如实将数字记录在可视化图表上"
     text: "准备一个纸质计划本、墙面图表或简单的电子表格，每天写下确切的数字。即使在表现不佳的日子里，也务必如实记录；诚实至关重要。"
   - name: "专注于记录行为本身"
@@ -46,7 +46,7 @@ steps:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">定量测量每日的核心产出</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    不要追踪如“努力工作”这样模糊的目标，而是测量具体、可计数的指标，例如阅读的页数、写作的字数、专注的时间或完成의 运动组数。
+    不要追踪如“努力工作”这样模糊的目标，而是测量具体、可计数的指标，例如阅读的页数、写作的字数、专注的时间或完成的运动组数。
   </p>
 </div>
 
@@ -73,7 +73,6 @@ steps:
 ---
 
 ## 3. 成功惯例的行为科学建议
-
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
