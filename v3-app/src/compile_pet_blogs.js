@@ -183,6 +183,61 @@ function generateMarkdown(slug, lang) {
       de: ["Golden Retriever", "Hüftdysplasie", "Apportieren", "Pflege großer Hunde"],
       pt: ["Golden Retriever", "Displasia de Quadril", "Busca", "Cuidado de Cães Grandes"],
       id: ["Golden Retriever", "Displasia Pinggul", "Mengambil Barang", "Perawatan Anjing Besar"]
+    },
+    'poodle-care': {
+      ko: ["푸들", "지능형 놀이", "귀 관리", "반려견 홈케어"],
+      en: ["Poodle", "Brain Games", "Ear Care", "Dog Home Care"],
+      ja: ["プードル", "知能プレイ", "耳のケア", "犬のホームケア"],
+      zh: ["贵宾犬", "智力游戏", "耳部护理", "犬类家庭护理"],
+      es: ["Caniche", "Juegos Mentales", "Cuidado de Oídos", "Cuidado de Perros"],
+      fr: ["Caniche", "Jeux Cérébraux", "Soin des Oreilles", "Soins Canins"],
+      de: ["Pudel", "Denkspiele", "Ohrenpflege", "Hundepflege"],
+      pt: ["Poodle", "Jogos Mentais", "Cuidado de Orelhas", "Cuidado de Cães"],
+      id: ["Poodle", "Permainan Otak", "Perawatan Telinga", "Perawatan Anjing"]
+    },
+    'shiba-care': {
+      ko: ["시바견", "이중모 관리", "스킨십 교육", "반려견 케어"],
+      en: ["Shiba Inu", "Double Coat", "Socialization", "Dog Care"],
+      ja: ["柴犬", "二重毛のケア", "スキンシップ教育", "犬のケア"],
+      zh: ["柴犬", "双层毛护理", "触碰训练", "犬类护理"],
+      es: ["Shiba Inu", "Manto Doble", "Socialización", "Cuidado de Perros"],
+      fr: ["Shiba Inu", "Double Pelage", "Désensibilisation", "Soins des Chiens"],
+      de: ["Shiba Inu", "Doppeltes Fell", "Desensibilisierung", "Hundepflege"],
+      pt: ["Shiba Inu", "Pelagem Dupla", "Socialização", "Cuidado de Cães"],
+      id: ["Shiba Inu", "Bulu Ganda", "Sosialisasi", "Perawatan Anjing"]
+    },
+    'pomeranian-care': {
+      ko: ["포메라니안", "슬개골 예방", "기관지 협착증", "이중모 빗질"],
+      en: ["Pomeranian", "Patellar Care", "Tracheal Collapse", "Double Coat Brushing"],
+      ja: ["ポメラニアン", "膝蓋骨ケア", "気管虚脱", "二重毛のブラッシング"],
+      zh: ["博美犬", "髌骨护理", "气管塌陷", "双层毛梳理"],
+      es: ["Pomerania", "Cuidado de Rótula", "Colapso Traqueal", "Cepillado de Manto"],
+      fr: ["Loulou de Poméranie", "Soin de Rotule", "Collapsus Trachéal", "Brossage Double Pelage"],
+      de: ["Zwergspitz", "Kniescheibenpflege", "Trachealkollaps", "Fellbürsten"],
+      pt: ["Spitz Alemão", "Cuidado Patelar", "Colapso Traqueal", "Escovação de Pelagem"],
+      id: ["Pomeranian", "Perawatan Patela", "Kolaps Trakea", "Menyikat Bulu Ganda"]
+    },
+    'siamese-care': {
+      ko: ["샴 고양이", "분리불안", "대화형 울음", "반려묘 놀이"],
+      en: ["Siamese", "Separation Anxiety", "Vocal Cats", "Cat Playtime"],
+      ja: ["シャム猫", "分離不安", "おしゃべりな猫", "猫の遊び"],
+      zh: ["暹罗猫", "分离焦虑", "爱叫的猫", "猫咪游戏"],
+      es: ["Siamés", "Ansiedad por Separación", "Gatos Vocales", "Juego de Gatos"],
+      fr: ["Siamois", "Anxiété de Séparation", "Chats Vocaux", "Jeu Félin"],
+      de: ["Siamese", "Trennungsangst", "Vokale Katzen", "Katzenspielzeit"],
+      pt: ["Siamês", "Ansiedade de Separação", "Gatos Vocais", "Joguete de Gatos"],
+      id: ["Siamese", "Kecemasan Perpisahan", "Kucing Vokal", "Waktu Bermain Kucing"]
+    },
+    'russian-blue-care': {
+      ko: ["러시안블루", "소심한 성격", "은신처 확보", "반려묘 홈케어"],
+      en: ["Russian Blue", "Shy Temperament", "Safe Hiding Spots", "Cat Home Care"],
+      ja: ["ロシアンブルー", "人見知りな性格", "隠れ場所の確保", "猫のホームケア"],
+      zh: ["俄罗斯蓝猫", "胆小性格", "安全隐蔽处", "猫咪家庭护理"],
+      es: ["Azul Ruso", "Temperamento Tímido", "Escondites Seguros", "Cuidado de Gatos"],
+      fr: ["Bleu Russe", "Caractère Timide", "Cachettes Sécurisées", "Soins Félins"],
+      de: ["Russisch Blau", "Scheues Temperament", "Sichere Verstecke", "Katzenpflege"],
+      pt: ["Azul Russo", "Temperamento Tímido", "Esconderijos Seguros", "Cuidado de Cães"],
+      id: ["Russian Blue", "Temperamen Pemalu", "Tempat Sembunyi Aman", "Perawatan Kucing"]
     }
   };
 
@@ -194,7 +249,12 @@ function generateMarkdown(slug, lang) {
   const petDates = {
     'maltese-care': { pub: '2026-01-20', upd: '2026-01-22' },
     'koshort-care': { pub: '2026-03-15', upd: '2026-03-15' },
-    'golden-retriever-care': { pub: '2026-05-28', upd: '2026-05-30' }
+    'golden-retriever-care': { pub: '2026-05-28', upd: '2026-05-30' },
+    'poodle-care': { pub: '2026-01-26', upd: '2026-01-26' },
+    'shiba-care': { pub: '2026-01-29', upd: '2026-01-29' },
+    'pomeranian-care': { pub: '2026-01-05', upd: '2026-01-05' },
+    'siamese-care': { pub: '2026-02-19', upd: '2026-02-19' },
+    'russian-blue-care': { pub: '2026-03-26', upd: '2026-03-26' }
   };
 
   const pubDateStr = petDates[slug]?.pub || new Date().toISOString().split('T')[0];

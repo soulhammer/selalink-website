@@ -1054,5 +1054,1765 @@
         }
       ]
     }
+  },
+  "poodle-care": {
+    "title": {
+      "ko": "영리한 푸들을 위한 지능형 놀이법과 귓병 예방 3단계 홈케어 루틴",
+      "en": "Brain Play and Ear Care: A 3-Step Routine for the Intelligent Poodle",
+      "ja": "賢いプードルのための知能プレイと耳のケア3段階ルーティン",
+      "zh": "聪明贵宾犬的智力游戏与耳部护理3步日常惯例",
+      "es": "Juegos mentales y cuidado de oídos: una rutina de 3 pasos para el inteligente caniche",
+      "fr": "Jeux cérébraux et soin des oreilles : routine en 3 étapes pour le caniche intelligent",
+      "de": "Denkspiele und Ohrenpflege: Eine 3-Schritte-Routine für den intelligenten Pudel",
+      "pt": "Jogos mentais e cuidados com as orelhas: rotina de 3 passos para o poodle inteligente",
+      "id": "Permainan Otak dan Perawatan Telinga: Rutinitas 3 Langkah untuk Poodle yang Cerdas"
+    },
+    "description": {
+      "ko": "높은 지능으로 인해 지루함을 느끼기 쉬운 푸들. 지능적 피로를 풀어주는 놀이와 유전적으로 취약한 귓병을 예방하는 3단계 홈케어를 알아봅니다.",
+      "en": "Discover how to relieve boredom in highly intelligent Poodles with brain games and prevent genetically vulnerable ear infections using a 3-step routine.",
+      "ja": "高い知能ゆえに退屈しやすいプードル。知能的ストレスを和らげる遊びと、遺伝的に弱い耳の病気を予防する3段階ケアを紹介します。",
+      "zh": "了解如何通过智力游戏缓解高智商贵宾犬的无聊感，并使用3步日常护理惯例预防遗传性耳部感染。",
+      "es": "Descubra cómo aliviar el aburrimiento en caniches inteligentes con juegos mentales y prevenir infecciones de oído con una rutina de 3 pasos.",
+      "fr": "Découvrez comment soulager l'ennui des caniches intelligents avec des jeux cérébraux et prévenir les otites grâce à une routine en 3 étapes.",
+      "de": "Erfahren Sie, wie Sie Langeweile bei intelligenten Pudeln durch Denkspiele lindern und Ohrentzündungen mit einer 3-Schritte-Routine vorbeugen.",
+      "pt": "Descubra como aliviar o tédio em poodles inteligentes com jogos mentais e prevenir infecções de ouvido com uma rotina de 3 passos.",
+      "id": "Temukan cara mengatasi kebosanan pada Poodle yang cerdas dengan permainan otak dan mencegah infeksi telinga menggunakan rutinitas 3 langkah."
+    },
+    "authority": {
+      "ko": "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜",
+      "en": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
+      "ja": "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル",
+      "zh": "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议",
+      "es": "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC",
+      "fr": "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC",
+      "de": "Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle",
+      "pt": "Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC",
+      "id": "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
+    },
+    "profile": {
+      "breed": {
+        "ko": "푸들 (Poodle)",
+        "en": "Poodle",
+        "ja": "プードル",
+        "zh": "贵宾犬",
+        "es": "Caniche",
+        "fr": "Caniche",
+        "de": "Pudel",
+        "pt": "Poodle",
+        "id": "Poodle"
+      },
+      "lifespan": {
+        "ko": "12 ~ 15년",
+        "en": "12 ~ 15 years",
+        "ja": "12 ~ 15年",
+        "zh": "12 ~ 15年",
+        "es": "12 ~ 15 años",
+        "fr": "12 ~ 15 ans",
+        "de": "12 ~ 15 Jahre",
+        "pt": "12 ~ 15 anos",
+        "id": "12 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "12 ~ 14시간 (보호자 동조형)",
+        "en": "12 ~ 14 hours (synchronized with owner)",
+        "ja": "12 ~ 14時間（飼い主同調型）",
+        "zh": "12 ~ 14小时（与家长同步型）",
+        "es": "12 ~ 14 horas (sincronizado con el dueño)",
+        "fr": "12 ~ 14 heures (synchronisé avec le maître)",
+        "de": "12 ~ 14 Stunden (besitzersynchron)",
+        "pt": "12 ~ 14 horas (sincronizado com o dono)",
+        "id": "12 ~ 14 jam (sinkron dengan pemilik)"
+      },
+      "temperament": {
+        "ko": "극도로 영리함, 활발함, 친화적",
+        "en": "Highly Intelligent, Active, Friendly",
+        "ja": "極めて聡明、活発、フレンドリー",
+        "zh": "极度聪明、活泼、友好",
+        "es": "Altamente Inteligente, Activo, Amigable",
+        "fr": "Très Intelligent, Actif, Amical",
+        "de": "Sehr intelligent, Aktiv, Freundlich",
+        "pt": "Muito Inteligente, Ativo, Amigável",
+        "id": "Sangat Cerdas, Aktif, Ramah"
+      }
+    },
+    "intro": {
+      "ko": "푸들은 세계에서 가장 머리가 좋은 강아지 중 하나로 꼽힙니다. 영리하고 보호자의 감정을 잘 파악하며 훈련 속도도 매우 빠르지만, 높은 지능만큼이나 쉽게 지루함을 느끼고 스트레스를 받기도 합니다. 🐩 또한, 푸들은 귀가 아래로 축 늘어져 귓구멍을 덮고 있는 외형적 특징 때문에 귓속 통풍이 잘 안 되어 만성적인 외이염(귓병)에 걸릴 확률이 유전적으로 매우 높습니다. 오늘 PetSelf에서는 똑똑한 푸들의 지능적 피로를 풀어주어 파괴적 행동을 예방하고, 귀 건강을 효과적으로 지킬 수 있는 3단계 홈케어 루틴을 공유합니다.",
+      "en": "Poodles are widely recognized as one of the most intelligent dog breeds in the world. While they are highly trainable and sensitive to their owner's emotions, they can easily get bored and stressed due to their active minds. 🐩 Additionally, because their floppy ears cover the ear canal, they are highly prone to chronic ear infections (otitis) due to poor ventilation. Today, PetSelf shares tips on keeping your intelligent Poodle mentally stimulated and introduces a 3-step home care routine to keep their ears clean and healthy.",
+      "ja": "プードルは世界で最も頭の良い犬種の一つに挙げられます。賢くて飼い主の感情をよく理解し、訓練も非常に早いですが、高い知能ゆえに退屈しやすくストレスを感じやすいという面もあります。🐩また、垂れ耳で耳の穴が塞がれているため、耳の中の通気性が悪く、遺伝的に慢性外耳炎（耳の病気）にかかる確率が極めて高いです。本日、PetSelfでは聡明なプードルの知能的ストレスを解消し、耳の健康を効果的に守る3段階ホームケアルーティンを紹介します。",
+      "zh": "贵宾犬被公认为世界上最聪明的犬种之一。虽然它们非常易于训练，且对家长的情绪十分敏感，但也因为其活跃的大脑而极易感到无聊和产生压力。精神刺激不足可能会导致它们出现拆家等破坏性行为。🐩此外，由于它们垂下的耳朵覆盖了耳道，导致耳内通风不良，因此遗传上极易患慢性外耳道炎。今天，PetSelf 将分享如何为聪明的贵宾犬提供智力刺激，并介绍一套日常3步护理惯例，以保持它们的耳朵清洁与健康。",
+      "es": "Los caniches son reconocidos como una de las razas de perros más inteligentes del mundo. Si bien son muy dóciles y sensibles a las emociones de sus dueños, pueden aburrirse y estresarse fácilmente debido a sus mentes activas. 🐩 Además, debido a que sus orejas caídas cubren el canal auditivo, son muy propensos a infecciones de oído crónicas debido a la mala ventilación. Hoy, PetSelf comparte consejos para mantener a su caniche mentalmente estimulado e introduce una rutina de cuidado de 3 pasos para mantener sus oídos limpios y saludables.",
+      "fr": "Les caniches sont reconnus comme l'une des races de chiens les plus intelligentes au monde. Très faciles à éduquer et sensibles aux émotions de leur maître, ils peuvent s'ennuyer et stresser rapidement en raison de leur esprit vif. 🐩 De plus, comme leurs oreilles tombantes recouvrent le conduit auditif, ils sont très sujets aux otites chroniques à cause d'une mauvaise aération. Aujourd'hui, PetSelf partage des conseils pour stimuler mentalement votre caniche intelligent et présente une routine de soins en 3 étapes pour garder ses oreilles propres et saines.",
+      "de": "Pudel gelten als eine der intelligentesten Hunderassen der Welt. Sie sind zwar sehr lernwillig und feinfühlig für die Gefühle ihrer Besitzer, können sich aber aufgrund ihres aktiven Geistes leicht langweilen und stressen. 🐩 Da ihre Hängeohren den Gehörgang bedecken, sind sie aufgrund schlechter Belüftung anfällig für chronische Ohrentzündungen. Heute gibt PetSelf Tipps, wie Sie Ihren intelligenten Pudel geistig auslasten können, und stellt eine 3-Schritte-Pflegeroutine vor, um seine Ohren sauber und gesund zu halten.",
+      "pt": "Os poodles são reconhecidos como uma das raças de cães mais inteligentes do mundo. Embora sejam muito adestráveis e sensíveis às emoções de seus donos, eles podem ficar entediados e estressados facilmente devido às suas mentes ativas. 🐩 Além disso, como suas orelhas caídas cobrem o canal auditivo, eles são propensos a infecções crônicas de ouvido devido à má ventilação. Hoje, o PetSelf compartilha dicas para manter seu poodle mentalmente estimulado e apresenta uma rotina de cuidados de 3 passos para manter suas orelhas limpas e saudáveis.",
+      "id": "Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. Meskipun mereka sangat mudah dilatih dan peka terhadap emosi pemiliknya, mereka dapat dengan mudah bosan dan stres karena pikiran mereka yang aktif. 🐩 Selain itu, karena telinga mereka yang terkulai menutupi saluran telinga, mereka sangat rentan terhadap infeksi telinga kronis (otitis) akibat ventilasi yang buruk. Hari ini, PetSelf membagikan tips untuk menjaga Poodle cerdas Anda terstimulasi secara mental dan memperkenalkan rutinitas perawatan 3 langkah untuk menjaga telinga mereka tetap bersih dan sehat."
+    },
+    "whyTitle": {
+      "ko": "푸들의 바디 랭귀지: 요구성과 스트레스의 경계",
+      "en": "Poodle Body Language: Distinguishing Demand from Stress",
+      "ja": "プードルのボディランゲージ：要求とストレスの境界",
+      "zh": "贵宾犬的身体语言：区分需求与压力",
+      "es": "Lenguaje corporal del caniche: distinguir la demanda del estrés",
+      "fr": "Langage corporel du caniche : distinguer la demande du stress",
+      "de": "Körpersprache des Pudels: Unterscheidung zwischen Forderung und Stress",
+      "pt": "Linguagem corporal do poodle: distinguindo exigência de estresse",
+      "id": "Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres"
+    },
+    "whyDesc": {
+      "ko": "푸들은 지능이 높은 만큼 자신의 의사를 몸짓으로 적극 표현합니다. 대표적인 바디 랭귀지는 **'한 발 들기'**와 **'눈 깜빡이기'**입니다. 푸들이 보호자 앞에서 한쪽 앞발을 들어올리는 행동은 흔히 손을 주는 교육의 연장선으로 보이지만, 실은 '나한테 관심을 가져다주세요'라는 요구나 '지금 약간 긴장되니 부드럽게 대해주세요'라는 진정의 메시지입니다. 눈을 지그시 응시하다 부드럽게 깜빡이는 것은 '적의가 없으며 당신을 온전히 신뢰한다'는 애정 표현입니다.",
+      "en": "Because of their intelligence, Poodles actively communicate using body language. Typical signals include **'paw raising'** and **'blinking'**. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions.",
+      "ja": "プードルは知能が高い分、自分の意思をしぐさで積極的に表現します。代表的なボディランゲージは**「片足上げ」**と**「瞬き」**です。プードルが飼い主の前で片方の前足を上げる行動は、お手のおねだりに見えますが、実は「構ってほしい」という要求や「少し緊張しているから優しくして」というメッセージです。目をじっと見つめて優しく瞬きするのは、「敵意はなく、あなたを完全に信頼している」という愛情の表現です。",
+      "zh": "贵宾犬由于智商很高，会积极地用身体语言表达意图。最典型的肢体动作是“抬起一只前爪”和“眨眼睛”。当贵宾犬在家长面前抬起一只前爪时，通常看起来像是要求握手，但实际上这往往是“请关注我”的需求，或是“我现在有点紧张，请温柔待我”的放松信号。轻柔地注视并缓慢地眨眼是它们表达信任与爱意的方式，表明它们完全没有敌意。",
+      "es": "Debido a su inteligencia, los caniches se comunican activamente mediante el lenguaje corporal. Las señales típicas incluyen **'levantar la pata'** y **'parpadear'**. Cuando un caniche levanta una pata delantera, parece una petición de un truco, pero a menudo es un mensaje que dice 'préstame atención' o una señal de calma que significa 'estoy un poco tenso, por favor sé amable'. Mirar suavemente y parpadear lentamente es su forma de mostrar confianza y afecto.",
+      "fr": "En raison de leur intelligence, les caniches communiquent activement par le langage corporel. Les signaux typiques incluent **lever la patte** et **cligner des yeux**. Lorsqu'un caniche lève une patte avant, cela ressemble à une demande de poignée de main, mais c'est souvent un message disant 'occupe-toi de moi' ou un signal d'apaisement signifiant 'je suis un peu tendu, sois doux'. Regarder doucement et cligner lentement des yeux est leur façon de montrer de l'affection.",
+      "de": "Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. Typische Signale sind **'Pfotenheben'** und **'Blinzeln'**. Wenn ein Pudel eine Vorderpfote hebt, sieht das wie eine Bitte um ein Leckerli aus, ist aber oft eine Botschaft wie 'Gib mir Aufmerksamkeit' oder ein Beschwichtigungssignal mit der Bedeutung 'Ich bin etwas angespannt, bitte sei sanft'. Sanftes Anstarren und langsames Blinzeln ist ihre Art, Vertrauen zu zeigen.",
+      "pt": "Devido à sua inteligência, os poodles comunicam-se ativamente por meio da linguagem corporal. Os sinais típicos incluem **'levantar a pata'** e **'piscar'**. Quando um poodle levanta uma pata dianteira, parece um pedido de carinho, mas muitas vezes é uma mensagem dizendo 'dê-me atenção' ou um sinal de calma que significa 'estou um pouco tenso, por favor, seja gentil'. Olhar suavemente e piscar lentamente é sua forma de mostrar carinho.",
+      "id": "Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi **'mengangkat kaki depan'** dan **'berkedip'**. Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "한 발 들기 (Paw Raising)",
+          "en": "Paw Raising",
+          "ja": "片足上げ (Paw Raising)",
+          "zh": "抬爪 (Paw Raising)",
+          "es": "Levantar la pata",
+          "fr": "Lever la patte",
+          "de": "Pfotenheben",
+          "pt": "Levantar a pata",
+          "id": "Mengangkat Kaki Depan"
+        },
+        "meaning": {
+          "ko": "주변에 애정을 요구하거나 가벼운 긴장 상태를 진정시키려는 의도입니다.",
+          "en": "An expression seeking attention or attempting to soothe minor tension or anxiety.",
+          "ja": "周囲にかまってほしいと要求したり、軽い緊張状態を落ち着かせようとするサインです。",
+          "zh": "寻求家长的关注，或者试图安抚轻微的紧张与焦虑情绪。",
+          "es": "Una expresión que busca atención o intenta calmar una leve tensión o ansiedad.",
+          "fr": "Une expression pour demander de l'attention ou tenter de calmer une légère tension.",
+          "de": "Ein Ausdruck, um Aufmerksamkeit zu suchen oder leichte Anspannung zu beruhigen.",
+          "pt": "Uma expressão que busca atenção ou tenta acalmar uma leve tensão ou ansiedade.",
+          "id": "Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan."
+        },
+        "response": {
+          "ko": "이 시그널이 관찰되면 강제로 지시를 내리지 말고 차분한 톤으로 쓰다듬어 안정시키십시오.",
+          "en": "If noticed, avoid giving forceful commands. Speak in a calm tone and pet them gently.",
+          "ja": "このサインが見られたら、無理に指示を出さず、落ち着いた声で撫でて安心させてください。",
+          "zh": "如果注意到这个动作，请避免下达强迫性命令。用温和的语气说话，并轻轻抚摸它们。",
+          "es": "Si lo nota, evite dar órdenes enérgicas. Hable en un tono tranquilo y acarícielo suavemente.",
+          "fr": "Si vous le remarquez, évitez de donner des ordres stricts. Parlez calmement et caressez-le doucement.",
+          "de": "Wenn Sie dies bemerken, vermeiden Sie energische Befehle. Sprechen Sie ruhig und streicheln Sie ihn.",
+          "pt": "Se notar, evite dar ordens enérgicas. Fale em um tom calmo e acaricie-o suavemente.",
+          "id": "Jika terlihat, hindari memberikan perintah yang memaksa. Bicaralah dengan nada tenang dan belai dengan lembut."
+        }
+      },
+      {
+        "name": {
+          "ko": "부드럽게 눈 깜빡이기 (Soft Blinking)",
+          "en": "Soft Blinking",
+          "ja": "優しく瞬きする (Soft Blinking)",
+          "zh": "温柔眨眼 (Soft Blinking)",
+          "es": "Parpadear suavemente",
+          "fr": "Cligner doucement des yeux",
+          "de": "Sanftes Blinzeln",
+          "pt": "Piscar suavemente",
+          "id": "Berkedip Lembut"
+        },
+        "meaning": {
+          "ko": "보호자에 대한 깊은 신뢰와 적의가 전혀 없다는 애정 어린 약속입니다.",
+          "en": "A sign of deep trust and affection, confirming they feel safe and friendly with you.",
+          "ja": "飼い主への深い信頼と、敵意が全くないという愛情のメッセージです。",
+          "zh": "对家长深厚信任与爱意的表达，表明它们感到安全和友好。",
+          "es": "Una señal de profunda confianza y afecto, que confirma que se sienten seguros con usted.",
+          "fr": "Un signe de confiance profonde et d'affection, confirmant qu'il se sent en sécurité avec vous.",
+          "de": "Ein Zeichen von tiefem Vertrauen und Zuneigung, das zeigt, dass sie sich bei Ihnen sicher fühlen.",
+          "pt": "Um sinal de profunda confiança e carinho, confirmando que se sentem seguros com você.",
+          "id": "Tanda kepercayaan dan kasih sayang yang mendalam, menegaskan bahwa mereka merasa aman dengan Anda."
+        },
+        "response": {
+          "ko": "눈이 마주쳤을 때 같이 천천히 깜빡여 주어 안도감을 공유하십시오.",
+          "en": "When you lock eyes, blink back slowly to share and reinforce that sense of peace.",
+          "ja": "目が合ったら、一緒にゆっくり瞬きして安心感を共有してください。",
+          "zh": "当与它们眼神接触时，也缓慢地眨眼回应，以分享和巩固这种安全感。",
+          "es": "Cuando crucen miradas, parpadee lentamente para compartir y reforzar esa sensación de paz.",
+          "fr": "Quand vos regards se croisent, clignez des yeux lentement pour partager ce sentiment de paix.",
+          "de": "Wenn sich Ihre Blicke treffen, blinzeln Sie langsam zurück, um dieses Gefühl der Ruhe zu teilen.",
+          "pt": "Quando se olharem, pisque de volta lentamente para compartilhar e reforçar essa sensação de paz.",
+          "id": "Saat mata saling bertatapan, berkedip kembalilah perlahan untuk membagikan perasaan tenang tersebut."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 브레인 토이를 이용한 인지적 피로 해소",
+          "en": "Morning: Cognitive Relief with Brain Toys",
+          "ja": "朝：知能おもちゃを使った認知ストレス解消",
+          "zh": "早晨：利用智力玩具缓解认知疲劳",
+          "es": "Mañana: Alivio cognitivo con juguetes interactivos",
+          "fr": "Matin : Stimulation cognitive avec des jeux d'intelligence",
+          "de": "Morgen: Geistige Auslastung mit Denkspielzeug",
+          "pt": "Manhã: Alívio cognitivo com brinquedos inteligentes",
+          "id": "Pagi: Peredaan Kognitif dengan Mainan Otak"
+        },
+        "text": {
+          "ko": "단순한 달리기 산책 외에도 미로 식기나 노즈워크 담요를 사용해 간식을 찾아 먹게 함으로써 푸들의 뛰어난 지능을 자극하고 에너지 과잉을 이완시킵니다.",
+          "en": "In addition to physical walks, use maze bowls or nosework mats to stimulate their highly active mind, helping them direct their excess energy productively.",
+          "ja": "単純なランニング散歩だけでなく、迷路食器やノーズワークマットを使っておやつを探し出させることで、プードルの優れた知能を刺激し、エネルギー過多を和らげます。",
+          "zh": "除了普通的散步，还可以使用迷宫碗或闻嗅垫让贵宾犬寻找零食，以此刺激它们高活跃度的大脑，帮助它们以建设性的方式宣泄过剩的精力。",
+          "es": "Además de los paseos físicos, use comederos interactivos o alfombras de olfato untuk estimular su mente activa, ayudándoles a canalizar el exceso de energía.",
+          "fr": "En plus des promenades physiques, utilisez des gamelles anti-glouton ou des tapis de fouille pour stimuler leur esprit vif, les aidant à canaliser leur trop-plein d'énergie.",
+          "de": "Nutzen Sie neben Spaziergängen auch Labyrinth-Näpfe oder Schnüffelmatten, um ihren aktiven Geist zu fordern und überschüssige Energie abzubauen.",
+          "pt": "Além dos passeios físicos, use comedouros interativos ou tapetes de faro para estimular sua mente ativa, ajudando a canalizar o excesso de energia.",
+          "id": "Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka."
+        }
+      },
+      {
+        "name": {
+          "ko": "오후: 통풍 불량 귀의 청결 점검 및 마사지",
+          "en": "Afternoon: Ear Check and Gentle Cleaning Massage",
+          "ja": "午後：通気不良の耳の衛生点検とマッサージ",
+          "zh": "下午：耳部通风检查与温和清洁按摩",
+          "es": "Tarde: Control de oídos y masaje suave de limpieza",
+          "fr": "Après-midi : Contrôle des oreilles et massage de nettoyage doux",
+          "de": "Nachmittag: Ohrenkontrolle und sanfte Reinigungsmassage",
+          "pt": "Tarde: Verificação das orelhas e massagem suave de limpeza",
+          "id": "Siang: Pemeriksaan Telinga dan Pijat Pembersihan Lembut"
+        },
+        "text": {
+          "ko": "귀 세정제를 귓속에 2~3방울 넣고 귀밑 연골 부위를 부드럽게 마사지한 뒤, 밖으로 밀려 나온 이물질을 탈지면으로 닦아내 외이염 유발 인자를 차단합니다.",
+          "en": "Place 2-3 drops of ear cleanser into the ear canal, gently massage the base of the ear, and wipe away any dissolved wax with a cotton pad to prevent otitis.",
+          "ja": "耳洗浄液を耳の中に2〜3滴入れ、耳の根元の軟骨部分を優しくマッサージした後、外に出てきた汚れをコットンで拭き取って外耳炎を予防します。",
+          "zh": "在耳道内滴入2-3滴洗耳液，轻轻按摩耳根部的软骨，然后用棉片擦去溶解的耳垢，以预防耳道炎症。",
+          "es": "Coloque 2-3 gotas de limpiador de oídos en el canal, masajee suavemente la base de la oreja y limpie la cera disuelta con un disco de algodón para prevenir la otitis.",
+          "fr": "Versez 2 à 3 gouttes de nettoyant auriculaire dans le conduit, massez doucement la base de l'oreille et essuyez le cérumen dissous avec un coton pour prévenir les otites.",
+          "de": "Geben Sie 2-3 Tropfen Ohrreiniger in den Gehörgang, massieren Sie die Ohrbasis sanft und wischen Sie gelösten Schmalz mit einem Wattepad ab, um Ohrentzündungen vorzubeugen.",
+          "pt": "Coloque 2 a 3 gotas de limpador de orelha no canal, massageie suavemente a base da orelha e limpe a cera dissolvida com um algodão para evitar otites.",
+          "id": "Teteskan 2-3 tetes pembersih telinga ke dalam saluran telinga, pijat perlahan pangkal telinga, dan seka kotoran yang larut dengan kapas untuk mencegah otitis."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 곱슬거리는 피모의 피부염 방지 브러싱",
+          "en": "Evening: Slicker Brushing to Prevent Skin Matting",
+          "ja": "夜：巻き毛の皮膚炎を予防するブラッシング",
+          "zh": "晚上：梳理卷毛以防皮肤打结发炎",
+          "es": "Noche: Cepillado slicker para evitar nudos en la piel",
+          "fr": "Soir : Brossage carde pour éviter les nœuds et dermatites",
+          "de": "Abend: Bürsten gegen Verfilzungen und Hautprobleme",
+          "pt": "Noite: Escovação com rasqueadeira para evitar nós na pele",
+          "id": "Malam: Menyikat Bulu untuk Mencegah Kusut pada Kulit"
+        },
+        "text": {
+          "ko": "털이 꼬이기 쉬운 곱슬 푸들의 모질 특성을 감안해, 매일 저녁 슬리커 브러시로 죽은 털을 제거해 엉킴을 방지하고 피부에 공기가 잘 통하게 돕습니다.",
+          "en": "Since curly Poodle coats mat easily, brush daily with a slicker brush to remove dead hair, detangle, and allow proper air circulation to the skin.",
+          "ja": "毛が絡まりやすい巻き毛のプードルの特徴を考慮し、毎晩スリッカーブラシで死毛を取り除いて絡まりを防ぎ、皮膚の通気性を高めます。",
+          "zh": "由于贵宾犬的卷毛容易打结，应每天晚上使用针梳清除死毛、解开结节，以促进皮肤的空气流通并预防皮肤病。",
+          "es": "Dado que el pelaje rizado del caniche se enreda fácilmente, cepille a diario con un cepillo slicker para eliminar el pelo muerto y permitir la ventilación de la piel.",
+          "fr": "Le pelage frisé du caniche s'emmêlant facilement, brossez-le quotidiennement avec une carde pour retirer les poils morts et aérer la peau.",
+          "de": "Da das lockige Fell leicht verfilzt, bürsten Sie es täglich mit einer Zupfbürste, um abgestorbene Haare zu entfernen und die Belüftung der Haut zu fördern.",
+          "pt": "Como a pelagem crespa do poodle embaraça facilmente, escove diariamente com uma rasqueadeira para remover pelos mortos e permitir a ventilação da pele.",
+          "id": "Karena bulu Poodle yang keriting mudah kusut, sikatlah setiap hari dengan sikat slicker untuk merontokkan bulu mati dan melancarkan sirkulasi udara pada kulit."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "푸들이 귀 세정 후에 머리를 세차게 터는 것은 정상인가요?",
+          "answer": "정상적인 자가 청소 반응입니다. 귓속 깊이 들어갔던 세정제가 먼지와 함께 귀 밖으로 털려 나오는 과정이므로 놀라지 마시고 귓바퀴 부분만 가볍게 닦아주시면 됩니다."
+        },
+        {
+          "question": "푸들이 가구를 씹거나 물어뜯는 행동은 어떻게 교정하나요?",
+          "answer": "지능이 높은 만큼 신체 에너지는 물론 뇌의 에너지가 채워지지 않아 지루함을 느낄 때 자주 발생합니다. 단순 씹는 장난감 대신 노즈워크나 인지 놀이를 대폭 늘려주세요."
+        }
+      ],
+      "en": [
+        {
+          "question": "Is it normal for my Poodle to shake its head vigorously after ear cleaning?",
+          "answer": "Yes, this is a normal self-cleaning reaction. It helps shake out the cleanser along with dissolved debris from deep inside the ear. Just wipe the outer ear flap gently."
+        },
+        {
+          "question": "How do I stop my Poodle from chewing furniture?",
+          "answer": "Poodles often chew out of boredom when their brain is understimulated. Instead of just chew toys, introduce puzzles and interactive games to tire them out mentally."
+        }
+      ],
+      "ja": [
+        {
+          "question": "プードルが耳掃除の後に頭を激しく振るのは正常ですか？",
+          "answer": "正常な自浄作用反応です。耳の奥深くに入った洗浄液が汚れと一緒に外に振り落とされる過程ですので、慌てずに耳の表面だけを優しく拭き取ってください。"
+        },
+        {
+          "question": "プードルが家具をかじる行動はどうやって直しますか？",
+          "answer": "知能が高いため、脳のエネルギーが消費されず退屈を感じた時によく起こります。単なるおもちゃではなく、ノーズワークや知能パズルゲームを大幅に増やしてください。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "贵宾犬在洗耳后剧烈甩头是正常的吗？",
+          "answer": "这是正常的自我清洁反应。甩头能将溶解了污垢的洗耳液从耳道深处甩出，您只需轻轻擦拭外耳廓即可，无需惊慌。"
+        },
+        {
+          "question": "如何纠正贵宾犬啃咬家具的行为？",
+          "answer": "贵宾犬智商极高，这通常是因为缺乏脑力锻炼、感到无聊而引起的。相比普通的咬咬玩具，应多提供智力拼图和嗅闻游戏以满足它们的认知需求。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Es normal que mi caniche sacuda la cabeza vigorosamente después de la limpieza de oídos?",
+          "answer": "Sí, es una reacción normal de autolimpieza. Ayuda a expulsar el limpiador con la suciedad del interior del oído. Simplemente limpie la parte exterior de la oreja con cuidado."
+        },
+        {
+          "question": "¿Cómo evito que mi caniche muerda los muebles?",
+          "answer": "A menudo muerden por aburrimiento debido a la falta de estimulación mental. En lugar de juguetes masticables comunes, introduzca rompecabezas y juegos interactivos."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Est-il normal que mon caniche secoue la tête vigoureusement après le nettoyage des oreilles ?",
+          "answer": "Oui, c'est une réaction normale d'auto-nettoyage. Cela aide à expulser le nettoyant et les débris dissous. Essuyez simplement l'extérieur du pavillon de l'oreille."
+        },
+        {
+          "question": "Comment empêcher mon caniche de mâcher les meubles ?",
+          "answer": "Le caniche mâche souvent par ennui lorsque son esprit n'est pas assez stimulé. Remplacez les jouets à mâcher simples par des jeux d'intelligence et de fouille."
+        }
+      ],
+      "de": [
+        {
+          "question": "Ist es normal, dass mein Pudel nach der Ohrenreinigung heftig den Kopf schüttelt?",
+          "answer": "Ja, das ist eine normale Selbstreinigungsreaktion. Sie hilft, den Reiniger samt gelöstem Schmutz herauszuschütteln. Wischen Sie einfach die Ohrmuschel sanft ab."
+        },
+        {
+          "question": "Wie gewöhne ich meinem Pudel das Kauen an Möbeln ab?",
+          "answer": "Pudel kauen oft aus Langeweile, wenn sie geistig nicht ausgelastet sind. Bieten Sie statt einfachem Kauspielzeug vermehrt Denkspiele und Schnüffelteppiche an."
+        }
+      ],
+      "pt": [
+        {
+          "question": "É normal o meu poodle sacudir a cabeça vigorosamente após a limpeza das orelhas?",
+          "answer": "Sim, é uma reação normal de autolimpeza. Ajuda a expelir o limpador com a sujeira do interior da orelha. Apenas limpe a parte externa da orelha com cuidado."
+        },
+        {
+          "question": "Como faço para o meu poodle parar de roer móveis?",
+          "answer": "Poodles costumam roer por tédio devido à falta de estimulação mental. Em vez de brinquedos de mastigar comuns, introduza quebra-cabeças e jogos interativos."
+        }
+      ],
+      "id": [
+        {
+          "question": "Apakah normal bagi Poodle saya menggelengkan kepalanya dengan kuat setelah pembersihan telinga?",
+          "answer": "Ya, itu adalah reaksi pembersihan diri yang normal. Ini membantu mengeluarkan pembersih beserta kotoran dari dalam telinga. Cukup seka daun telinga bagian luar secara perlahan."
+        },
+        {
+          "question": "Bagaimana cara menghentikan Poodle saya menggigit furnitur?",
+          "answer": "Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih mental mereka."
+        }
+      ]
+    }
+  },
+  "shiba-care": {
+    "title": {
+      "ko": "시바견의 독립성과 이중모 빗질을 위한 3단계 스킨십 루틴",
+      "en": "Managing Shiba Inu Independence and Double Coat: A 3-Step Routine",
+      "ja": "柴犬の独立性と二重毛ブラッシングのための3段階スキンシップルーティン",
+      "zh": "柴犬的独立性格与双层毛梳理：日常3步触碰惯例",
+      "es": "Independencia del Shiba Inu y cuidado del manto doble: rutina de 3 pasos",
+      "fr": "Indépendance et double pelage du Shiba Inu : routine en 3 étapes",
+      "de": "Shiba Inu Unabhängigkeit und Fellpflege: Eine 3-Schritte-Routine",
+      "pt": "Independência do Shiba Inu e cuidado de pelagem dupla: rotina de 3 passos",
+      "id": "Kemandirian Shiba Inu dan Perawatan Bulu Ganda: Rutinitas 3 Langkah"
+    },
+    "description": {
+      "ko": "독립적이고 스킨십에 민감한 시바견. 이중모 털빠짐을 예방하는 올바른 브러싱법과 거부감 없는 스킨십 교감을 위한 3단계 루틴을 알아봅니다.",
+      "en": "Shiba Inus are highly independent and touch-sensitive. Learn proper brushing techniques for their double coat and a 3-step routine for stress-free contact.",
+      "ja": "独立心が強くスキンシップに敏感な柴犬。二重毛の抜け毛を防ぐ正しいブラッシング方法と、嫌がらないスキンシップのための3段階ルーティンを紹介します。",
+      "zh": "柴犬性格独立且对触碰较为敏感。介绍预防双层毛脱落的正确梳理方法，以及减少抵触感的日常3步触碰惯例。",
+      "es": "El Shiba Inu es muy independiente y sensible al tacto. Aprenda técnicas de cepillado para su manto doble y una rutina de 3 pasos para un contacto sin estrés.",
+      "fr": "Le Shiba Inu est très indépendant et sensible au toucher. Apprenez le brossage de son double pelage et une routine en 3 étapes pour un contact sans stress.",
+      "de": "Der Shiba Inu ist unabhängig und berührungsempfindlich. Lernen Sie Bürstentechniken für sein doppeltes Fell und eine 3-Schritte-Routine für stressfreie Berührung.",
+      "pt": "O Shiba Inu é muito independente e sensível ao toque. Aprenda técnicas de escovação para pelagem dupla e uma rotina de 3 passos para contato sem estresse.",
+      "id": "Shiba Inu sangat mandiri dan sensitif terhadap sentuhan. Pelajari teknik menyikat bulu ganda mereka dan rutinitas 3 langkah untuk sentuhan tanpa stres."
+    },
+    "authority": {
+      "ko": "National Shiba Club of America 및 IAABC 행동 치료 가이드라인",
+      "en": "National Shiba Club of America & IAABC Behavior Modification Guidelines",
+      "ja": "全米柴犬クラブ(NSCA)＆IAABC行動治療ガイドライン",
+      "zh": "美国国家柴犬俱乐部 (NSCA) 与 IAABC 行为矫正指南",
+      "es": "Club Nacional del Shiba Inu de América y directrices de modificación de conducta de IAABC",
+      "fr": "National Shiba Club of America et directives de modification du comportement de l'IAABC",
+      "de": "Nationaler Shiba Inu Club von Amerika & IAABC-Verhaltensmodifikationsrichtlinien",
+      "pt": "Club Nacional do Shiba Inu da América e diretrizes de modificação de comportamento da IAABC",
+      "id": "Klub Nasional Shiba Inu Amerika & Pedoman Modifikasi Perilaku IAABC"
+    },
+    "profile": {
+      "breed": {
+        "ko": "시바견 (Shiba Inu)",
+        "en": "Shiba Inu",
+        "ja": "柴犬",
+        "zh": "柴犬",
+        "es": "Shiba Inu",
+        "fr": "Shiba Inu",
+        "de": "Shiba Inu",
+        "pt": "Shiba Inu",
+        "id": "Shiba Inu"
+      },
+      "lifespan": {
+        "ko": "12 ~ 15년",
+        "en": "12 ~ 15 years",
+        "ja": "12 ~ 15年",
+        "zh": "12 ~ 15年",
+        "es": "12 ~ 15 años",
+        "fr": "12 ~ 15 ans",
+        "de": "12 ~ 15 Jahre",
+        "pt": "12 ~ 15 anos",
+        "id": "12 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "12 ~ 14시간 (개인 영역 확보형)",
+        "en": "12 ~ 14 hours (personal space oriented)",
+        "ja": "12 ~ 14時間（パーソナルスペース重視型）",
+        "zh": "12 ~ 14小时（注重个人空间型）",
+        "es": "12 ~ 14 horas (orientado al espacio personal)",
+        "fr": "12 ~ 14 heures (orienté vers son espace personnel)",
+        "de": "12 ~ 14 Stunden (bereichsorientiert)",
+        "pt": "12 ~ 14 horas (orientado ao espaço pessoal)",
+        "id": "12 ~ 14 jam (berorientasi ruang pribadi)"
+      },
+      "temperament": {
+        "ko": "독립적, 경계심 강함, 대담함",
+        "en": "Independent, Alert, Bold",
+        "ja": "独立心が強い、警戒心が強い、大胆",
+        "zh": "独立、警惕、大胆",
+        "es": "Independiente, Alerta, Audaz",
+        "fr": "Indépendant, Alerte, Audacieux",
+        "de": "Unabhängig, Wachsam, Kühn",
+        "pt": "Independente, Alerta, Audaz",
+        "id": "Mandiri, Waspada, Berani"
+      }
+    },
+    "intro": {
+      "ko": "시바견은 한국과 일본뿐만 아니라 전 세계적으로 많은 사랑을 받는 고유 견종입니다. 여우를 닮은 외모와 꼿꼿한 꼬리가 매력적이지만, 성격은 고양이처럼 아주 독립적이고 고집이 세며 경계심이 많습니다. 🐕 특히 시바견은 발끝이나 귀, 엉덩이 등 신체 말단 부위를 만지는 것에 매우 민감하여, 강압적인 빗질이나 발톱 깎기를 시도할 경우 비명을 지르는 듯한 소리인 '시바 스크림(Shiba Scream)'을 지르며 거부하기 일쑤입니다. 또한, 빽빽한 이중모를 가지고 있어 털빠짐 시기에는 털이 엄청나게 빠져나갑니다. 오늘 PetSelf에서는 시바견의 독립적인 성향을 존중하면서 털을 관리하고 올바른 터치 교감을 나누는 3단계 홈케어 루틴을 소개합니다.",
+      "en": "Shiba Inus are beloved globally for their fox-like appearance and curled tail. However, they possess a cat-like independence, strong will, and alert nature. 🐕 Shibas are notoriously sensitive to having their paws, ears, or tail touched. If forced during grooming or nail clipping, they often emit a high-pitched Shiba Scream in protest. Moreover, they have a thick double coat that sheds heavily during seasonal changes. Today, PetSelf explores how to respect your Shiba's boundaries while maintaining their coat with a 3-step daily care routine.",
+      "ja": "柴犬は日本や韓国だけでなく、世界中で愛されている固有種です。狐に似た顔立ちとピンと立った尻尾が魅力的ですが、性格は猫のように独立心が強く、頑固で警戒心が強いです。🐕特に柴犬は足先や耳、お尻など、体の末端部分を触られることに非常に敏感で、無理なブラッシングや爪切りを試みると悲鳴のような「シバスクリーム」を上げて拒否しがちです。また、密度の高い二重毛のため、毛が抜ける時期には凄まじい量が抜けます。本日、PetSelfでは柴犬の独立性を尊重しつつ、二重毛をケアしスキンシップを図る3段階ルーティンを紹介します。",
+      "zh": "柴犬因其狐狸般的外表和卷曲的尾巴而在全球深受喜爱。然而，它们拥有像猫一样的独立性格、强烈的意志和警惕的本能。🐕柴犬对爪子、耳朵或尾部被触碰极为敏感。如果在理毛或剪指甲时强迫它们，它们往往会发出尖锐的“柴犬尖叫”以示抗议。此外，它们拥有浓密的双层被毛，在换毛季节脱落非常严重。今天，PetSelf 将介绍如何在尊重柴犬界限的同时，通过日常3步护理惯例维护其被毛并进行温和触碰。",
+      "es": "Los Shiba Inus son amados globalmente por su aspecto de zorro y su cola rizada. Sin embargo, poseen una independencia similar a la de los gatos, una fuerte voluntad y una naturaleza alerta. 🐕 Son notablemente sensibles a que les toquen las patas, las orejas o la cola. Si se les obliga a acicalarse o cortarse las uñas, suelen emitir un 'grito Shiba' en señal de protesta. Además, tienen un manto doble grueso que se desprende mucho. Hoy, PetSelf explora cómo respetar los límites de su Shiba con una rutina de 3 pasos.",
+      "fr": "Le Shiba Inu est adoré dans le monde entier pour son physique de renard et sa queue enroulée. Cependant, il possède une indépendance de chat, un caractère bien trempé et une nature alerte. 🐕 Les Shibas sont très sensibles au toucher sur les pattes, les oreilles ou la queue. S'ils sont contraints lors du brossage ou de la coupe des griffes, ils poussent souvent un cri aigu dit 'Shiba Scream' en signe de protestation. De plus, ils ont un double pelage épais qui mue fortement. Aujourd'hui, PetSelf explique comment respecter les limites de votre Shiba avec une routine en 3 étapes.",
+      "de": "Shiba Inus sind weltweit für ihr fuchsartiges Aussehen und ihren geringelten Schwanz beliebt. Sie besitzen jedoch eine katzenartige Unabhängigkeit, einen starken Willen und ein wachsames Wesen. 🐕 Shibas reagieren empfindlich auf Berührungen an Pfoten, Ohren oder Rute. Wenn sie beim Pflegen oder Krallenschneiden gezwungen werden, stoßen sie oft einen hohen 'Shiba-Schrei' aus. Zudem haben sie ein dichtes doppeltes Fell, das beim Fellwechsel stark haart. Heute zeigt PetSelf, wie Sie die Grenzen Ihres Shibas mit einer 3-Schritte-Routine respektieren.",
+      "pt": "Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrolada. No entanto, possuem uma independência felina, vontade forte e natureza alerta. 🐕 São notoriamente sensíveis a toques nas patas, orelhas ou cauda. Se forem forçados durante a escovação ou corte de unhas, costumam soltar o 'grito Shiba' em protesto. Além disso, têm pelagem dupla espessa que cai muito. Hoje, o PetSelf explora como respeitar os limites de seu Shiba com uma rotina de 3 passos.",
+      "id": "Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingkar mereka. Namun, mereka memiliki kemandirian mirip kucing, kemauan keras, dan sifat waspada. 🐕 Shiba sangat sensitif terhadap sentuhan pada kaki, telinga, atau ekor mereka. Jika dipaksa selama perawatan atau pemotongan kuku, mereka sering mengeluarkan 'Shiba Scream' bernada tinggi sebagai protes. Selain itu, mereka memiliki bulu ganda tebal yang rontok parah. Hari ini, PetSelf mengeksplorasi cara menghormati batasan Shiba Anda dengan rutinitas 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "시바견의 바디 랭귀지: 부담감과 긴장의 신호",
+      "en": "Shiba Inu Body Language: Signals of Pressure and Stress Relief",
+      "ja": "柴犬のボディランゲージ：負担感と緊張のサイン",
+      "zh": "柴犬的身体语言：压力与释放压力的信号",
+      "es": "Lenguaje corporal del Shiba Inu: señales de presión y alivio de tensión",
+      "fr": "Langage corporel du Shiba Inu : signaux de pression et soulagement du stress",
+      "de": "Körpersprache des Shiba Inu: Signale von Druck und Stressabbau",
+      "pt": "Linguagem corporal do Shiba Inu: sinais de pressão e alívio do estresse",
+      "id": "Cara Membaca Isyarat Tubuh dan Tanda Stres pada Anjing Shiba"
+    },
+    "whyDesc": {
+      "ko": "시바견은 자신의 공간이 침해받을 때 조용히 거부 의사를 표시합니다. 대표적인 행동은 **'고개 돌리기'**와 **'몸 털기'**입니다. 사람이 손을 뻗어 만지려 할 때 머리를 피하거나 고개를 돌리는 것은 절대 튕기는 것이 아니라, '지금은 만지지 말아주세요'라는 완곡한 거절입니다. 또한 스트레스 상황이 끝나고 몸을 파르르 크게 터는 행동은 몸에 쌓인 불안과 에너지를 털어내 스스로를 리셋하려는 본능적인 대처 행동입니다.",
+      "en": "Shiba Inus express their boundaries clearly and quietly. Key signals include **'looking away'** and **'shaking off'**. When a person reaches out to touch them and the Shiba turns their head away, it is not a playful gesture; it is a polite request saying 'please do not touch me right now.' Similarly, a full-body shake after a stressful event (like an examination or grooming session) is an instinctive mechanism to release physical tension and reset their psychological state.",
+      "ja": "柴犬は自分のスペースが侵害されたとき、静かに拒否の意思を示します。代表なしぐさは**「顔を背ける」**と**「体を震わせる」**です。人が手を伸ばして触ろうとした時に頭を避けたり顔を背けたりするのは、おねだりしているのではなく、「今は触らないでください」という婉曲的な拒否です。また、ストレスから解放された後に体をブルブルと大きく震わせる行動は、体に溜まった不安を払い落としてリセットするための本能的な行動です。",
+      "zh": "柴犬在个人空间受到侵犯时，会静静地表达抗拒。关键动作是“避开视线（扭头）”和“抖身体”。当有人伸手想摸它，它避开头或扭过脸时，并不是在开玩笑，而是在委婉地请求“请现在不要碰我”。同样，在经历压力事件（如剪指甲或打针）后，它们大幅度抖动全身，是一种本能的调节机制，用以释放身体紧张并调整心理状态。",
+      "es": "Los Shiba Inus expresan sus límites de forma clara y silenciosa. Las señales clave incluyen **'evitar la mirada'** y **'sacudirse'**. Cuando una persona se acerca para tocarlos y el Shiba aparta la cabeza, es una petición cortés de 'por favor no me toques ahora'. Del mismo modo, sacudir todo el cuerpo después de un evento estresante es un mecanismo instintivo para liberar la tensión física y reiniciar su estado psicológico.",
+      "fr": "Le Shiba Inu exprime ses limites clairement et discrètement. Les signaux clés incluent **détourner le regard** et **s'ébrouer**. Lorsqu'une personne s'approche pour le toucher et qu'il détourne la tête, ce n'est pas un jeu ; c'est une demande polie disant 's'il te plaît, ne me touche pas maintenant'. De même, s'ébrouer après un événement stressant est un mécanisme instinctif pour relâcher la tension physique et réinitialiser son état.",
+      "de": "Shiba Inus drücken ihre Grenzen klar und leise aus. Wichtige Signale sind **'Wegschauen'** und **'Abschütteln'**. Wenn eine Person nach ihnen greift und der Shiba den Kopf wegdreht, ist das eine höfliche Bitte wie 'Bitte fass mich jetzt nicht an'. Ein Abschütteln des ganzen Körpers nach einem stressigen Ereignis ist ein instinktiver Mechanismus, um körperliche Anspannung abzubauen und sich psychisch zu erholen.",
+      "pt": "Os Shiba Inus expressam seus limites de forma clara e silenciosa. Os sinais principais incluem **'desviar o olhar'** e **'sacudir-se'**. Quando uma pessoa estende a mão para tocá-los e o Shiba desvia a cabeça, é um pedido cortês de 'por favor, não me toque agora'. Da mesma forma, sacudir todo o corpo após um evento estresante é um mecanismo instintivo para liberar a tensão física e restaurar seu estado psicológico.",
+      "id": "Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama meliputi **'memalingkan muka'** dan **'mengibaskan tubuh'**. Ketika seseorang mengulurkan tangan untuk menyentuh mereka dan Shiba memalingkan kepala, itu adalah permintaan sopan yang mengatakan 'tolong jangan sentuh aku sekarang.' Mengibaskan tubuh setelah kejadian stres adalah mekanisme naluriah untuk melepaskan ketegangan fisik."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "고개 돌리기 (Looking Away)",
+          "en": "Looking Away",
+          "ja": "顔を背ける (Looking Away)",
+          "zh": "避开视线 (Looking Away)",
+          "es": "Evitar la mirada",
+          "fr": "Détourner le regard",
+          "de": "Wegschauen",
+          "pt": "Desviar o olhar",
+          "id": "Memalingkan Muka"
+        },
+        "meaning": {
+          "ko": "상대방의 접근이 부담스러우니 멈춰달라는 정중한 요청입니다.",
+          "en": "A polite request asking the observer to stop approaching or touching, expressing pressure.",
+          "ja": "相手の接近が負担なので、近づかないでほしいという丁重な要求です。",
+          "zh": "表示家长的接近带来了压力，恳请家长停止靠近或触碰的礼貌请求。",
+          "es": "Una petición cortés que pide al observador que deje de acercarse o tocarlo, expresando presión.",
+          "fr": "Une demande polie demandant à l'observateur d'arrêter de s'approcher ou de le toucher.",
+          "de": "Eine höfliche Bitte, sich nicht weiter zu nähern, da dies Druck auf den Hund ausübt.",
+          "pt": "Um pedido cortês pedindo à pessoa que pare de se aproximar ou tocá-lo, expressando pressão.",
+          "id": "Permintaan sopan yang meminta orang tersebut berhenti mendekat atau menyentuh, mengekspresikan tekanan."
+        },
+        "response": {
+          "ko": "이 신호를 보이면 억지로 만지지 말고 손을 치워 공간을 허용해 주십시오.",
+          "en": "If you see this, stop trying to touch them. Retract your hand and give them space.",
+          "ja": "このサインが出たら無理に触らず、手を引いてスペースを空けてください。",
+          "zh": "如果看到这个动作，请停止抚摸，收回手并给它们留出空间。",
+          "es": "Si ve esto, no intente tocarlo. Retire la mano y déle espacio.",
+          "fr": "Si vous voyez cela, n'essayez pas de le toucher. Retirez votre main et laissez-lui de l'espace.",
+          "de": "Wenn Sie dies sehen, versuchen Sie nicht, ihn anzufassen. Ziehen Sie die Hand zurück.",
+          "pt": "Se ver isso, não tente tocá-lo. Retire a mão e dê-lhe espaço.",
+          "id": "Jika melihat ini, jangan mencoba menyentuh mereka. Tarik tangan Anda dan beri mereka ruang."
+        }
+      },
+      {
+        "name": {
+          "ko": "몸 털기 (Shake Off)",
+          "en": "Shake Off",
+          "ja": "体を震わせる (Shake Off)",
+          "zh": "抖落压力 (Shake Off)",
+          "es": "Sacudirse",
+          "fr": "S'ébrouer",
+          "de": "Abschütteln",
+          "pt": "Sacudir-se",
+          "id": "Mengibaskan Tubuh"
+        },
+        "meaning": {
+          "ko": "방금 전의 상황에서 받았던 스트레스나 물리적 긴장감을 해소하려는 행동입니다.",
+          "en": "An action meant to shake off stress or physical tension experienced in a recent event.",
+          "ja": "直前の状況で感じたストレスや物理的な緊張を和らげるための行動です。",
+          "zh": "用以抖落刚刚在某种环境中积累的压力或身体紧张的调节行为。",
+          "es": "Una acción destinada a sacudirse el estrés o la tensión física experimentados recientemente.",
+          "fr": "Un geste pour relâcher le stress ou la tension physique accumulés récemment.",
+          "de": "Eine Aktion, um Stress oder körperliche Anspannung eines kürzlichen Ereignisses abzuschütteln.",
+          "pt": "Uma ação destinada a sacudir o estresse ou a tensão física experimentados recentemente.",
+          "id": "Tindakan yang dimaksudkan untuk melepaskan stres atau ketegangan fisik setelah suatu kejadian."
+        },
+        "response": {
+          "ko": "빗질 등 싫어하는 활동 도중 몸을 털면, 긴장 해소 신호이므로 즉시 멈추고 쉬게 하십시오.",
+          "en": "If they shake during grooming, they are releasing tension. Stop the activity and let them rest.",
+          "ja": "ブラッシングなどの途中で体を震わせたら、緊張を和らげるサインですので直ちに中止して休ませてください。",
+          "zh": "如果在梳毛等活动过程中它们抖动身体，说明正在释放压力。请立即停止并让它们休息。",
+          "es": "Si se sacuden durante el acicalamiento, están liberando tensión. Detenga la actividad y déjelos descansar.",
+          "fr": "S'il s'ébroue pendant le brossage, il relâche sa tension. Arrêtez l'activité et laissez-le se reposer.",
+          "de": "Wenn sie sich beim Pflegen schütteln, bauen sie Spannung ab. Beenden Sie die Aktivität und lassen Sie sie ruhen.",
+          "pt": "Se eles se sacudirem durante a escovação, estão liberando tensão. Pare a atividade e deixe-os descansar.",
+          "id": "Jika mereka mengibas selama perawatan, mereka sedang melepaskan ketegangan. Hentikan aktivitas dan biarkan mereka istirahat."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 민감 부위 터치 둔감화 교육",
+          "en": "Morning: Sensitive Area Touch Desensitization",
+          "ja": "朝：過敏部位のタッチ鈍感化教育",
+          "zh": "早晨：敏感部位触碰脱敏训练",
+          "es": "Mañana: Desensibilización al tacto en zonas sensibles",
+          "fr": "Matin : Désensibilisation au toucher des zones sensibles",
+          "de": "Morgen: Desensibilisierung an empfindlichen Stellen",
+          "pt": "Manhã: Dessensibilização ao toque em áreas sensíveis",
+          "id": "Pagi: Desensitisasi Sentuhan Area Sensitif"
+        },
+        "text": {
+          "ko": "시바견이 만지기 싫어하는 발목이나 엉덩이를 1초 살짝 만지고 바로 좋아하는 간식을 주는 루틴을 반복하여 접촉에 대한 긍정적인 인식을 만듭니다.",
+          "en": "Touch their paws or hips briefly for 1 second, then reward immediately with a high-value treat. Repeat to build positive associations with physical touch.",
+          "ja": "柴犬が触られたくない足首やお尻を1秒だけ優しく触り、すぐに大好物のおやつを与える動作を繰り返して、触れ合いに良いイメージを持たせます。",
+          "zh": "轻轻触碰柴犬不喜被触碰的爪子或臀部1秒钟，然后立即奖励高价值零食。重复此过程以对触碰建立积极的联想。",
+          "es": "Toque sus patas o caderas brevemente por 1 segundo, luego premie de inmediato con un bocadillo. Repita para crear asociaciones positivas con el tacto.",
+          "fr": "Touchez brièvement leurs pattes ou leurs hanches pendant 1 seconde, puis offrez immédiatement une friandise. Répétez pour créer une association positive.",
+          "de": "Berühren Sie Pfoten oder Hüften kurz für 1 Sekunde und geben Sie sofort ein Leckerli. Wiederholen Sie dies, um positive Assoziationen aufzubauen.",
+          "pt": "Toque suas patas ou quadris brevemente por 1 segundo e, em seguida, recompense imediatamente com um petisco. Repita para criar associações positivas.",
+          "id": "Sentuh kaki atau pinggul mereka sebentar selama 1 detik, lalu beri hadiah berupa camilan lezat. Ulangi untuk membangun asosiasi positif dengan sentuhan."
+        }
+      },
+      {
+        "name": {
+          "ko": "오후: 거부감 없는 이중모 전용 브러싱",
+          "en": "Afternoon: Low-Stress Double Coat Brushing",
+          "ja": "午後：ストレスフリーな二重毛専用ブラッシング",
+          "zh": "下午：低压力的双层毛专用梳理",
+          "es": "Tarde: Cepillado de bajo estrés para el manto doble",
+          "fr": "Après-midi : Brossage à faible stress du double pelage",
+          "de": "Nachmittag: Stressfreie Pflege des doppelten Fells",
+          "pt": "Tarde: Escovação de baixo estresse para pelagem dupla",
+          "id": "Siang: Menyikat Bulu Ganda dengan Stres Rendah"
+        },
+        "text": {
+          "ko": "빽빽한 이중모 속 죽은 털을 제거할 때, 슬리커 빗을 사용해 피모 결 방향으로 가볍게 빗겨주고 시바견이 으르렁대거나 물려는 낌새를 보이면 즉시 중단합니다.",
+          "en": "Use a slicker brush or undercoat rake to gently brush in the direction of hair growth. If they show any signs of discomfort or growl, stop immediately.",
+          "ja": "密度の高い二重毛の中の抜け毛を取り除く際、スリッカーブラシで毛並みに沿って優しくブラッシングし、唸ったり嫌がる兆候を見せたらすぐに止めます。",
+          "zh": "使用针梳或开结梳顺着毛发生长方向轻轻梳理。如果它们表现出任何不适或发出低吼，请立即停止以避免压力累积。",
+          "es": "Use un cepillo slicker para cepillar suavemente en la dirección del crecimiento del pelo. Si muestra algún signo de incomodidad o gruñe, deténgase de inmediato.",
+          "fr": "Utilisez une carde pour brosser délicatement dans le sens du poil. S'il montre des signes d'inconfort ou grogne, arrêtez immédiatement.",
+          "de": "Bürsten Sie mit einer Zupfbürste sanft in Haarwuchsrichtung. Wenn der Hund Anzeichen von Unwohlsein zeigt oder knurrt, brechen Sie sofort ab.",
+          "pt": "Use uma rasqueadeira para escovar suavemente na direção do crescimento do pelo. Se mostrar qualquer sinal de desconforto ou rosnar, pare imediatamente.",
+          "id": "Gunakan sikat slicker untuk menyikat lembut searah pertumbuhan bulu. Jika mereka menunjukkan tanda ketidaknyamanan atau menggeram, segera hentikan."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 독립적 공간(하우스/켄넬) 존중",
+          "en": "Evening: Respecting the Independent Safe Zone",
+          "ja": "夜：独立したスペース（ハウス/ケネル）の尊重",
+          "zh": "晚上：尊重独立的安全区域（犬舍）",
+          "es": "Noche: Respetar la zona segura independiente",
+          "fr": "Soir : Respect de la zone de sécurité indépendante",
+          "de": "Abend: Respektieren der unabhängigen Schutzzone",
+          "pt": "Noite: Respeitar a zona de segurança independente",
+          "id": "Malam: Menghormati Zona Aman Mandiri"
+        },
+        "text": {
+          "ko": "저녁 휴식 시 시바견이 켄넬이나 전용 방석 등 자기만의 숨은 영역에 들어갔을 때는 억지로 꺼내거나 만지지 말고 혼자서 완전히 쉴 수 있게 내버려 둡니다.",
+          "en": "When your Shiba retreats to their kennel or safe corner for evening rest, do not force them out or pet them. Allow them to recharge in total solitude.",
+          "ja": "夜の休息時、柴犬がケネルや専用のクッションなど自分のスペースに入ったら、無理に引っ張り出したり触ったりせず、一人で静かに休ませてあげてください。",
+          "zh": "当柴犬退到犬舍或安全角落休息时，请勿强迫它们出来或抚摸它们。让它们在完全安静的环境中独处以恢复精力。",
+          "es": "Cuando su Shiba se retire a su transportín o rincón seguro para descansar, no lo obligue a salir ni lo acaricie. Permítale descansar en total soledad.",
+          "fr": "Lorsque votre Shiba se retire dans sa cage ou son coin de repos, ne le forcez pas à sortir et ne le caressez pas. Laissez-le se reposer dans le calme.",
+          "de": "Wenn sich Ihr Shiba am Abend in seine Box oder eine sichere Ecke zurückzieht, zwingen Sie ihn nicht heraus. Lassen Sie ihn in völliger Ruhe entspannen.",
+          "pt": "Quando o seu Shiba se retirar para a caixa de transporte ou canto seguro para descansar, não o force a sair nem o acaricie. Permita-lhe descansar em solidão.",
+          "id": "Ketika Shiba mundur ke kandang atau sudut aman mereka untuk istirahat malam, jangan paksa mereka keluar atau membelainya. Biarkan mereka beristirahat."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "시바견이 빗질할 때 소리를 지르고 비명을 지르는데 어떻게 해야 하나요?",
+          "answer": "이른바 '시바 스크림(Shiba Scream)'입니다. 엄살이나 단순 거부가 아니라 실제 큰 부담과 두려움을 느낄 때 나타납니다. 빗질을 즉시 멈추고 빗을 갖다 대기만 해도 맛있는 간식을 주는 단계부터 둔감화 교육을 다시 시작해야 합니다."
+        },
+        {
+          "question": "시바견은 왜 다른 개들처럼 꼬리를 치며 살갑게 굴지 않나요?",
+          "answer": "성격이 고양이와 유사하여 과도한 터치나 환영 표현을 하지 않는 품종적 특성을 가지고 있습니다. 꼬리를 마구 흔들지 않더라도 보호자 근처에서 조용히 누워있거나 관찰하는 것만으로도 깊은 애정을 나타내고 있는 것입니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "Why does my Shiba Inu scream during grooming?",
+          "answer": "This is known as the 'Shiba Scream.' It is an expression of genuine fear and pressure, not just acting out. Stop immediately and restart training from the basic level, like rewarding them simply for looking at the brush."
+        },
+        {
+          "question": "Why isn't my Shiba Inu as affectionate or wiggly as other dogs?",
+          "answer": "Shibas are naturally cat-like and value their personal space. Just because they do not wag their tails enthusiastically does not mean they don't love you; lying quietly near you is their way of showing affection."
+        }
+      ],
+      "ja": [
+        {
+          "question": "柴犬がブラッシングの時に悲鳴を上げて叫ぶのはどうしてですか？",
+          "answer": "いわゆる「シバスクリーム」と呼ばれるものです。単なるわがままではなく、本気で恐怖を感じています。ブラッシングをすぐに中止し、ブラシを見せるだけでおやつを与えるステップから地道に慣れさせてください。"
+        },
+        {
+          "question": "柴犬はどうして他の犬のようにしっぽを振って甘えてこないのですか？",
+          "answer": "猫に似た性格で、過剰なスキンシップや大げさな表現をしないのが柴犬の特徴です。激しくしっぽを振らなくても、飼い主の近くで静かに寝転がっているだけで、十分な愛情表現なのです。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "为什么我的柴犬在理毛时会尖叫？",
+          "answer": "这被称为“柴犬尖叫”。这是它们感到真正恐惧和压力的表达，而非单纯的无理取闹。请立即停止，并从基础脱敏训练重新开始，例如仅仅让它们看着梳子就给予奖励。"
+        },
+        {
+          "question": "为什么我的柴犬不像其他狗那样热情或摇尾巴？",
+          "answer": "柴犬天生具有像猫一样的性格，非常看重个人空间。它们不热情地摇尾巴并不代表它们不爱您，安静地躺在您身边就是它们表达爱意的方式。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Por qué mi Shiba Inu grita durante el acicalamiento?",
+          "answer": "Esto se conoce como el 'Grito Shiba'. Es una expresión de miedo y presión genuinos, no solo una actuación. Detenga la actividad y reinicie el entrenamiento desde el nivel básico."
+        },
+        {
+          "question": "¿Por qué mi Shiba Inu no es tan cariñoso o inquieto como otros perros?",
+          "answer": "Los Shibas son naturalmente similares a los gatos y valoran su espacio. Que no muevan la cola con entusiasmo no significa que no lo quieran; estar acostados cerca de usted es su forma de mostrar afecto."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Pourquoi mon Shiba Inu crie-t-il pendant le toilettage ?",
+          "answer": "C'est le fameux 'Shiba Scream'. Il exprime une peur réelle et une pression, ce n'est pas de la comédie. Arrêtez immédiatement et reprenez l'éducation à la base."
+        },
+        {
+          "question": "Pourquoi mon Shiba Inu n'est-il pas aussi affectueux ou frétillant que les autres chiens ?",
+          "answer": "Les Shibas ressemblent aux chats et aiment leur espace. Ne pas remuer la queue avec enthousiasme ne signifie pas qu'il ne vous aime pas ; s'allonger calmement près de vous est sa façon de montrer son affection."
+        }
+      ],
+      "de": [
+        {
+          "question": "Warum schreit mein Shiba Inu beim Pflegen?",
+          "answer": "Dies ist als 'Shiba-Schrei' bekannt. Es ist ein Ausdruck von echter Angst und Druck. Brechen Sie sofort ab und beginnen Sie das Training von vorn, z. B. Belohnung nur für das Ansehen der Bürste."
+        },
+        {
+          "question": "Warum ist mein Shiba Inu nicht so anhänglich wie andere Hunde?",
+          "answer": "Shibas verhalten sich ähnlich wie Katzen und schätzen ihren Freiraum. Dass sie nicht freudig mit dem Schwanz wedeln, bedeutet nicht, dass sie Sie nicht lieben; ruhiges Liegen in Ihrer Nähe ist ihr Liebesbeweis."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Por que o meu Shiba Inu grita durante a escovação?",
+          "answer": "Isso é conhecido como o 'Grito Shiba'. É uma expressão de medo e pressão reais, não apenas manha. Pare imediatamente e reinicie o treino desde o nível básico."
+        },
+        {
+          "question": "Por que o meu Shiba Inu não é tão carinhoso ou agitado como outros cães?",
+          "answer": "Os Shibas são naturalmente parecidos com gatos e valorizam seu espaço. Só porque não abanam a cauda com entusiasmo não significa que não gostem de você; deitar-se calmamente perto de você é a forma deles de mostrar carinho."
+        }
+      ],
+      "id": [
+        {
+          "question": "Mengapa Shiba Inu saya berteriak saat dirawat?",
+          "answer": "Ini dikenal sebagai 'Shiba Scream.' Ini adalah ekspresi ketakutan dan tekanan yang tulus, bukan sekadar berakting. Hentikan segera dan mulai kembali pelatihan dari tingkat dasar."
+        },
+        {
+          "question": "Mengapa Shiba Inu saya tidak semesra atau seaktif anjing lainnya?",
+          "answer": "Shiba secara alami mirip kucing dan menghargai ruang pribadi mereka. Hanya karena mereka tidak menggoyangkan ekor dengan antusias, bukan berarti mereka tidak mencintai Anda; berbaring dengan tenang di dekat Anda adalah cara mereka menunjukkan kasih sayang."
+        }
+      ]
+    }
+  },
+  "pomeranian-care": {
+    "title": {
+      "ko": "포메라니안의 슬개골 및 호흡기 안정을 위한 3단계 보호막 루틴",
+      "en": "Protecting Pomeranian Joints and Airway: A 3-Step Daily Routine",
+      "ja": "ポメラニアンの膝蓋骨と呼吸器安定のための3段階プロテクトルーティン",
+      "zh": "博美犬的髌骨与呼吸道保护：日常3步保护惯例",
+      "es": "Protección de articulaciones y vías respiratorias del Pomerania: rutina de 3 pasos",
+      "fr": "Protéger les articulations et la trachée du Loulou de Poméranie : routine en 3 étapes",
+      "de": "Zwergspitz Gelenk- und Atemwegsschutz: Eine 3-Schritte-Routine",
+      "pt": "Proteção de articulações e vias respiratórias do Spitz Alemão: rotina de 3 passos",
+      "id": "Melindungi Sendi dan Saluran Napas Pomeranian: Rutinitas 3 Langkah"
+    },
+    "description": {
+      "ko": "소형견 포메라니안의 유전적 취약점인 슬개골 탈구 방지 팁과 기관지 협착증(거위소리) 완화를 위한 3단계 데일리 케어를 소개합니다.",
+      "en": "Pomeranians are highly prone to patellar luxation and tracheal collapse. Discover tips to prevent joint injuries and relieve breathing issues using a 3-step routine.",
+      "ja": "小型犬ポメラニアンの遺伝的弱点である膝蓋骨脱臼の予防法と、気管虚脱（ガチョウの鳴き声のような呼吸音）の緩和のための3段階ケアを紹介します。",
+      "zh": "博美犬极易发生髌骨脱位和气管塌陷。介绍预防关节损伤及缓解呼吸问题的日常3步保护惯例。",
+      "es": "Los Pomeranias son propensos a la luxación patelar y al colapso traqueal. Descubra consejos para prevenir lesiones articulares y aliviar problemas respiratorios.",
+      "fr": "Le Loulou de Poméranie est sujet à la luxation de la rotule et au collapsus trachéal. Découvrez des conseils pour préserver ses articulations et sa trachée.",
+      "de": "Zwergspitze sind anfällig für Patellaluxation und Trachealkollaps. Erfahren Sie Tipps zur Gelenkvorsorge und Entlastung der Atemwege mit einer 3-Schritte-Routine.",
+      "pt": "Os Spitz Alemães são propensos à luxação patelar e ao colapso traqueal. Descubra dicas para evitar lesões articulares e aliviar problemas respiratórios.",
+      "id": "Pomeranian rentan terhadap luksasi patela dan kolaps trakea. Temukan tips mencegah cedera sendi dan meredakan masalah pernapasan dengan rutinitas 3 langkah."
+    },
+    "authority": {
+      "ko": "American Pomeranian Club 공식 견종 가이드 및 AVMA 수의학 매뉴얼",
+      "en": "Official American Pomeranian Club Breed Guide & AVMA Veterinary Manual",
+      "ja": "アメリカンポメラニアンクラブ公式犬種ガイド＆AVMA獣医学マニュアル",
+      "zh": "美国博美犬俱乐部官方犬种指南与 AVMA 兽医学手册",
+      "es": "Guía oficial de razas del American Pomeranian Club y manual veterinario de la AVMA",
+      "fr": "Guide officiel de race de l'American Pomeranian Club et manuel vétérinaire de l'AVMA",
+      "de": "Offizieller Rasseführer des American Pomeranian Clubs & Tierärztliches Handbuch der AVMA",
+      "pt": "Guia oficial de raças do American Pomeranian Club e manual veterinário da AVMA",
+      "id": "Panduan Ras Resmi American Pomeranian Club & Panduan Dokter Hewan AVMA"
+    },
+    "profile": {
+      "breed": {
+        "ko": "포메라니안 (Pomeranian)",
+        "en": "Pomeranian",
+        "ja": "ポメラニアン",
+        "zh": "博美犬",
+        "es": "Pomerania",
+        "fr": "Loulou de Poméranie",
+        "de": "Zwergspitz",
+        "pt": "Spitz Alemão",
+        "id": "Pomeranian"
+      },
+      "lifespan": {
+        "ko": "12 ~ 16년",
+        "en": "12 ~ 16 years",
+        "ja": "12 ~ 16年",
+        "zh": "12 ~ 16年",
+        "es": "12 ~ 16 años",
+        "fr": "12 ~ 16 ans",
+        "de": "12 ~ 16 Jahre",
+        "pt": "12 ~ 16 anos",
+        "id": "12 ~ 16 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "12 ~ 14시간 (보호자 머리맡 선호형)",
+        "en": "12 ~ 14 hours (prefers sleeping near owner's pillow)",
+        "ja": "12 ~ 14時間（飼い主の枕元優先型）",
+        "zh": "12 ~ 14小时（偏好在家长枕头旁型）",
+        "es": "12 ~ 14 horas (prefiere dormir cerca de la almohada del dueño)",
+        "fr": "12 ~ 14 heures (préfère dormir près de l'oreiller du maître)",
+        "de": "12 ~ 14 Stunden (bevorzugt Kissenbereich des Besitzers)",
+        "pt": "12 ~ 14 horas (prefere dormir perto do travesseiro do dono)",
+        "id": "12 ~ 14 jam (lebih suka tidur di dekat bantal pemilik)"
+      },
+      "temperament": {
+        "ko": "외향적, 총명함, 활기참",
+        "en": "Outgoing, Intelligent, Lively",
+        "ja": "外向的、聡明、活気がある",
+        "zh": "外向、聪明、活泼气派",
+        "es": "Extrovertido, Inteligente, Vivaz",
+        "fr": "Extroverti, Intelligent, Vif",
+        "de": "Extrovertiert, Intelligent, Lebhaft",
+        "pt": "Extrovertido, Inteligente, Vivaz",
+        "id": "Ekstrovert, Cerdas, Lincah"
+      }
+    },
+    "intro": {
+      "ko": "포메라니안은 작은 몸집에 풍성한 털, 그리고 밝고 당당한 걸음걸이로 전 세계에서 가장 인기 있는 초소형 반려견 중 하나입니다. 매우 외향적이고 총명하며, 애교가 넘치지만 고유의 사냥 개 유전자가 있어 소리에 예민하고 다소 앙칼지게 짖기도 합니다. 🐕 하지만 포메라니안을 키우는 반려인들의 공통적인 두 가지 건강 고민이 있습니다. 첫째는 뼈가 너무 얇아 발생하는 **슬개골 탈구(Patellar Luxation)**이고, 둘째는 기관지가 납작하게 눌려 거위 울음소리를 내는 **기관지 협착증(Tracheal Collapse)**입니다. 이 두 질환은 아파트 등 한국의 실내 환경에서 악화되기 쉽습니다. 오늘 PetSelf에서는 포메라니안의 신체 구조에 맞추어 슬개골과 호흡기를 동시에 안전하게 보호할 수 있는 3단계 홈케어 루틴을 소개합니다.",
+      "en": "Pomeranians are highly popular toy dogs, beloved for their fluffy double coat and confident, active gait. They are outgoing and intelligent, but their hunting dog heritage can make them sensitive to sounds and prone to barking. 🐕 Pomeranian owners often face two significant health concerns: **Patellar Luxation** (dislocated kneecaps due to thin bones) and **Tracheal Collapse** (which causes a honking, goose-like cough). These conditions can easily worsen in slippery indoor environments. Today, PetSelf provides key insights into Pomeranian body language and introduces a protective 3-step home care routine for their joints and trachea.",
+      "ja": "ポメラニアンは、小さな体に見事な被毛、そして明るく堂々とした歩き方で、世界中で最も人気のある超小型犬の一つです。非常に外向的で聡明、愛嬌たっぷりですが、犬としての本能から音に敏感で、少しけたたましく吠えることもあります。🐕しかし、ポメラニアンの飼い主に共通する2つの健康の悩みがあります。1つは骨が細いために起こる**膝蓋骨脱臼（パテラ）**、もう1つは気管が平らにつぶれてガチョウのような呼吸音を出す**気管虚脱**です。これらは日本の滑りやすい床環境で悪化しやすいです。本日、PetSelfでは関節と呼吸器を同時に保護する3段階ルーティンを紹介します。",
+      "zh": "博美犬以其娇小的体型、蓬松的双层被毛以及自信活泼的步态而备受喜爱。它们外向且聪明，但其猎犬血统也使其对声音较敏感，易吠叫。🐕博美犬家长经常面临两个重要的健康隐忧：**髌骨脱位**（因骨骼纤细导致膝盖骨易脱位）和**气管塌陷**（导致发出鹅叫般的咳嗽声）。这些状况在滑溜的室内地板上极易恶化。今天，PetSelf 将带您了解博美犬的身体语言，并介绍一套日常3步护理惯例，以保护它们的关节和气管健康。",
+      "es": "Los Pomeranias son perros toy muy populares por su pelaje esponjoso y su andar seguro. Son extrovertidos e inteligentes, pero su herencia cazadora los hace sensibles a los sonidos y propensos a ladrar. 🐕 Los dueños a menudo enfrentan dos problemas de salud: la **luxación patelar** y el **colapso traqueal** (que causa una tos similar al graznido de un ganso). Estas condiciones pueden empeorar en interiores resbaladizos. Hoy, PetSelf presenta una rutina de 3 pasos para proteger sus articulaciones y tráquea.",
+      "fr": "Le Loulou de Poméranie est un chien miniature très populaire, adoré pour sa fourrure bouffante et sa démarche fière. Extroverti et intelligent, il garde un instinct de garde qui le rend sensible aux bruits. 🐕 Les propriétaires de Poméraniens font face à deux soucis de santé majeurs : la **luxation de la rotule** (fragilité osseuse) et le **collapsus trachéal** (qui se traduit par une toux rappelant le cri de l'oie). Ces affections s'aggravent sur les sols glissants. Aujourd'hui, PetSelf présente une routine en 3 étapes pour protéger ses articulations et sa trachée.",
+      "de": "Zwergspitze sind beliebte Gesellschaftshunde, die für ihr plüschiges Fell und ihren selbstbewussten Gang bekannt sind. Sie sind extrovertiert und klug, können aber aufgrund ihres Erbes geräuschempfindlich sein und zum Bellen neigen. 🐕 Besitzer sorgen sich oft um zwei Gesundheitsprobleme: **Patellaluxation** (Kniescheibenluxation aufgrund feiner Knochen) und **Trachealkollaps** (der zu einem gänsehustenartigen Keuchen führt). Diese Beschwerden verschlimmern sich auf rutschigen Böden. Heute stellt PetSelf eine 3-Schritte-Routine vor.",
+      "pt": "Os Spitz Alemães são cães toy populares, amados por sua pelagem fofa e andar confiante. São extrovertidos e inteligentes, mas sua herança de caça pode torná-los sensíveis a sons e propensos a latir. 🐕 Os donos frequentemente enfrentam duas preocupações: a **luxação patelar** e o **colapso traqueal** (que causa uma tosse parecida com grasnido de ganso). Essas condições pioram em pisos rescorregadios. Hoje, o PetSelf apresenta uma rotina de 3 passos para as articulações e traqueia.",
+      "id": "Pomeranian adalah anjing mainan yang sangat populer, dicintai karena bulu ganda mereka yang lembut dan gaya berjalan mereka yang percaya diri. Mereka ekstrovert dan cerdas, tetapi warisan anjing pemburu dapat membuat mereka sensitif terhadap suara dan cenderung menggonggong. 🐕 Pemilik sering menghadapi dua masalah kesehatan utama: **Luksasi Patela** dan **Kolaps Trakea** (yang menyebabkan batuk mirip angsa). Kondisi ini dapat memburuk di lantai licin. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "포메라니안의 바디 랭귀지: 기쁨과 흥분의 조절",
+      "en": "Pomeranian Body Language: Distinguishing Playfulness from Anxiety",
+      "ja": "ポメラニアンのボディランゲージ：遊び心と不安の判別",
+      "zh": "博美犬的身体语言：区分玩耍与焦虑",
+      "es": "Lenguaje corporal del Pomerania: distinguir el juego de la ansiedad",
+      "fr": "Langage corporel du Poméranien : distinguer le jeu de l'anxiété",
+      "de": "Körpersprache des Zwergspitzes: Unterscheidung zwischen Spieltrieb und Angst",
+      "pt": "Linguagem corporal do Spitz Alemão: distinguindo o brincar da ansiedade",
+      "id": "Bahasa Tubuh Pomeranian: Membedakan Bermain dengan Kecemasan"
+    },
+    "whyDesc": {
+      "ko": "포메라니안은 작은 몸집만큼 신속하게 기분을 전환하며, 적극적인 몸짓 언어를 구사합니다. 대표적인 언어는 **'기지개 켜기(Play Bow)'**와 **'입술 핥기'**입니다. 포메라니안이 앞발을 낮추고 엉덩이를 번쩍 드는 기지개 동작은 기분 좋은 놀이 신청의 전형입니다. 반면, 흥분하여 꼬리를 흔드는 듯 보이지만 혀를 내밀어 입술을 낼름 핥는 것은 현재 상황에 심리적인 압박이나 불안감을 느껴 스스로를 통제하려는 시그널이므로 안정이 필요합니다.",
+      "en": "Pomeranians are highly expressive and shift emotions rapidly. Key body language signals include the **'play bow'** (stretching) and **'lip licking'**. When a Pomeranian lowers their front body while raising their hips, it is the classic 'play bow,' indicating an open invitation to play. However, if they appear to wag their tail but continuously lick their lips, it is a sign of internal anxiety or stress. Owners should not mistake this for excitement and should help calm them down.",
+      "ja": "ポメラニানেরは小さな体で素早く感情を切り替え、表情豊かなしぐさを見せます。代表的なサインは**「プレイバウ（お辞儀のポーズ）」**と**「唇舐め」**です。ポメラニアンが前足を低く下げ、お尻を高く持ち上げるポーズは、楽しい遊びの誘いです。一方、しっぽを振って喜んでいるように見えても、頻繁に唇をペロペロ舐めるのは、現在の環境に精神的な負担や不安を感じて落ち着こうとするサインです。",
+      "zh": "博美犬极富表现力，情绪变化迅速。关键的肢体语言包括“邀请玩耍姿势（Play Bow）”和“舔嘴唇”。当博美犬降低前半身并抬高臀部时，这是经典的邀请玩耍姿势。然而，如果它们看似在摇尾巴，却不断地用舌头舔嘴唇，这实际上是内心焦虑或压力的表现。家长不应将其误认为兴奋，而应该帮助它们冷静下来。",
+      "es": "Los Pomeranias son muy expresivos y cambian de emoción rápidamente. Las señales clave incluyen el **'saludo de juego'** y **'lamerse los labios'**. Cuando baja la parte delantera de su cuerpo y levanta las caderas, es una invitación a jugar. Sin embargo, si parece mover la cola pero se lame continuamente los labios, es un signo de ansiedad interna. Los dueños no deben confundir esto con entusiasmo.",
+      "fr": "Le Poméranien est très expressif et change d'émotion rapidement. Les signaux clés incluent la **'révérence de jeu'** (play bow) et le **'lèche-babines'**. Lorsqu'il abaisse le train avant et lève l'arrière-train, c'est une invitation classique au jeu. Cependant, s'il remue la queue tout en se léchant continuellement les babines, c'est un signe d'anxiété interne. Les maîtres ne doivent pas confondre cela avec de l'excitation.",
+      "de": "Zwergspitze sind sehr ausdrucksstark. Wichtige Signale sind die **'Spielaufforderung'** (Vorderkörper absenken) und das **'Lippenlecken'**. Wenn ein Zwergspitz den Vorderkörper senkt und das Hinterteil hebt, ist das eine Spielaufforderung. Wenn er jedoch mit dem Schwanz wedelt, aber ständig die Lippen leckt, deutet dies auf innere Unruhe oder Stress hin. Verwechseln Sie dies nicht mit Freude.",
+      "pt": "Os Spitz Alemães são muito expressivos. Os sinais principais incluem a **'posição de convite para brincar'** (Play Bow) e **'lamber os lábios'**. Quando baixa a parte dianteira do corpo e levanta o quadril, é um convite clássico para brincar. No entanto, se parecer abanar a cauda mas lamber os lábios continuamente, é sinal de ansiedade interna. Não confunda isso com entusiasmo.",
+      "id": "Pomeranian sangat ekspresif dan mengubah emosi dengan cepat. Sinyal bahasa tubuh utama meliputi **'posisi mengajak bermain'** (play bow) dan **'menjilat bibir'**. Saat Pomeranian menurunkan tubuh bagian depan sambil mengangkat pinggul, itu adalah ajakan bermain klasik. Namun, jika mereka menggoyangkan ekor tetapi terus menjilat bibir, itu adalah tanda kecemasan internal."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "기지개 켜기 (Play Bow)",
+          "en": "Play Bow",
+          "ja": "お辞儀のポーズ (Play Bow)",
+          "zh": "邀请玩耍姿势 (Play Bow)",
+          "es": "Saludo de juego",
+          "fr": "Révérence de jeu",
+          "de": "Spielaufforderung",
+          "pt": "Convite para brincar",
+          "id": "Posisi Mengajak Bermain"
+        },
+        "meaning": {
+          "ko": "앞발을 내리고 엉덩이를 든 상태로, 상대방에게 같이 놀자고 권하는 아주 행복한 제안입니다.",
+          "en": "Lowering the front body while raising the hips, representing an open and happy invitation to play.",
+          "ja": "前足を下げてお尻を持ち上げた状態で、相手に一緒に遊ぼうと誘うとてもハッピーなサインです。",
+          "zh": "前半身贴地而臀部抬起，表示非常高兴并向家长或伙伴发出一起玩耍的邀请。",
+          "es": "Bajar la parte delantera y levantar las caderas, representando una invitación feliz para jugar.",
+          "fr": "Abaissement du train avant et arrière-train levé, représentant une invitation joyeuse à jouer.",
+          "de": "Absenken des Vorderkörpers bei gehobenem Hinterteil, was eine freudige Einladung zum Spiel darstellt.",
+          "pt": "Abaixar a parte dianteira e levantar o quadril, representando um convite feliz para brincar.",
+          "id": "Menurunkan tubuh bagian depan sambil mengangkat pinggul, mewakili ajakan bermain yang bahagia."
+        },
+        "response": {
+          "ko": "장난감을 던져주거나 살짝 쫓아가는 놀이를 시작하여 기쁘게 호응해 주십시오.",
+          "en": "Respond joyfully by throwing a favorite toy or starting a gentle chase game.",
+          "ja": "おもちゃを投げてあげたり、軽く追いかけっこをして楽しく応えてあげてください。",
+          "zh": "扔出它们喜欢的玩具，或者开始一场温柔的追逐游戏以快乐地回应它们。",
+          "es": "Responda alegremente lanzando un juguete o comenzando un juego suave de persecución.",
+          "fr": "Répondez joyeusement en jetant un jouet ou en commençant un jeu de poursuite doux.",
+          "de": "Reagieren Sie freudig, indem Sie ein Spielzeug werfen oder ein sanftes Nachlaufspiel starten.",
+          "pt": "Responda alegremente jogando um brinquedo ou começando uma brincadeira de perseguição leve.",
+          "id": "Tanggapi dengan gembira dengan melemparkan mainan favorit atau memulai permainan kejar-kejaran lembut."
+        }
+      },
+      {
+        "name": {
+          "ko": "입술 핥기 (Lip Licking)",
+          "en": "Lip Licking",
+          "ja": "唇を舐める (Lip Licking)",
+          "zh": "舔嘴唇 (Lip Licking)",
+          "es": "Lamerse los labios",
+          "fr": "Lèche-babines",
+          "de": "Lippenlecken",
+          "pt": "Lamber os lábios",
+          "id": "Menjilat Bibir"
+        },
+        "meaning": {
+          "ko": "음식을 기대하는 것이 아니라, 주변 환경에 의해 정신적인 불안감을 억누르는 행동입니다.",
+          "en": "Not anticipating food; it is a calming signal used to control internal anxiety or stress.",
+          "ja": "食べ物を期待しているのではなく、周囲の環境による精神的不安を和らげようとするしぐさです。",
+          "zh": "并非期待食物，而是一种用来平复内心焦虑或压力的放松信号。",
+          "es": "No es por anticipar comida; es una señal de calma utilizada para controlar la ansiedad o el estrés.",
+          "fr": "Il ne réclame pas de nourriture ; c'est un signal d'apaisement pour contrôler son anxiété.",
+          "de": "Keine Vorfreude auf Futter; ein Beschwichtigungssignal zur Bewältigung von innerer Unruhe.",
+          "pt": "Não é expectativa de comida; é um sinal de calma usado para controlar a ansiedade ou o estresse.",
+          "id": "Bukan mengantisipasi makanan; ini adalah sinyal penenang untuk mengendalikan kecemasan."
+        },
+        "response": {
+          "ko": "산책 도중이나 낯선 환경에서 이 행동을 하면 자극 원인으로부터 거리를 확보해 주십시오.",
+          "en": "If seen during walks or in new places, guide them away from the stimulus to ensure safety.",
+          "ja": "散歩の途中や不慣れな場所でこのしぐさをしたら、不安の要素から距離を置いてあげてください。",
+          "zh": "如果在散步或陌生环境中看到这个动作，请引导它们远离刺激源以确保安全感。",
+          "es": "Si lo ve durante paseos, guíelo lejos del estímulo para garantizar su tranquilidad.",
+          "fr": "Si vous l'observez en promenade, éloignez-le de la source de stress pour le rassurer.",
+          "de": "Wenn Sie dies beim Spaziergang sehen, führen Sie ihn aus der Situation heraus.",
+          "pt": "Se ver isso durante os passeios, afaste-o do estímulo para garantir sua tranquilidade.",
+          "id": "Jika terlihat saat jalan-jalan, jauhkan mereka dari stimulus untuk memastikan ketenangan."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 미끄럼 방지 매트 정돈 및 점프 차단 훈련",
+          "en": "Morning: Floor Grip Maintenance and Jump Prevention",
+          "ja": "朝：滑り止めマットの整理とジャンプ禁止トレーニング",
+          "zh": "早晨：防滑地垫整理与防止跳跃训练",
+          "es": "Mañana: Mantenimiento antideslizante y prevención de saltos",
+          "fr": "Matin : Entretien des tapis anti-glisse et apprentissage du non-saut",
+          "de": "Morgen: Rutschschutzprüfung und Sprungvermeidungstraining",
+          "pt": "Manhã: Manutenção antiderrapante e prevenção de saltos",
+          "id": "Pagi: Perawatan Lapisan Antiselip dan Pencegahan Lompat"
+        },
+        "text": {
+          "ko": "소형견 포메라니안이 침대에서 아래로 뛰어내리는 충격을 예방하기 위해 미끄럼 방지 매트 위치를 확인하고 계단 사용을 적극 유도합니다.",
+          "en": "Ensure non-slip mats are correctly placed around furniture to protect their thin bones. Train them to use pet stairs instead of jumping down.",
+          "ja": "超小型犬であるポメラニアンがベッド等から飛び降りる衝撃を防ぐため、滑り止めマットの位置を確認し、スロープや階段の使用を促します。",
+          "zh": "确保家具周围正确铺设防滑垫，以保护它们纤细的的骨骼。引导它们使用宠物台阶，避免直接跳下造成的冲击。",
+          "es": "Asegúrese de que las alfombras antideslizantes estén bien colocadas. Enséñeles a usar escaleras para mascotas en lugar de saltar.",
+          "fr": "Vérifiez que les tapis anti-glisse sont bien positionnés. Incitez-le à utiliser des escaliers pour chiens plutôt que de sauter des meubles.",
+          "de": "Stellen Sie sicher, dass rutschfeste Matten richtig liegen. Gewöhnen Sie ihn daran, Hundetreppen zu benutzen, anstatt herunterzuspringen.",
+          "pt": "Certifique-se de que os tapetes antiderrapantes estejam bem posicionados. Treine-os para usar escadas para pets em vez de pular.",
+          "id": "Pastikan keset antiselip diletakkan dengan benar di sekitar furnitur. Latih mereka menggunakan tangga hewan daripada melompat turun."
+        }
+      },
+      {
+        "name": {
+          "ko": "오후: 피부 공기 순환을 위한 핀 브러시 역방향 빗질",
+          "en": "Afternoon: Pin Brushing Against Hair Direction",
+          "ja": "午後：皮膚の空気循環のためのピンブラシ逆方向ブラッシング",
+          "zh": "下午：逆毛发生长方向梳理以促进空气流通",
+          "es": "Tarde: Cepillado con cepillo de púas contra el pelo",
+          "fr": "Après-midi : Brossage avec brosse à picots à rebrousse-poil",
+          "de": "Nachmittag: Bürsten gegen den Strich zur Hautbelüftung",
+          "pt": "Tarde: Escovação com escova de pinos contra o pelo",
+          "id": "Siang: Menyikat Bulu Berlawanan Arah dengan Sikat Pin"
+        },
+        "text": {
+          "ko": "풍성한 솜털(하모)이 엉켜 공기가 차단되는 포메라니안 모질을 위해, 핀 브러시로 털을 꼬리에서 머리 방향으로 부드럽게 세워 빗겨 피모 건강을 돕습니다.",
+          "en": "Use a pin brush to gently brush the coat from tail to head, fluffing it up. This prevents undercoat matting and allows healthy air flow to the skin.",
+          "ja": "豊かな綿毛（アンダーコート）が絡まって空気が遮断されやすいポメラニアンのため、ピンブラシで毛を尻尾から頭の方向へ優しく立たせるように梳かします。",
+          "zh": "使用针梳从尾部向头部方向轻轻梳理毛发，使其蓬松。这可以防止双层被毛结块，并促进皮肤的健康空气流通。",
+          "es": "Use un cepillo de púas para cepillar suavemente desde la cola hacia la cabeza. Esto evita enredos y permite el flujo de aire en la piel.",
+          "fr": "Utilisez une brosse à picots pour brosser délicatement de la queue vers la tête. Cela évite les nœuds de sous-poil et permet à la peau de respirer.",
+          "de": "Nutzen Sie eine Stiftbürste, um das Fell sanft von der Rute zum Kopf gegen den Strich zu bürsten. Dies verhindert Verfilzungen und lüftet die Haut.",
+          "pt": "Use uma escova de pinos para escovar suavemente da cauda para a cabeça. Isso evita nós na subpelagem e permite o fluxo de ar na pele.",
+          "id": "Gunakan sikat pin untuk menyikat bulu secara lembut dari ekor ke kepala. Ini mencegah kusut dan melancarkan aliran udara ke kulit."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 기관지 협착 예방을 위한 목 마사지 및 산책 장비 점검",
+          "en": "Evening: Neck Massage and Harness Check to Avoid Tracheal Strain",
+          "ja": "夜：気管虚脱予防のための首マッサージと散歩用ハーネスの点検",
+          "zh": "晚上：预防气管压力的颈部按摩与胸背带检查",
+          "es": "Noche: Masaje de cuello y control de arnés para evitar tensión traqueal",
+          "fr": "Soir : Massage du cou et vérification du harnais anti-traction",
+          "de": "Abend: Halsmassage und Brustgeschirr-Prüfung zur Atemwegsentlastung",
+          "pt": "Noite: Massagem no pescoço e verificação do peitoral para evitar tensão traqueal",
+          "id": "Malam: Pijat Leher dan Pemeriksaan Harness untuk Hindari Ketegangan Trakea"
+        },
+        "text": {
+          "ko": "유전적으로 좁고 약한 기관지를 누르지 않도록, 저녁 산책 시 목줄 대신 전용 Y자 가슴줄(하네스)을 점검하고 목 아래 연골 주변을 부드럽게 마사지합니다.",
+          "en": "To protect their fragile trachea, examine your Y-shaped harness and avoid collars completely. Massage the sides of their neck gently to relieve muscle tension.",
+          "ja": "遺伝的に細くて弱い気管を圧迫しないよう、夜の散歩時は首輪ではなくY字型ハーネスの調整を確認し、首の下の軟骨周りを優しくマッサージします。",
+          "zh": "为了保护其脆弱的气管，请完全避免使用项圈，而应使用Y字形胸背带。轻轻按摩其颈部两侧，以缓解肌肉紧张。",
+          "es": "Para proteger su frágil tráquea, examine su arnés en forma de Y y evite por completo los collares. Masajee suavemente los lados del cuello.",
+          "fr": "Pour protéger sa trachée fragile, vérifiez le harnais en Y et proscrivez les colliers. Massez doucement les côtés du cou pour relâcher la tension.",
+          "de": "Um die empfindliche Luftröhre zu schützen, nutzen Sie ein Y-Geschirr statt eines Halsbands. Massieren Sie die Halsseiten sanft, um Muskeln zu entspannen.",
+          "pt": "Para proteger sua traqueia frágil, use peitoral em Y e evite coleiras. Massageie suavemente as laterais do pescoço para aliviar a tensão.",
+          "id": "Untuk melindungi trakea mereka yang rapuh, gunakan harness berbentuk Y dan hindari kalung leher. Pijat perlahan sisi leher untuk meredakan ketegangan."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "포메라니안이 갑자기 흥분하며 '꺽꺽' 거리는 거위 소리를 내는데 어떡하죠?",
+          "answer": "일시적인 기관지 협착증 증상일 수 있습니다. 당황하지 마시고 포메라니안을 안아 올린 뒤, 목덜미를 부드럽게 쓰다듬거나 콧구멍을 1초 정도 손으로 살짝 막아주면 코로 호흡을 유도해 빠르게 가라앉힐 수 있습니다."
+        },
+        {
+          "question": "슬개골 탈구를 수술 없이 홈케어만으로 완치할 수 있나요?",
+          "answer": "슬개골 탈구가 이미 진행된 3~4단계 수준의 물리적 변형은 수술적 치료가 필수적입니다. 홈케어는 슬개골 1~2단계 상태에서 주변 근력을 키워 악화를 늦추거나 수술 후 재발을 방지하는 아주 강력한 보조 예방책입니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "What should I do when my Pomeranian makes a goose-like honking sound?",
+          "answer": "This Honking is a common symptom of tracheal collapse. Do not panic; hold your Pomeranian close, rub their throat gently, or temporarily cover their nostrils for 1 second to encourage nose breathing."
+        },
+        {
+          "question": "Can home care cure patellar luxation without surgery?",
+          "answer": "No. Advanced stages (Grade 3 or 4) require surgical correction. Home care (maintaining healthy weight, preventing slips, and muscle-building exercises) is effective in early stages (Grade 1 or 2) to slow progression and prevent recurrence post-surgery."
+        }
+      ],
+      "ja": [
+        {
+          "question": "ポメラニアンが突然興奮して「カッカッ」とガチョウのような鳴き声でむせる時はどうしますか？",
+          "answer": "気管虚脱の一時的な症状です。慌てずに抱き上げ、首周りを優しく撫でたり、鼻の穴を1秒ほど指でそっと塞ぐと、鼻呼吸が促されて早く落ち着きます。"
+        },
+        {
+          "question": "膝蓋骨脱臼は手術なしでホームケアだけで完治しますか？",
+          "answer": "膝蓋骨脱臼がすでに進行したステージ3〜4の物理的な変形は手術が必要です。ホームケアは、ステージ1〜2の初期段階で悪化を遅らせ、手術後の再発を防止するための非常に強力な予防手段です。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "博美犬突然像鹅一样发出“咳咳”的 honking 咳嗽声，我该怎么办？",
+          "answer": "这通常是气管塌陷的暂时性症状。请保持冷静，抱起您的博美犬，轻轻抚摸它们的喉部，或短暂用手遮住其鼻孔1秒钟以促使其改用鼻子呼吸，症状通常会迅速缓解。"
+        },
+        {
+          "question": "仅仅依靠家庭护理能治愈髌骨脱位而无需手术吗？",
+          "answer": "对于已经发展至3至4期的物理性移位，必须进行手术矫正。家庭护理（控制体重、防止打滑、加强后肢肌肉）在早期（1至2期）能有效延缓病情进展，并在术后防止复发。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Qué debo hacer si mi Pomerania hace un graznido de ganso al respirar?",
+          "answer": "Esto suele ser un síntoma de colapso traqueal. No se alarme; cargue al perro, acaricie su cuello o tape sus orificios nasales por 1 segundo para forzar la respiración nasal."
+        },
+        {
+          "question": "¿Se puede curar la luxación patelar solo con cuidados en casa?",
+          "answer": "Las etapas avanzadas (Grado 3 o 4) requieren cirugía. El cuidado en casa (control de peso, evitar resbalones y fortalecer músculos) sirve en etapas tempranas (Grado 1 o 2) para retrasar el progreso."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Que faire lorsque mon Poméranien émet un bruit de klaxon rappelant l'oie ?",
+          "answer": "C'est un symptôme de collapsus trachéal. Gardez votre calme, prenez-le dans vos bras, massez doucement sa gorge ou obstruez brièvement ses narines pendant 1 seconde pour forcer la respiration nasale."
+        },
+        {
+          "question": "Le soin à la maison peut-il guérir la luxation de rotule sans chirurgie ?",
+          "answer": "Les stades avancés (Grade 3 ou 4) nécessitent une chirurgie. Le soin à la maison (poids idéal, tapis, exercices) est efficace aux stades précoces (Grade 1 ou 2) pour ralentir l'évolution."
+        }
+      ],
+      "de": [
+        {
+          "question": "Was soll ich tun, wenn mein Zwergspitz ein gänsehustenartiges Keuchen zeigt?",
+          "answer": "Dies ist ein Symptom des Trachealkollapses. Bleiben Sie ruhig; halten Sie ihn fest, streicheln Sie die Kehle sanft oder halten Sie die Nasenlöcher für 1 Sekunde zu, um Nasenatmung anzuregen."
+        },
+        {
+          "question": "Kann die Kniescheibenluxation ohne Operation durch Pflege geheilt werden?",
+          "answer": "Fortgeschrittene Stadien (Grad 3 oder 4) erfordern eine Operation. Pflege zu Hause (Gewichtskontrolle, rutschfeste Böden) ist in frühen Stadien (Grad 1 oder 2) wirksam, um das Fortschreiten zu verlangsamen."
+        }
+      ],
+      "pt": [
+        {
+          "question": "O que devo fazer quando o meu Spitz Alemão faz um grasnido de ganso?",
+          "answer": "Isso costuma ser um sintoma de colapso traqueal. Mantenha a calma, pegue o pet no colo, acaricie o pescoço ou tampe as narinas por 1 segundo para forçar a respiração nasal."
+        },
+        {
+          "question": "É possível curar a luxação patelar sem cirurgia, apenas com cuidados em casa?",
+          "answer": "Graus avançados (Grau 3 ou 4) requerem correção cirúrgica. Os cuidados em casa (peso saudável, evitar pisos lisos e exercícios) servem no Grau 1 ou 2 para retardar a evolução."
+        }
+      ],
+      "id": [
+        {
+          "question": "Apa yang harus saya lakukan saat Pomeranian saya mengeluarkan batuk mirip klakson angsa?",
+          "answer": "Ini adalah gejala umum kolaps trakea. Jangan panik; peluk Pomeranian Anda, usap tenggorokan mereka dengan lembut, atau tutup lubang hidung mereka selama 1 detik untuk memicu pernapasan hidung."
+        },
+        {
+          "question": "Dapatkah perawatan rumahan menyembuhkan luksasi patela tanpa operasi?",
+          "answer": "Tidak. Tahap lanjut (Tingkat 3 atau 4) memerlukan koreksi bedah. Perawatan rumahan (berat badan sehat, mencegah slip) efektif pada tahap awal (Tingkat 1 atau 2) untuk memperlambat perkembangan."
+        }
+      ]
+    }
+  },
+  "siamese-care": {
+    "title": {
+      "ko": "외로움이 많은 샴 고양이를 위한 정서 안정 및 사냥 놀이 3단계 루틴",
+      "en": "Caring for Siamese Anxiety and Activity: A 3-Step Daily Routine",
+      "ja": "寂しがり屋のシャム猫のための情緒安定と狩り遊び3段階ルーティン",
+      "zh": "呵护易感到孤独的暹罗猫：情绪稳定与日常3步游戏惯例",
+      "es": "Cuidado de la ansiedad y actividad del Siamés: rutina de 3 pasos",
+      "fr": "Gérer l'anxiété et l'activité du Siamois : routine en 3 étapes",
+      "de": "Pflege für siamesische Angst und Aktivität: Eine 3-Schritte-Routine",
+      "pt": "Cuidados com a ansiedade e atividade do Siamês: rotina de 3 passos",
+      "id": "Merawat Kecemasan dan Aktivitas Siamese: Rutinitas 3 Langkah"
+    },
+    "description": {
+      "ko": "보호자에 대한 의존도가 높고 외로움을 많이 타는 샴 고양이. 정서적 결핍을 줄이는 교감법과 충분한 에너지를 발산시키는 3단계 데일리 놀이를 알아봅니다.",
+      "en": "Siamese cats are highly dependent on owners and prone to separation anxiety. Discover emotional bonding tips and a 3-step active play routine to manage their stress.",
+      "ja": "飼い主への依存度が高く寂しがり屋のシャム猫。情緒的ストレスを軽減するスキンシップ方法と、十分なエネルギーを発散させる3段階のデイリー遊びを紹介します。",
+      "zh": "暹罗猫对家长的依赖度极高，易产生分离焦虑。介绍增进情感联结的技巧，以及消耗其充沛体能的日常3步游戏惯例。",
+      "es": "Los gatos siameses dependen mucho de sus dueños. Descubra consejos para fortalecer el vínculo emocional y una rutina de juego activo de 3 pasos.",
+      "fr": "Le chat Siamois est très dépendant de son maître. Découvrez des conseils pour renforcer le lien affectif et une routine de jeu actif en 3 étapes.",
+      "de": "Siamesen sind sehr besitzerbezogen. Entdecken Sie Tipps zur emotionalen Bindung und eine aktive 3-Schritte-Spielroutine zur Stressbewältigung.",
+      "pt": "Os gatos siameses dependem muito de seus donos. Descubra dicas para fortalecer o vínculo emocional e uma rotina de jogos ativos de 3 passos.",
+      "id": "Kucing Siamese sangat bergantung pada pemiliknya. Temukan tips ikatan emosional dan rutinitas bermain aktif 3 langkah untuk mengelola stres mereka."
+    },
+    "authority": {
+      "ko": "Cat Fanciers' Association (CFA) 공식 가이드 및 AAFP 고양이 행동 프로토콜",
+      "en": "Cat Fanciers' Association (CFA) Official Breed Guide & AAFP Feline Behavioral Protocols",
+      "ja": "キャットファンシャーズアソシエーション(CFA)公式＆AAFP猫の行動プロトコル",
+      "zh": "爱猫者协会 (CFA) 官方指南与 AAFP 猫咪行为协议",
+      "es": "Guía oficial de la Cat Fanciers' Association (CFA) y protocolos de conducta felina de la AAFP",
+      "fr": "Guide officiel de la Cat Fanciers' Association (CFA) et protocoles de comportement félin de l'AAFP",
+      "de": "Offizieller Leitfaden der Cat Fanciers' Association (CFA) & AAFP-Katzenverhaltensprotokolle",
+      "pt": "Guia oficial da Cat Fanciers' Association (CFA) e protocolos de comportamento felino da AAFP",
+      "id": "Panduan Resmi Cat Fanciers' Association (CFA) & Protokol Perilaku Kucing AAFP"
+    },
+    "profile": {
+      "breed": {
+        "ko": "샴 고양이 (Siamese)",
+        "en": "Siamese",
+        "ja": "シャム猫",
+        "zh": "暹罗猫",
+        "es": "Siamés",
+        "fr": "Siamois",
+        "de": "Siamese",
+        "pt": "Siamês",
+        "id": "Siamese"
+      },
+      "lifespan": {
+        "ko": "12 ~ 15년",
+        "en": "12 ~ 15 years",
+        "ja": "12 ~ 15年",
+        "zh": "12 ~ 15年",
+        "es": "12 ~ 15 años",
+        "fr": "12 ~ 15 ans",
+        "de": "12 ~ 15 Jahre",
+        "pt": "12 ~ 15 anos",
+        "id": "12 ~ 15 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "14 ~ 16시간 (이불 속 밀착형)",
+        "en": "14 ~ 16 hours (prefers sleeping close under blankets)",
+        "ja": "14 ~ 16時間（布団の中密着型）",
+        "zh": "14 ~ 16小时（喜欢钻被窝贴近型）",
+        "es": "14 ~ 16 horas (prefiere dormir apegado bajo mantas)",
+        "fr": "14 ~ 16 heures (préfère dormir blotti sous les couvertures)",
+        "de": "14 ~ 16 Stunden (bevorzugt Kuscheln unter Bettdecken)",
+        "pt": "14 ~ 16 horas (prefere dormir apegado sob cobertas)",
+        "id": "14 ~ 16 jam (lebih suka tidur erat di bawah selimut)"
+      },
+      "temperament": {
+        "ko": "의존적, 사교적, 대단히 영리함",
+        "en": "Affectionate, Vocal, Highly Intelligent",
+        "ja": "甘えん坊、よく喋る、非常に賢い",
+        "zh": "依恋、爱鸣叫、非常聪明",
+        "es": "Afectuoso, Vocal, Muy Inteligente",
+        "fr": "Affectueux, Vocal, Très Intelligent",
+        "de": "Anhänglich, Vokal, Sehr intelligent",
+        "pt": "Afetuoso, Vocal, Muito Inteligente",
+        "id": "Penuh Kasih Sayang, Vokal, Sangat Cerdas"
+      }
+    },
+    "intro": {
+      "ko": "샴 고양이는 태국의 왕실에서 유래한 유서 깊은 품종으로, 귀와 얼굴, 발끝에 드러나는 포인트 컬러가 아름다운 반려묘입니다. 성격은 흔히 '개냥이'라고 불릴 정도로 매우 사교적이며, 다른 고양이 품종들과 달리 보호자에게 계속 말을 거는 듯이 다양한 톤으로 우는 독특한 매력을 자랑합니다. 🐱 하지만 보호자에 대한 극도의 의존도는 분리불안이라는 취약점을 낳습니다. 샴 고양이는 오랜 시간 홀로 방치되면 외로움과 스트레스로 인해 끊임없이 우는 하울링을 하거나 파괴적인 긁기 행동을 유발할 확률이 높습니다. 오늘 PetSelf에서는 샴 고양이의 애정 가득한 목소리에 반응하는 올바른 소통법을 알아보고, 외로움을 극복하게 돕는 정서 안정 놀이 3단계 루틴을 제공합니다.",
+      "en": "Siamese cats, originating from the royal family of Thailand, are elegant companion felines famous for their contrast points on ears, face, and paws. Known for their dog-like, highly social temperament, they are uniquely vocal, constantly 'talking' to their owners in distinct tones. 🐱 However, this extreme attachment makes them highly vulnerable to separation anxiety. If left alone for long periods, Siamese cats easily suffer from severe distress, which manifests as endless howling or destructive scratching. Today, PetSelf explores Siamese body language and provides a 3-step care routine to relieve separation stress and keep them emotionally stable.",
+      "ja": "シャム猫はタイの王室が起源の歴史ある品種で、耳や顔、足先のポイントカラーが美しい猫です。性格は非常に人懐っこく、他の猫種とは異なり、飼い主に話しかけるように様々な声で鳴くユニークな魅力があります。🐱しかし、飼い主への強い依存心は、分離不安という弱点にもつながります。長い時間放置されると、寂しさとストレスから鳴き続けたり、家具を引っ掻く破壊行動を起こしがちです。本日、PetSelfではシャム猫の声に寄り添うコミュニケーション方法と、寂しさを和らげる3段階の情緒安定ルーティンを紹介します。",
+      "zh": "暹罗猫源自泰国皇室，因耳朵、脸部和爪子上的重点色而闻名。它们以像狗一样黏人、极善社交的性格著称，且非常爱叫，经常以不同的声调与家长“交谈”。🐱然而，这种强烈的依恋也使其极易产生分离焦虑。如果长时间被独自留下，暹罗猫会因孤独和压力而出现连绵不绝的哀叫或破坏性抓挠。今天，PetSelf 将带您解读暹罗猫的身体语言，并提供一套日常3步护理惯例，以缓解分离压力，保持它们的情绪稳定。",
+      "es": "Los gatos siameses, originarios de la realeza tailandesa, son elegantes felinos conocidos por sus puntos de contraste en orejas, cara y patas. Conocidos por su temperamento sociable, son muy vocales. 🐱 Sin embargo, este apego extremo los hace vulnerables a la ansiedad por separación. Si se quedan solos mucho tiempo, sufren angustia que se manifiesta en maullidos continuos o arañazos destructivos. Hoy, PetSelf presenta una rutina de 3 pasos para mantenerlos emocionalmente estables.",
+      "fr": "Le chat Siamois, originaire de la famille royale de Thaïlande, est un félin élégant célèbre pour ses points de couleur contrastés. Réputé pour son tempérament très affectueux, il est particulièrement vocal. 🐱 Cependant, cet attachement extrême le rend vulnérable à l'anxiété de séparation. S'il reste seul trop longtemps, il exprime sa détresse par des miaulements incessants ou des griffades. Aujourd'hui, PetSelf présente une routine en 3 étapes pour apaiser son stress de séparation.",
+      "de": "Siamesen stammen von den königlichen Tempelkatzen Thailands ab. Sie haben kontrastierende Farbpunkte an Ohren, Gesicht und Pfoten. Bekannt für ihr soziales Wesen, sind sie sehr gesprächig. 🐱 Diese extreme Bindung macht sie jedoch anfällig für Trennungsangst. Wenn sie lange allein gelassen werden, äußert sich dieser Stress in lautem Jaulen oder Zerstörungswut. Heute stellt PetSelf eine 3-Schritte-Routine zur emotionalen Stabilisierung vor.",
+      "pt": "Os gatos siameses, originários da realeza tailandesa, são elegantes felinos famosos por suas marcas de contraste nas orelhas, face e patas. Conhecidos pelo temperamento sociável, são muito vocais. 🐱 No entanto, este apego extremo os torna vulneráveis à ansiedade de separação. Se ficarem sozinhos por muito tempo, sofrem angústia que se manifesta em miados contínuos. Hoje, o PetSelf apresenta uma rotina de 3 passos para manter sua estabilidade emocional.",
+      "id": "Kucing Siamese, berasal dari keluarga kerajaan Thailand, adalah kucing pendamping elegan yang terkenal dengan titik kontras pada telinga, wajah, dan kaki mereka. Terkenal dengan temperamen yang sangat sosial, mereka sangat vokal. 🐱 Namun, kelekatan ekstrim ini membuat mereka rentan terhadap kecemasan perpisahan. Jika ditinggal sendirian, mereka sering mengekspresikan stres dengan mengeong tanpa henti. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "샴 고양이의 바디 랭귀지: 온전한 신뢰와 애정의 메시지",
+      "en": "Siamese Body Language: Signs of Complete Trust and Possessiveness",
+      "ja": "シャム猫のボディランゲージ：完全な信頼と愛情のメッセージ",
+      "zh": "暹罗猫的身体语言：深切的信任与占有欲的信号",
+      "es": "Lenguaje corporal del Siamés: señales de confianza y posesividad",
+      "fr": "Langage corporel du Siamois : signaux de confiance et de possessivité",
+      "de": "Körpersprache der Siamkatze: Signale von Vertrauen und Besitzanspruch",
+      "pt": "Linguagem corporal do Siamês: sinais de confiança e possessividade",
+      "id": "Bahasa Tubuh Siamese: Sinyal Kepercayaan dan Kepemilikan Mendalam"
+    },
+    "whyDesc": {
+      "ko": "샴 고양이는 적극적으로 애정을 피력하며, 풍부한 카밍 시그널을 사용합니다. 대표적으로는 **'눈인사(Slow Blink)'**와 **'몸 문지르기(Bunting)'**가 있습니다. 보호자의 시선을 붙잡고 눈을 천천히 감았다 뜨는 행위는 야생의 세계에서 적에게 틈을 내주는 위험한 행동으로, 이 고양이가 보호자를 완전히 무해하고 사랑스러운 존재로 여기고 있다는 신뢰의 고백입니다. 또한, 얼굴의 뺨이나 이마를 보호자의 손길이나 다리에 문지르는 것은 자신의 얼굴샘에서 나오는 호르몬을 묻혀 안정감을 공유하려는 행동입니다.",
+      "en": "Siamese cats show their affection in clear, interactive ways. Typical signals include **'slow blinking'** and **'bunting'**. Closing their eyes slowly while maintaining eye contact is a statement of ultimate safety and peace. In the feline world, closing eyes in front of another is a risky move, proving they view you as a completely harmless companion. Rubbing their cheeks or forehead against your hand is their way of sharing comforting pheromones and marking you as their trusted person.",
+      "ja": "シャム猫は積極的に愛情を伝え、豊かなカーミングシグナルを見せてくれます。代表的なのは**「ゆっくり瞬きする（アイコタクト）」**と**「体を擦り付ける（おでこをごつんとする）」**です。飼い主の目を見つめ、ゆっくり目を細めて瞬きをする動作は、野生において敵に隙を見せる危険な行動であり、相手を心から信頼しているという告白です。また、頬や額を飼い主の手や体に擦り付けるのは、分泌されるフェロモンを付着させて安心感を共有するための行動です。",
+      "zh": "暹罗猫会以清晰、互动的方式表达爱意。典型的放松信号包括“缓慢眨眼”和“用头磨蹭（Bunting）”。在维持眼神接触的同时缓慢地闭上并睁开眼睛，是极致安全与安宁的陈述。在猫咪的世界中，闭眼是有风险的，这证明它们认为您是完全无害的伴侣。用面颊或额头磨蹭您的手是它们分享信息素并确认您是其所爱之人的方式。",
+      "es": "Los siameses muestran su afecto de forma clara e interactiva. Las señales típicas incluyen el **'parpadeo lento'** y el **'frotamiento de cabeza'** (bunting). Cerrar los ojos lentamente es una declaración de seguridad y paz. Frotar sus mejillas contra su mano es su forma de compartir feromonas reconfortantes y marcarlo como su persona de confianza.",
+      "fr": "Le Siamois montre son affection de manière interactive. Les signaux typiques incluent le **'clignement d'yeux lent'** et le **'marquage par frottement'** (bunting). Fermer les yeux lentement en vous regardant est une preuve de confiance absolue. Se frotter les joues contre vous est sa façon de partager des phéromones apaisantes et de vous marquer comme sien.",
+      "de": "Siamesen zeigen ihre Zuneigung auf interaktive Weise. Typische Signale sind **'langsames Blinzeln'** und **'Kopfreiben'** (Bunting). Das langsame Schließen der Augen ist ein Beweis für absolute Sicherheit. Das Reiben der Wangen an Ihrer Hand dient dazu, tröstliche Pheromone zu verteilen und Sie als ihre Vertrauensperson zu kennzeichnen.",
+      "pt": "Os siameses mostram seu afeto de forma clara e interativa. Os sinais típicos incluem o **'piscar lento'** e o **'fregar de cabeça'** (bunting). Fechar os olhos lentamente é uma declaração de segurança e paz. Esfregar as bochechas contra sua mão é a forma deles de compartilhar feromônios reconfortantes e marcá-lo como sua pessoa de confiança.",
+      "id": "Kucing Siamese menunjukkan kasih sayang mereka dengan cara interaktif. Sinyal khas meliputi **'berkedip lambat'** dan **'menanduk lembut'** (bunting). Menutup mata secara perlahan adalah pernyataan keamanan dan kedamaian. Menggosokkan pipi atau dahi ke tangan Anda adalah cara mereka membagikan feromon penenang."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "눈인사 (Slow Blink)",
+          "en": "Slow Blink",
+          "ja": "ゆっくり瞬きする (Slow Blink)",
+          "zh": "缓慢眨眼 (Slow Blink)",
+          "es": "Parpadeo lento",
+          "fr": "Clignement lent des yeux",
+          "de": "Langsames Blinzeln",
+          "pt": "Piscar lento",
+          "id": "Berkedip Lambat"
+        },
+        "meaning": {
+          "ko": "상대방 앞에서 눈을 감아도 될 만큼 무한한 신뢰와 애정을 뜻하는 고양이의 키스입니다.",
+          "en": "A display of complete safety and deep affection, often described as a feline kiss.",
+          "ja": "相手の前で目を閉じても良いほど、無限の信頼と愛を伝える「猫のキス」です。",
+          "zh": "表明在家长面前感到极其安全，是深厚爱意的体现，常被称为“猫咪之吻”。",
+          "es": "Una muestra de completa seguridad y profundo afecto, a menudo descrita como un beso felino.",
+          "fr": "Une preuve de sécurité complète et d'affection profonde, souvent qualifiée de bisou félin.",
+          "de": "Ein Beweis für absolute Sicherheit und tiefe Zuneigung, oft als Katzenkuss bezeichnet.",
+          "pt": "Uma demonstração de completa segurança e profundo afeto, muitas vezes descrita como beijo felino.",
+          "id": "Tampilan rasa aman dan kasih sayang yang mendalam, sering kali digambarkan sebagai ciuman kucing."
+        },
+        "response": {
+          "ko": "눈을 지그시 맞추고 같이 1.5초간 눈을 천천히 감았다 뜨며 대답해 주십시오.",
+          "en": "Lock eyes gently and return the gesture by closing and opening your eyes for 1.5 seconds.",
+          "ja": "目を優しく見つめ返し、同じように1.5秒ほどゆっくり目を閉じて開けて応えてください。",
+          "zh": "温柔地与它们眼神接触，并以缓慢闭眼和睁眼1.5秒来回应这一动作。",
+          "es": "Cruce la mirada y parpadee lentamente por 1.5 segundos para responder al gesto.",
+          "fr": "Regardez-le doucement et répondez en fermant et en ouvrant les yeux pendant 1,5 seconde.",
+          "de": "Schauen Sie sanft zurück und blinzeln Sie ebenfalls langsam für etwa 1,5 Sekunden.",
+          "pt": "Olhe nos olhos dele e pisque lentamente de volta por 1,5 segundo para responder ao gesto.",
+          "id": "Tatap matanya dengan lembut dan berikan kedipan balasan secara perlahan selama 1,5 detik."
+        }
+      },
+      {
+        "name": {
+          "ko": "몸 문지르기 (Bunting)",
+          "en": "Bunting",
+          "ja": "体を擦り付ける (Bunting)",
+          "zh": "头磨蹭 (Bunting)",
+          "es": "Frotamiento de cabeza",
+          "fr": "Frottement de tête",
+          "de": "Kopfreiben",
+          "pt": "Esfregar de cabeça",
+          "id": "Menanduk Lembut"
+        },
+        "meaning": {
+          "ko": "자신의 체취(페로몬)를 남겨 '당신은 내 사람'이라는 애착의 확인 행동입니다.",
+          "en": "An action leaving their scent (pheromones) to mark you as their safe person.",
+          "ja": "自分の匂い（フェロモン）を付着させ、「あなたは私の大切な人」という愛着を表すしぐさです。",
+          "zh": "留下自己面部信息素的动作，表示“您是我所爱之人”，并以此获取安定感。",
+          "es": "Una acción que deja su olor (feromonas) para marcarlo como su persona segura.",
+          "fr": "Un geste laissant leur odeur (phéromones) pour vous marquer comme leur humain sûr.",
+          "de": "Eine Aktion zur Übertragung von Duftstoffen (Pheromonen), um Sie als vertrauenswürdig zu markieren.",
+          "pt": "Uma ação que deixa o cheiro delas (feromônios) para marcar você como sua pessoa segura.",
+          "id": "Tindakan meninggalkan aroma mereka (feromon) untuk menandai Anda sebagai orang yang aman."
+        },
+        "response": {
+          "ko": "뺨이나 턱 아래를 긁어주며 체취가 서로 자연스럽게 교환되도록 응해주십시오.",
+          "en": "Scratch their chin or cheeks, allowing them to happily exchange scents with you.",
+          "ja": "頬やあごの下を優しく撫でてあげて、お互いの匂いが自然に触れ合うように応じてください。",
+          "zh": "抚摸它们的面颊或下巴，让它们快乐地与您交换彼此的气味。",
+          "es": "Acaricie su barbilla o mejillas, permitiéndoles intercambiar olores con gusto.",
+          "fr": "Gratouillez son menton ou ses joues, lui permettant de partager ses phéromones avec joie.",
+          "de": "Kraulen Sie Kinn oder Wangen, damit sie den Geruch gerne mit Ihnen austauschen können.",
+          "pt": "Acaricie o queixo ou as bochechas dele, permitindo-lhes trocar cheiros com carinho.",
+          "id": "Elus dagu atau pipi mereka, membiarkan mereka bertukar aroma dengan gembira."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 불안 예방 이름을 부르는 10분 밀착 교감",
+          "en": "Morning: 10-Minute High-Contact Greeting",
+          "ja": "朝：不安予防のための名前を呼ぶ10分の密着スキンシップ",
+          "zh": "早晨：预防分离焦虑的10分钟高接触亲密互动",
+          "es": "Mañana: Saludo de 10 minutos de alto contacto para la ansiedad",
+          "fr": "Matin : Rituel de contact de 10 minutes contre l'anxiété",
+          "de": "Morgen: 10-minütiger enger Kontakt zur Angstvorbeugung",
+          "pt": "Manhã: Interação de 10 minutos de alto contato para ansiedade",
+          "id": "Pagi: Sambutan Kontak Erat 10 Menit untuk Cegah Kecemasan"
+        },
+        "text": {
+          "ko": "외로움을 쉽게 타고 보호자 분리에 민감한 샴을 위해, 기상 즉시 이름을 다정하게 불러주며 침대 안에서 밀착하여 쓰다듬어 줍니다.",
+          "en": "To ease separation anxiety, spend 10 minutes petting your Siamese and speaking softly to them in bed immediately after waking up.",
+          "ja": "寂しがり屋で飼い主との分離に敏感なシャムのため、起床後すぐに名前を優しく呼びかけながら、布団の中でぴったり密着して撫でてあげます。",
+          "zh": "为了缓解分离焦虑，在早晨醒来后立即与您的暹罗猫一起躺在床上，抚摸它们并温柔地对它们说话，持续10分钟。",
+          "es": "Para aliviar la ansiedad por separación, pase 10 minutos acariciando a su siamés y hablándole suavemente en la cama justo después de despertarse.",
+          "fr": "Pour atténuer l'anxiété de séparation, passez 10 minutes à caresser votre Siamois au lit dès votre réveil en lui parlant doucement.",
+          "de": "Verbringen Sie gleich nach dem Aufwachen 10 Minuten damit, Ihre Siamkatze im Bett zu streicheln und sanft mit ihr zu sprechen, um Trennungsangst zu lindern.",
+          "pt": "Para aliviar a ansiedade de separação, passe 10 minutos acariciando o seu siamês e falando suavemente na cama logo após acordar.",
+          "id": "Untuk meredakan kecemasan perpisahan, luangkan waktu 10 menit untuk membelai Siamese Anda dan berbicara lembut di tempat tidur segera setelah bangun tidur."
+        }
+      },
+      {
+        "name": {
+          "ko": "오후: 외로움 방지 지능 노즈워크 및 사냥 시뮬레이션",
+          "en": "Afternoon: Interactive Play and Food Puzzle Placement",
+          "ja": "午後：寂しさ予防のための知能ノーズワークと狩り遊び",
+          "zh": "下午：互动玩耍与益智喂食玩具投放",
+          "es": "Tarde: Juego interactivo y rompecabezas de comida",
+          "fr": "Après-midi : Jeu interactif et distribution de puzzles de nourriture",
+          "de": "Nachmittag: Interaktives Spiel und Platzierung von Futterrätseln",
+          "pt": "Tarde: Joguetes interativos e quebra-cabeças de comida",
+          "id": "Siang: Permainan Interaktif dan Penempatan Teka-teki Makanan"
+        },
+        "text": {
+          "ko": "보호자가 없는 낮 동안 지루하지 않게 먹이 퍼즐이나 노즈워크를 숨겨두고, 퇴근 후에는 깃털 장난감으로 수직 점프 사냥 놀이를 15분 이상 해 줍니다.",
+          "en": "Keep them busy during the day with treat puzzles. When you return home, dedicate at least 15 minutes to high-energy feather wand chase games.",
+          "ja": "飼い主のいない昼間に退屈しないよう、おやつ用パズルやノーズワークを隠しておき、帰宅後は羽のおもちゃで15分以上活発な狩り遊びをします。",
+          "zh": "在白天家长不在家时，使用益智喂食玩具让其保持忙碌。回家后，花至少15分钟使用羽毛逗猫棒进行高能追逐游戏。",
+          "es": "Manténgalo ocupado durante el día con rompecabezas de comida. Al volver a casa, dedique al menos 15 minutos a juegos interactivos con plumas.",
+          "fr": "Occupez-le pendant la journée avec des puzzles à friandises. À votre retour, jouez au moins 15 minutes avec un plumeau pour le dépenser.",
+          "de": "Halten Sie die Katze tagsüber mit Futterrätseln beschäftigt. Spielen Sie nach der Rückkehr mindestens 15 Minuten lang mit einer Federangel.",
+          "pt": "Mantenha-o ocupado durante o dia com quebra-cabeças de comida. Ao voltar para casa, dedique pelo menos 15 minutos a brincadeiras com varinha de penas.",
+          "id": "Jaga agar mereka tetap sibuk di siang hari dengan teka-teki makanan. Saat Anda pulang, luangkan waktu minimal 15 menit untuk permainan kejar-kejaran."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 체온 유지를 위한 고온 돔형 하우스 점검",
+          "en": "Evening: Warm Bedding Setup to Prevent Body Chill",
+          "ja": "夜：体温維持のためのあたたかいドーム型ハウスの点検",
+          "zh": "晚上：提供温暖床铺以防身体受凉",
+          "es": "Noche: Cama cálida para evitar el enfriamiento corporal",
+          "fr": "Soir : Aménagement d'un nid chaud pour éviter le refroidissement",
+          "de": "Abend: Einrichtung eines warmen Liegeplatzes gegen Auskühlung",
+          "pt": "Noite: Preparação de cama quente para evitar resfriamento",
+          "id": "Malam: Pengaturan Tempat Tidur Hangat untuk Hindari Kedinginan"
+        },
+        "text": {
+          "ko": "단모종이고 지방이 적어 추위에 유독 약한 샴을 위해, 저녁 보일러 온도를 조절하고 포근한 돔 형태의 따뜻한 은신처 하우스를 세팅합니다.",
+          "en": "Because Siamese are short-haired with low body fat, they get cold easily. Keep indoor temperatures warm and provide a cozy dome-shaped heated bed.",
+          "ja": "短毛種で脂肪が少なく寒さに弱いシャムのため、夜間の室温を暖かく調節し、快適なドーム型の隠れ家ハウスを用意してあげます。",
+          "zh": "由于暹罗猫是短毛猫且体脂较低，极易受凉。请保持室内温暖，并为其提供舒适的圆顶形保暖猫窝。",
+          "es": "Dado que los siameses son de pelo corto y poca grasa corporal, se enfrían fácilmente. Mantenga la casa cálida y ofrezca una cama tipo domo acolchada.",
+          "fr": "Le Siamois étant un chat à poil court avec peu de graisse corporelle, il est frileux. Maintenez une température douce et offrez-lui un dôme douillet.",
+          "de": "Da Siamesen Kurzhaarkatzen mit wenig Körperfett sind, frieren sie leicht. Halten Sie die Räume warm und bieten Sie eine gemütliche Höhle an.",
+          "pt": "Como os siameses são de pelo curto e pouca gordura corporal, sentem frio facilmente. Mantenha a casa quente e ofereça uma cama tipo cabana aconchegante.",
+          "id": "Karena Siamese berbulu pendek dengan lemak tubuh rendah, mereka mudah kedinginan. Jaga suhu ruangan tetap hangat dan sediakan tempat tidur kubah."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "샴 고양이가 밤에 쉴 새 없이 우는데 어디 아픈 건가요?",
+          "answer": "특유의 대화성 발성입니다. 지루하거나 외로워서 보호자의 반응을 유도하기 위해 울부짖기도 합니다. 다치거나 아픈 증상이 아니라면 밤에 우는 행동에 반응해 주지 않고, 낮에 활동 사냥 놀이를 충분히 시켜 피로를 유도하는 것이 좋습니다."
+        },
+        {
+          "question": "샴 고양이를 혼자 둔 뒤 하울링이 심해졌는데 외출 시 어떻게 해야 하나요?",
+          "answer": "분리불안의 일종입니다. 외출 전 간식을 숨겨두는 보물찾기나 스마트 급식기로 사냥 놀이를 유도하여 보호자의 부재에 대한 주의를 돌리고, 외출 10분 전부터는 이별 의식(과도한 안아주기)을 하지 않는 것이 좋습니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "Why does my Siamese cat keep meowing constantly at night?",
+          "answer": "This is a natural trait of the breed. They often meow to communicate boredom or seek interaction. If they are not sick, avoid responding to their night cries and instead engage in intensive play during the day to tire them out."
+        },
+        {
+          "question": "How do I reduce my Siamese cat's separation anxiety when I go to work?",
+          "answer": "Set up food puzzle toys before leaving to distract them. Avoid emotional goodbyes (like picking them up and kissing them repeatedly) at least 10 minutes before stepping out, as this can worsen their anxiety."
+        }
+      ],
+      "ja": [
+        {
+          "question": "シャム猫が夜に絶えず鳴き続けるのですが、どこか悪いのでしょうか？",
+          "answer": "シャム猫特有のコミュニケーションとしての発声です。退屈や寂しさから飼い主の反応を引こうとして鳴くこともあります。病気でなければ、夜の鳴き声には反応せず、昼間のうちにしっかりと運動させて疲れさせるのが効果的です。"
+        },
+        {
+          "question": "一人で留守番させた後にシャム猫の遠吠えがひどくなりました。どうすれば良いですか？",
+          "answer": "分離不安のサインです。出かける前におやつを隠す宝探しを用意したり、自動給餌器で注意を引いたりして、飼い主の不在から意識を逸らしてください。外出の10分前からは、過度なスキンシップ（別れの儀式）を控えることが大切です。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "为什么我的暹罗猫在夜间会不断鸣叫？是生病了吗？",
+          "answer": "这是该品种天然的交流习性。它们常因无聊或寻求互动而鸣叫。如果确认非疾病所致，请避免在夜间回应其叫声，而是在白天进行充足的消耗性游戏以让其疲惫。"
+        },
+        {
+          "question": "当我出门上班时，如何减轻暹罗猫的分离焦虑？",
+          "answer": "在出门前设置好益智喂食器或零食闻嗅以分散其注意力。在出门前至少10分钟避免进行情感饱满的告别仪式（如反复抱起亲吻），因为这会加剧它们的焦虑情绪。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Por qué mi siamés maúlla constantemente por la noche?",
+          "answer": "Es un rasgo natural de la raza. Suelen maullar para comunicar aburrimiento. Evite responder a sus maullidos nocturnos y aumente el juego durante el día para cansarlos."
+        },
+        {
+          "question": "¿Cómo reduzco la ansiedad por separación de mi siamés cuando salgo?",
+          "answer": "Prepare rompecabezas de comida antes de irse. Evite las despedidas efusivas al menos 10 minutos antes de salir, ya que esto puede empeorar su ansiedad."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Pourquoi mon chat Siamois miaule-t-il constamment la nuit ?",
+          "answer": "C'est un trait caractéristique de la race. Ils miaulent pour exprimer leur ennui. Évitez de répondre à ses appels nocturnes et fatiguez-le en jouant davantage en journée."
+        },
+        {
+          "question": "Comment réduire l'anxiété de séparation de mon Siamois quand je pars au travail ?",
+          "answer": "Cachez des friandises et placez des puzzles de nourriture avant de partir. Évitez les rituels de départ (câlins répétés) 10 minutes avant de franchir la porte."
+        }
+      ],
+      "de": [
+        {
+          "question": "Warum miaut meine Siamkatze nachts ununterbrochen?",
+          "answer": "Dies ist ein natürliches Verhalten der Rasse. Sie miauen oft aus Langeweile. Reagieren Sie nachts nicht darauf und sorgen Sie tagsüber für mehr Spielzeit, um sie auszulasten."
+        },
+        {
+          "question": "Wie kann ich die Trennungsangst meiner Siamkatze lindern, wenn ich gehe?",
+          "answer": "Verteilen Sie vor dem Gehen Futterpuzzles. Vermeiden Sie emotionale Verabschiedungen 10 Minuten vor dem Verlassen der Wohnung, um die Angst nicht zu verstärken."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Por que o meu siamês mia constantemente à noite?",
+          "answer": "É uma característica natural da raça. Costumam miar para comunicar tédio. Evite responder aos miados noturnos e aumente a brincadeira durante o dia para cansá-los."
+        },
+        {
+          "question": "Como reduzo a ansiedade de separação do meu siamês quando saio?",
+          "answer": "Prepare quebra-cabeças de comida antes de sair. Evite despedidas afetuosas pelo menos 10 minutos antes de sair, pois isso pode piorar a ansiedade."
+        }
+      ],
+      "id": [
+        {
+          "question": "Mengapa kucing Siamese saya terus mengeong di malam hari?",
+          "answer": "Ini adalah sifat alami ras tersebut. Mereka sering mengeong untuk mengomunikasikan kebosanan. Hindari merespons tangisan malam mereka dan lakukan permainan aktif di siang hari."
+        },
+        {
+          "question": "Bagaimana cara mengurangi kecemasan perpisahan Siamese saya saat saya pergi bekerja?",
+          "answer": "Siapkan mainan teka-teki makanan sebelum pergi. Hindari perpisahan emosional (seperti menggendong dan mencium berulang kali) minimal 10 menit sebelum keluar."
+        }
+      ]
+    }
+  },
+  "russian-blue-care": {
+    "title": {
+      "ko": "소심하고 섬세한 러시안 블루를 위한 안식처 제공과 3단계 신뢰 루틴",
+      "en": "Safe Haven and Trust Building: A 3-Step Routine for Russian Blue Cats",
+      "ja": "警戒心が強く繊細なロシアンブルーのための隠れ家と3段階信頼ルーティン",
+      "zh": "为胆小内向的俄罗斯蓝猫提供避风港：日常3步信任建立惯例",
+      "es": "Refugio seguro y generación de confianza: rutina de 3 pasos para el Azul Ruso",
+      "fr": "Havre de paix et création de confiance : routine en 3 étapes pour le Bleu Russe",
+      "de": "Sicherer Hafen und Vertrauensbildung: Eine 3-Schritte-Routine für Russisch Blau",
+      "pt": "Refúgio seguro e geração de confiança: rotina de 3 passos para o Azul Russo",
+      "id": "Tempat Sembunyi Aman dan Membangun Kepercayaan: Rutinitas 3 Langkah untuk Russian Blue"
+    },
+    "description": {
+      "ko": "겁이 많고 낯선 소음에 민감한 러시안 블루. 스트레스를 줄이는 안락한 은신처 구성법과 거리를 존중하는 3단계 신뢰 교감 루틴을 알아봅니다.",
+      "en": "Russian Blues are naturally shy and highly sensitive to noise. Learn how to create a stress-free safe zone and a 3-step routine for building trust with them.",
+      "ja": "人見知りで大きな音に敏感なロシアンブルー。ストレスを和らげる快適な隠れ家の作り方と、距離感を尊重する3段階の信頼獲得ルーティンを紹介します。",
+      "zh": "俄罗斯蓝猫天生胆小，对噪音极度敏感。介绍如何为其打造无压力的安全区域，以及日常3步建立信任的触碰惯例。",
+      "es": "Los Azules Rusos son tímidos y sensibles al ruido. Aprenda a crear una zona segura sin estrés y una rutina de 3 pasos para ganarse su confianza.",
+      "fr": "Le Bleu Russe est timide et sensible au bruit. Apprenez à lui créer un havre de paix sans stress et appliquez une routine en 3 étapes pour gagner sa confiance.",
+      "de": "Russisch Blau Katzen sind von Natur aus scheu und geräuschempfindlich. Erfahren Sie, wie Sie eine stressfreie Schutzzone schaffen und Vertrauen aufbauen.",
+      "pt": "Os Azuis Rusos são tímidos e sensíveis ao ruído. Aprenda a criar uma zona segura sem estresse e uma rotina de 3 passos para ganhar sua confiança.",
+      "id": "Russian Blue secara alami pemalu dan sensitif terhadap kebisingan. Pelajari cara menciptakan zona aman bebas stres dan rutinitas 3 langkah untuk membangun kepercayaan."
+    },
+    "authority": {
+      "ko": "Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center",
+      "en": "Cat Fanciers' Association (CFA) Breed Guide & Cornell Feline Health Center",
+      "ja": "キャットファンシャーズアソシエーション(CFA)ガイド＆コーネル猫健康センター",
+      "zh": "爱猫者协会 (CFA) 培育标准与康奈尔猫科健康中心",
+      "es": "Guía de razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center",
+      "fr": "Guide de la Cat Fanciers' Association (CFA) et Cornell Feline Health Center",
+      "de": "Rasseführer der Cat Fanciers' Association (CFA) & Cornell Feline Health Center",
+      "pt": "Guia de raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center",
+      "id": "Panduan Ras Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
+    },
+    "profile": {
+      "breed": {
+        "ko": "러시안 블루 (Russian Blue)",
+        "en": "Russian Blue",
+        "ja": "ロシアンブルー",
+        "zh": "俄罗斯蓝猫",
+        "es": "Azul Ruso",
+        "fr": "Bleu Russe",
+        "de": "Russisch Blau",
+        "pt": "Azul Russo",
+        "id": "Russian Blue"
+      },
+      "lifespan": {
+        "ko": "15 ~ 20년",
+        "en": "15 ~ 20 years",
+        "ja": "15 ~ 20年",
+        "zh": "15 ~ 20年",
+        "es": "15 ~ 20 años",
+        "fr": "15 ~ 20 ans",
+        "de": "15 ~ 20 Jahre",
+        "pt": "15 ~ 20 anos",
+        "id": "15 ~ 20 tahun"
+      },
+      "sleep_pattern": {
+        "ko": "15 ~ 18시간 (조용하고 높은 아지트형)",
+        "en": "15 ~ 18 hours (seeks quiet, elevated hiding spots)",
+        "ja": "15 ~ 18時間（静かで高いアジト優先型）",
+        "zh": "15 ~ 18小时（寻求安静且高处的藏身所型）",
+        "es": "15 ~ 18 horas (busca escondites silenciosos y altos)",
+        "fr": "15 ~ 18 heures (cherche des cachettes calmes et surélevées)",
+        "de": "15 ~ 18 Stunden (sucht ruhige, erhöhte Verstecke)",
+        "pt": "15 ~ 18 horas (busca esconderijos silenciosos e altos)",
+        "id": "15 ~ 18 jam (mencari tempat sembunyi yang tenang)"
+      },
+      "temperament": {
+        "ko": "내성적, 신중함, 대단히 조용함",
+        "en": "Reserved, Gentle, Highly Quiet",
+        "ja": "控えめ、慎重、非常に静か",
+        "zh": "内敛、温和、非常安静",
+        "es": "Reservado, Gentil, Muy Silencioso",
+        "fr": "Réservé, Doux, Très Calme",
+        "de": "Zurückhaltend, Sanft, Sehr ruhig",
+        "pt": "Reservado, Gentil, Muito Silencioso",
+        "id": "Pendiam, Lembut, Sangat Tenang"
+      }
+    },
+    "intro": {
+      "ko": "러시안 블루는 은빛이 감도는 짧은 청색 털과 초록색 눈을 가진 매혹적인 고양이입니다. 조용하고 차분하며 보호자를 매우 깊이 사랑하는 가족형 고양이지만, 유전적으로 낯가림이 매우 심하고 겁이 많아 집안의 환경 변화나 갑작스러운 소음에 소심하게 반응하곤 합니다. 🐱 낯선 손님이 방문하거나 가전제품 소음이 나면 캣타워 콘도 깊숙이 숨어 오랫동안 나오지 않는 행동도 바로 이 때문입니다. 러시안 블루는 보호자가 억지로 숨은 공간에서 꺼내려 할 때 더 큰 스트레스를 받습니다. 오늘 PetSelf에서는 소심한 러시안 블루가 안심하고 지낼 수 있는 안전한 안식처 공간을 만들고, 차분하게 신뢰를 쌓아가는 3단계 데일리 교감법을 소개합니다.",
+      "en": "Russian Blues are captivating felines renowned for their short, silvery-blue coat and striking green eyes. While quiet, gentle, and deeply loyal to their family, they are genetically shy, reserved, and highly sensitive to loud noises or environment changes. 🐱 This is why they quickly hide inside cat trees or closets when a guest visits or when a vacuum cleaner runs. Forcing them out of their hiding spots only causes more panic. Today, PetSelf details how to build a safe, stress-free space for your shy Russian Blue and introduces a 3-step routine to build a strong bond with them.",
+      "ja": "ロシアンブルーは、銀色を帯びた青く美しい短毛とエメラルドグリーンの瞳を持つ神秘的な猫です。物静かで落ち着きがあり、家族を深く愛しますが、遺伝的に警戒心が非常に強く慎重なため、室内の環境変化や突然の騒音に敏感に反応します。🐱突然の来客や掃除機の音がすると、キャットタワーのハウスの奥に隠れて長い時間出てこないのもこのためです。無理やり引っ張り出そうとするとさらに強いストレスを感じます。本日、PetSelfでは繊細なロシアンブルーが安心して過ごせる隠れ家を整え、信頼を築く3段階スキンシップルーティンを紹介します。",
+      "zh": "俄罗斯蓝猫是一种迷人的猫咪，以其银蓝色短毛和绿色的眼睛而闻名。它们安静、温和且对家庭极度忠诚，但在遗传上较为胆小、内向，对噪音或环境的变化极度敏感。🐱这就是为什么当有客人来访或吸尘器运行时，它们会迅速躲进猫爬架或衣柜深处。强迫它们出来只会引起更多的恐慌。今天，PetSelf 将分享如何为内向的俄罗斯蓝猫打造安全的避风港，并介绍一套日常3步建立信任的触碰惯例。",
+      "es": "Los Azules Rusos son felinos conocidos por su pelaje azul plateado y sus ojos verdes. Aunque son silenciosos y leales a su familia, son genéticamente tímidos y sensibles a los ruidos fuertes. 🐱 Es por eso que se esconden rápidamente cuando hay visitas o suena la aspiradora. Obligarlos a salir de sus escondites les causa pánico. Hoy, PetSelf detalla cómo crear un espacio seguro con una rutina de 3 pasos.",
+      "fr": "Le Bleu Russe est un félin réputé pour son pelage bleu argenté et ses yeux verts. S'il est calme, doux et très attaché à sa famille, il est génétiquement timide et très sensible aux bruits. 🐱 C'est pourquoi il se cache rapidement lorsqu'un invité arrive ou qu'un aspirateur fonctionne. Le forcer à sortir ne fait qu'augmenter son stress. Aujourd'hui, PetSelf explique comment lui offrir un havre de paix avec une routine en 3 étapes.",
+      "de": "Russisch Blau Katzen haben ein silbrig-blaues Fell und grüne Augen. Sie sind ruhig, sanft und loyal, aber von Natur aus scheu und geräuschempfindlich. 🐱 Sie verstecken sich schnell bei Besuch oder Staubsaugergeräuschen. Sie aus dem Versteck zu zwingen, erzeugt Panik. Heute zeigt PetSelf, wie Sie einen sicheren Hafen schaffen und mit einer 3-Schritte-Routine Vertrauen aufbauen.",
+      "pt": "Os Azuis Rusos são felinos conhecidos por sua pelagem azul prateada e olhos verdes. Embora silenciosos e leais à sua família, são geneticamente tímidos e sensíveis a ruídos fortes. 🐱 É por isso que se escondem rapidamente quando há visitas ou soa o aspirador. Forçá-los a sair causa pânico. Hoje, o PetSelf detalha como criar um espaço seguro com uma rotina de 3 passos.",
+      "id": "Russian Blue adalah kucing menawan yang terkenal dengan bulu biru keperakan pendek dan mata hijau mereka. Meskipun pendiam, lembut, mereka secara genetik pemalu dan sangat sensitif terhadap kebisingan. 🐱 Inilah mengapa mereka cepat bersembunyi saat ada tamu berkunjung atau penyedot debu menyala. Memaksa mereka keluar hanya menyebabkan kepanikan. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "러시안 블루의 바디 랭귀지: 경계와 불안의 극복",
+      "en": "Russian Blue Body Language: Reading Warning Signs of Panic",
+      "ja": "ロシアンブルーのボディランゲージ：警戒と不安の克服",
+      "zh": "俄罗斯蓝猫的身体语言：解读恐慌的预警信号",
+      "es": "Lenguaje corporal del Azul Ruso: lectura de las señales de pánico",
+      "fr": "Langage corporel du Bleu Russe : lire les signes de panique",
+      "de": "Körpersprache der Russisch Blau: Warnzeichen von Panik lesen",
+      "pt": "Linguagem corporal do Azul Russo: leitura dos sinais de pânico",
+      "id": "Bahasa Tubuh Russian Blue: Membaca Tanda Peringatan Kepanikan"
+    },
+    "whyDesc": {
+      "ko": "러시안 블루는 조용한 성향만큼 자신의 불편함을 약하게 호소하다가 한계에 다다르면 반응합니다. 대표적으로는 **'동공 확장'**과 **'몸 낮춰 웅크리기(Crouching)'**가 있습니다. 갑작스러운 큰 소리가 나거나 낯선 사람이 만지려 할 때 눈의 동공이 까맣고 동그랗게 커지는 것은 긴장 상태를 뜻합니다. 이때 바닥에 몸을 밀착시키고 귀를 양옆으로 눕혀 마징가 귀를 만드는 행동은 극심한 공포를 느껴 도망치거나 공격을 준비하는 방어의 신호입니다.",
+      "en": "Because of their gentle nature, Russian Blues show warning signals quietly before reacting. Key panic signals include **'dilated pupils'** and **'crouching'**. When they hear a sudden noise or are approached by a stranger, their pupils will dilate, becoming large and round as their stress system activates. If they press their body flat against the floor and flatten their ears sideways, they are experiencing extreme fear and are preparing to flee or defend themselves.",
+      "ja": "ロシアンブルーは大人しい性格である分、不快感を静かに表現しますが、限界に達すると行動に出ます。代表的なのは**「瞳孔拡張」**と**「体を低くしてうずくまる」**です。突然大きな音がしたり、知らない人が触ろうとした時に黒目が大きく丸くなるのは、極度の緊張を示します。また、床に体を密着させて耳を横に倒す「イカ耳」にするしぐさは、強い恐怖を感じて逃げるか攻撃するかの防衛サインです。",
+      "zh": "由于性格温和，俄罗斯蓝猫在做出反应前会静静地发出警告信号。关键的恐慌信号包括“瞳孔放大”和“身体低伏”。当听到突然的噪音或有陌生人靠近时，它们的瞳孔会放大，变得又大又圆，表明压力系统已激活。如果它们将身体平贴在地面上，并向两侧展平耳朵，说明它们正在经历极度的恐惧，正准备逃跑或自卫。",
+      "es": "Debido a su naturaleza gentil, los Azules Rusos muestran señales de advertencia en silencio. Las señales clave incluyen **'pupilas dilatadas'** y **'encogerse'** (crouching). Si escucha un ruido o se acerca un extraño, sus pupilas se dilatan. Si aplasta su cuerpo contra el suelo y aplana las orejas hacia los lados, experimenta un miedo extremo y se prepara para huir.",
+      "fr": "De nature douce, le Bleu Russe émet des signaux d'avertissement discrets. Les signes clés de panique sont les **'pupilles dilatées'** et la **'posture accroupie'** (crouching). Face à un bruit ou un inconnu, ses pupilles s'agrandissent. S'il plaque son corps au sol et replie ses oreilles sur les côtés, il ressent une peur intense et s'apprête à fuir.",
+      "de": "Aufgrund ihres sanften Wesens zeigen Russisch Blau Warnsignale sehr leise. Wichtige Paniksignale sind **'erweiterte Pupillen'** und **'Ducken'**. Bei plötzlichen Geräuschen erweitern sich die Pupillen. Wenn sie sich flach an den Boden pressen und die Ohren anlegen, haben sie extreme Angst und bereiten sich auf die Flucht vor.",
+      "pt": "Devido à sua natureza gentil, os Azuis Rusos mostram sinais de alerta em silêncio. Os sinais de pânico principais incluem **'pupilas dilatadas'** e **'encolher-se'** (crouching). Se houver um ruído ou aproximação de estranho, suas pupilas se dilatam. Se achatar o corpo contra o chão e deitar as orelhas para os lados, está com medo extremo.",
+      "id": "Karena sifat mereka yang lembut, Russian Blue menunjukkan sinyal peringatan dengan tenang. Sinyal kepanikan utama meliputi **'pupil melebar'** dan **'merunduk'** (crouching). Ketika mendengar suara tiba-tiba, pupil mereka akan melebar. Jika mereka menekan tubuh ke lantai dan meratakan telinga, mereka bersiap untuk melarikan diri."
+    },
+    "body_signals": [
+      {
+        "name": {
+          "ko": "동공 확장 (Dilated Pupils)",
+          "en": "Dilated Pupils",
+          "ja": "瞳孔拡張 (Dilated Pupils)",
+          "zh": "瞳孔放大 (Dilated Pupils)",
+          "es": "Pupilas dilatadas",
+          "fr": "Pupilles dilatées",
+          "de": "Erweiterte Pupillen",
+          "pt": "Pupilas dilatadas",
+          "id": "Pupil Melebar"
+        },
+        "meaning": {
+          "ko": "주변 위협 요소를 감지하고 스트레스 호르몬이 활성화되어 긴장했다는 표시입니다.",
+          "en": "A physical response indicating they are highly alert, tensed, or scared by surrounding triggers.",
+          "ja": "周囲の脅威を感知し、ストレスホルモンが活性化して緊張しているサインです。",
+          "zh": "表明感应到了周围的威胁，压力荷尔蒙已激活，正处于高度警惕与紧张的状态。",
+          "es": "Una respuesta física que indica que están muy alertas, tensos o asustados.",
+          "fr": "Une réponse physique indiquant qu'il est très alerte, tendu ou effrayé.",
+          "de": "Eine physische Reaktion, die zeigt, dass sie hochalarmiert, angespannt oder verängstigt sind.",
+          "pt": "Uma resposta física que indica que estão muito alertas, tensos ou assustados.",
+          "id": "Respons fisik yang menunjukkan mereka sangat waspada atau takut oleh pemicu sekitar."
+        },
+        "response": {
+          "ko": "불을 어둡게 해주고, 자극적인 원인(가전제품 소음 등)을 즉시 정지해 주십시오.",
+          "en": "Dim the lights and immediately stop the stimulating source (like household appliance noises).",
+          "ja": "部屋の明かりを暗くし、刺激の要素（掃除機の音など）をすぐに止めてください。",
+          "zh": "调暗光线，并立即关闭带来刺激的源头（如吸尘器或吹风机等电器噪音）。",
+          "es": "Atenúe las luces e interrumpa de inmediato la fuente de estimulación (ruido de electrodomésticos).",
+          "fr": "Tamisez les lumières et arrêtez immédiatement la source de stress (bruit d'appareil ménager).",
+          "de": "Dimmen Sie das Licht und schalten Sie die Störquelle (wie Staubsauger oder Mixer) sofort aus.",
+          "pt": "Diminua as luzes e interrompa imediatamente a fonte de estimulação (ruído de eletrodomésticos).",
+          "id": "Redupkan lampu dan segera hentikan sumber stimulasi (seperti kebisingan peralatan rumah tangga)."
+        }
+      },
+      {
+        "name": {
+          "ko": "낮게 웅크리기 (Crouching)",
+          "en": "Crouching",
+          "ja": "体を低くしてうずくまる (Crouching)",
+          "zh": "身体低伏 (Crouching)",
+          "es": "Encogerse",
+          "fr": "Posture accroupie",
+          "de": "Ducken",
+          "pt": "Encolher-se",
+          "id": "Merunduk"
+        },
+        "meaning": {
+          "ko": "도망갈 길을 잃었거나 낯선 대상에 대해 극심한 방어적 공포를 느끼고 있다는 표시입니다.",
+          "en": "A sign of defensive panic, showing they feel cornered, helpless, or terrified.",
+          "ja": "逃げ道がなくなり、知らない対象に対して強い恐怖を感じているサインです。",
+          "zh": "表示在防御性恐慌中感到了无助、害怕，或是感觉被逼入死角。",
+          "es": "Una señal de pánico defensivo, que muestra que se sienten acorralados o aterrorizados.",
+          "fr": "Un signe de panique défensive, montrant qu'il se sent acculé ou terrifié.",
+          "de": "Ein Zeichen von defensiver Panik, das zeigt, dass sie sich in die Enge getrieben fühlen.",
+          "pt": "Um sinal de pânico defensivo, mostrando que se sentem encurralados ou aterrorizados.",
+          "id": "Tanda kepanikan defensif, menunjukkan mereka merasa terpojok atau ketakutan."
+        },
+        "response": {
+          "ko": "억지로 안아 올리려 하지 말고, 고양이가 안전하다고 느낄 수 있는 방이나 은신처로 대피하게 두십시오.",
+          "en": "Do not force them into physical contact. Allow them to retreat to a quiet room or cabinet.",
+          "ja": "無理に抱き上げようとせず、猫が安全だと感じる部屋や隠れ家に逃げ込ませてあげてください。",
+          "zh": "切勿强行抱起它们。允许它们退避到安静的房间或柜子等隐蔽处。",
+          "es": "No lo obligue al contacto físico. Permítale retirarse a una habitación o armario silencioso.",
+          "fr": "Ne le forcez pas au contact physique. Laissez-le se réfugier dans une pièce calme ou un placard.",
+          "de": "Zwingen Sie sie nicht zum Kontakt. Lassen Sie sie in einen ruhigen Raum oder Schrank flüchten.",
+          "pt": "Não o force ao contato físico. Permita-lhe retirar-se para um quarto ou armário silencioso.",
+          "id": "Jangan paksa mereka melakukan kontak fisik. Biarkan mereka mundur ke ruangan atau lemari yang tenang."
+        }
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": {
+          "ko": "아침: 화장실과 급식 공간의 청결 및 안전 확보",
+          "en": "Morning: Litter Box and Feeding Station Safety Routine",
+          "ja": "朝：トイレと食事スペースの衛生と安全確保",
+          "zh": "早晨：猫砂盆与喂食区域的安全维护",
+          "es": "Mañana: Rutina de seguridad en arenero y comedero",
+          "fr": "Matin : Entretien sécurisé de la litière et des gamelles",
+          "de": "Morgen: Pflege von Katzenklo und Futterplatz zur Beruhigung",
+          "pt": "Manhã: Rotina de segurança no caixote de areia e comedouro",
+          "id": "Pagi: Rutinitas Keamanan Kotak Pasir dan Area Makan"
+        },
+        "text": {
+          "ko": "예민하고 청결에 신경을 쓰는 러시안 블루를 위해, 아침 일찍 모래 화장실을 깨끗하게 청소하고 소음이 없는 구석 급식 공간 상태를 점검합니다.",
+          "en": "Clean the litter box early. Ensure their food and water bowls are placed in a quiet corner away from household foot traffic.",
+          "ja": "神経質で清潔好きなロシアンブルーのため、朝一番にトイレを綺麗に掃除し、物音のしない部屋の隅の給餌スペースを確認します。",
+          "zh": "清扫猫砂盆。确保它们的食物和水盆放置在远离日常走动和噪音的安静角落中，以此建立安全感。",
+          "es": "Limpie el arenero temprano. Asegúrese de que sus platos de comida y agua estén en un rincón tranquilo lejos del paso de la gente.",
+          "fr": "Nettoyez la litière tôt. Assurez-vous que ses gamelles sont placées dans un coin calme, à l'écart des passages et du bruit.",
+          "de": "Reinigen Sie das Katzenklo früh. Stellen Sie sicher, dass Futter- und Wassernapf in einer ruhigen Ecke ohne Laufverkehr stehen.",
+          "pt": "Limpe o caixote de areia cedo. Certifique-se de que os pratos de comida e água estejam em um canto silencioso longe da passagem.",
+          "id": "Bersihkan kotak pasir lebih awal. Pastikan mangkuk makanan dan air diletakkan di sudut yang tenang jauh dari lalu lintas orang."
+        }
+      },
+      {
+        "name": {
+          "ko": "오후: 높고 안정감 있는 캣타워 콘도 은신처 제공",
+          "en": "Afternoon: Quiet High-Rise Safe Haven Maintenance",
+          "ja": "午後：静かで安定感のあるキャットタワー隠れ家の確保",
+          "zh": "下午：高耸安静的安全避难所维护",
+          "es": "Tarde: Mantenimiento del refugio seguro en las alturas",
+          "fr": "Après-midi : Entretien de son refuge surélevé",
+          "de": "Nachmittag: Pflege des erhöhten Aussichtsplatzes",
+          "pt": "Tarde: Manutenção do refúgio seguro em locais altos",
+          "id": "Siang: Perawatan Tempat Berlindung yang Tinggi dan Tenang"
+        },
+        "text": {
+          "ko": "소음이나 스트레스 요인 발생 시 신속히 피신할 수 있도록, 문이 닫히는 콘도 형태의 캣타워 안전 공간이 침실 구석에 항상 열려 있는지 점검합니다.",
+          "en": "Confirm that their cozy, enclosed cat tree condo is always accessible. This gives them a private, elevated escape from unexpected visitors or noises.",
+          "ja": "騒音やストレスの要因が現れた際、すぐに避難できるよう、入り口の狭いドーム型のキャットタワーなどが常に解放されているか点検します。",
+          "zh": "确认位于卧室角落的、封闭式的猫爬架猫窝始终敞开并可供使用。这能为其提供一个远离突发噪音或访客的高处私密避难所。",
+          "es": "Confirme que su cubículo cerrado en el árbol rascador esté siempre accesible. Esto le da una salida elevada ante ruidos o visitas.",
+          "fr": "Vérifiez que la cabane fermée de son arbre à chat est toujours accessible. Cela lui offre une échappatoire en hauteur en cas de bruit ou de visite.",
+          "de": "Stellen Sie sicher, dass ihre gemütliche Katzenhöhle immer zugänglich ist. Dies bietet ihnen einen privaten Rückzugsort bei plötzlichem Lärm.",
+          "pt": "Confirme que a cabana fechada do arranhador esteja sempre acessível. Isso lhe dá um refúgio elevado diante de ruídos ou visitas.",
+          "id": "Pastikan kondo pohon kucing yang tertutup selalu dapat diakses. Ini memberi mereka tempat pelarian pribadi yang tinggi."
+        }
+      },
+      {
+        "name": {
+          "ko": "저녁: 냄새 맡기(코인사)를 통한 억지 없는 점진적 교감",
+          "en": "Evening: Non-Intrusive Hand Sniff and Soft Bonding",
+          "ja": "夜：においを嗅がせることによる無理のない段階的スキンシップ",
+          "zh": "晚上：无侵入性的指尖嗅闻与渐进式亲密建立",
+          "es": "Noche: Olfateo de mano no intrusivo y contacto suave",
+          "fr": "Soir : Présentation de la main pour reniflement et contact doux",
+          "de": "Abend: Berührungsfreie Geruchsprobe und sanfte Annäherung",
+          "pt": "Noite: Cheiro de mão não intrusivo e contato suave",
+          "id": "Malam: Mengendus Tangan Tanpa Paksaan dan Ikatan Lembut"
+        },
+        "text": {
+          "ko": "저녁 퇴근 후 억지로 다가가 안으려 하지 말고, 검지손가락 끝을 조용히 내밀어 고양이가 냄새를 맡으며 인사(코인사)를 건넬 때까지 대기합니다.",
+          "en": "Instead of approaching them directly to pick them up, extend your index finger quietly at their level. Let them sniff your hand first to initiate contact.",
+          "ja": "夜の帰宅後、無理に抱き上げようとせず、人差し指の先を静かに差し出して、猫がにおいを嗅いで挨拶するまで落ち着いて待ちます。",
+          "zh": "晚上回家后，切勿直接走过去抱它们，而是应该在它们高度静静地伸出食指指尖。让它们先嗅闻您的手指，以此开启友好的接触。",
+          "es": "En lugar de acercarse directamente para cargarlo, extienda su dedo índice a su nivel. Deje que olfatee su mano primero para iniciar el contacto.",
+          "fr": "Au lieu d'aller directement vers lui pour le porter, présentez tranquillement votre index à sa hauteur. Laissez-le d'abord vous renifler.",
+          "de": "Anstatt direkt auf sie zuzugehen, halten Sie ihnen ruhig einen Zeigefinger hin. Lassen Sie sie zuerst schnuppern, um den Kontakt aufzunehmen.",
+          "pt": "Em vez de se aproximar diretamente para pegá-lo, estenda seu dedo indicador ao nível dele. Deixe-o cheirar sua mão primeiro para iniciar o contato.",
+          "id": "Alih-alih mendekati mereka untuk langsung menggendong, ulurkan jari telunjuk Anda dengan tenang. Biarkan mereka mengendus tangan Anda terlebih dahulu."
+        }
+      }
+    ],
+    "faqs": {
+      "ko": [
+        {
+          "question": "러시안 블루가 손님이 오면 절대 나오지 않는데 억지로 꺼내야 하나요?",
+          "answer": "절대 억지로 꺼내서는 안 됩니다. 낯선 대상과의 원치 않는 접촉은 극심한 공포심을 자극해 보호자와의 신뢰마저 깨뜨릴 수 있습니다. 손님이 돌아갈 때까지 스스로 은신처에 머물게 두는 것이 가장 현명한 대처입니다."
+        },
+        {
+          "question": "소심한 러시안 블루와 친해지는 가장 효과적인 비결이 무엇인가요?",
+          "answer": "눈높이를 낮추고 시선을 직접적으로 마주치지 않는 것입니다. 고양이 세계에서 뚫어지게 응시하는 것은 도전의 의미이므로, 시선을 비껴뜨고 손끝 냄새 맡기(코인사)를 유도하며 좋아하는 간식 보상을 반복하는 것이 좋습니다."
+        }
+      ],
+      "en": [
+        {
+          "question": "Should I drag my Russian Blue out of their hiding spot when guests arrive?",
+          "answer": "Absolutely not. Forcing them out of their safe zone triggers panic and can damage their trust in you. Let them stay in their hiding spot until the guests leave."
+        },
+        {
+          "question": "What is the most effective way to bond with a shy Russian Blue?",
+          "answer": "Lower your posture and avoid direct, prolonged eye contact, which felines view as a threat. Let them sniff your finger first, and reward them with treats for approach."
+        }
+      ],
+      "ja": [
+        {
+          "question": "ロシアンブルーが来客時に隠れて出てこないのですが、引っ張り出すべきですか？",
+          "answer": "絶対に無理に引っ張り出さないでください。好まない対面は強い恐怖を与え, 飼い主への信頼関係までも壊してしまいます。お客様が帰るまで、自分で選んだ隠れ家にいさせてあげるのが一番です。"
+        },
+        {
+          "question": "シャイなロシアンブルーと仲良くなる最も効果的な方法は何ですか？",
+          "answer": "姿勢を低くし、目を直接見つめ続けないことです。猫にとって凝視することは脅威を意味するため、視線を外し、指のにおい嗅ぎ（鼻タッチ）を促し、おやつをあげることを繰り返してください。"
+        }
+      ],
+      "zh": [
+        {
+          "question": "当有客人来访时，我应该把躲起来的俄罗斯蓝猫拖出来吗？",
+          "answer": "绝对不要强行拖出。强迫它们脱离安全区域会引发恐慌，并破坏它们对您的信任。请允许它们留在隐蔽处，直到客人离开。"
+        },
+        {
+          "question": "与胆小内向的俄罗斯蓝猫建立联系最有效的方法是什么？",
+          "answer": "放低您的姿态，避免直接且持续地盯着它们看，因为猫咪将注视视为威胁。让它们先嗅闻您的手指，并在它们靠近时给予零食奖励。"
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Debería forzar a mi Azul Ruso a salir de su escondite cuando hay visitas?",
+          "answer": "Bajo ningún concepto. Obligarlo a salir de su zona segura le causará pánico y dañará la confianza que le tiene. Déjelo allí hasta que se vayan las visitas."
+        },
+        {
+          "question": "¿Cuál es la forma más efectiva de ganarse a un Azul Ruso tímido?",
+          "answer": "Agáchese y evite mirarlo directamente a los ojos, ya que lo ven como amenaza. Deje que olfatee su dedo primero y premie su acercamiento con bocadillos."
+        }
+      ],
+      "fr": [
+        {
+          "question": "Dois-je faire sortir mon Bleu Russe de sa cachette quand j'ai des invités ?",
+          "answer": "Absolument pas. Le forcer à sortir de son refuge provoquerait une panique et briserait sa confiance en vous. Laissez-le caché jusqu'au départ des invités."
+        },
+        {
+          "question": "Quel is le moyen le plus efficace de s'apprivoiser un Bleu Russe timide ?",
+          "answer": "Baissez-vous et évitez de le regarder fixement, ce que les chats perçoivent comme une menace. Laissez-le renifler votre doigt et récompensez-le avec des friandises."
+        }
+      ],
+      "de": [
+        {
+          "question": "Sollte ich meine Russisch Blau aus dem Versteck holen, wenn Gäste kommen?",
+          "answer": "Auf keinen Fall. Sie aus ihrer Schutzzone zu zwingen, erzeugt Panik und beschädigt ihr Vertrauen in Sie. Lassen Sie sie im Versteck, bis die Gäste wieder weg sind."
+        },
+        {
+          "question": "Wie gewinnt man das Vertrauen einer scheuen Russisch Blau am besten?",
+          "answer": "Gehen Sie in die Hocke und vermeiden Sie direkten Augenkontakt, da Katzen dies als Bedrohung sehen. Lassen Sie sie am Finger schnuppern und belohnen Sie Annäherung."
+        }
+      ],
+      "pt": [
+        {
+          "question": "Devo tirar o meu Azul Russo do esconderijo quando as visitas chegarem?",
+          "answer": "De forma alguma. Forçá-lo a sair da zona de segurança causará pânico e prejudicará a confiança dele em você. Deixe-o escondido até que as visitas vão embora."
+        },
+        {
+          "question": "Qual é a forma mais eficaz de me aproximar de um Azul Russo tímido?",
+          "answer": "Abaixe o corpo e evite o contato visual direto, o qual os felinos veem como ameaça. Deixe-o cheirar seu dedo primeiro e recompense a aproximação com petiscos."
+        }
+      ],
+      "id": [
+        {
+          "question": "Haruskah saya memaksa Russian Blue saya keluar dari tempat sembunyi saat tamu datang?",
+          "answer": "Sama sekali tidak. Memaksa mereka keluar dari zona aman akan memicu kepanikan dan merusak kepercayaan mereka pada Anda. Biarkan mereka bersembunyi sampai tamu pergi."
+        },
+        {
+          "question": "Apa cara paling efektif untuk dekat dengan Russian Blue yang pemalu?",
+          "answer": "Rendahkan postur Anda dan hindari kontak mata langsung, yang dianggap kucing sebagai ancaman. Biarkan mereka mengendus jari Anda terlebih dahulu."
+        }
+      ]
+    }
   }
 }
