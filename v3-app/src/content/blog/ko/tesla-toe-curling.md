@@ -3,20 +3,10 @@ title: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 �
 description: "매일 밤 침대에 누워 발가락을 오므렸던 천재 발명가 니콜라 테슬라. 그의 독특한 루틴 속에 숨겨진 뇌과학적 비밀과 현대인을 위한 3단계 실천법을 소개합니다."
 pubDate: "2026-04-28"
 category: "BuildSelf"
-tags: ["발가락을 100번 ","Routine"]
-heroImage: "/images/blog/tesla_toe_curling.png"
+tags: ["위인 습관", "니콜라 테슬라", "수면 루틴", "집중력", "동기부여"]
+heroImage: "/images/blog/tesla_sleep_hack.png"
 app: "buildself"
 authority: "니콜라 테슬라 자서전 'My Inventions' 및 물리치료과학학회지(JPTS)"
-steps:
-  - name: "침대 위 디지털 디톡스"
-    text: ""
-  - name: "양발 50회 오므리기 리추얼"
-    text: ""
-  - name: "호흡과 함께 뇌 이완하기"
-    text: ""
-faqs:
-  - question: "발가락을 꼼지락거리는 행위가 정말 뇌 활성화에 도움이 되나요?"
-    answer: "네, 발가락 영역은 전두엽 피질의 신체 감각 지도상에서 뇌 중심부에 위치하고 있어, 발가락 미세 근육을 자극하는 것은 말초 신경을 통해 전두엽을 미세 자극하는 효과가 있습니다."
 ---
 
 에디슨과 함께 세상을 밝힌 천재 과학자이자, 현대 전기 문명의 초석을 다진 니콜라 테슬라. 그가 매일 밤 침대에 누워 아주 기묘한 행동을 반복했다는 사실을 아시나요? ⚡
@@ -25,9 +15,6 @@ faqs:
 
 오늘 BuildSelf에서는 역사적인 천재의 기상천외한 습관 속에 담긴 과학적 원리와, 이를 우리 일상에 적용하는 방법을 소개합니다. 
 
-
-</div>
-
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
@@ -35,7 +22,7 @@ faqs:
       역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>니콜라 테슬라 자서전 'My Inventions' 및 물리치료과학학회지(JPTS)</strong>.
+      본 콘텐츠는 니콜라 테슬라의 공식 자서전인 <strong>&lt;My Inventions&gt;</strong> 및 물리치료과학학회지(JPTS)에 게재된 말초신경 자극의 뇌 이완 효과 연구를 바탕으로 작성되었습니다.
     </p>
   </div>
 </div>
@@ -50,7 +37,9 @@ faqs:
 
 ---
 
-## 2. 3-Step Practical Routine for Modern Professionals
+## 2. 현대인을 위한 테슬라 수면 루틴 3단계
+
+바쁜 일상 속에서 지친 뇌를 부드럽게 이완하고 숙면으로 들어가는 현대식 테슬라 루틴을 제안합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -58,7 +47,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">침대 위 디지털 디톡스</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    침대에 눕기 전, 뇌를 각성시키는 스마트폰의 청색광을 차단하기 위해 폰을 멀리 둡니다. 온전히 내 몸의 감각에 집중할 수 있는 차분한 환경을 만드는 것이 첫 단계입니다.
   </p>
 </div>
 
@@ -68,11 +57,8 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">양발 50회 오므리기 리추얼</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    이불을 덮고 누운 상태에서 양쪽 발가락을 동시에 꽉 쥐었다가 힘을 빼며 완전히 펴는 동작을 50회 반복합니다. 발가락 소근육의 수축과 이완에 온 신경을 집중합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/tesla_toe_curling_relax_detail.png" alt="양발 50회 오므리기 리추얼" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -81,36 +67,20 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">호흡과 함께 뇌 이완하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    움직임을 멈추고 발끝에서 느껴지는 미세한 혈류의 흐름과 따뜻한 온기에 집중합니다. 깊은 호흡을 5회 들이마시고 내쉬며 서서히 깊은 잠으로 빠져듭니다.
   </p>
 </div>
 
 ---
 
 ## 3. 성공적인 루틴을 위한 뇌과학적 한마디
+
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">단순한 반복이 긴장을 해소합니다</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       발가락 운동은 심장에서 가장 먼 곳의 혈액 순환을 도와 체온을 균일하게 만들고, 부교감 신경을 활성화합니다. 매일 밤 같은 타이밍(이불을 덮은 직후)에 이 행동을 반복하면 뇌는 이를 '잠잘 시간'이라는 강력한 조건반사적 신호로 인식하게 됩니다.
     </p>
   </div>
-</div>
-
----
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> Frequently Asked Questions (FAQ)
-  </h3>
-  
-  <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>발가락을 꼼지락거리는 행위가 정말 뇌 활성화에 도움이 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
-    </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 발가락 영역은 전두엽 피질의 신체 감각 지도상에서 뇌 중심부에 위치하고 있어, 발가락 미세 근육을 자극하는 것은 말초 신경을 통해 전두엽을 미세 자극하는 효과가 있습니다.
-    </p>
-  </details>
 </div>

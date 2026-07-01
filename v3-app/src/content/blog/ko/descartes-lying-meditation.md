@@ -2,22 +2,12 @@
 title: "침대에서 점심까지 안 일어난 천재? 르네 데카르트의 명상 사색 루틴"
 description: "근대 철학의 아버지이자 수학자 르네 데카르트. 아침에 잠에서 깬 뒤 침대에 누워 사색과 명상에 몰두했던 그의 독특한 루틴과 현대인을 위한 5분 침대 명상 실천법을 알아봅니다."
 pubDate: "2026-01-25"
-updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["침대에서 점심까지 ","Routine"]
+tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
 authority: "르네 데카르트 전기 'La Vie de Monsieur Descartes' 및 정신생리학(Psychophysiology) 학술지"
-steps:
-  - name: "알람 직후 자세 유지와 스마트폰 차단"
-    text: ""
-  - name: "이완 호흡과 바디 스캔"
-    text: ""
-  - name: "오늘 하루의 '핵심 화두' 설정하기"
-    text: ""
-faqs:
-  - question: "아침 침대 위 명상이 정말 뇌과학적으로 효과가 있나요?"
-    answer: "네, 각성 직후의 수평 자세는 뇌파를 알파(Alpha) 상태로 유도하여 자율신경계를 안정시키고, 창의성과 정서적 안정을 높여줍니다."
+updatedDate: "2026-01-25"
 ---
 
 "나는 생각한다, 고로 존재한다 (Cogito, ergo sum)"라는 철학사상 가장 유명한 명제를 남기며 근대 철학의 토대를 쌓고, 좌표계를 도입하여 해석기하학을 창시한 천재 수학자이자 철학자, 르네 데카르트. 이 위대한 지성의 거장이 평생 아침마다 고수해 온 아주 게으르면서도 기묘한 루틴이 있었다는 사실을 아시나요? 🛏️
@@ -26,9 +16,6 @@ faqs:
 
 오늘 BuildSelf에서는 데카르트가 고수했던 '침대 사색' 명상 루틴의 과학적 근거와 바쁜 현대인들이 아침에 이를 지혜롭게 활용하는 방법을 소개합니다.
 
-
-</div>
-
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
@@ -36,7 +23,7 @@ faqs:
       역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>르네 데카르트 전기 'La Vie de Monsieur Descartes' 및 정신생리학(Psychophysiology) 학술지</strong>.
+      본 콘텐츠는 아드리앙 바이에가 저술한 최초의 데카르트 전기인 <strong>&lt;La Vie de Monsieur Descartes&gt;</strong> 및 아침 각성 직후의 수평 자세가 자율신경계 안정화와 창의적 뇌파(Alpha파) 형성에 미치는 영향에 관한 정신생리학(Psychophysiology) 학술 연구를 기반으로 작성되었습니다.
     </p>
   </div>
 </div>
@@ -51,7 +38,9 @@ faqs:
 
 ---
 
-## 2. 3-Step Practical Routine for Modern Professionals
+## 2. 현대인을 위한 데카르트 5분 침대 명상 3단계
+
+눈을 뜨자마자 시작되는 바쁜 일상 속에서 뇌에 여유를 선물하고 최상의 정신 컨디션을 이끌어내는 현대식 데카르트 루틴을 제안합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -59,7 +48,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">알람 직후 자세 유지와 스마트폰 차단</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    아침 알람을 끄고 난 후 즉시 침대에서 일어나거나 스마트폰 화면을 켜서 인터넷 검색이나 알림을 확인하지 않습니다. 몸을 완전히 편안하게 이불 속에 눕힌 자세 그대로 두고 스마트폰은 멀리 둡니다.
   </p>
 </div>
 
@@ -69,11 +58,8 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">이완 호흡과 바디 스캔</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    눈을 편안히 감거나 천장을 지긋이 바라보며, 코로 숨을 깊게 들이마시고 입으로 천천히 내쉬는 호흡을 5회 반복합니다. 들이마실 때 머리가 시원해지고, 내쉴 때 어깨와 목, 허리의 긴장이 빠져나가는 것을 가만히 관찰합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/descartes_lying_meditation_relax_detail.png" alt="이완 호흡과 바디 스캔" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
@@ -82,36 +68,20 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">오늘 하루의 '핵심 화두' 설정하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    오늘 처리해야 할 수많은 일들을 조급하게 연산하지 말고, 오직 단 한 가지 "오늘 내가 가장 온전하게 집중하고 해결하고 싶은 가치는 무엇인가?"에 대해 자문해 봅니다. 차분한 머릿속에 그 목표를 하나의 이미지나 단어로 선명하게 띄워본 후 1분간 평온함을 만끽하며 침대에서 가볍게 일어납니다.
   </p>
 </div>
 
 ---
 
 ## 3. 성공적인 루틴을 위한 뇌과학적 한마디
+
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">느린 시작이 하루의 속도를 조율합니다</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
       데카르트에게 침대는 결코 게으름의 상징이 아니었습니다. 오히려 그의 뇌가 현실의 시시콜콜한 소음에서 벗어나 수학과 철학이라는 우주의 본질을 명징하게 그릴 수 있는 가장 조용하고 완벽한 시공간이었습니다. 하루 단 5분만이라도 눈을 뜬 아침 침대 위에서 뇌에 진정한 이완의 기회를 선물해 보세요.
     </p>
   </div>
-</div>
-
----
-
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📍</span> Frequently Asked Questions (FAQ)
-  </h3>
-  
-  <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>아침 침대 위 명상이 정말 뇌과학적으로 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
-    </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 각성 직후의 수평 자세는 뇌파를 알파(Alpha) 상태로 유도하여 자율신경계를 안정시키고, 창의성과 정서적 안정을 높여줍니다.
-    </p>
-  </details>
 </div>

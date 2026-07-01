@@ -12,6 +12,7 @@ const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
 const translationData = {
   'murakami-running': {
     title: {
+      ko: "매일 아침 10km를 달리는 작가? 무라카미 하루키의 기초 체력 루틴",
       en: "The Writer Who Runs 10km Every Morning: Haruki Murakami's Stamina Routine",
       ja: "毎日朝10kmを走る作家？村上春樹の基礎体力ルーティン",
       zh: "每天早晨跑步10公里的作家？村上春树的基础体能惯例",
@@ -22,6 +23,7 @@ const translationData = {
       id: "Penulis yang Berlari 10km Setiap Pagi: Rutinitas Stamina Haruki Murakami"
     },
     description: {
+      ko: "전 세계적인 베스트셀러 소설가 무라카미 하루키. 그의 철저한 아침 10km 달리기 루틴 속에 숨겨진 뇌과학적 원리와 현대인을 위한 3단계 실천법을 알아봅니다.",
       en: "World-renowned bestselling novelist Haruki Murakami. Discover the neuroscience behind his daily 10km running routine and a 3-step guide for modern professionals.",
       ja: "世界的なベストセラー作家、村上春樹。彼の毎朝10kmランニングの背後にある脳科学的な理由と、現代人のための3段階の実践法を紹介します。",
       zh: "享誉全球的畅销书作家村上春树。探索他每天早晨跑步10公里背后的脑科学原理，以及适合现代人的三步实践指南。",
@@ -32,6 +34,7 @@ const translationData = {
       id: "Novelis terlaris terkenal di dunia, Haruki Murakami. Temukan ilmu saraf di balik rutinitas lari 10 km setiap harinya dan panduan 3 langkah untuk para profesional."
     },
     authority: {
+      ko: "무라카미 하루키 저 '달리기를 말할 때 내가 하고 싶은 이야기' 및 Frontiers in Psychology 연구",
       en: "Haruki Murakami's 'What I Talk About When I Talk About Running' & Frontiers in Psychology",
       ja: "村上春樹 著『走ることについて語るときに僕の語ること』＆ Frontiers in Psychology 運動認知研究",
       zh: "村上春树著《当我谈跑步时我谈些什么》及 Frontiers in Psychology 运动认知研究",
@@ -42,6 +45,7 @@ const translationData = {
       id: "Buku Haruki Murakami 'What I Talk About When I Talk About Running' & Penelitian Frontiers in Psychology"
     },
     intro: {
+      ko: "《상실의 시대》, 《1Q84》 등 발표하는 작품마다 전 세계적인 열풍을 일으키는 현대 일본 문학의 거장 무라카미 하루키. 그는 소설가인 동시에 40년 넘게 매년 마라톤 풀코스를 완주해 온 열정적인 러너이기도 합니다. 🏃‍♂️\\n\\n하루키는 1982년 전업 작가의 길로 들어서면서 앉아서 글만 쓰는 생활이 가져다주는 체력 저하와 체중 증가를 겪었습니다. 그는 소설가가 장기적으로 창작 활동을 이어나가기 위해서는 단순한 재능을 넘어, 고도의 집중력을 며칠이고 몇 달이고 유지할 수 있는 강인한 '기초 체력'이 필수적임을 깨달았습니다. 이에 담배를 과감히 끊고 매일 아침 10km를 달리거나 1,500m를 수영하는 루틴을 시작해 전 세계 어디를 가든 이를 고수하고 있습니다.\\n\\n오늘 BuildSelf에서는 하루키의 철저한 달리기에 숨겨진 과학적 이유와 현대인들이 일상에서 체력 루틴을 다지는 방법을 살펴봅니다.\\n\\n\\n\\n\\n---",
       en: "Haruki Murakami, a giant of modern Japanese literature who creates a global sensation with every work he publishes. He is not only a novelist but also a passionate runner who has completed a full marathon every year for over 40 years. When he became a full-time writer in 1982, he experienced a decline in stamina and weight gain from sitting and writing all day. He realized that to sustain creative activities in the long run, a novelist needs not just talent, but strong physical stamina to maintain high concentration. He quit smoking and started a routine of running 10km or swimming 1,500m every morning, which he maintains wherever he goes. Today, BuildSelf explores the scientific reasons behind Murakami's running and how you can build your own stamina routine.",
       ja: "発表する作品ごとに世界的な旋風を巻き起こす現代日本文学の巨匠、村上春樹。彼は小説家であると同時に、40年以上毎年フルマラソンを完走してきた熱心なランナーでもあります。1982年に専業作家になって以来、一日中座って執筆することによる体力低下と体重増加を経験した彼は、小説家が長期的に創作活動を続けるためには、単なる才能だけでなく、高度な集中力を維持するための頑丈な「基礎体力」が不可欠であると悟りました。そこでタバコをやめ、毎朝10kmを走るか1,500mを泳ぐルーティンを開始し、今でも世界中どこに行ってもこれを守り続けています。本日、BuildSelfでは春樹のランニングルーティンの科学的根拠と日常の実践ガイドを調べます。",
       zh: "村上春树是现代日本文学巨匠，每部作品问世都会引发全球热潮。他不仅是一位小说家，也是一位热情的跑者，40多年来每年都坚持跑完一次全程马拉松。1982年成为全职作家后，他因整天坐着写作而经历了体能下降和体重增加。他意识到，要在长期的创作活动中走得更远，小说家不仅需要才华，更需要坚实的“基础体能”来维持高度的专注力。于是，他果断戒烟，开始每天早晨跑步10公里或游泳1500米的惯例，无论身处世界何地都雷打不动。今天，BuildSelf将带您探索村上春树跑步习惯背后的科学原理，以及现代人如何在日常中建立体能惯例。",
@@ -52,6 +56,7 @@ const translationData = {
       id: "Haruki Murakami, seorang tokoh sastra Jepang modern yang menciptakan sensasi global dengan setiap karya yang diterbitkannya. Dia bukan hanya seorang novelis tetapi juga seorang pelari bersemangat yang telah menyelesaikan maraton penuh setiap tahun selama lebih dari 40 tahun. Ketika dia menjadi penulis penuh waktu pada tahun 1982, dia mengalami penurunan stamina & kenaikan berat badan akibat duduk & menulis sepanjang hari. Hari ini, BuildSelf mengeksplorasi alasan ilmiah di balik rutinitas lari Murakami & bagaimana Anda dapat membangun rutinitas stamina Anda sendiri."
     },
     whyTitle: {
+      ko: "뇌의 젊음을 유지하는 러닝의 뇌과학",
       en: "The Neuroscience of Running to Keep the Brain Young",
       ja: "脳の若さを保つランニングの脳科学",
       zh: "保持大脑年轻的跑步脑科学",
@@ -62,6 +67,7 @@ const translationData = {
       id: "Ilmu Saraf di Balik Lari untuk Menjaga Otak Tetap Muda"
     },
     whyDesc: {
+      ko: "소설을 쓰는 것은 극도의 정신적 에너지를 소모하는 작업입니다. 하루키는 매일 일정량의 원고를 쓰는 고단한 정신 작업을 지탱하기 위해 달리기를 통해 뇌를 단련했습니다.\\n\\n실제로 장거리 달리기와 같은 지속적인 유산소 운동은 뇌의 해마 영역에 산소와 영양분을 공급하여 신경세포의 생성을 촉진합니다. 뇌과학 연구에 따르면, 달리기는 뇌신경영양인자(BDNF) 수치를 높여 장기 기억력과 학습 능력을 강화합니다. 또한, 달리면서 분비되는 엔도르핀과 엔도카나비노이드는 스트레스 호르몬인 코르티솔의 분비를 억제하여 정신적 압박감이 심한 현대인들의 두뇌를 평온하게 유지해 줍니다.",
       en: "Writing a novel is a task that consumes extreme mental energy. Murakami trained his brain through running to support the hard mental work of writing a set amount of manuscript every day. In fact, continuous aerobic exercise like long-distance running supplies oxygen and nutrients to the hippocampus, promoting the generation of new neurons. According to brain science, running increases levels of Brain-Derived Neurotrophic Factor (BDNF), strengthening long-term memory and learning capabilities. In addition, endorphins and endocannabinoids released during running suppress the secretion of cortisol, the stress hormone, keeping the minds of modern people peaceful.",
       ja: "小説を書くことは、極度の精神的エネルギーを消費する作業です。春樹は毎日一定量の原稿を書く過酷な精神作業を支えるため、ランニングを通じて脳を鍛えました。実際、長距離ランニングのような継続的な有酸素運動は、脳の海馬領域に酸素と栄養分を供給し、神経細胞の生成を促進します。脳科学の研究によると、ランニングは脳由来神経栄養因子(BDNF)の数値を高め、長期記憶力と学習能力を強化します。また、ランニング中に分泌されるエンドルフィンとエンドカンナビノイドは、ストレスホルモンであるコルチゾールの分泌を抑制し、精神的圧迫感の強い現代人の頭脳を穏やかに保ちます。",
       zh: "撰写小说是一项消耗极大精神能量的任务。村上春树通过跑步来锻炼大脑，以支持每天撰写固定数量手稿的繁重脑力工作。事实上，像长距离跑步这样持续的有氧运动，能为大脑的海马体区域提供充足的氧气和营养，促进神经元的新生。脑科学研究表明，跑步能提高脑源性神经营养因子（BDNF）的水平，从而增强长期记忆力和学习能力。此外，压力下释放的内啡肽和内源性大麻素能抑制压力脑中皮质醇的分泌，让现代人高度紧张的大脑保持平静。",
@@ -140,6 +146,7 @@ const translationData = {
       }
     ],
     cautionTitle: {
+      ko: "성공적인 루틴을 위한 뇌과학적 한마디",
       en: "A brain-scientific word for a successful routine",
       ja: "効果的なルーティンのための脳科学的な一言",
       zh: "成功惯例的脑科学建议",
@@ -150,6 +157,7 @@ const translationData = {
       id: "Saran ilmiah saraf untuk rutinitas yang sukses"
     },
     cautionDesc: {
+      ko: "**꾸준한 반복이 뇌의 리듬을 만듭니다**\\n\\n매일 반복하는 단순한 신체 활동은 의지력을 소모하지 않는 '자동화 루틴'으로 정착됩니다. 일단 뇌에 이 리듬이 새겨지면, 일을 하거나 글을 쓸 때 생기는 극심한 정신적 부하도 견뎌낼 수 있는 단단한 기초 체력적 방어벽이 형성됩니다. 하루키처럼 규칙적인 운동을 삶의 최우선 순위로 올려두고 리듬을 유지해 보세요.",
       en: "Simple physical activities repeated daily settle into automatic routines that do not consume willpower. Once this rhythm is engraved in the brain, it forms a solid physical shield to withstand the extreme mental load that comes from working or writing. Make regular exercise a top priority in your life and maintain the rhythm, just like Murakami.",
       ja: "毎日繰り返す単純な身体活動は、意志力を消耗しない「自動化ルーティン」として定着します。一度脳にこのリズムが刻まれると、仕事や執筆時に生じる極度の精神的負荷にも耐えられる頑丈な基礎体力的な防御壁が形成されます。春樹のように規則的な運動を人生の最優先事項に引き上げ、そのリズムを維持してみてください。",
       zh: "每天重复的简单身体活动会转化为不消耗意志力的“自动化惯例”。一旦大脑记住了这种节奏，就会形成一道坚固的体能防线，足以抵御工作或写作带来的极大精神压力。像村上春树一样，将规律运动作为生活的重中之重，并保持这种节奏。",
@@ -543,6 +551,7 @@ const translationData = {
   },
   'da-vinci-notepad': {
     title: {
+      ko: "허리춤에 항상 수첩을 매달아 둔 천재? 레오나르도 다 빈치의 즉시 메모 습관",
       en: "The Genius Who Kept a Notebook on His Belt? Leonardo da Vinci's Immediate Note-taking Habit",
       ja: "常に腰に手帳をぶら下げていた天才？レオナルド・ダ・ヴィンチの即時メモ習慣",
       zh: "腰间悬挂手账的天才？达芬奇的即时记事习惯",
@@ -553,6 +562,7 @@ const translationData = {
       id: "Jenius yang Menggantungkan Buku Catatan di Ikat Pinggangnya? Kebiasaan Mencatat Segera Leonardo da Vinci"
     },
     description: {
+      ko: "역사상 가장 다재다능한 천재 레오나르도 다 빈치. 항상 수첩을 소지하며 떠오르는 생각을 즉시 기록했던 그의 메모 습관과 뇌과학적 원리, 현대인을 위한 3단계 실천법을 전합니다.",
       en: "The most versatile genius in history, Leonardo da Vinci. Discover his habit of writing down ideas immediately, the neuroscience behind it, and a 3-step guide for modern professionals.",
       ja: "歴史上最も多才な天才レオナルド・ダ・ヴィンチ。常に手帳を持ち歩き、浮かんだ考えを即座に記録した彼のメモ習慣と脳科学的な原理、現代人のための3段階の実践法を紹介します。",
       zh: "历史多才天才达芬奇。探索他即时记事的习惯、脑科学原理，以及适合现代人的三步实践指南。",
@@ -563,6 +573,7 @@ const translationData = {
       id: "Jenius paling serbabisa dalam sejarah, Leonardo da Vinci. Temukan kebiasaannya mencatat ide dengan segera, ilmu saraf di baliknya, & panduan 3 langkah."
     },
     authority: {
+      ko: "월터 아이작슨 저 '레오나르도 다 빈치' 및 교육심리학회지(JEP)",
       en: "Walter Isaacson's 'Leonardo da Vinci' & Journal of Educational Psychology",
       ja: "ウォルター・アイザックソン 著『レオナルド・ダ・ヴィンチ』＆ 教育心理学術誌(JEP) メモ効果研究",
       zh: "沃尔特·艾萨克森著《达芬奇传》及教育心理学期刊(JEP)笔记研究",
@@ -573,6 +584,7 @@ const translationData = {
       id: "Buku Walter Isaacson 'Leonardo da Vinci' & Penelitian Journal of Educational Psychology"
     },
     intro: {
+      ko: "미술, 과학, 해부학, 기하학, 음악, 토목 공학 등 다방면에서 인류 역사상 유례를 찾을 수 없는 초인적인 업적을 남긴 르네상스의 절대적 거장, 레오나르도 다 빈치. 그가 가졌던 천재적인 창의성과 지식 융합 능력의 원천은 어디에 있었을까요? 📓\\n\\n그 비밀은 바로 그가 평생 고수했던 아주 단순하지만 강력한 습관에 있습니다. 다 빈치는 길을 걷거나, 사람들과 대화를 나누거나, 일을 하다가도 언제 어디서든 영감이 떠오르면 즉시 기록할 수 있도록 평생 가죽으로 제본된 작은 수첩을 허리띠에 묶어 매달고 다녔습니다. \\n\\n그는 시장통에서 기이한 외모나 독특한 표정을 지닌 사람을 발견하면 그가 시야에서 완전히 사라질 때까지 집요하게 쫓아가며 수첩에 크로키를 그렸고, 강물의 물소용돌이나 새의 날개짓을 관찰하면 그 물리적 규칙을 즉석에서 스케치했습니다. 그가 남긴 이 낙서와 메모들은 훗날 회화, 비행체 설계, 해부학적 발견의 밑바탕이 된 수천 장의 '다빈치 코덱스(Codex)'로 발전하여 오늘날까지 인류의 보물로 남아있습니다.\\n\\n오늘 BuildSelf에서는 다 빈치의 메모 습관 속에 숨겨진 뇌과학적 비밀과 현대인들이 일상에서 아이디어를 놓치지 않는 즉시 메모 실천법을 소개합니다.\\n\\n\\n\\n\\n---",
       en: "Leonardo da Vinci, the ultimate Renaissance master who left behind unprecedented superhuman achievements in art, science, anatomy, music, and civil engineering. What was the source of his genius creativity and ability to synthesize knowledge? The secret lies in a very simple but powerful habit he maintained throughout his life. Da Vinci carried a small leather-bound notebook tied to his belt at all times so that he could record inspiration whenever and wherever it struck. When he met a person with a unique face or expression on the street, he persistently followed them until they disappeared from sight to sketch a caricature in his notebook. When he observed the flow of water, he sketched the rules of the swirl on the spot. These doodles and notes later developed into thousands of pages of the 'Leonardo da Vinci Codex,' which remains a treasure of humanity. Today, BuildSelf shares the neuroscientific secrets of Da Vinci's notebook habit and how modern people can practice immediate note-taking.",
       ja: "美術、科学、解剖学、幾何学、音楽、土木工学など多方面で、人類史上類を見ない超人的な業績を残したルネサンスの絶対的巨匠、レオナルド・ダ・ヴィンチ。彼はいつでもどこでもインスピレーションが浮かんだら即座に記録できるよう、一生革で製本された小さな手帳をベルトに結びつけて持ち歩きました。この落書きとメモが、後世の絵画、飛行体設計、解剖学的発見の基礎となった数千枚の「ダ・ヴィンチ・コデックス（手稿）」へと発展しました。本日、BuildSelfではダ・ヴィンチのメモ習慣の中に隠された脳科学的秘密と、現代人が日常生活でアイデアを逃さない即時メモ実践法を紹介します。",
       zh: "列奥纳多·达·芬奇是文艺复兴时期的终极大师，在艺术、科学、解剖学、音乐和土木工程等领域留下了空前的超人成就。他天才般的创造力和融合知识的能力源自何处？秘密在于他终生保持的一个非常简单但强大的习惯。达·芬奇随身携带一本系在腰带上的皮革面小手账，以便随时随地记录灵感。他在街上遇到面容或表情独特的人时，会执着地跟随直到对方消失，在手账中画下漫画。观察水流时，他会当场画下漩涡的规律。这些涂鸦和笔记后来发展成了数千页的《达·指奇手稿》，至今仍是人类的宝藏。今天，BuildSelf为您分享达·芬奇手账习惯背后的脑科学奥秘，以及现代人如何实践即时记事。",
@@ -583,6 +595,7 @@ const translationData = {
       id: "Leonardo da Vinci, maestro Renaisans sejati yang meninggalkan pencapaian luar biasa yang belum pernah ada sebelumnya dalam seni, sains, anatomi, musik, dan teknik sipil. Apa sumber kreativitas jenius dan kemampuannya untuk mensintesis pengetahuan? Rahasianya terletak pada kebiasaan yang sangat sederhana namun kuat yang dia pertahankan sepanjang hidupnya. Da Vinci selalu membawa buku catatan kecil bersampul kulit yang diikatkan pada ikat pinggangnya sehingga dia dapat mencatat inspirasi kapan pun dan di mana pun inspirasi itu muncul. Ketika dia bertemu seseorang dengan wajah atau ekspresi unik di jalan, dia terus mengikutinya sampai mereka menghilang dari pandangan untuk membuat sketsa karikatur di buku catatannya. Ketika dia mengamati aliran water, dia membuat sketsa aturan pusaran."
     },
     whyTitle: {
+      ko: "뇌의 램(RAM) 용량을 비워주는 외재화 효과",
       en: "The Externalization Effect: Freeing the Brain's RAM",
       ja: "脳の外在化効果：ワーキングメモリ（RAM）を空ける",
       zh: "释放大脑内存的外化效应",
@@ -593,6 +606,7 @@ const translationData = {
       id: "Efek Eksternalisasi: Membebaskan RAM Otak"
     },
     whyDesc: {
+      ko: "우리의 뇌는 아이디어를 보관하는 창고라기보다는, 정보를 처리하고 연상하는 CPU(중앙처리장치)에 가깝습니다. \\n\\n인지심리학에 따르면, 인간의 작동 기억(Working Memory) 용량은 극히 한계가 있어 새로 떠오른 영감이나 정보를 기록하지 않고 머릿속에만 가두어 두면 이를 유지하기 위해 엄청난 인지적 에너지(Cognitive Load)를 지속적으로 소모하게 됩니다. 다 빈치처럼 영감을 수첩에 즉시 적어 물리적으로 옮겨 담는 '외재화(Externalization)' 과정을 거치면, 뇌는 정보 유지 의무에서 해방되어 뇌의 작업 기억 영역(RAM)을 깨끗하게 비우게 됩니다. 비워진 뇌는 비로소 새로운 연상을 펼치며 고차원적인 창의적 사유를 시작할 수 있게 됩니다.",
       en: "Our brain is closer to a CPU (central processing unit) that processes and associates information, rather than a warehouse that stores ideas. According to cognitive psychology, human working memory capacity is extremely limited, so if you keep newly emerged inspirations in your head without recording them, you will continuously consume immense cognitive energy (cognitive load) to maintain them. If you go through the process of 'externalization'—transferring inspirations immediately onto paper like Da Vinci—the brain is freed from the duty of maintaining information, clearing the working memory (RAM). The cleared brain can then finally engage in new associations and high-level creative thinking.",
       ja: "私たちの脳は、情報を処理して連想するCPU（中央処理装置）に近いです。認知心理学によると、人間のワーキングメモリ（作動記憶）の容量は極めて限られており、新しく浮かんだインスピレーションや情報を記録せずに頭の中に閉じ込めておくと、それを維持するために膨大な認知負荷（Cognitive Load）を継続的に消費することになります。ダ・ヴィンチのようにインスピレーションを手帳に即座に書いて物理的に移し替える「外在化（Externalization）」の過程を経ると、脳は情報の維持義務から解放され、ワーキングメモリ（RAM）をきれいに空けることができます。",
       zh: "我们的大脑更接近于处理和联结信息的CPU（中央处理器），而不是存储点子的仓库。认知心理学表明，人类的工作记忆（Working Memory）容量极其有限，如果你把新产生的灵感只留在脑子里而不记录下来，你就会持续消耗额外的认知能量（认知负荷）来维持它们。如果经历像达・芬奇那样将灵感即时转移到纸上的“外化（Externalization）”过程，大脑就会从维持信息的负担中解脱出来，清空工作记忆（RAM）。清空后的大脑才能最终进行新的联结和高水平的创造性思考。",
@@ -671,6 +685,7 @@ const translationData = {
       }
     ],
     cautionTitle: {
+      ko: "성공적인 루틴을 위한 뇌과학적 한마디",
       en: "A brain-scientific word for a successful routine",
       ja: "効果的なルーティンのための脳科学的な一言",
       zh: "成功惯例的脑科学建议",
@@ -681,6 +696,7 @@ const translationData = {
       id: "Saran ilmiah saraf untuk rutinitas yang sukses"
     },
     cautionDesc: {
+      ko: "**메모는 뇌의 인지적 피로를 막는 방패입니다**\\n\\n기억해 두려고 애쓰는 행위 자체가 뇌에 미세한 스트레스와 피로를 축적합니다. 다 빈치처럼 영감을 즉시 외부 공간으로 옮겨 담는 습관을 들이면, 뇌는 온전히 '생각하고 창조하는 본연의 역할'에 백퍼센트의 에너지를 쏟을 수 있습니다. 일상 속 소소한 생각이라도 떠오른 순간 가볍게 기록해 두는 습관을 오늘부터 시작해 보세요.",
       en: "The act of trying to remember things itself accumulates subtle stress and fatigue in the brain. If you develop the habit of transferring inspiration to an external space immediately, like Da Vinci, your brain can devote 100% of its energy to its original role of thinking and creating. Start the habit of lightly recording even the smallest thoughts in your daily life the moment they arise.",
       ja: "記憶しておこうと努める行為自体が、脳に微細なストレスと疲労を蓄積させます。ダ・ヴィンチのようにインスピレーションを即座に外部の空間に移し替える習慣をつければ、脳は完全に「考えて創造する本来の役割」に100％のエネルギーを注ぐことができます。日常生活での些細な考えでも、浮かんだ瞬間に軽く記録しておく習慣を今日から始めてみてください。",
       zh: "试图记住事情这一行为本身就会在大脑中累积微妙的压力和疲劳。如果你养成像达・芬奇那样立即将灵感转移到外部空间的习惯，你的大脑就可以将100%的能量投入到思考和创造的本职工作上。从今天开始，养成在日常生活中产生想法的瞬间就轻轻记录下来的习惯吧。",
@@ -720,6 +736,7 @@ const translationData = {
   },
   'beethoven-coffee-ritual': {
     title: {
+      ko: "매일 아침 원두 60알을 세어 커피를 내린 작곡가? 베토벤의 집중력 의식",
       en: "The Composer Who Counted 60 Coffee Beans Every Morning? Beethoven's Concentration Ritual",
       ja: "毎朝コーヒー豆を60粒数えて淹れた作曲家？ベートーヴェンの集中力儀式",
       zh: "每天清晨数出60颗咖啡豆的作曲家？贝多芬的专注力仪式",
@@ -730,6 +747,7 @@ const translationData = {
       id: "Komposer yang Menghitung 60 Biji Kopi Setiap Pagi? Ritual Konsentrasi Beethoven"
     },
     description: {
+      ko: "시대를 초월한 위대한 작곡가 루드비히 판 베토벤. 매일 아침 정확히 60알의 원두를 세며 마음을 정돈했던 그의 독특한 루틴과 뇌를 깨우는 마인드풀니스 실천법을 알아봅니다.",
       en: "The timeless great composer Ludwig van Beethoven. Explore his unique routine of counting exactly 60 coffee beans every morning to calm his mind, and how to practice mindfulness today.",
       ja: "時代を超越した偉大な作曲家ルートヴィヒ・ヴァン・ベートーヴェン。毎朝正確に60粒の豆を数えながら心を整えた彼の独特なルーティンと, 脳を目覚めさせるマインドフルネス実践法を紹介します。",
       zh: "跨越时代的伟大作曲家路德维希·凡·贝多芬。探索他每天早晨精确数出60颗咖啡豆以使心灵平静的独特惯例，以及引导大脑觉醒的正念实践方法。",
@@ -740,6 +758,7 @@ const translationData = {
       id: "Komposer hebat sepanjang masa Ludwig van Beethoven. Pelajari tentang rutinitas uniknya menghitung tepat 60 biji kopi setiap pagi untuk menenangkan pikirannya, dan cara melatih perhatian penuh hari ini."
     },
     authority: {
+      ko: "안톤 쉰들러 저 '내가 아는 베토벤' 및 인지감정학회지(Cognition and Emotion)",
       en: "Anton Schindler's 'Beethoven as I Knew Him' & Cognition and Emotion",
       ja: "アントン・シンドラー 著『私が知るベートーヴェン』＆ 認知感情学術誌(Cognition and Emotion)",
       zh: "安东·辛德勒著《我所知道的贝多芬》及认知与情感学术期刊(Cognition and Emotion)",
@@ -750,6 +769,7 @@ const translationData = {
       id: "Buku Anton Schindler 'Beethoven as I Knew Him' & Penelitian Cognition and Emotion"
     },
     intro: {
+      ko: "청각 장애라는 음악가에게 사형 선고와도 같은 시련을 극복하고 《운명 교향곡》, 《합창 교향곡》 등 인류 역사상 가장 위대한 선율을 탄생시킨 작곡가, 루드비히 판 베토벤. 평생 동안 불같은 성격과 예술가적 예민함을 보였던 그가 아침에 눈을 떠 작곡을 시작하기 전, 매우 차분하고 엄격하게 치렀던 기묘한 행동을 알고 계신가요? ☕\\n\\n그것은 바로 커피 원두를 정확히 '60알' 세어서 내리는 아침 커피 의식이었습니다. 베토벤은 커피의 맛과 향에 무척 예민했고 완벽한 비율을 고집했습니다. 그는 유리를 달구어 사이폰식으로 커피를 추출했는데, 매일 아침 유리관 안을 들여다보며 손끝으로 생원두를 딱 60알 세어서 분쇄기에 넣었습니다. 귀한 손님이 방문했을 때도 한 잔당 정확히 60알이라는 엄격한 규칙을 단 한 알의 오차도 없이 고수했습니다. 이 60알의 원두를 세는 시간은 그에게 단순한 음료 준비가 아닌, 어수선한 외부 소음으로부터 마음을 닫고 고요히 자신의 내면 음악 세계로 들어가는 신성한 아침의 진입로였습니다.\\n\\n오늘 BuildSelf에서는 베토벤의 기묘한 원두 60알 의식 속에 깃든 과학적 비밀과 이를 통해 하루의 몰입도를 극대화하는 아침 리추얼 설계법을 소개합니다.\\n\\n\\n\\n\\n---",
       en: "Ludwig van Beethoven, one of the greatest composers in Western music history who overcame the fatal ordeal of hearing loss and created the greatest melodies in human history such as the 'Fate Symphony' and the 'Choral Symphony.' Did you know the unique ritual he performed every morning before starting to compose? It was a precise coffee ritual of counting exactly '60 beans.' Beethoven was very sensitive to the taste and aroma of coffee and insisted on the perfect ratio. He used a glass siphon to extract coffee, counting exactly 60 raw beans by hand every morning. Even when guests visited, he strictly adhered to this rule. Counting these 60 beans was a sacred morning entryway for him to shut out distracting external noises and quietly enter his inner musical world. Today, BuildSelf shares the scientific secrets of Beethoven's coffee ritual and how to design a morning ritual to maximize your focus.",
       ja: "音楽家として致命的な試練である聴覚障害を克服し、交響曲第5番《運命》や第9番《合唱》など、人類史上最も偉大な旋律を誕生させた作曲家、ルートヴィヒ・ヴァン・ベートーヴェン。彼が毎朝執筆を始める前、非常に静かに、そして厳格に行っていた奇妙な行動をご存知でしょうか？それは、コーヒー豆を正確に「60粒」数えて淹れる朝のコーヒー儀式でした。ベートーヴェンはコーヒーの味と香りに非常に敏感で、完璧な比率にこだわりました。この60粒の豆を数える時間は、彼にとって単なる飲み物の準備ではなく、雑多な外部の騒音から心を閉ざし、静かに自分自身の内なる音楽の世界へと入る神聖な朝の入り口でした。本日BuildSelfでは、朝のリチュアル設計法を紹介します。",
       zh: "路德维希·凡·贝多芬克服了听力受损这一对音乐家来说致命的考验，创作出了《命运交响曲》、《合唱交响曲》等人类历史上最伟大的旋律。您知道他在每天早晨开始创作之前，会进行一项非常独特且严格的奇妙仪式吗？那就是精确地数出“60颗咖啡豆”来冲泡咖啡。贝多芬对咖啡的口感和香气非常敏感，坚持追求完美的比例。他每天早晨都会亲手精确地数出60颗生咖啡豆。即使有客人来访，他也严格遵守每杯精确60颗的比例。数这60颗豆子对他来说不仅仅是准备饮物，而是一个神圣的清晨入口，让他把嘈杂的外部噪音关在门外，静静地进入内心的音乐世界。今天，BuildSelf为您分享贝多芬咖啡仪式背后的科学奥秘，以及如何设计清晨惯例以最大化您的专注力。",
@@ -760,6 +780,7 @@ const translationData = {
       id: "Ludwig van Beethoven, salah satu komposer terbesar dalam sejarah musik Barat yang mengatasi cobaan mematikan berupa kehilangan pendengaran dan menciptakan melodi terbesar dalam sejarah manusia seperti 'Simfoni Takdir' dan 'Simfoni Paduan Suara.' Tahukah Anda ritual unik yang dilakukannya setiap pagi sebelum mulai menggubah lagu? Itu adalah ritual kopi yang tepat dengan menghitung tepat '60 biji.' Beethoven sangat sensitif terhadap rasa & aroma kopi."
     },
     whyTitle: {
+      ko: "전두엽을 깨우는 마인드풀니스와 '인지적 프레이밍'",
       en: "Mindfulness and 'Cognitive Framing' That Wake the Prefrontal Cortex",
       ja: "前頭葉を目覚めさせるマインドフルネスと「認知的フレーミング」",
       zh: "唤醒前额叶皮层的正念与“认知框架”",
@@ -770,6 +791,7 @@ const translationData = {
       id: "Perhatian Penuh dan 'Pembingkaian Kognitif' yang Membangunkan Korteks Prefrontal"
     },
     whyDesc: {
+      ko: "손끝으로 작고 둥근 원두의 촉감을 느끼며 숫자를 하나하나 세는 정교한 행동은 뇌과학적으로 훌륭한 '마인드풀니스(Mindfulness, 마음챙김)' 훈련입니다. \\n\\n우리가 아침에 눈을 뜨면 뇌는 어제 끝내지 못한 걱정거리나 오늘 해야 할 복잡한 업무 계획을 연상하며 디폴트 모드 네트워크(DMN)를 과도하게 활성화시킵니다. 이 상태는 뇌의 에너지를 낭비하고 은연중에 불안을 유발합니다. 이때 베토벤의 원두 세기처럼 단순하고 세밀한 신체적 감각과 동작에 온전히 의식을 집중하면, DMN의 과활성화가 억제되고 현재 순간의 뇌 감각 영역이 깨어납니다. 또한 매일 똑같은 행동 의식을 거치는 것은 뇌에 '이제 고도의 집중 상태로 진입한다'는 프레임을 씌워주는 인지적 트리거로 작동합니다.",
       en: "Focusing on precise physical actions like counting small coffee beans is an excellent 'Mindfulness' training in neuroscience. When we wake up in the morning, the brain often overactivates the Default Mode Network (DMN) by thinking about unfinished worries or complex work plans. This state wastes brain energy and causes anxiety. Focusing on simple physical sensations and actions like Beethoven's bean counting suppresses DMN overactivation and awakens the sensory areas of the brain. Also, going through the same behavioral ritual every morning acts as a cognitive trigger that frames the brain to enter a state of high concentration.",
       ja: "指先で小さく丸いコーヒー豆の感触を感じながら、数字を一つ一つ数える精巧な行動は、脳科学的に優れた「マインドフルネス（心付け）」トレーニングです。私たちが朝目覚めると、脳は昨日の心配事や今日の複雑な業務計画を連想し、デフォルトモードネットワーク（DMN）を過度に活性化させます。この状態は脳のエネルギーを無駄にし、不安を誘発します。ベートーヴェンのように単純な身体的感覚と動作に完全に意識を集中させると、DMNの過活動が抑制され、現時点での脳の感覚領域が目覚めます。また、毎朝同じ行動儀式を経ることは、認知的フレーミングとして機能します。", // '脳の'
       zh: "指尖感受着咖啡豆细小圆润的触觉，将数字一颗一颗数出来的精细动作，在脑科学上是极佳的“正念（Mindfulness）”训练。早晨醒来时，大脑往往会通过联想昨天没完没了的烦恼或今天的复杂工作计划，过度激活默认模式网络（DMN）。这种状态会浪费大脑能量并诱发焦虑。像贝多芬那样将意识完全集中在简单的身体感觉和动作上，能抑制DMN的过度激活，唤醒当下的大脑感官区域。此外，每天早晨经历相同的行为仪式，可以作为认知的触发器，为大脑框定进入高度专注状态的路径。",
@@ -848,6 +870,7 @@ const translationData = {
       }
     ],
     cautionTitle: {
+      ko: "성공적인 루틴을 위한 뇌과학적 한마디",
       en: "A brain-scientific word for a successful routine",
       ja: "効果的なルーティンのための脳科学的な一言",
       zh: "成功惯例的脑科学建议",
@@ -858,6 +881,7 @@ const translationData = {
       id: "Saran ilmiah saraf untuk rutinitas yang sukses"
     },
     cautionDesc: {
+      ko: "**하루의 몰입은 아침의 정교함에서 나옵니다**\\n\\n바쁜 아침 시간에 허둥지둥 준비해 출근하면 하루 종일 뇌는 어수선한 상태에서 헤어 나오지 못합니다. 베토벤처럼 단 5분만이라도 나를 위해 온전한 감각에 집중하는 정교한 아침 리추얼을 고수해 보세요. 뇌를 차분하게 동기화하고 정돈해 둔 상태에서 시작하는 하루는 집중력의 깊이 자체가 완전히 다릅니다.",
       en: "If you rush to get ready in the morning, your brain remains cluttered throughout the day. Like Beethoven, stick to a precise morning ritual of focusing on your senses for just 5 minutes. A day started with a calm, synchronized brain has a completely different depth of concentration.",
       ja: "忙しい朝の時間にバタバタと準備して出勤すると、一日中脳は雑然とした状態から抜け出せません。ベートーヴェンのように、たった5分だけでも自分のために温かい感覚に集中する精巧な朝のリチュアルを守ってみてください。脳を落ち着かせて同期化し、整えておいた状態で始める一日は、集中力の深さ自体がまったく異なります。",
       zh: "如果在忙碌的早晨手忙脚乱地准备出门，大脑一整天都会处于杂乱的状态。像贝多芬一样，坚持用仅仅5分钟的时间，专注于自我感官的精细清晨仪式吧。在平静、同步的大脑状态下开启的一天，其专注力的深度是完全不同的。",
@@ -897,6 +921,7 @@ const translationData = {
   },
   'churchill-afternoon-nap': {
     title: {
+      ko: "하루를 두 번으로 쪼개어 쓴 총리? 윈스턴 처칠의 오후 낮잠 루틴",
       en: "The Prime Minister Who Split the Day in Two? Winston Churchill's Afternoon Nap Routine",
       ja: "一日を二つに分割して使った首相？ウィンストン・チャーチルの午後昼寝ルーティン",
       zh: "把一天一分为二的首相？温斯顿·丘吉尔的午睡惯例",
@@ -907,6 +932,7 @@ const translationData = {
       id: "Perdana Menteri yang Membagi Hari Menjadi Dua? Rutinitas Tidur Siang Winston Churchill"
     },
     description: {
+      ko: "2차 세계대전 승리를 이끈 영국의 총리 윈스턴 처칠. 매일 오후 완전히 침대에 누워 취했던 낮잠의 힘과 뇌의 피로 물질을 청소하는 파워 냅(Power Nap) 실천법을 소개합니다.",
       en: "The British Prime Minister who led the victory in WWII, Winston Churchill. Learn about the power of the nap he took fully in bed every afternoon, and the Power Nap practice to clean the brain's fatigue.",
       ja: "第二次世界大戦の勝利を導いたイギリスの首相ウィンストン・チャーチル。毎日の午後に完全にベッドに横になって取った昼寝の力と、脳の疲労物質を掃除するパワーナップ(Power Nap)の実践法を紹介します。", // '掃除する'
       zh: "引领二战胜利的英国首相温斯顿·丘吉尔。了解他每天下午完全躺在床上度过的午睡力量，以及清除大脑疲劳物质的“强效午睡（Power Nap）”实践方法。",
@@ -917,6 +943,7 @@ const translationData = {
       id: "Perdana Menteri Inggris yang memimpin kemenangan dalam Perang Dunia II, Winston Churchill. Pelajari tentang kekuatan tidur siang yang dilakukannya di tempat tidur setiap sore, & latihan Power Nap."
     },
     authority: {
+      ko: "윈스턴 처칠 저 '제2차 세계대전 회고록' 및 NASA 우주비행사 파워냅 주의력 연구",
       en: "Winston Churchill's 'The Second World War' & NASA Astronaut Power Nap Study",
       ja: "ウィンストン・チャーチル 著『第二次世界大戦回顧録』＆ NASA 宇宙飛行士パワーナップ注意回復研究",
       zh: "温斯顿·丘吉尔著《第二次世界大战回忆录》及美国国家航空航天局(NASA)宇航员强效午睡注意力研究",
@@ -927,6 +954,7 @@ const translationData = {
       id: "Buku Winston Churchill 'The Second World War' & Penelitian Power Nap Astronot NASA"
     },
     intro: {
+      ko: "제2차 세계대전이라는 인류 역사상 전대미문의 위기 속에서 영국의 총리로서 강력한 대독일 항전을 지휘해 연합군의 최종 승리를 이끌고, 동시에 역사가이자 작가로서 웅장한 연설문과 저서들을 집필해 노벨 문학상까지 수상한 정치가 윈스턴 처칠. 매일 18시간이 넘는 가혹한 국정 업무와 전시 상황 보고 속에서도 그가 지치지 않고 지적 각성도를 최상으로 유지할 수 있었던 원동력은 무엇이었을까요? 🛌\\n\\n비결은 바로 매일 오후 가졌던 매우 독특하고 확고한 '낮잠 루틴'에 있었습니다. 처칠은 매일 오후 2시에서 2시 30분 사이가 되면 어김없이 모든 국무 보고를 중단하고, 침실로 들어가 옷을 완전히 벗고 누워 1~2시간 동안 아주 깊은 낮잠을 청했습니다. 전쟁 중에도 이 일과는 철저히 보장되었으며, 보좌진들은 낮잠 시간 동안 총리를 절대 깨우지 않는 것이 불문율이었습니다. 처칠은 낮잠 덕분에 하루를 '두 번의 독립된 아침을 지닌 하루'로 나누어 쓸 수 있게 되었다고 자부했습니다. 실제로 낮잠을 자고 일어난 후 밤샘 회의와 지휘를 새벽까지 맑은 정신으로 소화해 냈던 것입니다.\\n\\n오늘 BuildSelf에서는 처칠의 강력한 낮잠 뒤에 숨겨진 뇌과학적 진실과 현대인이 하루의 피로를 완전히 리셋할 수 있는 파워 냅(Power Nap) 실천법을 전해드립니다.\\n\\n\\n\\n\\n---",
       en: "Winston Churchill, the British Prime Minister during World War II who led the strong fight against Germany to secure the final victory of the Allies, and at the same time a historian and writer who won the Nobel Prize in Literature. How was he able to maintain his peak mental alertness without getting exhausted under the grueling state duties of over 18 hours a day? The secret lay in a very unique and firm 'nap routine' he had every afternoon. Every afternoon between 2:00 and 2:30 PM, Churchill stopped all state reports and went to his bedroom, undressed completely, and took a deep nap for 1 to 2 hours. This schedule was strictly protected even during the war. Churchill boasted that thanks to his nap, he was able to split the day into 'a day with two independent mornings.' Today, BuildSelf shares the neuroscientific truth behind Churchill's nap and the Power Nap practice for modern people to completely reset their fatigue.",
       ja: "第二次世界大戦という人類史上未曾有の危機の中で、イギリスの首相として強力なドイツ抗戦を指揮し、連合軍の最終的な勝利を牽引したウィンストン・チャーチル。毎日18時間を超える過酷な国政業務と戦況報告の中でも、彼が疲れることなく知的覚醒度を最上に維持できた原動力は何だったのでしょうか？秘訣は、毎日の午後に持っていた非常にユニークで確固たる「昼寝ルーティン」にありました。チャーチルは毎日午後2時から2時30分の間になると、例外なくすべての報告を中断し、寝室に入って服を完全に脱いで横になり、1〜2時間深い昼寝をしました。本日BuildSelfでは、脳の疲労物質を掃除するパワーナップ（Power Nap）の実践法を伝えます。",
       zh: "温斯顿·丘吉尔在第二次世界大战期间担任英国首相，领导同盟国取得了最终胜利，同时他也是诺贝尔文学奖获得者。在每天超过18小时的繁重国政业务和战况报告下，他是如何保持最顶峰的精神觉醒状态而不感到疲惫的？秘诀就在于他每天下午都有着非常独特且固定的“午睡惯例”。每天下午2点到2点30分之间，丘吉尔会无一例外地中断所有国政报告，回到卧室脱光衣服躺下，进行1到2小时的深度午睡。这一日程在战争期间也得到了严格保护。丘吉尔自豪地宣称，得益于午睡，他能把一天一分为二。今天，BuildSelf为您分享丘吉尔午睡背后的脑科学奥秘，以及现代人如何通过强效午睡完全重置疲劳。",
@@ -937,6 +965,7 @@ const translationData = {
       id: "Winston Churchill, Perdana Menteri Inggris selama Perang Dunia II yang memimpin perjuangan kuat melawan Jerman untuk memastikan kemenangan akhir Sekutu, & pada saat yang sama seorang sejarawan & penulis pemenang Hadiah Nobel Sastra. Bagaimana dia bisa menjaga kewaspadaan mental puncaknya tanpa kelelahan di bawah tugas-tugas negara yang melelahkan selama lebih dari 18 jam sehari? Rahasianya terletak pada rutinitas tidur siang yang sangat unik & kokoh yang dia lakukan setiap sore. Setiap sore antara pukul 14.00 & 14.30, Churchill menghentikan semua laporan negara & pergi ke kamar tidurnya, menanggalkan pakaian sepenuhnya, & tidur nyenyak selama 1 hingga 2 jam."
     },
     whyTitle: {
+      ko: "뇌의 찌꺼기를 청소하는 낮잠의 과학",
       en: "The Science of Napping: Clearing the Brain's Waste",
       ja: "脳の老廃物を掃除する昼寝の科学",
       zh: "清除大脑垃圾的午睡科学",
@@ -947,6 +976,7 @@ const translationData = {
       id: "Ilmu Tidur Siang: Membersihkan Kotoran Otak"
     },
     whyDesc: {
+      ko: "인간이 깨어 활동하는 동안 뇌세포 사이에는 아데노신(Adenosine)이라는 피로 물질이 끊임없이 축적됩니다. 아데노신이 일정량 이상 쌓이면 뇌는 인지 능력이 급격히 저하되고 정보 처리 속도가 느려집니다. \\n\\n오후 시간의 짧은 낮잠은 이 아데노신을 빠르게 분해하여 뇌 세포의 피로를 청소해 줍니다. 특히 20분 내외의 짧은 낮잠은 뇌가 깊은 수면 단계(NREM 3단계)에 빠지기 전에 깨어나도록 조율하기 때문에, 잠에서 깬 뒤 몸이 몽롱하고 무기력해지는 '수면 관성(Sleep Inertia)' 없이 곧바로 아침과 같은 수준의 고도의 경계력과 주의력을 복구해 줍니다. 처칠이 말한 '두 번의 하루'는 단순히 기분의 문제가 아닌, 실제로 뇌가 두 번 아침 각성 상태를 맞이했음을 보여주는 과학적 사실입니다.",
       en: "While humans are awake and active, a fatigue substance called adenosine constantly accumulates between brain cells. When adenosine accumulates above a certain level, the brain's cognitive ability drops sharply and information processing speed slows down. A short nap in the afternoon quickly decomposes this adenosine, clearing the fatigue of brain cells. In particular, a short nap of about 20 minutes is timed to wake up before the brain falls into deep sleep (NREM stage 3), so it restores high alertness and attention without 'sleep inertia' (the groggy state after waking up). The 'two days' Churchill mentioned is not just a feeling, but a scientific fact that the brain actually met morning alertness twice.",
       ja: "人が起きて活動する間、脳細胞の間にはアデノシン（Adenosine）という疲労物質が絶えず蓄積されます。アデノシンが一定量以上蓄積されると、脳は認知能力が急激に低下し、情報処理速度が遅くなります。午後の時間の短い昼寝は、このアデノシンを素早く分解して脳細胞の疲労を掃除してくれます。特に20分前後の短い昼寝は、脳が深い睡眠段階に陥る前に目覚めるように調整するため、睡眠慣性（Sleep Inertia）なしに、すぐに朝と同等の高度な警戒力と注意力を復旧してくれます。チャーチルが言った「二つの独立した朝」は、科学的な事実です。",
       zh: "当人类清醒并处于活动状态时，大脑细胞之间会不断积累一种名为腺苷（Adenosine）的疲劳物质。当腺苷积累到一定程度时，大脑的认知能力就会急剧下降，信息处理速度也会变慢。下午进行短暂的午睡可以迅速分解这种腺苷，清除脑细胞的疲劳。特别是20分钟左右的短时间午睡，可以让大脑在陷入深层睡眠（NREM第3阶段）之前醒来，因此能够恢复到像早晨一样高度的警觉性和注意力，而不会产生“睡眠惯性”（醒来后昏昏沉沉的状态）。丘吉尔所说的一天一分为二，是科学事实。",
@@ -1025,6 +1055,7 @@ const translationData = {
       }
     ],
     cautionTitle: {
+      ko: "성공적인 루틴을 위한 뇌과학적 한마디",
       en: "A brain-scientific word for a successful routine",
       ja: "効果的なルーティンのための脳科学的な一言",
       zh: "成功惯例的脑科学建议",
@@ -1035,6 +1066,7 @@ const translationData = {
       id: "Saran ilmiah saraf untuk rutinitas yang sukses"
     },
     cautionDesc: {
+      ko: "**낮잠은 시간 낭비가 아닌 집중력의 재충전입니다**\\n\\n오후에 집중력이 저하된 채로 책상 앞에 멍하게 앉아있는 시간은 생산성을 대폭 떨어뜨립니다. 그 비효율을 억지로 견디는 대신, 처칠처럼 단 20분의 완전한 파워 냅을 통해 오후 일과를 새로 시작할 에너지를 충전해 보세요. 뇌가 최적화되어 남은 하루를 완전히 새롭고 맑은 정신으로 몰입할 수 있게 됩니다.",
       en: "Sitting blankly at your desk in the afternoon with low concentration greatly reduces productivity. Instead of forcing yourself through that inefficiency, recharge your focus with a 20-minute power nap like Churchill. Your brain will be optimized, allowing you to immerse yourself in the rest of the day with a fresh and clear mind.",
       ja: "午後に集中力が低下したまま机の前にぼんやりと座っている時間は、生産性を大幅に低下させます。その非効率を無理に耐える代わりに、チャーチルのようにたった20分の完全なパワーナップを通じて、午後の日課を新しく始めるエネルギーを充電してみてください。脳が最適化され、残りの一日を完全に新しく澄んだ精神で没頭できるようになります。",
       zh: "下午在注意力低下的情况下呆坐在书桌前会大大降低工作效率。与其强迫自己忍受这种低效，不如像丘吉尔一样，通过短暂的20分钟强效午睡来重获专注力。你的大脑将得到优化，让你在接下来的时间里以清新、清醒的头脑全身心投入工作。",
@@ -1074,6 +1106,7 @@ const translationData = {
   },
   'hemingway-word-count': {
     title: {
+      ko: "매일 쓴 단어 수를 차트에 기록하며 스스로를 모니터링하기 (헤밍웨이 루틴)",
       en: "Writing While Tracking Your Daily Word Count: Ernest Hemingway's Self-Monitoring Habit",
       ja: "毎日の執筆単語数を記録する？アーネスト・ヘミングウェイの自己監視の習慣",
       zh: "每天记录写作字数？欧内斯特·海明威的自我监控习惯",
@@ -1084,6 +1117,7 @@ const translationData = {
       id: "Menulis Sembari Melacak Jumlah Kata Harian: Kebiasaan Pemantauan Diri Ernest Hemingway"
     },
     description: {
+      ko: "노벨상 수상 작가 어네스트 헤밍웨이가 매일 아침 자신의 글쓰기 단어 수를 기록했던 습관에 대해 알아봅니다.",
       en: "Nobel laureate Ernest Hemingway tracked his daily word counts on a wall chart. Learn how this psychological self-monitoring routine boosts long-term productivity.",
       ja: "ノーベル賞受賞者アーネスト・ヘミングウェイは毎日の単語数を壁の表に記録していました。この自己監視ルーティンが生産性を高める科学的理由を調べます。",
       zh: "诺贝尔奖得主欧内斯特·海明威在墙上的图表上记录他每天的写作字数。了解这种心理学自我监控惯例如何提升长期生产力。",
@@ -1094,6 +1128,7 @@ const translationData = {
       id: "Pemenang Nobel Ernest Hemingway melacak jumlah kata hariannya pada bagan dinding. Pelajari bagaimana rutinitas pemantauan diri psikologis ini meningkatkan produktivitas jangka panjang."
     },
     authority: {
+      ko: "어네스트 헤밍웨이의 Paris Review 인터뷰 (1958) 및 응용 행동 분석 학술지 (JABA)",
       en: "Ernest Hemingway's interview in The Paris Review (1958) & Journal of Applied Behavior Analysis",
       ja: "アーネスト・ヘミングウェイ『パリ・レビュー』インタビュー(1958) ＆ 応用行動分析学ジャーナル(Journal of Applied Behavior Analysis)",
       zh: "欧内斯特·海明威在《巴黎评论》的访谈(1958) 及应用行为分析期刊(Journal of Applied Behavior Analysis)",
@@ -1104,6 +1139,7 @@ const translationData = {
       id: "Wawancara Ernest Hemingway di The Paris Review (1958) & Jurnal Analisis Perilaku Terapan"
     },
     intro: {
+      ko: "《노인과 바다》, 《무기여 잘 있거라》 등으로 노벨 문학상과 퓰리처상을 동시에 수상한 미국의 대표적인 소설가 어네스트 헤밍웨이. 그의 간결하고 힘 있는 문체의 이면에는 매일 스스로를 철저히 기록하고 통제했던 전설적인 습관이 존재했습니다. 📝\\n\\n헤밍웨이는 매일 아침 글쓰기를 끝마칠 무렵, 자신이 그날 새로 쓴 단어의 개수를 세어 벽에 걸린 커다란 판지에 직접 적어 넣는 기록판(Progress Chart)을 사용했습니다. 이는 스스로에게 정직하기 위함이었으며, 하루의 노력이 시각적인 수치로 확인되어야 다음 날 다시 글을 쓸 수 있는 원동력이 생긴다고 믿었습니다. 그는 글이 아주 잘 풀리는 날도, 단 몇 마디만 겨우 적은 힘든 날도 있는 그대로의 숫자를 매일 빠짐없이 기록했습니다.\\n\\n오늘 BuildSelf에서는 헤밍웨이의 정량적 자기 기록 속에 숨겨진 과학적 이유와 현대인들이 일상에서 행동 생산성을 극대화하는 방법을 살펴봅니다.\\n\\n\\n\\n\\n---",
       en: "Ernest Hemingway, a master of modern American literature who won both the Nobel Prize and the Pulitzer Prize. Known for his minimalist, hard-boiled writing style, his daily discipline was equally legendary. He started writing early in the morning and, at the end of each session, counted and recorded his daily word count on a large chart on the wall. Today, BuildSelf explores the scientific reasons behind Hemingway's progress tracking and how you can apply self-monitoring to maintain daily momentum.",
       ja: "ノーベル賞とピューリッツァー賞を同時に受賞した、現代アメリカ文学の巨匠アーネスト・ヘミングウェイ。極限まで無駄を削ぎ落とした「ハードボイルド」な作風で知られる彼の、毎日の規律もまた伝説的でした。彼は早朝から執筆を始め、作業が終わるたびにその日書いた単語数を数え、壁に掛けた大きな表に記録しました。本日、BuildSelfではヘミングウェイの記録習慣の科学的根拠と、日常で自己監視を応用する方法を調べます。",
       zh: "欧内斯特·海明威是现代美国文学大师，曾荣获诺贝尔文学奖和普利策奖。他以极简、硬汉风格的文风闻名，而他每日的自律同样堪称传奇。他每天清晨便开始写作，在每次结束时，都会数出当天写作的字数，并记录在墙上的一张大图表上。今天，BuildSelf将带您探索海明威追踪进度背后的科学原理，以及您如何应用自我监控来保持每日的动力。",
@@ -1114,6 +1150,7 @@ const translationData = {
       id: "Ernest Hemingway, seorang maestro sastra Amerika modern yang memenangkan Hadiah Nobel dan Hadiah Pulitzer. Dikenal dengan gaya menulisnya yang minimalis dan lugas, disiplin hariannya juga legendaris. Dia mulai menulis pagi-pagi sekali and, di akhir setiap sesi, menghitung dan mencatat jumlah kata hariannya di bagan besar di dinding. Hari ini, BuildSelf mengeksplorasi alasan ilmiah di balik pelacakan kemajuan Hemingway."
     },
     whyTitle: {
+      ko: "자기 관찰과 도파민 분비의 심리학",
       en: "The Psychology of Self-Monitoring and Dopamine Release",
       ja: "自己監視の心理学とドパミンの放出",
       zh: "自我监控的心理学与多巴胺释放",
@@ -1124,6 +1161,7 @@ const translationData = {
       id: "Psikologi Pemantauan Diri dan Pelepasan Dopamin"
     },
     whyDesc: {
+      ko: "목표 행동에 대한 정량적인 기록과 모니터링은 심리학에서 '자기 관찰(Self-Monitoring)' 효과로 불립니다.\\n\\n우리의 뇌는 행동의 결과가 정량적으로 시각화될 때 즉각적인 피드백을 인식하고 도파민을 분비합니다. 매일 스스로의 수행량을 정직하게 기록하는 행동은 모호했던 노력을 시각적 성취로 바꾸어주며, 이를 통해 다음 단계로 나아갈 수 있는 강력한 내재적 동기를 제공합니다. 헤밍웨이는 이 도파민 피드백 루프를 직관적으로 활용하여 매일 흔들림 없는 집필량을 유지할 수 있었습니다.",
       en: "Tracking your progress quantitatively triggers a cognitive process known in psychology as 'Self-Monitoring.' By visualizing daily output, the brain receives immediate feedback, triggering small releases of dopamine. This visual evidence of progress acts as a powerful intrinsic motivator, transforming vague efforts into structured accomplishments and boosting long-term behavioral consistency.",
       ja: "進捗を定量的に追跡することは、心理学で「自己監視(Self-Monitoring)」と呼ばれる認知プロセスを刺激します。毎日の成果を視覚化することで、脳は即座にフィードバックを受け取り、微量のドパミンを放出します。この視覚的な進捗の証拠は、強力な内的動機付けとして働き、曖昧な努力を構造化された成果へと変換し、長期的な行動の継続性を高めます。",
       zh: "定量追踪你的进度会触发心理学上称为“自我监控（Self-Monitoring）”的认知过程。通过将每日的产出可视化，大脑会收到即时反馈，从而触发微量多巴胺的释放。这种可见的进度证据可作为强大的内在驱动力，将模糊的努力转化为结构化的成就，并提升长期的行为一致性。",
@@ -1202,6 +1240,7 @@ const translationData = {
       }
     ],
     cautionTitle: {
+      ko: "성공적인 루틴을 위한 행동과학적 한마디",
       en: "A behavioral-scientific word for a successful routine",
       ja: "効果的なルーティンのための行動科学的な一言",
       zh: "成功惯例的行为科学建议",
@@ -1212,6 +1251,7 @@ const translationData = {
       id: "Saran ilmiah perilaku untuk rutinitas yang sukses"
     },
     cautionDesc: {
+      ko: "\\n  <div>\\n    <p class='text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed'>\\n      모호한 노력은 모호한 결과로 이어집니다. 자신의 행동을 구체적인 숫자로 관찰하기 시작할 때, 뇌는 비로소 정직한 자기 통제를 발휘하기 시작합니다. 숫자의 크기에 상관없이 매일 기록판에 흔적을 남기며 목표의 끈을 유지해 보세요.\\n    </p>",
       en: "Vague efforts lead to vague results. When you start tracking your actions with exact numbers, your brain gains objective self-awareness. Even on days when your numbers are low, the simple act of writing them down preserves your connection to the habit and prevents you from giving up. Track your progress daily and let the numbers guide your consistency.",
       ja: "曖昧な努力は曖昧な結果を招きます。正確な数値で行動を追跡し始めると、脳は客観的な自己認識を得ます。数値が低い日であっても、単に記録する行為そのものが習慣とのつながりを維持し、挫折を防ぎます。毎日進捗を追跡し、数値に継続性を導かせてください。",
       zh: "模糊的努力会导致模糊的结果。当你开始用确切的数字追踪自己的行为时，你的大脑就会获得客观的自我意识。即使在数字偏低的日子里，仅仅是写下它们这一简单的动作也能维持你与习惯的联结，防止你放弃。每天追踪你的进度，让数字指引你的坚持。",
@@ -1769,6 +1809,7 @@ const translationData = {
           "faqs": [
               {
                   "question": {
+          "ko": "아인슈타인은 바이올린 연주 외에 다른 방식으로도 뇌를 리셋했나요?",
                       "ko": "아인슈타인은 바이올린 연주 외에 다른 방식으로도 뇌를 리셋했나요?",
                       "en": "Did Einstein reset his brain in other ways besides playing the violin?",
                       "ja": "アインシュタインはバイオリン演奏以外にどのように脳をリセットしましたか？",
@@ -1780,6 +1821,7 @@ const translationData = {
                       "id": "Apakah Einstein mereset otaknya dengan cara lain selain bermain biola?"
                   },
                   "answer": {
+          "ko": "네, 아인슈타인은 연구 도중 정기적으로 요트를 타고 바다로 나가 바람을 느끼며 명상을 하거나, 하루 10시간 이상 충분한 수면을 통해 잠재의식이 문제를 정리할 수 있도록 도왔습니다.",
                       "ko": "네, 아인슈타인은 연구 도중 정기적으로 요트를 타고 바다로 나가 바람을 느끼며 명상을 하거나, 하루 10시간 이상 충분한 수면을 통해 잠재의식이 문제를 정리할 수 있도록 도왔습니다.",
                       "en": "Yes, Einstein regularly went sailing on the sea to feel the wind and meditate, or slept for over 10 hours a day to allow his subconscious to organize complex problems.",
                       "ja": "はい、アインシュタインは研究の合間に定期的にヨットに乗って海に出て、風を感じながら瞑想したり、1日10時間以上の十分な睡眠をとることで、無意識が課題を整理できるようにしました。",
@@ -1793,6 +1835,7 @@ const translationData = {
               },
               {
                   "question": {
+          "ko": "악기를 전혀 다룰 줄 모르는 사람도 이 루틴을 따라 할 수 있나요?",
                       "ko": "악기를 전혀 다룰 줄 모르는 사람도 이 루틴을 따라 할 수 있나요?",
                       "en": "Can someone who doesn't know how to play any instrument follow this routine?",
                       "ja": "楽器が全く弾けない人でもこのルーティンを実践できますか？",
@@ -1804,6 +1847,7 @@ const translationData = {
                       "id": "Bisakah seseorang yang tidak tahu cara bermain instrumen mengikuti rutinitas ini?"
                   },
                   "answer": {
+          "ko": "물론입니다. 악기를 직접 다루는 대신 클래식 음악에 집중하며 핑거 탭(손가락으로 리듬 타기)을 하거나, 심호흡을 하며 5분간 외부 자극을 완전히 차단하는 것만으로도 동일한 인지적 전환 효과를 낼 수 있습니다.",
                       "ko": "물론입니다. 악기를 직접 다루는 대신 클래식 음악에 집중하며 핑거 탭(손가락으로 리듬 타기)을 하거나, 심호흡을 하며 5분간 외부 자극을 완전히 차단하는 것만으로도 동일한 인지적 전환 효과를 낼 수 있습니다.",
                       "en": "Absolutely. Instead of playing an instrument, you can focus on classical music, do finger tapping to the rhythm, or simply practice deep breathing while blocking all external visual inputs for 5 minutes.",
                       "ja": "もちろんです。楽器を演奏する代わりにクラシック音楽に集中して指でリズムをとったり、5分間目をつぶって深呼吸し、外部の視覚刺激を完全に遮断するだけでも同様の認知切り替え効果を得られます。",
@@ -1824,6 +1868,7 @@ const translationData = {
       },
 'dali-spoon-nap': {
     title: {
+      ko: "생각의 막다른 길에서 바이올린을 켠 천재? 알베르트 아인슈타인의 리셋 루틴",
       en: "Napping While Holding a Spoon: Salvador Dalí's Brain Reset Technique",
       ko: "숟가락 하나로 우주를 그린 천재? 살바도르 달리의 뇌 리셋 낮잠",
       ja: "スプーンを握って昼寝する？サルバドール・ダリの脳リセット法",
@@ -1835,6 +1880,7 @@ const translationData = {
       id: "Tidur Siang Sembari Memegang Sendok: Teknik Reset Otak Salvador Dalí"
     },
     description: {
+      ko: "물리학의 패러다임을 바꾼 알베르트 아인슈타인. 연구 도중 생각이 꽉 막힐 때마다 바이올린을 연주했던 그의 독특한 뇌 리셋법과 현대인을 위한 3단계 인지 전환 실천법을 알아봅니다.",
       en: "Surrealist master Salvador Dalí captured artistic inspiration at the boundary of sleep and waking. Learn his cognitive reset routine and how you can boost creativity.",
       ko: "초현실주의 미술의 거장 살바도르 달리. 의자에 앉아 숟가락을 쥐고 선잠을 자다 깨어나며 기발한 예술적 아이디어를 포착했던 그의 독특한 뇌 리셋법과 현대인을 위한 창의성 리셋 루틴을 알아봅니다.",
       ja: "シュルレアリスムの巨匠サルバドール・ダリは、夢と覚醒の境界で芸術的ひらめきを捉えました。この自己監視ルーティンが創造性を高める理由を調べます。",
@@ -1846,6 +1892,7 @@ const translationData = {
       id: "Master surealis Salvador Dalí menangkap inspirasi artistik di batas antara tidur dan bangun. Pelajari rutinitas reset kognitifnya untuk meningkatkan kreativitas."
     },
     authority: {
+      ko: "알베르트 아인슈타인 전기 'Einstein: A Life' 및 Frontiers in Psychology 학술지",
       en: "Salvador Dalí's autobiography 'The Secret Life of Salvador Dalí' & Journal of Frontiers in Human Neuroscience",
       ko: "살바도르 달리 자서전 'The Secret Life of Salvador Dali' 및 Frontiers in Human Neuroscience 학술지",
       ja: "サルバドール・ダリ自伝『ダリの秘密の生涯』＆ Frontiers in Human Neuroscience 学術誌",
@@ -1857,6 +1904,7 @@ const translationData = {
       id: "Autobiografi Salvador Dalí 'The Secret Life of Salvador Dalí' & Jurnal Frontiers in Human Neuroscience"
     },
     intro: {
+      ko: "상대성 이론을 발표하여 현대 물리학의 패러다임을 통째로 바꾸고 인류가 우주를 이해하는 방식을 혁명적으로 변화시킨 역사상 가장 위대한 물리학자, 알베르트 아인슈타인. 20세기 최고의 천재로 손꼽히는 그의 기발하고 혁신적인 아이디어들은 과연 어디서 탄생했을까요? 🎻\\n\\n아인슈타인은 복잡한 물리학 방정식을 연구하던 중 수학적 계산이 막다른 길에 다다르거나 생각이 꽉 막혀 더 이상 진전이 없을 때, 책상에서 일어나 바이올린 활을 잡았습니다. 그는 그의 어머니로부터 물려받은 소중한 바이올린이자 애칭이 붙은 '리나(Lina)'를 연주했습니다. 그는 바이올린을 켜는 동안 머릿속의 복잡한 물리 법칙들을 완전히 내려놓고 음악의 선율과 리듬에 온전히 몰입했습니다. 신기하게도 연주를 마치고 나면, 무의식 속에서 해결되지 않던 물리 문제들의 돌파구와 영감이 벼락처럼 떠오르곤 했습니다.\\n\\n오늘 BuildSelf에서는 아인슈타인이 평생 실천했던 '바이올린 리셋' 루틴의 과학적 작동 원리와 현대인들이 창의적 문제 해결을 위해 이를 어떻게 활용할 수 있는지 알아봅니다.\\n\\n\\n\\n\\n---",
       en: "Salvador Dalí, a giant of surrealist art and one of the greatest creative minds of the 20th century. Where did the bizarre and whimsical inspirations in his works come from? When Dalí faced creative blocks or mental fatigue, he sat comfortably in a wooden chair and lightly held a metal spoon in one hand, placing a metal plate directly on the floor beneath it. Today, BuildSelf explores the science behind Dalí's spoon napping and how you can apply it to restore daily focus.",
       ko: "초현실주의 화가이자 20세기 최고의 천재 예술가로 불리는 살바도르 달리. 흘러내리는 시계, 허공에 뜬 방 등 그의 기발하고 기상천외한 작품 속 영감들은 대체 어디서 나왔을까요? 달리는 중요한 캔버스 작업을 하던 중 창의적인 아이디어가 고갈되거나 정신이 피로해질 때, 의자에 편안하게 기대어 앉아 한 손에 금속 숟가락을 가볍게 쥐었습니다. 그리고 숟가락 바로 아래 바닥에는 금속 접시를 두었습니다. 오늘 BuildSelf에서는 달리가 평생 실천했던 '숟가락 낮잠' 루틴의 과학적 원리와 현대인들이 창의적 집중력을 복원하기 위해 이를 어떻게 활용할 수 있는지 알아봅니다.",
       ja: "シュルレアリスムの画家であり、20世紀最高の天才芸術家サルバドール・ダリ。ぐにゃりと曲がった時計や宙に浮かぶ部屋など、奇想天外なひらめきはどこから生まれたのでしょうか？ダリは創作活動の合間に頭が疲れると、木製の椅子に腰掛け、片手に金属製のスプーンを軽く握りました。そして床のすぐ下に金属製のお皿を置いたのです。本日BuildSelfでは、ダリが実践した「スプーン昼寝」の科学的根拠を調べます。",
@@ -1868,6 +1916,7 @@ const translationData = {
       id: "Salvador Dalí, raksasa seni surealis dan salah satu pikiran kreatif terbesar di abad ke-20. Dari mana inspirasi aneh dalam karya-karyanya berasal? Ketika Dalí menghadapi hambatan kreatif, ia tidur dengan pakaian dan sepatu botnya selama berminggu-minggu. Hari ini, BuildSelf mengeksplorasi ilmu kognitif di balik ini."
     },
     whyTitle: {
+      ko: "뇌의 다른 영역을 깨우는 '인지적 전환'",
       en: "The Boundary of Sleep: Hypnagogia and Creative Flow",
       ko: "꿈과 의식의 경계인 '반수면 상태'의 뇌파 활용",
       ja: "夢と意識の境界：「半睡眠状態」の脳波の活用",
@@ -1879,6 +1928,7 @@ const translationData = {
       id: "Batas Tidur: Hipnagogia dan Aliran Kreatif"
     },
     whyDesc: {
+      ko: "우리가 하나의 복잡한 문제에 지나치게 몰입해 있으면, 뇌는 생각의 덫에 갇혀 특정 신경 회로만을 반복적으로 활성화합니다. 이를 인지 심리학에서는 '터널 시야(Tunnel Vision)' 또는 '생각의 과부하' 상태라고 부릅니다. \\n\\n아인슈타인이 행한 바이올린 연주는 이 과부하된 신경 회로를 즉각 차단하고 뇌의 다른 영역을 활성화하는 완벽한 **'인지적 전환(Cognitive Shifting)'**의 도구였습니다. 악기를 연주하는 행위는 시각, 청각, 촉각을 동시에 자극하며 좌뇌와 우뇌를 연결하는 뇌량(Corpus Callosum)을 강하게 자극합니다. 집착하던 문제로부터 물리적, 정신적으로 한 걸음 물러나 음악에 온전히 주의를 집중하는 순간, 뇌는 무의식 상태(Default Mode Network)로 접어들어 흩어져 있던 정보들을 창의적으로 결합하여 해답을 유도하는 '아하 모먼트(Aha! Moment)'를 만들어 냅니다.",
       en: "Entering the transition phase to sleep triggers 'Hypnagogia,' a state rich in theta waves. In this mental space, logical filters dissolve, allowing subconscious memories to blend freely. Dalí used the physical falling of the spoon to harvest these ephemeral creative states and instantly output them on canvas.",
       ko: "우리가 완전히 깊은 잠에 들기 직전의 과도기 단계를 뇌과학에서는 '반수면 상태(Hypnagogia)'라고 부릅니다. 이 상태에서 뇌는 고도의 이완 상태를 뜻하는 세타파(Theta waves)를 강하게 분출합니다. 세타파는 논리적 필터가 제거되고 기억 속의 이미지들이 자유롭게 결합하여 창의성이 극대화되는 뇌의 골든 타임입니다. 달리는 숟가락을 떨어뜨리는 신체 반응을 통해 이 찰나의 창의적 상태를 예술 작업으로 강제로 인양하는 혁신적인 기법을 습관화했던 것입니다.",
       ja: "完全に深い眠りに入る直前の過渡期を脳科学では「半睡眠状態(Hypnagogia)」と呼びます。この状態の脳はシータ波(Theta waves)を放出し、論理的なフィルターが排除されて記憶が自由に結びつきます。ダリはスプーンを落とす反射を通じて、この創造的状態を作品へと引き上げました。",
@@ -1890,6 +1940,7 @@ const translationData = {
       id: "Memasuki fase transisi ke tidur memicu 'Hypnagogia', keadaan yang kaya akan gelombang theta. Dalam ruang mental ini, filter logis larut, memungkinkan memori bawah sadar berbaur bebas. Dalí menggunakan jatuhnya sendok untuk memanen keadaan kreatif yang singkat ini."
     },
     cautionTitle: {
+      ko: "성공적인 루틴을 위한 뇌과학적 한마디",
       en: "Letting Go of Control Invites True Inspiration",
       ko: "집착을 버려야 새로운 영감이 찾아옵니다",
       ja: "執着を手放すことで新しいインスピレーションが生まれます",
@@ -1901,6 +1952,7 @@ const translationData = {
       id: "Melepaskan Kontrol Mengundang Inspirasi Nyata"
     },
     cautionDesc: {
+      ko: "**놓아주는 법을 알아야 새로운 아이디어가 보입니다**\\n\\n아인슈타인은 뛰어난 물리학자이자 훌륭한 바이올리니스트이기도 했습니다. 그에게 음악은 물리학 연구와 무관한 취미가 아니라, 오히려 뇌의 피로를 예방하고 창의적 영감을 깨우는 가장 강력한 생각의 윤활유였습니다. 아이디어가 막힐 때 더 억지로 매달리기보다 아인슈타인처럼 감각적 자극의 대상을 완전히 다르게 바꾸어 뇌가 리셋할 기회를 주세요.",
       en: "Dalí's spoon nap was an elegant mechanism to link the subconscious to artistic output. When blocked, instead of forcing analytical logic, gift your brain 5 minutes to release conscious control and reorganize.",
       ko: "달리의 숟가락 낮잠은 무의식을 예술적 영감으로 연결하는 가장 우아한 도구였습니다. 창작이나 비즈니스 플롯의 장벽에 부딪혔을 때, 머리를 쥐어짜며 억지로 붙들고 있기보다 5분간 의식의 통제를 내려놓고 뇌가 잠재력을 조율할 틈을 선물해 주세요.",
       ja: "ダリのスプーン昼寝は、無意識を芸術的なインスピレーションに繋ぐ洗練された仕組みでした。問題に行き詰まったら、論理で解決しようとせず、5分間だけコントロールを手放して脳に再整理する余白を与えてください。",
@@ -4298,7 +4350,20 @@ function run() {
     const updatedDateMatch = koContent.match(/updatedDate:\s*"([^"]+)"/);
     const updatedDate = updatedDateMatch ? updatedDateMatch[1] : null;
 
+    // koContent로부터 한글 STEP 명칭 및 본문 파싱 수집
+    const koSteps = [];
+    const stepRegex = /<h4[^>]*>([\s\S]*?)<\/h4>\s*<\/div>\s*<p[^>]*>([\s\S]*?)<\/p>/g;
+    let koMatch;
+    const koBodyParts = koContent.split('---').slice(2).join('---');
+    while ((koMatch = stepRegex.exec(koBodyParts)) !== null) {
+      koSteps.push({
+        name: koMatch[1].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim(),
+        text: koMatch[2].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim()
+      });
+    }
+
     languages.forEach(lang => {
+      if (lang === 'ko') return;
       const targetDir = pathModule.join(blogRoot, lang);
       const targetPath = pathModule.join(targetDir, `${blogSlug}.md`);
 
@@ -4306,18 +4371,37 @@ function run() {
         fs.mkdirSync(targetDir, { recursive: true });
       }
 
-      const title = data.title[lang] || data.title['en'] || data.title['ko'] || "";
-      const description = data.description[lang] || data.description['en'] || data.description['ko'] || "";
-      const authority = data.authority[lang] || data.authority['en'] || data.authority['ko'] || "";
-      const intro = data.intro[lang] || data.intro['en'] || data.intro['ko'] || "";
-      const whyTitle = data.whyTitle[lang] || data.whyTitle['en'] || data.whyTitle['ko'] || "";
-      const whyDesc = data.whyDesc[lang] || data.whyDesc['en'] || data.whyDesc['ko'] || "";
-      const cautionTitle = data.cautionTitle[lang] || data.cautionTitle['en'] || data.cautionTitle['ko'] || "";
-      const cautionDesc = data.cautionDesc[lang] || data.cautionDesc['en'] || data.cautionDesc['ko'] || "";
+      let title = data.title[lang] || data.title['en'] || "";
+      let description = data.description[lang] || data.description['en'] || "";
+      let authority = data.authority[lang] || data.authority['en'] || "";
+      let intro = data.intro[lang] || data.intro['en'] || "";
+      let whyTitle = data.whyTitle[lang] || data.whyTitle['en'] || "";
+      let whyDesc = data.whyDesc[lang] || data.whyDesc['en'] || "";
+      let cautionTitle = data.cautionTitle[lang] || data.cautionTitle['en'] || "";
+      let cautionDesc = data.cautionDesc[lang] || data.cautionDesc['en'] || "";
+
+      if (lang === 'ko') {
+        const fmTitleMatch = koContent.match(/title:\s*"([^"]+)"/);
+        title = fmTitleMatch ? fmTitleMatch[1] : title;
+
+        const fmDescMatch = koContent.match(/description:\s*"([^"]+)"/);
+        description = fmDescMatch ? fmDescMatch[1] : description;
+
+        const fmAuthMatch = koContent.match(/authority:\s*"([^"]+)"/);
+        authority = fmAuthMatch ? fmAuthMatch[1] : authority;
+
+        // 인트로 추출 및 HTML 찌꺼기 제거
+        const introMatch = koBodyParts.match(/^([\s\S]*?)##\s+1\./);
+        if (introMatch) {
+          intro = introMatch[1].trim();
+          intro = intro.replace(/<div class="my-8 p-6 rounded-\[2rem\].*?<\/div>/s, '').trim();
+          intro = intro.replace(/<div[\s\S]*?<\/div>/g, '').replace(/<\/div>/g, '').replace(/<div[^>]*>/g, '').trim();
+        }
+      }
 
       const rawTags = lang === 'en' 
         ? ["Great Habits", blogSlug.split('-')[0], "Routine", "Stamina"]
-        : [data.title[lang] ? data.title[lang].substring(0, 10) : "Routine", "Routine"];
+        : [title ? title.substring(0, 10) : "Routine", "Routine"];
       const tags = JSON.stringify(rawTags);
 
       const steps = [];
@@ -4336,8 +4420,13 @@ function run() {
 
       data.steps.forEach((step, idx) => {
         const stepIdx = idx + 1;
-        const sName = step.name[lang] || step.name['en'] || step.name['ko'] || "";
-        const sText = step.text[lang] || step.text['en'] || step.text['ko'] || "";
+        let sName = step.name[lang] || step.name['en'] || "";
+        let sText = step.text[lang] || step.text['en'] || "";
+
+        if (lang === 'ko' && koSteps[idx]) {
+          sName = koSteps[idx].name;
+          sText = koSteps[idx].text;
+        }
 
         steps.push({ name: sName, text: sText });
 
