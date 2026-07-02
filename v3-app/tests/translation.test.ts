@@ -388,6 +388,77 @@ describe('UI 번역 사전(ui.ts) 구조 및 정합성 검증', () => {
       });
     });
   });
+
+  locales.forEach((locale) => {
+    if (locale === 'ko') return;
+
+    it(`[${locale.toUpperCase()}] UI 번역 사전(locales/${locale}.json)에 한글(번역 누출)이 포함되어 있지 않아야 한다`, () => {
+      const filePath = path.join(__dirname, `../src/i18n/locales/${locale}.json`);
+      const rawContent = fs.readFileSync(filePath, 'utf-8');
+      const hasKorean = /[\uAC00-\uD7A3\u3130-\u318F]/g.test(rawContent);
+      expect(hasKorean, `오류: UI [${locale}] 사전에 번역되지 않은 한글이 포함되어 있습니다.`).toBe(false);
+    });
+  });
+});
+
+// ========================================================
+// 검증 3.5: 스토어셀프(StoreSelf) 번역 사전 구조 및 정합성 검증
+// ========================================================
+describe('StoreSelf 번역 사전 구조 및 정합성 검증', () => {
+  const storeselfDir = path.join(__dirname, '../src/i18n/locales/storeself');
+  const locales = ['en', 'ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'];
+
+  const getStoreSelfKeys = (locale: string) => {
+    const filePath = path.join(storeselfDir, `${locale}.json`);
+    const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    const keys: string[] = [];
+    const flatten = (obj: any, prefix = '') => {
+      Object.keys(obj).forEach(key => {
+        if (prefix === '' && (key === 'indexSource' || key === 'detailSource')) {
+          return;
+        }
+        const val = obj[key];
+        const newKey = prefix ? `${prefix}.${key}` : key;
+        if (typeof val === 'object' && val !== null && !Array.isArray(val)) {
+          flatten(val, newKey);
+        } else {
+          keys.push(newKey);
+        }
+      });
+    };
+    flatten(content);
+    return { keys, content };
+  };
+
+  const defaultLocale = 'en';
+  const { keys: defaultKeys } = getStoreSelfKeys(defaultLocale);
+
+  locales.forEach((locale) => {
+    if (locale === defaultLocale) return;
+
+    it(`[${locale.toUpperCase()}] StoreSelf 번역 키 리스트가 기본 언어(${defaultLocale})와 완전히 일치해야 한다`, () => {
+      const { keys: localeKeys } = getStoreSelfKeys(locale);
+
+      // 1. 누락된 번역 키 검출
+      defaultKeys.forEach(key => {
+        expect(localeKeys, `오류: StoreSelf ui.${locale} 사전에 번역 키 "${key}"가 누락되었습니다.`).toContain(key);
+      });
+
+      // 2. 미사용/잘못 정의된 번역 키 검출
+      localeKeys.forEach(key => {
+        expect(defaultKeys, `오류: StoreSelf ui.${locale} 사전에 기본 언어(${defaultLocale})에 없는 잘못된 키 "${key}"가 정의되어 있습니다.`).toContain(key);
+      });
+    });
+
+    if (locale !== 'ko') {
+      it(`[${locale.toUpperCase()}] StoreSelf 번역 사전(locales/storeself/${locale}.json)에 한글(번역 누출)이 포함되어 있지 않아야 한다`, () => {
+        const filePath = path.join(storeselfDir, `${locale}.json`);
+        const rawContent = fs.readFileSync(filePath, 'utf-8');
+        const hasKorean = /[\uAC00-\uD7A3\u3130-\u318F]/g.test(rawContent);
+        expect(hasKorean, `오류: StoreSelf [${locale}] 사전에 번역되지 않은 한글이 포함되어 있습니다.`).toBe(false);
+      });
+    }
+  });
 });
 
 // ========================================================
