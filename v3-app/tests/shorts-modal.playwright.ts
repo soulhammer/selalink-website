@@ -16,13 +16,14 @@ test.describe('메인 홈페이지 쇼츠 비디오 모달 연동 검증', () =>
     const cardText = await firstShortCard.locator('span').textContent() || '';
     const isBuildSelf = cardText.toUpperCase().includes('BUILDSELF');
     await firstShortCard.click();
-    await page.waitForTimeout(500);
 
     // 2. 모달이 정상적으로 나타났는지 및 iframe src가 자동재생 URL로 채워졌는지 검사
     const modal = page.locator('#shorts-modal');
     await expect(modal).not.toHaveClass(/hidden/);
 
     const iframe = page.locator('#shorts-iframe');
+    await expect(iframe).toHaveAttribute('src', /youtube\.com\/embed/);
+    
     const iframeSrc = await iframe.getAttribute('src');
     expect(iframeSrc).toContain('autoplay=1');
     expect(iframeSrc).toContain('https://www.youtube.com/embed/');
@@ -40,11 +41,9 @@ test.describe('메인 홈페이지 쇼츠 비디오 모달 연동 검증', () =>
 
     // 4. 모달 닫기 버튼 클릭
     await page.click('#close-shorts-btn');
-    await page.waitForTimeout(500);
 
     // 5. 모달이 다시 감춰졌는지 및 소리 계속 재생 현상을 막기 위해 iframe src가 비워졌는지 최종 검사
     await expect(modal).toHaveClass(/hidden/);
-    const resetSrc = await iframe.getAttribute('src');
-    expect(resetSrc).toBe('');
+    await expect(iframe).toHaveAttribute('src', '');
   });
 });
