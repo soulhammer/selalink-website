@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     牛肉表面渗出的血水和水分（血水）是产生肉腥味和细菌滋生的主要原因。在烹饪或储存前，用厨房纸巾用力按压牛肉，将表面水分彻底吸干。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/beef_storage_detail.png" alt="用厨房纸吸干表面血水 — 防异味与变质 🥩" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

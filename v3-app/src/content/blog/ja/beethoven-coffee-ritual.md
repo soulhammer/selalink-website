@@ -62,9 +62,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     豆を数えたりお茶を淹れたりする5分間は、スマートフォンの画面を絶対に見ず、ニュースや会話などの言語的刺激を遮断します。ただ指先の感覚、コーヒーの香り、お湯の落ちる音だけに極度に集中します。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="準備する5分間、外部刺激を完全に遮断する" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

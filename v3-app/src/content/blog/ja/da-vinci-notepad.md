@@ -62,9 +62,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     歩いているときや会話中に、興味深い企画アイデア、観察結果、印象深い文章などが浮かんだら、5秒以内にためらわずに、いくつかの単語やラフな一言で素早く紙の上に書き出します。「後で思い出したら書こう」という決意は、即座の忘却につながります。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="アイデアがひらめいた5秒以内に要点だけを記録する" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

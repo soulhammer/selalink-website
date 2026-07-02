@@ -61,9 +61,6 @@ Das menschliche Gehirn scannt die Umgebung ständig nach visuellen und auditiven
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Räumen Sie alle Gegenstände vom Schreibtisch, die nichts mit der aktuellen Aufgabe zu tun haben. Schalten Sie Ihr Smartphone aus und legen Sie es außer Sichtweite oder in einen anderen Raum.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/angelou_hotel_isolation_relax_detail.png" alt="Entfernen Sie alle visuellen und digitalen Ablenkungen" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

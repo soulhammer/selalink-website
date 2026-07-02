@@ -54,9 +54,6 @@ Comprender las características únicas de cada ingrediente y seguir el método 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Los aguacates duros y verdes deben conservarse a temperatura ambiente (15-20 °C). Ponerlos en una bolsa de papel con plátanos o manzanas acelerará su maduración gracias al gas etileno.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/avocado_storage_detail.png" alt="Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Conservación a Temp. Ambiente (5Días) 🥑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

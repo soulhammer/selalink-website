@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     오징어의 내장과 빨판의 이물질은 비린내와 세균 번식의 원인입니다. 몸통을 갈라 내장과 먹물주머니를 떼어내고, 다리 빨판의 흡착물들을 흐르는 물에 긁어내며 깨끗이 씻어줍니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/squid_storage_detail.png" alt="내장 및 빨판 이물질 완전 제거하기 — 비린내 차단 🦑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

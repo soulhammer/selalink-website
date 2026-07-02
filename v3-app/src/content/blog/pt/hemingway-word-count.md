@@ -61,9 +61,6 @@ Rastrear o seu progresso quantitativamente desencadeia um processo cognitivo con
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Use uma agenda de papel, um gráfico na parede ou uma folha de cálculo simples para anotar os números exatos todos os dias. Certifique-se de registar mesmo nos dias em que não esteve bem; a honestidade é fundamental.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/hemingway_word_count_relax_detail.png" alt="Registe os números honestamente num gráfico visual" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

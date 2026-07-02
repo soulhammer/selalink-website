@@ -62,9 +62,6 @@ Nuestro cerebro está más cerca de una CPU (unidad central de procesamiento) qu
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     La promesa de 'lo escribiré más tarde cuando lo piense' conduce al olvido inmediato. En el momento en que surja una idea interesante, observación o frase impresionante mientras caminas o hablas, escríbela rápidamente en papel en 5 segundos como unas pocas palabras o una oración rápida.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="Registrar puntos clave dentro de los 5 segundos de surgir la idea" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

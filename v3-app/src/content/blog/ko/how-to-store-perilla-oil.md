@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     들기름은 참기름과 달리 산패를 막아주는 세사몰 성분이 없고 오메가-3 지방산이 60% 이상 함유되어 있어 상온에 두면 금방 상합니다. 무조건 0~4℃ 냉장고에 보관하세요.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/perilla-oil_storage_detail.png" alt="무조건 냉장실 0~4℃ 보관하기 — 냉장 보관 (30일)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

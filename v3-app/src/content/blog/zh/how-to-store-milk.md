@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     冰箱门是开关时温度变动最剧烈的地方。为了保证牛奶的新鲜，应避免存放在门架上，而应放在冷气充足且温度稳定在0-4℃的冰箱内侧隔板上。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/milk_storage_detail.png" alt="切勿放在冰箱门架上 — 冷藏储存 (7天)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

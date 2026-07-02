@@ -62,9 +62,6 @@ Our brain is closer to a CPU (central processing unit) that processes and associ
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     The promise to 'write it down later when I think of it' leads to immediate forgetfulness. The moment an interesting idea, observation, or impressive sentence flashes while walking or talking, quickly jot it down on paper within 5 seconds as a few words or a rough sentence.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="Record key points within 5 seconds of an idea flashing" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

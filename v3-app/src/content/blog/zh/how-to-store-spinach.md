@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     菠菜叶片表面接触水分后很容易腐烂变粘。保存时应保持带泥干燥状态，用报纸或厨房纸巾轻轻包裹，防止闷出水汽导致腐烂。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/spinach_storage_detail.png" alt="不洗用报纸/厨房纸包裹 — 调控水分 📦" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

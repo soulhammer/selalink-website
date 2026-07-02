@@ -54,9 +54,6 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Enveloppez les oignons verts secs dans du papier journal et placez-les debout, racines vers le bas, dans un endroit frais. Les stocker verticalement imita leur croissance et prolonge leur vie.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/green-onions_storage_detail.png" alt="Envelopper non lavé dans du journal et stocker debout — Stockage à Temp. Ambiante (5Jours) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

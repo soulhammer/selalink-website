@@ -61,9 +61,6 @@ Berjalan dengan tempo teratur dalam waktu lama melepaskan endorfin yang menguran
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Tinggalkan ponsel cerdas Anda di saku dan jangan mendengarkan musik atau podcast. Keheningan diperlukan untuk membiarkan pikiran bawah sadar Anda muncul ke permukaan.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/tchaikovsky_two_hour_walk_relax_detail.png" alt="Putuskan sambungan sepenuhnya dari semua input digital" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

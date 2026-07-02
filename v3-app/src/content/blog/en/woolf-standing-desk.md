@@ -62,9 +62,6 @@ The habit of sitting and working for long hours slowly drains not only the healt
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     While standing, perform deep work that requires the highest level of logic and concentration, such as writing complex proposals, translating documents, or writing, rather than light email checks. The light tension of the body boosts the brain's processing speed.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="Arrange the heaviest and most creative core tasks" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

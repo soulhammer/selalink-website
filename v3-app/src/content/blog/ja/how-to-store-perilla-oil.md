@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     エゴマ油はごま油とは異なり, 酸化を防ぐセサモール成分が含まれておらず, オメガ3脂肪酸が60%以上も含まれているため, 常温に置くとすぐに傷んでしまいます。必ず0〜4℃の冷蔵庫で保存してください。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/perilla-oil_storage_detail.png" alt="必ず0〜4℃の冷蔵室に保存する — 冷蔵保存 (30日間)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

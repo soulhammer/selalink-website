@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     いかの内臓や吸盤についた汚れは, 生臭さや雑菌繁殖の原因になります。胴体を切り開いて内臓とイカスミ袋を取り除き, 足の吸盤についたイカの角質リングなどの汚れを流水でこすり落としながらきれいに洗います。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/squid_storage_detail.png" alt="内臓と吸盤の汚れを完全に除去する — 臭み防止 🦑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

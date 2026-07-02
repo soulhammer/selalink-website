@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     빵의 주성분인 밀가루 녹말은 1~6℃의 냉장실 온도에서 수분이 날아가고 분자 구조가 딱딱하게 결정화(노화)되어 푸석해집니다. 이 현상은 해동해도 촉촉함이 돌아오지 않습니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/bread_storage_detail.png" alt="냉장실 보관 절대 금지 — 전분의 급격한 노화(굳음) 방지 ❌🍞" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

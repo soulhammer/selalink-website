@@ -62,9 +62,6 @@ Das Schreiben eines Romans verbraucht extrem viel geistige Energie. Murakami tra
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Sie müssen nicht sofort 10 km laufen. Beginnen Sie damit, zu einer festen Zeit (z. B. nach der Arbeit um 20 Uhr) 20–30 Minuten locker zu laufen, und steigern Sie die distanz allmählich. Der Schlüssel ist nicht die Geschwindigkeit, sondern ein regelmäßiger Rhythmus.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/murakami_running_relax_detail.png" alt="Konzentration auf Regelmäßigkeit statt auf Distanz" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

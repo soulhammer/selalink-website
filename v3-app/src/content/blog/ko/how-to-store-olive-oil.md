@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     올리브유는 냉장실에 넣으면 하얗게 굳어 결정화되며, 이 과정이 반복되면 올리브유 본연의 고급스러운 풍미와 올레인산 등 영양 성분이 파괴됩니다. 반드시 14~18℃ 상온에 두세요.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/olive-oil_storage_detail.png" alt="냉장 보관 절대 금지 — 동결 현상 및 향 소실 예방 ❌❄️" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

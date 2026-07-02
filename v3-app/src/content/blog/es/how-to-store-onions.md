@@ -54,9 +54,6 @@ Comprender las características únicas de cada ingrediente y seguir el método 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Los cebollines con cáscara se conservan mejor en lugares secos y ventilados. Colocarlos individualmente en una red o media, haciendo nudos entre ellos y colgándolos, evita que se toquen y se ablanden.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/onions_storage_detail.png" alt="Cuelgue en un área fresca y ventilada con cáscara — Conservación a Temp. Ambiente (30Días)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

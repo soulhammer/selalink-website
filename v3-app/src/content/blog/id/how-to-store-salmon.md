@@ -54,9 +54,6 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Air dan minyak pada permukaan salmon mentah adalah penyebab utama bakteri berkembang biak. Tekan kedua sisi salmon dengan tisu dapur untuk mengeringkannya.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/salmon_storage_detail.png" alt="Lap bersih minyak dan air di permukaan — Penyimpanan Dingin (2Hari) 🍣" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

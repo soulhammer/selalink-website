@@ -54,9 +54,6 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Ungeschälte Zwiebeln gedeihen an schattigen, gut belüfteten Orten. Wenn man die Zwiebeln einzeln in ein Netz legt (Knoten dazwischen machen) und aufhängt, berühren sie sich nicht und faulen nicht.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/onions_storage_detail.png" alt="Ungeschält an einem kühlen, gut belüfteten Ort aufhängen — Lagerung bei Raumtemperatur (30Tage)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

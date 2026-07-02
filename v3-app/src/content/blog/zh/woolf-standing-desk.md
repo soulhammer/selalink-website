@@ -62,9 +62,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     在站立状态下，不要做简单的邮件检查，而是进行需要最高逻辑思维和专注力的深度工作（Deep Work），如撰写复杂的策划案、翻译文件、创作等。身体的微轻紧张感会提升大脑的运算速度。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="安排最繁重且最具创造力的核心任务" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

@@ -61,9 +61,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     デスクの上から現在の作業に関係のないアイテムを片付けます。スマートフォンは電源を切るか、見えない場所に置くか、別の部屋に移動させて環境的な引き金をなくします。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/angelou_hotel_isolation_relax_detail.png" alt="視覚的およびデジタルな雑音をすべて排除する" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

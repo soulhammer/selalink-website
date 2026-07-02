@@ -223,9 +223,9 @@ function startAutonomousWorkflow() {
   // 1.5. 지능형 과거 날짜 자율 배정 (Backdating) - 수동 스크립트로 분리됨
   // distributeBlogDates(slugArg);
 
-  // 2. 이미지 가공 연동 (최상단 heroImage 명칭 기반 보조 이미지명 유도)
-  const imageBaseName = slugArg.replace(/-/g, '_') + '_relax';
-  cropSubImage(imageBaseName);
+  // 2. 이미지 가공 연동 (최상단 heroImage 명칭 기반 보조 이미지명 유도) - 보조 이미지 제외 규격으로 인해 주석 처리
+  // const imageBaseName = slugArg.replace(/-/g, '_') + '_relax';
+  // cropSubImage(imageBaseName);
 
   // 3. 자가 치유 검증 수행
   runSelfHealingValidation();

@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     未成熟的硬牛油果应保存在15-20℃的常温下。放入纸袋中并与香蕉或苹果放在一起，它们释放的乙烯气体会加速熟化过程。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/avocado_storage_detail.png" alt="熟透前放入纸袋常温保存 — 常温储存 (5天) 🥑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

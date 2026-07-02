@@ -54,9 +54,6 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Spread a 1cm layer of sugar evenly at the bottom of an airtight container, cover it with 2–3 layers of paper towels, and place the peeled garlic inside. Sugar acts as a natural desiccant to absorb ambient moisture and keep the garlic dry.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/garlic_storage_detail.png" alt="Spread sugar and paper towels at the bottom of the container — Refrigerated Storage (14Days) 🪙" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

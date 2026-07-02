@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     皮付きの玉ねぎは, 日陰で風通しの良い場所が最適です。ネットやストッキングに玉ねぎを1個ずつ入れ, 間に結び目を作って吊るしておくと, 玉ねぎ同士が触れ合わず傷むのを防ぎます。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/onions_storage_detail.png" alt="皮付きのまま風通しの良い涼しい場所に吊るして保存 — 常温保存 (30日間)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

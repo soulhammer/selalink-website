@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     시금치는 잎 표면에 물기가 닿으면 쉽게 짓무르고 썩습니다. 흙이 묻은 상태 그대로 신문지나 키친타월에 가볍게 싸서 습기가 차는 것을 방지해 줍니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/spinach_storage_detail.png" alt="씻지 않고 신문지/키친타월로 감싸기 — 습기 조절 📦" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

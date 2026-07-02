@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     大葱保持干燥不洗，用报纸卷好，根部朝下竖立存放在阴凉通风处。大葱在直立状态下会认为自己仍在生长，从而有效延缓老化。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/green-onions_storage_detail.png" alt="不洗用报纸包裹竖立存放 — 常温储存 (5天) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

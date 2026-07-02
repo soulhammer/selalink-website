@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     견과류는 온도가 높고 습한 상온에 두면 지방 성분이 공기 중 산소와 만나 찌든 내가 나고 1급 발암 곰팡이독소인 아플라톡신(Aflatoxin)이 피어나기 쉬우므로 무조건 밀봉 냉장/냉동해야 합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/nuts_storage_detail.png" alt="개봉 후 무조건 밀봉하여 냉장/냉동실 보관 — 냉장 90일 및 냉동 180일" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

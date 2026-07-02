@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     소고기 표면의 핏물은 누린내와 미생물 번식의 가장 큰 원인입니다. 조리 및 보관 전에 키친타월로 소고기를 꾹꾹 눌러 표면의 핏물을 완전히 흡수시켜야 합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/beef_storage_detail.png" alt="키친타월로 핏물 완벽히 제거하기 — 잡내 및 부패 방지 🥩" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

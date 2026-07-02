@@ -54,9 +54,6 @@ Comprender las características únicas de cada ingrediente y seguir el método 
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     El almidón de la harina, principal componente del pan, se cristaliza (envejece) y se seca muy rápido a temperaturas de refrigeración (1-6 °C). Una vez que esto ocurre, el pan queda seco y duro, y calentarlo no le devolverá su textura.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/bread_storage_detail.png" alt="Nunca guarde en la zona de refrigeración — Evite que se reseque ❌🍞" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

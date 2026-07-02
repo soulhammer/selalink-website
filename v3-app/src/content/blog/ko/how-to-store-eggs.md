@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     계란 껍데기는 눈에 보이지 않는 수천 개의 기공이 있어 숨을 쉽니다. 물에 씻으면 외벽 보호막(큐티클)이 손상되어 세균(살모넬라 등)이 기공을 통해 내부로 바로 스며듭니다. 오염은 마른 수건으로 털어내기만 하세요.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/eggs_storage_detail.png" alt="절대 세척 금지 — 냉장 보관 (45일) 💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

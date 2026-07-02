@@ -62,9 +62,6 @@ Escribir una novela es una tarea que consume una energía mental extrema. Muraka
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Comienza corriendo suavemente durante 20 o 30 minutos a una hora fija (por ejemplo, a las 8 p. m. después del trabajo) y aumenta gradualmente la distancia. La clave no es la velocidad, sino inculcar un ritmo regular en tu cuerpo.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/murakami_running_relax_detail.png" alt="Concentrarse en la regularidad del tiempo antes que en la distancia" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

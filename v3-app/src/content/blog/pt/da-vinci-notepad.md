@@ -62,9 +62,6 @@ O nosso cérebro está mais próximo de uma CPU (unidade central de processament
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     A promessa de 'escrever mais tarde quando me lembrar' leva ao esquecimento imediato. No momento em que surgir uma ideia interessante, observação ou frase impressionante enquanto caminha ou fala, escreva-a rapidamente no papel em 5 segundos, como algumas palavras ou uma frase rápida.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="Registar pontos-chave dentro de 5 segundos após a ideia surgir" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

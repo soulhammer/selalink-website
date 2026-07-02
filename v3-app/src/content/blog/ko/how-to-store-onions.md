@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     껍질 양파는 그늘지고 바람이 잘 통하는 곳이 제격입니다. 못 쓰는 스타킹이나 그물망에 양파를 하나씩 넣고 매듭을 지어 매달아 두면 양파끼리 닿지 않아 물러지는 현상을 완벽 차단합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/onions_storage_detail.png" alt="껍질째 통풍이 잘되는 서늘한 곳에 매달아 보관하기 — 실온 보관 (30일)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

@@ -70,9 +70,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     尝试摆弄身边的简易手部乐器（如卡林巴琴、八孔竖笛、尤克里里，甚至指尖鼓）5分钟。如果没有乐器，闭上眼睛，播放一首无歌词的古典乐或爵士乐，将全部感官集中在旋律的流动和打击乐的节奏上，用手指轻轻打拍子。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/einstein_violin_thinking_relax_detail.png" alt="5分钟听觉与节奏专注仪式" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

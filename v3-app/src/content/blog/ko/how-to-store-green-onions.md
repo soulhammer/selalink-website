@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     수확한 대파는 물기를 묻히지 않은 채 신문지에 둘둘 싸서 그늘지고 서늘한 곳에 뿌리가 아래로 향하게 세워 둡니다. 대파가 서 있는 생장 상태를 인식하여 노화가 지연됩니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/green-onions_storage_detail.png" alt="씻지 않고 신문지에 싸서 세워 보관하기 — 실온 보관 (5일) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

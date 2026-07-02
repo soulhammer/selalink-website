@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     青色未熟的西红柿应放在15-20℃的常温避光处，将蒂头朝上摆放进行自然催熟。把未熟的西红柿放进冰箱会终止其熟化过程，导致果皮起皱、失去原本的风味。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/tomatoes_storage_detail.png" alt="熟透前务必存放在常温避光处 — 常温储存 (7天) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

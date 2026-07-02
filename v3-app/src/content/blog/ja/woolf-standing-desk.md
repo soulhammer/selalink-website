@@ -62,9 +62,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     肩を開き、視線が正面を向くようにモニターの高さを調節した後、最も集中を必要とする核心的な企画や執筆業務を開始します。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="最も重く、かつ創造的な核心の作業を配置する" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

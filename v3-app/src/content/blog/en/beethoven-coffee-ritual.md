@@ -62,9 +62,6 @@ Focusing on precise physical actions like counting small coffee beans is an exce
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     During the 5 minutes of preparing tea or counting beans, do not look at your smartphone screen and block verbal stimuli like news or conversation. Focus solely on physical sensations: the touch of the beans, the vibration of grinding, the sound of boiling water, and the aroma.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="Completely block external stimuli for 5 minutes of preparation" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

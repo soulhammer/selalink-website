@@ -61,9 +61,6 @@ Caminhar a um ritmo regular por um período prolongado liberta endorfinas que re
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Deixe o seu telemóvel no bolso e não ouça música nem podcasts. O silêncio é necessário para permitir que os seus pensamentos subconscientes subam à superfície.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/tchaikovsky_two_hour_walk_relax_detail.png" alt="Desligue-se completamente de todas as fontes digitais" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

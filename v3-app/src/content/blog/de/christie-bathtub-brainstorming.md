@@ -64,9 +64,6 @@ Das Einweichen in warmem Wasser erweitert die Blutgefäße und erhöht die Hirnd
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Essen Sie frische, knackige Snacks wie Äpfel. Kauen senkt Cortisol (Stresshormon) und stimuliert den präfrontalen Kortex.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/christie_bathtub_brainstorming_relax_detail.png" alt="Nutzen Sie Kaubewegungen und sensorische Reize" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

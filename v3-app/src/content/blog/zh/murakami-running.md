@@ -62,9 +62,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     不需要一开始就跑10公里。从每天早晨或固定时间（例如下班后的晚上8点）轻快地跑20-30分钟开始，然后逐渐增加距离。关键不在于速度，而在于给身体灌输一种规律的节奏。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/murakami_running_relax_detail.png" alt="专注于规律的时间而非距离" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

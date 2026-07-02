@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     带皮洋葱最适合存放在避光且通风良好的地方。将洋葱逐个放入网袋或干净网袜中，在每个洋葱之间打个结并悬挂起来，这样能防止洋葱相互接触挤压变烂。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/onions_storage_detail.png" alt="带皮悬挂在通风阴凉处 — 常温储存 (30天)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     냉장고 문은 열고 닫을 때마다 온도 변화가 가장 극심한 곳입니다. 유통기한을 지키려면 외부 공기 노출이 적고 온도가 항상 0~4℃로 일정하게 지켜지는 안쪽 깊은 선반에 보관해야 합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/milk_storage_detail.png" alt="냉장고 문 포켓 보관 금지 — 냉장 보관 (7일)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     冷蔵庫のドアポケットは, ドアの開閉のたびに最も温度変化が激しくなる場所です。牛乳を新鮮に保つためには, 温度が0〜4℃で安定している冷蔵庫の奥の棚に置いてください。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/milk_storage_detail.png" alt="冷蔵庫のドアポケット保存を避ける — 冷蔵保存 (7日間) ア" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

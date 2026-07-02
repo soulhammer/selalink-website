@@ -62,9 +62,6 @@ Lorsque nous sommes éveillés, une substance de fatigue appelée adénosine s'a
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Installez-vous confortablement et utilisez un masque ou des bouchons d'oreilles. Même si vous ne vous endormez pas profondément, le simple fait de fermer les yeux et de bloquer la lumière met le cortex visuel au repos, réduisant la fatigue.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/churchill_afternoon_nap_relax_detail.png" alt="Bloquer les informations visuelles et fermer les yeux" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

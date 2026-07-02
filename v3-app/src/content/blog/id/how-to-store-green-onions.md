@@ -54,9 +54,6 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Bungkus daun bawang kering yang belum dicuci dengan koran, lalu simpan dalam posisi tegak dengan akar di bawah di tempat yang sejuk. Menyimpan secara vertikal meniru posisi tumbuh alaminya sehingga lebih awet.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/green-onions_storage_detail.png" alt="Bungkus kering dengan koran lalu simpan tegak — Penyimpanan Suhu Ruang (5Hari) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

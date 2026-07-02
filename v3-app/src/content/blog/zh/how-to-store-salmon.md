@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     生三文鱼表面的水分和鱼油是细菌滋生的主要温床。储存前必须用厨房纸巾按压三文鱼的正反面，彻底吸干表面水分。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/salmon_storage_detail.png" alt="吸干表面油脂与水分 — 冷藏储存 (2天) 🍣" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

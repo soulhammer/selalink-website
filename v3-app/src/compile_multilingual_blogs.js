@@ -201,22 +201,23 @@ function run() {
         steps.push({ name: translatedName, text: translatedText });
 
         let imageHtml = '';
-        if (stepIdx === 1) {
-          const detailNames = [
-            `${ingId.replace(/-/g, '_')}_storage_detail.png`,
-            `${ingId}_storage_detail.png`,
-            `${blogSlug.replace('how-to-store-', '').replace(/-/g, '_')}_storage_detail.png`,
-            `${blogSlug.replace('how-to-store-', '')}_storage_detail.png`
-          ];
-          const foundName = detailNames.find(name => {
-            const checkPath = path.join(publicRoot, 'images', 'blog', name);
-            return fs.existsSync(checkPath);
-          });
-          if (foundName) {
-            const detailImgPath = `/images/blog/${foundName}`;
-            imageHtml = `\n  <div class="mt-6 flex justify-center">\n    <img src="${detailImgPath}" alt="${translatedName}" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />\n  </div>`;
-          }
-        }
+        // 보조 이미지 제외 규격으로 <img> 삽입 로직 제거
+        // if (stepIdx === 1) {
+        //   const detailNames = [
+        //     `${ingId.replace(/-/g, '_')}_storage_detail.png`,
+        //     `${ingId}_storage_detail.png`,
+        //     `${blogSlug.replace('how-to-store-', '').replace(/-/g, '_')}_storage_detail.png`,
+        //     `${blogSlug.replace('how-to-store-', '')}_storage_detail.png`
+        //   ];
+        //   const foundName = detailNames.find(name => {
+        //     const checkPath = path.join(publicRoot, 'images', 'blog', name);
+        //     return fs.existsSync(checkPath);
+        //   });
+        //   if (foundName) {
+        //     const detailImgPath = `/images/blog/${foundName}`;
+        //     imageHtml = `\n  <div class="mt-6 flex justify-center">\n    <img src="${detailImgPath}" alt="${translatedName}" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />\n  </div>`;
+        //   }
+        // }
 
         stepCards.push(renderIngredientsStepCard(dict.step, stepIdx, translatedName, translatedText, imageHtml));
       });

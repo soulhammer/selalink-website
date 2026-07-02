@@ -93,15 +93,15 @@ else:
 function run() {
   console.log('🔄 [개조 파이프라인] 기존 블로그 전수 진단 및 최신 규격 업그레이드 기동...');
 
-  // 1. 구형 수동 위인 8종 데이터 마이그레이션 도구 선제 실행
-  console.log('\n1️⃣ [마이그레이션] 구형 수동 위인 번역 사전 동적 마이그레이션 중...');
-  try {
-    const migrationOutput = execSync('node src/migrate_old_blogs.js', { cwd: path.join(__dirname, '..') }).toString();
-    console.log(migrationOutput.trim());
-  } catch (err) {
-    console.error('❌ [마이그레이션 실패] 구형 블로그 역공학 파싱 오류:', err.message);
-    process.exit(1);
-  }
+  // 1. 구형 수동 위인 8종 데이터 마이그레이션 도구 선제 실행 - 마이그레이션 완료되어 스크립트 제거됨
+  // console.log('\n1️⃣ [마이그레이션] 구형 수동 위인 번역 사전 동적 마이그레이션 중...');
+  // try {
+  //   const migrationOutput = execSync('node src/migrate_old_blogs.js', { cwd: path.join(__dirname, '..') }).toString();
+  //   console.log(migrationOutput.trim());
+  // } catch (err) {
+  //   console.error('❌ [마이그레이션 실패] 구형 블로그 역공학 파싱 오류:', err.message);
+  //   process.exit(1);
+  // }
 
   // 2. 전체 한국어 마크다운 파일을 읽고, 갭(결함)이 감지되는 포스트 목록을 100% 동적 추출
   console.log('\n2️⃣ [동적 갭 분석] 전체 마크다운 전수 무결성 스캔 및 진단...');
@@ -125,12 +125,10 @@ function run() {
     const filePath = path.join(koDir, file);
     const content = fs.readFileSync(filePath, 'utf-8');
 
-    // 결함 조건 판별: (1) 크롭 이미지 누락 또는 (2) FAQ 아코디언 UI 누락
-    // 반려동물 블로그는 크롭 이미지를 사용하지 않으므로 hasCroppedImage 검사를 통과한 것으로 처리
-    const hasCroppedImage = isPet ? true : content.includes('_detail.png');
+    // 결함 조건 판별: (1) FAQ 아코디언 UI 누락 (보조 이미지는 규격 제외되었으므로 검사하지 않음)
     const hasFaqAccordion = content.includes('자주 묻는 질문') || content.includes('FAQ') || content.includes('details class="group"');
 
-    if (!hasCroppedImage || !hasFaqAccordion) {
+    if (!hasFaqAccordion) {
       if (isStorage) {
         storageRetrofitTargets.push(slug);
       } else if (isPet) {
@@ -146,23 +144,23 @@ function run() {
   console.log(`   - 갭(결함) 감지된 식재료 보관 블로그 (${storageRetrofitTargets.length}개):`, storageRetrofitTargets);
   console.log(`   - 갭(결함) 감지된 반려동물 케어 블로그 (${petRetrofitTargets.length}개):`, petRetrofitTargets);
 
-  // 3. 동적으로 필터링된 위인 습관 대상 크롭 실행
-  console.log('\n3️⃣ [미디어 개조] 결함 감지된 위인 습관 이미지 크롭 실행...');
-  let habitCropped = 0;
-  habitRetrofitTargets.forEach(slug => {
-    const success = cropImageIfExist(slug, 'habit');
-    if (success) habitCropped++;
-  });
-  console.log(`   - 위인 습관 보조 크롭 가공률: ${habitCropped}/${habitRetrofitTargets.length}`);
+  // 3. 동적으로 필터링된 위인 습관 대상 크롭 실행 - 보조 이미지 제외 규격으로 비활성화
+  // console.log('\n3️⃣ [미디어 개조] 결함 감지된 위인 습관 이미지 크롭 실행...');
+  // let habitCropped = 0;
+  // habitRetrofitTargets.forEach(slug => {
+  //   const success = cropImageIfExist(slug, 'habit');
+  //   if (success) habitCropped++;
+  // });
+  // console.log(`   - 위인 습관 보조 크롭 가공률: ${habitCropped}/${habitRetrofitTargets.length}`);
 
-  // 4. 동적으로 필터링된 식재료 대상 크롭 실행
-  console.log('\n4️⃣ [미디어 개조] 결함 감지된 식재료 보관 이미지 크롭 실행...');
-  let storageCropped = 0;
-  storageRetrofitTargets.forEach(slug => {
-    const success = cropImageIfExist(slug, 'storage');
-    if (success) storageCropped++;
-  });
-  console.log(`   - 식재료 보관 보조 크롭 가공률: ${storageCropped}/${storageRetrofitTargets.length}`);
+  // 4. 동적으로 필터링된 식재료 대상 크롭 실행 - 보조 이미지 제외 규격으로 비활성화
+  // console.log('\n4️⃣ [미디어 개조] 결함 감지된 식재료 보관 이미지 크롭 실행...');
+  // let storageCropped = 0;
+  // storageRetrofitTargets.forEach(slug => {
+  //   const success = cropImageIfExist(slug, 'storage');
+  //   if (success) storageCropped++;
+  // });
+  // console.log(`   - 식재료 보관 보조 크롭 가공률: ${storageCropped}/${storageRetrofitTargets.length}`);
 
   // 5. 다국어 마크다운 빌더 동시 재기동 (모든 신형 껍데기 조립)
   console.log('\n5️⃣ [껍데기 업그레이드] 결함 식별 블로그 다국어 마크다운 일괄 재생성...');

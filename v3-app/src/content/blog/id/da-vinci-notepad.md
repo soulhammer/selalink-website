@@ -62,9 +62,6 @@ Otak kita lebih dekat ke CPU (central processing unit) yang memproses dan mengas
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Janji untuk 'menuliskannya nanti ketika saya memikirkannya' mengarah pada kelupaan segera. Saat ide menarik, pengamatan, atau kalimat mengesankan muncul saat berjalan atau berbicara, segera catat di kertas dalam waktu 5 detik sebagai beberapa kata atau kalimat kasar.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/da_vinci_notepad_relax_detail.png" alt="Catat poin-poin penting dalam waktu 5 detik setelah ide muncul" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

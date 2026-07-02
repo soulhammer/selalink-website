@@ -54,9 +54,6 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Cebolas com casca duram mais em locais sombreados e ventilados. Colocá-las individualmente em uma rede ou meia, dando nós entre cada uma e pendurando, evita o contato direto e o apodrecimento.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/onions_storage_detail.png" alt="Pendure em local fresco e ventilado com casca — Conservação em Temp. Ambiente (30Dias)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     蛋壳表面有数千个肉眼看不见的微小气孔以进行呼吸。用水清洗会破坏蛋壳外的天然保护膜（角质层），使沙门氏菌等外部细菌通过气孔轻易渗入蛋内。表面脏污只需用干布或纸巾擦掉即可。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/eggs_storage_detail.png" alt="切勿清洗鸡蛋 — 冷藏储存 (45天) 💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

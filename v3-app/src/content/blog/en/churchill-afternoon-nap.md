@@ -62,9 +62,6 @@ While humans are awake and active, a fatigue substance called adenosine constant
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Lean back in a comfortable chair or lie in bed, and use an eye mask or earplugs to minimize external stimuli. Even if you cannot fall into a deep sleep, just closing your eyes and blocking visual information puts the visual cortex into rest mode, greatly reducing cognitive fatigue.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/churchill_afternoon_nap_relax_detail.png" alt="Block visual information and close your eyes" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

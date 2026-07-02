@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     鱿鱼的内脏以及吸盘内的杂质是产生腥味和滋生细菌的源头。剖开鱼腹取出内脏和墨囊，在流水下揉搓清洗鱿鱼须，将吸盘内的污垢彻底抠洗干净。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/squid_storage_detail.png" alt="彻底清除内脏与吸盘杂质 — 防腥味 🦑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

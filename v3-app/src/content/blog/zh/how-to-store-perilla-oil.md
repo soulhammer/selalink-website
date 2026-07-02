@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     与芝麻油不同，苏子油中不含能防止变质的芝麻酚成分，且含有60%以上的欧米伽-3脂肪酸，放在常温下极易氧化酸败。请务必存放在0-4℃的冰箱中。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/perilla-oil_storage_detail.png" alt="务必存放在0-4℃的冷藏室中 — 冷藏储存 (30天)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

@@ -70,16 +70,16 @@ function run() {
       const steps = [];
       const stepCards = [];
 
-      // 1.6:1 와이드 크롭 이미지가 물리적으로 존재한다면 동적으로 stepImages 바인딩
-      let currentStepImages = data.stepImages;
-      if (!currentStepImages) {
-        const detailImgName = `${blogSlug.replace(/-/g, '_')}_relax_detail.png`;
-        const detailImgPath = `/images/blog/${detailImgName}`;
-        const checkPath = pathModule.join(__dirname, '../public', 'images', 'blog', detailImgName);
-        if (fs.existsSync(checkPath)) {
-          currentStepImages = ["", detailImgPath, ""];
-        }
-      }
+      // 1.6:1 와이드 크롭 이미지가 물리적으로 존재한다면 동적으로 stepImages 바인딩 - 보조 이미지 제외 규격으로 주석 처리
+      // let currentStepImages = data.stepImages;
+      // if (!currentStepImages) {
+      //   const detailImgName = `${blogSlug.replace(/-/g, '_')}_relax_detail.png`;
+      //   const detailImgPath = `/images/blog/${detailImgName}`;
+      //   const checkPath = pathModule.join(__dirname, '../public', 'images', 'blog', detailImgName);
+      //   if (fs.existsSync(checkPath)) {
+      //     currentStepImages = ["", detailImgPath, ""];
+      //   }
+      // }
 
       data.steps.forEach((step, idx) => {
         const stepIdx = idx + 1;
@@ -89,9 +89,10 @@ function run() {
         steps.push({ name: sName, text: sText });
 
         let imageHtml = '';
-        if (currentStepImages && currentStepImages[idx]) {
-          imageHtml = `\n  <div class="mt-6 flex justify-center">\n    <img src="${currentStepImages[idx]}" alt="${sName}" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />\n  </div>`;
-        }
+        // 보조 이미지 제외 규격으로 <img> 삽입 로직 제거
+        // if (currentStepImages && currentStepImages[idx]) {
+        //   imageHtml = `\n  <div class="mt-6 flex justify-center">\n    <img src="${currentStepImages[idx]}" alt="${sName}" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />\n  </div>`;
+        // }
 
         stepCards.push(renderStepCard(lang, stepIdx, sName, sText, imageHtml));
       });

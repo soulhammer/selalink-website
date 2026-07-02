@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     단단한 아보카도는 15~20℃ 상온에서 보관해야 합니다. 종이봉투에 넣어 바나나나 사과와 함께 두면 방출되는 에틸렌 가스가 숙성 속도를 빠르게 당겨줍니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/avocado_storage_detail.png" alt="완숙 전에는 종이봉투에 넣어 상온 보관 — 실온 보관 (5일) 🥑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

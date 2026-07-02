@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     초록빛이 도는 덜 익은 토마토는 15~20℃ 상온 그늘에서 꼭지가 위로 향하게 두어 자연 후숙시킵니다. 덜 익은 토마토를 냉장고에 넣으면 숙성이 멈추고 표면이 쭈글쭈글해지며 맛을 잃습니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/tomatoes_storage_detail.png" alt="완숙 전에는 무조건 꼭 상온 그늘 보관하기 — 실온 보관 (7일) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

@@ -54,9 +54,6 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Ao contrário do óleo de gergelim, o óleo de linhaça/perila não possui sesamol, um antioxidante natural, e contém mais de 60% de ômega-3, tornando-o propício à rancificação em temp. ambiente. Guarde sempre na geladeira (0-4 °C).
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/perilla-oil_storage_detail.png" alt="Armazene sempre na geladeira a 0–4 °C — Armazenamento Refrigerado (30Dias)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

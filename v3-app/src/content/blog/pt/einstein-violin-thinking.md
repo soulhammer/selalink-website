@@ -70,9 +70,6 @@ O violino de Einstein funcionava como uma ferramenta para uma perfeita 'mudança
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Tente tocar um instrumento manual leve (calimba, flauta, ukulele ou mesmo tambores de dedo) por 5 minutos. Se não tiver um instrumento, feche os olhos e ouça uma música instrumental clássica ou de jazz, concentrando-se na melodia e marcando o ritmo com os dedos.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/einstein_violin_thinking_relax_detail.png" alt="Ritual de 5 Minutos de Foco na Audição e no Ritmo" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

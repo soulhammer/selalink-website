@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     감자는 흙이 묻은 상태 그대로 보관해야 수명이 깁니다. 신문지나 종이봉투로 감싸주면 빛을 완전히 차단하여 감자가 초록색으로 변하고 솔라닌 독소가 생기는 것을 막아줍니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/potatoes_storage_detail.png" alt="씻지 않고 신문지/종이봉투 개별 포장하기 — 실온 보관 (45일) 📦" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

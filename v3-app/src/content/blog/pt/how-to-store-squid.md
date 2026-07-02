@@ -54,9 +54,6 @@ Comprender as características únicas de cada ingrediente e seguir o método de
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     As vísceras do lula e a sujeira das ventosas causam cheiro forte e bactérias. Abra o corpo, retire as vísceras e a bolsa de tinta, e lave os tentáculos em água corrente para remover as impurezas.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/squid_storage_detail.png" alt="Limpe vísceras e impurezas dos tentáculos — Evite cheiro forte 🦑" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

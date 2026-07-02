@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     버섯은 미세 기공이 가득해 스펀지처럼 물을 빨아들입니다. 씻어서 보관하면 버섯 내부의 조직이 붕괴되어 쫄깃한 식감과 독특한 향 성분이 다 날아갑니다. 요리 직전 가볍게 털기만 하세요.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/mushrooms_storage_detail.png" alt="절대 세척하지 않고 보관하기 — 수분 흡수 차단 ❌💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

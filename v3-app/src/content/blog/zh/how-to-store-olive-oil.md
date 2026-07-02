@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     橄榄油冷藏时会变白并凝固结晶，反复凝结和解冻会破坏橄榄油本来的高级风味以及油酸等营养成分。请务必存放在14-18℃的常温下。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/olive-oil_storage_detail.png" alt="切勿冷藏保存 — 防止结晶凝固与风味流失 ❌❄️" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

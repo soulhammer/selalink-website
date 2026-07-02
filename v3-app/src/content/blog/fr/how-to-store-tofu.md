@@ -54,9 +54,6 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     L'eau du paquet de tofu contient des protéines dissoutes, milieu propice aux bactéries. Jetez cette eau et rincez soigneusement le bloc de tofu sous l'eau froide du robinet avant stockage.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/tofu_storage_detail.png" alt="Jeter l'eau de l'emballage et rincer sous l'eau courante — Stockage Réfrigéré (7Jours) 🚿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

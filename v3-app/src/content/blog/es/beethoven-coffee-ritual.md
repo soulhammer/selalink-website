@@ -62,9 +62,6 @@ Concentrarse en acciones físicas precisas como contar granos de café es un exc
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Durante los 5 minutos de preparar el té o contar los granos, no mires la pantalla de tu teléfono y bloquea los estímulos verbales como las noticias o la conversación. Concéntrate únicamente en las sensaciones físicas.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="Bloquear completamente los estímulos externos durante 5 minutos de preparación" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

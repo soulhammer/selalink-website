@@ -58,9 +58,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     바나나를 바닥에 그냥 두면 자체 무게로 인해 아랫부분이 눌려 멍이 듭니다. 멍든 부위는 세포벽이 파괴되어 에틸렌 가스가 과다하게 분출되고 갈변이 가속화됩니다. 💡 보관 팁: 바나나 전용 걸이나 옷걸이에 매달아 공중에 띄워 보관하세요. 바나나는 나무에 매달려 있는 상태로 착각하여 눌림 없이 훨씬 오랫동안 단단함을 유지합니다. Hanging을 통해 자연 생장 환경을 그대로 모사해주는 원리입니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/bananas_storage_detail.png" alt="바나나 걸이(행거) 사용하기 — 실온 보관 (7일) 🍌" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

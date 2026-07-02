@@ -54,9 +54,6 @@ Understanding the unique characteristics of each ingredient and following the pr
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     The refrigerator door experiences the most severe temperature fluctuations whenever it is opened and closed. To preserve milk, keep it on the inner shelves of the refrigerator where the temperature is stable at 0–4°C.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/milk_storage_detail.png" alt="Do not store on the refrigerator door — Refrigerated Storage (7Days)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

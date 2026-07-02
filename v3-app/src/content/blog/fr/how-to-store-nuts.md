@@ -54,9 +54,6 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Les fruits secs contiennent beaucoup de lipides qui s'oxydent et rancissent à température ambiante chaude et humide. Ce milieu favorise aussi l'aflatoxine, une toxine cancérigène. Gardez-les fermés au froid.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/nuts_storage_detail.png" alt="Sceller et réfrigérer/congeler après ouverture — Réfrigéré 90 jours & Congelé 180 jours" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

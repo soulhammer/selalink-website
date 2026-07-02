@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     面包的主要成分小麦淀粉在1-6℃的冷藏温度下水分流失最快，分子结构会发生硬化（老化），使面包变得干硬多孔。这种变化即使重新加热也无法完全恢复松软。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/bread_storage_detail.png" alt="切勿放入冷藏室 — 防止淀粉迅速老化变干 ❌🍞" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

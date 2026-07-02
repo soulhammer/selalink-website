@@ -1,2 +1,2 @@
-import { ingredients } from '../ingredients';
+import { ingredients } from '../ingredients.ts';
 export const fruitIngredients = ingredients.filter(item => item.category === 'fruit');

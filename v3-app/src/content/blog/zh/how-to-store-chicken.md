@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     冲洗生鸡肉时，鸡肉表面携带的弯曲杆菌或沙门氏菌会随微小水珠飞溅到水槽周围50厘米内的餐具、刀具和砧板上。切勿用水清洗生鸡肉，建议直接用厨房纸巾吸干表面水分，或用沸水焯烫消毒。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/chicken_storage_detail.png" alt="切勿用水冲洗生鸡肉 — 防止水槽交叉污染 ❌💧" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

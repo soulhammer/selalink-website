@@ -62,9 +62,6 @@ L'habitude de rester assis de longues heures épuise lentement la santé mais au
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     En position debout, effectuez un travail de fond qui demande le plus haut niveau de logique et de concentration, comme rédiger des propositions complexes, traduire des documents ou écrire, plutôt que de vérifier vos e-mails. La légère tension stimule le cerveau.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="Planifier les tâches principales les plus complexes et créatives" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

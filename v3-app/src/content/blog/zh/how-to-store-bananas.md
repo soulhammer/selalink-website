@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     如果将香蕉直接平放在桌面上，下方的香蕉会因自身重力受压产生褐斑。受损部位释放更多乙烯并加速变黑。💡储存小贴士：用香蕉架或挂钩将香蕉悬空挂起。这能模拟香蕉在树上的自然生长环境，防止挤压，长久保持坚挺新鲜。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/bananas_storage_detail.png" alt="使用香蕉架悬挂保存 — 常温储存 (7天) 🍌" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

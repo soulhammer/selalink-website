@@ -70,9 +70,6 @@ Le violon d'Einstein était l'outil d'une parfaite 'bascule cognitive (Cognitive
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Essayez de jouer d'un instrument à main léger (kalimba, flûte, ukulélé, ou même pianoter avec les doigts) pendant 5 minutes. Sinon, fermez les yeux et écoutez un morceau instrumental de classique ou de jazz, concentrez vos sens sur la mélodie et marquez le rythme.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/einstein_violin_thinking_relax_detail.png" alt="Ritual de 5 Min d'Écoute et de Focus sur le Rythme" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

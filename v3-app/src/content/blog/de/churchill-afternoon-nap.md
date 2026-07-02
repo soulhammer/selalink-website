@@ -62,9 +62,6 @@ Während wir wach sind, reichert sich zwischen den Gehirnzellen ständig der mü
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Lehnen Sie sich in einem bequemen Stuhl zurück oder legen Sie sich ins Bett. Nutzen Sie eine Schlafmaske oder Ohrstöpsel. Selbst wenn Sie nicht tief einschlafen, entlastet das bloße Schließen der Augen die Sehrinde und mindert die Müdigkeit.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/churchill_afternoon_nap_relax_detail.png" alt="Visuelle Reize ausblenden und die Augen schließen" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

@@ -62,9 +62,6 @@ Langes Sitzen schadet nicht nur der Gesundheit, sondern schwächt auch die Konze
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Erledigen Sie im Stehen anspruchsvolle Aufgaben, die höchste Logik und Konzentration erfordern, wie das Schreiben von Konzepten oder Berichten, anstatt nur E-Mails zu checken. Die leichte körperliche Spannung erhöht die Verarbeitungsgeschwindigkeit des Gehirns.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/woolf_standing_desk_relax_detail.png" alt="Die anspruchsvollsten und kreativsten Aufgaben einplanen" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

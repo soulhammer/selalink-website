@@ -62,9 +62,6 @@ Haruki Murakami, un géant de la littérature japonaise moderne qui crée une se
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Il n'est pas nécessaire de courir 10 km dès le début. Commencez par trottiner 20 à 30 minutes à heure fixe (par exemple, à 20h après le travail) et augmentez progressivement la distance. L'important n'est pas la vitesse, mais d'installer un rythme régulier.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/murakami_running_relax_detail.png" alt="Se concentrer sur la régularité du temps plutôt que sur la distance" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

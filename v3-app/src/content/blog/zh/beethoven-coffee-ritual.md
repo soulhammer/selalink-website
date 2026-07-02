@@ -62,9 +62,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     在数咖啡豆或泡茶的5分钟内，绝对不要看手机屏幕，阻断新闻或谈话等言语刺激。只专注于手指尖 of 触觉、转动磨豆机时传到手心的振动、水开的声音以及散发出来的茶香/咖啡香。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/beethoven_coffee_ritual_relax_detail.png" alt="在准备的5分钟内彻底阻断外部刺激" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

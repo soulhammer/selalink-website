@@ -64,9 +64,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     スマホの通知やネットのタブ、雑音など注意を奪う外部刺激を物理的に遮断します。脳が唯一の対象にリソースを集中できる部屋を用意します。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/michelangelo_flow_relax_detail.png" alt="認知的な外部刺激の遮断(Deep Focus Zone)" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

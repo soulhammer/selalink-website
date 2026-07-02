@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     밀폐용기 바닥에 설탕을 1cm 두께로 고르게 깔고, 그 위에 키친타월을 2~3겹 덮은 뒤 깐 마늘을 담습니다. 설탕이 공기 중의 미세 습기를 빨아들이는 훌륭한 천연 제습제 역할을 하여 건조 상태가 오래 유지됩니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/garlic_storage_detail.png" alt="밀폐용기 바닥에 설탕과 키친타월 깔기 — 냉장 보관 (14일) 🪙" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

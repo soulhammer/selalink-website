@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     生鮭の表面にある水分や脂分は, 雑菌が繁殖する主な原因になります。保存する前に, ペーパーで鮭の表裏を軽く押さえて表面の水分を完全に拭き取ってください。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/salmon_storage_detail.png" alt="表面の脂分と水気を拭き取る — 冷蔵保存 (2日間) 🍣" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

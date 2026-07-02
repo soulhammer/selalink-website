@@ -54,9 +54,6 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     大ネギは水気をつけないまま新聞紙で包み、涼しい日陰に根を下にして立てて置きます。ネギが立っている生育環境を模倣することで, 劣化のスピードを遅らせることができます。
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/green-onions_storage_detail.png" alt="洗わずに新聞紙で包んで立てて保存する — 常温保存 (5日間) 🌿" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
