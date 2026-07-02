@@ -1,0 +1,512 @@
+{
+  "munchkin-care": {
+    "pubDate": "2026-05-31",
+    "updatedDate": "2026-05-31",
+    "locales": {
+      "en": {
+        "title": "Munchkin Cat Joint Protection Guide and 3-Step Low-Height Daily Routine",
+        "description": "Caring for the short-legged Munchkin cat. Learn how to identify early signs of joint discomfort and maintain their agility with a 3-step daily routine.",
+        "authority": "Cat Fanciers' Association (CFA) Munchkin Breed Standards and Veterinary Orthopedic Guidelines",
+        "profile": {
+          "breed": "Munchkin Cat",
+          "lifespan": "12 - 15 Years",
+          "sleep_pattern": "12 - 14 Hours (Polyphasic - Short Naps Throughout Day)",
+          "temperament": "Sweet, Outgoing, Playful, Gentle, Agile"
+        },
+        "intro": "Munchkin cats are famous for their sweet, outgoing nature and short, stubby legs. Although they are surprisingly active and agile, their shortened limbs mean they absorb higher impact forces on their spine and joints when jumping. Munchkins are genetically susceptible to Lordosis (curvature of the spine) and early-onset Osteoarthritis. Today, PetSelf decodes Munchkin body language indicating joint stress and outlines a 3-step daily routine to protect their spine and support long-term mobility.",
+        "whyTitle": "Munchkin Cat Expressions: Kangaroo Stand and Jumping Hesitation",
+        "whyDesc": "Because of their short legs, Munchkin cats have developed unique physical habits. They often sit upright on their hind legs like a rabbit or kangaroo ('kangaroo stand') to get a better view, which is safe but indicates curiosity. However, hesitating or refusing to jump onto familiar low surfaces is a critical warning sign of joint discomfort.",
+        "body_signals": [
+          {
+            "name": "Kangaroo Standing",
+            "meaning": "Standing on hindquarters with front paws tucked. A natural posture to extend their field of view due to short stature.",
+            "response": "Ensure the floor is carpeted or has non-slip mats so they do not slip and stress their hips while sitting back."
+          },
+          {
+            "name": "Jumping Hesitation or Reluctance",
+            "meaning": "Repeatedly pacing or looking up before a low leap, indicating joint pain or lack of confidence due to spinal strain.",
+            "response": "Avoid forcing them to jump, install low-step pet stairs to target areas, and consult a vet for joint assessment."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Mobility and Gait Check",
+            "text": "Observe their morning stretches. Check if they walk with a stiff gait or limp, especially in cold weather."
+          },
+          {
+            "name": "Afternoon: Low-Impact Play and Joint Protection",
+            "text": "Play on floor level using rolling balls or low toys. Avoid high-vertical toys that force high leaps or hard landings."
+          },
+          {
+            "name": "Evening: Grooming & Joint Health Supplementation",
+            "text": "Gently groom their back, as short legs make it hard for them to reach. Administer vet-approved joint supplements."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can Munchkin cats jump like normal cats?",
+            "answer": "They can jump onto chairs and sofas, but they cannot jump to extreme heights like refrigerators or high shelves. High jumps should be discouraged, as the landing shock can damage their joints."
+          },
+          {
+            "question": "Why is weight management critical for Munchkin cats?",
+            "answer": "Extra body weight places disproportionate pressure on their short limbs and long spine, accelerating joint wear and increasing disc hernia risks. Keep their weight optimal through strict feeding."
+          }
+        ],
+        "tags": [
+          "Munchkin Cat",
+          "Cat Joint Health",
+          "Spine Protection",
+          "Low Impact Play"
+        ]
+      },
+      "ja": {
+        "title": "マンチカン猫の関節保護ガイドと低位置3ステップ日常ルーチン",
+        "description": "短足のマンチカン猫のケア。関節の不調を示す警告サインを見極め、3ステップの日常ルーチンで健康的な動きを維持しましょう。",
+        "authority": "キャットファンシアーズアソシエーション（CFA）マンチカン基準および獣医整形外科ガイドライン",
+        "profile": {
+          "breed": "マンチカン (Munchkin Cat)",
+          "lifespan": "12 〜 15年",
+          "sleep_pattern": "12 〜 14時間 (多相性 - 1日の中で短い睡眠を繰り返す)",
+          "temperament": "愛らしい、社交的、遊び好き、穏やか、俊敏"
+        },
+        "intro": "短い手足と愛らしい性格で多くの人を魅了するマンチカン。非常に活発でよく走り回りますが、足が短いため、ジャンプ時の着地衝撃が背骨や関節に大きく伝わりやすい特徴があります。そのため、遺伝的に脊柱湾曲症（Lordosis）や早期の変形性関節症になりやすい傾向があります。今回は、マンチカンが見せる関節の不調シグナルを分析し、背骨を守り生涯の歩行能力をサポートする3ステップの日常ルーチンをご紹介します。",
+        "whyTitle": "マンチカン猫の感情表現：カンガルー立ちとジャンプの躊躇",
+        "whyDesc": "足の短いマンチカンは、独特なポーズを見せます。周囲を見渡すために後ろ足で直立する「カンガルー立ち」は好奇心の表れであり体に害はありません。しかし、今まで上れていた低い家具へのジャンプをためらったり諦めたりする行動は、関節や背骨に痛みを感じている危険なサインです。",
+        "body_signals": [
+          {
+            "name": "カンガルー立ち（後ろ足直立）",
+            "meaning": "短い体高を補うために、後ろ足と臀部でバランスを取り直立して視界を広げる自然な姿勢です。",
+            "response": "直立時に滑って股関節に負担がかからないよう、床には必ず滑り止めのマットを敷いておきます。"
+          },
+          {
+            "name": "ジャンプ時の躊躇（ためらい）",
+            "meaning": "低い場所に上る際にも何度も首を振ったり見上げたりして躊躇する動作で、関節の痛みを示すSOSです。",
+            "response": "無理に上らせず、ステップやペットスロープを置いて高低差を緩やかにし、動物病院で診察を受けてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：歩行状態と関節の柔軟性チェック",
+            "text": "朝起きた後の歩き方に不自然さがないか観察します。特に関節が硬くなりやすい寒い時期は、足をかばう仕草に注意します。"
+          },
+          {
+            "name": "昼：低位置での転がし遊び",
+            "text": "ジャンプを伴う上下運動を避け、床を転がるボールや低い位置で遊べるおもちゃを使い、足腰に負担をかけずに運動させます。"
+          },
+          {
+            "name": "夜：背中側のブラッシングと関節ケア",
+            "text": "足が短いため背中やお尻に舌が届きにくい傾向があります。ブラッシングで毛並みを整え、獣医師推奨のサプリメントを与えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "マンチカンは普通の猫のようにジャンプできますか？",
+            "answer": "椅子やソファーの上には問題なくジャンプできますが、背の高い冷蔵庫などの高所には上れません。関節保護のため、高い場所からの飛び降りは避ける工夫が必要です。"
+          },
+          {
+            "question": "マンチカンにとって体重管理が重要な理由は？",
+            "answer": "体重の増加は短い脚や背骨に直接負担をかけ、関節炎や椎間板ヘルニアを早期に誘発します。適切な給餌量によりスリムな体型を維持することが最善の予防です。"
+          }
+        ],
+        "tags": [
+          "マンチカン",
+          "猫の関節ケア",
+          "背骨の健康",
+          "低衝撃遊び"
+        ]
+      },
+      "zh": {
+        "title": "曼基康矮脚猫关节保护指南与低空间3阶段日常流程",
+        "description": "针对短腿曼基康猫（ Munchkin ）的护理。学习识别其早期关节疼痛信号，并通过低矮空间的3阶段日常流程守护其关节健康。",
+        "authority": "爱猫者协会 (CFA) 曼基康猫品种标准与兽医骨科健康指导原则",
+        "profile": {
+          "breed": "曼基康猫 (Munchkin Cat)",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "12 ~ 14小时 (多相性睡眠)",
+          "temperament": "甜美、开朗、顽皮、温和、敏捷"
+        },
+        "intro": "曼基康猫因其活泼温顺的个性和萌萌的短腿而受到广泛喜爱。虽然它们拥有极强的奔跑和闪避能力，但由于四肢较短，从高处跳下时，关节和脊椎承受的冲击力比普通猫要大得多。这使得它们极易遭受脊柱前凸（Lordosis）和早期关节炎的困扰。今天，PetSelf 将分析曼基康猫关节受损的焦虑信号，并分享保护脊椎和关节健康的3阶段低空间日常护理流程。",
+        "whyTitle": "矮脚猫的情感表达： kangaroo 站立与跳跃踌躇",
+        "whyDesc": "四肢偏短的曼基康猫拥有特殊的行为习惯。它们经常会像兔子一样仅用后肢和臀部支撑站立，被称为“袋鼠站立”，这是出于好奇观察环境。然而，如果它们在跳向平日轻松跨越的矮凳前表现出反复犹豫或最终放弃，这是关节受损的警告信号。",
+        "body_signals": [
+          {
+            "name": "袋鼠式站立 (Kangaroo Standing)",
+            "meaning": "仅靠后肢站立并将前爪收起。这是为了弥补身高不足、扩大视野的自然习性。",
+            "response": "确保站立区域的地板铺有防滑垫，防止其在后坐时打滑导致髋关节受压。"
+          },
+          {
+            "name": "跳跃前反复踌躇",
+            "meaning": "在跳跃前不停挪动脚步或抬头测量，说明脊椎或后肢关节正处于酸痛状态。",
+            "response": "切勿强迫其跳跃，在其常去的高处（如床、沙发）摆放宠物踏板，并寻求兽医帮助。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：观察步态与关节舒展状况",
+            "text": "观察其起床伸懒腰时的姿态。注意步伐是否有跛行或僵硬感，特别是降温天气。"
+          },
+          {
+            "name": "中午：低空式地毯滚动游戏",
+            "text": "避免强制攀高的逗引方式。使用在地面滚动的彩球、小老鼠玩具，提供低冲击性的健康活动。"
+          },
+          {
+            "name": "晚上：背部毛发辅助梳理与关节膳食营养",
+            "text": "由于身体结构原因，它们自我清理背部较吃力。帮其梳理毛发，并配合兽医建议补充软骨素。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "曼基康猫能和普通猫跳得一样高吗？",
+            "answer": "它们可以轻松跃上椅子或沙发，但很难跳上冰箱、高柜等高处。应尽量避免强迫其进行高空跳跃，着地冲击力会加速关节退化。"
+          },
+          {
+            "question": "为什么曼基康猫必须严格控制体重？",
+            "answer": "超重会对较短的骨骼结构施加过大压迫，容易引发软骨磨损和椎间盘变性。严格管理饮食，维持纤细的身材是重中之重。"
+          }
+        ],
+        "tags": [
+          "曼基康矮脚猫",
+          "猫关节炎预防",
+          "脊椎保护",
+          "宠物台阶"
+        ]
+      },
+      "es": {
+        "title": "Guía de protección articular del gato Munchkin y rutina de 3 pasos a baja altura",
+        "description": "Cuidado del gato Munchkin de patas cortas. Aprenda a identificar las señales de dolor en las articulaciones y proteja su movilidad.",
+        "authority": "Estándares de la Raza Munchkin de la Cat Fanciers' Association (CFA) y Directrices de Ortopedia Veterinaria",
+        "profile": {
+          "breed": "Gato Munchkin",
+          "lifespan": "12 ~ 15 años",
+          "sleep_pattern": "12 ~ 14 horas (polifásico: varias siestas cortas)",
+          "temperament": "Dulce, extrovertido, juguetón, gentil, ágil"
+        },
+        "intro": "Los gatos Munchkin son famosos por su carácter cariñoso y sus patitas extremadamente cortas. Aunque son gatos activos y rápidos, sus extremidades cortas absorben un impacto mucho mayor en la columna y articulaciones al saltar. Esto los hace predispuestos a la lordosis y a la artrosis temprana. Hoy, PetSelf analiza las señales físicas de incomodidad articular en el Munchkin y presenta una rutina de 3 pasos a baja altura para cuidar su movilidad a largo plazo.",
+        "whyTitle": "Expresiones del Munchkin: posición de canguro y dudas al saltar",
+        "whyDesc": "Debido a su baja estatura, el Munchkin adopta posturas singulares. Suelen sentarse sobre sus patas traseras ('posición de canguro') para ver mejor su entorno. Sin embargo, dudar o negarse a saltar a un mueble bajo es una señal de advertencia importante de que siente dolor en las articulaciones.",
+        "body_signals": [
+          {
+            "name": "Posición de canguro",
+            "meaning": "Sentarse erguido apoyando solo las patas traseras y la pelvis para ampliar su campo visual debido a sus patas cortas.",
+            "response": "Coloque alfombrillas antideslizantes para evitar que se resbale y sufra una lesión en la cadera."
+          },
+          {
+            "name": "Dudas al saltar o reluctancia",
+            "meaning": "Mirar fijamente hacia arriba y dudar repetidamente antes de realizar un salto bajo debido a molestias articulares.",
+            "response": "No lo obligue a saltar, coloque rampas o escalones para facilitarle el acceso a sofás o camas y consulte a un veterinario."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de la marcha y la movilidad",
+            "text": "Examine cómo camina al despertarse. Observe si tiene rigidez en las patas traseras, especialmente en días fríos."
+          },
+          {
+            "name": "Tarde: Juegos a nivel del suelo",
+            "text": "Juegue con pelotas o ratones de juguete que rueden por el suelo. Evite juguetes que le obliguen a dar saltos altos."
+          },
+          {
+            "name": "Noche: Aseo de la espalda y condroprotectores",
+            "text": "Cepille su espalda, ya que a veces no llega bien a asearse por sí solo. Suministre suplementos articulares recetados."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Pueden los gatos Munchkin saltar como los gatos normales?",
+            "answer": "Pueden saltar a la cama y a las sillas, pero no logran alcanzar zonas muy altas como neveras o estantes elevados. Evite que realicen saltos altos para proteger sus articulaciones del impacto."
+          },
+          {
+            "question": "¿Por qué es clave el peso en el Munchkin?",
+            "answer": "El exceso de peso multiplica la carga sobre sus extremidades cortas, acelerando el desgaste del cartílago y causando dolor. Su dieta debe ser controlada estrictamente."
+          }
+        ],
+        "tags": [
+          "Gato Munchkin",
+          "Salud Articular Felina",
+          "Cuidado de Columna",
+          "Rampas para Gatos"
+        ]
+      },
+      "fr": {
+        "title": "Guide de protection articulaire du Munchkin et routine de 3 étapes à faible hauteur",
+        "description": "Prendre soin du chat Munchkin aux pattes courtes. Apprenez à identifier les signes de douleur articulaire et préservez sa mobilité.",
+        "authority": "Standard du Munchkin de la Cat Fanciers' Association (CFA) et Directives d'Orthopédie Vétérinaire",
+        "profile": {
+          "breed": "Munchkin (Munchkin Cat)",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "12 ~ 14 heures (polyphasique : plusieurs siestes courtes)",
+          "temperament": "Doux, sociable, joueur, affectueux, agile"
+        },
+        "intro": "Les chats Munchkin séduisent par leur tempérament affectueux et leurs petites pattes courtes. S'ils sont agiles et joueurs, leur morphologie atypique expose leur colonne vertébrale et leurs articulations à des forces de choc plus intenses lors des atterrissages. Ils sont sujets à la lordose et à l'arthrose précoce. Aujourd'hui, PetSelf étudie le langage corporel lié à l'inconfort articulaire du Munchkin et propose une routine en 3 étapes pour sécuriser leur squelette et assurer leur mobilité.",
+        "whyTitle": "Signes d'inconfort du Munchkin : position de kangourou et hésitation au saut",
+        "whyDesc": "En raison de leurs pattes courtes, les Munchkins ont des habitudes posturales uniques. Se dresser sur leurs pattes arrière (position de kangourou) est une attitude naturelle pour observer. En revanche, hésiter de longues secondes ou refuser de sauter sur un meuble bas est un signal de douleur articulaire.",
+        "body_signals": [
+          {
+            "name": "Position du kangourou",
+            "meaning": "Se tenir droit sur ses pattes arrière pour élargir son champ de vision, un comportement courant pour compenser sa petite taille.",
+            "response": "Placez des tapis antidérapants pour éviter les glissades fatigantes pour ses hanches lors de cette posture."
+          },
+          {
+            "name": "Hésitation ou refus de sauter",
+            "meaning": "Le chat regarde en hauteur, piétine mais refuse de sauter, ce qui témoigne d'une douleur ou d'une fragilité articulaire.",
+            "response": "Ne le forcez jamais à sauter. Installez des rampes d'accès ou des petits escaliers et consultez un vétérinaire."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Observation de la démarche au réveil",
+            "text": "Vérifiez s'il s'étire correctement et s'il ne présente pas une démarche rigide ou boiteuse, notamment par temps humide."
+          },
+          {
+            "name": "Après-midi : Activités ludiques au sol",
+            "text": "Jouez avec des balles ou des jouets à faire rouler sur le sol. Évitez les plumeaux agités en l'air qui provoquent des sauts."
+          },
+          {
+            "name": "Soir : Aide au toilettage et compléments articulaires",
+            "text": "Brossez doucement son dos, car ses pattes courtes l'empêchent parfois de se toiletter correctement. Donnez-lui des protecteurs de cartilage."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Le Munchkin peut-il sauter comme les autres chats ?",
+            "answer": "Il peut grimper sur un lit ou une chaise mais ne peut pas sauter sur des meubles très hauts. Les sauts de grande hauteur doivent être limités pour préserver ses articulations."
+          },
+          {
+            "question": "Pourquoi surveiller le poids d'un Munchkin ?",
+            "answer": "Chaque gramme supplémentaire surcharge son squelette court, ce qui fatigue les articulations et favorise l'arthrose. Contrôlez scrupuleusement ses rations de nourriture."
+          }
+        ],
+        "tags": [
+          "Chat Munchkin",
+          "Arthrose Chat",
+          "Santé Articulaire Chien",
+          "Escalier pour Chat"
+        ]
+      },
+      "de": {
+        "title": "Munchkin-Katzen Gelenkschutz-Leitfaden und 3-Schritt-Niederflurroutine",
+        "description": "Pflege für die kurzbeinige Munchkin-Katze. Lernen Sie, Anzeichen von Gelenkbeschwerden zu erkennen und ihre Mobilität zu erhalten.",
+        "authority": "Munchkin-Rassenstandards der Cat Fanciers' Association (CFA) und Richtlinien der Tierärztlichen Orthopädie",
+        "profile": {
+          "breed": "Munchkin-Katze",
+          "lifespan": "12 ~ 15 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (polyphasisch - mehrere kurze Schläfchen)",
+          "temperament": "Liebenswert, kontaktfreudig, verspielt, sanft, flink"
+        },
+        "intro": "Munchkin-Katzen sind berühmt für ihr liebenswertes Wesen und ihre kurzen Beine. Obwohl sie erstaunlich aktiv sind, führt ihre Anatomie dazu, dass Stöße beim Springen stärker auf Wirbelsäule und Gelenke wirken. Sie neigen genetisch zu Lordose und früher Arthrose. Heute entschlüsselt PetSelf die Körpersprache von Munchkin-Katzen bei Gelenkstress und zeigt eine 3-Schritt-Niederflurroutine, um ihre Wirbelsäule zu schützen und ihre Mobilität langfristig zu sichern.",
+        "whyTitle": "Munchkin-Körpersprache: Känguru-Stand und Zögern vor Sprüngen",
+        "whyDesc": "Aufgrund ihrer kurzen Beine zeigen Munchkins ein besonderes Verhalten. Um eine bessere Aussicht zu haben, richten sie sich oft auf den Hinterbeinen auf ('Känguru-Stand'). Das Zögern oder die Weigerung, auf niedrige Möbel zu springen, ist jedoch ein ernstes Warnzeichen für Gelenkschmerzen.",
+        "body_signals": [
+          {
+            "name": "Känguru-Stand",
+            "meaning": "Aufrechtes Sitzen auf den Hinterbeinen. Ein natürliches Verhalten, um die geringe Körperhöhe beim Umschauen auszugleichen.",
+            "response": "Sichern Sie den Boden mit rutschfesten Matten, damit die Katze beim Sitzen nicht wegrutscht und die Hüfte belastet."
+          },
+          {
+            "name": "Zögern vor Sprüngen",
+            "meaning": "Wiederholtes Hin- und Herlaufen oder langes Hinaufsehen vor einem Sprung deutet auf Gelenkschmerzen hin.",
+            "response": "Zwingen Sie die Katze nicht zum Springen. Stellen Sie Tiertreppen auf und lassen Sie die Gelenke tierärztlich untersuchen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Gangbild- und Mobilitätskontrolle",
+            "text": "Beobachten Sie das Dehnungsverhalten nach dem Aufstehen. Achten Sie auf steifen Gang oder Schonen eines Beins."
+          },
+          {
+            "name": "Nachmittag: Gelenkschonendes Bodenspiel",
+            "text": "Spielen Sie flach auf dem Boden mit Bällen. Vermeiden Sie Spielzeug in der Luft, das hohe Sprünge oder harte Landungen provoziert."
+          },
+          {
+            "name": "Abend: Fellpflege & Gelenknährstoffe",
+            "text": "Bürsten Sie den Rücken, da die Katze ihn wegen der kurzen Beine schwer erreicht. Geben Sie Gelenkergänzungsfuttermittel."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Können Munchkin-Katzen normal springen?",
+            "answer": "Sie können auf Stühle und Sofas springen, erreichen aber keine großen Höhen wie Kühlschränke. Große Sprünge sollten verhindert werden, da der Landestau Aufprallschäden an den Gelenken verursachen kann."
+          },
+          {
+            "question": "Warum ist das Gewicht bei Munchkin-Katzen so wichtig?",
+            "answer": "Jedes Gramm Übergewicht belastet die kurzen Beine und den langen Rücken extrem, was Gelenkverschleiß beschleunigt. Halten Sie die Katze durch strikte Fütterung schlank."
+          }
+        ],
+        "tags": [
+          "Munchkin",
+          "Katzen-Gelenkpflege",
+          "Rückenschutz",
+          "Bodenspiel"
+        ]
+      },
+      "pt": {
+        "title": "Guia de proteção articular do Munchkin e rotina de 3 passos de baixa altura",
+        "description": "Cuidado do gato Munchkin de patas curtas. Aprenda a detetar os sinais de dor nas articulações e proteja a sua mobilidade diária.",
+        "authority": "Estabilidade da Raça Munchkin da Cat Fanciers' Association (CFA) e Diretrizes de Ortopedia Veterinária",
+        "profile": {
+          "breed": "Munchkin (Munchkin Cat)",
+          "lifespan": "12 ~ 15 anos",
+          "sleep_pattern": "12 ~ 14 horas (polifásico: várias sestas curtas)",
+          "temperament": "Doce, sociável, brincalhão, gentil, ágil"
+        },
+        "intro": "Os Munchkin são muito populares devido às suas patas curtinhas e temperamento doce. Apesar de serem ágeis e brincalhões, as suas patas curtas absorvem muito mais impacto na coluna e articulações durante os saltos. São propensos a lordose e artrite precoce. Hoje, o PetSelf analisa os sinais físicos de dor nas articulações no Munchkin e partilha uma rotina de 3 passos de baixa altura para cuidar da sua mobilidade.",
+        "whyTitle": "Comportamentos do Munchkin: postura de canguru e hesitação ao saltar",
+        "whyDesc": "Devido às suas patas curtas, o Munchkin adota posturas muito próprias. Sentam-se erguidos nas patas traseiras ('posição de canguru') para observar melhor. No entanto, hesitar ou recusar-se a saltar para um móvel baixo é um sinal de aviso importante de dor nas articulações.",
+        "body_signals": [
+          {
+            "name": "Postura de canguru",
+            "meaning": "Ficar erguido apoiado apenas nas patas traseiras para ampliar o campo de visão devido à sua baixa estatura.",
+            "response": "Coloque tapetes antiderrapantes para evitar que ele escorregue e force a anca ao sentar-se de pé."
+          },
+          {
+            "name": "Hesitação ao saltar",
+            "meaning": "Olhar para cima e hesitar repetidamente antes de efetuar um salto baixo devido a dor articular.",
+            "response": "Não o force a saltar, instale rampas ou pequenos degraus para o acesso a camas ou sofás e consulte o veterinário."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Controle da marcha e flexibilidade",
+            "text": "Examine a forma como ele caminha após acordar. Observe se tem rigidez nas patas traseiras, especialmente nos dias frios."
+          },
+          {
+            "name": "Tarde: Brincadeiras a nível do chão",
+            "text": "Brinque com bolas ou ratinhos de brincar que rolam pelo chão. Evite brinquedos altos que obriguem a saltos."
+          },
+          {
+            "name": "Noite: Escovagem das costas e condroprotetores",
+            "text": "Escove as suas costas, pois ele pode ter dificuldade em alcançar com a língua devido às patas curtas. Dê suplementos articulares."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Os Munchkin conseguem saltar como os outros gatos?",
+            "answer": "Eles saltam para sofás e cadeiras, mas não conseguem subir a locais altos como frigoríficos. Deve evitar saltos altos para proteger as articulações do impacto."
+          },
+          {
+            "question": "¿Qual a importância do peso no Munchkin?",
+            "answer": "O excesso de peso aumenta a carga sobre as suas patas curtas e coluna lombar, acelerando o desgaste das cartilagens. Controle estritamente a dieta."
+          }
+        ],
+        "tags": [
+          "Gato Munchkin",
+          "Articulações Felinas",
+          "Cuidado da Coluna",
+          "Escadas para Gato"
+        ]
+      },
+      "id": {
+        "title": "Panduan Proteksi Sendi Kucing Munchkin dan Rutinitas 3 Langkah Area Rendah",
+        "description": "Merawat kucing Munchkin berkaki pendek. Pelajari cara mendeteksi tanda nyeri sendi dini dan lindungi kelincahan gerak mereka.",
+        "authority": "Standar Ras Munchkin Cat Fanciers' Association (CFA) dan Pedoman Ortopedi Veteriner",
+        "profile": {
+          "breed": "Kucing Munchkin",
+          "lifespan": "12 ~ 15 tahun",
+          "sleep_pattern": "12 ~ 14 jam (tidur polifasik - beberapa tidur singkat harian)",
+          "temperament": "Manis, ramah, periang, lembut, gesit"
+        },
+        "intro": "Kucing Munchkin terkenal karena sifatnya yang manis dan kaki-kakinya yang pendek menggemaskan. Walaupun mereka tergolong aktif dan gesit, anggota tubuh yang pendek berarti sendi dan punggung mereka menerima gaya benturan yang lebih besar saat melompat. Munchkin rentan terhadap penyakit lordosis (tulang belakang melengkung) dan radang sendi (osteoartritis) dini. Hari ini, PetSelf mengulas bahasa tubuh Munchkin yang menunjukkan nyeri sendi dan membagikan 3 langkah rutinitas area rendah untuk memproteksi tulang belakang mereka.",
+        "whyTitle": "Sinyal Fisik Munchkin: Berdiri Canguru dan Ragu saat Melompat",
+        "whyDesc": "Kucing Munchkin memiliki kebiasaan fisik yang unik akibat kaki pendek mereka. Mereka sering duduk tegak dengan kaki belakang seperti kelinci atau kanguru ('berdiri kanguru') demi memperluas pandangan. Namun, jika mereka tampak ragu atau menolak melompat ke permukaan rendah yang biasa dijangkau, ini adalah peringatan nyeri sendi.",
+        "body_signals": [
+          {
+            "name": "Sikap Berdiri Kanguru",
+            "meaning": "Duduk tegak dengan kaki belakang tegak dan kaki depan ditekuk. Postur alami untuk memperluas pandangan karena tubuhnya pendek.",
+            "response": "Pastikan lantai diberi karpet atau alas anti-slip agar mereka tidak tergelincir saat bertumpu pada kaki belakang."
+          },
+          {
+            "name": "Ragu-ragu Sebelum Melompat",
+            "meaning": "Mondar-mandir atau menengadah berulang kali sebelum melompat rendah, menandakan nyeri sendi akibat tekanan punggung.",
+            "response": "Hindari memaksanya melompat, pasang tangga hewan (pet steps) menuju sofa atau kasur, dan periksakan ke dokter hewan."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemantauan Gerakan & Cara Berjalan",
+            "text": "Perhatikan gerakan peregangan paginya. Amati jika jalannya kaku atau pincang, terutama saat cuaca dingin."
+          },
+          {
+            "name": "Siang: Permainan Intensitas Rendah di Lantai",
+            "text": "Ajak bermain dengan bola menggelinding di lantai. Hindari mainan gantung tinggi yang memicu lompatan tinggi atau pendaratan keras."
+          },
+          {
+            "name": "Malam: Penyisiran Bulu Punggung & Suplemen Sendi",
+            "text": "Sisir lembut bagian punggungnya, karena kaki yang pendek menyulitkan mereka menjilati punggung. Berikan suplemen sendi dari dokter hewan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah kucing Munchkin bisa melompat seperti kucing biasa?",
+            "answer": "Mereka bisa melompat ke kursi dan sofa, tetapi tidak bisa melompat ke area yang sangat tinggi seperti kulkas atau lemari tinggi. Hindari melompat dari tempat tinggi untuk mencegah cedera sendi."
+          },
+          {
+            "question": "Mengapa kontrol berat badan sangat vital bagi Munchkin?",
+            "answer": "Kelebihan berat badan akan memberikan beban berlebih pada kaki pendek dan punggung panjang mereka, mempercepat radang sendi. Jaga berat badannya dengan porsi makan yang diatur ketat."
+          }
+        ],
+        "tags": [
+          "Kucing Munchkin",
+          "Sendi Kucing",
+          "Proteksi Tulang Belakang",
+          "Tangga Kucing"
+        ]
+      },
+      "ko": {
+        "title": "먼치킨 고양이 관절 보호 가이드와 저지대 3단계 일상 루틴",
+        "description": "다리가 짧은 먼치킨 고양이 케어법. 관절 이상 신호를 감지하고 저지대 일상 루틴으로 관절염과 척추 디스크를 예방하는 법을 알아봅니다.",
+        "authority": "국제고양이애호가협회(CFA) 먼치킨 품종 표준 및 수의 정형외과 가이드라인",
+        "profile": {
+          "breed": "먼치킨 고양이 (Munchkin Cat)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "12 ~ 14시간 (다상성 수면 패턴)",
+          "temperament": "사랑스러움, 외향적임, 놀기 좋아함, 온순함, 민첩함"
+        },
+        "intro": "짧고 귀여운 다리와 외향적인 성격으로 사랑받는 먼치킨 고양이는 민첩하고 뛰어난 달리기 능력을 자랑합니다. 하지만 신체 특성상 높은 곳에서 뛰어내릴 때 척추와 관절에 가해지는 충격이 일반 고양이보다 훨씬 큽니다. 이 때문에 척추전만증(Lordosis)이나 조기 퇴행성 관절염에 취약한 유전적 성향을 보입니다. 오늘 PetSelf에서는 먼치킨 고양이가 보내는 관절 이상 신호를 해독하고, 관절과 척추를 보호하며 오랫동안 건강한 걸음걸이를 보장하는 3단계 저지대 홈케어 루틴을 공유합니다.",
+        "whyTitle": "먼치킨 고양이의 행동 표현: 캥거루 서기와 점프 머뭇거림",
+        "whyDesc": "먼치킨 고양이는 다리가 짧아 다른 고양이들과 구별되는 특별한 행동을 보입니다. 주변을 살피기 위해 뒷발로 곧게 서는 **'캥거루 서기'**는 호기심의 표현이며 안전합니다. 그러나 평소 오르내리던 침대나 소파 높이를 두고 **'점프를 머뭇거리거나 포기하는 행동'**은 관절에 통증을 느끼고 있다는 명확한 이상 신호입니다.",
+        "body_signals": [
+          {
+            "name": "캥거루 서기 (뒷발 곧게 서기)",
+            "meaning": "낮은 눈높이를 보완하기 위해 뒷발과 엉덩이만으로 밸런스를 잡아 서는 자연스러운 시선 확장 행동입니다.",
+            "response": "일어설 때 미끄러져 골반이나 관절에 무리가 가지 않도록 바닥에 매트나 카페트를 깔아 줍니다."
+          },
+          {
+            "name": "점프 전 머뭇거림 혹은 포기",
+            "meaning": "낮은 가구에 올라갈 때도 고개를 몇 번이고 움직이며 재다가 결국 포기하는 척추 및 뒷다리 관절 통증의 경고입니다.",
+            "response": "억지로 높은 곳에 오르게 하지 말고 전용 계단이나 경사로를 배치해 주며, 지속 시 정형외과 진단을 받습니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 아침 보행 확인 및 걸음걸이 관찰",
+            "text": "일어난 후 걸음걸이에 뻣뻣함이 없는지 살핍니다. 관절이 굳기 쉬운 추운 날씨에는 뒷다리 강직 여부를 세심히 관찰합니다."
+          },
+          {
+            "name": "낮: 바닥 위주의 저지대 굴리기 놀이",
+            "text": "높이 뛰어야 하는 낚싯대 놀이 대신, 바닥으로 굴리는 공이나 쥐 장난감을 이용하여 관절 충격 없이 운동량을 채워 줍니다."
+          },
+          {
+            "name": "저녁: 등 브러싱 보조 및 관절 영양제 급여",
+            "text": "다리가 짧아 등 쪽의 그루밍이 닿지 않을 수 있으므로 부드러운 빗질을 돕고 수의사 조언에 따라 관절 영양제를 급여합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "먼치킨 고양이는 다른 고양이처럼 점프할 수 있나요?",
+            "answer": "의자나 소파 정도는 뛰어오를 수 있지만 냉장고나 장롱 같은 고지대에는 오르지 못합니다. 무리한 높이에서 뛰어내리면 관절 손상이 오므로 높은 곳에 올라가지 못하게 해야 합니다."
+          },
+          {
+            "question": "체중 조절이 왜 중요한가요?",
+            "answer": "체중이 증가하면 다리가 짧고 척추가 긴 구조상 관절 마모와 디스크 질환을 극도로 촉진합니다. 따라서 사료 공급량을 제한하여 적정 체중을 엄격히 유지해야 합니다."
+          }
+        ],
+        "tags": [
+          "먼치킨고양이",
+          "고기관절케어",
+          "척추디스크예방",
+          "펫계단"
+        ]
+      }
+    }
+  }
+}
