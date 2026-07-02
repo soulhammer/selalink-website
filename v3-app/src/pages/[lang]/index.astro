@@ -2,6 +2,8 @@
 import Layout from '../../layouts/Layout.astro';
 import { useTranslations, languages } from '../../i18n/ui';
 import AppStories from '../../components/AppStories.astro';
+import { getCollection } from 'astro:content';
+import BlogPostCard from '../../components/BlogPostCard.astro';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -11,6 +13,13 @@ const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 const isKo = lang === 'ko';
 const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps/freshself/en';
+
+// 다국어 블로그 포스트 중에서 현재 언어 경로에 속하는 최신 3개 글 조회
+const allPosts = await getCollection('blog');
+const langPosts = allPosts
+  .filter((post) => post.id.startsWith(`${lang}/`))
+  .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+  .slice(0, 3);
 ---
 <Layout title={`SelaLink Studio | ${t('hero.title')}`} description={t('hero.meta.desc')} lang={lang} image="/assets/images/og/selalink_studio.png">
 	<main class="max-w-[1400px] mx-auto px-6 py-8 min-h-screen">
@@ -18,7 +27,23 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 		<!-- Hero -->
 		<section class="mb-10 md:mb-16 mt-4 md:mt-8 text-center md:text-left">
 			<h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black tracking-tighter leading-[1.15] md:leading-[1.1] mb-4 md:mb-6 whitespace-pre-wrap text-slate-900 dark:text-white">{t('hero.title')}</h1>
-			<p class="text-lg md:text-xl lg:text-2xl text-slate-600 dark:text-slate-300 font-medium tracking-tight max-w-2xl mx-auto md:mx-0">{t('hero.desc')}</p>
+			<p class="text-lg md:text-xl lg:text-2xl text-slate-600 dark:text-slate-300 font-medium tracking-tight max-w-2xl mx-auto md:mx-0 mb-8">{t('hero.desc')}</p>
+			
+			<!-- Category Quick Chips -->
+			<div class="flex flex-wrap justify-center md:justify-start gap-2.5">
+				<span class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-emerald-100 text-emerald-800 border-emerald-200/50 dark:bg-emerald-500/10 dark:text-emerald-400 dark:border-emerald-500/20 text-xs md:text-sm font-semibold shadow-sm backdrop-blur-md">
+					<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('blog.filter.buildself')}
+				</span>
+				<span class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-purple-100 text-purple-800 border-purple-200/50 dark:bg-purple-500/10 dark:text-purple-400 dark:border-purple-500/20 text-xs md:text-sm font-semibold shadow-sm backdrop-blur-md">
+					<span class="w-1.5 h-1.5 rounded-full bg-purple-500 animate-pulse"></span>{t('blog.filter.storeself')} / {t('app.freshself.title')}
+				</span>
+				<span class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-indigo-100 text-indigo-800 border-indigo-200/50 dark:bg-indigo-500/10 dark:text-indigo-400 dark:border-indigo-500/20 text-xs md:text-sm font-semibold shadow-sm backdrop-blur-md">
+					<span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>{t('blog.filter.logself')}
+				</span>
+				<span class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-rose-100 text-rose-800 border-rose-200/50 dark:bg-rose-500/10 dark:text-rose-400 dark:border-rose-500/20 text-xs md:text-sm font-semibold shadow-sm backdrop-blur-md">
+					<span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>{t('blog.filter.petself')} ({t('app.logself.status')})
+				</span>
+			</div>
 		</section>
 
 		<!-- Dynamic App Stories (Full Screen Shorts Hook) -->
@@ -214,9 +239,32 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[350px] h-[350px] bg-emerald-400/15 dark:bg-emerald-600/15 blur-[90px] rounded-full group-hover:bg-emerald-500/25 dark:group-hover:bg-emerald-500/20 transition-colors duration-700 pointer-events-none z-0"></div>
 			</a>
 
-
-
 		</section>
+
+		<!-- 최신 라이프 스토리 (블로그 피드) -->
+		{langPosts.length > 0 && (
+			<section class="mt-24 md:mt-32 relative z-20">
+				<div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-8 md:mb-12">
+					<div>
+						<h2 class="text-3xl md:text-4xl lg:text-5xl font-black tracking-tighter text-slate-900 dark:text-white mb-2 md:mb-3">
+							{t('blog.heading')}
+						</h2>
+						<p class="text-sm md:text-base text-slate-600 dark:text-slate-400 max-w-xl font-medium">
+							{t('blog.desc')}
+						</p>
+					</div>
+					<a href={`/${lang}/blog/`} class="text-sm font-bold text-[var(--theme-accent,#0D9488)] hover:opacity-80 transition-opacity border-b-2 border-[var(--theme-accent,#0D9488)] pb-1 shrink-0">
+						{t('blog.filter.all')} →
+					</a>
+				</div>
+				
+				<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+					{langPosts.map((post) => (
+						<BlogPostCard post={post} lang={lang} />
+					))}
+				</div>
+			</section>
+		)}
 		
 		<!-- Footer -->
 		<footer class="mt-32 pt-8 border-t border-slate-200 dark:border-white/5 flex justify-between text-sm text-slate-500 dark:text-slate-600 font-mono">
