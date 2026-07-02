@@ -1,5 +1,12 @@
 ---
-// Language-neutral redirect page for FreshSelf Privacy Policy
+import { appsLegalData } from '../../../data/appsLegalData';
+
+export function getStaticPaths() {
+  const apps = Object.keys(appsLegalData);
+  return apps.map((app) => ({ params: { app } }));
+}
+
+const { app } = Astro.params;
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -7,12 +14,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noindex, follow" />
-  <!-- Fallback meta refresh for crawlers/AI bots with JS disabled -->
-  <meta http-equiv="refresh" content="0;url=/en/apps/freshself/privacy/" />
+  <meta http-equiv="refresh" content={`0;url=/en/apps/${app}/data-deletion/`} />
   <title>Redirecting...</title>
 </head>
 <body>
-  <script is:inline>
+  <script is:inline define:vars={{ app }}>
     (function() {
       var validLangs = ['en', 'ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'];
       var lang = navigator.language || navigator.userLanguage || "en";
@@ -22,7 +28,7 @@
       var hash = window.location.hash || "";
       
       var targetLang = validLangs.indexOf(lang) !== -1 ? lang : "en";
-      var targetUrl = '/' + targetLang + '/apps/freshself/privacy/' + searchParams + hash;
+      var targetUrl = '/' + targetLang + '/apps/' + app + '/data-deletion/' + searchParams + hash;
       
       window.location.replace(targetUrl);
     })();

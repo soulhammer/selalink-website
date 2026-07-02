@@ -1,0 +1,80 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import { useTranslations, languages } from '../../../../i18n/ui';
+import { appsLegalData } from '../../../../data/appsLegalData';
+
+export function getStaticPaths() {
+  const locales = Object.keys(languages);
+  const apps = Object.keys(appsLegalData);
+  
+  return locales.flatMap((lang) => 
+    apps.map((app) => ({
+      params: { lang, app }
+    }))
+  );
+}
+
+const { lang, app } = Astro.params;
+const t = useTranslations(lang as keyof typeof languages);
+
+const appData = appsLegalData[app as string];
+if (!appData) {
+  return Astro.redirect('/404');
+}
+
+const isKo = lang === 'ko';
+const title = isKo ? appData.dataDeletion.title.ko : appData.dataDeletion.title.en;
+const dataDeletionHtml = isKo ? appData.dataDeletion.contentKo : appData.dataDeletion.contentEn;
+
+// 앱별 동적 테마 컬러 설정
+const themeAccents: Record<string, string> = {
+  buildself: '#0D9488', // Teal
+  freshself: '#8B5CF6', // Purple
+  logself: '#6366F1',   // Indigo
+  general: '#14B8A6'
+};
+const accentColor = themeAccents[app as string] || themeAccents.general;
+
+// 앱별 텍스트 컬러 스타일 클래스
+const textColors: Record<string, string> = {
+  buildself: 'text-[var(--theme-accent,#0D9488)]',
+  freshself: 'text-[var(--theme-accent,#8B5CF6)]',
+  logself: 'text-[var(--theme-accent,#6366F1)]'
+};
+const activeTextColor = textColors[app as string] || 'text-teal-600';
+---
+
+<Layout 
+  title={`${title} | ${app}`} 
+  lang={lang as string} 
+  robots="noindex, follow" 
+  appId={app === 'general' ? undefined : app}
+>
+  <main class="w-full min-h-screen pt-32 pb-24 px-6">
+    <div class="max-w-3xl mx-auto">
+      
+      <!-- Back Link -->
+      <a href={`/${lang}/apps/${app}`} class={`group inline-flex items-center space-x-2 ${activeTextColor} hover:opacity-80 transition-opacity duration-300 mb-12`}>
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="group-hover:-translate-x-1 transition-transform">
+          <path d="m15 18-6-6 6-6"/>
+        </svg>
+        <span class="text-sm font-medium tracking-wide">{appData.dataDeletion.backToText}</span>
+      </a>
+
+      <!-- Hero Section -->
+      <section class="mb-12">
+          <h1 class="text-3xl md:text-4xl font-extrabold mb-4 tracking-tight text-slate-900 dark:text-white">{title}</h1>
+          <p class="text-lg text-slate-600 dark:text-slate-400">{isKo ? '데이터 삭제 요청 안내' : 'Guide for requesting data deletion'}</p>
+      </section>
+
+      <!-- Deletion Content Body -->
+      <div 
+        class="w-full"
+        style={`--theme-accent: ${accentColor};`}
+      >
+        <Fragment set:html={dataDeletionHtml} />
+      </div>
+
+    </div>
+  </main>
+</Layout>
