@@ -37,7 +37,7 @@ export const appsLegalData: Record<string, AppLegalSet> = {
     <br>
  
     <strong>데이터 보관 및 삭제</strong>
-    <p>서비스 제공자는 사용자가 애플리케이션을 사용하는 동안 및 그 이후의 합리적인 기간 동안 사용자가 제공한 데이터를 보관합니다. <strong>사용자는 수집된 데이터의 삭제를 언제든지 요청할 수 있습니다.</strong> 데이터 삭제 요청 방법에 대한 자세한 지침은 당사의 <a href="/buildself-data-deletion.html" target="_blank">데이터 삭제 요청 페이지</a>를 참조하거나 support@selalink.net 으로 직접 문의하시기 바랍니다.</p>
+    <p>서비스 제공자는 사용자가 애플리케이션을 사용하는 동안 및 그 이후의 합리적인 기간 동안 사용자가 제공한 데이터를 보관합니다. <strong>사용자는 수집된 데이터의 삭제를 언제든지 요청할 수 있습니다.</strong> 데이터 삭제 요청 방법에 대한 자세한 지침은 당사의 <a href="/apps/buildself/data-deletion/" target="_blank">데이터 삭제 요청 페이지</a>를 참조하거나 support@selalink.net 으로 직접 문의하시기 바랍니다.</p>
     <br>
     
     <strong>사용자의 정보 수집 거부(Opt-out) 권리는 무엇인가요?</strong>
@@ -85,7 +85,7 @@ export const appsLegalData: Record<string, AppLegalSet> = {
     <br>
  
     <strong>Data Retention and Deletion</strong>
-    <p>The Service Provider will retain user provided data for as long as you use the Application and for a reasonable time thereafter. <strong>You can request the deletion of your collected data at any time.</strong> For detailed instructions on how to request data deletion, please visit our <a href="/buildself-data-deletion.html" target="_blank">Data Deletion Request Page</a> or contact us directly at support@selalink.net.</p>
+    <p>The Service Provider will retain user provided data for as long as you use the Application and for a reasonable time thereafter. <strong>You can request the deletion of your collected data at any time.</strong> For detailed instructions on how to request data deletion, please visit our <a href="/apps/buildself/data-deletion/" target="_blank">Data Deletion Request Page</a> or contact us directly at support@selalink.net.</p>
     <br>
     
     <strong>What are my opt-out rights?</strong>
