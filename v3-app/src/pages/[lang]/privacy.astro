@@ -36,7 +36,7 @@ const title = isKo ? "SelaLink Studio 개인정보처리방침" : "SelaLink Stud
       
       <div class="w-full h-px bg-slate-200 dark:bg-slate-800 mt-4 mb-4"></div>
       
-      <div class="policy-content max-w-none w-full leading-relaxed font-light text-[0.95rem] space-y-6 text-slate-700 dark:text-slate-350">
+      <div class="policy-content max-w-none w-full leading-relaxed font-light text-[0.95rem] space-y-6 text-slate-700 dark:text-slate-300">
         {isKo ? (
           <>
             <p><strong>시행일:</strong> 2026년 7월 2일</p>
@@ -86,3 +86,39 @@ const title = isKo ? "SelaLink Studio 개인정보처리방침" : "SelaLink Stud
     </div>
   </main>
 </Layout>
+
+<style is:global>
+  /* 라이트 모드 (기본) */
+  .policy-content p,
+  .policy-content li {
+    color: #44403c !important; /* stone-700 */
+    margin-bottom: 0.5rem;
+  }
+  .policy-content strong {
+    color: #1c1917 !important; /* stone-900 */
+    font-weight: 700 !important;
+  }
+  .policy-content a {
+    color: #0d9488 !important; /* teal-600 */
+    text-decoration: underline;
+  }
+  .policy-content ul {
+    list-style-type: disc !important;
+    padding-left: 1.5rem !important;
+    margin-bottom: 1rem !important;
+    margin-top: 0.5rem !important;
+  }
+
+  /* 다크 모드 */
+  html.dark .policy-content p,
+  html.dark .policy-content li {
+    color: #d6d3d1 !important; /* stone-300 */
+  }
+  html.dark .policy-content strong {
+    color: #fafaf9 !important; /* stone-50 */
+    font-weight: 700 !important;
+  }
+  html.dark .policy-content a {
+    color: #2dd4bf !important; /* teal-400 */
+  }
+</style>
