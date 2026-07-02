@@ -1,0 +1,1366 @@
+{
+  "apple": {
+    "intro": {
+      "en": "Have you ever bought a box of crisp apples only to have them lose moisture and turn mealy in a few days, or spoil other vegetables nearby? Today, StoreSelf shares USDA-certified scientific storage hacks to keep apples crisp longer.",
+      "ja": "シャキシャキと甘いリンゴを箱で買ってきたものの、時間が経つにつれて皮がシワシワになり、パサついてしまった経験はありませんか？本日、StoreSelfでは農学専門家が推奨する科学的なリンゴの鮮度を最大化する保存法をご紹介します。",
+      "zh": "您是否曾买了一整箱爽脆的苹果，却在几天内流失水分变得软绵，甚至加速了旁边其他蔬菜的腐烂？今天，StoreSelf为您分享经美国农务部(USDA)认证的科学苹果保鲜储存指南。",
+      "es": "¿Alguna vez compró una caja de manzanas crujientes y descubrió que perdieron humedad y se ablandaron en pocos días, o estropearon otros vegetales cercanos? Hoy, StoreSelf comparte trucos científicos para mantenerlas frescas.",
+      "fr": "Avez-vous déjà acheté des pommes bien croquantes pour les voir se ramollir en quelques jours ou faire pourrir les légumes à côté ? Aujourd'hui, StoreSelf vous donne des astuces scientifiques pour les garder fraîches.",
+      "de": "Haben Sie schon einmal einen Kiste knackiger Äpfel gekauft, nur um festzustellen, dass sie nach wenigen Tagen trocken und mehlig wurden oder anderes Gemüse in der Nähe verdorben haben? Heute teilt StoreSelf wissenschaftliche Tipps.",
+      "pt": "Você já comprou uma caixa de maçãs crocantes e viu que elas perderam umidade e murcharam em poucos dias, ou estragaram outros vegetais por perto? Hoje, o StoreSelf compartilha dicas de conservação comprovadas.",
+      "id": "Pernahkah Anda membeli satu kotak apel segar namun kehilangan kelembapannya dan menjadi layu dalam beberapa hari, atau merusak sayuran lain di dekatnya? Hari ini, StoreSelf membagikan panduan penyimpanan ilmiah."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Isolate bruised or decaying apples immediately",
+          "ja": "傷ついたり傷み始めたリンゴはすぐに隔離してください",
+          "zh": "请立即隔离任何破损或变质的苹果",
+          "es": "Aísle las manzanas dañadas o en descomposición de inmediato",
+          "fr": "Isolez immédiatement les pommes abîmées ou gâtées",
+          "de": "Sondern Sie beschädigte oder verderbende Äpfel sofort aus",
+          "pt": "Isole as maçãs danificadas ou estragadas imediatamente",
+          "id": "Segera pisahkan apel yang rusak atau mulai membusuk",
+          "ko": "상처 입거나 골은 사과는 즉시 격리하세요 🍎"
+        },
+        "desc": {
+          "en": "Bruised apples release dozens of times more ethylene gas than normal ones, accelerating the decay of nearby apples.",
+          "ja": "傷が入ったり腐り始めたリンゴは、正常なリンゴに比べて数十倍のエチレンガスを放出し、周囲のリンゴまであっという間に傷ませてしまいます。",
+          "zh": "磕碰或腐烂的苹果会释放比正常苹果多出数十倍的乙烯气体，加速周围苹果的腐烂。",
+          "es": "Las manzanas dañadas liberan docenas de veces más gas etileno que las normales, acelerando el deterioro de las demás.",
+          "fr": "Les pommes abîmées libèrent des dizaines de fois plus de gaz éthylène que les autres, ce qui accélère la dégradation des fruits voisins.",
+          "de": "Beschädigte Äpfel setzen um ein Vielfaches mehr Ethylengas frei als normale, was den Verderb umliegender Früchte beschleunigt.",
+          "pt": "Maçãs machucadas liberam dezenas de vezes mais gás etileno do que as normais, acelerando a deterioração das outras ao redor.",
+          "id": "Apel yang rusak melepaskan gas etilen puluhan kali lebih banyak daripada apel normal, mempercepat pembusukan apel di sekitarnya.",
+          "ko": "+      흠집이 생기거나 썩기 시작한 사과는 일반 사과에 비해 수십 배에 달하는 에틸렌 가스를 뿜어내며 주변 사과까지 빠르게 상하게 합니다. 상처 난 사과는 발견 즉시 따로 골라내어 상처 부위를 도려내고 먼저 드셔야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Do not wash apples before storage",
+          "ja": "保存する前に絶対に水で洗わないでください",
+          "zh": "储存前切勿用水清洗",
+          "es": "No lave las manzanas antes de almacenarlas",
+          "fr": "Ne lavez pas les pommes avant de les stocker",
+          "de": "Äpfel vor dem Lagern nicht waschen",
+          "pt": "Não lave as maçãs antes de guardar",
+          "id": "Jangan cuci apel sebelum disimpan",
+          "ko": "보관하기 전에 절대 물로 씻지 마세요 💧"
+        },
+        "desc": {
+          "en": "Storing them wet traps moisture and encourages mold and bacteria to grow on the peel. Wipe dry dirt with a cloth.",
+          "ja": "水気が残った状態でラップをしたり容器に密封したりすると、湿気がこもり、リンゴの皮にカビや雑菌が繁殖しやすくなります。土などの汚れは乾いた布で拭き取ってください。",
+          "zh": "带水储存会积聚湿气，导致苹果皮上滋生霉菌和细菌。有泥土脏污用干布擦拭即可。",
+          "es": "Almacenarlas húmedas atrapa el agua y favorece el crecimiento de moho y bacterias en la piel. Limpie el polvo con un paño seco.",
+          "fr": "L'humidité emprisonnée favorise le développement de moisissures et de bactéries sur la peau. Essuyez la saleté avec un chiffon sec.",
+          "de": "Feuchtigkeit begünstigt die Bildung von Schimmel und Bakterien auf der Schale. Wischen Sie Schmutz einfach mit einem trockenen Tuch ab.",
+          "pt": "Guardá-las úmidas retém umidade e favorece o crescimento de mofo e bactérias na casca. Limpe a sujeira com um pano seco.",
+          "id": "Menyimpannya dalam keadaan basah akan mengunci kelembapan dan memicu jamur serta bakteri tumbuh pada kulit. Cukup lap dengan kain kering.",
+          "ko": "+      물기가 남아있는 상태로 랩핑하거나 용기에 밀봉하면 습기가 갇혀 사과 껍질에 곰팡이나 세균이 번식하기 매우 좋은 환경이 됩니다. 흙이나 이물질은 마른 천으로 가볍게 털어내어 보관하고, 씻는 것은 먹기 직전에 하세요.\n+"
+        }
+      }
+    ]
+  },
+  "avocado": {
+    "intro": {
+      "en": "Have you ever put an unripe avocado in the fridge only to have it turn mushy and rot? Today, StoreSelf shares California Avocado Commission (CAC) and USDA-verified ripening and storage hacks.",
+      "ja": "未熟なアボカドをうっかり冷蔵庫に入れて、中が黒く傷んでしまった経験はありませんか？本日、StoreSelfではカリフォルニア・アボカド委員会（CAC）と米国農務省（USDA）のガイドラインに基づき、アボカドの追熟のタイミングと完璧な保存方法をご紹介します。",
+      "zh": "您是否曾不小心将未熟的牛油果放入冰箱，结果导致其口感变差甚至烂掉？今天，StoreSelf为您带来基于加州牛油果委员会(CAC)和美国农务部(USDA)指南的牛油果熟化与保鲜秘诀。",
+      "es": "¿Alguna vez puso un aguacate verde en el refrigerador y terminó podrido y aguado? Hoy, StoreSelf comparte trucos de maduración y conservación verificados por la CAC y la USDA.",
+      "fr": "Avez-vous déjà mis un avocat pas mûr au frigo pour le retrouver noirci et immangeable ? Aujourd'hui, StoreSelf partage des astuces de mûrissement et de conservation validées par la CAC et l'USDA.",
+      "de": "Haben Sie schon einmal eine unreife Avocado in den Kühlschrank gelegt, nur um festzustellen, dass sie holzig wurde und verdarb? Heute teilt StoreSelf Tipps zur Reifung und Lagerung basierend auf CAC- und USDA-Richtlinien.",
+      "pt": "Você já colocou um abacate verde na geladeira e ele acabou estragando? Hoje, o StoreSelf compartilha técnicas de maturação e conservação recomendadas pela CAC e USDA.",
+      "id": "Pernahkah Anda memasukkan alpukat mentah ke dalam kulkas lalu menjadi busuk? Hari ini, StoreSelf membagikan rahasia pematangan dan penyimpanan alpukat berdasarkan panduan CAC dan USDA."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Do not refrigerate unripe avocados",
+          "ja": "未完熟のアボカドは絶対に冷蔵保存しないでください",
+          "zh": "未熟透的牛油果千万不要冷藏",
+          "es": "No refrigere aguacates que no estén maduros",
+          "fr": "Ne réfrigérez pas les avocats pas mûrs",
+          "de": "Unreife Avocados nicht kühlen",
+          "pt": "Não refrigere abacates verdes",
+          "id": "Jangan dinginkan alpukat yang belum matang",
+          "ko": "설익은 아보카도는 절대 냉장하지 마세요 ⚠️"
+        },
+        "desc": {
+          "en": "Refrigerating them before they ripen stops the ripening process permanently, leaving the texture hard and mealy even when returned to room temp.",
+          "ja": "熟す前に冷蔵庫に入れると後熟プロセスが永久に停止し、常温に戻しても食感が固くパサついたままになってしまいます。",
+          "zh": "在熟透前冷藏会永久终止其熟化过程，导致即使拿回常温下，果肉依然生硬且呈粉状粉质。",
+          "es": "Refrigerarlos antes de que maduren detiene el proceso de maduración de forma permanente, haciendo que la textura quede dura y pastosa.",
+          "fr": "Mettre un avocat pas mûr au réfrigérateur stoppe définitivement son mûrissement. Sa chair restera dure et farineuse même remise à température ambiante.",
+          "de": "Das Kühlen vor der Reife stoppt den Reifeprozess dauerhaft. Die Textur bleibt holzig und zäh, selbst wenn sie wieder auf Raumtemperatur gebracht wird.",
+          "pt": "Colocar o abacate na geladeira antes de amadurecer interrompe o processo de maturação permanentemente, deixando a polpa dura e sem sabor.",
+          "id": "Mendinginkan alpukat sebelum matang akan menghentikan proses pematangan secara permanen, membuat teksturnya tetap keras bahkan setelah dikembalikan ke suhu ruang.",
+          "ko": "+      초록색 단단한 아보카도를 냉장고에 넣으면 저온 냉해를 입어 향후 상온에 꺼내도 후숙이 진행되지 않고 내부 세포가 까맣게 죽어 썩게 됩니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Apply lemon juice to cut surfaces",
+          "ja": "カットした断面にはレモン果汁を塗ってください",
+          "zh": "切开的表面涂抹柠檬汁",
+          "es": "Aplique jugo de limón en las superficies cortadas",
+          "fr": "Appliquez du jus de citron sur la chair coupée",
+          "de": "Zitrone auf die Schnittflächen träufeln",
+          "pt": "Passe suco de limão nas superfícies cortadas",
+          "id": "Oleskan jus lemon pada permukaan potongan",
+          "ko": "껍질의 검은 반점을 확인하세요 🥑"
+        },
+        "desc": {
+          "en": "The cut side oxidizes and turns brown quickly when exposed to air. Applying lemon juice or olive oil and keeping the pit blocks oxygen.",
+          "ja": "空気に触れると断面が急速に酸化して黒ずみます。レモン汁やオリーブオイルを塗り、種を残したまま密閉することで酸化を防ぎます。",
+          "zh": "暴露在空气中切面会迅速氧化变黑。涂抹柠檬汁或橄榄油，并保留果核，能有效阻断氧气。",
+          "es": "La parte cortada se oxida y se oscurece rápido al aire. Aplicar jugo de limón o aceite de oliva y conservar el hueso ayuda a bloquear el oxígeno.",
+          "fr": "La chair coupée s'oxyde et noircit vite à l'air. Appliquer du jus de citron ou de l'huile d'olive et laisser le noyau permet de bloquer l'oxygène.",
+          "de": "Die Schnittfläche oxidiert an der Luft schnell und wird braun. Das Bestreichen mit Zitronensaft oder Olivenöl und das Belassen des Kerns schützt vor Sauerstoff.",
+          "pt": "A parte cortada oxida e escurece rápido em contato com o ar. Passar suco de limão ou azeite e manter o caroço ajuda a bloquear o oxigênio.",
+          "id": "Bagian yang dipotong akan cepat teroksidasi dan berubah warna menjadi cokelat saat terkena udara. Oleskan jus lemon atau minyak zaitun dan biarkan bijinya menempel.",
+          "ko": "+      아보카도 껍질 표면에 커다란 검은 반점이 생기고 만졌을 때 물렁하다면 과육 내부까지 썩은 상태이므로 섭취를 피해 주시는 것이 좋습니다.\n+"
+        }
+      }
+    ]
+  },
+  "banana": {
+    "intro": {
+      "en": "Have you ever left bananas on the counter only to have fruit flies swarm them and turn them black in a single day? Today, StoreSelf shares scientific storage hacks to keep bananas fresh for over 10 days without a banana stand.",
+      "ja": "バナナを実温に置いておいたら、一日でコバエがたかり、真っ黒になってしまった経験はありませんか？バナナスタンドを使わずに10日以上鮮度を保つ科学的な保存方法をご紹介します。",
+      "zh": "您是否曾把香蕉放在桌上，结果仅过了一天就引来果蝇，而且表皮变得漆黑？今天，StoreSelf为您分享无需香蕉架也能让香蕉保持新鲜10天以上的科学保存法。",
+      "es": "¿Dejó plátanos en la barra y vio cómo se llenaban de mosquitas y se ponían negros en un solo día? Hoy, StoreSelf comparte trucos para mantenerlos frescos más de 10 días sin un soporte para plátanos.",
+      "fr": "Avez-vous déjà laissé des bananes sur le comptoir pour les retrouver noires et envahies de moucherons dès le lendemain ? Aujourd'hui, StoreSelf vous montre comment les garder fraîches plus de 10 jours sans porte-banane.",
+      "de": "Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie an einem Tag von Fruchtfliegen umschwärmt wurden und schwarz wurden? Heute teilt StoreSelf Tipps, wie sie auch ohne Bananenständer 10 Tage frisch bleiben.",
+      "pt": "Você já deixou bananas na bancada e elas encheram de mosquinhas e ficaram pretas em um dia? Hoje, o StoreSelf ensina como mantê-las frescas por mais de 10 dias, sem precisar de suporte.",
+      "id": "Pernahkah Anda membiarkan pisang di meja lalu dikerubuti lalat buah dan berubah menjadi hitam dalam sehari? Hari ini, StoreSelf membagikan panduan penyimpanan pisang agar tetap segar lebih dari 10 hari."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Wrap the crown tightly with plastic wrap",
+          "ja": "バナナの根本（コブ）の結合部分をラップでしっかり包んでください",
+          "zh": "用保鲜膜紧紧包裹香蕉根部",
+          "es": "Envuelva la corona firmemente con film plástico",
+          "fr": "Enveloppez fermement la couronne de film plastique",
+          "de": "Die Bananenkrone fest mit Frischhaltefolie umwickeln",
+          "pt": "Embrulhe a coroa da banana firmemente com plástico filme",
+          "id": "Bungkus pangkal pisang rapat-rapat dengan plastik wrap",
+          "ko": "사과와 함께 두지 마세요 🍎"
+        },
+        "desc": {
+          "en": "Ethylene gas is mostly released from the stem/crown. Wrapping it slows down the ripening and browning of the whole bunch.",
+          "ja": "エチレンガスは主に根本の茎から放出されます。ここをラップで覆うことで、バナナ全体の追熟と黒変を遅らせることができます。",
+          "zh": "乙烯气体主要从香蕉根部释放。包裹住根部能减缓整串香蕉的熟化和变黑速度。",
+          "es": "El gas etileno se libera principalmente por el tallo. Envolverlo ralentiza la maduración y el oscurecimiento de todo el racimo.",
+          "fr": "Le gaz éthylène est principalement libéré par la tige. L'envelopper ralentit le mûrissement et le noircissement de tout le régime.",
+          "de": "Ethylengas entweicht hauptsächlich aus dem Strunk. Das Einwickeln verlangsamt die Reifung und das Braunwerden der gesamten Staude.",
+          "pt": "O gás etileno é liberado principalmente pelo talo. Embrulhá-lo retarda o amadurecimento e o escurecimento de toda a penca.",
+          "id": "Gas etilen sebagian besar dilepaskan dari bagian pangkal. Membungkusnya akan memperlambat pematangan dan perubahan warna menjadi hitam.",
+          "ko": "+      사과는 에틸렌 가스 방출의 최강자입니다. 바나나를 사과 옆에 두면 하루 만에 새까맣게 변할 수 있으니 반드시 격리해 주세요.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Do not mix with other high-ethylene fruits",
+          "ja": "エチレンガスを多く放出する他の果物と一緒にしないでください",
+          "zh": "请勿与其他释放大量乙烯的水果混放",
+          "es": "No los mezcle con otras frutas de alto etileno",
+          "fr": "Ne les mélangez pas avec d'autres fruits produisant de l'éthylène",
+          "de": "Nicht mit anderen reifegashaltigen Früchten lagern",
+          "pt": "Não misture com outras frutas que liberam muito etileno",
+          "id": "Jangan campur dengan buah berkadar etilen tinggi lainnya",
+          "ko": "밀폐 용기에 상온 방치 금지 📦"
+        },
+        "desc": {
+          "en": "Storing bananas near apples or peaches causes them to overripen and rot rapidly due to double gas exposure.",
+          "ja": "リンゴや桃などの近くに置くと、互いに放出するガスの相乗効果で成熟が進みすぎてしまい、あっという間に腐ってしまいます。",
+          "zh": "将香蕉与苹果或桃子等放在一起，双重气体的暴露会导致香蕉过度成熟并迅速腐烂。",
+          "es": "Guardar plátanos cerca de manzanas o duraznos hace que se maduren de más y se pudran rápido por la doble exposición al gas.",
+          "fr": "Stocker les bananes près de pommes ou de pêches accélère leur mûrissement et les fait pourrir très vite à cause de la double exposition.",
+          "de": "Die Lagerung von Bananen in der Nähe von Äpfeln oder Pfirsichen führt durch die doppelte Gasbelastung zu einer Überreife und schnellem Verderb.",
+          "pt": "Guardar bananas perto de maçãs ou pêssegos faz com que amadureçam demais e apodreçam rápido devido à dupla exposição ao gás.",
+          "id": "Menyimpan pisang di dekat apel atau persik akan membuatnya terlalu matang dan cepat busuk akibat paparan gas ganda.",
+          "ko": "+      밀봉된 통에 넣어 상온에 두면 갇힌 가스 때문에 온도가 올라가 순식간에 녹아내립니다.\n+"
+        }
+      }
+    ]
+  },
+  "beef": {
+    "intro": {
+      "en": "Have you ever left bright red beef in the fridge only to have it turn grey-brown and smell sour in just two days? Today, StoreSelf shares scientific storage hacks to prevent beef oxidation and maintain freshness.",
+      "ja": "鮮やかな赤色の牛肉を冷蔵庫に入れておいたら、2日ほどで濁った茶色に変色し、酸っぱい臭いがし始めた経験はありませんか？牛肉の酸化を防ぎ、新鮮さを長持ちさせる保存方法をご紹介します。",
+      "zh": "您是否曾将鲜红的牛肉放入冰箱，结果仅过两天就变成了暗褐色并散发出酸味？今天，StoreSelf为您分享防止牛肉氧化并保持新鲜的科学储存指南。",
+      "es": "¿Dejó carne de res roja en el refrigerador y vio cómo se ponía gris-marrón y olía agrio en solo dos días? Hoy, StoreSelf comparte trucos científicos para evitar la oxidación y mantener su frescura.",
+      "fr": "Avez-vous déjà laissé du bœuf bien rouge au frigo pour le retrouver gris-marron avec une odeur aigre en seulement deux jours ? Aujourd'hui, StoreSelf vous montre comment éviter l'oxydation de la viande et préserver sa fraîcheur.",
+      "de": "Haben Sie hellrotes Rindfleisch in den Kühlschrank gelegt, nur um festzustellen, dass es nach zwei Tagen graubraun wurde und sauer roch? Heute teilt StoreSelf Tipps zur Vermeidung von Oxidation und zum Erhalt der Frische.",
+      "pt": "Você já deixou carne bovina vermelha na geladeira e em dois dias ela ficou cinza-escura e com cheiro azedo? Hoje, o StoreSelf compartilha técnicas para evitar a oxidação e manter o frescor.",
+      "id": "Pernahkah Anda menyimpan daging sapi segar di kulkas lalu berubah warna menjadi cokelat keabu-abuan dan berbau asam dalam dua hari? Hari ini, StoreSelf membagikan panduan penyimpanan daging sapi."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Wipe off surface moisture and blood thoroughly",
+          "ja": "表面のドリップ（血水と水分）をしっかり拭き取ってください",
+          "zh": "彻底擦净表面的血水和水分",
+          "es": "Limpie la humedad y la sangre de la superficie por completo",
+          "fr": "Essuyez soigneusement le sang et l'humidité en surface",
+          "de": "Oberflächlichen Fleischsaft gründlich abtupfen",
+          "pt": "Seque bem o sangue e a umidade da superfície",
+          "id": "Lap bersih cairan dan darah pada permukaan daging",
+          "ko": "소고기 속의 갈변은 정상일 수 있습니다 🥩"
+        },
+        "desc": {
+          "en": "The red liquid (drip) leaking from the meat is a breeding ground for bacteria. Wiping it dry before wrapping slows decay.",
+          "ja": "牛肉から出る赤い汁（ドリップ）は雑菌繁殖の温床になります。包装する前にペーパーで拭き取ることで、腐敗を効果的に防げます。",
+          "zh": "牛肉渗出的红色液体（血水）是细菌繁殖的温床。在包装前用厨房纸擦干，可有效减缓变质速度。",
+          "es": "El líquido rojo (jugo) que gotea es un nido de bacterias. Limpiarlo antes de envolver la carne retrasa la descomposición.",
+          "fr": "Le liquide rouge (jus) qui s'échappe de la viande favorise la prolifération bactérienne. L'essuyer avant d'emballer ralentit la détérioration.",
+          "de": "Auslaufender Fleischsaft ist ein Nährboden für Bakterien. Das Trockentupfen vor dem Einwickeln verlangsamt den Verderb.",
+          "pt": "O líquido vermelho que escorre da carne é um ninho de bactérias. Secar a carne antes de embalar retarda a deterioração.",
+          "id": "Cairan merah yang keluar dari daging adalah tempat berkembang biaknya bakteri. Mengelapnya sebelum dibungkus akan memperlambat pembusukan.",
+          "ko": "+      고기끼리 겹친 부분이 거무스름하게 변한 것은 산소가 닿지 않아 일시적으로 헤모글로빈이 반응하지 않은 것이므로, 공기 중에 20분 두어 붉게 돌아오면 상한 것이 아닙니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Wrap tightly to block air exposure",
+          "ja": "空気に触れないようラップで隙間なくぴったり包んでください",
+          "zh": "用保鲜膜紧密包裹以阻断空气",
+          "es": "Envuelva herméticamente para evitar el contacto con el aire",
+          "fr": "Emballez hermétiquement pour bloquer le contact avec l'air",
+          "de": "Luftdicht einwickeln, um Kontakt mit Sauerstoff zu vermeiden",
+          "pt": "Embrulhe firmemente para bloquear o contato com o ar",
+          "id": "Bungkus rapat untuk mencegah paparan udara",
+          "ko": "해동할 때 뜨거운 물을 쓰지 마세요 ⚠️"
+        },
+        "desc": {
+          "en": "Oxygen triggers lipid oxidation and turns myoglobin brown. Wrapping tight like a vacuum seal retains quality.",
+          "ja": "酸素に触れると脂質の酸化が進み、ミオグロビンが変色して茶色くなります。真空パックのようにぴったり密着させることで品質を維持できます。",
+          "zh": "氧气会引发脂质氧化并使肌红蛋白变褐。像真空密封一样紧紧包裹可保持肉质品质。",
+          "es": "El oxígeno oxida las grasas y oscurece la mioglobina. Envolverla muy apretada, como al vacío, conserva su calidad.",
+          "fr": "L'oxygène oxyde les graisses et fait brunir la myoglobine. Envelopper la viande de façon très serrée, comme sous vide, préserve sa qualité.",
+          "de": "Sauerstoff oxidiert Fette und färbt das Myoglobin braun. Ein enges Einwickeln wie beim Vakuumieren schützt die Qualität.",
+          "pt": "O oxigênio oxida a gordura e escurece a mioglobina. Embrulhar bem apertado, como se fosse a vácuo, preserva a qualidade.",
+          "id": "Oksigen memicu oksidasi lemak dan mengubah mioglobin menjadi cokelat. Membungkusnya dengan rapat seperti divakum dapat menjaga kualitas daging.",
+          "ko": "+      냉동 소고기를 빨리 해동하려고 뜨거운 물에 담그면 과도한 드립(육즙) 유출로 맛이 퍽퍽해지고 세균이 폭증합니다. 무조건 조리 하루 전 냉장실 해동을 활용하세요.\n+"
+        }
+      }
+    ]
+  },
+  "bread": {
+    "intro": {
+      "en": "Have you ever stored soft bread in the fridge only to have it turn dry and mealy? Today, StoreSelf shares scientific freezing hacks to preserve bread's fluffy texture permanently.",
+      "ja": "ふんわりとした食パンを冷蔵庫に入れておいたら、パサパサになって結局捨ててしまった経験はありませんか？食パンのモチモチ感をキープする科学的な冷凍保存方法を公開します。",
+      "zh": "您是否曾将松软的吐司存入冰箱冷藏，结果变得又干又硬不得不扔掉？今天，StoreSelf为您分享永久保留吐司松软口感的科学冷冻保存法。",
+      "es": "¿Guardó pan blando en el refrigerador y vio cómo se ponía seco y duro? Hoy, StoreSelf comparte trucos científicos de congelación para conservar su esponjosidad por mucho tiempo.",
+      "fr": "Avez-vous déjà mis du pain de mie moelleux au frigo pour le retrouver tout sec et immangeable ? Aujourd'hui, StoreSelf vous dévoile sa méthode de congélation scientifique pour préserver son moelleux.",
+      "de": "Haben Sie weiches Brot im Kühlschrank gelagert, nur um festzustellen, dass es trocken und hart wurde? Heute teilt StoreSelf Tipps zum Einfrieren, damit Ihr Brot dauerhaft fluffig bleibt.",
+      "pt": "Você já guardou pão de forma na geladeira e ele ficou seco e duro? Hoje, o StoreSelf ensina como congelar o pão de forma correta para manter a maciez por muito tempo.",
+      "id": "Pernahkah Anda menyimpan roti tawar di kulkas lalu menjadi kering dan keras? Hari ini, StoreSelf membagikan panduan pembekuan ilmiah agar roti tetap empuk."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Never store bread in the refrigerator compartment",
+          "ja": "食パンは絶対に冷蔵室に入れないでください",
+          "zh": "吐司绝对不要放入冷藏室",
+          "es": "Nunca guarde el pan en la zona de refrigeración",
+          "fr": "Ne mettez jamais le pain de mie au réfrigérateur",
+          "de": "Brot niemals im normalen Kühlschrankfach lagern",
+          "pt": "Nunca guarde o pão na geladeira",
+          "id": "Jangan pernah menyimpan roti di kompartemen kulkas (refrigerator)",
+          "ko": "냉동실 냄새가 빵에 배지 않게 하세요 ⚠️"
+        },
+        "desc": {
+          "en": "Starch retrogradation (crystallization) happens fastest at refrigeration temperatures (2-6°C), drying out the bread rapidly.",
+          "ja": "デンプンの老化（結晶化）は冷蔵室の温度帯（2〜6℃）で最も早く進み、パンの水分が急速に抜けて硬くなってしまいます。",
+          "zh": "淀粉老化（重结晶）在冷藏温度（2-6℃）下进行得最快，会迅速夺走吐司中的水分使其发硬。",
+          "es": "La retrogradación (cristalización) del almidón ocurre más rápido a temperaturas de refrigeración (2-6 °C), secando el pan velozmente.",
+          "fr": "La rétrogradation (cristallisation) de l'amidon se produit le plus rapidement entre 2 et 6 °C, ce qui assèche le pain à toute vitesse.",
+          "de": "Die Rekristallisation der Stärke erfolgt am schnellsten bei Kühlschranktemperaturen (2-6 °C), wodurch das Brot rasch austrocknet.",
+          "pt": "A cristalização do amido ocorre mais rápido na temperatura da geladeira (2-6°C), ressecando o pão muito depressa.",
+          "id": "Retrogradasi pati (kristalisasi) terjadi paling cepat pada suhu pendingin (2-6°C), membuat roti cepat kering.",
+          "ko": "+      빵은 미세한 냄새를 스펀지처럼 흡수합니다. 지퍼백 입구를 덜 닫아두면 냉동고 안 생선이나 만두 냄새가 식빵에 배어 빵을 못 먹게 될 수 있으니 이중 밀봉하세요.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Keep at room temp for 2 days maximum; freeze the rest",
+          "ja": "常温保存は最大2日とし、残りはすぐに冷凍してください",
+          "zh": "常温保存最多2天，剩余的请立即冷冻",
+          "es": "Conserve a temp. ambiente 2 días máximo; congele el resto",
+          "fr": "Gardez à température ambiante 2 jours maximum ; congelez le reste",
+          "de": "Bei Raumtemperatur maximal 2 Tage lagern; den Rest einfrieren",
+          "pt": "Deixe em temp. ambiente no máximo por 2 dias; congele o resto",
+          "id": "Simpan di suhu ruang maks 2 hari; bekukan sisanya",
+          "ko": "상온 보관은 최대 3일 이내여야 합니다 🍞"
+        },
+        "desc": {
+          "en": "Fresh bread spoils and grows mold easily at room temp. Freeze it immediately to preserve moisture structure.",
+          "ja": "新鮮な食パンは常温に置くと傷みやすく、カビが生えやすいです。水分を含んだ組織を守るため、すぐに冷凍することをおすすめします。",
+          "zh": "新鲜吐司在常温下极易变质发霉。请立即冷冻保存，以锁住其水分结构。",
+          "es": "El pan fresco se daña y cría moho fácil a temp. ambiente. Congele de inmediato para proteger su estructura y humedad.",
+          "fr": "Le pain frais s'altère et moisit facilement à température ambiante. Congelez-le sans attendre pour préserver son humidité.",
+          "de": "Frisches Brot verdirbt und schimmelt bei Raumtemperatur schnell. Frieren Sie es sofort ein, um die Feuchtigkeitsstruktur zu erhalten.",
+          "pt": "O pão fresco estraga e mofa fácil em temperatura ambiente. Congele imediatamente para preservar a umidade natural.",
+          "id": "Roti segar mudah rusak dan berjamur di suhu ruang. Segera bekukan untuk menjaga kadar airnya.",
+          "ko": "+      보존제가 많이 들지 않은 식빵은 실온 보관 시 습도가 높으면 2~3일 만에 푸른 곰팡이가 필 수 있습니다. 다 먹지 못할 것은 당일 냉동하는 것이 안전합니다.\n+"
+        }
+      }
+    ]
+  },
+  "chicken": {
+    "intro": {
+      "en": "Washing raw chicken can spread dangerous food poisoning bacteria all over your kitchen. Today, StoreSelf shares CDC-approved safe poultry handling and storage hacks.",
+      "ja": "生鶏肉を水で洗うと、食中毒菌がキッチンのいたる所に飛び散って危険です。本日、StoreSelfでは米国疾病予防管理センター（CDC）などの公式ガイドラインに基づく安全な鶏肉の保存方法をご紹介します。",
+      "zh": "用自来水清洗生鸡肉会导致危险的食物中毒细菌扩散到整个厨房。今天，StoreSelf为您分享经美国疾病控制与预防中心(CDC)认可的安全禽肉处理与储存指南。",
+      "es": "Lavar el pollo crudo puede esparcir bacterias peligrosas por toda su cocina. Hoy, StoreSelf comparte trucos seguros de la CDC para el manejo y conservación de aves.",
+      "fr": "Laver du poulet cru peut propager de dangereuses bactéries partout dans votre cuisine. Aujourd'hui, StoreSelf vous présente les recommandations de la CDC pour manipuler et conserver la volaille.",
+      "de": "Das Waschen von rohem Hühnchen kann gefährliche Bakterien in der gesamten Küche verteilen. Heute teilt StoreSelf offizielle CDC-Tipps zur sicheren Handhabung und Lagerung.",
+      "pt": "Lavar frango cru pode espalhar bactérias perigosas por toda a cozinha. Hoje, o StoreSelf compartilha orientações da CDC para manusear e guardar aves com segurança.",
+      "id": "Mencuci ayam mentah dapat menyebarkan bakteri berbahaya ke seluruh dapur. Hari ini, StoreSelf membagikan panduan penanganan dan penyimpanan ayam dari CDC."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Use separate cutting boards and knives for raw chicken",
+          "ja": "生鶏肉専用のまな板と包丁を用意し、分けて使用してください",
+          "zh": "生鸡肉使用专用砧板和刀具",
+          "es": "Use tablas de cortar y cuchillos exclusivos para el pollo crudo",
+          "fr": "Utilisez des planches et des couteaux dédiés au poulet cru",
+          "de": "Eigene Schneidebretter und Messer für rohes Geflügel verwenden",
+          "pt": "Use tábuas e facas exclusivas para o frango cru",
+          "id": "Gunakan talenan dan pisau khusus untuk ayam mentah",
+          "ko": "생닭 전용 도마와 칼을 따로 쓰세요 🔪"
+        },
+        "desc": {
+          "en": "The tools used for raw chicken must be thoroughly sanitized or washed. Using them directly on salads causes cross-contamination.",
+          "ja": "生鶏肉を扱った道具は必ず熱湯消毒するか、塩素系漂白剤などで除菌してください。そのまま生野菜などを切るとクロス汚染（二次汚染）の原因になります。",
+          "zh": "处理过生鸡肉的工具必须彻底消毒或清洗。如果直接用它们切沙拉或凉拌菜，会导致严重的交叉污染。",
+          "es": "Los utensilios usados con pollo crudo se deben desinfectar a fondo. Usarlos directo para ensaladas causa contaminación cruzada.",
+          "fr": "Les ustensiles ayant servi pour le poulet cru doivent être désinfectés. Les utiliser pour des crudités provoque des contaminations croisées.",
+          "de": "Geflügelwerkzeuge müssen gründlich sterilisiert werden. Die direkte Weiterverwendung für Salat führt zu Kreuzkontaminationen.",
+          "pt": "Os utensílios usados para o frango cru devem ser esterilizados. Usá-los direto em saladas causa contaminação cruzada.",
+          "id": "Peralatan yang digunakan untuk ayam mentah harus disterilkan atau dicuci bersih. Langsung menggunakannya untuk salad memicu kontaminasi silang.",
+          "ko": "+      닭고기를 손질할 때 사용한 도마와 칼은 반드시 끓는 물에 소독하거나 락스 물로 씻어야 합니다. 바로 상추나 오이를 썰면 식중독 오염으로 이어집니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Consume within 2 days or freeze immediately",
+          "ja": "冷蔵保存は2日以内に消費するか、すぐに冷凍してください",
+          "zh": "2天内食用完，否则请立即冷冻",
+          "es": "Consuma en 2 días o congele de inmediato",
+          "fr": "Consommez sous 2 jours ou congelez de suite",
+          "de": "In 2 Tagen verbrauchen oder sofort einfrieren",
+          "pt": "Consuma em até 2 dias ou congele imediatamente",
+          "id": "Habiskan dalam 2 hari atau segera bekukan",
+          "ko": "2일 이내 소비 혹은 급속 냉동하세요 ❄️"
+        },
+        "desc": {
+          "en": "Chicken has higher moisture and bacterial density than pork or beef, causing it to spoil very rapidly. Limit fridge storage to 48 hours.",
+          "ja": "鶏肉は豚肉や牛肉に比べて水分量が多く細菌が繁殖しやすいため、傷む速度が最も早いです。冷蔵保存の場合は必ず48時間以内に使い切ってください。",
+          "zh": "鸡肉比猪肉和牛肉含有更高的水分且更容易滋生细菌，变质速度极快。冷藏时间请限制在48小时以内。",
+          "es": "El pollo tiene más agua y densidad bacteriana que el cerdo o la res, por lo que se daña rápido. Limite la refrigeración a 48 horas.",
+          "fr": "Le poulet a une teneur en eau et une densité bactérienne plus élevées que le porc ou le bœuf, il s'altère donc très vite. Limitez le frigo à 48 h.",
+          "de": "Hühnchen hat mehr Feuchtigkeit und Bakterien als Schwein oder Rind, weshalb es extrem schnell verdirbt. Maximal 48 Stunden kühlen.",
+          "pt": "O frango tem mais água e proliferação bacteriana do que porco ou boi, estragando muito rápido. Limite o refrigerador a 48 horas.",
+          "id": "Ayam memiliki kadar air dan kepadatan bakteri yang lebih tinggi daripada daging babi atau sapi, membuatnya cepat busuk. Batasi penyimpanan di kulkas maks 48 jam.",
+          "ko": "+      닭고기는 돼지/소고기에 비해 수분과 미생물 밀도가 매우 높아 부패 속도가 가장 빠릅니다. 냉장 보관 시 무조건 48시간 이내에 섭취하고 남은 것은 냉동 보관해야 합니다.\n+"
+        }
+      }
+    ]
+  },
+  "egg": {
+    "intro": {
+      "en": "Do you wash fresh eggs in water and store them in the refrigerator door? This storage method can ruin egg freshness and trigger cross-contamination. Today, StoreSelf shares USDA-approved safe egg storage hacks.",
+      "ja": "新鮮な卵を保存するために、水できれいに洗ってから冷蔵庫のドアポケットに立てて置いていませんか？実はその保存方法は、卵の鮮度を落とし二次汚染を引き起こす原因になります。正しい保管方法をご紹介します。",
+      "zh": "为了保存新鲜的鸡蛋，您是否会将其用水清洗干净并存放在冰箱门旁的置蛋架上？这种方法会破坏鸡蛋的新鲜度并引发交叉污染。今天，StoreSelf为您分享经FDA认证的科学储存法。",
+      "es": "¿Lava los huevos y los pone en la puerta del refrigerador? Este método daña su frescura y causa contaminación cruzada. Hoy, StoreSelf comparte trucos científicos aprobados por la USDA.",
+      "fr": "Est-ce que vous lavez vos œufs frais et les rangez dans la porte du frigo ? Cette méthode détruit leur fraîcheur et favorise la contamination. Aujourd'hui, StoreSelf vous montre la bonne méthode.",
+      "de": "Waschen Sie Eier ab und lagern sie in der Kühlschranktür? Diese Methode beeinträchtigt die Frische und führt zu Kreuzkontaminationen. Heute teilt StoreSelf offizielle USDA-Tipps.",
+      "pt": "Você lava os ovos frescos e os guarda na porta da geladeira? Esse hábito destrói o frescor e causa contaminação cruzada. Hoje, o StoreSelf compartilha técnicas corretas recomendadas pela USDA.",
+      "id": "Apakah Anda mencuci telur segar lalu menyimpannya di rak pintu kulkas? Cara ini dapat merusak kesegaran telur dan memicu kontaminasi silang. Hari ini, StoreSelf membagikan panduan penyimpanan telur."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Never wash eggs before storage",
+          "ja": "卵を保管する前に絶対に水で洗わないでください",
+          "zh": "储存前切勿清洗鸡蛋",
+          "es": "Nunca lave los huevos antes de guardarlos",
+          "fr": "Ne lavez jamais les œufs avant de les stocker",
+          "de": "Eier vor dem Lagern niemals abwaschen",
+          "pt": "Nunca lave os ovos antes de guardar",
+          "id": "Jangan pernah mencuci telur sebelum disimpan",
+          "ko": "금 가거나 깨진 계란은 방치하지 마세요 🍳"
+        },
+        "desc": {
+          "en": "Washing strips off the natural protective coating (cuticle) on the shell, allowing bacteria (like Salmonella) to penetrate inside.",
+          "ja": "水洗いすると卵殻の表面を保護している天然の被膜（クチクラ層）が剥がれ落ち、サルモネラなどの雑菌が殻の微細な孔を通って内部に侵入してしまいます。",
+          "zh": "清洗会洗掉蛋壳表面的天然保护膜（角质层），使沙门氏菌等外部细菌极易穿透外壳渗入内部。",
+          "es": "Lavarlos elimina la capa protectora natural (cutícula) del cascarón, permitiendo que bacterias como la Salmonella entren al huevo.",
+          "fr": "Le lavage retire la pellicule protectrice naturelle (cuticule) de la coquille, ce qui permet aux bactéries (Salmonelle) de s'infiltrer à l'intérieur.",
+          "de": "Das Waschen entfernt die natürliche Schutzschicht (Kutikula) auf der Schale, wodurch Bakterien (wie Salmonellen) ins Innere gelangen können.",
+          "pt": "Lavar os ovos remove a película protetora natural da casca (cutícula), permitindo que bactérias como a Salmonella entrem no ovo.",
+          "id": "Mencuci telur akan mengikis lapisan pelindung alami (kutikula) pada cangkang, memudahkan bakteri (seperti Salmonella) masuk ke dalam.",
+          "ko": "+      미세하게 금이 간 계란은 상온뿐만 아니라 냉장실에서도 공기 중 세균이 유입되어 급속 부패합니다. 가급적 구매 즉시 파손란을 분류하여 즉시 조리해 섭취하세요.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Store eggs with the blunt end pointing up",
+          "ja": "丸い側（鈍端）が上になるように立てて保存してください",
+          "zh": "摆放时将大头（圆头）朝上",
+          "es": "Guarde los huevos con el extremo ancho hacia arriba",
+          "fr": "Stockez les œufs avec le gros bout vers le haut",
+          "de": "Eier mit dem stumpfen Ende nach oben lagern",
+          "pt": "Guarde os ovos com o lado arredondado para cima",
+          "id": "Simpan telur dengan bagian tumpul menghadap ke atas",
+          "ko": "냄새가 강한 식품 옆에 두지 마세요 🧄"
+        },
+        "desc": {
+          "en": "The blunt end has the air cell. Storing it up prevents the yolk from contacting the air pocket, keeping it fresh longer.",
+          "ja": "卵の丸い側には「気室」と呼ばれる空気の部屋があります。こちらを上にすることで卵黄が空気に触れにくくなり、鮮度維持に役立ちます。",
+          "zh": "鸡蛋的大头一端有气室。将气室朝上摆放能防止蛋黄与气室直接接触，从而让鸡蛋保持新鲜更久。",
+          "es": "El extremo ancho tiene la cámara de aire. Guardarlo hacia arriba evita que la yema toque esa burbuja, manteniéndolo fresco más tiempo.",
+          "fr": "Le gros bout contient la chambre à air. Le placer vers le haut empêche le jaune de toucher cette poche d'air, ce qui garde l'œuf frais plus longtemps.",
+          "de": "Das stumpfe Ende enthält die Luftkammer. Die Lagerung nach oben verhindert, dass das Eigelb mit der Lufttasche in Kontakt kommt, was die Eier länger frisch hält.",
+          "pt": "O lado arredondado possui a câmara de ar. Deixá-lo para cima evita que a gema encoste nessa bolsa de ar, mantendo o ovo fresco por mais tempo.",
+          "id": "Bagian tumpul memiliki kantong udara (air cell). Menyimpannya menghadap ke atas mencegah kuning telur bersentuhan dengan kantong udara.",
+          "ko": "+      계란 껍질 기공은 주위의 냄새를 매우 잘 흡수합니다. 양파, 마늘, 생선 등 강한 냄새를 뿜어내는 식품 근처에 밀봉 없이 두면 계란 내부에 비린 향이 고스란히 배어 맛을 버립니다.\n+"
+        }
+      }
+    ]
+  },
+  "garlic": {
+    "intro": {
+      "en": "Have you ever bought peeled garlic only to have it turn mushy and grow white mold in just a few days because peeling it every time is a hassle? Today, StoreSelf shares scientific moisture control hacks to keep garlic fresh longer.",
+      "ja": "料理するたびに皮をむくのが面倒で、まとめてむいておいたにんにくが、数日で傷んで白いカビが生えてしまい捨てた経験はありませんか？本日、StoreSelfではにんにくの水気を完全にシャットアウトする保存方法をご紹介します。",
+      "zh": "每次做饭都要剥蒜觉得很麻烦，所以一次性剥了很多大蒜，结果没过几天大蒜就变软发黏，甚至长出了白霉？今天，StoreSelf为您分享如何彻底锁住大蒜水分的科学保鲜妙招。",
+      "es": "¿Alguna vez peló muchos ajos para ahorrar tiempo y vio cómo se ablandaban y criaban moho blanco en pocos días? Hoy, StoreSelf comparte trucos científicos para controlar la humedad y mantenerlos frescos.",
+      "fr": "Avez-vous déjà pelé beaucoup d'ail à l'avance pour gagner du temps, pour le retrouver ramolli et couvert de moisissure blanche après quelques jours ? Aujourd'hui, StoreSelf vous montre comment éliminer l'humidité.",
+      "de": "Haben Sie schon einmal viel Knoblauch auf einmal geschält, um Zeit zu sparen, nur um festzustellen, dass er nach wenigen Tagen matschig wurde und weißen Schimmel ansetzte? Heute teilt StoreSelf Tipps zur Feuchtigkeitsregulierung.",
+      "pt": "Você já descascou muito alho para economizar tempo e viu ele amolecer e mofar em poucos dias? Hoje, o StoreSelf compartilha técnicas de controle de umidade para manter o alho fresco por muito mais tempo.",
+      "id": "Pernahkah Anda mengupas bawang putih dalam jumlah banyak untuk menghemat waktu, lalu menjadi busuk dan berjamur putih dalam beberapa hari? Hari ini, StoreSelf membagikan panduan penyimpanan bawang putih."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Isolate bruised or sprouted garlic cloves",
+          "ja": "傷ついたり芽が出たにんにくは仕分けして分類してください",
+          "zh": "请剔除受损或发芽的的蒜瓣",
+          "es": "Clasifique y separe los dientes de ajo dañados o brotados",
+          "fr": "Triez et séparez les gousses d'ail abîmées ou germées",
+          "de": "Beschädigte oder gekeimte Knoblauchzehen aussortieren",
+          "pt": "Separe os dentes de alho machucados ou brotados",
+          "id": "Pisahkan bawang putih yang rusak atau bertunas",
+          "ko": "상처 나거나 싹이 난 마늘은 분류하세요 🧄"
+        },
+        "desc": {
+          "en": "Bruised or sprouted garlic releases high moisture and decay signals, accelerating the rot of surrounding healthy cloves.",
+          "ja": "傷や芽があるにんにくは水分やガスの放出量が多く、周囲の健全なむきにんにくまで一緒に傷ませてしまいます。",
+          "zh": "受损或发芽的蒜瓣会释放更多水分和变质气体，加速周围完好蒜瓣的腐烂。",
+          "es": "Los ajos dañados o con brotes liberan más humedad y compuestos de descomposición, pudriendo los ajos sanos de alrededor.",
+          "fr": "Les gousses abîmées ou germées libèrent plus d'humidité et de gaz de décomposition, faisant pourrir les gousses saines autour.",
+          "de": "Beschädigte oder gekeimte Zehen geben mehr Feuchtigkeit und Reifegase ab, was den Verderb gesunder Zehen beschleunigt.",
+          "pt": "Dentes machucados ou brotados liberam mais umidade e gases de decomposição, estragando os dentes saudáveis ao redor.",
+          "id": "Bawang yang rusak melepaskan lebih banyak kelembapan dan gas pembusukan, merusak bawang sehat di sekitarnya.",
+          "ko": "+      상처 나거나 싹이 난 마늘은 에틸렌과 수분 분출량이 많아 주변 멀쩡한 깐 마늘까지 덩달아 썩게 만듭니다. 보관 전에 상처 입은 것은 따로 잘라내어 바로 섭취해야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Do not underestimate mold on spoiled garlic",
+          "ja": "傷んだにんにくのカビを軽く考えないでください",
+          "zh": "切勿轻视腐烂大蒜上的霉菌",
+          "es": "No ignore el moho en los ajos dañados",
+          "fr": "Ne négligez pas la moisissure sur l'ail gâté",
+          "de": "Schimmel auf beschädigtem Knoblauch nicht unterschätzen",
+          "pt": "Não ignore o mofo nos alhos estragados",
+          "id": "Jangan sepelekan jamur pada bawang yang rusak",
+          "ko": "썩은 마늘의 곰팡이를 우습게 보지 마세요 ⚠️"
+        },
+        "desc": {
+          "en": "If blue or black mold appears, do not just wash it off and cook. Mold spores spread deeply into the flesh, making it unsafe.",
+          "ja": "青カビや黒カビが発生した場合、表面だけを洗い落として調理してはいけません。胞子が内部まで広がっているため、廃棄してください。",
+          "zh": "如果大蒜长出青霉或黑霉，绝对不能只冲洗掉表面就拿来做菜。霉菌孢子已扩散至内部，建议直接丢弃。",
+          "es": "Si aparece moho azul o negro, no lo lave para cocinar. Las esporas ya se habrán extendido por dentro; deséchelo.",
+          "fr": "Si de la moisissure bleue ou noire apparaît, ne la lavez pas pour la cuire. Les spores ont pénétré à l'intérieur ; jetez-le.",
+          "de": "Wenn sich blauer oder schwarzer Schimmel bildet, waschen Sie ihn nicht ab, um zu kochen. Sporen verteilen sich tief im Inneren; entsorgen.",
+          "pt": "Se surgir mofo azul ou preto, não lave para cozinhar. As esporas já se espalharam por dentro; descarte o alho.",
+          "id": "Jika jamur biru atau hitam muncul, jangan hanya dicuci lalu dimasak. Spora jamur telah menyebar ke dalam; sebaiknya buang.",
+          "ko": "+      마늘에 푸른 곰팡이나 검은 곰팡이가 피어났다면 겉만 씻어내어 조리해서는 안 됩니다. 마늘 전체에 이미 포자가 가득 퍼진 상태이므로 위장 장애를 유발하니 폐기하는 것이 좋습니다.\n+"
+        }
+      }
+    ]
+  },
+  "green-onion": {
+    "intro": {
+      "en": "Have you ever bought a large bunch of green onions, left them in the crisper drawer, and thrown away half because they turned slimy in a few days? Today, StoreSelf shares moisture and gas control hacks to keep green onions crisp for over a month.",
+      "ja": "ネギを1束買ってきて冷蔵庫の野菜室にそのまま入れておき、数日後にヌルヌルになって半分以上捨てた経験はありませんか？本日、StoreSelfでは水分とガスをコントロールして、ネギを1ヶ月以上シャキシャキに保つコツをご紹介します。",
+      "zh": "您是否曾买了一大整捆大葱，直接塞进冰箱蔬菜室，结果几天后变得黏糊糊流水，扔掉了一大半？今天，StoreSelf为您分享调控水分与气体、让大葱爽脆保鲜一个月以上的妙招。",
+      "es": "¿Compró un manojo de cebollines, los dejó en el cajón de verduras y tuvo que tirar la mitad porque se pusieron babosos en pocos días? Hoy, StoreSelf comparte trucos para mantenerlos crujientes un mes.",
+      "fr": "Avez-vous déjà acheté une botte d'oignons verts, l'avez laissée dans le bac à légumes, et en avez jeté la moitié devenue visqueuse ? Aujourd'hui, StoreSelf vous montre comment les garder frais un mois.",
+      "de": "Haben Sie einen Bund Frühlingszwiebeln gekauft, in das Gemüsefach gelegt und die Hälfte weggeworfen, weil sie matschig wurden? Heute teilt StoreSelf Tipps, wie sie über einen Monat knackig bleiben.",
+      "pt": "Você já comprou um maço de cebolinha, deixou na gaveta de vegetais e jogou metade fora porque ficou gosmenta em poucos dias? Hoje, o StoreSelf ensina como mantê-la crocante por mais de um mês.",
+      "id": "Pernahkah Anda membeli seikat daun bawang, menyimpannya di laci sayur, lalu membuang setengahnya karena berlendir dalam beberapa hari? Hari ini, StoreSelf membagikan tips agar daun bawang tetap segar selama sebulan."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Dry moisture completely before storage",
+          "ja": "保存する前に水気を完全に乾かしてください",
+          "zh": "储存前请彻底晾干水分",
+          "es": "Seque la humedad por completo antes de guardarlos",
+          "fr": "Séchez complètement l'humidité avant stockage",
+          "de": "Vor dem Lagern Feuchtigkeit vollständig abtrocknen",
+          "pt": "Seque completamente a umidade antes de guardar",
+          "id": "Keringkan kelembapan sepenuhnya sebelum disimpan",
+          "ko": "수분이 가득 찬 채 밀봉하지 마세요 💧"
+        },
+        "desc": {
+          "en": "Green onions are highly vulnerable to rot when wet. Always air-dry them or pat dry with paper towels.",
+          "ja": "ネギは水分が残っていると非常に腐りやすいです。必ず風通しの良い場所で乾かすか、ペーパータオルで拭き取ってください。",
+          "zh": "大葱带水极易腐烂变质。请务必在通风处晾干，或用厨房纸巾擦干。",
+          "es": "Los cebollines se pudren muy fácil con humedad. Séquelos siempre al aire o con toallas de papel.",
+          "fr": "Les oignons verts pourrissent très vite avec l'humidité. Séchez-les toujours à l'air libre ou avec du papier absorbant.",
+          "de": "Frühlingszwiebeln verfaulen bei Nässe sehr leicht. Immer an der Luft trocknen lassen oder mit Küchenpapier abtupfen.",
+          "pt": "A cebolinha apodrece muito fácil com umidade. Seque-a sempre ao ar ou com papel-toalha.",
+          "id": "Daun bawang sangat mudah busuk jika basah. Selalu angin-anginkan atau lap dengan tisu dapur.",
+          "ko": "+      씻어놓은 대파를 물기가 뚝뚝 떨어지는 채로 반찬통에 밀봉 보관하면, 하루 이내에 아랫부분부터 미끈거리는 투명 점액질이 생겨 썩기 시작하므로 주의해야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Separate stems and leafy green parts for storage",
+          "ja": "白い根元と緑の葉の部分を分けて保存してください",
+          "zh": "将葱白和葱叶分开保存",
+          "es": "Separe los tallos blancos de las hojas verdes para guardarlos",
+          "fr": "Séparez les tiges blanches des feuilles vertes pour le stockage",
+          "de": "Die weißen Stängel und grünen Blätter getrennt lagern",
+          "pt": "Separe os talos brancos das folhas verdes para guardar",
+          "id": "Pisahkan bagian batang putih dan daun hijau untuk disimpan",
+          "ko": "초록 잎과 흰 줄기를 분리하여 보관하세요 🧅"
+        },
+        "desc": {
+          "en": "Stems and leaves decay at different speeds. Separating them prevents cross-decay and extends shelf life.",
+          "ja": "根元と葉の部分では傷むスピードが異なります。分けて保存することで、お互いの腐敗を防ぎ、保存期間を延ばせます。",
+          "zh": "葱白和葱叶的变质速度不同。分开保存可防止互相加速腐烂，从而延长保鲜期。",
+          "es": "Los tallos y las hojas se dañan a velocidades diferentes. Separarlos evita que se pudran entre sí y prolonga su duración.",
+          "fr": "Les tiges et les feuilles s'altèrent à des vitesses différentes. Les séparer évite qu'elles ne se fassent pourrir entre elles.",
+          "de": "Stängel und Blätter verderben unterschiedlich schnell. Eine getrennte Lagerung verhindert gegenseitigen Verderb.",
+          "pt": "Os talos e as folhas estragam em ritmos diferentes. Separar evita que apodreçam mutuamente e prolonga a conservação.",
+          "id": "Batang dan daun membusuk dengan kecepatan berbeda. Memisahkannya mencegah pembusukan silang dan memperpanjang masa simpan.",
+          "ko": "+      대파는 초록 잎 부분이 흰 부분보다 수분 함량이 많아 먼저 상합니다. 두 부위를 썰어 분리하여 각각 다른 팩에 보관하는 것이 전체 대파 수명을 연장합니다.\n+"
+        }
+      }
+    ]
+  },
+  "milk": {
+    "intro": {
+      "en": "Do you store milk cartons lined up in the refrigerator door shelves? The refrigerator door experiences direct temperature changes every time it is opened, making it the worst place to keep milk. Today, StoreSelf shares safe milk storage guidelines.",
+      "ja": "牛乳パックを冷蔵庫のドアポケットに並べて保管していませんか？開閉するたびに温度変化を直接受けるドアポケットは、牛乳の傷みを早めるため、最も避けるべき場所です。正しい保管方法をご紹介します。",
+      "zh": "您是否把牛奶盒整齐地排在冰箱门旁的架子上？冰箱门每次开关都会直接发生温度变化，是保存牛奶最应该避免的地方。今天，StoreSelf为您分享科学安全的牛奶储存指南。",
+      "es": "¿Guarda los cartones de leche alineados en los estantes de la puerta del refrigerador? La puerta sufre cambios directos de temperatura al abrirse, siendo el peor lugar para la leche. Hoy, StoreSelf comparte pautas seguras.",
+      "fr": "Rangez-vous les briques de lait alignées dans la porte du frigo ? La porte subit des changements directs de température à chaque ouverture, c'est le pire endroit pour le lait. Aujourd'hui, StoreSelf vous montre les bonnes pratiques.",
+      "de": "Lagern Sie Milchkartons in den Abstellfächern der Kühlschranktür? Die Tür ist durch das ständige Öffnen starken Temperaturschwankungen ausgesetzt und der schlechteste Ort für Milch. Heute teilt StoreSelf Tipps.",
+      "pt": "Você guarda as caixas de leite alinhadas nas prateleiras da porta da geladeira? A porta sofre variações diretas de temperatura a cada abertura, sendo o pior lugar para o leite. Hoje, o StoreSelf compartilha orientações seguras.",
+      "id": "Apakah Anda menyimpan kotak susu berjejer di rak pintu kulkas? Pintu kulkas mengalami perubahan suhu langsung setiap kali dibuka, menjadikannya tempat terburuk untuk susu. Hari ini, StoreSelf membagikan panduan penyimpanan susu."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Store deep inside the shelf after opening",
+          "ja": "開封後は冷蔵庫の棚の奥深くに保存してください",
+          "zh": "开封后请存放在冰箱搁板内侧深处",
+          "es": "Guarde al fondo de la repisa después de abrirla",
+          "fr": "Rangez au fond de l'étagère après ouverture",
+          "de": "Nach dem Öffnen tief im Inneren des Regals lagern",
+          "pt": "Guarde ao fundo da prateleira após abrir",
+          "id": "Simpan di bagian dalam rak setelah dibuka",
+          "ko": "입구 오염에 특히 주의하세요 🥛"
+        },
+        "desc": {
+          "en": "The temperature near the door fluctuates, allowing bacteria to multiply quickly. Place milk on middle shelves where the temperature is stable.",
+          "ja": "ドア付近は温度変化が激しく、雑菌が繁殖しやすいです。温度が最も一定に保たれる棚の奥で保管してください。",
+          "zh": "靠近冰箱门的地方温度波动大，容易滋生细菌。请将牛奶存放在温度最稳定的搁板内侧。",
+          "es": "La zona de la puerta tiene cambios de temperatura, facilitando el crecimiento de bacterias. Ponga la leche en las repisas del medio.",
+          "fr": "La température près de la porte fluctue, ce qui favorise la prolifération des bactéries. Placez le lait sur les étagères du milieu.",
+          "de": "In der Nähe der Tür schwankt die Temperatur, was Bakterienwachstum fördert. Milch im mittleren Fach lagern, wo es stabil kühl ist.",
+          "pt": "A área perto da porta varia muito de temperatura, acelerando as bactérias. Coloque o leite nas prateleiras do meio.",
+          "id": "Suhu di dekat pintu kulkas fluktuatif, memicu bakteri berkembang biak cepat. Letakkan susu di rak tengah yang suhunya stabil.",
+          "ko": "+      우유 팩을 열 때 손가락이 닿거나 입을 대고 마시면 구강 내 유해균이 들어가 냉장고 내부에서도 급격히 번식하여 우유가 상하니 절대 금해야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Avoid storing near foods with strong odors",
+          "ja": "臭いの強い食品の近くを避けて保管してください",
+          "zh": "避免存放在气味强烈的食物旁",
+          "es": "Evite guardarla cerca de alimentos con olores fuertes",
+          "fr": "Évitez de stocker près d'aliments à forte odeur",
+          "de": "Lagerung neben stark riechenden Lebensmitteln vermeiden",
+          "pt": "Evite guardar perto de alimentos com cheiro forte",
+          "id": "Hindari menyimpan di dekat makanan berbau tajam",
+          "ko": "소비기한이 지나 굳기 시작하면 즉시 버리세요 ⚠️"
+        },
+        "desc": {
+          "en": "Milk absorbs surrounding odors very easily due to its fat content. Keep it away from garlic, onions, or kimchi.",
+          "ja": "牛乳は脂肪成分の働きにより、周囲の臭いを非常に吸着しやすいです。にんにく、玉ねぎ、キムチなどの近くを避けて密閉保管してください。",
+          "zh": "牛奶中的乳脂肪极易吸收周围的异味。请让其避开大蒜、洋葱、泡菜等气味浓烈的食物。",
+          "es": "La leche absorbe olores fácilmente debido a su grasa. Manténgala alejada del ajo, la cebolla o el kimchi.",
+          "fr": "Le lait absorbe très facilement les odeurs environnantes à cause de sa graisse. Éloignez-le de l'ail, des oignons ou du kimchi.",
+          "de": "Milch nimmt durch ihren Fettgehalt leicht Umgebungsgerüche an. Von Knoblauch, Zwiebeln oder Kimchi fernhalten.",
+          "pt": "O leite absorbe cheiros facilmente devido à gordura. Mantenha longe de alho, cebola ou kimchi.",
+          "id": "Susu sangat mudah menyerap bau di sekitarnya karena kandungan lemaknya. Jauhkan dari bawang putih, bawang bombay, atau kimchi.",
+          "ko": "+      우유가 팩 바닥에 하얗게 뭉치거나 시큼한 요구르트 냄새가 난다면 유산균이 아닌 부패균이 작동한 결과물이므로 가차 없이 전량 폐기해야 합니다.\n+"
+        }
+      }
+    ]
+  },
+  "mushroom": {
+    "intro": {
+      "en": "Do you wash mushrooms with water before cooking? This common habit ruins their unique flavor and texture while accelerating rot. Today, StoreSelf shares professional mushroom storage and cleaning tips.",
+      "ja": "キノコを調理する前に水で綺麗に洗っていませんか？実はその習慣が、キノコ特有の風味と食感を損ない、腐敗スピードを何倍も早める原因になります。正しい保存方法をご紹介します。",
+      "zh": "您在做菜前会用水清洗蘑菇吗？这个常见的习惯不仅会破坏蘑菇特有的风味与口感，还会使其变质腐烂的速度加快数倍。今天，StoreSelf为您分享专业的蘑菇保鲜与清洁窍门。",
+      "es": "¿Lava los champiñones con agua antes de cocinarlos? Este hábito daña su sabor y textura, y acelera su descomposición. Hoy, StoreSelf comparte trucos de conservación y limpieza.",
+      "fr": "Lavez-vous les champignons à l'eau avant de les cuire ? Cette habitude détruit leur saveur et leur texture tout en accélérant le pourrissement. Aujourd'hui, StoreSelf vous montre comment faire.",
+      "de": "Waschen Sie Pilze vor dem Kochen mit Wasser ab? Diese Gewohnheit beeinträchtigt Aroma und Textur und beschleunigt den Verderb. Heute teilt StoreSelf Tipps zur Lagerung und Reinigung.",
+      "pt": "Você lava os cogumelos com água antes de cozinhar? Esse hábito destrói o sabor e a textura e acelera o apodrecimento. Hoje, o StoreSelf compartilha técnicas corretas.",
+      "id": "Apakah Anda mencuci jamur dengan air sebelum dimasak? Kebiasaan ini dapat merusak rasa dan tekstur jamur serta mempercepat pembusukan. Hari ini, StoreSelf membagikan tips penyimpanan jamur."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Never wash mushrooms with water before storing",
+          "ja": "保存する前にキノコを絶対に水洗いしないでください",
+          "zh": "储存前千万不要清洗蘑菇",
+          "es": "Nunca lave los champiñones con agua antes de guardarlos",
+          "fr": "Ne lavez jamais les champignons à l'eau avant stockage",
+          "de": "Pilze vor dem Lagern niemals mit Wasser abwaschen",
+          "pt": "Nunca lave os cogumelos antes de guardar",
+          "id": "Jangan pernah mencuci jamur dengan air sebelum disimpan",
+          "ko": "표면이 끈적거리는 버섯은 섭취 금지 ⚠️"
+        },
+        "desc": {
+          "en": "Mushrooms absorb water like a sponge. Washing them makes them slimy and causes them to rot within a day.",
+          "ja": "キノコはスポンジのように水分を吸い込みます。水洗いするとヌルヌルになり、一日で腐ってしまいます。汚れは乾いた布かブラシで落としてください。",
+          "zh": "蘑菇吸水性极强。清洗会使其变得黏糊糊，并在一天内变质。泥沙用干布或小刷子轻轻除掉即可。",
+          "es": "Los champiñones absorben agua como esponjas. Lavarlos los pone babosos y los pudre en un solo día. Limpie la tierra con un paño seco.",
+          "fr": "Les champignons absorbent l'eau comme des éponges. Les laver les rend visqueux et les fait pourrir en un jour. Brossez-les à sec.",
+          "de": "Pilze saugen Wasser auf wie ein Schwamm. Das Waschen macht sie matschig und lässt sie in einem Tag verfaulen. Schmutz trocken abbürsten.",
+          "pt": "Os cogumelos absorvem água como esponja. Lavar deixa gosmento e apodrece em um dia. Limpe a terra com pano seco.",
+          "id": "Jamur menyerap air seperti spons. Mencucinya membuatnya berlendir dan membusuk dalam sehari. Lap kotoran dengan kain kering.",
+          "ko": "+      버섯을 꺼냈을 때 표면에 끈적한 진액이 묻어나거나 시큼한 상한 냄새가 난다면, 유해균과 곰팡이가 번식한 상태이므로 가차 없이 전량 폐기해야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Cover with paper towels in airtight containers",
+          "ja": "密閉容器に入れる際はキッチンペーパーで包んでください",
+          "zh": "放入密封容器时请垫上厨房纸巾",
+          "es": "Cubra con toallas de papel en recipientes herméticos",
+          "fr": "Enveloppez de papier absorbant dans les boîtes étanches",
+          "de": "Im Behälter mit Küchenpapier abdecken",
+          "pt": "Cubra com papel-toalha nos potes herméticos",
+          "id": "Alasi dengan tisu dapur saat disimpan di wadah kedap",
+          "ko": "장기 보관 시 데친 후 냉동 보관하세요 ❄️"
+        },
+        "desc": {
+          "en": "Mushrooms continuously release moisture. Wrapping them in paper towels absorbs excess condensation and prevents spoilage.",
+          "ja": "キノコは保存中も呼吸し水分を放出します。ペーパーで包むことで、容器内の湿気を吸収し、水滴による腐敗を防ぎます。",
+          "zh": "蘑菇在保存期间会持续释放水分。用纸巾包裹可以吸收容器内的冷凝水，防止因潮湿导致腐烂。",
+          "es": "Los champiñones liberan humedad constantemente. Envolverlos en toallas de papel absorbe el exceso de condensación y evita que se pudran.",
+          "fr": "Les champignons rejettent de l'humidité en continu. Les envelopper de papier absorbant élimine la condensation et évite le pourrissement.",
+          "de": "Pilze geben ständig Feuchtigkeit ab. Das Einwickeln in Küchenpapier absorbiert Kondenswasser und verhindert Fäulnis.",
+          "pt": "Cogumelos liberam umidade constantemente. Embrulhar em papel-toalha absorbe a condensação e evita que apodreçam.",
+          "id": "Jamur terus melepaskan kelembapan. Membungkusnya dengan tisu dapur menyerap kondensasi berlebih dan mencegah pembusukan.",
+          "ko": "+      3~5일 이상 오래 보관해야 할 때는 끓는 물에 소금을 아주 살짝 넣어 30초간 데친 뒤, 물기를 꾹 짜서 지퍼백에 얼려야 맛과 질감이 보존됩니다.\n+"
+        }
+      }
+    ]
+  },
+  "nuts": {
+    "intro": {
+      "en": "Do you leave healthy nuts out on the dining table in clear containers? Nuts are rich in unsaturated fatty acids, making them oxidize quickly when exposed to air and light, creating rancid odors and toxins. Today, StoreSelf shares safe nut preservation guides.",
+      "ja": "健康に良いナッツ類を、食卓の上にそのまま置いて保存していませんか？ナッツは不飽和脂肪酸が豊富なため、空気や光に触れると急速に酸化が進み、油臭くなったり毒性物質が発生したりします。正しい保存方法をご紹介します。",
+      "zh": "为了每天食用，您是否将健康的坚果随手装在透明罐子里放在餐桌上？坚果富含不饱和脂肪酸，暴露在空气和光线下会迅速氧化，产生油哈味甚至产生毒性物质。今天，StoreSelf为您分享科学的坚果储存指南。",
+      "es": "¿Deja los frutos secos en la mesa en frascos transparentes? Tienen muchas grasas insaturadas, por lo que se oxidan rápido al aire y luz, creando mal olor y toxinas. Hoy, StoreSelf comparte pautas de conservación.",
+      "fr": "Laissez-vous les fruits secs sur la table dans des bocaux transparents ? Ils sont riches en acides gras insaturés et s'oxydent vite à l'air et à la lumière, créant de mauvaises odeurs et des toxines. Aujourd'hui, StoreSelf vous montre comment faire.",
+      "de": "Lagern Sie Nüsse in transparenten Gläsern auf dem Esstisch? Nüsse sind reich an ungesättigten Fettsäuren und oxidieren an Luft und Licht schnell, was zu Ranzigkeit und Toxinen führt. Heute teilt StoreSelf Tipps.",
+      "pt": "Você deixa as oleaginosas na mesa em potes transparentes? Elas têm muita gordura boa, por isso oxidam rápido com ar e luz, criando mau cheiro e toxinas. Hoje, o StoreSelf compartilha orientações corretas.",
+      "id": "Apakah Anda membiarkan kacang-kacangan di meja makan dalam wadah transparan? Kacang kaya lemak tak jenuh, membuatnya cepat teroksidasi oleh udara dan cahaya, menimbulkan bau tengik dan racun. Hari ini, StoreSelf membagikan panduan penyimpanan kacang."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Never eat rancid or damp nuts",
+          "ja": "油臭い臭いがしたり、湿気たナッツは絶対に食べないでください",
+          "zh": "绝对不要食用有哈喇味或受潮的坚果",
+          "es": "Nunca coma frutos secos rancios o húmedos",
+          "fr": "Ne mangez jamais de fruits secs rancis ou humides",
+          "de": "Niemals ranzige oder feuchte Nüsse essen",
+          "pt": "Nunca coma oleaginosas rancias ou úmidas",
+          "id": "Jangan pernah memakan kacang yang tengik atau lembap",
+          "ko": "쩐내가 나거나 눅눅한 견과류는 절대 먹지 마세요 ⚠️"
+        },
+        "desc": {
+          "en": "Oxidized nuts develop aflatoxins, powerful carcinogens that are not destroyed even by heat. Discard them immediately.",
+          "ja": "酸化したナッツにはアフラトキシンという強力な発がん性物質（カビ毒）が発生します。加熱しても消えないため、すぐに破棄してください。",
+          "zh": "氧化的坚果会产生黄曲霉毒素，这是一种强致癌物，即使加热也无法被破坏。发现变质请立即丢弃。",
+          "es": "Los frutos secos oxidados desarrollan aflatoxinas, potentes carcinógenos que no se destruyen con calor. Deséchelos de inmediato.",
+          "fr": "Les fruits secs oxydés développent des aflatoxines, de puissants cancérogènes qui ne sont pas détruits par la cuisson. Jetez-les.",
+          "de": "Oxidierte Nüsse bilden Aflatoxine, starke Karzinogene, die durch Erhitzen nicht zerstört werden. Sofort entsorgen.",
+          "pt": "Oleaginosas oxidadas desenvolvem aflatoxinas, potentes carcinógenos que não são destruídos pelo calor. Descarte-as imediatamente.",
+          "id": "Kacang yang teroksidasi menghasilkan aflatoksin, zat karsinogenik kuat yang tidak hancur bahkan dengan pemanasan. Segera buang.",
+          "ko": "+      견과류에서 묵은 기름내가 나거나 만졌을 때 눅눅해진 것은 이미 지방 산패와 아플라톡신 균 증식이 시작된 것입니다. 물로 씻거나 볶아도 독소는 사라지지 않으니 폐기해야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Seal with oxygen absorbers in dark places",
+          "ja": "脱酸素剤と一緒に光を通さない容器で密閉保存してください",
+          "zh": "放入脱氧剂并密封存放在避光阴凉处",
+          "es": "Selle con absorbentes de oxígeno en lugares oscuros",
+          "fr": "Fermez avec des absorbeurs d'oxygène à l'abri de la lumière",
+          "de": "Mit Sauerstoffabsorbern an dunklen Orten luftdicht lagern",
+          "pt": "Selle com absorventes de oxigênio em potes escuros",
+          "id": "Segel dengan penyerap oksigen di tempat gelap",
+          "ko": "견과류를 상처 나지 않게 조심히 다루세요 🥜"
+        },
+        "desc": {
+          "en": "Store nuts in opaque containers or bags with oxygen absorbers inside, and keep them in a cool drawer or freeze.",
+          "ja": "不透明な容器やジッパーバッグに脱酸素剤と一緒に入れ、光を遮断した涼しい引き出しに入れるか、冷凍庫で保管してください。",
+          "zh": "将坚果装入不透明的容器或密封袋中，放入脱氧剂以阻断空气，存放在避光的抽屉中或直接冷冻。",
+          "es": "Guarde los frutos secos en recipientes opacos con absorbentes de oxígeno, en un cajón fresco o en el congelador.",
+          "fr": "Stockez les fruits secs dans des contenants opaques avec des absorbeurs d'oxygène, dans un tiroir frais ou au congélateur.",
+          "de": "Nüsse in lichtundurchlässigen Behältern mit Sauerstoffabsorbern im kühlen Schrank oder im Gefrierfach lagern.",
+          "pt": "Guarde as oleaginosas em recipientes opacos com absorventes de oxigênio, em gaveta fresca ou no freezer.",
+          "id": "Simpan kacang dalam wadah kedap cahaya dengan penyerap oksigen di dalamnya, letakkan di laci sejuk atau bekukan.",
+          "ko": "+      호두나 아몬드의 껍질 표면에 금이 가거나 가루가 날릴 정도로 충격을 주면 상처 난 틈새로 공기가 들어가 산화가 훨씬 빨라집니다. 봉지를 무리하게 압박하지 마세요.\n+"
+        }
+      }
+    ]
+  },
+  "olive-oil": {
+    "intro": {
+      "en": "Did you store olive oil in the fridge to keep it fresh longer? Refrigerating olive oil causes it to solidify into white crystals, destroying its unique nutty aroma and healthy compounds. Today, StoreSelf shares room temperature storage hacks.",
+      "ja": "オリーブオイルを新鮮に保つために、冷蔵庫に入れていませんか？冷蔵庫に保管すると白く結晶化して固まってしまい、特有の豊かな風味や栄養成分が壊れてしまいます。正しい常温保存方法をご紹介します。",
+      "zh": "您是否为了让橄榄油保鲜更久而将其放进冰箱？冷藏橄榄油会导致其凝固成白色结晶，从而破坏其特有的清香与营养活性成分。今天，StoreSelf为您分享科学的常温避光保存法。",
+      "es": "¿Guardó el aceite de oliva en el refrigerador para que durara más? Refrigerarlo hace que se solidifique en cristales blancos, destruyendo su aroma y grasas saludables. Hoy, StoreSelf comparte trucos a temperatura ambiente.",
+      "fr": "Avez-vous mis votre huile d'olive au frigo pour la garder fraîche ? Le froid la fige en cristaux blancs, détruisant son arôme fruité et ses nutriments. Aujourd'hui, StoreSelf vous montre les astuces de conservation à température ambiante.",
+      "de": "Haben Sie Olivenöl im Kühlschrank gelagert, um es länger frisch zu halten? Das Kühlen führt zur Bildung weißer Kristalle, was das feine Aroma und die gesunden Fette zerstört. Heute teilt StoreSelf Tipps zur Raumtemperaturlagerung.",
+      "pt": "Você guardou o azeite na geladeira para conservar por mais tempo? Refrigerar faz o azeite solidificar em cristais brancos, destruindo o aroma e nutrientes. Hoje, o StoreSelf compartilha técnicas de temperatura ambiente.",
+      "id": "Apakah Anda menyimpan minyak zaitun di kulkas agar lebih awet? Mendinginkannya akan membeku menjadi kristal putih, merusak aroma dan kandungan nutrisinya. Hari ini, StoreSelf membagikan panduan penyimpanan suhu ruang."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Seal the cap tightly after every use",
+          "ja": "使用後は必ず蓋をきつく閉めて空気を遮断してください",
+          "zh": "每次使用后请务必拧紧盖子以隔绝空气",
+          "es": "Selle la tapa firmemente después de cada uso",
+          "fr": "Fermez soigneusement le bouchon après chaque utilisation",
+          "de": "Verschluss nach jedem Gebrauch fest verschließen",
+          "pt": "Feche bem a tampa após cada uso",
+          "id": "Tutup rapat penutup setelah digunakan",
+          "ko": "사용 후 뚜껑을 끝까지 꽉 닫으세요 ⚠️"
+        },
+        "desc": {
+          "en": "Olive oil oxidizes when exposed to oxygen, increasing acidity and decreasing health benefits. Always restrict air inflow.",
+          "ja": "オリーブオイルは酸素に触れると酸化が進み、風味が低下して酸度が上がります。使用後はすぐにキャップをしっかり閉めてください。",
+          "zh": "橄榄油暴露在空气中会迅速氧化，导致酸值升高并流失营养。使用后请立即拧紧瓶盖以限制空气流入。",
+          "es": "El aceite de oliva se oxida al contacto con el oxígeno, aumentando su acidez y perdiendo propiedades. Cierre bien la tapa siempre.",
+          "fr": "L'huile d'olive s'oxyde au contact de l'oxygène, augmentant son acidité et perdant ses bienfaits. Fermez toujours fermement le bouchon.",
+          "de": "Olivenöl oxidiert bei Kontakt mit Sauerstoff, wodurch der Säuregehalt steigt und Nährstoffe verloren gehen. Luftzufuhr immer stoppen.",
+          "pt": "O azeite oxida em contato com o oxigênio, aumentando a acidez e perdendo propriedades. Feche sempre bem a tampa.",
+          "id": "Minyak zaitun teroksidasi saat terpapar oksigen, meningkatkan keasaman dan mengurangi khasiatnya. Selalu batasi udara masuk.",
+          "ko": "+      올리브유는 공기 중 산소와 결합할 때 활성산소가 급격히 늘어납니다. 매번 사용 후 뚜껑 나사가 헛돌지 않게 꼭 잠가 공기 유입을 원천 차단해 주셔야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Keep away from heat sources like ovens and stoves",
+          "ja": "コンロやオーブンなどの熱源から遠ざけて保管してください",
+          "zh": "避开燃气灶、烤箱等热源",
+          "es": "Manténgalo alejado de fuentes de calor como estufas y hornos",
+          "fr": "Éloignez des sources de chaleur comme les plaques et le four",
+          "de": "Von Hitzequellen wie Herd und Ofen fernhalten",
+          "pt": "Mantenha longe de fontes de calor como fogão e forno",
+          "id": "Jauhkan dari sumber panas seperti kompor dan oven",
+          "ko": "참기름과 들기름의 온도 차이를 기억하세요 🫒"
+        },
+        "desc": {
+          "en": "Stovetop heat triggers quick oxidation and ruins quality. Store olive oil inside a cool, dark kitchen cabinet.",
+          "ja": "コンロ周辺の熱は酸化を急速に進め、品質を著しく低下させます。調理スペースから離れた、温度変化の少ない暗い収納棚に保管してください。",
+          "zh": "灶台周围的热量会加速氧化并破坏品质。请将橄榄油存放在远离烹饪区、阴凉避光的橱柜内部。",
+          "es": "El calor de la estufa acelera la oxidación y arruina la calidad. Guarde el aceite dentro de un armario fresco y oscuro.",
+          "fr": "La chaleur des plaques accélère l'oxydation et gâte l'huile. Stockez-la dans un placard de cuisine frais et sombre.",
+          "de": "Die Wärme am Herd beschleunigt die Oxidation und ruiniert die Qualität. Olivenöl in einem kühlen, dunklen Küchenschrank lagern.",
+          "pt": "O calor do fogão acelera a oxidação e estraga a qualidade. Guarde o azeite dentro de um armário fresco e escuro.",
+          "id": "Panas kompor memicu oksidasi cepat dan merusak kualitas. Simpan minyak zaitun di dalam kabinet dapur yang sejuk dan gelap.",
+          "ko": "+      올리브유와 참기름은 '실온'에 보관해야 풍미가 유지되지만, 오메가-3가 가득해 산패가 극도로 빠른 들기름은 무조건 '냉장' 보관해야 하니 확실히 구분해야 합니다.\n+"
+        }
+      }
+    ]
+  },
+  "onion": {
+    "intro": {
+      "en": "Have you ever bought onions in a mesh bag and stacked them in the corner of your balcony? Soon, they rot where they touch each other or sprout. Today, StoreSelf shares scientific moisture and gas control hacks to preserve onions longer.",
+      "ja": "玉ねぎをネットのまま買ってきて、ベランダの隅に積み重ねて置いていませんか？しばらくすると、重なっている部分から傷んで腐ったり、芽が出てしまったりします。正しい保存方法をご紹介します。",
+      "zh": "您是否曾买了一整网袋洋葱，随手堆在阳台角落？不久后，洋葱重叠接触的地方就会开始变软腐烂，或是发芽。今天，StoreSelf为您分享调控水分与气体的科学洋葱保鲜储存法。",
+      "es": "¿Compró cebollas en red y las amontonó en la esquina del balcón? Pronto se pudren donde se tocan o brotan. Hoy, StoreSelf comparte trucos de humedad y gas para conservarlas más tiempo.",
+      "fr": "Avez-vous acheté des oignons en filet et les avez empilés dans un coin du balcon ? Rapidement, ils pourrissent là où ils se touchent ou germent. Aujourd'hui, StoreSelf vous montre les astuces de conservation.",
+      "de": "Haben Sie Zwiebeln im Netz gekauft und in der Ecke des Balkons gestapelt? Schon bald verfaulen sie an den Druckstellen oder keimen. Heute teilt StoreSelf Tipps zur Feuchtigkeitsregulierung.",
+      "pt": "Você comprou cebolas em saco de rede e empilhou no canto da varanda? Logo elas apodrecem onde se encostam ou brotam. Hoje, o StoreSelf compartilha técnicas de umidade e gás para conservar por mais tempo.",
+      "id": "Pernahkah Anda membeli bawang bombay dalam jaring lalu menumpuknya di sudut balkon? Tak lama, bagian yang saling bersentuhan akan membusuk atau bertunas. Hari ini, StoreSelf membagikan panduan penyimpanan bawang."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Isolate bruised onions immediately",
+          "ja": "傷ついた玉ねぎはすぐに仕分けして使用してください",
+          "zh": "受损的洋葱请剔除并立即食用",
+          "es": "Aísle las cebollas dañadas de inmediato para consumo rápido",
+          "fr": "Isolez immédiatement les oignons abîmés pour les consommer vite",
+          "de": "Beschädigte Zwiebeln sofort aussortieren und verbrauchen",
+          "pt": "Separe as cebolas machucadas imediatamente para consumo rápido",
+          "id": "Segera pisahkan bawang yang rusak untuk langsung digunakan",
+          "ko": "수분이 닿은 밀봉 상온 방치는 절대 금물입니다 💧"
+        },
+        "desc": {
+          "en": "Onions with cuts or bruises release moisture and gas, causing surrounding onions to decay rapidly. Use them first.",
+          "ja": "傷がある玉ねぎは水分やガスを放出し、周囲の正常な玉ねぎまで連鎖的に腐らせてしまいます。傷んだものは先に使ってしまいましょう。",
+          "zh": "有破损的洋葱会释放水分和变质气体，导致周围完好的洋葱连锁腐烂。请优先食用受损洋葱。",
+          "es": "Las cebollas con golpes liberan humedad y gas, pudriendo las de alrededor. Consúmalas primero.",
+          "fr": "Les oignons abîmés rejettent de l'humidité et du gaz, faisant pourrir les autres. Consommez-les en premier.",
+          "de": "Zwiebeln mit Druckstellen geben Feuchtigkeit und Reifegase ab, wodurch andere Zwiebeln faulen. Zuerst verbrauchen.",
+          "pt": "Cebolas com cortes liberam umidade e gás, apodrecendo as vizinhas. Consuma-as primeiro.",
+          "id": "Bawang yang luka melepaskan kelembapan dan gas, membusukkan bawang di sekitarnya. Gunakan terlebih dahulu.",
+          "ko": "+      물기가 남아있는 양파를 밀폐용기에 담아 상온에 방치하면 갇힌 습기로 인해 하루 이내에 물렁해지며 흰 곰팡이가 번식하기 쉬우니 건조 상태에 유의하세요.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Never store onions together with potatoes",
+          "ja": "じゃがいもと絶対に一緒に保存しないでください",
+          "zh": "千万不要与土豆放在一起保存",
+          "es": "Nunca guarde las cebollas junto con las papas",
+          "fr": "Ne stockez jamais les oignons avec les pommes de terre",
+          "de": "Zwiebeln niemals zusammen mit Kartoffeln lagern",
+          "pt": "Nunca guarde as cebolas junto com as batatas",
+          "id": "Jangan pernah menyimpan bawang bersama dengan kentang",
+          "ko": "상처 나거나 물렁한 양파는 즉시 격리하세요 🧅"
+        },
+        "desc": {
+          "en": "Onions release moisture and potatoes release ethylene gas. Storing them together accelerates decay and sprouting for both.",
+          "ja": "じゃがいもはエチレンガスを放出し、玉ねぎは湿気を好まないため、一緒に置くと双方の腐敗や発芽が急速に進んでしまいます。",
+          "zh": "洋葱释放水分，而土豆释放乙烯气体。混放会互相加速发芽和腐烂速度，导致双方迅速变质。",
+          "es": "Las cebollas liberan humedad y las papas gas etileno. Almacenarlas juntas acelera el deterioro y brote de ambas.",
+          "fr": "Les oignons rejettent de l'humidité et les pommes de terre du gaz éthylène. Les stocker ensemble accélère le pourrissement et la germination.",
+          "de": "Zwiebeln geben Feuchtigkeit ab und Kartoffeln setzen Ethylengas frei. Das beschleunigt Verderb und Keimung bei beiden.",
+          "pt": "Cebolas liberam umidade e batatas liberam gás etileno. Guardar juntas acelera a deterioração e o broto de ambas.",
+          "id": "Bawang melepaskan kelembapan dan kentang melepaskan gas etilen. Menyimpannya bersama akan mempercepat pembusukan dan pertumbuhan tunas keduanya.",
+          "ko": "+      한 알이라도 썩기 시작한 양파는 주변의 멀쩡한 양파를 연쇄적으로 오염시킵니다. 망 보관 시 주기적으로 체크하여 상처 난 것은 도려내 먼저 드셔야 합니다.\n+"
+        }
+      }
+    ]
+  },
+  "perilla-oil": {
+    "intro": {
+      "en": "Did you store perilla oil in a kitchen cabinet or room temp pantry like olive or sesame oil? Perilla oil contains over 60% omega-3 fatty acids, causing it to oxidize rapidly, rancidify, and generate harmful carcinogens at room temp. Today, StoreSelf shares cold storage hacks.",
+      "ja": "オリーブオイルやごま油のように、エゴマ油もシンクの下や常温のパントリーに保管していませんか？エゴマ油はオメガ3脂肪酸の含有量が60%以上と非常に高いため、常温に置くと数日で酸化が進み、油臭くなって体に有害な物質が発生してしまいます。正しい冷蔵保存方法をご紹介します。",
+      "zh": "您是否像对待橄榄油或芝麻油一样，将紫苏油随手存放在灶台下的橱柜或常温储藏室中？紫苏油的欧米伽-3脂肪酸含量极高（超过60%），常温下极易迅速氧化酸败，产生有害致癌物。今天，StoreSelf为您分享科学的冷藏保鲜妙招。",
+      "es": "¿Guardó el aceite de perilla en la alacena a temp. ambiente como el de oliva o sésamo? Al tener más de 60% de omega-3, se oxida rápido al aire y crea toxinas. Hoy, StoreSelf comparte trucos de refrigeración.",
+      "fr": "Avez-vous stocké votre huile de périlla dans un placard à température ambiante comme l'huile d'olive ou de sésame ? Elle contient plus de 60 % d'acides gras oméga-3, ce qui la fait s'oxyder très vite à l'air libre. Aujourd'hui, StoreSelf vous montre comment la conserver au frais.",
+      "de": "Lagern Sie Perillaöl im Küchenschrank oder der Vorratskammer wie Oliven- oder Sesamöl? Perillaöl enthält über 60 % Omega-3-Fettsäuren, weshalb es bei Raumtemperatur extrem schnell oxidiert. Heute teilt StoreSelf Tipps zur Kühllagerung.",
+      "pt": "Você guardou o óleo de perila no armário em temp. ambiente como o azeite ou óleo de gergelim? Ele tem mais de 60% de ômega-3, oxidando rápido com ar e criando toxinas. Hoje, o StoreSelf ensina a guardar na geladeira.",
+      "id": "Apakah Anda menyimpan minyak perilla di kabinet dapur atau pantry suhu ruang seperti minyak zaitun? Minyak perilla mengandung lebih dari 60% asam lemak omega-3, membuatnya cepat teroksidasi di suhu ruang. Hari ini, StoreSelf membagikan panduan penyimpanan kulkas."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Always store perilla oil in the refrigerator",
+          "ja": "エゴマ油は必ず冷蔵庫で保存してください",
+          "zh": "紫苏油请务必放入冰箱冷藏保存",
+          "es": "Guarde el aceite de perilla en el refrigerador sin excepción",
+          "fr": "Conservez impérativement l'huile de périlla au réfrigérateur",
+          "de": "Perillaöl ausnahmslos im Kühlschrank lagern",
+          "pt": "Guarde o óleo de perila na geladeira sem exceção",
+          "id": "Selalu simpan minyak perilla di dalam kulkas",
+          "ko": "쩐내가 나면 즉시 버려야 합니다 ⚠️"
+        },
+        "desc": {
+          "en": "Exposure to oxygen and light causes perilla oil to spoil fast. Keep it sealed in dark bottles inside the fridge.",
+          "ja": "酸素や光にさらされると非常に傷みやすいです。遮光瓶に入れ、しっかりと蓋を閉めて冷蔵庫で保管してください。",
+          "zh": "接触氧气和光线会导致紫苏油迅速变质。请用避光瓶装好并密封放入冰箱冷藏。",
+          "es": "La exposición al oxígeno y la luz hace que se dañe rápido. Guárdelo sellado en botellas oscuras dentro del refrigerador.",
+          "fr": "L'exposition à l'oxygène et à la lumière la fait rancir très vite. Gardez-la scellée dans des bouteilles sombres au réfrigérateur.",
+          "de": "Sauerstoff und Licht lassen Perillaöl schnell verderben. Gut verschlossen in dunklen Flaschen im Kühlschrank aufbewahren.",
+          "pt": "A exposição ao oxigênio e à luz faz o óleo estragar rápido. Guarde-o fechado em garrafas escuras na geladeira.",
+          "id": "Paparan oksigen dan cahaya membuat minyak perilla cepat rusak. Simpan rapat dalam botol gelap di kulkas.",
+          "ko": "+      들기름 뚜껑을 열었을 때 고소한 향 대신 시큼하거나 찌든 쩐내가 난다면 이미 완전히 산패된 상태입니다. 산패된 들기름은 암과 노화를 유발하는 유독 물질이므로 절대 먹지 말고 버려야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Mix with 20% sesame oil to double the shelf life",
+          "ja": "ごま油を20%混ぜると保存期間が2倍に延びます",
+          "zh": "掺入20%的芝麻油可使保鲜期翻倍",
+          "es": "Mezclar con 20% de aceite de sésamo duplica su duración",
+          "fr": "Mélanger avec 20 % d'huile de sésame double la durée de conservation",
+          "de": "Mischung mit 20 % Sesamöl verdoppelt die Haltbarkeit",
+          "pt": "Misturar com 20% de óleo de gergelim dobra a conservação",
+          "id": "Campur dengan 20% minyak gergelim untuk melipatgandakan masa simpan",
+          "ko": "참기름은 냉장고에 넣지 마세요 ❌"
+        },
+        "desc": {
+          "en": "Sesame oil is rich in sesamol and sesamolin, natural antioxidants that prevent perilla oil from rancidifying.",
+          "ja": "ごま油に含まれるセサモールなどの天然抗酸化成分が、エゴマ油の酸化を強力に抑制し、保存期間を延ばしてくれます。",
+          "zh": "芝麻油富含芝麻酚和芝麻素，这些天然抗氧化剂能有效防止紫苏油酸败变质。",
+          "es": "El aceite de sésamo es rico en sesamol y sesamolina, antioxidantes naturales que evitan que el aceite de perilla se rancie.",
+          "fr": "L'huile de sésame est riche en sésamol et sésamoline, des antioxydants naturels qui empêchent l'huile de périlla de rancir.",
+          "de": "Sesamöl ist reich an Sesamol und Sesamolin, natürlichen Antioxidantien, die das Perillaöl vor Ranzigkeit schützen.",
+          "pt": "O óleo de gergelim é rico em sesamol e sesamolina, antioxidantes naturais que evitam que o óleo de perila fique ranço.",
+          "id": "Minyak gergelim kaya akan sesamol dan sesamolin, antioksidan alami yang mencegah minyak perilla menjadi tengik.",
+          "ko": "+      참기름은 자체 항산화 물질 덕에 실온 보관 시 산패가 잘 되지 않으며, 냉장 보관 시 오히려 고소한 맛 성분이 굳고 향이 날아가므로 참기름은 그늘진 실온 찬장에 둡니다.\n+"
+        }
+      }
+    ]
+  },
+  "potato": {
+    "intro": {
+      "en": "Did you store potatoes in the refrigerator crisper drawer? Cold temperatures below 4°C cause potatoes to generate acrylamide, a carcinogen, and increase sugar content. Today, StoreSelf shares healthy potato preservation hacks.",
+      "ja": "じゃがいもを冷蔵庫の野菜室に入れていませんか？じゃがいもは4℃以下の低温で保存すると、アクリルアミドという有害物質の発生リスクが高まり、糖分が異常に増えてしまいます。健康的な正しい保存方法をご紹介します。",
+      "zh": "您是否把土豆存放在冰箱蔬菜室里？土豆在低于4℃的低温下保存会产生名为丙烯酰胺的有害物质，且糖分也会异常增加。今天，StoreSelf为您分享最健康、最扎实的土豆保鲜秘诀。",
+      "es": "¿Guardó las papas en el cajón de verduras del refrigerador? Las temperaturas frías por debajo de 4 °C hacen que generen acrilamida, un carcinógeno. Hoy, StoreSelf comparte trucos saludables.",
+      "fr": "Avez-vous rangé vos pommes de terre dans le bac à légumes du frigo ? Les températures inférieures à 4 °C poussent la pomme de terre à produire de l'acrylamide, un cancérigène. Aujourd'hui, StoreSelf vous montre comment faire.",
+      "de": "Lagern Sie Kartoffeln im Gemüsefach des Kühlschranks? Kühle Temperaturen unter 4 °C führen dazu, dass Kartoffeln Acrylamid bilden. Heute teilt StoreSelf Tipps für eine gesunde Lagerung.",
+      "pt": "Você guardou as batatas na gaveta de vegetais da geladeira? Temperaturas frias abaixo de 4°C fazem com que elas gerem acrilamida, uma substância cancerígena. Hoje, o StoreSelf compartilha técnicas corretas.",
+      "id": "Apakah Anda menyimpan kentang di laci sayur kulkas? Suhu dingin di bawah 4°C memicu kentang menghasilkan akrilamida, zat karsinogenik. Hari ini, StoreSelf membagikan panduan penyimpanan kentang."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Never store potatoes in the refrigerator",
+          "ja": "じゃがいもは絶対に冷蔵庫で保存しないでください",
+          "zh": "土豆千万不要存放在冰箱里",
+          "es": "Nunca guarde las papas en el refrigerador",
+          "fr": "Ne conservez jamais les pommes de terre au réfrigérateur",
+          "de": "Kartoffeln niemals im Kühlschrank lagern",
+          "pt": "Nunca guarde as batatas na geladeira",
+          "id": "Jangan pernah menyimpan kentang di dalam kulkas",
+          "ko": "싹이 나거나 푸르게 변한 감자는 도려내세요 🥔"
+        },
+        "desc": {
+          "en": "Cold temperatures trigger chemical changes that sweeten starch but form carcinogens when fried or baked. Keep in cool room temp.",
+          "ja": "低温障害によってデンプンが糖分に変わり、調理加熱時に発がん物質を生成しやすくなります。風通しの良い常温で保存してください。",
+          "zh": "低温会导致淀粉转化为糖分，在高温煎炸或烘烤时容易产生致癌物。请将其存放在通风的常温环境下。",
+          "es": "El frío altera el almidón y genera compuestos nocivos al freír o hornear las papas. Consérvelas a temp. ambiente fresca.",
+          "fr": "Le froid modifie l'amidon qui produit des composés nocifs lors de la friture ou de la cuisson. Gardez à température ambiante fraîche.",
+          "de": "Kälte verändert die Stärke und bildet beim Frittieren oder Backen Schadstoffe. An einem kühlen, luftigen Ort lagern.",
+          "pt": "O frio altera o amido e gera compostos nocivos ao fritar ou assar. Conserve em temperatura ambiente fresca e arejada.",
+          "id": "Suhu dingin mengubah pati menjadi gula dan memicu zat berbahaya saat digoreng atau dipanggang. Simpan di suhu ruang yang sejuk.",
+          "ko": "+      감자 싹과 녹색 껍질에는 솔라닌 독소가 가득하여 식중독을 일으킵니다. 아까워하지 말고 초록색 부위와 눈 부위를 칼로 깊게 도려내고 드셔야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Cover with newspapers or keep in dark bags",
+          "ja": "新聞紙で包むか、光を遮断する黒い袋で保存してください",
+          "zh": "用报纸包裹或装入避光的黑色袋子中",
+          "es": "Cubra con papel periódico o guarde en bolsas negras",
+          "fr": "Enveloppez de papier journal ou gardez dans des sacs noirs",
+          "de": "Mit Zeitungspapier abdecken oder in dunklen Tüten lagern",
+          "pt": "Cubra com jornal ou guarde em sacos pretos",
+          "id": "Tutup dengan koran atau simpan dalam kantong hitam",
+          "ko": "양파와 함께 두지 마세요 🧅"
+        },
+        "desc": {
+          "en": "Exposure to light turns potato skin green and generates solanine, a toxic compound. Always block light completely.",
+          "ja": "光に当たると皮が緑色に変色し、ソラニンという毒性物質が蓄積します。光を徹底的に遮断することが極めて重要です。",
+          "zh": "接触光线会导致土豆皮变绿，积聚名为龙葵素的毒素。彻底避光是防止土豆变绿变毒的关键。",
+          "es": "La luz verdea la piel de las papas y acumula solanina, un compuesto tóxico. Bloquee la luz por completo siempre.",
+          "fr": "La lumière verdit la peau des pommes de terre et accumule de la solanine, un composé toxique. Bloquez la lumière en continu.",
+          "de": "Lichteinfall färbt die Schale grün und bildet Solanin, eine giftige Substanz. Licht immer vollständig ausschließen.",
+          "pt": "A luz esverdeia a casca da batata e acumula solanina, um composto tóxico. Bloqueie a luz completamente sempre.",
+          "id": "Paparan cahaya membuat kulit kentang menjadi hijau dan menumpuk solanin, zat beracun. Selalu halangi cahaya sepenuhnya.",
+          "ko": "+      양파의 수분과 에틸렌이 감자의 싹을 트게 하고 부패를 촉진합니다. 두 식재료는 무조건 다른 상자나 장소에 격리 보관하세요.\n+"
+        }
+      }
+    ]
+  },
+  "salmon": {
+    "intro": {
+      "en": "Did you leave fresh salmon in the fridge for over two days? Salmon has high moisture, allowing bacteria to multiply quickly. Today, StoreSelf shares FDA-approved scent-free salmon storage and sealing tips.",
+      "ja": "鮮やかなピンク色の新鮮なサーモンを、そのまま冷蔵庫に2日以上放置していませんか？サーモンは水分が多く、非常に雑菌が繁殖しやすい魚です。本日、StoreSelfでは生臭さを抑えて保存する密閉の秘訣をご紹介します。",
+      "zh": "您是否把鲜红的三文鱼随手在冰箱里放了两天以上？三文鱼水分含量高，极易滋生细菌。今天，StoreSelf为您分享基于美国食品药品监督管理局(FDA)指南的无腥味三文鱼密封与保存秘诀。",
+      "es": "¿Dejó salmón fresco en el refrigerador por más de dos días? El salmón tiene mucha agua, facilitando que las bacterias crezcan rápido. Hoy, StoreSelf comparte trucos de sellado aprobados por la FDA.",
+      "fr": "Avez-vous laissé du saumon frais au frigo plus de deux jours ? Le saumon est très humide et les bactéries s'y développent vite. Aujourd'hui, StoreSelf vous montre comment le conserver sans odeur selon l'FDA.",
+      "de": "Haben Sie frischen Lachs länger als zwei Tage im Kühlschrank gelagert? Lachs ist feucht, wodurch sich Bakterien schnell vermehren. Heute teilt StoreSelf offizielle FDA-Tipps zum geruchfreien Lagern.",
+      "pt": "Você deixou salmão fresco na geladeira por mais de dois dias? O salmão é muito úmido, facilitando as bactérias. Hoje, o StoreSelf compartilha técnicas de fechamento recomendadas pela FDA.",
+      "id": "Apakah Anda membiarkan salmon segar di kulkas selama lebih dari dua hari? Salmon memiliki kadar air tinggi, memicu bakteri berkembang cepat. Hari ini, StoreSelf membagikan tips penyimpanan salmon."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Wipe off surface moisture and liquid completely",
+          "ja": "表面の水気やドリップをペーパーで完全に拭き取ってください",
+          "zh": "用厨房纸彻底擦干表面的水分和血水",
+          "es": "Limpie la humedad y los jugos de la superficie por completo",
+          "fr": "Essuyez complètement l'humidité et le jus en surface",
+          "de": "Feuchtigkeit und austretenden Fischsaft gründlich abtupfen",
+          "pt": "Seque bem a umidade e o líquido da superfície com papel-toalha",
+          "id": "Lap bersih kelembapan dan cairan pada permukaan daging",
+          "ko": "색상 변화를 꼼꼼히 체크하세요 ⚠️"
+        },
+        "desc": {
+          "en": "The liquid (drip) on the fish surface causes a fishy smell and rapid spoilage. Dry it thoroughly before wrapping.",
+          "ja": "表面に出る水気やドリップは生臭さの原因になり、腐敗を早めます。包装する前にしっかり拭き取ることが鉄則です。",
+          "zh": "鱼肉表面渗出的水气和液体会产生腥味并加速腐烂。包装前必须用厨房纸巾彻底擦干。",
+          "es": "El líquido que gotea del pescado causa olor a choquía y acelera su deterioro. Séquelo bien antes de envolverlo.",
+          "fr": "Le jus qui s'échappe du poisson provoque de mauvaises odeurs et accélère le pourrissement. Séchez-le bien avant de l'emballer.",
+          "de": "Fischsaft an der Oberfläche verursacht Fischgeruch und beschleunigt den Verderb. Vor dem Einwickeln gut abtrocknen.",
+          "pt": "O líquido que escorre do peixe causa mau cheiro e acelera a deterioração. Seque bem antes de embalar.",
+          "id": "Cairan pada permukaan ikan memicu bau amis dan pembusukan cepat. Keringkan sepenuhnya sebelum dibungkus.",
+          "ko": "+      연어가 선홍빛을 잃고 어두운 갈색으로 변했거나, 손가락으로 눌렀을 때 탄력 없이 움푹 파여 돌아오지 않는다면 이미 단백질이 녹아내린 상태이므로 폐기해야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Vacuum wrap or seal tightly without air",
+          "ja": "空気が入らないよう真空パックにするか密閉してください",
+          "zh": "尽量排除空气进行真空包装或密封",
+          "es": "Envuelva al vacío o selle herméticamente sin aire",
+          "fr": "Filmez sous vide ou fermez hermétiquement sans air",
+          "de": "Vakuumieren oder luftdicht verschließen",
+          "pt": "Embrulhe a vácuo ou sele hermeticamente sem ar",
+          "id": "Bungkus vakum atau segel rapat tanpa udara",
+          "ko": "냉동 시 껍질과 가시를 제거해 보관하세요 ❄️"
+        },
+        "desc": {
+          "en": "Oxygen exposure leads to lipid rancidity and dry texture. Tightly wrapping with wrap blocks oxygen contact.",
+          "ja": "酸素に触れると脂質が酸化し、パサついた食感になってしまいます。空気を抜いて密着包装することで酸化と乾燥を防ぎます。",
+          "zh": "接触氧气会导致脂肪酸败并使肉质变柴。用保鲜膜真空般紧密包裹能隔绝氧气接触。",
+          "es": "El contacto con el oxígeno oxida las grasas y seca la textura. Envolver muy apretado con film evita el paso del aire.",
+          "fr": "Le contact de l'oxygène oxyde les graisses et assèche la chair. Filmer très serré permet de bloquer l'air.",
+          "de": "Sauerstoffkontakt oxidiert Fette und macht den Lachs trocken. Ein enges Einwickeln schützt vor Luftzufuhr.",
+          "pt": "O contato com o oxigênio oxida as gorduras e resseca a polpa. Embrulhar bem apertado com filme bloqueia o ar.",
+          "id": "Paparan oksigen memicu ketengikan lemak dan tekstur kering. Membungkusnya dengan rapat menghalangi kontak dengan udara.",
+          "ko": "+      장기 냉동(최대 60일) 보관할 때는 나중에 해동하여 먹기 편하도록 미리 껍질과 가시를 발라내고 소분 밀착 랩핑하여 얼려두시는 것이 질감 유지에 좋습니다.\n+"
+        }
+      }
+    ]
+  },
+  "spinach": {
+    "intro": {
+      "en": "Have you ever bought a bunch of spinach, left it tied in a plastic bag, and thrown it away in two days because the leaves rotted? Today, StoreSelf shares scientific moisture control tips to keep spinach fresh for over a week.",
+      "ja": "ほうれん草を買ってきてビニール袋に入れたまま野菜室に置いておき、数日で葉が溶けて腐ってしまった経験はありませんか？本日、StoreSelfではネギなどの野菜と同様に、水分をコントロールして1週間以上新鮮に保つコツをご紹介します。",
+      "zh": "您是否曾买了一把菠菜，直接扎在塑料袋里塞进蔬菜室，结果仅过两天叶子就发烂烂掉？今天，StoreSelf为您分享让菠菜保鲜一个星期以上的科学水分调控妙招。",
+      "es": "¿Compró un manojo de espinacas, las dejó en la bolsa y tuvo que tirarlas en dos días porque se pudrieron? Hoy, StoreSelf comparte trucos de control de humedad para mantenerlas frescas una semana.",
+      "fr": "Avez-vous acheté des épinards, les avez laissés fermés dans leur sachet et jetés après deux jours car les feuilles avaient fondu ? Aujourd'hui, StoreSelf vous montre comment les garder frais une semaine.",
+      "de": "Haben Sie Spinat gekauft, im Plastikbeutel gelassen und nach zwei Tagen weggeworfen, weil die Blätter verfaulten? Heute teilt StoreSelf Tipps zur Feuchtigkeitskontrolle.",
+      "pt": "Você comprou espinafre, deixou no saco plástico e jogou fora em dois dias porque as folhas apodreceram? Hoy, o StoreSelf ensina como controlar a umidade para manter fresco por uma semana.",
+      "id": "Pernahkah Anda membeli seikat bayam, menyimpannya di kantong plastik, lalu membuangnya dalam dua hari karena daunnya membusuk? Hari ini, StoreSelf membagikan tips penyimpanan bayam."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Dry moisture completely to prevent mushiness",
+          "ja": "水気をしっかり乾かしてから保管してください",
+          "zh": "请彻底晾干水分以防叶片发烂",
+          "es": "Seque la humedad por completo para evitar que se ablanden",
+          "fr": "Séchez bien l'humidité pour éviter que les feuilles ne fondent",
+          "de": "Feuchtigkeit gut abtrocknen, um Matschigkeit zu vermeiden",
+          "pt": "Seque bem a umidade para evitar que as folhas amoleçam",
+          "id": "Keringkan kelembapan sepenuhnya untuk mencegah layu",
+          "ko": "수분이 닿은 상태로 비닐 밀봉 금지 💧"
+        },
+        "desc": {
+          "en": "Excess water on green leaves causes rapid decay. Wrap spinach in paper towels to absorb moisture condensation.",
+          "ja": "葉の部分に余分な水気が残っていると急速に腐敗が進みます。ペーパーに包んでから保存袋に入れ、湿度を適度に保つのがコツです。",
+          "zh": "叶片上残留多余水分会导致迅速烂掉。先用厨房纸包裹以吸收容器内的水气，再装袋保存。",
+          "es": "El exceso de agua en las hojas verdes acelera su descomposición. Envuélvalas en toallas de papel para absorber la humedad.",
+          "fr": "Le surplus d'eau sur les feuilles vertes accélère le pourrissement. Enveloppez-les de papier absorbant contre la condensation.",
+          "de": "Überschüssiges Wasser auf den Blättern führt zu schnellem Verfall. Spinat in Küchenpapier wickeln, um Kondenswasser aufzusaugen.",
+          "pt": "O excesso de água nas folhas verdes acelera o apodrecimento. Embrulhe em papel-toalha para absorver a umidade.",
+          "id": "Air berlebih pada daun hijau memicu pembusukan cepat. Bungkus bayam dengan tisu dapur untuk menyerap kondensasi.",
+          "ko": "+      비에 젖거나 씻은 뒤 물기가 남은 시금치를 비닐봉지에 밀봉하여 냉장고에 넣어두면 질식 현상과 함께 잎이 짓물러져 물러지므로 꼭 건조 상태를 지켜야 합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Store spinach upright with roots pointing down",
+          "ja": "根元を下にして立てた状態で保存してください",
+          "zh": "摆放时将根部朝下竖立保存",
+          "es": "Guarde las espinacas erguidas con las raíces hacia abajo",
+          "fr": "Stockez les épinards debout, racines vers le bas",
+          "de": "Spinat aufrecht mit den Wurzeln nach unten lagern",
+          "pt": "Guarde o espinafre de pé com as raízes para baixo",
+          "id": "Simpan bayam tegak dengan bagian akar menghadap ke bawah",
+          "ko": "누렇게 변한 잎은 먼저 정리하세요 🍂"
+        },
+        "desc": {
+          "en": "Vegetables keep fresh longer when stored in their natural growing position. Keeping them upright prevents leaf bruising.",
+          "ja": "野菜は育った環境と同じように、立てて保存することでストレスが減り、長持ちします。葉が重なって潰れるのを防ぎます。",
+          "zh": "蔬菜按其生长状态竖立保存能更长久保持新鲜。竖着放能防止叶片互相压伤。",
+          "es": "Los vegetales duran más frescos si se guardan en su posición natural de crecimiento. Mantenerlos erguidos evita que las hojas se aplasten.",
+          "fr": "Les légumes restent frais plus longtemps stockés dans leur sens naturel de pousse. Les garder debout évite d'écraser les feuilles.",
+          "de": "Gemüse bleibt länger frisch, wenn es in seiner natürlichen Wuchsrichtung gelagert wird. Das aufrechte Stehen verhindert Druckstellen.",
+          "pt": "Os vegetais duram mais se guardados na posição natural de crescimento. Manter de pé evita que as folhas se esmaguem.",
+          "id": "Sayuran tetap segar lebih lama jika disimpan dalam posisi tumbuh alaminya. Menjaganya tetap tegak mencegah daun memar.",
+          "ko": "+      상하거나 누렇게 뜬 시금치 잎은 부패균과 가스를 분출하여 주변 신선한 줄기까지 물들입니다. 보관 전 선별 과정을 꼭 거치세요.\n+"
+        }
+      }
+    ]
+  },
+  "squid": {
+    "intro": {
+      "en": "Have you ever put fresh squid in a plastic bag in the fridge only to have the kitchen smell fishy and the meat spoil? Squid guts decay first, making handling and freezing essential. Today, StoreSelf shares safe squid handling tips.",
+      "ja": "生のイカをビニール袋に入れて冷蔵庫に置いておいたら、生臭い臭いが充満して身が傷んでしまった経験はありませんか？イカは内臓から腐り始めるため、下処理と冷凍が不可欠です。正しい手入れ方法をご紹介します。",
+      "zh": "您是否曾将生鱿鱼连袋塞进冰箱，结果弄得整个厨房都是腥味且鱿鱼肉也变质了？鱿鱼内脏最先变质，因此必须进行处理和冷冻。今天，StoreSelf为您分享安全的鱿鱼处理与冷冻保鲜秘诀。",
+      "es": "¿Puso calamar fresco en el refrigerador y vio cómo olía a choquía y se dañaba la carne? Las tripas se pudren primero, por lo que limpiarlo y congelarlo es vital. Hoy, StoreSelf comparte trucos de manejo seguro.",
+      "fr": "Avez-vous mis du calamar frais au frigo pour retrouver une odeur de marée et une chair gâtée ? Les viscères pourrissent en premier, le vider et le congeler est capital. Aujourd'hui, StoreSelf vous montre comment faire.",
+      "de": "Haben Sie frischen Tintenfisch im Beutel im Kühlschrank gelagert, nur um festzustellen, dass die Küche nach Fisch roch und das Fleisch verdarb? Die Innereien verfaulen zuerst. Heute teilt StoreSelf Tipps zur Handhabung.",
+      "pt": "Você colocou lula fresca na geladeira e ela estragou e deixou mau cheiro? As vísceras apodrecem primeiro, então limpar e congelar é vital. Hoje, o StoreSelf compartilha técnicas corretas.",
+      "id": "Pernahkah Anda menyimpan cumi mentah di kulkas lalu dapur Anda berbau amis dan daging cumi rusak? Isi perut cumi busuk lebih dulu. Hari ini, StoreSelf membagikan panduan penanganan cumi."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Remove guts, eyes, and suction cups completely",
+          "ja": "内臓、目、吸盤を必ず綺麗に取り除いてください",
+          "zh": "请务必彻底去除内脏、眼睛和吸盘",
+          "es": "Retire vísceras, ojos y ventosas por completo sin falta",
+          "fr": "Videz et retirez yeux et ventouses impérativement",
+          "de": "Innereien, Augen und Saugnäpfe vollständig entfernen",
+          "pt": "Retire as vísceras, olhos e ventosas completamente",
+          "id": "Buang isi perut, mata, dan tentakel cumi sepenuhnya",
+          "ko": "생으로 냉동 시 살이 질겨질 수 있습니다 ⚠️"
+        },
+        "desc": {
+          "en": "Leaving guts inside causes rapid decay, bacteria multiplication, and strong fishy odors. Clean them immediately.",
+          "ja": "内臓を残したままだとそこから腐って悪臭を放ち、雑菌が繁殖します。購入後すぐに取り除いて洗浄することが大切です。",
+          "zh": "保留内脏会导致迅速腐烂、滋生细菌并产生强烈的腥味。买回后请立即将其摘除并冲洗干净。",
+          "es": "Dejar las tripas causa una descomposición veloz, bacterias y mal olor. Límpielo de inmediato.",
+          "fr": "Laisser les viscères provoque un pourrissement rapide, des bactéries et une mauvaise odeur. Videz-le sans attendre.",
+          "de": "Das Belassen der Innereien führt zu schnellem Verderb, Bakterien und starkem Geruch. Sofort reinigen.",
+          "pt": "Manter as vísceras causa decomposição rápida, bactérias e mau cheiro. Limpe imediatamente.",
+          "id": "Membiarkan isi perut cumi memicu pembusukan cepat, perkembangbiakan bakteri, dan bau amis. Segera bersihkan.",
+          "ko": "+      오래 냉동해 둘 오징어는 생으로 얼리는 것보다 끓는 물에 식초 한 방울을 넣고 10초간 살짝 데친 뒤 식혀서 물기를 빼고 냉동 보관하면 해동 시 질기지 않고 쫄깃합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Cook raw squid within 2 days in the refrigerator",
+          "ja": "生のイカは冷蔵庫で最大2日以内に調理してください",
+          "zh": "生鱿鱼在冰箱冷藏请于2天内烹饪",
+          "es": "Cocine el calamar crudo en 2 días máximo en el refrigerador",
+          "fr": "Cuisez le calamar cru sous 2 jours maximum au réfrigérateur",
+          "de": "Rohen Tintenfisch maximal 2 Tage im Kühlschrank lagern",
+          "pt": "Prepare a lula crua em até 2 dias de geladeira",
+          "id": "Masak cumi mentah dalam kulkas maks 2 hari",
+          "ko": "냉장 보관은 하루를 넘기지 마세요 ❄️"
+        },
+        "desc": {
+          "en": "Raw seafood spoils rapidly in the fridge. For longer storage, freeze it in portions.",
+          "ja": "生の水産物は冷蔵室では急速に傷みます。長期間保存する場合は、必ず小分けにして冷凍庫で保管してください。",
+          "zh": "生的海鲜在冷藏室极易变质。如需长期保存，请分装后直接冷冻。",
+          "es": "Los mariscos crudos se dañan rápido en refrigeración. Para guardarlos más tiempo, congélelos en porciones.",
+          "fr": "Les fruits de mer crus s'altèrent vite au frigo. Pour un stockage long, congelez-les en portions.",
+          "de": "Roher Fisch verdirbt im Kühlschrank schnell. Zur längeren Aufbewahrung portionsweise einfrieren.",
+          "pt": "Frutos do mar crus estragam rápido na geladeira. Para guardar por mais tempo, congele em porções.",
+          "id": "Seafood mentah cepat busuk di kulkas. Untuk penyimpanan lama, bekukan dalam porsi-porsi kecil.",
+          "ko": "+      수산물은 상온은 당연하고 냉장고 일반실에서도 하루 만에 식중독 균과 부패균이 증식하기 쉬운 약한 조직이므로 구매 즉시 조리하거나 바로 얼리셔야 합니다.\n+"
+        }
+      }
+    ]
+  },
+  "tofu": {
+    "intro": {
+      "en": "Did you pour the original packaging water into the container when storing leftover tofu? The packaging water is a breeding ground for bacteria. Today, StoreSelf shares safe tofu storage hacks to keep it fresh for 7 days.",
+      "ja": "使い残した半分の豆腐を保存する際、パックに入っていた元の水をそのまま容器に注いでいませんか？実は元の水は雑菌が最も繁殖しやすい状態です。安全に7日間新鮮さを保つ方法をご紹介します。",
+      "zh": "保存吃剩的半块豆腐时，您是否把包装盒里的原水一起倒进了保鲜盒？原水其实是细菌滋生最快的地方。今天，StoreSelf为您分享让豆腐安全保鲜7天以上的科学储存法。",
+      "es": "¿Echó el agua original del empaque al guardar el tofu sobrante? Esa agua favorece que crezcan bacterias. Hoy, StoreSelf comparte trucos para mantenerlo fresco y seguro 7 días.",
+      "fr": "Avez-vous versé l'eau d'origine du paquet pour conserver le reste de tofu ? Cette eau favorise la prolifération des bactéries. Aujourd'hui, StoreSelf vous montre comment le garder frais 7 jours.",
+      "de": "Haben Sie das Originalwasser beim Lagern von übrigem Tofu in den Behälter gegossen? Das Verpackungswasser begünstigt Keimwachstum. Heute teilt StoreSelf Tipps für 7 Tage Frische.",
+      "pt": "Você usou a água original da embalagem para guardar o tofu que sobrou? Aquela água acelera as bactérias. Hoje, o StoreSelf compartilha técnicas para manter o frescor por 7 dias.",
+      "id": "Apakah Anda menuangkan air kemasan asli saat menyimpan sisa tahu? Air kemasan adalah tempat bakteri berkembang biak. Hari ini, StoreSelf membagikan panduan penyimpanan tahu agar awet 7 hari."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Discard packaging water and change with fresh cold water daily",
+          "ja": "パックの水は捨て、毎日綺麗な冷たい水に入れ替えてください",
+          "zh": "请倒掉原包装水并每日更换干净的冷水",
+          "es": "Deseche el agua del empaque y cámbiela por agua fría limpia diario",
+          "fr": "Jetez l'eau du paquet et remplacez-la par de l'eau froide propre tous les jours",
+          "de": "Verpackungswasser weggießen und täglich durch frisches, kaltes Wasser ersetzen",
+          "pt": "Descarte a água da embalagem e troque por água fria limpa diariamente",
+          "id": "Buang air kemasan dan ganti dengan air dingin bersih setiap hari",
+          "ko": "냉동 시 스펀지 형태로 변합니다 ❄️"
+        },
+        "desc": {
+          "en": "Leftover tofu spoils quickly due to bacteria. Changing the cold water daily blocks bacterial growth and keeps it clean.",
+          "ja": "残った豆腐は雑菌によって傷みやすいです。毎日冷たい水を交換することで、雑菌の繁殖を抑え、清潔に保てます。",
+          "zh": "剩豆腐极易因细菌而变质。每日更换冷水可以抑制细菌繁殖，保持豆腐干净卫生。",
+          "es": "El tofu sobrante se daña rápido por las bacterias. Cambiar el agua fría a diario frena el crecimiento bacteriano.",
+          "fr": "Le reste de tofu s'altère vite à cause des bactéries. Changer l'eau froide tous les jours bloque leur développement.",
+          "de": "Übrig gebliebener Tofu verdirbt durch Keime schnell. Täglicher Wasserwechsel hemmt das Bakterienwachstum.",
+          "pt": "O tofu que sobra estraga rápido por causa das bactérias. Trocar a água fria todo dia impede as bactérias.",
+          "id": "Tahu sisa cepat rusak akibat bakteri. Mengganti air dingin setiap hari menghambat pertumbuhan bakteri.",
+          "ko": "-      두부를 냉동실에 얼리면 내부 수분이 빠져나가며 구멍이 송송 뚫려 질긴 스펀지 식감이 됩니다. 찌개용 대신 찌개용 만두나 조림용으로 쓰고 싶을 때만 냉동하세요.\n+      두부를 끓는 물에 살짝 데친 후 냉동실에 얼리면 내부 수분이 빠져나가며 구멍이 송송 뚫려 질긴 스펀지 식감이 됩니다. 찌개용 대신 조림이나 만두소 등으로 쓰고 싶을 때만 냉동 보관(21일)하세요."
+        }
+      },
+      {
+        "title": {
+          "en": "Add a pinch of salt to the water",
+          "ja": "水に塩をひとつまみ入れて保存してください",
+          "zh": "在水中加入一小撮盐",
+          "es": "Agregue una pizca de sal al agua",
+          "fr": "Ajoutez une pincée de sel à l'eau",
+          "de": "Eine Prise Salz in das Wasser geben",
+          "pt": "Adicione uma pitada de sal na água",
+          "id": "Tambahkan sejumput garam ke dalam air",
+          "ko": "냉동 시 스펀지 형태로 변합니다 ❄️"
+        },
+        "desc": {
+          "en": "A tiny amount of salt acts as a natural preservative and keeps the tofu texture firm and prevent softening.",
+          "ja": "少量の塩を入れることで天然の保存料の役割を果たし、豆腐の食感を固く保ち、型崩れを防ぎます。",
+          "zh": "加入少量的盐能起到天然防腐剂的作用，并保持豆腐口感紧实，防止其变软化水。",
+          "es": "Una pequeña cantidad de sal sirve como conservador natural y mantiene la textura firme, evitando que se aguade.",
+          "fr": "Un peu de sel sert de conservateur naturel et maintient la chair ferme, évitant qu'elle ne se ramollisse.",
+          "de": "Eine kleine Menge Salz wirkt als natürliches Konservierungsmittel und hält die Textur fest.",
+          "pt": "Uma pitada de sal serve como conservante natural e mantém a textura firme, evitando que amoleça.",
+          "id": "Sedikit garam bertindak sebagai pengawet alami dan menjaga tekstur tahu tetap kokoh, mencegahnya hancur.",
+          "ko": "+      두부를 냉동실에 얼리면 내부 수분이 빠져나가며 구멍이 송송 뚫려 질긴 스펀지 식감이 됩니다. 찌개용 대신 찌개용 만두나 조림용으로 쓰고 싶을 때만 냉동하세요.\n+"
+        }
+      }
+    ]
+  },
+  "tomato": {
+    "intro": {
+      "en": "Did you know that storing tomatoes in the refrigerator ruins their unique flavor and aroma? Cold temperatures below 12°C break down tomato cell membranes, making the skin mushy and tasteless. Today, StoreSelf shares room temp ripening tips.",
+      "ja": "トマトを冷蔵庫に保存すると、本来の美味しさや香りが損なわれてしまうのをご存知ですか？12℃以下の冷たい温度ではトマトの細胞膜が破壊され、皮がブヨブヨになり味が落ちてしまいます。正しい保存方法をご紹介します。",
+      "zh": "您知道吗？将西红柿（番茄）放进冰箱冷藏会破坏其特有的风味与香气。在低于12℃的低温下，番茄的细胞膜会被破坏，导致果皮变软、风味尽失。今天，StoreSelf为您分享常温熟化的科学保鲜窍门。",
+      "es": "¿Sabía que guardar los tomates en el refrigerador arruina su sabor y aroma? El frío por debajo de 12 °C rompe sus células y los pone insípidos. Hoy, StoreSelf comparte trucos de maduración.",
+      "fr": "Saviez-vous que mettre les tomates au frigo détruit leur goût et leur parfum ? Le froid en dessous de 12 °C détruit les membranes cellulaires, rendant la peau molle et insipide. Aujourd'hui, StoreSelf vous montre les astuces.",
+      "de": "Wussten Sie, dass die Lagerung von Tomaten im Kühlschrank ihr Aroma ruiniert? Temperaturen unter 12 °C zerstören die Zellmembranen, wodurch die Schale matschig und geschmacklos wird. Heute teilt StoreSelf Tipps.",
+      "pt": "Você sabia que guardar tomates na geladeira destrói o sabor e o aroma? O frio abaixo de 12°C rompe as células e deixa o tomate insípido. Hoje, o StoreSelf compartilha técnicas de maturação.",
+      "id": "Tahukah Anda bahwa menyimpan tomat di kulkas dapat merusak rasa dan aromanya? Suhu dingin di bawah 12°C merusak membran sel tomat, membuat kulitnya lembek dan hambar. Hari ini, StoreSelf membagikan panduan penyimpanan tomat."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Store at room temp until fully ripe",
+          "ja": "完全に熟す前は必ず風通しの良い常温で保存してください",
+          "zh": "未熟透前请务必在通风常温下保存",
+          "es": "Conserve a temp. ambiente hasta que estén maduros",
+          "fr": "Gardez à température ambiante jusqu'à mûrissement complet",
+          "de": "Bis zur vollständigen Reife bei Raumtemperatur lagern",
+          "pt": "Conserve em temperatura ambiente até amadurecer",
+          "id": "Simpan di suhu ruang hingga matang sepenuhnya",
+          "ko": "냉해 입은 토마토는 복구되지 않습니다 🍅"
+        },
+        "desc": {
+          "en": "Unripe tomatoes require room temperature to develop sugars and aroma compounds. Refrigerate only when fully ripe.",
+          "ja": "未熟なトマトは、糖分や芳香成分を増やすために常温での追熟が必要です。完熟した後にのみ冷蔵庫に入れてください。",
+          "zh": "未熟的西红柿需要常温来增加糖分和香气。熟透后才可以放入冰箱冷藏。",
+          "es": "Los tomates verdes necesitan temp. ambiente para desarrollar azúcares y aromas. Refrigérelos solo cuando estén maduros.",
+          "fr": "Les tomates vertes ont besoin de la température ambiante pour développer sucres et arômes. Réfrigérez-les seulement une fois mûres.",
+          "de": "Unreife Tomaten benötigen Raumtemperatur, um Zucker und Aromastoffe zu entwickeln. Erst bei Vollreife kühlen.",
+          "pt": "Tomates verdes precisam de temperatura ambiente para desenvolver açúcares e aromas. Refrigere apenas quando maduros.",
+          "id": "Tomat mentah membutuhkan suhu ruang untuk membentuk gula dan aroma. Dinginkan hanya setelah matang sepenuhnya.",
+          "ko": "+      설익은 상태로 오랜 저온에 노출되어 얼거나 냉해를 입은 토마토는 껍질이 두꺼워지고 과육이 짓물러져 상온으로 꺼내도 후숙이 불가능해지고 쉽게 상합니다.\n+"
+        }
+      },
+      {
+        "title": {
+          "en": "Store tomatoes stem-side down",
+          "ja": "ヘタがある方を下に向けて保存してください",
+          "zh": "摆放时将蒂头（蒂部）朝下放置",
+          "es": "Guarde los tomates con el tallo hacia abajo",
+          "fr": "Stockez les tomates le pédoncule vers le bas",
+          "de": "Tomaten mit dem Stielansatz nach unten lagern",
+          "pt": "Guarde los tomates con el tallo hacia abajo",
+          "id": "Simpan tomat dengan bagian tangkai menghadap ke bawah",
+          "ko": "에틸렌 방출 과일과의 접촉을 최소화하세요 🍎"
+        },
+        "desc": {
+          "en": "The stem area is the softest and decays quickly under weight. Keeping it down prevents bruising and mold.",
+          "ja": "ヘタの周辺は最も柔らかく、自重による負荷で傷みやすいです。逆さまに置くことで、重みによる潰れやカビを防ぎます。",
+          "zh": "蒂头周围最软，受重压极易变质。将蒂部朝下放置能防止因压迫导致的破损和霉菌滋生。",
+          "es": "La zona del tallo es la más blanda y se daña rápido bajo el peso. Mantenerla abajo evita golpes y moho.",
+          "fr": "La zone du pédoncule est la plus fragile et s'abîme vite sous le poids. La placer vers le bas évite l'écrasement.",
+          "de": "Der Stielbereich ist am weichsten und verdirbt unter Eigengewicht schnell. Das Umdrehen verhindert Druckstellen.",
+          "pt": "A área do talo é a mais macia e estraga fácil sob o próprio peso. Deixar para baixo evita que amasse.",
+          "id": "Bagian tangkai paling lunak dan cepat rusak akibat beban. Menjaganya di bawah mencegah memar.",
+          "ko": "+      토마토도 에틸렌 가스를 방출하는 과채류이며, 사과나 바나나와 같은 강력한 가스 배출 식품과 닿으면 너무 급속도로 익어 한 번에 뭉개져 버리니 격리해 주는 것이 좋습니다.\n+"
+        }
+      }
+    ]
+  },
+  "watermelon": {
+    "intro": {
+      "en": "Did you know that covering leftover watermelon with plastic wrap can multiply food poisoning bacteria on the surface by over 3,000 times? Today, StoreSelf shares KCA-approved safe watermelon sealing and storage hacks.",
+      "ja": "使い残したスイカにラップだけを被せて冷蔵庫に入れておく保存方法、スイカの表面で食中毒細菌が3,000倍以上に急増することをご存知ですか？本日、韓国消費者庁（KCA）などのデータに基づき、安全な密閉保存法をご紹介します。",
+      "zh": "用保鲜膜包裹吃剩的西瓜放进冰箱，会导致西瓜表面滋生的细菌暴增3000倍以上，您知道吗？今天，StoreSelf为您分享基于韩国消费者院(KCA)指南的安全密封与保存妙招。",
+      "es": "¿Sabía que cubrir la sandía sobrante con film plástico multiplica las bacterias 3,000 veces en la superficie? Hoy, StoreSelf comparte trucos seguros aprobados por la KCA.",
+      "fr": "Saviez-vous que recouvrir le reste de pastèque de film plastique multiplie les bactéries par 3 000 en surface ? Aujourd'hui, StoreSelf vous montre les astuces recommandées par la KCA.",
+      "de": "Wussten Sie, dass das Abdecken von übrig gebliebener Wassermelone mit Frischhaltefolie die Bakterien um das 3.000-fache vermehren kann? Heute teilt StoreSelf Tipps.",
+      "pt": "Você sabia que cobrir a melancia que sobrou com filme plástico multiplica as bactérias na superfície em 3.000 vezes? Hoje, o StoreSelf compartilha técnicas seguras recomendadas pela KCA.",
+      "id": "Tahukah Anda bahwa menutup sisa semangka dengan plastik wrap dapat melipatgandakan bakteri di permukaan hingga 3.000 kali? Hari ini, StoreSelf membagikan panduan penyimpanan semangka."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Never store wrapped watermelon directly",
+          "ja": "ラップを被せただけの状態で絶対に保存しないでください",
+          "zh": "切勿仅裹着保鲜膜直接存放",
+          "es": "Nunca guarde la sandía envuelta en film directamente",
+          "fr": "Ne conservez jamais la pastèque filmée directement",
+          "de": "Melone niemals nur in Frischhaltefolie gewickelt lagern",
+          "pt": "Nunca guarde a melancia apenas embrulhada em filme plástico",
+          "id": "Jangan pernah menyimpan semangka dengan hanya dibungkus plastik wrap",
+          "ko": "칼과 도마의 살균 상태를 꼭 확인하세요 🔪"
+        },
+        "desc": {
+          "en": "Plastic wrap traps moisture and promotes fast bacterial growth. Cut surface contamination is highly dangerous.",
+          "ja": "ラップ密着は湿気をこもらせ、雑菌の繁殖を促します。カット断面の汚染は食中毒のリスクが高いため避けてください。",
+          "zh": "保鲜膜会聚集湿气并加速细菌滋生。切面污染极易引发食物中毒，非常危险。",
+          "es": "El film atrapa la humedad y favorece el rápido crecimiento de bacterias. La contaminación de la superficie es muy peligrosa.",
+          "fr": "Le film plastique emprisonne l'humidité et favorise le développement des bactéries. La contamination de la chair est dangereuse.",
+          "de": "Die Folie schließt Feuchtigkeit ein und fördert Keimwachstum. Keime an der Schnittfläche sind sehr gefährlich.",
+          "pt": "O filme retém umidade e acelera a proliferação bacteriana. A contaminação da superfície cortada é muito perigrosa.",
+          "id": "Plastik wrap mengunci kelembapan dan mempercepat pertumbuhan bakteri. Kontaminasi pada permukaan potongan sangat berbahaya.",
+          "ko": "수박에 유입되는 대부분의 세균은 자를 때 쓰는 칼과 도마에서 교차 오염됩니다. 세척 및 건조 상태가 불량한 도구를 사용하지 않도록 각별히 유의해야 합니다."
+        }
+      },
+      {
+        "title": {
+          "en": "Dice and store in airtight containers",
+          "ja": "果肉をサイコロ状にカットし、密閉容器に入れて保存してください",
+          "zh": "切成小方块并装入密封容器中保存",
+          "es": "Corte en cubos y guarde en recipientes herméticos",
+          "fr": "Coupez en dés et conservez en boîte étanche",
+          "de": "In Würfel schneiden und in luftdichten Behältern lagern",
+          "pt": "Corte em cubos e guarde em potes herméticos",
+          "id": "Potong dadu dan simpan dalam wadah kedap",
+          "ko": "1주일 이내로 반드시 소비해야 합니다 ⚠️"
+        },
+        "desc": {
+          "en": "Cut off the rind completely, dice the flesh, and keep sealed inside airtight containers in the fridge.",
+          "ja": "皮の部分をすべて切り落とし、果肉を一口サイズにカットして、綺麗な密閉容器に入れて冷蔵庫で保管するのが最も安全です。",
+          "zh": "彻底削去西瓜皮，将果肉切成小块，装入干净的密封容器中冷藏保存是最安全的方法。",
+          "es": "Retire la cáscara por completo, corte la pulpa en cubos y guárdela sellada en recipientes herméticos en el refrigerador.",
+          "fr": "Retirez complètement l'écorce, coupez la chair en dés et stockez le tout hermétiquement en boîte au réfrigérateur.",
+          "de": "Schale vollständig entfernen, Fruchtfleisch würfeln und luftdicht verschlossen im Kühlschrank aufbewahren.",
+          "pt": "Retire a casca por completo, corte a polpa em cubos e guarde-a fechada em potes herméticos na geladeira.",
+          "id": "Kupas bersih kulitnya, potong dadu daging buahnya, dan simpan rapat di wadah kedap dalam kulkas.",
+          "ko": "아무리 깍둑썰기하여 밀폐 보관했더라도 7일이 지나면 속살 수분이 무너지면서 미생물 밀도가 증가합니다. 가급적 일주일 이내에 모두 섭취하세요."
+        }
+      }
+    ]
+  }
+}

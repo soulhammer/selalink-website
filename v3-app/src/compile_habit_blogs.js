@@ -13,6 +13,9 @@ const pathModule = path;
 const blogRoot = path.join(__dirname, 'content/blog');
 const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
 
+const labelsPath = path.join(__dirname, 'data/blogs/compilerLabels.json');
+const labels = JSON.parse(fs.readFileSync(labelsPath, 'utf-8'));
+
 const habitsDir = path.join(__dirname, 'data/blogs/habits');
 const translationData = {};
 if (fs.existsSync(habitsDir)) {
@@ -158,7 +161,7 @@ ${whyDesc}
 
 ---
 
-## 2. ${lang === 'ja' ? '現代人のための実践ルーティン 3段階' : lang === 'zh' ? '适合现代人的三步实践惯例' : lang === 'es' ? 'Rutina Práctica de 3 Pasos para el Profesional Moderno' : lang === 'fr' ? 'Routine Pratique en 3 Étapes pour l’Homme Moderne' : lang === 'de' ? 'Praktische 3-Schritte-Routine für den Alltag' : lang === 'pt' ? 'Rutina Prática de 3 Passos para o Profissional Moderno' : lang === 'id' ? '3 Langkah Rutinitas Praktis untuk Manusia Modern' : '3-Step Practical Routine for Modern Professionals'}
+## 2. ${labels.habitSection2Title[lang] || labels.habitSection2Title['en']}
 
 ${stepCards.join('\n\n')}
 

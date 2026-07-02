@@ -21,7 +21,8 @@ const __dirname = path.dirname(__filename);
 
 const blogRoot = path.join(__dirname, 'content/blog');
 const publicRoot = path.join(__dirname, '../public');
-const transJsonPath = '/Users/soulhammer/.gemini/antigravity-ide/brain/77b027a6-2e4b-442f-b4b6-800970723a3b/scratch/blog_translations.json';
+const ingredientsDir = path.join(__dirname, 'data/blogs/ingredients');
+const transJsonPath = path.join(ingredientsDir, 'blog_translations.json');
 
 const allIngredients = [
   ...condimentIngredients, ...dairyIngredients, ...etcIngredients,
@@ -55,7 +56,6 @@ const blogToIngMap = {
 };
 
 const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
-const ingredientsDir = path.join(__dirname, 'data/blogs/ingredients');
 
 // 1. 공통 메타 정보 로드
 const { l10n, storageFaqs, sourceMapLang } = JSON.parse(
@@ -82,7 +82,7 @@ function run() {
   }
 
   const transMap = JSON.parse(fs.readFileSync(transJsonPath, 'utf-8'));
-  const stepsTransJsonPath = '/Users/soulhammer/.gemini/antigravity-ide/brain/77b027a6-2e4b-442f-b4b6-800970723a3b/scratch/blog_steps_translations.json';
+  const stepsTransJsonPath = path.join(ingredientsDir, 'blog_steps_translations.json');
   const stepsTransMap = JSON.parse(fs.readFileSync(stepsTransJsonPath, 'utf-8'));
   let compiledCount = 0;
 

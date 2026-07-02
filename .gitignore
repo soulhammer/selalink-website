@@ -3,3 +3,10 @@
 
 # Agent workspace data
 brain/
+
+# Build and coverage directories (preventing sub-directories scan in root context)
+**/dist/
+**/.astro/
+**/node_modules/
+**/coverage/
+**/test-results/

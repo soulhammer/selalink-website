@@ -92,6 +92,8 @@ test.describe('블로그 메인 UI 동적 기능 통합 검증 (검색, 필터, 
   test('검색어 입력 시 필터링 및 결과 피드백 텍스트 갱신 검증', async ({ page }) => {
     // 1. 검색창에 '사과' 입력
     await page.fill('input#blog-search-input', '사과');
+    // 디바운스 타이머(150ms) 만료 및 필터링 적용 대기
+    await page.waitForTimeout(250);
 
     // 2. 화면에 노출된 모든 카드가 검색 조건을 충족하고 결과 텍스트가 갱신되었는지 검증 (toPass 활용)
     const visibleCards = page.locator('#blog-posts-container > a:visible');
@@ -124,6 +126,8 @@ test.describe('블로그 메인 UI 동적 기능 통합 검증 (검색, 필터, 
 
     // 2. 검색어 '보관' 입력
     await page.fill('input#blog-search-input', '보관');
+    // 디바운스 타이머(150ms) 만료 및 필터링 적용 대기
+    await page.waitForTimeout(250);
 
     // 3. 정렬 방식을 '과거 등록 순' (oldest)으로 변경
     await page.selectOption('select#blog-sort-select', 'oldest');
@@ -178,6 +182,8 @@ test.describe('블로그 메인 UI 동적 기능 통합 검증 (검색, 필터, 
       // 2. 검색창에 검색어 입력
       const searchInput = page.locator('input#blog-search-input');
       await searchInput.fill(spec.query);
+      // 디바운스 타이머(150ms) 만료 및 필터링 적용 대기
+      await page.waitForTimeout(250);
 
       // 3. 필터링된 결과 카드들이 검색어를 포함하고 있는지 검증
       const visibleCards = page.locator('#blog-posts-container > a:visible');
