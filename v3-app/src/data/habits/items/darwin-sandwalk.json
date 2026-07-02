@@ -1,0 +1,38 @@
+{
+  "id": "darwin-sandwalk",
+  "name": "찰스 다윈",
+  "gender": "male",
+  "era": "근대",
+  "location": "영국",
+  "lifespan": "1809 - 1882",
+  "birthYear": 1809,
+  "bio": "자연선택설을 바탕으로 생물의 진화를 설명한 《종의 기원》을 저술하여 현대 생물학 및 인류의 우주관에 혁명적인 변화를 가져온 자연과학자입니다.",
+  "habitName": "자갈길(Sandwalk) 돌며 사색하기",
+  "tags": [
+    "#사색",
+    "#아이디어",
+    "#걷기",
+    "#보통"
+  ],
+  "timeOfDay": "afternoon",
+  "requiredItems": [
+    "작은 돌멩이 여러 개",
+    "걸을 수 있는 산책로"
+  ],
+  "frequency": "daily",
+  "historicalStory": "다윈은 켄트주의 다운 하우스(Down House)에 머물던 시절, 집 근처에 흙과 자갈을 깔아 둥글게 만든 '샌드워크(Sandwalk)'라는 사색의 길을 직접 조성했습니다. 그는 매일 오전과 오후 두 번, 이 길을 돌며 복잡한 진화론적 문제를 구상했습니다. 산책을 시작할 때 그는 길모퉁이에 대여섯 개의 돌을 쌓아 두었고, 한 바퀴를 돌 때마다 발로 돌을 하나씩 걷어차 내며 자신이 몇 바퀴를 돌았는지 기록하는 독특한 방식으로 사색 시간을 관리했습니다.",
+  "sciencePrinciples": "걷는 행위는 뇌의 '디폴트 모드 네트워크(Default Mode Network, DMN)'를 적절히 자극하여 무의식 속에서 흩어져 있던 기억과 정보를 새롭게 연결하는 창의적 사고 과정을 활성화합니다. 스탠퍼드 대학 연구에 따르면 걷기는 앉아 있을 때에 비해 창의적 발상을 평균 60% 이상 향상시키는 것으로 나타났습니다.",
+  "quote": "가장 강한 자가 살아남는 것도 아니고, 가장 지적인 자가 살아남는 것도 아니다. 오직 변화에 가장 잘 적응하는 자만이 살아남는다.",
+  "trigger": "점심 식사 후 나른함이 밀려오거나 해결해야 할 복잡한 기획/아이디어 회의가 있을 때",
+  "modernGuide": [
+    "20~30분 동안 걸을 수 있는 한적한 공원이나 동네 산책로를 정합니다.",
+    "스마트폰을 주머니에 넣고 화면을 절대 보지 않은 채, 풀리지 않는 하나의 질문만 머릿속에 띄워두고 천천히 걷습니다.",
+    "걸으면서 떠오른 생각들을 흘려보내며 자유롭게 뇌가 연결되도록 놔둔 뒤, 산책이 끝난 직후 떠오른 아이디어를 즉시 메모합니다."
+  ],
+  "actionName": "스마트폰 없이 20분 '사색의 걷기' (다윈 루틴)",
+  "sources": [
+    "Charles Darwin, *The Autobiography of Charles Darwin* (1887)",
+    "Francis Darwin, *The Life and Letters of Charles Darwin* (1887)",
+    "*Journal of Experimental Psychology: Learning, Memory, and Cognition* (Stanford University, 걷기가 창의적 사고에 미치는 영향 실증 연구, 2014)"
+  ]
+}

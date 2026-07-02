@@ -1,0 +1,35 @@
+{
+  "id": "tesla-toe-curling",
+  "name": "니콜라 테슬라",
+  "gender": "male",
+  "era": "근대",
+  "location": "미국",
+  "lifespan": "1856 - 1943",
+  "birthYear": 1856,
+  "bio": "교류(AC) 전력 송전 시스템의 표준을 확립하여 현대 전기 문명을 설계한 천재 발명가이자 물리학자입니다.",
+  "habitName": "발가락 100번 오므리기",
+  "tags": [
+    "#수면",
+    "#뇌각성",
+    "#맨몸",
+    "#쉬움"
+  ],
+  "timeOfDay": "night",
+  "requiredItems": [],
+  "frequency": "daily",
+  "historicalStory": "매일 밤 침대에 누워 양쪽 발가락을 각각 100번씩 오므렸다 펴는 독특한 루틴을 수행했습니다. 그는 평소 하루에 2시간만 자는 극단적인 수면 패턴을 가졌는데, 이 발가락 운동이 발끝의 말초 신경을 통해 뇌세포를 강하게 자극하고 하루의 정신적 피로를 리셋해 준다고 굳게 믿었습니다.",
+  "sciencePrinciples": "발에는 수많은 말초신경이 집중되어 있으며, 발가락을 움직이는 소근육 운동은 혈액 순환을 촉진하고 부교감 신경을 활성화하여 뇌의 이완과 숙면을 돕습니다.",
+  "quote": "만약 당신이 우주의 비밀을 알고 싶다면, 에너지, 주파수, 진동의 관점에서 생각하라.",
+  "trigger": "침대에 누워 이불을 덮은 직후",
+  "modernGuide": [
+    "스마트폰을 멀리 두고 침대에 편안히 눕습니다.",
+    "발가락을 꽉 쥐었다가 펴는 동작을 양발 동시에 50회 반복합니다.",
+    "발끝의 감각과 호흡에 집중하며 서서히 몸을 이완시킵니다."
+  ],
+  "actionName": "잠들기 전 발가락 스트레칭 50회 (테슬라 루틴)",
+  "sources": [
+    "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919)",
+    "Mason Currey, *Daily Rituals: How Artists Work* (2013)",
+    "*Journal of Physical Therapy Science* (발 반사 및 말초신경 자극의 뇌 이완 효과 연구)"
+  ]
+}
