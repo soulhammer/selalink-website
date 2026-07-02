@@ -1006,5 +1006,285 @@
       "Gatos Vocales",
       "Juego de Gatos"
     ]
+  },
+  "jindo-care": {
+    "title": "Guía de socialización y rutina de 3 pasos para el pelaje doble del perro Jindo",
+    "description": "Aprende métodos de socialización para el perro Jindo y una rutina para su pelaje doble.",
+    "authority": "Pautas estándar de Jindo del Instituto Nacional de Ciencia Animal y KKC",
+    "profile": {
+      "breed": "Perro Jindo (Jindo Dog)",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "10 ~ 12 horas (Guardia al aire libre)",
+      "temperament": "Extremadamente leal, valiente, muy alerta"
+    },
+    "intro": "El perro Jindo es un tesoro nacional de Corea. Aunque tienen un fuerte vínculo con su dueño, su naturaleza cautelosa puede hacerlos defensivos con extraños. Hoy en PetSelf compartimos consejos de socialización y una rutina para cuidar su pelaje.",
+    "whyTitle": "Lenguaje corporal del Jindo: Señales de lealtad y precaución",
+    "whyDesc": "Los perros Jindo se comunican a través de las posiciones de la cola y las orejas. Mantener la cola erguida indica alerta.",
+    "body_signals": [
+      {
+        "name": "Cola erguida y orejas hacia adelante",
+        "meaning": "Alerta y concentración en un objetivo desconocido.",
+        "response": "Evita el contacto repentino y cálmalo en un tono tranquilo."
+      },
+      {
+        "name": "Cola baja y orejas planas",
+        "meaning": "Obediencia profunda y confianza hacia el dueño.",
+        "response": "Acarícialo suavemente y refuerza su confianza constantemente."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Paseo de socialización enfocado en el olfato",
+        "text": "Pasea en las horas tranquilas de la mañana para desensibilizar al perro al entorno."
+      },
+      {
+        "name": "Tarde: Cepillado del pelaje doble para eliminar el pelo muerto",
+        "text": "Usa un cepillo slicker y un peine metálico para quitar pelos sueltos."
+      },
+      {
+        "name": "Noche: Entrenamiento de tacto para la socialización",
+        "text": "Toca suavemente patas y orejas, premiando con snacks."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Es difícil criar un perro Jindo dentro de casa?",
+        "answer": "Se adaptan bien si toleras su muda de pelo. Requieren paseos diarios y estímulo mental."
+      },
+      {
+        "question": "¿Es normal si mi Jindo no se lleva bien con otros perros?",
+        "answer": "Sí, son independientes y territoriales. Apunte a la neutralidad social."
+      }
+    ],
+    "tags": [
+      "Jindo",
+      "Socialización",
+      "Pelaje doble",
+      "Cuidado del perro"
+    ]
+  },
+  "border-collie-care": {
+    "title": "Juegos de estimulación cerebral y cuidado de articulaciones para el Border Collie",
+    "description": "Juegos cognitivos y cuidado de articulaciones para el activo Border Collie.",
+    "authority": "Guía de Border Collie del Kennel Club (KC) y estudios de cognición animal",
+    "profile": {
+      "breed": "Border Collie (Border Collie)",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "10 ~ 12 horas (Alta actividad energética)",
+      "temperament": "Increíblemente inteligente, entusiasta, resistencia infinita"
+    },
+    "intro": "El Border Collie es conocido como el perro más inteligente del mundo. Su estilo de carrera rápida e intensos giros desgastan sus articulaciones. Hoy en PetSelf compartimos una rutina para estimular su cerebro y proteger articulaciones.",
+    "whyTitle": "Lenguaje corporal del Border Collie: Enfoque visual",
+    "whyDesc": "Los Border Collies tienen un instinto único llamado 'el ojo', que consiste en mirar fijamente a objetos.",
+    "body_signals": [
+      {
+        "name": "Cuerpo agachado y mirada fija",
+        "meaning": "Instinto de pastoreo activado por objetos en movimiento.",
+        "response": "Llámalo por su nombre para redirigir su mirada y prémialo."
+      },
+      {
+        "name": "Boca abierta y cola alegre",
+        "meaning": "Energía cargada y listo para jugar o cooperar.",
+        "response": "Es el momento ideal para juegos de agility."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Carrera a intervalos integrada con comandos",
+        "text": "Combina velocidad con comandos durante el paseo para cansar mente y cuerpo."
+      },
+      {
+        "name": "Tarde: Juguetes interactivos de rompecabezas multinivel",
+        "text": "Proporciona rompecabezas donde deba deslizar paneles para obtener premios."
+      },
+      {
+        "name": "Noche: Masaje muscular relajante y estiramiento articular",
+        "text": "Aplica compresas tibias y realiza estiramientos suaves en muslos."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué mi Border Collie persigue bicicletas?",
+        "answer": "Instinto de pastoreo. Entrena comando de atención antes del gatillo."
+      },
+      {
+        "question": "¿Cuánto ejercicio diario necesita?",
+        "answer": "Al menos 2 horas de ejercicio diario divididas entre mañana y noche."
+      }
+    ],
+    "tags": [
+      "Border Collie",
+      "Juegos mentales",
+      "Cuidado articular",
+      "Pastoreo"
+    ]
+  },
+  "yorkshire-care": {
+    "title": "Mantenimiento del pelo del Yorkshire Terrier y prevención de luxación patelar",
+    "description": "Mantén el pelo del Yorkshire Terrier sedoso y previene luxación de rótula.",
+    "authority": "Guía del Yorkshire Terrier Club (YTC) y ortopedia veterinaria",
+    "profile": {
+      "breed": "Yorkshire Terrier",
+      "lifespan": "13 ~ 16 años",
+      "sleep_pattern": "12 ~ 14 horas (Activo en interiores)",
+      "temperament": "Valiente, listo, enérgico, muy cariñoso"
+    },
+    "intro": "El Yorkshire Terrier, o 'Yorkie', tiene una personalidad audaz. Su pelo largo es muy similar al cabello humano. Además, son propensos a la luxación de rótula. Hoy en PetSelf mostramos cómo proteger sus rodillas.",
+    "whyTitle": "Lenguaje corporal del Yorkshire: Pequeño cazador",
+    "whyDesc": "Tienen instintos de guardián. Echar las orejas hacia atrás indica alerta.",
+    "body_signals": [
+      {
+        "name": "Orejas hacia atrás y cola rígida",
+        "meaning": "Tensión ante ruidos externos, listo para ladrar.",
+        "response": "Háblale con calma y redirige su atención con premios."
+      },
+      {
+        "name": "Exponer la barriga y mover las patas",
+        "meaning": "Sensación de seguridad absoluta y solicitud de afecto.",
+        "response": "Acaricia su barriga suavemente para fortalecer confianza."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Bruma hidratante y cepillado con pin brush",
+        "text": "Aplica bruma acondicionadora para evitar roturas y cepilla suavemente."
+      },
+      {
+        "name": "Tarde: Recorte de pelo en las almohadillas",
+        "text": "Recorta el pelo entre sus almohadillas para evitar resbalones."
+      },
+      {
+        "name": "Noche: Ejercicios de bajo impacto con obstáculos bajos",
+        "text": "Haz que pase por encima de cojines bajos para fortalecer los muslos."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Los Yorkies sueltan mucho pelo?",
+        "answer": "No, tienen una sola capa. Pero su pelo largo se enreda fácilmente."
+      },
+      {
+        "question": "¿Cómo puedo evitar que mi Yorkie ladre tanto?",
+        "answer": "Ladran por su instinto guardián. Premia los momentos de silencio."
+      }
+    ],
+    "tags": [
+      "Yorkshire Terrier",
+      "Pelo sedoso",
+      "Luxación patelar",
+      "Ladridos"
+    ]
+  },
+  "norwegian-forest-care": {
+    "title": "Juego vertical y mantenimiento del pelaje triple del gato Bosque de Noruega",
+    "description": "Instinto trepador del gato Bosque de Noruega y cuidado de pelaje triple.",
+    "authority": "Guía de la Asociación Internacional de Gatos (TICA) y ciencia felina",
+    "profile": {
+      "breed": "Gato Bosque de Noruega (Norwegian Forest Cat)",
+      "lifespan": "12 ~ 16 años",
+      "sleep_pattern": "14 ~ 16 horas (Espacio vertical)",
+      "temperament": "Inteligente, dócil, valiente, amante de la naturaleza"
+    },
+    "intro": "El gato Bosque de Noruega ha evolucionado con un espeso pelaje triple repelente al agua. Su grueso pelaje requiere cepillado constante. Hoy en PetSelf te enseñamos a cuidar su pelaje.",
+    "whyTitle": "Lenguaje corporal del Bosque de Noruega: Confianza",
+    "whyDesc": "Acercarse lentamente con la cola erguida indica confianza.",
+    "body_signals": [
+      {
+        "name": "Cola erguida con punta curvada",
+        "meaning": "Amistoso, relajado y con curiosidad por interactuar.",
+        "response": "Háblale con voz suave y acaricia sus mejillas."
+      },
+      {
+        "name": "Pupilas dilatadas y orejas planas",
+        "meaning": "Tensión o miedo debido a ruidos fuertes.",
+        "response": "Evita el contacto visual. Deja que se esconda en un lugar alto."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Juguetes de varita vertical en rascadores",
+        "text": "Mueve varita de arriba a abajo en rascadores para estimular caza."
+      },
+      {
+        "name": "Tarde: Cepillado profundo para remover el pelo muerto",
+        "text": "Cepilla pecho y axilas usando cepillo slicker y peine metálico."
+      },
+      {
+        "name": "Noche: Alfombras de amortiguación y recorte de uñas",
+        "text": "Coloca alfombras acolchadas debajo de rascadores y corta uñas."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Su muda de pelo es peor que la de otros gatos?",
+        "answer": "Sí. Muda abundantemente en primavera y otoño. El cepillado es necesario."
+      },
+      {
+        "question": "¿Es cierto que les gusta el agua?",
+        "answer": "Su pelaje impermeable hace que no teman tanto al agua."
+      }
+    ],
+    "tags": [
+      "Bosque de Noruega",
+      "Pelaje triple",
+      "Kinesiología",
+      "Gatos"
+    ]
+  },
+  "sphynx-care": {
+    "title": "Cuidado del sebo de la piel y control de temperatura en gatos Sphynx",
+    "description": "Limpia exceso de grasa en gatos Sphynx y protégelos del frío.",
+    "authority": "Pautas de la Sociedad Internacional de Medicina Felina (ISFM)",
+    "profile": {
+      "breed": "Gato Sphynx (Sphynx Cat)",
+      "lifespan": "12 ~ 15 años",
+      "sleep_pattern": "14 ~ 16 horas (Búsqueda de calor)",
+      "temperament": "Muy cariñoso, extrovertido, amistoso, inteligente"
+    },
+    "intro": "El gato Sphynx es una raza sin pelaje tradicional. Como no tienen pelo para absorber aceites, el sebo se acumula en la piel. Hoy en PetSelf presentamos una rutina para limpiar su piel.",
+    "whyTitle": "Lenguaje corporal del Sphynx: Búsqueda de calor",
+    "whyDesc": "Pegarse a tu piel o blankets es una muestra de búsqueda de calor.",
+    "body_signals": [
+      {
+        "name": "Búsqueda de calor",
+        "meaning": "Siente frío y busca calor para mantener su temperatura.",
+        "response": "Ponle un jersey de algodón o enciende manta térmica."
+      },
+      {
+        "name": "Entrecerrar los ojos y ronroneo",
+        "meaning": "Sensación de bienestar y profunda confianza.",
+        "response": "Masajea su cuerpo cálido y permítele acurrucarse contigo."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Mañana: Limpieza de pliegues con paño tibio",
+        "text": "Limpia el sebo marrón acumulado en pliegues con paño húmedo."
+      },
+      {
+        "name": "Tarde: Control de luz solar directa",
+        "text": "Cierra cortinas para evitar que el sol directo queme su piel."
+      },
+      {
+        "name": "Noche: Ropa de algodón limpia y cama cerrada",
+        "text": "Ponle ropa limpia para evitar acumulación de grasa."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Los gatos Sphynx son hipoalergénicos?",
+        "answer": "No. Alergias son causadas por proteínas en saliva y sebo."
+      },
+      {
+        "question": "¿Con qué frecuencia debo bañar a mi Sphynx?",
+        "answer": "Cada 1-2 semanas con champú suave para mascotas."
+      }
+    ],
+    "tags": [
+      "Sphynx",
+      "Piel sin pelo",
+      "Calor",
+      "Baño felino"
+    ]
   }
 }

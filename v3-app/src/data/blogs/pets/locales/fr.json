@@ -1006,5 +1006,285 @@
       "Chats Vocaux",
       "Jeu Félin"
     ]
+  },
+  "jindo-care": {
+    "title": "Guide de socialisation et routine pour le double pelage du fidèle chien Jindo",
+    "description": "Socialisation du Jindo et soins pour son double pelage.",
+    "authority": "Directives de l'Institut National des Sciences Animales de Corée et de la KKC",
+    "profile": {
+      "breed": "Chien Jindo (Jindo Dog)",
+      "lifespan": "12 ~ 15 ans",
+      "sleep_pattern": "10 ~ 12 heures (Garde extérieure)",
+      "temperament": "Extrêmement fidèle, courageux, très alerte"
+    },
+    "intro": "Le Jindo est un trésor national de la Corée. Bien qu'il ait un lien fort avec son propriétaire, sa méfiance naturelle exige une socialisation précoce. Aujourd'hui chez PetSelf, nous partageons des conseils de socialisation.",
+    "whyTitle": "Langage corporel du Jindo : Fidélité et méfiance",
+    "whyDesc": "Les chiens Jindo s'expriment à travers la position de leur queue. Une queue dressée indique l'alerte.",
+    "body_signals": [
+      {
+        "name": "Queue dressée et oreilles vers l'avant",
+        "meaning": "Alerte et concentration sur une cible inconnue.",
+        "response": "Évitez tout contact soudain et calmez-le d'un ton tranquille."
+      },
+      {
+        "name": "Queue basse et oreilles plates",
+        "meaning": "Obéissance profonde et confiance envers le maître.",
+        "response": "Caressez-le doucement et renforcez votre lien de confiance."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Matin : Promenade de socialisation axée sur le flair",
+        "text": "Promenez-le aux heures calmes pour désensibiliser le chien grâce au flair."
+      },
+      {
+        "name": "Après-midi : Brossage du double pelage",
+        "text": "Utilisez brosse carde et peigne métallique pour enlever le sous-poil mort."
+      },
+      {
+        "name": "Soir : Exercices de manipulation positive",
+        "text": "Touchez doucement les pattes en offrant des friandises."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Est-il difficile d'élever un Jindo en intérieur ?",
+        "answer": "Ils s'adaptent si vous gérez leur besoin de faire leurs besoins dehors. Promenades quotidiennes nécessaires."
+      },
+      {
+        "question": "Mon Jindo déteste les autres chiens, est-ce normal ?",
+        "answer": "Oui, ils sont indépendants par nature. Visez la neutralité sociale."
+      }
+    ],
+    "tags": [
+      "Jindo",
+      "Socialisation",
+      "Pelage double",
+      "Toilettage"
+    ]
+  },
+  "border-collie-care": {
+    "title": "Jeux de stimulation mentale et soin des articulations du Border Collie",
+    "description": "Jeux cognitifs et soin des articulations pour le Border Collie.",
+    "authority": "Guide du Border Collie du Kennel Club (KC) et études cognitives",
+    "profile": {
+      "breed": "Border Collie (Border Collie)",
+      "lifespan": "12 ~ 15 ans",
+      "sleep_pattern": "10 ~ 12 heures (Haute activité physique)",
+      "temperament": "Incroyablement intelligent, enthousiaste, endurance infinie"
+    },
+    "intro": "Le Border Collie est connu comme le chien le plus intelligent du monde. Leur course rapide et leurs virages serrés sollicitent fortement leurs articulations. Aujourd'hui chez PetSelf, nous présentons une routine pour stimuler leur cerveau.",
+    "whyTitle": "Langage corporel du Border Collie : Regard fixe",
+    "whyDesc": "Les Border Collies ont un instinct unique appelé 'l'œil' – fixer les objets pour les guider.",
+    "body_signals": [
+      {
+        "name": "Corps accroupi et regard fixe",
+        "meaning": "Instinct de troupeau activé par des objets en mouvement.",
+        "response": "Rappelez-le par son nom pour capter son regard et offrez une récompense."
+      },
+      {
+        "name": "Bouche ouverte et queue joyeuse",
+        "meaning": "Plein d'énergie et prêt à s'engager dans un jeu.",
+        "response": "Démarrez des activités stimulantes comme le frisbee ou l'agility."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Matin : Course fractionnée intégrée à des ordres",
+        "text": "Associez les sprints à des ordres pendant la promenade."
+      },
+      {
+        "name": "Après-midi : Jeux de réflexion et puzzles",
+        "text": "Proposez-lui des puzzles pour obtenir des friandises."
+      },
+      {
+        "name": "Soir : Massage musculaire doux et étirement des articulations",
+        "text": "Appliquez des compresses tièdes sur les muscles fatigués."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Pourquoi mon Border Collie poursuit les vélos ?",
+        "answer": "C'est l'instinct de troupeau. Apprenez un ordre de recentrage de l'attention."
+      },
+      {
+        "question": "De combien d'exercice a-t-il besoin ?",
+        "answer": "Au moins 2 heures d'exercice quotidien incluant du travail mental."
+      }
+    ],
+    "tags": [
+      "Border Collie",
+      "Stimulation",
+      "Articulations",
+      "Adestramento"
+    ]
+  },
+  "yorkshire-care": {
+    "title": "Entretien du poil du Yorkshire Terrier et prévention de la luxation de la rotule",
+    "description": "Garde le poil du Yorkshire Terrier soyeux et renforce les genoux.",
+    "authority": "Directives du Yorkshire Terrier Club (YTC) et de l'orthopédie vétérinaire",
+    "profile": {
+      "breed": "Yorkshire Terrier",
+      "lifespan": "13 ~ 16 ans",
+      "sleep_pattern": "12 ~ 14 heures (Actif en intérieur)",
+      "temperament": "Courageux, vif, énergique, très affectueux"
+    },
+    "intro": "Le Yorkshire Terrier, ou 'Yorkie', cache un caractère audacieux. Son poil long est similaire aux cheveux humains. De plus, ils sont sensibles à la luxation de la rotule. Aujourd'hui chez PetSelf, nous expliquons comment protéger ses rotules.",
+    "whyTitle": "Langage corporel du Yorkshire : Petit chasseur",
+    "whyDesc": "Les Yorkies ont un fort instinct de garde. Rabattre les oreilles indique une alerte.",
+    "body_signals": [
+      {
+        "name": "Oreilles rabattues et queue raide",
+        "meaning": "Tension face aux bruits extérieurs, prêt à aboyer.",
+        "response": "Parlez-lui calmement et captez son attention avec des friandises."
+      },
+      {
+        "name": "Exposer le ventre et agiter les pattes",
+        "meaning": "Sentiment de sécurité absolue et demande d'affection.",
+        "response": "Caressez doucement son ventre pour renforcer la confiance."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Matin : Brume hydratante et brossage avec brosse à picots",
+        "text": "Vaporisez brume hydratante et brossez doucement de la racine aux pointes."
+      },
+      {
+        "name": "Après-midi : Tonte des coussinets et vérification des sols",
+        "text": "Coupez les poils entre ses coussinets pour éviter les glissades."
+      },
+      {
+        "name": "Soir : Exercices d'obstacles bas en intérieur",
+        "text": "Faites-le passer au-dessus de coussins pour renforcer les muscles de la cuisse."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Le Yorkie perd-il beaucoup de poils ?",
+        "answer": "Non, ils ont pelage simple. Mais brossage quotidien requis."
+      },
+      {
+        "question": "Comment l'empêcher d'aboyer sans arrêt ?",
+        "answer": "L'aboiement est instinct de gardien. Récompensez le silence."
+      }
+    ],
+    "tags": [
+      "Yorkshire Terrier",
+      "Poil soyeux",
+      "Rotule",
+      "L'aboiement"
+    ]
+  },
+  "norwegian-forest-care": {
+    "title": "Jeu vertical et entretien du pelage triple imperméable du chat Norvégien",
+    "description": "Comblez l'instinct de grimpeur du Norvégien et entretenez son pelage triple.",
+    "authority": "Guide de l'Association Internationale des Chats (TICA) et éthologie féline",
+    "profile": {
+      "breed": "Norvégien (Norwegian Forest Cat)",
+      "lifespan": "12 ~ 16 ans",
+      "sleep_pattern": "14 ~ 16 heures (Espace vertical)",
+      "temperament": "Intelligent, doux, audacieux, amoureux de l'aventure"
+    },
+    "intro": "Le chat Norvégien a évolué avec un pelage triple imperméable dense. Son pelage épais nécessite un brossage régulier. Aujourd'hui chez PetSelf, nous expliquons comment préserver sa fourrure.",
+    "whyTitle": "Langage corporel du Norvégien : Signaux de confiance",
+    "whyDesc": "S'approcher avec la queue dressée et l'extrémité incurvée montre de la confiance.",
+    "body_signals": [
+      {
+        "name": "Queue dressée avec extrémité incurvée",
+        "meaning": "Amical, détendu et curieux d'interagir.",
+        "response": "Répondez d'une voix douce et caressez ses joues."
+      },
+      {
+        "name": "Pupilles dilatées et oreilles plates",
+        "meaning": "Tension causée par des bruits forts.",
+        "response": "Évitez le contact visuel. Laissez-le se réfugier en hauteur."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Matin : Jeux de plumeau vertical sur les arbres à griffer",
+        "text": "Agitez plumeau sur les arbres à griffer pour stimuler l'instinct."
+      },
+      {
+        "name": "Après-midi : Brossage profond pour retirer les poils morts",
+        "text": "Brossez poitrail et aisselles avec brosse carde et peigne métallique."
+      },
+      {
+        "name": "Soir : Zone de réception amortissante et coupe des griffes",
+        "text": "Placez tapis amortissants sous les arbres à chat."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "La perte de poils est-elle pire que d'autres chats ?",
+        "answer": "Oui. Pelage triple mue énormément. Brossage quotidien nécessaire."
+      },
+      {
+        "question": "Est-il vrai qu'ils aiment l'eau ?",
+        "answer": "Pelage imperméable réduit la peur. Baignades forcées stressantes."
+      }
+    ],
+    "tags": [
+      "Norvégien",
+      "Pelage triple",
+      "Arbre à chat",
+      "Soin chat"
+    ]
+  },
+  "sphynx-care": {
+    "title": "Soin du sébum de la peau et régulation de la température chez le Sphynx",
+    "description": "Nettoyez sébum du Sphynx et protégez-le du froid.",
+    "authority": "Directives de la Société Internationale de Médecine Féline (ISFM)",
+    "profile": {
+      "breed": "Sphynx (Sphynx Cat)",
+      "lifespan": "12 ~ 15 ans",
+      "sleep_pattern": "14 ~ 16 heures (Recherche de chaleur)",
+      "temperament": "Extrêmement affectueux, actif, sociable, intelligent"
+    },
+    "intro": "Le Sphynx est une race unique nue. Sans poils, il est vulnérable au froid et aux coups de soleil. Aujourd'hui chez PetSelf, nous présentons une routine pour nettoyer sa peau.",
+    "whyTitle": "Langage corporel du Sphynx : Recherche de chaleur",
+    "whyDesc": "Se coller à votre peau ou couvertures est une marque de recherche de chaleur.",
+    "body_signals": [
+      {
+        "name": "Recherche de chaleur",
+        "meaning": "Il ressent le froid et cherche à se réchauffer.",
+        "response": "Habillez-le d'un pull en coton ou offrez-lui un tapis chauffant."
+      },
+      {
+        "name": "Cligner des yeux et ronronnement",
+        "meaning": "Bien-être thermique et confiance envers son maître.",
+        "response": "Massez doucement son corps chaud et laissez-le se blottir."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Matin : Essuyage doux des plis de peau avec des serviettes tièdes",
+        "text": "Nettoyez le sébum marron accumulé avec un gant de toilette tiède."
+      },
+      {
+        "name": "Après-midi : Gestion de l'ensoleillement pour éviter les brûlures",
+        "text": "Fermez les voilages pour bloquer le soleil direct."
+      },
+      {
+        "name": "Soir : Vêtement de coton propre et lit douillet",
+        "text": "Mettez-lui un vêtement propre pour éviter l'accumulation de sébum."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Le Sphynx est-il complètement hypoallergénique ?",
+        "answer": "Non. Allergies sont causées par la salive et le sébum, pas les poils."
+      },
+      {
+        "question": "À quelle fréquence faut-il baigner un Sphynx ?",
+        "answer": "Toutes les 1-2 semaines avec shampoing doux à pH neutre."
+      }
+    ],
+    "tags": [
+      "Sphynx",
+      "Peau nue",
+      "Chaleur",
+      "Bain chat"
+    ]
   }
 }

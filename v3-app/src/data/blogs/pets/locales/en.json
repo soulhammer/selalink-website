@@ -1006,5 +1006,285 @@
       "Vocal Cats",
       "Cat Playtime"
     ]
+  },
+  "jindo-care": {
+    "title": "Loyal Jindo Dog Socialization Guide and Double Coat 3-Step Care Routine",
+    "description": "Learn Jindo dog socialization and grooming guidelines.",
+    "authority": "National Institute of Animal Science Jindo Standards & KKC Behavior Expert Protocol",
+    "profile": {
+      "breed": "Jindo Dog",
+      "lifespan": "12 ~ 15 Years",
+      "sleep_pattern": "10 ~ 12 Hours (Outdoor Guard Integrated)",
+      "temperament": "Extremely Loyal, Brave, Highly Alert"
+    },
+    "intro": "The Jindo dog is Korea's national treasure. They possess a dense double coat developed to adapt to distinct seasonal climates, resulting in heavy shedding during season changes. Today at PetSelf, we share socialization tips to reduce caution and a 3-step homecare routine to manage their double coat.",
+    "whyTitle": "Jindo Body Language: Signals of Caution",
+    "whyDesc": "Jindo dogs communicate clearly through the angles of their tail and ears. Standing the tail straight up and pointing the ears forward indicates alert focus.",
+    "body_signals": [
+      {
+        "name": "Erect Tail & Forward Ears",
+        "meaning": "Alert and focused on unfamiliar targets.",
+        "response": "Avoid sudden touch and let the owner calm the dog down."
+      },
+      {
+        "name": "Low Tail & Flat Ears",
+        "meaning": "Deep obedience, trust, and affection.",
+        "response": "Stroke gently and offer verbal praise."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Socialization Walks Focused on Sniffing",
+        "text": "Walk in quiet morning hours to desensitize them to unfamiliar stimuli."
+      },
+      {
+        "name": "Afternoon: Brushing to Remove Dead Hair",
+        "text": "Use a slicker brush and a steel comb to remove trapped undercoat hairs."
+      },
+      {
+        "name": "Evening: Cooperative Touch Handling",
+        "text": "Handle paws, ears, and snout gently while offering treats."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Jindo easy to raise indoors?",
+        "answer": "Yes, but they prefer outdoor toilet habits and shed heavily."
+      },
+      {
+        "question": "My Jindo is aggressive to other dogs. Is it normal?",
+        "answer": "They are independent and territorial. Try to train social neutrality."
+      }
+    ],
+    "tags": [
+      "Jindo",
+      "Socialization",
+      "Double Coat",
+      "Homecare"
+    ]
+  },
+  "border-collie-care": {
+    "title": "Brain Stimulation Games and Joint Care Home Routine for Clever Border Collies",
+    "description": "Learn cognitive games and joint care tips for active Border Collies.",
+    "authority": "The Kennel Club (KC) Border Collie Guide & Animal Cognition Studies",
+    "profile": {
+      "breed": "Border Collie",
+      "lifespan": "12 ~ 15 Years",
+      "sleep_pattern": "10 ~ 12 Hours (High Energy Active)",
+      "temperament": "Amazingly Intelligent, Enthusiastic, Endless Stamina"
+    },
+    "intro": "The Border Collie is widely known as the smartest dog breed in the world. Their explosive running style and quick turns put high stress on their joints. Today at PetSelf, we present a 3-step homecare routine designed to challenge their brain and maintain joint health.",
+    "whyTitle": "Border Collie Body Language: Intense Eye Focus",
+    "whyDesc": "Border Collies have a distinct behavior known as 'The Eye'—staring intensely to herd objects.",
+    "body_signals": [
+      {
+        "name": "Lowered Body & Intense Eye Focus",
+        "meaning": "Instinctive herding drive triggered by moving objects.",
+        "response": "Call their name and redirect eye contact to you immediately."
+      },
+      {
+        "name": "Open Mouth & Large Wagging Tail",
+        "meaning": "Highly energized and ready to engage in play.",
+        "response": "Start intelligent activities like Frisbee or agility."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Interval Running with Commands",
+        "text": "Combine physical sprints with commands to satisfy mental drives."
+      },
+      {
+        "name": "Afternoon: Multi-level Interactive Puzzle Toys",
+        "text": "Provide puzzle toys to satisfy their cognitive curiosity."
+      },
+      {
+        "name": "Evening: Muscle Massage and Joint Stretching",
+        "text": "Apply warm compresses and stretch leg muscles gently."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why does my Border Collie chase cars?",
+        "answer": "This is due to herding instinct. Train focus cue before triggers."
+      },
+      {
+        "question": "How much exercise do they need daily?",
+        "answer": "At least 2 hours of daily exercise including training."
+      }
+    ],
+    "tags": [
+      "Border Collie",
+      "Brain Games",
+      "Joint Care",
+      "Herding Correction"
+    ]
+  },
+  "yorkshire-care": {
+    "title": "Yorkshire Terrier Coat Maintenance and Patella Subluxation 3-Step Homecare",
+    "description": "Discover grooming secrets to keep your Yorkie silky and prevent patellar dislocation.",
+    "authority": "Yorkshire Terrier Club (YTC) Grooming Guide & Veterinary Orthopedics Guidelines",
+    "profile": {
+      "breed": "Yorkshire Terrier",
+      "lifespan": "13 ~ 16 Years",
+      "sleep_pattern": "12 ~ 14 Hours (Indoor Active)",
+      "temperament": "Brave, Smart, Highly Energetic, Affectionate"
+    },
+    "intro": "The Yorkshire Terrier, or 'Yorkie', packs a bold personality. They possess a long single coat very similar to human hair. Additionally, they are highly prone to patellar luxation. Today at PetSelf, we discuss how to maintain their silky coat and protect knee joints.",
+    "whyTitle": "Yorkshire Terrier Body Language: Tiny Hunter Alerts",
+    "whyDesc": "Yorkies have strong guarding and hunting drives. Pulling ears flat back indicates alertness.",
+    "body_signals": [
+      {
+        "name": "Pinned Ears & Rigid Tail",
+        "meaning": "Tense and alert in response to external noises.",
+        "response": "Speak in a warm tone and redirect their attention with treats."
+      },
+      {
+        "name": "Belly Show & Air Paddling",
+        "meaning": "Feeling completely safe, showing submissive trust.",
+        "response": "Rub their belly softly to foster a warm bond."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Moisturizing Mist and Pin Brushing",
+        "text": "Spray conditioning mist and brush with a pin brush gently."
+      },
+      {
+        "name": "Afternoon: Pad Shaving and Non-slip Floor Check",
+        "text": "Trim paw pad hair to prevent slipping on indoor floors."
+      },
+      {
+        "name": "Evening: Low-Impact Indoor Obstacle Steps",
+        "text": "Guide them to step over low cushions to build thigh muscles."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do Yorkies shed a lot?",
+        "answer": "No, they have single coat. However, daily brushing is needed."
+      },
+      {
+        "question": "How to stop my Yorkie's frequent barking?",
+        "answer": "Barking is watches instinct. Reward silent moments with treats."
+      }
+    ],
+    "tags": [
+      "Yorkshire Terrier",
+      "Coat Grooming",
+      "Patella Care",
+      "Barking Training"
+    ]
+  },
+  "norwegian-forest-care": {
+    "title": "Vertical Play and Triple Coat Waterproof Grooming for Norwegian Forest Cats",
+    "description": "Satisfy climbing drive of Norwegian Forest Cats and manage waterproof triple coats.",
+    "authority": "The International Cat Association (TICA) Guide & Feline Behavior Science",
+    "profile": {
+      "breed": "Norwegian Forest Cat",
+      "lifespan": "12 ~ 16 Years",
+      "sleep_pattern": "14 ~ 16 Hours (Vertical Wild Type)",
+      "temperament": "Intelligent, Mild-mannered, Bold, Nature-loving"
+    },
+    "intro": "The Norwegian Forest Cat, or 'Wegie', has evolved to survive harsh winter, developing a water-repellent triple coat. Today at PetSelf, we show you how to fulfill their climbing needs and manage triple coats.",
+    "whyTitle": "Norwegian Forest Cat Body Language: Trust and Wild Alerts",
+    "whyDesc": "Approaching slowly with a vertical tail slightly curved shows deep trust and friendliness.",
+    "body_signals": [
+      {
+        "name": "Upright Tail with Question Mark Curve",
+        "meaning": "Friendly, relaxed, and curious to interact.",
+        "response": "Respond with a soft voice and gently rub their cheeks."
+      },
+      {
+        "name": "Dilated Pupils & Airplane Ears",
+        "meaning": "Tense due to sudden noises or unfamiliar surroundings.",
+        "response": "Avoid direct eye contact. Let them retreat to high shelves."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Vertical Wand Toys to Mimic Climb Hunt",
+        "text": "Play dynamically with a wand toy up and down cat towers."
+      },
+      {
+        "name": "Afternoon: Deep Slicker Brushing to Remove Undercoat",
+        "text": "Brush chest and armpits using slicker and metal comb."
+      },
+      {
+        "name": "Evening: Impact-absorbing Landing Zone and Claw Trim",
+        "text": "Place padded mats under tall cat trees and trim claws."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is their shedding worse than other cats?",
+        "answer": "Yes. Triple coat sheds heavily in spring/autumn. Daily brushing is needed."
+      },
+      {
+        "question": "Is it true they love water?",
+        "answer": "Waterproof outer coat makes them less fearful of water."
+      }
+    ],
+    "tags": [
+      "Norwegian Forest Cat",
+      "Triple Coat",
+      "Joint Health",
+      "Cat Toys"
+    ]
+  },
+  "sphynx-care": {
+    "title": "Skin Sebum Management and Temperature Control Routine for Hairless Sphynx Cats",
+    "description": "Clean skin sebum and protect temperature on Sphynx hairless cats.",
+    "authority": "International Society of Feline Medicine (ISFM) Guidelines",
+    "profile": {
+      "breed": "Sphynx Cat",
+      "lifespan": "12 ~ 15 Years",
+      "sleep_pattern": "14 ~ 16 Hours (Heat-Seeking Sleep)",
+      "temperament": "Highly Affectionate, Outgoing, Friendly, Smart"
+    },
+    "intro": "The Sphynx cat is a unique hairless breed. Having no fur leaves them vulnerable to temperature drops and sunburn. Today at PetSelf, we discuss skin care and temperature control routine.",
+    "whyTitle": "Sphynx Body Language: Seeking Warmth",
+    "whyDesc": "Leaning tightly against your skin or blankets is a sign of seeking heat.",
+    "body_signals": [
+      {
+        "name": "Heat-Seeking (Clinging to warm spots)",
+        "meaning": "Feeling cold and looking for heat sources.",
+        "response": "Check room temperature, dress them in clothes, and provide heating mat."
+      },
+      {
+        "name": "Squinting & Constant Purring",
+        "meaning": "Deeply content, warm, and expressing trust.",
+        "response": "Massage their warm body gently and let them cuddle."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morning: Wiping of Skin Folds with Warm Towels",
+        "text": "Wipe accumulated sebum from skin folds using a warm damp cloth."
+      },
+      {
+        "name": "Afternoon: Sunlight Management to Prevent Sunburn",
+        "text": "Close curtains or tint windows to block strong direct sun rays."
+      },
+      {
+        "name": "Evening: Cotton Clothes Swap and Heated Bed Check",
+        "text": "Change them into a fresh shirt to prevent skin oil buildup."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are Sphynx completely hypoallergenic?",
+        "answer": "No. Cat allergies are triggered by proteins in saliva and sebum, not hair."
+      },
+      {
+        "question": "How often should I bathe Sphynx?",
+        "answer": "Typically every 1-2 weeks with a gentle pet-safe shampoo."
+      }
+    ],
+    "tags": [
+      "Sphynx Cat",
+      "Skin Care",
+      "Pet Warming",
+      "Cat Bathing"
+    ]
   }
 }

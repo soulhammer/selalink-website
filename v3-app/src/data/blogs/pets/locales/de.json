@@ -1006,5 +1006,285 @@
       "Vokale Katzen",
       "Katzenspielzeit"
     ]
+  },
+  "jindo-care": {
+    "title": "Sozialisierungsleitfaden und 3-Schritte-Routine für das doppelte Fell des loyalen Jindo-Hundes",
+    "description": "Lernen Sie Sozialisierungsmethoden für den Jindo-Hund und die Pflege seines dichten Doppelmantels.",
+    "authority": "Richtlinien des Nationalen Instituts für Nutztierwissenschaften Koreas und der KKC",
+    "profile": {
+      "breed": "Jindo-Hund (Jindo Dog)",
+      "lifespan": "12 ~ 15 Jahre",
+      "sleep_pattern": "10 ~ 12 Stunden (Außenwache integriert)",
+      "temperament": "Äußerst loyal, mutig, sehr wachsam"
+    },
+    "intro": "Der Jindo-Hund ist ein nationales Heiligtum Koreas. Sie bauen eine starke Bindung zu ihrem Besitzer auf, können jedoch Fremden gegenüber defensiv reagieren. Heute bei PetSelf teilen wir Tipps zur Pflege.",
+    "whyTitle": "Körpersprache des Jindos: Loyalität und Vorsicht",
+    "whyDesc": "Jindo-Hunde kommunizieren über die Positionen von Rute und Ohren. Eine aufgerichtete Rute signalisiert Alarmbereitschaft.",
+    "body_signals": [
+      {
+        "name": "Aufgerichtete Rute und aufgestellte Ohren",
+        "meaning": "Alarmbereitschaft auf ein unbekanntes Ziel unter Anspannung.",
+        "response": "Vermeiden Sie plötzlichen Kontakt und beruhigen Sie ihn mit leiser Stimme."
+      },
+      {
+        "name": "Gesenkte Rute und flach angelegte Ohren",
+        "meaning": "Gehorsam und Vertrauen gegenüber dem Besitzer.",
+        "response": "Streicheln Sie ihn sanft und stärken Sie diese Bindung."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morgen: Sozialisierungsspaziergang mit Nasenarbeit",
+        "text": "Gehen Sie morgens spazieren, um den Hund durch Schnüffeln an die Umwelt zu gewöhnen."
+      },
+      {
+        "name": "Nachmittag: Bürsten des Doppelmantels zur Entfernung der Unterwolle",
+        "text": "Verwenden Sie eine Zupfbürste, um abgestorbene Unterwolle gründlich zu entfernen."
+      },
+      {
+        "name": "Abend: Desensibilisierungstraining für Berührungen",
+        "text": "Berühren Sie vorsichtig Pfoten und Ohren und belohnen Sie ihn sofort mit Leckerlis."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Ist die Haltung eines Jindos im Haus schwierig?",
+        "answer": "Sie passen sich gut an, solange Sie das Haaren bewältigen. Täglich Spaziergänge sind Pflicht."
+      },
+      {
+        "question": "Versteht sich mein Jindo mit anderen Hunden?",
+        "answer": "Jindos sind unabhängig. Streben Sie soziale Neutralität bei Begegnungen an."
+      }
+    ],
+    "tags": [
+      "Jindo",
+      "Sozialisierung",
+      "Doppelfell",
+      "Hundepflege"
+    ]
+  },
+  "border-collie-care": {
+    "title": "Kognitive Spiele und Gelenkpflege für den intelligenten Border Collie",
+    "description": "Spiele zur geistigen Auslastung des Border Collies und Tipps zum Gelenkschutz.",
+    "authority": "Border-Collie-Handbuch des Kennel Club (KC) und Kognitionsstudien",
+    "profile": {
+      "breed": "Border Collie (Border Collie)",
+      "lifespan": "12 ~ 15 Jahre",
+      "sleep_pattern": "10 ~ 12 Stunden (Hohes Energielevel)",
+      "temperament": "Erstaunlich intelligent, enthusiastisch, unermüdliche Ausdauer"
+    },
+    "intro": "Der Border Collie ist als klügster Hund der Welt bekannt. Schnelles Rennen und Haken schlagen belasten Bänder. Heute zeigt PetSelf eine Routine für Gehirntraining und Gelenkschutz.",
+    "whyTitle": "Körpersprache des Border Collies: Fixieren",
+    "whyDesc": "Border Collies besitzen das instinktive Verhalten des 'Fixierens' (The Eye) mit den Augen.",
+    "body_signals": [
+      {
+        "name": "Geduckte Haltung und Fixieren",
+        "meaning": "Instinktiver Hütetrieb, ausgelöst durch sich bewegende Objekte.",
+        "response": "Rufen Sie sofort seinen Namen, um Blickkontakt herzustellen, und belohnen Sie ihn."
+      },
+      {
+        "name": "Offenes Maul und Rutenwedeln",
+        "meaning": "Voller Energie und bereit für ein intelligentes Spiel.",
+        "response": "Starten Sie anspruchsvolle Beschäftigungen wie Frisbee oder Agility."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morgen: Intervalllauf kombiniert mit Kommandos",
+        "text": "Verbinden Sie Sprints mit Kommandos, um Körper und Geist gleichzeitig zu fordern."
+      },
+      {
+        "name": "Nachmittag: Mehrstufiges Intelligenzspielzeug",
+        "text": "Bieten Sie Denkspiele an, bei denen der Hund hebeln muss, um an Futter zu gelangen."
+      },
+      {
+        "name": "Abend: Muskelmassage und Dehnen nach dem Sport",
+        "text": "Legen Sie warme Kompressen auf die beanspruchte Muskulatur."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Warum jagt mein Border Collie Fahrrädern hinterher?",
+        "answer": "Das liegt am Hütetrieb. Trainieren Sie Aufmerksamkeitssignal vor dem Reiz."
+      },
+      {
+        "question": "Wie viel Bewegung braucht ein Border Collie?",
+        "answer": "Mindestens 2 Stunden täglich inklusive geistiger Kopfarbeit."
+      }
+    ],
+    "tags": [
+      "Border Collie",
+      "Denkspiele",
+      "Gelenkpflege",
+      "Hütetrieb"
+    ]
+  },
+  "yorkshire-care": {
+    "title": "Fellpflege beim Yorkshire Terrier und Vorbeugung von Patellaluxation",
+    "description": "Pflege-Geheimnisse für das Fell des Yorkshire Terriers sowie Kniegelenksübungen.",
+    "authority": "Richtlinien des Yorkshire Terrier Club (YTC) und der Veterinärorthopädie",
+    "profile": {
+      "breed": "Yorkshire Terrier",
+      "lifespan": "13 ~ 16 Jahre",
+      "sleep_pattern": "12 ~ 14 Stunden (Aktiv im Haus)",
+      "temperament": "Mutig, klug, energisch, sehr anhänglich"
+    },
+    "intro": "Der Yorkshire Terrier, oder 'Yorkie', besitzt ein mutiges Wesen. Sein feines Fell ähnelt menschlichem Haar. Zudem sind Kleinsthunde anfällig für Patellaluxation. Heute bei PetSelf zeigen wir Ihnen Kniegelenksschutz.",
+    "whyTitle": "Körpersprache des Yorkshire Terriers: Kleiner Jäger",
+    "whyDesc": "Yorkies haben einen Wach- und Jagdtrieb. Zurückgelegte Ohren signalisieren Alarmbereitschaft.",
+    "body_signals": [
+      {
+        "name": "Ohren nach hinten gelegt und steife Rute",
+        "meaning": "Anspannung und Wachsamkeit, bereit zu kläffen.",
+        "response": "Heben Sie ihn nicht hoch. Lenken Sie ihn mit Leckerlis ab."
+      },
+      {
+        "name": "Präsentation des Bauches und Strampeln",
+        "meaning": "Absolutes Sicherheitsgefühl und Bitte um Zuneigung.",
+        "response": "Kraulen Sie seinen Bauch sanft, um die Bindung zu festigen."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morgen: Feuchtigkeitsspray und Bürsten mit Pin-Bürste",
+        "text": "Sprühen Sie das Fell mit Pflegespray ein und bürsten Sie es von der Wurzel."
+      },
+      {
+        "name": "Nachmittag: Pfotenpflege und rutschige Böden überprüfen",
+        "text": "Kürzen Sie das Fell zwischen den Ballen, um Rutschen auf Laminat zu verhindern."
+      },
+      {
+        "name": "Abend: Leichtes Hindernistraining zur Kniestärkung",
+        "text": "Lassen Sie ihn über niedrige Kissen steigen, um die Oberschenkelmuskulatur aufzubauen."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Haaren Yorkshire Terrier stark?",
+        "answer": "Nein, sie besitzen kein Unterfell. Ihr langes Haar verfilzt jedoch leicht."
+      },
+      {
+        "question": "Wie kann ich meinem Yorkie das Kläffen abgewöhnen?",
+        "answer": "Sie bellen instinktiv. Ignorieren Sie das Kläffen und belohnen Sie Stille."
+      }
+    ],
+    "tags": [
+      "Yorkshire Terrier",
+      "Fellpflege",
+      "Patellaluxation",
+      "Kläffen"
+    ]
+  },
+  "norwegian-forest-care": {
+    "title": "Kletterbeschäftigung und Pflege des wasserabweisenden Fells der Norwegischen Waldkatze",
+    "description": "Erfüllen Sie den Klettertrieb der Norwegischen Waldkatze und pflegen Sie ihr Dreifachfell.",
+    "authority": "Richtlinien der International Cat Association (TICA) und Katzenverhaltensforschung",
+    "profile": {
+      "breed": "Norwegische Waldkatze (Norwegian Forest Cat)",
+      "lifespan": "12 ~ 16 Jahre",
+      "sleep_pattern": "14 ~ 16 Stunden (Vertikales Klettern)",
+      "temperament": "Intelligent, sanftmütig, kühn, naturliebend"
+    },
+    "intro": "Die Norwegische Waldkatze hat ein dichtes, wasserabweisendes Dreifachfell entwickelt. Ihr dichtes Fell erfordert regelmäßige Pflege. Heute bei PetSelf zeigen wir Ihnen eine Kletter-Routine.",
+    "whyTitle": "Körpersprache der Norwegischen Waldkatze: Vertrauen",
+    "whyDesc": "Ein langsames Annähern mit aufgerichteter Rute zeigt tiefes Vertrauen.",
+    "body_signals": [
+      {
+        "name": "Aufgerichtete Rute mit gebogener Spitze",
+        "meaning": "Freundlich, entspannt und bereit für Interaktion.",
+        "response": "Antworten Sie mit sanfter Stimme und kraulen Sie Wangen."
+      },
+      {
+        "name": "Weite Pupillen und flache Ohren",
+        "meaning": "Anspannung durch laute Geräusche oder fremde Umgebung.",
+        "response": "Vermeiden Sie Augenkontakt. Lassen Sie die Katze auf hohe Kratzbäume flüchten."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morgen: Angelspiel am Kratzbaum",
+        "text": "Bewegen Sie Spielzeug am Kratzbaum auf und ab, um den Klettertrieb auszulasten."
+      },
+      {
+        "name": "Nachmittag: Tiefenpflege zur Entfernung der Unterwolle",
+        "text": "Bürsten Sie Brust und Achseln mit einer Zupfbürste und einem Metallkamm aus."
+      },
+      {
+        "name": "Abend: Stoßdämpfung am Boden und Krallenpflege",
+        "text": "Legen Sie Matten unter hohe Kletterbäume und kürzen Sie Krallen."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Haaren sie stärker als andere Katzen?",
+        "answer": "Ja. Ihr dreifaches Fell haart im Herbst extrem. Tägliches Bürsten ist Pflicht."
+      },
+      {
+        "question": "Stimmt es, dass Norwegische Waldkatzen Wasser lieben?",
+        "answer": "Wasserabweisendes Deckhaar reduziert Angst. Erzwungene Bäder sind stressig."
+      }
+    ],
+    "tags": [
+      "Norwegische Waldkatze",
+      "Dreifachfell",
+      "Kratzbaum",
+      "Fellpflege"
+    ]
+  },
+  "sphynx-care": {
+    "title": "Hauttalg-Pflege und Wärmemanagement bei der haarlosen Sphynx-Katze",
+    "description": "Reinigung des Hauttalgs bei Sphynx-Katzen und Routinen zum Kälteschutz.",
+    "authority": "Richtlinien der Internationalen Gesellschaft für Katzenmedizin (ISFM)",
+    "profile": {
+      "breed": "Sphynx-Katze (Sphynx Cat)",
+      "lifespan": "12 ~ 15 Jahre",
+      "sleep_pattern": "14 ~ 16 Stunden (Wärmesuchend)",
+      "temperament": "Äußerst anhänglich, aktiv, gesellig, intelligent"
+    },
+    "intro": "Die Sphynx-Katze ist eine hauchzarte Rasse ohne Fell. Da sie keine Haare besitzen, lagert sich Talg ab. Zudem sind sie extrem kälteempfindlich. Heute bei PetSelf zeigen wir Hautreinigung.",
+    "whyTitle": "Körpersprache der Sphynx: Wärmesuche",
+    "whyDesc": "Das Anschmiegen an die Haut ist Zuneigung und Wärmegewinnung zugleich.",
+    "body_signals": [
+      {
+        "name": "Wärmesuche (Kuscheln an Mensch)",
+        "meaning": "Die Katze friert und sucht nach Wärmequellen.",
+        "response": "Prüfen Sie Raumtemperatur und nutzen Sie eine Heizmatte."
+      },
+      {
+        "name": "Augen zukneifen und Schnurren",
+        "meaning": "Thermisches Wohlbefinden, Entspannung und Vertrauen.",
+        "response": "Massieren Sie den warmen Körper sanft und lassen Sie sie nah schlafen."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Morgen: Abwischen der Hautfalten mit warmem Tuch",
+        "text": "Wischen Sie braunen Talg aus den Hautfalten vorsichtig ab."
+      },
+      {
+        "name": "Nachmittag: Sonnenschutz zur Vermeidung von Verbrennungen",
+        "text": "Nutzen Sie Vorhänge, um direkte Sonneneinstrahlung zu blockieren."
+      },
+      {
+        "name": "Abend: Wechseln der Baumwollkleidung",
+        "text": "Ziehen Sie der Katze ein sauberes Hemd an, um Talgstau vorzubeugen."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Sind Sphynx-Katzen komplett hypoallergen?",
+        "answer": "Nein. Allergien werden durch Proteine im Speichel und Talg ausgelöst."
+      },
+      {
+        "question": "Wie oft muss man eine Sphynx baden?",
+        "answer": "Meist alle 1 bis 2 Wochen mit mildem Tiershampoo."
+      }
+    ],
+    "tags": [
+      "Sphynx-Katze",
+      "Haarlose Haut",
+      "Wärmeschutz",
+      "Katzenbad"
+    ]
   }
 }

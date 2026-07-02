@@ -1006,5 +1006,285 @@
       "Kucing Vokal",
       "Waktu Bermain Kucing"
     ]
+  },
+  "jindo-care": {
+    "title": "Panduan Sosialisasi dan Rutinitas Perawatan Bulu Ganda Anjing Jindo yang Setia",
+    "description": "Cara melatih sosialisasi Jindo yang waspada terhadap orang asing dan 3 rutinitas merawat bulu ganda.",
+    "authority": "Lembaga Ilmu Peternakan Nasional Korea & Protokol Pakar Perilaku KKC",
+    "profile": {
+      "breed": "Anjing Jindo (Jindo Dog)",
+      "lifespan": "12 ~ 15 tahun",
+      "sleep_pattern": "10 ~ 12 jam (Penjagaan luar ruangan)",
+      "temperament": "Sangat setia, pemberani, sangat waspada"
+    },
+    "intro": "Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaan dan kecerdasannya. Mereka memiliki ikatan kuat dengan pemiliknya, tetapi kewaspadaan tinggi membuat mereka defensif jika kurang sosialisasi. Bulu ganda mereka rontok parah saat pergantian musim. Hari ini PetSelf membagikan tips sosialisasi dan perawatan bulu Jindo.",
+    "whyTitle": "Bahasa Tubuh Jindo: Kesetiaan dan Kewaspadaan",
+    "whyDesc": "Jindo mengekspresikan emosi dengan tenang lewat telinga dan ekor. Ekor tegak dan telinga condong ke depan menunjukkan kewaspadaan, sedangkan ekor rendah bergoyang perlahan menandakan kepatuhan.",
+    "body_signals": [
+      {
+        "name": "Ekor tegak dan telinga condong ke depan",
+        "meaning": "Waspada dan fokus pada target yang tidak dikenal.",
+        "response": "Hindari kontak mendadak, minta orang asing tidak menyentuh, dan tenangkan anjing secara perlahan."
+      },
+      {
+        "name": "Ekor rendah bergoyang perlahan dan telinga rata",
+        "meaning": "Kepatuhan mendalam dan rasa percaya kepada pemilik.",
+        "response": "Elus dengan lembut untuk memperkuat hubungan positif secara konsisten."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Pagi: Jalan-jalan sosialisasi santai dengan fokus penciuman",
+        "text": "Berjalan di pagi hari saat sepi agar anjing terbiasa dengan berbagai aroma lingkungan."
+      },
+      {
+        "name": "Siang: Menyikat bulu ganda untuk menghilangkan bulu mati",
+        "text": "Gunakan slicker brush dan sisir besi untuk membersihkan bulu mati dan mencegah infeksi kulit."
+      },
+      {
+        "name": "Sore: Latihan desensitisasi sentuhan",
+        "text": "Sentuh area sensitif seperti cakar dan telinga sambil memberikan camilan untuk membangun memori positif."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Apakah sulit memelihara Jindo di dalam rumah?",
+        "answer": "Bisa beradaptasi dengan baik jika Anda rutin mengajaknya buang air di luar dan membersihkan bulu rontok. Jalan-jalan 2 kali sehari wajib dilakukan."
+      },
+      {
+        "question": "Anjing Jindo saya tidak ramah dengan anjing lain, apakah wajar?",
+        "answer": "Wajar karena mereka mandiri dan teritorial. Targetkan respon netral (tenang tanpa menggonggong) saat berpapasan dengan anjing lain."
+      }
+    ],
+    "tags": [
+      "Jindo",
+      "Sosialisasi",
+      "Bulu ganda",
+      "Anjing"
+    ]
+  },
+  "border-collie-care": {
+    "title": "Permainan Stimulasi Kognitif and Rutinitas Perawatan Sendi Border Collie",
+    "description": "Latih otak Border Collie dengan permainan cerdas dan lindungi sendi mereka dari aktivitas berat.",
+    "authority": "Panduan Border Collie Kennel Club (KC) Inggris & Penelitian Kognisi Hewan",
+    "profile": {
+      "breed": "Border Collie",
+      "lifespan": "12 ~ 15 tahun",
+      "sleep_pattern": "10 ~ 12 jam (Aktivitas energi tinggi)",
+      "temperament": "Sangat cerdas, antusias, stamina tanpa batas"
+    },
+    "intro": "Border Collie adalah anjing paling cerdas di dunia dengan stamina luar biasa. Jalan-jalan biasa tidak cukup bagi mereka; tanpa stimulasi kognitif, mereka bisa stres dan merusak barang. Lari cepat dan belokan tajam juga rawan mencederai sendi mereka. Hari ini PetSelf membagikan tips stimulasi otak dan perlindungan sendi Border Collie.",
+    "whyTitle": "Bahasa Tubuh Border Collie: Tatapan Tajam",
+    "whyDesc": "Border Collie memiliki tatapan 'Eye Contact' khas untuk menggiring objek. Merunduk and menatap tajam menunjukkan konsentrasi penuh menggiring. Mulut terbuka and ekor berputar lebar menandakan kesiapan bermain.",
+    "body_signals": [
+      {
+        "name": "Tubuh merunduk and menatap tajam ke objek",
+        "meaning": "Insting menggiring objek bergerak dengan konsentrasi tinggi.",
+        "response": "Panggil nama anjing untuk mengalihkan pandangan ke pemilik and berikan pujian."
+      },
+      {
+        "name": "Mulut terbuka dengan ekor berayun lebar",
+        "meaning": "Energi penuh and siap melakukan permainan fisik/otak.",
+        "response": "Waktu terbaik untuk memulai frisbee atau latihan ketangkasan (agility)."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Pagi: Lari pagi dikombinasikan dengan latihan kepatuhan",
+        "text": "Berikan perintah seperti 'tunggu' atau 'putar' di sela-sela lari agar mereka menggunakan otak."
+      },
+      {
+        "name": "Siang: Mainan teka-teki interaktif (Brain Games)",
+        "text": "Sediakan mainan puzzle multi-level yang membutuhkan trik untuk mengeluarkan makanan."
+      },
+      {
+        "name": "Malam: Pijat lembut dan peregangan sendi pasca aktivitas",
+        "text": "Pijat lembut area paha and bahu untuk melemaskan otot setelah aktivitas fisik yang intens."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Mengapa Border Collie saya suka mengejar sepeda atau kereta bayi?",
+        "answer": "Itu adalah insting menggiring yang kuat. Latih fokus kontak mata sebelum mereka terpicu mengejar objek."
+      },
+      {
+        "question": "Berapa lama mereka harus berjalan setiap hari?",
+        "answer": "Minimal 2 hours sehari dibagi menjadi pagi and sore, dikombinasikan dengan latihan kepatuhan."
+      }
+    ],
+    "tags": [
+      "Border Collie",
+      "Mainan otak",
+      "Sendi",
+      "Agility"
+    ]
+  },
+  "yorkshire-care": {
+    "title": "Perawatan Bulu Indah Yorkshire Terrier dan 3 Langkah Pencegahan Dislokasi Lutut",
+    "description": "Cara menyikat bulu Yorkshire Terrier agar tetap berkilau and melatih otot kaki untuk mencegah dislokasi patela.",
+    "authority": "Pedoman Yorkshire Terrier Club (YTC) & Ortopedi Veteriner",
+    "profile": {
+      "breed": "Yorkshire Terrier",
+      "lifespan": "13 ~ 16 tahun",
+      "sleep_pattern": "12 ~ 14 jam (Aktif di dalam ruangan)",
+      "temperament": "Berani, cerdas, energik, sangat manja"
+    },
+    "intro": "Yorkshire Terrier ('Yorkie') memiliki karakter berani dalam tubuh yang mungil. Bulu tunggal mereka halus mirip rambut manusia sehingga mudah kusut. Sebagai anjing kecil, mereka rentan mengalami dislokasi tempurung lutut (patela). Hari ini PetSelf membagikan tips perawatan bulu and perlindungan lutut Yorkie.",
+    "whyTitle": "Bahasa Tubuh Yorkshire Terrier: Pemburu Mungil",
+    "whyDesc": "Yorkie memiliki insting waspada yang kuat. Telinga rata ke belakang and ekor kaku menandakan siaga, sementara terlentang memperlihatkan perut menandakan rasa percaya penuh.",
+    "body_signals": [
+      {
+        "name": "Telinga rata ke belakang and ekor kaku tegak",
+        "meaning": "Waspada terhadap suara luar and bersiap menggonggong.",
+        "response": "Jangan langsung menggendongnya. Panggil namanya dengan tenang and alihkan perhatian dengan mainan."
+      },
+      {
+        "name": "Terlentang memperlihatkan perut sambil menggerakkan cakar",
+        "meaning": "Merasa sangat aman and meminta perhatian penuh dari pemilik.",
+        "response": "Elus perut and dadanya perlahan untuk mempererat ikatan emosional."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Pagi: Semprotan pelembap dan penyikatan bulu harian",
+        "text": "Semprotkan hair mist anti-kusut lalu sisir dari akar ke ujung bulu dengan pin brush."
+      },
+      {
+        "name": "Siang: Mencukur rambut kaki and memeriksa lantai licin",
+        "text": "Cukur bulu di sela bantalan kaki agar tidak tergelincir di lantai rumah."
+      },
+      {
+        "name": "Malam: Latihan rintangan rendah untuk melatih otot kaki",
+        "text": "Ajak mereka melompati bantal rendah untuk memperkuat otot paha penopang lutut."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Apakah Yorkshire Terrier banyak rontok bulu?",
+        "answer": "Tidak, bulu tunggal mereka sangat jarang rontok. Namun, bulu panjangnya perlu disisir setiap hari agar tidak kusut."
+      },
+      {
+        "question": "Bagaimana cara menghentikan gonggongan berlebih?",
+        "answer": "Gonggongan dipicu insting penjaga. Jangan merespon saat mereka menggonggong; beri hadiah hanya saat mereka diam."
+      }
+    ],
+    "tags": [
+      "Yorkshire Terrier",
+      "Bulu indah",
+      "Patella lutut",
+      "Anjing kecil"
+    ]
+  },
+  "norwegian-forest-care": {
+    "title": "Aktivitas Memanjat dan Perawatan Bulu Triple Coat Kucing Hutan Norwegia",
+    "description": "Penuhi insting memanjat kucing Hutan Norwegia and kelola bulu triple coat mereka yang lebat.",
+    "authority": "Panduan TICA & Ilmu Perilaku Kucing Internasional",
+    "profile": {
+      "breed": "Kucing Hutan Norwegia (Norwegian Forest Cat)",
+      "lifespan": "12 ~ 16 tahun",
+      "sleep_pattern": "14 ~ 16 jam (Pemanjat tinggi)",
+      "temperament": "Cerdas, lembut, berani, pencinta alam"
+    },
+    "intro": "Kucing Hutan Norwegia berevolusi dengan bulu triple coat tahan air untuk bertahan di musim dingin yang ekstrem. Mereka berukuran besar and gemar memanjat tempat tinggi. Bulu mereka yang tebal memerlukan perawatan khusus untuk mencegah hairball. Hari ini PetSelf membagikan tips memanjat and menyisir bulu kucing Hutan Norwegia.",
+    "whyTitle": "Bahasa Tubuh Kucing Hutan Norwegia: Kepercayaan",
+    "whyDesc": "Mendekat dengan ekor tegak lurus melengkung menunjukkan rasa percaya penuh. Sebaliknya, telinga rata (airplane ears) menandakan ketakutan.",
+    "body_signals": [
+      {
+        "name": "Ekor tegak dengan ujung melengkung seperti tanda tanya",
+        "meaning": "Merasa senang, rileks, and ingin berinteraksi dengan pemilik.",
+        "response": "Sambut dengan suara ramah and elus dagu serta pipinya perlahan."
+      },
+      {
+        "name": "Pupil mata membesar dengan telinga rata ke samping",
+        "meaning": "Waspada atau takut karena suara bising di sekitarnya.",
+        "response": "Hindari kontak mata langsung and biarkan kucing bersembunyi di tempat tinggi."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Pagi: Permainan pancing bulu interaktif di area vertikal",
+        "text": "Ajak kucing berburu mainan dengan memanjat naik-turun cat tower."
+      },
+      {
+        "name": "Siang: Menyikat bulu lebat menggunakan slicker brush",
+        "text": "Sisir area rawan kusut seperti dada and ketiak untuk mengangkat bulu mati."
+      },
+      {
+        "name": "Malam: Memasang alas empuk di area pendaratan cat tower",
+        "text": "Letakkan alas empuk di lantai bawah cat tower and potong kuku kucing untuk mencegah cedera."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Apakah kerontokan bulu Hutan Norwegia sangat parah?",
+        "answer": "Ya, bulu triple coat mereka rontok sangat banyak pada musim semi/gugur. Sisir bulu mereka setiap hari."
+      },
+      {
+        "question": "Apakah benar mereka menyukai air?",
+        "answer": "Bulu terluar mereka kedap air sehingga mereka tidak terlalu takut air, tetapi jangan memaksa mereka mandi."
+      }
+    ],
+    "tags": [
+      "Norwegian Forest Cat",
+      "Bulu lebat",
+      "Cat tower",
+      "Kucing"
+    ]
+  },
+  "sphynx-care": {
+    "title": "Perawatan Minyak Kulit and Manajemen Suhu Kucing Sphynx yang Tidak Berbulu",
+    "description": "Cara membersihkan sebum minyak pada kulit Sphynx and menjaga kehangatan tubuh mereka.",
+    "authority": "Panduan Perawatan Kulit & Perilaku Kucing ISFM",
+    "profile": {
+      "breed": "Kucing Sphynx (Sphynx Cat)",
+      "lifespan": "12 ~ 15 tahun",
+      "sleep_pattern": "14 ~ 16 jam (Mencari kehangatan)",
+      "temperament": "Sangat manja, aktif, ramah, cerdas"
+    },
+    "intro": "Kucing Sphynx tidak memiliki bulu tradicional karena mutasi genetik. Minyak alami menumpuk di kulit mereka and membutuhkan pembersihan rutin. Kulit polos mereka juga rawan kedinginan and terbakar matahari. Hari ini PetSelf membagikan tips mandi kulit and pemanasan tubuh Sphynx.",
+    "whyTitle": "Bahasa Tubuh Sphynx: Mencari Kehangatan",
+    "whyDesc": "Menempel pada kulit pemilik or meringkuk di bawah selimut menandakan mereka kedinginan.",
+    "body_signals": [
+      {
+        "name": "Mencari sumber panas (dekat alat elektronik hangat)",
+        "meaning": "Suhu tubuh turun and sedang mencari kehangatan.",
+        "response": "Pakaikan baju katun hangat and sediakan tempat tidur dengan pet heating pad."
+      },
+      {
+        "name": "Mata setengah tertutup sambil mendengkur (purring)",
+        "meaning": "Merasa hangat, nyaman, and percaya sepenuhnya kepada pemilik.",
+        "response": "Elus perlahan tubuh hangatnya and temani mereka bersantai."
+      }
+    ],
+    "daily_routine": [
+      {
+        "name": "Pagi: Menyeka lipatan kulit dengan handuk basah hangat",
+        "text": "Lap minyak cokelat yang menumpuk di sela-sela lipatan kulit dengan lembut."
+      },
+      {
+        "name": "Siang: Menghindari sengatan matahari langsung di dalam rumah",
+        "text": "Tutup tirai tipis untuk menghalau radiasi UV yang bisa membakar kulit sensitif mereka."
+      },
+      {
+        "name": "Malam: Mengganti baju katun bersih and menghangatkan kasur",
+        "text": "Ganti baju mereka dengan yang bersih agar minyak tidak menumpuk and buat kasur tetap hangat."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Apakah kucing Sphynx benar-benar tidak memicu alergi?",
+        "answer": "Tidak. Alergen kucing utama ada di saliva and kelenjar minyak kulit, bukan pada bulu."
+      },
+      {
+        "question": "Seberapa sering Sphynx harus dimandikan?",
+        "answer": "Usually setiap 1-2 weeks sekali dengan sampo lembut ber-pH netral khusus kucing."
+      }
+    ],
+    "tags": [
+      "Sphynx",
+      "Kulit sensitif",
+      "Suhu hangat",
+      "Mandi kucing"
+    ]
   }
 }

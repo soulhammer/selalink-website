@@ -21,7 +21,7 @@ faqs:
     answer: "Penting untuk menyesuaikan intensitas olahraga. Tujuannya bukan kelelahan, tetapi sesi singkat 15-20 menit untuk meningkatkan denyut jantung & suhu tubuh sementara, merangsang sirkulasi darah. Anda harus menyesuaikan dengan tingkat kebugaran Anda."
 ---
 
-Leo Tolstoy, widely regarded as a pillar of Russian realist literature with masterpieces like 'War and Peace' and 'Anna Karenina.' Although he was a wealthy nobleman, he rejected privilege and sought a humble life of physical labor. The source of his tireless creative energy was the physical labor and gymnastics he performed every morning. Waking up, before sitting at his desk, Tolstoy plowed fields, chopped wood, or carried water. He also set up gymnastics equipment in his yard for pull-ups and strength training. He viewed physical labor as a necessary engine to awaken the brain. Today, BuildSelf explores the neuroscientific truth behind Tolstoy's exercise habit and how modern professionals can design morning routines to maximize brain efficiency.
+Leo Tolstoy, yang secara luas dianggap sebagai pilar sastra realis Rusia dengan karya-karya agung seperti 'Perang dan Damai' dan 'Anna Karenina'. Meskipun dia adalah seorang bangsawan kaya, dia menolak hak istimewa dan mencari kehidupan kerja fisik yang sederhana. Sumber energi kreatifnya yang tak kenal lelah adalah kerja fisik dan senam yang dia lakukan setiap pagi. Saat bangun tidur, sebelum duduk di mejanya, Tolstoy membajak sawah, membelah kayu, atau membawa air. Dia juga memasang peralatan senam di halamannya untuk latihan pull-up dan kekuatan. Dia memandang kerja fisik sebagai mesin penting untuk membangunkan otak. Hari ini, BuildSelf mengeksplorasi kebenaran neurosains di balik kebiasaan olahraga Tolstoy dan bagaimana para profesional modern dapat merancang rutinitas pagi untuk memaksimalkan efisiensi otak.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,9 +39,9 @@ Leo Tolstoy, widely regarded as a pillar of Russian realist literature with mast
 
 ## 1. Efek Kognitif dari Faktor Neurotrofik Turunan Otak (BDNF) dan Peningkatan Denyut Jantung
 
-According to neuroscience studies, morning exercises that raise the heart rate using large muscles expand cerebral blood vessels and improve blood supply across the cerebral cortex. This increases oxygen supply, immediately boosting cognitive processing speed and memory.
+Menurut studi neurosains, olahraga pagi yang meningkatkan detak jantung menggunakan otot-otot besar dapat memperlebar pembuluh darah otak dan meningkatkan suplai darah ke seluruh korteks serebral. Hal ini meningkatkan suplai oksigen, yang segera meningkatkan kecepatan pemrosesan kognitif dan memori.
 
-Particularly, strength training and gymnastics maximize the secretion of Brain-Derived Neurotrophic Factor (BDNF), which promotes neuron survival and strengthens synaptic connections. The dopamine, norepinephrine, and serotonin released adjust the brain into an optimal state for deep focus. Tolstoy's labor routine was the ultimate brain warm-up.
+Secara khusus, latihan kekuatan dan senam memaksimalkan sekresi Brain-Derived Neurotrophic Factor (BDNF), yang mendorong kelangsungan hidup neuron dan memperkuat koneksi sinaptik. Dopamin, norepinefrin, dan serotonin yang dilepaskan menyesuaikan otak ke dalam kondisi optimal untuk fokus yang mendalam. Rutinitas kerja fisik Tolstoy adalah pemanasan otak yang paling utama.
 
 ---
 

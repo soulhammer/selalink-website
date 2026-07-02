@@ -157,4 +157,63 @@ test.describe('블로그 메인 UI 동적 기능 통합 검증 (검색, 필터, 
     }).toPass();
   });
 
+  test('9개 모든 언어별 블로그 페이지에서 해당 언어의 검색어 작동 검증', async ({ page }) => {
+    const searchSpecs = [
+      { lang: 'ko', query: '사과' },
+      { lang: 'en', query: 'Apple' },
+      { lang: 'ja', query: 'リンゴ' },
+      { lang: 'zh', query: '苹果' },
+      { lang: 'es', query: 'Manzana' },
+      { lang: 'fr', query: 'Pomme' },
+      { lang: 'de', query: 'Apfel' },
+      { lang: 'pt', query: 'Maçã' },
+      { lang: 'id', query: 'Apel' }
+    ];
+
+    for (const spec of searchSpecs) {
+      // 1. 해당 언어의 블로그 리스트 페이지로 이동
+      await page.goto(`/${spec.lang}/blog`);
+      await page.waitForLoadState('networkidle');
+
+      // 2. 검색창에 검색어 입력
+      const searchInput = page.locator('input#blog-search-input');
+      await searchInput.fill(spec.query);
+
+      // 3. 필터링된 결과 카드들이 검색어를 포함하고 있는지 검증
+      const visibleCards = page.locator('#blog-posts-container > a:visible');
+      
+      await expect(async () => {
+        const count = await visibleCards.count();
+        // 최소한 사과 보관법 1개 이상은 검색되어야 함
+        expect(count).toBeGreaterThanOrEqual(1);
+
+        for (let i = 0; i < count; i++) {
+          const title = (await visibleCards.nth(i).getAttribute('data-title') || '').toLowerCase();
+          const desc = (await visibleCards.nth(i).getAttribute('data-desc') || '').toLowerCase();
+          const ingName = (await visibleCards.nth(i).getAttribute('data-ing-name') || '').toLowerCase();
+          const tags = (await visibleCards.nth(i).getAttribute('data-tags') || '').toLowerCase();
+
+          const lowerQuery = spec.query.toLowerCase();
+          
+          // 포르투갈어의 경우 'ã' 등 다이아크리틱 매칭을 고려해 normalized 매칭도 추가
+          const normalizedTitle = title.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+          const normalizedQuery = lowerQuery.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+
+          const matches = 
+            title.includes(lowerQuery) || 
+            desc.includes(lowerQuery) || 
+            ingName.includes(lowerQuery) || 
+            tags.includes(lowerQuery) ||
+            normalizedTitle.includes(normalizedQuery);
+
+          expect(matches, `오류 [${spec.lang}]: 검색어 '${spec.query}'와 매칭되지 않는 카드 '${title}'가 노출되었습니다.`).toBe(true);
+        }
+
+        const searchCountText = await page.locator('#blog-search-count').textContent();
+        expect(searchCountText).toContain(`${count}`);
+      }).toPass();
+    }
+  });
+
 });
+

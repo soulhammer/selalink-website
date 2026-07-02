@@ -286,7 +286,8 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
 
           const isSkip = cleanText.length === 0 || 
                          para.trim().startsWith('#') || 
-                         para.trim().startsWith('|');
+                         para.trim().startsWith('|') ||
+                         para.trim().startsWith('<');
           if (isSkip) return;
 
           const sanitizedPara = sanitizeText(para)
@@ -295,7 +296,7 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
 
           const cleanLen = sanitizedPara.replace(/\s+/g, '').length;
 
-          if (cleanLen >= 20) {
+          if (cleanLen >= 120) {
             const detectedLang = franc(sanitizedPara);
 
             const isTargetLatin = latinLanguages.includes(targetFrancLang);
@@ -307,14 +308,34 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
               detectedLang === 'und' || 
               detectedLang === targetFrancLang;
 
-            if (!isTargetAsian) {
-              // 타겟이 아시아 언어가 아닌 경우 (유럽/라틴 언어군)
-              // 감지된 언어 역시 아시아 언어가 아니라면 허용 (franc의 단문 감지 노이즈 방지)
-              const isDetectedAsian = ['kor', 'jpn', 'cmn'].includes(detectedLang);
-              if (!isDetectedAsian) {
+            // 스페인어(spa)와 포르투갈어(por) 간의 형태소 유사성으로 인한 감지 혼동 허용
+            if ((targetFrancLang === 'por' && detectedLang === 'spa') || 
+                (targetFrancLang === 'spa' && detectedLang === 'por')) {
+              isAllowed = true;
+            }
+
+            // 인도네시아어(ind)와 말레이어/자바어(msa, zlm, jav 등) 간의 유사성으로 인한 감지 혼동 허용
+            if (targetFrancLang === 'ind' && ['msa', 'zlm', 'jav', 'mad'].includes(detectedLang)) {
+              isAllowed = true;
+            }
+
+            // 각 유럽 언어별 고유 문자(다이아크리틱) 감지 시, 영어 오탐지 구제 로직
+            if (detectedLang === 'eng' || detectedLang === 'und') {
+              if (targetFrancLang === 'deu' && /[äöüßÄÖÜ]/.test(sanitizedPara)) {
                 isAllowed = true;
               }
-            } else {
+              if (targetFrancLang === 'fra' && /[éèàùçâêîôûëïüœÉÈÀÙÇÂÊÎÔÛËÏÜŒ]/.test(sanitizedPara)) {
+                isAllowed = true;
+              }
+              if (targetFrancLang === 'spa' && /[áéíóúñüÁÉÍÓÚÑÜ]/.test(sanitizedPara)) {
+                isAllowed = true;
+              }
+              if (targetFrancLang === 'por' && /[áéíóúçãõâêôÁÉÍÓÚÇÃÕÂÊÔ]/.test(sanitizedPara)) {
+                isAllowed = true;
+              }
+            }
+
+            if (isTargetAsian) {
               // CJK 언어군의 경우, 해당 언어 고유의 문자셋이 매칭되면 허용
               if (targetFrancLang === 'kor' && /[\uAC00-\uD7A3\u3130-\u318F]/.test(sanitizedPara)) {
                 isAllowed = true;

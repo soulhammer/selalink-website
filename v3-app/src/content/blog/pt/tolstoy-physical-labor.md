@@ -21,7 +21,7 @@ faqs:
     answer: "É fundamental ajustar a intensidade. O objetivo não é a exaustão, mas uma sessão breve de 15-20 minutos para elevar o ritmo cardíaco e la temperatura corporal, ativando a circulação. Ajuste-o à sua condição física."
 ---
 
-Leo Tolstoy, widely regarded as a pillar of Russian realist literature with masterpieces like 'War and Peace' and 'Anna Karenina.' Although he was a wealthy nobleman, he rejected privilege and sought a humble life of physical labor. The source of his tireless creative energy was the physical labor and gymnastics he performed every morning. Waking up, before sitting at his desk, Tolstoy plowed fields, chopped wood, or carried water. He also set up gymnastics equipment in his yard for pull-ups and strength training. He viewed physical labor as a necessary engine to awaken the brain. Today, BuildSelf explores the neuroscientific truth behind Tolstoy's exercise habit and how modern professionals can design morning routines to maximize brain efficiency.
+Leão Tolstoi, amplamente considerado um pilar da literatura realista russa com obras-primas como 'Guerra e Paz' e 'Anna Karenina'. Embora fosse um nobre rico, rejeitou os privilégios e procurou uma vida humilde de trabalho físico. A fonte da sua incansável energia criativa era o trabalho físico e a ginástica que realizava todas as manhãs. Ao acordar, antes de se sentar à secretária, Tolstoi arava os campos, cortava lenha ou carregava água. Também instalou aparelhos de ginástica no seu quintal para elevações e treino de força. Ele via o trabalho físico como um motor necessário para despertar o cérebro. Hoje, a BuildSelf explora a verdade neurocientífica por trás do hábito de exercício de Tolstoi e como os profissionais modernos podem desenhar rotinas matinais para maximizar a eficiência cerebral.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,9 +39,9 @@ Leo Tolstoy, widely regarded as a pillar of Russian realist literature with mast
 
 ## 1. Efeitos cognitivos do fator neurotrófico derivado do cérebro (BDNF) e aumento do ritmo cardíaco
 
-According to neuroscience studies, morning exercises that raise the heart rate using large muscles expand cerebral blood vessels and improve blood supply across the cerebral cortex. This increases oxygen supply, immediately boosting cognitive processing speed and memory.
+De acordo com estudos de neurociência, os exercícios matinais que elevam o ritmo cardíaco utilizando grandes músculos expandem os vasos sanguíneos cerebrais e melhoram o fornecimento de sangue em todo o córtex cerebral. Isto aumenta o fornecimento de oxigénio, impulsionando imediatamente a velocidade de processamento cognitivo e a memória.
 
-Particularly, strength training and gymnastics maximize the secretion of Brain-Derived Neurotrophic Factor (BDNF), which promotes neuron survival and strengthens synaptic connections. The dopamine, norepinephrine, and serotonin released adjust the brain into an optimal state for deep focus. Tolstoy's labor routine was the ultimate brain warm-up.
+Particularmente, o treino de força e a ginástica maximizam a secreção do Fator Neurotrófico Derivado do Cérebro (BDNF), que promove a sobrevivência dos neurónios e fortalece as conexões sinápticas. A dopamina, a norepinefrina e a serotonina libertadas ajustam o cérebro para um estado ideal de foco profundo. A rotina de trabalho de Tolstoi era o aquecimento cerebral definitivo.
 
 ---
 
