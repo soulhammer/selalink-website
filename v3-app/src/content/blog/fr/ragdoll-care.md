@@ -7,6 +7,7 @@ updatedDate: "2026-06-18"
 heroImage: "/images/blog/ragdoll_care.png"
 authority: "Guide des races de la Cat Fanciers' Association (CFA) et directives pour une pratique respectueuse des chats de l'AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Ragdoll","Portage Sécurisé","Soin Articulaire","Soins Félins"]
 faqs:
   - question: "Le fait que le Ragdoll devienne mou lorsqu'on le porte signifie-t-il qu'il a des os fragiles ?"

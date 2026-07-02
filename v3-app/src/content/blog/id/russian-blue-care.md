@@ -7,6 +7,7 @@ updatedDate: "2026-03-26"
 heroImage: "/images/blog/russian_blue_care.png"
 authority: "Panduan Ras Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
 app: "petself"
+formatVersion: 4
 tags: ["Russian Blue","Temperamen Pemalu","Tempat Sembunyi Aman","Perawatan Kucing"]
 faqs:
   - question: "Haruskah saya memaksa Russian Blue saya keluar dari tempat sembunyi saat tamu datang?"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Oignon vert","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Envelopper non lavé dans du journal et stocker debout — Stockage à Temp. Ambiante (5Jours) 🌿"

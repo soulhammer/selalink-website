@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Cebollín","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Envuelva sin lavar en periódico y guarde verticalmente — Conservación a Temp. Ambiente (5Días) 🌿"

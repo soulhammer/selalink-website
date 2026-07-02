@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["トマト","科学的に検証された保存ガイド","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & CDC</strong>"
 steps:
   - name: "完熟前は必ず常温の日陰で保存する — 常温保存 (7日間) 🌿"

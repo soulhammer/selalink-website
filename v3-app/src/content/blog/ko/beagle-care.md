@@ -7,6 +7,7 @@ updatedDate: "2026-03-01"
 heroImage: "/images/blog/beagle_care.png"
 authority: "American Kennel Club (AKC) 비글 가이드 및 IAABC 노즈워크 행동 프로토콜"
 app: "petself"
+formatVersion: 4
 tags: ["비글","분리불안","하울링","외이염 예방"]
 faqs:
   - question: "비글의 하울링을 방지하려면 어떻게 해야 하나요?"

@@ -7,6 +7,7 @@ updatedDate: "2026-01-05"
 heroImage: "/images/blog/pomeranian_care.png"
 authority: "美国博美犬俱乐部官方犬种指南与 AVMA 兽医学手册"
 app: "petself"
+formatVersion: 4
 tags: ["博美犬","髌骨护理","气管塌陷","双层毛梳理"]
 faqs:
   - question: "博美犬突然像鹅一样发出“咳咳”的 honking 咳嗽声，我该怎么办？"

@@ -7,6 +7,7 @@ updatedDate: "2026-05-10"
 heroImage: "/images/blog/bichon_care.png"
 authority: "Richtlinien des Bichon Frise Club of America und AVMA-Gesundheitsleitlinien"
 app: "petself"
+formatVersion: 4
 tags: ["Bichon Frise","Bichon Blitz","Fellverfilzung","Hautentzündung"]
 faqs:
   - question: "Wie kann ich einen Bichon während des Bichon Blitz beruhigen?"

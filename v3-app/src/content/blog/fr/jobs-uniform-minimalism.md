@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Le génie q","Routine"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biographie de Steve Jobs par Walter Isaacson & revue JPSP"
 steps:
   - name: "Préparer ses Affaires la Veille au Soir"

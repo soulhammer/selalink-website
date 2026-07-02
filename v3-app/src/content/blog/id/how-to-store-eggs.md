@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Telur","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Jangan mencuci telur sebelum disimpan — Penyimpanan Dingin (45Hari) 💧"

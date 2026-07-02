@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Menciptaka","Routine"]
 heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Wawancara Maya Angelou di The Paris Review (1990) & Studi Psikologi Kognitif tentang Pengendalian Gangguan"
 steps:
   - name: "Tentukan satu ruang semata-mata untuk kerja mendalam"

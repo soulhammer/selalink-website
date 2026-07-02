@@ -158,6 +158,13 @@ function run() {
               originalFrontmatter += `\npubDate: "${koPubDate}"\n`;
             }
 
+            // formatVersion 동적 반영
+            if (originalFrontmatter.includes('formatVersion:')) {
+              originalFrontmatter = originalFrontmatter.replace(/formatVersion:\s*\d+/, 'formatVersion: 4');
+            } else {
+              originalFrontmatter += `\nformatVersion: 4\n`;
+            }
+
             let finalContent = `---${originalFrontmatter}---${originalBody}`;
             finalContent = cleanMarkdown(finalContent);
             fs.writeFileSync(targetPath, finalContent, 'utf-8');
@@ -302,6 +309,7 @@ category: "StoreSelf"
 tags: ${tags}
 heroImage: "/images/blog/${heroImageName}"
 app: "storeself"
+formatVersion: 4
 authority: "${authorityHtml.replace(/"/g, '\\"')}"
 steps:
 ${stepsYaml}

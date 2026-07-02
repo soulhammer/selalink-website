@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Minyak perila","Panduan Penyimpanan yang Terbukti Secara Ilmiah","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
   - name: "Selalu simpan di kulkas pada suhu 0–4°C — Penyimpanan Dingin (30Hari)"

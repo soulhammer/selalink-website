@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Leche","Guía de almacenamiento científicamente probada","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "No guarde en la puerta del refrigerador — Almacenamiento Refrigerado (7Días)"

@@ -7,6 +7,7 @@ updatedDate: "2026-04-14"
 heroImage: "/images/blog/corgi_care.png"
 authority: "Panduan Resmi Pembroke Welsh Corgi Club of America & Pedoman Kesehatan AKC"
 app: "petself"
+formatVersion: 4
 tags: ["Welsh Corgi","Perawatan Patela","Kesehatan Tulang Belakang","Bulu Ganda"]
 faqs:
   - question: "Mengapa Corgi tidak boleh melompat dari tempat tidur atau sofa?"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["大葱","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
   - name: "不洗用报纸包裹竖立存放 — 常温储存 (5天) 🌿"

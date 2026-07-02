@@ -38,13 +38,25 @@ function run() {
     }
 
     const koContent = fs.readFileSync(koPath, 'utf-8');
-    const pubDateMatch = koContent.match(/pubDate:\s*"([^"]+)"/);
+    
+    // KO 파일에 formatVersion: 4 주입/업데이트
+    let koContentUpdated = koContent;
+    if (koContentUpdated.includes('formatVersion:')) {
+      koContentUpdated = koContentUpdated.replace(/formatVersion:\s*\d+/, 'formatVersion: 4');
+    } else {
+      koContentUpdated = koContentUpdated.replace('---\n', '---\nformatVersion: 4\n');
+    }
+    if (koContentUpdated !== koContent) {
+      fs.writeFileSync(koPath, koContentUpdated, 'utf-8');
+    }
+
+    const pubDateMatch = koContentUpdated.match(/pubDate:\s*"([^"]+)"/);
     const pubDate = pubDateMatch ? pubDateMatch[1] : '2026-06-30';
-    const updatedDateMatch = koContent.match(/updatedDate:\s*"([^"]+)"/);
+    const updatedDateMatch = koContentUpdated.match(/updatedDate:\s*"([^"]+)"/);
     const updatedDate = updatedDateMatch ? updatedDateMatch[1] : null;
 
     // koContent로부터 한글 STEP 명칭 및 본문 파싱 수집
-    const koSteps = parseKoSteps(koContent);
+    const koSteps = parseKoSteps(koContentUpdated);
 
     languages.forEach(lang => {
       if (lang === 'ko') return;
@@ -128,6 +140,7 @@ ${updatedDate ? `updatedDate: "${updatedDate}"\n` : ''}category: "BuildSelf"
 tags: ${tags}
 heroImage: "/images/blog/${blogSlug.replace(/-/g, '_')}.png"
 app: "buildself"
+formatVersion: 4
 authority: "${authority.replace(/"/g, '\\"')}"
 steps:
 ${stepsYaml}

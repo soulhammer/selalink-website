@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["O segredo ","Routine"]
 heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografia 'Madame Curie' de Ève Curie e estudos sobre exercícios da Harvard Health Publishing"
 steps:
   - name: "Definir uma rota ao ar livre de 1 a 2 vezes por semana"

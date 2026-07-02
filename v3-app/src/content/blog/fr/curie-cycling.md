@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Le secret ","Routine"]
 heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biographie 'Madame Curie' d'Ève Curie et recherches sur l'exercice de Harvard Health Publishing"
 steps:
   - name: "Planifier une sortie en plein air 1 à 2 fois par semaine"

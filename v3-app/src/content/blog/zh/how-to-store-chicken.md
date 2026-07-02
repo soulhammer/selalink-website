@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["鸡肉","科学验证的储存指南","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & CDC</strong>"
 steps:
   - name: "切勿用水冲洗生鸡肉 — 防止水槽交叉污染 ❌💧"

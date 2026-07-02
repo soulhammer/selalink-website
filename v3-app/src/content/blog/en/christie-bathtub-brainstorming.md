@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","christie","Routine","Stamina"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"
 app: "buildself"
+formatVersion: 4
 authority: "Agatha Christie's autobiography 'Agatha Christie: An Autobiography' & Journal of Thermal Biology"
 steps:
   - name: "Set up a warm bath or foot soak"

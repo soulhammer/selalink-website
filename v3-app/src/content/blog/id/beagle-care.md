@@ -7,6 +7,7 @@ updatedDate: "2026-03-01"
 heroImage: "/images/blog/beagle_care.png"
 authority: "Manual Ras Resmi AKC untuk Beagle & Protokol Nosework IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Beagle","Kecemasan Perpisahan","Melolong","Kesehatan Telinga"]
 faqs:
   - question: "Bagaimana cara mencegah Beagle melolong?"

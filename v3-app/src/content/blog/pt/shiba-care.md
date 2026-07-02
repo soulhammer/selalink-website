@@ -7,6 +7,7 @@ updatedDate: "2026-01-29"
 heroImage: "/images/blog/shiba_care.png"
 authority: "Club Nacional do Shiba Inu da América e diretrizes de modificação de comportamento da IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Shiba Inu","Pelagem Dupla","Socialização","Cuidado de Cães"]
 faqs:
   - question: "Por que o meu Shiba Inu grita durante a escovação?"

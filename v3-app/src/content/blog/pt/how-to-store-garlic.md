@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Alho","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Espalhe açúcar e papel-toalha no fundo do pote — Armazenamento Refrigerado (14Dias) 🪙"

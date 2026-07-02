@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Kentang","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
   - name: "Bungkus kentang kering secara terpisah dengan koran/kantong kertas — Penyimpanan Suhu Ruang (45Hari) 📦"

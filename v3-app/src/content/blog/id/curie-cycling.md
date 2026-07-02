@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Rahasia Me","Routine"]
 heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografi 'Madame Curie' oleh Ève Curie & Penelitian Olahraga Harvard Health Publishing"
 steps:
   - name: "Jadwalkan Rute Bersepeda Luar Ruangan 1-2 Kali Seminggu"

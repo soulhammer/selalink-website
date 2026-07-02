@@ -7,6 +7,7 @@ updatedDate: "2026-05-30"
 heroImage: "/images/blog/golden_retriever_care.png"
 authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols"
 app: "petself"
+formatVersion: 4
 tags: ["Golden Retriever","Hip Dysplasia","Retrieving","Large Dog Care"]
 faqs:
   - question: "Why does my Golden Retriever always carry sticks or shoes during walks?"

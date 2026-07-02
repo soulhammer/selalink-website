@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografía de Albert Einstein 'Einstein: A Life' y revista Frontiers in Psychology"
 steps:
   - name: "Parada Forzada del Pensamiento y Bloqueo de Pantallas"

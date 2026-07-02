@@ -7,6 +7,7 @@ updatedDate: "2026-06-05"
 heroImage: "/images/blog/persian_care.png"
 authority: "CFA-Perserzuchtrichtlinien und AAFP-Veterinärstandards"
 app: "petself"
+formatVersion: 4
 tags: ["Perserkatze","Langhaarpflege","Kurzköpfig","Tränenflecken"]
 faqs:
   - question: "Warum ist das Auslassen der Fellpflege selbst für wenige Tage schädlich?"

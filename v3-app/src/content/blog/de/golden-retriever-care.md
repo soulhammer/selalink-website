@@ -7,6 +7,7 @@ updatedDate: "2026-05-30"
 heroImage: "/images/blog/golden_retriever_care.png"
 authority: "Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle"
 app: "petself"
+formatVersion: 4
 tags: ["Golden Retriever","Hüftdysplasie","Apportieren","Pflege großer Hunde"]
 faqs:
   - question: "Warum trägt mein Golden Retriever beim Spaziergang Stöcke oder Schuhe?"

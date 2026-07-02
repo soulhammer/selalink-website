@@ -7,6 +7,7 @@ updatedDate: "2026-03-09"
 heroImage: "/images/blog/bshorthair_care.png"
 authority: "Normes de la GCCF pour le British Shorthair et directives sur l'obésité de l'AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["British Shorthair","Prévention de CMH","Contrôle du Poids","Obésité"]
 faqs:
   - question: "Pourquoi l'obésité est-elle plus nocive pour le British Shorthair ?"

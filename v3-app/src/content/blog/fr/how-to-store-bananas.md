@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Banane","Guide de conservation scientifiquement prouvé","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
   - name: "Suspendre les bananes sur un support — Stockage à Temp. Ambiante (7 Jours) 🍌"

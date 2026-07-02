@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["哥尼斯堡的时钟？伊曼","Routine"]
 heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "曼弗雷德·库恩《康德传》及《学习与记忆神经生物学》期刊（JN）"
 steps:
   - name: "设定下午 3 点 30 分的舒缓闹钟"

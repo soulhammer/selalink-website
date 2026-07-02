@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Great Habits","hemingway","Routine","Stamina"]
 heroImage: "/images/blog/hemingway_word_count.png"
 app: "buildself"
+formatVersion: 4
 authority: "Ernest Hemingway's interview in The Paris Review (1958) & Journal of Applied Behavior Analysis"
 steps:
   - name: "Measure your daily core output quantitatively"

@@ -7,6 +7,7 @@ updatedDate: "2026-03-01"
 heroImage: "/images/blog/beagle_care.png"
 authority: "AKCビーグルガイド＆IAABCノーズワーク行動プロトコル"
 app: "petself"
+formatVersion: 4
 tags: ["ビーグル","分離不安","遠吠え","耳の健康"]
 faqs:
   - question: "ビーグルの遠吠えを防ぐにはどうすればいいですか？"

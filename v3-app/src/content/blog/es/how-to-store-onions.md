@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Cebolla","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
   - name: "Cuelgue en un área fresca y ventilada con cáscara — Conservación a Temp. Ambiente (30Días)"

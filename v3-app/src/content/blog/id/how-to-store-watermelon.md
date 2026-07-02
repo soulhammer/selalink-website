@@ -14,6 +14,8 @@ steps:
     text: "Kupas bersih kulitnya agar debu di luar tidak menyentuh daging buah. Potong daging buah menjadi dadu lalu taruh di wadah kedap udara yang bersih dan tutup rapat."
   - name: "Simpan di bagian dalam laci sayur pada suhu stabil 0–4°C ❄️"
     text: "Taruh wadah kedap udara berisi semangka di laci sayur bagian dalam. Menyimpannya di area dengan fluktuasi suhu minimal menjaga kerenyahan dan rasa manisnya."
+
+formatVersion: 4
 ---
 
 Tahukah Anda bahwa menutup sisa semangka dengan plastik wrap dapat melipatgandakan bakteri di permukaan hingga 3.000 kali? Hari ini, StoreSelf membagikan panduan penyimpanan semangka.

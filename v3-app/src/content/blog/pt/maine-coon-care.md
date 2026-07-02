@@ -7,6 +7,7 @@ updatedDate: "2026-04-20"
 heroImage: "/images/blog/maine_coon_care.png"
 authority: "Guia da Maine Coon Breeders & Fanciers Association (MCBFA) e protocolos de manejo de gatos grandes da AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Maine Coon","Gato Gigante","Prevenção de HCM","Pelagem Dupla"]
 faqs:
   - question: "Como devo gerenciar o alto risco de HCM no Maine Coon?"

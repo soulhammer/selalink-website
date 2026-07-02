@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","woolf","Routine","Stamina"]
 heroImage: "/images/blog/woolf_standing_desk.png"
 app: "buildself"
+formatVersion: 4
 authority: "A Writer's Diary & Applied Ergonomics Study on Standing Desks"
 steps:
   - name: "Start the first 30 minutes of morning work standing"

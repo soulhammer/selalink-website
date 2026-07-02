@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["L'horloge ","Routine"]
 heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biographie 'Kant' de Manfred Kuehn & Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Programmer une alerte à 15h30"

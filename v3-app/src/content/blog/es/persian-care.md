@@ -7,6 +7,7 @@ updatedDate: "2026-06-05"
 heroImage: "/images/blog/persian_care.png"
 authority: "Directrices de cría de CFA para Persas y normas veterinarias de AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Gato Persa","Aseo de Pelo Largo","Braquicéfalo","Lágrimas"]
 faqs:
   - question: "¿Por qué saltarse el cepillado aunque sea unos días daña al Persa?"

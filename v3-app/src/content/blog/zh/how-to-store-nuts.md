@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["坚果","科学验证的储存指南","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"
 steps:
   - name: "开封后务必密封冷藏/冷冻 — 冷藏 90天 & 冷冻 180天"

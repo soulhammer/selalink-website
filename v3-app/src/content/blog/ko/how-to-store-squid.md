@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["오징어","과학적으로 검증된 보관 가이드","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "내장 및 빨판 이물질 완전 제거하기 — 비린내 차단 🦑"

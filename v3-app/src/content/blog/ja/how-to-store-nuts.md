@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["ナッツ","科学的に検証された保存ガイド","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
 steps:
   - name: "開封後は必ず密閉して冷蔵・冷凍保存 — 冷蔵 90日間 & 冷凍 180日間"

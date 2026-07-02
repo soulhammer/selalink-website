@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Milk","Scientifically Proven Storage Guide","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Do not store on the refrigerator door — Refrigerated Storage (7Days)"

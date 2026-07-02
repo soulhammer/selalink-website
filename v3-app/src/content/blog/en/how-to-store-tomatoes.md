@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tomato","Scientifically Proven Storage Guide","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
   - name: "Store in a shaded area at room temp before fully ripe — Room Temp Storage (7Days) 🌿"

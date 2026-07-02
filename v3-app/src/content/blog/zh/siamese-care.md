@@ -7,6 +7,7 @@ updatedDate: "2026-02-19"
 heroImage: "/images/blog/siamese_care.png"
 authority: "爱猫者协会 (CFA) 官方指南与 AAFP 猫咪行为协议"
 app: "petself"
+formatVersion: 4
 tags: ["暹罗猫","分离焦虑","爱叫的猫","猫咪游戏"]
 faqs:
   - question: "为什么我的暹罗猫在夜间会不断鸣叫？是生病了吗？"

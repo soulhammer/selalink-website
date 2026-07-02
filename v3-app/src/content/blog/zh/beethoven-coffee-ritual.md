@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["每天清晨数出60颗咖","Routine"]
 heroImage: "/images/blog/beethoven_coffee_ritual.png"
 app: "buildself"
+formatVersion: 4
 authority: "安东·辛德勒著《我所知道的贝多芬》及认知与情感学术期刊(Cognition and Emotion)"
 steps:
   - name: "设定专属于你的精细晨间仪式项目"

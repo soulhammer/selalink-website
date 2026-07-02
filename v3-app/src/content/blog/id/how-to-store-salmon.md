@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Salmon","Panduan Penyimpanan yang Terbukti Secara Ilmiah","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
   - name: "Lap bersih minyak dan air di permukaan — Penyimpanan Dingin (2Hari) 🍣"

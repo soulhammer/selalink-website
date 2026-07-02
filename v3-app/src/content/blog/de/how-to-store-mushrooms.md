@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Pilz","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
   - name: "Pilze vor dem Lagern niemals waschen — Wasseraufnahme vermeiden ❌💧"

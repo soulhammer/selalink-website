@@ -7,6 +7,7 @@ updatedDate: "2026-05-30"
 heroImage: "/images/blog/golden_retriever_care.png"
 authority: "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル"
 app: "petself"
+formatVersion: 4
 tags: ["ゴールデンレトリバー","股関節形成不全","レトリービング","大型犬のケア"]
 faqs:
   - question: "レトリバーが散歩の時、枝や靴をよく咥えて歩くのはなぜですか？"

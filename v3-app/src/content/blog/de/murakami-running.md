@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Der Schrif","Routine"]
 heroImage: "/images/blog/murakami_running.png"
 app: "buildself"
+formatVersion: 4
 authority: "Haruki Murakamis 'Wovon ich rede, wenn ich vom Laufen rede' & Studie in Frontiers in Psychology"
 steps:
   - name: "Direkt nach dem Aufstehen die Laufsachen anziehen"

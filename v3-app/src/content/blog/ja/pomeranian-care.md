@@ -7,6 +7,7 @@ updatedDate: "2026-01-05"
 heroImage: "/images/blog/pomeranian_care.png"
 authority: "アメリカンポメラニアンクラブ公式犬種ガイド＆AVMA獣医学マニュアル"
 app: "petself"
+formatVersion: 4
 tags: ["ポメラニアン","膝蓋骨ケア","気管虚脱","二重毛のブラッシング"]
 faqs:
   - question: "ポメラニアンが突然興奮して「カッカッ」とガチョウのような鳴き声でむせる時はどうしますか？"

@@ -7,6 +7,7 @@ updatedDate: "2026-06-18"
 heroImage: "/images/blog/ragdoll_care.png"
 authority: "キャットファンシャーズアソシエーション(CFA)公式ラグドールガイド＆AAFP猫フレンドリーガイドライン"
 app: "petself"
+formatVersion: 4
 tags: ["ラグドール","抱き方","関節ケア","猫のホームケア"]
 faqs:
   - question: "ラグドールが抱っこされた時に力を抜くのは、骨や関節が弱いからですか？"

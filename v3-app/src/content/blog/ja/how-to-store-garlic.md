@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["にんにく","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
   - name: "密閉容器の底に砂糖とキッチンペーパーを敷く — 冷蔵保存 (14日間) 🪙"

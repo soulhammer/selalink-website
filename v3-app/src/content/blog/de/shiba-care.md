@@ -7,6 +7,7 @@ updatedDate: "2026-01-29"
 heroImage: "/images/blog/shiba_care.png"
 authority: "Nationaler Shiba Inu Club von Amerika & IAABC-Verhaltensmodifikationsrichtlinien"
 app: "petself"
+formatVersion: 4
 tags: ["Shiba Inu","Doppeltes Fell","Desensibilisierung","Hundepflege"]
 faqs:
   - question: "Warum schreit mein Shiba Inu beim Pflegen?"

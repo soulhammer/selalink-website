@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["每天记录写作字数？欧","Routine"]
 heroImage: "/images/blog/hemingway_word_count.png"
 app: "buildself"
+formatVersion: 4
 authority: "欧内斯特·海明威在《巴黎评论》的访谈(1958) 及应用行为分析期刊(Journal of Applied Behavior Analysis)"
 steps:
   - name: "定量测量每日的核心产出"

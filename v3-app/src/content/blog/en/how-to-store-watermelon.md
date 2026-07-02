@@ -14,6 +14,8 @@ steps:
     text: "Carefully slice off the rind to prevent surface dust and bacteria from touching the red pulp. Chop the fruit into bite-sized cubes and store them in a clean, sanitized airtight container with the lid tightly closed."
   - name: "Store deep inside the crisper drawer at a stable 0–4°C ❄️"
     text: "Place the airtight container deep inside the crisper drawer or on the inner shelf of the refrigerator. Storing it in an area with minimal temperature fluctuation keeps the watermelon crisp and preserves its sweetness."
+
+formatVersion: 4
 ---
 
 Did you know that covering leftover watermelon with plastic wrap can multiply food poisoning bacteria on the surface by over 3,000 times? Today, StoreSelf shares KCA-approved safe watermelon sealing and storage hacks.

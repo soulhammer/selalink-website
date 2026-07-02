@@ -7,6 +7,7 @@ updatedDate: "2026-01-05"
 heroImage: "/images/blog/pomeranian_care.png"
 authority: "American Pomeranian Club 공식 견종 가이드 및 AVMA 수의학 매뉴얼"
 app: "petself"
+formatVersion: 4
 tags: ["포메라니안","슬개골 예방","기관지 협착증","이중모 빗질"]
 faqs:
   - question: "포메라니안이 갑자기 흥분하며 '꺽꺽' 거리는 거위 소리를 내는데 어떡하죠?"

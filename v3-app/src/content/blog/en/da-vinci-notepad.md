@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","da","Routine","Stamina"]
 heroImage: "/images/blog/da_vinci_notepad.png"
 app: "buildself"
+formatVersion: 4
 authority: "Walter Isaacson's 'Leonardo da Vinci' & Journal of Educational Psychology"
 steps:
   - name: "Keep a notebook handy or place a memo widget on the home screen"

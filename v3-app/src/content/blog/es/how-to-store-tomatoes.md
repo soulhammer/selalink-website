@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tomate","Guía de almacenamiento científicamente probada","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
   - name: "Guarde a temp. ambiente en la sombra antes de madurar — Conservación a Temp. Ambiente (7Días) 🌿"

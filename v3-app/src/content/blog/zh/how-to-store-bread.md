@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["吐司/面包","科学验证的储存指南","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>美国农务部(USDA) & FSA</strong>"
 steps:
   - name: "切勿放入冷藏室 — 防止淀粉迅速老化变干 ❌🍞"

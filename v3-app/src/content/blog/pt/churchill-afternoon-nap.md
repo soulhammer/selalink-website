@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["O primeiro","Routine"]
 heroImage: "/images/blog/churchill_afternoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Obra de Winston Churchill 'The Second World War' e estudo da NASA sobre a sesta dos astronautas"
 steps:
   - name: "Definir um temporizador entre as 13h00 e as 14h00"

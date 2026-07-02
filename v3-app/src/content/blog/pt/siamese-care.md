@@ -7,6 +7,7 @@ updatedDate: "2026-02-19"
 heroImage: "/images/blog/siamese_care.png"
 authority: "Guia oficial da Cat Fanciers' Association (CFA) e protocolos de comportamento felino da AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Siamês","Ansiedade de Separação","Gatos Vocais","Joguete de Gatos"]
 faqs:
   - question: "Por que o meu siamês mia constantemente à noite?"

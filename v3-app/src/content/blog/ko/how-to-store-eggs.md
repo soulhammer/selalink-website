@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["계란","과학적으로 검증된 보관 가이드","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "절대 세척 금지 — 냉장 보관 (45일) 💧"

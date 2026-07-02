@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["苏子油","科学验证的储存指南","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>"
 steps:
   - name: "务必存放在0-4℃的冷藏室中 — 冷藏储存 (30天)"

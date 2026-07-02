@@ -7,6 +7,7 @@ updatedDate: "2026-02-12"
 heroImage: "/images/blog/scottish_fold_care.png"
 authority: "ISFM(国際猫医学会)遺伝性軟骨疾患ガイドライン＆GCCF犬種基準"
 app: "petself"
+formatVersion: 4
 tags: ["スコティッシュフォールド","骨軟骨異形成症","耳掃除","猫の関節"]
 faqs:
   - question: "スコティッシュフォールドの「ブッダポーズ」は痛みのサインなのですか？"

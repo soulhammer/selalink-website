@@ -125,10 +125,14 @@ function run() {
     const filePath = path.join(koDir, file);
     const content = fs.readFileSync(filePath, 'utf-8');
 
-    // 결함 조건 판별: (1) FAQ 아코디언 UI 누락 (보조 이미지는 규격 제외되었으므로 검사하지 않음)
+    // 결함 조건 판별: (1) formatVersion이 없거나 4보다 작음 또는 (2) FAQ 아코디언 UI 누락
+    const versionMatch = content.match(/formatVersion:\s*(\d+)/);
+    const version = versionMatch ? parseInt(versionMatch[1], 10) : 0;
+    const isOutdated = version < 4;
+
     const hasFaqAccordion = content.includes('자주 묻는 질문') || content.includes('FAQ') || content.includes('details class="group"');
 
-    if (!hasFaqAccordion) {
+    if (isOutdated || !hasFaqAccordion) {
       if (isStorage) {
         storageRetrofitTargets.push(slug);
       } else if (isPet) {
@@ -166,10 +170,10 @@ function run() {
   console.log('\n5️⃣ [껍데기 업그레이드] 결함 식별 블로그 다국어 마크다운 일괄 재생성...');
   try {
     console.log('   - 위인 습관 다국어 빌드 기동...');
-    execSync('node src/translate_habits.js', { cwd: path.join(__dirname, '..') });
+    execSync('node src/compile_habit_blogs.js', { cwd: path.join(__dirname, '..') });
     
     console.log('   - 식재료 보관법 다국어 빌드 기동...');
-    execSync('node src/compile_multilingual_blogs.js', { cwd: path.join(__dirname, '..') });
+    execSync('node src/compile_storage_blogs.js', { cwd: path.join(__dirname, '..') });
 
     console.log('   - 반려동물 케어 다국어 빌드 기동...');
     execSync('node src/compile_pet_blogs.js', { cwd: path.join(__dirname, '..') });

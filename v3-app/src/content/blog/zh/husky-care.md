@@ -7,6 +7,7 @@ updatedDate: "2026-03-30"
 heroImage: "/images/blog/husky_care.png"
 authority: "美国西伯利亚哈士奇俱乐部官方指南与 IAABC 工作犬活动协议"
 app: "petself"
+formatVersion: 4
 tags: ["西伯利亚哈士奇","双层毛梳理","防止嚎叫","大型犬散步"]
 faqs:
   - question: "哈士奇精力过剩总是啃咬撕毁室内家具，应该如何解决？"

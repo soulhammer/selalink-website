@@ -7,6 +7,7 @@ updatedDate: "2026-04-14"
 heroImage: "/images/blog/corgi_care.png"
 authority: "Pembroke Welsh Corgi Club of America公式ガイド＆AKC健康指針"
 app: "petself"
+formatVersion: 4
 tags: ["ウェルシュ・コーギー","膝蓋骨ケア","椎間板ヘルニア","二重毛"]
 faqs:
   - question: "コーギーはなぜベッドやソファから飛び降りてはいけないのですか？"

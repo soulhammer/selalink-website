@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["El composi","Routine"]
 heroImage: "/images/blog/beethoven_coffee_ritual.png"
 app: "buildself"
+formatVersion: 4
 authority: "Obra de Anton Schindler 'Beethoven as I Knew Him' y estudio de Cognition and Emotion"
 steps:
   - name: "Establecer tu propio artículo de ritual matutino preciso"

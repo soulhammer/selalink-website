@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Perilla Oil","Scientifically Proven Storage Guide","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
   - name: "Always store in the refrigerator at 0–4°C — Refrigerated Storage (30Days)"

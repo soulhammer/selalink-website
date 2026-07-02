@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Abacate","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "Guarde em um saco de papel em temperatura ambiente antes de maduro — Conservação em Temp. Ambiente (5Dias) 🥑"

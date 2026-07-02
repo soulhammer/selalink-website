@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Brot","Wissenschaftlich geprüfter Lagerungsratgeber","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "Niemals im Kühlschrank lagern — Austrocknen des Brotes verhindern ❌🍞"

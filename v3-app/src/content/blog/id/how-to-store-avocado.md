@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Alpukat","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "Simpan di kantong kertas pada suhu ruang sebelum matang — Penyimpanan Suhu Ruang (5Hari) 🥑"

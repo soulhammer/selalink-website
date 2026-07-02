@@ -7,6 +7,7 @@ updatedDate: "2026-03-01"
 heroImage: "/images/blog/beagle_care.png"
 authority: "Offizielles AKC-Beagle-Handbuch und IAABC-Schnüffelprotokolle"
 app: "petself"
+formatVersion: 4
 tags: ["Beagle","Trennungsangst","Jaulen","Ohrengesundheit"]
 faqs:
   - question: "Wie kann ich das Jaulen meines Beagles verhindern?"

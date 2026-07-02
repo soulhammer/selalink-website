@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Zwiebel","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
   - name: "Ungeschält an einem kühlen, gut belüfteten Ort aufhängen — Lagerung bei Raumtemperatur (30Tage)"

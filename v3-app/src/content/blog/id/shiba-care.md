@@ -7,6 +7,7 @@ updatedDate: "2026-01-29"
 heroImage: "/images/blog/shiba_care.png"
 authority: "Klub Nasional Shiba Inu Amerika & Pedoman Modifikasi Perilaku IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Shiba Inu","Bulu Ganda","Sosialisasi","Perawatan Anjing"]
 faqs:
   - question: "Mengapa Shiba Inu saya berteriak saat dirawat?"

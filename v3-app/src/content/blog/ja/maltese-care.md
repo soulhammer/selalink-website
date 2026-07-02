@@ -7,6 +7,7 @@ updatedDate: "2026-01-22"
 heroImage: "/images/blog/maltese_care.png"
 authority: "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル"
 app: "petself"
+formatVersion: 4
 tags: ["マルチーズ","膝蓋骨脱臼","涙やけ","犬のケア"]
 faqs:
   - question: "マルチーズはなぜ足を触られるのを嫌がるのですか？"

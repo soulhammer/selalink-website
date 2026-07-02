@@ -7,6 +7,7 @@ updatedDate: "2026-04-20"
 heroImage: "/images/blog/maine_coon_care.png"
 authority: "Leitfaden der Maine Coon Breeders & Fanciers Association (MCBFA) und AAFP-Protokolle für Großkatzen"
 app: "petself"
+formatVersion: 4
 tags: ["Maine Coon","Riesenkatze","HCM-Prävention","Doppeltes Fell"]
 faqs:
   - question: "Wie sollte ich das hohe HCM-Risiko der Maine Coon bewältigen?"

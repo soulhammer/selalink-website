@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Great Habits","tesla","Routine","Stamina"]
 heroImage: "/images/blog/tesla_toe_curling.png"
 app: "buildself"
+formatVersion: 4
 authority: "Nikola Tesla's Autobiography 'My Inventions' & Journal of Physical Therapy Science (JPTS)"
 steps:
   - name: "Digital Detox in Bed"

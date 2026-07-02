@@ -7,6 +7,7 @@ updatedDate: "2026-03-15"
 heroImage: "/images/blog/koshort_care.png"
 authority: "Guia de comportamento do Cornell Feline Health Center e manual de cuidados do NIAS"
 app: "petself"
+formatVersion: 4
 tags: ["Pelo Curto Coreano","FLUTD","Cuidado de Hidratación","Cuidado de Gatos"]
 faqs:
   - question: "Por que os gatos sempre sobem para espaços altos e estreitos?"

@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","darwin","Routine","Stamina"]
 heroImage: "/images/blog/darwin_sandwalk.png"
 app: "buildself"
+formatVersion: 4
 authority: "The Autobiography of Charles Darwin & Stanford University Study on Walking and Creativity"
 steps:
   - name: "Set your own 'Sandwalk' path"

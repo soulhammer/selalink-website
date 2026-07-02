@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
+formatVersion: 4
 authority: "René Descartes' Biografie 'La Vie de Monsieur Descartes' & Fachzeitschrift Psychophysiology"
 steps:
   - name: "Liegen bleiben und Smartphone nach dem Wecken blockieren"

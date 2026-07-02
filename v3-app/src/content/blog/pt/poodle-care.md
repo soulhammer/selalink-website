@@ -7,6 +7,7 @@ updatedDate: "2026-01-26"
 heroImage: "/images/blog/poodle_care.png"
 authority: "Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Poodle","Jogos Mentais","Cuidado de Orelhas","Cuidado de Cães"]
 faqs:
   - question: "É normal o meu poodle sacudir a cabeça vigorosamente após a limpeza das orelhas?"

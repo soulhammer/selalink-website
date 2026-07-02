@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Dormir com","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
+formatVersion: 4
 authority: "Obra de Giorgio Vasari 'Vidas dos Artistas' e teoria da psicologia cognitiva do esgotamento do ego"
 steps:
   - name: "Automatize e padronize as decisões pequenas"

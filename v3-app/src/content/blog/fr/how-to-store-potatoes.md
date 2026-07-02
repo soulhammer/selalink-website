@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Pomme de terre","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
   - name: "Envelopper les pommes de terre sèches de journal/sac papier — Stockage à Temp. Ambiante (45Jours) 📦"

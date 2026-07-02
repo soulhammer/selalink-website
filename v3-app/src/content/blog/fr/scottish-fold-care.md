@@ -7,6 +7,7 @@ updatedDate: "2026-02-12"
 heroImage: "/images/blog/scottish_fold_care.png"
 authority: "Protocole sur le cartilage héréditaire de l'ISFM (International Society of Feline Medicine) et directives de la GCCF"
 app: "petself"
+formatVersion: 4
 tags: ["Scottish Fold","Ostéochondrodysplasie","Nettoyage des Oreilles","Articulaciones"]
 faqs:
   - question: "La position assise du Scottish Fold est-elle un signe de douleur ?"

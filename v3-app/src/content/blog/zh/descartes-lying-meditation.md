@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["躺到中午都不起床的天","Routine"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
+formatVersion: 4
 authority: "传记《La Vie de Monsieur Descartes》与学术期刊《Psychophysiology》"
 steps:
   - name: "关闭闹钟后保持姿势并屏蔽手机"

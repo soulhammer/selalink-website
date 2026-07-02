@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Nüsse","Wissenschaftlich geprüfter Lagerungsratgeber","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Nach dem Öffnen versiegeln und kühlen/einfrieren — Kühllagerung 90 Tage & Gefrierlagerung 180 Tage"

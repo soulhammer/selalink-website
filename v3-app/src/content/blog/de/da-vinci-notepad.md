@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Der Genieß","Routine"]
 heroImage: "/images/blog/da_vinci_notepad.png"
 app: "buildself"
+formatVersion: 4
 authority: "Walter Isaacsons 'Leonardo da Vinci' & Studie im Journal of Educational Psychology"
 steps:
   - name: "Ein Notizbuch griffbereit halten oder ein Memo-Widget auf dem Startbildschirm platzieren"

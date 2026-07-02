@@ -7,6 +7,7 @@ updatedDate: "2026-06-05"
 heroImage: "/images/blog/persian_care.png"
 authority: "CFA 波斯猫品种指南与 AAFP 兽医学标准"
 app: "petself"
+formatVersion: 4
 tags: ["波斯猫","长毛梳理","扁脸猫","泪痕"]
 faqs:
   - question: "为什么波斯猫即使只停几天不梳毛也不行？"

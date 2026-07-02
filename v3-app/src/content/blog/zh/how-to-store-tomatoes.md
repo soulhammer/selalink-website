@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["西红柿","科学验证的储存指南","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & CDC</strong>"
 steps:
   - name: "熟透前务必存放在常温避光处 — 常温储存 (7天) 🌿"

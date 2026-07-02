@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Chicken","Scientifically Proven Storage Guide","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "Do not wash raw poultry with water — Prevent cross-contamination ❌💧"

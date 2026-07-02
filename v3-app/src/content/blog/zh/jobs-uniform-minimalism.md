@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["每天穿同样衣服的天才","Routine"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
+formatVersion: 4
 authority: "传记《Steve Jobs》与学术期刊《JPSP》决策疲劳研究"
 steps:
   - name: "前一天晚上提前准备好衣物和随身物品"

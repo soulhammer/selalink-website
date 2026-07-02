@@ -7,6 +7,7 @@ updatedDate: "2026-01-29"
 heroImage: "/images/blog/shiba_care.png"
 authority: "Club Nacional del Shiba Inu de América y directrices de modificación de conducta de IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Shiba Inu","Manto Doble","Socialización","Cuidado de Perros"]
 faqs:
   - question: "¿Por qué mi Shiba Inu grita durante el acicalamiento?"

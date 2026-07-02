@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["アボカド","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
 steps:
   - name: "完熟前は紙袋に入れて常温保存 — 常温保存 (5日間) 🥑"

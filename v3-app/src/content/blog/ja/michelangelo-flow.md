@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["服を着たまま数週間眠","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
+formatVersion: 4
 authority: "ジョルジョ・ヴァザーリ著『芸術家列伝』＆ 認知心理学の自己消耗(Ego Depletion)理論"
 steps:
   - name: "些細な意思決定の自動化と定型化"

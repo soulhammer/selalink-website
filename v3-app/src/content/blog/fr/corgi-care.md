@@ -7,6 +7,7 @@ updatedDate: "2026-04-14"
 heroImage: "/images/blog/corgi_care.png"
 authority: "Guide officiel du Pembroke Welsh Corgi Club of America et directives de santé de l'AKC"
 app: "petself"
+formatVersion: 4
 tags: ["Welsh Corgi","Soin de Rotule","Santé du Dos","Double Pelage"]
 faqs:
   - question: "Pourquoi les Corgis ne doivent-ils pas sauter des lits ou canapés ?"

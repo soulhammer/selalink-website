@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["じゃがいも","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 農村振興庁(RDA) & FSA</strong>"
 steps:
   - name: "洗わずに新聞紙や紙袋で個別に包む — 常温保存 (45日間) 📦"

@@ -7,6 +7,7 @@ updatedDate: "2026-05-30"
 heroImage: "/images/blog/golden_retriever_care.png"
 authority: "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜"
 app: "petself"
+formatVersion: 4
 tags: ["골든리트리버","고관절 이형성증","리트리빙","대형견 케어"]
 faqs:
   - question: "리트리버가 산책할 때 나뭇가지나 신발을 자꾸 물고 다니는데 왜 그런가요?"

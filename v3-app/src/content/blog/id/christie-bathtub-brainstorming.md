@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Makan Apel","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"
 app: "buildself"
+formatVersion: 4
 authority: "Autobiografi Agatha Christie 'Agatha Christie: An Autobiography' & Jurnal Thermal Biology"
 steps:
   - name: "Atur bak mandi hangat atau rendam kaki"

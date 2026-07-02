@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["イカ","科学的に検証された保存ガイド","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
   - name: "内臓と吸盤の汚れを完全に除去する — 臭み防止 🦑"

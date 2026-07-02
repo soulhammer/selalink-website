@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tofu","Scientifically Proven Storage Guide","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "Discard pack water and rinse under running water — Refrigerated Storage (7Days) 🚿"

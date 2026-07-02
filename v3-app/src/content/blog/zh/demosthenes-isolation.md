@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["剃掉半边头发的演说家","Routine"]
 heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "普鲁塔克《希腊罗马名人传》之《德摩斯梯尼传》及美国心理学会（APA）环境控制研究"
 steps:
   - name: "物理隔离智能手机"

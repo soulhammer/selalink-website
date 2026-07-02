@@ -7,6 +7,7 @@ updatedDate: "2026-05-30"
 heroImage: "/images/blog/golden_retriever_care.png"
 authority: "Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Golden Retriever","Displasia de Quadril","Busca","Cuidado de Cães Grandes"]
 faqs:
   - question: "Por que o meu Golden Retriever sempre carrega gravetos ou sapatos durante os passeios?"

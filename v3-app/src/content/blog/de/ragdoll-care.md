@@ -7,6 +7,7 @@ updatedDate: "2026-06-18"
 heroImage: "/images/blog/ragdoll_care.png"
 authority: "Rasseführer der Cat Fanciers' Association (CFA) und AAFP-Richtlinien für katzenfreundliche Praxen"
 app: "petself"
+formatVersion: 4
 tags: ["Ragdoll","Sicheres Halten","Gelenkpflege","Katzenpflege"]
 faqs:
   - question: "Bedeutet das Erschlaffen der Ragdoll beim Halten, dass sie schwache Knochen hat?"

@@ -7,6 +7,7 @@ updatedDate: "2026-02-19"
 heroImage: "/images/blog/siamese_care.png"
 authority: "Guía oficial de la Cat Fanciers' Association (CFA) y protocolos de conducta felina de la AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Siamés","Ansiedad por Separación","Gatos Vocales","Juego de Gatos"]
 faqs:
   - question: "¿Por qué mi siamés maúlla constantemente por la noche?"

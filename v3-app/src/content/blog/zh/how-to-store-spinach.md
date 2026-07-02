@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["菠菜","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & EFSA & FSA</strong>"
 steps:
   - name: "不洗用报纸/厨房纸包裹 — 调控水分 📦"

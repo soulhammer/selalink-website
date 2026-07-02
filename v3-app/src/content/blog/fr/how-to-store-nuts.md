@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Fruits secs","Guide de conservation scientifiquement prouvé","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Sceller et réfrigérer/congeler après ouverture — Réfrigéré 90 jours & Congelé 180 jours"

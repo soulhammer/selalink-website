@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["豆腐","科学的に検証された保存ガイド","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
   - name: "パックの水は必ず捨て、流水できれいに洗う — 冷蔵保存 (7日間) 🚿"

@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Edisons Tagebücher (1948) & Forschungen des Pariser Hirninstituts (Paris Brain Institute)"
 steps:
   - name: "Ein schweres Objekt und eine metallische Unterlage vorbereiten"

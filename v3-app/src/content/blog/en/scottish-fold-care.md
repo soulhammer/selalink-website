@@ -7,6 +7,7 @@ updatedDate: "2026-02-12"
 heroImage: "/images/blog/scottish_fold_care.png"
 authority: "Official ISFM (International Society of Feline Medicine) Hereditary Cartilage Protocol & GCCF Breed Guidelines"
 app: "petself"
+formatVersion: 4
 tags: ["Scottish Fold","Osteochondrodysplasia","Ear Cleaning","Cat Joints"]
 faqs:
   - question: "Is the Scottish Fold's person-like 'Buddha position' a sign of pain?"

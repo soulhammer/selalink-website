@@ -20,6 +20,8 @@ steps:
     text: "Suhu yang tinggi mempercepat respirasi apel, meningkatkan pelepasan gas etilen dan memicu pembusukan. 💡 Tips Penyimpanan: Suhu terbaik untuk apel adalah 0–4°C. Taruh apel yang sudah dibungkus di laci sayur kulkas. Hindari suhu di bawah nol agar apel tidak membeku dan berubah rasa."
   - name: "Pisahkan sepenuhnya dari bahan makanan lain — Perlindungan ganda 🛡️"
     text: "Meskipun dibungkus, gas etilen yang kuat dari apel dapat menyebar melalui udara kulkas dan memengaruhi bahan segar lainnya. 💡 Tips Penyimpanan: Masukkan apel yang telah dibungkus ke dalam kantong ziploc atau wadah kedap udara. Pisahkan rak penyimpanannya dari buah dan sayur yang sensitif terhadap etilen seperti selada, bayam, pisang, dan pir."
+
+formatVersion: 4
 ---
 
 Pernahkah Anda membeli sekantong apel segar yang manis dan renyah, tetapi mendapatinya keriput dan lembek hanya dalam beberapa minggu kemudian? 🍎

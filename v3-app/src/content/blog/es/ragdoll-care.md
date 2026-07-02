@@ -7,6 +7,7 @@ updatedDate: "2026-06-18"
 heroImage: "/images/blog/ragdoll_care.png"
 authority: "Guía de razas de la Cat Fanciers' Association (CFA) y directrices de práctica amigable con los gatos de AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Ragdoll","Sujeción Segura","Cuidado Articular","Cuidado de Gatos"]
 faqs:
   - question: "¿El hecho de que el Ragdoll se relaje significa que tiene huesos débiles?"

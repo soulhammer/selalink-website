@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["ラジウム研究のストレ","Routine"]
 heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
+formatVersion: 4
 authority: "エーヴ・キュリー著『キュリー夫人』およびハーバード・ヘルス・パブリッシング（Harvard Health）の運動研究"
 steps:
   - name: "週1〜2回、屋外ライディングコースを設定する"

@@ -7,6 +7,7 @@ updatedDate: "2026-01-22"
 heroImage: "/images/blog/maltese_care.png"
 authority: "American Kennel Club (AKC) 공식 견종 가이드 및 IAABC 행동학 프로토콜"
 app: "petself"
+formatVersion: 4
 tags: ["말티즈","슬개골 탈구","눈물자국","반려견 케어"]
 faqs:
   - question: "말티즈는 발을 만지면 왜 싫어하나요?"

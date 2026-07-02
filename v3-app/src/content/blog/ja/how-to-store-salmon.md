@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["鮭","科学的に検証された保存ガイド","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA)</strong>"
 steps:
   - name: "表面の脂分と水気を拭き取る — 冷蔵保存 (2日間) 🍣"

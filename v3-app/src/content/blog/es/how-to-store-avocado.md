@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Aguacate","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Conservación a Temp. Ambiente (5Días) 🥑"

@@ -7,6 +7,7 @@ updatedDate: "2026-03-09"
 heroImage: "/images/blog/bshorthair_care.png"
 authority: "Standar Breed GCCF untuk British Shorthair & Pedoman Obesitas Feline AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["British Shorthair","Pencegahan HCM","Kontrol Berat Badan","Obesitas"]
 faqs:
   - question: "Mengapa obesitas lebih berbahaya bagi British Shorthair daripada kucing lain?"

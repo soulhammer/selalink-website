@@ -7,6 +7,7 @@ updatedDate: "2026-02-12"
 heroImage: "/images/blog/scottish_fold_care.png"
 authority: "Protocolo de cartílago hereditario de la ISFM (International Society of Feline Medicine) y directrices de GCCF"
 app: "petself"
+formatVersion: 4
 tags: ["Scottish Fold","Osteocondrodiplasia","Limpieza de Oídos","Articulaciones"]
 faqs:
   - question: "¿La 'posición de Buda' de un Scottish Fold es señal de dolor?"

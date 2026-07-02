@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Le génie q","Routine"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biographie de René Descartes 'La Vie de Monsieur Descartes' & revue Psychophysiology"
 steps:
   - name: "Garder la Posture et Bloquer le Smartphone Après l'Alarme"

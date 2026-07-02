@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Der Redner","Routine"]
 heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Plutarchs 'Biografien: Demosthenes' & Forschungen zur Reizkontrolle der APA"
 steps:
   - name: "Das Smartphone physisch isolieren"

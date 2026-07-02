@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["¿Dormir co","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
+formatVersion: 4
 authority: "Obra de Giorgio Vasari 'Las vidas de los más excelentes pintores, escultores y arquitectos' y teoría psicológica del agotamiento del ego"
 steps:
   - name: "Automatiza y estandariza las decisiones pequeñas"

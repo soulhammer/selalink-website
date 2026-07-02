@@ -7,6 +7,7 @@ updatedDate: "2026-01-22"
 heroImage: "/images/blog/maltese_care.png"
 authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols"
 app: "petself"
+formatVersion: 4
 tags: ["Maltese","Patellar Luxation","Tear Staining","Dog Care"]
 faqs:
   - question: "Why do Maltese hate having their paws touched?"

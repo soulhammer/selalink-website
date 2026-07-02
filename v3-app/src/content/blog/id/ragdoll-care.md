@@ -7,6 +7,7 @@ updatedDate: "2026-06-18"
 heroImage: "/images/blog/ragdoll_care.png"
 authority: "Panduan Ras Resmi Cat Fanciers' Association (CFA) & Pedoman Praktik Ramah Kucing AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Ragdoll","Gendong Aman","Perawatan Sendi","Perawatan Kucing"]
 faqs:
   - question: "Apakah tubuh Ragdoll yang terkulai saat digendong berarti tulang mereka lemah?"

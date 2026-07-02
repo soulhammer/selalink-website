@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Pisang","Panduan Penyimpanan yang Terbukti Secara Ilmiah","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
   - name: "Gantung Pisang di Gantungan — Penyimpanan Suhu Ruang (7 Hari) 🍌"

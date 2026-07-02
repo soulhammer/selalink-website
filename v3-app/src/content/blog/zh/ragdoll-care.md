@@ -7,6 +7,7 @@ updatedDate: "2026-06-18"
 heroImage: "/images/blog/ragdoll_care.png"
 authority: "猫发烧友协会 (CFA) 官方布偶猫指南与 AAFP 猫咪友好诊疗指南"
 app: "petself"
+formatVersion: 4
 tags: ["布偶猫","抱姿训练","关节护理","猫咪家庭护理"]
 faqs:
   - question: "布偶猫被抱时身体瘫软是因为骨骼或关节虚弱吗？"

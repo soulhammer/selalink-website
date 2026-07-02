@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["牛乳","科学的に検証された保存ガイド","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
 steps:
   - name: "冷蔵庫のドアポケット保存を避ける — 冷蔵保存 (7日間) ア"

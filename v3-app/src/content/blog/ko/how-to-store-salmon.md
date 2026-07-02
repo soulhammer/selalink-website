@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["연어","과학적으로 검증된 보관 가이드","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
   - name: "표면의 기름기와 수분 제거하기 — 냉장 보관 (2일) 🍣"

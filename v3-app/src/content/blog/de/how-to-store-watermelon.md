@@ -14,6 +14,8 @@ steps:
     text: "Schneiden Sie die Schale vorsichtig ab, damit Schmutz nicht das Fruchtfleisch berührt. Schneiden Sie die Melone in Würfel und lagern diese in einem sauberen, dichten Behälter."
   - name: "Tief im Gemüsefach bei konstanten 0–4 °C lagern ❄️"
     text: "Stellen Sie den Behälter tief in das Gemüsefach. Die Lagerung an einem Ort mit minimalen Temperaturschwankungen hält die Melone knackig und süß."
+
+formatVersion: 4
 ---
 
 Wussten Sie, dass das Abdecken von übrig gebliebener Wassermelone mit Frischhaltefolie die Bakterien um das 3.000-fache vermehren kann? Heute teilt StoreSelf Tipps.

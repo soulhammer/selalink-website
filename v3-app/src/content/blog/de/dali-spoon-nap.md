@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Mittagssch","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Salvador Dalís Autobiografie „Das geheime Leben des Salvador Dalí“ & Journal of Frontiers in Human Neuroscience"
 steps:
   - name: "Nehmen Sie eine halb zurückgelehnte Haltung ein"

@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["一日を二つに分割して","Routine"]
 heroImage: "/images/blog/churchill_afternoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "ウィンストン・チャーチル 著『第二次世界大戦回顧録』＆ NASA 宇宙飛行士パワーナップ注意回復研究"
 steps:
   - name: "午後1時から2時の間にタイマーを設定する"

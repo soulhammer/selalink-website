@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["들기름","과학적으로 검증된 보관 가이드","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
   - name: "무조건 냉장실 0~4℃ 보관하기 — 냉장 보관 (30일)"

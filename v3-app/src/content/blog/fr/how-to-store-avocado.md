@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Avocat","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "Stocker dans un sac en papier à température ambiante avant maturité — Stockage à Temp. Ambiante (5Jours) 🥑"

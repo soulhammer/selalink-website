@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["대파","과학적으로 검증된 보관 가이드","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "씻지 않고 신문지에 싸서 세워 보관하기 — 실온 보관 (5일) 🌿"

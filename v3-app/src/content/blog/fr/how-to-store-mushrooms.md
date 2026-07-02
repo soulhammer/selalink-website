@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Champignon","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
   - name: "Ne jamais laver les champignons avant stockage — Éviter l'absorption d'eau ❌💧"

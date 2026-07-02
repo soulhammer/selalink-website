@@ -7,6 +7,7 @@ updatedDate: "2026-02-12"
 heroImage: "/images/blog/scottish_fold_care.png"
 authority: "ISFM (국제고양이의학협회) 유전성 연골질환 관리 지침 및 GCCF 묘종 가이드라인"
 app: "petself"
+formatVersion: 4
 tags: ["스코티시폴드","골연골이형성증","귀 청소","반려묘 관절"]
 faqs:
   - question: "스코티시 폴드가 똑바로 누워 사람처럼 앉아있는 부처 자세가 귀여운데 통증의 신호인가요?"

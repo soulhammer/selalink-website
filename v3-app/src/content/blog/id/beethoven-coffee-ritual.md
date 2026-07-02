@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Komposer y","Routine"]
 heroImage: "/images/blog/beethoven_coffee_ritual.png"
 app: "buildself"
+formatVersion: 4
 authority: "Buku Anton Schindler 'Beethoven as I Knew Him' & Penelitian Cognition and Emotion"
 steps:
   - name: "Tentukan item ritual pagi Anda yang tepat"

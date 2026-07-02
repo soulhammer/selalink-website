@@ -7,6 +7,7 @@ updatedDate: "2026-04-14"
 heroImage: "/images/blog/corgi_care.png"
 authority: "Guía oficial del Pembroke Welsh Corgi Club of America y pautas de salud de AKC"
 app: "petself"
+formatVersion: 4
 tags: ["Welsh Corgi","Cuidado Patelar","Salud Espinal","Manto Doble"]
 faqs:
   - question: "¿Por qué los Corgis no deben saltar de camas o sofás?"

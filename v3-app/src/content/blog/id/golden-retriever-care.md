@@ -7,6 +7,7 @@ updatedDate: "2026-05-30"
 heroImage: "/images/blog/golden_retriever_care.png"
 authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Golden Retriever","Displasia Pinggul","Mengambil Barang","Perawatan Anjing Besar"]
 faqs:
   - question: "Mengapa Golden Retriever saya selalu membawa kayu atau sepatu saat jalan-jalan?"

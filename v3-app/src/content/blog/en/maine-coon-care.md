@@ -7,6 +7,7 @@ updatedDate: "2026-04-20"
 heroImage: "/images/blog/maine_coon_care.png"
 authority: "Official Maine Coon Breeders & Fanciers Association (MCBFA) Guide & AAFP Large Breed Management Protocols"
 app: "petself"
+formatVersion: 4
 tags: ["Maine Coon","Giant Cat","HCM Prevention","Double Coat"]
 faqs:
   - question: "How should I manage the Maine Coon's high risk of HCM?"

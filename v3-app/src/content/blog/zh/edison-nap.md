@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["手握钢球午睡的天才？","Routine"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "爱迪生日记与杂记（1948）及法国巴黎脑研究所（Paris Brain Institute）研究"
 steps:
   - name: "准备沉重物体和跌落表面"

@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["O orador q","Routine"]
 heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Vidas Paralelas 'Vida de Demóstenes' de Plutarco e pesquisas sobre controle de estímulos da APA"
 steps:
   - name: "Isolar fisicamente o smartphone"

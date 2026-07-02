@@ -7,6 +7,7 @@ updatedDate: "2026-05-30"
 heroImage: "/images/blog/golden_retriever_care.png"
 authority: "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议"
 app: "petself"
+formatVersion: 4
 tags: ["金毛寻回犬","髋关节发育不良","寻回衔回","大型犬护理"]
 faqs:
   - question: "为什么金毛在散步时总是喜欢叼着树枝或鞋子？"

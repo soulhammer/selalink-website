@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Cebolinha","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Embrulhe sem lavar em jornal e guarde de pé — Conservação em Temp. Ambiente (5Dias) 🌿"

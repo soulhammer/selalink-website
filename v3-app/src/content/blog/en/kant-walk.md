@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Great Habits","kant","Routine","Stamina"]
 heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Manfred Kuehn's 'Kant: A Biography' & Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Set a Refresh Alarm at 3:30 PM"

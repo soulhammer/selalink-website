@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","murakami","Routine","Stamina"]
 heroImage: "/images/blog/murakami_running.png"
 app: "buildself"
+formatVersion: 4
 authority: "Haruki Murakami's 'What I Talk About When I Talk About Running' & Frontiers in Psychology"
 steps:
   - name: "Put on running gear immediately upon waking"

@@ -7,6 +7,7 @@ updatedDate: "2026-03-15"
 heroImage: "/images/blog/koshort_care.png"
 authority: "康奈尔猫科健康中心行为指南与韩国国立畜产科学院伴侣动物看护手册"
 app: "petself"
+formatVersion: 4
 tags: ["科修特猫","下泌尿道疾病","饮水护理","猫咪护理"]
 faqs:
   - question: "猫为什么总喜欢往狭窄且高的地方爬？"

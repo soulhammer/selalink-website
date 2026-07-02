@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Spinach","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
   - name: "Wrap unwashed spinach in newspaper/paper towels — Moisture control 📦"

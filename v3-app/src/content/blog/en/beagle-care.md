@@ -7,6 +7,7 @@ updatedDate: "2026-03-01"
 heroImage: "/images/blog/beagle_care.png"
 authority: "Official AKC Breed Manual for Beagles & IAABC Nosework Protocols"
 app: "petself"
+formatVersion: 4
 tags: ["Beagle","Separation Anxiety","Howling","Ear Health"]
 faqs:
   - question: "How can I prevent Beagle howling?"

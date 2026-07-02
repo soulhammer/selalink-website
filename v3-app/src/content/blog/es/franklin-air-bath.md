@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["30 minutos","Routine"]
 heroImage: "/images/blog/franklin_air_bath.png"
 app: "buildself"
+formatVersion: 4
 authority: "La autobiografía de Benjamin Franklin y New England Journal of Medicine (NEJM)"
 steps:
   - name: "Ventilar por la mañana y recibir el aire frío durante 5 minutos"

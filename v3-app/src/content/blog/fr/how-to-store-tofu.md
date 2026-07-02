@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tofu","Guide de conservation scientifiquement prouvé","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "Jeter l'eau de l'emballage et rincer sous l'eau courante — Stockage Réfrigéré (7Jours) 🚿"

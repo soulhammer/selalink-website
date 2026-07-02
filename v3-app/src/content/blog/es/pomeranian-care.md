@@ -7,6 +7,7 @@ updatedDate: "2026-01-05"
 heroImage: "/images/blog/pomeranian_care.png"
 authority: "Guía oficial de razas del American Pomeranian Club y manual veterinario de la AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Pomerania","Cuidado de Rótula","Colapso Traqueal","Cepillado de Manto"]
 faqs:
   - question: "¿Qué debo hacer si mi Pomerania hace un graznido de ganso al respirar?"

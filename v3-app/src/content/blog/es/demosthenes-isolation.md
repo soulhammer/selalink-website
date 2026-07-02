@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["¿El orador","Routine"]
 heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Vidas paralelas 'Vida de Demóstenes' de Plutarco e investigación sobre control ambiental de la APA"
 steps:
   - name: "Aislar físicamente el teléfono móvil"

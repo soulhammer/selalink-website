@@ -7,6 +7,7 @@ updatedDate: "2026-02-19"
 heroImage: "/images/blog/siamese_care.png"
 authority: "Offizieller Leitfaden der Cat Fanciers' Association (CFA) & AAFP-Katzenverhaltensprotokolle"
 app: "petself"
+formatVersion: 4
 tags: ["Siamese","Trennungsangst","Vokale Katzen","Katzenspielzeit"]
 faqs:
   - question: "Warum miaut meine Siamkatze nachts ununterbrochen?"

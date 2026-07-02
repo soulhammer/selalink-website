@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Bawang putih","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Taburkan gula dan tisu dapur di dasar wadah — Penyimpanan Dingin (14Hari) 🪙"

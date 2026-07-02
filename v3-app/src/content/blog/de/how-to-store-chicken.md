@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Hähnchen","Wissenschaftlich geprüfter Lagerungsratgeber","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "Geflügel niemals mit Wasser waschen — Kreuzkontamination vermeiden ❌💧"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Avocado","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "Vor der Reife in einer Papiertüte bei Raumtemperatur lagern — Lagerung bei Raumtemperatur (5Tage) 🥑"

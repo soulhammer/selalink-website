@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["思考が行き詰まった時","Routine"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
+formatVersion: 4
 authority: "アインシュタイン評伝「Einstein: A Life」および学術誌「Frontiers in Psychology」"
 steps:
   - name: "思考の強制停止と画面の遮断"

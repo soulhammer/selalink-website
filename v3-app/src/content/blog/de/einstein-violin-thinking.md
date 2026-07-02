@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
+formatVersion: 4
 authority: "Albert Einsteins Biografie 'Einstein: A Life' & Fachzeitschrift Frontiers in Psychology"
 steps:
   - name: "Erzwungener Denkstopp und Bildschirmsperre"

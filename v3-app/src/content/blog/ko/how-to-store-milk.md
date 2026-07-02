@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["우유","과학적으로 검증된 보관 가이드","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "냉장고 문 포켓 보관 금지 — 냉장 보관 (7일)"

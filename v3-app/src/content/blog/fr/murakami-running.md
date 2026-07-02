@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["L'écrivain","Routine"]
 heroImage: "/images/blog/murakami_running.png"
 app: "buildself"
+formatVersion: 4
 authority: "L'ouvrage de Haruki Murakami 'Autoportrait de l'auteur en coureur de fond' et l'étude de Frontiers in Psychology"
 steps:
   - name: "Enfiler sa tenue de course dès le réveil"

@@ -7,6 +7,7 @@ updatedDate: "2026-02-19"
 heroImage: "/images/blog/siamese_care.png"
 authority: "Cat Fanciers' Association (CFA) 공식 가이드 및 AAFP 고양이 행동 프로토콜"
 app: "petself"
+formatVersion: 4
 tags: ["샴 고양이","분리불안","대화형 울음","반려묘 놀이"]
 faqs:
   - question: "샴 고양이가 밤에 쉴 새 없이 우는데 어디 아픈 건가요?"

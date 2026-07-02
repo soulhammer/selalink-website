@@ -7,6 +7,7 @@ updatedDate: "2026-03-30"
 heroImage: "/images/blog/husky_care.png"
 authority: "Guide de la Siberian Husky Club of America et protocoles d'activité pour chiens de travail de l'IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Husky Sibérien","Brossage Double Pelage","Prévenir Hurlements","Promenade Grand Chien"]
 faqs:
   - question: "Comment empêcher mon Husky de détruire la maison par ennui ?"

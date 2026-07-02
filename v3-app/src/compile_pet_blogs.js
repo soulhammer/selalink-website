@@ -107,6 +107,7 @@ updatedDate: "${updatedDateStr}"
 heroImage: "/images/blog/${heroImageSlug}.png"
 authority: "${auth.replace(/"/g, '\\"')}"
 app: "petself"
+formatVersion: 4
 tags: ${formattedTags}
 faqs:
 ${formattedFaqs}

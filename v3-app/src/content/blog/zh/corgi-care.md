@@ -7,6 +7,7 @@ updatedDate: "2026-04-14"
 heroImage: "/images/blog/corgi_care.png"
 authority: "美国彭布罗克威尔士柯基犬俱乐部官方指南与 AKC 健康指南"
 app: "petself"
+formatVersion: 4
 tags: ["威尔士柯基","髌骨护理","脊椎健康","双层毛"]
 faqs:
   - question: "为什么柯基犬不能从床或沙发上跳下来？"

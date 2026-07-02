@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tofu","Guía de almacenamiento científicamente probada","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "Deseche el agua del empaque y enjuague con agua corriente — Almacenamiento Refrigerado (7Días) 🚿"

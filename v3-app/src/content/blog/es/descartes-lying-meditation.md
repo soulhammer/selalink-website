@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografía de René Descartes 'La Vie de Monsieur Descartes' y revista Psychophysiology"
 steps:
   - name: "Mantener la Postura y Bloquear el Móvil tras la Alarma"

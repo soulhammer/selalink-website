@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Penulis ya","Routine"]
 heroImage: "/images/blog/murakami_running.png"
 app: "buildself"
+formatVersion: 4
 authority: "Buku Haruki Murakami 'What I Talk About When I Talk About Running' & Penelitian Frontiers in Psychology"
 steps:
   - name: "Segera kenakan pakaian lari setelah bangun tidur"

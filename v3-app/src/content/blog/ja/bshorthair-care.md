@@ -7,6 +7,7 @@ updatedDate: "2026-03-09"
 heroImage: "/images/blog/bshorthair_care.png"
 authority: "GCCFブリティッシュ・ショートヘア基準＆AAFP猫肥満指針"
 app: "petself"
+formatVersion: 4
 tags: ["ブリティッシュ・ショートヘア","肥大性心筋症","体重管理","肥満"]
 faqs:
   - question: "ブリティッシュ・ショートヘアが肥満になると他の猫より危険なのはなぜですか？"

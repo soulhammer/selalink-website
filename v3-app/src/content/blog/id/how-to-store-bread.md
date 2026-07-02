@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Roti tawar","Panduan Penyimpanan yang Terbukti Secara Ilmiah","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "Jangan pernah simpan di refrigerator kulkas — Mencegah roti kering dan keras ❌🍞"

@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Wochenlang","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
+formatVersion: 4
 authority: "Giorgio Vasaris Biografie „Leben der ausgezeichnetsten Maler, Bildhauer und Architekten“ & kognitionspsychologische Theorie der Ego-Depletion"
 steps:
   - name: "Automatisieren und standardisieren Sie Entscheidungen"

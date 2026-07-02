@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Comer maçã","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"
 app: "buildself"
+formatVersion: 4
 authority: "Autobiografia de Agatha Christie 'Agatha Christie: Uma Autobiografia' e Journal of Thermal Biology"
 steps:
   - name: "Prepare um banho morno ou banho de pés"

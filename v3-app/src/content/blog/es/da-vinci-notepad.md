@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
 heroImage: "/images/blog/da_vinci_notepad.png"
 app: "buildself"
+formatVersion: 4
 authority: "Obra de Walter Isaacson 'Leonardo da Vinci' y estudio del Journal of Educational Psychology"
 steps:
   - name: "Llevar un cuaderno a mano o colocar un widget de notas en la pantalla de inicio"

@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Le Premier","Routine"]
 heroImage: "/images/blog/churchill_afternoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "L'ouvrage de Winston Churchill 'La Deuxième Guerre mondiale' et l'étude de la NASA sur la sieste des astronautes"
 steps:
   - name: "Régler un minuteur entre 13h00 et 14h00"

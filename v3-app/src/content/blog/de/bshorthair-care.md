@@ -7,6 +7,7 @@ updatedDate: "2026-03-09"
 heroImage: "/images/blog/bshorthair_care.png"
 authority: "GCCF-British-Shorthair-Standards und AAFP-Adipositasrichtlinien"
 app: "petself"
+formatVersion: 4
 tags: ["British Shorthair","HCM-Prävention","Gewichtskontrolle","Adipositas"]
 faqs:
   - question: "Warum ist Übergewicht für British Shorthairs gefährlicher als für andere Katzen?"

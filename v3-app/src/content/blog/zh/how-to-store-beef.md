@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["牛肉","科学验证的储存指南","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
   - name: "用厨房纸吸干表面血水 — 防异味与变质 🥩"

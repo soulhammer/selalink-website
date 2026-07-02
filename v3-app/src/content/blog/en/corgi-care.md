@@ -7,6 +7,7 @@ updatedDate: "2026-04-14"
 heroImage: "/images/blog/corgi_care.png"
 authority: "Official Guide of the Pembroke Welsh Corgi Club of America & AKC Health Guidelines"
 app: "petself"
+formatVersion: 4
 tags: ["Welsh Corgi","Patellar Care","Spinal Health","Double Coat"]
 faqs:
   - question: "Why shouldn't Corgis jump off beds or sofas?"

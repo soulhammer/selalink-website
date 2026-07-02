@@ -7,6 +7,7 @@ updatedDate: "2026-07-01"
 heroImage: "/images/blog/chihuahua_care.png"
 authority: "Panduan Ras Resmi Chihuahua Club of America & Pedoman Perawatan Metabolik Ras Kecil AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Chihuahua","Perlindungan Molera","Hipoglikemia","Perawatan Ras Kecil"]
 faqs:
   - question: "Apakah molera (fontanela terbuka) Chihuahua harus menutup?"

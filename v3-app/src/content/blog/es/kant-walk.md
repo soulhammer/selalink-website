@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["¿El reloj ","Routine"]
 heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografía 'Kant' de Manfred Kuehn y Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Establecer una alarma de reactivación a las 3:30 PM"

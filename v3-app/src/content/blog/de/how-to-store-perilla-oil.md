@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Perillaöl","Wissenschaftlich geprüfter Lagerungsratgeber","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
   - name: "Immer im Kühlschrank bei 0–4 °C lagern — Kühllagerung (30Tage)"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["토마토","과학적으로 검증된 보관 가이드","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
   - name: "완숙 전에는 무조건 꼭 상온 그늘 보관하기 — 실온 보관 (7일) 🌿"

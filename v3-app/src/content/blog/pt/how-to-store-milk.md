@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Leite","Guia de armazenamento comprovado cientificamente","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Não guarde na porta da geladeira — Armazenamento Refrigerado (7Dias)"

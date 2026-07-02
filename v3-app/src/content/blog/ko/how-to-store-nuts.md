@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["견과류","과학적으로 검증된 보관 가이드","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "개봉 후 무조건 밀봉하여 냉장/냉동실 보관 — 냉장 90일 및 냉동 180일"

@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Caminhar 2","Routine"]
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Obra de Modest Tchaikovsky 'The Life & Letters of Peter Ilich Tchaikovsky' e estudo da Frontiers in Neuroscience"
 steps:
   - name: "Selecione um percurso calmo e cénico com contacto com a natureza"

@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["La romanci","Routine"]
 heroImage: "/images/blog/woolf_standing_desk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Le Journal de Virginia Woolf et l'étude d'Applied Ergonomics sur les bureaux debout"
 steps:
   - name: "Commencer les 30 premières minutes de travail debout"

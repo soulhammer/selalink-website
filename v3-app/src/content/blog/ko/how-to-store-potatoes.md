@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["감자","과학적으로 검증된 보관 가이드","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
   - name: "씻지 않고 신문지/종이봉투 개별 포장하기 — 실온 보관 (45일) 📦"

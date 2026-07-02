@@ -20,6 +20,8 @@ steps:
     text: "Höhere Temperaturen beschleunigen die Atmung des Apfels, was zu mehr Ethylengas und schnellerem Verderb führt. 💡 Lagerungstipp: Die optimale Temperatur liegt bei 0–4 °C. Legen Sie die eingewickelten Äpfel in das Gemüsefach des Kühlschranks. Vermeiden Sie Minustemperaturen, damit sie nicht gefrieren."
   - name: "Vollständig von anderen Lebensmitteln isolieren — Schutzbarriere 🛡️"
     text: "Selbst wenn sie eingewickelt sind, kann das starke Ethylengas der Äpfel über die Luft andere frische Produkte beeinträchtigen. 💡 Lagerungstipp: Legen Sie die Äpfel zusätzlich in einen verschließbaren Beutel oder Behälter. Lagern Sie sie getrennt von ethylenempfindlichem Gemüse und Obst wie Salat, Spinat, Bananen und Birnen."
+
+formatVersion: 4
 ---
 
 Haben Sie schon einmal eine frische Tüte knackiger, süßer Äpfel gekauft, nur um sie ein paar Wochen später schrumpelig und weich vorzufinden? 🍎

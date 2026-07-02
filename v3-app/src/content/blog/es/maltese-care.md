@@ -7,6 +7,7 @@ updatedDate: "2026-01-22"
 heroImage: "/images/blog/maltese_care.png"
 authority: "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Maltés","Luxación Patelar","Manchas de Lágrimas","Cuidado de Perros"]
 faqs:
   - question: "¿Por qué a los malteses no les gusta que les toquen las patas?"

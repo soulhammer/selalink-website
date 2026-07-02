@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Marcher 2 ","Routine"]
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "L'ouvrage de Modest Tchaïkovski 'The Life & Letters of Peter Ilich Tchaikovsky' & étude de Frontiers in Neuroscience"
 steps:
   - name: "Sélectionner un itinéraire calme et verdoyant en contact avec la nature"

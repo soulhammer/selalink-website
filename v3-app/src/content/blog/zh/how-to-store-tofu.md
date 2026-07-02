@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["豆腐","科学验证的储存指南","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
   - name: "倒掉盒装原水并在流水下冲洗 — 冷藏储存 (7天) 🚿"

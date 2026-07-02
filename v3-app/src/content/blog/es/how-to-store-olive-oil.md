@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Aceite de cocina / Oliva","Guía de almacenamiento científicamente probada","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "No almacene en el refrigerador — Evite la solidificación ❌❄️"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Speiseöl / Olivenöl","Wissenschaftlich geprüfter Lagerungsratgeber","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "Nicht im Kühlschrank lagern — Erstarrung verhindern ❌❄️"

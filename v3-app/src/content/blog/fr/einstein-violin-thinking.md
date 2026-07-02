@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Le génie q","Routine"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biographie d'Albert Einstein 'Einstein: A Life' & revue Frontiers in Psychology"
 steps:
   - name: "Arrêt Forcé de la Réflexion et Blocage des Écrans"

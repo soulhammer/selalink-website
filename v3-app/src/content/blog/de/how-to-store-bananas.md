@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Banane","Wissenschaftlich geprüfter Lagerungsratgeber","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
   - name: "Bananen an einem Bananenständer aufhängen — Lagerung bei Raumtemperatur (7 Tage) 🍌"

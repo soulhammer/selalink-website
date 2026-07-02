@@ -7,6 +7,7 @@ updatedDate: "2026-03-30"
 heroImage: "/images/blog/husky_care.png"
 authority: "シベリアンハスキークラブオブアメリカ公式ガイド＆IAABC作業犬活動プロトコル"
 app: "petself"
+formatVersion: 4
 tags: ["シベリアンハスキー","二重毛のブラッシング","遠吠え防止","大型犬の散歩"]
 faqs:
   - question: "ハスキーが体力があり余って家具を壊すのはどうすれば防げますか？"

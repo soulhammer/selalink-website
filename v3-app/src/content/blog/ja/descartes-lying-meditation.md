@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["昼までベッドから出な","Routine"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
+formatVersion: 4
 authority: "デカルト伝記「La Vie de Monsieur Descartes」および学術誌「Psychophysiology」"
 steps:
   - name: "アラーム直後の姿勢維持とスマートフォンの遮断"

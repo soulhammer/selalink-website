@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Lachs","Wissenschaftlich geprüfter Lagerungsratgeber","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
   - name: "Oberflächliches Fett und Wasser abwischen — Kühllagerung (2Tage) 🍣"

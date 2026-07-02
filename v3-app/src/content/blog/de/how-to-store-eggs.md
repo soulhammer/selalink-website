@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Ei","Wissenschaftlich geprüfter Lagerungsratgeber","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Eier vor dem Lagern niemals abwaschen — Kühllagerung (45Tage) 💧"

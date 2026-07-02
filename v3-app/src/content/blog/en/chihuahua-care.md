@@ -7,6 +7,7 @@ updatedDate: "2026-07-01"
 heroImage: "/images/blog/chihuahua_care.png"
 authority: "Official Chihuahua Club of America Breed Manual & AVMA Toy Breed Metabolic Care Guidelines"
 app: "petself"
+formatVersion: 4
 tags: ["Chihuahua","Molera Protection","Hypoglycemia","Toy Breed Care"]
 faqs:
   - question: "Does the Chihuahua's molera (open fontanelle) have to close? Is it dangerous if it doesn't?"

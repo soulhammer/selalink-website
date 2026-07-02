@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Ail","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Étaler du sucre et du papier absorbant au fond de la boîte — Stockage Réfrigéré (14Jours) 🪙"

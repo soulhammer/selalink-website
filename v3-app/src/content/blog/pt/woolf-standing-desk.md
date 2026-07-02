@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["A romancis","Routine"]
 heroImage: "/images/blog/woolf_standing_desk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Diário de Virginia Woolf e estudo da Applied Ergonomics sobre secretárias de pé"
 steps:
   - name: "Começar os primeiros 30 minutos de trabalho matinal de pé"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Pan de molde","Guía de almacenamiento científicamente probada","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "Nunca guarde en la zona de refrigeración — Evite que se reseque ❌🍞"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Cumi-cumi","Panduan Penyimpanan yang Terbukti Secara Ilmiah","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "Bersihkan jeroan dan tentakel sepenuhnya — Mencegah bau amis 🦑"

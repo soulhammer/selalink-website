@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Sang Geniu","Routine"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografi Albert Einstein 'Einstein: A Life' & Jurnal Frontiers in Psychology"
 steps:
   - name: "Hentikan Pikiran Secara Paksa dan Jauhi Layar"

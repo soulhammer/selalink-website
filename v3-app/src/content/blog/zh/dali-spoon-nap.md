@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: [" Spoon Nap","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "萨尔瓦多·达利自传《达利的秘密生活》及 Frontiers in Human Neuroscience 学术期刊"
 steps:
   - name: "建立半躺的椅上姿势"

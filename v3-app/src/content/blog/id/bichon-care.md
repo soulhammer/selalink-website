@@ -7,6 +7,7 @@ updatedDate: "2026-05-10"
 heroImage: "/images/blog/bichon_care.png"
 authority: "Standar Bichon Frise Club of America & Pedoman Kesehatan AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Bichon Frise","Bichon Blitz","Bulu Kusut","Dermatitis"]
 faqs:
   - question: "Bagaimana cara menenangkan Bichon saat Bichon Blitz?"

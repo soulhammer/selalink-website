@@ -7,6 +7,7 @@ updatedDate: "2026-03-15"
 heroImage: "/images/blog/koshort_care.png"
 authority: "Körpersprache-Führer des Cornell Feline Health Centers und NIAS-Pflegehandbuch"
 app: "petself"
+formatVersion: 4
 tags: ["Koreanische Kurzhaarkatze","FLUTD","Trinkwasserpflege","Katzenpflege"]
 faqs:
   - question: "Warum klettern Katzen immer auf hohe und enge Plätze?"

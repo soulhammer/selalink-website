@@ -7,6 +7,7 @@ updatedDate: "2026-07-01"
 heroImage: "/images/blog/chihuahua_care.png"
 authority: "Chihuahua Club of America 및 AVMA 초소형견 대사/건강 케어 지침"
 app: "petself"
+formatVersion: 4
 tags: ["치와와","천문 보호","저혈당 예방","초소형견 케어"]
 faqs:
   - question: "치와와의 정수리에 위치한 천문(Molera)은 꼭 닫혀야 하나요? 안 닫히면 위험한가요?"

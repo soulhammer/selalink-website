@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Potato","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
   - name: "Wrap unwashed potatoes individually in newspaper/paper bags — Room Temp Storage (45Days) 📦"

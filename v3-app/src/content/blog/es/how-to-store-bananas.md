@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Plátano","Guía de almacenamiento científicamente probada","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
   - name: "Colgar los plátanos en un soporte — Conservación a Temp. Ambiente (7 Días) 🍌"

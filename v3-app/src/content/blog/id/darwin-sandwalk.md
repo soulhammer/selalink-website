@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Menyelesai","Routine"]
 heroImage: "/images/blog/darwin_sandwalk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Otobiografi Charles Darwin & Penelitian Universitas Stanford tentang Berjalan dan Kreativitas"
 steps:
   - name: "Tentukan jalur 'Sandwalk' Anda sendiri"

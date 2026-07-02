@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Frutos secos","Guía de almacenamiento científicamente probada","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Selle y refrigere/congele una vez abierto — Refrigerado 90 días & Congelado 180 días"

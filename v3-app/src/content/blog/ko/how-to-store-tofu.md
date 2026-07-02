@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["두부","과학적으로 검증된 보관 가이드","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "팩 충전수 무조건 버리고 흐르는 물에 헹구기 — 냉장 보관 (7일) 🚿"

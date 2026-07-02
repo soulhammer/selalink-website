@@ -7,6 +7,7 @@ updatedDate: "2026-07-01"
 heroImage: "/images/blog/chihuahua_care.png"
 authority: "チワワクラブオブアメリカ公式マニュアル＆AVMA超小型犬代謝・健康ケアガイドライン"
 app: "petself"
+formatVersion: 4
 tags: ["チワワ","泉門保護","低血糖予防","超小型犬のケア"]
 faqs:
   - question: "チワワの頭頂部にある泉門（モレラ）は必ず閉じなければいけないのですか？"

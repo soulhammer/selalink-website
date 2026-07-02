@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Ovo","Guia de armazenamento comprovado cientificamente","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Nunca lave os ovos antes de guardar — Armazenamento Refrigerado (45Dias) 💧"

@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","churchill","Routine","Stamina"]
 heroImage: "/images/blog/churchill_afternoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Winston Churchill's 'The Second World War' & NASA Astronaut Power Nap Study"
 steps:
   - name: "Set a timer between 1 PM and 2 PM"

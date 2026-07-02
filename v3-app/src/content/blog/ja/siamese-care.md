@@ -7,6 +7,7 @@ updatedDate: "2026-02-19"
 heroImage: "/images/blog/siamese_care.png"
 authority: "キャットファンシャーズアソシエーション(CFA)公式＆AAFP猫の行動プロトコル"
 app: "petself"
+formatVersion: 4
 tags: ["シャム猫","分離不安","おしゃべりな猫","猫の遊び"]
 faqs:
   - question: "シャム猫が夜に絶えず鳴き続けるのですが、どこか悪いのでしょうか？"

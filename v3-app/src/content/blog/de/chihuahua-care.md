@@ -7,6 +7,7 @@ updatedDate: "2026-07-01"
 heroImage: "/images/blog/chihuahua_care.png"
 authority: "Rassehandbuch des Chihuahua Club of America und AVMA-Richtlinien für den Stoffwechsel von Zwergrassen"
 app: "petself"
+formatVersion: 4
 tags: ["Chihuahua","Molera-Schutz","Hypoglykämie","Zwergrassenpflege"]
 faqs:
   - question: "Muss sich die Molera des Chihuahuas schließen? Ist es gefährlich, wenn sie offen bleibt?"

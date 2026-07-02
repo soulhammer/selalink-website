@@ -7,6 +7,7 @@ updatedDate: "2026-07-01"
 heroImage: "/images/blog/chihuahua_care.png"
 authority: "美国吉娃娃俱乐部官方手册与 AVMA 超小型犬代谢与健康护理指南"
 app: "petself"
+formatVersion: 4
 tags: ["吉娃娃","囟门保护","低血糖预防","超小型犬护理"]
 faqs:
   - question: "吉娃娃头顶的囟门（Molera）必须闭合吗？不闭合会很危险吗？"

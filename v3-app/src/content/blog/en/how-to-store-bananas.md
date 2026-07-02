@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Banana","Scientifically Proven Storage Guide","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
   - name: "Hang Them Up to Prevent Bruising — Room Temp Storage (7 Days) 🍌"

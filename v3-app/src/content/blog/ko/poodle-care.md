@@ -7,6 +7,7 @@ updatedDate: "2026-01-26"
 heroImage: "/images/blog/poodle_care.png"
 authority: "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜"
 app: "petself"
+formatVersion: 4
 tags: ["푸들","지능형 놀이","귀 관리","반려견 홈케어"]
 faqs:
   - question: "푸들이 귀 세정 후에 머리를 세차게 터는 것은 정상인가요?"

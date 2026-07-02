@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Jenius yan","Routine"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Catatan Harian dan Pengamatan Edison (1948) & Penelitian Paris Brain Institute"
 steps:
   - name: "Siapkan Objek Berat dan Permukaan Jatuh"

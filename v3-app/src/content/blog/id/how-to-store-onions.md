@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Bawang bombay","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
   - name: "Gantung di area sejuk berventilasi dengan kulit utuh — Penyimpanan Suhu Ruang (30Hari)"

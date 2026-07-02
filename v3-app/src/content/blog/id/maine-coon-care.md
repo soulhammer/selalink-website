@@ -7,6 +7,7 @@ updatedDate: "2026-04-20"
 heroImage: "/images/blog/maine_coon_care.png"
 authority: "Panduan Resmi Maine Coon Breeders & Fanciers Association (MCBFA) & Protokol Manajemen Kucing Besar AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Maine Coon","Kucing Raksasa","Pencegahan HCM","Bulu Ganda"]
 faqs:
   - question: "Bagaimana saya harus mengelola risiko tinggi HCM pada Maine Coon?"

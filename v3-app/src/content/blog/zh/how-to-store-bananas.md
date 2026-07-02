@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["香蕉","科学验证的储存指南","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 世界卫生组织(WHO)</strong>"
 steps:
   - name: "使用香蕉架悬挂保存 — 常温储存 (7天) 🍌"

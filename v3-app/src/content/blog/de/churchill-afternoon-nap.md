@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Der Premie","Routine"]
 heroImage: "/images/blog/churchill_afternoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Winston Churchills 'Der Zweite Weltkrieg' & NASA-Studie über Power Naps bei Astronauten"
 steps:
   - name: "Einen Timer zwischen 13:00 und 14:00 Uhr stellen"

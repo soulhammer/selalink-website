@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Daging ayam","Panduan Penyimpanan yang Terbukti Secara Ilmiah","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "Jangan cuci ayam mentah dengan air — Mencegah kontaminasi silang ❌💧"

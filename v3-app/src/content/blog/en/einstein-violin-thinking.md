@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","einstein","Routine","Stamina"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
+formatVersion: 4
 authority: "Albert Einstein's Biography 'Einstein: A Life' & Frontiers in Psychology Journal"
 steps:
   - name: "Forced Stop of Thinking and Screen Blocking"

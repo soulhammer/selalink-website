@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["音楽的インスピレーシ","Routine"]
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "モデスト・チャイコフスキー 著『チャイコフスキーの生涯と書簡』＆ Frontiers in Neuroscience 脳神経研究"
 steps:
   - name: "自然と触れ合える静かで景色の良いルートを選ぶ"

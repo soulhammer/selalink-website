@@ -7,6 +7,7 @@ updatedDate: "2026-01-26"
 heroImage: "/images/blog/poodle_care.png"
 authority: "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议"
 app: "petself"
+formatVersion: 4
 tags: ["贵宾犬","智力游戏","耳部护理","犬类家庭护理"]
 faqs:
   - question: "贵宾犬在洗耳后剧烈甩头是正常的吗？"

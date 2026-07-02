@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Jam Königs","Routine"]
 heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografi 'Kant' oleh Manfred Kuehn & Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Setel Alarm Penyegaran pada Pukul 15.30"

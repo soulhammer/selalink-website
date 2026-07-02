@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Manger des","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"
 app: "buildself"
+formatVersion: 4
 authority: "L'autobiographie d'Agatha Christie 'Agatha Christie : Une autobiographie' & Journal of Thermal Biology"
 steps:
   - name: "Préparer un bain chaud ou un bain de pieds"

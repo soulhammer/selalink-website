@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Great Habits","franklin","Routine","Stamina"]
 heroImage: "/images/blog/franklin_air_bath.png"
 app: "buildself"
+formatVersion: 4
 authority: "The Autobiography of Benjamin Franklin & New England Journal of Medicine (NEJM)"
 steps:
   - name: "Welcome Cold Air While Ventilating in the Morning for 5 Minutes"

@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["腰间悬挂手账的天才？","Routine"]
 heroImage: "/images/blog/da_vinci_notepad.png"
 app: "buildself"
+formatVersion: 4
 authority: "沃尔特·艾萨克森著《达芬奇传》及教育心理学期刊(JEP)笔记研究"
 steps:
   - name: "随身携带手账或在主屏幕放置便签组件"

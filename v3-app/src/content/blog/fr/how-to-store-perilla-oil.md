@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Huile de pérille","Guide de conservation scientifiquement prouvé","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
   - name: "Toujours conserver au réfrigérateur entre 0 et 4 °C — Stockage Réfrigéré (30Jours)"

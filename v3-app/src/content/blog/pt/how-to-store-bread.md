@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Pão de forma","Guia de armazenamento comprovado cientificamente","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "Nunca guarde na geladeira — Evite o ressecamento do pão ❌🍞"

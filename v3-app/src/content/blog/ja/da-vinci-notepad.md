@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["常に腰に手帳をぶら下","Routine"]
 heroImage: "/images/blog/da_vinci_notepad.png"
 app: "buildself"
+formatVersion: 4
 authority: "ウォルター・アイザックソン 著『レオナルド・ダ・ヴィンチ』＆ 教育心理学術誌(JEP) メモ効果研究"
 steps:
   - name: "手帳を常時携帯するか、メモウィジェットをホーム画面に配置する"

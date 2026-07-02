@@ -7,6 +7,7 @@ updatedDate: "2026-02-19"
 heroImage: "/images/blog/siamese_care.png"
 authority: "Cat Fanciers' Association (CFA) Official Breed Guide & AAFP Feline Behavioral Protocols"
 app: "petself"
+formatVersion: 4
 tags: ["Siamese","Separation Anxiety","Vocal Cats","Cat Playtime"]
 faqs:
   - question: "Why does my Siamese cat keep meowing constantly at night?"

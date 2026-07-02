@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Dormir dan","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
+formatVersion: 4
 authority: "L'ouvrage de Giorgio Vasari 'Vies des meilleurs peintres, sculpteurs et architectes' & théorie de l'épuisement de l'ego"
 steps:
   - name: "Automatiser et standardiser les petits choix"

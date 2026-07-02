@@ -7,6 +7,7 @@ updatedDate: "2026-03-26"
 heroImage: "/images/blog/russian_blue_care.png"
 authority: "Guide de la Cat Fanciers' Association (CFA) et Cornell Feline Health Center"
 app: "petself"
+formatVersion: 4
 tags: ["Bleu Russe","Caractère Timide","Cachettes Sécurisées","Soins Félins"]
 faqs:
   - question: "Dois-je faire sortir mon Bleu Russe de sa cachette quand j'ai des invités ?"

@@ -7,6 +7,7 @@ updatedDate: "2026-01-29"
 heroImage: "/images/blog/shiba_care.png"
 authority: "美国国家柴犬俱乐部 (NSCA) 与 IAABC 行为矫正指南"
 app: "petself"
+formatVersion: 4
 tags: ["柴犬","双层毛护理","触碰训练","犬类护理"]
 faqs:
   - question: "为什么我的柴犬在理毛时会尖叫？"

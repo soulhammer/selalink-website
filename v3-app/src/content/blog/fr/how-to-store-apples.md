@@ -20,6 +20,8 @@ steps:
     text: "La chaleur accélère la respiration de la pomme, ce qui augmente le rejet d'éthylène et hâte le pourrissement. 💡 Astuce de conservation : La température idéale est de 0 à 4 °C. Placez les pommes emballées dans le bac à légumes. Évitez le gel qui altère la structure et le goût."
   - name: "Isoler totalement des autres aliments — Double isolation 🛡️"
     text: "Même bien emballé, le puissant gaz éthylène de la pomme circule dans le réfrigérateur et altère les autres aliments. 💡 Astuce de conservation : Rangez les pommes dans un sac hermétique ou une boîte fermée. Éloignez-les des fruits et légumes sensibles comme la salade, les épinards, les bananes ou les poires."
+
+formatVersion: 4
 ---
 
 Avez-vous déjà acheté un sac de pommes fraîches, douces et croquantes pour les retrouver ridées et molles à peine quelques semaines plus tard ? 🍎

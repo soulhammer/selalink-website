@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Novelis ya","Routine"]
 heroImage: "/images/blog/woolf_standing_desk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Buku Harian Virginia Woolf & Penelitian Applied Ergonomics tentang Meja Berdiri"
 steps:
   - name: "Mulailah 30 menit pertama kerja pagi sambil berdiri"

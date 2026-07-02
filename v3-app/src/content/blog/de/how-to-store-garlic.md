@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Knoblauch","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Zucker und Küchenpapier auf den Behälterboden legen — Kühllagerung (14Tage) 🪙"

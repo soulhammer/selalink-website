@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["ネギ","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
   - name: "洗わずに新聞紙で包んで立てて保存する — 常温保存 (5日間) 🌿"

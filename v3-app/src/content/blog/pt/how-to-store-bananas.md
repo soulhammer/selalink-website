@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Banana","Guia de armazenamento comprovado cientificamente","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
   - name: "Pendurar as bananas em um suporte — Conservação em Temp. Ambiente (7 Dias) 🍌"

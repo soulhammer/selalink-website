@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Batata","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
   - name: "Embrulhe as batatas sem lavar em jornal/saco de papel — Conservação em Temp. Ambiente (45Dias) 📦"

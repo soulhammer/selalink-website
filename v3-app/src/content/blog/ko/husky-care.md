@@ -7,6 +7,7 @@ updatedDate: "2026-03-30"
 heroImage: "/images/blog/husky_care.png"
 authority: "Siberian Husky Club of America 및 IAABC 썰매견 행동 인지/활동 에너지 지침"
 app: "petself"
+formatVersion: 4
 tags: ["시베리안 허스키","이중모 브러싱","하울링 방지","대형견 산책"]
 faqs:
   - question: "허스키가 지치지 않고 실내 가구를 망가뜨리는 것은 어떻게 해결하나요?"

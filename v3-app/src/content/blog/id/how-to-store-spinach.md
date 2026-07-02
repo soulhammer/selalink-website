@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Bayam","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
   - name: "Bungkus bayam kering dengan koran/tisu dapur — Mengontrol kelembapan 📦"

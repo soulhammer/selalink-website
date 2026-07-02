@@ -7,6 +7,7 @@ updatedDate: "2026-01-26"
 heroImage: "/images/blog/poodle_care.png"
 authority: "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols"
 app: "petself"
+formatVersion: 4
 tags: ["Poodle","Brain Games","Ear Care","Dog Home Care"]
 faqs:
   - question: "Is it normal for my Poodle to shake its head vigorously after ear cleaning?"

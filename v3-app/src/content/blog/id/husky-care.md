@@ -7,6 +7,7 @@ updatedDate: "2026-03-30"
 heroImage: "/images/blog/husky_care.png"
 authority: "Panduan Ras Resmi Siberian Husky Club of America & Protokol Aktivitas Anjing Pekerja IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Siberian Husky","Menyikat Bulu Ganda","Pencegahan Melolong","Jalan Anjing Besar"]
 faqs:
   - question: "Bagaimana cara menghentikan Husky merusak furnitur karena gelisah?"

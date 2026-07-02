@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["¿El primer","Routine"]
 heroImage: "/images/blog/churchill_afternoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Obra de Winston Churchill 'The Second World War' y estudio de la NASA sobre la siesta reparadora de los astronautas"
 steps:
   - name: "Establecer un temporizador entre la 1 p. m. y las 2 p. m."

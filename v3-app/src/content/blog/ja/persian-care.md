@@ -7,6 +7,7 @@ updatedDate: "2026-06-05"
 heroImage: "/images/blog/persian_care.png"
 authority: "CFAペルシアン種族ガイド＆AAFP獣医学指針"
 app: "petself"
+formatVersion: 4
 tags: ["ペルシアン猫","長毛のブラッシング","短頭種","涙やけ"]
 faqs:
   - question: "ペルシアン猫はなぜ数日ブラッシングを怠るだけでダメなのですか？"

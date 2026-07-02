@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Tidur deng","Routine"]
 heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
+formatVersion: 4
 authority: "Karya Giorgio Vasari 'Lives of the Artists' & Teori Psikologi Kognitif tentang Penipisan Ego"
 steps:
   - name: "Otomatisasikan keputusan kecil"

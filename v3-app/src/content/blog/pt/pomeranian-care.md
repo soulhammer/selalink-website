@@ -7,6 +7,7 @@ updatedDate: "2026-01-05"
 heroImage: "/images/blog/pomeranian_care.png"
 authority: "Guia oficial de raças do American Pomeranian Club e manual veterinário da AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Spitz Alemão","Cuidado Patelar","Colapso Traqueal","Escovação de Pelagem"]
 faqs:
   - question: "O que devo fazer quando o meu Spitz Alemão faz um grasnido de ganso?"

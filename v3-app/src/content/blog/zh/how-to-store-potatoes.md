@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["土豆","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & FSA</strong>"
 steps:
   - name: "不洗用报纸/纸袋单独包裹 — 常温储存 (45天) 📦"

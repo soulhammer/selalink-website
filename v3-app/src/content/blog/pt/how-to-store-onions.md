@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Cebola","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
   - name: "Pendure em local fresco e ventilado com casca — Conservação em Temp. Ambiente (30Dias)"

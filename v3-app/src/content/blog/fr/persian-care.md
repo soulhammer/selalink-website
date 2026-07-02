@@ -7,6 +7,7 @@ updatedDate: "2026-06-05"
 heroImage: "/images/blog/persian_care.png"
 authority: "Directives d'élevage de la CFA pour les Persans et normes vétérinaires de l'AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Chat Persan","Brossage Poil Long","Brachycéphale","Larmes"]
 faqs:
   - question: "Pourquoi négliger le brossage même quelques jours est-il nocif pour le Persan ?"

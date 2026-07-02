@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Espinaca","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
   - name: "Envuelva las espinacas sin lavar en periódico/papel de cocina 📦"

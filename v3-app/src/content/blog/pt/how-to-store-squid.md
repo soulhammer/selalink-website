@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Lula","Guia de armazenamento comprovado cientificamente","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "Limpe vísceras e impurezas dos tentáculos — Evite cheiro forte 🦑"

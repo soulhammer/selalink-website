@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Jenius yan","Routine"]
 heroImage: "/images/blog/tesla_toe_curling.png"
 app: "buildself"
+formatVersion: 4
 authority: "Autobiografi Nikola Tesla 'My Inventions' & Journal of Physical Therapy Science (JPTS)"
 steps:
   - name: "Detoks Digital di Tempat Tidur"

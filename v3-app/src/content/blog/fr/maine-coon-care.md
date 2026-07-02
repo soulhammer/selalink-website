@@ -7,6 +7,7 @@ updatedDate: "2026-04-20"
 heroImage: "/images/blog/maine_coon_care.png"
 authority: "Guide de la Maine Coon Breeders & Fanciers Association (MCBFA) et protocoles de gestion des grands félins de l'AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Maine Coon","Chat Géant","Prévention de CMH","Double Pelage"]
 faqs:
   - question: "Comment gérer le risque élevé de CMH chez le Maine Coon ?"

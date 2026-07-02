@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Créer un e","Routine"]
 heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "L'interview de Maya Angelou dans The Paris Review (1990) & étude de psychologie cognitive sur le contrôle des distractions"
 steps:
   - name: "Désigner un espace unique réservé au travail profond"

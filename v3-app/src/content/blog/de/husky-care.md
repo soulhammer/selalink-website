@@ -7,6 +7,7 @@ updatedDate: "2026-03-30"
 heroImage: "/images/blog/husky_care.png"
 authority: "Leitfaden des Siberian Husky Club of America und IAABC-Aktivitätsprotokolle für Arbeitshunde"
 app: "petself"
+formatVersion: 4
 tags: ["Sibirischer Husky","Doppelfellbürsten","Jaulprävention","Spaziergang großer Hunde"]
 faqs:
   - question: "Wie kann ich verhindern, dass mein Husky Möbel zerstört und unruhig wird?"

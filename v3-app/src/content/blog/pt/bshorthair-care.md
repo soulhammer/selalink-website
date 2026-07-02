@@ -7,6 +7,7 @@ updatedDate: "2026-03-09"
 heroImage: "/images/blog/bshorthair_care.png"
 authority: "Padrões da GCCF para British Shorthairs e diretrizes de obesidade felina da AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["British Shorthair","Prevenção de HCM","Controle de Peso","Obesidade"]
 faqs:
   - question: "Por que a obesidade é mais perigosa para o British Shorthair do que para outros gatos?"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Frango","Guia de armazenamento comprovado cientificamente","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "Não lave o frango cru com água — Evite contaminação cruzada ❌💧"

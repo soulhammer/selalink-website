@@ -7,6 +7,7 @@ updatedDate: "2026-01-05"
 heroImage: "/images/blog/pomeranian_care.png"
 authority: "Offizieller Rasseführer des American Pomeranian Clubs & Tierärztliches Handbuch der AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Zwergspitz","Kniescheibenpflege","Trachealkollaps","Fellbürsten"]
 faqs:
   - question: "Was soll ich tun, wenn mein Zwergspitz ein gänsehustenartiges Keuchen zeigt?"

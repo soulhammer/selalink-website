@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Onion","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
   - name: "Hang in a cool, well-ventilated area with skins on — Room Temp Storage (30Days)"

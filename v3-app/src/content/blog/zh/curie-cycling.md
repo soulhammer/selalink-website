@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["克服镭研究压力的秘诀","Routine"]
 heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
+formatVersion: 4
 authority: "艾芙·居里著《居里夫人传》及哈佛健康出版（Harvard Health）运动研究"
 steps:
   - name: "每周设定 1-2 次户外骑行路线"

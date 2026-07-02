@@ -7,6 +7,7 @@ updatedDate: "2026-07-01"
 heroImage: "/images/blog/chihuahua_care.png"
 authority: "Manuel de race du Chihuahua Club of America et directives pour les soins métaboliques des races toy de l'AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Chihuahua","Protection Molera","Hypoglycémie","Soins Races Toy"]
 faqs:
   - question: "La fontanelle ouverte (molera) du Chihuahua doit-elle se refermer ?"

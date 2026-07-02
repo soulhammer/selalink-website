@@ -7,6 +7,7 @@ updatedDate: "2026-03-09"
 heroImage: "/images/blog/bshorthair_care.png"
 authority: "GCCF 브리티시 숏헤어 표준 및 AAFP 고양이 비만 지침"
 app: "petself"
+formatVersion: 4
 tags: ["브리티시 숏헤어","비대성 심근증","체중 조절","비만 예방"]
 faqs:
   - question: "브리티시 숏헤어가 비만이 되면 왜 다른 고양이보다 위험한가요?"

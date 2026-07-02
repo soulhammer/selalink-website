@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["식용유/올리브유","과학적으로 검증된 보관 가이드","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "냉장 보관 절대 금지 — 동결 현상 및 향 소실 예방 ❌❄️"

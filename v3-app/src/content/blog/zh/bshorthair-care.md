@@ -7,6 +7,7 @@ updatedDate: "2026-03-09"
 heroImage: "/images/blog/bshorthair_care.png"
 authority: "GCCF 英国短毛猫标准与 AAFP 猫咪肥胖指南"
 app: "petself"
+formatVersion: 4
 tags: ["英国短毛猫","肥大性心肌病","体重管理","肥胖"]
 faqs:
   - question: "为什么英国短毛猫发胖会比其他猫咪更危险？"

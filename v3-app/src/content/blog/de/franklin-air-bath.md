@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Jeden Morg","Routine"]
 heroImage: "/images/blog/franklin_air_bath.png"
 app: "buildself"
+formatVersion: 4
 authority: "Benjamin Franklins Autobiografie 'The Autobiography of Benjamin Franklin' & New England Journal of Medicine (NEJM)"
 steps:
   - name: "Morgens 5 Minuten lüften und die kühle Luft spüren"

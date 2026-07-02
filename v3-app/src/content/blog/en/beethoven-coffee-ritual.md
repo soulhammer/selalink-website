@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","beethoven","Routine","Stamina"]
 heroImage: "/images/blog/beethoven_coffee_ritual.png"
 app: "buildself"
+formatVersion: 4
 authority: "Anton Schindler's 'Beethoven as I Knew Him' & Cognition and Emotion"
 steps:
   - name: "Set your own precise morning ritual item"

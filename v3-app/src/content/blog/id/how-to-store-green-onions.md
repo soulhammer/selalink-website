@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Daun bawang","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Bungkus kering dengan koran lalu simpan tegak — Penyimpanan Suhu Ruang (5Hari) 🌿"

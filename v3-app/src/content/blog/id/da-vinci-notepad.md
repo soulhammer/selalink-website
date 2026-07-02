@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Jenius yan","Routine"]
 heroImage: "/images/blog/da_vinci_notepad.png"
 app: "buildself"
+formatVersion: 4
 authority: "Buku Walter Isaacson 'Leonardo da Vinci' & Penelitian Journal of Educational Psychology"
 steps:
   - name: "Siapkan buku catatan atau tempatkan widget memo di layar beranda"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Lait","Guide de conservation scientifiquement prouvé","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Ne pas conserver dans la porte du frigo — Stockage Réfrigéré (7Jours)"

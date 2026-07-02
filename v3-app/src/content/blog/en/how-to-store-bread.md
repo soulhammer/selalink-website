@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Bread","Scientifically Proven Storage Guide","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "Never store in the refrigerator compartment — Prevent dry bread ❌🍞"

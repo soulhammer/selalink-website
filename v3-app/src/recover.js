@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const logPath = '/Users/soulhammer/.gemini/antigravity-ide/brain/ab042fb5-57e7-411d-bcd5-4d14ffe3e1ab/.system_generated/logs/transcript_full.jsonl';
-const targetPath = path.join(__dirname, 'translate_habits.js');
+const targetPath = path.join(__dirname, 'compile_habit_blogs.js');
 
 function recover() {
   if (!fs.existsSync(logPath)) {

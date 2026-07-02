@@ -7,6 +7,7 @@ updatedDate: "2026-01-29"
 heroImage: "/images/blog/shiba_care.png"
 authority: "National Shiba Club of America 및 IAABC 행동 치료 가이드라인"
 app: "petself"
+formatVersion: 4
 tags: ["시바견","이중모 관리","스킨십 교육","반려견 케어"]
 faqs:
   - question: "시바견이 빗질할 때 소리를 지르고 비명을 지르는데 어떻게 해야 하나요?"

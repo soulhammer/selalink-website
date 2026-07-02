@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["O gênio qu","Routine"]
 heroImage: "/images/blog/tesla_toe_curling.png"
 app: "buildself"
+formatVersion: 4
 authority: "A Autobiografia de Nikola Tesla 'My Inventions' & Journal of Physical Therapy Science (JPTS)"
 steps:
   - name: "Detox digital na cama"

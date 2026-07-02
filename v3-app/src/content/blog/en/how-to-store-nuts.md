@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Nuts","Scientifically Proven Storage Guide","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Seal and refrigerate/freeze once opened — Refrigerated 90 days & Frozen 180 days"

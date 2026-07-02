@@ -7,6 +7,7 @@ updatedDate: "2026-01-22"
 heroImage: "/images/blog/maltese_care.png"
 authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Maltese","Luksasi Patela","Noda Air Mata","Perawatan Anjing"]
 faqs:
   - question: "Mengapa Maltese tidak suka kaki mereka disentuh?"

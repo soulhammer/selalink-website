@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Oignon","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
   - name: "Suspendre avec la peau dans un endroit frais et aéré — Stockage à Temp. Ambiante (30Jours)"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["洋葱","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA</strong>"
 steps:
   - name: "带皮悬挂在通风阴凉处 — 常温储存 (30天)"

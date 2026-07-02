@@ -7,6 +7,7 @@ updatedDate: "2026-05-30"
 heroImage: "/images/blog/golden_retriever_care.png"
 authority: "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Golden Retriever","Dysplasie de la hanche","Rapport","Soins des grands chiens"]
 faqs:
   - question: "Pourquoi mon Golden Retriever porte-t-il toujours des bâtons ou des chaussures ?"

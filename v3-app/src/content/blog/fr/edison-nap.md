@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Le génie q","Routine"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Journal intime et observations d'Edison (1948) & Recherches de l'Institut du Cerveau de Paris"
 steps:
   - name: "Préparer un objet lourd et une surface sonore"

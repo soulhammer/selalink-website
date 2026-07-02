@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["毎日の執筆単語数を記","Routine"]
 heroImage: "/images/blog/hemingway_word_count.png"
 app: "buildself"
+formatVersion: 4
 authority: "アーネスト・ヘミングウェイ『パリ・レビュー』インタビュー(1958) ＆ 応用行動分析学ジャーナル(Journal of Applied Behavior Analysis)"
 steps:
   - name: "毎日の中心的な成果を定量的に測定する"

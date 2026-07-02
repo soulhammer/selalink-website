@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","michelangelo","Routine","Stamina"]
 heroImage: "/images/blog/michelangelo_flow.png"
 app: "buildself"
+formatVersion: 4
 authority: "Giorgio Vasari's 'Lives of the Artists' & Cognitive Psychology Theory of Ego Depletion"
 steps:
   - name: "Automate and standardize decisions"

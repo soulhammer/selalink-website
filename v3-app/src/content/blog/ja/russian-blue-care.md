@@ -7,6 +7,7 @@ updatedDate: "2026-03-26"
 heroImage: "/images/blog/russian_blue_care.png"
 authority: "キャットファンシャーズアソシエーション(CFA)ガイド＆コーネル猫健康センター"
 app: "petself"
+formatVersion: 4
 tags: ["ロシアンブルー","人見知りな性格","隠れ場所の確保","猫のホームケア"]
 faqs:
   - question: "ロシアンブルーが来客時に隠れて出てこないのですが、引っ張り出すべきですか？"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tomat","Panduan Penyimpanan yang Terbukti Secara Ilmiah","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
   - name: "Simpan di tempat teduh pada suhu ruang sebelum matang — Penyimpanan Suhu Ruang (7Hari) 🌿"

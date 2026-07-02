@@ -7,6 +7,7 @@ updatedDate: "2026-03-01"
 heroImage: "/images/blog/beagle_care.png"
 authority: "Manuel officiel de l'AKC pour le Beagle et protocoles de pistage de l'IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Beagle","Anxiété de Séparation","Hurlements","Oreilles"]
 faqs:
   - question: "Comment empêcher mon Beagle de hurler ?"

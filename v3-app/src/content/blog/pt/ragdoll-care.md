@@ -7,6 +7,7 @@ updatedDate: "2026-06-18"
 heroImage: "/images/blog/ragdoll_care.png"
 authority: "Guia de raças da Cat Fanciers' Association (CFA) e diretrizes de prática amigável com gatos da AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Ragdoll","Colo Seguro","Cuidado Articular","Cuidado de Gatos"]
 faqs:
   - question: "O Ragdoll ficar mole ao colo significa que tem ossos fracos?"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Óleo de perila","Guia de armazenamento comprovado cientificamente","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
   - name: "Armazene sempre na geladeira a 0–4 °C — Armazenamento Refrigerado (30Dias)"

@@ -7,6 +7,7 @@ updatedDate: "2026-01-22"
 heroImage: "/images/blog/maltese_care.png"
 authority: "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Bichon maltais","Luxation de la rotule","Taches de larmes","Soins des chiens"]
 faqs:
   - question: "Pourquoi les bichons maltais détestent-ils qu'on leur touche les pattes ?"

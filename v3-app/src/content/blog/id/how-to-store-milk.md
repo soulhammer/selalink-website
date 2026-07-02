@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Susu","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Jangan simpan di rak pintu kulkas — Penyimpanan Dingin (7Hari)"

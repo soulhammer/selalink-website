@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Œuf","Guide de conservation scientifiquement prouvé","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Ne jamais laver les œufs avant stockage — Stockage Réfrigéré (45Jours) 💧"

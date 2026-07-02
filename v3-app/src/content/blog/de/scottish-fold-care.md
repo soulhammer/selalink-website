@@ -7,6 +7,7 @@ updatedDate: "2026-02-12"
 heroImage: "/images/blog/scottish_fold_care.png"
 authority: "Hereditäres Knorpelprotokoll der ISFM (International Society of Feline Medicine) und GCCF-Richtlinien"
 app: "petself"
+formatVersion: 4
 tags: ["Scottish Fold","Osteochondrodysplasie","Ohrenreinigung","Gelenke"]
 faqs:
   - question: "Ist die 'Buddha-Stellung' der Scottish Fold ein Zeichen von Schmerzen?"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Aceite de perilla","Guía de almacenamiento científicamente probada","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
   - name: "Almacene siempre en el refrigerador a 0–4 °C — Almacenamiento Refrigerado (30Días)"

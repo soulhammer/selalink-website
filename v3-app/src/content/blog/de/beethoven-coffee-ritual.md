@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Der Kompon","Routine"]
 heroImage: "/images/blog/beethoven_coffee_ritual.png"
 app: "buildself"
+formatVersion: 4
 authority: "Anton Schindlers 'Beethoven, wie ich ihn hatte' & Studie in Cognition and Emotion"
 steps:
   - name: "Ein eigenes präzises Morgenritual-Element festlegen"

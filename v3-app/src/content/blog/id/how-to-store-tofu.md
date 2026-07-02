@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tahu","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "Buang air kemasan dan bilas dengan air mengalir — Penyimpanan Dingin (7Hari) 🚿"

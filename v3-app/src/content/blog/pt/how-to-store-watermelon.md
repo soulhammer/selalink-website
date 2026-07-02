@@ -14,6 +14,8 @@ steps:
     text: "Retire a casca com cuidado para que a sujeira de fora não encoste na polpa. Corte a melancia em cubos e guarde em pote hermético limpo com a tampa bem fechada."
   - name: "Guarde no fundo da gaveta de legumes em temperatura de 0-4 °C ❄️"
     text: "Coloque o pote hermético no fundo da gaveta de legumes. Armazenar em local com o mínimo de oscilação térmica mantém a melancia crocante e preserva a doçura."
+
+formatVersion: 4
 ---
 
 Você sabia que cobrir a melancia que sobrou com filme plástico multiplica as bactérias na superfície em 3.000 vezes? Hoje, o StoreSelf compartilha técnicas seguras recomendadas pela KCA.

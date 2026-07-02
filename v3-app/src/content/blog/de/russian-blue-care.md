@@ -7,6 +7,7 @@ updatedDate: "2026-03-26"
 heroImage: "/images/blog/russian_blue_care.png"
 authority: "Rasseführer der Cat Fanciers' Association (CFA) & Cornell Feline Health Center"
 app: "petself"
+formatVersion: 4
 tags: ["Russisch Blau","Scheues Temperament","Sichere Verstecke","Katzenpflege"]
 faqs:
   - question: "Sollte ich meine Russisch Blau aus dem Versteck holen, wenn Gäste kommen?"

@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Diario y observaciones de Edison (1948) e investigación del Instituto del Cerebro de París"
 steps:
   - name: "Preparar un objeto pesado y una superficie de impacto"

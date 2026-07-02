@@ -7,6 +7,7 @@ updatedDate: "2026-05-10"
 heroImage: "/images/blog/bichon_care.png"
 authority: "Estándares del Bichon Frise Club of America y pautas de salud de AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Bichón Frisé","Bichon Blitz","Nudos de Pelo","Dermatitis"]
 faqs:
   - question: "¿Cómo debo calmar a mi Bichón durante un Bichon Blitz?"

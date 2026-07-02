@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["毎朝立って執筆した小","Routine"]
 heroImage: "/images/blog/woolf_standing_desk.png"
 app: "buildself"
+formatVersion: 4
 authority: "ヴァージニア・ウルフ 日記 ＆ 人間工学専門学術誌 Applied Ergonomics 起立作業研究"
 steps:
   - name: "午前最初の仕事30分は立って始める"

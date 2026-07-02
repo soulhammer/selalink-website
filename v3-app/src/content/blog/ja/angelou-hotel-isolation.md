@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["深い没頭のための神聖","Routine"]
 heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "マヤ・アンジェロウ『パリ・レビュー』インタビュー(1990) ＆ 注意散漫制御に関する認知心理学研究"
 steps:
   - name: "ディープワーク専用の独立した空間を指定する"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["卵","科学的に検証された保存ガイド","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
 steps:
   - name: "絶対に水洗いしない — 冷蔵保存 (45日間) 💧"

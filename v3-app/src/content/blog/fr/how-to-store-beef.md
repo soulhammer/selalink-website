@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Bœuf","Guide de conservation scientifiquement prouvé","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "Essuyer soigneusement l'humidité et le sang en surface — Éviter les odeurs 🥩"

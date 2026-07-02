@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Die Evolut","Routine"]
 heroImage: "/images/blog/darwin_sandwalk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Die Autobiographie von Charles Darwin & Studie der Stanford University über Gehen und Kreativität"
 steps:
   - name: "Einen eigenen 'Sandwalk'-Pfad festlegen"

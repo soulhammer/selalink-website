@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Tägliche W","Routine"]
 heroImage: "/images/blog/hemingway_word_count.png"
 app: "buildself"
+formatVersion: 4
 authority: "Ernest Hemingways Interview in The Paris Review (1958) & Studie im Journal of Applied Behavior Analysis"
 steps:
   - name: "Messen Sie Ihre tägliche Kernleistung quantitativ"

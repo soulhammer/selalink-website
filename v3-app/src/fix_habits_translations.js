@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const targetPath = path.join(__dirname, 'translate_habits.js');
+const targetPath = path.join(__dirname, 'compile_habit_blogs.js');
 
 if (!fs.existsSync(targetPath)) {
   console.error('File not found:', targetPath);
@@ -14,7 +14,7 @@ if (!fs.existsSync(targetPath)) {
 
 let content = fs.readFileSync(targetPath, 'utf-8');
 
-console.log('--- translate_habits.js 번역 오류 수정 시작 ---');
+console.log('--- compile_habit_blogs.js 번역 오류 수정 시작 ---');
 
 // 1. Murakami ja text (Line 132) - "一日중" -> "一日中"
 const beforeMurakamiJa = '一日중';

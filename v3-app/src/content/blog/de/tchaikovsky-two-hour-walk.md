@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Täglich 2 ","Routine"]
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Modest Tschaikowskis 'The Life & Letters of Peter Ilich Tchaikovsky' & Studie in Frontiers in Neuroscience"
 steps:
   - name: "Wählen Sie eine ruhige, landschaftlich schöne Route mit Naturkontakt"

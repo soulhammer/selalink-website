@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["식빵","과학적으로 검증된 보관 가이드","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"
 steps:
   - name: "냉장실 보관 절대 금지 — 전분의 급격한 노화(굳음) 방지 ❌🍞"

@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Einen heil","Routine"]
 heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Maya Angelous Interview in The Paris Review (1990) & kognitionspsychologische Studie zur Ablenkungskontrolle"
 steps:
   - name: "Bestimmen Sie einen Raum ausschließlich für Deep Work"

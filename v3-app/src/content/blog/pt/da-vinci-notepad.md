@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["O génio qu","Routine"]
 heroImage: "/images/blog/da_vinci_notepad.png"
 app: "buildself"
+formatVersion: 4
 authority: "Obra de Walter Isaacson 'Leonardo da Vinci' e estudio do Journal of Educational Psychology"
 steps:
   - name: "Manter um caderno à mão ou colocar um widget de notas no ecrã inicial"

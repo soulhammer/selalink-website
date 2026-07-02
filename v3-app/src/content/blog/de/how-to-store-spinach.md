@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Spinat","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
   - name: "Ungewaschenen Spinat in Zeitung/Küchenpapier wickeln — Feuchtigkeitsschutz 📦"

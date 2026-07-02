@@ -7,6 +7,7 @@ updatedDate: "2026-04-14"
 heroImage: "/images/blog/corgi_care.png"
 authority: "Offizieller Leitfaden des Pembroke Welsh Corgi Club of America und AKC-Gesundheitsrichtlinien"
 app: "petself"
+formatVersion: 4
 tags: ["Welsh Corgi","Kniescheibenpflege","Rückengesundheit","Doppeltes Fell"]
 faqs:
   - question: "Warum sollten Corgis nicht von Betten oder Sofas springen?"

@@ -7,6 +7,7 @@ updatedDate: "2026-03-30"
 heroImage: "/images/blog/husky_care.png"
 authority: "Guia da Siberian Husky Club of America e protocolos de atividade para cães de trabalho da IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Husky Siberiano","Escovação de Pelagem","Prevenir Uivos","Passeios de Cães Grandes"]
 faqs:
   - question: "Como posso evitar que meu Husky destrua os móveis por tédio?"

@@ -7,6 +7,7 @@ updatedDate: "2026-03-15"
 heroImage: "/images/blog/koshort_care.png"
 authority: "Cornell Feline Health Center 고양이 행동 백서 및 농촌진흥청 국립축산과학원 가이드"
 app: "petself"
+formatVersion: 4
 tags: ["코리안숏헤어","특발성 방광염","음수량 케어","반려묘 케어"]
 faqs:
   - question: "고양이는 왜 좁고 높은 곳만 올라가려 하나요?"

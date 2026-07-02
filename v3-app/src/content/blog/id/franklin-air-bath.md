@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["30 Menit S","Routine"]
 heroImage: "/images/blog/franklin_air_bath.png"
 app: "buildself"
+formatVersion: 4
 authority: "Autobiografi Benjamin Franklin & New England Journal of Medicine (NEJM)"
 steps:
   - name: "Sambut Udara Dingin Sambil Ventilasi di Pagi Hari selama 5 Menit"

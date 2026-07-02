@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["バナナ","科学的に検証された保存ガイド","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 世界保健機関(WHO)</strong>"
 steps:
   - name: "バナナスタンド（ハンガー）に吊るす — 常温保存 (7日間) 🍌"

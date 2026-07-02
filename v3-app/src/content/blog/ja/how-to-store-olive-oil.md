@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["食用油/オリーブオイル","科学的に検証された保存ガイド","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
 steps:
   - name: "冷蔵保存は避ける — 凝固と風味の低下防止 ❌❄️"

@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","dali","Routine","Stamina"]
 heroImage: "/images/blog/dali_spoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Salvador Dalí's autobiography 'The Secret Life of Salvador Dalí' & Journal of Frontiers in Human Neuroscience"
 steps:
   - name: "Set up a semi-reclined posture"

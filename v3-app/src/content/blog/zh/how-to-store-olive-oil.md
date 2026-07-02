@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["食用油/橄榄油","科学验证的储存指南","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
 steps:
   - name: "切勿冷藏保存 — 防止结晶凝固与风味流失 ❌❄️"

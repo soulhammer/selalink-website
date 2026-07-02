@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Sang Geniu","Routine"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografi René Descartes 'La Vie de Monsieur Descartes' & Jurnal Psychophysiology"
 steps:
   - name: "Jaga Posisi dan Hindari Ponsel Begitu Alarm Berbunyi"

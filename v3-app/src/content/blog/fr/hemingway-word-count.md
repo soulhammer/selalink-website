@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Écrire en ","Routine"]
 heroImage: "/images/blog/hemingway_word_count.png"
 app: "buildself"
+formatVersion: 4
 authority: "L'interview d'Ernest Hemingway dans The Paris Review (1958) & étude du Journal of Applied Behavior Analysis"
 steps:
   - name: "Mesurer quantitativement votre production principale"

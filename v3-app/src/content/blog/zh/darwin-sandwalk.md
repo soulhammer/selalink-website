@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["通过散步完成了进化论","Routine"]
 heroImage: "/images/blog/darwin_sandwalk.png"
 app: "buildself"
+formatVersion: 4
 authority: "查尔斯·达尔文自传及斯坦福大学步行与创造力相关性研究"
 steps:
   - name: "设定专属于你的“沙路”散步道"

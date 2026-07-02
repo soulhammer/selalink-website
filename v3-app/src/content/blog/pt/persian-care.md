@@ -7,6 +7,7 @@ updatedDate: "2026-06-05"
 heroImage: "/images/blog/persian_care.png"
 authority: "Diretrizes da CFA para gatos Persas e padrões veterinários da AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Gato Persa","Escovação de Pelo Longo","Braquicefálico","Lágrimas"]
 faqs:
   - question: "Por que não escovar o Persa por alguns dias pode ser prejudicial?"

@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
 heroImage: "/images/blog/tesla_toe_curling.png"
 app: "buildself"
+formatVersion: 4
 authority: "La autobiografía de Nikola Tesla 'My Inventions' y Journal of Physical Therapy Science (JPTS)"
 steps:
   - name: "Desintoxicación digital en la cama"

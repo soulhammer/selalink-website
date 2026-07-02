@@ -7,6 +7,7 @@ updatedDate: "2026-07-01"
 heroImage: "/images/blog/chihuahua_care.png"
 authority: "Manual de raza de la Chihuahua Club of America y directrices de cuidado metabólico de razas miniatura de AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Chihuahua","Protección de Molera","Hipoglucemia","Cuidado de Perros Toy"]
 faqs:
   - question: "¿La molera del Chihuahua debe cerrarse obligatoriamente?"

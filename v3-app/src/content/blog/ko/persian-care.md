@@ -7,6 +7,7 @@ updatedDate: "2026-06-05"
 heroImage: "/images/blog/persian_care.png"
 authority: "Cat Fanciers' Association (CFA) 페르시안 가이드 및 AAFP 수의학 지침"
 app: "petself"
+formatVersion: 4
 tags: ["페르시안 고양이","장모종 빗질","단두종 관리","눈물자국"]
 faqs:
   - question: "페르시안 고양이는 빗질을 며칠만 걸러도 왜 안 되나요?"

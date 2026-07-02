@@ -7,6 +7,7 @@ updatedDate: "2026-06-05"
 heroImage: "/images/blog/persian_care.png"
 authority: "Pedoman Breed CFA untuk Persia & Standar Kedokteran Hewan AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Kucing Persia","Perawatan Bulu Panjang","Brakisefalik","Noda Air Mata"]
 faqs:
   - question: "Mengapa tidak menyikat bulu kucing Persia beberapa hari saja sangat merugikan?"

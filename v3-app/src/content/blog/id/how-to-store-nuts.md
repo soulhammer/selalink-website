@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Kacang-kacangan","Panduan Penyimpanan yang Terbukti Secara Ilmiah","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Segel dan dinginkan/bekukan setelah dibuka — Dingin 90 hari & Beku 180 hari"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["エゴマ油","科学的に検証された保存ガイド","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>"
 steps:
   - name: "必ず0〜4℃の冷蔵室に保存する — 冷蔵保存 (30日間)"

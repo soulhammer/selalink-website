@@ -7,6 +7,7 @@ updatedDate: "2026-05-10"
 heroImage: "/images/blog/bichon_care.png"
 authority: "Bichon Frise Club of Americaガイドライン＆AVMA獣医学指針"
 app: "petself"
+formatVersion: 4
 tags: ["ビション・フリーゼ","ビションタイム","毛のもつれ","皮膚炎"]
 faqs:
   - question: "ビションタイムにはどうやって落ち着かせればいいですか？"

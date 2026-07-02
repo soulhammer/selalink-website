@@ -7,6 +7,7 @@ updatedDate: "2026-02-12"
 heroImage: "/images/blog/scottish_fold_care.png"
 authority: "ISFM（国际猫科医学会）遗传性软骨疾病管理指南与 GCCF 折耳猫指南"
 app: "petself"
+formatVersion: 4
 tags: ["苏格兰折耳猫","骨软骨发育不良","洗耳清洁","猫咪关节"]
 faqs:
   - question: "折耳猫像人一样坐着的“佛陀坐姿”很可爱，但这真的是疼痛的信号吗？"

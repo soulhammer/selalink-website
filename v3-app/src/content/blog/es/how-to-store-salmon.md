@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Salmón","Guía de almacenamiento científicamente probada","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
   - name: "Limpie el aceite y agua de la superficie — Almacenamiento Refrigerado (2Días) 🍣"

@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Perdana Me","Routine"]
 heroImage: "/images/blog/churchill_afternoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Buku Winston Churchill 'The Second World War' & Penelitian Power Nap Astronot NASA"
 steps:
   - name: "Atur pengatur waktu antara jam 1 siang dan 2 siang"

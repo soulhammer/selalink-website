@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["每日步行2小时汲取音","Routine"]
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "莫杰斯特·柴可夫斯基著《柴可夫斯基的生命与书信》及 Frontiers in Neuroscience 脑科学研究"
 steps:
   - name: "选择与自然接触的安静、风景优美的路线"

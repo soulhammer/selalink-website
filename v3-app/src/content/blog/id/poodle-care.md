@@ -7,6 +7,7 @@ updatedDate: "2026-01-26"
 heroImage: "/images/blog/poodle_care.png"
 authority: "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Poodle","Permainan Otak","Perawatan Telinga","Perawatan Anjing"]
 faqs:
   - question: "Apakah normal bagi Poodle saya menggelengkan kepalanya dengan kuat setelah pembersihan telinga?"

@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Great Habits","edison","Routine","Stamina"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Edison's Diary and Sundry Observations (1948) & Paris Brain Institute Research"
 steps:
   - name: "Prepare a Heavy Object and a Dropping Surface"

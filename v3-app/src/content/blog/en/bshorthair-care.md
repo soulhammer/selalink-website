@@ -7,6 +7,7 @@ updatedDate: "2026-03-09"
 heroImage: "/images/blog/bshorthair_care.png"
 authority: "GCCF Breed Standards for British Shorthairs & AAFP Feline Obesity Guidelines"
 app: "petself"
+formatVersion: 4
 tags: ["British Shorthair","HCM Prevention","Weight Control","Obesity"]
 faqs:
   - question: "Why is obesity more dangerous for British Shorthairs than other cats?"

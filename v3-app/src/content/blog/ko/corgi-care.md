@@ -7,6 +7,7 @@ updatedDate: "2026-04-14"
 heroImage: "/images/blog/corgi_care.png"
 authority: "Pembroke Welsh Corgi Club of America 공식 가이드 및 AKC 건강 지침"
 app: "petself"
+formatVersion: 4
 tags: ["웰시코기","슬개골 예방","척추 디스크","이중모 관리"]
 faqs:
   - question: "웰시코기는 왜 침대나 소파에서 점프하면 안 되나요?"

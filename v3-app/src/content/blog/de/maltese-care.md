@@ -7,6 +7,7 @@ updatedDate: "2026-01-22"
 heroImage: "/images/blog/maltese_care.png"
 authority: "Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle"
 app: "petself"
+formatVersion: 4
 tags: ["Malteser","Patellaluxation","Tränenflecken","Hundepflege"]
 faqs:
   - question: "Warum hassen es Malteser, an den Pfoten angefasst zu werden?"

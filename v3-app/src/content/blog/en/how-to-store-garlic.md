@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Garlic","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Spread sugar and paper towels at the bottom of the container — Refrigerated Storage (14Days) 🪙"

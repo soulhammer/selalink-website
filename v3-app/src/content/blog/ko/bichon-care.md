@@ -7,6 +7,7 @@ updatedDate: "2026-05-10"
 heroImage: "/images/blog/bichon_care.png"
 authority: "Bichon Frise Club of America 가이드라인 및 AVMA 수의학 지침"
 app: "petself"
+formatVersion: 4
 tags: ["비숑 프리제","비숑타임","털 엉킴","피부염 예방"]
 faqs:
   - question: "비숑 타임(Bichon Blitz) 시 어떻게 진정시켜야 하나요?"

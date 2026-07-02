@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["닭고기","과학적으로 검증된 보관 가이드","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "물 세척 절대 금지 — 싱크대 교차 오염 방지 ❌💧"

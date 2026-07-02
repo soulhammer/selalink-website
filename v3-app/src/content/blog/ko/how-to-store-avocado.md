@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["아보카도","과학적으로 검증된 보관 가이드","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "완숙 전에는 종이봉투에 넣어 상온 보관 — 실온 보관 (5일) 🥑"

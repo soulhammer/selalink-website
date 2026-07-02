@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Mushroom","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
   - name: "Never wash mushrooms before storing — Avoid water absorption ❌💧"

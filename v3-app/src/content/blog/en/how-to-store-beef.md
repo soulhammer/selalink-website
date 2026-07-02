@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Beef","Scientifically Proven Storage Guide","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "Wipe off surface moisture and blood thoroughly — Prevent decay 🥩"

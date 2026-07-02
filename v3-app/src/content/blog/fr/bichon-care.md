@@ -7,6 +7,7 @@ updatedDate: "2026-05-10"
 heroImage: "/images/blog/bichon_care.png"
 authority: "Normes du Bichon Frise Club of America et directives de santé de l'AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Bichon Frisé","FRAPs","Nœuds de Poils","Dermatite"]
 faqs:
   - question: "Comment calmer un Bichon pendant son quart d'heure de folie ?"

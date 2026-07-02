@@ -7,6 +7,7 @@ updatedDate: "2026-01-29"
 heroImage: "/images/blog/shiba_care.png"
 authority: "全米柴犬クラブ(NSCA)＆IAABC行動治療ガイドライン"
 app: "petself"
+formatVersion: 4
 tags: ["柴犬","二重毛のケア","スキンシップ教育","犬のケア"]
 faqs:
   - question: "柴犬がブラッシングの時に悲鳴を上げて叫ぶのはどうしてですか？"

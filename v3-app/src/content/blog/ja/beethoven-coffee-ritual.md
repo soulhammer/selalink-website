@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["毎朝コーヒー豆を60","Routine"]
 heroImage: "/images/blog/beethoven_coffee_ritual.png"
 app: "buildself"
+formatVersion: 4
 authority: "アントン・シンドラー 著『私が知るベートーヴェン』＆ 認知感情学術誌(Cognition and Emotion)"
 steps:
   - name: "自分だけの精巧な朝の儀式アイテムを設定する"

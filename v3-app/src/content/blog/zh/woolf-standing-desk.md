@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["每天早晨站着写作的小","Routine"]
 heroImage: "/images/blog/woolf_standing_desk.png"
 app: "buildself"
+formatVersion: 4
 authority: "弗吉尼亚·伍尔夫日记及人类工学学术期刊 Applied Ergonomics 站立工作研究"
 steps:
   - name: "站立开启早晨的前30分钟工作"

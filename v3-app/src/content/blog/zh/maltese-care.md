@@ -7,6 +7,7 @@ updatedDate: "2026-01-22"
 heroImage: "/images/blog/maltese_care.png"
 authority: "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议"
 app: "petself"
+formatVersion: 4
 tags: ["马尔济斯犬","髌骨脱位","泪痕","犬类护理"]
 faqs:
   - question: "马尔济斯为什么讨厌被碰爪子？"

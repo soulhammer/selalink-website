@@ -7,6 +7,7 @@ updatedDate: "2026-03-15"
 heroImage: "/images/blog/koshort_care.png"
 authority: "Cornell Feline Health Center Behavioral Guide & NIAS Companion Animal Care Manual"
 app: "petself"
+formatVersion: 4
 tags: ["Korean Shorthair","FLUTD","Hydration Care","Cat Care"]
 faqs:
   - question: "Why do cats always climb to high and narrow spaces?"

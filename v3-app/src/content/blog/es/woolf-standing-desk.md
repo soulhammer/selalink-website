@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["¿La noveli","Routine"]
 heroImage: "/images/blog/woolf_standing_desk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Diario de Virginia Woolf y estudio de Applied Ergonomics sobre escritorios de pie"
 steps:
   - name: "Comenzar los primeiros 30 minutos del trabalho matutino de pie"

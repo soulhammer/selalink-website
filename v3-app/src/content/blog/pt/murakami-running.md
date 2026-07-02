@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["O escritor","Routine"]
 heroImage: "/images/blog/murakami_running.png"
 app: "buildself"
+formatVersion: 4
 authority: "Obra de Haruki Murakami 'Do Que Eu Falo Quando Falo de Corrida' e estudo da Frontiers in Psychology"
 steps:
   - name: "Vestir a roupa de corrida imediatamente ao acordar"

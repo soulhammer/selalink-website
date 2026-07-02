@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["把一天一分为二的首相","Routine"]
 heroImage: "/images/blog/churchill_afternoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "温斯顿·丘吉尔著《第二次世界大战回忆录》及美国国家航空航天局(NASA)宇航员强效午睡注意力研究"
 steps:
   - name: "在下午1点到2点之间设置定时器"

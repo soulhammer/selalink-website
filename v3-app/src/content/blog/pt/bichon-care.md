@@ -7,6 +7,7 @@ updatedDate: "2026-05-10"
 heroImage: "/images/blog/bichon_care.png"
 authority: "Padrões do Bichon Frise Club of America e diretrizes de saúde da AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Bichon Frisé","Bichon Blitz","Pelagem Embaraçada","Dermatite"]
 faqs:
   - question: "Como devo acalmar um Bichon durante o Bichon Blitz?"

@@ -7,6 +7,7 @@ updatedDate: "2026-04-20"
 heroImage: "/images/blog/maine_coon_care.png"
 authority: "Maine Coon Breeders & Fanciers Association (MCBFA) 및 AAFP 대형묘 관리 프로토콜"
 app: "petself"
+formatVersion: 4
 tags: ["메인쿤","거대묘","비대성 심근증","이중모 빗질"]
 faqs:
   - question: "메인쿤이 비대성 심근증(HCM) 위험이 높다는 것은 어떻게 대처해야 하나요?"

@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Menulis Se","Routine"]
 heroImage: "/images/blog/hemingway_word_count.png"
 app: "buildself"
+formatVersion: 4
 authority: "Wawancara Ernest Hemingway di The Paris Review (1958) & Jurnal Analisis Perilaku Terapan"
 steps:
   - name: "Ukur hasil inti harian Anda secara kuantitatif"

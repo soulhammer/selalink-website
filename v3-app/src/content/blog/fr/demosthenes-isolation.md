@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["L'orateur ","Routine"]
 heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Plutarque, 'Vies parallèles : Vie de Démosthène' & Recherches sur le contrôle des stimuli de l'APA"
 steps:
   - name: "Isoler physiquement le smartphone"

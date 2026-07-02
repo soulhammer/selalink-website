@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["牛油果","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
 steps:
   - name: "熟透前放入纸袋常温保存 — 常温储存 (5天) 🥑"

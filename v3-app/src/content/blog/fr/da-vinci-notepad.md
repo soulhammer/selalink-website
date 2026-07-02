@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Le génie q","Routine"]
 heroImage: "/images/blog/da_vinci_notepad.png"
 app: "buildself"
+formatVersion: 4
 authority: "L'ouvrage de Walter Isaacson 'Léonard de Vinci' et l'étude du Journal of Educational Psychology"
 steps:
   - name: "Garder un carnet à portée de main ou placer un widget de note sur l'écran d'accueil"

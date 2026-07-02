@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Compléter ","Routine"]
 heroImage: "/images/blog/darwin_sandwalk.png"
 app: "buildself"
+formatVersion: 4
 authority: "L'autobiographie de Charles Darwin et l'étude de l'Université de Stanford sur la marche et la créativité"
 steps:
   - name: "Définir votre propre sentier « Sandwalk »"

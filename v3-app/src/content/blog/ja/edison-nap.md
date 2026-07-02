@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["鉄球を手に握って昼寝","Routine"]
 heroImage: "/images/blog/edison_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "エディソンの日記および観察録（1948）およびフランス・パリ脳研究所（Paris Brain Institute）の研究"
 steps:
   - name: "重い物体と落下面の準備"

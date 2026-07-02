@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["바나나","과학적으로 검증된 보관 가이드","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
   - name: "바나나 걸이(행거) 사용하기 — 실온 보관 (7일) 🍌"

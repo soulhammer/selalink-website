@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["スプーンを握って昼寝","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "サルバドール・ダリ自伝『ダリの秘密の生涯』＆ Frontiers in Human Neuroscience 学術誌"
 steps:
   - name: "椅子にもたれる半睡眠姿勢を整える"

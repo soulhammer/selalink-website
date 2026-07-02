@@ -7,6 +7,7 @@ updatedDate: "2026-03-01"
 heroImage: "/images/blog/beagle_care.png"
 authority: "Manual de raças do AKC para Beagles e protocolos de nosework da IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Beagle","Ansiedade de Separação","Uivos","Orelhas"]
 faqs:
   - question: "Como posso evitar que o meu Beagle uive?"

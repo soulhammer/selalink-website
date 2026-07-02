@@ -7,6 +7,7 @@ updatedDate: "2026-03-01"
 heroImage: "/images/blog/beagle_care.png"
 authority: "AKC 比格犬官方指南与 IAABC 嗅闻行为协议"
 app: "petself"
+formatVersion: 4
 tags: ["比格犬","分离焦虑","嚎叫","耳朵健康"]
 faqs:
   - question: "如何防止比格犬嚎叫？"

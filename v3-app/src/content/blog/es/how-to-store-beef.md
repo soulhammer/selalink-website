@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Carne de res","Guía de almacenamiento científicamente probada","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "Limpie la humedad y sangre de la superficie por completo — Evite el mal olor 🥩"

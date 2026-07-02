@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tintenfisch","Wissenschaftlich geprüfter Lagerungsratgeber","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "Innereien und Saugnäpfe gründlich reinigen — Fischgeruch blockieren 🦑"

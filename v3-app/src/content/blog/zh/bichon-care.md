@@ -7,6 +7,7 @@ updatedDate: "2026-05-10"
 heroImage: "/images/blog/bichon_care.png"
 authority: "美国比熊犬俱乐部指南与 AVMA 兽医学指南"
 app: "petself"
+formatVersion: 4
 tags: ["比熊犬","比熊时间","毛发缠结","皮肤炎"]
 faqs:
   - question: "在“比熊时间（Bichon Blitz）”时应该如何使其冷静？"

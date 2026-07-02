@@ -7,6 +7,7 @@ updatedDate: "2026-01-05"
 heroImage: "/images/blog/pomeranian_care.png"
 authority: "Panduan Ras Resmi American Pomeranian Club & Panduan Dokter Hewan AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Pomeranian","Perawatan Patela","Kolaps Trakea","Menyikat Bulu Ganda"]
 faqs:
   - question: "Apa yang harus saya lakukan saat Pomeranian saya mengeluarkan batuk mirip klakson angsa?"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tofu","Guia de armazenamento comprovado cientificamente","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "Descarte a água da embalagem e enxágue em água corrente — Armazenamento Refrigerado (7Dias) 🚿"

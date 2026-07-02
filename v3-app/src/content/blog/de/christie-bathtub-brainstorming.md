@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Äpfel in d","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"
 app: "buildself"
+formatVersion: 4
 authority: "Agatha Christies Autobiografie „Agatha Christie: Meine gute alte Zeit“ & Journal of Thermal Biology"
 steps:
   - name: "Bereiten Sie ein warmem Bad oder Fußbad vor"

@@ -7,6 +7,7 @@ updatedDate: "2026-02-19"
 heroImage: "/images/blog/siamese_care.png"
 authority: "Guide officiel de la Cat Fanciers' Association (CFA) et protocoles de comportement félin de l'AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Siamois","Anxiété de Séparation","Chats Vocaux","Jeu Félin"]
 faqs:
   - question: "Pourquoi mon chat Siamois miaule-t-il constamment la nuit ?"

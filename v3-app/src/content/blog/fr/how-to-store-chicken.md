@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Poulet","Guide de conservation scientifiquement prouvé","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "Ne pas laver la volaille crue à l'eau — Éviter la contamination croisée ❌💧"

@@ -7,6 +7,7 @@ updatedDate: "2026-03-15"
 heroImage: "/images/blog/koshort_care.png"
 authority: "Guide comportemental du Cornell Feline Health Center et manuel de soins du NIAS"
 app: "petself"
+formatVersion: 4
 tags: ["Européen Coréen","MBAUF","Soins d'hydratation","Soins des chats"]
 faqs:
   - question: "Pourquoi les chats montent-ils toujours dans des espaces étroits et élevés ?"

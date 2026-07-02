@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["砂利道を歩いて進化論","Routine"]
 heroImage: "/images/blog/darwin_sandwalk.png"
 app: "buildself"
+formatVersion: 4
 authority: "チャールズ・ダーウィン 自叙伝 ＆ スタンフォード大学 徒歩と創造性の相関関係研究"
 steps:
   - name: "自分だけの「サンドウォーク」散策路を決める"

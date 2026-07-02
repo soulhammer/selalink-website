@@ -7,6 +7,7 @@ updatedDate: "2026-01-26"
 heroImage: "/images/blog/poodle_care.png"
 authority: "Offizieller Rasseführer des American Kennel Clubs (AKC) und IAABC-Verhaltensprotokolle"
 app: "petself"
+formatVersion: 4
 tags: ["Pudel","Denkspiele","Ohrenpflege","Hundepflege"]
 faqs:
   - question: "Ist es normal, dass mein Pudel nach der Ohrenreinigung heftig den Kopf schüttelt?"

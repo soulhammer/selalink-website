@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Salmão","Guia de armazenamento comprovado cientificamente","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
   - name: "Seque o óleo e a umidade da superfície — Armazenamento Refrigerado (2Dias) 🍣"

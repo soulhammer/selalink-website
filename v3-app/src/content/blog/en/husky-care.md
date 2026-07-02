@@ -7,6 +7,7 @@ updatedDate: "2026-03-30"
 heroImage: "/images/blog/husky_care.png"
 authority: "Official Siberian Husky Club of America Breed Guide & IAABC Working Dog Activity Protocols"
 app: "petself"
+formatVersion: 4
 tags: ["Siberian Husky","Double Coat Brushing","Howling Prevention","Large Dog Walk"]
 faqs:
   - question: "How can I stop my Husky from destroying furniture and going restless?"

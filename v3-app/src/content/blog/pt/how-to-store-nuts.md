@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Nozes","Guia de armazenamento comprovado cientificamente","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Sele e refrigere/congele após aberto — Refrigerado 90 dias & Congelado 180 dias"

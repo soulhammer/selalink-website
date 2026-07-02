@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["乌贼/鱿鱼","科学验证的储存指南","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国国立水产科学部(NIFS) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
   - name: "彻底清除内脏与吸盘杂质 — 防腥味 🦑"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Calamar","Guía de almacenamiento científicamente probada","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "Limpie tripas e impurezas de tentáculos — Evite olor a pescado 🦑"

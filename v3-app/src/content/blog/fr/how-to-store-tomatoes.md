@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tomate","Guide de conservation scientifiquement prouvé","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
   - name: "Stocker à l'ombre à temp. ambiante avant maturité — Stockage à Temp. Ambiante (7Jours) 🌿"

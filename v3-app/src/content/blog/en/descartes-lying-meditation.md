@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Great Habits","descartes","Routine","Stamina"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
+formatVersion: 4
 authority: "René Descartes' Biography 'La Vie de Monsieur Descartes' & Psychophysiology Journal"
 steps:
   - name: "Maintain Posture and Block Smartphones Immediately After Alarm"

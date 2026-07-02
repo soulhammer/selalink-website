@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Jamur","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
   - name: "Jangan mencuci jamur sebelum disimpan — Mencegah penyerapan air ❌💧"

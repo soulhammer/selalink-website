@@ -7,6 +7,7 @@ updatedDate: "2026-06-18"
 heroImage: "/images/blog/ragdoll_care.png"
 authority: "Cat Fanciers' Association (CFA) 렉돌 표준 가이드 및 AAFP 고양이 친화 진료 지침"
 app: "petself"
+formatVersion: 4
 tags: ["렉돌 고양이","안아 올리기","관절 케어","반려묘 홈케어"]
 faqs:
   - question: "렉돌이 안겼을 때 축 늘어지는 행동은 뼈나 관절이 약해서인가요?"

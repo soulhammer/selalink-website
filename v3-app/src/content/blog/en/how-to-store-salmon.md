@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Salmon","Scientifically Proven Storage Guide","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
   - name: "Wipe off surface oil and moisture — Refrigerated Storage (2Days) 🍣"

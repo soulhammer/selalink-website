@@ -7,6 +7,7 @@ updatedDate: "2026-04-20"
 heroImage: "/images/blog/maine_coon_care.png"
 authority: "缅因猫繁育与爱好者协会 (MCBFA) 官方指南与 AAFP 大型猫管理协议"
 app: "petself"
+formatVersion: 4
 tags: ["缅因猫","巨型猫","心肌病预防","双层毛梳理"]
 faqs:
   - question: "应该如何应对缅因猫高发的肥大性心肌病（HCM）风险？"

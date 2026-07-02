@@ -19,6 +19,8 @@ steps:
     text: "Higher temperatures speed up the apple's respiration, leading to more ethylene gas release and quicker spoilage. 💡 Storage Tip: The optimal storage temperature for apples is 0–4°C. Place the wrapped apples in the crisper drawer of your refrigerator. Avoid sub-zero temperatures as freezing alters the texture and taste."
   - name: "Isolate completely from other foods — Double protection 🛡️"
     text: "Even if wrapped, the strong ethylene gas from apples can travel through the refrigerator air and affect other fresh produce. 💡 Storage Tip: Put the individually wrapped apples inside a sealed ziploc bag or airtight container for double sealing. Keep them in a separate compartment away from ethylene-sensitive vegetables and fruits like lettuce, spinach, bananas, and pears."
+
+formatVersion: 4
 ---
 
 Have you ever bought a fresh bag of crisp, sweet apples only to find them wrinkled and soft just a couple of weeks later? 🍎

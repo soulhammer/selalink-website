@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Great Habits","curie","Routine","Stamina"]
 heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
+formatVersion: 4
 authority: "Eve Curie's 'Madame Curie' & Harvard Health Publishing Exercise Research"
 steps:
   - name: "Set an Outdoor Riding Course 1-2 Times a Week"

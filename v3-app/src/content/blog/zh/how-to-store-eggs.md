@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["鸡蛋","科学验证的储存指南","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"
 steps:
   - name: "切勿清洗鸡蛋 — 冷藏储存 (45天) 💧"

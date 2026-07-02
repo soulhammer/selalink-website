@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Huevo","Guía de almacenamiento científicamente probada","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Nunca lave los huevos antes de guardarlos — Almacenamiento Refrigerado (45Días) 💧"

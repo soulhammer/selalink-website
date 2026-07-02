@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["玉ねぎ","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & FSA</strong>"
 steps:
   - name: "皮付きのまま風通しの良い涼しい場所に吊るして保存 — 常温保存 (30日間)"

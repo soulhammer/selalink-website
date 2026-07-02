@@ -7,6 +7,7 @@ updatedDate: "2026-01-26"
 heroImage: "/images/blog/poodle_care.png"
 authority: "Guide officiel des races de l'American Kennel Club (AKC) et protocoles comportementaux de l'IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Caniche","Jeux Cérébraux","Soin des Oreilles","Soins Canins"]
 faqs:
   - question: "Est-il normal que mon caniche secoue la tête vigoureusement après le nettoyage des oreilles ?"

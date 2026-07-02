@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Squid","Scientifically Proven Storage Guide","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "Clean innards and tentacles thoroughly — Block fishy odor 🦑"

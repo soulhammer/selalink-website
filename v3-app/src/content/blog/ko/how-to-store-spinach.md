@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["시금치","과학적으로 검증된 보관 가이드","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
   - name: "씻지 않고 신문지/키친타월로 감싸기 — 습기 조절 📦"

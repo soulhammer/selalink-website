@@ -7,6 +7,7 @@ updatedDate: "2026-03-30"
 heroImage: "/images/blog/husky_care.png"
 authority: "Guía de la Siberian Husky Club of America y protocolos de actividad para perros de trabajo de IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Husky Siberiano","Cepillado de Manto","Prevenir Aullidos","Paseos de Perros Grandes"]
 faqs:
   - question: "¿Cómo puedo evitar que mi Husky destroce los muebles por aburrimiento?"

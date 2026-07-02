@@ -7,6 +7,7 @@ updatedDate: "2026-01-26"
 heroImage: "/images/blog/poodle_care.png"
 authority: "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル"
 app: "petself"
+formatVersion: 4
 tags: ["プードル","知能プレイ","耳のケア","犬のホームケア"]
 faqs:
   - question: "プードルが耳掃除の後に頭を激しく振るのは正常ですか？"

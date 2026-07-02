@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["ケーニヒスベルクの時","Routine"]
 heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "マンフレート・クーン著『カント伝』および神経科学・学習記憶ジャーナル（JN）"
 steps:
   - name: "午後3時30分のリフレッシュアラーム"

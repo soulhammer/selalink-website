@@ -7,6 +7,7 @@ updatedDate: "2026-03-26"
 heroImage: "/images/blog/russian_blue_care.png"
 authority: "Guía de razas de la Cat Fanciers' Association (CFA) y Cornell Feline Health Center"
 app: "petself"
+formatVersion: 4
 tags: ["Azul Ruso","Temperamento Tímido","Escondites Seguros","Cuidado de Gatos"]
 faqs:
   - question: "¿Debería forzar a mi Azul Ruso a salir de su escondite cuando hay visitas?"

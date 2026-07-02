@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Die Uhr vo","Routine"]
 heroImage: "/images/blog/kant_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Manfred Kuehns Biografie 'Kant' & Journal of Neurobiology of Learning and Memory (JN)"
 steps:
   - name: "Einen Wecker auf 15:30 Uhr stellen"

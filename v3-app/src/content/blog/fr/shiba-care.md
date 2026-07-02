@@ -7,6 +7,7 @@ updatedDate: "2026-01-29"
 heroImage: "/images/blog/shiba_care.png"
 authority: "National Shiba Club of America et directives de modification du comportement de l'IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Shiba Inu","Double Pelage","Désensibilisation","Soins des Chiens"]
 faqs:
   - question: "Pourquoi mon Shiba Inu crie-t-il pendant le toilettage ?"

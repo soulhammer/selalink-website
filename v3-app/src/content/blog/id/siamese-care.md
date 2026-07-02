@@ -7,6 +7,7 @@ updatedDate: "2026-02-19"
 heroImage: "/images/blog/siamese_care.png"
 authority: "Panduan Resmi Cat Fanciers' Association (CFA) & Protokol Perilaku Kucing AAFP"
 app: "petself"
+formatVersion: 4
 tags: ["Siamese","Kecemasan Perpisahan","Kucing Vokal","Waktu Bermain Kucing"]
 faqs:
   - question: "Mengapa kucing Siamese saya terus mengeong di malam hari?"

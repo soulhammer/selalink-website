@@ -7,6 +7,7 @@ updatedDate: "2026-04-20"
 heroImage: "/images/blog/maine_coon_care.png"
 authority: "メインクーンブリーダーズ＆ファンシャーズアソシエーション(MCBFA)＆AAFP大型猫管理プロトコル"
 app: "petself"
+formatVersion: 4
 tags: ["メインクーン","大型猫","肥大性心筋症","二重毛のケア"]
 faqs:
   - question: "メインクーンの肥大性心筋症（HCM）リスクにはどのように対処すべきですか？"

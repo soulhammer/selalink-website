@@ -7,6 +7,7 @@ updatedDate: "2026-01-05"
 heroImage: "/images/blog/pomeranian_care.png"
 authority: "Official American Pomeranian Club Breed Guide & AVMA Veterinary Manual"
 app: "petself"
+formatVersion: 4
 tags: ["Pomeranian","Patellar Care","Tracheal Collapse","Double Coat Brushing"]
 faqs:
   - question: "What should I do when my Pomeranian makes a goose-like honking sound?"

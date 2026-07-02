@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["마늘","과학적으로 검증된 보관 가이드","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "밀폐용기 바닥에 설탕과 키친타월 깔기 — 냉장 보관 (14일) 🪙"

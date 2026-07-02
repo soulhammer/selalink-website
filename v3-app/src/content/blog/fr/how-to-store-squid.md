@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Calamar","Guide de conservation scientifiquement prouvé","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
   - name: "Retirer les entrailles et nettoyer les tentacules — Éviter l'odeur de marée 🦑"

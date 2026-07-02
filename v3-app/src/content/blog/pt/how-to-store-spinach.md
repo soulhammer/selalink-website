@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Espinafre","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
   - name: "Embrulhe o espinafre sem lavar em jornal/papel-toalha 📦"

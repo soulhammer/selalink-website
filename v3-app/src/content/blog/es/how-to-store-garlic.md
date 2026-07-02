@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Ajo","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Esparza azúcar y papel de cocina al fondo del contenedor — Almacenamiento Refrigerado (14Días) 🪙"

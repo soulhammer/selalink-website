@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["キノコ","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA)</strong>"
 steps:
   - name: "絶対に洗わずに保存する — 水分吸収の防止 ❌💧"

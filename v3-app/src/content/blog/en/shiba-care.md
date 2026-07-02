@@ -7,6 +7,7 @@ updatedDate: "2026-01-29"
 heroImage: "/images/blog/shiba_care.png"
 authority: "National Shiba Club of America & IAABC Behavior Modification Guidelines"
 app: "petself"
+formatVersion: 4
 tags: ["Shiba Inu","Double Coat","Socialization","Dog Care"]
 faqs:
   - question: "Why does my Shiba Inu scream during grooming?"

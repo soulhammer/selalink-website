@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Great Habits","tchaikovsky","Routine","Stamina"]
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Modest Tchaikovsky's 'The Life & Letters of Peter Ilich Tchaikovsky' & Frontiers in Neuroscience"
 steps:
   - name: "Select a scenic, quiet route with contact with nature"

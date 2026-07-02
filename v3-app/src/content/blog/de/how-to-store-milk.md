@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Milch","Wissenschaftlich geprüfter Lagerungsratgeber","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
   - name: "Nicht in der Kühlschranktür lagern — Kühllagerung (7Tage)"

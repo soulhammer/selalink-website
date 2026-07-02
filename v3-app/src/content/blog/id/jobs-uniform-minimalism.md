@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Sang Geniu","Routine"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografi Steve Jobs oleh Walter Isaacson & Jurnal JPSP"
 steps:
   - name: "Siapkan Pakaian dan Barang Bawaan Sejak Malam Hari"

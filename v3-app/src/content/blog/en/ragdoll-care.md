@@ -7,6 +7,7 @@ updatedDate: "2026-06-18"
 heroImage: "/images/blog/ragdoll_care.png"
 authority: "Official Cat Fanciers' Association (CFA) Breed Guide & AAFP Cat Friendly Practice Guidelines"
 app: "petself"
+formatVersion: 4
 tags: ["Ragdoll Cat","Safe Holding","Joint Care","Cat Home Care"]
 faqs:
   - question: "Does the Ragdoll going limp when held mean they have weak bones?"

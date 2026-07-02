@@ -7,6 +7,7 @@ updatedDate: "2026-03-15"
 heroImage: "/images/blog/koshort_care.png"
 authority: "コーネル猫健康センター(Cornell Feline Health Center)猫の行動学＆国立畜産科学院ガイド"
 app: "petself"
+formatVersion: 4
 tags: ["コリアンショートヘア","特発性膀胱炎","飲水量ケア","猫のケア"]
 faqs:
   - question: "猫はなぜ狭くて高い場所ばかりに登るのですか？"

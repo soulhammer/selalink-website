@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["食パン","科学的に検証された保存ガイド","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>米国農務省(USDA) & FSA</strong>"
 steps:
   - name: "冷蔵室保存は絶対に避ける — デンプンの劣化（パサつき）防止 ❌🍞"

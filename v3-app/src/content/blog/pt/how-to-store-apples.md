@@ -20,6 +20,8 @@ steps:
     text: "Temperaturas mais altas aceleram a respiração da maçã, liberando mais gás etileno e estragando-a mais rápido. 💡 Dicas de conservação: A temperatura ideal é de 0 a 4 °C. Coloque as maçãs embrulhadas na gaveta de legumes do refrigerador. Evite temperaturas abaixo de zero para não congelar."
   - name: "Isole completamente de outros alimentos — Proteção dupla 🛡️"
     text: "Mesmo embrulhadas, o forte gás etileno das maçãs pode circular na geladeira e amadurecer outros alimentos. 💡 Dicas de conservação: Coloque as maçãs em um saco com fecho hermético ou pote fechado. Guarde-as em gavetas separadas de vegetais sensíveis como alface, espinafre, bananas e peras."
+
+formatVersion: 4
 ---
 
 Você já comprou um saco de maçãs frescas, doces e crocantes apenas para encontrá-las murchas e moles apenas duas semanas depois? 🍎

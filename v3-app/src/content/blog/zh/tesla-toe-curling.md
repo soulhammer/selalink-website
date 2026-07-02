@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["把脚趾蜷缩100次的","Routine"]
 heroImage: "/images/blog/tesla_toe_curling.png"
 app: "buildself"
+formatVersion: 4
 authority: "尼古拉·特斯拉自传《My Inventions》及《物理治疗科学杂志》（JPTS）"
 steps:
   - name: "床上的数字化排毒"

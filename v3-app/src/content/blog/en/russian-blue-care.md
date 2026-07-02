@@ -7,6 +7,7 @@ updatedDate: "2026-03-26"
 heroImage: "/images/blog/russian_blue_care.png"
 authority: "Cat Fanciers' Association (CFA) Breed Guide & Cornell Feline Health Center"
 app: "petself"
+formatVersion: 4
 tags: ["Russian Blue","Shy Temperament","Safe Hiding Spots","Cat Home Care"]
 faqs:
   - question: "Should I drag my Russian Blue out of their hiding spot when guests arrive?"

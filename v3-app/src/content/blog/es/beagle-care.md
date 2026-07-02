@@ -7,6 +7,7 @@ updatedDate: "2026-03-01"
 heroImage: "/images/blog/beagle_care.png"
 authority: "Manual oficial de razas de AKC para Beagles y protocolos de olfato de IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Beagle","Ansiedad por Separación","Aullidos","Oídos"]
 faqs:
   - question: "¿Cómo puedo evitar que mi Beagle aúlle?"

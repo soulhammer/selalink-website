@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tomate","Wissenschaftlich geprüfter Lagerungsratgeber","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
   - name: "Vor der Reife an einem schattigen Ort bei Raumtemperatur lagern — Lagerung bei Raumtemperatur (7Tage) 🌿"

@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["O gênio qu","Routine"]
 heroImage: "/images/blog/einstein_violin_thinking.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografia de Albert Einstein 'Einstein: A Life' & revista Frontiers in Psychology"
 steps:
   - name: "Pausa Forçada no Pensamento e Bloqueio de Telas"

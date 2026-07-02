@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Saumon","Guide de conservation scientifiquement prouvé","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
   - name: "Essuyer le gras et l'humidité en surface — Stockage Réfrigéré (2Jours) 🍣"

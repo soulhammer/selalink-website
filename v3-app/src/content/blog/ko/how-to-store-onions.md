@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["양파","과학적으로 검증된 보관 가이드","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
   - name: "껍질째 통풍이 잘되는 서늘한 곳에 매달아 보관하기 — 실온 보관 (30일)"

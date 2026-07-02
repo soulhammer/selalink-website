@@ -7,6 +7,7 @@ updatedDate: "2026-03-15"
 heroImage: "/images/blog/koshort_care.png"
 authority: "Guía de comportamento del Cornell Feline Health Center y manual de cuidado de NIAS"
 app: "petself"
+formatVersion: 4
 tags: ["Común Coreano","FLUTD","Cuidado de Hidratación","Cuidado de Gatos"]
 faqs:
   - question: "¿Por qué a los gatos les gusta subirse a lugares altos y estrechos?"

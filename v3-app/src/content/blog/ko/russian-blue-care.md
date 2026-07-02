@@ -7,6 +7,7 @@ updatedDate: "2026-03-26"
 heroImage: "/images/blog/russian_blue_care.png"
 authority: "Cat Fanciers' Association (CFA) 묘종 표준 가이드 및 Cornell Feline Health Center"
 app: "petself"
+formatVersion: 4
 tags: ["러시안블루","소심한 성격","은신처 확보","반려묘 홈케어"]
 faqs:
   - question: "러시안 블루가 손님이 오면 절대 나오지 않는데 억지로 꺼내야 하나요?"

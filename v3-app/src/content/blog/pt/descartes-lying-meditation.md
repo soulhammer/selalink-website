@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["O gênio qu","Routine"]
 heroImage: "/images/blog/descartes_lying_meditation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografia de René Descartes 'La Vie de Monsieur Descartes' & revista Psychophysiology"
 steps:
   - name: "Manter a Postura e Evitar o Celular Logo Após o Alarme"

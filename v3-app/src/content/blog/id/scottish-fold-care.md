@@ -7,6 +7,7 @@ updatedDate: "2026-02-12"
 heroImage: "/images/blog/scottish_fold_care.png"
 authority: "Protokol Kartilago Herediter ISFM (International Society of Feline Medicine) & Pedoman Ras GCCF"
 app: "petself"
+formatVersion: 4
 tags: ["Scottish Fold","Osteochondrodysplasia","Pembersihan Telinga","Sendi Kucing"]
 faqs:
   - question: "Apakah 'posisi Buddha' Scottish Fold yang menyerupai manusia merupakan tanda nyeri?"

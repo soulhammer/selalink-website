@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["牛肉","科学的に検証された保存ガイド","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
   - name: "ペーパーでドリップをしっかり拭き取る — 臭みと腐敗防止 🥩"

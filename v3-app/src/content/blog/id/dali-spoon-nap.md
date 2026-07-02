@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Tidur Sian","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Autobiografi Salvador Dalí 'The Secret Life of Salvador Dalí' & Jurnal Frontiers in Human Neuroscience"
 steps:
   - name: "Atur posisi semi-bersandar"

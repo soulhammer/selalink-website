@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Die Schrif","Routine"]
 heroImage: "/images/blog/woolf_standing_desk.png"
 app: "buildself"
+formatVersion: 4
 authority: "Virginia Woolfs Tagebuch & Studie in Applied Ergonomics über Stehpulte"
 steps:
   - name: "Die ersten 30 Minuten der Arbeit im Stehen beginnen"

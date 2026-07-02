@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["버섯","과학적으로 검증된 보관 가이드","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
   - name: "절대 세척하지 않고 보관하기 — 수분 흡수 차단 ❌💧"

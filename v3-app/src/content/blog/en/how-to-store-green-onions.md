@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Green Onion","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Wrap unwashed in newspaper and store upright — Room Temp Storage (5Days) 🌿"

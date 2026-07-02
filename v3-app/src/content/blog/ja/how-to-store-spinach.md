@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["ほうれん草","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & EFSA & FSA</strong>"
 steps:
   - name: "洗わずに新聞紙やペーパーで包む — 湿気コントロール 📦"

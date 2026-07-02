@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["소고기","과학적으로 검증된 보관 가이드","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "키친타월로 핏물 완벽히 제거하기 — 잡내 및 부패 방지 🥩"

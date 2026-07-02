@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Frühlingszwiebel","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
   - name: "Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Lagerung bei Raumtemperatur (5Tage) 🌿"

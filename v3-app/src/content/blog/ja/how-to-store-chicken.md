@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["鶏肉","科学的に検証された保存ガイド","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>"
 steps:
   - name: "水で洗うのは絶対に避ける — シンクの二次汚染防止 ❌💧"

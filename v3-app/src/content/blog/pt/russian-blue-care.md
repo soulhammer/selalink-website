@@ -7,6 +7,7 @@ updatedDate: "2026-03-26"
 heroImage: "/images/blog/russian_blue_care.png"
 authority: "Guia de raças da Cat Fanciers' Association (CFA) e Cornell Feline Health Center"
 app: "petself"
+formatVersion: 4
 tags: ["Azul Russo","Temperamento Tímido","Esconderijos Seguros","Cuidado de Cães"]
 faqs:
   - question: "Devo tirar o meu Azul Russo do esconderijo quando as visitas chegarem?"

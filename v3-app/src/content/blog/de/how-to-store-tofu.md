@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Tofu","Wissenschaftlich geprüfter Lagerungsratgeber","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
   - name: "Packungswasser weggießen und unter fließendem Wasser abspülen — Kühllagerung (7Tage) 🚿"

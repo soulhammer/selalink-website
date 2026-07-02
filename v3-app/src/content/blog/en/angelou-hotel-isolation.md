@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Great Habits","angelou","Routine","Stamina"]
 heroImage: "/images/blog/angelou_hotel_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Maya Angelou's interview in The Paris Review (1990) & Cognitive Psychology Study on Distraction Control"
 steps:
   - name: "Designate a single space solely for deep work"

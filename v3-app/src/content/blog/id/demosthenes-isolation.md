@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Orator yan","Routine"]
 heroImage: "/images/blog/demosthenes_isolation.png"
 app: "buildself"
+formatVersion: 4
 authority: "Karya Sejarah Plutarch 'Lives: Life of Demosthenes' & Penelitian Kontrol Lingkungan APA"
 steps:
   - name: "Isolasi Smartphone Anda Secara Fisik"

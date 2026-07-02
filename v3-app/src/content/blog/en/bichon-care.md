@@ -7,6 +7,7 @@ updatedDate: "2026-05-10"
 heroImage: "/images/blog/bichon_care.png"
 authority: "Bichon Frise Club of America Standards & AVMA Health Guidelines"
 app: "petself"
+formatVersion: 4
 tags: ["Bichon Frise","Bichon Blitz","Fur Matting","Dermatitis"]
 faqs:
   - question: "How should I calm a Bichon during a Bichon Blitz?"

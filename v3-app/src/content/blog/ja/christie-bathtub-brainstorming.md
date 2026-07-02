@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["湯船でリンゴをかじる","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"
 app: "buildself"
+formatVersion: 4
 authority: "アガサ・クリスティ自伝『アガサ・クリスティ自著伝』＆ Journal of Thermal Biology 学術誌"
 steps:
   - name: "温水入浴または足湯の環境を整える"

@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["30 minutes","Routine"]
 heroImage: "/images/blog/franklin_air_bath.png"
 app: "buildself"
+formatVersion: 4
 authority: "L'Autobiographie de Benjamin Franklin & New England Journal of Medicine (NEJM)"
 steps:
   - name: "Aérer et accueillir l'air frais pendant 5 minutes"

@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Pollo","Guía de almacenamiento científicamente probada","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
   - name: "No lave el pollo crudo con agua — Evite la contaminación cruzada ❌💧"

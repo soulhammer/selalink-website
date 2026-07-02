@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Avocado","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "Store in a paper bag at room temperature before fully ripe — Room Temp Storage (5Days) 🥑"

@@ -7,6 +7,7 @@ updatedDate: "2026-03-15"
 heroImage: "/images/blog/koshort_care.png"
 authority: "Panduan Perilaku Cornell Feline Health Center & Manual Perawatan Hewan Pendamping NIAS"
 app: "petself"
+formatVersion: 4
 tags: ["Kucing Bulu Pendek Korea","FLUTD","Perawatan Hidrasi","Perawatan Kucing"]
 faqs:
   - question: "Mengapa kucing selalu memanjat tempat yang tinggi dan sempit?"

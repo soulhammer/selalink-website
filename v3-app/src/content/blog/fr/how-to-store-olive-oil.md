@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["Huile de cuisson / Olive","Guide de conservation scientifiquement prouvé","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
   - name: "Ne pas conserver au réfrigérateur — Éviter la solidification ❌❄️"

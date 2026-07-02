@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["毎朝30分、ベンジャ","Routine"]
 heroImage: "/images/blog/franklin_air_bath.png"
 app: "buildself"
+formatVersion: 4
 authority: "ベンジャミン・フランクリン自伝『The Autobiography of Benjamin Franklin』およびニューイングランド・ジャーナル・オブ・メディシン（NEJM）"
 steps:
   - name: "朝の換気をしながら冷たい空気を浴びる（5分間）"

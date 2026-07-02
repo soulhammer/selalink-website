@@ -7,6 +7,7 @@ updatedDate: "2026-01-26"
 heroImage: "/images/blog/poodle_care.png"
 authority: "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Caniche","Juegos Mentales","Cuidado de Oídos","Cuidado de Perros"]
 faqs:
   - question: "¿Es normal que mi caniche sacuda la cabeza vigorosamente después de la limpieza de oídos?"

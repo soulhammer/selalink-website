@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
+formatVersion: 4
 authority: "Steve Jobs' Biografie von Walter Isaacson & Fachzeitschrift JPSP"
 steps:
   - name: "Bereitlegen von Kleidung und Gegenständen am Vorabend"

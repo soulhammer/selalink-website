@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["蘑菇","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA)</strong>"
 steps:
   - name: "切勿清洗保存 — 阻断水分吸收 ❌💧"

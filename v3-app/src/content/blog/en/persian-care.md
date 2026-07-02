@@ -7,6 +7,7 @@ updatedDate: "2026-06-05"
 heroImage: "/images/blog/persian_care.png"
 authority: "CFA Breed Guidelines for Persians & AAFP Veterinary Standards"
 app: "petself"
+formatVersion: 4
 tags: ["Persian Cat","Longhair Grooming","Brachycephalic","Tear Stains"]
 faqs:
   - question: "Why is skipping grooming for even a few days harmful to Persians?"

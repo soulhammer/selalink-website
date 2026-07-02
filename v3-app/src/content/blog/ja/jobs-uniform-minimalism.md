@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["毎日同じ服だけを着た","Routine"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
+formatVersion: 4
 authority: "スティーブ・ジョブズ公式伝記「Steve Jobs」および学術誌「JPSP」意思決定疲労研究"
 steps:
   - name: "前日の夜の衣服と持ち物の事前準備"

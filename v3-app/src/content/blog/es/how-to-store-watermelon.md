@@ -14,6 +14,8 @@ steps:
     text: "Retire la cáscara con cuidado para que el polvo de la superficie no toque la pulpa. Corte la sandía en cubos pequeños y guárdelos en un contenedor hermético limpio con la tapa bien cerrada."
   - name: "Guarde al fondo del cajón de verduras a una temperatura estable de 0-4 °C ❄️"
     text: "Coloque el contenedor hermético al fondo del cajón de verduras. Almacenar en un lugar con fluctuaciones mínimas de temperatura mantiene la sandía crujiente y conserva su dulzura."
+
+formatVersion: 4
 ---
 
 ¿Sabía que cubrir la sandía sobrante con film plástico multiplica las bacterias 3,000 veces en la superficie? Hoy, StoreSelf comparte trucos seguros aprobados por la KCA.

@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["30 minutos","Routine"]
 heroImage: "/images/blog/franklin_air_bath.png"
 app: "buildself"
+formatVersion: 4
 authority: "A Autobiografia de Benjamin Franklin & New England Journal of Medicine (NEJM)"
 steps:
   - name: "Ventilar o ambiente e receber o ar frio por 5 minutos"

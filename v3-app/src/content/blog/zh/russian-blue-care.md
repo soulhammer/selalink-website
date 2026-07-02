@@ -7,6 +7,7 @@ updatedDate: "2026-03-26"
 heroImage: "/images/blog/russian_blue_care.png"
 authority: "爱猫者协会 (CFA) 培育标准与康奈尔猫科健康中心"
 app: "petself"
+formatVersion: 4
 tags: ["俄罗斯蓝猫","胆小性格","安全隐蔽处","猫咪家庭护理"]
 faqs:
   - question: "当有客人来访时，我应该把躲起来的俄罗斯蓝猫拖出来吗？"

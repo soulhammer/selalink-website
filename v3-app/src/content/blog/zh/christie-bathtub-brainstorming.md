@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: [" 浴缸吃苹果与谋杀案","Routine"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.png"
 app: "buildself"
+formatVersion: 4
 authority: "阿加莎·克里斯蒂自传《阿加莎·克里斯蒂自传》及 Journal of Thermal Biology 学术期刊"
 steps:
   - name: "设置温水浴或泡脚环境"

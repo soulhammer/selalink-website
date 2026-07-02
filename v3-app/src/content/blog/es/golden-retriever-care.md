@@ -7,6 +7,7 @@ updatedDate: "2026-05-30"
 heroImage: "/images/blog/golden_retriever_care.png"
 authority: "Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC"
 app: "petself"
+formatVersion: 4
 tags: ["Golden Retriever","Displasia de Cadera","Cobro","Cuidado de Perros Grandes"]
 faqs:
   - question: "¿Por qué mi Golden Retriever siempre lleva palos o zapatos durante los paseos?"

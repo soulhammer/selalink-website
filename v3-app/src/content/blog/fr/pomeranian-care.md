@@ -7,6 +7,7 @@ updatedDate: "2026-01-05"
 heroImage: "/images/blog/pomeranian_care.png"
 authority: "Guide officiel de race de l'American Pomeranian Club et manuel vétérinaire de l'AVMA"
 app: "petself"
+formatVersion: 4
 tags: ["Loulou de Poméranie","Soin de Rotule","Collapsus Trachéal","Brossage Double Pelage"]
 faqs:
   - question: "Que faire lorsque mon Poméranien émet un bruit de klaxon rappelant l'oie ?"

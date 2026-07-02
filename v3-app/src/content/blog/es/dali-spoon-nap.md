@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["¿Echar la ","Routine"]
 heroImage: "/images/blog/dali_spoon_nap.png"
 app: "buildself"
+formatVersion: 4
 authority: "Autobiografía de Salvador Dalí 'La vida secreta de Salvador Dalí' y Journal of Frontiers in Human Neuroscience"
 steps:
   - name: "Adopta una postura semi-reclinada"

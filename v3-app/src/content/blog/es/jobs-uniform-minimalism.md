@@ -7,6 +7,7 @@ category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
 heroImage: "/images/blog/jobs_uniform_minimalism.png"
 app: "buildself"
+formatVersion: 4
 authority: "Biografía de Steve Jobs por Walter Isaacson y revista JPSP sobre la fatiga por decisión"
 steps:
   - name: "Preparar la Ropa y los Objetos Personales la Noche Anterior"

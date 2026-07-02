@@ -7,6 +7,7 @@ category: "StoreSelf"
 tags: ["大蒜","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
 app: "storeself"
+formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
   - name: "在密封盒底部铺沙糖与厨房纸 — 冷藏储存 (14天) 🪙"

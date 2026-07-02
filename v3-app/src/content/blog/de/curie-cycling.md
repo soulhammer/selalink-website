@@ -6,6 +6,7 @@ category: "BuildSelf"
 tags: ["Das Geheim","Routine"]
 heroImage: "/images/blog/curie_cycling.png"
 app: "buildself"
+formatVersion: 4
 authority: "Ève Curies Biografie 'Madame Curie' & Sportstudien von Harvard Health Publishing"
 steps:
   - name: "1-2 Mal pro Woche eine Route im Freien festlegen"
