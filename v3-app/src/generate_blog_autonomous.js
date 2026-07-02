@@ -220,8 +220,8 @@ function startAutonomousWorkflow() {
   const masterLang = detectSourceLanguage(slugArg);
   console.log(`ℹ️ [소스 감지] 마스터 소스 파일의 언어는 [${masterLang.toUpperCase()}] 입니다.`);
 
-  // 1.5. 지능형 과거 날짜 자율 배정 (Backdating)
-  distributeBlogDates(slugArg);
+  // 1.5. 지능형 과거 날짜 자율 배정 (Backdating) - 수동 스크립트로 분리됨
+  // distributeBlogDates(slugArg);
 
   // 2. 이미지 가공 연동 (최상단 heroImage 명칭 기반 보조 이미지명 유도)
   const imageBaseName = slugArg.replace(/-/g, '_') + '_relax';
