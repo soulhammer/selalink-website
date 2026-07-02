@@ -252,6 +252,31 @@ function checkIntegrity() {
       }
     });
 
+    // 2-J. 원천 소스 아이템 데이터셋 존재성 검증 (위인 습관, 식재료 보관법, 반려동물 케어 전 영역)
+    const isHabitBlog = fs.existsSync(path.join(__dirname, 'data/blogs/habits', `${blogSlug}.json`));
+    if (isHabitBlog) {
+      const sourceJsonPath = path.join(__dirname, 'data/habits/items', `${blogSlug}.json`);
+      if (!fs.existsSync(sourceJsonPath)) {
+        logError(`[원천 데이터 누락] '${blogSlug}' 에 대응하는 원시 습관 데이터 파일이 존재하지 않습니다: src/data/habits/items/${blogSlug}.json`);
+      }
+    }
+
+    const isIngredientBlog = fs.existsSync(path.join(__dirname, 'data/blogs/ingredients', `${blogSlug}.json`));
+    if (isIngredientBlog) {
+      const sourceJsonPath = path.join(__dirname, 'data/ingredients/items', `${blogSlug}.json`);
+      if (!fs.existsSync(sourceJsonPath)) {
+        logError(`[원천 데이터 누락] '${blogSlug}' 에 대응하는 원시 식재료 데이터 파일이 존재하지 않습니다: src/data/ingredients/items/${blogSlug}.json`);
+      }
+    }
+
+    const isPetBlog = fs.existsSync(path.join(__dirname, 'data/blogs/pets', `${blogSlug}.json`));
+    if (isPetBlog) {
+      const sourceJsonPath = path.join(__dirname, 'data/pets/items', `${blogSlug}.json`);
+      if (!fs.existsSync(sourceJsonPath)) {
+        logError(`[원천 데이터 누락] '${blogSlug}' 에 대응하는 원시 반려동물 데이터 파일이 존재하지 않습니다: src/data/pets/items/${blogSlug}.json`);
+      }
+    }
+
     if (!hasErrors) {
       logOk(`${blogSlug} 포스트 다국어 검증 완료`);
     }

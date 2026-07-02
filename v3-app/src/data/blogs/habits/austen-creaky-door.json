@@ -1,0 +1,202 @@
+{
+  "austen-creaky-door": {
+    "title": {
+      "en": "Protecting Creative Focus with a Creaky Door: Jane Austen's Distraction Barrier",
+      "ja": "きしむドアで創作を守る：ジェーン・オースティンの集中防護壁",
+      "zh": "用吱呀作响的的门守护创作：简·奥斯汀的专注屏障",
+      "es": "Proteger el enfoque creativo con una puerta chirriante: La barrera contra distracciones de Jane Austen",
+      "fr": "Protéger la concentration par une porte qui grince : Le pare-distraction de Jane Austen",
+      "de": "Fokus schützen mit einer quienschenden Tür: Jane Austens Ablenkungsschutz",
+      "pt": "Proteger o foco criativo com uma porta rangente: A barreira contra distrações de Jane Austen",
+      "id": "Melindungi Fokus Kreatif dengan Pintu Berderit: Penghalang Gangguan Jane Austen"
+    },
+    "description": {
+      "en": "Jane Austen intentionally left a creaky door unrepaired to alert her of interruptions. Learn how to design focus boundaries in the modern world.",
+      "ja": "ジェーン・オースティンは、邪魔が入るのを察知するために、あえてきしむドアを修理せずに残しました。現代における集中境界線の設計法を学びます。",
+      "zh": "简·奥斯汀故意不修理吱呀作响的门，以便在有人打扰时提醒自己。学习如何在现代设计专注边界。",
+      "es": "Jane Austen dejó una puerta chirriante sin reparar para alertarse de interrupciones. Aprenda a diseñar límites de enfoque en el mundo moderno.",
+      "fr": "Jane Austen a sciemment laissé une porte grincer pour être alertée des intrusions. Apprenez à concevoir des limites de concentration aujourd'hui.",
+      "de": "Jane Austen ließ eine quietschende Tür absichtlich unrepariert, um vor Störungen gewarnt zu sein. Erfahren Sie, wie Sie Fokusgrenzen gestalten.",
+      "pt": "Jane Austen deixou uma porta rangente por reparar para ser alertada sobre interrupções. Aprenda a desenhar limites de foco no mundo moderno.",
+      "id": "Jane Austen sengaja membiarkan pintu yang berderit tidak diperbaiki untuk memperingatkannya akan gangguan. Pelajari cara merancang batas fokus."
+    },
+    "authority": {
+      "en": "Jane Austen's biography & Cognitive Psychology research on task-switching costs",
+      "ja": "ジェーン・オースティンの伝記 ＆ タスク切り替えコストに関する認知心理学研究",
+      "zh": "简·奥斯汀传记及关于任务切换成本的认知心理学研究",
+      "es": "Biografía de Jane Austen y estudio de psicología cognitiva sobre los costos del cambio de tareas",
+      "fr": "Biographie de Jane Austen & recherche en psychologie cognitive sur le coût du changement de tâche",
+      "de": "Jane Austens Biografie & kognitionspsychologische Forschung zu Aufgabenwechselkosten",
+      "pt": "Biografia de Jane Austen e estudo de psicologia cognitiva sobre os custos da alternância de tarefas",
+      "id": "Biografi Jane Austen & penelitian Psikologi Kognitif tentang biaya pengalihan tugas"
+    },
+    "intro": {
+      "en": "Jane Austen, the legendary English novelist who created masterpieces like 'Pride and Prejudice.' Working in a shared family room, she had to defend her fragile focus from constant interruptions. Instead of fixing her squeaky door, she left it broken to serve as a natural alert system. Today, BuildSelf reveals how establishing sensory focus boundaries can shield your deep work.",
+      "ja": "『傲慢と偏見』などの傑作を生み出した伝説のイギリスの小説家、ジェーン・オースティン. 家族と共有する居間で執筆していた彼女は,絶え間ない妨害から自身の脆い集中力を守る必要がありました. 彼女はきしむドアを修理する代わりに、それを自然な警告システムとして活用しました. 本日、BuildSelfでは、感覚的な集中境界線を確立することで、いかにディープワークを守り抜くかを紹介します.",
+      "zh": "简·奥斯汀，创作出《傲慢与偏见》等杰作的英国传奇小说家。在与家人共享的客厅里写作时，她必须保护自己脆弱的专注力免受不断的干扰。她没有修理吱呀作响的门，而是让它坏着，作为天然的警报系统。今天，BuildSelf向您揭示建立感官专注边界如何能够屏蔽外界干扰，保护您的深度工作。",
+      "es": "Jane Austen, la legendaria novelista inglesa autora de obras maestras como 'Orgullo y prejuicio'. Al trabajar en una sala familiar compartida, debía defender su frágil concentración de las interrupciones. En lugar de reparar su puerta chirriante, la dejó rota para que sirviera como un sistema de alerta natural. Hoy, BuildSelf revela cómo establecer límites de enfoque puede proteger tu trabajo profundo.",
+      "fr": "Jane Austen, légendaire romancière anglaise, autrice de chefs-d'œuvre comme « Orgueil et Préjugés ». Travaillant dans le salon familial, elle devait protéger sa concentration des interruptions. Plutôt que de réparer la porte qui grinçait, elle s'en servit comme avertisseur. Aujourd'hui, BuildSelf montre comment instaurer des barrières sensorielles protège votre travail.",
+      "de": "Jane Austen, die legendäre englische Schriftstellerin, die Meisterwerke wie „Stolz und Vorurteil“ schuf. Da sie im gemeinsamen Wohnzimmer der Familie schrieb, musste sie ihren Fokus vor ständigen Störungen schützen. Statt die quietschende Tür zu reparieren, nutzte sie diese als Warnsystem. Heute zeigt BuildSelf, wie Sie sensorische Fokusgrenzen zum Schutz Ihrer Arbeit errichten.",
+      "pt": "Jane Austen, a lendária romancista inglesa que criou obras-primas como 'Orgulho e Preconceito'. Trabalhando numa sala familiar partilhada, tinha de defender o seu foco das interrupções constantes. Em vez de reparar a porta rangente, deixou-a assim para servir como sistema de alerta natural. Hoje, o BuildSelf revela como estabelecer limites de foco pode proteger o seu trabalho.",
+      "id": "Jane Austen, novelis legendaris Inggris yang menciptakan mahakarya seperti 'Pride and Prejudice.' Bekerja di ruang keluarga bersama, ia harus mempertahankan fokusnya dari gangguan terus-menerus. Bukannya memperbaiki pintunya yang berderit, ia membiarkannya rusak untuk berfungsi as sistem peringatan alami. Hari ini, BuildSelf mengungkapkan bagaimana menetapkan batas fokus sensorik dapat melindungi kerja mendalam Anda."
+    },
+    "whyTitle": {
+      "en": "The Cognitive Cost of Task Switching and Attention residue",
+      "ja": "タスク切り替えの認知コストと注意の残留",
+      "zh": "任务切换的认知成本与注意力残留",
+      "es": "El costo cognitivo del cambio de tareas y el residuo de atención",
+      "fr": "Le coût cognitif du changement de tâche et le résidu d'attention",
+      "de": "Die kognitiven Kosten des Aufgabenwechsels und Aufmerksamkeitsrückstände",
+      "pt": "O custo cognitivo da alternância de tarefas e o resíduo de atenção",
+      "id": "Biaya Kognitif dari Pengalihan Tugas dan Residu Perhatian"
+    },
+    "whyDesc": {
+      "en": "Every interruption during deep focus triggers a 'cognitive switch cost.' When attention is abruptly diverted, it takes an average of 23 minutes to return to the original task due to 'attention residue' left by the interruption. Austen's creaky door functioned as an early warning cue, giving her brain a few precious seconds to wrap up her train of thought before engaging with others. In cognitive science, this is known as establishing a 'sensory boundary' to preserve mental momentum.",
+      "ja": "深い集中状態のときに妨害が入ると、「タスク切り替えコスト」が発生します。注意が突然そらされると、妨害によって残された「注意の残留」により、元のタスクに戻るまでに平均23分かかります。オースティンのきしむドアは早期警告の役割を果たし、誰かと接する前に思考をまとめるための貴重な数秒間を脳に与えました。認知科学では、これは思考の勢いを維持するための「感覚的境界線」の確立として知られています。",
+      "zh": "深度专注期间的每一次打扰都会触发“认知切换成本”。由于干扰留下的“注意力残留”，当注意力突然被转移时，平均需要23分钟才能回到原来的任务上。奥斯汀吱呀作响的门起到了早期预警线索的作用，让她的大脑在与他人接触前有几秒钟宝贵的时间来整理思路。在认知科学中，这被称为建立“感官边界”以保持心理动力。",
+      "es": "Cada interrupción durante el enfoque profundo genera un 'costo de cambio cognitivo'. Cuando la atención se desvía bruscamente, se necesitan un promedio de 23 minutos para volver a la tarea original debido al 'residuo de atención'. La puerta de Austen funcionaba como una advertencia temprana, dando a su cerebro unos segundos para cerrar sus pensamientos. En ciencia cognitiva, esto se conoce como establecer un 'límite sensorial'.",
+      "fr": "Chaque interruption lors d'une concentration profonde engendre un « coût cognitif de changement ». Si l'attention est détournée, il faut en moyenne 23 minutes pour revenir à la tâche initiale en raison du « résidu d'attention ». La porte de Jane Austen servait d'avertisseur, donnant à son cerveau quelques secondes pour boucler sa pensée. En sciences cognitives, on appelle cela instaurer une « frontière sensorielle ».",
+      "de": "Jede Unterbrechung im Deep Work verursacht kognitive Wechselkosten. Durch Aufmerksamkeitsrückstände dauert es im Schnitt 23 Minuten, um zur ursprünglichen Aufgabe zurückzukehren. Austens quietschende Tür diente als Frühwarnung, die ihrem Gehirn wertvolle Sekunden gab, um einen Gedanken zu beenden. In der Kognitionswissenschaft nennt man dies das Errichten einer sensorischen Grenze.",
+      "pt": "Cada interrupção durante o foco profundo gera um 'custo de alternância cognitiva'. Quando a atenção é desviada, são necessários em média 23 minutos para voltar à tarefa original devido ao 'resíduo de atenção'. La porta de Austen funcionava como aviso prévio, dando ao cérebro alguns segundos para fechar os pensamentos. Na ciência cognitiva, isto é conhecido como estabelecer um 'limite sensorial'.",
+      "id": "Setiap gangguan selama fokus mendalam memicu 'biaya peralihan kognitif.' Ketika perhatian tiba-tiba dialihkan, dibutuhkan rata-rata 23 menit untuk kembali ke tugas awal karena 'residu perhatian' yang ditinggalkan oleh gangguan tersebut. Pintu berderit Austen berfungsi as isyarat peringatan dini, memberi otaknya beberapa detik berharga untuk menyelesaikan jalan pikirannya sebelum berinteraksi dengan orang lain. Dalam ilmu kognitif, ini dikenal sebagai menetapkan 'batas sensorik' untuk mempertahankan momentum mental."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Establish a clear physical focus boundary",
+          "ja": "物理的な集中境界線の設定",
+          "zh": "建立明确的物理专注边界",
+          "es": "Establece un límite de enfoque físico claro",
+          "fr": "Instaurer une limite physique claire",
+          "de": "Errichten Sie eine klare physische Fokusgrenze",
+          "pt": "Estabeleça um limite de foco físico claro",
+          "id": "Tetapkan batas fokus fisik yang jelas"
+        },
+        "text": {
+          "en": "Choose a specific space and close the door, or use visual indicators like putting on over-ear headphones to signal that you are in deep work and should not be disturbed.",
+          "ja": "特定の空間を選んでドアを閉めるか、オーバーイヤーヘッドホンを着用するなどして、ディープワーク中であり邪魔をされたくないという視覚的な合図を示します。",
+          "zh": "选择一个特定的空间并关上门，或者使用视觉指示物（例如戴上罩耳式耳机），以表明您正在进行深度工作，不应受到打扰。",
+          "es": "Elige un espacio específico y cierra la puerta, o usa indicadores visuales como ponerte auriculares grandes para indicar que estás trabajando profundamente y no deben molestarte.",
+          "fr": "Choisissez un espace précis et fermez la porte, ou utilisez des repères visuels (comme un casque audio) pour signaler que vous travaillez et ne devez pas être dérangé.",
+          "de": "Wählen Sie einen Bereich und schließen Sie die Tür, oder nutzen Sie visuelle Signale wie Over-Ear-Kopfhörer, um zu zeigen, dass Sie nicht gestört werden möchten.",
+          "pt": "Escolha um espaço específico e feche a porta, ou use indicadores visuais como colocar auscultadores grandes para sinalizar que está a trabalhar profundamente e não deve ser incomodado.",
+          "id": "Pilih ruang tertentu dan tutup pintunya, atau gunakan indikator visual seperti mengenakan headphone over-ear untuk menandakan bahwa Anda sedang bekerja mendalam..."
+        }
+      },
+      {
+        "name": {
+          "en": "Pre-emptively communicate your focus hours",
+          "ja": "事前遮断と協同の約束",
+          "zh": "提前沟通您的专注时间",
+          "es": "Comunica previamente tus horas de enfoque",
+          "fr": "Communiquer vos heures de concentration à l'avance",
+          "de": "Kommunizieren Sie Ihre Fokuszeiten im Vorfeld",
+          "pt": "Comunique previamente as suas horas de foco",
+          "id": "Komunikasikan jam fokus Anda terlebih dahulu"
+        },
+        "text": {
+          "en": "Inform family members or colleagues of your specific deep work blocks. Let them know that during these times, you will respond only to emergencies.",
+          "ja": "家族や同僚に、自分が集中する時間帯を事前に伝えておきます。この時間帯は緊急の要件以外には返信しないことを周知させておきます。",
+          "zh": "通知家人或同事您具体的深度工作时间段。让他们知道，在这些时间段内，您只会处理紧急情况。",
+          "es": "Informa a tus familiares o colegas sobre tus bloques de trabalho profundo. Hazles saber que durante esas horas solo responderás a emergencias.",
+          "fr": "Informez vos proches ou vos collègues de vos plages de concentration. Faites-leur savoir qu'à ces moments-là, vous ne répondrez qu'aux urgences.",
+          "de": "Informieren Sie Familie oder Kollegen über Ihre Deep-Work-Blöcke. Teilen Sie ihnen mit, dass Sie in dieser Zeit nur auf absolute Notfälle reagieren.",
+          "pt": "Informe familiares ou colegas sobre os seus blocos de trabalho profundo. Diga-lhes que durante essas horas apenas responderá a emergências.",
+          "id": "Informasikan kepada anggota keluarga atau kolega tentang blok kerja mendalam Anda. Beritahu mereka bahwa selama waktu-waktu ini..."
+        }
+      },
+      {
+        "name": {
+          "en": "Set up an early warning notification system",
+          "ja": "認知転換の早期アラートシステムの構築",
+          "zh": "设置早期预警通知系统",
+          "es": "Configura un sistema de notificación de advertencia temprana",
+          "fr": "Créer un système d'alerte précoce",
+          "de": "Richten Sie ein Frühwarnsystem ein",
+          "pt": "Configure um sistema de notificação de aviso prévio",
+          "id": "Siapkan sistem pemberitahuan peringatan dini"
+        },
+        "text": {
+          "en": "Use customized notifications or alarms to transition in and out of tasks. Knowing you have a few minutes' cue before a scheduled meeting helps wrap up cognitive processes gracefully.",
+          "ja": "タスクの開始や終了の移行をサポートするために、カスタム通知やアラームを使用します。予定されている会議の数分前に合図があることを知っていれば、脳の思考処理をスマートに締めくくることができます。",
+          "zh": "使用自定义通知或警报来过渡任务。提前几分钟知道会议的预警线索有助于优雅地收尾认知过程。",
+          "es": "Usa alarmas personalizadas para la transición entre tareas. Saber que tienes una advertencia unos minutos antes de una reunión ayuda a cerrar tus procesos cognitivos con calma.",
+          "fr": "Utilisez des alarmes personnalisées pour effectuer les transitions. Savoir que vous avez un signal quelques minutes avant une réunion vous aide à conclure calmement vos pensées.",
+          "de": "Nutzen Sie benutzerdefinierte Alarme für Ihre Aufgabenwechsel. Ein Signal wenige Minuten vor einem Termin hilft dem Gehirn, Gedanken geordnet abzuschließen.",
+          "pt": "Use alarmes personalizados para a transição entre tarefas. Saber que tem um aviso alguns minutos antes de uma reunião ajuda a fechar os seus processos cognitivos com calma.",
+          "id": "Gunakan pemberitahuan atau alarm yang disesuaikan untuk bertransisi masuk..."
+        }
+      }
+    ],
+    "cautionTitle": {
+      "en": "A cognitive-psychological rule for focus defense",
+      "ja": "安定した集中を維持するための認知心理学的アドバイス",
+      "zh": "关于专注防线的认知心理学建议",
+      "es": "Un consejo de la psicología cognitiva para defender el enfoque",
+      "fr": "Un conseil de psychologie cognitive pour défendre la concentration",
+      "de": "Ein kognitionspsychologischer Ratschlag zum Schutz des Fokus",
+      "pt": "Um conselho da psicologia cognitiva para defender o foco",
+      "id": "Saran psikologi kognitif untuk pertahanan fokus"
+    },
+    "cautionDesc": {
+      "en": "Relying on willpower to ignore distractions is a losing strategy. Cognitive efficiency is achieved by creating a physical environment that actively shields you from interruptions. Design a clear boundary, warn others, and keep your cognitive momentum.",
+      "ja": "意志の力だけに頼って妨害を無視しようとするのは、賢明な戦略ではありません. 認知的な効率は、外部からの干渉を能動的に防ぐ物理的環境を構築することによって達成されます. 明確な境界線を設計し、周囲に知らせ、認知の勢いを維持しましょう.",
+      "zh": "仅靠意志力来忽略分心是注定要失败的策略。认知的效率是通过创造一个能主动屏蔽干扰的物理环境来实现的。设计一条明确的边界，警示他人，并保持您的认知动力。",
+      "es": "Confiar en la fuerza de voluntad para ignorar las distracciones es una estrategia perdedora. La eficiencia cognitiva se logra creando un entorno físico que te proteja activamente de las interrupciones. Diseña un límite claro, advierte a los demás y mantén tu impulso.",
+      "fr": "Compter sur sa seule volonté pour ignorer les distractions est une mauvaise stratégie. L'efficacité cognitive s'obtient en créant un environnement physique qui vous protège des intrusions. Marquez une limite claire, informez votre entourage et gardez votre élan.",
+      "de": "Sich auf Willenskraft zu verlassen, um Ablenkungen zu ignorieren, ist eine schlechte Strategie. Kognitive Effizienz entsteht durch ein Umfeld, das Sie aktiv vor Störungen schützt. Setzen Sie Grenzen, informieren Sie andere und wahren Sie Ihren Fokus.",
+      "pt": "Confiar na força de vontade para ignorar as distrações é uma estratégia perdedora. A eficiência cognitiva é alcançada ao criar um ambiente físico que o proteja ativamente das interrupos. Desenhe um limite claro, avise os outros e mantenha o seu impulso.",
+      "id": "Mengandalkan tekad untuk mengabaikan gangguan adalah strategi yang kalah. Efisiensi kognitif dicapai..."
+    },
+    "faqs": [
+      {
+        "question": {
+          "ko": "제인 오스틴은 왜 개인 서재 대신 삐걱거리는 문이 있는 거실에서 글을 썼나요?",
+          "en": "Why did Jane Austen write in a shared parlor with a creaky door instead of a private study?",
+          "ja": "ジェーン・オースティンはなぜ個人の書斎ではなく、きしむドアのある共有の居間で執筆したのですか？",
+          "zh": "简·奥斯汀为什么要在有吱呀作响的门的共用客厅里写作，而不是在私人的书房里？",
+          "es": "¿Por qué Jane Austen escribía en una sala compartida en lugar de un estudio privado?",
+          "fr": "Pourquoi Jane Austen écrivait-elle dans un salon commun plutôt que dans un bureau privé ?",
+          "de": "Warum schrieb Jane Austen im gemeinsamen Wohnzimmer statt in einem privaten Arbeitszimmer?",
+          "pt": "Porque é que Jane Austen escrevia numa sala partilhada em vez de num escritório privado?",
+          "id": "Mengapa Jane Austen menulis di ruang tamu bersama dengan pintu berderit, bukan di ruang kerja pribadi?"
+        },
+        "answer": {
+          "ko": "19세기 영국에서는 여성 작가에게 독립된 서재가 주어지는 경우가 매우 드물었습니다. 오스틴 역시 거실이라는 공유 공간에서 글을 써야 했기에, 삐걱거리는 문을 이용해 가족들의 갑작스러운 방문을 인지하고 원고를 가릴 시간을 벌었습니다.",
+          "en": "In 19th-century England, it was very rare for female writers to have a private study. Writing in a shared family room, Austen used the creaky door to detect visitors and hide her manuscripts in time.",
+          "ja": "19世紀のイギリスでは、女性作家に独立した書斎が与えられることは極めて稀でした. オースティンも居間という共有スペースで執筆せざるを得なかったため、きしむドアを利用して家族の突然の訪問を察知し、原稿を隠す時間を稼ぎました.",
+          "zh": "在19世纪的英国，女性作家拥有私人书房是非常罕见的。在共用的家庭客厅里写作，奥斯汀利用吱呀作响的门来察觉访客，从而及时藏起她的手稿。",
+          "es": "En la Inglaterra del siglo XIX, era muy raro que las escritoras tuvieran un estudio privado. Al escribir en una sala compartida, Austen usaba el ruido de la puerta para anticipar visitas y ocultar sus manuscritos a tiempo.",
+          "fr": "Dans l'Angleterre du XIXe siècle, il était très rare pour une femme d'avoir son propre bureau. Travaillant dans le salon commun, Jane Austen utilisait ce grincement pour masquer ses manuscrits avant l'arrivée des visiteurs.",
+          "de": "Im England des 19. Jahrhunderts hatten Frauen selten ein eigenes Arbeitszimmer. Da sie im gemeinsamen Raum schrieb, nutzte Austen die quietschende Tür, um Besucher rechtzeitig zu bemerken und ihre Manuskripte zu verstecken.",
+          "pt": "Porque é que Jane Austen escrevia numa sala partilhada em vez de num escritório privado?",
+          "id": "Di Inggris abad ke-19, sangat jarang bagi penulis wanita memiliki ruang kerja pribadi..."
+        }
+      },
+      {
+        "question": {
+          "ko": "현대적인 디지털 환경에서 이 방식을 어떻게 적용할 수 있나요?",
+          "en": "How can I apply this creaky door rule in a modern digital environment?",
+          "ja": "現代のデジタル環境でこのルールをどのように適用できますか？",
+          "zh": "如何在现代数字环境中应用这种“吱呀作响的门”规则？",
+          "es": "¿Cómo puedo aplicar esta regla de la puerta chirriante en un entorno digital moderno?",
+          "fr": "Comment appliquer cette astuce dans un environnement numérique moderne ?",
+          "de": "Wie kann ich diese Regel in einer modernen digitalen Umgebung anwenden?",
+          "pt": "Como posso aplicar esta regra da porta rangente num ambiente digital moderno?",
+          "id": "Bagaimana cara menerapkan aturan pintu berderit ini di lingkungan digital modern?"
+        },
+        "answer": {
+          "ko": "메신저 상태를 '방해 금지'나 '통화 중'으로 설정하여 외부의 직접적인 알림 유입을 차단하고, 중요한 커뮤니케이션 도구만 지정된 시간 간격으로 알림이 오도록 조절하여 예상치 못한 인지 중단을 제어할 수 있습니다.",
+          "en": "You can block incoming notifications by setting chat statuses to 'Do Not Disturb' or 'Busy,' and configure tools to batch notifications at set intervals to control unexpected cognitive interruptions.",
+          "ja": "チャットツールのステータスを「取り込み中」や「応答不可」に設定して外部からの通知を遮断し、重要な連絡だけが一定の間隔で通知されるように設定することで,予期せぬ集中の中断を制御できます.",
+          "zh": "您可以通过将聊天状态设置为“请勿打扰”或“忙碌”来屏蔽来信通知，并配置工具以设定的时间间隔批量推送通知，从而控制意外的认知中断。",
+          "es": "Puedes bloquear notificaciones configurando tu estado en 'No molestar' o 'Ocupado', y configurar tus herramientas para recibir notificaciones en intervalos específicos, evitando interrupciones.",
+          "fr": "Vous pouvez bloquer les notifications en passant votre statut en « Ne pas déranger » ou « Occupé », et configurer vos outils pour regrouper les alertes à intervalles réguliers.",
+          "de": "Sie können Benachrichtigungen blockieren, indem Sie Ihren Status auf „Bitte nicht stören“ setzen, und Ihre Programme so konfigurieren, dass sie Meldungen in Intervallen bündeln.",
+          "pt": "Pode bloquear notificações configurando o seu estado para 'Não incomodar' ou 'Ocupado', e configurar as suas ferramentas para receber notificações em intervalos específicos, evitando interrupciones.",
+          "id": "Anda dapat memblokir pemberitahuan masuk dengan menyetel status obrolan ke 'Jangan Ganggu'..."
+        }
+      }
+    ]
+  }
+}

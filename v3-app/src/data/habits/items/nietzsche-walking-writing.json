@@ -1,0 +1,37 @@
+{
+  "id": "nietzsche-walking-writing",
+  "name": "프리드리히 니체",
+  "gender": "male",
+  "era": "근대",
+  "location": "독일",
+  "lifespan": "1844 - 1900",
+  "birthYear": 1844,
+  "bio": "\"신은 죽었다\"라는 선언을 통해 현대 철학의 포문을 열고, 초인(Übermensch) 사상을 제시한 독일의 실존주의 철학자입니다.",
+  "habitName": "걸으면서 생각하고 수첩에 기록하기",
+  "tags": [
+    "#산책",
+    "#사색",
+    "#아이디어",
+    "#창의성"
+  ],
+  "timeOfDay": "afternoon",
+  "requiredItems": [
+    "휴대용 작은 수첩과 펜"
+  ],
+  "frequency": "daily",
+  "historicalStory": "니체는 평생 극심한 두통과 안질환에 시달렸지만, 스위스 실스 마리아 등지에서 하루에 최대 8시간 동안 산으로 둘러싸인 숲길을 걸으며 깊은 사색에 빠졌습니다. 그는 걸을 때 비로소 생각의 족쇄가 풀린다고 믿었고, 산책 도중 떠오르는 아이디어를 즉석에서 주머니의 수첩에 기록하여 위대한 저작들을 완성했습니다.",
+  "sciencePrinciples": "일정한 리듬으로 걷는 운동은 심박수를 완만히 증가시켜 뇌로 향하는 산소와 혈류 공급을 원활하게 합니다. 무엇보다 인위적인 과부하에서 벗어나 디폴트 모드 네트워크(DMN)를 활성화시켜 서로 다른 아이디어를 연합하는 뇌의 '확산 모드' 사고를 강하게 유도합니다.",
+  "quote": "모든 진정으로 위대한 생각들은 걷는 동안 배태된다.",
+  "trigger": "오후 업무나 공부 도중 머리가 무거워질 때",
+  "modernGuide": [
+    "스마트폰을 완전히 무음으로 설정하여 주머니에 넣거나 두고 나옵니다.",
+    "자연을 접할 수 있는 한적한 공원이나 길을 찾아 30분 이상 가벼운 템포로 걷습니다.",
+    "생각을 억지로 쥐어짜지 않고 머릿속에 떠오르는 통찰이 있다면 멈춰 서서 소형 노트에 직접 손글씨로 적습니다."
+  ],
+  "actionName": "오후 아이디어 활성화를 위한 30분 아날로그 산책 (니체 루틴)",
+  "sources": [
+    "Friedrich Nietzsche, *Ecce Homo* (1888)",
+    "Friedrich Nietzsche, *The Wanderer and His Shadow* (1880)",
+    "Stanford Study, *Give Your Ideas Some Legs: The Positive Effect of Walking on Creative Thinking* (2014)"
+  ]
+}
