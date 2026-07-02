@@ -48,7 +48,7 @@ const activeTextColor = textColors[app as string] || 'text-teal-600';
   title={`${title} | ${app}`} 
   lang={lang as string} 
   robots="noindex, follow" 
-  appId={app === 'general' ? undefined : app}
+  appId={(app === 'general' ? undefined : app) as any}
 >
   <main class="w-full min-h-screen pt-32 pb-24 px-6">
     <div class="max-w-3xl mx-auto">
