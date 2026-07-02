@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "걸으며 철학을 완성하다: 프리드리히 니체의 산책 집필 루틴"
 description: "위대한 철학자 프리드리히 니체. 하루 최대 8시간 동안 산책하며 사유를 확장하고 현장에서 수첩에 글을 썼던 그의 독특한 산책 루틴과 3단계 현대적 인지 활성화 실천법을 알아봅니다."
-pubDate: "2026-07-02"
+pubDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["위인 습관", "프리드리히 니체", "창의성", "산책", "아이디어"]
 heroImage: "/images/blog/nietzsche_walking_writing.png"
 app: "buildself"
 authority: "프리드리히 니체 서한집 및 보행과 창의성 인지과학 연구"
-updatedDate: "2026-07-02"
+updatedDate: "2026-04-27"
 faqs:
   - question: "니체는 구체적으로 언제 걸었나요?"
     answer: "니체는 주로 아침 식사 후부터 점심시간 전까지, 그리고 늦은 오후에 걸었습니다. 특히 산길과 숲길을 걸으며 자연 속에서 철학적 영감을 얻는 것을 선호했습니다."

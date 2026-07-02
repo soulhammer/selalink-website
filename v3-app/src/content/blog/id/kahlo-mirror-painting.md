@@ -1,8 +1,8 @@
 ---
 title: "Melukis Diri Terrefleksi di Langit-Langit Tempat Tidur? Rutinitas Potret Diri Cermin Frida Kahlo"
 description: "Frida Kahlo, pelukis Meksiko yang legendaris. Temukan rutinitas hariannya melukis potret diri menggunakan cermin di langit-langit tempat tidurnya, dan manfaat klinis dari menatap cermin."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["Melukis Di","Routine"]
 heroImage: "/images/blog/kahlo_mirror_painting.png"

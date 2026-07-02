@@ -1,8 +1,8 @@
 ---
 title: "将自己画在床顶的镜子中？弗里达·卡罗的镜面自画像惯例"
 description: "墨西哥传奇画家弗里达·卡罗。分析她在全身骨折的剧烈痛苦中，通过床顶镜子每天坚持画自画像的克服习惯，以及凝视镜面带来的临床心理学疗愈效果。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["将自己画在床顶的镜子","Routine"]
 heroImage: "/images/blog/kahlo_mirror_painting.png"

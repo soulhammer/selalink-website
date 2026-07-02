@@ -1,8 +1,8 @@
 ---
 title: "¿Despertar a medianoche para escribir más de 10 horas con café? La rutina de hiperenfoque extremo de Balzac"
 description: "El secreto de gestión del tiempo de Honoré de Balzac, el gran autor francés del siglo XIX. Conozca los efectos científicos del hiperenfoque mediante el despertar a medianoche y la activación por cafeína."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["¿Despertar","Routine"]
 heroImage: "/images/blog/balzac_extreme_focus.png"

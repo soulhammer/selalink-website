@@ -1,8 +1,8 @@
 ---
 title: "Membangkitkan Kewaspadaan Kognitif dengan Air Dingin: Rutinitas Rendam Kaki Thomas Jefferson"
 description: "Thomas Jefferson memulai setiap pagi dengan merendam kakinya di air dingin selama 60 tahun. Pahami manfaat neurosains dari kewaspadaan termal."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["Membangkit","Routine"]
 heroImage: "/images/blog/jefferson_cold_foot_bath.png"

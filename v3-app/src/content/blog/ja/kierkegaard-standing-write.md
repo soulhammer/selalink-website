@@ -1,8 +1,8 @@
 ---
 title: "散歩から帰るや否や帽子をかぶったまま立って書いた哲学者？キェルケゴールの即時捕捉習慣"
 description: "実存主義哲学者セーレン・キェルケゴールがひらめく思索を失わなかった方法。ドアを開けるや否や衣服も脱がずにスタンディングデスクに向かって立って執筆した彼のインスピレーション保存法を紹介します。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["散歩から帰るや否や帽","Routine"]
 heroImage: "/images/blog/kierkegaard_standing_write.png"

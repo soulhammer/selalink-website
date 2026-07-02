@@ -1,8 +1,8 @@
 ---
 title: "Despertar o alerta cognitivo com água fria: A rotina de banho de pés de Thomas Jefferson"
 description: "Thomas Jefferson começou cada manhã mergulhando os pés em água fria durante 60 anos. Entenda os beneficios neurocientíficos do alerta térmico."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["Despertar ","Routine"]
 heroImage: "/images/blog/jefferson_cold_foot_bath.png"

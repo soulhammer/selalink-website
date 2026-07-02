@@ -1,8 +1,8 @@
 ---
 title: "Frida Kahlo's Mirror Self-Portrait Routine: Drawing Self on the Ceiling"
 description: "Frida Kahlo, the legendary Mexican painter. Discover her daily routine of painting self-portraits using a mirror on her bed canopy during severe illness, and the clinical benefits of mirror-gazing."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["Great Habits","kahlo","Routine","Stamina"]
 heroImage: "/images/blog/kahlo_mirror_painting.png"

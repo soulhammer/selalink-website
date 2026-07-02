@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "노벨상 수상자의 초고속 학습법? 리처드 파인만의 가르치기 습관"
 description: "어려운 양자역학을 10세 어린이도 이해할 수 있게 가르쳤던 리처드 파인만의 비결. 메타인지를 극대화하여 지식을 완전히 내 것으로 만드는 파인만 테크닉 루틴을 소개합니다."
-pubDate: "2026-07-02"
+pubDate: "2026-02-11"
 category: "BuildSelf"
 tags: ["위인 습관", "리처드 파인만", "공부법", "메타인지", "자기계발"]
 heroImage: "/images/blog/feynman_explanation_technique.png"
 app: "buildself"
 authority: "리처드 파인만 저 '파인만씨, 농담도 잘하시네!' 및 교육심리학리뷰(Educational Psychology Review)"
-updatedDate: "2026-07-02"
+updatedDate: "2026-02-11"
 faqs:
   - question: "설명해 줄 진짜 어린아이가 주변에 없는데 어떻게 하나요?"
     answer: "현역 대학생이나 직장 동료, 혹은 책상 위에 있는 가상의 인형이나 10세 수준의 인공지능 챗봇을 대상으로 삼아도 좋으며, 핵심은 '전문 용어를 제외하고 초등학생도 이해할 단어 수준으로 본인의 말과 글을 검열하는 필터링 과정'을 거치는 것입니다."

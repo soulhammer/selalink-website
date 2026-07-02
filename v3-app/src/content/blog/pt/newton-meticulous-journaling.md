@@ -1,8 +1,8 @@
 ---
 title: "O Waste Book de Isaac Newton: organizando o caos através do registro meticuloso"
 description: "Isaac Newton, o maior cientista da história. Analise a sua rotina de registar todos os insights e cálculos num grande caderno de couro, e os benefícios da escrita à mão para o cérebro."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-30"
+updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["O Waste Bo","Routine"]
 heroImage: "/images/blog/newton_meticulous_journaling.png"

@@ -1,8 +1,8 @@
 ---
 title: "Kognitive Wachheit durch kaltes Wasser: Thomas Jeffersons Fußbad-Routine"
 description: "Thomas Jefferson begann 60 Jahre lang jeden Morgen damit, seine Füße in kaltem Wasser zu tauchen. Verstehen Sie die Vorteile thermischer Reize."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["Kognitive ","Routine"]
 heroImage: "/images/blog/jefferson_cold_foot_bath.png"

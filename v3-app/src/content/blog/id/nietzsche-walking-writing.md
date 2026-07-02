@@ -1,8 +1,8 @@
 ---
 title: "Menulis Filsafat dengan Setiap Langkah: Rutinitas Berjalan Friedrich Nietzsche"
 description: "Friedrich Nietzsche berjalan hingga 8 jam sehari untuk merangsang kreativitasnya. Temukan manfaat kognitif dari flow yang dipicu oleh gerakan."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-27"
+updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Menulis Fi","Routine"]
 heroImage: "/images/blog/nietzsche_walking_writing.png"

@@ -1,8 +1,8 @@
 ---
 title: "¿Pintarse reflejada en el techo de la cama? La rutina de autorretrato en el espejo de Frida Kahlo"
 description: "Frida Kahlo, la legendaria pintora mexicana. Analice su rutina de pintar autorretratos con un espejo en el dosel de su cama y los beneficios del espejo para la curación."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["¿Pintarse ","Routine"]
 heroImage: "/images/blog/kahlo_mirror_painting.png"

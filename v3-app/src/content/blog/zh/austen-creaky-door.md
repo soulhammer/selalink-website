@@ -1,8 +1,8 @@
 ---
 title: "用吱呀作响的的门守护创作：简·奥斯汀的专注屏障"
 description: "简·奥斯汀故意不修理吱呀作响的门，以便在有人打扰时提醒自己。学习如何在现代设计专注边界。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["用吱呀作响的的门守护","Routine"]
 heroImage: "/images/blog/austen_creaky_door.png"

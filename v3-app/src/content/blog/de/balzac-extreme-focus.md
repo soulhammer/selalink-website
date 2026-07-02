@@ -1,8 +1,8 @@
 ---
 title: "Um Mitternacht aufstehen, um mit Kaffee 10+ Stunden zu schreiben? Balzacs extreme Hyperfokus-Routine"
 description: "Das Zeitmanagement-Geheimnis von Honoré de Balzac, einem Riesen der französischen Literatur des 19. Jahrhunderts. Entdecken Sie die wissenschaftlichen Effekte von Hyperfokus durch nächtliches Aufstehen und Kaffee."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["Um Mittern","Routine"]
 heroImage: "/images/blog/balzac_extreme_focus.png"

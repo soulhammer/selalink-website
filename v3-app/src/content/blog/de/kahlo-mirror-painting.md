@@ -1,8 +1,8 @@
 ---
 title: "Sich selbst an der Bettdecke malen? Frida Kahlos Routine des Selbstporträts im Spiegel"
 description: "Frida Kahlo, die legendäre mexikanische Malerin. Analysieren Sie ihre Routine, Selbstporträts mithilfe eines Spiegels am Betthimmel zu malen, und die kognitiven Vorteile dieser Methode."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["Sich selbs","Routine"]
 heroImage: "/images/blog/kahlo_mirror_painting.png"

@@ -1,8 +1,8 @@
 ---
 title: "Forzar la concentración mediante el autoaislamiento: La rutina de afeitado de Victor Hugo"
 description: "Victor Hugo se afeitó la mitad del cabello y la barra para evitar salir de su estudio. Descubra los beneficios cognitivos de las limitaciones ambientales."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Forzar la ","Routine"]
 heroImage: "/images/blog/hugo_hair_shaving.png"

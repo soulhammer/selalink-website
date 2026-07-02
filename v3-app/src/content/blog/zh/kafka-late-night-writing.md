@@ -1,8 +1,8 @@
 ---
 title: "在极度宁静中诞生杰作？弗兰茨·卡夫卡的深夜写作惯例"
 description: "20世纪文学巨匠弗兰茨·卡夫卡。介绍他避开白天的喧嚣与疲惫，从深夜11点到黎明全身心投入创作的写作习惯及其脑科学专注原理。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["在极度宁静中诞生杰作","Routine"]
 heroImage: "/images/blog/kafka_late_night_writing.png"

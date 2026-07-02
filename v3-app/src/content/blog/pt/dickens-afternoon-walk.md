@@ -1,8 +1,8 @@
 ---
 title: "O romancista que caminhava a passo rápido durante 3 horas todas as tardes? A rotina de ideias de Charles Dickens"
 description: "O segredo por trás de como o grande autor inglês Charles Dickens projetou personagens realistas e enredos complexos. Descubra a sua rotina diária de caminhada rápida de 3 horas e os seus efeitos revigorantes para o cérebro."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["O romancis","Routine"]
 heroImage: "/images/blog/dickens_afternoon_walk.png"

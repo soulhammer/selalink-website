@@ -1,8 +1,8 @@
 ---
 title: "Der Schriftsteller, der jeden Nachmittag 3 Stunden lang stramm spazieren ging? Die Ideen-Routine von Charles Dickens"
 description: "Das Geheimnis hinter der Art und Weise, wie der große englische Schriftsteller Charles Dickens vielschichtige Charaktere und komplexe Handlungen entwarf. Erfahren Sie mehr über seine tägliche 3-stündige stramme Gehroutine und ihre gehirnerfrischenden Effekte."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["Der Schrif","Routine"]
 heroImage: "/images/blog/dickens_afternoon_walk.png"

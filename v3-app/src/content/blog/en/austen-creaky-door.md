@@ -1,8 +1,8 @@
 ---
 title: "Protecting Creative Focus with a Creaky Door: Jane Austen's Distraction Barrier"
 description: "Jane Austen intentionally left a creaky door unrepaired to alert her of interruptions. Learn how to design focus boundaries in the modern world."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["Great Habits","austen","Routine","Stamina"]
 heroImage: "/images/blog/austen_creaky_door.png"

@@ -1,8 +1,8 @@
 ---
 title: "Awakening Cognitive Alertness with Cold Water: Thomas Jefferson's Foot Bath Routine"
 description: "Thomas Jefferson began every morning by placing his feet in cold water for 60 years. Understand the neuroscientific benefits of temperature-induced arousal."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["Great Habits","jefferson","Routine","Stamina"]
 heroImage: "/images/blog/jefferson_cold_foot_bath.png"

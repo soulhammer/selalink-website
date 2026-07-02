@@ -1,8 +1,8 @@
 ---
 title: "Forcing Concentration by Self-Isolation: Victor Hugo's Hair-Shaving Routine"
 description: "Victor Hugo shaved half his hair and beard to prevent himself from leaving his study. Discover the cognitive benefits of hard environmental constraints."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Great Habits","hugo","Routine","Stamina"]
 heroImage: "/images/blog/hugo_hair_shaving.png"

@@ -1,8 +1,8 @@
 ---
 title: "Waste Book Isaac Newton: Mengatur Kekacauan Melalui Pencatatan yang Meticulous"
 description: "Isaac Newton, ilmuwan terbesar dalam sejarah. Analisis rutinitasnya mencatat semua wawasan dan perhitungan dalam buku kulit besar, dan manfaat kognitif dari menulis dengan tangan."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-30"
+updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["Waste Book","Routine"]
 heroImage: "/images/blog/newton_meticulous_journaling.png"

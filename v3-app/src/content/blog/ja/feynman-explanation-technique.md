@@ -1,8 +1,8 @@
 ---
 title: "ノーベル賞受賞者の超高速学習法？リチャード・ファインマンの「教える」習慣"
 description: "難しい量子力学を10歳の子供でも理解できるように教えたリチャード・ファインマンの秘訣。メタ認知を極大化して知識を完全に自分のものにするファインマン・テクニックのルーティンを紹介します。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-02-11"
+updatedDate: "2026-02-11"
 category: "BuildSelf"
 tags: ["ノーベル賞受賞者の超","Routine"]
 heroImage: "/images/blog/feynman_explanation_technique.png"

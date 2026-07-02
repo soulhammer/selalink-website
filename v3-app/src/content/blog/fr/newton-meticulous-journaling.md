@@ -1,8 +1,8 @@
 ---
 title: "Le Waste Book d'Isaac Newton : organiser le chaos par une prise de notes méticuleuse"
 description: "Isaac Newton, le plus grand scientifique de l'histoire. Découvrez sa routine consistant à noter calculs et idées dans un grand carnet en cuir, et les bienfaits de l'écriture manuscrite."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-30"
+updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["Le Waste B","Routine"]
 heroImage: "/images/blog/newton_meticulous_journaling.png"

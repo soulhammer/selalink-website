@@ -1,8 +1,8 @@
 ---
 title: "Mahatma Gandhi's Morning Routine: Finding Inner Peace Through Meditation and Spinning"
 description: "Mahatma Gandhi, the great peace activist. Explore his morning routine of waking up at 4 AM to meditate and spin thread, and the scientific calming effects of repetitive movements."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["Great Habits","gandhi","Routine","Stamina"]
 heroImage: "/images/blog/gandhi_morning_meditation.png"

@@ -1,8 +1,8 @@
 ---
 title: "Forçar a concentração através do autoisolamento: A rotina de corte de cabelo de Victor Hugo"
 description: "Victor Hugo rapou metade do cabelo e da barba para evitar sair do seu escritório. Descubra os benefícios cognitivos das limitations ambientais."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Forçar a c","Routine"]
 heroImage: "/images/blog/hugo_hair_shaving.png"

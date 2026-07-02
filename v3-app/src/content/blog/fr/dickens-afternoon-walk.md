@@ -1,8 +1,8 @@
 ---
 title: "Le romancier qui marchait d'un pas vif pendant 3 heures chaque après-midi ? La routine d'idées de Charles Dickens"
 description: "Le secret derrière la façon dont le grand auteur anglais Charles Dickens a conçu des personnages vivants et des intrigues complexes. Découvrez sa routine quotidienne de marche rapide de 3 heures et ses effets rafraîchissants pour le cerveau."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["Le romanci","Routine"]
 heroImage: "/images/blog/dickens_afternoon_walk.png"

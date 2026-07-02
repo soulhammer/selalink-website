@@ -1,8 +1,8 @@
 ---
 title: "Se peindre reflétée au plafond de son lit ? La routine d'autoportrait au miroir de Frida Kahlo"
 description: "Frida Kahlo, la légendaire peintre mexicaine. Découvrez sa routine consistant à peindre des autoportraits grâce à un miroir fixé au baldaquin de son lit, et les bienfaits de cette pratique."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["Se peindre","Routine"]
 heroImage: "/images/blog/kahlo_mirror_painting.png"

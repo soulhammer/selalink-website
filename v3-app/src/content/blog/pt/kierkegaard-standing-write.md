@@ -1,8 +1,8 @@
 ---
 title: "O filósofo que escrevia de pé com o chapéu posto logo após caminhar? O hábito de captura instantânea de Kierkegaard"
 description: "Como o filósofo existencialista Søren Kierkegaard preservava os seus pensamentos brilhantes. Conheça o seu método de se dirigir à secretária de pé sem tirar o casaco para não perder a inspiração."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["O filósofo","Routine"]
 heroImage: "/images/blog/kierkegaard_standing_write.png"

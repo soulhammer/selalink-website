@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "찬물로 인지력을 깨우다: 토머스 제퍼슨의 냉수 족욕 루틴"
 description: "미국의 제3대 대통령 토머스 제퍼슨. 60년 동안 매일 아침 일어나자마자 발을 차가운 물에 담갔던 그의 독특한 건강 비결과 3단계 현대적 각성 실천법을 알아봅니다."
-pubDate: "2026-07-02"
+pubDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
 heroImage: "/images/blog/jefferson_cold_foot_bath.png"
 app: "buildself"
 authority: "토머스 제퍼슨 서한집 및 한랭 자극 신경과학 연구"
-updatedDate: "2026-07-02"
+updatedDate: "2026-04-17"
 faqs:
   - question: "제퍼슨은 실제로 이 냉수 족욕을 매일 실천했나요?"
     answer: "네, 제퍼슨은 가족과 의사에게 보낸 개인 서한에서 자신이 60년 동안 매일 아침 냉수 족욕을 실천해 왔으며, 이 덕분에 감기에 거의 걸리지 않고 강건한 건강을 유지할 수 있었다고 밝혔습니다."

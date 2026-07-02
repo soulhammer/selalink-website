@@ -1,8 +1,8 @@
 ---
 title: "Bangun Tengah Malam untuk Menulis 10+ Jam dengan Kopi? Rutinitas Hiperfokus Ekstrem Balzac"
 description: "Rahasia manajemen waktu yang unik dari Honoré de Balzac, penulis besar Prancis abad ke-19. Selidiki efek ilmiah dari hiperfokus yang dicapai melalui bangun tengah malam & kafein."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["Bangun Ten","Routine"]
 heroImage: "/images/blog/balzac_extreme_focus.png"

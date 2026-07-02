@@ -1,8 +1,8 @@
 ---
 title: "混乱の中で秩序を記録する？アイザック・ニュートンの研究日誌記録習慣"
 description: "人類最高の科学者アイザック・ニュートン。生涯にわたり巨大な革のノートにすべての洞察と計算を精密に記録した彼の習慣と、手で直接書いて整理する行為がもたらす脳科学的な原理を分析します。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-30"
+updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["混乱の中で秩序を記録","Routine"]
 heroImage: "/images/blog/newton_meticulous_journaling.png"

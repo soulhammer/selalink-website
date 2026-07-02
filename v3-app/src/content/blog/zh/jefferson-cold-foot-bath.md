@@ -1,8 +1,8 @@
 ---
 title: "用冷水唤醒认知警觉：托马斯·杰斐逊的足浴惯例"
 description: "托马斯·杰斐逊在60年里每天早晨都将双脚浸入冷水中。了解温度诱导觉醒的神经科学益处。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["用冷水唤醒认知警觉：","Routine"]
 heroImage: "/images/blog/jefferson_cold_foot_bath.png"

@@ -1,8 +1,8 @@
 ---
 title: "Protéger la concentration par une porte qui grince : Le pare-distraction de Jane Austen"
 description: "Jane Austen a sciemment laissé une porte grincer pour être alertée des intrusions. Apprenez à concevoir des limites de concentration aujourd'hui."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["Protéger l","Routine"]
 heroImage: "/images/blog/austen_creaky_door.png"

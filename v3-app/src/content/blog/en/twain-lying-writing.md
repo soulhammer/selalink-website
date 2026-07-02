@@ -1,8 +1,8 @@
 ---
 title: "Writing from the Comfort of the Bed: Mark Twain's Reclining Routine"
 description: "Mark Twain, the master of American literature. Discover his unique routine of writing while reclining in bed and the scientific benefits of physical relaxation for creativity."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-20"
+updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["Great Habits","twain","Routine","Stamina"]
 heroImage: "/images/blog/twain_lying_writing.png"

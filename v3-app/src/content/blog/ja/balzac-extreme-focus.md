@@ -1,8 +1,8 @@
 ---
 title: "毎日真夜中に起きてコーヒー片手に12時間執筆？バルザックの極限の超没頭ルーティン"
 description: "19世紀のフランス文学の巨匠オノレ・ド・バルザックが実践した独特の時間管理の秘訣。真夜中の起床とコーヒーの覚醒を通じて、散漫要素を克服した超没頭法の科学的効果を紹介します。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["毎日真夜中に起きてコ","Routine"]
 heroImage: "/images/blog/balzac_extreme_focus.png"

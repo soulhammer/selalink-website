@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "신속한 인지력 회복: 나폴레옹 보나파르트의 마이크로 낮잠 루틴"
 description: "프랑스의 황제이자 전설적인 전략가 나폴레옹 보나파르트. 격렬한 포화 속에서도 15분 만의 짧은 낮잠으로 두뇌 피로를 즉시 씻어냈던 그의 마이크로 슬립 비결과 3단계 현대식 인지 복원법을 알아봅니다."
-pubDate: "2026-07-02"
+pubDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["위인 습관", "나폴레옹 보나파르트", "휴식", "낮잠", "생체 리듬"]
 heroImage: "/images/blog/napoleon_micro_nap.png"
 app: "buildself"
 authority: "나폴레옹 전기 회고록 및 NREM 수면과 인지 회복 연구"
-updatedDate: "2026-07-02"
+updatedDate: "2026-06-02"
 faqs:
   - question: "나폴레옹은 실제로 전쟁 중에 낮잠을 잤나요?"
     answer: "네, 역사적 기록에 따르면 나폴레옹은 포탄 소리가 울려 퍼지는 전쟁터에서도 즉각 잠에 들 수 있는 비범한 능력이 있었으며, 15분 뒤에 정확히 일어나 맑은 정신으로 전술 명령을 내렸다고 합니다."

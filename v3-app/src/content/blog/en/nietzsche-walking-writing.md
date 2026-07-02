@@ -1,8 +1,8 @@
 ---
 title: "Writing Philosophy with Every Step: Friedrich Nietzsche's Walking Routine"
 description: "Friedrich Nietzsche walked up to 8 hours a day to stimulate his creativity and write. Discover the cognitive benefits of movement-induced flow."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-27"
+updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Great Habits","nietzsche","Routine","Stamina"]
 heroImage: "/images/blog/nietzsche_walking_writing.png"

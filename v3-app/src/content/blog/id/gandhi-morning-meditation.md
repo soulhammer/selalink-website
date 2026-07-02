@@ -1,8 +1,8 @@
 ---
 title: "Rutinitas Pagi Mahatma Gandhi: Menemukan Kedamaian Batin Melalui Meditasi dan Memintal"
 description: "Mahatma Gandhi, pejuang perdamaian besar. Jelajahi rutinitas paginya bangun jam 4 pagi untuk meditasi dan memintal benang, serta efek menenangkan secara ilmiah dari gerakan berulang."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["Rutinitas ","Routine"]
 heroImage: "/images/blog/gandhi_morning_meditation.png"

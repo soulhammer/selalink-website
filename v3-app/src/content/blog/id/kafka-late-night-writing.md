@@ -1,8 +1,8 @@
 ---
 title: "Melahirkan Karya Agung dalam Keheningan Total? Rutinitas Menulis Tengah Malam Franz Kafka"
 description: "Franz Kafka, maestro sastra abad ke-20. Temukan rutinitas menulis malamnya dari jam 11 malam hingga fajar dan prinsip kognitif dari konsentrasi mendalam."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Melahirkan","Routine"]
 heroImage: "/images/blog/kafka_late_night_writing.png"

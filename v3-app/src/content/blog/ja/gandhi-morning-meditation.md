@@ -1,8 +1,8 @@
 ---
 title: "静かな夜明けに回す物車？マハトマ・ガンディーの早朝瞑想ルーティン"
 description: "インドの偉大な平和運動家マハトマ・ガンディー。毎日午前4時に起きて瞑想し、糸車を回した彼の朝の習慣と、反復的な動きがもたらす科学的な安定効果を探ります。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["静かな夜明けに回す物","Routine"]
 heroImage: "/images/blog/gandhi_morning_meditation.png"

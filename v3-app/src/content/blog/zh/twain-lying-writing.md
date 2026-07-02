@@ -1,8 +1,8 @@
 ---
 title: "床外很危险？躺着写出名著的马克·吐温的床上写作惯例"
 description: "美国文学巨匠马克·吐温。介绍他早餐后躺在床上、以斜靠姿势创作出多部名著的独特写作习惯，以及身体放松带来的脑科学创造力效应。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-20"
+updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["床外很危险？躺着写出","Routine"]
 heroImage: "/images/blog/twain_lying_writing.png"

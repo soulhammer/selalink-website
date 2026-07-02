@@ -1,8 +1,8 @@
 ---
 title: "Mahatma Gandhis Morgenroutine: Innerer Frieden durch Meditation und Spinnen"
 description: "Mahatma Gandhi, der große Friedensaktivist. Entdecken Sie seine Morgenroutine, um 4 Uhr morgens aufzustehen, zu meditieren und zu spinnen, und die beruhigenden Effekte repetitiver Bewegungen."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["Mahatma Ga","Routine"]
 heroImage: "/images/blog/gandhi_morning_meditation.png"

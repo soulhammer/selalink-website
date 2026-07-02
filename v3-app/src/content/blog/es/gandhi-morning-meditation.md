@@ -1,8 +1,8 @@
 ---
 title: "La rutina matutina de Mahatma Gandhi: paz interior a través de la meditación y el hilado"
 description: "Mahatma Gandhi, el gran activista por la paz. Explore su rutina de despertarse a las 4 AM para meditar e hilar, y los efectos científicos calmantes de los movimientos repetitivos."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["La rutina ","Routine"]
 heroImage: "/images/blog/gandhi_morning_meditation.png"

@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "극도의 침묵 속에서 걸작을 낳다? 프란츠 카프카의 한밤중 집필 루틴"
 description: "20세기 문학의 거장 프란츠 카프카. 낮의 소음과 피로를 피해 밤 11시부터 새벽까지 창작에 몰입했던 그의 집필 습관과 뇌 과학적 집중의 원리를 소개합니다."
-pubDate: "2026-07-02"
+pubDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
 heroImage: "/images/blog/kafka_late_night_writing.png"
 app: "buildself"
 authority: "프란츠 카프카 서한집 'Letters to Felice' 및 Frontiers in Psychology 학술지"
-updatedDate: "2026-07-02"
+updatedDate: "2026-04-01"
 ---
 
 "내 방의 문은 닫혀 있고, 사방은 고요하며, 이 침묵이 나를 지탱해 준다." 🕯️

@@ -1,8 +1,8 @@
 ---
 title: "Écrire allongé dans son lit ? La routine d'écriture inclinée de Mark Twain"
 description: "Mark Twain, le maître de la littérature américaine. Découvrez sa routine unique d'écriture allongé dans son lit et les bienfaits scientifiques de la relaxation physique sur la créativité."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-20"
+updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["Écrire all","Routine"]
 heroImage: "/images/blog/twain_lying_writing.png"

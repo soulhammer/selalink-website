@@ -1,8 +1,8 @@
 ---
 title: "Escrever deitado na cama? A rotina de escrita reclinada de Mark Twain"
 description: "Mark Twain, o mestre da literatura americana. Descubra sua rotina única de escrever deitado na cama e os benefícios científicos do relaxamento físico para a criatividade."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-20"
+updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["Escrever d","Routine"]
 heroImage: "/images/blog/twain_lying_writing.png"

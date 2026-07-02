@@ -1,8 +1,8 @@
 ---
 title: "La routine matinale du Mahatma Gandhi : paix intérieure par la méditation et le rouet"
 description: "Mahatma Gandhi, le grand militant pacifiste. Découvrez sa routine matinale : réveil à 4h pour méditer et filer, et les effets calmants scientifiquement prouvés des mouvements répétitifs."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["La routine","Routine"]
 heroImage: "/images/blog/gandhi_morning_meditation.png"

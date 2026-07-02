@@ -1,8 +1,8 @@
 ---
 title: "冷水で認知力を呼び覚ます：トーマス・ジェファーソンの冷水足浴ルーティン"
 description: "トマス・ジェファーソンは60年間、毎朝足を冷たい水に浸すことから始めました。温度変化による覚醒効果を脳科学的に紐解きます。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["冷水で認知力を呼び覚","Routine"]
 heroImage: "/images/blog/jefferson_cold_foot_bath.png"

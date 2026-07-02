@@ -1,8 +1,8 @@
 ---
 title: "Plowing the Fields Before Writing Despite Noble Status? Leo Tolstoy's Physical Awakening Routine"
 description: "Where did Leo Tolstoy get the energy to write massive novels like 'War and Peace'? Explore his health routine of awakening brain function through morning exercise and gymnastics before writing."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-11"
+updatedDate: "2026-05-11"
 category: "BuildSelf"
 tags: ["Great Habits","tolstoy","Routine","Stamina"]
 heroImage: "/images/blog/tolstoy_physical_labor.png"

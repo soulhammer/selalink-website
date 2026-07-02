@@ -1,8 +1,8 @@
 ---
 title: "Criar obras-primas no silêncio extremo? A rotina de escrita à meia-noite de Franz Kafka"
 description: "Franz Kafka, o mestre da literatura do século XX. Descubra sua rotina de escrita noturna das 23h à madrugada e os innings cognitivos da concentração profunda."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Criar obra","Routine"]
 heroImage: "/images/blog/kafka_late_night_writing.png"

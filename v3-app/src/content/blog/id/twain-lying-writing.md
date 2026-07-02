@@ -1,8 +1,8 @@
 ---
 title: "Menulis dari Kenyamanan Tempat Tidur? Rutinitas Menulis Sambil Berbaring Mark Twain"
 description: "Mark Twain, maestro sastra Amerika. Temukan rutinitas uniknya menulis sambil berbaring di tempat tidur dan manfaat ilmiah dari relaksasi fisik bagi kreativitas."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-20"
+updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["Menulis da","Routine"]
 heroImage: "/images/blog/twain_lying_writing.png"

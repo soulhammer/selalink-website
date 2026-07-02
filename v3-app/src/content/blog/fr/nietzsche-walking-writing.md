@@ -1,8 +1,8 @@
 ---
 title: "Écrire la philosophie à chaque pas : La routine de marche de Friedrich Nietzsche"
 description: "Nietzsche marchait jusqu'à 8 heures par jour pour stimuler sa créativité. Découvrez les bienfaits cognitifs de l'état de flow induit par le mouvement."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-27"
+updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Écrire la ","Routine"]
 heroImage: "/images/blog/nietzsche_walking_writing.png"

@@ -1,8 +1,8 @@
 ---
 title: "散步回来后戴着帽子站着写作的哲学？克尔凯郭尔的即时捕捉惯例"
 description: "存在主义哲学家索伦·克尔凯郭尔保留闪现思索的绝妙方法。剖析他一进门连衣服都不脱、直接奔向立式书桌站着写作的独特灵感保存法。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["散步回来后戴着帽子站","Routine"]
 heroImage: "/images/blog/kierkegaard_standing_write.png"

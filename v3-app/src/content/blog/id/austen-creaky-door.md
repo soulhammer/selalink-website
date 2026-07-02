@@ -1,8 +1,8 @@
 ---
 title: "Melindungi Fokus Kreatif dengan Pintu Berderit: Penghalang Gangguan Jane Austen"
 description: "Jane Austen sengaja membiarkan pintu yang berderit tidak diperbaiki untuk memperingatkannya akan gangguan. Pelajari cara merancang batas fokus."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["Melindungi","Routine"]
 heroImage: "/images/blog/austen_creaky_door.png"

@@ -1,8 +1,8 @@
 ---
 title: "毎日午後3時間早歩きで散歩した小説家？チャールズ・ディケンズのアイデア・ルーティン"
 description: "イギリスの大文豪チャールズ・ディケンズが小説の中の立体的な人物と複雑なストーリーを設計した秘訣。毎日午後3時間に及んだ彼の素早い散歩ルーティンと脳の換気効果を紹介します。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["毎日午後3時間早歩き","Routine"]
 heroImage: "/images/blog/dickens_afternoon_walk.png"

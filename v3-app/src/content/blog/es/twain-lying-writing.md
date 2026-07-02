@@ -1,8 +1,8 @@
 ---
 title: "¿Escribir acostado en la cama? La rutina de escritura reclinada de Mark Twain"
 description: "Mark Twain, el maestro de la literatura estadounidense. Descubra su rutina única de escribir reclinado en la cama y los beneficios científicos de la relajación física para la creatividad."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-20"
+updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["¿Escribir ","Routine"]
 heroImage: "/images/blog/twain_lying_writing.png"

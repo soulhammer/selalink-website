@@ -1,8 +1,8 @@
 ---
 title: "ベッドの外は危険？横になって名作を書いたマーク・トウェインのベッド執筆ルーティン"
 description: "アメリカ文学の巨匠マーク・トウェイン。朝食後、ベッドに横たわり傾いた姿勢で名作を生み出した彼のユニークな執筆習慣と、身体の弛緩がもたらす創造的な脳科学的効果を紹介します。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-20"
+updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["ベッドの外は危険？横","Routine"]
 heroImage: "/images/blog/twain_lying_writing.png"

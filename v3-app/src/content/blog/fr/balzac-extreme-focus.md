@@ -1,8 +1,8 @@
 ---
 title: "Se réveiller à minuit pour écrire plus de 10 heures avec du café ? La routine d'hyperfocus extrême de Balzac"
 description: "Le secret de gestion du temps d'Honoré de Balzac, le grand auteur français du XIXe siècle. Découvrez les effets scientifiques de l'hyperfocus obtenu en se réveillant à minuit et par la caféine."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-02-14"
+updatedDate: "2026-02-14"
 category: "BuildSelf"
 tags: ["Se réveill","Routine"]
 heroImage: "/images/blog/balzac_extreme_focus.png"

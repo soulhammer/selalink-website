@@ -1,8 +1,8 @@
 ---
 title: "きしむドアで創作を守る：ジェーン・オースティンの集中防護壁"
 description: "ジェーン・オースティンは、邪魔が入るのを察知するために、あえてきしむドアを修理せずに残しました。現代における集中境界線の設計法を学びます。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["きしむドアで創作を守","Routine"]
 heroImage: "/images/blog/austen_creaky_door.png"

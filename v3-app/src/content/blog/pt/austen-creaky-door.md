@@ -1,8 +1,8 @@
 ---
 title: "Proteger o foco criativo com uma porta rangente: A barreira contra distrações de Jane Austen"
 description: "Jane Austen deixou uma porta rangente por reparar para ser alertada sobre interrupções. Aprenda a desenhar limites de foco no mundo moderno."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["Proteger o","Routine"]
 heroImage: "/images/blog/austen_creaky_door.png"

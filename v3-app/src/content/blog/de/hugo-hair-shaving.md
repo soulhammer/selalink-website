@@ -1,8 +1,8 @@
 ---
 title: "Konzentration erzwingen durch Selbstisolation: Victor Hugos Haarschneide-Routine"
 description: "Victor Hugo rasierte sich die Hälfte seiner Haare und seines Bartes ab, um das Haus nicht verlassen zu können. Entdecken Sie die Vorteile von Einschränkungen."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Konzentrat","Routine"]
 heroImage: "/images/blog/hugo_hair_shaving.png"

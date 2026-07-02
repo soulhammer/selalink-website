@@ -1,8 +1,8 @@
 ---
 title: "Restauration rapide de la concentration : La routine de micro-sieste de Napoléon Bonaparte"
 description: "Napoléon Bonaparte faisait de courtes siestes pendant les batailles pour se ressourcer. Découvrez la science de la récupération cognitive."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Restaurati","Routine"]
 heroImage: "/images/blog/napoleon_micro_nap.png"

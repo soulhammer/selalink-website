@@ -1,8 +1,8 @@
 ---
 title: "快速恢复专注：拿破仑·波拿巴的微型睡眠惯例"
 description: "拿破仑·波拿巴在战斗中进行短暂的战略性小睡以提神。了解高效小睡 and 认知恢复的科学原理。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["快速恢复专注：拿破仑","Routine"]
 heroImage: "/images/blog/napoleon_micro_nap.png"

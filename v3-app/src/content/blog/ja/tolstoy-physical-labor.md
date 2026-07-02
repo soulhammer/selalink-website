@@ -1,8 +1,8 @@
 ---
 title: "貴族身分なのに執筆前に畑を耕した？レフ・トルストイの身体覚醒ルーティン"
 description: "大文豪レフ・トルストイが『戦争と平和』のような膨大な小説を書くことができたエネルギーはどこから来たのでしょうか？毎朝執筆前の身体運動と体操を通じて脳機能を呼び覚ました彼の健康ルーティンを紹介します。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-11"
+updatedDate: "2026-05-11"
 category: "BuildSelf"
 tags: ["貴族身分なのに執筆前","Routine"]
 heroImage: "/images/blog/tolstoy_physical_labor.png"

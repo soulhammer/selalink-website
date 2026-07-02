@@ -1,8 +1,8 @@
 ---
 title: "Escrever filosofia a cada passo: A rotina de caminhada de Friedrich Nietzsche"
 description: "Friedrich Nietzsche caminhava até 8 horas por dia para estimular sua criatividade. Descubra los beneficios cognitivos del fluxo induzido pelo movimento."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-27"
+updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Escrever f","Routine"]
 heroImage: "/images/blog/nietzsche_walking_writing.png"

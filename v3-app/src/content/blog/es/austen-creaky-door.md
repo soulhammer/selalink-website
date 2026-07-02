@@ -1,8 +1,8 @@
 ---
 title: "Proteger el enfoque creativo con una puerta chirriante: La barrera contra distracciones de Jane Austen"
 description: "Jane Austen dejó una puerta chirriante sin reparar para alertarse de interrupciones. Aprenda a diseñar límites de enfoque en el mundo moderno."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-27"
+updatedDate: "2026-03-27"
 category: "BuildSelf"
 tags: ["Proteger e","Routine"]
 heroImage: "/images/blog/austen_creaky_door.png"

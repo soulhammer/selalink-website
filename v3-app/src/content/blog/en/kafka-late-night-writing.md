@@ -1,8 +1,8 @@
 ---
 title: "Franz Kafka's Midnight Writing Routine: Creating Masterpieces in Extreme Silence"
 description: "Franz Kafka, the master of 20th-century literature. Discover his late-night writing routine from 11 PM to dawn and the cognitive principles of deep concentration."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Great Habits","kafka","Routine","Stamina"]
 heroImage: "/images/blog/kafka_late_night_writing.png"

@@ -1,8 +1,8 @@
 ---
 title: "清晨静静旋转的纺車？马哈特玛·甘地的清晨瞑想惯例"
 description: "印度伟大的和平运动家马哈特玛·甘地。探索他每天清晨4点起床进行瞑想与纺线的早晨习惯，以及重复性动作带来的科学舒缓效果。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["清晨静静旋转的纺車？","Routine"]
 heroImage: "/images/blog/gandhi_morning_meditation.png"

@@ -1,8 +1,8 @@
 ---
 title: "極限の静寂の中で傑作を生み出す？フランツ・カフカの深夜執筆ルーティン"
 description: "20世紀文学の巨匠フランツ・カフカ。昼間の騒音と疲労を避けて夜11時から明け方まで創作に没頭した彼の執筆習慣と、脳科学的な集中の原理を紹介します。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["極限の静寂の中で傑作","Routine"]
 heroImage: "/images/blog/kafka_late_night_writing.png"

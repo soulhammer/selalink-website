@@ -1,8 +1,8 @@
 ---
 title: "Forcer la concentration par l'isolement : La routine de rasage de Victor Hugo"
 description: "Victor Hugo s'est rasé la moitié des cheveux et de la barbe pour s'empêcher de sortir. Découvrez les bienfaits des contraintes environnementales."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Forcer la ","Routine"]
 heroImage: "/images/blog/hugo_hair_shaving.png"

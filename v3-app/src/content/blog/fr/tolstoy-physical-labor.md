@@ -1,8 +1,8 @@
 ---
 title: "Labourer les champs avant d'écrire malgré son statut noble ? La routine d'éveil physique de Léon Tolstoï"
 description: "D'où Léon Tolstoï tirait-il l'énergie pour écrire des romans monumentaux comme « Guerre et Paix » ? Découvrez sa routine consistant à éveiller le cerveau par l'exercice physique matinal avant d'écrire."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-11"
+updatedDate: "2026-05-11"
 category: "BuildSelf"
 tags: ["Labourer l","Routine"]
 heroImage: "/images/blog/tolstoy_physical_labor.png"

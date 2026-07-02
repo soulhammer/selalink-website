@@ -1,8 +1,8 @@
 ---
 title: "Isaac Newton's Waste Book: Organizing Chaos Through Meticulous Journaling"
 description: "Isaac Newton, the greatest scientist in history. Analyze his lifelong routine of recording all insights and calculations in a large leather notebook, and the cognitive benefits of writing by hand."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-30"
+updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["Great Habits","newton","Routine","Stamina"]
 heroImage: "/images/blog/newton_meticulous_journaling.png"

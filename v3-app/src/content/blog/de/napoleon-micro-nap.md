@@ -1,8 +1,8 @@
 ---
 title: "Schnelle Wiederherstellung des Fokus: Napoleon Bonapartes Mikroschlaf-Routine"
 description: "Napoleon Bonaparte machte kurze, strategische Nickerchen im Kampf, um sich zu erfrischen. Erfahren Sie mehr über kognitive Erholung."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Schnelle W","Routine"]
 heroImage: "/images/blog/napoleon_micro_nap.png"

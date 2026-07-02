@@ -1,8 +1,8 @@
 ---
 title: "Im Liegen Meisterwerke schreiben? Mark Twains Schreibroutine im Bett"
 description: "Mark Twain, der Meister der amerikanischen Literatur. Entdecken Sie seine einzigartige Routine, im Bett liegend zu schreiben, und die kognitiven Vorteile körperlicher Entspannung für die Kreativität."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-20"
+updatedDate: "2026-05-20"
 category: "BuildSelf"
 tags: ["Im Liegen ","Routine"]
 heroImage: "/images/blog/twain_lying_writing.png"

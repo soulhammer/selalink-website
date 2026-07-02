@@ -1,8 +1,8 @@
 ---
 title: "Isaac Newtons Waste Book: Chaos durch akribische Aufzeichnungen ordnen"
 description: "Isaac Newton, der größte Wissenschaftler der Geschichte. Analysieren Sie seine Routine, alle Erkenntnisse und Berechnungen in einem Lederbuch festzuhalten, und die kognitiven Vorteile des handschriftlichen Schreibens."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-30"
+updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["Isaac Newt","Routine"]
 heroImage: "/images/blog/newton_meticulous_journaling.png"

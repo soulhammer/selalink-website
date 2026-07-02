@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "삭발로 강제 격리 환경을 만들다: 빅토르 위고의 마감 루틴"
 description: "프랑스의 대문호 빅토르 위고. 마감 시한이 닥쳐오자 외출 욕구를 원천 차단하기 위해 머리와 수염을 절반만 밀었던 그의 파격적인 셀프 격리법과 3단계 현대식 환경 설계법을 알아봅니다."
-pubDate: "2026-07-02"
+pubDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
 heroImage: "/images/blog/hugo_hair_shaving.png"
 app: "buildself"
 authority: "빅토르 위고의 일대기 및 인지심리학의 환경적 제약과 전념 장치 연구"
-updatedDate: "2026-07-02"
+updatedDate: "2026-06-29"
 faqs:
   - question: "위고는 정말로 책을 쓰기 위해 삭발을 했나요?"
     answer: "네, 1830년 『노트르담의 꼽추』 집필 당시 출판사 마감이 임박하자, 위고는 스스로 외출을 차단하기 위해 머리카락과 턱수염을 절반만 밀고 가위와 외출용 정장 옷을 가둔 채 집필에 매진했습니다."

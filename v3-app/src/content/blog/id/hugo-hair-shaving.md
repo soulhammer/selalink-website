@@ -1,8 +1,8 @@
 ---
 title: "Memaksa Konsentrasi dengan Isolasi Mandiri: Rutinitas Cukur Rambut Victor Hugo"
 description: "Victor Hugo mencukur setengah rambut dan janggutnya agar tidak keluar dari ruang kerjanya. Temukan manfaat kognitif dari batasan lingkungan."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["Memaksa Ko","Routine"]
 heroImage: "/images/blog/hugo_hair_shaving.png"

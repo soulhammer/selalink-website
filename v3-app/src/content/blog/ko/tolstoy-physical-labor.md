@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "귀족 신분에도 집필 전 밭을 갈았다? 레프 톨스토이의 신체 각성 루틴"
 description: "대문호 레프 톨스토이가 《전쟁과 평화》 같은 방대한 소설을 쓸 수 있었던 에너지는 어디서 나왔을까요? 매일 아침 집필 전 신체 운동과 체조를 통해 두뇌 기능을 깨웠던 그의 건강 루틴을 파헤쳐 봅니다."
-pubDate: "2026-07-02"
+pubDate: "2026-05-11"
 category: "BuildSelf"
 tags: ["위인 습관", "레프 톨스토이", "운동", "신체활력", "두뇌각성"]
 heroImage: "/images/blog/tolstoy_physical_labor.png"
 app: "buildself"
 authority: "소피아 톨스토이 저 '소피아 톨스토이의 일기' 및 임상의학회지(Journal of Clinical Medicine)"
-updatedDate: "2026-07-02"
+updatedDate: "2026-05-11"
 faqs:
   - question: "아침에 고강도 운동을 하면 오전에 오히려 몸이 피곤하지 않나요?"
     answer: "운동 강도를 적절히 조절하는 것이 중요합니다. 체력을 소진시키는 탈진 운동이 아니라, 약 15~20분 내외로 맨몸 근동을 짧게 끊어 심박수와 체온을 일시적으로 올려 피를 순환시키는 각성성 자극이 핵심이므로 개인의 체력 수준에 맞춰야 합니다."

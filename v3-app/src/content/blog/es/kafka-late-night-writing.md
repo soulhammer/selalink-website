@@ -1,8 +1,8 @@
 ---
 title: "¿Crear obras maestras en silencio extremo? La rutina de escritura a medianoche de Franz Kafka"
 description: "Franz Kafka, el maestro de la literatura del siglo XX. Descubra su rutina de escritura nocturna de 11 PM a la madrugada y los principios cognitivos de la concentración profunda."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["¿Crear obr","Routine"]
 heroImage: "/images/blog/kafka_late_night_writing.png"

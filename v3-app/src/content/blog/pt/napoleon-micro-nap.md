@@ -1,8 +1,8 @@
 ---
 title: "Restauração rápida do foco: A rotina de micro sesta de Napoleão Bonaparte"
 description: "Napoleão Bonaparte fazia sestas curtas durante as batalhas para refrescar a mente. Conheça a ciência da recuperação cognitiva."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Restauraçã","Routine"]
 heroImage: "/images/blog/napoleon_micro_nap.png"

@@ -1,8 +1,8 @@
 ---
 title: "通过自我隔离强迫专注：维克多·雨果的剃发惯例"
 description: "维克多·雨果剃掉了一半的头发和胡须，以防止自己离开书房。探索严格的环境约束带来的认知益处。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["通过自我隔离强迫专注","Routine"]
 heroImage: "/images/blog/hugo_hair_shaving.png"

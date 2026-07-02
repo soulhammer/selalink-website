@@ -1,8 +1,8 @@
 ---
 title: "Membajak Sawah Sebelum Menulis Meskipun Berstatus Bangsawan? Rutinitas Kebangkitan Fisik Leo Tolstoy"
 description: "Membajak Sawah Sebelum Menulis Meskipun Berstatus Bangsawan? Rutinitas Kebangkitan Fisik Leo Tolstoy"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-11"
+updatedDate: "2026-05-11"
 category: "BuildSelf"
 tags: ["Membajak S","Routine"]
 heroImage: "/images/blog/tolstoy_physical_labor.png"

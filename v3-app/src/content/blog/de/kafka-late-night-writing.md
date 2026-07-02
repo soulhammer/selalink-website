@@ -1,8 +1,8 @@
 ---
 title: "Meisterwerke in extremer Stille erschaffen? Franz Kafkas nächtliche Schreibroutine"
 description: "Franz Kafka, der Meister der Literatur des 20. Jahrhunderts. Entdecken Sie seine nächtliche Schreibroutine von 23 Uhr bis zum Morgengrauen und die kognitiven Prinzipien tiefer Konzentration."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Meisterwer","Routine"]
 heroImage: "/images/blog/kafka_late_night_writing.png"

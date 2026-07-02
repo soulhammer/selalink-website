@@ -1,8 +1,8 @@
 ---
 title: "在混乱中记录秩序？艾萨克·牛顿的科研日志记录惯例"
 description: "人类历史上最伟大的科学家艾萨克·牛顿。分析他一生在巨大皮革笔记本中精准记录所有感悟与计算的习惯，以及亲手书写整理所带来的脑科学原理。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-30"
+updatedDate: "2026-03-30"
 category: "BuildSelf"
 tags: ["在混乱中记录秩序？艾","Routine"]
 heroImage: "/images/blog/newton_meticulous_journaling.png"

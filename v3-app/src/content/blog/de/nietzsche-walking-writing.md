@@ -1,8 +1,8 @@
 ---
 title: "Philosophie mit jedem Schritt schreiben: Friedrich Nietzsches Spaziergangs-Routine"
 description: "Nietzsche ging bis zu 8 Stunden täglich spazieren, um seine Kreativität anzuregen. Entdecken Sie die Vorteile des bewegungsinduzierten Fokus."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-27"
+updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["Philosophi","Routine"]
 heroImage: "/images/blog/nietzsche_walking_writing.png"

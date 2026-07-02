@@ -1,8 +1,8 @@
 ---
 title: "Créer des chefs-d'œuvre dans un silence absolu ? La routine d'écriture nocturne de Franz Kafka"
 description: "Franz Kafka, le maître de la littérature du XXe siècle. Découvrez sa routine d'écriture nocturne de 23h à l'aube et les principes cognitifs de la concentration profonde."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Créer des ","Routine"]
 heroImage: "/images/blog/kafka_late_night_writing.png"

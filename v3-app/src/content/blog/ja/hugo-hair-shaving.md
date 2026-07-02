@@ -1,8 +1,8 @@
 ---
 title: "散髪による強制隔離環境の構築：ヴィクトル・ユーゴーの締め切りルーティン"
 description: "ヴィクトル・ユーゴーは書斎から出られないようにするため、髪と髭を半分剃り落としました。環境的な強制制約がもたらす認知的利点を探ります。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-29"
+updatedDate: "2026-06-29"
 category: "BuildSelf"
 tags: ["散髪による強制隔離環","Routine"]
 heroImage: "/images/blog/hugo_hair_shaving.png"

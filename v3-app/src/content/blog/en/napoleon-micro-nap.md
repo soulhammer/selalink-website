@@ -1,8 +1,8 @@
 ---
 title: "Rapid Restoration of Focus: Napoleon Bonaparte's Micro-Nap Routine"
 description: "Napoleon Bonaparte took short, strategic naps during battles to refresh his mind. Learn the science of power naps and cognitive recovery."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Great Habits","napoleon","Routine","Stamina"]
 heroImage: "/images/blog/napoleon_micro_nap.png"

@@ -1,8 +1,8 @@
 ---
 title: "A rotina matinal de Mahatma Gandhi: paz interior através da meditação e da fiação"
 description: "Mahatma Gandhi, o grande ativista da paz. Explore sua rotina matinal de acordar às 4h para meditar e fiar, e os efeitos científicos do movimento repetitivo para acalmar a mente."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-03-23"
+updatedDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["A rotina m","Routine"]
 heroImage: "/images/blog/gandhi_morning_meditation.png"

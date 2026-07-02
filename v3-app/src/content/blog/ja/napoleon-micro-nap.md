@@ -1,8 +1,8 @@
 ---
 title: "迅速な認知力回復：ナポレオン・ボナパルトのマイクロ昼寝ルーティン"
 description: "ナポレオンは戦いの中で精神をリフレッシュするために短時間の戦略的昼寝をとりました。パワーナップと認知能力回復の科学を学びます。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["迅速な認知力回復：ナ","Routine"]
 heroImage: "/images/blog/napoleon_micro_nap.png"

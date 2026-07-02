@@ -1,8 +1,8 @@
 ---
 title: "ベッドの天井に映る自分を描く？フリーダ・カーロの鏡の自画像ルーティン"
 description: "メキシコの伝説的な画家フリーダ・カーロ。全身不随の苦痛の中でもベッドの天井の鏡を見て毎日自画像を描き続けた彼女の克服習慣と、鏡を見つめる行為がもたらす臨床心理学的な治癒効果を分析します。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["ベッドの天井に映る自","Routine"]
 heroImage: "/images/blog/kahlo_mirror_painting.png"

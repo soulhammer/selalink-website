@@ -1,8 +1,8 @@
 ---
 title: "每天下午快步走3小时的小说家？查尔斯·狄更斯的创意惯例"
 description: "英国大文豪查尔斯·狄更斯构思立体人物和复杂故事的秘诀。探索他每天下午持续3小时的快步走惯例及其唤醒大脑的效果。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-05-23"
+updatedDate: "2026-05-23"
 category: "BuildSelf"
 tags: ["每天下午快步走3小时","Routine"]
 heroImage: "/images/blog/dickens_afternoon_walk.png"

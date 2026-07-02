@@ -1,8 +1,8 @@
 ---
 title: "Pemulihan Cepat Fokus: Rutinitas Tidur Mikro Napoleon Bonaparte"
 description: "Napoleon Bonaparte melakukan tidur siang singkat and strategis selama pertempuran untuk menyegarkan pikirannya. Pelajari ilmu pemulihan kognitif."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Pemulihan ","Routine"]
 heroImage: "/images/blog/napoleon_micro_nap.png"

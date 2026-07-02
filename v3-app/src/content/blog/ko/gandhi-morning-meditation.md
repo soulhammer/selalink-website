@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "고요한 새벽에 돌리는 물레? 마하트마 간디의 이른 아침 명상 루틴"
 description: "인도의 위대한 평화 운동가 마하트마 간디. 매일 새벽 4시에 일어나 명상을 하고 물레를 돌렸던 그의 아침 습관과 반복적인 움직임이 주는 과학적 안정 효과를 탐구합니다."
-pubDate: "2026-07-02"
+pubDate: "2026-03-23"
 category: "BuildSelf"
 tags: ["위인 습관", "마하트마 간디", "아침 루틴", "명상", "스트레스 완화"]
 heroImage: "/images/blog/gandhi_morning_meditation.png"
 app: "buildself"
 authority: "마하트마 간디 자서전 'My Experiments with Truth' 및 American Journal of Health Promotion 학술지"
-updatedDate: "2026-07-02"
+updatedDate: "2026-03-23"
 ---
 
 "물레의 회전 속에서 나는 영원한 마음의 평화와 우주의 질서를 본다." 🌀

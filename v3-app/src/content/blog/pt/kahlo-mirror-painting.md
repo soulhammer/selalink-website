@@ -1,8 +1,8 @@
 ---
 title: "Pintar-se refletida no teto da cama? A rotina de autorretrato no espelho de Frida Kahlo"
 description: "Frida Kahlo, a lendária pintora mexicana. Conheça sua rotina diária de pintar autorretratos usando um espelho no teto de sua cama, e os benefícios da contemplação no espelho."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-07"
+updatedDate: "2026-06-07"
 category: "BuildSelf"
 tags: ["Pintar-se ","Routine"]
 heroImage: "/images/blog/kahlo_mirror_painting.png"

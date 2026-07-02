@@ -1,8 +1,8 @@
 ---
 title: "Éveiller la vigilance cognitive par l'eau froide : Le bain de pieds de Thomas Jefferson"
 description: "Thomas Jefferson a commencé chaque matin par un bain de pieds froid pendant 60 ans. Découvrez les bienfaits de la stimulation thermique."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-17"
+updatedDate: "2026-04-17"
 category: "BuildSelf"
 tags: ["Éveiller l","Routine"]
 heroImage: "/images/blog/jefferson_cold_foot_bath.png"

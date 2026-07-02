@@ -1,8 +1,8 @@
 ---
 title: "Restauración rápida del enfoque: La rutina de micro-siesta de Napoleón Bonaparte"
 description: "Napoleón Bonaparte tomaba siestas cortas durante las batallas para refrescar su mente. Conozca la ciencia de la recuperación cognitiva."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Restauraci","Routine"]
 heroImage: "/images/blog/napoleon_micro_nap.png"

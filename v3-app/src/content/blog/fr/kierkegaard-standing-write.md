@@ -1,8 +1,8 @@
 ---
 title: "Le philosophe qui écrivait debout avec son chapeau juste après la marche ? L'habitude de capture instantanée de Kierkegaard"
 description: "Comment le philosophe existentialiste Søren Kierkegaard préservait ses pensées brillantes. Découvrez sa méthode consistant à se diriger vers son bureau debout sans retirer son manteau pour garder l'inspiration."
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Le philoso","Routine"]
 heroImage: "/images/blog/kierkegaard_standing_write.png"

@@ -1,8 +1,8 @@
 ---
 title: "用脚步丈量哲学：弗里德里希·尼采的散步写作惯例"
 description: "尼采每天步行多达8小时以激发创意和写作。探索运动引发的心流状态对认知的益处。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-27"
+updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["用脚步丈量哲学：弗里","Routine"]
 heroImage: "/images/blog/nietzsche_walking_writing.png"

@@ -1,8 +1,8 @@
 ---
 title: "歩きながら哲学を完成させる：フリードリヒ・ニーチェの散歩執筆ルーティン"
 description: "ニーチェは創造性を刺激し執筆するために1日最大8時間歩きました。動きがもたらすフロー状態の認知心理学的メリットを探ります。"
-pubDate: "2026-07-02"
-updatedDate: "2026-07-02"
+pubDate: "2026-04-27"
+updatedDate: "2026-04-27"
 category: "BuildSelf"
 tags: ["歩きながら哲学を完成","Routine"]
 heroImage: "/images/blog/nietzsche_walking_writing.png"
