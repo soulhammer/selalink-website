@@ -1,8 +1,8 @@
 ---
 title: "Die superschnelle Lernmethode eines Nobelpreisträgers? Richard Feynmans Gewohnheit zu lehren"
 description: "Das Geheimnis von Richard Feynman, der Quantenmechanik so einfach erklärte, dass ein 10-jähriges Kind sie verstehen konnte. Lernen Sie die Feynman-Technik-Routine zur Maximierung der Metakognition kennen."
-pubDate: "2026-02-10"
-updatedDate: "2026-02-10"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Die supers","Routine"]
 heroImage: "/images/blog/feynman_explanation_technique.png"

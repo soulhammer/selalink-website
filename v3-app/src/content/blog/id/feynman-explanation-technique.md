@@ -1,8 +1,8 @@
 ---
 title: "Metode Belajar Super Cepat Penerima Nobel? Kebiasaan Mengajar Richard Feynman"
 description: "Rahasia Richard Feynman, yang mengajarkan mekanika kuantum dengan sangat sederhana sehingga anak berusia 10 tahun pun dapat memahaminya. Pelajari rutinitas Teknik Feynman untuk memaksimalkan metakognisi."
-pubDate: "2026-02-10"
-updatedDate: "2026-02-10"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Metode Bel","Routine"]
 heroImage: "/images/blog/feynman_explanation_technique.png"

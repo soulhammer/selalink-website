@@ -1,8 +1,8 @@
 ---
 title: "Waking at Midnight to Write 10+ Hours with Coffee? Balzac's Extreme Hyperfocus Routine"
 description: "The unique time management secret of Honoré de Balzac, a giant of 19th-century French literature. Uncover the scientific effects of hyperfocus achieved through midnight waking and coffee activation."
-pubDate: "2026-03-05"
-updatedDate: "2026-03-05"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Great Habits","balzac","Routine","Stamina"]
 heroImage: "/images/blog/balzac_extreme_focus.png"

@@ -1,8 +1,8 @@
 ---
 title: "虽是贵族却在写作前耕田？列夫·托尔斯泰的身体觉醒惯例"
 description: "大文豪列夫·托尔斯泰能够创作出《战争与和平》等巨著的能量源泉何在？剖析他在每天早晨写作前通过身体锻炼 and 体操来唤醒大脑功能的健康惯例。"
-pubDate: "2026-04-05"
-updatedDate: "2026-04-05"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["虽是贵族却在写作前耕","Routine"]
 heroImage: "/images/blog/tolstoy_physical_labor.png"

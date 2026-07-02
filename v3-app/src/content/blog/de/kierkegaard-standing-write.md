@@ -1,8 +1,8 @@
 ---
 title: "Der Philosoph, der direkt nach dem Gehen mit Hut im Stehen schrieb? Kierkegaards Routine des sofortigen Festhaltens"
 description: "Wie der existentialistische Philosoph Søren Kierkegaard seine brillanten Gedanken bewahrte. Entdecken Sie seine Methode, sich direkt an einen Stehschreibtisch zu begeben, ohne den Mantel auszuziehen."
-pubDate: "2026-05-02"
-updatedDate: "2026-05-02"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Der Philos","Routine"]
 heroImage: "/images/blog/kierkegaard_standing_write.png"

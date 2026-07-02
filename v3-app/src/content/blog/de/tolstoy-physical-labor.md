@@ -1,8 +1,8 @@
 ---
 title: "Trotz adeligem Status vor dem Schreiben pflügen? Leo Tolstois Routine der körperlichen Aktivierung"
 description: "Woher nahm Leo Tolstoi die Energie für monumentale Werke wie 'Krieg und Frieden'? Erfahren Sie mehr über seine Gesundheitsroutine, die Gehirnleistung vor dem Schreiben durch morgendliche Bewegung und Gymnastik zu aktivieren."
-pubDate: "2026-04-05"
-updatedDate: "2026-04-05"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Trotz adel","Routine"]
 heroImage: "/images/blog/tolstoy_physical_labor.png"

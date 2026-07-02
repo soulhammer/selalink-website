@@ -1,8 +1,8 @@
 ---
 title: "O método de aprendizagem super-rápido de um laureado com o Nobel? O hábito de ensinar de Richard Feynman"
 description: "O segredo de Richard Feynman, que ensinou mecânica quântica de forma tão simples que uma criança de 10 anos conseguia compreender. Conheça a rotina da Técnica Feynman para maximizar a metacognição."
-pubDate: "2026-02-10"
-updatedDate: "2026-02-10"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["O método d","Routine"]
 heroImage: "/images/blog/feynman_explanation_technique.png"

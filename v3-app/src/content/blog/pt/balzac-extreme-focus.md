@@ -1,8 +1,8 @@
 ---
 title: "Acordar à meia-noite para escrever mais de 10 horas com café? A rotina de hiperfoco extremo de Balzac"
 description: "O segredo de gestão do tempo de Honoré de Balzac, o grande autor francês do século XIX. Conheça os efeitos científicos do hiperfoco através do acordar à meia-noite e da ativação pela cafeína."
-pubDate: "2026-03-05"
-updatedDate: "2026-03-05"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Acordar à ","Routine"]
 heroImage: "/images/blog/balzac_extreme_focus.png"

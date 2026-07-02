@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "매일 자정에 일어나 커피와 함께 12시간 집필? 발자크의 극한 초몰입 루틴"
 description: "19세기 프랑스 문학의 거장 오노레 드 발자크가 실천했던 독특한 시간 관리 비법. 자정 기상과 커피 각성을 통해 주의 산만 요소를 극복한 초몰입법의 과학적 효과를 파헤쳐봅니다."
-pubDate: "2026-03-05"
+pubDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
 heroImage: "/images/blog/balzac_extreme_focus.png"
 app: "buildself"
 authority: "슈테판 츠바이크 저 '발자크' 및 현대신경약리학회지(Neuropharmacology)"
-updatedDate: "2026-03-05"
+updatedDate: "2026-07-02"
 faqs:
   - question: "밤늦은 시간에 카페인을 섭취하면 수면에 방해가 되지 않나요?"
     answer: "네, 수면의 질을 저하시킬 수 있습니다. 발자크처럼 매일 자정에 깨는 생활은 현대 직장인에게 부적절하므로, 카페인에 민감하신 분들은 디카페인 커피나 민트 티 등의 대체 음료를 사용하고, 몰입 블록은 가급적 퇴근 직후나 이른 아침 시간에 배치하는 것을 권장합니다."

@@ -1,8 +1,8 @@
 ---
 title: "¿El novelista que caminaba a paso rápido durante 3 horas cada tarde? La rutina de ideas de Charles Dickens"
 description: "El secreto detrás de cómo el gran autor inglés Charles Dickens diseñó personajes realistas y tramas complejas. Descubra su rutina diaria de caminar a paso rápido durante 3 horas y sus efectos revitalizadores para el cerebro."
-pubDate: "2026-01-15"
-updatedDate: "2026-01-15"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["¿El noveli","Routine"]
 heroImage: "/images/blog/dickens_afternoon_walk.png"

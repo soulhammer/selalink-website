@@ -1,8 +1,8 @@
 ---
 title: "每天子夜起床伴着咖啡写作12小时？巴尔扎克的极限超专注惯例"
 description: "19世纪法国文学巨匠奥诺雷·德·巴尔扎克所实践的独特时间管理秘诀。剖析通过子夜起床和咖啡唤醒来克服分心因素的超专注法的科学效果。"
-pubDate: "2026-03-05"
-updatedDate: "2026-03-05"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["每天子夜起床伴着咖啡","Routine"]
 heroImage: "/images/blog/balzac_extreme_focus.png"

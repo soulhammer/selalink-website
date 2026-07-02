@@ -1,8 +1,8 @@
 ---
 title: "A Nobel Laureate's Superfast Learning Method? Richard Feynman's Teaching Habit"
 description: "The secret of Richard Feynman, who taught quantum mechanics so simply that a 10-year-old could understand. Learn the Feynman Technique routine to maximize metacognition and master knowledge."
-pubDate: "2026-02-10"
-updatedDate: "2026-02-10"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Great Habits","feynman","Routine","Stamina"]
 heroImage: "/images/blog/feynman_explanation_technique.png"

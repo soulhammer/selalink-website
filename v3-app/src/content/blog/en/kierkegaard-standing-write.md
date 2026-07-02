@@ -1,8 +1,8 @@
 ---
 title: "The Philosopher Who Wrote Standing Up with Hat On Right After Walking? Kierkegaard's Instant Capture Habit"
 description: "How existentialist philosopher Søren Kierkegaard preserved his brilliant thoughts. Explore his unique method of keeping inspiration by heading straight to a standing desk without even taking off his coat."
-pubDate: "2026-05-02"
-updatedDate: "2026-05-02"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Great Habits","kierkegaard","Routine","Stamina"]
 heroImage: "/images/blog/kierkegaard_standing_write.png"

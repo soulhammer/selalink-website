@@ -1,8 +1,8 @@
 ---
 title: "¿El filósofo que escribía de pie con el sombrero puesto justo después de caminar? El hábito de captura instantánea de Kierkegaard"
 description: "Cómo el filósofo existencialista Søren Kierkegaard conservaba sus pensamientos brillantes. Conozca su método de dirigirse al escritorio de pie sin quitarse el abrigo para no perder la inspiración."
-pubDate: "2026-05-02"
-updatedDate: "2026-05-02"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["¿El filóso","Routine"]
 heroImage: "/images/blog/kierkegaard_standing_write.png"

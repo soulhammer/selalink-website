@@ -1,8 +1,8 @@
 ---
 title: "Novelis yang Berjalan Cepat Selama 3 Jam Setiap Sore? Rutinitas Ide Charles Dickens"
 description: "Rahasia di balik bagaimana penulis besar Inggris Charles Dickens merancang karakter yang hidup dan alur cerita yang rumit. Temukan rutinitas jalan cepat 3 jam sehari dan efeknya dalam menyegarkan otak."
-pubDate: "2026-01-15"
-updatedDate: "2026-01-15"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Novelis ya","Routine"]
 heroImage: "/images/blog/dickens_afternoon_walk.png"

@@ -1,8 +1,8 @@
 ---
 title: "Arar os campos antes de escrever apesar do seu estatuto nobre? A rotina de despertar físico de Leão Tolstoi"
 description: "De onde é que Leão Tolstoi tirava a energia para escrever romances monumentais como 'Guerra e Paz'? Conheça a sua rotina de despertar a função cerebral através do exercício físico matinal antes de escrever."
-pubDate: "2026-04-05"
-updatedDate: "2026-04-05"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Arar os ca","Routine"]
 heroImage: "/images/blog/tolstoy_physical_labor.png"

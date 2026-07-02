@@ -1,8 +1,8 @@
 ---
 title: "诺贝尔奖得主的超高速学习法？理查德·费曼的教授惯例"
 description: "理查德·费曼能够将复杂的量子力学讲得连10岁儿童也能理解的秘诀。介绍通过最大化元认知来彻底掌握知识的费曼技巧惯例。"
-pubDate: "2026-02-10"
-updatedDate: "2026-02-10"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["诺贝尔奖得主的超高速","Routine"]
 heroImage: "/images/blog/feynman_explanation_technique.png"

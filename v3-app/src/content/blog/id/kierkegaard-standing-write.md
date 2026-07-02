@@ -1,8 +1,8 @@
 ---
 title: "Filsuf yang Menulis Sambil Berdiri dengan Topi Tepat Setelah Berjalan? Kebiasaan Menangkap Instan Kierkegaard"
 description: "Cara filsuf eksistensialis Søren Kierkegaard mempertahankan pikirannya yang cemerlang. Selidiki metode uniknya menjaga inspirasi dengan langsung menuju meja berdiri tanpa melepas mantelnya."
-pubDate: "2026-05-02"
-updatedDate: "2026-05-02"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Filsuf yan","Routine"]
 heroImage: "/images/blog/kierkegaard_standing_write.png"

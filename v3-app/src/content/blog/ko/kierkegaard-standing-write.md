@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "산책하고 오자마자 모자 쓴 채 서서 글을 쓴 철학자? 키르케고르의 즉시 포착 습관"
 description: "실존주의 철학자 쇠렌 키르케고르가 번뜩이는 사색을 잃지 않았던 방법. 문을 열자마자 옷도 벗지 않고 스탠딩 책상으로 향해 서서 글을 썼던 그의 독특한 영감 보존법을 파헤쳐 봅니다."
-pubDate: "2026-05-02"
+pubDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["위인 습관", "쇠렌 키르케고르", "기록", "스탠딩데스크", "영감"]
 heroImage: "/images/blog/kierkegaard_standing_write.png"
 app: "buildself"
 authority: "요아킴 가프 저 '쇠렌 키르케고르의 일대기' 및 인간공학회지(Applied Ergonomics)"
-updatedDate: "2026-05-02"
+updatedDate: "2026-07-02"
 faqs:
   - question: "꼭 서서 써야 하나요? 앉아서 쓰면 안 되나요?"
     answer: "귀가 직후 소파나 의자에 앉으면 신체가 급격한 이완 상태로 유도되어 각성도가 빠르게 떨어집니다. 서 있는 자세(Standing)는 신체적 각성을 다소 유지해 뇌의 작업 기억력을 보존해 주므로, 아이디어의 핵심 얼개를 받아 적는 10분 동안은 서서 작성하는 것이 인지적으로 훨씬 유리합니다."

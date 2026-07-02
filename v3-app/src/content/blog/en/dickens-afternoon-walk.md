@@ -1,8 +1,8 @@
 ---
 title: "The Novelist Who Walked at a Brisk Pace for 3 Hours Every Afternoon? Charles Dickens' Idea Routine"
 description: "The secret behind how great English author Charles Dickens designed lifelike characters and complex plots. Discover his daily 3-hour brisk walking routine and its brain-refreshing effects."
-pubDate: "2026-01-15"
-updatedDate: "2026-01-15"
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
 category: "BuildSelf"
 tags: ["Great Habits","dickens","Routine","Stamina"]
 heroImage: "/images/blog/dickens_afternoon_walk.png"
