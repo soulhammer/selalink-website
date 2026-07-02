@@ -137,6 +137,27 @@ function run() {
         console.log(`  - [${lang.toUpperCase()}] 파일 날짜 동기화 완료`);
       }
     });
+    
+    // JSON 마스터 메타 파일 날짜 갱신 및 동기화
+    const petsJsonPath = path.join(__dirname, 'data/blogs/pets', `${slug}.json`);
+    const habitsJsonPath = path.join(__dirname, 'data/blogs/habits', `${slug}.json`);
+    let jsonPath = null;
+
+    if (fs.existsSync(petsJsonPath)) {
+      jsonPath = petsJsonPath;
+    } else if (fs.existsSync(habitsJsonPath)) {
+      jsonPath = habitsJsonPath;
+    }
+
+    if (jsonPath) {
+      const jsonData = JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
+      if (jsonData[slug]) {
+        jsonData[slug].pubDate = selectedDate;
+        jsonData[slug].updatedDate = selectedDate;
+        fs.writeFileSync(jsonPath, JSON.stringify(jsonData, null, 2) + '\n', 'utf-8');
+        console.log(`  - [JSON] 마스터 메타 파일 날짜 갱신 완료 (${path.basename(jsonPath)})`);
+      }
+    }
     console.log('');
   });
 

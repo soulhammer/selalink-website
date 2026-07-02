@@ -1,6 +1,512 @@
 {
   "jindo-care": {
-    "pubDate": "2026-07-02",
-    "updatedDate": "2026-07-02"
+    "pubDate": "2026-02-26",
+    "updatedDate": "2026-02-26",
+    "locales": {
+      "en": {
+        "title": "Loyal Jindo Dog Socialization Guide and Double Coat 3-Step Care Routine",
+        "description": "Learn Jindo dog socialization and grooming guidelines.",
+        "authority": "National Institute of Animal Science Jindo Standards & KKC Behavior Expert Protocol",
+        "profile": {
+          "breed": "Jindo Dog",
+          "lifespan": "12 ~ 15 Years",
+          "sleep_pattern": "10 ~ 12 Hours (Outdoor Guard Integrated)",
+          "temperament": "Extremely Loyal, Brave, Highly Alert"
+        },
+        "intro": "The Jindo dog is Korea's national treasure. They possess a dense double coat developed to adapt to distinct seasonal climates, resulting in heavy shedding during season changes. Today at PetSelf, we share socialization tips to reduce caution and a 3-step homecare routine to manage their double coat.",
+        "whyTitle": "Jindo Body Language: Signals of Caution",
+        "whyDesc": "Jindo dogs communicate clearly through the angles of their tail and ears. Standing the tail straight up and pointing the ears forward indicates alert focus.",
+        "body_signals": [
+          {
+            "name": "Erect Tail & Forward Ears",
+            "meaning": "Alert and focused on unfamiliar targets.",
+            "response": "Avoid sudden touch and let the owner calm the dog down."
+          },
+          {
+            "name": "Low Tail & Flat Ears",
+            "meaning": "Deep obedience, trust, and affection.",
+            "response": "Stroke gently and offer verbal praise."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Socialization Walks Focused on Sniffing",
+            "text": "Walk in quiet morning hours to desensitize them to unfamiliar stimuli."
+          },
+          {
+            "name": "Afternoon: Brushing to Remove Dead Hair",
+            "text": "Use a slicker brush and a steel comb to remove trapped undercoat hairs."
+          },
+          {
+            "name": "Evening: Cooperative Touch Handling",
+            "text": "Handle paws, ears, and snout gently while offering treats."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is Jindo easy to raise indoors?",
+            "answer": "Yes, but they prefer outdoor toilet habits and shed heavily."
+          },
+          {
+            "question": "My Jindo is aggressive to other dogs. Is it normal?",
+            "answer": "They are independent and territorial. Try to train social neutrality."
+          }
+        ],
+        "tags": [
+          "Jindo",
+          "Socialization",
+          "Double Coat",
+          "Homecare"
+        ]
+      },
+      "ja": {
+        "title": "忠実な珍島犬の社会化ガイドとダブルコート管理3ステップ日常習慣",
+        "description": "飼い主には従順ですが警戒心の強い珍島犬（チンドケン）の正しい社会化訓練と、抜け毛の多いダブルコートをケアする3ステップ日常習慣を紹介します。",
+        "authority": "国立畜産科学院珍島犬管理ガイドおよびKKC行動専門家プロトコル",
+        "profile": {
+          "breed": "珍島犬 (Jindo Dog)",
+          "lifespan": "12 〜 15年",
+          "sleep_pattern": "10 〜 12時間 (警戒活動連携型)",
+          "temperament": "極めて忠実、勇敢、強い警戒心"
+        },
+        "intro": "珍島犬（チンドケン）は韓国を代表する天然記念物であり、世界的に認められた忠実で知的な犬種です。飼い主との強い絆を誇りますが、強い警戒心のため社会化期を逃すと他者や他の動物に対して排他的になりがちです。また、ダブルコートを持つため、換毛期の抜け毛が非常に激しいです. 本日、PetSelfでは珍島犬の警戒心を和らげる社会化ノウハウと、毛並み管理のためのホームケアルーティンを共有します。",
+        "whyTitle": "珍島犬のボディランゲージ：忠誠心と警戒のシグナル",
+        "whyDesc": "珍島犬は感情表現が控えめであり、尻尾と耳の角度を通じて意思を伝えます。尻尾を真っ直ぐ立てて耳を前方に集めるのは警戒と集中を表し、この時に急に近づくと防衛反応を引き起こす恐れがあります。逆に、尻尾を低くしてゆっくり振り、耳を横に寝かせる行動は、飼い主への順従と安心を意味します。",
+        "body_signals": [
+          {
+            "name": "尻尾を立てて耳を前方に集める",
+            "meaning": "見知らぬ対象を警戒し、緊張が高まっている状態です。",
+            "response": "無理な接触を避け、見知らぬ人には触らないよう頼み、飼い主が静かに落ち着かせます。"
+          },
+          {
+            "name": "尻尾を下げて耳を寝かせて近づく",
+            "meaning": "飼い主への深い信頼と服従、そして愛情を求めているサインです。",
+            "response": "優しく撫でてあげて、良好な関係をさらに強化しましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：ノーズワークを中心とした静かなお散歩による社会化",
+            "text": "刺激の少ない朝の時間帯にお散歩し、十分なノーズワークを通じて外部環境に慣れさせます。"
+          },
+          {
+            "name": "午後：ダブルコートのブラッシングによる死毛除去",
+            "text": "スリッカーブラシとコームを使用し、皮膚近くの不要な毛を取り除き、皮膚炎を予防します。"
+          },
+          {
+            "name": "夜：スキンシップの慣らし訓練とポジティブ強化",
+            "text": "足元や耳などの敏感な部位に優しく触れながらおやつを与え、お手入れに対する安心感を植え付けます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "珍島犬は室内で飼うのは難しいですか？",
+            "answer": "室内排泄を嫌う傾向と抜け毛対策をクリアできれば、室内でも十分適応します。ただし、毎日の運動と知的な刺激は必須です。"
+          },
+          {
+            "question": "他の犬と仲良くできないのですが、大丈夫ですか？",
+            "answer": "本来独立心が強く領域意識が高いため、他の犬と無理に遊ぶ必要はありません。見かけても吠えずにやり過ごせる状態を目指しましょう。"
+          }
+        ],
+        "tags": [
+          "珍島犬",
+          "社会化",
+          "ダブルコート",
+          "ペットケア"
+        ]
+      },
+      "zh": {
+        "title": "忠诚珍岛犬的社会化指南与双层毛护理3步骤常规",
+        "description": "介绍珍岛犬的正确社会化训练方法，以及如何管理其严重掉毛的双层毛皮的3个日常家庭护理步骤。",
+        "authority": "国立畜产科学院珍岛犬指南及KKC行为专家协议",
+        "profile": {
+          "breed": "珍岛犬 (Jindo Dog)",
+          "lifespan": "12 ~ 15 年",
+          "sleep_pattern": "10 ~ 12 小时 (户外防卫结合型)",
+          "temperament": "极其忠诚、勇敢、警惕性高"
+        },
+        "intro": "珍岛犬是韩国的天然纪念物，也是世界公认的忠诚而聪明的犬种。它们与主人有着极强的纽带，但警惕性高，如果错过社会化期，容易对陌生人或动物产生排他性。此外，它们拥有密集的双层毛以适应季节变化，换毛期掉毛非常严重。今天PetSelf分享珍岛犬的社会化诀窍及毛发护理常规。",
+        "whyTitle": "珍岛犬的身体语言：忠诚与警惕的信号",
+        "whyDesc": "珍岛犬感情表达沉稳，通过尾巴和耳朵的角度传递明确意思。尾巴竖立、耳朵向前集中表示警惕与专注。相反，尾巴垂下并缓慢摆动、耳朵向两侧贴平表示顺从和放松。",
+        "body_signals": [
+          {
+            "name": "尾巴直立 & 耳朵向前集中",
+            "meaning": "对陌生目标高度专注和警惕，处于紧张状态。",
+            "response": "避免突然接触，请陌生人不要抚摸，由主人用平静的语气安抚。"
+          },
+          {
+            "name": "尾巴下垂 & 耳朵贴平",
+            "meaning": "对主人深厚的服从、信任与依恋。",
+            "response": "温柔抚摸并给予口头表扬，以此强化信任纽带。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：以安静嗅闻（嗅觉游戏）为主的社会化散步",
+            "text": "选择安静的早晨时间散步，通过充分 of 嗅闻训练来适应外部环境。"
+          },
+          {
+            "name": "下午：使用针梳和排梳清理双层毛",
+            "text": "使用针梳和钢梳清理双层毛，防止毛发结团并预防皮肤炎。"
+          },
+          {
+            "name": "晚上：脱敏抚摸与积极强化",
+            "text": "温柔触摸爪子、耳朵等敏感部位并给予零食，建立对护理的良好印象。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "珍岛犬在室内饲养困难吗？",
+            "answer": "如果能接受珍岛犬喜欢户外排便和掉毛多的特点，它们能很好地适应室内。每天至少保证2次散步和智力活动。"
+          },
+          {
+            "question": "与其他狗相处得好吗？",
+            "answer": "它们天生独立且领地意识强，没必要强求与其他狗玩耍。以在路上相遇时能安静走过为训练目标即可。"
+          }
+        ],
+        "tags": [
+          "珍岛犬",
+          "社会化",
+          "双层毛",
+          "宠物护理"
+        ]
+      },
+      "es": {
+        "title": "Guía de socialización y rutina de 3 pasos para el pelaje doble del perro Jindo",
+        "description": "Aprende métodos de socialización para el perro Jindo y una rutina para su pelaje doble.",
+        "authority": "Pautas estándar de Jindo del Instituto Nacional de Ciencia Animal y KKC",
+        "profile": {
+          "breed": "Perro Jindo (Jindo Dog)",
+          "lifespan": "12 ~ 15 años",
+          "sleep_pattern": "10 ~ 12 horas (Guardia al aire libre)",
+          "temperament": "Extremadamente leal, valiente, muy alerta"
+        },
+        "intro": "El perro Jindo es un tesoro nacional de Corea. Aunque tienen un fuerte vínculo con su dueño, su naturaleza cautelosa puede hacerlos defensivos con extraños. Hoy en PetSelf compartimos consejos de socialización y una rutina para cuidar su pelaje.",
+        "whyTitle": "Lenguaje corporal del Jindo: Señales de lealtad y precaución",
+        "whyDesc": "Los perros Jindo se comunican a través de las posiciones de la cola y las orejas. Mantener la cola erguida indica alerta.",
+        "body_signals": [
+          {
+            "name": "Cola erguida y orejas hacia adelante",
+            "meaning": "Alerta y concentración en un objetivo desconocido.",
+            "response": "Evita el contacto repentino y cálmalo en un tono tranquilo."
+          },
+          {
+            "name": "Cola baja y orejas planas",
+            "meaning": "Obediencia profunda y confianza hacia el dueño.",
+            "response": "Acarícialo suavemente y refuerza su confianza constantemente."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Paseo de socialización enfocado en el olfato",
+            "text": "Pasea en las horas tranquilas de la mañana para desensibilizar al perro al entorno."
+          },
+          {
+            "name": "Tarde: Cepillado del pelaje doble para eliminar el pelo muerto",
+            "text": "Usa un cepillo slicker y un peine metálico para quitar pelos sueltos."
+          },
+          {
+            "name": "Noche: Entrenamiento de tacto para la socialización",
+            "text": "Toca suavemente patas y orejas, premiando con snacks."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es difícil criar un perro Jindo dentro de casa?",
+            "answer": "Se adaptan bien si toleras su muda de pelo. Requieren paseos diarios y estímulo mental."
+          },
+          {
+            "question": "¿Es normal si mi Jindo no se lleva bien con otros perros?",
+            "answer": "Sí, son independientes y territoriales. Apunte a la neutralidad social."
+          }
+        ],
+        "tags": [
+          "Jindo",
+          "Socialización",
+          "Pelaje doble",
+          "Cuidado del perro"
+        ]
+      },
+      "fr": {
+        "title": "Guide de socialisation et routine pour le double pelage du fidèle chien Jindo",
+        "description": "Socialisation du Jindo et soins pour son double pelage.",
+        "authority": "Directives de l'Institut National des Sciences Animales de Corée et de la KKC",
+        "profile": {
+          "breed": "Chien Jindo (Jindo Dog)",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "10 ~ 12 heures (Garde extérieure)",
+          "temperament": "Extrêmement fidèle, courageux, très alerte"
+        },
+        "intro": "Le Jindo est un trésor national de la Corée. Bien qu'il ait un lien fort avec son propriétaire, sa méfiance naturelle exige une socialisation précoce. Aujourd'hui chez PetSelf, nous partageons des conseils de socialisation.",
+        "whyTitle": "Langage corporel du Jindo : Fidélité et méfiance",
+        "whyDesc": "Les chiens Jindo s'expriment à travers la position de leur queue. Une queue dressée indique l'alerte.",
+        "body_signals": [
+          {
+            "name": "Queue dressée et oreilles vers l'avant",
+            "meaning": "Alerte et concentration sur une cible inconnue.",
+            "response": "Évitez tout contact soudain et calmez-le d'un ton tranquille."
+          },
+          {
+            "name": "Queue basse et oreilles plates",
+            "meaning": "Obéissance profonde et confiance envers le maître.",
+            "response": "Caressez-le doucement et renforcez votre lien de confiance."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Promenade de socialisation axée sur le flair",
+            "text": "Promenez-le aux heures calmes pour désensibiliser le chien grâce au flair."
+          },
+          {
+            "name": "Après-midi : Brossage du double pelage",
+            "text": "Utilisez brosse carde et peigne métallique pour enlever le sous-poil mort."
+          },
+          {
+            "name": "Soir : Exercices de manipulation positive",
+            "text": "Touchez doucement les pattes en offrant des friandises."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Est-il difficile d'élever un Jindo en intérieur ?",
+            "answer": "Ils s'adaptent si vous gérez leur besoin de faire leurs besoins dehors. Promenades quotidiennes nécessaires."
+          },
+          {
+            "question": "Mon Jindo déteste les autres chiens, est-ce normal ?",
+            "answer": "Oui, ils sont indépendants par nature. Visez la neutralité sociale."
+          }
+        ],
+        "tags": [
+          "Jindo",
+          "Socialisation",
+          "Pelage double",
+          "Toilettage"
+        ]
+      },
+      "de": {
+        "title": "Sozialisierungsleitfaden und 3-Schritte-Routine für das doppelte Fell des loyalen Jindo-Hundes",
+        "description": "Lernen Sie Sozialisierungsmethoden für den Jindo-Hund und die Pflege seines dichten Doppelmantels.",
+        "authority": "Richtlinien des Nationalen Instituts für Nutztierwissenschaften Koreas und der KKC",
+        "profile": {
+          "breed": "Jindo-Hund (Jindo Dog)",
+          "lifespan": "12 ~ 15 Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (Außenwache integriert)",
+          "temperament": "Äußerst loyal, mutig, sehr wachsam"
+        },
+        "intro": "Der Jindo-Hund ist ein nationales Heiligtum Koreas. Sie bauen eine starke Bindung zu ihrem Besitzer auf, können jedoch Fremden gegenüber defensiv reagieren. Heute bei PetSelf teilen wir Tipps zur Pflege.",
+        "whyTitle": "Körpersprache des Jindos: Loyalität und Vorsicht",
+        "whyDesc": "Jindo-Hunde kommunizieren über die Positionen von Rute und Ohren. Eine aufgerichtete Rute signalisiert Alarmbereitschaft.",
+        "body_signals": [
+          {
+            "name": "Aufgerichtete Rute und aufgestellte Ohren",
+            "meaning": "Alarmbereitschaft auf ein unbekanntes Ziel unter Anspannung.",
+            "response": "Vermeiden Sie plötzlichen Kontakt und beruhigen Sie ihn mit leiser Stimme."
+          },
+          {
+            "name": "Gesenkte Rute und flach angelegte Ohren",
+            "meaning": "Gehorsam und Vertrauen gegenüber dem Besitzer.",
+            "response": "Streicheln Sie ihn sanft und stärken Sie diese Bindung."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Sozialisierungsspaziergang mit Nasenarbeit",
+            "text": "Gehen Sie morgens spazieren, um den Hund durch Schnüffeln an die Umwelt zu gewöhnen."
+          },
+          {
+            "name": "Nachmittag: Bürsten des Doppelmantels zur Entfernung der Unterwolle",
+            "text": "Verwenden Sie eine Zupfbürste, um abgestorbene Unterwolle gründlich zu entfernen."
+          },
+          {
+            "name": "Abend: Desensibilisierungstraining für Berührungen",
+            "text": "Berühren Sie vorsichtig Pfoten und Ohren und belohnen Sie ihn sofort mit Leckerlis."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist die Haltung eines Jindos im Haus schwierig?",
+            "answer": "Sie passen sich gut an, solange Sie das Haaren bewältigen. Täglich Spaziergänge sind Pflicht."
+          },
+          {
+            "question": "Versteht sich mein Jindo mit anderen Hunden?",
+            "answer": "Jindos sind unabhängig. Streben Sie soziale Neutralität bei Begegnungen an."
+          }
+        ],
+        "tags": [
+          "Jindo",
+          "Sozialisierung",
+          "Doppelfell",
+          "Hundepflege"
+        ]
+      },
+      "pt": {
+        "title": "Guia de socialização e rotina de 3 passos para o pelo duplo del fiel cão Jindo",
+        "description": "Aprenda métodos de socialização para o cão Jindo e cuidados com pelo duplo.",
+        "authority": "Diretrizes de Jindo do Instituto Nacional de Ciência Animal da Coreia e KKC",
+        "profile": {
+          "breed": "Cão Jindo (Jindo Dog)",
+          "lifespan": "12 ~ 15 anos",
+          "sleep_pattern": "10 ~ 12 horas (Guarda externa integrada)",
+          "temperament": "Extremamente leal, corajoso, muito alerta"
+        },
+        "intro": "O cão Jindo é um tesouro nacional da Coreia. Embora criem um laço forte com o dono, sua natureza cautelosa exige socialização precoce. Hoje na PetSelf, compartilhamos dicas de socialização.",
+        "whyTitle": "Linguagem corporal do Jindo: Lealdade e precaução",
+        "whyDesc": "Os cães Jindo se comunicam através das posições da cauda e das orelhas. Uma cauda erguida indica alerta.",
+        "body_signals": [
+          {
+            "name": "Cauda erguida e orelhas para a frente",
+            "meaning": "Alerta e concentração em um alvo desconhecido.",
+            "response": "Evite contato repentino e acalme-o com voz suave."
+          },
+          {
+            "name": "Cauda baixa e orelhas planas",
+            "meaning": "Obediência profunda, confiança e carinho em relação ao dono.",
+            "response": "Acaricie-o suavemente e reforce esse laço de confiança continuamente."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Passeio de socialização com foco no olfato",
+            "text": "Passeie nas horas calmas da manhã para dessensibilizar o cão ao ambiente."
+          },
+          {
+            "name": "Tarde: Escovação da pelagem dupla para remover subpelo morto",
+            "text": "Use uma rasqueadeira e um pente metálico para remover o subpelo morto."
+          },
+          {
+            "name": "Noite: Treinamento de dessensibilização ao toque",
+            "text": "Toque delicadamente em áreas sensíveis como patas e orelhas, premiando com petiscos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É difícil criar um cão Jindo dentro de casa?",
+            "answer": "Eles se adaptam bem à vida interna, desde que você lide com a queda de pelos. Passeios são obrigatórios."
+          },
+          {
+            "question": "É normal se o meu Jindo não se der bem com outros cães?",
+            "answer": "Sim, Jindos são independentes e territoriais. Busque a neutralidade social."
+          }
+        ],
+        "tags": [
+          "Jindo",
+          "Socialização",
+          "Pelo duplo",
+          "Cuidados"
+        ]
+      },
+      "id": {
+        "title": "Panduan Sosialisasi dan Rutinitas Perawatan Bulu Ganda Anjing Jindo yang Setia",
+        "description": "Cara melatih sosialisasi Jindo yang waspada terhadap orang asing dan 3 rutinitas merawat bulu ganda.",
+        "authority": "Lembaga Ilmu Peternakan Nasional Korea & Protokol Pakar Perilaku KKC",
+        "profile": {
+          "breed": "Anjing Jindo (Jindo Dog)",
+          "lifespan": "12 ~ 15 tahun",
+          "sleep_pattern": "10 ~ 12 jam (Penjagaan luar ruangan)",
+          "temperament": "Sangat setia, pemberani, sangat waspada"
+        },
+        "intro": "Anjing Jindo adalah harta karun nasional Korea yang diakui dunia karena kesetiaan dan kecerdasannya. Mereka memiliki ikatan kuat dengan pemiliknya, tetapi kewaspadaan tinggi membuat mereka defensif jika kurang sosialisasi. Bulu ganda mereka rontok parah saat pergantian musim. Hari ini PetSelf membagikan tips sosialisasi dan perawatan bulu Jindo.",
+        "whyTitle": "Bahasa Tubuh Jindo: Kesetiaan dan Kewaspadaan",
+        "whyDesc": "Jindo mengekspresikan emosi dengan tenang lewat telinga dan ekor. Ekor tegak dan telinga condong ke depan menunjukkan kewaspadaan, sedangkan ekor rendah bergoyang perlahan menandakan kepatuhan.",
+        "body_signals": [
+          {
+            "name": "Ekor tegak dan telinga condong ke depan",
+            "meaning": "Waspada dan fokus pada target yang tidak dikenal.",
+            "response": "Hindari kontak mendadak, minta orang asing tidak menyentuh, dan tenangkan anjing secara perlahan."
+          },
+          {
+            "name": "Ekor rendah bergoyang perlahan dan telinga rata",
+            "meaning": "Kepatuhan mendalam dan rasa percaya kepada pemilik.",
+            "response": "Elus dengan lembut untuk memperkuat hubungan positif secara konsisten."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Jalan-jalan sosialisasi santai dengan fokus penciuman",
+            "text": "Berjalan di pagi hari saat sepi agar anjing terbiasa dengan berbagai aroma lingkungan."
+          },
+          {
+            "name": "Siang: Menyikat bulu ganda untuk menghilangkan bulu mati",
+            "text": "Gunakan slicker brush dan sisir besi untuk membersihkan bulu mati dan mencegah infeksi kulit."
+          },
+          {
+            "name": "Sore: Latihan desensitisasi sentuhan",
+            "text": "Sentuh area sensitif seperti cakar dan telinga sambil memberikan camilan untuk membangun memori positif."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah sulit memelihara Jindo di dalam rumah?",
+            "answer": "Bisa beradaptasi dengan baik jika Anda rutin mengajaknya buang air di luar dan membersihkan bulu rontok. Jalan-jalan 2 kali sehari wajib dilakukan."
+          },
+          {
+            "question": "Anjing Jindo saya tidak ramah dengan anjing lain, apakah wajar?",
+            "answer": "Wajar karena mereka mandiri dan teritorial. Targetkan respon netral (tenang tanpa menggonggong) saat berpapasan dengan anjing lain."
+          }
+        ],
+        "tags": [
+          "Jindo",
+          "Sosialisasi",
+          "Bulu ganda",
+          "Anjing"
+        ]
+      },
+      "ko": {
+        "title": "충직한 진돗개의 낯가림 완화 사회화 가이드와 이중모 관리 3단계 루틴",
+        "description": "보호자에게는 충직하지만 낯선 이에게는 경계심이 강한 진돗개. 올바른 사회화 훈련법과 털 빠짐이 심한 이중모를 관리하는 3단계 루틴을 소개합니다.",
+        "authority": "국립축산과학원 진돗개 표준 관리 지침 및 KKC 행동 전문가 프로토콜",
+        "profile": {
+          "breed": "진돗개 (Jindo Dog)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "10 ~ 12시간 (실외 경계 결합형)",
+          "temperament": "극도로 충직함, 용맹함, 경계심 강함"
+        },
+        "intro": "진돗개는 대한민국을 대표하는 천연기념물이자 세계적으로 인정받는 충직하고 영리한 품종입니다. 보호자와의 강한 결속력과 깨끗한 성품을 자랑하지만, 한 사람만 따르는 성향과 강한 경계심 때문에 사회화 시기를 놓치면 낯선 사람이나 동물에게 배타적으로 변하기 쉽습니다. 🐕 또한, 사계절이 뚜렷한 기후에 적응해 온 빽빽한 이중모를 가지고 있어 환절기 털 빠짐이 매우 심합니다. 오늘 PetSelf에서는 진돗개의 경계심을 낮추는 사회화 노하우와 털 관리를 위한 홈케어 루틴을 제안합니다.",
+        "whyTitle": "진돗개의 바디 랭귀지: 충성심과 경계의 시그널",
+        "whyDesc": "진돗개는 감정 표현이 묵직하며, 꼬리와 귀의 각도를 통해 명확한 의사를 전달합니다. 특히 꼬리를 꼿꼿이 세우고 귀를 전방으로 쫑긋하는 것은 경계와 집중을 나타내며, 이때 낯선 이가 갑자기 다가오면 방어적 공격성이 유발될 수 있습니다. 반면 꼬리를 낮추고 천천히 흔들며 귀를 옆으로 눕히는 행동은 보호자에 대한 순종과 편안함을 의미합니다.",
+        "body_signals": [
+          {
+            "name": "꼬리를 세우고 귀를 전방으로 모음",
+            "meaning": "낯선 대상에 경계와 집중을 하고 있으며 긴장감이 고조된 상태입니다.",
+            "response": "갑작스러운 접촉을 피하고, 낯선 사람에게는 만지지 말아 달라고 요청한 뒤 보호자가 차분히 진정시켜야 합니다."
+          },
+          {
+            "name": "꼬리를 낮추고 귀를 눕히며 접근",
+            "meaning": "보호자에 대한 깊은 복종과 신뢰를 뜻하며 애정을 호소하는 것입니다.",
+            "response": "부드럽게 쓰다듬어 주며 긍정적인 관계를 지속적으로 강화합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 평화로운 냄새 맡기(노즈워크) 중심의 사회화 산책",
+            "text": "낯선 자극에 무뎌질 수 있도록 자극이 적은 아침 시간에 산책하며 다양한 냄새를 충분히 맡게 해줍니다."
+          },
+          {
+            "name": "오후: 빗질을 통한 이중모 죽은 털 제거와 모질 관리",
+            "text": "슬리커 브러시와 일자 빗을 사용하여 피부 속 빽빽한 속털과 죽은 털을 제거해 엉킴과 피부염을 예방합니다."
+          },
+          {
+            "name": "저녁: 긍정적 강화를 위한 터치 훈련과 스킨십",
+            "text": "발 끝, 귀, 입 주변 등 예민한 부위를 가볍게 만지며 간식을 제공해 스킨십에 대한 긍정적 기억을 심어줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "진돗개는 실내에서 키우기 어렵나요?",
+            "answer": "실내 배변을 고집하는 성향과 이중모의 털 빠짐을 감당할 수 있다면 실내에서도 잘 적응합니다. 다만 매일 2회 이상의 충분한 산책과 두뇌 자극 활동이 필수적입니다."
+          },
+          {
+            "question": "다른 강아지와 친하게 지내지 않는데 괜찮은가요?",
+            "answer": "진돗개는 본능적으로 독립적이고 영역 경계심이 강해 다른 견종과 꼭 절친하게 지낼 필요는 없습니다. 낯선 강아지를 보고도 짖거나 흥분하지 않고 조용히 지나치는 '사회적 무관심'을 목표로 훈련하는 것이 좋습니다."
+          }
+        ],
+        "tags": [
+          "진돗개",
+          "사회화 훈련",
+          "이중모 관리",
+          "반려견 홈케어"
+        ]
+      }
+    }
   }
 }

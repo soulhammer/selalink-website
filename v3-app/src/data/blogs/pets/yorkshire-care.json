@@ -1,6 +1,512 @@
 {
   "yorkshire-care": {
-    "pubDate": "2026-07-02",
-    "updatedDate": "2026-07-02"
+    "pubDate": "2026-01-02",
+    "updatedDate": "2026-01-02",
+    "locales": {
+      "en": {
+        "title": "Yorkshire Terrier Coat Maintenance and Patella Subluxation 3-Step Homecare",
+        "description": "Discover grooming secrets to keep your Yorkie silky and prevent patellar dislocation.",
+        "authority": "Yorkshire Terrier Club (YTC) Grooming Guide & Veterinary Orthopedics Guidelines",
+        "profile": {
+          "breed": "Yorkshire Terrier",
+          "lifespan": "13 ~ 16 Years",
+          "sleep_pattern": "12 ~ 14 Hours (Indoor Active)",
+          "temperament": "Brave, Smart, Highly Energetic, Affectionate"
+        },
+        "intro": "The Yorkshire Terrier, or 'Yorkie', packs a bold personality. They possess a long single coat very similar to human hair. Additionally, they are highly prone to patellar luxation. Today at PetSelf, we discuss how to maintain their silky coat and protect knee joints.",
+        "whyTitle": "Yorkshire Terrier Body Language: Tiny Hunter Alerts",
+        "whyDesc": "Yorkies have strong guarding and hunting drives. Pulling ears flat back indicates alertness.",
+        "body_signals": [
+          {
+            "name": "Pinned Ears & Rigid Tail",
+            "meaning": "Tense and alert in response to external noises.",
+            "response": "Speak in a warm tone and redirect their attention with treats."
+          },
+          {
+            "name": "Belly Show & Air Paddling",
+            "meaning": "Feeling completely safe, showing submissive trust.",
+            "response": "Rub their belly softly to foster a warm bond."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Moisturizing Mist and Pin Brushing",
+            "text": "Spray conditioning mist and brush with a pin brush gently."
+          },
+          {
+            "name": "Afternoon: Pad Shaving and Non-slip Floor Check",
+            "text": "Trim paw pad hair to prevent slipping on indoor floors."
+          },
+          {
+            "name": "Evening: Low-Impact Indoor Obstacle Steps",
+            "text": "Guide them to step over low cushions to build thigh muscles."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Do Yorkies shed a lot?",
+            "answer": "No, they have single coat. However, daily brushing is needed."
+          },
+          {
+            "question": "How to stop my Yorkie's frequent barking?",
+            "answer": "Barking is watches instinct. Reward silent moments with treats."
+          }
+        ],
+        "tags": [
+          "Yorkshire Terrier",
+          "Coat Grooming",
+          "Patella Care",
+          "Barking Training"
+        ]
+      },
+      "ja": {
+        "title": "ヨークシャーテリアの被毛ケアと膝蓋骨脱臼予防の3ステップホームケア",
+        "description": "シルクのような毛並みが美しいヨークシャーテリア。被毛ケアのコツと、小型犬に多い膝蓋骨脱臼を予防する筋肉トレーニングを解説します。",
+        "authority": "英国ヨークシャーテリアクラブ(YTC)被毛ケアおよび獣医整形外科学行動指針",
+        "profile": {
+          "breed": "ヨークシャーテリア (Yorkshire Terrier)",
+          "lifespan": "13 〜 16年",
+          "sleep_pattern": "12 〜 14時間 (室内活発型)",
+          "temperament": "勇敢、聡明、活気に満ち甘えん坊"
+        },
+        "intro": "ヨークシャーテリアは、愛らしい見た目のなかにテリア犬特有の勇敢で自立した性格を秘めています。「ヨーキー」の愛称で親しまれるこの犬種は、人間の髪に近い細く滑らかなシングルコートを持つため、絡まりやすく丁寧な手入れが必要です。また、膝蓋骨脱臼（パテラ）を起こしやすい特徴があります。本日、PetSelfでは美しい被毛を維持し、関節を守る3ステップのホームケアをご紹介します。",
+        "whyTitle": "ヨークシャーテリアのボディランゲージ：小さなハンターの警戒と甘え",
+        "whyDesc": "テリア種の血を引くヨーキーは警戒心が強く、耳を後ろに引き尻尾をピンと水平に立てる時は緊張状態にあります。反対に、仰向けになって手足をバタバタさせるのは、飼い主を完全に信頼し甘えているサインです。",
+        "body_signals": [
+          {
+            "name": "耳を後ろに引いて尻尾を水平に立てる",
+            "meaning": "外部の微細な刺激に興奮したか、防衛的な警戒態勢を取っているという意味です。",
+            "response": "すぐに抱き上げず、床で名前を呼んでおやつで気を引き, 興奮を落ち着かせます."
+          },
+          {
+            "name": "仰向けでお腹を見せ手足を動かす",
+            "meaning": "心理的な安心感を表し、甘えて注目を集めようとしています。",
+            "response": "胸やお腹を優しくマッサージし、お互いの絆を深めましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：被毛スプレーを使用したピンブラシでのもつれ防止ケア",
+            "text": "静電気や摩擦を防ぐミストをスプレーしてから、ピンブラシで毛先から順に優しくブラッシングします。"
+          },
+          {
+            "name": "午後：滑り防止のための足裏毛カットとマット点検",
+            "text": "フローリングで滑って膝を傷めないよう足裏の毛をカットし、滑り止め対策を確認します。"
+          },
+          {
+            "name": "夜：パテラ予防のための低い障害物またぎ訓練",
+            "text": "低いクッションなどを跨ぐ動作をさせ、膝蓋骨を支える太ももの筋肉を鍛えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ヨークシャーテリアは抜け毛が多いですか？",
+            "answer": "シングルコートのため抜け毛は極めて少ない犬種です。ただ細い毛質で絡まりやすいため、毎日のブラッシングは欠かせません。"
+          },
+          {
+            "question": "無駄吠えへの対処法は？",
+            "answer": "警戒心から吠えやすい傾向があります。吠えた時に構わず無視し、吠えやんだ瞬間に褒めておやつをあげるしつけが有効です。"
+          }
+        ],
+        "tags": [
+          "ヨークシャーテリア",
+          "被毛ケア",
+          "膝蓋骨脱臼予防",
+          "無駄吠え対策"
+        ]
+      },
+      "zh": {
+        "title": "约克夏梗犬的被毛护理与预防髌骨脱位3步骤家庭护理",
+        "description": "探讨约克夏梗犬被毛美容秘诀与髌骨关节常规。",
+        "authority": "英国约克夏梗犬俱乐部(YTC)美容指南及兽医整形外科指南",
+        "profile": {
+          "breed": "约克夏梗 (Yorkshire Terrier)",
+          "lifespan": "13 ~ 16 年",
+          "sleep_pattern": "12 ~ 14 小时 (室内活跃型)",
+          "temperament": "勇敢、聪明、精力充沛、黏人"
+        },
+        "intro": "约克夏梗在娇小像洋娃娃一样的身体里蕴藏着梗犬特有的勇敢性格。它们拥有一层极像人类头发的细软单层毛，容易打结折断。另外，小型玩具犬易患髌骨脱位。今天PetSelf介绍被毛保养与关节健康。",
+        "whyTitle": "约克夏梗的身体语言：警惕与撒娇",
+        "whyDesc": "虽然体型小，但约克夏带有强烈的警卫与狩猎本能。翻滚露出 belly 则是信任的表达。",
+        "body_signals": [
+          {
+            "name": "耳朵平贴 & 尾巴僵硬直立",
+            "meaning": "由于外部细微声音而处于警惕状态，准备吠叫。",
+            "response": "不要立即抱起。用平静的语气呼唤它们，并用零食转移注意力。"
+          },
+          {
+            "name": "翻滚露肚 & 空中划爪",
+            "meaning": "极度安心，展示服从性信任并请求抚摸。",
+            "response": "温柔抚摸它们的肚子，增强亲密的联结。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：使用保湿喷雾与细齿针梳进行防打结护理",
+            "text": "轻轻喷洒保湿喷雾防止断毛, 针梳温柔梳理。"
+          },
+          {
+            "name": "下午：剃除足底毛与防滑地板检查",
+            "text": "剃除足底多余毛发防滑，避免在木地板上滑倒。"
+          },
+          {
+            "name": "晚上：低强度室内障碍物跨越训练",
+            "text": "引导它们跨越矮垫子，锻炼大腿肌肉以稳固膝盖骨。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "约克夏梗犬掉毛严重吗？",
+            "answer": "不严重。它们没有底毛，但长发极易缠结，需要每天梳理。"
+          },
+          {
+            "question": "怎么训练约克夏不乱吠叫？",
+            "answer": "警惕性高而对声音敏感。吠叫时不要理会，在它们安静时及时给予奖励。"
+          }
+        ],
+        "tags": [
+          "约克夏梗",
+          "被毛美容",
+          "髌骨关节",
+          "吠叫训练"
+        ]
+      },
+      "es": {
+        "title": "Mantenimiento del pelo del Yorkshire Terrier y prevención de luxación patelar",
+        "description": "Mantén el pelo del Yorkshire Terrier sedoso y previene luxación de rótula.",
+        "authority": "Guía del Yorkshire Terrier Club (YTC) y ortopedia veterinaria",
+        "profile": {
+          "breed": "Yorkshire Terrier",
+          "lifespan": "13 ~ 16 años",
+          "sleep_pattern": "12 ~ 14 horas (Activo en interiores)",
+          "temperament": "Valiente, listo, enérgico, muy cariñoso"
+        },
+        "intro": "El Yorkshire Terrier, o 'Yorkie', tiene una personalidad audaz. Su pelo largo es muy similar al cabello humano. Además, son propensos a la luxación de rótula. Hoy en PetSelf mostramos cómo proteger sus rodillas.",
+        "whyTitle": "Lenguaje corporal del Yorkshire: Pequeño cazador",
+        "whyDesc": "Tienen instintos de guardián. Echar las orejas hacia atrás indica alerta.",
+        "body_signals": [
+          {
+            "name": "Orejas hacia atrás y cola rígida",
+            "meaning": "Tensión ante ruidos externos, listo para ladrar.",
+            "response": "Háblale con calma y redirige su atención con premios."
+          },
+          {
+            "name": "Exponer la barriga y mover las patas",
+            "meaning": "Sensación de seguridad absoluta y solicitud de afecto.",
+            "response": "Acaricia su barriga suavemente para fortalecer confianza."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Bruma hidratante y cepillado con pin brush",
+            "text": "Aplica bruma acondicionadora para evitar roturas y cepilla suavemente."
+          },
+          {
+            "name": "Tarde: Recorte de pelo en las almohadillas",
+            "text": "Recorta el pelo entre sus almohadillas para evitar resbalones."
+          },
+          {
+            "name": "Noche: Ejercicios de bajo impacto con obstáculos bajos",
+            "text": "Haz que pase por encima de cojines bajos para fortalecer los muslos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Los Yorkies sueltan mucho pelo?",
+            "answer": "No, tienen una sola capa. Pero su pelo largo se enreda fácilmente."
+          },
+          {
+            "question": "¿Cómo puedo evitar que mi Yorkie ladre tanto?",
+            "answer": "Ladran por su instinto guardián. Premia los momentos de silencio."
+          }
+        ],
+        "tags": [
+          "Yorkshire Terrier",
+          "Pelo sedoso",
+          "Luxación patelar",
+          "Ladridos"
+        ]
+      },
+      "fr": {
+        "title": "Entretien du poil du Yorkshire Terrier et prévention de la luxation de la rotule",
+        "description": "Garde le poil du Yorkshire Terrier soyeux et renforce les genoux.",
+        "authority": "Directives du Yorkshire Terrier Club (YTC) et de l'orthopédie vétérinaire",
+        "profile": {
+          "breed": "Yorkshire Terrier",
+          "lifespan": "13 ~ 16 ans",
+          "sleep_pattern": "12 ~ 14 heures (Actif en intérieur)",
+          "temperament": "Courageux, vif, énergique, très affectueux"
+        },
+        "intro": "Le Yorkshire Terrier, ou 'Yorkie', cache un caractère audacieux. Son poil long est similaire aux cheveux humains. De plus, ils sont sensibles à la luxation de la rotule. Aujourd'hui chez PetSelf, nous expliquons comment protéger ses rotules.",
+        "whyTitle": "Langage corporel du Yorkshire : Petit chasseur",
+        "whyDesc": "Les Yorkies ont un fort instinct de garde. Rabattre les oreilles indique une alerte.",
+        "body_signals": [
+          {
+            "name": "Oreilles rabattues et queue raide",
+            "meaning": "Tension face aux bruits extérieurs, prêt à aboyer.",
+            "response": "Parlez-lui calmement et captez son attention avec des friandises."
+          },
+          {
+            "name": "Exposer le ventre et agiter les pattes",
+            "meaning": "Sentiment de sécurité absolue et demande d'affection.",
+            "response": "Caressez doucement son ventre pour renforcer la confiance."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Brume hydratante et brossage avec brosse à picots",
+            "text": "Vaporisez brume hydratante et brossez doucement de la racine aux pointes."
+          },
+          {
+            "name": "Après-midi : Tonte des coussinets et vérification des sols",
+            "text": "Coupez les poils entre ses coussinets pour éviter les glissades."
+          },
+          {
+            "name": "Soir : Exercices d'obstacles bas en intérieur",
+            "text": "Faites-le passer au-dessus de coussins pour renforcer les muscles de la cuisse."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Le Yorkie perd-il beaucoup de poils ?",
+            "answer": "Non, ils ont pelage simple. Mais brossage quotidien requis."
+          },
+          {
+            "question": "Comment l'empêcher d'aboyer sans arrêt ?",
+            "answer": "L'aboiement est instinct de gardien. Récompensez le silence."
+          }
+        ],
+        "tags": [
+          "Yorkshire Terrier",
+          "Poil soyeux",
+          "Rotule",
+          "L'aboiement"
+        ]
+      },
+      "de": {
+        "title": "Fellpflege beim Yorkshire Terrier und Vorbeugung von Patellaluxation",
+        "description": "Pflege-Geheimnisse für das Fell des Yorkshire Terriers sowie Kniegelenksübungen.",
+        "authority": "Richtlinien des Yorkshire Terrier Club (YTC) und der Veterinärorthopädie",
+        "profile": {
+          "breed": "Yorkshire Terrier",
+          "lifespan": "13 ~ 16 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (Aktiv im Haus)",
+          "temperament": "Mutig, klug, energisch, sehr anhänglich"
+        },
+        "intro": "Der Yorkshire Terrier, oder 'Yorkie', besitzt ein mutiges Wesen. Sein feines Fell ähnelt menschlichem Haar. Zudem sind Kleinsthunde anfällig für Patellaluxation. Heute bei PetSelf zeigen wir Ihnen Kniegelenksschutz.",
+        "whyTitle": "Körpersprache des Yorkshire Terriers: Kleiner Jäger",
+        "whyDesc": "Yorkies haben einen Wach- und Jagdtrieb. Zurückgelegte Ohren signalisieren Alarmbereitschaft.",
+        "body_signals": [
+          {
+            "name": "Ohren nach hinten gelegt und steife Rute",
+            "meaning": "Anspannung und Wachsamkeit, bereit zu kläffen.",
+            "response": "Heben Sie ihn nicht hoch. Lenken Sie ihn mit Leckerlis ab."
+          },
+          {
+            "name": "Präsentation des Bauches und Strampeln",
+            "meaning": "Absolutes Sicherheitsgefühl und Bitte um Zuneigung.",
+            "response": "Kraulen Sie seinen Bauch sanft, um die Bindung zu festigen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Feuchtigkeitsspray und Bürsten mit Pin-Bürste",
+            "text": "Sprühen Sie das Fell mit Pflegespray ein und bürsten Sie es von der Wurzel."
+          },
+          {
+            "name": "Nachmittag: Pfotenpflege und rutschige Böden überprüfen",
+            "text": "Kürzen Sie das Fell zwischen den Ballen, um Rutschen auf Laminat zu verhindern."
+          },
+          {
+            "name": "Abend: Leichtes Hindernistraining zur Kniestärkung",
+            "text": "Lassen Sie ihn über niedrige Kissen steigen, um die Oberschenkelmuskulatur aufzubauen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Haaren Yorkshire Terrier stark?",
+            "answer": "Nein, sie besitzen kein Unterfell. Ihr langes Haar verfilzt jedoch leicht."
+          },
+          {
+            "question": "Wie kann ich meinem Yorkie das Kläffen abgewöhnen?",
+            "answer": "Sie bellen instinktiv. Ignorieren Sie das Kläffen und belohnen Sie Stille."
+          }
+        ],
+        "tags": [
+          "Yorkshire Terrier",
+          "Fellpflege",
+          "Patellaluxation",
+          "Kläffen"
+        ]
+      },
+      "pt": {
+        "title": "Cuidados com o pelo do Yorkshire Terrier e prevenção de luxação patelar",
+        "description": "Mantenha o pelo do Yorkshire Terrier sedoso e previna a luxação de rótula.",
+        "authority": "Diretrizes do Yorkshire Terrier Club (YTC) e ortopedia veterinária",
+        "profile": {
+          "breed": "Yorkshire Terrier",
+          "lifespan": "13 ~ 16 anos",
+          "sleep_pattern": "12 ~ 14 horas (Ativo dentro de casa)",
+          "temperament": "Corajoso, esperto, enérgico, muito apegado"
+        },
+        "intro": "O Yorkshire Terrier, ou 'Yorkie', tem uma personalidade corajosa. Seu pelo longo e fino assemelha-se ao cabelo humano. Além disso, são propensos à luxação patelar. Hoje na PetSelf mostramos rotina de joelho.",
+        "whyTitle": "Linguagem corporal do Yorkshire: Pequeno caçador",
+        "whyDesc": "Apesar do tamanho, os Yorkies têm instinto de guarda. Orelhas para trás indicam alerta.",
+        "body_signals": [
+          {
+            "name": "Orelhas para trás e cauda rígida",
+            "meaning": "Tensão e alerta em resposta a barulhos externos.",
+            "response": "Fale com calma e redirecione a atenção dele com petiscos."
+          },
+          {
+            "name": "Apresentação da barriga e patas no ar",
+            "meaning": "Sensação de segurança absoluta e pedido de atenção.",
+            "response": "Acaricie o peito ou a barriga dele suavemente."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Spray hidratante e escovação com escova de pinos",
+            "text": "Borrife o pelo com spray condicionador e escove suavemente da raiz."
+          },
+          {
+            "name": "Tarde: Higiene das patas e verificação de pisos escorregadios",
+            "text": "Corte o pelo entre as almofadas para evitar escorregões no piso."
+          },
+          {
+            "name": "Noite: Exercício leve de obstáculos para joelho",
+            "text": "Faça-o passar por cima de almofadas baixas para desenvolver musculatura."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Os Yorkshire Terriers soltam muito pelo?",
+            "answer": "Não. Os Yorkies possuem pelagem simples. Mas escovação diária é necessária."
+          },
+          {
+            "question": "Como posso evitar que meu Yorkie lata tanto?",
+            "answer": "Eles latem para barulhos. Ignore o latido e recompense-o no silêncio."
+          }
+        ],
+        "tags": [
+          "Yorkshire Terrier",
+          "Pelo sedoso",
+          "Luxação patelar",
+          "Estética"
+        ]
+      },
+      "id": {
+        "title": "Perawatan Bulu Indah Yorkshire Terrier dan 3 Langkah Pencegahan Dislokasi Lutut",
+        "description": "Cara menyikat bulu Yorkshire Terrier agar tetap berkilau and melatih otot kaki untuk mencegah dislokasi patela.",
+        "authority": "Pedoman Yorkshire Terrier Club (YTC) & Ortopedi Veteriner",
+        "profile": {
+          "breed": "Yorkshire Terrier",
+          "lifespan": "13 ~ 16 tahun",
+          "sleep_pattern": "12 ~ 14 jam (Aktif di dalam ruangan)",
+          "temperament": "Berani, cerdas, energik, sangat manja"
+        },
+        "intro": "Yorkshire Terrier ('Yorkie') memiliki karakter berani dalam tubuh yang mungil. Bulu tunggal mereka halus mirip rambut manusia sehingga mudah kusut. Sebagai anjing kecil, mereka rentan mengalami dislokasi tempurung lutut (patela). Hari ini PetSelf membagikan tips perawatan bulu and perlindungan lutut Yorkie.",
+        "whyTitle": "Bahasa Tubuh Yorkshire Terrier: Pemburu Mungil",
+        "whyDesc": "Yorkie memiliki insting waspada yang kuat. Telinga rata ke belakang and ekor kaku menandakan siaga, sementara terlentang memperlihatkan perut menandakan rasa percaya penuh.",
+        "body_signals": [
+          {
+            "name": "Telinga rata ke belakang and ekor kaku tegak",
+            "meaning": "Waspada terhadap suara luar and bersiap menggonggong.",
+            "response": "Jangan langsung menggendongnya. Panggil namanya dengan tenang and alihkan perhatian dengan mainan."
+          },
+          {
+            "name": "Terlentang memperlihatkan perut sambil menggerakkan cakar",
+            "meaning": "Merasa sangat aman and meminta perhatian penuh dari pemilik.",
+            "response": "Elus perut and dadanya perlahan untuk mempererat ikatan emosional."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Semprotan pelembap dan penyikatan bulu harian",
+            "text": "Semprotkan hair mist anti-kusut lalu sisir dari akar ke ujung bulu dengan pin brush."
+          },
+          {
+            "name": "Siang: Mencukur rambut kaki and memeriksa lantai licin",
+            "text": "Cukur bulu di sela bantalan kaki agar tidak tergelincir di lantai rumah."
+          },
+          {
+            "name": "Malam: Latihan rintangan rendah untuk melatih otot kaki",
+            "text": "Ajak mereka melompati bantal rendah untuk memperkuat otot paha penopang lutut."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah Yorkshire Terrier banyak rontok bulu?",
+            "answer": "Tidak, bulu tunggal mereka sangat jarang rontok. Namun, bulu panjangnya perlu disisir setiap hari agar tidak kusut."
+          },
+          {
+            "question": "Bagaimana cara menghentikan gonggongan berlebih?",
+            "answer": "Gonggongan dipicu insting penjaga. Jangan merespon saat mereka menggonggong; beri hadiah hanya saat mereka diam."
+          }
+        ],
+        "tags": [
+          "Yorkshire Terrier",
+          "Bulu indah",
+          "Patella lutut",
+          "Anjing kecil"
+        ]
+      },
+      "ko": {
+        "title": "실키한 요크셔테리어를 위한 모질 관리법과 슬개골 탈구 예방 3단계 홈케어",
+        "description": "비단결 같은 털을 자랑하는 요크셔테리어. 털 엉킴을 막는 섬세한 브러싱 노하우와 유전적으로 취약한 슬개골 탈구를 방지하는 하체 근력 케어 루틴을 소개합니다.",
+        "authority": "영국 요크셔테리어 클럽(YTC) 공식 피모 가이드 및 수의정형외학 행동 지침",
+        "profile": {
+          "breed": "요크셔테리어 (Yorkshire Terrier)",
+          "lifespan": "13 ~ 16년",
+          "sleep_pattern": "12 ~ 14시간 (실내 활발형)",
+          "temperament": "용감함, 총명함, 활기차고 애교 많음"
+        },
+        "intro": "요크셔테리어는 작고 인형 같은 외모 속에 테리어 견종 특유의 당차고 용감한 성격을 품고 있습니다. '요키'라는 애칭으로 불리는 이 견종은 사람 모발과 유사한 구조의 길고 부드러운 비단결 피모를 갖고 있어 관리가 까다롭고 쉽게 엉킵니다. 🐩 또한, 소형견의 고질병인 슬개골 탈구와 뼈 질환에 매우 취약합니다. 오늘 PetSelf에서는 요크셔테리어의 윤기 나는 털을 유지하고, 튼튼한 관절을 지켜줄 수 있는 3단계 홈케어 루틴을 알아봅니다.",
+        "whyTitle": "요크셔테리어의 바디 랭귀지: 소형 헌터의 경계와 애정",
+        "whyDesc": "테리어 계열인 요크셔테리어는 작은 체구에도 불구하고 강한 방어 본능이 있어, 귀를 완전히 뒤로 젖히고 꼬리를 수평으로 바짝 들 때는 매우 경계하고 있음을 의미합니다. 반면 배를 보이고 누워 앞발로 공중을 휘젓는 것은 보호자를 향한 무한한 신뢰와 어리광의 시그널입니다.",
+        "body_signals": [
+          {
+            "name": "귀를 뒤로 밀착하고 꼬리를 수평으로 빳빳하게 듦",
+            "meaning": "외부의 미세한 자극에 흥분했거나 방어적인 경계 태세를 갖추고 있다는 뜻입니다.",
+            "response": "안아 올리는 대신 바닥에서 차분히 이름을 부르며 간식으로 관심을 돌려 흥분을 가라앉힙니다."
+          },
+          {
+            "name": "배를 뒤집고 누워 앞발을 휘저음",
+            "meaning": "극도의 심리적 안정감을 느끼며 보호자에게 관심을 요청하는 상태입니다.",
+            "response": "가슴과 배 부위를 부드럽게 마사지해주며 깊은 유대감을 형성합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 비단결 모발 엉킴 방지를 위한 전용 브러싱 및 미스트",
+            "text": "빗질 전 피모 전용 미스트를 뿌린 후, 핀 브러시로 모근부터 끝까지 부드럽게 빗어 털 엉킴과 손상을 방지합니다."
+          },
+          {
+            "name": "오후: 미끄러운 실내 바닥으로부터 슬개골을 보호하는 발바닥 털 정리",
+            "text": "미용 바리깡으로 발바닥 패드 사이의 털을 다듬고 미끄럼 방지 매트를 점검하여 슬개골을 보호합니다."
+          },
+          {
+            "name": "저녁: 뒷다리 근력 강화를 위한 가벼운 실내 장애물 넘기",
+            "text": "낮은 매트나 쿠션을 살짝 넘어가게 유도하여 슬개골 탈구를 예방할 수 있는 허벅지 근력을 단단히 길러줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "요크셔테리어는 털이 많이 빠지나요?",
+            "answer": "요크셔테리어는 이중모가 아닌 싱글코트로 강아지 중 털 빠짐이 매우 적은 편에 속합니다. 다만 털이 길기 때문에 엉키지 않도록 매일 빗질을 해줘야 합니다."
+          },
+          {
+            "question": "자주 짖는데 어떻게 훈련하나요?",
+            "answer": "소형 경비견의 본능이 있어 외부 소리에 민감합니다. 짖을 때 안아주거나 소리쳐서 반응하지 말고, 조용해졌을 때 즉시 간식과 칭찬으로 보상하는 교육이 필요합니다."
+          }
+        ],
+        "tags": [
+          "요크셔테리어",
+          "피모 관리",
+          "슬개골 예방",
+          "소형견 훈련"
+        ]
+      }
+    }
   }
 }

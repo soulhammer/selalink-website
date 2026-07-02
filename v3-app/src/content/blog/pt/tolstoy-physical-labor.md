@@ -21,7 +21,7 @@ faqs:
     answer: "É fundamental ajustar a intensidade. O objetivo não é a exaustão, mas uma sessão breve de 15-20 minutos para elevar o ritmo cardíaco e la temperatura corporal, ativando a circulação. Ajuste-o à sua condição física."
 ---
 
-Leão Tolstoi, amplamente considerado um pilar da literatura realista russa com obras-primas como 'Guerra e Paz' e 'Anna Karenina'. Embora fosse um nobre rico, rejeitou os privilégios e procurou uma vida humilde de trabalho físico. A fonte da sua incansável energia criativa era o trabalho físico e a ginástica que realizava todas as manhãs. Ao acordar, antes de se sentar à secretária, Tolstoi arava os campos, cortava lenha ou carregava água. Também instalou aparelhos de ginástica no seu quintal para elevações e treino de força. Ele via o trabalho físico como um motor necessário para despertar o cérebro. Hoje, a BuildSelf explora a verdade neurocientífica por trás do hábito de exercício de Tolstoi e como os profissionais modernos podem desenhar rotinas matinais para maximizar a eficiência cerebral.
+Leão Tolstoi, amplamente considerado um pilar da literatura realista russa com obras-primas como 'Guerra e Paz' e 'Anna Karenina'. Embora fosse um nobre rico, rejeitou os privilégios e procurou uma vida humilde de trabalho físico. A fonte da sua incansável energia criativa era o trabalho físico e a ginástica que realizava todas as manhãs. Ao acordar, antes de se sentar à secretária, Tolstoi arava os campos, cortava lenha ou carregava água. Também instalou aparelhos de ginástica no seu quintal para elevações e treino de força. Ele via o trabalho físico como um motor necessário para despertar o cérebro. Hoje, a BuildSelf explora la verdade neurocientífica por trás do hábito de exercício de Tolstoi e como os profissionais modernos podem desenhar rotinas matinais para maximizar a eficiência cerebral.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Leão Tolstoi, amplamente considerado um pilar da literatura realista russa com 
 
 ## 1. Efeitos cognitivos do fator neurotrófico derivado do cérebro (BDNF) e aumento do ritmo cardíaco
 
-De acordo com estudos de neurociência, os exercícios matinais que elevam o ritmo cardíaco utilizando grandes músculos expandem os vasos sanguíneos cerebrais e melhoram o fornecimento de sangue em todo o córtex cerebral. Isto aumenta o fornecimento de oxigénio, impulsionando imediatamente a velocidade de processamento cognitivo e a memória.
+De acordo com estudos de neurociência, os exercícios matinais que elevam o ritmo cardíaco utilizando grandes músculos expandem os vasos sanguíneos cerebrais e melhorar o fornecimento de sangue em todo o córtex cerebral. Isto aumenta o fornecimento de oxigénio, impulsionando imediatamente a velocidade de processamento cognitivo e a memória.
 
 Particularmente, o treino de força e a ginástica maximizam a secreção do Fator Neurotrófico Derivado do Cérebro (BDNF), que promove a sobrevivência dos neurónios e fortalece as conexões sinápticas. A dopamina, a norepinefrina e a serotonina libertadas ajustam o cérebro para um estado ideal de foco profundo. A rotina de trabalho de Tolstoi era o aquecimento cerebral definitivo.
 

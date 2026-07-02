@@ -41,7 +41,7 @@ León Tolstói, considerado ampliamente un pilar de la literatura realista rusa 
 
 Según estudios de neurociencia, los ejercicios matutinos que aumentan el ritmo cardíaco utilizando músculos grandes dilatan los vasos sanguíneos cerebrales y mejoran el suministro de sangre a toda la corteza cerebral. Esto aumenta el suministro de oxígeno, lo que estimula de inmediato la velocidad de procesamiento cognitivo y la memoria.
 
-En particular, el entrenamiento de fuerza y la gimnasia maximizan la secreción del factor neurotrofico derivado del cerebro (BDNF), que promueve la supervivencia de las neuronas y fortalece las conexiones sinápticas. La dopamina, norepinefrina y serotonina liberadas adaptan el cerebro a un estado óptimo para una concentración profunda. La rutina de trabajo de Tolstói era el calentamiento cerebral definitivo.
+En particular, el entrenamiento de fuerza y la gimnasia maximizan la secreción del factor neurotrófico derivado del cerebro (BDNF), que promueve la supervivencia de las neuronas y fortalece las conexiones sinápticas. La dopamina, norepinefrina y serotonina liberadas adaptan el cerebro a un estado óptimo para una concentración profunda. La rutina de trabajo de Tolstói era el calentamiento cerebral definitivo.
 
 ---
 

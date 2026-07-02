@@ -40,24 +40,14 @@ if (fs.existsSync(petsDir)) {
   });
 }
 
-// 2. 다국어 번역 로케일 데이터 로드
-const localesDir = path.join(petsDir, 'locales');
-const petLocales = {};
-languages.forEach(lang => {
-  const localePath = path.join(localesDir, `${lang}.json`);
-  if (fs.existsSync(localePath)) {
-    petLocales[lang] = JSON.parse(fs.readFileSync(localePath, 'utf-8'));
-  } else {
-    petLocales[lang] = {};
-  }
-});
+// 2. 다국어 번역 로케일 데이터 로드 (각 품종 JSON 내부 locales 필드로 이전되어 별도 로더 불필요)
 
 // Markdown 생성 엔진
 function generateMarkdown(slug, lang) {
   const master = petMasterData[slug];
   if (!master) return '';
 
-  const data = petLocales[lang]?.[slug] || petLocales['en']?.[slug];
+  const data = master.locales?.[lang] || master.locales?.['en'];
   if (!data) return '';
 
   const title = data.title;

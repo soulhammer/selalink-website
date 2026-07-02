@@ -1,6 +1,512 @@
 {
   "siamese-care": {
     "pubDate": "2026-02-19",
-    "updatedDate": "2026-02-19"
+    "updatedDate": "2026-02-19",
+    "locales": {
+      "en": {
+        "title": "Caring for Siamese Anxiety and Activity: A 3-Step Daily Routine",
+        "description": "Siamese cats are highly dependent on owners and prone to separation anxiety. Discover emotional bonding tips and a 3-step active play routine to manage their stress.",
+        "authority": "Cat Fanciers' Association (CFA) Official Breed Guide & AAFP Feline Behavioral Protocols",
+        "profile": {
+          "breed": "Siamese",
+          "lifespan": "12 ~ 15 years",
+          "sleep_pattern": "14 ~ 16 hours (prefers sleeping close under blankets)",
+          "temperament": "Affectionate, Vocal, Highly Intelligent"
+        },
+        "intro": "Siamese cats, originating from the royal family of Thailand, are elegant companion felines famous for their contrast points on ears, face, and paws. Known for their dog-like, highly social temperament, they are uniquely vocal, constantly 'talking' to their owners in distinct tones. 🐱 However, this extreme attachment makes them highly vulnerable to separation anxiety. If left alone for long periods, Siamese cats easily suffer from severe distress, which manifests as endless howling or destructive scratching. Today, PetSelf explores Siamese body language and provides a 3-step care routine to relieve separation stress and keep them emotionally stable.",
+        "whyTitle": "Siamese Body Language: Signs of Complete Trust and Possessiveness",
+        "whyDesc": "Siamese cats show their affection in clear, interactive ways. Typical signals include **'slow blinking'** and **'bunting'**. Closing their eyes slowly while maintaining eye contact is a statement of ultimate safety and peace. In the feline world, closing eyes in front of another is a risky move, proving they view you as a completely harmless companion. Rubbing their cheeks or forehead against your hand is their way of sharing comforting pheromones and marking you as their trusted person.",
+        "body_signals": [
+          {
+            "name": "Slow Blink",
+            "meaning": "A display of complete safety and deep affection, often described as a feline kiss.",
+            "response": "Lock eyes gently and return the gesture by closing and opening your eyes for 1.5 seconds."
+          },
+          {
+            "name": "Bunting",
+            "meaning": "An action leaving their scent (pheromones) to mark you as their safe person.",
+            "response": "Scratch their chin or cheeks, allowing them to happily exchange scents with you."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: 10-Minute High-Contact Greeting",
+            "text": "To ease separation anxiety, spend 10 minutes petting your Siamese and speaking softly to them in bed immediately after waking up."
+          },
+          {
+            "name": "Afternoon: Interactive Play and Food Puzzle Placement",
+            "text": "Keep them busy during the day with treat puzzles. When you return home, dedicate at least 15 minutes to high-energy feather wand chase games."
+          },
+          {
+            "name": "Evening: Warm Bedding Setup to Prevent Body Chill",
+            "text": "Because Siamese are short-haired with low body fat, they get cold easily. Keep indoor temperatures warm and provide a cozy dome-shaped heated bed."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why does my Siamese cat keep meowing constantly at night?",
+            "answer": "This is a natural trait of the breed. They often meow to communicate boredom or seek interaction. If they are not sick, avoid responding to their night cries and instead engage in intensive play during the day to tire them out."
+          },
+          {
+            "question": "How do I reduce my Siamese cat's separation anxiety when I go to work?",
+            "answer": "Set up food puzzle toys before leaving to distract them. Avoid emotional goodbyes (like picking them up and kissing them repeatedly) at least 10 minutes before stepping out, as this can worsen their anxiety."
+          }
+        ],
+        "tags": [
+          "Siamese",
+          "Separation Anxiety",
+          "Vocal Cats",
+          "Cat Playtime"
+        ]
+      },
+      "ja": {
+        "title": "寂しがり屋のシャム猫のための情緒安定と狩り遊び3段階ルーティン",
+        "description": "飼い主への依存度が高く寂しがり屋のシャム猫。情緒的ストレスを軽減するスキンシップ方法と、十分なエネルギーを発散させる3段階のデイリー遊びを紹介します。",
+        "authority": "キャットファンシャーズアソシエーション(CFA)公式＆AAFP猫の行動プロトコル",
+        "profile": {
+          "breed": "シャム猫",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "14 ~ 16時間（布団の中密着型）",
+          "temperament": "甘えん坊、よく喋る、非常に賢い"
+        },
+        "intro": "シャム猫はタイの王室が起源の歴史ある品種で、耳や顔、足先のポイントカラーが美しい猫です。性格は非常に人懐っこく、他の猫種とは異なり、飼い主に話しかけるように様々な声で鳴くユニークな魅力があります。🐱しかし、飼い主への強い依存心は、分離不安という弱点にもつながります。長い時間放置されると、寂しさとストレスから鳴き続けたり、家具を引っ掻く破壊行動を起こしがちです。本日、PetSelfではシャム猫の声に寄り添うコミュニケーション方法と、寂しさを和らげる3段階の情緒安定ルーティンを紹介します。",
+        "whyTitle": "シャム猫のボディランゲージ：完全な信頼と愛情のメッセージ",
+        "whyDesc": "シャム猫は積極的に愛情を伝え、豊かなカーミングシグナルを見せてくれます。代表的なのは**「ゆっくり瞬きする（アイコタクト）」**と**「体を擦り付ける（おでこをごつんとする）」**です。飼い主の目を見つめ、ゆっくり目を細めて瞬きをする動作は、野生において敵に隙を見せる危険な行動であり、相手を心から信頼しているという告白です。また、頬や額を飼い主の手や体に擦り付けるのは、分泌されるフェロモンを付着させて安心感を共有するための行動です。",
+        "body_signals": [
+          {
+            "name": "ゆっくり瞬きする (Slow Blink)",
+            "meaning": "相手の前で目を閉じても良いほど、無限の信頼と愛を伝える「猫のキス」です。",
+            "response": "目を優しく見つめ返し、同じように1.5秒ほどゆっくり目を閉じて開けて応えてください。"
+          },
+          {
+            "name": "体を擦り付ける (Bunting)",
+            "meaning": "自分の匂い（フェロモン）を付着させ、「あなたは私の大切な人」という愛着を表すしぐさです。",
+            "response": "頬やあごの下を優しく撫でてあげて、お互いの匂いが自然に触れ合うように応じてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：不安予防のための名前を呼ぶ10分の密着スキンシップ",
+            "text": "寂しがり屋で飼い主との分離に敏感なシャムのため、起床後すぐに名前を優しく呼びかけながら、布団の中でぴったり密着して撫でてあげます。"
+          },
+          {
+            "name": "午後：寂しさ予防のための知能ノーズワークと狩り遊び",
+            "text": "飼い主のいない昼間に退屈しないよう、おやつ用パズルやノーズワークを隠しておき、帰宅後は羽のおもちゃで15分以上活発な狩り遊びをします。"
+          },
+          {
+            "name": "夜：体温維持のためのあたたかいドーム型ハウスの点検",
+            "text": "短毛種で脂肪が少なく寒さに弱いシャムのため、夜間の室温を暖かく調節し、快適なドーム型の隠れ家ハウスを用意してあげます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "シャム猫が夜に絶えず鳴き続けるのですが、どこか悪いのでしょうか？",
+            "answer": "シャム猫特有のコミュニケーションとしての発声です。退屈や寂しさから飼い主の反応を引こうとして鳴くこともあります。病気でなければ、夜の鳴き声には反応せず、昼間のうちにしっかりと運動させて疲れさせるのが効果的です。"
+          },
+          {
+            "question": "一人で留守番させた後にシャム猫の遠吠えがひどくなりました。どうすれば良いですか？",
+            "answer": "分離不安のサインです。出かける前におやつを隠す宝探しを用意したり、自動給餌器で注意を引いたりして、飼い主の不在から意識を逸らしてください。外出の10分前からは、過度なスキンシップ（別れの儀式）を控えることが大切です。"
+          }
+        ],
+        "tags": [
+          "シャム猫",
+          "分離不安",
+          "おしゃべりな猫",
+          "猫の遊び"
+        ]
+      },
+      "zh": {
+        "title": "呵护易感到孤独的暹罗猫：情绪稳定与日常3步游戏惯例",
+        "description": "暹罗猫对家长的依赖度极高，易产生分离焦虑。介绍增进情感联结的技巧，以及消耗其充沛体能的日常3步游戏惯例。",
+        "authority": "爱猫者协会 (CFA) 官方指南与 AAFP 猫咪行为协议",
+        "profile": {
+          "breed": "暹罗猫",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "14 ~ 16小时（喜欢钻被窝贴近型）",
+          "temperament": "依恋、爱鸣叫、非常聪明"
+        },
+        "intro": "暹罗猫源自泰国皇室，因耳朵、脸部和爪子上的重点色而闻名。它们以像狗一样黏人、极善社交的性格著称，且非常爱叫，经常以不同的声调与家长“交谈”。🐱然而，这种强烈的依恋也使其极易产生分离焦虑。如果长时间被独自留下，暹罗猫会因孤独和压力而出现连绵不绝的哀叫或破坏性抓挠。今天，PetSelf 将带您解读暹罗猫的身体语言，并提供一套日常3步护理惯例，以缓解分离压力，保持它们的情绪稳定。",
+        "whyTitle": "暹罗猫的身体语言：深切的信任与占有欲的信号",
+        "whyDesc": "暹罗猫会以清晰、互动的方式表达爱意。典型的放松信号包括“缓慢眨眼”和“用头磨蹭（Bunting）”。在维持眼神接触的同时缓慢地闭上并睁开眼睛，是极致安全与安宁的陈述。在猫咪的世界中，闭眼是有风险的，这证明它们认为您是完全无害的伴侣。用面颊或额头磨蹭您的手是它们分享信息素并确认您是其所爱之人的方式。",
+        "body_signals": [
+          {
+            "name": "缓慢眨眼 (Slow Blink)",
+            "meaning": "表明在家长面前感到极其安全，是深厚爱意的体现，常被称为“猫咪之吻”。",
+            "response": "温柔地与它们眼神接触，并以缓慢闭眼和睁眼1.5秒来回应这一动作。"
+          },
+          {
+            "name": "头磨蹭 (Bunting)",
+            "meaning": "留下自己面部信息素的动作，表示“您是我所爱之人”，并以此获取安定感。",
+            "response": "抚摸它们的面颊或下巴，让它们快乐地与您交换彼此的气味。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：预防分离焦虑的10分钟高接触亲密互动",
+            "text": "为了缓解分离焦虑，在早晨醒来后立即与您的暹罗猫一起躺在床上，抚摸它们并温柔地对它们说话，持续10分钟。"
+          },
+          {
+            "name": "下午：互动玩耍与益智喂食玩具投放",
+            "text": "在白天家长不在家时，使用益智喂食玩具让其保持忙碌。回家后，花至少15分钟使用羽毛逗猫棒进行高能追逐游戏。"
+          },
+          {
+            "name": "晚上：提供温暖床铺以防身体受凉",
+            "text": "由于暹罗猫是短毛猫且体脂较低，极易受凉。请保持室内温暖，并为其提供舒适的圆顶形保暖猫窝。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么我的暹罗猫在夜间会不断鸣叫？是生病了吗？",
+            "answer": "这是该品种天然的交流习性。它们常因无聊或寻求互动而鸣叫。如果确认非疾病所致，请避免在夜间回应其叫声，而是在白天进行充足的消耗性游戏以让其疲惫。"
+          },
+          {
+            "question": "当我出门上班时，如何减轻暹罗猫的分离焦虑？",
+            "answer": "在出门前设置好益智喂食器或零食闻嗅以分散其注意力。在出门前至少10分钟避免进行情感饱满的告别仪式（如反复抱起亲吻），因为这会加剧它们的焦虑情绪。"
+          }
+        ],
+        "tags": [
+          "暹罗猫",
+          "分离焦虑",
+          "爱叫的猫",
+          "猫咪游戏"
+        ]
+      },
+      "es": {
+        "title": "Cuidado de la ansiedad y actividad del Siamés: rutina de 3 pasos",
+        "description": "Los gatos siameses dependen mucho de sus dueños. Descubra consejos para fortalecer el vínculo emocional y una rutina de juego activo de 3 pasos.",
+        "authority": "Guía oficial de la Cat Fanciers' Association (CFA) y protocolos de conducta felina de la AAFP",
+        "profile": {
+          "breed": "Siamés",
+          "lifespan": "12 ~ 15 años",
+          "sleep_pattern": "14 ~ 16 horas (prefiere dormir apegado bajo mantas)",
+          "temperament": "Afectuoso, Vocal, Muy Inteligente"
+        },
+        "intro": "Los gatos siameses, originarios de la realeza tailandesa, son elegantes felinos conocidos por sus puntos de contraste en orejas, cara y patas. Conocidos por su temperamento sociable, son muy vocales. 🐱 Sin embargo, este apego extremo los hace vulnerables a la ansiedad por separación. Si se quedan solos mucho tiempo, sufren angustia que se manifiesta en maullidos continuos o arañazos destructivos. Hoy, PetSelf presenta una rutina de 3 pasos para mantenerlos emocionalmente estables.",
+        "whyTitle": "Lenguaje corporal del Siamés: señales de confianza y posesividad",
+        "whyDesc": "Los siameses muestran su afecto de forma clara e interactiva. Las señales típicas incluyen el **'parpadeo lento'** y el **'frotamiento de cabeza'** (bunting). Cerrar los ojos lentamente es una declaración de seguridad y paz. Frotar sus mejillas contra su mano es su forma de compartir feromonas reconfortantes y marcarlo como su persona de confianza.",
+        "body_signals": [
+          {
+            "name": "Parpadeo lento",
+            "meaning": "Una muestra de completa seguridad y profundo afecto, a menudo descrita como un beso felino.",
+            "response": "Cruce la mirada y parpadee lentamente por 1.5 segundos para responder al gesto."
+          },
+          {
+            "name": "Frotamiento de cabeza",
+            "meaning": "Una acción que deja su olor (feromonas) para marcarlo como su persona segura.",
+            "response": "Acaricie su barbilla o mejillas, permitiéndoles intercambiar olores con gusto."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Saludo de 10 minutos de alto contacto para la ansiedad",
+            "text": "Para aliviar la ansiedad por separación, pase 10 minutos acariciando a su siamés y hablándole suavemente en la cama justo después de despertarse."
+          },
+          {
+            "name": "Tarde: Juego interactivo y rompecabezas de comida",
+            "text": "Manténgalo ocupado durante el día con rompecabezas de comida. Al volver a casa, dedique al menos 15 minutos a juegos interactivos con plumas."
+          },
+          {
+            "name": "Noche: Cama cálida para evitar el enfriamiento corporal",
+            "text": "Dado que los siameses son de pelo corto y poca grasa corporal, se enfrían fácilmente. Mantenga la casa cálida y ofrezca una cama tipo domo acolchada."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué mi siamés maúlla constantemente por la noche?",
+            "answer": "Es un rasgo natural de la raza. Suelen maullar para comunicar aburrimiento. Evite responder a sus maullidos nocturnos y aumente el juego durante el día para cansarlos."
+          },
+          {
+            "question": "¿Cómo reduzco la ansiedad por separación de mi siamés cuando salgo?",
+            "answer": "Prepare rompecabezas de comida antes de irse. Evite las despedidas efusivas al menos 10 minutos antes de salir, ya que esto puede empeorar su ansiedad."
+          }
+        ],
+        "tags": [
+          "Siamés",
+          "Ansiedad por Separación",
+          "Gatos Vocales",
+          "Juego de Gatos"
+        ]
+      },
+      "fr": {
+        "title": "Gérer l'anxiété et l'activité du Siamois : routine en 3 étapes",
+        "description": "Le chat Siamois est très dépendant de son maître. Découvrez des conseils pour renforcer le lien affectif et une routine de jeu actif en 3 étapes.",
+        "authority": "Guide officiel de la Cat Fanciers' Association (CFA) et protocoles de comportement félin de l'AAFP",
+        "profile": {
+          "breed": "Siamois",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "14 ~ 16 heures (préfère dormir blotti sous les couvertures)",
+          "temperament": "Affectueux, Vocal, Très Intelligent"
+        },
+        "intro": "Le chat Siamois, originaire de la famille royale de Thaïlande, est un félin élégant célèbre pour ses points de couleur contrastés. Réputé pour son tempérament très affectueux, il est particulièrement vocal. 🐱 Cependant, cet attachement extrême le rend vulnérable à l'anxiété de séparation. S'il reste seul trop longtemps, il exprime sa détresse par des miaulements incessants ou des griffades. Aujourd'hui, PetSelf présente une routine en 3 étapes pour apaiser son stress de séparation.",
+        "whyTitle": "Langage corporel du Siamois : signaux de confiance et de possessivité",
+        "whyDesc": "Le Siamois montre son affection de manière interactive. Les signaux typiques incluent le **'clignement d'yeux lent'** et le **'marquage par frottement'** (bunting). Fermer les yeux lentement en vous regardant est une preuve de confiance absolue. Se frotter les joues contre vous est sa façon de partager des phéromones apaisantes et de vous marquer comme sien.",
+        "body_signals": [
+          {
+            "name": "Clignement lent des yeux",
+            "meaning": "Une preuve de sécurité complète et d'affection profonde, souvent qualifiée de bisou félin.",
+            "response": "Regardez-le doucement et répondez en fermant et en ouvrant les yeux pendant 1,5 seconde."
+          },
+          {
+            "name": "Frottement de tête",
+            "meaning": "Un geste laissant leur odeur (phéromones) pour vous marquer comme leur humain sûr.",
+            "response": "Gratouillez son menton ou ses joues, lui permettant de partager ses phéromones avec joie."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Rituel de contact de 10 minutes contre l'anxiété",
+            "text": "Pour atténuer l'anxiété de séparation, passez 10 minutes à caresser votre Siamois au lit dès votre réveil en lui parlant doucement."
+          },
+          {
+            "name": "Après-midi : Jeu interactif et distribution de puzzles de nourriture",
+            "text": "Occupez-le pendant la journée avec des puzzles à friandises. À votre retour, jouez au moins 15 minutes avec un plumeau pour le dépenser."
+          },
+          {
+            "name": "Soir : Aménagement d'un nid chaud pour éviter le refroidissement",
+            "text": "Le Siamois étant un chat à poil court avec peu de graisse corporelle, il est frileux. Maintenez une température douce et offrez-lui un dôme douillet."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi mon chat Siamois miaule-t-il constamment la nuit ?",
+            "answer": "C'est un trait caractéristique de la race. Ils miaulent pour exprimer leur ennui. Évitez de répondre à ses appels nocturnes et fatiguez-le en jouant davantage en journée."
+          },
+          {
+            "question": "Comment réduire l'anxiété de séparation de mon Siamois quand je pars au travail ?",
+            "answer": "Cachez des friandises et placez des puzzles de nourriture avant de partir. Évitez les rituels de départ (câlins répétés) 10 minutes avant de franchir la porte."
+          }
+        ],
+        "tags": [
+          "Siamois",
+          "Anxiété de Séparation",
+          "Chats Vocaux",
+          "Jeu Félin"
+        ]
+      },
+      "de": {
+        "title": "Pflege für siamesische Angst und Aktivität: Eine 3-Schritte-Routine",
+        "description": "Siamesen sind sehr besitzerbezogen. Entdecken Sie Tipps zur emotionalen Bindung und eine aktive 3-Schritte-Spielroutine zur Stressbewältigung.",
+        "authority": "Offizieller Leitfaden der Cat Fanciers' Association (CFA) & AAFP-Katzenverhaltensprotokolle",
+        "profile": {
+          "breed": "Siamese",
+          "lifespan": "12 ~ 15 Jahre",
+          "sleep_pattern": "14 ~ 16 Stunden (bevorzugt Kuscheln unter Bettdecken)",
+          "temperament": "Anhänglich, Vokal, Sehr intelligent"
+        },
+        "intro": "Siamesen stammen von den königlichen Tempelkatzen Thailands ab. Sie haben kontrastierende Farbpunkte an Ohren, Gesicht und Pfoten. Bekannt für ihr soziales Wesen, sind sie sehr gesprächig. 🐱 Diese extreme Bindung macht sie jedoch anfällig für Trennungsangst. Wenn sie lange allein gelassen werden, äußert sich dieser Stress in lautem Jaulen oder Zerstörungswut. Heute stellt PetSelf eine 3-Schritte-Routine zur emotionalen Stabilisierung vor.",
+        "whyTitle": "Körpersprache der Siamkatze: Signale von Vertrauen und Besitzanspruch",
+        "whyDesc": "Siamesen zeigen ihre Zuneigung auf interaktive Weise. Typische Signale sind **'langsames Blinzeln'** und **'Kopfreiben'** (Bunting). Das langsame Schließen der Augen ist ein Beweis für absolute Sicherheit. Das Reiben der Wangen an Ihrer Hand dient dazu, tröstliche Pheromone zu verteilen und Sie als ihre Vertrauensperson zu kennzeichnen.",
+        "body_signals": [
+          {
+            "name": "Langsames Blinzeln",
+            "meaning": "Ein Beweis für absolute Sicherheit und tiefe Zuneigung, oft als Katzenkuss bezeichnet.",
+            "response": "Schauen Sie sanft zurück und blinzeln Sie ebenfalls langsam für etwa 1,5 Sekunden."
+          },
+          {
+            "name": "Kopfreiben",
+            "meaning": "Eine Aktion zur Übertragung von Duftstoffen (Pheromonen), um Sie als vertrauenswürdig zu markieren.",
+            "response": "Kraulen Sie Kinn oder Wangen, damit sie den Geruch gerne mit Ihnen austauschen können."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: 10-minütiger enger Kontakt zur Angstvorbeugung",
+            "text": "Verbringen Sie gleich nach dem Aufwachen 10 Minuten damit, Ihre Siamkatze im Bett zu streicheln und sanft mit ihr zu sprechen, um Trennungsangst zu lindern."
+          },
+          {
+            "name": "Nachmittag: Interaktives Spiel und Platzierung von Futterrätseln",
+            "text": "Halten Sie die Katze tagsüber mit Futterrätseln beschäftigt. Spielen Sie nach der Rückkehr mindestens 15 Minuten lang mit einer Federangel."
+          },
+          {
+            "name": "Abend: Einrichtung eines warmen Liegeplatzes gegen Auskühlung",
+            "text": "Da Siamesen Kurzhaarkatzen mit wenig Körperfett sind, frieren sie leicht. Halten Sie die Räume warm und bieten Sie eine gemütliche Höhle an."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum miaut meine Siamkatze nachts ununterbrochen?",
+            "answer": "Dies ist ein natürliches Verhalten der Rasse. Sie miauen oft aus Langeweile. Reagieren Sie nachts nicht darauf und sorgen Sie tagsüber für mehr Spielzeit, um sie auszulasten."
+          },
+          {
+            "question": "Wie kann ich die Trennungsangst meiner Siamkatze lindern, wenn ich gehe?",
+            "answer": "Verteilen Sie vor dem Gehen Futterpuzzles. Vermeiden Sie emotionale Verabschiedungen 10 Minuten vor dem Verlassen der Wohnung, um die Angst nicht zu verstärken."
+          }
+        ],
+        "tags": [
+          "Siamese",
+          "Trennungsangst",
+          "Vokale Katzen",
+          "Katzenspielzeit"
+        ]
+      },
+      "pt": {
+        "title": "Cuidados com a ansiedade e atividade do Siamês: rotina de 3 passos",
+        "description": "Os gatos siameses dependem muito de seus donos. Descubra dicas para fortalecer o vínculo emocional e uma rotina de jogos ativos de 3 passos.",
+        "authority": "Guia oficial da Cat Fanciers' Association (CFA) e protocolos de comportamento felino da AAFP",
+        "profile": {
+          "breed": "Siamês",
+          "lifespan": "12 ~ 15 anos",
+          "sleep_pattern": "14 ~ 16 horas (prefere dormir apegado sob cobertas)",
+          "temperament": "Afetuoso, Vocal, Muito Inteligente"
+        },
+        "intro": "Os gatos siameses, originários da realeza tailandesa, são elegantes felinos famosos por suas marcas de contraste nas orelhas, face e patas. Conhecidos pelo temperamento sociável, são muito vocais. 🐱 No entanto, este apego extremo os torna vulneráveis à ansiedade de separação. Se ficarem sozinhos por muito tempo, sofrem angústia que se manifesta em miados contínuos. Hoje, o PetSelf apresenta uma rotina de 3 passos para manter sua estabilidade emocional.",
+        "whyTitle": "Linguagem corporal do Siamês: sinais de confiança e possessividade",
+        "whyDesc": "Os siameses mostram seu afeto de forma clara e interativa. Os sinais típicos incluem o **'piscar lento'** e o **'fregar de cabeça'** (bunting). Fechar os olhos lentamente é uma declaração de segurança e paz. Esfregar as bochechas contra sua mão é a forma deles de compartilhar feromônios reconfortantes e marcá-lo como sua pessoa de confiança.",
+        "body_signals": [
+          {
+            "name": "Piscar lento",
+            "meaning": "Uma demonstração de completa segurança e profundo afeto, muitas vezes descrita como beijo felino.",
+            "response": "Olhe nos olhos dele e pisque lentamente de volta por 1,5 segundo para responder ao gesto."
+          },
+          {
+            "name": "Esfregar de cabeça",
+            "meaning": "Uma ação que deixa o cheiro delas (feromônios) para marcar você como sua pessoa segura.",
+            "response": "Acaricie o queixo ou as bochechas dele, permitindo-lhes trocar cheiros com carinho."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Interação de 10 minutos de alto contato para ansiedade",
+            "text": "Para aliviar a ansiedade de separação, passe 10 minutos acariciando o seu siamês e falando suavemente na cama logo após acordar."
+          },
+          {
+            "name": "Tarde: Joguetes interativos e quebra-cabeças de comida",
+            "text": "Mantenha-o ocupado durante o dia com quebra-cabeças de comida. Ao voltar para casa, dedique pelo menos 15 minutos a brincadeiras com varinha de penas."
+          },
+          {
+            "name": "Noite: Preparação de cama quente para evitar resfriamento",
+            "text": "Como os siameses são de pelo curto e pouca gordura corporal, sentem frio facilmente. Mantenha a casa quente e ofereça uma cama tipo cabana aconchegante."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que o meu siamês mia constantemente à noite?",
+            "answer": "É uma característica natural da raça. Costumam miar para comunicar tédio. Evite responder aos miados noturnos e aumente a brincadeira durante o dia para cansá-los."
+          },
+          {
+            "question": "Como reduzo a ansiedade de separação do meu siamês quando saio?",
+            "answer": "Prepare quebra-cabeças de comida antes de sair. Evite despedidas afetuosas pelo menos 10 minutos antes de sair, pois isso pode piorar a ansiedade."
+          }
+        ],
+        "tags": [
+          "Siamês",
+          "Ansiedade de Separação",
+          "Gatos Vocais",
+          "Joguete de Gatos"
+        ]
+      },
+      "id": {
+        "title": "Merawat Kecemasan dan Aktivitas Siamese: Rutinitas 3 Langkah",
+        "description": "Kucing Siamese sangat bergantung pada pemiliknya. Temukan tips ikatan emosional dan rutinitas bermain aktif 3 langkah untuk mengelola stres mereka.",
+        "authority": "Panduan Resmi Cat Fanciers' Association (CFA) & Protokol Perilaku Kucing AAFP",
+        "profile": {
+          "breed": "Siamese",
+          "lifespan": "12 ~ 15 tahun",
+          "sleep_pattern": "14 ~ 16 jam (lebih suka tidur erat di bawah selimut)",
+          "temperament": "Penuh Kasih Sayang, Vokal, Sangat Cerdas"
+        },
+        "intro": "Kucing Siamese, berasal dari keluarga kerajaan Thailand, adalah kucing pendamping elegan yang terkenal dengan titik kontras pada telinga, wajah, dan kaki mereka. Terkenal dengan temperamen yang sangat sosial, mereka sangat vokal. 🐱 Namun, kelekatan ekstrim ini membuat mereka rentan terhadap kecemasan perpisahan. Jika ditinggal sendirian, mereka sering mengekspresikan stres dengan mengeong tanpa henti. Hari ini, PetSelf memperkenalkan rutinitas 3 langkah.",
+        "whyTitle": "Bahasa Tubuh Siamese: Sinyal Kepercayaan dan Kepemilikan Mendalam",
+        "whyDesc": "Kucing Siamese menunjukkan kasih sayang mereka dengan cara interaktif. Sinyal khas meliputi **'berkedip lambat'** dan **'menanduk lembut'** (bunting). Menutup mata secara perlahan adalah pernyataan keamanan dan kedamaian. Menggosokkan pipi atau dahi ke tangan Anda adalah cara mereka membagikan feromon penenang.",
+        "body_signals": [
+          {
+            "name": "Berkedip Lambat",
+            "meaning": "Tampilan rasa aman dan kasih sayang yang mendalam, sering kali digambarkan sebagai ciuman kucing.",
+            "response": "Tatap matanya dengan lembut dan berikan kedipan balasan secara perlahan selama 1,5 detik."
+          },
+          {
+            "name": "Menanduk Lembut",
+            "meaning": "Tindakan meninggalkan aroma mereka (feromon) untuk menandai Anda sebagai orang yang aman.",
+            "response": "Elus dagu atau pipi mereka, membiarkan mereka bertukar aroma dengan gembira."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Sambutan Kontak Erat 10 Menit untuk Cegah Kecemasan",
+            "text": "Untuk meredakan kecemasan perpisahan, luangkan waktu 10 menit untuk membelai Siamese Anda dan berbicara lembut di tempat tidur segera setelah bangun tidur."
+          },
+          {
+            "name": "Siang: Permainan Interaktif dan Penempatan Teka-teki Makanan",
+            "text": "Jaga agar mereka tetap sibuk di siang hari dengan teka-teki makanan. Saat Anda pulang, luangkan waktu minimal 15 menit untuk permainan kejar-kejaran."
+          },
+          {
+            "name": "Malam: Pengaturan Tempat Tidur Hangat untuk Hindari Kedinginan",
+            "text": "Karena Siamese berbulu pendek dengan lemak tubuh rendah, mereka mudah kedinginan. Jaga suhu ruangan tetap hangat dan sediakan tempat tidur kubah."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa kucing Siamese saya terus mengeong di malam hari?",
+            "answer": "Ini adalah sifat alami ras tersebut. Mereka sering mengeong untuk mengomunikasikan kebosanan. Hindari merespons tangisan malam mereka dan lakukan permainan aktif di siang hari."
+          },
+          {
+            "question": "Bagaimana cara mengurangi kecemasan perpisahan Siamese saya saat saya pergi bekerja?",
+            "answer": "Siapkan mainan teka-teki makanan sebelum pergi. Hindari perpisahan emosional (seperti menggendong dan mencium berulang kali) minimal 10 menit sebelum keluar."
+          }
+        ],
+        "tags": [
+          "Siamese",
+          "Kecemasan Perpisahan",
+          "Kucing Vokal",
+          "Waktu Bermain Kucing"
+        ]
+      },
+      "ko": {
+        "title": "외로움이 많은 샴 고양이를 위한 정서 안정 및 사냥 놀이 3단계 루틴",
+        "description": "보호자에 대한 의존도가 높고 외로움을 많이 타는 샴 고양이. 정서적 결핍을 줄이는 교감법과 충분한 에너지를 발산시키는 3단계 데일리 놀이를 알아봅니다.",
+        "authority": "Cat Fanciers' Association (CFA) 공식 가이드 및 AAFP 고양이 행동 프로토콜",
+        "profile": {
+          "breed": "샴 고양이 (Siamese)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "14 ~ 16시간 (이불 속 밀착형)",
+          "temperament": "의존적, 사교적, 대단히 영리함"
+        },
+        "intro": "샴 고양이는 태국의 왕실에서 유래한 유서 깊은 품종으로, 귀와 얼굴, 발끝에 드러나는 포인트 컬러가 아름다운 반려묘입니다. 성격은 흔히 '개냥이'라고 불릴 정도로 매우 사교적이며, 다른 고양이 품종들과 달리 보호자에게 계속 말을 거는 듯이 다양한 톤으로 우는 독특한 매력을 자랑합니다. 🐱 하지만 보호자에 대한 극도의 의존도는 분리불안이라는 취약점을 낳습니다. 샴 고양이는 오랜 시간 홀로 방치되면 외로움과 스트레스로 인해 끊임없이 우는 하울링을 하거나 파괴적인 긁기 행동을 유발할 확률이 높습니다. 오늘 PetSelf에서는 샴 고양이의 애정 가득한 목소리에 반응하는 올바른 소통법을 알아보고, 외로움을 극복하게 돕는 정서 안정 놀이 3단계 루틴을 제공합니다.",
+        "whyTitle": "샴 고양이의 바디 랭귀지: 온전한 신뢰와 애정의 메시지",
+        "whyDesc": "샴 고양이는 적극적으로 애정을 피력하며, 풍부한 카밍 시그널을 사용합니다. 대표적으로는 **'눈인사(Slow Blink)'**와 **'몸 문지르기(Bunting)'**가 있습니다. 보호자의 시선을 붙잡고 눈을 천천히 감았다 뜨는 행위는 야생의 세계에서 적에게 틈을 내주는 위험한 행동으로, 이 고양이가 보호자를 완전히 무해하고 사랑스러운 존재로 여기고 있다는 신뢰의 고백입니다. 또한, 얼굴의 뺨이나 이마를 보호자의 손길이나 다리에 문지르는 것은 자신의 얼굴샘에서 나오는 호르몬을 묻혀 안정감을 공유하려는 행동입니다.",
+        "body_signals": [
+          {
+            "name": "눈인사 (Slow Blink)",
+            "meaning": "상대방 앞에서 눈을 감아도 될 만큼 무한한 신뢰와 애정을 뜻하는 고양이의 키스입니다.",
+            "response": "눈을 지그시 맞추고 같이 1.5초간 눈을 천천히 감았다 뜨며 대답해 주십시오."
+          },
+          {
+            "name": "몸 문지르기 (Bunting)",
+            "meaning": "자신의 체취(페로몬)를 남겨 '당신은 내 사람'이라는 애착의 확인 행동입니다.",
+            "response": "뺨이나 턱 아래를 긁어주며 체취가 서로 자연스럽게 교환되도록 응해주십시오."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 불안 예방 이름을 부르는 10분 밀착 교감",
+            "text": "외로움을 쉽게 타고 보호자 분리에 민감한 샴을 위해, 기상 즉시 이름을 다정하게 불러주며 침대 안에서 밀착하여 쓰다듬어 줍니다."
+          },
+          {
+            "name": "오후: 외로움 방지 지능 노즈워크 및 사냥 시뮬레이션",
+            "text": "보호자가 없는 낮 동안 지루하지 않게 먹이 퍼즐이나 노즈워크를 숨겨두고, 퇴근 후에는 깃털 장난감으로 수직 점프 사냥 놀이를 15분 이상 해 줍니다."
+          },
+          {
+            "name": "저녁: 체온 유지를 위한 고온 돔형 하우스 점검",
+            "text": "단모종이고 지방이 적어 추위에 유독 약한 샴을 위해, 저녁 보일러 온도를 조절하고 포근한 돔 형태의 따뜻한 은신처 하우스를 세팅합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "샴 고양이가 밤에 쉴 새 없이 우는데 어디 아픈 건가요?",
+            "answer": "특유의 대화성 발성입니다. 지루하거나 외로워서 보호자의 반응을 유도하기 위해 울부짖기도 합니다. 다치거나 아픈 증상이 아니라면 밤에 우는 행동에 반응해 주지 않고, 낮에 활동 사냥 놀이를 충분히 시켜 피로를 유도하는 것이 좋습니다."
+          },
+          {
+            "question": "샴 고양이를 혼자 둔 뒤 하울링이 심해졌는데 외출 시 어떻게 해야 하나요?",
+            "answer": "분리불안의 일종입니다. 외출 전 간식을 숨겨두는 보물찾기나 스마트 급식기로 사냥 놀이를 유도하여 보호자의 부재에 대한 주의를 돌리고, 외출 10분 전부터는 이별 의식(과도한 안아주기)을 하지 않는 것이 좋습니다."
+          }
+        ],
+        "tags": [
+          "샴 고양이",
+          "분리불안",
+          "대화형 울음",
+          "반려묘 놀이"
+        ]
+      }
+    }
   }
 }

@@ -1,0 +1,512 @@
+{
+  "dwarf-rabbit-care": {
+    "pubDate": "2026-02-17",
+    "updatedDate": "2026-02-17",
+    "locales": {
+      "en": {
+        "title": "Netherland Dwarf Rabbit Thumping Signals and 3-Step Digestive Health Routine",
+        "description": "Caring for the smallest rabbit breed, the Netherland Dwarf. Learn how to respond to warning thumps and support their sensitive digestive system with a 3-step high-fiber hay routine.",
+        "authority": "House Rabbit Society Medical Guidelines and Small Animal Veterinary Standards",
+        "profile": {
+          "breed": "Netherland Dwarf Rabbit",
+          "lifespan": "8 - 12 Years",
+          "sleep_pattern": "8 - 10 Hours (Crepuscular - Active Mornings & Evenings)",
+          "temperament": "Gentle, Sensitive, Curious, Affectionate"
+        },
+        "intro": "With tiny ears and a compact round body, the Netherland Dwarf Rabbit is globally cherished. However, their small size makes them easily frightened, and they are highly prone to life-threatening issues like GI Stasis if fiber intake is insufficient. When anxious, they thump their hind legs as a strong warning sign. Today, PetSelf analyzes dwarf rabbit thumping behaviors and shares a 3-step homecare routine for digestive health and nail safety.",
+        "whyTitle": "Dwarf Rabbit Emotional Expression: Thumping and Teeth Purring",
+        "whyDesc": "Netherland Dwarf Rabbits thump their hind legs loudly to warn of danger or express deep frustration. Conversely, when relaxed and happy, they slide their teeth to produce a soft clicking sound called teeth purring. Recognizing these signals ensures a happy, healthy bond.",
+        "body_signals": [
+          {
+            "name": "Hind Leg Thumping",
+            "meaning": "A firm warning notifying others of danger or expressing severe anger and stress.",
+            "response": "Identify the stressor, block sudden noises or other pets, and observe from a distance until they feel safe."
+          },
+          {
+            "name": "Teeth Purring",
+            "meaning": "A sign of joy and safety, similar to a cat's purring, often felt during petting.",
+            "response": "Gently massage the forehead and base of their ears to deepen the emotional connection."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: High-Fiber Timothy Hay & Fresh Water Setup",
+            "text": "For teeth wear and active digestion, fill the rack with fresh dust-free Timothy hay, and clean the water bowl."
+          },
+          {
+            "name": "Afternoon: Litter Box Cleaning & Sore Hock Inspection",
+            "text": "Clean the litter box for hygiene, and check their paw pads to prevent sore hocks caused by slippery or hard floors."
+          },
+          {
+            "name": "Evening: Chew Toy Check & Regular Nail Length Trim",
+            "text": "Provide fresh apple wood sticks to satisfy their chewing instincts and check nail lengths to prevent snags."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Should I bathe my rabbit with water?",
+            "answer": "No. Rabbits have thin skin, and getting wet can cause extreme hypothermia or fatal shock. They clean themselves via grooming. Only spot-clean soiled areas gently with a damp towel."
+          },
+          {
+            "question": "What should I do if my rabbit's feces shrink or they stop eating?",
+            "answer": "A sudden loss of appetite or tiny droppings are early signs of GI stasis. Since a rabbit's stopped gut can be fatal quickly, contact an exotic veterinarian immediately."
+          }
+        ],
+        "tags": [
+          "Netherland Dwarf",
+          "Rabbit Thumping",
+          "Timothy Hay",
+          "GI Stasis Prevention"
+        ]
+      },
+      "ja": {
+        "title": "ネザーランドドワーフの足ダン警告と消化器保護の3ステップルーチン",
+        "description": "世界で最も小さなウサギであるネザーランドドワーフ。不安を示す足ダンの対処法と、草食動物特有の胃腸をいたわる3ステップの牧草ケアについて解説します。",
+        "authority": "House Rabbit Society ウサギ医療ガイドおよび小動物獣医行動マニュアル",
+        "profile": {
+          "breed": "ネザーランドドワーフ (Netherland Dwarf Rabbit)",
+          "lifespan": "8 〜 12年",
+          "sleep_pattern": "8 〜 10時間 (朝と夕方に活動する薄明薄暮性)",
+          "temperament": "穏やか、繊細、好奇心旺盛、人懐っこい"
+        },
+        "intro": "小さな耳と丸く愛らしい体型を持つネザーランドドワーフは、世界中で大人気のウサギ品種です。しかし、体が小さいぶん臆病で環境変化に非常に敏感であり、繊維質の摂取が不足すると毛球症や胃腸うっ滞（GI Stasis）などの致命的な病気を引き起こしやすいです。また、不安を感じると後ろ足で地面を強く叩き、激しい拒否の意思を示します。今回はドワーフウサギの足ダン不安信号を分析し、胃腸の健康と爪の安全を守る3ステップのホームケアルーチンをご紹介します。",
+        "whyTitle": "ドワーフウサギの感情表現：足ダンと歯ぎしりのサイン",
+        "whyDesc": "ネザーランドドワーフは強い不満や危険を感じると、後ろ足で地面を強く叩く**『足ダン（Thumping）』**を行い周囲に警告します。反対に、リラックスして喜んでいる時は、顎を軽く動かしてカチカチと音を鳴らす**『歯ぎしり（Teeth Purring）』**の愛情表現を見せます。これらの感情表現を正しく見極めることが大切です。",
+        "body_signals": [
+          {
+            "name": "足ダン (Thumping)",
+            "meaning": "周囲に危険を知らせるか、現在強い不満や怒りを感じているという明確な拒否の意思表示です。",
+            "response": "刺激の原因を特定して騒音や他のペットを遠ざけ、ウサギが安心できるまで静かに様子を見ます."
+          },
+          {
+            "name": "歯の擦り合わせ (Teeth Purring)",
+            "meaning": "飼い主に撫でられている時など、猫のゴロゴロ音のように喜びと安心を満喫している状態です。",
+            "response": "額や耳の付け根を優しくマッサージし、コミュニケーションをさらに深めましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：高繊維質のチモシー給餌と新鮮な水の用意",
+            "text": "歯の磨耗と胃腸の働きのため、朝一番にほこりを払った新鮮なチモシーを補充し、水飲み用の器を洗って水を入れ替えます。"
+          },
+          {
+            "name": "昼：トイレ掃除と足裏パットの健康チェック",
+            "text": "衛生状態を保つためにトイレシートを交換し、足裏の皮膚炎（ソアホック）を防ぐため床マットや足裏の状態を確認します。"
+          },
+          {
+            "name": "夜：かじり木の点検と定期的な爪のチェック",
+            "text": "夜間の活動時間に合わせてりんごの木などを補充し、怪我や家具の破損を防ぐために爪の長さを点検します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ウサギはお風呂に入れる必要がありますか？",
+            "answer": "ウサギは皮膚が薄く、濡れると体温調節ができずにショック死するリスクが非常に高いです。自分で毛づくろいをして清潔に保つため、全身の水風呂は絶対に避け、汚れた部分だけを濡れタオルで優しく拭き取ってください。"
+          },
+          {
+            "question": "糞が小さくなったり、食欲が落ちたりした場合は？",
+            "answer": "急に牧草を食べなくなったり、糞のサイズが極端に小さくなるのは、命に関わる胃腸うっ滞の初期サインです。草食動物の消化管が止まると非常に危険なため、すぐにウサギ専門の獣医師に診てもらってください。"
+          }
+        ],
+        "tags": [
+          "ネザーランドドワーフ",
+          "足ダン行動",
+          "ウサギのチモシー管理",
+          "胃腸うっ滞予防"
+        ]
+      },
+      "zh": {
+        "title": "荷兰侏儒兔的跺脚警告与消化系统保护3阶段流程",
+        "description": "护理世界上最小的兔子品种——荷兰侏儒兔。了解如何应对表示焦虑的后脚跺脚行为，并通过3阶段高纤维牧草喂养呵护其敏感的消化系统。",
+        "authority": "House Rabbit Society 兔子医疗指南及小动物兽医行为手册",
+        "profile": {
+          "breed": "荷兰侏儒兔 (Netherland Dwarf Rabbit)",
+          "lifespan": "8 ~ 12年",
+          "sleep_pattern": "8 ~ 10小时 (晨昏活动性——清晨与傍晚最活跃)",
+          "temperament": "温顺、敏感、好奇心强、温和"
+        },
+        "intro": "拥有小巧耳朵和圆滚滚可爱外形的荷兰侏儒兔是全球深受喜爱的兔子品种。然而，正因为体型小，它们非常胆小，对环境变化极其敏感，一旦纤维摄入不足，很容易患上胃肠道停滞（GI Stasis）等致命疾病。当感到焦虑时，它们会用后脚重重地跺地，表示强烈的拒绝。今天，PetSelf 将分析侏儒兔的跺脚焦虑信号，并分享保护胃肠健康和指甲安全的3阶段每日护理流程。",
+        "whyTitle": "侏儒兔的情感表达：后脚跺地声与磨牙信号",
+        "whyDesc": "荷兰侏儒兔在感到强烈不满或检测到危险时，会用后脚用力跺地，即**“后脚跺地(Thumping)”**以示警告。相反，当感到舒适和快乐时，它们会轻轻移动下颌并发出类似于猫咪呼噜声的**“磨牙颤动(Teeth Purring)”**来表达爱意。细心识别这些情绪信号非常重要。",
+        "body_signals": [
+          {
+            "name": "后脚跺地 (Thumping)",
+            "meaning": "向周围告知危险，或表达当前极度不满和愤怒的明确拒绝意图。",
+            "response": "确定过敏原，阻止噪音或其他宠物的接近，并保持距离观察直到其感到安全。"
+          },
+          {
+            "name": "磨牙及下颌颤动 (Teeth Purring)",
+            "meaning": "在接受抚摸或处于舒适环境中时，如同猫咪呼噜声一样，享受喜悦和安心的状态。",
+            "response": "温柔地按摩额头和耳根部位，以加深与兔子之间的情感交流。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：高纤维提摩西草喂食与新鲜水分补充",
+            "text": "为确保牙齿正常磨损和胃肠蠕动，清晨更换干净除尘的无限量提摩西草，并清洗水盆更换新鲜水。"
+          },
+          {
+            "name": "昼：清理厕所便盆与足底健康检查",
+            "text": "更换厕所垫料以保持卫生，并检查足底状态以防止因地板湿滑或坚硬引起的脚皮炎（足底溃疡）。"
+          },
+          {
+            "name": "晚上：磨牙木状态整理与定期指甲磨损检查",
+            "text": "配合夜间活动增加的时期，补充苹果木磨牙玩具，并检查指甲长度，防止指甲劈裂或受伤。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "兔子需要洗澡吗？",
+            "answer": "兔子皮肤极薄，一旦身体被打湿，极易失去体温调节能力而导致休克死亡。兔子通过自我梳理来保持清洁，因此绝对不能进行全身水洗，仅能用湿毛巾小心擦拭弄脏的局部。"
+          },
+          {
+            "question": "当粪便变小或不吃东西时该怎么办？",
+            "answer": "兔子突然不吃干草或粪便尺寸急剧减小是致命的胃肠道停滞的早期信号。由于草食动物的胃肠停止工作非常危险，必须立即接受专业兽医的诊疗。"
+          }
+        ],
+        "tags": [
+          "荷兰侏儒兔",
+          "跺脚行为",
+          "提摩西草管理",
+          "预防胃肠道停滞"
+        ]
+      },
+      "es": {
+        "title": "Señales de golpes de patas del conejo enano de Holanda y rutina de 3 pasos para la salud digestiva",
+        "description": "Cuidado de la raza de conejo más pequeña, el enano de Holanda. Aprenda a responder a los golpes de advertencia con las patas y apoye su sensible sistema digestivo con una rutina de 3 pasos de heno alto en fibra.",
+        "authority": "Directrices Médicas de la House Rabbit Society y Estándares Veterinarios de Animales Pequeños",
+        "profile": {
+          "breed": "Conejo Enano de Holanda (Netherland Dwarf Rabbit)",
+          "lifespan": "8 ~ 12 años",
+          "sleep_pattern": "8 ~ 10 horas (crepuscular: activo por las mañanas y noches)",
+          "temperament": "Gentil, sensible, curioso, afectuoso"
+        },
+        "intro": "Con orejas diminutas y un cuerpo redondo y compacto, el conejo enano de Holanda es adorado en todo el mundo. Sin embargo, su pequeño tamaño los hace asustarse fácilmente, y son altamente propensos a problemas potencialmente mortales como la estasis gastrointestinal (GI Stasis) si la ingesta de fibra es insuficiente. Cuando están ansiosos, golpean el suelo con sus patas traseras como una fuerte señal de warning. Hoy, PetSelf analiza estos comportamientos de golpes de patas y comparte una rutina de cuidado en el hogar de 3 pasos para la salud digestiva y la seguridad de las uñas.",
+        "whyTitle": "Expresión emocional del conejo enano: golpes de patas y chirrido de dientes",
+        "whyDesc": "Los conejos enanos de Holanda golpean sus patas traseras con fuerza contra el suelo **'Golpes de patas traseras (Thumping)'** para advertir de un peligro o expresar frustración profunda. Por el contrario, cuando están relajados y felices, frotan ligeramente sus dientes para producir un suave sonido de clic llamado **'Chirrido de dientes (Teeth Purring)'**. Reconocer estas señales asegura un vínculo feliz y saludable.",
+        "body_signals": [
+          {
+            "name": "Golpes de patas traseras (Thumping)",
+            "meaning": "Una advertencia firme para notificar peligro a otros o expresar enojo y estrés severos.",
+            "response": "Identifique el factor de estrés, bloquee ruidos repentinos u otras mascotas, y observe desde una distancia hasta que se sientan seguros."
+          },
+          {
+            "name": "Chirrido de dientes (Teeth Purring)",
+            "meaning": "Una señal de alegría y seguridad, similar al ronroneo de un gato, que a menudo se siente durante las caricias.",
+            "response": "Masajee suavemente la frente y la base de las orejas para profundizar la conexión emocional."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Suministro de heno Timothy alto en fibra y agua fresca",
+            "text": "Para el desgaste de los dientes y una digestión activa, llene el comedero con heno Timothy fresco y libre de polvo, y limpie el tazón de agua."
+          },
+          {
+            "name": "Tarde: Limpieza de la caja de arena e inspección de pododermatitis",
+            "text": "Limpie la caja de arena para mantener la higiene, y verifique sus almohadillas para prevenir la pododermatitis (sore hocks) causada por pisos resbaladizos o duros."
+          },
+          {
+            "name": "Noche: Revisión de juguetes para masticar y corte regular de uñas",
+            "text": "Proporcione ramas frescas de manzano para satisfacer su instinto de masticación y verifique el largo de las uñas para evitar enganches o heridas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Debería bañar a mi conejo con agua?",
+            "answer": "No. Los conejos tienen la piel muy delgada y mojarse puede causar hipotermia severa o shock fatal. Se limpian solos mediante el acicalamiento. Solo limpie las áreas sucias localizadas suavemente con una toalla húmeda."
+          },
+          {
+            "question": "¿Qué debo hacer si las heces de mi conejo se reducen o dejan de comer?",
+            "answer": "Una pérdida repentina del apetito o heces diminutas son signos tempranos de estasis gastrointestinal. Dado que el detenimiento del intestino de un conejo puede ser fatal rápidamente, comuníquese con un veterinario de animales exóticos de inmediato."
+          }
+        ],
+        "tags": [
+          "Conejo Enano",
+          "Golpes de Patas",
+          "Heno Timothy",
+          "Prevención de Estasis GI"
+        ]
+      },
+      "fr": {
+        "title": "Signaux de tapement de pattes du lapin nain de couleur et routine de 3 étapes pour la santé digestive",
+        "description": "Prendre soin de la plus petite race de lapin, le nain de couleur. Apprenez à répondre aux tapements de pattes d'avertissement et soutenez leur système digestif sensible avec une routine de 3 étapes de foin riche en fibres.",
+        "authority": "Directives Médicales de la House Rabbit Society et Normes Vétérinaires pour Petits Animaux",
+        "profile": {
+          "breed": "Lapin Nain de Couleur (Netherland Dwarf Rabbit)",
+          "lifespan": "8 ~ 12 ans",
+          "sleep_pattern": "8 ~ 10 heures (crépusculaire : actif le matin et le soir)",
+          "temperament": "Doux, sensible, curieux, affectueux"
+        },
+        "intro": "Avec de minuscules oreilles et un corps rond et compact, le lapin nain de couleur est adoré dans le monde entier. Cependant, leur petite taille les rend facilement craintifs, et ils sont très sujets à des problèmes potentiellement mortels comme la stase gastro-intestinale (GI Stasis) si l'apport en fibres est insuffisant. Lorsqu'ils sont anxieux, ils tapent le sol avec leurs pattes arrière en guise de signal d'avertissement. Aujourd'hui, PetSelf analyse ces comportements de tapements de pattes et partage une routine de soins à domicile en 3 étapes pour la santé digestive et la sécurité des griffes.",
+        "whyTitle": "Expression émotionnelle du lapin nain : tapements de pattes et grincements de dents",
+        "whyDesc": "Les lapins nains de couleur tapent leurs pattes arrière avec force contre le sol **'Tapements de pattes arrière (Thumping)'** pour avertir d'un danger ou exprimer une profonde frustration. À l'inverse, lorsqu'ils sont détendus et heureux, ils frottent doucement leurs dents pour produire un léger cliquetis appelé **'Grincement de dents (Teeth Purring)'**. Reconnaître ces signaux assure un lien heureux et sain.",
+        "body_signals": [
+          {
+            "name": "Tapements de pattes arrière (Thumping)",
+            "meaning": "Un avertissement ferme pour signaler un danger aux autres ou exprimer une colère et un stress sévères.",
+            "response": "Identifiez le facteur de stress, bloquez les bruits soudains ou les autres animaux, et observez à distance jusqu'à ce qu'ils se sentent en sécurité."
+          },
+          {
+            "name": "Grincement de dents (Teeth Purring)",
+            "meaning": "Un signal de joie et de sécurité, semblable au ronronnement d'un chat, souvent ressenti pendant les caresses.",
+            "response": "Massez doucement le front et la base de leurs oreilles pour approfondir la connexion émotionnelle."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Fourniture de foin de fléole des prés riche en fibres et d'eau fraîche",
+            "text": "Pour l'usure des dents et une digestion active, remplissez le râtelier de foin de fléole (Timothy) frais et dépoussiéré, et nettoyez le bol d'eau."
+          },
+          {
+            "name": "Après-midi : Nettoyage du bac à litière et inspection des pododermatites",
+            "text": "Nettoyez le bac à litière pour maintenir l'hygiène, et verifiez leurs coussinets pour prévenir les pododermatites (sore hocks) causées par des sols glissants ou durs."
+          },
+          {
+            "name": "Soir : Vérification des jouets à ronger et coupe régulière des griffes",
+            "text": "Fournissez des branches fraîches de pommier pour satisfaire leur instinct de ronger et verifiez la longueur des griffes pour éviter les déchirures ou blessures."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Dois-je donner un bain à mon lapin avec de l'eau ?",
+            "answer": "Non. Les lapins ont la peau très fine et se mouiller peut provoquer une hypothermie sévère ou un choc fatal. Ils se nettoient d'eux-mêmes grâce au toilettage. Nettoyez uniquement les zones sales localisées en douceur avec une serviette humide."
+          },
+          {
+            "question": "Que dois-je faire si les crottes de mon lapin diminuent ou s'il arrête de manger ?",
+            "answer": "Une perte d'appétit soudaine ou des crottes minuscules sont des signes précoces de stase gastro-intestinale. L'arrêt du transit d'un lapin pouvant être fatal rapidement, contactez immédiatement un vétérinaire pour animaux exotiques."
+          }
+        ],
+        "tags": [
+          "Lapin Nain",
+          "Tapement de Pattes",
+          "Foin de Fléole",
+          "Prévention Stase GI"
+        ]
+      },
+      "de": {
+        "title": "Klopfzeichen des Farbenzwergkaninchens und 3-Schritt-Routine für die Verdauungsgesundheit",
+        "description": "Pflege für die kleinste Kaninchenrasse, das Farbenzwergkaninchen. Lernen Sie, auf Warnklopfen zu reagieren, und unterstützen Sie das empfindliche Verdauungssystem mit einer 3-Schritt-Heuroutine.",
+        "authority": "Medizinische Richtlinien der House Rabbit Society und Tierärztliche Standards für Kleintiere",
+        "profile": {
+          "breed": "Farbenzwergkaninchen (Netherland Dwarf Rabbit)",
+          "lifespan": "8 ~ 12 Jahre",
+          "sleep_pattern": "8 ~ 10 Stunden (dämmerungsaktiv: aktiv am Morgen und Abend)",
+          "temperament": "Sanft, sensibel, neugierig, anhänglich"
+        },
+        "intro": "Mit winzigen Ohren und einem kompakten runden Körper ist das Farbenzwergkaninchen weltweit beliebt. Aufgrund ihrer geringen Größe sind sie jedoch leicht erschreckbar und neigen bei unzureichender Rohfaseraufnahme leicht zu lebensbedrohlichen Problemen wie der Magen-Darm-Hefe-Verstopfung (GI-Stasis). Bei Angst klopfen sie als starkes Warnsignal mit den Hinterpfoten auf den Boden. Heute analysiert PetSelf diese Klopfverhaltensweisen und teilt eine 3-Schritt-Tagesroutine für Verdauungsgesundheit und Krallensicherheit.",
+        "whyTitle": "Kaninchen-Emotionsausdruck: Hinterpfoten-Klopfen und Zähneknirschen",
+        "whyDesc": "Farbenzwergkaninchen klopfen laut mit den Hinterpfoten auf den Boden **'Klopfen mit den Hinterpfoten (Thumping)'**, um vor Gefahren zu warnen oder tiefe Frustration auszudrücken. Umgekehrt reiben sie bei Entspannung und Freude leicht mit den Zähnen, um ein leises Klicken zu erzeugen, das **'Zähneknirschen (Teeth Purring)'** genannt wird. Das Erkennen dieser Signale sichert eine glückliche und gesunde Bindung.",
+        "body_signals": [
+          {
+            "name": "Pfotenklopfen (Thumping)",
+            "meaning": "Eine deutliche Warnung, um andere vor Gefahren zu warnen oder starken Ärger und Stress auszudrücken.",
+            "response": "Identifizieren Sie den Stressfaktor, blockieren Sie plötzlichen Lärm oder andere Haustiere und beobachten Sie aus der Ferne, bis sie sich sicher fühlen."
+          },
+          {
+            "name": "Zähneknirschen (Teeth Purring)",
+            "meaning": "Ein Zeichen von Freude und Sicherheit, ähnlich dem Schnurren einer Katze, das oft beim Streicheln zu spüren ist.",
+            "response": "Massieren Sie sanft die Stirn und die Basis der Ohren, um die emotionale Bindung zu vertiefen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Fütterung von Timothy-Heu und frischem Wasser",
+            "text": "Für den Zahnabrieb und eine aktive Verdauung füllen Sie die Heuraufe mit frischem, staubfreiem Timothy-Heu und reinigen Sie den Wassernapf."
+          },
+          {
+            "name": "Nachmittag: Reinigung der Katzentoilette und Kontrolle der Pfotenballen",
+            "text": "Reinigen Sie die Katzentoilette, um die Hygiene zu wahren, und kontrollieren Sie die Pfotenballen zur Vermeidung von wunden Läufen (Pododermatitis)."
+          },
+          {
+            "name": "Abend: Überprüfung des Knabberspielzeugs und Krallenschneiden",
+            "text": "Stellen Sie frische Apfelbaumzweige bereit, um den Knabbertrieb zu befriedigen, und überprüfen Sie die Krallenlänge, um Hängenbleiben zu verhindern."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollte ich mein Kaninchen im Wasser baden?",
+            "answer": "Nein. Kaninchen haben eine sehr dünne Haut, und das Nasswerden kann zu schwerer Unterkühlung oder einem tödlichen Schock führen. Sie reinigen sich selbst durch Putzen. Reinigen Sie verschmutzte Bereiche nur vorsichtig mit einem feuchten Tuch."
+          },
+          {
+            "question": "Was tun, wenn der Kot meines Kaninchens kleiner wird oder es aufhört zu fressen?",
+            "answer": "Ein plötzlicher Appetitverlust oder winzige Kotkügelchen sind frühe Anzeichen einer Magen-Darm-Stase. Da ein Darmstillstand beim Kaninchen schnell tödlich sein kann, kontaktieren Sie sofort einen Tierarzt für exotische Kleintiere."
+          }
+        ],
+        "tags": [
+          "Zwergkaninchen",
+          "Pfotenklopfen",
+          "Timothy-Heu",
+          "GI-Stasis-Prävention"
+        ]
+      },
+      "pt": {
+        "title": "Sinais de pancadas de patas do coelho anão de Holanda e rotina de 3 passos para a saúde digestiva",
+        "description": "Cuidado da raça de coelho mais pequena, o anão de Holanda. Aprenda a responder às pancadas de aviso com as patas e apoie o seu sensível sistema digestivo com uma rotina de 3 passos de feno alto em fibra.",
+        "authority": "Diretrizes Médicas da House Rabbit Society e Padrões Veterinários de Pequenos Animais",
+        "profile": {
+          "breed": "Coelho Anão de Holanda (Netherland Dwarf Rabbit)",
+          "lifespan": "8 ~ 12 anos",
+          "sleep_pattern": "8 ~ 10 horas (crepuscular: ativo pelas manhãs e noites)",
+          "temperament": "Gentil, sensível, curioso, afetuoso"
+        },
+        "intro": "Com orelhas minúsculas e um corpo redondo e compacto, o coelho anão de Holanda é adorado em todo o mundo. No entanto, o seu tamanho pequeno torna-os facilmente assustadiços, e são altamente propensos a problemas potencialmente mortais como a estase gastrointestinal (GI Stasis) se a ingestão de fibra for insuficiente. Quando estão ansiosos, batem com as patas traseiras no chão como um forte sinal de aviso. Hoje, o PetSelf analisa estes comportamentos de pancadas de patas e partilha uma rotina de cuidado no lar de 3 passos para a saúde digestiva e a segurança das unhas.",
+        "whyTitle": "Expressão emocional do coelho anão: pancadas de patas e ranger de dentes",
+        "whyDesc": "Os coelhos anões de Holanda batem as suas patas traseiras com força contra o chão **'Pancadas de patas traseiras (Thumping)'** para advertir de um perigo ou expressar frustração profunda. Pelo contrário, quando estão relaxados e felizes, rangem ligeiramente os dentes para produzir um suave som de clique chamado **'Ranger de dentes (Teeth Purring)'**. Reconhecer estes sinais assegura uma ligação feliz e saudável.",
+        "body_signals": [
+          {
+            "name": "Pancadas de patas traseiras (Thumping)",
+            "meaning": "Uma advertência firme para notificar perigo a outros ou expressar raiva e stresse severos.",
+            "response": "Identifique o fator de stresse, bloqueie ruídos repentinos ou outros animais de estimação, e observe a partir de uma distância até que se sintam seguros."
+          },
+          {
+            "name": "Ranger de dentes (Teeth Purring)",
+            "meaning": "Um sinal de alegria e segurança, semelhante ao ronronar de um gato, que muitas vezes se sente durante as carícias.",
+            "response": "Massageie suavemente a testa e a base das orelhas para aprofundar a ligação emocional."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Fornecimento de feno Timothy alto em fibra e água fresca",
+            "text": "Para o desgaste dos dentes e uma digestão ativa, encha o comedouro com feno Timothy fresco e livre de pó, e limpe a taça de água."
+          },
+          {
+            "name": "Tarde: Limpeza da caixa de areia e inspeção de pododermatite",
+            "text": "Limpe a caixa de areia para manter a higiene, e verifique as suas almofadinhas para prevenir a pododermatite (sore hocks) causada por pisos escorregadios ou duros."
+          },
+          {
+            "name": "Noite: Revisão de brinquedos para mastigar e corte regular de unhas",
+            "text": "Proporcione ramos frescos de macieira para satisfazer o seu instinto de mastigação e verifique o comprimento das unhas para evitar cortes ou feridas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Deveria dar banho ao meu coelho com água?",
+            "answer": "Não. Os coelhos têm a pele muito fina e molhar-se pode causar hipotermia severa ou choque fatal. Limpam-se sozinhos através da sua própria higiene. Limpe apenas as áreas sujas localizadas suavemente com uma toalha húmida."
+          },
+          {
+            "question": "¿O que devo fazer se as fezes do meu coelho se reduzirem ou deixarem de comer?",
+            "answer": "Uma perda repentina do apetite ou fezes diminutas são sinais precoces de estase gastrointestinal. Dado que a paragem do intestino de um coelho pode ser fatal rapidamente, contacte um veterinário de animais exóticos imediatamente."
+          }
+        ],
+        "tags": [
+          "Coelho Anão",
+          "Pancadas de Patas",
+          "Feno Timothy",
+          "Prevenção de Estase GI"
+        ]
+      },
+      "id": {
+        "title": "Sinyal Hentakan Kaki Kelinci Kerdil Netherland dan Rutin 3 Langkah Kesehatan Pencernaan",
+        "description": "Merawat ras kelinci terkecil, Kerdil Netherland. Pelajari cara merespons hentakan kaki peringatan dan dukung sistem pencernaan mereka yang sensitif dengan 3 langkah rutin jerami tinggi serat.",
+        "authority": "Panduan Medis House Rabbit Society dan Standar Veteriner Hewan Kecil",
+        "profile": {
+          "breed": "Kelinci Kerdil Netherland (Netherland Dwarf Rabbit)",
+          "lifespan": "8 ~ 12 tahun",
+          "sleep_pattern": "8 ~ 10 jam (krepuskular: aktif di pagi & malam hari)",
+          "temperament": "Lembut, sensitif, penasaran, penuh kasih sayang"
+        },
+        "intro": "Dengan telinga mungil and tubuh bulat yang padat, Kelinci Kerdil Netherland sangat disayangi di seluruh dunia. Namun, ukurannya yang kecil membuat mereka mudah takut, dan mereka sangat rentan terhadap masalah fatal seperti stasis gastrointestinal (GI Stasis) jika asupan serat tidak mencukupi. Ketika cemas, mereka mengentakkan kaki belakang ke tanah sebagai sinyal peringatan keras. Hari ini, PetSelf menganalisis perilaku mengentak ini dan membagikan 3 langkah rutin perawatan di rumah untuk kesehatan pencernaan dan keamanan kuku.",
+        "whyTitle": "Ekspresi Emosional Kelinci Kerdil: Hentakan Kaki dan Geretakan Gigi",
+        "whyDesc": "Kelinci Kerdil Netherland mengentakkan kaki belakang dengan keras ke tanah **'Hentakan kaki belakang (Thumping)'** untuk memperingatkan bahaya atau mengekspresikan frustrasi yang mendalam. Sebaliknya, ketika rileks dan senang, mereka menggesekkan gigi dengan lembut untuk menghasilkan suara klik pelan yang disebut **'Geretakan gigi (Teeth Purring)'**. Mengenali sinyal ini memastikan ikatan yang bahagia dan sehat.",
+        "body_signals": [
+          {
+            "name": "Hentakan Kaki Belakang (Thumping)",
+            "meaning": "Peringatan tegas untuk memberitahu bahaya kepada kelinci lain atau mengekspresikan kemarahan dan stres yang parah.",
+            "response": "Identifikasi penyebab stres, halangi suara tiba-tiba atau hewan peliharaan lain, and amati dari jarak jauh sampai mereka merasa aman."
+          },
+          {
+            "name": "Geretakan Gigi (Teeth Purring)",
+            "meaning": "Tanda sukacita dan keamanan, mirip dengan denguran kucing, sering kali terasa saat dibelai.",
+            "response": "Pijat dahi dan pangkal telinga mereka dengan lembut untuk memperdalam hubungan emosional."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Penyediaan Jerami Timothy Tinggi Serat dan Air Bersih",
+            "text": "Untuk pengikisan gigi dan pencernaan yang aktif, isi wadah dengan jerami Timothy segar yang bebas debu, dan bersihkan mangkuk air."
+          },
+          {
+            "name": "Siang: Pembersihan Kotak Kotoran dan Pemeriksaan Pododermatitis",
+            "text": "Bersihkan kotak kotoran untuk menjaga kebersihan, dan periksa bantalan kaki mereka untuk mencegah pododermatitis (sore hocks) akibat lantai licin atau keras."
+          },
+          {
+            "name": "Malam: Pemeriksaan Mainan Kunyah dan Pemotongan Kuku Rutin",
+            "text": "Sediakan batang kayu apel segar untuk memuaskan instingtif mengunyah dan periksa panjang kuku guna mencegah robekan atau luka."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Haruskah saya memandikan kelinci saya dengan air?",
+            "answer": "Tidak. Kelinci memiliki kulit yang tipis, and basah dapat menyebabkan hipotermia parah atau syok fatal. Mereka membersihkan diri melalui dandan (grooming). Cukup bersihkan area kotor lokal dengan lembut menggunakan handuk basah."
+          },
+          {
+            "question": "Apa yang harus saya lakukan jika kotoran kelinci saya mengecil atau mereka berhenti makan?",
+            "answer": "Kehilangan nafsu makan mendadak atau kotoran yang sangat kecil adalah tanda awal stasis gastrointestinal. Karena berhentinya usus kelinci dapat berakibat fatal dengan cepat, segera hubungi dokter hewan eksotis."
+          }
+        ],
+        "tags": [
+          "Kelinci Kerdil",
+          "Hentakan Kaki",
+          "Jerami Timothy",
+          "Pencegahan Stasis GI"
+        ]
+      },
+      "ko": {
+        "title": "네덜란드 드워프 토끼의 덤핑 경고와 소화계 보호 3단계 루틴",
+        "description": "세상에서 가장 작은 토끼 품종인 네덜란드 드워프 토끼. 불안함을 뜻하는 뒷발 덤핑 대처법과 초식동물 고유의 섬유질 소화계를 돕는 3단계 건초 케어 루틴을 다룹니다.",
+        "authority": "House Rabbit Society 토끼 메디컬 가이드 및 소동물 수의학 행동 매뉴얼",
+        "profile": {
+          "breed": "네덜란드 드워프 토끼 (Netherland Dwarf Rabbit)",
+          "lifespan": "8 ~ 12년",
+          "sleep_pattern": "8 ~ 10시간 (아침과 저녁에 활동하는 박명박모성)",
+          "temperament": "온순함, 예민함, 호기심 많음, 다정함"
+        },
+        "intro": "앙증맞은 작은 귀와 둥글고 귀여운 외모를 가진 네덜란드 드워프 토끼는 전 세계적으로 가장 사랑받는 토끼 품종 중 하나입니다. 그러나 몸집이 작은 만큼 겁이 많고 환경 변화에 극도로 예민하며, 섬유질 섭취가 부족하면 위장관 정체증(GI Stasis)과 같은 치명적인 질환에 걸리기 쉽습니다. 또한 불안을 느끼면 뒷발로 바닥을 쿵쿵 구르며 격렬한 거부 의사를 표시합니다. 오늘 PetSelf에서는 드워프 토끼의 덤핑 불안 신호를 분석하고, 건강한 소화 기관과 발톱 안전을 보장하는 3단계 홈케어 루틴을 공유합니다.",
+        "whyTitle": "드워프 토끼의 감정 표현: 뒷발 쿵쿵 소리와 이 가는 신호",
+        "whyDesc": "네덜란드 드워프 토끼는 강한 불만이나 위협을 감지하면 뒷발로 바닥을 세게 구르는 **'뒷발 쿵쿵 구르기(Thumping)'** 행동을 하여 위험을 경고합니다. 이와 반대로 편안하고 기쁠 때는 턱을 가볍게 움직이며 드르륵거리는 **'이 갈기(Teeth Purring)'** 애정 표현을 합니다. 이 감정 신호들을 세심하게 파악하여 돌보는 것이 중요합니다.",
+        "body_signals": [
+          {
+            "name": "뒷발 쿵쿵 구르기 (Thumping)",
+            "meaning": "위험을 주위에 알리거나 현재 큰 스트레스와 분노를 느끼고 있다는 단호한 의사표시입니다.",
+            "response": "자극 원인을 파악해 소음이나 다른 동물의 접근을 막고 토끼가 안전하다고 느낄 때까지 관찰합니다."
+          },
+          {
+            "name": "이 갈기 및 턱 떨림 (Teeth Purring)",
+            "meaning": "보호자의 쓰다듬을 받거나 편안한 환경에서 고양이의 골골송처럼 기쁨과 안정을 누리고 있는 상태입니다.",
+            "response": "이마와 귀 뒤쪽의 뼈 라인을 부드럽게 마사지해 교감 강도를 높여 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 고섬유질 티모시 건초 급여 및 신선한 수분 공급",
+            "text": "이빨의 정상 마모와 위장 작동을 위해 아침 일찍 먼지를 턴 무제한 건초를 채우고, 물병 대신 편하게 마실 수 있는 물그릇을 씻어 줍니다."
+          },
+          {
+            "name": "낮: 화장실 모래판 오물 수거 및 발바닥 패드 확인",
+            "text": "위생적인 배변 유지를 위해 모래판을 세척하고, 미끄러짐으로 인한 비절병을 방지하도록 바닥 매트 and 발바닥 상태를 확인합니다."
+          },
+          {
+            "name": "저녁: 이갈이용 나뭇가지 상태 정비 및 발톱 마모 검사",
+            "text": "야간 활동량이 느는 시기에 맞춰 사과나무 이갈이를 보충하고 가구 훼손이나 부상을 막기 위해 정기 발톱 길이를 점검합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "토끼 목욕을 꼭 시켜야 하나요?",
+            "answer": "토끼는 피부가 얇고 물에 젖으면 체온 조절 능력이 상실되어 쇼크사할 위험이 매우 높습니다. 스스로 털을 그루밍하여 청결히 관리하므로 절대 물 목욕을 시키면 안 되며, 오염된 부분만 젖은 타월로 조심히 닦아주어야 합니다."
+          },
+          {
+            "question": "변의 크기가 작아지거나 잘 먹지 않을 때는요?",
+            "answer": "토끼가 갑자기 건초를 먹지 않거나 변의 크기가 급격히 줄어드는 것은 치명적인 위장관 정체증의 초기 신호일 수 있습니다. 초식 동물의 장이 멈추면 생명이 위험하므로 즉시 전문 수의사의 진료를 받아야 합니다."
+          }
+        ],
+        "tags": [
+          "네덜란드드워프토끼",
+          "덤핑행동",
+          "토끼건초관리",
+          "위장관정체극복"
+        ]
+      }
+    }
+  }
+}

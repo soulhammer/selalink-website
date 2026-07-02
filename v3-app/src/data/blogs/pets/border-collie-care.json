@@ -1,6 +1,512 @@
 {
   "border-collie-care": {
-    "pubDate": "2026-07-02",
-    "updatedDate": "2026-07-02"
+    "pubDate": "2026-01-30",
+    "updatedDate": "2026-01-30",
+    "locales": {
+      "en": {
+        "title": "Brain Stimulation Games and Joint Care Home Routine for Clever Border Collies",
+        "description": "Learn cognitive games and joint care tips for active Border Collies.",
+        "authority": "The Kennel Club (KC) Border Collie Guide & Animal Cognition Studies",
+        "profile": {
+          "breed": "Border Collie",
+          "lifespan": "12 ~ 15 Years",
+          "sleep_pattern": "10 ~ 12 Hours (High Energy Active)",
+          "temperament": "Amazingly Intelligent, Enthusiastic, Endless Stamina"
+        },
+        "intro": "The Border Collie is widely known as the smartest dog breed in the world. Their explosive running style and quick turns put high stress on their joints. Today at PetSelf, we present a 3-step homecare routine designed to challenge their brain and maintain joint health.",
+        "whyTitle": "Border Collie Body Language: Intense Eye Focus",
+        "whyDesc": "Border Collies have a distinct behavior known as 'The Eye'—staring intensely to herd objects.",
+        "body_signals": [
+          {
+            "name": "Lowered Body & Intense Eye Focus",
+            "meaning": "Instinctive herding drive triggered by moving objects.",
+            "response": "Call their name and redirect eye contact to you immediately."
+          },
+          {
+            "name": "Open Mouth & Large Wagging Tail",
+            "meaning": "Highly energized and ready to engage in play.",
+            "response": "Start intelligent activities like Frisbee or agility."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Interval Running with Commands",
+            "text": "Combine physical sprints with commands to satisfy mental drives."
+          },
+          {
+            "name": "Afternoon: Multi-level Interactive Puzzle Toys",
+            "text": "Provide puzzle toys to satisfy their cognitive curiosity."
+          },
+          {
+            "name": "Evening: Muscle Massage and Joint Stretching",
+            "text": "Apply warm compresses and stretch leg muscles gently."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why does my Border Collie chase cars?",
+            "answer": "This is due to herding instinct. Train focus cue before triggers."
+          },
+          {
+            "question": "How much exercise do they need daily?",
+            "answer": "At least 2 hours of daily exercise including training."
+          }
+        ],
+        "tags": [
+          "Border Collie",
+          "Brain Games",
+          "Joint Care",
+          "Herding Correction"
+        ]
+      },
+      "ja": {
+        "title": "天才犬ボーダーコリーのための知育玩具遊びと関節保護3ステップルーティン",
+        "description": "知能ランキング1位のボーダーコリー。有り余るエネルギーを満たす頭脳遊びと、激しい運動で痛めやすい関節を守るケアを学びます。",
+        "authority": "英国ケネルクラブ(KC)公式ボーダーコリーガイドおよび行動認知研究",
+        "profile": {
+          "breed": "ボーダーコリー (Border Collie)",
+          "lifespan": "12 〜 15年",
+          "sleep_pattern": "10 〜 12時間 (高エネルギー活動型)",
+          "temperament": "極めて聡明、熱情的、尽きない体力"
+        },
+        "intro": "ボーダーコリーは世界で最も賢い犬種として知られ、牧羊犬としての優れた体力とワーキングドライブを誇ります。単なるお散歩だけでは頭脳の欲求が満たされず、知的刺激がないとストレスから破壊的な行動を起こすことがあります。また、俊敏な走りと急旋回により、関節や靭帯に負担がかかりやすいです。本日、PetSelfではボーダーコリーの知能を刺激し、関節を守るホームケアルーティンをお届けします。",
+        "whyTitle": "ボーダーコリーのボディランゲージ：鋭い視線とエネルギー放出",
+        "whyDesc": "ボーダーコリーには「アイ・コンタクト（The Eye）」と呼ばれる、対象をじっと見つめる本能があります。姿勢を低くして凝視するのは集中状態を表します。口を軽く開けて尻尾を大きく振る時は遊びたいサインです。",
+        "body_signals": [
+          {
+            "name": "姿勢を低くして対象を強く見つめる",
+            "meaning": "動く対象をコントロールしようとする本能的集中状態です。",
+            "response": "危険な追いかけ行動に発展しないよう、すぐに名前を呼んでアイコンタクトを取り、おやつを与えます。"
+          },
+          {
+            "name": "口を開けて尻尾を大きく振る",
+            "meaning": "エネルギーが満ちており、飼い主と遊ぶ準備が整っている合図です。",
+            "response": "単純なボール投げではなく、フリスビーや障害物走などの知的要素を取り入れた遊びを行いましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：命令訓練を組み合わせたインターバルランニング散歩",
+            "text": "走る中で「待て」や「ターン」の指示を混ぜ、頭使わせながらエネルギーを発散させます。"
+          },
+          {
+            "name": "午後：難易度の高い知育パズル玩具でのミッション",
+            "text": "ロックを解除しておやつを探すパズルを与え、知的好奇心を満たして退屈を防ぎます。"
+          },
+          {
+            "name": "夜：激しい運動後の関節マッサージとストレッチ",
+            "text": "太ももや肩など、酷使した筋肉を温めながら優しく揉みほぐし、疲労を取り除きます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "散歩中に自転車やベビーカーを追いかけようとします。",
+            "answer": "牧羊犬の動体追従本能です。追いかける前に対象から注意をそらし、飼い主を見つめさせるアイコンタクトの訓練が必要です。"
+          },
+          {
+            "question": "お散歩は1日何回必要ですか？",
+            "answer": "朝夕の各1時間以上、合計2回を推奨します。単に歩くだけでなく、フリスビー遊びや訓練を必ず交えてください。"
+          }
+        ],
+        "tags": [
+          "ボーダーコリー",
+          "知育玩具",
+          "関節ケア",
+          "しつけ訓練"
+        ]
+      },
+      "zh": {
+        "title": "天才犬边境牧羊犬的智力游戏与关节保护3步骤常规",
+        "description": "学习边牧智力游戏与关节保护家庭常规。",
+        "authority": "英国 Kennel Club (KC) 边境牧羊犬指南及认知研究",
+        "profile": {
+          "breed": "边境牧羊犬 (Border Collie)",
+          "lifespan": "12 ~ 15 年",
+          "sleep_pattern": "10 ~ 12 小时 (高能量活动型)",
+          "temperament": "极其聪明、热情、精力无限"
+        },
+        "intro": "边境牧羊犬是世界上最聪明的犬种。它们急转弯和快速奔跑的风格容易给关节带来负担。今天PetSelf分享激发智力与保护关节 the 家庭常规。",
+        "whyTitle": "边境牧羊犬的身体语言：强烈的眼神聚焦",
+        "whyDesc": "边牧拥有独特的盯着目标的本能，被称为“眼神聚焦”。低伏身体凝视表示高度专注。",
+        "body_signals": [
+          {
+            "name": "低伏身体 & 眼神强烈聚焦",
+            "meaning": "对移动物体产生的本能驱赶动作。",
+            "response": "立即呼唤它们的名字，引导眼神接触并给予零食奖励。"
+          },
+          {
+            "name": "张开嘴巴 & 大力摇尾巴",
+            "meaning": "精力充沛，准备好进行互动或接任务。",
+            "response": "这是进行飞盘或敏捷度训练等益智活动的最佳时机。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：结合指令训练的变速跑散步",
+            "text": "将快速冲刺与指令结合，在散步中同时消耗体力和脑力。"
+          },
+          {
+            "name": "下午：多步骤益智拼图玩具任务",
+            "text": "提供需要滑动、提拉和解锁面板的智力玩具，满足好奇心。"
+          },
+          {
+            "name": "晚上: 舒缓肌肉按摩与关节拉伸",
+            "text": "对大腿、肩膀等肌肉群进行轻柔的热敷与拉伸，缓解关节压力。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么边牧喜欢追车？",
+            "answer": "这是牧羊本能. 在追逐触发前，进行注意力训练非常关键。"
+          },
+          {
+            "question": "它们每天需要多少运动量？",
+            "answer": "建议每天至少进行2个小时的运动，分为早晚两次。"
+          }
+        ],
+        "tags": [
+          "边牧",
+          "智力游戏",
+          "关节护理",
+          "本能纠正"
+        ]
+      },
+      "es": {
+        "title": "Juegos de estimulación cerebral y cuidado de articulaciones para el Border Collie",
+        "description": "Juegos cognitivos y cuidado de articulaciones para el activo Border Collie.",
+        "authority": "Guía de Border Collie del Kennel Club (KC) y estudios de cognición animal",
+        "profile": {
+          "breed": "Border Collie (Border Collie)",
+          "lifespan": "12 ~ 15 años",
+          "sleep_pattern": "10 ~ 12 horas (Alta actividad energética)",
+          "temperament": "Increíblemente inteligente, entusiasta, resistencia infinita"
+        },
+        "intro": "El Border Collie es conocido como el perro más inteligente del mundo. Su estilo de carrera rápida e intensos giros desgastan sus articulaciones. Hoy en PetSelf compartimos una rutina para estimular su cerebro y proteger articulaciones.",
+        "whyTitle": "Lenguaje corporal del Border Collie: Enfoque visual",
+        "whyDesc": "Los Border Collies tienen un instinto único llamado 'el ojo', que consiste en mirar fijamente a objetos.",
+        "body_signals": [
+          {
+            "name": "Cuerpo agachado y mirada fija",
+            "meaning": "Instinto de pastoreo activado por objetos en movimiento.",
+            "response": "Llámalo por su nombre para redirigir su mirada y prémialo."
+          },
+          {
+            "name": "Boca abierta y cola alegre",
+            "meaning": "Energía cargada y listo para jugar o cooperar.",
+            "response": "Es el momento ideal para juegos de agility."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Carrera a intervalos integrada con comandos",
+            "text": "Combina velocidad con comandos durante el paseo para cansar mente y cuerpo."
+          },
+          {
+            "name": "Tarde: Juguetes interactivos de rompecabezas multinivel",
+            "text": "Proporciona rompecabezas donde deba deslizar paneles para obtener premios."
+          },
+          {
+            "name": "Noche: Masaje muscular relajante y estiramiento articular",
+            "text": "Aplica compresas tibias y realiza estiramientos suaves en muslos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué mi Border Collie persigue bicicletas?",
+            "answer": "Instinto de pastoreo. Entrena comando de atención antes del gatillo."
+          },
+          {
+            "question": "¿Cuánto ejercicio diario necesita?",
+            "answer": "Al menos 2 horas de ejercicio diario divididas entre mañana y noche."
+          }
+        ],
+        "tags": [
+          "Border Collie",
+          "Juegos mentales",
+          "Cuidado articular",
+          "Pastoreo"
+        ]
+      },
+      "fr": {
+        "title": "Jeux de stimulation mentale et soin des articulations du Border Collie",
+        "description": "Jeux cognitifs et soin des articulations pour le Border Collie.",
+        "authority": "Guide du Border Collie du Kennel Club (KC) et études cognitives",
+        "profile": {
+          "breed": "Border Collie (Border Collie)",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "10 ~ 12 heures (Haute activité physique)",
+          "temperament": "Incroyablement intelligent, enthousiaste, endurance infinie"
+        },
+        "intro": "Le Border Collie est connu comme le chien le plus intelligent du monde. Leur course rapide et leurs virages serrés sollicitent fortement leurs articulations. Aujourd'hui chez PetSelf, nous présentons une routine pour stimuler leur cerveau.",
+        "whyTitle": "Langage corporel du Border Collie : Regard fixe",
+        "whyDesc": "Les Border Collies ont un instinct unique appelé 'l'œil' – fixer les objets pour les guider.",
+        "body_signals": [
+          {
+            "name": "Corps accroupi et regard fixe",
+            "meaning": "Instinct de troupeau activé par des objets en mouvement.",
+            "response": "Rappelez-le par son nom pour capter son regard et offrez une récompense."
+          },
+          {
+            "name": "Bouche ouverte et queue joyeuse",
+            "meaning": "Plein d'énergie et prêt à s'engager dans un jeu.",
+            "response": "Démarrez des activités stimulantes comme le frisbee ou l'agility."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Course fractionnée intégrée à des ordres",
+            "text": "Associez les sprints à des ordres pendant la promenade."
+          },
+          {
+            "name": "Après-midi : Jeux de réflexion et puzzles",
+            "text": "Proposez-lui des puzzles pour obtenir des friandises."
+          },
+          {
+            "name": "Soir : Massage musculaire doux et étirement des articulations",
+            "text": "Appliquez des compresses tièdes sur les muscles fatigués."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi mon Border Collie poursuit les vélos ?",
+            "answer": "C'est l'instinct de troupeau. Apprenez un ordre de recentrage de l'attention."
+          },
+          {
+            "question": "De combien d'exercice a-t-il besoin ?",
+            "answer": "Au moins 2 heures d'exercice quotidien incluant du travail mental."
+          }
+        ],
+        "tags": [
+          "Border Collie",
+          "Stimulation",
+          "Articulations",
+          "Adestramento"
+        ]
+      },
+      "de": {
+        "title": "Kognitive Spiele und Gelenkpflege für den intelligenten Border Collie",
+        "description": "Spiele zur geistigen Auslastung des Border Collies und Tipps zum Gelenkschutz.",
+        "authority": "Border-Collie-Handbuch des Kennel Club (KC) und Kognitionsstudien",
+        "profile": {
+          "breed": "Border Collie (Border Collie)",
+          "lifespan": "12 ~ 15 Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (Hohes Energielevel)",
+          "temperament": "Erstaunlich intelligent, enthusiastisch, unermüdliche Ausdauer"
+        },
+        "intro": "Der Border Collie ist als klügster Hund der Welt bekannt. Schnelles Rennen und Haken schlagen belasten Bänder. Heute zeigt PetSelf eine Routine für Gehirntraining und Gelenkschutz.",
+        "whyTitle": "Körpersprache des Border Collies: Fixieren",
+        "whyDesc": "Border Collies besitzen das instinktive Verhalten des 'Fixierens' (The Eye) mit den Augen.",
+        "body_signals": [
+          {
+            "name": "Geduckte Haltung und Fixieren",
+            "meaning": "Instinktiver Hütetrieb, ausgelöst durch sich bewegende Objekte.",
+            "response": "Rufen Sie sofort seinen Namen, um Blickkontakt herzustellen, und belohnen Sie ihn."
+          },
+          {
+            "name": "Offenes Maul und Rutenwedeln",
+            "meaning": "Voller Energie und bereit für ein intelligentes Spiel.",
+            "response": "Starten Sie anspruchsvolle Beschäftigungen wie Frisbee oder Agility."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Intervalllauf kombiniert mit Kommandos",
+            "text": "Verbinden Sie Sprints mit Kommandos, um Körper und Geist gleichzeitig zu fordern."
+          },
+          {
+            "name": "Nachmittag: Mehrstufiges Intelligenzspielzeug",
+            "text": "Bieten Sie Denkspiele an, bei denen der Hund hebeln muss, um an Futter zu gelangen."
+          },
+          {
+            "name": "Abend: Muskelmassage und Dehnen nach dem Sport",
+            "text": "Legen Sie warme Kompressen auf die beanspruchte Muskulatur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum jagt mein Border Collie Fahrrädern hinterher?",
+            "answer": "Das liegt am Hütetrieb. Trainieren Sie Aufmerksamkeitssignal vor dem Reiz."
+          },
+          {
+            "question": "Wie viel Bewegung braucht ein Border Collie?",
+            "answer": "Mindestens 2 Stunden täglich inklusive geistiger Kopfarbeit."
+          }
+        ],
+        "tags": [
+          "Border Collie",
+          "Denkspiele",
+          "Gelenkpflege",
+          "Hütetrieb"
+        ]
+      },
+      "pt": {
+        "title": "Jogos cognitivos e cuidados articulares para o inteligente Border Collie",
+        "description": "Jogos mentais e cuidados articulares para o Border Collie.",
+        "authority": "Manual do Border Collie do Kennel Club (KC) e estudos cognitivos",
+        "profile": {
+          "breed": "Border Collie (Border Collie)",
+          "lifespan": "12 ~ 15 anos",
+          "sleep_pattern": "10 ~ 12 horas (Alto nível de atividade)",
+          "temperament": "Surpreendentemente inteligente, entusiasta, energia infinita"
+        },
+        "intro": "O Border Collie é conhecido como o cão mais inteligente do mundo. Corridas rápidas e curvas fechadas sobrecarregam suas articulações. Hoje na PetSelf, trazemos uma rotina de 3 passos.",
+        "whyTitle": "Linguagem corporal del Border Collie: Olhar intenso",
+        "whyDesc": "Os Border Collies têm um comportamento instintivo chamado 'o olhar' (The Eye) com os olhos.",
+        "body_signals": [
+          {
+            "name": "Postura agachada e olhar fixo",
+            "meaning": "Instinto de pastoreio ativado por objetos em movimento.",
+            "response": "Chame-o imediatamente pelo nome para fazer contato visual."
+          },
+          {
+            "name": "Boca aberta e cauda abanando",
+            "meaning": "Energia carregada e pronto para jogo inteligente.",
+            "response": "Inicie atividades desafiadoras como frisbee ou agility."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Corrida intervalada combinada com comandos",
+            "text": "Combine sprints com comandos para desafiar corpo e mente."
+          },
+          {
+            "name": "Tarde: Brinquedos interativos de quebra-cabeça multinível",
+            "text": "Ofereça jogos de inteligência onde o cão deve deslizar peças para encontrar comida."
+          },
+          {
+            "name": "Noite: Massagem muscular e alongamento articular",
+            "text": "Aplique compressas mornas na musculatura usada e faça alongamentos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que meu Border Collie persegue bicicletas?",
+            "answer": "Forte instinto de pastoreio. Treine um sinal de atenção para redirecionar o olhar."
+          },
+          {
+            "question": "Quanto exercício um Border Collie precisa por dia?",
+            "answer": "Pelo menos 2 horas de exercício diário, dividido entre manhã e noite."
+          }
+        ],
+        "tags": [
+          "Border Collie",
+          "Jogos de inteligência",
+          "Articulações",
+          "Adestramento"
+        ]
+      },
+      "id": {
+        "title": "Permainan Stimulasi Kognitif and Rutinitas Perawatan Sendi Border Collie",
+        "description": "Latih otak Border Collie dengan permainan cerdas dan lindungi sendi mereka dari aktivitas berat.",
+        "authority": "Panduan Border Collie Kennel Club (KC) Inggris & Penelitian Kognisi Hewan",
+        "profile": {
+          "breed": "Border Collie",
+          "lifespan": "12 ~ 15 tahun",
+          "sleep_pattern": "10 ~ 12 jam (Aktivitas energi tinggi)",
+          "temperament": "Sangat cerdas, antusias, stamina tanpa batas"
+        },
+        "intro": "Border Collie adalah anjing paling cerdas di dunia dengan stamina luar biasa. Jalan-jalan biasa tidak cukup bagi mereka; tanpa stimulasi kognitif, mereka bisa stres dan merusak barang. Lari cepat dan belokan tajam juga rawan mencederai sendi mereka. Hari ini PetSelf membagikan tips stimulasi otak dan perlindungan sendi Border Collie.",
+        "whyTitle": "Bahasa Tubuh Border Collie: Tatapan Tajam",
+        "whyDesc": "Border Collie memiliki tatapan 'Eye Contact' khas untuk menggiring objek. Merunduk and menatap tajam menunjukkan konsentrasi penuh menggiring. Mulut terbuka and ekor berputar lebar menandakan kesiapan bermain.",
+        "body_signals": [
+          {
+            "name": "Tubuh merunduk and menatap tajam ke objek",
+            "meaning": "Insting menggiring objek bergerak dengan konsentrasi tinggi.",
+            "response": "Panggil nama anjing untuk mengalihkan pandangan ke pemilik and berikan pujian."
+          },
+          {
+            "name": "Mulut terbuka dengan ekor berayun lebar",
+            "meaning": "Energi penuh and siap melakukan permainan fisik/otak.",
+            "response": "Waktu terbaik untuk memulai frisbee atau latihan ketangkasan (agility)."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Lari pagi dikombinasikan dengan latihan kepatuhan",
+            "text": "Berikan perintah seperti 'tunggu' atau 'putar' di sela-sela lari agar mereka menggunakan otak."
+          },
+          {
+            "name": "Siang: Mainan teka-teki interaktif (Brain Games)",
+            "text": "Sediakan mainan puzzle multi-level yang membutuhkan trik untuk mengeluarkan makanan."
+          },
+          {
+            "name": "Malam: Pijat lembut dan peregangan sendi pasca aktivitas",
+            "text": "Pijat lembut area paha and bahu untuk melemaskan otot setelah aktivitas fisik yang intens."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa Border Collie saya suka mengejar sepeda atau kereta bayi?",
+            "answer": "Itu adalah insting menggiring yang kuat. Latih fokus kontak mata sebelum mereka terpicu mengejar objek."
+          },
+          {
+            "question": "Berapa lama mereka harus berjalan setiap hari?",
+            "answer": "Minimal 2 hours sehari dibagi menjadi pagi and sore, dikombinasikan dengan latihan kepatuhan."
+          }
+        ],
+        "tags": [
+          "Border Collie",
+          "Mainan otak",
+          "Sendi",
+          "Agility"
+        ]
+      },
+      "ko": {
+        "title": "천재견 보더콜리를 위한 두뇌 자극 퍼즐 놀이와 관절 건강 홈케어 루틴",
+        "description": "견종 지능 순위 1위 보더콜리. 넘치는 에너지를 충족시키는 인지 놀이법과 격렬한 활동으로 지치기 쉬운 관절을 보호하는 홈케어를 배웁니다.",
+        "authority": "영국 켄넬 클럽(KC) 보더콜리 가이드 및 동물 행동 인지 연구 자료",
+        "profile": {
+          "breed": "보더콜리 (Border Collie)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "10 ~ 12시간 (고에너지 활동형)",
+          "temperament": "경이로울 정도로 영리함, 열정적, 지치지 않는 체력"
+        },
+        "intro": "보더콜리는 세계에서 가장 똑똑한 견종으로 알려져 있으며, 목양견 출신답게 끝없는 체력과 엄청난 업무 수행 능력을 자랑합니다. 보더콜리는 단순히 뛰어노는 산책만으로는 지능적 욕구가 충족되지 않아, 머리를 쓰는 인지 자극이 없으면 스트레스로 인한 파괴적인 행동을 보일 수 있습니다. 🐕 또한 빠른 방향 전환과 폭발적인 달리기 스타일로 인해 관절과 인대에 무리가 가기 쉽습니다. 오늘 PetSelf에서는 천재견의 지능을 자극하고 관절 건강을 지키는 3단계 홈케어 루틴을 전해드립니다.",
+        "whyTitle": "보더콜리의 바디 랭귀지: 눈빛 집중과 에너지 표출",
+        "whyDesc": "보더콜리는 사물을 강하게 응시하는 '아이 컴택트(Eye Contact)' 본능이 있습니다. 사물이나 동물을 뚫어지게 응시하며 자세를 낮추는 것은 목양 본능에 따른 극도의 집중 상태를 뜻합니다. 반면 입을 살짝 벌리고 꼬리를 헬리콥터처럼 크게 흔들 때는 에너지를 방출하며 보호자와 소통하고 싶어 하는 놀이 요청 신호입니다.",
+        "body_signals": [
+          {
+            "name": "자세를 낮추고 대상을 강하게 응시함",
+            "meaning": "사물이나 움직이는 대상을 몰이하려는 본능적 몰입 상태입니다.",
+            "response": "이러한 본능이 위험 행동으로 이어지지 않도록 즉시 이름을 불러 보호자에게 집중하게 하고 보상해야 합니다."
+          },
+          {
+            "name": "입을 벌리고 꼬리를 크게 흔듦",
+            "meaning": "신체 및 두뇌 에너지가 충만한 상태에서 즐겁게 놀이를 시작할 준비가 되었다는 신호입니다.",
+            "response": "단순한 공놀이보다는 원반던지기나 어질리티 게임 등 지능적 활동을 시작하기 좋은 타이밍입니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 규칙적인 신체 단련과 인지 훈련을 결합한 러닝 산책",
+            "text": "산책 중 '기다려', '돌아' 등의 명령어를 섞어 머리를 쓰며 달리게 해 에너지를 해소시킵니다."
+          },
+          {
+            "name": "오후: 두뇌 자극을 위한 다단계 퍼즐 토이(Brain Games)",
+            "text": "서로 다른 잠금장치를 해제해야 간식이 나오는 2단계 이상의 지능형 장난감을 제공하여 인지 능력을 충족시킵니다."
+          },
+          {
+            "name": "저녁: 고강도 활동 후 피로한 관절 마사지와 스트레칭",
+            "text": "허벅지와 어깨 등 많이 사용한 대근육 위주로 부드러운 온열 마사지를 해주어 관절 주변의 피로를 풀어줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "보더콜리가 산책할 때 자전거나 유모차를 쫓아가려고 해요.",
+            "answer": "보더콜리의 강한 목양 본능 때문입니다. 쫓아갈 대상을 발견하기 전에 미리 이름을 불러 눈을 맞추는 '아이컨택' 훈련을 통해 행동을 제어해야 합니다."
+          },
+          {
+            "question": "하루에 몇 번 산책을 시켜야 하나요?",
+            "answer": "최소 아침저녁으로 각 1시간씩 총 2회 이상 산책을 추천합니다. 신체적 운동 외에도 중간중간 훈련이나 장난감 놀이를 병행하는 것이 좋습니다."
+          }
+        ],
+        "tags": [
+          "보더콜리",
+          "지능형 놀이",
+          "관절 홈케어",
+          "목양 본능 교정"
+        ]
+      }
+    }
   }
 }
