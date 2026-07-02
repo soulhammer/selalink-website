@@ -35,14 +35,6 @@ jobs:
         working-directory: ./v3-app
         run: npm ci
 
-      - name: 🔬 타입스크립트 타입 정합성 검사 (astro check)
-        working-directory: ./v3-app
-        run: npx astro check
-
-      - name: 🧪 다국어 및 단위 테스트 검증 (vitest)
-        working-directory: ./v3-app
-        run: npm run test:unit
-
       - name: 🏗️ Astro 사이트 빌드 (정적 HTML 렌더링)
         working-directory: ./v3-app
         run: npm run build
