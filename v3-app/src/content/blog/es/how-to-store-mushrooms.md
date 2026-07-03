@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Champiñón fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Champiñón según las directrices oficiales de seguridad."
 pubDate: "2026-02-23"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Champiñón","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
 ---
 
-¿Lava los champiñones con agua antes de cocinarlos? Este hábito daña su sabor y textura, y acelera su descomposición. Hoy, StoreSelf comparte trucos de conservación y limpieza.
+¿Lava los champiñones con agua antes de cocinarlos? Este hábito daña su sabor y textura, y acelera su descomposición. Hoy, FreshSnap comparte trucos de conservación y limpieza.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -23,7 +23,7 @@ const latinLanguages = ['deu', 'eng', 'spa', 'fra', 'por', 'ita', 'lat', 'ind', 
 
 // 공통 화이트리스트 단어군 (번역 제외하고 그대로 노출되어야 하는 약어, 인명, 브랜드명 등)
 const globalWhitelist = [
-  'BuildSelf', 'StoreSelf', 'FreshSelf', 'LogSelf',
+  'BuildSelf', 'FreshSnap', 'FreshSelf', 'LogSelf',
   'MFDS', 'USDA', 'RDA', 'FDA', 'CDC', 'FSA', 'EFSA', 'KCA', 'NIFS',
   'NEJM', 'JPSP', 'JN', 'JPTS', 'APA',
   'Cognition and Emotion', 'Beethoven as I Knew Him', 'The Second World War',
@@ -423,14 +423,14 @@ describe('UI 번역 사전(ui.ts) 구조 및 정합성 검증', () => {
 });
 
 // ========================================================
-// 검증 3.5: 스토어셀프(StoreSelf) 번역 사전 구조 및 정합성 검증
+// 검증 3.5: 프레시스냅(FreshSnap) 번역 사전 구조 및 정합성 검증
 // ========================================================
-describe('StoreSelf 번역 사전 구조 및 정합성 검증', () => {
-  const storeselfDir = path.join(__dirname, '../src/i18n/locales/storeself');
+describe('FreshSnap 번역 사전 구조 및 정합성 검증', () => {
+  const freshsnapDir = path.join(__dirname, '../src/i18n/locales/freshsnap');
   const locales = ['en', 'ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'];
 
-  const getStoreSelfKeys = (locale: string) => {
-    const filePath = path.join(storeselfDir, `${locale}.json`);
+  const getFreshSnapKeys = (locale: string) => {
+    const filePath = path.join(freshsnapDir, `${locale}.json`);
     const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
     const keys: string[] = [];
     const flatten = (obj: any, prefix = '') => {
@@ -452,31 +452,31 @@ describe('StoreSelf 번역 사전 구조 및 정합성 검증', () => {
   };
 
   const defaultLocale = 'en';
-  const { keys: defaultKeys } = getStoreSelfKeys(defaultLocale);
+  const { keys: defaultKeys } = getFreshSnapKeys(defaultLocale);
 
   locales.forEach((locale) => {
     if (locale === defaultLocale) return;
 
-    it(`[${locale.toUpperCase()}] StoreSelf 번역 키 리스트가 기본 언어(${defaultLocale})와 완전히 일치해야 한다`, () => {
-      const { keys: localeKeys } = getStoreSelfKeys(locale);
+    it(`[${locale.toUpperCase()}] FreshSnap 번역 키 리스트가 기본 언어(${defaultLocale})와 완전히 일치해야 한다`, () => {
+      const { keys: localeKeys } = getFreshSnapKeys(locale);
 
       // 1. 누락된 번역 키 검출
       defaultKeys.forEach(key => {
-        expect(localeKeys, `오류: StoreSelf ui.${locale} 사전에 번역 키 "${key}"가 누락되었습니다.`).toContain(key);
+        expect(localeKeys, `오류: FreshSnap ui.${locale} 사전에 번역 키 "${key}"가 누락되었습니다.`).toContain(key);
       });
 
       // 2. 미사용/잘못 정의된 번역 키 검출
       localeKeys.forEach(key => {
-        expect(defaultKeys, `오류: StoreSelf ui.${locale} 사전에 기본 언어(${defaultLocale})에 없는 잘못된 키 "${key}"가 정의되어 있습니다.`).toContain(key);
+        expect(defaultKeys, `오류: FreshSnap ui.${locale} 사전에 기본 언어(${defaultLocale})에 없는 잘못된 키 "${key}"가 정의되어 있습니다.`).toContain(key);
       });
     });
 
     if (locale !== 'ko') {
-      it(`[${locale.toUpperCase()}] StoreSelf 번역 사전(locales/storeself/${locale}.json)에 한글(번역 누출)이 포함되어 있지 않아야 한다`, () => {
-        const filePath = path.join(storeselfDir, `${locale}.json`);
+      it(`[${locale.toUpperCase()}] FreshSnap 번역 사전(locales/freshsnap/${locale}.json)에 한글(번역 누출)이 포함되어 있지 않아야 한다`, () => {
+        const filePath = path.join(freshsnapDir, `${locale}.json`);
         const rawContent = fs.readFileSync(filePath, 'utf-8');
         const hasKorean = /[\uAC00-\uD7A3\u3130-\u318F]/g.test(rawContent);
-        expect(hasKorean, `오류: StoreSelf [${locale}] 사전에 번역되지 않은 한글이 포함되어 있습니다.`).toBe(false);
+        expect(hasKorean, `오류: FreshSnap [${locale}] 사전에 번역되지 않은 한글이 포함되어 있습니다.`).toBe(false);
       });
     }
   });

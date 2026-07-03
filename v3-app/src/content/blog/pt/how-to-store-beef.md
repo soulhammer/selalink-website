@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Carne bovina fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Carne bovina com base nas diretrizes oficiais de segurança."
 pubDate: "2026-03-28"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Carne bovina","Guia de armazenamento comprovado cientificamente","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Thaw it slowly in the refrigerator overnight. Avoid thawing at room temperature or in hot water, as it promotes rapid bacterial growth."
 ---
 
-Você já deixou carne bovina vermelha na geladeira e em dois dias ela ficou cinza-escura e com cheiro azedo? Hoje, o StoreSelf compartilha técnicas para evitar a oxidação e manter o frescor.
+Você já deixou carne bovina vermelha na geladeira e em dois dias ela ficou cinza-escura e com cheiro azedo? Hoje, o FreshSnap compartilha técnicas para evitar a oxidação e manter o frescor.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Perillaöl frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Perillaöl basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-06-03"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Perillaöl","Wissenschaftlich geprüfter Lagerungsratgeber","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
 ---
 
-Lagern Sie Perillaöl im Küchenschrank oder der Vorratskammer wie Oliven- oder Sesamöl? Perillaöl enthält über 60 % Omega-3-Fettsäuren, weshalb es bei Raumtemperatur extrem schnell oxidiert. Heute teilt StoreSelf Tipps zur Kühllagerung.
+Lagern Sie Perillaöl im Küchenschrank oder der Vorratskammer wie Oliven- oder Sesamöl? Perillaöl enthält über 60 % Omega-3-Fettsäuren, weshalb es bei Raumtemperatur extrem schnell oxidiert. Heute teilt FreshSnap Tipps zur Kühllagerung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

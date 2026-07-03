@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存豆腐：科学储存指南"
 description: "根据官方食品安全指南，了解豆腐的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-04-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["豆腐","科学验证的储存指南","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "会的。豆腐冷冻后水分会形成冰晶，使豆腐内部形成布满微孔的蜂窝状结构。这种冻豆腐能极好地吸收汤汁和调料。"
 ---
 
-保存吃剩的半块豆腐时，您是否把包装盒里的原水一起倒进了保鲜盒？原水其实是细菌滋生最快的地方。今天，StoreSelf为您分享让豆腐安全保鲜7天以上的科学储存法。
+保存吃剩的半块豆腐时，您是否把包装盒里的原水一起倒进了保鲜盒？原水其实是细菌滋生最快的地方。今天，FreshSnap为您分享让豆腐安全保鲜7天以上的科学储存法。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

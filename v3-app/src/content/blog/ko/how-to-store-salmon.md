@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "연어 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 연어의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-05-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["연어","과학적으로 검증된 보관 가이드","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "물기를 키친타월로 철저히 제거하고 표면에 식용유나 올리브 오일을 얇게 바른 뒤 밀착 랩핑해 얼리면 냉동실 성에와 건조 현상(프리저 번)을 예방할 수 있습니다."
 ---
 
-선홍빛 아름다운 연어를 사 와서 보관했는데 다음 날 칙칙한 주황색으로 변해 찝찝하셨나요? 오늘 StoreSelf에서는 미국 식품의약국(FDA) 가이드를 바탕으로 비린내를 잡고 신선도를 지키는 연어 보관법을 알려드립니다.
+선홍빛 아름다운 연어를 사 와서 보관했는데 다음 날 칙칙한 주황색으로 변해 찝찝하셨나요? 오늘 FreshSnap에서는 미국 식품의약국(FDA) 가이드를 바탕으로 비린내를 잡고 신선도를 지키는 연어 보관법을 알려드립니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Calamar frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Calamar selon les directives de sécurité officielles."
 pubDate: "2026-05-08"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Calamar","Guide de conservation scientifiquement prouvé","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
 ---
 
-Avez-vous mis du calamar frais au frigo pour retrouver une odeur de marée et une chair gâtée ? Les viscères pourrissent en premier, le vider et le congeler est capital. Aujourd'hui, StoreSelf vous montre comment faire.
+Avez-vous mis du calamar frais au frigo pour retrouver une odeur de marée et une chair gâtée ? Les viscères pourrissent en premier, le vider et le congeler est capital. Aujourd'hui, FreshSnap vous montre comment faire.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

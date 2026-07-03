@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "오징어 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 오징어의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-05-08"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["오징어","과학적으로 검증된 보관 가이드","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "오징어는 냉장실에서 서서히 해동하는 것이 수분 손실을 막아 질겨지는 것을 방지합니다. 해동 시 약간의 청주나 미림을 뿌려두면 해산물 특유의 잡내를 확실히 잡을 수 있습니다."
 ---
 
-오징어를 냉동실에 얼려두었는데 다른 냉동식품에서 꿉꿉한 냄새가 난 경험 있으시죠? 오늘 StoreSelf에서는 국립수산과학원의 수산물 신선 가이드를 기초로 냄새 배임 없는 오징어 보관법을 소개합니다.
+오징어를 냉동실에 얼려두었는데 다른 냉동식품에서 꿉꿉한 냄새가 난 경험 있으시죠? 오늘 FreshSnap에서는 국립수산과학원의 수산물 신선 가이드를 기초로 냄새 배임 없는 오징어 보관법을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

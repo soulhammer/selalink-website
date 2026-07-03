@@ -1,14 +1,14 @@
-// StoreSelf App 전용 다국어 번역 사전
+// FreshSnap App 전용 다국어 번역 사전
 
-import koData from './locales/storeself/ko.json' with { type: 'json' };
-import enData from './locales/storeself/en.json' with { type: 'json' };
-import jaData from './locales/storeself/ja.json' with { type: 'json' };
-import zhData from './locales/storeself/zh.json' with { type: 'json' };
-import esData from './locales/storeself/es.json' with { type: 'json' };
-import frData from './locales/storeself/fr.json' with { type: 'json' };
-import deData from './locales/storeself/de.json' with { type: 'json' };
-import ptData from './locales/storeself/pt.json' with { type: 'json' };
-import idData from './locales/storeself/id.json' with { type: 'json' };
+import koData from './locales/freshsnap/ko.json' with { type: 'json' };
+import enData from './locales/freshsnap/en.json' with { type: 'json' };
+import jaData from './locales/freshsnap/ja.json' with { type: 'json' };
+import zhData from './locales/freshsnap/zh.json' with { type: 'json' };
+import esData from './locales/freshsnap/es.json' with { type: 'json' };
+import frData from './locales/freshsnap/fr.json' with { type: 'json' };
+import deData from './locales/freshsnap/de.json' with { type: 'json' };
+import ptData from './locales/freshsnap/pt.json' with { type: 'json' };
+import idData from './locales/freshsnap/id.json' with { type: 'json' };
 
 const dataMap: Record<string, any> = {
   ko: koData,

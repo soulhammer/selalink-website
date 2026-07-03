@@ -1,6 +1,6 @@
-// StoreSelf Index Page Client-side script
-import { initRefrigeratorView } from './storeself/refrigerator';
-import { filterIngredients } from './storeself/filter';
+// FreshSnap Index Page Client-side script
+import { initRefrigeratorView } from './freshsnap/refrigerator';
+import { filterIngredients } from './freshsnap/filter';
 
 // Client-side search and filtering logic
 const searchInput = document.getElementById('searchInput') as HTMLInputElement;
@@ -137,19 +137,19 @@ document.addEventListener('click', (e) => {
 
 // sessionStorage 상태 저장 헬퍼
 const saveState = () => {
-  sessionStorage.setItem('storeself_activeCategory', activeCategory);
-  sessionStorage.setItem('storeself_searchQuery', searchQuery);
-  sessionStorage.setItem('storeself_activeMethod', activeMethod);
-  sessionStorage.setItem('storeself_activeLayout', activeLayout);
-  sessionStorage.setItem('storeself_scrollPosition', String(window.scrollY));
+  sessionStorage.setItem('freshsnap_activeCategory', activeCategory);
+  sessionStorage.setItem('freshsnap_searchQuery', searchQuery);
+  sessionStorage.setItem('freshsnap_activeMethod', activeMethod);
+  sessionStorage.setItem('freshsnap_activeLayout', activeLayout);
+  sessionStorage.setItem('freshsnap_scrollPosition', String(window.scrollY));
 };
 
 // sessionStorage 상태 복원 헬퍼
 const restoreState = () => {
-  const savedCategory = sessionStorage.getItem('storeself_activeCategory');
-  const savedSearchQuery = sessionStorage.getItem('storeself_searchQuery');
-  const savedMethod = sessionStorage.getItem('storeself_activeMethod');
-  const savedLayout = sessionStorage.getItem('storeself_activeLayout');
+  const savedCategory = sessionStorage.getItem('freshsnap_activeCategory');
+  const savedSearchQuery = sessionStorage.getItem('freshsnap_searchQuery');
+  const savedMethod = sessionStorage.getItem('freshsnap_activeMethod');
+  const savedLayout = sessionStorage.getItem('freshsnap_activeLayout');
 
   if (savedCategory !== null) activeCategory = savedCategory;
   if (savedSearchQuery !== null) searchQuery = savedSearchQuery;
@@ -205,7 +205,7 @@ const restoreState = () => {
 
   dispatchFilter();
 
-  const savedScroll = sessionStorage.getItem('storeself_scrollPosition');
+  const savedScroll = sessionStorage.getItem('freshsnap_scrollPosition');
   if (savedScroll !== null) {
     const targetScroll = parseInt(savedScroll, 10);
     if (targetScroll > 0) {
@@ -214,7 +214,7 @@ const restoreState = () => {
           top: targetScroll,
           behavior: 'instant'
         });
-        sessionStorage.removeItem('storeself_scrollPosition');
+        sessionStorage.removeItem('freshsnap_scrollPosition');
       }, 100);
     }
   }
@@ -228,7 +228,7 @@ let scrollTimeout: any;
 window.addEventListener('scroll', () => {
   clearTimeout(scrollTimeout);
   scrollTimeout = setTimeout(() => {
-    sessionStorage.setItem('storeself_scrollPosition', String(window.scrollY));
+    sessionStorage.setItem('freshsnap_scrollPosition', String(window.scrollY));
   }, 100);
 });
 

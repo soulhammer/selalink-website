@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Nuts Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Nuts based on official safety guidelines."
 pubDate: "2026-06-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Nuts","Scientifically Proven Storage Guide","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
 ---
 
-Do you leave healthy nuts out on the dining table in clear containers? Nuts are rich in unsaturated fatty acids, making them oxidize quickly when exposed to air and light, creating rancid odors and toxins. Today, StoreSelf shares safe nut preservation guides.
+Do you leave healthy nuts out on the dining table in clear containers? Nuts are rich in unsaturated fatty acids, making them oxidize quickly when exposed to air and light, creating rancid odors and toxins. Today, FreshSnap shares safe nut preservation guides.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

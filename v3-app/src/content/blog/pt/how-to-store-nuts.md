@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Nozes fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Nozes com base nas diretrizes oficiais de segurança."
 pubDate: "2026-06-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Nozes","Guia de armazenamento comprovado cientificamente","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
 ---
 
-Você deixa as oleaginosas na mesa em potes transparentes? Elas têm muita gordura boa, por isso oxidam rápido com ar e luz, criando mau cheiro e toxinas. Hoje, o StoreSelf compartilha orientações corretas.
+Você deixa as oleaginosas na mesa em potes transparentes? Elas têm muita gordura boa, por isso oxidam rápido com ar e luz, criando mau cheiro e toxinas. Hoje, o FreshSnap compartilha orientações corretas.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

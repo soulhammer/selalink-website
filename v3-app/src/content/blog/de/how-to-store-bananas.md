@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Banane frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Banane basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-03-05"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Banane","Wissenschaftlich geprüfter Lagerungsratgeber","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
 ---
 
-Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie an einem Tag von Fruchtfliegen umschwärmt wurden und schwarz wurden? Heute teilt StoreSelf Tipps, wie sie auch ohne Bananenständer 10 Tage frisch bleiben.
+Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie an einem Tag von Fruchtfliegen umschwärmt wurden und schwarz wurden? Heute teilt FreshSnap Tipps, wie sie auch ohne Bananenständer 10 Tage frisch bleiben.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

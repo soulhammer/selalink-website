@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Espinafre fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Espinafre com base nas diretrizes oficiais de segurança."
 pubDate: "2026-02-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Espinafre","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
 ---
 
-Você comprou espinafre, deixou no saco plástico e jogou fora em dois dias porque as folhas apodreceram? Hoy, o StoreSelf ensina como controlar a umidade para manter fresco por uma semana.
+Você comprou espinafre, deixou no saco plástico e jogou fora em dois dias porque as folhas apodreceram? Hoy, o FreshSnap ensina como controlar a umidade para manter fresco por uma semana.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

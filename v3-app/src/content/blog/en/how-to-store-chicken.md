@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Chicken Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Chicken based on official safety guidelines."
 pubDate: "2026-04-06"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Chicken","Scientifically Proven Storage Guide","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Poultry has high moisture content and a delicate protein structure, making it highly susceptible to rapid bacterial growth. Keep chilled only for 2 days."
 ---
 
-Washing raw chicken can spread dangerous food poisoning bacteria all over your kitchen. Today, StoreSelf shares CDC-approved safe poultry handling and storage hacks.
+Washing raw chicken can spread dangerous food poisoning bacteria all over your kitchen. Today, FreshSnap shares CDC-approved safe poultry handling and storage hacks.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

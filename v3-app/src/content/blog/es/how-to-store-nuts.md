@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Frutos secos fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Frutos secos según las directrices oficiales de seguridad."
 pubDate: "2026-06-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Frutos secos","Guía de almacenamiento científicamente probada","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
 ---
 
-¿Deja los frutos secos en la mesa en frascos transparentes? Tienen muchas grasas insaturadas, por lo que se oxidan rápido al aire y luz, creando mal olor y toxinas. Hoy, StoreSelf comparte pautas de conservación.
+¿Deja los frutos secos en la mesa en frascos transparentes? Tienen muchas grasas insaturadas, por lo que se oxidan rápido al aire y luz, creando mal olor y toxinas. Hoy, FreshSnap comparte pautas de conservación.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存坚果：科学储存指南"
 description: "根据官方食品安全指南，了解坚果的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-06-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["坚果","科学验证的储存指南","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "不好。坚果的脂肪对热量、氧气 and 湿度非常敏感，暴露在室温下会迅速变质。必须密封在保鲜袋中放进冰箱冷藏，长期保存需冷冻。"
 ---
 
-为了每天食用，您是否将健康的坚果随手装在透明罐子里放在餐桌上？坚果富含不饱和脂肪酸，暴露在空气和光线下会迅速氧化，产生油哈味甚至产生毒性物质。今天，StoreSelf为您分享科学的坚果储存指南。
+为了每天食用，您是否将健康的坚果随手装在透明罐子里放在餐桌上？坚果富含不饱和脂肪酸，暴露在空气和光线下会迅速氧化，产生油哈味甚至产生毒性物质。今天，FreshSnap为您分享科学的坚果储存指南。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

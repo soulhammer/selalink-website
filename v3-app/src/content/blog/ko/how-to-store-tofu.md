@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "두부 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 두부의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-04-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["두부","과학적으로 검증된 보관 가이드","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "네, 두부를 얼리면 수분이 얼음 결정으로 변하면서 두부 내부에 미세한 구멍이 가득 뚫린 스펀지 구조가 됩니다. 이 상태는 양념 소스를 훨씬 잘 흡수하게 됩니다."
 ---
 
-두부 한 모를 사서 반 모만 쓰고 남았을 때, 기존 팩 안의 충전수에 담아 그대로 보관하셨나요? 오늘 StoreSelf에서는 메이요 클리닉(Mayo Clinic)의 위생 관리 기준에 기반한 촉촉하고 안전한 두부 보관 비법을 알려드립니다.
+두부 한 모를 사서 반 모만 쓰고 남았을 때, 기존 팩 안의 충전수에 담아 그대로 보관하셨나요? 오늘 FreshSnap에서는 메이요 클리닉(Mayo Clinic)의 위생 관리 기준에 기반한 촉촉하고 안전한 두부 보관 비법을 알려드립니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

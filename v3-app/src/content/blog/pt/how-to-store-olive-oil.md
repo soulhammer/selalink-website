@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Óleo de cozinha / Azeite fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Óleo de cozinha / Azeite com base nas diretrizes oficiais de segurança."
 pubDate: "2026-05-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Óleo de cozinha / Azeite","Guia de armazenamento comprovado cientificamente","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
 ---
 
-Você guardou o azeite na geladeira para conservar por mais tempo? Refrigerar faz o azeite solidificar em cristais brancos, destruindo o aroma e nutrientes. Hoje, o StoreSelf compartilha técnicas de temperatura ambiente.
+Você guardou o azeite na geladeira para conservar por mais tempo? Refrigerar faz o azeite solidificar em cristais brancos, destruindo o aroma e nutrientes. Hoje, o FreshSnap compartilha técnicas de temperatura ambiente.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

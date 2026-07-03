@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Bayam agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Bayam berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-02-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Bayam","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
 ---
 
-Pernahkah Anda membeli seikat bayam, menyimpannya di kantong plastik, lalu membuangnya dalam dua hari karena daunnya membusuk? Hari ini, StoreSelf membagikan tips penyimpanan bayam.
+Pernahkah Anda membeli seikat bayam, menyimpannya di kantong plastik, lalu membuangnya dalam dua hari karena daunnya membusuk? Hari ini, FreshSnap membagikan tips penyimpanan bayam.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

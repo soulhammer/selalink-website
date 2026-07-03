@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "계란 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 계란의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-04-15"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["계란","과학적으로 검증된 보관 가이드","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:

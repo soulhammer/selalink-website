@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "アボカドの鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくアボカドの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-02-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["アボカド","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "カットして残ったアボカドは、種を残したまま断面にレモン汁やオリーブオイルを薄く塗り、密閉容器に入れて冷蔵すると変色を最小限に抑えられます。"
 ---
 
-未熟なアボカドをうっかり冷蔵庫に入れて、中が黒く傷んでしまった経験はありませんか？本日、StoreSelfではカリフォルニア・アボカド委員会（CAC）と米国農務省（USDA）のガイドラインに基づき、アボカドの追熟のタイミングと完璧な保存方法をご紹介します。
+未熟なアボカドをうっかり冷蔵庫に入れて、中が黒く傷んでしまった経験はありませんか？本日、FreshSnapではカリフォルニア・アボカド委員会（CAC）と米国農務省（USDA）のガイドラインに基づき、アボカドの追熟のタイミングと完璧な保存方法をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Patata fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Patata según las directrices oficiales de seguridad."
 pubDate: "2026-01-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Patata","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Cold temperatures below 4°C convert potato starch into sugar. When cooked at high heat, this sugar reacts to form acrylamide, a potential carcinogen."
 ---
 
-¿Guardó las papas en el cajón de verduras del refrigerador? Las temperaturas frías por debajo de 4 °C hacen que generen acrilamida, un carcinógeno. Hoy, StoreSelf comparte trucos saludables.
+¿Guardó las papas en el cajón de verduras del refrigerador? Las temperaturas frías por debajo de 4 °C hacen que generen acrilamida, un carcinógeno. Hoy, FreshSnap comparte trucos saludables.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

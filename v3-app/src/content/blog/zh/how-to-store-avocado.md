@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存牛油果：科学储存指南"
 description: "根据官方食品安全指南，了解牛油果的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-02-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["牛油果","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "保留果核，在切面上薄薄地涂一层柠檬汁或橄榄油，放入密封容器中冷藏，可以最大程度地减少氧化变色。"
 ---
 
-您是否曾不小心将未熟的牛油果放入冰箱，结果导致其口感变差甚至烂掉？今天，StoreSelf为您带来基于加州牛油果委员会(CAC)和美国农务部(USDA)指南的牛油果熟化与保鲜秘诀。
+您是否曾不小心将未熟的牛油果放入冰箱，结果导致其口感变差甚至烂掉？今天，FreshSnap为您带来基于加州牛油果委员会(CAC)和美国农务部(USDA)指南的牛油果熟化与保鲜秘诀。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

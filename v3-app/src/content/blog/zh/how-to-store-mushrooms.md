@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存蘑菇：科学储存指南"
 description: "根据官方食品安全指南，了解蘑菇的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-02-23"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["蘑菇","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "不能。表面发黏、有酸味或异味表明已经发生变质，为了预防食物中毒，必须立即全部扔掉。"
 ---
 
-您在做菜前会用水清洗蘑菇吗？这个常见的习惯不仅会破坏蘑菇特有的风味与口感，还会使其变质腐烂的速度加快数倍。今天，StoreSelf为您分享专业的蘑菇保鲜与清洁窍门。
+您在做菜前会用水清洗蘑菇吗？这个常见的习惯不仅会破坏蘑菇特有的风味与口感，还会使其变质腐烂的速度加快数倍。今天，FreshSnap为您分享专业的蘑菇保鲜与清洁窍门。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -12,8 +12,8 @@ const { title, description, pubDate, heroImage, app } = post.data;
 
 // 앱에 따른 대표 배지/색상 구성 (라이트/다크 양방향 지원)
 const appTags = {
-  storeself: { 
-    name: 'StoreSelf', 
+  freshsnap: { 
+    name: 'FreshSnap', 
     style: 'bg-emerald-50 text-emerald-700 border-emerald-200 dark:bg-emerald-500/10 dark:text-emerald-400 dark:border-emerald-500/20',
     hoverText: 'group-hover:text-emerald-600 dark:group-hover:text-emerald-400'
   },
@@ -47,7 +47,7 @@ const appTags = {
 const activeTag = appTags[app] || appTags.general;
 
 // 앱 테마에 어울리는 글로우 스타일 변수 주입
-const styleVars = app === 'storeself'
+const styleVars = app === 'freshsnap'
   ? '--theme-color-light: rgba(16, 185, 129, 0.05); --theme-color-border-hover: rgba(16, 185, 129, 0.3); --theme-color-glow: rgba(16, 185, 129, 0.15);'
   : app === 'freshself'
   ? '--theme-color-light: rgba(139, 92, 246, 0.05); --theme-color-border-hover: rgba(139, 92, 246, 0.3); --theme-color-glow: rgba(139, 92, 246, 0.15);'

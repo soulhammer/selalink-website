@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "ほうれん草の鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくほうれん草の最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-02-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["ほうれん草","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & EFSA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "ほうれん草は横にしておくと、起き上がろうとして栄養分を消耗し、すぐに葉が黄色くなります。ネギのように立てて縦に保存するのが望ましいです。"
 ---
 
-ほうれん草を買ってきてビニール袋に入れたまま野菜室に置いておき、数日で葉が溶けて腐ってしまった経験はありませんか？本日、StoreSelfではネギなどの野菜と同様に、水分をコントロールして1週間以上新鮮に保つコツをご紹介します。
+ほうれん草を買ってきてビニール袋に入れたまま野菜室に置いておき、数日で葉が溶けて腐ってしまった経験はありませんか？本日、FreshSnapではネギなどの野菜と同様に、水分をコントロールして1週間以上新鮮に保つコツをご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

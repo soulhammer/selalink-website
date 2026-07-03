@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Perilla Oil Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Perilla Oil based on official safety guidelines."
 pubDate: "2026-06-03"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Perilla Oil","Scientifically Proven Storage Guide","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
 ---
 
-Did you store perilla oil in a kitchen cabinet or room temp pantry like olive or sesame oil? Perilla oil contains over 60% omega-3 fatty acids, causing it to oxidize rapidly, rancidify, and generate harmful carcinogens at room temp. Today, StoreSelf shares cold storage hacks.
+Did you store perilla oil in a kitchen cabinet or room temp pantry like olive or sesame oil? Perilla oil contains over 60% omega-3 fatty acids, causing it to oxidize rapidly, rancidify, and generate harmful carcinogens at room temp. Today, FreshSnap shares cold storage hacks.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

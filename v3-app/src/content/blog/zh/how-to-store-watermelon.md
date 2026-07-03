@@ -2,10 +2,10 @@
 title: "如何保鲜储存西瓜：科学储存指南"
 description: "根据官方食品安全指南，了解西瓜的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-06-09"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["西瓜","科学验证的储存指南","fruit"]
 heroImage: "/images/blog/watermelon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 authority: "<strong>韩国消费者院(KCA) & 韩国食品医药品安全处(MFDS)</strong>"
 steps:
   - name: "切勿直接覆盖保鲜膜 — 防止食中毒菌繁殖 ❌🍉"
@@ -18,7 +18,7 @@ steps:
 formatVersion: 4
 ---
 
-用保鲜膜包裹吃剩的西瓜放进冰箱，会导致西瓜表面滋生的细菌暴增3000倍以上，您知道吗？今天，StoreSelf为您分享基于韩国消费者院(KCA)指南的安全密封与保存妙招。
+用保鲜膜包裹吃剩的西瓜放进冰箱，会导致西瓜表面滋生的细菌暴增3000倍以上，您知道吗？今天，FreshSnap为您分享基于韩国消费者院(KCA)指南的安全密封与保存妙招。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

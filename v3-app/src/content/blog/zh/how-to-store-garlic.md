@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存大蒜：科学储存指南"
 description: "根据官方食品安全指南，了解大蒜的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-02-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["大蒜","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "带皮的整头大蒜如果放入冰箱，会因为低温潮湿的环境而发芽或腐烂。最好是装入网袋中，放在通风良好的凉爽常温避光处。"
 ---
 
-每次做饭都要剥蒜觉得很麻烦，所以一次性剥了很多大蒜，结果没过几天大蒜就变软发黏，甚至长出了白霉？今天，StoreSelf为您分享如何彻底锁住大蒜水分的科学保鲜妙招。
+每次做饭都要剥蒜觉得很麻烦，所以一次性剥了很多大蒜，结果没过几天大蒜就变软发黏，甚至长出了白霉？今天，FreshSnap为您分享如何彻底锁住大蒜水分的科学保鲜妙招。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

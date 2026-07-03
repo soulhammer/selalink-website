@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Tomat agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Tomat berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-03-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Tomat","Panduan Penyimpanan yang Terbukti Secara Ilmiah","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
 ---
 
-Tahukah Anda bahwa menyimpan tomat di kulkas dapat merusak rasa dan aromanya? Suhu dingin di bawah 12°C merusak membran sel tomat, membuat kulitnya lembek dan hambar. Hari ini, StoreSelf membagikan panduan penyimpanan tomat.
+Tahukah Anda bahwa menyimpan tomat di kulkas dapat merusak rasa dan aromanya? Suhu dingin di bawah 12°C merusak membran sel tomat, membuat kulitnya lembek dan hambar. Hari ini, FreshSnap membagikan panduan penyimpanan tomat.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

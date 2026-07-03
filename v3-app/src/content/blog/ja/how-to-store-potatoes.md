@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "じゃがいもの鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくじゃがいもの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-01-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["じゃがいも","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 農村振興庁(RDA) & FSA</strong>"
 steps:

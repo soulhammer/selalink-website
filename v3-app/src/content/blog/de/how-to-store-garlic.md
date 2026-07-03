@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Knoblauch frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Knoblauch basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-02-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Knoblauch","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature."
 ---
 
-Haben Sie schon einmal viel Knoblauch auf einmal geschält, um Zeit zu sparen, nur um festzustellen, dass er nach wenigen Tagen matschig wurde und weißen Schimmel ansetzte? Heute teilt StoreSelf Tipps zur Feuchtigkeitsregulierung.
+Haben Sie schon einmal viel Knoblauch auf einmal geschält, um Zeit zu sparen, nur um festzustellen, dass er nach wenigen Tagen matschig wurde und weißen Schimmel ansetzte? Heute teilt FreshSnap Tipps zur Feuchtigkeitsregulierung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

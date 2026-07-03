@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Champignon frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Champignon selon les directives de sécurité officielles."
 pubDate: "2026-02-23"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Champignon","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
 ---
 
-Lavez-vous les champignons à l'eau avant de les cuire ? Cette habitude détruit leur saveur et leur texture tout en accélérant le pourrissement. Aujourd'hui, StoreSelf vous montre comment faire.
+Lavez-vous les champignons à l'eau avant de les cuire ? Cette habitude détruit leur saveur et leur texture tout en accélérant le pourrissement. Aujourd'hui, FreshSnap vous montre comment faire.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

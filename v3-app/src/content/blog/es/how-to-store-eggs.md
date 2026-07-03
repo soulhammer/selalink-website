@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Huevo fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Huevo según las directrices oficiales de seguridad."
 pubDate: "2026-04-15"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Huevo","Guía de almacenamiento científicamente probada","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
 ---
 
-¿Lava los huevos y los pone en la puerta del refrigerador? Este método daña su frescura y causa contaminación cruzada. Hoy, StoreSelf comparte trucos científicos aprobados por la USDA.
+¿Lava los huevos y los pone en la puerta del refrigerador? Este método daña su frescura y causa contaminación cruzada. Hoy, FreshSnap comparte trucos científicos aprobados por la USDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

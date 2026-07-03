@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Salmon agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Salmon berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-05-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Salmon","Panduan Penyimpanan yang Terbukti Secara Ilmiah","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
 ---
 
-Apakah Anda membiarkan salmon segar di kulkas selama lebih dari dua hari? Salmon memiliki kadar air tinggi, memicu bakteri berkembang cepat. Hari ini, StoreSelf membagikan tips penyimpanan salmon.
+Apakah Anda membiarkan salmon segar di kulkas selama lebih dari dua hari? Salmon memiliki kadar air tinggi, memicu bakteri berkembang cepat. Hari ini, FreshSnap membagikan tips penyimpanan salmon.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

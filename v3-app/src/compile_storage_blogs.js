@@ -305,10 +305,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "${title.replace(/"/g, '\\"')}"
 description: "${description.replace(/"/g, '\\"')}"
 pubDate: "${koPubDate}"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ${tags}
 heroImage: "/images/blog/${heroImageName}"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "${authorityHtml.replace(/"/g, '\\"')}"
 steps:

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Aceite de cocina / Oliva fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Aceite de cocina / Oliva según las directrices oficiales de seguridad."
 pubDate: "2026-05-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Aceite de cocina / Oliva","Guía de almacenamiento científicamente probada","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
 ---
 
-¿Guardó el aceite de oliva en el refrigerador para que durara más? Refrigerarlo hace que se solidifique en cristales blancos, destruyendo su aroma y grasas saludables. Hoy, StoreSelf comparte trucos a temperatura ambiente.
+¿Guardó el aceite de oliva en el refrigerador para que durara más? Refrigerarlo hace que se solidifique en cristales blancos, destruyendo su aroma y grasas saludables. Hoy, FreshSnap comparte trucos a temperatura ambiente.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

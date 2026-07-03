@@ -1,8 +1,8 @@
-// StoreSelf Detail Page Client-side script
-import { StoreSelfCalendar } from './storeself/calendar';
-import { updateDDayCalculator } from './storeself/dday';
+// FreshSnap Detail Page Client-side script
+import { FreshSnapCalendar } from './freshsnap/calendar';
+import { updateDDayCalculator } from './freshsnap/dday';
 
-const appEl = document.getElementById('storeself-detail-app');
+const appEl = document.getElementById('freshsnap-detail-app');
 if (appEl) {
   const currentItem = JSON.parse(appEl.getAttribute('data-item') || '{}');
   const currentLang = appEl.getAttribute('data-lang') || 'en';
@@ -81,7 +81,7 @@ if (appEl) {
   };
 
   // Initialize Custom Calendar component
-  const calendar = new StoreSelfCalendar({
+  const calendar = new FreshSnapCalendar({
     currentLang,
     selectedDate,
     onDateSelect: (date) => {

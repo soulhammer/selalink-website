@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Alpukat agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Alpukat berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-02-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Alpukat","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
 ---
 
-Pernahkah Anda memasukkan alpukat mentah ke dalam kulkas lalu menjadi busuk? Hari ini, StoreSelf membagikan rahasia pematangan dan penyimpanan alpukat berdasarkan panduan CAC dan USDA.
+Pernahkah Anda memasukkan alpukat mentah ke dalam kulkas lalu menjadi busuk? Hari ini, FreshSnap membagikan rahasia pematangan dan penyimpanan alpukat berdasarkan panduan CAC dan USDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

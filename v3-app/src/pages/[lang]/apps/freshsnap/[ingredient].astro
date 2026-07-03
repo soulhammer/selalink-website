@@ -21,12 +21,12 @@ const currentLang = (lang as string) || 'en';
 const currentItem = ingredients.find((item) => item.id === ingredient);
 
 if (!currentItem) {
-  return Astro.redirect(`/${currentLang}/apps/storeself/`);
+  return Astro.redirect(`/${currentLang}/apps/freshsnap/`);
 }
 
 const localName = currentItem.names[currentLang] || currentItem.names['en'];
 
-import { getStoreSelfDetailData } from '../../../../utils/storeself/detailHelper';
+import { getFreshSnapDetailData } from '../../../../utils/freshsnap/detailHelper';
 
 const {
   recommendedMethod,
@@ -42,7 +42,7 @@ const {
   pageTitle,
   localTranslations,
   sourceTranslations
-} = getStoreSelfDetailData(currentItem, currentLang);
+} = getFreshSnapDetailData(currentItem, currentLang);
 
 const t = (key: string, variables: Record<string, string> = {}) => {
   let text = localTranslations[currentLang]?.[key] || localTranslations['en']?.[key] || key;
@@ -62,14 +62,14 @@ const tSource = (key: string) => {
   lang={currentLang}
   description={dynamicDescription}
   keywords={dynamicKeywords}
-  canonicalUrl={`https://selalink.net/${currentLang}/apps/storeself/${currentItem.id}/`}
+  canonicalUrl={`https://selalink.net/${currentLang}/apps/freshsnap/${currentItem.id}/`}
   ogType="website"
   image={currentItem.iconImage || "/assets/images/og/freshself.png"}
-  appId="storeself"
+  appId="freshsnap"
   structuredData={combinedSchemas}
 >
   <main 
-    id="storeself-detail-app"
+    id="freshsnap-detail-app"
     data-item={JSON.stringify(currentItem)}
     data-lang={currentLang}
     data-local-translations={JSON.stringify(localTranslations)}
@@ -81,7 +81,7 @@ const tSource = (key: string) => {
   >
     <!-- Back button -->
     <a 
-      href={`/${currentLang}/apps/storeself/`} 
+      href={`/${currentLang}/apps/freshsnap/`} 
       class="inline-flex items-center gap-2 text-sm font-bold text-slate-500 hover:text-emerald-600 dark:text-slate-400 dark:hover:text-emerald-400 mb-5 transition-colors duration-300"
     >
       {t('detail.back')}
@@ -357,7 +357,7 @@ const tSource = (key: string) => {
     </div>
   </main>
 
-  <script src="../../../../utils/storeselfDetail.ts"></script>
+  <script src="../../../../utils/freshsnapDetail.ts"></script>
 
   <style>
     /* 추천 뱃지 기본 스타일 (비활성 상태) */

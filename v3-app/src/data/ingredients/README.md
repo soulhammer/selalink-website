@@ -1,6 +1,6 @@
-# 🛡️ StoreSelf 식재료 데이터 관리 아키텍처 및 동기화 가이드
+# 🛡️ FreshSnap 식재료 데이터 관리 아키텍처 및 동기화 가이드
 
-본 디렉토리(`src/data/ingredients/`) 하위의 카테고리별 `.ts` 파일은 StoreSelf 앱의 보관 가이드라인 원천 데이터입니다. 데이터의 신뢰성 확보와 일관된 유지보수를 위해 본 프로젝트는 **단일 신뢰 원천(SSOT - Single Source of Truth)** 설계 방식을 따릅니다.
+본 디렉토리(`src/data/ingredients/`) 하위의 카테고리별 `.ts` 파일은 FreshSnap 앱의 보관 가이드라인 원천 데이터입니다. 데이터의 신뢰성 확보와 일관된 유지보수를 위해 본 프로젝트는 **단일 신뢰 원천(SSOT - Single Source of Truth)** 설계 방식을 따릅니다.
 
 ---
 

@@ -1,6 +1,6 @@
-import { detailLocalTranslations, detailSourceTranslations, detailDescTemplates, detailMethodNames } from '../../i18n/storeselfTranslations';
+import { detailLocalTranslations, detailSourceTranslations, detailDescTemplates, detailMethodNames } from '../../i18n/freshsnapTranslations';
 
-export interface StoreSelfDetailData {
+export interface FreshSnapDetailData {
   recommendedMethod: 'fridge' | 'room' | 'freezer';
   initialGuide: any;
   initialDays: number;
@@ -16,7 +16,7 @@ export interface StoreSelfDetailData {
   sourceTranslations: any;
 }
 
-export function getStoreSelfDetailData(currentItem: any, currentLang: string): StoreSelfDetailData {
+export function getFreshSnapDetailData(currentItem: any, currentLang: string): FreshSnapDetailData {
   const localName = currentItem.names[currentLang] || currentItem.names['en'];
   const localTranslations = detailLocalTranslations;
   const sourceTranslations = detailSourceTranslations;
@@ -102,11 +102,12 @@ export function getStoreSelfDetailData(currentItem: any, currentLang: string): S
   });
   const detailsText = detailsList.join(', ');
   const dynamicDescription = (descTemplates[currentLang] || descTemplates['en'])
-    .replace('{details}', detailsText);
+    .replace('{details}', detailsText)
+    .replace(/{name}/g, localName);
 
   // 9개 언어 대응 동적 키워드 생성
   const localSearchKeywords = currentItem.searchKeywords?.[currentLang] || currentItem.searchKeywords?.['en'] || [];
-  const dynamicKeywords = `${localName}, ${localName} 보관법, ${localName} 보관 기간, ${localName} 소비기한, ${currentItem.id.replace(/-/g, ' ')}, ${localSearchKeywords.join(', ')}, StoreSelf, FreshSelf, SelaLink`;
+  const dynamicKeywords = `${localName}, ${localName} 보관법, ${localName} 보관 기간, ${localName} 소비기한, ${currentItem.id.replace(/-/g, ' ')}, ${localSearchKeywords.join(', ')}, FreshSnap, FreshSelf, SelaLink`;
 
   // 동적 HowTo 스키마(JSON-LD) 생성
   const isKo = currentLang === 'ko';
@@ -178,15 +179,15 @@ export function getStoreSelfDetailData(currentItem: any, currentLang: string): S
 
   // 다국어 페이지 타이틀 템플릿
   const detailTitleTemplate: Record<string, string> = {
-    ko: `${localName} - 보관법 & 소비기한 계산기 (StoreSelf) | StoreSelf`,
-    en: `${localName} - Storage Guide & Expiration Calculator (StoreSelf) | StoreSelf`,
-    ja: `${localName} - 保存方法＆期限チェッカー (StoreSelf) | StoreSelf`,
-    zh: `${localName} - 保存方式与保质期查询 (StoreSelf) | StoreSelf`,
-    es: `${localName} - Guía de Conservación & Caducidad (StoreSelf) | StoreSelf`,
-    fr: `${localName} - Guide de Conservation & D-Day (StoreSelf) | StoreSelf`,
-    de: `${localName} - Haltbarkeits- & Vorrats-Ratgeber (StoreSelf) | StoreSelf`,
-    pt: `${localName} - Guia de Conservação & Validade (StoreSelf) | StoreSelf`,
-    id: `${localName} - Panduan Penyimpanan & Kalkulator Kesegaran (StoreSelf) | StoreSelf`
+    ko: `${localName} - 보관법 & 소비기한 계산기 (FreshSnap) | FreshSnap`,
+    en: `${localName} - Storage Guide & Expiration Calculator (FreshSnap) | FreshSnap`,
+    ja: `${localName} - 保存方法＆期限チェッカー (FreshSnap) | FreshSnap`,
+    zh: `${localName} - 保存方式与保质期查询 (FreshSnap) | FreshSnap`,
+    es: `${localName} - Guía de Conservación & Caducidad (FreshSnap) | FreshSnap`,
+    fr: `${localName} - Guide de Conservation & D-Day (FreshSnap) | FreshSnap`,
+    de: `${localName} - Haltbarkeits- & Vorrats-Ratgeber (FreshSnap) | FreshSnap`,
+    pt: `${localName} - Guia de Conservação & Validade (FreshSnap) | FreshSnap`,
+    id: `${localName} - Panduan Penyimpanan & Kalkulator Kesegaran (FreshSnap) | FreshSnap`
   };
   const pageTitle = detailTitleTemplate[currentLang] || detailTitleTemplate['en'];
 

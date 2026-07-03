@@ -1,5 +1,5 @@
 ---
-// Language-neutral redirect page for StoreSelf ingredient pages
+// Language-neutral redirect page for FreshSnap ingredient pages
 import { ingredients } from '../../../data/ingredients';
 
 export function getStaticPaths() {
@@ -17,7 +17,7 @@ const { ingredient } = Astro.params;
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noindex, follow" />
   <!-- Fallback meta refresh for crawlers/AI bots with JS disabled -->
-  <meta http-equiv="refresh" content={`0;url=/en/apps/storeself/${ingredient}/`} />
+  <meta http-equiv="refresh" content={`0;url=/en/apps/freshsnap/${ingredient}/`} />
   <title>Redirecting...</title>
 </head>
 <body>
@@ -31,7 +31,7 @@ const { ingredient } = Astro.params;
       var hash = window.location.hash || "";
       
       var targetLang = validLangs.indexOf(lang) !== -1 ? lang : "en";
-      var targetUrl = '/' + targetLang + '/apps/storeself/' + ingredient + '/' + searchParams + hash;
+      var targetUrl = '/' + targetLang + '/apps/freshsnap/' + ingredient + '/' + searchParams + hash;
       
       window.location.replace(targetUrl);
     })();

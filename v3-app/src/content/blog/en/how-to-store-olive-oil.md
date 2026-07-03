@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Cooking Oil / Olive Oil Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Cooking Oil / Olive Oil based on official safety guidelines."
 pubDate: "2026-05-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Cooking Oil / Olive Oil","Scientifically Proven Storage Guide","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
 ---
 
-Did you store olive oil in the fridge to keep it fresh longer? Refrigerating olive oil causes it to solidify into white crystals, destroying its unique nutty aroma and healthy compounds. Today, StoreSelf shares room temperature storage hacks.
+Did you store olive oil in the fridge to keep it fresh longer? Refrigerating olive oil causes it to solidify into white crystals, destroying its unique nutty aroma and healthy compounds. Today, FreshSnap shares room temperature storage hacks.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

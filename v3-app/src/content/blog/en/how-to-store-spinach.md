@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Spinach Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Spinach based on official safety guidelines."
 pubDate: "2026-02-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Spinach","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
 ---
 
-Have you ever bought a bunch of spinach, left it tied in a plastic bag, and thrown it away in two days because the leaves rotted? Today, StoreSelf shares scientific moisture control tips to keep spinach fresh for over a week.
+Have you ever bought a bunch of spinach, left it tied in a plastic bag, and thrown it away in two days because the leaves rotted? Today, FreshSnap shares scientific moisture control tips to keep spinach fresh for over a week.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

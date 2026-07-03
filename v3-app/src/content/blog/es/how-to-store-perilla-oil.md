@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Aceite de perilla fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Aceite de perilla según las directrices oficiales de seguridad."
 pubDate: "2026-06-03"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Aceite de perilla","Guía de almacenamiento científicamente probada","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
 ---
 
-¿Guardó el aceite de perilla en la alacena a temp. ambiente como el de oliva o sésamo? Al tener más de 60% de omega-3, se oxida rápido al aire y crea toxinas. Hoy, StoreSelf comparte trucos de refrigeración.
+¿Guardó el aceite de perilla en la alacena a temp. ambiente como el de oliva o sésamo? Al tener más de 60% de omega-3, se oxida rápido al aire y crea toxinas. Hoy, FreshSnap comparte trucos de refrigeración.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

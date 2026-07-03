@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Saumon frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Saumon selon les directives de sécurité officielles."
 pubDate: "2026-05-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Saumon","Guide de conservation scientifiquement prouvé","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
 ---
 
-Avez-vous laissé du saumon frais au frigo plus de deux jours ? Le saumon est très humide et les bactéries s'y développent vite. Aujourd'hui, StoreSelf vous montre comment le conserver sans odeur selon l'FDA.
+Avez-vous laissé du saumon frais au frigo plus de deux jours ? Le saumon est très humide et les bactéries s'y développent vite. Aujourd'hui, FreshSnap vous montre comment le conserver sans odeur selon l'FDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

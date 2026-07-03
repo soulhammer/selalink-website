@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Salmón fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Salmón según las directrices oficiales de seguridad."
 pubDate: "2026-05-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Salmón","Guía de almacenamiento científicamente probada","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
 ---
 
-¿Dejó salmón fresco en el refrigerador por más de dos días? El salmón tiene mucha agua, facilitando que las bacterias crezcan rápido. Hoy, StoreSelf comparte trucos de sellado aprobados por la FDA.
+¿Dejó salmón fresco en el refrigerador por más de dos días? El salmón tiene mucha agua, facilitando que las bacterias crezcan rápido. Hoy, FreshSnap comparte trucos de sellado aprobados por la FDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

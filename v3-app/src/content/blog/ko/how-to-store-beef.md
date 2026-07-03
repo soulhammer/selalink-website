@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "소고기 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 소고기의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-03-28"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["소고기","과학적으로 검증된 보관 가이드","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "가장 안전한 방법은 하루 전에 냉장실로 옮겨 서서히 천천히 해동하는 것입니다. 실온이나 뜨거운 물에 해동하면 세균이 폭발적으로 증식하므로 절대 피해야 합니다."
 ---
 
-비싼 소고기를 사 와서 이틀 냉장고에 넣어 두었더니 거무스름하게 변해 찝찝했던 적 있으시죠? 오늘 StoreSelf에서는 미국 농무부 식품안전검사국(USDA FSIS)의 신선육 관리 지침에 근거한 오일 랩핑 비법을 전합니다.
+비싼 소고기를 사 와서 이틀 냉장고에 넣어 두었더니 거무스름하게 변해 찝찝했던 적 있으시죠? 오늘 FreshSnap에서는 미국 농무부 식품안전검사국(USDA FSIS)의 신선육 관리 지침에 근거한 오일 랩핑 비법을 전합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

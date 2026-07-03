@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Œuf frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Œuf selon les directives de sécurité officielles."
 pubDate: "2026-04-15"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Œuf","Guide de conservation scientifiquement prouvé","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
 ---
 
-Est-ce que vous lavez vos œufs frais et les rangez dans la porte du frigo ? Cette méthode détruit leur fraîcheur et favorise la contamination. Aujourd'hui, StoreSelf vous montre la bonne méthode.
+Est-ce que vous lavez vos œufs frais et les rangez dans la porte du frigo ? Cette méthode détruit leur fraîcheur et favorise la contamination. Aujourd'hui, FreshSnap vous montre la bonne méthode.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

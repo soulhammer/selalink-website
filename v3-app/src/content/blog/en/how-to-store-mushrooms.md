@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Mushroom Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Mushroom based on official safety guidelines."
 pubDate: "2026-02-23"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Mushroom","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
 ---
 
-Do you wash mushrooms with water before cooking? This common habit ruins their unique flavor and texture while accelerating rot. Today, StoreSelf shares professional mushroom storage and cleaning tips.
+Do you wash mushrooms with water before cooking? This common habit ruins their unique flavor and texture while accelerating rot. Today, FreshSnap shares professional mushroom storage and cleaning tips.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

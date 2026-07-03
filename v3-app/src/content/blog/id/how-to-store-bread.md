@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Roti tawar agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Roti tawar berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-05-19"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Roti tawar","Panduan Penyimpanan yang Terbukti Secara Ilmiah","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Thaw it naturally at room temperature, then toast it lightly in a toaster or oven. This restores the original 'crispy outside, soft inside' texture."
 ---
 
-Pernahkah Anda menyimpan roti tawar di kulkas lalu menjadi kering dan keras? Hari ini, StoreSelf membagikan panduan pembekuan ilmiah agar roti tetap empuk.
+Pernahkah Anda menyimpan roti tawar di kulkas lalu menjadi kering dan keras? Hari ini, FreshSnap membagikan panduan pembekuan ilmiah agar roti tetap empuk.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

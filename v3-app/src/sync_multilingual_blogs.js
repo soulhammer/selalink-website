@@ -135,10 +135,10 @@ function run() {
 title: "${title.replace(/"/g, '\\"')}"
 description: "${description.replace(/"/g, '\\"')}"
 pubDate: "2026-06-22"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ${tags}
 heroImage: "/images/blog/${ingId.replace(/-/g, '_')}_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 authority: "${authorityHtml.replace(/"/g, '\\"')}"
 steps:
 ${stepsYaml}

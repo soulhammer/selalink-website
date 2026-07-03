@@ -17,7 +17,7 @@ export interface Props {
 	ogType?: 'website' | 'software';
 	canonicalUrl?: string;
 	robots?: string;
-	appId?: 'buildself' | 'freshself' | 'storeself' | 'studio' | 'logself' | 'petself';
+	appId?: 'buildself' | 'freshself' | 'freshsnap' | 'studio' | 'logself' | 'petself';
 	structuredData?: Record<string, any> | Record<string, any>[];
 	keywords?: string;
 }
@@ -168,8 +168,8 @@ const baseSchema = generateBaseSchema({
 				{appId === 'freshself' && (
 					<span class="text-purple-600 dark:text-purple-400 font-bold ml-1.5 font-jakarta text-lg sm:text-xl tracking-normal animate-fade-in">FreshSelf</span>
 				)}
-				{appId === 'storeself' && (
-					<span class="text-emerald-600 dark:text-emerald-400 font-bold ml-1.5 font-jakarta text-lg sm:text-xl tracking-normal animate-fade-in">StoreSelf</span>
+				{appId === 'freshsnap' && (
+					<span class="text-emerald-600 dark:text-emerald-400 font-bold ml-1.5 font-jakarta text-lg sm:text-xl tracking-normal animate-fade-in">FreshSnap</span>
 				)}
 				{appId === 'logself' && (
 					<span class="text-indigo-600 dark:text-indigo-400 font-extrabold ml-1.5 font-outfit text-lg sm:text-xl tracking-tight animate-fade-in">logSelf</span>
@@ -342,7 +342,7 @@ const baseSchema = generateBaseSchema({
 		{appId === 'freshself' && (
 			<AppToast lang={lang} triggerId="iosDownloadBtn" toastId="toastNotification" />
 		)}
-		{appId === 'storeself' && (
+		{appId === 'freshsnap' && (
 			<AppToast lang={lang} triggerId="iosDownloadBtn" toastId="toastNotification" title={t('app.toast.ios.title')} desc={t('app.toast.ios.desc')} />
 		)}
 	</body>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Bawang bombay agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Bawang bombay berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-01-16"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Bawang bombay","Panduan Penyimpanan yang Terbukti Secara Ilmiah","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Ensure they are completely dry, wrap each onion tightly in plastic wrap, and store them in the fridge. Blocking air contact keeps them fresh for over 2 weeks."
 ---
 
-Pernahkah Anda membeli bawang bombay dalam jaring lalu menumpuknya di sudut balkon? Tak lama, bagian yang saling bersentuhan akan membusuk atau bertunas. Hari ini, StoreSelf membagikan panduan penyimpanan bawang.
+Pernahkah Anda membeli bawang bombay dalam jaring lalu menumpuknya di sudut balkon? Tak lama, bagian yang saling bersentuhan akan membusuk atau bertunas. Hari ini, FreshSnap membagikan panduan penyimpanan bawang.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

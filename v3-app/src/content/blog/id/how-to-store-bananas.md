@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Pisang agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Pisang berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-03-05"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Pisang","Panduan Penyimpanan yang Terbukti Secara Ilmiah","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
 ---
 
-Pernahkah Anda membiarkan pisang di meja lalu dikerubuti lalat buah dan berubah menjadi hitam dalam sehari? Hari ini, StoreSelf membagikan panduan penyimpanan pisang agar tetap segar lebih dari 10 hari.
+Pernahkah Anda membiarkan pisang di meja lalu dikerubuti lalat buah dan berubah menjadi hitam dalam sehari? Hari ini, FreshSnap membagikan panduan penyimpanan pisang agar tetap segar lebih dari 10 hari.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

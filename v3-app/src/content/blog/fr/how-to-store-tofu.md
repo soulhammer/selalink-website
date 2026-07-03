@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Tofu frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Tofu selon les directives de sécurité officielles."
 pubDate: "2026-04-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Tofu","Guide de conservation scientifiquement prouvé","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Yes, frozen tofu turns into a sponge-like structure with tiny pores. This unique texture absorbs soups and sauces incredibly well."
 ---
 
-Avez-vous versé l'eau d'origine du paquet pour conserver le reste de tofu ? Cette eau favorise la prolifération des bactéries. Aujourd'hui, StoreSelf vous montre comment le garder frais 7 jours.
+Avez-vous versé l'eau d'origine du paquet pour conserver le reste de tofu ? Cette eau favorise la prolifération des bactéries. Aujourd'hui, FreshSnap vous montre comment le garder frais 7 jours.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Ovo fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Ovo com base nas diretrizes oficiais de segurança."
 pubDate: "2026-04-15"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Ovo","Guia de armazenamento comprovado cientificamente","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
 ---
 
-Você lava os ovos frescos e os guarda na porta da geladeira? Esse hábito destrói o frescor e causa contaminação cruzada. Hoje, o StoreSelf compartilha técnicas corretas recomendadas pela USDA.
+Você lava os ovos frescos e os guarda na porta da geladeira? Esse hábito destrói o frescor e causa contaminação cruzada. Hoje, o FreshSnap compartilha técnicas corretas recomendadas pela USDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Fruits secs frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Fruits secs selon les directives de sécurité officielles."
 pubDate: "2026-06-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Fruits secs","Guide de conservation scientifiquement prouvé","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
 ---
 
-Laissez-vous les fruits secs sur la table dans des bocaux transparents ? Ils sont riches en acides gras insaturés et s'oxydent vite à l'air et à la lumière, créant de mauvaises odeurs et des toxines. Aujourd'hui, StoreSelf vous montre comment faire.
+Laissez-vous les fruits secs sur la table dans des bocaux transparents ? Ils sont riches en acides gras insaturés et s'oxydent vite à l'air et à la lumière, créant de mauvaises odeurs et des toxines. Aujourd'hui, FreshSnap vous montre comment faire.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

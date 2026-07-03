@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Cebollín fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Cebollín según las directrices oficiales de seguridad."
 pubDate: "2026-01-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Cebollín","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Freezing immediately breaks cell walls, releasing sticky mucin. Let the chopped green onions air-dry for 10 minutes before freezing to keep them separate and slime-free."
 ---
 
-¿Compró un manojo de cebollines, los dejó en el cajón de verduras y tuvo que tirar la mitad porque se pusieron babosos en pocos días? Hoy, StoreSelf comparte trucos para mantenerlos crujientes un mes.
+¿Compró un manojo de cebollines, los dejó en el cajón de verduras y tuvo que tirar la mitad porque se pusieron babosos en pocos días? Hoy, FreshSnap comparte trucos para mantenerlos crujientes un mes.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

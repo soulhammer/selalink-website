@@ -2,10 +2,10 @@
 title: "Äpfel über einen Monat knackig halten? 3 Schritte zur Apfellagerung und Ethylen-Isolierung"
 description: "Werden Ihre Äpfel schnell weich oder verderben anderes Obst? Entdecken Sie die wissenschaftliche Methode zur Lagerung von Äpfeln und zur Regulierung von Ethylen, empfohlen von Agrarexperten."
 pubDate: "2026-03-11"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Äpfel Lagern", "Obstpflege", "Ethylengas", "Frische-Tipps", "Küchenhacks"]
 heroImage: "/images/blog/apple_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 faqs:
   - question: "Ist es in Ordnung, beschädigte Äpfel einzuwickeln und zu lagern?"
     answer: "Nein. Äpfel mit Druckstellen oder Fäulnis geben viel mehr Ethylengas ab, was benachbarte Äpfel schnell verdirbt. Verbrauchen Sie diese sofort."
@@ -28,7 +28,7 @@ Haben Sie schon einmal eine frische Tüte knackiger, süßer Äpfel gekauft, nur
 
 Obwohl Äpfel zu den beliebtesten Obstsorten weltweit gehören, erfordern sie bei der Lagerung besondere Aufmerksamkeit. Sie setzen ein starkes natürliches Pflanzenhormon frei, das den Verderf von umliegenden Produkten beschleunigt. Ohne die richtige Pflege verlieren Äpfel ihre Feuchtigkeit, werden mehlig und verderben anderes Gemüse und Obst in Ihrem Kühlschrank.
 
-Heute stellen wir Ihnen bei StoreSelf die wissenschaftlich erprobte 3-Schritte-Anleitung zur Maximierung der Apfelfrische vor, die von Agrar- und Lebensmittelsicherheitsexperten unterstützt wird. 🛡️
+Heute stellen wir Ihnen bei FreshSnap die wissenschaftlich erprobte 3-Schritte-Anleitung zur Maximierung der Apfelfrische vor, die von Agrar- und Lebensmittelsicherheitsexperten unterstützt wird. 🛡️
 
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">

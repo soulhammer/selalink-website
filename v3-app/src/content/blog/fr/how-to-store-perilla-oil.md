@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Huile de pérille frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Huile de pérille selon les directives de sécurité officielles."
 pubDate: "2026-06-03"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Huile de pérille","Guide de conservation scientifiquement prouvé","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
 ---
 
-Avez-vous stocké votre huile de périlla dans un placard à température ambiante comme l'huile d'olive ou de sésame ? Elle contient plus de 60 % d'acides gras oméga-3, ce qui la fait s'oxyder très vite à l'air libre. Aujourd'hui, StoreSelf vous montre comment la conserver au frais.
+Avez-vous stocké votre huile de périlla dans un placard à température ambiante comme l'huile d'olive ou de sésame ? Elle contient plus de 60 % d'acides gras oméga-3, ce qui la fait s'oxyder très vite à l'air libre. Aujourd'hui, FreshSnap vous montre comment la conserver au frais.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

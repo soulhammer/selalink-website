@@ -7,12 +7,12 @@ export function getStaticPaths() {
   const langKeys = Object.keys(languages);
   
   for (const lang of langKeys) {
-    // 1. 인덱스 페이지 리다이렉션 (/apps/freshself/ingredients/ -> /apps/storeself/)
+    // 1. 인덱스 페이지 리다이렉션 (/apps/freshself/ingredients/ -> /apps/freshsnap/)
     paths.push({
       params: { lang, redirect: undefined }
     });
     
-    // 2. 개별 식재료 페이지 리다이렉션 (/apps/freshself/ingredients/[ingredient]/ -> /apps/storeself/[ingredient]/)
+    // 2. 개별 식재료 페이지 리다이렉션 (/apps/freshself/ingredients/[ingredient]/ -> /apps/freshsnap/[ingredient]/)
     for (const item of ingredients) {
       paths.push({
         params: { lang, redirect: item.id }
@@ -24,8 +24,8 @@ export function getStaticPaths() {
 
 return Astro.redirect(
   Astro.params.redirect 
-    ? `/${Astro.params.lang || 'en'}/apps/storeself/${Astro.params.redirect}/`
-    : `/${Astro.params.lang || 'en'}/apps/storeself/`,
+    ? `/${Astro.params.lang || 'en'}/apps/freshsnap/${Astro.params.redirect}/`
+    : `/${Astro.params.lang || 'en'}/apps/freshsnap/`,
   301
 );
 ---

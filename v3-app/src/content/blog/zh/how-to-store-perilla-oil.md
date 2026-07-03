@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存苏子油：科学储存指南"
 description: "根据官方食品安全指南，了解苏子油的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-06-03"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["苏子油","科学验证的储存指南","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "不需要，芝麻油富含抗氧化成分，存放在室温避光处是保持其风味和香气的最佳方式。冷藏可能会产生沉淀物并减弱香气。"
 ---
 
-您是否像对待橄榄油或芝麻油一样，将紫苏油随手存放在灶台下的橱柜或常温储藏室中？紫苏油的欧米伽-3脂肪酸含量极高（超过60%），常温下极易迅速氧化酸败，产生有害致癌物。今天，StoreSelf为您分享科学的冷藏保鲜妙招。
+您是否像对待橄榄油或芝麻油一样，将紫苏油随手存放在灶台下的橱柜或常温储藏室中？紫苏油的欧米伽-3脂肪酸含量极高（超过60%），常温下极易迅速氧化酸败，产生有害致癌物。今天，FreshSnap为您分享科学的冷藏保鲜妙招。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

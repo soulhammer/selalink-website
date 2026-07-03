@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Daging ayam agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Daging ayam berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-04-06"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Daging ayam","Panduan Penyimpanan yang Terbukti Secara Ilmiah","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Poultry has high moisture content and a delicate protein structure, making it highly susceptible to rapid bacterial growth. Keep chilled only for 2 days."
 ---
 
-Mencuci ayam mentah dapat menyebarkan bakteri berbahaya ke seluruh dapur. Hari ini, StoreSelf membagikan panduan penanganan dan penyimpanan ayam dari CDC.
+Mencuci ayam mentah dapat menyebarkan bakteri berbahaya ke seluruh dapur. Hari ini, FreshSnap membagikan panduan penanganan dan penyimpanan ayam dari CDC.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

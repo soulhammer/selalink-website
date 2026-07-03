@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Tomate frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Tomate basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-03-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Tomate","Wissenschaftlich geprüfter Lagerungsratgeber","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
 ---
 
-Wussten Sie, dass die Lagerung von Tomaten im Kühlschrank ihr Aroma ruiniert? Temperaturen unter 12 °C zerstören die Zellmembranen, wodurch die Schale matschig und geschmacklos wird. Heute teilt StoreSelf Tipps.
+Wussten Sie, dass die Lagerung von Tomaten im Kühlschrank ihr Aroma ruiniert? Temperaturen unter 12 °C zerstören die Zellmembranen, wodurch die Schale matschig und geschmacklos wird. Heute teilt FreshSnap Tipps.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

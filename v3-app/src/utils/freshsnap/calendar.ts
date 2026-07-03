@@ -10,7 +10,7 @@ export interface CalendarOptions {
   calendarDaysGrid: HTMLElement | null;
 }
 
-export class StoreSelfCalendar {
+export class FreshSnapCalendar {
   private currentLang: string;
   public selectedDate: Date;
   private displayedYear: number;

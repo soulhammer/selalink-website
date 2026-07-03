@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Telur agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Telur berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-04-15"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Telur","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
 ---
 
-Apakah Anda mencuci telur segar lalu menyimpannya di rak pintu kulkas? Cara ini dapat merusak kesegaran telur dan memicu kontaminasi silang. Hari ini, StoreSelf membagikan panduan penyimpanan telur.
+Apakah Anda mencuci telur segar lalu menyimpannya di rak pintu kulkas? Cara ini dapat merusak kesegaran telur dan memicu kontaminasi silang. Hari ini, FreshSnap membagikan panduan penyimpanan telur.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

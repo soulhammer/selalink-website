@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Zwiebel frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Zwiebel basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-01-16"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Zwiebel","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Ensure they are completely dry, wrap each onion tightly in plastic wrap, and store them in the fridge. Blocking air contact keeps them fresh for over 2 weeks."
 ---
 
-Haben Sie Zwiebeln im Netz gekauft und in der Ecke des Balkons gestapelt? Schon bald verfaulen sie an den Druckstellen oder keimen. Heute teilt StoreSelf Tipps zur Feuchtigkeitsregulierung.
+Haben Sie Zwiebeln im Netz gekauft und in der Ecke des Balkons gestapelt? Schon bald verfaulen sie an den Druckstellen oder keimen. Heute teilt FreshSnap Tipps zur Feuchtigkeitsregulierung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

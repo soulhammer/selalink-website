@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Kartoffel frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Kartoffel basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-01-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Kartoffel","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Cold temperatures below 4°C convert potato starch into sugar. When cooked at high heat, this sugar reacts to form acrylamide, a potential carcinogen."
 ---
 
-Lagern Sie Kartoffeln im Gemüsefach des Kühlschranks? Kühle Temperaturen unter 4 °C führen dazu, dass Kartoffeln Acrylamid bilden. Heute teilt StoreSelf Tipps für eine gesunde Lagerung.
+Lagern Sie Kartoffeln im Gemüsefach des Kühlschranks? Kühle Temperaturen unter 4 °C führen dazu, dass Kartoffeln Acrylamid bilden. Heute teilt FreshSnap Tipps für eine gesunde Lagerung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

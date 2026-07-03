@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Poulet frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Poulet selon les directives de sécurité officielles."
 pubDate: "2026-04-06"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Poulet","Guide de conservation scientifiquement prouvé","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Poultry has high moisture content and a delicate protein structure, making it highly susceptible to rapid bacterial growth. Keep chilled only for 2 days."
 ---
 
-Laver du poulet cru peut propager de dangereuses bactéries partout dans votre cuisine. Aujourd'hui, StoreSelf vous présente les recommandations de la CDC pour manipuler et conserver la volaille.
+Laver du poulet cru peut propager de dangereuses bactéries partout dans votre cuisine. Aujourd'hui, FreshSnap vous présente les recommandations de la CDC pour manipuler et conserver la volaille.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

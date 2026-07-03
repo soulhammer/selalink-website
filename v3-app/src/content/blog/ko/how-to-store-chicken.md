@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "닭고기 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 닭고기의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-04-06"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["닭고기","과학적으로 검증된 보관 가이드","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "닭고기는 조직이 부드럽고 수분 함량이 매우 높아 균 증식이 아주 빠릅니다. 냉장 보관 시 반드시 2일 이내에 조리해 드시고 오래 둘 것은 즉시 냉동하세요."
 ---
 
-생닭을 물에 씻으면 식중독균이 주방에 확산됩니다. 오늘 StoreSelf에서는 미국 질병통제예방센터(CDC)의 주방 위생 지침에 따른 안전한 생닭 손질 및 보관 요령을 소개합니다.
+생닭을 물에 씻으면 식중독균이 주방에 확산됩니다. 오늘 FreshSnap에서는 미국 질병통제예방센터(CDC)의 주방 위생 지침에 따른 안전한 생닭 손질 및 보관 요령을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

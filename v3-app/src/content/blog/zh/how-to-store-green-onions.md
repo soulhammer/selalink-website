@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存大葱：科学储存指南"
 description: "根据官方食品安全指南，了解大葱的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-01-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["大葱","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "切完直接冷冻会破坏细胞壁，释放出黏性物质。切好后在室温下晾干表面水分约 10 分钟，然后再进行冷冻，这样大葱就不会粘连，保持清爽。"
 ---
 
-您是否曾买了一大整捆大葱，直接塞进冰箱蔬菜室，结果几天后变得黏糊糊流水，扔掉了一大半？今天，StoreSelf为您分享调控水分与气体、让大葱爽脆保鲜一个月以上的妙招。
+您是否曾买了一大整捆大葱，直接塞进冰箱蔬菜室，结果几天后变得黏糊糊流水，扔掉了一大半？今天，FreshSnap为您分享调控水分与气体、让大葱爽脆保鲜一个月以上的妙招。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

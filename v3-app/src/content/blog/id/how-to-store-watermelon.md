@@ -2,10 +2,10 @@
 title: "Cara Menyimpan Semangka agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Semangka berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-06-09"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Semangka","Panduan Penyimpanan yang Terbukti Secara Ilmiah","fruit"]
 heroImage: "/images/blog/watermelon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
   - name: "Jangan tutup langsung dengan plastik wrap — Mencegah keracunan makanan ❌🍉"
@@ -18,7 +18,7 @@ steps:
 formatVersion: 4
 ---
 
-Tahukah Anda bahwa menutup sisa semangka dengan plastik wrap dapat melipatgandakan bakteri di permukaan hingga 3.000 kali? Hari ini, StoreSelf membagikan panduan penyimpanan semangka.
+Tahukah Anda bahwa menutup sisa semangka dengan plastik wrap dapat melipatgandakan bakteri di permukaan hingga 3.000 kali? Hari ini, FreshSnap membagikan panduan penyimpanan semangka.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

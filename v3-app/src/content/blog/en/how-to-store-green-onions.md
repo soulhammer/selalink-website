@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Green Onion Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Green Onion based on official safety guidelines."
 pubDate: "2026-01-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Green Onion","Scientifically Proven Storage Guide","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Freezing immediately breaks cell walls, releasing sticky mucin. Let the chopped green onions air-dry for 10 minutes before freezing to keep them separate and slime-free."
 ---
 
-Have you ever bought a large bunch of green onions, left them in the crisper drawer, and thrown away half because they turned slimy in a few days? Today, StoreSelf shares moisture and gas control hacks to keep green onions crisp for over a month.
+Have you ever bought a large bunch of green onions, left them in the crisper drawer, and thrown away half because they turned slimy in a few days? Today, FreshSnap shares moisture and gas control hacks to keep green onions crisp for over a month.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

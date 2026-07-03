@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Batata fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Batata com base nas diretrizes oficiais de segurança."
 pubDate: "2026-01-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Batata","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Cold temperatures below 4°C convert potato starch into sugar. When cooked at high heat, this sugar reacts to form acrylamide, a potential carcinogen."
 ---
 
-Você guardou as batatas na gaveta de vegetais da geladeira? Temperaturas frias abaixo de 4°C fazem com que elas gerem acrilamida, uma substância cancerígena. Hoje, o StoreSelf compartilha técnicas corretas.
+Você guardou as batatas na gaveta de vegetais da geladeira? Temperaturas frias abaixo de 4°C fazem com que elas gerem acrilamida, uma substância cancerígena. Hoje, o FreshSnap compartilha técnicas corretas.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

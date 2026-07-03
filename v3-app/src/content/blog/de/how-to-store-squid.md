@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Tintenfisch frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Tintenfisch basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-05-08"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Tintenfisch","Wissenschaftlich geprüfter Lagerungsratgeber","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
 ---
 
-Haben Sie frischen Tintenfisch im Beutel im Kühlschrank gelagert, nur um festzustellen, dass die Küche nach Fisch roch und das Fleisch verdarb? Die Innereien verfaulen zuerst. Heute teilt StoreSelf Tipps zur Handhabung.
+Haben Sie frischen Tintenfisch im Beutel im Kühlschrank gelagert, nur um festzustellen, dass die Küche nach Fisch roch und das Fleisch verdarb? Die Innereien verfaulen zuerst. Heute teilt FreshSnap Tipps zur Handhabung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

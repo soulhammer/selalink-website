@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Cumi-cumi agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Cumi-cumi berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-05-08"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Cumi-cumi","Panduan Penyimpanan yang Terbukti Secara Ilmiah","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
 ---
 
-Pernahkah Anda menyimpan cumi mentah di kulkas lalu dapur Anda berbau amis dan daging cumi rusak? Isi perut cumi busuk lebih dulu. Hari ini, StoreSelf membagikan panduan penanganan cumi.
+Pernahkah Anda menyimpan cumi mentah di kulkas lalu dapur Anda berbau amis dan daging cumi rusak? Isi perut cumi busuk lebih dulu. Hari ini, FreshSnap membagikan panduan penanganan cumi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

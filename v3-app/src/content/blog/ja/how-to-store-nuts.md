@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "ナッツの鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくナッツの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-06-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["ナッツ","科学的に検証された保存ガイド","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
 steps:

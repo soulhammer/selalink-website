@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存食用油/橄榄油：科学储存指南"
 description: "根据官方食品安全指南，了解食用油/橄榄油的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-05-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["食用油/橄榄油","科学验证的储存指南","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "是的，橄榄油暴露在光线（紫外线）下会迅速氧化。强烈建议将其密封储存在避光的深色玻璃瓶中，并放置在阴凉处。"
 ---
 
-您是否为了让橄榄油保鲜更久而将其放进冰箱？冷藏橄榄油会导致其凝固成白色结晶，从而破坏其特有的清香与营养活性成分。今天，StoreSelf为您分享科学的常温避光保存法。
+您是否为了让橄榄油保鲜更久而将其放进冰箱？冷藏橄榄油会导致其凝固成白色结晶，从而破坏其特有的清香与营养活性成分。今天，FreshSnap为您分享科学的常温避光保存法。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

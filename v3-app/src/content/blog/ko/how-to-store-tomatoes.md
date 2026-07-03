@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "토마토 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 토마토의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-03-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["토마토","과학적으로 검증된 보관 가이드","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "들기름 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 들기름의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-06-03"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["들기름","과학적으로 검증된 보관 가이드","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "아닙니다. 참기름은 항산화 성분이 풍부해 상온의 어두운 곳에 두는 것이 맛과 향을 지키는 최선입니다. 냉장 보관 시 침전물이 생기거나 향이 옅어질 수 있습니다."
 ---
 
-참기름과 들기름을 나란히 가스레인지 옆 실온에 보관하셨나요? 오늘 StoreSelf에서는 농촌진흥청(RDA)의 들기름 보관 연구 결과를 토대로, 산패를 막고 맛을 유지하는 들기름 보관 비법을 알려드립니다.
+참기름과 들기름을 나란히 가스레인지 옆 실온에 보관하셨나요? 오늘 FreshSnap에서는 농촌진흥청(RDA)의 들기름 보관 연구 결과를 토대로, 산패를 막고 맛을 유지하는 들기름 보관 비법을 알려드립니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -121,8 +121,8 @@ test.describe('블로그 메인 UI 동적 기능 통합 검증 (검색, 필터, 
   });
 
   test('검색 + 태그 필터 + 날짜 정렬 복합 연동 시나리오 검증', async ({ page }) => {
-    // 1. 카테고리 필터 '식재료 보관' (storeself) 클릭
-    await page.click('button[data-filter="storeself"]');
+    // 1. 카테고리 필터 '식재료 보관' (freshsnap) 클릭
+    await page.click('button[data-filter="freshsnap"]');
 
     // 2. 검색어 '보관' 입력
     await page.fill('input#blog-search-input', '보관');
@@ -142,7 +142,7 @@ test.describe('블로그 메인 UI 동적 기능 통합 검증 (검색, 필터, 
         const card = visibleCards.nth(i);
         
         const app = await card.getAttribute('data-app');
-        expect(app === 'storeself' || app === 'freshself').toBe(true);
+        expect(app === 'freshsnap' || app === 'freshself').toBe(true);
 
         const title = await card.getAttribute('data-title') || '';
         const desc = await card.getAttribute('data-desc') || '';

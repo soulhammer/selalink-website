@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Lula fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Lula com base nas diretrizes oficiais de segurança."
 pubDate: "2026-05-08"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Lula","Guia de armazenamento comprovado cientificamente","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
 ---
 
-Você colocou lula fresca na geladeira e ela estragou e deixou mau cheiro? As vísceras apodrecem primeiro, então limpar e congelar é vital. Hoje, o StoreSelf compartilha técnicas corretas.
+Você colocou lula fresca na geladeira e ela estragou e deixou mau cheiro? As vísceras apodrecem primeiro, então limpar e congelar é vital. Hoje, o FreshSnap compartilha técnicas corretas.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

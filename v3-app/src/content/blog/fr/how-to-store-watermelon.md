@@ -2,10 +2,10 @@
 title: "Comment conserver Pastèque frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Pastèque selon les directives de sécurité officielles."
 pubDate: "2026-06-09"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Pastèque","Guide de conservation scientifiquement prouvé","fruit"]
 heroImage: "/images/blog/watermelon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
   - name: "Ne jamais couvrir de film étirable directement — Éviter les bactéries ❌🍉"
@@ -18,7 +18,7 @@ steps:
 formatVersion: 4
 ---
 
-Saviez-vous que recouvrir le reste de pastèque de film plastique multiplie les bactéries par 3 000 en surface ? Aujourd'hui, StoreSelf vous montre les astuces recommandées par la KCA.
+Saviez-vous que recouvrir le reste de pastèque de film plastique multiplie les bactéries par 3 000 en surface ? Aujourd'hui, FreshSnap vous montre les astuces recommandées par la KCA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

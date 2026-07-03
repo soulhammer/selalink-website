@@ -3,10 +3,10 @@ interface Props {
   id: string;
   title?: string;
   isShorts?: boolean;
-  app?: 'storeself' | 'freshself' | 'buildself' | 'logself' | 'general' | 'petself';
+  app?: 'freshsnap' | 'freshself' | 'buildself' | 'logself' | 'general' | 'petself';
 }
 
-const { id, title = "YouTube Video", isShorts = true, app = 'storeself' } = Astro.props;
+const { id, title = "YouTube Video", isShorts = true, app = 'freshsnap' } = Astro.props;
 
 // 고화질 썸네일 URL 추출
 const thumbnailUrls = [

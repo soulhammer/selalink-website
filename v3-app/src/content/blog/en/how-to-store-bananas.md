@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Banana Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Banana based on official safety guidelines."
 pubDate: "2026-03-05"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Banana","Scientifically Proven Storage Guide","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
 ---
 
-Have you ever left bananas on the counter only to have fruit flies swarm them and turn them black in a single day? Today, StoreSelf shares scientific storage hacks to keep bananas fresh for over 10 days without a banana stand.
+Have you ever left bananas on the counter only to have fruit flies swarm them and turn them black in a single day? Today, FreshSnap shares scientific storage hacks to keep bananas fresh for over 10 days without a banana stand.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "우유 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 우유의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-06-22"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["우유","과학적으로 검증된 보관 가이드","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "미개봉 상태로 0~5도 냉장을 유지했다면 유통기한 경과 후 최대 45일까지는 맛과 냄새에 이상이 없을 시 섭취가 가능합니다."
 ---
 
-대부분의 가정에서 우유를 냉장고 문 쪽 포켓에 보관합니다. 오늘 StoreSelf에서는 미국 식품의약국(FDA)의 위생 가이드를 기반으로, 신선함을 극대화하는 올바른 우유 냉장 보관 규칙을 소개합니다.
+대부분의 가정에서 우유를 냉장고 문 쪽 포켓에 보관합니다. 오늘 FreshSnap에서는 미국 식품의약국(FDA)의 위생 가이드를 기반으로, 신선함을 극대화하는 올바른 우유 냉장 보관 규칙을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

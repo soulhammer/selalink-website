@@ -18,7 +18,7 @@ import {
   categories, 
   getLocalizedIngredients, 
   getCategoryCounts 
-} from '../../../../utils/storeself/indexHelper';
+} from '../../../../utils/freshsnap/indexHelper';
 
 const t = (key: string) => {
   return localTranslations[currentLang]?.[key] || localTranslations['en']?.[key] || key;
@@ -34,10 +34,10 @@ const categoryCounts = getCategoryCounts(ingredients);
   title={t('util.title')} 
   lang={currentLang}
   description={t('util.subtitle')}
-  canonicalUrl={`https://selalink.net/${currentLang}/apps/storeself/`}
+  canonicalUrl={`https://selalink.net/${currentLang}/apps/freshsnap/`}
   ogType="software"
   image="/assets/images/og/freshself.png"
-  appId="storeself"
+  appId="freshsnap"
 >
   <main class="max-w-[1200px] mx-auto px-4 pt-24 pb-8 md:pt-28 md:pb-16">
     <!-- Navigation / Header Breadcrumb -->
@@ -181,7 +181,7 @@ const categoryCounts = getCategoryCounts(ingredients);
         return (
           <div class="ingredient-item-wrapper relative group select-none col-span-1">
             <a 
-              href={`/${currentLang}/apps/storeself/${item.id}/`}
+              href={`/${currentLang}/apps/freshsnap/${item.id}/`}
               data-item-id={item.id}
               data-item-category={item.category}
               data-search-index={item.searchIndex}
@@ -335,7 +335,7 @@ const categoryCounts = getCategoryCounts(ingredients);
     </div>
   </main>
 
-  <script src="../../../../utils/storeselfIndex.ts"></script>
+  <script src="../../../../utils/freshsnapIndex.ts"></script>
 </Layout>
 
 <style>

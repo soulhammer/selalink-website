@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Banana fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Banana com base nas diretrizes oficiais de segurança."
 pubDate: "2026-03-05"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Banana","Guia de armazenamento comprovado cientificamente","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
 ---
 
-Você já deixou bananas na bancada e elas encheram de mosquinhas e ficaram pretas em um dia? Hoje, o StoreSelf ensina como mantê-las frescas por mais de 10 dias, sem precisar de suporte.
+Você já deixou bananas na bancada e elas encheram de mosquinhas e ficaram pretas em um dia? Hoje, o FreshSnap ensina como mantê-las frescas por mais de 10 dias, sem precisar de suporte.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "エゴマ油の鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくエゴマ油の最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-06-03"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["エゴマ油","科学的に検証された保存ガイド","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>"
 steps:

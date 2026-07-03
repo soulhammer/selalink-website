@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存三文鱼/鲑鱼：科学储存指南"
 description: "根据官方食品安全指南，了解三文鱼/鲑鱼的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-05-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["三文鱼/鲑鱼","科学验证的储存指南","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "用厨房纸巾彻底擦干水分，表面薄薄涂一层食用油或橄榄油，紧贴包裹保鲜膜冷冻，可以防止冷冻干燥（冻伤）和结霜。"
 ---
 
-您是否把鲜红的三文鱼随手在冰箱里放了两天以上？三文鱼水分含量高，极易滋生细菌。今天，StoreSelf为您分享基于美国食品药品监督管理局(FDA)指南的无腥味三文鱼密封与保存秘诀。
+您是否把鲜红的三文鱼随手在冰箱里放了两天以上？三文鱼水分含量高，极易滋生细菌。今天，FreshSnap为您分享基于美国食品药品监督管理局(FDA)指南的无腥味三文鱼密封与保存秘诀。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

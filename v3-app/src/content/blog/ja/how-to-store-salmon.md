@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "鮭の鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づく鮭の最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-05-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["鮭","科学的に検証された保存ガイド","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "水気をキッチンペーパーで完全に取り除き、表面に少量の食用油やオリーブオイルを塗ってから空気が入らないようラップで密閉して冷凍すると、冷凍焼けを防げます。"
 ---
 
-鮮やかなピンク色の新鮮なサーモンを、そのまま冷蔵庫に2日以上放置していませんか？サーモンは水分が多く、非常に雑菌が繁殖しやすい魚です。本日、StoreSelfでは生臭さを抑えて保存する密閉の秘訣をご紹介します。
+鮮やかなピンク色の新鮮なサーモンを、そのまま冷蔵庫に2日以上放置していませんか？サーモンは水分が多く、非常に雑菌が繁殖しやすい魚です。本日、FreshSnapでは生臭さを抑えて保存する密閉の秘訣をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

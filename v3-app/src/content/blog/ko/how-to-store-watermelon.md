@@ -2,10 +2,10 @@
 title: "수박 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 수박의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-06-09"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["수박","과학적으로 검증된 보관 가이드","fruit"]
 heroImage: "/images/blog/watermelon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
   - name: "비닐 랩 절대 금지 — 식중독균 증식 예방 ❌🍉"

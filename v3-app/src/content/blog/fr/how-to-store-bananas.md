@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Banane frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Banane selon les directives de sécurité officielles."
 pubDate: "2026-03-05"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Banane","Guide de conservation scientifiquement prouvé","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
 ---
 
-Avez-vous déjà laissé des bananes sur le comptoir pour les retrouver noires et envahies de moucherons dès le lendemain ? Aujourd'hui, StoreSelf vous montre comment les garder fraîches plus de 10 jours sans porte-banane.
+Avez-vous déjà laissé des bananes sur le comptoir pour les retrouver noires et envahies de moucherons dès le lendemain ? Aujourd'hui, FreshSnap vous montre comment les garder fraîches plus de 10 jours sans porte-banane.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

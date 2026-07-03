@@ -49,7 +49,7 @@ const { prevPost, nextPost } = getPrevNextPost(allPosts, post.id, lang || 'en');
 
 // 앱 타입별 테마 스타일링 바인딩
 const themeAccents: Record<string, string> = {
-  storeself: 'prose-a:text-emerald-600 dark:prose-a:text-emerald-400 hover:prose-a:text-emerald-700 dark:hover:prose-a:text-emerald-300 border-emerald-500/10 dark:border-emerald-500/20 bg-emerald-500/5',
+  freshsnap: 'prose-a:text-emerald-600 dark:prose-a:text-emerald-400 hover:prose-a:text-emerald-700 dark:hover:prose-a:text-emerald-300 border-emerald-500/10 dark:border-emerald-500/20 bg-emerald-500/5',
   freshself: 'prose-a:text-purple-600 dark:prose-a:text-purple-400 hover:prose-a:text-purple-700 dark:hover:prose-a:text-purple-300 border-purple-500/10 dark:border-purple-500/20 bg-purple-500/5',
   buildself: 'prose-a:text-indigo-600 dark:prose-a:text-indigo-400 hover:prose-a:text-indigo-700 dark:hover:prose-a:text-indigo-300 border-indigo-500/10 dark:border-indigo-500/20 bg-indigo-500/5',
   logself: 'prose-a:text-blue-600 dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 border-blue-500/10 dark:border-blue-500/20 bg-blue-500/5',
@@ -73,7 +73,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
     id="reading-progress" 
     class="fixed top-0 left-0 h-1 bg-gradient-to-r from-[var(--theme-accent,#10B981)] to-teal-400 z-50 transition-all duration-100" 
     style={`width: 0%; --theme-accent: ${
-      app === 'storeself' ? '#10B981' : 
+      app === 'freshsnap' ? '#10B981' : 
       app === 'freshself' ? '#A855F7' : 
       app === 'buildself' ? '#6366F1' : 
       app === 'logself' ? '#3B82F6' : '#14B8A6'
@@ -178,7 +178,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
             prose-li:before:content-["•"] prose-li:before:absolute prose-li:before:left-2 prose-li:before:text-[var(--theme-accent,#10B981)] prose-li:before:font-extrabold prose-li:before:text-lg
             prose-blockquote:border-l-4 prose-blockquote:border-[var(--theme-accent,#10B981)] prose-blockquote:bg-[var(--theme-accent,#10B981)]/5 prose-blockquote:py-5 prose-blockquote:px-7 prose-blockquote:rounded-r-3xl prose-blockquote:my-8 prose-blockquote:text-slate-700 dark:prose-blockquote:text-slate-300 prose-blockquote:not-italic`}
           style={`--theme-accent: ${
-            app === 'storeself' ? '#10B981' : 
+            app === 'freshsnap' ? '#10B981' : 
             app === 'freshself' ? '#A855F7' : 
             app === 'buildself' ? '#6366F1' : 
             app === 'logself' ? '#3B82F6' : '#14B8A6'
@@ -249,7 +249,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
     <!-- App Promotion CTA Banner -->
     <div class="pt-10 border-t border-slate-200 dark:border-white/10 space-y-4">
       <BlogAppCta lang={lang as string} app={app} />
-      {app === 'storeself' && (
+      {app === 'freshsnap' && (
         <BlogAppCta lang={lang as string} app="freshself" />
       )}
     </div>

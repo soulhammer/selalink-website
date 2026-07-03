@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Kacang-kacangan agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Kacang-kacangan berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-06-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Kacang-kacangan","Panduan Penyimpanan yang Terbukti Secara Ilmiah","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
 ---
 
-Apakah Anda membiarkan kacang-kacangan di meja makan dalam wadah transparan? Kacang kaya lemak tak jenuh, membuatnya cepat teroksidasi oleh udara dan cahaya, menimbulkan bau tengik dan racun. Hari ini, StoreSelf membagikan panduan penyimpanan kacang.
+Apakah Anda membiarkan kacang-kacangan di meja makan dalam wadah transparan? Kacang kaya lemak tak jenuh, membuatnya cepat teroksidasi oleh udara dan cahaya, menimbulkan bau tengik dan racun. Hari ini, FreshSnap membagikan panduan penyimpanan kacang.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

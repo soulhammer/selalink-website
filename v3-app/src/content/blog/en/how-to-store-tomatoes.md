@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Tomato Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Tomato based on official safety guidelines."
 pubDate: "2026-03-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Tomato","Scientifically Proven Storage Guide","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
 ---
 
-Did you know that storing tomatoes in the refrigerator ruins their unique flavor and aroma? Cold temperatures below 12°C break down tomato cell membranes, making the skin mushy and tasteless. Today, StoreSelf shares room temp ripening tips.
+Did you know that storing tomatoes in the refrigerator ruins their unique flavor and aroma? Cold temperatures below 12°C break down tomato cell membranes, making the skin mushy and tasteless. Today, FreshSnap shares room temp ripening tips.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

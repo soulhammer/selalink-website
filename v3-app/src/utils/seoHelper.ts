@@ -23,12 +23,12 @@ export function generateBaseSchema(options: SchemaOptions) {
   } = options;
 
   const isBuildSelf = pathname.includes('/apps/buildself') || appId === 'buildself';
-  const isFreshSelf = (pathname.includes('/apps/freshself') && !pathname.includes('/apps/storeself')) || appId === 'freshself';
-  const isStoreSelf = pathname.includes('/apps/storeself') || appId === 'storeself';
+  const isFreshSelf = (pathname.includes('/apps/freshself') && !pathname.includes('/apps/freshsnap')) || appId === 'freshself';
+  const isFreshSnap = pathname.includes('/apps/freshsnap') || appId === 'freshsnap';
   const isLogSelf = pathname.includes('/apps/logself') || appId === 'logself';
 
-  const appName = isBuildSelf ? "BuildSelf" : (isStoreSelf ? "StoreSelf" : (isFreshSelf ? "FreshSelf" : (isLogSelf ? "logSelf" : "SelaLink Studio")));
-  const appCategory = isStoreSelf ? "LifestyleApplication" : (isFreshSelf || isLogSelf ? "LifestyleApplication" : "HealthApplication");
+  const appName = isBuildSelf ? "BuildSelf" : (isFreshSnap ? "FreshSnap" : (isFreshSelf ? "FreshSelf" : (isLogSelf ? "logSelf" : "SelaLink Studio")));
+  const appCategory = isFreshSnap ? "LifestyleApplication" : (isFreshSelf || isLogSelf ? "LifestyleApplication" : "HealthApplication");
 
   const rawUrl = canonicalUrl || urlHref;
   const formattedUrl = rawUrl.endsWith('/') ? rawUrl : rawUrl + '/';
@@ -36,7 +36,7 @@ export function generateBaseSchema(options: SchemaOptions) {
   const sameAsLinks: string[] = [];
   if (isBuildSelf) {
     sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.buildself");
-  } else if (isFreshSelf || isStoreSelf) {
+  } else if (isFreshSelf || isFreshSnap) {
     sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.freshself");
   } else if (isLogSelf) {
     sameAsLinks.push("https://play.google.com/store/apps/details?id=com.selalink.logself");
@@ -49,8 +49,8 @@ export function generateBaseSchema(options: SchemaOptions) {
     alternateNames.push(t('app.buildself.title'), "빌드셀프", "BuildSelf");
   } else if (isFreshSelf) {
     alternateNames.push(t('app.freshself.title'), "프레시셀프", "프레쉬셀프", "FreshSelf");
-  } else if (isStoreSelf) {
-    alternateNames.push(t('app.storeself.title'), "스토어셀프", "StoreSelf");
+  } else if (isFreshSnap) {
+    alternateNames.push(t('app.freshsnap.title'), "프레시스냅", "FreshSnap");
   } else if (isLogSelf) {
     alternateNames.push(t('app.logself.title'), "로그셀프", "logSelf");
   }
@@ -60,8 +60,8 @@ export function generateBaseSchema(options: SchemaOptions) {
     appFeatures = (t('app.buildself.meta.features') || '').split(',');
   } else if (isFreshSelf) {
     appFeatures = (t('app.freshself.meta.features') || '').split(',');
-  } else if (isStoreSelf) {
-    appFeatures = (t('app.storeself.meta.features') || '').split(',');
+  } else if (isFreshSnap) {
+    appFeatures = (t('app.freshsnap.meta.features') || '').split(',');
   } else if (isLogSelf) {
     appFeatures = (t('app.logself.meta.features') || '').split(',');
   }
@@ -70,7 +70,7 @@ export function generateBaseSchema(options: SchemaOptions) {
   if (!pageKeywords) {
     if (isBuildSelf) pageKeywords = t('app.buildself.meta.keywords');
     else if (isFreshSelf) pageKeywords = t('app.freshself.meta.keywords');
-    else if (isStoreSelf) pageKeywords = t('app.storeself.meta.keywords');
+    else if (isFreshSnap) pageKeywords = t('app.freshsnap.meta.keywords');
     else if (isLogSelf) pageKeywords = t('app.logself.meta.keywords');
     else pageKeywords = t('meta.keywords');
   }

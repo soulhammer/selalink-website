@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Plátano fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Plátano según las directrices oficiales de seguridad."
 pubDate: "2026-03-05"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Plátano","Guía de almacenamiento científicamente probada","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & WHO</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
 ---
 
-¿Dejó plátanos en la barra y vio cómo se llenaban de mosquitas y se ponían negros en un solo día? Hoy, StoreSelf comparte trucos para mantenerlos frescos más de 10 días sin un soporte para plátanos.
+¿Dejó plátanos en la barra y vio cómo se llenaban de mosquitas y se ponían negros en un solo día? Hoy, FreshSnap comparte trucos para mantenerlos frescos más de 10 días sin un soporte para plátanos.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

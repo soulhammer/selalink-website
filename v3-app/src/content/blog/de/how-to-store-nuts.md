@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Nüsse frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Nüsse basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-06-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Nüsse","Wissenschaftlich geprüfter Lagerungsratgeber","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
 ---
 
-Lagern Sie Nüsse in transparenten Gläsern auf dem Esstisch? Nüsse sind reich an ungesättigten Fettsäuren und oxidieren an Luft und Licht schnell, was zu Ranzigkeit und Toxinen führt. Heute teilt StoreSelf Tipps.
+Lagern Sie Nüsse in transparenten Gläsern auf dem Esstisch? Nüsse sind reich an ungesättigten Fettsäuren und oxidieren an Luft und Licht schnell, was zu Ranzigkeit und Toxinen führt. Heute teilt FreshSnap Tipps.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

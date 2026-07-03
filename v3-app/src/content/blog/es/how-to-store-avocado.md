@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Aguacate fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Aguacate según las directrices oficiales de seguridad."
 pubDate: "2026-02-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Aguacate","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
 ---
 
-¿Alguna vez puso un aguacate verde en el refrigerador y terminó podrido y aguado? Hoy, StoreSelf comparte trucos de maduración y conservación verificados por la CAC y la USDA.
+¿Alguna vez puso un aguacate verde en el refrigerador y terminó podrido y aguado? Hoy, FreshSnap comparte trucos de maduración y conservación verificados por la CAC y la USDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

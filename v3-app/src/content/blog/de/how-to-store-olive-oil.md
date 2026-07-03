@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Speiseöl / Olivenöl frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Speiseöl / Olivenöl basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-05-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Speiseöl / Olivenöl","Wissenschaftlich geprüfter Lagerungsratgeber","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
 ---
 
-Haben Sie Olivenöl im Kühlschrank gelagert, um es länger frisch zu halten? Das Kühlen führt zur Bildung weißer Kristalle, was das feine Aroma und die gesunden Fette zerstört. Heute teilt StoreSelf Tipps zur Raumtemperaturlagerung.
+Haben Sie Olivenöl im Kühlschrank gelagert, um es länger frisch zu halten? Das Kühlen führt zur Bildung weißer Kristalle, was das feine Aroma und die gesunden Fette zerstört. Heute teilt FreshSnap Tipps zur Raumtemperaturlagerung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

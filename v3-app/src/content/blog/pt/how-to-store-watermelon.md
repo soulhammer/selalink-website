@@ -2,10 +2,10 @@
 title: "Como armazenar Melancia fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Melancia com base nas diretrizes oficiais de segurança."
 pubDate: "2026-06-09"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Melancia","Guia de armazenamento comprovado cientificamente","fruit"]
 heroImage: "/images/blog/watermelon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
   - name: "Nunca cubra com filme plástico direto — Evite infecção alimentar ❌🍉"
@@ -18,7 +18,7 @@ steps:
 formatVersion: 4
 ---
 
-Você sabia que cobrir a melancia que sobrou com filme plástico multiplica as bactérias na superfície em 3.000 vezes? Hoje, o StoreSelf compartilha técnicas seguras recomendadas pela KCA.
+Você sabia que cobrir a melancia que sobrou com filme plástico multiplica as bactérias na superfície em 3.000 vezes? Hoje, o FreshSnap compartilha técnicas seguras recomendadas pela KCA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

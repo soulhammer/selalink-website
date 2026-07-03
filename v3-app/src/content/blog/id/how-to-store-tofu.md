@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Tahu agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Tahu berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-04-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Tahu","Panduan Penyimpanan yang Terbukti Secara Ilmiah","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Yes, frozen tofu turns into a sponge-like structure with tiny pores. This unique texture absorbs soups and sauces incredibly well."
 ---
 
-Apakah Anda menuangkan air kemasan asli saat menyimpan sisa tahu? Air kemasan adalah tempat bakteri berkembang biak. Hari ini, StoreSelf membagikan panduan penyimpanan tahu agar awet 7 hari.
+Apakah Anda menuangkan air kemasan asli saat menyimpan sisa tahu? Air kemasan adalah tempat bakteri berkembang biak. Hari ini, FreshSnap membagikan panduan penyimpanan tahu agar awet 7 hari.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

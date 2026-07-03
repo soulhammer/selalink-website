@@ -1,6 +1,6 @@
 {
   "indexLocal": {
-    "util.title": "StoreSelf - 식재료 보관법 & 소비기한 계산기",
+    "util.title": "FreshSnap - 식재료 보관법 & 소비기한 계산기",
     "util.subtitle": "올바른 보관법으로 음식물 쓰레기를 줄이고, 남은 신선 기한(D-Day)을 즉석에서 계산해 보세요.",
     "util.search.placeholder": "식재료 이름을 검색해보세요 (예: 대파, 양파, 우유)",
     "util.category.all": "전체",
@@ -58,7 +58,7 @@
     "detail.storage.freezer": "냉동 보관",
     "detail.recommend.days": "권장 보관 기간",
     "detail.guide.title": "핵심 보관 가이드",
-    "detail.calc.title": "📅 StoreSelf 보관 만료일 계산기",
+    "detail.calc.title": "📅 FreshSnap 보관 만료일 계산기",
     "detail.calc.buy_date": "식재료 구매 날짜",
     "detail.calc.eat_until": "이 식재료의 권장 섭취 기한은 {date} 까지입니다.",
     "detail.calc.dday": "신선하게 먹을 수 있는 시간이 {dday} 남았습니다.",
@@ -76,7 +76,7 @@
     "detail.tips.recommended": "권장 보관법",
     "detail.recommended.badge": "추천 보관법",
     "detail.disclaimer": "* 본 가이드는 공인된 식품 안전 기관의 연구 자료를 바탕으로 정확한 정보를 제공하고자 최선을 다해 작성되었습니다. 다만, 개인 및 매장 보관 환경(냉장고 온도, 습도, 기기 사양 등)과 식재료의 최초 신선도에 따라 실제 보관 기간 및 결과에는 차이가 발생할 수 있습니다. SelaLink가 제공하는 정보는 일반적인 참조용이므로, 안전한 식생활을 위해 섭취 전 식재료의 냄새나 외관 등을 항상 직접 먼저 확인해 주시기 바랍니다. 이에 따라 본 가이드를 신뢰하여 행한 보관 결과에 대해서는 당사가 법적 책임을 지지 않음을 양해해 주시기 바랍니다.",
-    "detail.nudge.fresh": "StoreSelf에서 계산한 기한대로 {name}을 신선하게 관리해 보세요! FreshSelf 앱에서 원터치로 등록하고 가족이나 동료와 공유해 보실 수 있습니다.",
+    "detail.nudge.fresh": "FreshSnap에서 계산한 기한대로 {name}을 신선하게 관리해 보세요! FreshSelf 앱에서 원터치로 등록하고 가족이나 동료와 공유해 보실 수 있습니다.",
     "detail.nudge.processed": "{name} 유통기한을 매번 직접 치기 번거로우시죠? FreshSelf 앱에서 카메라/바코드로 1초 만에 스마트 등록해 보세요!",
     "detail.nudge.cta": "무료 다운로드",
     "detail.toast.title": "iOS 버전 개발 예정",

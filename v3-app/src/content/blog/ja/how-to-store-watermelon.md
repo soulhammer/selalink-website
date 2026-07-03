@@ -2,10 +2,10 @@
 title: "スイカの鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくスイカの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-06-09"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["スイカ","科学的に検証された保存ガイド","fruit"]
 heroImage: "/images/blog/watermelon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 authority: "<strong>韓国消費者院(KCA) & 食品医薬品安全処(MFDS)</strong>"
 steps:
   - name: "プラスチックラップでの保存は避ける — 食中毒菌繁殖の防止 ❌🍉"

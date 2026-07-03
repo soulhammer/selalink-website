@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存鸡蛋：科学储存指南"
 description: "根据官方食品安全指南，了解鸡蛋的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-04-15"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["鸡蛋","科学验证的储存指南","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "鸡蛋的圆头一端有被称为气室的空气囊。如果圆头朝下，蛋黄容易与气室接触导致变质，因此需要将圆头朝上、尖头朝下摆放。"
 ---
 
-为了保存新鲜的鸡蛋，您是否会将其用水清洗干净并存放在冰箱门旁的置蛋架上？这种方法会破坏鸡蛋的新鲜度并引发交叉污染。今天，StoreSelf为您分享经FDA认证的科学储存法。
+为了保存新鲜的鸡蛋，您是否会将其用水清洗干净并存放在冰箱门旁的置蛋架上？这种方法会破坏鸡蛋的新鲜度并引发交叉污染。今天，FreshSnap为您分享经FDA认证的科学储存法。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

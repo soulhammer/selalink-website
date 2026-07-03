@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Avocat frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Avocat selon les directives de sécurité officielles."
 pubDate: "2026-02-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Avocat","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
 ---
 
-Avez-vous déjà mis un avocat pas mûr au frigo pour le retrouver noirci et immangeable ? Aujourd'hui, StoreSelf partage des astuces de mûrissement et de conservation validées par la CAC et l'USDA.
+Avez-vous déjà mis un avocat pas mûr au frigo pour le retrouver noirci et immangeable ? Aujourd'hui, FreshSnap partage des astuces de mûrissement et de conservation validées par la CAC et l'USDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

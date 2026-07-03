@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Pilz frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Pilz basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-02-23"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Pilz","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
 ---
 
-Waschen Sie Pilze vor dem Kochen mit Wasser ab? Diese Gewohnheit beeinträchtigt Aroma und Textur und beschleunigt den Verderb. Heute teilt StoreSelf Tipps zur Lagerung und Reinigung.
+Waschen Sie Pilze vor dem Kochen mit Wasser ab? Diese Gewohnheit beeinträchtigt Aroma und Textur und beschleunigt den Verderb. Heute teilt FreshSnap Tipps zur Lagerung und Reinigung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

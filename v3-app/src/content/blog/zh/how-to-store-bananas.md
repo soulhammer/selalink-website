@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存香蕉：科学储存指南"
 description: "根据官方食品安全指南，了解香蕉的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-03-05"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["香蕉","科学验证的储存指南","fruit"]
 heroImage: "/images/blog/banana_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 世界卫生组织(WHO)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "香蕉的根部是释放乙烯气体最多的地方。用铝箔纸紧紧包住根部可以抑制气体释放，从而显著减缓香蕉变软的速度。"
 ---
 
-您是否曾把香蕉放在桌上，结果仅过了一天就引来果蝇，而且表皮变得漆黑？今天，StoreSelf为您分享无需香蕉架也能让香蕉保持新鲜10天以上的科学保存法。
+您是否曾把香蕉放在桌上，结果仅过了一天就引来果蝇，而且表皮变得漆黑？今天，FreshSnap为您分享无需香蕉架也能让香蕉保持新鲜10天以上的科学保存法。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

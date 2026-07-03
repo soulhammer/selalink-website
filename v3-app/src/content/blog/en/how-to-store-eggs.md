@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Egg Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Egg based on official safety guidelines."
 pubDate: "2026-04-15"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Egg","Scientifically Proven Storage Guide","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
 ---
 
-Do you wash fresh eggs in water and store them in the refrigerator door? This storage method can ruin egg freshness and trigger cross-contamination. Today, StoreSelf shares USDA-approved safe egg storage hacks.
+Do you wash fresh eggs in water and store them in the refrigerator door? This storage method can ruin egg freshness and trigger cross-contamination. Today, FreshSnap shares USDA-approved safe egg storage hacks.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Cogumelo fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Cogumelo com base nas diretrizes oficiais de segurança."
 pubDate: "2026-02-23"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Cogumelo","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
 ---
 
-Você lava os cogumelos com água antes de cozinhar? Esse hábito destrói o sabor e a textura e acelera o apodrecimento. Hoje, o StoreSelf compartilha técnicas corretas.
+Você lava os cogumelos com água antes de cozinhar? Esse hábito destrói o sabor e a textura e acelera o apodrecimento. Hoje, o FreshSnap compartilha técnicas corretas.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

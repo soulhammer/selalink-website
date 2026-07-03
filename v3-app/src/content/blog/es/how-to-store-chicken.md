@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Pollo fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Pollo según las directrices oficiales de seguridad."
 pubDate: "2026-04-06"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Pollo","Guía de almacenamiento científicamente probada","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Poultry has high moisture content and a delicate protein structure, making it highly susceptible to rapid bacterial growth. Keep chilled only for 2 days."
 ---
 
-Lavar el pollo crudo puede esparcir bacterias peligrosas por toda su cocina. Hoy, StoreSelf comparte trucos seguros de la CDC para el manejo y conservación de aves.
+Lavar el pollo crudo puede esparcir bacterias peligrosas por toda su cocina. Hoy, FreshSnap comparte trucos seguros de la CDC para el manejo y conservación de aves.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

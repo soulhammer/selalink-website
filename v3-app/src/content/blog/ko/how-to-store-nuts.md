@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "견과류 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 견과류의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-06-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["견과류","과학적으로 검증된 보관 가이드","etc"]
 heroImage: "/images/blog/nuts_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "아닙니다. 견과류의 지방은 열, 산소, 습도에 매우 취약해 실온 방치 시 빠르게 상합니다. 지퍼백에 밀봉해 냉장고나 장기 보관 시 냉동 보관하는 것이 필수입니다."
 ---
 
-건강을 위해 매일 먹는 아몬드, 호두를 상온 식탁 위에 투명 병에 담아 보관하셨나요? 오늘 StoreSelf에서는 미국 식품의약국(FDA)의 발암 곰팡이독소 차단 가이드라인에 맞춘 안전한 견과류 보관법을 전합니다.
+건강을 위해 매일 먹는 아몬드, 호두를 상온 식탁 위에 투명 병에 담아 보관하셨나요? 오늘 FreshSnap에서는 미국 식품의약국(FDA)의 발암 곰팡이독소 차단 가이드라인에 맞춘 안전한 견과류 보관법을 전합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

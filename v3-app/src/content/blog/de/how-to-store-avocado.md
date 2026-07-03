@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Avocado frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Avocado basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-02-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Avocado","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
 ---
 
-Haben Sie schon einmal eine unreife Avocado in den Kühlschrank gelegt, nur um festzustellen, dass sie holzig wurde und verdarb? Heute teilt StoreSelf Tipps zur Reifung und Lagerung basierend auf CAC- und USDA-Richtlinien.
+Haben Sie schon einmal eine unreife Avocado in den Kühlschrank gelegt, nur um festzustellen, dass sie holzig wurde und verdarb? Heute teilt FreshSnap Tipps zur Reifung und Lagerung basierend auf CAC- und USDA-Richtlinien.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

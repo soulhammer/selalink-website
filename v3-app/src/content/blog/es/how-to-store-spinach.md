@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Espinaca fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Espinaca según las directrices oficiales de seguridad."
 pubDate: "2026-02-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Espinaca","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
 ---
 
-¿Compró un manojo de espinacas, las dejó en la bolsa y tuvo que tirarlas en dos días porque se pudrieron? Hoy, StoreSelf comparte trucos de control de humedad para mantenerlas frescas una semana.
+¿Compró un manojo de espinacas, las dejó en la bolsa y tuvo que tirarlas en dos días porque se pudrieron? Hoy, FreshSnap comparte trucos de control de humedad para mantenerlas frescas una semana.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

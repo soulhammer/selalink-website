@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存土豆：科学储存指南"
 description: "根据官方食品安全指南，了解土豆的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-01-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["土豆","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "土豆在 4°C 以下的低温冷藏会导致其淀粉转化为糖分，虽然甜度增加，但在高温烹饪时会产生致癌物质丙烯酰胺。通风凉爽的常温避光处是最佳选择。"
 ---
 
-您是否把土豆存放在冰箱蔬菜室里？土豆在低于4℃的低温下保存会产生名为丙烯酰胺的有害物质，且糖分也会异常增加。今天，StoreSelf为您分享最健康、最扎实的土豆保鲜秘诀。
+您是否把土豆存放在冰箱蔬菜室里？土豆在低于4℃的低温下保存会产生名为丙烯酰胺的有害物质，且糖分也会异常增加。今天，FreshSnap为您分享最健康、最扎实的土豆保鲜秘诀。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Pomme de terre frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Pomme de terre selon les directives de sécurité officielles."
 pubDate: "2026-01-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Pomme de terre","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/potato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Cold temperatures below 4°C convert potato starch into sugar. When cooked at high heat, this sugar reacts to form acrylamide, a potential carcinogen."
 ---
 
-Avez-vous rangé vos pommes de terre dans le bac à légumes du frigo ? Les températures inférieures à 4 °C poussent la pomme de terre à produire de l'acrylamide, un cancérigène. Aujourd'hui, StoreSelf vous montre comment faire.
+Avez-vous rangé vos pommes de terre dans le bac à légumes du frigo ? Les températures inférieures à 4 °C poussent la pomme de terre à produire de l'acrylamide, un cancérigène. Aujourd'hui, FreshSnap vous montre comment faire.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

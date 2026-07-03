@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Épinards frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Épinards selon les directives de sécurité officielles."
 pubDate: "2026-02-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Épinards","Guide de conservation scientifiquement prouvé","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
 ---
 
-Avez-vous acheté des épinards, les avez laissés fermés dans leur sachet et jetés après deux jours car les feuilles avaient fondu ? Aujourd'hui, StoreSelf vous montre comment les garder frais une semaine.
+Avez-vous acheté des épinards, les avez laissés fermés dans leur sachet et jetés après deux jours car les feuilles avaient fondu ? Aujourd'hui, FreshSnap vous montre comment les garder frais une semaine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

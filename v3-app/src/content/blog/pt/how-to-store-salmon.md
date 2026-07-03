@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Salmão fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Salmão com base nas diretrizes oficiais de segurança."
 pubDate: "2026-05-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Salmão","Guia de armazenamento comprovado cientificamente","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
 ---
 
-Você deixou salmão fresco na geladeira por mais de dois dias? O salmão é muito úmido, facilitando as bactérias. Hoje, o StoreSelf compartilha técnicas de fechamento recomendadas pela FDA.
+Você deixou salmão fresco na geladeira por mais de dois dias? O salmão é muito úmido, facilitando as bactérias. Hoje, o FreshSnap compartilha técnicas de fechamento recomendadas pela FDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

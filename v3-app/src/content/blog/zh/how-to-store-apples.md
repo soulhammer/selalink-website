@@ -2,10 +2,10 @@
 title: "苹果脆甜能存一个月以上？隔离乙烯气体的苹果储存法 3 步走"
 description: "苹果很快变粉变软，或者弄坏了其他水果？为您介绍农业专家推荐的科学苹果储存法与控制乙烯气体的窍门。"
 pubDate: "2026-03-11"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["苹果储存法", "水果保鲜", "乙烯气体", "保鲜窍门", "生活妙招"]
 heroImage: "/images/blog/apple_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 faqs:
   - question: "碰伤的苹果可以用保鲜膜包裹保存吗？"
     answer: "不行。有伤痕或开始腐烂的苹果会释放出比普通苹果多出数十倍的乙烯气体，因此必须立即与其他苹果隔离并尽快食用。"
@@ -28,7 +28,7 @@ formatVersion: 4
 
 苹果虽然是全球最受欢迎的代表性水果之一，但由于它会释放一种加速周围食材腐烂的强力天然气体，因此在储存时需要格外注意。如果管理不当，不仅苹果自身的水分会流失导致口感变差，还会把冰箱里的其他蔬菜和水果全部毁掉。
 
-今天，StoreSelf 将为您介绍由农业及食品安全专家推荐的科学且管用的苹果保鲜度最大化 3 步储存秘诀。 🛡️
+今天，FreshSnap 将为您介绍由农业及食品安全专家推荐的科学且管用的苹果保鲜度最大化 3 步储存秘诀。 🛡️
 
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">

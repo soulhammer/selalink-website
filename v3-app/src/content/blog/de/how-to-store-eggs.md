@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Ei frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Ei basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-04-15"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Ei","Wissenschaftlich geprüfter Lagerungsratgeber","dairy"]
 heroImage: "/images/blog/egg_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
 ---
 
-Waschen Sie Eier ab und lagern sie in der Kühlschranktür? Diese Methode beeinträchtigt die Frische und führt zu Kreuzkontaminationen. Heute teilt StoreSelf offizielle USDA-Tipps.
+Waschen Sie Eier ab und lagern sie in der Kühlschranktür? Diese Methode beeinträchtigt die Frische und führt zu Kreuzkontaminationen. Heute teilt FreshSnap offizielle USDA-Tipps.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

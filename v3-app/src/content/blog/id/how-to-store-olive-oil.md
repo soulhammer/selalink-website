@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Minyak goreng / Zaitun agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Minyak goreng / Zaitun berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-05-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Minyak goreng / Zaitun","Panduan Penyimpanan yang Terbukti Secara Ilmiah","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
 ---
 
-Apakah Anda menyimpan minyak zaitun di kulkas agar lebih awet? Mendinginkannya akan membeku menjadi kristal putih, merusak aroma dan kandungan nutrisinya. Hari ini, StoreSelf membagikan panduan penyimpanan suhu ruang.
+Apakah Anda menyimpan minyak zaitun di kulkas agar lebih awet? Mendinginkannya akan membeku menjadi kristal putih, merusak aroma dan kandungan nutrisinya. Hari ini, FreshSnap membagikan panduan penyimpanan suhu ruang.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

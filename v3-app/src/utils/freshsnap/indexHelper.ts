@@ -1,4 +1,4 @@
-import { indexLocalTranslations, indexSourceTranslations } from '../../i18n/storeselfTranslations';
+import { indexLocalTranslations, indexSourceTranslations } from '../../i18n/freshsnapTranslations';
 
 export const localTranslations = indexLocalTranslations;
 export const sourceTranslations = indexSourceTranslations;

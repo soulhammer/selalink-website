@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存西红柿：科学储存指南"
 description: "根据官方食品安全指南，了解西红柿的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-03-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["西红柿","科学验证的储存指南","fruit"]
 heroImage: "/images/blog/tomato_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "不是的。熟透的红番茄在常温下过一天就会变质。熟番茄应包裹好放入冰箱冷藏蔬菜隔板中，并在 3 天内食用。"
 ---
 
-您知道吗？将西红柿（番茄）放进冰箱冷藏会破坏其特有的风味与香气。在低于12℃的低温下，番茄的细胞膜会被破坏，导致果皮变软、风味尽失。今天，StoreSelf为您分享常温熟化的科学保鲜窍门。
+您知道吗？将西红柿（番茄）放进冰箱冷藏会破坏其特有的风味与香气。在低于12℃的低温下，番茄的细胞膜会被破坏，导致果皮变软、风味尽失。今天，FreshSnap为您分享常温熟化的科学保鲜窍门。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

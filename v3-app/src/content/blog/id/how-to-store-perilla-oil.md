@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Menyimpan Minyak perila agar Tetap Segar: Panduan Penyimpanan Ilmiah"
 description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Minyak perila berdasarkan pedoman keselamatan resmi."
 pubDate: "2026-06-03"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Minyak perila","Panduan Penyimpanan yang Terbukti Secara Ilmiah","condiment"]
 heroImage: "/images/blog/perilla_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
 ---
 
-Apakah Anda menyimpan minyak perilla di kabinet dapur atau pantry suhu ruang seperti minyak zaitun? Minyak perilla mengandung lebih dari 60% asam lemak omega-3, membuatnya cepat teroksidasi di suhu ruang. Hari ini, StoreSelf membagikan panduan penyimpanan kulkas.
+Apakah Anda menyimpan minyak perilla di kabinet dapur atau pantry suhu ruang seperti minyak zaitun? Minyak perilla mengandung lebih dari 60% asam lemak omega-3, membuatnya cepat teroksidasi di suhu ruang. Hari ini, FreshSnap membagikan panduan penyimpanan kulkas.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Tofu frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Tofu basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-04-20"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Tofu","Wissenschaftlich geprüfter Lagerungsratgeber","dairy"]
 heroImage: "/images/blog/tofu_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Yes, frozen tofu turns into a sponge-like structure with tiny pores. This unique texture absorbs soups and sauces incredibly well."
 ---
 
-Haben Sie das Originalwasser beim Lagern von übrigem Tofu in den Behälter gegossen? Das Verpackungswasser begünstigt Keimwachstum. Heute teilt StoreSelf Tipps für 7 Tage Frische.
+Haben Sie das Originalwasser beim Lagern von übrigem Tofu in den Behälter gegossen? Das Verpackungswasser begünstigt Keimwachstum. Heute teilt FreshSnap Tipps für 7 Tage Frische.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

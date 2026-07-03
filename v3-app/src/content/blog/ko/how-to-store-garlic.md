@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "마늘 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 마늘의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-02-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["마늘","과학적으로 검증된 보관 가이드","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:

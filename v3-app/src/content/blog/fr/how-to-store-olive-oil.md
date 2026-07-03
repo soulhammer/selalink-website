@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment conserver Huile de cuisson / Olive frais : Guide scientifique de conservation"
 description: "Découvrez la température, les méthodes et la durée optimales de conservation pour Huile de cuisson / Olive selon les directives de sécurité officielles."
 pubDate: "2026-05-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Huile de cuisson / Olive","Guide de conservation scientifiquement prouvé","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Yes, olive oil oxidizes rapidly when exposed to light (UV rays). It is highly recommended to store it in a dark glass bottle, sealed tightly, and placed in a cool, shaded area."
 ---
 
-Avez-vous mis votre huile d'olive au frigo pour la garder fraîche ? Le froid la fige en cristaux blancs, détruisant son arôme fruité et ses nutriments. Aujourd'hui, StoreSelf vous montre les astuces de conservation à température ambiante.
+Avez-vous mis votre huile d'olive au frigo pour la garder fraîche ? Le froid la fige en cristaux blancs, détruisant son arôme fruité et ses nutriments. Aujourd'hui, FreshSnap vous montre les astuces de conservation à température ambiante.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

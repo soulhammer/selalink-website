@@ -2,10 +2,10 @@
 title: "Maçãs crocantes por mais de um mês? 3 passos para armazenar maçãs e isolar o etileno"
 description: "Suas maçãs estão ficando moles rapidamente ou estragando outras frutas? Descubra o método científico para armazenar maçãs e controlar o etileno recomendado por especialistas."
 pubDate: "2026-03-11"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Armazenar Maçãs", "Cuidado de Frutas", "Gás Etileno", "Dicas de Frescor", "Trucos de Cozinha"]
 heroImage: "/images/blog/apple_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 faqs:
   - question: "Posso embrulhar e guardar maçãs machucadas?"
     answer: "Não. Maçãs com cortes ou em decomposição emitem muito mais gás etileno, o que estragará rapidamente as maçãs vizinhas. Consuma-as imediatamente."
@@ -28,7 +28,7 @@ Você já comprou um saco de maçãs frescas, doces e crocantes apenas para enco
 
 Embora as maçãs sejam uma das frutas mais populares do mundo, elas exigem atenção especial ao serem armazenadas porque liberam um potente hormônio vegetal natural que acelera a decomposição dos produtos próximos. Sem os devidos cuidados, as maçãs perderão a umidade, ficarão farinhentas e estragarão outros vegetais e frutas em sua geladeira.
 
-Hoje na StoreSelf, apresentamos o guia de armazenamento de 3 etapas cientificamente comprovado para maximizar o frescor das maçãs, apoiado por especialistas em agricultura e segurança alimentar. 🛡️
+Hoje na FreshSnap, apresentamos o guia de armazenamento de 3 etapas cientificamente comprovado para maximizar o frescor das maçãs, apoiado por especialistas em agricultura e segurança alimentar. 🛡️
 
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">

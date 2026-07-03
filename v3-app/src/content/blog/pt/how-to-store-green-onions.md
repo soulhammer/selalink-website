@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Cebolinha fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Cebolinha com base nas diretrizes oficiais de segurança."
 pubDate: "2026-01-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Cebolinha","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Freezing immediately breaks cell walls, releasing sticky mucin. Let the chopped green onions air-dry for 10 minutes before freezing to keep them separate and slime-free."
 ---
 
-Você já comprou um maço de cebolinha, deixou na gaveta de vegetais e jogou metade fora porque ficou gosmenta em poucos dias? Hoje, o StoreSelf ensina como mantê-la crocante por mais de um mês.
+Você já comprou um maço de cebolinha, deixou na gaveta de vegetais e jogou metade fora porque ficou gosmenta em poucos dias? Hoje, o FreshSnap ensina como mantê-la crocante por mais de um mês.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

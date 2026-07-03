@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Spinat frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Spinat basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-02-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Spinat","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
 ---
 
-Haben Sie Spinat gekauft, im Plastikbeutel gelassen und nach zwei Tagen weggeworfen, weil die Blätter verfaulten? Heute teilt StoreSelf Tipps zur Feuchtigkeitskontrolle.
+Haben Sie Spinat gekauft, im Plastikbeutel gelassen und nach zwei Tagen weggeworfen, weil die Blätter verfaulten? Heute teilt FreshSnap Tipps zur Feuchtigkeitskontrolle.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

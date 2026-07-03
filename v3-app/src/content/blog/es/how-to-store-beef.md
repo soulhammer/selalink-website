@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Carne de res fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Carne de res según las directrices oficiales de seguridad."
 pubDate: "2026-03-28"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Carne de res","Guía de almacenamiento científicamente probada","meat"]
 heroImage: "/images/blog/beef_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Thaw it slowly in the refrigerator overnight. Avoid thawing at room temperature or in hot water, as it promotes rapid bacterial growth."
 ---
 
-¿Dejó carne de res roja en el refrigerador y vio cómo se ponía gris-marrón y olía agrio en solo dos días? Hoy, StoreSelf comparte trucos científicos para evitar la oxidación y mantener su frescura.
+¿Dejó carne de res roja en el refrigerador y vio cómo se ponía gris-marrón y olía agrio en solo dos días? Hoy, FreshSnap comparte trucos científicos para evitar la oxidación y mantener su frescura.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

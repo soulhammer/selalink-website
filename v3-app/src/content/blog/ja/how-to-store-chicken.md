@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "鶏肉の鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づく鶏肉の最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-04-06"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["鶏肉","科学的に検証された保存ガイド","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "鶏肉は水分含有量が高く、組織が柔らかいため、細菌の増殖が非常に早いです。冷蔵保存時は必ず2日以内に調理し、長期保存は冷凍してください。"
 ---
 
-生鶏肉を水で洗うと、食中毒菌がキッチンのいたる所に飛び散って危険です。本日、StoreSelfでは米国疾病予防管理センター（CDC）などの公式ガイドラインに基づく安全な鶏肉の保存方法をご紹介します。
+生鶏肉を水で洗うと、食中毒菌がキッチンのいたる所に飛び散って危険です。本日、FreshSnapでは米国疾病予防管理センター（CDC）などの公式ガイドラインに基づく安全な鶏肉の保存方法をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "キノコの鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくキノコの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-02-23"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["キノコ","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/mushroom_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA)</strong>"
 steps:

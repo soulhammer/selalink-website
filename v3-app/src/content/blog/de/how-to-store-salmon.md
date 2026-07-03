@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Lachs frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Lachs basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-05-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Lachs","Wissenschaftlich geprüfter Lagerungsratgeber","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
 ---
 
-Haben Sie frischen Lachs länger als zwei Tage im Kühlschrank gelagert? Lachs ist feucht, wodurch sich Bakterien schnell vermehren. Heute teilt StoreSelf offizielle FDA-Tipps zum geruchfreien Lagern.
+Haben Sie frischen Lachs länger als zwei Tage im Kühlschrank gelagert? Lachs ist feucht, wodurch sich Bakterien schnell vermehren. Heute teilt FreshSnap offizielle FDA-Tipps zum geruchfreien Lagern.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

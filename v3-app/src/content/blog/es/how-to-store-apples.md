@@ -2,10 +2,10 @@
 title: "¿Manzanas crujientes por más de un mes? 3 pasos para almacenar manzanas y aislar el etileno"
 description: "¿Sus manzanas se ablandan rápido o dañan otras frutas? Descubra el método científico para almacenar manzanas y controlar el etileno recomendado por expertos agrícolas."
 pubDate: "2026-03-11"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Conservar Manzanas", "Cuidado de Frutas", "Gas Etileno", "Consejos de Frescura", "Trucos de Cocina"]
 heroImage: "/images/blog/apple_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 faqs:
   - question: "¿Está bien envolver y almacenar manzanas golpeadas?"
     answer: "No. Las manzanas con golpes o en descomposición emiten decenas de veces más gas etileno, lo que dañará rápidamente a las manzanas vecinas. Consúmalas de inmediato."
@@ -28,7 +28,7 @@ formatVersion: 4
 
 Aunque las manzanas son una de las frutas más populares del mundo, requieren especial atención al almacenarse porque liberan una potente hormona vegetal natural que acelera la descomposición de los productos cercanos. Sin el cuidado adecuado, las manzanas perderán su humedad, se volverán harinosas y arruinarán otras verduras y frutas en su refrigerador.
 
-Hoy en StoreSelf, le presentamos la guía de almacenamiento de 3 pasos científicamente probada para maximizar la frescura de las manzanas, respaldada por expertos agrícolas y de seguridad alimentaria. 🛡️
+Hoy en FreshSnap, le presentamos la guía de almacenamiento de 3 pasos científicamente probada para maximizar la frescura de las manzanas, respaldada por expertos agrícolas y de seguridad alimentaria. 🛡️
 
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">

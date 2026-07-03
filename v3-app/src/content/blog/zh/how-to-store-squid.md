@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存乌贼/鱿鱼：科学储存指南"
 description: "根据官方食品安全指南，了解乌贼/鱿鱼的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-05-08"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["乌贼/鱿鱼","科学验证的储存指南","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国国立水产科学部(NIFS) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "乌贼在冷藏室缓慢解冻可减少水分流失，防止肉质变硬。解冻时洒少许料酒或味醂可以有效去除海鲜特有的腥味。"
 ---
 
-您是否曾将生鱿鱼连袋塞进冰箱，结果弄得整个厨房都是腥味且鱿鱼肉也变质了？鱿鱼内脏最先变质，因此必须进行处理和冷冻。今天，StoreSelf为您分享安全的鱿鱼处理与冷冻保鲜秘诀。
+您是否曾将生鱿鱼连袋塞进冰箱，结果弄得整个厨房都是腥味且鱿鱼肉也变质了？鱿鱼内脏最先变质，因此必须进行处理和冷冻。今天，FreshSnap为您分享安全的鱿鱼处理与冷冻保鲜秘诀。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

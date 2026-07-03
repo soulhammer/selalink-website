@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存菠菜：科学储存指南"
 description: "根据官方食品安全指南，了解菠菜的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-02-18"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["菠菜","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/spinach_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & EFSA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "菠菜如果平放，会为了直立而释放植物激素消耗养分，迅速变黄。像大葱一样竖立着进行冷藏保存更好。"
 ---
 
-您是否曾买了一把菠菜，直接扎在塑料袋里塞进蔬菜室，结果仅过两天叶子就发烂烂掉？今天，StoreSelf为您分享让菠菜保鲜一个星期以上的科学水分调控妙招。
+您是否曾买了一把菠菜，直接扎在塑料袋里塞进蔬菜室，结果仅过两天叶子就发烂烂掉？今天，FreshSnap为您分享让菠菜保鲜一个星期以上的科学水分调控妙招。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

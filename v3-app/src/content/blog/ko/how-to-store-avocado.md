@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "아보카도 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 아보카도의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-02-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["아보카도","과학적으로 검증된 보관 가이드","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "자르고 남은 아보카도는 씨를 남겨둔 채 표면에 레몬즙이나 올리브 오일을 얇게 바르고 밀폐 용기에 넣어 냉장 보관하면 갈변을 최소화할 수 있습니다."
 ---
 
-덜 익은 아보카도를 무심코 냉장고에 넣었다가 푸석푸석하게 썩어 버린 경험 있으시죠? 오늘 StoreSelf에서는 캘리포니아 아보카도 위원회(CAC)와 미국 농무부(USDA)의 가이드를 기반으로, 아보카도 후숙 타이밍과 완벽 보관 비법을 전합니다.
+덜 익은 아보카도를 무심코 냉장고에 넣었다가 푸석푸석하게 썩어 버린 경험 있으시죠? 오늘 FreshSnap에서는 캘리포니아 아보카도 위원회(CAC)와 미국 농무부(USDA)의 가이드를 기반으로, 아보카도 후숙 타이밍과 완벽 보관 비법을 전합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

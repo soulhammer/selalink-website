@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "ネギの鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくネギの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-01-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["ネギ","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "ネギを切ってすぐに冷凍すると細胞壁が壊れ、ネバネバした粘液が出やすくなります。カットした後、常温で表面の水分を10分ほど乾かしてから冷凍すると、パラパラに保存できます。"
 ---
 
-ネギを1束買ってきて冷蔵庫の野菜室にそのまま入れておき、数日後にヌルヌルになって半分以上捨てた経験はありませんか？本日、StoreSelfでは水分とガスをコントロールして、ネギを1ヶ月以上シャキシャキに保つコツをご紹介します。
+ネギを1束買ってきて冷蔵庫の野菜室にそのまま入れておき、数日後にヌルヌルになって半分以上捨てた経験はありませんか？本日、FreshSnapでは水分とガスをコントロールして、ネギを1ヶ月以上シャキシャキに保つコツをご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

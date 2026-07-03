@@ -101,9 +101,9 @@ document.addEventListener('DOMContentLoaded', () => {
       let matchesFilter = false;
       if (activeFilter === 'all') {
         matchesFilter = true;
-      } else if (activeFilter === 'storeself') {
-        // StoreSelf 필터는 freshself(식재료 보관 지원)도 포함시킴
-        matchesFilter = (app === 'storeself' || app === 'freshself');
+      } else if (activeFilter === 'freshsnap') {
+        // FreshSnap 필터는 freshself(식재료 보관 지원)도 포함시킴
+        matchesFilter = (app === 'freshsnap' || app === 'freshself');
       } else if (activeFilter === 'buildself') {
         matchesFilter = (app === 'buildself');
       } else if (activeFilter === 'logself') {
@@ -221,7 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
       // 활성화된 버튼 전용 테마 적용
       if (filter === 'all') {
         btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-slate-900 border-slate-900 text-white dark:bg-white dark:border-white dark:text-slate-900";
-      } else if (filter === 'storeself') {
+      } else if (filter === 'freshsnap') {
         btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-emerald-500 border-emerald-500 text-white dark:bg-emerald-600 dark:border-emerald-600";
       } else if (filter === 'buildself') {
         btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-indigo-500 border-indigo-500 text-white dark:bg-indigo-600 dark:border-indigo-600";

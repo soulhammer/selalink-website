@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Salmon Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Salmon based on official safety guidelines."
 pubDate: "2026-05-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Salmon","Scientifically Proven Storage Guide","seafood"]
 heroImage: "/images/blog/salmon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
 ---
 
-Did you leave fresh salmon in the fridge for over two days? Salmon has high moisture, allowing bacteria to multiply quickly. Today, StoreSelf shares FDA-approved scent-free salmon storage and sealing tips.
+Did you leave fresh salmon in the fridge for over two days? Salmon has high moisture, allowing bacteria to multiply quickly. Today, FreshSnap shares FDA-approved scent-free salmon storage and sealing tips.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

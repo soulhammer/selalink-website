@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "식빵 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 식빵의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-05-19"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["식빵","과학적으로 검증된 보관 가이드","grain"]
 heroImage: "/images/blog/bread_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & FSA</strong>"
 steps:

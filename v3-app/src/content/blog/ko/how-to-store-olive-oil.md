@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "식용유/올리브유 신선하게 보관하는 법: 과학적 보관 가이드"
 description: "공인된 안전 가이드라인에 따른 식용유/올리브유의 최적 보관 온도, 방식 및 보관 기한을 확인하세요."
 pubDate: "2026-05-24"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["식용유/올리브유","과학적으로 검증된 보관 가이드","condiment"]
 heroImage: "/images/blog/olive_oil_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "네, 올리브유는 빛(자외선)에 노출되면 산화가 빠르게 진행됩니다. 반드시 빛을 차단하는 어두운 유리병에 밀봉하여 서늘한 그늘에 두는 것이 좋습니다."
 ---
 
-고급 엑스트라 버진 올리브유를 아끼려고 냉장고에 보관하셨나요? 오늘 StoreSelf에서는 국제올리브협회(IOC) 지침에 근거하여 올리브유의 향과 영양을 지키는 올바른 실온 보관법을 소개합니다.
+고급 엑스트라 버진 올리브유를 아끼려고 냉장고에 보관하셨나요? 오늘 FreshSnap에서는 국제올리브협회(IOC) 지침에 근거하여 올리브유의 향과 영양을 지키는 올바른 실온 보관법을 소개합니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

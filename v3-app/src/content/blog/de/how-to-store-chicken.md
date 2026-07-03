@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Hähnchen frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Hähnchen basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-04-06"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Hähnchen","Wissenschaftlich geprüfter Lagerungsratgeber","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Poultry has high moisture content and a delicate protein structure, making it highly susceptible to rapid bacterial growth. Keep chilled only for 2 days."
 ---
 
-Das Waschen von rohem Hühnchen kann gefährliche Bakterien in der gesamten Küche verteilen. Heute teilt StoreSelf offizielle CDC-Tipps zur sicheren Handhabung und Lagerung.
+Das Waschen von rohem Hühnchen kann gefährliche Bakterien in der gesamten Küche verteilen. Heute teilt FreshSnap offizielle CDC-Tipps zur sicheren Handhabung und Lagerung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

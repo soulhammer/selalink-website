@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存洋葱：科学储存指南"
 description: "根据官方食品安全指南，了解洋葱的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-01-16"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["洋葱","科学验证的储存指南","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "剥皮后彻底擦干水分，用保鲜膜逐个包裹密封后冷藏保存。切断与空气的接触可保持新鲜 2 周以上。"
 ---
 
-您是否曾买了一整网袋洋葱，随手堆在阳台角落？不久后，洋葱重叠接触的地方就会开始变软腐烂，或是发芽。今天，StoreSelf为您分享调控水分与气体的科学洋葱保鲜储存法。
+您是否曾买了一整网袋洋葱，随手堆在阳台角落？不久后，洋葱重叠接触的地方就会开始变软腐烂，或是发芽。今天，FreshSnap为您分享调控水分与气体的科学洋葱保鲜储存法。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

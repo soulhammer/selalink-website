@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo almacenar Cebolla fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Cebolla según las directrices oficiales de seguridad."
 pubDate: "2026-01-16"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Cebolla","Guía de almacenamiento científicamente probada","vegetable"]
 heroImage: "/images/blog/onion_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Ensure they are completely dry, wrap each onion tightly in plastic wrap, and store them in the fridge. Blocking air contact keeps them fresh for over 2 weeks."
 ---
 
-¿Compró cebollas en red y las amontonó en la esquina del balcón? Pronto se pudren donde se tocan o brotan. Hoy, StoreSelf comparte trucos de humedad y gas para conservarlas más tiempo.
+¿Compró cebollas en red y las amontonó en la esquina del balcón? Pronto se pudren donde se tocan o brotan. Hoy, FreshSnap comparte trucos de humedad y gas para conservarlas más tiempo.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

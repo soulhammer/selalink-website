@@ -2,10 +2,10 @@
 title: "Cómo almacenar Sandía fresco: Guía científica de conservación"
 description: "Descubra la mejor temperatura, métodos y duración para conservar Sandía según las directrices oficiales de seguridad."
 pubDate: "2026-06-09"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Sandía","Guía de almacenamiento científicamente probada","fruit"]
 heroImage: "/images/blog/watermelon_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 authority: "<strong>KCA & MFDS</strong>"
 steps:
   - name: "Nunca cubra con film plástico directo — Evite intoxicaciones ❌🍉"
@@ -18,7 +18,7 @@ steps:
 formatVersion: 4
 ---
 
-¿Sabía que cubrir la sandía sobrante con film plástico multiplica las bacterias 3,000 veces en la superficie? Hoy, StoreSelf comparte trucos seguros aprobados por la KCA.
+¿Sabía que cubrir la sandía sobrante con film plástico multiplica las bacterias 3,000 veces en la superficie? Hoy, FreshSnap comparte trucos seguros aprobados por la KCA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

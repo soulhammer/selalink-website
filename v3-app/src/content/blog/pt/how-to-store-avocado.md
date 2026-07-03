@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como armazenar Abacate fresco: Guia científico de conservação"
 description: "Descubra la mejor temperatura, métodos y duración de armazenamento para Abacate com base nas diretrizes oficiais de segurança."
 pubDate: "2026-02-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Abacate","Guia de armazenamento comprovado cientificamente","vegetable"]
 heroImage: "/images/blog/avocado_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
 ---
 
-Você já colocou um abacate verde na geladeira e ele acabou estragando? Hoje, o StoreSelf compartilha técnicas de maturação e conservação recomendadas pela CAC e USDA.
+Você já colocou um abacate verde na geladeira e ele acabou estragando? Hoje, o FreshSnap compartilha técnicas de maturação e conservação recomendadas pela CAC e USDA.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

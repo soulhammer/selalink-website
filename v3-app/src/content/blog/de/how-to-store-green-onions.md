@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wie man Frühlingszwiebel frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
 description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Frühlingszwiebel basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-01-07"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Frühlingszwiebel","Wissenschaftlich geprüfter Lagerungsratgeber","vegetable"]
 heroImage: "/images/blog/green_onion_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Freezing immediately breaks cell walls, releasing sticky mucin. Let the chopped green onions air-dry for 10 minutes before freezing to keep them separate and slime-free."
 ---
 
-Haben Sie einen Bund Frühlingszwiebeln gekauft, in das Gemüsefach gelegt und die Hälfte weggeworfen, weil sie matschig wurden? Heute teilt StoreSelf Tipps, wie sie über einen Monat knackig bleiben.
+Haben Sie einen Bund Frühlingszwiebeln gekauft, in das Gemüsefach gelegt und die Hälfte weggeworfen, weil sie matschig wurden? Heute teilt FreshSnap Tipps, wie sie über einen Monat knackig bleiben.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "如何保鲜储存鸡肉：科学储存指南"
 description: "根据官方食品安全指南，了解鸡肉的最佳储存温度、方式和保鲜时长。"
 pubDate: "2026-04-06"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["鸡肉","科学验证的储存指南","meat"]
 heroImage: "/images/blog/chicken_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & CDC</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "鸡肉的水分含量高且蛋白质结构细嫩，非常容易滋生细菌。冷藏时请务必在 2 天内食用完毕，需长期保存的应立即冷冻。"
 ---
 
-用自来水清洗生鸡肉会导致危险的食物中毒细菌扩散到整个厨房。今天，StoreSelf为您分享经美国疾病控制与预防中心(CDC)认可的安全禽肉处理与储存指南。
+用自来水清洗生鸡肉会导致危险的食物中毒细菌扩散到整个厨房。今天，FreshSnap为您分享经美国疾病控制与预防中心(CDC)认可的安全禽肉处理与储存指南。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

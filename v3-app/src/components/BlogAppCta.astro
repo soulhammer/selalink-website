@@ -3,7 +3,7 @@ import { useTranslations, languages } from '../i18n/ui';
 
 interface Props {
   lang: string;
-  app: 'storeself' | 'freshself' | 'buildself' | 'logself' | 'general' | 'petself';
+  app: 'freshsnap' | 'freshself' | 'buildself' | 'logself' | 'general' | 'petself';
 }
 
 const { lang, app } = Astro.props;
@@ -12,11 +12,11 @@ const t = useTranslations(currentLang);
 
 // 앱별 브랜드 컬러 및 안내 텍스트 분기 (라이트/다크 양방향 대비 완전성 확보)
 const appDetails = {
-  storeself: {
-    title: t('cta.storeself.title'),
-    desc: t('cta.storeself.desc'),
-    btnText: t('cta.storeself.btn'),
-    link: `/${currentLang}/apps/storeself/`,
+  freshsnap: {
+    title: t('cta.freshsnap.title'),
+    desc: t('cta.freshsnap.desc'),
+    btnText: t('cta.freshsnap.btn'),
+    link: `/${currentLang}/apps/freshsnap/`,
     bgColor: 'bg-emerald-50/50 border-emerald-100 dark:bg-emerald-950/10 dark:border-emerald-500/20',
     btnBg: 'bg-emerald-600 hover:bg-emerald-700 text-white focus:ring-emerald-500/20',
     badgeText: t('cta.badge.free'),
@@ -77,7 +77,7 @@ const appDetails = {
 const activeDetails = appDetails[app] || appDetails.general;
 
 // 앱 테마에 어울리는 글로우 스타일 변수 주입
-const styleVars = app === 'storeself'
+const styleVars = app === 'freshsnap'
   ? '--theme-color-light: rgba(16, 185, 129, 0.05); --theme-color-border-hover: rgba(16, 185, 129, 0.3); --theme-color-glow: rgba(16, 185, 129, 0.15);'
   : app === 'freshself'
   ? '--theme-color-light: rgba(139, 92, 246, 0.05); --theme-color-border-hover: rgba(139, 92, 246, 0.3); --theme-color-glow: rgba(139, 92, 246, 0.15);'

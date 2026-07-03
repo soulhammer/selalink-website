@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "にんにくの鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づくにんにくの最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-02-02"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["にんにく","科学的に検証された保存ガイド","vegetable"]
 heroImage: "/images/blog/garlic_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "皮付きのにんにくは冷蔵庫に入れると、低温多湿な環境により芽が出たり腐敗しやすくなります。ネットに入れて通気性の良い涼しい常温の日陰で保存するのが最適です。"
 ---
 
-料理するたびに皮をむくのが面倒で、まとめてむいておいたにんにくが、数日で傷んで白いカビが生えてしまい捨てた経験はありませんか？本日、StoreSelfではにんにくの水気を完全にシャットアウトする保存方法をご紹介します。
+料理するたびに皮をむくのが面倒で、まとめてむいておいたにんにくが、数日で傷んで白いカビが生えてしまい捨てた経験はありませんか？本日、FreshSnapではにんにくの水気を完全にシャットアウトする保存方法をご紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

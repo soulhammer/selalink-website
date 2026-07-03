@@ -2,10 +2,10 @@
 title: "사과 아삭함을 한 달 넘게? 에틸렌 가스를 격리하는 사과 보관법 3단계"
 description: "사과가 금방 퍼석퍼석해지고 다른 과일을 망쳤나요? 미국 농무부(USDA)가 권장하는 과학적 사과 보관법과 에틸렌 가스 제어 꿀팁을 소개합니다."
 pubDate: "2026-03-11"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["사과 보관법", "과일 보관", "식재료 팁", "에틸렌 가스", "살림 꿀팁"]
 heroImage: "/images/blog/apple_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 authority: "<strong>농촌진흥청(RDA) 및 미국 농무부(USDA) 및 식품의약품안전처(MFDS)</strong>"
 faqs:
   - question: "상처 난 사과는 랩으로 감싸 보관하면 괜찮은가요?"
@@ -28,7 +28,7 @@ formatVersion: 4
 
 사과는 전 세계인에게 가장 사랑받는 대표적인 과일이지만, 다른 식재료를 빠르게 부패시키는 강력한 천연 가스를 뿜어내기 때문에 보관할 때 특별한 주의가 필요합니다. 제대로 관리하지 않으면 사과 자체의 수분이 날아가 맛이 없어질 뿐만 아니라, 냉장고 안의 다른 채소와 과일까지 전부 망가뜨릴 수 있습니다.
 
-오늘 StoreSelf에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 사과 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️
+오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 사과 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️
 
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">

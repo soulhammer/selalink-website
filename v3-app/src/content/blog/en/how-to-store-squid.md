@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "How to Store Squid Fresh: Scientific Storage Guide"
 description: "Learn the best storage temperature, methods, and duration for Squid based on official safety guidelines."
 pubDate: "2026-05-08"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["Squid","Scientifically Proven Storage Guide","seafood"]
 heroImage: "/images/blog/squid_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
@@ -23,7 +23,7 @@ faqs:
     answer: "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
 ---
 
-Have you ever put fresh squid in a plastic bag in the fridge only to have the kitchen smell fishy and the meat spoil? Squid guts decay first, making handling and freezing essential. Today, StoreSelf shares safe squid handling tips.
+Have you ever put fresh squid in a plastic bag in the fridge only to have the kitchen smell fishy and the meat spoil? Squid guts decay first, making handling and freezing essential. Today, FreshSnap shares safe squid handling tips.
 
 <div class="my-8 p-6 rounded-[2rem] border border-emerald-500/10 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

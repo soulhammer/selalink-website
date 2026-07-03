@@ -3,10 +3,10 @@ layout: "../../../layouts/BlogPostLayout.astro"
 title: "牛乳の鮮度を保つ保存方法：科学的保管ガイド"
 description: "公的安全基準に基づく牛乳の最適な保存温度、保管方法、保存期間について解説します。"
 pubDate: "2026-06-22"
-category: "StoreSelf"
+category: "FreshSnap"
 tags: ["牛乳","科学的に検証された保存ガイド","dairy"]
 heroImage: "/images/blog/milk_storage_hack.png"
-app: "storeself"
+app: "freshsnap"
 formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
 steps:

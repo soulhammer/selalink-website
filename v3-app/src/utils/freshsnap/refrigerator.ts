@@ -44,7 +44,7 @@ export function initRefrigeratorView(options: RefrigeratorOptions) {
       else if (method === 'freezer') numColorClass = 'text-blue-950 dark:text-blue-100';
 
       return `
-        <a href="/${currentLang}/apps/storeself/${id}/" 
+        <a href="/${currentLang}/apps/freshsnap/${id}/" 
            class="fridge-mini-card p-3 rounded-2xl bg-white/80 dark:bg-slate-900/60 border border-slate-200 dark:border-slate-800/80 shadow-sm flex items-center justify-between transition-all select-none hover:scale-102 hover:border-emerald-500/30"
            data-id="${id}" data-category="${category}" data-search-index="${searchIndex}">
           <div class="flex items-center gap-2">
