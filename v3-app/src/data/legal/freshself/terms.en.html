@@ -1,55 +1,34 @@
-<p>These terms and conditions apply to the FreshSelf mobile application (hereby referred to as "Application") developed by SelaLink (hereby referred to as "Service Provider") as a Freemium service.</p><br>
-    
-    <p>By downloading, creating an account via social login, or using the Application, you automatically agree to these terms. It is strongly advised that you read and understand these terms thoroughly prior to using the Application.</p><br>
-    
-    <strong>1. Intellectual Property & License</strong>
-    <p>All source code, designs, logos, trademarks, database rights, and other intellectual property rights related to the Application remain the exclusive property of the Service Provider. Users are granted a personal license to download and use the Application for non-commercial purposes on mobile devices. Any unauthorized copying or extracting the source code is strictly prohibited.</p><br>
-    
-    <strong>2. Account Security & Synchronization</strong>
-    <p>The Application utilizes Supabase cloud databases and social login (such as Kakao) for real-time synchronization. It is your sole responsibility to maintain the security of your social login account and your mobile device. Using jailbroken or rooted devices is highly discouraged.</p><br>
-    
-    <strong>3. Quota & Billing Policies (Freemium Limits)</strong>
-    <p>You can use the Application for free under the Basic Plan, or purchase a Premium Subscription to unlock extended features and higher quotas.</p>
-    <ul>
-        <li><strong>Basic Plan (Free):</strong> Tailored for users looking for casual personal or small space organization.
-            <ul>
-                <li>Limited to a maximum of **1 private Space** (sharing is not supported).</li>
-                <li>Limited to a maximum of **50 Items**.</li>
-                <li>Upon reaching the limit, you must permanently delete items in the [History] tab to free up slots.</li>
-            </ul>
-        </li>
-        <li><strong>Premium Plan (Paid Subscription):</strong> A recurring subscription designed for real-time sharing (family, colleagues, teammates) and large inventories.
-            <ul>
-                <li>**Pricing:** Starting at KRW 1,900/month or KRW 19,000/year equivalent.</li>
-                <li>**Benefits:** Unlocks unlimited spaces, unlimited sharing invitations, and unlimited items.</li>
-            </ul>
-        </li>
-        <li><strong>Fair Usage Policy (FUP):</strong> To ensure a stable and reliable experience for all users, this Service is governed by our Fair Usage Policy (FUP). If a user's usage patterns cause extraordinary database load, rate limiting may be applied.</li>
-        <li><strong>90-Day Automatic Cleanup:</strong> To optimize cloud storage, all consumed or discarded items and photos are permanently deleted from our database after 90 days, regardless of the user's tier.</li>
-        <li><strong>Actor-Based Billing Principle:</strong> Even if a free user joins a shared space owned by a Premium user, any items directly created by the free user count against their own 50-item Basic limit.</li>
-    </ul>
-    <br>
-    
-    <strong>4. Subscription Billing</strong>
-    <p>Premium Subscription fees are billed through the Google Play Store billing service. Subscriptions auto-renew unless canceled at least 24 hours prior to the end of the billing period.</p><br>
-    
-    <strong>5. Subscription Expiration Policy (Create-Only Lock)</strong>
-    <p>If a Premium subscription expires and the user reverts to the Basic Plan, we do not delete or restrict access to their existing data.
-        <ul>
-            <li><strong>Allowed Actions:</strong> View (R) existing spaces and items, update (U) item details/consumption status, and perform deletion (D).</li>
-            <li><strong>Blocked Actions:</strong> While your total item or space count exceeds the Basic limits, the creation of new items or spaces (C) will be blocked.</li>
-        </ul>
-    </p><br>
-    
-    <strong>6. Account Termination & Space Deletion (CASCADE)</strong>
-    <p>If a space owner deletes a space or permanently terminates their account, that space along with all member items and histories therein will be CASCADE-deleted from our cloud databases.</p><br>
-    
-    <strong>7. Limitation of Liability</strong>
-    <p>The Service Provider is not liable for temporary service interruptions due to lack of network connectivity, data plan exhaustion, or drained device batteries.</p><br>
-    
-    <strong>8. Changes to These Terms</strong>
-    <p>The Service Provider may periodically update these Terms and Conditions. Updates will be published directly on this page and will take effect immediately. Continued use of the Application signifies your agreement to the modified terms.</p>
-    <p>These terms and conditions are effective as of May 21, 2026.</p><br>
-    
-    <strong>9. Contact Us</strong>
-    <p>If you have any questions or suggestions regarding these Terms and Conditions, please contact us at support@selalink.net.</p>
+<p>These terms and conditions apply to the FreshSelf mobile application (hereby referred to as "Application") developed by SelaLink (hereby referred to as "Service Provider").</p><br>
+
+<p>By downloading or using the Application, you automatically agree to these terms. It is strongly advised that you read and understand these terms thoroughly prior to using the Application.</p><br>
+
+<strong>1. Intellectual Property & License</strong>
+<p>All source code, designs, logos, trademarks, database rights, and other intellectual property rights related to the Application remain the exclusive property of the Service Provider. Users are granted a personal, non-transferable license to download and use the Application for non-commercial purposes on mobile devices. Any unauthorized copying, modification, or extraction of the source code is strictly prohibited.</p><br>
+
+<strong>2. 100% Offline Local Architecture (No Cloud Sync)</strong>
+<p>The Application is a 100% local, offline-only utility designed for complete user privacy and lightweight processing. It does not require or support cloud database synchronization or social logins (such as Kakao). All data, including spaces and items you enter, is stored exclusively on your local device (via an SQLite database). Consequently, data backup and security are your sole responsibility, and data recovery is not possible if the device is lost, stolen, or reset.</p><br>
+
+<strong>3. Free Premium Policy & No Limits</strong>
+<p>All premium restrictions and subscription plans have been abolished. The Application is now 100% free with unlimited access to all features.</p>
+<ul>
+    <li>There are no limits on the number of Spaces you can create or the number of Items you can register, within the storage capacity of your physical device.</li>
+    <li>There are no in-app purchases, subscriptions, or external billing modules.</li>
+    <li>The previous 90-day automatic cloud database cleanup (garbage collection) policy has been permanently discontinued. Unless you manually trigger a permanent delete (Hard Delete) inside the Application (e.g., in the [History] tab), your data will remain on your device indefinitely.</li>
+</ul>
+<br>
+
+<strong>4. Local Media & Push Notifications</strong>
+<p>Ingredient images are compressed and stored locally in the Application's sandbox directory in WEBP format and are never uploaded to any external server. Expiration push notifications are scheduled and triggered locally on your device via the native OS notification system (expo-notifications).</p><br>
+
+<strong>5. Deletion of Data (CASCADE)</strong>
+<p>If you delete a Space within the Application, all items and related history records inside that Space, along with local media files, will be CASCADE-deleted immediately from your local device storage. This action is permanent and cannot be undone. Make sure to move any important items to another Space before deletion.</p><br>
+
+<strong>6. Limitation of Liability</strong>
+<p>The Application is fully operational without any active internet connection. The Service Provider is not liable for data loss, data corruption, or malfunctions caused by running the Application on unauthorized or modified OS environments (such as jailbroken or rooted devices). Furthermore, the Service Provider is not responsible for notification failures due to hardware faults, OS limits, or drained batteries.</p><br>
+
+<strong>7. Changes to These Terms</strong>
+<p>The Service Provider may periodically update these Terms and Conditions. Updates will be published directly on this page and will take effect immediately. Continued use of the Application signifies your agreement to the modified terms.</p>
+<p>These terms and conditions are effective as of July 4, 2026.</p><br>
+
+<strong>8. Contact Us</strong>
+<p>If you have any questions or suggestions regarding these Terms and Conditions, please contact us at support@selalink.net.</p>

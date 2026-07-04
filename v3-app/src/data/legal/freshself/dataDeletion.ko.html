@@ -1,57 +1,44 @@
-
       <div class="bg-white dark:bg-slate-900/40 border border-slate-200 dark:border-slate-800 rounded-2xl p-8 shadow-sm mb-12 transition-colors duration-500">
           <h2 class="text-xl font-semibold mb-6 flex items-center text-slate-900 dark:text-white">
               <span class="w-8 h-8 bg-blue-100 dark:bg-blue-900/40 text-blue-600 dark:text-blue-400 rounded-full flex items-center justify-center mr-3 text-sm font-bold">!</span>
-              How to Delete Your Data (삭제 및 회원 탈퇴 방법)
+              FreshSelf Data Policy (데이터 삭제 및 완전 소각 안내)
           </h2>
           <p class="text-stone-700 dark:text-stone-300 mb-6 leading-relaxed">
-              <strong>셀라링크(SelaLink)</strong>의 <strong>FreshSelf(프레시셀프)</strong> 앱 사용자는 다음 두 가지 방법 중 원하시는 경로로 계정 탈퇴 및 관련 데이터를 완전히 삭제할 수 있습니다.
+              <strong>FreshSelf(프레시셀프)</strong> 앱은 사용자의 프라이버시를 존중하며 <strong>100% 로컬 오프라인 방식</strong>으로 구동됩니다. 사용자가 등록한 식재료 정보 및 이미지 등은 당사 원격 서버에 전혀 전송 및 저장되지 않고 사용자의 기기 내부에만 귀속됩니다. 따라서 웹을 통한 수동 데이터 삭제 요청은 불필요하며 존재하지 않습니다.
           </p>
 
           <div class="space-y-6">
               <div class="border-l-4 border-emerald-500 pl-4 py-1">
-                  <h3 class="font-bold text-stone-900 dark:text-white">Method A: Immediate In-App Deletion (추천: 앱 내에서 즉시 탈퇴)</h3>
-                  <p class="text-sm text-stone-600 dark:text-stone-400 mt-1 leading-relaxed">
-                      앱 내의 <strong>[설정] > [프로필 편집]</strong> 화면 하단에서 <strong>'회원 탈퇴'</strong> 버튼을 클릭하면, 심사 없이 즉시 회원님의 모든 데이터와 Supabase 인증 데이터가 영구적으로 완전 파기(Hard Delete)됩니다.
-                  </p>
+                   <h3 class="font-bold text-stone-900 dark:text-white">방법 A: 앱 내에서 완전 초기화 및 소각</h3>
+                   <p class="text-sm text-stone-600 dark:text-stone-400 mt-1 leading-relaxed">
+                       앱 내부의 <strong>[설정]</strong> 화면에서 <strong>'앱 데이터 완전 초기화'</strong> 기능을 실행하면 기기 내부 SQLite 데이터베이스의 전 테이블 레코드와 로컬 WEBP 이미지 샌드박스가 즉시 완전 물리 삭제(소각)됩니다.
+                   </p>
               </div>
 
               <div class="border-l-4 border-blue-500 pl-4 py-1">
-                  <h3 class="font-bold text-stone-900 dark:text-white">Method B: Web Request via Email (웹에서 수동 삭제 요청)</h3>
-                  <p class="text-sm text-stone-600 dark:text-stone-400 mt-1 leading-relaxed">
-                      앱을 이미 휴대폰에서 삭제하여 실행할 수 없는 경우, 아래 이메일 주소로 수동 탈퇴 및 데이터 영구 파기 처리를 신청하실 수 있습니다.
-                  </p>
+                   <h3 class="font-bold text-stone-900 dark:text-white">방법 B: 애플리케이션 직접 삭제 (언인스톨)</h3>
+                   <p class="text-sm text-stone-600 dark:text-stone-400 mt-1 leading-relaxed">
+                       휴대폰 기기에서 애플리케이션을 직접 삭제(언인스톨)하시면, 모바일 OS 규격에 의해 기기 내 저장되어 있던 앱 샌드박스의 모든 로컬 정보와 데이터베이스가 즉시 영구 파기됩니다.
+                   </p>
               </div>
           </div>
-          
-          <div class="bg-stone-50 dark:bg-[#1C1917] rounded-xl p-6 border border-dashed border-stone-300 dark:border-stone-700 text-center transition-colors duration-500 mt-8">
-              <p class="text-sm text-stone-500 dark:text-stone-400 mb-1 uppercase tracking-wider font-semibold text-xs">Contact Email</p>
-              <a href="mailto:support@selalink.net" class="text-2xl font-bold text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 hover:underline transition-colors">support@selalink.net</a>
-          </div>
-          
-          <ul class="mt-6 space-y-3 text-sm text-stone-600 dark:text-stone-400">
-              <li class="flex items-start italic">
-                  <span class="mr-2 text-stone-400 dark:text-stone-500">•</span>
-                  <span>이메일 신청 시, 신원 확인을 위해 사용하셨던 소셜 로그인 이메일 주소, 닉네임 또는 카카오 회원번호를 기재해 주세요.</span>
-              </li>
-          </ul>
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div>
-              <h3 class="text-lg font-bold mb-3 border-b border-stone-200 dark:border-stone-800 pb-2 text-stone-900 dark:text-white transition-colors duration-500">삭제 및 파기 대상 데이터</h3>
+              <h3 class="text-lg font-bold mb-3 border-b border-stone-200 dark:border-stone-800 pb-2 text-stone-900 dark:text-white transition-colors duration-500">기기 내 삭제 및 소각 대상 데이터</h3>
               <ul class="list-disc list-outside ml-4 text-sm text-stone-600 dark:text-stone-400 space-y-1.5 marker:text-stone-400">
-                  <li>소셜 로그인 식별값 및 닉네임 (Supabase Profile)</li>
-                  <li>사용자가 생성한 공간(Space) 정보 및 공유 권한</li>
-                  <li>사용자가 등록한 아이템 상세 및 소비 내역</li>
-                  <li>기기 식별자 및 알림 푸시 토큰</li>
+                  <li>기기 내부 SQLite 데이터베이스 내 보관소(Space) 정보</li>
+                  <li>기기 내부 SQLite 데이터베이스 내 등록한 식재료(Item) 명세</li>
+                  <li>식재료 소비/폐기 기록 및 이력 데이터</li>
+                  <li>기기 로컬 샌드박스에 압축 보존되던 WEBP 이미지 일체</li>
               </ul>
           </div>
 
           <div>
-              <h3 class="text-lg font-bold mb-3 border-b border-stone-200 dark:border-stone-800 pb-2 text-stone-900 dark:text-white transition-colors duration-500">예외적 보관 정책</h3>
+              <h3 class="text-lg font-bold mb-3 border-b border-stone-200 dark:border-stone-800 pb-2 text-stone-900 dark:text-white transition-colors duration-500">원격 서버 정보 미보관 안내</h3>
               <p class="text-stone-700 dark:text-stone-300 text-sm mb-4 leading-relaxed">
-                  모든 데이터 파기는 요청일 기준 30일 이내에 완료됩니다. 단, 결제 이력 등 관련 법령에 따라 세무/회계상의 보관 의무가 있는 정보는 법정 기간 동안 별도 보관됩니다.
+                  본 애플리케이션은 100% 독립 기동되므로 당사 원격 데이터베이스에는 식별 가능한 귀하의 프로필이나 인벤토리 정보가 일절 수집 또는 보관되지 않습니다. 문의 사항이 있으신 경우 언제든지 support@selalink.net 으로 이메일을 보내 주시기 바랍니다.
               </p>
           </div>
       </div>
