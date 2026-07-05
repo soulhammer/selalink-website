@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } else if (lang === 'zh') {
           text = `共找到 ${matchCount} 篇符合条件的文章。`;
         } else if (lang === 'es') {
-          text = `Se encontraron ${matchCount} artigo(s) que coinciden con tus criterios.`;
+          text = `Se encontraron ${matchCount} artículo(s) que coinciden con tus criterios.`;
         } else if (lang === 'fr') {
           text = `Trouvé ${matchCount} article(s) correspondant à vos critères.`;
         } else if (lang === 'de') {

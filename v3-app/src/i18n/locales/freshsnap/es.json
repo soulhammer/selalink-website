@@ -39,7 +39,18 @@
     "util.card.freezer.recommended": "Recomendado",
     "util.trust.mobile": "🛡️ Ref. a estándares de 9 org. incluyendo la OMS/USDA"
   },
-  "indexSource": {},
+  "indexSource": {
+    "source.MFDS": "MFDS (Corea del Sur)",
+    "source.RDA": "RDA (Corea del Sur)",
+    "source.USDA": "USDA (EE. UU.)",
+    "source.FDA": "FDA (EE. UU.)",
+    "source.EFSA": "EFSA (Europa)",
+    "source.FSA": "FSA (Reino Unido)",
+    "source.CDC": "CDC (EE. UU.)",
+    "source.KCA": "KCA (Corea del Sur)",
+    "source.NIFS": "NIFS (Corea del Sur)",
+    "source.WHO": "OMS / FAO"
+  },
   "detailLocal": {
     "detail.storage.type": "Tipo de Conservación",
     "detail.storage.room": "A temperatura ambiente",
@@ -81,12 +92,24 @@
     "util.category.grain": "🍞 Granos/Pan",
     "util.category.condiment": "🥫 Condimento",
     "util.category.etc": "🍱 Otros",
-    "detail.calc.state": "Storage State",
-    "detail.calc.state.unopened": "Unopened 🔓",
-    "detail.calc.state.opened": "Opened 🔒",
-    "detail.calc.state.prepped": "Prepped 🔪"
+    "detail.calc.state": "Estado de conservación",
+    "detail.calc.state.unopened": "Sin abrir 🔓",
+    "detail.calc.state.opened": "Abierto 🔒",
+    "detail.calc.state.prepped": "Preparado 🔪"
   },
-  "detailSource": {},
+  "detailSource": {
+    "source.MFDS": "MFDS (Corea del Sur)",
+    "source.RDA": "RDA (Corea del Sur)",
+    "source.USDA": "USDA (EE. UU.)",
+    "source.FDA": "FDA (EE. UU.)",
+    "source.EFSA": "EFSA (Europa)",
+    "source.FSA": "FSA (Reino Unido)",
+    "source.CDC": "CDC (EE. UU.)",
+    "source.KCA": "KCA (Corea del Sur)",
+    "source.NIFS": "NIFS (Corea del Sur)",
+    "source.WHO": "OMS / FAO",
+    "detail.source.label": "Fuentes de información oficial"
+  },
   "detailDescTemplate": "Cómo conservar {name} correctamente. Obtenga consejos clave y períodos recomendados para {details} basados en referencias oficiales.",
   "detailMethodNames": {
     "fridge": "Nevera ({d} días)",

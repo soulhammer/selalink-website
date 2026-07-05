@@ -420,6 +420,32 @@ describe('UI 번역 사전(ui.ts) 구조 및 정합성 검증', () => {
       expect(hasKorean, `오류: UI [${locale}] 사전에 번역되지 않은 한글이 포함되어 있습니다.`).toBe(false);
     });
   });
+
+  locales.forEach((locale) => {
+    it(`[${locale.toUpperCase()}] UI 번역 사전(locales/${locale}.json)에 비어있는 번역(Empty String)이 없어야 한다`, () => {
+      const filePath = path.join(__dirname, `../src/i18n/locales/${locale}.json`);
+      const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+      const flattenData: Record<string, any> = {};
+      const flat = (obj: any, prefix = '') => {
+        Object.keys(obj).forEach(key => {
+          const val = obj[key];
+          const newKey = prefix ? `${prefix}.${key}` : key;
+          if (typeof val === 'object' && val !== null && !Array.isArray(val)) {
+            flat(val, newKey);
+          } else {
+            flattenData[newKey] = val;
+          }
+        });
+      };
+      flat(content);
+
+      const emptyKeys = Object.keys(flattenData).filter(k => {
+        const val = flattenData[k];
+        return val === null || val === undefined || (typeof val === 'string' && val.trim() === '');
+      });
+      expect(emptyKeys, `오류: UI [${locale}] 사전에 비어있는 번역 키가 존재합니다: ${emptyKeys.join(', ')}`).toEqual([]);
+    });
+  });
 });
 
 // ========================================================
@@ -435,9 +461,6 @@ describe('FreshSnap 번역 사전 구조 및 정합성 검증', () => {
     const keys: string[] = [];
     const flatten = (obj: any, prefix = '') => {
       Object.keys(obj).forEach(key => {
-        if (prefix === '' && (key === 'indexSource' || key === 'detailSource')) {
-          return;
-        }
         const val = obj[key];
         const newKey = prefix ? `${prefix}.${key}` : key;
         if (typeof val === 'object' && val !== null && !Array.isArray(val)) {
@@ -479,6 +502,29 @@ describe('FreshSnap 번역 사전 구조 및 정합성 검증', () => {
         expect(hasKorean, `오류: FreshSnap [${locale}] 사전에 번역되지 않은 한글이 포함되어 있습니다.`).toBe(false);
       });
     }
+
+    it(`[${locale.toUpperCase()}] FreshSnap 번역 값 중에 비어있는 번역(Empty String)이 없어야 한다`, () => {
+      const { content } = getFreshSnapKeys(locale);
+      const flattenData: Record<string, any> = {};
+      const flat = (obj: any, prefix = '') => {
+        Object.keys(obj).forEach(key => {
+          const val = obj[key];
+          const newKey = prefix ? `${prefix}.${key}` : key;
+          if (typeof val === 'object' && val !== null && !Array.isArray(val)) {
+            flat(val, newKey);
+          } else {
+            flattenData[newKey] = val;
+          }
+        });
+      };
+      flat(content);
+      
+      const emptyKeys = Object.keys(flattenData).filter(k => {
+        const val = flattenData[k];
+        return val === null || val === undefined || (typeof val === 'string' && val.trim() === '');
+      });
+      expect(emptyKeys, `오류: FreshSnap [${locale}] 사전에 비어있는 번역 키가 존재합니다: ${emptyKeys.join(', ')}`).toEqual([]);
+    });
   });
 });
 
@@ -529,6 +575,36 @@ describe('블로그 콘텐츠 전체 무결성 정밀 Linter 테스트', () => {
       const errMsg = err.stdout ? err.stdout.toString() : err.message;
       throw new Error(`[Linter 검증 실패]\n${errMsg}`);
     }
+  });
+});
+
+describe('blogIndex.ts 내의 다국어 리터럴 텍스트 검증', () => {
+  it('blogIndex.ts 소스 코드 내의 각 로케일별 검색 결과 텍스트가 정상적이어야 한다', () => {
+    const filePath = path.join(__dirname, '../src/utils/blogIndex.ts');
+    const content = fs.readFileSync(filePath, 'utf-8');
+    
+    // es 분기 내에 포르투갈어 단어인 artigo가 포함되지 않았고 스페인어 artículo가 적용되었는지 검사
+    const esSection = content.match(/lang === 'es'[\s\S]*?text = `([\s\S]*?)`/);
+    expect(esSection).not.toBeNull();
+    expect(esSection![1]).toContain('artículo');
+    expect(esSection![1]).not.toContain('artigo');
+    
+    const checkIsolation = (langKey: string, regexList: RegExp[]) => {
+      const escapedLang = langKey.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+      const match = content.match(new RegExp(`lang === '${escapedLang}'[\\s\\S]*?text = \`([\\s\\S]*?)\``));
+      expect(match, `lang === '${langKey}' 분기를 찾을 수 없습니다.`).not.toBeNull();
+      const text = match![1];
+      regexList.forEach(rx => {
+        expect(rx.test(text)).toBe(false);
+      });
+    };
+    
+    const hangulRegex = /[\uAC00-\uD7A3\u3130-\u318F]/;
+    const kanaRegex = /[\u3040-\u309F\u30A0-\u30FF]/;
+    
+    ['de', 'es', 'fr', 'pt', 'id'].forEach(l => {
+      checkIsolation(l, [hangulRegex, kanaRegex]);
+    });
   });
 });
 

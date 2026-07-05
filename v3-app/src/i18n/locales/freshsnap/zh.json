@@ -39,7 +39,18 @@
     "util.card.freezer.recommended": "冷冻推荐",
     "util.trust.mobile": "🛡️ 参考世界卫生组织(WHO)及食药处等9个机构标准"
   },
-  "indexSource": {},
+  "indexSource": {
+    "source.MFDS": "食品医药安全处 (MFDS)",
+    "source.RDA": "农村振兴厅 (RDA)",
+    "source.USDA": "美国农业部 (USDA)",
+    "source.FDA": "美国食品药品监督管理局 (FDA)",
+    "source.EFSA": "欧洲食品安全局 (EFSA)",
+    "source.FSA": "英国食品标准局 (FSA)",
+    "source.CDC": "美国疾病控制与预防中心 (CDC)",
+    "source.KCA": "韩国消费者院 (KCA)",
+    "source.NIFS": "国立水产科学院 (NIFS)",
+    "source.WHO": "世界卫生组织 (WHO/FAO)"
+  },
   "detailLocal": {
     "detail.storage.type": "保存方式",
     "detail.storage.room": "常温保存",

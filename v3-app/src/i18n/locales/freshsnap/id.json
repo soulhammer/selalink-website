@@ -39,7 +39,18 @@
     "util.card.freezer.recommended": "Direkomendasikan",
     "util.trust.mobile": "🛡️ Rujukan ke standar 9 lembaga termasuk WHO/USDA"
   },
-  "indexSource": {},
+  "indexSource": {
+    "source.MFDS": "MFDS (Corea Selatan)",
+    "source.RDA": "RDA (Corea Selatan)",
+    "source.USDA": "USDA (AS)",
+    "source.FDA": "FDA (AS)",
+    "source.EFSA": "EFSA (Eropa)",
+    "source.FSA": "FSA (Inggris)",
+    "source.CDC": "CDC (AS)",
+    "source.KCA": "KCA (Corea Selatan)",
+    "source.NIFS": "NIFS (Corea Selatan)",
+    "source.WHO": "WHO / FAO"
+  },
   "detailLocal": {
     "detail.storage.type": "Jenis Penyimpanan",
     "detail.storage.room": "Suhu Ruang",
@@ -81,12 +92,24 @@
     "util.category.grain": "🍞 Biji-bijian/Roti",
     "util.category.condiment": "🥫 Bumbu/Kalengan",
     "util.category.etc": "🍱 Lain-lain",
-    "detail.calc.state": "Storage State",
-    "detail.calc.state.unopened": "Unopened 🔓",
-    "detail.calc.state.opened": "Opened 🔒",
-    "detail.calc.state.prepped": "Prepped 🔪"
+    "detail.calc.state": "Kondisi Penyimpanan",
+    "detail.calc.state.unopened": "Belum dibuka 🔓",
+    "detail.calc.state.opened": "Sudah dibuka 🔒",
+    "detail.calc.state.prepped": "Sudah disiapkan 🔪"
   },
-  "detailSource": {},
+  "detailSource": {
+    "source.MFDS": "MFDS (Corea Selatan)",
+    "source.RDA": "RDA (Corea Selatan)",
+    "source.USDA": "USDA (AS)",
+    "source.FDA": "FDA (AS)",
+    "source.EFSA": "EFSA (Eropa)",
+    "source.FSA": "FSA (Inggris)",
+    "source.CDC": "CDC (AS)",
+    "source.KCA": "KCA (Corea Selatan)",
+    "source.NIFS": "NIFS (Corea Selatan)",
+    "source.WHO": "WHO / FAO",
+    "detail.source.label": "Sumber Informasi Resmi"
+  },
   "detailDescTemplate": "Cara menyimpan {name} dengan benar. Dapatkan tips penyimpanan utama dan periode yang direkomendasikan untuk {details} berdasarkan referensi resmi.",
   "detailMethodNames": {
     "fridge": "Kulkas ({d} hari)",

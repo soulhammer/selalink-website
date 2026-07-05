@@ -39,7 +39,18 @@
     "util.card.freezer.recommended": "Empfohlen",
     "util.trust.mobile": "🛡️ Ref. auf Standards von 9 Org. inkl. WHO/USDA"
   },
-  "indexSource": {},
+  "indexSource": {
+    "source.MFDS": "MFDS (Südkorea)",
+    "source.RDA": "RDA (Südkorea)",
+    "source.USDA": "USDA (USA)",
+    "source.FDA": "FDA (USA)",
+    "source.EFSA": "EFSA (Europa)",
+    "source.FSA": "FSA (Großbritannien)",
+    "source.CDC": "CDC (USA)",
+    "source.KCA": "KCA (Südkorea)",
+    "source.NIFS": "NIFS (Südkorea)",
+    "source.WHO": "WHO / FAO"
+  },
   "detailLocal": {
     "detail.storage.type": "Lagerungsmethode",
     "detail.storage.room": "Zimmertemperatur",
@@ -81,12 +92,24 @@
     "util.category.grain": "🍞 Getreide/Brot",
     "util.category.condiment": "🥫 Gewürze/Konserven",
     "util.category.etc": "🍱 Sonstiges",
-    "detail.calc.state": "Storage State",
-    "detail.calc.state.unopened": "Unopened 🔓",
-    "detail.calc.state.opened": "Opened 🔒",
-    "detail.calc.state.prepped": "Prepped 🔪"
+    "detail.calc.state": "Lagerzustand",
+    "detail.calc.state.unopened": "Ungeöffnet 🔓",
+    "detail.calc.state.opened": "Geöffnet 🔒",
+    "detail.calc.state.prepped": "Zubereitet 🔪"
   },
-  "detailSource": {},
+  "detailSource": {
+    "source.MFDS": "MFDS (Südkorea)",
+    "source.RDA": "RDA (Südkorea)",
+    "source.USDA": "USDA (USA)",
+    "source.FDA": "FDA (USA)",
+    "source.EFSA": "EFSA (Europa)",
+    "source.FSA": "FSA (Großbritannien)",
+    "source.CDC": "CDC (USA)",
+    "source.KCA": "KCA (Südkorea)",
+    "source.NIFS": "NIFS (Südkorea)",
+    "source.WHO": "WHO / FAO",
+    "detail.source.label": "Offizielle Referenzquelle"
+  },
   "detailDescTemplate": "Wie man {name} richtig lagert. Erhalten Sie wichtige Lagerungstipps und empfohlene Zeiträume für {details} basierend auf offiziellen Referenzen.",
   "detailMethodNames": {
     "fridge": "Kühlschrank ({d} Tage)",

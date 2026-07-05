@@ -27,8 +27,8 @@ export class FreshSnapCalendar {
   private monthNames: Record<string, string[]> = {
     ko: ['1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월'],
     en: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
-    ja: ['1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월'],
-    zh: ['1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월'],
+    ja: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
+    zh: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
     es: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'],
     fr: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'],
     de: ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'],
@@ -147,7 +147,8 @@ export class FreshSnapCalendar {
     const mList = this.monthNames[this.currentLang] || this.monthNames['en'];
     const monthStr = mList[this.displayedMonth];
     if (this.currentLang === 'ko' || this.currentLang === 'ja' || this.currentLang === 'zh') {
-      this.currentMonthYear.textContent = `${this.displayedYear}년 ${monthStr}`;
+      const yearSuffix = this.currentLang === 'ko' ? '년' : '年';
+      this.currentMonthYear.textContent = `${this.displayedYear}${yearSuffix} ${monthStr}`;
     } else {
       this.currentMonthYear.textContent = `${monthStr} ${this.displayedYear}`;
     }

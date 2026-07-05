@@ -39,7 +39,18 @@
     "util.card.freezer.recommended": "Recomendado",
     "util.trust.mobile": "🛡️ Ref. a padrões de 9 org. incluindo a OMS/USDA"
   },
-  "indexSource": {},
+  "indexSource": {
+    "source.MFDS": "MFDS (Coreia do Sul)",
+    "source.RDA": "RDA (Coreia do Sul)",
+    "source.USDA": "USDA (EUA)",
+    "source.FDA": "FDA (EUA)",
+    "source.EFSA": "EFSA (Europa)",
+    "source.FSA": "FSA (Reino Unido)",
+    "source.CDC": "CDC (EUA)",
+    "source.KCA": "KCA (Coreia do Sul)",
+    "source.NIFS": "NIFS (Coreia do Sul)",
+    "source.WHO": "OMS / FAO"
+  },
   "detailLocal": {
     "detail.storage.type": "Tipo de Armazenamento",
     "detail.storage.room": "Temperatura Ambiente",
@@ -81,12 +92,24 @@
     "util.category.grain": "🍞 Grãos/Padaria",
     "util.category.condiment": "🥫 Condimento/Enlatados",
     "util.category.etc": "Outros",
-    "detail.calc.state": "Storage State",
-    "detail.calc.state.unopened": "Unopened 🔓",
-    "detail.calc.state.opened": "Opened 🔒",
-    "detail.calc.state.prepped": "Prepped 🔪"
+    "detail.calc.state": "Estado de conservação",
+    "detail.calc.state.unopened": "Fechado 🔓",
+    "detail.calc.state.opened": "Aberto 🔒",
+    "detail.calc.state.prepped": "Preparado 🔪"
   },
-  "detailSource": {},
+  "detailSource": {
+    "source.MFDS": "MFDS (Coreia do Sul)",
+    "source.RDA": "RDA (Coreia do Sul)",
+    "source.USDA": "USDA (EUA)",
+    "source.FDA": "FDA (EUA)",
+    "source.EFSA": "EFSA (Europa)",
+    "source.FSA": "FSA (Reino Unido)",
+    "source.CDC": "CDC (EUA)",
+    "source.KCA": "KCA (Coreia do Sul)",
+    "source.NIFS": "NIFS (Coreia do Sul)",
+    "source.WHO": "OMS / FAO",
+    "detail.source.label": "Fontes de informação oficiais"
+  },
   "detailDescTemplate": "Como armazenar {name} corretamente. Obtenha dicas importantes e períodos recomendados para {details} com base em referências oficiais.",
   "detailMethodNames": {
     "fridge": "Geladeira ({d} dias)",
