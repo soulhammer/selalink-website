@@ -1,0 +1,75 @@
+---
+import { useTranslations, languages } from '../i18n/ui';
+
+interface Props {
+  type: 'self' | 'snap' | 'share';
+  lang: string;
+  className?: string;
+  showTooltip?: boolean;
+  tooltipPosition?: 'left' | 'right' | 'center';
+}
+
+const { type, lang, className = '', showTooltip = true, tooltipPosition = 'center' } = Astro.props;
+const currentLang = (lang in languages ? lang : 'en') as keyof typeof languages;
+const t = useTranslations(currentLang);
+
+// 타입별 뱃지 스타일 매핑
+const badgeStyles = {
+  self: {
+    bg: 'bg-purple-100/80 text-purple-800 border-purple-200/60 dark:bg-purple-500/20 dark:text-purple-300 dark:border-purple-500/30',
+    title: t('lineup.self.title') || 'SelaLink SELF',
+    desc: t('lineup.self.desc'),
+    icon: '🔒'
+  },
+  snap: {
+    bg: 'bg-emerald-100/80 text-emerald-800 border-emerald-200/60 dark:bg-emerald-500/20 dark:text-emerald-300 dark:border-emerald-500/30',
+    title: t('lineup.snap.title') || 'SelaLink SNAP',
+    desc: t('lineup.snap.desc'),
+    icon: '⚡'
+  },
+  share: {
+    bg: 'bg-amber-100/80 text-amber-800 border-amber-200/60 dark:bg-amber-500/20 dark:text-amber-300 dark:border-amber-500/30',
+    title: t('lineup.share.title') || 'SelaLink SHARE',
+    desc: t('lineup.share.desc'),
+    icon: '👥'
+  }
+};
+
+const config = badgeStyles[type];
+
+// 툴팁 위치별 클래스 분기
+const tooltipPositionStyles = {
+  center: {
+    container: 'left-1/2 -translate-x-1/2 origin-bottom',
+    arrow: 'left-1/2 -translate-x-1/2 border-t-white dark:border-t-slate-900'
+  },
+  left: {
+    container: 'left-[-12px] translate-x-0 origin-bottom-left',
+    arrow: 'left-[24px] translate-x-0 border-t-white dark:border-t-slate-900'
+  },
+  right: {
+    container: 'right-[-12px] left-auto translate-x-0 origin-bottom-right',
+    arrow: 'right-[24px] left-auto translate-x-0 border-t-white dark:border-t-slate-900'
+  }
+};
+
+const posConfig = tooltipPositionStyles[tooltipPosition] || tooltipPositionStyles.center;
+---
+
+<span class={`relative inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[10px] font-bold border tracking-wider uppercase backdrop-blur-sm cursor-help select-none group transition-all duration-300 hover:scale-105 ${config.bg} ${className}`}>
+  <span>{config.icon}</span>
+  <span>{config.title.split(' ').pop()}</span> <!-- SelaLink 단어 제외하고 SELF/SNAP/SHARE만 깔끔하게 노출 -->
+
+  {showTooltip && (
+    <span class={`hidden sm:block absolute bottom-full mb-2.5 w-64 max-w-[85vw] p-3 bg-white/95 dark:bg-slate-900/95 border border-slate-200/60 dark:border-slate-800/80 text-left rounded-xl shadow-xl pointer-events-none opacity-0 scale-95 translate-y-2 group-hover:opacity-100 group-hover:scale-100 group-hover:translate-y-0 transition-all duration-300 z-50 backdrop-blur-md ${posConfig.container}`}>
+      <span class="flex items-center gap-1.5 font-black text-xs text-slate-900 dark:text-white mb-1">
+        <span>{config.icon}</span>
+        <span>{config.title}</span>
+      </span>
+      <span class="block text-[11px] font-medium leading-relaxed text-slate-600 dark:text-slate-300">
+        {config.desc}
+      </span>
+      <span class={`absolute top-full -mt-1 border-4 border-transparent drop-shadow-[0_1px_0_rgba(0,0,0,0.1)] ${posConfig.arrow}`}></span>
+    </span>
+  )}
+</span>

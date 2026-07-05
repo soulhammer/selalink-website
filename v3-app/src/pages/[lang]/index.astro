@@ -4,6 +4,7 @@ import { useTranslations, languages } from '../../i18n/ui';
 import AppStories from '../../components/AppStories.astro';
 import { getCollection } from 'astro:content';
 import BlogPostCard from '../../components/BlogPostCard.astro';
+import LineupBadge from '../../components/LineupBadge.astro';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -12,7 +13,7 @@ export function getStaticPaths() {
 const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 const isKo = lang === 'ko';
-const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps/freshself/en';
+const imgBase = '/assets/images/apps/freshself/en';
 
 // 다국어 블로그 포스트 중에서 현재 언어 경로에 속하는 최신 3개 글 조회
 const allPosts = await getCollection('blog');
@@ -49,6 +50,65 @@ const langPosts = allPosts
 		<!-- Dynamic App Stories (Full Screen Shorts Hook) -->
 		<AppStories lang={lang} />
 
+		<!-- SelaLink Product Series Guide Section -->
+		<section class="my-16 md:my-24 relative z-20">
+			<div class="text-center md:text-left mb-10">
+				<h2 class="text-3xl md:text-4xl lg:text-5xl font-black tracking-tighter text-slate-900 dark:text-white mb-3">
+					SelaLink Product Series
+				</h2>
+				<p class="text-sm md:text-base text-slate-600 dark:text-slate-400 font-medium max-w-2xl">
+					{t('lineup.guide.subtitle')}
+				</p>
+			</div>
+			
+			<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+				<!-- SELF Card -->
+				<div class="relative overflow-hidden rounded-3xl p-6 sm:p-8 bg-white/40 dark:bg-slate-800/30 backdrop-blur-md border border-slate-200/50 dark:border-slate-800/60 shadow-sm transition-all duration-300 hover:shadow-lg flex flex-col justify-between">
+					<div>
+						<div class="mb-4">
+							<LineupBadge type="self" lang={lang} showTooltip={false} />
+						</div>
+						<h3 class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white mb-2">{t('lineup.self.title')}</h3>
+						<p class="text-sm text-slate-600 dark:text-slate-300 font-medium leading-relaxed">{t('lineup.self.desc')}</p>
+					</div>
+					<div class="mt-6 flex items-center gap-2">
+						<span class="w-2 h-2 rounded-full bg-purple-500 animate-pulse"></span>
+						<span class="text-[11px] font-bold text-purple-600 dark:text-purple-400 uppercase tracking-wider">{t('lineup.guide.active3')}</span>
+					</div>
+				</div>
+
+				<!-- SNAP Card -->
+				<div class="relative overflow-hidden rounded-3xl p-6 sm:p-8 bg-white/40 dark:bg-slate-800/30 backdrop-blur-md border border-slate-200/50 dark:border-slate-800/60 shadow-sm transition-all duration-300 hover:shadow-lg flex flex-col justify-between">
+					<div>
+						<div class="mb-4">
+							<LineupBadge type="snap" lang={lang} showTooltip={false} />
+						</div>
+						<h3 class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white mb-2">{t('lineup.snap.title')}</h3>
+						<p class="text-sm text-slate-600 dark:text-slate-300 font-medium leading-relaxed">{t('lineup.snap.desc')}</p>
+					</div>
+					<div class="mt-6 flex items-center gap-2">
+						<span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+						<span class="text-[11px] font-bold text-emerald-600 dark:text-emerald-400 uppercase tracking-wider">{t('lineup.guide.active1')}</span>
+					</div>
+				</div>
+
+				<!-- SHARE Card -->
+				<div class="relative overflow-hidden rounded-3xl p-6 sm:p-8 bg-white/40 dark:bg-slate-800/30 backdrop-blur-md border border-slate-200/50 dark:border-slate-800/60 shadow-sm transition-all duration-300 hover:shadow-lg flex flex-col justify-between opacity-80 hover:opacity-100 transition-opacity">
+					<div>
+						<div class="mb-4">
+							<LineupBadge type="share" lang={lang} showTooltip={false} />
+						</div>
+						<h3 class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white mb-2">{t('lineup.share.title')}</h3>
+						<p class="text-sm text-slate-600 dark:text-slate-300 font-medium leading-relaxed">{t('lineup.share.desc')}</p>
+					</div>
+					<div class="mt-6 flex items-center gap-2">
+						<span class="w-2 h-2 rounded-full bg-amber-500"></span>
+						<span class="text-[11px] font-bold text-amber-600 dark:text-amber-400 uppercase tracking-wider">{t('lineup.guide.upcoming')}</span>
+					</div>
+				</div>
+			</div>
+		</section>
+
 		<!-- Bento Grid 2.0 -->
 		<section class="grid grid-cols-1 md:grid-cols-2 gap-6 auto-rows-[230px] md:auto-rows-[350px]">
 			
@@ -70,20 +130,21 @@ const langPosts = allPosts
 						<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-2 text-slate-900 dark:text-white group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors drop-shadow-sm flex items-center gap-3">
 							<img src="/freshself/invite/icon.png" alt="FreshSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-purple-500/10" />
 							{t('app.freshself.title')}
+							<LineupBadge type="self" lang={lang} className="ml-2 scale-95 origin-left" tooltipPosition="right" />
 						</h2>
 						<p class="text-base sm:text-lg md:text-xl lg:text-2xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-xl">{t('app.freshself.desc')}</p>
 					</div>
 				</div>
 
 				<!-- Right Side 3D Spatial Mockup (Z-10) -->
-				<div class="absolute bottom-[-20px] lg:bottom-[-20px] right-[-15px] sm:right-[-15px] lg:right-[5%] w-[60%] sm:w-[40%] lg:w-[35%] h-[240px] sm:h-[260px] lg:h-[95%] z-10 pointer-events-none perspective-[1000px] flex items-end justify-end self-end lg:self-auto mt-8 lg:mt-0 opacity-50 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700">
+				<div class="absolute bottom-[-20px] lg:bottom-[-20px] right-[-15px] sm:right-[-15px] lg:right-[5%] w-[60%] sm:w-[40%] lg:w-[35%] h-[240px] sm:h-[260px] lg:h-[95%] z-10 pointer-events-none perspective-[1000px] flex items-end justify-end self-end lg:self-auto mt-8 lg:mt-0 opacity-15 sm:opacity-50 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700">
 					<!-- Back Left Image -->
 					<div class="absolute right-[35%] bottom-2 w-[55%] rounded-2xl p-1.5 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700">
-						<img src={`${imgBase}/4_freshself_phone_screen.jpg`} alt="FreshSelf Report Screen" class="w-full h-auto rounded-[1rem] object-cover" loading="lazy" />
+						<img src={`${imgBase}/5.jpg`} alt="FreshSelf Rescue Reports" class="w-full h-auto rounded-[1rem] object-cover" loading="lazy" />
 					</div>
 					<!-- Front Right Image -->
 					<div class="relative right-0 bottom-4 w-[60%] rounded-2xl p-2 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_50px_rgba(0,0,0,0.25)] transform rotate-[-4deg] group-hover:rotate-0 transition-all duration-700 z-20">
-						<img src={`${imgBase}/2_freshself_phone_screen.jpg`} alt="FreshSelf Main Screen" class="w-full h-auto rounded-[1rem] shadow-inner object-cover" loading="lazy" />
+						<img src={`${imgBase}/1.jpg`} alt="FreshSelf Storage List" class="w-full h-auto rounded-[1rem] shadow-inner object-cover" loading="lazy" />
 					</div>
 				</div>
 
@@ -117,12 +178,13 @@ const langPosts = allPosts
 					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors drop-shadow-sm flex items-center gap-3">
 						<img src="/images/logself/icon.png" alt="logSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-indigo-500/10" />
 						{t('app.logself.title')}
+						<LineupBadge type="self" lang={lang} className="ml-2 scale-95 origin-left" tooltipPosition="right" />
 					</h2>
 					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">{t('app.logself.desc')}</p>
 				</div>
                 
 				<!-- Spatial 3D Collage Mock (Z-10) - Matches FreshSelf/BuildSelf style -->
-				<div class="absolute bottom-[-10%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-10%] sm:right-[-8%] md:right-[-3%] lg:right-[0%] w-[60%] sm:w-[40%] md:w-[65%] lg:w-[60%] h-[55%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-45 group-hover:opacity-100 transition-all duration-700">
+				<div class="absolute bottom-[-10%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-10%] sm:right-[-8%] md:right-[-3%] lg:right-[0%] w-[60%] sm:w-[40%] md:w-[65%] lg:w-[60%] h-[55%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-15 sm:opacity-45 group-hover:opacity-100 transition-all duration-700">
 					<!-- Back Left Image (High transparency for readability) -->
 					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-3xl p-1.5 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-45 sm:opacity-55 dark:opacity-30">
 						<img src={`/images/logself/${isKo ? 'ko' : 'en'}/3.jpeg`} alt="logSelf Stats Screen" class="w-full h-auto rounded-[1rem] object-cover" loading="lazy" />
@@ -162,12 +224,13 @@ const langPosts = allPosts
 					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-3">
 						<img src="/images/buildself/icon.png" alt="BuildSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-emerald-500/10" />
 						{t('app.buildself.title')}
+						<LineupBadge type="self" lang={lang} className="ml-2 scale-95 origin-left" tooltipPosition="right" />
 					</h2>
 					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">{t('app.buildself.desc')}</p>
 				</div>
                 
 				<!-- Spatial 3D Collage (Active Grid - Z-10) -->
-				<div class="absolute bottom-[-10%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-10%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[60%] sm:w-[45%] md:w-[70%] lg:w-[65%] h-[55%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-45 group-hover:opacity-100 transition-all duration-700">
+				<div class="absolute bottom-[-10%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-10%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[60%] sm:w-[45%] md:w-[70%] lg:w-[65%] h-[55%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-15 sm:opacity-45 group-hover:opacity-100 transition-all duration-700">
 					<!-- Back Left Image -->
 					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-50 sm:opacity-60 dark:opacity-40">
 						<img src="/assets/images/apps/buildself/2_buildself_phone_screen.jpeg" alt="BuildSelf Habit List" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
@@ -215,6 +278,7 @@ const langPosts = allPosts
 							</svg>
 						</div>
 						{t('app.freshsnap.title')}
+						<LineupBadge type="snap" lang={lang} className="ml-2 scale-95 origin-left" tooltipPosition="right" />
 					</h2>
 					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">
 						{t('app.freshsnap.desc')}
@@ -222,7 +286,7 @@ const langPosts = allPosts
 				</div>
                 
 				<!-- Interactive Web Visual (Desktop Browser Mockup) -->
-				<div class="absolute bottom-[18%] sm:bottom-[-10%] md:bottom-[-12%] lg:bottom-[-15%] right-[-10%] sm:right-[-5%] md:right-[-2%] lg:right-[-2%] w-[85%] sm:w-[65%] md:w-[60%] lg:w-[58%] h-[55%] sm:h-[60%] md:h-[75%] lg:h-[80%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-45 group-hover:opacity-100 transition-all duration-700">
+				<div class="absolute bottom-[18%] sm:bottom-[-10%] md:bottom-[-12%] lg:bottom-[-15%] right-[-10%] sm:right-[-5%] md:right-[-2%] lg:right-[-2%] w-[85%] sm:w-[65%] md:w-[60%] lg:w-[58%] h-[55%] sm:h-[60%] md:h-[75%] lg:h-[80%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-15 sm:opacity-45 group-hover:opacity-100 transition-all duration-700">
 					<div class="relative w-[95%] sm:w-[90%] mb-4 sm:mb-8 mr-4 sm:mr-8 rounded-[1.2rem] lg:rounded-[1.8rem] p-1 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_50px_rgba(0,0,0,0.25)] dark:shadow-[0_20px_50px_rgba(0,0,0,0.6)] transform rotate-[-3deg] group-hover:rotate-0 group-hover:scale-[1.03] lg:group-hover:scale-105 group-hover:-translate-y-2 transition-all duration-700 z-20">
 						<img src={`/assets/images/apps/freshsnap/freshsnap_browser_${lang}.png`} alt="FreshSnap Web App" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] shadow-inner object-cover" loading="lazy" />
 					</div>

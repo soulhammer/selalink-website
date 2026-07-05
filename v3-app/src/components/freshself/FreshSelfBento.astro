@@ -8,8 +8,7 @@ interface Props {
 const { lang } = Astro.props;
 const t = useTranslations(lang as keyof typeof languages);
 
-const isKo = lang === 'ko';
-const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps/freshself/en';
+const imgBase = '/assets/images/apps/freshself/en';
 ---
 
 <!-- Bento Section 3: Smart Report Analysis -->
@@ -29,7 +28,7 @@ const imgBase = isKo ? '/assets/images/apps/freshself/ko' : '/assets/images/apps
 	  	class="relative w-[80%] max-w-[260px] rounded-[2rem] p-1.5 bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700 shadow-2xl app-card-interactive"
 	  	style="--theme-color-light: rgba(139, 92, 246, 0.1); --theme-color-glow: rgba(139, 92, 246, 0.25); --theme-color-border-hover: rgba(16, 185, 129, 0.3);"
 	  >
-		<img src={`${imgBase}/4_freshself_phone_screen.jpg`} alt="FreshSelf Analytics Chart" class="w-full h-auto rounded-[1.7rem] object-cover" loading="lazy" />
+		<img src={`${imgBase}/5.jpg`} alt="FreshSelf Rescue Reports" class="w-full h-auto rounded-[1.7rem] object-cover" loading="lazy" />
 	  </div>
 	</div>
 	

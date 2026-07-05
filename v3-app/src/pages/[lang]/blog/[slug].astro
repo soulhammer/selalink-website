@@ -247,10 +247,19 @@ const activeAccent = themeAccents[app] || themeAccents.general;
     </div>
 
     <!-- App Promotion CTA Banner -->
-    <div class="pt-10 border-t border-slate-200 dark:border-white/10 space-y-4">
-      <BlogAppCta lang={lang as string} app={app} />
-      {app === 'freshsnap' && (
-        <BlogAppCta lang={lang as string} app="freshself" />
+    <div class="pt-10 border-t border-slate-200 dark:border-white/10">
+      {(app === 'freshsnap' || app === 'freshself') ? (
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <BlogAppCta lang={lang as string} app="freshsnap" />
+          <BlogAppCta lang={lang as string} app="freshself" />
+        </div>
+      ) : app === 'petself' ? (
+        /* 반려동물 케어는 앱 연동에서 제외 */
+        null
+      ) : (
+        <div class="space-y-4">
+          <BlogAppCta lang={lang as string} app={app} />
+        </div>
       )}
     </div>
   </main>
