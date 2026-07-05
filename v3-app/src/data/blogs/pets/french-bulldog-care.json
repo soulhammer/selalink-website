@@ -1,0 +1,512 @@
+{
+  "french-bulldog-care": {
+    "pubDate": "2026-01-19",
+    "updatedDate": "2026-01-19",
+    "locales": {
+      "en": {
+        "title": "French Bulldog Respiratory & Heat Care: A 3-Step Routine for Airway and Joint Protection",
+        "description": "French Bulldogs are prone to respiratory distress and heatstroke due to their flat faces. Learn a 3-step routine to manage wrinkles, breathing, and joints.",
+        "authority": "American Kennel Club (AKC) French Bulldog Care Guide",
+        "profile": {
+          "breed": "French Bulldog",
+          "lifespan": "10 ~ 14 years",
+          "sleep_pattern": "12 ~ 14 hours (deep sleep with snoring)",
+          "temperament": "Playful, Smart, Adaptable, Easygoing"
+        },
+        "intro": "With their signature bat ears and squished faces, French Bulldogs are beloved companions. However, their unique anatomy (brachycephalic) makes them highly vulnerable to airway obstruction and heatstroke. They also tend to suffer from spinal issues if they jump too much. Today, PetSelf decodes French Bulldog respiratory signals and introduces a 3-step daily care routine.",
+        "whyTitle": "French Bulldog Body Language: Flat-Face Breathing and Heat Signals",
+        "whyDesc": "When struggling with airflow, French Bulldogs make **'stridor or stertor'** sounds. If they extend their neck and pant excessively, it is a warning sign of severe heat distress. Understanding these signals is vital to prevent fatal heatstroke.",
+        "body_signals": [
+          {
+            "name": "Stridor & Stertor",
+            "meaning": "Wheezing or snoring sounds indicating narrowed airways and potential breathing difficulty.",
+            "response": "Move the dog to a cool, shaded area immediately and offer fresh water to lower their body temperature."
+          },
+          {
+            "name": "Neck-Extended Panting",
+            "meaning": "Panting heavily while stretching the neck to maximize oxygen intake under high heat.",
+            "response": "Ensure the indoor temperature is set to 22-24°C using air conditioning and encourage quiet rest."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Facial Wrinkle Cleaning and Moisture Removal",
+            "text": "Gently clean facial wrinkles with a damp, alcohol-free wipe and dry thoroughly to prevent yeast and bacterial skin infections."
+          },
+          {
+            "name": "Afternoon: Heatstroke Avoidance & 15-Minute Flat Walk",
+            "text": "Avoid walking during hot hours. Take short 15-minute walks on flat ground early in the morning or late evening."
+          },
+          {
+            "name": "Evening: Raised Feeding and Post-Meal Breathing Check",
+            "text": "Serve food in a raised bowl to prevent choking and vomiting, and observe their breathing for 30 minutes after eating."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why do French Bulldogs easily overheat?",
+            "answer": "Their short muzzles and narrow airways make it difficult to cool down through panting. This structure traps body heat, leading to rapid heatstroke."
+          },
+          {
+            "question": "How often should I clean a French Bulldog's wrinkles?",
+            "answer": "Daily cleaning is recommended. Moisture and dirt easily accumulate in the folds, which can cause painful skin infections if not dried properly."
+          }
+        ],
+        "tags": [
+          "French Bulldog",
+          "Brachycephalic",
+          "Heatstroke",
+          "Wrinkle Care"
+        ]
+      },
+      "ko": {
+        "title": "프렌치 불독 호흡기 및 체온 관리: 기도와 관절 보호를 위한 3단계 루틴",
+        "description": "프렌치 불독은 납작한 얼굴 구조 때문에 호흡 곤란과 열사병에 취약합니다. 얼굴 주름 관리, 호흡 진단, 관절 보호를 위한 3단계 데일리 루틴을 알아봅니다.",
+        "authority": "American Kennel Club (AKC) 프렌치 불독 가이드라인",
+        "profile": {
+          "breed": "프렌치 불독",
+          "lifespan": "10 ~ 14년",
+          "sleep_pattern": "12 ~ 14시간 (코골이를 동반한 깊은 수면)",
+          "temperament": "장난스러움, 영리함, 적응력 높음, 유순함"
+        },
+        "intro": "매력적인 박쥐 귀와 납작하고 귀여운 얼굴을 가진 프렌치 불독은 전 세계적으로 사랑받는 동반자입니다. 그러나 납작한 얼굴(단두종) 구조는 기도 협착과 호흡 곤란, 급격한 체온 상승을 유발하기 쉽습니다. 또한 척추 구조상 높은 곳에서 뛰면 디스크 위험이 큽니다. 오늘 PetSelf에서는 프렌치 불독의 호흡기 바디 랭귀지를 진단하고, 건강을 지키는 3단계 케어 루틴을 소개합니다.",
+        "whyTitle": "프렌치 불독의 바디 랭귀지: 단두종 호흡 소리와 열사병 신호",
+        "whyDesc": "프렌치 불독이 숨을 쉴 때 **'쌕쌕거림이나 코구멍 좁아진 소리(Stridor/Stertor)'**를 낸다면 기도가 좁아졌다는 신호입니다. 목을 길게 빼고 혀를 늘어뜨려 호흡하는 **'목 늘린 가쁜 숨'**은 급격한 체온 상승을 나타내므로 즉각 조치가 필요합니다.",
+        "body_signals": [
+          {
+            "name": "거친 숨소리 및 쌕쌕거림",
+            "meaning": "공기 통로가 협착되어 산소 공급이 어렵고 체온이 오르고 있는 흥분 상태입니다.",
+            "response": "즉시 에어컨이 가동되는 실내나 시원한 그늘로 이동시키고 시원한 물을 공급해 안정을 취하게 합니다."
+          },
+          {
+            "name": "목 늘린 가쁜 숨",
+            "meaning": "체온이 과도하게 상승하여 뇌와 몸의 열을 식히기 위해 필사적으로 산소를 들이마시는 경고 신호입니다.",
+            "response": "실내 온도를 22-24°C로 조절하고 차가운 젖은 수건으로 발바닥과 몸을 닦아 체온을 내려줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 얼굴 주름 이물질 닦기 및 습기 건조",
+            "text": "눈 밑과 코 주변 주름 사이에 낀 이물질을 자극 없는 티슈로 닦아내고 완전히 건조해 주름 곰팡이병을 예방합니다."
+          },
+          {
+            "name": "낮: 열사병 회피형 15분 평지 가벼운 산책",
+            "text": "더운 시간대를 피해 이른 아침이나 늦은 저녁에만 15분 내외로 경사 없는 평지에서 가볍게 걸으며 에너지를 순환시킵니다."
+          },
+          {
+            "name": "저녁: 식기 높이 조절 및 급식 후 호흡 관찰",
+            "text": "음식을 급하게 먹다 삼키기 쉬우므로 식기를 목 높이로 올려 배치하고, 급식 후 30분간은 호흡이 가쁘지 않은지 관찰합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "프렌치 불독은 왜 더위에 약한가요?",
+            "answer": "단두종은 비강이 짧아 땀 배출이 불가능한 개가 호흡(Panting)을 통해 열을 식히는 효율이 극도로 떨어집니다. 이 때문에 더운 환경에서 쉽게 체온이 올라 열사병에 걸립니다."
+          },
+          {
+            "question": "얼굴 주름은 얼마나 자주 관리해야 하나요?",
+            "answer": "매일 최소 1회 이상 청결을 유지해야 합니다. 밥을 먹거나 눈물을 흘릴 때 주름 사이에 습기가 고여 피부염과 악취가 발생하기 쉽기 때문입니다."
+          }
+        ],
+        "tags": [
+          "프렌치 불독",
+          "단두종",
+          "열사병 예방",
+          "주름 관리"
+        ]
+      },
+      "ja": {
+        "title": "フレンチ・ブルドッグの呼吸器＆体温ケア：気道と関節を守る日常の3段階ルーティン",
+        "description": "フレンチ・ブルドッグは鼻が低いため呼吸困難や熱中症にかかりやすい犬種です。シワのケア、呼吸の観察、関節保護の3段階ケアを紹介します。",
+        "authority": "AKCフレンチ・ブルドッグ飼育ガイドライン",
+        "profile": {
+          "breed": "フレンチ・ブルドッグ",
+          "lifespan": "10 ~ 14年",
+          "sleep_pattern": "12 ~ 14時間（いびきを伴う深い睡眠）",
+          "temperament": "遊び好き、賢い、適応力がある、穏やか"
+        },
+        "intro": "愛らしい大きな耳と鼻ペチャな顔立ちで人気のフレンチ・ブルドッグですが、その特有の骨格（短頭種）ゆえに呼吸器の閉塞や熱中症にかかりやすいリスクを持っています。また、飛び跳ねる動作は脊椎に負担を与えます。本日、PetSelfでは呼吸困難や体温上昇のシグナルを見分け、健康を守る3段階ケアを解説します。",
+        "whyTitle": "フレンチ・ブルドッグのボディランゲージ：短頭種特有の呼吸音と熱中症シグナル",
+        "whyDesc": "呼吸の通り道が狭くなると**「喘鳴やいびきのような音（Stridor/Stertor）」**が発生します。また、首を伸ばして激しくハアハア息をする**「首を伸ばした呼吸」**は、深刻な熱中症の初期症状です。これらのサインを見逃さないことが生命を守る上で不可欠です。",
+        "body_signals": [
+          {
+            "name": "呼吸の喘鳴（Stridor）",
+            "meaning": "空気の通り道が極めて狭くなり、酸素不足や体温上昇を引き起こしている興奮状態です。",
+            "response": "すぐにエアコンの効いた涼しい室内か日陰へ移動させ、水分補給を行って安静にさせます。"
+          },
+          {
+            "name": "首を伸ばした激しい呼吸",
+            "meaning": "体に熱がこもり、効率よく熱を逃がすために首を伸ばして必死に呼吸している危険な状態です。",
+            "response": "室温を22〜24℃に調整し、冷たく湿らせたタオルでパッドや全身を優しく拭いて体温を下げます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：顔のシワの清掃と湿気の除去",
+            "text": "顔のシワの間にたまった汚れをアルコールフリーのウェットティッシュで拭き取り、雑菌繁殖を防ぐためにしっかり乾燥させます。"
+          },
+          {
+            "name": "昼：熱中症を避けた15分の平地散歩",
+            "text": "暑い時間帯を完全に避け、早朝や深夜に15分程度の短い平地散歩にとどめ、急激な体温上昇を防ぎます。"
+          },
+          {
+            "name": "夜：食事台の高さ調整と食後の呼吸観察",
+            "text": "喉に詰まらせるのを防ぐため、食器の位置を少し高くし、食後30分間は荒い呼吸をしていないか注意深く観察します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "なぜフレンチ・ブルドッグは暑さに弱いのですか？",
+            "answer": "鼻腔が非常に短いため、呼吸（パンティング）による体温調節の効率が著しく悪く、体内に熱がこもりやすいためです。"
+          },
+          {
+            "question": "シワの掃除はどのくらいの頻度ですべきですか？",
+            "answer": "毎日少なくとも1回は行う必要があります。シワの間に水気やフードカスがたまると、皮膚炎や悪臭の原因になります。"
+          }
+        ],
+        "tags": [
+          "フレンチブルドッグ",
+          "短頭種",
+          "熱中症予防",
+          "シワのケア"
+        ]
+      },
+      "zh": {
+        "title": "法国斗牛犬的呼吸与体温护理：保护气道与关节的日常3步惯例",
+        "description": "法斗因其短头颅骨骼特征，极易发生呼吸困难和中暑。了解一套管理面部皱纹、呼吸和关节的日常3步护理惯例。",
+        "authority": "AKC 法国斗牛犬官方护理指南",
+        "profile": {
+          "breed": "法国斗牛犬",
+          "lifespan": "10 ~ 14年",
+          "sleep_pattern": "12 ~ 14小时（常伴有呼噜声的深睡）",
+          "temperament": "爱玩、聪明、适应力强、温和"
+        },
+        "intro": "拥有独特蝙蝠耳和扁平脸部的法国斗牛犬极具魅力。但这种独特的结构（短头颅犬）使其极易发生气道阻塞和中暑，频繁跳跃也容易导致脊椎问题。今天，PetSelf 帮助您读懂法斗的呼吸异常信号，并分享保护气道与关节健康的3步日常护理惯例。",
+        "whyTitle": "法国斗牛犬的身体语言：短头呼吸音与中暑警示",
+        "whyDesc": "当气流不畅时，法斗会发出**“喉喘鸣或鼾音（Stridor/Stertor）”**。如果它们伸长脖子大口喘气，则是身体极度过热的警告。捕捉这些信号对预防致命性中暑至关重要。",
+        "body_signals": [
+          {
+            "name": "喉喘鸣与鼾音",
+            "meaning": "呼吸道狭窄、空气流通受阻及体温开始升高的表现。",
+            "response": "立即带它到开启空调的凉爽室内或阴凉处，提供新鲜饮用水以降低体温。"
+          },
+          {
+            "name": "伸颈张口喘气",
+            "meaning": "体内热量堆积严重，竭力伸长脖子以吸入氧气进行散热的危险状态。",
+            "response": "将室内温度调低至22-24°C，用湿凉毛巾擦拭其足垫和身体，使其安静休息。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：清理面部皱纹并保持干燥",
+            "text": "用无酒精湿巾轻轻擦拭面部皱纹折叠处，并用纸巾彻底吸干水分，防止真菌性皮炎。"
+          },
+          {
+            "name": "中午：避开高温时段的15分钟平地散步",
+            "text": "严格避免在烈日下活动，选择清晨或深夜进行15分钟左右的平地散步，防范热射病。"
+          },
+          {
+            "name": "晚上：垫高餐盘并观察食后呼吸",
+            "text": "将食盆垫高以减少吞咽阻力，进食后30分钟内仔细观察其呼吸是否平稳。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么法国斗牛犬极易中暑？",
+            "answer": "由于鼻腔极短，法斗无法像长嘴犬那样通过高效呼气来散热，热量极易在体内积聚导致中暑。"
+          },
+          {
+            "question": "法斗的皱纹需要每天清理吗？",
+            "answer": "是的，建议每天至少清理一次。皱纹深处容易积聚眼泪、唾液和尘垢，若不及时干燥会引发严重的褶皱皮炎。"
+          }
+        ],
+        "tags": [
+          "法国斗牛犬",
+          "短头犬",
+          "防中暑",
+          "皱纹护理"
+        ]
+      },
+      "es": {
+        "title": "Cuidado Respiratorio y Térmico del Bulldog Francés: Rutina de 3 pasos para proteger vías aéreas y articulaciones",
+        "description": "Los Bulldogs Franceses son propensos al distrés respiratorio y al golpe de calor debido a su cara chata. Aprenda una rutina para cuidar sus arrugas, respiración y articulaciones.",
+        "authority": "Directrices oficiales de cuidado del Bulldog Francés de AKC",
+        "profile": {
+          "breed": "Bulldog Francés",
+          "lifespan": "10 ~ 14 años",
+          "sleep_pattern": "12 ~ 14 horas (sueño profundo con ronquidos)",
+          "temperament": "Juguetón, Inteligente, Adaptable, Paciente"
+        },
+        "intro": "Con sus orejas de murciélago y su hocico chato, el Bulldog Francés es un compañero entrañable. Sin embargo, su anatomía braquicefálica lo hace vulnerable a obstrucciones respiratorias y golpes de calor. Además, saltar en exceso daña su columna. Hoy, PetSelf descifra sus señales respiratorias y presenta una rutina diaria de cuidado en 3 pasos.",
+        "whyTitle": "Lenguaje corporal del Bulldog Francés: sonidos de respiración braquicéfala y calor",
+        "whyDesc": "Cuando falta el aire, el Bulldog Francés emite un **'estridor o estertor'**. Si estira el cuello para jadear, es señal de que su temperatura corporal es peligrosamente alta. Detectar esto a tiempo evita golpes de calor fatales.",
+        "body_signals": [
+          {
+            "name": "Estridor y Estertor",
+            "meaning": "Silbidos o ronquidos causados por vías aéreas estrechas e incremento de la temperatura.",
+            "response": "Traslade al perro de inmediato a una zona fresca con aire acondicionado y ofrezca agua fresca."
+          },
+          {
+            "name": "Jadeo con Cuello Estirado",
+            "meaning": "Señal de alerta donde el perro estira el cuello para captar más oxígeno ante un calor excesivo.",
+            "response": "Fije la temperatura del hogar a 22-24°C y use paños húmedos y fríos en sus almohadillas."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Limpieza y secado de arrugas faciales",
+            "text": "Limpie los pliegues de la cara con una toallita libre de alcohol y séquelos muy bien para evitar infecciones por hongos."
+          },
+          {
+            "name": "Tarde: Paseo ligero de 15 minutos en plano sin calor",
+            "text": "Evite las horas más cálidas. Realice caminatas de 15 minutos en terrenos planos temprano por la mañana o de noche."
+          },
+          {
+            "name": "Noche: Alimentación elevada y monitoreo posprandial",
+            "text": "Coloque el tazón elevado para evitar atragantamientos y observe su respiración durante 30 minutos tras comer."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué el Bulldog Francés sufre tanto con el calor?",
+            "answer": "Su hocico corto reduce la superficie del canal respiratorio, limitando la refrigeración por jadeo. El calor corporal se acumula muy rápido."
+          },
+          {
+            "question": "¿Con qué frecuencia debo limpiar los pliegues de su cara?",
+            "answer": "Se aconseja hacerlo a diario. La humedad de lágrimas o comida atrapada en las arrugas causa dermatitis e irritaciones molestas."
+          }
+        ],
+        "tags": [
+          "Bulldog Frances",
+          "Braquicefalo",
+          "Golpe de Calor",
+          "Cuidado de Arrugas"
+        ]
+      },
+      "fr": {
+        "title": "Soin Respiratoire et Thermique du Bouledogue Français : Routine en 3 étapes pour les voies respiratoires et les articulations",
+        "description": "Le Bouledogue Français est sujet aux difficultés respiratoires et aux coups de chaleur en raison de sa face plate. Découvrez comment soigner ses rides, son souffle et ses articulations.",
+        "authority": "Recommandations officielles de l'AKC pour le Bouledogue Français",
+        "profile": {
+          "breed": "Bouledogue Français",
+          "lifespan": "10 ~ 14 ans",
+          "sleep_pattern": "12 ~ 14 heures (sommeil lourd avec ronflements)",
+          "temperament": "Joueur, Intelligent, Adaptable, Facile à vivre"
+        },
+        "intro": "Avec ses oreilles de chauve-souris et son visage écrasé, le Bouledogue Français est un compagnon adoré. Cependant, son anatomie brachycéphale le rend très sensible à l'obstruction des voies respiratoires et aux coups de chaleur. Sauter trop haut présente aussi un risque pour sa colonne. Aujourd'hui, PetSelf décrypte ses signaux et propose une routine en 3 étapes.",
+        "whyTitle": "Langage corporel du Bouledogue Français : bruits respiratoires et détresse thermique",
+        "whyDesc": "En cas de gêne, il émet des **'stridors ou stertors'** (sifflements/grognements). S'il étire le cou pour haleter, c'est une alerte de surchauffe. Comprendre ces signes évite le coup de chaleur mortel.",
+        "body_signals": [
+          {
+            "name": "Stridor & Stertor",
+            "meaning": "Sifflements respiratoires signalant des voies aériennes encombrées ou rétrécies.",
+            "response": "Déplacez l'animal immédiatement dans une pièce climatisée ou à l'ombre et donnez-lui de l'eau fraîche."
+          },
+          {
+            "name": "Halètement avec Cou Étiré",
+            "meaning": "L'animal étire son cou pour capter le plus d'oxygène possible afin de faire baisser sa température.",
+            "response": "Réglez la climatisation entre 22 et 24°C, appliquez un linge humide sur ses coussinets et laissez-le se reposer."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Nettoyage des plis de la face et séchage",
+            "text": "Nettoyez ses rides avec une lingette douce sans alcool, puis séchez soigneusement pour éviter les infections cutanées."
+          },
+          {
+            "name": "Après-midi : Balade de 15 minutes sur le plat sans chaleur",
+            "text": "Évitez les heures chaudes. Privilégiez de courtes marches de 15 minutes sur terrain plat tôt le matin ou tard le soir."
+          },
+          {
+            "name": "Soir : Gamelle surélevée et surveillance après le repas",
+            "text": "Installez sa gamelle en hauteur pour faciliter la déglutition et surveillez sa respiration pendant 30 minutes après le repas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi le Bouledogue Français craint-il autant la chaleur ?",
+            "answer": "Son museau court limite l'efficacité du halètement, son seul moyen de réguler sa température. La chaleur s'accumule donc vite dans son corps."
+          },
+          {
+            "question": "À quelle fréquence faut-il nettoyer les plis de sa face ?",
+            "answer": "Un nettoyage quotidien est indispensable. L'humidité stagnante dans les plis cutanés favorise les champignons et les irritations."
+          }
+        ],
+        "tags": [
+          "Bouledogue Francais",
+          "Brachycephale",
+          "Coup de Chaleur",
+          "Plis de la Face"
+        ]
+      },
+      "de": {
+        "title": "Französische Bulldogge Atemwegs- und Hitzepflege: 3-Schritte-Routine für Atemwege und Gelenkschutz",
+        "description": "Französische Bulldoggen neigen aufgrund ihres flachen Gesichts zu Atemnot und Hitzschlag. Lernen Sie eine Routine zur Pflege von Falten, Atmung und Gelenken kennen.",
+        "authority": "Offizieller AKC-Ratgeber zur Haltung von Französischen Bulldoggen",
+        "profile": {
+          "breed": "Französische Bulldogge",
+          "lifespan": "10 ~ 14 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (tiefer Schlaf mit Schnarchen)",
+          "temperament": "Verspielt, Klug, Anpassungsfähig, Gutmütig"
+        },
+        "intro": "Mit ihren Fledermausohren und dem flachen Gesicht sind Französische Bulldoggen charmante Begleiter. Ihre brachyzephale Anatomie macht sie jedoch anfällig für Atemnot und Hitzschlag. Zudem belasten hohe Sprünge ihre Wirbelsäule. Heute erklärt PetSelf ihre Atemsignale und stellt eine 3-Schritte-Routine vor.",
+        "whyTitle": "Körpersprache der Französischen Bulldogge: Atemgeräusche und Hitzewarnzeichen",
+        "whyDesc": "Bei verengten Atemwegen geben sie ein **'Stridor- oder Stertorgeräusch'** (Pfeifen/Röcheln) von sich. Das Keuchen mit gestrecktem Hals ist ein Hitzewarnzeichen. Das Erkennen dieser Signale schützt vor Hitzschlag.",
+        "body_signals": [
+          {
+            "name": "Stridor & Stertor",
+            "meaning": "Pfeifende Atemgeräusche, die auf verengte Atemwege und Sauerstoffmangel hindeuten.",
+            "response": "Bringen Sie den Hund sofort in einen kühlen Raum oder Schatten und bieten Sie frisches Wasser an."
+          },
+          {
+            "name": "Keuchen mit gestrecktem Hals",
+            "meaning": "Ein Alarmzeichen, bei dem der Hund den Hals streckt, um unter starker Hitze Luft zu holen.",
+            "response": "Regeln Sie die Raumtemperatur auf 22-24°C herunter und kühlen Sie Pfoten und Körper mit feuchten Tüchern."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Reinigung und Trocknung der Gesichtsfalten",
+            "text": "Wischen Sie die Falten vorsichtig mit einem alkoholfreien Tuch ab und trocknen Sie sie gut ab, um Pilzinfektionen vorzubeugen."
+          },
+          {
+            "name": "Nachmittag: Vermeidung von Hitze & 15-minütiger flacher Spaziergang",
+            "text": "Meiden Sie Hitze. Gehen Sie nur früh morgens oder spät abends für 15 Minuten auf ebenem Boden spazieren."
+          },
+          {
+            "name": "Abend: Erhöhter Futternapf und Atembeobachtung nach dem Fressen",
+            "text": "Stellen Sie den Napf erhöht auf, um Erbrechen zu verhindern. Beobachten Sie die Atmung des Hundes 30 Minuten nach dem Fressen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum sind Französische Bulldoggen so hitzeempfindlich?",
+            "answer": "Durch die kurze Schnauze kühlt das Hecheln den Körper kaum ab. Die Hitze staut sich im Körper, was rasch zu Hitzschlag führt."
+          },
+          {
+            "question": "Wie oft müssen die Falten gereinigt werden?",
+            "answer": "Täglich. In den Falten sammeln sich Tränenflüssigkeit und Schmutz, was ohne Trocknung zu schmerzhafter Dermatitis führt."
+          }
+        ],
+        "tags": [
+          "Franzosische Bulldogge",
+          "Brachyzephal",
+          "Hitzschlag",
+          "Faltenpflege"
+        ]
+      },
+      "pt": {
+        "title": "Cuidado Respiratório e de Temperatura do Bulldog Francês: Rotina de 3 passos para proteção de vias aéreas e articulações",
+        "description": "Bulldogs Franceses são propensos a desconforto respiratório e choque térmico devido à face achatada. Aprenda a rotina para cuidar de suas rugas, respiração e articulações.",
+        "authority": "Manual oficial de cuidados com o Bulldog Francês do AKC",
+        "profile": {
+          "breed": "Bulldog Francês",
+          "lifespan": "10 ~ 14 anos",
+          "sleep_pattern": "12 ~ 14 horas (sono profundo com ronco)",
+          "temperament": "Brincalhão, Inteligente, Adaptável, Sociável"
+        },
+        "intro": "Com suas orelhas de morcego e focinho achatado, o Bulldog Francês é um companheiro adorável. Contudo, sua anatomia braquicefálica o torna vulnerável a obstruções respiratórias e hipertermia. Pular também danifica sua coluna. Hoje, o PetSelf decifra seus sinais respiratórios e apresenta uma rotina diária em 3 passos.",
+        "whyTitle": "Linguagem corporal do Bulldog Francês: ruídos respiratórios e sinais de calor",
+        "whyDesc": "Quando o fluxo de ar está ruim, eles emitem um **'estridor ou estertor'**. Se esticarem o pescoço ao ofegar, é um sinal de alerta de calor severo. Reconhecer estes sinais previne choque térmico letal.",
+        "body_signals": [
+          {
+            "name": "Estridor e Estertor",
+            "meaning": "Ruídos de sopro ou ronco indicando vias aéreas estreitas e aumento da temperatura.",
+            "response": "Leve o cão imediatamente para uma área fresca com ar condicionado e ofereça água fresca."
+          },
+          {
+            "name": "Ofegar com Pescoço Esticado",
+            "meaning": "Sinal crítico onde o cão estica o pescoço para inalar oxigênio sob calor extremo.",
+            "response": "Mantenha a temperatura da casa em 22-24°C e limpe as almofadas das patas com panos úmidos frios."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Limpeza e secagem das rugas faciais",
+            "text": "Limpe os pliqueques faciais com lenço sem álcool e seque bem para evitar infecções fúngicas."
+          },
+          {
+            "name": "Tarde: Caminhada leve de 15 minutos em terreno plano sem calor",
+            "text": "Evite as horas mais quentes. Faça caminhadas curtas de 15 minutos em plano no início da manhã ou noite."
+          },
+          {
+            "name": "Noite: Alimentação elevada e observação pós-refeição",
+            "text": "Posicione o comedouro elevado para facilitar a deglutição e observe a respiração por 30 minutos após comer."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que o Bulldog Francês sofre tanto com o calor?",
+            "answer": "O focinho curto limita a troca de calor através do processo de ofegar. O calor acumula-se no corpo rapidamente."
+          },
+          {
+            "question": "Com que frequência devo limpar as dobras do rosto?",
+            "answer": "Recomenda-se diariamente. A umidade e sujeira presas nas rugas causam dermatites graves se não secas."
+          }
+        ],
+        "tags": [
+          "Bulldog Frances",
+          "Braquicefalo",
+          "Choque Termico",
+          "Rugas Faciais"
+        ]
+      },
+      "id": {
+        "title": "Perawatan Pernapasan & Panas French Bulldog: Rutinitas 3 Langkah untuk Saluran Napas dan Sendi",
+        "description": "French Bulldog rentan terhadap gangguan pernapasan dan heatstroke karena wajahnya yang datar. Pelajari rutinitas untuk merawat kerutan, napas, dan sendi.",
+        "authority": "Panduan Resmi Perawatan French Bulldog AKC",
+        "profile": {
+          "breed": "French Bulldog",
+          "lifespan": "10 ~ 14 tahun",
+          "sleep_pattern": "12 ~ 14 jam (tidur nyenyak dengan mendengkur)",
+          "temperament": "Lincah, Cerdas, Mudah Beradaptasi, Tenang"
+        },
+        "intro": "Dengan telinga kelelawar khas dan wajah peseknya, French Bulldog adalah teman yang sangat dicintai. Namun, anatomi uniknya (brakisefalik) membuatnya rentan terhadap penyumbatan saluran napas dan heatstroke. Melompat terlalu sering juga membahayakan tulang belakangnya. Hari ini, PetSelf mengulas sinyal pernapasannya dan menyajikan rutinitas 3 langkah.",
+        "whyTitle": "Bahasa Tubuh French Bulldog: Suara Napas Brakisefalik dan Sinyal Panas",
+        "whyDesc": "Saat aliran udara terhambat, French Bulldog mengeluarkan suara **'stridor atau stertor'**. Jika mereka menjulurkan leher dan terengah-engah, itu adalah tanda bahaya kepanasan. Memahami sinyal ini penting untuk mencegah heatstroke.",
+        "body_signals": [
+          {
+            "name": "Stridor & Stertor",
+            "meaning": "Napas berbunyi mengorok yang menunjukkan penyempitan saluran napas dan kenaikan suhu tubuh.",
+            "response": "Segera pindahkan anjing ke ruangan dingin ber-AC atau tempat teduh dan berikan air segar."
+          },
+          {
+            "name": "Terengah-engah dengan Leher Julur",
+            "meaning": "Sinyal peringatan saat anjing menjulurkan leher untuk menghirup oksigen akibat kepanasan.",
+            "response": "Atur suhu ruangan menjadi 22-24°C menggunakan AC dan seka kaki anjing dengan handuk basah dingin."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pembersihan dan Pengeringan Kerutan Wajah",
+            "text": "Bersihkan lipatan wajah dengan tisu basah bebas alkohol, lalu keringkan secara menyeluruh untuk mencegah infeksi jamur."
+          },
+          {
+            "name": "Siang: Menghindari Panas & Jalan Kaki Ringan 15 Menit",
+            "text": "Hindari jam-jam panas. Lakukan jalan kaki singkat selama 15 menit di permukaan rata pada pagi hari atau malam hari."
+          },
+          {
+            "name": "Malam: Makan di Tempat Tinggi dan Pengamatan Pasca Makan",
+            "text": "Sajikan makanan dalam mangkuk yang ditinggikan untuk mencegah tersedak, dan amati napas mereka selama 30 menit setelah makan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa French Bulldog sangat rentan terhadap panas?",
+            "answer": "Moncongnya yang pendek membatasi efisiensi pendinginan tubuh lewat napas. Panas terperangkap di tubuh anjing dengan cepat."
+          },
+          {
+            "question": "Seberapa sering saya harus membersihkan kerutan wajahnya?",
+            "answer": "Dianjurkan setiap hari. Kelembapan dari air mata atau sisa makanan yang terperangkap dalam kerutan dapat memicu infeksi kulit."
+          }
+        ],
+        "tags": [
+          "French Bulldog",
+          "Brakisefalik",
+          "Heatstroke",
+          "Kerutan Wajah"
+        ]
+      }
+    }
+  }
+}

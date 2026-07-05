@@ -1,0 +1,36 @@
+{
+  "id": "french-bulldog-care",
+  "title": "프렌치 불독 호흡기 및 체온 관리",
+  "species": "dog",
+  "breed": "프렌치 불독 (French Bulldog)",
+  "lifespan": "10 ~ 14년",
+  "sleepPattern": "12 ~ 14시간 정도 깊은 수면을 취하며, 코를 골거나 거친 숨소리를 내며 편평한 바닥에 엎드려 자는 성향이 강합니다.",
+  "likes": [
+    "체온을 낮춰주는 시원한 대리석 매트나 쿨링 의류 착용 (열사병 예방)",
+    "관절에 무리가 가지 않는 평지에서의 짧고 가벼운 산책 (정서적 안정)"
+  ],
+  "dislikes": [
+    "덥고 습한 환경에서의 장시간 야외 활동 (단두종 호흡 곤란 위험)",
+    "높은 곳에서 뛰어내리거나 계단을 오르내리는 행위 (허리 및 관절 무리)"
+  ],
+  "bodyLanguage": [
+    {
+      "signal": "거친 호흡 및 목구멍 쌕쌕거림 (Stridor/Stertor)",
+      "meaning": "공기 흡입 통로가 좁아져 쌕쌕거리거나 그르렁거리는 소리를 냅니다. (의미: 호흡이 답답하거나 체온이 급격히 오르고 있어요!, 올바른 대처: 즉시 시원한 그늘로 이동시키고 물을 급여해 체온을 내리세요.)"
+    },
+    {
+      "signal": "목을 길게 빼고 가쁜 숨 쉬기 (Panting with Extended Neck)",
+      "meaning": "서 있거나 앉은 상태에서 목을 길게 빼고 혀를 길게 늘어뜨려 호흡합니다. (의미: 기도가 좁아져 산소가 부족하거나 더위를 심하게 느끼고 있어요., 올바른 대처: 에어컨 등으로 실내 온도를 22-24°C로 조절하고 편안하게 안정을 취하도록 돕습니다.)"
+    }
+  ],
+  "dailyRoutine": {
+    "step1": "아침에는 얼굴 전면부 주름 사이의 습기와 이물질을 무알코올 티슈로 닦아내어 곰팡이성 피부염을 예방합니다.",
+    "step2": "낮에는 한여름이나 뜨거운 시간대를 피해 아침 일찍 혹은 늦은 저녁에 15~20분 내외의 평지 산책을 통해 열사병을 예방합니다.",
+    "step3": "저녁에는 단두종 특성상 밥을 급하게 먹다 체하기 쉬우므로 식기를 높게 배치해주고, 사료 급여 후 호흡 상태를 관찰합니다."
+  },
+  "heroImage": "/images/blog/french_bulldog_care.png",
+  "sources": [
+    "American Kennel Club (AKC) French Bulldog Breed Standard",
+    "Veterinary Oral Health Council (VOHC) & Brachycephalic Care Protocols"
+  ]
+}

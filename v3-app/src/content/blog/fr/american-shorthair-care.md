@@ -1,0 +1,140 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "Soin du Cœur et du Poids de l'American Shorthair : Routine en 3 étapes pour prévenir la CMH et l'obésité"
+description: "L'American Shorthair est robuste mais sujet à l'obésité et à la cardiomyopathie hypertrophique (CMH). Apprenez une routine en 3 étapes pour son bien-être."
+pubDate: "2026-03-02"
+updatedDate: "2026-03-02"
+heroImage: "/images/blog/american_shorthair_care.png"
+authority: "Directives de la CFA et travaux du Cornell Feline Health Center"
+app: "petself"
+formatVersion: 4
+tags: ["American Shorthair","Prevention CMH","Obesite Chat","Cardiologie Feline"]
+faqs:
+  - question: "Qu'est-ce que la cardiomyopathie hypertrophique (CMH) chez le chat ?"
+    answer: "Il s'agit d'une maladie génétique caractérisée par un épaississement du muscle cardiaque qui altère son fonctionnement. Souvent invisible, elle requiert un dépistage régulier par échographie."
+  - question: "Comment éviter que mon American Shorthair ne devienne obèse ?"
+    answer: "Contrôlez ses portions, évitez les friandises trop caloriques et privilégiez les jouets distributeurs de nourriture pour le faire bouger."
+---
+
+Reconnaissable à son pelage silver tabby et à son corps musclé, l'American Shorthair est un chat doux et placide. Cependant, son calme naturel peut dériver vers la paresse et l'obésité, menaçant son système cardiovasculaire. Cette race est aussi prédisposée à la cardiomyopathie hypertrophique (CMH). Aujourd'hui, PetSelf décrypte ses signaux cardiaques et présente sa routine en 3 étapes.
+
+<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+      Fondement Scientifique & Comportemental
+    </h5>
+    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+      Ce contenu est basé sur <strong>Directives de la CFA et travaux du Cornell Feline Health Center</strong>.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
+  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
+    🐾 American Shorthair Profil principal
+  </h3>
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+    <div class="flex flex-col"><span class="text-xs text-slate-400">Espérance de vie</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20 ans</span></div>
+    <div class="flex flex-col"><span class="text-xs text-slate-400">Mode de sommeil</span><span class="font-bold text-slate-800 dark:text-slate-200">12 ~ 16 heures (adore les zones ensoleillées)</span></div>
+    <div class="flex flex-col"><span class="text-xs text-slate-400">Tempérament</span><span class="font-bold text-slate-800 dark:text-slate-200">Doux, Intelligent, Calme, Indépendant</span></div>
+  </div>
+</div>
+
+## 1. Langage corporel de l'American Shorthair : surcharge cardiaque et halètement
+
+Un chat ne halète pas comme un chien. Si un American Shorthair a la 'bouche ouverte pour respirer' ou montre une 'fatigue soudaine' pendant le jeu, c'est le signe d'un problème cardiaque majeur. Réagir vite peut lui sauver la vie.
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Respiration Bouche Ouverte</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Signification:</strong> Le chat respire la bouche ouverte, langue sortie, traduisant un manque d'oxygène critique ou une détresse cardiaque.<br/>
+    <strong>• Action correcte:</strong> Limitez le stress et conduisez le chat en urgence chez le vétérinaire pour une mise sous oxygène.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Fatigue Rapide après l'effort</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Signification:</strong> Le chat s'arrête de jouer et se couche sur le flanc en quelques minutes par manque de débit cardiaque.<br/>
+    <strong>• Action correcte:</strong> Stoppez le jeu et faites réaliser un examen cardiaque (échographie) chez votre vétérinaire pour dépister la CMH.
+  </p>
+</div>
+
+---
+
+## 2. Routine de soins quotidiens personnalisée
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Rationnement précis de la nourriture pour éviter la prise de poids</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Évitez le libre-service. Divisez sa portion de croquettes quotidienne selon ses besoins caloriques réels pour protéger son cœur.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Jeu interactif de 15 minutes pour brûler les graisses</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Jouez avec lui au moins deux fois par jour pendant 15 minutes (canne à pêche, plumeau) pour stimuler son activité physique.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Brossage hebdomadaire pour éliminer le sous-poil</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Bien qu'à poil court, sa fourrure est dense. Brossez-le une à deux fois par semaine pour prévenir les vomissements de boules de poils.
+  </p>
+</div>
+
+## 3. Résumé et précautions
+<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
+  <span class="text-xl">💡</span>
+  <div>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Le simple fait d'observer les signaux d'apaisement de votre animal peut prévenir des problèmes de comportement majeurs et des maladies liées au stress. Bien que le traitement vétérinaire soit important, fournir un environnement sûr (rampes, espaces verticaux, sources d'eau multiples) est le bouclier le plus solide pour soutenir son bonheur tout au long de sa vie.
+    </p>
+  </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Qu'est-ce que la cardiomyopathie hypertrophique (CMH) chez le chat ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Il s'agit d'une maladie génétique caractérisée par un épaississement du muscle cardiaque qui altère son fonctionnement. Souvent invisible, elle requiert un dépistage régulier par échographie.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Comment éviter que mon American Shorthair ne devienne obèse ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Contrôlez ses portions, évitez les friandises trop caloriques et privilégiez les jouets distributeurs de nourriture pour le faire bouger.
+    </p>
+  </details>
+</div>

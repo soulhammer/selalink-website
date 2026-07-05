@@ -168,7 +168,6 @@ const activeAccent = themeAccents[app] || themeAccents.general;
             prose-h2:text-2xl prose-h2:md:text-3xl prose-h2:mt-14 prose-h2:mb-6 prose-h2:pb-3.5 prose-h2:border-b prose-h2:border-slate-200/80 dark:prose-h2:border-white/5
             prose-h3:text-lg prose-h3:md:text-xl prose-h3:mt-10 prose-h3:mb-4
             prose-p:my-5 prose-p:text-[16px] prose-p:md:text-[17px] prose-p:leading-[1.75] prose-p:text-slate-700 dark:prose-p:text-slate-300
-            /* 한글 가독성 어절 단위 래핑 설정 (한국어일 때만 적용) */
             ${lang === 'ko' ? 'prose-p:break-keep prose-li:break-keep' : 'prose-p:break-words prose-li:break-words'}
             prose-p:overflow-wrap-anywhere
             prose-strong:text-slate-900 dark:prose-strong:text-white prose-strong:font-extrabold
@@ -206,7 +205,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
       )}
     </div>
 
-    <!-- 이전 글 / 다음 글 내비게이션 -->
+    <!-- Prev / Next Navigation -->
     {(prevPost || nextPost) && (
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 my-16 pt-12 border-t border-slate-200 dark:border-white/10">
         {prevPost ? (

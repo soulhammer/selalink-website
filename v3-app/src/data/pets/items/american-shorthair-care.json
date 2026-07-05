@@ -1,0 +1,36 @@
+{
+  "id": "american-shorthair-care",
+  "title": "아메리칸 쇼트헤어 심장 및 비만 케어",
+  "species": "cat",
+  "breed": "아메리칸 쇼트헤어 (American Shorthair)",
+  "lifespan": "15 ~ 20년",
+  "sleepPattern": "12 ~ 16시간 정도 수면을 취하며, 해가 잘 드는 창가 캣타워나 보호자의 침대 발치에서 식빵 자세를 하거나 옆으로 편안하게 자는 것을 선호합니다.",
+  "likes": [
+    "장난감을 쫓아다니며 칼로리를 소모하는 활동적인 사냥 놀이 (비만 예방)",
+    "정기적인 건강 검진과 조용한 환경에서의 양질의 수면 (심장 건강 보호)"
+  ],
+  "dislikes": [
+    "지나치게 고칼로리이거나 자율 급식으로 인해 체중이 급격히 증가하는 것 (관절 및 심장 무리)",
+    "사냥 본능을 자극하는 놀이가 차단되어 집안에서 무료하게 있는 것 (스트레스성 과식 유발)"
+  ],
+  "bodyLanguage": [
+    {
+      "signal": "식빵 자세로 움츠린 채 개구호흡하기 (Open-mouth Breathing in Sphinx Pose)",
+      "meaning": "식빵 자세를 한 채로 입을 벌려 혀를 내밀고 가쁜 숨을 쉽니다. (의미: 심장이나 폐 기능에 심각한 무리가 가거나 체온이 급격히 올랐어요!, 올바른 대처: 즉시 스트레스를 최소화하며 동물병원 응급실로 이송해 산소 처치와 진단을 받아야 합니다.)"
+    },
+    {
+      "signal": "놀이 도중 쉽게 지치고 엎드리기 (Quick Fatigue and Lying Down)",
+      "meaning": "사냥 놀이를 시작한 지 불과 몇 분 만에 숨을 헐떡이며 옆으로 누워 움직이지 않습니다. (의미: 심장의 펌프 기능이 저하되어 쉽게 피로해져요., 올바른 대처: 무리한 놀이를 중단하고, 비대성 심근증(HCM) 선별을 위한 정기 심장 초음파 검사를 진행합니다.)"
+    }
+  ],
+  "dailyRoutine": {
+    "step1": "아침에는 자율 급식 대신 정량 급식을 실천하여 과도한 칼로리 섭취를 막고 비만을 방지합니다.",
+    "step2": "낮에는 사냥 본능을 자극하는 낚싯대 장난감이나 레이저 포인터로 하루 최소 15분 이상 2회 활발한 놀이를 유도하여 칼로리를 소비합니다.",
+    "step3": "저녁에는 단모종 특성상 털 관리가 비교적 쉽지만, 죽은 털을 제거해 헤어볼 형성을 예방하도록 주 1~2회 빗질로 정돈합니다."
+  },
+  "heroImage": "/images/blog/american_shorthair_care.png",
+  "sources": [
+    "Cat Fanciers' Association (CFA) American Shorthair Breed Standard",
+    "Cornell Feline Health Center - Hypertrophic Cardiomyopathy (HCM) Study"
+  ]
+}

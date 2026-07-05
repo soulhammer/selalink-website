@@ -1,0 +1,514 @@
+{
+  "samoyed-care": {
+    "pubDate": "2026-02-03",
+    "updatedDate": "2026-02-03",
+    "locales": {
+      "en": {
+        "title": "Samoyed Double Coat & Hip Health Care: A 3-Step Daily Routine to Manage Shedding and Prevent Hip Dysplasia",
+        "description": "Samoyeds are majestic sled dogs prone to hip dysplasia and skin infections under dense double coats. Learn a 3-step routine to maintain hair and joints.",
+        "authority": "AKC Samoyed Manual & Orthopedic Foundation for Animals (OFA)",
+        "profile": {
+          "breed": "Samoyed",
+          "lifespan": "12 ~ 14 years",
+          "sleep_pattern": "10 ~ 12 hours (prefers cool spots on belly)",
+          "temperament": "Gentle, Friendly, Alert, Playful"
+        },
+        "intro": "Famous for their white fluffy coat and the sweet 'Samoyed Smile', Samoyeds are energetic, gentle giants. Originating from Siberia, their thick double coat protects them from cold but traps heat and moisture easily in humid areas, leading to skin diseases. Moreover, due to their large size, they are genetically prone to hip dysplasia. Today, PetSelf decodes Samoyed joint warning signals and provides a 3-step daily care routine.",
+        "whyTitle": "Samoyed Body Language: Splooting Cooling and Joint Pain Signs",
+        "whyDesc": "When hot, Samoyeds sploot, showing **'frog-leg lying'** behavior to press their bellies against cool surfaces. Conversely, **'bunny hopping'** where they run with both back legs moving together is a classic indicator of hip pain. Identifying these signals early is vital for joint health.",
+        "body_signals": [
+          {
+            "name": "Frog-Leg Lying (Splooting)",
+            "meaning": "Lying flat on the belly with hind legs stretched back to cool down their body temperature.",
+            "response": "Provide cool mats or tile surfaces and let them rest quietly in a well-ventilated spot."
+          },
+          {
+            "name": "Bunny Hopping",
+            "meaning": "Hopping with both hind legs moving together to minimize pressure on painful hips.",
+            "response": "Stop strenuous exercise immediately. Check for hip dysplasia with a veterinarian."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Slicker Brushing for Double Coat Ventilation",
+            "text": "Brush their thick double coat daily using a slicker brush and a steel comb to remove dead undercoat and prevent mats."
+          },
+          {
+            "name": "Afternoon: Joint Protection & Anti-Slip Mat Installation",
+            "text": "Place anti-slip rugs on slippery indoor floors and feed joint supplements to prevent hip deterioration."
+          },
+          {
+            "name": "Evening: Paw Wash and Thorough Blow Dry",
+            "text": "Clean paws after outdoor activity. Thoroughly blow dry the wet hair between paw pads to prevent interdigital dermatitis."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How often should I brush a Samoyed's double coat?",
+            "answer": "Ideally every day. Brushing prevents mats, distributes natural skin oils, and ventilates the skin to prevent hot spots."
+          },
+          {
+            "question": "What is Samoyed hip dysplasia and how can I prevent it?",
+            "answer": "It is a genetic condition where the hip joint doesn't fit properly, causing arthritis. Prevention includes maintaining a healthy weight and avoiding high jumps on slippery floors."
+          }
+        ],
+        "tags": [
+          "Samoyed",
+          "Double Coat",
+          "Hip Dysplasia",
+          "Shedding Care"
+        ]
+      },
+      "ko": {
+        "title": "사모예드 이중모 및 고관절 건강 관리: 털 빠짐 케어와 고관절 이형성증 예방 3단계 루틴",
+        "description": "사모예드는 빽빽한 이중모로 인한 피부 질환과 대형견 특유의 고관절 이형성증에 취약합니다. 털 관리와 관절 보호를 위한 3단계 데일리 루틴을 다룹니다.",
+        "authority": "AKC 사모예드 케어북 & 동물 정형외과 재단(OFA) 가이드",
+        "profile": {
+          "breed": "사모예드",
+          "lifespan": "12 ~ 14년",
+          "sleep_pattern": "10 ~ 12시간 (차가운 바닥을 찾는 수면)",
+          "temperament": "온화함, 친근함, 영리함, 활발함"
+        },
+        "intro": "순백의 풍성한 털과 '사모예드 미소'로 널리 알려진 사모예드는 친근하고 에너지가 넘치는 대형견입니다. 시베리아 혹한기를 견디던 두꺼운 이중모는 더위와 습도에 매우 취약해 피부 습진을 유발하기 쉽습니다. 또한, 유전적으로 고관절 이형성증이 발생할 확률이 매우 높습니다. 오늘 PetSelf에서는 사모예드의 고관절 통증 신호를 해독하고, 관절과 털 건강을 모두 지키는 3단계 루틴을 공유합니다.",
+        "whyTitle": "사모예드의 바디 랭귀지: 차가운 바닥 엎드리기와 보행 이상 신호",
+        "whyDesc": "사모예드가 더위를 느낄 때는 배를 차가운 바닥에 대고 뒷다리를 쭉 뻗는 **'개구리 자세 엎드리기(Splooting)'**를 취합니다. 반면 걸을 때 뒷다리를 한꺼번에 모아 껑충 걷는 **'토끼 뛰기 보행(Bunny Hopping)'**은 고관절 통증의 전형적인 증상입니다.",
+        "body_signals": [
+          {
+            "name": "개구리 자세 엎드리기",
+            "meaning": "두꺼운 털이 없는 배 부위를 시원한 타일이나 대리석 매트에 대고 체온을 낮추는 지극히 정상적인 열 방출 행동입니다.",
+            "response": "에어컨을 작동시키거나 시원한 쿨링 매트를 제공해 쾌적하게 쉴 수 있도록 환경을 조성해 줍니다."
+          },
+          {
+            "name": "토끼 뛰기 보행",
+            "meaning": "고관절 결합부가 마모되거나 어긋나 통증을 느끼자, 압력을 덜 받으려고 양 뒷다리를 동시에 모아 도약하는 비정상 보행 상태입니다.",
+            "call": "response",
+            "response": "뒷다리로 서기, 높은 곳에서 점프 등을 즉시 제지하고 소염제 처방 및 수의학 정밀 정형외과 검사를 받아보아야 합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 죽은 속털 제거를 위한 정밀 슬리커 빗질",
+            "text": "풍성한 속털 사이에 공기가 통하도록 하루 한 번 슬리커 브러시와 일자 빗을 사용해 속털(Undercoat)을 빗겨내 엉킴을 방지합니다."
+          },
+          {
+            "name": "낮: 관절 충격 완화 및 매트 설치와 영양 공급",
+            "text": "미끄러운 실내 마루바닥에 매트를 설치해 관절 이탈을 방지하고, 체중 관리를 위한 저칼로리 급여 및 콘드로이친, 글루코사민을 공급합니다."
+          },
+          {
+            "name": "저녁: 산책 후 발가락 사이 세척 및 완전 건조",
+            "text": "산책 후 발을 씻길 때 발가락 사이 촘촘한 장모 속 물기를 강아지 전용 드라이어로 바짝 말려 지간염 발생을 방지합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "사모예드 이중모를 미용으로 밀어도 되나요?",
+            "answer": "절대 권장하지 않습니다. 이중모는 자외선 차단 및 체온 보호 역할을 하므로 털을 밀면 열 방출이 오히려 차단되고 모질이 상하는 포스트 클리핑 신드롬이 생길 수 있습니다. 빗질로 털을 솎아주는 것이 옳습니다."
+          },
+          {
+            "question": "고관절 이형성증은 어떻게 관리해야 하나요?",
+            "answer": "성장기에 칼슘 과다 급여를 피하고, 과체중이 되지 않도록 식단을 관리하는 것이 핵심입니다. 보행 이상이 보인다면 조기에 정형외과적 진단(X-ray)을 받아야 합니다."
+          }
+        ],
+        "tags": [
+          "사모예드",
+          "이중모",
+          "고관절 이형성증",
+          "털 빠짐 관리"
+        ]
+      },
+      "ja": {
+        "title": "サモエドのダブルコート＆股関節ケア：毛吹きの管理と股関節形成不全予防の3段階日常ルーティン",
+        "description": "サモエドは厚いダブルコートによる皮膚疾患と、大型犬に多い股関節形成不全になりやすい犬種です。被毛と関節を守る3段階ルーティンを紹介します。",
+        "authority": "AKCサモエドガイド＆OFA股関節ガイドライン",
+        "profile": {
+          "breed": "サモエド",
+          "lifespan": "12 ~ 14年",
+          "sleep_pattern": "10 ~ 12時間（冷たい床に体を密着）",
+          "temperament": "穏やか、人懐っこい、機敏、遊び好き"
+        },
+        "intro": "白い綿毛のような毛並みと「サモエド・スマイル」として知られる優しい顔立ちのサモエドは、シベリア発祥のそり引き犬です。極寒を耐えるための厚い二重被毛（ダブルコート）は高温多湿に弱く、換気不足は湿疹の原因になります。また、遺伝的に股関節形成不全を抱えやすい傾向があります。本日、PetSelfでは股関節の痛みシグナルを分析し、関節と被毛の衛生を守る3段階ルーティンを提案します。",
+        "whyTitle": "サモエドのボディランゲージ：冷涼姿勢と歩行の異常サイン",
+        "whyDesc": "サモエドは体が熱くなると、お腹を冷たい床にベタッとくっつける**「カエル足ポーズ（Splooting）」**をします。一方、走る時に後ろ足を同時に動かす**「うさぎ跳び歩行（Bunny Hopping）」**は、股関節の痛みを和らげようとするサインです。",
+        "body_signals": [
+          {
+            "name": "カエル足ポーズ（Splooting）",
+            "meaning": "熱を放散するために、被毛の薄いお腹をひんやりした床に密着させる正常な冷却行動です。",
+            "response": "エアコンで室温を下げ、クールマットを提供して十分に休ませてあげましょう。"
+          },
+          {
+            "name": "うさぎ跳び歩行",
+            "meaning": "股関節が変形し痛みを伴うため、負荷を軽減させようと後ろ足を揃えて歩く異常な歩行状態です。",
+            "response": "激しい運動を即座に中止し、動物病院で股関節の整形外科検査を受けてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：抜け毛を除去し通気性を高めるスリッカーブラッシング",
+            "text": "毛が絡まないよう、毎日スリッカーブラシとコームで古い抜け毛（アンダーコート）をしっかり梳き取り、通気性を保ちます。"
+          },
+          {
+            "name": "昼：関節の衝撃緩和＆滑り止めマットの導入",
+            "text": "室内の滑りやすい床に滑り止めマットを敷き、関節サポートサプリメントを与えて進行を予防します。"
+          },
+          {
+            "name": "夜：散歩後の足裏の洗浄と徹底的な乾燥",
+            "text": "散歩の後は足の毛の間をきれいに洗い、水分が残って指間炎にならないよう、ドライヤーで完全に乾かします。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "サモエドのダブルコートを短く刈ってもいいですか？",
+            "answer": "お勧めしません。ダブルコートは直射日光を遮り、体温を保つ役割があります。バリカンで剃ると、毛質が変化したり熱放散が悪化する恐れがあります。"
+          },
+          {
+            "question": "股関節形成不全の予防法はありますか？",
+            "answer": "肥満は関節への大きな負担になります。成長期のカルシウム過剰摂取を避け、健康的な体重を維持することが最大の予防策です。"
+          }
+        ],
+        "tags": [
+          "サモエド",
+          "ダブルコート",
+          "股関節形成不全",
+          "換毛期"
+        ]
+      },
+      "zh": {
+        "title": "萨摩耶双层被毛与关节护理：轻松应对换毛期并预防髋关节发育不良的日常3步惯例",
+        "description": "萨摩耶因其厚重的双层被毛易患皮肤病，同时面临大型犬常见的髋关节发育不良风险。掌握一套维护毛发与关节健康的日常3步护理惯例。",
+        "authority": "AKC 萨摩耶官方指南与动物骨科基金会(OFA)标准",
+        "profile": {
+          "breed": "萨摩耶",
+          "lifespan": "12 ~ 14年",
+          "sleep_pattern": "10 ~ 12小时（偏好腹部贴地冷睡）",
+          "temperament": "温和、友善、机警、爱玩"
+        },
+        "intro": "萨摩耶以其雪白蓬松的毛发和标志性的“萨摩耶微笑”而广受欢迎。然而，源自西伯利亚的浓密双层被毛在湿热地区极易积聚水气，诱发严重的湿疹等皮肤病。此外，作为大型犬，它们具有髋关节发育不良的遗传易感性。今天，PetSelf 将为您拆解萨摩耶的关节不适信号，并提供管理毛发与关节的3步日常护理惯例。",
+        "whyTitle": "萨摩耶的身体语言：腹部贴地散热与跛行步态",
+        "whyDesc": "萨摩耶体热时会采取**“青蛙瘫（Splooting）”**，将无毛的腹部紧贴冰凉地面散热。相反，如果它们走路时后肢并拢呈**“兔跳步态（Bunny Hopping）”**，则是髋关节疼痛的典型表现，绝不可掉以轻心。",
+        "body_signals": [
+          {
+            "name": "青蛙瘫散热",
+            "meaning": "通过将腹部皮肤贴于地砖等凉爽表面来降低体温的正常生理行为。",
+            "response": "开启空调并为其提供冰丝凉垫，确保其在阴凉通风处舒适休息。"
+          },
+          {
+            "name": "兔跳步态",
+            "meaning": "因髋关节磨损或病变导致负重疼痛，从而并拢双后肢同时借力行走的异常步态。",
+            "response": "立即限制其剧烈奔跑和爬楼梯，并寻求兽医进行X光骨科筛查。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：梳理底绒以保持皮肤通风",
+            "text": "每日使用针梳（Slicker brush）和排梳深入被毛，彻底梳理掉积存的脱落底绒，防止结团并促进皮肤通风。"
+          },
+          {
+            "name": "中午：关节防护与铺设防滑垫",
+            "text": "在家中瓷砖或木地板上铺设防滑垫，并在餐食中添加氨基葡萄糖与软骨素以保护关节。"
+          },
+          {
+            "name": "晚上：洗脚后彻底吹干趾缝",
+            "text": "户外归来后洗净爪部，必须使用吹风机彻底吹干趾缝间的长毛，防止真菌性趾间炎。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "可以将萨摩耶的厚毛剃光来防暑吗？",
+            "answer": "切忌剃光。萨摩耶的被毛具有阻隔紫外线和隔绝外部热量的重要功能。剃毛可能引发毛囊炎、防晒失效及毛发再生异常。"
+          },
+          {
+            "question": "如何从日常管理中预防髋关节退化？",
+            "answer": "关键在于控制体重。避免让萨摩耶过度肥胖，这会成倍增加关节磨损。幼年及青年期避免过度剧烈跳跃或站立。"
+          }
+        ],
+        "tags": [
+          "萨摩耶",
+          "双层被毛",
+          "髋关节发育不良",
+          "换毛管理"
+        ]
+      },
+      "es": {
+        "title": "Cuidado del Manto Doble y Cadera del Samoyedo: Rutina de 3 pasos para la muda y prevención de la displasia de cadera",
+        "description": "Los Samoyedos son perros de trineo propensos a displasia de cadera e infecciones de piel bajo su denso pelaje. Conozca una rutina para cuidar su pelo y articulaciones.",
+        "authority": "Directrices oficiales de AKC para Samoyedos y directivas de OFA",
+        "profile": {
+          "breed": "Samoyedo",
+          "lifespan": "12 ~ 14 años",
+          "sleep_pattern": "10 ~ 12 horas (busca superficies frías para acostarse)",
+          "temperament": "Gentil, Amigable, Alerta, Juguetón"
+        },
+        "intro": "Famoso por su pelaje blanco esponjoso y su 'Sonrisa de Samoyedo', el Samoyedo es un gigante gentil y activo. Su pelaje de doble capa lo aísla del frío pero retiene calor y humedad en climas húmedos, causando dermatitis. Por su tamaño, es propenso a la displasia de cadera. Hoy, PetSelf descifra sus señales articulares y presenta una rutina diaria de 3 pasos.",
+        "whyTitle": "Lenguaje corporal del Samoyedo: postura de enfriamiento y señales de dolor",
+        "whyDesc": "Cuando tienen calor, los Samoyedos se acuestan como rana, mostrando **'splooting'** para enfriar su abdomen. En cambio, el **'paso de conejo'** con las patas traseras juntas revela dolor en la cadera. Identificar esto a tiempo es vital.",
+        "body_signals": [
+          {
+            "name": "Acostado de Rana (Splooting)",
+            "meaning": "Estar boca abajo con patas traseras estiradas para disipar calor mediante el contacto con el suelo frío.",
+            "response": "Proporcione mantas refrescantes y permita que descanse en un área ventilada."
+          },
+          {
+            "name": "Paso de Conejo (Bunny Hopping)",
+            "meaning": "Correr saltando con ambas patas traseras a la vez para reducir el peso sobre caderas adoloridas.",
+            "response": "Suspenda ejercicios fuertes de inmediato y consulte al veterinario para realizar exámenes de cadera."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Cepillado slicker para ventilar el manto doble",
+            "text": "Cepille el denso pelo a diario con cepillo de alambre (slicker) y peine metálico para remover subpelo muerto."
+          },
+          {
+            "name": "Tarde: Cuidado de articulaciones y tapetes antideslizantes",
+            "text": "Coloque alfombras antideslizantes en suelos resbalosos y dé suplementos de glucosamina para cuidar la cadera."
+          },
+          {
+            "name": "Noche: Lavado de patas y secado profundo con secador",
+            "text": "Lave las patas tras salir. Seque por completo el pelo entre las almohadillas para evitar la pododermatitis."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Debería rasurar el pelaje doble de mi Samoyedo en verano?",
+            "answer": "No se recomienda. El pelaje de doble capa protege del sol y aísla del calor. Afeitarlo daña el folículo e incrementa el riesgo de quemaduras solares."
+          },
+          {
+            "question": "¿Qué puedo hacer para evitar la displasia de cadera?",
+            "answer": "Controle estrictamente su peso corporal, evite que salte bruscamente sobre suelos resbaladizos y mantenga una rutina de ejercicios moderados de bajo impacto."
+          }
+        ],
+        "tags": [
+          "Samoyedo",
+          "Doble Capa",
+          "Displasia de Cadera",
+          "Muda de Pelo"
+        ]
+      },
+      "fr": {
+        "title": "Soin du Samoyède (Pelage Double et Hanche) : Routine en 3 étapes pour la perte de poils et la dysplasie de la hanche",
+        "description": "Le Samoyède est exposé à la dysplasie de la hanche et aux infections cutanées. Découvrez une routine en 3 étapes pour l'entretien du poil et des articulations.",
+        "authority": "Manuel officiel de l'AKC pour le Samoyède et normes de l'OFA",
+        "profile": {
+          "breed": "Samoyède",
+          "lifespan": "12 ~ 14 ans",
+          "sleep_pattern": "10 ~ 12 heures (recherche des sols frais sur le ventre)",
+          "temperament": "Doux, Amical, Vigilant, Joueur"
+        },
+        "intro": "Célèbre pour sa fourrure blanche et son 'Sourire de Samoyède', ce chien de traîneau est un géant énergique. Son pelage double le protège du gel mais garde la chaleur en zone humide, favorisant les infections de la peau. De plus, sa grande taille l'expose à la dysplasie de la hanche. Aujourd'hui, PetSelf décrypte ses signaux articulaires et propose une routine en 3 étapes.",
+        "whyTitle": "Langage corporel du Samoyède : pose de fraîcheur et boiterie de la hanche",
+        "whyDesc": "Quand il a chaud, il s'allonge en grenouille, un comportement dit **'splooting'** pour rafraîchir son ventre. Au contraire, le **'saut de lapin'** où les pattes arrière bougent ensemble traduit une douleur. Repérer ces signes protège sa hanche.",
+        "body_signals": [
+          {
+            "name": "Allonge de Grenouille (Splooting)",
+            "meaning": "Couché à plat ventre, pattes étirées, pour refroidir son corps contre le sol frais.",
+            "call": "response",
+            "response": "Offrez-lui des tapis rafraîchissants et laissez-le se reposer dans un endroit ombragé."
+          },
+          {
+            "name": "Saut de Lapin (Bunny Hopping)",
+            "meaning": "Sautiller avec les deux pattes arrière en même temps pour soulager l'articulation douloureuse de la hanche.",
+            "response": "Arrêtez l'exercice intensif immédiatement. Faites diagnostiquer une dysplasie de la hanche par un vétérinaire."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Brossage régulier pour aérer le sous-poil",
+            "text": "Brossez quotidiennement sa fourrure avec une carde (slicker) et un peigne en métal pour ôter le poil mort."
+          },
+          {
+            "name": "Après-midi : Protection articulaire et tapis antidérapants",
+            "text": "Installez des tapis antidérapants sur le carrelage et donnez-lui des compléments de glucosamine pour fortifier sa hanche."
+          },
+          {
+            "name": "Soir : Nettoyage des pattes et séchage complet au séchoir",
+            "text": "Lavez ses pattes après la promenade. Séchez entièrement les poils entre les coussinets au séchoir pour éviter les mycoses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Peut-on tondre le pelage double d'un Samoyède en été ?",
+            "answer": "C'est déconseillé. Le poil double sert d'isolant thermique et de bouclier contre les UV. Le tondre peut provoquer une mauvaise repousse et des brûlures de la peau."
+          },
+          {
+            "question": "Comment gérer la dysplasie de la hanche au quotidien ?",
+            "answer": "La gestion du poids est primordiale pour éviter d'exercer trop de pressions sur ses articulations. Évitez les sauts intenses durant sa croissance."
+          }
+        ],
+        "tags": [
+          "Samoyede",
+          "Pelage Double",
+          "Dysplasie de la Hanche",
+          "Entretien du Poil"
+        ]
+      },
+      "de": {
+        "title": "Samojede Fell- und Hüftpflege: 3-Schritte-Routine bei starkem Haaren und zur Vorbeugung von Hüftdysplasie",
+        "description": "Samojeden neigen zu Hüftdysplasie und Hautinfektionen unter ihrem dichten Fell. Lernen Sie eine Routine zur Pflege von Doppelhaar und Gelenken kennen.",
+        "authority": "AKC-Rassestandard für Samojeden & Richtlinien der OFA",
+        "profile": {
+          "breed": "Samojede",
+          "lifespan": "12 ~ 14 Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (sucht kühle Böden auf dem Bauch)",
+          "temperament": "Sanftmütig, Freundlich, Wachsam, Verspielt"
+        },
+        "intro": "Berühmt für ihr weißes, flauschiges Fell und das 'Samojeden-Lächeln' sind Samojeden sanfte und aktive Hunde. Ihr sibirischer Doppelmantel schützt vor Kälte, staut aber in warmen Regionen Feuchtigkeit, was zu Hautpilz führt. Zudem sind sie anfällig für Hüftdysplasie. Heute stellt PetSelf Gelenkwarnsignale vor und bietet eine 3-Schritte-Routine.",
+        "whyTitle": "Körpersprache des Samojeden: Kühlverhalten und Gelenkschmerzanzeichen",
+        "whyDesc": "Bei Hitze legen sich Samojeden flach hin, ein Verhalten namens **'Splooting'**, um den Bauch auf kühle Böden zu drücken. Das **'Hasen-Hopping'** (Hinterbeine bewegen sich synchron) ist ein Zeichen für Hüftschmerzen. Ein frühes Erkennen schützt die Gelenke.",
+        "body_signals": [
+          {
+            "name": "Flachliegen (Splooting)",
+            "meaning": "Flachliegen auf dem Bauch mit nach hinten gestreckten Beinen, um die Körpertemperatur zu senken.",
+            "response": "Stellen Sie Kühlmatten bereit und lassen Sie den Hund an einem gut belüfteten Ort ausruhen."
+          },
+          {
+            "name": "Hasen-Hopping (Bunny Hopping)",
+            "meaning": "Gleichzeitiges Aufsetzen der Hinterbeine beim Laufen, um schmerzende Hüftgelenke zu entlasten.",
+            "response": "Stoppen Sie anstrengende Aktivitäten. Lassen Sie die Hüfte von einem Tierarzt untersuchen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Zupfbürste für die Belüftung des Doppelmantels",
+            "text": "Bürsten Sie das dichte Fell täglich mit einer Zupfbürste und einem Metallkamm, um die Unterwolle zu lüften."
+          },
+          {
+            "name": "Nachmittag: Gelenkschutz & rutschfeste Matten",
+            "text": "Legen Sie rutschfeste Matten auf glatte Böden und füttern Sie Gelenkzusätze zur Vorbeugung."
+          },
+          {
+            "name": "Abend: Pfotenwäsche und gründliches Trockenföhnen",
+            "text": "Waschen Sie nach dem Auslauf die Pfoten. Föhnen Sie das nasse Fell zwischen den Ballen gut trocken, um Pilz zu verhindern."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollte ich das Fell meines Samojeden scheren?",
+            "answer": "Nein. Das Fell schützt vor Sonne und isoliert gegen Hitze. Scheren beschädigt die Haarstruktur und begünstigt Sonnenbrand."
+          },
+          {
+            "question": "Wie kann Hüftdysplasie vorgebeugt werden?",
+            "answer": "Achten Sie auf ein gesundes Gewicht. Vermeiden Sie Überfütterung im Wachstum und Sprünge auf glatten Böden."
+          }
+        ],
+        "tags": [
+          "Samojede",
+          "Doppelmantel",
+          "Huftdysplasie",
+          "Fellpflege"
+        ]
+      },
+      "pt": {
+        "title": "Cuidado da Pelagem Dupla e Quadril do Samoieda: Rotina de 3 passos para controle de queda e prevenção de displasia",
+        "description": "Samoiedas são propensos a displasia de quadril e dermatites sob a pelagem densa. Conheça a rotina para manter pelos e articulações saudáveis.",
+        "authority": "Diretrizes de raça do Samoieda do AKC e orientações da OFA",
+        "profile": {
+          "breed": "Samoieda",
+          "lifespan": "12 ~ 14 anos",
+          "sleep_pattern": "10 ~ 12 horas (prefere pontos frios de bruços)",
+          "temperament": "Dócil, Amigável, Alerta, Brincalhão"
+        },
+        "intro": "Famosos pela pelagem branca abundante e o 'Sorriso de Samoieda', são cães de trenó ativos e dóceis. Sua pelagem dupla protege do frio, mas acumula calor e umidade, gerando fungos. Por serem de grande porte, são propensos a displasia coxofemoral. Hoje, o PetSelf decifra seus sinais nas articulações e apresenta uma rotina em 3 passos.",
+        "whyTitle": "Linguagem corporal do Samoieda: postura de alívio e claudicação",
+        "whyDesc": "Para aliviar o calor, Samoiedas deitam esticados, postura chamada **'splooting'**, encostando o abdômen em superfícies frias. Já o **'andar de coelho'** (correr com patas traseiras juntas) revela dor de quadril. Identificar esses sinais é vital.",
+        "body_signals": [
+          {
+            "name": "Deitado Esticado (Splooting)",
+            "meaning": "Deitar de barriga com as patas traseiras esticadas para resfriar a temperatura corporal.",
+            "response": "Disponibilize tapetes gelados ou superfícies frias de azulejo e deixe-o descansar na sombra."
+          },
+          {
+            "name": "Andar de Coelho (Bunny Hopping)",
+            "meaning": "Correr movendo as patas traseiras juntas para diminuir a carga sobre o quadril dolorido.",
+            "response": "Interrompa atividades físicas intensas. Agende um exame de raio-x veterinário no quadril."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Escovação rasqueadeira para ventilação da pelagem",
+            "text": "Escove diariamente a pelagem usando rasqueadeira e pente metálico para remover o subpelo morto."
+          },
+          {
+            "name": "Tarde: Proteção articular e tapetes antiderrapantes",
+            "text": "Coloque tapetes antiderrapantes em pisos escorregadios e adicione glucosamina à comida."
+          },
+          {
+            "name": "Noite: Lavagem das patas e secagem completa",
+            "text": "Lave as patas após passear. Seque totalmente o pelo entre os coxins com secador para evitar dermatite."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Posso tosar o pelo do meu Samoieda no verão?",
+            "answer": "Não. A pelagem dupla serve como isolante térmico e protetor solar natural. Tosar na máquina expõe a pele a queimaduras e danifica a pelagem."
+          },
+          {
+            "question": "Como posso prevenir a displasia no quadril?",
+            "answer": "Evite o sobrepeso desde filhote para reduzir o estresse articular. Evite também brincadeiras com saltos altos em pisos lisos."
+          }
+        ],
+        "tags": [
+          "Samoieda",
+          "Pelagem Dupla",
+          "Displasia de Quadril",
+          "Queda de Pelo"
+        ]
+      },
+      "id": {
+        "title": "Perawatan Bulu Ganda & Sendi Samoyed: Rutinitas 3 Langkah untuk Bulu Rontok dan Mencegah Displasia Pinggul",
+        "description": "Samoyed rentan terhadap displasia pinggul dan infeksi kulit di balik bulu ganda yang tebal. Pelajari rutinitas untuk menjaga bulu dan sendi.",
+        "authority": "Panduan Ras Samoyed AKC & Pedoman OFA",
+        "profile": {
+          "breed": "Samoyed",
+          "lifespan": "12 ~ 14 tahun",
+          "sleep_pattern": "10 ~ 12 jam (menyukai tempat dingin dengan tengkurap)",
+          "temperament": "Lembut, Ramah, Waspada, Lincah"
+        },
+        "intro": "Terkenal dengan bulu putih tebal dan 'Senyum Samoyed'-nya, anjing penarik kereta salju ini adalah raksasa yang ramah. Bulu ganda tebalnya melindungi dari dingin namun mudah memerangkap panas di iklim lembap, memicu penyakit kulit. Karena ukurannya, mereka rentan terhadap displasia pinggul. Hari ini, PetSelf mengulas sinyal sendi Samoyed dan menyajikan rutinitas 3 langkah.",
+        "whyTitle": "Bahasa Tubuh Samoyed: Posisi Pendinginan Tubuh dan Tanda Nyeri Sendi",
+        "whyDesc": "Saat kegerahan, Samoyed berbaring dengan kaki belakang membentang, disebut **'splooting'**, untuk mendinginkan perut. Sebaliknya, cara berjalan **'melompat kelinci'** (kedua kaki belakang bergerak bersamaan) menunjukkan nyeri pinggul. Deteksi dini sangat penting.",
+        "body_signals": [
+          {
+            "name": "Tengkurap Meregang (Splooting)",
+            "meaning": "Tengkurap dengan kaki belakang menjulur lurus ke belakang untuk menurunkan suhu tubuh lewat lantai dingin.",
+            "response": "Sediakan alas pendingin atau lantai keramik dingin dan biarkan ia beristirahat di tempat teduh."
+          },
+          {
+            "name": "Lompatan Kelinci (Bunny Hopping)",
+            "meaning": "Melompat dengan kedua kaki belakang bersamaan untuk mengurangi tumpuan pada sendi pinggul yang sakit.",
+            "response": "Segera hentikan olahraga berat. Lakukan pemeriksaan sinar-X pinggul di klinik hewan."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Menyikat dengan Slicker Brush untuk Ventilasi Bulu",
+            "text": "Sikat bulu ganda mereka setiap hari menggunakan slicker brush dan sisir besi untuk membuang bulu mati di bagian dalam."
+          },
+          {
+            "name": "Siang: Perlindungan Sendi & Pemasangan Karpet Antilicin",
+            "text": "Pasang alas antilicin di lantai rumah yang licin dan berikan suplemen glukosamin untuk merawat sendinya."
+          },
+          {
+            "name": "Malam: Cuci Kaki dan Keringkan Secara Menyeluruh",
+            "text": "Bersihkan kaki setelah aktivitas luar ruangan. Keringkan bulu di sela-sela jari kaki dengan hair dryer hingga benar-benar kering."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bolehkah saya mencukur habis bulu Samoyed di musim panas?",
+            "answer": "Sangat tidak dianjurkan. Bulu ganda berfungsi sebagai isolator panas dan pelindung sinar UV. Mencukur habis dapat merusak folikel dan memicu sengatan matahari."
+          },
+          {
+            "question": "Bagaimana cara terbaik mengelola displasia pinggul?",
+            "answer": "Jaga berat badan ideal agar tidak membebani pinggulnya. Hindari aktivitas melompat terlalu tinggi di lantai yang licin."
+          }
+        ],
+        "tags": [
+          "Samoyed",
+          "Bulu Ganda",
+          "Displasia Pinggul",
+          "Bulu Rontok"
+        ]
+      }
+    }
+  }
+}

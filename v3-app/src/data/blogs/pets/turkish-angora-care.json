@@ -1,0 +1,514 @@
+{
+  "turkish-angora-care": {
+    "pubDate": "2026-04-07",
+    "updatedDate": "2026-04-07",
+    "locales": {
+      "en": {
+        "title": "Turkish Angora Deafness & Heart Care: A 3-Step Daily Routine for Deaf Odd-Eyed Cats and Coat Management",
+        "description": "Turkish Angoras with blue eyes or odd eyes are genetically prone to congenital deafness and HCM. Learn a 3-step routine to communicate and groom.",
+        "authority": "CFA Turkish Angora Breed Council & Veterinary Deafness Studies",
+        "profile": {
+          "breed": "Turkish Angora",
+          "lifespan": "12 ~ 18 years",
+          "sleep_pattern": "12 ~ 14 hours (prefers sleeping on high spots)",
+          "temperament": "Active, Intelligent, Loyal, Elegant"
+        },
+        "intro": "Boasting elegant long coats and striking eyes, Turkish Angoras are highly active and intelligent cats. Because of their genetics, white Turkish Angoras with blue eyes (including odd-eyed individuals) have a very high rate of congenital deafness. Additionally, cardiovascular health checks are required for older cats. Today, PetSelf decodes Turkish Angora deafness signals and provides a 3-step daily care routine.",
+        "whyTitle": "Turkish Angora Body Language: Deafness Signs and Vibration Sensitivity",
+        "whyDesc": "Deaf cats show unique behaviors such as **'unresponsive loud vocalization'** because they cannot monitor their own volume. Instead, they become highly sensitive to **'floor vibrations'**. Understanding these adaptations is crucial to prevent scaring them.",
+        "body_signals": [
+          {
+            "name": "Loud Vocalization",
+            "meaning": "Meowing loudly without looking back when called, indicating hearing loss and inability to regulate vocal volume.",
+            "response": "Avoid approaching from behind. Use visual cues (hand signals, light pointers) from the front before approaching."
+          },
+          {
+            "name": "High Sensitivity to Vibrations",
+            "meaning": "Sensing footsteps and movements through the vibration of the floor rather than sound waves.",
+            "response": "Gently tap the floor or wall before walking near them to signal your presence and avoid startling them."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Visual Greeting & Positive Hand Sign Training",
+            "text": "Say good morning using hand signs and gentle visual cues. Avoid loud sudden movements that might trigger anxiety."
+          },
+          {
+            "name": "Afternoon: High Vertical Space Setup and Safety Check",
+            "text": "Install sturdy cat towers and shelves, and ensure they are tightly fixed so the cat doesn't fall due to uncoordinated jumping."
+          },
+          {
+            "name": "Evening: Single-Coat Grooming to Prevent Hairballs",
+            "text": "Daily brushing with a pin brush is needed. Even though they lack a dense undercoat, their long hair can entangle and cause hairballs."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Are all white Turkish Angoras deaf?",
+            "answer": "Not all, but white cats with blue eyes have an extremely high probability (60-80%) of congenital deafness. Odd-eyed cats (one blue eye) often have deafness on the side of the blue eye."
+          },
+          {
+            "question": "How can I make my home safe for a deaf cat?",
+            "answer": "Always approach them within their field of vision, tap surfaces to create gentle vibrations before touching them, and keep them strictly indoors to prevent outdoor accidents."
+          }
+        ],
+        "tags": [
+          "Turkish Angora",
+          "Congenital Deafness",
+          "Odd-Eyed Cat",
+          "Grooming Care"
+        ]
+      },
+      "ko": {
+        "title": "터키시 앙고라 난청 및 심장 케어: 오드아이 난청 고양이 배려와 장모 케어 3단계 루틴",
+        "description": "파란 눈 또는 오드아이 터키시 앙고라는 유전적 난청(Deafness) 및 심장 비대증(HCM) 위험이 큽니다. 시각 신호 교감과 털 관리를 돕는 3단계 데일리 루틴을 알아봅니다.",
+        "authority": "CFA 터키시 앙고라 분과위원회 및 고양이 선천 난청 연구 표준",
+        "profile": {
+          "breed": "터키시 앙고라",
+          "lifespan": "12 ~ 18년",
+          "sleep_pattern": "12 ~ 14시간 (가장 높은 장소를 선호하는 수면)",
+          "temperament": "활동적임, 지능적임, 충성스러움, 우아함"
+        },
+        "intro": "우아한 실크 같은 장모와 신비로운 오드아이로 유명한 터키시 앙고라는 호기심이 많고 영리한 품종입니다. 하지만 백색 털에 파란 눈(또는 오드아이)을 지닌 터키시 앙고라는 유전적으로 선천성 난청을 앓을 확률이 대단히 높습니다. 또한 노령기에 접어들면 비대성 심근증(HCM)을 주의해야 합니다. 오늘 PetSelf에서는 터키시 앙고라의 난청 관련 특이 행동을 해독하고, 이들을 배려하는 3단계 관리 루틴을 공유합니다.",
+        "whyTitle": "터키시 앙고라의 바디 랭귀지: 무반응 하이톤 목소리와 진동 감지의 의미",
+        "whyDesc": "청력 장애가 있는 고양이는 자신의 울음소리 크기를 인지하지 못해 **'무반응 하이톤 울음'**을 울어 소통하려 합니다. 또한 소리 대신 바닥이나 가구의 **'진동에 민감하게 반응'**합니다. 이러한 특성을 이해해야 불필요한 공포감을 예방할 수 있습니다.",
+        "body_signals": [
+          {
+            "name": "무반응 하이톤 울음",
+            "meaning": "소리가 들리지 않는 답답함과 소통 욕구로 인해 허공을 보며 매우 큰 소리로 야옹 소리를 지르는 현상입니다.",
+            "response": "등 뒤에서 깜짝 놀라게 다가가지 말고, 시야 안쪽(눈앞)에서 다정히 손을 흔들거나 간식을 보여주어 시각적 소통을 시도합니다."
+          },
+          {
+            "name": "진동 민감 반응",
+            "meaning": "귀가 들리지 않는 대신 바닥과 발바닥 패드로 느껴지는 물리적 충격과 미세 진동으로 주변 물체의 접근을 파악하는 행동입니다.",
+            "call": "response",
+            "response": "고양이 근처로 걸어갈 때 미리 바닥을 톡톡 쳐서 진동으로 보호자의 인기척을 감지하게 하면 깜짝 놀라 하악질하는 행동을 예방할 수 있습니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 수하 신호 교감 및 시각적 아침 인사",
+            "text": "이름을 불러 깨우기보다 손을 좌우로 흔드는 시각 신호와 눈맞춤(눈키스)을 통해 스트레스 없는 교감으로 하루를 엽니다."
+          },
+          {
+            "name": "낮: 안전한 고고도 수직 공간 확보 및 고정 장치 점검",
+            "text": "높은 곳을 좋아하는 특성상 높은 장벽과 캣폴을 설치해 주되, 청력 저하로 균형 감각이 떨어질 수 있으므로 낙상 방지 장치를 고정합니다."
+          },
+          {
+            "name": "저녁: 장모 싱글코트 엉킴 방지 핀 브러시 빗질",
+            "text": "속털이 없는 싱글코트 장모종이므로 털이 가늘어 엉키기 쉽습니다. 하루 한 번 핀 브러시로 정성껏 빗어 엉킴을 제거하고 헤어볼을 예방합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "흰 털에 오드아이인 터키시 앙고라는 무조건 귀가 안 들리나요?",
+            "answer": "무조건은 아니지만 파란 눈을 가진 흰색 고양이는 선천성 난청을 가질 확률이 60~80%에 달합니다. 오드아이의 경우 파란 눈이 있는 쪽 귀만 들리지 않는 편측성 난청이 유발되는 경우가 대다수입니다."
+          },
+          {
+            "question": "난청 고양이를 키울 때 가장 주의해야 할 집안 환경은 무엇인가요?",
+            "answer": "바깥 소리를 전혀 듣지 못해 위험 상황 대처가 안 되므로 절대 방출해서는 안 되며 완전한 실내 사육을 유지해야 합니다. 또한 창문이나 출입문에 안전 방충망을 이중 설치하여 돌발 탈출을 막아야 합니다."
+          }
+        ],
+        "tags": [
+          "터키시 앙고라",
+          "선천 난청",
+          "오드아이 케어",
+          "장모 빗질"
+        ]
+      },
+      "ja": {
+        "title": "ターキッシュ・アンゴラの聴覚＆心臓ケア：オッドアイ・難聴猫の配慮と長毛ケアの3段階ルーティン",
+        "description": "白い毛で青い目（またはオッドアイ）のターキッシュ・アンゴラは遺伝的に先天性難聴とHCMのリスクがあります。視覚信号の対話と毛並みケアの3段階を紹介します。",
+        "authority": "CFAターキッシュ・アンゴラ評議会＆猫の難聴研究基準",
+        "profile": {
+          "breed": "ターキッシュ・アンゴラ",
+          "lifespan": "12 ~ 18年",
+          "sleep_pattern": "12 ~ 14時間（キャットタワー等の高い場所）",
+          "temperament": "活動的、スマート、忠実、優雅"
+        },
+        "intro": "シルクのような美しい長毛と神秘的なオッドアイで愛されるターキッシュ・アンゴラは、非常に賢く活発な猫種です。しかし、白毛で青い目を持つ個体は、遺伝的に高い確率で先天性難聴を発症します。またシニア期には肥大性心筋症（HCM）への配慮が必要です。本日、PetSelfでは難聴猫の特性を解き明かし、ストレスを与えない3段階の生活ケアを解説します。",
+        "whyTitle": "ターキッシュ・アンゴラのボディランゲージ：大声の鳴き方と振動感知のサイン",
+        "whyDesc": "聴覚に障害がある猫は、自身の鳴き声の音量が調節できないため**「後ろを向かずに大声で鳴く」**ことがあります。また、音の代わりに床などの**「振動を敏感にキャッチ」**して周囲を把握しています。",
+        "body_signals": [
+          {
+            "name": "大きな声での鳴き癖",
+            "meaning": "声の大きさを自分でモニターできないため、大きなハイトーンの声で呼びかける難聴猫の特徴です。",
+            "response": "後ろから急に触るのではなく、必ず視界に入る位置から手を振るなどして気配を伝えてから近づきます。"
+          },
+          {
+            "name": "床の振動への敏感な反応",
+            "meaning": "音が聞こえない代わりに、床や家具から伝わる微細な振動を足裏で感知して状況を察知しています。",
+            "response": "近づく前に床をトントンと軽く叩き、振動で接近を知らせることで、驚かせるのを防ぐことができます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：視覚シグナルでの対話とアイコンタクト",
+            "text": "大声で呼ぶのではなく、手の動きやゆっくりした瞬き（キャットアイキス）で目線を合わせて挨拶をします。"
+          },
+          {
+            "name": "昼：安全なキャットタワーの設置と耐震固定",
+            "text": "高い場所を好むため、高所の逃げ場を作りますが、聴覚低下で平衡感覚に影響が出る可能性があるため頑丈に固定します。"
+          },
+          {
+            "name": "夜：シルキーな長毛のもつれを防ぐピンブラシ掃除",
+            "text": "毛が非常に細く絡まりやすいため、毎日ピンブラシで優しく梳き、毛球症を防止します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "白いターキッシュ・アンゴラはみんな耳が聞こえないのですか？",
+            "answer": "全てではありませんが、白毛で両目が青い個体は60〜80%という高い確率で難聴になります。オッドアイの場合、青い目のある側の耳だけが聞こえないケースが多いです。"
+          },
+          {
+            "question": "難聴の猫を飼う上での注意点は何ですか？",
+            "answer": "外の音が聞こえず事故のリスクが高いため、完全室内飼育を徹底します。また、人が近づく際は驚かせないように、事前に振動で知らせる工夫が必要です。"
+          }
+        ],
+        "tags": [
+          "ターキッシュアンゴラ",
+          "難聴猫",
+          "オッドアイケア",
+          "毛玉予防"
+        ]
+      },
+      "zh": {
+        "title": "土耳其安哥拉猫听力与心脏护理：白毛异瞳猫的听障关怀及长毛护理3步日常惯例",
+        "description": "拥有蓝眼或异瞳的土耳其安哥拉猫遗传性先天耳聋及HCM风险高。了解通过手势沟通与毛发梳理的日常3步护理惯例。",
+        "authority": "CFA 土耳其安哥拉猫委员会与猫科听力医学标准",
+        "profile": {
+          "breed": "土耳其安哥拉猫",
+          "lifespan": "12 ~ 18年",
+          "sleep_pattern": "12 ~ 14小时（偏爱在高处入睡）",
+          "temperament": "活泼、聪明、忠诚、优雅"
+        },
+        "intro": "拥有丝绸般轻盈长毛与神话般异瞳的土耳其安哥拉猫非常聪明且优雅。但在遗传学中，拥有蓝色眼睛的纯白安哥拉猫（包括鸳鸯眼异瞳）先天性耳聋的概率极高，步入老年后还需定期排查肥大性心肌病（HCM）。今天，PetSelf 将带您走近听障猫咪的无声世界，传授通过视觉手势与梳理长毛保护健康的3步日常惯例。",
+        "whyTitle": "土耳其安哥拉猫的身体语言：无声世界里的高声呼唤与震动感知",
+        "whyDesc": "失去听力的猫咪因为无法监控自身的发声系统，常会表现出**“不回头且高分贝嚎叫”**的特征；它们会替代性地利用四肢**“敏锐感知地面震动”**。顺应并善用这些特征是防止其受惊受挫的必修课。",
+        "body_signals": [
+          {
+            "name": "高分贝且无方向性嚎叫",
+            "meaning": "由于自身听不到声音，在寻求家长关注或表达诉求时发出音量极大的嘶吼声，且呼唤名字无耳朵转向反应。",
+            "response": "切忌从后方突然拍打。应绕行到它前方视线内，使用温和的手势或灯光信号完成第一步沟通。"
+          },
+          {
+            "name": "敏锐的地面震动捕捉",
+            "meaning": "无法听到声波，从而将肉垫紧贴地面以感知人走动或物品跌落产生的机械共振。",
+            "response": "走近前，可在其身旁轻敲地板或墙壁，利用微弱震动向其传递“我正在走近”的信息，防止受惊产生防御性哈气。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：视觉手势语晨间打招呼",
+            "text": "用轻缓摆手等固定手势代替呼唤，配合深情慢眨眼（猫咪式吻）开启无声却温暖的早晨交流。"
+          },
+          {
+            "name": "中午：稳固高空水准空间，消除安全隐患",
+            "text": "土耳其安哥拉猫极爱攀爬，因听力问题平衡感可能受轻微影响，需检查家中高处猫爬架的紧固性以防坠落。"
+          },
+          {
+            "name": "晚上：丝质长毛排梳顺理，清除死毛",
+            "text": "属于无底绒的单层长毛，毛质如丝般细软，每日应使用针梳和钢梳顺毛梳理，预防打结与毛球堵塞肠道。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "纯白蓝眼的土耳其安哥拉猫一定会耳聋吗？",
+            "answer": "并非百分百，但极高。数据显示，纯白且双眼为蓝色的猫中，有60%-80%患有先天性听觉丧失。若为异瞳，通常蓝色眼睛同侧的耳朵听力会丧失。"
+          },
+          {
+            "question": "照顾听障安哥拉猫，家庭布置有什么细节？",
+            "answer": "必须完全封闭阳台和窗户，防范坠楼；接近前用微弱震动唤醒或引起注意；不要突然出现在它视野外进行触摸，以免引发应激反应。"
+          }
+        ],
+        "tags": [
+          "土耳其安哥拉猫",
+          "先天耳聋",
+          "异瞳猫咪",
+          "毛发护理"
+        ]
+      },
+      "es": {
+        "title": "Cuidado de la Sordera y Corazón del Angora Turco: Rutina de 3 pasos para gatos sordos con ojos dispares y cuidado del manto",
+        "description": "Los Angoras Turcos blancos con ojos azules u ojos impares son propensos a sordera congénita y HCM. Conozca una rutina para comunicarse y cepillar su manto.",
+        "authority": "CFA Turkish Angora Breed Council & Estudios de sordera felina",
+        "profile": {
+          "breed": "Angora Turco",
+          "lifespan": "12 ~ 18 años",
+          "sleep_pattern": "12 ~ 14 horas (elige los puntos más elevados para dormir)",
+          "temperament": "Activo, Inteligente, Leal, Elegante"
+        },
+        "intro": "Con un manto sedoso y ojos hermosos, el Angora Turco es un gato muy inteligente. Los ejemplares blancos con ojos azules (u ojos dispares) tienen una alta probabilidad de sordera congénita hereditaria. Además, requieren chequeos de cardiología al envejecer. Hoy, PetSelf descifra las señales de sordera del Angora Turco y ofrece una rutina en 3 pasos.",
+        "whyTitle": "Lenguaje corporal del Angora Turco: indicios de sordera y vibraciones",
+        "whyDesc": "Los gatos sordos demuestran comportamientos únicos, como **'vocalizaciones fuertes sin respuesta'** al no poder regular su volumen. Son muy sensibles a las **'vibraciones del suelo'**. Entender esto evita asustarlos.",
+        "body_signals": [
+          {
+            "name": "Vocalización Fuerte",
+            "meaning": "Maullar muy fuerte sin mirar atrás al ser llamado, debido a la sordera y falta de modulación de voz.",
+            "response": "No lo toque por la espalda. Use señales visuales (movimientos de mano o luz suave) desde el frente antes de acercarse."
+          },
+          {
+            "name": "Sensibilidad a las Vibraciones",
+            "meaning": "Sienten el andar y movimientos a través de la vibración del suelo antes que por el sonido.",
+            "response": "Toque suavemente el suelo o pared antes de caminar cerca de él para avisar su presencia sin asustarlo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Saludo visual y señales de mano positivas",
+            "text": "Salude de mañana usando señales de manos y pestañeo lento, evitando movimientos bruscos que puedan alarmarlo."
+          },
+          {
+            "name": "Tarde: Estructuras altas seguras y control de caída",
+            "text": "Instale torres y repisas fijadas con firmeza, ya que por la sordera su equilibrio puede requerir más soporte estable."
+          },
+          {
+            "name": "Noche: Cepillado de manto único contra nudos",
+            "text": "Cepille a diario con cepillo de púas. Aunque carece de subpelo denso, su pelo largo y fino se enreda fácilmente causando bolas de pelo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Todos los Angoras Turcos blancos son sordos?",
+            "answer": "No todos, pero los gatos blancos con ojos azules tienen un 60-80% de probabilidad de sordera congénita. Los gatos de ojos dispares suelen ser sordos en el lado del ojo azul."
+          },
+          {
+            "question": "¿Cómo adaptar el hogar para un gato con sordera?",
+            "answer": "Acérquese siempre dentro de su campo visual, use vibraciones tocando el suelo antes de tener contacto físico y manténgalo estrictamente adentro."
+          }
+        ],
+        "tags": [
+          "Angora Turco",
+          "Sordera Congenita",
+          "Ojos Dispares",
+          "Pelaje Largo"
+        ]
+      },
+      "fr": {
+        "title": "Soin de l'Angora Turc (Surdité et Cœur) : Routine en 3 étapes pour chat sourd aux yeux vairons et soin du poil",
+        "description": "L'Angora Turc blanc aux yeux bleus ou vairons est sujet à la surdité congénitale et à la CMH. Découvrez comment communiquer et soigner son poil.",
+        "authority": "Recommandations du CFA Turkish Angora Breed Council",
+        "profile": {
+          "breed": "Angora Turc",
+          "lifespan": "12 ~ 18 ans",
+          "sleep_pattern": "12 ~ 14 heures (dort en hauteur)",
+          "temperament": "Actif, Intelligent, Fidèle, Élégant"
+        },
+        "intro": "Doté d'une fourrure soyeuse et d'un regard fascinant, l'Angora Turc est un chat très vif. Les chats blancs aux yeux bleus ou vairons ont un taux élevé de surdité congénitale. Un suivi cardiaque est aussi recommandé pour les seniors. Aujourd'hui, PetSelf décrypte ses signaux et propose une routine en 3 étapes.",
+        "whyTitle": "Langage corporel de l'Angora Turc : signes de surdité et vibrations",
+        "whyDesc": "Un chat sourd miaule de façon singulière avec des **'vocalisations fortes'** car il ne contrôle pas son volume. Il est très sensible aux **'vibrations du sol'**. Comprendre cela évite de l'effrayer.",
+        "body_signals": [
+          {
+            "name": "Vocalisation Forte",
+            "meaning": "Miaulements forts sans réaction aux appels sonores, dus à l'absence de retour auditif.",
+            "response": "Ne l'approchez pas par derrière. Faites des gestes de la main dans son champ de vision pour capter son attention."
+          },
+          {
+            "name": "Sensibilité aux vibrations",
+            "meaning": "Il ressent vos pas et les mouvements grâce aux vibrations transmises par le sol.",
+            "call": "response",
+            "response": "Tapotez doucement le sol ou un meuble avant de l'approcher pour lui signaler votre présence sans le surprendre."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Salutation visuelle et communication par gestes",
+            "text": "Dites-lui bonjour par des gestes calmes et des clignotements d'yeux lents pour le rassurer dès le réveil."
+          },
+          {
+            "name": "Après-midi : Arbres à chats sécurisés et fixation",
+            "text": "Installez des arbres à chats et des étagères murales bien fixés pour limiter le risque de chute dû à un saut mal calibré."
+          },
+          {
+            "name": "Soir : Brossage du pelage simple pour éviter les nœuds",
+            "text": "Un brossage quotidien avec une brosse à picots est nécessaire. Leurs poils fins s'emmêlent vite et créent des boules de poils."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Tous les Angoras Turcs blancs sont-ils sourds ?",
+            "answer": "Non, mais le gène blanc associé aux yeux bleus donne une forte probabilité de surdité (60-80%). Si le chat a les yeux vairons, la surdité touche souvent le côté de l'œil bleu."
+          },
+          {
+            "question": "Comment sécuriser le quotidien d'un chat sourd ?",
+            "answer": "Approchez-le toujours de face, prévenez-le en tapotant le sol pour créer des vibrations et gardez-le strictement à l'intérieur de la maison."
+          }
+        ],
+        "tags": [
+          "Angora Turc",
+          "Surdite Congenitale",
+          "Yeux Vairons",
+          "Brossage Chat"
+        ]
+      },
+      "de": {
+        "title": "Türkisch Angora Taubheits- und Herzpflege: 3-Schritt-Routine für taube Katzen mit ungleichen Augen und Fellpflege",
+        "description": "Weiße Türkisch Angoras mit blauen Augen neigen zu angeborener Taubheit und HCM. Lernen Sie eine Routine zur Kommunikation und Fellpflege kennen.",
+        "authority": "Richtlinien des CFA Turkish Angora Breed Council & Taubheitsstudien",
+        "profile": {
+          "breed": "Türkisch Angora",
+          "lifespan": "12 ~ 18 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (schläft am liebsten auf hohen Plätzen)",
+          "temperament": "Aktiv, Intelligent, Treu, Elegant"
+        },
+        "intro": "Mit ihrem eleganten Fell und den leuchtenden Augen sind Türkisch Angoras aktive Katzen. Genetisch bedingt haben weiße Katzen mit blauen Augen ein hohes Risiko für angeborene Taubheit. Auch Herzkontrollen sind im Alter wichtig. Heute erklärt PetSelf Taubheitssignale und bietet eine 3-Schritt-Routine.",
+        "whyTitle": "Körpersprache der Türkisch Angora: Taubheitsanzeichen und Schwingungssensibilität",
+        "whyDesc": "Taube Katzen zeigen Verhaltensweisen wie **'laute Vokalisierung'**, da sie ihre Lautstärke nicht kontrollieren können. Dafür reagieren sie sensibel auf **'Bodenschwingungen'**. Das Verständnis dieser Signale beugt Erschrecken vor.",
+        "body_signals": [
+          {
+            "name": "Laute Vokalisierung",
+            "meaning": "Lautes Miauen ohne Reaktion auf Rufe, bedingt durch fehlendes Gehör und Lautstärkeregelung.",
+            "response": "Nicht von hinten nähern. Zeigen Sie sich von vorne und nutzen Sie Handzeichen oder Lichtsignale."
+          },
+          {
+            "name": "Schwingungssensibilität",
+            "meaning": "Wahrnehmung von Schritten über die Vibrationen des Bodens statt über Schallwellen.",
+            "response": "Klopfen Sie leicht auf den Boden oder die Wand, bevor Sie herantreten, um Ihre Anwesenheit zu signalisieren."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Visuelle Begrüßung & Handzeichen-Training",
+            "text": "Begrüßen Sie die Katze mit ruhigen Handzeichen und Augenkontakt. Vermeiden Sie plötzliche, laute Gesten."
+          },
+          {
+            "name": "Nachmittag: Hohe Liegeplätze stabil sichern",
+            "text": "Sichern Sie Kratzbäume und Regale gut ab. Da das Gleichgewicht leicht beeinträchtigt sein kann, ist Stabilität wichtig."
+          },
+          {
+            "name": "Abend: Fellpflege zur Vermeidung von Haarballen",
+            "text": "Bürsten Sie das feine, lange Haar täglich mit einer Pin-Bürste, da es leicht verfilzt, obwohl keine dichte Unterwolle vorliegt."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sind alle weißen Türkisch Angoras taub?",
+            "answer": "Nicht alle, aber weiße Katzen mit blauen Augen haben ein Risiko von 60-80%. Bei ungleichen Augen ist oft das Ohr auf der Seite des blauen Auges taub."
+          },
+          {
+            "question": "Wie gestalte ich den Alltag für eine taube Katze sicher?",
+            "answer": "Nähren Sie sich im Sichtfeld, kündigen Sie sich durch Bodenschwingungen an und halten Sie die Katze ausschließlich im Haus."
+          }
+        ],
+        "tags": [
+          "Turkisch Angora",
+          "Taubheit Katze",
+          "Ungleiche Augen",
+          "Langhaarpflege"
+        ]
+      },
+      "pt": {
+        "title": "Cuidado da Surdez e Coração do Angorá Turco: Rotina de 3 passos para gatos surdos com olhos de cores diferentes e pelos",
+        "description": "Gatos Angorá Turco brancos com olhos azuis ou de cores diferentes têm alta incidência de surdez congênita e HCM. Conheça a rotina de cuidados.",
+        "authority": "Conselho de raça do Angorá Turco da CFA e estudos veterinários de surdez",
+        "profile": {
+          "breed": "Angorá Turco",
+          "lifespan": "12 ~ 18 anos",
+          "sleep_pattern": "12 ~ 14 horas (dorme em locais muito altos)",
+          "temperament": "Ativo, Inteligente, Fiel, Elegante"
+        },
+        "intro": "Com pelagem longa e sedosa e olhos expressivos, o Angorá Turco é muito inteligente e ativo. Devido à genética, os gatos brancos com olhos azuis (incluindo heterocromia) apresentam alta probabilidade de surdez congênita. Além disso, exames cardiológicos são necessários na velhice. Hoje, o PetSelf decifra seus sinais de surdez e apresenta uma rotina em 3 passos.",
+        "whyTitle": "Linguagem corporal do Angorá Turco: vocalização forte e captação de vibrações",
+        "whyDesc": "Gatos surdos emitem **'vocalizações fortes'** pois não conseguem regular a própria voz. Em contrapartida, tornam-se sensíveis a **'vibrações no chão'**. Entender estes comportamentos é essencial.",
+        "body_signals": [
+          {
+            "name": "Vocalização Forte",
+            "meaning": "Miarem alto sem olhar para trás ao serem chamados, devido à surdez e falta de modulação vocal.",
+            "response": "Evite se aproximar por trás. Use sinais visuais (gestos de mão, foco de luz) pela frente antes do contato físico."
+          },
+          {
+            "name": "Sensibilidade a Vibrações",
+            "meaning": "Perceber a aproximação de pessoas através da vibração mecânica gerada no solo pelos passos.",
+            "response": "Bata levemente no chão com o pé ou a mão antes de chegar muito perto para sinalizar sua presença."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Cumprimento visual e comunicação por gestos",
+            "text": "Diga bom dia usando sinais de mão amigáveis e piscadas lentas de olhos, evitando gestos rápidos que assustem."
+          },
+          {
+            "name": "Tarde: Enriquecimento vertical estável e verificação de segurança",
+            "text": "Instale prateleiras e nichos bem fixados na parede. Como a surdez pode influenciar o equilíbrio, a estabilidade é vital."
+          },
+          {
+            "name": "Noite: Escovação do pelo longo sedoso para evitar nós",
+            "text": "A escovação diária com escova de pinos macios é necessária. Embora sem subpelo denso, o pelo fino se enreda facilmente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Todos os Angorás Turcos brancos são surdos?",
+            "answer": "Não todos, mas gatos brancos com olhos azuis têm alta probabilidade (60-80%) de surdez. Gatos com heterocromia (um olho azul) costumam ser surdos no ouvido do mesmo lado."
+          },
+          {
+            "question": "Como adaptar a casa para um gato com surdez?",
+            "answer": "Mantenha-o exclusivamente dentro de casa, evite toques surpresa acordando-o com vibrações no colchão e aproxime-se de frente."
+          }
+        ],
+        "tags": [
+          "Angora Turco",
+          "Surdez Congenita",
+          "Heterocromia",
+          "Pelagem Longa"
+        ]
+      },
+      "id": {
+        "title": "Perawatan Jantung & Tunarungu Turkish Angora: Rutinitas 3 Langkah untuk Kucing Odd-Eyed Tunarungu dan Perawatan Bulu",
+        "description": "Turkish Angora dengan mata biru atau odd eyes secara genetis rentan terhadap tunarungu bawaan dan HCM. Pelajari rutinitas komunikasi dan sisir bulu.",
+        "authority": "Dewan Ras Turkish Angora CFA & Studi Ketulian Kucing",
+        "profile": {
+          "breed": "Turkish Angora",
+          "lifespan": "12 ~ 18 tahun",
+          "sleep_pattern": "12 ~ 14 jam (menyukai tidur di tempat yang tinggi)",
+          "temperament": "Lincah, Cerdas, Setia, Anggun"
+        },
+        "intro": "Memiliki bulu panjang yang anggun dan mata yang indah, Turkish Angora adalah kucing yang aktif dan cerdas. Karena faktor genetik, Turkish Angora putih dengan mata biru (termasuk kucing odd-eyed) memiliki tingkat ketulian bawaan yang tinggi. Pemeriksaan jantung juga penting seiring bertambahnya usia. Hari ini, PetSelf mengulas sinyal tunarungu Turkish Angora dan menyajikan rutinitas 3 langkah.",
+        "whyTitle": "Bahasa Tubuh Turkish Angora: Tanda Tunarungu dan Sensitivitas Getaran",
+        "whyDesc": "Kucing tunarungu menunjukkan perilaku unik seperti **'vokalisasi keras tanpa respons'** karena tidak bisa memonitor volume suara sendiri. Mereka menjadi sangat peka terhadap **'getaran lantai'**. Memahami hal ini penting untuk mencegah mereka terkejut.",
+        "body_signals": [
+          {
+            "name": "Vokalisasi Keras",
+            "meaning": "Mengeong dengan keras tanpa menoleh saat dipanggil, menunjukkan gangguan pendengaran dan ketidakmampuan mengatur volume suara.",
+            "response": "Hindari mendekat dari belakang. Gunakan isyarat visual (isyarat tangan, lampu senter lembut) dari depan sebelum mendekat."
+          },
+          {
+            "name": "Sensitivitas Getaran Lantai",
+            "meaning": "Merasakan langkah kaki dan gerakan sekitar lewat getaran mekanis lantai daripada gelombang suara.",
+            "response": "Ketuk lantai secara lembut sebelum mendekat untuk memberi tahu kehadiran Anda agar kucing tidak terkejut."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Sapaan Visual & Pelatihan Isyarat Tangan Positif",
+            "text": "Sapa kucing di pagi hari menggunakan isyarat tangan dan kedipan mata lambat. Hindari gerakan tiba-tiba yang memicu kecemasan."
+          },
+          {
+            "name": "Siang: Area Vertikal Kokoh dan Pemeriksaan Keamanan",
+            "text": "Pasang cat tower dan rak dinding yang kokoh. Pastikan terpasang kuat karena keseimbangannya mungkin butuh tumpuan stabil."
+          },
+          {
+            "name": "Malam: Menyisir Bulu Panjang untuk Cegah Kusut",
+            "text": "Menyikat bulu setiap hari dengan pin brush sangat penting. Meskipun tidak memiliki bulu bagian dalam yang padat, bulu panjangnya mudah kusut."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah semua Turkish Angora putih tunarungu?",
+            "answer": "Tidak semua, tetapi kucing putih dengan mata biru memiliki peluang sangat tinggi (60-80%) mengalami ketulian bawaan. Kucing odd-eyed sering kali tulang di sisi mata yang biru."
+          },
+          {
+            "question": "Bagaimana cara merawat kucing tunarungu dengan aman di rumah?",
+            "answer": "Dekati selalu dari depan, buat getaran lembut di permukaan sebelum menyentuhnya, dan pastikan ia tetap berada di dalam rumah demi keselamatannya."
+          }
+        ],
+        "tags": [
+          "Turkish Angora",
+          "Tunarungu Kucing",
+          "Kucing Odd Eyed",
+          "Bulu Panjang"
+        ]
+      }
+    }
+  }
+}
