@@ -2,8 +2,8 @@
 formatVersion: 4
 title: "맨발로 걸으며 질문을 던진 철학자? 소크라테스의 인지적 산책 습관"
 description: "끊임없이 걸으며 생각을 확장한 고대 그리스의 지혜, 소크라테스. 보행 운동이 해마를 자극하고 인지적 유연성을 자극하는 뇌과학적 원리와 문제 해결 산책 가이드를 알아봅니다."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-03-06"
+updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["위인 습관", "소크라테스", "산책", "질문", "뇌과학"]
 heroImage: "/images/blog/socrates_walking_dialogue.png"

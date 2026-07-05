@@ -1,8 +1,8 @@
 ---
 title: "The President Who Read Books Aloud? Lincoln's Prefrontal Cortex Activation Reading Habit"
 description: "Abraham Lincoln maximized memory by using eyes and ears together. Learn the scientific effects of reading aloud to strengthen brain networks and improve information retention, plus a 5-minute practice guide."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["Great Habits","lincoln","Routine","Stamina"]
 heroImage: "/images/blog/lincoln_reading_aloud.png"

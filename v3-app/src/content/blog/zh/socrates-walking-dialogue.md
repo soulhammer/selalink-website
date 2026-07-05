@@ -1,8 +1,8 @@
 ---
 title: "赤脚行走并提出问题的哲学家？苏格拉底的认知散步习惯"
 description: "不断行走以拓宽思绪的古希腊智慧，苏格拉底。了解步行运动如何刺激海马体并激活认知灵活性的大脑科学原理，以及问题解决散步指南。"
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-03-06"
+updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["赤脚行走并提出问题的","Routine"]
 heroImage: "/images/blog/socrates_walking_dialogue.png"

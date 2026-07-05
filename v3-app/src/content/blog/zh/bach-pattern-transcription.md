@@ -1,8 +1,8 @@
 ---
 title: "在月光下抄写乐谱的大师？巴赫的顶叶刺激抄写习惯"
 description: "一生抄写前辈作曲家的乐谱以体现数学规则的约翰·塞巴斯蒂安·巴赫。分享指尖操作如何刺激大脑逻辑区域的科学原理以及现代抄写惯例。"
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["在月光下抄写乐谱的大","Routine"]
 heroImage: "/images/blog/bach_pattern_transcription.png"

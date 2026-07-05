@@ -2,8 +2,8 @@
 formatVersion: 4
 title: "정원을 걸으며 씨앗을 모은 대문호? 괴테의 아침 관찰 습관"
 description: "매일 아침 돋보기로 식물을 정밀 관찰하며 자연의 영감을 얻은 요한 볼프강 폰 괴테. 자연 노출이 인지 피로를 급격히 낮추는 '주의 회복 이론'의 비밀과 괴테의 아침 관찰 산책법을 제시합니다."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["위인 습관", "괴테", "아침루틴", "산책", "주의력회복"]
 heroImage: "/images/blog/goethe_botany_observation.png"

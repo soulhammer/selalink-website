@@ -1,8 +1,8 @@
 ---
 title: "Le génie qui jouait au billard lorsqu'il bloquait en composant ? L'habitude de Mozart pour activer le mode par défaut"
 description: "Wolfgang Amadeus Mozart jouait au billard pour activer son cerveau inconscient (DMN). Découvrez les secrets scientifiques sur la façon dont le repos cognitif crée des percées créatives."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-05-01"
+updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["Le génie q","Routine"]
 heroImage: "/images/blog/mozart_billiard_ideation.png"

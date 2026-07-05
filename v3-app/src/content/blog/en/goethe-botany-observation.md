@@ -1,8 +1,8 @@
 ---
 title: "The Great Writer Who Collected Seeds While Walking in the Garden? Goethe's Morning Observation Habit"
 description: "Johann Wolfgang von Goethe gathered natural inspiration by closely observing plants with a magnifying glass every morning. Discover the secrets of 'Attention Restoration Theory' and how to practice Goethe's morning observation walk."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Great Habits","goethe","Routine","Stamina"]
 heroImage: "/images/blog/goethe_botany_observation.png"

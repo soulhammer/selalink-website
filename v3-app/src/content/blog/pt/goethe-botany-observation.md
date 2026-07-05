@@ -1,8 +1,8 @@
 ---
 title: "O grande escritor que recolhia sementes passeando pelo jardim? O hábito de observação matinal de Goethe"
 description: "Johann Wolfgang von Goethe obtinha inspiração observando plantas com lupa todas as manhãs. Descubra os segredos da 'Teoria da Restauração da Atenção' e como praticar a caminhada de observação matinal de Goethe."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["O grande e","Routine"]
 heroImage: "/images/blog/goethe_botany_observation.png"

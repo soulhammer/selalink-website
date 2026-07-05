@@ -1,8 +1,8 @@
 ---
 title: "O génio que jogava bilhar quando bloqueava ao compor? O hábito de Mozart para ativar o modo padrão"
 description: "Wolfgang Amadeus Mozart jogava bilhar para ativar o seu cérebro inconsciente (DMN). Conheça os segredos científicos de como o descanso cognitivo cria avanços criativos, e uma rotina de jogo de 15 minutos."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-05-01"
+updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["O génio qu","Routine"]
 heroImage: "/images/blog/mozart_billiard_ideation.png"

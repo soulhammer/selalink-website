@@ -1,8 +1,8 @@
 ---
 title: "Der Präsident, der Bücher laut vorlas? Lincolns Lesegewohnheit zur Aktivierung des präfrontalen Cortex"
 description: "Abraham Lincoln maximierte sein Gedächtnis, indem er Augen und Ohren gleichzeitig nutzte. Erfahren Sie mehr über die wissenschaftlichen Effekte des lauten Vorlesens zur Stärkung der Gehirnnetzwerke und wie Sie es praktizieren."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["Der Präsid","Routine"]
 heroImage: "/images/blog/lincoln_reading_aloud.png"

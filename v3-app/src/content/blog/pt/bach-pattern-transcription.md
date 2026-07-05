@@ -1,8 +1,8 @@
 ---
 title: "O mestre que copiava partituras sob a luz da lua? O hábito de cópia de Bach para estimular o lóbulo parietal"
 description: "Johann Sebastian Bach personificou as regras matemáticas ao copiar partituras. Descubra os princípios científicos de como a manipulação manual estimula as áreas lógicas do cérebro e uma rotina moderna de transcrição."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["O mestre q","Routine"]
 heroImage: "/images/blog/bach_pattern_transcription.png"

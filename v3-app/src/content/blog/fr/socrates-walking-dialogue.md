@@ -1,8 +1,8 @@
 ---
 title: "Le philosophe qui posait des questions en marchant pieds nus ? L'habitude de la marche cognitive de Socrate"
 description: "Socrate, la sagesse grecque, prolongeait ses pensées en marchant constamment. Découvrez comment la marche stimule l'hippocampe et la flexibilité cognitive, avec un guide de marche pour résoudre les problèmes."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-03-06"
+updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["Le philoso","Routine"]
 heroImage: "/images/blog/socrates_walking_dialogue.png"

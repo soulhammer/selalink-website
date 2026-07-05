@@ -1,8 +1,8 @@
 ---
 title: "Le grand écrivain qui récoltait des graines en marchant dans le jardin ? L'habitude d'observation matinale de Goethe"
 description: "Johann Wolfgang von Goethe puisait son inspiration en observant les plantes à la loupe chaque matin. Découvrez la « Théorie de la restauration de l'attention » et comment pratiquer cette marche d'observation matinale."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Le grand é","Routine"]
 heroImage: "/images/blog/goethe_botany_observation.png"

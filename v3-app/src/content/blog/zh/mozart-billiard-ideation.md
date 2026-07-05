@@ -1,8 +1,8 @@
 ---
 title: "作曲卡壳时打打台球的天才？莫扎特的默认模式激活习惯"
 description: "在灵感枯竭时通过打台球来启动无意识大脑（DMN）的沃尔夫冈·阿玛多伊斯·莫扎特。为您介绍认知休息如何创造性地突破大脑瓶颈的科学奥秘以及15分钟时空游戏法。"
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-05-01"
+updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["作曲卡壳时打打台球的","Routine"]
 heroImage: "/images/blog/mozart_billiard_ideation.png"

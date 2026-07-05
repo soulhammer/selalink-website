@@ -1,8 +1,8 @@
 ---
 title: "Le maître qui copiait des partitions sous la lumière de la lune ? L'habitude de copie de Bach pour stimuler le lobe pariétal"
 description: "Jean-Sébastien Bach a assimilé les règles mathématiques en recopiant des partitions. Découvrez comment l'écriture manuelle stimule les zones logiques du cerveau, avec une routine moderne de copie."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Le maître ","Routine"]
 heroImage: "/images/blog/bach_pattern_transcription.png"

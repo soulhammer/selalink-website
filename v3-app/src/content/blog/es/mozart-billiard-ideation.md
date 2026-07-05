@@ -1,8 +1,8 @@
 ---
 title: "¿El genio que jugaba al billar cuando se bloqueaba al componer? El hábito de Mozart para activar el modo predeterminado"
 description: "Wolfgang Amadeus Mozart jugaba al billar para activar su cerebro inconsciente (DMN). Conozca los secretos científicos de cómo el descanso cognitivo crea avances creativos, y una rutina de juego de 15 minutos."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-05-01"
+updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["¿El genio ","Routine"]
 heroImage: "/images/blog/mozart_billiard_ideation.png"

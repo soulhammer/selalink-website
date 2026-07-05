@@ -1,8 +1,8 @@
 ---
 title: "Si Jenius yang Bermain Biliar Saat Menggubah Lagu Buntu? Kebiasaan Aktivasi Mode Default Mozart"
 description: "Wolfgang Amadeus Mozart bermain biliar untuk mengaktifkan otak bawah sadarnya (DMN). Pelajari rahasia ilmiah bagaimana istirahat kognitif menciptakan terobosan kreatif."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-05-01"
+updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["Si Jenius ","Routine"]
 heroImage: "/images/blog/mozart_billiard_ideation.png"

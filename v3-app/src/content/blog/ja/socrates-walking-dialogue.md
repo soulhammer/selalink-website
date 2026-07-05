@@ -1,8 +1,8 @@
 ---
 title: "裸足で歩きながら質問を投げかけた哲学者？ソクラテスの認知的散歩習慣"
 description: "絶えず歩きながら考えを広げた古代ギリシャの知恵、ソクラテス。歩行運動が海馬を刺激し、認知的柔軟性を刺激する脳科学的原理と問題解決のための散歩ガイドを紹介します。"
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-03-06"
+updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["裸足で歩きながら質問","Routine"]
 heroImage: "/images/blog/socrates_walking_dialogue.png"

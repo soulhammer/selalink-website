@@ -1,8 +1,8 @@
 ---
 title: "O filósofo que fazia perguntas caminhando descalço? O hábito do passeio cognitivo de Sócrates"
 description: "Sócrates, a sabedoria grega, expandia pensamentos caminhando constantemente. Descubra os princípios científicos de como caminhar estimula o hipocampo e a flexibilidade cognitiva, e um guia para resolver problemas."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-03-06"
+updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["O filósofo","Routine"]
 heroImage: "/images/blog/socrates_walking_dialogue.png"

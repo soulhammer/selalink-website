@@ -2,8 +2,8 @@
 formatVersion: 4
 title: "책을 소리 내어 크게 읽은 대통령? 링컨의 전두엽 활성 독서 습관"
 description: "눈과 귀를 동시에 사용하여 기억력을 극대화한 에이브러햄 링컨. 낭독을 통해 뇌의 연결망을 강화하고 정보 기억도를 향상시킨 과학적 효과와 5분 낭독 실천법을 공개합니다."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
 heroImage: "/images/blog/lincoln_reading_aloud.png"

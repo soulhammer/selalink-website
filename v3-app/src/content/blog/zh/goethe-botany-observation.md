@@ -1,8 +1,8 @@
 ---
 title: "在花园里散步并收集种子的文学泰斗？歌德的清晨观察习惯"
 description: "每天清晨用放大镜精细观察植物、从而获取自然灵感的约翰·沃尔夫冈·冯·歌德。为您呈献大自然接触能够急剧降低认知疲劳的“注意力恢复理论”之奥秘以及歌德的晨间观察散步法。"
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["在花园里散步并收集种","Routine"]
 heroImage: "/images/blog/goethe_botany_observation.png"

@@ -1,8 +1,8 @@
 ---
 title: "Le président qui lisait des livres à haute voix ? L'habitude de lecture de Lincoln pour activer le cortex préfrontal"
 description: "Abraham Lincoln a maximisé sa mémoire en utilisant simultanément les yeux et les oreilles. Découvrez les effets scientifiques de la lecture à haute voix pour renforcer les connexions cérébrales et améliorer la mémorisation."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["Le préside","Routine"]
 heroImage: "/images/blog/lincoln_reading_aloud.png"

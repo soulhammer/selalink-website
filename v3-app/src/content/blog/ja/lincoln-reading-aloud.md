@@ -1,8 +1,8 @@
 ---
 title: "本を声に出して読んだ大統領？リンカーンの前頭葉活性化読書習慣"
 description: "目と耳を同時に使って記憶力を極大化したエイブラハム・リンカーン。音読を通じて脳のネットワークを強化し、情報の保持力を高めた科学的効果と5分間の音読実践法を公開します。"
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["本を声に出して読んだ","Routine"]
 heroImage: "/images/blog/lincoln_reading_aloud.png"

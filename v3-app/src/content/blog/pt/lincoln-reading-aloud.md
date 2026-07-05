@@ -1,8 +1,8 @@
 ---
 title: "O presidente que lia livros em voz alta? O hábito de leitura de Lincoln para ativar o córtex pré-frontal"
 description: "Abraham Lincoln maximizou a memória ao usar os olhos e os ouvidos ao mesmo tempo. Conheça os efeitos científicos da leitura em voz alta para fortalecer as conexões cerebrais e melhorar a retenção de informações."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["O presiden","Routine"]
 heroImage: "/images/blog/lincoln_reading_aloud.png"

@@ -1,8 +1,8 @@
 ---
 title: "Filsuf yang Mengajukan Pertanyaan Sambil Berjalan Telanjang Kaki? Kebiasaan Berjalan Kognitif Socrates"
 description: "Kebijaksanaan Yunani Kuno Socrates memperluas pemikiran dengan berjalan terus-menerus. Pelajari prinsip ilmiah saraf tentang bagaimana berjalan merangsang hipokampus & fleksibilitas kognitif."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-03-06"
+updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["Filsuf yan","Routine"]
 heroImage: "/images/blog/socrates_walking_dialogue.png"

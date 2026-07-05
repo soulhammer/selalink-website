@@ -1,8 +1,8 @@
 ---
 title: "The Philosopher Who Asked Questions While Walking Barefoot? Socrates' Cognitive Walking Habit"
 description: "Ancient Greek wisdom Socrates expanded thoughts by walking constantly. Learn the brain-scientific principles of how walking stimulates the hippocampus and cognitive flexibility, plus a problem-solving guide."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-03-06"
+updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["Great Habits","socrates","Routine","Stamina"]
 heroImage: "/images/blog/socrates_walking_dialogue.png"

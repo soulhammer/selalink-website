@@ -1,8 +1,8 @@
 ---
 title: "Der Meister, der Noten im Mondlicht kopierte? Bachs Gewohnheit des handschriftlichen Abschreibens"
 description: "Johann Sebastian Bach verinnerlichte mathematische Regeln, indem er Partituren kopierte. Erfahren Sie, wie handschriftliches Schreiben logische Gehirnareale stimuliert und wie Sie eine moderne Abschreibe-Routine einrichten."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Der Meiste","Routine"]
 heroImage: "/images/blog/bach_pattern_transcription.png"

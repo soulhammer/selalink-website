@@ -1,8 +1,8 @@
 ---
 title: "作曲が行き詰まった時にビリヤードをした天才？モーツァルトのデフォルトモード活性化習慣"
 description: "楽想が浮かばない時にビリヤードをして無意識の脳（DMN）を稼働させたヴォルフガング・アマデウス・モーツァルト。認知の休息が創造的な突破口を生み出す科学的秘密と15分間の時空間ゲーム法を紹介します。"
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-05-01"
+updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["作曲が行き詰まった時","Routine"]
 heroImage: "/images/blog/mozart_billiard_ideation.png"

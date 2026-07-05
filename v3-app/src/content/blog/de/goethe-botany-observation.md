@@ -1,8 +1,8 @@
 ---
 title: "Der große Dichter, der beim Spaziergang Samen sammelte? Goethes morgendliche Beobachtungsgewohnheit"
 description: "Johann Wolfgang von Goethe sammelte Inspiration, indem er jeden Morgen Pflanzen mit einer Lupe beobachtete. Erfahren Sie mehr über die 'Attention Restoration Theory' und wie Sie Goethes Beobachtungsspaziergang praktizieren."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Der große ","Routine"]
 heroImage: "/images/blog/goethe_botany_observation.png"

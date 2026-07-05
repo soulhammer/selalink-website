@@ -1,8 +1,8 @@
 ---
 title: "Sastrawan Besar yang Mengumpulkan Biji Sambil Berjalan di Taman? Kebiasaan Mengamati Pagi Goethe"
 description: "Johann Wolfgang von Goethe mengumpulkan inspirasi alam dengan mengamati tanaman secara dekat dengan kaca pembesar setiap pagi. Pelajari rahasia 'Teori Pemulihan Perhatian'."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Sastrawan ","Routine"]
 heroImage: "/images/blog/goethe_botany_observation.png"

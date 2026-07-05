@@ -1,8 +1,8 @@
 ---
 title: "Presiden yang Membaca Buku dengan Keras? Kebiasaan Membaca Lincoln yang Mengaktifkan Korteks Prefrontal"
 description: "Abraham Lincoln memaksimalkan ingatan dengan menggunakan mata & telinga bersama-sama. Pelajari efek ilmiah membaca keras untuk memperkuat jaringan otak & meningkatkan retensi informasi."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["Presiden y","Routine"]
 heroImage: "/images/blog/lincoln_reading_aloud.png"

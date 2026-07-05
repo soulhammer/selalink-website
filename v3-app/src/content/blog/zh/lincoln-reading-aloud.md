@@ -1,8 +1,8 @@
 ---
 title: "大声朗读图书的总统？林肯的前额叶激活阅读习惯"
 description: "亚伯拉罕·林肯通过同时使用眼睛和耳朵最大化了记忆力。了解大声朗读以增强大脑网络并提高信息保留度的科学效果，以及5分钟朗读的实践指南。"
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-04-26"
+updatedDate: "2026-04-26"
 category: "BuildSelf"
 tags: ["大声朗读图书的总统？","Routine"]
 heroImage: "/images/blog/lincoln_reading_aloud.png"

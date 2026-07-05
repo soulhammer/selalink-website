@@ -1,8 +1,8 @@
 ---
 title: "The Genius Who Played Billiards When Stuck composing? Mozart's Default Mode Activation Habit"
 description: "Wolfgang Amadeus Mozart played billiards to activate his unconscious brain (DMN) when ideas blocked. Discover the scientific secrets of how cognitive rest creates creative breakthroughs, plus a 15-minute game routine."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-05-01"
+updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["Great Habits","mozart","Routine","Stamina"]
 heroImage: "/images/blog/mozart_billiard_ideation.png"

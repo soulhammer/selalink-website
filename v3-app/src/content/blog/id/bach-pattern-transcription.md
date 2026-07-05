@@ -1,8 +1,8 @@
 ---
 title: "Master yang Menyalin Musik di Bawah Sinar Rembulan? Kebiasaan Menyalin Bach yang Merangsang Lobus Parietal"
 description: "Johann Sebastian Bach mewujudkan aturan matematika dengan menyalin lembaran musik komposer senior. Pelajari prinsip ilmiah bagaimana manipulasi tangan merangsang area logis otak."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Master yan","Routine"]
 heroImage: "/images/blog/bach_pattern_transcription.png"

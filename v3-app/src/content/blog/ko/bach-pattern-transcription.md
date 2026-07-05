@@ -2,8 +2,8 @@
 formatVersion: 4
 title: "달빛 아래서 악보를 필사한 거장? 바흐의 두정엽 자극 필사 습관"
 description: "평생 동안 선배 작곡가들의 악보를 베껴 쓰며 수학적 규칙을 체화한 요한 제바스티안 바흐. 손끝 조작이 뇌의 논리 영역을 자극하는 과학적 원리와 현대적 필사 루틴을 전해드립니다."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
 heroImage: "/images/blog/bach_pattern_transcription.png"

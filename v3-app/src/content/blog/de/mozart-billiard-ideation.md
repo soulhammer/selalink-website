@@ -1,8 +1,8 @@
 ---
 title: "Das Genie, das Billard spielte, wenn das Komponieren stockte? Mozarts DMN-Aktivierungsgewohnheit"
 description: "Wolfgang Amadeus Mozart spielte Billard, um das DMN zu aktivieren. Entdecken Sie die wissenschaftlichen Geheimnisse, wie kognitive Ruhe kreative Durchbrüche ermöglicht, und eine 15-minütige Spiel-Routine."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-05-01"
+updatedDate: "2026-05-01"
 category: "BuildSelf"
 tags: ["Das Genie,","Routine"]
 heroImage: "/images/blog/mozart_billiard_ideation.png"

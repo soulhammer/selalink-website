@@ -1,8 +1,8 @@
 ---
 title: "庭を歩きながら種を集めた大文豪？ゲーテの朝の観察習慣"
 description: "毎朝拡大鏡で植物を精密に観察し、自然のインスピレーションを得たヨハン・ヴォルフガング・フォン・ゲーテ。自然への露出が認知疲労を劇的に下げる「注意回復理論」の秘密とゲーテの朝の観察散歩法を紹介します。"
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["庭を歩きながら種を集","Routine"]
 heroImage: "/images/blog/goethe_botany_observation.png"

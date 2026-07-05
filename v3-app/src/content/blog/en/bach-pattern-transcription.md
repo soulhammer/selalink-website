@@ -1,8 +1,8 @@
 ---
 title: "The Master Who Copied Music Under Moonlight? Bach's Parietal Lobe Stimulating Copying Habit"
 description: "Johann Sebastian Bach embodied mathematical rules by copying senior composers' sheet music. Discover the scientific principles of how hand manipulation stimulates logical brain areas and a modern transcription routine."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-06-19"
+updatedDate: "2026-06-19"
 category: "BuildSelf"
 tags: ["Great Habits","bach","Routine","Stamina"]
 heroImage: "/images/blog/bach_pattern_transcription.png"

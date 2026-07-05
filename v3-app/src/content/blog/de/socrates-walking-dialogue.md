@@ -1,8 +1,8 @@
 ---
 title: "Der Philosoph, der barfuß gehend Fragen stellte? Sokrates' kognitive Gehgewohnheit"
 description: "Sokrates erweiterte seine Gedanken durch ständiges Gehen. Erfahren Sie, wie Gehen den Hippocampus und die kognitive Flexibilität stimuliert, sowie eine Anleitung zum Problemlösen beim Gehen."
-pubDate: "2026-07-05"
-updatedDate: "2026-07-05"
+pubDate: "2026-03-06"
+updatedDate: "2026-03-06"
 category: "BuildSelf"
 tags: ["Der Philos","Routine"]
 heroImage: "/images/blog/socrates_walking_dialogue.png"
