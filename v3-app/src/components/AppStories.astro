@@ -45,31 +45,31 @@ const fsShorts = (freshselfData[lang] || freshselfData['en'] || []).map((s: any)
     const container = document.getElementById('app-stories-container');
     if (!container || !bsShorts || !fsShorts) return;
 
-    // 1. BuildSelf에서 랜덤 2개 추출
+    // 1. Extract 2 random items from BuildSelf
     const shuffledBs = [...bsShorts].sort(() => 0.5 - Math.random());
     const selectedBs = shuffledBs.slice(0, 2);
 
-    // 2. FreshSelf에서 랜덤 2개 추출
+    // 2. Extract 2 random items from FreshSelf
     const shuffledFs = [...fsShorts].sort(() => 0.5 - Math.random());
     const selectedFs = shuffledFs.slice(0, 2);
 
-    // 3. 2:2로 추출한 4개 아이템 병합
+    // 3. Combine the selected 4 items
     const combined = [...selectedBs, ...selectedFs];
 
-    // 4. 병합한 4개 아이템을 무작위 셔플 (Fisher-Yates Shuffle 적용)
+    // 4. Randomly shuffle the 4 items (Fisher-Yates)
     for (let i = combined.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [combined[i], combined[j]] = [combined[j], combined[i]];
     }
 
-    // 5. 셔플 완료된 4개의 스토리를 화면에 동적 렌더링
+    // 5. Dynamically render the 4 shuffled stories
     combined.forEach((story, index) => {
       const numLabel = `0${index + 1}`;
       
-      // 앱 브랜드 테마 색상 분기 (규칙 3 테마 색상 준수)
+      // Brand theme colors (Rule 3 compliant)
       const gradientClass = story.appType === 'buildself'
-        ? 'from-teal-500 via-teal-400 to-indigo-500 shadow-[0_10px_30px_rgba(20,184,166,0.2)] hover:shadow-[0_10px_40px_rgba(20,184,166,0.4)]' // BuildSelf: 민트
-        : 'from-purple-600 via-purple-400 to-pink-500 shadow-[0_10px_30px_rgba(139,92,246,0.2)] hover:shadow-[0_10px_40px_rgba(139,92,246,0.4)]'; // FreshSelf: 보라/핑크
+        ? 'from-teal-500 via-teal-400 to-indigo-500 shadow-[0_10px_30px_rgba(20,184,166,0.2)] hover:shadow-[0_10px_40px_rgba(20,184,166,0.4)]' // BuildSelf: Mint
+        : 'from-purple-600 via-purple-400 to-pink-500 shadow-[0_10px_30px_rgba(139,92,246,0.2)] hover:shadow-[0_10px_40px_rgba(139,92,246,0.4)]'; // FreshSelf: Purple/Pink
         
       const hoverTextColor = story.appType === 'buildself'
         ? 'group-hover:text-teal-600 dark:group-hover:text-teal-400'

@@ -62,7 +62,7 @@ const downloadFreshSelfText = t('shorts.modal.download.freshself');
     const ctaText = document.getElementById('modal-cta-text');
     
     if (modal && iframe && content) {
-      // 1. 앱 타입별 스토어 정보 분기
+      // 1. App store URL routing by type
       const storeUrl = appType === 'buildself'
         ? 'https://play.google.com/store/apps/details?id=com.selalink.buildself'
         : 'https://play.google.com/store/apps/details?id=com.selalink.freshself';
@@ -71,7 +71,7 @@ const downloadFreshSelfText = t('shorts.modal.download.freshself');
       const transFreshSelf = modal.getAttribute('data-trans-freshself') || 'Download FreshSelf';
       const text = appType === 'buildself' ? transBuildSelf : transFreshSelf;
       
-      // 2. 앱 타입별 테마 색상 클래스 적용 (규칙 3 테마 색상 준수)
+      // 2. Apply theme colors by app type
       const commonClasses = 'w-full flex items-center justify-center gap-2 bg-gradient-to-r text-white font-bold py-3.5 px-4 rounded-full transition-all transform hover:scale-[1.02] active:scale-95 group ';
       const activeClasses = appType === 'buildself'
         ? 'from-teal-500 to-teal-600 hover:from-teal-400 hover:to-teal-500 shadow-[0_10px_30px_rgba(20,184,166,0.4)]'
@@ -83,7 +83,7 @@ const downloadFreshSelfText = t('shorts.modal.download.freshself');
         ctaText.textContent = text;
       }
 
-      // 9:16 최적화 파라미터 적용 (autoplay, loop)
+      // 3. YouTube Shorts embed parameters (autoplay, loop)
       iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&modestbranding=1&loop=1&playlist=${videoId}&controls=0`;
       
       modal.classList.remove('hidden');
