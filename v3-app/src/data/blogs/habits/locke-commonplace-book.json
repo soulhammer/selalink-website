@@ -1,0 +1,223 @@
+{
+  "locke-commonplace-book": {
+    "title": {
+      "ko": "1분 안에 과거의 기록을 찾아낸 철학자? 존 로크의 커먼플레이스 북 색인법",
+      "en": "The Philosopher Who Found Past Records in 1 Minute? John Locke's Commonplace Book Indexing Method",
+      "ja": "1分以内に過去の記録を見つけ出した哲学者？ジョン・ロックのコモンプレイス・ブック索引法",
+      "zh": "在1分钟内检索出过往记录的哲学家？约翰·洛克的《公共账簿》索引法",
+      "es": "¿El filósofo que encontraba registros pasados en 1 minuto? El método de indexación del Commonplace Book de John Locke",
+      "fr": "Le philosophe qui retrouvait ses notes en 1 minute ? La méthode d'indexation du Commonplace Book de John Locke",
+      "de": "Der Philosoph, der Notizen in 1 Minute fand? John Lockes Methode zur Strukturierung des Einklebebuchs",
+      "pt": "O filósofo que encontrava registros antigos em 1 minuto? O método de indexação do Commonplace Book de John Locke",
+      "id": "Filsuf yang Menemukan Catatan Masa Lalu dalam 1 Menit? Metode Pengindeksan Buku Commonplace John Locke"
+    },
+    "description": {
+      "ko": "경험론의 거장 존 로크는 방대한 기록을 체계적으로 연동하기 위해 독창적인 알파벳 모음 색인법을 고안했습니다. 연상 기억을 자극하여 파편화된 지식을 영구 지식으로 만드는 뇌 과학적 원리를 다룹니다.",
+      "en": "John Locke, the giant of empiricism, devised an ingenious alphabetical index system to link vast records. Discover the brain science principles of associative memory.",
+      "ja": "経験論の巨匠ジョン・ロックは、膨大な記録を体系的に連動させるため、独創的なアルファベット母音索引法を考案しました。連想記憶を刺激し、断片化した知識を永久的な知識にする脳科学的原理を扱います。",
+      "zh": "经验论大师约翰·洛克为了系统地关联庞杂的记录，独创了字母-元音索引法。介绍刺激联想记忆、将碎片化信息转化为长久知识的脑科学原理。",
+      "es": "El maestro del empirismo John Locke ideó un original método de indexación alfabética para vincular registros. Analizamos cómo estimula la memoria asociativa para fijar el conocimiento.",
+      "fr": "Le maître de l'empirisme John Locke a conçu un index alphabétique ingénieux pour relier ses notes. Découvrez comment cette habitude stimule la mémoire associative.",
+      "de": "Der Vater des Empirismus John Locke erfand eine Buchstabensortierung für seine Notizen. Erfahren Sie, wie dies das assoziative Gedächtnis stärkt.",
+      "pt": "O mestre do empirismo John Locke idealizou um método original de indexação alfabética para vincular registros. Analisamos como ele estimula a memória associativa para fixar o conhecimento.",
+      "id": "Master empirisme John Locke merancang metode pengindeksan alfabetis untuk menghubungkan catatan. Pelajari sains otak dari memori asosiatif untuk memantapkan pengetahuan."
+    },
+    "authority": {
+      "ko": "존 로크의 논문 '커먼플레이스 북 제작의 새로운 방법' 및 인지 행동 연구",
+      "en": "John Locke's Treatise 'A New Method of Making Common-Place-Books' & Cognitive Research",
+      "ja": "ジョン・ロックの論文「コモンプレイス・ブック製作の新しい方法」および認知行動研究",
+      "zh": "约翰·洛克论文《制作公共账簿的新方法》与认知行为研究",
+      "es": "Tratado de John Locke 'Un nuevo método de hacer libros comunes' e investigación cognitiva",
+      "fr": "Traité de John Locke 'A New Method of Making Common-Place-Books' & recherche cognitive",
+      "de": "John Lockes Abhandlung 'A New Method of Making Common-Place-Books' & kognitive Forschung",
+      "pt": "Tratado de John Locke 'A New Method of Making Common-Place-Books' & pesquisa cognitiva",
+      "id": "Risalah John Locke 'Metode Baru Membuat Buku Common-Place' & Penelitian Kognitif"
+    },
+    "intro": {
+      "ko": "의회민주주의의 철학적 기반을 다지고 미국 독립선언서의 기초 사상이 된 계몽주의 철학의 거장 존 로크. 인간의 마음은 태어날 때 아무런 기록도 없는 하얀 종이 상태, 즉 '타불라 라사(Tabula Rasa)'와 같다고 주장한 그는, 과연 자신의 머릿속 빈 도화지를 어떻게 위대한 지식들로 가득 채워 나갔을까요? 📖\n\n로크는 방대한 정보와 독서 노트를 효율적으로 축적하기 위해 평생 '커먼플레이스 북(Commonplace Book)'이라는 노트를 썼습니다. 그는 노트에 순서대로 기록을 채워 넣는 일반적인 방식을 거부했습니다. 대신 노트 맨 앞에 가로세로 격자 모양의 특수한 알파벳 모음 색인표(Indexing System)를 직접 설계하여 그렸습니다. 그는 새로운 개념이나 의학 처방, 철학적 생각을 기록할 때마다 이 색인표에 주소를 할당해 연동했습니다. 이 유기적 기록 체계 덕분에 로크는 10년 전에 적어둔 사소한 아티클조차 단 1분 만에 정확히 찾아내어 자신의 사유와 결합할 수 있었습니다.\n\n오늘 BuildSelf에서는 존 로크가 지식을 관리하기 위해 집착적으로 고수했던 '색인 기록' 습관의 인지적 연결 원리를 분석하고, 이를 현대 디지털 정보 흐름에 맞게 적용하는 방법을 알아봅니다.",
+      "en": "John Locke, the giant of Enlightenment philosophy who laid the philosophical foundation of parliamentary democracy and became the basic idea of the American Declaration of Independence. How did he, who argued that the human mind is like a blank sheet of paper with no records at birth, tabula rasa, fill his blank canvas with great knowledge? 📰\n\nLocke kept a notebook called 'Commonplace Book' throughout his life to efficiently accumulate vast information and reading notes. He rejected the common method of filling a notebook in chronological order. Instead, he designed and drew a special alphabetical vowel index table in the front of the notebook. Whenever he recorded a new concept, medical prescription, or philosophical thought, he assigned an address to this index. Thanks to this organic record system, Locke could accurately find even minor articles written 10 years ago in just 1 minute and combine them with his thoughts.\n\nToday, BuildSelf analyzes the cognitive connection principles of the 'indexing record' habit that John Locke obsessively stuck to for managing knowledge, and discovers how to apply it to the modern digital information flow.",
+      "ja": "議会民主主義の哲学的な基盤を築き、アメリカ独立宣言の基礎思想となった啓蒙主義哲学の巨匠ジョン・ロック。人間の心は生まれた時は何ら記録のない白い紙の状態、すなわち「タブラ・ラサ（Tabula Rasa）」と同じだと主張した彼は、一体どのようにして自分の頭の中の真っ白なキャンバスを偉大な知識で満たしていったのでしょうか。 📖\n\nロックは、膨大な情報と読書ノートを効率的に蓄積するために、生涯「コモンプレイス・ブック（Commonplace Book）」というノートを書き続けました。彼はノートに時系列順に記録を書き入れていく一般的な方法を拒みました。代わりに、ノートの最前ページに縦横の格子模様をした特殊なアルファベット母音索引表（Indexing System）を自ら設計して描きました。彼は新しい概念や医学の処方、哲学的な思考を記録するたびに、この索引表にアドレスを割り当てて連動させました。この有機的な記録体系のおかげで、ロックは10年前に書き留めた些細な記述でさえ、わずか1分で正確に見つけ出し、自分の思考と結合させることができたのです。\n\n今日のBuildSelfでは、ジョン・ロックが知識を管理するために執着的に固執した「索引記録」習慣の認知的結合原理を分析し、これを現代のデジタル情報の流れに合わせて適用する方法を紹介します。",
+      "zh": "奠定了议会民主制的哲学基础、并成为美国《独立宣言》思想源泉的启蒙主义哲学大师——约翰·洛克。主张人类心灵在出生时就像是一张没有任何记录的白纸（即“白板说(Tabula Rasa)”）的他，究竟是如何将自己脑海中的空白画布填满伟大知识的呢？ 📖\n\n洛克为了高效积累庞杂的信息和读书笔记，终生都在使用一本名为《公共账簿(Commonplace Book)》的笔记本。他拒绝了按照时间顺序在笔记本中记录的常规方式。相反，他在笔记本的最前方亲自设计并绘制了一个特殊的横竖网格状字母-元音索引表(Indexing System)。每当他记录一个新的概念、医学处方或哲学思考时，都会在此索引表上分配一个地址进行关联。得益于这种有机的记录体系，洛克即使是找寻10年前记下的微小内容，也仅需短短1分钟便能精确检索出并融入当时的思考中。\n\n今天，BuildSelf 将为您剖析约翰·洛克为了管理知识而执着坚守的“索引记录”习惯在认知层面的联结原理，并探讨如何将其应用到现代数字化信息流中。",
+      "es": "John Locke, maestro del Siglo de las Luces que sentó las bases de la democracia parlamentaria e inspiró la Declaración de Independencia de EE. UU. Si la mente al nacer es una hoja en blanco, una 'tabula rasa', ¿cómo logró llenar su lienzo con tal nivel de conocimiento? 📖\n\nLocke llevó un cuaderno llamado 'Commonplace Book' toda su vida. Rechazaba el orden cronológico simple. En su lugar, diseñó al inicio un cuadrante de índice alfabético combinando vocales. Al registrar un dato, idea médica o reflexión, lo enlazaba a esa cuadrícula. Gracias a este sistema orgánico, Locke localizaba una nota de hacía diez años en un minuto para fundirla con sus ideas actuales.\n\nHoy, BuildSelf analiza la neurociencia detrás de esta 'indexación de notas' de John Locke y cómo adaptarla al flujo constante de información digital moderno.",
+      "fr": "John Locke, figure de la philosophie des Lumières qui a posé les bases de la démocratie parlementaire et inspiré la Déclaration d'Indépendance américaine. Comment celui qui affirmait que l'esprit humain à la naissance est une page blanche, une 'tabula rasa', a-t-il structuré ses connaissances ? 📖\n\nLocke a tenu un cahier appelé 'Commonplace Book' sa vie durant. Refusant le classement chronologique brut, il a conçu en tête de carnet un index combinant alphabets et voyelles. À chaque note, il lui attribuait une adresse dans cette grille. Grâce à ce classement organique, il retrouvait une ligne écrite dix ans plus tôt en moins d'une minute pour l'intégrer à ses travaux.\n\nAujourd'hui, BuildSelf décrypte la neurobiologie de cet 'index de connaissances' de John Locke, et vous montre comment le transposer au flux d'informations actuel.",
+      "de": "John Locke, der Vordenker der Aufklärung und Verfechter der Demokratie. Er sah den menschlichen Geist bei der Geburt als unbeschriebenes Blatt – als 'Tabula Rasa'. Wie füllte er dieses Blatt mit seinem fundierten Wissen? 📖\n\nLocke nutzte sein Leben lang ein Einklebebuch ('Commonplace Book'). Statt die Einträge chronologisch aneinanderzureihen, entwarf er vorn ein ausgeklügeltes Tabellensystem zur Einteilung nach Buchstaben und Vokalen. Jeden Gedanken oder Fakt verknüpfte er mit dieser Tabelle. So fand er selbst Einträge, die zehn Jahre zurücklagen, in unter einer Minute wieder.\n\nHeute analysiert BuildSelf die kognitiven Mechanismen hinter Lockes System und zeigt, wie man es auf die digitale Flut anwenden kann.",
+      "pt": "John Locke, mestre do Iluminismo que estruturou a democracia parlamentar e inspirou a Declaração de Independência dos EUA. Se a mente ao nascer é uma folha em branco ('tabula rasa'), como ele preencheu sua tela com tanto saber? 📖\n\nLocke usou um caderno chamado 'Commonplace Book' toda a vida. Rejeitando a ordem cronológica, criou um índice alfabético combinando vogais. Ao registrar uma ideia, linkava à sua tabela de coordenadas. Com este sistema, Locke localizava um fragmento de dez anos atrás em um minuto para enriquecer sua reflexão atual.\n\nHoje, o BuildSelf analisa as conexões cognitivas desse 'índice de notas' de John Locke e como aplicá-lo ao fluxo contemporâneo de dados digitais.",
+      "id": "John Locke, raksasa filsafat Pencerahan yang meletakkan dasar filosofis demokrasi parlementer dan memengaruhi Deklarasi Kemerdekaan AS. Bagaimana dia, yang berargumen bahwa pikiran manusia seperti kertas kosong saat lahir (tabula rasa), mengisi kanvas kosongnya dengan pengetahuan besar? 📰\n\nLocke menyimpan buku catatan bernama 'Commonplace Book' sepanjang hidupnya untuk mengumpulkan informasi. Dia menolak metode pengisian kronologis. Sebaliknya, ia merancang tabel indeks vokal alfabet khusus di bagian depan buku. Setiap kali dia mencatat konsep baru, dia menetapkan alamat ke indeks ini. Berkat sistem organik ini, Locke dapat menemukan catatan 10 tahun lalu hanya dalam 1 menit.\n\nHari ini, BuildSelf menganalisis prinsip koneksi kognitif dari rutinitas 'catatan indeks' John Locke, dan menemukan cara menerapkannya pada aliran informasi digital modern."
+    },
+    "whyTitle": {
+      "ko": "체계적 인덱싱을 통한 연상 기억 강화",
+      "en": "Strengthening Associative Memory via Systematic Indexing",
+      "ja": "体系的インデックスによる連想記憶の強化",
+      "zh": "通过系统索引强化联想记忆",
+      "es": "Fortalecer la Memoria Asociativa Mediante Indexación Sistemática",
+      "fr": "Renforcement de la Mémoire Associative par l'Indexation",
+      "de": "Stärkung des assoziativen Gedächtnisses durch Indexierung",
+      "pt": "Fortalecer a Memória Associativa via Indexação Sistemática",
+      "id": "Memperkuat Memori Asosiatif Melalui Pengindeksan Sistematis"
+    },
+    "whyDesc": {
+      "ko": "뇌의 기억 구조는 독립된 상자가 아닌, 연관된 정보들이 서로 그물망처럼 얽혀 있는 '연상 기억(Associative Memory)' 네트워크입니다. 존 로크의 인덱스 기록법은 뇌가 정보를 기억으로 받아들이는 부호화 단계에서부터 유기적인 연상 고리를 인위적으로 배치해 주는 것과 같습니다.\n\n정보를 무작위로 방치하지 않고 미리 약속된 카테고리에 고정(Tagging)하는 과정은 정보 간의 **'의미론적 거리(Semantic Distance)'**를 좁혀 줍니다. 이렇게 정리된 지식은 뇌 속에서 고립되지 않고 언제든 서로 연결될 수 있는 활성화 대기 상태가 되며, 전두엽 피질의 정보 검색(Search) 부하를 획기적으로 낮추어 필요할 때 1초 만에 인출(Recall)할 수 있게 도와줍니다.",
+      "en": "The brain's memory structure is not an independent box but an 'associative memory' network in which related information is intertwined like a net. John Locke's index recording method is like artificially arranging organic associative links from the encoding stage when the brain accepts information as memory.\n\nThe process of fixing (tagging) information into pre-committed categories instead of randomly scattering it narrows the **'semantic distance'** between information. Knowledge organized this way is not isolated in the brain but remains in an active standby state where it can connect at any time, dramatically reducing the search load on the frontal lobe cortex and helping recall it in 1 second when needed.",
+      "ja": "脳の記憶構造は独立した箱ではなく、関連する情報が互いに網のように絡み合っている「連想記憶（Associative Memory）」ネットワークです。ジョン・ロックのインデックス記録法は、脳が情報を記憶として受け入れる符号化段階から、有機的な連想リンクを人為的に配置してあげるようなものです。\n\n情報を無作為に放置せず、あらかじめ決めたカテゴリーに固定（タグ付け）するプロセスは、情報間の**「意味的距離（Semantic Distance）」**を縮めてくれます。このように整理された知識は脳内で孤立せず、いつでも互いにつながり合う活性化待機状態となり、前頭葉皮質の情報検索（Search）負荷を画期的に下げて、必要なときに1秒で取り出す（Recall）ことを可能にします。",
+      "zh": "大脑的记忆结构并不是一个个孤立的盒子，而是相关联的信息像网一样交织在一起的“联想记忆(Associative Memory)”网络。约翰·洛克的索引记录法，相当于在脑部接收信息作为记忆的编码阶段，人为地布置了有机的联想挂钩。\n\n不将信息随机散落，而是将其固定（打标签）在预先设定的类别中，这一过程拉近了信息之间的**“语义距离(Semantic Distance)”**。这样整理出来的知识在大脑中不会被孤立，而是随时处于能够互联互通的活跃待命状态，从而大幅降低大脑前额叶皮层的信息检索(Search)负荷，帮助在需要时瞬间提取(Recall)出来。",
+      "es": "La memoria no es un archivador estático, sino una red de 'memoria asociativa' donde los datos se conectan como una telaraña. El método de John Locke inserta coordenadas de enlace al registrar el dato en el cerebro.\n\nGuardar la información bajo categorías predefinidas reduce la **'distancia semántica (Semantic Distance)'** entre conceptos. Esto evita que las ideas queden aisladas en el cerebro; al contrario, permanecen activas y accesibles, bajando el esfuerzo de búsqueda del lóbulo frontal para recuperarlas de inmediato.",
+      "fr": "La mémoire n'est pas un ensemble de boîtes étanches, mais un réseau de 'mémoire associative' où les données sont interconnectées. La méthode d'indexation de John Locke revient à créer des liens d'association dès l'encodage de l'information par le cerveau.\n\nClasser les informations dans des catégories définies réduit la **'distance sémantique (Semantic Distance)'** entre les concepts. Les connaissances ainsi structurées ne sont plus isolées mais prêtes à s'associer à tout moment, allégeant la charge de recherche du cortex frontal pour un rappel immédiat.",
+      "de": "Unser Gedächtnis speichert Informationen nicht in separaten Boxen, sondern als Netz verknüpfter Daten ('assoziatives Gedächtnis'). Lockes Methode setzt künstliche Verknüpfungspunkte direkt bei der Aufnahme des Wissens.\n\nDas Zuordnen zu Begriffen verringert die **'semantische Distanz'** zwischen Konzepten. So bleibt Wissen im Gehirn vernetzt und aktiv. Dies entlastet das Frontalhirn bei der Suche und ermöglicht das schnelle Abrufen von Informationen.",
+      "pt": "A memória não é um arquivo estático, mas uma rede de 'memoria associativa' onde os dados conectam-se como teia. O método de John Locke insere coordenadas de ligação ao registrar o dado no cérebro.\n\nGuardar informações sob categorias pré-definidas reduz a **'distância semântica (Semantic Distance)'** entre conceitos. Isso evita que as ideias fiquem isoladas, mantendo as âncoras ativas e reduzindo a carga de busca do lobo frontal.",
+      "id": "Struktur memori otak bukanlah kotak independen melainkan jaringan 'memori asosiatif' di mana informasi terkait saling terkait. Metode perekaman indeks John Locke seperti mengatur tautan asosiatif organik secara artifisial dari tahap pengodean.\n\nProses penandaan informasi ke dalam kategori mempersempit **'jarak semantik'** antar informasi. Pengetahuan yang terorganisir dengan cara ini tidak terisolasi di otak tetapi tetap dalam keadaan siaga aktif, mengurangi beban pencarian di korteks lobus frontal."
+    },
+    "cautionTitle": {
+      "ko": "무계획적인 저장의 오류",
+      "en": "The Error of Unplanned Storage",
+      "ja": "無計画な保存の誤り",
+      "zh": "无计划存储的误区",
+      "es": "El Error del Almacenamiento Sin Plan",
+      "fr": "L'Erreur du Stockage sans Plan",
+      "de": "Der Fehler des unstrukturierten Speicherns",
+      "pt": "O Erro do Armazenamento Sem Critério",
+      "id": "Kesalahan Penyimpanan Tanpa Rencana"
+    },
+    "cautionDesc": {
+      "ko": "노트에 수많은 내용을 그냥 받아 적기만 하거나, 디지털 즐겨찾기에 무제한으로 저장하는 것은 뇌에게 정보가 보존되었다는 가짜 안도감을 주어 망각을 가속화합니다. 로크가 색인표에 주소를 할당했던 것처럼, 정보를 수집할 때 반드시 연동할 카테고리를 분류하고 인덱싱하는 의식적 개입이 있어야 뇌의 연상 구조가 작동합니다.",
+      "en": "Simply copying down contents or saving them to bookmarks gives the brain a false sense of security that information is preserved, accelerating forgetting. Just as Locke assigned addresses in his index, conscious intervention to classify and index categories is necessary for the brain's associative structure to work.",
+      "ja": "ノートに多くの内容をただ書き留めたり、デジタルお気に入りに無制限に保存することは、脳に情報が保存されたという偽の安心感を与え、忘却を加速させます。ロックが索引表にアドレスを割り当てたように、情報を収集するときに必ず連動するカテゴリーを分類しインデックス化する意識的な介入があって初めて、脳の連想構造が機能します。",
+      "zh": "只是在笔记本上抄写大量内容，或无限制地加入数字化收藏夹，会给大脑产生一种信息已被妥善保存的虚假安全感，从而加速遗忘。就像洛克在索引表上分配地址一样，在收集信息时，必须有意识地进行分类和索引，大脑的联想机制才会启动。",
+      "es": "Copiar páginas enteras sin criterio o amontonar marcadores digitales genera una falsa sensación de retención que acelera el olvido. Para que la memoria asociativa funcione, debe intervenir activamente clasificando la información bajo un índice, tal como hacía Locke.",
+      "fr": "Copier des pages entières sans réfléchir ou accumuler les favoris numériques crée un faux sentiment de rétention qui accélère l'oubli. Pour que la mémoire associative s'active, vous devez faire l'effort conscient de classer l'information, à l'image de Locke.",
+      "de": "Das bloße Aufschreiben von Massen an Texten oder unbegrenztes Speichern von Lesezeichen erzeugt ein falsches Gefühl der Sicherheit und beschleunigt das Vergessen. Erst die bewusste Kategorisierung und Zuordnung wie bei Locke aktiviert das Gedächtnis.",
+      "pt": "Copiar conteúdos inteiros sem critério ou acumular favoritos digitais gera uma falsa sensação de retenção que acelera o esquecimento. Para a memória funcionar, deve intervir ativamente categorizando as informações sob um índice, como fazia Locke.",
+      "id": "Menyalin konten begitu saja atau menyimpannya ke penanda memberi otak rasa aman palsu bahwa informasi tersebut dilestarikan, mempercepat lupa. Seperti Locke, intervensi sadar untuk mengklasifikasikan kategori diperlukan agar struktur asosiatif otak bekerja."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "핵심 범주 분류 체계 구축",
+          "en": "Establishing a Core Category Classification System",
+          "ja": "核心カテゴリー分類体系の構築",
+          "zh": "构建核心类别分类体系",
+          "es": "Crear un Sistema de Categorías Clave",
+          "fr": "Création d'un Système de Catégories Clés",
+          "de": "Kategorisierungssystem festlegen",
+          "pt": "Criar um Sistema de Categorias Principais",
+          "id": "Membangun Sistem Klasifikasi Kategori Inti"
+        },
+        "text": {
+          "ko": "내가 일상적으로 다루거나 공부하는 핵심 관심사 4~5개(예: 철학, 의학, 글쓰기, 기술 등)를 정해 노션이나 실제 노트에 대분류로 기정의해 둡니다. 카테고리가 너무 많지 않아야 합니다.",
+          "en": "Define 4-5 core interests that you daily handle or study (e.g., philosophy, medicine, writing, technology, etc.) in Notion or a physical notebook. Do not have too many categories.",
+          "ja": "自分が日常的に扱ったり勉強したりする主要な関心事4〜5個（例：哲学、医学、ライティング、テクノロジーなど）を決め、Notionや実際のノートに大分類として事前に定義しておきます。カテゴリーが多すぎないようにすることが大切です。",
+          "zh": "确定自身日常处理或学习的4-5个核心兴趣领域（如哲学、医学、写作、技术等），在 Notion 或实体笔记本中预先定义为大分类。注意类别不宜过多。",
+          "es": "Defina de 4 a 5 temas de interés clave (ej. finanzas, salud, tecnología, ideas) en su cuaderno o aplicación de notas. Evite multiplicar las categorías.",
+          "fr": "Définissez 4 à 5 domaines d'intérêt clés (ex: travail, idées, culture, santé) dans votre carnet ou application. N'élargissez pas trop le nombre de thèmes.",
+          "de": "Definieren Sie 4 bis 5 Hauptbereiche (z. B. Arbeit, Ideen, Wissen, Alltag) in einer App oder einem Notizbuch. Halten Sie die Anzahl der Bereiche gering.",
+          "pt": "Defina de 4 a 5 temas de interesse principais (ex: finanças, saúde, tecnologia, ideias) no seu caderno ou aplicativo. Evite criar categorias em excesso.",
+          "id": "Tentukan 4-5 minat inti yang Anda tangani (misalnya filosofi, menulis, teknologi, dll.) di Notion atau buku catatan. Jangan terlalu banyak kategori."
+        }
+      },
+      {
+        "name": {
+          "ko": "기록 주소 할당 및 유기적 기록",
+          "en": "Allocating Record Addresses and Organic Recording",
+          "ja": "記録アドレスの割り当てと有機的記録",
+          "zh": "分配记录地址并进行有机记录",
+          "es": "Asignar Coordenadas de Enlace y Registrar",
+          "fr": "Attribution d'Adresse et Enregistrement Organique",
+          "de": "Zuweisung von Ablageorten und Aufschreiben",
+          "pt": "Atribuir Coordenadas de Ligação e Registrar",
+          "id": "Alokasi Alamat Catatan dan Pencatatan Organik"
+        },
+        "text": {
+          "ko": "새로운 정보를 적을 때마다 제목 옆에 정의해 둔 카테고리 태그(예: [#기술 - AI])를 반드시 매핑하여 기록합니다. 분류 주소를 기입하는 행동 자체가 뇌의 분류 모델을 켭니다.",
+          "en": "Whenever writing new information, always map and record the defined category tag (e.g., [#technology - AI]) next to the title. The action of writing the classification address turns on the brain's classification model.",
+          "ja": "新しい情報を書き留めるたびに、タイトルの横に定義しておいたカテゴリータグ（例：[#テクノロジー - AI]）を必ずマッピングして記録します。分類アドレスを記入する行為自体が、脳の分類モデルを作動させます。",
+          "zh": "每当记录新信息时，必须在标题旁映射并写下预设的类别标签（如 [#技术 - AI]）。书写分类地址这一动作本身就会启动大脑的分类模型。",
+          "es": "Al escribir una nota, ponga siempre la etiqueta de categoría correspondiente (ej. [#tecnología - IA]) junto al título. Este paso activa el modelo de clasificación mental.",
+          "fr": "Lorsque vous écrivez une note, inscrivez toujours l'étiquette correspondante (ex: [#technologie - IA]) à côté du titre. Cette action active le classement mental.",
+          "de": "Ordnen Sie jedem Eintrag den passenden Bereich zu (z. B. [#wissen - geschichte]). Dieser Zuordnungsschritt aktiviert das Gehirn.",
+          "pt": "Ao escrever uma nota, insira sempre a etiqueta correspondente (ex: [#tecnologia - IA]) ao lado do título. Esta ação ativa o modelo de classificação mental.",
+          "id": "Setiap kali menulis informasi baru, petakan dan catat tag kategori (misalnya, [#teknologi - AI]) di sebelah judul. Tindakan menulis alamat klasifikasi mengaktifkan model otak."
+        }
+      },
+      {
+        "name": {
+          "ko": "인덱스 동기화 및 월간 연결 훑어보기",
+          "en": "Index Synchronization and Monthly Connection Review",
+          "ja": "インデックス同期と月間接続見直し",
+          "zh": "同步索引与月度关联回顾",
+          "es": "Sincronizar Índices y Repasar Conexiones al Mes",
+          "fr": "Synchronisation de l'Index et Revue Mensuelle",
+          "de": "Index-Synchronisierung und monatlicher Review",
+          "pt": "Sincronizar Índices e Repassar Conexões Mensalmente",
+          "id": "Sinkronisasi Indeks dan Tinjauan Koneksi Bulanan"
+        },
+        "text": {
+          "ko": "한 달에 한 번 색인된 지식 노트를 가볍게 훑어봅니다. 서로 다른 카테고리의 노트를 비교하며 공통점을 발견하거나 유기적으로 결합하여 새로운 지적 아이디어로 확장합니다.",
+          "en": "Once a month, lightly review the indexed knowledge notes. Compare notes from different categories to discover commonalities or organically combine them into new intellectual ideas.",
+          "ja": "月に一度、インデックス化された知識ノートを軽く見返します。異なるカテゴリーのノートを比較して共通点を発見したり、有機的に結合して新しいアイデアへと拡張させます。",
+          "zh": "每月一次，轻快回顾已索引的知识笔记。通过对比不同类别下的笔记以发现共同点，或将它们有机结合，扩展出全新的智力创意。",
+          "es": "Una vez al mes, repase las notas guardadas. Compare apuntes de temas distintos para hallar puntos en común o conectarlos en nuevas ideas creativas.",
+          "fr": "Une fois par mois, passez en revue vos notes. Comparez des thèmes différents pour trouver des points communs ou les associer pour générer de nouvelles idées.",
+          "de": "Überfliegen Sie einmal im Monat Ihre sortierten Notizen. Vergleichen Sie Einträge aus verschiedenen Bereichen, um neue Ideen oder Verknüpfungen zu finden.",
+          "pt": "Uma vez por mês, repasse as notas salvas. Compare anotações de temas distintos para encontrar pontos em comum ou conectá-los em novas ideias.",
+          "id": "Sekali sebulan, tinjau catatan pengetahuan yang diindeks. Bandingkan catatan dari kategori berbeda untuk menemukan kesamaan atau menggabungkannya."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "존 로크의 커먼플레이스 북 색인 방법이 무엇인가요?",
+          "en": "What is John Locke's commonplace book indexing method?",
+          "ja": "ジョン・ロックのコモンプレイス・ブック索引法とはどのようなものですか？",
+          "zh": "约翰·洛克的《公共账簿》索引法具体是怎样的？",
+          "es": "¿En qué consiste el método de indexación de John Locke?",
+          "fr": "En quoi consiste la méthode d'indexation de John Locke ?",
+          "de": "Wie funktionierte Lockes Einklebebuch-Indexierung?",
+          "pt": "Como funciona o método de indexação de John Locke?",
+          "id": "Apa itu metode pengindeksan buku commonplace John Locke?"
+        },
+        "answer": {
+          "ko": "노트 맨 앞 페이지에 알파벳(A~Z)과 모음(a, e, i, o, u)의 조합으로 격자를 그린 뒤, 특정 키워드(예: 'Epistola'는 E의 i 칸)에 해당하는 페이지 번호들을 격자 칸에 기입하여 교차 검색을 쉽게 만든 고유의 주소 지정 시스템이었습니다.",
+          "en": "It was a unique addressing system that drew a grid with the combination of alphabets (A-Z) and vowels (a, e, i, o, u) on the front page of the notebook, and wrote page numbers corresponding to specific keywords (e.g., 'Epistola' in the 'i' slot of E) in the grid slots to make cross-searching easy.",
+          "ja": "ノートの最初のページにアルファベット（A〜Z）と母音（a, e, i, o, u）の組み合わせで格子を描き、特定のキーワード（例：「Epistola」はEのi欄）に該当するページ番号を格子欄に記入することで、相互検索を容易にした独自の住所指定システムでした。",
+          "zh": "该方法在笔记本首页绘制一个由字母（A-Z）与元音（a、e、i、o、u）组合而成的网格，每当有特定关键词时（例如，单词“Epistola”对应字母E的元音i格），便将对应的页码记入该网格中，从而实现极其便捷的交叉检索，这是一套独特的地址指定系统。",
+          "es": "Consistía en dibujar una cuadrícula al inicio con letras (A-Z) y vocales (a, e, i, o, u). Al anotar un término clave (ej. 'Epistola' en la E con la i), escribía el número de página en la cuadrícula para facilitar la búsqueda cruzada.",
+          "fr": "Il dessinait une grille combinant consonnes (A-Z) et voyelles (a, e, i, o, u). Pour un mot clé (ex: 'Epistola' sous E-i), il inscrivait le numéro de page dans la case pour faciliter les recherches croisées.",
+          "de": "Er zeichnete vorn ein Raster aus Konsonanten (A-Z) und Vokalen (a, e, i, o, u). Für Begriffe (z. B. 'Epistola' unter E-i) trug er die Seitenzahl in dieses Raster ein, was das spätere Suchen erleichterte.",
+          "pt": "Consistia em desenhar uma grade inicial com letras (A-Z) e vogais (a, e, i, o, u). Para termos específicos (ex: 'Epistola' na letra E com o 'i'), anotava a página na grade correspondente para facilitar a busca cruzada.",
+          "id": "Ini adalah sistem pengalamatan unik yang menggambar kisi-kisi kombinasi alfabet dan vokal di halaman depan, dan menulis nomor halaman yang sesuai dengan kata kunci tertentu untuk memudahkan pencarian."
+        }
+      },
+      {
+        "question": {
+          "ko": "아날로그 노트가 디지털 방식보다 지식 소화에 더 유익한가요?",
+          "en": "Are analog notebooks more beneficial for knowledge digestion than digital methods?",
+          "ja": "アナログノートの方がデジタル方式よりも知識の消化に有益ですか？",
+          "zh": "手写模拟笔记本比数字方式更有利于知识消化吗？",
+          "es": "¿Es el papel más beneficioso para asimilar conocimientos que lo digital?",
+          "fr": "Le papier est-il plus efficace pour assimiler les connaissances que le numérique ?",
+          "de": "Ist Papier für das Verstehen besser als digitale Notizen?",
+          "pt": "O papel é melhor para fixar o conhecimento do que o meio digital?",
+          "id": "Apakah buku catatan analog lebih bermanfaat untuk pencernaan pengetahuan daripada metode digital?"
+        },
+        "answer": {
+          "ko": "손글씨는 뇌의 인지적 통제 네트워크를 더 강하게 자극해 단기적 부호화에 유리하지만, 디지털 방식은 검색과 연동이 신속하고 데이터 소실 위험이 없어 개인의 성향에 맞는 도구를 선택하거나 하이브리드로 병용하는 것이 가장 좋습니다.",
+          "en": "Handwriting strongly stimulates the brain's cognitive control network and is advantageous for short-term encoding. However, digital methods are fast in search and link and have no data loss risk, so choosing a tool fit for your style or combining both is best.",
+          "ja": "手書きは脳の認知制御ネットワークをより強く刺激するため短期的な符号化に有利ですが、デジタル方式は検索と連携が迅速でデータ消失の危険がないため,個人の好みに合うツールを選んだり、併用したりするのがベストです。",
+          "zh": "手写能更强烈地刺激大脑的认知控制网络，有利于短期编码；但数字方式在检索和关联上极其迅速且没有数据丢失风险，因此最好选择适合个人偏好的工具，或将二者混合使用。",
+          "es": "Escribir a mano activa más la red de control cognitivo, facilitando la retención inicial. Sin embargo, lo digital destaca por su rapidez de búsqueda y seguridad. Lo ideal es elegir según su perfil o combinar ambos sistemas.",
+          "fr": "L'écriture manuscrite stimule plus fortement le contrôle cognitif, favorisant l'encodage initial. Le numérique l'emporte sur la recherche et la sauvegarde. L'idéal reste d'utiliser le support adapté ou de combiner les deux.",
+          "de": "Handschrift regt die Hirnaktivität stärker an und hilft beim Verstehen. Digitale Notizen sind jedoch durchsuchbar und sicherer. Am besten ist es, das Werkzeug nach Vorliebe zu wählen oder beide zu kombinieren.",
+          "pt": "Escrever à mão ativa mais a rede de controle cognitivo, facilitando a retenção inicial. O meio digital destaca-se pela rapidez de busca e segurança. O ideal é escolher o que melhor se adapta ou combinar ambos.",
+          "id": "Menulis tangan merangsang jaringan kontrol kognitif otak dengan kuat dan menguntungkan pengodean jangka pendek. Namun, metode digital cepat dalam pencarian dan tidak memiliki risiko kehilangan data."
+        }
+      }
+    ],
+    "stepImages": [
+      "",
+      "",
+      ""
+    ],
+    "pubDate": "2026-03-19",
+    "updatedDate": "2026-03-19"
+  }
+}
