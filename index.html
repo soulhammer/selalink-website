@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>SelaLink | System Architecture Lab</title>
+    <link rel="icon" href="/public/images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/public/images/apple-touch-icon.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@100;300;400;600;700;900&display=swap" rel="stylesheet">
     <script>
@@ -170,7 +172,7 @@
         .landing-surface {
             position: absolute;
             inset: 0;
-            background-image: url('https://images.unsplash.com/photo-1533460004989-cef01064af7c?auto=format&fit=crop&q=80&w=2000');
+            background-image: url('/public/images/banner.webp');
             background-size: cover;
             background-position: center bottom;
             opacity: calc((var(--journey-progress) - 0.78) * 5);
@@ -234,8 +236,8 @@
     <nav class="fixed w-full z-[150] glass-nav h-16 md:h-20 flex items-center transition-all">
         <div class="max-w-[1600px] mx-auto px-4 md:px-10 w-full flex justify-between items-center">
             <div class="flex items-center gap-3 group cursor-pointer" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
-                <div class="w-10 h-10 md:w-12 bg-brand-600 rounded-xl flex items-center justify-center text-white shadow-2xl transition-transform group-hover:scale-105 border border-white/5 aspect-square">
-                    <svg viewBox="0 0 24 24" class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2L4 9l8 7 8-7-8-7zM12 22v-6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                <div class="w-10 h-10 md:w-12 rounded-xl overflow-hidden aspect-square border border-white/10 shadow-2xl transition-transform group-hover:scale-105">
+                    <img src="/public/images/logo.png" alt="SelaLink Logo" class="w-full h-full object-cover">
                 </div>
                 <div class="flex flex-col">
                     <span class="text-lg md:text-2xl font-black tracking-tighter uppercase italic leading-none">SelaLink</span>
@@ -377,8 +379,8 @@
         <div class="section-content px-6 flex flex-col lg:flex-row justify-between items-start lg:items-end gap-20">
             <div class="space-y-12">
                 <div class="flex items-center gap-10">
-                    <div class="w-14 h-14 bg-slate-900 dark:bg-white rounded-3xl flex items-center justify-center text-white dark:text-black shadow-3xl p-3.5 transition-transform hover:scale-105">
-                         <svg viewBox="0 0 24 24" class="w-full h-full" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 17l6-6-6-6M12 19h8" stroke-linecap="round"/></svg>
+                    <div class="w-14 h-14 rounded-3xl overflow-hidden shadow-3xl transition-transform hover:scale-105 aspect-square border border-slate-200 dark:border-white/10">
+                         <img src="/public/images/logo.png" alt="SelaLink Logo" class="w-full h-full object-cover">
                     </div>
                     <div class="flex flex-col text-slate-900 dark:text-white">
                         <span class="text-4xl md:text-5xl font-black tracking-tighter uppercase italic leading-none">SelaLink</span>
