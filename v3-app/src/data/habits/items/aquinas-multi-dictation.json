@@ -1,0 +1,29 @@
+{
+  "id": "aquinas-multi-dictation",
+  "name": "토마스 아퀴나스",
+  "gender": "male",
+  "era": "고대",
+  "location": "이탈리아",
+  "lifespan": "1225 - 1274",
+  "birthYear": 1225,
+  "bio": "중세 철학 및 신학의 거장으로, 신앙과 이성을 조화롭게 융합한 스콜라 철학의 대작 《신학대전(Summa Theologiae)》을 저술했습니다.",
+  "habitName": "복수 비서 구술 대필과 멀티태스킹",
+  "tags": ["#집중력", "#구술대필", "#작업기억", "#중세"],
+  "timeOfDay": "anytime",
+  "requiredItems": ["책상과 의자", "여러 명의 대필 비서와 종이"],
+  "frequency": "daily",
+  "historicalStory": "토마스 아퀴나스는 생각의 속도가 손으로 글을 쓰는 속도보다 훨씬 빨랐습니다. 그는 이 문제를 해결하기 위해, 동시에 3~4명의 비서들을 앞에 앉혀 두고 방을 거닐며 논리를 구술하여 받아쓰게 했습니다. 놀라운 점은 각 비서가 서로 다른 주제나 저작의 파트를 맡고 있었음에도, 한 비서에게 구술을 하다가 멈춘 뒤 다른 비서에게 즉시 다른 주제의 복잡한 논증을 끊김 없이 이어서 구술했다는 기록이 전해집니다.",
+  "sciencePrinciples": "동시에 여러 갈래의 복잡한 추상 논증을 전환하며 구술하는 습관은 인간 뇌의 '작업 기억(Working Memory)' 용량과 '인지 전환 비용(Cognitive Switching Cost)' 조절 능력을 극대화한 사례입니다. 전전두엽 피질의 중앙 집행계(Central Executive)가 정보를 고도로 구조화하고 활성화 상태를 유지함으로써, 정보 간의 혼선(Interference) 없이 빠른 작업 컨텍스트 전환(Context Switching)을 수행할 수 있게 해 줍니다.",
+  "quote": "이성 없는 신앙은 맹목이고, 신앙 없는 이성은 무기력하다.",
+  "trigger": "다양한 업무 프로젝트를 동시에 조율하거나 고도의 아이디어 전환이 필요할 때",
+  "modernGuide": [
+    "동시에 진행 중인 2~3개의 프로젝트 주제를 명확하게 나누어 메모에 띄웁니다.",
+    "한 프로젝트에 대해 15분간 몰두하며 떠오르는 아이디어를 구술 녹음하거나 빠르게 텍스트로 적습니다.",
+    "15분이 끝나면 뇌를 리셋하듯 다른 프로젝트 메모로 전환하여, 이전 컨텍스트의 기억을 보존한 채 즉각적인 작성을 이어갑니다."
+  ],
+  "actionName": "작업 기억 파티셔닝",
+  "sources": [
+    "Bernard Gui, Life of Saint Thomas Aquinas",
+    "St. Thomas Aquinas - Summa Theologiae historical introduction"
+  ]
+}

@@ -1,3 +1,7 @@
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
 export interface Habit {
   id: string;
   name: string;
@@ -21,14 +25,18 @@ export interface Habit {
   sources: string[];
 }
 
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-
 let modules: Record<string, any> = {};
 
-if (typeof import.meta.glob === 'function') {
-  modules = import.meta.glob('./habits/items/*.json', { eager: true });
+let globModules: any = {};
+try {
+  // @ts-ignore
+  globModules = import.meta.glob('./habits/items/*.json', { eager: true });
+} catch (e) {
+  // Fallback for non-Vite environments (e.g. running scripts via pure Node.js CLI)
+}
+
+if (Object.keys(globModules).length > 0) {
+  modules = globModules;
 } else {
   const __filename = fileURLToPath(import.meta.url);
   const __dirname = path.dirname(__filename);

@@ -1,0 +1,168 @@
+{
+  "galileo-vibration-sketch": {
+    "title": {
+      "en": "Galileo's Observational Sketching: Unlocking Spatial Reasoning and Wave Science",
+      "ko": "갈릴레오의 흔들림 스케치: 공간 인지력을 자극해 복잡한 구조를 단순화하는 법",
+      "ja": "ガリレオの揺らぎスケッチ：空間認知力を刺激して複雑な構造を単純化する方法",
+      "zh": "伽利略的振动素描法：用空间感知力简化复杂结构的物理学智慧",
+      "es": "Los bocetos observacionales de Galileo: desbloquear el razonamiento espacial y la física de ondas",
+      "fr": "Les croquis d'observation de Galilée : libérer le raisonnement spatial et la physique des ondes",
+      "de": "Galileos beobachtendes Skizzieren: Räumliches Denken und Wellenphysik erschließen",
+      "pt": "Os esboços observacionais de Galileu: desbloquear o raciocínio espacial e a física de ondas",
+      "id": "Sketsa Observasi ala Galileo: Menstimulasi Pemikiran Spasial untuk Menyederhanakan Struktur Rumit"
+    },
+    "description": {
+      "en": "Learn how Galileo Galilei used geometric sketches of pendulums and waves to formulate laws of physics and enhance visuospatial thinking.",
+      "ko": "현대 과학의 아버지 갈릴레오 갈릴레이가 흔들리는 진자와 등불을 관찰하며 기하학적 스케치로 복잡한 물리학 공식의 직관을 형성한 비결을 알아봅니다.",
+      "ja": "現代科学の父ガリレオ・ガリレイが揺れる振り子と灯火を観察し、幾何学的なスケッチで複雑な物理学公式の直感を形成した秘訣を探ります。",
+      "zh": "了解现代科学之父伽利略如何通过观察摇摆的吊灯与单摆，利用几何画稿建立起对复杂物理公式的直觉认知。",
+      "es": "Descubra cómo Galileo Galilei usaba bocetos geométricos de péndulos para formular leyes de la física y mejorar el pensamiento espacial.",
+      "fr": "Découvrez comment Galilée utilisait des croquis géométriques de pendules pour formuler des lois physiques et stimuler la pensée spatiale.",
+      "de": "Erfahren Sie, wie Galileo Galilei geometrische Skizzen von Pendeln nutzte, um physikalische Gesetze zu formulieren.",
+      "pt": "Descubra como Galileu Galilei usava esboços geométricos de pêndulos para formular leis da física e melhorar o pensamento espacial.",
+      "id": "Pelajari bagaimana Galileo Galilei menggunakan sketsa geometris dari bandul dan getaran untuk merumuskan hukum fisika."
+    },
+    "authority": {
+      "en": "Stillman Drake, Galileo at Work / Visuospatial processing and sketching research in cognitive science",
+      "ko": "스틸먼 드레이크 《갈릴레오의 작업》 / 시공간 정보 처리(Visuospatial Processing)와 스케치가 물리적 추론에 미치는 인지과학 연구",
+      "ja": "スティルマン・ドレイク『ガリレオの作業』 / 時空間情報処理（Visuospatial Processing）とスケッチが物理的推論に及ぼす認知科学研究",
+      "zh": "斯蒂尔曼·德雷克《工作中的伽利略》 / 关于空间视觉信息处理（Visuospatial Processing）及素描对物理推论影响的认知科学研究",
+      "es": "Stillman Drake, Galileo en el trabajo / Investigación en ciencia cognitiva sobre el procesamiento visuoespacial y el boceto",
+      "fr": "Stillman Drake, Galilée au travail / Recherche en sciences cognitives sur le traitement visuospatial et le croquis",
+      "de": "Stillman Drake, Galileo at Work / Kognitionswissenschaftliche Forschung zur visuell-räumlichen Verarbeitung und zum Skizzieren",
+      "pt": "Stillman Drake, Galileu no Trabalho / Pesquisa em ciência cognitiva sobre processamento visuoespacial e esboços",
+      "id": "Stillman Drake, Galileo at Work / Studi sains kognitif tentang pemrosesan spasial dan visual lewat membuat sketsa"
+    },
+    "intro": {
+      "en": "\"The book of nature is written in the language of mathematics.\" Galileo Galilei, the father of modern observational astronomy, had a lifelong habit of sketching. While watching a bronze chandelier swing in Pisa Cathedral, he measured the pulses of time and sketched the arc. Every wave in water or rope vibration was recorded in his journals as precise diagrams. Sketching allowed him to translate abstract laws into visual reality.",
+      "ko": "\"자연이라는 거대한 책은 기하학이라는 언어로 쓰여 있다.\" 관측 천문학의 아버지 갈릴레오 갈릴레이에게는 평생 이어진 습관이 있었습니다. 피사 성당의 흔들리는 청동 등불을 맥박으로 측정하면서도, 그는 손으로 진도의 호를 스케치했습니다. 수면의 파동, 밧줄의 떨림 등 자연계의 모든 흔들림을 스케치북에 기하학적 도형으로 기록했습니다. 그에게 스케치는 추상적인 물리 법칙을 눈으로 확인하고 구체화하는 가장 직관적인 도구였습니다.",
+      "ja": "「自然という巨大な書物は、幾何学という言語で書かれている。」観測天文学の父ガリレオ・ガリレイには、生涯続いた習慣がありました。ピサ大聖堂の揺れる青銅の灯火を脈拍で測定しながらも、彼は手で揺れの弧をスケッチしました。水面の波動、ロープの揺れなど自然界のあらゆる揺らぎをスケッチブックに幾何学的な図形で記録しました。彼にとってスケッチは、抽象的な物理法則を目で確認し具体化する最も直感的な道具でした。",
+      "zh": "“大自然这本巨著是用几何学的语言写成的。”观测天文学之父伽利略有一项伴随一生的习惯。在比萨大教堂里用脉搏测量摇曳的青铜吊灯时，他的手也在纸上勾勒着吊灯摆动的弧线。水面的涟漪、绳索的颤动，自然界中一切的波动都被他以精准的几何图稿记录在册。对他而言，画稿是强行将抽象物理定律转化为直观视觉现实的最有效媒介。",
+      "es": "\"El libro de la naturaleza está escrito en el lenguaje de las matemáticas.\" Galileo Galilei tenía el hábito de abocetar. Al observar una lámpara oscilar en la Catedral de Pisa, midió el tiempo con su pulso y dibujó el arco. Cada onda en el agua era registrada como un diagrama preciso. Dibujar le permitía traducir leyes abstractas en realidad visual.",
+      "fr": "\"Le livre de la nature est écrit en langue mathématique.\" Galilée avait l'habitude de dessiner. En observant un lustre osciller dans la cathédrale de Pise, il mesura le temps et dessina l'arc. Chaque onde dans l'eau était notée sous forme de diagramme précis. Dessiner lui permettait de visualiser les lois physiques.",
+      "de": "\"Das Buch der Natur ist in der Sprache der Mathematik geschrieben.\" Galileo Galilei hatte die lebenslange Angewohnheit zu skizzieren. Als er einen Kronleuchter im Dom von Pisa schwingen sah, maß er die Zeit und skizzierte den Bogen. Jede Welle im Wasser wurde als Diagramm erfasst, was ihm half, abstrakte Gesetze zu visualisieren.",
+      "pt": "\"O livro da natureza está escrito na linguagem da matemática.\" Galileu Galilei tinha o hábito de desenhar. Ao observar um lustre oscilar na Catedral de Pisa, mediu o tempo e desenhou o arco. Cada onda na água era registrada como um diagrama preciso. Desenhar permitia-lhe traduzir leis abstratas em realidade visual.",
+      "id": "\"Buku alam semesta ditulis dalam bahasa matematika.\" Galileo Galilei memiliki kebiasaan menggambar seumur hidup. Saat mengamati lampu gantung perunggu yang berayun di Katedral Pisa, ia mengukur waktu dengan denyut nadinya dan menggambar garis ayunannya. Sketsa membantunya menerjemahkan rumus abstrak menjadi visual nyata."
+    },
+    "whyTitle": {
+      "en": "Why Geometric Sketching Enhances Problem Solving",
+      "ko": "기하학적 스케치가 문제 해결력을 향상시키는 인지 과학",
+      "ja": "幾何学的スケッチが問題解決力を向上させる認知科学",
+      "zh": "几何素描法强化问题解决能力的认知科学原理",
+      "es": "Por qué el boceto geométrico mejora la resolución de problemas",
+      "fr": "Pourquoi le croquis géométrique améliore la résolution de problèmes",
+      "de": "Warum geometrisches Skizzieren die Problemlösung verbessert",
+      "pt": "Por que o esboço geométrico melhora a resolução de problemas",
+      "id": "Mengapa Sketsa Geometris Meningkatkan Pemecahan Masalah"
+    },
+    "whyDesc": {
+      "en": "Translating abstract concepts into geometric sketches engages the brain's visuospatial processing centers in the parietal and occipital lobes. This dual-coding process (visual and verbal) creates richer mental models, which lowers cognitive load. By physically structuring relational distances and waves on paper, your brain can identify logical flaws and discover elegant, simplified solutions that text alone cannot reveal.",
+      "ko": "추상적인 아이디어를 기하학적 도형으로 스케치하는 과정은 두정엽과 후두엽의 시공간 정보 처리 중심지를 강력하게 자극합니다. 시각적 이미지와 텍스트의 '이중 부호화(Dual-Coding)'는 뇌 속에 훨씬 견고한 정신적 모델을 형성하고 두뇌의 인지 부하를 덜어 줍니다. 관계 간의 거리나 흐름을 종이에 그려 구조화함으로써, 텍스트만으로는 알아채기 힘든 논리적 오류를 식별하고 아름답고 단순한 해결책을 찾아낼 수 있습니다.",
+      "ja": "抽象的なアイデアを幾何学的な図形でスケッチするプロセスは、頭頂葉と後頭葉の時空間情報処理センターを強力に刺激します。視覚的イメージとテキストの「二重符号化（Dual-Coding）」は、脳内により堅固な精神的モデルを形成し、認知的な負荷を軽減します。関係間の距離や流れを紙に描いて構造化することで、テキストだけでは気づきにくい論理的な誤りを識別し、美しく単純な解決策を見出すことができます。",
+      "zh": "将抽象概念转化为几何画稿的过程，能强烈刺激大脑顶叶与枕叶的空间视觉信息处理中心。视觉图像与语言文字的“双重编码（Dual-Coding）”加工，能在脑海中建立起更为稳固的心理模型，大幅降低认知负荷。通过在纸上将各要素的相对距离或演变趋势物理性地结构化，大脑能迅速揪出纯文字阅读时极易忽略的逻辑漏洞，发现更优雅、更简明的解决方案。",
+      "es": "Traducir conceptos abstractos a bocetos geométricos activa los centros de procesamiento visuoespacial del cerebro en los lóbulos parietal y occipital. Este proceso de codificación dual (visual y verbal) crea modelos mentales ricos, reduciendo la carga cognitiva y ayudando a identificar fallos lógicos.",
+      "fr": "Traduire des concepts en croquis géométriques active le traitement visuospatial dans les lobes pariétal et occipital. Ce processus de double codage (visuel et verbal) crée des modèles mentaux riches, réduisant la charge cognitive et aidant à identifier les failles logiques.",
+      "de": "Das Übertragen abstrakter Konzepte in geometrische Skizzen beansprucht die visuell-räumlichen Verarbeitungszentren des Gehirns. Dieser duale Kodierungsprozess (visuell und verbal) schafft reichere mentale Modelle und verringert die kognitive Belastung, wodurch logische Fehler leichter erkannt werden.",
+      "pt": "Traduzir conceitos abstratos em esboços geométricos ativa os centros de processamento visuoespacial do cérebro nos lobos parietal e occipital. Esse processo de dupla codificação (visual e verbal) cria modelos mentais ricos, reduzindo a carga cognitiva.",
+      "id": "Menerjemahkan ide abstrak menjadi sketsa geometris akan melibatkan pusat pemrosesan spasial di lobus parietal dan oksipital otak. Proses pengodean ganda (visual dan verbal) ini membangun model mental yang lebih kuat dan menurunkan beban kognitif untuk memetakan solusi."
+    },
+    "cautionTitle": {
+      "en": "Focus on Structure, Not Artistry",
+      "ko": "예술적 정교함보다 구조적 단순성에 집중하기",
+      "ja": "芸術的な精巧さより構造的な単純さに集中する",
+      "zh": "聚焦于逻辑结构而非美术技巧",
+      "es": "Enfocarse en la estructura, no en el arte",
+      "fr": "Se concentrer sur la structure, pas sur l'art",
+      "de": "Konzentrieren Sie sich auf Struktur, nicht auf Kunst",
+      "pt": "Focar na estrutura, não na arte",
+      "id": "Fokus pada Struktur, Bukan Keindahan Seni"
+    },
+    "cautionDesc": {
+      "en": "Do not waste time drawing artistic details. The purpose of observational sketching is abstract structural representation. Use simple circles, rectangles, lines, and vectors to quickly model logical pathways or relational weights. If you get bogged down in drawing beautifully, you consume the cognitive energy needed for logic.",
+      "ko": "그림을 화려하고 정밀하게 그리는 예술적 묘사에 시간을 낭비해서는 안 됩니다. 갈릴레오의 스케치처럼 본질적인 '구조의 표현'에 충실해야 합니다. 단순한 원, 직사각형, 선, 화살표를 사용하여 흐름이나 상관관계를 빠르게 모식화하는 것에 초점을 맞추세요. 예쁘게 그리려다 보면 정작 논리에 쓰여야 할 에너지가 소모됩니다.",
+      "ja": "絵を華やかで精密に描く芸術的な描写に時間を浪費してはなりません。ガリレオのスケッチのように本質的な「構造の表現」に忠実であるべきです。単純な円、長方形、線、矢印を使用して、流れや相関関係を迅速に図式化することに焦点を当ててください。きれいに描こうとすると、論理に使うべきエネルギーが消耗されます。",
+      "zh": "请千万不要把时间浪费在追求画面的精美与细节描绘上。素描复盘的初衷是抽象的“结构表达”。专注于使用最基础的圆圈、方框、直线和箭头来快速勾勒逻辑链路或权重比例。如果在作画技巧上纠缠不清，反而会耗尽本该用于理清逻辑的大脑能量。",
+      "es": "No pierda tiempo en detalles artísticos. El propósito del boceto es la representación estructural abstracta. Utilice círculos y líneas simples para modelar relaciones lógicas. Si se obsesiona con dibujar bien, consumirá la energía necesaria para la lógica.",
+      "fr": "Ne perdez pas de temps avec des détails artistiques. Le but du croquis est la représentation structurelle. Utilisez des cercles et des lignes simples pour modéliser les relations. Si vous cherchez le beau, vous consumerez l'énergie nécessaire à la logique.",
+      "de": "Verschwenden Sie keine Zeit mit künstlerischen Details. Der Zweck des Skizzierens ist die strukturelle Darstellung. Verwenden Sie einfache Formen wie Kreise und Linien, um logische Pfade darzustellen. Kunstfertigkeit verbraucht Energie, die für Logik benötigt wird.",
+      "pt": "Não perca tempo com detalhes artísticos. O propósito do esboço é a representação estrutural abstrata. Use círculos e linhas simples para modelar relações lógicas. Se você se focar em desenhar bem, consumirá a energia necessária para a lógica.",
+      "id": "Jangan membuang waktu untuk menggambar detail yang estetik. Tujuan sketsa ini adalah penggambaran struktur abstrak. Gunakan lingkaran, persegi, dan anak panah sederhana untuk merancang alur logika atau bobot hubungan antar konsep."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Map Core Entities",
+          "ko": "1단계: 핵심 구성 요소를 원과 사각형으로 그리기",
+          "ja": "ステップ1：核心構成要素を円と四角で描く",
+          "zh": "第一步：用圆圈和方框标出核心要素",
+          "es": "Identificar los componentes clave",
+          "fr": "Identifier les composants clés",
+          "de": "Zeichnen Sie Kernkomponenten",
+          "pt": "Identificar os componentes-chave",
+          "id": "Langkah 1: Petakan Elemen Kunci dengan Bentuk Sederhana"
+        },
+        "text": {
+          "en": "Draw circles and rectangles representing the main actors, data sets, or concepts of the problem. Arrange them spatially on paper, giving a physical location to abstract ideas.",
+          "ko": "해결하려는 문제나 기획의 핵심 개념들을 노터에 동그라미나 네모 등의 간단한 도형으로 적어 배치합니다. 추상적인 생각을 종이라는 물리적 공간에 먼저 고정하는 단계입니다.",
+          "ja": "解決しようとする問題や企画の核心概念を、ノートの上に丸や四角などの簡単な図形で書いて配置します。抽象的な思考を紙という物理的な空間にまず固定する段階です。",
+          "zh": "将要解决的问题或方案核心概念，用圆圈或方框等最基础的图形绘制在纸面上。这是将抽象思维在物理空间中落地的第一步。",
+          "es": "Dibuje círculos y rectángulos que representen los elementos principales del problema. Distribúyalos en el papel, dando una ubicación física a las ideas abstractas.",
+          "fr": "Dessinez des cercles et des rectangles représentant les éléments principaux du problème. Disposez-les sur le papier, donnant une place physique aux idées.",
+          "de": "Zeichnen Sie Kreise und Rechtecke, die die Hauptkomponenten des Problems darstellen. Ordnen Sie sie auf dem Papier an, um abstrakten Ideen einen Platz zu geben.",
+          "pt": "Desenhe círculos e retângulos que representem os elementos principais do problema. Distribua-os no papel, dando uma localização física às ideias abstratas.",
+          "id": "Gambarkan lingkaran dan persegi untuk mewakili elemen utama dari masalah Anda. Atur tata letaknya di atas kertas untuk memberikan lokasi fisik bagi ide abstrak."
+        }
+      },
+      {
+        "name": {
+          "en": "Establish Vector Relations",
+          "ko": "2단계: 화살표로 인과관계 및 흐름 잇기",
+          "ja": "ステップ2：矢印で因果関係と流れをつなぐ",
+          "zh": "第二步：用箭头和线段连接因果逻辑",
+          "es": "Trazar relaciones con vectores",
+          "fr": "Tracer les relations avec des flèches",
+          "de": "Verbinden Sie die Komponenten mit Pfeilen",
+          "pt": "Traçar relações com vetores",
+          "id": "Langkah 2: Hubungkan Hubungan dengan Anak Panah"
+        },
+        "text": {
+          "en": "Connect the entities using arrows. The thickness of the line represents importance or volume, and the direction shows cause and effect, transforming a static layout into a dynamic system.",
+          "ko": "도형들 사이에 화살표를 그려 관계와 인과의 방향을 표시합니다. 영향력이 큰 관계는 선을 굵게 그리거나 물결 모양으로 파동의 세기를 묘사하여 구조적 긴밀성을 시각화합니다.",
+          "ja": "図形同士の間に矢印を描き、関係や因果の方向を表示します。影響力が大きい関係は線を太く描いたり、波線で波の強さを描写して構造的な緊密さを可視化します。",
+          "zh": "在图形之间绘制箭头，标出彼此的关联与因果导向。对于影响显著的关系，可以用粗线绘制，或用波浪线示意波动的强弱，使结构关联一目了然。",
+          "es": "Conecte los elementos mediante flechas. El grosor de la línea representa la importancia, y la dirección muestra la causa y el efecto, creando un sistema dinámico.",
+          "fr": "Reliez les éléments avec des flèches. L'épaisseur représente l'importance et la direction montre la cause et l'effet, créant un système dynamique.",
+          "de": "Verbinden Sie die Formen mit Pfeilen. Die Stärke der Linie zeigt Bedeutung oder Volumen, und die Richtung zeigt Ursache und Wirkung.",
+          "pt": "Conecte os elementos usando setas. A espessura da linha representa a importância, e a direção mostra a causa e o efeito, criando um sistema dinâmico.",
+          "id": "Hubungkan elemen-elemen tersebut dengan anak panah. Ketebalan garis mewakili tingkat kepentingan, sedangkan arah panah menunjukkan hubungan sebab-akibat."
+        }
+      },
+      {
+        "name": {
+          "en": "Analyze & Simplify",
+          "ko": "3단계: 도식적 단순성 최적화하기",
+          "ja": "ステップ3：図式的単純性の最適化",
+          "zh": "第三步：精炼合并以简化逻辑模型",
+          "es": "Analizar y simplificar el modelo",
+          "fr": "Analyser et simplifier le modèle",
+          "de": "Analysieren und vereinfachen Sie",
+          "pt": "Analisar e simplificar o modelo",
+          "id": "Langkah 3: Analisis dan Sederhanakan Model"
+        },
+        "text": {
+          "en": "Examine the finalized map. Identify areas where lines overlap or loops become too complicated, and redraw the diagram with fewer elements until the logical solution becomes obvious.",
+          "ko": "완성된 스케치를 멀리서 바라봅니다. 흐름이 복잡하게 얽히거나 충돌하는 지점이 눈에 띄면, 해당 부분을 결합하거나 불필요한 링크를 삭제하여 가장 조화롭고 단순한 최종 다이어그램으로 최적화합니다.",
+          "ja": "完成したスケッチを少し離れて見つめます。流れが複雑に絡み合ったり衝突したりする箇所が目についたら、該当部分を結合するか不要なリンクを削除し、最も調和のとれたシンプルな最終ダイアグラムに最適化します。",
+          "zh": "将绘制完毕的画稿拿远审视。如果发现线段交织过于繁杂或有冲突冲突的地方，尝试合并同类项或删除无用连接，直至逻辑演变出最和谐、最精简的终版示意图。",
+          "es": "Examine el boceto. Identifique áreas donde las líneas se superpongan o las relaciones sean complejas, y redibuje el diagrama reduciendo elementos hasta que la solución sea clara.",
+          "fr": "Examinez le croquis. Repérez les zones de chevauchement ou de complexité, et redessinez le diagramme en réduisant les éléments jusqu'à ce que la solution apparaisse.",
+          "de": "Prüfen Sie die Skizze. Finden Sie komplexe Bereiche und zeichnen Sie das Diagramm mit weniger Elementen neu, bis die Lösung offensichtlich wird.",
+          "pt": "Examine o esboço. Identifique áreas onde as linhas se sobreponham ou sejam complexas, e redesenhe o diagrama reduzindo elementos até que a solução seja clara.",
+          "id": "Periksa sketsa yang sudah jadi. Temukan area di mana alur saling bertabrakan atau terlalu rumit, lalu gambar ulang dengan menyederhanakan elemennya."
+        }
+      }
+    ],
+    "pubDate": "2026-02-01",
+    "updatedDate": "2026-02-01"
+  }
+}

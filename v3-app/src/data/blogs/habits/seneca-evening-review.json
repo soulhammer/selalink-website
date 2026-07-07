@@ -1,0 +1,168 @@
+{
+  "seneca-evening-review": {
+    "title": {
+      "en": "Seneca's Evening Review: The Stoic Ritual for Restful Sleep and Self-Correction",
+      "ko": "세네카의 저녁 자아 성찰: 평화로운 숙면과 어제의 실수를 교정하는 법",
+      "ja": "セネカの夜の自己省察：平和な熟睡と昨日のミスを修正する方法",
+      "zh": "塞涅卡的入睡前自省：获得安稳睡眠与自我纠偏的斯多葛仪式",
+      "es": "El examen nocturno de Séneca: el ritual estoico para un sueño reparador y la autocorrección",
+      "fr": "L'examen du soir de Sénèque : le rituel stoïcien pour un sommeil réparateur",
+      "de": "Senecas abendliche Rückschau: Das stoische Ritual für erholsamen Schlaf und Selbstkorrektur",
+      "pt": "O exame noturno de Sêneca: o ritual estoico para um sono reparador e autocorreção",
+      "id": "Refleksi Malam Seneca: Ritual Stoik untuk Tidur Nyenyak dan Koreksi Diri"
+    },
+    "description": {
+      "en": "Learn Seneca's evening self-examination method to calm the nervous system, process daily emotions, and prepare the mind for tomorrow.",
+      "ko": "철학자 세네카가 취침 전 어두운 방에서 하루를 심판하고 성찰하며 뇌의 긴장을 완화하고 수면 질을 높인 비법을 소개합니다.",
+      "ja": "哲学者セネカが就寝前の暗い部屋で一日を審判し省察することで、脳の緊張を和らげ睡眠の質を高めた秘訣を紹介します。",
+      "zh": "介绍哲学家塞涅卡如何在一间漆黑的居室中进行睡前自我审判与反省，以此放松大脑并提升睡眠质量的诀窍。",
+      "es": "Aprenda el método de examen estoico de Séneca para calmar el sistema nervioso, procesar las emociones y preparar la mente.",
+      "fr": "Découvrez la méthode d'examen du soir de Sénèque pour calmer le système nerveux, gérer les émotions et préparer l'esprit.",
+      "de": "Lernen Sie Senecas Methode der abendlichen Selbstprüfung kennen, um das Nervensystem zu beruhigen und den Geist vorzubereiten.",
+      "pt": "Aprenda o método de exame estoico de Sêneca para acalmar o sistema nervoso, processar emoções e preparar a mente.",
+      "id": "Pelajari metode refleksi malam Seneca untuk menenangkan sistem saraf, meredakan emosi, dan mempersiapkan pikiran."
+    },
+    "authority": {
+      "en": "Seneca, De Ira (On Anger, III.36) / Autonomic nervous system and evening journaling research",
+      "ko": "세네카 《분노에 대하여》 (De Ira, III.36) / 수면 전 인지 정리가 자율신경계 및 부교감신경에 미치는 생리학 연구",
+      "ja": "セネカ『怒りについて』(De Ira, III.36) / 睡眠前の認知整理が自律神経系および副交感神経に及ぼす生理学研究",
+      "zh": "塞涅卡《论愤怒》（De Ira, III.36） / 睡前认知整理对自主神经系统及副交感神经影响的生理学研究",
+      "es": "Séneca, De Ira (Sobre la ira, III.36) / Estudio sobre el sistema nervioso autónomo y la reflexión nocturna",
+      "fr": "Sénèque, De Ira (Sur la colère, III.36) / Étude sur le système nerveux autonome et la réflexion nocturne",
+      "de": "Seneca, De Ira (Über den Zorn, III.36) / Forschung zu vegetativem Nervensystem und abendlicher Reflexion",
+      "pt": "Sêneca, De Ira (Sobre a Ira, III.36) / Estudo sobre o sistema nervoso autônomo e reflexão noturna",
+      "id": "Seneca, De Ira (On Anger, III.36) / Studi fisiologi dampak merapikan pikiran sebelum tidur terhadap saraf otonom dan parasimpatis"
+    },
+    "intro": {
+      "en": "\"When the light has been removed and my wife has fallen silent, I examine my entire day.\" Seneca, the Roman Stoic philosopher, believed in holding a trial for himself every night. By analyzing his actions objectively in the dark, he stripped daily events of their emotional charge, allowing him to sleep with a clear, peaceful conscience.",
+      "ko": "\"방안의 불빛이 완전히 꺼지고 아내가 침묵에 잠겼을 때, 나는 나의 하루 전체를 검사하기 시작한다.\" 로마의 대표적인 스토아 철학자 세네카는 밤마다 스스로를 기소하고 판결을 내리는 영혼의 법정을 열었습니다. 어둠 속에서 자신의 말과 행동을 엄격하면서도 부드럽게 평가하는 이 습관은, 낮 동안 쌓인 감정적 피로와 불필요한 집착을 완전히 비워내는 시간이었습니다.",
+      "ja": "「部屋の灯りが完全に消え、妻が沈黙に沈んだとき、私は自分の生の一日全体を検査し始める。」ローマを代表するストア哲学者セネカは、夜な夜な自分を起訴し判決を下す魂の法廷を開きました。暗闇の中で自分の言動を厳格かつ優しく評価するこの習慣は、昼の間に積もった感情的な疲労と不要な執着を完全に削ぎ落とす時間でした。",
+      "zh": "“当灯火熄灭，妻子也陷入沉静时，我开始审视自己一整天的言行。”罗马著名的斯多葛哲学家塞涅卡坚持在每晚为自己举行一场“灵魂的法庭”。在黑暗中，以严苛却又不失宽容的态度审视自己的过失，这种反省能够彻底清空白天积累的负面情绪与焦虑，让他拥有安详的睡眠。",
+      "es": "\"Cuando la luz se ha apagado y mi esposa ha guardado silencio, examino todo mi día.\" Séneca creía en celebrar un juicio para sí mismo cada noche. Al analizar objetivamente sus acciones en la oscuridad, eliminaba la carga emocional, permitiéndose dormir con una conciencia clara.",
+      "fr": "\"Quand la lumière est éteinte et que ma femme s'est tue, j'examine ma journée entière.\" Sénèque tenait un procès avec lui-même chaque soir. En analysant ses actions objectivement dans le noir, il libérait les tensions émotionnelles, s'assurant un sommeil paisible.",
+      "de": "\"Wenn das Licht gelöscht ist und meine Frau verstummt ist, prüfe ich meinen ganzen Tag.\" Seneca hielt jede Nacht Gericht über sich selbst. Indem er seine Handlungen in der Dunkelheit objektiv analysierte, befreite er sie von emotionaler Last, was ihm einen ruhigen Schlaf bescherte.",
+      "pt": "\"Quando a luz se apaga e minha esposa silencia, examino meu dia inteiro.\" Sêneca acreditava em realizar um julgamento de si mesmo todas as noites. Ao analisar objetivamente suas ações no escuro, eliminava a carga emocional, permitindo-se dormir com a consciência limpa.",
+      "id": "\"Ketika lampu telah dimatikan dan istri saya sudah terlelap, saya memeriksa seluruh hari saya.\" Seneca, filsuf Stoik Roma, percaya pada ritual mengadili diri sendiri setiap malam. Dengan menganalisis tindakannya secara objektif di kegelapan, ia meredakan beban emosi hari itu."
+    },
+    "whyTitle": {
+      "en": "How Evening Examination Prepares the Brain for Sleep",
+      "ko": "저녁 성찰이 뇌를 수면 모드로 전환하는 생리적 이유",
+      "ja": "夜の省察が脳を睡眠モードに切り替える生理的理由",
+      "zh": "睡前反省将大脑顺畅切入睡眠模式的生理原理",
+      "es": "Cómo el examen nocturno prepara el cerebro para dormir",
+      "fr": "Comment l'examen du soir prépare le cerveau au sommeil",
+      "de": "Wie die abendliche Rückschau das Gehirn auf den Schlaf vorbereitet",
+      "pt": "Como o exame noturno prepara o cérebro para dormir",
+      "id": "Bagaimana Refleksi Malam Menyiapkan Otak untuk Tidur"
+    },
+    "whyDesc": {
+      "en": "Going to bed with unresolved stresses keeps the sympathetic nervous system active, resulting in shallow, interrupted sleep. A structured evening review functions as cognitive closure. By addressing failures, planning correction, and letting go of what you cannot control, you deactivate the threat-detection systems in the brain. This triggers the parasympathetic nervous system, lowering your heart rate and signaling the brain that it is safe to rest.",
+      "ko": "해결되지 않은 불안과 스트레스를 품은 채 잠자리에 들면 교감 신경계가 계속 활성 상태로 남아 있어 뇌가 수면 중에도 각성하게 되고 깊은 잠을 방해받습니다. 반면 저녁 성찰은 인지적 종결(Cognitive Closure)을 유도합니다. 본인의 행동을 되짚고 정당하게 평가한 뒤 손을 떼는 행위는 뇌의 비상 경보 장치인 편도체의 활동을 차단합니다. 이를 통해 부교감 신경계가 활성화되고 심박수가 완화되어 뇌에 '이제 안전하게 쉴 시간이다'라는 생리적 신호를 전달합니다.",
+      "ja": "解決されない不安やストレスを抱いたまま眠りにつくと、交感神経系が活性化状態のままになり、脳が睡眠中も覚醒して深い眠りが妨げられます。一方、夜の省察は認知的終結（Cognitive Closure）を誘導します。自分の言動を振り返り正当に評価して手を引く行為は、脳の非常警報装置である扁桃体の活動を遮断します。これにより副交感神経系が活性化され、心拍数が緩やかになり、脳に「もう安全に休む時間だ」という生理的シグナルを伝えます。",
+      "zh": "带着悬而未决的焦虑与压力躺下，会导致交感神经系统持续亢奋，使得大脑即便在睡眠中也处于隐性觉醒状态，进而破坏深层睡眠。与之相反，睡前的自省能带来“认知闭合（Cognitive Closure）”。客观审视自己的得失、制订改进计划并放下无法掌控的烦恼，可以关闭大脑的预警警报装置（杏桃体）。这会触发副交感神经系统，降低心率，向大脑发送“当前环境安全，可以安心休息”的生理信号。",
+      "es": "Ir a la cama con estrés mantiene activo el sistema nervioso simpático, lo que provoca un sueño ligero. Un examen nocturno estructurado actúa como un cierre cognitivo. Al procesar los fallos y dejar ir lo incontrolable, se reduce la actividad de alerta en el cerebro, activando el sistema parasimpático para descansar.",
+      "fr": "Se coucher stressé maintient le système sympathique actif, provoquant un sommeil léger. Un examen du soir structuré offre une clôture cognitive. En faisant le point et en lâchant prise, vous réduisez l'alerte cérébrale, activant le système parasympathique pour un repos réparateur.",
+      "de": "Mit ungelöstem Stress schlafen zu gehen, hält das sympathische Nervensystem aktiv. Eine strukturierte abendliche Rückschau sorgt für kognitiven Abschluss. Indem Sie Fehler verarbeiten und loslassen, deaktivieren Sie das Alarmsystem im Gehirn, was das parasympathische System aktiviert.",
+      "pt": "Ir para a cama com estresse mantém o sistema nervoso simpático ativo, causando sono superficial. Um exame noturno estruturado funciona como um encerramento cognitivo. Ao processar os erros e desapegar do incontrolável, desativa-se o sistema de alerta do cérebro, ativando o sistema parassimpático.",
+      "id": "Tidur dengan membawa stres akan menjaga saraf simpatik tetap aktif, mengakibatkan tidur yang dangkal. Refleksi malam yang terstruktur berfungsi sebagai penutup kognitif. Dengan mengevaluasi kegagalan dan melepaskan hal yang tidak bisa dikontrol, Anda menonaktifkan sistem alarm bahaya otak."
+    },
+    "cautionTitle": {
+      "en": "Avoid Self-Condemnation",
+      "ko": "자책과 후회라는 함정 피하기",
+      "ja": "自責と後悔という罠の回避",
+      "zh": "规避过度自责与懊悔的陷阱",
+      "es": "Evitar la autodenigración",
+      "fr": "Éviter l'auto-condamnation",
+      "de": "Vermeiden Sie Selbstverurteilung",
+      "pt": "Evitar a autocondenação",
+      "id": "Hindari Menghakimi Diri Sendiri"
+    },
+    "cautionDesc": {
+      "en": "The goal of evening review is rational correction, not emotional self-punishment. If you made a mistake, acknowledge it, plan how to avoid it tomorrow, and forgive yourself. Stoic reflection is about calm self-examination, like a judge seeking justice rather than execution.",
+      "ko": "저녁 성찰의 본질은 이성적인 개선책 마련이지, 감정적인 자책과 자학이 아닙니다. 자신의 잘못이나 나약한 행동을 마주했을 때 감정적인 비난을 늘어놓는 것은 수면을 더 방해할 뿐입니다. '잘못했으나 원인을 알았으니 내일 고치겠다'라며 자신을 용서하세요. 이는 재판관처럼 객관적이고 담담한 분석이어야 합니다.",
+      "ja": "夜の省察の本質は理性的な改善策の模索であり、感情的な自責や自虐ではありません。自分の過ちや弱い行動に直面したとき、感情的に自分を責めることは睡眠をさらに妨げます。「失敗したが原因は分かったので明日は正そう」と自分を許してください。裁判官のように客観的で淡々とした分析であるべきです。",
+      "zh": "睡前反思的核心在于理性地寻求改进方案，而非情绪化的自责与自我折磨。面对自己的失误或懈怠，如果陷入情绪化的否定和内疚，反而会加剧睡眠障碍。请对自己说：“虽然出了差错，但我找到了原因，明天我会改正。”像一位公正的法官般进行客观、温和的质询，然后平静地原谅自己。",
+      "es": "El objetivo del examen nocturno es la corrección racional, no el castigo emocional. Si cometió un error, reconózcalo, planee cómo evitarlo mañana y perdónese. La reflexión estoica es un autoexamen calmado, no un juicio destructivo.",
+      "fr": "Le but de l'examen du soir est la correction rationnelle, pas l'auto-punition émotionnelle. Si vous avez fait une erreur, admettez-la, planifiez comment l'éviter demain et pardonnez-vous. La réflexion stoïcienne doit être une analyse calme.",
+      "de": "Das Ziel der abendlichen Rückschau ist rationale Korrektur, nicht emotionale Selbstbestrafung. Wenn Sie einen Fehler gemacht haben, erkennen Sie ihn an, planen Sie Besserung und vergeben Sie sich selbst. Es ist eine sachliche Analyse.",
+      "pt": "O objetivo do exame noturno é a correção racional, não a autopunição emocional. Se cometeu um erro, reconheça-o, planeje como evitá-lo amanhã e perdoe-se. A reflexão estoica é um autoexame calmo, não um julgamento destrutivo.",
+      "id": "Tujuan refleksi malam adalah perbaikan yang rasional, bukan hukuman emosional untuk diri sendiri. Jika Anda melakukan kesalahan, akui hal itu, rencanakan cara menghindarinya besok, dan maafkan diri Anda."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Initiate Sensory Shutdown",
+          "ko": "1단계: 자극 및 빛 차단하기",
+          "ja": "ステップ1：刺激と光の遮断",
+          "zh": "第一步：阻 🔕 视觉与感官刺激",
+          "es": "Bloquear los estímulos y la luz",
+          "fr": "Couper les stimuli et la lumière",
+          "de": "Schalten Sie Reize und Licht aus",
+          "pt": "Bloquear os estímulos e a luz",
+          "id": "Langkah 1: Matikan Cahaya dan Gangguan Sensorik"
+        },
+        "text": {
+          "en": "Switch off all electronic displays and lights. Allow your eyes and brain to adjust to the dim room. Sit in a comfortable, relaxed posture on your bed or a chair.",
+          "ko": "방안의 컴퓨터, 스마트폰 화면을 끄고 조명을 최소화하거나 소등합니다. 방안에 감도는 고요함에 오롯이 몸을 맡기고 침대 모서리나 안락한 의자에 편안한 자세로 걸터앉습니다.",
+          "ja": "室内のPCやスマホの画面を消し、照明を最小限にするか消灯します。部屋に漂う静寂に全身を委ね、ベッドの端や心地よい椅子にリラックスした姿勢で座ります。",
+          "zh": "关闭房间内的电脑与手机屏幕，调暗或熄灭灯光。将身体完全沉浸在黑暗与寂静中，在床边或舒适的椅子上以最放松的姿势坐下。",
+          "es": "Apague todas las pantallas y luces de la habitación. Deje que sus ojos y cerebro se adapten a la penumbra. Siéntese en una postura relajada sobre la cama o una silla.",
+          "fr": "Éteignez tous les écrans et toutes les lumières. Laissez vos yeux et votre cerveau s'adapter à la pénombre. Installez-vous confortablement sur votre lit ou une chaise.",
+          "de": "Schalten Sie alle Bildschirme und Lichter aus. Lassen Sie Ihre Augen und Ihr Gehirn sich an die Dunkelheit anpassen. Setzen Sie sich bequem auf Ihr Bett.",
+          "pt": "Desligue todas as telas e luzes do quarto. Deixe que seus olhos e cérebro se adaptem à penumbra. Sente-se em uma postura relaxada sobre a cama ou uma cadeira.",
+          "id": "Matikan semua layar elektronik dan lampu. Biarkan mata dan otak Anda menyesuaikan diri dengan kegelapan ruangan. Duduklah dengan posisi santai di tepi tempat tidur."
+        }
+      },
+      {
+        "name": {
+          "en": "Rewind Your Day Chronologically",
+          "ko": "2단계: 시간 순서대로 하루 복기하기",
+          "ja": "ステップ2：時間順に一日を振り返る",
+          "zh": "第二步：按时间顺序复盘一天",
+          "es": "Repasar el día en orden cronológico",
+          "fr": "Revivre votre journée chronologiquement",
+          "de": "Spulen Sie Ihren Tag chronologisch zurück",
+          "pt": "Relembrar o dia em ordem cronológica",
+          "id": "Langkah 2: Ulas Hari Anda Secara Kronologis"
+        },
+        "text": {
+          "en": "Close your eyes and mentally walk through your day from the moment you woke up. Examine your actions, choices, and interactions without judging or defending yourself, just observing.",
+          "ko": "눈을 감고 아침에 일어난 순간부터 현재까지의 타임라인을 머릿속으로 역추적합니다. 본인이 마주했던 상황들에서 자신의 감정 상태나 행동 방식이 어떠했는지 제3자의 관점에서 조용히 바라봅니다.",
+          "ja": "目を閉じ、朝起きた瞬間から現在までのタイムラインを頭の中で逆追跡します。自分が直面した状況の中で、自らの感情状態や行動パターンがどうであったかを、第三者の視点から静かに見つめます。",
+          "zh": "闭上眼睛，在脑海中像放电影般回放从清晨醒来到当下的时间线。像一个毫无偏见的旁观者，默默审视自己在关键节点上的情绪反应和行为表现。",
+          "es": "Cierre los ojos y recorra mentalmente su día desde el momento en que se despertó. Observe sus acciones y decisiones sin juzgarse ni justificarse, solo analizando.",
+          "fr": "Fermez les yeux et revivez votre journée depuis le matin. Observez vos actions et décisions sans vous juger ni vous justifier, simplement en analysant.",
+          "de": "Schließen Sie die Augen und gehen Sie Ihren Tag im Geist von morgens bis abends durch. Betrachten Sie Ihre Handlungen sachlich, ohne sich zu verurteilen.",
+          "pt": "Feche os olhos e mentalize seu dia desde o momento em que acordou. Observe suas ações e decisões sem se julgar ou se justificar, apenas analisando.",
+          "id": "Pejamkan mata dan bayangkan kembali aktivitas Anda sejak bangun tidur secara berurutan. Periksa tindakan dan reaksi Anda tanpa menghakimi, cukup amati."
+        }
+      },
+      {
+        "name": {
+          "en": "Reconvene & Re-engineer",
+          "ko": "3단계: 핵심 교훈 도출 및 방해 차단",
+          "ja": "ステップ3：核心的教訓の導出と妨害の遮断",
+          "zh": "第三步：提炼明日方案并释怀放下",
+          "es": "Extraer lecciones y soltar el control",
+          "fr": "Tirer des leçons et lâcher prise",
+          "de": "Ziehen Sie Lehren und lassen Sie los",
+          "pt": "Extrair lições e desapegar do controle",
+          "id": "Langkah 3: Ambil Pelajaran dan Relakan Pikiran"
+        },
+        "text": {
+          "en": "Identify one key lesson or mistake you made. Plan one concrete adjustment you will make tomorrow to handle it better. Once the plan is set, mentally close the day and release all worries.",
+          "ko": "오늘 저지른 가장 아쉬운 대처 하나를 골라, 내일 동일한 상황이 오면 어떻게 바르게 행동할지 구체적 개선안 한 가지를 확정합니다. 개선 방안을 세웠다면 '오늘 할 일은 이것으로 완결되었다'고 외치며 모든 생각을 끊습니다.",
+          "ja": "今日犯した最も反省すべき行動を一つ選び、明日同じ状況になったらどのように正しく行動するか、具体的な改善案を一つ確定します。改善策を立てたら、「今日すべきことはこれで完了した」と心の中で宣言し、すべての思考を断ち切ります。",
+          "zh": "选出今天做得最不妥帖的一件事，并为明天制定一个具体可行的改进方案。方案一旦确立，请对自己说“今天的所有课题至此完结”，然后切断所有胡思乱想，坦然入睡。",
+          "es": "Identifique una lección clave del día. Planee un ajuste concreto que implementará mañana. Una vez establecido el plan, cierre mentalmente el día y libérese de preocupaciones.",
+          "fr": "Identifiez une leçon clé de la journée. Planifiez une correction concrète pour le lendemain. Une fois le plan établi, fermez le chapitre de la journée et libérez votre esprit.",
+          "de": "Identifizieren Sie eine wichtige Lehre aus dem Tag. Planen Sie eine konkrete Änderung für morgen. Sobald der Plan steht, schließen Sie den Tag ab und lassen Sie alle Sorgen los.",
+          "pt": "Identifique uma lição-chave do dia. Planeje um ajuste concreto para amanhã. Uma vez traçado o plano, encerre mentalmente o dia e libere as preocupações.",
+          "id": "Temukan satu pelajaran atau kesalahan utama hari ini. Tentukan satu tindakan konkret untuk memperbaikinya besok. Begitu rencana dibuat, tutup hari ini dan relakan semua beban."
+        }
+      }
+    ],
+    "pubDate": "2026-02-04",
+    "updatedDate": "2026-02-04"
+  }
+}

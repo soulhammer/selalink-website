@@ -1,0 +1,29 @@
+{
+  "id": "aristotle-walking-study",
+  "name": "아리스토텔레스",
+  "gender": "male",
+  "era": "고대",
+  "location": "그리스",
+  "lifespan": "BC 384 - BC 322",
+  "birthYear": -384,
+  "bio": "고대 그리스의 대표적인 철학자이자 학문 전반의 기틀을 닦은 위인으로, 리케온(Lyceum) 학당에서 걸으며 제자들을 가르쳤습니다.",
+  "habitName": "소요 학파의 산책 사색",
+  "tags": ["#산책", "#토론", "#사색", "#기억력", "#고대"],
+  "timeOfDay": "anytime",
+  "requiredItems": ["편안한 샌들", "필기용 왁스 태블릿"],
+  "frequency": "daily",
+  "historicalStory": "아리스토텔레스는 리케온 학당을 설립한 후, 숲이 우거진 회랑(Peripatos)을 제자들과 함께 천천히 걸어 다니며 철학과 과학을 토론하고 강의했습니다. 이 모습에서 그를 따르는 무리를 '소요 학파(Peripatetics, 거니는 사람들)'라고 부르게 되었습니다. 그는 신체적인 움직임이 정적인 생각의 틀을 깨고 이성을 더 날카롭게 가다듬는다고 굳게 믿었습니다.",
+  "sciencePrinciples": "현대 뇌과학은 걷기가 해마(Hippocampus) 영역을 활성화하고 뇌신경 성장인자(BDNF)의 분비를 증가시켜 학습 능력과 기억 가소성을 급격히 끌어올린다는 것을 증명했습니다. 또한 걷는 동안 뇌의 디폴트 모드 네트워크(DMN)와 주의 집중 네트워크가 조화롭게 교차하며 창의적 발상과 논리적 추론 능력을 고취시킵니다.",
+  "quote": "현명한 사람은 걸으며 생각하고, 생각을 통해 실천한다.",
+  "trigger": "이론적 정체기에 부딪히거나 복잡한 문제를 해결해야 할 때",
+  "modernGuide": [
+    "어려운 주제나 기획에 대해 20~30분간 야외를 가볍게 산책합니다.",
+    "걸으면서 복잡하게 꼬인 아이디어를 소리 내어 가볍게 읊조리거나 머릿속으로 정리합니다.",
+    "산책이 끝난 직후 스마트폰 메모 앱에 정리된 논리 흐름을 즉시 기록합니다."
+  ],
+  "actionName": "소요 사색 워킹",
+  "sources": [
+    "Diogenes Laërtius, Lives and Opinions of Eminent Philosophers",
+    "Stanford Encyclopedia of Philosophy - Aristotle"
+  ]
+}

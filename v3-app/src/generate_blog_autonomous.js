@@ -285,6 +285,18 @@ faqs:
 "여기에 대표 명언 혹은 핵심 문구를 적습니다." 🚶‍♂️
 
 도입문 문단을 이곳에 한글로 작성합니다. 위인의 일대기나 흥미로운 비하인드 스토리를 담아 독자의 흥미를 유발해 주세요.
+
+<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+      역사적 & 학술적 근거
+    </h5>
+    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 [출처 및 역사적 기록 정보] 및 관련 인지과학/생리학 연구 결과를 기반으로 작성되었습니다.
+    </p>
+  </div>
+</div>
 `;
       fs.writeFileSync(koPath, mdTemplate, 'utf-8');
       console.log(`📁 [템플릿 생성] 한국어 마스터 마크다운 템플릿이 적재되었습니다: src/content/blog/ko/${slug}.md`);
