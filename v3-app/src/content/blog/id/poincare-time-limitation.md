@@ -105,3 +105,4 @@ Menurut ilmu belajar dan neurofisiologi, otak beroperasi dalam dua sistem kognit
     </p>
   </details>
 </div>
+<strong></strong>

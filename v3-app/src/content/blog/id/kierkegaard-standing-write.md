@@ -101,3 +101,4 @@ Segera setelah aktivitas fisik (berjalan), otak berada dalam kondisi 'Pemanasan 
     </p>
   </details>
 </div>
+<strong></strong>

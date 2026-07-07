@@ -101,3 +101,4 @@ Les tâches complexes causent une « Attention Dirigée » qui épuise le cortex
     </p>
   </details>
 </div>
+<strong></strong>

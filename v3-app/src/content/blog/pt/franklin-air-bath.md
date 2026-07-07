@@ -109,3 +109,4 @@ A medicina e a neurociência modernas provam que a crença de Franklin era altam
     </p>
   </details>
 </div>
+<strong></strong>

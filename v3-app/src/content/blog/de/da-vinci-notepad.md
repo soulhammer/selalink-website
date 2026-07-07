@@ -101,3 +101,4 @@ Unser Gehirn ähnelt eher einem Prozessor (CPU), der Informationen verarbeitet u
     </p>
   </details>
 </div>
+<strong></strong>

@@ -109,3 +109,4 @@ Faktanya, area yang ditempati oleh kaki dan jari kaki di korteks somatosensorik 
     </p>
   </details>
 </div>
+<strong></strong>

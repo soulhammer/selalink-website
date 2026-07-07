@@ -101,3 +101,4 @@ Focar em ações físicas precisas, como contar grãos de café, é um excelente
     </p>
   </details>
 </div>
+<strong></strong>

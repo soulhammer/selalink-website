@@ -101,3 +101,4 @@ La saisie numérique est une activité cognitive de faible densité. En revanche
     </p>
   </details>
 </div>
+<strong></strong>

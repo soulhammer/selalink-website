@@ -105,3 +105,4 @@ Durch das Sichern von Gedanken auf Papier wird das Arbeitsgedächtnis entlastet 
     </p>
   </details>
 </div>
+<strong></strong><strong></strong><strong></strong><strong></strong>

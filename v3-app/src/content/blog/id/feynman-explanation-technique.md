@@ -101,3 +101,4 @@ Metode belajar pasif tidak dapat menanamkan ingatan jangka panjang. Sebaliknya, 
     </p>
   </details>
 </div>
+<strong></strong>

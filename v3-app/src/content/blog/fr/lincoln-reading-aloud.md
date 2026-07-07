@@ -101,3 +101,4 @@ Parcourir passivement le texte minimise le traitement des informations. En revan
     </p>
   </details>
 </div>
+<strong></strong>

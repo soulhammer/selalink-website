@@ -109,3 +109,4 @@ Modern medicine and brain science prove that Franklin's belief was highly scient
     </p>
   </details>
 </div>
+<strong></strong>

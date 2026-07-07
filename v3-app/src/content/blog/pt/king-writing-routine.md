@@ -107,3 +107,4 @@ Uma vez repetido, o cérebro reconhece: 'Quando começa este estímulo, é hora 
     </p>
   </details>
 </div>
+<strong></strong>

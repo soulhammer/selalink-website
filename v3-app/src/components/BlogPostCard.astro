@@ -24,6 +24,11 @@ const appTags = {
   },
   buildself: { 
     name: 'BuildSelf', 
+    style: 'bg-teal-50 text-teal-700 border-teal-200 dark:bg-teal-500/10 dark:text-teal-400 dark:border-teal-500/20',
+    hoverText: 'group-hover:text-teal-600 dark:group-hover:text-teal-400'
+  },
+  buildsnap: { 
+    name: 'BuildSnap', 
     style: 'bg-indigo-50 text-indigo-700 border-indigo-200 dark:bg-indigo-500/10 dark:text-indigo-400 dark:border-indigo-500/20',
     hoverText: 'group-hover:text-indigo-600 dark:group-hover:text-indigo-400'
   },
@@ -52,6 +57,8 @@ const styleVars = app === 'freshsnap'
   : app === 'freshself'
   ? '--theme-color-light: rgba(139, 92, 246, 0.05); --theme-color-border-hover: rgba(139, 92, 246, 0.3); --theme-color-glow: rgba(139, 92, 246, 0.15);'
   : app === 'buildself'
+  ? '--theme-color-light: rgba(13, 148, 136, 0.05); --theme-color-border-hover: rgba(13, 148, 136, 0.3); --theme-color-glow: rgba(13, 148, 136, 0.15);'
+  : app === 'buildsnap'
   ? '--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);'
   : app === 'logself'
   ? '--theme-color-light: rgba(59, 130, 246, 0.05); --theme-color-border-hover: rgba(59, 130, 246, 0.3); --theme-color-glow: rgba(59, 130, 246, 0.15);'

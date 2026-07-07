@@ -144,3 +144,5 @@ Por isso, a chave para um armazenamento bem-sucedido de maçãs é evitar a perd
     </p>
   </details>
 </div>
+
+<strong></strong>

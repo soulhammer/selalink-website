@@ -110,3 +110,4 @@ Por otro lado, mantener una postura tumbada horizontal y cómoda durante un rato
     </p>
   </details>
 </div>
+<strong></strong>

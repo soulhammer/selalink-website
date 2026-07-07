@@ -101,3 +101,4 @@ Os métodos de aprendizagem passivos não gravam memórias a longo prazo. Pelo c
     </p>
   </details>
 </div>
+<strong></strong>

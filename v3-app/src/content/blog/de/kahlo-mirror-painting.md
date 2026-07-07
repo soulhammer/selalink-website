@@ -105,3 +105,4 @@ In diesem Prozess stellt das Gehirn ein Gefühl der Kontrolle über das Selbst w
     </p>
   </details>
 </div>
+<strong></strong><strong></strong><strong></strong>

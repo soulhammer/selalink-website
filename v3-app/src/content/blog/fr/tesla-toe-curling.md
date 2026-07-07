@@ -109,3 +109,4 @@ En effet, dans le cortex somatosensoriel du cerveau, la zone dédiée aux pieds 
     </p>
   </details>
 </div>
+<strong></strong>

@@ -101,3 +101,4 @@ Memindai teks secara pasif meminimalkan pemrosesan informasi. Sebaliknya, menguc
     </p>
   </details>
 </div>
+<strong></strong>

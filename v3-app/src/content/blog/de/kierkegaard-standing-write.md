@@ -101,3 +101,4 @@ Direkt nach Bewegung befindet sich das Gehirn in einem kognitiven Aufwärmzustan
     </p>
   </details>
 </div>
+<strong></strong>

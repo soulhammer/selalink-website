@@ -111,3 +111,4 @@ Dalam psikologi modern, ini juga diperlakukan sebagai hukum yang sangat penting.
     </p>
   </details>
 </div>
+<strong></strong>

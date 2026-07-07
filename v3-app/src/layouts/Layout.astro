@@ -6,6 +6,7 @@ import AppToast from '../components/AppToast.astro';
 import ShortsPlayerModal from '../components/ShortsPlayerModal.astro';
 import { themeColors, themeFonts, getPathForLang } from '../utils/layoutHelper';
 import { generateBaseSchema } from '../utils/seoHelper';
+import { hexToRgb } from '../utils/color';
 
 export interface Props {
 	title: string;
@@ -40,6 +41,8 @@ const {
 const currentAccent = themeColors[appId] || themeColors.studio;
 const currentFont = themeFonts[appId] || themeFonts.studio;
 
+const currentAccentRgb = hexToRgb(currentAccent);
+
 const currentPath = Astro.url.pathname;
 const t = useTranslations(lang as any);
 
@@ -55,7 +58,7 @@ const baseSchema = generateBaseSchema({
 });
 ---
 <!doctype html>
-<html lang={lang} class="dark" style={`--theme-accent: ${currentAccent}; --theme-font-family: ${currentFont};`}>
+<html lang={lang} class="dark" style={`--theme-accent: ${currentAccent}; --theme-accent-rgb: ${currentAccentRgb}; --theme-font-family: ${currentFont};`}>
 	<head>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-F045X42F26"></script>
@@ -164,6 +167,9 @@ const baseSchema = generateBaseSchema({
 				<span>SelaLink.</span>
 				{appId === 'buildself' && (
 					<span class="text-teal-600 dark:text-teal-400 font-extrabold ml-1.5 font-outfit text-lg sm:text-xl tracking-tight animate-fade-in">BuildSelf</span>
+				)}
+				{appId === 'buildsnap' && (
+					<span class="text-indigo-600 dark:text-indigo-400 font-extrabold ml-1.5 font-outfit text-lg sm:text-xl tracking-tight animate-fade-in">BuildSnap</span>
 				)}
 				{appId === 'freshself' && (
 					<span class="text-purple-600 dark:text-purple-400 font-bold ml-1.5 font-jakarta text-lg sm:text-xl tracking-normal animate-fade-in">FreshSelf</span>

@@ -101,3 +101,4 @@ Selon des études, marcher à un rythme régulier favorise la sécrétion du fac
     </p>
   </details>
 </div>
+<strong></strong>

@@ -101,3 +101,4 @@ Escrever um romance é uma tarefa que consome extrema energia mental. Murakami t
     </p>
   </details>
 </div>
+<strong></strong>

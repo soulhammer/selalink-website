@@ -105,3 +105,4 @@ Saat kontrol dilepaskan, otak lolos dari penekanan rasional dan mengalirkan keda
     </p>
   </details>
 </div>
+<strong></strong><strong></strong>

@@ -111,3 +111,4 @@ La recherche en neurosciences qualifie cet état d'« hypnagogie » (la phase de
     </p>
   </details>
 </div>
+<strong></strong>

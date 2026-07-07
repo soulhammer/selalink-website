@@ -105,3 +105,4 @@ De plus, l'attention fine des doigts pour régler la tension afin d'éviter la r
     </p>
   </details>
 </div>
+<strong></strong><strong></strong><strong></strong>

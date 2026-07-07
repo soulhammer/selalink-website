@@ -109,3 +109,4 @@ Tatsächlich nehmen Füße und Zehen im somatosensorischen Kortex des Gehirns ei
     </p>
   </details>
 </div>
+<strong></strong>

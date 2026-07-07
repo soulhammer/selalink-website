@@ -101,3 +101,4 @@ Caminhar é a maior técnica de brainstorming que a humanidade otimizou ao longo
     </p>
   </details>
 </div>
+<strong></strong>

@@ -111,3 +111,4 @@ En psychologie moderne, il s'agit d'un principe fondamental. La volonté (Willpo
     </p>
   </details>
 </div>
+<strong></strong>

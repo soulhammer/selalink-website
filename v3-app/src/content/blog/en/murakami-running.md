@@ -101,3 +101,4 @@ Writing a novel is a task that consumes extreme mental energy. Murakami trained 
     </p>
   </details>
 </div>
+<strong></strong>

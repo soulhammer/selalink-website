@@ -105,3 +105,4 @@ Ao salvar ideias no papel, a memória de trabalho se liberta da tarefa de armaze
     </p>
   </details>
 </div>
+<strong></strong><strong></strong><strong></strong><strong></strong>

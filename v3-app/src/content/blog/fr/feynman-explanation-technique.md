@@ -101,3 +101,4 @@ Les méthodes d'apprentissage passif n'ancrent pas les souvenirs à long terme. 
     </p>
   </details>
 </div>
+<strong></strong>

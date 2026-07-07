@@ -105,3 +105,4 @@ Selain itu, fokus halus jari yang mengatur tegangan agar benang tidak putus sege
     </p>
   </details>
 </div>
+<strong></strong><strong></strong><strong></strong>

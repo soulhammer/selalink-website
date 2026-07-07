@@ -105,3 +105,4 @@ Dengan mencadangkan pikiran secara aman pada media fisik buku catatan, area memo
     </p>
   </details>
 </div>
+<strong></strong><strong></strong><strong></strong><strong></strong>

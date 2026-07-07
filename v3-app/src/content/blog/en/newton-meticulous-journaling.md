@@ -105,3 +105,4 @@ By safely backing up thoughts on the physical medium of the notebook, the workin
     </p>
   </details>
 </div>
+<strong></strong><strong></strong><strong></strong><strong></strong>

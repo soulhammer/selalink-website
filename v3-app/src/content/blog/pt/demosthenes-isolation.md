@@ -111,3 +111,4 @@ Na psicologia moderna, esse conceito é considerado uma lei de extrema importân
     </p>
   </details>
 </div>
+<strong></strong>

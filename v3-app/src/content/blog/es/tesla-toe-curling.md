@@ -109,3 +109,4 @@ De hecho, el área que ocupan los pies y los dedos en la corteza somatosensorial
     </p>
   </details>
 </div>
+<strong></strong>

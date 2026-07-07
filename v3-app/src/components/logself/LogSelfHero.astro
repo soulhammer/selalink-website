@@ -44,7 +44,6 @@ const isKo = lang === 'ko';
 		<!-- Front Image (Main Timeline) - Relative and centered on mobile/tablet -->
 		<div 
 			class="relative lg:absolute lg:left-4 lg:bottom-10 w-[68%] sm:w-[60%] lg:w-[75%] max-w-[340px] rounded-[2rem] lg:rounded-[2.5rem] p-1.5 lg:p-2 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-10px_10px_40px_rgba(0,0,0,0.15)] lg:shadow-[-20px_20px_60px_rgba(0,0,0,0.15)] dark:shadow-[0_20px_30px_70px_rgba(0,0,0,0.6)] transform -rotate-3 hover:transform-none transition-all duration-700 z-10 app-card-interactive mx-auto lg:mx-0"
-			style="--theme-color-light: rgba(99, 102, 241, 0.1); --theme-color-glow: rgba(99, 102, 241, 0.25); --theme-color-border-hover: rgba(99, 102, 241, 0.3);"
 		>
 			<img src={`/images/logself/${isKo ? 'ko' : 'en'}/1.jpeg`} alt="logSelf Main Timeline" class="w-full h-auto rounded-[1.8rem] lg:rounded-[2rem] shadow-sm object-cover" loading="eager" />
 			
@@ -73,6 +72,6 @@ const isKo = lang === 'ko';
 	}
 	.app-button:hover {
 		transform: translateY(-2px);
-		box-shadow: 0 10px 25px -5px #6366F1;
+		box-shadow: 0 10px 25px -5px var(--theme-accent);
 	}
 </style>

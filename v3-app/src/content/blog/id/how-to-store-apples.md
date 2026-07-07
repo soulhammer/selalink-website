@@ -144,3 +144,5 @@ Oleh karena itu, kunci sukses penyimpanan apel adalah mencegah hilangnya kelemba
     </p>
   </details>
 </div>
+
+<strong></strong>

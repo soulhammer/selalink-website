@@ -105,3 +105,4 @@ Além disso, o foco apurado dos dedos regulando a tensão para o fio não romper
     </p>
   </details>
 </div>
+<strong></strong><strong></strong><strong></strong>

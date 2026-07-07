@@ -110,3 +110,4 @@ Com o acúmulo dessa fadiga, o cérebro perde a capacidade de julgamento raciona
     </p>
   </details>
 </div>
+<strong></strong>

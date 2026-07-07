@@ -101,3 +101,4 @@ Escanear o texto passivamente minimiza o processamento de informação. Em contr
     </p>
   </details>
 </div>
+<strong></strong>

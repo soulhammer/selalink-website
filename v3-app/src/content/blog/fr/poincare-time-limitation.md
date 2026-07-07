@@ -107,3 +107,4 @@ Durant ce mode diffus, le cerveau réalise inconsciemment un processus d'« incu
     </p>
   </details>
 </div>
+<strong></strong>

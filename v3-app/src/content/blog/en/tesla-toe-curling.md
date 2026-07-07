@@ -109,3 +109,4 @@ In fact, the area occupied by the feet and toes in the somatosensory cortex of t
     </p>
   </details>
 </div>
+<strong></strong>

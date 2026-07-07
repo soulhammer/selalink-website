@@ -107,3 +107,4 @@ Durante este modo difuso, o cérebro realiza subconscientemente um processo de '
     </p>
   </details>
 </div>
+<strong></strong>

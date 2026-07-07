@@ -109,3 +109,4 @@ La médecine moderne et les neurosciences prouvent la pertinence de cette théor
     </p>
   </details>
 </div>
+<strong></strong>

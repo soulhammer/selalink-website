@@ -111,3 +111,4 @@ La psychologie cognitive et la physiologie de l'exercice modernes confirment que
     </p>
   </details>
 </div>
+<strong></strong>

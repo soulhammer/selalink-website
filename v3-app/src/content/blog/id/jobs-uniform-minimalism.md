@@ -110,3 +110,4 @@ Saat keletihan keputusan menumpuk, otak kehilangan kemampuan penilaian rasional,
     </p>
   </details>
 </div>
+<strong></strong>

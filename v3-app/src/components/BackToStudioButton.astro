@@ -1,26 +1,17 @@
 ---
 interface Props {
   lang: string;
-  theme?: 'teal' | 'indigo' | 'purple' | 'emerald';
   class?: string;
 }
 
-const { lang, theme = 'teal', class: className = '' } = Astro.props;
-
-const themeClasses = {
-  teal: 'text-teal-600 dark:text-teal-400 hover:text-teal-800 dark:hover:text-teal-300',
-  indigo: 'text-indigo-600 dark:text-indigo-400 hover:text-indigo-800 dark:hover:text-indigo-300',
-  purple: 'text-purple-600 dark:text-purple-400 hover:text-purple-800 dark:hover:text-purple-300',
-  emerald: 'text-emerald-600 dark:text-emerald-400 hover:text-emerald-800 dark:hover:text-emerald-300',
-};
-
-const selectedTheme = themeClasses[theme] || themeClasses.teal;
+const { lang, class: className = '' } = Astro.props;
 ---
 
 <div class={className}>
   <a 
     href={`/${lang}/`} 
-    class={`group inline-flex items-center space-x-2 font-semibold transition-colors duration-300 ${selectedTheme}`}
+    class="group inline-flex items-center space-x-2 font-semibold transition-all duration-300 opacity-80 hover:opacity-100"
+    style="color: var(--theme-accent, #0D9488);"
   >
     <svg 
       xmlns="http://www.w3.org/2000/svg" 

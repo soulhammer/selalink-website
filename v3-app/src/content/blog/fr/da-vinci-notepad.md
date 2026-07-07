@@ -101,3 +101,4 @@ Notre cerveau est plus proche d'un processeur (CPU) qui traite et associe des in
     </p>
   </details>
 </div>
+<strong></strong>

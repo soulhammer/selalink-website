@@ -109,3 +109,4 @@ Kedokteran modern dan sains otak membuktikan bahwa keyakinan Franklin sangat ilm
     </p>
   </details>
 </div>
+<strong></strong>

@@ -28,7 +28,7 @@ const badgeStyles = {
     icon: '⚡'
   },
   share: {
-    bg: 'bg-amber-100/80 text-amber-800 border-amber-200/60 dark:bg-amber-500/20 dark:text-amber-300 dark:border-amber-500/30',
+    bg: 'bg-amber-100/80 text-amber-800 border-amber-200/60 dark:bg-amber-500/25 dark:text-amber-200 dark:border-amber-500/30',
     title: t('lineup.share.title') || 'SelaLink SHARE',
     desc: t('lineup.share.desc'),
     icon: '👥'
@@ -56,7 +56,7 @@ const tooltipPositionStyles = {
 const posConfig = tooltipPositionStyles[tooltipPosition] || tooltipPositionStyles.center;
 ---
 
-<span class={`relative inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[10px] font-bold border tracking-wider uppercase backdrop-blur-sm cursor-help select-none group transition-all duration-300 hover:scale-105 ${config.bg} ${className}`}>
+<span class={`relative inline-flex items-center gap-1 md:gap-1.5 px-2.5 py-0.5 md:px-3 md:py-1 rounded-full text-[10px] md:text-xs font-bold border tracking-wider uppercase backdrop-blur-sm cursor-help select-none group transition-all duration-300 hover:scale-105 ${config.bg} ${className}`}>
   <span>{config.icon}</span>
   <span>{config.title.split(' ').pop()}</span> <!-- SelaLink 단어 제외하고 SELF/SNAP/SHARE만 깔끔하게 노출 -->
 

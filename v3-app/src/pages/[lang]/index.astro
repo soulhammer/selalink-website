@@ -26,7 +26,7 @@ const langPosts = allPosts
 	<main class="max-w-[1400px] mx-auto px-6 py-8 min-h-screen">
 		
 		<!-- Hero -->
-		<section class="mb-10 md:mb-16 mt-4 md:mt-8 text-center md:text-left relative overflow-hidden rounded-[2rem] p-8 md:p-12 border border-slate-200/50 dark:border-white/5 bg-slate-100/30 dark:bg-slate-950/40 backdrop-blur-md">
+		<section class="mb-10 md:mb-16 mt-2 md:mt-6 text-center md:text-left relative overflow-hidden rounded-[2rem] p-8 md:p-12 border border-slate-200/50 dark:border-white/5 bg-slate-100/30 dark:bg-slate-950/40 backdrop-blur-md">
 			<div class="absolute inset-0 bg-[url('/images/banner.webp')] bg-cover bg-center opacity-[0.15] mix-blend-multiply filter invert-[0.95] hue-rotate-[180deg] dark:opacity-30 dark:mix-blend-screen dark:filter-none pointer-events-none"></div>
 			<div class="relative z-10">
 				<h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black tracking-tighter leading-[1.15] md:leading-[1.1] mb-4 md:mb-6 whitespace-pre-wrap text-slate-900 dark:text-white">{t('hero.title')}</h1>
@@ -64,7 +64,7 @@ const langPosts = allPosts
 				</p>
 			</div>
 			
-			<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+			<div class="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6">
 				<!-- SELF Card -->
 				<div class="relative overflow-hidden rounded-3xl p-6 sm:p-8 bg-white/40 dark:bg-slate-800/30 backdrop-blur-md border border-slate-200/50 dark:border-slate-800/60 shadow-sm transition-all duration-300 hover:shadow-lg flex flex-col justify-between">
 					<div>
@@ -113,7 +113,7 @@ const langPosts = allPosts
 		</section>
 
 		<!-- Bento Grid 2.0 -->
-		<section class="grid grid-cols-1 md:grid-cols-2 gap-6 auto-rows-[230px] md:auto-rows-[350px]">
+		<section class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 auto-rows-[230px] md:auto-rows-[350px]">
 			
 			<!-- FreshSelf Card (Horizontal Bento - Z-10) -->
 			<a href={`/${lang}/apps/freshself/`} aria-label={t('app.freshself.title')} class="bento-card col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.15);">
@@ -374,7 +374,7 @@ const langPosts = allPosts
 					</a>
 				</div>
 				
-				<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+				<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
 					{langPosts.map((post) => (
 						<BlogPostCard post={post} lang={lang} />
 					))}

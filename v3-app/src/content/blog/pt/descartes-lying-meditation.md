@@ -110,3 +110,4 @@ Por outro lado, manter-se deitado de forma confortável por um tempo após acord
     </p>
   </details>
 </div>
+<strong></strong>

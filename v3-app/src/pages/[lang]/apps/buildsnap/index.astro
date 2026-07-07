@@ -148,12 +148,12 @@ const runtimeTranslations = {
 
     <!-- Header / Go Back Button -->
     <div class="relative z-10">
-      <BackToStudioButton lang={currentLang} theme="indigo" class="mb-8" />
+      <BackToStudioButton lang={currentLang} class="mb-8" />
     </div>
 
     <!-- Title Header -->
     <div class="text-center mb-10 md:mb-16 relative z-10 select-none">
-      <h1 class="text-3xl sm:text-5xl md:text-6xl font-black tracking-tight mb-3 bg-gradient-to-r from-violet-500 to-indigo-500 dark:from-violet-400 dark:to-indigo-400 bg-clip-text text-transparent">
+      <h1 class="text-3xl sm:text-5xl md:text-6xl font-black tracking-tight mb-3 bg-gradient-to-r from-indigo-600 to-indigo-400 dark:from-indigo-500 dark:to-indigo-300 bg-clip-text text-transparent">
         {t('buildsnap.title')}
       </h1>
       <p class="text-sm sm:text-base md:text-lg text-slate-650 dark:text-slate-200 max-w-3xl mx-auto leading-relaxed">
@@ -162,7 +162,7 @@ const runtimeTranslations = {
     </div>
 
     <!-- 1. Stats Dashboard Section (Premium UI with High Contrast & Perfect Consistency) -->
-    <section class="app-card-neon p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl bg-slate-50/50 dark:bg-slate-900/10" style="--theme-color-light: rgba(139, 92, 246, 0.15); --theme-color-brand: #8B5CF6; --theme-color-glow: rgba(139, 92, 246, 0.15);">
+    <section class="app-card-neon p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl bg-slate-50/50 dark:bg-slate-900/10">
       <div class="mb-6 md:mb-8 text-center md:text-left">
         <h2 class="text-2xl font-black text-slate-855 dark:text-slate-100 flex items-center justify-center md:justify-start gap-2">
           <span>{t('buildsnap.stats.title')}</span>
@@ -174,7 +174,7 @@ const runtimeTranslations = {
 
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         <!-- Chart A: timeOfDay Distribution (Radial Time Dial with High Contrast) -->
-        <div class="bg-white/90 dark:bg-slate-950/50 border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none relative group transition-all duration-300 hover:border-violet-500/40 shadow-sm">
+        <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none relative group transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
           <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
             🕒 {t('buildsnap.stats.time')}
           </h3>
@@ -277,7 +277,7 @@ const runtimeTranslations = {
         </div>
 
         <!-- Chart B: Category Share (Layered Horizontal Bar Chart with Unified Legends) -->
-        <div class="bg-white/90 dark:bg-slate-950/50 border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-violet-500/40 shadow-sm">
+        <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
           <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
             🧬 {t('buildsnap.stats.category')}
           </h3>
@@ -338,7 +338,7 @@ const runtimeTranslations = {
         </div>
 
         <!-- Chart C: Difficulty Barrier (Liquid Wave Balance Gauge) -->
-        <div class="bg-white/90 dark:bg-slate-950/50 border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-violet-500/40 shadow-sm">
+        <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
           <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
             🛡️ {t('buildsnap.stats.difficulty')}
           </h3>
@@ -379,7 +379,7 @@ const runtimeTranslations = {
         </div>
 
         <!-- Chart D: Era distribution (Chronological Area Wave Chart with Tooltips & Unified Cards) -->
-        <div class="bg-white/90 dark:bg-slate-950/50 border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none relative transition-all duration-300 hover:border-violet-500/40 shadow-sm">
+        <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none relative transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
           <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-2">
             🏛️ {t('buildsnap.stats.era')}
           </h3>
@@ -406,11 +406,11 @@ const runtimeTranslations = {
               <path d="M 0,85 C 50,85 50,100 100,100 C 150,100 150,92 200,92 C 250,92 250,20 300,20 C 350,20 350,75 400,75" fill="none" stroke="#8b5cf6" stroke-width="3" id="waveCurveLine" class="transition-all duration-350" />
 
               <!-- Interactive Dot nodes on wave peak coordinates -->
-              <circle cx="10" cy="85" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-violet-400 transition-all duration-300" id="dotAncient" />
-              <circle cx="105" cy="100" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-violet-400 transition-all duration-300" id="dotRenaissance" />
-              <circle cx="200" cy="92" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-violet-400 transition-all duration-300" id="dotEarlyModern" />
-              <circle cx="295" cy="20" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-violet-400 transition-all duration-300" id="dotModern" />
-              <circle cx="390" cy="75" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-violet-400 transition-all duration-300" id="dotContemporary" />
+              <circle cx="10" cy="85" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-indigo-400 transition-all duration-300" id="dotAncient" />
+              <circle cx="105" cy="100" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-indigo-400 transition-all duration-300" id="dotRenaissance" />
+              <circle cx="200" cy="92" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-indigo-400 transition-all duration-300" id="dotEarlyModern" />
+              <circle cx="295" cy="20" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-indigo-400 transition-all duration-300" id="dotModern" />
+              <circle cx="390" cy="75" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-indigo-400 transition-all duration-300" id="dotContemporary" />
             </svg>
           </div>
 
@@ -447,7 +447,7 @@ const runtimeTranslations = {
     </section>
 
     <!-- 2. Matcher Section -->
-    <section class="app-card-neon p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl" style="--theme-color-light: rgba(99, 102, 241, 0.15); --theme-color-brand: #6366F1; --theme-color-glow: rgba(99, 102, 241, 0.15);">
+    <section class="app-card-neon p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl">
       <div class="mb-8 text-center md:text-left select-none">
         <h2 class="text-xl sm:text-2xl font-bold text-slate-800 dark:text-slate-100">
           {t('buildsnap.matcher.title')}

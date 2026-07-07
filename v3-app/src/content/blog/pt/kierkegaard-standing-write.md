@@ -101,3 +101,4 @@ Imediatamente após a atividade física, o cérebro entra num 'Aquecimento Cogni
     </p>
   </details>
 </div>
+<strong></strong>

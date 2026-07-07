@@ -23,12 +23,13 @@ export function generateBaseSchema(options: SchemaOptions) {
   } = options;
 
   const isBuildSelf = pathname.includes('/apps/buildself') || appId === 'buildself';
+  const isBuildSnap = pathname.includes('/apps/buildsnap') || appId === 'buildsnap';
   const isFreshSelf = (pathname.includes('/apps/freshself') && !pathname.includes('/apps/freshsnap')) || appId === 'freshself';
   const isFreshSnap = pathname.includes('/apps/freshsnap') || appId === 'freshsnap';
   const isLogSelf = pathname.includes('/apps/logself') || appId === 'logself';
 
-  const appName = isBuildSelf ? "BuildSelf" : (isFreshSnap ? "FreshSnap" : (isFreshSelf ? "FreshSelf" : (isLogSelf ? "logSelf" : "SelaLink Studio")));
-  const appCategory = isFreshSnap ? "LifestyleApplication" : (isFreshSelf || isLogSelf ? "LifestyleApplication" : "HealthApplication");
+  const appName = isBuildSelf ? "BuildSelf" : (isBuildSnap ? "BuildSnap" : (isFreshSnap ? "FreshSnap" : (isFreshSelf ? "FreshSelf" : (isLogSelf ? "logSelf" : "SelaLink Studio"))));
+  const appCategory = isFreshSnap || isBuildSnap ? "LifestyleApplication" : (isFreshSelf || isLogSelf ? "LifestyleApplication" : "HealthApplication");
 
   const rawUrl = canonicalUrl || urlHref;
   const formattedUrl = rawUrl.endsWith('/') ? rawUrl : rawUrl + '/';
@@ -47,6 +48,8 @@ export function generateBaseSchema(options: SchemaOptions) {
   const alternateNames: string[] = [];
   if (isBuildSelf) {
     alternateNames.push(t('app.buildself.title'), "빌드셀프", "BuildSelf");
+  } else if (isBuildSnap) {
+    alternateNames.push(t('app.buildsnap.title') || "BuildSnap", "빌드스냅", "BuildSnap");
   } else if (isFreshSelf) {
     alternateNames.push(t('app.freshself.title'), "프레시셀프", "프레쉬셀프", "FreshSelf");
   } else if (isFreshSnap) {
@@ -58,6 +61,11 @@ export function generateBaseSchema(options: SchemaOptions) {
   let appFeatures: string[] = [];
   if (isBuildSelf) {
     appFeatures = (t('app.buildself.meta.features') || '').split(',');
+  } else if (isBuildSnap) {
+    appFeatures = (t('app.buildsnap.meta.features') || '').split(',').filter(Boolean);
+    if (appFeatures.length === 0) {
+      appFeatures = ["Habit Analytics", "Mentor Recommendations", "Routine Prescription"];
+    }
   } else if (isFreshSelf) {
     appFeatures = (t('app.freshself.meta.features') || '').split(',');
   } else if (isFreshSnap) {
@@ -69,6 +77,7 @@ export function generateBaseSchema(options: SchemaOptions) {
   let pageKeywords = keywords;
   if (!pageKeywords) {
     if (isBuildSelf) pageKeywords = t('app.buildself.meta.keywords');
+    else if (isBuildSnap) pageKeywords = t('app.buildsnap.meta.keywords') || t('meta.keywords');
     else if (isFreshSelf) pageKeywords = t('app.freshself.meta.keywords');
     else if (isFreshSnap) pageKeywords = t('app.freshsnap.meta.keywords');
     else if (isLogSelf) pageKeywords = t('app.logself.meta.keywords');

@@ -144,3 +144,5 @@ Par conséquent, la clé d'une conservation réussie des pommes est de prévenir
     </p>
   </details>
 </div>
+
+<strong></strong>

@@ -101,3 +101,4 @@ Menurut penelitian, berjalan dengan ritme yang stabil mendorong sekresi faktor n
     </p>
   </details>
 </div>
+<strong></strong>

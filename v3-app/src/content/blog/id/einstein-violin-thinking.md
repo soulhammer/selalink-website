@@ -119,3 +119,4 @@ Biola Einstein berfungsi sebagai alat untuk melakukan 'alih kognitif (Cognitive 
     </p>
   </details>
 </div>
+<strong></strong>

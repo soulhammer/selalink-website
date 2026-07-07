@@ -101,3 +101,4 @@ Olhar para o ecrã para resolver problemas satura o córtex pré-frontal e causa
     </p>
   </details>
 </div>
+<strong></strong>

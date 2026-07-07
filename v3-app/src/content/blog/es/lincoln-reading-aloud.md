@@ -101,3 +101,4 @@ Escanear el texto pasivamente minimiza el procesamiento de información. En camb
     </p>
   </details>
 </div>
+<strong></strong>

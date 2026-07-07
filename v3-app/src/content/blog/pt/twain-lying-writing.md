@@ -105,3 +105,4 @@ O cérebro relaxado escapa do estado de tensão (ondas beta) e emite abundanteme
     </p>
   </details>
 </div>
+<strong></strong><strong></strong><strong></strong><strong></strong>

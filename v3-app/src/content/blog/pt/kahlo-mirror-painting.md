@@ -105,3 +105,4 @@ Nesse processo, o cérebro restaura a sensação de controle sobre o eu e fortal
     </p>
   </details>
 </div>
+<strong></strong><strong></strong><strong></strong>

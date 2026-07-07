@@ -101,3 +101,4 @@ O nosso cérebro está mais próximo de uma CPU (unidade central de processament
     </p>
   </details>
 </div>
+<strong></strong>

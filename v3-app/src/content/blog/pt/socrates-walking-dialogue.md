@@ -101,3 +101,4 @@ Caminhar é uma potente bomba fisiológica que empurra oxigênio e fluxo sanguí
     </p>
   </details>
 </div>
+<strong></strong><strong></strong>

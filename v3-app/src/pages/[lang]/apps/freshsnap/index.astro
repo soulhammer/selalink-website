@@ -3,6 +3,7 @@ import Layout from '../../../../layouts/Layout.astro';
 import { languages } from '../../../../i18n/ui';
 import { ingredients } from '../../../../data/ingredients';
 import BackToStudioButton from '../../../../components/BackToStudioButton.astro';
+import AppBackgroundBlurs from '../../../../components/AppBackgroundBlurs.astro';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({
@@ -39,9 +40,13 @@ const categoryCounts = getCategoryCounts(ingredients);
   image="/assets/images/og/freshself.png"
   appId="freshsnap"
 >
-  <main class="max-w-[1200px] mx-auto px-4 pt-24 pb-8 md:pt-28 md:pb-16">
+  <main class="max-w-[1200px] mx-auto px-4 pt-24 pb-8 md:pt-28 md:pb-16 relative">
+    <AppBackgroundBlurs appId="freshsnap" />
+
     <!-- Navigation / Header Breadcrumb -->
-    <BackToStudioButton lang={currentLang} theme="emerald" class="mb-6" />
+    <div class="relative z-10">
+      <BackToStudioButton lang={currentLang} class="mb-6" />
+    </div>
 
     <!-- Hero Section (모바일 세로 높이 최소화 설계) -->
     <div class="text-center mb-6 md:mb-12">

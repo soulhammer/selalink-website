@@ -101,3 +101,4 @@ Juste après l'activité physique, le cerveau est dans un « Échauffement cogni
     </p>
   </details>
 </div>
+<strong></strong>

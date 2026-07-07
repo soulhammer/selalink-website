@@ -105,3 +105,4 @@ Kafka escrevia em silêncio extremo das 23h às 2 ou 3h da manhã, às vezes at�
     </p>
   </details>
 </div>
+<strong></strong><strong></strong>

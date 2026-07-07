@@ -101,3 +101,4 @@ Otak kita lebih dekat ke CPU (central processing unit) yang memproses dan mengas
     </p>
   </details>
 </div>
+<strong></strong>
