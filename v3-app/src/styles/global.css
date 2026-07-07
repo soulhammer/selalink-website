@@ -2,6 +2,12 @@
 @plugin "@tailwindcss/typography";
 @theme {
   --font-sans: 'Space Grotesk', 'Pretendard', system-ui, -apple-system, sans-serif;
+  --color-slate-250: #d7dfeb;
+  --color-slate-350: #aebbcf;
+  --color-slate-455: #7a8c9e;
+  --color-slate-650: #3f4e62;
+  --color-slate-750: #253246;
+  --color-slate-850: #141f2e;
 }
 
 /* Force Tailwind v4 to use class-based dark mode instead of strictly relying on media queries */
