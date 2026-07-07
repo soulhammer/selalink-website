@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import { franc } from 'franc-min';
 import { ui, defaultLang, useTranslations } from '../src/i18n/ui';
+import { buildsnapTranslations } from '../src/i18n/buildsnapTranslations';
 
 // 9개 국어 폴더와 franc (ISO 639-3) 언어 코드 매핑
 const langMapping: Record<string, string> = {
@@ -524,6 +525,51 @@ describe('FreshSnap 번역 사전 구조 및 정합성 검증', () => {
         return val === null || val === undefined || (typeof val === 'string' && val.trim() === '');
       });
       expect(emptyKeys, `오류: FreshSnap [${locale}] 사전에 비어있는 번역 키가 존재합니다: ${emptyKeys.join(', ')}`).toEqual([]);
+    });
+  });
+});
+
+// ========================================================
+// 검증 3.7: 빌드스냅(BuildSnap) 번역 사전 구조 및 정합성 검증
+// ========================================================
+describe('BuildSnap 번역 사전 구조 및 정합성 검증', () => {
+  const locales = ['en', 'ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'];
+  const defaultLocale = 'en';
+
+  const defaultKeys = Object.keys(buildsnapTranslations[defaultLocale]);
+
+  locales.forEach((locale) => {
+    if (locale === defaultLocale) return;
+
+    it(`[${locale.toUpperCase()}] BuildSnap 번역 키 리스트가 기본 언어(${defaultLocale})와 완전히 일치해야 한다`, () => {
+      const localeKeys = Object.keys(buildsnapTranslations[locale]);
+
+      // 1. 누락된 번역 키 검출
+      defaultKeys.forEach(key => {
+        expect(localeKeys, `오류: BuildSnap ui.${locale} 사전에 번역 키 "${key}"가 누락되었습니다.`).toContain(key);
+      });
+
+      // 2. 미사용/잘못 정의된 번역 키 검출
+      localeKeys.forEach(key => {
+        expect(defaultKeys, `오류: BuildSnap ui.${locale} 사전에 기본 언어(${defaultLocale})에 없는 잘못된 키 "${key}"가 정의되어 있습니다.`).toContain(key);
+      });
+    });
+
+    if (locale !== 'ko') {
+      it(`[${locale.toUpperCase()}] BuildSnap 번역 사전(locales/buildsnap/${locale}.json)에 한글(번역 누출)이 포함되어 있지 않아야 한다`, () => {
+        const rawContent = JSON.stringify(buildsnapTranslations[locale]);
+        const hasKorean = /[\uAC00-\uD7A3\u3130-\u318F]/g.test(rawContent);
+        expect(hasKorean, `오류: BuildSnap [${locale}] 사전에 번역되지 않은 한글이 포함되어 있습니다.`).toBe(false);
+      });
+    }
+
+    it(`[${locale.toUpperCase()}] BuildSnap 번역 값 중에 비어있는 번역(Empty String)이 없어야 한다`, () => {
+      const localeData = buildsnapTranslations[locale];
+      const emptyKeys = Object.keys(localeData).filter(k => {
+        const val = localeData[k];
+        return val === null || val === undefined || (typeof val === 'string' && val.trim() === '');
+      });
+      expect(emptyKeys, `오류: BuildSnap [${locale}] 사전에 비어있는 번역 키가 존재합니다: ${emptyKeys.join(', ')}`).toEqual([]);
     });
   });
 });

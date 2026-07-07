@@ -170,8 +170,7 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.milestone.step3": "脳の無意識定着と完全自動化完了",
     "buildsnap.milestone.canvas.step1": "📈 抵抗期 (1-22日): 悪いループを断ち, 脳細胞を新しく刻む",
     "buildsnap.milestone.canvas.step2": "🛠️ 過渡期 (23-44日): 崩れやすい行動を日常に強制定着させる",
-    "buildsnap.milestone.canvas.step3": "🎯 自動化期 (45-66日): 意志の力を必要としない無意識ルーティン化",
-    "buildsnap.sources.verify": "Designed by SelaLink Studio"
+    "buildsnap.milestone.canvas.step3": "🎯 自動化期 (45-66日): 意志の力を必要としない無意識ルーティン化"
   },
   zh: {
     "buildsnap.result.title": "专属伟人习惯处方",
@@ -206,8 +205,8 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.matcher.steps.title": "🛠️ 现代人三步实践指南",
     "buildsnap.matcher.sources.title": "📚 历史文献与学术研究出处",
     "buildsnap.matcher.btn.blog": "阅读详细故事 📖",
-    "buildsnap.story.title": "💬 伟人的逸闻趣事 (Story)",
-    "buildsnap.science.title": "🛡️ 行为认知科学原理 (Science)",
+    "buildsnap.matcher.story.title": "💬 伟人的逸闻趣事 (Story)",
+    "buildsnap.matcher.science.title": "🛡️ 行为认知科学原理 (Science)",
     "buildsnap.nudge.title": "想要系统地记录每天的习惯吗？",
     "buildsnap.nudge.desc": "体验 100% 保护隐私、无服务器同步的手机应用 **BuildSelf**。精美的统计图表将助力您的成长。",
     "buildsnap.nudge.download": "了解 BuildSelf 手机应用",
