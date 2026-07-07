@@ -168,7 +168,7 @@ const runtimeTranslations = {
           <span>{t('buildsnap.stats.title')}</span>
         </h2>
         <p class="text-xs sm:text-sm text-slate-700 dark:text-slate-400 mt-1 font-bold">
-          {t('buildsnap.stats.desc')}
+          {t('buildsnap.stats.desc').replace('$1', habits.length.toString())}
         </p>
       </div>
 

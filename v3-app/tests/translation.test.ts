@@ -572,6 +572,29 @@ describe('BuildSnap 번역 사전 구조 및 정합성 검증', () => {
       expect(emptyKeys, `오류: BuildSnap [${locale}] 사전에 비어있는 번역 키가 존재합니다: ${emptyKeys.join(', ')}`).toEqual([]);
     });
   });
+
+  it('모든 BuildSnap 번역문의 템플릿 플레이스홀더($1) 개수가 일치해야 한다', () => {
+    const placeholderRegex = /\$\d+/g;
+
+    defaultKeys.forEach((key) => {
+      const enVal = buildsnapTranslations[defaultLocale][key];
+      const enPlaceholders = enVal.match(placeholderRegex) || [];
+
+      locales.forEach((locale) => {
+        if (locale === defaultLocale) return;
+
+        const val = buildsnapTranslations[locale][key];
+        if (typeof val === 'string') {
+          const placeholders = val.match(placeholderRegex) || [];
+          
+          expect(
+            placeholders.length,
+            `오류: BuildSnap buildsnapTranslations.${locale}["${key}"] 번역문의 플레이스홀더($1) 개수(${placeholders.length}개)가 기본 언어(${enPlaceholders.length}개)와 다릅니다.\n기본값: "${enVal}"\n번역값: "${val}"`
+          ).toBe(enPlaceholders.length);
+        }
+      });
+    });
+  });
 });
 
 // ========================================================
