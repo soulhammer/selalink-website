@@ -1,0 +1,1126 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import { languages } from '../../../../i18n/ui';
+import BackToStudioButton from '../../../../components/BackToStudioButton.astro';
+import AppBackgroundBlurs from '../../../../components/AppBackgroundBlurs.astro';
+
+// 원천 데이터 및 번역 사전 임포트
+import { habits } from '../../../../data/habits';
+import { buildsnapTranslations } from '../../../../i18n/buildsnapTranslations';
+
+export function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({
+    params: { lang },
+  }));
+}
+
+const { lang } = Astro.params;
+const currentLang = (lang as string) || 'ko';
+
+const t = (key: string) => {
+  return buildsnapTranslations[currentLang]?.[key] || buildsnapTranslations['ko']?.[key] || key;
+};
+
+// 1. 빌드 타임 통계 사전 분석 (Pre-aggregation)
+const totalHabits = habits.length;
+
+// A. timeOfDay 집계
+const timeOfDayCounts = { morning: 0, afternoon: 0, evening: 0, night: 0, anytime: 0 };
+habits.forEach(h => {
+  const key = h.timeOfDay === 'evening' ? 'evening' :
+              h.timeOfDay === 'night' ? 'night' :
+              h.timeOfDay === 'afternoon' ? 'afternoon' :
+              h.timeOfDay === 'morning' ? 'morning' : 'anytime';
+  timeOfDayCounts[key]++;
+});
+
+// B. era 집계
+const eraCounts = { ancient: 0, renaissance: 0, earlyModern: 0, modern: 0, contemporary: 0 };
+habits.forEach(h => {
+  const eraStr = (h.era || '').toLowerCase();
+  if (eraStr.includes('고대')) eraCounts.ancient++;
+  else if (eraStr.includes('르네상스')) eraCounts.renaissance++;
+  else if (eraStr.includes('근세')) eraCounts.earlyModern++;
+  else if (eraStr.includes('근대')) eraCounts.modern++;
+  else eraCounts.contemporary++; // 현대 및 contemporary 통합
+});
+
+// C. 각 시대별 매칭 위인 명단 빌드타임 전처리
+const eraMentors = {
+  ancient: habits.filter(h => (h.era || '').toLowerCase().includes('고대')).map(h => h.name),
+  renaissance: habits.filter(h => (h.era || '').toLowerCase().includes('르네상스')).map(h => h.name),
+  earlyModern: habits.filter(h => (h.era || '').toLowerCase().includes('근세')).map(h => h.name),
+  modern: habits.filter(h => (h.era || '').toLowerCase().includes('근대')).map(h => h.name),
+  contemporary: habits.filter(h => !(h.era || '').toLowerCase().includes('고대') && !(h.era || '').toLowerCase().includes('르네상스') && !(h.era || '').toLowerCase().includes('근세') && !(h.era || '').toLowerCase().includes('근대')).map(h => h.name)
+};
+
+// D. 준비 난이도 (requiredItems 개수 기준)
+let easyCount = 0;
+let hardCount = 0;
+habits.forEach(h => {
+  const itemsLen = h.requiredItems ? h.requiredItems.length : 0;
+  if (itemsLen <= 1 || h.tags.includes('#쉬움')) {
+    easyCount++;
+  } else {
+    hardCount++;
+  }
+});
+
+const easyPercent = Math.round((easyCount / totalHabits) * 100);
+const hardPercent = 100 - easyPercent; // 보정 완료
+
+// E. 행동 카테고리 집계 (태그 키워드 매핑)
+let focusCount = 0;      // 집중력 및 생산성
+let creativeCount = 0;   // 창의성 및 아이디어
+let simplicityCount = 0; // 단순화 및 의사결정
+let mindCount = 0;       // 휴식 및 사색
+
+habits.forEach(h => {
+  const tagsStr = h.tags.join(' ');
+  if (tagsStr.includes('집중') || tagsStr.includes('몰입') || tagsStr.includes('생산성')) focusCount++;
+  if (tagsStr.includes('창의') || tagsStr.includes('아이디어') || tagsStr.includes('글쓰기') || tagsStr.includes('기록') || tagsStr.includes('메모')) creativeCount++;
+  if (tagsStr.includes('단순') || tagsStr.includes('의사결정')) simplicityCount++;
+  if (tagsStr.includes('휴식') || tagsStr.includes('사색') || tagsStr.includes('명상') || tagsStr.includes('수면') || tagsStr.includes('이완')) mindCount++;
+});
+
+const totalCategorySum = (focusCount + creativeCount + simplicityCount + mindCount) || 1;
+const focusPercent = Math.round((focusCount / totalCategorySum) * 100);
+const creativePercent = Math.round((creativeCount / totalCategorySum) * 100);
+const simplicityPercent = Math.round((simplicityCount / totalCategorySum) * 100);
+const mindPercent = 100 - (focusPercent + creativePercent + simplicityPercent); // 카테고리 총합 100% 보정 완료
+
+// F. 시간대별 반올림 오차 보정 완료형 변수 선언
+const morningPercent = Math.round((timeOfDayCounts.morning / totalHabits) * 100);
+const afternoonPercent = Math.round((timeOfDayCounts.afternoon / totalHabits) * 100);
+const eveningPercent = Math.round((timeOfDayCounts.evening / totalHabits) * 100);
+const nightPercent = Math.round((timeOfDayCounts.night / totalHabits) * 100);
+const anytimePercent = 100 - (morningPercent + afternoonPercent + eveningPercent + nightPercent); // 5대 시간대 총합 100% 보정 완료
+
+// 클라이언트 사이드 스크립트 전달용 번역 상수
+const runtimeTranslations = {
+  routineSuffix: t('buildsnap.routine.suffix'),
+  calendarSuffix: t('buildsnap.calendar.suffix'),
+  step1: t('buildsnap.milestone.step1'),
+  step2: t('buildsnap.milestone.step2'),
+  step3: t('buildsnap.milestone.step3'),
+  canvasStep1: t('buildsnap.milestone.canvas.step1'),
+  canvasStep2: t('buildsnap.milestone.canvas.step2'),
+  canvasStep3: t('buildsnap.milestone.canvas.step3'),
+  canvasBranding: 'Designed by SelaLink Studio',
+  timeMorning: t('buildsnap.time.morning'),
+  timeAfternoon: t('buildsnap.time.afternoon'),
+  timeEvening: t('buildsnap.time.evening'),
+  timeNight: t('buildsnap.time.night'),
+  timeAnytime: t('buildsnap.time.anytime')
+};
+---
+
+<Layout 
+  title={t('buildsnap.title')} 
+  lang={currentLang}
+  description={t('buildsnap.subtitle')}
+  canonicalUrl={`https://selalink.net/${currentLang}/apps/buildsnap/`}
+  ogType="software"
+  image="/assets/images/og/buildself.png"
+  appId="buildsnap"
+>
+  <!-- CSS Animations for premium charts -->
+  <style is:global>
+    @keyframes waveMove {
+      0% { transform: translateX(0) translateZ(0) scaleY(1); }
+      50% { transform: translateX(-25%) translateZ(0) scaleY(1.05); }
+      100% { transform: translateX(-50%) translateZ(0) scaleY(1); }
+    }
+    .animate-wave {
+      animation: waveMove 4s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
+    }
+    @keyframes rotateSpin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    .animate-spin-glow {
+      animation: rotateSpin 20s linear infinite;
+    }
+  </style>
+
+  <main class="max-w-[1250px] mx-auto px-4 pt-24 pb-8 md:pt-28 md:pb-16 relative">
+    <AppBackgroundBlurs appId="buildsnap" />
+
+    <!-- Header / Go Back Button -->
+    <div class="relative z-10">
+      <BackToStudioButton lang={currentLang} theme="indigo" class="mb-8" />
+    </div>
+
+    <!-- Title Header -->
+    <div class="text-center mb-10 md:mb-16 relative z-10 select-none">
+      <h1 class="text-3xl sm:text-5xl md:text-6xl font-black tracking-tight mb-3 bg-gradient-to-r from-violet-500 to-indigo-500 dark:from-violet-400 dark:to-indigo-400 bg-clip-text text-transparent">
+        {t('buildsnap.title')}
+      </h1>
+      <p class="text-sm sm:text-base md:text-lg text-slate-800 dark:text-slate-350 max-w-3xl mx-auto leading-relaxed">
+        {t('buildsnap.subtitle')}
+      </p>
+    </div>
+
+    <!-- 1. Stats Dashboard Section (Premium UI with High Contrast & Perfect Consistency) -->
+    <section class="app-card-neon p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl bg-slate-50/50 dark:bg-slate-900/10" style="--theme-color-light: rgba(139, 92, 246, 0.15); --theme-color-brand: #8B5CF6; --theme-color-glow: rgba(139, 92, 246, 0.15);">
+      <div class="mb-6 md:mb-8 text-center md:text-left">
+        <h2 class="text-2xl font-black text-slate-855 dark:text-slate-100 flex items-center justify-center md:justify-start gap-2">
+          <span>{t('buildsnap.stats.title')}</span>
+        </h2>
+        <p class="text-xs sm:text-sm text-slate-700 dark:text-slate-400 mt-1 font-bold">
+          {t('buildsnap.stats.desc')}
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <!-- Chart A: timeOfDay Distribution (Radial Time Dial with High Contrast) -->
+        <div class="bg-white/90 dark:bg-slate-950/50 border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none relative group transition-all duration-300 hover:border-violet-500/40 shadow-sm">
+          <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
+            🕒 {t('buildsnap.stats.time')}
+          </h3>
+          <div class="flex flex-col items-center justify-center flex-1 py-3">
+            <div class="relative w-40 h-40">
+              <svg viewBox="0 0 200 200" class="w-full h-full transform -rotate-90">
+                <!-- Clock background circle -->
+                <circle cx="100" cy="100" r="80" class="stroke-slate-200 dark:stroke-slate-855 fill-none" stroke-width="12" />
+                
+                <!-- Anytime outline glow circle -->
+                <circle cx="100" cy="100" r="90" class="stroke-indigo-500/20 fill-none" stroke-width="2" stroke-dasharray="6 4" />
+
+                <!-- 1. Morning Arc -->
+                <circle cx="100" cy="100" r="80" 
+                  class="stroke-violet-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-violet-400" 
+                  stroke-width="14" 
+                  stroke-dasharray="502.6" 
+                  stroke-dashoffset={502.6 * (1 - (morningPercent / 100))} 
+                  transform="rotate(0, 100, 100)"
+                  id="arcMorning"
+                />
+
+                <!-- 2. Afternoon Arc -->
+                <circle cx="100" cy="100" r="80" 
+                  class="stroke-amber-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-amber-400" 
+                  stroke-width="14" 
+                  stroke-dasharray="502.6" 
+                  stroke-dashoffset={502.6 * (1 - (afternoonPercent / 100))} 
+                  transform={`rotate(${360 * (morningPercent / 100)}, 100, 100)`}
+                  id="arcAfternoon"
+                />
+
+                <!-- 3. Evening Arc -->
+                <circle cx="100" cy="100" r="80" 
+                  class="stroke-pink-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-pink-400" 
+                  stroke-width="14" 
+                  stroke-dasharray="502.6" 
+                  stroke-dashoffset={502.6 * (1 - (eveningPercent / 100))} 
+                  transform={`rotate(${360 * ((morningPercent + afternoonPercent) / 100)}, 100, 100)`}
+                  id="arcEvening"
+                />
+
+                <!-- 4. Night Arc -->
+                <circle cx="100" cy="100" r="80" 
+                  class="stroke-blue-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-blue-400" 
+                  stroke-width="14" 
+                  stroke-dasharray="502.6" 
+                  stroke-dashoffset={502.6 * (1 - (nightPercent / 100))} 
+                  transform={`rotate(${360 * ((morningPercent + afternoonPercent + eveningPercent) / 100)}, 100, 100)`}
+                  id="arcNight"
+                />
+
+                <!-- 5. Anytime Arc (Completes the 100% MECE circle) -->
+                <circle cx="100" cy="100" r="80" 
+                  class="stroke-indigo-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-indigo-400" 
+                  stroke-width="14" 
+                  stroke-dasharray="502.6" 
+                  stroke-dashoffset={502.6 * (1 - (anytimePercent / 100))} 
+                  transform={`rotate(${360 * ((morningPercent + afternoonPercent + eveningPercent + nightPercent) / 100)}, 100, 100)`}
+                  opacity="0.45"
+                  id="arcAnytime"
+                />
+              </svg>
+              <!-- Info text inside clock -->
+              <div class="absolute inset-0 flex flex-col items-center justify-center text-center pointer-events-none">
+                <span class="text-[11px] font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest" id="radialLabel">Total</span>
+                <span class="text-xl font-black text-slate-855 dark:text-white mt-0.5" id="radialValue">{totalHabits}</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Restructured Grid Card Tabs with Unified Wrapper & SVG Icons (Lucide Specification, Open Layout) -->
+          <div class="flex gap-1.5 mt-3 border-t border-slate-200/50 dark:border-slate-800/80 pt-2.5 overflow-x-auto no-scrollbar whitespace-nowrap pb-1 sm:grid sm:grid-cols-5 sm:gap-2 sm:overflow-visible sm:whitespace-normal sm:pb-0">
+            <!-- Morning Card -->
+            <div id="btnMorning" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-violet-200 dark:border-violet-900/40 bg-violet-50/30 dark:bg-violet-950/10 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-violet-500 text-violet-600 dark:text-violet-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.time.morning')}>
+              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.time.morning')}</span>
+              <span class="text-[8px] sm:text-[9px] opacity-75 font-bold mt-0.5">{morningPercent}%</span>
+            </div>
+            <!-- Afternoon Card -->
+            <div id="btnAfternoon" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-amber-200 dark:border-amber-900/40 bg-amber-50/30 dark:bg-amber-950/10 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-amber-500 text-amber-600 dark:text-amber-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.time.afternoon')}>
+              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.time.afternoon')}</span>
+              <span class="text-[8px] sm:text-[9px] opacity-75 font-bold mt-0.5">{afternoonPercent}%</span>
+            </div>
+            <!-- Evening Card -->
+            <div id="btnEvening" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-pink-200 dark:border-pink-900/40 bg-pink-50/30 dark:bg-pink-950/10 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-pink-500 text-pink-600 dark:text-pink-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.time.evening')}>
+              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.time.evening')}</span>
+              <span class="text-[8px] sm:text-[9px] opacity-75 font-bold mt-0.5">{eveningPercent}%</span>
+            </div>
+            <!-- Night Card -->
+            <div id="btnNight" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-blue-200 dark:border-blue-900/40 bg-blue-50/30 dark:bg-blue-950/10 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-blue-500 text-blue-600 dark:text-blue-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.time.night')}>
+              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.time.night')}</span>
+              <span class="text-[8px] sm:text-[9px] opacity-75 font-bold mt-0.5">{nightPercent}%</span>
+            </div>
+            <!-- Anytime Card -->
+            <div id="btnAnytime" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-indigo-200 dark:border-indigo-900/40 bg-indigo-50/30 dark:bg-indigo-950/10 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-indigo-600 dark:text-indigo-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.time.anytime')}>
+              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.time.anytime')}</span>
+              <span class="text-[8px] sm:text-[9px] opacity-75 font-bold mt-0.5">{anytimePercent}%</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Chart B: Category Share (Layered Horizontal Bar Chart with Unified Legends) -->
+        <div class="bg-white/90 dark:bg-slate-950/50 border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-violet-500/40 shadow-sm">
+          <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
+            🧬 {t('buildsnap.stats.category')}
+          </h3>
+          <div class="space-y-4 my-auto py-2 w-full">
+            <!-- Focus -->
+            <div id="legendFocus" class="group cursor-pointer p-2.5 rounded-xl border border-slate-100 dark:border-slate-900 bg-slate-50/50 dark:bg-slate-900/30 hover:border-violet-500/50 hover:translate-y-[-1px] transition-all duration-300">
+              <div class="flex justify-between items-center text-xs font-bold text-slate-800 dark:text-slate-200 mb-1.5">
+                <div class="flex items-center gap-2">
+                  <span class="w-2.5 h-2.5 rounded-full bg-violet-500 shrink-0"></span>
+                  <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.a')}</span>
+                </div>
+                <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{focusPercent}%</span>
+              </div>
+              <div class="w-full h-3 bg-slate-200 dark:bg-slate-850 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
+                <div id="barFocus" class="h-full bg-violet-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-violet-500/25" style={`width: ${focusPercent}%`}></div>
+              </div>
+            </div>
+            <!-- Creative -->
+            <div id="legendCreative" class="group cursor-pointer p-2.5 rounded-xl border border-slate-100 dark:border-slate-900 bg-slate-50/50 dark:bg-slate-900/30 hover:border-fuchsia-500/50 hover:translate-y-[-1px] transition-all duration-300">
+              <div class="flex justify-between items-center text-xs font-bold text-slate-800 dark:text-slate-200 mb-1.5">
+                <div class="flex items-center gap-2">
+                  <span class="w-2.5 h-2.5 rounded-full bg-fuchsia-500 shrink-0"></span>
+                  <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.b')}</span>
+                </div>
+                <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{creativePercent}%</span>
+              </div>
+              <div class="w-full h-3 bg-slate-200 dark:bg-slate-850 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
+                <div id="barCreative" class="h-full bg-fuchsia-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-fuchsia-500/25" style={`width: ${creativePercent}%`}></div>
+              </div>
+            </div>
+            <!-- Simplicity -->
+            <div id="legendSimplicity" class="group cursor-pointer p-2.5 rounded-xl border border-slate-100 dark:border-slate-900 bg-slate-50/50 dark:bg-slate-900/30 hover:border-indigo-500/50 hover:translate-y-[-1px] transition-all duration-300">
+              <div class="flex justify-between items-center text-xs font-bold text-slate-800 dark:text-slate-200 mb-1.5">
+                <div class="flex items-center gap-2">
+                  <span class="w-2.5 h-2.5 rounded-full bg-indigo-500 shrink-0"></span>
+                  <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.c')}</span>
+                </div>
+                <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{simplicityPercent}%</span>
+              </div>
+              <div class="w-full h-3 bg-slate-200 dark:bg-slate-850 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
+                <div id="barSimplicity" class="h-full bg-indigo-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-indigo-500/25" style={`width: ${simplicityPercent}%`}></div>
+              </div>
+            </div>
+            <!-- Mind -->
+            <div id="legendMind" class="group cursor-pointer p-2.5 rounded-xl border border-slate-100 dark:border-slate-900 bg-slate-50/50 dark:bg-slate-900/30 hover:border-teal-500/50 hover:translate-y-[-1px] transition-all duration-300">
+              <div class="flex justify-between items-center text-xs font-bold text-slate-800 dark:text-slate-200 mb-1.5">
+                <div class="flex items-center gap-2">
+                  <span class="w-2.5 h-2.5 rounded-full bg-teal-500 shrink-0"></span>
+                  <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.d')}</span>
+                </div>
+                <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{mindPercent}%</span>
+              </div>
+              <div class="w-full h-3 bg-slate-200 dark:bg-slate-850 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
+                <div id="barMind" class="h-full bg-teal-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-teal-500/25" style={`width: ${mindPercent}%`}></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Chart C: Difficulty Barrier (Liquid Wave Balance Gauge) -->
+        <div class="bg-white/90 dark:bg-slate-950/50 border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-violet-500/40 shadow-sm">
+          <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
+            🛡️ {t('buildsnap.stats.difficulty')}
+          </h3>
+          <div class="space-y-6 my-auto py-3">
+            <!-- Liquid wave bar container -->
+            <div class="relative w-full h-12 bg-slate-200 dark:bg-slate-850 rounded-2xl overflow-hidden border border-slate-300/60 dark:border-slate-850 flex">
+              <!-- Easy Liquid Wave (Emerald Gradient) -->
+              <div class="h-full bg-gradient-to-r from-emerald-500 to-teal-400 relative overflow-hidden transition-all duration-1000 ease-out" style={`width: ${easyPercent}%`}>
+                <svg class="absolute top-0 right-[-15px] h-full w-[40px] fill-teal-400/85 opacity-90 overflow-visible animate-wave" viewBox="0 0 100 100" preserveAspectRatio="none">
+                  <path d="M0,0 Q25,20 0,40 T0,80 T0,100 L100,100 L100,0 Z" />
+                </svg>
+              </div>
+              <!-- Hard Liquid Wave (Violet Gradient) -->
+              <div class="h-full bg-gradient-to-r from-violet-600 to-indigo-500 flex-1 relative overflow-hidden transition-all duration-1000 ease-out">
+                <svg class="absolute top-0 left-[-15px] h-full w-[40px] fill-violet-600/85 opacity-90 overflow-visible animate-wave" viewBox="0 0 100 100" preserveAspectRatio="none" style="transform: rotate(180deg);">
+                  <path d="M0,0 Q25,20 0,40 T0,80 T0,100 L100,100 L100,0 Z" />
+                </svg>
+              </div>
+            </div>
+
+            <div class="space-y-3.5 border-t border-slate-200 dark:border-slate-800/80 pt-2.5">
+              <div class="flex items-center gap-3 justify-between">
+                <div class="flex items-center gap-2">
+                  <div class="w-4 h-4 bg-emerald-500 rounded-md shrink-0 shadow-sm shadow-emerald-500/30"></div>
+                  <span class="text-xs sm:text-sm text-slate-850 dark:text-slate-200 font-extrabold">{t('buildsnap.stats.difficulty.easy')}</span>
+                </div>
+                <span class="text-xs sm:text-sm text-slate-800 dark:text-slate-300 font-black">{easyCount} ({easyPercent}%)</span>
+              </div>
+              <div class="flex items-center gap-3 justify-between">
+                <div class="flex items-center gap-2">
+                  <div class="w-4 h-4 bg-violet-600 rounded-md shrink-0 shadow-sm shadow-violet-500/30"></div>
+                  <span class="text-xs sm:text-sm text-slate-855 dark:text-slate-200 font-extrabold">{t('buildsnap.stats.difficulty.hard')}</span>
+                </div>
+                <span class="text-xs sm:text-sm text-slate-800 dark:text-slate-300 font-black">{hardCount} ({hardPercent}%)</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Chart D: Era distribution (Chronological Area Wave Chart with Tooltips & Unified Cards) -->
+        <div class="bg-white/90 dark:bg-slate-950/50 border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none relative transition-all duration-300 hover:border-violet-500/40 shadow-sm">
+          <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-2">
+            🏛️ {t('buildsnap.stats.era')}
+          </h3>
+          <!-- Wave timeline SVG representation -->
+          <div class="relative w-full h-36 flex items-end">
+            <!-- Tooltip container -->
+            <div id="eraTooltip" class="absolute top-1 left-1/2 -translate-x-1/2 bg-slate-950/95 border border-indigo-500/30 text-white rounded-lg p-2.5 text-[9px] font-bold z-20 pointer-events-none opacity-0 transition-opacity duration-300 max-w-[95%] shadow-2xl leading-relaxed text-center">
+              <span id="eraTooltipTitle" class="text-indigo-400 block mb-1">Era Name</span>
+              <span id="eraTooltipMentors" class="hidden text-slate-350 font-normal">Mentors list...</span>
+            </div>
+
+            <!-- Path Canvas -->
+            <svg viewBox="0 0 400 120" class="w-full h-full overflow-visible z-10" id="waveTimelineSvg">
+              <!-- Gradient fill for area under wave -->
+              <defs>
+                <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+                  <addColorStop offset="0%" stop-color="#6366F1" stop-opacity="0.4" id="areaGradStart" />
+                  <addColorStop offset="100%" stop-color="#6366F1" stop-opacity="0.0" />
+                </linearGradient>
+              </defs>
+
+              <!-- Filled curve -->
+              <path d="M 0,110 L 0,85 C 50,85 50,100 100,100 C 150,100 150,92 200,92 C 250,92 250,20 300,20 C 350,20 350,75 400,75 L 400,110 Z" fill="url(#areaGrad)" id="waveAreaPath" class="transition-all duration-350" />
+              <path d="M 0,85 C 50,85 50,100 100,100 C 150,100 150,92 200,92 C 250,92 250,20 300,20 C 350,20 350,75 400,75" fill="none" stroke="#8b5cf6" stroke-width="3" id="waveCurveLine" class="transition-all duration-350" />
+
+              <!-- Interactive Dot nodes on wave peak coordinates -->
+              <circle cx="10" cy="85" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-violet-400 transition-all duration-300" id="dotAncient" />
+              <circle cx="105" cy="100" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-violet-400 transition-all duration-300" id="dotRenaissance" />
+              <circle cx="200" cy="92" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-violet-400 transition-all duration-300" id="dotEarlyModern" />
+              <circle cx="295" cy="20" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-violet-400 transition-all duration-300" id="dotModern" />
+              <circle cx="390" cy="75" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-violet-400 transition-all duration-300" id="dotContemporary" />
+            </svg>
+          </div>
+
+          <!-- Chronological Unified Tab Cards with SVG Icons (Lucide Specification) & Labels -->
+          <div class="flex gap-1.5 mt-3 border-t border-slate-200 dark:border-slate-800/80 pt-2.5 overflow-x-auto no-scrollbar whitespace-nowrap pb-1 sm:grid sm:grid-cols-5 sm:gap-2 sm:overflow-visible sm:whitespace-normal sm:pb-0">
+            <!-- Ancient -->
+            <div id="lblAncient" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.era.ancient')}>
+              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.era.ancient')}</span>
+              <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.ancient}</span>
+            </div>
+            <!-- Renaissance -->
+            <div id="lblRenaissance" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.era.renaissance')}>
+              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.era.renaissance')}</span>
+              <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.renaissance}</span>
+            </div>
+            <!-- Early Modern -->
+            <div id="lblEarlyModern" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.era.earlyModern')}>
+              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.era.earlyModern')}</span>
+              <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.earlyModern}</span>
+            </div>
+            <!-- Modern -->
+            <div id="lblModern" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.era.modern')}>
+              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.era.modern')}</span>
+              <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.modern}</span>
+            </div>
+            <!-- Contemporary -->
+            <div id="lblContemporary" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.era.contemporary')}>
+              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.era.contemporary')}</span>
+              <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.contemporary}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. Matcher Section -->
+    <section class="app-card-neon p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl" style="--theme-color-light: rgba(99, 102, 241, 0.15); --theme-color-brand: #6366F1; --theme-color-glow: rgba(99, 102, 241, 0.15);">
+      <div class="mb-8 text-center md:text-left select-none">
+        <h2 class="text-xl sm:text-2xl font-bold text-slate-800 dark:text-slate-100">
+          {t('buildsnap.matcher.title')}
+        </h2>
+        <p class="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
+          {t('buildsnap.matcher.desc')}
+        </p>
+      </div>
+
+      <!-- Matcher Interactive Question Form -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+        <!-- Q1 -->
+        <div class="bg-slate-50 dark:bg-slate-900/50 p-5 rounded-2xl border border-slate-200/60 dark:border-slate-800/40">
+          <h3 class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 mb-4">
+            {t('buildsnap.matcher.q1')}
+          </h3>
+          <div class="space-y-2.5" id="groupQ1">
+            {[
+              { val: 'focus', text: t('buildsnap.matcher.q1.a') },
+              { val: 'creative', text: t('buildsnap.matcher.q1.b') },
+              { val: 'simplicity', text: t('buildsnap.matcher.q1.c') },
+              { val: 'mind', text: t('buildsnap.matcher.q1.d') }
+            ].map((ans, idx) => (
+              <label class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 hover:border-indigo-500 dark:hover:border-indigo-500 cursor-pointer select-none transition-all duration-300">
+                <input type="radio" name="q1" value={ans.val} checked={idx === 0} class="accent-indigo-600 w-4 h-4" />
+                <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 leading-tight">{ans.text}</span>
+              </label>
+            ))}
+          </div>
+        </div>
+
+        <!-- Q2 -->
+        <div class="bg-slate-50 dark:bg-slate-900/50 p-5 rounded-2xl border border-slate-200/60 dark:border-slate-800/40">
+          <h3 class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 mb-4">
+            {t('buildsnap.matcher.q2')}
+          </h3>
+          <div class="space-y-2.5" id="groupQ2">
+            {[
+              { val: 'physical', text: t('buildsnap.matcher.q2.a') },
+              { val: 'mental', text: t('buildsnap.matcher.q2.b') }
+            ].map((ans, idx) => (
+              <label class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 hover:border-indigo-500 dark:hover:border-indigo-500 cursor-pointer select-none transition-all duration-300">
+                <input type="radio" name="q2" value={ans.val} checked={idx === 0} class="accent-indigo-600 w-4 h-4" />
+                <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 leading-tight">{ans.text}</span>
+              </label>
+            ))}
+          </div>
+        </div>
+
+        <!-- Q3 -->
+        <div class="bg-slate-50 dark:bg-slate-900/50 p-5 rounded-2xl border border-slate-200/60 dark:border-slate-800/40">
+          <h3 class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 mb-4">
+            {t('buildsnap.matcher.q3')}
+          </h3>
+          <div class="space-y-2.5" id="groupQ3">
+            {[
+              { val: 'easy', text: t('buildsnap.matcher.q3.a') },
+              { val: 'hard', text: t('buildsnap.matcher.q3.b') }
+            ].map((ans, idx) => (
+              <label class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 hover:border-indigo-500 dark:hover:border-indigo-500 cursor-pointer select-none transition-all duration-300">
+                <input type="radio" name="q3" value={ans.val} checked={idx === 0} class="accent-indigo-600 w-4 h-4" />
+                <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 leading-tight">{ans.text}</span>
+              </label>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <!-- Action Button -->
+      <div class="flex justify-center">
+        <button 
+          type="button" 
+          id="btnDiagnose" 
+          class="px-8 py-3.5 bg-gradient-to-r from-violet-600 to-indigo-600 dark:from-violet-500 dark:to-indigo-500 hover:from-violet-700 hover:to-indigo-700 text-white rounded-2xl text-base font-bold shadow-lg shadow-indigo-500/20 active:scale-95 transition-all select-none cursor-pointer"
+        >
+          {t('buildsnap.matcher.btn.match')}
+        </button>
+      </div>
+
+      <!-- Matcher Result Card View (Minimal Summary & Rich Illustration) -->
+      <div id="resultContainer" class="hidden mt-10 p-6 md:p-8 rounded-3xl bg-white dark:bg-slate-950 border border-indigo-500/30 shadow-2xl relative overflow-hidden transition-all duration-500">
+        <!-- Neon Glow Aura background inside result card -->
+        <div class="absolute -right-20 -bottom-20 w-64 h-64 bg-indigo-500/10 dark:bg-indigo-500/15 rounded-full blur-[60px] pointer-events-none z-0"></div>
+
+        <div class="relative z-10 flex flex-col items-center text-center">
+          <span class="text-xs font-extrabold uppercase tracking-widest text-indigo-500 mb-4 block">{t('buildsnap.result.title')}</span>
+          
+          <!-- Hero Illustration Image (The main visual focus) -->
+          <div class="w-full rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-850 shadow-lg bg-slate-900 mb-6 relative aspect-video max-h-[380px] w-full max-w-[640px]">
+            <img id="resultHeroImage" src="" class="w-full h-full object-cover opacity-90 transition-opacity duration-350" alt="Mentor Habit Illustration" />
+          </div>
+
+          <!-- Description Section -->
+          <div class="max-w-2xl px-2">
+            <h3 class="text-lg sm:text-xl font-bold text-slate-800 dark:text-slate-100 leading-relaxed">
+              {t('buildsnap.result.desc')}
+            </h3>
+          </div>
+
+          <!-- Result Footer Action (Blog Deep Link only) -->
+          <div class="w-full flex items-center justify-center pt-6 mt-4 border-t border-slate-100 dark:border-slate-900">
+            <a 
+              href="#" 
+              id="btnReadStory" 
+              target="_blank" 
+              class="w-full md:w-auto px-8 py-3.5 bg-indigo-600 hover:bg-indigo-700 text-white rounded-2xl text-sm font-black shadow-lg shadow-indigo-500/10 active:scale-95 transition-all text-center select-none cursor-pointer"
+            >
+              📖 {t('buildsnap.result.button')}
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Matcher Empty State (When no match is found) -->
+      <div id="matcherEmptyState" class="hidden text-center py-10 mt-10 rounded-2xl bg-slate-100/50 dark:bg-slate-900/20 border border-slate-250/50 dark:border-slate-850">
+        <span class="text-3xl block mb-2">🤔</span>
+        <p class="text-xs sm:text-sm font-bold text-slate-500 dark:text-slate-400">{t('buildsnap.matcher.result.none')}</p>
+      </div>
+    </section>
+
+
+    <!-- 4. Smart Nudge Banner Section -->
+    <section class="mt-12 md:mt-16 max-w-4xl mx-auto rounded-[2rem] border border-indigo-500/15 bg-indigo-500/5 dark:border-indigo-500/25 dark:bg-indigo-900/10 p-6 md:p-8 flex flex-col md:flex-row items-center gap-6 relative z-10 overflow-hidden">
+      <!-- Ambient light effect -->
+      <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-indigo-500/10 rounded-full blur-3xl pointer-events-none"></div>
+
+      <img 
+        src="/images/buildself/icon.png" 
+        alt="BuildSelf Mobile App" 
+        class="w-16 h-16 sm:w-20 sm:h-20 object-contain rounded-2xl shadow-md border border-indigo-500/10 relative z-10 shrink-0" 
+      />
+      <div class="flex-1 text-center md:text-left relative z-10 space-y-2 select-none">
+        <h3 class="text-lg sm:text-xl font-bold text-slate-800 dark:text-slate-100">{t('buildsnap.nudge.title')}</h3>
+        <p class="text-xs sm:text-sm text-slate-650 dark:text-slate-400 font-medium leading-relaxed max-w-xl">
+          {t('buildsnap.nudge.desc')}
+        </p>
+      </div>
+      <a 
+        href={`/${currentLang}/apps/buildself/`} 
+        class="px-6 py-3 bg-slate-900 text-white dark:bg-white dark:text-slate-900 hover:bg-indigo-600 dark:hover:bg-indigo-500 hover:text-white dark:hover:text-white rounded-xl text-xs sm:text-sm font-extrabold shadow-md active:scale-95 transition-all relative z-10 text-center shrink-0 w-full md:w-auto"
+      >
+        {t('buildsnap.nudge.download')}
+      </a>
+    </section>
+  </main>
+
+  <!-- Client-side logic for diagnostics & canvas generator -->
+  <script is:inline define:vars={{ habits, currentLang, runtimeTranslations, eraMentors, timeOfDayCounts, totalHabits, focusPercent, creativePercent, simplicityPercent, mindPercent }}>
+    document.addEventListener('DOMContentLoaded', () => {
+      const btnDiagnose = document.getElementById('btnDiagnose');
+      const resultContainer = document.getElementById('resultContainer');
+      const matcherEmptyState = document.getElementById('matcherEmptyState');
+
+      // Result DOM nodes
+      const resultName = document.getElementById('resultName');
+      const resultHabitName = document.getElementById('resultHabitName');
+      const resultTags = document.getElementById('resultTags');
+      const resultLocation = document.getElementById('resultLocation');
+      const resultEra = document.getElementById('resultEra');
+      const resultLifespan = document.getElementById('resultLifespan');
+      const resultTime = document.getElementById('resultTime');
+      const resultHeroImage = document.getElementById('resultHeroImage');
+      const resultQuote = document.getElementById('resultQuote');
+      const btnReadStory = document.getElementById('btnReadStory');
+
+      let currentMatchedHabit = null;
+
+      // ----------------------------------------------------
+      // 1. Dashboard Interactive Chart Events (Visual Highlights Coupling)
+      // ----------------------------------------------------
+      // A. Radial Time Clock hover actions & coupling
+      const radialLabel = document.getElementById('radialLabel');
+      const radialValue = document.getElementById('radialValue');
+      
+      const arcMorning = document.getElementById('arcMorning');
+      const arcAfternoon = document.getElementById('arcAfternoon');
+      const arcEvening = document.getElementById('arcEvening');
+      const arcNight = document.getElementById('arcNight');
+      const arcAnytime = document.getElementById('arcAnytime');
+      const allArcs = [arcMorning, arcAfternoon, arcEvening, arcNight, arcAnytime];
+
+      const setRadialInfo = (label, val, percent, activeArc) => {
+        radialLabel.textContent = label;
+        radialValue.textContent = `${val} (${percent}%)`;
+        
+        // Highlight active arc and dim others
+        allArcs.forEach(arc => {
+          if (arc) {
+            if (arc === activeArc) {
+              arc.setAttribute('stroke-width', '22');
+              arc.setAttribute('opacity', '1');
+            } else {
+              arc.setAttribute('stroke-width', '10');
+              if (arc === arcAnytime) {
+                arc.setAttribute('opacity', '0.15'); // Anytime은 비활성 시 더 흐리게 축소
+              } else {
+                arc.setAttribute('opacity', '0.25');
+              }
+            }
+          }
+        });
+      };
+
+      const resetRadialInfo = () => {
+        radialLabel.textContent = 'Total';
+        radialValue.textContent = totalHabits;
+        
+        // Restore all arcs to default
+        allArcs.forEach(arc => {
+          if (arc) {
+            arc.setAttribute('stroke-width', '14');
+            if (arc === arcAnytime) {
+              arc.setAttribute('opacity', '0.45'); // Anytime은 평소에 보조적인 흐릿함 유지
+            } else {
+              arc.setAttribute('opacity', '1');
+            }
+          }
+        });
+      };
+
+      let activeTimeId = null;
+
+      const updateTimeHighlightState = () => {
+        resetRadialInfo();
+        const timeTabs = [
+          { id: 'btnMorning', activeBorder: 'border-violet-500', defaultBorder: 'border-violet-200 dark:border-violet-900/40', arc: arcMorning },
+          { id: 'btnAfternoon', activeBorder: 'border-amber-500', defaultBorder: 'border-amber-200 dark:border-amber-900/40', arc: arcAfternoon },
+          { id: 'btnEvening', activeBorder: 'border-pink-500', defaultBorder: 'border-pink-200 dark:border-pink-900/40', arc: arcEvening },
+          { id: 'btnNight', activeBorder: 'border-blue-500', defaultBorder: 'border-blue-200 dark:border-blue-900/40', arc: arcNight },
+          { id: 'btnAnytime', activeBorder: 'border-indigo-500', defaultBorder: 'border-indigo-200 dark:border-indigo-900/40', arc: arcAnytime }
+        ];
+
+        timeTabs.forEach(tab => {
+          const el = document.getElementById(tab.id);
+          if (el) {
+            el.classList.remove(tab.activeBorder, 'scale-[1.03]', 'shadow-md');
+            tab.defaultBorder.split(' ').forEach(cls => {
+              if (cls) el.classList.add(cls);
+            });
+          }
+        });
+
+        if (activeTimeId) {
+          const activeTab = timeTabs.find(t => t.id === activeTimeId);
+          if (activeTab) {
+            const el = document.getElementById(activeTab.id);
+            if (el) {
+              activeTab.defaultBorder.split(' ').forEach(cls => {
+                if (cls) el.classList.remove(cls);
+              });
+              el.classList.add(activeTab.activeBorder, 'scale-[1.03]', 'shadow-md');
+            }
+            
+            let countVal = 0;
+            let translationKey = '';
+            if (activeTimeId === 'btnMorning') { countVal = timeOfDayCounts.morning; translationKey = runtimeTranslations.timeMorning; }
+            else if (activeTimeId === 'btnAfternoon') { countVal = timeOfDayCounts.afternoon; translationKey = runtimeTranslations.timeAfternoon; }
+            else if (activeTimeId === 'btnEvening') { countVal = timeOfDayCounts.evening; translationKey = runtimeTranslations.timeEvening; }
+            else if (activeTimeId === 'btnNight') { countVal = timeOfDayCounts.night; translationKey = runtimeTranslations.timeNight; }
+            else if (activeTimeId === 'btnAnytime') { countVal = timeOfDayCounts.anytime; translationKey = runtimeTranslations.timeAnytime; }
+
+            const pct = Math.round((countVal / totalHabits) * 100);
+            setRadialInfo(translationKey, countVal, pct, activeTab.arc);
+          }
+        }
+      };
+
+      const bindTimeEvent = (elId, activeBorderClass, translationKey, countVal, activeArc, isBtn = false, defaultBorderClasses = '', targetBtnId = null) => {
+        const el = document.getElementById(elId);
+        if (el) {
+          const pct = Math.round((countVal / totalHabits) * 100);
+          
+          el.addEventListener('mouseenter', () => {
+            if (activeTimeId) return;
+            setRadialInfo(translationKey, countVal, pct, activeArc);
+            if (isBtn) {
+              defaultBorderClasses.split(' ').forEach(cls => {
+                if (cls) el.classList.remove(cls);
+              });
+              el.classList.add(activeBorderClass, 'scale-[1.03]', 'shadow-md');
+            }
+          });
+          
+          el.addEventListener('mouseleave', () => {
+            if (activeTimeId) return;
+            resetRadialInfo();
+            if (isBtn) {
+              el.classList.remove(activeBorderClass, 'scale-[1.03]', 'shadow-md');
+              defaultBorderClasses.split(' ').forEach(cls => {
+                if (cls) el.classList.add(cls);
+              });
+            }
+          });
+
+          el.addEventListener('click', () => {
+            const clickTargetId = isBtn ? elId : targetBtnId;
+            if (!clickTargetId) return;
+
+            if (activeTimeId === clickTargetId) {
+              activeTimeId = null; 
+            } else {
+              activeTimeId = clickTargetId; 
+            }
+            updateTimeHighlightState();
+          });
+        }
+      };
+
+      // Bidirectional connection: clock arcs & card buttons with unified hover colors
+      bindTimeEvent('arcMorning', 'border-violet-500', runtimeTranslations.timeMorning, timeOfDayCounts.morning, arcMorning, false, '', 'btnMorning');
+      bindTimeEvent('arcAfternoon', 'border-amber-500', runtimeTranslations.timeAfternoon, timeOfDayCounts.afternoon, arcAfternoon, false, '', 'btnAfternoon');
+      bindTimeEvent('arcEvening', 'border-pink-500', runtimeTranslations.timeEvening, timeOfDayCounts.evening, arcEvening, false, '', 'btnEvening');
+      bindTimeEvent('arcNight', 'border-blue-500', runtimeTranslations.timeNight, timeOfDayCounts.night, arcNight, false, '', 'btnNight');
+      bindTimeEvent('arcAnytime', 'border-indigo-500', runtimeTranslations.timeAnytime, timeOfDayCounts.anytime, arcAnytime, false, '', 'btnAnytime');
+
+      bindTimeEvent('btnMorning', 'border-violet-500', runtimeTranslations.timeMorning, timeOfDayCounts.morning, arcMorning, true, 'border-violet-200 dark:border-violet-900/40');
+      bindTimeEvent('btnAfternoon', 'border-amber-500', runtimeTranslations.timeAfternoon, timeOfDayCounts.afternoon, arcAfternoon, true, 'border-amber-200 dark:border-amber-900/40');
+      bindTimeEvent('btnEvening', 'border-pink-500', runtimeTranslations.timeEvening, timeOfDayCounts.evening, arcEvening, true, 'border-pink-200 dark:border-pink-900/40');
+      bindTimeEvent('btnNight', 'border-blue-500', runtimeTranslations.timeNight, timeOfDayCounts.night, arcNight, true, 'border-blue-200 dark:border-blue-900/40');
+      bindTimeEvent('btnAnytime', 'border-indigo-500', runtimeTranslations.timeAnytime, timeOfDayCounts.anytime, arcAnytime, true, 'border-indigo-200 dark:border-indigo-900/40');
+
+
+      // B. Horizontal Bar Graph Legend Hover Actions & Coupling
+      const setBarInfo = (activeBarId) => {
+        const bars = ['legendFocus', 'legendCreative', 'legendSimplicity', 'legendMind'];
+        bars.forEach(id => {
+          const el = document.getElementById(id);
+          if (el) {
+            if (el.id === activeBarId) {
+              el.classList.add('scale-[1.02]', 'shadow-md');
+              el.classList.add('border-violet-500/50', 'dark:border-violet-500/30');
+              el.classList.remove('border-slate-100', 'dark:border-slate-900');
+            } else {
+              el.classList.add('opacity-40');
+            }
+          }
+        });
+      };
+
+      const resetBarInfo = () => {
+        const bars = ['legendFocus', 'legendCreative', 'legendSimplicity', 'legendMind'];
+        bars.forEach(id => {
+          const el = document.getElementById(id);
+          if (el) {
+            el.classList.remove('scale-[1.02]', 'shadow-md', 'opacity-40');
+            el.classList.remove('border-violet-500/50', 'dark:border-violet-500/30');
+            el.classList.add('border-slate-100', 'dark:border-slate-900');
+          }
+        });
+      };
+
+      const bindBarEvent = (legendId) => {
+        const legend = document.getElementById(legendId);
+        if (legend) {
+          legend.addEventListener('mouseenter', () => setBarInfo(legendId));
+          legend.addEventListener('mouseleave', resetBarInfo);
+        }
+      };
+
+      bindBarEvent('legendFocus');
+      bindBarEvent('legendCreative');
+      bindBarEvent('legendSimplicity');
+      bindBarEvent('legendMind');
+
+
+      // C. Chronological Wave Timeline Tooltips & Coupling
+      const eraTooltip = document.getElementById('eraTooltip');
+      const eraTooltipTitle = document.getElementById('eraTooltipTitle');
+      const eraTooltipMentors = document.getElementById('eraTooltipMentors');
+      const waveTimelineSvg = document.getElementById('waveTimelineSvg');
+      const waveAreaPath = document.getElementById('waveAreaPath');
+      const waveCurveLine = document.getElementById('waveCurveLine');
+
+      let activeEraId = null;
+
+      const updateEraHighlightState = () => {
+        eraTooltip.style.opacity = '0';
+        const guide = document.getElementById('waveGuideline');
+        if (guide) guide.remove();
+        if (waveCurveLine) {
+          waveCurveLine.setAttribute('stroke', '#8b5cf6');
+          waveCurveLine.setAttribute('stroke-width', '3');
+        }
+        if (waveAreaPath) waveAreaPath.removeAttribute('fill-opacity');
+
+        const eraTabs = [
+          { id: 'lblAncient', dotId: 'dotAncient', x: '10', name: 'Ancient Era', mentors: eraMentors.ancient },
+          { id: 'lblRenaissance', dotId: 'dotRenaissance', x: '105', name: 'Renaissance', mentors: eraMentors.renaissance },
+          { id: 'lblEarlyModern', dotId: 'dotEarlyModern', x: '200', name: 'Early Modern', mentors: eraMentors.earlyModern },
+          { id: 'lblModern', dotId: 'dotModern', x: '295', name: 'Modern Era', mentors: eraMentors.modern },
+          { id: 'lblContemporary', dotId: 'dotContemporary', x: '390', name: 'Contemporary', mentors: eraMentors.contemporary }
+        ];
+
+        eraTabs.forEach(tab => {
+          const dot = document.getElementById(tab.dotId);
+          if (dot) {
+            dot.setAttribute('r', '5.5');
+            dot.classList.remove('fill-violet-400');
+          }
+          const lbl = document.getElementById(tab.id);
+          if (lbl) {
+            lbl.classList.remove('border-indigo-500', 'translate-y-[-2px]', 'text-indigo-600', 'dark:text-indigo-400');
+            lbl.classList.add('border-slate-250', 'dark:border-slate-800', 'text-slate-500', 'dark:text-slate-400');
+            const txtSpan = lbl.querySelector('.btn-text');
+            if (txtSpan) {
+              txtSpan.classList.remove('text-indigo-600', 'dark:text-indigo-400');
+            }
+          }
+        });
+
+        if (activeEraId) {
+          const activeTab = eraTabs.find(t => t.id === activeEraId || t.dotId === activeEraId);
+          if (activeTab) {
+            const dot = document.getElementById(activeTab.dotId);
+            if (dot) {
+              dot.setAttribute('r', '12');
+              dot.classList.add('fill-violet-400');
+            }
+            const lbl = document.getElementById(activeTab.id);
+            if (lbl) {
+              lbl.classList.add('border-indigo-500', 'translate-y-[-2px]', 'text-indigo-600', 'dark:text-indigo-400');
+              lbl.classList.remove('border-slate-250', 'dark:border-slate-800', 'text-slate-500', 'dark:text-slate-400');
+              const txtSpan = lbl.querySelector('.btn-text');
+              if (txtSpan) {
+                txtSpan.classList.add('text-indigo-600', 'dark:text-indigo-400');
+              }
+            }
+            if (waveCurveLine) {
+              waveCurveLine.setAttribute('stroke', '#a78bfa');
+              waveCurveLine.setAttribute('stroke-width', '5');
+            }
+            if (waveAreaPath) waveAreaPath.setAttribute('fill-opacity', '0.65');
+
+            let guide = document.getElementById('waveGuideline');
+            if (!guide) {
+              guide = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+              guide.setAttribute('id', 'waveGuideline');
+              guide.setAttribute('class', 'stroke-indigo-500/60 stroke-2');
+              guide.setAttribute('stroke-dasharray', '5 4');
+              waveTimelineSvg.appendChild(guide);
+            }
+            guide.setAttribute('x1', activeTab.x);
+            guide.setAttribute('y1', '10');
+            guide.setAttribute('x2', activeTab.x);
+            guide.setAttribute('y2', '110');
+
+            const activeLbl = document.getElementById(activeTab.id);
+            const activeTxtSpan = activeLbl ? activeLbl.querySelector('.btn-text') : null;
+            eraTooltipTitle.textContent = activeTxtSpan ? activeTxtSpan.textContent : activeTab.name;
+            eraTooltipMentors.textContent = '';
+            eraTooltip.style.opacity = '1';
+          }
+        }
+      };
+
+      const setEraHighlight = (dotId, lblId, eraName, mentorList, xCoord, yCoord) => {
+        const dot = document.getElementById(dotId);
+        if (dot) {
+          dot.setAttribute('r', '12');
+          dot.classList.add('fill-violet-400');
+        }
+
+        const lbl = document.getElementById(lblId);
+        if (lbl) {
+          lbl.classList.add('border-indigo-500', 'translate-y-[-2px]', 'text-indigo-600', 'dark:text-indigo-400');
+          lbl.classList.remove('border-slate-250', 'dark:border-slate-800', 'text-slate-500', 'dark:text-slate-400');
+          const txtSpan = lbl.querySelector('.btn-text');
+          if (txtSpan) {
+            txtSpan.classList.remove('text-slate-500', 'dark:text-slate-400');
+            txtSpan.classList.add('text-indigo-600', 'dark:text-indigo-400');
+          }
+        }
+
+        if (waveCurveLine) {
+          waveCurveLine.setAttribute('stroke', '#a78bfa');
+          waveCurveLine.setAttribute('stroke-width', '5');
+        }
+        if (waveAreaPath) {
+          waveAreaPath.setAttribute('fill-opacity', '0.65');
+        }
+
+        let guide = document.getElementById('waveGuideline');
+        if (!guide) {
+          guide = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+          guide.setAttribute('id', 'waveGuideline');
+          guide.setAttribute('class', 'stroke-indigo-500/60 stroke-2');
+          guide.setAttribute('stroke-dasharray', '5 4');
+          waveTimelineSvg.appendChild(guide);
+        }
+        guide.setAttribute('x1', xCoord);
+        guide.setAttribute('y1', '10');
+        guide.setAttribute('x2', xCoord);
+        guide.setAttribute('y2', '110');
+
+        const activeTxtSpan = lbl ? lbl.querySelector('.btn-text') : null;
+        eraTooltipTitle.textContent = activeTxtSpan ? activeTxtSpan.textContent : eraName;
+        eraTooltipMentors.textContent = '';
+        eraTooltip.style.opacity = '1';
+      };
+
+      const resetEraHighlight = (dotId, lblId) => {
+        const dot = document.getElementById(dotId);
+        if (dot) {
+          dot.setAttribute('r', '5.5');
+          dot.classList.remove('fill-violet-400');
+        }
+
+        const lbl = document.getElementById(lblId);
+        if (lbl) {
+          lbl.classList.remove('border-indigo-500', 'translate-y-[-2px]', 'text-indigo-600', 'dark:text-indigo-400');
+          lbl.classList.add('border-slate-250', 'dark:border-slate-800', 'text-slate-500', 'dark:text-slate-400');
+          const txtSpan = lbl.querySelector('.btn-text');
+          if (txtSpan) {
+            txtSpan.classList.remove('text-indigo-600', 'dark:text-indigo-400');
+          }
+        }
+
+        if (waveCurveLine) {
+          waveCurveLine.setAttribute('stroke', '#8b5cf6');
+          waveCurveLine.setAttribute('stroke-width', '3');
+        }
+        if (waveAreaPath) {
+          waveAreaPath.removeAttribute('fill-opacity');
+        }
+
+        const guide = document.getElementById('waveGuideline');
+        if (guide) {
+          guide.remove();
+        }
+
+        eraTooltip.style.opacity = '0';
+      };
+
+      const bindEraEvent = (dotId, lblId, eraName, mentorList, xCoord, yCoord) => {
+        const dot = document.getElementById(dotId);
+        const lbl = document.getElementById(lblId);
+
+        const enterHandler = () => {
+          if (activeEraId) return;
+          setEraHighlight(dotId, lblId, eraName, mentorList, xCoord, yCoord);
+        };
+        const leaveHandler = () => {
+          if (activeEraId) return;
+          resetEraHighlight(dotId, lblId);
+        };
+
+        if (dot) {
+          dot.addEventListener('mouseenter', enterHandler);
+          dot.addEventListener('mouseleave', leaveHandler);
+          dot.addEventListener('click', () => {
+            activeEraId = activeEraId === dotId ? null : dotId;
+            updateEraHighlightState();
+          });
+        }
+        if (lbl) {
+          lbl.addEventListener('mouseenter', enterHandler);
+          lbl.addEventListener('mouseleave', leaveHandler);
+          lbl.addEventListener('click', () => {
+            activeEraId = activeEraId === lblId ? null : lblId;
+            updateEraHighlightState();
+          });
+        }
+      };
+
+      // Coordinates mapping on timeline curve: Ancient(10, 85), Renaissance(105, 100), EarlyModern(200, 92), Modern(295, 20), Contemporary(390, 75)
+      bindEraEvent('dotAncient', 'lblAncient', 'Ancient Era', eraMentors.ancient, '10', '85');
+      bindEraEvent('dotRenaissance', 'lblRenaissance', 'Renaissance', eraMentors.renaissance, '105', '100');
+      bindEraEvent('dotEarlyModern', 'lblEarlyModern', 'Early Modern', eraMentors.earlyModern, '200', '92');
+      bindEraEvent('dotModern', 'lblModern', 'Modern Era', eraMentors.modern, '295', '20');
+      bindEraEvent('dotContemporary', 'lblContemporary', 'Contemporary', eraMentors.contemporary, '390', '75');
+
+
+      // ----------------------------------------------------
+      // 2. Habit Diagnoser & Matcher Logic
+      // ----------------------------------------------------
+      btnDiagnose.addEventListener('click', () => {
+        // Get values
+        const q1Element = document.querySelector('input[name="q1"]:checked');
+        const q2Element = document.querySelector('input[name="q2"]:checked');
+        const q3Element = document.querySelector('input[name="q3"]:checked');
+
+        if (!q1Element || !q2Element || !q3Element) return;
+
+        const q1Val = q1Element.value;
+        const q2Val = q2Element.value;
+        const q3Val = q3Element.value;
+
+        let matched = habits.filter(h => {
+          const tagsStr = h.tags.join(' ');
+
+          // Q1 Matching: 개선 목표
+          let matchQ1 = false;
+          if (q1Val === 'focus') matchQ1 = tagsStr.includes('집중') || tagsStr.includes('몰입') || tagsStr.includes('생산성');
+          if (q1Val === 'creative') matchQ1 = tagsStr.includes('창의') || tagsStr.includes('아이디어') || tagsStr.includes('글쓰기') || tagsStr.includes('기록') || tagsStr.includes('메모');
+          if (q1Val === 'simplicity') matchQ1 = tagsStr.includes('단순') || tagsStr.includes('의사결정');
+          if (q1Val === 'mind') matchQ1 = tagsStr.includes('휴식') || tagsStr.includes('사색') || tagsStr.includes('명상') || tagsStr.includes('수면') || tagsStr.includes('이완');
+
+          // Q2 Matching: 활동 유형
+          let matchQ2 = false;
+          const isPhysical = tagsStr.includes('신체') || tagsStr.includes('운동') || tagsStr.includes('산책') || tagsStr.includes('행동') || tagsStr.includes('수면') || tagsStr.includes('냉수') || tagsStr.includes('동작') || tagsStr.includes('노동') || tagsStr.includes('호흡');
+          if (q2Val === 'physical') matchQ2 = isPhysical;
+          if (q2Val === 'mental') matchQ2 = !isPhysical;
+
+          // Q3 Matching: 준비 장벽
+          let matchQ3 = false;
+          const itemsLen = h.requiredItems ? h.requiredItems.length : 0;
+          const isEasy = itemsLen <= 1 || h.tags.includes('#\uC26C\uC6C0');
+          if (q3Val === 'easy') matchQ3 = isEasy;
+          if (q3Val === 'hard') matchQ3 = !isEasy;
+
+          return matchQ1 && matchQ2 && matchQ3;
+        });
+
+        // Fallback Step 1: 3가지 조건 동시 만족 위인이 없을 시, 개선 목표(Q1)와 준비 장벽(Q3) 필터만 적용
+        if (matched.length === 0) {
+          matched = habits.filter(h => {
+            const tagsStr = h.tags.join(' ');
+            let matchQ1 = false;
+            if (q1Val === 'focus') matchQ1 = tagsStr.includes('집중') || tagsStr.includes('몰입') || tagsStr.includes('생산성');
+            if (q1Val === 'creative') matchQ1 = tagsStr.includes('창의') || tagsStr.includes('아이디어') || tagsStr.includes('글쓰기') || tagsStr.includes('기록') || tagsStr.includes('메모');
+            if (q1Val === 'simplicity') matchQ1 = tagsStr.includes('단순') || tagsStr.includes('의사결정');
+            if (q1Val === 'mind') matchQ1 = tagsStr.includes('휴식') || tagsStr.includes('사색') || tagsStr.includes('명상') || tagsStr.includes('수면') || tagsStr.includes('이완');
+
+            let matchQ3 = false;
+            const itemsLen = h.requiredItems ? h.requiredItems.length : 0;
+            const isEasy = itemsLen <= 1 || h.tags.includes('#\uC26C\uC6C0');
+            if (q3Val === 'easy') matchQ3 = isEasy;
+            if (q3Val === 'hard') matchQ3 = !isEasy;
+
+            return matchQ1 && matchQ3;
+          });
+        }
+
+        // Fallback Step 2: 1단계 실패 시 핵심 목표(Q1) 카테고리만 매칭되는 위인 탐색
+        if (matched.length === 0) {
+          matched = habits.filter(h => {
+            const tagsStr = h.tags.join(' ');
+            let matchQ1 = false;
+            if (q1Val === 'focus') matchQ1 = tagsStr.includes('집중') || tagsStr.includes('몰입') || tagsStr.includes('생산성');
+            if (q1Val === 'creative') matchQ1 = tagsStr.includes('창의') || tagsStr.includes('아이디어') || tagsStr.includes('글쓰기') || tagsStr.includes('기록') || tagsStr.includes('메모');
+            if (q1Val === 'simplicity') matchQ1 = tagsStr.includes('단순') || tagsStr.includes('의사결정');
+            if (q1Val === 'mind') matchQ1 = tagsStr.includes('휴식') || tagsStr.includes('사색') || tagsStr.includes('명상') || tagsStr.includes('수면') || tagsStr.includes('이완');
+            return matchQ1;
+          });
+        }
+
+        // Fallback Step 3: 최후 폴백 (전체 위인 무작위 추천)
+        if (matched.length === 0) {
+          matched = habits;
+        }
+
+        // 렌더링 로직 처리
+        if (matched.length > 0) {
+          const randomIndex = Math.floor(Math.random() * matched.length);
+          const item = matched[randomIndex];
+          currentMatchedHabit = item;
+
+          if (resultHeroImage) {
+            resultHeroImage.src = `/images/blog/${item.id.replace(/-/g, '_')}.png`;
+          }
+
+          // 블로그 상세 가이드 딥링크 바인딩
+          btnReadStory.href = `/${currentLang}/blog/${item.id}/`;
+
+          // UI 토글 처리
+          resultContainer.classList.remove('hidden');
+          matcherEmptyState.classList.add('hidden');
+        } else {
+          resultContainer.classList.add('hidden');
+          matcherEmptyState.classList.remove('hidden');
+          currentMatchedHabit = null;
+        }
+      });
+    });
+  </script>
+</Layout>

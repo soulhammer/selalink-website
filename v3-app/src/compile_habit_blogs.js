@@ -175,6 +175,58 @@ ${faqSection}`;
       fs.writeFileSync(targetPath, finalFileContent, 'utf-8');
       createdCount++;
     });
+
+    // --- BuildSnap 진단기 연동 자동화 파이프라인 ---
+    const snapItemPath = pathModule.join(__dirname, 'data/habits/items', `${blogSlug}.json`);
+    const imgName = `${blogSlug.replace(/-/g, '_')}.png`;
+    const imgCheckPath = pathModule.join(__dirname, '../public/images/blog', imgName);
+
+    // 1. 진단기용 위인 JSON 파일 미존재 시 자동 골격 생성
+    if (!fs.existsSync(snapItemPath)) {
+      const skeleton = {
+        id: blogSlug,
+        name: data.title['ko'] || '신규 위인',
+        gender: "male",
+        era: "현대",
+        location: "한국",
+        lifespan: "1900 - 1980",
+        birthYear: 1900,
+        bio: "여기에 위인의 한 줄 소개 바이오를 입력해 주세요.",
+        habitName: data.title['ko'] || "습관명",
+        tags: [
+          "#집중",
+          "#생산성",
+          "#보통"
+        ],
+        timeOfDay: "morning",
+        requiredItems: []
+      };
+      // habits 디렉토리가 존재하는지 재확인 후 쓰기
+      const habitsDirCheck = pathModule.join(__dirname, 'data/habits/items');
+      ensureDir(habitsDirCheck);
+      fs.writeFileSync(snapItemPath, JSON.stringify(skeleton, null, 2), 'utf-8');
+      console.log(`\x1b[32m[BuildSnap 연동] 신규 위인 진단기 데이터 골격 파일이 자동 생성되었습니다: ${blogSlug}.json\x1b[0m`);
+    } else {
+      // 2. 이미 존재하는 경우 매칭 유효성 검사 (Q1 필수 태그 존재 여부)
+      try {
+        const itemData = JSON.parse(fs.readFileSync(snapItemPath, 'utf-8'));
+        const tagsStr = (itemData.tags || []).join(' ');
+        const hasQ1Tag = tagsStr.includes('집중') || tagsStr.includes('몰입') || tagsStr.includes('생산성') ||
+                         tagsStr.includes('창의') || tagsStr.includes('아이디어') || tagsStr.includes('글쓰기') || tagsStr.includes('기록') || tagsStr.includes('메모') ||
+                         tagsStr.includes('단순') || tagsStr.includes('의사결정') ||
+                         tagsStr.includes('휴식') || tagsStr.includes('사색') || tagsStr.includes('명상') || tagsStr.includes('수면') || tagsStr.includes('이완');
+        if (!hasQ1Tag) {
+          console.warn(`\x1b[33m[경고] BuildSnap 진단기 매칭 누출 가능: '${blogSlug}.json'에 개선 목표(Q1)에 부합하는 필수 태그가 하나도 없습니다. 진단기에서 노출되지 않을 수 있습니다.\x1b[0m`);
+        }
+      } catch (err) {
+        console.error(`[오류] 진단기 데이터 파일 파싱 에러: ${snapItemPath}`, err);
+      }
+    }
+
+    // 3. 대표 이미지 파일 물리적 존재 여부 검사
+    if (!fs.existsSync(imgCheckPath)) {
+      console.warn(`\x1b[33m[경고] BuildSnap 이미지 누락: 대표 일러스트 이미지 '/images/blog/${imgName}' 파일이 public 폴더에 없습니다. 이미지를 추가하십시오.\x1b[0m`);
+    }
   });
 
   console.log(`[완료] 총 ${createdCount}개의 다국어 BuildSelf 습관 블로그 파일이 정상적으로 생성되었습니다!`);
