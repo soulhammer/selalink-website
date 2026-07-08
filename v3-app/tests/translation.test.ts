@@ -290,6 +290,13 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
           expect(hasKorean, `오류: 일본어 문서 ${fileName} 에 한국어(한글)가 포함되어 있습니다.`).toBe(false);
         }
 
+        if (lang === 'zh') {
+          const hasKorean = /[\uAC00-\uD7A3\u3130-\u318F]/g.test(sanitizedAll);
+          const hasJapanese = /[\u3040-\u309F\u30A0-\u30FF]/g.test(sanitizedAll);
+          expect(hasKorean, `오류: 중국어 문서 ${fileName} 에 한국어(한글)가 포함되어 있습니다.`).toBe(false);
+          expect(hasJapanese, `오류: 중국어 문서 ${fileName} 에 일본어(가나)가 포함되어 있습니다.`).toBe(false);
+        }
+
         // ----------------------------------------------------
         // 검증 2-E: 2단계 NLP 기반 문장/문단 단위 언어 감별
         // ----------------------------------------------------

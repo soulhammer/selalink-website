@@ -161,7 +161,7 @@ test.describe('블로그 메인 UI 동적 기능 통합 검증 (검색, 필터, 
     }).toPass();
   });
 
-  test.skip('9개 모든 언어별 블로그 페이지에서 해당 언어의 검색어 작동 검증', async ({ page }) => {
+  test('9개 모든 언어별 블로그 페이지에서 해당 언어의 검색어 작동 검증', async ({ page }) => {
     const searchSpecs = [
       { lang: 'ko', query: '사과' },
       { lang: 'en', query: 'Apple' },
