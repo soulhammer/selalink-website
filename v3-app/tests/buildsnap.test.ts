@@ -92,8 +92,8 @@ describe('BuildSnap 실제 위인 데이터 76종 매칭 정합성 검증', () =
       }
     }
 
-    // 전수 조사 결과 매칭 대상 목록에 모든 위인(76명)이 포함되어 있는지 확인
-    expect(realHabits.length).toBe(76);
+    // 전수 조사 결과 매칭 대상 목록에 모든 위인(96명)이 포함되어 있는지 확인
+    expect(realHabits.length).toBe(96);
     expect(matchedIds.size).toBe(realHabits.length);
   });
 
@@ -113,5 +113,30 @@ describe('BuildSnap 실제 위인 데이터 76종 매칭 정합성 검증', () =
         }
       }
     }
+  });
+});
+
+describe('BuildSnap 순차 순환 매칭 클라이언트 상태 검증', () => {
+  it('동일 조건으로 연속 호출될 때 순차적으로 인덱스가 증가하며 순환 반환되어야 한다', () => {
+    const q1 = 'focus';
+    const q2 = 'mental';
+    const q3 = 'hard';
+
+    // 1회차 호출: 조건이 처음이므로 matchHabit 결과 수집, 인덱스 0
+    const matchedPool = matchHabit(realHabits, q1, q2, q3);
+    expect(matchedPool.length).toBeGreaterThan(1); // 복수 매칭 확인
+
+    let currentIndex = 0;
+    const firstMentor = matchedPool[currentIndex];
+
+    // 2회차 호출: 동일 조건이므로 인덱스 1 증가
+    currentIndex = (currentIndex + 1) % matchedPool.length;
+    const secondMentor = matchedPool[currentIndex];
+    expect(secondMentor.id).not.toBe(firstMentor.id);
+
+    // 끝까지 도달했을 때 처음으로 정상 복귀되는지 검증
+    currentIndex = (currentIndex + matchedPool.length - 1) % matchedPool.length; // 인덱스 복구
+    currentIndex = (currentIndex + matchedPool.length) % matchedPool.length; // 순환
+    expect(matchedPool[currentIndex].id).toBe(firstMentor.id);
   });
 });

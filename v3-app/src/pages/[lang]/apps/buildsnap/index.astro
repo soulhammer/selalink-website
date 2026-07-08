@@ -111,7 +111,10 @@ const runtimeTranslations = {
   timeAfternoon: t('buildsnap.time.afternoon'),
   timeEvening: t('buildsnap.time.evening'),
   timeNight: t('buildsnap.time.night'),
-  timeAnytime: t('buildsnap.time.anytime')
+  timeAnytime: t('buildsnap.time.anytime'),
+  statsBadge: t('buildsnap.matcher.stats.badge'),
+  statsBadgeNone: t('buildsnap.matcher.stats.badge.none'),
+  cycleGuide: t('buildsnap.matcher.cycle.guide')
 };
 ---
 
@@ -533,8 +536,11 @@ const runtimeTranslations = {
         <div class="absolute -right-20 -bottom-20 w-64 h-64 bg-indigo-500/10 dark:bg-indigo-500/15 rounded-full blur-[60px] pointer-events-none z-0"></div>
 
         <div class="relative z-10 flex flex-col items-center text-center">
-          <span class="text-xs font-extrabold uppercase tracking-widest text-indigo-500 mb-4 block">{t('buildsnap.result.title')}</span>
+          <span class="text-xs font-extrabold uppercase tracking-widest text-indigo-500 mb-3 block">{t('buildsnap.result.title')}</span>
           
+          <!-- 매칭 결과 요약 배지 -->
+          <div id="matcherStatsBadge" class="px-4 py-1.5 rounded-full text-xs font-black bg-indigo-500/10 dark:bg-indigo-500/20 text-indigo-600 dark:text-indigo-400 border border-indigo-500/20 mb-4 tracking-wide select-none"></div>
+
           <!-- Hero Illustration Image (The main visual focus) -->
           <div class="w-full rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-850 shadow-lg bg-slate-900 mb-6 relative aspect-video max-h-[380px] w-full max-w-[640px]">
             <img id="resultHeroImage" src="" class="w-full h-full object-cover opacity-90 transition-opacity duration-350" alt="Mentor Habit Illustration" />
@@ -546,6 +552,9 @@ const runtimeTranslations = {
               {t('buildsnap.result.desc')}
             </h3>
           </div>
+
+          <!-- 순환 안내 및 템플릿 인덱스 가이드 -->
+          <div id="matcherCycleGuide" class="mt-4 px-4 py-2 rounded-xl text-xs font-bold bg-slate-50 dark:bg-slate-900/50 border border-slate-200/50 dark:border-slate-800/50 text-slate-500 dark:text-slate-400 flex items-center justify-center gap-2 select-none"></div>
 
           <!-- Result Footer Action (Blog Deep Link only) -->
           <div class="w-full flex items-center justify-center pt-6 mt-4 border-t border-slate-100 dark:border-slate-900">
@@ -622,8 +631,15 @@ const runtimeTranslations = {
       const resultHeroImage = document.getElementById('resultHeroImage');
       const resultQuote = document.getElementById('resultQuote');
       const btnReadStory = document.getElementById('btnReadStory');
+      const matcherStatsBadge = document.getElementById('matcherStatsBadge') as HTMLDivElement;
+      const matcherCycleGuide = document.getElementById('matcherCycleGuide') as HTMLDivElement;
 
       let currentMatchedHabit = null;
+      let lastQ1 = '';
+      let lastQ2 = '';
+      let lastQ3 = '';
+      let currentPool = [];
+      let currentIndex = 0;
 
       // ----------------------------------------------------
       // 1. Dashboard Interactive Chart Events (Visual Highlights Coupling)
@@ -1045,12 +1061,24 @@ const runtimeTranslations = {
         const q2Val = q2Element.value;
         const q3Val = q3Element.value;
 
-        const matched = matchHabit(habits, q1Val, q2Val, q3Val);
+        // 조건 변경 확인
+        const isConditionChanged = q1Val !== lastQ1 || q2Val !== lastQ2 || q3Val !== lastQ3;
+
+        if (isConditionChanged) {
+          currentPool = matchHabit(habits, q1Val, q2Val, q3Val);
+          currentIndex = 0;
+          lastQ1 = q1Val;
+          lastQ2 = q2Val;
+          lastQ3 = q3Val;
+        } else {
+          if (currentPool.length > 0) {
+            currentIndex = (currentIndex + 1) % currentPool.length;
+          }
+        }
 
         // 렌더링 로직 처리
-        if (matched.length > 0) {
-          const randomIndex = Math.floor(Math.random() * matched.length);
-          const item = matched[randomIndex];
+        if (currentPool.length > 0) {
+          const item = currentPool[currentIndex];
           currentMatchedHabit = item;
 
           if (resultHeroImage) {
@@ -1059,6 +1087,23 @@ const runtimeTranslations = {
 
           // 블로그 상세 가이드 딥링크 바인딩
           btnReadStory.href = `/${currentLang}/blog/${item.id}/`;
+
+          // 결과 요약 배지 업데이트
+          if (matcherStatsBadge) {
+            matcherStatsBadge.textContent = runtimeTranslations.statsBadge.replace('$1', currentPool.length.toString());
+          }
+
+          // 순환 가이드 업데이트 (매칭 위인이 2명 이상일 때만 노출하여 인지 부하 감소)
+          if (matcherCycleGuide) {
+            if (currentPool.length > 1) {
+              matcherCycleGuide.classList.remove('hidden');
+              matcherCycleGuide.textContent = runtimeTranslations.cycleGuide
+                .replace('$1', (currentIndex + 1).toString())
+                .replace('$2', currentPool.length.toString());
+            } else {
+              matcherCycleGuide.classList.add('hidden');
+            }
+          }
 
           // UI 토글 처리
           resultContainer.classList.remove('hidden');

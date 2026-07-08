@@ -56,7 +56,10 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.milestone.step3": "뇌의 무의식 안착 및 자동화 완료",
     "buildsnap.milestone.canvas.step1": "📈 저항 극복기 (1-22일): 나쁜 고리 끊어내고 뇌 세포 새로 새기기",
     "buildsnap.milestone.canvas.step2": "🛠️ 행동 과도기 (23-44일): 무너지기 쉬운 행동을 일상에 억지로 안착",
-    "buildsnap.milestone.canvas.step3": "🎯 습관 안착기 (45-66일): 의지력이 필요 없는 무의식 자동화 완성"
+    "buildsnap.milestone.canvas.step3": "🎯 습관 안착기 (45-66일): 의지력이 필요 없는 무의식 자동화 완성",
+    "buildsnap.matcher.stats.badge": "🎯 이 조건에 맞는 위인 멘토가 총 $1명 검색되었습니다.",
+    "buildsnap.matcher.stats.badge.none": "🎯 이 조건에 맞는 위인 멘토가 존재하지 않습니다.",
+    "buildsnap.matcher.cycle.guide": "💡 버튼을 다시 누르면 다음 멘토 ($1 / $2번째)의 습관으로 순환됩니다."
   },
   en: {
     "buildsnap.result.title": "Your Heroic Habit Prescription",
@@ -113,7 +116,10 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.milestone.step3": "Unconscious anchoring & complete automation",
     "buildsnap.milestone.canvas.step1": "📈 Resistance Phase (1-22d): Break bad loop & reprogram brain cells",
     "buildsnap.milestone.canvas.step2": "🛠️ Transition Phase (23-44d): Stabilize and anchor unstable habits",
-    "buildsnap.milestone.canvas.step3": "🎯 Automation Phase (45-66d): Unconscious execution with zero friction"
+    "buildsnap.milestone.canvas.step3": "🎯 Automation Phase (45-66d): Unconscious execution with zero friction",
+    "buildsnap.matcher.stats.badge": "🎯 A total of $1 mentors found for these conditions.",
+    "buildsnap.matcher.stats.badge.none": "🎯 No mentors found for these conditions.",
+    "buildsnap.matcher.cycle.guide": "💡 Click again to cycle through the next mentor ($1 of $2)."
   },
   ja: {
     "buildsnap.result.title": "あなたための偉人の習慣処方箋",
@@ -170,7 +176,10 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.milestone.step3": "脳の無意識定着と完全自動化完了",
     "buildsnap.milestone.canvas.step1": "📈 抵抗期 (1-22日): 悪いループを断ち, 脳細胞を新しく刻む",
     "buildsnap.milestone.canvas.step2": "🛠️ 過渡期 (23-44日): 崩れやすい行動を日常に強制定着させる",
-    "buildsnap.milestone.canvas.step3": "🎯 自動化期 (45-66日): 意志の力を必要としない無意識ルーティン化"
+    "buildsnap.milestone.canvas.step3": "🎯 自動化期 (45-66日): 意志の力を必要としない無意識ルーティン化",
+    "buildsnap.matcher.stats.badge": "🎯 この条件に合う偉人のメンターが計 $1 人見つかりました。",
+    "buildsnap.matcher.stats.badge.none": "🎯 この条件に合う偉人のメンターが存在しません。",
+    "buildsnap.matcher.cycle.guide": "💡 もう一度押すと、次のメンター（$1 / $2人目）の習慣に切り替わります。"
   },
   zh: {
     "buildsnap.result.title": "专属伟人习惯处方",
@@ -227,7 +236,10 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.milestone.step3": "潜意识沉淀与行为完全自动运行",
     "buildsnap.milestone.canvas.step1": "📈 阻力期 (1-22天): 打破旧循环，重构大脑细胞",
     "buildsnap.milestone.canvas.step2": "🛠️ 过渡期 (23-44天): 强制稳定在日常生活中并固化",
-    "buildsnap.milestone.canvas.step3": "🎯 自动运行期 (45-66天): 无需意志力耗损的潜意识习惯化"
+    "buildsnap.milestone.canvas.step3": "🎯 自动运行期 (45-66天): 无需意志力耗损的潜意识习惯化",
+    "buildsnap.matcher.stats.badge": "🎯 共有 $1 位符合此条件的伟人导师被检索到。",
+    "buildsnap.matcher.stats.badge.none": "🎯 未找到符合此条件的伟人导师。",
+    "buildsnap.matcher.cycle.guide": "💡 再次点击可循环查看下一位导师（第 $1 / $2 位）的习惯。"
   },
   es: {
     "buildsnap.result.title": "Tu Receta de Hábito Heroico",
@@ -284,7 +296,10 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.milestone.step3": "Consolidación inconsciente y automatización",
     "buildsnap.milestone.canvas.step1": "📈 Fase de Resistencia (1-22d): Romper mal ciclo & reprogramar neuronas",
     "buildsnap.milestone.canvas.step2": "🛠️ Fase de Transición (23-44d): Adaptar e incorporar conductas inestables",
-    "buildsnap.milestone.canvas.step3": "🎯 Fase de Automatización (45-66d): Ejecución subconsciente sin esfuerzo"
+    "buildsnap.milestone.canvas.step3": "🎯 Fase de Automatización (45-66d): Ejecución subconsciente sin esfuerzo",
+    "buildsnap.matcher.stats.badge": "🎯 Se encontraron un total de $1 mentores para estas condiciones.",
+    "buildsnap.matcher.stats.badge.none": "🎯 No se encontraron mentores para estas condiciones.",
+    "buildsnap.matcher.cycle.guide": "💡 Presione de nuevo para pasar al siguiente mentor ($1 de $2)."
   },
   fr: {
     "buildsnap.result.title": "Votre Prescription d'Habitude Héroïque",
@@ -341,7 +356,10 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.milestone.step3": "Ancrage inconscient et automatisation totale",
     "buildsnap.milestone.canvas.step1": "📈 Phase de Résistance (1-22j): Rompre le mauvais cercle & reprogrammer l'esprit",
     "buildsnap.milestone.canvas.step2": "🛠️ Phase de Transition (23-44j): Stabiliser et ancrer les nouvelles conduites",
-    "buildsnap.milestone.canvas.step3": "🎯 Phase d'Automatisation (45-66d): Exécution subconsciente sans friction"
+    "buildsnap.milestone.canvas.step3": "🎯 Phase d'Automatisation (45-66d): Exécution subconsciente sans friction",
+    "buildsnap.matcher.stats.badge": "🎯 Un total de $1 mentors trouvés pour ces conditions.",
+    "buildsnap.matcher.stats.badge.none": "🎯 Aucun mentor trouvé pour ces conditions.",
+    "buildsnap.matcher.cycle.guide": "💡 Cliquez à nouveau pour passer au mentor suivant ($1 sur $2)."
   },
   de: {
     "buildsnap.result.title": "Ihr heldenhaftes Gewohnheitsrezept",
@@ -398,7 +416,10 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.milestone.step3": "Unterbewusste Integration und Vollautomatisierung",
     "buildsnap.milestone.canvas.step1": "📈 Widerstandsphase (1-22d): Teufelskreis brechen & Nervenzellen prägen",
     "buildsnap.milestone.canvas.step2": "🛠️ Übergangsphase (23-44d): Instabile Gewohnheiten festigen und einbetten",
-    "buildsnap.milestone.canvas.step3": "🎯 Automatisierungsphase (45-66d): Unbewusste Ausführung ohne Anstrengung"
+    "buildsnap.milestone.canvas.step3": "🎯 Automatisierungsphase (45-66d): Unbewusste Ausführung ohne Anstrengung",
+    "buildsnap.matcher.stats.badge": "🎯 Insgesamt $1 Mentoren für diese Bedingungen gefunden.",
+    "buildsnap.matcher.stats.badge.none": "🎯 Keine Mentoren für diese Bedingungen gefunden.",
+    "buildsnap.matcher.cycle.guide": "💡 Erneut klicken, um zum nächsten Mentor ($1 von $2) zu wechseln."
   },
   pt: {
     "buildsnap.result.title": "Sua Receita de Hábito Heroico",
@@ -455,7 +476,10 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.milestone.step3": "Consolidação inconsciente e total automação",
     "buildsnap.milestone.canvas.step1": "📈 Fase de Resistência (1-22d): Quebrar mau ciclo & reprogramar neurónios",
     "buildsnap.milestone.canvas.step2": "🛠️ Fase de Transição (23-44d): Estabilizar e ancorar novas condutas",
-    "buildsnap.milestone.canvas.step3": "🎯 Fase de Automação (45-66d): Execução subconsciente sem atrito"
+    "buildsnap.milestone.canvas.step3": "🎯 Fase de Automação (45-66d): Execução subconsciente sem atrito",
+    "buildsnap.matcher.stats.badge": "🎯 Um total de $1 mentores encontrados para estas condições.",
+    "buildsnap.matcher.stats.badge.none": "🎯 Nenhum mentor encontrado para estas condições.",
+    "buildsnap.matcher.cycle.guide": "💡 Clique novamente para alternar para o próximo mentor ($1 de $2)."
   },
   id: {
     "buildsnap.result.title": "Resep Kebiasaan Tokoh Sejarah Anda",
@@ -512,6 +536,9 @@ export const buildsnapTranslations: Record<string, Record<string, string>> = {
     "buildsnap.milestone.step3": "Konsolidasi bawah sadar dan automatisasi total",
     "buildsnap.milestone.canvas.step1": "📈 Fase Resistensi (1-22h): Putus siklus buruk & program ulang saraf",
     "buildsnap.milestone.canvas.step2": "🛠️ Fase Transisi (23-44h): Stabilkan dan kunci perilaku tidak konsisten",
-    "buildsnap.milestone.canvas.step3": "🎯 Fase Automasi (45-66h): Eksekusi otomatis tanpa membebani mental"
+    "buildsnap.milestone.canvas.step3": "🎯 Fase Automasi (45-66h): Eksekusi otomatis tanpa membebani mental",
+    "buildsnap.matcher.stats.badge": "🎯 Sebanyak $1 mentor ditemukan untuk kondisi ini.",
+    "buildsnap.matcher.stats.badge.none": "🎯 Tidak ada mentor yang ditemukan untuk kondisi ini.",
+    "buildsnap.matcher.cycle.guide": "💡 Klik lagi untuk beralih ke mentor berikutnya ($1 dari $2)."
   }
 };
