@@ -1,0 +1,168 @@
+{
+  "george-washington-morning-rounds": {
+    "title": {
+      "ko": "조지 워싱턴의 '영농 일지': 초대 대통령의 행정력을 낳은 새벽 순찰과 기록",
+      "en": "George Washington's 'Logbook': Morning Rounds and Records That Created the First President's Administrative Power",
+      "ja": "ジョージ・ワシントンの「営農日誌」：初代大統領の行政力を生み出した早朝巡回と記録",
+      "zh": "乔治·华盛顿的“农耕日志”：造就首任总统行政效能的清晨巡视与精细记录",
+      "es": "El 'diario agrícola' de George Washington: patrulla matutina y registro",
+      "fr": "Le 'journal agricole' de George Washington : patrouille matinale et registre",
+      "de": "George Washington: Die 'Morgeninspektion & Logbuch'-Routine für absolute Kontrolle",
+      "pt": "O 'diário agrícola' de George Washington: patrulha matinal e registro meticuloso",
+      "id": "Buku Harian Pertanian George Washington: Patroli Pagi dan Catatan Meticulous"
+    },
+    "description": {
+      "ko": "새벽 4시 기상 후 직접 마운트 버넌 농장을 돌며 기후와 농작물 수치를 정밀 기록했던 조지 워싱턴. 국가 행정의 뼈대가 된 메타 인지 습관을 탐구합니다.",
+      "en": "How George Washington woke up at 4 AM to inspect Mount Vernon and record meteorological and crop data. Explore the metacognitive routine that built his national administration.",
+      "ja": "早朝4時起床後に自ら農場を回り、気候や農作物の数値を精密に記録したジョージ・ワシントン。国家行政の骨格となったメタ認知習慣を紐解きます。",
+      "zh": "乔治·华盛顿如何在早晨四点起床后亲自巡查农庄，并精密记录气候及农作物数据。探究成为国家行政基石的元认知习惯。",
+      "es": "Cómo George Washington patrullaba Mount Vernon a las 4 AM y anotaba datos agrícolas. Descubra la rutina metacognitiva que construyó su administración.",
+      "fr": "Comment George Washington patrouillait à 4h00 et notait ses données agricoles. Découvrez la routine métacognitive qui a structuré son administration.",
+      "de": "Wie George Washington um 4:00 Uhr morgens seine Farm inspizierte und Wetterdaten erfasste. Entdecken Sie die Metakognitions-Routine für perfekte Administration.",
+      "pt": "Como George Washington acordava às 4h da manhã para inspecionar Mount Vernon e registrar dados agrícolas. Conheça a rotina que moldou sua liderança.",
+      "id": "Bagaimana George Washington bangun pukul 04.00 pagi untuk menginspeksi Mount Vernon dan mencatat data cuaca. Pelajari pentingnya metakognisi."
+    },
+    "authority": {
+      "ko": "조지 워싱턴의 서명 영농 일지(Diaries of George Washington) 원본",
+      "en": "George Washington's Diaries (Diaries of George Washington) Original Sources",
+      "ja": "ジョージ・ワシントンの自筆営農日誌（Diaries of George Washington）原本",
+      "zh": "乔治·华盛顿的亲笔日志《乔治·华盛顿日记》原本",
+      "es": "Diarios de George Washington Fuentes originales",
+      "fr": "Journaux de George Washington Sources originales",
+      "de": "Originalquellen aus George Washingtons Tagebüchern",
+      "pt": "Fontes originais dos Diários de George Washington",
+      "id": "Sumber Asli Diari George Washington"
+    },
+    "intro": {
+      "ko": "미국의 독립 전쟁을 승리로 이끈 영웅적인 총사령관이자 신생 미국의 건립을 주도한 위대한 초대 대통령 조지 워싱턴. 그는 미국의 모든 행정적 기틀을 잡고 내각을 조직해야 했던 행정의 대가였습니다. 그가 독립군 군대를 안정적으로 통솔하고 국가 제도를 정비하는 압도적인 수치 분석력과 통제력을 가질 수 있었던 배후에는 한 평생 이어졌던 새벽 농장 경영 루틴이 있었습니다. ☀️\n\n워싱턴은 젊은 시절부터 은퇴한 말년까지 언제나 새벽 4시에 기상했습니다. 그는 스스로 촛불을 밝히고 책상을 정리한 뒤 말을 타고 넓은 마운트 버넌 농장 구석구석을 면밀히 직접 순찰했습니다. 그리고 서재로 들어와 그날 농장에서 채집한 온도, 바람, 씨앗 실험 결과, 비료 사용량 등을 가죽으로 제본된 영농 일지(Logbook) 공책에 수치와 표로 매우 상세하게 한 자 한 자 손수 기록했습니다. 직관에 빠지지 않고 정밀한 수치에 기반해 의사를 결정하는 이 새벽 습관이 바로 신생 국가를 안전하게 조율해 낸 워싱턴 행정력의 초석이었습니다.\n\n오늘 BuildSelf에서는 워싱턴이 실천했던 '새벽 순찰 및 영농 일지' 루틴 속에 내포된 인지과학적 기능과 현대인들이 메타 인지를 활성화하여 비즈니스와 일상 지표를 장악하는 방법을 분석합니다.",
+      "en": "George Washington, the hero who led the American Revolutionary War to victory and guided the young country. Under massive administration duties, the secret behind his analytical power was his early farm management routine. ☀️\n\nWashington woke up at 4 AM from his youth to his later years. He rode a horse to inspect Mount Vernon. Returning to his study, he recorded temperature, wind, crops, and fertilizer data in a leather logbook manually. This early morning routine of decision-making based on precise figures was the foundation of his administrative power.\n\nToday, BuildSelf looks at the science behind Washington's logbook routine and how modern people can activate metacognition to control business and daily metrics.",
+      "ja": "アメリカ独立戦争を勝利に導いた英雄的な総司令官であり、新興アメリカの建国を主導した偉大な初代大統領ジョージ・ワシントン。彼は、すべての行政的な骨組みを作り、内閣を組織しなければならなかった行政の大家でした。彼が独立軍を安定して率い、国家制度を構築する圧倒的なデータ分析力とコントロール力を持てた背景には、生涯続いた早朝の農場経営ルーティンがありました。 ☀️\n\nワシントンは若い頃から晩年に至るまで、常に早朝4時に起床しました。自らろうそくに火を灯し、机を整理した後、馬に乗って広いマウント・バーノン農場の隅々まで直接見回りました。そして書斎に戻り、その日農場で採集した気温、風、種子の実験結果、肥料の使用量などを、革で製本された営農日誌（Logbook）ノートに数値と表で極めて詳細に手書きで記録しました。直感に頼らず、精密な数値に基づいて意思決定を行うこの早朝の習慣こそが、新興国家を安全に統治したワシントン行政力の礎でした。\n\n今日のBuildSelfでは、ワシントンが実践した「早朝巡回と営農日誌」ルーティンに含まれる認知科学的な機能と、現代人がメタ認知を活性化してビジネスや日常の指標を把握する方法を分析します。",
+      "zh": "带领美国独立战争走向胜利的英勇总司令，以及主持建立新生美国的伟大首任总统乔治·华盛顿。他是必须为美国搭建全部行政骨架、组建内阁的行政大师。而他之所以拥有稳定统率独立军并整顿国家体制的压倒性数据分析力和控制力，其背后正是贯穿一生的清晨农场经营惯例。 ☀️\n\n华特从青年时期直至晚年，始终在早晨四点起床。他亲自点燃蜡烛、整理书桌，随后骑马对辽阔的弗农山庄的每一个角落进行细致的亲身巡查。接着，他回到书房，将在农庄收集的温度、风向、种子实验结果、肥料使用量等，一字一句亲手记录在皮革装订的农耕日志（Logbook）本上。这种不沉溺于直觉、基于精密数据做决策的清晨习惯，正是华盛顿安全协调新生国家行政能力的基石。\n\n今天，BuildSelf 将带您了解华盛顿清晨巡视与农耕日志惯例中蕴含的认知科学功能，以及现代人如何激活元认知以掌控商业和生活指标。",
+      "es": "George Washington, primer presidente de EE. UU., sufría gran presión. Su secreto era levantarse a las 4 AM para patrullar Mount Vernon. Al volver a su estudio, anotaba el clima, temperatura y abonos en un diario de cuero a mano. Esta toma de decisiones basada en datos fue su base administrativa.\n\nHoy, BuildSelf analiza la rutina del 'diario agrícola' de George Washington.",
+      "fr": "George Washington, premier président des États-Unis, subissait une grande pression. Son rituel était de se lever à 4h00 pour patrouiller son domaine. De retour, il notait le climat et les récoltes dans un journal. Cette prise de décision basée sur les chiffres a structuré son administration.\n\nAujourd'hui, BuildSelf analyse la routine de George Washington.",
+      "de": "George Washington wachte fast sein ganzes Leben lang um 4:00 Uhr morgens auf. Er ritt über seine Ländereien in Mount Vernon, prüfte den Zustand der Felder und notierte die Daten in einem Logbuch. Diese zahlenbasierte Arbeitsweise übertrug er später auf die Staatsverwaltung.\n\nHeute stellt BuildSelf die kognitionswissenschaftliche Funktion von Washingtons Morgenroutine vor und zeigt, wie man Metakognition zur Kontrolle von Zielen einsetzt.",
+      "pt": "George Washington governou a nascente nação americana sob enorme responsabilidade. Seu esteio analítico vinha do hábito de acordar às 4h da manhã para inspecionar Mount Vernon a cavalo. Ele registrava vento, temperatura e experimentos agrícolas em uma caderneta de couro manualmente. Isso moldou sua gestão de precisão.\n\nHoje, o BuildSelf detalha o hábito do diário de Washington e como usar a metacognição para gerir a rotina.",
+      "id": "George Washington bangun pukul 04.00 pagi untuk menginspeksi peternakannya di Mount Vernon secara langsung lalu menuliskan catatan meteorologi dan pertanian di buku catatan kulit. Kebiasaan berbasis data ini menjadi fondasi kecakapannya mengurus negara.\n\nHari ini, BuildSelf mengulas sains metakognisi dari buku harian George Washington."
+    },
+    "whyTitle": {
+      "ko": "정교한 수치 기록이 메타 인지를 깨우는 원리",
+      "en": "How Meticulous Metric Recording Awakens Metacognition",
+      "ja": "精緻な数値記録がメタ認知を呼び覚ます原理",
+      "zh": "精细数据记录唤醒元认知的原理",
+      "es": "Cómo el registro preciso de métricas despierta la metacognición",
+      "fr": "Comment le registre précis de métriques éveille la métacognition",
+      "de": "Wie die präzise Datenerfassung die Metakognition schärft",
+      "pt": "Como o registro preciso de dados estimula a metacognição",
+      "id": "Cara Pencatatan Angka Rinci Memicu Metakognisi"
+    },
+    "whyDesc": {
+      "ko": "뇌의 메타 인지(Metacognition)는 '내가 아는 것과 모르는 것을 정확하게 판별하는 인지 능력'입니다. 메타 인지가 약하면 자신이 처한 비효율성이나 리스크를 제대로 자각하지 못한 채 피상적인 감각에 의존해 오판을 내리게 됩니다.\n\n조지 워싱턴처럼 매일 기후 조건이나 작물 상태 같은 복잡한 실측 수치를 직접 수작업으로 꼼꼼히 기록하는 행동은 뇌의 외측 전전두엽 피질과 하전두엽의 モニタリング 영역을 강력하게 활성화합니다. 모호한 가설을 버리고 실측값에만 뇌를 정조준함으로써, 인지적 착각(Cognitive Illusion)을 걷어내고 가장 객관적인 팩트를 인지하여 신속하고 오차 없는 자원 분배 의사결정을 내릴 수 있게 이끕니다.",
+      "en": "Metacognition is the ability to accurately distinguish what you know and what you do not. If metacognition is weak, you rely on superficial senses and make wrong decisions without realizing inefficiency. Recording actual figures manually, like Washington, highly activates the monitoring area of the prefrontal cortex, filtering cognitive illusions and guiding error-free resource allocation decisions.",
+      "ja": "脳のメタ認知（Metacognition）は、「自分が知っていることと知らないことを正確に識別する認知能力」です。メタ認知が弱いと、自分が直面している非効率やリスクを正しく自覚できず、表面的な感覚に頼って誤った判断を下してしまいます。\n\nジョージ・ワシントンのように、毎日の気候条件や作物の状態といった複雑な実測数値を直接手書きで細かく記録する行動は、脳の外側前頭前野と下前頭葉のモニタリング領域を強力に活性化します。曖昧な仮説を捨て、実測値だけに脳をフォーカスさせることで、認知の錯覚（Cognitive Illusion）を取り除き、最も客観的なファクトを認識して、迅速で誤差のない資源配分の意思決定を下すことができるようになります。",
+      "zh": "大脑的元认知（Metacognition）是“精准判别自己知道与不知道什么的认知能力”。如果元认知薄弱，就无法正确察觉到自己所处的低效或风险，从而依赖表象感觉做出错误判断。\n\n像乔治·华盛顿一样，每天亲自动手细致记录气候状况或农作物长势等复杂的实际测量数据，能强力激活大脑外侧前额叶皮层和下前额叶的监控区域。通过抛弃模糊的假设，将大脑精准对准实测值，能剥离认知错觉（Cognitive Illusion），识别最客观的事实，从而做出迅速且零误差的资源分配决策。",
+      "es": "La metacognición es saber qué sabemos y qué no. Registrar datos a mano, como Washington, activa la corteza prefrontal lateral. Esto filtra la ilusión cognitiva y permite tomar decisiones basadas en hechos objetivos con eficiencia.",
+      "fr": "La métacognition est savoir ce que l'on sait et ce que l'on ne sait pas. Noter des données à la main active le cortex préfrontal. Cela filtre l'illusion cognitive pour décider objectivement.",
+      "de": "Metakognition ist das Wissen über das eigene Wissen. Das manuelle Aufschreiben von Daten aktiviert Überwachungszentren im präfrontalen Kortex. Dies entlarvt kognitive Täuschungen und ermöglicht faktenbasierte, fehlerfreie Entscheidungen.",
+      "pt": "A metacognição é a capacidade de entender os limites do próprio conhecimento. Registrar métricas reais manualmente, como Washington fazia, ativa as áreas de monitoramento do córtex pré-frontal, eliminando 'ilusões cognitivas' e permitindo decisões de alocação baseadas em fatos reais.",
+      "id": "Metakognisi adalah kemampuan memahami batas pengetahuan sendiri. Mencatat angka secara manual mengaktifkan korteks prefrontal lateral, menghilangkan ilusi kognitif, dan menopang pengambilan keputusan objektif berbasis data."
+    },
+    "cautionTitle": {
+      "ko": "단순한 기분 기록은 일지가 아닙니다",
+      "en": "Simple mood recording is not a logbook",
+      "ja": "単なる気分転換の記録は日誌ではありません",
+      "zh": "单纯的心情记录算不上是日志",
+      "es": "Anotar el estado de ánimo no es llevar un registro",
+      "fr": "Noter son humeur n'est pas tenir un registre",
+      "de": "Bloßes Aufschreiben von Gefühlen ist kein Logbuch",
+      "pt": "Anotar sentimentos não substitui um logbook",
+      "id": "Mencatat Suasana Hati Saja Bukanlah Logbook"
+    },
+    "cautionDesc": {
+      "ko": "'오늘 기분이 피곤했다' 같은 단순한 감정 기록은 메타 인지를 활성화하지 못합니다. 조지 워싱턴의 일지처럼 기상 시간, 공부 페이지 수, 작업 시간, 운동 세트 수처럼 객관적인 '수치'를 직접 기입할 때만 인지 회로가 활성화되고 비효율을 고칠 수 있는 통제력이 생겨납니다.",
+      "en": "Recording simple emotions like 'I felt tired today' does not activate metacognition. Only when you record objective metrics like waking time, study page count, work hours, or exercise set count like Washington does the cognitive circuit activate and control to correct inefficiency emerge.",
+      "ja": "「今日は体がだるかった」といった単純な感情の記録では、メタ認知を活性化することはできません。ジョージ・ワシントンの日誌のように、起床時間、勉強したページ数、作業時間、トレーニングのセット数といった客観的な「数値」を直接記入するときだけ、認知回路が活性化し、非効率を改善するためのコントロール力が生まれます。",
+      "zh": "“今天心情很累”这种简单的感情记录无法激活元认知。只有像华盛顿的日志一样，亲手记下起床时间、学习页数、工作时长、锻炼组数等客观“数据”时，大脑的认知回路才会被激活，产生修正低效的掌控力。",
+      "es": "Anotar 'hoy me sentí cansado' no activa la metacognición. Solo registrar datos cuantitativos reales (horas de sueño, páginas leídas, series hechas) estimula el circuito analítico para erradicar la ineficiencia.",
+      "fr": "Noter 'aujourd'hui j'étais fatigué' n'active pas la métacognition. Seul le fait de noter des données quantitatives (heures de sommeil, pages lues) stimule le circuit analytique.",
+      "de": "Sätze wie 'Heute war ich müde' schärfen die Metakognition kaum. Erst durch die Erfassung messbarer Werte (Aufstehzeit, gelesene Seiten, Trainingssätze) entsteht die Kontrolle, Ineffizienzen abzustellen.",
+      "pt": "Escrever 'hoje me senti cansado' não ativa a metacognição. Apenas registrar dados objetivos como horas dormidas, páginas estudadas, tempo focado ou séries feitas estimula o cérebro para corrigir pontos ineficientes.",
+      "id": "Menulis ‘hari ini saya lelah’ tidak melatih metakognisi. Hanya dengan mencatat angka objektif (jam bangun, halaman buku, durasi fokus) otak melatih metakognisi untuk mengoreksi inefisiensi."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "매일 측정할 핵심 운영 수치 선정",
+          "en": "Select Key Metrics to Measure Daily",
+          "ja": "毎日測定するキー数値の選定",
+          "zh": "确定每日测量的核心数据指标",
+          "es": "Elegir métricas clave a medir a diario",
+          "fr": "Choisir les métriques clés à mesurer chaque jour",
+          "de": "Tägliche Kennzahlen festlegen",
+          "pt": "Selecionar métricas diárias para medição",
+          "id": "Tentukan Angka Utama yang Diukur Harian"
+        },
+        "text": {
+          "ko": "기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 2~3개의 객관적 항목을 규정합니다.",
+          "en": "Define 2 or 3 objective items that can gauge your daily productivity, such as waking time, reading amount (pages), or coding/work immersion hours.",
+          "ja": "起床時間、読書量（ページ数）、コーディングや仕事の没頭時間など、自分の一日の生産性を測ることができる2〜3個の客観的な項目を規定します。",
+          "zh": "划定起床时间、阅读量（页数）、编程/工作沉浸时长等两三个能够评估自己一天生产力的客观项目指标。",
+          "es": "Defina de 2 a 3 métricas objetivas de productividad personal (hora de despertar, páginas leídas, minutos de programación, etc.).",
+          "fr": "Définissez 2 ou 3 métriques objectives de productivité (heure de réveil, pages lues, minutes de programmation).",
+          "de": "Bestimmen Sie 2 bis 3 objektive Parameter (Aufstehzeit, gelesene Seiten, Fokusstunden), die Ihre Produktivität abbilden.",
+          "pt": "Defina de 2 a 3 itens objetivos para avaliar sua produtividade (como hora de acordar, páginas estudadas ou tempo de programação focado).",
+          "id": "Tentukan 2-3 parameter objektif untuk mengukur produktivitas Anda (seperti jam bangun, jumlah halaman dibaca, durasi koding harian)."
+        }
+      },
+      {
+        "name": {
+          "ko": "현장 진찰 또는 중간 점검",
+          "en": "Site Inspection or Midway Check",
+          "ja": "現場チェックまたは中間点検",
+          "zh": "实地检查或中期检查",
+          "es": "Inspección de campo o control intermedio",
+          "fr": "Inspection de terrain ou contrôle intermédiaire",
+          "de": "Zwischenkontrolle der Ist-Situation",
+          "pt": "Inspeção de campo ou checagem intermediária",
+          "id": "Inspeksi Lapangan atau Evaluasi Tengah Hari"
+        },
+        "text": {
+          "ko": "하루의 중간 지점인 오후나 일과 직전, 설정한 핵심 수치의 중간 진척 상황을 감정에 치우치지 않고 직관적으로 파악합니다.",
+          "en": "At the middle point of the day or right before work, intuitively grasp the mid-progress of the set key metrics without emotional bias.",
+          "ja": "一日の半分が過ぎた午後や、仕事に入る直前に、設定したキー数値の中間進捗状況を感情に流されることなく直感的に把握します。",
+          "zh": "在一天中段的下午或工作前夕，对所设核心指标的中期进度进行直观把握，排除主观情感干扰。",
+          "es": "A mitad de la jornada, realice un control rápido del progreso real de las métricas fijadas, de manera objetiva.",
+          "fr": "À mi-journée, effectuez un contrôle rapide de la progression réelle des métriques fixées, de manière objective.",
+          "de": "Prüfen Sie am Nachmittag objektiv den Fortschritt der festgelegten Parameter, ohne sich von Gefühlen leiten zu lassen.",
+          "pt": "No meio do dia ou antes de iniciar uma nova etapa, faça uma checagem rápida do andamento real dos números planejados.",
+          "id": "Pada tengah hari, evaluasi pencapaian angka target harian Anda secara objektif tanpa bias emosional."
+        }
+      },
+      {
+        "name": {
+          "ko": "일일 영농 일지(Logbook) 작성",
+          "en": "Daily Logbook Recording",
+          "ja": "日々の営農日誌（Logbook）の作成",
+          "zh": "填写每日农耕日志",
+          "es": "Registro diario en el Logbook",
+          "fr": "Enregistrement quotidien dans le Logbook",
+          "de": "Eintrag ins tägliche Logbuch",
+          "pt": "Registro diário no Logbook",
+          "id": "Catat Angka di Logbook Harian"
+        },
+        "text": {
+          "ko": "일과 종료 직후, 공책이나 기록 툴을 열고 측정된 실측 수치를 있는 그대로 꼼꼼히 기록하고, 일주일 단위의 평균값 추이를 관찰해 비효율을 진단합니다.",
+          "en": "Immediately after work, open your notebook or tool, meticulously record the measured metrics as they are, and diagnose inefficiencies by observing weekly average trends.",
+          "ja": "仕事が終わった直後に、ノートや記録ツールを開き、測定された実測数値をありのまま詳細に記録します。そして1週間単位の平均値の推移を観察し、非効率を診断します。",
+          "zh": "工作结束后，打开笔记本或记录软件，将测得的数据如实记录下来，以周为单位观察平均值的走势，诊断出低效漏洞。",
+          "es": "Al acabar el día, anote los datos numéricos tal como fueron. Analice las tendencias semanales para erradicar pérdidas de tiempo.",
+          "fr": "En fin de journée, notez les données numériques exactes. Analysez les tendances hebdomadaires pour corriger les inefficacités.",
+          "de": "Tragen Sie die exakten Werte nach Arbeitsende ein. Analysieren Sie den wöchentlichen Verlauf, um Ineffizienzen abzustellen.",
+          "pt": "Ao final do dia, registre os números medidos de forma fiel. Observe a média semanal para identificar gargalos e perdas de tempo.",
+          "id": "Begitu selesai bekerja, buka buku catatan Anda, catat angka aktual apa adanya, dan evaluasi rata-rata mingguan untuk memotong inefisiensi."
+        }
+      }
+    ],
+    "pubDate": "2026-07-04",
+    "updatedDate": "2026-07-04"
+  }
+}

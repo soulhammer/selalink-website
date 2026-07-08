@@ -1,0 +1,89 @@
+---
+title: "A 'coleção de selos' de Franklin D. Roosevelt: rotina de relaxamento cognitivo"
+description: "Como o presidente Roosevelt aliviava o estresse organizando selos antes de dormir. Conheça a neurociência por trás do relaxamento cognitivo."
+pubDate: "2026-07-02"
+updatedDate: "2026-07-02"
+category: "BuildSelf"
+tags: ["A 'coleção","Routine"]
+heroImage: "/images/blog/fdr_stamp_collecting.png"
+app: "buildself"
+formatVersion: 4
+authority: "Registros da Biblioteca Presidencial FDR"
+steps:
+  - name: "Guardar o trabalho e definir limites"
+    text: "Retire da mesa ou de perto da cama documentos, agendas e o notebook do trabalho. Essa separação física ajuda a mudar o registro mental."
+  - name: "Escolher uma atividade manual"
+    text: "Escolha um hobby manual leve: quebra-cabeças, desenho, limpar um instrumento musical ou organizar objetos."
+  - name: "30 minutos de foco sem cobrança"
+    text: "Dedique 30 minutos à atividade sem pressa ou cobrança por resultados. Concentre-se nas texturas e cores, respirando calmamente."
+---
+
+Franklin D. Roosevelt liderou os EUA durante a Grande Depressão e a Segunda Guerra. Para suportar o estresse, ele se dedicava a organizar selos por 30 minutos antes de dormir, proibindo qualquer interrupção. Isso limpava sua mente do ruído da guerra.
+
+Hoje, o BuildSelf explica a neurociência por trás do hobby de Roosevelt e como usá-lo para relaxar.
+
+<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+      Base Histórica e Acadêmica
+    </h5>
+    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+      Este conteúdo baseia-se em <strong>Registros da Biblioteca Presidencial FDR</strong>.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. Relaxamento cognitivo para acalmar a mente sobrecarregada
+
+Atividades de alta responsabilidade esgotam a energia do córtex pré-frontal. Dedicar-se a tarefas manuais leves envia 'sinais de segurança' ao cérebro, facilitando a liberação de melatonina e agindo como um resfriador cerebral.
+
+---
+
+## 2. Rutina Prática de 3 Pasos para o Profissional Moderno
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guardar o trabalho e definir limites</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Retire da mesa ou de perto da cama documentos, agendas e o notebook do trabalho. Essa separação física ajuda a mudar o registro mental.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Escolher uma atividade manual</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Escolha um hobby manual leve: quebra-cabeças, desenho, limpar um instrumento musical ou organizar objetos.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">30 minutos de foco sem cobrança</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Dedique 30 minutos à atividade sem pressa ou cobrança por resultados. Concentre-se nas texturas e cores, respirando calmamente.
+  </p>
+</div>
+
+---
+
+## 3. Desligue as telas para dar descanso ao cérebro
+<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
+  <span class="text-xl">💡</span>
+  <div>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Muitos acham que descansam vendo vídeos no celular, mas a luz azul e os estímulos visuais mantêm o cérebro alerta. Para liberar melatonina, dedique-se a tarefas manuais e analógicas antes de deitar.
+    </p>
+  </div>
+</div>
+
+<strong></strong>

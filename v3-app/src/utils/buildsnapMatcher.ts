@@ -1,49 +1,43 @@
 import type { Habit } from '../data/habits';
 
 export function matchHabit(habits: Habit[], q1Val: string, q2Val: string, q3Val: string): Habit[] {
-  let matched = habits.filter(h => {
-    const tagsStr = (h.tags || []).join(' ');
+  const checkQ1 = (tagsStr: string, q1: string): boolean => {
+    if (q1 === 'focus') {
+      return ['집중', '몰입', '생산성', '의지', '의지력', '동기부여', '자기계발', '학습', '성공습관', '계획', '시간 관리'].some(k => tagsStr.includes(k));
+    }
+    if (q1 === 'creative') {
+      return ['창의', '아이디어', '글쓰기', '기록', '메모', '창의성', '창의력', '독서', '영감', '예술', '기획', '공부'].some(k => tagsStr.includes(k));
+    }
+    if (q1 === 'simplicity') {
+      return ['단순', '의사결정', '단순화', '본질'].some(k => tagsStr.includes(k));
+    }
+    if (q1 === 'mind') {
+      return ['휴식', '사색', '명상', '수면', '이완', '성찰', '안정', '마음', '스트레스 해소'].some(k => tagsStr.includes(k));
+    }
+    return false;
+  };
 
-    // Q1 Matching: 개선 목표
-    let matchQ1 = false;
-    if (q1Val === 'focus') matchQ1 = tagsStr.includes('집중') || tagsStr.includes('몰입') || tagsStr.includes('생산성');
-    if (q1Val === 'creative') matchQ1 = tagsStr.includes('창의') || tagsStr.includes('아이디어') || tagsStr.includes('글쓰기') || tagsStr.includes('기록') || tagsStr.includes('메모');
-    if (q1Val === 'simplicity') matchQ1 = tagsStr.includes('단순') || tagsStr.includes('의사결정');
-    if (q1Val === 'mind') matchQ1 = tagsStr.includes('휴식') || tagsStr.includes('사색') || tagsStr.includes('명상') || tagsStr.includes('수면') || tagsStr.includes('이완');
+  const checkQ2 = (tagsStr: string, q2: string): boolean => {
+    const isPhysical = ['신체', '운동', '산책', '행동', '수면', '냉수', '동작', '노동', '호흡', '스트레칭'].some(k => tagsStr.includes(k));
+    return q2 === 'physical' ? isPhysical : !isPhysical;
+  };
 
-    // Q2 Matching: 활동 유형
-    let matchQ2 = false;
-    const isPhysical = tagsStr.includes('신체') || tagsStr.includes('운동') || tagsStr.includes('산책') || tagsStr.includes('행동') || tagsStr.includes('수면') || tagsStr.includes('냉수') || tagsStr.includes('동작') || tagsStr.includes('노동') || tagsStr.includes('호흡');
-    if (q2Val === 'physical') matchQ2 = isPhysical;
-    if (q2Val === 'mental') matchQ2 = !isPhysical;
-
-    // Q3 Matching: 준비 장벽
-    let matchQ3 = false;
+  const checkQ3 = (h: Habit, q3: string): boolean => {
     const itemsLen = h.requiredItems ? h.requiredItems.length : 0;
     const isEasy = itemsLen <= 1 || (h.tags || []).includes('#쉬움');
-    if (q3Val === 'easy') matchQ3 = isEasy;
-    if (q3Val === 'hard') matchQ3 = !isEasy;
+    return q3 === 'easy' ? isEasy : !isEasy;
+  };
 
-    return matchQ1 && matchQ2 && matchQ3;
+  let matched = habits.filter(h => {
+    const tagsStr = (h.tags || []).join(' ');
+    return checkQ1(tagsStr, q1Val) && checkQ2(tagsStr, q2Val) && checkQ3(h, q3Val);
   });
 
   // Fallback Step 1: 3가지 조건 동시 만족 위인이 없을 시, 개선 목표(Q1)와 준비 장벽(Q3) 필터만 적용
   if (matched.length === 0) {
     matched = habits.filter(h => {
       const tagsStr = (h.tags || []).join(' ');
-      let matchQ1 = false;
-      if (q1Val === 'focus') matchQ1 = tagsStr.includes('집중') || tagsStr.includes('몰입') || tagsStr.includes('생산성');
-      if (q1Val === 'creative') matchQ1 = tagsStr.includes('창의') || tagsStr.includes('아이디어') || tagsStr.includes('글쓰기') || tagsStr.includes('기록') || tagsStr.includes('메모');
-      if (q1Val === 'simplicity') matchQ1 = tagsStr.includes('단순') || tagsStr.includes('의사결정');
-      if (q1Val === 'mind') matchQ1 = tagsStr.includes('휴식') || tagsStr.includes('사색') || tagsStr.includes('명상') || tagsStr.includes('수면') || tagsStr.includes('이완');
-
-      let matchQ3 = false;
-      const itemsLen = h.requiredItems ? h.requiredItems.length : 0;
-      const isEasy = itemsLen <= 1 || (h.tags || []).includes('#쉬움');
-      if (q3Val === 'easy') matchQ3 = isEasy;
-      if (q3Val === 'hard') matchQ3 = !isEasy;
-
-      return matchQ1 && matchQ3;
+      return checkQ1(tagsStr, q1Val) && checkQ3(h, q3Val);
     });
   }
 
@@ -51,12 +45,7 @@ export function matchHabit(habits: Habit[], q1Val: string, q2Val: string, q3Val:
   if (matched.length === 0) {
     matched = habits.filter(h => {
       const tagsStr = (h.tags || []).join(' ');
-      let matchQ1 = false;
-      if (q1Val === 'focus') matchQ1 = tagsStr.includes('집중') || tagsStr.includes('몰입') || tagsStr.includes('생산성');
-      if (q1Val === 'creative') matchQ1 = tagsStr.includes('창의') || tagsStr.includes('아이디어') || tagsStr.includes('글쓰기') || tagsStr.includes('기록') || tagsStr.includes('메모');
-      if (q1Val === 'simplicity') matchQ1 = tagsStr.includes('단순') || tagsStr.includes('의사결정');
-      if (q1Val === 'mind') matchQ1 = tagsStr.includes('휴식') || tagsStr.includes('사색') || tagsStr.includes('명상') || tagsStr.includes('수면') || tagsStr.includes('이완');
-      return matchQ1;
+      return checkQ1(tagsStr, q1Val);
     });
   }
 

@@ -230,15 +230,20 @@ ${faqSection}`;
       try {
         const itemData = JSON.parse(fs.readFileSync(snapItemPath, 'utf-8'));
         const tagsStr = (itemData.tags || []).join(' ');
-        const hasQ1Tag = tagsStr.includes('집중') || tagsStr.includes('몰입') || tagsStr.includes('생산성') ||
-                         tagsStr.includes('창의') || tagsStr.includes('아이디어') || tagsStr.includes('글쓰기') || tagsStr.includes('기록') || tagsStr.includes('메모') ||
-                         tagsStr.includes('단순') || tagsStr.includes('의사결정') ||
-                         tagsStr.includes('휴식') || tagsStr.includes('사색') || tagsStr.includes('명상') || tagsStr.includes('수면') || tagsStr.includes('이완');
+        const allowedQ1Keywords = [
+          '집중', '몰입', '생산성', '의지', '의지력', '동기부여', '자기계발', '학습', '성공습관', '계획', '시간 관리',
+          '창의', '아이디어', '글쓰기', '기록', '메모', '창의성', '창의력', '독서', '영감', '예술', '기획', '공부',
+          '단순', '의사결정', '단순화', '본질',
+          '휴식', '사색', '명상', '수면', '이완', '성찰', '안정', '마음', '스트레스 해소'
+        ];
+        const hasQ1Tag = allowedQ1Keywords.some(k => tagsStr.includes(k));
         if (!hasQ1Tag) {
-          console.warn(`\x1b[33m[경고] BuildSnap 진단기 매칭 누출 가능: '${blogSlug}.json'에 개선 목표(Q1)에 부합하는 필수 태그가 하나도 없습니다. 진단기에서 노출되지 않을 수 있습니다.\x1b[0m`);
+          console.error(`\x1b[31m[에러] BuildSnap 진단기 매칭 누출: '${blogSlug}.json'에 개선 목표(Q1)에 부합하는 필수 태그가 하나도 없습니다. 진단기 매칭 누출 방지를 위해 빌드를 강제 종료합니다.\x1b[0m`);
+          process.exit(1);
         }
       } catch (err) {
         console.error(`[오류] 진단기 데이터 파일 파싱 에러: ${snapItemPath}`, err);
+        process.exit(1);
       }
     }
 

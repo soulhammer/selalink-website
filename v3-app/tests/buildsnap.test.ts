@@ -68,3 +68,50 @@ describe('BuildSnap 매칭 및 폴백 핵심 비즈니스 로직 테스트', () 
     expect(result.length).toBe(mockHabits.length);
   });
 });
+
+import { habits as realHabits } from '../src/data/habits';
+
+describe('BuildSnap 실제 위인 데이터 76종 매칭 정합성 검증', () => {
+  it('실제 등록된 모든 위인(76명)이 최소 1개 이상의 진단 조합 결과에 노출되어야 한다 (누수 0명)', () => {
+    const q1Options = ['focus', 'creative', 'simplicity', 'mind'];
+    const q2Options = ['physical', 'mental'];
+    const q3Options = ['easy', 'hard'];
+
+    const matchedIds = new Set<string>();
+
+    for (const q1 of q1Options) {
+      for (const q2 of q2Options) {
+        for (const q3 of q3Options) {
+          const matched = matchHabit(realHabits, q1, q2, q3);
+          
+          // 최종 폴백(전체 목록 반환)이 작동한 경우 제외 (실제 필터에 매칭된 경우만 추적)
+          if (matched.length !== realHabits.length) {
+            matched.forEach(h => matchedIds.add(h.id));
+          }
+        }
+      }
+    }
+
+    // 전수 조사 결과 매칭 대상 목록에 모든 위인(76명)이 포함되어 있는지 확인
+    expect(realHabits.length).toBe(76);
+    expect(matchedIds.size).toBe(realHabits.length);
+  });
+
+  it('올바른 모든 진단 조합(16가지)이 전체 목록(최종 폴백)을 반환하지 않고 구체적인 결과를 도출해야 한다', () => {
+    const q1Options = ['focus', 'creative', 'simplicity', 'mind'];
+    const q2Options = ['physical', 'mental'];
+    const q3Options = ['easy', 'hard'];
+
+    for (const q1 of q1Options) {
+      for (const q2 of q2Options) {
+        for (const q3 of q3Options) {
+          const matched = matchHabit(realHabits, q1, q2, q3);
+          
+          // 매칭 조건이 주어졌으므로, 전체 76명이 통째로 노출되는 폴백 3단계가 일어나면 안 됨
+          expect(matched.length).toBeLessThan(realHabits.length);
+          expect(matched.length).toBeGreaterThan(0);
+        }
+      }
+    }
+  });
+});

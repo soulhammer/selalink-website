@@ -258,6 +258,24 @@ function checkIntegrity() {
       const sourceJsonPath = path.join(__dirname, 'data/habits/items', `${blogSlug}.json`);
       if (!fs.existsSync(sourceJsonPath)) {
         logError(`[원천 데이터 누락] '${blogSlug}' 에 대응하는 원시 습관 데이터 파일이 존재하지 않습니다: src/data/habits/items/${blogSlug}.json`);
+      } else {
+        // Q1 진단기 매칭 누출 검증
+        try {
+          const itemData = JSON.parse(fs.readFileSync(sourceJsonPath, 'utf-8'));
+          const tagsStr = (itemData.tags || []).join(' ');
+          const allowedQ1Keywords = [
+            '집중', '몰입', '생산성', '의지', '의지력', '동기부여', '자기계발', '학습', '성공습관', '계획', '시간 관리',
+            '창의', '아이디어', '글쓰기', '기록', '메모', '창의성', '창의력', '독서', '영감', '예술', '기획', '공부',
+            '단순', '의사결정', '단순화', '본질',
+            '휴식', '사색', '명상', '수면', '이완', '성찰', '안정', '마음', '스트레스 해소'
+          ];
+          const hasQ1Tag = allowedQ1Keywords.some(k => tagsStr.includes(k));
+          if (!hasQ1Tag) {
+            logError(`[진단기 매칭 누출] '${blogSlug}.json'에 개선 목표(Q1)에 부합하는 필수 태그가 하나도 없습니다. 진단기에서 노출될 수 있도록 태그를 보완하십시오.`);
+          }
+        } catch (err) {
+          logError(`[JSON 파싱 에러] '${blogSlug}.json' 파일 파싱 실패 - ${err.message}`);
+        }
       }
     }
 
