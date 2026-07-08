@@ -16,6 +16,11 @@ steps:
     text: "Prüfen Sie am Nachmittag objektiv den Fortschritt der festgelegten Parameter, ohne sich von Gefühlen leiten zu lassen."
   - name: "Eintrag ins tägliche Logbuch"
     text: "Tragen Sie die exakten Werte nach Arbeitsende ein. Analysieren Sie den wöchentlichen Verlauf, um Ineffizienzen abzustellen."
+faqs:
+  - question: "Ich habe keine Lust auf Tagebucheinträge an Tagen mit schlechten Werten. Was kann ich tun?"
+    answer: "Metakognition zielt nicht auf „Erfolg“, sondern auf „präzise Analyse“. Das Aufschreiben schlechter Werte baut Illusionen ab und stärkt die Resilienz für morgen."
+  - question: "Kann ich alle Werte auch nur mit Notion oder Excel verwalten?"
+    answer: "Digitale Tools verleiten zu Ablenkungen (Social Media, E-Mails). Das handschriftliche Notieren im Tagebuch fördert die kognitive Klarheit und sorgt für tiefere Einsichten."
 ---
 
 George Washington wachte fast sein ganzes Leben lang um 4:00 Uhr morgens auf. Er ritt über seine Ländereien in Mount Vernon, prüfte den Zustand der Felder und notierte die Daten in einem Logbuch. Diese zahlenbasierte Arbeitsweise übertrug er später auf die Staatsverwaltung.
@@ -85,5 +90,29 @@ Metakognition ist das Wissen über das eigene Wissen. Das manuelle Aufschreiben 
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Ich habe keine Lust auf Tagebucheinträge an Tagen mit schlechten Werten. Was kann ich tun?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Metakognition zielt nicht auf „Erfolg“, sondern auf „präzise Analyse“. Das Aufschreiben schlechter Werte baut Illusionen ab und stärkt die Resilienz für morgen.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Kann ich alle Werte auch nur mit Notion oder Excel verwalten?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Digitale Tools verleiten zu Ablenkungen (Social Media, E-Mails). Das handschriftliche Notieren im Tagebuch fördert die kognitive Klarheit und sorgt für tiefere Einsichten.
+    </p>
+  </details>
+</div>
 <strong></strong>

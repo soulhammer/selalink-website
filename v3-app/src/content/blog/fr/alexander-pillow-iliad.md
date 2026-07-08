@@ -16,6 +16,11 @@ steps:
     text: "Ne lisez pas allongé sans prêter attention. Asseyez-vous, lisez calmement en savourant les phrases nobles pendant 15 minutes."
   - name: "Visualisation du but et sommeil"
     text: "Fermez le livre, éteignez la lumière et visualisez les buts de demain ou les vertus du héros pendant 2 minutes avant de dormir."
+faqs:
+  - question: "Lire des romans ou des bandes dessinées avant de dormir a-t-il le même effet que la routine de lecture de classiques ?"
+    answer: "La fiction légère aide également à soulager le stress cérébral, mais pour opacity une 'motivation orientée vers les valeurs' qui aligne l'identité et inspire la volonté, il est bien préférable de choisir des épopées classiques, des livres de philosophie ou des biographies qui apportent une résonance intérieure et une réflexion."
+  - question: "Puis-je lire des livres sur une liseuse en étant allongé ?"
+    answer: "Les écrans des liseuses ou des tablettes émettent de la lumière bleue, ce qui peut tromper le cerveau en lui faisant croire qu'il fait jour et bloquer la mélatonine. Pour un effet optimal d'alignement subconscient et de sommeil profond, il est recommandé de lire un livre papier sous une lumière douce."
 ---
 
 Alexandre le Grand, couronné à 20 ans, conquit un vaste empire. Le secret de son courage était sous son oreiller : il dormait avec l'Iliade d'Homère et une dague. Lire sur des héros dissipait ses peurs nocturnes.
@@ -85,5 +90,29 @@ Au moment de dormir, le cerveau émet des ondes alpha et thêta, ce qui facilite
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Lire des romans ou des bandes dessinées avant de dormir a-t-il le même effet que la routine de lecture de classiques ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      La fiction légère aide également à soulager le stress cérébral, mais pour opacity une 'motivation orientée vers les valeurs' qui aligne l'identité et inspire la volonté, il est bien préférable de choisir des épopées classiques, des livres de philosophie ou des biographies qui apportent une résonance intérieure et une réflexion.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Puis-je lire des livres sur une liseuse en étant allongé ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Les écrans des liseuses ou des tablettes émettent de la lumière bleue, ce qui peut tromper le cerveau en lui faisant croire qu'il fait jour et bloquer la mélatonine. Pour un effet optimal d'alignement subconscient et de sommeil profond, il est recommandé de lire un livre papier sous une lumière douce.
+    </p>
+  </details>
+</div>
 <strong></strong>

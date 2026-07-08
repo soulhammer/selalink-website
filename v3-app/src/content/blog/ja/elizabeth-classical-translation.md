@@ -16,6 +16,11 @@ steps:
     text: "インターネット翻訳機を一切オフにし、紙の辞書や電子辞書だけを使用して単語の語源を確認しながら、ノートに直接手書きで文章を翻訳していきます。"
   - name: "論理の比較と推敲"
     text: "翻訳し終えた文章を読み返しながら、元のテキストの論理構造が完全に翻訳先の言語の文脈としてつながっているかを比較し、最も自然で強固な文脈に整える校正作業を行い、朝の分析脳の活性化を完了します。"
+faqs:
+  - question: "人工知能翻訳機を使ってテキストをすぐに合わせることは効果がありませんか？"
+    answer: "はい、ボタン一つで結果を得ることは、脳の認知ネットワークを刺激しません。多少手間がかかり遅くても、辞書を直接引いて文章の骨組みを合わせる「頭を使う抵抗プロセス」を経て初めて、前頭葉皮質のシナプスが活発に発達します。"
+  - question: "ギリシャ語やラテン語のような古典語だけを勉強しなければ効果はありませんか？"
+    answer: "いいえ。英語、中国語、ドイツ語など、文章構成の論理体系が異なるあらゆる種類の現代外国語のテキストも素晴らしい訓練ツールになります。重要なのは、日常の会話体ではなく、密度の高い格調ある哲学やコラムなどのテキストを精密に織るように翻訳することです。"
 ---
 
 16世紀イングランドの輝かしい黄金期を導き、弱小国であったイングランドを世界の海洋大国へと生まれ変わらせたエリザベス1世女王。彼女は常に反乱の陰謀や宗教紛争、スペイン無敵艦隊との戦争という重圧の中に生きていました。 👑
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>人工知能翻訳機を使ってテキストをすぐに合わせることは効果がありませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい、ボタン一つで結果を得ることは、脳の認知ネットワークを刺激しません。多少手間がかかり遅くても、辞書を直接引いて文章の骨組みを合わせる「頭を使う抵抗プロセス」を経て初めて、前頭葉皮質のシナプスが活発に発達します。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>ギリシャ語やラテン語のような古典語だけを勉強しなければ効果はありませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      いいえ。英語、中国語、ドイツ語など、文章構成の論理体系が異なるあらゆる種類の現代外国語のテキストも素晴らしい訓練ツールになります。重要なのは、日常の会話体ではなく、密度の高い格調ある哲学やコラムなどのテキストを精密に織るように翻訳することです。
+    </p>
+  </details>
+</div>
 <strong></strong>

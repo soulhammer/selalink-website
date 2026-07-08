@@ -163,6 +163,56 @@
       }
     ],
     "pubDate": "2026-07-02",
-    "updatedDate": "2026-07-02"
+    "updatedDate": "2026-07-02",
+    "faqs": [
+      {
+        "question": {
+          "ko": "스마트폰 게임이나 영상 시청도 인지적 이완에 도움이 되나요?",
+          "en": "Do smartphone games or watching videos help with cognitive relaxation?",
+          "ja": "スマートフォンゲームや動画視聴も認知的な弛緩に役立ちますか？",
+          "zh": "玩手机游戏或刷视频也有助于认知放松吗？",
+          "es": "¿Los juegos de teléfonos o ver videos ayudan a la relajación cognitiva?",
+          "fr": "Les jeux sur smartphone ou le visionnage de vidéos aident-ils à la relaxation cognitive ?",
+          "de": "Helfen Smartphone-Spiele oder Videos beim kognitiven Abschalten?",
+          "pt": "Jogos de celular ou vídeos ajudam no relaxamento cognitivo?",
+          "id": "Apakah bermain game di ponsel atau menonton video membantu relaksasi kognitif?"
+        },
+        "answer": {
+          "ko": "그렇지 않습니다. 디지털 화면의 블루라이트와 자극적인 정보 피드는 뇌를 쉬게 하는 것이 아니라 각성 상태를 유지하여 수면 호르몬인 멜라토닌 분비를 방해합니다. 인지적 이완을 위해서는 반드시 아날로그 도구나 사물을 활용해야 합니다.",
+          "en": "No. Blue light and stimulating information feeds from digital screens keep the brain awake rather than letting it rest, disrupting the secretion of the sleep hormone melatonin. For cognitive relaxation, analog tools or physical objects must be used.",
+          "ja": "いいえ、そうではありません。デジタル画面のブルーライトと刺激的な情報のフィードは、脳を休ませるのではなく覚醒状態を維持し、睡眠ホルモンであるメラトニンの分泌を妨げます。認知的な弛緩のためには、必ずアナログの道具や物体を活用する必要があります。",
+          "zh": "并非如此。数码屏幕释放的蓝光和刺激性的信息流不会让大脑得到休息，反而会让其保持清醒状态，从而干扰睡眠激素褪黑素的分泌。若想达到认知放松，必须使用模拟（实体）工具或物品。",
+          "es": "No. La luz azul y los estímulos de las pantallas mantienen al cerebro despierto en lugar de dejarlo descansar, bloqueando la melatonina. Para la relajación cognitiva, se deben usar herramientas analógicas.",
+          "fr": "Non. La lumière bleue et les flux d'informations des écrans maintiennent le cerveau éveillé au lieu de le reposer, bloquant la mélatonine. Pour la relaxation cognitive, vous devez utiliser des outils analogiques.",
+          "de": "Nein. Blaulicht und Reize von Bildschirmen halten das Gehirn wach und stören die Melatoninausschüttung. Verwenden Sie stattdessen analoge Hobbys.",
+          "pt": "Não. A luz azul e o fluxo de informações das telas mantêm o cérebro em estado de alerta em vez de descansá-lo, bloqueando la melatonina. Para relaxar a mente, use ferramentas analógicas.",
+          "id": "Tidak. Cahaya biru dan umpan informasi yang merangsang dari layar digital membuat otak tetap terjaga alih-alih mengistirahatkannya, mengganggu sekresi hormon melatonin. Untuk relaksasi kognitif, alat analog atau objek fisik wajib digunakan."
+        }
+      },
+      {
+        "question": {
+          "ko": "매일 밤 30분이 너무 길게 느껴질 때는 어떻게 하나요?",
+          "en": "What should I do if 30 minutes every night feels too long?",
+          "ja": "毎晩30分が長すぎると感じるときはどうしますか？",
+          "zh": "如果觉得每天晚上三十分钟太长了该怎么办？",
+          "es": "¿Qué hago si 30 minutos cada noche me parece demasiado tiempo?",
+          "fr": "Que faire si 30 minutes chaque soir me semblent trop longues ?",
+          "de": "Was kann ich tun, wenn mir 30 Minuten jeden Abend zu lang vorkommen?",
+          "pt": "O que fazer se 30 minutos todas as noites parecerem tempo demais?",
+          "id": "Apa yang harus saya lakukan jika 30 menit setiap malam terasa terlalu lama?"
+        },
+        "answer": {
+          "ko": "시간이 부족하다면 단 10분만이라도 좋습니다. 노트북을 덮고 좋아하는 드로잉 북에 낙서를 하거나 가벼운 아날로그 일기를 쓰는 등의 동작을 통해 뇌에 '일과가 끝났다'는 안전 신호만 확실히 피드백해 주어도 효과가 있습니다.",
+          "en": "If time is short, even 10 minutes is fine. Closing your laptop and doing actions like doodling in a drawing book or writing a brief analog diary still works effectively by providing a clear safety feedback signal to the brain that 'the workday is over'.",
+          "ja": "時間が足りなければ、たった10分でも構いません。ノートパソコンを閉じ、お気に入りのドローイングブックに落書きをしたり、軽いアナログ日記を書いたりする動作を通じて、脳に「一日が終わった」という安全信号を確実にフィードバックするだけでも効果があります。",
+          "zh": "如果时间不够，哪怕只有十分钟也行。合上电脑，在画册上涂鸦或者写几行手写日记，通过这些小动作给大脑发出“今天工作已结束”的明确安全信号，同样大有裨益。",
+          "es": "Si le falta tiempo, incluso 10 minutos bastan. Cerrar la laptop y hacer garabatos o escribir un breve diario analógico ayuda enviando una señal clara de que 'el día terminó'.",
+          "fr": "Si le temps manque, 10 minutes suffisent. Fermer l'ordinateur et griffonner ou écrire un court journal analogique aide en envoyant un signal clair que la journée est finie.",
+          "de": "Sollte die Zeit knapp sein, reichen auch 10 Minuten. Laptop schließen, kritzeln oder ein analoges Tagebuch führen, um dem Gehirn das Signal „Feierabend“ zu senden.",
+          "pt": "Se faltar tempo, até 10 minutos são suficientes. Fechar o laptop e rabiscar ou escrever um diário analógico ajuda ao enviar um sinal claro de que 'o dia de trabalho acabou'.",
+          "id": "Jika waktu mepet, bahkan 10 menit saja sudah cukup. Menutup laptop dan mencorat-coret di buku gambar atau menulis buku harian analog singkat tetap efektif memberikan sinyal aman ke otak bahwa 'hari kerja telah selesai'."
+        }
+      }
+    ]
   }
 }

@@ -16,6 +16,11 @@ steps:
     text: "Abra sua agenda e encaixe as subtarefas em blocos rígidos de 5, 15 ou 30 minutos, sem deixar espaços vazios."
   - name: "Execução hiperfocada com cronômetro"
     text: "Ligue o cronômetro, bloqueie alertas e trabalhe com intensidade máxima na subtarefa até o alarme tocar, mudando de atividade em seguida."
+faqs:
+  - question: "Organizar a agenda em blocos de 5 minutos não causa estresse excessivo?"
+    answer: "Para iniciantes, preencher todo o cronograma com blocos de 5 minutos gera sobrecarga cognitiva. Recomenda-se começar com blocos de 15 ou 30 minutos para apenas 1 ou 2 horas de foco por dia."
+  - question: "E se eu não conseguir terminar a tarefa dentro do bloco alocado?"
+    answer: "Mude para o próximo bloco imediatamente. Aloque o trabalho pendente em um 'bloco de folga' (Buffer Block) no final da tarde, evitando que um atraso estrague todo o dia."
 ---
 
 Elon Musk lidera a Tesla e a SpaceX trabalhando cerca de 100 horas semanais. O segredo de sua capacidade produtiva é planejar o dia em blocos de 5 minutos. Ao iniciar um bloco, ele silencia todas as notificações e foca 100% de sua energia na tarefa.
@@ -85,5 +90,29 @@ A Lei de Parkinson afirma que uma tarefa se expande para preencher todo o tempo 
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Organizar a agenda em blocos de 5 minutos não causa estresse excessivo?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Para iniciantes, preencher todo o cronograma com blocos de 5 minutos gera sobrecarga cognitiva. Recomenda-se começar com blocos de 15 ou 30 minutos para apenas 1 ou 2 horas de foco por dia.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>E se eu não conseguir terminar a tarefa dentro do bloco alocado?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Mude para o próximo bloco imediatamente. Aloque o trabalho pendente em um 'bloco de folga' (Buffer Block) no final da tarde, evitando que um atraso estrague todo o dia.
+    </p>
+  </details>
+</div>
 <strong></strong>

@@ -16,6 +16,11 @@ steps:
     text: "Ulangi gerakan push-up 10 kali, squat 15 kali, dan plank 30 detik sebanyak 3 set. Mengontraksi otot tubuh membantu pelepasan dopamin."
   - name: "Komitmen Kendali Penuh Hari Ini"
     text: "Setelah olahraga, tentukan 1 atau 2 prioritas yang harus dicapai hari ini. Tanamkan kendali penuh atas hidup Anda sendiri."
+faqs:
+  - question: "Haruskah saya bangun jam 5 pagi dan berolahraga meskipun waktu tidur kurang?"
+    answer: "Pada hari-hari kelelahan fisik ekstrem, lebih baik ganti latihan intens dengan peregangan ringan dan napas dalam selama 5-10 menit. Esensi rutinitas Mandela bukan menyiksa tubuh, tapi memulai inisiatif hari dengan 'kehendak saya'."
+  - question: "Bagaimana pemula dengan kekuatan fisik sangat rendah sebaiknya memulai?"
+    answer: "Mulailah dengan intensitas yang sesuai, seperti push-up di dinding atau berlutut, dan squat dengan bantuan kursi. Cukup 5 menit sehari, satu set, sudah cukup mengaktifkan rutinitas pagi positif otak."
 ---
 
 Nelson Mandela, presiden kulit hitam pertama Afrika Selatan, dipenjara selama 27 tahun. Penyelamat hidupnya di dalam sel adalah olahraga pukul 05.00 pagi: lari di tempat, push-up, dan sit-up. Rutinitas pagi ini menjaga harga dirinya.
@@ -85,5 +90,29 @@ Ketika lingkungan luar membatasi kebebasan, otak akan mengalami ‘ketidakberday
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Haruskah saya bangun jam 5 pagi dan berolahraga meskipun waktu tidur kurang?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Pada hari-hari kelelahan fisik ekstrem, lebih baik ganti latihan intens dengan peregangan ringan dan napas dalam selama 5-10 menit. Esensi rutinitas Mandela bukan menyiksa tubuh, tapi memulai inisiatif hari dengan 'kehendak saya'.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Bagaimana pemula dengan kekuatan fisik sangat rendah sebaiknya memulai?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Mulailah dengan intensitas yang sesuai, seperti push-up di dinding atau berlutut, dan squat dengan bantuan kursi. Cukup 5 menit sehari, satu set, sudah cukup mengaktifkan rutinitas pagi positif otak.
+    </p>
+  </details>
+</div>
 <strong></strong>

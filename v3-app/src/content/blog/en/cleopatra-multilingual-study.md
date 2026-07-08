@@ -16,6 +16,11 @@ steps:
     text: "Do not just look at sentences with your eyes. Move your mouth out loud for 15 minutes, mimicking the native speaker's accent. This stimulates Broca's area and the motor cortex."
   - name: "15-Minute Dictation or Writing"
     text: "Based on the expressions read today, formulate 5 or 6 sentences about your daily life or business emails, and write them by hand. This finally activates and fixes the brain circuits."
+faqs:
+  - question: "Does passive input like just watching video lectures fail to increase neural density in the language area?"
+    answer: "Yes, simply watching and listening only stimulates passive cognitive regions. Brain plasticity increases and synaptic networks activate only when you stimulate vocal cords and oral muscles through loud reading and actively construct sentences yourself like Cleopatra."
+  - question: "Does studying two languages simultaneously cause cognitive overload?"
+    answer: "In the beginner stage, adapting to one language first is desirable. However, if the foundation is somewhat set, alternating between the grammar structures of two languages dramatically develops the cognitive control of the prefrontal cortex."
 ---
 
 Cleopatra VII captivated Caesar and Antony, the great heroes of Rome. While popular media depicts her with beauty, actual history records her as an educated and political strategist. 👑
@@ -89,5 +94,29 @@ Studies show that brains that steadily study multilingualism have thicker gray m
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Does passive input like just watching video lectures fail to increase neural density in the language area?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, simply watching and listening only stimulates passive cognitive regions. Brain plasticity increases and synaptic networks activate only when you stimulate vocal cords and oral muscles through loud reading and actively construct sentences yourself like Cleopatra.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Does studying two languages simultaneously cause cognitive overload?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      In the beginner stage, adapting to one language first is desirable. However, if the foundation is somewhat set, alternating between the grammar structures of two languages dramatically develops the cognitive control of the prefrontal cortex.
+    </p>
+  </details>
+</div>
 <strong></strong>

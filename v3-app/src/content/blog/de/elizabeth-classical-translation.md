@@ -16,6 +16,11 @@ steps:
     text: "Schalten Sie Online-Übersetzer aus. Nutzen Sie nur ein Wörterbuch, suchen Sie nach den Wortursprüngen und übersetzen Sie die Sätze per Hand."
   - name: "Logik abgleichen und verfeinern"
     text: "Vergleichen Sie Ihre Übersetzung mit dem Originaltext. Prüfen Sie, ob der logische Gehalt korrekt und der Satzfluss natürlich ist."
+faqs:
+  - question: "Gibt es keinen Nutzen, wenn man Texte sofort mit KI-Übersetzern abgleicht?"
+    answer: "Ja, Ergebnisse per Knopfdruck stimulieren das Gehirn nicht. Synapsen im Kortex entwickeln sich nur, wenn Sie den „Widerstandsprozess des Denkens“ durchlaufen, also selbst im Wörterbuch suchen und Sätze bauen."
+  - question: "Tritt der Effekt nur beim Erlernen klassischer Sprachen wie Griechisch und Latein ein?"
+    answer: "Nein. Moderne Fremdsprachen (Englisch, Chinesisch, Deutsch usw.) mit anderen Satzstrukturen eignen sich ebenso. Wichtig ist, dichte und formelle Texte wie Philosophie oder Kolumnen präzise zu übersetzen, nicht Umgangssprache."
 ---
 
 Königin Elisabeth I. führte England durch stürmische Zeiten. Um ihren Verstand zu schärfen, übersetzte sie jeden Morgen eine Stunde lang lateinische Klassiker von Seneca oder Cicero ins Englische. Diese anspruchsvolle Arbeit schützte sie vor emotionalen Fehlentscheidungen.
@@ -85,5 +90,29 @@ Heute stellt BuildSelf die Wissenschaft hinter Elisabeths Übersetzungs-Routine 
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Gibt es keinen Nutzen, wenn man Texte sofort mit KI-Übersetzern abgleicht?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ja, Ergebnisse per Knopfdruck stimulieren das Gehirn nicht. Synapsen im Kortex entwickeln sich nur, wenn Sie den „Widerstandsprozess des Denkens“ durchlaufen, also selbst im Wörterbuch suchen und Sätze bauen.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Tritt der Effekt nur beim Erlernen klassischer Sprachen wie Griechisch und Latein ein?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Nein. Moderne Fremdsprachen (Englisch, Chinesisch, Deutsch usw.) mit anderen Satzstrukturen eignen sich ebenso. Wichtig ist, dichte und formelle Texte wie Philosophie oder Kolumnen präzise zu übersetzen, nicht Umgangssprache.
+    </p>
+  </details>
+</div>
 <strong></strong>

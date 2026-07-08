@@ -16,6 +16,11 @@ steps:
     text: "Prepare una actividad analógica y manual que muestre resultados inmediatos: puzles, dibujo, limpiar un instrumento, etc."
   - name: "30 minutos de concentración sin meta"
     text: "Dedique 30 minutos a la tarea sin buscar ser productivo. Concéntrese en texturas, colores y formas, respirando con calma."
+faqs:
+  - question: "¿Los juegos de teléfonos o ver videos ayudan a la relajación cognitiva?"
+    answer: "No. La luz azul y los estímulos de las pantallas mantienen al cerebro despierto en lugar de dejarlo descansar, bloqueando la melatonina. Para la relajación cognitiva, se deben usar herramientas analógicas."
+  - question: "¿Qué hago si 30 minutos cada noche me parece demasiado tiempo?"
+    answer: "Si le falta tiempo, incluso 10 minutos bastan. Cerrar la laptop y hacer garabatos o escribir un breve diario analógico ayuda enviando una señal clara de que 'el día terminó'."
 ---
 
 Franklin D. Roosevelt, presidente de EE. UU. durante la Segunda Guerra Mundial, sufría polio y gran estrés. Su secreto era ordenar sellos antes de dormir, apartando todo documento oficial. Esta rutina purificaba su cerebro del ruido de la guerra.
@@ -85,5 +90,29 @@ El cerebro consume gran energía con tareas complejas. Las aficiones táctiles y
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Los juegos de teléfonos o ver videos ayudan a la relajación cognitiva?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No. La luz azul y los estímulos de las pantallas mantienen al cerebro despierto en lugar de dejarlo descansar, bloqueando la melatonina. Para la relajación cognitiva, se deben usar herramientas analógicas.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Qué hago si 30 minutos cada noche me parece demasiado tiempo?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Si le falta tiempo, incluso 10 minutos bastan. Cerrar la laptop y hacer garabatos o escribir un breve diario analógico ayuda enviando una señal clara de que 'el día terminó'.
+    </p>
+  </details>
+</div>
 <strong></strong>

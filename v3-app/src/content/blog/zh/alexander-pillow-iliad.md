@@ -16,6 +16,11 @@ steps:
     text: "不是躺着随便翻看，而是以端正的姿势坐好，品味书中高尚的语句，深入思考地精读15分钟。保持高度专注，让文字浸透到脑细胞中。"
   - name: "印刻愿景并就寝"
     text: "把读完的书放在床头，闭上眼睛，将今天读到的英雄形象或自己明天的目标可视化1-2分钟，然后入睡。引导潜意识在整夜都朝这个方向活动。"
+faqs:
+  - question: "睡前阅读小说或漫画书，是否能达到与远景经典阅读法相同的效果？"
+    answer: "轻小说或漫画确实能起到缓解大脑压力的放松作用，但若想达到像亚历山大惯例那样重塑自我认知、激发执行意志力的“价值导向型激励”效果，最好还是选择能带来心灵震撼与深度反思的经典史诗、哲学著作或伟人传记。"
+  - question: "可以躺着看电子书吗？"
+    answer: "电子阅读器或平板电脑屏幕发出的蓝光会误导大脑以为现在是白天，进而抑制褪黑素的分泌。为了达到潜意识重构与深度睡眠的最佳效果，建议在温暖柔和的灯光下，亲手翻阅纸质书籍进行静心正读。"
 ---
 
 二十岁即位，建立起西起马其顿、东至印度河的辽阔帝国的征服君王亚历山大大帝。他以卓越的智谋和勇猛指挥了无数战役，但同样承受着残酷的心理紧张。 ⚔️
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>睡前阅读小说或漫画书，是否能达到与远景经典阅读法相同的效果？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      轻小说或漫画确实能起到缓解大脑压力的放松作用，但若想达到像亚历山大惯例那样重塑自我认知、激发执行意志力的“价值导向型激励”效果，最好还是选择能带来心灵震撼与深度反思的经典史诗、哲学著作或伟人传记。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>可以躺着看电子书吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      电子阅读器或平板电脑屏幕发出的蓝光会误导大脑以为现在是白天，进而抑制褪黑素的分泌。为了达到潜意识重构与深度睡眠的最佳效果，建议在温暖柔和的灯光下，亲手翻阅纸质书籍进行静心正读。
+    </p>
+  </details>
+</div>
 <strong></strong>

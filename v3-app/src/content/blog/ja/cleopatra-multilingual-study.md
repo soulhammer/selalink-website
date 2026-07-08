@@ -16,6 +16,11 @@ steps:
     text: "選択した文章を目で見るだけでなく、ネイティブのイントネーションを模倣して、大きな声で実際に口を動かして15分間読みます。ブローカ野と運動野を刺激する行動です。"
   - name: "15分間の翻訳機なしの実践作文"
     text: "今日読んだ表現をベースに、自分の日常生活やビジネスメールの文章を自分で考えて、手書きで直接5〜6文を作成し復習します。脳の回路を最終的に活性化し定着させる作用です。"
+faqs:
+  - question: "動画講義をただ見ているだけの受動的なインプットは、言語脳領域の神経密度を高めることはできませんか？"
+    answer: "はい、単に見たり聞いたりする行動は、受動的な認知領域を刺激するだけです。クレオパトラのように直接音読することで声帯や口腔の筋肉を刺激し、積極的に自ら文章を構成する時に初めて脳細胞のシナプス接続網が活性化し、脳の可塑性を大幅に高めます。"
+  - question: "同時に二つの言語を勉強することは認知的な過負荷を与えませんか？"
+    answer: "初心者の段階では一つの言語にまず適応することが望ましいですが、ある程度基礎が確立された状態であれば、二つの言語の文法構造を交互に入れ替える訓練自体が前頭前野の認知制御能力を飛躍的に発達させます。"
 ---
 
 エジプト・プトレマイオス朝の最後の女王であり、ローマ最高の名将カエサルとアントニウスを魅了したクレオパトラ7世。大衆メディアはしばしば彼女を美貌で相手を惑わせた女性として描きますが、実際の歴史におけるクレオパトラは、国の独立を守るために奮闘した、極めて高い教養と政治力を備えた不世出の戦略家でした。 👑
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>動画講義をただ見ているだけの受動的なインプットは、言語脳領域の神経密度を高めることはできませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい、単に見たり聞いたりする行動は、受動的な認知領域を刺激するだけです。クレオパトラのように直接音読することで声帯や口腔の筋肉を刺激し、積極的に自ら文章を構成する時に初めて脳細胞のシナプス接続網が活性化し、脳の可塑性を大幅に高めます。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>同時に二つの言語を勉強することは認知的な過負荷を与えませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      初心者の段階では一つの言語にまず適応することが望ましいですが、ある程度基礎が確立された状態であれば、二つの言語の文法構造を交互に入れ替える訓練自体が前頭前野の認知制御能力を飛躍的に発達させます。
+    </p>
+  </details>
+</div>
 <strong></strong>

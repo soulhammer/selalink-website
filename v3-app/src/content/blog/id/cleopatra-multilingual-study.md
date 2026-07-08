@@ -16,6 +16,11 @@ steps:
     text: "Lapalkan teks secara lantang selama 15 menit dengan meniru pelafalan aslinya. Langkah ini melatih area Broca dan motorik otak."
   - name: "Menulis Bebas 15 Menit Tanpa Penerjemah"
     text: "Tulis langsung 5-6 kalimat sederhana tentang keseharian atau urusan kerja berdasarkan materi hari ini. Ini melatih dan mengunci memori otak."
+faqs:
+  - question: "Apakah input pasif seperti hanya menonton video kuliah gagal meningkatkan densitas saraf di area bahasa?"
+    answer: "Ya, hanya menonton dan mendengarkan hanya menstimulasi area kognitif pasif. Plastisitas otak dan jaringan sinapsis aktif hanya ketika Anda menstimulasi pita suara melalui membaca keras-keras dan aktif menyusun kalimat sendiri seperti Cleopatra."
+  - question: "Apakah mempelajari dua bahasa sekaligus menyebabkan kelebihan beban kognitif?"
+    answer: "Pada tingkat pemula, beradaptasi dengan satu bahasa terlebih dahulu lebih baik. Namun jika dasar sudah terbentuk, bergantian struktur tata bahasa dari dua bahasa secara dramatis melatih kemampuan kontrol kognitif korteks prefrontal."
 ---
 
 Ratu Cleopatra VII menguasai minimal 9 bahasa, termasuk Mesir, Yunani, Latin, dan Ibrani. Setiap sore ia belajar bahasa agar dapat berdiplomasi langsung tanpa penerjemah.
@@ -85,5 +90,29 @@ Proses berbicara dan menerjemahkan bahasa asing melatih area Wernicke dan Broca 
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Apakah input pasif seperti hanya menonton video kuliah gagal meningkatkan densitas saraf di area bahasa?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ya, hanya menonton dan mendengarkan hanya menstimulasi area kognitif pasif. Plastisitas otak dan jaringan sinapsis aktif hanya ketika Anda menstimulasi pita suara melalui membaca keras-keras dan aktif menyusun kalimat sendiri seperti Cleopatra.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Apakah mempelajari dua bahasa sekaligus menyebabkan kelebihan beban kognitif?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Pada tingkat pemula, beradaptasi dengan satu bahasa terlebih dahulu lebih baik. Namun jika dasar sudah terbentuk, bergantian struktur tata bahasa dari dua bahasa secara dramatis melatih kemampuan kontrol kognitif korteks prefrontal.
+    </p>
+  </details>
+</div>
 <strong></strong>

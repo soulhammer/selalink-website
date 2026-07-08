@@ -16,6 +16,11 @@ steps:
     text: "Utilisez la dictée vocale de votre téléphone plutôt que d'écrire. Exprimer ses idées au rythme de la pensée évite les blocages."
   - name: "Blocs de temps et alternance rapide"
     text: "Allouez 10 minutes par tâche. Dictez avec un focus total et changez à la fin du temps. Complétez d'abord les brouillons et révisez-les à la fin."
+faqs:
+  - question: "En quoi la dictée simultanée est-elle différente du multitâche classique ?"
+    answer: "Le multitâche éparpille l'attention en même temps, comme envoyer un message en écrivant un e-mail. La dictée simultanée utilise une structure de focus séquentiel : se concentrer sur un scribe à la fois, puis changer."
+  - question: "Puis-je pratiquer cette méthode en tapant au clavier au lieu de dicter ?"
+    answer: "Taper au clavier est plus lent que la vitesse cognitive, ce qui crée des blocages. Il est préférable d'utiliser la dictée vocale pour jeter vos idées rapidement, puis de les éditer ensuite."
 ---
 
 Jules César, héros de la République romaine, avait un secret pour gagner du temps : il dictait des lettres et des ordres militaires à 3 ou 4 secrétaires à la fois. Ce traitement parallèle était la source de sa grande administration.
@@ -85,5 +90,29 @@ La mémoire de travail est le 'banc' où le cerveau retient l'information tempor
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>En quoi la dictée simultanée est-elle différente du multitâche classique ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Le multitâche éparpille l'attention en même temps, comme envoyer un message en écrivant un e-mail. La dictée simultanée utilise une structure de focus séquentiel : se concentrer sur un scribe à la fois, puis changer.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Puis-je pratiquer cette méthode en tapant au clavier au lieu de dicter ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Taper au clavier est plus lent que la vitesse cognitive, ce qui crée des blocages. Il est préférable d'utiliser la dictée vocale pour jeter vos idées rapidement, puis de les éditer ensuite.
+    </p>
+  </details>
+</div>
 <strong></strong>

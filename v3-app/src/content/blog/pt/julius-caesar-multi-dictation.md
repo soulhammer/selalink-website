@@ -16,6 +16,11 @@ steps:
     text: "Use o ditado de voz do celular para gravar os pontos principais de cada tarefa. Alinhar o registro ao ritmo do pensamento evita travamentos."
   - name: "Blocos de tempo e alternância rápida"
     text: "Reserve 10 minutos para cada tarefa. Esboce os textos com foco total e mude assim que o tempo acabar. Edite e revise tudo apenas ao final."
+faqs:
+  - question: "Como a ditado simultâneo difere da multitarefa geral?"
+    answer: "A multitarefa dispersa a atenção ao mesmo tempo, como digitar e-mails enquanto atende chamadas. O ditado simultâneo usa um foco 'monotarefa sequencial': foca 100% em um escrivão por vez e depois muda."
+  - question: "Posso praticar este método digitando em vez de ditar?"
+    answer: "Digitar é mais lento que a velocidade cognitiva, o que cria gargalos. É melhor usar o ditado por voz para registrar as ideias de forma fluida e editá-las depois para não sobrecarregar a mente."
 ---
 
 Júlio César, líder militar e político romano, viajava sempre acompanhado de 3 ou 4 secretários. Ele ditava mensagens de temas totalmente distintos ao mesmo tempo, alternando as frases entre eles. Essa velocidade era a base de sua gestão.
@@ -85,5 +90,29 @@ A memória de trabalho funciona como um 'espaço temporário' no cérebro. O há
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Como a ditado simultâneo difere da multitarefa geral?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      A multitarefa dispersa a atenção ao mesmo tempo, como digitar e-mails enquanto atende chamadas. O ditado simultâneo usa um foco 'monotarefa sequencial': foca 100% em um escrivão por vez e depois muda.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Posso praticar este método digitando em vez de ditar?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Digitar é mais lento que a velocidade cognitiva, o que cria gargalos. É melhor usar o ditado por voz para registrar as ideias de forma fluida e editá-las depois para não sobrecarregar a mente.
+    </p>
+  </details>
+</div>
 <strong></strong>

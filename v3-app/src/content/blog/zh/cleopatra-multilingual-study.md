@@ -16,6 +16,11 @@ steps:
     text: "对选好的语句不只用眼睛看，而是模仿原版发音大声动嘴朗读15分钟。这是刺激布罗卡区与运动皮层的核心步骤。"
   - name: "15分钟脱离翻译器的实战写作"
     text: "根据今天读到的表达方式，结合自己的日常生活或商务邮件内容独立思考，亲自动手写下五六个句子并进行复习。这是激活和巩固大脑回路的最终步骤。"
+faqs:
+  - question: "仅仅静静观看视频网课这类被动输入，是否无法提高语言脑区的神经元密度？"
+    answer: "是的。单纯的观看和倾听只会刺激被动的认知区域。只有像克利奥帕特拉那样，通过亲自朗读来刺激声带和口腔肌肉，并主动自己组织句子，脑细胞的突触连接网络才会激活，从而极大提高大脑的可塑性。"
+  - question: "同时学习两种语言是否会导致认知超载？"
+    answer: "在初学阶段，最好先专注适应一种语言。但是，如果已经具备了一定的基础，交替变换两种语言的语法结构这一训练本身，就能使前额叶皮层的认知控制能力得到飞跃性的提升。"
 ---
 
 埃及托勒密王朝的末代女王，令罗马雄鹰凯撒与安东尼折服的克利奥帕特拉七世。大众媒介常将她描绘为以美色诱人的妖后，但真实历史中的克利奥帕特拉是拥有一流学识与政治才能的战略家。 👑
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>仅仅静静观看视频网课这类被动输入，是否无法提高语言脑区的神经元密度？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      是的。单纯的观看和倾听只会刺激被动的认知区域。只有像克利奥帕特拉那样，通过亲自朗读来刺激声带和口腔肌肉，并主动自己组织句子，脑细胞的突触连接网络才会激活，从而极大提高大脑的可塑性。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>同时学习两种语言是否会导致认知超载？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      在初学阶段，最好先专注适应一种语言。但是，如果已经具备了一定的基础，交替变换两种语言的语法结构这一训练本身，就能使前额叶皮层的认知控制能力得到飞跃性的提升。
+    </p>
+  </details>
+</div>
 <strong></strong>

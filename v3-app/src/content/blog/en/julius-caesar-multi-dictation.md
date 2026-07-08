@@ -16,6 +16,11 @@ steps:
     text: "Use the smartphone's voice recognition memo feature instead of typing to quickly dictate the core thoughts and structures. Matching text input with the speed of logical development prevents bottlenecks."
   - name: "Time Blocking and Inter-Task Switching"
     text: "Set a 10-minute timer for each task, dictate with extreme focus, and immediately move to the next task when the time is up. Build multiple outline documents in a fast flow first, and then compile and edit them at the end."
+faqs:
+  - question: "How is simultaneous dictation different from general multitasking?"
+    answer: "General multitasking disperses attention across multiple tasks at the same time, like sending messages while writing an email, causing delays. In contrast, simultaneous dictation has a structure of 'sequential single focus,' where you focus intensely on only one scribe at a time to write down, then sequentially and deliberately transition cognition to the next subject."
+  - question: "Can I practice this method by typing instead of dictating?"
+    answer: "Since typing speed is slower than the cognitive speed of expanding thoughts, bottlenecks are highly likely to occur. It is much more advantageous to pour out drafts through speech following the flow of thoughts using voice recognition memo tools, and then edit them in batches later to reduce working memory overload."
 ---
 
 Julius Caesar, the hero who expanded the territory of the late Roman Republic and laid the foundation of the empire. He had his own superhuman time-saving secret.
@@ -89,5 +94,29 @@ Caesar's simultaneous dictation requires high attention control to activate the 
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>How is simultaneous dictation different from general multitasking?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      General multitasking disperses attention across multiple tasks at the same time, like sending messages while writing an email, causing delays. In contrast, simultaneous dictation has a structure of 'sequential single focus,' where you focus intensely on only one scribe at a time to write down, then sequentially and deliberately transition cognition to the next subject.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can I practice this method by typing instead of dictating?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Since typing speed is slower than the cognitive speed of expanding thoughts, bottlenecks are highly likely to occur. It is much more advantageous to pour out drafts through speech following the flow of thoughts using voice recognition memo tools, and then edit them in batches later to reduce working memory overload.
+    </p>
+  </details>
+</div>
 <strong></strong>

@@ -163,6 +163,56 @@
       }
     ],
     "pubDate": "2026-03-03",
-    "updatedDate": "2026-03-03"
+    "updatedDate": "2026-03-03",
+    "faqs": [
+      {
+        "question": {
+          "ko": "동영상 강의를 가만히 보고만 있는 수동적 인풋은 언어 뇌 영역의 신경 밀도를 높이지 못하나요?",
+          "en": "Does passive input like just watching video lectures fail to increase neural density in the language area?",
+          "ja": "動画講義をただ見ているだけの受動的なインプットは、言語脳領域の神経密度を高めることはできませんか？",
+          "zh": "仅仅静静观看视频网课这类被动输入，是否无法提高语言脑区的神经元密度？",
+          "es": "¿La entrada pasiva como mirar conferencias en video no logra aumentar la densidad neuronal en el área del lenguaje?",
+          "fr": "L'apport passif comme regarder des conférences vidéo ne parviendra-t-il pas à augmenter la densité neuronale de l'aire du langage ?",
+          "de": "Erhöht passiver Input wie das reine Anschauen von Videovorlesungen nicht die neuronale Dichte im Sprachzentrum?",
+          "pt": "O input passivo, como apenas assistir a palestras em vídeo, falha em aumentar a densidade neural na área de linguagem?",
+          "id": "Apakah input pasif seperti hanya menonton video kuliah gagal meningkatkan densitas saraf di area bahasa?"
+        },
+        "answer": {
+          "ko": "그렇습니다. 단순히 보고 듣기만 하는 행동은 수동적 인지 영역만 자극할 뿐입니다. 클레오파트라처럼 직접 낭독을 통해 성대와 구강 근육을 자극하고 적극적으로 스스로 문장을 구성할 때만 뇌세포의 시냅스 연결망이 활성화되어 뇌 가소성을 크게 높입니다.",
+          "en": "Yes, simply watching and listening only stimulates passive cognitive regions. Brain plasticity increases and synaptic networks activate only when you stimulate vocal cords and oral muscles through loud reading and actively construct sentences yourself like Cleopatra.",
+          "ja": "はい、単に見たり聞いたりする行動は、受動的な認知領域を刺激するだけです。クレオパトラのように直接音読することで声帯や口腔の筋肉を刺激し、積極的に自ら文章を構成する時に初めて脳細胞のシナプス接続網が活性化し、脳の可塑性を大幅に高めます。",
+          "zh": "是的。单纯的观看和倾听只会刺激被动的认知区域。只有像克利奥帕特拉那样，通过亲自朗读来刺激声带和口腔肌肉，并主动自己组织句子，脑细胞的突触连接网络才会激活，从而极大提高大脑的可塑性。",
+          "es": "Sí, mirar y escuchar estimula solo áreas cognitivas pasivas. La plasticidad cerebral y las redes sinápticas se activan solo cuando estimula las cuerdas vocales mediante la lectura en voz alta y construye activamente oraciones usted mismo como Cleopatra.",
+          "fr": "Oui, regarder et écouter ne stimule que les régions cognitives passives. La plasticité cérébrale et les réseaux synaptiques s'activent uniquement lorsque vous stimulez les cordes vocales par la lecture à haute voix et construisez activement des phrases vous-même comme Cléopâtre.",
+          "de": "Ja, bloßes Zusehen und Zuhören stimuliert nur passive kognitive Bereiche. Die neuronale Plastizität steigt und Synapsen aktivieren sich erst, wenn Sie die Stimmbänder durch lautes Vorlesen anregen und Sätze selbst konstruieren wie Kleopatra.",
+          "pt": "Sim, apenas assistir e ouvir estimula apenas áreas cognitivas passivas. A plasticidade cerebral e as redes sinápticas se ativam apenas quando você estimula as cuerdas vocales através da leitura em voz alta e constrói frases de forma ativa como Cleópatra.",
+          "id": "Ya, hanya menonton dan mendengarkan hanya menstimulasi area kognitif pasif. Plastisitas otak dan jaringan sinapsis aktif hanya ketika Anda menstimulasi pita suara melalui membaca keras-keras dan aktif menyusun kalimat sendiri seperti Cleopatra."
+        }
+      },
+      {
+        "question": {
+          "ko": "동시에 두 개의 언어를 공부하는 것이 인지 과부하를 주지는 않나요?",
+          "en": "Does studying two languages simultaneously cause cognitive overload?",
+          "ja": "同時に二つの言語を勉強することは認知的な過負荷を与えませんか？",
+          "zh": "同时学习两种语言是否会导致认知超载？",
+          "es": "¿Estudiar dos idiomas simultáneamente causa sobrecarga cognitiva?",
+          "fr": "L'étude simultanée de deux langues provoque-t-elle une surcharge cognitive ?",
+          "de": "Führt das gleichzeitige Erlernen zweier Sprachen zu einer kognitiven Überlastung?",
+          "pt": "Estudar dois idiomas simultaneamente causa sobrecarga cognitiva?",
+          "id": "Apakah mempelajari dua bahasa sekaligus menyebabkan kelebihan beban kognitif?"
+        },
+        "answer": {
+          "ko": "초보 단계에서는 하나의 언어에 먼저 적응하는 것이 바람직하지만, 어느 정도 기틀이 잡힌 상태라면 두 언어의 문법 구조를 번갈아 바꾸는 훈련 자체가 전전두엽 피질의 인지 제어 능력을 비약적으로 발달시켜 줍니다.",
+          "en": "In the beginner stage, adapting to one language first is desirable. However, if the foundation is somewhat set, alternating between the grammar structures of two languages dramatically develops the cognitive control of the prefrontal cortex.",
+          "ja": "初心者の段階では一つの言語にまず適応することが望ましいですが、ある程度基礎が確立された状態であれば、二つの言語の文法構造を交互に入れ替える訓練自体が前頭前野の認知制御能力を飛躍的に発達させます。",
+          "zh": "在初学阶段，最好先专注适应一种语言。但是，如果已经具备了一定的基础，交替变换两种语言的语法结构这一训练本身，就能使前额叶皮层的认知控制能力得到飞跃性的提升。",
+          "es": "En la etapa de principiante, es deseable adaptarse primero a un idioma. Sin embargo, si la base está algo establecida, alternar entre dos estructuras gramaticales desarrolla drásticamente el control cognitivo de la corteza prefrontal.",
+          "fr": "Au stade débutant, il est préférable de s'adapter d'abord à une seule langue. Cependant, si les bases sont posées, alterner entre les structures grammaticales de deux langues développe considérablement le contrôle cognitif du cortex préfrontal.",
+          "de": "Für Anfänger ist es ratsam, sich erst auf eine Sprache zu konzentrieren. Sobald jedoch Grundlagen vorhanden sind, trainiert der Wechsel zwischen den Grammatiken das präfrontale Kortex-Areal enorm.",
+          "pt": "Na fase inicial, recomenda-se focar primeiro em um idioma. Porém, se a base já estiver estabelecida, alternar entre duas estruturas gramaticais desenvolve drasticamente o controle cognitivo do córtex pré-frontal.",
+          "id": "Pada tingkat pemula, beradaptasi dengan satu bahasa terlebih dahulu lebih baik. Namun jika dasar sudah terbentuk, bergantian struktur tata bahasa dari dua bahasa secara dramatis melatih kemampuan kontrol kognitif korteks prefrontal."
+        }
+      }
+    ]
   }
 }

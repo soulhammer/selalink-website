@@ -16,6 +16,11 @@ steps:
     text: "Führen Sie 3 Sätze aus Liegestützen (10), Kniebeugen (15) und Plank (30s) aus. Das Dehnen und Anspannen der Muskeln kurbelt die Dopaminproduktion an."
   - name: "Vorsatz zur aktiven Selbstbestimmung"
     text: "Legen Sie nach dem Training 1 bis 2 Tagesprioritäten fest. Rufen Sie sich ins Gedächtnis, dass Sie selbst über Ihr Leben bestimmen."
+faqs:
+  - question: "Sollte ich auch bei Schlafmangel um 5 Uhr aufstehen und trainieren?"
+    answer: "An Tagen mit starker Erschöpfung ist leichtes Dehnen und Atmen besser als hartes Training. Mandelas Routine zielt darauf ab, den Tag selbstbestimmt zu beginnen."
+  - question: "Wie sollte ein Anfänger mit sehr geringer Ausdauer beginnen?"
+    answer: "Wählen Sie eine Intensität, die zu Ihnen passt (Liegestütze an der Wand oder auf Knien, Kniebeugen mit einem Stuhl). 5 Minuten täglich reichen, um Willenskraft zu trainieren."
 ---
 
 Nelson Mandela verbrachte 27 Jahre im Gefängnis. Sein Rettungsanker in der Zelle war Sport um 5:00 Uhr morgens: Laufen auf der Stelle, Liegestütze und Dehnübungen. Diese Routine schützte seinen Geist vor der Verzweiflung.
@@ -85,5 +90,29 @@ Ohne Freiheit verfällt das Gehirn in 'erlernte Hilflosigkeit'. Mandelas Morgenr
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Sollte ich auch bei Schlafmangel um 5 Uhr aufstehen und trainieren?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      An Tagen mit starker Erschöpfung ist leichtes Dehnen und Atmen besser als hartes Training. Mandelas Routine zielt darauf ab, den Tag selbstbestimmt zu beginnen.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Wie sollte ein Anfänger mit sehr geringer Ausdauer beginnen?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Wählen Sie eine Intensität, die zu Ihnen passt (Liegestütze an der Wand oder auf Knien, Kniebeugen mit einem Stuhl). 5 Minuten täglich reichen, um Willenskraft zu trainieren.
+    </p>
+  </details>
+</div>
 <strong></strong>

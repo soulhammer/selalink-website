@@ -16,6 +16,11 @@ steps:
     text: "Realice 3 series de flexiones (10), sentadillas (15) y plancha (30s). Contraer y relajar los músculos facilita la liberación de dopamina."
   - name: "Compromiso de liderazgo activo"
     text: "Al terminar, establezca 1 o 2 prioridades para el día. Recuerde que el timón de su vida lo maneja usted."
+faqs:
+  - question: "¿Debo despertarme a las 5 AM y entrenar aunque no haya dormido bien?"
+    answer: "Los días de fatiga extrema, es mejor sustituir el entrenamiento duro por 10 minutos de estiramientos. La clave de Mandela no es forzar el cuerpo sino iniciar el día con 'voluntad propia'."
+  - question: "¿Cómo debe empezar un principiante con poca fuerza física?"
+    answer: "Empiece con una intensidad adaptada: haga flexiones apoyándose en la pared o de rodillas, y sentadillas usando una silla. Con 5 minutos al día activa la rutina de autonomía cerebral."
 ---
 
 Nelson Mandela, primer presidente negro de Sudáfrica, fue encarcelado durante 27 años. Su salvavidas en la fría celda fue el ejercicio a las 5:00 AM, corriendo en el sitio y haciendo flexiones. Esta rutina al amanecer protegía su autoestima.
@@ -85,5 +90,29 @@ La falta de libertad genera 'indefensión aprendida'. El ejercicio matutino de M
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Debo despertarme a las 5 AM y entrenar aunque no haya dormido bien?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Los días de fatiga extrema, es mejor sustituir el entrenamiento duro por 10 minutos de estiramientos. La clave de Mandela no es forzar el cuerpo sino iniciar el día con 'voluntad propia'.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Cómo debe empezar un principiante con poca fuerza física?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Empiece con una intensidad adaptada: haga flexiones apoyándose en la pared o de rodillas, y sentadillas usando una silla. Con 5 minutos al día activa la rutina de autonomía cerebral.
+    </p>
+  </details>
+</div>
 <strong></strong>

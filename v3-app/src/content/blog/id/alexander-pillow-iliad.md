@@ -16,6 +16,11 @@ steps:
     text: "Jangan membaca sambil tiduran setengah sadar. Duduk dengan tegak dan resapi kalimat bijak di buku selama 15 menit."
   - name: "Visualisasikan Visi Lalu Tidur"
     text: "Taruh buku, pejamkan mata, dan visualisasikan target esok hari atau virtues tokoh yang Anda baca selama 2 menit lalu tidurlah."
+faqs:
+  - question: "Apakah membaca novel atau komik sebelum tidur memiliki efek yang sama dengan rutinitas membaca buku klasik?"
+    answer: "Fiksi ringan juga dapat meredakan stres otak, tetapi untuk menghasilkan efek 'motivasi berorientasi nilai' yang menyelaraskan identitas diri dan menginspirasi kemauan seperti rutinitas Alexander, jauh lebih baik memilih buku epik klasik, filsafat, atau biografi yang memberikan resonansi batin dan refleksi."
+  - question: "Bolehkah saya membaca buku di e-reader sambil berbaring?"
+    answer: "Layar e-reader atau tablet memancarkan cahaya yang dapat mengecoh otak bahwa ini siang hari dan menekan sekresi melatonin. Untuk efek penyelarasan alam bawah sadar dan tidur nyenyak yang optimal, disarankan membaca buku kertas fisik di bawah cahaya lembut."
 ---
 
 Alexander Agung menaklukkan kekaisaran terbesar di zamannya. Kunci keberaniannya ada di bawah bantal: buku Iliad karya Homer dan sebuah belati. Membaca kisah kepahlawanan meredakan ketakutannya sebelum tidur.
@@ -85,5 +90,29 @@ Saat mulai tidur, gelombang otak beralih ke alfa dan theta, mempermudah hipokamp
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Apakah membaca novel atau komik sebelum tidur memiliki efek yang sama dengan rutinitas membaca buku klasik?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Fiksi ringan juga dapat meredakan stres otak, tetapi untuk menghasilkan efek 'motivasi berorientasi nilai' yang menyelaraskan identitas diri dan menginspirasi kemauan seperti rutinitas Alexander, jauh lebih baik memilih buku epik klasik, filsafat, atau biografi yang memberikan resonansi batin dan refleksi.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Bolehkah saya membaca buku di e-reader sambil berbaring?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Layar e-reader atau tablet memancarkan cahaya yang dapat mengecoh otak bahwa ini siang hari dan menekan sekresi melatonin. Untuk efek penyelarasan alam bawah sadar dan tidur nyenyak yang optimal, disarankan membaca buku kertas fisik di bawah cahaya lembut.
+    </p>
+  </details>
+</div>
 <strong></strong>

@@ -16,6 +16,11 @@ steps:
     text: "准备拼图、整理邮票、手绘、保养乐器等使用指尖感觉且能立即用眼睛确认结果的实体兴趣活动。"
   - name: "30分钟的无目的沉浸"
     text: "抛开任何生产性任务或高效率要求，单纯专注于该细活的颜色、触觉和形态，沉浸30分钟。专注于保持内心的平静和呼吸的沉稳。"
+faqs:
+  - question: "玩手机游戏或刷视频也有助于认知放松吗？"
+    answer: "并非如此。数码屏幕释放的蓝光和刺激性的信息流不会让大脑得到休息，反而会让其保持清醒状态，从而干扰睡眠激素褪黑素的分泌。若想达到认知放松，必须使用模拟（实体）工具或物品。"
+  - question: "如果觉得每天晚上三十分钟太长了该怎么办？"
+    answer: "如果时间不够，哪怕只有十分钟也行。合上电脑，在画册上涂鸦或者写几行手写日记，通过这些小动作给大脑发出“今天工作已结束”的明确安全信号，同样大有裨益。"
 ---
 
 富兰克林·D·罗斯福，带领盟军赢得二战胜利的伟大总统。他的一生都在应对国家危机与战争的巨大压力中度过。 ✉️
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>玩手机游戏或刷视频也有助于认知放松吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      并非如此。数码屏幕释放的蓝光和刺激性的信息流不会让大脑得到休息，反而会让其保持清醒状态，从而干扰睡眠激素褪黑素的分泌。若想达到认知放松，必须使用模拟（实体）工具或物品。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>如果觉得每天晚上三十分钟太长了该怎么办？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      如果时间不够，哪怕只有十分钟也行。合上电脑，在画册上涂鸦或者写几行手写日记，通过这些小动作给大脑发出“今天工作已结束”的明确安全信号，同样大有裨益。
+    </p>
+  </details>
+</div>
 <strong></strong>

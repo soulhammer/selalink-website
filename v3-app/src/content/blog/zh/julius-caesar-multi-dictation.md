@@ -16,6 +16,11 @@ steps:
     text: "用智能手机的语音识别备忘录功能代替打字，迅速将要写内容的核心想法和结构口述录入。将文本输入速度与逻辑展开速度相匹，防止思维瓶颈。"
   - name: "锁定任务时间与交叉切换"
     text: "为每个任务设置10分钟计时器，极度专注地进行口述，时间到便立即切换到下一项。在高效的节奏中先建立起多份文档的骨架，最后集中进行修改润色。"
+faqs:
+  - question: "同时口述与通常所说的多任务处理（Multitasking）有何不同？"
+    answer: "一般的多任务处理，比如一边发消息一边写邮件，是在多个任务间同时游离注意力，导致延迟。而同时口述则是具有“连续单点聚焦”的结构，即每次高度专注地只对一位书记官进行口授，然后再依次、有计划地将认知转移到下一个主题上。"
+  - question: "可以通过打字代替口述来实践这种方式吗？"
+    answer: "由于打字速度往往慢于大脑构思展开的认知速度，容易产生思考瓶颈。建议尽量使用语音输入笔记工具，顺着思路把初稿说出来，之后再集中编辑，这样更利于减少工作记忆的负荷。"
 ---
 
 尤利乌斯·凯撒，在罗马共和国末期极大扩张领土并奠定帝国基础的英雄。他拥有自己超凡的时间节省秘诀。
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>同时口述与通常所说的多任务处理（Multitasking）有何不同？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      一般的多任务处理，比如一边发消息一边写邮件，是在多个任务间同时游离注意力，导致延迟。而同时口述则是具有“连续单点聚焦”的结构，即每次高度专注地只对一位书记官进行口授，然后再依次、有计划地将认知转移到下一个主题上。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>可以通过打字代替口述来实践这种方式吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      由于打字速度往往慢于大脑构思展开的认知速度，容易产生思考瓶颈。建议尽量使用语音输入笔记工具，顺着思路把初稿说出来，之后再集中编辑，这样更利于减少工作记忆的负荷。
+    </p>
+  </details>
+</div>
 <strong></strong>

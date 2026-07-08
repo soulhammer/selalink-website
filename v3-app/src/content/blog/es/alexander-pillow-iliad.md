@@ -16,6 +16,11 @@ steps:
     text: "No lea tirado en la cama sin prestar atención. Siéntese, lea con calma saboreando las frases nobles durante 15 minutos."
   - name: "Visualización del propósito y sueño"
     text: "Cierre el libro, apague la luz y visualice las metas de mañana o las virtudes del héroe durante 2 minutos antes de conciliar el sueño."
+faqs:
+  - question: "¿Tiene el mesmo efeito leer novelas o cómics antes de dormir que la rutina de lectura de clásicos?"
+    answer: "La ficción ligera también alivia el estrés cerebral, pero para producir una 'motivación orientada a valores' que alinee la identidad y despierte la fuerza de voluntad, es mucho mejor elegir epopeyas clásicas, libros de filosofía o biografías que brinden resonancia interna y reflexión."
+  - question: "¿Puedo leer libros en un lector electrónico sementara estoy acostado?"
+    answer: "Las pantallas de lectores electrónicos o tabletas emiten luz azul, lo que puede confundir al cerebro haciéndole creer que es de día y suprimir la melatonina. Para lograr un mejor effecto de alinhamento subconsciente y sueño profundo, se recomienda leer un libro de papel físico bajo una luz tenue."
 ---
 
 Alejandro Magno, coronado a los 20 años, conquistó un vasto imperio. El secreto de su valor estaba bajo su almohada: dormía con la Ilíada de Homero (editada por Aristóteles) y una daga. Leer sobre héroes disipaba sus temores nocturnos.
@@ -85,5 +90,29 @@ Al dormir, el cerebro emite ondas alfa y theta, facilitando que el hipocampo reg
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Tiene el mesmo efeito leer novelas o cómics antes de dormir que la rutina de lectura de clásicos?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      La ficción ligera también alivia el estrés cerebral, pero para producir una 'motivación orientada a valores' que alinee la identidad y despierte la fuerza de voluntad, es mucho mejor elegir epopeyas clásicas, libros de filosofía o biografías que brinden resonancia interna y reflexión.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Puedo leer libros en un lector electrónico sementara estoy acostado?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Las pantallas de lectores electrónicos o tabletas emiten luz azul, lo que puede confundir al cerebro haciéndole creer que es de día y suprimir la melatonina. Para lograr un mejor effecto de alinhamento subconsciente y sueño profundo, se recomienda leer un libro de papel físico bajo una luz tenue.
+    </p>
+  </details>
+</div>
 <strong></strong>

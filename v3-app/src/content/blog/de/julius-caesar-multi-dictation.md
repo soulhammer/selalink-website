@@ -16,6 +16,11 @@ steps:
     text: "Nutzen Sie die Sprachfunktion Ihres Smartphones statt der Tastatur. Dies passt die Schreibgeschwindigkeit dem Denkfluss an und verhindert Blockaden."
   - name: "Zeitblöcke und Aufgabenwechsel"
     text: "Nutzen Sie 10-Minuten-Zeitblöcke pro Aufgabe. Diktieren Sie fokussiert und wechseln Sie direkt danach. Erstellen Sie erst alle Rohentwürfe und bearbeiten Sie diese am Ende."
+faqs:
+  - question: "Wie unterscheidet sich das gleichzeitige Diktieren von normalem Multitasking?"
+    answer: "Klassisches Multitasking lenkt ab, da Aufmerksamkeit aufgeteilt wird. Gleichzeitiges Diktieren folgt einem „sequenziellen Monotasking“: volle Konzentration auf einen Schreiber, dann gezielter Wechsel."
+  - question: "Kann ich diese Methode auch durch Tippen statt Diktieren anwenden?"
+    answer: "Tippen ist langsamer als der Gedankenfluss, wodurch Engpässe entstehen. Nutzen Sie Spracherkennungs-Tools, um Gedanken frei to diktieren und später zu bearbeiten."
 ---
 
 Julius Cäsar reiste stets mit 3 oder 4 Schreibern und diktierte ihnen gleichzeitig Briefe, militärische Befehle und Notizen zu völlig unterschiedlichen Themen. Dieses parallele Arbeiten ermöglichte ihm eine enorme Effizienz.
@@ -85,5 +90,29 @@ Das Arbeitsgedächtnis speichert Informationen nur kurzzeitig. Cäsars Methode t
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Wie unterscheidet sich das gleichzeitige Diktieren von normalem Multitasking?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Klassisches Multitasking lenkt ab, da Aufmerksamkeit aufgeteilt wird. Gleichzeitiges Diktieren folgt einem „sequenziellen Monotasking“: volle Konzentration auf einen Schreiber, dann gezielter Wechsel.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Kann ich diese Methode auch durch Tippen statt Diktieren anwenden?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Tippen ist langsamer als der Gedankenfluss, wodurch Engpässe entstehen. Nutzen Sie Spracherkennungs-Tools, um Gedanken frei to diktieren und später zu bearbeiten.
+    </p>
+  </details>
+</div>
 <strong></strong>

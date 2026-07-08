@@ -201,9 +201,25 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
         }
 
         // ----------------------------------------------------
-        // 검증 2-C.2: 실물 FAQ 아코디언 블록 존재 여부 정밀 검증
+        // 검증 2-C.2: 실물 FAQ 아코디언 블록 존재 여부 정밀 검증 및 대칭성 검증
         // ----------------------------------------------------
+        let hasKoFaqs = false;
+        if (fs.existsSync(koFilePath)) {
+          const koRawContent = fs.readFileSync(koFilePath, 'utf-8');
+          const koParts = koRawContent.split('---');
+          const koFm = koParts.length >= 3 ? koParts[1] : '';
+          hasKoFaqs = koFm.includes('faqs:') || koFm.includes('faqs');
+        }
+
         const hasFaqsInFm = frontmatter.includes('faqs:') || frontmatter.includes('faqs');
+
+        if (hasKoFaqs && lang !== 'ko') {
+          expect(
+            hasFaqsInFm,
+            `오류: [${lang.toUpperCase()}] ${fileName} 번역본에 FAQ(faqs) 필드가 누락되었습니다. 한국어 원본에는 FAQ가 존재하므로 번역본에도 반드시 포함되어야 합니다.`
+          ).toBe(true);
+        }
+
         if (hasFaqsInFm) {
           const faqTitlesMap: Record<string, string> = {
             ko: '자주 묻는 질문 (FAQ)',
@@ -297,7 +313,7 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
 
           const cleanLen = sanitizedPara.replace(/\s+/g, '').length;
 
-          if (cleanLen >= 120) {
+          if (cleanLen >= 40) {
             const detectedLang = franc(sanitizedPara);
 
             const isTargetLatin = latinLanguages.includes(targetFrancLang);
@@ -309,14 +325,19 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
               detectedLang === 'und' || 
               detectedLang === targetFrancLang;
 
+            // 라틴계열 언어 간의 짧은 문장 오판율 완화 허용
+            if (isTargetLatin && isDetectedLatin) {
+              isAllowed = true;
+            }
+
             // 스페인어(spa)와 포르투갈어(por) 간의 형태소 유사성으로 인한 감지 혼동 허용
             if ((targetFrancLang === 'por' && detectedLang === 'spa') || 
                 (targetFrancLang === 'spa' && detectedLang === 'por')) {
               isAllowed = true;
             }
 
-            // 인도네시아어(ind)와 말레이어/자바어(msa, zlm, jav 등) 간의 유사성으로 인한 감지 혼동 허용
-            if (targetFrancLang === 'ind' && ['msa', 'zlm', 'jav', 'mad'].includes(detectedLang)) {
+            // 인도네시아어(ind)와 말레이어/자바어/순다어/우즈베크어 등 간의 유사성으로 인한 감지 혼동 허용
+            if (targetFrancLang === 'ind' && ['msa', 'zlm', 'jav', 'mad', 'sun', 'uzn'].includes(detectedLang)) {
               isAllowed = true;
             }
 

@@ -163,6 +163,56 @@
       }
     ],
     "pubDate": "2026-07-04",
-    "updatedDate": "2026-07-04"
+    "updatedDate": "2026-07-04",
+    "faqs": [
+      {
+        "question": {
+          "ko": "수치가 좋지 않게 측정된 날에는 일지를 쓰기가 싫어집니다. 이럴 때는 어떻게 하나요?",
+          "en": "I don't feel like journaling on days when my metrics are poor. What should I do?",
+          "ja": "数値があまり良くない日は日記を書きたくなくなります。このような時はどうすればいいですか？",
+          "zh": "如果数据指标不理想，那天就会变得不想记日记，该怎么办？",
+          "es": "No tengo ganas de escribir el diario los días con malos resultados. ¿Qué hago?",
+          "fr": "Je n'ai pas envie d'écrire dans mon journal les jours où mes résultats sont mauvais. Que faire ?",
+          "de": "Ich habe keine Lust auf Tagebucheinträge an Tagen mit schlechten Werten. Was kann ich tun?",
+          "pt": "Não tenho vontade de escrever no diário em dias com resultados ruins. O que fazer?",
+          "id": "Saya malas menulis jurnal di hari-hari saat metrik saya buruk. Apa yang harus saya lakukan?"
+        },
+        "answer": {
+          "ko": "메타 인지 활성화의 핵심은 '성공'이 아니라 '정확한 모니터링'에 있습니다. 목표를 성취하지 못한 날의 낮은 수치를 정직하게 대면하여 적어 나가는 행동이 왜곡된 인지적 착각을 걷어내고 내일의 전략을 설계할 회복력을 키워 줍니다.",
+          "en": "The core of activating metacognition lies not in 'success' but in 'accurate monitoring'. Honestly facing and writing down low metrics on failed days clears away cognitive illusions and builds the resilience to design tomorrow's strategy.",
+          "ja": "メタ認知活性化の核心は「成功」ではなく「正確なモニタリング」にあります。目標を達成できなかった日の低い数値を正直に直視し、書き留めていく行動が、歪んだ認知の錯覚を取り除き、明日の戦略を設計する回復力を育ててくれます。",
+          "zh": "激活元认知的核心不在于“成功”，而在于“准确的监控”。坦然面对并诚实记录下未达成目标那一天的低迷指标，这一行为可以破除虚妄的自我认知幻觉，并培养重新规划明天策略的恢复力。",
+          "es": "La clave de la metacognición no es el 'éxito' sino el 'monitoreo preciso'. Enfrentar y escribir con honestidad los malos resultados rompe las ilusiones cognitivas y ayuda a planear la estrategia de mañana.",
+          "fr": "L'activation de la métacognition ne repose pas sur le 'succès' mais sur un 'suivi précis'. Affronter et écrire honnêtement les mauvais résultats dissipe les illusions cognitives et aide à préparer demain.",
+          "de": "Metakognition zielt nicht auf „Erfolg“, sondern auf „präzise Analyse“. Das Aufschreiben schlechter Werte baut Illusionen ab und stärkt die Resilienz für morgen.",
+          "pt": "A chave da metacognição não é o 'sucesso', mas o 'monitoramento preciso'. Encarar e registrar os resultados ruins afasta as ilusões mentais e constrói a resiliência para planejar o dia de amanhã.",
+          "id": "Inti dari aktivasi metakognisi bukan pada 'keberhasilan' tetapi pada 'pemantauan yang akurat'. Menghadapi dan mencatat metrik rendah di hari-hari gagal secara jujur menghilangkan ilusi kognitif dan membangun ketahanan untuk merancang strategi esok hari."
+        }
+      },
+      {
+        "question": {
+          "ko": "모든 지표를 노션이나 엑셀로만 관리해도 되나요?",
+          "en": "Can I manage all metrics using only Notion or Excel?",
+          "ja": "すべての指標をNotionやExcelだけで管理してもいいですか？",
+          "zh": "所有数据指标都可以只用 Notion 或 Excel 整理管理吗？",
+          "es": "¿Puedo llevar todas las métricas solo con Notion o Excel?",
+          "fr": "Puis-je gérer toutes mes mesures uniquement avec Notion ou Excel ?",
+          "de": "Kann ich alle Werte auch nur mit Notion oder Excel verwalten?",
+          "pt": "Posso gerenciar todas as métricas apenas usando Notion ou Excel?",
+          "id": "Bolehkah saya mengelola semua metrik hanya menggunakan Notion atau Excel?"
+        },
+        "answer": {
+          "ko": "디지털 기기는 기록 도중에 SNS나 메일 알림 등의 유혹이 큽니다. 가급적 조지 워싱턴처럼 종이 일지와 아날로그 펜을 사용하여 하루 지표를 수작업으로 적는 시간이 두뇌 인지 정화와 깊은 통찰 형성에 훨씬 강력한 몰입을 보장합니다.",
+          "en": "Digital devices present high temptations like social media or email notifications during logging. Writing down daily metrics manually using a paper journal and an analog pen, like George Washington, guarantees a much stronger immersion for cognitive brain purification and deep insight formation.",
+          "ja": "デジタル機器は記録の途中でSNSやメールの通知などの誘惑が大きいです。できるだけジョージ・ワシントンのように紙の日記とアナログのペンを使用して一日の指標を手作業で書き留める時間が、脳の認知の浄化と深い洞察の形成にはるかに強力な没頭を保証します。",
+          "zh": "数码设备在记录过程中极易受到社交软件或邮件通知等诱惑。像乔治·华盛顿那样，尽量使用纸质日记本和钢笔手动写下每日的数据，对大脑认知净化和形成深度洞察力的专注效果远比电子工具强大。",
+          "es": "Los dispositivos digitales tientan con avisos de redes o correos. Escribir las métricas a mano con papel y pluma garantiza un enfoque mucho mayor para purificar la mente y crear perspectivas profundas.",
+          "fr": "Les outils numériques affichent des alertes de réseaux ou de courriels. Écrire à la main avec du papier et un stylo garantit un niveau de concentration bien plus élevé pour purifier l'esprit.",
+          "de": "Digitale Tools verleiten zu Ablenkungen (Social Media, E-Mails). Das handschriftliche Notieren im Tagebuch fördert die kognitive Klarheit und sorgt für tiefere Einsichten.",
+          "pt": "Dispositivos digitais distraem com alertas de redes ou e-mails. Registrar as métricas à mão em um diário de papel garante um foco muito maior para purificar a mente e criar insights.",
+          "id": "Perangkat digital menghadirkan godaan tinggi seperti notifikasi media sosial atau surel saat mencatat. Menulis metrik harian secara manual di jurnal kertas dengan pena analog menjamin imersi yang jauh lebih kuat untuk penjernihan kognitif otak dan pembentukan wawasan mendalam."
+        }
+      }
+    ]
   }
 }

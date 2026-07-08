@@ -163,6 +163,56 @@
       }
     ],
     "pubDate": "2026-01-13",
-    "updatedDate": "2026-01-13"
+    "updatedDate": "2026-01-13",
+    "faqs": [
+      {
+        "question": {
+          "ko": "수면 시간이 부족해도 새벽 5시에 깨어나 무조건 운동하는 것이 좋을까요?",
+          "en": "Should I wake up at 5 AM and exercise unconditionally even when sleep is insufficient?",
+          "ja": "睡眠時間が不足していても、早朝5時に起きて無条件に運動する方がいいですか？",
+          "zh": "即使睡眠时间严重不足，也有必要坚持在凌晨五点起床运动吗？",
+          "es": "¿Debo despertarme a las 5 AM y entrenar aunque no haya dormido bien?",
+          "fr": "Dois-je me lever à 5 heures du matin et faire du sport même si j'ai manqué de sommeil ?",
+          "de": "Sollte ich auch bei Schlafmangel um 5 Uhr aufstehen und trainieren?",
+          "pt": "Devo acordar às 5h da manhã e treinar mesmo sem dormir o suficiente?",
+          "id": "Haruskah saya bangun jam 5 pagi dan berolahraga meskipun waktu tidur kurang?"
+        },
+        "answer": {
+          "ko": "신체 피로가 극심한 날에는 억지로 격렬한 운동을 하는 것보다 5~10분간의 가벼운 스트레칭과 심호흡으로 대체하는 것이 좋습니다. 만델라 루틴의 본질은 몸을 혹사하는 것이 아니라 하루의 주도권을 '나의 의지'로 시작하는 것에 있습니다.",
+          "en": "On days with extreme physical fatigue, it is better to replace intense workout with 5 to 10 minutes of light stretching and deep breathing. The essence of the Mandela routine is not to abuse the body, but to start the day's initiative with 'my own will'.",
+          "ja": "身体の疲労が極端に激しい日は、無理に激しい運動をするよりも、5〜10分間の軽いストレッチや深呼吸に替える方が望ましいです。マンデルラルーティンの本質は体を酷使することではなく、一日の主導権を「自分の意志」で始めることにあります。",
+          "zh": "在身体极度疲劳的日子里，与其强行进行剧烈运动，不如用五到十分钟的拉伸与深呼吸来代替。曼德拉习惯的核心不在于折磨身体，而在于通过“自己的意志”来主导这一天的开始。",
+          "es": "Los días de fatiga extrema, es mejor sustituir el entrenamiento duro por 10 minutos de estiramientos. La clave de Mandela no es forzar el cuerpo sino iniciar el día con 'voluntad propia'.",
+          "fr": "Les jours de fatigue intense, il est préférable de remplacer le sport par 10 minutes d'étirements. Le secret de Mandela n'est pas de forcer le corps mais de commencer la journée avec sa propre volonté.",
+          "de": "An Tagen mit starker Erschöpfung ist leichtes Dehnen und Atmen besser als hartes Training. Mandelas Routine zielt darauf ab, den Tag selbstbestimmt zu beginnen.",
+          "pt": "Em dias de cansaço extremo, é melhor substituir o treino intenso por 10 minutes de alongamentos. O segredo de Mandela não é desgastar o corpo, mas iniciar o dia com 'autodeterminação'.",
+          "id": "Pada hari-hari kelelahan fisik ekstrem, lebih baik ganti latihan intens dengan peregangan ringan dan napas dalam selama 5-10 menit. Esensi rutinitas Mandela bukan menyiksa tubuh, tapi memulai inisiatif hari dengan 'kehendak saya'."
+        }
+      },
+      {
+        "question": {
+          "ko": "체력이 매우 약한 초보자는 어떻게 시작하는 것이 좋을까요?",
+          "en": "How should a beginner with very low physical strength start?",
+          "ja": "体力が非常に弱い初心者はどのように始めるのがいいですか？",
+          "zh": "体力非常差的初学者应该如何开始？",
+          "es": "¿Cómo debe empezar un principiante con poca fuerza física?",
+          "fr": "Comment un débutant sans force physique doit-il commencer ?",
+          "de": "Wie sollte ein Anfänger mit sehr geringer Ausdauer beginnen?",
+          "pt": "Como um iniciante com baixo condicionamento físico deve começar?",
+          "id": "Bagaimana pemula dengan kekuatan fisik sangat rendah sebaiknya memulai?"
+        },
+        "answer": {
+          "ko": "팔굽혀펴기는 벽을 짚고 진행하거나 무릎을 꿇고 시작하고, 스쿼트도 의자에 앉았다 일어나는 동작으로 대체하는 등 나에게 맞는 강도로 시작해 보세요. 하루 5분, 단 1세트만으로도 자율성을 지키는 아침의 긍정적인 두뇌 루틴은 활성화됩니다.",
+          "en": "Start with intensities that suit you, such as doing push-ups against a wall or on your knees, and replacing squats with sitting down and rising from a chair. Just 5 minutes a day, one set, is enough to activate the positive brain routine of securing autonomy in the morning.",
+          "ja": "腕立て伏せは壁を押して行ったり膝をついて始め、スクワットも椅子に座って立ち上がる動作に代えるなど、自分に合った強度で始めてみてください。一日5分、たった1セットだけでも、自律性を守る朝の肯定的な脳ルーティンは活性化されます。",
+          "zh": "选择适合自己体能的强度开始，比如靠墙俯卧撑或跪姿俯卧撑，深蹲也可以用坐在椅子上再站立的动作代替。每天只需五分钟，进行一整组练习，就能有效激活清晨掌控自主性的大脑积极反馈机制。",
+          "es": "Empiece con una intensidad adaptada: haga flexiones apoyándose en la pared o de rodillas, y sentadillas usando una silla. Con 5 minutos al día activa la rutina de autonomía cerebral.",
+          "fr": "Commencez avec une intensité adaptée : faites des pompes contre le mur ou sur les genoux, et des squats à l'aide d'une chaise. 5 minutes par jour suffisent pour réveiller la volonté du cerveau.",
+          "de": "Wählen Sie eine Intensität, die zu Ihnen passt (Liegestütze an der Wand oder auf Knien, Kniebeugen mit einem Stuhl). 5 Minuten täglich reichen, um Willenskraft zu trainieren.",
+          "pt": "Comece com intensidades adaptadas, como flexões na parede ou de joelhos, e agachamentos usando uma cadeira. Apenas 5 minutos por dia ativam a rotina de autodisciplina do cérebro.",
+          "id": "Mulailah dengan intensitas yang sesuai, seperti push-up di dinding atau berlutut, dan squat dengan bantuan kursi. Cukup 5 menit sehari, satu set, sudah cukup mengaktifkan rutinitas pagi positif otak."
+        }
+      }
+    ]
   }
 }

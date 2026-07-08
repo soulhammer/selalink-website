@@ -16,6 +16,11 @@ steps:
     text: "Matikan penerjemah internet. Gunakan kamus fisik, cari asal-usul kata, dan tulis terjemahannya di buku catatan secara manual."
   - name: "Bandingkan Logika dan Sempurnakan"
     text: "Baca terjemahan Anda, bandingkan apakah alur logikanya sudah sesuai dengan teks asli, lalu poles menjadi bahasa yang luwes."
+faqs:
+  - question: "Apakah tidak ada manfaat membandingkan teks langsung menggunakan penerjemah AI?"
+    answer: "Ya, mendapatkan hasil dengan satu klik tidak menstimulasi jaringan kognitif otak. Sinapsis di korteks prefrontal berkembang aktif hanya ketika Anda melalui 'proses resistensi otak', seperti mencari kamus dan menyusun struktur kalimat."
+  - question: "Apakah efeknya terbatas hanya pada mempelajari bahasa klasik seperti Yunani dan Latin?"
+    answer: "Tidak. Teks bahasa asing modern (Inggris, Mandarin, Jerman, dll.) dengan struktur kalimat logis yang berbeda juga berfungsi sebagai sarana latihan yang luar biasa. Kuncinya adalah menerjemahkan teks formal dan padat seperti filsafat atau kolom, bukan dialog santai."
 ---
 
 Ratu Elizabeth I memimpin Inggris melewati masa-masa genting. Untuk mengasah logikanya sebelum bekerja, ia meluangkan waktu satu jam setiap pagi menerjemahkan teks Latin Seneca atau Cicero ke bahasa Inggris. Hobi ini melatih ketajaman berpikirnya.
@@ -85,5 +90,29 @@ Menerjemahkan mengaktifkan korteks prefrontal dorsolateral (dlPFC) yang mengatur
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Apakah tidak ada manfaat membandingkan teks langsung menggunakan penerjemah AI?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ya, mendapatkan hasil dengan satu klik tidak menstimulasi jaringan kognitif otak. Sinapsis di korteks prefrontal berkembang aktif hanya ketika Anda melalui 'proses resistensi otak', seperti mencari kamus dan menyusun struktur kalimat.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Apakah efeknya terbatas hanya pada mempelajari bahasa klasik seperti Yunani dan Latin?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Tidak. Teks bahasa asing modern (Inggris, Mandarin, Jerman, dll.) dengan struktur kalimat logis yang berbeda juga berfungsi sebagai sarana latihan yang luar biasa. Kuncinya adalah menerjemahkan teks formal dan padat seperti filsafat atau kolom, bukan dialog santai.
+    </p>
+  </details>
+</div>
 <strong></strong>

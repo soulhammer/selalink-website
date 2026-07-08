@@ -16,6 +16,11 @@ steps:
     text: "カレンダーやプランナーの一日の時間割を開き、細分化したタスクを5分、15分、30分単位のブロックの形で隙間なく強制的に詰め込んで配置します。"
   - name: "タイマー連動の超集中実行"
     text: "カレンダーブロックのタイマーをセットし、スマートフォンやブラウザの遮断ツールを有効にした後、締め切り直前のエネルギーを意図的に使いながら、その時間内に一つの課題を猛烈に終わらせて次へ進みます。"
+faqs:
+  - question: "5分単位でスケジュールを立てると、一日中強いストレスを感じませんか？"
+    answer: "初心者が毎日すべての時間割を5分単位で埋めるのは、当然強い認知的な過負荷を与えます。最初は一日のうち1〜2時間だけを集中時間帯に設定し、15分または30分単位の時間ブロックを指定して没頭力を養う訓練から始めることをお勧めします。"
+  - question: "もしブロックで指定した時間内に仕事を終えられなかった場合はどうしますか？"
+    answer: "指定された時間が来たら、まずは次の予定されたブロックへ無条件に移行します。終えられなかった仕事は、午後の遅い時間に別途設けておいた「バッファブロック（Buffer Block）」に割り当てて処理します。これにより、一つの課題の遅れが一日全体の予定をドミノ倒しのように崩壊させるのを防ぎ、時間のコントロールを守ることができます。"
 ---
 
 電気自動車革命を牽引するテスラから、火星移住を夢見るスペースX、脳・コンピュータインターフェースを開発するニューラリンクまで、グローバル革新企業を同時に激しく牽引するイーロン・マスク。彼は毎週80〜100時間に達する過酷な激務をこなし、リアルタイムで膨大な意思決定を下すことで有名です。 🚀
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>5分単位でスケジュールを立てると、一日中強いストレスを感じませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      初心者が毎日すべての時間割を5分単位で埋めるのは、当然強い認知的な過負荷を与えます。最初は一日のうち1〜2時間だけを集中時間帯に設定し、15分または30分単位の時間ブロックを指定して没頭力を養う訓練から始めることをお勧めします。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>もしブロックで指定した時間内に仕事を終えられなかった場合はどうしますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      指定された時間が来たら、まずは次の予定されたブロックへ無条件に移行します。終えられなかった仕事は、午後の遅い時間に別途設けておいた「バッファブロック（Buffer Block）」に割り当てて処理します。これにより、一つの課題の遅れが一日全体の予定をドミノ倒しのように崩壊させるのを防ぎ、時間のコントロールを守ることができます。
+    </p>
+  </details>
+</div>
 <strong></strong>

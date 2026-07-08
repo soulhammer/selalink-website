@@ -16,6 +16,11 @@ steps:
     text: "重复进行三组简单的自重训练：俯卧撑10次、深蹲15次、平板支撑30秒。主动收缩与放松肌肉能够有效促进多巴胺的分泌。"
   - name: "立下主动掌控的决心"
     text: "锻炼结束后，在心中确立今天必须完成的1-2个首要任务。提醒自己人生的掌控权在自己手中，以此树立坚强的意志。"
+faqs:
+  - question: "即使睡眠时间严重不足，也有必要坚持在凌晨五点起床运动吗？"
+    answer: "在身体极度疲劳的日子里，与其强行进行剧烈运动，不如用五到十分钟的拉伸与深呼吸来代替。曼德拉习惯的核心不在于折磨身体，而在于通过“自己的意志”来主导这一天的开始。"
+  - question: "体力非常差的初学者应该如何开始？"
+    answer: "选择适合自己体能的强度开始，比如靠墙俯卧撑或跪姿俯卧撑，深蹲也可以用坐在椅子上再站立的动作代替。每天只需五分钟，进行一整组练习，就能有效激活清晨掌控自主性的大脑积极反馈机制。"
 ---
 
 纳尔逊·曼德拉，南非首位黑人总统。他因反抗种族隔离政策被捕，在阴冷潮湿的监狱中度过了长达27年的岁月。然而，他并未向绝望低头，最终赢得了自由。 ☀️
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>即使睡眠时间严重不足，也有必要坚持在凌晨五点起床运动吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      在身体极度疲劳的日子里，与其强行进行剧烈运动，不如用五到十分钟的拉伸与深呼吸来代替。曼德拉习惯的核心不在于折磨身体，而在于通过“自己的意志”来主导这一天的开始。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>体力非常差的初学者应该如何开始？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      选择适合自己体能的强度开始，比如靠墙俯卧撑或跪姿俯卧撑，深蹲也可以用坐在椅子上再站立的动作代替。每天只需五分钟，进行一整组练习，就能有效激活清晨掌控自主性的大脑积极反馈机制。
+    </p>
+  </details>
+</div>
 <strong></strong>

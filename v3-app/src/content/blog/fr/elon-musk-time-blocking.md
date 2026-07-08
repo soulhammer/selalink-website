@@ -16,6 +16,11 @@ steps:
     text: "Ouvrez votre agenda et distribuez strictement les tâches en blocs de 5, 15 ou 30 minutes."
   - name: "Exécution hyper-focalisée avec minuteur"
     text: "Activez le minuteur, bloquez les notifications et travaillez à intensité maximale sur cette seule tâche, puis passez à la suite."
+faqs:
+  - question: "Le fait de planifier sa journée en blocs de 5 minutes ne cause-t-il pas un stress important ?"
+    answer: "Pour les débutants, remplir tout l'agenda avec des blocs de 5 minutes provoque une surcharge cognitive. Il est conseillé de commencer par des blocs de 15 ou 30 minutes pour seulement 1 ou 2 heures de concentration par jour."
+  - question: "Que se passe-t-il si je ne termine pas le travail dans le bloc de temps alloué ?"
+    answer: "Passez immédiatement au bloc suivant. Allouez le travail restant à un 'bloc tampon' (Buffer Block) en fin d'après-midi, pour éviter qu'un retard ne gâche toute la journée."
 ---
 
 Elon Musk dirige Tesla et SpaceX en travaillant jusqu'à 100 heures par semaine. Son secret est de planifier sa journée en blocs de 5 minutes. Au moment de commencer un bloc, il coupe tout avertissement et concentre 100% de son énergie.
@@ -85,5 +90,29 @@ La loi de Parkinson dit qu'une tâche s'étend pour occuper tout le temps allou�
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Le fait de planifier sa journée en blocs de 5 minutes ne cause-t-il pas un stress important ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Pour les débutants, remplir tout l'agenda avec des blocs de 5 minutes provoque une surcharge cognitive. Il est conseillé de commencer par des blocs de 15 ou 30 minutes pour seulement 1 ou 2 heures de concentration par jour.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Que se passe-t-il si je ne termine pas le travail dans le bloc de temps alloué ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Passez immédiatement au bloc suivant. Allouez le travail restant à un 'bloc tampon' (Buffer Block) en fin d'après-midi, pour éviter qu'un retard ne gâche toute la journée.
+    </p>
+  </details>
+</div>
 <strong></strong>

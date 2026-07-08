@@ -16,6 +16,11 @@ steps:
     text: "Use el dictado de voz del móvil en lugar de escribir. Expresar las ideas al ritmo del pensamiento evita los bloqueos al redactar."
   - name: "Bloques de tiempo y alternancia rápida"
     text: "Asigne 10 minutos por tarea. Dicté con foco total y cambie al terminar el tiempo. Complete primero todos los borradores y revíselos al final."
+faqs:
+  - question: "¿En qué se diferencia la dictación simultánea de la multitarea general?"
+    answer: "La multitarea dispersa la atención al mismo tiempo, como chatear mientras escribe un correo. La dictación simultánea usa un enfoque 'monotarea secuencial': enfoca al 100% en un escriba a la vez y luego cambia."
+  - question: "¿Puedo usar el teclado para escribir en lugar de dictar?"
+    answer: "Escribir en teclado es más lento que la velocidad cognitiva, lo que crea cuellos de botella. Es mejor usar dictado de voz para plasmar las ideas rápido y luego editarlas para reducir la fatiga mental."
 ---
 
 Julio César, héroe de la República romana, tenía un secreto sobrehumano para ahorrar tiempo: dictaba cartas y órdenes militares a 3 o 4 escribas a la vez mientras cabalgaba. Esta capacidad de procesamiento paralelo era la fuente de su gran administración.
@@ -85,5 +90,29 @@ La memoria de trabajo es el 'banco' donde el cerebro retiene información tempor
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿En qué se diferencia la dictación simultánea de la multitarea general?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      La multitarea dispersa la atención al mismo tiempo, como chatear mientras escribe un correo. La dictación simultánea usa un enfoque 'monotarea secuencial': enfoca al 100% en un escriba a la vez y luego cambia.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿Puedo usar el teclado para escribir en lugar de dictar?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Escribir en teclado es más lento que la velocidad cognitiva, lo que crea cuellos de botella. Es mejor usar dictado de voz para plasmar las ideas rápido y luego editarlas para reducir la fatiga mental.
+    </p>
+  </details>
+</div>
 <strong></strong>

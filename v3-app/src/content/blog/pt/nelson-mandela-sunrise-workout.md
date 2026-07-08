@@ -16,6 +16,11 @@ steps:
     text: "Faça 3 séries de flexões (10), agachamentos (15) e prancha (30s). O esforço físico ajuda na liberação de dopamina e serotonina."
   - name: "Afirmação de foco e liderança"
     text: "Ao finalizar, defina 1 ou 2 prioridades para o dia. Lembre-se de que você é o único responsável pelo rumo da sua vida."
+faqs:
+  - question: "Devo acordar às 5h da manhã e treinar mesmo sem dormir o suficiente?"
+    answer: "Em dias de cansaço extremo, é melhor substituir o treino intenso por 10 minutes de alongamentos. O segredo de Mandela não é desgastar o corpo, mas iniciar o dia com 'autodeterminação'."
+  - question: "Como um iniciante com baixo condicionamento físico deve começar?"
+    answer: "Comece com intensidades adaptadas, como flexões na parede ou de joelhos, e agachamentos usando uma cadeira. Apenas 5 minutos por dia ativam a rotina de autodisciplina do cérebro."
 ---
 
 Nelson Mandela passou 27 anos na prisão. Seu refúgio contra o desespero foi o treino às 5h da manhã: corrida no lugar, flexões e abdominais diariamente. Essa rotina mantinha sua mente sã e fortalecida.
@@ -85,5 +90,29 @@ A falta de controle sobre a rotina gera a 'impotência aprendida'. O treino mati
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Devo acordar às 5h da manhã e treinar mesmo sem dormir o suficiente?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Em dias de cansaço extremo, é melhor substituir o treino intenso por 10 minutes de alongamentos. O segredo de Mandela não é desgastar o corpo, mas iniciar o dia com 'autodeterminação'.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Como um iniciante com baixo condicionamento físico deve começar?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Comece com intensidades adaptadas, como flexões na parede ou de joelhos, e agachamentos usando uma cadeira. Apenas 5 minutos por dia ativam a rotina de autodisciplina do cérebro.
+    </p>
+  </details>
+</div>
 <strong></strong>

@@ -16,6 +16,11 @@ steps:
     text: "パズル、切手の整理、デッサン、楽器のお手入れなど、指先の感覚を使い、結果を即座に目で確認できるアナログな趣味の活動を用意します。"
   - name: "30分間の目的のない没頭"
     text: "生産的な義務や効率性を一切捨て、その手仕事の色、感触、形だけに集中して30分間過ごします。心の平和と呼吸の落ち着きを保つことだけに専念します。"
+faqs:
+  - question: "スマートフォンゲームや動画視聴も認知的な弛緩に役立ちますか？"
+    answer: "いいえ、そうではありません。デジタル画面のブルーライトと刺激的な情報のフィードは、脳を休ませるのではなく覚醒状態を維持し、睡眠ホルモンであるメラトニンの分泌を妨げます。認知的な弛緩のためには、必ずアナログの道具や物体を活用する必要があります。"
+  - question: "毎晩30分が長すぎると感じるときはどうしますか？"
+    answer: "時間が足りなければ、たった10分でも構いません。ノートパソコンを閉じ、お気に入りのドローイングブックに落書きをしたり、軽いアナログ日記を書いたりする動作を通じて、脳に「一日が終わった」という安全信号を確実にフィードバックするだけでも効果があります。"
 ---
 
 史上唯一の米大統領4選達成者であり、大恐慌克服のためのニューディール政策を展開し、第二次世界大戦を連合国の勝利へと導いた偉大な大統領フランクリン・D・ルーズベルト。彼は、国家の危機と戦争指揮という極度のストレスの中で一生を過ごしました。 ✉️
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>スマートフォンゲームや動画視聴も認知的な弛緩に役立ちますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      いいえ、そうではありません。デジタル画面のブルーライトと刺激的な情報のフィードは、脳を休ませるのではなく覚醒状態を維持し、睡眠ホルモンであるメラトニンの分泌を妨げます。認知的な弛緩のためには、必ずアナログの道具や物体を活用する必要があります。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>毎晩30分が長すぎると感じるときはどうしますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      時間が足りなければ、たった10分でも構いません。ノートパソコンを閉じ、お気に入りのドローイングブックに落書きをしたり、軽いアナログ日記を書いたりする動作を通じて、脳に「一日が終わった」という安全信号を確実にフィードバックするだけでも効果があります。
+    </p>
+  </details>
+</div>
 <strong></strong>

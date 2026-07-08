@@ -16,6 +16,11 @@ steps:
     text: "Faites 3 séries de pompes (10), squats (15) et planche (30s). Contracter et relâcher les muscles favorise la dopamine."
   - name: "Engagement de leadership actif"
     text: "En terminant, fixez 1 ou 2 priorités pour la journée. Rappelez-vous que vous tenez les rênes de votre vie."
+faqs:
+  - question: "Dois-je me lever à 5 heures du matin et faire du sport même si j'ai manqué de sommeil ?"
+    answer: "Les jours de fatigue intense, il est préférable de remplacer le sport par 10 minutes d'étirements. Le secret de Mandela n'est pas de forcer le corps mais de commencer la journée avec sa propre volonté."
+  - question: "Comment un débutant sans force physique doit-il commencer ?"
+    answer: "Commencez avec une intensité adaptée : faites des pompes contre le mur ou sur les genoux, et des squats à l'aide d'une chaise. 5 minutes par jour suffisent pour réveiller la volonté du cerveau."
 ---
 
 Nelson Mandela, premier président noir d'Afrique du Sud, a passé 27 ans en prison. Son rituel de survie dans sa cellule était l'exercice physique à 5h00 du matin, faisant du surplace et des abdominaux. Cette routine préservait son estime de soi.
@@ -85,5 +90,29 @@ Le manque de liberté génère l'impuissance apprise. L'exercice matinal de Mand
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Dois-je me lever à 5 heures du matin et faire du sport même si j'ai manqué de sommeil ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Les jours de fatigue intense, il est préférable de remplacer le sport par 10 minutes d'étirements. Le secret de Mandela n'est pas de forcer le corps mais de commencer la journée avec sa propre volonté.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Comment un débutant sans force physique doit-il commencer ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Commencez avec une intensité adaptée : faites des pompes contre le mur ou sur les genoux, et des squats à l'aide d'une chaise. 5 minutes par jour suffisent pour réveiller la volonté du cerveau.
+    </p>
+  </details>
+</div>
 <strong></strong>

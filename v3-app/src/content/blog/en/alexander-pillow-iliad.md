@@ -16,6 +16,11 @@ steps:
     text: "Instead of scanning while lying down, sit with a straight posture and read for 15 minutes, reflecting deeply on the noble sentences in the book. Pay deep attention so the text sinks into the brain cells."
   - name: "Vision Engraving and Sleeping"
     text: "Put the book down at your bedside, close your eyes, and visualize the hero you read about or your goals for tomorrow for 1 or 2 minutes, then go to sleep. Guide your subconscious to move in this direction overnight."
+faqs:
+  - question: "Does reading novels or comic books before bed have the same effect as the vision classic reading routine?"
+    answer: "Light fiction also has a cooling effect to relieve brain stress, but to produce a 'value-oriented motivation' effect that aligns self-identity and inspires willpower like Alexander's routine, it is much better to choose classic epics, philosophy books, or biographies that provide inner resonance and reflection."
+  - question: "Can I read books on an e-reader while lying down?"
+    answer: "E-readers or tablet screens release blue light, which can mislead the brain into thinking it is daytime and suppress melatonin secretion. For the best effect of subconscious alignment and deep sleep, it is recommended to read a physical paper book under warm, dim lighting."
 ---
 
 Alexander the Great, who ascended the throne at 20 and built an empire from Macedonia to India. He faced harsh mental tensions. ⚔️
@@ -89,5 +94,29 @@ The Iliad Alexander the Great read was not simple time-killing. By exposing hero
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Does reading novels or comic books before bed have the same effect as the vision classic reading routine?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Light fiction also has a cooling effect to relieve brain stress, but to produce a 'value-oriented motivation' effect that aligns self-identity and inspires willpower like Alexander's routine, it is much better to choose classic epics, philosophy books, or biographies that provide inner resonance and reflection.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can I read books on an e-reader while lying down?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      E-readers or tablet screens release blue light, which can mislead the brain into thinking it is daytime and suppress melatonin secretion. For the best effect of subconscious alignment and deep sleep, it is recommended to read a physical paper book under warm, dim lighting.
+    </p>
+  </details>
+</div>
 <strong></strong>

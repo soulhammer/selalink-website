@@ -16,6 +16,11 @@ steps:
     text: "Prepare analog hobby activities where you use the sense of your fingertips and immediately see results, such as solving puzzles, organizing stamps, drawing, or maintaining instruments."
   - name: "30 Minutes of Purposeless Focus"
     text: "Abandon any productive obligations or efficiency, focus solely on the color, touch, and shape of the activity, and spend 30 minutes. Dedicate yourself to maintaining peace of mind and calm breathing."
+faqs:
+  - question: "Do smartphone games or watching videos help with cognitive relaxation?"
+    answer: "No. Blue light and stimulating information feeds from digital screens keep the brain awake rather than letting it rest, disrupting the secretion of the sleep hormone melatonin. For cognitive relaxation, analog tools or physical objects must be used."
+  - question: "What should I do if 30 minutes every night feels too long?"
+    answer: "If time is short, even 10 minutes is fine. Closing your laptop and doing actions like doodling in a drawing book or writing a brief analog diary still works effectively by providing a clear safety feedback signal to the brain that 'the workday is over'."
 ---
 
 Franklin D. Roosevelt, the only 4-term U.S. president who led the New Deal to overcome the Great Depression and guided the Allies to victory in WWII. He lived in heavy duties testing human limits. ✉️
@@ -89,5 +94,29 @@ Enjoying non-work visual-tactile hobbies, like Roosevelt's stamp sorting, sends 
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Do smartphone games or watching videos help with cognitive relaxation?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No. Blue light and stimulating information feeds from digital screens keep the brain awake rather than letting it rest, disrupting the secretion of the sleep hormone melatonin. For cognitive relaxation, analog tools or physical objects must be used.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>What should I do if 30 minutes every night feels too long?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      If time is short, even 10 minutes is fine. Closing your laptop and doing actions like doodling in a drawing book or writing a brief analog diary still works effectively by providing a clear safety feedback signal to the brain that 'the workday is over'.
+    </p>
+  </details>
+</div>
 <strong></strong>

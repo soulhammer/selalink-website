@@ -16,6 +16,11 @@ steps:
     text: "打开日程表，将细分的任务以五分钟、十五分钟、三十分钟为单位，毫无间隙地强行填入日程框架中进行分配。"
   - name: "计时器联动超专注执行"
     text: "启动与时间块相配的计时器，激活手机和浏览器屏蔽插件，有意利用临近截止的紧迫感，在此期间猛烈执行完特定任务后立即转入下一步。"
+faqs:
+  - question: "以五分钟为单位安排日程，难道不会整天都感到压力巨大吗？"
+    answer: "对于初学者来说，每天把所有时间表都填满五分钟的时间块，自然会带来强烈的认知过载。建议一开始每天只设立一到两小时的专注时间，划分成十五分钟或三十分钟的时间块来锻炼沉浸力。"
+  - question: "如果在规定的时间块内没有完成工作该怎么办？"
+    answer: "时间一到，无论如何请先转入下一个既定的时间块。未完成的工作会被分配到下午晚些时候专门留出的“缓冲时间块（Buffer Block）”中处理。这样能防止一个任务拖延导致全天日程像多米诺骨牌一样崩溃，确保掌握时间的主动权。"
 ---
 
 埃隆·马斯克，同时执掌特斯拉、太空探索技术公司（SpaceX）以及Neuralink等多家全球前沿创新企业的科技创业家。他因每周承受高达八十至一百小时的杀手级工作量，且实时做出海量重大决策而广为人知。 🚀
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>以五分钟为单位安排日程，难道不会整天都感到压力巨大吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      对于初学者来说，每天把所有时间表都填满五分钟的时间块，自然会带来强烈的认知过载。建议一开始每天只设立一到两小时的专注时间，划分成十五分钟或三十分钟的时间块来锻炼沉浸力。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>如果在规定的时间块内没有完成工作该怎么办？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      时间一到，无论如何请先转入下一个既定的时间块。未完成的工作会被分配到下午晚些时候专门留出的“缓冲时间块（Buffer Block）”中处理。这样能防止一个任务拖延导致全天日程像多米诺骨牌一样崩溃，确保掌握时间的主动权。
+    </p>
+  </details>
+</div>
 <strong></strong>

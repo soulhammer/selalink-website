@@ -163,6 +163,56 @@
       "id": "Buku apa yang Anda baca menentukan alam bawah sadar Anda"
     },
     "pubDate": "2026-01-23",
-    "updatedDate": "2026-01-23"
+    "updatedDate": "2026-01-23",
+    "faqs": [
+      {
+        "question": {
+          "ko": "소설이나 만화책을 잠들기 전에 읽어도 비전 고전 독서 루틴과 같은 효과가 있나요?",
+          "en": "Does reading novels or comic books before bed have the same effect as the vision classic reading routine?",
+          "ja": "小説や漫画本を寝る前に読んでも、ビジョン古典読書ルーティンと同じ効果がありますか？",
+          "zh": "睡前阅读小说或漫画书，是否能达到与远景经典阅读法相同的效果？",
+          "es": "¿Tiene el mesmo efeito leer novelas o cómics antes de dormir que la rutina de lectura de clásicos?",
+          "fr": "Lire des romans ou des bandes dessinées avant de dormir a-t-il le même effet que la routine de lecture de classiques ?",
+          "de": "Hat das Lesen von Romanen oder Comics vor dem Schlafengehen denselben Effekt wie die klassische Lektüre-Routine?",
+          "pt": "Ler romances ou histórias em quadrinhos antes de dormir tem o mesmo efeito que a rotina de leitura de clássicos?",
+          "id": "Apakah membaca novel atau komik sebelum tidur memiliki efek yang sama dengan rutinitas membaca buku klasik?"
+        },
+        "answer": {
+          "ko": "가벼운 픽션도 두뇌의 스트레스를 해소하는 냉각 효과는 있지만, 알렉산드로스 루틴처럼 자아 정체성을 정렬하고 실행 의지력을 고취하는 '가치 지향 동기부여' 효과를 내려면 내적인 울림과 성찰을 주는 고전 서사시, 철학서, 위인전 등을 선택하는 것이 훨씬 좋습니다.",
+          "en": "Light fiction also has a cooling effect to relieve brain stress, but to produce a 'value-oriented motivation' effect that aligns self-identity and inspires willpower like Alexander's routine, it is much better to choose classic epics, philosophy books, or biographies that provide inner resonance and reflection.",
+          "ja": "軽いフィクションも脳 of ストレスを解消する冷却効果はありますが、アレクサンダールーティンのように自己アイデンティティを整え、実行意志力を高める「価値志向の動機付け」効果を生むには、内面の響きと省察を与える古典叙事詩、哲学書、偉人伝などを選択する方がはるかに良いです。",
+          "zh": "轻小说或漫画确实能起到缓解大脑压力的放松作用，但若想达到像亚历山大惯例那样重塑自我认知、激发执行意志力的“价值导向型激励”效果，最好还是选择能带来心灵震撼与深度反思的经典史诗、哲学著作或伟人传记。",
+          "es": "La ficción ligera también alivia el estrés cerebral, pero para producir una 'motivación orientada a valores' que alinee la identidad y despierte la fuerza de voluntad, es mucho mejor elegir epopeyas clásicas, libros de filosofía o biografías que brinden resonancia interna y reflexión.",
+          "fr": "La fiction légère aide également à soulager le stress cérébral, mais pour opacity une 'motivation orientée vers les valeurs' qui aligne l'identité et inspire la volonté, il est bien préférable de choisir des épopées classiques, des livres de philosophie ou des biographies qui apportent une résonance intérieure et une réflexion.",
+          "de": "Leichte Belletristik hilft ebenfalls, Stress abzubauen, aber um eine „wertorientierte Motivation“ zu erzeugen, die die Identität stärkt und Willenskraft freisetzt, ist es besser, klassische Epen, Philosophie oder Biografien zu wählen, die tiefere Reflexion anregen.",
+          "pt": "A ficção leve também alivia el estresse cerebral, mas para produzir uma 'motivação orientada a valores' que alinee la identidad y despierte la fuerza de voluntad, es mucho melhor escolher epopeyas clássicas, livros de filosofia ou biografias que tragan reflexão e ressonância interna.",
+          "id": "Fiksi ringan juga dapat meredakan stres otak, tetapi untuk menghasilkan efek 'motivasi berorientasi nilai' yang menyelaraskan identitas diri dan menginspirasi kemauan seperti rutinitas Alexander, jauh lebih baik memilih buku epik klasik, filsafat, atau biografi yang memberikan resonansi batin dan refleksi."
+        }
+      },
+      {
+        "question": {
+          "ko": "누워서 이북 리더기로 책을 읽어도 되나요?",
+          "en": "Can I read books on an e-reader while lying down?",
+          "ja": "横になって電子書籍リーダーで本を読んでもいいですか？",
+          "zh": "可以躺着看电子书吗？",
+          "es": "¿Puedo leer libros en un lector electrónico sementara estoy acostado?",
+          "fr": "Puis-je lire des livres sur une liseuse en étant allongé ?",
+          "de": "Kann ich im Liegen auf einem E-Reader lesen?",
+          "pt": "Posso ler livros em um e-reader deitado?",
+          "id": "Bolehkah saya membaca buku di e-reader sambil berbaring?"
+        },
+        "answer": {
+          "ko": "이북 리더기나 태블릿 화면은 빛 방출로 인해 뇌가 낮으로 착각하여 멜라토닌 분비를 억제할 위험이 큽니다. 잠재의식 정렬과 깊은 숙면을 유도하는 최적의 효과를 위해서는 가급적 은은한 조명 아래서 실물 종이 책을 직접 손으로 넘기며 정독하는 것을 권장합니다.",
+          "en": "E-readers or tablet screens release blue light, which can mislead the brain into thinking it is daytime and suppress melatonin secretion. For the best effect of subconscious alignment and deep sleep, it is recommended to read a physical paper book under warm, dim lighting.",
+          "ja": "電子書籍リーダーやタブレットの画面は、光の放出により脳が昼と錯覚してメラトニンの分泌を抑制するリスクが大きいです。潜在意識の整列と深い睡眠を誘導する最適な効果のためには、できるだけほのかな照明の下で実際の紙の本を直接手でめくりながら精読することをお勧めします。",
+          "zh": "电子阅读器或平板电脑屏幕发出的蓝光会误导大脑以为现在是白天，进而抑制褪黑素的分泌。为了达到潜意识重构与深度睡眠的最佳效果，建议在温暖柔和的灯光下，亲手翻阅纸质书籍进行静心正读。",
+          "es": "Las pantallas de lectores electrónicos o tabletas emiten luz azul, lo que puede confundir al cerebro haciéndole creer que es de día y suprimir la melatonina. Para lograr un mejor effecto de alinhamento subconsciente y sueño profundo, se recomienda leer un libro de papel físico bajo una luz tenue.",
+          "fr": "Les écrans des liseuses ou des tablettes émettent de la lumière bleue, ce qui peut tromper le cerveau en lui faisant croire qu'il fait jour et bloquer la mélatonine. Pour un effet optimal d'alignement subconscient et de sommeil profond, il est recommandé de lire un livre papier sous une lumière douce.",
+          "de": "E-Reader oder Tablets strahlen Licht aus, das dem Gehirn Tag vortäuscht und die Melatoninausschüttung hemmt. Für eine optimale Ausrichtung des Unterbewusstseins und tiefen Schlaf wird empfohlen, ein echtes Buch aus Papier bei gedimmtem Licht zu lesen.",
+          "pt": "Telas de e-readers ou tablets emitem luz azul, o que pode confundir o cérebro fazendo-o pensar que é dia e suprimir a melatonina. Para obter o melhor efeito de alinhamento subconsciente e sono profundo, recomenda-se ler um livro físico de papel sob luz suave.",
+          "id": "Layar e-reader atau tablet memancarkan cahaya yang dapat mengecoh otak bahwa ini siang hari dan menekan sekresi melatonin. Untuk efek penyelarasan alam bawah sadar dan tidur nyenyak yang optimal, disarankan membaca buku kertas fisik di bawah cahaya lembut."
+        }
+      }
+    ]
   }
 }

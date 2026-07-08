@@ -163,6 +163,56 @@
       }
     ],
     "pubDate": "2026-01-14",
-    "updatedDate": "2026-01-14"
+    "updatedDate": "2026-01-14",
+    "faqs": [
+      {
+        "question": {
+          "ko": "동시 구술은 일반적인 멀티태스킹과 어떻게 다른가요?",
+          "en": "How is simultaneous dictation different from general multitasking?",
+          "ja": "同時口述は一般的なマルチタスクとどのように違うのですか？",
+          "zh": "同时口述与通常所说的多任务处理（Multitasking）有何不同？",
+          "es": "¿En qué se diferencia la dictación simultánea de la multitarea general?",
+          "fr": "En quoi la dictée simultanée est-elle différente du multitâche classique ?",
+          "de": "Wie unterscheidet sich das gleichzeitige Diktieren von normalem Multitasking?",
+          "pt": "Como a ditado simultâneo difere da multitarefa geral?",
+          "id": "Bagaimana dikte simultan berbeda dari multitasking umum?"
+        },
+        "answer": {
+          "ko": "일반적인 멀티태스킹은 메신저를 보며 이메일을 쓰는 것처럼 여러 작업에 주의를 동시에 흘려보내 지연을 유발합니다. 반면 동시 구술은 한 번에 오직 하나의 서기에게 고도로 집중해 받아적게 한 뒤, 순차적이고 계획적으로 다음 주제로 인지를 전환하는 '연속적 단일 포커스' 구조를 가집니다.",
+          "en": "General multitasking disperses attention across multiple tasks at the same time, like sending messages while writing an email, causing delays. In contrast, simultaneous dictation has a structure of 'sequential single focus,' where you focus intensely on only one scribe at a time to write down, then sequentially and deliberately transition cognition to the next subject.",
+          "ja": "一般的なマルチタスクは、メッセージを送りながらメールを書くように、複数の作業に注意を同時に分散させて遅延を発生させます。一方、同時口述は一度にただ一人の書記官に高度に集中して書き取らせた後、順次的かつ計画的に次のテーマへと認知を切り替える「連続的シングルフォーカス」の構造を持っています。",
+          "zh": "一般的多任务处理，比如一边发消息一边写邮件，是在多个任务间同时游离注意力，导致延迟。而同时口述则是具有“连续单点聚焦”的结构，即每次高度专注地只对一位书记官进行口授，然后再依次、有计划地将认知转移到下一个主题上。",
+          "es": "La multitarea dispersa la atención al mismo tiempo, como chatear mientras escribe un correo. La dictación simultánea usa un enfoque 'monotarea secuencial': enfoca al 100% en un escriba a la vez y luego cambia.",
+          "fr": "Le multitâche éparpille l'attention en même temps, comme envoyer un message en écrivant un e-mail. La dictée simultanée utilise une structure de focus séquentiel : se concentrer sur un scribe à la fois, puis changer.",
+          "de": "Klassisches Multitasking lenkt ab, da Aufmerksamkeit aufgeteilt wird. Gleichzeitiges Diktieren folgt einem „sequenziellen Monotasking“: volle Konzentration auf einen Schreiber, dann gezielter Wechsel.",
+          "pt": "A multitarefa dispersa a atenção ao mesmo tempo, como digitar e-mails enquanto atende chamadas. O ditado simultâneo usa um foco 'monotarefa sequencial': foca 100% em um escrivão por vez e depois muda.",
+          "id": "Multitasking umum membubarkan perhatian pada beberapa tugas secara pyramids, seperti mengirim pesan sambil menulis surel. Sebaliknya, dikte simultan memiliki struktur 'fokus tunggal berurutan,' di mana Anda fokus penuh pada satu juru tulis saja, lalu beralih secara terencana."
+        }
+      },
+      {
+        "question": {
+          "ko": "구술 대신 타이핑으로 이 방식을 실천해도 되나요?",
+          "en": "Can I practice this method by typing instead of dictating?",
+          "ja": "口述の代わりにタイピングでこの方法を実践してもいいですか？",
+          "zh": "可以通过打字代替口述来实践这种方式吗？",
+          "es": "¿Puedo usar el teclado para escribir en lugar de dictar?",
+          "fr": "Puis-je pratiquer cette méthode en tapant au clavier au lieu de dicter ?",
+          "de": "Kann ich diese Methode auch durch Tippen statt Diktieren anwenden?",
+          "pt": "Posso praticar este método digitando em vez de ditar?",
+          "id": "Bolehkah saya mempraktikkan metode ini dengan mengetik alih-alih mendikte?"
+        },
+        "answer": {
+          "ko": "타이핑 속도는 생각을 전개하는 인지 속도보다 느리기 때문에 병목 현상이 발생하기 쉽습니다. 가급적 음성 인식 메모 도구를 사용하여 생각의 흐름대로 말로 초안을 쏟아낸 후, 나중에 일괄 편집하는 방식이 작업 기억 과부하를 줄이는 데 훨씬 유리합니다.",
+          "en": "Since typing speed is slower than the cognitive speed of expanding thoughts, bottlenecks are highly likely to occur. It is much more advantageous to pour out drafts through speech following the flow of thoughts using voice recognition memo tools, and then edit them in batches later to reduce working memory overload.",
+          "ja": "タイピングの速度は思考を展開する認知速度より遅いため、ボトルネックが発生しやすいです。できるだけ音声認識メモツールを使用して思考の流れ通りに言葉で下書きを吐き出した後、後で一括編集する方式が、ワーキングメモリの過負荷を減らす上で非常に有利です。",
+          "zh": "由于打字速度往往慢于大脑构思展开的认知速度，容易产生思考瓶颈。建议尽量使用语音输入笔记工具，顺着思路把初稿说出来，之后再集中编辑，这样更利于减少工作记忆的负荷。",
+          "es": "Escribir en teclado es más lento que la velocidad cognitiva, lo que crea cuellos de botella. Es mejor usar dictado de voz para plasmar las ideas rápido y luego editarlas para reducir la fatiga mental.",
+          "fr": "Taper au clavier est plus lent que la vitesse cognitive, ce qui crée des blocages. Il est préférable d'utiliser la dictée vocale pour jeter vos idées rapidement, puis de les éditer ensuite.",
+          "de": "Tippen ist langsamer als der Gedankenfluss, wodurch Engpässe entstehen. Nutzen Sie Spracherkennungs-Tools, um Gedanken frei to diktieren und später zu bearbeiten.",
+          "pt": "Digitar é mais lento que a velocidade cognitiva, o que cria gargalos. É melhor usar o ditado por voz para registrar as ideias de forma fluida e editá-las depois para não sobrecarregar a mente.",
+          "id": "Karena kecepatan mengetik lebih lambat dari kecepatan kognitif dalam mengembangkan pikiran, penyumbatan aliran pikir mudah terjadi. Disarankan menggunakan alat memo pengenal suara untuk menumpahkan draf lalu menyuntingnya nanti."
+        }
+      }
+    ]
   }
 }

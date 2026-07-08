@@ -16,6 +16,11 @@ steps:
     text: "Leia os textos selecionados em voz alta por 15 minutos, imitando a pronúncia nativa. Esse exercício estimula a coordenação motora da fala e a memória auditiva."
   - name: "15 minutos de escrita sem tradutor"
     text: "Escreva à mão 5 ou 6 frases autorais aplicando o vocabulário aprendido à sua rotina, sem consultar dicionários. Isso sela as novas conexões no cérebro."
+faqs:
+  - question: "O input passivo, como apenas assistir a palestras em vídeo, falha em aumentar a densidade neural na área de linguagem?"
+    answer: "Sim, apenas assistir e ouvir estimula apenas áreas cognitivas passivas. A plasticidade cerebral e as redes sinápticas se ativam apenas quando você estimula as cuerdas vocales através da leitura em voz alta e constrói frases de forma ativa como Cleópatra."
+  - question: "Estudar dois idiomas simultaneamente causa sobrecarga cognitiva?"
+    answer: "Na fase inicial, recomenda-se focar primeiro em um idioma. Porém, se a base já estiver estabelecida, alternar entre duas estruturas gramaticais desenvolve drasticamente o controle cognitivo do córtex pré-frontal."
 ---
 
 Cleópatra VII, última rainha do Egito, dominava pelo menos 9 línguas, incluindo grego, egípcio, latim e hebraico. Ela reservava parte de suas tardes para estudar idiomas, permitindo negociar diretamente sem intérpretes, o que lhe dava enorme vantagem política.
@@ -85,5 +90,29 @@ O esforço de falar e traduzir idiomas ativa as áreas de Broca e Wernicke alter
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>O input passivo, como apenas assistir a palestras em vídeo, falha em aumentar a densidade neural na área de linguagem?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sim, apenas assistir e ouvir estimula apenas áreas cognitivas passivas. A plasticidade cerebral e as redes sinápticas se ativam apenas quando você estimula as cuerdas vocales através da leitura em voz alta e constrói frases de forma ativa como Cleópatra.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Estudar dois idiomas simultaneamente causa sobrecarga cognitiva?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Na fase inicial, recomenda-se focar primeiro em um idioma. Porém, se a base já estiver estabelecida, alternar entre duas estruturas gramaticais desenvolve drasticamente o controle cognitivo do córtex pré-frontal.
+    </p>
+  </details>
+</div>
 <strong></strong>

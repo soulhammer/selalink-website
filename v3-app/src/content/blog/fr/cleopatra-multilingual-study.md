@@ -16,6 +16,11 @@ steps:
     text: "Lisez les textes à voix haute pendant 15 minutes en imitant la prononciation. Cela stimule le cortex moteur et la parole."
   - name: "15 minutes d'écriture sans traducteur"
     text: "Écrivez à la main 5 ou 6 phrases basées sur ce que vous avez appris, appliquées à votre travail, sans utiliser de traducteur."
+faqs:
+  - question: "L'apport passif comme regarder des conférences vidéo ne parviendra-t-il pas à augmenter la densité neuronale de l'aire du langage ?"
+    answer: "Oui, regarder et écouter ne stimule que les régions cognitives passives. La plasticité cérébrale et les réseaux synaptiques s'activent uniquement lorsque vous stimulez les cordes vocales par la lecture à haute voix et construisez activement des phrases vous-même comme Cléopâtre."
+  - question: "L'étude simultanée de deux langues provoque-t-elle une surcharge cognitive ?"
+    answer: "Au stade débutant, il est préférable de s'adapter d'abord à une seule langue. Cependant, si les bases sont posées, alterner entre les structures grammaticales de deux langues développe considérablement le contrôle cognitif du cortex préfrontal."
 ---
 
 Cléopâtre VII, reine d'Égypte, n'était pas seulement une beauté. Elle était une grande stratège qui parlait au moins 9 langues (grec, égyptien, latin, hébreu, etc.) sans interprètes. Elle étudiait chaque après-midi pour négocier directement.
@@ -85,5 +90,29 @@ Parler et traduire des langues active l'aire de Wernicke et l'aire de Broca. Cet
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>L'apport passif comme regarder des conférences vidéo ne parviendra-t-il pas à augmenter la densité neuronale de l'aire du langage ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Oui, regarder et écouter ne stimule que les régions cognitives passives. La plasticité cérébrale et les réseaux synaptiques s'activent uniquement lorsque vous stimulez les cordes vocales par la lecture à haute voix et construisez activement des phrases vous-même comme Cléopâtre.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>L'étude simultanée de deux langues provoque-t-elle une surcharge cognitive ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Au stade débutant, il est préférable de s'adapter d'abord à une seule langue. Cependant, si les bases sont posées, alterner entre les structures grammaticales de deux langues développe considérablement le contrôle cognitif du cortex préfrontal.
+    </p>
+  </details>
+</div>
 <strong></strong>

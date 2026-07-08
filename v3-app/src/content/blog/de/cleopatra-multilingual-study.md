@@ -16,6 +16,11 @@ steps:
     text: "Lesen Sie die Texte 15 Minuten lang laut vor und imitieren Sie die Aussprache. Dies aktiviert das Sprachzentrum und den motorischen Kortex."
   - name: "15 Minuten freies Schreiben ohne Hilfsmittel"
     text: "Schreiben Sie 5 bis 6 Sätze per Hand auf, die sich auf Ihren Alltag beziehen. Dies festigt die neu gelernten Satzstrukturen im Gehirn."
+faqs:
+  - question: "Erhöht passiver Input wie das reine Anschauen von Videovorlesungen nicht die neuronale Dichte im Sprachzentrum?"
+    answer: "Ja, bloßes Zusehen und Zuhören stimuliert nur passive kognitive Bereiche. Die neuronale Plastizität steigt und Synapsen aktivieren sich erst, wenn Sie die Stimmbänder durch lautes Vorlesen anregen und Sätze selbst konstruieren wie Kleopatra."
+  - question: "Führt das gleichzeitige Erlernen zweier Sprachen zu einer kognitiven Überlastung?"
+    answer: "Für Anfänger ist es ratsam, sich erst auf eine Sprache zu konzentrieren. Sobald jedoch Grundlagen vorhanden sind, trainiert der Wechsel zwischen den Grammatiken das präfrontale Kortex-Areal enorm."
 ---
 
 Königin Kleopatra sprach mindestens 9 Sprachen, darunter Ägyptisch, Griechisch, Latein und Hebräisch, fließend und verhandelte ohne Dolmetscher. Sie blockte jeden Nachmittag Zeit zum Lernen und Üben.
@@ -85,5 +90,29 @@ Das Sprechen und Übersetzen von Fremdsprachen trainiert Wernicke- und Broca-Are
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Erhöht passiver Input wie das reine Anschauen von Videovorlesungen nicht die neuronale Dichte im Sprachzentrum?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ja, bloßes Zusehen und Zuhören stimuliert nur passive kognitive Bereiche. Die neuronale Plastizität steigt und Synapsen aktivieren sich erst, wenn Sie die Stimmbänder durch lautes Vorlesen anregen und Sätze selbst konstruieren wie Kleopatra.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Führt das gleichzeitige Erlernen zweier Sprachen zu einer kognitiven Überlastung?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Für Anfänger ist es ratsam, sich erst auf eine Sprache zu konzentrieren. Sobald jedoch Grundlagen vorhanden sind, trainiert der Wechsel zwischen den Grammatiken das präfrontale Kortex-Areal enorm.
+    </p>
+  </details>
+</div>
 <strong></strong>

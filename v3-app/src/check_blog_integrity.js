@@ -152,6 +152,12 @@ function checkIntegrity() {
       const meta = parseYaml(parsed.frontmatter);
 
       // 2-B. Frontmatter & JSON-LD (faqs) 구문 유효성 검사
+      const koHasFaqs = koMeta.faqs && Array.isArray(koMeta.faqs);
+      const targetHasFaqs = meta.faqs && Array.isArray(meta.faqs);
+      if (koHasFaqs && !targetHasFaqs) {
+        logError(`[대칭성 위반/FAQ 누락] ${lang.toUpperCase()} ${file}: 한국어 원본에는 FAQ가 정의되어 있으나, 번역본에는 'faqs' 필드가 누락되었습니다.`);
+      }
+
       if (meta.faqs && Array.isArray(meta.faqs)) {
         meta.faqs.forEach((faq, idx) => {
           if (!faq.question || !faq.answer) {

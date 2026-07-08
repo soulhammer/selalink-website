@@ -16,6 +16,11 @@ steps:
     text: "一日の半分が過ぎた午後や、仕事に入る直前に、設定したキー数値の中間進捗状況を感情に流されることなく直感的に把握します。"
   - name: "日々の営農日誌（Logbook）の作成"
     text: "仕事が終わった直後に、ノートや記録ツールを開き、測定された実測数値をありのまま詳細に記録します。そして1週間単位の平均値の推移を観察し、非効率を診断します。"
+faqs:
+  - question: "数値があまり良くない日は日記を書きたくなくなります。このような時はどうすればいいですか？"
+    answer: "メタ認知活性化の核心は「成功」ではなく「正確なモニタリング」にあります。目標を達成できなかった日の低い数値を正直に直視し、書き留めていく行動が、歪んだ認知の錯覚を取り除き、明日の戦略を設計する回復力を育ててくれます。"
+  - question: "すべての指標をNotionやExcelだけで管理してもいいですか？"
+    answer: "デジタル機器は記録の途中でSNSやメールの通知などの誘惑が大きいです。できるだけジョージ・ワシントンのように紙の日記とアナログのペンを使用して一日の指標を手作業で書き留める時間が、脳の認知の浄化と深い洞察の形成にはるかに強力な没頭を保証します。"
 ---
 
 アメリカ独立戦争を勝利に導いた英雄的な総司令官であり、新興アメリカの建国を主導した偉大な初代大統領ジョージ・ワシントン。彼は、すべての行政的な骨組みを作り、内閣を組織しなければならなかった行政の大家でした。彼が独立軍を安定して率い、国家制度を構築する圧倒的なデータ分析力とコントロール力を持てた背景には、生涯続いた早朝の農場経営ルーティンがありました。 ☀️
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>数値があまり良くない日は日記を書きたくなくなります。このような時はどうすればいいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      メタ認知活性化の核心は「成功」ではなく「正確なモニタリング」にあります。目標を達成できなかった日の低い数値を正直に直視し、書き留めていく行動が、歪んだ認知の錯覚を取り除き、明日の戦略を設計する回復力を育ててくれます。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>すべての指標をNotionやExcelだけで管理してもいいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      デジタル機器は記録の途中でSNSやメールの通知などの誘惑が大きいです。できるだけジョージ・ワシントンのように紙の日記とアナログのペンを使用して一日の指標を手作業で書き留める時間が、脳の認知の浄化と深い洞察の形成にはるかに強力な没頭を保証します。
+    </p>
+  </details>
+</div>
 <strong></strong>

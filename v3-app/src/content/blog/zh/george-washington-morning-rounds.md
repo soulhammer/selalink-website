@@ -16,6 +16,11 @@ steps:
     text: "在一天中段的下午或工作前夕，对所设核心指标的中期进度进行直观把握，排除主观情感干扰。"
   - name: "填写每日农耕日志"
     text: "工作结束后，打开笔记本或记录软件，将测得的数据如实记录下来，以周为单位观察平均值的走势，诊断出低效漏洞。"
+faqs:
+  - question: "如果数据指标不理想，那天就会变得不想记日记，该怎么办？"
+    answer: "激活元认知的核心不在于“成功”，而在于“准确的监控”。坦然面对并诚实记录下未达成目标那一天的低迷指标，这一行为可以破除虚妄的自我认知幻觉，并培养重新规划明天策略的恢复力。"
+  - question: "所有数据指标都可以只用 Notion 或 Excel 整理管理吗？"
+    answer: "数码设备在记录过程中极易受到社交软件或邮件通知等诱惑。像乔治·华盛顿那样，尽量使用纸质日记本和钢笔手动写下每日的数据，对大脑认知净化和形成深度洞察力的专注效果远比电子工具强大。"
 ---
 
 带领美国独立战争走向胜利的英勇总司令，以及主持建立新生美国的伟大首任总统乔治·华盛顿。他是必须为美国搭建全部行政骨架、组建内阁的行政大师。而他之所以拥有稳定统率独立军并整顿国家体制的压倒性数据分析力和控制力，其背后正是贯穿一生的清晨农场经营惯例。 ☀️
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>如果数据指标不理想，那天就会变得不想记日记，该怎么办？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      激活元认知的核心不在于“成功”，而在于“准确的监控”。坦然面对并诚实记录下未达成目标那一天的低迷指标，这一行为可以破除虚妄的自我认知幻觉，并培养重新规划明天策略的恢复力。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>所有数据指标都可以只用 Notion 或 Excel 整理管理吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      数码设备在记录过程中极易受到社交软件或邮件通知等诱惑。像乔治·华盛顿那样，尽量使用纸质日记本和钢笔手动写下每日的数据，对大脑认知净化和形成深度洞察力的专注效果远比电子工具强大。
+    </p>
+  </details>
+</div>
 <strong></strong>

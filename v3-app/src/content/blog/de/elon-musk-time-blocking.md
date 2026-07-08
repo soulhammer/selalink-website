@@ -16,6 +16,11 @@ steps:
     text: "Tragen Sie die kleinen Aufgaben lückenlos in Blöcken von 5, 15 oder 30 Minuten in Ihren Kalender ein."
   - name: "Hyperfokussierte Ausführung mit Timer"
     text: "Aktivieren Sie den Timer und blockieren Sie alle Benachrichtigungen. Arbeiten Sie mit maximaler Intensität an dieser einen Aufgabe, bis die Zeit abläuft."
+faqs:
+  - question: "Verursacht die Planung in 5-Minuten-Blöcken nicht den ganzen Tag über extremen Stress?"
+    answer: "Beginnen Sie mit 15- oder 30-Minuten-Blöcken für 1 oder 2 Fokus-Stunden pro Tag. Eine vollständige Umstellung führt anfangs zu Überlastung."
+  - question: "Was mache ich, wenn ich eine Aufgabe nicht im zugewiesenen Block schaffe?"
+    answer: "Wechseln Sie sofort zum nächsten Block. Verschieben Sie Unerledigtes auf einen speziellen Puffer-Block (Buffer Block) am Spätnachmittag, damit kein Domino-Effekt entsteht."
 ---
 
 Elon Musk führt Tesla und SpaceX mit bis zu 100 Arbeitsstunden pro Woche. Seine Geheimwaffe ist der '5-Minuten-Zeitblock'. Jede Aktivität (E-Mails, Essen, Besprechungen) wird minutengenau eingetragen. Während eines Blocks arbeitet er absolut ablenkungsfrei.
@@ -85,5 +90,29 @@ Nach Parkinsons Gesetz dehnt sich Arbeit in dem Maß aus, wie Zeit für ihre Erl
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Verursacht die Planung in 5-Minuten-Blöcken nicht den ganzen Tag über extremen Stress?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Beginnen Sie mit 15- oder 30-Minuten-Blöcken für 1 oder 2 Fokus-Stunden pro Tag. Eine vollständige Umstellung führt anfangs zu Überlastung.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Was mache ich, wenn ich eine Aufgabe nicht im zugewiesenen Block schaffe?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Wechseln Sie sofort zum nächsten Block. Verschieben Sie Unerledigtes auf einen speziellen Puffer-Block (Buffer Block) am Spätnachmittag, damit kein Domino-Effekt entsteht.
+    </p>
+  </details>
+</div>
 <strong></strong>

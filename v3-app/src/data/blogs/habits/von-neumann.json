@@ -1,0 +1,218 @@
+{
+  "von-neumann": {
+    "title": {
+      "en": "Von Neumann's noise immunity training kept people engaged even on noisy train waiting room benches",
+      "ko": "시끄러운 기차 대합실 벤치에서도 몰입을 유지한 폰 노이만의 소음 면역 훈련",
+      "ja": "就寝前にメモを取るルーチンで、眠った直後に脳が無意識のうちに解いた公式を把握します。",
+      "zh": "冯·诺依曼的抗噪声训练让人们即使在嘈杂的火车候车室长椅上也能保持专注",
+      "es": "El entrenamiento de inmunidad al ruido de Von Neumann mantuvo a la gente ocupada incluso en los ruidosos bancos de las salas de espera de los trenes.",
+      "fr": "La formation sur l'immunité au bruit de Von Neumann a permis aux gens de rester actifs même sur les bancs bruyants des salles d'attente des trains.",
+      "de": "Von Neumanns Lärmimmunitätstraining sorgte dafür, dass die Leute auch auf lauten Wartebänken im Zug beschäftigt waren",
+      "pt": "O treinamento de imunidade ao ruído de Von Neumann manteve as pessoas engajadas mesmo nos bancos barulhentos da sala de espera dos trens",
+      "id": "Pelatihan kekebalan kebisingan yang dilakukan Von Neumann membuat orang-orang tetap terlibat bahkan di bangku ruang tunggu kereta yang bising"
+    },
+    "description": {
+      "en": "A brilliant mathematician who designed computer architecture and game theory, he adhered to a near-bed note-taking routine to capture the ideas of information associations made by the brain during sleep.",
+      "ko": "컴퓨터 아키텍처와 게임 이론을 설계한 천재 수학자로, 수면 도중 뇌가 수행한 정보 연합 아이디어를 포착하기 위해 침대 근처 메모 루틴을 고수했습니다.",
+      "ja": "コンピューター アーキテクチャとゲーム理論を設計した優秀な数学者である彼は、睡眠中に脳によって形成される情報の連想のアイデアを記録するために、ベッド近くでメモを取るルーチンを忠実に守りました。",
+      "zh": "作为一位杰出的数学家，他设计了计算机体系结构和博弈论，他坚持在床边做笔记，以捕捉大脑在睡眠期间产生的信息关联的想法。",
+      "es": "Brillante matemático que diseñó arquitectura informática y teoría de juegos, siguió una rutina de toma de notas cerca de la cama para capturar las ideas de asociaciones de información realizadas por el cerebro durante el sueño.",
+      "fr": "Brillant mathématicien qui a conçu l'architecture informatique et la théorie des jeux, il a adhéré à une routine de prise de notes près du lit pour capturer les idées d'associations d'informations faites par le cerveau pendant le sommeil.",
+      "de": "Als brillanter Mathematiker, der Computerarchitektur und Spieltheorie entwarf, hielt er sich an die Routine, sich Notizen in der Nähe des Bettes zu machen, um die Ideen der Informationsassoziationen festzuhalten, die das Gehirn während des Schlafs erzeugt.",
+      "pt": "Um matemático brilhante que projetou a arquitetura de computadores e a teoria dos jogos, ele aderiu a uma rotina de anotações perto da cama para capturar as ideias de associações de informações feitas pelo cérebro durante o sono.",
+      "id": "Seorang ahli matematika brilian yang merancang arsitektur komputer dan teori permainan, dia mengikuti rutinitas pencatatan di dekat tempat tidur untuk menangkap ide-ide asosiasi informasi yang dibuat oleh otak selama tidur."
+    },
+    "authority": {
+      "en": "Norman Macrae, *John von Neumann* (1992) & Cognitive Neuroscientific Studies",
+      "ko": "Norman Macrae, *John von Neumann* (1992)",
+      "ja": "ノーマン マクレー、*ジョン フォン ノイマン* (1992) & 認知神経科学研究",
+      "zh": "Norman Macrae，*John von Neumann* (1992) 和认知神经科学研究",
+      "es": "Norman Macrae, *John von Neumann* (1992) y estudios neurocientíficos cognitivos",
+      "fr": "Norman Macrae, *John von Neumann* (1992) & Cognitive Neuroscientific Studies",
+      "de": "Norman Macrae, *John von Neumann* (1992) & Kognitive Neurowissenschaftliche Studien",
+      "pt": "Norman Macrae, *John von Neumann* (1992) & Cognitive Neuroscientific Studies",
+      "id": "Norman Macrae, *John von Neumann* (1992) & Studi Ilmu Saraf Kognitif"
+    },
+    "intro": {
+      "en": "John von Neumann, the most intelligent person in human history and a genius mathematician from Hungary who single-handedly designed the foundations of modern human studies (game theory, Neumann architecture) in all fields including mathematics, computer science, economics, and quantum mechanics. He was able to derive complex mathematical formulas and computer architecture formulas without difficulty even while sitting in a corner of a party with loud music playing or on a bench in a noisy waiting room where a train was shaking and steam was emitting steam. No matter how noisy his surroundings were, he isolated his cognitive resources solely on the virtual blackboard constructed in his head. This routine of isolation and immersion in white noise was what made him the greatest genius mathematician in history.\n\nToday on BuildSelf, we introduce the cognitive scientific principles of the habit of ‘doing math in the corner of a party or on a bench in a noisy waiting room’ and a 3-step guide that modern people can easily practice in their daily lives.",
+      "ko": "인류 역사상 가장 지능이 높았던 인물이자 수학, 컴퓨터 공학, 경제학, 양자 역학 등 모든 분야에서 현대 인류 학문의 기초(게임 이론, 노이만 아키텍처)를 혼자서 설계해 낸 헝가리 출신의 천재 수학자 존 폰 노이만. 그는 시끄러운 음악이 흘러나오는 파티장 구석, 기차가 흔들리고 증기를 뿜는 시끄러운 대합실 벤치에 앉아서도 복잡한 수학 공식과 컴퓨터 아키텍처 수식을 막힘없이 유도해 냈습니다. 그는 주위가 아무리 소란스러워도 오직 머릿속에 구축된 가상 칠판 위에만 인지 자원을 고립시켰습니다. 이러한 백색소음 속 고립 몰입 루틴은 그를 역사상 최고의 천재 수학자로 만든 힘이었습니다.\n\n오늘 BuildSelf에서는 그가 고수한 '파티장 구석이나 시끄러운 대합실 벤치에서 수학 유도하기' 습관의 인지과학적 과학 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
+      "ja": "人類史上最も知性があり、数学、コンピューターサイエンス、経済学、量子力学などあらゆる分野における現代人文研究（ゲーム理論、ノイマンアーキテクチャ）の基礎を独力で設計したハンガリーの天才数学者、ジョン・フォン・ノイマン。大音量の音楽が流れるパーティーの隅っこに座っていても、電車が揺れて蒸気が噴き出す騒がしい待合室のベンチに座っていても、複雑な数式やコンピュータアーキテクチャの公式を難なく導き出すことができた。周囲がどんなに騒がしくても、彼は自分の認知リソースを頭の中に構築された仮想黒板上にのみ隔離していました。この孤立してホワイトノイズに浸るという習慣こそが、彼を歴史上最も偉大な天才数学者にしたのです。\n\n本日の BuildSelf では、「パーティーの隅や騒がしい待合室のベンチで計算をする」という習慣に関する認知科学的原則と、現代人が日常生活で簡単に実践できる 3 ステップのガイドを紹介します。",
+      "zh": "约翰·冯·诺依曼，人类历史上最聪明的人，来自匈牙利的天才数学家，他一手设计了数学、计算机科学、经济学、量子力学等各个领域的现代人类研究的基础（博弈论、诺依曼体系结构）。即使坐在音乐喧闹的聚会角落，或者坐在火车摇晃、蒸汽冒出蒸汽的喧闹候车室的长凳上，他也能毫无困难地推导出复杂的数学公式和计算机体系结构公式。无论周围环境多么嘈杂，他都将自己的认知资源隔离在脑中构建的虚拟黑板上。这种与世隔绝和沉浸在白噪音中的习惯使他成为历史上最伟大的天才数学家。\n\n今天在BuildSelf上，我们介绍了“在聚会的角落或在嘈杂的候诊室的长凳上做数学”习惯的认知科学原理，以及现代人在日常生活中可以轻松练习的三步指南。",
+      "es": "John von Neumann, la persona más inteligente de la historia de la humanidad y un genio matemático de Hungría que diseñó por sí solo las bases de los estudios humanos modernos (teoría de juegos, arquitectura de Neumann) en todos los campos, incluidas las matemáticas, la informática, la economía y la mecánica cuántica. Pudo deducir fórmulas matemáticas complejas y fórmulas de arquitectura informática sin dificultad, incluso mientras estaba sentado en un rincón de una fiesta con música a todo volumen o en un banco en una ruidosa sala de espera donde un tren temblaba y el vapor emitía vapor. Por muy ruidoso que fuera su entorno, aislaba sus recursos cognitivos únicamente en la pizarra virtual construida en su cabeza. Esta rutina de aislamiento e inmersión en ruido blanco fue lo que lo convirtió en el mayor genio matemático de la historia.\n\nHoy en BuildSelf, presentamos los principios científicos cognitivos del hábito de \"hacer matemáticas en un rincón de una fiesta o en un banco en una sala de espera ruidosa\" y una guía de 3 pasos que la gente moderna puede practicar fácilmente en su vida diaria.",
+      "fr": "John von Neumann, la personne la plus intelligente de l'histoire de l'humanité et un mathématicien de génie hongrois qui a conçu à lui seul les fondements des études humaines modernes (théorie des jeux, architecture de Neumann) dans tous les domaines, y compris les mathématiques, l'informatique, l'économie et la mécanique quantique. Il était capable de dériver sans difficulté des formules mathématiques complexes et des formules d'architecture informatique, même assis dans un coin d'une fête avec de la musique forte ou sur un banc dans une salle d'attente bruyante où un train tremblait et de la vapeur émettait de la vapeur. Aussi bruyant que soit son environnement, il isolait ses ressources cognitives uniquement sur le tableau virtuel construit dans sa tête. Cette routine d’isolement et d’immersion dans le bruit blanc a fait de lui le plus grand mathématicien de génie de l’histoire.\n\nAujourd'hui, sur BuildSelf, nous présentons les principes scientifiques cognitifs de l'habitude de « faire des mathématiques dans un coin d'une fête ou sur un banc dans une salle d'attente bruyante » ainsi qu'un guide en 3 étapes que les gens modernes peuvent facilement mettre en pratique dans leur vie quotidienne.",
+      "de": "John von Neumann, der intelligenteste Mensch der Menschheitsgeschichte und ein genialer Mathematiker aus Ungarn, der im Alleingang die Grundlagen moderner Humanstudien (Spieltheorie, Neumann-Architektur) in allen Bereichen, einschließlich Mathematik, Informatik, Wirtschaftswissenschaften und Quantenmechanik, entworfen hat. Er war in der Lage, komplexe mathematische Formeln und Computerarchitekturformeln ohne Schwierigkeiten abzuleiten, selbst während er in einer Ecke einer Party bei lauter Musik oder auf einer Bank in einem lauten Wartezimmer saß, wo ein Zug wackelte und Dampf ausströmte. Egal wie laut seine Umgebung war, er isolierte seine kognitiven Ressourcen ausschließlich auf der virtuellen Tafel, die er in seinem Kopf konstruiert hatte. Diese Routine der Isolation und des Eintauchens in weißes Rauschen machte ihn zum genialsten Mathematiker der Geschichte.\n\nHeute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien der Gewohnheit vor, „in der Ecke einer Party oder auf einer Bank in einem lauten Wartezimmer Mathe zu machen“ und eine dreistufige Anleitung, die moderne Menschen problemlos in ihrem täglichen Leben anwenden können.",
+      "pt": "John von Neumann, a pessoa mais inteligente da história da humanidade e um matemático genial da Hungria que, sozinho, projetou as bases dos estudos humanos modernos (teoria dos jogos, arquitetura de Neumann) em todos os campos, incluindo matemática, ciência da computação, economia e mecânica quântica. Ele foi capaz de derivar fórmulas matemáticas complexas e fórmulas de arquitetura de computador sem dificuldade, mesmo sentado em um canto de uma festa com música alta tocando ou em um banco em uma sala de espera barulhenta onde um trem tremia e vapor emitia vapor. Por mais barulhento que fosse o ambiente, ele isolava seus recursos cognitivos apenas no quadro negro virtual construído em sua cabeça. Essa rotina de isolamento e imersão em ruído branco foi o que fez dele o maior matemático genial da história.\n\nHoje, no BuildSelf, apresentamos os princípios científicos cognitivos do hábito de “fazer contas no canto de uma festa ou no banco de uma sala de espera barulhenta” e um guia de 3 passos que as pessoas modernas podem praticar facilmente em suas vidas diárias.",
+      "id": "John von Neumann, orang paling cerdas dalam sejarah manusia dan ahli matematika jenius dari Hongaria yang seorang diri merancang dasar-dasar studi manusia modern (teori permainan, arsitektur Neumann) di segala bidang termasuk matematika, ilmu komputer, ekonomi, dan mekanika kuantum. Dia mampu memperoleh rumus matematika yang rumit dan rumus arsitektur komputer tanpa kesulitan bahkan saat duduk di sudut pesta dengan musik keras diputar atau di bangku di ruang tunggu yang bising di mana kereta berguncang dan uap mengeluarkan uap. Tidak peduli seberapa berisik lingkungannya, dia mengisolasi sumber daya kognitifnya hanya pada papan tulis virtual yang dibangun di kepalanya. Rutinitas isolasi dan perendaman dalam white noise inilah yang menjadikannya ahli matematika jenius terhebat dalam sejarah.\n\nHari ini di BuildSelf, kami memperkenalkan prinsip ilmiah kognitif tentang kebiasaan 'mengerjakan matematika di sudut pesta atau di bangku di ruang tunggu yang bising' dan panduan 3 langkah yang dapat dengan mudah dipraktikkan oleh orang modern dalam kehidupan sehari-hari."
+    },
+    "whyTitle": {
+      "en": "Analysis of brain science principles that lead to success",
+      "ko": "성공을 자아내는 뇌과학적 원리 분석",
+      "ja": "成功に導く脳科学原理の分析",
+      "zh": "分析导致成功的脑科学原理",
+      "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
+      "fr": "Analyse des principes scientifiques du cerveau qui mènent au succès",
+      "de": "Analyse hirnwissenschaftlicher Prinzipien, die zum Erfolg führen",
+      "pt": "Análise dos princípios da ciência do cérebro que levam ao sucesso",
+      "id": "Analisis prinsip-prinsip ilmu otak yang mengarah pada kesuksesan"
+    },
+    "whyDesc": {
+      "en": "The act of artificially maintaining immersion under a certain level of controllable noise stimulation maximizes the 'auditory and sensory gating' mechanism, which is a higher cognitive function of the brain. The process of the brain filtering external stimuli into white noise and taking over the Central Executive Network of the frontal lobe improves the brain's attention control flexibility and strengthens immunity to immediately gain immersion in any unexpected environment.",
+      "ko": "일정 수준의 제어 가능한 소음 자극 하에서 인위적으로 몰입의 끈을 유지하려는 행위는 뇌의 상위 인지 기능인 '청각 및 감각 게이팅(Sensory Gating)' 메커니즘을 극대화합니다. 외부 자극을 뇌가 스스로 백색소음으로 필터링하고 전두엽의 중앙 집행 네트워크(Central Executive Network)를 장악하는 과정은 뇌의 주의 통제 유연성을 향상시켜, 어떠한 돌발 환경에서도 즉시 몰입을 획득하는 면역력을 단련합니다.",
+      "ja": "一定レベルの制御可能な騒音刺激の下で人工的に没入感を維持する行為は、脳の高次認知機能である「聴覚および感覚ゲート」メカニズムを最大化します。脳が外部刺激をホワイトノイズにフィルタリングし、前頭葉の中央実行ネットワークを引き継ぐプロセスにより、脳の注意制御の柔軟性が向上し、予期せぬ環境に即座に没入できるように免疫力が強化されます。",
+      "zh": "在一定程度的可控噪音刺激下人为地保持沉浸感的行为最大化了“听觉和感觉门控”机制，这是大脑的一种高级认知功能。大脑将外部刺激过滤成白噪音并接管额叶中央执行网络的过程提高了大脑注意力控制的灵活性，增强了免疫力，可以立即沉浸在任何意外的环境中。",
+      "es": "El acto de mantener artificialmente la inmersión bajo un cierto nivel de estimulación sonora controlable maximiza el mecanismo de \"activación auditiva y sensorial\", que es una función cognitiva superior del cerebro. El proceso por el que el cerebro filtra los estímulos externos en ruido blanco y se hace cargo de la Red Ejecutiva Central del lóbulo frontal mejora la flexibilidad del control de la atención del cerebro y fortalece la inmunidad para lograr una inmersión inmediata en cualquier entorno inesperado.",
+      "fr": "Le fait de maintenir artificiellement l'immersion sous un certain niveau de stimulation sonore contrôlable maximise le mécanisme de « déclenchement auditif et sensoriel », qui est une fonction cognitive supérieure du cerveau. Le processus par lequel le cerveau filtre les stimuli externes en bruit blanc et prend en charge le réseau exécutif central du lobe frontal améliore la flexibilité du contrôle de l'attention du cerveau et renforce l'immunité pour s'immerger immédiatement dans tout environnement inattendu.",
+      "de": "Der Vorgang der künstlichen Aufrechterhaltung der Immersion unter einem bestimmten Maß an kontrollierbarer Lärmstimulation maximiert den „auditiven und sensorischen Gating“-Mechanismus, bei dem es sich um eine höhere kognitive Funktion des Gehirns handelt. Der Prozess, bei dem das Gehirn äußere Reize in weißes Rauschen filtert und das zentrale Exekutivnetzwerk des Frontallappens übernimmt, verbessert die Aufmerksamkeitskontrollflexibilität des Gehirns und stärkt die Immunität, um sofort in jede unerwartete Umgebung einzutauchen.",
+      "pt": "O ato de manter artificialmente a imersão sob um certo nível de estimulação sonora controlável maximiza o mecanismo de 'bloqueio auditivo e sensorial', que é uma função cognitiva superior do cérebro. O processo do cérebro de filtrar estímulos externos em ruído branco e assumir o controle da Rede Executiva Central do lobo frontal melhora a flexibilidade do controle da atenção do cérebro e fortalece a imunidade para obter imersão imediata em qualquer ambiente inesperado.",
+      "id": "Tindakan mempertahankan perendaman secara artifisial di bawah rangsangan kebisingan terkendali pada tingkat tertentu memaksimalkan mekanisme 'pintu pendengaran dan sensorik', yang merupakan fungsi kognitif otak yang lebih tinggi. Proses otak menyaring rangsangan eksternal menjadi white noise dan mengambil alih Jaringan Eksekutif Pusat di lobus frontal meningkatkan fleksibilitas kontrol perhatian otak dan memperkuat kekebalan untuk segera menyelami lingkungan yang tidak terduga."
+    },
+    "cautionTitle": {
+      "en": "Behavioral science advice for successful settlement",
+      "ko": "성공적인 안착을 위한 행동과학 조언",
+      "ja": "解決を成功させるための行動科学的アドバイス",
+      "zh": "成功解决问题的行为科学建议",
+      "es": "Consejos de ciencias del comportamiento para un acuerdo exitoso",
+      "fr": "Conseils en sciences comportementales pour un établissement réussi",
+      "de": "Verhaltenswissenschaftliche Ratschläge für eine erfolgreiche Siedlung",
+      "pt": "Conselhos científicos comportamentais para uma liquidação bem-sucedida",
+      "id": "Nasihat ilmu perilaku untuk penyelesaian yang sukses"
+    },
+    "cautionDesc": {
+      "en": "Avoid noise from construction sites or environments with extremely ear-piercing decibels, as these are harmful to brain health. The key is to filter out everyday light white noise or classical music through a brain filter.",
+      "ko": "공사장 소음이나 귀를 찢는 극단적 데시벨의 환경은 뇌 건강에 해로우므로 피하세요. 일상의 가벼운 백색소음이나 클래식 음악의 흐름을 뇌 필터로 걸러내는 것이 핵심입니다.",
+      "ja": "建設現場や耳をつんざくほどのデシベルの環境からの騒音は脳の健康に有害なので避けてください。重要なのは、日常の軽いホワイトノイズやクラシック音楽を脳のフィルターを通して除去することです。",
+      "zh": "避免来自建筑工地或分贝极其刺耳的环境的噪音，因为这些噪音对大脑健康有害。关键是通过大脑过滤器过滤掉日常轻白噪音或古典音乐。",
+      "es": "Evite el ruido de las obras o de entornos con decibeles extremadamente ensordecedores, ya que son perjudiciales para la salud del cerebro. La clave es filtrar el ruido blanco cotidiano o la música clásica a través de un filtro cerebral.",
+      "fr": "Évitez le bruit des chantiers de construction ou des environnements avec des décibels extrêmement perçants, car ceux-ci sont nocifs pour la santé cérébrale. La clé est de filtrer le bruit blanc léger du quotidien ou la musique classique à travers un filtre cérébral.",
+      "de": "Vermeiden Sie Lärm von Baustellen oder Umgebungen mit extrem ohrenbetäubenden Dezibel, da diese schädlich für die Gesundheit des Gehirns sind. Der Schlüssel liegt darin, alltägliches leichtes weißes Rauschen oder klassische Musik durch einen Gehirnfilter herauszufiltern.",
+      "pt": "Evite ruídos de canteiros de obras ou ambientes com decibéis extremamente ensurdecedores, pois são prejudiciais à saúde do cérebro. A chave é filtrar o ruído branco leve do dia a dia ou a música clássica por meio de um filtro cerebral.",
+      "id": "Hindari kebisingan dari lokasi konstruksi atau lingkungan dengan desibel yang sangat memekakkan telinga, karena berbahaya bagi kesehatan otak. Kuncinya adalah menyaring white noise ringan atau musik klasik sehari-hari melalui filter otak."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Step 1: Setting up environment and tools",
+          "ko": "1단계: 환경 설정 및 도구 세팅",
+          "ja": "ステップ 1: 環境とツールのセットアップ",
+          "zh": "第1步：搭建环境和工具",
+          "es": "Paso 1: configurar el entorno y las herramientas",
+          "fr": "Étape 1 : Configuration de l'environnement et des outils",
+          "de": "Schritt 1: Einrichten von Umgebung und Werkzeugen",
+          "pt": "Passo 1: Configurando o ambiente e as ferramentas",
+          "id": "Langkah 1: Menyiapkan lingkungan dan alat"
+        },
+        "text": {
+          "en": "When performing intensive training every day, instead of a quiet library, choose to sit by the window of a cafe with appropriate noise from everyday life or a space where you can hear ventilation noise. Exposure to ambient noise.",
+          "ko": "매일 집중 훈련을 수행할 때 조용한 도서관 대신, 적절한 생활 소음이 있는 카페 창가나 환기 소음이 들리는 공간을 선별하여 앉습니다. 주변 주의 소음에 노출됩니다.",
+          "ja": "毎日集中的にトレーニングを行う場合は、静かな図書館ではなく、適度に生活音が聞こえるカフェの窓際や換気音が聞こえる空間を選びましょう。周囲の騒音にさらされる。",
+          "zh": "每天进行强化训练时，不要选择安静的图书馆，而是选择坐在日常生活噪音适当的咖啡馆窗边或者能听到通风噪音的空间。暴露于环境噪音中。",
+          "es": "Cuando realices un entrenamiento intensivo todos los días, en lugar de una biblioteca tranquila, opta por sentarte junto a la ventana de una cafetería con el ruido apropiado de la vida cotidiana o en un espacio donde puedas escuchar el ruido de la ventilación. Exposición al ruido ambiental.",
+          "fr": "Lorsque vous effectuez un entraînement intensif quotidien, au lieu d'une bibliothèque calme, choisissez de vous asseoir près de la fenêtre d'un café avec le bruit approprié de la vie quotidienne ou dans un espace où vous pouvez entendre le bruit de la ventilation. Exposure to ambient noise.",
+          "de": "Wenn Sie jeden Tag ein intensives Training absolvieren, setzen Sie sich anstelle einer ruhigen Bibliothek lieber an das Fenster eines Cafés mit angemessenem Alltagslärm oder an einen Ort, an dem Sie Lüftungsgeräusche hören können. Belastung durch Umgebungsgeräusche.",
+          "pt": "Ao realizar treinamento intensivo todos os dias, em vez de uma biblioteca silenciosa, opte por sentar-se à janela de um café com ruído apropriado da vida cotidiana ou em um espaço onde você possa ouvir ruídos de ventilação. Exposição ao ruído ambiente.",
+          "id": "Saat melakukan latihan intensif setiap hari, daripada di perpustakaan yang sepi, pilihlah untuk duduk di dekat jendela kafe dengan kebisingan yang sesuai dari kehidupan sehari-hari atau di ruangan di mana Anda dapat mendengar suara ventilasi. Paparan kebisingan sekitar."
+        }
+      },
+      {
+        "name": {
+          "en": "Step 2: Full sense projection and practice",
+          "ko": "2단계: 온전한 감각 투사와 실천",
+          "ja": "ステップ 2: 完全な感覚の投影と実践",
+          "zh": "第二步：全感官投射和练习",
+          "es": "Paso 2: Proyección y práctica de todos los sentidos.",
+          "fr": "Étape 2 : Projection et pratique plein sens",
+          "de": "Schritt 2: Projektion und Übung des vollständigen Sinnes",
+          "pt": "Passo 2: Projeção de sentido pleno e prática",
+          "id": "Langkah 2: Proyeksi dan latihan indra penuh"
+        },
+        "text": {
+          "en": "Instead of wearing noise-canceling earphones to suppress surrounding noise, I let the surrounding sounds flow like the sound of a flowing wind and focus my intense concentration on only one line of text on my work monitor for two minutes.",
+          "ko": "주변 소음을 억제하기 위해 노이즈 캔슬링 이어폰을 끼는 대신, 주변 소리들을 하나의 흘러가는 바람 소리처럼 흘려보내며 오직 내 업무 모니터의 텍스트 한 줄에만 2분간 고도의 집중력을 좁힙니다.",
+          "ja": "周囲の騒音を抑えるためにノイズキャンセリングイヤホンを装着するのではなく、周囲の音を風の音のように流し、仕事用モニターのたった1行のテキストに2分間集中して取り組みました。",
+          "zh": "我没有戴降噪耳机来抑制周围的噪音，而是让周围的声音像风一样流动，并将我的注意力集中在工作显示器上的一行文字上两分钟。",
+          "es": "En lugar de usar auriculares con cancelación de ruido para suprimir el ruido ambiental, dejo que los sonidos circundantes fluyan como el sonido de un viento y concentro mi intensa concentración en una sola línea de texto en mi monitor de trabajo durante dos minutos.",
+          "fr": "Au lieu de porter des écouteurs antibruit pour supprimer le bruit environnant, je laisse les sons environnants circuler comme le bruit d'un vent qui coule et je concentre ma concentration intense sur une seule ligne de texte sur mon écran de travail pendant deux minutes.",
+          "de": "Anstatt Kopfhörer mit Geräuschunterdrückung zu tragen, um Umgebungsgeräusche zu unterdrücken, lasse ich die Umgebungsgeräusche wie das Geräusch eines fließenden Windes fließen und konzentriere mich zwei Minuten lang intensiv auf nur eine Textzeile auf meinem Arbeitsmonitor.",
+          "pt": "Em vez de usar fones de ouvido com cancelamento de ruído para suprimir o ruído ambiente, deixo os sons circundantes fluírem como o som de um vento e concentro minha intensa concentração em apenas uma linha de texto no meu monitor de trabalho por dois minutos.",
+          "id": "Daripada memakai earphone peredam bising untuk meredam kebisingan di sekitar, saya membiarkan suara di sekitar mengalir seperti suara angin yang mengalir dan memfokuskan konsentrasi intens saya hanya pada satu baris teks di monitor kerja saya selama dua menit."
+        }
+      },
+      {
+        "name": {
+          "en": "Step 3: Objective looking and meta-organizing",
+          "ko": "3단계: 객관적 응시 및 메타 정리",
+          "ja": "ステップ 3: 客観視とメタ整理",
+          "zh": "第三步：客观观察和元组织",
+          "es": "Paso 3: Mirada objetiva y metaorganización",
+          "fr": "Étape 3 : Recherche objective et méta-organisation",
+          "de": "Schritt 3: Objektive Betrachtung und Meta-Organisation",
+          "pt": "Passo 3: Visão objetiva e meta-organização",
+          "id": "Langkah 3: Pandangan obyektif dan pengorganisasian meta"
+        },
+        "text": {
+          "en": "I tightly control the boundaries of my consciousness and focus on reading sentences, as if putting a transparent shield in my head to prevent noise stimulation from penetrating my cognitive filter.",
+          "ko": "소음 자극이 내 인지 필터를 뚫지 못하도록 머릿속에 투명한 방어막을 씌우듯 의식의 경계를 단단히 제어하고 문장 읽기에 집중합니다.",
+          "ja": "まるで透明なシールドを頭の上にかぶせて、騒音刺激が認知フィルターを通過するのを防ぐかのように、意識の境界をしっかりと制御しています。",
+          "zh": "我严格控制自己的意识边界，专注于阅读句子，就像在自己的脑袋里放了一个透明的防护罩，防止噪音刺激穿透我的认知过滤器。",
+          "es": "Controlo estrictamente los límites de mi conciencia y me concentro en leer oraciones, como si me pusiera un escudo transparente en la cabeza para evitar que la estimulación del ruido penetre mi filtro cognitivo.",
+          "fr": "Je contrôle étroitement les limites de ma conscience et me concentre sur la lecture de phrases, comme si je mettais un bouclier transparent dans ma tête pour empêcher la stimulation sonore de pénétrer dans mon filtre cognitif.",
+          "de": "Ich kontrolliere die Grenzen meines Bewusstseins streng und konzentriere mich auf das Lesen von Sätzen, als würde ich einen transparenten Schutz in meinen Kopf legen, um zu verhindern, dass Lärmreize meinen kognitiven Filter durchdringen.",
+          "pt": "Eu controlo firmemente os limites da minha consciência e me concentro na leitura de frases, como se colocasse um escudo transparente na minha cabeça para evitar que a estimulação sonora penetre no meu filtro cognitivo.",
+          "id": "Saya mengontrol dengan ketat batas kesadaran saya dan fokus membaca kalimat, seolah-olah memasang perisai transparan di kepala saya untuk mencegah rangsangan kebisingan menembus filter kognitif saya."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "Is this a routine you perform the same every day?",
+          "ko": "매일 똑같이 수행하는 루틴인가요?",
+          "ja": "これはあなたが毎日行うルーチンですか？",
+          "zh": "这是你每天都会做的例行公事吗？",
+          "es": "¿Es esta una rutina que realizas igual todos los días?",
+          "fr": "Est-ce une routine que vous effectuez de la même manière tous les jours ?",
+          "de": "Ist das eine Routine, die Sie jeden Tag gleich durchführen?",
+          "pt": "Essa é uma rotina que você faz igual todos os dias?",
+          "id": "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
+        },
+        "answer": {
+          "en": "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build long-term neuron circuits.",
+          "ko": "네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.",
+          "ja": "そう、毎日決まった時間に3分間軽く行うことが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。",
+          "zh": "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。",
+          "es": "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir circuitos neuronales a largo plazo.",
+          "fr": "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire des circuits neuronaux à long terme.",
+          "de": "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und langfristige Neuronenschaltkreise aufzubauen.",
+          "pt": "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir circuitos neuronais de longo prazo.",
+          "id": "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
+        }
+      },
+      {
+        "question": {
+          "en": "If I don't have the tool, how do I replace it?",
+          "ko": "도구가 없으면 어떻게 대체하나요?",
+          "ja": "ツールを持っていない場合、どうやって交換すればよいですか?",
+          "zh": "如果我没有该工具，如何更换？",
+          "es": "Si no tengo la herramienta, ¿cómo la reemplazo?",
+          "fr": "Si je n'ai pas l'outil, comment puis-je le remplacer ?",
+          "de": "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?",
+          "pt": "Se eu não tiver a ferramenta, como faço para substituí-la?",
+          "id": "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
+        },
+        "answer": {
+          "en": "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.",
+          "ko": "안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.",
+          "ja": "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。",
+          "zh": "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。",
+          "es": "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.",
+          "fr": "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.",
+          "de": "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.",
+          "pt": "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.",
+          "id": "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+        }
+      }
+    ],
+    "pubDate": "2026-06-28",
+    "updatedDate": "2026-06-28"
+  }
+}

@@ -16,6 +16,11 @@ steps:
     text: "Lesen Sie aufrecht sitzend und konzentriert. Reflektieren Sie 15 Minuten lang über die Aussagen im Buch, statt es nur zu überfliegen."
   - name: "Visualisierung der Vision und Schlaf"
     text: "Legen Sie das Buch beiseite, schließen Sie die Augen und visualisieren Sie Ihre Ziele für 1 bis 2 Minuten, bevor Sie einschlafen."
+faqs:
+  - question: "Hat das Lesen von Romanen oder Comics vor dem Schlafengehen denselben Effekt wie die klassische Lektüre-Routine?"
+    answer: "Leichte Belletristik hilft ebenfalls, Stress abzubauen, aber um eine „wertorientierte Motivation“ zu erzeugen, die die Identität stärkt und Willenskraft freisetzt, ist es besser, klassische Epen, Philosophie oder Biografien zu wählen, die tiefere Reflexion anregen."
+  - question: "Kann ich im Liegen auf einem E-Reader lesen?"
+    answer: "E-Reader oder Tablets strahlen Licht aus, das dem Gehirn Tag vortäuscht und die Melatoninausschüttung hemmt. Für eine optimale Ausrichtung des Unterbewusstseins und tiefen Schlaf wird empfohlen, ein echtes Buch aus Papier bei gedimmtem Licht zu lesen."
 ---
 
 Alexander der Große schlief selbst im Feldlager immer mit einem Buch der Ilias von Homer (herausgegeben von Aristoteles) und einem Dolch unter seinem Kissen. Dies half ihm, seine Ängste zu besiegen und sich als unbesiegbarer Held zu sehen.
@@ -85,5 +90,29 @@ Vor dem Schlafen wechselt das Gehirn in Alpha- und Theta-Wellen. Informationen d
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Häufig gestellte Fragen (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Hat das Lesen von Romanen oder Comics vor dem Schlafengehen denselben Effekt wie die klassische Lektüre-Routine?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Leichte Belletristik hilft ebenfalls, Stress abzubauen, aber um eine „wertorientierte Motivation“ zu erzeugen, die die Identität stärkt und Willenskraft freisetzt, ist es besser, klassische Epen, Philosophie oder Biografien zu wählen, die tiefere Reflexion anregen.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Kann ich im Liegen auf einem E-Reader lesen?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      E-Reader oder Tablets strahlen Licht aus, das dem Gehirn Tag vortäuscht und die Melatoninausschüttung hemmt. Für eine optimale Ausrichtung des Unterbewusstseins und tiefen Schlaf wird empfohlen, ein echtes Buch aus Papier bei gedimmtem Licht zu lesen.
+    </p>
+  </details>
+</div>
 <strong></strong>

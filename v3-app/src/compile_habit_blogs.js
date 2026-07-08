@@ -61,8 +61,19 @@ function run() {
     // koContent로부터 한글 STEP 명칭 및 본문 파싱 수집
     const koSteps = parseKoSteps(koContentUpdated);
 
+    const koTagsMatch = koContentUpdated.match(/tags:\s*(\[[^\]]*\])/);
+    const koTagsStr = koTagsMatch ? koTagsMatch[1] : '["위인 습관", "Routine"]';
+
+    const targetSlugs = [
+      "van-gogh", "nightingale", "picasso", "helen-keller", "schubert",
+      "theodore-roosevelt", "stephen-hawking", "jane-goodall", "shakespeare", "amelia-earhart",
+      "georgia-okeeffe", "von-neumann", "charlie-chaplin", "coco-chanel", "chekhov",
+      "thatcher", "pasteur", "liszt", "bradbury", "hesse"
+    ];
+
     languages.forEach(lang => {
-      if (lang === 'ko') return;
+      if (lang === 'ko' && !targetSlugs.includes(blogSlug)) return;
+
       const targetDir = pathModule.join(blogRoot, lang);
       const targetPath = pathModule.join(targetDir, `${blogSlug}.md`);
 
@@ -77,10 +88,15 @@ function run() {
       let cautionTitle = data.cautionTitle[lang] || data.cautionTitle['en'] || "";
       let cautionDesc = (data.cautionDesc[lang] || data.cautionDesc['en'] || "").replace(/\\n/g, '\n');
 
-      const rawTags = lang === 'en' 
-        ? ["Great Habits", blogSlug.split('-')[0], "Routine", "Stamina"]
-        : [title ? title.substring(0, 10) : "Routine", "Routine"];
-      const tags = JSON.stringify(rawTags);
+      let tags;
+      if (lang === 'ko') {
+        tags = koTagsStr;
+      } else {
+        const rawTags = lang === 'en' 
+          ? ["Great Habits", blogSlug.split('-')[0], "Routine", "Stamina"]
+          : [title ? title.substring(0, 10) : "Routine", "Routine"];
+        tags = JSON.stringify(rawTags);
+      }
 
       const steps = [];
       const stepCards = [];

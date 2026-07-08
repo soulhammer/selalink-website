@@ -16,6 +16,11 @@ steps:
     text: "Buka kalender harian Anda dan masukkan sub-tugas tadi dalam blok durasi 5, 15, atau 30 menit secara padat tanpa celah."
   - name: "Eksekusi Fokus Tinggi dengan Timer"
     text: "Nyalakan timer, aktifkan pemblokir notifikasi, dan kerjakan satu tugas tersebut dengan kecepatan tinggi hingga timer berbunyi, lalu segera berpindah tugas."
+faqs:
+  - question: "Apakah menjadwalkan dalam blok 5 menit tidak menyebabkan stres berat sepanjang hari?"
+    answer: "Bagi pemula, mengisi seluruh jadwal dengan blok 5 menit tentu menyebabkan beban kognitif berlebih. Disarankan mulai menjadwalkan blok 15 atau 30 menit selama 1 atau 2 jam fokus saja sehari."
+  - question: "Bagaimana jika saya tidak dapat menyelesaikan pekerjaan dalam blok waktu yang dialokasikan?"
+    answer: "Segera pindah ke blok berikutnya. Alokasikan pekerjaan yang belum selesai ke 'Buffer Block' khusus di sore hari untuk mencegah satu penundaan merusak seluruh hari."
 ---
 
 Elon Musk memimpin Tesla dan SpaceX dengan waktu kerja 100 jam per minggu. Rahasia produktivitasnya adalah membagi jadwal dalam blok 5 menit. Saat berada di satu blok, ia mematikan notifikasi dan fokus 100%.
@@ -85,5 +90,29 @@ Hukum Parkinson menyatakan bahwa pekerjaan akan melar sesuai waktu yang disediak
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Apakah menjadwalkan dalam blok 5 menit tidak menyebabkan stres berat sepanjang hari?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Bagi pemula, mengisi seluruh jadwal dengan blok 5 menit tentu menyebabkan beban kognitif berlebih. Disarankan mulai menjadwalkan blok 15 atau 30 menit selama 1 atau 2 jam fokus saja sehari.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Bagaimana jika saya tidak dapat menyelesaikan pekerjaan dalam blok waktu yang dialokasikan?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Segera pindah ke blok berikutnya. Alokasikan pekerjaan yang belum selesai ke 'Buffer Block' khusus di sore hari untuk mencegah satu penundaan merusak seluruh hari.
+    </p>
+  </details>
+</div>
 <strong></strong>

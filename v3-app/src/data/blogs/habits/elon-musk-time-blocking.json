@@ -163,6 +163,56 @@
       }
     ],
     "pubDate": "2026-06-15",
-    "updatedDate": "2026-06-15"
+    "updatedDate": "2026-06-15",
+    "faqs": [
+      {
+        "question": {
+          "ko": "5분 단위로 스케줄을 잡으면 하루 종일 큰 스트레스를 받지 않나요?",
+          "en": "Doesn't scheduling in 5-minute blocks cause heavy stress all day?",
+          "ja": "5分単位でスケジュールを立てると、一日中強いストレスを感じませんか？",
+          "zh": "以五分钟为单位安排日程，难道不会整天都感到压力巨大吗？",
+          "es": "¿No causa mucho estrés organizar el día en bloques de 5 minutos?",
+          "fr": "Le fait de planifier sa journée en blocs de 5 minutes ne cause-t-il pas un stress important ?",
+          "de": "Verursacht die Planung in 5-Minuten-Blöcken nicht den ganzen Tag über extremen Stress?",
+          "pt": "Organizar a agenda em blocos de 5 minutos não causa estresse excessivo?",
+          "id": "Apakah menjadwalkan dalam blok 5 menit tidak menyebabkan stres berat sepanjang hari?"
+        },
+        "answer": {
+          "ko": "초보자가 매일 모든 시간표를 5분 단위로 채우는 것은 당연히 강한 인지적 과부하를 줍니다. 처음에는 하루 중 1~2시간만 집중 시간대로 설정하여 15분 또는 30분 단위의 시간 블록을 지정해 몰입력을 기르는 훈련을 먼저 시작해 보시는 것이 좋습니다.",
+          "en": "For beginners, filling the entire schedule with 5-minute blocks causes cognitive overload. It is recommended to start by scheduling 15 or 30-minute blocks for just 1 or 2 focus hours a day.",
+          "ja": "初心者が毎日すべての時間割を5分単位で埋めるのは、当然強い認知的な過負荷を与えます。最初は一日のうち1〜2時間だけを集中時間帯に設定し、15分または30分単位の時間ブロックを指定して没頭力を養う訓練から始めることをお勧めします。",
+          "zh": "对于初学者来说，每天把所有时间表都填满五分钟的时间块，自然会带来强烈的认知过载。建议一开始每天只设立一到两小时的专注时间，划分成十五分钟或三十分钟的时间块来锻炼沉浸力。",
+          "es": "Para principiantes, llenar toda la agenda con bloques de 5 minutos provoca sobrecarga cognitiva. Se recomienda empezar con bloques de 15 o 30 minutos solo para 1 o 2 horas de enfoque al día.",
+          "fr": "Pour les débutants, remplir tout l'agenda avec des blocs de 5 minutes provoque une surcharge cognitive. Il est conseillé de commencer par des blocs de 15 ou 30 minutes pour seulement 1 ou 2 heures de concentration par jour.",
+          "de": "Beginnen Sie mit 15- oder 30-Minuten-Blöcken für 1 oder 2 Fokus-Stunden pro Tag. Eine vollständige Umstellung führt anfangs zu Überlastung.",
+          "pt": "Para iniciantes, preencher todo o cronograma com blocos de 5 minutos gera sobrecarga cognitiva. Recomenda-se começar com blocos de 15 ou 30 minutos para apenas 1 ou 2 horas de foco por dia.",
+          "id": "Bagi pemula, mengisi seluruh jadwal dengan blok 5 menit tentu menyebabkan beban kognitif berlebih. Disarankan mulai menjadwalkan blok 15 atau 30 menit selama 1 atau 2 jam fokus saja sehari."
+        }
+      },
+      {
+        "question": {
+          "ko": "만약 블록으로 지정한 시간 내에 일을 다 끝내지 못했을 때는 어떻게 하나요?",
+          "en": "What if I can't finish the task within the allocated time block?",
+          "ja": "もしブロックで指定した時間内に仕事を終えられなかった場合はどうしますか？",
+          "zh": "如果在规定的时间块内没有完成工作该怎么办？",
+          "es": "¿Qué pasa si no termino el trabalho dentro del bloque asignado?",
+          "fr": "Que se passe-t-il si je ne termine pas le travail dans le bloc de temps alloué ?",
+          "de": "Was mache ich, wenn ich eine Aufgabe nicht im zugewiesenen Block schaffe?",
+          "pt": "E se eu não conseguir terminar a tarefa dentro do bloco alocado?",
+          "id": "Bagaimana jika saya tidak dapat menyelesaikan pekerjaan dalam blok waktu yang dialokasikan?"
+        },
+        "answer": {
+          "ko": "지정된 시간이 다 되면 일단 다음 계획된 블록으로 무조건 넘어갑니다. 끝내지 못한 일은 오후 늦게 별도로 마련해 둔 '여유 시간(Buffer Block)'에 할당하여 처리합니다. 이렇게 해야 한 과제가 지연되어 전체 하루 일정이 도미노처럼 붕괴하는 것을 막고 시간의 통제권을 지킬 수 있습니다.",
+          "en": "Move to the next block immediately. Assign unfinished work to a dedicated 'Buffer Block' late in the afternoon to prevent a single delay from ruining the whole day.",
+          "ja": "指定された時間が来たら、まずは次の予定されたブロックへ無条件に移行します。終えられなかった仕事は、午後の遅い時間に別途設けておいた「バッファブロック（Buffer Block）」に割り当てて処理します。これにより、一つの課題の遅れが一日全体の予定をドミノ倒しのように崩壊させるのを防ぎ、時間のコントロールを守ることができます。",
+          "zh": "时间一到，无论如何请先转入下一个既定的时间块。未完成的工作会被分配到下午晚些时候专门留出的“缓冲时间块（Buffer Block）”中处理。这样能防止一个任务拖延导致全天日程像多米诺骨牌一样崩溃，确保掌握时间的主动权。",
+          "es": "Pase al siguiente bloque de inmediato. Asigne el trabalho pendiente a un 'bloque de reserva' (Buffer Block) al final de la tarde, evitando que un retraso arruine todo el día.",
+          "fr": "Passez immédiatement au bloc suivant. Allouez le travail restant à un 'bloc tampon' (Buffer Block) en fin d'après-midi, pour éviter qu'un retard ne gâche toute la journée.",
+          "de": "Wechseln Sie sofort zum nächsten Block. Verschieben Sie Unerledigtes auf einen speziellen Puffer-Block (Buffer Block) am Spätnachmittag, damit kein Domino-Effekt entsteht.",
+          "pt": "Mude para o próximo bloco imediatamente. Aloque o trabalho pendente em um 'bloco de folga' (Buffer Block) no final da tarde, evitando que um atraso estrague todo o dia.",
+          "id": "Segera pindah ke blok berikutnya. Alokasikan pekerjaan yang belum selesai ke 'Buffer Block' khusus di sore hari untuk mencegah satu penundaan merusak seluruh hari."
+        }
+      }
+    ]
   }
 }

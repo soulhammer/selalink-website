@@ -16,6 +16,11 @@ steps:
     text: "At the middle point of the day or right before work, intuitively grasp the mid-progress of the set key metrics without emotional bias."
   - name: "Daily Logbook Recording"
     text: "Immediately after work, open your notebook or tool, meticulously record the measured metrics as they are, and diagnose inefficiencies by observing weekly average trends."
+faqs:
+  - question: "I don't feel like journaling on days when my metrics are poor. What should I do?"
+    answer: "The core of activating metacognition lies not in 'success' but in 'accurate monitoring'. Honestly facing and writing down low metrics on failed days clears away cognitive illusions and builds the resilience to design tomorrow's strategy."
+  - question: "Can I manage all metrics using only Notion or Excel?"
+    answer: "Digital devices present high temptations like social media or email notifications during logging. Writing down daily metrics manually using a paper journal and an analog pen, like George Washington, guarantees a much stronger immersion for cognitive brain purification and deep insight formation."
 ---
 
 George Washington, the hero who led the American Revolutionary War to victory and guided the young country. Under massive administration duties, the secret behind his analytical power was his early farm management routine. ☀️
@@ -87,5 +92,29 @@ Metacognition is the ability to accurately distinguish what you know and what yo
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>I don't feel like journaling on days when my metrics are poor. What should I do?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      The core of activating metacognition lies not in 'success' but in 'accurate monitoring'. Honestly facing and writing down low metrics on failed days clears away cognitive illusions and builds the resilience to design tomorrow's strategy.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Can I manage all metrics using only Notion or Excel?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Digital devices present high temptations like social media or email notifications during logging. Writing down daily metrics manually using a paper journal and an analog pen, like George Washington, guarantees a much stronger immersion for cognitive brain purification and deep insight formation.
+    </p>
+  </details>
+</div>
 <strong></strong>

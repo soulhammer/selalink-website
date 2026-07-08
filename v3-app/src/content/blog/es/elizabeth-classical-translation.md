@@ -16,6 +16,11 @@ steps:
     text: "Apague el traductor de internet. Use un diccionario físico o app básica de vocabulario, busque el origen de las palabras y traduzca a mano en un cuaderno."
   - name: "Comparación lógica y revisión"
     text: "Compare el resultado con el original. Asegúrese de que la lógica gramatical fluye de forma natural en su idioma, puliendo la redacción final."
+faqs:
+  - question: "¿No hay beneficio en comparar texto de inmediato usando traductores de IA?"
+    answer: "Sí, obtener resultados con un solo clic no estimula las redes cognitivas. Las sinapsis en la corteza frontal se desarrollan activamente solo cuando pasa por el 'proceso de resistencia cerebral', como buscar diccionarios y armar la oración."
+  - question: "¿El effecto se limita solo a estudiar idiomas clásicos como el griego y el latín?"
+    answer: "No. Los textos de idiomas extranjeros modernos (inglés, chino, alemán, etc.) con diferentes estructuras lógicas sirven como excelentes herramientas. La clave es traducir textos densos y formales como filosofía o columnas, no diálogos casuales."
 ---
 
 Isabel I, reina de Inglaterra, lideró el país durante la Armada Invencible y gran inestabilidad. Su secreto era levantarse temprano para traducir a Cicerón o Séneca del latín al inglés durante una hora. Este descifrado gramatical agudizaba su mente para decidir sobre los asuntos de Estado.
@@ -85,5 +90,29 @@ Traducir activa la corteza prefrontal dorsolateral (dlPFC), encargada del contro
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿No hay beneficio en comparar texto de inmediato usando traductores de IA?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sí, obtener resultados con un solo clic no estimula las redes cognitivas. Las sinapsis en la corteza frontal se desarrollan activamente solo cuando pasa por el 'proceso de resistencia cerebral', como buscar diccionarios y armar la oración.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>¿El effecto se limita solo a estudiar idiomas clásicos como el griego y el latín?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No. Los textos de idiomas extranjeros modernos (inglés, chino, alemán, etc.) con diferentes estructuras lógicas sirven como excelentes herramientas. La clave es traducir textos densos y formales como filosofía o columnas, no diálogos casuales.
+    </p>
+  </details>
+</div>
 <strong></strong>

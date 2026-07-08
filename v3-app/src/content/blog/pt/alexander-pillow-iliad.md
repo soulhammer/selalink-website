@@ -16,6 +16,11 @@ steps:
     text: "Evite ler deitado de qualquer jeito. Sente-se confortavelmente e saboreie as palavras nobres por 15 minutos, refletindo sobre elas."
   - name: "Visualização do propósito e sono"
     text: "Feche o livro e mentalize as metas de amanhã ou as qualidades que deseja imitar por 2 minutos antes de pegar no sono."
+faqs:
+  - question: "Ler romances ou histórias em quadrinhos antes de dormir tem o mesmo efeito que a rotina de leitura de clássicos?"
+    answer: "A ficção leve também alivia el estresse cerebral, mas para produzir uma 'motivação orientada a valores' que alinee la identidad y despierte la fuerza de voluntad, es mucho melhor escolher epopeyas clássicas, livros de filosofia ou biografias que tragan reflexão e ressonância interna."
+  - question: "Posso ler livros em um e-reader deitado?"
+    answer: "Telas de e-readers ou tablets emitem luz azul, o que pode confundir o cérebro fazendo-o pensar que é dia e suprimir a melatonina. Para obter o melhor efeito de alinhamento subconsciente e sono profundo, recomenda-se ler um livro físico de papel sob luz suave."
 ---
 
 Alexandre o Grande conquistou o maior império de sua época. Seu refúgio mental era a Ilíada de Homero (corrigida por Aristóteles), que ele mantinha sob o travesseiro com uma adaga. Ler sobre Aquiles limpava seu medo antes de dormir.
@@ -85,5 +90,29 @@ Antes de dormir, as ondas cerebrais desaceleram para o estado alfa e theta, faci
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Ler romances ou histórias em quadrinhos antes de dormir tem o mesmo efeito que a rotina de leitura de clássicos?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      A ficção leve também alivia el estresse cerebral, mas para produzir uma 'motivação orientada a valores' que alinee la identidad y despierte la fuerza de voluntad, es mucho melhor escolher epopeyas clássicas, livros de filosofia ou biografias que tragan reflexão e ressonância interna.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Posso ler livros em um e-reader deitado?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Telas de e-readers ou tablets emitem luz azul, o que pode confundir o cérebro fazendo-o pensar que é dia e suprimir a melatonina. Para obter o melhor efeito de alinhamento subconsciente e sono profundo, recomenda-se ler um livro físico de papel sob luz suave.
+    </p>
+  </details>
+</div>
 <strong></strong>

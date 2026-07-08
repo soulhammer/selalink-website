@@ -16,6 +16,11 @@ steps:
     text: "腕立て伏せ10回、スクワット15回、プランク30秒などの簡単な自重トレーニングのセットを3回繰り返します。筋肉を伸縮させることがドーパミンの分泌を効果的に促します。"
   - name: "能動的主導権の確立"
     text: "トレーニングを終えた後、今日中に必ず達成すべき優先事項を1〜2個心に決めます。自分の人生の主導権が完全に自分にあることを認識し、意志を固めます。"
+faqs:
+  - question: "睡眠時間が不足していても、早朝5時に起きて無条件に運動する方がいいですか？"
+    answer: "身体の疲労が極端に激しい日は、無理に激しい運動をするよりも、5〜10分間の軽いストレッチや深呼吸に替える方が望ましいです。マンデルラルーティンの本質は体を酷使することではなく、一日の主導権を「自分の意志」で始めることにあります。"
+  - question: "体力が非常に弱い初心者はどのように始めるのがいいですか？"
+    answer: "腕立て伏せは壁を押して行ったり膝をついて始め、スクワットも椅子に座って立ち上がる動作に代えるなど、自分に合った強度で始めてみてください。一日5分、たった1セットだけでも、自律性を守る朝の肯定的な脳ルーティンは活性化されます。"
 ---
 
 人間の尊厳と平等のための闘いに生涯を捧げ、南アフリカ共和国初の黒人大統領となったネルソン・マンデラ。彼は人種隔離政策に立ち向かい、逮捕されて27年もの間、冷たい刑務所に収監されました。しかし、マンデラはその絶望の中でも崩れず、ついに自由を勝ち取りました。 ☀️
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>睡眠時間が不足していても、早朝5時に起きて無条件に運動する方がいいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      身体の疲労が極端に激しい日は、無理に激しい運動をするよりも、5〜10分間の軽いストレッチや深呼吸に替える方が望ましいです。マンデルラルーティンの本質は体を酷使することではなく、一日の主導権を「自分の意志」で始めることにあります。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>体力が非常に弱い初心者はどのように始めるのがいいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      腕立て伏せは壁を押して行ったり膝をついて始め、スクワットも椅子に座って立ち上がる動作に代えるなど、自分に合った強度で始めてみてください。一日5分、たった1セットだけでも、自律性を守る朝の肯定的な脳ルーティンは活性化されます。
+    </p>
+  </details>
+</div>
 <strong></strong>

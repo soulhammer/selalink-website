@@ -16,6 +16,11 @@ steps:
     text: "Préparez une activité analogique et manuelle (puzzles, dessin, entretien d'un instrument, etc.) qui montre des résultats immédiats."
   - name: "30 minutes de concentration sans but"
     text: "Consacrez 30 minutes à la tâche sans chercher la productivité. Concentrez-vous sur les textures, couleurs et formes."
+faqs:
+  - question: "Les jeux sur smartphone ou le visionnage de vidéos aident-ils à la relaxation cognitive ?"
+    answer: "Non. La lumière bleue et les flux d'informations des écrans maintiennent le cerveau éveillé au lieu de le reposer, bloquant la mélatonine. Pour la relaxation cognitive, vous devez utiliser des outils analogiques."
+  - question: "Que faire si 30 minutes chaque soir me semblent trop longues ?"
+    answer: "Si le temps manque, 10 minutes suffisent. Fermer l'ordinateur et griffonner ou écrire un court journal analogique aide en envoyant un signal clair que la journée est finie."
 ---
 
 Franklin D. Roosevelt, président des États-Unis pendant la Seconde Guerre Mondiale, souffrait de polio et de grand stress. Son rituel était de trier des timbres avant de dormir. Cette routine libérait son cerveau du bruit de la guerre.
@@ -85,5 +90,29 @@ Le cerveau consomme beaucoup d'énergie avec les tâches complexes. Les loisirs 
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Les jeux sur smartphone ou le visionnage de vidéos aident-ils à la relaxation cognitive ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Non. La lumière bleue et les flux d'informations des écrans maintiennent le cerveau éveillé au lieu de le reposer, bloquant la mélatonine. Pour la relaxation cognitive, vous devez utiliser des outils analogiques.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Que faire si 30 minutes chaque soir me semblent trop longues ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Si le temps manque, 10 minutes suffisent. Fermer l'ordinateur et griffonner ou écrire un court journal analogique aide en envoyant un signal clair que la journée est finie.
+    </p>
+  </details>
+</div>
 <strong></strong>

@@ -16,6 +16,11 @@ steps:
     text: "完全关闭网络翻译器，仅凭纸质词典或单子表查找词源，在笔记本上亲自动手翻译句子。"
   - name: "逻辑对比与润色"
     text: "通读翻译好的句子，对比原句逻辑是否完美地转为流畅的译文，进行自然润色，以此完成对清晨逻辑大脑的唤醒。"
+faqs:
+  - question: "直接使用 AI 翻译工具对齐文本是否毫无效果？"
+    answer: "是的，一键获得现成结果无法刺激大脑的认知网络。只有经历哪怕繁琐缓慢，也要亲自翻阅词典来拼接句子主干的“用脑抗阻过程”，前额叶皮层的突触才会开始活跃发育。"
+  - question: "是否必须学习希腊语、拉丁语等古典语言才有效？"
+    answer: "不是的。所有句子逻辑结构与母语不同的现代外语（如英语、中文、德语等）都是绝佳的训练工具。重点在于精细翻译具有深度和正式文体性质的哲学、专栏等文本，而非日常口语对话。"
 ---
 
 在十六世纪引领英格兰步入辉煌“黄金时代”、使昔日弱国成长为全球海洋霸主的伟大女王伊丽莎白一世。她终生都身处阴谋背叛、宗教纷争以及西英海战的巨大压力之中。 👑
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>直接使用 AI 翻译工具对齐文本是否毫无效果？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      是的，一键获得现成结果无法刺激大脑的认知网络。只有经历哪怕繁琐缓慢，也要亲自翻阅词典来拼接句子主干的“用脑抗阻过程”，前额叶皮层的突触才会开始活跃发育。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>是否必须学习希腊语、拉丁语等古典语言才有效？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      不是的。所有句子逻辑结构与母语不同的现代外语（如英语、中文、德语等）都是绝佳的训练工具。重点在于精细翻译具有深度和正式文体性质的哲学、专栏等文本，而非日常口语对话。
+    </p>
+  </details>
+</div>
 <strong></strong>

@@ -16,6 +16,11 @@ steps:
     text: "No meio do dia ou antes de iniciar uma nova etapa, faça uma checagem rápida do andamento real dos números planejados."
   - name: "Registro diário no Logbook"
     text: "Ao final do dia, registre os números medidos de forma fiel. Observe a média semanal para identificar gargalos e perdas de tempo."
+faqs:
+  - question: "Não tenho vontade de escrever no diário em dias com resultados ruins. O que fazer?"
+    answer: "A chave da metacognição não é o 'sucesso', mas o 'monitoramento preciso'. Encarar e registrar os resultados ruins afasta as ilusões mentais e constrói a resiliência para planejar o dia de amanhã."
+  - question: "Posso gerenciar todas as métricas apenas usando Notion ou Excel?"
+    answer: "Dispositivos digitais distraem com alertas de redes ou e-mails. Registrar as métricas à mão em um diário de papel garante um foco muito maior para purificar a mente e criar insights."
 ---
 
 George Washington governou a nascente nação americana sob enorme responsabilidade. Seu esteio analítico vinha do hábito de acordar às 4h da manhã para inspecionar Mount Vernon a cavalo. Ele registrava vento, temperatura e experimentos agrícolas em uma caderneta de couro manualmente. Isso moldou sua gestão de precisão.
@@ -85,5 +90,29 @@ A metacognição é a capacidade de entender os limites do próprio conhecimento
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Não tenho vontade de escrever no diário em dias com resultados ruins. O que fazer?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      A chave da metacognição não é o 'sucesso', mas o 'monitoramento preciso'. Encarar e registrar os resultados ruins afasta as ilusões mentais e constrói a resiliência para planejar o dia de amanhã.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Posso gerenciar todas as métricas apenas usando Notion ou Excel?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Dispositivos digitais distraem com alertas de redes ou e-mails. Registrar as métricas à mão em um diário de papel garante um foco muito maior para purificar a mente e criar insights.
+    </p>
+  </details>
+</div>
 <strong></strong>

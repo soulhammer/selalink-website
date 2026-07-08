@@ -16,6 +16,11 @@ steps:
     text: "タイピングの代わりにスマートフォンの音声認識メモ機能を活用し、書きたい内容の核心となるアイデアや構成を言葉で素早く吹き込みます。テキスト入力を論理展開の速度と一致させることで、ボトルネックを防ぎます。"
   - name: "作業時間のブロックと交互切り替え"
     text: "各タスクに10分のタイマーを設定して極度に集中して口述を行い、時間が来たら即座に次のタスクへと移行します。素早い流れの中で複数の骨子ドキュメントをまず構築し、最後にまとめて推敲します。"
+faqs:
+  - question: "同時口述は一般的なマルチタスクとどのように違うのですか？"
+    answer: "一般的なマルチタスクは、メッセージを送りながらメールを書くように、複数の作業に注意を同時に分散させて遅延を発生させます。一方、同時口述は一度にただ一人の書記官に高度に集中して書き取らせた後、順次的かつ計画的に次のテーマへと認知を切り替える「連続的シングルフォーカス」の構造を持っています。"
+  - question: "口述の代わりにタイピングでこの方法を実践してもいいですか？"
+    answer: "タイピングの速度は思考を展開する認知速度より遅いため、ボトルネックが発生しやすいです。できるだけ音声認識メモツールを使用して思考の流れ通りに言葉で下書きを吐き出した後、後で一括編集する方式が、ワーキングメモリの過負荷を減らす上で非常に有利です。"
 ---
 
 ローマ共和国末期に領土を大きく広げ、帝国の基礎を築いた不世出の英雄ユリウス・カエサル。彼には、超人的な時間節約の秘訣がありました。
@@ -89,5 +94,29 @@ steps:
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>同時口述は一般的なマルチタスクとどのように違うのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      一般的なマルチタスクは、メッセージを送りながらメールを書くように、複数の作業に注意を同時に分散させて遅延を発生させます。一方、同時口述は一度にただ一人の書記官に高度に集中して書き取らせた後、順次的かつ計画的に次のテーマへと認知を切り替える「連続的シングルフォーカス」の構造を持っています。
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>口述の代わりにタイピングでこの方法を実践してもいいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      タイピングの速度は思考を展開する認知速度より遅いため、ボトルネックが発生しやすいです。できるだけ音声認識メモツールを使用して思考の流れ通りに言葉で下書きを吐き出した後、後で一括編集する方式が、ワーキングメモリの過負荷を減らす上で非常に有利です。
+    </p>
+  </details>
+</div>
 <strong></strong>

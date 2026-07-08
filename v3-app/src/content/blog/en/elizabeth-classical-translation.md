@@ -16,6 +16,11 @@ steps:
     text: "Turn off internet translators, use only paper dictionaries or simple word books, discover the origins of words, and manually translate sentences in a notebook."
   - name: "Logic Comparison and Polishing"
     text: "Read the translated sentences, compare if the logic of the original text is fully connected to the context, and polish it to be natural. This completes the morning analytical brain activation."
+faqs:
+  - question: "Is there no benefit in matching text immediately using AI translators?"
+    answer: "Yes, obtaining results with a single click does not stimulate the brain's cognitive networks. Synapses in the prefrontal cortex develop actively only when you go through the 'resistance process of using the brain,' such as directly looking up dictionaries and arranging the sentence structure."
+  - question: "Is the effect limited only to studying classical languages like Greek and Latin?"
+    answer: "No. Modern foreign language texts (English, Chinese, German, etc.) with different logical sentence structures also serve as excellent training tools. The key is to translate dense and formal texts like philosophy or columns, rather than casual dialogue, as if weaving them precisely."
 ---
 
 Elizabeth I, the great Queen of England who led the Golden Age in the 16th century. She faced national rebellions and wars under enormous political pressure. 👑
@@ -87,5 +92,29 @@ Translation activates not only the visual character recognition area but also th
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Frequently Asked Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Is there no benefit in matching text immediately using AI translators?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes, obtaining results with a single click does not stimulate the brain's cognitive networks. Synapses in the prefrontal cortex develop actively only when you go through the 'resistance process of using the brain,' such as directly looking up dictionaries and arranging the sentence structure.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Is the effect limited only to studying classical languages like Greek and Latin?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      No. Modern foreign language texts (English, Chinese, German, etc.) with different logical sentence structures also serve as excellent training tools. The key is to translate dense and formal texts like philosophy or columns, rather than casual dialogue, as if weaving them precisely.
+    </p>
+  </details>
+</div>
 <strong></strong>

@@ -16,6 +16,11 @@ steps:
     text: "Gunakan fitur dikte suara pada ponsel daripada mengetik untuk merekam ide utama dengan cepat. Menyelaraskan teks dengan alur pikiran mencegah kemacetan ide."
   - name: "Fokus Beruntun dan Peralihan Tugas"
     text: "Atur waktu 10 menit untuk tiap tugas, lakukan dikte suara secara fokus, dan segera beralih begitu waktu habis. Kumpulkan draf di akhir untuk diperbaiki."
+faqs:
+  - question: "Bagaimana dikte simultan berbeda dari multitasking umum?"
+    answer: "Multitasking umum membubarkan perhatian pada beberapa tugas secara pyramids, seperti mengirim pesan sambil menulis surel. Sebaliknya, dikte simultan memiliki struktur 'fokus tunggal berurutan,' di mana Anda fokus penuh pada satu juru tulis saja, lalu beralih secara terencana."
+  - question: "Bolehkah saya mempraktikkan metode ini dengan mengetik alih-alih mendikte?"
+    answer: "Karena kecepatan mengetik lebih lambat dari kecepatan kognitif dalam mengembangkan pikiran, penyumbatan aliran pikir mudah terjadi. Disarankan menggunakan alat memo pengenal suara untuk menumpahkan draf lalu menyuntingnya nanti."
 ---
 
 Julius Caesar, panglima besar Romawi, memiliki rahasia menghemat waktu yang luar biasa. Saat bepergian, ia membawa 3 atau 4 juru tulis dan mendiktekan surat serta perintah perang secara bergantian. Metode ini adalah kunci efisiensinya.
@@ -85,5 +90,29 @@ Memori kerja adalah ‘meja kerja’ sementara otak untuk mengolah informasi. Di
     </p>
   </div>
 </div>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Bagaimana dikte simultan berbeda dari multitasking umum?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Multitasking umum membubarkan perhatian pada beberapa tugas secara pyramids, seperti mengirim pesan sambil menulis surel. Sebaliknya, dikte simultan memiliki struktur 'fokus tunggal berurutan,' di mana Anda fokus penuh pada satu juru tulis saja, lalu beralih secara terencana.
+    </p>
+  </details>
 
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>Bolehkah saya mempraktikkan metode ini dengan mengetik alih-alih mendikte?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Karena kecepatan mengetik lebih lambat dari kecepatan kognitif dalam mengembangkan pikiran, penyumbatan aliran pikir mudah terjadi. Disarankan menggunakan alat memo pengenal suara untuk menumpahkan draf lalu menyuntingnya nanti.
+    </p>
+  </details>
+</div>
 <strong></strong>
