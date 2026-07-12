@@ -30,8 +30,22 @@ function run() {
 
   // 1. 과거 안배 대상 슬러그 선정
   let targetSlugs = [];
+  const new10Slugs = [
+    'bell-midnight-darkness',
+    'ford-line-walking',
+    'freud-evening-walk',
+    'monet-dawn-light',
+    'plato-gymnastic-wrestling',
+    'rockefeller-red-notebook',
+    'schopenhauer-flute-refocus',
+    'spielberg-viewfinder-tactile',
+    'teresa-silent-contemplation',
+    'winfrey-gratitude-journaling'
+  ];
 
-  if (slugArg) {
+  if (slugArg === 'new-10') {
+    targetSlugs = new10Slugs;
+  } else if (slugArg) {
     const mdPath = path.join(koDir, `${slugArg}.md`);
     if (!fs.existsSync(mdPath)) {
       console.error(`❌ [ERR] 입력한 슬러그의 한국어 포스트 파일이 존재하지 않습니다: ${mdPath}`);
@@ -76,21 +90,13 @@ function run() {
 
   // 3. 각 대상 슬러그별로 결정론적 과거 날짜 배정 및 9개 국어 동기화 진행
   targetSlugs.forEach(slug => {
-    // 2026-01-01부터 오늘까지 점유되지 않은 날짜 추출
+    // 2026-01-01부터 오늘까지의 전체 날짜 생성 (과거 날짜에 고르게 분산 중복되도록 설계)
     const startDate = new Date('2026-01-01');
     const endDate = new Date();
     const availableDates = [];
 
     for (let d = new Date(startDate); d <= endDate; d.setDate(d.getDate() + 1)) {
-      const dateStr = d.toISOString().split('T')[0];
-      if (!occupiedDates.has(dateStr)) {
-        availableDates.push(dateStr);
-      }
-    }
-
-    if (availableDates.length === 0) {
-      console.warn(`⚠️ '${slug}': 빈 날짜 슬롯이 없어 안배하지 못하고 패스합니다.`);
-      return;
+      availableDates.push(d.toISOString().split('T')[0]);
     }
 
     // 슬러그 이름을 이용해 항상 고유한 과거 날짜로 매핑되도록 해시 유도
@@ -100,9 +106,6 @@ function run() {
     }
     const selectedIndex = Math.abs(hash) % availableDates.length;
     const selectedDate = availableDates[selectedIndex];
-
-    // 선택된 날짜를 점유 상태로 추가 (다음 슬러그에서 중복되지 않도록 방지)
-    occupiedDates.add(selectedDate);
 
     console.log(`📝 [안배 확정] '${slug}' -> [${selectedDate}]`);
 

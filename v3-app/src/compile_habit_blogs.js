@@ -68,7 +68,10 @@ function run() {
       "van-gogh", "nightingale", "picasso", "helen-keller", "schubert",
       "theodore-roosevelt", "stephen-hawking", "jane-goodall", "shakespeare", "amelia-earhart",
       "georgia-okeeffe", "von-neumann", "charlie-chaplin", "coco-chanel", "chekhov",
-      "thatcher", "pasteur", "liszt", "bradbury", "hesse"
+      "thatcher", "pasteur", "liszt", "bradbury", "hesse",
+      "bell-midnight-darkness", "ford-line-walking", "freud-evening-walk", "monet-dawn-light",
+      "plato-gymnastic-wrestling", "rockefeller-red-notebook", "schopenhauer-flute-refocus",
+      "spielberg-viewfinder-tactile", "teresa-silent-contemplation", "winfrey-gratitude-journaling"
     ];
 
     languages.forEach(lang => {
