@@ -1,0 +1,192 @@
+{
+  "haydn-formal-dressing": {
+    "title": {
+      "en": "Wearing a Suit at Home to Compose? Joseph Haydn's Enclothed Cognition Routine",
+      "ja": "自宅でも正装で作曲？ヨゼフ・ハイドンの「装いと認知」ルーティン",
+      "zh": "在家也穿正装作曲？约瑟夫·海顿的“衣着认知”惯例",
+      "es": "¿Vestir de gala en casa para componer? La rutina de cognición revestida de Joseph Haydn",
+      "fr": "S'habiller sur son 31 chez soi pour composer ? La routine de cognition habillée de Joseph Haydn",
+      "de": "Im Anzug zu Hause komponieren? Joseph Haydns Routine der bekleideten Kognition",
+      "pt": "Vestir terno em casa para compor? A rotina de cognição vestida de Joseph Haydn",
+      "id": "Memakai Setelan Jas di Rumah Saat Mengubah Musik? Rutinitas Kognisi Berbusana Joseph Haydn",
+      "ko": "집에서도 정장을 갖춰 입고 작곡을? 교향곡의 아버지 헤이든의 '의복 인지' 루틴"
+    },
+    "description": {
+      "en": "Explore how composer Joseph Haydn wore formal clothes to prepare his mind for writing music. Learn about 'Enclothed Cognition' and how changing clothes boosts productivity.",
+      "ja": "作曲家ヨゼフ・ハイドンがどのように正装をして作曲に臨んだかを紹介します。「被服認知」効果と衣服の着替えが生産性を高める仕組みを解説します。",
+      "zh": "探索作曲家约瑟夫·海顿如何通过穿着正装让大脑进入创作状态。了解“衣着认知”以及更换外衣如何提高工作效率。",
+      "es": "Descubra cómo el compositor Joseph Haydn vestía formalmente para preparar su mente. Aprenda sobre la 'cognición revestida' y cómo cambiarse de ropa mejora el rendimiento.",
+      "fr": "Découvrez comment le compositeur Joseph Haydn s'habillait formellement pour composer. Apprenez-en plus sur la 'cognition habillée' et l'impact des vêtements.",
+      "de": "Erfahren Sie, wie Komponist Joseph Haydn sich formell kleidete, um seinen Geist vorzubereiten. Die Wirkung bekleideter Kognition auf die Arbeit.",
+      "pt": "Explore como o compositor Joseph Haydn vestia roupas formais para preparar a sua mente. Saiba mais sobre a 'cognição vestida' e a produtividade.",
+      "id": "Pelajari bagaimana Joseph Haydn mengenakan pakaian formal untuk mempersiapkan pikirannya. Temukan sains tentang Kognisi Berbusana untuk produktivitas.",
+      "ko": "작곡가 조지프 헤이든이 왜 작곡 전에 정장과 가발을 입었는지 알아봅니다. 우리의 복장이 생산성을 어떻게 향상시키는지 '의복 인지' 과학을 통해 설명합니다."
+    },
+    "authority": {
+      "en": "Griesinger's Biographical Notes & Experimental Psychology on Enclothed Cognition",
+      "ja": "グリージンガーの伝記記録および被服認知に関する実験心理学研究",
+      "zh": "格里辛格的传记记录及关于“衣着认知”的实验心理学研究",
+      "es": "Notas biográficas de Griesinger y psicología experimental sobre la cognición revestida",
+      "fr": "Notes biographiques de Griesinger et psychologie expérimentale sur la cognition habillée",
+      "de": "Griesingers biografische Notizen & experimentelle Psychologie zur bekleideten Kognition",
+      "pt": "Notas biográficas de Griesinger & psicologia experimental sobre a cognição vestida",
+      "id": "Catatan Biografis Griesinger & Psikologi Eksperimental tentang Kognisi Berbusana",
+      "ko": "그리징거의 전기 기록 및 의복 인지(Enclothed Cognition) 관련 실험심리학 연구"
+    },
+    "intro": {
+      "en": "Joseph Haydn, the 'Father of the Symphony' who laid the foundation for classical style music. He composed over 100 symphonies in his lifetime. Interestingly, he had a unique habit: he always wore formal suits, a wig, and his favorite ring before sitting down to write music. Even though he worked alone in his study, he believed that creative order could only come from physical order. Let's look into the science of 'Enclothed Cognition' and how clothes shape our brain power.\n\n</div>",
+      "ja": "クラシック音楽の枠組みを作り、「交響曲の父」と呼ばれるヨゼフ・ハイドン。生涯に100曲以上の交響曲を作曲した彼は、曲作りの前に必ず完璧な正装をし、ウィッグと愛用の指輪を身につけるという独特な習慣がありました。書斎で一人で作業するにもかかわらず、外見の乱れは思考の乱れにつながると信じていたのです。衣服が脳の働きを変える「被服認知」の科学に迫ります。\n\n</div>",
+      "zh": "被誉为“交响乐之父”的约瑟夫·海顿，为古典主义音乐奠定了基石。他在一生中创作了100多部交响曲。有趣的是，他有一个独特的习惯：在坐下来写音乐之前，他总是穿着正式的西装，戴上假发和他最喜欢的戒指。尽管他是一个人在书房里工作，但他认为创作秩序只能来自外在的秩序。让我们一起来了解“衣着认知”的科学，以及衣服是如何塑造我们大脑力量的。\n\n</div>",
+      "es": "Joseph Haydn, el 'Padre de la Sinfonía' que sentó las bases del estilo clásico. Compuso más de 100 sinfonías en su vida. Curiosamente, tenía un hábito único: siempre vestía de gala, con peluca y su anillo preferido antes de escribir música. Aunque trabajaba solo en su estudio, creía que el orden mental nacía del orden exterior. Conozcamos la ciencia de la 'cognición revestida'.\n\n</div>",
+      "fr": "Joseph Haydn, le 'Père de la Symphonie' qui a posé les bases du style classique. Il a composé plus de 100 symphonies. Il avait une habitude unique : il portait toujours un costume formel, sa perruque et sa bague préférée avant de composer. Même seul dans son cabinet, il pensait que l'ordre créatif découlait de l'ordre extérieur. Découvrez la science de la 'cognition habillée'.\n\n</div>",
+      "de": "Joseph Haydn, der „Vater der Sinfonie“, prägte die klassische Musik und komponierte über 100 Sinfonien. Er hatte eine besondere Angewohnheit: Vor dem Komponieren legte er stets formelle Kleidung, Perücke und seinen Lieblingsring an. Obwohl er allein im Arbeitszimmer saß, glaubte er, dass geistige Ordnung aus äußerer Ordnung entspringt. Entdecken Sie die Wissenschaft der „bekleideten Kognition“.\n\n</div>",
+      "pt": "Joseph Haydn, o 'Pai da Sinfonia' que estabeleceu a base do estilo clássico. Ele compôs mais de 100 sinfonias. Ele tinha um hábito único: vestia sempre ternos formais, peruca e seu anel favorito antes de escrever música. Embora trabalhasse sozinho em seu escritório, acreditava que a ordem mental vinha da ordem exterior. Conheça a ciência da 'cognição vestida'.\n\n</div>",
+      "id": "Joseph Haydn, 'Bapak Simfoni' yang meletakkan dasar bagi gaya musik klasik. Ia menggubah lebih dari 100 simfoni dalam hidupnya. Menariknya, ia memiliki kebiasaan unik: ia selalu mengenakan jas formal, wig, dan cincin favoritnya sebelum menulis musik. Meskipun bekerja sendiri di ruang kerjanya, ia percaya bahwa keteraturan kreatif hanya bisa lahir dari keteraturan fisik. Mari kita pelajari sains 'Kognisi Berbusana'.\n\n</div>",
+      "ko": "고전파 음악의 양식을 정립하고 '교향곡의 아버지'라 불리는 조지프 헤이든. 평생 100곡이 넘는 교향곡을 작곡한 거장이었던 그에게는 독특한 습관이 있었습니다. 바로 작곡을 시작하기 전에 항상 완벽한 정장을 갖춰 입고 가발을 쓴 뒤, 아끼는 반지를 손에 끼는 것이었습니다. 비록 자기 방에서 혼자 하는 작업이었지만, 헤이든은 흐트러진 겉모습에서는 결코 질서 정연하고 정교한 창작물이 나올 수 없다고 굳게 믿었습니다. 우리의 복장이 뇌에 미치는 '의복 인지' 과학의 비밀을 알아봅니다.\n\n</div>"
+    },
+    "whyTitle": {
+      "en": "The Power of Appearance: Embodied Cognition and Clothing",
+      "ja": "装いの持つ力：体化された認知と衣服の効果",
+      "zh": "仪表的力量：具身认知与衣着效应",
+      "es": "El poder de la apariencia: Cognición corporal y vestuario",
+      "fr": "Le pouvoir de l'apparence : Cognition incarnée et habillement",
+      "de": "Die Macht des Auftretens: Verkörperte Kognition und Kleidung",
+      "pt": "O poder da aparência: Cognição corporal e vestuário",
+      "id": "Kekuatan Penampilan: Kognisi Tubuh dan Pakaian",
+      "ko": "겉모습이 지닌 힘: 체화된 인지와 '의복 인지' 효과"
+    },
+    "whyDesc": {
+      "en": "According to the theory of 'Embodied Cognition' in cognitive psychology, our thoughts and behaviors are deeply connected to our body's physical state, including what we wear. Psychological tests prove that when participants wear formal lab coats or suits, their attention span increases and errors decrease significantly. This is called 'Enclothed Cognition.' Haydn leveraged this by using structured dress to signal his brain that it was time for high-level focus, switching from relaxation mode to creative creation mode.",
+      "ja": "認知心理学の「身体化された認知（Embodied Cognition）」理論によると、私たちの思考や行動は、衣服を含む身体の物理的状態と深くつながっています。心理テストでは、参加者が白衣やフォーマルなスーツを着用すると、注意力が向上しエラー率が大幅に減少することが実証されています。これを「被服認知（Enclothed Cognition）」と呼びます。ハイドンは、かっちりとした衣服を着ることで脳に「高度な集中時間」という合図を送り, リラックスモードから創作モードへと切り替えていたのです。",
+      "zh": "根据认知心理学中的“具身认知”理论，我们的思维和行为与身体的物理状态（包括我们穿着的衣服）紧密相连。心理学实验表明，当测试者穿着正式的工作服或西装时，他们的专注力会显著提高，错误率也会大幅降低。这被称为“衣着认知（Enclothed Cognition）”效应。海顿通过穿着规整的衣服向大脑发出“进入高度集中状态”的信号，从而将大脑从放松模式切换为创作模式。",
+      "es": "De acuerdo con la 'cognición corporal', nuestra mente está conectada con el estado de nuestro cuerpo y la ropa. Pruebas demuestran que al vestir batas formales o trajes, la concentración mejora. Esto se llama 'cognición revestida'. Haydn usaba su vestuario formal para enviar una señal de enfoque a su cerebro, pasando de modo descanso a creación.",
+      "fr": "Selon la 'cognition incarnée', notre esprit est lié à l'état de notre corps et à nos vêtements. Des tests montrent que porter une tenue formelle améliore la concentration et réduit les erreurs. C'est la 'cognition habillée'. Haydn utilisait ses vêtements pour signaler à son cerveau qu'il était temps de se concentrer.",
+      "de": "Nach der Theorie der verkörperten Kognition sind Gedanken eng mit der Kleidung verknüpft. Experimente belegen, dass formelle Kleidung Aufmerksamkeit und Präzision steigert („Enclothed Cognition“). Haydn nutzte diese Routine, um sein Gehirn auf Höchstleistung einzustellen und den kreativen Modus zu aktivieren.",
+      "pt": "Segundo a 'cognição corporal', a nossa mente está ligada ao estado do corpo e roupas. Testes provam que ao vestir trajes formais, a concentração melhora. A isso se chama 'cognição vestida'. Haydn usava o seu traje formal para sinalizar foco ao cérebro, transitando do relaxamento para a criação.",
+      "id": "Menurut teori 'Kognisi Tubuh' dalam psikologi kognitif, pikiran kita sangat terikat dengan kondisi fisik tubuh, termasuk pakaian. Eksperimen membuktikan bahwa saat mengenakan jas formal, perhatian meningkat dan kesalahan berkurang. Ini disebut 'Kognisi Berbusana'. Haydn memanfaatkan ini untuk memberi sinyal fokus tinggi pada otaknya.",
+      "ko": "인지심리학의 '체화된 인지(Embodied Cognition)' 이론에 따르면, 인간의 사고와 행동은 우리가 입는 복장을 포함한 신체의 물리적 상태와 깊은 연관이 있습니다. 실제로 피실험자들이 격식 있는 연구원 가운이나 정장을 입었을 때 선택적 집중력이 대폭 향상되고 업무 오류율이 줄어드는 현상이 입증되었는데, 이를 <strong>'의복 인지(Enclothed Cognition)'</strong> 효과라고 부릅니다. 헤이든은 옷을 단정하게 갖춰 입음으로써 뇌에 '고도의 생산성을 발휘할 시간'이라는 명확한 신호를 보내어 휴식 모드에서 창조 모드로의 전환을 본능적으로 이끌어낸 것입니다."
+    },
+    "cautionTitle": {
+      "en": "Dress for Success and Brain Focus",
+      "ja": "脳の集中のためのドレスコードを作る",
+      "zh": "为大脑专注制定“着装规范”",
+      "es": "Crear un código de vestimenta para enfocar el cerebro",
+      "fr": "Créer un code vestimentaire pour concentrer le cerveau",
+      "de": "Einen Dresscode für den Gehirnfokus schaffen",
+      "pt": "Criar um código de vestimenta para focar o cérebro",
+      "id": "Buat Aturan Berbusana untuk Fokus Otak Anda",
+      "ko": "뇌의 몰입을 위한 드레스 코드를 마련하기"
+    },
+    "cautionDesc": {
+      "en": "For Joseph Haydn, wearing formal dress was a respectful gesture toward his art and a brilliant cognitive trick. If you feel sluggish working from home, try changing out of your pajamas into dress clothes. Your body language and focus will automatically adapt.",
+      "ja": "ヨゼフ・ハイドンにとって、正装をすることは自身の音楽に対する敬意であり, 脳を活性化させる賢いトリックでした. 在宅勤務などでだらだらしてしまうときは, パジャマを脱いで仕事用の服に着替えてみてください. 体の姿勢や集中力が自然と仕事モードに変わります.",
+      "zh": "对约瑟夫·海顿而言，穿着正装是对音乐艺术的敬意，也是激发大脑活力的聪明技巧。如果在居家办公或学习时感到昏昏欲睡、难以集中精力，请尝试脱下睡衣，换上整洁的工作服或日常外出行装。您的身体姿态和专注度会自动调整到高效状态。",
+      "es": "Para Joseph Haydn, vestir formal era un respeto hacia el arte y un truco cognitivo. Si le cuesta concentrarse en casa, quítese el pijama. Su mente y concentración cambiarán automáticamente.",
+      "fr": "Pour Joseph Haydn, s'habiller formellement était un respect de son art et une astuce cognitive. Si vous manquez d'énergie en télétravail, quittez votre pyjama. Votre corps et votre esprit s'adapteront.",
+      "de": "Für Joseph Haydn war formelle Kleidung Respekt vor der Kunst und ein kognitiver Trick. Wenn Sie sich im Homeoffice träge fühlen, wechseln Sie die Kleidung. Ihr Geist wird sich sofort anpassen.",
+      "pt": "Para Joseph Haydn, vestir-se formalmente era um respeito à arte e um truque cognitivo. Se tem dificuldade em focar-se em casa, dispa o pijama. A sua mente e concentração adaptar-se-ão automaticamente.",
+      "id": "Bagi Joseph Haydn, berpakaian formal adalah bentuk penghormatan pada seni sekaligus trik kognitif. Jika Anda merasa lesu saat bekerja dari rumah, cobalah berganti pakaian formal. Fokus Anda akan menyesuaikan diri secara otomatis.",
+      "ko": "조지프 헤이든에게 정장을 입는 것은 예술에 대한 경의이자 자신의 뇌를 속이는 고도의 인지적 장치였습니다. 혹시 재택근무나 개인 공부를 할 때 집중이 안 되고 나태해진다면, 당장 잠옷을 벗고 단정한 외출복으로 갈아입어 보세요. 몸의 긴장도와 정신적 몰입도가 눈에 띄게 달라질 것입니다."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Switching to 'Work Clothes' instead of pajamas before work",
+          "ja": "仕事前にパジャマから「仕事服」への着替え",
+          "zh": "开始工作前，脱下睡衣换上“工作装”",
+          "es": "Cambiarse a 'ropa de trabajo' antes de empezar",
+          "fr": "Passer aux 'vêtements de travail' avant de commencer",
+          "de": "Vor der Arbeit von Pyjama auf „Arbeitskleidung“ wechseln",
+          "pt": "Mudar do pijama para a 'roupa de trabalho' antes de começar",
+          "id": "Ganti piyama dengan 'Pakaian Kerja' sebelum mulai",
+          "ko": "업무 시작 전 잠옷에서 '작업복(외출복)'으로 갈아입기"
+        },
+        "text": {
+          "en": "Even when working at home, avoid wearing sleepwear. Changing clothes sets a strong psychological boundary between home life and work mode.",
+          "ja": "在宅勤務をする場合でも、楽な部屋着の代わりに整った日常着を着用します。服を着替える動作自体が、日常のモードを仕事モードに切り替える儀式の役割を果たします。",
+          "zh": "即使是在家办公，也请避免穿着睡衣。换衣服这一动作本身就起到了将日常生活模式切换为工作模式的仪式作用。",
+          "es": "Incluso si trabaja en casa, evite la ropa de dormir. Cambiarse establece una frontera mental clara entre la relajación y el trabajo.",
+          "fr": "Même chez vous, évitez les vêtements de nuit. Se changer marque une frontière claire dans votre esprit entre le repos et le travail.",
+          "de": "Tragen Sie auch im Homeoffice keine Schlafkleidung. Das Umziehen setzt eine mentale Grenze zwischen Freizeit und Arbeitsmodus.",
+          "pt": "Mesmo que trabalhe em casa, evite a roupa de dormir. Mudar de roupa estabelece um limite claro na mente entre descanso e trabalho.",
+          "id": "Meskipun bekerja dari rumah, hindari pakaian tidur. Berganti pakaian menetapkan batas mental yang jelas antara istirahat dan kerja.",
+          "ko": "재택근무나 자율 작업을 할 때도 잠옷이나 헐렁한 홈웨어를 입지 않습니다. 옷을 갈아입는 동작 자체가 뇌에 일상 모드에서 업무 모드로 들어감을 선언하는 의식이 됩니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Clearing the visual desk space of clutter to ensure focus",
+          "ja": "集中を保障するために机の上の不要なものを片付ける",
+          "zh": "清理桌面的杂物以保障专注度",
+          "es": "Limpiar el escritorio de distracciones visuales",
+          "fr": "Dégager l'espace de travail pour libérer l'esprit",
+          "de": "Schreibtisch aufräumen, um kognitive Ablenkungen zu meiden",
+          "pt": "Limpar a mesa de distrações visuais",
+          "id": "Bersihkan meja dari barang tak berguna untuk fokus",
+          "ko": "인지적 방해 요소를 차단하기 위한 책상 정리정돈"
+        },
+        "text": {
+          "en": "Remove files, cups, and distractions from your desk. Visual simplicity directly lowers your brain's processing load and preserves decision energy.",
+          "ja": "机の上の不要な書類やマグカップなどを片付けます. 視覚的ノイズを減らすことで, 脳の無駄な情報処理エネルギーを節約し, 集中力を高めます.",
+          "zh": "收拾干净桌面上不必要的文件或杯子等杂物。减少视觉上的噪音，有助于节省大脑不必要的信息处理能量，从而提高专注力。",
+          "es": "Retire papeles, tazas y distractores. La sencillez visual reduce la carga cognitiva del cerebro y guarda energía.",
+          "fr": "Retirez les dossiers inutiles et les tasses. La simplicité visuelle réduit la charge de travail du cerveau.",
+          "de": "Entfernen Sie unnötige Dinge vom Tisch. Visuelle Klarheit reduziert die kognitive Belastung des Gehirns.",
+          "pt": "Retire papéis, chávenas e objetos dispersos. A simplicidade visual reduz a carga cognitiva e economiza energia.",
+          "id": "Singkirkan dokumen dan gelas yang berserakan. Kerapian visual mengurangi beban kerja otak secara langsung.",
+          "ko": "작업 대 위에 불필요한 물건, 서류, 마시다 남은 컵 등을 말끔히 치웁니다. 시각적 자극을 단순하게 유지해야 전두엽의 인지 소모가 줄어듭니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Wearing a specific accessory as a productivity anchor",
+          "ja": "仕事の「錨」となる特定のアクセサリーの着用",
+          "zh": "配戴专属的效率“锚点”配饰",
+          "es": "Llevar un accesorio específico como ancla de trabajo",
+          "fr": "Porter un accessoire spécifique comme ancrage",
+          "de": "Tragen eines bestimmten Accessoires als Arbeitsanker",
+          "pt": "Usar um acessório específico como âncora de trabalho",
+          "id": "Kenakan aksesori khusus sebagai jangkar kerja",
+          "ko": "집중 모드를 상징하는 특정 액세서리 착용하기"
+        },
+        "text": {
+          "en": "Wear a watch, a ring, or place a specific item on the desk only when you work. This visual and tactile cue acts as a psychological trigger for deep work.",
+          "ja": "仕事の時だけ時計や指輪を身につけたり、特定の小物を置きます。触覚的・視覚的な刺激が「今から集中する」という脳のトリガーになります。",
+          "zh": "仅在工作时佩戴手表、戒指，或在桌上放置特定的物件。触觉和视觉上的刺激将成为大脑“开始专注”的强效触发器。",
+          "es": "Use un reloj o anillo solo al trabajar. Este estímulo físico actúa como un disparador mental para el enfoque.",
+          "fr": "Portez une montre ou bague uniquement pour travailler. Ce stimulus physique sert de déclencheur mental pour la concentration.",
+          "de": "Tragen Sie eine Uhr oder einen Ring nur bei der Arbeit. Dieser Reiz dient als mentaler Auslöser für den Fokus.",
+          "pt": "Use um relógio ou anel apenas quando trabalha. Este estímulo físico atua como um gatilho mental para o foco.",
+          "id": "Kenakan jam tangan, cincin, atau taruh barang khusus di meja hanya saat bekerja untuk memicu fokus psikologis.",
+          "ko": "작업 시에만 시계를 착용하거나 아끼는 반지를 낍니다. 특정 촉각/시각 자극을 '생산적 활동의 시작'과 연합하는 두뇌 학습 훈련입니다."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "Did Haydn really wear formal clothes even when composing alone?",
+          "ja": "ハイドンは本当に一人の時も正装をしていたのですか？",
+          "zh": "海顿即使一个人创作时也真的会穿正装吗？",
+          "es": "¿Realmente Haydn vestía formal cuando estaba solo?",
+          "fr": "Haydn s'habillait-il vraiment de façon formelle même seul ?",
+          "de": "Trug Haydn wirklich formelle Kleidung, wenn er allein war?",
+          "pt": "O Haydn vestia-se realmente de forma formal mesmo quando estava sozinho?",
+          "id": "Apakah Haydn benar-benar memakai baju formal saat sendirian?"
+        },
+        "answer": {
+          "en": "Yes, Haydn believed that loose attire led to loose musical ideas. He considered formal dress a necessary discipline to respect his art and keep his mind sharp.",
+          "ja": "はい, ハイドンは衣服の乱れが音楽の質の低下につながると考えていました. 正装を整えることは, 彼の芸術に対する礼儀であり, 精神を研ぎ澄ますための規律でした.",
+          "zh": "是的，海顿认为随意的衣着会带来随意、松散的音乐灵感。他将穿着正装视为对艺术的基本尊重，也是保持精神高度集中的必要自律。",
+          "es": "Sí, creía que la ropa informal traía ideas musicales informales. Vestir formal era una disciplina para respetar su arte y enfocar su mente.",
+          "fr": "Oui, il pensait qu'une tenue négligée entraînait des idées négligées. S'habiller correctement était pour lui une discipline de respect de l'art.",
+          "de": "Ja, er glaubte, nachlässige Kleidung führe zu nachlässigen Ideen. Formelle Kleidung war Disziplin und Respekt vor der Kunst.",
+          "pt": "Sim, ele acreditava que roupas desleixadas traziam ideias musicais desleixadas. Vestir-se formalmente era uma disciplina para focar a sua mente.",
+          "id": "Ya, Haydn percaya bahwa pakaian santai menghasilkan ide musik yang santai juga. Ia menganggap pakaian formal sebagai disiplin untuk menjaga ketajaman berpikir."
+        }
+      }
+    ],
+    "pubDate": "2026-04-04",
+    "updatedDate": "2026-04-04"
+  }
+}

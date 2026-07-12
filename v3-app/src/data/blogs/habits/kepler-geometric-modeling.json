@@ -1,0 +1,192 @@
+{
+  "kepler-geometric-modeling": {
+    "title": {
+      "en": "Carving 3D Cosmic Models: Johannes Kepler's Haptic Visualization Routine",
+      "ja": "宇宙模型を木彫りする？ヨハネス・ケプラーの「触覚的空間視覚化」ルーティン",
+      "zh": "亲手雕刻3D宇宙模型？约翰内斯·开普勒的“触觉空间可视化”惯例",
+      "es": "¿Esculpir modelos cósmicos en 3D? La rutina de visualización háptica de Johannes Kepler",
+      "fr": "Sculpter des modèles cosmiques en 3D ? La routine de visualisation haptique de Johannes Kepler",
+      "de": "3D-Kosmos-Modelle schnitzen? Johannes Keplers Routine der haptischen Visualisierung",
+      "pt": "Esculpir modelos cósmicos em 3D? A rotina de visualização háptica de Johannes Kepler",
+      "id": "Mengukir Model Kosmis 3D: Rutinitas Visualisasi Haptik Johannes Kepler",
+      "ko": "수식 대신 입체 모형을 깎다: 요하네스 케플러의 '촉각적 공간 시각화' 루틴"
+    },
+    "description": {
+      "en": "Discover how Johannes Kepler carved geometric models to understand planet orbits. Learn about haptic spatial manipulation and cognitive load distribution.",
+      "ja": "天文学者ヨハネス・ケプラーが惑星の軌道を理解するために幾何学模型を自ら彫った習慣を紹介します。触覚的空間操作と認知負荷分散の仕組みを解説します。",
+      "zh": "介绍天文学家约翰内斯·开普勒如何通过雕刻几何模型来理解行星轨道的习惯。探讨触觉空间操作与认知负荷分散的科学机制。",
+      "es": "Descubra cómo Johannes Kepler esculpía modelos geométricos para entender las órbitas planetarias. Aprenda sobre la manipulación espacial háptica.",
+      "fr": "Découvrez comment Johannes Kepler sculptait des modèles géométriques pour comprendre les orbites des planètes. La manipulation haptique.",
+      "de": "Erfahren Sie, wie Johannes Kepler geometrische Modelle schnitzte, um Planetenbahnen zu verstehen. Die Vorteile haptischer Raummanipulation.",
+      "pt": "Descubra como Johannes Kepler esculpia modelos geométricos para compreender as órbitas planetárias. Conheça a manipulação espacial háptica.",
+      "id": "Pelajari bagaimana Johannes Kepler mengukir model geometris untuk memahami orbit planet. Temukan sains tentang manipulasi spasial haptik.",
+      "ko": "천문학자 요하네스 케플러가 행성의 타원 궤도를 이해하기 위해 손으로 직접 기하학 모형을 깎아 만들던 입체 시각화 습관의 뇌과학적 원리를 설명합니다."
+    },
+    "authority": {
+      "en": "Kepler's Mysterium Cosmographicum & Research on Haptic Spatial Manipulation",
+      "ja": "ケプラーの著作「宇宙の神秘」および触覚的空間操作に関する認知心理学研究",
+      "zh": "开普勒著作《宇宙的神秘》与关于触觉空间操作的认知心理学研究",
+      "es": "Mysterium Cosmographicum de Kepler y estudios sobre la manipulación espacial háptica",
+      "fr": "Mysterium Cosmographicum de Kepler et recherches sur la manipulation spatiale",
+      "de": "Keplers Mysterium Cosmographicum & Studien zur haptischen Raummanipulation",
+      "pt": "Mysterium Cosmographicum de Kepler & pesquisas sobre a manipulação espacial háptica",
+      "id": "Mysterium Cosmographicum oleh Kepler & Penelitian Kognitif tentang Manipulasi Spasial Haptik",
+      "ko": "케플러의 저서 '우주의 신비' 및 촉각적 입체 인지 조작이 공간 추론에 미치는 인지과학 연구"
+    },
+    "intro": {
+      "en": "Johannes Kepler, the famous astronomer and mathematician who discovered the laws of planetary motion, laying the cornerstone for Newton's gravity theory. In an era without computers, Kepler had to process mountains of mathematical calculations. When he hit a wall, he carved 3D geometric models of the universe out of wood, paper, or clay. By touching the physical proportions, he found breakthroughs in cosmic orbits. Let's study the cognitive benefits of haptic space manipulation.\n\n</div>",
+      "ja": "惑星の運動に関する「ケプラーの法則」を発見し, ニュートンの万有引力の法則の基礎を作ったヨハネス・ケプラー。コンピュータがなかった時代, 彼は天体の位置を予測するために膨大な計算を手作業で行っていました. 数式が壁にぶつかった時, 彼は木や紙, 粘土を削って正多面体の立体模型を作る習慣がありました. 立体の比率を直接手で触り, 目で確かめることで宇宙の調和を直感的に捉えようとしたのです. 触覚を活用した立体推論の効果に迫ります.\n\n</div>",
+      "zh": "约翰内斯·开普勒，发现行星运动定律的著名天文学家和数学家，为牛顿的万有引力定律奠定了基石。在没有计算机的时代，开普勒必须处理堆积如山的数学计算。每当遇到瓶颈时，他就会亲手用木头、纸张或粘土雕刻出三维宇宙几何模型。通过触摸实物的比例，他在行星轨道的研究中找到了突破口。让我们一起来探讨触觉空间操作的认知益处。\n\n</div>",
+      "es": "Johannes Kepler, el astrónomo y matemático que descubrió las leyes del movimiento planetario. En una era sin ordenadores, Kepler procesaba cálculos matemáticos interminables. Al estancarse, esculpía modelos geométricos 3D del universo con madera o arcilla. Al tocar las proporciones físicas, hallaba soluciones. Conozcamos la ciencia de la manipulación espacial háptica.\n\n</div>",
+      "fr": "Johannes Kepler, le célèbre astronome et mathématicien qui a découvert les lois du mouvement des planètes. À une époque sans ordinateurs, Kepler traitait des montagnes de calculs. Face à un obstacle, il sculptait des modèles géométriques 3D du cosmos. En touchant les proportions réelles, il trouvait des solutions. Découvrez les bienfaits de la manipulation haptique.\n\n</div>",
+      "de": "Johannes Kepler, der Astronom und Mathematiker, entdeckte die Gesetze der Planetenbewegung. Ohne Computer musste er gigantische Berechnungen anstellen. Stieß er an Grenzen, schnitzte er 3D-Modelle des Universums aus Holz oder Ton. Durch das Tasten nach Proportionen fand er astronomische Antworten. Entdecken Sie die Vorteile haptischer Raummanipulation.\n\n</div>",
+      "pt": "Johannes Kepler, o astrónomo e matemático que descobriu as leis do movimento planetário. Numa época sem computadores, Kepler calculava dados matemáticos sem fim. Ao bloquear-se, esculpia modelos geométricos 3D do universo em madeira ou argila. Ao tocar as proporções físicas, encontrava soluções. Saiba mais sobre a manipulação espacial háptica.\n\n</div>",
+      "id": "Johannes Kepler, astronom dan matematikawan terkenal yang menemukan hukum gerakan planet. Di era tanpa komputer, Kepler harus menghitung rumus rumit. Ketika buntu, ia merutinkan mengukir model geometris 3D dari kayu, kertas, atau tanah liat. Sentuhan fisik membantunya memvisualisasikan orbit kosmis. Mari kita ulas sains manipulasi spasial haptik.\n\n</div>",
+      "ko": "지동설을 수학적으로 증명하고 행성 운동에 관한 '케플러의 3대 법칙'을 정립하여 뉴턴 역학의 길을 개척한 위대한 천문학자, 요하네스 케플러. 컴퓨터가 없던 17세기, 그는 행성의 타원형 궤도 오차를 계산하기 위해 며칠 밤낮을 복잡한 수식과 기하학 계산에 매달려야 했습니다. 그럴 때마다 케플러는 수식 적기를 멈추고 종이나 나무, 점토 등을 직접 칼로 깎아 3차원 입체 우주 다면체 모형을 손으로 직접 조각하곤 했습니다. 2차원의 문자를 넘어 3차원 촉각 감각을 활용한 그의 공간 시각화 루틴의 뇌과학적 비밀을 알아봅니다.\n\n</div>"
+    },
+    "whyTitle": {
+      "en": "Cognitive Load Distribution: Activating Spatial Intelligence through Physical Touching",
+      "ja": "認知負荷の分散：物理的な触覚を通じた空間知能の活性化",
+      "zh": "认知负荷的分布：通过物理接触激活空间智能",
+      "es": "Distribución de carga cognitiva: Activar la inteligencia espacial mediante el tacto",
+      "fr": "Distribution de la charge cognitive : Activer l'intelligence spatiale par le toucher",
+      "de": "Verteilung der kognitiven Last: Aktivierung der räumlichen Intelligenz durch Berührung",
+      "pt": "Distribuição de carga cognitiva: Ativar a inteligência espacial através do toque",
+      "id": "Distribusi Beban Kognitif: Mengaktifkan Kecerdasan Spasial Melalui Sentuhan Fisik",
+      "ko": "인지 부하 분산: 물리적 촉각 조작을 통한 공간 추론력 활성화"
+    },
+    "whyDesc": {
+      "en": "In cognitive psychology, 'Haptic Spatial Manipulation' proves that when we touch and build physical models, spatial neurons in the parietal lobe and prefrontal cortex are activated much stronger than when just viewing a flat image. Physical manipulation distributes cognitive load. Using sensory feedback from our fingertips helps the brain interpret multidimensional math concepts and see spatial patterns effortlessly.",
+      "ja": "認知心理学の「触覚的空間操作」理論は, 物理的な立体模型を触り、構築することが, 平面画像を見るよりも、頭頂葉や前頭葉の空間認知ニューロンを強力に刺激することを証明しています. 立体を物理的に動かすことで認知負荷が分散されます. 指先の感覚からのフィードバックは, 脳が多次元の概念を解釈し, 空間的なパターンの乱れを容易に見つけるのを助けます.",
+      "zh": "认知心理学中的“触觉空间操作”理论证明，与仅观看平面图像相比，当我们触摸并构建物理三维模型时，大脑顶叶和前额叶的空间认知神经元会受到更强烈的激活。物理操作可以分担认知负荷，利用指尖的感官反馈能帮助大脑更轻松地理解多维空间概念并发现其中的规律。",
+      "es": "En psicología cognitiva, la 'manipulación espacial háptica' demuestra que tocar y construir modelos físicos activa los bloques de neuronas de la corteza parietal y prefrontal con más fuerza que ver imágenes planas. La manipulación física distribuye la carga de trabajo cognitivo y facilita la comprensión.",
+      "fr": "En psychologie cognitive, la 'manipulation spatiale haptique' montre que toucher et construire des modèles physiques active les neurones du cortex pariétal et préfrontal plus fortement que la simple vue en 2D. La manipulation physique distribue la charge de travail cognitif.",
+      "de": "Die kognitive Psychologie belegt, dass das Anfassen und Bauen physischer Modelle räumliche Neuronen im Gehirn deutlich stärker aktiviert als zweidimensionale Bilder. Die physische Arbeit verteilt die kognitive Last und hilft dem Gehirn, komplexe Raumstrukturen intuitiv zu verstehen.",
+      "pt": "Na psicologia cognitiva, a 'manipulação espacial háptica' prova que tocar e construir modelos físicos ativa as redes de neurónios do córtex parietal e pré-frontal com mais força do que ver imagens planas. A manipulação física distribui a carga de trabalho cognitivo.",
+      "id": "Dalam psikologi kognitif, 'Manipulasi Spasial Haptik' membuktikan bahwa menyentuh dan membuat model fisik mengaktifkan neuron spasial di lobus parietal dan korteks prefrontal jauh lebih kuat daripada sekadar melihat gambar datar. Hal ini membagi beban kognitif otak.",
+      "ko": "인지심리학과 공간지각 학습 이론에 따르면, 추상적인 공간 법칙이나 아키텍처 구조를 머릿속으로만 계산하는 것보다, 실제 물리적인 3D 물체를 손으로 조작할 때 뇌의 두정엽(Parietal Lobe)과 전두엽의 입체 인지 신경망이 극대화되어 자극받습니다. 손가락 끝의 촉각 감각 정보와 시각 정보가 뇌로 동시에 전달되면, 추상적인 정보 처리에 쓰이던 뇌의 인지적 과부하(Cognitive Overload)가 줄어듭니다. 즉, 모형을 손으로 직접 돌려보고 깎아보는 과정 자체가 복잡한 데이터 모델을 뇌가 훨씬 단순하게 수용하도록 돕습니다."
+    },
+    "cautionTitle": {
+      "en": "Bring Ideas into the Physical World",
+      "ja": "アイデアを物理世界に引き出す",
+      "zh": "将创意带入物理世界",
+      "es": "Llevar las ideas al plano físico",
+      "fr": "Matérialiser les idées dans le monde physique",
+      "de": "Ideen in die physische Welt bringen",
+      "pt": "Trazer as ideias para o plano físico",
+      "id": "Bawa Ide ke Dunia Fisik",
+      "ko": "생각의 한계에 가닿을 때 물리적 차원을 섞기"
+    },
+    "cautionDesc": {
+      "en": "For Johannes Kepler, the clay model was a tool to verify math equations. When you get stuck designing software architecture or planning project pipelines, do not just stare at the monitor. Grab some sticky notes or physical blocks and rearrange them on your desk. The physical arrangement will trigger new ideas.",
+      "ja": "ヨハネス・ケプラーにとって、立体模型は数式を検証するスマートな道具でした。ソフトウェア設計やビジネスの構成を考える時, モニターばかり見ずに, ポストイットやブロックを手にとって並び替えてみてください. 物理的な操作が思いがけない解決策をもたらしてくれます.",
+      "zh": "对于约翰内斯·开普勒而言，立体模型是验证数学公式的智能工具。当您在设计软件架构或梳理项目流程遇到瓶颈时，不要只盯着显示器。请拿起便利贴或物理积木，在桌面上进行排列组合。物理性的操作会为您带来意想不到的解决方案。",
+      "es": "Para Johannes Kepler, el modelo de arcilla era un recurso para verificar matemáticas. Si se bloquea diseñando software o planes, no se limite a mirar la pantalla. Use notas adhesivas o bloques físicos para reorganizar ideas. La organización física traerá nuevas perspectivas.",
+      "fr": "Pour Johannes Kepler, la maquette était un outil pour tester des hypothèses. Si vous butez sur un projet, ne fixez pas votre écran. Utilisez des post-it ou blocs physiques pour réorganiser vos idées sur votre bureau. L'action physique libère la créativité.",
+      "de": "Für Johannes Kepler war das Tonmodell ein Werkzeug zur Formelprüfung. Wenn Sie bei der Planung oder dem Design feststecken, starren Sie nicht auf den Monitor. Nutzen Sie Haftnotizen oder Bausteine auf dem Schreibtisch. Das manuelle Anordnen setzt neue Ideen frei.",
+      "pt": "Para Johannes Kepler, o modelo de argila era um recurso para testar hipóteses. Se bloquear no design de software ou no plano de um projeto, não fique a olhar para o ecrã. Use notas adesivas ou blocos físicos na mesa. A disposição física trará novas perspetivas.",
+      "id": "Bagi Johannes Kepler, model tanah liat adalah alat untuk memverifikasi matematika. Ketika Anda buntu merancang arsitektur perangkat lunak, jangan hanya menatap layar. Gunakan kertas memo atau balok fisik. Keteraturan fisik memicu ide baru.",
+      "ko": "요하네스 케플러에게 입체 다면체 조각은 복잡한 천문 방정식을 기하학적으로 검증하기 위한 훌륭한 계산 도구였습니다. 현대 업무 환경에서도 복잡한 소프트웨어 설계, 비즈니스 파이프라인 구상 등이 막혀 머리가 터질 것 같다면, 잠시 모니터를 끄고 포스트잇이나 실물 도구(장난감 블록 등)를 책상 위에서 손으로 직접 배치해 보세요. 아날로그적인 물리 배열 조각이 뇌에 새로운 직관을 전달할 것입니다."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Preparing simple blocks or sticky notes when stuck on abstract work",
+          "ja": "抽象的な作業で壁にぶつかった時, 簡易ブロックやポストイットを用意",
+          "zh": "在抽象工作遇到瓶颈时，准备好简易积木或便利贴",
+          "es": "Preparar bloques o notas adhesivas al estancarse en tareas abstractas",
+          "fr": "Préparer des blocs ou post-it face à un travail complexe",
+          "de": "Einfache Blöcke oder Haftnotizen bei abstrakten Problemen bereitlegen",
+          "pt": "Preparar blocos ou notas adesivas ao bloquear em tarefas abstratas",
+          "id": "Siapkan balok atau memo saat buntu dalam kerja abstrak",
+          "ko": "추상적인 설계나 기획 작업이 막힐 때 간이 블록이나 포스트잇 준비하기"
+        },
+        "text": {
+          "en": "Step away from the keyboard and clean your desk. Gather sticky notes, plastic blocks, or cards. Visualizing the structure physically is the main goal.",
+          "ja": "パソコンの前を離れて机の上を整理します。付箋、レゴブロック、カードなどを用意し、抽象的な構造を目の前の実物として並べる準備をします。",
+          "zh": "离开电脑，整理桌面。准备好便利贴、积木或卡片，为在眼前将抽象结构进行实体化陈列做好准备。",
+          "es": "Aléjese del ordenador y ordene su mesa. Use notas adhesivas, bloques o tarjetas. El objetivo es estructurar la idea de forma física.",
+          "fr": "Quittez le clavier et faites de la place. Rassemblez des post-it, blocs de construction ou cartes. Le but est de matérialiser la structure.",
+          "de": "Gehen Sie vom PC weg und machen Sie Platz. Nutzen Sie Haftnotizen, Bausteine oder Karten. Das Ziel ist das physische Darstellen der Struktur.",
+          "pt": "Afaste-se do computador e organize a mesa. Use notas adesivas, blocos ou cartões. O objetivo é estruturar a ideia de forma física.",
+          "id": "Jauhkan diri dari komputer dan bersihkan meja. Gunakan kertas memo, balok mainan, atau kartu untuk memvisualisasikan struktur.",
+          "ko": "컴퓨터 화면을 잠시 벗어나 책상 한 켠을 비웁니다. 접착 메모지나 장난감 블록, 인덱스 카드 등 손으로 직접 재조작할 수 있는 물리 물체들을 준비합니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Arranging and linking components physically with your hands",
+          "ja": "構成要素を物理的に配置し連結",
+          "zh": "动手将各构成要素进行物理上的陈列与连接",
+          "es": "Colocar y conectar componentes físicamente con las manos",
+          "fr": "Organiser et relier les éléments physiquement de ses mains",
+          "de": "Manuelles Anordnen und physisches Verbinden von Komponenten",
+          "pt": "Organizar e ligar componentes fisicamente com as mãos",
+          "id": "Susun dan hubungkan komponen secara fisik dengan tangan",
+          "ko": "손을 사용하여 각 구성 요소를 책상 위에 직접 나열하고 연결하기"
+        },
+        "text": {
+          "en": "Assign components to different blocks. Move them around, stack them, and visually evaluate how changes impact the entire system layout.",
+          "ja": "ブロックやカードごとにアイデアの単位を割り当てます。手で直接配置手順を変更し、積み重ねることで、構造の変化が全体のレイアウトに与える効果を視覚化します。",
+          "zh": "为每个积木或卡片分配一个想法单位。亲手调整摆放顺序、进行叠放，从而直观地观察结构变化对整体布局的影响。",
+          "es": "Asigne partes a diferentes bloques. Muévalos, apílelos y compruebe visualmente cómo afecta el cambio al diseño del sistema.",
+          "fr": "Associez les composants aux blocs. Déplacez-les, empilez-les et étudiez visuellement l'impact des changements sur la structure.",
+          "de": "Weisen Sie Komponenten Blöcken zu. Verschieben und stapeln Sie diese, um zu sehen, wie sich Änderungen auf das System auswirken.",
+          "pt": "Atribua partes a diferentes blocos. Mova-os, empilhe-os e analise visualmente como a alteração afeta o layout do sistema.",
+          "id": "Tetapkan komponen pada balok yang berbeda. Geser, susun, dan evaluasi dampak perubahan struktur secara visual.",
+          "ko": "각 블록이나 카드에 생각의 단위를 대입합니다. 이리저리 옮겨 붙이고, 쌓아보고, 순서를 바꾸며 구성 요소 간의 입체적인 관계를 직관적으로 분석합니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Refining your plan based on the physical model structure",
+          "ja": "物理的な模型の構造に基づき計画を再修正・確定",
+          "zh": "基于实体模型的结构，重新修改并确定计划",
+          "es": "Ajustar el plan a partir de la estructura física del modelo",
+          "fr": "Ajuster son plan selon la structure physique observée",
+          "de": "Anpassen des Plans basierend auf der physischen Struktur",
+          "pt": "Ajustar o plano com base na estrutura física do modelo",
+          "id": "Sempurnakan rencana berdasarkan struktur model fisik",
+          "ko": "물리적 모형으로 획득한 직관을 실제 기획서와 수식에 이식하기"
+        },
+        "text": {
+          "en": "Once the physical structure feels balanced and logical, translate that tactile setup back into your digital file or code architecture.",
+          "ja": "物理的な配置によって構造的な隙間や欠陥が解決されたら、その触覚的な形態をそのままソースコード設計やデジタル文書に反映します。",
+          "zh": "如果物理陈列解决了结构上的漏洞，请随即将该触觉形式原原本本地反映到源码设计或数字化文档中。",
+          "es": "Una vez que la estructura física sea lógica, aplique ese diseño táctil a su documento digital o código.",
+          "fr": "Une fois la structure physique cohérente, transposez ce plan tactile dans vos fichiers ou votre code.",
+          "de": "Sobald das physische Modell stimmig ist, übertragen Sie dieses Layout zurück in Ihre Dokumente oder den Code.",
+          "pt": "Assim que a estrutura física for lógica, replique essa disposição táctil no seu documento digital ou código.",
+          "id": "Setelah susunan fisik terasa seimbang dan logis, terapkan kembali tata letak taktil tersebut ke dalam kode digital Anda.",
+          "ko": "책상 위에서 물리적 모형 조립을 통해 오차나 맹점이 해결되었다면, 그 구조를 그대로 디지털 설계 문서나 비즈니스 아키텍처에 반영합니다."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "What kind of geometric model did Kepler actually carve?",
+          "ja": "ケプラーは実際にどのような幾何学模型を彫ったのですか？",
+          "zh": "开普勒实际上雕刻了什么样的几何模型？",
+          "es": "¿Qué tipo de modelo geométrico esculpía Kepler?",
+          "fr": "Quel type de maquette géométrique Kepler a-t-il sculpté ?",
+          "de": "Welche geometrischen Modelle schnitzte Kepler?",
+          "pt": "Que tipo de modelo geométrico esculpia Kepler?",
+          "id": "Model geometris apa yang sebenarnya diukir oleh Kepler?"
+        },
+        "answer": {
+          "en": "He created a nested model of the five Platonic solids (octahedron, icosahedron, dodecahedron, tetrahedron, cube) nested inside each other to represent the orbits and distances of the known planets.",
+          "ja": "5つの正多面体（正八面体、正二十面体、正十二面体、正四面体、正六面体）が何重にも重なり合った「宇宙の神秘」の立体模型を彫刻しました。彼はこれを通じて惑星軌道の距離と宇宙の比率を実証しようとしました。",
+          "zh": "他雕刻了将五个正多面体（正八面体、正二十面体、正十二面体、正四面体、正六面体）层层嵌套的“宇宙神秘”立体模型。他试图通过该模型来论证行星轨道的距离和宇宙的比例关系。",
+          "es": "Creó un modelo anidado de los cinco sólidos platónicos (octaedro, icosaedro, dodecaedro, tetraedro y cubo) para representar las órbitas y distancias de los planetas.",
+          "fr": "Il a sculpté un modèle emboîté des cinq solides de Platon (octaèdre, icosaèdre, dodécaèdre, tétraèdre, cube) pour représenter les orbites des planètes.",
+          "de": "Er schuf ein Modell aus den fünf platonischen Körpern (Oktaeder, Ikosaeder, Dodekaeder, Tetraeder, Würfel) ineinander, um die Planetenbahnen darzustellen.",
+          "pt": "Ele criou um modelo encaixado dos cinco sólidos platónicos (octaedro, icosaedro, dodecaedro, tetraedro e cubo) para representar as órbitas dos planetas.",
+          "id": "Ia membuat model bersarang dari lima padatan Platonik (oktahedron, ikosahedron, dodekahedron, tetrahedron, kubus) bersarang satu sama lain untuk mewakili orbit planet."
+        }
+      }
+    ],
+    "pubDate": "2026-06-24",
+    "updatedDate": "2026-06-24"
+  }
+}

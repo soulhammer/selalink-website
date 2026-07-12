@@ -1,0 +1,192 @@
+{
+  "thoreau-forest-walk": {
+    "title": {
+      "en": "4 Hours in the Woods Every Day: Henry David Thoreau's Nature Restoration Walk",
+      "ja": "毎日4時間森を歩く：ヘンリー・デイヴィド・ソローの自然回復ウォーキング",
+      "zh": "每天在森林中漫步4小时：亨利·戴维·梭罗的自然恢复步习",
+      "es": "4 horas en el bosque al día: El paseo de restauración natural de Henry David Thoreau",
+      "fr": "4 heures dans les bois chaque jour : La marche de restauration par la nature de Henry David Thoreau",
+      "de": "Täglich 4 Stunden im Wald: Henry David Thoreaus Natur-Restaurations-Spaziergang",
+      "pt": "4 horas na floresta todos os dias: A caminhada de restauração natural de Henry David Thoreau",
+      "id": "4 Jam di Hutan Setiap Hari: Jalan Kaki Pemulihan Alam Henry David Thoreau",
+      "ko": "매일 4시간씩 숲속을 걷다: 헨리 데이비ド 소로의 자연 회복 산책 루틴"
+    },
+    "description": {
+      "en": "Discover Henry David Thoreau's routine of walking 4 hours daily around Walden Pond. Learn the science of Attention Restoration Theory and the Default Mode Network.",
+      "ja": "ウォールデン池の周囲を毎日4時間歩いたヘンリー・デイヴィド・ソローの習慣を紹介します。「注意力回復理論」とデフォルトモードネットワークの科学を解説します。",
+      "zh": "介绍在瓦尔登湖畔每天漫步4小时的亨利·戴维·梭罗的习惯。探索“注意力恢复理论”与大脑默认模式网络的科学原理。",
+      "es": "Descubra la rutina de Henry David Thoreau de pasear 4 horas al día cerca del lago Walden. Aprenda sobre la teoría de la restauración de la atención.",
+      "fr": "Découvrez la routine de Henry David Thoreau : 4 heures de marche quotidienne autour du lac Walden. La science de la théorie de la restauration de l'attention.",
+      "de": "Erfahren Sie mehr über Henry David Thoreaus Routine, täglich 4 Stunden am Walden-See zu gehen. Die Aufmerksamkeit-Wiederherstellungs-Theorie.",
+      "pt": "Descubra a rotina de Henry David Thoreau de caminhar 4 horas diárias no lago Walden. Conheça a teoria da restauração da atenção.",
+      "id": "Temukan rutinitas Henry David Thoreau berjalan 4 jam setiap hari di sekitar Kolam Walden. Ulas sains tentang Teori Pemulihan Perhatian.",
+      "ko": "월든 호숫가를 매일 4시간씩 걸으며 관찰하고 기록했던 헨리 데이비ド 소로의 루틴을 소개합니다. 자연 속 걷기가 뇌의 주의력을 회복하고 창의성을 깨우는 뇌과학적 원리를 설명합니다."
+    },
+    "authority": {
+      "en": "Thoreau's Walden & Cognitive Studies on Attention Restoration Theory (ART)",
+      "ja": "ソローの「ウォールデン」および注意力回復理論（ART）に関する認知科学研究",
+      "zh": "梭罗著作《瓦尔登湖》与注意力恢复理论（ART）的认知科学研究",
+      "es": "Walden de Thoreau y estudios sobre la teoría de la restauración de la atención (ART)",
+      "fr": "Walden de Thoreau et études sur la théorie de la restauration de l'attention (ART)",
+      "de": "Thoreaus Walden & kognitive Studien zur Aufmerksamkeit-Wiederherstellungs-Theorie",
+      "pt": "Walden de Thoreau & estudos sobre a teoria da restauração da atenção (ART)",
+      "id": "Walden oleh Thoreau & Studi Kognitif tentang Teori Pemulihan Perhatian",
+      "ko": "헨리 데이비ド 소로의 저서 '월든' 및 주의력 회복 이론(ART) 관련 인지과학 연구"
+    },
+    "intro": {
+      "en": "Henry David Thoreau, the American essayist and transcendentalist who lived self-sufficiently by Walden Pond. He wrote the environmental classic *Walden*. Behind his profound insights lay an uncompromising afternoon habit: walking 4 hours daily in the woods of Concord. He wasn't just exercising; he was observing nature microscopically and recording sudden insights in his pocket notebook. Let's study how a walk in nature restores our brain power and triggers creative breakthroughs.\n\n</div>",
+      "ja": "ウォールデン池のほとりでの自給自足のシンプルな暮らしを実践し、ネイチャーエッセイ『ウォールデン（森の生活）』を書いたアメリカの作家、ヘンリー・デイヴィド・ソロー。彼の深い洞察力の裏には、毎日午後になると欠かさずコンコードの森を4時間歩き回るという頑固なルーティンがありました。彼は単に運動をしていたのではなく、自然を顕微鏡で見るように精細に観察し、浮かんだインスピレーションをノートに記録していたのです。自然の中の散歩が脳の注意力を回復させる仕組みを解き明かします。\n\n</div>",
+      "zh": "亨利·戴维·梭罗，在瓦尔登湖畔自给自足、过着简单生活的美国超验主义作家，撰写了自然文学名著《瓦尔登湖》。在他深刻洞察力的背后，有着一项雷打不动的下午惯例：每天在康科德的森林中漫步4小时。他不仅是在运动，而是像用显微镜观察自然一样细致地审视周围的一切，并将脑海中闪现的灵感记录在口袋笔记本中。让我们一起来探讨自然漫步是如何恢复我们的大脑活力并激发创意突破的。\n\n</div>",
+      "es": "Henry David Thoreau, el ensayista estadounidense que vivió de forma autosuficiente en el lago Walden, autor de la obra clásica *Walden*. Detrás de sus ideas profundas había un hábito de la tarde: pasear 4 horas al día por el bosque de Concord. No era ejercicio físico: era contemplar la naturaleza y anotar reflexiones en su libreta. Conozcamos cómo pasear en la naturaleza restaura el cerebro.\n\n</div>",
+      "fr": "Henry David Thoreau, l'essayiste américain qui a vécu en autarcie près du lac Walden. Auteur du classique *Walden*. Derrière sa profonde philosophie se cachait une habitude immuable l'après-midi : marcher 4 heures par jour dans les bois de Concord. Il n'en faisait pas qu'un exercice physique, il observait la nature et notait ses idées sur un carnet. Découvrez l'impact de la marche sur le cerveau.\n\n</div>",
+      "de": "Henry David Thoreau, der amerikanische Schriftsteller, der autark am Walden-See lebte und den Klassiker *Walden* schrieb. Hinter seinen Erkenntnissen steckte eine eiserne Nachmittagsroutine: Er wanderte täglich 4 Stunden durch die Wälder von Concord. Er machte keinen reinen Sport; er beobachtete die Natur präzise und notierte Einfälle in sein Notizbuch. Entdecken Sie, wie Naturspaziergänge den Geist erfrischen.\n\n</div>",
+      "pt": "Henry David Thoreau, o ensaísta americano que viveu de forma autossuficiente no lago Walden, autor do clássico *Walden*. Por trás de suas ideias profundas estava uma rotina de tarde rígida: caminhar 4 horas diárias na floresta de Concord. Não era apenas exercício: ele contemplava a natureza e anotava insights em seu bloco. Saiba como caminhar na natureza restaura o cérebro.\n\n</div>",
+      "id": "Henry David Thoreau, esais Amerika yang hidup mandiri di dekat Kolam Walden dan menulis buku legendaris *Walden*. Di balik wawasannya yang mendalam, ia memiliki kebiasaan sore hari yang disiplin: berjalan kaki selama 4 jam di hutan Concord. Ia mengamati alam secara mendalam dan mencatat ide di buku sakunya. Mari kita bahas bagaimana berjalan di alam memulihkan otak kita.\n\n</div>",
+      "ko": "월든 호숫가에서 자연과 일체되는 삶을 실천하고 환경 문학의 고전 《월든(Walden)》을 쓴 미국의 사상가이자 소설가, 헨리 데이비ド 소로. 그가 가졌던 삶에 대한 깊은 사색과 빛나는 영감의 배경에는 날씨에 상관없이 매일 오후마다 숲속을 4시간 동안 걸었던 걷기 습관이 있었습니다. 그는 단순히 걸었던 것이 아니라 자연을 관찰하고 걷기 중에 얻는 뇌의 활성화를 적극적으로 기록에 적용했습니다. 자연 속 걷기가 현대인의 뇌를 치유하고 아이디어를 활성화하는 원리를 알아봅니다.\n\n</div>"
+    },
+    "whyTitle": {
+      "en": "Attention Restoration: Healing the Exhausted Prefrontal Cortex",
+      "ja": "注意力回復：疲弊した前頭葉の治療",
+      "zh": "注意力恢复：疗愈疲惫的前额叶皮层",
+      "es": "Restauración de la atención: Sanar la corteza prefrontal agotada",
+      "fr": "Restauration de l'attention : Guérir le cortex préfrontal épuisé",
+      "de": "Wiederherstellung der Aufmerksamkeit: Heilung des präfrontalen Cortex",
+      "pt": "Restauração da atenção: Curar o córtex pré-frontal exausto",
+      "id": "Pemulihan Perhatian: Menyembuhkan Korteks Prefrontal yang Lelah",
+      "ko": "주의력 회복 이론(ART): 지친 전두엽을 치유하는 자연의 걷기 효과"
+    },
+    "whyDesc": {
+      "en": "According to the 'Attention Restoration Theory' (ART) in cognitive science, the structured stimuli of cities (traffic, screens) drain our directed attention resources. In contrast, natural settings offer 'soft fascination' (leaves rustling, clouds moving), allowing the prefrontal cortex to recover. Walking also activates the Default Mode Network (DMN), a brain state where the mind wanders, connecting distant concepts and generating original, creative solutions.",
+      "ja": "認知科学の「注意力回復理論（ART）」によると, 都会の構造化された刺激（交通、画面）は私たちの指向的注意資源を消耗させます. 反対に, 自然環境は「緩やかな魅力」（木の葉の揺れ, 雲の動き）を提供し, 前頭葉の回復を可能にします. また, 歩行はマインドワンダリング（思考の彷徨）状態を作るデフォルトモードネットワーク（DMN）を活性化させ, 遠い概念を結びつけ, 独創的なアイデアを生み出すのを助けます.",
+      "zh": "根据认知科学中的“注意力恢复理论”（ART），城市的结构化刺激（交通、屏幕）会耗尽我们的定向注意力资源。相反，自然环境提供了“柔和的吸引力”（树叶的沙沙声、云彩的移动），使前额叶皮层得以恢复。此外，步行还能激活大脑的默认模式网络（DMN），使思绪在漫游中连接起不同的概念，生成独创的创意解决方案。",
+      "es": "De acuerdo con la 'teoría de la restauración de la atención' (ART), los estímulos urbanos (tráfico, pantallas) agotan la atención dirigida. Los entornos naturales ofrecen una 'atracción suave' (viento, hojas), permitiendo que la corteza prefrontal se recupere. Caminar activa la Red Neuronal por Defecto, conectando conceptos para crear ideas.",
+      "fr": "Selon la 'théorie de la restauration de l'attention' (ART), les stimuli urbains (tél, écrans) épuisent l'attention dirigée. La nature offre une 'fascination douce' (feuilles, nuages) qui aide le cortex préfrontal à récupérer. Marcher active le Réseau par Défaut du cerveau, reliant les idées pour créer.",
+      "de": "Nach der Aufmerksamkeit-Wiederherstellungs-Teorie (ART) erschöpfen urbane Reize (Verkehr, Bildschirme) unsere gezielte Aufmerksamkeit. Natürliche Umgebungen bieten sanfte Faszination (Blätterrauschen, Wolken), was dem präfrontalen Cortex Erholung verschafft. Gehen aktiviert zudem das Ruhezustandsnetzwerk (DMN), das kreative Ideen fördert.",
+      "pt": "De acordo com a 'teoria da restauração da atenção' (ART), os estímulos urbanos (trânsito, ecrãs) esgotam a atenção dirigida. Os ambientes naturais oferecem uma 'atração suave' (vento, folhas), permitindo a recuperação do córtex pré-frontal. Caminhar ativa a Rede de Modo Padrão, conectando conceitos para gerar ideias.",
+      "id": "Menurut 'Teori Pemulihan Perhatian' (ART), stimulasi kota (lalu lintas, layar gadget) menguras fokus kita. Sebaliknya, alam menawarkan stimulasi lembut yang memulihkan korteks prefrontal. Jalan kaki juga mengaktifkan Default Mode Network (DMN) yang memicu kreativitas.",
+      "ko": "인지과학의 '주의력 회복 이론(Attention Restoration Theory)'에 따르면, 복잡한 인공적 자극이 가득한 도시 환경(신호등, 화면 정보 등)은 뇌의 의도적인 주의력 자원을 끊임없이 고갈시킵니다. 반면, 숲이나 공원 같은 자연환경은 바람에 흔들리는 나무나 나뭇잎 소리 등 '부ド러운 매혹(Soft Fascination)' 자극을 주어 피로해진 전두엽 피질이 쉴 수 있게 만듭니다. 또한, 걷는 행위는 뇌의 디폴트 모ド 네트워크(Default Mode Network, DMN)를 활성화하여 의식의 표면 아래 흩어져 있던 생각의 고리들을 결합하고 새로운 지적 돌파구를 열어줍니다."
+    },
+    "cautionTitle": {
+      "en": "Unplug from the Digital World on Your Walk",
+      "ja": "散歩の時はデジタル世界からログアウトする",
+      "zh": "漫步时，请断开与数字世界的连接",
+      "es": "Desconectarse del mundo digital durante el paseo",
+      "fr": "Se déconnecter du monde numérique durant la marche",
+      "de": "Trennen Sie sich beim Spaziergang vom Digitalen",
+      "pt": "Desconectar-se do mundo digital durante a caminhada",
+      "id": "Putuskan Hubungan Digital Saat Berjalan Kaki",
+      "ko": "산책 중에는 디지털 노이즈에서 완전히 벗어나기"
+    },
+    "cautionDesc": {
+      "en": "For Henry David Thoreau, walking was a sacred ritual of reconnection. The walk will not work if you look at your smartphone or check notifications while walking. Unplug completely, look at the plants, and let your mind wander in the natural space.",
+      "ja": "ヘンリー・デイヴィド・ソローにとって、歩くこと（Walking）は孤独の中で自然と会話する神聖な儀式でした。スマートフォンを見たり、通知を確認しながら歩くと、自然の回復効果は得られません。完全に接続を断ち切り、植物を見つめ、自然の空間に本来の自分を置いてみてください。",
+      "zh": "对于亨利·戴维·梭罗而言，漫步是一项与自然建立连接的神圣仪式。如果一边走一边看手机或确认信息提示，自然恢复的效果就无法显现。请完全断开手机连接，注目绿植，让思绪在自然空间中自由驰骋。",
+      "es": "Para Henry David Thoreau, pasear era un rito de conexión. El paseo no funcionará si mira el móvil o revisa notificaciones. Desconéctese por completo, mire las plantas y deje que la mente vuele en el espacio natural.",
+      "fr": "Pour Henry David Thoreau, marcher était un rite sacré de connexion. La marche ne sera pas efficace si vous regardez votre téléphone. Déconnectez-vous, contemplez les plantes et laissez votre esprit vagabonder.",
+      "de": "Für Henry David Thoreau war das Gehen ein Ritual der Rückbesinnung. Der Spaziergang wirkt nicht, wenn Sie auf das Handy schauen. Schalten Sie ganz ab, betrachten Sie die Pflanzen und lassen Sie Ihre Gedanken in der Natur schweifen.",
+      "pt": "Para Henry David Thoreau, caminhar era um ritual de conexão. A caminhada não fará efeito se olhar para o telemóvel ou verificar notificações. Desconecte-se totalmente, olhe para as plantas e permita que a mente flutue na natureza.",
+      "id": "Bagi Henry David Thoreau, berjalan kaki adalah ritual suci. Manfaat pemulihan tidak akan terasa jika Anda berjalan sambil menatap ponsel. Putuskan hubungan digital, pandangi pepohonan, dan biarkan pikiran Anda mengalir bebas.",
+      "ko": "헨리 데이비ド 소로에게 자연 속 걷기는 자연과 고독하게 대화하는 신성한 의식이었습니다. 스마트폰 화면을 보거나 실시간 알림에 대응하며 걷는다면 뇌의 주의 회복 기능은 작동하지 않습니다. 걷는 동안만은 기기와 네트워크로부터 차단된 오프라인 상태가 되어 주변 식물과 계절의 변화에 내 온몸의 감각을 열어주세요."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Setting a dedicated daily walk route in a green area",
+          "ja": "緑地のあるデイリーウォーキングコースの設定",
+          "zh": "规划一条包含绿地的日常漫步路线",
+          "es": "Establecer una ruta diaria en una zona verde",
+          "fr": "Définir un parcours quotidien dans une zone verte",
+          "de": "Einrichten einer täglichen Route in einer Grünanlage",
+          "pt": "Estabelecer uma rota diária em uma zona verde",
+          "id": "Tentukan rute jalan kaki harian di area hijau",
+          "ko": "나무와 흙을 밟을 수 있는 공원 또는 숲길 루트 정하기"
+        },
+        "text": {
+          "en": "Find a park, trail, or tree-lined street near your home or office. A route with soil and trees maximizing the cognitive healing benefits is highly recommended.",
+          "ja": "自宅やオフィスの近くにある公園や、静かな散策路を確保します。認知的な癒やし効果を高めるために、土や木が豊かな経路であるほど良いです。",
+          "zh": "在住所或办公室附近寻找公园、步道或绿化带。为了实现最大的认知疗愈效果，路线中树木和泥土等自然元素越丰富越好。",
+          "es": "Busque un parque o sendero cerca de casa u oficina. Una ruta con tierra y árboles maximiza el efecto de sanación mental.",
+          "fr": "Trouvez un parc ou sentier près de chez vous ou du bureau. Un parcours avec de la terre et des arbres maximise la récupération mentale.",
+          "de": "Suchen Sie einen Park oder Pfad in der Nähe. Eine Route mit Erde und Bäumen maximiert die kognitiven Heileffekte.",
+          "pt": "Procure um parque ou trilho perto de casa ou do escritório. Uma rota com terra e árvores maximiza o efeito de cura mental.",
+          "id": "Temukan taman atau jalan setapak di dekat rumah atau kantor. Rute dengan tanah dan pepohonan sangat disarankan untuk pemulihan kognitif.",
+          "ko": "집이나 사무실 주변에서 나무와 잔디, 혹은 흙을 느낄 수 있는 한적한 공원이나 둘레길 노선을 정해 둡니다. 시각적 녹색 자극이 풍부할수록 뇌의 회복이 빨라집니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Unplugging and focusing on your five senses while walking",
+          "ja": "接続を断ち, 五感に集中しながら歩く",
+          "zh": "断开网络，在漫步中将注意力集中于五感",
+          "es": "Desconectarse y enfocar los cinco sentidos al caminar",
+          "fr": "Se déconnecter et se concentrer sur ses cinq sens",
+          "de": "Abschalten und sich beim Gehen auf die fünf Sinne konzentrieren",
+          "pt": "Desconectar-se e focar nos cinco sentidos ao caminhar",
+          "id": "Putuskan koneksi gadget dan fokus pada panca indera",
+          "ko": "스마트폰을 완전히 격리하고 걷는 행위와 오감에 집중하기"
+        },
+        "text": {
+          "en": "Leave your phone at home or keep it in your pocket. Listen to the wind, notice the foliage, and feel the rhythm of your feet on the ground.",
+          "ja": "スマートフォンをポケットの奥深くにしまうか、マナーモードに設定します。風の音、木の色彩、自分の足が地面に触れる物理的な振動に注意を集中します。",
+          "zh": "将手机放进口袋深处并开启无音模式。注意倾听风声、看清树叶的色泽，将注意力集中在双脚踏地的物理振动上。",
+          "es": "Guarde el móvil o déjelo en casa. Escuche el viento, observe las hojas y sienta el ritmo de sus pasos sobre la tierra.",
+          "fr": "Laissez votre téléphone ou rangez-le. Écoutez le vent, observez le feuillage et sentez le rythme de vos pas sur le sol.",
+          "de": "Lassen Sie das Handy in der Tasche. Lauschen Sie dem Wind, betrachten Sie das Laub und spüren Sie das Auftreten der Füße.",
+          "pt": "Guarde o telemóvel na mala ou bolso. Escute o vento, observe as folhas e sinta o ritmo dos seus passos na terra.",
+          "id": "Simpan ponsel di saku dalam keadaan senyap. Dengarkan suara angin, warna daun, dan getaran kaki saat melangkah.",
+          "ko": "산책 중에는 스마트폰 액션을 완전히 멈추고 주머니 속에 격리합니다. 발바닥에 가닿는 대지의 감각, 바람의 차가움, 나뭇잎 스치는 청각 자극에만 신경을 기울입니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Jotting down raw ideas immediately in a physical pocket notebook",
+          "ja": "浮かんだアイデアをポケットノートに即座にメモ",
+          "zh": "将脑海中突然浮现的想法立即记录在随身笔记本上",
+          "es": "Anotar ideas al instante en una libreta de bolsillo",
+          "fr": "Noter ses idées sur le vif sur un carnet de poche",
+          "de": "Sofortiges Notieren von Ideen in einem Notizbuch",
+          "pt": "Anotar ideias imediatamente num bloco de bolso",
+          "id": "Catat ide mentah di buku catatan saku secara langsung",
+          "ko": "산책 도중 떠오르는 발상을 주머니 속 수첩에 즉각 메모하기"
+        },
+        "text": {
+          "en": "Carry a physical notepad and pencil. The moment an idea sparks due to the active DMN, write it down immediately. Do not rely on digital dictation.",
+          "ja": "小さな手帳と鉛筆を携帯します。DMN（デフォルト・モード・ネットワーク）の活性化によって浮かんだ思わぬ手がかりや企画案を、スマートフォンのキー入力ではなく、鉛筆でその場で即座に記録します。",
+          "zh": "随身携带小型笔记本和铅笔。对于因DMN激活而浮现的灵感或企划案，请避免使用手机打字输入，用铅笔即刻落笔成文。",
+          "es": "Lleve consigo una libreta y lápiz. Cuando aparezca una idea gracias a la Red Neuronal por Defecto, anótela. No use notas de voz.",
+          "fr": "Portez un petit carnet et un crayon. Quand une idée surgit grâce au Réseau par Défaut, notez-la immédiatement. Évitez le dictaphone.",
+          "de": "Tragen Sie ein kleines Notizbuch bei sich. Wenn durch das DMN eine Idee entsteht, schreiben Sie sie sofort auf. Nutzen Sie kein Handy.",
+          "pt": "Lave um bloco e lápis no bolso. Quando surgir uma ideia devido à Rede de Modo Padrão, anote-a logo. Não confie em notas digitais.",
+          "id": "Bawa buku catatan saku dan pensil. Begitu ide muncul akibat aktifnya DMN, segera catat dengan pensil daripada mengetik di ponsel.",
+          "ko": "아날로그 소형 수첩과 펜을 휴대합니다. 뇌가 이완되어 번뜩이는 지적 아이디어가 나오는 찰나에 스마트폰을 켜기보다 종이 위에 바로 기록합니다."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "How did Thoreau write notes while walking for 4 hours?",
+          "ja": "ソローは4時間の散歩の間にどのようにノートをとったのですか？",
+          "zh": "梭罗在4小时的漫步中是如何记笔记的？",
+          "es": "¿Cómo tomaba notas Thoreau mientras paseaba durante 4 horas?",
+          "fr": "Comment Thoreau prenait-il des notes pendant ses 4 heures de marche ?",
+          "de": "Wie machte sich Thoreau beim 4-stündigen Gehen Notizen?",
+          "pt": "Como é que Thoreau tomava notas enquanto caminhava durante 4 horas?",
+          "id": "Bagaimana Thoreau menulis catatan saat berjalan selama 4 jam?"
+        },
+        "answer": {
+          "en": "He walked with a small, handmade leather notebook and pencil in his coat pocket. When a thought occurred, he paused, stood under a tree, and captured the details of plants or raw sentences immediately.",
+          "ja": "コートのポケットに手作りの小さな革の手帳と鉛筆を入れて持ち歩いていました。アイデアが浮かんだり、珍しい野生の花を見つけたりすると、木の下に立ち止まってすぐに観察日記や詩を書き留めました。",
+          "zh": "他的大衣口袋里放着一本自制的小皮革笔记本和一支铅笔。每当脑海中浮现想法或发现奇特的原野花草，他就会在树下驻足，当即把观察日记或诗兴提笔写下。",
+          "es": "Llevaba una pequeña libreta de cuero y un lápiz en su abrigo. Al tener una idea, se detenía bajo un árbol y anotaba la descripción de las plantas o frases sueltas.",
+          "fr": "Il portait un petit carnet en cuir et un crayon dans sa poche. Dès qu'une idée surgissait, il s'arrêtait sous un arbre pour noter ses observations.",
+          "de": "Er hatte ein kleines, selbstgemachtes Lederbuch und einen Bleistift dabei. Bei einem Gedanken hielt er inne und notierte Details unter einem Baum.",
+          "pt": "Ele carregava um bloco de couro e um lápis no bolso. Quando tinha uma ideia, parava sob uma árvore e anotava os detalhes das plantas ou frases soltas.",
+          "id": "Ia membawa buku catatan kulit buatan sendiri dan pensil di saku mantelnya. Ketika berpikir, ia berhenti di bawah pohon dan langsung mencatatnya."
+        }
+      }
+    ],
+    "pubDate": "2026-04-30",
+    "updatedDate": "2026-04-30"
+  }
+}

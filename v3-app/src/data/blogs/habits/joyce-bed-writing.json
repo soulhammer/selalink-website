@@ -1,0 +1,192 @@
+{
+  "joyce-bed-writing": {
+    "title": {
+      "en": "Writing in Bed with Blue Crayon: James Joyce's Energy Preservation Routine",
+      "ja": "ベッドで青い色鉛筆で執筆？ジェイムズ・ジョイスのエネルギー保存ルーティン",
+      "zh": "躺在床上用蓝色色笔写作？詹姆斯·乔伊斯的能量保存惯例",
+      "es": "Escribir en la cama con crayón azul: La rutina de preservación de energía de James Joyce",
+      "fr": "Écrire au lit avec un crayon bleu : La routine de préservation de l'énergie de James Joyce",
+      "de": "Im Bett mit blauem Stift schreiben: James Joyces Routine zur Energieschonung",
+      "pt": "Escrever na cama com lápis azul: A rotina de preservação de energia de James Joyce",
+      "id": "Menulis di Ranjang dengan Krayon Biru: Rutinitas Penghematan Energi James Joyce",
+      "ko": "침대에 누워 파란 색연필로 쓰다: 제임스 조이스의 에너지 보존 집필 루틴"
+    },
+    "description": {
+      "en": "Discover how James Joyce wrote Ulysses in bed due to severe eye illnesses. Learn about cognitive load management and sensory fatigue reduction.",
+      "ja": "重い眼病を患いながらベッドで『ユリシーズ』を執筆したジェイムズ・ジョイスの習慣を紹介します。認知負荷管理と感覚疲労低減の仕組みを解説します。",
+      "zh": "介绍詹姆斯·乔伊斯在饱受眼疾折磨时如何在床上撰写《尤利西斯》的习惯。探讨认知负荷管理与感官疲劳降低的科学机制。",
+      "es": "Descubra cómo James Joyce escribió Ulises en la cama debido a una enfermedad ocular. La gestión de la carga cognitiva y reducción de la fatiga.",
+      "fr": "Découvrez comment James Joyce a écrit Ulysse au lit à cause d'une maladie oculaire. Apprenez-en plus sur la fatigue sensorielle.",
+      "de": "Erfahren Sie, wie James Joyce Ulysses trotz schwerer Augenkrankheit im Bett schrieb. Die Reduzierung kognitiver Last.",
+      "pt": "Descubra como James Joyce escreveu Ulisses na cama devido a problemas de visão. Saiba mais sobre a gestão da fadiga sensorial.",
+      "id": "Ulas bagaimana James Joyce menulis Ulysses di atas ranjang karena sakit mata. Pelajari sains tentang manajemen beban kognitif.",
+      "ko": "심각한 안질환 속에서도 침대에 누워 거대한 문학 걸작을 남긴 제임스 조이스의 루틴을 소개합니다. 감각 피로를 최소화하여 두뇌 에너지를 효율적으로 분배하는 과학을 다룹니다."
+    },
+    "authority": {
+      "en": "Richard Ellmann's biography of James Joyce & Medical research on Contrast Sensitivity",
+      "ja": "リチャード・エルマンのジェイムズ・ジョイス伝記およびコントラスト感度に関する医学研究",
+      "zh": "理查德·艾尔曼撰写的《詹姆斯·乔伊斯传》及关于对比敏感度的医学研究",
+      "es": "Biografía de Richard Ellmann sobre James Joyce y medicina sobre la sensibilidad al contraste",
+      "fr": "Biographie de James Joyce par Richard Ellmann & recherche sur la sensibilité au contraste",
+      "de": "Richard Ellmanns Biografie über James Joyce & medizinische Forschung zur Kontrastsensitivität",
+      "pt": "Biografia de Richard Ellmann sobre James Joyce & medicina sobre a sensibilidade ao contraste",
+      "id": "Biografi James Joyce oleh Richard Ellmann & Penelitian Medis tentang Sensitivitas Kontras",
+      "ko": "리처드 엘만의 제임스 조이스 평전 및 대비 감도와 인지 피로 저감 관련 의학 연구"
+    },
+    "intro": {
+      "en": "James Joyce, one of the most influential writers of the 20th century who pioneered modernist literature with his stream of consciousness masterpiece *Ulysses*. Throughout his life, Joyce suffered from severe eye illnesses and underwent over 20 surgeries. To write in such excruciating physical conditions, he adopted an unusual habit: lying in bed, wearing a white coat, and writing with a huge blue pencil on white paper. Let's study how this physical setup reduced his cognitive load and sensory fatigue.\n\n</div>",
+      "ja": "「意識の流れ」の手法を開拓し, 20世紀文学の最高傑作の一つ『ユリシーズ』を書いたジェイムズ・ジョイス。彼は生涯を通じて重い眼病に苦しみ, 20回以上の手術を受けました. そのような過酷な肉体的条件の中で彼が文字を紡ぎ続けるために選んだのは, 白いコートを着てベッドにうつ伏せになり, 白い紙に太い青の色鉛筆で書くという独特なルーティンでした. この物理的なセッティングがどのように感覚疲労を減らしたのか解説します.\n\n</div>",
+      "zh": "詹姆斯·乔伊斯，20世纪最具影响力的作家之一，以其意识流代表作《尤利西斯》开创了现代主义文学的先河。乔伊斯一生饱受严重眼疾折磨，经历了大大小小20多次手术。为了在如此痛苦的身体状况下坚持创作，他采用了独特的惯例：身穿白色大衣，趴在床上，用粗大的蓝色色笔在白纸上写字。让我们一起来探讨这种身体姿态和视觉优化是如何减轻认知负荷与感官疲劳 carbon 的。\n\n</div>",
+      "es": "James Joyce, uno de los escritores más influyentes del siglo XX, pionero de la literatura modernista con su obra *Ulises*. A lo largo de su vida, sufrió graves problemas de visión y más de 20 cirugías. Para escribir en tales condiciones físicas, adoptó un hábito inusual: acostado en la cama, con una bata blanca, escribiendo con un lápiz azul en papel blanco. Conozcamos cómo este arreglo redujo su fatiga sensorial.\n\n</div>",
+      "fr": "James Joyce, l'un des écrivains les plus influents du XXe siècle, pionnier de la littérature moderniste avec son chef-d'œuvre *Ulysse*. Tout au long de sa vie, Joyce a souffert de graves maladies oculaires. Pour écrire dans de telles conditions, il a adopté une habitude insolite : allongé dans son lit, vêtu d'un manteau blanc, écrivant au crayon bleu. Découvrez comment cette installation a réduit sa fatigue.\n\n</div>",
+      "de": "James Joyce war einer der einflussreichsten Schriftsteller des 20. Jahrhunderts. Er litt zeit seines Lebens an schweren Augenkrankheiten. Um unter diesen Bedingungen zu schreiben, entwickelte er eine ungewöhnliche Routine: Er lag im Bett, trug einen weißen Mantel und schrieb mit einem dicken blauen Stift auf weißem Papier. Erfahren Sie, wie dieses Vorgehen die kognitive Last und Sinnesermüdung verringerte.\n\n</div>",
+      "pt": "James Joyce, um dos escritores mais influentes do século XX, pioneiro da literatura moderna com a sua obra *Ulisses*. Joyce sofreu de graves problemas oculares ao longo da vida. Para conseguir escrever em tais condições físicas, adotou um hábito incomum: deitado na cama, com casaco branco, escrevendo com lápis azul em papel branco. Saiba como esta configuração reduziu a fadiga sensorial.\n\n</div>",
+      "id": "James Joyce, salah satu penulis paling berpengaruh di abad ke-20 yang memelopori aliran kesadaran melalui epos *Ulysses*. Sepanjang hidupnya, ia menderita penyakit mata parah. Agar tetap bisa menulis dalam kondisi fisik lemah, ia merutinkan menulis di ranjang mengenakan mantel putih dan krayon biru di atas kertas putih. Mari kita pelajari sains di balik rutinitasnya.\n\n</div>",
+      "ko": "의식의 흐름 기법을 통해 20세기 모더니즘 문학의 선구자로 자리 잡은 거장 제임스 조이스. 그는 평생 홍채염과 백내장 등 극심한 안질환과 쇠약해진 체력 속에서 싸워야 했습니다. 글을 쓰기조차 힘들었던 과혹한 조건 속에서 그가 선택한 방법은 흰 코트를 입고 침대에 엎드려 커다란 파란색 색연필로 글을 적는 것이었습니다. 몸과 감각의 피로를 최소화하고 지적 집중력을 극대화한 조이스의 에너지 절약법을 살펴봅니다.\n\n</div>"
+    },
+    "whyTitle": {
+      "en": "Energy Allocation and Visual Fatigue Minimization",
+      "ja": "エネルギー分配と視覚疲労の最小化",
+      "zh": "能量分配与视觉疲劳最小化",
+      "es": "Asignación de energía y minimización de la fatiga visual",
+      "fr": "Allocation d'énergie et réduction de la fatigue visuelle",
+      "de": "Energieverteilung und Minimierung der visuellen Ermüdung",
+      "pt": "Distribuição de energia e minimização da fadiga visual",
+      "id": "Alokasi Energi dan Minimalkan Keletihan Visual",
+      "ko": "인간의 에너지 효율 분배와 시각 피로의 신경과학"
+    },
+    "whyDesc": {
+      "en": "Lying down reduces gravitational pressure on the spine and stabilizes the heart rate, minimizing somatic energy expenditure so the brain can use more blood and oxygen for cognitive work. Additionally, using a high-contrast blue crayon on clean white paper reduces the cognitive workload of the primary visual cortex, allowing people with weak sight or heavy fatigue to write longer without experiencing neurological strain.",
+      "ja": "横になる姿勢は背骨への重力負荷を軽減し, 心拍数を安定させて体細胞のエネルギー消費を最小限に抑えるため, 脳がより多くの血液と酸素を認知作業に使用できるようになります. また, 白い紙に高コントラストの青い色鉛筆を使用することで, 視覚野の情報処理負荷が大幅に軽減され, 目の弱い人や疲労度の高い人でも神経的負担をかけずに長く執筆を続けられるようになります.",
+      "zh": "卧位能减轻重力对脊柱的压力，并使心率保持稳定，从而将身体的能量消耗降至最低，以便大脑能够将更多的血液和氧气用于认知活动。此外，在白纸上使用高对比度的蓝色色笔，可以减轻初级视觉皮层的信息处理负荷，使视力较弱或极度疲劳的人能够进行更长时间的写作，而不至于产生神经性疲劳 carbon。",
+      "es": "Acostarse reduce la presión sobre la columna y estabiliza el ritmo cardíaco, ahorrando energía física para que el cerebro use más oxígeno. Usar un crayón azul de alto contraste sobre papel blanco reduce el esfuerzo de la corteza visual, permitiendo a personas cansadas escribir sin fatiga neurológica.",
+      "fr": "S'allonger réduit la pression sur la colonne et stabilise le rythme cardiaque, économisant l'énergie physique pour que le cerveau en dispose. Utiliser un crayon bleu contrasté sur papier blanc réduit l'effort visuel, permettant d'écrire plus longtemps sans fatigue neurologique.",
+      "de": "Liegen entlastet die Wirbelsäule und stabilisiert die Herzfrequenz, was den körperlichen Energieverbrauch senkt. So steht dem Gehirn mehr Sauerstoff zur Verfügung. Die Nutzung eines kontrastreichen blauen Stifts auf weißem Papier schont die Sehrinde und ermöglicht längeres Schreiben ohne neurologischen Stress.",
+      "pt": "Deitar-se reduz a pressão na coluna e estabiliza o ritmo cardíaco, poupando energia física para o cérebro. Usar lápis azul de alto contraste sobre papel branco diminui o esforço do córtex visual, permitindo a pessoas cansadas escrever sem cansaço neurológico.",
+      "id": "Berbaring mengurangi tekanan gravitasi pada tulang belakang dan menstabilkan detak jantung, sehingga menghemat energi fisik agar otak dapat bekerja optimal. Menggunakan krayon biru kontras tinggi di atas kertas putih mengurangi beban kerja visual otak.",
+      "ko": "척추를 수평으로 편안하게 눕히거나 기댄 자세는 전신의 중력 부하를 제어하고 심박수를 안정시켜 신체적인 에너지 소모를 최소화합니다. 이로 인해 심장으로부터 공급되는 산소와 혈류가 뇌의 사고 영역으로 집중될 수 있습니다. 또한, 백색 광원 아래에서 대비도가 높은 두꺼운 파란색 필기도구를 사용하면 뇌의 일차 시각 피질(V1)의 가독 식별 처리가 원활해져 신경적인 안구 피로를 획기적으로 줄여줍니다."
+    },
+    "cautionTitle": {
+      "en": "Listen to Your Body's Limits",
+      "ja": "体の限界に耳を傾ける",
+      "zh": "聆听身体的极限信号",
+      "es": "Escuchar los límites del cuerpo",
+      "fr": "Écouter les limites de son corps",
+      "de": "Hören Sie auf die Grenzen Ihres Körpers",
+      "pt": "Ouvir os limites do corpo",
+      "id": "Dengarkan Batas Kemampuan Tubuh Anda",
+      "ko": "몸과 눈의 피로 신호를 수용하는 창조적 휴식"
+    },
+    "cautionDesc": {
+      "en": "For James Joyce, writing in bed was a smart adaptation to his physical limits. When your energy is depleted after a busy day, do not force yourself to sit straight. Lay back, relax your muscles, and write your ideas with a thick pen in comfort.",
+      "ja": "ジェイムズ・ジョイスにとって, ベッドでの執筆は肉体的限界に対する賢い適応策でした. 疲労困憊の時は無理に机に向かう必要はありません. 体の力を抜き, ソファーなどに寄りかかって, 太いペンで心地よくアイデアを綴ってみてください.",
+      "zh": "对于詹姆斯·乔伊斯而言，在床上写作是针对自身身体限制的聪明适应方式。在疲惫不堪的时候，没有必要勉强自己非要坐在书桌前。请放松身体，倚靠在沙发等舒适的地方，用粗笔惬意地记录下您的想法。",
+      "es": "Para James Joyce, escribir en la cama fue una adaptación inteligente a sus límites. Si está agotado, no se obligue a sentarse erguido. Recuéstese, relájese y escriba sus ideas con un bolígrafo grueso de manera cómoda.",
+      "fr": "Pour James Joyce, écrire au lit était une adaptation intelligente à ses limites. Si vous êtes épuisé, ne vous forcez pas à rester assis. Allongez-vous, détendez vos muscles et notez vos idées avec un gros feutre.",
+      "de": "Für James Joyce war das Schreiben im Bett eine Anpassung an seine Grenzen. Wenn Sie erschöpft sind, zwingen Sie sich nicht zum aufrechten Sitzen. Lehnen Sie sich zurück und schreiben Sie Ihre Ideen bequem mit einem dicken Stift auf.",
+      "pt": "Para James Joyce, escrever na cama foi uma adaptação inteligente aos seus limites. Se está exausto, não se force a sentar-se direito. Recoste-se, relaxe e escreva as suas ideias confortavelmente com uma caneta grossa.",
+      "id": "Bagi James Joyce, menulis di ranjang adalah adaptasi cerdas terhadap keterbatasan fisiknya. Saat energi Anda habis setelah seharian sibuk, jangan paksa diri Anda duduk tegak. Berbaringlah dan tulis ide Anda dengan nyaman.",
+      "ko": "제임스 조이스에게 침대에서의 집필은 신체적 한계를 극복하기 위한 영리한 생존 전략이었습니다. 혹시 하루의 일과를 마치고 육체와 안구 피로가 극에 달했다면, 억지로 딱딱한 의자에 앉아 머리를 쥐어짜지 마세요. 등을 기대고 온몸의 긴장을 푼 채, 편안한 도구로 편하게 아이디어를 끄적여보세요."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Lying or leaning comfortably in a relaxed position when exhausted",
+          "ja": "極度に疲労している時にリラックスできるソファやベッドに寄りかかる姿勢を取る",
+          "zh": "在极度疲惫时，采用倚靠在舒适沙发或床上的姿势",
+          "es": "Recostarse o apoyarse cómodamente al estar agotado",
+          "fr": "S'allonger ou s'adosser confortablement en cas de fatigue",
+          "de": "Sich bei Erschöpfung bequem hinlegen oder anlehnen",
+          "pt": "Recostar-se ou apoiar-se confortavelmente se estiver exausto",
+          "id": "Berbaring atau bersandar dengan nyaman saat lelah",
+          "ko": "극도로 피로할 때 편안한 소파나 침대에 기댄 자세 취하기"
+        },
+        "text": {
+          "en": "Choose a setup that fully supports your neck and spine. The goal is to drop physical muscular tension to zero, leaving energy solely for the brain.",
+          "ja": "首と脊椎を完全に支える状態を作ります。体の物理的な筋肉の緊張を最小限に抑え、脳に純粋な栄養が行くように誘導します。",
+          "zh": "使颈部和脊柱得到完全支撑。将身体物理肌肉的紧张感降至最低，使纯粹的养分能够输送给大脑。",
+          "es": "Elija un soporte adecuado para el cuello y columna. El objetivo es eliminar la tensión muscular física, dejando la energía para el cerebro.",
+          "fr": "Installez-vous avec un bon soutien pour la nuque et le dos. Le but est d'éliminer la tension musculaire pour libérer l'esprit.",
+          "de": "Stützen Sie Nacken und Wirbelsäule ab. Ziel ist es, Muskelspannungen abzubauen, um Energie für das Gehirn freizumachen.",
+          "pt": "Escolha um suporte adequado para o pescoço e coluna. O objetivo é eliminar a tensão muscular física, reservando energia para o cérebro.",
+          "id": "Pilih posisi yang menopang leher dan tulang belakang Anda sepenuhnya untuk menghilangkan ketegangan otot fisik Anda.",
+          "ko": "목과 척추를 완벽하게 받쳐주는 쿠션이나 매트리스를 활용합니다. 몸의 근 긴장도를 제로에 가깝게 덜어내 지적 작업에만 에너지를 모으는 기법입니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Preparing a thick pen and paper with high contrast",
+          "ja": "コントラストがはっきりした太いペンと無地の用紙の準備",
+          "zh": "准备好对比度鲜明的粗笔和白纸",
+          "es": "Preparar un papel y bolígrafo grueso de alto contraste",
+          "fr": "Préparer un papier et feutre épais à fort contraste",
+          "de": "Einen dicken Stift und Papier mit hohem Kontrast wählen",
+          "pt": "Preparar um papel e caneta grossa de alto contraste",
+          "id": "Siapkan kertas dan pena tebal dengan kontras tinggi",
+          "ko": "시각 노이즈를 줄이기 위해 대비가 뚜렷한 두꺼운 펜과 무지 종이 준비"
+        },
+        "text": {
+          "en": "Use thick dark pens, crayons, or markers on white paper. Avoid screens, tablets, or small prints that demand fine visual processing.",
+          "ja": "白い紙と太い青色または黒色のペンやマーカーを使います。細かい視覚処理が必要なノートパソコンやタブレット機器の画面は完全に排除します。",
+          "zh": "使用白纸和粗大的蓝色/黑色画笔或马克笔。完全排除需要精细视觉处理的笔记本电脑或平板设备屏幕。",
+          "es": "Use bolígrafos oscuros o rotuladores sobre papel blanco. Evite pantallas, tabletas o letras pequeñas que cansen la vista.",
+          "fr": "Utilisez des feutres ou marqueurs foncés sur papier blanc. Évitez les écrans ou tablettes qui demandent un effort visuel fin.",
+          "de": "Nutzen Sie dunkle Stifte oder Marker auf weißem Papier. Meiden Sie Bildschirme oder kleine Schriften, die das Auge anstrengen.",
+          "pt": "Use canetas escuras ou marcadores em papel branco. Evite ecrãs, tablets ou letras pequenas que exijam esforço visual.",
+          "id": "Gunakan kertas putih dan pena hitam/biru tebal atau spidol. Hindari layar laptop atau tablet yang melelahkan mata.",
+          "ko": "흰 무지 노트와 진한 네이비/블루 계열의 부드러운 중성펜이나 싸인펜을 씁니다. 정교한 시각 초점 조절이 필요한 디지털 화면을 사용하지 않습니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Writing free-flowing thoughts with absolute comfort",
+          "ja": "絶対的な快適さの中で自由な思考を書き出す",
+          "zh": "在绝对舒适的状态下自由地书写想法",
+          "es": "Escribir ideas con total comodidad y sin presiones",
+          "fr": "Écrire ses pensées en toute décontraction",
+          "de": "Freies Schreiben von Gedanken in absoluter Gemütlichkeit",
+          "pt": "Escrever pensamentos livremente com total conforto",
+          "id": "Tulis pikiran yang mengalir bebas dengan nyaman",
+          "ko": "형식에 구애받지 않고 편안한 상태에서 머릿속 생각 적어 내려가기"
+        },
+        "text": {
+          "en": "Do not care about spelling, grammar, or neatness. Let the thoughts flow from your mind to the paper, freeing up cognitive space.",
+          "ja": "誤字や脱字、文法、筆跡にこだわりません。ただ頭の中の残像や残されたインスピレーションを流れるままに記録し、認知容量を空けます。",
+          "zh": "不要在乎错别字、语法或字体。只是顺其自然地记录下大脑中的残余想法或灵感，以此放空认知容量。",
+          "es": "No se preocupe por la ortografía o caligrafía. Deje que las ideas fluyan de su mente al papel, liberando espacio mental.",
+          "fr": "Ne vous souciez pas de l'orthographe ou de l'écriture. Laissez les pensées couler de votre esprit au papier.",
+          "de": "Achten Sie nicht auf Rechtschreibung oder Schriftbild. Lassen Sie die Gedanken fließen, um kognitiven Raum freizumachen.",
+          "pt": "Não se preocupe com ortografia ou caligrafia. Deixe os pensamentos fluírem para o papel, libertando espaço mental.",
+          "id": "Jangan cemaskan ejaan atau tata bahasa. Biarkan pikiran mengalir bebas dari otak ke kertas untuk melegakan memori.",
+          "ko": "글씨 모양이나 띄어쓰기, 맞춤법에 얽매이지 않고 하루를 정리하는 키워드나 아이디어를 낙서하듯 자유롭게 기록하여 머릿속을 환기합니다."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "Why did Joyce wear a white coat while writing in bed?",
+          "ja": "ジョイスはベッドで執筆する際、なぜ白いコートを着ていたのですか？",
+          "zh": "乔伊斯在床上写字时为什么要穿着白色大衣？",
+          "es": "¿Por qué Joyce vestía una bata blanca para escribir en la cama?",
+          "fr": "Pourquoi Joyce portait-il un manteau blanc pour écrire au lit ?",
+          "de": "Warum trug Joyce einen weißen Mantel beim Schreiben im Bett?",
+          "pt": "Porque é que Joyce vestia um casaco branco para escrever na cama?",
+          "id": "Mengapa Joyce memakai mantel putih saat menulis di ranjang?"
+        },
+        "answer": {
+          "en": "The white color of the coat reflected maximum light onto his paper, acting as a natural light enhancer for his extremely weak eyes without causing glare.",
+          "ja": "白い服が光を最大限に反射して紙の上を明るく照らしてくれたからです。視力が非常に悪かった彼にとって、照度を広げてくれる自然な照明補助具の役割を果たしました。",
+          "zh": "因为白色的衣服能最大限度地反射光线，从而照亮纸张。对于视力极差的他来说，这起到了提高亮度、辅助照明的自然作用。",
+          "es": "El color blanco reflejaba la máxima luz sobre el papel, actuando como un potenciador de iluminación natural para sus ojos debilitados.",
+          "fr": "Le blanc du manteau reflétait la lumière sur son papier, améliorant la luminosité de manière naturelle pour ses yeux fatigués.",
+          "de": "Der weiße Mantel reflektierte das Licht optimal auf sein Papier. Das diente seinen schwachen Augen als natürliche Beleuchtung.",
+          "pt": "O casaco branco refletia a máxima luz sobre o papel, servindo de amplificador de luz natural para os seus olhos enfraquecidos.",
+          "id": "Warna putih mantel tersebut memantulkan cahaya secara maksimal ke atas kertasnya, membantu penglihatannya yang sangat lemah."
+        }
+      }
+    ],
+    "pubDate": "2026-04-10",
+    "updatedDate": "2026-04-10"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "rousseau-botany-walk": {
+    "title": {
+      "en": "Botanizing While Walking: Jean-Jacques Rousseau's Foraging Attention Routine",
+      "ja": "歩きながら植物採集？ジャン＝ジャック・ルソーの「探索とメモ」ルーティン",
+      "zh": "漫步时采集植物？让-雅克·卢梭的“搜寻与即兴笔记”惯例",
+      "es": "¿Recoger plantas mientras paseas? La rutina de atención recolectora de Jean-Jacques Rousseau",
+      "fr": "Herboriser en marchant : La routine d'attention exploratrice de Jean-Jacques Rousseau",
+      "de": "Pflanzensammeln beim Gehen: Jean-Jacques Rousseaus Routine der sammelnden Aufmerksamkeit",
+      "pt": "Colher plantas enquanto caminha? A rotina de atenção coletora de Jean-Jacques Rousseau",
+      "id": "Mengumpulkan Tanaman Sambil Jalan Kaki: Rutinitas Membaca Alam Jean-Jacques Rousseau",
+      "ko": "식물을 채집하며 사색하다: 장자크 루소의 '식물학 산책과 카드 메모' 루틴"
+    },
+    "description": {
+      "en": "Discover how Jean-Jacques Rousseau collected wild plants and wrote notes on playing cards. Learn about evolutionary foraging attention and cognitive restoration.",
+      "ja": "思想家ジャン＝ジャック・ルソーが野生植物を採集し、トランプの裏にメモを書いた習慣を紹介します。狩猟採集注意力と認知回復の仕組みを解説します。",
+      "zh": "介绍思想家让-雅克·卢梭采集野生植物并在扑克牌背面记笔记的习惯。探讨进化搜寻注意力与认知恢复的科学机制。",
+      "es": "Descubra cómo Jean-Jacques Rousseau recogía plantas y anotaba en cartas de juego. Aprenda sobre la atención recolectora evolutiva.",
+      "fr": "Découvrez comment Jean-Jacques Rousseau récoltait des plantes et notait ses idées sur des cartes à jouer. L'attention exploratrice.",
+      "de": "Erfahren Sie, wie Jean-Jacques Rousseau Pflanzen sammelte und Notizen auf Spielkarten schrieb. Die Evolution der sammelnden Aufmerksamkeit.",
+      "pt": "Descubra como Jean-Jacques Rousseau recolhia plantas e anotava em cartas de jogar. Saiba mais sobre a atenção coletora evolutiva.",
+      "id": "Temukan rutinitas Jean-Jacques Rousseau mengumpulkan tanaman liar dan menulis ide di kartu bermain. Pelajari sains tentang atensi pencarian alam.",
+      "ko": "야생 식물을 분류 및 채집하며 사색하고 주머니 속 카드에 즉흥 메모를 적었던 장자크 루소의 루틴을 소개합니다. 진화적 탐색 주의망이 뇌를 깨우는 신경과학적 원리를 설명합니다."
+    },
+    "authority": {
+      "en": "Rousseau's Reveries of a Solitary Walker & Research on Foraging Attention Systems",
+      "ja": "ルソーの「孤独な散歩者の夢想」および探索的注意システムに関する認知神経科学研究",
+      "zh": "卢梭著作《孤独散步者的遐想》与关于搜寻注意系统的认知神经科学研究",
+      "es": "Las ensoñaciones del paseante solitario de Rousseau y estudios sobre sistemas de atención recolectora",
+      "fr": "Les Rêveries du promeneur solitaire de Rousseau et recherches sur l'attention exploratrice",
+      "de": "Rousseaus Träumereien eines einsamen Spaziergängers & Studien zur sammelnden Aufmerksamkeit",
+      "pt": "As Devaneios do Caminhante Solitário de Rousseau & pesquisas sobre sistemas de atenção coletora",
+      "id": "Lamunan Seorang Pengembara Sunyi oleh Rousseau & Penelitian Kognitif tentang Sistem Atensi Alam",
+      "ko": "장자크 루소의 저서 '고독한 산책자의 몽상' 및 수집/탐색 행위가 전두엽 인지 이완에 미치는 뇌과학 연구"
+    },
+    "intro": {
+      "en": "Jean-Jacques Rousseau, the pioneering French philosopher and writer whose ideas laid the political foundation for the French Revolution. In his later years, facing persecution and severe anxiety, he found solace in a unique combination of botany and walking. Every afternoon, he walked to collect wild plants and recorded thoughts on the back of playing cards he kept in his pocket. These card notes became his final masterpiece, *Reveries of a Solitary Walker*. Let's study how this foraging attention routine restores our mind.\n\n</div>",
+      "ja": "フランス革命の思想的基礎を作り, 著書『社会契約論』『エミール』を残した思想家ジャン＝ジャック・ルソー. 晩年, 迫害と不安に苦しんでいた彼は, 植物採集と散歩を組み合わせた独特なセラピールーティンで心の平穏を保ちました. 毎日午後になると野山を歩いて野生の植物を集め, 浮かんだ哲学的な思考をポケットのトランプの裏に書き留めました. そのメモの束が、彼の遺作『孤独な散歩者の夢想』となったのです. 植物観察と散歩が脳にもたらす治癒効果を解き明かします.\n\n</div>",
+      "zh": "让-雅克·卢梭，法国杰出的启蒙思想家，其思想为法国大革命奠定了政治基础。在晚年饱受迫害和焦虑折磨时，他通过一种独特的惯例找到了慰藉——将植物学研究与散步相结合。每天下午，他出门采集野生植物，并将脑海中闪现的哲理记录在随身携带的扑克牌背面。这些卡片笔记最终汇编成了他的遗作《孤独散步者的遐想》。让我们一起来探讨这种搜寻注意力惯例是如何疗愈心灵的。\n\n</div>",
+      "es": "Jean-Jacques Rousseau, el gran filósofo francés cuyas ideas inspiraron la Revolución Francesa. En sus últimos años, acosado por la ansiedad, halló alivio en la botánica y el paseo. Cada tarde salía a recolectar plantas silvestres y escribía sus pensamientos en el reverso de cartas de juego. Estas notas formaron su obra *Las ensoñaciones del paseante solitario*. Conozcamos los efectos de esta rutina.\n\n</div>",
+      "fr": "Jean-Jacques Rousseau, le grand philosophe français dont les idées ont inspiré la Révolution. À la fin de sa vie, en proie à l'anxiété, il a trouvé le salut dans l'herborisation et la marche. Chaque après-midi, il marchait pour collecter des plantes et notait ses idées sur des cartes à jouer. Ces notes ont donné *Les Rêveries du promeneur solitaire*. Découvrez les bienfaits de cette herborisation.\n\n</div>",
+      "de": "Jean-Jacques Rousseau war der französische Denker, der den Weg für die Französische Revolution ebnete. In seinen späten Jahren, geplagt von Verfolgung und Ängsten, fand er Trost im Pflanzensammeln beim Gehen. Jeden Nachmittag sammelte er Wildpflanzen und schrieb Einfälle auf die Rückseite von Spielkarten. Diese Notizen wurden zu *Träumereien eines einsamen Spaziergängers*. Entdecken Sie die heilsame Wirkung.\n\n</div>",
+      "pt": "Jean-Jacques Rousseau, o grande filósofo francês cujas ideias inspiraram a Revolução Francesa. Nos seus últimos anos, atormentado pela ansiedade, encontrou alívio na botânica e caminhada. Todas as tardes saía para colher plantas silvestres e escrevia os pensamentos no verso de cartas de jogar. Estas notas formaram a obra *As Devaneios do Caminhante Solitário*. Saiba mais sobre os efeitos desta rotina.\n\n</div>",
+      "id": "Jean-Jacques Rousseau, filsuf Prancis terkemuka yang meletakkan fondasi bagi Revolusi Prancis. Di masa tuanya, ia mengatasi kecemasan dengan merutinkan jalan kaki sambil meneliti tanaman liar. Setiap sore ia membawa wadah sampel tanaman dan mencatat ide di bagian belakang kartu bermain. Kartu-kartu tersebut kemudian menjadi mahakaryanya. Mari kita ulas sainsnya.",
+      "ko": "프랑스 혁명의 불씨를 지피고 《사회계약론》과 《에밀》을 통해 '자연으로 돌아가라'고 주창했던 대사상가 장자크 루소. 말년에 극심한 망상증과 종교적 박해에 시달려 피폐해진 마음을 치유하기 위해, 루소는 식물학 채집과 산책을 하나로 묶은 독창적인 루틴을 고안해 냈습니다. 들판의 식물을 관찰하며 마음을 달래고, 그 와중에 떠오르는 심오한 단상들을 주머니 속 트럼프 카드 뒷면에 적었던 루소의 자연 융합적 집중 메커니즘을 알아봅니다."
+    },
+    "whyTitle": {
+      "en": "Foraging Attention and Dopamine Stimulation in Nature",
+      "ja": "自然における探索的注意力とドーパミン活性化",
+      "zh": "自然环境中的搜寻注意力与多巴胺刺激",
+      "es": "Atención recolectora y estimulación de dopamina en la naturaleza",
+      "fr": "L'attention exploratrice et la stimulation de dopamine dans la nature",
+      "de": "Sammelnde Aufmerksamkeit und Dopamin-Stimulation in der Natur",
+      "pt": "Atenção coletora e estimulação de dopamina na natureza",
+      "id": "Atensi Pencarian Alam dan Stimulasi Dopamin",
+      "ko": "진화적 수집 주의망(Foraging Attention)과 전두엽의 이완"
+    },
+    "whyDesc": {
+      "en": "In evolutionary cognitive science, 'foraging' (searching, categorizing, and collecting natural objects) triggers a ancient human attention network. Unlike artificial multi-tasking which causes anxiety, looking for specific wild plants releases dopamine in a healthy, sustainable way while silencing the hyperactive anxiety centers. When combined with light walking, it lowers brain tension and yields original, calm insights.",
+      "ja": "進化認知科学において, 自然の対象物を探し、分類し、採集する「探索(Foraging)」の行為は, 人類の最も原始的な注意ネットワークを作動させます. 焦燥感を生む人工的なマルチタスクとは異なり, 野生植物を探す行為はドーパミンを健康的かつ持続的な形で放出させ, 不安を司る脳の中枢を静めます. 軽い歩行と組み合わせることで, 脳の緊張を和らげ, 独創的で穏やかな洞察をもたらします.",
+      "zh": "在进化认知科学中，寻找、分类和采集自然物体的“搜寻（Foraging）”行为会启动人类最原始的注意力网络。与导致焦虑的现代化多任务处理不同，寻找特定野生植物的行为会以一种健康、可持续的方式促使大脑分泌多巴胺，从而抚平焦虑中枢的波动。这与轻快散步结合，能极大缓解大脑的紧张度，带来源源不断且平和的创意直觉。",
+      "es": "En la ciencia cognitiva evolutiva, la 'recolección' (buscar, clasificar y reunir elementos naturales) activa una red de atención muy antigua. A diferencia de las multitareas que traen ansiedad, buscar plantas libera dopamina de forma saludable y apaga la angustia. Junto al paseo, relaja el cerebro y trae ideas calmadas.",
+      "fr": "Selon la cognition évolutive, la recherche de ressources (chercher, classer, collecter) active un circuit d'attention très ancien. Contrairement au multi-tasking anxiogène, chercher des plantes libère de la dopamine de manière saine et calme l'anxiété. Associé à la marche, cela détend le cerveau.",
+      "de": "In der evolutionären Kognitionswissenschaft aktiviert das Sammeln (Suchen, Klassifizieren und Sammeln von Naturgegenständen) ein uraltes Aufmerksamkeitsnetzwerk. Im Gegensatz zu stressigem Multitasking schüttet das Suchen nach Wildpflanzen gesundes Dopamin aus und beruhigt Ängste. Kombiniert mit Gehen senkt es die Gehirnspannung.",
+      "pt": "Na ciência cognitiva evolutiva, a 'coleta' (procurar, classificar e reunir elementos naturais) ativa uma rede de atenção muito antiga. Ao contrário das multitarefas que trazem ansiedade, procurar plantas liberta dopamina de forma saudável e acalma a ansiedade. Com a caminhada, relaxa o cérebro.",
+      "id": "Dalam sains kognitif evolusioner, 'pencarian alam' (mencari dan mengklasifikasikan objek alami) mengaktifkan jaringan perhatian primitif manusia. Berbeda dengan multi-tasking perkotaan yang memicu stres, mencari tanaman liar merangsang pelepasan dopamin secara sehat dan menenangkan kecemasan.",
+      "ko": "진화인지과학에 따르면, 대자연 속에서 열매나 약초 같은 유용한 자연물을 식별하고 분류하여 수집(Foraging)하는 행동은 인류가 수만 년간 적응해 온 원초적 주의력 망을 자극합니다. 인위적이고 스트레스를 주는 도시의 멀티태스킹과 달리, 야생의 풀밭에서 특정 야생초를 관찰하고 모으는 행위는 뇌의 불안 중추인 편도체를 안정시키고 도파민 분비를 촉진합니다. 가벼운 보행과 식물 분류 활동이 결합하면 지친 전두엽의 부하가 해소되며 깊고 침착한 직관이 뇌 위로 떠오릅니다."
+    },
+    "cautionTitle": {
+      "en": "Focus on the Act of Finding and Recording",
+      "ja": "発見と記録の行為に集中する",
+      "zh": "专注于寻找与记录的动作",
+      "es": "Centrarse en el acto de descubrir y registrar",
+      "fr": "Se concentrer sur la recherche et la transcription",
+      "de": "Sich auf das Suchen und Notieren konzentrieren",
+      "pt": "Focar no ato de descobrir e registar",
+      "id": "Fokus pada Tindakan Menemukan dan Mencatat",
+      "ko": "관찰을 통한 이완과 즉흥적 아날로그 메모의 연동"
+    },
+    "cautionDesc": {
+      "en": "For Jean-Jacques Rousseau, botany was a mental shield against social stress. You don't need to be a botanist; when you walk in a park, look closely at the shape of different leaves, flowers, or insects. The physical act of focusing on natural details, combined with keeping a small notebook for ideas, will quiet your mind.",
+      "ja": "ジャン＝ジャック・ルソーにとって、植物学は社会のストレスから自分を守る精神的な盾でした。植物の専門家になる必要はありません。公園を歩く時、葉っぱの形や花の色、小さな虫の動きを観察してみてください。自然の細部に焦点を当て、思い浮かんだことを手帳に書き留めるだけで、脳はとても穏やかになります。",
+      "zh": "对让-雅克·卢梭而言，植物学是保护自己免受社会压力侵害的精神盾牌。您不需要成为植物学专家，在公园散步时，仔细观察树叶的形状、花朵的颜色或昆虫的动作即可。专注于自然细节并配合随身手账记录灵感，就能让您的大脑重获平静。",
+      "es": "Para Jean-Jacques Rousseau, la botánica era un escudo mental contra el estrés. No necesita ser botánico: al pasear por el parque, mire con detalle las hojas o flores. Concentrarse en detalles naturales y apuntar ideas en una libreta calmará su mente.",
+      "fr": "Pour Jean-Jacques Rousseau, la botanique était un bouclier contre le stress social. Nul besoin d'être un expert : observez simplement la forme des feuilles et des fleurs. Se concentrer sur les détails de la nature et noter ses idées apaise l'esprit.",
+      "de": "Für Jean-Jacques Rousseau war die Botanik ein Schutzschild gegen sozialen Stress. Sie müssen kein Botaniker sein; achten Sie im Park auf Blattformen oder Blüten. Das manuelle Fokussieren auf Naturdetails in Verbindung mit einem Notizbuch beruhigt den Geist.",
+      "pt": "Para Jean-Jacques Rousseau, a botânica era um escudo mental contra o stress. Não precisa de ser botânico: ao caminhar no parque, observe detalhadamente as folhas ou flores. Focar-se nos detalhes da natureza e apontar ideias num bloco acalmará a mente.",
+      "id": "Bagi Jean-Jacques Rousseau, meneliti tanaman adalah perisai mental dari stres sosial. Anda tidak harus menjadi ahli botani; saat berjalan di taman, perhatikan bentuk daun atau bunga. Fokus pada detail alam dan mencatat ide akan menenangkan pikiran.",
+      "ko": "장자크 루소에게 야생 식물 연구는 세상의 모함과 심리적 중압감으로부터 뇌를 방어하는 든든한 방패막이였습니다. 굳이 전문 학자가 아니어도 괜찮습니다. 산책할 때 발밑에 자라난 민들레나 클로버, 나뭇잎의 결을 돋보기로 보듯 관찰해 보세요. 세부 생명체에 초점을 정돈하고, 그 과정에서 튀어오는 생각을 아날로그 메모지에 손으로 바로 옮겨 적는 연동 활동이 당신의 뇌를 가장 평온하게 환기할 것입니다."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Walking in a nature-rich trail with simple notepad or cards",
+          "ja": "簡単なメモ帳やカードを持参して芝生の散策路を歩く",
+          "zh": "携带简易记事本或卡片，在草木茂盛的散步道上漫步",
+          "es": "Pasear por un sendero natural con una libreta o cartas",
+          "fr": "Marcher sur un sentier naturel avec un carnet ou des fiches",
+          "de": "Weg in der Natur mit kleinem Block oder Karten gehen",
+          "pt": "Caminhar num trilho natural com um bloco ou cartões",
+          "id": "Jalan kaki di rute alam membawa kertas memo atau kartu",
+          "ko": "메모 카드나 종이 조각을 주머니에 넣고 자연 속 들판 걷기"
+        },
+        "text": {
+          "en": "Carry small physical cards or pieces of paper. Find a place where wild vegetation grows naturally rather than perfectly manicured concrete walks.",
+          "ja": "小さな紙カードや手帳を用意します。人工的なコンクリート舗道の代わりに、雑草や野花が自由に育つ土の道や野山を訪れます。",
+          "zh": "准备好小型纸质卡片或笔记本。选择杂草和野花自然生长的泥土路或山路，而不是人工修建的混凝土步道。",
+          "es": "Lleve cartas de papel o una libreta pequeña. Busque un camino de tierra donde crezcan plantas silvestres, evitando el hormigón urbano.",
+          "fr": "Prenez des fiches en carton ou un carnet. Trouvez un sentier de terre où poussent des plantes sauvages, plutôt que du béton.",
+          "de": "Tragen Sie kleine Karten oder Papier bei sich. Nutzen Sie Naturpfade mit wildem Bewuchs statt asphaltierter Straßen.",
+          "pt": "Leve cartões de papel ou um bloco pequeno. Procure um caminho de terra onde cresçam plantas silvestres, evitando o betão urbano.",
+          "id": "Bawa kartu kertas atau buku catatan kecil. Temukan rute tanah di mana tanaman liar tumbuh secara alami daripada jalan aspal.",
+          "ko": "트럼프 카드 크기의 빈 종이 여러 장과 펜을 주머니에 가볍게 지참합니다. 보도블록 대신 야생 잡풀과 무성한 들꽃을 관찰할 수 있는 들길이나 산책로를 걷습니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Looking closely at plants, classifying their shapes and details",
+          "ja": "見た目を観察し",
+          "zh": "细致观察野草和花朵的形状，并在大脑中进行分类",
+          "es": "Observar plantas, catalogando sus formas y detalles",
+          "fr": "Observer les plantes, classer leurs formes et détails",
+          "de": "Pflanzen genau betrachten, Formen und Details einteilen",
+          "pt": "Observar as plantas, catalogando as formas e detalhes",
+          "id": "Perhatikan tanaman, klasifikasikan bentuk dan detailnya",
+          "ko": "들풀이나 야생화의 생김새를 자세히 들여다보며 관찰하기"
+        },
+        "text": {
+          "en": "Pick up a leaf or look closely at a flower. Notice the veins, petals, and patterns. This taxonomics actions shifts your brain focus away from daily worries.",
+          "ja": "道端に咲いた野花や木の葉のディテールを注意深く見つめます。葉脈の配列や花びらの数などを識別することに集中し、社会的思考のスイッチを切ります。",
+          "zh": "仔细观察路边野花或树叶的细节。专注于辨别叶脉的排列、花瓣的数量等，以此关掉社会属性思维的开关。",
+          "es": "Mire una hoja o flor de cerca. Observe los nervios, pétalos y patrones. Esta catalogación desconecta el cerebro de los problemas.",
+          "fr": "Regardez une feuille ou fleur de près. Observez ses nervures et pétales. Cette observation coupe le fil des soucis.",
+          "de": "Betrachten Sie ein Blatt oder eine Blüte aus der Nähe. Achten Sie auf Adern und Blütenblätter. Das lenkt vom Alltagsstress ab.",
+          "pt": "Observe uma folha ou flor de perto. Analise as nervuras, pétalas e padrões. Esta catalogação desliga o cérebro dos problemas.",
+          "id": "Perhatikan bunga atau daun liar secara dekat. Fokus pada serat daun dan jumlah kelopak bunga untuk mematikan stres pikiran harian.",
+          "ko": "가던 길을 멈추고 땅 밑의 이끼나 나뭇잎, 야생초의 결을 면밀히 관찰합니다. 잎맥의 갈래나 꽃잎의 수 등 자연의 세밀한 기하학에 뇌의 초점을 모읍니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Jotting down unexpected thoughts immediately on your cards",
+          "ja": "即座に記録",
+          "zh": "将脑海中闪现的灵感即刻记录在纸质卡片上",
+          "es": "Anotar ideas espontáneas de inmediato en las cartas",
+          "fr": "Noter ses idées spontanées sur-le-champ sur ses fiches",
+          "de": "Spontane Gedanken sofort auf den Karten notieren",
+          "pt": "Anotar ideias espontâneas logo nos cartões",
+          "id": "Catat ide yang muncul secara langsung di kartu kertas",
+          "ko": "자연스러운 이완 속에 떠오른 아이디어를 종이 카드에 적기"
+        },
+        "text": {
+          "en": "When a creative idea surfaces because of DMN activation, write it down immediately on your card. Do not wait until you return home.",
+          "ja": "リラックスした状態で突然湧き上がったクリエイティブなアイデアや感情を、手帳やカードの余白に書き留めます。家に帰るまで先延ばしにしません。",
+          "zh": "在放松状态下突然涌现的创意企划案或情感，即刻用笔在卡片空白处写下。切勿拖延至回家后再记。",
+          "es": "Al aparecer una idea gracias a la Red por Defecto, escríbala en la carta al instante. No espere a volver a casa.",
+          "fr": "Si une idée surgit grâce au Réseau par Défaut, écrivez-la sur-le-champ. N'attendez pas d'être rentré.",
+          "de": "Kommt ein Gedanke, schreiben Sie ihn auf die Karte. Warten Sie nicht, bis Sie wieder zu Hause sind.",
+          "pt": "Ao surgir uma ideia devido à Rede de Modo Padrão, escreva-a no cartão logo. Não espere até voltar para casa.",
+          "id": "Ketika ide kreatif muncul akibat DMN yang aktif, segera tulis di kartu memo Anda. Jangan tunda sampai pulang.",
+          "ko": "뇌가 완전히 이완된 상태에서 불쑥 뇌리를 스치는 영감이나 해결책을 주머니에서 카드를 꺼내 즉석에서 날 것 그대로 적습니다. 미루지 않는 것이 핵심입니다."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "Why did Rousseau write notes on the back of playing cards?",
+          "ja": "ルソーはなぜよりによってトランプカードの裏面にメモを残したのですか？",
+          "zh": "卢梭为什么偏偏在扑克牌背面记笔记？",
+          "es": "¿Por qué Rousseau escribía en el reverso de cartas de juego?",
+          "fr": "Pourquoi Rousseau écrivait-il sur des cartes à jouer ?",
+          "de": "Warum nutzte Rousseau die Rückseite von Spielkarten?",
+          "pt": "Porque é que Rousseau escrevia no verso de cartas de jogar?",
+          "id": "Mengapa Rousseau menulis catatan di balik kartu bermain?"
+        },
+        "answer": {
+          "en": "He did not carry heavy notebooks while hiking. The stiff, small playing cards were perfect to write on while standing or walking, and easily fit inside his coat pockets.",
+          "ja": "屋外を歩き回る際に重い本やノートを持ち歩くのを嫌ったからです。小さくて厚いトランプカードは立ちながら筆記するのに硬くて頑丈であり、ポケットに簡単に入り携帯性も完璧でした。",
+          "zh": "因为他讨厌在户外散步时携带沉重的书籍或笔记本。小巧而厚实的扑克牌硬度适中，非常适合站立时书写，且极易装进口袋，便携性极佳。",
+          "es": "No le gustaba llevar cuadernos pesados al monte. Las cartas de juego eran rígidas para escribir de pie y cabían de sobra en sus bolsillos.",
+          "fr": "Il n'aimait pas s'encombrer de carnets lourds. Les cartes à jouer étaient rigides pour écrire debout et se glissaient facilement dans ses poches.",
+          "de": "Er wollte keine schweren Bücher beim Wandern tragen. Die festen Spielkarten boten eine gute Schreibfläche im Stehen und passten in jede Tasche.",
+          "pt": "Não gostava de carregar blocos pesados no monte. As cartas eram rígidas para escrever de pé e cabiam facilmente nos bolsos.",
+          "id": "Ia tidak suka membawa buku catatan yang tebal saat berjalan jauh. Kartu bermain yang kecil dan kaku sangat cocok untuk menulis sambil berdiri."
+        }
+      }
+    ],
+    "pubDate": "2026-04-23",
+    "updatedDate": "2026-04-23"
+  }
+}

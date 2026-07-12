@@ -1,0 +1,192 @@
+{
+  "weil-classical-recitation": {
+    "title": {
+      "en": "The Secret to Perfect Attention: Simone Weil's Morning Classical Recitation Routine",
+      "ja": "完璧な注意力の秘密：シモーヌ・ヴェイユの朝の古典暗唱ルーティン",
+      "zh": "完美专注力的秘密：西蒙娜·薇依的晨间古典背诵惯例",
+      "es": "El secreto de la atención perfecta: La rutina de recitación clásica de Simone Weil",
+      "fr": "Le secret de l'attention parfaite : La routine de récitation classique de Simone Weil",
+      "de": "Das Geheimnis perfekter Aufmerksamkeit: Simone Weils morgendliche Routine der klassischen Rezitation",
+      "pt": "O segredo da atenção perfeita: A rotina de recitação clássica de Simone Weil",
+      "id": "Rahasia Perhatian Sempurna: Rutinitas Membaca Klasik Pagi Simone Weil",
+      "ko": "완벽한 주의집중력을 만드는 비결: 철학자 시몬 베유의 아침 고전 암송 루틴"
+    },
+    "description": {
+      "en": "Discover how French philosopher Simone Weil used morning recitation of classic Greek texts to sharpen her attention. Learn the science of vocalization and brain focus.",
+      "ja": "フランスの哲学者シモーヌ・ヴェイユが、注意力を研ぎ澄ますために朝の古典暗唱をどのように活用したかを紹介します。音読が脳に与える効果を解説します。",
+      "zh": "发现法国哲学家西蒙娜·薇依如何通过在早晨背诵古希腊经典来磨砺专注力。了解发声与大脑集中的科学原理。",
+      "es": "Descubra cómo la filósofa Simone Weil usaba la recitación de textos clásicos para enfocar su atención. La ciencia de la vocalización y concentración.",
+      "fr": "Découvrez comment la philosophe Simone Weil récitait des textes grecs le matin pour aiguiser son attention. La science de la vocalisation.",
+      "de": "Erfahren Sie, wie die Philosophin Simone Weil klassische Texte rezitierte, um ihre Aufmerksamkeit zu schärfen. Die Wirkung des Vorlesens auf das Gehirn.",
+      "pt": "Descubra como a filósofa Simone Weil recitava textos clássicos para aguçar a atenção. A ciência da vocalização e concentração mental.",
+      "id": "Pelajari bagaimana filsuf Prancis Simone Weil melatih perhatiannya dengan membaca teks klasik setiap pagi. Temukan manfaat membaca nyaring.",
+      "ko": "프랑스의 철학자 시몬 베유가 주의력을 단련하기 위해 실천했던 아침 그리스어 고전 암송 루틴을 알아봅니다. 소리 내어 읽는 낭독이 전두엽에 미치는 과학적 효과를 다룹니다."
+    },
+    "authority": {
+      "en": "Simone Weil's Waiting for God & Neurocognitive Research on Vocal Recitation",
+      "ja": "シモーヌ・ヴェイユの著作「神を待ちのぞむ」および音読の脳認知心理学研究",
+      "zh": "西蒙娜·薇依著作《等候上帝》与关于声学背诵的神经认知研究",
+      "es": "A la espera de Dios por Simone Weil y estudios cognitivos de recitación vocal",
+      "fr": "Attente de Dieu par Simone Weil et recherche neurocognitive sur la récitation",
+      "de": "Simone Weils Warten auf Gott & neurokognitive Forschung zur Rezitation",
+      "pt": "À Espera de Deus por Simone Weil & pesquisas cognitivas sobre a recitação vocal",
+      "id": "Menunggu Tuhan oleh Simone Weil & Penelitian Neurokognitif tentang Membaca Nyaring",
+      "ko": "시몬 베유의 저서 '신을 기다리며' 및 낭독이 전두엽 인지 능력에 미치는 신경과학 연구"
+    },
+    "intro": {
+      "en": "Simone Weil, the brilliant French philosopher and mystic who dedicated her short life to exploring truth and human suffering. She believed that 'attention' is the most sacred tool of the intellect and spirit. To cultivate this attention, she practiced a morning routine: reciting the Lord's Prayer in ancient Greek or passages from Plato. She described this vocalization as a mental cleanup to align her cognitive frequency. Let's explore the neurocognitive benefits of vocal recitation.\n\n</div>",
+      "ja": "真理の探求と他者への共感に短い生涯を捧げた、フランスの哲学者シモーヌ・ヴェイユ。彼女は「注意力」こそが知性と霊性の最も神聖な道具であると信じていました。その注意力を養うため、彼女は毎朝起きてすぐに、古代ギリシャ語の主の祈りやプラトンの文章を朗読するルーティンを実践していました。声に出して読むこの行為を、彼女は思考を整える脳のクリーニングと呼んでいました。朗読が脳に与える効果を紐解きます。\n\n</div>",
+      "zh": "西蒙娜·薇依，将短暂的一生致力于探索真理和人类苦难的法国杰出哲学家。她认为“专注力”是智力和精神最神圣的工具。为了培养这种专注力，她坚持一项晨间惯例：用古希腊语背诵主祷文或柏拉图的段落。她将这种发声过程描述为调整大脑认知频率的“精神清扫”。让我们一起来探索背诵和朗读的神经认知益处。\n\n</div>",
+      "es": "Simone Weil, la brillante filósofa francesa que dedicó su vida a buscar la verdad. Creía que la 'atención' es la herramienta más sagrada del intelecto. Para cultivarla, practicaba una rutina: recitar la oración del Señor en griego antiguo o pasajes de Platón. Describía esta vocalización como una limpieza mental para alinear su frecuencia cognitiva. Conozcamos la ciencia de la recitación vocal.\n\n</div>",
+      "fr": "Simone Weil, la brillante philosophe française qui a consacré sa vie à la vérité. Elle pensait que l'attention était l'outil le plus sacré de l'esprit. Pour la cultiver, elle récitait chaque matin le Notre Père en grec ancien ou des textes de Platon. Elle décrivait cette récitation comme un nettoyage mental pour aligner sa fréquence cognitive. Découvrez les bienfaits de la récitation.\n\n</div>",
+      "de": "Simone Weil, die französische Philosophin, die ihr Leben der Wahrheit widmete. Sie glaubte, Aufmerksamkeit sei das edelste Werkzeug des Geistes. Um sie zu schulen, praktizierte sie eine Morgenroutine: Sie rezitierte das Vaterunser auf Altgriechisch oder Plato-Passagen. Diese Rezitation beschrieb sie als geistigen Hausputz. Entdecken Sie die neurokognitiven Vorteile des Vorlesens.\n\n</div>",
+      "pt": "Simone Weil, a brilhante filósofa francesa que dedicou a sua vida à verdade. Acreditava que a 'atenção' é a ferramenta mais sagrada do intelecto. Para cultivá-la, recitava o Pai Nosso em grego antigo ou passagens de Platão de manhã. Descrevia esta vocalização como uma limpeza mental para sintonizar a mente. Conheça a ciência da recitação vocal.\n\n</div>",
+      "id": "Simone Weil, filsuf Prancis terkemuka yang mendedikasikan hidupnya untuk kebenaran. Ia percaya bahwa 'perhatian' adalah alat paling suci dari intelektual. Untuk melatihnya, ia merutinkan membaca teks Yunani kuno atau filsafat Plato setiap pagi. Ia menyebutnya sebagai pembersihan mental. Mari kita ulas manfaat membaca nyaring secara neurokognitif.\n\n</div>",
+      "ko": "타인의 고통에 깊이 공감하고 노동과 영성의 본질을 탐구했던 프랑스의 천재 철학자, 시몬 베유. 그녀는 '주의집중력(Attention)'이야말로 진리를 발견하고 영혼을 단련하는 가장 위대한 도구라고 믿었습니다. 이 주의력을 극대화하기 위해 베유는 매일 아침 일어나 고대 그리스어로 작성된 주기도문이나 플라톤의 고전 문장을 소리 내어 암송했습니다. 그녀가 정신의 혼탁함을 제거하는 의식으로 활용한 아침 암송의 뇌과학적 비밀을 알아봅니다.\n\n</div>"
+    },
+    "whyTitle": {
+      "en": "Vocal Recitation and Prefrontal Cortex Activation",
+      "ja": "音読と前頭葉の活性化",
+      "zh": "声学背诵与前额叶皮层激活",
+      "es": "Recitación vocal y activación de la corteza prefrontal",
+      "fr": "Récitation vocale et activation du cortex préfrontal",
+      "de": "Vokale Rezitation und Aktivierung des präfrontalen Cortex",
+      "pt": "Recitação vocal e ativação do córtex pré-frontal",
+      "id": "Membaca Nyaring dan Aktivasi Korteks Prefrontal",
+      "ko": "낭독과 암송이 전두엽 피질에 미치는 영향"
+    },
+    "whyDesc": {
+      "en": "Reading complex classical texts aloud activates the Dorsolateral Prefrontal Cortex (DLPFC), the center of cognitive control and working memory. While silent reading mostly uses visual circuits, reading aloud demands visual, motor, and auditory systems to work simultaneously. This multisensory integration synchronizes brain waves, dramatically improving selective attention and clearing mental fog for the rest of the day.",
+      "ja": "複雑な古典テキストを声に出して読むことは, 認知制御と作業記憶の中枢である背外側前頭前野(DLPFC)を活性化します. 黙読は主に視覚回路を使用しますが, 音読は視覚, 運動, 聴覚システムを同時に稼働させます. この多感覚統合が脳波を同調させ, 注意力を極大化し, 朝の頭のモヤモヤを解消するのです.",
+      "zh": "大声朗读复杂的经典文献会高度激活背外侧前额叶皮层（DLPFC），这是认知控制和工作记忆的核心区域。默读主要使用视觉回路，而朗读则需要视觉、运动和听觉系统协同工作。这种多感官融合能使脑电波同步，从而大幅提高选择性注意力，清除晨间的思绪迷雾。",
+      "es": "Leer textos clásicos en voz alta activa la corteza prefrontal dorsolateral, encargada del control cognitivo. A diferencia de la lectura silenciosa, la recitación activa sistemas visuales, motores y auditivos. Esta integración multisensorial sintoniza las ondas cerebrales, despejando la niebla mental.",
+      "fr": "Lire des textes classiques à haute voix active le cortex préfrontal dorsolocal, siège du contrôle cognitif. Contrairement à la lecture silencieuse, la récitation sollicite la vision, le mouvement et l'audition. Cette intégration multisensorielle synchronise les ondes cérébrales.",
+      "de": "Das laute Vorlesen anspruchsvoller Texte aktiviert den präfrontalen Cortex, das Zentrum kognitiver Kontrolle. Stummes Lesen nutzt nur visuelle Bahnen; lautes Rezitieren fordert Sehen, Motorik und Gehör. Diese multisensorische Integration synchronisiert die Gehirnwellen.",
+      "pt": "Ler textos clássicos em voz alta ativa o córtex pré-frontal dorsolateral, responsável pelo controle cognitivo. Ao contrário da leitura silenciosa, a recitação exige sistemas visuais, motores e auditivos. Esta integração sensorial sintoniza as ondas cerebrais, clareando a mente.",
+      "id": "Membaca teks klasik secara nyaring mengaktifkan Korteks Prefrontal Dorsolateral (DLPFC), pusat kontrol kognitif dan memori kerja. Membaca nyaring menuntut sistem visual, motorik, dan auditori bekerja sekaligus. Integrasi ini meningkatkan perhatian selektif secara dramatis.",
+      "ko": "외국어나 옛 글자로 기록된 복잡한 고전 문장을 소리 내어 암송하는 행위는 뇌의 실행 제어와 인지 조절을 담당하는 배외측 전두엽(Dorsolateral Prefrontal Cortex)을 집중적으로 자극합니다. 단순히 눈으로만 텍스트를 읽는 묵독에 비해, 낭독은 시각(글자 읽기), 운동(발음하기), 청각(내 목소리 듣기) 피질을 동시에 자동하는 '다감각 자극' 과정입니다. 이 다감각 동기화는 전두엽의 실행 집중력을 최대로 끌어올려 하루의 시작점에서 정신적 모호함(Brain Fog)을 깨끗이 걷어냅니다."
+    },
+    "cautionTitle": {
+      "en": "Focus on the Process of Sound and Words",
+      "ja": "音と文字のプロセスに集中する",
+      "zh": "专注于声音与文字的过程",
+      "es": "Enfocarse en el proceso del sonido y las palabras",
+      "fr": "Se concentrer sur le processus du son et des mots",
+      "de": "Sich auf den Prozess von Klang und Worten konzentrieren",
+      "pt": "Focar no processo do som e das palavras",
+      "id": "Fokus pada Proses Suara dan Kata-kata",
+      "ko": "소리와 텍스트가 울리는 과정 그 자체에 주의 기울이기"
+    },
+    "cautionDesc": {
+      "en": "For Simone Weil, recitation was a form of active mindfulness. You don't need to recite ancient Greek; reading any short, inspiring poem or philosophical quote aloud for 5 minutes in the morning will suffice. Feel the vibration of your voice and let it anchor your attention.",
+      "ja": "シモーヌ・ヴェイユにとって、暗唱は動的なマインドフルネスの一種でした. 古代ギリシャ語である必要はありません. 朝5分間, 心を打つ短い詩や哲学的な名言を声に出して読んでみてください. 自分の声の振動を感じることで, 注意力がそこに固定されるようになります.",
+      "zh": "对西蒙娜·薇依而言，背诵是主动正念的一种形式。您不需要去背诵古希腊语，每天早晨用5分钟大声朗读任何简短、有启发性的诗歌或哲学名言即可。感受自己声音的振动，让它成为您专注力的锚点。",
+      "es": "Para Simone Weil, la recitación era una forma de mindfulness activo. No necesita recitar griego antiguo: leer cualquier poema corto o cita en voz alta durante 5 minutos es suficiente. Sienta la vibración de su voz para fijar su atención.",
+      "fr": "Pour Simone Weil, la récitation était une forme de pleine conscience. Nul besoin de réciter du grec ancien : lire un court poème ou une citation à haute voix pendant 5 minutes suffit. Sentez la vibration de votre voix pour ancrer votre esprit.",
+      "de": "Für Simone Weil war Rezitation eine Form aktiver Achtsamkeit. Sie müssen kein Altgriechisch lernen; es reicht, morgens 5 Minuten lang ein kurzes, inspirierendes Gedicht oder Zitat laut vorzulesen. Spüren Sie die Vibration Ihrer Stimme und verankern Sie Ihre Aufmerksamkeit.",
+      "pt": "Para Simone Weil, a recitação era uma forma de atenção plena ativa. Não precisa de recitar grego antigo: ler qualquer poema curto ou citação em voz alta durante 5 minutos é suficiente. Sinta a vibração da sua voz para ancorar a atenção.",
+      "id": "Bagi Simone Weil, membaca nyaring adalah bentuk kesadaran aktif. Anda tidak perlu membaca bahasa Yunani kuno; cukup baca puisi atau kutipan filsafat secara nyaring selama 5 menit setiap pagi. Rasakan getaran suara Anda untuk memusatkan perhatian.",
+      "ko": "시몬 베유에게 아침 암송은 하나의 능동적인 명상이자 지적 훈련이었습니다. 굳이 고대 그리스어가 아니더라도 좋습니다. 매일 아침 눈을 떠 하루 5분씩 깊은 영감을 주는 짧은 서정시나 철학적 명언집의 문구를 소리 내어 낭독해 보세요. 내 목소리의 파동과 단어가 전해주는 호흡에 온전히 주의를 고정할 때 뇌는 가장 강력한 집중 상태로 충전됩니다."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Selecting a short, inspiring classical quote or poem in the morning",
+          "ja": "朝, 短くインスピレーションを与える古典の文句や詩の選定",
+          "zh": "早晨挑选一段简短而富有启发的经典语句或诗歌",
+          "es": "Elegir un poema o cita corta e inspiradora por la mañana",
+          "fr": "Choisir une courte citation ou poésie inspirante le matin",
+          "de": "Morgens ein kurzes, inspirierendes Zitat oder Gedicht wählen",
+          "pt": "Escolher um poema ou citação curta e inspiradora de manhã",
+          "id": "Pilih kutipan klasik atau puisi pendek yang inspiratif",
+          "ko": "아침 기상 직후 낭독할 짧은 명언이나 고전 텍스트 선정하기"
+        },
+        "text": {
+          "en": "Prepare a book or digital page with short, high-quality texts the night before. Avoid long articles or news; focus on sentences that demand intellectual contemplation.",
+          "ja": "前日の夜に短い高質なテキストを準備しておきます。長いニュースや記事は避け、知的な熟考を誘導する文章に集中します。",
+          "zh": "在前一天晚上准备好简短、高质量的文本。避免长篇文章或新闻，专注于需要智力思考的语句。",
+          "es": "Deje listo un libro o texto corto la noche anterior. Evite noticias o textos largos: elija frases que requieran contemplación intelectual.",
+          "fr": "Préparez un livre ou texte court la veille au soir. Évitez les actualités ou longs articles et privilégiez les phrases qui incitent à la réflexion.",
+          "de": "Bereiten Sie am Vorabend ein Buch oder ein kurzes Zitat vor. Meiden Sie lange Nachrichten; wählen Sie Sätze, die zum Nachdenken anregen.",
+          "pt": "Prepare um livro ou texto curto na véspera. Evite notícias ou artigos longos: escolha frases que exijam reflexão intelectual.",
+          "id": "Siapkan buku atau halaman digital dengan teks pendek yang berkualitas tinggi sejak malam sebelumnya. Hindari berita panjang.",
+          "ko": "전날 밤에 미리 아침에 낭독할 1~2문장 내외의 깊이 있는 텍스트나 격언을 책상 위에 준비해 둡니다. 뉴스나 일상적인 글 대신 인지적 사색을 돕는 밀도 높은 문장이 좋습니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Reciting the text aloud 5 times slowly while feeling the voice",
+          "ja": "声の響きを感じながらテキストをゆっくり5回朗読",
+          "zh": "感受声带的振动，缓慢而专注地将文本朗读5遍",
+          "es": "Recitar el texto 5 veces lentamente sintiendo la voz",
+          "fr": "Réciter le texte 5 fois lentement en sentant la voix",
+          "de": "Text 5-mal langsam vorlesen und die Stimme spüren",
+          "pt": "Recitar o texto 5 vezes devagar sentindo a voz",
+          "id": "Lafalkan teks secara nyaring 5 kali dengan perlahan",
+          "ko": "내 목소리의 울림을 느끼며 텍스트를 천천히 5회 낭독하기"
+        },
+        "text": {
+          "en": "Pronounce each word clearly. Feel the movement of your mouth and the physical sound of your voice. This sensory loop locks your brain's attention.",
+          "ja": "一音一音をはっきりと発音します。口の動きと声の物理的な音を感じることで、脳の注意力をその瞬間に固定します。",
+          "zh": "字正腔圆地朗读每一个字。感受口型的变化和声音的物理振动，这种感官环路能够把大脑的注意力牢牢锁在当下的动作上。",
+          "es": "Pronuncie cada palabra con claridad. Sienta el movimiento de su boca y el sonido físico. Este bucle sensorial bloquea la distracción.",
+          "fr": "Prononcez chaque mot clairement. Sentez le mouvement de votre bouche et le son physique. Cette boucle sensorielle fixe votre attention.",
+          "de": "Sprechen Sie jedes Wort klar aus. Spüren Sie die Mundbewegung und den Klang der Stimme. Diese sensorische Schleife bindet die Aufmerksamkeit.",
+          "pt": "Pronuncie cada palavra com clareza. Sinta o movimento da boca e o som físico. Este loop sensorial bloqueia a distração da mente.",
+          "id": "Ucapkan setiap kata dengan jelas. Rasakan gerakan mulut dan suara fisik Anda untuk memusatkan perhatian otak pada saat itu.",
+          "ko": "조급하지 않게 한 자 한 자 또박또박 소리를 냅니다. 목의 진동과 입술의 움직임, 귀로 들어오는 소리를 실시간으로 감각적으로 인지하여 잡념을 몰아냅니다."
+        }
+      },
+      {
+        "name": {
+          "en": "2 minutes of silent meditation before starting the day's tasks",
+          "ja": "仕事に入る前に2分間目を閉じて静かに黙想",
+          "zh": "在进入工作前，闭上眼睛静默沉思2分钟",
+          "es": "2 minutos de meditación silenciosa antes de empezar",
+          "fr": "2 minutes de méditation silencieuse avant de commencer",
+          "de": "2 Minuten stille Meditation vor Beginn der Tagesarbeit",
+          "pt": "2 minutes de meditação silenciosa antes de começar",
+          "id": "Meditasi hening selama 2 menit sebelum mulai bekerja",
+          "ko": "암송을 마친 후 2분간 눈을 감고 고요한 상태 유지하기"
+        },
+        "text": {
+          "en": "After reciting, close your eyes and sit in silence. Let the mental vibrations settle, preparing your prefrontal cortex for deep creative work.",
+          "ja": "朗読が終わったら、目を閉じて静かに座ります. 頭の中の雑音を取り除き, 前頭葉を高度な作業のためのクリアな状態に整えます.",
+          "zh": "朗读结束后，闭上双眼静静端坐。平息大脑中的杂音，使前额叶皮层调整到适合开展深度、创造性工作的清明状态。",
+          "es": "Al terminar, cierre los ojos y siéntese en silencio. Deje que la vibración mental se asiente, preparando su mente para el trabajo profundo.",
+          "fr": "Après la récitation, fermez les yeux en silence. Laissez les pensées se poser, préparant votre esprit au travail profond.",
+          "de": "Schließen Sie danach die Augen und sitzen Sie still. Lassen Sie die gedankliche Bewegung abklingen, um das Gehirn auf tiefe Arbeit vorzubereiten.",
+          "pt": "Ao terminar, feche os olhos e sente-se em silêncio. Deixe que a vibração mental assente, preparando a mente para o trabalho profundo.",
+          "id": "Setelah membaca, pejamkan mata dan duduklah dengan tenang untuk meredakan kebisingan pikiran dan bersiap untuk kerja mendalam.",
+          "ko": "소리 내어 읽기가 끝나면 책상에 바른 자세로 앉아 눈을 감고 2분간 깊은 호흡을 합니다. 자극이 정돈된 뇌의 준비 상태를 확인하며 첫 과업을 시작합니다."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "Why did Weil prefer ancient Greek texts for recitation?",
+          "ja": "ヴェイユはなぜ暗唱に古代ギリシャ語のテキストを好んだのですか？",
+          "zh": "薇依为什么更喜欢背诵古希腊语文献？",
+          "es": "¿Por qué Weil prefería textos en griego antiguo para recitar?",
+          "fr": "Pourquoi Weil préférait-elle les textes en grec ancien ?",
+          "de": "Warum bevorzugte Weil altgriechische Texte zur Rezitation?",
+          "pt": "Porque é que Weil preferia textos em grego antigo para recitar?",
+          "id": "Mengapa Weil lebih menyukai teks Yunani kuno untuk dibaca?"
+        },
+        "answer": {
+          "en": "She believed that foreign classical languages require more conscious cognitive effort, preventing passive habituation and forcing the brain to dedicate 100% of its attention to each syllable.",
+          "ja": "彼女は, 慣れ親しんでいない外国の古典言語を読むことで, 受動的な慣れを防ぎ, 脳が一つ一つの音節に100%の意識を向ける必要があると考えていました.",
+          "zh": "她认为，阅读不熟悉的外国古典语言需要更多有意识的认知努力，这能防止大脑产生被动的习惯性懈怠，强迫大脑对每一个音节付出100%的注意力。",
+          "es": "Creía que los idiomas clásicos extranjeros exigen mayor esfuerzo cognitivo, evitando la habituación pasiva y forzando a la mente a prestar 100% de atención a cada sílaba.",
+          "fr": "Elle pensait que les langues classiques exigeaient un effort cognitif accru, évitant l'habitude passive et forçant l'esprit à accorder 100 % d'attention à chaque syllabe.",
+          "de": "Sie glaubte, fremde klassische Sprachen erforderten mehr bewusste kognitive Anstrengung. Dies verhinderte passive Gewöhnung und zwang das Gehirn zu 100 % Aufmerksamkeit.",
+          "pt": "Acreditava que línguas clássicas estrangeiras exigiam maior esforço cognitivo, evitando a habituação passiva e forçando a mente a prestar 100% de atenção a cada sílaba.",
+          "id": "Ia percaya bahwa bahasa klasik asing menuntut upaya kognitif yang lebih sadar, mencegah pembiasaan pasif, dan memaksa otak memperhatikan setiap suku kata secara 100%."
+        }
+      }
+    ],
+    "pubDate": "2026-07-11",
+    "updatedDate": "2026-07-11"
+  }
+}

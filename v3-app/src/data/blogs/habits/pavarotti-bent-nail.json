@@ -1,0 +1,192 @@
+{
+  "pavarotti-bent-nail": {
+    "title": {
+      "en": "Finding a Bent Nail for Stage Fright? Luciano Pavarotti's Sensory Refocusing Routine",
+      "ja": "舞台恐怖症のために曲がった釘を探す？ルチアーノ・パヴァロッティの「感覚的再焦点」ルーティン",
+      "zh": "为了克服舞台恐惧寻找弯铁钉？卢奇亚诺·帕瓦罗蒂的“感官重新聚焦”惯例",
+      "es": "¿Buscar un clavo torcido para el pánico escénico? La rutina de reenfocamiento sensorial de Luciano Pavarotti",
+      "fr": "Chercher un clou tordu contre le trac ? La routine de recentrage sensoriel de Luciano Pavarotti",
+      "de": "Einen krummen Nagel gegen Lampenfieber suchen? Luciano Pavarottis Routine der sensorischen Neufokussierung",
+      "pt": "Procurar um prego torto para o medo do palco? A rotina de reenfocamento sensorial de Luciano Pavarotti",
+      "id": "Mencari Paku Bengkok Demi Mengatasi Demam Panggung? Rutinitas Memfokuskan Kembali Sensorik Luciano Pavarotti",
+      "ko": "무대 공포증을 이기려 굽은 못을 찾다: 루치아노 파바로티의 '감각 닻(Anchor)' 루틴"
+    },
+    "description": {
+      "en": "Discover how legendary tenor Luciano Pavarotti found bent nails to control stage fright. Learn about ritual performance, amygdala control, and sensory refocusing.",
+      "ja": "伝説のテノール歌手ルチアーノ・パヴァロッティが舞台恐怖症を抑えるために曲がった釘を探した習慣を紹介します。儀式行為と扁桃体制御の仕組みを解説します。",
+      "zh": "介绍传奇男高音卢奇亚诺·帕瓦罗蒂通过寻找弯铁钉控制舞台恐惧的习惯。探讨仪式性行为与杏仁核控制的科学机制。",
+      "es": "Descubra cómo el tenor Luciano Pavarotti buscaba clavos torcidos para controlar el miedo escénico. La ciencia de la redirección sensorial.",
+      "fr": "Découvrez comment le ténor Luciano Pavarotti cherchait des clous tordu pour vaincre le trac. La science du contrôle de l'amygdale.",
+      "de": "Erfahren Sie, wie Tenor Luciano Pavarotti krumme Nägel suchte, um sein Lampenfieber zu bezwingen. Die Psychologie des Fokussierens.",
+      "pt": "Descubra como o tenor Luciano Pavarotti procurava pregos tortos para dominar o medo do palco. A ciência do redirecionamento sensorial.",
+      "id": "Pelajari bagaimana tenor legendaris Luciano Pavarotti mencari paku bengkok untuk meredakan demam panggung. Temukan manfaat sensorik.",
+      "ko": "세계적인 테너 루치아노 파바로티가 공연 전 굽은 못을 찾았던 징크스 행동에 숨겨진 뇌과학적 진정 효과를 설명합니다. 의식화된 루틴이 불안을 통제하는 방식을 설명합니다."
+    },
+    "authority": {
+      "en": "Pavarotti's Autobiography & Applied Sport Psychology on Ritual and Performance Anxiety",
+      "ja": "パヴァロッティの自伝およびパフォーマンス不安に関する応用スポーツ心理学研究",
+      "zh": "《帕瓦罗蒂自传》及关于表现焦虑的应用运动心理学研究",
+      "es": "Autobiografía de Pavarotti y psicología deportiva sobre rituales y ansiedad de rendimiento",
+      "fr": "Autobiographie de Pavarotti et psychologie du sport sur les rituels et l'anxiété",
+      "de": "Pavarottis Autobiografie & Sportpsychologie zu Ritualen und Leistungsangst",
+      "pt": "Autobiografia de Pavarotti & psicologia desportiva sobre rituais e ansiedade de desempenho",
+      "id": "Otobiografi Pavarotti & Penelitian Psikologi Olahraga tentang Rutinitas Khusus",
+      "ko": "루치아노 파바로티의 회고록 및 의식화된 루틴이 수행 불안 감소에 미치는 스포츠심리학 연구"
+    },
+    "intro": {
+      "en": "Luciano Pavarotti, one of the greatest tenors of all time who popularized classical opera worldwide. Despite singing in front of tens of thousands of people, Pavarotti suffered from severe stage fright. To conquer this anxiety, he had a backstage routine: finding a bent nail on the stage floor. In Italian folklore, a bent nail brings good luck. Let's study how this superstition acted as a powerful cognitive trick to calm his amygdala and refocus his attention.\n\n</div>",
+      "ja": "「神に愛された声」と称され, 世界中を魅了したテノール歌手ルチアーノ・パヴァロッティ。大観衆の前で堂々と歌っていた彼ですが, 実は舞台裏では極度の恐怖と戦うデリケートな一面がありました. その恐怖を克服するための彼のルーティンが, 舞台裏の床を這いつくばって「曲がった釘」を探し, ポケットに入れることでした. イタリアの迷信で幸運を呼ぶとされるこの釘探しが, 脳の不安中枢を和らげ注意力をリセットする最高の心理トリックだったのです. その科学的根拠を明かします.\n\n</div>",
+      "zh": "卢奇亚诺·帕瓦罗蒂，有史以来最伟大的男高音之一，在世界范围内推广了古典歌剧。尽管经常在成千上万的人面前演唱，但帕瓦罗蒂在登台前依然会饱受严重舞台恐惧的折磨。为了战胜这种焦虑，他坚持着一项后台惯例：在舞台地板上寻找一颗弯曲的铁钉。在意大利民俗中，弯铁钉会带来好运。让我们一起来探讨这种迷信是如何作为一种强大的认知技巧来抚平他的杏仁核并重构专注力的。\n\n</div>",
+      "es": "Luciano Pavarotti, uno de los tenores más grandes de la historia que popularizó la ópera en todo el mundo. A pesar de cantar ante miles de personas, Pavarotti sufría un pánico escénico tremendo. Para superarlo, hacía una rutina en el backstage: buscar un clavo doblado en el suelo. En Italia, esto da suerte. Conozcamos cómo este hábito calmaba su amígdala y enfocaba su mente.\n\n</div>",
+      "fr": "Luciano Pavarotti, l'un des plus grands ténors de l'histoire. Malgré son immense succès, Pavarotti souffrait d'un trac terrible. Pour vaincre son angoisse, il suivait un rituel : chercher un clou tordu sur le sol des coulisses. En Italie, un clou tordu porte bonheur. Découvrez comment ce rituel agissait sur son amygdale pour calmer son anxiété.\n\n</div>",
+      "de": "Luciano Pavarotti, einer der größten Tenöre aller Zeiten, der die Oper populär machte. Trotz Auftritten vor Massen litt er unter extremem Lampenfieber. Dagegen hatte er ein Ritual: Er suchte in den Kulissen nach einem krummen Nagel. Nach italienischem Glauben bringt dieser Glück. Erfahren Sie, wie dieses Ritual seine Amygdala beruhigte und Aufmerksamkeit fokussierte.\n\n</div>",
+      "pt": "Luciano Pavarotti, um dos maiores tenores de sempre que popularizou a ópera. Apesar de cantar para multidões, Pavarotti sofria de um medo do palco terrível. Para dominar a ansiedade, cumpria um ritual no backstage: procurar um prego torto no chão. Em Itália, isto dá sorte. Saiba como este hábito acalmava a sua amígdala e focava a sua mente.\n\n</div>",
+      "id": "Luciano Pavarotti, salah satu tenor terhebat sepanjang masa. Meskipun bernyanyi di depan puluhan ribu orang, Pavarotti menderita demam panggung yang parah. Untuk mengatasinya, ia merutinkan mencari paku bengkok di lantai panggung sebelum tampil. Ulas bagaimana cara ini menenangkan kecemasan otaknya.",
+      "ko": "천상의 목소리로 전 세계 관객을 매료시켰던 역사상 최고의 테너, 루치아노 파바로티. 무대 위에서 풍부한 성량으로 청중을 압도했던 그였지만, 사실 공연 직전까지 심각한 무대 공포증과 스트레스로 구토까지 하던 예민한 가가였습니다. 이 고통스러운 수행 불안(Performance Anxiety)을 다스리기 위해 그가 고안한 해결책은 공연 시작 직전 무대 뒤 백스테이지 바닥을 살펴 굽은 못(Bent Nail)을 찾아 주머니에 넣는 독특한 징크스 루틴이었습니다. 굽은 못을 찾는 집념의 의식이 어떻게 뇌를 안정시켰는지 알아봅니다."
+    },
+    "whyTitle": {
+      "en": "Ritual Behavior and Amygdala Stress Control",
+      "ja": "儀式行為と偏桃体のストレスコントロール",
+      "zh": "仪式行为与杏仁核压力控制",
+      "es": "Comportamiento ritual y control del estrés en la amígdala",
+      "fr": "Comportement rituel et contrôle du stress de l'amygdale",
+      "de": "Ritualisiertes Verhalten und Stresskontrolle der Amygdala",
+      "pt": "Comportamento ritual e controlo do stress na amígdala",
+      "id": "Perilaku Rutin dan Kontrol Stres Amigdala",
+      "ko": "의식화된 루틴(Ritual)과 편도체의 불안 통제"
+    },
+    "whyDesc": {
+      "en": "Under intense stress, the amygdala activates a 'fight or flight' response, causing rapid heart rate and cognitive dysfunction. Performing a structured ritual signals the brain that the situation is controllable, immediately suppressing amygdala hyperactivity. Furthermore, shifting attention to a specific physical task, like finding a tiny nail on the ground, refocuses cognitive bandwidth away from mental anxiety to physical sensation.",
+      "ja": "強度のストレス下では, 偏桃体が「戦うか逃げるか」反応を活性化し, 心拍数の上昇や認知機能障害を引き起こします. 構造化された儀式を行うことは, 状況が制御可能であることを脳に示し, 偏桃体の過剰活性を即座に抑制します. さらに, 地上の小さな釘を探すような具体的な物理的タスクに注意を移すことで, 認知帯域幅を不安から物理的感覚へとシフトさせます.",
+      "zh": "在强烈的压力下，杏仁核会启动“战斗或逃跑”反应，导致心率加快和认知功能障碍。重复一种结构化的仪式动作，能向大脑传递“局面可控”的信号，从而有效抑制杏仁核的过度活跃。此外，将注意力转移到具体的物理任务上（如在地板上寻找细小的铁钉），能够将认知带宽从心理焦虑中抽离，重新引导至物理感官上。",
+      "es": "Bajo estrés, la amígdala activa el modo de 'lucha o huida', disparando el pulso. Cumplir un ritual estructurado indica al cerebro que la situación está bajo control, aplacando la amígdala. Además, redirigir la atención a buscar un clavo desvía la energía mental de la ansiedad a la sensación física.",
+      "fr": "Sous stress, l'amygdale active la réaction de combat ou fuite, accélérant le cœur. Suivre un rituel structuré indique au cerveau que la situation est sous contrôle. De plus, diriger son attention vers la recherche d'un clou dévie l'énergie de l'angoisse vers l'action physique.",
+      "de": "Bei starkem Stress aktiviert die Amygdala die Kampf-oder-Flucht-Reaktion, was Herzrasen erzeugt. Ein festes Ritual signalisiert dem Gehirn Kontrolle und dämpft die Amygdala. Die Konzentration auf die Suche nach einem krummen Nagel lenkt zudem Aufmerksamkeit von der Angst auf physisches Tun.",
+      "pt": "Sob stress, a amígdala ativa o modo de 'luta ou fuga', disparando as pulsações. Cumprir um ritual estruturado indica ao cérebro que a situação está sob controlo, acalmando a amígdala. Redirecionar a atenção para procurar um prego desvia a energia da ansiedade para a sensação física.",
+      "id": "Di bawah stres berat, amigdala mengaktifkan respons 'lawan atau lari' yang memicu peningkatan detak jantung. Melakukan rutinitas terstruktur memberi sinyal pada otak bahwa situasi dapat dikendalikan, meredam kecemasan mental ke sensasi fisik.",
+      "ko": "극심한 발표나 공연을 앞두고 겪는 심리적 스트레스 상황에서 우리 뇌의 편도체(Amygdala)는 생존 위협으로 인지하여 '투쟁 혹은 도피' 반응을 켜고 심박수를 높입니다. 이때 특정한 행동 순서나 징크스 의식(Ritual)을 의도적으로 실행하면, 뇌는 이 상황이 내가 완전히 통제하고 있는 안전한 상황(Sense of Control)이라고 착각하여 편도체의 과활성화를 진정시킵니다. 또한 '바닥에서 못 찾기' 같은 구체적인 대상 탐색 과업에 주의력을 분배하면, 불안을 키우던 메타 인지(생각에 대한 생각)가 강제로 멈추고 물리적 시각/촉각 정보 처리로 주의가 재정돈(Refocusing)됩니다."
+    },
+    "cautionTitle": {
+      "en": "Establish Your Own 'Focus Trigger'",
+      "ja": "自分だけの「集中トリガー」を作る",
+      "zh": "建立专属的“专注触发器”",
+      "es": "Establecer su propio 'disparador de enfoque'",
+      "fr": "Créer son propre 'déclencheur de concentration'",
+      "de": "Einen eigenen „Fokus-Auslöser“ definieren",
+      "pt": "Estabelecer o seu próprio 'gatilho de foco'",
+      "id": "Tetapkan 'Pemicu Fokus' Anda Sendiri",
+      "ko": "긴장을 풀기 위한 나만의 감각 닻(Anchor) 확보하기"
+    },
+    "cautionDesc": {
+      "en": "For Luciano Pavarotti, the bent nail was a psychological anchor. You don't need to look for bent nails backstage. Prepare a specific item, like a spinning top, pocket stone, or favorite pen. Touch it and focus on its tactile texture for 1 minute before any major meeting to clear your anxiety.",
+      "ja": "ルチアーノ・パヴァロッティにとって、曲がった釘は心の安定を助ける心理的な錨（Anchor）でした。あえて釘を探す必要はありません。小さなコインやペンなど特定の小物を準備し、重要な面接や発表の1分前にその触感を感じてみてください。脳の不安が急速に解消されます。",
+      "zh": "对卢奇亚诺·帕瓦罗蒂而言，弯铁钉是安抚心灵的心理锚点。您不需要真的在后台找钉子，准备一个陀螺、一块口袋石头或一支喜爱的笔等特定物件即可。在重要会议或发表前摸一摸它，专注其触觉质地1分钟，就能迅速清除焦虑。",
+      "es": "Para Luciano Pavarotti, el clavo era un ancla psicológica. No necesita buscar clavos en la oficina: prepare un objeto específico, como una moneda o bolígrafo. Tóquelo y concéntrese en su textura durante 1 minuto antes de reuniones para ahuyentar el miedo.",
+      "fr": "Pour Luciano Pavarotti, le clou était une ancre psychologique. Nul besoin de chercher des clous : utilisez un objet comme une pièce ou un stylo. Manipulez-le en vous concentrant sur sa texture 1 minute avant un rendez-vous important.",
+      "de": "Für Luciano Pavarotti war der Nagel ein psychologischer Anker. Sie müssen keine Nägel im Büro suchen; nutzen Sie eine Münze oder einen Stift. Befühlen Sie diesen Gegenstand vor Terminen für 1 Minute bewusst, um die Angst zu vertreiben.",
+      "pt": "Para Luciano Pavarotti, o prego era uma âncora psicológica. Não precisa de procurar pregos no escritório: tenha um objeto específico, como uma moeda ou caneta. Toque-lhe e concentre-se na textura durante 1 minuto antes de reuniões para afastar o medo.",
+      "id": "Bagi Luciano Pavarotti, paku bengkok adalah jangkar psikologis. Anda tidak perlu mencari paku bengkok; siapkan barang khusus seperti koin atau pena. Sentuh dan fokus pada tekstur taktilnya selama 1 menit sebelum rapat penting.",
+      "ko": "루치아노 파바로티에게 굽은 못은 극심한 심리적 동요를 잡아두는 영리한 감각의 닻(Anchor)이었습니다. 굳이 못을 찾아 다닐 필요는 없습니다. 긴장되는 면접이나 프레젠테이션 1분 전, 주머니 속 작은 동전이나 특정 클립의 단단하고 차가운 금속 감촉을 손가락 끝으로 온전히 느껴보세요. 감각 정보가 신경망을 채우면서 무대 공포증이 빠르게 진정되는 것을 느낄 것입니다."
+    },
+    "steps": [
+      {
+        "name": {
+          "en": "Preparing a specific tactile object as your performance anchor",
+          "ja": "特定の触覚小物を用意する",
+          "zh": "准备好用于专注的特定触觉物件",
+          "es": "Preparar un objeto táctil como ancla de rendimiento",
+          "fr": "Préparer un objet tactile comme ancre de concentration",
+          "de": "Bereitlegen eines taktilen Objekts als Arbeitsanker",
+          "pt": "Preparar um objeto tátil como âncora de rendimento",
+          "id": "Siapkan objek taktil khusus sebagai jangkar kinerja Anda",
+          "ko": "긴장 통제용 특정 촉각 소품(클립, 만지는 돌 등) 주머니에 소지하기"
+        },
+        "text": {
+          "en": "Prepare an item like a small metal coin, pocket stone, or click pen. Carry it only during high-stress days to maintain its psychological effect.",
+          "ja": "小さなコインや軽いペンなどをポケットに入れておきます。普段は触らず、緊張が極限に達する試合や発表の日だけ所持して心理的効果を維持します。",
+          "zh": "将小硬币或轻巧的钢笔放入口袋。平时不要去触摸它，仅在高度紧张的比赛或发表当天携带，以此维持心理效应。",
+          "es": "Use una moneda, piedra o bolígrafo de clic. Llévelo solo en días estresantes para que mantenga su fuerza mental.",
+          "fr": "Prenez une pièce, une pierre lisse ou un stylo. Portez-le uniquement les jours de grand stress pour préserver son efficacité.",
+          "de": "Nutzen Sie eine kleine Münze, einen Stein oder Klickstift. Tragen Sie ihn nur an stressigen Tagen, um die Wirkung zu wahren.",
+          "pt": "Use uma moeda, pedra ou caneta de clique. Leve-o apenas em dias stressantes para manter a sua eficácia mental.",
+          "id": "Siapkan barang seperti koin logam kecil, batu saku, atau pulpen klik. Bawa hanya saat hari-hari penuh stres untuk menjaga efek psikologisnya.",
+          "ko": "무늬가 입체적이거나 만졌을 때 뚜렷한 질감이 느껴지는 작은 소품(행운의 열쇠고리, 스톤 등)을 준비해 주머니에 넣어 둡니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Focusing completely on the tactile sensations of the anchor for 1 minute",
+          "ja": "本番1分前、小物の物理的な感触に感覚を集中させる",
+          "zh": "将感官集中在物件的物理触感上，持续1分钟",
+          "es": "Enfocar los sentidos en el tacto del ancla por 1 minuto",
+          "fr": "Se concentrer sur le toucher de l'ancre pendant 1 minute",
+          "de": "1 Minute lang ganz auf das Tastgefühl des Ankers konzentrieren",
+          "pt": "Focar os sentidos no toque da âncora por 1 minuto",
+          "id": "Fokus penuh pada sensasi taktil jangkar selama 1 menit",
+          "ko": "실전 1분 전, 소품의 물리적 감촉에 감각 집중하기"
+        },
+        "text": {
+          "en": "Close your eyes. Rub the item's surface. Pay attention to its temperature, roughness, and weight. Block all social noise out of your mind.",
+          "ja": "目を閉じてポケットの中の小物を触ります。その物の冷たさ、角の尖り、重さなどに全神経を集中させ、バックステージの緊張を消し去ります。",
+          "zh": "闭上眼睛，抚摸口袋里的物件。将全部精力集中在该物件的冰凉感、边缘的尖锐感、分量感上，抹去后台的紧张情绪。",
+          "es": "Cierre los ojos. Toque la superficie del objeto. Sienta su temperatura, relieve y peso. Cierre la mente a la presión externa.",
+          "fr": "Fermez les yeux. Manipulez l'objet. Concentrez-vous sur sa température, sa texture et son poids, coupant court à la pression externe.",
+          "de": "Schließen Sie die Augen und befühlen Sie das Objekt. Achten Sie auf Temperatur, Struktur und Gewicht, um den Druck abzubauen.",
+          "pt": "Feche os olhos. Toque na superfície do objeto. Sinta a temperatura, relevo e peso. Feche a mente à pressão exterior.",
+          "id": "Pejamkan mata. Usap permukaan barang tersebut. Perhatikan suhu, kekasaran, dan beratnya untuk membuang kecemasan.",
+          "ko": "눈을 감고 주머니 속 소품을 천천히 굴리며 만집니다. 금속의 온도, 면의 거칠기, 모서리의 날카로움 등에 의식적으로 촉각 주의력을 집중시킵니다."
+        }
+      },
+      {
+        "name": {
+          "en": "Entering the performance with a stabilized heart rate",
+          "ja": "本番（発表・公演）に突入する",
+          "zh": "在心率恢复稳定的状态下投入实战（发表/公演）",
+          "es": "Iniciar el reto con el pulso estabilizado y tranquilo",
+          "fr": "Entamer sa performance avec un rythme cardiaque stable",
+          "de": "Den Auftritt mit stabilisiertem Puls beginnen",
+          "pt": "Iniciar o desafio com as pulsações estabilizadas e calma",
+          "id": "Mulai tampil dengan detak jantung yang sudah stabil",
+          "ko": "심박수가 안정되어 가라앉은 상태 확인 후 자신 있게 개시하기"
+        },
+        "text": {
+          "en": "Once your breathing slows down, take a deep breath. Step onto the stage or into the meeting room with full cognitive control.",
+          "ja": "深呼吸を通じて呼吸が正常化されたことを感じれば、脳の扁桃体が安定を取り戻した状態です。自信を持って舞台や会議室に入ります。",
+          "zh": "通过深呼吸感受到呼吸恢复正常后，即代表杏仁核已找回安宁状态。请充满自信地步入舞台或会议室。",
+          "es": "Una vez calmada la respiración, inspire hondo. Entre en la sala o escenario con el control de sus facultades.",
+          "fr": "Quand la respiration ralentit, inspirez à fond. Avancez sur scène ou en réunion avec les idées claires.",
+          "de": "Sobald sich der Atem beruhigt, atmen Sie tief durch. Gehen Sie mit voller kognitiver Kontrolle auf die Bühne.",
+          "pt": "Uma vez acalmada a respiração, inspire fundo. Entre na sala ou palco no controlo de todas as suas faculdades.",
+          "id": "Setelah napas melambat, tarik napas dalam-dalam. Melangkah ke panggung atau ruang rapat dengan kontrol penuh.",
+          "ko": "소품 만지기를 통해 심호흡과 맥박이 하강했음을 자각합니다. 뇌가 긴장에서 벗어나 작업 기억력을 회복한 상태로 당당하게 입장합니다."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "en": "Why did Pavarotti specifically search for a bent nail?",
+          "ja": "パヴァロッティはなぜ特に「曲がった釘」を探したのですか？",
+          "zh": "帕瓦罗蒂为什么特别寻找“弯曲的”铁钉？",
+          "es": "¿Por qué Pavarotti buscaba específicamente un clavo torcido?",
+          "fr": "Pourquoi Pavarotti cherchait-il un clou spécifiquement tordu ?",
+          "de": "Warum suchte Pavarotti ausgerechnet einen krummen Nagel?",
+          "pt": "Porque é que Pavarotti procurava especificamente um prego torto?",
+          "id": "Mengapa Pavarotti mencari paku yang bengkok secara spesifik?"
+        },
+        "answer": {
+          "en": "In Italian theater culture, finding a bent nail backstage is an old omen of good luck. He began doing it as a simple superstition, but it evolved into a mandatory cognitive anchor that saved him from crippling stage fright.",
+          "ja": "イタリアの劇場界の文化において、舞台裏で発見する曲がった鉄釘は古代の幸運の象徴とされていました。軽い迷信から始まりましたが、後には舞台恐怖症から彼を救った必須の認知的錨となりました。",
+          "zh": "在意大利剧场文化中，在舞台后发现弯曲的铁钉被视为古老的幸运象征。这虽然始于简单的迷信，但后来演变成了将他从舞台恐惧中解救出来的必备认知锚点。",
+          "es": "En el teatro italiano, hallar un clavo doblado es un viejo augurio de buena suerte. Empezó por simple superstición, pero acabó siendo una herramienta para vencer su miedo.",
+          "fr": "Dans le théâtre italien, un clou tordu est un vieux présage de chance. D'abord simple superstition, c'est devenu pour lui une ancre cognitive indispensable contre le trac.",
+          "de": "Im italienischen Theater galt ein krummer Nagel hinter der Bühne als Glücksbote. Es begann als Aberglaube, wurde aber zur unverzichtbaren psychologischen Hilfe.",
+          "pt": "No teatro italiano, encontrar um prego dobrado é um velho presságio de sorte. Começou por superstição, mas acabou por ser uma ferramenta para vencer o seu medo.",
+          "id": "Dalam budaya teater Italia, menemukan paku bengkok di belakang panggung adalah pertanda keberuntungan. Kebiasaan ini kemudian menjadi jangkar kognitif baginya."
+        }
+      }
+    ],
+    "pubDate": "2026-04-13",
+    "updatedDate": "2026-04-13"
+  }
+}

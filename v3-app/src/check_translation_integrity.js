@@ -60,12 +60,26 @@ function checkTranslationIntegrity() {
     // robots.txt나 sitemap 등 언어 경로가 아닌 것은 검사하지 않음
     if (!locales.includes(lang)) return;
 
-    checkedCount++;
     const rawHtml = fs.readFileSync(filePath, 'utf-8');
 
-    // 헤더(언어 선택기 포함), 스크립트, 스타일 태그 제외하여 본문 텍스트 추출
-    let plainText = rawHtml
-      .replace(/<header\b[^>]*>[\s\S]*?<\/header>/gi, '')
+    // 리다이렉트 전용 HTML은 검사에서 스킵
+    if (rawHtml.includes('http-equiv="refresh"') || rawHtml.includes('Redirecting to')) {
+      return;
+    }
+
+    checkedCount++;
+
+    // 본문 콘텐츠 영역만 타겟팅 추출 (템플릿 공용 영역 제외)
+    let bodySection = '';
+    const articleMatch = rawHtml.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i);
+    if (articleMatch) {
+      bodySection = articleMatch[1];
+    } else {
+      const mainMatch = rawHtml.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i);
+      bodySection = mainMatch ? mainMatch[1] : rawHtml;
+    }
+
+    let plainText = bodySection
       .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '')
       .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, '')
       .replace(/<[^>]+>/g, ' '); // HTML 태그 제거
@@ -129,6 +143,28 @@ function checkTranslationIntegrity() {
         const hasChinese = /[\u4E00-\u9FFF]/.test(plainText);
         if (hasChinese) {
           logError(`${relativePath}: 라틴계열 페이지에 CJK 한자(중국어)가 검출되었습니다.`);
+        }
+      }
+
+      // D. 전용 문자 누락 검증 (번역 누락 및 영어 Fallback 방지)
+      if (plainText.length > 100) {
+        if (lang === 'ja') {
+          const japaneseMatches = plainText.match(/[\u3040-\u309F\u30A0-\u30FF]/g) || [];
+          if (japaneseMatches.length < 100) {
+            logError(`${relativePath}: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (${japaneseMatches.length}자). 번역 누락(영어로 폴백됨)이 의심됩니다.`);
+          }
+        }
+        if (lang === 'zh') {
+          const chineseMatches = plainText.match(/[\u4E00-\u9FFF]/g) || [];
+          if (chineseMatches.length < 150) {
+            logError(`${relativePath}: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (${chineseMatches.length}자). 번역 누락(영어로 폴백됨)이 의심됩니다.`);
+          }
+        }
+        if (lang === 'ko') {
+          const koreanMatches = plainText.match(/[\uAC00-\uD7A3\u3130-\u318F]/g) || [];
+          if (koreanMatches.length < 150) {
+            logError(`${relativePath}: 한국어 페이지인데 한국어(한글) 문자가 너무 적게 검출되었습니다 (${koreanMatches.length}자).`);
+          }
         }
       }
     }

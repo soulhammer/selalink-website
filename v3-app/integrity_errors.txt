@@ -1,0 +1,28 @@
+
+🔎 [36m[웹사이트 빌드 결과물 다국어 검증기] 최종 품질 검사를 시작합니다...[0m
+
+[31m❌ [ERR] ja/blog/doyle-sports-writing/index.html: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (38자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] ja/blog/haydn-formal-dressing/index.html: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (38자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] ja/blog/joyce-bed-writing/index.html: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (38자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] ja/blog/kepler-geometric-modeling/index.html: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (38자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] ja/blog/milton-morning-dictation/index.html: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (38자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] ja/blog/pavarotti-bent-nail/index.html: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (38자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] ja/blog/rousseau-botany-walk/index.html: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (38자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] ja/blog/shelley-cemetery-walk/index.html: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (38자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] ja/blog/thoreau-forest-walk/index.html: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (38자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] ja/blog/weil-classical-recitation/index.html: 일본어 페이지인데 일본어(가나) 문자가 너무 적게 검출되었습니다 (38자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] zh/blog/doyle-sports-writing/index.html: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (34자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] zh/blog/haydn-formal-dressing/index.html: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (34자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] zh/blog/joyce-bed-writing/index.html: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (34자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] zh/blog/kepler-geometric-modeling/index.html: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (34자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] zh/blog/milton-morning-dictation/index.html: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (34자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] zh/blog/pavarotti-bent-nail/index.html: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (34자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] zh/blog/rousseau-botany-walk/index.html: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (34자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] zh/blog/shelley-cemetery-walk/index.html: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (34자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] zh/blog/thoreau-forest-walk/index.html: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (34자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+[31m❌ [ERR] zh/blog/weil-classical-recitation/index.html: 중국어 페이지인데 중국어(한자) 문자가 너무 적게 검출되었습니다 (34자). 번역 누락(영어로 폴백됨)이 의심됩니다.[0m
+
+📊 총 2691개의 다국어 HTML 페이지 검증 완료.
+
+[31m🚨 번역 품질 검증 실패! 빌드를 중단합니다.[0m
+
