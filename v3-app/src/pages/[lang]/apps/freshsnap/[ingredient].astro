@@ -330,16 +330,24 @@ const tSource = (key: string) => {
                 href={`https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${currentLang}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                class="flex items-center justify-center gap-2 bg-purple-600 hover:bg-purple-500 text-white py-2 rounded-xl font-bold text-xs sm:text-sm cursor-pointer shadow-sm shadow-purple-600/15 hover:scale-[1.01] active:scale-[0.99] transition-all duration-300"
+                class="flex items-center justify-center gap-2 bg-purple-600 hover:bg-purple-500 text-white py-2.5 rounded-xl font-bold text-xs sm:text-sm cursor-pointer shadow-sm shadow-purple-600/15 hover:scale-[1.01] active:scale-[0.99] transition-all duration-300"
               >
                 <span>Google Play Store</span> 📲
               </a>
               <button 
                 id="iosDownloadBtn"
-                class="flex items-center justify-center gap-2 bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-2 rounded-xl font-bold text-xs sm:text-sm cursor-pointer hover:scale-[1.01] active:scale-[0.99] transition-all duration-300"
+                class="flex items-center justify-center gap-2 bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-2.5 rounded-xl font-bold text-xs sm:text-sm cursor-pointer hover:scale-[1.01] active:scale-[0.99] transition-all duration-300"
               >
                 <span>iOS App Store</span> 🍏
               </button>
+              
+              <!-- 상세 알아보기 서브 링크 추가 -->
+              <a 
+                href={`/${currentLang}/apps/freshself/`}
+                class="flex items-center justify-center px-4 py-2 rounded-xl border border-slate-200 dark:border-slate-800 text-slate-650 dark:text-slate-400 hover:bg-slate-50 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white text-xs font-bold transition-all text-center select-none active:scale-[0.99]"
+              >
+                {currentLang === 'ko' ? 'FreshSelf 상세 정보 알아보기 →' : 'Learn More about FreshSelf →'}
+              </a>
             </div>
           </div>
         </div>

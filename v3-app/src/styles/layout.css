@@ -50,6 +50,11 @@ body {
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
   z-index: 10;
 }
+.bento-card:active {
+  transform: scale(0.98);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.04);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
 
 /* DARK MODE SPATIAL */
 html.dark body {
@@ -65,6 +70,9 @@ html.dark .bento-card:hover {
   background: rgba(25, 28, 36, 0.85);
   border-color: rgba(255, 255, 255, 0.15);
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
+}
+html.dark .bento-card:active {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
 }
 
 /* GLOW EFFECT */

@@ -37,6 +37,27 @@ document.addEventListener('DOMContentLoaded', () => {
         closeModal();
       }
     });
+
+    // 1-1. 본문 내 모든 삽입 이미지 클릭 시 라이트박스 연동
+    const articleImages = document.querySelectorAll('article img');
+    if (articleImages.length > 0 && lightboxImg) {
+      articleImages.forEach((img) => {
+        (img as HTMLElement).style.cursor = 'zoom-in';
+        img.addEventListener('click', () => {
+          const src = img.getAttribute('src');
+          if (src) {
+            lightboxImg.setAttribute('src', src);
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+            requestAnimationFrame(() => {
+              modal.classList.remove('opacity-0');
+              modal.classList.add('opacity-100');
+            });
+            document.body.style.overflow = 'hidden';
+          }
+        });
+      });
+    }
   }
 
   // 2. 읽기 진행 바 제어
@@ -80,5 +101,27 @@ document.addEventListener('DOMContentLoaded', () => {
     }, observerOptions);
 
     headings.forEach((heading) => observer.observe(heading));
+  }
+
+  // 4. 맨 위로 가기(Back to Top) 버튼 제어
+  const backToTopBtn = document.getElementById('back-to-top');
+  if (backToTopBtn) {
+    window.addEventListener('scroll', () => {
+      const scrollPos = window.scrollY || document.documentElement.scrollTop;
+      if (scrollPos > 400) {
+        backToTopBtn.classList.remove('opacity-0', 'translate-y-4', 'pointer-events-none');
+        backToTopBtn.classList.add('opacity-100', 'translate-y-0');
+      } else {
+        backToTopBtn.classList.remove('opacity-100', 'translate-y-0');
+        backToTopBtn.classList.add('opacity-0', 'translate-y-4', 'pointer-events-none');
+      }
+    });
+
+    backToTopBtn.addEventListener('click', () => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    });
   }
 });
