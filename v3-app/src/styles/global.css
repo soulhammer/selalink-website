@@ -132,10 +132,17 @@
   transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
   border: 1px solid rgba(var(--theme-accent-rgb, 13, 148, 136), 0.1);
 }
-.app-card-interactive:hover {
-  transform: scale(1.02) translateY(-6px);
-  box-shadow: 0 30px 60px -15px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.2), 0 0 0 1px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.2);
-  border-color: rgba(var(--theme-accent-rgb, 13, 148, 136), 0.3);
+@media (hover: hover) {
+  .app-card-interactive:hover {
+    transform: scale(1.02) translateY(-6px);
+    box-shadow: 0 30px 60px -15px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.2), 0 0 0 1px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.2);
+    border-color: rgba(var(--theme-accent-rgb, 13, 148, 136), 0.3);
+  }
+}
+.app-card-interactive:active {
+  transform: scale(0.99) translateY(-2px);
+  box-shadow: 0 15px 30px -10px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.15);
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
 }
 
 /* 2. Neon Accent Glassmorphism Card */
@@ -148,7 +155,13 @@ html.dark .app-card-neon {
   border: 1px solid rgba(var(--theme-accent-rgb, 13, 148, 136), 0.15) !important;
   background: linear-gradient(180deg, rgba(30, 33, 40, 0.5) 0%, rgba(20, 23, 30, 0.3) 100%) !important;
 }
-.app-card-neon:hover {
-  border-color: var(--theme-accent, #14B8A6) !important;
-  box-shadow: 0 20px 40px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.15), 0 0 25px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.05) !important;
+@media (hover: hover) {
+  .app-card-neon:hover {
+    border-color: var(--theme-accent, #14B8A6) !important;
+    box-shadow: 0 20px 40px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.15), 0 0 25px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.05) !important;
+  }
+}
+.app-card-neon:active {
+  transform: scale(0.99);
+  transition: transform 0.1s ease;
 }

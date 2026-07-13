@@ -7,6 +7,7 @@ body {
 /* Global Typography Polish for Korean */
 html[lang="ko"] body {
   word-break: keep-all;
+  overflow-wrap: break-word;
   letter-spacing: -0.02em;
 }
 
@@ -43,12 +44,14 @@ body {
   position: relative;
   overflow: hidden;
 }
-.bento-card:hover {
-  transform: translateY(-4px) scale(1.01);
-  background: rgba(255, 255, 255, 0.95);
-  border-color: rgba(0, 0, 0, 0.12);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
-  z-index: 10;
+@media (hover: hover) {
+  .bento-card:hover {
+    transform: translateY(-4px) scale(1.01);
+    background: rgba(255, 255, 255, 0.95);
+    border-color: rgba(0, 0, 0, 0.12);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+    z-index: 10;
+  }
 }
 .bento-card:active {
   transform: scale(0.98);
@@ -66,10 +69,12 @@ html.dark .bento-card {
   border: 1px solid rgba(255, 255, 255, 0.08);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.45);
 }
-html.dark .bento-card:hover {
-  background: rgba(25, 28, 36, 0.85);
-  border-color: rgba(255, 255, 255, 0.15);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
+@media (hover: hover) {
+  html.dark .bento-card:hover {
+    background: rgba(25, 28, 36, 0.85);
+    border-color: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
+  }
 }
 html.dark .bento-card:active {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
@@ -77,6 +82,7 @@ html.dark .bento-card:active {
 
 /* GLOW EFFECT */
 .bento-glow {
+  display: none;
   position: absolute;
   width: 400px;
   height: 400px;
@@ -87,6 +93,11 @@ html.dark .bento-card:active {
   border-radius: 50%;
   transform: translate(-50%, -50%);
 }
-.bento-card:hover .bento-glow {
-  opacity: 1;
+@media (hover: hover) {
+  .bento-glow {
+    display: block;
+  }
+  .bento-card:hover .bento-glow {
+    opacity: 1;
+  }
 }

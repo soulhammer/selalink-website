@@ -163,7 +163,7 @@ const baseSchema = generateBaseSchema({
 	</head>
 	<body class="antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black">
 		<!-- Navigation Bar with Lang & Theme Switches -->
-		<header class="max-w-[1400px] mx-auto px-6 pt-6 md:pt-12 flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-0 relative z-50">
+		<header class="max-w-[1400px] mx-auto px-6 pt-6 md:pt-12 flex flex-row justify-between items-center gap-4 relative z-50">
 			<a href={`/${lang}`} class="text-xl sm:text-2xl font-bold tracking-tighter flex items-center transition-all duration-300 hover:opacity-80">
 				<span>SelaLink.</span>
 				{appId === 'buildself' && (
@@ -319,23 +319,25 @@ const baseSchema = generateBaseSchema({
             });
 
 			// Interactive Radial Glow logic
-			document.querySelectorAll('.bento-card').forEach((card) => {
-				// Create glow element inside if not present (Astro hydration safeguard)
-				let glow = card.querySelector('.bento-glow');
-				if (!glow) {
-					glow = document.createElement('div');
-					glow.className = 'bento-glow';
-					card.prepend(glow);
-				}
-				
-				card.addEventListener('mousemove', (e: any) => {
-					const rect = card.getBoundingClientRect();
-					const x = e.clientX - rect.left;
-					const y = e.clientY - rect.top;
-					(glow as HTMLElement).style.setProperty('--mouse-x', `${x}px`);
-					(glow as HTMLElement).style.setProperty('--mouse-y', `${y}px`);
+			if (window.matchMedia('(hover: hover)').matches) {
+				document.querySelectorAll('.bento-card').forEach((card) => {
+					// Create glow element inside if not present (Astro hydration safeguard)
+					let glow = card.querySelector('.bento-glow');
+					if (!glow) {
+						glow = document.createElement('div');
+						glow.className = 'bento-glow';
+						card.prepend(glow);
+					}
+					
+					card.addEventListener('mousemove', (e: any) => {
+						const rect = card.getBoundingClientRect();
+						const x = e.clientX - rect.left;
+						const y = e.clientY - rect.top;
+						(glow as HTMLElement).style.setProperty('--mouse-x', `${x}px`);
+						(glow as HTMLElement).style.setProperty('--mouse-y', `${y}px`);
+					});
 				});
-			});
+			}
 		</script>
 
 		<ShortsPlayerModal lang={lang} />
