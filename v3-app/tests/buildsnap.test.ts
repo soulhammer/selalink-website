@@ -71,8 +71,8 @@ describe('BuildSnap 매칭 및 폴백 핵심 비즈니스 로직 테스트', () 
 
 import { habits as realHabits } from '../src/data/habits';
 
-describe('BuildSnap 실제 위인 데이터 76종 매칭 정합성 검증', () => {
-  it('실제 등록된 모든 위인(76명)이 최소 1개 이상의 진단 조합 결과에 노출되어야 한다 (누수 0명)', () => {
+describe('BuildSnap 실제 위인 데이터 86종 매칭 정합성 검증', () => {
+  it('실제 등록된 모든 위인(86명)이 최소 1개 이상의 진단 조합 결과에 노출되어야 한다 (누수 0명)', () => {
     const q1Options = ['focus', 'creative', 'simplicity', 'mind'];
     const q2Options = ['physical', 'mental'];
     const q3Options = ['easy', 'hard'];
@@ -92,8 +92,8 @@ describe('BuildSnap 실제 위인 데이터 76종 매칭 정합성 검증', () =
       }
     }
 
-    // 전수 조사 결과 매칭 대상 목록에 모든 위인(146명)이 포함되어 있는지 확인
-    expect(realHabits.length).toBe(146);
+    // 전수 조사 결과 매칭 대상 목록에 모든 위인(156명)이 포함되어 있는지 확인
+    expect(realHabits.length).toBe(156);
     expect(matchedIds.size).toBe(realHabits.length);
   });
 
