@@ -10,17 +10,25 @@ const t = useTranslations(lang as any);
 ---
 
 <div class="share-toolkit-container my-8 p-4 md:p-6 rounded-[2rem] border border-slate-200/50 dark:border-white/5 bg-slate-500/5 dark:bg-slate-900/10 backdrop-blur-sm shadow-sm flex flex-col sm:flex-row items-center justify-between gap-4">
-  <div class="flex items-center gap-2">
-    <svg class="w-5 h-5 text-[var(--theme-accent,#0D9488)]" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8">
-      <path stroke-linecap="round" stroke-linejoin="round" d="M7.217 10.907a2.25 2.25 0 100 2.186m0-2.186l5.302-2.892m0 0a2.25 2.25 0 103.935-2.186 2.25 2.25 0 00-3.935 2.186zm0 2.186l-5.302 2.892m0 0a2.25 2.25 0 101.533 2.193m-1.533-2.193l5.302 2.892m0 0a2.25 2.25 0 103.933 2.193 2.25 2.25 0 00-3.933-2.193z" />
+  <div class="flex items-center gap-2.5">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 text-[var(--theme-accent,#0D9488)]">
+      <circle cx="18" cy="5" r="3"></circle>
+      <circle cx="6" cy="12" r="3"></circle>
+      <circle cx="18" cy="19" r="3"></circle>
+      <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+      <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
     </svg>
     <span class="text-sm font-bold text-slate-800 dark:text-slate-200 tracking-tight">{t('share.title')}</span>
   </div>
 
   <!-- Web Share API 전용 통합 버튼 -->
   <button id="webShareBtn" class="hidden items-center gap-2 px-5 py-2.5 rounded-2xl bg-[var(--theme-accent,#0D9488)] hover:brightness-105 text-white font-bold text-sm shadow-sm transition-all active:scale-[0.98] cursor-pointer">
-    <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-      <path stroke-linecap="round" stroke-linejoin="round" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4">
+      <circle cx="18" cy="5" r="3"></circle>
+      <circle cx="6" cy="12" r="3"></circle>
+      <circle cx="18" cy="19" r="3"></circle>
+      <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+      <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
     </svg>
     <span>{t('share.title')}</span>
   </button>
