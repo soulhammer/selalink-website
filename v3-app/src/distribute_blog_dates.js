@@ -31,16 +31,16 @@ function run() {
   // 1. 과거 안배 대상 슬러그 선정
   let targetSlugs = [];
   const new10Slugs = [
-    'bell-midnight-darkness',
-    'ford-line-walking',
-    'freud-evening-walk',
-    'monet-dawn-light',
-    'plato-gymnastic-wrestling',
-    'rockefeller-red-notebook',
-    'schopenhauer-flute-refocus',
-    'spielberg-viewfinder-tactile',
-    'teresa-silent-contemplation',
-    'winfrey-gratitude-journaling'
+    'jordan-breakfast-club',
+    'turing-marathon-running',
+    'dickinson-scrap-writing',
+    'pele-towel-visualization',
+    'proust-cork-isolation',
+    'jeong-yakyong-transcription',
+    'branson-notebook-writing',
+    'chopin-piano-refinement',
+    'lee-kuanyew-treadmill',
+    'bronte-table-walking'
   ];
 
   if (slugArg === 'new-10') {
