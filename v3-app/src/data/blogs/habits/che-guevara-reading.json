@@ -1,0 +1,218 @@
+{
+  "che-guevara-reading": {
+    "title": {
+      "ko": "밀림 속 참호에서도 책을 든 이유? 체 게바라의 몰입 독서 루틴",
+      "en": "Why Hold a Book Even in a Jungle Trench? Che Guevara's Immersive Reading Routine",
+      "ja": "密林の塹壕でも本を手にした理由？チェ・ゲバラの没頭読書ルーティン",
+      "zh": "在密林战壕里也看书的原因？切·格瓦拉的沉浸式阅读常规",
+      "es": "¿Por qué leer incluso en las trincheras de la selva? La rutina de lectura inmersiva de Che Guevara",
+      "fr": "Pourquoi lire même dans les tranchées de la jungle ? La routine de lecture immersive du Che Guevara",
+      "de": "Warum selbst im Schützengraben lesen? Che Guevaras immersive Leseroutine",
+      "pt": "Por que ler mesmo nas trincheiras da selva? A rotina de leitura imersiva de Che Guevara",
+      "id": "Mengapa Memegang Buku Bahkan di Parit Hutan? Rutinitas Membaca Imersif Che Guevara"
+    },
+    "description": {
+      "ko": "쿠바 혁명의 영웅 체 게바라. 전쟁터의 고립된 상황과 극심한 지적 목마름 속에서도 매일 책을 읽으며 사상을 다듬은 '극한 독서'의 인지 재구조화 효과와 3단계 실천 가이드를 소개합니다.",
+      "en": "Che Guevara, the hero of the Cuban Revolution. Discover the cognitive restructuring effects and 3-step practice guide of his 'Extreme Reading' routine, which refined his ideology under warfare.",
+      "ja": "キューバ革命の英雄チェ・ゲバラ。戦場の孤立した状況と極限の知的な渇きの中でも, 毎日本を読んで思想を鍛え上げた「極限読書」の認知再構造化効果と3ステップの実践ガイドを紹介します。",
+      "zh": "古巴革命英雄切·格瓦拉。介绍他在战场的孤立环境和极度智力饥渴中，每天读书以锤炼思想的“极限阅读”的认知重构效应和三步实践指南。",
+      "es": "Che Guevara, el héroe de la Revolución Cubana. Descubra los efectos de reestructuración cognitiva de su rutina de 'Lectura Extrema' para afinar su mentalidad en la guerra, y una guía de 3 pasos.",
+      "fr": "Che Guevara, le héros de la Révolution Cubaine. Découvrez les effets de restructuration cognitive de sa routine de 'Lecture Extrême' pour affiner sa pensée en temps de guerre, et un guide en 3 étapes.",
+      "de": "Che Guevara, der Held der kubanischen Revolution. Entdecken Sie die Effekte der kognitiven Restrukturierung seiner 'Extremen Leseroutine' zur Verfeinerung des Geistes im Krieg und eine 3-Schritte-Anleitung.",
+      "pt": "Che Guevara, o herói da Revolução Cubana. Descubra os efeitos de reestruturação cognitiva de sua rotina de 'Leitura Extrema' para afinar seu pensamento em tempos de guerra, e um guia em 3 passos.",
+      "id": "Che Guevara, pahlawan Revolusi Kuba. Temukan efek restrukturisasi kognitif dari rutinitas 'Membaca Ekstrem' miliknya untuk menyelaraskan ideologi di tengah perang, dan panduan 3 langkah."
+    },
+    "authority": {
+      "ko": "체 게바라의 볼리비아 일기(Bolivian Diary) 및 Brain and Language 학술지",
+      "en": "Che Guevara's Bolivian Diary & Brain and Language Journal",
+      "ja": "チェ・ゲバラ「ボリビア日記」および学術誌「Brain and Language」",
+      "zh": "切·格瓦拉《玻利维亚日记》与学术期刊《Brain and Language》",
+      "es": "Diario de Bolivia de Che Guevara y revista Brain and Language",
+      "fr": "Journal de Bolivie de Che Guevara & revue Brain and Language",
+      "de": "Che Guevaras Bolivianisches Tagebuch & Fachzeitschrift Brain and Language",
+      "pt": "Diário da Bolívia de Che Guevara & revista Brain and Language",
+      "id": "Buku Harian Bolivia Che Guevara & Jurnal Brain and Language"
+    },
+    "intro": {
+      "ko": "쿠바 혁명을 성공으로 이끈 영웅이자 의사, 행동하는 지식인의 상징인 체 게바라. 평생을 천식이라는 지독한 신체적 고통에 시달리고, 숲속의 고립된 게릴라전이라는 극도의 스트레스 전장 속에서도 그가 대담한 투지와 냉철한 판단력, 확고한 사상적 깊이를 잃지 않았던 비결은 무엇일까요? 체 게바라는 밀림 속을 이동하는 험난한 행군 중에도 배낭에 항상 여러 권의 두꺼운 역사, 사회, 과학 서적을 넣고 다녔습니다. 전투가 잠시 멈춘 시간이나 참호 속, 심지어 나무 위에 걸터앉아 매 순간 독서에 깊게 침잠했습니다. 그에게 독서는 도피가 아니라, 불리한 현실 속에서도 배움을 멈추지 않고 신념의 척추를 세우는 의식적인 투쟁이었습니다. 오늘 BuildSelf에서는 체 게바라의 '밀림 독서' 루틴의 뇌과학적 이점과 현대인을 위한 몰입 독서 실천법을 소개합니다.",
+      "en": "Che Guevara, the symbol of active intellectuals who led the Cuban Revolution to success. Throughout his life, suffering from severe asthma and the extreme stress of guerrilla warfare in the jungle, what was the secret behind maintaining his bold combativeness and clear ideological depth? Che Guevara always carried thick books in his backpack during arduous marches. He immersed himself in reading inside trenches or perched on tree branches whenever combat paused. For him, reading was not an escape, but a conscious struggle to erect the spine of belief without stopping learning even in unfavorable realities. Today, BuildSelf introduces the neurological benefits and modern implementation of Che Guevara's 'jungle reading' routine.",
+      "ja": "キューバ革命を成功に導いた英雄であり医師、行動する知識人の象徴であるチェ・ゲバラ。生涯、喘息という激しい身体的苦痛に悩まされ、密林での孤立したゲリラ戦という極度のストレスの戦場の中でも, 彼が揺るぎない闘志と冷徹な判断力、確固たる思想的深みを失わなかった秘訣は何だったのでしょうか？チェ・ゲバラは密林を移動する過酷な行軍中も, リュックの中に常に数冊の厚い本を入れて持ち歩きました。戦闘が一時停止した時間や塹壕の中、さらには木の上に腰掛けて、毎瞬読書に深く没頭しました。本日、BuildSelfではチェ・ゲバラの「密林読書」ルーティンの脳科学的な利点と現代的な没頭読書の実践法を紹介します。",
+      "zh": "切·格瓦拉是古巴革命的英雄、医生以及行动知识分子的象征。一生饱受哮喘这一严重的肉体痛苦折磨，在密林孤立游击战这一极度高压的战场环境中，他始终不失大胆斗志、冷静判断力和坚定思想深度的秘诀是什么？切·格瓦拉在穿越密林的艰难进军中，包里也总是装满厚厚的书籍。在战斗暂停时，在战壕里，甚至在树枝上，他都会随时深深沉浸在阅读中。对他来说，读书不是逃避，而是在不利的现实中坚持学习、立起信念脊梁的有意识斗争。今天，BuildSelf 向您介绍切·格瓦拉“密林阅读”常规的脑科学益处和现代沉浸式阅读实践方法。",
+      "es": "Che Guevara, el héroe de la Revolución Cubana. A pesar de sufrir asma y el estrés extremo de la guerra de guerrillas, ¿cómo mantuvo su audaz combatividad y profundidad ideológica? Siempre llevaba libros pesados en su mochila. Se sumergía en la lectura dentro de las trincheras o en las ramas de los árboles cuando cesaba el combate. Para él, la lectura era una lucha consciente para fortalecer sus convicciones. Hoy, BuildSelf presenta los beneficios neurológicos y la aplicación de la rutina de 'lectura en la selva' de Che Guevara.",
+      "fr": "Le Che Guevara, héros de la Révolution Cubaine. Malgré l'asthme et le stress de la guérilla, comment a-t-il gardé son courage et sa profondeur d'esprit ? Il portait toujours des livres dans son sac. Il lisait dans les tranchées ou sur des branches d'arbres dès que le combat s'arrêtait. Pour lui, lire était une lutte consciente pour fortifier ses idées. Aujourd'hui, BuildSelf présente les bénéfices de la routine de 'lecture dans la jungle' du Che Guevara.",
+      "de": "Che Guevara, der Held der kubanischen Revolution. Wie bewahrte er trotz schwerem Asthma und dem Stress des Guerillakriegs seine Entschlossenheit und geistige Tiefe? Er trug immer dicke Bücher im Rucksack. Er las in Schützengräben oder auf Bäumen, sobald die Kämpfe ruhten. Für ihn war das Lesen ein bewusster Kampf zur Stärkung seiner Überzeugungen. Heute stellt BuildSelf die neurologischen Vorteile und die Umsetzung von Che Guevaras 'Dschungel-Leseroutine' vor.",
+      "pt": "Che Guevara, o herói da Revolução Cubana. Apesar de sofrer de asma e do estresse extremo da guerrilha, como manteve sua audaz combatividade e profundidade ideológica? Sempre carregava livros pesados em sua mochila. Ele se entregava à leitura dentro das trincheiras ou em galhos de árvores quando o combate cessava. Para ele, a leitura era uma luta consciente para fortalecer suas convicções. Hoje, o BuildSelf apresenta os benefícios da rotina de 'leitura na selva' de Che Guevara.",
+      "id": "Che Guevara, simbol intelektual aktif yang memimpin Revolusi Kuba. Sepanjang hidupnya, menderita asma berat dan stres ekstrim perang gerilya di hutan, apa rahasia di balik keteguhan dan kedalaman ideologinya? Che Guevara selalu membawa buku tebal di ranselnya saat berbaris. Ia membaca di parit atau di dahan pohon setiap kali pertempuran jeda. Baginya, membaca adalah perjuangan sadar untuk memperkokoh keyakinan. Hari ini, BuildSelf memperkenalkan efek dari rutinitas ini."
+    },
+    "whyTitle": {
+      "ko": "깊은 독서에 따른 인지 재구조화와 스트레스 차단",
+      "en": "Cognitive Restructuring & Stress Blocking via Deep Reading",
+      "ja": "深い読書による認知の再構造化とストレス遮断",
+      "zh": "深度阅读带来的认知重构与压力阻 隔离",
+      "es": "Reestructuración cognitiva y bloqueo de estrés mediante la lectura profunda",
+      "fr": "Restructuration cognitive & blocage du stress par la lecture profonde",
+      "de": "Kognitive Restrukturierung & Stressblockierung durch tiefes Lesen",
+      "pt": "Reestruturação cognitiva e bloqueio de estresse pela leitura profunda",
+      "id": "Restrukturisasi Kognitif & Pemblokiran Stres Melalui Membaca Mendalam"
+    },
+    "whyDesc": {
+      "ko": "외부의 긴박한 환경적 위협과 두려움은 뇌를 생존 본능 모드로 고정해 창의적 판단을 방해합니다. 인지 신경과학 연구에 따르면, 책의 문장을 정밀하게 추적하는 <strong>'깊은 독서(Deep Reading)'</strong>는 뇌를 강제적으로 '인지적 재구조화(Cognitive Restructuring)' 상태로 전환합니다. 텍스트에 들어선 뇌는 전두엽의 인지 조절 네트워크를 활성화하는 동시에, 생존 위협 반응을 자극하는 외부 자극의 스트레스 회로를 차단합니다. 새로운 정보와 사상을 해석하며 뇌 속에 분비되는 도파민은 불안을 조절하고 거시적인 신념 가치를 보존하게 만듭니다.",
+      "en": "Imminent environmental threats and fears lock the brain into a survival-instinct mode, hindering creative judgment. According to cognitive neuroscience, <strong>'Deep Reading'</strong>, which tracks sentences in books precisely, forces the brain into a state of 'Cognitive Restructuring'. The brain entering text activates the frontal lobe's cognitive control network and blocks stress circuits of external stimuli. Dopamine secreted while interpreting new ideas regulates anxiety and preserves macro value beliefs.",
+      "ja": "外部の緊迫した環境的脅威と恐怖は, 脳を生存本能モードに固定し、創造的な判断を妨げます。認知神経科学の研究によると、本の文章を精密に追跡する<strong>「深い読書（Deep Reading）」</strong>は、脳を強制的に「認知の再構造化（Cognitive Restructuring）」状態へと移行させます。テキストに入り込んだ脳は、前頭葉の認知制御ネットワークを活性化すると同時に、生存の脅威を刺激する外部刺激のストレス回路を遮断します。新しい情報と思想を解釈する過程で脳内に分泌されるドーパミンは、不安をコントロールし、大局的な信念の価値を保存させます。",
+      "zh": "外部紧迫的环境威胁和恐惧会将大脑锁死在生存本能模式中，从而阻碍创造性判断。根据认知神经科学研究，精确追踪书中句子的<strong>“深度阅读 (Deep Reading)”</strong>能强制将大脑转换为“认知重构 (Cognitive Restructuring)”状态。沉浸在文本中的大脑在激活前额叶认知控制网络的同时，会阻断刺激生存威胁反应的外部压力回路。在理解新信息和思想时大脑分泌的多巴胺有助于调节焦虑，并保留宏观的信念价值。",
+      "es": "Las amenazas externas bloquean al cerebro en modo de supervivencia, afectando el juicio analítico. La <strong>'lectura profunda'</strong> (analizar los enunciados de un libro) fuerza al cerebro a entrar en un estado de 'Reestructuración Cognitiva'. Esto activa el control del lóbulo frontal y bloquea las respuestas de estrés del entorno. La dopamina liberada al procesar nuevas ideas reduce la ansiedad y mantiene el rumbo de sus metas.",
+      "fr": "Les menaces bloquent le cerveau en mode survie. La <strong>'lecture profonde'</strong> force le cerveau à entrer dans un état de 'Restructuration Cognitive'. Cela active le contrôle du lobe frontal et bloque les circuits de stress. La dopamine libérée réduit l'anxiété.",
+      "de": "Bedrohungen blockieren das Gehirn im Überlebensmodus. Das <strong>'tiefgehende Lesen'</strong> versetzt das Gehirn in den Zustand der 'kognitiven Restrukturierung'. Dies aktiviert das exekutive Netzwerk und blockiert Stressreaktionen. Das beim Verarbeiten neuer Ideen ausgeschüttete Dopamin baut Angst ab.",
+      "pt": "As ameaças externas bloqueiam o cérebro no modo de sobrevivência, afetando o julgamento. A <strong>'leitura profunda'</strong> força o cérebro a entrar em um estado de 'Reestruturação Cognitiva'. Isso ativa o controle do lobo frontal e bloqueia as respostas de estresse do ambiente. A dopamina reduz a ansiedade.",
+      "id": "Ancaman eksternal mengunci otak dalam mode bertahan hidup. <strong>'Membaca mendalam'</strong> memaksa otak masuk ke dalam keadaan 'Restrukturisasi Kognitif'. Ini mengaktifkan kontrol lobus frontal dan memblokir sirkuit stres. Dopamin yang dilepaskan mengurangi kecemasan."
+    },
+    "cautionTitle": {
+      "ko": "가벼운 피드 중심의 속독이 아닌, 문장의 구조를 생각하며 깊게 읽으세요",
+      "en": "Read Deeply Thinking About Sentence Structure, Not Light Feed-Centered Speed Reading",
+      "ja": "軽快なタイムライン中心の速読ではなく、文章の構造を考えながら深く読んでください",
+      "zh": "请边思考句子结构边深度阅读，而不是盯着轻量信息流去快速扫视",
+      "es": "Lea analizando la estructura de las frases, evite el escaneo rápido de textos ligeros",
+      "fr": "Lisez en analysant la structure des phrases, évitez le survol rapide de textes courts",
+      "de": "Lesen Sie tief und reflektieren Sie den Satzbau, statt kurze Texte schnell zu überfliegen",
+      "pt": "Leia analisando a estrutura das frases, evite a leitura rápida de textos curtos",
+      "id": "Bacalah dengan Memikirkan Struktur Kalimat, Bukan Membaca Cepat Informasi Ringan"
+    },
+    "cautionDesc": {
+      "ko": "독서 루틴의 인지 보호 효과를 거두려면 스마트폰 뉴스나 소셜 미디어 피드를 훑어보는 식의 속독 모드를 버려야 합니다. 시각적 스캔 위주의 정보 훑어보기는 뇌를 계속 얕은 인지 모드에 머물게 하여 전두엽 활성화를 유도하지 못합니다. 단 두 쪽을 읽더라도 문장 뒤에 숨겨진 저자의 전제를 파악하고, 단어의 개념적 깊이를 이해하려 노력하며 뇌의 언어적 주의망을 최대한 가동할 때 비로소 뇌의 스트레스 방어망이 구축됩니다.",
+      "en": "To gain the cognitive protection effects of the reading routine, you must discard the speed reading mode of scanning smartphone news or social media feeds. Scanning information based on visual scans leaves the brain in a shallow cognitive mode, failing to induce frontal lobe activation. Even if you read only two pages, trying to grasp the author's premise hidden behind sentences and understanding the conceptual depth of words starts activating the verbal attention network to establish the brain's stress defense system.",
+      "ja": "読書ルーティンの認知保護効果を得るためには、スマートフォンニュースやSNSフィードをざっと見るような速読モードを捨てなければなりません。視覚的スキャン主導の情報流し読みは、脳を浅い認知モードに留まらせ、前頭葉の活性化を誘導できません。わずか二ページを読むとしても、文章の背後にある著者の前提を把握し, 単語の概念的な深さを理解しようと努め、脳の言語的注意ネットワークを最大限に稼働させるときに初めて、脳のストレス防御網が構築されます。",
+      "zh": "为了达到阅读常规的认知保护效果，你必须丢弃浏览手机新闻或社交媒体信息流那样的速读模式。以视觉扫描为主的信息浏览会使大脑一直处于浅层认知模式下，无法诱导前额叶的激活。即使只读两页，也要努力把握句子背后隐藏的作者前提，理解词汇的概念深度，在最大程度启动大脑语言注意力网络时，大脑的抗压防御网才会建立起来。",
+      "es": "Para lograr el beneficio cognitivo, evite escanear noticias o redes sociales de forma rápida. La lectura superficial no activa el lóbulo frontal. Aunque lea solo dos páginas, trate de entender el trasfondo de las oraciones y el significado de los conceptos. Activar la red de atención lingüística es lo que realmente fortalece las defensas del cerebro.",
+      "fr": "Pour un effet maximal, évitez de survoler les réseaux sociaux. La lecture superficielle n'active pas le lobe frontal. Même pour deux pages, essayez de comprendre le fond des phrases. Activer l'attention linguistique est ce qui fortifie le cerveau.",
+      "de": "Vermeiden Sie das schnelle Überfliegen von Nachrichten oder Social Media. Das oberflächliche Lesen aktiviert nicht den Stirnlappen. Selbst wenn Sie nur zwei Seiten lesen, versuchen Sie, den Hintergrund der Sätze zu verstehen, um das Abwehrnetz zu stärken.",
+      "pt": "Para obter o benefício cognitivo, evite a leitura rápida de notícias ou redes sociais. A leitura superficial não ativa o lobo frontal. Mesmo se ler apenas duas páginas, tente entender o significado profundo dos conceitos para ativar a rede de atenção.",
+      "id": "Untuk mendapatkan efek pemulihan kognitif, hindari membaca cepat berita atau media sosial. Membaca cepat tidak merangsang lobus frontal. Walau hanya membaca dua halaman, cobalah pahami makna mendalam kata-katanya."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "스마트폰 물리적 격리 및 책 준비",
+          "en": "Physical Isolation of Phone & Preparing Book",
+          "ja": "スマートフォンの物理的隔離および本の準備",
+          "zh": "物理隔离智能手机并准备书籍",
+          "es": "Aislar físicamente el teléfono y preparar el libro",
+          "fr": "Isoler le téléphone & préparer le livre",
+          "de": "Handy isolieren & Buch vorbereiten",
+          "pt": "Isolar fisicamente o celular e preparar o livro",
+          "id": "Jauhkan Ponsel Secara Fisik & Siapkan Buku"
+        },
+        "text": {
+          "ko": "일과 중 의식적으로 20분의 시간을 확보하고 스마트폰을 비행기 모드로 바꾼 뒤 배낭 안이나 서랍 속에 넣어 보이지 않게 격리합니다.",
+          "en": "Consciously secure 20 minutes of time during your day, change your smartphone to airplane mode, and isolate it out of sight in your backpack or drawer.",
+          "ja": "日課の中で意識的に20分の時間を確保し、スマートフォンを機内モードにした後, リュックの中や引き出しの中に入れ, 見えない場所に隔離します。",
+          "zh": "在日常工作中有意识地腾出20分钟时间，将智能手机切换为飞行模式后放进背包或抽屉里，进行视线外的物理隔离。",
+          "es": "Asegure 20 minutos de su día. Ponga su teléfono en modo avión y guárdelo fuera de su vista en una mochila o cajón.",
+          "fr": "Prévoyez 20 minutes dans la journée. Mettez le téléphone en mode avion et rangez-le dans un sac ou un tiroir hors de vue.",
+          "de": "Planen Sie 20 Minuten ein. Schalten Sie das Handy auf Flugmodus und legen Sie es außer Reichweite in eine Tasche oder Schublade.",
+          "pt": "Garantam 20 minutos do seu dia. Coloque o celular em modo avião e guarde-o fora de vista em uma mochila ou gaveta.",
+          "id": "Sediakan waktu 20 menit khusus. Aktifkan mode pesawat pada ponsel dan letakkan di dalam tas atau laci agar tidak terlihat."
+        }
+      },
+      {
+        "name": {
+          "ko": "하루 20분 단방향 텍스트 독서",
+          "en": "20-Minute One-Way Text Reading Per Day",
+          "ja": "一日20分の双方向ではないテキスト読書",
+          "zh": "每天20分钟单向文本阅读",
+          "es": "Leer texto tradicional por 20 minutos al día",
+          "fr": "Lire un texte traditionnel 20 minutes par jour",
+          "de": "Täglich 20 Minuten klassische Texte lesen",
+          "pt": "Ler texto tradicional por 20 minutos ao dia",
+          "id": "Membaca Teks Konvensional 20 Menit Sehari"
+        },
+        "text": {
+          "ko": "역사, 철학, 문학 등 깊이 있는 문장 구조를 가진 도서를 열어 20분 동안 온전히 책 속의 텍스트 맥락에만 몰두하여 읽어 나갑니다.",
+          "en": "Open a book with a deep sentence structure such as history, philosophy, or literature, and immerse yourself entirely in the context of the text for 20 minutes.",
+          "ja": "歴史、哲学、文学など、深みのある文章構造を持つ本を開き、20分間完全に本の中のテキスト文脈にのみ没頭して読み進めます。",
+          "zh": "打开一本包含深刻句子结构的图书（如历史、哲学、文学等），在20分钟内完全投入到书中的文本语境里去阅读。",
+          "es": "Abra un libro con estructura profunda (historia, filosofía, literatura) y concéntrese por completo en el texto por 20 minutos.",
+          "fr": "Ouvrez un livre dense (histoire, philosophie, littérature) et concentrez-vous sur le texte pendant 20 minutes.",
+          "de": "Öffnen Sie ein Buch mit anspruchsvollem Text (Geschichte, Philosophie, Literatur) und lesen Sie aufmerksam 20 Minuten lang.",
+          "pt": "Abra um livro com estrutura profunda (história, filosofia, literatura) e concentre-se por completo no texto por 20 minutos.",
+          "id": "Buka buku dengan struktur kalimat mendalam (sejarah, filsafat, sastra) dan fokuslah membaca selama 20 menit."
+        }
+      },
+      {
+        "name": {
+          "ko": "여백 생각 필기",
+          "en": "Margin Thought Writing",
+          "ja": "余白への思考の筆記",
+          "zh": "在余白处记录思考",
+          "es": "Escribir pensamientos en el margen",
+          "fr": "Écrire ses réflexions dans la marge",
+          "de": "Gedanken am Rand notieren",
+          "pt": "Escrever reflexões na margem",
+          "id": "Tulis Pemikiran di Margin Buku"
+        },
+        "text": {
+          "ko": "독서 중 마음에 닿는 문장에 직접 밑줄을 긋거나 책의 여백(혹은 독서록)에 자신의 생각 한 줄을 자필로 남기며 지적 자산을 구조화합니다.",
+          "en": "Underline sentences that touch your heart during reading, or leave a line of your own thoughts by hand in the book's margin (or reading log) to structure your intellectual assets.",
+          "ja": "読書中に心に留まった文章に直接下線を引き、本の余白（または読書メモ）に自分の考えを一行手書きで残すことで、知的な資産を構造化します。",
+          "zh": "在阅读过程中，直接在触动心弦的句子下画线，或在书本的空白处（或读书笔记）亲手留下一行自己的思考，将智力财富结构化。",
+          "es": "Subraye las oraciones más importantes o escriba a mano una línea con su reflexión en el margen (o libreta) para procesar la información.",
+          "fr": "Soulignez les phrases clés ou écrivez à la main une réflexion dans la marge (ou sur un carnet) pour mieux assimiler l'information.",
+          "de": "Unterstreichen Sie wichtige Sätze oder notieren Sie handschriftlich eine Reflexion am Rand (oder im Notizhebuch).",
+          "pt": "Sublinhe as frases mais importantes ou escreva à mão uma linha com sua reflexão na margem (ou caderno) para processar a informação.",
+          "id": "Garisi kalimat penting atau tulis pemikiran Anda secara singkat di margin buku (atau buku catatan) untuk memproses informasi."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "소설이나 에세이 같은 가벼운 책을 읽어도 효과가 동일한가요?",
+          "en": "Is the effect the same when reading light books like novels or essays?",
+          "ja": "小説やエッセイなどの軽い本を読んでも効果は同じですか？",
+          "zh": "阅读小说或散文等轻松的书籍效果也一样吗？",
+          "es": "¿Se obtiene el mismo efecto con novelas o ensayos ligeros?",
+          "fr": "Est-ce aussi efficace avec des romans ou des essais légers ?",
+          "de": "Ist der Effekt bei Romanen oder leichten Essays derselbe?",
+          "pt": "O efeito é o mesmo com romances ou ensaios leves?",
+          "id": "Apakah efeknya sama jika membaca novel atau esai ringan?"
+        },
+        "answer": {
+          "ko": "문장 구조가 너무 평이하고 단방향적인 웹소설 등은 인지 조절망을 크게 자극하지 않습니다. 소설이나 에세이라도 저자의 고유한 철학이 깊게 녹아 있어 독자에게 인지적 해석(예: 인물의 행동 원인 추론)을 자극하는 도서여야 인지 재구조화 효과를 온전히 얻을 수 있습니다. 핵심은 능동적으로 뇌를 쓰며 생각하게 만드는 문맥의 존재입니다.",
+          "en": "Web novels that have very flat and linear sentence structures do not stimulate the executive network much. Even for novels or essays, the book must have the author's unique philosophy deeply embedded, encouraging cognitive interpretations (e.g., inferring the cause of character behavior), to fully obtain the cognitive restructuring effect. The core is the presence of context that makes the brain think actively.",
+          "ja": "文章構造が非常に平易で単純なウェブ小説などは、実行制御ネットワークをあまり刺激しません。小説やエッセイであっても、著者の独自の哲学が深く溶け込んでおり、読者に認知的解釈（例：人物の行動の原因の推論）を刺激する書籍でなければ, 認知の再構造化効果は十分に得られません。核心は, 能動的に脳を使って考えさせる文脈の存在です。",
+          "zh": "句子结构过于平淡和单向的网络小说等并不能很好地刺激执行网络。即使是小说或散文，也必须是深度融入了作者独特哲学、能激发读者进行认知解释（例如：推论人物行为的原因）的书籍，才能完整获得认知重构的效果。核心在于是否存在能促使大脑主动思考的语境。",
+          "es": "Los textos con estructuras planas no estimulan la red de control ejecutivo. Aunque sean novelas o ensayos, deben tener una filosofía profunda que exija interpretación cognitiva (ej. deducir intenciones) para lograr la reestructuración. Lo clave es que el contexto obligue a pensar.",
+          "fr": "Les textes trop simples n'activent pas le contrôle exécutif. Même pour des romans, ils doivent présenter une réflexion profonde qui demande de l'interprétation. L'important est que le texte fasse réfléchir.",
+          "de": "Sehr einfache Texte stimulieren das exekutive Netzwerk kaum. Auch Romane sollten eine tiefere Ebene besitzen, die Interpretation erfordert (z. B. Motive hinterfragen), um den Effekt zu erzielen. Wichtig ist aktives Mitdenken.",
+          "pt": "Textos com estruturas planas não estimulam a rede de controle executivo. Mesmo se forem romances ou ensaios, devem ter uma filosofia profunda que exija interpretação cognitiva para alcançar a reestruturação.",
+          "id": "Teks dengan struktur sederhana tidak merangsang kontrol eksekutif. Walau berupa novel atau esai, buku tersebut harus memiliki kedalaman filosofis yang membutuhkan interpretasi aktif."
+        }
+      },
+      {
+        "question": {
+          "ko": "종이책 대신 태블릿이나 e-book 리더기를 써도 효과가 있나요?",
+          "en": "Is it effective using tablets or e-book readers instead of paper books?",
+          "ja": "紙の本の代わりにタブレットやe-bookリーダーを使っても効果はありますか？",
+          "zh": "用平板电脑或电子书阅读器代替纸质书也有效果吗？",
+          "es": "¿Es efectivo usar tabletas o lectores de e-book en lugar de libros físicos?",
+          "fr": "Est-ce efficace d'utiliser une liseuse à la place d'un livre papier ?",
+          "de": "Ist die Nutzung von Tablets oder E-Readern anstelle von Papierbüchern effektiv?",
+          "pt": "É eficaz usar tablets ou leitores de e-book em vez de livros físicos?",
+          "id": "Apakah efektif menggunakan tablet atau e-reader daripada buku cetak?"
+        },
+        "answer": {
+          "ko": "가능합니다. 다만 태블릿을 사용할 때는 인터넷 브라우저나 SNS 팝업 알림 등을 완전히 차단한 독서 전용 환경(방해 금지 모드)을 만들어야 합니다. 종이책이 주는 물리적 종이 냄새와 책장을 넘기는 촉감 피드백이 뇌의 몰입을 자극하는 데 가장 유리하므로, 가급적 종이책이나 e-ink 기반의 이북 리더기를 권장합니다.",
+          "en": "Yes, it is possible. However, when using a tablet, you must create a reading-only environment (Do Not Disturb mode) that completely blocks internet browsers or SNS pop-up notifications. Since the physical smell of paper and tactile feedback of turning pages in a paper book are most advantageous for stimulating brain immersion, we highly recommend paper books or e-ink based e-book readers.",
+          "ja": "可能です。ただし、タブレットを使用する際は、インターネットブラウザやSNSのポップアップ通知などを完全に遮断した読書専用の環境（ど忘れ防止モード）を作る必要があります。紙の本がもたらす物理的な紙の香りとページをめくる触感のフィードバックが, 脳の没頭を刺激するのに最も有利であるため、できるだけ紙の本やe-inkベースの電子書籍リーダーをお勧めします。",
+          "zh": "可以。但在使用平板电脑时，必须创造一个完全屏蔽网页浏览器或社交软件弹窗通知的阅读专用环境（勿扰模式）。由于纸质书带来的物理纸张气味和翻页的触觉反馈最有利于激发大脑的沉浸感，因此建议尽量使用纸质书或基于电子墨水（e-ink）的电子书阅读器。",
+          "es": "Sí. Al usar tableta, active el modo 'no molestar' para bloquear avisos de internet y redes. No obstante, el olor y el tacto de pasar páginas físicas facilitan la concentración, por lo que sugerimos libros impresos o lectores e-ink.",
+          "fr": "Oui. Sur tablette, activez le mode 'ne pas déranger'. Cependant, l'odeur et le geste de tourner les pages facilitent la concentration, nous suggérons donc le papier ou les liseuses e-ink.",
+          "de": "Ja. Bei Tablets aktivieren Sie den 'Nicht stören'-Modus. Da Geruch und Haptik von Papier die Konzentration fördern, empfehlen wir gedruckte Bücher oder E-Ink-Reader.",
+          "pt": "Sim. Ao usar tablet, ative o modo 'não perturbe' para bloquear alertas. Contudo, o cheiro e o toque de virar páginas facilitam a concentração, por isso sugerimos livros físicos ou leitores e-ink.",
+          "id": "Bisa. Saat menggunakan tablet, aktifkan mode 'jangan ganggu'. Namun, aroma dan sentuhan membalik halaman cetak mempermudah fokus, sehingga kami menyarankan buku cetak atau e-reader."
+        }
+      }
+    ],
+    "pubDate": "2026-02-09",
+    "updatedDate": "2026-02-09"
+  }
+}
