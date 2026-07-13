@@ -292,5 +292,13 @@
   "bs.tier.diamond": "Berlian",
   "app.back_to_buildself": "Kembali ke BuildSelf",
   "app.back_to_freshself": "Kembali ke FreshSelf",
-  "app.back_to_logself": "Kembali ke logSelf"
+  "app.back_to_logself": "Kembali ke logSelf",
+  "share.title": "Bagikan",
+  "share.copied": "Tautan disalin ke papan klip!",
+  "share.error": "Gagal membagikan.",
+  "cta.action.download": "Unduh Aplikasi",
+  "cta.action.learn_more": "Pelajari Lebih Lanjut",
+  "cta.petself.title": "🐾 FreshSelf untuk Hewan Peliharaan",
+  "cta.petself.desc": "Kelola suplemen, pakan, dan camilan hewan peliharaan Anda dengan FreshSelf agar tetap segar dan aman.",
+  "cta.petself.btn": "Unduh FreshSelf →"
 }

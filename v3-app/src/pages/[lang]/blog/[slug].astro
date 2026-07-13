@@ -2,6 +2,7 @@
 import Layout from '../../../layouts/Layout.astro';
 import BlogAppCta from '../../../components/BlogAppCta.astro';
 import YoutubeEmbed from '../../../components/YoutubeEmbed.astro';
+import ShareToolkit from '../../../components/ShareToolkit.astro';
 import { getCollection, render } from 'astro:content';
 import { useTranslations } from '../../../i18n/ui';
 import { getFormattedDate, getPrevNextPost, generateStructuredData } from '../../../utils/blogDetailHelper';
@@ -186,6 +187,8 @@ const activeAccent = themeAccents[app] || themeAccents.general;
         >
           <Content />
         </article>
+        
+        <ShareToolkit lang={lang as string} />
       </div>
 
       <!-- Desktop Table of Contents (TOC) -->
@@ -253,9 +256,6 @@ const activeAccent = themeAccents[app] || themeAccents.general;
           <BlogAppCta lang={lang as string} app="freshsnap" />
           <BlogAppCta lang={lang as string} app="freshself" />
         </div>
-      ) : app === 'petself' ? (
-        /* 반려동물 케어는 앱 연동에서 제외 */
-        null
       ) : (
         <div class="space-y-4">
           <BlogAppCta lang={lang as string} app={app} />

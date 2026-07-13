@@ -292,5 +292,13 @@
   "bs.tier.diamond": "钻石",
   "app.back_to_buildself": "返回 BuildSelf 介绍",
   "app.back_to_freshself": "返回 FreshSelf 介绍",
-  "app.back_to_logself": "返回 logSelf 介绍"
+  "app.back_to_logself": "返回 logSelf 介绍",
+  "share.title": "分享",
+  "share.copied": "链接已复制到剪贴板！",
+  "share.error": "分享失败。",
+  "cta.action.download": "下载应用",
+  "cta.action.learn_more": "查看详情",
+  "cta.petself.title": "🐾 宠物专属 FreshSelf",
+  "cta.petself.desc": "使用 FreshSelf 智能管理宠物营养品、饲料和手工零食的保质期，时刻保持新鲜与健康。",
+  "cta.petself.btn": "下载 FreshSelf →"
 }

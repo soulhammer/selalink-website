@@ -292,5 +292,13 @@
   "bs.tier.diamond": "ダイヤモンド",
   "app.back_to_buildself": "BuildSelf紹介に戻る",
   "app.back_to_freshself": "FreshSelf紹介に戻る",
-  "app.back_to_logself": "logSelf紹介に戻る"
+  "app.back_to_logself": "logSelf紹介に戻る",
+  "share.title": "共有",
+  "share.copied": "リンクがクリップボードにコピーされました！",
+  "share.error": "共有に失敗しました。",
+  "cta.action.download": "アプリダウンロード",
+  "cta.action.learn_more": "詳細を見る",
+  "cta.petself.title": "🐾 ペットのためのFreshSelf",
+  "cta.petself.desc": "ペット of サプリメント、フード、手作りおやつの消費期限をFreshSelfで賢く管理し、常に新鮮に保ちましょう。",
+  "cta.petself.btn": "FreshSelfをダウンロード →"
 }

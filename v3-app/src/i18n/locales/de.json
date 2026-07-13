@@ -292,5 +292,13 @@
   "bs.tier.diamond": "Diamant",
   "app.back_to_buildself": "Zurück zu BuildSelf",
   "app.back_to_freshself": "Zurück zu FreshSelf",
-  "app.back_to_logself": "Zurück zu logSelf"
+  "app.back_to_logself": "Zurück zu logSelf",
+  "share.title": "Teilen",
+  "share.copied": "Link in die Zwischenablage kopiert!",
+  "share.error": "Teilen fehlgeschlagen.",
+  "cta.action.download": "App herunterladen",
+  "cta.action.learn_more": "Mehr erfahren",
+  "cta.petself.title": "🐾 FreshSelf für Haustiere",
+  "cta.petself.desc": "Verwalten Sie Nahrungsergänzungsmittel, Futter und Leckerlis Ihres Haustiers mit FreshSelf, um sie frisch und sicher zu halten.",
+  "cta.petself.btn": "FreshSelf herunterladen →"
 }

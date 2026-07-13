@@ -292,5 +292,13 @@
   "bs.tier.diamond": "Diamond",
   "app.back_to_buildself": "Back to BuildSelf",
   "app.back_to_freshself": "Back to FreshSelf",
-  "app.back_to_logself": "Back to logSelf"
+  "app.back_to_logself": "Back to logSelf",
+  "share.title": "Share",
+  "share.copied": "Link copied to clipboard!",
+  "share.error": "Failed to share.",
+  "cta.action.download": "Download App",
+  "cta.action.learn_more": "Learn More",
+  "cta.petself.title": "🐾 FreshSelf for Pets",
+  "cta.petself.desc": "Manage your pet's supplements, feed, and treats freshly with FreshSelf to keep them safe and healthy.",
+  "cta.petself.btn": "Get FreshSelf →"
 }

@@ -292,5 +292,13 @@
   "bs.tier.diamond": "다이아몬드",
   "app.back_to_buildself": "BuildSelf 소개로 돌아가기",
   "app.back_to_freshself": "FreshSelf 소개로 돌아가기",
-  "app.back_to_logself": "logSelf 소개로 돌아가기"
+  "app.back_to_logself": "logSelf 소개로 돌아가기",
+  "share.title": "공유",
+  "share.copied": "링크가 클립보드에 복사되었습니다!",
+  "share.error": "공유하기에 실패했습니다.",
+  "cta.action.download": "앱 다운로드",
+  "cta.action.learn_more": "자세히 보기",
+  "cta.petself.title": "🐾 반려동물을 위한 FreshSelf",
+  "cta.petself.desc": "우리 아이의 영양제, 사료, 수제 간식 소비기한을 FreshSelf로 똑똑하게 관리하고 늘 신선하게 유지하세요.",
+  "cta.petself.btn": "FreshSelf 다운로드 →"
 }

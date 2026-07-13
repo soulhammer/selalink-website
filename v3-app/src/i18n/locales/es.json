@@ -292,5 +292,13 @@
   "bs.tier.diamond": "Diamante",
   "app.back_to_buildself": "Volver a BuildSelf",
   "app.back_to_freshself": "Volver a FreshSelf",
-  "app.back_to_logself": "Volver a logSelf"
+  "app.back_to_logself": "Volver a logSelf",
+  "share.title": "Compartir",
+  "share.copied": "¡Enlace copiado al portapapeles!",
+  "share.error": "Error al compartir.",
+  "cta.action.download": "Descargar App",
+  "cta.action.learn_more": "Saber más",
+  "cta.petself.title": "🐾 FreshSelf para Mascotas",
+  "cta.petself.desc": "Gestione los suplementos, alimentos y premios de su mascota con FreshSelf para mantenerlos siempre frescos y seguros.",
+  "cta.petself.btn": "Descargar FreshSelf →"
 }
