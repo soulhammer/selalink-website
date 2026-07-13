@@ -18,13 +18,13 @@ faqs:
 
 Shiba Inus are beloved globally for their fox-like appearance and curled tail. However, they possess a cat-like independence, strong will, and alert nature. 🐕 Shibas are notoriously sensitive to having their paws, ears, or tail touched. If forced during grooming or nail clipping, they often emit a high-pitched Shiba Scream in protest. Moreover, they have a thick double coat that sheds heavily during seasonal changes. Today, PetSelf explores how to respect your Shiba's boundaries while maintaining their coat with a 3-step daily care routine.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Scientific & Behavioral Evidence
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       This content is based on <strong>National Shiba Club of America & IAABC Behavior Modification Guidelines</strong>.
     </p>
   </div>
@@ -119,7 +119,7 @@ Shiba Inus express their boundaries clearly and quietly. Key signals include 'lo
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why does my Shiba Inu scream during grooming?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ Shiba Inus express their boundaries clearly and quietly. Key signals include 'lo
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Why isn't my Shiba Inu as affectionate or wiggly as other dogs?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -94,7 +94,7 @@ Segundo a 'cognição corporal', a nossa mente está ligada ao estado do corpo e
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O Haydn vestia-se realmente de forma formal mesmo quando estava sozinho?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

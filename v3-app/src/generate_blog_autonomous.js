@@ -44,76 +44,7 @@ function detectSourceLanguage(slug) {
 }
 
 // 과거 발행일 자율 배정 함수 (Backdating)
-function distributeBlogDates(slug) {
-  const masterPath = path.join(blogRoot, 'ko', `${slug}.md`);
-  if (!fs.existsSync(masterPath)) return;
-
-  const content = fs.readFileSync(masterPath, 'utf-8');
-  
-  // 이미 수동으로 날짜가 기입되어 있고, 그 날짜가 오늘(2026-07-01) 날짜가 아니라 과거 날짜라면 보호
-  const pubDateMatch = content.match(/pubDate:\s*"([^"]+)"/);
-  const todayStr = '2026-07-01';
-  if (pubDateMatch && pubDateMatch[1] !== todayStr && pubDateMatch[1].match(/^\d{4}-\d{2}-\d{2}$/)) {
-    console.log(`ℹ️ [날짜 보존] '${slug}' 의 기존 발행일이 보존됩니다: ${pubDateMatch[1]}`);
-    return;
-  }
-
-  // 1. 기존 ko 폴더 내의 모든 마크다운 파일들의 pubDate 수집 (단, 현재 대상 파일은 제외)
-  const existingDates = new Set();
-  const koFiles = fs.readdirSync(path.join(blogRoot, 'ko')).filter(f => f.endsWith('.md') && f !== `${slug}.md`);
-  koFiles.forEach(f => {
-    const fileContent = fs.readFileSync(path.join(blogRoot, 'ko', f), 'utf-8');
-    const match = fileContent.match(/pubDate:\s*"([^"]+)"/);
-    if (match) {
-      existingDates.add(match[1]);
-    }
-  });
-
-  // 2. 2026-01-01부터 2026-07-01까지 기존 날짜와 겹치지 않는 빈 날짜 목록 추출
-  const startDate = new Date('2026-01-01');
-  const endDate = new Date('2026-07-01');
-  const availableDates = [];
-
-  for (let d = new Date(startDate); d <= endDate; d.setDate(d.getDate() + 1)) {
-    const dateStr = d.toISOString().split('T')[0];
-    if (!existingDates.has(dateStr)) {
-      availableDates.push(dateStr);
-    }
-  }
-
-  if (availableDates.length === 0) {
-    console.warn('⚠️ [경고] 2026년 상반기 중 남은 빈 날짜 슬롯이 없습니다. 오늘 날짜로 대체합니다.');
-    return;
-  }
-
-  // 3. 결정론적 무작위 인덱스 선택 (동일한 슬러그명은 항상 동일한 과거 날짜로 고정 매핑되도록 해시 유도)
-  let hash = 0;
-  for (let i = 0; i < slug.length; i++) {
-    hash = slug.charCodeAt(i) + ((hash << 5) - hash);
-  }
-  const selectedIndex = Math.abs(hash) % availableDates.length;
-  const selectedDate = availableDates[selectedIndex];
-
-  console.log(`📅 [날짜 안배] '${slug}' 포스트의 발행일이 [${selectedDate}] 로 과거 자동 배정되었습니다.`);
-
-  // 4. 마스터 파일의 pubDate 및 updatedDate 업데이트
-  let updatedContent = content;
-  
-  if (pubDateMatch) {
-    updatedContent = updatedContent.replace(/pubDate:\s*"[^"]+"/, `pubDate: "${selectedDate}"`);
-  } else {
-    updatedContent = updatedContent.replace('---\n', `---\npubDate: "${selectedDate}"\n`);
-  }
-
-  const updatedDateMatch = content.match(/updatedDate:\s*"([^"]+)"/);
-  if (updatedDateMatch) {
-    updatedContent = updatedContent.replace(/updatedDate:\s*"[^"]+"/, `updatedDate: "${selectedDate}"`);
-  } else {
-    updatedContent = updatedContent.replace('authority:', `updatedDate: "${selectedDate}"\nauthority:`);
-  }
-
-  fs.writeFileSync(masterPath, updatedContent, 'utf-8');
-}
+// distributeBlogDates 함수 삭제 완료
 
 // 2. 파이썬 크롭 모듈 자동 트리거
 function cropSubImage(imageName) {
@@ -266,17 +197,18 @@ function generateScaffoldingTemplates(slug, type) {
       const koDir = path.dirname(koPath);
       if (!fs.existsSync(koDir)) fs.mkdirSync(koDir, { recursive: true });
 
+      const todayStr = new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().split('T')[0];
       const mdTemplate = `---
 formatVersion: 4
 title: "한국어 마스터 제목"
 description: "한국어 마스터 요약 설명"
-pubDate: "2026-07-02"
+pubDate: "${todayStr}"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
 heroImage: "/images/blog/${slug.replace(/-/g, '_')}.png"
 app: "buildself"
 authority: "출처 및 학술 연구 정보"
-updatedDate: "2026-07-02"
+updatedDate: "${todayStr}"
 faqs:
   - question: "자주 묻는 질문 1?"
     answer: "자주 묻는 질문 답변 1."
@@ -347,17 +279,18 @@ faqs:
       const koDir = path.dirname(koPath);
       if (!fs.existsSync(koDir)) fs.mkdirSync(koDir, { recursive: true });
 
+      const todayStr = new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().split('T')[0];
       const mdTemplate = `---
 formatVersion: 4
 title: "식재료 보관법 한국어 제목"
 description: "식재료 보관법 한국어 요약 설명"
-pubDate: "2026-07-02"
-category: "BuildSelf"
+pubDate: "${todayStr}"
+category: "FreshSnap"
 tags: ["식재료 보관", "신선 보관"]
 heroImage: "/images/blog/${slug.replace(/-/g, '_')}.png"
 app: "buildself"
 authority: "RDA, USDA"
-updatedDate: "2026-07-02"
+updatedDate: "${todayStr}"
 ---
 
 여기에 식재료 보관 관련 핵심 설명이나 도입부를 작성합니다.
@@ -414,12 +347,50 @@ updatedDate: "2026-07-02"
       const blogsDir = path.dirname(blogsPath);
       if (!fs.existsSync(blogsDir)) fs.mkdirSync(blogsDir, { recursive: true });
 
-      const blogsTemplate = {};
-      blogsTemplate[slug] = {
-        title: { en: "English Title", ko: "한국어 제목" },
-        description: { en: "English Description", ko: "한국어 설명" }
+      const todayStr = new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().split('T')[0];
+      const jsonTemplate = {
+        [slug]: {
+          "pubDate": todayStr,
+          "updatedDate": todayStr,
+          "locales": {
+            "ko": {
+              "title": "반려동물 케어 한국어 제목",
+              "description": "반려동물 케어 한국어 요약 설명",
+              "authority": "AKC",
+              "intro": "여기에 인트로를 작성합니다.",
+              "profile": {
+                "breed": "품종명",
+                "lifespan": "10-15 years",
+                "sleep_pattern": "12-14 hours",
+                "temperament": "Gentle, Intelligent"
+              },
+              "whyTitle": "이 품종을 이해해야 하는 이유",
+              "whyDesc": "이 품종의 건강과 행동 분석의 과학적 근거를 서술합니다.",
+              "body_signals": [
+                {
+                  "name": "시그널 행동 명칭",
+                  "meaning": "행동이 내포한 인지적/신체적 의미",
+                  "response": "보호자의 권장 대처 방안"
+                }
+              ],
+              "daily_routine": [
+                {
+                  "name": "하루 루틴 단계명",
+                  "text": "세부 수행 지침 내용"
+                }
+              ],
+              "faqs": [
+                {
+                  "question": "자주 묻는 질문 1?",
+                  "answer": "질문에 대한 답변 내용 1."
+                }
+              ],
+              "tags": ["반려동물", "케어"]
+            }
+          }
+        }
       };
-      fs.writeFileSync(blogsPath, JSON.stringify(blogsTemplate, null, 2), 'utf-8');
+      fs.writeFileSync(blogsPath, JSON.stringify(jsonTemplate, null, 2), 'utf-8');
       console.log(`📁 [템플릿 생성] 반려동물 다국어 번역 리소스 뼈대가 적재되었습니다: src/data/blogs/pets/${slug}.json`);
     }
 
@@ -428,17 +399,24 @@ updatedDate: "2026-07-02"
       const koDir = path.dirname(koPath);
       if (!fs.existsSync(koDir)) fs.mkdirSync(koDir, { recursive: true });
 
+      const todayStr = new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().split('T')[0];
       const mdTemplate = `---
 formatVersion: 4
 title: "반려동물 케어 한국어 제목"
 description: "반려동물 케어 한국어 요약 설명"
-pubDate: "2026-07-02"
-category: "BuildSelf"
+pubDate: "${todayStr}"
+category: "PetSelf"
 tags: ["반려동물", "케어"]
 heroImage: "/images/blog/${slug.replace(/-/g, '_')}.png"
-app: "buildself"
+app: "petself"
 authority: "AKC"
-updatedDate: "2026-07-02"
+updatedDate: "${todayStr}"
+steps:
+  - name: "하루 루틴 단계명 1"
+    text: "세부 수행 지침 내용 1"
+faqs:
+  - question: "자주 묻는 질문 1?"
+    answer: "자주 묻는 질문 답변 1."
 ---
 
 여기에 반려동물 케어 관련 핵심 설명이나 도입부를 작성합니다.
@@ -489,9 +467,6 @@ function startAutonomousWorkflow() {
   // 2. 소스 언어 판별
   const masterLang = detectSourceLanguage(slugArg);
   console.log(`ℹ️ [소스 감지] 마스터 소스 파일의 언어는 [${masterLang.toUpperCase()}] 입니다.`);
-
-  // 2.5. 지능형 과거 날짜 자율 배정 (Backdating) - 사용자 요청으로 비활성화 유지
-  // distributeBlogDates(slugArg);
 
   // 3. 자가 치유 검증 수행
   runSelfHealingValidation();

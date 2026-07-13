@@ -11,6 +11,12 @@ export function parseKoSteps(koContent) {
       text: koMatch[2].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim()
     });
   }
+
+  // 한글 마스터 본문 파싱 실패로 인한 사일런트 배포 사고 차단
+  if (koSteps.length === 0) {
+    throw new Error(`[빌드 실패] 한글 마스터 파일 본문에서 단계 카드를 단 하나도 파싱하지 못했습니다. HTML 태그 서식이나 정합성을 재검토하세요.`);
+  }
+
   return koSteps;
 }
 

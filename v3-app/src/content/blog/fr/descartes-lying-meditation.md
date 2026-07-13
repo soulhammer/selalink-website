@@ -101,7 +101,7 @@ De nombreux actifs se lèvent en sursaut au son de l'alarme, le cœur battant, v
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>La méditation matinale au lit est-elle vraiment efficace pour le cerveau ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -96,7 +96,7 @@ Au moment de dormir, le cerveau émet des ondes alpha et thêta, ce qui facilite
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Lire des romans ou des bandes dessinées avant de dormir a-t-il le même effet que la routine de lecture de classiques ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -106,7 +106,7 @@ Au moment de dormir, le cerveau émet des ondes alpha et thêta, ce qui facilite
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je lire des livres sur une liseuse en étant allongé ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

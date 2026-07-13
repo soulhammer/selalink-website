@@ -92,7 +92,7 @@ Unser Gehirn ähnelt eher einem Prozessor (CPU), der Informationen verarbeitet u
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Warum trug Da Vinci immer ein Notizbuch am Gürtel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

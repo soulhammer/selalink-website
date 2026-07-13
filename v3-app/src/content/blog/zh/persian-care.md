@@ -18,13 +18,13 @@ faqs:
 
 波斯猫拥有浓密的毛发和扁平可爱的脸庞，性格温和且安静，是非常适合室内饲养的代表性猫咪。然而，扁平的面部结构导致它们经常流泪，眼鼻周围的褶皱处极易积攒污垢。此外，细密且容易缠结的双层长毛一旦结块，会拉扯皮肤引起剧烈疼痛，并阻碍空气流通导致皮肤炎。今天，PetSelf 将教您如何读懂波斯猫隐秘的眼部与毛发压力信号，并分享日常预防的3步家庭护理惯例。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      科学与行为学依据
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本内容基于 <strong>CFA 波斯猫品种指南与 AAFP 兽医学标准</strong>。
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>为什么波斯猫即使只停几天不梳毛也不行？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>为什么扁脸猫的褶皱护理如此重要？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

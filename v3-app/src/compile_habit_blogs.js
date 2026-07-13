@@ -64,18 +64,8 @@ function run() {
     const koTagsMatch = koContentUpdated.match(/tags:\s*(\[[^\]]*\])/);
     const koTagsStr = koTagsMatch ? koTagsMatch[1] : '["위인 습관", "Routine"]';
 
-    const targetSlugs = [
-      "van-gogh", "nightingale", "picasso", "helen-keller", "schubert",
-      "theodore-roosevelt", "stephen-hawking", "jane-goodall", "shakespeare", "amelia-earhart",
-      "georgia-okeeffe", "von-neumann", "charlie-chaplin", "coco-chanel", "chekhov",
-      "thatcher", "pasteur", "liszt", "bradbury", "hesse",
-      "bell-midnight-darkness", "ford-line-walking", "freud-evening-walk", "monet-dawn-light",
-      "plato-gymnastic-wrestling", "rockefeller-red-notebook", "schopenhauer-flute-refocus",
-      "spielberg-viewfinder-tactile", "teresa-silent-contemplation", "winfrey-gratitude-journaling"
-    ];
-
     languages.forEach(lang => {
-      if (lang === 'ko' && !targetSlugs.includes(blogSlug)) return;
+      if (lang === 'ko') return; // 한국어(ko) 마스터 파일은 수동 완성본이므로 컴파일러 조립에서 제외하고 100% 보존합니다.
 
       const targetDir = pathModule.join(blogRoot, lang);
       const targetPath = pathModule.join(targetDir, `${blogSlug}.md`);
@@ -149,7 +139,7 @@ function run() {
       if (data.faqs && data.faqs.length > 0) {
         faqsYaml = 'faqs:\n' + data.faqs.map(faq => {
           const q = faq.question[lang] || faq.question['en'];
-          const a = faq.answer[lang] || faq.answer['en'];
+          const a = (faq.answer[lang] || faq.answer['en'] || "").replace(/\\n/g, '\n');
           return `  - question: "${q.replace(/"/g, '\\"')}"\n    answer: "${a.replace(/"/g, '\\"')}"`;
         }).join('\n') + '\n';
       }

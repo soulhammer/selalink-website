@@ -96,7 +96,7 @@ La métacognition est savoir ce que l'on sait et ce que l'on ne sait pas. Noter 
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Je n'ai pas envie d'écrire dans mon journal les jours où mes résultats sont mauvais. Que faire ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -106,7 +106,7 @@ La métacognition est savoir ce que l'on sait et ce que l'on ne sait pas. Noter 
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je gérer toutes mes mesures uniquement avec Notion ou Excel ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

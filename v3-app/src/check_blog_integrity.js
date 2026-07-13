@@ -123,6 +123,28 @@ function checkIntegrity() {
     }
   });
 
+  // 1.5. 반려동물 케어용 JSON 내부 마스터 키 정합성 진단
+  const petsDir = path.join(__dirname, 'data/blogs/pets');
+  if (fs.existsSync(petsDir)) {
+    fs.readdirSync(petsDir).forEach(file => {
+      if (file.endsWith('.json') && file !== 'meta.json') {
+        const slug = file.replace('.json', '');
+        const filePath = path.join(petsDir, file);
+        try {
+          const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+          const petMasterKeys = Object.keys(fileData);
+          petMasterKeys.forEach(key => {
+            if (key !== slug) {
+              logError(`[반려동물 키 정합성 오류] ${file}: JSON 파일 이름(슬러그: '${slug}')과 내부 데이터의 루트 매핑 키(키: '${key}')가 불일치하여 컴파일 매핑 누수가 발생할 우려가 있습니다.`);
+            }
+          });
+        } catch (e) {
+          logError(`[반려동물 JSON 파싱 오류] ${file}: JSON 형식이 유효하지 않습니다: ${e.message}`);
+        }
+      }
+    });
+  }
+
   // 한국어 마스터 블로그 포스트를 기준으로 삼음
   const masterFiles = filesByLang['ko'] || [];
 
@@ -134,6 +156,13 @@ function checkIntegrity() {
   // 2. 각 포스트별 검증 실행
   masterFiles.forEach(file => {
     const blogSlug = file.replace('.md', '');
+
+    // 2-0. 파일명 영문 소문자/숫자/하이픈 형식 검증 (SEO 및 AWS 라우팅 깨짐 방지)
+    const filenameRegex = /^[a-z0-9-]+$/;
+    if (!filenameRegex.test(blogSlug)) {
+      logError(`[파일명 형식 오류] 마스터 파일명('${file}')이 영문 소문자, 숫자, 하이픈의 조합(/^[a-z0-9-]+$/)으로 구성되어 있지 않습니다. 배포 환경에서 404가 의심됩니다.`);
+    }
+
     const koPath = path.join(blogRoot, 'ko', file);
     const koContent = fs.readFileSync(koPath, 'utf-8');
     const koParsed = parseMarkdown(koContent);
@@ -150,6 +179,12 @@ function checkIntegrity() {
       const content = fs.readFileSync(targetPath, 'utf-8');
       const parsed = parseMarkdown(content);
       const meta = parseYaml(parsed.frontmatter);
+
+      // 2-A.2. App 식별자 화이트리스트 검사
+      const validApps = ['buildself', 'selalink', 'petself', 'freshsnap'];
+      if (!meta.app || !validApps.includes(meta.app)) {
+        logError(`[비표준 App 식별자] ${lang.toUpperCase()} ${file}: 정의된 app 필드값('${meta.app}')이 표준 화이트리스트(${validApps.join(', ')})에 포함되어 있지 않습니다.`);
+      }
 
       // 2-B. Frontmatter & JSON-LD (faqs) 구문 유효성 검사
       const koHasFaqs = koMeta.faqs && Array.isArray(koMeta.faqs);
@@ -252,9 +287,10 @@ function checkIntegrity() {
         logError(`[리터럴 개행 누수 방지] ${lang.toUpperCase()} ${file}: 포스트 내용 내에 리터럴 '\\n' 문자열이 감지되었습니다.`);
       }
 
-      // 2-I. 리터럴 ** 누수 감지
-      if (parsed.body.includes('**') || parsed.frontmatter.includes('**')) {
-        logError(`[리터럴 ** 누수 방지] ${lang.toUpperCase()} ${file}: 포스트 내용 내에 리터럴 '**' 문자열이 감지되었습니다.`);
+      // 2-I. 리터럴 ** 누수 감지 (마크다운 볼드체 문법 '**텍스트**' 오용/누수 방지, 단일 **는 허용)
+      const hasBoldMarkdown = /\*\*[^*]+\*\*/.test(parsed.body) || /\*\*[^*]+\*\*/.test(parsed.frontmatter);
+      if (hasBoldMarkdown) {
+        logError(`[리터럴 ** 누수 방지] ${lang.toUpperCase()} ${file}: 포스트 내용 내에 변환되지 않은 마크다운 볼드체 '**' 문법이 감지되었습니다.`);
       }
     });
 

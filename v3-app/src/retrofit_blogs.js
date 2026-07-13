@@ -80,6 +80,15 @@ else:
   fs.writeFileSync(pyScriptPath, pyCode, 'utf-8');
 
   try {
+    // 쉘 환경에서 python3 또는 Pillow 모듈 설치 여부를 사전에 테스트하여 크래시 방지
+    execSync('python3 -c "from PIL import Image"', { stdio: 'ignore' });
+  } catch (e) {
+    console.warn(`⚠️ [크롭 폴백] 로컬 환경에 python3 또는 PIL(Pillow) 라이브러리가 미설치되어 이미지 크롭을 폴백 복사 처리합니다.`);
+    if (fs.existsSync(pyScriptPath)) fs.unlinkSync(pyScriptPath);
+    return false;
+  }
+
+  try {
     execSync('python3 temp_crop.py', { cwd: __dirname });
     if (fs.existsSync(pyScriptPath)) fs.unlinkSync(pyScriptPath);
     return true;
@@ -93,15 +102,7 @@ else:
 function run() {
   console.log('🔄 [개조 파이프라인] 기존 블로그 전수 진단 및 최신 규격 업그레이드 기동...');
 
-  // 1. 구형 수동 위인 8종 데이터 마이그레이션 도구 선제 실행 - 마이그레이션 완료되어 스크립트 제거됨
-  // console.log('\n1️⃣ [마이그레이션] 구형 수동 위인 번역 사전 동적 마이그레이션 중...');
-  // try {
-  //   const migrationOutput = execSync('node src/migrate_old_blogs.js', { cwd: path.join(__dirname, '..') }).toString();
-  //   console.log(migrationOutput.trim());
-  // } catch (err) {
-  //   console.error('❌ [마이그레이션 실패] 구형 블로그 역공학 파싱 오류:', err.message);
-  //   process.exit(1);
-  // }
+  // 1. 구형 수동 위인 8종 데이터 마이그레이션 완료 (도구 제거됨)
 
   // 2. 전체 한국어 마크다운 파일을 읽고, 갭(결함)이 감지되는 포스트 목록을 100% 동적 추출
   console.log('\n2️⃣ [동적 갭 분석] 전체 마크다운 전수 무결성 스캔 및 진단...');
@@ -111,7 +112,6 @@ function run() {
     process.exit(1);
   }
 
-  const petSlugs = ['maltese-care', 'koshort-care', 'golden-retriever-care'];
   const allKoFiles = fs.readdirSync(koDir).filter(f => f.endsWith('.md'));
   
   const habitRetrofitTargets = [];
@@ -121,7 +121,7 @@ function run() {
   allKoFiles.forEach(file => {
     const slug = file.replace('.md', '');
     const isStorage = slug.startsWith('how-to-store-');
-    const isPet = petSlugs.includes(slug);
+    const isPet = slug.endsWith('-care');
     const filePath = path.join(koDir, file);
     const content = fs.readFileSync(filePath, 'utf-8');
 

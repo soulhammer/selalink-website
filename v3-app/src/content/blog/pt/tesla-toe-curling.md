@@ -100,7 +100,7 @@ De fato, a área dedicada aos pés e dedos no córtex somatossensorial do céreb
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O movimento dos dedos do pé ajuda realmente a ativar o cérebro?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

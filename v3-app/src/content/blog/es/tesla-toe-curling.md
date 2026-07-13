@@ -100,7 +100,7 @@ De hecho, el área que ocupan los pies y los dedos en la corteza somatosensorial
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Realmente ayuda a activar el cerebro el movement de los dedos del pie?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

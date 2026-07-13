@@ -92,7 +92,7 @@ Otak kita lebih dekat ke CPU (central processing unit) yang memproses dan mengas
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Da Vinci selalu membawa buku catatan di pinggangnya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

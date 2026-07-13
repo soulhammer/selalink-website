@@ -18,13 +18,13 @@ faqs:
 
 大きな垂れ耳と常に陽気に揺れる白い尻尾の先が魅力のビーグルは、狩猟犬（ハウンド）出身です。非常に人懐っこいですが、強い好奇心と高い嗅覚執着を持っています。このエネルギーを解消できないと、遠吠えや家具を噛むなどの分離不安行動を起こしやすいです。また、垂れた耳は通気性が悪く外耳炎になりやすいです。本日、PetSelfではビーグルの本能と不安信号を理解し、健康を守る3段階ルーティンを紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      科学的＆行動学的根拠
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本コンテンツは、<strong>AKCビーグルガイド＆IAABCノーズワーク行動プロトコル</strong>に基づいています。
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ビーグルの遠吠えを防ぐにはどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ビーグルの垂れ耳はなぜ外耳炎になりやすいのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

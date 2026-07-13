@@ -98,7 +98,7 @@ A contemplação silenciosa matinal estabiliza o eixo HPA, reduzindo o estresse.
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que fazer se surgirem preocupações e tarefas durante o silêncio?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -108,7 +108,7 @@ A contemplação silenciosa matinal estabiliza o eixo HPA, reduzindo o estresse.
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>A Madre Teresa fazia por uma hora. Funciona se eu fizer apenas por 10 a 15 minutos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

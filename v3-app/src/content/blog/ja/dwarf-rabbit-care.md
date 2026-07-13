@@ -18,13 +18,13 @@ faqs:
 
 小さな耳と丸く愛らしい体型を持つネザーランドドワーフは、世界中で大人気のウサギ品種です。しかし、体が小さいぶん臆病で環境変化に非常に敏感であり、繊維質の摂取が不足すると毛球症や胃腸うっ滞（GI Stasis）などの致命的な病気を引き起こしやすいです。また、不安を感じると後ろ足で地面を強く叩き、激しい拒否の意思を示します。今回はドワーフウサギの足ダン不安信号を分析し、胃腸の健康と爪の安全を守る3ステップのホームケアルーチンをご紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      科学的＆行動学的根拠
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本コンテンツは、<strong>House Rabbit Society ウサギ医療ガイドおよび小動物獣医行動マニュアル</strong>に基づいています。
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ウサギはお風呂に入れる必要がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>糞が小さくなったり、食欲が落ちたりした場合は？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

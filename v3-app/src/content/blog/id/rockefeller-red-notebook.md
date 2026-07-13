@@ -98,7 +98,7 @@ Menuliskan angka dan tugas secara langsung di buku catatan menstimulasi jaringan
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa buku catatan analog lebih baik daripada aplikasi keuangan di ponsel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -108,7 +108,7 @@ Menuliskan angka dan tugas secara langsung di buku catatan menstimulasi jaringan
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah saya benar-benar harus mencatat hal sekecil 1 sen atau 1 menit?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

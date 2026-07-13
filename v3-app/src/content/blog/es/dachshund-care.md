@@ -18,13 +18,13 @@ faqs:
 
 Los perros salchicha (Teckel) son adorados por su silueta encantadora y personalidad valiente. Sin embargo, su anatomía particular con torso alargado y extremidades cortas los hace extremadamente vulnerables a la enfermedad de disco intervertebral (IVDD). Saltar del sofá o subir escaleras puede causar un estrés peligroso en su columna. Hoy, PetSelf analiza el lenguaje corporal que indica estrés en la espalda del Teckel y presenta una rutina de 3 pasos para proteger su columna y fortalecer su musculatura central.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamento Científico y Comportamental
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Este contenido se basa en <strong>Guía de salud del Dachshund del American Kennel Club y Estándares de la Asociación Veterinaria de la Columna</strong>.
     </p>
   </div>
@@ -119,7 +119,7 @@ Los Teckels muestran el estrés espinal mediante sutiles cambios en su postura. 
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Pueden los Teckels subir y bajar escaleras?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ Los Teckels muestran el estrés espinal mediante sutiles cambios en su postura. 
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuál es la forma más segura de cargar a un Teckel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

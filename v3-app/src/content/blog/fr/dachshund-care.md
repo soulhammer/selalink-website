@@ -18,13 +18,13 @@ faqs:
 
 Les Teckels sont célèbres dans le monde entier pour leur silhouette unique et leur tempérament audacieux. Cependant, leur morphologie allongée aux pattes courtes les prédispose fortement à la hernie discale (IVDD). Sauter du canapé ou monter les escaliers peut causer de graves microtraumatismes au niveau du dos. Aujourd'hui, PetSelf décrypte le langage corporel lié au mal de dos du Teckel et propose une routine en 3 étapes pour sécuriser leur colonne et renforcer les muscles du tronc.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Scientifique & Comportemental
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Ce contenu est basé sur <strong>Guide de santé du Teckel de l'American Kennel Club et Directives de l'Association Vétérinaire de la Colonne</strong>.
     </p>
   </div>
@@ -119,7 +119,7 @@ Les Teckels manifestent leur inconfort au niveau du dos par des postures spécif
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les Teckels peuvent-ils monter les escaliers ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ Les Teckels manifestent leur inconfort au niveau du dos par des postures spécif
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment porter un Teckel en toute sécurité ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

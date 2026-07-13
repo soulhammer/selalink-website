@@ -100,7 +100,7 @@ Faktanya, area yang ditempati oleh kaki dan jari kaki di korteks somatosensorik 
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah meremas jari kaki benar-benar membantu mengaktifkan otak?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

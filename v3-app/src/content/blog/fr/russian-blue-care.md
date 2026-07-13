@@ -18,13 +18,13 @@ faqs:
 
 Le Bleu Russe est un félin réputé pour son pelage bleu argenté et ses yeux verts. S'il est calme, doux et très attaché à sa famille, il est génétiquement timide et très sensible aux bruits. 🐱 C'est pourquoi il se cache rapidement lorsqu'un invité arrive ou qu'un aspirateur fonctionne. Le forcer à sortir ne fait qu'augmenter son stress. Aujourd'hui, PetSelf explique comment lui offrir un havre de paix avec une routine en 3 étapes.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Scientifique & Comportemental
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Ce contenu est basé sur <strong>Guide de la Cat Fanciers' Association (CFA) et Cornell Feline Health Center</strong>.
     </p>
   </div>
@@ -119,7 +119,7 @@ De nature douce, le Bleu Russe émet des signaux d'avertissement discrets. Les s
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Dois-je faire sortir mon Bleu Russe de sa cachette quand j'ai des invités ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ De nature douce, le Bleu Russe émet des signaux d'avertissement discrets. Les s
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quel is le moyen le plus efficace de s'apprivoiser un Bleu Russe timide ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

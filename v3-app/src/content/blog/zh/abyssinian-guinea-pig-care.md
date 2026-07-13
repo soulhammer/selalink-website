@@ -18,13 +18,13 @@ faqs:
 
 阿比西尼亚天竺鼠因其浑身独特的涡旋状逆毛（毛旋）和活泼亲人的性格而广受喜爱。作为豚鼠，它们在生理上无法自身合成维生素C，一旦缺乏极易导致坏血病、关节肿胀和免疫力急剧下降。同时，天竺鼠的呼吸道非常脆弱，对灰尘极度敏感。今天，PetSelf 将分析天竺鼠的情绪声音与肢体动作，并分享确保维生素C摄入与呼吸道健康的3阶段每日护理流程。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      科学与行为学依据
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本内容基于 <strong>英国皇家防止虐待动物协会 (RSPCA) 啮齿类动物护理指南与非传统宠物兽医标准</strong>。
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>可以给天竺鼠吃橘子等柑橘类水果补充维生素C吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>阿比西尼亚天竺鼠能单独饲养一只吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

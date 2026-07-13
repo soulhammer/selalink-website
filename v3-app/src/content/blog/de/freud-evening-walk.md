@@ -98,7 +98,7 @@ Schnelles Gehen mit abwechselnden Schritten erzeugt eine 'bilaterale Stimulation
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kann ich diesen Spaziergang auch morgens statt abends machen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -108,7 +108,7 @@ Schnelles Gehen mit abwechselnden Schritten erzeugt eine 'bilaterale Stimulation
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Kann ich meine unbewussten Gedanken auf einem Smartphone eintippen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

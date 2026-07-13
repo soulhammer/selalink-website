@@ -65,6 +65,10 @@ function generateMarkdown(slug, lang) {
 
   const bodySignals = data.body_signals || [];
   const dailyRoutine = data.daily_routine || [];
+
+  if (bodySignals.length === 0 || dailyRoutine.length === 0) {
+    throw new Error(`[빌드 실패] 반려동물 케어 블로그 빌드 중 시그널 정보 또는 루틴 정보가 누락(0개)되었습니다.`);
+  }
   const faqs = data.faqs || [];
 
   // 라벨 매핑
@@ -82,7 +86,7 @@ function generateMarkdown(slug, lang) {
   // Frontmatter 생성
   const tags = data.tags || [];
   const formattedTags = JSON.stringify(tags);
-  const formattedFaqs = faqs.map(f => `  - question: "${f.question.replace(/"/g, '\\"')}"\n    answer: "${f.answer.replace(/"/g, '\\"')}"`).join('\n');
+  const formattedFaqs = faqs.map(f => `  - question: "${f.question.replace(/"/g, '\\"')}"\n    answer: "${(f.answer || "").replace(/\\n/g, '\n').replace(/"/g, '\\"')}"`).join('\n');
 
   const pubDateStr = master.pubDate || new Date().toISOString().split('T')[0];
   const updatedDateStr = master.updatedDate || pubDateStr;
@@ -105,7 +109,7 @@ ${formattedFaqs}
 
 ${intro}
 
-${renderEvidenceBox(lang, auth, 'ingredients')}
+${renderEvidenceBox(lang, auth, 'pet')}
 
 <div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
   <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
@@ -127,8 +131,8 @@ ${whyDesc}
   // 행동 시그널 해독 카드 생성
   bodySignals.forEach((sig, idx) => {
     const sName = sig.name;
-    const sMean = sig.meaning;
-    const sResp = sig.response;
+    const sMean = (sig.meaning || "").replace(/\\n/g, '\n');
+    const sResp = (sig.response || "").replace(/\\n/g, '\n');
     md += renderPetStepCard(lang, idx + 1, 'SIGNAL', sName, lMeaning, sMean, lResponse, sResp) + '\n\n';
   });
 
@@ -141,7 +145,7 @@ ${whyDesc}
   // 3단계 홈케어 루틴 카드 생성
   dailyRoutine.forEach((rt, idx) => {
     const rName = rt.name;
-    const rText = rt.text;
+    const rText = (rt.text || "").replace(/\\n/g, '\n');
     md += renderPetRoutineCard(lang, idx + 1, rName, rText) + '\n\n';
   });
 
@@ -163,6 +167,8 @@ const slugArg = args.find(a => a.startsWith('--slug='))?.split('=')[1];
 const buildPetBlog = (slug) => {
   console.log(`🚀 [Pet 컴파일러] '${slug}' 다국어 블로그 생성 시작...`);
   languages.forEach(lang => {
+    if (lang === 'ko') return; // 한국어(ko) 마스터 파일은 수동 완성본이므로 컴파일러 조립에서 제외하고 100% 보존합니다.
+
     const langDir = path.join(blogRoot, lang);
     ensureDir(langDir);
 

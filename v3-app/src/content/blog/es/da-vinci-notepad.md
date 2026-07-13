@@ -92,7 +92,7 @@ Nuestro cerebro está más cerca de una CPU (unidad central de procesamiento) qu
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué Da Vinci siempre llevaba un cuaderno en la cintura?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -18,13 +18,13 @@ faqs:
 
 Los gatos siameses, originarios de la realeza tailandesa, son elegantes felinos conocidos por sus puntos de contraste en orejas, cara y patas. Conocidos por su temperamento sociable, son muy vocales. 🐱 Sin embargo, este apego extremo los hace vulnerables a la ansiedad por separación. Si se quedan solos mucho tiempo, sufren angustia que se manifiesta en maullidos continuos o arañazos destructivos. Hoy, PetSelf presenta una rutina de 3 pasos para mantenerlos emocionalmente estables.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamento Científico y Comportamental
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Este contenido se basa en <strong>Guía oficial de la Cat Fanciers' Association (CFA) y protocolos de conducta felina de la AAFP</strong>.
     </p>
   </div>
@@ -119,7 +119,7 @@ Los siameses muestran su afecto de forma clara e interactiva. Las señales típi
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué mi siamés maúlla constantemente por la noche?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ Los siameses muestran su afecto de forma clara e interactiva. Las señales típi
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo reduzco la ansiedad por separación de mi siamés cuando salgo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -18,13 +18,13 @@ faqs:
 
 Os poodles são reconhecidos como uma das raças de cães mais inteligentes do mundo. Embora sejam muito adestráveis e sensíveis às emoções de seus donos, eles podem ficar entediados e estressados facilmente devido às suas mentes ativas. 🐩 Além disso, como suas orelhas caídas cobrem o canal auditivo, eles são propensos a infecções crônicas de ouvido devido à má ventilação. Hoje, o PetSelf compartilha dicas para manter seu poodle mentalmente estimulado e apresenta uma rotina de cuidados de 3 passos para manter suas orelhas limpas e saudáveis.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Base Científica e Comportamental
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Este conteúdo baseia-se em <strong>Guia oficial de raças do American Kennel Club (AKC) e protocolos de comportamento da IAABC</strong>.
     </p>
   </div>
@@ -119,7 +119,7 @@ Devido à sua inteligência, os poodles comunicam-se ativamente por meio da ling
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É normal o meu poodle sacudir a cabeça vigorosamente após a limpeza das orelhas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ Devido à sua inteligência, os poodles comunicam-se ativamente por meio da ling
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como faço para o meu poodle parar de roer móveis?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

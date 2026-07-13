@@ -41,13 +41,24 @@ export function renderEvidenceBox(lang, authority, domain) {
   const pattern = labels.evidenceDescPattern[lang] || labels.evidenceDescPattern['en'] || "";
   const desc = pattern.replace('$1', authority);
   
-  return `<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+  // domain ('pet', 'ingredients', 'habits')에 따라 CSS 테마 색상 매핑
+  let boxColorClass = "border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10";
+  let titleColorClass = "text-indigo-800 dark:text-indigo-300";
+  let descColorClass = "text-indigo-700/80 dark:text-indigo-400/80";
+
+  if (domain === 'pet' || domain === 'ingredients') {
+    boxColorClass = "border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10";
+    titleColorClass = "text-emerald-800 dark:text-emerald-300";
+    descColorClass = "text-emerald-700/80 dark:text-emerald-400/80";
+  }
+
+  return `<div class="my-8 p-6 rounded-[2rem] border ${boxColorClass} flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+    <h5 class="text-sm font-bold ${titleColorClass} m-0">
       ${title}
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs ${descColorClass} m-0 mt-1.5 leading-relaxed">
       ${desc}
     </p>
   </div>
@@ -114,8 +125,9 @@ export function renderFaqSection(lang, faqs, icon = '📌') {
   const faqItems = faqs.map((faq, faqIdx) => {
     const isOpen = faqIdx === 0 ? ' open' : '';
     const borderClass = faqIdx < faqs.length - 1 ? ' border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4' : '';
+    const isExpanded = faqIdx === 0 ? 'true' : 'false';
     return `  <details class="group${borderClass} cursor-pointer"${isOpen}>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="${isExpanded}">
       <span>${faq.question}</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

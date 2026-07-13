@@ -18,13 +18,13 @@ faqs:
 
 博美犬以其娇小的体型、蓬松的双层被毛以及自信活泼的步态而备受喜爱。它们外向且聪明，但其猎犬血统也使其对声音较敏感，易吠叫。🐕博美犬家长经常面临两个重要的健康隐忧：髌骨脱位（因骨骼纤细导致膝盖骨易脱位）和气管塌陷（导致发出鹅叫般的咳嗽声）。这些状况在滑溜的室内地板上极易恶化。今天，PetSelf 将带您了解博美犬的身体语言，并介绍一套日常3步护理惯例，以保护它们的关节和气管健康。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      科学与行为学依据
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本内容基于 <strong>美国博美犬俱乐部官方犬种指南与 AVMA 兽医学手册</strong>。
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>博美犬突然像鹅一样发出“咳咳”的 honking 咳嗽声，我该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>仅仅依靠家庭护理能治愈髌骨脱位而无需手术吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

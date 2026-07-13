@@ -100,7 +100,7 @@ La neurociencia moderna coincide con esto. Caminar con regularidad (ejercicio ae
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué Immanuel Kant salía a pasear exactamente a las 3:30 PM todos los días?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

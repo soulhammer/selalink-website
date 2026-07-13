@@ -96,7 +96,7 @@ Le fait d'examiner de près les facteurs de risque mineurs dans l'environnement 
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Le fait de noter un microdiagnostic environnemental affecte-t-il l'estime de soi intérieure ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -106,7 +106,7 @@ Le fait d'examiner de près les facteurs de risque mineurs dans l'environnement 
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Cela fonctionne-t-il de la même manière pour organiser les environnements numériques tels que la messagerie électronique ou la messagerie ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -18,13 +18,13 @@ faqs:
 
 Bengal cats are beloved for their beautiful leopard-like spots and wild appearance. However, as descendants of Asian leopard cats, they possess an extraordinary amount of athletic energy and sharp intelligence. If their stimulation needs are unmet, they can quickly display stress-related behaviors like vocalizing loudly, scratching furniture, or climbing walls. Today, PetSelf decodes Bengal body language indicating pent-up energy and shares a 3-step homecare routine to satisfy their curiosity and physical needs.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Scientific & Behavioral Evidence
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       This content is based on <strong>The International Cat Association (TICA) Bengal Breed Guide and Feline Behavioral Medicine Standards</strong>.
     </p>
   </div>
@@ -119,7 +119,7 @@ Bengal cats are highly communicative and will express their feelings using disti
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Do Bengal cats like water?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ Bengal cats are highly communicative and will express their feelings using disti
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can Bengals live comfortably in a small apartment?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

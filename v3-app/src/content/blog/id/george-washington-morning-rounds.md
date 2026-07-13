@@ -96,7 +96,7 @@ Metakognisi adalah kemampuan memahami batas pengetahuan sendiri. Mencatat angka 
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Saya malas menulis jurnal di hari-hari saat metrik saya buruk. Apa yang harus saya lakukan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -106,7 +106,7 @@ Metakognisi adalah kemampuan memahami batas pengetahuan sendiri. Mencatat angka 
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bolehkah saya mengelola semua metrik hanya menggunakan Notion atau Excel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

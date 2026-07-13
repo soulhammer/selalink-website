@@ -92,7 +92,7 @@ Olahraga intensitas tinggi meningkatkan pemompaan kardiovaskular, meningkatkan a
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah Doyle benar-benar bermain kriket dan bertinju di level tinggi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

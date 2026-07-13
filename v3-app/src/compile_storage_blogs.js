@@ -30,30 +30,22 @@ const allIngredients = [
   ...seafoodIngredients, ...vegetableIngredients
 ];
 
-const blogToIngMap = {
-  'how-to-store-apples': 'apple',
-  'how-to-store-avocado': 'avocado',
-  'how-to-store-bananas': 'banana',
-  'how-to-store-beef': 'beef',
-  'how-to-store-bread': 'bread',
-  'how-to-store-chicken': 'chicken',
-  'how-to-store-eggs': 'egg',
-  'how-to-store-garlic': 'garlic',
-  'how-to-store-green-onions': 'green-onion',
-  'how-to-store-milk': 'milk',
-  'how-to-store-mushrooms': 'mushroom',
-  'how-to-store-nuts': 'nuts',
-  'how-to-store-olive-oil': 'olive-oil',
-  'how-to-store-onions': 'onion',
-  'how-to-store-perilla-oil': 'perilla-oil',
-  'how-to-store-potatoes': 'potato',
-  'how-to-store-salmon': 'salmon',
-  'how-to-store-spinach': 'spinach',
-  'how-to-store-squid': 'squid',
-  'how-to-store-tofu': 'tofu',
-  'how-to-store-tomatoes': 'tomato',
-  'how-to-store-watermelon': 'watermelon'
-};
+const blogToIngMap = {};
+allIngredients.forEach(ing => {
+  const id = ing.id;
+  const possibleSlugs = [
+    `how-to-store-${id}`,
+    `how-to-store-${id}s`,
+    `how-to-store-${id}es`,
+    `how-to-store-${id.slice(0, -1)}ies` // y -> ies 형태의 복수 변형 식재료 대응 (예: cherry -> cherries)
+  ];
+  possibleSlugs.forEach(slug => {
+    const koPath = path.join(blogRoot, 'ko', `${slug}.md`);
+    if (fs.existsSync(koPath)) {
+      blogToIngMap[slug] = id;
+    }
+  });
+});
 
 const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
 
@@ -111,6 +103,8 @@ function run() {
 
     // 2. 다국어 폴더에 컴파일 적용
     languages.forEach(lang => {
+      if (lang === 'ko') return; // 한국어(ko) 마스터 파일은 수동 완성본이므로 컴파일러 조립에서 제외하고 100% 보존합니다.
+
       const targetDir = path.join(blogRoot, lang);
       const targetPath = path.join(targetDir, `${blogSlug}.md`);
 
@@ -219,7 +213,7 @@ function run() {
         
         if (stepTrans) {
           translatedName = stepTrans.name[lang] || stepTrans.name['en'] || koStep.name;
-          translatedText = stepTrans.text[lang] || stepTrans.text['en'] || koStep.text;
+          translatedText = (stepTrans.text[lang] || stepTrans.text['en'] || koStep.text || "").replace(/\\n/g, '\n');
         } else {
           console.warn(`[경고] 번역 맵에 단계 누락: ${ingId} STEP ${stepIdx}`);
         }
@@ -253,7 +247,7 @@ function run() {
       // 4. 신뢰기관 HTML 조립
       const rawSources = [];
       ['room', 'fridge', 'freezer'].forEach(method => {
-        const storage = ing.storage[method];
+        const storage = ing.storage?.[method];
         if (storage && storage.sources) {
           storage.sources.forEach(s => {
             if (!rawSources.includes(s)) rawSources.push(s);
@@ -309,7 +303,7 @@ function run() {
 
       faqList.forEach(faq => {
         const fQuestion = faq.question.replaceAll('[name]', name);
-        const fAnswer = faq.answer.replaceAll('[name]', name);
+        const fAnswer = faq.answer.replaceAll('[name]', name).replace(/\\n/g, '\n');
         faqItems.push({ question: fQuestion, answer: fAnswer });
         faqsYamlList.push(`  - question: "${fQuestion.replace(/"/g, '\\"')}"\n    answer: "${fAnswer.replace(/"/g, '\\"')}"`);
       });

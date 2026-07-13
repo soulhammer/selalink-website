@@ -94,7 +94,7 @@ Leer textos clásicos en voz alta activa la corteza prefrontal dorsolateral, enc
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué Weil prefería textos en griego antiguo para recitar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

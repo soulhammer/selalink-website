@@ -91,7 +91,7 @@ Berjalan dengan tempo teratur dalam waktu lama melepaskan endorfin yang menguran
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Tchaikovsky sangat mematuhi jalan-jalan selama 2 jam?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

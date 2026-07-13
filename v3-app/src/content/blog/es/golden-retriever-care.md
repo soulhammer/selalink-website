@@ -18,13 +18,13 @@ faqs:
 
 El Golden Retriever, querido por su pelaje dorado y su personalidad gentil, es un compañero inteligente y amigable. Aunque se le conoce como 'angelical', posee una gran energía y requiere estimulación diaria. Prevenir la displasia de cadera genéticamente vulnerable y satisfacer su instinto de cobro son fundamentales para su salud. Hoy, PetSelf explora sus señales e introduce una rutina saludable de 3 pasos.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamento Científico y Comportamental
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Este contenido se basa en <strong>Guía oficial de razas del American Kennel Club (AKC) y protocolos de comportamiento de IAABC</strong>.
     </p>
   </div>
@@ -119,7 +119,7 @@ Los Golden Retrievers expresan sus emociones a través de gestos. Una señal cla
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué mi Golden Retriever siempre lleva palos o zapatos durante los paseos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ Los Golden Retrievers expresan sus emociones a través de gestos. Una señal cla
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿A qué edad debe comenzar el cuidado articular en un Golden Retriever?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

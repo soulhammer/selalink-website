@@ -18,13 +18,13 @@ faqs:
 
 Shiba Inu dicintai secara global karena penampilan mirip rubah dan ekor melingkar mereka. Namun, mereka memiliki kemandirian mirip kucing, kemauan keras, dan sifat waspada. 🐕 Shiba sangat sensitif terhadap sentuhan pada kaki, telinga, atau ekor mereka. Jika dipaksa selama perawatan atau pemotongan kuku, mereka sering mengeluarkan 'Shiba Scream' bernada tinggi sebagai protes. Selain itu, mereka memiliki bulu ganda tebal yang rontok parah. Hari ini, PetSelf mengeksplorasi cara menghormati batasan Shiba Anda dengan rutinitas 3 langkah.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Bukti Ilmiah & Perilaku
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Konten ini didasarkan pada <strong>Klub Nasional Shiba Inu Amerika & Pedoman Modifikasi Perilaku IAABC</strong>.
     </p>
   </div>
@@ -119,7 +119,7 @@ Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama m
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Shiba Inu saya berteriak saat dirawat?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ Shiba Inu mengekspresikan batasan mereka secara jelas dan tenang. Sinyal utama m
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Mengapa Shiba Inu saya tidak semesra atau seaktif anjing lainnya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -98,7 +98,7 @@ Esta mejora de la conectividad crea una 'Reserva Cognitiva' que suprime el deter
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo puedo leer 500 páginas al día como Warren Buffett?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

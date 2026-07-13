@@ -18,13 +18,13 @@ faqs:
 
 Avec un corps long et flexible et des yeux pétillants, le furet de Marshall est un compagnon très social qui interagit étroitement avec les humains. Ils ont besoin de temps de jeu quotidien hors de la jaquette pour satisfaire leur curiosité et prévenir l'ennui. Des contrôles réguliers des oreilles sont également essentiels pour éviter les acariens. Aujourd'hui sur PetSelf, nous couvrons la danse de guerre du furet, les bruits de dooking et une routine en 3 étapes pour leurs aventures quotidiennes sécurisées.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Scientifique & Comportemental
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Ce contenu est basé sur <strong>Normes de l'American Ferret Association et Directives Vétérinaires pour Animaux Exotiques</strong>.
     </p>
   </div>
@@ -119,7 +119,7 @@ Les furets de Marshall expriment leur joie en gonflant leur queue, en arquant le
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi mon furet dort-il si profondément qu'il ne se réveille pas ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ Les furets de Marshall expriment leur joie en gonflant leur queue, en arquant le
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment contrôler l'odeur musquée naturelle du furet ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

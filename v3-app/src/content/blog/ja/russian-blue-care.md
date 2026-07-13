@@ -18,13 +18,13 @@ faqs:
 
 ロシアンブルーは、銀色を帯びた青く美しい短毛とエメラルドグリーンの瞳を持つ神秘的な猫です。物静かで落ち着きがあり、家族を深く愛しますが、遺伝的に警戒心が非常に強く慎重なため、室内の環境変化や突然の騒音に敏感に反応します。🐱突然の来客や掃除機の音がすると、キャットタワーのハウスの奥に隠れて長い時間出てこないのもこのためです。無理やり引っ張り出そうとするとさらに強いストレスを感じます。本日、PetSelfでは繊細なロシアンブルーが安心して過ごせる隠れ家を整え、信頼を築く3段階スキンシップルーティンを紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      科学的＆行動学的根拠
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本コンテンツは、<strong>キャットファンシャーズアソシエーション(CFA)ガイド＆コーネル猫健康センター</strong>に基づいています。
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ロシアンブルーが来客時に隠れて出てこないのですが、引っ張り出すべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>シャイなロシアンブルーと仲良くなる最も効果的な方法は何ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
