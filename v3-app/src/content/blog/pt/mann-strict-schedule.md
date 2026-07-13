@@ -47,7 +47,7 @@ Hoje, o BuildSelf explica os princípios de 'controle do ambiente' desse hábito
 
 A energia cognitiva do córtex pré-frontal, que regula a vontade e raciocínio complexo, está no auge pela manhã, mas é muito limitada. As microdistrações (mensagens de celular, redes sociais) esgotam essa energia rapidamente.
 
-Devido ao fenômeno do 'resíduo de atenção (Attention Residue)' ao mudar de foco, o cérebro distraído leva até 20 minutos para recuperar o nível de imersão original. O isolamento de Thomas Mann era uma barreira física que protegia o cérebro de interferências, permitindo canalizar 100% da energia em uma única tarefa complexa.
+Devido ao fenômeno do <strong>'resíduo de atenção (Attention Residue)'</strong> ao mudar de foco, o cérebro distraído leva até 20 minutos para recuperar o nível de imersão original. O isolamento de Thomas Mann era uma barreira física que protegia o cérebro de interferências, permitindo canalizar 100% da energia em uma única tarefa complexa.
 
 ---
 

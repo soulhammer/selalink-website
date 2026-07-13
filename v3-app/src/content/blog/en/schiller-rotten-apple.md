@@ -47,7 +47,7 @@ Today, BuildSelf introduces the scientific basis of Schiller's unique 'olfactory
 
 Among all human senses, smell is the only one that bypasses the 'thalamus', which acts as the brain's filter, and directly reaches the amygdala and hippocampus in the 'limbic system' that governs emotions and memories. Because of this, scent is the fastest shortcut to altering cognitive states.
 
-The fermented gases of rotten apples that Schiller inhaled (such as acetaldehyde and ethanol) acted as physiological stimulants that temporarily awakened the central nervous system and increased blood flow when inhaled in tiny amounts. In addition, psychological 'classical conditioning' played a role, inducing an entry and immersion state when smelling a specific scent. In other words, a neurological anchor was formed in the brain: 'rotten apple scent = high-intensity creation time', training the distracted brain to go straight into a high-focus state as soon as it smelled the scent.
+The fermented gases of rotten apples that Schiller inhaled (such as acetaldehyde and ethanol) acted as physiological stimulants that temporarily awakened the central nervous system and increased blood flow when inhaled in tiny amounts. In addition, psychological <strong>'classical conditioning'</strong> played a role, inducing an entry and immersion state when smelling a specific scent. In other words, a neurological anchor was formed in the brain: 'rotten apple scent = high-intensity creation time', training the distracted brain to go straight into a high-focus state as soon as it smelled the scent.
 
 ---
 

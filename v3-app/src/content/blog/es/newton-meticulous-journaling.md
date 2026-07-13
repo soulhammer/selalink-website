@@ -41,9 +41,9 @@ Newton conservó a su lado toda la vida un gran cuaderno en blanco encuadernado 
 
 ## 1. 'Descarga Cognitiva' para Liberar la Sobrecarga de la Memoria de Trabajo
 
-La capacidad de la 'Memoria de Trabajo' es muy limitada. Intentar retener numerosos cálculos e ideas en la cabeza lleva a una sobrecarga cognitiva. Anotarlo a mano como hacía Newton activa el mecanismo de 'Descarga Cognitiva (Cognitive Offloading)'.
+La capacidad de la 'Memoria de Trabajo' es muy limitada. Intentar retener numerosos cálculos e ideas en la cabeza lleva a una sobrecarga cognitiva. Anotarlo a mano como hacía Newton activa el mecanismo de <strong>'Descarga Cognitiva (Cognitive Offloading)'</strong>.
 
-Al respaldar los pensamientos en el soporte físico del papel, la memoria de trabajo se libera de la carga de retención y puede concentrarse en operaciones más complejas. Escribir y dibujar estimula el hipocampo, que regula la memoria a largo plazo, y el sistema de activación reticular (SAR), lo que ayuda a retener mejor las ideas importantes.
+Al respaldar los pensamientos en el soporte físico del papel, la memoria de trabajo se libera de la carga de retención y puede concentrarse en operaciones más complejas. Escribir y dibujar estimula el <strong>hipocampo</strong>, que regula la memoria a largo plazo, y el <strong>sistema de activación reticular (SAR)</strong>, lo que ayuda a retener mejor las ideas importantes.
 
 ---
 
@@ -105,4 +105,4 @@ Al respaldar los pensamientos en el soporte físico del papel, la memoria de tra
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

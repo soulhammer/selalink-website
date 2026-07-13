@@ -41,7 +41,7 @@ Gandhi acordava às 4h todos os dias. Logo ao abrir os olhos, meditava e orava p
 
 ## 1. 'Meditação Ativa' onde o Movimento Repetitivo Estimula a Serotonina
 
-Se a meditação comum é um ato estático, fiar algodão é uma 'meditação ativa' que induz o foco através do movimento corporal. Neurocientificamente, usar as pontas dos dedos de forma delicada num ritmo circular repetitivo estimula a secreção de serotonina, o neurotransmissor do bem-estar. A serotonina desperta a mente de manhã e inibe a ansiedade.
+Se a meditação comum é um ato estático, fiar algodão é uma <strong>'meditação ativa'</strong> que induz o foco através do movimento corporal. Neurocientificamente, usar as pontas dos dedos de forma delicada num ritmo circular repetitivo estimula a secreção de <strong>serotonina</strong>, o neurotransmissor do bem-estar. A serotonina desperta a mente de manhã e inibe a ansiedade.
 
 Além disso, o foco apurado dos dedos regulando a tensão para o fio não romper inibe imediatamente a rede cerebral que gera pensamentos dispersos, ancorando a atenção no presente. A fonte fisiológica de estabilidade mental de Gandhi em meio ao caos político era alinhar o sistema autônomo (HRV) pelo ritmo simples da roca.
 
@@ -105,4 +105,4 @@ Além disso, o foco apurado dos dedos regulando a tensão para o fio não romper
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

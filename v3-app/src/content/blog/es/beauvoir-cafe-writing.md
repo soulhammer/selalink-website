@@ -45,7 +45,7 @@ Hoy, BuildSelf desvela el mecanismo de concentración del 'hábito del café' de
 
 ## 1. Mecanismo del Ruido Blanco y el Guión Cognitivo
 
-En términos neurocientíficos, estar en el mismo entorno físico (mesa, bebida) activa un 'guion cognitivo (Cognitive Script)' que ayuda a entrar directo en foco, evitando que el cerebro gaste energía decidiendo cómo empezar.
+En términos neurocientíficos, estar en el mismo entorno físico (mesa, bebida) activa un <strong>'guion cognitivo (Cognitive Script)'</strong> que ayuda a entrar directo en foco, evitando que el cerebro gaste energía decidiendo cómo empezar.
 
 Además, el murmullo de 50 a 70 decibelios (dB) de las cafeterías (ruido blanco) evita que el sistema de atención se obsesione con estímulos aislados o se aburra. Este sonido estimula las ondas alfa, ligadas a la creatividad; mientras que la presencia ajena pasiva activa las neuronas espejo, quitando la sensación de aislamiento y elevando el rendimiento.
 

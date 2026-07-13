@@ -45,9 +45,9 @@ Today, BuildSelf explains the cognitive neurological working principles of Orwel
 
 ## 1. Brain Science of Information Encoding and Schema
 
-Scanning countless digital articles simply with your eyes only temporarily keeps them in short-term memory, the brain's temporary storage, before most are forgotten. Conversely, the act of selecting, 'clipping' (physical or digital action), and categorizing articles induces the brain's 'deep encoding' processing.
+Scanning countless digital articles simply with your eyes only temporarily keeps them in short-term memory, the brain's temporary storage, before most are forgotten. Conversely, the act of selecting, 'clipping' (physical or digital action), and categorizing articles induces the brain's <strong>'deep encoding'</strong> processing.
 
-This information structuring work not only deposits information into the long-term memory in the cerebral cortex but also forms a 'schema network' that integrates with existing knowledge systems. A brain with a highly developed schema quickly grasps the context of new information, pinpoints the core of a problem, and displays high fluid intelligence that recalls background knowledge at optimal speeds when writing or making decisions.
+This information structuring work not only deposits information into the long-term memory in the cerebral cortex but also forms a <strong>'schema network'</strong> that integrates with existing knowledge systems. A brain with a highly developed schema quickly grasps the context of new information, pinpoints the core of a problem, and displays high fluid intelligence that recalls background knowledge at optimal speeds when writing or making decisions.
 
 ---
 

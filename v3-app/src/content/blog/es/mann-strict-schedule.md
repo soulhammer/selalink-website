@@ -47,7 +47,7 @@ Hoy, BuildSelf expone la neurobiología de este hábito de 'aislamiento y contro
 
 La energía cognitiva del lóbulo frontal (Prefrontal Cortex), que regula la voluntad y el razonamiento complejo, está a su nivel máximo por la mañana, pero es muy limitada. Las microdistracciones (mensajes en el móvil, redes o charlas) agotan esa energía rápido.
 
-Debido al fenómeno del 'residuo de atención (Attention Residue)' al cambiar de tarea, el cerebro distraído tarda hasta 20 minutos en recuperar el nivel de inmersión original, perdiendo valiosos recursos. El encierro de Thomas Mann era una barrera física que aislaba el cerebro de interferencias, permitiendo enfocar el 100% de la energía en una sola tarea exigente.
+Debido al fenómeno del <strong>'residuo de atención (Attention Residue)'</strong> al cambiar de tarea, el cerebro distraído tarda hasta 20 minutos en recuperar el nivel de inmersión original, perdiendo valiosos recursos. El encierro de Thomas Mann era una barrera física que aislaba el cerebro de interferencias, permitiendo enfocar el 100% de la energía en una sola tarea exigente.
 
 ---
 

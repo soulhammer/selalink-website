@@ -45,9 +45,9 @@ Hoje, o BuildSelf explica os princípios cognitivos da rotina de 'recortes' de O
 
 ## 1. Neurobiologia da Codificação de Informações e Esquemas
 
-Passar os olhos por notícias na internet apenas retém a informação por instantes na memória de curto prazo. Pelo contrário, o ato de selecionar, recortar (seja físico ou digital) e categorizar induz o cérebro a uma 'codificação profunda (Deep Encoding)'.
+Passar os olhos por notícias na internet apenas retém a informação por instantes na memória de curto prazo. Pelo contrário, o ato de selecionar, recortar (seja físico ou digital) e categorizar induz o cérebro a uma <strong>'codificação profunda (Deep Encoding)'</strong>.
 
-Essa estruturação arquiva as informações na memória de longo prazo e cria uma 'rede de esquemas' interligada ao conhecimento prévio. Um cérebro com esquemas desenvolvidos compreende o contexto com muito mais rapidez, sintetiza problemas e recupera o conhecimento ao escrever ou tomar decisões.
+Essa estruturação arquiva as informações na memória de longo prazo e cria uma <strong>'rede de esquemas'</strong> interligada ao conhecimento prévio. Um cérebro com esquemas desenvolvidos compreende o contexto com muito mais rapidez, sintetiza problemas e recupera o conhecimento ao escrever ou tomar decisões.
 
 ---
 

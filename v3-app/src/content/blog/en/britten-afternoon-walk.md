@@ -47,7 +47,7 @@ Today, BuildSelf introduces the brain science principles of the 'afternoon brain
 
 The brain that has performed high-level calculations or planning throughout the morning operates the 'Central Executive Network (CEN)', which maintains a focused state, depleting cognitive energy and falling into a state of 'Attention Fatigue.'
 
-According to environmental psychology's 'Attention Restoration Theory (ART)', when walking slowly outdoors, which has nature's non-stimulating soft fascination elements like wind or wave sounds, the brain finally relaxes the attention network. During this rest period, the brain operates the 'Default Mode Network (DMN)' to classify and transfer fragmented information or concerns from the morning to long-term storage, achieving 'cognitive integration.' Through the afternoon walk, Britten cleared the overload on his brain and used subconscious thinking to intuitively solve complex problems.
+According to environmental psychology's <strong>'Attention Restoration Theory (ART)'</strong>, when walking slowly outdoors, which has nature's non-stimulating soft fascination elements like wind or wave sounds, the brain finally relaxes the attention network. During this rest period, the brain operates the 'Default Mode Network (DMN)' to classify and transfer fragmented information or concerns from the morning to long-term storage, achieving <strong>'cognitive integration.'</strong> Through the afternoon walk, Britten cleared the overload on his brain and used subconscious thinking to intuitively solve complex problems.
 
 ---
 

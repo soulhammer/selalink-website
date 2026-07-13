@@ -48,7 +48,7 @@ Hoy, BuildSelf presenta la base científica de la rutina de meditación en la ca
 
 Muchas personas modernas se levantan a toda prisa al oír la alarma, con el corazón latiendo a mil por hora, comprueban los correos o mensajes en el móvil y empiezan el día. Esto induce la secreción de cortisol y adrenalina desde el principio del día, elevando en exceso el nivel de alerta y haciéndoles sentir apresurados y crónicamente fatigados durante todo el día.
 
-Por otro lado, mantener una postura tumbada horizontal y cómoda durante un rato inmediatamente después de despertarse, como hacía Descartes, activa moderadamente el sistema nervioso parasimpático, ayudando al cerebro a despertarse suavemente. En este estado se liberan armoniosamente las 'ondas Alfa', ondas cerebrales que ayudan a manifestar una gran creatividad e intuición. Este breve tiempo de meditación tumbado por la mañana sostiene la función cognitiva y la resistencia emocional de todo el día.
+Por otro lado, mantener una postura tumbada horizontal y cómoda durante un rato inmediatamente después de despertarse, como hacía Descartes, activa moderadamente el sistema nervioso parasimpático, ayudando al cerebro a despertarse suavemente. En este estado se liberan armoniosamente las <strong>'ondas Alfa'</strong>, ondas cerebrales que ayudan a manifestar una gran creatividad e intuición. Este breve tiempo de meditación tumbado por la mañana sostiene la función cognitiva y la resistencia emocional de todo el día.
 
 ---
 
@@ -110,4 +110,3 @@ Por otro lado, mantener una postura tumbada horizontal y cómoda durante un rato
     </p>
   </details>
 </div>
-<strong></strong>

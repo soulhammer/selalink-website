@@ -45,9 +45,9 @@ Hoy, BuildSelf detalla la neurociencia del 'canto al caminar' de William Wordswo
 
 ## 1. Sinergia de la Marcha Rítmica y el Bucle Auditivo
 
-Los impulsos rítmicos al pisar el suelo al caminar activan con fuerza el 'cerebelo (Cerebellum)', centro de coordinación y tempo del cerebro. Este ritmo motor se sincroniza con el área del lenguaje de la corteza, coordinando la entonación y la fluidez del habla de forma natural.
+Los impulsos rítmicos al pisar el suelo al caminar activan con fuerza el <strong>'cerebelo (Cerebellum)'</strong>, centro de coordinación y tempo del cerebro. Este ritmo motor se sincroniza con el área del lenguaje de la corteza, coordinando la entonación y la fluidez del habla de forma natural.
 
-Además, declamar las ideas en voz alta (Recitation) activa el 'bucle fonológico/auditivo' del cerebro. Al oír su propia voz como feedback al instante, el cerebro capta cacofonías o fallas de fluidez de manera intuitiva. Así, en lugar de cansar su hemisferio izquierdo escribiendo con esfuerzo, Wordsworth usó esta conexión auditivo-motora para dar con los versos más fluidos.
+Además, declamar las ideas en voz alta (Recitation) activa el <strong>'bucle fonológico/auditivo'</strong> del cerebro. Al oír su propia voz como feedback al instante, el cerebro capta cacofonías o fallas de fluidez de manera intuitiva. Así, en lugar de cansar su hemisferio izquierdo escribiendo con esfuerzo, Wordsworth usó esta conexión auditivo-motora para dar con los versos más fluidos.
 
 ---
 

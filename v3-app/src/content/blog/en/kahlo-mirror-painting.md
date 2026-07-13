@@ -41,9 +41,9 @@ Watching her daughter's frustration at being unable to move, Frida's mother inst
 
 ## 1. 'Self-Mirroring Effect' to Objectify Oneself and Restore Control
 
-Looking at one's own reflection in the mirror for a long time is called the 'Mirror-Gazing Technique' in clinical psychology. Under extreme stress, physical disability, or pain, the brain is prone to sinking into negative emotions. At this time, the mirror functions as a cognitive isolation tool that allows one to look at one's body and emotions objectively from a third-party perspective.
+Looking at one's own reflection in the mirror for a long time is called the <strong>'Mirror-Gazing Technique'</strong> in clinical psychology. Under extreme stress, physical disability, or pain, the brain is prone to sinking into negative emotions. At this time, the mirror functions as a cognitive isolation tool that allows one to look at one's body and emotions objectively from a third-party perspective.
 
-In this process, the brain restores a sense of control over the self and strengthens agency, thereby regulating stress and alleviating depression. Frida Kahlo's fierce confrontation with herself in the mirror while lying in bed was more than a simple depiction; it was a physiological manifestation of 'resilience' to rebuild her soul despite adversity. In modern cognitive therapy, mirror meditation is widely used as an excellent therapeutic technique to promote self-acceptance and stabilize emotional state.
+In this process, the brain restores a sense of control over the self and strengthens agency, thereby regulating stress and alleviating depression. Frida Kahlo's fierce confrontation with herself in the mirror while lying in bed was more than a simple depiction; it was a physiological manifestation of <strong>'resilience'</strong> to rebuild her soul despite adversity. In modern cognitive therapy, mirror meditation is widely used as an excellent therapeutic technique to promote self-acceptance and stabilize emotional state.
 
 ---
 
@@ -105,4 +105,4 @@ In this process, the brain restores a sense of control over the self and strengt
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

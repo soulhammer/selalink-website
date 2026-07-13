@@ -45,9 +45,9 @@ Hojes, o BuildSelf detalha a neurobiologia por trás do hábito de caminhar e fa
 
 ## 1. Sinergia da Caminhada Rítmica e do Bloop Auditivo
 
-Os impulsos rítmicos ao pisar o solo na caminhada ativam fortemente o 'cerebelo (Cerebellum)', centro de coordenação do cérebro. Esse ritmo motor sincroniza-se com a área de linguagem do córtex, coordenando a entonação da fala de forma natural.
+Os impulsos rítmicos ao pisar o solo na caminhada ativam fortemente o <strong>'cerebelo (Cerebellum)'</strong>, centro de coordenação do cérebro. Esse ritmo motor sincroniza-se com a área de linguagem do córtex, coordenando a entonação da fala de forma natural.
 
-Declamar as ideias em voz alta (Recitation) ativa o 'bloop fonológico/auditivo'. Ao ouvir a própria voz em feedback instantâneo, o cérebro capta falhas de ritmo de maneira intuitiva. Em vez de cansar o hemisfério esquerdo escrevendo, Wordsworth usou essa conexão auditivo-motora para obter os versos mais fluidos.
+Declamar as ideias em voz alta (Recitation) ativa o <strong>'bloop fonológico/auditivo'</strong>. Ao ouvir a própria voz em feedback instantâneo, o cérebro capta falhas de ritmo de maneira intuitiva. Em vez de cansar o hemisfério esquerdo escrevendo, Wordsworth usou essa conexão auditivo-motora para obter os versos mais fluidos.
 
 ---
 

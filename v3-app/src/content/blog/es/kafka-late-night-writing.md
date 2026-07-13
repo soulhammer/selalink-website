@@ -41,7 +41,7 @@ Kafka escribía en silencio extremo desde las 11 PM hasta las 2 o 3 AM, a veces 
 
 ## 1. 'Regulación Descendente Frontal' para Liberar el Control y Alcanzar la Esencia
 
-Durante el día, nuestro lóbulo frontal consume activamente la energía cognitiva necesaria para las normas sociales, el razonamiento lógico y la concentración. Sin embargo, a altas horas de la noche, cuando la energía se agota, el fuerte filtro de control del lóbulo frontal se debilita temporalmente. La ciencia cognitiva denomina a este estado 'Regulación Descendente Frontal'.
+Durante el día, nuestro lóbulo frontal consume activamente la energía cognitiva necesaria para las normas sociales, el razonamiento lógico y la concentración. Sin embargo, a altas horas de la noche, cuando la energía se agota, el fuerte filtro de control del lóbulo frontal se debilita temporalmente. La ciencia cognitiva denomina a este estado <strong>'Regulación Descendente Frontal'</strong>.
 
 Cuando se libera el control, el cerebro escapa de la supresión racional y vierte sin cesar profundidad emocional, asociación inconsciente y creatividad original que normalmente eran difíciles de alcanzar. Ésta es la fuerza motriz fisiológica que permitió a Kafka escribir obras maestras que despiertan una profunda resonancia en la noche oscura. Además, el perfecto silencio físico de la medianoche bloquea por completo la interferencia del ruido que perturba la memoria de trabajo, creando un entorno neuroquímico óptimo para que el cerebro se sumerja en un solo tema.
 
@@ -105,4 +105,4 @@ Cuando se libera el control, el cerebro escapa de la supresión racional y viert
     </p>
   </details>
 </div>
-<strong></strong><strong></strong>
+<strong></strong>

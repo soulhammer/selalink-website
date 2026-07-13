@@ -1,0 +1,183 @@
+{
+  "lovelace-visual-mapping": {
+    "title": {
+      "ko": "수학 공식을 그림으로 그린 프로그래머? 에이다 러브레이스의 시각 도식화법",
+      "en": "The Programmer Who Drew Math? Ada Lovelace's Visual Mapping Routine",
+      "ja": "数学公式を絵に描いたプログラマー？エイダ・ラブレスの視覚図式化法",
+      "zh": "将数学公式画成图画的程序员？埃达·洛夫莱斯的视觉图示法",
+      "es": "¿La programadora que dibujaba matemáticas? La rutina de mapeo visual de Ada Lovelace",
+      "fr": "La programmeuse qui dessinait les maths ? La routine de cartographie visuelle d'Ada Lovelace",
+      "de": "Die Programmiererin, die Mathe zeichnete? Ada Lovelaces visuelle Mapping-Routine",
+      "pt": "A programadora que desenhava matemática? A rotina de mapeamento visual de Ada Lovelace",
+      "id": "Programmer yang Menggambar Matematika? Rutinitas Pemetaan Visual Ada Lovelace"
+    },
+    "description": {
+      "ko": "세계 최초의 프로그래머 에이다 러브레이스. 복잡한 계산식의 패턴을 시각 다이어그램으로 그려내어 최초의 알고리즘을 발명했던 그녀의 개념화 습관을 알아봅니다.",
+      "en": "Ada Lovelace, the world's first programmer. Learn her routine of conceptualizing complex formulas by mapping them into visual diagrams to create the first algorithm.",
+      "ja": "世界初のプログラマー、エイダ・ラブレス。複雑な計算式のパターンを視覚ダイアグラムに描き出し、最初のアルゴリズムを発明した彼女の概念化習慣を紹介します。",
+      "zh": "世界上第一位程序员埃达·洛夫莱斯。介绍她将复杂的计算公式模式画成视觉图表，从而发明出首个算法的概念化习惯。",
+      "es": "Ada Lovelace, la primera programadora del mundo. Conozca su rutina de conceptualizar fórmulas complejas en diagramas visuales para crear el primer algoritmo.",
+      "fr": "Ada Lovelace, la première programmeuse de l'histoire. Découvrez sa routine consistant à conceptualiser des formules complexes sous forme de diagrammes pour concevoir le premier algorithme.",
+      "de": "Ada Lovelace, die erste Programmiererin der Welt. Lernen Sie ihre Routine zur Visualisierung komplexer Formeln in Diagrammen kennen, mit der sie den ersten Algorithmus erschuf.",
+      "pt": "Ada Lovelace, a primeira programadora do mundo. Conheça sua rotina de conceitualizar fórmulas complexas em diagramas visuais para criar le premier algoritmo.",
+      "id": "Ada Lovelace, programmer pertama di dunia. Pelajari rutinitasnya mengonseptualisasikan formula rumit dengan memetakannya ke dalam diagram visual untuk membuat algoritma pertama."
+    },
+    "authority": {
+      "ko": "러브레이스 전기 'Ada's Algorithm' 및 이중 부호화 이론에 관한 교육 심리학 연구",
+      "en": "Lovelace's Biography 'Ada's Algorithm' & Cognitive Psychology Studies on Dual-Coding Theory",
+      "ja": "ラブレス伝記「Ada's Algorithm」および二重符号化理論に関する教育心理学研究",
+      "zh": "洛夫莱斯传记《Ada's Algorithm》与双重编码理论相关教育心理学研究",
+      "es": "Biografía de Lovelace 'Ada's Algorithm' y estudios de psicología cognitiva sobre la teoría de la codificación dual",
+      "fr": "Biographie de Lovelace 'Ada's Algorithm' & études de psychologie cognitive sur la théorie du double codage",
+      "de": "Lovelaces Biografie 'Ada's Algorithm' & kognitionspsychologische Studien zur dualen Codierungstheorie",
+      "pt": "Biografia de Lovelace 'Ada's Algorithm' & estudos de psicologia cognitiva sobre a teoria da dupla codificação",
+      "id": "Biografi Lovelace 'Ada's Algorithm' & Studi Psikologi Kognitif tentang Teori Pengodean Ganda"
+    },
+    "intro": {
+      "ko": "\"나는 관계의 숨겨진 유기적 결합을 시각적으로 투영할 때, 수학의 진정한 아름다움을 마주한다.\" 📊\n\n기계적 톱니바퀴만 돌던 19세기, 찰스 배비지의 해석기관을 분석하여 컴퓨터 하드웨어의 한계를 넘어 소프트웨어 알고리즘의 탄생을 선언한 인류 최초의 프로그래머, 에이다 러브레이스. 오늘날 우리가 스마트폰과 PC로 누리는 디지털 시대의 근간을 닦은 그녀의 통찰력은 과연 어떤 공부 방식에서 탄생했을까요?\n\n러브레이스는 난해하기로 소문난 해석기관의 기계적 작동 순서와 베르누이 수 계산식을 연구할 때, 단순한 텍스트나 긴 수식의 나열에 갇히지 않았습니다. 그녀는 정보가 톱니바퀴를 타고 어떻게 흐르는지, 각 연산이 어떻게 반복되는지를 커다란 종이 위에 기하학적인 다이어그램과 체계적인 표로 도식화(Visual Mapping)했습니다. 이 시각적 개념화 습관 덕분에 그녀는 복잡한 하드웨어의 동역학 속에서 정보 처리의 추상적 흐름을 관통해 낼 수 있었고, 사상 최초의 컴퓨터 프로그램 코드를 작성하는 불멸의 업적을 남겼습니다.\n\n오늘 BuildSelf에서는 에이다 러브레이스의 '시각적 도식화' 루틴이 뇌의 작업 기억 용량 한계를 극복하는 인지과학적 원리와 현대인들이 복잡한 설계를 명쾌하게 풀기 위해 이를 어떻게 활용할 수 있는지 소개합니다.",
+      "en": "\"I face the true beauty of mathematics when I visually project the hidden organic connections of relationships.\" 📊\n\nIn the 19th century, when only mechanical gears turned, Ada Lovelace analyzed Charles Babbage's Analytical Engine, declaring the birth of software algorithms. Where did her creative foresight, which laid the foundation of the digital age, come from?\n\nWhen studying the complex operations of the Analytical Engine and Bernoulli number calculations, Lovelace did not limit herself to text or equations. She mapped how information flowed through the gears and how operations repeated onto large sheets of paper using geometric diagrams and tables (Visual Mapping). This conceptualizing habit allowed her to visualize the abstract flow of information processing and write the first computer program.\n\nToday, BuildSelf introduces the cognitive principles behind Ada Lovelace's 'visual mapping' routine and how modern people can apply it to clarify complex planning or learning.",
+      "ja": "「私は関係の隠された有機的な結合を視覚的に投影するとき、数学の真の美しさに向き合う。」 📊\n\n機械的な歯車だけが回っていた19世紀、チャールズ・バベッジの解析機関を分析し、コンピュータハードウェアの限界を超えてソフトウェアアルゴリズムの誕生を宣言した人類初のプログラマー、エイダ・ラブレス。今日、私たちがスマートフォンやPCで享受しているデジタル時代の基盤を築いた彼女の洞察力は、一体どのような学習方法から生まれたのでしょうか？\n\nラブレスは、難解で知られる解析機関の機械的な作動順序とベルヌーイ数の計算式を研究する際、単純なテキストや長い数式の羅列にとどまりませんでした。彼女は情報が歯車を伝ってどのように流れるか、各演算がどのように繰り返されるかを大きな紙の上に幾何学的なダイアグラムと体系的な表で図式化（Visual Mapping）しました。この視覚的な概念化習慣のおかげで、彼女は複雑なハードウェアの動学の中で情報処理の抽象的な流れを見抜くことができ、史上初のコンピュータプログラムコードを記述するという不滅の業績を残しました。\n\n本日、BuildSelfではエイダ・ラブレスの「視覚的図式化」ルーティンが脳のワーキングメモリの容量限界を克服する認知科学的原理と、現代人が複雑な設計を明快に解き明かすためにこれをどのように活用できるかを紹介します。",
+      "zh": "“当我将关系中隐藏的有机结合在视觉上投影出来时，我才面对数学真正的美丽。” 📊\n\n在只有机械齿轮运转的19世纪，通过分析查尔斯·巴贝奇的分析机，超越计算机硬件的极限，宣告软件算法诞生的杰出人物埃达·洛夫莱斯。奠定了我们今天通过智能手机和电脑享受的数字时代基础的她，其洞察力究竟诞生于怎样的学习方式？\n\n洛夫莱斯在研究以难懂著称的分析机机械运转顺序和伯努利数计算公式时，并没有局限于单纯的文字或长公式的罗列。她将信息如何顺着齿轮流动、各运算如何重复，在大张纸上用几何图表和系统表格进行了图示化 (Visual Mapping)。得益于这种视觉概念化习惯，她得以洞穿复杂硬件动态中信息处理 of 抽象流程，留下了编写史上首个计算机程序代码的不朽功绩。\n\n今天，BuildSelf 向您介绍埃达·洛夫莱斯“视觉图示化”常规在克服大脑工作记忆容量限制方面的认知科学原理，以及现代人如何利用它来清晰解决复杂设计的方法。"
+    },
+    "whyTitle": {
+      "ko": "작업 기억 용량을 극대화하는 '이중 부호화'",
+      "en": "Maximizing Working Memory Capacity via 'Dual-Coding'",
+      "ja": "ワーキングメモリ容量を極大化する「二重符号化」",
+      "zh": "最大化工作记忆容量的“双重编码”",
+      "es": "Maximizar la capacidad de la memoria de trabajo mediante la 'codificación dual'",
+      "fr": "Maximiser la capacité de la mémoire de travail par le 'double codage'",
+      "de": "Maximierung der Arbeitsgedächtniskapazität durch 'duale Codierung'",
+      "pt": "Maximizar a capacidade da memória de trabalho através da 'dupla codificação'",
+      "id": "Memaksimalkan Kapasitas Memori Kerja melalui 'Pengodean Ganda'"
+    },
+    "whyDesc": {
+      "ko": "우리의 뇌에서 단기 정보를 저장하고 제어하는 '작업 기억(Working Memory)'은 동시에 처리할 수 있는 정보의 용량이 매우 제한적입니다. 텍스트나 기호만으로 가득 찬 자료를 읽을 때 뇌는 금세 병목 현상을 일으키고 인지적 과부하를 겪게 됩니다.\n\n에이다 러브레이스의 다이어그램 도식화 루틴은 뇌의 <strong>'이중 부호화(Dual-Coding Theory)'</strong> 기전을 활용한 획기적인 인지 극대화 기법이었습니다. 인지 심리학자 앨런 파이비오에 따르면, 뇌는 기호적 정보(언어/수식)와 이미지 정보(시각적 배치/화살표)를 뇌의 완전히 분리된 독립 영역에서 처리합니다. 어려운 공식을 시각적인 노드와 링크 형태의 다이어그램으로 옮겨 그리면, 기호 처리에 소모되던 뇌의 에너지를 시각령으로 골고루 분산시켜 인지적 공간이 확보됩니다. 이를 통해 전두엽은 정보를 훨씬 효율적으로 가공하고 패턴을 직관적으로 감지할 수 있게 됩니다.",
+      "en": "The 'Working Memory' that stores and controls short-term information in our brain is highly limited in its processing capacity. Reading text-heavy or symbol-heavy materials quickly causes bottlenecks and cognitive overload.\n\nAda Lovelace's diagramming routine was a cognitive technique that utilized <strong>'Dual-Coding Theory'</strong>. According to cognitive psychologist Allan Paivio, the brain processes verbal/symbolic information and visual/image information in completely separate regions. Translating difficult equations into nodes and links in a diagram spreads the load to the visual cortex, securing cognitive space. This allows the prefrontal cortex to process information more efficiently and grasp patterns intuitively.",
+      "ja": "脳の中で短期的な情報を保存・制御する「ワーキングメモリ（Working Memory）」は、同時に処理できる情報の容量が非常に制限されています。テキストや記号だけで満たされた資料を読むとき、脳はすぐにボトルネックを引き起こし、認知的な過負荷に陥ります。\n\nエイダ・ラブレスのダイアグラム図式化ルーティンは、脳の<strong>「二重符号化（Dual-Coding Theory）」</strong>メカニズムを活用した画期的な認知極大化手法でした。認知心理学者のアラン・ペイビオによると、脳は記号的な情報（言語/数式）とイメージ情報（視覚的配置/矢印）を脳の完全に分離した独立した領域で処理します。難しい数式を視覚的なノードとリンク形式のダイアグラムに移して描くと、記号処理に消耗されていた脳のエネルギーが視覚野に均等に分散され、認知的なスペースが確保されます。これにより、前頭葉は情報をはるかに効率的に加工し、パターンを直感的に感知できるようになります。",
+      "zh": "我们大脑中保存和控制短期信息的“工作记忆 (Working Memory)”同时能处理的信息容量非常有限。在阅读仅充满文字或符号的资料时，大脑很快就会产生瓶颈，并经历认知过载。\n\n埃达·洛夫莱斯的图表图示化常规是利用大脑<strong>“双重编码 (Dual-Coding Theory)”</strong>机制的突破性认知最大化技术。认知心理学家艾伦·帕维奥指出，大脑在完全分离的独立区域中处理符号信息（语言/公式）和图像信息（视觉布局/箭头）。如果将难懂的公式转换成视觉节点和链接形式的图表画出来，原本消耗在符号处理上的大脑能量就会均匀分散到视觉区，从而确保认知空间。由此，前额叶能够更高效地加工信息，并直观感知模式。"
+    },
+    "cautionTitle": {
+      "ko": "텍스트의 한계를 벗어날 때 본질이 보입니다",
+      "en": "The Essence is Seen When Stepping Out of Text Limits",
+      "ja": "テキストの限界を超えたとき、本質が見えます",
+      "zh": "只有超越文字的极限，才能看到本质",
+      "es": "La esencia se ve al superar los límites del texto",
+      "fr": "L'essence apparaît en s'affranchissant des limites du texte",
+      "de": "Das Wesentliche wird sichtbar, wenn man die Grenzen des Textes überschreitet",
+      "pt": "A essência é vista ao superar los limites do texto",
+      "id": "Esensi Terlihat Saat Melangkah Keluar dari Batas Teks"
+    },
+    "cautionDesc": {
+      "ko": "천재 프로그래머 에이다 러브레이스에게 시각적 다이어그램은 단순한 필기 메모가 아니라, 뇌의 시각적 지능을 연합하여 수식의 배후에 숨겨진 추상적인 메커니즘을 꿰뚫어 보는 렌즈였습니다. 코딩이나 어려운 기획 중 흐름이 막혔다면 즉시 텍스트 쓰기를 멈추고, 넓은 종이 위에 화살표와 도형을 그리는 시각적 매핑을 통해 생각을 구체화해 보십시오.",
+      "en": "For the genius programmer Ada Lovelace, a visual diagram was not a simple note, but a lens to align the brain's visual intelligence and trace the abstract mechanisms hidden behind equations. If your coding or planning is blocked, stop writing text immediately and map your thoughts using shapes and arrows on a large sheet of paper.",
+      "ja": "天才プログラマーのエイダ・ラブレスにとって、視覚的ダイアグラムは単なる筆記メモではなく、脳の視覚的知能を連合させて数式の背後に隠された抽象的なメカニズムを見抜くレンズでした。コーディングや難しい企画の中で流れが滞ったら、すぐにテキストを書くのを止め、広い紙の上に矢印と図形を描く視覚的マッピングを通じて思考を具体化してみてください。",
+      "zh": "对于天才程序员埃达·洛夫莱斯来说，视觉图表不仅是单纯的笔录，更是联合大脑的视觉智能、透视隐藏在公式背后的抽象机制的透镜。如果在编程或困难的规划中思路受阻，请立即停止写字，在宽大的纸上画出箭头和图形，通过视觉映射来具体化您的思路。"
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "시각적 작업 판 마련 및 주체 노드화",
+          "en": "Prepare Visual Canvas and Define Core Nodes",
+          "ja": "視覚的作業板の用意と主体のノード化",
+          "zh": "准备视觉工作板及主体节点化",
+          "es": "Prepare el lienzo visual and defina los nodos",
+          "fr": "Préparer le canevas visuel et définir les nœuds",
+          "de": "Bereiten Sie eine visuelle Arbeitsfläche vor und definieren Sie Kernknoten",
+          "pt": "Prepare a tela visual e defina os nós",
+          "id": "Siapkan Kanvas Visual dan Tentukan Node Utama"
+        },
+        "text": {
+          "ko": "화이트보드나 스케치북 등 넓은 크기의 작업 영역을 준비합니다. 분석해야 할 복잡한 시스템이나 문제의 구성 요소를 간결한 단어로 정의하고 도형(동그라미, 네모)으로 그립니다.",
+          "en": "Prepare a large work area such as a whiteboard or sketchpad. Define the components of the complex system or problem you want to analyze in concise words and draw them as shapes (circles, squares).",
+          "ja": "ホワイトボードやスケッチブックなど、広いサイズの作業領域を用意します。分析すべき複雑なシステムや問題の構成要素を簡潔な単語で定義し、図形（丸、四角）で描きます。",
+          "zh": "准备白板或速写本等宽大尺寸的工作区域。用简洁的词汇定义需要分析的复杂系统或问题的组成要素，并画成图形（圆圈、方框）。",
+          "id": "Siapkan area kerja yang luas seperti papan tulis atau buku sketsa. Tentukan komponen dari sistem atau masalah rumit yang ingin Anda analisis dalam kata-kata ringkas dan gambarlah sebagai bentuk (lingkaran, persegi)."
+        }
+      },
+      {
+        "name": {
+          "ko": "관계선 및 흐름의 시각적 연결",
+          "en": "Connect Relations and Flow Visually",
+          "ja": "関係線と流れの視覚的接続",
+          "zh": "关系线及流程的视觉连接",
+          "es": "Conecte las relaciones y el flujo visualmente",
+          "fr": "Relier les relations et le flux visuellement",
+          "de": "Verbinden Sie Beziehungen und Abläufe visuell",
+          "pt": "Conecte as relações e o fluxo visualmente",
+          "id": "Hubungkan Relasi dan Alur secara Visual"
+        },
+        "text": {
+          "ko": "그려진 구성 요소들 사이의 선후 관계, 데이터의 이동 방향, 또는 인과 관계를 화살표나 색상선으로 시각적으로 연결하여 전체 작동 메커니즘의 뼈대를 완성합니다.",
+          "en": "Visually connect the sequence, data direction, or causal relationships between the drawn components using arrows or colored lines to complete the skeleton of the working mechanism.",
+          "ja": "描かれた構成要素間の前後関係、データの移動方向、または因果関係を矢印や色線で視覚的に接続し、全体の作動メカニズムの骨組みを完成させます。",
+          "zh": "用箭头或彩色线将画出的组成要素之间的先后关系、数据移动方向或因果关系视觉化地连接起来，完成整个运作机制的框架。",
+          "id": "Hubungkan hubungan urutan, arah data, atau hubungan kausal antara komponen yang digambar secara visual menggunakan panah atau garis berwarna untuk melengkapi kerangka mekanisme kerja."
+        }
+      },
+      {
+        "name": {
+          "ko": "패턴 감지 및 논리 설계 적용",
+          "en": "Detect Patterns and Apply Logic Design",
+          "ja": "パターンの感知と論理設計の適用",
+          "zh": "模式感知及逻辑设计应用",
+          "es": "Detecte patrones y aplique el diseño lógico",
+          "fr": "Détecter les motifs et appliquer la logique",
+          "de": "Erkennen Sie Muster und wenden Sie das Logikdesign an",
+          "pt": "Detecte padrões e aplique o design lógico",
+          "id": "Deteksi Pola dan Terapkan Desain Logika"
+        },
+        "text": {
+          "ko": "도식화된 다이어그램을 한눈에 조망하며 비어 있는 연산 관계나 불필요한 루프, 논리적 모순 등을 시각적으로 감지하고 수정하여 최종 알고리즘과 비즈니스 로직을 다듬습니다.",
+          "en": "View the mapped diagram at a glance to visually detect and correct empty operation connections, redundant loops, or logical contradictions, refining the final algorithm and business logic.",
+          "ja": "図式化されたダイアグラムを一望しながら、欠けている演算関係や不要なループ、論理的矛盾などを視覚的に感知して修正し、最終的なアルゴリズムとビジネスロジックを磨き上げます。",
+          "zh": "一目了然地观察图示化的图表，视觉化地感知并修正遗漏的运算关系、不必要的循环或逻辑矛盾，从而完善最终的算法和业务逻辑。",
+          "id": "Lihat diagram yang dipetakan secara sekilas untuk mendeteksi dan memperbaiki hubungan operasi yang kosong, loop yang berlebihan, atau kontradiksi logis secara visual, menyempurnakan algoritma akhir dan logika bisnis."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "마인드맵과는 어떤 차이가 있나요?",
+          "en": "How is it different from mind mapping?",
+          "ja": "マインドマップとはどのような違いがありますか？",
+          "zh": "与思维导图有什么区别？",
+          "es": "¿En qué se diferencia de un mapa mental?",
+          "fr": "Quelle est la différence avec une carte mentale ?",
+          "de": "Wie unterscheidet es sich von Mindmapping?",
+          "pt": "Como se diferencia de um mapa mental?",
+          "id": "Apa bedanya dengan mind mapping?"
+        },
+        "answer": {
+          "ko": "마인드맵은 단어의 연상 작용을 중심으로 사방으로 확장하는 구조인 반면, 러브레이스의 시각 도식화는 시스템 내부의 선후 관계, 제어 흐름(Loop 및 조건), 상호작용 등 '작동 메커니즘의 구조적 원리'를 다이어그램으로 설계하는 과정입니다.",
+          "en": "While mind mapping centers on the association of words expanding in all directions, Lovelace's visual mapping is a process of designing the 'structural principles of operational mechanisms' such as sequence, control flow (loops and conditions), and interactions in a system.",
+          "ja": "マインドマップは単語の連想作用を中心に四方に拡張する構造であるのに対し、ラブレスの視覚的図式化はシステム内部の前後関係、制御フロー（ループおよび条件）、相互作用など「作動メカニズムの構造的原理」をダイアグラムで設計するプロセスです。",
+          "zh": "思维导图是以词汇的联想作用为中心向四周扩张的结构，而洛夫莱斯的视觉图示化则是通过图表设计系统内部的先后关系、控制流（循环及条件）、相互作用等“运作机制的结构性原理”的过程。",
+          "id": "Meskipun mind mapping berpusat pada asosiasi kata-kata yang meluas ke segala arah, pemetaan visual Lovelace adalah proses merancang 'prinsip-prinsip struktural mekanisme operasional' seperti urutan, alur kontrol (loop dan kondisi), dan interaksi dalam suatu sistem."
+        }
+      },
+      {
+        "question": {
+          "ko": "복잡한 프로그램 도구(UML, 피그마 등)를 꼭 써야 하나요?",
+          "en": "Do I have to use complex software tools (UML, Figma, etc.)?",
+          "ja": "複雑なプログラムツール（UML、Figmaなど）を必ず使うべきですか？",
+          "zh": "一定要用复杂的软件工具（UML、Figma等）吗？",
+          "es": "¿Tengo que usar herramientas de software complejas (UML, Figma, etc.)?",
+          "fr": "Dois-je utiliser des outils logiciels complexes (UML, Figma, etc.) ?",
+          "de": "Muss ich komplexe Software-Tools (UML, Figma usw.) verwenden?",
+          "pt": "Preciso usar ferramentas de software complexas (UML, Figma, etc.)?",
+          "id": "Apakah saya harus menggunakan alat perangkat lunak yang rumit (UML, Figma, dll.)?"
+        },
+        "answer": {
+          "ko": "아닙니다. 프로그램 사용법을 익히느라 뇌의 인지 자원을 낭비하기보다, 종이와 다색 볼펜을 들고 손으로 슥슥 그리는 방식이 뇌의 이중 부호화를 활성화하는 데 훨씬 효과적입니다. 날것의 화이트보드 낙서가 최선의 도구입니다.",
+          "en": "No. Rather than wasting the brain's cognitive resources learning software, picking up a pen and paper to draw by hand is far more effective in activating the brain's dual-coding. A raw whiteboard scribble is the best tool.",
+          "ja": "いいえ。ツールの使い方を覚えるために脳の認知リソースを浪費するよりも、紙と多色ボールペンを持って手でさらさらと描く方法が、脳の二重符号化を活性化する上ではるかに効果的です。生のホワイトボードへの落書きが最良のツールです。",
+          "zh": "不需要。与其为了学习软件使用方法而浪费大脑的认知资源，不如拿纸和多色圆珠笔用手随手画画的方式，在激活大脑双重编码方面要有效得多。原始的白板涂鸦就是最好的工具。",
+          "id": "Tidak. Daripada membuang-buang sumber daya kognitif otak untuk mempelajari perangkat lunak, mengambil pena dan kertas untuk menggambar dengan tangan jauh lebih efektif dalam mengaktifkan pengodean ganda otak. Coretan papan tulis biasa adalah alat terbaik."
+        }
+      }
+    ],
+    "pubDate": "2026-02-01",
+    "updatedDate": "2026-02-01"
+  }
+}

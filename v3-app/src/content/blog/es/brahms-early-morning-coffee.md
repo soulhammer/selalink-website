@@ -47,7 +47,7 @@ Hoy, BuildSelf presenta los efectos científicos de estimulación cerebral de la
 
 La cafeína del café matutino se une a los receptores de adenosina del organismo, bloqueando las señales de somnolencia y estimulando la noradrenalina y la dopamina. Si el ejercicio aeróbico se realiza justo después de activar el cerebro, el rendimiento cognitivo se multiplica.
 
-Caminar estimula la corteza motora del cerebro y promueve la liberación del factor neurotrófico derivado del cerebro (BDNF). El BDNF protege las células y ayuda a formar nuevas sinapsis, elevando la neuroplasticidad. Así, la rutina de Brahms combinaba el estímulo de la cafeína con el oxígeno de la caminata, potenciando al máximo la 'memoria de trabajo' y el pensamiento creativo.
+Caminar estimula la corteza motora del cerebro y promueve la liberación del factor neurotrófico derivado del cerebro (BDNF). El BDNF protege las células y ayuda a formar nuevas sinapsis, elevando la neuroplasticidad. Así, la rutina de Brahms combinaba el estímulo de la cafeína con el oxígeno de la caminata, potenciando al máximo la <strong>'memoria de trabajo'</strong> y el pensamiento creativo.
 
 ---
 

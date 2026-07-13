@@ -43,7 +43,7 @@ Chaque matin, après un copieux petit-déjeuner, au lieu de se diriger vers son 
 
 Lorsque nous sommes allongés horizontalement ou inclinés, la charge cardiaque pour pomper le sang est considérablement réduite par rapport à la station debout ou assise. Cela augmente le flux sanguin cérébral, stabilise le rythme cardiaque et stimule fortement le système nerveux parasympatique. Lorsque le corps est détendu, le cerveau supprime la sécrétion de cortisol.
 
-Le cerveau détendu échappe à l'état de tension (ondes bêta) et émet abondamment des 'ondes alpha' et des 'ondes thêta' qui favorisent la créativité et la réflexion profonde. Psychologiquement, cet état brise le cadre rigide de la pensée logique et favorise la 'pensée associative (Associative Thinking)', qui combine des idées apparemment sans rapport. Le secret de Mark Twain pour écrire au lit avec fluidité réside dans cette combinaison de relaxation physique et de flux sanguin cérébral.
+Le cerveau détendu échappe à l'état de tension (ondes bêta) et émet abondamment des <strong>'ondes alpha'</strong> et des <strong>'ondes thêta'</strong> qui favorisent la créativité et la réflexion profonde. Psychologiquement, cet état brise le cadre rigide de la pensée logique et favorise la <strong>'pensée associative (Associative Thinking)'</strong>, qui combine des idées apparemment sans rapport. Le secret de Mark Twain pour écrire au lit avec fluidité réside dans cette combinaison de relaxation physique et de flux sanguin cérébral.
 
 ---
 
@@ -105,4 +105,4 @@ Le cerveau détendu échappe à l'état de tension (ondes bêta) et émet abonda
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

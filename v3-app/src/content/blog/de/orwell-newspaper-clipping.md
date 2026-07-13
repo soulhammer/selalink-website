@@ -45,9 +45,9 @@ Heute erklärt BuildSelf die kognitiven Mechanismen von Orwells Scheren-Routine 
 
 ## 1. Neurowissenschaft der Codierung und Strukturierung
 
-Das bloße Überfliegen digitaler Nachrichten verbleibt nur kurz im Kurzzeitgedächtnis und verfliegt meist schnell. Dagegen fördert das bewusste Auswählen, Ausschneiden (physisch oder digital) und Kategorisieren eine 'tiefere Codierung (Deep Encoding)' im Gehirn.
+Das bloße Überfliegen digitaler Nachrichten verbleibt nur kurz im Kurzzeitgedächtnis und verfliegt meist schnell. Dagegen fördert das bewusste Auswählen, Ausschneiden (physisch oder digital) und Kategorisieren eine <strong>'tiefere Codierung (Deep Encoding)'</strong> im Gehirn.
 
-Diese Strukturierung verankert Wissen im Langzeitgedächtnis der Großhirnrinde und baut ein 'Strukturnetzwerk (Schema)' mit vorhandenem Wissen auf. Ein so trainiertes Gehirn erfasst neue Zusammenhänge schneller, erkennt den Kern von Problemen und kann Hintergrundwissen bei Entscheidungen oder beim Schreiben optimal abrufen.
+Diese Strukturierung verankert Wissen im Langzeitgedächtnis der Großhirnrinde und baut ein <strong>'Strukturnetzwerk (Schema)'</strong> mit vorhandenem Wissen auf. Ein so trainiertes Gehirn erfasst neue Zusammenhänge schneller, erkennt den Kern von Problemen und kann Hintergrundwissen bei Entscheidungen oder beim Schreiben optimal abrufen.
 
 ---
 

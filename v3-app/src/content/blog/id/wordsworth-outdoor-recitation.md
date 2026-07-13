@@ -45,9 +45,9 @@ Hari ini, BuildSelf membahas prinsip kerja neurologis dari rutinitas 'membaca sa
 
 ## 1. Sinergi Berjalan Ritmis dan Putaran Artikulasi Auditori
 
-Sinyal gerakan teratur yang dihasilkan oleh kontak telapak kaki saat berjalan mengaktifkan 'otak kecil' (Cerebellum), yang merupakan putaran motorik otak. Sinyal ritme motorik otak kecil ini segera menyinkronkan dengan area bahasa korteks serebral.
+Sinyal gerakan teratur yang dihasilkan oleh kontak telapak kaki saat berjalan mengaktifkan <strong>'otak kecil'</strong> (Cerebellum), yang merupakan putaran motorik otak. Sinyal ritme motorik otak kecil ini segera menyinkronkan dengan area bahasa korteks serebral.
 
-Selain itu, tindakan melafalkan mengaktifkan 'putaran auditori/fonologis' otak. Ketika suara sendiri diterima sebagai umpan balik waktu nyata melalui telinga, otak mendeteksi ketidakwajaran konteks. Wordsworth memanfaatkan area gabungan pendengaran-motorik otak untuk menulis puisi.
+Selain itu, tindakan melafalkan mengaktifkan <strong>'putaran auditori/fonologis'</strong> otak. Ketika suara sendiri diterima sebagai umpan balik waktu nyata melalui telinga, otak mendeteksi ketidakwajaran konteks. Wordsworth memanfaatkan area gabungan pendengaran-motorik otak untuk menulis puisi.
 
 ---
 

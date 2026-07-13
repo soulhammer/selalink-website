@@ -43,7 +43,7 @@ Cada mañana, después de un desayuno abundante, en lugar de ir a su estudio, Tw
 
 Cuando nos acostamos horizontalmente o nos reclinamos, la carga del corazón para bombear sangre por el cuerpo se reduce significativamente en comparación con estar de pie o sentado. Esto aumenta el flujo sanguíneo cerebral, estabiliza el ritmo cardíaco y estimula fuertemente el sistema nervioso parasimpático. Cuando el cuerpo está completamente relajado, el cerebro suprime la secreción de cortisol.
 
-El cerebro relajado escapa del estado de tensión (ondas beta) y emite abundantemente 'ondas alfa' y 'ondas theta' que inducen la creatividad y la visión profunda. Psicológicamente, este estado rompe el rígido marco del pensamiento lógico y promueve el 'pensamiento asociativo (Associative Thinking)', que combina con flexibilidad ideas que parecían no tener relación. El secreto de Mark Twain para escribir en la cama con fluidez y viveza radica en esta combinación de relajación física y flujo sanguíneo cerebral.
+El cerebro relajado escapa del estado de tensión (ondas beta) y emite abundantemente <strong>'ondas alfa'</strong> y <strong>'ondas theta'</strong> que inducen la creatividad y la visión profunda. Psicológicamente, este estado rompe el rígido marco del pensamiento lógico y promueve el <strong>'pensamiento asociativo (Associative Thinking)'</strong>, que combina con flexibilidad ideas que parecían no tener relación. El secreto de Mark Twain para escribir en la cama con fluidez y viveza radica en esta combinación de relajación física y flujo sanguíneo cerebral.
 
 ---
 
@@ -105,4 +105,4 @@ El cerebro relajado escapa del estado de tensión (ondas beta) y emite abundante
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

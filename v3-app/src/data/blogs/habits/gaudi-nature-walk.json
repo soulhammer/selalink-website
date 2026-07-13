@@ -1,0 +1,208 @@
+{
+  "gaudi-nature-walk": {
+    "title": {
+      "ko": "바르셀로나를 4km 걸은 거장? 안토니 가우디의 창의적 산책법",
+      "en": "The Master Who Walked 4km in Barcelona? Antoni Gaudí's Creative Walking Routine",
+      "ja": "バルセロナを4km歩いた巨匠？アントニ・ガウディの創造的散歩法",
+      "zh": "在巴塞罗那步行4公里的巨匠？安东尼·高迪的创造性散步法",
+      "es": "¿El maestro que caminaba 4 km en Barcelona? La rutina de caminata creativa de Antoni Gaudí",
+      "fr": "Le maître qui marchait 4 km à Barcelone ? La routine de marche créative d'Antoni Gaudí",
+      "de": "Der Meister, der 4 km durch Barcelona ging? Antoni Gaudís kreative Spaziergangsroutine",
+      "pt": "O mestre que caminhava 4 km em Barcelona? A rotina de caminhada criativa de Antoni Gaudí",
+      "id": "Sang Master yang Berjalan 4km di Barcelona? Rutinitas Jalan Kaki Kreatif Antoni Gaudí"
+    },
+    "description": {
+      "ko": "천재 건축가 안토니 가우디. 매일 4km씩 바르셀로나를 걸으며 자연의 구조를 건축물로 이식했던 그의 산책 루틴과 걷기를 통한 아이디어 발상법을 소개합니다.",
+      "en": "Genius architect Antoni Gaudí. Introduce his routine of walking 4km a day in Barcelona to implant natural structures into architecture, and how walking sparks ideas.",
+      "ja": "天才建築家アントニ・ガウディ。毎日4kmずつバルセロナを歩き、自然の構造を建築物に移植した彼の散歩ルーティンと、歩くことによるアイデア発想法を紹介します。",
+      "zh": "天才建筑师安东尼·高迪。介绍他每天在巴塞罗那步行4公里以将自然结构移植到建筑中的散步常规，以及行走如何激发创意灵感。",
+      "es": "El genio de la arquitectura Antoni Gaudí. Conozca su rutina de caminar 4 km al día por Barcelona para plasmar estructuras naturales en sus obras y cómo caminar despierta ideas.",
+      "fr": "Le génie de l'architecture Antoni Gaudí. Découvrez sa routine consistant à marcher 4 km par jour à Barcelone pour transposer les structures de la nature dans ses œuvres.",
+      "de": "Das Architekturgenie Antoni Gaudí. Erfahren Sie mehr über seine Routine, täglich 4 km durch Barcelona zu gehen, um natürliche Strukturen in Gebäude zu übertragen.",
+      "pt": "O gênio da arquitetura Antoni Gaudí. Conheça sua rotina de caminhar 4 km por dia em Barcelona para plasmar estruturas naturais em suas obras e como caminhar desperta ideias.",
+      "id": "Arsitek genius Antoni Gaudí. Kenalkan rutinitasnya berjalan kaki 4 km sehari di Barcelona untuk menerapkan struktur alami ke dalam arsitektur, dan bagaimana berjalan memicu ide."
+    },
+    "authority": {
+      "ko": "가우디 전기 'Gaudí: A Biography' 및 스탠퍼드 대학교 인지과학 산책 연구",
+      "en": "Gaudí's Biography 'Gaudí: A Biography' & Stanford University Cognitive Science Walking Studies",
+      "ja": "ガウディ伝記「Gaudí: A Biography」およびスタンフォード大学の認知科学散歩研究",
+      "zh": "高迪传记《Gaudí: A Biography》与斯坦福大学认知科学步行研究",
+      "es": "Biografía de Gaudí 'Gaudí: A Biography' y estudios de la Universidad de Stanford sobre caminar",
+      "fr": "Biographie de Gaudí 'Gaudí: A Biography' & études de l'Université de Stanford sur la marche",
+      "de": "Gaudís Biografie 'Gaudí: A Biography' & Studien der Stanford University über das Gehen",
+      "pt": "Biografia de Gaudí 'Gaudí: A Biography' & estudos da Universidade de Stanford sobre caminhadas",
+      "id": "Biografi Gaudí 'Gaudí: A Biography' & Studi Universitas Stanford tentang Jalan Kaki"
+    },
+    "intro": {
+      "ko": "나무의 기둥을 닮은 성당의 열주, 파도치듯 굽이치는 아파트의 곡선 외벽. 자연의 형상과 유기적 구조를 건축물에 그대로 이식하여 인류 역사상 가장 독창적인 건축 양식을 창조한 스페인의 천재 건축가, 안토니 가우디. 사그라다 파밀리아 대성당 등 100년을 넘는 세월 동안 사람들을 경탄하게 만든 그의 입체적이고 경이로운 영감들은 과연 어디서 탄생했을까요? ⛪\n\n가우디는 평생 매일 오후 바르셀로나 거리를 최소 4km씩 걷는 매우 완고한 산책 습관을 지니고 있었습니다. 그는 산책하는 동안 가로수의 비틀림, 구름의 이동 구조, 나뭇잎의 잎맥, 심지어 곤충의 날개와 동물의 골격 같은 유기적 형태들을 면밀하게 관찰했습니다. 걸으면서 자극받는 발바닥의 촉감과 전신의 혈류, 그리고 눈앞에 펼쳐지는 비정형의 자연 구조물들이 머릿속에서 화학적으로 융합되어 가우디만의 독특한 곡선 건축 공학의 뼈대가 형성되었습니다.\n\n오늘 BuildSelf에서는 가우디의 '4km 유기적 산책' 루틴이 지닌 과학적 원리와 현대인들이 창의적 아이디어 발상을 위해 이를 어떻게 응용할 수 있는지 알아봅니다.",
+      "en": "Columns mimicking tree trunks, curved apartment facades like rolling waves. Antoni Gaudí, the Spanish genius architect who created the most original architecture in human history by transplanting nature's shapes and organic structures into buildings. Where did his multidimensional and marvelous inspirations, which have astonished people for over a century, come from? ⛪\n\nGaudí maintained a very strict walking habit of walking at least 4km through the streets of Barcelona every afternoon. During his walks, he closely observed natural patterns such as the twisting of street trees, the movement of clouds, the veins of leaves, and even insect wings and animal skeletons. The physical stimulation of walking, combined with the organic structures unfolding in front of him, formed the backbone of Gaudí's unique curved architectural engineering.\n\nToday, BuildSelf introduces the scientific principles behind Gaudí's '4km organic walk' routine and how modern people can apply it to generate creative ideas.",
+      "ja": "木の幹に似た聖堂の柱、波打つアパートの曲線的な外壁。自然の形状と有機的な構造をそのまま建築物に移植し、人類の歴史において最も独創的な建築様式を創造したスペインの天才建築家、アントニ・ガウディ。サグラダ・ファミリア大聖堂など、100年を超える歳月の間、人々を驚嘆させてきた彼の立体的で驚異的なインスピレーションは、一体どこから生まれたのでしょうか？ ⛪\n\nガウディは生涯、毎日午後バルセロナの通りを少なくとも4km歩くという非常に厳格な散歩の習慣を持っていました。彼は散歩中、街路樹のねじれ、雲の移動構造、木の葉の葉脈、さらには昆虫の羽や動物の骨格のような有機的な形態を綿密に観察しました。歩きながら刺激される足裏の触感と全身の血流、そして目の前に広がる非定型の自然構造物が頭の中で化学的に融合し、ガウディならではの独特な曲線建築工学の骨組みが形成されました。\n\n本日、BuildSelfではガウディの「4km有機的散歩」ルーティンが持つ科学的原理と、現代人が創造的なアイデア発想のためにこれをどのように応用できるかを紹介します。",
+      "zh": "形似树干的教堂柱子，如波浪般弯曲的公寓曲线外墙。将自然的形状和有机结构原封不动地移植到建筑中，创造了人类历史上最独特建筑风格的西班牙天才建筑师安东尼·高迪。圣家堂等一百多年来让世人惊叹的立体而奇妙的灵感，究竟源于何处？ ⛪\n\n高迪一生都坚持每天下午在巴塞罗那街道上步行至少4公里的严苛散步习惯。在散步期间，他仔细观察了行道树的扭曲、云的移动结构、叶脉，甚至是昆虫的翅膀和动物的骨骼等有机形态。行走时受刺激的脚底触觉、全身血流以及眼前展现的非定型自然结构在脑海中产生化学融合，形成了高迪特有的曲线建筑工程框架。\n\n今天，BuildSelf 向您介绍高迪“4公里有机散步”常规背后的科学原理，以及现代人为了激发创意灵感如何应用它。"
+    },
+    "whyTitle": {
+      "ko": "뇌의 해마와 창의성을 활성화하는 '신체적 산책'",
+      "en": "'Physical Walking' to Activate Brain's Hippocampus and Creativity",
+      "ja": "脳の海馬と創造性を活性化する「身体的散歩」",
+      "zh": "激活大脑海马体和创造力的“身体散步”",
+      "es": "'Caminata física' para activar el hipocampo y la creatividad del cerebro",
+      "fr": "La 'marche physique' pour activer l'hippocampe et la créativité du cerveau",
+      "de": "Das 'körperliche Gehen' zur Aktivierung des Hippocampus und der Kreativität",
+      "pt": "'Caminhada física' para ativar o hipocampo e a criatividade do cérebro",
+      "id": "'Jalan Kaki Fisik' untuk Mengaktifkan Hipokampus dan Kreativitas Otak"
+    },
+    "whyDesc": {
+      "ko": "책상 앞에 오래 앉아 하나의 문제에 집착하고 있으면, 뇌의 전두엽은 긴장 상태에 들어가며 인지적 유연성이 급격히 감소합니다. 뇌 회로가 고정되어 동일한 생각만을 반복하는 교착 상태에 도달하게 되는 것입니다. \n\n가우디의 4km 산책 루틴은 뇌에 <strong>'신체적 활성'</strong>과 <strong>'시각적 자극'</strong>을 동시에 부여하여 생각의 정체를 해결하는 가장 자연스러운 뇌 자극법이었습니다. 걷기 운동은 심박수를 높여 뇌의 해마(Hippocampus)와 전두엽에 혈류를 강력히 공급하며 인지 유연성을 증진합니다. 스탠퍼드 대학교의 연구진은 걷는 행동만으로도 창의적 사고 출력이 앉아있을 때보다 평균 60%나 상승한다는 사실을 증명했습니다. 걸으며 마주하는 자연물과 도심의 정형적이지 않은 구조물들은 시각 피질의 다양한 뉴런을 자극해, 뇌 속에 파편화되어 있던 기억들을 새로운 관점으로 유기적으로 조화시키는 놀라운 인지 연결 작용을 수행합니다.",
+      "en": "When sitting at a desk for long hours obsessed with a single problem, the brain's frontal lobe enters a tense state and cognitive flexibility drops sharply. The brain circuit becomes fixed, reaching a deadlock of repeating the same thoughts.\n\nGaudí's 4km walking routine was the most natural way to stimulate the brain, resolving mental blocks by providing both <strong>'physical activation'</strong> and <strong>'visual stimulation'</strong>. Walking increases the heart rate, supplying strong blood flow to the brain's hippocampus and frontal lobe, enhancing cognitive flexibility. Stanford researchers proved that walking alone increases creative output by an average of 60% compared to sitting. The natural objects and non-geometric structures encountered while walking stimulate various neurons in the visual cortex, organically connecting fragmented memories from new perspectives.",
+      "ja": "机の前に長時間座って一つの問題に執着していると、脳の前頭葉は緊張状態に入り、認知的柔軟性が急激に低下します。脳の回路が固定され、同じ考えだけを繰り返す膠着状態に達するのです。\n\nガウディの4km散歩ルーティンは、脳に<strong>「身体的活性」</strong>と<strong>「視覚的刺激」</strong>を同時に与え、思考の停滞を解消する最も自然な脳の刺激法でした。ウォーキングは心拍数を上げ、脳の海馬（Hippocampus）と前頭葉に血流を強力に供給し、認知の柔軟性を高めます。スタンフォード大学の研究チームは、歩くという行動だけで、創造的思考の出力が座っている時よりも平均60％も上昇するという事実を証明しました。歩きながら目にする自然物や都市の定型的でない構造物は、視覚野の多様なニューロンを刺激し、脳内に断片化されていた記憶を新しい観点で有機的に調和させる驚くべき認知連結作用を行います。",
+      "zh": "如果长时间坐在书桌前执着于同一个问题，大脑的前额叶就会进入紧张状态，认知灵活性急剧下降。脑回路被固定，达到反复出现相同想法的僵局。\n\n高迪的4公里散步常规同时赋予大脑<strong>“身体激活”</strong>和<strong>“视觉刺激”</strong>，是解决思维停滞最自然的脑部刺激法。步行运动可以提高心率，向大脑的海马体 (Hippocampus) 和前额叶强力输送血流，提高认知灵活性。斯坦福大学的研究小组证明，仅凭行走行为，创造性思维输出就比坐着时平均提高60%。行走时遇到的自然物和城市里非规则的结构会刺激视觉皮层的各种神经元，进行将大脑中零散记忆从新角度有机协调起来的惊人认知连接作用。"
+    },
+    "cautionTitle": {
+      "ko": "움직이는 발걸음이 생각의 경직을 풀어줍니다",
+      "en": "Moving Steps Unlock Rigidity of Thoughts",
+      "ja": "動く足元が思考の硬直をほぐします",
+      "zh": "移动的步伐能缓解思维的僵化",
+      "es": "Los pasos en movimiento liberan la rigidez del pensamiento",
+      "fr": "Les pas en mouvement libèrent la rigidité de la pensée",
+      "de": "Schritte in Bewegung lösen die Starrheit des Denkens",
+      "pt": "Os passos em movimento liberam a rigidez do pensamento",
+      "id": "Langkah Kaki yang Bergerak Membebaskan Kekakuan Pikiran"
+    },
+    "cautionDesc": {
+      "ko": "천재 건축가 가우디에게 걷는 행위는 단순한 체력 단련이 아니라, 자연의 신비를 스캔하고 자신의 뇌 속 기하학 공식을 유기적으로 이식하는 정신적 설계의 과정이었습니다. 풀리지 않는 기획과 난해한 문제로 생각이 가로막혔을 때는 즉시 자리를 털고 일어나 밖으로 나가 발걸음을 내딛으십시오. 뇌가 움직이기 시작할 것입니다.",
+      "en": "For genius architect Gaudí, walking was not mere physical exercise, but a process of mental design to scan the mysteries of nature and organically implant geometric formulas into his brain. When blocked by unresolved plans or difficult problems, get up immediately, step outside, and start walking. Your brain will begin to move.",
+      "ja": "天才建築家ガウディにとって、歩くという行為は単なる体力鍛錬ではなく、自然の神秘をスキャンし、自身の脳内の幾何学公式を有機的に移植する精神的な設計のプロセスでした。解決しない企画や難解な問題で行き詰まった時は、すぐに席を立ち、外に出て一歩を踏み出してください。脳が動き始めるはずです。",
+      "zh": "对于天才建筑师高迪来说，步行运动不仅仅是锻炼身体，更是一个扫描自然奥秘并将自己脑海中的几何公式有机移植过去的精神设计过程。当被无法解决的规划和深奥的问题阻碍思维时，请立即起身走到室外迈出脚步。大脑就会开始运转。",
+      "es": "Para Gaudí, caminar no era solo ejercicio, sino el diseño mental para plasmar el misterio de la naturaleza en fórmulas. Cuando se bloquee con planes difíciles, levántese y camine. Su cerebro se moverá.",
+      "fr": "Pour Gaudí, marcher n'était pas un simple exercice, mais un processus de conception mentale pour transposer le mystère de la nature en formules. Quand vous bloquez sur un plan, levez-vous et marchez. Le cerveau s'activera.",
+      "de": "Für Gaudí war Gehen nicht nur Fitness, sondern die geistige Konstruktion zur Übertragung von Naturgesetzen. Wenn Sie bei schwierigen Plänen feststecken, stehen Sie auf und gehen Sie. Ihr Gehirn wird aktiv.",
+      "pt": "Para Gaudí, caminhar não era apenas exercício, mas o design mental para plasmar o mistério da natureza em fórmulas. Quando se bloquear com planos difíceis, levante-se e caminhe. Seu cérebro se moverá.",
+      "id": "Bagi arsitek genius Gaudí, berjalan bukan sekadar olahraga fisik, melainkan proses desain mental untuk memindai misteri alam dan menerapkan rumus geometris ke otaknya secara organik. Ketika buntu oleh rencana sulit, segeralah bangkit, melangkah ke luar, dan mulailah berjalan. Otak Anda akan mulai bergerak."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "산책을 위한 환경 및 목표 경로 설정",
+          "en": "Set Up Walking Environment and Target Route",
+          "ja": "散歩のための環境と目標ルートの設定",
+          "zh": "设定散步环境及目标路线",
+          "es": "Prepare el entorno y la ruta de caminata",
+          "fr": "Préparer l'environnement et le trajet de marche",
+          "de": "Bereiten Sie die Umgebung und Route vor",
+          "pt": "Prepare o ambiente e a rota de caminhada",
+          "id": "Atur Lingkungan dan Rute Jalan Kaki"
+        },
+        "text": {
+          "ko": "스마트폰을 완전히 차단하거나 주머니 깊숙이 넣고, 산책을 위한 편안한 복장과 운동화를 신습니다. 약 30분에서 40분 동안 가볍게 걸을 수 있는 녹지나 일정한 경로를 설정합니다.",
+          "en": "Turn off your smartphone or put it deep in your pocket, and put on comfortable walking clothes and running shoes. Set a green area or a specific path where you can walk lightly for about 30 to 40 minutes.",
+          "ja": "スマートフォンを完全にオフにするか、ポケットの奥深くに入れ、散歩のための快適な服装とスニーカーを着用します。約30分から40分の間、軽く歩くことができる緑地や一定のルートを設定します。",
+          "zh": "将智能手机完全屏蔽或放入深处口袋，穿上适合散步的舒适衣服和运动鞋。设定一个可以轻松步行约30至40分钟的绿地或固定路线。",
+          "es": "Guarde el teléfono en el bolsillo y póngase ropa y zapatillas cómodas. Defina una ruta verde o un trayecto para caminar unos 30 o 40 minutos.",
+          "fr": "Mettez le téléphone dans votre poche, et enfilez des vêtements et baskets confortables. Définissez un trajet vert ou un itinéraire pour marcher 30 à 40 minutes.",
+          "de": "Stecken Sie das Handy in die Tasche und ziehen Sie bequeme Kleidung und Schuhe an. Legen Sie eine grüne Route für einen 30- bis 40-minütigen Gang fest.",
+          "pt": "Guarde o celular no bolso e vista roupas e tênis confortáveis. Defina uma rota verde ou um trajeto para caminhar por cerca de 30 a 40 minutos.",
+          "id": "Simpan ponsel Anda di saku, lalu kenakan pakaian dan sepatu jalan yang nyaman. Tentukan area hijau atau jalur tertentu untuk berjalan santai selama 30 hingga 40 menit."
+        }
+      },
+      {
+        "name": {
+          "ko": "의식적인 유기적 구조 관찰하며 걷기",
+          "en": "Walk While Consciously Observing Organic Structures",
+          "ja": "意識的な有機的構造の観察とウォーキング",
+          "zh": "在有意识观察有机结构的同时行走",
+          "es": "Camine observando estructuras orgánicas",
+          "fr": "Marchez en observant les structures organiques",
+          "de": "Gehen Sie und beobachten Sie organische Strukturen",
+          "pt": "Caminhe observando estruturas orgânicas",
+          "id": "Berjalan Sembari Mengamati Struktur Organik Secara Sadar"
+        },
+        "text": {
+          "ko": "걸음을 내딛으며 주변의 자연물이나 구조물들을 관찰합니다. 나뭇가지가 뻗은 각도, 나뭇잎의 대칭, 구름의 질감, 도심 건물의 유기적 곡선 등 대상의 구조에 가볍게 시선을 던지며 걷습니다.",
+          "en": "Take steps while observing surrounding natural objects or structures. Walk while lightly casting your eyes on the structure of objects, such as the angle at which branches extend, the symmetry of leaves, the texture of clouds, or the organic curves of city buildings.",
+          "ja": "歩みを進めながら、周辺の自然物や構造物を観察します。枝が伸びる角度、木の葉の対称性、雲の質感、都市の建物の有機的な曲線など、対象の構造に軽く視線を向けながら歩きます。",
+          "zh": "迈开步伐，观察周围的自然物或结构。步行时，将目光轻轻投向物体的结构，例如树枝延伸的角度、叶子的对称性、云的质感以及城市建筑的有机曲线。",
+          "es": "Camine dirigiendo la mirada a la estructura de los elementos: ángulos de las ramas, simetría de las hojas, formas de las nubes o curvas orgánicas de edificios.",
+          "fr": "Marchez en portant le regard sur la structure des éléments : angles des branches, symétrie des feuilles, texture des nuages ou courbes des bâtiments.",
+          "de": "Gehen Sie und richten Sie den Blick auf Strukturen: Astgabelungen, Blatt-Symmetrien, Wolkenformen oder organische Gebäudekurven.",
+          "pt": "Caminhe direcionando o olhar para a estrutura dos elementos: ângulos dos galhos, simetria das folhas, formas das nuvens ou curvas orgânicas de prédios.",
+          "id": "Melangkahlah sembari mengamati objek alami atau struktur di sekitar. Berjalanlah sembari mengarahkan pandangan ringan pada struktur objek, seperti sudut dahan, simetri daun, tekstur awan, atau kurva organik bangunan kota."
+        }
+      },
+      {
+        "name": {
+          "ko": "걷기 후의 아이디어 구조화",
+          "en": "Structure Ideas After Walking",
+          "ja": "ウォーキング後のアイデア構造化",
+          "zh": "步行后的创意结构化",
+          "es": "Estructure las ideas después de caminar",
+          "fr": "Structurez vos idées après la marche",
+          "de": "Strukturieren Sie Ideen nach dem Gehen",
+          "pt": "Estruture as ideias depois de caminhar",
+          "id": "Strukturkan Ide Setelah Berjalan Kaki"
+        },
+        "text": {
+          "ko": "산책을 마친 직후, 뇌에 충분한 혈류와 산소가 공급되어 뇌가 가장 활성화된 상태일 때 해결하고자 하던 기획안이나 생각을 꺼내어 노트에 구조화하며 생각을 구체화합니다.",
+          "en": "Immediately after the walking, when the brain is most active due to sufficient blood flow and oxygen supply, bring out the plan or thoughts you wanted to solve and structure them in a note to materialize them.",
+          "ja": "散歩を終えた直後、脳に十分な血流と酸素が供給され、脳が最も活性化された状態のときに、解決したかった企画案や思考を取り出してノートに構造化し、考えを具体化します。",
+          "zh": "散步结束后，在大脑供血和供氧充足、大脑最活跃的状态下，拿出想要解决的规划案或想法，在笔记本上进行结构化整理，使其具体化。",
+          "es": "Inmediatamente después de caminar, cuando el cerebro está más activo debido al flujo de oxígeno, anote y estructure las ideas para materializarlas.",
+          "fr": "Juste après la marche, lorsque le cerveau est le plus actif grâce à l'oxygénation, notez et structurez vos idées pour les concrétiser.",
+          "de": "Direkt nach dem Gehen, wenn das Gehirn durch die Sauerstoffzufuhr am aktivsten ist, strukturieren Sie die ungelösten Pläne in Notizen, um sie zu konkretisieren.",
+          "pt": "Imediatamente após caminhar, quando o cérebro está mais ativo devido ao fluxo de oxigênio, anote e estruture as ideias para materializá-las.",
+          "id": "Segera setelah berjalan kaki, saat otak paling aktif karena suplai oksigen dan aliran darah yang cukup, keluarkan rencana atau pikiran yang ingin Anda selesaikan dan strukturkan dalam catatan untuk merealisasikannya."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "반드시 자연이 있는 흙길이나 공원을 걸어야 효과가 있나요?",
+          "en": "Do I have to walk on a dirt path or in a park with nature to get the effect?",
+          "ja": "必ず自然のある土の道や公園を歩かなければ効果はありませんか？",
+          "zh": "必须走在有自然气息的泥土路或公园里才有效果吗？",
+          "es": "¿Es necesario caminar por senderos naturales o parques?",
+          "fr": "Est-il nécessaire de marcher sur des sentiers naturels ou dans des parcs ?",
+          "de": "Ist es notwendig, auf Naturpfaden oder in Parks zu gehen?",
+          "pt": "É necessário caminhar por trilhas naturais ou parques?",
+          "id": "Apakah saya harus berjalan di jalur tanah atau di taman alam untuk mendapatkan efeknya?"
+        },
+        "answer": {
+          "ko": "자연 경관이 스트레스를 줄이고 주의력을 회복하는 데 가장 효과적인 것은 사실입니다. 하지만 도심의 비정형적인 골목길이나 건축물들을 보며 걷는 것 역시 뇌의 시각 자극 피질을 다양하게 깨우기 때문에 충분한 대안이 됩니다.",
+          "en": "It is true that natural scenery is most effective for reducing stress and restoring attention. However, walking while looking at atypical alleyways or buildings in the city is also a sufficient alternative because it awakens various visual stimulation areas of the brain.",
+          "ja": "自然の景観がストレスを軽減し、注意力を回復するのに最も効果的であることは事実です。しかし、都市の非定型的な路地や建築物を見ながら歩くことも、脳の視覚刺激野を多様に呼び覚ますため、十分な代替案になります。",
+          "zh": "自然景观对于减轻压力和恢复注意力最有效，这确实是事实。但是，一边看着城市中非规则的胡同或建筑一边行走，也同样能多种地激活大脑的视觉刺激皮层，因此可以作为充分的替代方案。",
+          "es": "Es cierto que los paisajes naturales son mejores para reducir el estrés. Sin embargo, caminar observando callejones o edificios urbanos también es útil porque activa las áreas visuales del cerebro.",
+          "fr": "Il est vrai que les paysages naturels sont préférables pour réduire le stress. Cependant, marcher en observant des ruelles ou des bâtiments urbains est également utile en activant les zones visuelles du cerveau.",
+          "de": "Naturlandschaften bauen Stress am besten ab. Das Gehen in städtischen Gassen oder das Betrachten von Gebäuden ist jedoch ebenfalls nützlich, da es die visuellen Gehirnbereiche aktiviert.",
+          "pt": "É verdade que as paisagens naturais são melhores para reduzir o estresse. Contudo, caminhar observando becos ou prédios urbanos também é útil porque ativa as áreas visuais do cérebro.",
+          "id": "Memang benar bahwa pemandangan alam paling efektif untuk mengurangi stres dan memulihkan perhatian. Namun, berjalan sembari melihat gang-gang atau bangunan perkotaan yang tidak beraturan juga merupakan alternatif yang cukup karena dapat memicu berbagai area stimulasi visual otak."
+        }
+      },
+      {
+        "question": {
+          "ko": "빠르게 달리는 조깅이나 러닝머신으로 대체할 수 있나요?",
+          "en": "Can I replace it with fast jogging or a treadmill?",
+          "ja": "速く走るジョギングやランニングマシーンで代替できますか？",
+          "zh": "可以用快速慢跑或跑步机代替吗？",
+          "es": "¿Se puede sustituir por trote rápido o cinta de correr?",
+          "fr": "Peut-on remplacer par un jogging rapide ou un tapis de course ?",
+          "de": "Kann ich es durch schnelles Joggen oder ein Laufband ersetzen?",
+          "pt": "Pode ser substituído por corrida rápida ou esteira?",
+          "id": "Bisakah saya menggantinya dengan joging cepat atau treadmill?"
+        },
+        "answer": {
+          "ko": "격렬한 러닝머신 운동은 신체 활성화에는 좋으나 뇌가 주변 풍경을 세심하게 관찰하고 사색할 여유를 주지 못합니다. 뇌 리셋과 창의력 발상을 유도하기 위해서는 일정한 속도로 주변을 탐색하며 걷는 '느린 산책'이 최적입니다.",
+          "en": "Intense treadmill exercise is good for physical activation, but it does not give the brain room to closely observe and contemplate the surrounding scenery. To induce brain reset and creative thoughts, a 'slow walk' exploring the surroundings at a steady pace is optimal.",
+          "ja": "激しいランニングマシーンでの運動は、身体の活性化には良いですが、脳が周囲の風景を細かく観察し、思索する余裕を与えません。脳のリセットと創造的な発想を誘導するためには、一定の速度で周囲を探索しながら歩く「ゆっくりとした散歩」が最適です。",
+          "zh": "剧烈的跑步机运动虽然有利于激活身体，但无法给大脑提供仔细观察周围风景并进行思考的余裕。为了引导大脑重置和激发创意灵感，以固定速度边探索周围边行走的“慢速散步”是最佳选择。",
+          "es": "La cinta de correr activa el cuerpo, pero no da tiempo para observar la calle. Para reiniciar el cerebro y fomentar la creatividad, es óptimo un paseo lento explorando el entorno.",
+          "fr": "Le tapis de course active le corps, mais ne laisse pas le temps d'observer. Pour réinitialiser le cerveau et stimuler la créativité, une marche lente en explorant l'environnement est idéale.",
+          "de": "Ein Laufband aktiviert den Körper, lässt aber keine Zeit für Beobachtungen. Zur Gehirnerholung und Kreativitätsförderung ist ein langsamer Spaziergang im Freien ideal.",
+          "pt": "A esteira ativa o corpo, mas não dá tempo para observar. Para reiniciar o cérebro e fomentar a criatividade, um passeio lento explorando o entorno é ideal.",
+          "id": "Latihan treadmill yang intens bagus untuk aktivasi fisik, tetapi tidak memberi otak ruang untuk mengamati lingkungan sekitar dan merenung dengan cermat. Untuk memicu reset otak dan pemikiran kreatif, berjalan santai dengan kecepatan konstan sembari menjelajahi sekitar adalah hal yang optimal."
+        }
+      }
+    ],
+    "pubDate": "2026-04-13",
+    "updatedDate": "2026-04-13"
+  }
+}

@@ -47,7 +47,7 @@ Today, BuildSelf analyzes the cognitive connection principles of the 'indexing r
 
 The brain's memory structure is not an independent box but an 'associative memory' network in which related information is intertwined like a net. John Locke's index recording method is like artificially arranging organic associative links from the encoding stage when the brain accepts information as memory.
 
-The process of fixing (tagging) information into pre-committed categories instead of randomly scattering it narrows the 'semantic distance' between information. Knowledge organized this way is not isolated in the brain but remains in an active standby state where it can connect at any time, dramatically reducing the search load on the frontal lobe cortex and helping recall it in 1 second when needed.
+The process of fixing (tagging) information into pre-committed categories instead of randomly scattering it narrows the <strong>'semantic distance'</strong> between information. Knowledge organized this way is not isolated in the brain but remains in an active standby state where it can connect at any time, dramatically reducing the search load on the frontal lobe cortex and helping recall it in 1 second when needed.
 
 ---
 

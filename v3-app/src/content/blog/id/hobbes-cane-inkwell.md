@@ -47,7 +47,7 @@ Hari ini, BuildSelf membahas mekanisme sains otak dari metode catatan langsung '
 
 Ketika otak memasuki keadaan berjalan santai, DMN yang mengatur pemikiran kreatif aktif, dan inspirasi tak terduga tiba-tiba muncul. Namun, karena kilatan ini tinggal di buffer jangka pendek dari 'memori kerja', itu sangat tidak stabil. Kecuali dicatat segera, itu hilang dalam 10-15 detik.
 
-Tongkat wadah tinta Hobbes adalah sarana 'eksternalisasi kognitif' terbaik untuk mengatasi batas memori kerja sesaat ini. Alih-alih memaksa pengetahuan tinggal di area memori terbatas otak, segera membuang ide ke alat fisik (kertas) sepenuhnya mencegah kelebihan beban kognitif di korteks frontal.
+Tongkat wadah tinta Hobbes adalah sarana <strong>'eksternalisasi kognitif'</strong> terbaik untuk mengatasi batas memori kerja sesaat ini. Alih-alih memaksa pengetahuan tinggal di area memori terbatas otak, segera membuang ide ke alat fisik (kertas) sepenuhnya mencegah kelebihan beban kognitif di korteks frontal.
 
 ---
 

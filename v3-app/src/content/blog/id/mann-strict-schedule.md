@@ -47,7 +47,7 @@ Hari ini, BuildSelf menyajikan prinsip-prinsip sains otak dari rutinitas 'pemblo
 
 Energi kognitif korteks prefrontal, yang mengoordinasikan tekad dan pemecahan masalah rumit, paling tinggi di pagi hari, tetapi kapasitasnya sangat terbatas. Distraksi mikro, seperti pesan ponsel dan media sosial, menghabiskan energi otak dengan cepat.
 
-Karena fenomena 'residu perhatian' yang terjadi ketika fokus perhatian berubah, dibutuhkan waktu hingga 20 menit bagi otak yang terganggu untuk kembali ke tingkat fokus semula. Rutinitas penguncian ruang kerja Thomas Mann adalah strategi perlindungan otak yang sangat efisien yang mengisolasi otak dari rangsangan luar.
+Karena fenomena <strong>'residu perhatian'</strong> yang terjadi ketika fokus perhatian berubah, dibutuhkan waktu hingga 20 menit bagi otak yang terganggu untuk kembali ke tingkat fokus semula. Rutinitas penguncian ruang kerja Thomas Mann adalah strategi perlindungan otak yang sangat efisien yang mengisolasi otak dari rangsangan luar.
 
 ---
 

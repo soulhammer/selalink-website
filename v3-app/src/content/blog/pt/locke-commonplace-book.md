@@ -47,7 +47,7 @@ Hoje, o BuildSelf analisa as conexões cognitivas desse 'índice de notas' de Jo
 
 A memória não é um arquivo estático, mas uma rede de 'memoria associativa' onde os dados conectam-se como teia. O método de John Locke insere coordenadas de ligação ao registrar o dado no cérebro.
 
-Guardar informações sob categorias pré-definidas reduz a 'distância semântica (Semantic Distance)' entre conceitos. Isso evita que as ideias fiquem isoladas, mantendo as âncoras ativas e reduzindo a carga de busca do lobo frontal.
+Guardar informações sob categorias pré-definidas reduz a <strong>'distância semântica (Semantic Distance)'</strong> entre conceitos. Isso evita que as ideias fiquem isoladas, mantendo as âncoras ativas e reduzindo a carga de busca do lobo frontal.
 
 ---
 

@@ -45,7 +45,7 @@ Today, BuildSelf looks into the brain science concentration principles hidden in
 
 ## 1. Working Mechanisms of White Noise and Cognitive Script
 
-Scientifically, facing the same physical environment (favorite seat, ordered drink) every day activates a 'cognitive script' that helps transition directly into immersion, reducing unnecessary decision-making when shifting tasks. 
+Scientifically, facing the same physical environment (favorite seat, ordered drink) every day activates a <strong>'cognitive script'</strong> that helps transition directly into immersion, reducing unnecessary decision-making when shifting tasks. 
 
 In addition, the gentle white noise of 50-70 decibels (dB) in cafes prevents the brain's attention network from obsessing over specific stimuli or feeling bored. White noise gently stimulates brainwaves to activate alpha waves that induce creativity and problem-solving, and light dynamic movement around naturally touches the mirror neurons, easing the sense of isolation and maximizing Deep Work efficiency with psychological safety.
 

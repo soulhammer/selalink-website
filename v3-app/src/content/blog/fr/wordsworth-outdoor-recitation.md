@@ -45,9 +45,9 @@ Aujourd'hui, BuildSelf analyse la stimulation neurologique induite par cette rou
 
 ## 1. Synergie de la Marche Rítmique et de la Boucle Auditive
 
-Les impulsions rythmiques de la marche activent fortement le 'cervelet (Cerebellum)', centre de coordination et du tempo. Ce rythme moteur se synchronise avec les aires du langage du cortex, coordonnant la prosodie et le débit de la parole de manière naturelle.
+Les impulsions rythmiques de la marche activent fortement le <strong>'cervelet (Cerebellum)'</strong>, centre de coordination et du tempo. Ce rythme moteur se synchronise avec les aires du langage du cortex, coordonnant la prosodie et le débit de la parole de manière naturelle.
 
-De plus, déclamer ses idées à voix haute (Recitation) active la 'boucle phonologique/auditive' du cerveau. En entendant sa propre voix en feedback instantané, le cerveau capte les failles de style ou de rythme de manière intuitive. Ainsi, plutôt que de fatiguer son hémisphère gauche à écrire, Wordsworth a utilisé cette connexion auditivo-motrice pour forger ses plus beaux vers.
+De plus, déclamer ses idées à voix haute (Recitation) active la <strong>'boucle phonologique/auditive'</strong> du cerveau. En entendant sa propre voix en feedback instantané, le cerveau capte les failles de style ou de rythme de manière intuitive. Ainsi, plutôt que de fatiguer son hémisphère gauche à écrire, Wordsworth a utilisé cette connexion auditivo-motrice pour forger ses plus beaux vers.
 
 ---
 

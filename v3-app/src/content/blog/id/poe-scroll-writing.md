@@ -45,9 +45,9 @@ Hari ini, BuildSelf mempelajari prinsip umpan balik visual yang tersembunyi dala
 
 ## 1. Tunneling Kognitif dan Penghambatan Sirkuit Pemantauan Diri
 
-Mengontrol lebar visual dalam bentuk pita sempit mengurangi pelacakan mata yang tidak perlu, secara dramatis memblokir pemborosan perhatian visual di lobus frontal. Sains otak menyebut kondisi ini sebagai 'tunneling kognitif'.
+Mengontrol lebar visual dalam bentuk pita sempit mengurangi pelacakan mata yang tidak perlu, secara dramatis memblokir pemborosan perhatian visual di lobus frontal. Sains otak menyebut kondisi ini sebagai <strong>'tunneling kognitif'</strong>.
 
-Pada saat yang sama, struktur gulungan fisik menghambat kebiasaan merusak penulis: 'membaca ulang dan mengoreksi kalimat yang baru saja ditulis.' Ketika sirkuit 'pemantauan diri' otak yang mengevaluasi kalimat dipotong, otak dapat mempertahankan aliran pikiran bawah sadar yang organik.
+Pada saat yang sama, struktur gulungan fisik menghambat kebiasaan merusak penulis: 'membaca ulang dan mengoreksi kalimat yang baru saja ditulis.' Ketika sirkuit <strong>'pemantauan diri'</strong> otak yang mengevaluasi kalimat dipotong, otak dapat mempertahankan aliran pikiran bawah sadar yang organik.
 
 ---
 

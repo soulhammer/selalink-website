@@ -47,7 +47,7 @@ Heute analysiert BuildSelf die kognitiven Mechanismen hinter Lockes System und z
 
 Unser Gedächtnis speichert Informationen nicht in separaten Boxen, sondern als Netz verknüpfter Daten ('assoziatives Gedächtnis'). Lockes Methode setzt künstliche Verknüpfungspunkte direkt bei der Aufnahme des Wissens.
 
-Das Zuordnen zu Begriffen verringert die 'semantische Distanz' zwischen Konzepten. So bleibt Wissen im Gehirn vernetzt und aktiv. Dies entlastet das Frontalhirn bei der Suche und ermöglicht das schnelle Abrufen von Informationen.
+Das Zuordnen zu Begriffen verringert die <strong>'semantische Distanz'</strong> zwischen Konzepten. So bleibt Wissen im Gehirn vernetzt und aktiv. Dies entlastet das Frontalhirn bei der Suche und ermöglicht das schnelle Abrufen von Informationen.
 
 ---
 

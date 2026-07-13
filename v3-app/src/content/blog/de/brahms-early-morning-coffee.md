@@ -47,7 +47,7 @@ Heute stellt BuildSelf die wissenschaftliche Wirkung der Routine aus Kaffee und 
 
 Koffein im Kaffee bindet an Adenosinrezeptoren, blockiert Müdigkeitssignale und fördert die Ausschüttung von Noradrenalin und Dopamin. Wenn man sich in dieser Phase bewegt, vervielfacht sich die kognitive Leistung.
 
-Gehen stimuliert den motorischen Kortex und fördert die Ausschüttung von BDNF (Brain-Derived Neurotrophic Factor). BDNF schützt Gehirnzellen und fördert neue Synapsen, was die Neuroplastizität erhöht. Brahms' Routine kombinierte die Nervenstimulation durch Koffein mit der Sauerstoffzufuhr beim Gehen, um das für komplexe Aufgaben zuständige 'Arbeitsgedächtnis' zu maximieren.
+Gehen stimuliert den motorischen Kortex und fördert die Ausschüttung von BDNF (Brain-Derived Neurotrophic Factor). BDNF schützt Gehirnzellen und fördert neue Synapsen, was die Neuroplastizität erhöht. Brahms' Routine kombinierte die Nervenstimulation durch Koffein mit der Sauerstoffzufuhr beim Gehen, um das für komplexe Aufgaben zuständige <strong>'Arbeitsgedächtnis'</strong> zu maximieren.
 
 ---
 

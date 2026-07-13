@@ -41,9 +41,9 @@ Newton manteve a seu lado a vida toda um grande caderno encadernado em couro (ch
 
 ## 1. 'Descarga Cognitiva' para Liberar a Sobrecarga da Memória de Trabalho
 
-A capacidade da 'Memória de Trabalho' a curto prazo é muito limitada. Tentar guardar equações e insights na mente causa sobrecarga cognitiva. Anotar à mão como Newton ativava o mecanismo de 'Descarga Cognitiva (Cognitive Offloading)'.
+A capacidade da 'Memória de Trabalho' a curto prazo é muito limitada. Tentar guardar equações e insights na mente causa sobrecarga cognitiva. Anotar à mão como Newton ativava o mecanismo de <strong>'Descarga Cognitiva (Cognitive Offloading)'</strong>.
 
-Ao salvar ideias no papel, a memória de trabalho se liberta da tarefa de armazenar dados e foca em raciocínios mais complexos. Escrever e desenhar diagramas estimula o hipocampo, que regula a memória a prazo, e o sistema de ativação reticular (SAR), ajudando a guardar ideias críticas por mais tempo.
+Ao salvar ideias no papel, a memória de trabalho se liberta da tarefa de armazenar dados e foca em raciocínios mais complexos. Escrever e desenhar diagramas estimula o <strong>hipocampo</strong>, que regula a memória a prazo, e o <strong>sistema de ativação reticular (SAR)</strong>, ajudando a guardar ideias críticas por mais tempo.
 
 ---
 
@@ -105,4 +105,4 @@ Ao salvar ideias no papel, a memória de trabalho se liberta da tarefa de armaze
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

@@ -47,7 +47,7 @@ Heute stellt BuildSelf die wissenschaftliche Basis von Manns reizgeschützter Ro
 
 Die kognitive Energie des präfrontalen Kortex, die für Willenskraft und Problemlösung zuständig ist, ist morgens am höchsten, aber stark begrenzt. Mikrostörungen wie Handy-Nachrichten oder Social Media verbrauchen diese Energie rasant.
 
-Durch das Phänomen des 'Aufmerksamkeitsrückstands (Attention Residue)' beim Aufgabenwechsel benötigt das Gehirn nach einer Ablenkung bis zu 20 Minuten, um das ursprüngliche Fokus-Niveau wieder zu erreichen. Manns Isolation schirmte das Gehirn ab, sodass die begrenzte Energie zu 100 % in eine einzige komplexe Aufgabe fließen konnte.
+Durch das Phänomen des <strong>'Aufmerksamkeitsrückstands (Attention Residue)'</strong> beim Aufgabenwechsel benötigt das Gehirn nach einer Ablenkung bis zu 20 Minuten, um das ursprüngliche Fokus-Niveau wieder zu erreichen. Manns Isolation schirmte das Gehirn ab, sodass die begrenzte Energie zu 100 % in eine einzige komplexe Aufgabe fließen konnte.
 
 ---
 

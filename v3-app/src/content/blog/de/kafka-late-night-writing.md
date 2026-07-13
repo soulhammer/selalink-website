@@ -41,7 +41,7 @@ Kafka schrieb in extremer Stille von 23 Uhr bis 2 oder 3 Uhr morgens, manchmal b
 
 ## 1. 'Frontale Abwärtsregulation' zur Freigabe der Kontrolle und Erreichung der Essenz
 
-Tagsüber verbraucht unser Stirnhirn (Frontallappen) aktiv kognitive Energie, die für soziale Normen, logisches Denken und Aufmerksamkeit benötigt wird. Spät in der Nacht jedoch, wenn die Energie erschöpft ist, schwächt sich der starke Kontrollfilter des Stirnhirns vorübergehend ab. Die Kognitionswissenschaft nennt diesen Zustand 'Frontale Abwärtsregulation'.
+Tagsüber verbraucht unser Stirnhirn (Frontallappen) aktiv kognitive Energie, die für soziale Normen, logisches Denken und Aufmerksamkeit benötigt wird. Spät in der Nacht jedoch, wenn die Energie erschöpft ist, schwächt sich der starke Kontrollfilter des Stirnhirns vorübergehend ab. Die Kognitionswissenschaft nennt diesen Zustand <strong>'Frontale Abwärtsregulation'</strong>.
 
 Wenn die Kontrolle freigegeben wird, entkommt das Gehirn der rationalen Unterdrückung und bringt unaufhaltsam emotionale Tiefe, unbewusste Assoziationen und originelle Kreativität hervor, die normalerweise schwer zugänglich waren. Dies ist die physiologische Treibkraft, die es Kafka ermöglichte, Meisterwerke zu schreiben, die in der dunklen Nacht tiefe Resonanz erzeugen. Darüber hinaus blockiert die perfekte physische Stille um Mitternacht Lärminterferenzen, die das Arbeitsgedächtnis stören, und schafft so eine optimale neurochemische Umgebung, in der das Gehirn in ein einziges Thema eintauchen kann.
 
@@ -105,4 +105,4 @@ Wenn die Kontrolle freigegeben wird, entkommt das Gehirn der rationalen Unterdr�
     </p>
   </details>
 </div>
-<strong></strong><strong></strong>
+<strong></strong>

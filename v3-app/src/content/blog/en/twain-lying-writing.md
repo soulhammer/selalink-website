@@ -43,7 +43,7 @@ Every morning, after a hearty breakfast, instead of heading to his study, Twain 
 
 When we lie horizontally or recline, the burden of the heart pushing blood through the body is significantly reduced compared to standing or sitting. This increases cerebral blood flow, stabilizes heart rate, and strongly stimulates the parasympathetic nervous system. When the body is completely relaxed, the brain suppresses the secretion of cortisol, which regulates stress levels.
 
-The relaxed brain escapes from a state of tension (beta waves) and richly emits 'alpha waves' and 'theta waves' that induce creativity and deep insight. Psychologically, this state breaks the rigid frame of logical thinking and promotes 'associative thinking' that flexibly combines ideas that seemed unrelated. The secret behind Mark Twain's smooth expansion of ideas and vivid descriptions when writing in bed lies in this combination of physical relaxation and cerebral blood flow mechanism.
+The relaxed brain escapes from a state of tension (beta waves) and richly emits <strong>'alpha waves'</strong> and <strong>'theta waves'</strong> that induce creativity and deep insight. Psychologically, this state breaks the rigid frame of logical thinking and promotes <strong>'associative thinking'</strong> that flexibly combines ideas that seemed unrelated. The secret behind Mark Twain's smooth expansion of ideas and vivid descriptions when writing in bed lies in this combination of physical relaxation and cerebral blood flow mechanism.
 
 ---
 
@@ -105,4 +105,4 @@ The relaxed brain escapes from a state of tension (beta waves) and richly emits 
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

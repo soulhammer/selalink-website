@@ -45,9 +45,9 @@ Hari ini, BuildSelf menjelaskan prinsip kerja neurologis kognitif dari rutinitas
 
 ## 1. Sains Otak dari Pengodean Informasi dan Skema
 
-Membaca sekilas artikel digital hanya menyimpannya di memori jangka pendek sebelum terlupakan. Sebaliknya, tindakan memilih, 'mengkliping' (tindakan fisik atau digital), dan mengelompokkan artikel memicu proses 'pengodean mendalam (Deep Encoding)'.
+Membaca sekilas artikel digital hanya menyimpannya di memori jangka pendek sebelum terlupakan. Sebaliknya, tindakan memilih, 'mengkliping' (tindakan fisik atau digital), dan mengelompokkan artikel memicu proses <strong>'pengodean mendalam (Deep Encoding)'</strong>.
 
-Strukturasi ini tidak hanya menyimpan informasi ke memori jangka panjang tetapi juga membentuk 'jaringan skema' yang berintegrasi dengan sistem pengetahuan yang ada. Otak dengan skema yang berkembang cepat memahami konteks informasi baru dan memanggil pengetahuan saat menulis atau membuat keputusan.
+Strukturasi ini tidak hanya menyimpan informasi ke memori jangka panjang tetapi juga membentuk <strong>'jaringan skema'</strong> yang berintegrasi dengan sistem pengetahuan yang ada. Otak dengan skema yang berkembang cepat memahami konteks informasi baru dan memanggil pengetahuan saat menulis atau membuat keputusan.
 
 ---
 

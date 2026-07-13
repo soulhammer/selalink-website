@@ -41,9 +41,9 @@ Newton führte zeit seines Lebens ein großes, ledergebundenes Notizbuch (damals
 
 ## 1. 'Kognitive Entlastung' zur Befreiung des Arbeitsgedächtnisses von Überlastung
 
-Die Kapazität des Arbeitsgedächtnisses ist stark begrenzt. Das Jonglieren mit Berechnungen im Kopf führt zu kognitiver Überlastung. Handschriftliche Aufzeichnungen wie bei Newton aktivieren den Mechanismus der 'Kognitiven Entlastung (Cognitive Offloading)'.
+Die Kapazität des Arbeitsgedächtnisses ist stark begrenzt. Das Jonglieren mit Berechnungen im Kopf führt zu kognitiver Überlastung. Handschriftliche Aufzeichnungen wie bei Newton aktivieren den Mechanismus der <strong>'Kognitiven Entlastung (Cognitive Offloading)'</strong>.
 
-Durch das Sichern von Gedanken auf Papier wird das Arbeitsgedächtnis entlastet und kann sich auf komplexere Berechnungen konzentrieren. Das Schreiben und Zeichnen stimuliert den Hippocampus, der das Langzeitgedächtnis regelt, und das Retikuläre Aktivierungssystem (RAS), was hilft, wichtige Ideen dauerhaft zu bewahren.
+Durch das Sichern von Gedanken auf Papier wird das Arbeitsgedächtnis entlastet und kann sich auf komplexere Berechnungen konzentrieren. Das Schreiben und Zeichnen stimuliert den <strong>Hippocampus</strong>, der das Langzeitgedächtnis regelt, und das <strong>Retikuläre Aktivierungssystem (RAS)</strong>, was hilft, wichtige Ideen dauerhaft zu bewahren.
 
 ---
 
@@ -105,4 +105,4 @@ Durch das Sichern von Gedanken auf Papier wird das Arbeitsgedächtnis entlastet 
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

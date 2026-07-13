@@ -47,7 +47,7 @@ Hoje, o BuildSelf apresenta os efeitos de estimulação cerebral da rotina de 'c
 
 A cafeína do café matinal liga-se aos receptores de adenosina, bloqueando os sinais de sonolência e estimulando a noradrenalina e a dopamina. Ao realizar exercício aeróbico logo em seguida, o rendimento cognitivo do cérebro multiplica-se.
 
-A caminhada estimula o córtex motor e promove a liberação de BDNF (fator neurotrófico derivado do cérebro). O BDNF protege as células cerebrais e ajuda a formar novas sinapses, aumentando a neuroplasticidade. A rotina de Brahms unia o estímulo da cafeína ao oxigênio da caminhada, elevando ao máximo a 'memória de trabalho' e a criatividade.
+A caminhada estimula o córtex motor e promove a liberação de BDNF (fator neurotrófico derivado do cérebro). O BDNF protege as células cerebrais e ajuda a formar novas sinapses, aumentando a neuroplasticidade. A rotina de Brahms unia o estímulo da cafeína ao oxigênio da caminhada, elevando ao máximo a <strong>'memória de trabalho'</strong> e a criatividade.
 
 ---
 

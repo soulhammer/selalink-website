@@ -45,9 +45,9 @@ Hoje, o BuildSelf revela o mecanismo de foco visual do 'manuscrito em rolo' de E
 
 ## 1. Túnel Cognitivo e Inibição do Autocontrole
 
-Limitar o campo visual a uma faixa estreita reduz os movimentos oculares sacádicos desnecessários, diminuindo o esforço do lobo frontal. Na neurociência, isso é chamado de 'túnel cognitivo (Cognitive Tunneling)', e ajuda a manter o foco bloqueando o ruído visual periférico.
+Limitar o campo visual a uma faixa estreita reduz os movimentos oculares sacádicos desnecessários, diminuindo o esforço do lobo frontal. Na neurociência, isso é chamado de <strong>'túnel cognitivo (Cognitive Tunneling)'</strong>, e ajuda a manter o foco bloqueando o ruído visual periférico.
 
-Além disso, o formato contínuo em pergaminho evita um hábito nocivo ao escrever: reler e corrigir a última linha escrita. Ao silenciar o circuito de 'autocrítica (Self-monitoring)', o cérebro liberta a associação livre do subconsciente, permitindo que as ideias fluam.
+Além disso, o formato contínuo em pergaminho evita um hábito nocivo ao escrever: reler e corrigir a última linha escrita. Ao silenciar o circuito de <strong>'autocrítica (Self-monitoring)'</strong>, o cérebro liberta a associação livre do subconsciente, permitindo que as ideias fluam.
 
 ---
 

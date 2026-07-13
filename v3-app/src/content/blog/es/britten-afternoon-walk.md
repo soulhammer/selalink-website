@@ -47,7 +47,7 @@ Hoy, BuildSelf presenta los principios de la ciencia cerebral de la rutina de 'p
 
 El cerebro que ha realizado cálculos o planificación de alto nivel durante la mañana opera la 'Red Ejecutiva Central (CEN)', que mantiene un estado enfocado, agotando la energía cognitiva y cayendo en un estado de 'Fatiga de la Atención'.
 
-Según la 'Teoría de la Restauración de la Atención (ART)' de la psicología ambiental, al caminar lentamente al aire libre, que tiene elementos de suave fascinación no estimulantes de la naturaleza como el sonido del viento o de las olas, el cerebro finalmente relaja la red de atención. During this rest period, el cerebro opera la 'Red Neuronal por Defecto (DMN)' para clasificar y transferir información fragmentada o preocupaciones de la mañana al almacenamiento a largo prazo, logrando la 'integración cognitiva'. A través del paseo por la tarde, Britten despejó la sobrecarga de su cerebro y utilizó el pensamiento subconsciente para resolver intuitivamente problemas complejos.
+Según la <strong>'Teoría de la Restauración de la Atención (ART)'</strong> de la psicología ambiental, al caminar lentamente al aire libre, que tiene elementos de suave fascinación no estimulantes de la naturaleza como el sonido del viento o de las olas, el cerebro finalmente relaja la red de atención. During this rest period, el cerebro opera la 'Red Neuronal por Defecto (DMN)' para clasificar y transferir información fragmentada o preocupaciones de la mañana al almacenamiento a largo prazo, logrando la <strong>'integración cognitiva'</strong>. A través del paseo por la tarde, Britten despejó la sobrecarga de su cerebro y utilizó el pensamiento subconsciente para resolver intuitivamente problemas complejos.
 
 ---
 

@@ -45,7 +45,7 @@ Britten, yang menjaga aturan ketat seperti Brahms, menggubah musik dari jam 8 pa
 
 Otak yang telah melakukan perhitungan atau perencanaan tingkat tinggi sepanjang pagi mengoperasikan 'Jaringan Eksekutif Pusat (CEN)', yang mempertahankan keadaan fokus, menghabiskan energi kognitif dan jatuh ke dalam keadaan 'Kelelahan Perhatian.'
 
-Menurut 'Teori Pemulihan Perhatian (ART)' psikologi lingkungan, ketika berjalan perlahan di luar ruangan, yang memiliki elemen pesona lembut alam yang tidak merangsang seperti suara angin or ombak, otak akhirnya merilekskan jaringan perhatian. Selama masa istirahat ini, otak mengoperasikan 'Jaringan Mode Default (DMN)' untuk mengklasifikasikan dan mentransfer informasi atau kekhawatiran yang terfragmentasi dari pagi hari ke penyimpanan jangka panjang, mencapai 'integrasi kognitif.' Melalui jalan sore, Britten membersihkan beban berlebih pada otaknya und menggunakan pemikiran bawah sadar untuk memecahkan masalah kompleks secara intuitif.
+Menurut <strong>'Teori Pemulihan Perhatian (ART)'</strong> psikologi lingkungan, ketika berjalan perlahan di luar ruangan, yang memiliki elemen pesona lembut alam yang tidak merangsang seperti suara angin or ombak, otak akhirnya merilekskan jaringan perhatian. Selama masa istirahat ini, otak mengoperasikan 'Jaringan Mode Default (DMN)' untuk mengklasifikasikan dan mentransfer informasi atau kekhawatiran yang terfragmentasi dari pagi hari ke penyimpanan jangka panjang, mencapai <strong>'integrasi kognitif.'</strong> Melalui jalan sore, Britten membersihkan beban berlebih pada otaknya und menggunakan pemikiran bawah sadar untuk memecahkan masalah kompleks secara intuitif.
 
 ---
 

@@ -47,7 +47,7 @@ Hoy, BuildSelf presenta los fundamentos científicos de la rutina de 'reinicio o
 
 De todos los sentidos humanos, el olfato es el único que no pasa por el 'tálamo', que actúa como filtro del cerebro, sino que llega directamente a la amígdala y al hipocampo en el 'sistema límbico' que rige las emociones y la memoria. Por ello, el olor es el atajo más rápido para alterar los estados cognitivos.
 
-Los gases de fermentación de las manzanas podridas que inhalaba Schiller (como el acetaldehído y el etanol) actuaban como estimulantes fisiológicos que despertaban temporalmente el sistema nervioso central e incrementaban el flujo sanguíneo en cantidades ínfimas. Además, existía un 'condicionamiento clásico' psicológico que inducía un estado de inmersión al oler un aroma específico. Es decir, se formó un anclaje neurológico: 'olor a manzana podrida = tiempo de creación intensa', entrenando al cerebro distraído para entrar en foco inmediato.
+Los gases de fermentación de las manzanas podridas que inhalaba Schiller (como el acetaldehído y el etanol) actuaban como estimulantes fisiológicos que despertaban temporalmente el sistema nervioso central e incrementaban el flujo sanguíneo en cantidades ínfimas. Además, existía un <strong>'condicionamiento clásico'</strong> psicológico que inducía un estado de inmersión al oler un aroma específico. Es decir, se formó un anclaje neurológico: 'olor a manzana podrida = tiempo de creación intensa', entrenando al cerebro distraído para entrar en foco inmediato.
 
 ---
 

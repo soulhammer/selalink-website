@@ -45,9 +45,9 @@ Aujourd'hui, BuildSelf décrypte la concentration visuelle induite par ce 'manus
 
 ## 1. Tunnel Cognitif et Inhibition de l'Autocensure
 
-Limiter le champ visuel à une bande étroite réduit les mouvements oculaires saccadiques inutiles, allégeant l'effort du cortex préfrontal. En neurosciences, ce phénomène est appelé 'tunnel cognitif (Cognitive Tunneling)' ; il favorise l'attention en bloquant les signaux périphériques.
+Limiter le champ visuel à une bande étroite réduit les mouvements oculaires saccadiques inutiles, allégeant l'effort du cortex préfrontal. En neurosciences, ce phénomène est appelé <strong>'tunnel cognitif (Cognitive Tunneling)'</strong> ; il favorise l'attention en bloquant les signaux périphériques.
 
-De plus, le format en rouleau continu élimine le réflexe d'autocensure immédiat (relecture et correction de la phrase précédente). En mettant ce circuit d''auto-évaluation (Self-monitoring)' en pause, le cerveau libère l'association libre, permettant aux idées du subconscient de jaillir sans filtre.
+De plus, le format en rouleau continu élimine le réflexe d'autocensure immédiat (relecture et correction de la phrase précédente). En mettant ce circuit d'<strong>'auto-évaluation (Self-monitoring)'</strong> en pause, le cerveau libère l'association libre, permettant aux idées du subconscient de jaillir sans filtre.
 
 ---
 

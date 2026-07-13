@@ -41,7 +41,7 @@ Gandhi se levait à 4 heures chaque jour. Dès le réveil, il méditait et priai
 
 ## 1. La 'Méditation Active' où le Mouvement Répétitif Stimule la Sérotonine
 
-Si la méditation est un acte statique consistant à rester assis, le rouet est une 'méditation active' qui favorise la concentration par le mouvement. Sur le plan neuroscientifique, utiliser délicatement les doigts dans un mouvement circulaire répétitif stimule la sécrétion de sérotonine, un neurotransmetteur régulateur des émotions. La sérotonine réveille le cerveau le matin et réduit l'anxiété.
+Si la méditation est un acte statique consistant à rester assis, le rouet est une <strong>'méditation active'</strong> qui favorise la concentration par le mouvement. Sur le plan neuroscientifique, utiliser délicatement les doigts dans un mouvement circulaire répétitif stimule la sécrétion de <strong>sérotonine</strong>, un neurotransmetteur régulateur des émotions. La sérotonine réveille le cerveau le matin et réduit l'anxiété.
 
 De plus, l'attention fine des doigts pour régler la tension afin d'éviter la rupture du fil inhibe immédiatement le réseau des pensées vagabondes, ancrant l'esprit dans le présent. La ressource physiologique de Gandhi pour rester calme face au chaos résidait dans l'alignement du système nerveux autonome (HRV) par le rythme régulier du rouet.
 
@@ -105,4 +105,4 @@ De plus, l'attention fine des doigts pour régler la tension afin d'éviter la r
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

@@ -47,7 +47,7 @@ Today, BuildSelf introduces the scientific brain-stimulating effects of the 'cof
 
 Caffeine in morning coffee binds to adenosine receptors in the body, immediately blocking signals that induce drowsiness and promoting the secretion of noradrenaline and dopamine that promote alertness. When aerobic exercise (walking) is performed immediately while the brain is physiologically active like this, the cognitive performance of the brain multiplies exponentially.
 
-Walking stimulates the brain's motor cortex and promotes the release of brain-derived neurotrophic factor (BDNF). BDNF protects brain cells and helps form new synapses, increasing neuroplasticity. Consequently, Brahms's morning routine synergized the central nervous system stimulating effect of caffeine with the increased oxygen supply from walking, artificially peaking 'working memory' and creative thinking abilities responsible for complex intellectual designs.
+Walking stimulates the brain's motor cortex and promotes the release of brain-derived neurotrophic factor (BDNF). BDNF protects brain cells and helps form new synapses, increasing neuroplasticity. Consequently, Brahms's morning routine synergized the central nervous system stimulating effect of caffeine with the increased oxygen supply from walking, artificially peaking <strong>'working memory'</strong> and creative thinking abilities responsible for complex intellectual designs.
 
 ---
 

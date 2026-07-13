@@ -47,7 +47,7 @@ Hoy, BuildSelf analiza la neurociencia detrás de esta 'indexación de notas' de
 
 La memoria no es un archivador estático, sino una red de 'memoria asociativa' donde los datos se conectan como una telaraña. El método de John Locke inserta coordenadas de enlace al registrar el dato en el cerebro.
 
-Guardar la información bajo categorías predefinidas reduce la 'distancia semántica (Semantic Distance)' entre conceptos. Esto evita que las ideas queden aisladas en el cerebro; al contrario, permanecen activas y accesibles, bajando el esfuerzo de búsqueda del lóbulo frontal para recuperarlas de inmediato.
+Guardar la información bajo categorías predefinidas reduce la <strong>'distancia semántica (Semantic Distance)'</strong> entre conceptos. Esto evita que las ideas queden aisladas en el cerebro; al contrario, permanecen activas y accesibles, bajando el esfuerzo de búsqueda del lóbulo frontal para recuperarlas de inmediato.
 
 ---
 

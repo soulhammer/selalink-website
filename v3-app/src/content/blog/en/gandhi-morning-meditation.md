@@ -41,7 +41,7 @@ Gandhi woke up at 4 AM every day. As soon as he opened his eyes, he meditated an
 
 ## 1. 'Active Meditation' Where Repetitive Motion Stimulates Serotonin
 
-If meditation is simply a static act of sitting still, spinning thread is an 'active meditation' that induces focus by moving the body. Neuroscientifically, exercises that delicately use the touch of the fingers and repeat a regular circular rhythm stimulate the secretion of serotonin, a neurotransmitter that regulates emotions. Serotonin wakes up the brain clearly in the morning and suppresses anxiety and anger to present high peace.
+If meditation is simply a static act of sitting still, spinning thread is an <strong>'active meditation'</strong> that induces focus by moving the body. Neuroscientifically, exercises that delicately use the touch of the fingers and repeat a regular circular rhythm stimulate the secretion of <strong>serotonin</strong>, a neurotransmitter that regulates emotions. Serotonin wakes up the brain clearly in the morning and suppresses anxiety and anger to present high peace.
 
 In addition, the fine focus of fingers regulating the tension so that the thread does not break immediately suppresses the cerebral network governing idle thoughts and firmly locks attention to the present state. The physiological source that allowed Gandhi to maintain an unwavering mind throughout his life in the mid of a huge historical vortex was aligning the autonomic nervous system (HRV) and cleaning stress through the simple rhythm of the morning spinning wheel.
 
@@ -105,4 +105,4 @@ In addition, the fine focus of fingers regulating the tension so that the thread
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

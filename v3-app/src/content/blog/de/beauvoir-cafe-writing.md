@@ -45,7 +45,7 @@ Heute zeigt BuildSelf die wissenschaftliche Wirkung von Simone de Beauvoirs Caf�
 
 ## 1. Funktionsweise von weißem Rauschen und Gewohnheitsmustern
 
-Neurowissenschaftlich gesehen aktiviert dieselbe Umgebung (Stammplatz, Getränk) ein Gewohnheitsmuster ('Cognitive Script'), das den Einstieg in die Arbeit erleichtert, ohne dass das Gehirn Energie für Entscheidungen aufwenden muss.
+Neurowissenschaftlich gesehen aktiviert dieselbe Umgebung (Stammplatz, Getränk) ein Gewohnheitsmuster (<strong>'Cognitive Script'</strong>), das den Einstieg in die Arbeit erleichtert, ohne dass das Gehirn Energie für Entscheidungen aufwenden muss.
 
 Zudem verhindert das typische Gemurmel von 50 bis 70 Dezibel (weißes Rauschen) im Café, dass sich die Aufmerksamkeit auf einzelne Reize fokussiert oder Langeweile aufkommt. Weißes Rauschen regt Alphawellen an, die mit Kreativität verknüpft sind, während die passive Anwesenheit anderer das Gefühl der Isolation mindert und so die Leistung steigert.
 

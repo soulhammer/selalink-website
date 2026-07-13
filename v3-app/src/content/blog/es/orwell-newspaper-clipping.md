@@ -45,9 +45,9 @@ Hoy, BuildSelf expone la neurobiología del hábito de 'recortes con tijera' de 
 
 ## 1. Neurociencia de la Codificación de Información y Esquemas
 
-Navegar por periódicos de forma pasiva hace que la información se guarde en la memoria a corto plazo y luego se borre. En cambio, elegir, recortar (acción manual) y etiquetar la información produce una 'codificación profunda (Deep Encoding)'.
+Navegar por periódicos de forma pasiva hace que la información se guarde en la memoria a corto plazo y luego se borre. En cambio, elegir, recortar (acción manual) y etiquetar la información produce una <strong>'codificación profunda (Deep Encoding)'</strong>.
 
-Este proceso de clasificar la información la archiva en la memoria a largo plazo de la corteza cerebral, creando una 'red de esquemas' que se une a lo ya aprendido. Un cerebro con esquemas sólidos capta el contexto más rápido, va al meollo de los problemas y recupera el conocimiento al instante al escribir o decidir.
+Este proceso de clasificar la información la archiva en la memoria a largo plazo de la corteza cerebral, creando una <strong>'red de esquemas'</strong> que se une a lo ya aprendido. Un cerebro con esquemas sólidos capta el contexto más rápido, va al meollo de los problemas y recupera el conocimiento al instante al escribir o decidir.
 
 ---
 

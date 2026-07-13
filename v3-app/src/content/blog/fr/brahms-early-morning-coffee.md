@@ -47,7 +47,7 @@ Aujourd'hui, BuildSelf présente les effets stimulants pour le cerveau de la rou
 
 La caféine du café du matin se lie aux récepteurs d'adénosine, bloquant le signal de somnolence et stimulant la production de noradrénaline et de dopamine. En enchaînant immédiatement avec un exercice aérobie (marche) sur un cerveau physiologiquement actif, les performances cognitives sont multipliées.
 
-La marche stimule le cortex moteur et favorise la libération du facteur neurotrophique dérivé du cerveau (BDNF). Le BDNF protège les cellules et aide à former de nouvelles synapses, augmentant la plasticité cérébrale. Ainsi, la routine matinale de Brahms maximisait la 'mémoire de travail' et la créativité en associant le stimulus de la caféine et l'apport d'oxygène de la marche.
+La marche stimule le cortex moteur et favorise la libération du facteur neurotrophique dérivé du cerveau (BDNF). Le BDNF protège les cellules et aide à former de nouvelles synapses, augmentant la plasticité cérébrale. Ainsi, la routine matinale de Brahms maximisait la <strong>'mémoire de travail'</strong> et la créativité en associant le stimulus de la caféine et l'apport d'oxygène de la marche.
 
 ---
 

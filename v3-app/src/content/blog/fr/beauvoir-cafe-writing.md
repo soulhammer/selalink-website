@@ -45,7 +45,7 @@ Aujourd'hui, BuildSelf analyse la concentration induite par cette routine de tra
 
 ## 1. Effets du Bruit Blanc et du Schéma Cognitif
 
-Sur le plan neuroscientifique, retrouver le même cadre physique (table, boisson) active un 'schéma cognitif (Cognitive Script)' qui permet de basculer en mode focus, évitant au cerveau de gaspiller de l'énergie pour démarrer.
+Sur le plan neuroscientifique, retrouver le même cadre physique (table, boisson) active un <strong>'schéma cognitif (Cognitive Script)'</strong> qui permet de basculer en mode focus, évitant au cerveau de gaspiller de l'énergie pour démarrer.
 
 De plus, le murmure de 50 à 70 décibels (dB) typique des cafés (bruit blanc) évite au système d'attention de se focaliser sur des bruits isolés ou de s'ennuyer. Ce fond sonore stimule les ondes alpha, liées à la créativité, tandis que la présence passive d'autrui active les neurones miroirs, chassant le sentiment d'isolement pour optimiser la séance.
 

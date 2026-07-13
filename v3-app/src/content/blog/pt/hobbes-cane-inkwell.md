@@ -47,7 +47,7 @@ Hoje, o BuildSelf explica a neurobiologia da 'bengala com tinteiro' de Thomas Ho
 
 Quando entramos em caminhada relaxada, ativa-se a rede neuronal por padrão (DMN), gerando insights súbitos. Porém, por residirem na memória de trabalho temporária, são instáveis: se não registrados em 10-15 segundos, são esquecidos.
 
-A bengala de Hobbes era um meio de 'externalização cognitiva (Cognitive Externalization)' para superar esse limite da memória de trabalho. Em vez de reter a ideia com esforço, ele a transferia ao papel com as mãos, liberando o lobo frontal para seguir pensando livremente.
+A bengala de Hobbes era um meio de <strong>'externalização cognitiva (Cognitive Externalization)'</strong> para superar esse limite da memória de trabalho. Em vez de reter a ideia com esforço, ele a transferia ao papel com as mãos, liberando o lobo frontal para seguir pensando livremente.
 
 ---
 

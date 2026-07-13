@@ -47,7 +47,7 @@ Heute erklärt BuildSelf die Funktionsweise von Hobbes' Gehstock-Methode und zei
 
 Beim entspannten Gehen schaltet das Gehirn in das Ruhezustandsnetzwerk (DMN), was plötzliche Einfälle begünstigt. Diese verbleiben jedoch nur kurz im Arbeitsspeicher und zerfallen innerhalb von 10 bis 15 Sekunden, wenn sie nicht aufgeschrieben werden.
 
-Hobbes' Gehstock war das ideale Mittel zur 'kognitiven Externalisierung', um diese Grenze des Arbeitsspeichers zu umgehen. Statt den Gedanken im Gehirn festzuhalten, übertrug er ihn durch das Schreiben aufs Papier. Dies entlastete das Frontalhirn und machte den Kopf frei für neue Gedanken.
+Hobbes' Gehstock war das ideale Mittel zur <strong>'kognitiven Externalisierung'</strong>, um diese Grenze des Arbeitsspeichers zu umgehen. Statt den Gedanken im Gehirn festzuhalten, übertrug er ihn durch das Schreiben aufs Papier. Dies entlastete das Frontalhirn und machte den Kopf frei für neue Gedanken.
 
 ---
 

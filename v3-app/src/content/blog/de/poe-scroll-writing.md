@@ -45,9 +45,9 @@ Heute zeigt BuildSelf die Mechanismen hinter Poes Rollen-Routine und wie man mod
 
 ## 1. Tunnel-Fokus und Hemmung der Selbstkritik
 
-Das Einengen des Sichtfelds auf einen schmalen Bereich reduziert unwillkürliche Augenbewegungen und schont die visuelle Aufmerksamkeit des Stirnhirns. In der Forschung wird dies als 'kognitives Tunneln (Cognitive Tunneling)' bezeichnet, da Reize ausgeblendet werden.
+Das Einengen des Sichtfelds auf einen schmalen Bereich reduziert unwillkürliche Augenbewegungen und schont die visuelle Aufmerksamkeit des Stirnhirns. In der Forschung wird dies als <strong>'kognitives Tunneln (Cognitive Tunneling)'</strong> bezeichnet, da Reize ausgeblendet werden.
 
-Das Schreiben auf einer Endlosrolle verhindert zudem das ständige Korrigieren des eben geschriebenen Satzes. Durch das Ausschalten dieser 'Selbstkontrolle' kann das Gehirn Gedanken im freien Fluss ('freie Assoziation') flüssiger und kreativer formulieren.
+Das Schreiben auf einer Endlosrolle verhindert zudem das ständige Korrigieren des eben geschriebenen Satzes. Durch das Ausschalten dieser <strong>'Selbstkontrolle'</strong> kann das Gehirn Gedanken im freien Fluss ('freie Assoziation') flüssiger und kreativer formulieren.
 
 ---
 

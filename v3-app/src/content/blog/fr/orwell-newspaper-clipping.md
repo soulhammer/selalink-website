@@ -45,9 +45,9 @@ Aujourd'hui, BuildSelf analyse les mécanismes d'ancrage cognitif liés à cette
 
 ## 1. Neurosciences de l'Encodage et des Schémas Cognitifs
 
-Parcourir passivement des flux d'actualités ne sollicite que la mémoire à court terme, et les informations s'effacent rapidement. Au contraire, sélectionner un article, le 'découper' (par une action manuelle ou numérique) et le catégoriser déclenche un processus d''encodage profond (Deep Encoding)'.
+Parcourir passivement des flux d'actualités ne sollicite que la mémoire à court terme, et les informations s'effacent rapidement. Au contraire, sélectionner un article, le 'découper' (par une action manuelle ou numérique) et le catégoriser déclenche un processus d'<strong>'encodage profond (Deep Encoding)'</strong>.
 
-Ce travail de structuration permet de consolider l'information dans la mémoire à long terme et de l'intégrer au sein d'un 'réseau de schémas cognitifs'. Un cerveau doté de ces schémas saisit plus vite le contexte, cerne le cœur des problèmes et mobilise instantanément les connaissances utiles lors d'une rédaction ou d'un choix stratégique.
+Ce travail de structuration permet de consolider l'information dans la mémoire à long terme et de l'intégrer au sein d'un <strong>'réseau de schémas cognitifs'</strong>. Un cerveau doté de ces schémas saisit plus vite le contexte, cerne le cœur des problèmes et mobilise instantanément les connaissances utiles lors d'une rédaction ou d'un choix stratégique.
 
 ---
 

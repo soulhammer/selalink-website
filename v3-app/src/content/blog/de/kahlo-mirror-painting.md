@@ -41,9 +41,9 @@ Als sie die Frustration ihrer Tochter sah, sich nicht bewegen zu können, instal
 
 ## 1. 'Selbstspiegelungseffekt' zur Objektivierung und Wiederherstellung der Kontrolle
 
-Das Betrachten des eigenen Spiegelbildes über einen längeren Zeitraum wird in der klinischen Psychologie als 'Spiegelbetrachtungstechnik' bezeichnet. Bei extremem Stress, körperlicher Behinderung oder Schmerz neigt das Gehirn dazu, in negative Emotionen abzutauchen. Der Spiegel fungiert als kognitives Isolationswerkzeug, das es ermöglicht, Körper und Emotionen objektiv aus einer Außenperspektive zu betrachten.
+Das Betrachten des eigenen Spiegelbildes über einen längeren Zeitraum wird in der klinischen Psychologie als <strong>'Spiegelbetrachtungstechnik'</strong> bezeichnet. Bei extremem Stress, körperlicher Behinderung oder Schmerz neigt das Gehirn dazu, in negative Emotionen abzutauchen. Der Spiegel fungiert als kognitives Isolationswerkzeug, das es ermöglicht, Körper und Emotionen objektiv aus einer Außenperspektive zu betrachten.
 
-In diesem Prozess stellt das Gehirn ein Gefühl der Kontrolle über das Selbst wieder her und stärkt die Handlungsfähigkeit, wodurch Stress reguliert und Depressionen gelindert werden. Frida Kahlos Konfrontation mit sich selbst im Spiegel war eine physiologische Manifestation von 'Resilienz', um ihre Seele trotz Widrigkeiten wieder aufzubauen. In der modernen kognitiven Therapie wird die Spiegelmeditation als therapeutische Technik zur Förderung der Selbstakzeptanz eingesetzt.
+In diesem Prozess stellt das Gehirn ein Gefühl der Kontrolle über das Selbst wieder her und stärkt die Handlungsfähigkeit, wodurch Stress reguliert und Depressionen gelindert werden. Frida Kahlos Konfrontation mit sich selbst im Spiegel war eine physiologische Manifestation von <strong>'Resilienz'</strong>, um ihre Seele trotz Widrigkeiten wieder aufzubauen. In der modernen kognitiven Therapie wird die Spiegelmeditation als therapeutische Technik zur Förderung der Selbstakzeptanz eingesetzt.
 
 ---
 
@@ -105,4 +105,4 @@ In diesem Prozess stellt das Gehirn ein Gefühl der Kontrolle über das Selbst w
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

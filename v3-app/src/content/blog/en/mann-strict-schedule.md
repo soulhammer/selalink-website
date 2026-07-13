@@ -47,7 +47,7 @@ Today, BuildSelf presents the brain science principles of the 'environmental con
 
 The cognitive energy of the prefrontal cortex, which coordinates willpower and complex problem solving, is highest in the morning, but its capacity is highly finite. Micro-distractions, such as smartphone messengers, social media, and small talk, deplete the brain's energy very quickly.
 
-Due to the 'attention residue' phenomenon that occurs when the focus of attention changes, it takes up to 20 minutes and wastes significant energy for a distracted brain to return to the immersion level of the original work. Thomas Mann's study-locking routine was an extremely efficient brain protection strategy that isolated the brain from external stimuli, allowing finite cognitive resources to be poured 100% into a single high-difficulty task.
+Due to the <strong>'attention residue'</strong> phenomenon that occurs when the focus of attention changes, it takes up to 20 minutes and wastes significant energy for a distracted brain to return to the immersion level of the original work. Thomas Mann's study-locking routine was an extremely efficient brain protection strategy that isolated the brain from external stimuli, allowing finite cognitive resources to be poured 100% into a single high-difficulty task.
 
 ---
 

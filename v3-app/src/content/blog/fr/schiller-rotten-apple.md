@@ -47,7 +47,7 @@ Aujourd'hui, BuildSelf présente les fondements scientifiques de l'étonnante ro
 
 De tous les sens, l'odorat est le seul à contourner le 'thalamus', le filtre du cerveau, pour atteindre directement l'amygdale et l'hippocampe dans le 'système limbique', siège des émotions et des souvenirs. L'odeur est donc le raccourci le plus rapide pour modifier l'état cognitif.
 
-Les gaz de fermentation des pommes pourries inhalés par Schiller (acétaldéhyde et éthanol) agissaient comme des stimulants physiologiques, éveillant temporairement le système nerveux central. De plus, un 'conditionnement classique' psychologique entrait en jeu, induisant l'état d'immersion à la perception de l'odeur. En clair, le cerveau de Schiller avait créé une ancre neurologique : 'odeur de pomme pourrie = session d'écriture intense', entraînant le cerveau à se concentrer instantanément.
+Les gaz de fermentation des pommes pourries inhalés par Schiller (acétaldéhyde et éthanol) agissaient comme des stimulants physiologiques, éveillant temporairement le système nerveux central. De plus, un <strong>'conditionnement classique'</strong> psychologique entrait en jeu, induisant l'état d'immersion à la perception de l'odeur. En clair, le cerveau de Schiller avait créé une ancre neurologique : 'odeur de pomme pourrie = session d'écriture intense', entraînant le cerveau à se concentrer instantanément.
 
 ---
 

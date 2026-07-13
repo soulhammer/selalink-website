@@ -45,9 +45,9 @@ Today, BuildSelf learns the visual feedback tuning principles hidden in Edgar Al
 
 ## 1. Cognitive Tunneling and Inhibition of Self-Monitoring Circuits
 
-Controlling the visual width in an extremely narrow band shape reduces the brain's unnecessary eye tracking (saccadic movement), dramatically blocking the waste of visual attention in the frontal lobe. Brain science calls this state 'cognitive tunneling', which aids concentration by forcibly limiting the input width of visual information.
+Controlling the visual width in an extremely narrow band shape reduces the brain's unnecessary eye tracking (saccadic movement), dramatically blocking the waste of visual attention in the frontal lobe. Brain science calls this state <strong>'cognitive tunneling'</strong>, which aids concentration by forcibly limiting the input width of visual information.
 
-At the same time, the physical scroll structure that endlessly leads downwards inhibits a destructive habit common to writers: 'rereading and correcting the sentence just written.' When the brain's 'self-monitoring' circuit that evaluates sentences immediately is cut off, the brain can maintain 'free association', the organic flow of thoughts in the unrefined subconscious mind, until the end, enabling creative and fluent writing.
+At the same time, the physical scroll structure that endlessly leads downwards inhibits a destructive habit common to writers: 'rereading and correcting the sentence just written.' When the brain's <strong>'self-monitoring'</strong> circuit that evaluates sentences immediately is cut off, the brain can maintain 'free association', the organic flow of thoughts in the unrefined subconscious mind, until the end, enabling creative and fluent writing.
 
 ---
 

@@ -47,7 +47,7 @@ Heute stellt BuildSelf die wissenschaftliche Basis von Schillers einzigartiger '
 
 Unter allen menschlichen Sinnen ist der Geruchssinn der einzige, der den 'Thalamus' – den Filter des Gehirns – umgeht und direkt die Amygdala und den Hippocampus im 'limbischen System' erreicht, das Emotionen und Erinnerungen steuert. Gerüche sind die schnellste Abkürzung zur Veränderung unseres kognitiven Zustands.
 
-Die Gase verfaulender Äpfel, die Schiller einatmete (wie Acetaldehyd und Ethanol), wirkten in minimaler Dosis als physiologische Stimulanzien, die das Zentralnervensystem aktivierten. Zudem wirkte eine psychologische 'klassische Konditionierung'. Es bildete sich ein neurologischer Anker im Gehirn: 'Geruch verfaulender Äpfel = Phase hochkonzentrierten Schaffens', was das abgelenkte Gehirn trainierte, beim Riechen sofort in den Fokus-Modus zu schalten.
+Die Gase verfaulender Äpfel, die Schiller einatmete (wie Acetaldehyd und Ethanol), wirkten in minimaler Dosis als physiologische Stimulanzien, die das Zentralnervensystem aktivierten. Zudem wirkte eine psychologische <strong>'klassische Konditionierung'</strong>. Es bildete sich ein neurologischer Anker im Gehirn: 'Geruch verfaulender Äpfel = Phase hochkonzentrierten Schaffens', was das abgelenkte Gehirn trainierte, beim Riechen sofort in den Fokus-Modus zu schalten.
 
 ---
 

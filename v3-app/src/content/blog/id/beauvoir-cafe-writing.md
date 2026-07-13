@@ -45,7 +45,7 @@ Hari ini, BuildSelf melihat prinsip konsentrasi sains otak dari rutinitas 'menul
 
 ## 1. Mekanisme Kerja White Noise dan Skrip Kognitif
 
-Secara ilmiah, menghadapi lingkungan fisik yang sama setiap hari mengaktifkan 'skrip kognitif' yang membantu transisi langsung ke imersi, mengurangi pengambilan keputusan yang tidak perlu saat berpindah tugas.
+Secara ilmiah, menghadapi lingkungan fisik yang sama setiap hari mengaktifkan <strong>'skrip kognitif'</strong> yang membantu transisi langsung ke imersi, mengurangi pengambilan keputusan yang tidak perlu saat berpindah tugas.
 
 Selain itu, white noise lembut sebesar 50-70 desibel (dB) mencegah jaringan perhatian otak terobsesi dengan rangsangan tertentu. White noise merangsang gelombang otak untuk mengaktifkan gelombang alfa yang memicu kreativitas, dan gerakan dinamis di sekitar merangsang neuron cermin, meredakan isolasi.
 

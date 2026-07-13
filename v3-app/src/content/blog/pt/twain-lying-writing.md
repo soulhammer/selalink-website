@@ -43,7 +43,7 @@ Cada manhã, após um café da manhã reforçado, em vez de ir para o escritóri
 
 Quando nos deitamos horizontalmente ou nos reclinamos, a carga do coração para bombear o sangue pelo corpo é significativamente reduzida em comparação com ficar de pé ou sentado. Isso aumenta o fluxo sanguíneo cerebral, estabiliza a frequência cardíaca e estimula fortemente o sistema nervoso parassimpático. Quando o corpo está relaxado, o cérebro suprime a secreção de cortisol.
 
-O cérebro relaxado escapa do estado de tensão (ondas beta) e emite abundantemente 'ondas alfa' e 'ondas theta' que induzem a criatividade e a intuição profunda. Psicologicamente, esse estado quebra a rigidez do pensamento lógico e promove o 'pensamento associativo (Associative Thinking)', que combina ideias aparentemente sem relação. O segredo de Mark Twain para escrever na cama reside nesta combinação de relaxamento físico e fluxo sanguíneo cerebral.
+O cérebro relaxado escapa do estado de tensão (ondas beta) e emite abundantemente <strong>'ondas alfa'</strong> e <strong>'ondas theta'</strong> que induzem a criatividade e a intuição profunda. Psicologicamente, esse estado quebra a rigidez do pensamento lógico e promove o <strong>'pensamento associativo (Associative Thinking)'</strong>, que combina ideias aparentemente sem relação. O segredo de Mark Twain para escrever na cama reside nesta combinação de relaxamento físico e fluxo sanguíneo cerebral.
 
 ---
 
@@ -105,4 +105,4 @@ O cérebro relaxado escapa do estado de tensão (ondas beta) e emite abundanteme
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

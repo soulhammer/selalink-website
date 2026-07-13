@@ -47,7 +47,7 @@ Hari ini, BuildSelf menganalisis prinsip koneksi kognitif dari rutinitas 'catata
 
 Struktur memori otak bukanlah kotak independen melainkan jaringan 'memori asosiatif' di mana informasi terkait saling terkait. Metode perekaman indeks John Locke seperti mengatur tautan asosiatif organik secara artifisial dari tahap pengodean.
 
-Proses penandaan informasi ke dalam kategori mempersempit 'jarak semantik' antar informasi. Pengetahuan yang terorganisir dengan cara ini tidak terisolasi di otak tetapi tetap dalam keadaan siaga aktif, mengurangi beban pencarian di korteks lobus frontal.
+Proses penandaan informasi ke dalam kategori mempersempit <strong>'jarak semantik'</strong> antar informasi. Pengetahuan yang terorganisir dengan cara ini tidak terisolasi di otak tetapi tetap dalam keadaan siaga aktif, mengurangi beban pencarian di korteks lobus frontal.
 
 ---
 

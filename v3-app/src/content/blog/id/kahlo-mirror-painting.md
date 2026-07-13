@@ -41,9 +41,9 @@ Melihat rasa frustrasi putrinya karena tidak bisa bergerak, ibu Frida memasang c
 
 ## 1. 'Efek Cermin Diri' untuk Mengobjektifkan Diri dan Memulihkan Kontrol
 
-Menatap refleksi diri di cermin dalam waktu lama disebut 'Teknik Menatap Cermin' dalam psikologi klinis. Di bawah stres ekstrem, cacat fisik, atau rasa sakit, otak rentan tenggelam dalam emosi negatif. Pada saat ini, cermin berfungsi sebagai alat isolasi kognitif yang memungkinkan seseorang melihat tubuh dan emosinya secara objektif dari sudut pandang pihak ketiga.
+Menatap refleksi diri di cermin dalam waktu lama disebut <strong>'Teknik Menatap Cermin'</strong> dalam psikologi klinis. Di bawah stres ekstrem, cacat fisik, atau rasa sakit, otak rentan tenggelam dalam emosi negatif. Pada saat ini, cermin berfungsi sebagai alat isolasi kognitif yang memungkinkan seseorang melihat tubuh dan emosinya secara objektif dari sudut pandang pihak ketiga.
 
-Dalam proses ini, otak memulihkan rasa kendali atas diri dan memperkuat agensi, sehingga mengatur stres dan meredakan depresi. Konfrontasi sengit Frida Kahlo dengan dirinya sendiri di cermin saat terbaring di tempat tidur lebih dari sekadar penggambaran sederhana; itu adalah manifestasi fisiologis dari 'resiliensi' untuk membangun kembali jiwanya meskipun ada kesulitan. Dalam terapi kognitif modern, meditasi cermin digunakan sebagai teknik terapeutik untuk mempromosikan penerimaan diri dan menstabilkan keadaan emosional.
+Dalam proses ini, otak memulihkan rasa kendali atas diri dan memperkuat agensi, sehingga mengatur stres dan meredakan depresi. Konfrontasi sengit Frida Kahlo dengan dirinya sendiri di cermin saat terbaring di tempat tidur lebih dari sekadar penggambaran sederhana; itu adalah manifestasi fisiologis dari <strong>'resiliensi'</strong> untuk membangun kembali jiwanya meskipun ada kesulitan. Dalam terapi kognitif modern, meditasi cermin digunakan sebagai teknik terapeutik untuk mempromosikan penerimaan diri dan menstabilkan keadaan emosional.
 
 ---
 
@@ -105,4 +105,4 @@ Dalam proses ini, otak memulihkan rasa kendali atas diri dan memperkuat agensi, 
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

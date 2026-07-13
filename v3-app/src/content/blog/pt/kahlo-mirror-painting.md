@@ -41,9 +41,9 @@ Ao ver a frustração da filha por não poder se mover, a mãe de Frida instalou
 
 ## 1. 'Efeito Autoespelho' para se Objetivar e Recuperar o Controle
 
-Olhar para o próprio reflexo no espelho por muito tempo é chamado de 'Técnica de Contemplação no Espelho' na psicologia clínica. Sob estresse extremo, deficiência física ou dor, o cérebro tende a afundar em emoções negativas. Nesse momento, o espelho funciona como uma ferramenta de isolamento cognitivo que permite olhar para o corpo e as emoções objetivamente a partir de uma perspectiva externa.
+Olhar para o próprio reflexo no espelho por muito tempo é chamado de <strong>'Técnica de Contemplação no Espelho'</strong> na psicologia clínica. Sob estresse extremo, deficiência física ou dor, o cérebro tende a afundar em emoções negativas. Nesse momento, o espelho funciona como uma ferramenta de isolamento cognitivo que permite olhar para o corpo e as emoções objetivamente a partir de uma perspectiva externa.
 
-Nesse processo, o cérebro restaura a sensação de controle sobre o eu e fortalece a agência, regulando o estresse e aliviando a depressão. O confronto de Frida Kahlo consigo mesma no espelho enquanto estava acamada foi mais do que uma simples representação; foi uma manifestação fisiológica de 'resiliência' para reconstruir sua alma. Na terapia cognitiva moderna, a meditação no espelho é usada como técnica terapêutica para promover a autoaceitação e estabilizar o estado emocional.
+Nesse processo, o cérebro restaura a sensação de controle sobre o eu e fortalece a agência, regulando o estresse e aliviando a depressão. O confronto de Frida Kahlo consigo mesma no espelho enquanto estava acamada foi mais do que uma simples representação; foi uma manifestação fisiológica de <strong>'resiliência'</strong> para reconstruir sua alma. Na terapia cognitiva moderna, a meditação no espelho é usada como técnica terapêutica para promover a autoaceitação e estabilizar o estado emocional.
 
 ---
 
@@ -105,4 +105,4 @@ Nesse processo, o cérebro restaura a sensação de controle sobre o eu e fortal
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

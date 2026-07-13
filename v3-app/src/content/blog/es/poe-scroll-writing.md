@@ -45,9 +45,9 @@ Hoy, BuildSelf desvela el mecanismo de enfoque visual del 'manuscrito en rollo' 
 
 ## 1. Túnel Cognitivo e Inhibición de Autocontrol
 
-Limitar el campo visual a una franja estrecha reduce los movimientos oculares sacádicos innecesarios, disminuyendo el esfuerzo del lóbulo frontal. En neurociencia esto se conoce como 'túnel cognitivo (Cognitive Tunneling)', y ayuda a fijar el foco bloqueando el ruido periférico.
+Limitar el campo visual a una franja estrecha reduce los movimientos oculares sacádicos innecesarios, disminuyendo el esfuerzo del lóbulo frontal. En neurociencia esto se conoce como <strong>'túnel cognitivo (Cognitive Tunneling)'</strong>, y ayuda a fijar el foco bloqueando el ruido periférico.
 
-Además, el formato continuo en rollo evita un hábito destructivo al escribir: releer y corregir la última frase de inmediato. Al apagar este circuito de 'autoevaluación (Self-monitoring)', el cerebro da paso a la 'asociación libre', permitiendo que fluyan las ideas del subconsciente sin frenos, lo que aporta originalidad.
+Además, el formato continuo en rollo evita un hábito destructivo al escribir: releer y corregir la última frase de inmediato. Al apagar este circuito de <strong>'autoevaluación (Self-monitoring)'</strong>, el cerebro da paso a la 'asociación libre', permitiendo que fluyan las ideas del subconsciente sin frenos, lo que aporta originalidad.
 
 ---
 

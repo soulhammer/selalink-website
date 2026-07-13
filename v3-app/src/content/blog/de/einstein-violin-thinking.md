@@ -47,7 +47,7 @@ Heute stellt BuildSelf die wissenschaftlichen Prinzipien hinter Einsteins 'Geige
 
 Wenn wir uns zu sehr in ein einzelnes komplexes Problem vertiefen, gerät das Gehirn in eine Denkfalle und aktiviert wiederholt nur einen bestimmten Schaltkreis. Die kognitive Psychologie nennt diesen Zustand 'Tunnelblick' oder 'kognitive Überlastung'.
 
-Einsteins Geigenspiel war das Werkzeug für einen perfekten 'kognitiven Wechsel (Cognitive Shifting)', der diesen überlasteten Schaltkreis sofort unterbrach und andere Gehirnareale aktivierte. Das Spielen eines Instruments stimuliert Sehen, Hören und Fühlen gleichermaßen und regt den Balken (Corpus Callosum) an, der die Gehirnhälften verbindet. Sobald man sich physisch und mental von dem Problem entfernt und sich ganz auf die Musik konzentriert, schaltet das Gehirn in das Ruhezustandsnetzwerk (Default Mode Network) und verknüpft verstreute Informationen kreativ zu einem 'Aha-Erlebnis'.
+Einsteins Geigenspiel war das Werkzeug für einen perfekten <strong>'kognitiven Wechsel (Cognitive Shifting)'</strong>, der diesen überlasteten Schaltkreis sofort unterbrach und andere Gehirnareale aktivierte. Das Spielen eines Instruments stimuliert Sehen, Hören und Fühlen gleichermaßen und regt den Balken (Corpus Callosum) an, der die Gehirnhälften verbindet. Sobald man sich physisch und mental von dem Problem entfernt und sich ganz auf die Musik konzentriert, schaltet das Gehirn in das Ruhezustandsnetzwerk (Default Mode Network) und verknüpft verstreute Informationen kreativ zu einem 'Aha-Erlebnis'.
 
 ---
 
@@ -119,4 +119,3 @@ Einsteins Geigenspiel war das Werkzeug für einen perfekten 'kognitiven Wechsel 
     </p>
   </details>
 </div>
-<strong></strong>

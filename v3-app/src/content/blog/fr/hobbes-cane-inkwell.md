@@ -47,7 +47,7 @@ Aujourd'hui, BuildSelf décrypte la neurobiologie de cette 'canne-encrier' de Th
 
 Lorsque le cerveau entre en état de marche détendue, le réseau du mode par défaut (DMN), qui gère la créativité, s'active et des idées surgissent. Mais cette inspiration est stockée dans la mémoire de travail à court terme et reste instable : sans écriture dans les 10 à 15 secondes, elle s'efface.
 
-La canne-encrier de Hobbes était l'outil idéal d''externalisation cognitive (Cognitive Externalization)' pour dépasser cette limite. Plutôt que de forcer le cerveau à retenir l'idée, il la transférait immédiatement sur papier, libérant le cortex frontal de toute surcharge pour lui permettre de continuer sa réflexion.
+La canne-encrier de Hobbes était l'outil idéal d'<strong>'externalisation cognitive (Cognitive Externalization)'</strong> pour dépasser cette limite. Plutôt que de forcer le cerveau à retenir l'idée, il la transférait immédiatement sur papier, libérant le cortex frontal de toute surcharge pour lui permettre de continuer sa réflexion.
 
 ---
 

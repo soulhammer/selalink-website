@@ -41,7 +41,7 @@ Kafka wrote in extreme silence from 11 PM to 2 or 3 AM, sometimes until dawn. Wh
 
 ## 1. 'Frontal Down-regulation' to Release Control and Reach Essence
 
-During the day, our frontal lobe actively consumes cognitive energy required for social norms, logical reasoning, and attention. However, late at night when energy is depleted, the strong control filter of the frontal lobe temporarily weakens. Cognitive science calls this state 'Frontal Down-regulation'.
+During the day, our frontal lobe actively consumes cognitive energy required for social norms, logical reasoning, and attention. However, late at night when energy is depleted, the strong control filter of the frontal lobe temporarily weakens. Cognitive science calls this state <strong>'Frontal Down-regulation'</strong>.
 
 When control is released, the brain escapes from rational suppression and relentlessly pours out emotional depth, unconscious association, and original creativity that were difficult to access normally. This is the physiological driving force that allowed Kafka to write masterpieces that give deep resonance in the dark night. In addition, the perfect physical silence of midnight completely blocks noise interference that disturbs working memory, creating an optimal neurochemical environment for the brain to immerse itself in a single topic.
 
@@ -105,4 +105,4 @@ When control is released, the brain escapes from rational suppression and relent
     </p>
   </details>
 </div>
-<strong></strong><strong></strong>
+<strong></strong>

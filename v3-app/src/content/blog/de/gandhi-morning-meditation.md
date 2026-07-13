@@ -41,7 +41,7 @@ Gandhi stand jeden Tag um 4 Uhr morgens auf. Sobald er die Augen öffnete, medit
 
 ## 1. 'Aktive Meditation', bei der repetitive Bewegung Serotonin stimuliert
 
-Während Meditation eine statische Handlung des Stillsitzens ist, ist das Spinnen eine 'aktive Meditation', die durch Bewegung Fokus erzeugt. Neurobiologisch gesehen stimuliert die feine Bewegung der Finger im Kreisrhythmus die Ausschüttung von Serotonin, einem emotionalen Botenstoff. Serotonin klärt das Gehirn am Morgen und unterdrückt Angst und Ärger.
+Während Meditation eine statische Handlung des Stillsitzens ist, ist das Spinnen eine <strong>'aktive Meditation'</strong>, die durch Bewegung Fokus erzeugt. Neurobiologisch gesehen stimuliert die feine Bewegung der Finger im Kreisrhythmus die Ausschüttung von <strong>Serotonin</strong>, einem emotionalen Botenstoff. Serotonin klärt das Gehirn am Morgen und unterdrückt Angst und Ärger.
 
 Zudem unterdrückt die feine Konzentration beim Regulieren der Fadenspannung das Gehirnnetzwerk für abschweifende Gedanken und fesselt die Aufmerksamkeit an das Hier und Jetzt. Gandhis physiologische Quelle, in stürmischen Zeiten ruhig zu bleiben, war die Harmonisierung des Nervensystems (HRV) durch den einfachen Rhythmus des Spinnrads.
 
@@ -105,4 +105,4 @@ Zudem unterdrückt die feine Konzentration beim Regulieren der Fadenspannung das
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

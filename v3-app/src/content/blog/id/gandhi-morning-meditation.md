@@ -41,7 +41,7 @@ Gandhi bangun jam 4 pagi setiap hari. Begitu membuka mata, ia bermeditasi dan be
 
 ## 1. 'Meditasi Aktif' di mana Gerakan Berulang Menstimulasi Serotonin
 
-Jika meditasi biasa hanyalah tindakan statis duduk diam, memintal benang adalah 'meditasi aktif' yang memicu fokus dengan menggerakkan tubuh. Secara neurosains, latihan yang secara halus menggunakan sentuhan jari dan mengulangi ritme melingkar yang teratur menstimulasi sekresi serotonin, neurotransmitter yang mengatur emosi. Serotonin membangunkan otak dengan jelas di pagi hari dan menekan kecemasan.
+Jika meditasi biasa hanyalah tindakan statis duduk diam, memintal benang adalah <strong>'meditasi aktif'</strong> yang memicu fokus dengan menggerakkan tubuh. Secara neurosains, latihan yang secara halus menggunakan sentuhan jari dan mengulangi ritme melingkar yang teratur menstimulasi sekresi <strong>serotonin</strong>, neurotransmitter yang mengatur emosi. Serotonin membangunkan otak dengan jelas di pagi hari dan menekan kecemasan.
 
 Selain itu, fokus halus jari yang mengatur tegangan agar benang tidak putus segera menekan jaringan otak yang mengatur pikiran melayang dan mengunci perhatian dengan kuat pada kondisi saat ini. Sumber fisiologis yang memungkinkan Gandhi mempertahankan pikiran yang tenang di tengah kekacauan adalah menyelaraskan saraf otonom (HRV) melalui ritme sederhana roda pemintal.
 
@@ -105,4 +105,4 @@ Selain itu, fokus halus jari yang mengatur tegangan agar benang tidak putus sege
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

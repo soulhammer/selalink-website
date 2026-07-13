@@ -45,7 +45,7 @@ Hoje, o BuildSelf revela a neurobiologia por trás do hábito de Simone de Beauv
 
 ## 1. Mecanismo do Ruído Branco e do Roteiro Cognitivo
 
-Em termos neurocientíficos, estar no mesmo ambiente físico (mesa, bebida) ativa um 'roteiro cognitivo (Cognitive Script)' que ajuda a entrar direto em foco, poupando a energia que o cérebro gastaria decidindo como iniciar.
+Em termos neurocientíficos, estar no mesmo ambiente físico (mesa, bebida) ativa um <strong>'roteiro cognitivo (Cognitive Script)'</strong> que ajuda a entrar direto em foco, poupando a energia que o cérebro gastaria decidindo como iniciar.
 
 Além disso, o ruído de 50 a 70 decibéis (dB) das cafeterias (ruído branco) evita que o sistema de atenção se fixe em estímulos isolados. Esse som estimula as ondas alfa, ligadas à criatividade; enquanto a presença alheia passiva ativa os neurônios espelho, diminuindo a sensação de isolamento.
 

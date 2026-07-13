@@ -41,7 +41,7 @@ Gandhi se despertaba a las 4 AM todos los días. Nada más abrir los ojos, medit
 
 ## 1. 'Meditación Activa' donde el Movimiento Repetitivo Estimula la Serotonina
 
-Si la meditación es el acto estático de sentarse quieto, hilar es una 'meditación activa' que induce la concentración moviendo el cuerpo. Neurocientíficamente, los ejercicios que utilizan delicadamente el tacto de los dedos y repiten un ritmo circular estimulan la secreción de serotonina. La serotonina despierta el cerebro y suprime la ansiedad.
+Si la meditación es el acto estático de sentarse quieto, hilar es una <strong>'meditación activa'</strong> que induce la concentración moviendo el cuerpo. Neurocientíficamente, los ejercicios que utilizan delicadamente el tacto de los dedos y repiten un ritmo circular estimulan la secreción de <strong>serotonina</strong>. La serotonina despierta el cerebro y suprime la ansiedad.
 
 Además, el enfoque fino de los dedos para regular la tensión de modo que el hilo no se rompa suprime inmediatamente la red cerebral que gobierna los pensamientos ociosos, fijando la atención en el presente. La fuente fisiológica que permitió a Gandhi mantener la calma en medio del torbellino fue alinear el sistema nervioso autónomo (HRV) a través del simple ritmo del hilado.
 
@@ -105,4 +105,4 @@ Además, el enfoque fino de los dedos para regular la tensión de modo que el hi
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

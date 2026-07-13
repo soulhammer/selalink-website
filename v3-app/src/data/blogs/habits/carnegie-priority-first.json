@@ -1,0 +1,203 @@
+{
+  "carnegie-priority-first": {
+    "title": {
+      "ko": "가장 어려운 과제부터 아침에 처치한 거부? 앤드류 카네기의 우선순위 완결 루틴",
+      "en": "The Billionaire Who Tackled the Hardest Task First? Andrew Carnegie's Priority Focus Routine",
+      "ja": "最も困難な課題から朝一番に片付けた大富豪？アンドリュー・カーネギーの優先順位完結ルーティン",
+      "zh": "清晨最先解决最难课题的巨富？安德鲁·卡内基的优先顺位完结常规",
+      "es": "¿El multimillonario que resolvía primero la tarea más difícil? La rutina de prioridad de Andrew Carnegie",
+      "fr": "Le milliardaire qui s'attaquait d'abord à la tâche la plus difficile ? La routine de priorité d'Andrew Carnegie",
+      "de": "Der Milliardär, der die schwerste Aufgabe zuerst anpackte? Andrew Carnegies Prioritätsroutine",
+      "pt": "O bilionário que resolvia primeiro a tarefa mais difícil? A rotina de prioridade de Andrew Carnegie",
+      "id": "Miliarder yang Menyelesaikan Tugas Tersulit Terlebih Dahulu? Rutinitas Fokus Prioritas Andrew Carnegie"
+    },
+    "description": {
+      "ko": "철강왕 앤드류 카네기. 전두엽 에너지가 가장 충만한 아침 시간에 가장 무겁고 골치 아픈 일을 끝마쳤던 그의 루틴과 현대적 자아 고갈 극복법을 알아봅니다.",
+      "en": "Andrew Carnegie, the steel king. Discover his routine of finishing the heaviest and most troublesome tasks during the morning, when frontal lobe energy is at its peak, and how to prevent ego depletion.",
+      "ja": "鉄鋼王アンドリュー・カーネギー。前頭葉のエネルギーが最も充満している朝の時間帯に、最も重く厄介な仕事を終わらせた彼のルーティンと、現代的な自己消耗の克服法を紹介します。",
+      "zh": "钢铁大王安德鲁·卡内基。介绍他在前额叶能量最充足的清晨完成最沉重、最棘手工作的常规，以及现代克服自我损耗的方法。",
+      "es": "Andrew Carnegie, el rey del acero. Conozca su rutina de terminar las tareas más pesadas por la mañana, cuando la energía está a tope, y cómo evitar el desgaste.",
+      "fr": "Andrew Carnegie, le roi de l'acier. Découvrez sa routine consistant à finir les tâches les plus lourdes le matin, lorsque l'énergie est au maximum, et comment éviter l'épuisement.",
+      "de": "Andrew Carnegie, der Stahlkönig. Entdecken Sie seine Routine, die schwersten Aufgaben morgens zu erledigen, wenn die Energie am höchsten ist, und wie man Erschöpfung vermeidet.",
+      "pt": "Andrew Carnegie, o rei do aço. Conheça sua rotina de terminar as tarefas mais pesadas pela manhã, quando a energia está no ápice, e como evitar o desgaste.",
+      "id": "Andrew Carnegie, sang raja baja. Temukan rutinitasnya menyelesaikan tugas terberat dan paling menyusahkan di pagi hari saat energi lobus frontal berada di puncaknya."
+    },
+    "authority": {
+      "ko": "카네기 자서전 'Autobiography of Andrew Carnegie' 및 자아 고갈(Ego Depletion) 이론 심리학 연구",
+      "en": "Carnegie's Autobiography 'Autobiography of Andrew Carnegie' & Psychology Research on Ego Depletion Theory",
+      "ja": "カーネギー自伝「Autobiography of Andrew Carnegie」および自己消耗（Ego Depletion）理論心理学研究",
+      "zh": "卡内基自传《Autobiography of Andrew Carnegie》与自我损耗 (Ego Depletion) 理论心理学研究",
+      "es": "Autobiografía de Carnegie 'Autobiography of Andrew Carnegie' y estudios de psicología sobre el desgaste del ego",
+      "fr": "Autobiographie de Carnegie 'Autobiography of Andrew Carnegie' & études de psychologie sur l'épuisement de l'ego",
+      "de": "Carnegies Autobiografie 'Autobiography of Andrew Carnegie' & psychologische Studien zur Erschöpfung des Egos",
+      "pt": "Autobiografia de Carnegie 'Autobiography of Andrew Carnegie' & estudos de psicologia sobre o desgaste do ego",
+      "id": "Autobiografi Carnegie 'Autobiography of Andrew Carnegie' & Studi Psikologi Teori Ego Depletion"
+    },
+    "intro": {
+      "ko": "미국의 거대한 철강 산업을 통일하고 막대한 부를 축적하여 록펠러와 함께 인류 역사상 최고의 부호이자 기부왕으로 일컬어지는 철강왕, 앤드류 카네기. 가난한 이민자의 아들에서 시작해 세계 철강 제국을 건설하고 탁월한 의사결정을 내려온 그의 천재적인 경영 비결과 생산성의 원천은 아침의 어떤 습관에 숨어 있었을까요? 🏗️\n\n카네기는 매일 아침 업무를 개시할 때, 자신이 달성해야 할 과업들의 우선순위를 가장 먼저 정리했습니다. 그리고 그중에서 성공적인 비즈니스를 위해 가장 결정적이지만, 동시에 해결하기 가장 두렵고 복잡하며 미뤄두고 싶었던 핵심 업무를 선택해 최상단에 배치했습니다. 카네기는 전두엽의 에너지와 합리적 통제력이 가장 충만하고 맑은 아침 골든타임 1~2시간 동안은 이메일이나 면담 요청을 모두 물리치고 오직 그 골치 아픈 '가장 무거운 과제'를 완결하는 데 모든 에너지를 쏟았습니다.\n\n오늘 BuildSelf에서는 앤드류 카네기의 '가장 무거운 일 먼저 하기' 루틴이 뇌의 한정된 의지력을 보존하는 과학적 메커니즘을 밝히고, 현대 지식 노동자들이 효율을 극대화하는 실천 방법을 소개합니다.",
+      "en": "Andrew Carnegie, the steel king who consolidated America's vast steel industry, accumulated colossal wealth, and became one of history's greatest philanthropists alongside Rockefeller. What was the secret of his business productivity and decision-making? 🏗️\n\nEvery morning at the start of business, Carnegie organized the priorities of the tasks he had to achieve. He then selected the core task that was most crucial for success, yet at the same time most difficult, complex, and dreaded, placing it at the very top of his list. For the first 1-2 golden hours of the morning, when his frontal lobe's energy and rational control were at their peak, Carnegie turned away all emails and meeting requests, pouring all his energy into completing that single heaviest task.\n\nToday, BuildSelf reveals the scientific mechanism of Andrew Carnegie's 'do the hardest task first' routine in conserving the brain's limited willpower, and introduces practical methods for modern workers to maximize efficiency.",
+      "ja": "アメリカの巨大な鉄鋼産業を統一し、莫大な富を蓄積して、ロックフェラーとともに人類の歴史上最高の富豪であり寄付王と言われる鉄鋼王、アンドリュー・カーネギー。貧しい移民の息子からスタートし、世界の鉄鋼帝国を建設して卓越した意思決定を下してきた彼の天才的な経営の秘訣と生産性の源泉は、朝のどのような習慣に隠されていたのでしょうか？ 🏗️\n\nカーネギーは毎朝業務を開始するとき、自分が達成すべき課題の優先順位を最も先に整理しました。そしてその中で、成功するビジネスのために最も決定的であるものの、同時に解決するのが最も恐ろしく複雑で、先延ばしにしたかった核心業務を選択して最上位に配置しました。カーネギーは前頭葉のエネルギーと合理的なコントロール力が最も充満し、澄んでいる朝のゴールデンタイムの1〜2時間の間は、電子メールや面談の要請をすべて退け、ひたすらその厄介な「最も重い課題」を完結させるためにすべてのエネルギーを注ぎました。\n\n本日、BuildSelfではアンドリュー・カーネギーの「最も重い仕事から先にやる」ルーティンが脳の限られた意志力を保存する科学的メカニズムを明らかにし、現代の知識労働者が効率を極大化する実践方法を紹介します。",
+      "zh": "统一了美国庞大的钢铁工业，积累了巨额财富，与洛克菲勒一起被称为人类历史上最大富豪兼捐赠大王的钢铁大王安德鲁·卡内基。从贫穷的移民之子开始，建立起世界钢铁帝国，并做出卓越决策，他那天才般的经营秘诀和生产力源泉隐藏在清晨的什么习惯中？ 🏗️\n\n卡内基每天清晨开始工作时，总会最先整理自己要完成的工作的优先顺序。接着，从中选择对成功商业最关键、但同时解决起来最令人生畏、最复杂、最想推迟的核心工作，放在最顶端。在清晨1~2小时的黄金时间里，前额叶能量和合理控制力最充沛、最清醒，卡内基推掉了所有电子邮件或面谈请求，将所有精力都投入到完成那项棘手的“最沉重课题”中。\n\n今天，BuildSelf 将为您揭秘安德鲁·卡内基“最难的工作先做”常规保护大脑有限意志力的科学机制，并为现代知识工作者介绍使效率最大化的实践方法。"
+    },
+    "whyTitle": {
+      "ko": "의지력의 한계를 극복하는 '자아 고갈 극복법'",
+      "en": "'Ego Depletion Control' to Overcome Willpower Limits",
+      "ja": "意志力の限界を克服する「自己消耗の克服法」",
+      "zh": "克服意志力极限的“自我损耗克服法”",
+      "es": "'Control del desgaste del ego' para superar los límites de la voluntad",
+      "fr": "Contrôle de l'épuisement de l'ego' pour dépasser les limites de la volonté",
+      "de": "Ego-Depletions-Kontrolle zur Überwindung von Willenskraftgrenzen",
+      "pt": "'Controle do desgaste do ego' para superar os limites da vontade",
+      "id": "'Kontrol Ego Depletion' untuk Mengatasi Batas Kemauan"
+    },
+    "whyDesc": {
+      "ko": "현대 심리학과 뇌과학은 우리 뇌에서 합리적인 의사결정, 유혹 저항, 의지력을 조율하는 대뇌 전두엽(Prefrontal Cortex)의 인지 자원이 무한하지 않고 마치 배터리처럼 유한하게 고갈되는 에너지원임을 밝혀냈습니다. 이를 <strong>'자아 고갈(Ego Depletion)'</strong> 이론이라고 합니다. \n\n아침 시간에 스마트폰 스크롤, 이메일 확인, 사소한 답장 등으로 전두엽 에너지를 야금야금 소모해 버리면, 정작 오후가 되었을 때 중요한 기획안 작성이나 예산 결정과 같은 고난도 작업에 필요한 뇌의 배터리가 방전됩니다. 카네기의 아침 최우선 해결 루틴은 이 자아 고갈을 막는 최고의 뇌 공학적 전략이었습니다. 수면을 취하고 일어나 에너지가 100% 충전된 아침 첫 시간에 가장 무거운 과제를 처치함으로써, 최고의 논리성과 판단력으로 일을 완결하고 나머지 하루를 에너지 방전 걱정 없이 한결 가볍고 생산적으로 보낼 수 있게 도왔습니다.",
+      "en": "Modern psychology and neuroscience have revealed that the cognitive resources of the prefrontal cortex—which coordinates rational decision-making, temptation resistance, and willpower—are not infinite, but deplete like a battery. This is known as <strong>'Ego Depletion'</strong> theory.\n\nIf you consume your frontal lobe energy in the morning by scrolling on your phone, checking emails, or answering minor requests, your brain's battery will be drained when you need to make high-level decisions or write plans in the afternoon. Andrew Carnegie's routine was the ultimate brain engineering strategy to prevent ego depletion. By tackling the heaviest task in the morning when energy was 100% charged after sleep, he finished the job with peak logic and judgment, leaving the rest of the day light and productive.",
+      "ja": "現代心理学と脳科学は、私たちの脳で合理的な意思決定、誘惑への抵抗、意志力を調整する大脳前頭葉（Prefrontal Cortex）の認知資源は無限ではなく、まるでバッテリーのように有限に消耗するエネルギー源であることを明らかにしました。これを<strong>「自己消耗（Ego Depletion）」</strong>理論と呼びます。\n\n朝の時間帯にスマートフォンのスクロール、電子メールの確認、些細な返信などで前頭葉のエネルギーを少しずつ消費してしまうと、いざ午後になったときに重要な企画案の作成や予算決定などの高難度の作業に必要な脳のバッテリーが放電してしまいます。カーネギーの朝の最優先解決ルーティンは、この自己消耗を防ぐ最高の脳工学的戦略でした。睡眠をとって起き、エネルギーが100％充電された朝一番の時間帯に最も重い課題を処理することで、最高の論理性と判断力で仕事を完結させ、残りの一日をバッテリー切れの心配なしに軽やかで生産的に過ごせるよう助けました。",
+      "zh": "现代心理学和脑科学研究表明，我们大脑中协调合理决策、抵制诱惑和意志力的大脑前额叶 (Prefrontal Cortex) 的认知资源并不是无限的，而是像电池一样有限损耗的能量源。这被称为<strong>“自我损耗 (Ego Depletion)”</strong>理论。\n\n如果在早晨通过刷手机、确认电子邮件、进行琐碎回复等一点点消耗前额叶能量，那么到了下午，进行撰写重要规划案或做出预算决策等高难度工作所需的脑部电池就会放电。卡内基的清晨最优先解决常规是防止这种自我损耗的最佳脑部工程战略。通过在睡眠醒来后能量100%充满的清晨第一时间解决最沉重的课题，以最佳的逻辑性和判断力完成工作，从而帮助在剩下的一天里无需担心能量放电，更轻松、高效地度过。"
+    },
+    "cautionTitle": {
+      "ko": "아침의 뇌 배터리를 사소한 잡무에 방전시키지 마십시오",
+      "en": "Do Not Drain Your Morning Brain Battery on Trivial Chores",
+      "ja": "朝の脳のバッテリーを些細な雑務で放電させないでください",
+      "zh": "请勿在琐碎杂务中耗尽清晨的大脑电池",
+      "es": "No gaste la batería de su cerebro por la mañana en tareas triviales",
+      "fr": "Ne videz pas la batterie de votre cerveau le matin avec des tâches futiles",
+      "de": "Verschwenden Sie die Energie Ihres Gehirns morgens nicht für Kleinigkeiten",
+      "pt": "Não gaste a bateria do seu cérebro de manhã com tarefas triviais",
+      "id": "Jangan Habiskan Baterai Otak Pagi Anda untuk Pekerjaan Sepele"
+    },
+    "cautionDesc": {
+      "ko": "성공적인 경영자에게 의지력은 매 순간 가치가 하락하는 고가의 인지 자산입니다. 카네기는 매일 아침 전두엽의 골든타임을 소모적인 잡무에 기부하지 않고, 가장 중대한 철강 제국의 의사결정에 투자함으로써 인류 역사상 최고의 생산성을 유지했습니다. 가장 미루고 싶었던 그 일을 아침 첫 업무로 처리하십시오.",
+      "en": "For a successful manager, willpower is an expensive cognitive asset that depreciates every moment. Carnegie did not donate his frontal lobe's golden time to trivial tasks, but invested it in the most critical decisions of his steel empire, maintaining peak productivity. Make the task you want to delay most your first project of the morning.",
+      "ja": "成功した経営者にとって意志力は、毎瞬価値が低下する高価な認知資産です。カーネギーは毎朝、前頭葉のゴールデンタイムを消耗的な雑務に費やすことなく、最も重大な鉄鋼帝国の意思決定に投資することで、人類史上最高の生産性を維持しました。最も先延ばしにしたかったその仕事を、朝一番の業務として処理してください。",
+      "zh": "对于成功的经营者来说，意志力是每一瞬间都在贬值的昂贵认知资产。卡内基没有将每天清晨前额叶的黄金时间奉献给消耗性的杂务，而是投资于最重大的钢铁帝国决策中，从而保持了人类历史上最高的生产力。请将最想推迟的那件事作为清晨的第一项工作来处理。"
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "일일 과업 나열 및 핵심 과제(개구리) 선정",
+          "en": "List Daily Tasks and Select the Core Task (The Frog)",
+          "ja": "一日の課題の羅列と核心課題（カエル）の選定",
+          "zh": "列出每日任务并选择核心课题（青蛙）",
+          "es": "Liste las tareas y elija la principal",
+          "fr": "Lister les tâches et choisir la principale",
+          "de": "Listen Sie Aufgaben auf und wählen Sie die wichtigste",
+          "pt": "Liste as tarefas e escolha a principal",
+          "id": "Daftarkan Tugas Harian dan Pilih Tugas Utama"
+        },
+        "text": {
+          "ko": "아침 업무 시작 직후 5분 동안 오늘 해야 할 모든 일들을 노트에 간결하게 나열하고, 이 중 가장 가치 있으면서도 가장 골치 아프고 해결하기 미뤘던 핵심 작업 1개를 선정합니다.",
+          "en": "Spend 5 minutes immediately at the start of morning work listing all tasks to be done today, and select the single core task that is most valuable yet most troublesome and delayed.",
+          "ja": "朝の業務開始直後の5分間、今日すべきすべての仕事をノートに簡潔に書き並べ、この中で最も価値がありながらも、最も厄介で解決を先延ばしにしていた核心作業を1つ選定します。",
+          "zh": "在清晨开始工作后的5分钟内，在笔记本上简要列出今天要做的一切事情，并从中选择1个最有价值、但最棘手且一直推迟解决的核心工作。",
+          "es": "Dedique 5 minutos al empezar a listar sus tareas y elija la más valiosa pero molesta que haya estado posponendo.",
+          "fr": "Consacrez 5 minutes au début à lister vos tâches et choisissez la plus importante mais pénible que vous repoussiez.",
+          "de": "Listen Sie zu Beginn 5 Minuten lang alle Aufgaben auf und wählen Sie die wichtigste, aber unangenehmste.",
+          "pt": "Dedique 5 minutos ao começar para listar suas tarefas e escolha a mais valiosa mas chata que tem adiado.",
+          "id": "Luangkan waktu 5 menit segera setelah mulai bekerja untuk mendaftarkan semua tugas hari ini di catatan, dan pilih satu tugas utama yang paling berharga namun paling menyusahkan dan tertunda."
+        }
+      },
+      {
+        "name": {
+          "ko": "전두엽 골든타임의 외부 자극 차단",
+          "en": "Block External Stimuli During the Frontal Lobe's Golden Time",
+          "ja": "前頭葉のゴールデンタイムにおける外部刺激の遮断",
+          "zh": "阻断前额叶黄金时间的外部刺激",
+          "es": "Bloquee los estímulos durante las horas doradas",
+          "fr": "Bloquez les stimuli pendant les heures dorées",
+          "de": "Blockieren Sie Reize während der besten Stunden",
+          "pt": "Bloqueie os estímulos durante as horas douradas",
+          "id": "Blokir Stimulus Luar Selama Waktu Emas Lobus Frontal"
+        },
+        "text": {
+          "ko": "메신저, 이메일 프로그램, 소셜 미디어를 모두 닫아두고 알림을 차단합니다. 아침 첫 1~2시간 동안은 뇌의 에너지를 소모하는 외부의 사소한 요구를 전면적으로 배제합니다.",
+          "en": "Close all messenger apps, email programs, and social media to block notifications. For the first 1-2 hours of the morning, completely shut out minor external demands that drain brain energy.",
+          "ja": "メッセンジャー、電子メールプログラム、ソーシャルメディアをすべて閉じて、通知を遮断します。朝の最初の1〜2時間は、脳のエネルギーを消費する外部の些細な要求を全面的に排除します。",
+          "zh": "将社交软件、电子邮件程序、社交媒体全部关闭并屏蔽通知。在清晨最初的1~2小时内，全面排除消耗大脑能量的外部琐碎要求。",
+          "es": "Cierre las aplicaciones de chat, correos y redes. Durante las primeras horas de la mañana, excluya demandas externas.",
+          "fr": "Fermez les applications de messagerie, e-mails et réseaux. Pendant les premières heures, excluez les demandes externes.",
+          "de": "Schließen Sie Messenger-Apps, E-Mails und soziale Medien. Schließen Sie in den ersten Stunden externe Anforderungen aus.",
+          "pt": "Feche os aplicativos de chat, e-mails e redes sociais. Durante as primeiras horas da manhã, exclua demandas externas.",
+          "id": "Tutup semua aplikasi pesan, program email, dan media sosial untuk memblokir notifikasi. Selama 1-2 jam pertama di pagi hari, abaikan tuntutan luar yang sepele yang menguras energi otak."
+        }
+      },
+      {
+        "name": {
+          "ko": "핵심 과제 단일 집중 및 완결",
+          "en": "Focus and Complete the Core Task",
+          "ja": "核心課題への単一集中と完結",
+          "zh": "对核心课题进行单一集中并完结",
+          "es": "Concéntrese en la tarea principal y termínela",
+          "fr": "Concentrez-vous sur la tâche principale et terminez-la",
+          "de": "Konzentrieren Sie sich auf die Hauptaufgabe und schließen Sie sie ab",
+          "pt": "Concentre-se na tarefa principal e termine-a",
+          "id": "Fokus Tunggal dan Selesaikan Tugas Utama"
+        },
+        "text": {
+          "ko": "전두엽 배터리가 가장 맑은 상태에서 오직 선정된 무거운 과제 하나에만 전력 집중하여 완료합니다. 가장 어려운 일을 해결했다는 도파민성 성취감을 바탕으로 나머지 잡무들을 신속하게 처리합니다.",
+          "en": "Focus all your energy on completing the selected heavy task while the frontal lobe battery is cleanest. Use the dopaminergic sense of achievement from finishing the hardest job to quickly handle remaining tasks.",
+          "ja": "前頭葉のバッテリーが最も澄んだ状態で、選定された重い課題一つだけに全力を集中して完了します。最も困難な仕事を解決したというドーパミン的な達成感を基に、残りの雑務を迅速に処理します。",
+          "zh": "在前额叶电池最清醒的状态下，全力以赴只专注于所选的沉重课题并将其完成。以此前解决了最难事情的多巴胺式成就感为基础，迅速处理剩下的杂务。",
+          "es": "Concéntrese con su mente fresca en terminar esa tarea pesada. Use la satisfacción de haber resuelto lo difícil para liquidar el resto.",
+          "fr": "Concentrez-vous avec l'esprit frais sur cette tâche lourde. Utilisez la satisfaction d'avoir résolu le plus dur pour régler le reste.",
+          "de": "Konzentrieren Sie sich mit frischem Kopf auf die wichtigste Aufgabe. Nutzen Sie den Erfolg für die Erledigung des Rests.",
+          "pt": "Concentre-se com a mente fresca em terminar essa tarefa pesada. Use a satisfação de ter resolvido o difícil para liquidar o resto.",
+          "id": "Fokuskan semua energi Anda untuk menyelesaikan tugas terberat yang dipilih saat baterai lobus frontal paling bersih. Gunakan rasa pencapaian dopaminergik setelah menyelesaikan pekerjaan tersulit untuk menangani tugas-tugas lainnya dengan cepat."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "만약 아침에 급하게 처리해야 하는 연락이 오면 어떻게 하나요?",
+          "en": "What if an urgent contact comes in the morning?",
+          "ja": "もし朝、急に処理しなければならない連絡が来たらどうしますか？",
+          "zh": "如果清晨来电或收到需要紧急处理的联络，该怎么办？",
+          "es": "¿Qué hacer si surge un contacto urgente por la mañana?",
+          "fr": "Que faire si un contact urgent survient le matin ?",
+          "de": "Was mache ich bei dringenden Anfragen am Morgen?",
+          "pt": "O que fazer se surgir um contato urgente pela manhã?",
+          "id": "Bagaimana jika ada kontak mendesak di pagi hari?"
+        },
+        "answer": {
+          "ko": "회사의 즉각적인 위기 상황이 아니라면, 대부분의 '급해 보이는' 이메일이나 연락은 1~2시간 뒤에 처리해도 업무 흐름에 큰 지장이 없습니다. 나만의 '전두엽 보존 요새 시간'을 1시간이라도 설정하여 아침 첫 타임에 배치하는 것이 핵심입니다.",
+          "en": "Unless it is an immediate crisis, most 'urgent-looking' emails or messages can wait for 1-2 hours without major disruption. The key is to establish at least 1 hour of your own 'frontal lobe protection time' at the very beginning of the morning.",
+          "ja": "会社の即座の危機状況でなければ、ほとんどの「急ぎに見える」電子メールや連絡は、1〜2時間後に処理しても業務の流れに大きな支障はありません。自分だけの「前頭葉保存要塞時間」を1時間でも設定して、朝一番の時間帯に配置することが核心です。",
+          "zh": "除非是公司的紧急危机情况，否则大部分“看似紧急”的电子邮件或联络，在1~2小时后处理也不会对工作流程造成太大影响。关键是即使只有1个小时，也要设定专属于自己的“保护前额叶防壁时间”，配置在清晨的第一时间段。",
+          "es": "A menos que sea una crisis, la mayoría de los correos que parecen urgentes pueden esperar 1 o 2 horas. Establezca al menos 1 hora de reserva para usted al comenzar.",
+          "fr": "Sauf crise, la plupart des messages qui semblent urgents peuvent attendre 1 ou 2 heures. Aménagez-vous au moins 1 heure réservée au début.",
+          "de": "Sofern es sich nicht um eine Krise handelt, können dringende E-Mails 1 bis 2 Stunden warten. Richten Sie sich zu Beginn 1 Stunde für sich ein.",
+          "pt": "A menos que seja uma crise, a maioria dos e-mails que parecem urgentes podem esperar 1 ou 2 horas. Estabeleça ao menos 1 hora de reserva para você ao começar.",
+          "id": "Kecuali jika terjadi krisis langsung di perusahaan, sebagian besar email atau kontak yang 'tampak mendesak' dapat ditangani 1-2 jam kemudian tanpa gangguan besar pada alur kerja. Kuncinya adalah menetapkan setidaknya 1 jam 'waktu perlindungan lobus frontal' Anda sendiri di awal pagi."
+        }
+      },
+      {
+        "question": {
+          "ko": "가장 어려운 과제가 하루 만에 끝내기 힘들 정도로 거대할 때는 어떻게 하나요?",
+          "en": "What if the hardest task is too massive to finish in a single day?",
+          "ja": "最も困難な課題が、一日で終わらせるのが難しいほど巨大なときはどうしますか？",
+          "zh": "如果最难的课题庞大到难以在一天内完成，该怎么办？",
+          "es": "¿Qué hacer si la tarea principal es demasiado grande?",
+          "fr": "Que faire si la tâche principale est trop grande ?",
+          "de": "Was mache ich, wenn die Hauptaufgabe zu groß ist?",
+          "pt": "O que fazer se a tarefa principal for grande demais?",
+          "id": "Bagaimana jika tugas tersulit terlalu besar untuk diselesaikan dalam sehari?"
+        },
+        "answer": {
+          "ko": "과제가 너무 크면 뇌는 압박감을 느껴 시작하기도 전에 회피하려 합니다. 이럴 때는 그 거대한 과제를 '오늘 아침 1시간 동안 끝낼 수 있는 세부 단위 행동'으로 잘게 나누어 분할한 뒤, 그 분할된 조각 하나를 아침 첫 업무로 정해 격파해 나갑니다.",
+          "en": "If a task is too big, the brain feels pressured and tries to avoid starting. In this case, divide the massive task into smaller action units that can be finished in 1 hour this morning, and tackle one split chunk as your first project.",
+          "ja": "課題が大きすぎると、脳は圧迫感を感じて開始する前に回避しようとします。このようなときは、その巨大な課題を「今朝の1時間で終わらせることができる詳細な単位のアクション」に細かく分け、その分割された一つを朝一番の業務と決めて処理していきます。",
+          "zh": "如果课题过大，大脑会感到压迫感，甚至在开始前就想要逃避。这时，应将庞大的课题细分为“今天早晨1小时内可以完成的细部单位行动”，然后将其中拆分后的一个小块定为清晨的第一项工作去击破它。",
+          "es": "Si es enorme, el cerebro sentirá presión y la evitará. Divida la tarea en partes pequeñas que pueda terminar en 1 hora, y aborde una de ellas primero.",
+          "fr": "Si elle est énorme, le cerveau ressent de la pression et l'évite. Divisez la tâche en actions d'une heure, et attaquez l'une d'elles d'abord.",
+          "de": "Wenn sie riesig ist, weicht das Gehirn aus. Teilen Sie die Aufgabe in Abschnitte von 1 Stunde auf und bearbeiten Sie zuerst einen Teil.",
+          "pt": "Se for enorme, o cérebro sentirá pressão e a evitará. Divida a tarefa em partes pequenas que possa terminar em 1 hora, e aborde uma delas primeiro.",
+          "id": "Jika tugas tersebut terlalu besar, otak akan merasa tertekan dan mencoba menghindarinya sebelum dimulai. Dalam hal ini, bagi tugas besar tersebut menjadi unit tindakan terperinci yang dapat diselesaikan dalam 1 jam pagi ini, dan selesaikan satu bagian pecahan itu sebagai tugas pertama di pagi hari."
+        }
+      }
+    ],
+    "pubDate": "2026-05-07",
+    "updatedDate": "2026-05-07"
+  }
+}

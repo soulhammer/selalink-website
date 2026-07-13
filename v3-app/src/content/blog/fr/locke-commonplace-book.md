@@ -47,7 +47,7 @@ Aujourd'hui, BuildSelf décrypte la neurobiologie de cet 'index de connaissances
 
 La mémoire n'est pas un ensemble de boîtes étanches, mais un réseau de 'mémoire associative' où les données sont interconnectées. La méthode d'indexation de John Locke revient à créer des liens d'association dès l'encodage de l'information par le cerveau.
 
-Classer les informations dans des catégories définies réduit la 'distance sémantique (Semantic Distance)' entre les concepts. Les connaissances ainsi structurées ne sont plus isolées mais prêtes à s'associer à tout moment, allégeant la charge de recherche du cortex frontal pour un rappel immédiat.
+Classer les informations dans des catégories définies réduit la <strong>'distance sémantique (Semantic Distance)'</strong> entre les concepts. Les connaissances ainsi structurées ne sont plus isolées mais prêtes à s'associer à tout moment, allégeant la charge de recherche du cortex frontal pour un rappel immédiat.
 
 ---
 

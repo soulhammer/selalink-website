@@ -47,7 +47,7 @@ Hoje, o BuildSelf apresenta os fundamentos científicos da rotina de 'reinicio o
 
 De todos os sentidos humanos, o olfato é o único que não passa pelo 'tálamo', que atua como filtro do cérebro, mas chega diretamente à amígdala e ao hipocampo no 'sistema límbico', que rege emoções e memórias. Por isso, o cheiro é o atalho mais rápido para alterar os estados cognitivos.
 
-Os gases de fermentação das maçãs podres que Schiller inalava (como acetaldeído e etanol) agiam como estimulantes fisiológicos que despertavam temporariamente o sistema nervoso central e aumentavam o fluxo sanguíneo. Além disso, havia um 'condicionamento clássico' psicológico que induzia um estado de imersão ao sentir o cheiro específico. Ou seja, formou-se uma âncora neurológica: 'cheiro de maçã podre = tempo de criação intensa', treinando o cérebro para focar instantaneamente.
+Os gases de fermentação das maçãs podres que Schiller inalava (como acetaldeído e etanol) agiam como estimulantes fisiológicos que despertavam temporariamente o sistema nervoso central e aumentavam o fluxo sanguíneo. Além disso, havia um <strong>'condicionamento clássico'</strong> psicológico que induzia um estado de imersão ao sentir o cheiro específico. Ou seja, formou-se uma âncora neurológica: 'cheiro de maçã podre = tempo de criação intensa', treinando o cérebro para focar instantaneamente.
 
 ---
 

@@ -41,9 +41,9 @@ Témoin de la détresse de sa fille immobile, la mère de Frida installa un gran
 
 ## 1. L'Effet 'Auto-Miroir' pour s'Objectiver et Reprendre le Contrôle
 
-Regarder longuement son reflet dans le miroir s'appelle la 'Technique du Regard dans le Miroir' en psychologie clinique. Sous l'effet d'un stress extrême, d'un handicap ou de la douleur, le cerveau a tendance à sombrer dans des émotions négatives. Le miroir fonctionne alors comme un outil d'isolement cognitif qui permet d'observer son corps et ses émotions objectivement, d'un point de vue extérieur.
+Regarder longuement son reflet dans le miroir s'appelle la <strong>'Technique du Regard dans le Miroir'</strong> en psychologie clinique. Sous l'effet d'un stress extrême, d'un handicap ou de la douleur, le cerveau a tendance à sombrer dans des émotions négatives. Le miroir fonctionne alors comme un outil d'isolement cognitif qui permet d'observer son corps et ses émotions objectivement, d'un point de vue extérieur.
 
-Dans ce processus, le cerveau rétablit un sentiment de contrôle sur le soi et renforce la volonté, régulant ainsi le stress et atténuant la dépression. La confrontation intense de Frida Kahlo avec elle-même dans le miroir était plus qu'une simple représentation : c'était une manifestation de sa 'résilience' pour reconstruire son âme. En thérapie cognitive moderne, la méditation face au miroir est largement utilisée comme technique thérapeutique pour favoriser l'acceptation de soi et stabiliser l'état émotionnel.
+Dans ce processus, le cerveau rétablit un sentiment de contrôle sur le soi et renforce la volonté, régulant ainsi le stress et atténuant la dépression. La confrontation intense de Frida Kahlo avec elle-même dans le miroir était plus qu'une simple représentation : c'était une manifestation de sa <strong>'résilience'</strong> pour reconstruire son âme. En thérapie cognitive moderne, la méditation face au miroir est largement utilisée comme technique thérapeutique pour favoriser l'acceptation de soi et stabiliser l'état émotionnel.
 
 ---
 
@@ -105,4 +105,4 @@ Dans ce processus, le cerveau rétablit un sentiment de contrôle sur le soi et 
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

@@ -43,7 +43,7 @@ Jeden Morgen nach einem ausgiebigen Frühstück kehrte Twain, anstatt in sein Ar
 
 Wenn wir flach liegen oder uns zurücklehnen, verringert sich die Belastung des Herzens, Blut durch den Körper zu pumpen, im Vergleich zum Stehen oder Sitzen erheblich. Dies erhöht den zerebralen Blutfluss, stabilisiert die Herzfrequenz und stimuliert das parasympathische Nervensystem stark. Wenn der Körper entspannt ist, unterdrückt das Gehirn die Ausschüttung von Cortisol.
 
-Das entspannte Gehirn entkommt dem Spannungszustand (Beta-Wellen) und sendet vermehrt 'Alpha-Wellen' und 'Theta-Wellen' aus, die Kreativität und tiefen Einblick fördern. Psychologisch gesehen bricht dieser Zustand den starren Rahmen des logischen Denkens auf und fördert das 'assoziative Denken (Associative Thinking)', das scheinbar unzusammenhängende Ideen flexibel verbindet. Das Geheimnis hinter Mark Twains reibungslosem Schreiben im Bett liegt in dieser Kombination aus körperlicher Entspannung und zerebralem Blutfluss.
+Das entspannte Gehirn entkommt dem Spannungszustand (Beta-Wellen) und sendet vermehrt <strong>'Alpha-Wellen'</strong> und <strong>'Theta-Wellen'</strong> aus, die Kreativität und tiefen Einblick fördern. Psychologisch gesehen bricht dieser Zustand den starren Rahmen des logischen Denkens auf und fördert das <strong>'assoziative Denken (Associative Thinking)'</strong>, das scheinbar unzusammenhängende Ideen flexibel verbindet. Das Geheimnis hinter Mark Twains reibungslosem Schreiben im Bett liegt in dieser Kombination aus körperlicher Entspannung und zerebralem Blutfluss.
 
 ---
 
@@ -105,4 +105,4 @@ Das entspannte Gehirn entkommt dem Spannungszustand (Beta-Wellen) und sendet ver
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

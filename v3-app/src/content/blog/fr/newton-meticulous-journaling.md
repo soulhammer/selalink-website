@@ -41,9 +41,9 @@ Newton a gardé toute sa vie à ses côtés un grand carnet en cuir vierge (alor
 
 ## 1. La 'Décharge Cognitive' pour Libérer la Surcharge de la Mémoire de Travail
 
-La capacité de la 'Mémoire de Travail' à court terme est très limitée. Retenir de nombreux calculs et idées dans la tête conduit à une surcharge cognitive. Le fait d'écrire à la main comme Newton active le mécanisme de 'Décharge Cognitive (Cognitive Offloading)'.
+La capacité de la 'Mémoire de Travail' à court terme est très limitée. Retenir de nombreux calculs et idées dans la tête conduit à une surcharge cognitive. Le fait d'écrire à la main comme Newton active le mécanisme de <strong>'Décharge Cognitive (Cognitive Offloading)'</strong>.
 
-En sauvegardant ses pensées sur papier, la mémoire de travail se libère du stockage pour se concentrer sur des raisonnements plus complexes. Écrire et dessiner stimule l'hippocampe, régulateur de la mémoire à long terme, et le système d'activation réticulaire (SAR), aidant le cerveau à ancrer durablement les idées clés.
+En sauvegardant ses pensées sur papier, la mémoire de travail se libère du stockage pour se concentrer sur des raisonnements plus complexes. Écrire et dessiner stimule l'<strong>hippocampe</strong>, régulateur de la mémoire à long terme, et le <strong>système d'activation réticulaire (SAR)</strong>, aidant le cerveau à ancrer durablement les idées clés.
 
 ---
 
@@ -105,4 +105,4 @@ En sauvegardant ses pensées sur papier, la mémoire de travail se libère du st
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

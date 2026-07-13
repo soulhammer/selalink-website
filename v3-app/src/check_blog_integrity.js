@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import crypto from 'crypto';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -105,6 +106,7 @@ function parseYaml(yamlStr) {
 
 function checkIntegrity() {
   console.log('\n🔎 \x1b[36m[블로그 무결성 검증기] 빌드 전 품질 검사를 시작합니다...\x1b[0m\n');
+  const imageHashes = new Map();
 
   if (!fs.existsSync(blogRoot)) {
     logError(`블로그 루트 디렉토리가 없습니다: ${blogRoot}`);
@@ -223,6 +225,22 @@ function checkIntegrity() {
         const absoluteImgPath = path.join(publicRoot, relativeImgPath);
         if (!fs.existsSync(absoluteImgPath)) {
           logError(`[이미지 부재] ${lang.toUpperCase()} ${file}: heroImage '${meta.heroImage}' 파일이 public 폴더에 존재하지 않습니다.`);
+        } else {
+          try {
+            const fileBuffer = fs.readFileSync(absoluteImgPath);
+            const hash = crypto.createHash('md5').update(fileBuffer).digest('hex');
+            
+            if (imageHashes.has(hash)) {
+              const existing = imageHashes.get(hash);
+              if (existing.path !== absoluteImgPath) {
+                logError(`[대표 이미지 중복 도용 방지] 포스트 '${blogSlug}'의 heroImage('${meta.heroImage}')가 다른 포스트 '${existing.slug}'의 이미지와 내용이 완전히 동일(복사)합니다. 각 포스트마다 고유한 일러스트를 생성하여 제공하십시오.`);
+              }
+            } else {
+              imageHashes.set(hash, { slug: blogSlug, path: absoluteImgPath });
+            }
+          } catch (err) {
+            logError(`[이미지 해시 오류] ${file}: heroImage 해시 계산 실패 - ${err.message}`);
+          }
         }
       }
 

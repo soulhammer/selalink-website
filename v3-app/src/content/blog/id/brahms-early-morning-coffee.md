@@ -47,7 +47,7 @@ Hari ini, BuildSelf menyajikan efek ilmiah yang merangsang otak dari rutinitas '
 
 Kafein dalam kopi pagi berikatan dengan reseptor adenosin, memblokir sinyal mengantuk dan merangsang pelepasan noradrenalin dan dopamin. Jika olahraga aerobik dilakukan segera saat otak aktif secara fisiologis, kinerja kognitif berlipat ganda secara eksponensial.
 
-Berjalan merangsang korteks motorik dan mendorong pelepasan BDNF. BDNF melindungi sel otak dan membantu membentuk sinapsis baru, meningkatkan neuroplastisitas. Akibatnya, rutinitas Brahms meningkatkan 'memori kerja' dan kemampuan berpikir kreatif.
+Berjalan merangsang korteks motorik dan mendorong pelepasan BDNF. BDNF melindungi sel otak dan membantu membentuk sinapsis baru, meningkatkan neuroplastisitas. Akibatnya, rutinitas Brahms meningkatkan <strong>'memori kerja'</strong> dan kemampuan berpikir kreatif.
 
 ---
 

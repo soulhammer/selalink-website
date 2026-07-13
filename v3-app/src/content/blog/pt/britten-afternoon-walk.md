@@ -47,7 +47,7 @@ Hoje, o BuildSelf apresenta os princípios da ciência cerebral da rotina de 'ca
 
 O cérebro que realizou cálculos ou planejamentos de alto nível durante a manhã opera a 'Rede Executiva Central (CEN)', que mantém um estado focado, esgotando a energy cognitiva e caindo em um estado de 'Fadiga de Atenção'.
 
-De acordo com a 'Teoria da Restauração da Atenção (ART)' da psicologia ambiental, ao caminhar lentamente ao ar livre, que tem elements de fascínio suave não estimulantes da natureza como o som do vento ou das ondas, o cérebro finalmente relaxa a rede de atenção. Durante este período de descanso, o cérebro opera a 'Rede de Modo Padrão (DMN)' para classificar e transferir informações fragmentadas ou preocupações da manhã para o armazenamento de longo prazo, alcançando a 'integração cognitiva'. Atráves da caminhada à tarde, Britten limpou a sobrecarga em seu cérebro e usou o pensamento subconsciente para resolver intuitivamente problemas complexos.
+De acordo com a <strong>'Teoria da Restauração da Atenção (ART)'</strong> da psicologia ambiental, ao caminhar lentamente ao ar livre, que tem elements de fascínio suave não estimulantes da natureza como o som do vento ou das ondas, o cérebro finalmente relaxa a rede de atenção. Durante este período de descanso, o cérebro opera a 'Rede de Modo Padrão (DMN)' para classificar e transferir informações fragmentadas ou preocupações da manhã para o armazenamento de longo prazo, alcançando a <strong>'integração cognitiva'</strong>. Atráves da caminhada à tarde, Britten limpou a sobrecarga em seu cérebro e usou o pensamento subconsciente para resolver intuitivamente problemas complexos.
 
 ---
 

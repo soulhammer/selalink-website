@@ -41,9 +41,9 @@ Newton kept a large, leather-bound blank notebook (referred to as the 'Waste Boo
 
 ## 1. 'Cognitive Offloading' to Free the Brain's Working Memory Overload
 
-The capacity of 'Working Memory' in charge of our short-term memory is very limited. When running numerous calculations and insights in the head, the brain falls into cognitive overload and stops creative thinking. Newton's meticulous handwriting and visualization in the notebook activated the brain's 'Cognitive Offloading' mechanism.
+The capacity of 'Working Memory' in charge of our short-term memory is very limited. When running numerous calculations and insights in the head, the brain falls into cognitive overload and stops creative thinking. Newton's meticulous handwriting and visualization in the notebook activated the brain's <strong>'Cognitive Offloading'</strong> mechanism.
 
-By safely backing up thoughts on the physical medium of the notebook, the working memory area sheds the heavy burden of information maintenance and focuses on more elaborate, free operations and logical reasoning. In addition, the tactile act of writing by moving hands to draw objects or charts stimulates the hippocampus that regulates long-term memory, and aligns the reticular activating system (RAS) in charge of attention to help the brain preserve important ideas for a long time.
+By safely backing up thoughts on the physical medium of the notebook, the working memory area sheds the heavy burden of information maintenance and focuses on more elaborate, free operations and logical reasoning. In addition, the tactile act of writing by moving hands to draw objects or charts stimulates the <strong>hippocampus</strong> that regulates long-term memory, and aligns the <strong>reticular activating system (RAS)</strong> in charge of attention to help the brain preserve important ideas for a long time.
 
 ---
 
@@ -105,4 +105,4 @@ By safely backing up thoughts on the physical medium of the notebook, the workin
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

@@ -47,7 +47,7 @@ Hari ini, BuildSelf menyajikan dasar ilmiah dari rutinitas 'reset penciuman' uni
 
 Di antara semua indra manusia, penciuman adalah satu-satunya yang melewati 'talamus', yang bertindak sebagai filter otak, dan langsung mencapai amigdala dan hipokampus di 'sistem limbik' yang mengatur emosi dan memori. Karena itu, aroma adalah jalan pintas tercepat untuk mengubah kondisi kognitif.
 
-Gas fermentasi apel busuk yang dihirup Schiller (seperti asetaldehida dan etanol) bertindak sebagai stimulan fisiologis yang merangsang sistem saraf pusat dan meningkatkan aliran darah ketika dihirup dalam jumlah kecil. Selain itu, 'penondisian klasik' psikologis berperan, memicu keadaan fokus ketika mencium aroma tertentu. Dengan kata lain, jangkar neurologis terbentuk di otak: 'aroma apel busuk = waktu kreasi intensitas tinggi', melatih otak yang terganggu untuk langsung fokus saat mencium aroma tersebut.
+Gas fermentasi apel busuk yang dihirup Schiller (seperti asetaldehida dan etanol) bertindak sebagai stimulan fisiologis yang merangsang sistem saraf pusat dan meningkatkan aliran darah ketika dihirup dalam jumlah kecil. Selain itu, <strong>'penondisian klasik'</strong> psikologis berperan, memicu keadaan fokus ketika mencium aroma tertentu. Dengan kata lain, jangkar neurologis terbentuk di otak: 'aroma apel busuk = waktu kreasi intensitas tinggi', melatih otak yang terganggu untuk langsung fokus saat mencium aroma tersebut.
 
 ---
 

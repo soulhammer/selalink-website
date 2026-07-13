@@ -41,7 +41,7 @@ Kafka menulis dalam keheningan total dari jam 11 malam hingga jam 2 atau 3 pagi,
 
 ## 1. 'Regulasi Turun Frontal' untuk Melepas Kontrol dan Mencapai Esensi
 
-Pada siang hari, lobus frontal kita secara aktif mengonsumsi energi kognitif yang diperlukan untuk norma sosial, penalaral logis, dan perhatian. Namun, larut malam ketika energi terkuras, filter kontrol yang kuat dari lobus frontal melemah untuk sementara. Ilmu kognitif menyebut kondisi ini sebagai 'Regulasi Turun Frontal'.
+Pada siang hari, lobus frontal kita secara aktif mengonsumsi energi kognitif yang diperlukan untuk norma sosial, penalaral logis, dan perhatian. Namun, larut malam ketika energi terkuras, filter kontrol yang kuat dari lobus frontal melemah untuk sementara. Ilmu kognitif menyebut kondisi ini sebagai <strong>'Regulasi Turun Frontal'</strong>.
 
 Saat kontrol dilepaskan, otak lolos dari penekanan rasional dan mengalirkan kedalaman emosional, asosiasi bawah sadar, dan kreativitas orisinal yang biasanya sulit diakses. Ini adalah kekuatan pendorong fisiologis yang memungkinkan Kafka menulis karya agung yang beresonansi mendalam di malam yang gelap. Selain itu, keheningan fisik tengah malam yang sempurna memblokir gangguan kebisingan yang mengganggu memori kerja, menciptakan lingkungan neurokimia yang optimal bagi otak to focus on a single topic.
 
@@ -105,4 +105,4 @@ Saat kontrol dilepaskan, otak lolos dari penekanan rasional dan mengalirkan keda
     </p>
   </details>
 </div>
-<strong></strong><strong></strong>
+<strong></strong>

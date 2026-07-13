@@ -47,7 +47,7 @@ Hoy, BuildSelf explica la neurociencia de las 'notas en el bastón' de Thomas Ho
 
 Al andar relajados, se activa la red neuronal por defecto (DMN), gestando ideas de forma súbita. No obstante, al residir en la memoria de trabajo temporal, este flash es muy inestable: si no se registra en 10-15 segundos, se degrada y cae en el olvido.
 
-El bastón de Hobbes era una herramienta de 'externalización cognitiva (Cognitive Externalization)' para vencer ese límite de la memoria de trabajo. En vez de retener el dato con esfuerzo en el cerebro, lo volcaba al papel mediante el movimiento de la mano, liberando de carga al lóbulo frontal para seguir pensando de forma fluida.
+El bastón de Hobbes era una herramienta de <strong>'externalización cognitiva (Cognitive Externalization)'</strong> para vencer ese límite de la memoria de trabajo. En vez de retener el dato con esfuerzo en el cerebro, lo volcaba al papel mediante el movimiento de la mano, liberando de carga al lóbulo frontal para seguir pensando de forma fluida.
 
 ---
 

@@ -47,7 +47,7 @@ Today, BuildSelf covers the brain science mechanism of the 'cane inkwell' immedi
 
 When the brain enters a relaxed walking state, the default mode network (DMN), which governs creative thinking, activates, and unexpected inspirations suddenly arise. However, because this flash stays in the short-term buffer of the brain's 'working memory', it is highly unstable. Unless recorded immediately, it neurologically decays and is completely forgotten within 10-15 seconds.
 
-The cane inkwell designed by Hobbes was the best means of 'cognitive externalization' to overcome this momentary working memory limit. Instead of forcing knowledge to stay in the brain's finite memory area, immediately dumping ideas onto a physical tool (paper) through gross motor movements of the hand completely prevented cognitive overload in the frontal lobe cortex and allowed him to continuously advance to the next stage of thinking.
+The cane inkwell designed by Hobbes was the best means of <strong>'cognitive externalization'</strong> to overcome this momentary working memory limit. Instead of forcing knowledge to stay in the brain's finite memory area, immediately dumping ideas onto a physical tool (paper) through gross motor movements of the hand completely prevented cognitive overload in the frontal lobe cortex and allowed him to continuously advance to the next stage of thinking.
 
 ---
 

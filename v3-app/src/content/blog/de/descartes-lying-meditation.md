@@ -48,7 +48,7 @@ Heute stellt BuildSelf die wissenschaftliche Basis von Descartes' 'Bett-Meditati
 
 Viele moderne Menschen stehen beim Weckerklingeln hastig mit klopfendem Herzen auf, checken sofort Mails oder Nachrichten auf dem Handy und starten in den Tag. Dies führt von Anfang an zur Ausschüttung von Stresshormonen wie Cortisol und Adrenalin, was den Stresspegel erhöht und zu chronischer Erschöpfung führt.
 
-Das Beibehalten einer horizontalen, bequemen Liegeposition nach dem Aufwachen wie bei Descartes aktiviert dagegen das paraspathische Nervensystem und lässt das Gehirn sanft aufwachen. In diesem Zustand werden harmonisch 'Alpha-Wellen' freigesetzt, die Kreativität und Intuition fördern. Diese kurze morgendliche Meditation im Liegen stärkt die kognitive Funktion und emotionale Belastbarkeit für den gesamten Tag.
+Das Beibehalten einer horizontalen, bequemen Liegeposition nach dem Aufwachen wie bei Descartes aktiviert dagegen das paraspathische Nervensystem und lässt das Gehirn sanft aufwachen. In diesem Zustand werden harmonisch <strong>'Alpha-Wellen'</strong> freigesetzt, die Kreativität und Intuition fördern. Diese kurze morgendliche Meditation im Liegen stärkt die kognitive Funktion und emotionale Belastbarkeit für den gesamten Tag.
 
 ---
 
@@ -110,4 +110,3 @@ Das Beibehalten einer horizontalen, bequemen Liegeposition nach dem Aufwachen wi
     </p>
   </details>
 </div>
-<strong></strong>

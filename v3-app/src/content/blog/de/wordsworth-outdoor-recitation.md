@@ -45,9 +45,9 @@ Heute zeigt BuildSelf die neurologische Wirkung der Geh-Dichtmethode von William
 
 ## 1. Synergie von rhythmischem Gehen und dem auditiven Pfad
 
-Die beim Gehen erzeugten Bewegungsimpulse aktivieren das Kleinhirn ('Cerebellum'), das für Takt und Rhythmus zuständig ist. Dieser Bewegungstakt synchronisiert sich mit den Sprachzentren der Großhirnrinde und steuert den Rhythmus und die Betonung des Textes.
+Die beim Gehen erzeugten Bewegungsimpulse aktivieren das Kleinhirn (<strong>'Cerebellum'</strong>), das für Takt und Rhythmus zuständig ist. Dieser Bewegungstakt synchronisiert sich mit den Sprachzentren der Großhirnrinde und steuert den Rhythmus und die Betonung des Textes.
 
-Das laute Aussprechen aktiviert zudem die 'auditive Schleife' im Gehirn. Durch das Hören der eigenen Stimme bemerkt das Gehirn Holprigkeiten im Text sofort auf Gefühlsebene. Statt die linke Gehirnhälfte durch das Schreiben anzustrengen, nutzte Wordsworth diese Verknüpfung für flüssigere Verse.
+Das laute Aussprechen aktiviert zudem die <strong>'auditive Schleife'</strong> im Gehirn. Durch das Hören der eigenen Stimme bemerkt das Gehirn Holprigkeiten im Text sofort auf Gefühlsebene. Statt die linke Gehirnhälfte durch das Schreiben anzustrengen, nutzte Wordsworth diese Verknüpfung für flüssigere Verse.
 
 ---
 

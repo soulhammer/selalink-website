@@ -47,7 +47,7 @@ Aujourd'hui, BuildSelf décrypte la neurobiologie de cet 'isolement environnemen
 
 Les ressources cognitives du cortex préfrontal, qui orchestrent la volonté et la résolution de problèmes complexes, sont au plus haut le matin, mais restent limitées. Les micro-distractions (notifications de messageries, réseaux sociaux) vident ces ressources en un temps record.
 
-En raison du phénomène de 'résidu d'attention (Attention Residue)' lors d'un changement de tâche, un cerveau distrait met jusqu'à 20 minutes pour retrouver son niveau d'immersion initial, gaspillant une énergie précieuse. Le verrouillage de bureau imposé par Thomas Mann était une barrière physique qui protégeait le cerveau des distractions, lui permettant d'injecter 100 % de son énergie dans une seule tâche complexe.
+En raison du phénomène de <strong>'résidu d'attention (Attention Residue)'</strong> lors d'un changement de tâche, un cerveau distrait met jusqu'à 20 minutes pour retrouver son niveau d'immersion initial, gaspillant une énergie précieuse. Le verrouillage de bureau imposé par Thomas Mann était une barrière physique qui protégeait le cerveau des distractions, lui permettant d'injecter 100 % de son énergie dans une seule tâche complexe.
 
 ---
 

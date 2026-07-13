@@ -43,7 +43,7 @@ Setiap pagi, setelah sarapan yang kenyang, alih-alih pergi ke ruang kerjanya, Tw
 
 Ketika kita berbaring secara horizontal atau bersandar, beban jantung yang mendorong darah ke seluruh tubuh berkurang secara signifikan dibandingkan saat berdiri atau duduk. Ini meningkatkan aliran darah serebral, menstabilkan detak jantung, dan merangsang sistem saraf parasimpatis dengan kuat. Saat tubuh rileks sepenuhnya, otak menekan sekresi kortisol.
 
-Otak yang rileks lolos dari ketegangan (gelombang beta) dan memancarkan 'gelombang alfa' dan 'gelombang theta' yang memicu kreativitas dan wawasan mendalam. Secara psikologis, kondisi ini menghancurkan kerangka berpikir logis yang kaku dan mendorong 'berpikir asosiatif (Associative Thinking)' yang menggabungkan ide-ide yang tampaknya tidak terkait secara fleksibel. Rahasia di balik lancarnya pengembangan ide Mark Twain saat menulis di tempat tidur terletak pada kombinasi relaksasi fisik dan aliran darah otak ini.
+Otak yang rileks lolos dari ketegangan (gelombang beta) dan memancarkan <strong>'gelombang alfa'</strong> dan <strong>'gelombang theta'</strong> yang memicu kreativitas dan wawasan mendalam. Secara psikologis, kondisi ini menghancurkan kerangka berpikir logis yang kaku dan mendorong <strong>'berpikir asosiatif (Associative Thinking)'</strong> yang menggabungkan ide-ide yang tampaknya tidak terkait secara fleksibel. Rahasia di balik lancarnya pengembangan ide Mark Twain saat menulis di tempat tidur terletak pada kombinasi relaksasi fisik dan aliran darah otak ini.
 
 ---
 
@@ -105,4 +105,4 @@ Otak yang rileks lolos dari ketegangan (gelombang beta) dan memancarkan 'gelomba
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>

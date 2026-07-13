@@ -41,9 +41,9 @@ Al ver la frustración de su hija al no poder moverse, la madre de Frida instal�
 
 ## 1. 'Efecto Autoespejo' para Objetivarse y Recuperar el Control
 
-Mirar el propio reflejo en el espejo durante mucho tiempo se llama 'Técnica de Mirar el Espejo' en psicología clínica. Bajo estrés extremo, discapacidad física o dolor, el cerebro es propenso a hundirse en emociones negativas. En este momento, el espejo funciona como una herramienta de aislamiento cognitivo que permite observar el cuerpo y las emociones objetivamente desde una perspectiva externa.
+Mirar el propio reflejo en el espejo durante mucho tiempo se llama <strong>'Técnica de Mirar el Espejo'</strong> en psicología clínica. Bajo estrés extremo, discapacidad física o dolor, el cerebro es propenso a hundirse en emociones negativas. En este momento, el espejo funciona como una herramienta de aislamiento cognitivo que permite observar el cuerpo y las emociones objetivamente desde una perspectiva externa.
 
-En este proceso, el cerebro restaura la sensación de control sobre el yo y fortalece la agencia, regulando así el estrés y aliviando la depresión. La intensa confrontación de Frida Kahlo consigo misma en el espejo mientras estaba postrada en cama fue más que una simple representación; fue una manifestación fisiológica de la 'resiliencia' para reconstruir su alma a pesar de la adversidad. En la terapia cognitiva moderna, la meditación frente al espejo se utiliza como técnica terapéutica para promover la autoaceptación y estabilizar el estado emocional.
+En este proceso, el cerebro restaura la sensación de control sobre el yo y fortalece la agencia, regulando así el estrés y aliviando la depresión. La intensa confrontación de Frida Kahlo consigo misma en el espejo mientras estaba postrada en cama fue más que una simple representación; fue una manifestación fisiológica de la <strong>'resiliencia'</strong> para reconstruir su alma a pesar de la adversidad. En la terapia cognitiva moderna, la meditación frente al espejo se utiliza como técnica terapéutica para promover la autoaceptación y estabilizar el estado emocional.
 
 ---
 
@@ -105,4 +105,4 @@ En este proceso, el cerebro restaura la sensación de control sobre el yo y fort
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong>
+<strong></strong>

@@ -41,9 +41,9 @@ Newton menyimpan buku catatan kosong bersampul kulit yang besar (disebut 'Waste 
 
 ## 1. 'Offloading Kognitif' untuk Membebaskan Kelebihan Beban Memori Kerja Otak
 
-Kapasitas 'Memori Kerja' yang bertanggung jawab atas memori jangka pendek kita sangat terbatas. Ketika menjalankan banyak perhitungan dan wawasan di kepala, otak jatuh ke dalam kelebihan beban kognitif. Tulisan tangan dan visualisasi Newton yang cermat mengaktifkan mekanisme 'Offloading Kognitif (Cognitive Offloading)' otak.
+Kapasitas 'Memori Kerja' yang bertanggung jawab atas memori jangka pendek kita sangat terbatas. Ketika menjalankan banyak perhitungan dan wawasan di kepala, otak jatuh ke dalam kelebihan beban kognitif. Tulisan tangan dan visualisasi Newton yang cermat mengaktifkan mekanisme <strong>'Offloading Kognitif (Cognitive Offloading)'</strong> otak.
 
-Dengan mencadangkan pikiran secara aman pada media fisik buku catatan, area memori kerja melepaskan beban berat pemeliharaan informasi dan berfokus pada operasi serta penalaran logis yang lebih rumit. Selain itu, tindakan taktil menulis dengan menggerakkan tangan untuk menggambar grafik merangsang hipokampus yang mengatur memori jangka panjang, dan menyelaraskan sistem aktivasi retikuler (RAS) yang bertanggung jawab atas perhatian.
+Dengan mencadangkan pikiran secara aman pada media fisik buku catatan, area memori kerja melepaskan beban berat pemeliharaan informasi dan berfokus pada operasi serta penalaran logis yang lebih rumit. Selain itu, tindakan taktil menulis dengan menggerakkan tangan untuk menggambar grafik merangsang <strong>hipokampus</strong> yang mengatur memori jangka panjang, dan menyelaraskan <strong>sistem aktivasi retikuler (RAS)</strong> yang bertanggung jawab atas perhatian.
 
 ---
 
@@ -105,4 +105,4 @@ Dengan mencadangkan pikiran secara aman pada media fisik buku catatan, area memo
     </p>
   </details>
 </div>
-<strong></strong><strong></strong><strong></strong><strong></strong>
+<strong></strong>
