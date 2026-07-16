@@ -1,0 +1,192 @@
+{
+  "watson-think-sign": {
+    "title": {
+      "ko": "IBM을 만든 한 단어: 토마스 왓슨의 15분 침묵 사색 루틴",
+      "en": "One Word That Made IBM: Thomas Watson's 15-Minute Silent Reflection Routine",
+      "ja": "IBMを作った一言：トーマス・ワトソンの15分沈黙思索ルーティン",
+      "zh": "成就IBM的一个词：托马斯·沃森十五分钟静默思考惯例",
+      "es": "Una palabra que creó IBM: La rutina de reflexión silenciosa de 15 minutos de Thomas Watson",
+      "fr": "Un mot qui a fait IBM : La routine de réflexion silencieuse de 15 minutes de Thomas Watson",
+      "de": "Ein Wort, das IBM erschuf: Thomas Watsons 15-minütige schweigende Nachdenkroutine",
+      "pt": "Uma palavra que criou IBM: A rotina de reflexão silenciosa de 15 minutos de Thomas Watson",
+      "id": "Satu Kata yang Membangun IBM: Rutinitas Refleksi Hening 15 Menit Thomas Watson"
+    },
+    "description": {
+      "ko": "사무실마다 'THINK' 팻말을 걸고 하루 15분 조용히 생각에 빠진 IBM 창업자 토마스 왓슨의 사색법. 의도적인 단절이 뇌의 장기 기억을 정리하는 원리를 설명합니다.",
+      "en": "The reflection method of IBM founder Thomas Watson, who hung 'THINK' signs in offices and spent 15 minutes daily in silence. Learn how intentional detachment organizes long-term memory.",
+      "ja": "オフィスごとに「THINK」の立て札を掲げ、一日15分静かに思考にふけったIBM創業者トーマス・ワトソンの思索法。意図的な断絶が脳の長期記憶を整理する原理を説明します。",
+      "zh": "在每间办公室悬挂“THINK”标牌、每天静默思考15分钟的IBM创始人托马斯·沃森的思考法。阐明刻意断绝外部干扰如何整理大脑的长期记忆。",
+      "es": "El método de reflexión del fundador de IBM, Thomas Watson, quien colgó carteles de 'THINK' y pasó 15 minutos diarios en silencio. Aprenda cómo el desapego intencional organiza la memoria.",
+      "fr": "La méthode de réflexion du fondateur d'IBM, Thomas Watson, qui a suspendu des panneaux 'THINK' et passé 15 minutes en silence. Apprenez comment le détachement organise la mémoire.",
+      "de": "Die Nachdenkmethode des IBM-Gründers Thomas Watson, der überall 'THINK'-Schilder aufhing und täglich 15 Minuten schwieg. Erfahren Sie, wie Abschalten das Gedächtnis ordnet.",
+      "pt": "O método de reflexão do fundador da IBM, Thomas Watson, que pendurou placas de 'THINK' e passou 15 minutos diários em silêncio. Aprenda como o desapego intencional organiza a memória.",
+      "id": "Metode refleksi pendiri IBM Thomas Watson, yang menggantung tanda 'THINK' dan meluangkan 15 menit setiap hari dalam diam. Pelajari bagaimana detasemen merapikan memori jangka panjang."
+    },
+    "authority": {
+      "ko": "IBM 기업 박물관 역사 고증서 및 런던 대학교(UCL) 신경학 사색 메커니즘 연구",
+      "en": "IBM Corporate Museum Historical Documents and University College London (UCL) Neurological Research on Reflection Mechanisms",
+      "ja": "IBM企業博物館歴史考証書およびロンドン大学（UCL）の神経学思索メカニズム研究",
+      "zh": "IBM企业博物馆历史考证文献及伦敦大学学院(UCL)关于思考机制的神经学研究",
+      "es": "Documentos históricos del Museo Corporativo de IBM e investigación neurológica de la University College London (UCL) sobre los mecanismos de reflexión",
+      "fr": "Documents historiques du musée d'IBM et recherche neurologique de l'University College London (UCL) sur les mécanismes de réflexion",
+      "de": "Historische Dokumente des IBM-Unternehmensmuseums und neurologische Forschung des University College London (UCL) über Denkmechanismen",
+      "pt": "Documentos históricos do Museu Corporativo da IBM e pesquisa neurológica da University College London (UCL) sobre os mecanismos de reflexão",
+      "id": "Dokumen Sejarah Museum Korporasi IBM dan Penelitian Neurologis UCL tentang Mekanisme Refleksi"
+    },
+    "intro": {
+      "ko": "거대 IT 공룡 기업 IBM의 초대 회장 토마스 왓슨. 그는 공장과 연구실, 회의 테이블에 이르기까지 회사 전체의 사소한 공간마다 오직 'THINK'라는 단어가 큼직하게 박힌 카드와 표지판을 부착하도록 강제했습니다. 그리고 매일 오전 중 15분 이상 어떠한 서류나 펜도 지니지 않은 채 조용히 앉아 오직 생각에만 잠겼습니다. 100년 전 IBM의 도약을 견인했던 이 심플한 팻말과 생각 습관의 효능을 추적해 봅니다.",
+      "en": "Thomas Watson, the first president of the tech giant IBM. He forced cards and signs with the single word 'THINK' to be placed in every small space across the company. He sat quietly for over 15 minutes every morning without any documents or pens, fully immersed in thought. Explore the efficacy of this simple sign and thinking habit that drove IBM's leap 100 years ago.",
+      "ja": "巨大IT企業IBMの初代会長トーマス・ワトソン。彼は工場や研究室、会議テーブルに至るまで、会社全体の些細な空間ごとに、ただ「THINK」という言葉が大きく刻まれたカードと標識を貼ることを強制しました。そして毎午前中、15分以上いかなる書類やペンも持たずに静かに座り、ひたすら思考に沈みました。100年前のIBMの飛躍を牽引したこのシンプルな立て札と思考習慣の効能を追跡してみます。",
+      "zh": "大型IT巨头IBM的首任董事长托马斯·沃森。他强制在公司各处的角落，包括工厂、实验室乃至会议桌，都贴上只赫然写着“THINK”这一单词的卡片和标牌。他本人也在每天上午留出至少15分钟，不带任何文件或笔，静静坐着陷入思考。我们来探究一下这块百年前拉动IBM腾飞的简单标牌及其思考习惯的功效。",
+      "es": "Thomas Watson, el primer presidente de IBM. Hizo que se colocaran tarjetas con la palabra 'THINK' en cada espacio de la empresa. Se sentaba en silencio durante más de 15 minutos todas las mañanas sin documentos ni bolígrafos. Explore la eficacia de esta simple señal y hábito de pensamiento.",
+      "fr": "Thomas Watson, premier président d'IBM. Il a imposé la pose de cartons avec le mot 'THINK' dans chaque recoin de l'entreprise. Il s'asseyait en silence pendant plus de 15 minutes chaque matin, sans documents ni stylos. Découvrez l'efficacité de ce simple panneau.",
+      "de": "Thomas Watson, der erste Präsident von IBM. Er ordnete an, dass in jedem Winkel des Unternehmens Schilder mit dem Wort 'THINK' aufgestellt wurden. Jeden Morgen saß er 15 Minuten lang schweigend da, ohne Dokumente oder Stift. Erfahren Sie mehr über den Nutzen dieser einfachen Gewohnheit.",
+      "pt": "Thomas Watson, o primeiro presidente da IBM. Ele determinou que cartões com a palavra 'THINK' fossem colocados em todos os cantos da empresa. Sentava-se em silêncio por mais de 15 minutos todas as manhãs, sem documentos ou canetas. Explore a eficácia deste sinal simples e hábito de pensar.",
+      "id": "Thomas Watson, presiden pertama raksasa teknologi IBM. Dia mewajibkan kartu dan papan bertuliskan kata 'THINK' ditempatkan di setiap sudut perusahaan. Dia duduk diam selama lebih dari 15 menit setiap pagi tanpa dokumen atau pena. Temukan keefektifan tanda sederhana dan kebiasaan berpikir ini."
+    },
+    "whyTitle": {
+      "ko": "아무것도 하지 않는 단절이 왜 지력을 높이는가",
+      "en": "Why Doing Nothing with Detachment Enhances Intellect",
+      "ja": "何もしない断絶がなぜ知力を高めるのか",
+      "zh": "为什么无所事事的断连能提升智力",
+      "es": "Por qué no hacer nada con desapego mejora el intelecto",
+      "fr": "Pourquoi ne rien faire avec dtachement amliore l'intelligence",
+      "de": "Warum das Nichtstun im Abschaltmodus die Geisteskraft stärkt",
+      "pt": "Por que não fazer nada com desapego melhora o intelecto",
+      "id": "Mengapa Tidak Melakukan Apa-apa melalui Detasemen Meningkatkan Kecerdasan"
+    },
+    "whyDesc": {
+      "ko": "뇌가 쉴 새 없이 몰려드는 자극(이메일, 알림 등)에 반응할 때는 기억 정리와 장기적인 가치 기획을 수행할 여유가 없습니다. 모든 입력을 완전히 단절한 채 생각에 몰두할 때, 뇌는 중요 정보를 선별하는 <strong>살리언스 네트워크(Salience Network)</strong>를 안정화하고 디폴트 모드 네트워크와 유기적으로 정보를 교환하여 복잡했던 뇌 세포망의 교통정리를 실행하고 해법을 찾아냅니다.",
+      "en": "When the brain constantly responds to incoming stimuli (emails, notifications), it has no room to organize memories and plan long-term values. When fully detached from inputs and immersed in thought, the brain stabilizes the <strong>salience network</strong>, which screens important information, and organically exchanges information with the default mode network to clear neural traffic and find solutions.",
+      "ja": "脳が休みなく押し寄せる刺激（メール、通知など）に反応する時は、記憶の整理や長期的な価値の企画を行う余裕がありません。すべての入力を完全に遮断したまま思考に没頭する時、脳は重要情報を把握する<strong>サリエンス・ネットワーク（Salience Network）</strong>を安定化させ、デフォルト・モード・ネットワークと有機的に情報を交換することで、複雑だった脳のネットワークの整理を実行し、解決策を見出します。",
+      "zh": "当大脑不停地对涌入的刺激（邮件、通知等）做出反应时，它就没有余力去整理记忆并规划长期价值。在完全切断所有输入、专注于思考时，大脑会稳定筛选重要信息的<strong>突触显著性网络（Salience Network）</strong>，并与默认模式网络有机地交换信息，从而对混乱的大脑神经网络进行梳理，找到解决办法。",
+      "es": "Cuando el cerebro responde constantemente a los estímulos, no tiene espacio para organizar recuerdos. Al desconectarse por completo de los insumos y sumergirse en el pensamiento, el cerebro estabiliza la <strong>red de prominencia</strong>, lo que permite despejar el tráfico neural y encontrar soluciones.",
+      "fr": "Lorsque le cerveau réagit constamment aux stimuli, il n'a pas de place pour trier les souvenirs. En se coupant des entrées pour réfléchir, le cerveau stabilise le <strong>réseau de saillance</strong>, qui filtre les informations, et échange avec le réseau par défaut pour clarifier les idées.",
+      "de": "Wenn das Gehirn ständig auf Reize reagiert, kann es Erinnerungen nicht ordnen. Wenn Sie Reize abschalten, stabilisiert das Gehirn das <strong>Salienznetzwerk</strong>, das wichtige Informationen filtert, und tauscht Informationen mit dem Standardmodus-Netzwerk aus, um Lösungen zu finden.",
+      "pt": "Quando o cérebro responde constantemente aos estímulos, não tem espaço para organizar memórias. Ao se desconectar completamente das entradas e mergulhar no pensamento, o cérebro estabiliza a <strong>rede de saliência</strong>, o que limpa o tráfego neural e encontra soluções.",
+      "id": "Ketika otak terus-menerus merespons stimuli yang datang, otak tidak memiliki ruang untuk merapikan memori. Saat benar-benar terputus dari input dan tenggelam dalam pikiran, otak menstabilkan <strong>salience network</strong> yang menyaring informasi penting, membersihkan jalur saraf untuk menemukan solusi."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions & Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen & Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan & Tips"
+    },
+    "cautionDesc": {
+      "ko": "이 사색 훈련이 성공하려면 눈에 잘 보이는 물리적 표지인 <strong>시각적 프롬프트</strong>가 사무 공간 내에 있어야 합니다. 문구가 보이지 않으면 우리의 뇌는 다시 관성에 젖어 메일을 열고 인터넷 서핑을 하는 즉각적 반응 행동을 수행하므로, 눈앞에 확실한 팻말을 두어 의식의 흐름을 주기적으로 끊어주는 제어 장치를 유지해야 합니다.",
+      "en": "For this reflection training to succeed, a highly visible physical sign, a <strong>visual prompt</strong>, must exist in the workspace. Without the phrase, the brain reverts to inertia, opening emails and surfing the web. Maintaining a clear sign controls the flow of consciousness.",
+      "ja": "この思索訓練が成功するためには、目につきやすい物理的な印である<strong>視覚的プロンプト</strong>が事務スペース内になければなりません。文言が見えないと、私たちの脳は再び慣性に流され、メールを開いたりネットサーフィンをする即時反応行動をとるため、目の前に確実な立て札を置き、意識の流れを周期的に遮断する制御装置を維持する必要があります。",
+      "zh": "为了让此项思考训练取得成功，办公空间内必须设置显眼的物理标志——<strong>视觉提示物</strong>。如果看不到标语，我们的大脑就会重回惰性，做出打开邮件或浏览网络等即时反应，因此必须在眼前设置明确的标牌，以维持周期性切断意识流的控制装置。",
+      "es": "Para que este entrenamiento tenga éxito, debe existir una señal física visible, un <strong>indicador visual</strong>, en el espacio de trabajo. Sin la frase, el cerebro vuelve a la inercia, por lo que es necesario mantener una señal clara.",
+      "fr": "Pour que cet entraînement réussisse, un panneau physique visible, un <strong>repère visuel</strong>, doit exister dans l'espace de travail. Sans le mot, le cerveau retombe dans l'inertie, d'où la nécessité de maintenir un panneau clair.",
+      "de": "Damit dieses Training funktioniert, muss ein gut sichtbares Schild, ein <strong>visueller Hinweis</strong>, am Arbeitsplatz angebracht sein. Ohne diesen Hinweis verfällt das Gehirn wieder in alte Muster. Ein Schild bremst diesen Automatismus aus.",
+      "pt": "Para que este treinamento tenha sucesso, deve existir um sinal físico visível, um <strong>indicador visual</strong>, no espaço de trabalho. Sem a frase, o cérebro volta à inércia, abrindo e-mails e navegando na web. É preciso manter um sinal claro.",
+      "id": "Agar latihan ini sukses, harus ada tanda fisik yang terlihat jelas, yaitu <strong>pemicu visual</strong> di ruang kerja. Tanpa frasa tersebut, otak akan kembali ke kebiasaan lama, membuka email dan internet. Tanda yang jelas membantu mengontrol kesadaran."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "업무 공간 내 '생각' 팻말의 설치",
+          "en": "Installing a 'THINK' Sign in the Workspace",
+          "ja": "業務空間内への「思考」立て札の設置",
+          "zh": "在工作空间内设置“思考”标牌",
+          "es": "Instalación de un letrero de 'THINK' en el espacio de trabajo",
+          "fr": "Installation d'un panneau 'THINK' dans l'espace de travail",
+          "de": "Anbringen eines 'THINK'-Schildes am Arbeitsplatz",
+          "pt": "Instalação de uma placa de 'THINK' no espaço de trabalho",
+          "id": "Memasang Tanda 'THINK' di Ruang Kerja"
+        },
+        "text": {
+          "ko": "모니터 프레임이나 책상 위 잘 보이는 위치에 오직 'THINK' 혹은 '생각' 한 단어만 명료하게 적힌 종이나 카드를 부착합니다.",
+          "en": "Attach a paper or card clearly stating only the word 'THINK' in a highly visible spot on your monitor frame or desk.",
+          "ja": "モニターのフレームや机の上の目立つ位置に、ただ「THINK」あるいは「思考」という一言だけが明瞭に書かれた紙やカードを貼り付けます。",
+          "zh": "在显示器边框或书桌上显眼的位置，贴上一张只清晰写着“THINK”或“思考”一个单词的纸张或卡片。",
+          "es": "Pegue un papel o tarjeta que diga claramente la palabra 'THINK' en un lugar visible en el marco del monitor o escritorio.",
+          "fr": "Fixez un papier ou un carton portant clairement le seul mot 'THINK' dans un endroit bien visible sur le cadre du moniteur ou le bureau.",
+          "de": "Bringen Sie ein Papier oder eine Karte mit dem Wort 'THINK' gut sichtbar am Monitorrahmen oder Schreibtisch an.",
+          "pt": "Cole um papel ou cartão que diga claramente a palavra 'THINK' em um local visível na moldura do monitor ou mesa.",
+          "id": "Tempelkan kertas atau kartu bertuliskan kata 'THINK' di tempat yang terlihat jelas di bingkai monitor atau meja Anda."
+        }
+      },
+      {
+        "name": {
+          "ko": "오전 시간 중의 15분 완전 격리 예약",
+          "en": "Reserving 15 Minutes of Complete Isolation in the Morning",
+          "ja": "午前時間中の15分完全隔離予約",
+          "zh": "在上午时间段内预定十五分钟的完全隔离",
+          "es": "Reservar 15 minutos de aislamiento completo por la mañana",
+          "fr": "Rserver 15 minutes d'isolement complet le matin",
+          "de": "Einplanung von 15 Minuten vollständiger Ruhe am Morgen",
+          "pt": "Reservando 15 minutos de isolamento completo pela manhã",
+          "id": "Menyediakan Waktu 15 Menit Isolasi Total di Pagi Hari"
+        },
+        "text": {
+          "ko": "매일 아침 일찍 스마트폰, PC 등 모든 전자기기의 알림과 디스플레이를 전면 차단하고 15분간 사색에만 임할 타이머를 가동합니다.",
+          "en": "Early every morning, block all notifications and screens of electronic devices and start a timer to spend 15 minutes only on reflection.",
+          "ja": "毎朝早くにスマートフォン、PCなどすべての電子機器の通知とディスプレイを全面的に遮断し、15分間思索だけに臨むタイマーを起動します。",
+          "zh": "每天清晨完全关闭手机、电脑等所有电子设备的通知和显示屏，启动一个仅用于思考15分钟的计时器。",
+          "es": "Temprano todas las mañanas, bloquee todas las notificaciones de dispositivos y encienda un temporizador para pasar 15 minutos solo en reflexión.",
+          "fr": "Tôt chaque matin, coupez toutes les notifications des appareils et lancez un minuteur pour passer 15 minutes à réfléchir.",
+          "de": "Schalten Sie jeden Morgen alle Benachrichtigungen und Bildschirme aus und starten Sie einen Timer für 15 Minuten reines Nachdenken.",
+          "pt": "De manhã cedo, bloqueie todas as notificações de dispositivos e inicie um cronômetro para passar 15 minutos apenas em reflexão.",
+          "id": "Setiap pagi, blokir semua notifikasi perangkat elektronik dan mulai pengukur waktu selama 15 menit hanya untuk refleksi."
+        }
+      },
+      {
+        "name": {
+          "ko": "단 하나의 핵심 고민과 생각의 정돈",
+          "en": "Focusing on a Single Core Concern and Organizing Thoughts",
+          "ja": "ただ一つの核心的な悩みと思考の整理",
+          "zh": "仅专注于一个核心难点并理清思绪",
+          "es": "Enfocarse en una sola preocupación central y organizar pensamientos",
+          "fr": "Se concentrer sur un seul problme et organiser ses penses",
+          "de": "Konzentration auf ein einziges Kernproblem und Ordnen der Gedanken",
+          "pt": "Concentrando-se em um único problema central e organizando pensamentos",
+          "id": "Fokus pada Satu Masalah Inti dan Merapikan Pikiran"
+        },
+        "text": {
+          "ko": "필기도구를 쓰지 않고 머릿속으로만 오늘 해결할 가장 어렵고 영향력 있는 문제에 주의를 수렴해 철저하게 사색합니다.",
+          "en": "Without writing tools, converge your attention on the most difficult and impactful problem to solve today in your head, reflecting thoroughly.",
+          "ja": "筆記用具を使わず頭の中だけで、今日解決する最も難しく影響力のある問題に注意を集束させ、徹底的に思索します。",
+          "zh": "不使用任何书写工具，仅在脑海中将注意力收拢于今天需要解决的最困难、最有影响力的难题上，进行彻底思考。",
+          "es": "Sin herramientas de escritura, centre su atención en el problema más difícil que deba resolver hoy en su cabeza, reflexionando a fondo.",
+          "fr": "Sans stylo ni papier, concentrez votre attention sur le problème le plus difficile à résoudre aujourd'hui dans votre tête, en réfléchissant.",
+          "de": "Konzentrieren Sie sich ohne Schreibzeug nur im Kopf auf das schwierigste Problem, das Sie heute lösen müssen, und denken Sie darüber nach.",
+          "pt": "Sem ferramentas de escrita, concentre sua atenção no problema mais difícil a ser resolvido hoje em sua mente, refletindo profundamente.",
+          "id": "Tanpa alat tulis, pusatkan perhatian Anda pada masalah paling sulit dan berdampak untuk diselesaikan hari ini di kepala Anda."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "생각만 하니까 자꾸 딴생각이나 잡념으로 흘러가는데 어떻게 하죠?",
+          "en": "What if my thoughts drift into distractions or random daydreams?",
+          "ja": "考えているとつい雑念や別のことに流れてしまいますが、どうすればよいですか？",
+          "zh": "如果光是思考会导致总是开小差或产生杂念怎么办？",
+          "es": "¿Qué pasa si mis pensamientos se desvían hacia distracciones?",
+          "fr": "Que faire si mes pensées s'égarent vers des distractions ?",
+          "de": "Was mache ich, wenn meine Gedanken abschweifen?",
+          "pt": "O que fazer se meus pensamentos se desviarem para distrações?",
+          "id": "Bagaimana jika pikiran saya melayang ke hal-hal yang mengganggu?"
+        },
+        "answer": {
+          "ko": "초기 뇌 훈련 단계에서 자연스러운 현상이므로, 잡념이 떠오르면 억누르지 말고 팻말의 'THINK' 단어를 한번 응시하며 원래 해결 주제로 생각을 부드럽게 되돌리면 됩니다.",
+          "en": "This is natural in early brain training. When distractions arise, do not suppress them; instead, look at the 'THINK' sign and gently return to the topic.",
+          "ja": "初期の脳トレーニング段階では自然な現象ですので、雑念が浮かんだら抑え込もうとせず、立て札の「THINK」という言葉を一度見つめ、本来の解決テーマへと静かに思考を戻せばよいのです。",
+          "zh": "这是早期大脑训练阶段的自然现象，因此当产生杂念时不要强行压制，只需看一眼标牌上的“THINK”单词，将思绪轻轻拉回原本要解决的主题上即可。",
+          "es": "Esto es natural al principio. Cuando surjan distracciones, no las reprima; en su lugar, mire la señal de 'THINK' y regrese suavemente al tema.",
+          "fr": "C'est naturel au début. En cas de distraction, ne la refoulez pas. Regardez le panneau 'THINK' et revenez doucement au sujet.",
+          "de": "Das ist anfangs normal. Wenn Ablenkungen auftauchen, unterdrücken Sie diese nicht, sondern schauen Sie auf das 'THINK'-Schild und lenken Sie die Gedanken zurück.",
+          "pt": "Isso é natural no início. Quando surgirem distrações, não as reprima; em vez disso, olhe para a placa 'THINK' e retorne suavemente ao assunto.",
+          "id": "Ini wajar dalam latihan awal. Saat gangguan muncul, jangan ditekan; sebagai gantinya, tatap tanda 'THINK' dan kembalikan pikiran Anda ke topik."
+        }
+      }
+    ]
+  }
+}

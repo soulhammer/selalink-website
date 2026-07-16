@@ -1,0 +1,192 @@
+{
+  "drucker-three-year-study": {
+    "title": {
+      "ko": "3년마다 인생을 리셋하는 지적 모험: 피터 드러커의 다학제 공부 습관",
+      "en": "Intellectual Adventure Resetting Life Every 3 Years: Peter Drucker's Interdisciplinary Study Habit",
+      "ja": "3年ごとに人生をリセットする知的冒険：ピーター・ドラッカーの多学際的勉強習慣",
+      "zh": "每三年重置一次人生的智力冒险：彼得·德鲁克的跨学科学习习惯",
+      "es": "Aventura intelectual que reinicia la vida cada 3 años: El hábito de estudio interdisciplinario de Peter Drucker",
+      "fr": "L'aventure intellectuelle qui réinitialise la vie tous les 3 ans : L'habitude d'étude interdisciplinaire de Peter Drucker",
+      "de": "Intellektuelles Abenteuer, das das Leben alle 3 Jahre neu startet: Peter Druckers interdisziplinäre Lerngewohnheit",
+      "pt": "Aventura intelectual que reinicia a vida a cada 3 anos: O hábito de estudo interdisciplinar de Peter Drucker",
+      "id": "Petualangan Intelektual yang Mereset Hidup Setiap 3 Tahun: Kebiasaan Belajar Interdisipliner Peter Drucker"
+    },
+    "description": {
+      "ko": "경영학의 거장 피터 드러커가 평생 실천한 '3년 주기 새로운 학문 마스터' 습관. 뇌 가소성을 자극하고 지적 통찰력을 유지한 비결과 이를 현대식으로 응용하는 법을 알아봅니다.",
+      "en": "The master of management Peter Drucker's lifelong habit of mastering a new discipline every 3 years. Explore his secrets to stimulating brain plasticity and maintaining intellectual insight.",
+      "ja": "経営学の巨匠ピーター・ドラッカーが生涯実践した「3年周期の新しい学問マスター」習慣。脳の可塑性を刺激し知的洞察力を維持した秘訣を探ります。",
+      "zh": "管理学大师彼得·德鲁克终生坚持的“每三年掌握一门新学科”的习惯。探索他刺激大脑可塑性并保持智力洞察力的秘诀。",
+      "es": "El hábito de toda la vida del maestro de la administración Peter Drucker de dominar una nueva disciplina cada 3 años. Explore sus secretos para estimular la plasticidad cerebral.",
+      "fr": "L'habitude de toute la vie du maître du management Peter Drucker de maîtriser une nouvelle discipline tous les 3 ans. Explorez ses secrets pour stimuler la plasticité cérébrale.",
+      "de": "Die lebenslange Gewohnheit des Management-Meisters Peter Drucker, alle 3 Jahre eine neue Disziplin zu meistern. Entdecken Sie seine Geheimnisse zur Stimulierung der Gehirnplastizität.",
+      "pt": "O hábito de toda a vida do mestre da gestão Peter Drucker de dominar uma nova disciplina a cada 3 anos. Explore seus segredos para estimular a plasticidade cerebral.",
+      "id": "Kebiasaan seumur hidup master manajemen Peter Drucker dalam menguasai disiplin ilmu baru setiap 3 tahun. Temukan rahasianya untuk menstimulasi plastisitas otak."
+    },
+    "authority": {
+      "ko": "피터 드러커의 자서전 『나의 이력서』 및 뇌 가소성(Neuroplasticity) 신경과학 연구",
+      "en": "Peter Drucker's Autobiography and Neuroscientific Research on Neuroplasticity",
+      "ja": "ピーター・ドラッカーの自伝および脳の可塑性に関する神経科学研究",
+      "zh": "彼得·德鲁克自传及关于大脑可塑性的神经科学研究",
+      "es": "Autobiografía de Peter Drucker e investigación neurocientífica sobre la plasticidad cerebral",
+      "fr": "Autobiographie de Peter Drucker et recherche neuroscientifique sur la plasticité cérébrale",
+      "de": "Peter Druckers Autobiografie und neurowissenschaftliche Forschung zur Gehirnplastizität",
+      "pt": "Autobiografia de Peter Drucker e pesquisa neurocientífica sobre a plasticidade cerebral",
+      "id": "Autobiografi Peter Drucker dan Penelitian Neurosains tentang Plastisitas Otak"
+    },
+    "intro": {
+      "ko": "현대 경영학의 기초를 닦고 비즈니스의 지평을 제시한 석학 피터 드러커. 그는 어떻게 90대 후반의 나이까지 청년과 같은 맑은 정신과 날카로운 통찰력을 유지하며 수많은 저작을 남길 수 있었을까요? 그 비결은 다름 아닌 그의 독특한 지적 루틴인 '3년 주기 학습 습관'에 있었습니다.",
+      "en": "Peter Drucker, the scholar who laid the foundation of modern management and presented the horizon of business. How did he maintain a clear mind and sharp insight like a young man until his late 90s, leaving behind numerous works? The secret lay in his unique intellectual routine, the three-year study cycle.",
+      "ja": "現代経営学の基礎を築き、ビジネスの地平を提示した巨匠ピーター・ドラッカー。彼はどのようにして90代後半まで若者のような澄んだ精神と鋭い洞察力を維持し、数多くの著作を残せたのでしょうか。その秘訣は、彼のユニークな知的ルーティンである「3年周期の学習習慣」にありました。",
+      "zh": "奠定现代管理学基础并展现商业地平线的学者彼得·德鲁克。他是如何在90多岁的高龄依然保持年轻人般清晰的头脑和敏锐的洞察力，并留下无数著作的？秘密就在于他独特的智力常规——三年学习周期。",
+      "es": "Peter Drucker, el erudito que sentó las bases de la gestión moderna y presentó el horizonte de los negocios. ¿Cómo mantuvo una mente clara y una visión aguda como un hombre joven hasta los 90 años? El secreto residía en su rutina intelectual única, el ciclo de estudio de tres años.",
+      "fr": "Peter Drucker, l'érudit qui a jeté les bases du management moderne et présenté l'horizon des affaires. Comment a-t-il conservé un esprit clair et une vision acérée comme un jeune homme jusqu'à la fin de ses 90 ans ? Le secret résidait dans sa routine intellectuelle unique, le cycle d'étude de trois ans.",
+      "de": "Peter Drucker, der Gelehrte, der die Grundlagen des modernen Managements legte und den Horizont des Geschäftslebens aufzeigte. Wie bewahrte er sich bis in seine späten 90er Jahre einen klaren Geist und einen scharfen Verstand wie ein junger Mann? Das Geheimnis lag in seiner einzigartigen intellektuellen Routine, dem dreijährigen Lernzyklus.",
+      "pt": "Peter Drucker, o estudioso que lançou as bases da gestão moderna e apresentou o horizonte dos negócios. Como ele manteve uma mente clara e uma visão aguçada como um jovem até o final de seus 90 anos? O segredo estava em sua rotina intelectual única, o ciclo de estudo de três anos.",
+      "id": "Peter Drucker, akademisi yang meletakkan dasar manajemen modern dan menghadirkan cakrawala bisnis. Bagaimana dia bisa mempertahankan pikiran yang jernih dan wawasan yang tajam seperti orang muda hingga akhir usia 90-an? Rahasianya terletak pada rutinitas intelektualnya yang unik, siklus belajar tiga tahun."
+    },
+    "whyTitle": {
+      "ko": "새로운 분야의 공부가 뇌를 젊게 유지하는 이유",
+      "en": "Why Studying a New Field Keeps the Brain Young",
+      "ja": "新しい分野の勉強が脳を若く保つ理由",
+      "zh": "为什么学习新领域能让大脑保持年轻",
+      "es": "Por qué estudiar un campo nuevo mantiene joven el cerebro",
+      "fr": "Pourquoi l'étude d'un nouveau domaine maintient le cerveau jeune",
+      "de": "Warum das Erlernen eines neuen Bereichs das Gehirn jung hält",
+      "pt": "Por que estudar um novo campo mantém o cérebro jovem",
+      "id": "Mengapa Mempelajari Bidang Baru Menjaga Otak Tetap Muda"
+    },
+    "whyDesc": {
+      "ko": "동일한 일상과 지식만 반복해서 사용하는 뇌는 노화되기 쉽습니다. 새로운 학문이나 전공이 아닌 분야를 학습할 때, 뇌는 익숙한 신경 회로 대신 새로운 뉴런 간의 결합인 시냅스를 활성화합니다. 이를 <strong>뇌 가소성(Neuroplasticity)</strong>이라 부릅니다. 이 과정을 통해 뇌는 지적으로 젊어집니다.",
+      "en": "A brain that only uses the same routine and knowledge is prone to aging. When studying a new discipline or an unfamiliar field, the brain activates synapses, new connections between neurons, instead of familiar neural pathways. This is called <strong>neuroplasticity</strong>. Through this process, the brain remains intellectually young.",
+      "ja": "同じ日常と知識だけを繰り返して使用する脳は老化しやすいです。新しい学問や専門外の分野を学習する時、脳は慣れ親しんだ神経回路の代わりに、新しいニューロン間の結合であるシナプスを活性化します。これを<strong>脳の可塑性（Neuroplasticity）</strong>と呼びます。この過程を通じて脳は知的に若返ります。",
+      "zh": "只重复使用相同日常和知识的大脑容易衰老。当学习一门新学科或非专业领域的知识时，大脑会激活突触（神经元之间的新连接），而不是熟悉的神经网络。这被称为<strong>大脑可塑性（Neuroplasticity）</strong>。通过这个过程，大脑保持着智力上的年轻。",
+      "es": "Un cerebro que solo usa la misma rutina y conocimientos es propenso al envejecimiento. Al estudiar una nueva disciplina o un campo desconocido, el cerebro activa sinapsis, nuevas conexiones entre neuronas, en lugar de vías neuronales familiares. Esto se llama <strong>plasticidad cerebral</strong>. A través de este proceso, el cerebro se mantiene intelectualmente joven.",
+      "fr": "Un cerveau qui n'utilise que la même routine et les mêmes connaissances est sujet au vieillissement. Lors de l'étude d'une nouvelle discipline ou d'un domaine inconnu, le cerveau active des synapses, de nouvelles connexions entre neurones, au lieu de voies neuronales familières. C'est ce qu'on appelle la <strong>plasticité cérébrale</strong>. Grâce à ce processus, le cerveau reste intellectuellement jeune.",
+      "de": "Ein Gehirn, das nur die gleiche Routine und das gleiche Wissen nutzt, neigt zum Altern. Beim Erlernen einer neuen Disziplin oder eines unbekannten Bereichs aktiviert das Gehirn Synapsen, neue Verbindungen zwischen Neuronen, anstelle vertrauter Nervenbahnen. Dies wird als <strong>Gehirnplastizität</strong> bezeichnet. Durch diesen Prozess bleibt das Gehirn intellektuell jung.",
+      "pt": "Um cérebro que usa apenas a mesma rotina e conhecimento está sujeito ao envelhecimento. Ao estudar uma nova disciplina ou um campo desconhecido, o cérebro ativa sinapses, novas conexões entre neurônios, em vez de caminhos neurais familiares. Isso é chamado de <strong>plasticidade cerebral</strong>. Através desse processo, o cérebro permanece intelectualmente jovem.",
+      "id": "Otak yang hanya menggunakan rutinitas dan pengetahuan yang sama rentan terhadap penuaan. Saat mempelajari disiplin ilmu baru atau bidang yang tidak biasa, otak mengaktifkan sinapsis, koneksi baru antar neuron, alih-alih jalur saraf yang sudah dikenal. Ini disebut <strong>plastisitas otak</strong>. Melalui proses ini, otak tetap muda secara intelektual."
+    },
+    "cautionTitle": {
+      "ko": "과도한 욕심 방지 및 실천을 위한 팁",
+      "en": "Tips for Preventing Excessive Greed and Practice",
+      "ja": "過度な欲張りの防止と実践のためのヒント",
+      "zh": "防止过度贪心与实践的建议",
+      "es": "Consejos para prevenir la codicia excesiva y la práctica",
+      "fr": "Conseils pour éviter l'avidité excessive et la pratique",
+      "de": "Tipps zur Vermeidung von übermäßigem Ehrgeiz und zur Praxis",
+      "pt": "Dicas para evitar a ganância excessiva e a prática",
+      "id": "Tips untuk Mencegah Keserakahan Berlebih dan Praktik"
+    },
+    "cautionDesc": {
+      "ko": "처음부터 너무 어렵거나 전문적인 학문을 선택해 지나치게 큰 부담을 가지는 것은 피해야 합니다. 지속 가능한 공부를 위해서는 자신이 흥미를 느끼면서도 평소 접하지 않았던 대상을 선정하고, 하루 30분이라도 <strong>꾸준히 독서하는 습관</strong>을 우선 만드는 것이 중요합니다.",
+      "en": "You should avoid picking a discipline that is too difficult or professional at first, creating too much burden. For sustainable study, choose a subject you are interested in but don't usually encounter, and it is important to first build a <strong>habit of reading consistently</strong> for even 30 minutes a day.",
+      "ja": "最初から難しすぎたり専門的な学問を選んで過度な負担を感じることは避けるべきです。持続可能な勉強のためには、自分が興味を持ちながらも普段接することのなかった対象を選び、一日30分でも<strong>着実に読書する習慣</strong>をまず身につけることが重要です。",
+      "zh": "应避免一开始就选择过难或过于专业的技术学科，这会带来过大负担。为了能够持续学习，应该选择自己感兴趣但平时接触不到的主题，并且最重要的是首先养成每天<strong>坚持阅读的习惯</strong>，哪怕只有30分钟。",
+      "es": "Debe evitar elegir una disciplina que sea demasiado difícil o profesional al principio, creando demasiada carga. Para un estudio sostenible, elija un tema que le interese pero que no encuentre habitualmente, y es importante desarrollar primero el <strong>hábito de leer constantemente</strong> durante al menos 30 minutos al día.",
+      "fr": "Vous devriez éviter de choisir une discipline trop difficile ou professionnelle au début, ce qui créerait un fardeau excessif. Pour une étude durable, choisissez un sujet qui vous intéresse mais que vous ne rencontrez pas habituellement, et il est important de créer d'abord une <strong>habitude de lecture régulière</strong> pendant au moins 30 minutes par jour.",
+      "de": "Sie sollten es vermeiden, zu Beginn eine zu schwierige oder fachspezifische Disziplin zu wählen, um sich nicht zu überfordern. Für ein nachhaltiges Studium wählen Sie ein Thema, das Sie interessiert, dem Sie aber normalerweise nicht begegnen, und es ist wichtig, zuerst eine <strong>Gewohnheit des regelmäßigen Lesens</strong> für mindestens 30 Minuten am Tag aufzubauen.",
+      "pt": "Você deve evitar escolher uma disciplina muito difícil ou profissional no início, criando um fardo excessivo. Para um estudo sustentável, escolha um assunto de seu interesse, mas que não encontre habitualmente, e é importante criar primeiro o <strong>hábito de ler constantemente</strong> por pelo menos 30 minutos por dia.",
+      "id": "Anda harus menghindari memilih disiplin ilmu yang terlalu sulit atau profesional pada awalnya untuk menghindari beban berlebih. Untuk studi yang berkelanjutan, pilihlah subjek yang Anda minati tetapi jarang Anda temui, dan penting untuk terlebih dahulu membangun <strong>kebiasaan membaca secara konsisten</strong> bahkan selama 30 menit sehari."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "3년의 마스터 계획과 1년 단위 대주제 선정",
+          "en": "Selecting a 3-Year Master Plan and 1-Year Unit Theme",
+          "ja": "3年のマスター計画と1年単位の大テーマ選定",
+          "zh": "制定三年主计划并选定年度大主题",
+          "es": "Selección de un plan maestro de 3 años y un tema anual",
+          "fr": "Sélection d'un plan directeur sur 3 ans et d'un thème annuel",
+          "de": "Auswahl eines 3-Jahres-Masterplans und Jahresthemas",
+          "pt": "Seleção de um plano mestre de 3 anos e um tema anual",
+          "id": "Memilih Rencana Utama 3 Tahun dan Tema Tahunan"
+        },
+        "text": {
+          "ko": "자신의 본업이나 기존 전공과 완전히 다른 비전공 분야(예: 중세 역사, 식물학, 통계학 등)를 새로운 공부 주제로 결정합니다.",
+          "en": "Decide on a non-major field completely different from your main job or existing major (e.g., medieval history, botany, statistics) as a new study topic.",
+          "ja": "自分の本業や既存の専攻と完全に異なる専門外の分野（例：中世の歴史、植物学、統計学など）を新しい勉強のテーマに決定します。",
+          "zh": "决定一个与自己的本职工作或原有专业完全不同的非专业领域（例如：中世纪历史、植物学、统计学等）作为新的学习主题。",
+          "es": "Decida un campo no relacionado completamente diferente de su trabajo principal o especialidad existente (por ejemplo, historia medieval, botánica, estadística) como tema de estudio.",
+          "fr": "Décidez d'un domaine hors spécialité complètement différent de votre travail principal ou de votre spécialisation actuelle (ex: histoire médiévale, botanique, statistiques) comme sujet d'étude.",
+          "de": "Wählen Sie ein Fachgebiet, das sich völlig von Ihrem Hauptberuf oder Ihrem bestehenden Fachbereich unterscheidet (z. B. mittelalterliche Geschichte, Botanik, Statistik) als neues Lernthema.",
+          "pt": "Decida por um campo não relacionado, completamente diferente do seu trabalho principal ou especialidade existente (por exemplo, história medieval, botânica, estatística) como tema de estudo.",
+          "id": "Tentukan bidang non-jurusan yang sama sekali berbeda dari pekerjaan utama atau jurusan Anda saat ini (misalnya, sejarah abad pertengahan, botani, statistik) sebagai topik belajar baru."
+        }
+      },
+      {
+        "name": {
+          "ko": "매일 저녁 30분의 완전한 독서 리추얼",
+          "en": "30-Minute Reading Ritual Every Evening",
+          "ja": "毎晩30分の完全な読書リチュアル",
+          "zh": "每天傍晚进行30分钟的完整阅读仪式",
+          "es": "Ritual de lectura de 30 minutos cada noche",
+          "fr": "Rituel de lecture de 30 minutes chaque soir",
+          "de": "30-minütiges Leseritual jeden Abend",
+          "pt": "Ritual de leitura de 30 minutos todas as noites",
+          "id": "Ritual Membaca 30 Menit Setiap Malam"
+        },
+        "text": {
+          "ko": "하루 일과 중 주의 분산이 없는 조용한 저녁이나 주말 아침을 비워, 해당 주제에 관한 기초 서적과 개론서를 매일 일정 분량 정독합니다.",
+          "en": "Set aside a quiet evening or weekend morning free from distractions to read basic books and introductory texts on the chosen topic daily.",
+          "ja": "一日の日課の中で気を散らすもののない静かな夜や週末の朝を空け、該当テーマに関する基礎書籍や概論書を毎日一定量精読します。",
+          "zh": "在一天中腾出没有干扰的安静傍晚或周末早晨，每天精读一定数量的该主题基础书籍和概论书。",
+          "es": "Reserve una tarde tranquila o una mañana de fin de semana libre de distracciones para leer libros básicos y textos introductorios sobre el tema elegido a diario.",
+          "fr": "Réservez une soirée tranquille ou un matin de week-end sans distraction pour lire chaque jour des livres de base et des textes d'introduction sur le thème choisi.",
+          "de": "Nehmen Sie sich täglich einen ruhigen Abend oder einen ablenkungsfreien Wochenendmorgen Zeit, um grundlegende Bücher und Einführungen zum gewählten Thema zu lesen.",
+          "pt": "Reserve uma noite tranquila ou uma manhã de fim de semana livre de distrações para ler livros básicos e textos introdutórios sobre o tema escolhido diariamente.",
+          "id": "Sediakan malam yang tenang atau pagi akhir pekan yang bebas dari gangguan untuk membaca buku-buku dasar dan teks pengantar tentang topik pilihan setiap hari."
+        }
+      },
+      {
+        "name": {
+          "ko": "배운 지식을 직접 서술하여 요약문 작성",
+          "en": "Writing a Summary by Describing the Learned Knowledge",
+          "ja": "学んだ知識を直接記述して要約を作成",
+          "zh": "亲自将学到的知识撰写成摘要",
+          "es": "Escribir un resumen describiendo los conocimientos adquiridos",
+          "fr": "Rédiger un résumé décrivant les connaissances acquises",
+          "de": "Verfassen einer Zusammenfassung des erlernten Wissens",
+          "pt": "Escrever um resumo descrevendo o conhecimento adquirido",
+          "id": "Menulis Ringkasan dengan Menjelaskan Pengetahuan yang Diperoleh"
+        },
+        "text": {
+          "ko": "공부한 주제를 머리로만 남기지 않고, 주변 사람에게 설명하거나 블로그, 에세이 등 한 편의 글이나 리포트로 요약하여 기록합니다.",
+          "en": "Instead of keeping the studied topic in your head, explain it to others or summarize it in writing, such as a blog post, essay, or report.",
+          "ja": "勉強したテーマを頭の中だけに留めず、周囲の人に説明したり、ブログやエッセイなど一篇の文章やレポートに要約して記録します。",
+          "zh": "不将学习的主题仅留在脑海中，而是向身边的人解释，或者将其总结成博客、散文等一篇文章或报告记录下来。",
+          "es": "En lugar de mantener el tema estudiado en su cabeza, explíquelo a otros o resúmalo por escrito, como una publicación de blog, un ensayo o un informe.",
+          "fr": "Plutôt que de garder le sujet étudié dans votre tête, expliquez-le aux autres ou résumez-le par écrit, sous la forme d'un article de blog, d'un essai ou d'un rapport.",
+          "de": "Anstatt das gelernte Thema nur im Kopf zu behalten, erklären Sie es anderen oder fassen Sie es schriftlich zusammen, z. B. in einem Blogbeitrag, Aufsatz oder Bericht.",
+          "pt": "Em vez de manter o assunto estudado na cabeça, explique-o a outras pessoas ou resuma-o por escrito, como um post de blog, ensaio ou relatório.",
+          "id": "Daripada hanya menyimpan topik yang dipelajari di kepala Anda, jelaskan kepada orang lain atau ringkaslah secara tertulis, seperti postingan blog, esai, atau laporan."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "3년마다 주제를 바꾸는 이유는 무엇인가요?",
+          "en": "Why change topics every three years?",
+          "ja": "なぜ3年ごとにテーマを変えるのですか？",
+          "zh": "为什么每三年更换一次主题？",
+          "es": "¿Por qué cambiar de tema cada tres años?",
+          "fr": "Pourquoi changer de sujet tous les trois ans ?",
+          "de": "Warum alle drei Jahre das Thema wechseln?",
+          "pt": "Por que mudar de assunto a cada três anos?",
+          "id": "Mengapa mengubah topik setiap tiga tahun?"
+        },
+        "answer": {
+          "ko": "하나의 주제를 마스터하고 뇌의 신경 가소성을 최적으로 자극하기에 3년이라는 주기가 적절하며, 이를 통해 여러 학문의 경계를 넘나드는 융합적 사고가 가능해지기 때문입니다.",
+          "en": "Because a three-year cycle is appropriate to master a single topic and optimally stimulate brain neuroplasticity, enabling convergent thinking across various disciplines.",
+          "ja": "一つのテーマをマスターし、脳の神経可塑性を最適に刺激するのに3年という周期が適切であり、これにより多様な学問の境界を超える融合的思考が可能になるためです。",
+          "zh": "因为三年周期足以掌握一个主题并最佳地刺激大脑的神经可塑性，从而能够跨越各个学科的界限进行融合性思考。",
+          "es": "Porque un ciclo de tres años es apropiado para dominar un solo tema y estimular de manera óptima la neuroplasticidad cerebral, lo que permite un pensamiento convergente a través de diversas disciplinas.",
+          "fr": "Parce qu'un cycle de trois ans est approprié pour maîtriser un seul sujet et stimuler de manière optimale la neuroplasticité cérébrale, permettant une pensée convergente à travers diverses disciplines.",
+          "de": "Weil ein Dreijahreszyklus geeignet ist, ein einzelnes Thema zu meistern und die Neuroplastizität des Gehirns optimal zu stimulieren, was ein konvergentes Denken über verschiedene Disziplinen hinweg ermöglicht.",
+          "pt": "Porque um ciclo de três anos é adequado para dominar um único assunto e estimular de forma ideal a neuroplasticidade cerebral, permitindo o pensamento convergente em várias disciplinas.",
+          "id": "Karena siklus tiga tahun tepat untuk menguasai satu topik dan merangsang neuroplastisitas otak secara optimal, memungkinkan pemikiran konvergen di berbagai disiplin ilmu."
+        }
+      }
+    ]
+  }
+}

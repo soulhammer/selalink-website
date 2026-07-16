@@ -1,0 +1,192 @@
+{
+  "bezos-six-page-memo": {
+    "title": {
+      "ko": "아마존 회의실의 침묵 30분: 제프 베조스의 6페이지 메모 독서법",
+      "en": "30 Minutes of Silence in Amazon's Boardroom: Jeff Bezos's 6-Page Memo Reading Method",
+      "ja": "アマゾン会議室の沈黙30分：ジェフ・ベゾスの6ページメモ読書法",
+      "zh": "亚马逊会议室的沉静三十分钟：杰夫·贝佐斯的六页备忘录阅读法",
+      "es": "30 minutos de silencio en la sala de juntas de Amazon: El método de lectura de notas de 6 páginas de Jeff Bezos",
+      "fr": "30 minutes de silence dans la salle de réunion d'Amazon : La méthode de lecture de mémo de 6 pages de Jeff Bezos",
+      "de": "30 Minuten Schweigen im Amazon-Sitzungssaal: Jeff Bezos' 6-seitige Memo-Lesemethode",
+      "pt": "30 minutos de silêncio na sala de reuniões da Amazon: O método de leitura de memorando de 6 páginas de Jeff Bezos",
+      "id": "30 Menit Keheningan di Ruang Rapat Amazon: Metode Membaca Memo 6 Halaman Jeff Bezos"
+    },
+    "description": {
+      "ko": "아마존에서 PPT 발표를 금지하고 회의 시작 후 30분간 조용히 보고서를 정독하게 만든 제프 베조스의 의사결정 비결. 인과관계 중심의 글쓰기와 독서가 두뇌 인지 능력을 높이는 원리를 알아봅니다.",
+      "en": "Jeff Bezos's decision-making secret of banning PPT and having attendees silently read report memos for 30 minutes. Learn how writing and reading causal text enhances cognitive abilities.",
+      "ja": "アマゾンでPPTを禁止し、会議開始後30分間静かに報告書を精読させたジェフ・ベゾスの意思決定の秘訣。因果関係を中心とした記述と読書が脳の認知能力を高める原理を探ります。",
+      "zh": "杰夫·贝佐斯禁止PPT并让与会者在会议开始后静静阅读六页备忘录的决策秘诀。了解以因果关系为中心的写作和阅读如何提高大脑认知能力。",
+      "es": "El secreto de toma de decisiones de Jeff Bezos al prohibir las presentaciones de PPT y hacer que los asistentes lean memorandos en silencio. Aprenda cómo el texto de causa y efecto mejora las habilidades cognitivas.",
+      "fr": "Le secret de prise de décision de Jeff Bezos en interdisant les présentations PPT et en faisant lire les mémos en silence. Apprenez comment le texte de cause à effet améliore les capacités cognitives.",
+      "de": "Jeff Bezos' Entscheidungsgeheimnis, PPT-Präsentationen zu verbieten und Berichte zu Beginn schweigend lesen zu lassen. Erfahren Sie, wie das Lesen strukturierter Texte die kognitiven Fähigkeiten stärkt.",
+      "pt": "O segredo de tomada de decisões de Jeff Bezos ao proibir apresentações de PPT e fazer com que os participantes leiam memorandos em silêncio. Aprenda como o texto de causa e efeito melhora as habilidades cognitivas.",
+      "id": "Rahasia pengambilan keputusan Jeff Bezos dengan melarang PPT dan meminta peserta membaca memo dalam diam. Pelajari bagaimana teks sebab-akibat meningkatkan kemampuan kognitif."
+    },
+    "authority": {
+      "ko": "아마존 주주 서한(Amazon Shareholder Letters) 및 하버드 비즈니스 리뷰(HBR) 의사결정 연구",
+      "en": "Amazon Shareholder Letters and Harvard Business Review (HBR) Research on Decision Making",
+      "ja": "アマゾン株主書簡およびハーバード・ビジネス・レビュー（HBR）の意思決定研究",
+      "zh": "亚马逊股东信及《哈佛商业评论》(HBR)关于决策的研究",
+      "es": "Cartas a los accionistas de Amazon e investigación sobre la toma de decisiones de Harvard Business Review (HBR)",
+      "fr": "Lettres aux actionnaires d'Amazon et recherche sur la prise de décision de la Harvard Business Review (HBR)",
+      "de": "Amazon-Aktionärsbriefe und Forschung zur Entscheidungsfindung der Harvard Business Review (HBR)",
+      "pt": "Cartas aos acionistas da Amazon e pesquisa sobre tomada de decisões da Harvard Business Review (HBR)",
+      "id": "Surat Pemegang Saham Amazon dan Penelitian Pengambilan Keputusan Harvard Business Review (HBR)"
+    },
+    "intro": {
+      "ko": "세계 최대의 이커머스 및 클라우드 기업 아마존의 창업자 제프 베조스. 그는 중요 회의실에서 불릿 포인트가 가득한 화려한 PPT 슬라이드 사용을 금지하고, 줄글 형태의 6페이지 보고서를 사용하도록 규정했습니다. 회의 시작 직후에는 어떠한 말도 나누지 않고 오직 30분간 조용히 보고서를 정독하는 시간을 가집니다. 왜 그들은 이러한 엄격한 침묵의 룰을 유지했을까요?",
+      "en": "Jeff Bezos, founder of Amazon, the world's largest e-commerce and cloud company. He banned fancy PPT slides with bullet points and ruled that a 6-page report in narrative form should be used. Right after starting a meeting, no words are spoken, and attendees spend 30 minutes quietly reading the memo. Why did they keep this strict rule of silence?",
+      "ja": "世界最大規模のEC・クラウド企業アマゾンの創業者ジェフ・ベゾス。彼は重要な会議室で弾丸ポイントだらけの華麗なPPTスライドの使用を禁止し、記述形式の6ページ報告書を使用するよう規定しました。会議開始直後は一切話さず、ただ30分間静かに報告書を精読する時間を持ちます。なぜ彼らはこのような厳格な沈黙のルールを維持したのでしょうか。",
+      "zh": "世界最大电子商务和云服务企业亚马逊的创始人杰夫·贝佐斯。他在重要会议中禁止使用满是项目符号的PPT幻灯片，并规定必须使用长文叙述形式的6页报告。会议开始后，与会者不会说一句话，而是静静阅读这份报告30分钟。他们为什么要保持这种严格的沉默规则？",
+      "es": "Jeff Bezos, fundador de Amazon. Prohibió las diapositivas de PPT con viñetas y dictaminó que se utilizara un informe de 6 páginas en forma de texto narrativo. Justo después de comenzar una reunión, no se habla y los asistentes leen el memorando en silencio. ¿Por qué mantuvieron esta regla de silencio?",
+      "fr": "Jeff Bezos, fondateur d'Amazon. Il a banni les diapositives PPT avec des puces et a décrété qu'un rapport de 6 pages sous forme de texte narratif devait être utilisé. Juste après le début d'une réunion, aucun mot n'est prononcé et les participants lisent le mémo en silence. Pourquoi ont-ils gardé cette règle ?",
+      "de": "Jeff Bezos, Gründer von Amazon. Er verbot PPT-Folien mit Stichpunkten und ordnete an, dass ein 6-seitiger Bericht in Textform verwendet werden muss. Zu Beginn eines Meetings wird kein Wort gesprochen; die Teilnehmer lesen den Bericht 30 Minuten lang schweigend. Warum führte er diese strenge Regel ein?",
+      "pt": "Jeff Bezos, fundador de Amazon. Ele proibiu slides de PPT com marcadores e determinou que fosse usado um relatório de 6 páginas em formato de texto narrativo. Logo após iniciar uma reunião, nenhuma palavra é dita e os participantes leem o memorando em silêncio. Por que mantiveram essa regra?",
+      "id": "Jeff Bezos, pendiri Amazon. Dia melarang slide PPT dengan poin-poin singkat dan mewajibkan laporan bentuk tulisan naratif sepanjang 6 halaman. Tepat setelah rapat dimulai, tidak ada kata-kata yang diucapkan, dan peserta membaca memo dalam diam selama 30 menit. Mengapa mereka menerapkan aturan diam ini?"
+    },
+    "whyTitle": {
+      "ko": "서술형 줄글 정독이 두뇌 판단력을 높이는 이유",
+      "en": "Why Reading Narrative Text Improves Brain Judgment",
+      "ja": "記述形式の文章の精読が脳の判断力を高める理由",
+      "zh": "为什么阅读长文叙述能提高大脑判断力",
+      "es": "Por qué leer texto narrativo mejora el juicio cerebral",
+      "fr": "Pourquoi la lecture de textes narratifs améliore le jugement cérébral",
+      "de": "Warum das Lesen strukturierter Texte die Urteilskraft stärkt",
+      "pt": "Por que a leitura de texto narrativo melhora o julgamento cerebral",
+      "id": "Mengapa Membaca Teks Naratif Meningkatkan Penilaian Otak"
+    },
+    "whyDesc": {
+      "ko": "단편적인 단어(불릿 포인트)들의 열람과 달리, 완결성 있는 서술형 보고서를 읽는 활동은 뇌의 <strong>전전두엽(Prefrontal Cortex)</strong>을 집중적으로 활성화시킵니다. 전전두엽은 상황의 인과관계를 심층 분석하고 장단점을 비교하여 논리적인 의사결정을 내리는 중추입니다. 줄글 독서는 이 영역의 정보 처리 밀도를 높여 오판을 사전에 차단합니다.",
+      "en": "Unlike viewing fragmented words (bullet points), reading a complete narrative report intensively activates the brain's <strong>prefrontal cortex</strong>. The prefrontal cortex is the hub for in-depth analysis of causal relationships and making logical decisions. Reading prose increases information processing density in this region, preventing misjudgments.",
+      "ja": "断片的な単語（バレットポイント）の閲覧とは異なり、完結性のある記述形式の報告書を読む活動は、脳の<strong>前頭前皮質（Prefrontal Cortex）</strong>を集中的に活性化させます。前頭前皮質は状況の因果関係を深く分析し、論理的な意思決定を下す中枢です。文章の読書はこの領域の情報処理密度を高め、誤った判断を事前に遮断します。",
+      "zh": "与浏览零碎的单词（项目符号）不同，阅读完整叙述形式的报告会集中激活大脑的<strong>前额叶皮层（Prefrontal Cortex）</strong>。前额叶皮层是深入分析因果关系并做出逻辑决策的中枢。阅读叙事长文能提高该区域的信息处理密度，从而预防决策错误。",
+      "es": "A diferencia de ver palabras fragmentadas (viñetas), leer un informe narrativo completo activa intensamente la <strong>corteza prefrontal</strong> del cerebro. La corteza prefrontal es el centro para el análisis profundo de relaciones causales y toma de decisiones. Leer prosa aumenta la densidad del procesamiento de información en esta región.",
+      "fr": "Contrairement à la simple lecture de mots fragmentés (puces), lire un rapport narratif complet active intensément le <strong>cortex préfrontal</strong>. Le cortex préfrontal est le centre de l'analyse approfondie des relations causales et des choix logiques. Lire de la prose augmente la densité de traitement de l'information dans cette zone.",
+      "de": "Im Gegensatz zum Betrachten fragmentierter Wörter (Stichpunkte) aktiviert das Lesen eines vollständigen Fließtextes intensiv den <strong>präfrontalen Kortex</strong> des Gehirns. Der präfrontale Kortex ist das Zentrum für die eingehende Analyse von Ursache-Wirkungs-Beziehungen und logische Entscheidungen. Dies verhindert Fehlentscheidungen.",
+      "pt": "Ao contrário de visualizar palavras fragmentadas (marcadores), ler um relatório narrativo completo ativa intensamente o <strong>cortex pré-frontal</strong> do cérebro. O córtex pré-frontal é o centro para análise profunda de relações causais e tomadas de decisões. Ler prosa aumenta a densidade de processamento de informações nesta região.",
+      "id": "Berbeda dengan melihat kata-kata yang terfragmentasi (poin-poin), membaca laporan naratif lengkap secara intensif mengaktifkan <strong>korteks prefrontal</strong> otak. Korteks prefrontal adalah pusat analisis hubungan sebab-akibat dan pengambilan keputusan logis. Membaca narasi meningkatkan kepadatan pemrosesan informasi di wilayah ini."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions & Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen & Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan & Tips"
+    },
+    "cautionDesc": {
+      "ko": "이 습관을 적용할 때 주의해야 할 점은 단순 요약본을 대충 줄글로 늘려 쓰는 것이 아니라는 점입니다. 논의 대상을 <strong>서술형 문장으로 정리</strong>할 때는 인과관계(A로 인해 B가 발생하고 C의 해결책을 도출한다)가 뚜렷해야 하며, 단순 나열식 글쓰기는 뇌의 혼란을 유도하므로 피해야 합니다.",
+      "en": "The caution in applying this habit is that you should not simply stretch a simple summary into a long text. When you <strong>summarize topics in narrative sentences</strong>, the causal relationships (A causes B, leading to solution C) must be clear, as simple list-style writing causes confusion in the brain.",
+      "ja": "この習慣を適用する際の注意点は、単純な要約をただ文章に引き伸ばすことではないということです。論議対象を<strong>記述式の文章で整理</strong>する時は、因果関係（AによってBが発生し、Cの解決策を導き出す）が明確でなければならず、単なる羅列式の記述は脳の混乱を招くため避けるべきです。",
+      "zh": "应用此习惯时需要注意的是，不能只是将简单的摘要拉长写成长篇废话。在将讨论对象<strong>以叙述性句子整理</strong>时，因果关系（由于A发生B，从而得出C的解决办法）必须清晰，应避免单纯陈列式的写作，因为这会引起大脑混乱。",
+      "es": "La precaución al aplicar este hábito es que no debe simplemente alargar un resumen simple en un texto largo. Al <strong>organizar los temas en oraciones narrativas</strong>, las relaciones causales (A causa B, lo que lleva a la solución C) deben ser claras, ya que la escritura de lista simple causa confusión en el cerebro.",
+      "fr": "La précaution dans l'application de cette habitude est qu'il ne faut pas simplement rallonger un résumé simple en un texte long. Lorsque vous <strong>organisez les sujets en phrases narratives</strong>, les relations causales (A cause B, menant à la solution C) doivent être claires, car l'écriture en liste provoque la confusion.",
+      "de": "Bei dieser Gewohnheit geht es nicht darum, eine einfache Zusammenfassung künstlich in die Länge zu ziehen. Wenn Sie Themen <strong>in erzählenden Sätzen zusammenfassen</strong>, müssen die Kausalitäten (A verursacht B, was zu Lösung C führt) klar sein, da einfache Aufzählungen das Gehirn nur verwirren.",
+      "pt": "A precaução ao aplicar este hábito é que você não deve simplesmente esticar um resumo simples em um texto longo. Ao <strong>organizar os temas em frases narrativas</strong>, as relações causais (A causa B, levando à solução C) devem ser claras, pois a escrita em estilo de lista causa confusão no cérebro.",
+      "id": "Tindakan pencegahan dalam menerapkan kebiasaan ini adalah Anda tidak boleh hanya memperpanjang ringkasan sederhana menjadi teks panjang. Saat Anda <strong>merangkum topik dalam kalimat naratif</strong>, hubungan sebab-akibat (A menyebabkan B, memicu solusi C) harus jelas, karena penulisan daftar sederhana memicu kebingungan otak."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "회의 및 의사결정 주제의 서술형 작성",
+          "en": "Narrative Writing of Meeting and Decision-Making Topics",
+          "ja": "会議および意思決定テーマの記述式作成",
+          "zh": "将会议及决策主题编写为长文叙述",
+          "es": "Escritura narrativa de temas de reuniones y toma de decisiones",
+          "fr": "Rdaction narrative des sujets de runion et de dcision",
+          "de": "Narrative Ausarbeitung von Meeting- und Entscheidungsthemen",
+          "pt": "Escrita narrativa de tópicos de reuniões e tomadas de decisões",
+          "id": "Penulisan Naratif Topik Rapat dan Pengambilan Keputusan"
+        },
+        "text": {
+          "ko": "회의를 진행하기 전, 요약이나 나열이 아닌 인과관계가 드러나도록 완성도 높은 서술형 문서(1~6페이지)를 작성하여 배포합니다.",
+          "en": "Before a meeting, write and distribute a complete narrative document (1 to 6 pages) that shows causal relationships, rather than summaries or lists.",
+          "ja": "会議を行う前に、要約や羅列ではなく因果関係が表れるような完成度の高い記述式文書（1〜6ページ）を作成して配布します。",
+          "zh": "在开会前，撰写并分发一份高完整度的长文叙述文档（1至6页），以展现因果关系，而非项目要点或清单。",
+          "es": "Antes de una reunión, escriba y distribuya un documento narrativo completo (de 1 a 6 páginas) que muestre relaciones causales, en lugar de resúmenes.",
+          "fr": "Avant une réunion, rédigez et distribuez un document narratif complet (de 1 à 6 pages) montrant les relations causales, plutôt que des résumés.",
+          "de": "Schreiben und verteilen Sie vor einem Meeting ein vollständiges Dokument in Textform (1 bis 6 Seiten), das kausale Zusammenhänge anstelle von Listen aufzeigt.",
+          "pt": "Antes de uma reunião, escreva e distribua um documento narrativo completo (de 1 a 6 páginas) que mostre relações causais, em vez de resumos.",
+          "id": "Sebelum rapat, tulis dan distribusikan dokumen naratif lengkap (1 hingga 6 halaman) yang menunjukkan hubungan sebab-akibat, bukan ringkasan."
+        }
+      },
+      {
+        "name": {
+          "ko": "회의 직후 조용한 침묵 속의 자료 정독",
+          "en": "Silently Reading Materials Right at the Start",
+          "ja": "会議直後の静かな沈黙の中での資料精読",
+          "zh": "会议开始后在安静的沉默中精读资料",
+          "es": "Lectura silenciosa de materiales justo al comienzo",
+          "fr": "Lecture silencieuse des documents au tout début",
+          "de": "Schweigendes Lesen der Unterlagen zu Beginn des Meetings",
+          "pt": "Leitura silenciosa de materiais logo no início",
+          "id": "Membaca Materi dalam Diam Tepat Saat Rapat Dimulai"
+        },
+        "text": {
+          "ko": "회의 개시 후 발표자의 설명을 듣는 대신, 15~30분 동안 회의실 전체가 완전한 침묵 속에서 자료를 온전히 완독합니다.",
+          "en": "Instead of listening to a presenter at the start, the entire boardroom stays completely silent for 15 to 30 minutes to read through the document.",
+          "ja": "会議開始後に発表者の説明を聞く代わりに、15〜30分間会議室全体が完全な沈黙の中で資料をしっかりと読み通します。",
+          "zh": "会议开始后不听取报告人的讲解，而是由会议室全体人员在15至30分钟的完全静默中完整阅读资料。",
+          "es": "En lugar de escuchar a un presentador al principio, toda la sala de juntas permanece en completo silencio durante 15 a 30 minutos para leer el documento.",
+          "fr": "Au lieu d'écouter un présentateur au début, toute la salle reste complètement silencieuse pendant 15 à 30 minutes pour lire le document.",
+          "de": "Anstatt sich einen Vortrag anzuhören, schweigt das gesamte Meeting zu Beginn 15 bis 30 Minuten lang, um das Dokument vollständig durchzulesen.",
+          "pt": "Em vez de ouvir um apresentador no início, toda a sala permanece em completo silêncio por 15 a 30 minutos para ler o documento.",
+          "id": "Alih-alih mendengarkan presenter di awal, seluruh ruang rapat tetap diam selama 15 hingga 30 menit untuk membaca dokumen secara menyeluruh."
+        }
+      },
+      {
+        "name": {
+          "ko": "맥락의 통일성 하의 집중 토론 및 의사결정",
+          "en": "Focused Discussion and Decision-Making with Unified Context",
+          "ja": "文脈の統一性のもとでの集中討議および意思決定",
+          "zh": "在统一背景脉络下进行集中讨论及决策",
+          "es": "Discusión enfocada y toma de decisiones con un contexto unificado",
+          "fr": "Discussion cicle et prise de dcision avec un contexte unifi",
+          "de": "Fokussierte Diskussion und Entscheidungsfindung auf gemeinsamer Basis",
+          "pt": "Discussão focada e tomada de decisões com contexto unificado",
+          "id": "Diskusi Terfokus dan Pengambilan Keputusan dengan Konteks yang Sama"
+        },
+        "text": {
+          "ko": "참석자 전원이 동일한 깊이로 뇌에 정보를 입력한 것을 전제로, 불필요한 질의응답을 줄이고 본질적인 토론과 합의를 실행합니다.",
+          "en": "On the premise that all attendees have processed information at the same depth, skip unnecessary Q&A and proceed to core discussions and consensus.",
+          "ja": "出席者全員が同じ深さで脳に情報を入力したことを前提に、不要な質疑応答を減らし本質的な討議と合意を実行します。",
+          "zh": "在与会人员皆以相同深度获取了信息的的前提下，减少不必要的答疑，进行本质性的讨论与共识达成。",
+          "es": "Bajo la premisa de que todos han procesado la información con la misma profundidad, reduzca las preguntas innecesarias y proceda a discusiones y consensos centrales.",
+          "fr": "En partant du principe que tous ont traité l'information avec la même profondeur, réduisez les questions inutiles et passez aux discussions essentielles.",
+          "de": "Da alle Teilnehmer die Informationen in gleicher Tiefe aufgenommen haben, werden unnötige Fragen vermieden und direkt wesentliche Diskussionen geführt.",
+          "pt": "Sob a premissa de que todos processaram as informações na mesma profundidade, reduza perguntas desnecessárias e proceda a discussões e consensos principais.",
+          "id": "Dengan asumsi semua peserta telah memproses informasi pada kedalaman yang sama, kurangi tanya jawab yang tidak perlu dan lanjutkan ke diskusi inti."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "왜 회의 중에 굳이 같이 읽는 시간을 갖나요?",
+          "en": "Why take time to read together during a meeting?",
+          "ja": "なぜ会議中にあえて一緒に読む時間を持つのですか？",
+          "zh": "为什么要在会议期间专门留出一起阅读的时间？",
+          "es": "¿Por qué tomarse el tiempo para leer juntos durante una reunión?",
+          "fr": "Pourquoi prendre le temps de lire ensemble pendant une réunion ?",
+          "de": "Warum wird die Lesezeit direkt in das Meeting gelegt?",
+          "pt": "Por que reservar um tempo para ler juntos durante uma reunião?",
+          "id": "Mengapa meluangkan waktu untuk membaca bersama selama rapat?"
+        },
+        "answer": {
+          "ko": "미리 읽어오라고 하면 대충 훑어보거나 안 읽어오는 경우가 있어, 회의실에서 강제로 동일한 깊이의 인지 상태와 핵심 맥락을 싱크하기 위함입니다.",
+          "en": "If asked to read in advance, people often skim or skip it. Forcing reading in the room ensures everyone starts with the exact same depth of cognitive state.",
+          "ja": "事前に読んでくるように言っても大雑把に目を通すだけであったり読んでこない場合があるため、会議室で強制的に同じ深さの認知状態と核心的な文脈を同期させるためです。",
+          "zh": "因为如果要求提前阅读，参会人员往往会粗略浏览或根本不读。在会议室中强制阅读是为了确保每个人在相同的认知深度和核心背景下进行同步。",
+          "es": "Si se les pide que lean con anticipación, las personas a menudo lo pasan por alto. Obligar a leer en la sala asegura que todos comiencen con la misma profundidad de estado cognitivo.",
+          "fr": "Si on leur demande de lire à l'avance, les gens parcourent souvent le document à la hâte. Imposer la lecture garantit que chacun commence avec la même profondeur de compréhension.",
+          "de": "Wenn die Unterlagen vorab verschickt werden, lesen viele sie nur oberflächlich. Die Lesezeit im Meeting erzwingt den gleichen Informationsstand bei allen Teilnehmern.",
+          "pt": "Se solicitado que leiam com antecedência, as pessoas geralmente passam os olhos ou não leem. Forçar a leitura na sala garante que todos comecem com a mesma profundidade de estado cognitivo.",
+          "id": "Jika diminta membaca terlebih dahulu, orang sering kali hanya membaca sekilas. Membaca paksa di ruang rapat memastikan semua orang mulai dengan kedalaman status kognitif yang sama."
+        }
+      }
+    ]
+  }
+}

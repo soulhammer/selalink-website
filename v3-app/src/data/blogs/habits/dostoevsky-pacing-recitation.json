@@ -1,0 +1,192 @@
+{
+  "dostoevsky-pacing-recitation": {
+    "title": {
+      "ko": "방 안을 맴도는 목소리: 도스토옙스키의 서성임과 구술 집필법",
+      "en": "A Voice Pacing the Room: Dostoevsky's Pacing and Oral Dictation Writing Method",
+      "ja": "部屋を歩き回る声：ドストエフスキーの彷徨と口述執筆法",
+      "zh": "回荡在房间里的声音：陀思妥耶夫斯基的踱步与口述写作法",
+      "es": "Una voz que camina por la habitación: El método de escritura de dictado oral de Dostoievski",
+      "fr": "Une voix arpentant la pice : La mthode d'criture par dictée orale de Dostoïevski",
+      "de": "Eine Stimme im Raum: Dostojewskis Methode des Gehens und lauten Diktierens",
+      "pt": "Uma voz que caminha pela sala: O método de escrita de ditado oral de Dostoiévski",
+      "id": "Suara yang Mengitari Ruangan: Metode Menulis Jalan Santai dan Dikte Lisan Dostoevsky"
+    },
+    "description": {
+      "ko": "『죄와 벌』의 작가 도스토옙스키가 방 안을 서성이며 대사를 직접 연기해 본 비결. 신체 움직임과 구두 인지가 어떻게 언어 중추와 표현력을 증진시키는지 분석합니다.",
+      "en": "The secret why Dostoevsky, author of 'Crime and Punishment,' paced the room and acted out dialogues. Learn how physical movement and oral cognition enhance expression.",
+      "ja": "『罪と罰』の著者ドストエフスキーが、部屋を歩き回りながら台詞を自ら演じた秘訣。身体の動きと口頭の認知が、どのように言語中枢と表現力を高めるのかを分析します。",
+      "zh": "《罪与罚》作者陀思妥耶夫斯基在房间内踱步并亲自模仿台词的秘诀。分析身体运动与口头认知如何促进语言中枢和表达能力。",
+      "es": "El secreto de por qué Dostoievski caminaba por la habitación y actuaba diálogos. Aprenda cómo el movimiento físico y la cognición oral mejoran la expresión.",
+      "fr": "Le secret pour lequel Dostoïevski arpentait la pièce et mimait les dialogues. Découvrez comment le mouvement physique et la parole stimulent l'expression.",
+      "de": "Das Geheimnis, warum Dostojewski durch das Zimmer ging und Dialoge laut vorsprach. Erfahren Sie, wie Bewegung und lautes Sprechen die Kreativität steigern.",
+      "pt": "O segredo de por que Dostoiévski caminhava pela sala e encenava diálogos. Aprenda como o movimento físico e a cognição oral melhoram a expressão.",
+      "id": "Rahasia mengapa Dostoevsky, penulis 'Crime and Punishment,' berjalan mengitari ruangan dan memperagakan dialog. Pelajari bagaimana gerakan fisik dan kognisi lisan meningkatkan ekspresi."
+    },
+    "authority": {
+      "ko": "아내 안나의 회고록 『도스토옙스키와 함께한 날들』 및 뮌헨 대학교(LMU) 신체 인지(Embodied Cognition) 연구",
+      "en": "Anna Dostoevskaya's Memoirs and LMU Munich Research on Embodied Cognition",
+      "ja": "妻アンナの回顧録『ドストエフスキーと歩んだ日々』およびミュンヘン大学（LMU）の身体認知（Embodied Cognition）研究",
+      "zh": "妻子安娜的回忆录《与陀思妥耶夫斯基同行的日子》及慕尼黑大学(LMU)关于具身认知(Embodied Cognition)的研究",
+      "es": "Memorias de Anna Dostoevskaya e investigación sobre cognición encarnada (Embodied Cognition) de la LMU de Múnich",
+      "fr": "Mémoires d'Anna Dostoïevskaïa et recherche sur la cognition incarnée (Embodied Cognition) de la LMU Munich",
+      "de": "Anna Dostojewskajas Memoiren und LMU-München-Forschung zur verkörperten Kognition (Embodied Cognition)",
+      "pt": "Memórias de Anna Dostoevskaya e pesquisa sobre cognição incorporada (Embodied Cognition) da LMU de Munique",
+      "id": "Memoar Anna Dostoevskaya dan Penelitian LMU Munich tentang Kognisi Terwujud (Embodied Cognition)"
+    },
+    "intro": {
+      "ko": "『죄와 벌』, 『카라마조프 가의 형제들』 등 불후의 세계적 고전을 저술하며 인간 심리 묘사의 깊은 정점을 개척한 표도르 도스토옙스키. 그의 서사는 어떻게 이토록 압도적인 생동감과 극적인 몰입을 줄 수 있었을까요? 그의 구술 기록 대필가이자 아내였던 안나의 기록에 따르면, 그는 집필할 때 방 안을 미친 듯이 서성거리며 스스로 작중 인물처럼 소리를 지르고 독백을 읊었습니다. 입 밖으로 내뱉는 소리와 걸음이 결합된 이 독특한 창작 방식의 비밀을 추적합니다.",
+      "en": "Fyodor Dostoevsky, who pioneered the deep peak of human psychological portrayal. How could his narrative offer such overwhelming vitality? According to his shorthand assistant and wife Anna's records, when writing, he paced the room like mad, screaming and reciting monologues like his characters. Explore the secret of this unique writing method combining spoken voice and steps.",
+      "ja": "『罪と罰』や『カラマーゾフの兄弟』など、不朽の世界的古典を著し、人間心理描写の深い頂点を切り拓いたフョードル・ドストエフスキー。彼の物語はどのようにしてこれほど圧倒的な躍動感と劇的な没頭を与えることができたのでしょうか。彼の口述筆記の助手であり妻であったアンナの記録によると、彼は執筆の際、部屋の中を狂ったように歩き回り、自ら作中人物のように叫び、独白を唱えました。口から発する声と歩みが結合したこのユニークな創作方式の秘密を追跡します。",
+      "zh": "撰写了《罪与罚》、《卡拉马佐夫兄弟》等不朽的世界名著、开创了人类心理描写深度巅峰的费奥多尔·陀思妥耶夫斯基。他的叙事为何能带给读者如此压倒性的生动感与戏剧性的投入感？据他的口述速记员兼妻子安娜的记录，他在写作时，会在房间里发了疯似地踱步，像书中的角色一样大声叫喊并念叨独白。我们来探究这种将脱口而出的声音与步伐相结合的独特创作方式的秘密。",
+      "es": "Fiódor Dostoievski, quien fue pionero en el retrato psicológico humano. ¿Cómo pudo su narrativa ofrecer tanta vitalidad? Según los registros de su asistente y esposa Anna, al escribir, caminaba por la habitación como un loco, gritando y recitando monólogos. Explore el secreto de este método de escritura único.",
+      "fr": "Fiodor Dostoïevski, pionnier de la description psychologique humaine. Comment ses récits pouvaient-ils offrir une telle vitalité ? D'après sa sténographe et épouse Anna, lorsqu'il écrivait, il arpentait la pièce comme un fou, criant et récitant des monologues comme ses personnages. Découvrez le secret de cette méthode.",
+      "de": "Fjodor Dostojewski, der Meister der psychologischen Darstellung. Wie konnten seine Werke eine so überwältigende Lebendigkeit entfalten? Den Aufzeichnungen seiner Frau Anna zufolge lief er beim Schreiben wie wild im Zimmer auf und ab, schrie und hielt Monologe. Erfahren Sie mehr über diese Methode.",
+      "pt": "Fiódor Dostoiévski, pioneiro no retrato psicológico humano. Como sua narrativa pôde oferecer tanta vitalidade? De acordo com os registros de sua assistente e esposa Anna, ao escrever, ele caminhava pela sala como um louco, gritando e recitando monólogos. Explore o segredo deste método de escrita único.",
+      "id": "Fyodor Dostoevsky, pelopor puncak penggambaran psikologis manusia yang mendalam. Bagaimana narasinya bisa menawarkan vitalitas yang begitu luar biasa? Menurut catatan asisten stenografi dan istrinya Anna, saat menulis, dia berjalan mengitari ruangan seperti orang gila, berteriak dan membacakan monolog seperti karakternya. Temukan rahasia metode unik ini."
+    },
+    "whyTitle": {
+      "ko": "신체 가속과 구두 낭독이 두뇌 언어망을 깨우는 과학",
+      "en": "Science of How Physical Acceleration and Oral Reading Wake Brain Language Nets",
+      "ja": "身体的加速と口頭朗読が脳の言語ネットワークを呼び起こす科学",
+      "zh": "身体运动与口头朗读唤醒大脑语言网络的科学",
+      "es": "Ciencia de cómo la aceleración física y la lectura oral despiertan las redes del lenguaje cerebral",
+      "fr": "La science du mouvement physique et de la lecture orale pour stimuler le langage",
+      "de": "Wie Bewegung und lautes Sprechen das Sprachzentrum im Gehirn aktivieren",
+      "pt": "Ciência de como a aceleração física e a leitura oral despertam as redes de linguagem cerebral",
+      "id": "Sains tentang Bagaimana Gerakan Fisik dan Membaca Lisan Mengaktifkan Jalur Bahasa Otak"
+    },
+    "whyDesc": {
+      "ko": "방 안을 걷는 신체 움직임(Pacing)은 대뇌 운동 피질을 자극해 뇌의 혈류량과 산소 공급을 즉각 가속하며, 대사를 입 밖으로 내뱉는 구두 인지(Oral Cognition) 행동은 브로카 영역과 베르니케 영역 등 두뇌의 언어 조절 영역을 통합 활성화합니다. 또한 작중 인물을 연기하며 서술하는 과정은 뇌의 <strong>거울 뉴런(Mirror Neurons)</strong>을 직접적으로 가동시켜, 3인칭의 추상적 문장 대신 1인칭의 생생한 입체감을 문장 속에 불어넣습니다.",
+      "en": "Physical movement of pacing the room stimulates the cerebral motor cortex, immediately accelerating cerebral blood flow and oxygen supply, while oral cognition of speaking dialogues aloud integrates and activates language control areas like Broca's and Wernicke's. Also, acting as a character directly runs the brain's <strong>mirror neurons</strong>, breathing first-person vividness into prose instead of abstract third-person text.",
+      "ja": "部屋を歩く身体の動き（Pacing）は大脳運動野を刺激して脳の血流量と酸素供給を即座に加速させ、台詞を口から発する口頭認知（Oral Cognition）行動はブローカ野とウェルニッケ野など脳の言語調節領域を統合的に活性化させます。また、作中人物を演じながら叙述する過程は、脳の<strong>ミラーニューロン（Mirror Neurons）</strong>を直接的に稼働させ、三人称の抽象的な文章の代わりに、一人称の生き生きとした立体感を作文の中に吹き込みます。",
+      "zh": "在房间内踱步的动作（Pacing）会刺激大脑运动皮层，立即加速大脑血流量和氧气供应，而脱口而出念出台词的口头认知（Oral Cognition）行为会整合并激活布罗卡区和韦尼克区等大脑语言控制区。此外，扮演书中人物进行叙述的过程会直接启动大脑的<strong>镜子神经元（Mirror Neurons）</strong>，将第一人称的生动立体感注入字里行间，而非第三人称的抽象句子。",
+      "es": "El movimiento físico de caminar por la habitación estimula la corteza motora cerebral, acelerando el flujo sanguíneo. Expresar diálogos en voz alta activa áreas del lenguaje como las de Broca y Wernicke. Además, actuar como un personaje activa directamente las <strong>neuronas espejo</strong> del cerebro, aportando vivacidad en primera persona.",
+      "fr": "Le mouvement physique d'arpenter la pièce stimule le cortex moteur, accélérant le flux sanguin. Le fait de dire les dialogues à voix haute active les zones du langage de Broca et de Wernicke. De plus, mimer un personnage active directement les <strong>neurones miroirs</strong> du cerveau.",
+      "de": "Das Auf- und Abgehen im Raum stimuliert den motorischen Kortex, was die Durchblutung und Sauerstoffzufuhr im Gehirn anregt, während lautes Sprechen Sprachzentren wie das Broca- und Wernicke-Areal aktiviert. Das Hineinversetzen in eine Rolle regt zudem die <strong>Spiegelneuronen</strong> an, was lebendige Schilderungen ermöglicht.",
+      "pt": "O movimento físico de caminhar pela sala estimula o córtex motor cerebral, acelerando o fluxo sanguíneo. Expressar diálogos em voz alta ativa áreas de linguagem como as de Broca e Wernicke. Além disso, encenar como um personagem ativa diretamente os <strong>neurônios-espelho</strong> do cérebro, injetando vivacidade.",
+      "id": "Gerakan fisik berjalan mengitari ruangan menstimulasi korteks motorik serebral, mempercepat aliran darah dan suplai oksigen otak, sementara berbicara keras mengaktifkan area kontrol bahasa seperti Broca dan Wernicke. Selain itu, memperagakan karakter mengaktifkan <strong>neuron cermin</strong> otak."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions & Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen & Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan & Tips"
+    },
+    "cautionDesc": {
+      "ko": "주의할 점은 목소리를 크게 내어 말하는 훈련이기 때문에 타인의 시선이나 간섭이 있는 개방적인 사무실 등에서 실행하면 극심한 인지 방해가 생길 수 있다는 점입니다. 따라서 이 훈련은 타인의 시선에 구애받지 않고 오직 자기 목소리에만 집중할 수 있는 <strong>자신만의 안전한 개인 공간</strong>(개인 서재, 차량 내부 등)을 활용해야 온전한 낭독 효과를 얻을 수 있습니다.",
+      "en": "The caution is that since this training involves speaking aloud, doing it in open offices where others watch or interrupt can cause severe cognitive disruption. Therefore, you must use <strong>your own safe private space</strong> (private study, car interior, etc.) where you can ignore others' eyes and focus only on your voice to get the full recitation benefit.",
+      "ja": "注意すべき点は、声を大きく出して話す訓練であるため、他人の目や干渉がある開放的なオフィスなどで実行すると、極端な認知の妨げになりうるということです。そのため、この訓練は他人の目を気にせず、自身の声だけに集中できる<strong>自分だけの安全な個人空間</strong>（個人の書斎、車内など）を活用してこそ、完全な朗読効果を得ることができます。",
+      "zh": "需要注意的是，由于这是大声说话的训练，因此在有他人视线或干扰的开放式办公室等场所执行可能会造成严重的认知干扰。所以，该训练必须利用能够不受他人视线约束、<strong>专属于自己的安全私人空间</strong>（个人书房、汽车内部等），才能获得完整的朗读效果。",
+      "es": "La precaución es que este entrenamiento implica hablar en voz alta, por lo que hacerlo en oficinas abiertas puede causar distracción. Debe utilizar <strong>su propio espacio privado seguro</strong> (estudio privado, interior de un automóvil, etc.) donde pueda concentrarse solo en su voz.",
+      "fr": "La précaution est que cet exercice implique de parler à voix haute. Le faire dans un bureau ouvert peut perturber votre concentration. Utilisez <strong>votre propre espace privé et sûr</strong> (bureau fermé, intérieur de voiture, etc.) pour vous concentrer sur votre voix.",
+      "de": "Wichtig ist, dass lautes Sprechen in Großraumbüros zu massiven Störungen der Konzentration führt. Nutzen Sie daher einen <strong>privaten, geschützten Raum</strong> (eigenes Arbeitszimmer, Auto usw.), wo Sie sich ungezwungen auf Ihre Stimme konzentrieren können.",
+      "pt": "A precaução é que este treinamento envolve falar em voz alta, portanto, fazê-lo em escritórios abertos pode causar distração. Você deve usar <strong>seu próprio espaço privado seguro</strong> (escritório fechado, interior de um carro, etc.) onde possa se concentrar apenas na sua voz.",
+      "id": "Tindakan pencegahannya adalah karena latihan ini melibatkan berbicara keras, melakukannya di kantor terbuka dapat menyebabkan gangguan kognitif yang parah. Anda harus menggunakan <strong>ruang pribadi Anda sendiri yang aman</strong> (ruang belajar pribadi, dalam mobil, dll.) untuk mendapatkan manfaat membaca lisan sepenuhnya."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "글쓰기/기획 중 막힌 생각의 즉각적 기립",
+          "en": "Immediately Standing Up When Blocked During Writing/Planning",
+          "ja": "執筆/企画中に行き詰まった思考の即時起立",
+          "zh": "在写作/策划遇到阻碍时立即站立",
+          "es": "Ponerse de pie de inmediato cuando se bloquea durante la escritura/planificación",
+          "fr": "Se lever immdiatement en cas de blocage lors de l'criture/la planification",
+          "de": "Sofortiges Aufstehen bei Schreib- oder Denkblockaden",
+          "pt": "Levantar-se imediatamente quando bloqueado durante a escrita/planejamento",
+          "id": "Segera Berdiri Saat Menghadapi Hambatan saat Menulis/Merencanakan"
+        },
+        "text": {
+          "ko": "문서 작성이나 아이디어가 막혀 뇌에 정체가 발생하는 즉시 의자에서 일어나 신체를 가볍게 세팅합니다.",
+          "en": "The moment document writing or ideation gets blocked, causing congestion in the brain, stand up from your chair immediately to lightly adjust your body.",
+          "ja": "文書作成やアイデアが行き詰まって脳の活動が滞るやいなや、椅子から立ち上がって身体を軽くほぐします。",
+          "zh": "在撰写文档或点子卡壳、大脑发生停滞的瞬间，立刻从椅子上站起来，轻轻舒展身体。",
+          "es": "En el momento en que se bloquee la escritura del documento o la ideación, levántese de la silla de inmediato para ajustar ligeramente su cuerpo.",
+          "fr": "Dès que l'écriture ou la réflexion bloque, levez-vous immédiatement de votre chaise pour bouger votre corps.",
+          "de": "Sobald Sie beim Schreiben oder Planen nicht mehr weiterkommen, stehen Sie sofort auf und bewegen Sie sich etwas.",
+          "pt": "No momento em que a escrita do documento ou a ideação for bloqueada, levante-se da cadeira imediatamente para ajustar levemente seu corpo.",
+          "id": "Saat penulisan dokumen atau pencarian ide terhambat, segera berdiri dari kursi Anda untuk merangsang tubuh Anda."
+        }
+      },
+      {
+        "name": {
+          "ko": "공간 서성임과 생각의 구두 낭독 실행",
+          "en": "Pacing the Space and Running Oral Reading of Thoughts",
+          "ja": "空間の彷徨と思考の口頭朗読実行",
+          "zh": "在空间内踱步并大声念出想法",
+          "es": "Caminar por el espacio y realizar una lectura oral de los pensamientos",
+          "fr": "Arpenter l'espace et lire ses penses  voix haute",
+          "de": "Gehen im Raum und lautes Aussprechen der Gedanken",
+          "pt": "Caminhar pelo espaço e realizar a leitura oral dos pensamentos",
+          "id": "Jalan Santai di Ruangan dan Membaca Lisan Pikiran"
+        },
+        "text": {
+          "ko": "방 내부나 복도를 천천히 왔다 갔다 서성이며, 적고자 하는 요점이나 기획 문장을 마치 타인에게 설명하듯 큰 소리로 직접 말해 봅니다.",
+          "en": "Pace slowly back and forth inside the room or hallway, and speak the key points or sentences aloud as if explaining them to someone else.",
+          "ja": "部屋の内部や廊下をゆっくりと行ったり来たり歩き回りながら、書きたい要点や企画の文章を、まるで他人に説明するように大声で直接話してみます。",
+          "zh": "在房间内或走廊上缓慢来回踱步，将想要写的要点或策划文案大声说出来，仿佛在向他人解释一般。",
+          "es": "Camine lentamente de un lado a otro de la habitación o pasillo, y diga los puntos clave en voz alta como si se los explicara a otra persona.",
+          "fr": "Marchez lentement de long en large dans la pièce ou le couloir, et dites les points clés à voix haute comme si vous les expliquiez à quelqu'un.",
+          "de": "Gehen Sie langsam im Zimmer oder Flur auf und ab und sprechen Sie die Kernpunkte laut aus, als würden Sie sie jemandem erklären.",
+          "pt": "Caminhe lentamente de um lado para o outro na sala ou no corredor e fale os pontos principais em voz alta, como se os estivesse explicando para outra pessoa.",
+          "id": "Berjalan perlahan bolak-balik di dalam ruangan atau lorong, dan ucapkan poin-poin penting dengan lantang seolah-olah menjelaskannya kepada orang lain."
+        }
+      },
+      {
+        "name": {
+          "ko": "자연스럽게 들린 구어체 표현의 즉각 기록",
+          "en": "Immediately Recording Naturally Heard Spoken Expressions",
+          "ja": "自然に聞こえた話し言葉表現の即時記録",
+          "zh": "立即记录听起来最自然流畅的口语化表达",
+          "es": "Grabar de inmediato las expresiones habladas escuchadas con naturalidad",
+          "fr": "Enregistrement immdiat des expressions entendues naturellement",
+          "de": "Sofortiges Aufschreiben der natürlich klingenden Sätze",
+          "pt": "Registrando imediatamente as expressões faladas ouvidas com naturalidade",
+          "id": "Segera Mencatat Ekspresi Lisan yang Terdengar Alami"
+        },
+        "text": {
+          "ko": "입으로 내뱉어 귀로 확인한 가장 직관적이고 군더더기 없는 자연스러운 문장 구조를 즉각 노트북이나 종이에 적어 서사를 완성합니다.",
+          "en": "Immediately write down the most intuitive and natural sentence structure confirmed by your ears onto a laptop or paper to complete the narrative.",
+          "ja": "口から発して耳で確認した、最も直感的で無駄のない自然な文章構造を、すぐにノートPCや紙に書き留めて物語を完成させます。",
+          "zh": "立刻将脱口而出、并经耳朵确认的最直观、无冗余的自然句子结构记录在电脑或纸张上，以此完成叙事。",
+          "es": "Escriba de inmediato en una computadora o papel la estructura de la oración más intuitiva y natural confirmada por sus oídos para completar la narración.",
+          "fr": "Notez immédiatement sur ordinateur ou papier la structure de phrase la plus intuitive entendue pour finaliser le texte.",
+          "de": "Schreiben Sie die am besten klingende und verständlichste Satzstruktur sofort auf, um Ihren Text zu vollenden.",
+          "pt": "Escreva imediatamente no computador ou papel a estrutura de frase mais intuitiva e natural confirmada pelos seus ouvidos para concluir a narrativa.",
+          "id": "Segera tulis struktur kalimat paling intuitif dan alami yang telah didengar oleh telinga Anda ke laptop atau kertas untuk menyelesaikan narasi."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "말을 소리 내어 하는 대신 속삭이거나 속으로 읽는 건 효과가 없나요?",
+          "en": "Is whispering or silent reading less effective than speaking aloud?",
+          "ja": "声を出す代わりに囁いたり、頭の中で読むのでは効果がありませんか？",
+          "zh": "不发出声音、而是低语或默读会有效果吗？",
+          "es": "¿Es menos efectivo susurrar o leer en silencio que hablar en voz alta?",
+          "fr": "Le chuchotement ou la lecture silencieuse sont-ils moins efficaces ?",
+          "de": "Ist Flüstern oder stilles Denken weniger effektiv als lautes Sprechen?",
+          "pt": "Sussurrar ou ler em silêncio é menos eficaz do que falar em voz alta?",
+          "id": "Apakah berbisik atau membaca dalam hati kurang efektif dibandingkan berbicara lantang?"
+        },
+        "answer": {
+          "ko": "속으로 삼키는 생각은 뇌의 언어 조절 및 구두 인지 피드백 활성을 크게 유도하지 못하므로, 가래가 끓지 않을 정도의 명확한 목소리로 완전히 발성해야 시너지 인지 효과가 발생합니다.",
+          "en": "Thinking silently does not trigger brain language control and oral feedback activation as much, so you must vocalize completely with a clear voice to get the synergy.",
+          "ja": "頭の中で考えるだけでは、脳の言語調節や口頭の認知フィードバックの活性化を十分に誘導できないため、はっきりとした声で完全に発声してこそ、シナジー認知効果が発生します。",
+          "zh": "因为在心中默念并不能很好地引导大脑的语言调节和口语认知反馈激活，所以必须用清晰的声音完整地发出声来，才能产生协同的认知效果。",
+          "es": "Pensar en silencio no desencadena tanto el control del lenguaje y la retroalimentación, por lo que debe vocalizar completamente con una voz clara.",
+          "fr": "Penser en silence ne stimule pas autant le contrôle du langage et le retour d'information. Vous devez donc prononcer clairement les mots à voix haute.",
+          "de": "Stilles Denken aktiviert das Sprachzentrum und die akustische Rückmeldung kaum. Sprechen Sie die Sätze mit klarer Stimme laut aus.",
+          "pt": "Pensar em silêncio não desencadeia tanto o controle de linguagem e o feedback, portanto, você deve vocalizar completamente com uma voz clara.",
+          "id": "Berpikir dalam hati tidak memicu kontrol bahasa otak dan umpan balik lisan, jadi Anda harus bersuara sepenuhnya dengan suara jernih untuk mendapatkan sinergi."
+        }
+      }
+    ]
+  }
+}

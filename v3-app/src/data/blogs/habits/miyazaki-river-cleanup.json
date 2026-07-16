@@ -1,0 +1,192 @@
+{
+  "miyazaki-river-cleanup": {
+    "title": {
+      "ko": "지브리 거장의 맑은 아침: 미야자키 하야오의 하천 청소 산책",
+      "en": "The Ghibli Master's Clear Morning: Hayao Miyazaki's River Cleanup Walk",
+      "ja": "ジブリ巨匠の澄んだ朝：宮崎駿の河川清掃散歩",
+      "zh": "吉卜力大师清晨的宁静：宫崎骏的河流清理散步惯例",
+      "es": "La mañana clara del maestro de Ghibli: La caminata de limpieza del río de Hayao Miyazaki",
+      "fr": "Le matin clair du maître de Ghibli : La marche de nettoyage de la rivière de Hayao Miyazaki",
+      "de": "Der klare Morgen des Ghibli-Meisters: Hayao Miyazakis Flussreinigungsspaziergang",
+      "pt": "A manhã clara do mestre do Ghibli: A caminhada de limpeza do rio de Hayao Miyazaki",
+      "id": "Pagi Jernih sang Master Ghibli: Jalan Santai Pembersihan Sungai Hayao Miyazaki"
+    },
+    "description": {
+      "ko": "스튜디오 지브리의 미야자키 하야오 감독이 매일 아침 길가의 쓰레기를 주운 숨은 이유. 단순한 산책과 정돈이 어떻게 천재적인 창의성과 사색을 자극하는지 알아봅니다.",
+      "en": "The hidden reason why Director Hayao Miyazaki of Studio Ghibli picked up trash along the river every morning. Learn how walking and organizing stimulate creative thinking.",
+      "ja": "スタジオジブリの宮崎駿監督が毎朝道端のごみを拾った隠された理由。単純な散歩と片付けが、どのように天才的な創造性と思索を刺激するのかを探ります。",
+      "zh": "吉卜力工作室导演宫崎骏每天早晨沿河捡垃圾的深层原因。了解简单的散步和整理如何激发天才的创造力与思考。",
+      "es": "La razón oculta por la que el director Hayao Miyazaki recogía basura junto al río. Aprenda cómo caminar y organizar estimulan el pensamiento creativo.",
+      "fr": "La raison cachée pour laquelle le réalisateur Hayao Miyazaki ramassait les déchets au bord de la rivière. Découvrez comment la marche stimule la créativité.",
+      "de": "Der verborgene Grund, warum Ghibli-Regisseur Hayao Miyazaki jeden Morgen am Fluss Müll sammelte. Erfahren Sie, wie Gehen und Aufräumen die Kreativität anregen.",
+      "pt": "A razão oculta pela qual o diretor Hayao Miyazaki recolhia lixo na beira do rio. Aprenda como caminhar e organizar estimulam o pensamento criativo.",
+      "id": "Alasan tersembunyi mengapa Sutradara Hayao Miyazaki dari Studio Ghibli memungut sampah di sepanjang sungai setiap pagi. Pelajari bagaimana jalan santai merangsang pemikiran kreatif."
+    },
+    "authority": {
+      "ko": "지브리 공식 인터뷰 자료 및 뇌 매핑 재단(Brain Mapping Foundation)의 이완 상태 창의성 연구",
+      "en": "Ghibli Official Interviews and Brain Mapping Foundation Research on Relaxation Creativity",
+      "ja": "ジブリ公式インタビュー資料および脳マッピング財団（Brain Mapping Foundation）の弛緩状態創造性研究",
+      "zh": "吉卜力官方访谈资料及脑映射基金会(Brain Mapping Foundation)关于放松状态下创造力的研究",
+      "es": "Entrevistas oficiales de Ghibli e investigación sobre la creatividad en estado de relajación de la Brain Mapping Foundation",
+      "fr": "Entretiens officiels de Ghibli et recherche sur la créativité en état de relaxation de la Brain Mapping Foundation",
+      "de": "Offizielle Ghibli-Interviews und Forschung zur Kreativität im Entspannungszustand der Brain Mapping Foundation",
+      "pt": "Entrevistas oficiais do Ghibli e pesquisa sobre criatividade em estado de relaxamento da Brain Mapping Foundation",
+      "id": "Wawancara Resmi Ghibli dan Penelitian Brain Mapping Foundation tentang Kreativitas dalam Keadaan Rileks"
+    },
+    "intro": {
+      "ko": "『이웃집 토토로』, 『센과 치히로의 행방불명』 등 주옥같은 수작들을 세상에 내놓으며 애니메이션 역사의 신화가 된 미야자키 하야오 감독. 지브리 스튜디오의 핵심을 이끄는 그에게는 수십 년간 매일 아침 행해온 독특한 루틴이 있습니다. 바로 앞치마를 두른 채 동네 주변 하천과 산책로를 걸으며 버려진 쓰레기와 캔을 줍는 행동입니다. 거장이 매일 아침 손수 쓰레기를 주운 비밀은 무엇일까요?",
+      "en": "Director Hayao Miyazaki, who became a legend in animation history, releasing works like 'My Neighbor Totoro' and 'Spirited Away.' He has a unique routine he's followed every morning for decades: wearing an apron and walking around the neighborhood river and trails, picking up litter. What is the secret of the master picking up trash himself?",
+      "ja": "『となりのトトロ』や『千と千尋の神隠し』など、珠玉の名作を世に送り出し、アニメーション歴史の神話となった宮崎駿監督。ジブリスタジオの核心を率いる彼には、数十年間毎朝行ってきたユニークなルーティンがあります。エプロンを着用したまま近所の河川や遊歩道を歩き、捨てられたゴミや缶を拾う行動です。巨匠が毎朝自らゴミを拾った秘密は何でしょうか。",
+      "zh": "凭借《龙猫》、《千与千寻》等杰作闻名于世、成为动画史神话的导演宫崎骏。作为吉卜力工作室的核心人物，他几十年来每天清晨都有一个独特的惯例：穿着围裙在社区河流和散步道上散步，捡拾被遗弃的垃圾和易拉罐。大师每天清晨亲自动手捡垃圾的秘密是什么？",
+      "es": "El director Hayao Miyazaki, una leyenda de la animación con obras como 'Mi vecino Totoro' y 'El viaje de Chihiro'. Tiene una rutina única desde hace décadas: ponerse un delantal y caminar cerca del río para recoger basura. ¿Cuál es el secreto del maestro al hacer esto?",
+      "fr": "Le réalisateur Hayao Miyazaki, légende de l'animation avec des films comme 'Mon voisin Totoro' et 'Le Voyage de Chihiro'. Il suit une routine unique depuis des décennies : mettre un tablier et marcher près de la rivière pour ramasser les déchets. Quel est son secret ?",
+      "de": "Regisseur Hayao Miyazaki, eine Legende der Animationsgeschichte mit Meisterwerken wie 'Mein Nachbar Totoro' und 'Chihiros Reise ins Zauberland'. Er hat eine einzigartige Routine: Er trägt eine Schürze und sammelt Müll am Fluss. Was ist das Geheimnis dahinter?",
+      "pt": "O diretor Hayao Miyazaki, uma lenda da animação com obras como 'Meu vizinho Totoro' e 'A Viagem de Chihiro'. Ele tem uma rotina única há décadas: colocar um avental e caminhar perto do rio para recolher o lixo. Qual é o segredo do mestre ao fazer isso?",
+      "id": "Sutradara Hayao Miyazaki, legenda dalam sejarah animasi yang merilis karya-karya seperti 'My Neighbor Totoro' and 'Spirited Away.' Dia memiliki rutinitas unik setiap pagi: mengenakan celemek dan berjalan di sekitar sungai lingkungan, memungut sampah. Apa rahasianya?"
+    },
+    "whyTitle": {
+      "ko": "이타적 걷기가 뇌에 주는 창조적 리프레시",
+      "en": "Creative Refresh to the Brain by Altruistic Walking",
+      "ja": "利他的な歩行が脳に与える創造的リフレッシュ",
+      "zh": "利他步行给大脑带来的创造性净化",
+      "es": "Refresco creativo para el cerebro al caminar de forma altruista",
+      "fr": "Rafraîchissement créatif apporté au cerveau par la marche altruiste",
+      "de": "Kreative Erfrischung für das Gehirn durch altruistisches Gehen",
+      "pt": "Refresco criativo para o cérebro ao caminhar de forma altruísta",
+      "id": "Penyegaran Kreatif bagi Otak melalui Jalan Santai Altruistik"
+    },
+    "whyDesc": {
+      "ko": "주변 환경을 정리하며 가볍게 산책하는 행위는 뇌의 <strong>디폴트 모드 네트워크(Default Mode Network)</strong>를 부드럽게 가동합니다. 이 네트워크는 명시적인 인지적 일에서 벗어나 편안히 휴식할 때 구동되며, 뇌 도처에 흩어진 아이디어들을 연결해 참신한 직관을 발휘하게 돕습니다. 또한 몸을 쓰는 청소 작업은 아침 뇌의 세로토닌 활성화를 유도해 기분을 상쾌하게 다듬어 줍니다.",
+      "en": "The act of walking lightly while organizing the surrounding environment gently activates the brain's <strong>default mode network</strong>. This network runs when relaxed, away from explicit cognitive tasks, and helps combine scattered ideas into novel insights. Physical cleanup also stimulates morning serotonin to refresh your mood.",
+      "ja": "周辺環境を整理しながら軽く散歩する行為は、脳の<strong>デフォルト・モード・ネットワーク（Default Mode Network）</strong>を緩やかに稼働させます。このネットワークは明確な認知的活動から離れて快適に休息する時に駆動し、脳の至る所に散らばったアイデアを結びつけ、斬新な直観を発揮するのを助けます。また、身体を使う清掃作業は、朝の脳のセロトニン活性化を誘導し気分を爽快にしてくれます。",
+      "zh": "在整理周围环境的同时轻轻散步，会温和地启动大脑的<strong>默认模式网络（Default Mode Network）</strong>。该网络在大脑脱离明确的认知任务并舒适休息时运转，帮助连接分散在大脑各处的点子以产生新颖直觉。物理性质的清理工作还能刺激早晨血清素的分泌，使心情舒畅。",
+      "es": "Caminar ligeramente mientras se organiza el entorno activa suavemente la <strong>red neuronal por defecto</strong> del cerebro. Esta red funciona cuando el cerebro está relajado, ayudando a combinar ideas dispersas en nuevos conocimientos. La limpieza física también estimula la serotonina matutina.",
+      "fr": "Le fait de marcher légèrement tout en nettoyant son environnement active en douceur le <strong>réseau du mode par défaut</strong> du cerveau. Ce réseau fonctionne au repos, hors tâches cognitives explicites, et aide à combiner les idées éparses en intuitions nouvelles. Le nettoyage stimule également la sérotonine.",
+      "de": "Das leichte Gehen und gleichzeitige Aufräumen aktiviert das <strong>Standardmodus-Netzwerk</strong> des Gehirns. Dieses Netzwerk ist aktiv, wenn wir uns entspannen, und hilft dabei, verstreute Ideen zu neuen Erkenntnissen zu verknüpfen. Körperliche Aktivität regt zudem die Serotoninausschüttung an.",
+      "pt": "Caminhar levemente enquanto organiza o ambiente ativa suavemente a <strong>rede de modo padrão</strong> do cérebro. Esta rede funciona quando relaxado, longe de tarefas cognitivas explícitas, ajudando a combinar ideias dispersas em novos insights. A limpeza física também estimula a serotonina matinal.",
+      "id": "Aktivitas berjalan ringan sambil merapikan lingkungan sekitar mengaktifkan <strong>default mode network</strong> otak dengan lembut. Jaringan ini berjalan saat rileks, jauh dari tugas kognitif eksplisit, membantu menggabungkan ide-ide yang tersebar menjadi wawasan baru. Pembersihan fisik juga merangsang serotonin pagi."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions & Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen & Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan & Tips"
+    },
+    "cautionDesc": {
+      "ko": "산책 중 스마트폰을 확인하거나 복잡한 생각에 잠기면 뇌는 DMN 이완 상태에 도달하지 못합니다. 걷는 동안에는 의식적으로 전자기기를 차단하고 <strong>주변 자연 환경을 감상</strong>하며, 눈앞의 물리적 대상들을 정돈하는 데에만 초점을 맞추는 것이 이 습관의 효과를 극대화하는 열쇠입니다.",
+      "en": "Checking your phone or dwelling on complex thoughts during the walk prevents the brain from reaching the DMN state. Turn off devices, <strong>admire the surrounding natural environment</strong>, and focus purely on sorting immediate physical items to maximize this habit's benefits.",
+      "ja": "散歩中にスマートフォンを確認したり複雑な考えに耽ると、脳はDMNの弛緩状態に到達できません。歩いている間は意識的に電子機器を遮断し、<strong>周辺の自然環境を鑑賞</strong>しながら、目の前の物理的対象を整理することだけに焦点を合わせることが、この習慣の効果を極大化する鍵です。",
+      "zh": "散步时看手机或陷入复杂思考，大脑将无法达到默认模式网络（DMN）的放松状态。在步行期间，应主动避开电子设备，<strong>欣赏周围的自然环境</strong>，专注于整理眼前的物理物品，这是将该习惯效果最大化的关键。",
+      "es": "Revisar su teléfono o pensar en cosas complejas durante la caminata evita que el cerebro alcance el estado DMN. Apague los dispositivos, <strong>admire el entorno natural circundante</strong> y concéntrese puramente en clasificar los elementos físicos inmediatos.",
+      "fr": "Consulter son téléphone ou ruminer des pensées complexes empêche le cerveau d'atteindre le mode par défaut. Éteignez vos appareils, <strong>admirez la nature environnante</strong> et concentrez-vous uniquement sur le nettoyage physique pour maximiser cette habitude.",
+      "de": "Das Abrufen von Nachrichten oder Nachdenken über Probleme verhindert, dass das Gehirn in den DMN-Zustand gelangt. Schalten Sie Geräte aus, <strong>bewundern Sie die Natur</strong> und konzentrieren Sie sich nur auf das Müllsammeln.",
+      "pt": "Verificar o telefone ou pensar em coisas complexas durante a caminhada impede que o cérebro alcance o estado DMN. Desligue os aparelhos, <strong>admire o ambiente natural circundante</strong> e concentre-se puramente em organizar os elementos físicos imediatos.",
+      "id": "Memeriksa ponsel atau memikirkan hal-hal rumit selama jalan santai mencegah otak mencapai status DMN. Matikan perangkat, <strong>nikmati lingkungan alam sekitar</strong>, dan fokuslah hanya pada merapikan benda-benda fisik di depan mata."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "출근 전 가벼운 아침 산책로 지정",
+          "en": "Designating a Light Morning Walk Route",
+          "ja": "出勤前の軽い朝の散歩ルート指定",
+          "zh": "在工作前设定一条清晨的短途步行路线",
+          "es": "Designar una ruta de caminata matutina ligera",
+          "fr": "Dfinir un itinraire de marche matinale lgre",
+          "de": "Festlegung einer leichten morgendlichen Spazierroute",
+          "pt": "Designando uma rota de caminhada matinal leve",
+          "id": "Menentukan Rute Jalan Santai Pagi yang Ringan"
+        },
+        "text": {
+          "ko": "매일 아침 일과 시작 전 15~20분 동안 가볍게 도보로 다녀올 수 있는 나무가 우거진 산책로나 작은 공원 코스를 선택합니다.",
+          "en": "Select a wooded trail or a small park course where you can walk lightly for 15 to 20 minutes before starting work daily.",
+          "ja": "毎朝の日課開始前に15〜20分間、軽く徒歩で行って戻ってこられる緑豊かな散歩道や小さな公園のコースを選択します。",
+          "zh": "在每天开始工作前，选择一条绿树成荫的散步道或小公园路线，步行往返只需15至20分钟。",
+          "es": "Seleccione un sendero arbolado o un parque pequeño donde pueda caminar ligeramente durante 15 a 20 minutos antes de comenzar a trabajar.",
+          "fr": "Sélectionnez un sentier boisé ou un petit parc où vous pouvez marcher pendant 15 à 20 minutes avant de commencer le travail.",
+          "de": "Wählen Sie eine waldreiche Strecke oder einen kleinen Park, wo Sie täglich vor der Arbeit 15 bis 20 Minuten spazieren gehen können.",
+          "pt": "Selecione uma trilha arborizada ou um pequeno parque onde possa caminhar levemente por 15 a 20 minutos antes de começar a trabalhar diariamente.",
+          "id": "Pilih rute jalan berhutan atau taman kecil tempat Anda dapat berjalan santai selama 15 hingga 20 minuto sebelum mulai bekerja."
+        }
+      },
+      {
+        "name": {
+          "ko": "산책 중 소소한 쓰레기 정돈 및 수거",
+          "en": "Sorting and Collecting Small Trash While Walking",
+          "ja": "散歩中の些細なゴミの整理および回収",
+          "zh": "在散步时整理并顺手收集琐碎的垃圾",
+          "es": "Clasificación y recolección de basura pequeña al caminar",
+          "fr": "Tri et collecte des petits dchets en marchant",
+          "de": "Sortieren und Sammeln von kleinem Müll beim Gehen",
+          "pt": "Organizando e coletando pequenos lixos ao caminhar",
+          "id": "Merapikan dan Mengumpulkan Sampah Kecil Saat Berjalan"
+        },
+        "text": {
+          "ko": "스마트폰을 절대 꺼내지 않고 주위 환경에 시선을 두며, 눈에 띄는 캔이나 버려진 종이 쓰레기를 가볍게 수거하여 환경을 정돈합니다.",
+          "en": "Never look at your phone, look around, and clean the area by picking up visible cans or discarded paper litter.",
+          "ja": "スマートフォンを絶対に製品から取り出さず、周囲の環境に目を向け、目につく缶や捨てられた紙ゴミを軽く回収して環境を整理します。",
+          "zh": "绝不拿出手机，将视线投向周围环境，轻轻收起显眼的易拉罐或废纸等垃圾，以此整顿环境。",
+          "es": "Nunca mire su teléfono, mire a su alrededor y limpie el área recogiendo latas visibles o papeles desechados.",
+          "fr": "Ne regardez jamais votre téléphone, observez votre environnement et nettoyez la zone en ramassant les canettes ou les papiers jetés.",
+          "de": "Schauen Sie nicht auf Ihr Handy, beobachten Sie die Umgebung und sammeln Sie Dosen oder Papierabfälle auf, um den Weg zu säubern.",
+          "pt": "Nunca olhe para o telefone, observe o ambiente ao redor e limpe a área recolhendo latas visíveis ou papéis descartados.",
+          "id": "Jangan pernah mengeluarkan ponsel, perhatikan lingkungan sekitar, dan rapikan area tersebut dengan memungut kaleng atau kertas."
+        }
+      },
+      {
+        "name": {
+          "ko": "맑아진 뇌 상태로 창의적 본업 진입",
+          "en": "Entering Your Creative Work with a Clear Brain",
+          "ja": "澄んだ脳の状態で創造的な本業への進入",
+          "zh": "在大脑清醒的状态下投入创造性的主业",
+          "es": "Ingresar a su trabajo creativo con un cerebro claro",
+          "fr": "Commencer votre travail cratif avec un cerveau frais",
+          "de": "Einstieg in Ihre kreative Arbeit mit klarem Kopf",
+          "pt": "Entrando em seu trabalho criativo com o cérebro limpo",
+          "id": "Memulai Pekerjaan Kreatif dengan Kondisi Otak yang Jernih"
+        },
+        "text": {
+          "ko": "산책을 마치고 돌아와 세로토닌이 충전되어 이완되고 맑아진 전두엽의 아이디어 융합 상태를 활용해 첫 창의적 기획 업무에 바로 돌입합니다.",
+          "en": "Upon returning, immediately start your first creative planning task, utilizing the relaxed, clear frontal lobe now charged with serotonin.",
+          "ja": "散歩を終えて戻り、セロトニンが充電されて弛緩し澄み渡った前頭葉のアイデア融合状態を活用して、最初の創造的な企画業務にすぐに取り掛かります。",
+          "zh": "散步回来后，立刻利用已充满血清素、处于放松和清醒状态的额叶，展开首项创造性的策划工作。",
+          "es": "Al regresar, comience de inmediato su primera tarea de planificación creativa, utilizando el lóbulo frontal relajado y cargado de serotonina.",
+          "fr": "De retour, commencez immédiatement votre travail créatif en profitant d'un lobe frontal détendu et rechargé en sérotonine.",
+          "de": "Beginnen Sie nach der Rückkehr sofort mit Ihrer ersten kreativen Aufgabe und nutzen Sie den durch Serotonin erfrischten Geist.",
+          "pt": "Ao retornar, inicie imediatamente sua primeira tarefa de planejamento criativo, utilizando o lobo frontal relaxado e carregado de serotonina.",
+          "id": "Setelah kembali, segera mulai tugas perencanaan kreatif Anda, memanfaatkan lobus frontal yang rileks dan jernih yang terisi serotonin."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "꼭 쓰레기를 주워야 하나요, 그냥 걷는 건 안 되나요?",
+          "en": "Do I have to pick up trash, or can I just walk?",
+          "ja": "必ずゴミを拾わなければなりませんか？ただ歩くのではダメですか？",
+          "zh": "必须捡垃圾吗？只散步不行吗？",
+          "es": "¿Tengo que recoger basura o puedo simplemente caminar?",
+          "fr": "Dois-je ramasser les déchets ou puis-je simplement marcher ?",
+          "de": "Muss ich unbedingt Müll sammeln oder reicht einfaches Gehen?",
+          "pt": "Preciso recolher lixo ou posso apenas caminhar?",
+          "id": "Apakah saya harus memungut sampah, atau bolehkah saya berjalan saja?"
+        },
+        "answer": {
+          "ko": "그냥 걷는 것도 DMN 활성화에 도움이 되지만, 쓰레기 줍기라는 이타적 행동과 '목표 환경 정리' 행위가 결합될 때 뇌에 더 높은 수준의 만족 도파민과 세로토닌이 활성화되어 맑은 두뇌 상태를 유도합니다.",
+          "en": "Just walking helps DMN activation, but combining it with the altruistic act of picking up trash and 'organizing environment' triggers higher satisfaction dopamine and serotonin.",
+          "ja": "ただ歩くだけでもDMNの活性化には役立ちますが、ゴミ拾いという利他的な行動と「目標環境の整理」行為が結びつく時、脳により高い水準の満足ドーパミンとセロトニンが活性化され、澄んだ脳の状態へと導いてくれます。",
+          "zh": "只散步也有助于默认模式网络（DMN）的启动，但当散步与捡垃圾这种利他行为以及“整理环境”相结合时，大脑会释放更高水平的多巴胺和血清素，从而引导大脑进入清醒状态。",
+          "es": "Solo caminar ayuda a la activación de DMN, pero combinarlo con el acto altruista de recoger basura y 'organizar el entorno' desencadena dopamina y serotonina de mayor satisfacción.",
+          "fr": "La simple marche aide à activer le réseau par défaut, mais l'associer à l'acte altruiste de ramassage des déchets et à la 'mise en ordre' déclenche plus de dopamine et de sérotonine.",
+          "de": "Einfaches Gehen hilft auch, aber die Kombination mit der altruistischen Tat des Müllsammelns und dem Gefühl, etwas aufzuräumen, schüttet deutlich mehr Dopamin und Serotonin aus.",
+          "pt": "Apenas caminhar ajuda a ativar a rede de modo padrão, mas combinar isso com o ato altruísta de recolher lixo e 'organizar o ambiente' desencadeia dopamina e serotonina de maior satisfação.",
+          "id": "Jalan biasa membantu aktivasi DMN, tetapi menggabungkannya dengan tindakan altruistik memungut sampah dan 'merapikan lingkungan' memicu kepuasan dopamin dan serotonin yang lebih tinggi."
+        }
+      }
+    ]
+  }
+}
