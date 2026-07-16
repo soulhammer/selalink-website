@@ -91,11 +91,22 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?</span>
+      <span>발표나 시험 등 일상의 중요한 일 전에 나만의 루틴을 어떻게 만드나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.
+      '신발 끈 특정 순서로 묶기', '심호흡 3회 하기', '특정 다짐 문구 소리 내어 말하기' 등 스스로 완전히 통제할 수 있는 일관된 기계적 행동 2~3단계를 설정하여 동일하게 반복하면 불안 제어에 큰 도움을 줍니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>루틴을 도중에 하나라도 빠뜨리거나 실수했을 때 밀려오는 불안은 어떻게 제어하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      루틴은 심리적 닻(Anchor)의 역할일 뿐, 나의 실력과 행동 본질이 아니라는 것을 인지해야 합니다. 실수가 생겼을 때 '이것 또한 상황의 일부'라고 인정하는 유연성이 루틴 효과를 극대화합니다.
     </p>
   </details>
 </div>
+

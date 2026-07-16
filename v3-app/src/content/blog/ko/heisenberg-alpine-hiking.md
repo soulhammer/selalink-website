@@ -91,11 +91,22 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?</span>
+      <span>도심에 거주하여 하이킹이나 산행을 가기 힘들 때는 어떻게 대체하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.
+      도심 속 공원이나 가로수길을 스마트폰 없이 자연 풍경을 탐색하며 30분 이상 걷는 것으로 대체할 수 있습니다. 야외 활동을 통한 시공간 감각 자극과 뇌혈류 활성화가 핵심입니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>하이킹 중 떠오른 아이디어를 잊지 않고 기록하는 팁이 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      주머니에 작은 메모 수첩과 펜을 소지하여 생각나는 즉시 핵심 단어만 간단히 수기 기록하거나, 걷기에 방해되지 않도록 음성 메모 기능으로 즉석 녹음하는 방안을 추천합니다.
     </p>
   </details>
 </div>
+

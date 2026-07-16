@@ -97,22 +97,23 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>매일 똑같이 수행하는 루틴인가요?</span>
+      <span>매일 아침 연상 글쓰기 루틴을 수행해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.
+      네, 아침 기상 직후 무의식이 활성화된 시간에 단어 카드 연상을 통해 창조적 직관을 훈련하는 것이 가장 효과적입니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>도구가 없으면 어떻게 대체하나요?</span>
+      <span>단어 카드가 없을 때는 어떻게 대체하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.
+      임의의 책을 펼쳐 눈에 띄는 명사들을 조합하거나 온라인 무작위 단어 생성기를 이용하는 방식으로 대체할 수 있습니다.
     </p>
   </details>
 </div>
+
 <strong></strong>

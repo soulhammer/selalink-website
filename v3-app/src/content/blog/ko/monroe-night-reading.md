@@ -91,11 +91,22 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?</span>
+      <span>자기 전 독서가 뇌를 자극하여 수면에 방해되지는 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.
+      블루라이트가 나오는 스마트폰 대신 종이책을 읽되, 소설보다는 인문학, 시집, 정적인 에세이 등의 도서를 은은한 간접 조명 아래서 가볍게 읽는 것이 알파파를 유도하여 숙면에 도움을 줍니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>밤 독서 중 마음에 드는 구절을 어떻게 정리하면 수면을 방해하지 않을까요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      취침 전에는 컴퓨터를 켜지 않고 포스트잇을 붙여두거나 책 모서리를 접어둔 뒤, 다음 날 아침이나 낮 시간대에 디지털 아카이브로 옮겨 정리하는 방안을 권장합니다.
     </p>
   </details>
 </div>
+

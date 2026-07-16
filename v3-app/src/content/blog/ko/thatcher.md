@@ -97,22 +97,23 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>매일 똑같이 수행하는 루틴인가요?</span>
+      <span>매일 아침 스케줄 브리핑 루틴을 수행해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.
+      네, 격무 시작 30분 전 스케줄 우선순위를 소리 내어 확인하는 의식이 전두엽의 실행 통제 능력을 선제적으로 활성화합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>도구가 없으면 어떻게 대체하나요?</span>
+      <span>전용 메모판이나 브리핑 시설이 없으면 어떻게 대체하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.
+      나만의 조용한 방에서 수첩에 적은 오늘의 핵심 업무 3가지를 가볍게 혼잣말로 읊조리며 선언하는 것으로 충분히 대체됩니다.
     </p>
   </details>
 </div>
+
 <strong></strong>

@@ -97,22 +97,23 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>매일 똑같이 수행하는 루틴인가요?</span>
+      <span>매일 어려운 과제 돌입 전 이 음악 몰입 루틴을 수행해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.
+      네, 소음이 섞인 활기찬 리듬을 통해 극도의 인지 주의 폭을 좁히고 복잡한 연산 집중에 진입했습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>도구가 없으면 어떻게 대체하나요?</span>
+      <span>소음 축음기나 전용 기기가 없으면 어떻게 대체하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.
+      이어폰으로 빠른 템포의 백색 소음, 기계음 앰비언트 사운드, 혹은 경쾌한 비트의 음악을 틀어놓고 몰입을 시작하는 것으로 대체 가능합니다.
     </p>
   </details>
 </div>
+
 <strong></strong>

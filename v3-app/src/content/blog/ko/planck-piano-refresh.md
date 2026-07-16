@@ -91,11 +91,22 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?</span>
+      <span>악보가 없는 피아노 즉흥 연주는 어떻게 시작하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.
+      멜로디의 완벽성이나 불협화음에 개의치 않고 손가락이 가는 대로 건반의 무게감과 소리의 울림에 온 주의를 모아 자유롭게 누르는 것이 뇌의 주의력 네트워크를 이완하고 리셋하는 열쇠입니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>피아노 대신 다른 악기로도 인지 리셋이 가능한가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      네, 기타나 우쿨렐레 등 손가락의 정교한 감각을 요구하고 소리의 여운을 직접 조율할 수 있는 현악기나 건반악기류라면 무엇이든 뇌의 주의 네트워크 전환 효과를 제공합니다.
     </p>
   </details>
 </div>
+

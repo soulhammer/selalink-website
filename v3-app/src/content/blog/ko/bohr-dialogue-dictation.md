@@ -91,11 +91,22 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>구술 일기를 매일 아침 들어줄 사람이나 파트너가 반드시 필요한가요?</span>
+      <span>대화를 나눌 파트너나 동료가 없는 1인 환경에서는 어떻게 실천하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      아닙니다. 앤디 워홀은 비서라는 현실적인 조력자가 있었지만, 현대인은 스마트폰의 개인 음성 녹음기, AI 메모 도구, 혹은 메신저의 '나와의 채팅방'을 활용해 충분히 같은 효과를 낼 수 있습니다. 핵심은 말을 들어줄 상대방의 존재 유무가 아니라, 머릿속의 어지러운 단편을 소리 내어 언어로 규명하는 뇌의 '말하기' 인지 프로세스를 작동시키는 데 있습니다.
+      스마트폰의 음성 메모나 AI 녹음기를 켜놓고 혼잣말로 설명하듯 생각을 읊조리는 것으로 대체할 수 있습니다. 중요한 것은 청자의 존재가 아닌, 생각을 소리 내어 언어로 객관화하는 대뇌 자극 프로세스입니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>구술 토론 중 나온 내용을 어떻게 생산적인 결과물로 연결하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      말하는 도중 얻은 깨달음을 즉시 수첩에 간단히 적어두거나, AI 음성 인식(STT) 변환 결과를 나중에 문서로 저장하여 핵심 아이디어 노드로 정리하면 좋습니다.
     </p>
   </details>
 </div>
+

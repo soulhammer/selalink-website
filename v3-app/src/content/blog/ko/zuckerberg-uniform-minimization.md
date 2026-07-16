@@ -91,11 +91,22 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?</span>
+      <span>매일 똑같은 옷을 입으면 중요한 미팅이나 격식 있는 자리에선 어떻게 대처하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.
+      저커버그 역시 공식 행사나 이사회에서는 수트를 착용합니다. 유니폼화의 핵심은 사소한 결정을 차단하는 것이므로, 격식 있는 자리를 위한 정장 조합을 미리 지정해두면 고민 없이 착용해 결정 피로를 방지할 수 있습니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>티셔츠와 청바지 외에 다른 의류로 유니폼을 구성해도 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      물론입니다. 셔츠와 슬랙스, 원피스 등 본인의 마음에 가장 무난하고 편안하며 외모 관리에 전혀 신경이 쓰이지 않는 최상의 단순한 조합을 선정하여 다량 구비하는 것으로 충분합니다.
     </p>
   </details>
 </div>
+

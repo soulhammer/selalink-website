@@ -97,22 +97,23 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>매일 똑같이 수행하는 루틴인가요?</span>
+      <span>매일 아침 기상 후 스케일 연습을 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.
+      네, 기상 직후 단순 반복적인 손가락 훈련을 통해 두뇌의 운동 피질을 깨우고 주의력 집중 경로를 프레이밍합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>도구가 없으면 어떻게 대체하나요?</span>
+      <span>실제 피아노 건반이 없으면 어떻게 대체하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.
+      책상 위나 모형 키보드 위에서 메트로놈에 맞춰 손가락을 순차적으로 타건하듯 움직이는 것만으로도 운동 피질 자극 효과가 있습니다.
     </p>
   </details>
 </div>
+
 <strong></strong>

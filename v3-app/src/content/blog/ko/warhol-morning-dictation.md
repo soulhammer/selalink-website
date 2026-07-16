@@ -91,11 +91,22 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>구술 일기를 매일 아침 들어줄 사람이나 파트너가 반드시 필요한가요?</span>
+      <span>비서가 없는 현대인은 매일 아침 통화 기록식 구술을 어떻게 실천하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      아닙니다. 앤디 워홀은 비서라는 현실적인 조력자가 있었지만, 현대인은 스마트폰의 개인 음성 녹음기, AI 메모 도구, 혹은 메신저의 '나와의 채팅방'을 활용해 충분히 같은 효과를 낼 수 있습니다. 핵심은 말을 들어줄 상대방의 존재 유무가 아니라, 머릿속의 어지러운 단편을 소리 내어 언어로 규명하는 뇌의 '말하기' 인지 프로세스를 작동시키는 데 있습니다.
+      스마트폰의 음성-텍스트 변환(STT) 기능이나 AI 메모 앱을 켜고, 어제 있었던 사건이나 오늘 해야 할 감정적 부담감을 5분간 소리 내어 브레인덤핑(Brain Dumping)하듯 쏟아내 기록하는 방안을 추천합니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>구술할 때 주로 어떤 내용을 조잘거리면 생산성 향상에 도움이 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      어제 있었던 사실적 사건들의 나열, 오늘 마주할 업무 우선순위에 대한 브레인덤핑, 혹은 지금 떠오르는 감정 상태를 날것 그대로 소리 내어 읊조리는 것으로 충분합니다.
     </p>
   </details>
 </div>
+

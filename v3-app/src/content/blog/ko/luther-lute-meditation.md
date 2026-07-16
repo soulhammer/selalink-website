@@ -91,11 +91,22 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?</span>
+      <span>다룰 수 있는 악기가 전혀 없는 초심자도 효과를 볼 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.
+      싱잉볼, 텅드럼, 칼림바처럼 터치가 간단하고 맑은 소리를 내는 단순한 악기로 5분간 건반과 소리에 집중하는 것으로 충분합니다. 뇌에 '평가받지 않는 창작 안전지대'를 제공하는 것이 본질입니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>음악 감상만으로 연주 루틴과 동일한 효과를 낼 수 없나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      음악을 수동적으로 듣는 것보다 손가락 끝의 미세 근육을 움직이고 현의 진동을 느끼며 소리를 직접 통제하는 연주 행위가 뇌의 운동 피질 및 전두엽 주의 집중 네트워크를 훨씬 더 강하게 자극합니다.
     </p>
   </details>
 </div>
+
