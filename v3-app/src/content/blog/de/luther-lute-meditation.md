@@ -1,8 +1,8 @@
 ---
 title: "Vibration der geistigen Stimmung: Martin Luthers morgendliche Laute-Routine"
 description: "Martin Luther spielte unter dem Druck der Reformation jeden Morgen Laute und meditierte. Erfahren Sie, wie das Musizieren die Verbindung von Gehör und Motorik fördert und Stress lindert."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Vibration ","Routine"]
 heroImage: "/images/blog/luther_lute_meditation.png"

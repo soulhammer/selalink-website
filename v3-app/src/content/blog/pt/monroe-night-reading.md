@@ -1,8 +1,8 @@
 ---
 title: "A alma por trás da maquiagem: O hábito de leitura noturna e diário de Marilyn Monroe"
 description: "Marilyn Monroe colecionava mais de 400 libros clásicos. Analisamos como ler clásicos e escrever poesia à luz de uma lâmpada acalmava o sistema nervoso e reduzia o cortisol."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["A alma por","Routine"]
 heroImage: "/images/blog/monroe_night_reading.png"

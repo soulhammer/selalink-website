@@ -1,8 +1,8 @@
 ---
 title: "帝国の重みと省察：ヴィクトリア女王の毎晩の日記執筆習慣"
 description: "大英帝国の全盛期を統治したヴィクトリア女王が、生涯で122冊の日記を書いた省察習慣。手書きの表現的執筆が副交感神経を活性化し、前頭葉を整える科学的メカニズムを探ります。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["帝国の重みと省察：ヴ","Routine"]
 heroImage: "/images/blog/victoria_daily_journaling.png"

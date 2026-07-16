@@ -1,8 +1,8 @@
 ---
 title: "Mengosongkan Kanvas Kreatif: Kebiasaan Jurnal Lisan Pagi Andy Warhol"
 description: "Andy Warhol mencatat jadwal dan pengeluarannya dengan menelepon sekretarisnya setiap pagi. Pelajari bagaimana verbalisasi meredakan beban kerja otak."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Mengosongk","Routine"]
 heroImage: "/images/blog/warhol_morning_dictation.png"

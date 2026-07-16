@@ -1,8 +1,8 @@
 ---
 title: "Servis yang Menenangkan Kecemasan: Kebiasaan Rutinitas Pra-Tanding Serena Williams"
 description: "Serena Williams, yang selalu memantulkan bola tenis 5 kali sebelum melakukan servis pertama. Pelajari bagaimana rutinitas pra-tanding memblokir cemas."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Servis yan","Routine"]
 heroImage: "/images/blog/serena_match_routine.png"

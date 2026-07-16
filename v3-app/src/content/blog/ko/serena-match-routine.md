@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "불안을 잠재우는 서브: 세레나 윌리엄스의 경기 전 루틴 습관"
 description: "첫 서브 전 테니스 공을 항상 5번 튕기는 등의 경기 전 루틴을 철저히 지켰던 세레나 윌리엄스. 수행 전 루틴이 외부 불안 자극을 차단하고 뇌를 인지적 프레이밍 상태로 조율하는 원리를 연구합니다."
-pubDate: "2026-07-16"
+pubDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["몰입", "의지력", "계획"]
 heroImage: "/images/blog/serena_match_routine.png"
 app: "buildself"
 authority: "테니스 매거진 및 스포츠 심리학자 싱어(Singer)의 수행 전 루틴(Pre-Performance Routine) 연구 고증"
-updatedDate: "2026-07-16"
+updatedDate: "2026-04-19"
 faqs:
   - question: "발표나 시험 등 일상의 중요한 일 전에 나만의 루틴을 어떻게 만드나요?"
     answer: "'신발 끈 특정 순서로 묶기', '심호흡 3회 하기', '특정 다짐 문구 소리 내어 말하기' 등 스스로 완전히 통제할 수 있는 일관된 기계적 행동 2~3단계를 설정하여 동일하게 반복하면 불안 제어에 큰 도움을 줍니다."

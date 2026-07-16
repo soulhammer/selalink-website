@@ -1,8 +1,8 @@
 ---
 title: "Le dialogue qui tissa la physique : L'habitude de dictée et de débat de Niels Bohr"
 description: "Niels Bohr rédigeait ses articles de physique quantique en débattant à voix haute plutôt qu'en écrivant seul. Découvrez comment extérioriser ses pensées par le dialogue éveille la métacognition."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Le dialogu","Routine"]
 heroImage: "/images/blog/bohr_dialogue_dictation.png"

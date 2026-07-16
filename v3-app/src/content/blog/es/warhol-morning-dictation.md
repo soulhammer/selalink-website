@@ -1,8 +1,8 @@
 ---
 title: "Lienzo en blanco para la creación: El hábito de dictado matutino de Andy Warhol"
 description: "Andy Warhol llamaba a su secretaria cada mañana para dictar sus gastos y actividades del día anterior. Analizamos cómo verbalizar la memoria de trabajo libera carga cognitiva (Cognitive Offloading)."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Lienzo en ","Routine"]
 heroImage: "/images/blog/warhol_morning_dictation.png"

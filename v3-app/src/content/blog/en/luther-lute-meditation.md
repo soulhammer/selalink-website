@@ -1,8 +1,8 @@
 ---
 title: "Vibration of Mental Tuning: Martin Luther's Morning Lute Playing Habit"
 description: "Martin Luther, who played the lute and meditated every morning under the heavy pressure of the Reformation. Learn how music playing activates auditory-motor pathways and relieves sympathetic tension."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Great Habits","luther","Routine","Stamina"]
 heroImage: "/images/blog/luther_lute_meditation.png"

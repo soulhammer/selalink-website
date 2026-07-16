@@ -1,8 +1,8 @@
 ---
 title: "化粧の裏の魂：マリリン・モンローの毎晩の読書と省察習慣"
 description: "大衆のセックスシンボルの陰で400冊以上の蔵書を持っていた愛書家マリリン・モンロー。毎晩の文学読書と日記作成がストレスホルモンを減らし、自己同一性を保存した科学的原理を明らかにします。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["化粧の裏の魂：マリリ","Routine"]
 heroImage: "/images/blog/monroe_night_reading.png"

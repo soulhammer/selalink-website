@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "의사결정 피로 극복: 마크 저커버그의 동일한 옷차림 습관"
 description: "의사결정 에너지를 절약하기 위해 매일 똑같은 회색 티셔츠와 청바지만 입는 마크 저커버그. 사소한 선택의 단순화가 자아 고갈을 방지하고 비즈니스적 판단력을 보존하는 작동 원리를 연구합니다."
-pubDate: "2026-07-16"
+pubDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["의사결정", "단순화", "생산성"]
 heroImage: "/images/blog/zuckerberg_uniform_minimization.png"
 app: "buildself"
 authority: "2014년 메타 타운홀 Q&A 세션 공식 기록 및 로이 바우마이스터의 자아 고갈(Ego Depletion) 인지심리학 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-06-12"
 faqs:
   - question: "매일 똑같은 옷을 입으면 중요한 미팅이나 격식 있는 자리에선 어떻게 대처하나요?"
     answer: "저커버그 역시 공식 행사나 이사회에서는 수트를 착용합니다. 유니폼화의 핵심은 사소한 결정을 차단하는 것이므로, 격식 있는 자리를 위한 정장 조합을 미리 지정해두면 고민 없이 착용해 결정 피로를 방지할 수 있습니다."

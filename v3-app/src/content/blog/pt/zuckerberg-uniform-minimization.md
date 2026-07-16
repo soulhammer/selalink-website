@@ -1,8 +1,8 @@
 ---
 title: "Gestão da fadiga por decisão: O hábito do uniforme único de Mark Zuckerberg"
 description: "Mark Zuckerberg veste a mesma camiseta cinza para evitar o desgaste mental diário. Descubra como simplificar decisões secundárias previne a 'depleção do ego' e reserva o glicogênio cerebral."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Gestão da ","Routine"]
 heroImage: "/images/blog/zuckerberg_uniform_minimization.png"

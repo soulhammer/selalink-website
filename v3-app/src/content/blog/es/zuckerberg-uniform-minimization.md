@@ -1,8 +1,8 @@
 ---
 title: "Manejo de la fatiga por decisión: El hábito de uniforme único de Mark Zuckerberg"
 description: "Mark Zuckerberg viste la misma camiseta gris para evitar el desgaste mental diario. Descubra cómo simplificar decisiones secundarias previene la 'depleción del ego' y reserva el glucógeno cerebral para elecciones ejecutivas importantes."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Manejo de ","Routine"]
 heroImage: "/images/blog/zuckerberg_uniform_minimization.png"

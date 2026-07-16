@@ -1,8 +1,8 @@
 ---
 title: "Umgang mit Entscheidungsbzw. Willensmüdigkeit: Mark Zuckerbergs Gewohnheit des Einheits-Outfits"
 description: "Mark Zuckerberg trägt täglich dasselbe graue T-Shirt, um mentale Energie zu sparen. Erfahren Sie, wie das Reduzieren alltäglicher Entscheidungen der 'Ego-Depletion' vorbeugt und kognitive Ressourcen schützt."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Umgang mit","Routine"]
 heroImage: "/images/blog/zuckerberg_uniform_minimization.png"

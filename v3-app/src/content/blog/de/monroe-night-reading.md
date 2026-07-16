@@ -1,8 +1,8 @@
 ---
 title: "Die Seele hinter dem Make-up: Marilyn Monroes Gewohnheit des abendlichen Lesens und Reflektierens"
 description: "Marilyn Monroe besaß über 400 klassische Bücher. Erfahren Sie, wie abendliches Lesen und intimes Schreiben das Nervensystem beruhigten und Stresshormone senkten."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Die Seele ","Routine"]
 heroImage: "/images/blog/monroe_night_reading.png"

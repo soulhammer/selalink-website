@@ -1,8 +1,8 @@
 ---
 title: "Dialogue That Wove Physics: Niels Bohr's Dictation and Debate Habit"
 description: "Niels Bohr, who completed quantum mechanics papers through constant verbal debates rather than writing alone. Learn how externalizing thoughts through dialogue awakens metacognition."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Great Habits","bohr","Routine","Stamina"]
 heroImage: "/images/blog/bohr_dialogue_dictation.png"

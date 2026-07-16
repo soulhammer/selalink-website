@@ -1,8 +1,8 @@
 ---
 title: "帝国的重载与自我反思：维多利亚女王的每晚日记撰写习惯"
 description: "统治大英帝国全盛期的维多利亚女王一生写下122册日记的反思习惯。探讨手写表达性写作如何激活副交感神经、并梳理前额叶的大脑科学机制。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["帝国的重载与自我反思","Routine"]
 heroImage: "/images/blog/victoria_daily_journaling.png"

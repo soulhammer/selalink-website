@@ -1,8 +1,8 @@
 ---
 title: "A vibração do equilíbrio mental: O hábito matutino de alaúde de Martinho Lutero"
 description: "Martinho Lutero tocava o alaúde e meditava cada manhã diante da grande pressão da Reforma. Analisamos como tocar un instrumento ativa a via auditivo-motora e alivia la tensión."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["A vibração","Routine"]
 heroImage: "/images/blog/luther_lute_meditation.png"

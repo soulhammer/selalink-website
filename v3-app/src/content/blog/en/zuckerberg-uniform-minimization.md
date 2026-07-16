@@ -1,8 +1,8 @@
 ---
 title: "Managing Decision Fatigue: Mark Zuckerberg's Single Uniform Habit"
 description: "Mark Zuckerberg, who reduced decision fatigue by wearing the same T-shirt and jeans every day. Learn how this prevents 'ego depletion'—the brain's finite energy resource—and channels focus into core decisions."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Great Habits","zuckerberg","Routine","Stamina"]
 heroImage: "/images/blog/zuckerberg_uniform_minimization.png"

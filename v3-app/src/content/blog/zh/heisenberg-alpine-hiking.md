@@ -1,8 +1,8 @@
 ---
 title: "大自然赋予的不确定性启示：海森堡的阿尔卑斯登山习惯"
 description: "为了解决量子力学难题、独自一人在巴伐利亚阿尔卑斯山登山思索的维尔纳·海森堡。探讨在自然界中行走如何恢复大脑注意力、并引导创造性孵化(Incubation)的科学原理。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["大自然赋予的不确定性","Routine"]
 heroImage: "/images/blog/heisenberg_alpine_hiking.png"

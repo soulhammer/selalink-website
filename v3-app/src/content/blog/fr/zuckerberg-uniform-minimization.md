@@ -1,8 +1,8 @@
 ---
 title: "Gérer la fatigue décisionnelle : L'habitude de l'uniforme unique de Mark Zuckerberg"
 description: "Mark Zuckerberg porte le même t-shirt gris pour éviter l'épuisement mental quotidien. Découvrez comment simplifier les choix secondaires prévient 'l'épuisement de l'ego'."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Gérer la f","Routine"]
 heroImage: "/images/blog/zuckerberg_uniform_minimization.png"

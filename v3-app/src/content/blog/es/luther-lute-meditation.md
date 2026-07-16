@@ -1,8 +1,8 @@
 ---
 title: "La vibración del equilibrio mental: El hábito matutino de laúd de Martín Lutero"
 description: "Martín Lutero tocaba el laúd y meditaba cada mañana frente a la gran presión de la Reforma. Analizamos cómo tocar un instrumento activa la vía auditivo-motora y alivia la tensión."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["La vibraci","Routine"]
 heroImage: "/images/blog/luther_lute_meditation.png"

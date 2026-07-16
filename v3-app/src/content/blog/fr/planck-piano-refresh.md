@@ -1,8 +1,8 @@
 ---
 title: "Réinitialisation cognitive : L'habitude d'improvisation au piano de Max Planck"
 description: "Max Planck jouait du piano pour se détendre après ses calculs de physique. Découvrez comment stimuler les zones créatives élimine la fatigue logique via la 'récupération croisée'."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Réinitiali","Routine"]
 heroImage: "/images/blog/planck_piano_refresh.png"

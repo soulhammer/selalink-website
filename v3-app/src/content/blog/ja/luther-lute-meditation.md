@@ -1,8 +1,8 @@
 ---
 title: "精神の調律を整える波動：マルティン・ルターの朝のリュート演奏習慣"
 description: "宗教改革の巨大な重圧の中でも、毎朝弦楽器リュートを演奏して瞑想したマルティン・ルター。音楽演奏が聴覚-運動統合経路を活性化し、交感神経の緊張を緩和した科学的原理を学びます。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["精神の調律を整える波","Routine"]
 heroImage: "/images/blog/luther_lute_meditation.png"

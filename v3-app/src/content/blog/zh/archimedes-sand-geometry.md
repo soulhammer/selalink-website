@@ -1,8 +1,8 @@
 ---
 title: "极度专注：阿基米德的沙地几何画图 习惯"
 description: "为了将复杂的科学灵感可视化而不断在沙地或地面上绘制图形的阿基米德。探讨动手进行视觉草图绘制如何减轻工作记忆的认知过载并引导超强专注状态的原理。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["极度专注：阿基米德的","Routine"]
 heroImage: "/images/blog/archimedes_sand_geometry.png"

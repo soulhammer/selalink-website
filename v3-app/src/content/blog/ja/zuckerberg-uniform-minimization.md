@@ -1,8 +1,8 @@
 ---
 title: "決定疲れの管理：マーク・ザッカーバーグの単一ユニフォーム習慣"
 description: "毎日同じTシャツとジーンズを着るシンプルなユニフォーム着用で決定疲れを減らしたマーク・ザッカーバーグ。脳の有限なエネルギー資源である「自己枯渇」を防ぎ、核心的な意思決定に集中する科学的原理を究明します。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["決定疲れの管理：マー","Routine"]
 heroImage: "/images/blog/zuckerberg_uniform_minimization.png"

@@ -1,8 +1,8 @@
 ---
 title: "El peso del imperio y la reflexión: El hábito diario de escribir un diario de la reina Victoria"
 description: "La reina Victoria escribió 122 volúmenes de diarios íntimos. Analizamos cómo escribir a mano (Expressive Writing) estimula las vías neuronales que reducen la ansiedad y el cortisol."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["El peso de","Routine"]
 heroImage: "/images/blog/victoria_daily_journaling.png"

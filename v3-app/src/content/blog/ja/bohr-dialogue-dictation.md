@@ -1,8 +1,8 @@
 ---
 title: "物理学を織りなした対話：ニールス・ボーアの口述討論習慣"
 description: "一人で執筆する代わりに、他者との絶え間ない口述討論を通じて量子力学の論文を完成させたニールス・ボーア。発話が内面の思考を外的言語へと客観化し、メタ認知を呼び覚ます原理を究明します。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["物理学を織りなした対","Routine"]
 heroImage: "/images/blog/bohr_dialogue_dictation.png"

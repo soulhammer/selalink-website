@@ -1,8 +1,8 @@
 ---
 title: "不安を静めるサーブ：セリーナ・ウィリアムズの試合前ルーティン習慣"
 description: "ファーストサーブの前にテニスボールを常に5回バウンドさせるなど、試合前のルーティンを徹底的に守ったセリーナ・ウィリアムズ。遂行前ルーティンが外部の不安刺激を遮断し、脳を認次的フレーミング状態に調整する原理を研究します。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["不安を静めるサーブ：","Routine"]
 heroImage: "/images/blog/serena_match_routine.png"

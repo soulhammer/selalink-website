@@ -1,8 +1,8 @@
 ---
 title: "Le service qui calme l'anxiété : L'habitude de routine d'avant-match de Serena Williams"
 description: "Serena Williams faisait rebondir sa balle exactement 5 fois avant son premier service. Découvrez comment la routine de pré-performance bloque le stress et prépare le cerveau."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Le service","Routine"]
 heroImage: "/images/blog/serena_match_routine.png"

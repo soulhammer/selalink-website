@@ -1,8 +1,8 @@
 ---
 title: "自然がくれた不確定性のヒント：ハイゼンベルクのアルプスハイキング習慣"
 description: "量子力学の難問を解決するために、バイエルン・アルプスを一人でハイキングしながら思索にふけったヴェルナー・ハイゼンベルク。自然の中を歩くことが脳の注意力を回復させ、創造的なインキュベーション（孵化）を導く科学的原理を学びます。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["自然がくれた不確定性","Routine"]
 heroImage: "/images/blog/heisenberg_alpine_hiking.png"

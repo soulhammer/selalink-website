@@ -1,8 +1,8 @@
 ---
 title: "Clue of Uncertainty from Nature: Heisenberg's Alpine Hiking Habit"
 description: "Werner Heisenberg, who hiked the Bavarian Alps alone to solve complex quantum mechanics puzzles. Learn how nature walking restores attention and triggers creative incubation."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Great Habits","heisenberg","Routine","Stamina"]
 heroImage: "/images/blog/heisenberg_alpine_hiking.png"

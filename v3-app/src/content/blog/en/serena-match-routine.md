@@ -1,8 +1,8 @@
 ---
 title: "Serve That Calms Anxiety: Serena Williams' Pre-Match Routine Habit"
 description: "Serena Williams, who strictly followed pre-match routines like bouncing the tennis ball 5 times before serving. Learn how pre-performance routines block anxiety and frame the brain for peak state."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Great Habits","serena","Routine","Stamina"]
 heroImage: "/images/blog/serena_match_routine.png"

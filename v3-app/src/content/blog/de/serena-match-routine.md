@@ -1,8 +1,8 @@
 ---
 title: "Der Aufschlag, der die Angst nimmt: Serena Williams' Gewohnheit der Routine vor dem Match"
 description: "Serena Williams prellte den Ball vor dem ersten Aufschlag immer genau 5 Mal. Erfahren Sie, wie Vorbereitungsroutinen (Pre-Performance Routine) Angst blockieren und den Fokus maximieren."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Der Aufsch","Routine"]
 heroImage: "/images/blog/serena_match_routine.png"

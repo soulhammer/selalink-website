@@ -1,8 +1,8 @@
 ---
 title: "Der Dialog, der die Physik prägte: Niels Bohrs Gewohnheit des Diktats und Debattierens"
 description: "Niels Bohr verfasste seine quantenmechanischen Arbeiten durch lautstarke Debatten statt in einsamer Schreibarbeit. Erfahren Sie, wie das Sprechen Gedanken objektiviert und Metakognition weckt."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Der Dialog","Routine"]
 heroImage: "/images/blog/bohr_dialogue_dictation.png"

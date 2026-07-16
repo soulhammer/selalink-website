@@ -1,8 +1,8 @@
 ---
 title: "大脑认知重置：马克斯·普朗克的钢琴即兴演奏习惯"
 description: "在物理学研究结束后、随心所欲拨弄琴键即兴演奏以转换心情的马克斯·普朗克。研究艺术性激活如何消除逻辑区域疲劳的“交差认知恢复”原理。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["大脑认知重置：马克斯","Routine"]
 heroImage: "/images/blog/planck_piano_refresh.png"

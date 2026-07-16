@@ -1,8 +1,8 @@
 ---
 title: "La vibration de l'équilibre mental : L'habitude de luth matinal de Martin Luther"
 description: "Martin Luther jouait du luth et méditait chaque matin face à la pression de la Réforme. Découvrez comment jouer d'un instrument active la voie auditivo-motrice et apaise le stress."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["La vibrati","Routine"]
 heroImage: "/images/blog/luther_lute_meditation.png"

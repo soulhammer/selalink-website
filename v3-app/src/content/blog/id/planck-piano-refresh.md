@@ -1,8 +1,8 @@
 ---
 title: "Atur Ulang Kognitif: Kebiasaan Improvisasi Piano Max Planck"
 description: "Max Planck, yang memainkan piano secara improvisasi untuk menyegarkan diri setelah meneliti fisika. Pelajari efek kognitif dari peralihan fokus otak."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Atur Ulang","Routine"]
 heroImage: "/images/blog/planck_piano_refresh.png"

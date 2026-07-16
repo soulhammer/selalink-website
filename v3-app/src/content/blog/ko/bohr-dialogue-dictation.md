@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "물리학을 직조한 대화: 닐스 보어의 구술 토론 습관"
 description: "글을 혼자 쓰는 대신 타인과의 끊임없는 구술 토론을 통해 양자역학 논문을 완성했던 닐스 보어. 말하기가 내면의 생각을 외적 언어로 객관화하여 상위 인지를 깨우는 원리를 규명합니다."
-pubDate: "2026-07-16"
+pubDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["학습", "창의성", "사색"]
 heroImage: "/images/blog/bohr_dialogue_dictation.png"
 app: "buildself"
 authority: "루스 무어 저 『닐스 보어(Niels Bohr)』 일대기 역사적 고증 및 레프 비고츠키의 외적 언어(External Speech) 발달 심리학 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-01-19"
 faqs:
   - question: "대화를 나눌 파트너나 동료가 없는 1인 환경에서는 어떻게 실천하나요?"
     answer: "스마트폰의 음성 메모나 AI 녹음기를 켜놓고 혼잣말로 설명하듯 생각을 읊조리는 것으로 대체할 수 있습니다. 중요한 것은 청자의 존재가 아닌, 생각을 소리 내어 언어로 객관화하는 대뇌 자극 프로세스입니다."

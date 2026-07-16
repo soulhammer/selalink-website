@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "예술적 비우기: 앤디 워홀의 아침 구술 일기 습관"
 description: "매일 아침 비서에게 전화해 전날의 세부 일상과 지출을 말로 풀어내며 일기를 기록했던 앤디 워홀. 구술을 통한 말하기가 뇌의 생각을 구조화하고 인지 과부하를 비워내어 창의성을 자극하는 원리를 알아봅니다."
-pubDate: "2026-07-16"
+pubDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["기록", "기획", "생산성"]
 heroImage: "/images/blog/warhol_morning_dictation.png"
 app: "buildself"
 authority: "패트 해켓 편집 『앤디 워홀 일기(The Andy Warhol Diaries)』 역사적 고증 및 앨런 배들리의 작동 기억 인지 루프 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-05-25"
 faqs:
   - question: "비서가 없는 현대인은 매일 아침 통화 기록식 구술을 어떻게 실천하나요?"
     answer: "스마트폰의 음성-텍스트 변환(STT) 기능이나 AI 메모 앱을 켜고, 어제 있었던 사건이나 오늘 해야 할 감정적 부담감을 5분간 소리 내어 브레인덤핑(Brain Dumping)하듯 쏟아내 기록하는 방안을 추천합니다."

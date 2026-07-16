@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "자연이 준 불확정성의 힌트: 하이젠베르크의 알프스 하이킹 습관"
 description: "양자역학의 난제를 풀기 위해 바이에른 알프스를 홀로 하이킹하며 생각에 잠겼던 베르너 하이젠베르크. 자연 속 걷기가 뇌의 주의력을 회복시키고 창조적 인큐베이션(부화)을 유도하는 과학적 원리를 알아봅니다."
-pubDate: "2026-07-16"
+pubDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["사색", "이완", "창의성"]
 heroImage: "/images/blog/heisenberg_alpine_hiking.png"
 app: "buildself"
 authority: "하이젠베르크 자서전 『부분과 전체(Physics and Beyond)』 역사 고증 및 스티븐 카플란의 주의 회복 이론(Attention Restoration Theory) 인지과학 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-02-06"
 faqs:
   - question: "도심에 거주하여 하이킹이나 산행을 가기 힘들 때는 어떻게 대체하나요?"
     answer: "도심 속 공원이나 가로수길을 스마트폰 없이 자연 풍경을 탐색하며 30분 이상 걷는 것으로 대체할 수 있습니다. 야외 활동을 통한 시공간 감각 자극과 뇌혈류 활성화가 핵심입니다."

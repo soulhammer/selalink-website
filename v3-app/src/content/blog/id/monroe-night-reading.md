@@ -1,8 +1,8 @@
 ---
 title: "Jiwa di Balik Riasan: Kebiasaan Membaca Malam dan Refleksi Marilyn Monroe"
 description: "Marilyn Monroe mengoleksi lebih dari 400 buku sastra di balik citra seks simbolnya. Pelajari bagaimana membaca sastra malam hari menenangkan sistem saraf."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Jiwa di Ba","Routine"]
 heroImage: "/images/blog/monroe_night_reading.png"

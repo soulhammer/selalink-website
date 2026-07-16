@@ -1,8 +1,8 @@
 ---
 title: "O saque que acalma a ansiedade: O hábito de rotina pré-jogo de Serena Williams"
 description: "Serena Williams quicava a bola exatamente 5 vezes antes de seu primeiro saque. Descubra como a rotina prévia (PPR) bloqueia o estresse externo e prepara o cérebro."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["O saque qu","Routine"]
 heroImage: "/images/blog/serena_match_routine.png"

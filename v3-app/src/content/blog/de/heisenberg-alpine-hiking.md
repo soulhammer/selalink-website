@@ -1,8 +1,8 @@
 ---
 title: "Hinweis der Unbestimmtheit aus der Natur: Heisenbergs Gewohnheit des alpinen Wanderns"
 description: "Werner Heisenberg wanderte allein durch die bayerischen Alpen, um Rätsel der Physik zu lösen. Erfahren Sie, wie Wandern in der Natur die Aufmerksamkeit regeneriert."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Hinweis de","Routine"]
 heroImage: "/images/blog/heisenberg_alpine_hiking.png"

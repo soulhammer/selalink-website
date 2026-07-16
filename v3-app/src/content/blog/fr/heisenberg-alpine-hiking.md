@@ -1,8 +1,8 @@
 ---
 title: "L'indice de l'incertitude dans la nature : L'habitude de randonnée alpine de Heisenberg"
 description: "Werner Heisenberg marchait seul dans les Alpes bavaroises pour résoudre les dilemmes de la physique. Découvrez comment la marche en pleine nature restaure l'attention."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["L'indice d","Routine"]
 heroImage: "/images/blog/heisenberg_alpine_hiking.png"

@@ -1,8 +1,8 @@
 ---
 title: "妆容背后的灵魂：玛丽莲·梦露的深夜阅读与反思习惯"
 description: "在大众性感符号背后、拥多达400余册藏书的书迷玛丽莲·梦露。探讨深夜文学阅读与日记撰写如何降低压力荷尔蒙并保留自我身份认同的科学原理。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["妆容背后的灵魂：玛丽","Routine"]
 heroImage: "/images/blog/monroe_night_reading.png"

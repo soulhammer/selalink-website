@@ -1,8 +1,8 @@
 ---
 title: "L'âme derrière le maquillage : L'habitude de lecture nocturne et de journal de Marilyn Monroe"
 description: "Marilyn Monroe possédait plus de 400 livres classiques. Découvrez comment la lecture du soir et l'écriture intime apaisaient son système nerveux et réduisaient le stress."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["L'âme derr","Routine"]
 heroImage: "/images/blog/monroe_night_reading.png"

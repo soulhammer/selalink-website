@@ -1,8 +1,8 @@
 ---
 title: "创作的留白：安迪·沃霍尔的清晨口述日记习惯"
 description: "通过给秘书打电话口述记录前一天日程与细微支出的安迪·沃霍尔。探讨清晨口述日记的输出如何清空认知过载并初始化注意力区域的大脑科学原理。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["创作的留白：安迪·沃","Routine"]
 heroImage: "/images/blog/warhol_morning_dictation.png"

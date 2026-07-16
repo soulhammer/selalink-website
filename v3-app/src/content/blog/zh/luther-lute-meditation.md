@@ -1,8 +1,8 @@
 ---
 title: "调理精神的声波：马丁·路德的早晨琉特琴演奏习惯"
 description: "在宗教改革的巨大重压下、每天清晨仍然坚持演奏琉特琴并进行默想的马丁·路德。探讨音乐演奏如何激活听觉-运动整合通道并缓解交感神经紧张的科学原理。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["调理精神的声波：马丁","Routine"]
 heroImage: "/images/blog/luther_lute_meditation.png"

@@ -1,8 +1,8 @@
 ---
 title: "El culmen de la concentración: El hábito de bocetos geométricos en arena de Arquímedes"
 description: "Arquímedes dibujaba constantemente formas en la arena para visualizar sus ideas científicas. Descubra cómo el bocetado visual reduce la carga cognitiva de la memoria de trabajo y fomenta un estado de flujo profundo."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["El culmen ","Routine"]
 heroImage: "/images/blog/archimedes_sand_geometry.png"

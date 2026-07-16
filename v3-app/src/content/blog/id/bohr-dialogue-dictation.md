@@ -1,8 +1,8 @@
 ---
 title: "Dialog yang Merajut Fisika: Kebiasaan Dikte dan Diskusi Niels Bohr"
 description: "Niels Bohr, yang menyelesaikan makalah mekanika kuantum melalui diskusi lisan konstan alih-alih menulis sendirian. Pelajari bagaimana verbalisasi membangun metakognisi."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Dialog yan","Routine"]
 heroImage: "/images/blog/bohr_dialogue_dictation.png"

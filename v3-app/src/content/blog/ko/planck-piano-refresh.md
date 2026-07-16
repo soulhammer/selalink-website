@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "뇌의 인지 리셋: 막스 플랑크의 피아노 즉흥 연주 습관"
 description: "물리학 연구 후 피아노 건반을 마음대로 두드리며 즉흥 연주로 기분을 전환했던 막스 플랑크. 예술적 활성화가 논리 영역의 피로를 씻어내는 '교차 인지 리프레시' 원리를 연구합니다."
-pubDate: "2026-07-16"
+pubDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["이완", "사색", "휴식"]
 heroImage: "/images/blog/planck_piano_refresh.png"
 app: "buildself"
 authority: "플랑크 자서전 『Wissenschaftliche Selbstbiographie』 역사적 고증 및 존스홉킨스 의과대학의 음악 즉흥 연주 뇌영상 신경과학 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-04-01"
 faqs:
   - question: "악보가 없는 피아노 즉흥 연주는 어떻게 시작하나요?"
     answer: "멜로디의 완벽성이나 불협화음에 개의치 않고 손가락이 가는 대로 건반의 무게감과 소리의 울림에 온 주의를 모아 자유롭게 누르는 것이 뇌의 주의력 네트워크를 이완하고 리셋하는 열쇠입니다."

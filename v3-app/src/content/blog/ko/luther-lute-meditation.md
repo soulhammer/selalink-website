@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "멘탈 정돈의 파동: 마르틴 루터의 아침 류트 연주 습관"
 description: "종교개혁의 거대한 중압감 속에서도 매일 아침 현악기 류트를 연주하며 명상했던 마르틴 루터. 음악 연주가 청각-운동 통합 경로를 활성화하고 교감신경의 긴장을 완화한 과학적 원리를 알아봅니다."
-pubDate: "2026-07-16"
+pubDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["명상", "휴식", "마음"]
 heroImage: "/images/blog/luther_lute_meditation.png"
 app: "buildself"
 authority: "루터 전집 『Luther's Works, Vol. 49』 역사적 기록 서한 고증 및 음악 치료의 자율신경계 반응 신경과학 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-02-24"
 faqs:
   - question: "다룰 수 있는 악기가 전혀 없는 초심자도 효과를 볼 수 있나요?"
     answer: "싱잉볼, 텅드럼, 칼림바처럼 터치가 간단하고 맑은 소리를 내는 단순한 악기로 5분간 건반과 소리에 집중하는 것으로 충분합니다. 뇌에 '평가받지 않는 창작 안전지대'를 제공하는 것이 본질입니다."

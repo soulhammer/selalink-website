@@ -1,8 +1,8 @@
 ---
 title: "Weight of Empire and Reflection: Queen Victoria's Nightly Journaling Habit"
 description: "Queen Victoria, who ruled the golden age of the British Empire, wrote 122 volumes of journals throughout her life. Explore how expressive handwriting activates parasympathetic nerves and organizes the prefrontal cortex."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Great Habits","victoria","Routine","Stamina"]
 heroImage: "/images/blog/victoria_daily_journaling.png"

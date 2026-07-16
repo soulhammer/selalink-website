@@ -1,8 +1,8 @@
 ---
 title: "Leeren der kreativen Leinwand: Andy Warhols Gewohnheit des morgendlichen Tagebuch-Diktats"
 description: "Andy Warhol telefonierte jeden Morgen mit seiner Sekretärin, um seinen Tag zu protokollieren. Erfahren Sie, wie das Diktieren das Arbeitsgedächtnis entlastet (Cognitive Offloading)."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Leeren der","Routine"]
 heroImage: "/images/blog/warhol_morning_dictation.png"

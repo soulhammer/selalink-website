@@ -1,8 +1,8 @@
 ---
 title: "Reinicio cognitivo: El hábito de improvisación en piano de Max Planck"
 description: "Max Planck tocaba el piano para descansar de sus complejas ecuaciones de física. Descubra cómo activar áreas artísticas limpia la fatiga lógica mediante la 'recarga cognitiva cruzada'."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Reinicio c","Routine"]
 heroImage: "/images/blog/planck_piano_refresh.png"

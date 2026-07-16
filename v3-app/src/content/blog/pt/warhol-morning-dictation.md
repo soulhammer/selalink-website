@@ -1,8 +1,8 @@
 ---
 title: "Tela em branco para a criação: O hábito de ditado matinal de Andy Warhol"
 description: "Andy Warhol ligava para a sua secretária cada manhã para ditar as suas despesas e atividades. Analisamos como verbalizar a memória de trabalho liberta carga cognitiva."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Tela em br","Routine"]
 heroImage: "/images/blog/warhol_morning_dictation.png"

@@ -1,8 +1,8 @@
 ---
 title: "El diálogo que tejió la física: El hábito de dictado y debate de Niels Bohr"
 description: "Niels Bohr completaba sus artículos de física cuántica debatiendo verbalmente en lugar de escribir solo. Descubra cómo exteriorizar las ideas mediante el diálogo despierta la metacognición."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["El diálogo","Routine"]
 heroImage: "/images/blog/bohr_dialogue_dictation.png"

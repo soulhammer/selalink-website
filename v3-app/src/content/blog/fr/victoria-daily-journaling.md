@@ -1,8 +1,8 @@
 ---
 title: "Le poids de l'empire et la réflexion : L'habitude de journal intime de la reine Victoria"
 description: "La reine Victoria a rédigé 122 volumes de journaux intimes. Découvrez comment l'écriture manuscrite (Expressive Writing) stimule les voies neuronales et réduit le cortisol."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Le poids d","Routine"]
 heroImage: "/images/blog/victoria_daily_journaling.png"

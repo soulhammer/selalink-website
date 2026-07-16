@@ -1,8 +1,8 @@
 ---
 title: "A pista da incerteza na natureza: O hábito de caminhada alpina de Heisenberg"
 description: "Werner Heisenberg caminaba sozinho pelos Alpes bávaros para resolver dilemas de física. Descubra como caminhar em ambientes naturales restaura la atención."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["A pista da","Routine"]
 heroImage: "/images/blog/heisenberg_alpine_hiking.png"

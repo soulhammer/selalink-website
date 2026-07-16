@@ -1,8 +1,8 @@
 ---
 title: "O ápice do fluxo: O hábito de esboços geométricos na areia de Arquimedes"
 description: "Arquímedes desenhava constantemente formas na areia para visualizar suas ideias científicas. Descubra como o esboço visual reduz a carga cognitiva da memória de trabalho e induz a um estado de fluxo profundo."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["O ápice do","Routine"]
 heroImage: "/images/blog/archimedes_sand_geometry.png"

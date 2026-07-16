@@ -1,8 +1,8 @@
 ---
 title: "L'apogée du flow : L'habitude de croquis géométriques sur sable d'Archimède"
 description: "Archimède dessinait constamment des formes sur le sable pour visualiser ses idées scientifiques. Découvrez comment le croquis visuel réduit la charge cognitive de la mémoire de travail et induit un état de concentration intense."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["L'apogée d","Routine"]
 heroImage: "/images/blog/archimedes_sand_geometry.png"

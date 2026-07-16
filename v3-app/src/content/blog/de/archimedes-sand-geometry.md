@@ -1,8 +1,8 @@
 ---
 title: "Der Gipfel des Fokus: Archimedes' Gewohnheit der geometrischen Skizzen im Sand"
 description: "Archimedes zeichnete ständig geometrische Figuren in den Sand, um wissenschaftliche Ideen zu visualisieren. Erfahren Sie, wie visuelle Skizzen die kognitive Belastung des Arbeitsgedächtnisses senken und tiefen Fokus fördern."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Der Gipfel","Routine"]
 heroImage: "/images/blog/archimedes_sand_geometry.png"

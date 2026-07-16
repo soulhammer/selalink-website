@@ -1,8 +1,8 @@
 ---
 title: "平息焦虑的防线：塞雷娜·威廉姆斯的赛前规程习惯"
 description: "在发一球前总是将网球弹跳5次等、彻底坚守赛前规程的塞雷娜·威廉姆斯。研究执行前规程如何阻断外界焦虑刺激、并调节大脑使其进入认知框架状态的原理。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["平息焦虑的防线：塞雷","Routine"]
 heroImage: "/images/blog/serena_match_routine.png"

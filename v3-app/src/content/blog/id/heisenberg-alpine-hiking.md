@@ -1,8 +1,8 @@
 ---
 title: "Petunjuk Ketidakpastian dari Alam: Kebiasaan Hiking Alpine Heisenberg"
 description: "Werner Heisenberg, yang mendaki Pegunungan Alpen Bavaria sendirian untuk memecahkan teka-teki fisika kuantum. Ulas bagaimana berjalan di alam memicu inkubasi kreatif."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Petunjuk K","Routine"]
 heroImage: "/images/blog/heisenberg_alpine_hiking.png"

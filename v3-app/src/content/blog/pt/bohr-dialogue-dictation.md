@@ -1,8 +1,8 @@
 ---
 title: "O diálogo que teceu a física: O hábito de ditado e debate de Niels Bohr"
 description: "Niels Bohr completava os seus artigos de física quântica debatendo verbalmente em vez de escrever sozinho. Descubra como exteriorizar as ideias mediante o diálogo desperta a metacognição."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["O diálogo ","Routine"]
 heroImage: "/images/blog/bohr_dialogue_dictation.png"

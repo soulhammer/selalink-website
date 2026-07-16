@@ -1,8 +1,8 @@
 ---
 title: "管理决策疲劳：马克·扎克伯格的单一工作服习惯"
 description: "通过每天穿同样款式的T恤和牛仔裤这一简单的工作服穿搭来减少决策疲劳的马克·扎克伯格。探讨如何防止作为大脑有限能量资源的“自我损耗(Ego Depletion)”，并将注意力集中在核心决策上的科学原理。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["管理决策疲劳：马克·","Routine"]
 heroImage: "/images/blog/zuckerberg_uniform_minimization.png"

@@ -1,8 +1,8 @@
 ---
 title: "Puncak Alur Fokus: Kebiasaan Sketsa Geometri Pasir Archimedes"
 description: "Archimedes, yang selalu menggambar bentuk di pasir atau lantai untuk memvisualisasikan inspirasi ilmiah. Pelajari bagaimana sketsa visual mengurangi beban kognitif pada memori kerja."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Puncak Alu","Routine"]
 heroImage: "/images/blog/archimedes_sand_geometry.png"

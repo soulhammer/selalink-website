@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "몰입의 극치: 아르키메데스의 모래 기하학 스케치 습관"
 description: "복잡한 과학적 영감을 시각화하기 위해 모래나 바닥에 끊임없이 도형을 그렸던 아르키메데스. 손을 사용하는 시각 스케치가 어떻게 작동 기억의 인지 과부하를 줄이고 초몰입 상태를 유도하는지 연구합니다."
-pubDate: "2026-07-16"
+pubDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["몰입", "사색", "창의성"]
 heroImage: "/images/blog/archimedes_sand_geometry.png"
 app: "buildself"
 authority: "플루타르코스 서한집 대비열전(Life of Marcellus) 역사적 고증 및 인지심리학 작동 기억 분산 인지 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-01-01"
 faqs:
   - question: "그림을 전혀 못 그리는 사람도 이 습관을 활용할 수 있나요?"
     answer: "그렇습니다. 아르키메데스의 스케치 습관은 예술적인 작화 행위가 아닌, 뇌의 생각 구조를 외부 공간에 배치하는 인지적인 작업입니다. 단순히 동그라미를 그리거나, 텍스트에 네모 상자를 치고 화살표로 연결하는 낙서 형태의 시각화만으로도 뇌의 작동 기억의 부담을 크게 덜어주어 집중력 향상에 확실한 효과를 냅니다."

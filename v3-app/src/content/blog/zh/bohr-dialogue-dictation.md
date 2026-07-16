@@ -1,8 +1,8 @@
 ---
 title: "编织物理学的对话：尼尔斯·玻尔的口述讨论习惯"
 description: "并非独自闭门写作、而是通过与他人不断的口述讨论完成量子力学论文的尼尔斯·玻尔。从科学角度阐明将内心思维外化为外部语言如何唤醒元认知能力的原理。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["编织物理学的对话：尼","Routine"]
 heroImage: "/images/blog/bohr_dialogue_dictation.png"

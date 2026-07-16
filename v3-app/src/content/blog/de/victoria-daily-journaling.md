@@ -1,8 +1,8 @@
 ---
 title: "Das Gewicht des Empires und die Reflexion: Königin Victorias tägliche Tagebuch-Routine"
 description: "Königin Victoria verfasste im Laufe ihres Lebens 122 Tagebücher. Erfahren Sie, wie handschriftliches Schreiben (Expressive Writing) Angst abbaut und den Geist strukturiert."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Das Gewich","Routine"]
 heroImage: "/images/blog/victoria_daily_journaling.png"

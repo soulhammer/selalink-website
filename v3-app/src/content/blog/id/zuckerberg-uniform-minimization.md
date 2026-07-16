@@ -1,8 +1,8 @@
 ---
 title: "Mengelola Kelelahan Keputusan: Kebiasaan Seragam Tunggal Mark Zuckerberg"
 description: "Mark Zuckerberg meminimalkan kelelahan keputusan dengan mengenakan kaus abu-abu yang sama setiap hari. Pelajari bagaimana membatasi pilihan rutin mencegah penipisan ego."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Mengelola ","Routine"]
 heroImage: "/images/blog/zuckerberg_uniform_minimization.png"

@@ -1,8 +1,8 @@
 ---
 title: "O peso do império e a reflexão: O hábito diário de escrever um diário da rainha Vitória"
 description: "A rainha Vitória escreveu 122 volumes de diários íntimos. Analisamos como escrever à mão (Expressive Writing) estimula as vias neuronais que reduzem a ansiedade."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["O peso do ","Routine"]
 heroImage: "/images/blog/victoria_daily_journaling.png"

@@ -1,8 +1,8 @@
 ---
 title: "Soul Behind Makeup: Marilyn Monroe's Nightly Reading and Reflection Habit"
 description: "Marilyn Monroe, an avid book lover who held 400 volumes of books behind her public sex symbol image. Learn how nightly literary reading and writing reduced stress hormones and preserved self-identity."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Great Habits","monroe","Routine","Stamina"]
 heroImage: "/images/blog/monroe_night_reading.png"

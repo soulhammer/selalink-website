@@ -1,8 +1,8 @@
 ---
 title: "Kognitiver Reset: Max Plancks Gewohnheit der Klavierimprovisation"
 description: "Max Planck spielte Klavier, um nach der Physikarbeit den Geist zu entspannen. Erfahren Sie, wie kreative Aktivierung logische Müdigkeit durch 'kognitiven Wechsel' abbaut."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Kognitiver","Routine"]
 heroImage: "/images/blog/planck_piano_refresh.png"

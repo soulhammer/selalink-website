@@ -1,8 +1,8 @@
 ---
 title: "Cognitive Reset: Max Planck's Piano Improvisation Habit"
 description: "Max Planck, who played the piano and improvised to refresh himself after physics research. Learn how artistic activation clears logical fatigue via 'cross-cognitive refresh.'"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Great Habits","planck","Routine","Stamina"]
 heroImage: "/images/blog/planck_piano_refresh.png"

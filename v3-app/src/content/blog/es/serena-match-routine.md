@@ -1,8 +1,8 @@
 ---
 title: "El saque que calma la ansiedad: El hábito de rutina previa al partido de Serena Williams"
 description: "Serena Williams rebotaba la pelota exactamente 5 veces antes de su primer saque. Descubra cómo la rutina previa (PPR) bloquea el estrés externo y prepara al cerebro para el máximo rendimiento."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["El saque q","Routine"]
 heroImage: "/images/blog/serena_match_routine.png"

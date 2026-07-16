@@ -1,8 +1,8 @@
 ---
 title: "Beban Kekaisaran dan Refleksi: Kebiasaan Menulis Buku Harian Ratu Victoria"
 description: "Ratu Victoria menulis 122 volume buku harian sepanjang hidupnya. Ulas bagaimana menulis dengan tangan menurunkan stres dan menenangkan pikiran."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Beban Keka","Routine"]
 heroImage: "/images/blog/victoria_daily_journaling.png"

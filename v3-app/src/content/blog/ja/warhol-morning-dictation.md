@@ -1,8 +1,8 @@
 ---
 title: "創作の白紙化：アンディ・ウォーホルの毎朝の口頭日記習慣"
 description: "秘書に電話で昨日のスケジュールや細かい支出を口頭で記録させたアンディ・ウォーホル。毎朝の口頭日記出力が認知の過負荷を解消し、注意力領域を初期化する科学的メカニズムを明らかにします。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["創作の白紙化：アンデ","Routine"]
 heroImage: "/images/blog/warhol_morning_dictation.png"

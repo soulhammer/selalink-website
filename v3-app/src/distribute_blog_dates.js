@@ -6,16 +6,16 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const targetSlugs = [
-  'yiyi-self-warning',
-  'anchangho-mirror-smile',
-  'kimgu-brush-meditation',
-  'saimdang-nature-observation',
-  'leejungseob-tin-foil-drawing',
-  'ieyasu-herb-grinding',
-  'soseki-forced-writing',
-  'kurosawa-page-writing',
-  'matsushita-bath-reflection',
-  'rikyu-garden-sweeping'
+  'archimedes-sand-geometry',
+  'bohr-dialogue-dictation',
+  'heisenberg-alpine-hiking',
+  'luther-lute-meditation',
+  'monroe-night-reading',
+  'planck-piano-refresh',
+  'serena-match-routine',
+  'victoria-daily-journaling',
+  'warhol-morning-dictation',
+  'zuckerberg-uniform-minimization'
 ];
 
 // 2026-01-01 ~ 2026-07-16

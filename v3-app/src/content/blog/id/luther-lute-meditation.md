@@ -1,8 +1,8 @@
 ---
 title: "Getaran Penyelaras Pikiran: Kebiasaan Bermain Lute Pagi Martin Luther"
 description: "Martin Luther, yang bermain lute dan bermeditasi setiap pagi di bawah tekanan Reformasi. Ulas bagaimana bermain musik menurunkan ketegangan saraf."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Getaran Pe","Routine"]
 heroImage: "/images/blog/luther_lute_meditation.png"

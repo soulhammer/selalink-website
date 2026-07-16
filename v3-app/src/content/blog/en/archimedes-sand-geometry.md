@@ -1,8 +1,8 @@
 ---
 title: "The Peak of Flow: Archimedes' Sand Geometry Sketch Habit"
 description: "Archimedes, who constantly drew shapes on sand or floors to visualize complex scientific inspiration. Learn how hand-drawn visual sketching reduces cognitive load on working memory and induces deep flow."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Great Habits","archimedes","Routine","Stamina"]
 heroImage: "/images/blog/archimedes_sand_geometry.png"

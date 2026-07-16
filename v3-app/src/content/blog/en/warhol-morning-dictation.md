@@ -1,8 +1,8 @@
 ---
 title: "Blanking the Creative Canvas: Andy Warhol's Morning Oral Journaling Habit"
 description: "Andy Warhol, who recorded yesterday's schedule and expenditures by calling his secretary. Learn the scientific mechanism of how morning verbal output cleared cognitive overload and reset attention."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Great Habits","warhol","Routine","Stamina"]
 heroImage: "/images/blog/warhol_morning_dictation.png"

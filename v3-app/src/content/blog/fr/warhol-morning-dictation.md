@@ -1,8 +1,8 @@
 ---
 title: "Feuille blanche pour la création : L'habitude de journal dicté matinal d'Andy Warhol"
 description: "Andy Warhol appelait sa secrétaire chaque matin pour lui dicter ses dépenses et activités. Découvrez comment verbaliser la mémoire de travail libère la charge cognitive (Cognitive Offloading)."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Feuille bl","Routine"]
 heroImage: "/images/blog/warhol_morning_dictation.png"

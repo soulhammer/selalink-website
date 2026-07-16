@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "화장 뒤의 영혼: 마릴린 먼로의 매일 밤 독서와 성찰 습관"
 description: "대중의 섹시 심벌 뒤에 400여 권의 장서를 지닌 애서가였던 마릴린 먼로. 매일 밤의 문학 독서와 일기 작성이 스트레스 호르몬을 줄이고 자아 정체성을 보존한 과학적 원리를 규명합니다."
-pubDate: "2026-07-16"
+pubDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["독서", "성찰", "휴식"]
 heroImage: "/images/blog/monroe_night_reading.png"
 app: "buildself"
 authority: "마릴린 먼로 서한·시집 『Fragments』 역사적 고증 및 서섹스 대학교 독서 스트레스 완화 인지치료 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-03-14"
 faqs:
   - question: "자기 전 독서가 뇌를 자극하여 수면에 방해되지는 않나요?"
     answer: "블루라이트가 나오는 스마트폰 대신 종이책을 읽되, 소설보다는 인문학, 시집, 정적인 에세이 등의 도서를 은은한 간접 조명 아래서 가볍게 읽는 것이 알파파를 유도하여 숙면에 도움을 줍니다."

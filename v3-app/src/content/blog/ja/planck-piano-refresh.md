@@ -1,8 +1,8 @@
 ---
 title: "脳の認知リセット：マックス・プランクのピアノ即興演奏習慣"
 description: "物理学の研究後、ピアノの鍵盤を思いのままに叩いて即興演奏で気分転換したマックス・プランク。芸術的な活性化が論理領域の疲労を洗い流す「交差認知リフレッシュ」の原理を研究します。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["脳の認知リセット：マ","Routine"]
 heroImage: "/images/blog/planck_piano_refresh.png"
