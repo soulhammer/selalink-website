@@ -1,0 +1,192 @@
+{
+  "yihwang-hwalinsimbang-exercise": {
+    "title": {
+      "ko": "선비의 아침 양생: 퇴계 이황의 활인심방 체조",
+      "en": "Scholar's Morning Health Preservation: Yi Hwang's Hwalinsimbang Exercise",
+      "ja": "士大夫の朝の養生：退渓・李滉（イ・ファン）の活人心方体操",
+      "zh": "士大夫的晨间养生：退溪李滉的活人心方体操",
+      "es": "Preservación de la salud matutina del erudito: El ejercicio Hwalinsimbang de Yi Hwang",
+      "fr": "Préservation de la santé matinale du lettré : L'exercice Hwalinsimbang de Yi Hwang",
+      "de": "Morgendliche Gesundheitspflege des Gelehrten: Yi Hwangs Hwalinsimbang-Übung",
+      "pt": "Preservação da saúde matinal do erudito: O exercício Hwalinsimbang de Yi Hwang",
+      "id": "Pemeliharaan Kesehatan Pagi Sang Cendekiawan: Senam Hwalinsimbang Yi Hwang"
+    },
+    "description": {
+      "ko": "평생 병약했으나 매일 아침 도인법과 호흡 조절을 통해 일흔까지 학문을 닦았던 퇴계 이황. 저강도 신체 조율과 심호흡이 부교감 신경계를 깨우고 차분한 각성을 유도하는 생리적 기전을 살펴봅니다.",
+      "en": "Yi Hwang, who was frail but studied until seventy through morning exercises and breathing. Explore the physiological mechanism of how low-intensity movements and deep breathing awaken the parasympathetic nervous system and induce calm alertness.",
+      "ja": "生涯病弱であったが、毎朝の導引法と呼吸調節を通じて七十歳まで学問を修めた退渓・李滉（イ・ファン）。低強度の身体調整と深呼吸が副交感神経系を目覚めさせ、穏やかな覚醒を誘導する生理的メカニズムを探ります。",
+      "zh": "终生体弱多病却通过每天清晨的导引法与呼吸调理、进修学术至七十高龄的退溪李滉。探讨低强度身体调理和深呼吸如何唤醒副交感神经系统并诱导冷静觉醒的生理机制。",
+      "es": "El erudito Yi Hwang, de salud débil pero que estudió hasta los setenta mediante ejercicio suave y respiración. Analizamos cómo el estiramiento y la respiración profunda activan el sistema nervioso parasimpático.",
+      "fr": "Le lettré Yi Hwang, à la santé fragile mais qui étudia jusqu'à soixante-dix ans grâce à l'exercice doux. Découvrez comment les étirements et la respiration profonde activent le système parasympathique.",
+      "de": "Gelehrter Yi Hwang war kränklich, forschte aber dank Gymnastik und Atemübungen bis ins hohe Alter. Erfahren Sie, wie Dehnübungen und tiefes Atmen das parasympathische Nervensystem aktivieren und Gelassenheit schenken.",
+      "pt": "O erudito Yi Hwang, de saúde fraca mas que estudou até os setenta anos mediante exercício suave e respiração. Analisamos como o alongamento e a respiração profunda ativam o sistema nervoso parassimpático.",
+      "id": "Cendekiawan Yi Hwang, yang fisiknya lemah namun tetap belajar hingga usia 70 tahun berkat senam pagi dan pernapasan. Ulas bagaimana senam ringan merangsang saraf parasimpati."
+    },
+    "authority": {
+      "ko": "이황 편필 저술 『활인심방(活人心方)』 의학 양생서 고증 및 임상의학저널(Journal of Clinical Medicine) 저강도 신체 자극과 부교감 신경 연구",
+      "en": "Yi Hwang's 'Hwalinsimbang' and Journal of Clinical Medicine Research on Low-intensity Body Stimulation and Parasympathetic Activation",
+      "ja": "李滉（イ・ファン）著『活人心方』医学養生書考証および臨床医学ジャーナル（Journal of Clinical Medicine）低強度身体刺激と副交感神経研究",
+      "zh": "李滉著《活人心方》医学养生书考证及《临床医学杂志》(Journal of Clinical Medicine)关于低强度身体刺激与副交感神经的研究",
+      "es": "Autenticación del tratado de salud de Yi Hwang 'Hwalinsimbang' e investigación del Journal of Clinical Medicine sobre la estimulación de baja intensidad y la activación parasimpática",
+      "fr": "Récit du traité de santé de Yi Hwang 'Hwalinsimbang' et recherche du Journal of Clinical Medicine sur la stimulation de faible intensité et l'activation parasympathique",
+      "de": "Historische Belege aus Yi Hwangs 'Hwalinsimbang' und Journal of Clinical Medicine-Forschung zu sanfter Bewegung und Parasympathikus-Aktivierung",
+      "pt": "Autenticação do tratado de saúde de Yi Hwang 'Hwalinsimbang' e pesquisa do Journal of Clinical Medicine sobre a estimulação de baixa intensidade e a ativação parassimpática",
+      "id": "Arsip Naskah Yi Hwang 'Hwalinsimbang' dan Penelitian Journal of Clinical Medicine tentang Senam Ringan & Saraf Parasimpatik"
+    },
+    "intro": {
+      "ko": "조선 성리학의 거장이자 한국 화폐 천 원권의 주인공인 퇴계 이황. 학자로서 평생 온화하고 깊은 학문적 성취를 이루었던 그는 사실 평생 결핵과 위장병 등 여러 고질병에 시달린 극도로 병약한 체질이었습니다. 그가 건강을 보존하며 예리한 지성을 유지하기 위해 아침마다 수행한 비밀은 바로 《활인심방(活人心方)》 체조였습니다. 그는 매일 새벽 일찍 일어나 침상 위에 단정히 앉아 몸을 이리저리 굽히고 푸는 24개 도인 동작을 행하고 호흡을 정돈했습니다. 뇌과학적으로 이 고전적인 아침 도인법이 어떻게 아침의 호르몬 스파이크를 제어하고 차분한 고도의 평정 각성을 선물하는지 밝혀냅니다.",
+      "en": "The giant of Korean Neo-Confucianism, Yi Hwang. Though he achieved deep academic standards, he was frail, suffering from chronic stomach illnesses throughout his life. The secret he practiced every morning to preserve his health and sharp intellect was the Hwalinsimbang exercise. Waking up early at dawn, he sat straight on his bed to perform 24 stretching movements and regulate his breath. Let's reveal how this classic morning routine controls morning hormone spikes and brings calm alertness.",
+      "ja": "朝鮮性理学の巨頭であり、韓国の紙幣千ウォン札の主人公である退渓・李滉（イ・ファン）。学者として生涯温和で深い学問的成就を成し遂げた彼は、実は生涯にわたり胃臓障害などの持病に苦しめられた、極めて病弱な体質でした。彼が健康を保ち、鋭い知性を維持するために毎朝行った秘密は、まさに『活人心方（ファリンシムバン）』体操でした。彼は毎日早朝に起き、寝床の上に端正に座って体を曲げたり伸ばしたりする導引動作を行い、呼吸を整えました。脳科学的に、この古典的な朝の導引法が早朝のホルモンスパイクをコントロールし、落ち着いた高度の平穏な覚醒をもたらすメカニズムを明らかにします。",
+      "zh": "朝鲜性理学的巨擘、韩币千元面值主角的退溪李滉。作为学者取得了温和且深厚的学术成就的他，其实一生都饱受胃病等慢性顽疾折磨、体质极度虚弱。他为了保全健康并维持敏锐智力而在每天清晨践行的秘密，正是《活人心方》体操。他每天凌晨早早起床，端正坐在床榻上，进行活动躯体的导引动作，理顺呼吸。我们从脑科学角度阐明，这种传统的晨间导引法是如何调控早晨皮质醇激素波动并带来沉着的高水平冷静觉醒状态的。",
+      "es": "Yi Hwang, el gran filósofo confuciano coreano. A pesar de su frágil salud, logró una vida intelectual plena hasta los setenta años gracias a una rutina secreta: el método de salud Hwalinsimbang. Al despertar, realizaba estiramientos suaves y controlaba su respiración. Analicemos cómo este ritual equilibra la respuesta al estrés matutina, regulando el cortisol y activando el sistema parasimpático.",
+      "fr": "Yi Hwang, le grand philosophe confucianiste coréen. Malgré sa santé fragile, il mena une vie intellectuelle riche jusqu'à soixante-dix ans grâce à une routine : le Hwalinsimbang. Au réveil, il réalisait des étirements doux et contrôlait sa respiration. Voyons comment ce rituel équilibre la réponse au stress matinal, régule le cortisol et active le système parasympathique.",
+      "de": "Yi Hwang, der große neo-konfuzianische Denker Koreas. Trotz seiner schwachen Gesundheit arbeitete er bis ins hohe Alter dank seiner morgendlichen Routine: der Hwalinsimbang-Übung. Nach dem Erwachen führte er Dehnungen aus und regulierte den Atem. Erfahren Sie, wie dieses Ritual die morgendliche Cortisolausschüttung dämpft, den Parasympathikus aktiviert und den Geist klärt.",
+      "pt": "Yi Hwang, o grande filósofo confuciano coreano. Apesar de sua frágil saúde, alcançou uma vida intelectual plena até os setenta anos graças a uma rotina secreta: o método de saúde Hwalinsimbang. Ao acordar, realizava alongamentos suaves e controlava sua respiração. Analisemos como este ritual equilibra a resposta ao estresse matinal, regulando o cortisol e ativando o sistema parassimpático.",
+      "id": "Yi Hwang, tokoh Konfusianisme Korea terkemuka. Meskipun fisiknya lemah dan sering sakit, ia mampu menjaga ketajaman berpikirnya hingga usia lanjut berkat latihan rahasia: senam Hwalinsimbang. Segera setelah bangun tidur, ia melakukan senam peregangan ringan dan mengatur napas. Ulas bagaimana latihan ini meredam lonjakan kortisol dan merangsang saraf parasimpatik."
+    },
+    "whyTitle": {
+      "ko": "저강도 도인 체조와 호흡 조절이 자율신경계 평정을 유도하는 원리",
+      "en": "How Low-Intensity Exercise and Breath Regulation Induce Autonomic Nervous System Calmness",
+      "ja": "低強度の導引体操と呼吸調節が自律神経系の平穏を誘導する原理",
+      "zh": "低强度导引体操与呼吸调理诱导自律神经系统平复的原理",
+      "es": "Cómo el ejercicio de baja intensidad y la respiración regulada equilibran el sistema nervioso autónomo",
+      "fr": "Comment l'exercice doux et la respiration régulée équilibrent le système nerveux autonome",
+      "de": "Wie sanfte Bewegung und kontrollierte Atmung das vegetative Nervensystem harmonisieren",
+      "pt": "Como o exercício de baixa intensidade e a respiração regulada equilibram o sistema nervoso autônomo",
+      "id": "Sains di Balik Senam Ringan: Penyelarasan Sistem Saraf Otonom Lewat Pengaturan Napas"
+    },
+    "whyDesc": {
+      "ko": "잠에서 깨어난 직후 인간의 신체는 활동 상태로 전환하기 위해 코르티솔 수치가 급증(Cortisol Awakening Response)하며 일시적인 맥박 상승과 불안이 생길 수 있습니다. 이 시점에 억지 각성을 유도하는 과격한 활동을 하거나 자극적인 디지털 미디어를 마주하면 뇌의 불안 회로가 과활성화됩니다. 반면 이황 선생의 활인심방처럼 부드러운 스트레칭과 길게 내뱉는 복식 호흡을 결합하면 미주신경이 자극되고 부교감 신경계가 각성되어 심박동 변이도(HRV)가 안정되며, 뇌가 가장 이성적이고 차분한 몰입 준비 상태를 확립하게 됩니다.",
+      "en": "Immediately after waking up, the human body experiences a spike in cortisol levels (Cortisol Awakening Response) to transition to an active state, which can cause temporary pulse elevation and anxiety. Facing aggressive activities or digital media at this point over-activates the brain's anxiety circuits. Conversely, combining gentle stretching and prolonged abdominal exhalations, like Yi Hwang's Hwalinsimbang, stimulates the vagus nerve and activates the parasympathetic nervous system, stabilizing heart rate variability (HRV) and establishing the brain's most rational, calm state of focus readiness.",
+      "ja": "目覚めた直後、人間の身体は活動状態へ移行するためにコルチゾール値が急増（Cortisol Awakening Response）し、一時的な脈拍の上昇や不安が生じることがあります。この時に無理な覚醒を促す過激な活動を行ったり、刺激的なデジタルメディアに触れると、脳の不安回路が過剰に活性化します。一方、李滉先生の活人心方のように、穏やかなストレッチと長く吐き出す腹式呼吸を組み合わせると、迷走神経が刺激されて副交感神経系が覚醒し、心拍変動（HRV）が安定して、脳が最も理性的で落ち着いた没頭準備状態を確立します。",
+      "zh": "刚醒来后，人体为了过渡到活动状态，皮质醇水平会急剧升高（Cortisol Awakening Response），从而可能产生一时的脉搏上升与焦虑。在此刻如果进行诱导强行觉醒的过激活动或接触刺激性的数字媒体，大脑的焦虑回路就会过度激活。相反，如果像李滉先生的《活人心方》那样将柔和的拉伸与长吐气的腹式呼吸相结合，就会刺激迷走神经，唤醒副交感神经系统，使心率变异性（HRV）趋于稳定，从而让大脑确立起最理性、最沉着的专注准备状态。",
+      "es": "Al despertar, el cuerpo experimenta un aumento de cortisol (respuesta de despertar del cortisol) para activarse, lo que puede causar taquicardia o ansiedad leve. Enfrentar actividades intensas o notificaciones de inmediato hiperactiva los circuitos de alerta. En cambio, realizar estiramientos suaves combinados con exhalaciones largas, como en el Hwalinsimbang, estimula el nervio vago y el sistema parasimpático, estabilizando la variabilidad del ritmo cardíaco (HRV) y disponiendo al cerebro para un foco calmado.",
+      "fr": "Au réveil, le corps subit une hausse de cortisol pour s'activer, ce qui peut créer de l'anxiété. Commencer par des tâches intenses ou regarder son téléphone suractive les circuits d'alerte. En revanche, pratiquer des étirements doux associés à des expirations lentes, comme le Hwalinsimbang, stimule le nerf vague et le système parasympathique, stabilisant le rythme cardiaque (HRV) et préparant l'esprit à la concentration.",
+      "de": "Direkt nach dem Aufwachen steigt der Cortisolspiegel stark an (Cortisol-Aufwachreaktion), was zu Unruhe führen kann. Stressige Aktivitäten oder digitale Medien überfordern in dieser Phase das Gehirn. Sanfte Dehnungen kombiniert mit tiefer Bauchatmung stimulieren hingegen den Vagusnerv und den Parasympathikus. Dies stabilisiert die Herzratenvariabilität (HRV) und versetzt das Gehirn in einen gelassenen Zustand der Aufnahmebereitschaft.",
+      "pt": "Ao acordar, o corpo experimenta um aumento de cortisol para ativar-se, o que pode causar taquicardia ou ansiedade leve. Enfrentar atividades intensas ou notificações de imediato hiperativa os circuitos de alerta. Em vez disso, realizar alongamentos suaves combinados com expirações longas, como no Hwalinsimbang, estimula o nervo vago e o sistema parassimpático, estabilizando a variabilidade do ritmo cardíaco (HRV) e dispondo o cérebro para um foco calmo.",
+      "id": "Segera setelah bangun tidur, tubuh mengalami lonjakan kortisol alami untuk beralih ke mode aktif, yang terkadang memicu detak jantung cepat dan kecemasan ringan. Melakukan aktivitas berat atau langsung membuka gawai saat ini akan membuat otak stres. Senam ringan dan napas perut lambat merangsang saraf vagus dan parasimpatik, menstabilkan variabilitas detak jantung (HRV) untuk mode fokus yang tenang."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "잠에서 깨어난 아침에는 몸의 척수 뼈와 근육 섬유가 매우 뻣뻣한 상태입니다. 이 상태에서 강한 충격이나 유연성을 과시하는 과도한 기계적 요가 동작을 억지로 시도하면 척추 신경 디스크 손상과 심각한 부상을 유발합니다. 따라서 아침 도인법은 반동 없이 부드럽게 관절을 여는 수준으로 제한하고, 고통이 느껴지지 않는 가동 범위 안에서 묵묵히 호흡에만 집중하며 시행해야 안전한 생리적 효과를 얻을 수 있습니다.",
+      "en": "Spine bones and muscle fibers are highly stiff immediately after waking up. Forcing high-impact or excessive yoga movements that test your limits can cause disc damage. Restrict your morning exercise to gentle joint-opening without bouncing, and execute within pain-free ranges focusing solely on breathing to gain safe physiological benefits.",
+      "ja": "目覚めた直後の朝は、背骨や筋肉の繊維が非常に硬くなっています。この状態で強い衝撃を与えたり、柔軟性を過度に示すような無理なヨガのポーズを強行すると、脊椎神経ディスクの損傷や深刻な怪我を招きます。したがって、朝の導引法は反動をつけずに優しく関節を動かすレベルに留め、痛みを感じない可動範囲の中でひたすら呼吸に集中して行うことが、安全で生理的な効果を得るために重要です。",
+      "zh": "刚醒来的清晨，身体的脊椎骨骼与肌肉纤维处于非常僵硬的状态。在此状态下如果强行尝试高冲击力或炫耀柔韧性的过度机械瑜伽动作，会引发脊椎神经椎间盘受损和严重受伤。因此，清晨导引法应限制在无反弹晃动、温和活动关节的水平，并在无痛感的活动范围内默默专注于呼吸来进行，这样才能安全地获得生理益处。",
+      "es": "Por la mañana, las articulaciones y los discos espinales están rígidos. Forzar posturas complejas de yoga o hacer movimientos bruscos puede lesionar la columna. Limite la rutina a estiramientos suaves y fluidos, manteniéndose siempre dentro de un rango sin dolor y priorizando el flujo respiratorio lento.",
+      "fr": "Au réveil, les articulations et la colonne vertébrale sont rigides. Forcer des postures complexes de yoga ou faire des mouvements brusques peut blesser le dos. Limitez la routine à des étirements doux et fluides, sans forcer et en restant attentif au souffle.",
+      "de": "Nach dem Aufstehen sind Wirbelsäule und Muskeln steif. Zu intensive Dehnungen können die Bandscheiben schädigen. Halten Sie die morgendliche Routine sanft und schmerzfrei. Konzentrieren Sie sich rein auf das Dehnen und Atmen, um den Körper sicher zu aktivieren.",
+      "pt": "Pela manhã, as articulações e os discos espinhais estão rígidos. Forçar posturas complexas de ioga ou fazer movimentos bruscos pode lesionar a coluna. Limite a rotina a alongamentos suaves e fluídos, mantendo-se sempre dentro de um limite sem dor e priorizando o fluxo respiratório lento.",
+      "id": "Di pagi hari setelah bangun tidur, tulang belakang dan serat otot sangat kaku. Memaksakan gerakan yoga yang rumit atau hentakan keras dapat mencederai bantalan sendi. Batasi senam subuh hanya pada peregangan sendi yang lembut tanpa memantul, dan lakukan tanpa memaksakan diri."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "침상 정좌와 자세 정돈",
+          "en": "Sitting Straight and Posture Alignment",
+          "ja": "寝床の上での正座と姿勢の整理",
+          "zh": "床榻静坐与姿势理顺",
+          "es": "Sentarse erguido en la cama o mat",
+          "fr": "S'asseoir bien droit sur le lit ou au sol",
+          "de": "Aufrechter Sitz und Haltungskontrolle",
+          "pt": "Sentar-se ereto na cama ou colchonete",
+          "id": "Duduk Tegak dan Atur Posisi Tubuh"
+        },
+        "text": {
+          "ko": "아침 기상 후 이불을 정돈하고 매트 위에 가부좌(혹은 편안한 정좌)를 틀고 척추를 바로 세워 앉은 뒤 가만히 호흡을 고릅니다.",
+          "en": "Align your bedding after waking up, sit cross-legged (or in a comfortable straight posture) on a mat, raise your spine, and breathe quietly.",
+          "ja": "朝の起床後、布団を整えてマットの上に結跏趺坐（または楽な正座）で座り、背すじを真っ直ぐ伸ばして静かに呼吸を整えます.",
+          "zh": "清晨起床后整理好被褥，在垫子上结跏趺坐（或以舒服的姿势静坐），挺直脊椎坐好，静静地理顺呼吸。",
+          "es": "Al despertar, ordene la cama, siéntese con las piernas cruzadas o en una postura cómoda, estire la columna y respire con tranquilidad.",
+          "fr": "Au réveil, faites votre lit, asseyez-vous en tailleur ou dans une posture confortable, étirez votre colonne et respirez calmement.",
+          "de": "Richten Sie nach dem Aufwachen das Bett, setzen Sie sich in einen bequemen Schneidersitz, strecken Sie die Wirbelsäule und atmen Sie ruhig durch.",
+          "pt": "Ao acordar, arrume a cama, sente-se com as pernas cruzadas ou em uma postura confortável, estique a coluna e respire com tranquilidade.",
+          "id": "Rapikan tempat tidur setelah bangun, duduklah bersila (atau posisi duduk tegak yang nyaman) di atas matras, tegakkan punggung, dan atur napas."
+        }
+      },
+      {
+        "name": {
+          "ko": "24개 도인 스트레칭법 실행",
+          "en": "Executing Hwalinsimbang Inversion Stretching",
+          "ja": "24の導引ストレッチ法の実行",
+          "zh": "进行导引拉伸动作",
+          "es": "Realizar los estiramientos suaves de articulaciones",
+          "fr": "Pratiquez des étirements doux des articulations",
+          "de": "Ausführung sanfter Dehnübungen für die Gelenke",
+          "pt": "Realizar os alongamentos suaves de articulações",
+          "id": "Melakukan Senam Peregangan Sendi Ringan"
+        },
+        "text": {
+          "ko": "목과 허리를 좌우로 비틀기, 기지개 켜기, 이빨 마주치기 등 반동이 없는 부드러운 저강도 동작으로 온몸의 관절을 자극해 순환을 돕습니다.",
+          "en": "Stimulate joints to aid circulation with gentle, low-intensity movements without bouncing, such as twisting neck and waist, stretching, or teeth clacking.",
+          "ja": "首と腰を左右にひねる、体を伸ばす、歯を噛み合わせる（叩歯）など、反動のない緩やかな低強度の動作で全身の関節を刺激し、巡りを促します.",
+          "zh": "通过左右扭转颈部和腰部、伸懒腰、叩齿（叩齿法）等无反弹力道的温和低强度动作，刺激全身关节，促进血液循环。",
+          "es": "Realice rotaciones suaves de cuello y torso, estiramientos y movimientos sin rebotes para lubricar las articulaciones y favorecer la circulación.",
+          "fr": "Pratiquez des rotations douces du cou et du buste, des étirements et des gestes sans à-coups pour mobiliser les articulations et stimuler la circulation.",
+          "de": "Dehnen Sie Nacken und Hüfte, strecken Sie sich und bewegen Sie die Gelenke ohne Rucken, um den Blutkreislauf anzuregen.",
+          "pt": "Realize rotações suaves de pescoço e tronco, alongamentos e movimentos sem rebotes para lubrificar as articulações e favorecer a circulação.",
+          "id": "Putar leher dan pinggang ke kiri-kanan secara perlahan, regangkan tangan, dan lakukan gerakan tanpa entakan untuk melancarkan sirkulasi darah."
+        }
+      },
+      {
+        "name": {
+          "ko": "육자결 호흡법을 통한 심폐 조율",
+          "en": "Cardiorespiratory Tuning Through Deep Exhalations",
+          "ja": "六字訣（ろくじけつ）呼吸法による心肺の同調",
+          "zh": "通过深呼气调理心肺",
+          "es": "Respiración profunda y exhalaciones lentas",
+          "fr": "Respiration profonde et expirations lentes",
+          "de": "Tiefe Bauchatmung und langsames Ausatmen",
+          "pt": "Respiração profunda e expirações lentas",
+          "id": "Mengatur Pernapasan Perut Lambat"
+        },
+        "text": {
+          "ko": "코로 맑은 산소를 들이마신 뒤, 아랫배를 집어넣으며 입으로 숨을 길고 조용히 소리 내어 내뱉는 복식 심호흡을 10회 행하여 부교감신경을 각성시킵니다.",
+          "en": "Inhale fresh oxygen through the nose. Engage in 10 deep abdominal breaths, exhalation long and quiet through the mouth to activate the parasympathetic nervous system.",
+          "ja": "鼻から清浄な酸素を吸い込み、下腹部をへこませながら口から息を長く静かに吐き出す腹式深呼吸を10回行い、副交感神経を覚醒させます.",
+          "zh": "从鼻腔吸入清新氧气，缩下腹的同时用口细长且安静地呼气，进行10次腹式深呼吸，以此唤醒副交感神经。",
+          "es": "Inhale aire por la nariz y realice 10 respiraciones abdominales profundas, soltando el aire por la boca lentamente para activar el parasimpático.",
+          "fr": "Inspirez par le nez et faites 10 respirations abdominales profondes, en expirant par la bouche lentement pour activer le système parasympathique.",
+          "de": "Atmen Sie durch die Nase ein. Führen Sie 10 tiefe Bauchatmungen aus und atmen Sie langsam durch den Mund aus, um den Parasympathikus zu aktivieren.",
+          "pt": "Inale ar pelo nariz e realize 10 respirações abdominais profundas, soltando o ar pela boca lentamente para ativar o parassimpático.",
+          "id": "Tarik napas dalam melalui hidung. Lakukan 10 kali napas perut dengan membuang napas perlahan lewat mulut untuk merangsang saraf parasimpatik."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "전체 활인심방 체조를 다 배우기 어려운데 필수 핵심 동작은 무엇인가요?",
+          "en": "What are the essential core movements if it is hard to learn the entire Hwalinsimbang?",
+          "ja": "活人心方のすべての動作を学ぶのは難しいのですが、必須の核心動作は何ですか？",
+          "zh": "学习完整的《活人心方》动作很困难，请问必做的核心动作是什么？",
+          "es": "¿Cuáles son los movimientos clave si no puedo aprender el método completo?",
+          "fr": "Quels sont les gestes essentiels si je ne peux pas apprendre la méthode complète ?",
+          "de": "Was sind die wichtigsten Kernübungen, wenn man nicht alles lernen kann?",
+          "pt": "Quais são os movimentos-chave se não puder aprender o método completo?",
+          "id": "Apa gerakan inti yang paling penting jika sulit mempelajari seluruh senam Hwalinsimbang?"
+        },
+        "answer": {
+          "ko": "전체 동작을 수행하기 어렵다면 두 가지만 기억하십시오. 첫째는 아침 기상 시 손바닥을 비벼 열을 낸 뒤 얼굴을 마사지하는 것입니다. 둘째는 침대에 편안히 앉아 허리를 곧게 펴고, 코로 숨을 깊게 마신 뒤 입으로 약 10초에 걸쳐 길고 고요하게 내쉬는 심호흡(육자결의 기본 호흡)입니다. 이 두 가지만으로도 부교감신경의 기상 스파이크를 최적으로 유도할 수 있습니다.",
+          "en": "If it is hard to perform all actions, remember just two. First, rub your palms after waking up to generate heat, and massage your face. Second, sit comfortably on your bed, straighten your back, inhale deeply through the nose, and exhale quietly through the mouth for about 10 seconds. These two are enough to optimize the parasympathetic wake-up response.",
+          "ja": "すべての動作を行うのが難しい場合は、二つだけ覚えてください。一つ目は、朝起きた時に手のひらをこすり合わせて熱を出し、顔をマッサージすることです。二つ目は、ベッドに楽に座って背筋を伸ばし、鼻から深く吸い、口から約10秒かけて長く静かに吐き出す深呼吸（六字訣の基本呼吸）です。この二つだけでも、副交感神経の良好な覚醒反応を十分に引き出すことができます.",
+          "zh": "如果难以完成全部动作，请牢记以下两点即可。第一，早晨起床后双手对搓发热，然后抚摩面部。第二，舒服地坐在床上并挺直腰杆，用鼻腔深吸气，再用口细长静寂地呼气约10秒（即六字诀基本呼吸法）。仅凭这两点，便已能极佳地诱导副交感神经的觉醒反应。",
+          "es": "Si no puede hacer la rutina entera, concéntrese en dos gestos: primero, frote sus palmas para generar calor y dé un masaje suave a su rostro. Segundo, siéntese con la espalda recta, inhale por la nariz y exhale lentamente por la boca durante 10 segundos. Esto basta para regular la respuesta al estrés.",
+          "fr": "Si vous ne pouvez pas tout faire, retenez deux gestes : frottez vos mains pour créer de la chaleur et massez votre visage. Ensuite, asseyez-vous droit, inspirez par le nez et expirez lentement par la bouche pendant 10 secondes. Cela suffit à réguler le stress.",
+          "de": "Wenn Sie nicht alle Übungen schaffen, merken Sie sich zwei Schritte: Erstens, reiben Sie die Handflächen warm und massieren Sie das Gesicht. Zweitens, setzen Sie sich aufrecht hin, atmen Sie tief durch die Nase ein und atmen Sie 10 Sekunden lang ruhig durch den Mund aus. Das reguliert die Aufwachreaktion bereits.",
+          "pt": "Se não puder fazer a rotina inteira, concentre-se em dois gestos: primeiro, esfregue as palmas para gerar calor e massageie o rosto. Segundo, sente-se com as costas eretas, inale pelo nariz e expire lentamente pela boca por 10 segundos. Isto basta para regular a resposta ao estresse.",
+          "id": "Jika sulit menghafal seluruh gerakan, cukup lakukan 2 hal: Pertama, gosok kedua telapak tangan hingga hangat lalu usapkan ke wajah Anda. Kedua, duduk tegak di atas kasur, hirup napas dalam-dalam lewat hidung, lalu embuskan napas secara perlahan lewat mulut selama 10 detik."
+        }
+      }
+    ]
+  }
+}

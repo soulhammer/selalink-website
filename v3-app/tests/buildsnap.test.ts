@@ -92,8 +92,8 @@ describe('BuildSnap 실제 위인 데이터 86종 매칭 정합성 검증', () =
       }
     }
 
-    // 전수 조사 결과 매칭 대상 목록에 모든 위인(166명)이 포함되어 있는지 확인
-    expect(realHabits.length).toBe(166);
+    // 전수 조사 결과 매칭 대상 목록에 모든 위인(176명)이 포함되어 있는지 확인
+    expect(realHabits.length).toBe(176);
     expect(matchedIds.size).toBe(realHabits.length);
   });
 

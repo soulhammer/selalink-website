@@ -1,0 +1,192 @@
+{
+  "bryant-four-am-workout": {
+    "title": {
+      "ko": "새벽 4시의 기적: 코비 브라이언트의 맘바 훈련 루틴",
+      "en": "Miracle of 4 AM: Kobe Bryant's Mamba Workout Routine",
+      "ja": "午前4時の奇跡：コービー・ブライアントのマンバ・トレーニング・ルーティン",
+      "zh": "凌晨4点的奇迹：科比·布莱恩特的曼巴训练规程",
+      "es": "El milagro de las 4 AM: La rutina de entrenamiento Mamba de Kobe Bryant",
+      "fr": "Le miracle de 4h du matin : La routine d'entraînement Mamba de Kobe Bryant",
+      "de": "Das Wunder um 4 Uhr morgens: Kobe Bryants Mamba-Trainingsroutine",
+      "pt": "O milagre das 4 AM: A rotina de treino Mamba de Kobe Bryant",
+      "id": "Keajaiban Jam 4 Pagi: Rutinitas Latihan Mamba Kobe Bryant"
+    },
+    "description": {
+      "ko": "매일 새벽 4시에 첫 훈련을 수행했던 농구 황제 코비 브라이언트. 매일 같은 새벽 시간대의 강도 높은 훈련이 일주기 리듬을 고정시키고 신체 활성을 최고조로 끌어올리는 원리를 규명합니다.",
+      "en": "Basketball legend Kobe Bryant, who started his first training at 4 AM every day. Explore how consistent early morning workouts lock in circadian rhythms and maximize peak physical performance.",
+      "ja": "毎日午前4時に最初の練習をこなしたバスケットボールの皇帝コービー・ブライアント。毎日同じ早朝の時間帯に行う高強度のトレーニングが、日内リズムを固定し、身体の活性を最高潮に引き上げる原理を解明します。",
+      "zh": "每天凌晨4点进行首次训练的篮球飞人科比·布莱恩特。揭示每天同一清晨时段的高强度训练如何锁定昼夜节律并将身体活性提升至巅峰的原理。",
+      "es": "La leyenda del baloncesto Kobe Bryant, que entrenaba a las 4 AM. Analizamos cómo el ejercicio regular temprano sincroniza los ritmos circadianos y maximiza el rendimiento físico.",
+      "fr": "La légende du basket Kobe Bryant, qui s'entraînait dès 4h du matin. Découvrez comment l'exercice régulier à l'aube régule le rythme circadien et optimise les performances physiques.",
+      "de": "Basketball-Legende Kobe Bryant begann sein Training täglich um 4 Uhr morgens. Erfahren Sie, wie beständiges Training am frühen Morgen den zirkadianen Rhythmus stabilisiert und die körperliche Leistungsfähigkeit maximiert.",
+      "pt": "A lenda do basquete Kobe Bryant, que treinava às 4 AM. Analisamos como o exercício regular de madrugada sincroniza os ritmos circadianos e maximiza o desempenho físico.",
+      "id": "Legenda bola basket Kobe Bryant, yang mulai berlatih pukul 4 pagi setiap hari. Temukan bagaimana latihan subuh secara konsisten mengunci ritme sirkadian dan memaksimalkan performa fisik."
+    },
+    "authority": {
+      "ko": "코비 브라이언트 자서전 『The Mamba Mentality』 고증 및 크로노바이올로지(Chronobiology) 일주기 신체 대사 연구",
+      "en": "Kobe Bryant's 'The Mamba Mentality' and Chronobiology Studies on Circadian Physical Metabolism",
+      "ja": "コービー・ブライアント自叙伝『The Mamba Mentality』考証およびクロノバイオロジー（Chronobiology）日内身体代謝研究",
+      "zh": "科比·布莱恩特自传《The Mamba Mentality》考证及时间生物学(Chronobiology)昼夜身体代谢研究",
+      "es": "Autenticación de 'The Mamba Mentality' de Kobe Bryant e investigaciones de cronobiología sobre el metabolismo físico circadiano",
+      "fr": "Récit de 'The Mamba Mentality' de Kobe Bryant et études de chronobiologie sur le métabolisme circadien et l'effort",
+      "de": "Historische Belege aus Kobe Bryants 'The Mamba Mentality' und zirkadianbiologische Studien zum körperlichen Stoffwechsel",
+      "pt": "Autenticação de 'The Mamba Mentality' de Kobe Bryant e pesquisas de cronobiologia sobre o metabolismo físico circadiano",
+      "id": "Rujukan dari 'The Mamba Mentality' Kobe Bryant dan Studi Kronobiologi tentang Metabolisme Fisik Sirkadian"
+    },
+    "intro": {
+      "ko": "역사상 가장 위대한 농구 선수 중 한 명이자 승부욕의 화신인 코비 브라이언트. 그는 매일 새벽 4시, 칠흑 같은 정적 속에서 훈련을 개시했습니다. 올림픽 소집 당시 동료들이 자고 있는 새벽에 홀로 체육관의 불을 켜고 연습을 시작했던 그의 행동은 전설적인 맘바 멘탈리티의 기둥이었습니다. 코비는 이 절대적인 시간의 선점을 통해 승리를 자신했습니다. 뇌과학 및 생리학적으로 새벽 4시 루틴이 우리 몸을 어떻게 강력한 퍼포먼스 상태로 동기화시키는지 알아봅니다.",
+      "en": "One of the greatest basketball players in history and the personification of competitive spirit, Kobe Bryant. Every day at 4 AM, in pitch-black silence, he began his training. His action of turning on the gym lights alone to practice while teammates slept during the Olympics was a pillar of the legendary Mamba Mentality. Kobe was confident of victory through this preemptive grab of time. Let's find out how a 4 AM routine synchronizes the body for peak performance.",
+      "ja": "歴史上最も偉大なバスケットボール選手の一人であり、勝負強さの代名詞でもあるコービー・ブライアント。彼は毎日午前4時、漆黒の静寂の中でトレーニングを開始しました。オリンピック代表合宿の際、同僚たちが眠っている夜明け前に一人で体育館の明かりを灯して練習を始めた彼の行動は、伝説的な『マンバ・メンタリティ』の根幹でした。コービーはこの絶対的な時間の先占を通じて勝利を確信しました。脳科学および生理学的に、午前4時のルーティンが私たちの身体をいかに強力なパフォーマンス状態へと同期させるかを探ります。",
+      "zh": "历史上最伟大的篮球运动员之一、好胜心化身的科比·布莱恩特。每天凌晨4点，在漆黑静寂中，他就开启了训练。在奥运会集训期间，当队友们还在熟睡的凌晨，他独自点亮体育馆的灯光开始练习，这是他传奇“曼巴精神”的支柱。科比通过对这一绝对时间的先占锁定了胜利。我们从脑科学与生理学角度分析凌晨4点的规程是如何将我们的身体同步至强劲性能状态的。",
+      "es": "Kobe Bryant, uno de los mejores jugadores de la historia. Cada día a las 4 AM, en medio del silencio, comenzaba su entrenamiento. Su práctica en solitario mientras sus compañeros dormían en los Juegos Olímpicos fue el pilar de la mentalidad Mamba. Explore cómo la rutina de las 4 AM sincroniza el cuerpo para un rendimiento de élite.",
+      "fr": "Kobe Bryant, l'un des plus grands joueurs de basket-ball de l'histoire. Chaque jour à 4 heures du matin, dans le silence de la nuit, il commençait son entraînement. S'entraîner seul à l'aube pendant les Jeux Olympiques était le pilier de la mentalité Mamba. Découvrez comment cette routine matinale synchronise le corps pour un rendement d'élite.",
+      "de": "Kobe Bryant, einer der besten Basketballspieler aller Zeiten und Inbegriff des Kampfgeists. Jeden Morgen um 4 Uhr, in tiefster Dunkelheit, begann er sein Training. Dass er während der Olympischen Spiele allein in der Halle trainierte, während andere schliefen, war ein Eckpfeiler der Mamba Mentality. Erfahren Sie, wie die 4-Uhr-Routine den Körper auf Höchstleistung synchronisiert.",
+      "pt": "Kobe Bryant, um dos maiores jogadores de basquete da história. A cada dia, às 4 AM, no silêncio da madrugada, ele começava seu treino. Praticar sozinho enquanto seus companheiros dormiam nas Olimpíadas era o pilar da mentalidade Mamba. Explore como a rotina das 4 AM sincroniza o corpo para um desempenho de elite.",
+      "id": "Kobe Bryant, salah satu pemain basket terhebat sepanjang sejarah dan perwujudan sejati dari daya juang tinggi. Setiap hari pukul 4 pagi, di tengah kesunyian malam, dia mulai berlatih. Kebiasaannya berlatih sendiri saat rekan setimnya tidur selama Olimpiade menjadi pilar dari mentalitas Mamba yang legendaris. Mari ulas bagaimana rutinitas jam 4 pagi menyinkronkan tubuh untuk performa puncak."
+    },
+    "whyTitle": {
+      "ko": "새벽 각성이 신체 운동 신경과 일주기 리듬을 고정하는 생리적 기전",
+      "en": "Physiological Mechanisms of Circadian Alignment and Motor Activation Through Dawn Workouts",
+      "ja": "早朝の覚醒が身体運動神経と日内リズムを固定する生理的メカニズム",
+      "zh": "清晨觉醒固定身体运动神经与昼夜节律的生理机制",
+      "es": "Mecanismos fisiológicos de la alineación circadiana y activación motora en entrenamientos al amanecer",
+      "fr": "Mécanismes physiologiques de l'alignement circadien et de l'activation motrice lors des entraînements à l'aube",
+      "de": "Physiologische Mechanismen der zirkadianen Anpassung und motorischen Aktivierung durch frühes Training",
+      "pt": "Mecanismos fisiológicos do alinhamento circadiano e ativação motora em treinos de madrugada",
+      "id": "Mekanisme Fisiologis Penyelarasan Sirkadian dan Aktivasi Motorik Lewat Latihan Subuh"
+    },
+    "whyDesc": {
+      "ko": "매일 똑같이 이른 새벽 시간대에 활발한 신체 운동을 실행하면 우리 몸의 생체 시계가 이에 정렬됩니다. 첫째, 뇌의 시교차상핵이 정해진 새벽 시간에 체온을 높이고 코르티솔 분비를 개시하도록 프로그래밍되어 기상 직후 발생하기 쉬운 운동 신경 저하를 무력화합니다. 둘째, 규칙적인 새벽 운동은 자율신경계가 대사 에너지를 조기에 최적 배분하도록 유도하여 신체 반응성과 심폐 효율을 주간 시간대만큼 민첩하게 끌어올립니다.",
+      "en": "Executing active physical workouts at the exact same early dawn hour daily aligns our internal biological clock. First, the brain's suprachiasmatic nucleus is programmed to raise body temperature and initiate cortisol secretion at that set hour, neutralizing the motor function drop typical after waking up. Second, consistent dawn exercise directs the autonomic nervous system to allocate metabolic energy early, rendering physical responsiveness and cardiorespiratory efficiency as sharp as daytime.",
+      "ja": "毎日同じ早朝の時間帯に活発な運動を行うと、体内の生物時計がそれに同調します。第一に、脳の視交叉上核が決められた早朝の時間に体温を上げ、コルチゾールの分泌を開始するようにプログラミングされ、起床直後に起こりやすい運動神経の低下を防ぎます。第二に、規則的な早朝の運動は、自律神経系が代謝エネルギーを早期に最適分配するように促し、身体の反応性と心肺効率を昼間の時間帯と同じくらい敏捷に引き上げます。",
+      "zh": "每天在完全相同的清晨时段进行活跃的身体运动，我们体内的生物钟就会与之对齐。首先，大脑的视交叉上核被编程为在设定的清晨时间升高体温并开始分泌皮质醇，从而化解刚起床时容易发生的运动神经功能下降。其次，规律的清晨运动会诱导自律神经系统提前优化分配代谢能量，使身体反应活性和心肺效率像白天一样敏捷。",
+      "es": "Entrenar a la misma hora temprana cada día alinea nuestro reloj biológico. Primero, el núcleo supraquiasmático del cerebro se programa para elevar la temperatura corporal y liberar cortisol a esa hora, anulando el letargo motor post-despertar. Segundo, el ejercicio constante al amanecer entrena al sistema nervioso autónomo para distribuir energía metabólica temprano, mejorando la respuesta física rápidamente.",
+      "fr": "S'entraîner à la même heure matinale chaque jour aligne notre horloge biologique. D'abord, le noyau suprachiasmatique du cerveau se programme pour élever la température corporelle et libérer du cortisol à cette heure, annulant la léthargie motrice du réveil. Ensuite, l'exercice régulier à l'aube entraîne le système nerveux autonome à répartir l'énergie métabolique tôt, optimisant la réponse physique.",
+      "de": "Regelmäßiges Training zur gleichen frühen Stunde am Morgen passt unsere innere Uhr an. Erstens wird der suprachiasmatische Nukleus im Gehirn darauf programmiert, die Körpertemperatur zu erhöhen und Cortisol auszuschütten, was die typische morgendliche Trägheit überwindet. Zweitens führt das Training dazu, dass das vegetative Nervensystem die Stoffwechselenergie frühzeitig optimal verteilt, wodurch Reaktionsfähigkeit und kardiovaskuläre Effizienz gesteigert werden.",
+      "pt": "Treinar na mesma hora de madrugada cada dia alinha nosso relógio biológico. Primeiro, o núcleo supraquiasmático do cérebro se programa para elevar a temperatura corporal e liberar cortisol a essa hora, anulando o letargo motor pós-despertar. Segundo, o exercício constante de madrugada treina o sistema nervoso autônomo para distribuir energia metabólica cedo, melhorando a resposta física rapidamente.",
+      "id": "Melakukan latihan fisik yang aktif pada jam subuh yang sama setiap hari menyelaraskan jam biologis internal kita. Pertama, nukleus suprachiasmatic di otak diprogram untuk menaikkan suhu tubuh dan memulai sekresi kortisol pada jam tersebut, menepis penurunan fungsi motorik setelah bangun tidur. Kedua, latihan subuh secara konsisten melatih sistem saraf otonom untuk membagi energi metabolisme lebih awal, membuat respons fisik dan efisiensi kardiorespirasi setajam waktu siang."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "새벽 기상은 수면 부족을 전제로 해서는 결코 성립될 수 없습니다. 새벽 4시에 일어나기 위해서는 전날 밤 9시에서 10시 사이에 잠드는 7~8시간의 수면 총량 확보가 선행되어야 합니다. 또한 새벽 직후에는 신체 관절과 혈관이 경직되어 있으므로 본 활동을 시작하기 전에 반드시 10분 이상의 온전한 웜업 스트레칭을 마쳐 부상을 방지해야 합니다.",
+      "en": "Waking up at dawn can never work under sleep deprivation. To wake up at 4 AM, you must secure 7 to 8 hours of total sleep by going to bed between 9 PM and 10 PM the night before. Also, since joints and blood vessels are stiff immediately after waking, you must complete at least 10 minutes of warm-up stretching before starting your main activity to prevent injuries.",
+      "ja": "早朝の起床は、睡眠不足を前提としては決して成り立ちません。午前4時に起きるためには、前夜の9時から10時の間に就寝し、7〜8時間の総睡眠量を確保することが前提です。また、起床直後は関節や血管が硬くなっているため、メインの活動を始める前に必ず10分以上の入念なウォーミングアップストレッチを行い、怪我を予防する必要があります。",
+      "zh": "清晨觉醒绝不能建立在睡眠不足的前提下。为了在凌晨4点起床，前一天晚上9点至10点之间入睡、以此确保7至8小时的充足睡眠总量是先决条件。此外，刚起床时身体关节和血管较为僵硬，在开始正式活动前务必完成10分钟以上的充分温和拉伸，以防止受伤。",
+      "es": "Madrugar nunca debe implicar privación de sueño. Para levantarse a las 4 AM, debe dormir de 7 a 8 horas, acostándose entre las 9 PM y 10 PM. Dado que las articulaciones están rígidas al despertar, realice al menos 10 minutos de calentamiento para evitar lesiones.",
+      "fr": "Se lever tôt ne doit jamais impliquer un manque de sommeil. Pour vous lever à 4h, vous devez dormir 7 à 8 heures en vous couchant entre 21h et 22h. Les articulations étant raides au réveil, faites au moins 10 minutes d'échauffement pour éviter les blessures.",
+      "de": "Frühes Aufstehen darf nicht zu Schlafmangel führen. Um um 4 Uhr morgens aufzustehen, müssen Sie durch Zubettgehen zwischen 21 und 22 Uhr am Vorabend 7 bis 8 Stunden Schlaf sichern. Da die Gelenke nach dem Aufstehen steif sind, ist ein mindestens 10-minütiges Aufwärmen wichtig, um Verletzungen vorzubeugen.",
+      "pt": "Madrugar nunca deve implicar privacão de sono. Para se levantar às 4 AM, deve dormir de 7 a 8 horas, deitando-se entre as 9 PM e 10 PM. Dado que as articulações estão rígidas ao acordar, realize pelo menos 10 minutos de aquecimento para evitar lesões.",
+      "id": "Bangun subuh tidak boleh mengorbankan waktu tidur. Untuk bisa bangun pukul 4 pagi, Anda harus memastikan tidur selama 7 hingga 8 jam dengan tidur antara pukul 9 hingga 10 malam sebelumnya. Selain itu, karena persendian dan pembuluh darah masih kaku setelah bangun tidur, lakukan pemanasan minimal 10 menit untuk mencegah cedera."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "전날 취침 타이밍 통제 및 수면량 확보",
+          "en": "Controlling Bedtime and Securing Sleep Volume",
+          "ja": "前日の就寝タイミング制御と睡眠量の確保",
+          "zh": "控制前晚入睡时间并确保 睡眠量",
+          "es": "Controlar la hora de acostarse y asegurar el sueño",
+          "fr": "Contrôler l'heure du coucher et assurer le sommeil",
+          "de": "Zubettgehen steuern und Schlafdauer sichern",
+          "pt": "Controlar a hora de deitar e garantir o sono",
+          "id": "Mengatur Waktu Tidur Malam dan Memenuhi Durasi Tidur"
+        },
+        "text": {
+          "ko": "새벽 4시 기상을 위해 전날 저녁 10시 이전에 불을 끄고 누우며, 스마트폰 차단 등 침실 환경을 어둡게 제어해 7시간 이상의 순수 수면 시간을 지켜냅니다.",
+          "en": "Turn off lights and lie in bed before 10 PM for the 4 AM wake-up. Control bedroom darkness by blocking phones to preserve over 7 hours of sleep.",
+          "ja": "午前4時起床に向けて前夜の10時前に消灯して横になり、スマートフォンの使用を控えるなど寝室の環境を暗く制御し、7時間以上の純粋な睡眠時間を確保します。",
+          "zh": "为了凌晨4点起床，在前一天晚上10点前熄灯躺下，通过远离手机等将卧室环境控制在黑暗状态，守住7小时以上的净睡眠时间。",
+          "es": "Apague las luces y acuéstese antes de las 10 PM. Mantenga el dormitorio oscuro bloqueando el uso del teléfono para asegurar más de 7 horas de descanso.",
+          "fr": "Éteignez les lumières et couchez-vous avant 22h. Gardez la chambre sombre en évitant les écrans pour garantir plus de 7 heures de sommeil.",
+          "de": "Schalten Sie vor 22 Uhr das Licht aus und gehen Sie ins Bett. Sorgen Sie für eine dunkle Schlafumgebung ohne Bildschirme, um über 7 Stunden Schlaf zu bekommen.",
+          "pt": "Apague as luzes e deite-se antes das 10 PM. Mantenha o quarto escuro bloqueando o uso do telefone para garantir mais de 7 horas de descanso.",
+          "id": "Matikan lampu dan tidurlah sebelum pukul 10 malam. Buat kamar tidur gelap dan hindari ponsel agar bisa tidur nyenyak selama minimal 7 jam."
+        }
+      },
+      {
+        "name": {
+          "ko": "즉시 기상 및 온전한 관절 웜업",
+          "en": "Waking Up Immediately and Full Joint Warm-up",
+          "ja": "即時起床と入念な関節のウォーミングアップ",
+          "zh": "即刻起床并进行充分的关节热身",
+          "es": "Despertar de inmediato y calentamiento articular completo",
+          "fr": "Se lever immédiatement et s'échauffer les articulations",
+          "de": "Sofortiges Aufstehen und Aufwärmen der Gelenke",
+          "pt": "Despertar imediatamente e aquecimento articular completo",
+          "id": "Langsung Bangun dan Lakukan Pemanasan Sendi"
+        },
+        "text": {
+          "ko": "알람 소리에 고민 없이 몸을 일으켜 따뜻한 물 한 잔을 마신 뒤, 10분간 손목, 발목, 목, 허리를 늘려주는 스트레칭으로 신체 온도를 올립니다.",
+          "en": "Rise immediately at the alarm, drink a glass of warm water, and spend 10 minutes stretching your wrists, ankles, neck, and waist to raise core temperature.",
+          "ja": "アラーム音と同時に迷わず体を起こして温かい水を一杯飲み、10分間手首、足首、首、腰を伸ばすストレッチを行うことで体温を上げます。",
+          "zh": "闹钟响起后毫不犹豫地起身，喝一杯温水，接着进行10分钟拉伸手腕、脚踝、颈部和腰部的伸展运动，提升身体核心温度。",
+          "es": "Levántese de inmediato con la alarma, beba un vaso de agua tibia y realice 10 minutos de estiramientos de articulaciones para elevar la temperatura corporal.",
+          "fr": "Levez-vous dès l'alarme, buvez un verre d'eau tiède et étirez-vous les articulations pendant 10 minutes pour réactiver le corps.",
+          "de": "Stehen Sie beim Wecken sofort auf, trinken Sie ein Glas warmes Wasser und dehnen Sie 10 Minuten lang Handgelenke, Knöchel, Nacken und Hüfte.",
+          "pt": "Levante-se imediatamente com o alarme, beba um copo de água morna e realize 10 minutos de alongamentos de articulações para elevar a temperatura corporal.",
+          "id": "Bangun segera saat alarm berbunyi, minum segelas air hangat, lalu lakukan peregangan pergelangan tangan, kaki, leher, dan pinggang selama 10 menit."
+        }
+      },
+      {
+        "name": {
+          "ko": "점진적 강도 조절과 첫 루틴 시작",
+          "en": "Starting the Main Routine with Gradual Intensity Control",
+          "ja": "段階的な強度調整と最初のルーティン開始",
+          "zh": "循序渐进控制强度并开始首个规程",
+          "es": "Iniciar la rutina principal regulando la intensidad gradualmente",
+          "fr": "Commencer la routine principale avec intensité progressive",
+          "de": "Beginn der Hauptroutine mit allmählicher Steigerung",
+          "pt": "Iniciar a rotina principal regulando a intensidade gradualmente",
+          "id": "Memulai Rutinitas Utama dengan Peningkatan Intensitas Bertahap"
+        },
+        "text": {
+          "ko": "가벼운 훈련이나 집중을 요하는 독서, 작업 등 자신이 정한 아침의 첫 목표 행동을 개시하되, 초반 20분은 낮은 강도로 진행하며 점진적으로 몰입도를 높입니다.",
+          "en": "Begin your target morning activity (light training, focused reading, work). Keep the intensity low for the first 20 minutes to gradually deepen focus.",
+          "ja": "軽いトレーニングや集中力を要する読書、作業など、自分で決めた朝の最初の目標行動を開始します。ただし、最初の20分間は低い強度で行い、徐々に没頭度を高めていきます。",
+          "zh": "开始自己设定的早晨首个目标行动（如轻度训练、专注阅读或工作），前20分钟保持低强度，以此循序渐进地提升专注沉浸度。",
+          "es": "Comience su actividad matutina (ejercicio ligero, lectura o trabajo). Mantenga una intensidad baja durante los primeros 20 minutos para entrar en foco gradual.",
+          "fr": "Commencez votre activité matinale (exercice, lecture ou travail). Gardez une faible intensité les 20 premières minutes pour entrer en concentration progressive.",
+          "de": "Beginnen Sie mit Ihrer morgendlichen Aktivität (leichtes Training, Lesen, Arbeit). Starten Sie die ersten 20 Minuten ruhig, um die Konzentration aufzubauen.",
+          "pt": "Comece sua atividade matinal (exercício leve, leitura ou trabalho). Mantenha uma intensidade baixa durante os primeiros 20 minutos para entrar em foco gradual.",
+          "id": "Mulai aktivitas pagi yang Anda rencanakan (olahraga ringan, membaca, atau bekerja). Jaga intensitas tetap rendah pada 20 menit pertama untuk fokus secara bertahap."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "주말에도 새벽 4시에 일어나야 하나요?",
+          "en": "Should I wake up at 4 AM on weekends as well?",
+          "ja": "週末も午前4時に起きるべきですか？",
+          "zh": "周末也需要在凌晨4点起床吗？",
+          "es": "¿Debo levantarme a las 4 AM también los fines de semana?",
+          "fr": "Faut-il se lever à 4h du matin le week-end aussi ?",
+          "de": "Sollte ich auch am Wochenende um 4 Uhr aufstehen?",
+          "pt": "Devo me levantar às 4 AM também nos fins de semana?",
+          "id": "Apakah saya harus tetap bangun pukul 4 pagi di akhir pekan?"
+        },
+        "answer": {
+          "ko": "일주기 리듬의 생리적 교정을 위해서는 주말과 평일의 기상 시간 오차를 최대 1시간 이내로 조율하는 것이 권장됩니다. 주말에 과도한 늦잠을 자게 되면 뇌의 생체 시계가 리셋되어 평일 새벽 기상의 고통이 가중되므로 일관성을 지키는 것이 이롭습니다.",
+          "en": "For circadian alignment, it is recommended to keep the wake-up time difference between weekdays and weekends within 1 hour. Sleeping in excessively on weekends resets the biological clock, making weekday morning wake-ups much harder.",
+          "ja": "日内リズムの生理的調整のためには、週末と平日の起床時間のズレを最大1時間以内に抑えることが推奨されます。週末に過度の寝坊をすると、脳の体内時計が狂ってしまい、平日の早朝起床がさらに辛くなるため、一貫性を保つことが効果的です。",
+          "zh": "为了昼夜节律的生理校准，建议将周末与工作日的起床时间误差调整在最多1小时以内。如果周末过度睡懒觉，大脑的生物钟就会发生偏移，从而加剧工作日清晨起床的痛苦，因此保持一致性更为有益。",
+          "es": "Para una correcta alineación circadiana, se aconseja que la variación horaria del fin de semana sea de menos de 1 hora. Dormir demasiado en días libres desajusta el reloj interno, dificultando el regreso al horario de semana.",
+          "fr": "Pour réguler le rythme circadien, il est conseillé de limiter l'écart de réveil le week-end à moins d'une heure. Trop dormir pendant les jours de repos décale l'horloge interne et complique le réveil en semaine.",
+          "de": "Zur Stabilisierung des zirkadianen Rhythmus wird empfohlen, die Aufstehzeit am Wochenende um höchstens 1 Stunde zu verschieben. Zu langes Ausschlafen stört die innere Uhr und erschwert das Aufstehen an Werktagen.",
+          "pt": "Para um correto alinhamento circadiano, aconselha-se que a variação horária do fim de semana seja de menos de 1 hora. Dormir demais nos dias livres desajusta o relógio interno, dificultando o retorno ao horário de semana.",
+          "id": "Untuk penyelarasan sirkadian yang baik, disarankan untuk menjaga perbedaan waktu bangun antara hari kerja dan akhir pekan dalam batas 1 jam. Tidur berlebihan di akhir pekan mengacaukan jam biologis Anda."
+        }
+      }
+    ]
+  }
+}

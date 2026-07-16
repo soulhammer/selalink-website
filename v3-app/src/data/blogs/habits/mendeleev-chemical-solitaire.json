@@ -1,0 +1,192 @@
+{
+  "mendeleev-chemical-solitaire": {
+    "title": {
+      "ko": "원소의 카드 놀이: 멘델레예프의 화학적 솔리테어",
+      "en": "Card Game of Elements: Mendeleev's Chemical Solitaire",
+      "ja": "元素のカード遊び：メンデレーエフの化学的ソリティア",
+      "zh": "元素的卡牌游戏：门捷列夫的化学纸牌",
+      "es": "El juego de cartas de los elementos: El solitario químico de Mendeléyev",
+      "fr": "Le jeu de cartes des éléments : Le solitaire chimique de Mendeleïev",
+      "de": "Das Kartenspiel der Elemente: Mendeleevs chemische Solitaire-Methode",
+      "pt": "O jogo de cartas dos elementos: O solitário químico de Mendeleiev",
+      "id": "Permainan Kartu Unsur: Solitaire Kimia Mendeleev"
+    },
+    "description": {
+      "ko": "원소 성질을 적은 카드를 솔리테어 카드 놀이처럼 배치해 주기율표를 완성한 드미트리 멘델레예프. 텍스트를 물리적 공간에 늘어놓는 행동이 복잡한 패턴을 발견하는 뇌의 능력을 깨우는 원리를 규명합니다.",
+      "en": "Dmitri Mendeleev, who designed the periodic table by laying out element cards like a solitaire game. Explore how arranging text in physical space triggers the brain's pattern recognition capabilities.",
+      "ja": "元素の性質を書いたカードをソリティアカード遊びのように配置して周期表を完成させたジミトリ・メンデレーエフ。テキストを物理的な空間に並べる行動が、複雑なパターンを発見する脳の能力を目覚めさせる原理を解明します。",
+      "zh": "通过像玩接龙纸牌一样排列写有元素性质的卡片来完成周期表设计的德米特里·门捷列夫。揭示将文本铺排在物理空间中如何唤醒大脑发现复杂模式之能力的原理。",
+      "es": "Dmitri Mendeléyev ordenaba tarjetas de elementos para diseñar la tabla periódica. Analizamos cómo distribuir ideas en el espacio estimula la detección de patrones visuales.",
+      "fr": "Dmitri Mendeleïev classait des cartes d'éléments pour concevoir le tableau périodique. Découvrez comment disposer des idées dans l'espace stimule la reconnaissance des formes.",
+      "de": "Dmitri Mendeleev ordnete Elementkarten wie beim Solitaire an, um das Periodensystem zu entwerfen. Erfahren Sie, wie das physische Anordnen von Informationen die Mustererkennung des Gehirns aktiviert.",
+      "pt": "Dmitri Mendeleiev ordenava cartões de elementos para desenhar a tabela periódica. Analisamos como distribuir ideias no espaço estimula a detecção de padrões visuais.",
+      "id": "Dmitri Mendeleev merancang tabel periodik dengan menyusun kartu unsur mirip permainan solitaire. Temukan penjelasan bagaimana menyusun info secara fisik memicu pola pikir visual."
+    },
+    "authority": {
+      "ko": "러시아 화학 학회 아카이브 멘델레예프 수첩 고증 및 인지 연구 저널(Cognitive Research) 공간 조작 기억 활성화 연구",
+      "en": "Russian Chemical Society Archives of Mendeleev's Notebooks and Cognitive Research Journal Studies on Spatial Manipulation Memory Activation",
+      "ja": "ロシア化学学会アーカイブ・メンデレーエフ手帳考証および認知研究ジャーナル（Cognitive Research）空間操作記憶活性化研究",
+      "zh": "俄罗斯化学学会档案馆藏门捷列夫笔记本考证及《认知研究》(Cognitive Research)关于空间操作记忆激活的研究",
+      "es": "Archivos de la Sociedad Química Rusa de los cuadernos de Mendeléyev e investigaciones de Cognitive Research sobre manipulación espacial",
+      "fr": "Archives de la Société de chimie russe des carnets de Mendeleïev et recherches de Cognitive Research sur la manipulation spatiale",
+      "de": "Dokumente aus Mendeleevs Notizbüchern der Russischen Chemischen Gesellschaft und Cognitive Research-Studien zur räumlichen Informationsverarbeitung",
+      "pt": "Arquivos da Sociedade Química Russa dos cadernos de Mendeleiev e pesquisas de Cognitive Research sobre manipulação espacial",
+      "id": "Arsip Perkumpulan Kimia Rusia tentang Buku Catatan Mendeleev dan Penelitian Cognitive Research tentang Aktivasi Memori Spasial"
+    },
+    "intro": {
+      "ko": "현대 화학의 가장 아름다운 이정표이자 모든 원소의 지도인 주기율표. 이 위대한 발견을 완성해 낸 러시아의 천재 과학자 드미트리 멘델레예프. 그가 원소들의 감춰진 주기를 알아내기 위해 사용했던 도구는 뜻밖에도 손으로 직접 오려 만든 63개의 원소 카드 더미였습니다. 그는 원자량과 성질을 적은 카드를 주머니에 항상 소지하며 기차 안이나 책상 위에서 마치 솔리테어 카드 놀이를 하듯 반복하여 펼치고 배열을 조절했습니다. 뇌과학적으로 무수한 정보들을 물리적 카드로 바꾸어 만지는 행위가 어떤 인지적 혁신을 불러일으켰는지 분석합니다.",
+      "en": "The periodic table, the map of all elements and the most beautiful milestone of modern chemistry. Russian genius scientist Dmitri Mendeleev designed this great discovery. The tool he used to reveal the hidden cycles of elements was a hand-cut stack of 63 cards. He always carried the cards noting atomic weights and properties in his pocket, arranging them repeatedly like solitaire in trains or on desks. Let's analyze how converting vast information into physical cards triggers cognitive innovation.",
+      "ja": "現代化学の最も美しいマイルストーンであり、すべての元素の地図である周期表。この偉大な発見を成し遂げたロシアの天才科学者ジミトリ・メンデレーエフ。彼が元素の隠された周期を突き止めるために使用した道具は、意外にも手作りで切り取った63枚の元素カードの山でした。彼は原子量と性質を書いたカードを常にポケットに入れ、列車の中や机の上で、まるでソリティアのカードゲームをするように繰り返し広げて配列を調整しました。脳科学的に無数の情報を物理的なカードに変えて触る行為が、どのような認知的革新をもたらしたかを分析します。",
+      "zh": "现代化学最美里程碑、所有元素地图的化学元素周期表。完成这一伟大发现的俄罗斯天才科学家德米特里·门捷列夫。他为了查明元素隐藏周期而使用的工具，出人意料地是他亲手裁剪制作的63张元素卡片堆。他随身携带写有原子量和化学性质的卡片，在火车上或书桌上，像玩接龙游戏一样反复摊开并调整排列。我们从脑科学角度分析，将海量信息转化为物理卡片进行触摸操作这一行为引发了怎样的认知革新。",
+      "es": "La tabla periódica, uno de los hitos de la ciencia moderna. Para resolver este gran rompecabezas, el científico ruso Dmitri Mendeléyev utilizó tarjetas de papel para representar los 63 elementos conocidos. Llevaba estas tarjetas en su bolsillo y las distribuía sobre la mesa, buscando patrones lógicos en sus propiedades. Analicemos cómo la manipulación física de ideas activa los recursos de la memoria de trabajo.",
+      "fr": "Le tableau périodique, l'un des piliers de la science. Pour résoudre ce grand casse-tête, le savant russe Dmitri Mendeleïev a utilisé des cartes en papier pour représenter les 63 éléments connus. Il gardait ces cartes sur lui et les disposait sur des tables, cherchant des motifs logiques. Voyons comment la manipulation physique des concepts active la mémoire.",
+      "de": "Das Periodensystem der Elemente ist ein Meilenstein der Chemie. Um die verborgene Ordnung der Atome zu entschlüsseln, nutzte Dmitri Mendeleev 63 selbst gefertigte Pappkarten. Er trug diese stets bei sich und legte sie auf Tischen aus, um logische Muster in den Atomeigenschaften zu finden. Erfahren Sie, wie das physische Interagieren mit Konzepten die kognitive Problemlösung anregt.",
+      "pt": "A tabela periódica, um dos marcos da ciência moderna. Para resolver este grande quebra-cabeça, o cientista russo Dmitri Mendeleiev utilizou cartões de papel para representar os 63 elementos conocidos. Levava estes cartões no bolso e os distribuía sobre a mesa, buscando padrões lógicos em suas propriedades. Analisemos como a manipulação física de ideias ativa os recursos da memória de trabalho.",
+      "id": "Tabel periodik, peta dari semua unsur kimia dan tonggak terpenting sains modern. Penemunya, ilmuwan jenius asal Rusia Dmitri Mendeleev, menggunakan tumpukan 63 kartu kertas buatan tangan untuk memecahkan misteri tersebut. Ia selalu membawa kartu-kartu berisi data berat atom itu, menyusunnya berulang kali seperti bermain kartu solitaire. Pelajari bagaimana mengubah info abstrak menjadi kartu fisik memicu inovasi kognitif."
+    },
+    "whyTitle": {
+      "ko": "정보의 공간 배치와 물리적 조작이 패턴 인지 영역을 각성시키는 이유",
+      "en": "Why Spatial Arrangement and Physical Manipulation of Information Wake Up Pattern Recognition Regions",
+      "ja": "情報の空間配置と物理的操作がパターン認知領域を覚醒させる理由",
+      "zh": "信息空间排列与物理操作唤醒模式认知领域的原因",
+      "es": "Por qué la distribución espacial y manipulación física de datos activan la percepción de patrones",
+      "fr": "Pourquoi la disposition spatiale et la manipulation physique des données activent la perception de motifs",
+      "de": "Warum räumliche Anordnung und physische Handhabung die Mustererkennung des Gehirns stimulieren",
+      "pt": "Por que a distribuição espacial e manipulação física de dados ativam a percepção de padrões",
+      "id": "Mengapa Penataan Ruang dan Manipulasi Fisik Informasi Membangunkan Area Pengenalan Pola Otak"
+    },
+    "whyDesc": {
+      "ko": "문서나 컴퓨터 화면의 평면적인 텍스트는 뇌의 시각 처리 장치에 2차원적 정보로 인식되어 분석적 연산 장벽을 만듭니다. 반면, 정보를 개별 카드로 분리해 공간상에 이리저리 늘어놓으며 배치하는 행동은 뇌의 공간 위치 정보 영역을 활성화합니다. 뇌는 손끝의 촉각 신호와 입체적인 눈의 피드백을 통해 정보 간의 유기적 거리를 인식하며, 뇌의 전두엽과 두정엽을 가동해 텍스트 상태에서는 지나치기 쉬웠던 상호 패턴을 훨씬 더 민첩하게 연계해 냅니다.",
+      "en": "Flat text on documents or computer screens is perceived as two-dimensional data by the brain's visual processing units, creating analytical barriers. Conversely, separating information into individual cards and arranging them in physical space activates spatial location networks. The brain perceives organic distances between elements using tactile feedback from fingertips and stereoscopic visual inputs, utilizing the prefrontal and parietal lobes to link hidden patterns that are easily missed in standard text.",
+      "ja": "文書やコンピュータ画面の平面的なテキストは、脳の視覚処理装置に2次元的な情報として認識され、分析的な演算の障壁を作ります。一方、情報を個別のカードに分離し、空間上に広げて配置する行動は、脳の空間位置情報領域を活性化します。脳は指先の触覚信号と立体的な視覚フィードバックを通じて情報間の有機的な距離を認識し、前頭葉と頂葉を作動させて、テキスト状態では見落としがちだった相互パターンをより俊敏に関連づけます。",
+      "zh": "文档或电脑屏幕上的平面文本会被大脑的视觉处理单元识别为二维信息，从而制造分析性的运算屏障。相反，将信息拆分为独立的卡片，并在物理空间中摊开布置这一行为，会激活大脑的空间位置信息区域。大脑通过指尖的触觉信号和立体的视觉反馈来感知信息之间的有机距离，开动前额叶与顶叶，从而更加敏捷地将文本状态下极易忽略的相互关联模式联系在一起。",
+      "es": "El texto plano en pantallas o documentos se procesa como información bidimensional, limitando el análisis profundo. Al fragmentar los datos en tarjetas y moverlos sobre una mesa, se estimula la corteza parietal. El cerebro utiliza la retroalimentación táctil y espacial para medir las relaciones de distancia entre ideas, lo que facilita que el lóbulo frontal detecte patrones y analogías ocultas de forma mucho más ágil.",
+      "fr": "Le texte plat sur écran se traite comme une information bidimensionnelle, ce qui limite l'analyse. En fragmentant les données sur des cartes et en les déplaçant sur une table, on stimule le cortex pariétal. Le cerveau utilise le repérage tactile et spatial pour mesurer les relations entre concepts, aidant le lobe frontal à détecter des motifs cachés.",
+      "de": "Flacher Text auf Bildschirmen wird vom Gehirn zweidimensional verarbeitet, was die Analyse erschwert. Wenn Sie Daten auf Karten aufteilen und im Raum auslegen, aktivieren Sie den Parietallappen. Über Tastsinn und räumliche Wahrnehmung erfasst das Gehirn Abstände und Beziehungen zwischen Konzepten, wodurch der Stirnlappen versteckte Muster deutlich schneller erkennt.",
+      "pt": "O texto plano em telas ou documentos é processado como informação bidimensional, limitando a análise profunda. Ao fragmentar os dados em cartões e movê-los sobre uma mesa, estimula-se o córtex parietal. O cérebro utiliza a retroalimentação tátil e espacial para medir as relações de distância entre ideias, o que facilita que o lóbulo frontal detecte padrões e analogias ocultas de forma muito mais ágil.",
+      "id": "Teks datar di layar komputer diproses sebagai informasi dua dimensi oleh unit pemrosesan visual otak, membatasi analisis mendalam. Sebaliknya, membagi informasi menjadi kartu-kartu fisik dan menyusunnya di atas meja mengaktifkan area spasial otak. Otak memproses hubungan jarak antar ide menggunakan umpan balik taktil dan visual, membantu lobus frontal mendeteksi pola yang terlewat dalam bentuk teks biasa."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "카드로 정리할 때 너무 많은 정보의 세부 내용을 카드 한 장에 다 채워 넣으려고 하면 텍스트의 나열 형태로 돌아가 공간 조작의 장점이 상실됩니다. 카드 한 장에는 반드시 단 하나의 키워드나 명확한 핵심 지적 단서만 적어야 뇌의 스케치패드 연산 기능이 극대화됩니다. 카드의 개수 역시 한 번에 뇌가 한눈에 파악할 수 있는 범위인 10개에서 20개 내외의 범위로 가볍게 제한하여 사용하는 것이 효과적입니다.",
+      "en": "When using cards, trying to cram too many details into a single card destroys the benefit of spatial manipulation, turning them back into standard texts. Write only a single keyword or a clear key clue on one card to maximize the brain's sketchpad. Limit the number of cards to about 10 to 20 so the brain can capture them at a glance.",
+      "ja": "カードに整理する際、多すぎる詳細情報を1枚のカードにすべて詰め込もうとすると、テキストの羅列に戻ってしまい、空間操作のメリットが失われます。カード1枚には必ずただ一つのキーワードや明確な核心的ヒントだけを書き込むことで、脳のスケッチパッド演算機能が最大化されます。カードの数も、一度に脳がひと目で把握できる範囲である10枚から20枚前後に制限して使用することが効果的です。",
+      "zh": "在卡片上整理信息时，如果试图将过多细节塞满单张卡片，就会退化回文本罗列形式，从而失去空间操作的优势。每张卡片务必只写一个关键词或明确的核心线索，以便极大化大脑草稿纸（Sketchpad）的运算功能。卡片数量也应有效限制在一次性能被大脑一目了然把握的10到20张左右。",
+      "es": "No intente escribir demasiada información en cada tarjeta, ya que perderá el beneficio visual y volverá al formato de texto denso. Coloque solo una palabra clave o concepto por tarjeta para mantener la agilidad del bloc de dibujo mental. Limite la cantidad a entre 10 y 20 tarjetas a la vista para no saturarse.",
+      "fr": "N'écrivez pas trop d'informations sur chaque carte, sous peine de perdre le bénéfice visuel. Inscrivez un seul mot-clé ou concept par carte pour garder l'esprit alerte. Limitez le nombre à 10 ou 20 cartes visibles en même temps pour ne pas saturer l'esprit.",
+      "de": "Überladen Sie die einzelnen Karten nicht mit zu vielen Details, da sonst der Vorteil der räumlichen Anordnung verloren geht. Schreiben Sie nur ein einziges Schlagwort auf jede Karte. Nutzen Sie maximal 10 bis 20 Karten gleichzeitig, um die Übersicht für das Gehirn zu wahren.",
+      "pt": "Não tente escrever demasiada informação em cada cartão, pois perderá o benefício visual e voltará ao formato de texto denso. Coloque apenas uma palavra-chave ou conceito por cartão para manter a agilidade do bloco de desenho mental. Limite a quantidade a entre 10 e 20 cartões à vista para não se saturar.",
+      "id": "Saat menggunakan kartu, jangan menuliskan terlalu banyak detail dalam satu kartu karena akan mengubahnya kembali menjadi paragraf teks yang padat. Tulis hanya satu kata kunci atau poin utama per kartu. Batasi jumlah kartu antara 10 hingga 20 agar otak dapat memprosesnya dengan mudah dalam sekali pandang."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "정보의 카드 낱개화(분절화) 작성",
+          "en": "Segmenting Information into Individual Cards",
+          "ja": "情報のカード個別化（分節化）作成",
+          "zh": "将信息细分制作成独立卡片",
+          "es": "Dividir la información en tarjetas individuales",
+          "fr": "Diviser l'information en cartes individuelles",
+          "de": "Aufteilen der Informationen auf einzelne Karten",
+          "pt": "Dividir a informação em cartões individuais",
+          "id": "Membagi Informasi Menjadi Kartu-Kartu Terpisah"
+        },
+        "text": {
+          "ko": "분석해야 할 복잡한 비즈니스 이슈, 학술 정보의 구성 인자들을 포스트잇이나 조그만 종이 카드 앞면에 단 하나의 단어 형태로 각각 분할해 적습니다.",
+          "en": "Write the components of the complex business issue or academic information on post-its or small paper cards, with only a single term on the front of each.",
+          "ja": "分析すべき複雑なビジネス課題や、学術情報の構成要素を、付箋や小さな紙カードの表面に、それぞれ単一の単語の形で分割して書き出します.",
+          "zh": "将需要分析的复杂业务问题、学术信息的构成要素拆分，分别以单一词汇的形式写在便签纸或小纸卡正面。",
+          "es": "Escriba los componentes de un problema complejo o tema de estudio en notas adhesivas o tarjetas de papel, anotando solo una idea o término por tarjeta.",
+          "fr": "Notez les composants d'un problème complexe ou d'un sujet d'étude sur des notes adhésives ou des fiches, avec un seul concept ou terme par carte.",
+          "de": "Schreiben Sie Teilbereiche eines Problems oder Lernstoffs auf Post-its oder Karteikarten, wobei Sie nur einen Begriff pro Karte verwenden.",
+          "pt": "Escreva os componentes de um problema complexo ou tema de estudo em notas adesivas ou cartões de papel, anotando apenas uma ideia ou termo por cartão.",
+          "id": "Tuliskan komponen masalah atau materi belajar yang rumit pada lembar kertas kecil (post-it) dengan hanya satu kata kunci per kartu."
+        }
+      },
+      {
+        "name": {
+          "ko": "테이블 공간 위 물리적 배열 매칭과 조작",
+          "en": "Laying Out and Manipulating Cards on a Table Surface",
+          "ja": "テーブル上での物理的配列マッチングと操作",
+          "zh": "在桌面上进行物理排列匹配与操作",
+          "es": "Distribuir y manipular las tarjetas sobre una mesa",
+          "fr": "Disposer et manipuler les cartes sur une table",
+          "de": "Auslegen und physisches Verschieben der Karten auf dem Tisch",
+          "pt": "Distribuir e manipular os cartões sobre uma mesa",
+          "id": "Menyusun dan Menggeser Kartu di Atas Meja"
+        },
+        "text": {
+          "ko": "넓은 책상 위에 카드를 펼쳐놓고, 손으로 위치를 밀어 이리저리 매칭해가며 인과관계가 맞닿거나 속성이 유사한 카드끼리 그룹을 모으고 배열합니다.",
+          "en": "Lay the cards out on a wide desk. Move them around by hand to group or arrange items with causal relations or similar attributes together.",
+          "ja": "広い机の上にカードを広げ、手で位置を動かしながらあれこれ照らし合わせ、因果関係が繋がるものや属性が類似しているカード同士をグループ分けして配置します.",
+          "zh": "在宽敞的书桌上铺开卡片，用手移动位置进行排列匹配，将具有因果关系或属性相似的卡片聚集并排布在一起。",
+          "es": "Coloque las tarjetas sobre una mesa grande. Muévalas con las manos para agrupar conceptos relacionados o establecer secuencias lógicas.",
+          "fr": "Disposez les cartes sur une grande table. Déplacez-les à la main pour regrouper les concepts liés ou créer des enchaînements logiques.",
+          "de": "Verteilen Sie die Karten auf einem großen Tisch. Verschieben Sie sie von Hand, um logische Gruppen zu bilden oder Zusammenhänge zu verdeutlichen.",
+          "pt": "Coloque os cartões sobre uma mesa grande. Mova-os com as mãos para agrupar conceitos relacionados ou estabelecer sequências lógicas.",
+          "id": "Sebarkan kartu-kartu di atas meja yang luas. Geser posisinya dengan tangan untuk mengelompokkan kartu yang memiliki hubungan sebab-akibat."
+        }
+      },
+      {
+        "name": {
+          "ko": "구조적 시각 데이터로 캡처 아카이빙",
+          "en": "Capturing and Archiving as Structural Visual Data",
+          "ja": "構造的視覚データとしてのキャプチャ・アークイビング",
+          "zh": "捕获并归档为结构化视觉数据",
+          "es": "Capturar y archivar el diseño como un mapa visual estructurado",
+          "fr": "Photographier et archiver la disposition comme schéma visuel",
+          "de": "Festhalten und Archivieren der Struktur als Bild",
+          "pt": "Capturar e arquivar o design como um mapa visual estruturado",
+          "id": "Mengambil Foto Tata Letak Kartu Sebagai Dokumen Visual"
+        },
+        "text": {
+          "ko": "가장 직관적이고 인과 흐름이 매끄러운 카드 배열이 완성되면 스마트폰 카메라로 사진 촬영을 하여 뇌의 스케치 공간 기억과 시각 캡처본을 동기화합니다.",
+          "en": "Once you finish arranging the cards in the most intuitive flow, take a photo with a phone to align the brain's spatial memory with the captured image.",
+          "ja": "最も直感的で因果関係の流れがスムーズなカード配列が完成したら、スマートフォンで写真を撮影し、脳のスケッチ空間記憶と視覚的キャプチャを同期させます.",
+          "zh": "当完成最直观且因果逻辑流畅的卡片排布后，使用手机拍摄照片，使大脑的草稿空间记忆与视觉捕获影像同步。",
+          "es": "Una vez que logre la distribución más lógica, tome una fotografía con su teléfono para fijar la estructura de la memoria visual.",
+          "fr": "Une fois la disposition la plus logique obtenue, prenez une photo avec votre téléphone pour fixer la structure de votre mémoire visuelle.",
+          "de": "Sobrand Sie die stimmigste Anordnung gefunden haben, fotografieren Sie das Ergebnis, um die räumliche Struktur visuell abzuspeichern.",
+          "pt": "Assim que alcançar a distribuição mais lógica, tire uma foto com seu celular para fixar a estrutura da memória visual.",
+          "id": "Setelah susunan kartu yang paling logis terbentuk, ambil foto tata letak tersebut dengan ponsel untuk menyinkronkan memori visual."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "포스트잇이나 종이 카드가 없으면 마인드맵 앱으로 대체해도 되나요?",
+          "en": "Can I replace paper cards with mind mapping apps if none are available?",
+          "ja": "付箋や紙のカードがない場合、マインドマップアプリで代用してもよいですか？",
+          "zh": "如果没有便签纸或纸质卡片，可以用思维导图软件代替吗？",
+          "es": "¿Puedo utilizar una aplicación de mapas mentales en lugar de tarjetas físicas?",
+          "fr": "Puis-je utiliser une application de cartes mentales à la place de fiches physiques ?",
+          "de": "Kann ich statt Papierkarten auch Mindmapping-Apps nutzen?",
+          "pt": "Posso utilizar um aplicativo de mapas mentais no lugar de cartões físicos?",
+          "id": "Bolehkah saya menggunakan aplikasi mind map digital jika tidak ada kartu kertas?"
+        },
+        "answer": {
+          "ko": "마인드맵 앱도 구조화에는 어느 정도 도움이 되지만, 손가락으로 카드를 직접 밀어 이동시키는 촉각 정보 피드백(Haptic/Tactile Input)은 뇌의 운동 피질과 두정엽을 훨씬 더 강하게 깨워 활성화시킵니다. 뇌과학 연구는 화면 안의 좌표 이동보다 실제 3차원 공간의 손가락 조작이 아이디어 구상 및 기억력 증대에 더 월등한 뇌파 변화를 유도한다고 밝히고 있으므로 되도록 물리 카드를 사용하는 것이 더 강력합니다.",
+          "en": "While mind mapping apps help with structuring, physical tactile input from sliding cards with your fingers awakens the motor cortex and parietal lobes much more strongly. Cognitive research shows physical 3D manipulation induces far superior brainwave changes for ideation and memory than moving objects on a screen. Using physical cards is recommended.",
+          "ja": "マインドマップアプリも構造化にはある程度役立ちますが、指でカードを直接動かす「触覚情報のフィードバック（Haptic/Tactile Input）」は、脳の運動皮質と頂葉をはるかに強く目覚めさせ、活性化します。脳科学研究によると、画面内の座標移動よりも、実際の3次元空間における指の操作の方が、アイデアの構想や記憶力の増強において優れた脳波の変化を誘発するとされているため、可能な限り物理的なカードを使用する方が効果的です.",
+          "zh": "思维导图软件在结构化方面虽有一定帮助，但用手指直接推移卡片的触觉信息反馈（Haptic/Tactile Input）能更强烈地唤醒并激活大脑运动皮层与顶叶。脑科学研究表明，相比于屏幕内的坐标移动，在实际三维空间中的手指操作在催生创意和增强记忆力方面能诱导更为显著的脑电波变化，因此建议尽可能使用物理卡片。",
+          "es": "Las aplicaciones ayudan, pero la retroalimentación táctil de mover objetos físicos con las manos estimula la corteza motora de forma mucho más directa. Estudios demuestran que la manipulación manual en el espacio real genera una mayor activación neuronal útil para la creatividad que el arrastrar elementos en una pantalla.",
+          "fr": "Les applications aident, mais le repérage tactile lié au déplacement d'objets physiques avec les mains stimule le cortex moteur plus directement. Des études montrent que la manipulation manuelle dans l'espace réel génère une plus grande activation neuronale utile pour l'idéation que le glissement sur écran.",
+          "de": "Apps helfen zwar beim Strukturieren, doch das taktile Feedback beim Verschieben echter Karten aktiviert motorische Areale deutlich stärker. Forschungen zeigen, dass die manuelle Handhabung im 3D-Raum eine intensivere Gehirnaktivität auslöst als das Bewegen von Elementen auf einem Bildschirm. Nutzen Sie daher bevorzugt echte Karten.",
+          "pt": "Os aplicativos ajudam, mas a retroalimentacão tátil de mover objetos físicos com as mãos estimula o córtex motor de forma muito mais direta. Estudos demonstram que a manipulacão manual no espaço real gera uma maior ativação neuronal útil para a criatividade do que o arrastar elementos em uma tela.",
+          "id": "Aplikasi mind map digital cukup membantu, tetapi stimulasi taktil dari menyentuh dan menggeser kartu kertas secara fisik mengaktifkan korteks motorik otak dengan lebih kuat. Penelitian neurosains membuktikan manipulasi fisik 3 dimensi memicu aktivitas gelombang otak yang lebih baik untuk kreativitas dibanding sekadar mengklik layar."
+        }
+      }
+    ]
+  }
+}

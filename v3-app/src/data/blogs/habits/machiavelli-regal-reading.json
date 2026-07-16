@@ -1,0 +1,192 @@
+{
+  "machiavelli-regal-reading": {
+    "title": {
+      "ko": "성현과의 대화: 마키아벨리의 격식 독서 루틴",
+      "en": "Dialogue with the Ancients: Machiavelli's Regal Reading Routine",
+      "ja": "聖賢との対話：マキアヴェッリの格式読書ルーティン",
+      "zh": "与圣贤的对话：马基雅维利的仪式感阅读规程",
+      "es": "Diálogo con los antiguos: La rutina de lectura formal de Maquiavelo",
+      "fr": "Dialogue avec les anciens : La routine de lecture solennelle de Machiavel",
+      "de": "Dialog mit den Alten: Machiavellis formelle Leseroutine",
+      "pt": "Diálogo com os antigos: A rotina de leitura formal de Maquiavel",
+      "id": "Dialog dengan Para Leluhur: Rutinitas Membaca Formal Machiavelli"
+    },
+    "description": {
+      "ko": "귀양지에서도 매일 저녁이면 관복으로 갈아입고 역사서를 읽었던 정치가 니콜로 마키아벨리. 의복의 격식이 뇌의 각성과 마인드셋을 전환하는 의복 인지 효과의 과학적 원리를 다룹니다.",
+      "en": "Niccolo Machiavelli, who dressed in royal robes every evening to read history books even in exile. Discover the scientific principles of enclothed cognition where clothing formats change brain focus and mindset.",
+      "ja": "流刑地でも毎晩、官服に着替えて歴史書を読んだ政治家ニコロ・マキアヴェッリ。衣服の格式が脳の覚醒とマインドセットを切り替える『衣服認知効果』の科学的原理を扱います。",
+      "zh": "即便在流放地也于每天傍晚换上官服阅读历史书籍的政治家尼科洛·马基雅维利。探讨衣服仪式感如何转换大脑觉醒与思维模式的“衣服认知效应”之科学原理。",
+      "es": "El estadista Nicolás Maquiavelo, que vestía de gala para leer historia en el exilio. Descubra los principios científicos de la cognición investida (enclothed cognition).",
+      "fr": "L'homme d'État Nicolas Machiavel, qui s'habillait de ses vêtements de cour pour lire en exil. Découvrez comment l'habit influence la cognition (enclothed cognition).",
+      "de": "Staatsmann Niccolo Machiavelli zog abends Amtskleidung an, um im Exil Geschichtsbücher zu lesen. Erfahren Sie mehr über die Wissenschaft der kleiderinduzierten Kognition (Enclothed Cognition).",
+      "pt": "O estadista Nicolau Maquiavel, que vestia trajes oficiais para ler história no exílio. Descubra os princípios científicos da cognição vestida (enclothed cognition).",
+      "id": "Negarawan Niccolo Machiavelli, yang berganti pakaian resmi setiap sore untuk membaca buku sejarah di pengasingan. Ulas prinsip sains efek kognisi berbusana."
+    },
+    "authority": {
+      "ko": "마키아벨리가 1513년 프란체스코 베토리에게 보낸 친필 편지 고증 및 시카고 노스웨스턴 대학교 의복 인지(Enclothed Cognition) 실증 연구",
+      "en": "Machiavelli's 1513 Letter to Francesco Vettori and Northwestern University Studies on Enclothed Cognition",
+      "ja": "マキアヴェッリが1513年にフランチェスコ・ヴェットーリに送った親筆手紙考証およびシカゴ・ノースウェスタン大学の衣服認知（Enclothed Cognition）実証研究",
+      "zh": "马基雅维利于1513年致弗朗切斯科·维托里的亲笔信考证及芝加哥西北大学关于衣服认知(Enclothed Cognition)的实证研究",
+      "es": "Autenticación de la carta de Maquiavelo de 1513 a Francesco Vettori e investigaciones de la Universidad Northwestern sobre la cognición investida (Enclothed Cognition)",
+      "fr": "Récit de la lettre de Machiavel de 1513 à Francesco Vettori et recherches de l'Université Northwestern sur la cognition par l'habit (Enclothed Cognition)",
+      "de": "Historische Belege aus Machiavellis Brief von 1513 an Francesco Vettori und Northwestern University-Studien zu kleiderinduzierter Kognition (Enclothed Cognition)",
+      "pt": "Autenticação da carta de Maquiavel de 1513 a Francesco Vettori e pesquisas da Universidade Northwestern sobre a cognição vestida (Enclothed Cognition)",
+      "id": "Arsip Surat Machiavelli tahun 1513 kepada Francesco Vettori dan Penelitian Universitas Northwestern tentang Kognisi Berbusana (Enclothed Cognition)"
+    },
+    "intro": {
+      "ko": "위대한 정치 고전 군주론의 저자이자 피렌체의 정치가였던 니콜로 마키아벨리. 메디치 가문의 몰락과 함께 관직에서 쫓겨나 교외의 시골 농장에서 곤궁하고 고단한 강제 은둔 생활을 해야 했습니다. 그러나 그는 삶의 끈을 놓지 않았습니다. 농사일로 진흙이 묻은 채 하루를 보낸 그는 매일 저녁이 되면 엄숙하게 예복으로 갈아입고 책장 문을 열었습니다. 그는 성현들의 지혜와 마주하기에 부끄럽지 않도록 옷을 차려입은 뒤 고전의 세계에 깊이 침잠했습니다. 뇌과학적으로 의식적인 복장의 전환이 뇌의 태도와 집중력을 어떻게 리셋하는지 규명합니다.",
+      "en": "The author of the political classic The Prince and Florentine diplomat, Niccolo Machiavelli. Banished from office with the fall of the republic, he was forced into a harsh, impoverished exile in a country farm. However, he did not lose his focus. After a day covered in mud from farm work, he solemnly changed into royal robes every evening and opened his library door. He dressed up to be worthy of facing the wisdom of the ancients, sinking deeply into classical thought. Explore how this conscious change of attire resets the brain's focus.",
+      "ja": "偉大な政治的古典『君主論』の著者であり、フィレンツェの政治家であったニコロ・マキアヴェッリ。メディチ家の復活とともに官職を追われ、郊外の田舎の農場で貧しく過酷な隠遁生活を余儀なくされました。しかし、彼は思索を諦めませんでした。農作業で泥にまみれて一日を過ごした彼は、毎晩、厳かに礼服に着替えて書斎の扉を開けました。古代の聖賢たちの知恵と向き合うのに恥ずかしくないように身なりを整えた後、古典の世界に深く没頭しました。脳科学的に、意識的な服装の切り替えが脳の姿勢と集中力をいかにリセットするかを解明します。",
+      "zh": "政治学经典著作《君主论》的作者、佛罗伦萨政治家尼科洛·马基雅维利。随着美第奇家族的复辟，他被免去官职，不得不在郊区农村过着清苦高油的被迫隐居生活。然而，他并未向命运妥协。在田间劳作、浑身沾满泥土度过一日后，他会在每天傍晚庄重地换上礼服，推开书斋之门。为了以配得上与古代圣贤智慧对话的姿态现身，他悉心梳理装束，随后深深沉浸于古典世界之中。我们从脑科学角度阐明，有意识地转换装束是如何重置大脑态度与专注力的。",
+      "es": "Nicolás Maquiavelo, el autor de El Príncipe. Desterrado de la vida pública tras la caída de la república, se vio obligado a vivir en el exilio rural. Sin embargo, no se abandonó a la apatía. Al caer la tarde, se quitaba la ropa manchada de barro y se vestía con sus ropas de corte para entrar a su biblioteca. Creía que para dialogar con los pensadores del pasado debía presentarse con dignidad. Analicemos cómo la indumentaria modifica la actitud del cerebro.",
+      "fr": "Nicolas Machiavel, l'auteur du Prince. Banni des affaires publiques après la chute de la république, il fut contraint à l'exil dans sa ferme. Pourtant, il ne se laissa pas aller. Au crépuscule, il retirait ses habits crottés pour revêtir ses habits de cour et entrer dans sa bibliothèque. Il pensait que pour dialoguer avec les penseurs du passé, il fallait se présenter avec dignité. Voyons comment la tenue modifie la réactivité du cerveau.",
+      "de": "Niccolo Machiavelli, der Autor des Klassikers Der Fürst. Nach seinem Sturz wurde er ins Exil auf ein Landgut verbannt, wo er ein einfaches Leben führen musste. Doch er gab sich nicht auf. Jeden Abend legte er die schmutzige Arbeitskleidung ab, zog seine feine Amtskleidung an und betrat die Bibliothek. Er war überzeugt, dass er den Denkern der Vergangenheit nur in angemessener Kleidung begegnen sollte. Erfahren Sie, wie der bewusste Kleiderwechsel die geistige Haltung beeinflusst.",
+      "pt": "Nicolau Maquiavel, o autor de O Príncipe. Desterrado da vida pública após a queda da república, viu-se obrigado a viver no exílio rural. No entanto, não se abandonou à apatia. Ao cair da tarde, tirava as roupas sujas de barro e vestia-se com suas roupas de corte para entrar em sua biblioteca. Acreditava que para dialogar com os pensadores do passado devia apresentar-se com dignidade. Analisemos como a indumentária modifica a atitude do cérebro.",
+      "id": "Niccolo Machiavelli, penulis mahakarya ilmu politik Il Principe. Setelah diberhentikan dari jabatannya di Florence, ia dipaksa hidup terisolasi di sebuah pertanian terpencil. Namun, ia tidak membiarkan pikirannya tumpul. Setelah seharian bekerja keras dan kotor oleh lumpur, ia berganti pakaian resmi setiap sore sebelum memasuki ruang kerjanya. Pelajari bagaimana perubahan pakaian secara sadar mengatur ulang fokus otak."
+    },
+    "whyTitle": {
+      "ko": "의복 인지(Enclothed Cognition) 효과와 뇌의 주의 제어 상태 리셋",
+      "en": "Enclothed Cognition Effect and Resetting the Brain's Attention Control State",
+      "ja": "衣服認知（Enclothed Cognition）効果と脳の注意制御状態のリセット",
+      "zh": "衣服认知(Enclothed Cognition)效应与大脑注意力控制状态的重置",
+      "es": "El efecto de la cognición investida (Enclothed Cognition) y el reinicio de la atención cerebral",
+      "fr": "L'effet de la cognition par l'habit (Enclothed Cognition) et le réalignement de l'attention",
+      "de": "Der Effekt kleiderinduzierter Kognition (Enclothed Cognition) und die Neuausrichtung der Aufmerksamkeit",
+      "pt": "O efeito da cognição vestida (Enclothed Cognition) e o reinício da atenção cerebral",
+      "id": "Efek Kognisi Berbusana (Enclothed Cognition) dan Pengaturan Ulang Kontrol Perhatian Otak"
+    },
+    "whyDesc": {
+      "ko": "인간의 인지 시스템은 착용하는 의복의 상징적 의미에 강하게 조율됩니다. 편안한 홈웨어는 뇌에 이완과 휴식 신호를 보내 집중의 임계값을 낮추는 반면, 격식 있고 말끔한 복장은 주의력을 조절하는 전두엽의 타깃 제어 메커니즘을 즉각 구동합니다. 옷의 압박감과 단정한 촉각 자극은 대뇌 피질의 기본 상태 네트워크를 비활성화하고, 현재 눈앞에 있는 텍스트의 정밀한 정보 해석을 전담하는 집행 제어 네트워크를 활성화하여 예열 장벽을 제거합니다.",
+      "en": "The human cognitive system is strongly attuned to the symbolic meaning of the clothing worn. While casual homewear sends relaxation signals to the brain, lowering the focus threshold, formal and neat attire instantly drives the prefrontal target control mechanisms that regulate attention. The physical fit of the clothes and neat tactile stimuli deactivate the default mode network of the cerebral cortex, instead activating the executive control network dedicated to precise information processing.",
+      "ja": "人間の認知システムは、着用する衣服の象徴的な意味に強く同調します。リラックスできるホームウェアは脳に弛緩と休息のシグナルを送り、集中の閾値を下げるのに対し、格式のある整った服装は、注意力を調節する前頭葉のターゲット制御メカニズムを即座に駆動します。衣服の適度な引き締め感と端正な触覚刺激は、大脳皮質のデフォルト・モード・ネットワークを非活性化し、目の前にあるテキストの精密な解読を司る実行制御ネットワークを活性化して、集中への移行をスムーズにします。",
+      "zh": "人类的认知系统会与所穿衣服的象征意义强烈对齐。舒适的家居服会向大脑发送放松与休息的信号，从而降低专注的阈值；而有仪式感且整洁的装束则能即刻启动调节注意力之前额叶的目标控制机制。衣服的贴合包裹感和端庄的触觉刺激会使大脑皮层的默认模式网络（Default Mode Network）去激活，转而激活专司眼前文本精密信息解析的执行控制网络，进而消除预热屏障。",
+      "es": "El cerebro humano responde al valor simbólico de lo que vestimos. La ropa cómoda indica descanso, bajando el umbral de alerta. Por el contrario, la ropa estructurada o formal activa la corteza prefrontal y el control de atención. El contacto táctil de una prenda formal reduce la actividad de la red neuronal por defecto y enciende la red de control ejecutivo, disponiendo al cerebro para tareas de análisis riguroso.",
+      "fr": "Le cerveau humain est sensible à la valeur symbolique des vêtements. Les tenues décontractées indiquent le repos, abaissant le seuil de vigilance. À l'inverse, un habit structuré active le cortex préfrontal. Le contact tactile d'un vêtement de cour désactive le réseau neuronal par défaut pour allumer le réseau exécutif, préparant l'esprit aux tâches d'analyse rigoureuses.",
+      "de": "Das menschliche Gehirn reagiert stark auf die symbolische Bedeutung unserer Kleidung. Während bequeme Freizeitkleidung Entspannung signalisiert, aktiviert formelle Kleidung den präfrontalen Cortex und die Aufmerksamkeitssteuerung. Die physische Wahrnehmung strukturierter Kleidung dämpft das Standardnetzwerk des Gehirns und stärkt das exekutive Kontrollnetzwerk, was den Übergang in die Konzentrationsphase erleichtert.",
+      "pt": "O cérebro humano responde ao valor simbólico do que vestimos. A roupa confortável indica descanso, baixando o limite de alerta. Pelo contrário, a roupa estruturada ou formal ativa o córtex pré-frontal e o controle de atenção. O contato tátil de uma roupa formal reduz a atividade da rede neural por padrão e acende a rede de controle executivo, dispondo o cérebro para tarefas de análise rigoroso.",
+      "id": "Sistem kognitif manusia merespons makna simbolis dari pakaian yang dikenakannya. Pakaian rumah santai mengirim sinyal relaksasi ke otak, sementara pakaian formal yang rapi memicu area prefrontal untuk kontrol perhatian. Tekanan fisik dari pakaian rapi menonaktifkan jaringan default otak (mind-wandering) dan mengaktifkan jaringan kontrol eksekutif untuk fokus penuh."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "주의해야 할 점은 단지 비싼 옷을 입어야 하는 것이 아니라, 뇌가 스스로에게 지워준 상징성(Identity)을 명확하게 자각해야 한다는 점입니다. 만약 너무 불편한 정장을 입어 신체 통증을 유발한다면 통증 자극이 오히려 인지 자원을 빼앗아 효율을 해칩니다. 따라서 몸에 잘 맞되, 흐트러진 휴식 상태와 차별화를 이루는 편안하고 단정한 활동복 격식 수준을 설정해 실천하는 것이 최선입니다.",
+      "en": "The caution is that you do not need to wear expensive clothes, but rather clearly perceive the symbolic identity you assign to yourself. Wearing uncomfortable business suits that cause physical pain will distract you, wasting cognitive resources. Set a comfortable, neat level of attire that differentiates itself from messy relaxation wear.",
+      "ja": "注意すべき点は、単に高価な服を着るべきだということではなく、脳が自分自身に与えた「象徴性（Identity）」を明確に自覚しなければならないということです。もし非常に窮屈なスーツを着用して身体的な痛みを感じる場合, その痛みの刺激がむしろ認知資源を奪い、効率を阻害します. したがって, 体によくフィットしつつも、乱れた休息状態とは区別される、快適で端正な活動服の格式を設定して実践することが最善です.",
+      "zh": "需要注意的是，这并不意味着必须要穿多么昂贵的衣服，而是要让大脑清晰地觉知自己赋予该装束的“象征身份（Identity）”。如果穿着过度紧绷不适的西装导致身体产生痛感，痛觉刺激反而会争夺认知资源，损害效率。因此, 选择合身、且能与松垮休息状态区分开的舒适整洁工作装是最优方案。",
+      "es": "No se trata de usar ropa costosa, sino de activar la identidad profesional que el cerebro asocia con esas prendas. Un traje excesivamente rígido o incómodo desviará recursos debido a la molestia física. Elija ropa limpia, formal pero cómoda, que marque una separación mental clara con la indumentaria de descanso.",
+      "fr": "Il ne s'agit pas de porter des vêtements chers, mais d'activer l'identité que le cerveau y associe. Une tenue trop rigide ou inconfortable nuira à l'efficacité en créant une gêne. Choisissez des vêtements propres et soignés, mais confortables, marquant une rupture claire avec les vêtements de nuit.",
+      "de": "Es geht nicht um teure Kleidung, sondern um die Symbolik, die das Gehirn damit verbindet. Zu enge Kleidung erzeugt Unbehagen und lenkt ab. Wählen Sie saubere, ordentliche Kleidung, die bequem ist, aber einen klaren Unterschied zur reinen Freizeitkleidung markiert.",
+      "pt": "Não se trata de usar roupas caras, mas de ativar a identidade profissional que o cérebro associa com esses trajes. Um terno excessivamente rígido ou desconfortável desviará recursos devido ao incômodo físico. Escolha roupas limpas, formais mas confortáveis, que marquem uma separacão mental clara com a indumentária de descanso.",
+      "id": "Poin pentingnya bukanlah mengenakan pakaian mahal, melainkan mengaktifkan identitas profesional yang dihubungkan otak dengan pakaian tersebut. Mengenakan jas yang terlalu kaku dan tidak nyaman justru akan memecah fokus akibat rasa pegal. Pilih pakaian yang rapi, bersih, namun tetap nyaman agar ada batasan yang jelas dengan baju santai."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "휴식 상태 복장과의 물리적 격리",
+          "en": "Physical Separation from Relaxed Loungewear",
+          "ja": "休息状態の服装との物理的隔離",
+          "zh": "与休息状态装束进行物理隔离",
+          "es": "Separación física de la ropa de descanso",
+          "fr": "Séparer la tenue de travail de la tenue de nuit",
+          "de": "Physische Trennung von der Freizeitkleidung",
+          "pt": "Separacão física da roupa de descanso",
+          "id": "Melepas Pakaian Santai Rumah"
+        },
+        "text": {
+          "ko": "지적 업무나 독서를 개시하기 10분 전, 잠옷이나 헐렁한 트레이닝복 등 휴식을 유도하는 옷을 벗어 완전히 격리합니다.",
+          "en": "Ten minutes before starting intellectual work or reading, take off loose lounge wear or pajamas that induce relaxation, isolating them completely.",
+          "ja": "知的作業や読書を開始する10分前, パジャマやゆったりとしたトレーニングウェアなど, リラックスを促す服を脱いで完全に隔離します.",
+          "zh": "在开始智力工作或阅读前10分钟，换下睡衣或宽松运动服等诱导放松的衣服，将其完全隔离。",
+          "es": "Diez minutos antes de comenzar a trabajar o estudiar, quítese la ropa cómoda de estar por casa o pijama que fomente el descanso.",
+          "fr": "Dix minutes avant de travailler ou de lire, retirez votre pyjama ou vos vêtements de détente qui incitent au repos.",
+          "de": "Legen Sie 10 Minuten vor Arbeitsbeginn die Pyjamas oder Jogginghosen ab, die dem Gehirn Entspannung signalisieren.",
+          "pt": "Dez minutos antes de começar a trabalhar ou estudar, tire a roupa confortável de ficar em casa ou pijama que fomente o descanso.",
+          "id": "10 menit sebelum mulai bekerja atau membaca, ganti pakaian tidur atau baju kaos santai yang biasa memicu rasa rileks."
+        }
+      },
+      {
+        "name": {
+          "ko": "타깃 행동을 표방하는 단정한 격식 의복 착용",
+          "en": "Wearing Neat Attire That Represents Target Behavior",
+          "ja": "ターゲット行動を標榜する端正な格式の衣服着用",
+          "zh": "换上代表目标行动的端庄整洁装束",
+          "es": "Vestir ropa formal y ordenada para la tarea",
+          "fr": "Revêtir une tenue soignée et adaptée à la tâche",
+          "de": "Anziehen ordentlicher, zweckmäßiger Kleidung",
+          "pt": "Vestir roupa formal e ordenada para a tarefa",
+          "id": "Mengenakan Pakaian Kerja yang Rapi"
+        },
+        "text": {
+          "ko": "칼라가 있는 셔츠나 슬랙스 등 단정한 외출복 수준의 의복으로 갈아입고, 머리를 정리하여 인지적 예열을 마칩니다.",
+          "en": "Change into neat garments like a collared shirt or trousers, and comb your hair to signal the end of the warm-up phase.",
+          "ja": "襟付きのシャツやスラックスなど、端正な外出着レベルの衣服に着替え, 髪を整えて認知的な予熱を完了します.",
+          "zh": "换上带有衣领的衬衫或便裤等整洁的出行装水准服饰，整理发容，以此完成认知上的预热准备。",
+          "es": "Cámbiese por prendas ordenadas, como una camisa con cuello o pantalones chinos, y peínese para señalizar el fin de la preparación.",
+          "fr": "Changez de vêtements pour une tenue soignée, comme une chemise ou un pantalon propre, et coiffez-vous pour marquer l'entrée dans le travail.",
+          "de": "Ziegen Sie ein Hemd oder eine ordentliche Hose an und richten Sie das Haar, um dem Gehirn den Start zu signalisieren.",
+          "pt": "Mude para trajes ordenados, como uma camisa com gola ou calças de sarja, e penteie-se para sinalizar o fim da preparação.",
+          "id": "Ganti dengan kemeja berkerah atau celana panjang yang rapi, dan rapikan rambut untuk memicu kesiapan mental."
+        }
+      },
+      {
+        "name": {
+          "ko": "서재 진입과 성현 독서(딥 몰입) 실행",
+          "en": "Entering Workspace and Starting Deep Focus Reading",
+          "ja": "書斎進入と聖賢読書（ディープ没頭）の実行",
+          "zh": "步入书房并开始圣贤阅读（深度专注）",
+          "es": "Entrar al espacio de estudio e iniciar la lectura atenta",
+          "fr": "Entrer dans l'espace d'étude et lire avec attention",
+          "de": "Betreten des Arbeitsplatzes und Beginn der konzentrierten Arbeit",
+          "pt": "Entrar no espaço de estudo e iniciar a leitura atenta",
+          "id": "Memasuki Ruang Kerja dan Mulai Membaca Serius"
+        },
+        "text": {
+          "ko": "단정한 복장 상태로 서재나 전용 자리에 앉아 즉시 스마트폰을 격리한 뒤, 고전 책이나 연구 문서를 열어 1시간 동안 몰입을 수행합니다.",
+          "en": "Sit in your designated seat in neat attire, isolate your phone immediately, open classical books or research documents, and execute 1 hour of deep focus.",
+          "ja": "端正な服装の状態で書斎や専用の席に座り、即座にスマートフォンを遠ざけた後、古典の本や研究資料を開いて1時間没頭します.",
+          "zh": "穿着整洁地坐在书房或专用座位上，立即将手机移开，翻开古典书籍或研究文献，进行1个小时的深度专注。",
+          "es": "Siéntese en su escritorio con la ropa de trabajo, guarde su teléfono, abra los libros de estudio y dedique 1 hora a la lectura de alto nivel.",
+          "fr": "Installez-vous à votre bureau dans votre tenue soignée, éloignez votre téléphone, ouvrez vos livres et consacrez une heure à la lecture attentive.",
+          "de": "Setzen Sie sich ordentlich gekleidet an den Schreibtisch, legen Sie das Handy weg und arbeiten Sie für eine Stunde hochkonzentriert.",
+          "pt": "Sente-se em sua escrivaninha com a roupa de trabalho, guarde seu celular, abra os livros de estudo e dedique 1 hora à leitura de alto nível.",
+          "id": "Duduk di meja kerja Anda dengan pakaian rapi, jauhkan ponsel, buka buku atau dokumen riset Anda, dan fokuslah membaca selama 1 jam."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "재택근무를 하는데 잠옷 대신 외출복을 입는 것이 정말 효과가 있나요?",
+          "en": "Does wearing outdoor clothes instead of pajamas really help when working from home?",
+          "ja": "在宅勤務をしていますが、パジャマの代わりに外出着を着ることは本当に効果がありますか？",
+          "zh": "我是居家办公，换下睡衣穿上出行装真的管用吗？",
+          "es": "¿Realmente ayuda vestirse formal si trabajo desde casa?",
+          "fr": "Est-il vraiment utile de s'habiller proprement pour le télétravail ?",
+          "de": "Hilft formelle Kleidung auch im Homeoffice?",
+          "pt": "Realmente ajuda vestir-se formalmente se trabalho de casa?",
+          "id": "Apakah mengenakan pakaian rapi saat kerja dari rumah (WFH) benar-benar efektif?"
+        },
+        "answer": {
+          "ko": "인지심리학의 수많은 연구가 이를 강력히 증명합니다. 재택근무자가 잠옷이나 홈웨어를 입고 일할 때보다 단정한 출근룩이나 슬랙스 등을 착용했을 때 인지 오차율이 낮아지고 업무 시작 버튼을 누르기까지의 주저 시간이 획기적으로 줄어듭니다. 복장 전환은 뇌가 일터와 집이라는 환경적 맥락을 구분하게 해주는 가장 쉽고 효과적인 인지적 스위치입니다.",
+          "en": "Numerous studies in cognitive psychology strongly support this. When remote workers wear neat office clothes rather than pajamas, cognitive error rates decrease and the hesitation delay before starting work is drastically reduced. Changing attire is the easiest and most effective cognitive switch that helps the brain differentiate between work and home contexts.",
+          "ja": "認知心理学の数多くの研究がこれを強力に証明しています。在宅勤務者がパジャマや部屋着で仕事をする時よりも、端正な通勤服やスラックスなどを着用した時の方が、認知の誤り率が低くなり, 業務の開始ボタンを押すまでの躊躇する時間が画期的に減少します. 服装の切り替えは、脳が「仕事場」と「自宅」という環境的な文脈を区別するための、最も簡単で効果的な認知スイッチです.",
+          "zh": "认知心理学的海量研究对此给出了有力证明。相比于穿着睡衣或家居服办公，远程工作者在换上整洁的通勤装或便裤等之后，认知误差率会降低，点击开启工作按钮前的犹豫拖延时间会显著缩短。装束转换是让大脑区分“工作区”与“家庭区”这一环境脉络最简单也最有效的认知开关。",
+          "es": "Sí, está demostrado por la psicología cognitiva. Los teletrabajadores que usan ropa formal cometen menos errores y tardan menos tiempo en iniciar sus actividades que quienes trabajan en pijama. El cambio de ropa es el interruptor mental más sencillo para que el cerebro diferencie el contexto laboral del doméstico.",
+          "fr": "Oui, c'est prouvé par la psychologie cognitive. Les télétravailleurs en tenue correcte font moins d'erreurs et commencent à travailler plus vite que ceux en pyjama. Changer de tenue est le moyen le plus simple pour aider le cerveau à distinguer le contexte professionnel du cadre privé.",
+          "de": "Zahlreiche Studien bestätigen dies. Mitarbeiter im Homeoffice, die ordentliche Kleidung tragen statt Pyjamas, machen weniger Fehler und beginnen zügiger mit der Arbeit. Der Kleiderwechsel ist ein einfaches Signal, das dem Gehirn hilft, zwischen Arbeit und Freizeit zu unterscheiden.",
+          "pt": "Sim, está demonstrado pela psicologia cognitiva. Os trabalhadores remotos que usam roupas formais cometem menos erros e demoram menos tempo para iniciar suas atividades do que quem trabalha de pijama. A mudança de roupa é o interruptor mental mais simples para que o cérebro diferencie o contexto laboral do doméstico.",
+          "id": "Banyak penelitian psikologi kognitif membuktikan hal ini. Pekerja WFH yang mengenakan pakaian kerja rapi memiliki tingkat kesalahan kognitif yang lebih rendah dan tidak menunda pekerjaan dibanding mereka yang memakai piyama. Pakaian adalah sakelar kognitif paling mudah untuk membedakan mode kerja dan santai."
+        }
+      }
+    ]
+  }
+}
