@@ -1,0 +1,21 @@
+{
+  "id": "soseki-forced-writing",
+  "name": "나쓰메 소세키",
+  "gender": "male",
+  "era": "근대",
+  "location": "일본",
+  "lifespan": "1867 - 1916",
+  "birthYear": 1867,
+  "bio": "일본 근대 문학을 대표하는 소설가로, 매일 아침 글이 써지든 않든 책상에 의무적으로 앉아 집필하는 일과를 실천했습니다.",
+  "habitName": "매일 아침 강제 집필",
+  "tags": [
+    "#집중",
+    "#루틴",
+    "#창의력"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "책상과 펜",
+    "원고지"
+  ]
+}

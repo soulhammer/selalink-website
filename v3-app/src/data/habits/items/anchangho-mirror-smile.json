@@ -1,0 +1,21 @@
+{
+  "id": "anchangho-mirror-smile",
+  "name": "도산 안창호",
+  "gender": "male",
+  "era": "근대",
+  "location": "한국",
+  "lifespan": "1878 - 1938",
+  "birthYear": 1878,
+  "bio": "독립운동가이자 교육자로, 신뢰와 미소, 그리고 청결을 바탕으로 민족의 내적 실력을 길러야 한다고 주창했습니다.",
+  "habitName": "거울 미소와 청결 루틴",
+  "tags": [
+    "#안정",
+    "#마음",
+    "#스트레스 해소"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "거울",
+    "청소 도구"
+  ]
+}

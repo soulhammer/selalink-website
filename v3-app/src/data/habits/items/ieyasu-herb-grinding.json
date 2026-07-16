@@ -1,0 +1,22 @@
+{
+  "id": "ieyasu-herb-grinding",
+  "name": "도쿠가와 이에야스",
+  "gender": "male",
+  "era": "전국시대",
+  "location": "일본",
+  "lifespan": "1543 - 1616",
+  "birthYear": 1543,
+  "bio": "일본 전국시대를 통일하고 에도 막부를 세운 정치가이자 장군으로, 건강과 평정심 유지를 위해 매일 직접 약재를 갈아 생약을 조제했습니다.",
+  "habitName": "생약 조제 루틴",
+  "tags": [
+    "#사색",
+    "#안정",
+    "#집중"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "약사발",
+    "약절구",
+    "생약재"
+  ]
+}

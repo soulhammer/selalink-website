@@ -6,16 +6,16 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const targetSlugs = [
-  'nabokov-index-card',
-  'mahler-composition-hut',
-  'schulz-routine-hamburger',
-  'casals-bach-prelude',
-  'wittgenstein-movie-detox',
-  'balanchine-ironing-choreography',
-  'schumpeter-time-grading',
-  'knuth-no-email',
-  'magritte-suit-painting',
-  'martin-silent-waiting'
+  'yiyi-self-warning',
+  'anchangho-mirror-smile',
+  'kimgu-brush-meditation',
+  'saimdang-nature-observation',
+  'leejungseob-tin-foil-drawing',
+  'ieyasu-herb-grinding',
+  'soseki-forced-writing',
+  'kurosawa-page-writing',
+  'matsushita-bath-reflection',
+  'rikyu-garden-sweeping'
 ];
 
 // 2026-01-01 ~ 2026-07-16
@@ -31,23 +31,37 @@ const generatedDates = targetSlugs.map((_, idx) => {
 console.log('분산 날짜 목록:', generatedDates);
 
 const blogDir = path.join(__dirname, 'content/blog/ko');
+const jsonDir = path.join(__dirname, 'data/blogs/habits');
 
 targetSlugs.forEach((slug, idx) => {
-  const filePath = path.join(blogDir, `${slug}.md`);
-  if (!fs.existsSync(filePath)) {
-    console.error(`파일 없음: ${filePath}`);
-    return;
-  }
-
-  let content = fs.readFileSync(filePath, 'utf-8');
   const targetDate = generatedDates[idx];
 
-  // pubDate와 updatedDate를 정규식으로 교체
-  content = content.replace(/(pubDate:\s*")([^"]+)(")/, `$1${targetDate}$3`);
-  content = content.replace(/(updatedDate:\s*")([^"]+)(")/, `$1${targetDate}$3`);
+  // 1. Markdown 파일 수정
+  const mdPath = path.join(blogDir, `${slug}.md`);
+  if (fs.existsSync(mdPath)) {
+    let content = fs.readFileSync(mdPath, 'utf-8');
+    content = content.replace(/(pubDate:\s*")([^"]+)(")/, `$1${targetDate}$3`);
+    content = content.replace(/(updatedDate:\s*")([^"]+)(")/, `$1${targetDate}$3`);
+    fs.writeFileSync(mdPath, content, 'utf-8');
+    console.log(`[MD 완료] ${slug}.md -> ${targetDate}`);
+  } else {
+    console.error(`MD 파일 없음: ${mdPath}`);
+  }
 
-  fs.writeFileSync(filePath, content, 'utf-8');
-  console.log(`[완료] ${slug}.md -> ${targetDate}`);
+  // 2. JSON 파일 수정
+  const jsonPath = path.join(jsonDir, `${slug}.json`);
+  if (fs.existsSync(jsonPath)) {
+    let raw = fs.readFileSync(jsonPath, 'utf-8');
+    let data = JSON.parse(raw);
+    if (data[slug]) {
+      data[slug].pubDate = targetDate;
+      data[slug].updatedDate = targetDate;
+      fs.writeFileSync(jsonPath, JSON.stringify(data, null, 2), 'utf-8');
+      console.log(`[JSON 완료] ${slug}.json -> ${targetDate}`);
+    }
+  } else {
+    console.error(`JSON 파일 없음: ${jsonPath}`);
+  }
 });
 
 console.log('날짜 분산 완료! 이제 컴파일 스크립트를 기동해야 합니다.');

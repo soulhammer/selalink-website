@@ -1,0 +1,21 @@
+{
+  "id": "kurosawa-page-writing",
+  "name": "아키라 구로사와",
+  "gender": "male",
+  "era": "근대",
+  "location": "일본",
+  "lifespan": "1910 - 1998",
+  "birthYear": 1910,
+  "bio": "세계적인 영화 거장으로, 매일 무조건 시나리오 2페이지를 작성하는 미세 목표 습관을 실천했습니다.",
+  "habitName": "매일 시나리오 2장 집필",
+  "tags": [
+    "#성실",
+    "#계획",
+    "#실천력"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "원고지 2장",
+    "연필"
+  ]
+}

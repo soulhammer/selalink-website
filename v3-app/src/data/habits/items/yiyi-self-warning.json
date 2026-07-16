@@ -1,0 +1,21 @@
+{
+  "id": "yiyi-self-warning",
+  "name": "율곡 이이",
+  "gender": "male",
+  "era": "조선",
+  "location": "한국",
+  "lifespan": "1536 - 1584",
+  "birthYear": 1536,
+  "bio": "조선 중기의 대표적인 성리학자이자 정치가로, 스스로 경계할 글을 지어 평생을 자율적으로 통제했습니다.",
+  "habitName": "자경문 아침 선언",
+  "tags": [
+    "#의지",
+    "#성찰",
+    "#계획"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "마음가짐",
+    "자경문"
+  ]
+}

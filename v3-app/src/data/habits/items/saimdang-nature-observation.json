@@ -1,0 +1,21 @@
+{
+  "id": "saimdang-nature-observation",
+  "name": "신사임당",
+  "gender": "female",
+  "era": "조선",
+  "location": "한국",
+  "lifespan": "1504 - 1551",
+  "birthYear": 1504,
+  "bio": "조선 최고의 여류 예술가이자 문인으로, 마당의 풀과 곤충을 세밀하게 관찰하며 예술적 영감을 길렀습니다.",
+  "habitName": "초정밀 자연 관찰",
+  "tags": [
+    "#사색",
+    "#휴식",
+    "#창의력"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "자연 환경",
+    "드로잉 도구"
+  ]
+}

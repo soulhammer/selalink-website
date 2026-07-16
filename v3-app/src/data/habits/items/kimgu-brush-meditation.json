@@ -1,0 +1,22 @@
+{
+  "id": "kimgu-brush-meditation",
+  "name": "백범 김구",
+  "gender": "male",
+  "era": "근대",
+  "location": "한국",
+  "lifespan": "1876 - 1949",
+  "birthYear": 1876,
+  "bio": "대한민국 임시정부의 주석으로 독립운동을 이끌었으며, 마음의 흔들림을 바로잡기 위해 매일 붓글씨를 썼습니다.",
+  "habitName": "서예 집중 사색",
+  "tags": [
+    "#사색",
+    "#안정",
+    "#집중"
+  ],
+  "timeOfDay": "afternoon",
+  "requiredItems": [
+    "붓",
+    "먹",
+    "화선지"
+  ]
+}

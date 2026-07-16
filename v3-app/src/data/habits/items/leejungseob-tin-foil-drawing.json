@@ -1,0 +1,21 @@
+{
+  "id": "leejungseob-tin-foil-drawing",
+  "name": "이중섭",
+  "gender": "male",
+  "era": "근대",
+  "location": "한국",
+  "lifespan": "1916 - 1956",
+  "birthYear": 1916,
+  "bio": "한국 근대 서양화의 거장으로, 재료가 없던 궁핍한 시절에도 담뱃갑의 은지(은박지) 위에 그림을 그리는 집중 루틴을 유지했습니다.",
+  "habitName": "은지화 드로잉",
+  "tags": [
+    "#사색",
+    "#휴식",
+    "#집중"
+  ],
+  "timeOfDay": "afternoon",
+  "requiredItems": [
+    "은박지",
+    "철필 또는 뾰족한 도구"
+  ]
+}

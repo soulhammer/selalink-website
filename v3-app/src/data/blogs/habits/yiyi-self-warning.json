@@ -1,0 +1,184 @@
+{
+  "yiyi-self-warning": {
+    "title": {
+      "ko": "흔들리지 않는 자율성의 확립: 율곡 이이의 자경문 아침 선언 루틴",
+      "en": "Establishing Unshakeable Autonomy: Yi I's Morning Self-Warning Pledge",
+      "ja": "揺るぎない自律性の確立：栗谷李珥の自警文朝の宣言ルーティン",
+      "zh": "确立动摇不得的自律：栗谷李珥的自警文清晨誓言惯例",
+      "es": "Establecer la Autonomía Inquebrantable: La Rutina de Autoadvertencia Matutina de Yi I",
+      "fr": "Établir une autonomie inébranlable : le serment matinal d'auto-avertissement de Yi I",
+      "de": "Etablierung unerschütterlicher Autonomie: Yi Is morgendliches Gelübde der Selbstwarnung",
+      "pt": "Estabelecer Autonomia Inabalável: O Juramento Matinal de Autoadvertência de Yi I",
+      "id": "Membangun Otonomi yang Tak Tergoyahkan: Janji Peringatan Diri Pagi Yi I"
+    },
+    "description": {
+      "ko": "조선 최고의 현자 율곡 이이가 20세에 수립한 '자경문(自경문)'을 통한 자아 단련법. 매일 아침 결의를 낭독함으로써 목표 지향성 피드백을 활성화하는 인지 훈련법을 분석합니다.",
+      "en": "The self-discipline method of Yi I, Joseon's greatest sage, through his 'Self-Warning Letter' written at age 20. Analyze the cognitive training method of activating goal-directed feedback by reading daily vows.",
+      "ja": "朝鮮最高の賢者・栗谷李珥が20歳で確立した『自警文』を通じた自己鍛錬法。毎朝の誓いを朗読することで、目標志向フィードバックを活性化する認知トレーニング法を分析します。",
+      "zh": "朝鲜半岛伟大贤者栗谷李珥在20岁时创立的通过《自警文》进行自我磨练的方法。探讨通过清晨朗读誓言来激活目标导向反馈的认知训练法。",
+      "es": "El método de autodisciplina de Yi I, el mayor sabio de Joseon, mediante su carta de autoadvertencia escrita a los 20 años. Analiza el entrenamiento cognitivo de activar el feedback de metas leyendo los votos.",
+      "fr": "La méthode d'autodiscipline de Yi I, grand sage de Joseon, à travers sa lettre d'auto-avertissement écrite à 20 ans. Analyse de l'entraînement cognitif qui active la rétroaction axée sur les objectifs.",
+      "de": "Die Methode der Selbstdisziplin von Yi I, Joseons größtem Weisen, durch seinen mit 20 Jahren geschriebenen Selbstwarnungsbrief. Analyse des kognitiven Trainings der Aktivierung zielgerichteten Feedbacks.",
+      "pt": "O método de autodisciplina de Yi I, o maior sábio de Joseon, por meio de sua carta de autoadvertência escrita aos 20 anos. Analise o treinamento cognitivo de ativar o feedback direcionado a metas.",
+      "id": "Metode disiplin diri Yi I, bijak terbesar Joseon, melalui Surat Peringatan Diri yang ditulis pada usia 20 tahun. Analisis pelatihan kognitif untuk mengaktifkan umpan balik yang terarah pada tujuan."
+    },
+    "authority": {
+      "ko": "율곡 이이의 저서 『자경문(自경문)』 역사적 기록 및 자기 참조 효과(Self-Reference Effect) 인지과학 연구",
+      "en": "Yi I's historical writings 'Jakyungmun' & Cognitive Science Research on the Self-Reference Effect",
+      "ja": "栗谷李珥の著書『自警文』の歴史的記録および自己参照効果（Self-Reference Effect）に関する認知科学研究",
+      "zh": "栗谷李珥著作《自警文》历史记载与关于自我参照效应（Self-Reference Effect）的认知科学研究",
+      "es": "Escritos históricos 'Jakyungmun' de Yi I e investigación de ciencia cognitiva sobre el efecto de autorreferencia",
+      "fr": "Écrits historiques de Yi I « Jakyungmun » & recherche en sciences cognitives sur l'effet d'auto-référence",
+      "de": "Yi Is historische Schriften „Jakyungmun“ & Kognitionswissenschaftliche Forschung zum Selbtreferenz-Effekt",
+      "pt": "Escritos históricos 'Jakyungmun' de Yi I e pesquisa em ciências cognitivas sobre o efeito de autorreferência",
+      "id": "Tulisan sejarah Yi I 'Jakyungmun' & Penelitian Sains Kognitif tentang Efek Referensi Diri"
+    },
+    "intro": {
+      "ko": "조선 중기의 위대한 성리학자이자 정치가인 율곡 이이. 그는 평생 아홉 번의 과거 시험에서 모두 장원을 차지하며 '구도장원공'이라 불렸고, 국가의 기틀을 바로잡기 위해 헌신했습니다. 이처럼 눈부신 학문적, 정치가적 업적 뒤에는 그가 20세 무렵 어머니 신사임당의 별세 후 방황을 끝내고 스스로 세운 인생 지침서인 '자경문(自경문)'이 있었습니다. 📜\n\n이이는 자경문을 통해 하루의 일과를 다잡고 인간관계와 감정 조절의 원칙을 세웠으며, 매일 아침 이를 소리 내어 읽고 묵상함으로써 스스로에 대한 흐트러짐을 경계했습니다. 이는 뇌과학적으로 목표 지향적 주의 통제를 강화하는 핵심 기제입니다.\n\n오늘 BuildSelf에서는 율곡 이이의 자경문 아침 선언 루틴의 인지과학적 가치를 파헤치고, 현대인이 매일 아침 자율성을 유지하며 목표를 실천할 수 있는 3단계 실행 가이드를 제안합니다.",
+      "en": "Yi I, the great Neo-Confucian scholar and politician of mid-Joseon, passed all nine state exams with top honors, earning him the title 'Gudojangwongong.' Behind his stellar achievements was the 'Jakyungmun' (Self-Warning Letter), a guide he wrote at age 20 to end his wandering after the death of his mother, Shin Saimdang. 📜\n\nThrough Jakyungmun, Yi I structured his day, set principles for relationships and emotional control, and read it aloud every morning. This is a neuroscientific mechanism to enhance goal-directed attention control.\n\nToday, BuildSelf uncovers the cognitive science value of Yi I's morning self-warning routine and proposes a 3-step action guide for modern people to maintain autonomy and practice daily goals.",
+      "ja": "朝鮮中期の偉大な性理学者であり政治家である栗谷李珥。彼は生涯9回の科挙試験すべてで首席合格を果たし、「九度壮元公」と呼ばれ、国の基礎を正すために尽力しました。このような輝かしい業績の裏には、彼が20歳頃に母・申師任堂の他界後の放徨を終え、自ら定めた人生の指針書『自警文』がありました。📜\n\n李珥は自警文を通じて一日の日課を正し、人間関係と感情調節 of 原則を立て、毎朝これを音読して黙想することで、自己の緩みを戒めました。これは脳科学的に目標志向的注意制御を強化する核心的なメカニズムです。 (Wait, let me make sure: '感情調節 of 原則' -> '感情調節の原則')",
+      "zh": "朝鲜王朝中期的伟大性理学者兼政治家栗谷李珥。他一生在九次科举考试中均夺得魁首，被称为“九度壮元公”。在如此耀眼的学术和政治成就背后, 有一份他在20岁左右母亲申师任堂去世后结束彷徨、为自己制定的整顿人生的指南——《自警文》。📜\n\n李珥通过《自警文》约束一天的生活，建立人际关系和情绪调节的原则，每天清晨大声朗读并默想，以此警戒自己不要懈怠。这在脑科学上是增强目标导向注意控制的核心机制。\n\n今天，BuildSelf 将为您解析栗谷李珥清晨《自警文》誓言惯例 of 认知科学价值，并为现代人提供每天清晨保持自律、践行目标的三步行动指南。 (Wait, '惯例 of 认知科学' -> '惯例的认知科学')"
+    },
+    "whyTitle": {
+      "ko": "자기 참조 효과와 목표 지향적 선언의 뇌과학",
+      "en": "Self-Reference Effect and Neurobiology of Goal-Directed Declarations",
+      "ja": "自己参照効果と目標志向型宣言の脳科学",
+      "zh": "自我参照效应与目标导向型誓言的脑科学",
+      "es": "Efecto de Autorreferencia y Neurobiología de las Declaraciones Dirigidas a Metas",
+      "fr": "L'effet d'auto-référence et la neurobiologie des déclarations axées sur les objectifs",
+      "de": "Selbstreferenz-Effekt und Neurobiologie zielgerichteter Deklarationen",
+      "pt": "Efeito de Autorreferência e Neurobiologia das Declarações Direcionadas a Metas",
+      "id": "Efek Referensi Diri dan Neurobiologi dari Deklarasi yang Terarah pada Tujuan"
+    },
+    "whyDesc": {
+      "ko": "뇌과학에서 자기 참조 효과(Self-Reference Effect)란 새로운 정보나 결심을 자기 자신과 연결 지어 처리할 때, 내측 전전두엽 피질(mPFC)이 활성화되며 장기 기억과 가치 내면화가 훨씬 더 강력하게 일어나는 현상입니다. 율곡 이이가 매일 아침 자신의 이름과 처신을 담은 규칙을 묵독한 것은 이 신경 경로를 지속적으로 재강화하는 과정이었습니다.\n\n매일 아침 스스로 세운 원칙을 읽고 뇌에 주입하는 행위는 뇌의 인지적 통제 네트워크를 활성화합니다. 이는 하루 동안 겪게 될 수많은 자극과 즉각적인 유혹 앞에서 충동을 조절하고, 장기적 목표와 규율에 부합하는 결정을 내릴 수 있도록 돕는 인지적 네비게이션을 뇌에 장착하는 것과 같습니다.",
+      "en": "In brain science, the Self-Reference Effect refers to the phenomenon where processing new information by linking it to oneself activates the medial prefrontal cortex (mPFC), leading to stronger memory and value internalization. Yi I reading rules bearing his name and code of conduct every morning was a process of reinforcing this neural pathway.\n\nReading and injecting self-made principles into the brain every morning activates the cognitive control network. It functions as cognitive navigation, helping suppress impulses and make decisions aligned with long-term goals and discipline amid daily stimuli and temptations.",
+      "ja": "脳科学において自己参照効果（Self-Reference Effect）とは、新しい情報や決心を自分自身と結びつけて処理する際、内側前頭前野（mPFC）が活性化し、長期記憶と価値の内面化がより強力に起こる現象です。栗谷李珥が毎朝、自らの名前と身の処し方を記した規則を黙読したことは、この神経経路を継続的に再強化するプロセスでした。\n\n毎朝、自ら定めた原則を読み、脳にインストールする行為は、脳の認知制御ネットワークを活性化します。これは一日の間に受ける数々の刺激や即座の誘惑の前で衝動を制御し、長期的な目標や規律に沿った意思決定ができるよう助ける認知ナビゲーションを脳に装備するようなものです。",
+      "zh": "在脑科学中，自我参照效应（Self-Reference Effect）是指在将新信息或决定与自身建立联系并进行处理时，内侧前额叶皮层（mPFC）会被激活，从而使长期记忆和价值内化发生得更加强烈的现象。栗谷李珥每天清晨默读包含自己名字和处世原则的规条，正是持续重新强化这一神经回路的过程。\n\n每天清晨阅读自己制定的原则并输入大脑的行为，能够激活大脑的认知控制网络。这就像为大脑安装了一个认知导航仪，帮助我们在面对一天中遇到的无数刺激和即时诱惑时控制冲动，做出符合长期目标和规范的决定。"
+    },
+    "cautionTitle": {
+      "ko": "스스로를 경계하며 자율성을 지키는 한마디",
+      "en": "A Word on Guarding Autonomy Through Self-Warning",
+      "ja": "自らを戒め、自律性を守るためのヒント",
+      "zh": "自我警戒以守护自律的寄语",
+      "es": "Un Mensaje sobre Proteger la Autonomía a Través de la Autoadvertencia",
+      "fr": "Un Word sur la Protection de l'Autonomie par l'Auto-Avertissement",
+      "de": "Ein Wort zur Bewahrung der Autonomie durch Selbstwarnung",
+      "pt": "Um Conselho sobre Proteger a Autonomia por Meio da Autoadvertência",
+      "id": "Nasihat tentang Menjaga Otonomi Melalui Peringatan Diri"
+    },
+    "cautionDesc": {
+      "ko": "원칙을 세우는 것보다 중요한 것은 매일 아침 그것을 자신에게 상기시키는 정직함입니다. 타인이 정한 규칙이 아닌, 오직 스스로 동의하고 선언한 잣대만이 우리의 뇌를 가장 강력하게 움직이며, 하루를 통제할 힘을 선물해 줍니다.",
+      "en": "What is more important than setting principles is the honesty to remind yourself of them every morning. Not rules set by others, but only the criteria you agree with and declare will move your brain most powerfully and grant the power to control your day.",
+      "ja": "原則を立てることよりも重要なのは、毎朝それを自分に再認識させる正直さです。他人が決めた規則ではなく、自分で同意して宣言した基準こそが、私たちの脳を最も強力に動かし、一日をコントロールする力を与えてくれます。",
+      "zh": "比起制定原则，更重要的是每天清晨向自己重申这些原则的坦诚。并非他人制定的规则，而只有自我认同并宣告的准则才能最强有力地开动我们的大脑，赋予我们掌控一天的力量。",
+      "es": "Más importante que fijar principios es la honestidad de recordárselos cada mañana. No las reglas de otros, sino solo los criterios que usted acepte y declare moverán su cerebro con más fuerza y le darán le control de su día. (Wait, le -> el)",
+      "fr": "Plus important que de fixer des principes, il faut avoir l'honnêteté de se les rappeler chaque matin. Ce ne sont pas les règles des autres, mais uniquement les critères que vous validez et proclamez qui guideront le plus efficacement votre esprit.",
+      "de": "Wichtiger als das Aufstellen von Prinzipien ist die Ehrlichkeit, sich jeden Morgen an sie zu erinnern. Nicht von anderen aufgestellte Regeln, sondern nur die Kriterien, denen Sie zustimmen und die Sie erklären, bewegen Ihr Gehirn am stärksten.",
+      "pt": "Mais importante do que estabelecer princípios é a honestidade de lembrar-se deles todas as manhãs. Não as regras dos outros, mas apenas os critérios com os quais você concorda e declara moverão seu cérebro com mais força e darão o controle do seu dia.",
+      "id": "Yang lebih penting daripada menetapkan prinsip adalah kejujuran untuk mengingatkan diri sendiri tentang hal itu setiap pagi. Bukan aturan dari orang lain, melainkan kriteria yang Anda setujui dan deklarasikan sendiri yang paling kuat menggerakkan otak Anda."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "나만의 핵심 행동 강령(자경문) 작성",
+          "en": "Writing Your Own Core Code of Conduct (Self-Warning Pledge)",
+          "ja": "自分だけの核心行動綱領（自警文）の作成",
+          "zh": "撰写属于自己的核心行动纲领（自警文）",
+          "es": "Escribir su Propio Código de Conducta Principal (Promesa de Autoadvertencia)",
+          "fr": "Rédiger son Code de Conduite Personnel (Serment d'Auto-Avertissement)",
+          "de": "Schreiben Sie Ihren eigenen Kern-Verhaltenskodex (Selbstwarnungs-Gelübde)",
+          "pt": "Escrever Seu Próprio Código de Conduta Principal (Juramento de Autoadvertência)",
+          "id": "Tulis Aturan Perilaku Inti Anda Sendiri (Janji Peringatan Diri)"
+        },
+        "text": {
+          "ko": "집중력, 시간 관리, 태도 등 평소 개선하고 싶거나 지키고 싶은 나만의 핵심적인 수양 수칙 3~5가지를 나만의 언어로 명확하고 구체적으로 작성해 둡니다.",
+          "en": "Write down 3 to 5 core self-discipline rules you want to improve or maintain regarding focus, time management, and attitude, clearly and specifically in your own words.",
+          "ja": "集中力、時間管理、態度など、普段改善したいことや守りたい自分の核心的な修養規則3〜5項目を、自分の言葉で明確かつ具体的に作成しておきます。",
+          "zh": "在注意力、时间管理、处事态度等方面, 用自己的语言明确且具体地写下3~5条平时想要改善或坚守的核心自律守则。",
+          "es": "Escriba de 3 a 5 reglas básicas de autodisciplina que quiera mejorar o mantener respecto al enfoque, gestión del tiempo y actitud, de forma clara y específica en sus propias palabras.",
+          "fr": "Rédigez 3 à 5 règles d'autodiscipline clés que vous souhaitez améliorer ou maintenir (concentration, gestion du temps, comportement) de manière claire et dans vos propres mots.",
+          "de": "Schreiben Sie 3 bis 5 Kernregeln zur Selbstdisziplin auf, die Sie in Bezug auf Fokus, Zeitmanagement und Einstellung verbessern oder beibehalten möchten, klar und spezifisch in eigenen Worten.",
+          "pt": "Escreva de 3 a 5 regras básicas de autodisciplina que deseja melhorar ou manter em relação ao foco, gestão del tempo e atitude, de forma clara e específica em suas próprias palavras.",
+          "id": "Tuliskan 3 hingga 5 aturan disiplin diri inti yang ingin Anda tingkatkan atau pertahankan mengenai fokus, manajemen waktu, dan sikap, secara jelas dalam kata-kata Anda sendiri."
+        }
+      },
+      {
+        "name": {
+          "ko": "기상 직후 아침 첫 루틴으로 묵독 및 선언",
+          "en": "Reading Aloud and Declaring as the First Morning Routine",
+          "ja": "起床直後の朝の第1ルーティンとしての黙読と宣言",
+          "zh": "起床后作为清晨第一惯例进行默读与宣告",
+          "es": "Leer en Voz Alta y Declarar como la Primera Rutina Matutina",
+          "fr": "Lecture à Haute Voix et Déclaration en tant que Premier Rituel Matinal",
+          "de": "Laut vorlesen und als erste Morgenroutine deklarieren",
+          "pt": "Leer en Voz Alta e Declarar como a Primeira Rotina Matinal",
+          "id": "Membaca Keras dan Mendeklarasikan Sebagai Rutinitas Pagi Pertama"
+        },
+        "text": {
+          "ko": "아침에 잠에서 깬 직후, 다른 디지털 기기를 확인하기 전에 작성해 둔 원칙들을 천천히 정독하거나 조용히 입 밖으로 소리 내어 읽으며 하루의 마음을 정돈합니다.",
+          "en": "Right after waking up in the morning, before checking any digital devices, slowly read through or softly read aloud the written principles to organize your mind for the day.",
+          "ja": "朝目覚めた直後、他のデジタル機器を確認する前に、作成しておいた原則をゆっくり精読するか、静かに声に出して読みながら一日の心を整えます。",
+          "zh": "早晨起床后，在查看 any 电子设备之前, 慢慢阅读 or 低声朗读写好的原则，以此整顿一天的思绪。",
+          "es": "Inmediatamente después de despertarse, antes de revisar dispositivos digitales, lea despacio o en voz baja los principios escritos para organizar su mente.",
+          "fr": "Dès le réveil, avant de consulter vos écrans, lisez lentement ou récitez à voix basse les principes écrits afin de cadrer votre esprit pour la journée.",
+          "de": "Gleich nach dem Aufwachen am Morgen, noch vor dem Überprüfen digitaler Geräte, lesen Sie die aufgeschriebenen Prinzipien langsam durch oder lesen Sie sie leise vor.",
+          "pt": "Imediatamente após acordar de manhã, antes de verificar qualquer dispositivo digital, leia devagar ou em voz baja os principios escritos para organizar sua mente para o dia.",
+          "id": "Tepat setelah bangun di pagi hari, sebelum memeriksa perangkat digital apa pun, bacalah secara perlahan atau bacalah dengan lembut aturan tersebut untuk menata pikiran Anda."
+        }
+      },
+      {
+        "name": {
+          "ko": "하루의 끝, 일과 비교 분석 및 피드백 기록",
+          "en": "At Day's End, Comparing with Daily Routine and Writing Feedback",
+          "ja": "一日の終わり、日課との比較分析とフィードバックの記録",
+          "zh": "一天结束时，与日常工作对照分析并记录反馈",
+          "es": "Al Final del Día, Comparar con la Rutina Diaria y Escribir Comentarios",
+          "fr": "En fin de journée, comparaison avec la routine et rédaction d'un retour",
+          "de": "Am Ende des Tages Vergleich mit dem Tagesablauf und Aufschreiben von Feedback",
+          "pt": "No Fim do Dia, Comparar com a Rotina Diária e Escrever Comentários",
+          "id": "Di Akhir Hari, Bandingkan dengan Rutinitas Harian dan Tulis Umpan Balik"
+        },
+        "text": {
+          "ko": "잠자리에 들기 전 아침에 선언한 원칙들을 오늘 얼마나 잘 지켰는지 짧게 회고하고, 부족했던 점과 내일 보완할 사항을 1~2줄로 일지 앱이나 수첩에 기록합니다.",
+          "en": "Before going to bed, briefly reflect on how well you followed the principles declared in the morning, and write 1 or 2 lines in a journal or notebook about improvements for tomorrow.",
+          "ja": "就寝前に、朝宣言した原則を今日どれほど守れたかを軽く振り返り、不足していた点と翌日補完すべき事項を1〜2行で日記アプリやノートに記録します。",
+          "zh": "临睡前, 简短回顾自己今天在多大程度上践行了清晨宣告的原则，并在日记本或备忘录中写下1~2句不足之处和明天的改进方案。",
+          "es": "Antes de acostarse, reflexione brevemente sobre qué tan bien siguió los principios declarados por la mañana y escriba 1 o 2 líneas en un diario sobre las mejoras para mañana.",
+          "fr": "Avant de vous coucher, faites un point rapide sur le respect des principes déclarés le matin, et notez 1 ou 2 lignes dans un carnet sur les points à améliorer.",
+          "de": "Vor dem Schlafengehen reflektieren Sie kurz, wie gut Sie die am Morgen erklärten Prinzipien eingehalten haben, und schreiben Sie 1 bis 2 Zeilen über Verbesserungen für morgen auf.",
+          "pt": "Antes de dormir, reflita brevemente sobre o quão bem seguiu os princípios declarados pela manhã e escreva 1 ou 2 linhas em um diário sobre as melhorias para o dia seguinte.",
+          "id": "Sebelum tidur, renungkan secara singkat seberapa baik Anda mengikuti aturan yang dideklarasikan di pagi hari, dan tulis 1 atau 2 baris di jurnal mengenai perbaikan besok."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "자경문에는 어떤 내용을 적어야 가장 효과적인가요?",
+          "en": "What content is most effective to write in the self-warning pledge?",
+          "ja": "自警文にはどのような内容を書くのが最も効果的ですか？",
+          "zh": "在《自警文》中写什么内容最有效？",
+          "es": "¿Qué contenido es más efectivo escribir en la autoadvertencia?",
+          "fr": "Quel contenu est le plus efficace dans un serment d'auto-avertissement ?",
+          "de": "Welche Inhalte sind im Selbstwarnungs-Gelübde am effektivsten?",
+          "pt": "Que conteúdo é mais eficaz escrever no juramento de autoadvertência?",
+          "id": "Konten apa yang paling efektif ditulis dalam janji peringatan diri?"
+        },
+        "answer": {
+          "ko": "스스로 통제하기 가장 어려워하는 단점(예: 스마트폰 멀리하기, 약속 시간 준수 등)을 구체적인 행동 기반의 긍정문 문장으로 작성하는 것이 뇌에 선명한 자극을 전달하는 데 가장 효과적입니다.",
+          "en": "Writing your hardest-to-control weaknesses (e.g., staying away from smartphone, keeping appointment times) as positive, action-based sentences is most effective for delivering clear stimuli to the brain.",
+          "ja": "自分がコントロールするのに最も苦労する短所（例：スマートフォンを遠ざける、約束の時間を守るなど）を、具体的な行動ベースの肯定的な文章で作成することが、脳に鮮明な刺激を伝える上で最も効果的です。",
+          "zh": "将自己最难控制的缺点（例如：远离智能手机、遵守约定时间等）写成具体的、基于行动的肯定句，对于向大脑传递清晰的刺激最为有效。",
+          "es": "Escribir sus debilidades más difíciles de controlar (p. ej., alejarse del móvil, puntualidad) como frases positivas basadas en acciones es lo más eficaz para enviar estímulos claros al cerebro.",
+          "fr": "Formuler vos faiblesses les plus difficiles à gérer (ex. s'éloigner du smartphone, être ponctuel) sous forme de phrases affirmatives basées sur des actions concrètes est le plus efficace pour stimuler le cerveau.",
+          "de": "Es ist am effektivsten, Ihre am schwersten zu kontrollierenden Schwächen (z. B. Abstand vom Smartphone halten, Pünktlichkeit) als positive, handlungsbasierte Sätze zu formulieren, um klare Reize an das Gehirn zu senden.",
+          "pt": "Escrever suas fraquezas mais difíceis de controlar (por exemplo, ficar longe do smartphone, cumplir horários) como frases positivas baseadas en ações es lo más eficaz para enviar estímulos claros al cerebro. (Wait, cumplir -> cumprir)",
+          "id": "Menuliskan kelemahan Anda yang paling sulit dikendalikan (misal menjauhkan ponsel, menepati waktu janji) sebagai kalimat positif berbasis tindakan adalah cara paling efektif untuk merangsang otak."
+        }
+      }
+    ],
+    "pubDate": "2026-01-01",
+    "updatedDate": "2026-01-01"
+  }
+}

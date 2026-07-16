@@ -1,0 +1,21 @@
+{
+  "id": "matsushita-bath-reflection",
+  "name": "마쓰시타 고노스케",
+  "gender": "male",
+  "era": "근대",
+  "location": "일본",
+  "lifespan": "1894 - 1989",
+  "birthYear": 1894,
+  "bio": "일본 파나소닉의 설립자이자 '경영의 신'으로 불린 기업가로, 하루의 끝에 욕탕에 몸을 담그며 깊은 사색과 자기 성찰을 실천했습니다.",
+  "habitName": "욕탕 속 성찰과 사색",
+  "tags": [
+    "#성찰",
+    "#마인드컨트롤",
+    "#의사결정"
+  ],
+  "timeOfDay": "evening",
+  "requiredItems": [
+    "따뜻한 욕조",
+    "조용한 시간"
+  ]
+}

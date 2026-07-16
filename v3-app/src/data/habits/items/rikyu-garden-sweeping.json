@@ -1,0 +1,21 @@
+{
+  "id": "rikyu-garden-sweeping",
+  "name": "센노 리큐",
+  "gender": "male",
+  "era": "센고쿠",
+  "location": "일본",
+  "lifespan": "1522 - 1591",
+  "birthYear": 1522,
+  "bio": "일본 다도의 거장으로, 매일 아침 정원을 쓸며 자연과의 합일과 마음속 노이즈를 비워내는 동적 명상을 실천했습니다.",
+  "habitName": "아침 정원 청소와 사색",
+  "tags": [
+    "#성찰",
+    "#이완",
+    "#집중"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "빗자루",
+    "조용한 마당"
+  ]
+}
