@@ -1,0 +1,192 @@
+{
+  "nabokov-index-card": {
+    "title": {
+      "ko": "생각의 모듈화: 블라디미르 나보코프의 인덱스 카드 집필법",
+      "en": "Modularity of Thought: Vladimir Nabokov's Index Card Writing Method",
+      "ja": "思考のモジュール化：ウラジーミル・ナボコフのインデックスカード執筆法",
+      "zh": "思维的模块化：弗拉基米尔·纳博科夫的索引卡写作法",
+      "es": "Modularidad del pensamiento: el método de escritura con tarjetas de Vladimir Nabokov",
+      "fr": "Modularité de la pensée : la méthode d'écriture sur fiches de Vladimir Nabokov",
+      "de": "Modularität des Denkens: Vladimir Nabokovs Karteikarten-Schreibmethode",
+      "pt": "Modularidade do pensamento: o método de escrita com fichas de Vladimir Nabokov",
+      "id": "Modularitas Pemikiran: Metode Menulis Kartu Indeks Vladimir Nabokov"
+    },
+    "description": {
+      "ko": "소설을 조각화하여 카드로 기록하고 순서를 재배치했던 작가 블라디미르 나보코프. 인지 부하를 차단하고 창의적인 아이디어를 유연하게 결합하는 카드식 기획법의 인지과학적 가치를 조명합니다.",
+      "en": "Writer Vladimir Nabokov, who modularized novels into cards and rearranged them. Explore the cognitive value of card-based planning that prevents cognitive overload and flexibly combines creative ideas.",
+      "ja": "小説を断片化してカードに記録し、順序を再配置した作家ウラジーミル・ナボコフ。認知負荷を遮断し、創造的なアイデアを柔軟に結合するカード式企画法の認知科学的価値を明らかにします。",
+      "zh": "将小说模块化为卡片并重新排列的作家弗拉基米尔·纳博科夫。探讨卡片式规划的认知价值，以防止认知超载并灵活组合创意想法。",
+      "es": "El escritor Vladimir Nabokov, quien modularizó novelas en tarjetas y las reorganizó. Explore el valor cognitivo de la planificación basada en tarjetas que evita la sobrecarga cognitiva y combina ideas creativas de manera flexible.",
+      "fr": "L'écrivain Vladimir Nabokov, qui a modularisé ses romans sur des fiches et les a réorganisés. Découvrez la valeur cognitive de la planification sur fiches pour éviter la surcharge cognitive et combiner les idées de manière flexible.",
+      "de": "Schriftsteller Vladimir Nabokov, der Romane in Karten modularisierte und neu ordnete. Erforschen Sie den kognitiven Wert der kartenbasierten Planung, die kognitive Überlastung verhindert und kreative Ideen flexibel kombiniert.",
+      "pt": "O escritor Vladimir Nabokov, que modularizou romances em fichas e os reorganizou. Explore o valor cognitivo do planejamento baseado em fichas que evita a sobrecarga cognitiva e combina ideias criativas de forma flexível.",
+      "id": "Penulis Vladimir Nabokov, yang memodularisasi novel menjadi kartu dan menyusunnya kembali. Jelajahi nilai kognitif perencanaan berbasis kartu yang mencegah kelebihan beban kognitif."
+    },
+    "authority": {
+      "ko": "블라디미르 나보코프 자서전 『말하라, 기억이여 (Speak, Memory)』 및 인지 부하 이론 (Cognitive Load Theory) 기반 작업 기억 최적화 연구",
+      "en": "Vladimir Nabokov's autobiography 'Speak, Memory' and Cognitive Load Theory research on working memory optimization",
+      "ja": "ウラジーミル・ナボコフ自伝『話せ、記憶よ』および認知負荷理論に基づく作業記憶最適化の研究",
+      "zh": "弗拉基米尔·纳博科夫自传《说吧，记忆》及基于认知负荷理论的工作记忆优化研究",
+      "es": "Autobiografía de Vladimir Nabokov 'Habla, memoria' e investigación de la teoría de la carga cognitiva sobre la optimización de la memoria de trabajo",
+      "fr": "Autobiographie de Vladimir Nabokov 'Autres rivages' (Speak, Memory) et recherche sur la théorie de la charge cognitive pour l'optimisation de la mémoire de travail",
+      "de": "Vladimir Nabokovs Autobiografie ‚Erinnerung, sprich‘ und Forschung zur kognitiven Belastungstheorie zur Optimierung des Arbeitsgedächtnisses",
+      "pt": "Autobiografia de Vladimir Nabokov 'Fala, Memória' e pesquisa da teoria da carga cognitiva sobre a otimização da memória de trabalho",
+      "id": "Autobiografi Vladimir Nabokov 'Speak, Memory' dan penelitian Teori Beban Kognitif tentang optimasi memori kerja"
+    },
+    "intro": {
+      "ko": "《롤리타》와 《불안정한 불꽃》 등 정교한 구조와 유려한 문체로 20세기 영문학의 절정을 보여준 블라디미르 나보코프. 그는 놀랍게도 소설을 쓸 때 첫 페이지부터 순서대로 집필하지 않았습니다. 대신 3x5인치의 인덱스 카드에 머릿속에 떠오르는 대사, 묘사, 플롯의 파편들을 기록해 나갔습니다. 나보코프는 이 카드들을 책상 위에 늘어놓고 자유롭게 섞으며 순서를 배치해 나갔으며, 심지어 차 안이나 나비 채집 중에도 카드를 지니고 다니며 생각을 붙잡았습니다. 뇌과학적으로 이 모듈식 기록법이 왜 복잡한 프로젝트와 글쓰기에 최적의 전략인지 파헤쳐 봅니다.",
+      "en": "Vladimir Nabokov, who showed the peak of 20th-century English literature with elaborate structures in Lolita. Surprisingly, he did not write his novels in chronological order. Instead, he wrote dialogue, descriptions, and plot fragments on 3x5 inch index cards. Nabokov laid these cards on his desk and rearranged them freely, even carrying them in his car or while collecting butterflies. We explore why this modular writing method is a powerful cognitive strategy for complex projects and writing.",
+      "ja": "『ロリータ』などの精巧な構造と流麗な文体で20世紀英文学の絶頂を示したウラジーミル・ナボコフ。驚くべきことに、彼は小説を書くとき、最初のページから順番に執筆しませんでした。代わりに、3x5インチのインデックスカードに頭に浮かぶ台詞、描写、プロットの断片を記録していきました。ナボコフはこれらのカードを机の上に並べて自由に混ぜながら順序を配置し、車の中や蝶の採集仲間の中でもカードを持ち歩いて考えを捉えました。脳科学的に、このモジュール式記録法がなぜ複雑なプロジェクトや執筆に最適な戦略なのかを掘り下げます。",
+      "zh": "弗拉基米尔·纳博科夫以《洛丽塔》等作品展现了20世纪英文文学的巅峰。令人惊讶的是，他写小说时并没有按时间顺序来写。相反，他在3x5英寸的索引卡上写下对话、描述和情节碎片。纳博科夫将这些卡片铺在桌子上，自由地重新排列，甚至在车里或收集蝴蝶时也随身携带。我们探讨了为什么这种模块化写作方法是复杂项目和写作的强大认知策略。",
+      "es": "Vladimir Nabokov, quien mostró la cúspide de la literatura inglesa del siglo XX con estructuras elaboradas en Lolita. Sorprendentemente, no escribió sus novelas en orden cronológico. En cambio, escribió diálogos, descripciones y fragmentos de tramas en tarjetas de 3x5 pulgadas. Nabokov colocaba estas tarjetas en su escritorio y las reorganizaba libremente, incluso llevándolas en su automóvil o mientras recolectaba mariposas. Exploramos por qué este método de escritura modular es una estrategia cognitiva poderosa para proyectos complejos y escritura.",
+      "fr": "Vladimir Nabokov, qui a illustré le sommet de la littérature anglaise du XXe siècle avec les structures élaborées de Lolita. Étonnamment, il n'écrivait pas ses romans dans l'ordre chronologique. Au lieu de cela, il rédigeait les dialogues, les descriptions et les fragments d'intrigue sur des fiches de 3x5 pouces. Nabokov étalait ces fiches sur son bureau et les réorganisait librement, les emportant même dans sa voiture ou lors de ses chasses aux papillons. Nous explorons pourquoi cette méthode d'écriture modulaire est une stratégie cognitive puissante pour les projets complexes et l'écriture.",
+      "de": "Vladimir Nabokov, der mit den kunstvollen Strukturen in Lolita den Höhepunkt der englischen Literatur des 20. Jahrhunderts markierte. Überraschenderweise schrieb er seine Romane nicht in chronologischer Reihenfolge. Stattdessen notierte er Dialoge, Beschreibungen und Handlungsfragmente auf 3x5-Zoll-Karteikarten. Nabokov legte diese Karten auf seinen Schreibtisch und ordnete sie frei um. Er trug sie sogar im Auto oder beim Schmetterlingsfangen bei sich. Wir untersuchen, warum diese modulare Schreibmethode eine starke kognitive Strategie für komplexe Projekte und das Schreiben ist.",
+      "pt": "Vladimir Nabokov, que mostrou o auge da literatura inglesa do século XX com estruturas elaboradas em Lolita. Surpreendentemente, ele não escreveu seus romances em ordem cronológica. Em vez disso, ele escreveu diálogos, descrições e fragmentos de enredo em fichas de 3x5 polegadas. Nabokov espalhava essas fichas em sua mesa e as reorganizava livremente, carregando-as até no carro ou enquanto colecionava borboletas. Exploramos por que este método de escrita modular é uma estratégia cognitiva poderosa para projetos complexos e escrita.",
+      "id": "Vladimir Nabokov, yang menunjukkan puncak sastra Inggris abad ke-20 dengan struktur rumit dalam Lolita. Anehnya, dia tidak menulis novelnya secara kronologis. Sebaliknya, dia menulis dialog, deskripsi, dan fragmen plot pada kartu indeks 3x5 inci. Nabokov meletakkan kartu-kartu ini di mejanya dan menyusunnya kembali dengan bebas, bahkan membawanya di mobil. Kami mengeksplorasi mengapa metode penulisan modular ini adalah strategi kognitif yang kuat untuk proyek-proyek rumit."
+    },
+    "whyTitle": {
+      "ko": "인지 부하 차단과 조합적 창의성의 신경 메커니즘",
+      "en": "Neural Mechanisms of Preventing Cognitive Load and Combinatorial Creativity",
+      "ja": "認知負荷の遮断と組み合わせ的創造性の神経メカニズム",
+      "zh": "防止认知超载与组合创造力的神经机制",
+      "es": "Mecanismos neuronales para prevenir la carga cognitiva y la creatividad combinatoria",
+      "fr": "Mécanismes neuronaux de prévention de la charge cognitive et créativité combinatoire",
+      "de": "Neurologische Mechanismen zur Vermeidung kognitiver Belastung und kombinatorischer Kreativität",
+      "pt": "Mecanismos neuronais para prevenir a carga cognitiva e a criatividade combinatória",
+      "id": "Mekanisme Saraf untuk Mencegah Beban Kognitif dan Kreativitas Kombinatorial"
+    },
+    "whyDesc": {
+      "ko": "뇌가 중요하고 완성도 높은 결과물을 만들어야 한다고 인지할 때, 편도체는 실패에 대한 무의식적 경보를 발령하여 지연 행동을 유발합니다. 이때 무가치하고 지극히 사소한 글쓰기를 선행하여 뇌에 '평가받지 않는 안전한 상태'라는 피드백을 전달하면 편도체의 과활동이 잠잠해집니다. 이와 동시에 브로카 영역과 운동 신경 피질이 가볍게 활성화되며 기어가 맞물려, 본 업무 착수 시의 저항 장벽을 획기적으로 낮춰 줍니다.",
+      "en": "The brain's working memory has a limited capacity for processing information at once. Attempting to write complex structures all at once causes cognitive overload, leading to mental blocks and procrastination. Externalizing thoughts into small modular cards empties the working memory, allowing higher-level analysis and creative intuition to emerge. Additionally, physically rearranging cards stimulates the association cortex, sparking unexpected creative connections.",
+      "ja": "脳の作業記憶（ワーキングメモリ）は、一度に処理できる情報の量が非常に限られています。複雑な構造の企画や文章を一度に書こうとすると、認知負荷が発生して脳が麻痺し、先延ばし行動につながります。ナボコフのように思考を小さなモジュール単位でカードに外在化すると、作業記憶空間が空き、より高次元の分析と創造的直感が高まります。また、カードを物理的に再編成するプロセスは、脳の連合野を強く刺激し、思いがけない創造的なつながりを生み出します。",
+      "zh": "大脑的工作记忆一次处理信息的能力非常有限。试图一次性写出复杂的结构会导致认知超载，从而导致思维受阻和拖延。像纳博科夫一样，将想法外化为小的模块化卡片可以清空工作记忆，使更高水平的分析和创造性直觉得以显现。此外，物理上重新排列卡片会刺激联想皮层，激发出意想不到的创造性联系。",
+      "es": "La memoria de trabajo del cerebro tiene una capacidad limitada para procesar información a la vez. Intentar escribir estructuras complejas todo a la vez causa sobrecarga cognitiva, lo que lleva a bloqueos mentales y procrastinación. Externalizar los pensamientos en pequeñas tarjetas modulares vacía la memoria de trabajo, lo que permite que surjan análisis de mayor nivel e intuición creativa. Además, reorganizar físicamente las tarjetas estimula la corteza de asociación, provocando conexiones creativas inesperadas.",
+      "fr": "La mémoire de travail du cerveau a une capacité limitée pour traiter les informations en même temps. Tenter d'écrire des structures complexes en une seule fois provoque une surcharge cognitive, entraînant des blocages mentaux et de la procrastination. L'externalisation des pensées sur de petites fiches modulaires libère la mémoire de travail, permettant à l'analyse de haut niveau et à l'intuition créative d'émerger. De plus, réorganiser physiquement les fiches stimule le cortex d'association, créant des connexions créatives inattendues.",
+      "de": "Das Arbeitsgedächtnis des Gehirns hat eine begrenzte Kapazität, Informationen gleichzeitig zu verarbeiten. Der Versuch, komplexe Strukturen auf einmal zu schreiben, führt zu kognitiver Überlastung, was zu Denkblockaden und Aufschiebeverhalten führt. Das Auslagern von Gedanken auf kleine modulare Karten leert das Arbeitsgedächtnis, sodass übergeordnete Analysen und kreative Intuition entstehen können. Darüber hinaus stimuliert das physische Neuordnen von Karten den Assoziationscortex und lässt unerwartete kreative Verbindungen entstehen.",
+      "pt": "A memória de trabalho do cérebro tem uma capacidade limitada para processar informações de uma só vez. Tentar escrever estruturas complexas de uma só vez causa sobrecarga cognitiva, levando a bloqueios mentais e procrastinação. Externalizar pensamentos em pequenas fichas modulares esvazia a memória de trabalho, permitindo que análises de nível superior e intuição criativa surjam. Além disso, reorganizar fisicamente as fichas estimula o córtex de associação, gerando conexões criativas inesperadas.",
+      "id": "Memori kerja otak memiliki kapasitas terbatas untuk memproses informasi sekaligus. Mencoba menulis struktur yang rumit sekaligus menyebabkan kelebihan beban kognitif, menyebabkan kemacetan mental. Eksternalisasi pikiran menjadi kartu modular kecil mengosongkan memori kerja, memungkinkan analisis tingkat tinggi. Selain itu, menyusun ulang kartu secara fisik merangsang korteks asosiasi."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "카드 쓰기에 심취하여 각 카드를 연관성 없이 마구잡이로 적어두기만 하면, 나중에 이를 하나로 엮을 때 거대한 파편화의 장벽에 부딪히게 됩니다. 따라서 카드 하나에는 반드시 단 하나의 완결된 생각이나 에피소드만 기록해야 하며, 가끔은 전체 맥락의 아키텍처(예: 전체 아웃라인)를 상기하며 카드의 대략적인 카테고리를 미리 분류해 두는 완충 노력이 필요합니다.",
+      "en": "The pitfall of this method is generating too many disconnected card fragments, making it difficult to weave them into a coherent whole. To avoid this, write exactly one complete thought or episode per card, and occasionally review the overall outline or categorize cards to maintain a guiding structure.",
+      "ja": "カード書きに熱中して、各カードを関連性なく無差別に書き留めておくだけだと、後でこれを一つにまとめる際に巨大な断片化の障壁にぶつかることになります。したがって、カード一枚には必ず単一の完結した考えやエピソードだけを記録しなければならず、時には全体文脈のアーキテクチャ（例：全体のアウトライン）を想起しながら、カードの大まかなカテゴリをあらかじめ分類しておく緩衝の努力が必要です。",
+      "zh": "这种方法的缺点是会产生太多断开连接的卡片碎片，从而很难将它们编织成一个连贯的整体。为了避免这种情况，每张卡片只写一个完整的想法或事件，并偶尔回顾一下整体大纲或对卡片进行分类以保持指导结构。",
+      "es": "El peligro de este método es generar demasiados fragmentos de tarjetas desconectados, lo que dificulta tejerlos en un todo coherente. Para evitar esto, escriba exactamente un pensamiento o episodio completo por tarjeta y, ocasionalmente, revise el esquema general o categorice las tarjetas para mantener una estructura guía.",
+      "fr": "Le piège de cette méthode est de générer trop de fragments de fiches déconnectés, ce qui rend difficile leur intégration dans un tout cohérent. Pour éviter cela, écrivez exactement une pensée ou un épisode complet par fiche, et passez en revue de temps en temps le plan général ou catégorisez les fiches pour conserver une structure directrice.",
+      "de": "Die Falle dieser Methode besteht darin, zu viele unzusammenhängende Kartenfragmente zu erzeugen, was es schwierig macht, sie zu einem zusammenhängenden Ganzen zu weben. Um dies zu vermeiden, schreiben Sie genau einen vollständigen Gedanken oder eine Episode pro Karte auf und überprüfen Sie gelegentlich die Gesamtskizze oder kategorisieren Sie die Karten, um eine leitende Struktur beizubehalten.",
+      "pt": "O perigo deste método é gerar muitos fragmentos de fichas desconectados, tornando difícil tecê-los em um todo coerente. Para evitar isso, escreva exatamente um pensamento ou episódio completo por ficha e, ocasionalmente, revise o esboço geral ou categorize as fichas para manter uma estrutura guia.",
+      "id": "Kelemahan metode ini adalah menghasilkan terlalu banyak fragmen kartu yang terputus, sehingga sulit untuk merajutnya menjadi satu kesatuan yang koheren. Untuk menghindarinya, tulis tepat satu pikiran lengkap per kartu, dan sesekali tinjau garis besar keseluruhan."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "1화면 1개념 단위의 카드 기록",
+          "en": "Writing Single Concepts on Cards",
+          "ja": "1カード1概念単位のカード記録",
+          "zh": "单概念卡片记录",
+          "es": "Escribir conceptos únicos en tarjetas",
+          "fr": "Écrire des concepts uniques sur les fiches",
+          "de": "Einzelne Konzepte auf Karten schreiben",
+          "pt": "Escrever conceitos únicos em fichas",
+          "id": "Menulis Konsep Tunggal pada Kartu"
+        },
+        "text": {
+          "ko": "아이디어나 묘사, 할 일 목록이 떠오르면 다른 내용과 섞지 않고 하나의 카드에 오직 하나의 개념만 명확히 기록합니다.",
+          "en": "When an idea, description, or task arises, write only one concept clearly on a single card without mixing it with other details.",
+          "ja": "アイデアや描写、ToDoリストが思い浮かんだら、他の内容と混ぜずに一つのカードに唯一つの概念だけを明確に記録します。",
+          "zh": "当有想法、描述或任务产生时，在一张卡片上只写一个明确的概念，不要与其他细节混淆。",
+          "es": "Cuando surja una idea, descripción o tarea, escriba solo un concepto claramente en una sola tarjeta sin mezclarlo con otros detalles.",
+          "fr": "Lorsqu'une idée, une description ou une tâche surgit, écrivez un seul concept clairement sur une fiche sans le mélanger avec d'autres détails.",
+          "de": "Wenn eine Idee, Beschreibung oder Aufgabe entsteht, schreiben Sie nur ein Konzept klar auf eine einzelne Karte, ohne es mit anderen Details zu vermischen.",
+          "pt": "Quando surgir uma ideia, descrição ou tarefa, escreva apenas um conceito claramente em uma única ficha, sem misturá-lo com outros detalhes.",
+          "id": "Ketika sebuah ide, deskripsi, atau tugas muncul, tulis hanya satu konsep secara jelas pada satu kartu tanpa mencampurnya dengan detail lain."
+        }
+      },
+      {
+        "name": {
+          "ko": "물리적 나열 및 자유로운 셔플링",
+          "en": "Physical Arrangement and Free Shuffling",
+          "ja": "物理的な羅列と自由なシャッフル",
+          "zh": "物理排列与自由打乱",
+          "es": "Organización física y mezcla libre",
+          "fr": "Disposition physique et mélange libre",
+          "de": "Physische Anordnung und freies Mischen",
+          "pt": "Organização física e mistura livre",
+          "id": "Penyusunan Fisik dan Pengocokan Bebas"
+        },
+        "text": {
+          "ko": "작성된 카드들을 책상 위에 넓게 펼쳐두고, 고정관념을 버린 채 순서를 앞뒤로 바꾸거나 새로운 논리적 결합을 시도합니다.",
+          "en": "Spread the written cards across a table and attempt to shuffle or rearrange them into new logical sequences, discarding preconceived notions.",
+          "ja": "作成したカードを机の上に広く広げ、固定観念を捨てて順序を前後に変えたり、新しい論理的結合を試みます。",
+          "zh": "将写好的卡片铺在桌子上，抛开先入为主的想法，尝试打乱或重新排列成新的逻辑顺序。",
+          "es": "Extienda las tarjetas escritas sobre una mesa e intente barajarlas o reorganizarlas en nuevas secuencias lógicas, descartando nociones preconcebidas.",
+          "fr": "Étalez les fiches rédigées sur une table et essayez de les mélanger ou de les réorganiser dans de nouvelles séquences logiques, en abandonnant les idées préconçues.",
+          "de": "Verteilen Sie die beschriebenen Karten auf einem Tisch und versuchen Sie, sie in neue logische Abfolgen zu mischen oder neu anzuordnen, ohne vorgefasste Meinungen.",
+          "pt": "Espalhe as fichas escritas em uma mesa e tente embaralhá-las ou reorganizá-las em novas sequências lógicas, descartando noções preconcebidas.",
+          "id": "Sebarkan kartu-kartu yang telah ditulis di atas meja dan cobalah untuk mengocok atau menyusunnya kembali menjadi urutan logis baru."
+        }
+      },
+      {
+        "name": {
+          "ko": "스토리라인 확정 및 살 붙이기",
+          "en": "Finalizing the Sequence and Fleshing It Out",
+          "ja": "ストーリーラインの確定と肉付け",
+          "zh": "确定顺序并充实内容",
+          "es": "Finalizar la secuencia y desarrollarla",
+          "fr": "Finaliser la séquence et l'étoffer",
+          "de": "Die Sequenz abschließen und ausarbeiten",
+          "pt": "Finalizar a sequência e desenvolvê-la",
+          "id": "Menyelesaikan Urutan dan Mengembangkan Isi"
+        },
+        "text": {
+          "ko": "최적의 배열이 완성되면 카드들의 흐름을 고정하고, 첫 카드부터 순서대로 살을 붙여가며 전체 문서나 기획을 완성합니다.",
+          "en": "Once the optimal order is decided, freeze the sequence and write out the full details step-by-step following the card flow.",
+          "ja": "最適な配列が完成したらカードの流れを固定し、最初のカードから順番に肉付けしていき、文書全体や企画を完成させます。",
+          "zh": "一旦确定了最佳顺序，就固定该顺序，并按照卡片流程逐步写出完整的细节。",
+          "es": "Una vez decidida la secuencia óptima, fije el orden y escriba los detalles completos paso a paso siguiendo el flujo de las tarjetas.",
+          "fr": "Une fois l'ordre optimal décidé, figez la séquence et rédigez les détails complets étape par étape en suivant le flux des fiches.",
+          "de": "Sobald die optimale Reihenfolge festgelegt ist, frieren Sie die Sequenz ein und schreiben Sie die vollständigen Details Schritt für Schritt gemäß dem Kartenfluss auf.",
+          "pt": "Uma vez decidida a sequência ideal, fixe a ordem e escreva os detalhes completos passo a passo seguindo o fluxo das fichas.",
+          "id": "Setelah urutan optimal ditentukan, kunci urutan tersebut dan tulis detail lengkapnya langkah demi langkah mengikuti alur kartu."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "실물 종이 카드가 아닌 디지털 메모 도구로도 나보코프의 카드 구성법을 재현할 수 있나요?",
+          "en": "Can Nabokov's index card method be replicated using digital note tools instead of physical cards?",
+          "ja": "実物の紙カードではなく、デジタルメモツールでもナボコフのカード構成法を再現できますか？",
+          "zh": "是否可以使用数字化笔记工具代替物理卡片来复制纳博科夫的索引卡方法？",
+          "es": "¿Se puede replicar el método de tarjetas de Nabokov usando herramientas de notas digitales en lugar de tarjetas físicas?",
+          "fr": "La méthode de fiches de Nabokov peut-elle être reproduite à l'aide d'outils de notes numériques au lieu de fiches physiques ?",
+          "de": "Kann Nabokovs Karteikartenmethode mit digitalen Notizwerkzeugen anstelle von physischen Karten repliziert werden?",
+          "pt": "O método de fichas de Nabokov pode ser replicado usando ferramentas de notas digitais em vez de fichas físicas?",
+          "id": "Apakah metode kartu indeks Nabokov dapat direplikasi menggunakan alat catatan digital alih-alih kartu fisik?"
+        },
+        "answer": {
+          "ko": "네, 가능합니다. 노션(Notion)의 칸반 보드 뷰, 트레로(Trello), 혹은 화이트보드 툴(Miro, FigJam) 등을 활용해 생각 조각들을 카드로 만들고 마우스로 드래그하여 배치할 수 있습니다. 중요한 핵심은 긴 줄글을 한 번에 쓰지 않고, 생각을 '모듈화'하여 언제든 이동 가능한 상태로 객체화하는 것에 있습니다.",
+          "en": "Yes, absolutely. You can use Kanban boards in Notion, Trello, or digital whiteboards like Miro or FigJam to create cards and drag them around. The core principle is not writing long continuous text at once, but rather modularizing thoughts into movable objects.",
+          "ja": "はい、可能です。Notionのカンバンボードビュー、Trello、あるいはホワイトボードツール（Miro、FigJam）などを活用して、思考の断片をカードにしてマウスでドラッグして配置することができます。重要な核心は、長い文章を一度に書くのではなく、思考を「モジュール化」していつでも移動可能な状態にオブジェクト化することにあります。",
+          "zh": "是的，完全可以。您可以使用 Notion 中的看板视图、Trello 或 Miro、FigJam 等数字化白板来创建卡片并拖动它们。核心原则不是一次写下长篇连续的文字，而是将想法“模块化”为可移动的对象。",
+          "es": "Sí, absolutamente. Puede usar tableros Kanban en Notion, Trello o pizarras digitales como Miro o FigJam para crear tarjetas y arrastrarlas. El principio básico no es escribir textos continuos largos a la vez, sino modularizar los pensamientos en objetos móviles.",
+          "fr": "Oui, absolument. Vous pouvez utiliser les tableaux Kanban de Notion, Trello ou des tableaux blancs numériques comme Miro ou FigJam pour créer des cartes et les faire glisser. Le principe fondamental n'est pas d'écrire de longs textes continus à la fois, mais plutôt de modulariser les pensées en objets mobiles.",
+          "de": "Ja, absolut. Sie können Kanban-Boards in Notion, Trello oder digitale Whiteboards wie Miro oder FigJam verwenden, um Karten zu erstellen und sie zu verschieben. Das Kernprinzip besteht darin, nicht lange, zusammenhängende Texte auf einmal zu schreiben, sondern Gedanken in bewegliche Objekte zu modularisieren.",
+          "pt": "Sim, absolutamente. Você pode usar quadros Kanban no Notion, Trello ou quadros digitais como Miro ou FigJam para criar fichas e arrastá-las. O princípio básico não é escrever textos longos e contínuos de uma só vez, mas sim modularizar os pensamentos em objetos móveis.",
+          "id": "Ya, tentu saja. Anda dapat menggunakan papan Kanban di Notion, Trello, atau papan tulis digital seperti Miro atau FigJam untuk membuat kartu. Prinsip utamanya adalah memodularisasi pikiran menjadi objek yang dapat dipindahkan."
+        }
+      }
+    ]
+  }
+}

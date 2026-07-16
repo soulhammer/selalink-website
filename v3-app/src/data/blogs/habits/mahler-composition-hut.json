@@ -1,0 +1,192 @@
+{
+  "mahler-composition-hut": {
+    "title": {
+      "ko": "완벽한 고립의 힘: 구스타프 말러의 작곡 오두막 루틴",
+      "en": "The Power of Absolute Isolation: Gustav Mahler's Composing Hut Routine",
+      "ja": "完璧な孤立の力：グスタフ・マーラーの作曲小屋ルーティン",
+      "zh": "绝对孤立的力量：古斯塔夫·马勒的作曲小屋规程",
+      "es": "El poder del aislamiento absoluto: la rutina de la cabaña de composición de Gustav Mahler",
+      "fr": "Le pouvoir de l'isolement absolu : la routine de la cabane de composition de Gustav Mahler",
+      "de": "Die Kraft absoluter Isolation: Gustav Mahlers Komponierhäuschen-Routine",
+      "pt": "O poder do isolamento absoluto: a rotina da cabana de composição de Gustav Mahler",
+      "id": "Kekuatan Isolasi Mutlak: Rutinitas Pondok Komposisi Gustav Mahler"
+    },
+    "description": {
+      "ko": "여름마다 알프스 숲속 오두막에 자신을 격리하고 거대한 심포니를 창작한 작곡가 구스타프 말러. 외부의 모든 자극을 차단하고 뇌를 딥 워크(Deep Work) 상태로 진입시키는 몰입의 공간 심리학을 연구합니다.",
+      "en": "Composer Gustav Mahler, who isolated himself in an Alpine hut each summer to write massive symphonies. Explore the environmental psychology of deep work that shuts out external stimuli and unlocks maximum focus.",
+      "ja": "夏ごとにアルプスの森の中の小屋に身を隔離し、巨大な交響曲を創作した作曲家グスタフ・マーラー。外部のすべての刺激を遮断し、脳をディープワーク状態に進入させる没入の空間心理学を研究します。",
+      "zh": "作曲家古斯塔夫·马勒每年夏天都将自己孤立在阿尔卑斯山的小屋里，创作宏大的交响曲。探讨排除外部刺激并释放最大专注力的深度工作环境心理学。",
+      "es": "El compositor Gustav Mahler, quien se aislaba en una cabaña alpina cada verano para escribir sinfonías masivas. Explore la psicología ambiental del trabajo profundo que bloquea los estímulos externos y libera la máxima concentración.",
+      "fr": "Le compositeur Gustav Mahler, qui s'isolait chaque été dans une cabane alpine pour écrire des symphonies massives. Découvrez la psychologie environnementale du travail en profondeur qui exclut les stimuli externes et libère une concentration maximale.",
+      "de": "Komponist Gustav Mahler, der sich jeden Sommer in eine Almhütte zurückzog, um gewaltige Sinfonien zu schreiben. Erforschen Sie die Umweltpsychologie der konzentrierten Arbeit, die äußere Reize ausschließt und maximale Fokussierung ermöglicht.",
+      "pt": "O compositor Gustav Mahler, que se isolava em uma cabana alpina a cada verão para escrever sinfonias massivas. Explore a psicologia ambiental do trabalho profundo que bloqueia estímulos externos e libera o foco máximo.",
+      "id": "Komposer Gustav Mahler, yang mengisolasi diri di pondok Alpen setiap musim panas untuk menulis simfoni masif. Jelajahi psikologi lingkungan dari kerja mendalam."
+    },
+    "authority": {
+      "ko": "알마 말러 회고록 『구스타프 말러: 기억과 편지』 고증 및 뇌의 인지 통제(Cognitive Control)를 위한 소음 제어와 환경적 고립의 효과 연구",
+      "en": "Alma Mahler's memoir 'Gustav Mahler: Memories and Letters' and research on noise control and isolation for cognitive control",
+      "ja": "アルマ・マーラー回想録『グスタフ・マーラー：記憶と手紙』考証および脳の認知統制のための騒音制御と環境的孤立の効果の研究",
+      "zh": "阿尔玛·马勒的回忆录《古斯塔夫·马勒：记忆与信件》及关于认知控制的噪音控制与孤立研究",
+      "es": "Memorias de Alma Mahler 'Gustav Mahler: recuerdos y cartas' e investigación sobre el control del ruido y el aislamiento para el control cognitivo",
+      "fr": "Mémoires d'Alma Mahler 'Gustav Mahler : Souvenirs et Lettres' et recherche sur le contrôle du bruit et l'isolement pour le contrôle cognitif",
+      "de": "Alma Mahlers Memoiren ‚Gustav Mahler: Erinnerungen und Briefe‘ und Forschung zu Lärmkontrolle und Isolation zur kognitiven Kontrolle",
+      "pt": "Memórias de Alma Mahler 'Gustav Mahler: Lembranças e Cartas' e pesquisas sobre controle de ruído e isolamento para controle cognitivo",
+      "id": "Memoar Alma Mahler 'Gustav Mahler: Memories and Letters' dan penelitian tentang pengendalian kebisingan dan isolasi untuk kontrol kognitif"
+    },
+    "intro": {
+      "ko": "거대한 편성의 악기와 형이상학적 성찰을 담은 불멸의 교향곡들을 작곡한 오스트리아의 거장 구스타프 말러. 평소 바쁜 지휘자 생활을 보냈던 그는 극도로 한정된 여름 휴가 기간에 모든 음악적 에너지를 쏟아내야 했습니다. 말러가 이 한계를 극복하기 위해 선택한 방법은 알프스 산맥 깊은 숲속에 오직 자신만을 위해 지은 아주 작은 '작곡 오두막(Composition Hut)'이었습니다. 매일 아침 6시, 하인이 오두막 문 앞에 아침 식사를 두고 소리 없이 사라지면, 말러는 그곳에 들어가 점심때까지 문을 걸어 잠그고 격리되었습니다. 뇌과학적으로 이 절대적인 고립 루틴이 어떻게 뇌를 극강의 창조적 영역으로 이끄는지 분석합니다.",
+      "en": "Gustav Mahler, the Austrian master who composed immortal symphonies with massive orchestrations. During his busy conductorship, he had to pour all his musical energy during limited summer breaks. To achieve this, Mahler constructed a tiny 'Composing Hut' deep in the Alpine forest. Every morning at 6 AM, after breakfast was left at the door, Mahler locked himself inside until noon. We explore how this absolute isolation routine guides the brain into peak creative performance.",
+      "ja": "巨大な編成の楽器と形而上学的考察を盛り込んだ不滅の交響曲を作曲したオーストリアの巨匠グスタフ・マーラー。普段忙しい指揮者生活を送っていた彼は、極めて限られた夏休みの期間にすべての音楽的エネルギーを注ぎ込まなければなりませんでした。マーラーがこの限界を克服するために選択した方法は、アルプス山脈の深い森の中にただ自分のためだけに建てた極小の「作曲小屋（Composition Hut）」でした。毎朝6時、使用人が小屋のドアの前に朝食を置いて音もなく消えると、マーラーはそこに入って正午までドアに鍵をかけて隔離されました。脳科学的にこの絶対的な孤立ルーティンがどのように脳を究極の創造的領域へと導くのかを分析します。",
+      "zh": "古斯塔夫·马勒，这位奥地利大师创作了包含庞大管弦乐编制的不朽交响曲。在他繁忙的指挥生涯中，他必须在有限的夏季度假期间倾注全部的音乐能量。为了实现这一目标，马勒在阿尔卑斯深林中建造了一座小巧的“作曲小屋”。每天清晨6点，早餐被放在门口后，马勒就会将自己锁在里面直到中午。我们探讨了这种绝对的孤立规程如何引导大脑进入巅峰创意表现。",
+      "es": "Gustav Mahler, el maestro austriaco que compuso sinfonías inmortales con orquestaciones masivas. Durante su ocupada dirección, tuvo que verter toda su energía musical durante las limitadas vacaciones de verano. Para lograr esto, Mahler construyó una pequeña 'cabaña de composición' en lo profundo del bosque alpino. Cada mañana a las 6 a.m., después de dejar el desayuno en la puerta, Mahler se encerraba adentro hasta el mediodía. Exploramos cómo esta rutina de aislamiento absoluto guía al cerebro hacia el máximo rendimiento creativo.",
+      "fr": "Gustav Mahler, le maître autrichien qui a composé des symphonies immortelles aux orchestrations massives. Pendant sa direction d'orchestre très occupée, he devait concentrer toute son énergie musicale pendant ses courtes vacances d'été. Pour y parvenir, Mahler a construit une minuscule « cabane de composition » au plus profond de la forêt alpine. Chaque matin à 6 heures, après que son petit-déjeuner avait été déposé devant la porte, Mahler s'enfermait à clé jusqu'à midi. Nous explorons comment cette routine d'isolement absolu guide le cerveau vers ses performances créatives maximales.",
+      "de": "Gustav Mahler, der österreichische Meister, der unsterbliche Sinfonien mit gewaltigen Orchestrierungen komponierte. Während seiner geschäftigen Dirigententätigkeit musste er seine gesamte musikalische Energie in den kurzen Sommerferien bündeln. Um dies zu erreichen, baute Mahler ein winziges ‚Komponierhäuschen‘ tief im Almenwald. Jeden Morgen um 6 Uhr, nachdem das Frühstück vor der Tür abgestellt worden war, schloss sich Mahler bis zum Mittag ein. Wir untersuchen, wie diese absolute Isolationsroutine das Gehirn zu kreativen Höchstleistungen führt.",
+      "pt": "Gustav Mahler, o mestre austríaco que compôs sinfonias imortais com orquestrações massivas. Durante sua ocupada regência, ele teve que despejar toda a sua energia musical durante as limitadas férias de verão. Para conseguir isso, Mahler construiu uma pequena 'cabana de composição' no fundo da floresta alpina. Todas as manhãs, às 6h, após o café da manhã ser deixado na porta, Mahler se trancava lá dentro até o meio-dia. Exploramos como essa rotina de isolamento absoluto guia o cérebro ao pico do desempenho criativo.",
+      "id": "Gustav Mahler, maestro Austria yang mengubah simfoni abadi dengan orkestrasi masif. Selama masa kepemimpinannya yang sibuk, dia harus mencurahkan energi musiknya selama liburan musim panas. Untuk mencapai hal ini, Mahler membangun 'Pondok Komposisi' kecil di hutan Alpen. Setiap pagi pukul 6 pagi, Mahler mengunci diri di dalam hingga siang. Kami menjelajahi bagaimana isolasi mutlak ini membantu kinerja kreatif puncak."
+    },
+    "whyTitle": {
+      "ko": "자극 통제를 통한 전두엽 가용 용량의 극대화",
+      "en": "Maximizing Prefrontal Cortex Capacity via Stimulus Control",
+      "ja": "刺激統制による前頭葉可用容量の最大化",
+      "zh": "通过刺激控制最大化前额叶皮层容量",
+      "es": "Maximizar la capacidad de la corteza prefrontal mediante el control de estímulos",
+      "fr": "Maximiser la capacité du cortex préfrontal via le contrôle des stimuli",
+      "de": "Maximierung der Kapazität des präfrontalen Cortex durch Reizkontrolle",
+      "pt": "Maximizar a capacidade do córtex préfrontal através do controle de estímulos",
+      "id": "Memaksimalkan Kapasitas Korteks Prefrontal melalui Kontrol Stimulus"
+    },
+    "whyDesc": {
+      "ko": "현대인들은 업무 중 수많은 디지털 알림, 소음, 대화 등 정보의 과잉에 시달립니다. 우리의 전두엽은 이러한 불필요한 자극을 억제하고 걸러내는 데 막대한 인지 에너지를 소모합니다. 말러가 구축한 물리적 고립은 이러한 '억제적 인지 부하'를 완전히 제거합니다. 숲이라는 고요한 자연 환경은 뇌의 도파민 계통을 안정시키며 스트레스를 낮추고, 가용한 전두엽의 작업 기억 자원을 복잡하고 거대한 아키텍처 구상과 예술적 직관에 100% 쏟아부을 수 있게 만들어 줍니다.",
+      "en": "Modern professionals suffer from cognitive overload due to digital notifications, noise, and conversations. The prefrontal cortex expends massive cognitive energy suppressing these unnecessary stimuli. The physical isolation Mahler created eliminates this inhibitory cognitive load. The quiet forest environment stabilizes the dopamine system, reduces stress, and allows 100% of working memory resources to be allocated to complex architecture planning and artistic intuition.",
+      "ja": "現代人は業務中、数多くのデジタル通知、騒音、会話など情報の過剰に悩まされています。私たちの前頭葉は、このような不要な刺激を抑制し、フィルタリングするのに莫大な認知エネルギーを消費します。マーラーが構築した物理的孤立は、このような「抑制的認知負荷」を完全に排除します。森という静かな自然環境は脳のドーパミンシステムを安定させてストレスを下げ、利用可能な前頭葉の作業記憶資源を複雑で巨大なアーキテクチャの構想や芸術的直感に100％注ぎ込めるようにしてくれます。",
+      "zh": "现代专业人士因数字化通知、噪音和谈话而承受认知过载。前额叶皮层消耗大量的认知能量来抑制这些不必要的刺激。马勒创造的物理孤立消除了这种抑制性认知负荷。安静的森林环境稳定了多巴胺系统，减轻了压力，并允许100%的工作记忆资源分配给复杂的架构规划和艺术直觉。",
+      "es": "Los profesionales modernos sufren de sobrecarga cognitiva debido a notificaciones digitales, ruidos y conversaciones. La corteza prefrontal gasta una enorme energía cognitiva para suprimir estos estímulos innecesarios. El aislamiento físico que creó Mahler elimina esta carga cognitiva inhibidora. El entorno tranquilo del bosque estabiliza el sistema de dopamina, reduce el estrés y permite asignar el 100% de los recursos de la memoria de trabajo a la planificación de arquitecturas complejas y la intuición artística.",
+      "fr": "Les professionnels modernes souffrent de surcharge cognitive due aux notifications numériques, au bruit et aux conversations. Le cortex préfrontal dépense une énergie cognitive massive pour supprimer ces stimuli inutiles. L'isolement physique créé par Mahler élimine cette charge cognitive inhibitrice. L'environnement calme de la forêt stabilise le système dopaminergique, réduit le stress et permet d'allouer 100 % des ressources de la mémoire de travail à la planification d'architectures complexes et à l'intuition artistique.",
+      "de": "Moderne Berufstätige leiden unter kognitiver Überlastung durch digitale Benachrichtigungen, Lärm und Gespräche. Der präfrontale Cortex verbraucht enorme kognitive Energie, um diese unnötigen Reize zu unterdrücken. Die physische Isolation, die Mahler schuf, eliminiert diese hemmende kognitive Belastung. Die ruhige Waldumgebung stabilisiert das Dopaminsystem, reduziert Stress und ermöglicht es, 100 % der Ressourcen des Arbeitsgedächtnisses für die komplexe Architekturplanung und künstlerische Intuition bereitzustellen.",
+      "pt": "Os profissionais modernos sofrem de sobrecarga cognitiva devido a notificações digitais, ruído e conversas. O córtex pré-frontal despende uma enorme energia cognitiva suprimindo estes estímulos desnecessários. O isolamento físico que Mahler criou elimina esta carga cognitiva inibidora. O ambiente tranquilo da floresta estabiliza o sistema de dopamina, reduz o estresse e permite que 100% dos recursos da memória de trabalho sejam alocados ao planejamento de arquiteturas complexas e à intuição artística.",
+      "id": "Profesional modern menderita kelebihan beban kognitif akibat notifikasi digital, kebisingan, dan percakapan. Korteks prefrontal menghabiskan energi kognitif yang besar untuk menekan stimulus yang tidak perlu ini. Isolasi fisik yang diciptakan Mahler menghilangkan beban kognitif penghambat ini. Lingkungan hutan yang tenang menstabilkan sistem dopamin, mengurangi stres, dan memungkinkan memori kerja dialokasikan untuk perencanaan arsitektur rumit."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "완벽한 격리가 가져오는 치명적인 부작용은 고립감과 이로 인한 인지적 정체(정체기)입니다. 너무 오랜 시간 다른 사람과 소통하지 않고 격리되면 생각의 시야가 좁아지고 우울감을 유도할 수 있습니다. 따라서 격리 집필은 하루 최대 4시간 정도로 제한하여 고도의 딥 워크로 활용하고, 작업이 끝난 후에는 다시 일상적인 사회적 관계 및 대화로 돌아오는 정서적 균형(Integration)을 반드시 지켜야 합니다.",
+      "en": "A critical side effect of complete isolation is feelings of loneliness and cognitive stagnation. Isolating yourself too long without human interaction narrows perspective and induces low moods. Limit high-density isolation to a maximum of 4 hours daily, and ensure a balance by integrating back into social relationships and daily conversations afterward.",
+      "ja": "完璧な隔離がもたらす致命的な副作用は、孤立感とそれによる認知的停滞（停滞期）です。あまりにも長い時間、他者とコミュニケーションを取らずに隔離されると、思考の視野が狭まり、うつ感を引き起こす可能性があります。したがって、隔離執筆は1日最大4時間程度に制限して高度なディープワークとして活用し、作業が終わった後は再び日常的な社会的関係や対話に戻る情緒的バランス（統合）を必ず守らなければなりません。",
+      "zh": "完全孤立的一个关键副作用是孤独感和认知停滞。在没有人类互动的情况下将自己孤立得太久会使视野变窄并引发低落情绪。将高密度孤立限制在每天最多4小时，并确保事后通过重新融入社会关系和日常谈话来保持平衡。",
+      "es": "Un efecto secundario crítico del aislamiento completo es el sentimiento de soledad y el estancamiento cognitivo. Aislarse demasiado tiempo sin interacción humana estrecha la perspectiva e induce estados de ánimo bajos. Limite el aislamiento de alta densidad a un máximo de 4 horas diarias y asegure un equilibrio integrándose nuevamente en las relaciones sociales y las conversaciones diarias después.",
+      "fr": "Un effet secondaire critique de l'isolement complet est le sentiment de solitude et la stagnation cognitive. S'isoler trop longtemps sans interaction humaine rétrécit la perspective et induit une baisse de moral. Limitez l'isolement à haute densité à un maximum de 4 heures par jour, et assurez un équilibre en vous réintégrant dans les relations sociales et les conversations quotidiennes après.",
+      "de": "Eine kritische Nebenwirkung vollständiger Isolation sind Gefühle von Einsamkeit und kognitiver Stagnation. Sich zu lange ohne menschliche Interaktion zu isolieren, verengt die Perspektive und führt zu gedrückter Stimmung. Begrenzen Sie hochdichte Isolation auf maximal 4 Stunden täglich und sorgen Sie für ein Gleichgewicht, indem Sie sich danach wieder in soziale Beziehungen und alltägliche Gespräche integrieren.",
+      "pt": "Um efeito colateral crítico do isolamento completo são sentimentos de solidão e estagnação cognitiva. Isolar-se por muito tempo sem interação humana estreita a perspectiva e induz desânimo. Limite o isolamento de alta densidade a no máximo 4 horas diárias e garanta o equilíbrio integrando-se novamente às relações sociais e conversas diárias depois.",
+      "id": "Efek samping kritis dari isolasi penuh adalah rasa kesepian dan stagnasi kognitif. Mengisolasi diri terlalu lama tanpa interaksi manusia mempersempit perspektif dan memicu suasana hati yang rendah. Batasi isolasi kepadatan tinggi maksimal 4 jam sehari, dan pastikan keseimbangan dengan bersosialisasi setelahnya."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "나만의 디지털 및 물리적 오두막 지정",
+          "en": "Designating Your Physical and Digital Hut",
+          "ja": "自分だけのデジタル＆物理的小屋の指定",
+          "zh": "指定你的物理和数字小屋",
+          "es": "Designar su cabaña física y digital",
+          "fr": "Désigner sa cabane physique et numérique",
+          "de": "Bestimmung Ihres physischen und digitalen Häuschens",
+          "pt": "Designar sua cabana física e digital",
+          "id": "Menentukan Pondok Fisik dan Digital Anda"
+        },
+        "text": {
+          "ko": "업무 시간 중 방해받지 않을 조용한 독방을 찾거나, 스마트폰 비행기 모드 및 알림 전면 비활성화를 설정해 가상 오두막을 만듭니다.",
+          "en": "Find a quiet private room to work undisturbed, or establish a virtual hut by enabling airplane mode and turning off all digital notifications.",
+          "ja": "業務時間中、邪魔されない静かな個室を探すか、スマートフォンの機内モードや通知の前面非活性化を設定して仮想的な小屋を作ります。",
+          "zh": "寻找一间安静的私人房间以不受打扰地工作，或者通过启用飞行模式和关闭所有数字化通知来建立虚拟小屋。",
+          "es": "Busque una habitación privada y tranquila para trabajar sin interrupciones, o establezca una cabaña virtual activando el modo avión y desactivando todas las notificaciones digitales.",
+          "fr": "Trouvez une pièce privée et calme pour travailler sans être dérangé, ou créez une cabane virtuelle en activant le mode avion et en désactivant toutes les notifications numériques.",
+          "de": "Finden Sie einen ruhigen privaten Raum, um ungestört zu arbeiten, oder richten Sie sich ein virtuelles Häuschen ein, indem Sie den Flugmodus aktivieren und alle digitalen Benachrichtigungen ausschalten.",
+          "pt": "Procure um quarto privado e silencioso para trabalhar sem interrupções, ou estabeleça uma cabana virtual ativando o modo avião e desativando todas as notificações digitais.",
+          "id": "Temukan ruang pribadi yang tenang untuk bekerja tanpa gangguan, atau buat pondok virtual dengan mengaktifkan mode pesawat."
+        }
+      },
+      {
+        "name": {
+          "ko": "오전 시간의 절대 격리 골든 아워 확보",
+          "en": "Securing Golden Hours of Absolute Isolation",
+          "ja": "午前中の絶対隔離ゴールデンアワーの確保",
+          "zh": "确保绝对孤立的黄金时间",
+          "es": "Asegurar horas doradas de aislamiento absoluto",
+          "fr": "Sécuriser les heures dorées d'isolement absolu",
+          "de": "Sicherung goldener Stunden absoluter Isolation",
+          "pt": "Garantir horas de ouro de isolamento absoluto",
+          "id": "Mengamankan Jam Emas Isolasi Mutlak"
+        },
+        "text": {
+          "ko": "가장 두뇌가 맑은 오전 중 최소 2시간을 '고립 몰입 시간'으로 정하고, 이메일 답장이나 잡무를 전면 차단하고 메인 업무에만 집중합니다.",
+          "en": "Set aside at least 2 hours in the morning for high-focus work, delaying emails and minor tasks to focus purely on your core objective.",
+          "ja": "最も頭が冴えている午前中のうち、最低2時間を「孤立没入時間」と定め、メールの返信や雑務を全面的に遮断してメイン業務だけに集中します。",
+          "zh": "早上留出至少2个小时进行高度专注的工作，推迟电子邮件和琐碎任务，专注于核心目标。",
+          "es": "Reserve al menos 2 horas por la mañana para trabajo de alta concentración, retrasando correos electrónicos y tareas menores para enfocarse puramente en su objetivo principal.",
+          "fr": "Réservez au moins 2 heures le matin pour un travail très concentré, en reportant les e-mails et les tâches mineures pour vous concentrer uniquement sur votre objectif principal.",
+          "de": "Planen Sie morgens mindestens 2 Stunden für hochkonzentrierte Arbeit ein. Verschieben Sie E-Mails und Nebentätigkeiten, um sich ausschließlich auf Ihr Kernziel zu konzentrieren.",
+          "pt": "Reserve pelo menos 2 horas pela manhã para trabalhos de alto foco, adiando e-mails e tarefas menores para se concentrar puramente no seu objetivo principal.",
+          "id": "Sediakan setidaknya 2 jam di pagi hari untuk pekerjaan fokus tinggi, menunda email dan tugas minor."
+        }
+      },
+      {
+        "name": {
+          "ko": "의식적 피드백과 이완 루틴 결합",
+          "en": "Combining Conscious Feedback and Relaxation",
+          "ja": "意識的なフィードバックとリラクゼーションルーティンの結合",
+          "zh": "结合意识反馈与放松",
+          "es": "Combinar retroalimentación consciente y relajación",
+          "fr": "Combiner rétroaction consciente et relaxation",
+          "de": "Verbindung von bewusstem Feedback und Entspannung",
+          "pt": "Combinar feedback consciente e relaxamento",
+          "id": "Menggabungkan Umpan Balik Sadar dan Relaksasi"
+        },
+        "text": {
+          "ko": "격리 몰입이 끝나면 즉시 가벼운 산책이나 휴식을 취하여 뇌가 디폴트 모드 네트워크 상태로 돌아오도록 이완을 유도합니다.",
+          "en": "Immediately after the isolation session, take a light walk or relax to allow the brain to transition back to the default mode network.",
+          "ja": "隔離没入が終わったら、すぐに軽い散歩や休息を取り、脳がデフォルトモードネットワーク状態に戻るようリラクゼーションを誘導します。",
+          "zh": "隔离专注结束后，立即进行轻度散歩或放松，以便让大脑转换回默认模式网络。",
+          "es": "Inmediatamente después de la sesión de aislamiento, dé un paseo ligero o relájese para permitir que el cerebro regrese a la red neuronal por defecto.",
+          "fr": "Immédiatement après la séance d'isolement, faites une promenade légère ou détendez-vous pour permettre au cerveau de repasser en mode par défaut.",
+          "de": "Machen Sie unmittelbar nach der Isolationssitzung einen leichten Spaziergang oder entspannen Sie sich, um dem Gehirn den Übergang zurück in das Ruhezustandsnetzwerk zu ermöglichen.",
+          "pt": "Imediatamente após a sessão de isolamento, faça uma caminhada leve ou relaxe para permitir que o cérebro retorne à rede de modo padrão.",
+          "id": "Segera setelah sesi isolasi, lakukan jalan santai atau rileks agar otak kembali ke jaringan mode bawaan."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "개방형 사무실에서 근무하여 물리적으로 격리될 수 없는 직장인은 어떻게 해야 하나요?",
+          "en": "How can office workers in open-plan workspaces apply Mahler's isolation routine?",
+          "ja": "オープンオフィスで勤務しており、物理的に隔離できない会社員はどうすればいいですか？",
+          "zh": "在开放式办公室工作的员工如何应用马勒的孤立规程？",
+          "es": "¿Cómo pueden los empleados en espacios abiertos de trabajo aplicar la rutina de aislamiento de Mahler?",
+          "fr": "Comment les employés travaillant dans des espaces ouverts peuvent-ils appliquer la routine d'isolement de Mahler ?",
+          "de": "Wie können Büroangestellte in Großraumbüros Mahlers Isolationsroutine anwenden?",
+          "pt": "Como os funcionários em escritórios abertos podem aplicar a rotina de isolamento de Mahler?",
+          "id": "Bagaimana pekerja kantor di ruang terbuka dapat menerapkan rutinitas isolasi Mahler?"
+        },
+        "answer": {
+          "ko": "이때는 '청각적 격리'와 '디지털 격리'를 병행해야 합니다. 노이즈 캔슬링 헤드폰을 착용하고 빗소리나 백색 소음을 듣는 것은 뇌에 물리적 벽을 두르는 것과 비슷한 차단 효과를 줍니다. 동시에 메신저 상태를 '방해 금지'로 변경하고 전체 화면 모드로 한 가지 도구만 띄워 놓는 것만으로도 훌륭한 '미니 오두막'을 완성할 수 있습니다.",
+          "en": "In this scenario, employ auditory and digital isolation. Wearing noise-canceling headphones with white noise or ambient sounds acts as a cognitive shield. Combine this by setting communication apps to 'Do Not Disturb' and maximizing your main workspace application to create a digital mini-hut.",
+          "ja": "この場合は「聴覚的隔離」と「デジタル隔離」を併用する必要があります。ノイズキャンセリングヘッドホンを着用し、雨音やホワイトノイズを聞くことは、脳に物理的な壁を設けるのと同様の遮断効果を与えます。同時に、メッセンジャーのステータスを「取り込み中」に変更し、全画面モードで一つのツールだけを表示させておくだけでも、素晴らしい「ミニ小屋」を完成させることができます。",
+          "zh": "在这种情况下，可以结合使用听觉隔离和数字隔离。佩戴降噪耳机并播放白噪音或环境声可以起到认知屏障的作用。结合将沟通软件设置为“勿扰模式”，并最大化主工作台窗口，以创建数字微型小屋。",
+          "es": "En este escenario, emplee el aislamiento auditivo y digital. Usar auriculares con cancelación de ruido con ruido blanco o sonidos ambientales actúa como un escudo cognitivo. Combine esto configurando las aplicaciones de comunicación en 'No molestar' y maximizando la ventana de su área de trabajo principal para crear una minicabaña digital.",
+          "fr": "Dans ce scénario, employez l'isolement auditif et numérique. Porter un casque antibruit avec du bruit blanc ou des sons ambiants agit comme un bouclier cognitif. Combinez cela en configurant les applications de communication sur « Ne pas déranger » et en maximisant la fenêtre de votre espace de travail principal pour créer une mini-cabane numérique.",
+          "de": "Nutzen Sie in diesem Fall akustische und digitale Isolation. Das Tragen von Kopfhörern mit aktiver Geräuschunterdrückung und weißem Rauschen oder Naturklängen wirkt wie ein kognitiver Schutzschild. Kombinieren Sie dies, indem Sie Kommunikations-Apps auf „Bitte nicht stören“ setzen und Ihre Hauptarbeitsanwendung maximieren, um ein digitales Mini-Häuschen zu schaffen.",
+          "pt": "Nesse cenário, utilize o isolamento auditivo e digital. Usar fones de ouvido com cancelamento de ruído com ruído branco ou sons ambientes funciona como um escudo cognitivo. Combine isso definindo os aplicativos de comunicação como 'Não perturbe' e maximizando a janela do seu espaço de trabalho principal para criar uma minicabana digital.",
+          "id": "Dalam skenario ini, gunakan isolasi pendengaran dan digital. Mengenakan headphone peredam bising dengan derau putih berfungsi sebagai pelindung kognitif. Ubah status perpesanan menjadi 'Jangan Ganggu' dan maksimalkan layar utama."
+        }
+      }
+    ]
+  }
+}

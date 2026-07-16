@@ -1,0 +1,192 @@
+{
+  "magritte-suit-painting": {
+    "title": {
+      "ko": "옷차림의 심리학: 르네 마그리트의 정장 집필 루틴",
+      "en": "Psychology of Attire: René Magritte's Suit Painting Routine",
+      "ja": "服装の心理学：ルネ・マグリットのスーツ執筆ルーティン",
+      "zh": "服装心理学：勒内·马格里特的西装写作规程",
+      "es": "Psicología de la vestimenta: la rutina de pintura con traje de René Magritte",
+      "fr": "Psychologie de la tenue : la routine de peinture en costume de René Magritte",
+      "de": "Psychologie der Kleidung: René Magrittes Anzug-Malroutine",
+      "pt": "Psicologia do vestuário: a rotina de pintura de terno de René Magritte",
+      "id": "Psikologi Pakaian: Rutinitas Melukis dengan Setelan Jas René Magritte"
+    },
+    "description": {
+      "ko": "매일 정장을 단정하게 입고 거실 이젤 앞에서 흐트러짐 없이 그림을 그렸던 초현실주의 화가 르네 마그리트. 입는 옷이 뇌에 미치는 인지적 피드백 효과인 착의 인지(Enclothed Cognition)를 밝힙니다.",
+      "en": "Surrealist painter René Magritte, who painted in a suit and bowler hat in his tidy living room. Learn about Enclothed Cognition and how clothing primes the brain for focus.",
+      "ja": "毎日スーツを端正に着て、居間のイーゼルの前で乱れなく絵を描いた超現実主義の画家ルネ・マグリット。着る服が脳に及ぼす認ذي的フィードバック効果である着衣認知（Enclothed Cognition）を解明します。",
+      "zh": "超现实主义画家勒内·马格里特每天穿着整洁的西装，在干净的客厅画架前画画。了解服装认知以及衣服如何激发大脑的专注力。",
+      "es": "El pintor surrealista René Magritte, quien pintaba con traje y bombín en su ordenada sala de estar. Conozca la cognición investida (Enclothed Cognition) y cómo la ropa prepara al cerebro para concentrarse.",
+      "fr": "Le peintre surréaliste René Magritte, qui peignait en costume et chapeau melon dans son salon ordonné. Découvrez la cognition de l'habillement (Enclothed Cognition) et comment les vêtements préparent le cerveau à la concentration.",
+      "de": "Der surrealistische Maler René Magritte, der im Anzug und Melone in seinem ordentlichen Wohnzimmer malte. Erfahren Sie mehr über Enclothed Cognition (kognitive Wirkung von Kleidung) und wie Kleidung das Gehirn auf Fokus einstellt.",
+      "pt": "O pintor surrealista René Magritte, que pintava de terno e chapéu-coco em sua sala arrumada. Saiba mais sobre a cognição do vestuário (Enclothed Cognition) e como as roupas preparam o cérebro para o foco.",
+      "id": "Pelukis surealis René Magritte, yang melukis dengan jas dan topi bowler di ruang tamunya. Pelajari Enclothed Cognition."
+    },
+    "authority": {
+      "ko": "르네 마그리트 전기 『르네 마그리트: 보이지 않는 것의 미학』 및 의복이 신체 자각과 주의력 수행도에 미치는 영향인 착의 인지(Enclothed Cognition) 연구",
+      "en": "Rene Magritte biography 'René Magritte: Torczyner' and cognitive research on Enclothed Cognition influencing attention span",
+      "ja": "ルネ・マグリット伝記『ルネ・マグリット：目に見えないものの美学』および衣類が身体自覚と注意力遂行度に及ぼす影響である着衣認知（Enclothed Cognition）の研究",
+      "zh": "勒内·马格里特传记《勒内·马格里特：看不见的艺术》及关于服装对身体感知与注意力表现影响的服装认知研究",
+      "es": "Biografía de René Magritte 'René Magritte: Torczyner' e investigación cognitiva sobre la cognición investida (Enclothed Cognition) que influye en el lapso de atención",
+      "fr": "Biographie de René Magritte 'René Magritte : Torczyner' et recherche cognitive sur la cognition de l'habillement (Enclothed Cognition) influençant la capacité d'attention",
+      "de": "René-Magritte-Biografie ‚René Magritte: Torczyner‘ und kognitive Forschung zu Enclothed Cognition mit Einfluss auf die Aufmerksamkeitsspanne",
+      "pt": "Biografia de René Magritte 'René Magritte: Torczyner' e pesquisa cognitiva sobre a cognição do vestuário (Enclothed Cognition) que influencia a capacidade de atenção",
+      "id": "Biografi Rene Magritte dan penelitian kognitif tentang Enclothed Cognition yang memengaruhi rentang perhatian"
+    },
+    "intro": {
+      "ko": "파이프가 그려진 그림 밑에 '이것은 파이프가 아니다'라고 적어 고정관념을 전복시킨 벨기에의 전설적인 초현실주의 거장 르네 마그리트. 세상을 기이하게 뒤흔든 그의 예술적 발상과 달리, 그의 실제 일상생활은 지독할 정도로 단정하고 규칙적이었습니다. 그는 밤샘 작업이나 물감을 뒤집어쓰는 난해한 고독 속에서 방황하던 다른 예술가들과 달리, 매일 아침 마치 은행에 출근하는 신사처럼 깔끔하게 어두운 정장(Suit)을 차려입고 중절모를 쓴 채 거실 한구석에 마련한 이젤 앞에 섰습니다. 그는 물감 한 방울도 옷이나 양탄자에 묻히지 않는 정교함과 규칙적인 시간 관리로 그림을 그렸습니다. 뇌과학적으로 이 옷차림 의식이 뇌의 집중력을 어떻게 점화하는지 밝혀냅니다.",
+      "en": "René Magritte, the Belgian surrealist master who challenged perception with 'This is not a pipe.' Contrary to his eccentric art, his daily lifestyle was exceptionally orderly. Unlike painters who worked in chaotic studios, Magritte put on a neat suit and bowler hat every morning, standing before an easel in his tidy living room. He painted with control, never dropping a spot of paint on his clothes or rug. We analyze the cognitive mechanism of how attire primes the brain for peak focus.",
+      "ja": "パイプが描かれた絵の下に「これはパイプではない」と書いて固定観念を覆したベルギーの伝説的な超現実主義の巨匠ルネ・マグリット。世界を奇妙に揺るがした彼の芸術的発想とは異なり、彼の実際の日常生活はひどいほど端正で規則的でした。彼は徹夜作業や絵の具をかぶる難解な孤独の中で彷徨っていた他の芸術家たちとは異なり、毎朝まるで銀行に出勤する紳士のようにすっきりと暗いスーツ（Suit）を着て中折れ帽をかぶったまま、居間の一角に用意したイーゼルの前に立ちました。彼は絵の具の一滴も服や絨毯に付けない精巧さと規則的な時間管理で絵を描きました。脳科学的にこの服装の儀式が脳の集中力をどのように点火するのかを明らかにします。",
+      "zh": "勒内·马格里特，这位比利时超现实主义大师用“这不是一个烟斗”挑战了人们的感知。与其古怪的艺术相反， his 日常生活异常有秩序。与其他在混乱画室里工作的画家不同，马格里特每天早晨穿上整洁的西装，戴上圆顶礼帽，站在客厅一角的画架前画画。他画画时非常克制，从不在衣服或地毯上滴一滴颜料。我们分析了服装如何激发大脑进入巅峰专注状态的认知机制。",
+      "es": "René Magritte, el maestro surrealista belga que desafió la percepción con 'Esto no es una pipa'. Al contrario de su arte excéntrico, su estilo de vida diario era excepcionalmente ordenado. A diferencia de los pintores que trabajaban en estudios caóticos, Magritte se ponía un traje limpio y un bombín cada mañana, parándose ante un easel en su ordenada sala de estar. Pintaba con control, sin dejar caer nunca una gota de pintura en su ropa o alfombra. Analizamos el mecanismo cognitivo de cómo la vestimenta prepara al cerebro para el máximo enfoque.",
+      "fr": "René Magritte, le maître surréaliste belge qui a défié la perception avec « Ceci n'est pas une pipe ». Contrairement à son art excentrique, son mode de vie quotidien était exceptionnellement ordonné. Contrairement aux peintres qui travaillaient dans des ateliers chaotiques, Magritte enfilait chaque matin un costume propre et un chapeau melon, se tenant devant un chevalet dans son salon ordonné. Il peignait avec retenue, ne laissant jamais tomber une tache de peinture sur ses vêtements ou son tapis. Nous analysons le mécanisme cognitif par lequel la tenue prépare le cerveau à une concentration maximale.",
+      "de": "René Magritte, der belgische Meister des Surrealismus, der die Wahrnehmung mit „Dies ist keine Pfeife“ herausforderte. Im Gegensatz zu seiner exzentrischen Kunst war sein täglicher Lebensstil außergewöhnlich geordnet. Anders als Maler, die in chaotischen Ateliers arbeiteten, zog Magritte jeden Morgen einen ordentlichen Anzug und eine Melone an und stellte sich vor eine Staffelei in seinem aufgeräumten Wohnzimmer. Er malte kontrolliert und hinterließ nie einen Farbfleck auf seiner Kleidung oder dem Teppich. Wir analysieren den kognitiven Mechanismus, wie Kleidung das Gehirn auf Spitzenfokussierung einstellt.",
+      "pt": "René Magritte, o mestre surrealista belga que desafiou a percepção com 'Isto não é um cachimbo'. Ao contrário de sua arte excêntrica, seu estilo de vida diário era excepcionalmente ordenado. Ao contrário dos pintores que trabalhavam em ateliês caóticos, Magritte vestia um terno limpo e chapéu-coco todas as manhãs, de pé diante de um cavalete em sua sala arrumada. Ele pintava com controle, nunca deixando cair uma gota de tinta em suas roupas ou tapete. Analisamos o mecanismo cognitivo de como o vestuário prepara o cérebro para o pico de foco.",
+      "id": "René Magritte, maestro surealis Belgia yang menantang persepsi dengan 'Ini bukan pipa.' Kontras dengan seninya yang aneh, gaya hidup hariannya sangat teratur. Berbeda dengan pelukis yang bekerja di studio berantakan, Magritte mengenakan setelan jas rapi dan topi bowler setiap pagi, melukis di ruang tamu. Kami menganalisis cara pakaian membantu fokus."
+    },
+    "whyTitle": {
+      "ko": "착의 인지(Enclothed Cognition)를 통한 자아 정체성 점화와 집중력 증폭",
+      "en": "Enclothed Cognition: Activating Identity and Attentional Control",
+      "ja": "着衣認知（Enclothed Cognition）による自己アイデンティティの点火と集中力の増幅",
+      "zh": "服装认知：激活身份与注意力控制",
+      "es": "Cognición investida (Enclothed Cognition): activar la identidad y el control de la atención",
+      "fr": "Cognition de l'habillement (Enclothed Cognition) : activer l'identité et le contrôle attentionnel",
+      "de": "Enclothed Cognition (kognitive Wirkung von Kleidung): Aktivierung der Identität und Aufmerksamkeitskontrolle",
+      "pt": "Cognição do vestuário (Enclothed Cognition): ativando a identidade e o controle atencional",
+      "id": "Enclothed Cognition: Mengaktifkan Identitas dan Kontrol Perhatian"
+    },
+    "whyDesc": {
+      "ko": "인간의 뇌는 물리적 환경뿐만 아니라 신체와 접촉하고 있는 물질로부터도 지대한 심리적 영향을 받습니다. 인지심리학에서는 이를 '착의 인지(Enclothed Cognition)'라고 정의합니다. 우리가 정장이나 특정 전문 작업복을 갖춰 입을 때, 뇌는 그 옷에 매핑되어 있는 사회적 의미(예: 단정함, 규칙성, 성실함, 책임감)를 무의식적으로 점화합니다. 이 심리적 세팅은 전두엽의 인지 제어 시스템을 즉각 자극하여, 주의가 흐트러지는 것을 차단하고 정밀한 몰입 상태를 촉진합니다. 마그리트가 정장을 차려입은 것은 거실이라는 편안한 공간 속에서도 긴장감을 풀지 않고 뇌에 명확한 '업무 모드'를 지시하는 가장 확실한 물리적 점화 장치였습니다.",
+      "en": "The brain's working memory is influenced by somatic sensations, including the clothes touching our body. Cognitive psychology terms this 'Enclothed Cognition.' Wearing professional or structured attire activates the unconscious identity mapped to those clothes (e.g., discipline, diligence). This primes the prefrontal networks, focusing attention and suppressing distractions. Magritte's suit served as a physical trigger to instruct his brain to enter work-mode, even within his comfortable home environment.",
+      "ja": "人間の脳は物理的な環境だけでなく、身体と接触している物質からも多大な心理的影響を受けます。認知心理学ではこれを「着衣認知（Enclothed Cognition）」と定義します。私たちがスーツや特定の専門作業着を整えて着る時、脳はその服にマッピングされている社会的意味（例：端正さ、規則性、誠実さ、責任感）を無意識のうちに点火します。この心理的セッティングは前頭葉の認知制御システムを即座に刺激し、注意が散漫になるのを遮断して精密な没入状態を促進します。マグリットがスーツを身にまとったのは、居間というリラックスした空間の中でも緊張感を緩めず、脳に明確な「業務モード」を指示する最も確実な物理的点火装置でした。",
+      "zh": "人类的大脑不仅受物理环境的影响，还深受与身体接触的物质的影响。认知心理学将其定义为“服装认知”。当我们穿上西装或特定的专业工作服时，大脑会潜意识地激活与这些衣服相映射的社会学意义（例如，整洁、规律、诚实、责任感）。这种心理设定会立即刺激前额叶的认知控制系统，阻止注意力分散并促进精密的心流状态。马格里特穿着西装，是他在客厅这一轻松空间中也不松懈、向大脑发出明确“工作模式”指令的最可靠物理点火装置。",
+      "es": "La memoria de trabajo del cerebro está influenciada por las sensaciones somáticas, incluida la ropa que toca nuestro cuerpo. La psicología cognitiva denomina a esto 'Cognición investida' (Enclothed Cognition). Usar vestimenta profesional o estructurada activa la identidad inconsciente mapeada a esa ropa (por ejemplo, disciplina, diligencia). Esto prepara las redes prefrontales, enfocando la atención y suprimiendo las distracciones. El traje de Magritte sirvió como un disparador físico para ordenar a su cerebro que entrara en modo de trabajo, incluso dentro de su cómodo entorno hogareño.",
+      "fr": "La mémoire de travail du cerveau est influencée par les sensations somatiques, y compris les vêtements qui touchent notre corps. La psychologie cognitive appelle cela la « cognition de l'habillement » (Enclothed Cognition). Porter une tenue professionnelle ou structurée active l'identité inconsciente associée à ces vêtements (par exemple, la discipline, la diligence). Cela prépare les réseaux préfrontaux, en concentrant l'attention et en supprimant les distractions. Le costume de Magritte a servi de déclencheur physique pour ordonner à son cerveau de passer en mode travail, même dans son environnement domestique confortable.",
+      "de": "Das Arbeitsgedächtnis des Gehirns wird durch somatische Empfindungen beeinflusst, einschließlich der Kleidung, die unseren Körper berührt. Die Kognitionspsychologie bezeichnet dies als „Enclothed Cognition“ (kognitive Wirkung von Kleidung). Das Tragen professioneller oder strukturierter Kleidung aktiviert die unbewusste Identität, die mit dieser Kleidung verbunden ist (z. B. Disziplin, Fleiß). Dies bereitet die präfrontalen Netzwerke vor, fokussiert die Aufmerksamkeit und unterdrückt Ablenkungen. Magrittes Anzug diente als physischer Auslöser, um seinem Gehirn anzuweisen, in den Arbeitsmodus zu wechseln, selbst in seiner komfortablen häuslichen Umgebung.",
+      "pt": "A memória de trabalho do cérebro é influenciada por sensações somáticas, incluindo as roupas que tocam nosso corpo. A psicologia cognitiva chama isso de 'Cognição do Vestuário' (Enclothed Cognition). Vestir roupas profissionais ou estruturadas ativa a identidade inconsciente mapeada para essas roupas (por exemplo, disciplina, diligência). Isso prepara as redes pré-frontais, concentrando a atenção e suprimindo distrações. O terno de Magritte serviu como um gatilho físico para ordenar ao seu cérebro que entrasse no modo de trabalho, mesmo dentro do seu ambiente doméstico confortável.",
+      "id": "Memori kerja otak dipengaruhi oleh sensasi somatik, termasuk pakaian yang menyentuh tubuh kita. Psikologi kognitif menyebutnya 'Enclothed Cognition'. Mengenakan pakaian profesional mengaktifkan identitas bawah sadar yang dipetakan pada pakaian tersebut (misalnya disiplin). Jas Magritte berfungsi sebagai pemicu fisik untuk masuk ke mode kerja."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "착의 인지 효과를 얻겠다고 해서 일할 때 몸을 지나치게 옥죄고 피가 통하지 않는 과도한 불편함을 유도하는 옷을 입는 것은 지양해야 합니다. 신체적 통증이나 심한 조임은 전두엽에 피로 신호를 주어 오히려 몰입을 방해하고 짜증을 유발하기 때문입니다. 단정함을 유지하되 신축성이 있고 촉감이 편안한 셔츠나 슬랙스 등 '단정하지만 장시간 집중하기에 무리가 없는' 수준의 의복 밸런스를 찾는 것이 현명합니다.",
+      "en": "Avoid wearing excessively restrictive or painfully tight clothing in the name of Enclothed Cognition. Physical discomfort or pain acts as a stress signal, distracting the prefrontal cortex and inducing fatigue. Strike a balance by opting for clothing that is neat yet comfortable enough for long focus sessions, like elastic slacks or comfortable button-ups.",
+      "ja": "着衣認知効果を得ようとして、仕事の時に身体を過度に締め付け、血が通わないほどの不快感を誘発する服を着ることは避けるべきです。物理的な痛みやひどい締め付けは前頭葉に疲労信号を送り、かえって没入を妨げてイライラを引き起こすからです。端正さを維持しつつ、伸縮性があり肌触りの良いシャツやスラックスなど、「端正だが長時間集中するのに無理のない」水準の衣服のバランスを見つけることが賢明です。",
+      "zh": "不要为了获得服装认知效果而穿着过度束缚或紧得难受、影响血液循环的衣服。因为身体的疼痛或严重的束缚会向脑部发送疲劳信号，反而会阻碍心流并引发烦躁。明智的做法是寻找一种“整洁但即使长时间专注也无压力”的服装平衡，如保持整洁但具有弹性的衬衫或休闲裤。",
+      "es": "Evite usar ropa excesivamente restrictiva o dolorosamente ajustada en nombre de la cognición investida. La incomodidad física o el dolor actúan como una señal de estrés, distrayendo la corteza prefrontal e induciendo fatiga. Encuentre un equilibrio al optar por ropa que sea limpia pero lo suficientemente cómoda para largas sesiones de enfoque, como pantalones elásticos o camisas cómodas con botones.",
+      "fr": "Évitez de porter des vêtements excessivement restrictifs ou douloureusement serrés au nom de la cognition de l'habillement. L'inconfort physique ou la douleur agit comme un signal de stress, distrayant le cortex préfrontal et induisant de la fatigue. Trouvez un équilibre en optant pour des vêtements soignés mais suffisamment confortables pour de longues séances de concentration, comme des pantalons extensibles ou des chemises confortables.",
+      "de": "Vermeiden Sie es, im Namen von Enclothed Cognition übermäßig einschränkende oder schmerzhaft enge Kleidung zu tragen. Körperliches Unbehagen oder Schmerzen wirken als Stresssignal, lenken den präfrontalen Cortex ab und führen zu Ermüdung. Finden Sie ein Gleichgewicht, indem Sie sich für Kleidung entscheiden, die ordentlich und dennoch bequem genug für lange Konzentrationsphasen ist, wie elastische Hosen oder bequeme Hemden.",
+      "pt": "Evite usar roupas excessivamente restritivas ou dolorosamente apertadas em nome da cognição do vestuário. O desconforto físico ou a dor funcionam como um sinal de estresse, distraindo o córtex pré-frontal e induzindo a fadiga. Encontre um equilíbrio ao optar por roupas limpas, mas confortáveis o suficiente para longas sessões de foco, como calças elásticas ou camisas confortáveis com botões.",
+      "id": "Hindari mengenakan pakaian yang terlalu ketat atau menyiksa demi Enclothed Cognition. Ketidaknyamanan fisik bertindak sebagai sinyal stres yang mengalihkan perhatian korteks prefrontal. Cari keseimbangan dengan memilih pakaian rapi namun nyaman, seperti slacks elastis."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "일상과 구분되는 단정한 의복으로의 환복",
+          "en": "Changing into Work-Aligned Attire",
+          "ja": "日常と区別される端正な衣服への着替え",
+          "zh": "换上与工作相匹配的整洁服装",
+          "es": "Cambiarse a ropa alineada con el trabajo",
+          "fr": "Enfiler une tenue adaptée au travail",
+          "de": "Wechsel in arbeitsgerechte Kleidung",
+          "pt": "Trocar para roupas alinhadas ao trabalho",
+          "id": "Berganti Pakaian yang Selaras dengan Pekerjaan"
+        },
+        "text": {
+          "ko": "잠옷이나 트레이닝복처럼 뇌에 이완을 주는 옷을 벗고, 칼라가 있는 셔츠나 깔끔한 외출복으로 갈아입어 업무 준비 상태를 알립니다.",
+          "en": "Strip off lounging clothes or pajamas that cue relaxation. Change into a collared shirt or presentable casual wear to signal work readiness.",
+          "ja": "部屋着やパジャマのように脳をリラックスさせる服を脱ぎ、襟のあるシャツや小綺麗な外出着に着替えることで、業務の準備状態を知らせます。",
+          "zh": "脱下会暗示放松的睡衣或家居服。换上有领衬衫或整洁的便服，以发出工作准备就绪 of 信号。",
+          "es": "Quítese la ropa de descanso o el pijama que indican relajación. Cámbiese a una camisa con cuello o ropa informal presentable para señalar la preparación para el trabajo.",
+          "fr": "Retirez vos vêtements de détente ou votre pyjama qui incitent à la relaxation. Enfilez une chemise à col ou une tenue décontractée convenable pour signaler que vous êtes prêt à travailler.",
+          "de": "Legen Sie Freizeitkleidung oder Schlafanzüge ab, die Entspannung signalisieren. Wechseln Sie in ein Hemd mit Kragen oder vorzeigbare Freizeitkleidung, um Arbeitsbereitschaft zu signalisieren.",
+          "pt": "Tire as roupas de descanso ou pijamas que sugerem relaxamento. Vista uma camisa com gola ou roupa casual apresentável para sinalizar prontidão para o trabalho.",
+          "id": "Lepaskan pakaian santai atau piyama. Bergantilah ke kemeja berkerah atau pakaian kasual yang rapi untuk menandakan kesiapan kerja."
+        }
+      },
+      {
+        "name": {
+          "ko": "물리적 도구 및 작업장의 질서 정돈",
+          "en": "Organizing and Cleaning Your Workspace",
+          "ja": "物理的道具および作業場所の秩序整頓",
+          "zh": "整理并清洁你的工作空间",
+          "es": "Organizar y limpiar su espacio de trabajo",
+          "fr": "Organiser et nettoyer votre espace de travail",
+          "de": "Organisation und Reinigung Ihres Arbeitsbereichs",
+          "pt": "Organizar e limpar seu espaço de trabalho",
+          "id": "Merapikan dan Membersihkan Ruang Kerja Anda"
+        },
+        "text": {
+          "ko": "마그리트의 거실처럼 작업대 위에 쓰레기나 불필요한 물건을 치우고, 오직 지금 사용하는 핵심 도구만 눈앞에 배치합니다.",
+          "en": "Clear clutter and unnecessary papers from your desk like Magritte's clean room, leaving only your active tools in sight.",
+          "ja": "マグリットの居間のように、作業台の上のゴミや不要な物を取り除き、今使用している中核的な道具だけを目の前に配置します。",
+          "zh": "像马格里特整洁的客厅一样，清除工作台上的杂物或不必要的物品，眼前只摆放目前使用的核心工具。",
+          "es": "Limpie el desorden y los papeles innecesarios de su escritorio, como la habitación limpia de Magritte, dejando solo sus herramientas activas a la vista.",
+          "fr": "Débarrassez votre bureau du désordre et des papiers inutiles, à l'image de la pièce propre de Magritte, en ne laissant que vos outils de travail en vue.",
+          "de": "Beseitigen Sie Unordnung und unnötige Papiere von Ihrem Schreibtisch wie in Magrittes sauberem Zimmer, sodass nur Ihre aktiven Arbeitsmittel in Sichtweite bleiben.",
+          "pt": "Limpe a bagunça e os papéis desnecessários de sua mesa, como a sala limpa de Magritte, deixando apenas suas ferramentas ativas à vista.",
+          "id": "Singkirkan barang berantakan dari meja Anda seperti ruang bersih Magritte, sisakan hanya alat aktif."
+        }
+      },
+      {
+        "name": {
+          "ko": "의식적 역할극 수행과 업무 마감 후 탈의",
+          "en": "Role-Playing and Changing Out Post-Work",
+          "ja": "意識的なロールプレイングの遂行と業務終了後の着替え",
+          "zh": "执行有意识的角色扮演并在工作结束后面换装",
+          "es": "Asumir un papel de forma consciente y cambiarse después del trabajo",
+          "fr": "Jouer un rôle de manière consciente et se changer après le travail",
+          "de": "Bewusstes Rollenspiel und Umziehen nach der Arbeit",
+          "pt": "Desempenhar um papel conscientemente e trocar de roupa após o trabalho",
+          "id": "Role-Playing Sadar dan Berganti Pakaian Setelah Bekerja"
+        },
+        "text": {
+          "ko": "정해진 근무 시간 동안 단정하게 작업하고, 하루 업무가 완전히 끝나는 즉시 다시 편한 옷으로 갈아입어 뇌에 완전한 이완 신호를 보냅니다.",
+          "en": "Operate strictly in your work dress during work hours. Switch back to leisure clothes as soon as your workday ends to cue complete relaxation.",
+          "ja": "定められた勤務時間内は端正に作業し、一日の業務が完全に終了した直後に再び楽な服に着替えることで、脳に完全なリラックス信号を送ります。",
+          "zh": "在规定的工作时间内整洁地工作，在一天的工作完全结束时立即换回舒适的衣服，向大脑发送完全放松的信号。",
+          "es": "Opere estrictamente con su ropa de trabajo durante las horas laborales. Vuelva a cambiarse a ropa de tiempo libre tan pronto como termine su jornada laboral para indicar una relajación completa.",
+          "fr": "Travaillez strictement dans votre tenue de travail pendant les heures de bureau. Remettez des vêtements de loisir dès que votre journée de travail se termine pour inciter à une relaxation complète.",
+          "de": "Arbeiten Sie während der Arbeitszeit strikt in Ihrer Arbeitskleidung. Wechseln Sie sofort nach Feierabend wieder in Freizeitkleidung, um eine vollständige Entspannung einzuleiten.",
+          "pt": "Opere estritamente com sua roupa de trabalho durante o horário de expediente. Mude de volta para roupas de lazer assim que o dia de trabalho terminar para sugerir relaxamento total.",
+          "id": "Bekerjalah dengan pakaian rapi selama jam kerja. Ganti kembali ke pakaian santai begitu hari kerja berakhir."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "재택근무를 할 때 신발(예: 실내화 또는 구두)을 신는 것도 집중력에 도움이 되나요?",
+          "en": "Does wearing shoes (like house shoes or loafers) inside help focus during remote work?",
+          "ja": "在宅勤務をする際、靴（例：室内スリッパまたは靴）を履くことも集中力に役立ちますか？",
+          "zh": "在居家办公时穿鞋（如室内鞋 or 平底鞋）也有助于提高专注力吗？",
+          "es": "¿Ayuda a concentrarse el usar zapatos (como zapatos de casa o mocasines) en el interior durante el teletrabajo?",
+          "fr": "Le fait de porter des chaussures (comme des pantouflles ou des mocassins) à l'intérieur aide-t-il à se concentrer pendant le télétravail ?",
+          "de": "Hilft das Tragen von Schuhen (wie Hausschuhen oder Slippern) im Haus, sich während der Telearbeit zu konzentrieren?",
+          "pt": "Usar sapatos (como pantufas ou mocassins) dentro de casa ajuda a focar durante o teletrabalho?",
+          "id": "Apakah memakai sepatu (seperti sepatu rumah atau pantofel) di dalam ruangan membantu fokus?"
+        },
+        "answer": {
+          "ko": "네, 매우 강력한 효과를 줍니다. 발바닥에 닿는 신발의 단단함과 가벼운 압박은 뇌의 체성 감각 피질에 '서 있거나 외부 활동을 하고 있다'는 신호를 보냅니다. 이는 소파나 침대에 누워 게으름을 피우려는 욕구를 근본적으로 억제해 줍니다. 실내용 가죽 슬리퍼나 가벼운 캔버스화를 작업용으로 지정해 신는 것은 재택근무자의 기어를 작업 상태로 바꾸는 가장 간편하면서도 뛰어난 장치입니다.",
+          "en": "Yes, it provides a powerful sensory cue. The firmness of shoes on the soles signals the somatosensory cortex that the body is active and standing. This suppresses the urge to slouch on a sofa. Setting aside light canvas shoes or indoor leather slippers exclusively for work is an efficient way to switch remote workers into high gear.",
+          "ja": "はい、非常に強力な効果を与えます。足の裏に触れる靴の硬さと軽い圧迫は、脳の体性感覚野に「立っている、または外部活動をしている」という信号を送ります。これはソファーやベッドに横になってサボろうとする欲求を根底から抑制します。室内用のレザースリッパや軽いキャンバスシューズを作業用として指定して履くことは、在宅勤務者のギアを作業状態に変える最も簡便で優れた仕掛けです。",
+          "zh": "是的，它能提供非常强大的效果。轻便帆布鞋作为工作专用鞋，是让居家办公者将状态切换至工作模式最简便且优秀的方法。",
+          "es": "Sí, proporciona una potente señal sensorial. La firmeza de los zapatos en las suelas indica a la corteza somatosensorial que el cuerpo está activo y de pie. Esto suprime la urgencia de tumbarse en un sofá. Reservar zapatos ligeros de lona o zapatillas de cuero para interiores exclusivamente para el trabajo es una forma eficiente de poner a los teletrabajadores en marcha.",
+          "fr": "Oui, cela fournit un signal sensoriel puissant. La fermeté des chaussures sur la plante des pieds signale au cortex somatosensoriel que le corps est actif et debout. Cela supprime l'envie de s'affaler sur un canapé. Réserver des chaussures en toile légères ou des pantoufles en cuir d'intérieur exclusivement pour le travail est un moyen efficace de mettre les télétravailleurs en action.",
+          "de": "Ja, es bietet einen starken sensorischen Reiz. Die Festigkeit der Schuhe an den Fußsohlen signalisiert dem somatosensorischen Cortex, dass der Körper aktiv ist und steht. Dies unterdrückt den Drang, sich auf dem Sofa zu fläzen. Die Bereitstellung von leichten Segeltuchschuhen oder Lederhausschuhen ausschließlich für die Arbeit ist eine effiziente Methode, um Telearbeiter in Schwung zu bringen.",
+          "pt": "Sim, fornece um poderoso estímulo sensorial. A firmeza dos sapatos nas solas sinaliza ao córtex somatossensorial que o corpo está ativo e em pé. Isso suprime o desejo de se deitar no sofá. Reservar sapatos leves de lona ou pantufas de couro para interior exclusivamente para o trabalho é uma maneira eficiente de colocar os trabalhadores remotos em ação.",
+          "id": "Ya, ini memberikan isyarat sensorik yang kuat. Kekerasan sepatu pada telapak kaki memberi sinyal ke korteks somatosensorik bahwa tubuh sedang aktif. Ini menekan keinginan untuk bermalas-malasan di sofa."
+        }
+      }
+    ]
+  }
+}

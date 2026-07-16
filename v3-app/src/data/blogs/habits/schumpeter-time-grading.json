@@ -1,0 +1,192 @@
+{
+  "schumpeter-time-grading": {
+    "title": {
+      "ko": "시간의 메타인지: 조지프 슘페터의 일일 성적표 루틴",
+      "en": "Metacognition of Time: Joseph Schumpeter's Daily Scorecard Routine",
+      "ja": "時間のメタ認知：ヨーゼフ・シュンペーターの一日成績表ルーティン",
+      "zh": "时间的元认知：约瑟夫·熊彼特的每日成绩单规程",
+      "es": "Metacognición del tiempo: la rutina de la tarjeta de puntuación diaria de Joseph Schumpeter",
+      "fr": "Métacognition du temps : la routine du bilan quotidien de Joseph Schumpeter",
+      "de": "Metakognition der Zeit: Joseph Schumpeters tägliche Scorecard-Routine",
+      "pt": "Metacognição do tempo: a rotina de pontuação diária de Joseph Schumpeter",
+      "id": "Metakognisi Waktu: Rutinitas Kartu Skor Harian Joseph Schumpeter"
+    },
+    "description": {
+      "ko": "매일 밤 자신의 일기장에 학습과 몰입 시간을 평가하고 성적(A~F)을 매겼던 경제학자 조지프 슘페터. 자신의 행동을 정량적으로 평가하고 개선하는 피드백 루프의 메타인지적 효과를 연구합니다.",
+      "en": "Economist Joseph Schumpeter, who graded his daily research and focus times (A-F) in his diary. Discover the metacognitive benefits of a quantitative daily feedback loop.",
+      "ja": "毎晩自分の日記帳に学習と没入時間を評価し、成績（A〜F）を付けた経済学者ヨーゼフ・シュンペーター。自らの行動を定量的に評価して改善するフィードバックループのメタ認子的効果を研究します。",
+      "zh": "经济学家约瑟夫·熊彼特每天在日记中对自己的研究和专注时间进行评分（A-F）。发现定量每日反馈回路的元认知益处。",
+      "es": "El economista Joseph Schumpeter, quien calificaba sus tiempos diarios de investigación y concentración (de la A a la F) en su diario. Descubra los beneficios metacognitivos de un ciclo de retroalimentación diaria cuantitativa.",
+      "fr": "L'économiste Joseph Schumpeter, qui évaluait quotidiennement ses heures de recherche et de concentration (de A à F) dans son journal. Découvrez les avantages métacognitifs d'une boucle de rétroaction quotidienne quantitative.",
+      "de": "Ökonom Joseph Schumpeter, der seine tägliche Forschungs- und Konzentrationszeit (A-F) in seinem Tagebuch bewertete. Entdecken Sie die metakognitiven Vorteile einer quantitativen täglichen Feedbackschleife.",
+      "pt": "O economista Joseph Schumpeter, que avaliava diariamente seus tempos de pesquisa e foco (A-F) em seu diário. Descubra os benefícios metacognitivos de um ciclo de feedback diário quantitativo.",
+      "id": "Ekonom Joseph Schumpeter, yang menilai waktu penelitian dan fokus hariannya (A-F) di buku hariannya. Temukan manfaat metakognitif."
+    },
+    "authority": {
+      "ko": "조지프 슘페터 평전 『슘페터의 생애와 사상』 고증 및 메타인지(Metacognition)와 자기조절 루프(Self-regulation Loop)가 인지 성취도에 미치는 효과 연구",
+      "en": "Biography 'Opening Doors: The Life and Work of Joseph Schumpeter' and research on metacognition and self-regulation loops",
+      "ja": "ヨーゼフ・シュンペーター評伝『シュンペーターの生涯と思想』考証およびメタ認知と自己調節ループが認知達成度に及ぼす効果の研究",
+      "zh": "传记《开门：约瑟夫·熊彼特的生平与工作》及关于元认知和自我调节回路对认知成就影响的研究",
+      "es": "Biografía 'Opening Doors: The Life and Work of Joseph Schumpeter' e investigación sobre metacognición y ciclos de autorregulación",
+      "fr": "Biographie 'Opening Doors : The Life and Work of Joseph Schumpeter' et recherche sur la métacognition et les boucles d'autorégulation",
+      "de": "Biografie ‚Opening Doors: The Life and Work of Joseph Schumpeter‘ und Forschung zu Metakognition und Selbstregulationsschleifen",
+      "pt": "Biografia 'Opening Doors: The Life and Work of Joseph Schumpeter' e pesquisa sobre metacognição e ciclos de autorregulação",
+      "id": "Biografi 'Opening Doors: The Life and Work of Joseph Schumpeter' dan penelitian tentang metakognisi dan lingkaran regulasi diri"
+    },
+    "intro": {
+      "ko": "자본주의 역동성을 설명하는 혁신과 '창조적 파괴'라는 불멸의 경제학 프레임을 구축한 오스트리아 출신의 천재 석학 조지프 슘페터. 지독할 정도의 학문적 성취와 집필 활동을 이어갔던 그는 자신의 시간 효율성과 노동 밀도를 유지하기 위해 매우 독창적이고 냉혹한 성찰 습관을 가졌습니다. 매일 밤 일기장을 펴고 오늘 수행한 연구, 독서, 학술적 활동 시간을 꼼꼼하게 기록한 뒤, 생산성의 질을 객관적으로 평가해 스스로에게 A, B, C, D, F 등급의 성적표를 선사한 것입니다. 뇌과학적으로 이 정량적 자가 채점 루틴이 인간의 실행 기능과 행동 개선에 미치는 영향력을 규명합니다.",
+      "en": "Joseph Schumpeter, the Austrian economist who defined innovation and 'creative destruction.' To maintain his intense research and writing output, he practiced a cold, systematic self-reflection habit. Every night, he opened his diary to log hours dedicated to research, reading, and writing, and graded his performance from A to F. We investigate the neuroscientific effects of this daily scoring routine on executive function and self-regulation.",
+      "ja": "資本主義のダイナミズムを説明するイノベーションと「創造的破壊」という不滅の経済学フレームを構築したオーストリア出身の天才学者ヨーゼフ・シュンペーター。ものすごい学術的成果と執筆活動を続けていた彼は、自らの時間効率と労働密度を維持するために、非常に独創的で冷酷な省察習慣を持っていました。毎晩日記を開き、今日行った研究、読書、学術活動の時間を細かく記録した後、生産性の質を客観的に評価して自らにA、B、C、D、F等級の成績表をプレゼントしたのです。脳科学的にこの定量的な自己採点ルーティンが、人間の実行機能と行動改善に及ぼす影響力を解明します。",
+      "zh": "约瑟夫·熊彼特，定义了创新和“创造性破坏”的奥地利经济学家。为了保持他密集的学术研究和写作产出，他实践了一种冷静、系统的自我反省习惯。每天晚上，他都会打开日记，记录用于研究、阅读 and 写作的时间，并对自己的表现进行A到F的评分。我们研究了这种每日评分规程对执行功能和自我调节的神经科学影响。",
+      "es": "Joseph Schumpeter, el economista austriaco que definió la innovación y la 'destrucción creativa'. Para mantener su intensa producción de investigación y escritura, practicó un hábito de autorreflexión frío y sistemático. Cada noche abría su diario para registrar las horas dedicadas a la investigación, la lectura y la escritura, y calificaba su desempeño de la A a la F. Investigamos los efectos neurocientíficos de esta rutina de puntuación diaria en la función ejecutiva y la autorregulación.",
+      "fr": "Joseph Schumpeter, l'économiste autrichien qui a défini l'innovation et la « destruction créatrice ». Pour maintenir son intense production de recherche et d'écriture, il s'imposait une habitude d'autoréflexion froide et systématique. Chaque soir, il ouvrait son journal pour consigner les heures consacrées à la recherche, à la lecture et à l'écriture, et évaluait ses performances de A à F. Nous étudions les effets neuroscientifiques de cette routine d'évaluation quotidienne sur les fonctions exécutives et l'autorégulation.",
+      "de": "Joseph Schumpeter, der österreichische Ökonom, der Innovation und ‚schöpferische Zerstörung‘ definierte. Um seine intensive Forschungs- und Schreibarbeit aufrechtzuerhalten, pflegte er eine kühle, systematische Gewohnheit der Selbstreflexion. Jeden Abend öffnete er sein Tagebuch, um die Stunden zu protokollieren, die er der Forschung, dem Lesen und Schreiben gewidmet hatte, und bewertete seine Leistung von A bis F. Wir untersuchen die neurowissenschaftlichen Auswirkungen dieser täglichen Bewertungsroutine auf die Exekutivfunktionen und die Selbstregulation.",
+      "pt": "Joseph Schumpeter, o economista austríaco que definiu a inovação e a 'destruição criativa'. Para manter sua intensa produção de pesquisa e escrita, ele praticou um hábito de autorreflexão frio y sistemático. Todas as noites, ele abria seu diário para registrar as horas dedicadas à pesquisa, leitura e escrita, e avaliava seu desempenho de A a F. Investigamos os efeitos neurocientíficos dessa rotina diária de pontuação nas funções executivas e na autorregulação.",
+      "id": "Joseph Schumpeter, ekonom Austria yang mendefinisikan inovasi dan 'creative destruction'. Demi menjaga output penelitian dan menulisnya, ia melakukan refleksi diri dingin dan sistematis. Setiap malam ia membuka diari mencatat waktu penelitian dan menilai kinerjanya dari A ke F."
+    },
+    "whyTitle": {
+      "ko": "정량적 피드백 루프를 통한 메타인지와 도파민 보상망의 조율",
+      "en": "Tuning Metacognition and Dopamine Rewards via Quantitative Feedback Loops",
+      "ja": "定量的フィードバックループによるメタ認知とドーパミン報酬系の調律",
+      "zh": "通过定量反馈回路调节元认知和多巴胺奖赏",
+      "es": "Ajustar la metacognición y las recompensas de dopamina a través de ciclos de retroalimentación cuantitativa",
+      "fr": "Ajuster la métacognition et les récompenses dopaminergiques via des boucles de rétroaction quantitative",
+      "de": "Abstimmung von Metakognition und Dopaminbelohnung über quantitative Feedbackschleifen",
+      "pt": "Ajustar a metacognição e as recompensas de dopamina através de ciclos de feedback quantitativo",
+      "id": "Metakognisi Umpan Balik Kuantitatif"
+    },
+    "whyDesc": {
+      "ko": "대부분의 사람들은 오늘 하루 자신이 얼마나 열심히 일했는지 주관적이고 감정적으로 평가하곤 합니다. 이 모호한 성찰은 자신의 게으름이나 인지 누수를 애써 축소시키는 자기 합리화로 빠지기 쉽습니다. 슘페터의 자가 채점 의식은 인지 심리학적으로 '메타인지(Metacognition, 자신의 사유 과정을 모니터링하는 인지)'를 활성화합니다. 시간을 정량화하고 등급을 매김으로써 행동을 완벽하게 제3자의 시선으로 내려다보게(Monitoring) 만듭니다. 이 정직한 자기 객관화는 뇌가 인지적 왜곡에서 벗어나게 돕고, 다음 날 더 나은 등급(A)을 얻겠다는 구체적인 예측 지표를 마련하여 전두엽의 도파민 보상 회로를 강력하게 동기 부여합니다.",
+      "en": "Most people evaluate their daily productivity subjectively and emotionally. This vague reflection leads to self-serving biases and downplaying distractions. Schumpeter's grading ritual activates 'metacognition'—monitoring your own cognitive behaviors. Quantifying and scoring performance forces you to look at your actions objectively. This feedback loop eliminates cognitive distortion and prepares the brain's prefrontal dopamine reward system to chase a higher grade (A) the following day.",
+      "ja": "ほとんどの人は、今日一日自分がどれだけ一生懸命働いたかを主観的かつ感情的に評価しがちです。この曖昧な省察は、自分の怠惰や認知の漏れをあえて縮小させる自己合理化に陥りやすいです。シュンペーターの自己採点儀式は、認知心理学的に「メタ認知（Metacognition）」を活性化します。時間を定量化して等級を付けることで、行動を完璧に第三者の視線で見下ろす（Monitoring）ようにさせます。この正直な自己客観化は、脳が認味的歪みから脱するのを助け、翌日により良い等級（A）を得るという具体的な予測指標を用意することで、前頭葉のドーパミン報酬回路を強力に動機付けます。",
+      "zh": "大多数人对每日工作效率的评估是主观且感性的。这种模糊的反思极易导致自我服务偏差和忽视分心。熊彼特的评分仪式激活了“元认知”——监控您自己的认知行为。对表现进行量化和评分迫使您客观地审视自己的行为。这种反馈回路消除了认知失真，并促使大脑前额叶多巴胺奖赏系统在第二天追求更高的成绩（A）。",
+      "es": "La mayoría de las personas evalúa su productividad diaria de manera subjetiva y emocional. Esta vaga reflexión conduce a sesgos de conveniencia propia y a minimizar las distracciones. El ritual de calificación de Schumpeter activa la 'metacognición': monitorear sus propios comportamientos cognitivos. Cuantificar y calificar el desempeño lo obliga a mirar sus acciones de manera objetiva. Este ciclo de retroalimentación elimina la distorsión cognitiva y prepara el sistema de recompensa de dopamina prefrontal del cerebro para buscar una calificación más alta (A) al día siguiente.",
+      "fr": "La plupart des gens évaluent leur productivité quotidienne de manière subjective et émotionnelle. Cette réflexion vague conduit à des biais de complaisance et à minimiser les distractions. Le rituel d'évaluation de Schumpeter active la « métacognition », c'est-à-dire la surveillance de vos propres comportements cognitifs. Quantifier et noter les performances vous oblige à regarder vos actions de manière objective. Cette boucle de rétroaction élimine la distorsion cognitive et prépare le système de récompense dopaminergique préfrontal du cerveau à viser une note plus élevée (A) le lendemain.",
+      "de": "Die meisten Menschen bewerten ihre tägliche Produktivität subjektiv und emotional. Diese vage Reflexion führt leicht zu selbstgefälligen Vorurteilen und dem Herunterspielen von Ablenkungen. Schumpeters Bewertungsritual aktiviert die „Metakognition“ – das Beobachten des eigenen kognitiven Verhaltens. Die Quantifizierung und Bewertung der Leistung zwingt Sie dazu, Ihre Handlungen objektiv zu betrachten. Diese Feedbackschleife eliminiert kognitive Verzerrungen und bereitet das präfrontale Dopamin-Belohnungssystem des Gehirns darauf vor, am nächsten Tag eine bessere Note (A) anzustreben.",
+      "pt": "A maioria das pessoas avalia a sua produtividade diária de forma subjetiva e emocional. Essa vaga reflexão leva a preconceitos de autoatendimento e a minimizar as distrações. O ritual de avaliação de Schumpeter ativa a 'metacognição' — monitorando seus próprios comportamientos cognitivos. Quantificar e pontuar o desempenho força você a olhar para suas ações objetivamente. Esse ciclo de feedback elimina a distorção cognitiva e prepara o sistema de recompensa de dopamina pré-frontal do cérebro para buscar uma nota mais alta (A) no diżej seguinte.",
+      "id": "Kebanyakan orang menilai produktivitas harian secara subjektif dan emosional. Refleksi samar ini memicu bias pembenaran diri. Ritual penilaian Schumpeter mengaktifkan 'metakognisi'—memantau perilaku kognitif sendiri. Kuantifikasi memaksa Anda melihat tindakan secara objektif. Ini menyetel sistem penghargaan dopamin prefrontal untuk mengejar nilai A."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "스스로에게 매기는 일일 성적표가 가혹한 '자기 비하'나 '완벽주의 강박'으로 흐르지 않도록 경계해야 합니다. F 등급이나 낮은 점수를 연속해서 받았다고 해서 무력감(Learned Helplessness)에 빠져들거나 자책한다면 뇌의 스트레스 자극이 가중되어 도리어 실행력이 얼어붙게 됩니다. 등급 평가는 어디까지나 감정을 배제한 '데이터 축적' 활동으로 대해야 합니다. 점수가 낮은 원인을 냉정하게 분석하되, '다음 날 10%만 개선하겠다'는 성장 마인드셋(Growth Mindset)의 피드백 도구로 사용해야 합니다.",
+      "en": "Beware of letting your daily scorecard morph into harsh self-criticism or compulsive perfectionism. Scoring low grades continuously can induce learned helplessness and anxiety, freezing executive functions. Treat the grades strictly as objective data points. Analyze the root causes of failure neutrally, using it as a feedback loop for a 10% daily improvement rather than a tool for guilt.",
+      "ja": "自らに課す一日成績表が、過酷な「自己卑下」や「完璧主義強迫」に流れないように警戒しなければなりません。F等級や低い点数を連続して受けたからといって、無力感に陥ったり自責したりすると、脳のストレス刺激が加重され、かえって実行力が凍りついてしまいます。等級評価はあくまで感情を排除したデータ蓄積活動として扱うべきです。点数が低い原因を冷静に分析しつつ、「翌日10％だけ改善する」という成長マインドセット（Growth Mindset）のフィードバックツールとして使用する必要があります。",
+      "zh": "警惕不要让您的每日成绩单演变成严酷的自我批评或强迫性的完美主义。连续获得低分会引发习得性无助和焦虑，冻结执行功能。请将评分严格视为客观数据。中立地分析失败的根本原因，将其作为每日改善10%的反馈工具，而不是愧疚的工具。",
+      "es": "Tenga cuidado de no dejar que su tarjeta de puntuación diaria se convierta en una dura autocrítica o en un perfeccionismo compulsivo. Obtener calificaciones bajas continuamente puede inducir indefensión aprendida y ansiedad, congelando las funciones ejecutivas. Trate las calificaciones estrictamente como puntos de datos objetivos. Analice las causas raíz del fracaso de manera neutral, utilizándolo como un ciclo de retroalimentación para una mejora diaria del 10% en lugar de como una herramienta de culpa.",
+      "fr": "Veillez à ne pas laisser votre bilan quotidien se transformer en une critique sévère de vous-même ou en un perfectionnisme compulsif. Obtenir continuellement de mauvaises notes peut induire une impuissance apprise et de l'anxiété, paralysant les fonctions exécutives. Traisez les notes strictement comme des données objectives. Analysez les causes profondes de l'échec de manière neutre, en les utilisant comme un outil de rétroaction pour une amélioration quotidienne de 10 % plutôt que comme un outil de culpabilisation.",
+      "de": "Achten Sie darauf, dass Ihre tägliche Scorecard nicht in harte Selbstkritik oder zwanghaften Perfektionismus ausartet. Kontinuierlich schlechte Noten zu schreiben, kann zu erlernter Hilflosigkeit und Angstzuständen führen und die Exekutivfunktionen lähmen. Betrachten Sie die Noten ausschließlich als objektive Datenpunkte. Analysieren Sie die Grundursachen für Fehlschläge neutral und nutzen Sie sie als Feedbackschleife für eine tägliche Verbesserung um 10 % statt als Werkzeug für Schuldgefühle.",
+      "pt": "Cuidado para não deixar que sua pontuação diária se transforme em autocrítica dura ou perfeccionismo compulsivo. Obter notas baixas continuamente pode induzir desamparo aprendido e ansiedade, congelando as funções executivas. Trate as notas estritamente como pontos de dados objetivos. Analise as causas profundas da falha de forma neutra, usando-as como um ciclo de feedback para uma melhoria diária de 10%, em vez de uma ferramenta de culpa.",
+      "id": "Waspadai agar penilaian harian tidak berubah menjadi kritik diri yang keras atau perfeksionisme kompulsif. Nilai rendah yang terus-menerus memicu kepasrahan dan kecemasan, membekukan fungsi eksekutif. Perlakukan nilai sebagai data objektif."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "주관적 감정을 배제한 시간 복기",
+          "en": "Objective Time Reconstruction",
+          "ja": "主観的感情を排除した時間の復習",
+          "zh": "客观时间重构",
+          "es": "Reconstrucción objetiva del tiempo",
+          "fr": "Reconstruction objective du temps",
+          "de": "Objektive Zeitrekonstruktion",
+          "pt": "Reconstrução objetiva do tempo",
+          "id": "Rekonstruksi Waktu Secara Objektif"
+        },
+        "text": {
+          "ko": "매일 저녁 일과를 마친 후, 스마트폰 사용 내역이나 캘린더를 대조하여 30분 단위로 오늘 무엇을 했는지 건조하게 나열합니다.",
+          "en": "Every evening, reconstruct your day in 30-minute intervals using calendars or screen-time trackers, writing it down neutrally.",
+          "ja": "毎晩仕事を終えた後、スマートフォンの使用履歴やカレンダーを対照し、30分単位で今日何をしたかを淡々と羅列します。",
+          "zh": "每天晚上，结合日历或屏幕时间追踪器，以30分钟为间隔，客观记录今天所做的事情。",
+          "es": "Cada noche, reconstruya su día en intervalos de 30 minutos utilizando calendarios o rastreadores de tiempo de pantalla, anotándolo de manera neutral.",
+          "fr": "Chaque soir, reconstituez votre journée par intervalles de 30 minutes à l'aide de calendriers ou d'outils de suivi du temps d'écran, en la consignant de manière neutrale.",
+          "de": "Rekonstruieren Sie jeden Abend Ihren Tag in 30-Minuten-Intervallen mithilfe von Kalendern oder Bildschirmzeit-Trackern und schreiben Sie dies neutral auf.",
+          "pt": "Todas as noites, reconstrua seu dia em intervalos de 30 minutos usando calendários ou rastreadores de tempo de tela, registrando tudo de forma neutra.",
+          "id": "Setiap sore, susun kembali hari Anda dalam interval 30 menit menggunakan kalender atau pelacak waktu layar, catat secara netral."
+        }
+      },
+      {
+        "name": {
+          "ko": "명확한 루브릭에 따른 자가 등급 스코어링",
+          "en": "Self-grading According to Clear Rubrics",
+          "ja": "明確なルーブリックによる自己等級スコアリンク",
+          "zh": "按明确的标准进行自我评分",
+          "es": "Autocalificación según rúbricas claras",
+          "fr": "Auto-évaluation selon des grilles précises",
+          "de": "Selbstbewertung nach klaren Kriterien",
+          "pt": "Autoclassificação de acordo com rubricas claras",
+          "id": "Penilaian Mandiri Berdasarkan Rubrik yang Jelas"
+        },
+        "text": {
+          "ko": "나만의 채점 기준(예: 딥워크 4시간 = A, 2시간 = B, 방해 요소 3회 이상 = D 등)에 따라 오늘 하루에 등급(A~F)을 부여합니다.",
+          "en": "Rate your day from A to F using personal benchmarks (e.g., A for 4 hours of deep work, D if distracted more than three times).",
+          "ja": "自分だけの採点基準に従って、今日一日に等級（A〜F）を付与します。",
+          "zh": "根据个人基准（例如，深度工作4小时为A，分心超过三次为D）将您的一天评定为A到F级。",
+          "es": "Califique su día de la A a la F utilizando puntos de referencia personales (por ejemplo, A para 4 horas de trabajo profundo, D si se distrajo más de tres veces).",
+          "fr": "Évaluez votre journée de A à F en utilisant des repères personnels (par exemple, A pour 4 heures de travail en profondeur, D en cas de distraction plus de trois fois).",
+          "de": "Bewerten Sie Ihren Tag von A bis F anhand persönlicher Maßstäbe (z. B. A für 4 Stunden konzentrierte Arbeit, D bei mehr als dreimaliger Ablenkung).",
+          "pt": "Avalie o seu dia de A a F usando parâmetros pessoais (por exemplo, A para 4 horas de trabalho profundo, D se distraído mais de três vezes).",
+          "id": "Nilai hari Anda dari A ke F menggunakan tolok ukur pribadi (misalnya, A untuk 4 jam kerja mendalam, D jika terganggu lebih dari tiga kali)."
+        }
+      },
+      {
+        "name": {
+          "ko": "원인 규명과 내일의 1원칙 수립",
+          "en": "Root Cause Analysis and the Daily Rule",
+          "ja": "原因究明と明日の1原則樹立",
+          "zh": "根本原因分析和每日规则",
+          "es": "Análisis de la causa raíz y la regla diaria",
+          "fr": "Analyse des causes profondes et règle quotidienne",
+          "de": "Ursachenanalyse und die tägliche Regel",
+          "pt": "Análise de causa raiz e a regra diária",
+          "id": "Analisis Akar Masalah dan Aturan Harian"
+        },
+        "text": {
+          "ko": "오늘 받은 등급의 근본 원인을 찾고(예: SNS 1시간 낭비 등), 이를 예방하기 위해 내일 오전 1시간만 스마트폰을 격리하는 개선 방안을 세웁니다.",
+          "en": "Pinpoint the biggest friction point of the day and write down one concrete, actionable tweak to resolve it tomorrow morning.",
+          "ja": "今日受けた等級の根本的な原因を探し（例：SNSでの1時間浪費など）、これを予防するために明日の午前中の1時間だけスマートフォンを隔離する改善策を立てます。",
+          "zh": "找出当天最大的摩擦点（例如，浪费1小时在社交媒体上），并写下明天早上解决该问题的一个具体、可操作的调整方法。",
+          "es": "Identifique el mayor punto de fricción del día y escriba un ajuste concreto y procesable para resolverlo mañana por la mañana.",
+          "fr": "Identifiez le point de friction le plus important de la journée et notez une action concrète et réalisable pour le résoudre demain matin.",
+          "de": "Identifizieren Sie die größte Hürde des Tages und schreiben Sie eine konkrete, umsetzbare Anpassung auf, um sie morgen früh zu lösen.",
+          "pt": "Identifique o maior ponto de fricção do dia e anote um ajuste concreto e prático para resolvê-lo amanhã de manhã.",
+          "id": "Temukan titik hambatan terbesar hari ini dan tulis satu penyesuaian konkret untuk menyelesaikannya besok pagi."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "스스로 등급을 속이거나 관대하게 채점하려 할 때는 어떻게 해야 하나요?",
+          "en": "How do I prevent myself from being too lenient or cheating my grades?",
+          "ja": "自分で等級をごまかしたり、寛大に採点しようとしてしまう時はどうすればいいですか？",
+          "zh": "我如何防止自己评分过宽或作弊？",
+          "es": "¿Cómo evito ser demasiado indulgente o hacer trampa con mis calificaciones?",
+          "fr": "Comment puis-je m'empêcher d'être trop indulgent ou de tricher sur mes notes ?",
+          "de": "Wie verhindere ich, dass ich zu nachsichtig bin oder meine Noten fälsche?",
+          "pt": "Como evito ser muito tolerante ou trapacear nas minhas notas?",
+          "id": "Bagaimana saya mencegah diri terlalu longgar atau curang dalam memberikan nilai?"
+        },
+        "answer": {
+          "ko": "그렇기 때문에 주관적 느낌이 아닌 '수치화된 객관적 기준(Rubric)'이 반드시 마련되어야 합니다. 예를 들어 '오늘 기분상 집중이 잘 되었다'가 아니라 '온라인 트래커가 측정한 딥워크 시간이 실제로 3시간을 넘었는가?'를 기준으로 등급을 결정해야 합니다. 기준을 계량화하고 데이터(앱 사용 시간, 작성한 문서 페이지 수 등)를 결합하여 피드백을 수집하면, 뇌는 스스로를 합리화하고 숨을 틈을 잃어버리고 냉정한 현실과 마주하게 됩니다.",
+          "en": "This is why you must establish concrete, numerical rubrics. Do not base grades on feelings like 'I felt productive today.' Base them on measurable facts like 'Did my active timer capture 3 hours of deep work?' Combining clear rubrics with analytical data blocks the brain's rationalization loops, facing objective reality.",
+          "ja": "そのため、主観的な感覚ではなく数値化された客観的基準（ルーブリック）を必ず用意する必要があります。例えば今日が気分的に集中できたではなく、オンラインのトラッカーが測定したディープワーク時間が実際に3時間を超えたかを基準に等級を決定しなければなりません。基準を計量化し、データを結合してフィードバックを収集すれば、脳は自らを合理化して逃げる隙を失い、冷厳な現実と向き合うことになります。",
+          "zh": "这就是为什么您必须建立具体的、量化的标准。不要把评分建立在诸如“我今天感觉很有效率”这样的感受上。将它们建立在可衡量的事实上，例如“我的活跃计时器是否记录了3小时的深度工作？”将明确的标准与分析数据结合起来，可以阻断大脑的合理化回路，直面客观现实。",
+          "es": "Por eso debe establecer rúbricas numéricas concretas. No base las calificaciones en sentimientos como 'Me sentí productivo hoy'. Baselas en hechos medibles como '¿Mi temporizador activo capturó 3 horas de trabajo profundo?'. Combinar rúbricas claras con datos analíticos bloquea los bucles de racionalización del cerebro, enfrentándolo a la realidad objetiva.",
+          "fr": "C'est pourquoi vous devez établir des grilles d'évaluation numériques et concrètes. Ne basez pas vos notes sur des sentiments tels que « Je me suis senti productif aujourd'hui ». Basez-les sur des faits mesurables tels que « Mon minuteur actif a-t-il enregistré 3 heures de travail en profondeur ? » Associer des critères clairs à des données analytiques bloque les boucles de rationalisation du cerveau, le confrontant à la réalité objective.",
+          "de": "Deshalb müssen Sie konkrete, numerische Bewertungskriterien festlegen. Basiere die Noten nicht auf Gefühlen wie „Ich fühlte mich heute produktiv“. Basiere sie auf messbaren Fakten wie „Hat mein aktiver Timer tatsächlich 3 Stunden konzentrierte Arbeit erfasst?“. Die Kombination klarer Kriterien mit analytischen Daten blockiert die Rationalisierungsschleifen des Gehirns und führt zur Konfrontation mit der objektiven Realität.",
+          "pt": "É por isso que você deve estabelecer rubricas numéricas concretas. Não baseie as notas em sentimentos como 'Eu me senti produtivo hoje'. Baseie-as em fatos mensuráveis como 'Meu cronômetro ativo capturou 3 horas de trabalho profundo?'. Combinar rubricas claras com dados analíticos bloqueia as armadilhas de racionalización do cérebro, fazendo-o encarar a realidade objetiva.",
+          "id": "Inilah mengapa Anda harus menetapkan rubrik numerik konkret. Jangan mendasarkan nilai pada perasaan. Dasarkan pada fakta terukur. Menggabungkan rubrik dengan data analitis memutus rasionalisasi otak."
+        }
+      }
+    ]
+  }
+}
