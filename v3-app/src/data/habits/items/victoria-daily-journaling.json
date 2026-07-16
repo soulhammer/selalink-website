@@ -1,0 +1,36 @@
+{
+  "id": "victoria-daily-journaling",
+  "name": "빅토리아 여왕",
+  "gender": "female",
+  "era": "modern",
+  "location": "영국 런던",
+  "lifespan": "1819 - 1901",
+  "birthYear": 1819,
+  "bio": "63년간 재위하며 대영제국의 전성기(빅토리아 시대)를 이끌었던 영국의 여왕으로, 역사상 가장 영향력 있는 군주 중 한 명입니다.",
+  "habitName": "평생 일기 기록 습관",
+  "tags": [
+    "#기록",
+    "#성찰",
+    "#자기계발"
+  ],
+  "timeOfDay": "evening",
+  "requiredItems": [
+    "일기장(바인더 저널)",
+    "잉크 펜"
+  ],
+  "frequency": "daily",
+  "historicalStory": "빅토리아 여왕은 13세였던 1832년부터 세상을 떠나기 불과 며칠 전인 1901년까지 68년 동안 단 하루도 거르지 않고 매일 밤 일기를 썼습니다. 그녀가 남긴 일기는 총 141권, 총 43,000페이지에 달합니다. 정치적 현안부터 남편 앨버트 공과의 감정적 고충, 왕실의 자질구레한 사건들을 꼼꼼하게 기록했습니다. 매일 밤 하루를 텍스트로 객관화하며 격정적인 감정을 다스리고 통치자로서의 의사결정을 정돈하는 고도의 자기 성찰 의식이었습니다.",
+  "sciencePrinciples": "일기를 쓰며 감정을 텍스트로 전환하는 행동(Expressive Writing)은 뇌의 감정 처리 영역인 편도체(Amygdala)의 활동을 진정시키고, 이성적 사고를 담당하는 전두엽(Prefrontal Cortex)을 활성화하여 인지적 명확성을 높여줍니다. 또한 자신의 행동을 기록하고 되돌아보는 메타인지(Metacognition) 능력을 강화하여 장기적 목표 지향 행동을 유지하게 합니다.",
+  "quote": "나는 매일 밤 일기를 쓰며 나 자신을 돌아보고 신께 감사를 올린다.",
+  "trigger": "하루 일과를 마치고 잠자리에 들기 전",
+  "modernGuide": [
+    "침대 옆 탁자에 전용 일기장과 펜을 배치해 둡니다.",
+    "하루 동안 겪은 사건 하나와 그로 인해 느낀 솔직한 감정을 여과 없이 기록합니다.",
+    "일기를 마무리하며 내일의 행동 방향성을 1~2문장으로 정리하여 마인드를 정돈합니다."
+  ],
+  "actionName": "하루 마감 성찰 일기",
+  "sources": [
+    "Royal Archives (Queen Victoria's Journals)",
+    "Pennebaker's Expressive Writing and Amygdala Regulation Studies"
+  ]
+}

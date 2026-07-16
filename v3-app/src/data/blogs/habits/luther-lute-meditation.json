@@ -1,0 +1,192 @@
+{
+  "luther-lute-meditation": {
+    "title": {
+      "ko": "멘탈 정돈의 파동: 마르틴 루터의 아침 류트 연주 습관",
+      "en": "Vibration of Mental Tuning: Martin Luther's Morning Lute Playing Habit",
+      "ja": "精神の調律を整える波動：マルティン・ルターの朝のリュート演奏習慣",
+      "zh": "调理精神的声波：马丁·路德的早晨琉特琴演奏习惯",
+      "es": "La vibración del equilibrio mental: El hábito matutino de laúd de Martín Lutero",
+      "fr": "La vibration de l'équilibre mental : L'habitude de luth matinal de Martin Luther",
+      "de": "Vibration der geistigen Stimmung: Martin Luthers morgendliche Laute-Routine",
+      "pt": "A vibração do equilíbrio mental: O hábito matutino de alaúde de Martinho Lutero",
+      "id": "Getaran Penyelaras Pikiran: Kebiasaan Bermain Lute Pagi Martin Luther"
+    },
+    "description": {
+      "ko": "종교개혁의 거대한 중압감 속에서도 매일 아침 현악기 류트를 연주하며 명상했던 마르틴 루터. 음악 연주가 청각-운동 통합 경로를 활성화하고 교감신경의 긴장을 완화한 과학적 원리를 알아봅니다.",
+      "en": "Martin Luther, who played the lute and meditated every morning under the heavy pressure of the Reformation. Learn how music playing activates auditory-motor pathways and relieves sympathetic tension.",
+      "ja": "宗教改革の巨大な重圧の中でも、毎朝弦楽器リュートを演奏して瞑想したマルティン・ルター。音楽演奏が聴覚-運動統合経路を活性化し、交感神経の緊張を緩和した科学的原理を学びます。",
+      "zh": "在宗教改革的巨大重压下、每天清晨仍然坚持演奏琉特琴并进行默想的马丁·路德。探讨音乐演奏如何激活听觉-运动整合通道并缓解交感神经紧张的科学原理。",
+      "es": "Martín Lutero tocaba el laúd y meditaba cada mañana frente a la gran presión de la Reforma. Analizamos cómo tocar un instrumento activa la vía auditivo-motora y alivia la tensión.",
+      "fr": "Martin Luther jouait du luth et méditait chaque matin face à la pression de la Réforme. Découvrez comment jouer d'un instrument active la voie auditivo-motrice et apaise le stress.",
+      "de": "Martin Luther spielte unter dem Druck der Reformation jeden Morgen Laute und meditierte. Erfahren Sie, wie das Musizieren die Verbindung von Gehör und Motorik fördert und Stress lindert.",
+      "pt": "Martinho Lutero tocava o alaúde e meditava cada manhã diante da grande pressão da Reforma. Analisamos como tocar un instrumento ativa a via auditivo-motora e alivia la tensión.",
+      "id": "Martin Luther, yang bermain lute dan bermeditasi setiap pagi di bawah tekanan Reformasi. Ulas bagaimana bermain musik menurunkan ketegangan saraf."
+    },
+    "authority": {
+      "ko": "루터 전집 『Luther's Works, Vol. 49』 역사적 기록 서한 고증 및 하버드 의과대학의 음악 치료와 자율신경계 반응 신경과학 연구",
+      "en": "Luther's Works, Vol. 49 (Letters) and Harvard Medical School Research on Music Therapy and Autonomic Nervous System Reactions",
+      "ja": "ルター全集『Luther's Works, Vol. 49』歴史的書簡の考証およびハーバード・メディカルスクールの音楽療法と自律神経系反応の科学研究",
+      "zh": "路德全集《Luther's Works, Vol. 49》历史书信考证及哈佛医学院关于音乐疗法与自主神经系统反应的神经科学研究",
+      "es": "Autenticación de los escritos de Lutero 'Luther's Works, Vol. 49' e investigaciones de la Escuela de Medicina de Harvard sobre la musicoterapia y el sistema autónomo",
+      "fr": "Récit des écrits de Luther 'Luther's Works, Vol. 49' et travaux de la Harvard Medical School sur la musicothérapie et le système autonome",
+      "de": "Historische Belege aus Luthers Briefen in 'Luther's Works, Vol. 49' und Forschung der Harvard Medical School zur Musiktherapie und dem vegetativen Nervensystem",
+      "pt": "Autenticação dos escritos de Lutero 'Luther's Works, Vol. 49' e pesquisas da Harvard Medical School sobre a musicoterapia e o sistema autónomo",
+      "id": "Arsip Surat 'Luther's Works, Vol. 49' dan Penelitian Harvard Medical School tentang Terapi Musik dan Respons Saraf Otonom"
+    },
+    "intro": {
+      "ko": "면벌부 판매를 강도 높게 비판하며 비텐베르크 성 교회의 문에 95개조 반박문을 내걸어 종교개혁의 불길을 댕긴 신학자 마르틴 루터. 역사상 가톨릭 교회의 가장 강력한 권위에 혈혈단신으로 맞섰던 루터였기에, 그의 일상은 이단 선고, 암살 위험, 끝없는 격론 등 매일이 극한의 전장에 서 있는 것과 같은 중압감이었습니다. 만성 위장 장애와 극심한 공황 상태에 시달렸던 그가 멘탈을 지켜내고 성경 번역과 개혁 활동을 이끈 힘은 매일 아침 현악기 '류트(Lute)'를 들고 손가락을 튕기는 행동이었습니다. 루터는 아침 기도 후 류트를 타며 노래하는 의식을 거치며 마음에 달라붙은 근심과 공포를 씻어냈습니다. 음악이 가진 물리적 파동이 뇌의 긴장 신경계를 이완하는 원리를 해부합니다.",
+      "en": "The theologian who sparked the Reformation by pinning the 95 Theses on the door of the Wittenberg Castle Church, Martin Luther. Since Luther stood alone against the strongest authority of the Catholic Church, his daily life was a battlefield filled with excommunication threats, assassination risks, and endless debates. Plagued by chronic stomach issues and extreme panic, the force that saved his mental state and drove his Bible translation work was picking up the 'Lute' and plucking its strings every morning. After morning prayer, he cleansed his mind of anxiety and fear. We dissect how the physical vibrations of music relax the brain's tension.",
+      "ja": "免罪符販売を強く批判し、ヴィッテンベルクの城教会の門に「95ヶ条の論題」を掲げて宗教改革の火蓋を切った神学者マルティン・ルター。歴史上、カトリック教会の最も強力な権威に一人で立ち向かったルターであったため、彼の日常は異端宣告、暗殺の危機、絶え間ない激論など、毎日が極限の戦場に立っているかのような重圧でした。慢性的な胃腸障害と極度の恐慌状態に悩まされた彼が、メンタルを維持し聖書翻訳と改革活動を導いた力は、毎朝弦楽器の「リュート（Lute）」を手に取り指を弾く行動でした。ルターは朝の祈りの後、リュートを奏でて歌う儀式を通じて、心にへばりついた悩みと恐怖を洗い流しました。音楽の持つ物理的な波動が脳の緊張神経系を弛緩させる原理を解剖します。",
+      "zh": "向物理学界提出“不确定性原理”、奠定现代量子物理学基石并荣获诺贝尔物理学奖的德国巨匠维尔纳·海森堡。被电子不连续轨道跃迁和几何矩阵计算这一深奥物理方程所阻碍、深陷严重的认知崩溃与失眠折磨的年轻海森堡，每当需要寻找突破口时，都会独自前往巴伐利亚阿尔卑斯山脉。他会在郁郁葱葱的针叶林以及连绵不断的阿尔卑斯山路上登山数日，以此整理思路。1925年秋天，在北海孤岛黑尔戈兰岛疗养以及阿尔卑斯山路的散步中，诞生了成为物理学历史里程碑的不确定性公式，其背景正是 his 登山思索习惯。我们共同揭示在自然中散步给大脑带来的认知充电原理。",
+      "es": "Martín Lutero desafió el poder de la Iglesia católica. Enfrentando peligros de muerte, su salud mental y digestiva sufría un gran estrés. Su método para centrar su mente era tocar el laúd (Lute) cada mañana tras sus oraciones. Analicemos cómo la música estimula el nervio vago y activa el sistema parasimpático, bloqueando los niveles de cortisol.",
+      "fr": "Martin Luther défia le pouvoir de l'Église catholique. Faisant face à des menaces de mort, sa santé mentale et physique en souffrait. Son moyen de recentrer son esprit était de jouer du luth (Lute) chaque matin après ses prières. Voyons comment la musique stimule le nerf vague et active le système parasympathique.",
+      "de": "Reformator Martin Luther stand allein gegen die Macht der Kirche. Bedrohungen prägten seinen Alltag und belasteten seine Gesundheit. Sein Ventil war die Musik: Nach dem Morgengebet spielte er Laute. Kognitionspsychologisch regt Musik das vegetative Nervensystem an und beruhigt das Herz, was den Stresspegel senkt.",
+      "pt": "Martinho Lutero desafiou o poder da Igreja católica. Enfrentando perigos de morte, a sua saúde mental e digestiva sofria um grande estresse. O seu método era tocar o alaúde (Lute) cada manhã após as suas orações. Analisemos como o processo estimula o nervo vago e ativa o sistema parassimpático.",
+      "id": "Martin Luther memicu Reformasi Gereja di Wittenberg. Di tengah ancaman hukuman bidat dan percobaan pembunuhan, kekuatannya bertahan berasal dari ritual pagi: memetik instrumen berdawai Lute setelah berdoa. Getaran fisika musik terbukti mengendurkan ketegangan saraf motorik."
+    },
+    "whyTitle": {
+      "ko": "청각-운동 경로 통합과 미주신경 자극의 뇌파 완화 효과",
+      "en": "Auditory-Motor Pathway Integration and EEG Calming Effects of Vagus Nerve Stimulation",
+      "ja": "聴覚-運動経路の統合と迷走神経刺激の脳波緩和効果",
+      "zh": "听觉-运动通道整合与迷走神经刺激引导的脑电波缓解效应",
+      "es": "Integración auditivo-motora y estimulación del nervio vago para calmar las ondas cerebrales",
+      "fr": "Intégration auditivo-motrice et stimulation du nerf vague pour calmer les ondes cérébrales",
+      "de": "Integration von Gehör und Motorik und Entspannung der Gehirnwellen durch Vagusnerv-Stimulation",
+      "pt": "Integração auditivo-motora e estimulação do nervo vago para acalmar as ondas cerebrais",
+      "id": "Integrasi Jalur Auditori-Motorik dan Efek Menenangkan Gelombang Otak dari Stimulasi Saraf Vagus"
+    },
+    "whyDesc": {
+      "ko": "악기를 손가락으로 정교하게 만지고 조율하는 동작은 뇌의 미세 운동 피질(Motor Cortex)을 활성화하며, 청각 피질과의 피드백 루프인 '청각-운동 통합 경로'를 연결시킵니다. 자신이 울린 류트 줄의 진동과 파동 소리에 온전히 주의를 기울일 때, 뇌는 불안과 관련된 과도한 전두엽 잡음을 가라앉히고 현재 감각 자극에만 몰입합니다. 또한 규칙적인 현악 연주와 노래는 미주신경(Vagus Nerve)을 강하게 자극하여 심박 변이도(HRV)를 높이고 부교감신경계를 깨웁니다. 이는 흥분 상태의 뇌파를 완만한 알파(Alpha)파 상태로 하향 조절하여 불안을 해소합니다.",
+      "en": "Precisely touching and tuning an instrument with fingers activates the brain's motor cortex, connecting the 'Auditory-Motor Integration Pathway,' which is a feedback loop with the auditory cortex. When fully focusing on the vibrations and sound waves of the lute strings, the brain silences excessive frontal lobe noise related to anxiety. Furthermore, rhythmic string playing and singing stimulate the vagus nerve, increasing heart rate variability (HRV) and activating the parasympathetic nervous system. This shifts overexcited brainwaves into a calm alpha state, soothing stress.",
+      "ja": "楽器を指で精巧に触って調節する動作は、脳の微細運動皮質（Motor Cortex）を活性化し、聴覚皮質とのフィードバックループである「聴覚-運動統合経路」を結びつけます。自ら響かせたリュートの弦の振動と波動の音に完全に注意を傾ける時、脳は不安に関連する過剰な前頭葉のノイズを静め、現在の感覚刺激にのみ没頭します。また、規則的な弦楽器の演奏と歌は迷走神経（Vagus Nerve）を強く刺激して心拍変動（HRV）を高め、副交感神経系を目覚めさせます。これは興奮状態の脳波を穏やかなアルファ（Alpha）波状態に下方調節し、不安を解消します。",
+      "zh": "用手指精细接触并调弦的动作能激活大脑的细微运动皮层(Motor Cortex)，并连接与听觉皮层形成反馈回路的“听觉-运动整合通道”。当完全专注于自己弹奏出的琉特琴琴弦振动与声波时，大脑会平息与焦虑相关的过度前头叶噪音，只沉浸在当下的感官刺激中。此外，有规律的弹唱会强烈刺激迷走神经(Vague Nerve)，提高心率变异性(HRV)并唤醒副交感神经系统。这能将兴奋状态下的脑电波向下调节为平缓的阿尔法(Alpha)波状态，消除焦虑。",
+      "es": "Tocar un instrumento activa la corteza motora y la corteza auditiva mediante una retroalimentación protectora. Al concentrarse en el tono físico y la resonancia del laúd, la mente desconecta las redes de alerta. Esta estimulación rítmica y cantar activa el nervio vago, incrementando la variabilidad de la frecuencia cardíaca (HRV) y el tono parasimpático. Las ondas beta bajan a ondas alfa, disipando la tensión acumulada.",
+      "fr": "Tocar un instrumento activa la corteza motora y la corteza auditiva. En se concentrant sur la vibration physique et la résonance du luth, l'esprit déconnecte les réseaux d'alerte. Cette stimulation rythmique et le chant activent le nerf vague, augmentant la variabilité cardiaque et le tonus parasympathique.",
+      "de": "Das präzise Greifen und Zupfen der Saiten regt den motorischen Cortex an und verbindet ihn mit dem Hörzentrum. Die Konzentration auf die Schwingung der Saiten dämpft das angstbesetzte Grübeln im Gehirn. Das rhythmische Spielen und Singen stimuliert zudem den Vagusnerv, beruhigt das Herz und regt den Parasympathikus an. Dies senkt die Gehirnaktivität in den beruhigenden Alpha-Bereich.",
+      "pt": "Tocar um instrumento activa o córtex motor e o córtex auditivo mediante uma retroalimentação protectora. Ao concentrar-se no tom físico e na ressonância do alaúde, a mente desliga as redes de alerta. A estimulação rítmica e cantar activa o nervo vago, incrementando a variabilidade cardíaca.",
+      "id": "Memainkan instrumen dengan jari mengaktifkan korteks motorik halus dan menghubungkannya dengan korteks auditori. Fokus pada getaran senar lute meredam kecemasan di lobus frontal. Bermusik secara ritmis juga merangsang saraf vagus dan meningkatkan variabilitas detak jantung (HRV)."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "음악 명상 루틴을 적용할 때 피해야 할 장애물은 연주 실력 향상 자체에 집착하는 것입니다. 연주법이 어렵거나 악보를 맞게 쳤는지 끊임없이 걱정하기 시작하면, 이는 뇌에 또 다른 스트레스 평가 요소로 인지되어 편도체를 도리어 자극하게 됩니다. 따라서 악기는 칼림바나 우쿨렐레처럼 연주가 극도로 단순한 직관적 악기를 사용하는 것이 좋으며, 소리와 진동의 감각을 느끼는 5분간의 환기 과정으로만 가볍게 수행해야 합니다.",
+      "en": "The trap to watch out for is obsessing over your musical skill. If you worry about playing correctly or memorizing sheets, it becomes another evaluation stressor, re-triggering the amygdala. Choose an intuitive, easy-to-play instrument like a kalimba or ukulele, and treat it strictly as a 5-minute sensory refreshment.",
+      "ja": "音楽瞑想ルーティンを適用する際に避けるべき障害は、演奏の実力向上そのものに執着することです。演奏法が難しかったり、楽譜通りに弾けているかを絶えず心配し始めると、これは脳に新たなストレス評価要因として認知され、かえって扁桃体を刺激することになります。したがって、楽器はカリンバやウクレレのように演奏が極めて単純な直感的な楽器を使用するのが良く、音と振動の感覚を感じる5分間の換気プロセスとしてのみ軽快に行うべきです。",
+      "zh": "应用音乐默想规程时需要避开的障碍是，执着于演奏水平本身的提高。如果演奏方法较难，或者开始不断担心自己是否弹错乐谱，这会被大脑认知为又一个压力评估因素，反而会刺激杏仁核。因此，建议选用卡林巴（拇指琴）或尤克里里这样演奏极其简单直观的乐器，且应将其作为仅用于感受声音与振动感官的5分钟放松过程，轻松进行即可。",
+      "es": "El error es obsesionarse con la calidad o la técnica del instrumento. Si se frustra por tocar mal o leer partituras complejas, el cerebro lo interpreta como una tarea tensa y activa la amígdala. Prefiera instrumentos de manejo sumamente intuitivo y fácil, y limite el ejercicio a 5 minutos de relajación vibratoria pura.",
+      "fr": "L'erreur est d'avoir une exigence technique. Si vous vous agacez de faire des fausses notes, le cerveau l'interprète comme un stress et active l'amygdale. Privilégiez des instruments très intuitifs, et limitez l'exercice à 5 minutes de pure détente vibratoire.",
+      "de": "Vermeiden Sie es, das Musizieren als Leistungssport zu betrachten. Wer sich über Fehler ärgert, erzeugt neuen Stress. Wählen Sie ein sehr einfach zu spielendes Instrument wie eine Kalimba oder Ukulele und begrenzen Sie die Routine auf 5 Minuten reinen Genuss der Schwingungen.",
+      "pt": "O erro é obcecar-se com a qualidade ou a técnica do instrumento. Se se frustrar por tocar mal ou ler partituras complexas, o cérebro interpreta-o como uma tarefa tensa. Prefira instrumentos de manejo sumamente intuitivo e fácil, e limite o exercício a 5 minutos de relaxamento.",
+      "id": "Jebakan menuntut kesempurnaan teknik bermain musik harus dihindari. Frustrasi karena membuat kesalahan justru memicu stres baru bagi amigdala. Gunakan instrumen yang sangat mudah dimainkan secara intuitif, dan lakukan hanya sebagai penyegaran indra 5 menit."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "명상용 쉬운 악기 준비",
+          "en": "Preparing an Easy Meditative Instrument",
+          "ja": "瞑想用の簡単な楽器の準備",
+          "zh": "准备默想用简单乐器",
+          "es": "Preparar un instrumento intuitivo",
+          "fr": "Choisir un instrument intuitif",
+          "de": "Anschaffen eines einfachen Instruments",
+          "pt": "Preparar um instrumento intuitivo",
+          "id": "Menyiapkan Instrumen Musik Sederhana"
+        },
+        "text": {
+          "ko": "칼림바, 우쿨렐레, 혹은 간단한 통기타 등 자신의 몸과 가까이 닿아 소리를 느끼기 쉬운 물리 악기 하나를 방에 배치합니다.",
+          "en": "Place a physical instrument in your room that is easy to feel and hold near your body, such as a kalimba, ukulele, or a simple acoustic guitar.",
+          "ja": "カリンバ、ウクレレ、あるいは簡単なアコースティックギターなど、自分の体と近くに接して音を感じやすい物理的な楽器を一つ部屋に配置します。",
+          "zh": "在房间里摆放好卡林巴、尤克里里或简单的民谣吉他等，一款容易贴近身体并感受声音的物理乐器。",
+          "es": "Coloque en su habitación un instrumento acústico que pueda sostener cerca de su pecho, como una kalimba, ukelele o una guitarra simple.",
+          "fr": "Disposez dans votre pièce un instrument acoustique simple à tenir près de vous, comme une kalimba, un ukulélé ou une guitare sèche.",
+          "de": "Legen Sie sich ein handliches akustisches Instrument wie eine Kalimba, Ukulele oder Gitarre in Ihr Zimmer.",
+          "pt": "Coloque no seu quarto um instrumento acústico que possa segurar perto do seu peito, como uma alaúde ou uma guitarra simples.",
+          "id": "Sediakan satu instrumen musik akustik yang mudah didekap seperti kalimba, ukulele, atau gitar akustik di kamar Anda."
+        }
+      },
+      {
+        "name": {
+          "ko": "5분간의 무평가 자유 연주",
+          "en": "Engaging in 5 Minutes of Non-judgmental Free Playing",
+          "ja": "5分間の無評価自由演奏",
+          "zh": "进行5分钟的无压力自由演奏",
+          "es": "Tocar libremente durante 5 minutos sin juicios",
+          "fr": "Jouer librement pendant 5 minutes sans jugement",
+          "de": "5 Minuten freies Spielen ohne Bewertung",
+          "pt": "Tocar livremente durante 5 minutos sem julgamentos",
+          "id": "Bermain Bebas Selama 5 Menit"
+        },
+        "text": {
+          "ko": "악보를 치거나 잘 연주하려 노력하지 않고, 손끝이 닿는 대로 리드미컬하게 현을 타거나 건반을 치며 5분간 소리를 냅니다.",
+          "en": "Without trying to read sheets or play well, pluck the strings or hit the keys rhythmically as your fingers lead for 5 minutes.",
+          "ja": "楽譜を弾いたり上手に演奏しようと努めることなく、指先が触れるままにリズミカルに弦を奏でたり鍵盤を叩き、5分間音を出します。",
+          "zh": "不看乐谱、也不去勉强弹得好听，只是顺应指尖的碰触，有节奏地拨动琴弦或敲击琴键，持续发出声音5分钟。",
+          "es": "Toque las cuerdas o las teclas rítmicamente según se muevan sus dedos, sin buscar partituras ni preocuparse por la melodía durante 5 minutos.",
+          "fr": "Pincez les cordes ou tapotez les touches de façon rythmée au gré de vos doigts, sans chercher de partition, pendant 5 minutes.",
+          "de": "Zupfen Sie die Saiten oder spielen Sie Tasten völlig frei und im eigenen Rhythmus für 5 Minuten, ohne auf Noten zu achten.",
+          "pt": "Tocar as cordas ou as teclas ritmicamente conforme se movem os seus dedos, sem buscar pautas nem se preocupar com a melodia durante 5 minutos.",
+          "id": "Petik senar atau pukul tuts instrumen Anda secara ritmis mengikuti ketukan jari selama 5 menit tanpa memedulikan ketepatan nada."
+        }
+      },
+      {
+        "name": {
+          "ko": "진동 자극 인지와 심호흡 결합",
+          "en": "Perceiving Vibration Stimuli and Combining Deep Breathing",
+          "ja": "振動刺激の認知と深呼吸の結合",
+          "zh": "体察振动刺激并配合深呼吸",
+          "es": "Sentir la vibración y sincronizar la respiración",
+          "fr": "Sentir la vibration et synchroniser la respiration",
+          "de": "Wahrnehmen der Schwingung kombiniert mit tiefem Atmen",
+          "pt": "Sentir a vibração e sincronizar a respiração",
+          "id": "Merasakan Getaran dan Bernapas Dalam"
+        },
+        "text": {
+          "ko": "악기 바디를 통해 가슴과 손가락으로 전해지는 잔잔한 물리 파동을 느끼며, 들이쉬고 내쉬는 호흡을 결합하여 명상을 매듭짓습니다.",
+          "en": "Feel the gentle physical vibrations transmitted to your chest and fingers through the instrument body, and combine it with deep breaths to conclude.",
+          "ja": "楽器のボディを通じて胸や指に伝わる穏やかな物理的波動を感じながら、吸って吐く呼吸を組み合わせて瞑想を締めくくります。",
+          "zh": "感受通过乐器琴身传达到胸口与手指的微弱物理声波，配合吸气与呼气，以此收尾默想活动。",
+          "es": "Sienta la vibración física en su pecho y dedos transmitida por la caja de resonancia, sincronizando con respiraciones lentas y profundas.",
+          "fr": "Ressentez la vibration physique dans votre poitrine transmise par l'instrument, en synchronisant des respirations lentes et profondes.",
+          "de": "Spüren Sie die physische Schwingung im Körper und atmen Sie langsam und tief ein und aus, um die Übung abzuschließen.",
+          "pt": "Sinta a vibração física no seu peito e dedos transmitida pela caixa de ressonância, sincronizando com respirações lentas e profundas.",
+          "id": "Rasakan getaran fisik instrumen pada dada dan jemari Anda, lalu kombinasikan dengan tarikan napas panjang untuk relaksasi penuh."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?",
+          "en": "How should I fill the journal on days when I have nothing special to write?",
+          "ja": "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？",
+          "zh": "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？",
+          "es": "¿Qué debo escribir en el diario los días en los que no pasa nada especial?",
+          "fr": "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?",
+          "de": "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?",
+          "pt": "O que devo escrever no diário nos dias em que no acontece nada de especial?",
+          "id": "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
+        },
+        "answer": {
+          "ko": "일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.",
+          "en": "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.",
+          "ja": "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。",
+          "zh": "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。",
+          "es": "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.",
+          "fr": "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.",
+          "de": "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.",
+          "pt": "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo.",
+          "id": "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+        }
+      }
+    ]
+  }
+}

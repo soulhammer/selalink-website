@@ -1,0 +1,192 @@
+{
+  "archimedes-sand-geometry": {
+    "title": {
+      "ko": "몰입의 극치: 아르키메데스의 모래 기하학 스케치 습관",
+      "en": "The Peak of Flow: Archimedes' Sand Geometry Sketch Habit",
+      "ja": "没頭の極致：アルキメデスの砂の上の幾何学スケッチ習慣",
+      "zh": "极度专注：阿基米德的沙地几何画图 习惯",
+      "es": "El culmen de la concentración: El hábito de bocetos geométricos en arena de Arquímedes",
+      "fr": "L'apogée du flow : L'habitude de croquis géométriques sur sable d'Archimède",
+      "de": "Der Gipfel des Fokus: Archimedes' Gewohnheit der geometrischen Skizzen im Sand",
+      "pt": "O ápice do fluxo: O hábito de esboços geométricos na areia de Arquimedes",
+      "id": "Puncak Alur Fokus: Kebiasaan Sketsa Geometri Pasir Archimedes"
+    },
+    "description": {
+      "ko": "복잡한 과학적 영감을 시각화하기 위해 모래나 바닥에 끊임없이 도형을 그렸던 아르키메데스. 손을 사용하는 시각 스케치가 어떻게 작동 기억의 인지 과부하를 줄이고 초몰입 상태를 유도하는지 연구합니다.",
+      "en": "Archimedes, who constantly drew shapes on sand or floors to visualize complex scientific inspiration. Learn how hand-drawn visual sketching reduces cognitive load on working memory and induces deep flow.",
+      "ja": "複雑な科学的ひらめきを視覚化するために、砂や床に絶えず図形を描いたアルキメデス。手を使った視覚的なスケッチが、いかにワーキングメモリの認知負荷を減らし、超没頭状態を導くかを研究します。",
+      "zh": "为了将复杂的科学灵感可视化而不断在沙地或地面上绘制图形的阿基米德。探讨动手进行视觉草图绘制如何减轻工作记忆的认知过载并引导超强专注状态的原理。",
+      "es": "Arquímedes dibujaba constantemente formas en la arena para visualizar sus ideas científicas. Descubra cómo el bocetado visual reduce la carga cognitiva de la memoria de trabajo y fomenta un estado de flujo profundo.",
+      "fr": "Archimède dessinait constamment des formes sur le sable pour visualiser ses idées scientifiques. Découvrez comment le croquis visuel réduit la charge cognitive de la mémoire de travail et induit un état de concentration intense.",
+      "de": "Archimedes zeichnete ständig geometrische Figuren in den Sand, um wissenschaftliche Ideen zu visualisieren. Erfahren Sie, wie visuelle Skizzen die kognitive Belastung des Arbeitsgedächtnisses senken und tiefen Fokus fördern.",
+      "pt": "Arquímedes desenhava constantemente formas na areia para visualizar suas ideias científicas. Descubra como o esboço visual reduz a carga cognitiva da memória de trabalho e induz a um estado de fluxo profundo.",
+      "id": "Archimedes, yang selalu menggambar bentuk di pasir atau lantai untuk memvisualisasikan inspirasi ilmiah. Pelajari bagaimana sketsa visual mengurangi beban kognitif pada memori kerja."
+    },
+    "authority": {
+      "ko": "플루타르코스 서한집 『대비열전(Parallel Lives)』 역사적 고증 및 이중 코딩 이론(Dual-Coding Theory) 연구",
+      "en": "Plutarch's 'Parallel Lives' (Life of Marcellus) and Cognitive Research on Dual-Coding Theory",
+      "ja": "プルタルコス書簡集『対比列伝』歴史的考証および二重符号化理論（Dual-Coding Theory）研究",
+      "zh": "普鲁塔克书信集《对比列传》历史考证及双重编码理论(Dual-Coding Theory)认知研究",
+      "es": "Autenticación del epistolario de Plutarco 'Vidas paralelas' e investigaciones sobre la teoría de la codificación dual",
+      "fr": "Récit de la correspondance de Plutarque 'Vies parallèles' et recherches sur la théorie du double codage",
+      "de": "Historische Belege aus Plutarchs 'Parallelen Lebensbeschreibungen' und kognitive Forschung zur Dual-Coding-Theorie",
+      "pt": "Autenticação do epistolário de Plutarco 'Vidas paralelas' e pesquisas sobre a teoria da codificação dual",
+      "id": "Kumpulan Surat Plutarch 'Parallel Lives' dan Penelitian Kognitif tentang Teori Pengodean Ganda"
+    },
+    "intro": {
+      "ko": "지레의 원리를 발견하고 '내게 디딜 곳을 준다면 지구도 움직이겠다'고 공언한 고대 최고의 천재 아르키메데스. 그의 초인적인 몰입과 과학적 영감의 원천 뒤에는 독특한 시각 스케치 습관이 있었습니다. 그는 생각할 때마다 땅바닥의 모래, 목욕 후 몸에 바른 기름 위 등 손가락이나 도구로 선을 그릴 수 있는 곳이라면 어디든 기하학적 도형을 그렸습니다. 나라가 적의 침략을 받아 목숨이 위태로운 순간에도 모래밭 위의 도형을 밟지 말라며 소리치다 로마 군인에게 죽임을 맞이한 그의 일화는 유명합니다. 뇌과학과 인지심리학적 원리를 통해 모래밭 위에 그린 도형이 어떻게 극도의 집중 상태를 만들었는지 그 메커니즘을 밝혀냅니다.",
+      "en": "The greatest genius of antiquity who discovered the principle of the lever and declared, 'Give me a place to stand on, and I will move the Earth,' Archimedes. Behind his superhuman flow and scientific inspiration was a unique visual sketching habit. Whenever he thought, he drew geometric shapes on the sand, or on the oil applied to his body after bathing. His famous anecdote of shouting at a Roman soldier not to step on his drawings on the sand even when his life was in danger of enemy invasion is well known. We uncover the mechanisms of how these drawings created extreme focus.",
+      "ja": "てこの原理を発見し、「私に支点を与えよ、さらば地球を動かさん」と宣言した古代最高の天才アルキメデス。彼の超人的な没頭と科学的インスピレーションの源泉には、独特な視覚スケッチの習慣がありました。彼は考えるたびに、地面の砂や、入浴後に体に塗ったオイルの上など、指や道具で線を引くことができる場所ならどこでも幾何学的な図形を描きました。国が敵の侵略を受けて命が脅かされる瞬間にも、砂の上の図形を踏むなと叫んでローマ兵に殺された逸話は有名です。脳科学と認知心理学の原理を通じて、砂の上に描いた図形がいかに極限の集中状態を作ったのか、そのメカニズムを明らかにします。",
+      "zh": "发现杠杆原理并宣称“给我一个支点，我将撬动地球”的古代最伟大的天才阿基米德。在他超凡的专注力与科学灵感源泉背后，有一种独特的视觉草图绘制习惯。每当他思考时，无论是在地面的沙地、还是沐浴后涂抹了油脂的身体上，只要是用手指或工具能画出线条的地方，他都会绘制几何图形。即使在国家遭受敌军入侵、生命垂危的时刻，他也曾因大喊“不要踩我的圆”而被罗马士兵杀害，这一逸事广为人知。我们通过脑科学和认知心理学原理，揭示沙地上的图形是如何造就极度专注状态的机制。",
+      "es": "El mayor genio de la antigüedad, Arquímedes, que descubrió el principio de la palanca. Detrás de su concentración sobrehumana y su inspiración científica se encontraba un hábito de bocetado visual. Dibujaba formas geométricas en la arena o sobre el aceite corporal tras el baño. Es famosa la anécdota en la que, ante el peligro de muerte, gritó a un soldado romano que no pisara sus dibujos en la arena. Revelamos los mecanismos de cómo estos esbozos crearon una concentración mental extrema.",
+      "fr": "Le plus grand génie de l'Antiquité, Archimède, qui découvrit le principe du levier. Derrière sa concentration surhumaine et son inspiration scientifique se cachait une habitude de croquis visuels. Il dessinait des formes géométriques sur le sable ou sur l'huile corporelle après le bain. L'anecdote selon laquelle il cria à un soldat romain de ne pas piétiner ses cercles est célèbre. Nous dévoilons comment ces croquis créèrent un focus mental absolu.",
+      "de": "Der größte Genius der Antike, Archimedes, Entdecker des Hebelgesetzes. Hinter seinem übermenschlichen Fokus stand die Gewohnheit visueller Skizzen. Wann immer er nachdachte, zeichnete er geometrische Figuren in den Sand oder auf das Öl auf seinem Körper. Berühmt ist die Anekdote, nach der er einen römischen Soldaten anbrüllte, seine Kreise im Sand nicht zu stören. Wir erklären die Mechanismen dahinter.",
+      "pt": "O maior gênio da antiguidade, Arquimedes, que descobriu o princípio da alavanca. Por trás de sua concentração sobre-humana e inspiração científica estava um hábito de esboço visual. Desenhava formas geométricas na areia ou sobre o óleo corporal após o banho. É famosa a história em que gritou a um soldado romano para não pisar em seus desenhos na areia. Revelamos os mecanismos de como esses esboços criaram uma concentração mental extrema.",
+      "id": "Genius terbesar zaman kuno yang menemukan prinsip tuas, Archimedes. Di balik fokus luar biasa dan inspirasi ilmiahnya terdapat kebiasaan sketsa visual yang unik. Setiap kali berpikir, ia menggambar bentuk geometri di pasir atau minyak di tubuhnya setelah mandi. Cerita terkenalnya meneriaki tentara Romawi agar tidak menginjak gambarnya di pasir sangat melegenda. Kami mengungkap mekanisme fokus ekstrem ini."
+    },
+    "whyTitle": {
+      "ko": "작동 기억 과부하 차단과 이중 코딩 인지 효과",
+      "en": "Preventing Working Memory Overload and the Dual-Coding Cognitive Effect",
+      "ja": "ワーキングメモリの過負荷遮断と二重符号化の認知効果",
+      "zh": "工作记忆过载阻断与双重编码认知效应",
+      "es": "Prevención de la sobrecarga de la memoria de trabajo y efecto cognitivo de codificación dual",
+      "fr": "Prévention de la surcharge de la mémoire de travail et effet de double codage",
+      "de": "Vermeidung von Überlastung des Arbeitsgedächtnisses und kognitiver Dual-Coding-Effekt",
+      "pt": "Prevenção da sobrecarga da memória de trabalho e efeito cognitivo de codificação dual",
+      "id": "Mencegah Kelebihan Beban Memori Kerja dan Efek Kognitif Pengodean Ganda"
+    },
+    "whyDesc": {
+      "ko": "인간의 작동 기억은 한 번에 처리할 수 있는 정보량이 엄격히 제한되어 있습니다. 추상적인 수학 공식이나 물리 법칙을 오직 머릿속으로만 계산하려 하면 뇌는 급격히 피로해지고 몰입이 깨집니다. 이때 손을 움직여 주변 사물에 선을 그리는 스케치 행위는 뇌의 인지적 부담을 외부 환경으로 전가하는 '분산 인지(Distributed Cognition)'를 유발합니다. 또한 시각적 이미지와 촉각적 움직임이 함께 활성화되는 이중 코딩 효과를 통해 공간 기억 세포를 자극하고 정보의 정교한 처리를 촉진시킵니다.",
+      "en": "Human working memory has strict limits on the amount of information it can process at once. Trying to calculate abstract math or physics laws entirely in your head causes rapid cognitive fatigue and breaks focus. Physical sketching transfers the mental load to the external environment, triggering 'Distributed Cognition.' In addition, the dual-coding effect, activating both visual and tactile systems, stimulates spatial memory cells and promotes detailed information processing.",
+      "ja": "人間のワーキングメモリは、一度に処理できる情報量が厳格に制限されています。抽象的な数学公式や物理法則を頭の中だけで計算しようとすると、脳は急速に疲弊し、没頭が妨げられます。この時、手を動かして周辺の物に線を引くスケッチ行為は、脳の認知的負担を外部環境に転嫁する「分散認知（Distributed Cognition）」を引き起こします。また、視覚的イメージと触覚的動きが共に活性化される二重符号化効果を通じて空間記憶細胞を刺激し、情報の精巧な処理を促進します。",
+      "zh": "人类的工作记忆在单次处理的信息量上有着严格的限制。如果仅在大脑中计算抽象的数学公式或物理规律，大脑会迅速感到疲劳并打破专注状态。此时，动手在周围物体上绘制线条的草图行为，会引发将大脑认知负担转移到外部环境的“分布式认知(Distributed Cognition)”。此外，通过同时激活视觉图像与触觉动作的双重编码效应，可刺激空间记忆细胞，促进信息的精细处理。",
+      "es": "La memoria de trabajo humana tiene límites estrictos. Intentar procesar matemáticas abstractas solo en la mente fatiga el cerebro y rompe el enfoque. Bocetar físicamente transfiere la carga mental al entorno exterior, activando la 'cognición distribuida'. Este efecto de codificación dual, al activar los sistemas visual y táctil, estimula las células de memoria espacial y mejora el procesamiento mental.",
+      "fr": "La mémoire de travail humaine a des limites strictes. Essayer de calculer des concepts abstraits uniquement dans l'esprit fatigue le cerveau et rompt le focus. Le croquis physique transfère la charge mentale à l'environnement extérieur, activant la 'cognition distribuée'. Cet effet de double codage stimule les cellules de mémoire spatiale et améliore le traitement mental.",
+      "de": "Das menschliche Arbeitsgedächtnis hat strenge Grenzen. Der Versuch, abstrakte Formeln rein im Kopf zu berechnen, ermüdet das Gehirn schnell und unterbricht den Fokus. Physisches Skizzieren verlagert die mentale Last nach außen und löst 'verteilte Kognition' (Distributed Cognition) aus. Der Dual-Coding-Effekt regt zudem räumliche Gedächtniszellen an und erleichtert die Informationsverarbeitung.",
+      "pt": "A memória de trabalho humana tem limites estritos. Tentar processar matemática abstrata apenas na mente fatiga o cérebro e quebra o foco. Esboçar fisicamente transfere a carga mental para o ambiente externo, ativando a 'cognição distribuída'. Esse efeito de codificação dual estimula as células de memória espacial e melhora o processamento mental.",
+      "id": "Memori kerja manusia memiliki batas ketat. Mencoba menghitung matematika atau fisika abstrak sepenuhnya di dalam kepala menyebabkan kelelahan kognitif dan memecah fokus. Sketsa fisik memindahkan beban mental ke lingkungan luar, memicu 'Kognisi Terdistribusi'. Efek pengodean ganda merangsang sel memori spasial."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "기하학 스케치 습관을 적용할 때 주의해야 할 점은 완벽하고 예쁜 스케치를 그리려는 완벽주의에 빠지는 것입니다. 선의 형태나 정밀도에 지나치게 신경을 쓰면 뇌의 인지 리소스가 그림 솜씨 자체에 낭비되는 주객전도 현상이 발생합니다. 따라서 기하학 스케치는 정보의 정돈과 뇌의 집중을 돕는 가이드용으로만 사용해야 하며, 지저분하고 완성되지 않은 낙서 수준으로 가볍게 그려나가는 것이 핵심입니다.",
+      "en": "The key thing to avoid when applying this habit is falling into perfectionism by trying to draw perfect or pretty diagrams. Obsessing over lines or precision wastes cognitive resources on drawing skills rather than thinking. Use the sketches solely to organize information and focus the brain, drawing light, incomplete scribbles.",
+      "ja": "幾何学スケッチ習慣を適用する際に注意すべき点は、完璧で綺麗なスケッチを描こうとする完璧主義に陥ることです。線の形や精密さにこだわりすぎると、脳の認知リソースが絵の技術そのものに浪費される本末転倒な現象が発生します。したがって、幾何学スケッチは情報の整理と脳の集中を助けるガイドとしてのみ使用し、乱雑で未完成の落書きレベルで軽快に描いていくことが核心です。",
+      "zh": "应用几何草图习惯时需要注意的一点是，不要陷入试图绘制完美而美观的草图的完美主义中。如果过度纠结线条的形状或精确度，大脑的认知资源就会浪费在画工本身上，导致主客颠倒。因此，几何草图只应作为帮助整理信息和集中大脑注意力的引导工具，像画凌乱、未完成的随手涂鸦一样轻松勾勒才是核心所在。",
+      "es": "El peligro es caer en el perfeccionismo de querer dibujar diagramas impecables. Obsesionarse con las líneas desperdicia recursos mentales en la habilidad de dibujo en lugar del pensamiento. Use los bocetos solo para organizar información, haciendo trazos rápidos, informales e incompletos.",
+      "fr": "Le danger est de tomber dans le perfectionnisme de vouloir dessiner des schémas parfaits. Obséder sur la précision des lignes gaspille des ressources mentales pour le dessin plutôt que pour la pensée. Utilisez les croquis uniquement pour organiser l'information, en faisant des tracés rapides et incomplets.",
+      "de": "Vermeiden Sie Perfektionismus beim Skizzieren. Wer sich zu sehr auf die Schönheit der Linien konzentriert, verschwendet mentale Ressourcen für das Zeichnen statt für das Denken. Die Skizze dient nur als Denkwerkzeug und sollte eine schnelle, unvollkommene Kritzelei bleiben.",
+      "pt": "O perigo é cair no perfeccionismo de querer desenhar diagramas impecáveis. Obscecar-se com as linhas desperdiça recursos mentais na habilidade de desenho em vez do pensamento. Use os esboços apenas para organizar informações, fazendo traços rápidos, informais e incompletos.",
+      "id": "Hal yang harus dihindari adalah terjebak dalam perfeksionisme untuk menggambar diagram yang sempurna. Terobsesi dengan kerapian garis membuang sumber daya kognitif pada keterampilan menggambar alih-alih proses berpikir. Gunakan sketsa hanya untuk mengatur informasi secara ringan."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "시각적 스케치 공간 준비",
+          "en": "Preparing the Visual Sketching Space",
+          "ja": "視覚的スケッチスペースの準備",
+          "zh": "准备视觉草图空间",
+          "es": "Preparar el espacio de bocetado",
+          "fr": "Préparer l'espace de croquis",
+          "de": "Vorbereiten der Zeichenfläche",
+          "pt": "Preparar o espaço de esboço",
+          "id": "Menyiapkan Media Sketsa Visual"
+        },
+        "text": {
+          "ko": "태블릿 스크린, 연습장 또는 이면지 등 손이 움직이는 대로 그릴 수 있는 자유로운 시각적 물리 공간을 눈앞에 확보합니다.",
+          "en": "Secure a free visual physical space right in front of you, such as a tablet screen, a notebook, or a scrap paper where you can draw freely.",
+          "ja": "タブレットの画面、練習帳、裏紙など、手の動くままに描くことができる自由な視覚的・物理的スペースを目の前に確保します。",
+          "zh": "在眼前准备一块可以跟随双手随意绘制的自由视觉物理空间，如平板屏幕、练习本或草稿纸。",
+          "es": "Disponga de un espacio visual libre frente a usted, como una tableta, libreta o papel borrador para dibujar libremente.",
+          "fr": "Disposez d'un espace visuel libre devant vous, comme une tablette, un carnet ou un brouillon pour dessiner librement.",
+          "de": "Legen Sie ein Tablet, ein Notizbuch oder ein Schmierblatt bereit, auf dem Sie völlig ungezwungen zeichnen können.",
+          "pt": "Disponha de um espaço visual livre à sua frente, como um tablet, caderno ou papel rascunho para desenhar livremente.",
+          "id": "Siapkan ruang fisik atau digital di depan Anda, seperti layar tablet atau kertas coret-coretan untuk menggambar bebas."
+        }
+      },
+      {
+        "name": {
+          "ko": "도형과 기호를 통한 개념 단순화",
+          "en": "Simplifying Concepts with Shapes and Symbols",
+          "ja": "図形と記号による概念の単純化",
+          "zh": "使用图形与符号简化概念",
+          "es": "Simplificar conceptos con formas y símbolos",
+          "fr": "Simplifier les concepts avec des formes et des symboles",
+          "de": "Konzepte mit Formen und Symbolen vereinfachen",
+          "pt": "Simplificar conceitos com formas e símbolos",
+          "id": "Menyederhanakan Konsep dengan Bentuk dan Simbol"
+        },
+        "text": {
+          "ko": "현재 해결하고자 하는 아이디어나 복잡한 개념을 원, 사각형, 삼각형 등의 가장 직관적인 기초 기하학 기호로 대체해 그립니다.",
+          "en": "Represent your current idea or complex concept using the most intuitive basic geometric symbols like circles, squares, or triangles.",
+          "ja": "現在解決しようとしているアイデアや複雑な概念を、円、四角形、三角形などの最も直感的な基礎幾何学記号に置き換えて描きます。",
+          "zh": "将当前需要解决的想法或复杂概念，用圆圈、四方形、三角形等最直观的基础几何符号代替并绘制出来。",
+          "es": "Represente la idea actual o el concepto complejo con los símbolos geométricos más intuitivos, como círculos, cuadrados o triángulos.",
+          "fr": "Représentez l'idée actuelle ou le concept complexe avec les symboles géométriques les plus simples (cercles, carrés, triangles).",
+          "de": "Ersetzen Sie das aktuelle Problem durch einfache geometrische Symbole wie Kreise, Quadrate oder Dreiecke auf dem Blatt.",
+          "pt": "Represente a ideia atual ou o conceito complexo com os símbolos geométricos mais intuitivos, como círculos, quadrados ou triângulos.",
+          "id": "Gambarkan ide atau konsep kompleks Anda menggunakan simbol geometri dasar yang paling intuitif seperti lingkaran, persegi, atau segitiga."
+        }
+      },
+      {
+        "name": {
+          "ko": "관계망 스케치와 사색 전개",
+          "en": "Sketching the Relationship Web and Expanding Thoughts",
+          "ja": "関係網のスケッチと思索の展開",
+          "zh": "绘制关系网并展开思考",
+          "es": "Bocetar conexiones y expandir la reflexión",
+          "fr": "Relier les éléments et développer la réflexion",
+          "de": "Zusammenhänge skizzieren und Gedanken entfalten",
+          "pt": "Esboçar conexões e expandir a reflexão",
+          "id": "Menggambar Hubungan dan Mengembangkan Pemikiran"
+        },
+        "text": {
+          "ko": "도형들 사이에 화살표나 선을 이으며 원인과 결과, 분류, 상호작용 등의 관계를 시각적으로 확장하며 5분 동안 사색을 전개합니다.",
+          "en": "Connect the shapes with arrows or lines, visually expanding relationships like causes, categories, or interactions to carry out a 5-minute thinking flow.",
+          "ja": "図形同士を矢印や線で結び、原因と結果、分類、相互作用などの関係を視覚的に広げながら、5分間思索を展開します。",
+          "zh": "在图形之间画出箭头或连线，将因果、分类、相互作用等关系在视觉上展开，以此进行5分钟的专注思考。",
+          "es": "Conecte las formas con flechas o líneas, expandiendo las relaciones visuales como causas o categorías durante 5 minutos de flujo mental.",
+          "fr": "Reliez les formes avec des flèches ou des lignes, développant visuellement les causes ou catégories durant 5 minutes de concentration.",
+          "de": "Verbinden Sie die Symbole mit Pfeilen oder Linien, um Ursachen oder Kategorien visuell darzustellen und Gedanken 5 Minuten fließen zu lassen.",
+          "pt": "Conecte as formas com setas ou linhas, expandindo as relações visuais como causas ou categorias durante 5 minutos de fluxo mental.",
+          "id": "Hubungkan bentuk-bentuk tersebut dengan panah atau garis untuk memperluas hubungan sebab-akibat selama 5 menit."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "그림을 전혀 못 그리는 사람도 이 습관을 활용할 수 있나요?",
+          "en": "Can someone who cannot draw at all use this habit?",
+          "ja": "絵を全く描けない人でもこの習慣を活用できますか？",
+          "zh": "完全不会画画的人也能应用这个习惯吗？",
+          "es": "¿Se puede usar este método si no tengo ninguna habilidad para el dibujo?",
+          "fr": "Peut-on utiliser cette méthode si je dessine très mal ?",
+          "de": "Kann diese Methode auch von Personen genutzt werden, die überhaupt nicht zeichnen können?",
+          "pt": "¿É possível usar este método se eu não tiver nenhuma habilidade para o desenho?",
+          "id": "Apakah orang yang tidak bisa menggambar sama sekali tetap bisa menggunakan kebiasaan ini?"
+        },
+        "answer": {
+          "ko": "그렇습니다. 아르키메데스의 스케치 습관은 예술적인 예술화 작화 행위가 아닌, 뇌의 생각 구조를 외부 공간에 배치하는 인지적인 작업입니다. 단순히 동그라미를 그리거나, 텍스트에 네모 상자를 치고 화살표로 연결하는 낙서 형태의 시각화만으로도 뇌의 작동 기억의 부담을 크게 덜어주어 집중력 향상에 확실한 효과를 냅니다.",
+          "en": "Yes. Archimedes' sketching habit is not an artistic act, but a cognitive process of offloading the brain's thought structures to an external space. Simple circles, bounding text in boxes, and connecting them with arrows are enough to relieve working memory and boost concentration.",
+          "ja": "その通りです。アルキメデスのスケッチ習慣は芸術的な作画行為ではなく、脳の思考構造を外部の空間に配置する認知的な作業です。単純な丸を描いたり、テキストに四角い箱をかぶせて矢印でつなげる落書きのような視覚化だけでも、脳のワーキングメモリの負担を大幅に軽減し、集中力の向上に確実な効果をもたらします。",
+          "zh": "可以。阿基米德的画图习惯并非艺术性的绘画行为，而是将大脑思维结构布置到外部空间的认知工作。仅需画简单的圆圈、为文字加上方框并用箭头连线等涂鸦式的可视化操作，就能极大减轻大脑工作记忆的负担，在提高注意力方面起到切实的效果。",
+          "es": "Sí. El hábito de Arquímedes no es artístico, sino un proceso cognitivo para descargar la mente en el exterior. Dibujar simples círculos o conectar palabras con flechas es suficiente para reducir la carga de la memoria de trabajo y mejorar el enfoque.",
+          "fr": "Oui. L'habitude d'Archimède n'est pas artistique, mais constitue un processus cognitif pour décharger l'esprit à l'extérieur. Dessiner de simples cercles ou relier des mots avec des flèches suffit à réduire la charge de la mémoire de travail.",
+          "de": "Ja. Archimedes' Methode ist kein künstlerischer Akt, sondern ein kognitiver Prozess, um Denkstrukturen nach außen zu verlagern. Einfache Kreise oder mit Pfeilen verbundene Textboxen reichen völlig aus, um das Arbeitsgedächtnis zu entlasten.",
+          "pt": "Sim. O hábito de Arquimedes não é artístico, mas um processo cognitivo para descarregar a mente no exterior. Desenhar simples círculos ou conectar palavras com setas é suficiente para reduzir a carga da memória de trabalho e melhorar o foco.",
+          "id": "Tentu saja. Kebiasaan sketsa Archimedes bukanlah tindakan artistik, melainkan proses kognitif untuk menempatkan struktur pemikiran otak ke ruang luar. Cukup membuat lingkaran sederhana dan menghubungkannya dengan panah."
+        }
+      }
+    ]
+  }
+}
