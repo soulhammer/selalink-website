@@ -17,10 +17,10 @@ steps:
   - name: "Step 3: Objective gaze and meta-organizing"
     text: "Write down the short idea clippings you have written in a notepad and write them down while refreshingly awakening the sleeping right brain network of your brain."
 faqs:
-  - question: "Is this a routine you perform the same every day?"
-    answer: "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit."
-  - question: "If I don't have the tool, how do I replace it?"
-    answer: "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided."
+  - question: "Should I perform this associative writing routine every morning?"
+    answer: "Yes, practicing associative writing using word cards immediately after waking up when the subconscious is active is most effective."
+  - question: "How can I substitute if I don't have word cards?"
+    answer: "You can substitute by opening a random book and picking nouns, or using an online random word generator."
 ---
 
 American novelist Ray Bradbury, the godfather of modern science fiction (SF) literature and a master who predicted the limits of scientific and technological civilization with his unique poetic sensibility, wrote masterpieces such as Fahrenheit 451 using a story routine of 10 impromptu word associations every morning. As soon as he opened his eyes every morning, he went to his desk and wrote down 10 random words (e.g. sand, ashes, bell, engine, cloud, etc.) on a blank piece of paper. He stared at each word for a minute, then forced the words to combine in his brain, creating one short, ultra-short story association every day. This routine was the cradle of creativity that led to his sci-fi masterpieces.
@@ -97,21 +97,21 @@ The act of weaving a logical story by forcibly connecting heterogeneous unrelate
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Is this a routine you perform the same every day?</span>
+      <span>Should I perform this associative writing routine every morning?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.
+      Yes, practicing associative writing using word cards immediately after waking up when the subconscious is active is most effective.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>If I don't have the tool, how do I replace it?</span>
+      <span>How can I substitute if I don't have word cards?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.
+      You can substitute by opening a random book and picking nouns, or using an online random word generator.
     </p>
   </details>
 </div>

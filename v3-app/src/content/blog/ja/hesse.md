@@ -17,10 +17,10 @@ steps:
   - name: "ステップ3：客観的な視線とメタ組織化"
     text: "自然が提供するアナログな事実の刺激をすべて吸い込み、疲れ切った前頭葉から認知疲労を完全に洗い流し、日記に記録します。"
 faqs:
-  - question: "これはあなたが毎日行うルーチンですか？"
-    answer: "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。"
-  - question: "ツールを持っていない場合、どうやって交換すればよいですか?"
-    answer: "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。"
+  - question: "毎日ガーデニングルーティンを行うべきですか？"
+    answer: "庭の土を触って雑草を抜く物理的な身体労働が、文学的な没頭に疲れた前頭葉を休息させます。"
+  - question: "手入れする庭や土がない場合はどうすればいいですか？"
+    answer: "ベランダの小さな室内植木鉢を世話したり、植え替えをしたり、枯れ葉を整える植物管理活動で立派に代替可能です。"
 ---
 
 ヘルマン・ヘッセは、スイスの庭師としてアナログ瞑想を通じて人間の内なる自己実現と魂の放浪を探求した小説家兼詩人であり、『デミアン』や『車輪の下』などの傑作でノーベル文学賞を受賞しました。彼は田舎の庭に滞在し、土を耕し、雑草を抜き、枯れ枝を切ったり鋸で切ったりするというアナログな庭師の仕事を毎日行っていました。せっせと体を動かしながら、森の鳥の声、風の音、土の湿気の匂いに全神経を集中させた。このアナログで自然な瞑想ルーティンは、重度の神経衰弱に苦しんでいた彼の魂の安定と癒しの源となった。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>これはあなたが毎日行うルーチンですか？</span>
+      <span>毎日ガーデニングルーティンを行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。
+      庭の土を触って雑草を抜く物理的な身体労働が、文学的な没頭に疲れた前頭葉を休息させます。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>ツールを持っていない場合、どうやって交換すればよいですか?</span>
+      <span>手入れする庭や土がない場合はどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。
+      ベランダの小さな室内植木鉢を世話したり、植え替えをしたり、枯れ葉を整える植物管理活動で立派に代替可能です。
     </p>
   </details>
 </div>

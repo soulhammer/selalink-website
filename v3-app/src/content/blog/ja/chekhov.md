@@ -17,10 +17,10 @@ steps:
   - name: "ステップ3：客観的な視線とメタ組織化"
     text: "私たちは、相手の職業、傾向、その詳細に含まれる空間の雰囲気を推測し、分析する練習を 1 分間行い、記録を保存します。"
 faqs:
-  - question: "これはあなたが毎日行うルーチンですか？"
-    answer: "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。"
-  - question: "ツールを持っていない場合、どうやって交換すればよいですか?"
-    answer: "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。"
+  - question: "毎日同じ時間にこのルーティンを行うべきですか？"
+    answer: "はい、チェーホフは午後3時頃の激務の後、お茶を飲む静かな儀式を通じて認知負荷を減らし、考えを整えました。"
+  - question: "ティーセットがない場合はどうすればいいですか？"
+    answer: "精巧な茶器セットがなくても、温かいお湯やティーバッグのハーブティーを一杯飲みながら、感覚に5分間集中することで十分に代替可能です。"
 ---
 
 ロシア写実主義文学の最高峰であり、現代短編小説の基礎を完成させた偉大な劇作家、アントン・チェーホフは、市井の人々の日常生活における微細な葛藤、偽善、感情の揺れを、限りなく慈しみ深く鋭く捉え、戯曲化した。彼は電車の待合室のベンチや屋外のカフェの隅に静かに座り、行き交う人々を観察した。スーツの襟についた目に見えない毛羽立ちの跡、ボタンが取れたスーツの裾、緊張したときに通行人の目のわずかなピクツキなど、極めて特殊なその人の特徴をコートのポケットに入れていたノートに書き留めた。この非常に細かいディテールの集合は、彼の小説の中でリアルで 3 次元のキャラクターを構築するための基礎となりました。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>これはあなたが毎日行うルーチンですか？</span>
+      <span>毎日同じ時間にこのルーティンを行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。
+      はい、チェーホフは午後3時頃の激務の後、お茶を飲む静かな儀式を通じて認知負荷を減らし、考えを整えました。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>ツールを持っていない場合、どうやって交換すればよいですか?</span>
+      <span>ティーセットがない場合はどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。
+      精巧な茶器セットがなくても、温かいお湯やティーバッグのハーブティーを一杯飲みながら、感覚に5分間集中することで十分に代替可能です。
     </p>
   </details>
 </div>

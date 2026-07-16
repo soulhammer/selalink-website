@@ -17,8 +17,10 @@ steps:
   - name: "文本文件归档与认知重置"
     text: "结束录音并将生成的文本日志存入保管文件夹中，同时对自己宣告“昨天的残像已被清空为白纸”，随后开启今天的新工作。"
 faqs:
-  - question: "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？"
-    answer: "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。"
+  - question: "没有秘书的现代人该如何践行每日电话记录式口头记事？"
+    answer: "建议打开手机的语音转文字（STT）功能或AI备忘录，将昨天发生的事情或今天的心理负担大声说出5分钟，像进行脑力释放（Brain Dumping）一样记录下来。"
+  - question: "口述记录时主要说些什么内容对提高生产力有帮助？"
+    answer: "罗列昨天发生的客观事实、释放今天需要面对的工作优先顺序、或者原原本本大声说出此时此刻脑海中浮现的情感状态，这就足够了。"
 ---
 
 凭借金宝汤罐头、玛丽莲·梦露肖像等创新的大众图像改变现代美术范式的波普艺术皇帝安迪·沃霍尔。在纽约“工厂(Factory)”纷繁复杂的社交人际关系以及每日海量的资金支出中，他之所以能始终保持敏锐的灵感与执行力，关键就在于每天清晨拿起电话。自1976年至逝世的1987年，沃霍尔每天清晨都会给秘书兼共同记录者帕特·哈克特打电话，将前一天的日常起居、琐碎谈话以及支出明细通过口头叙述的方式整理成口述日记。我们共同探讨这种清晨口述整理是如何将沃霍尔的大脑清洗为适合创作的空白画面的。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？</span>
+      <span>没有秘书的现代人该如何践行每日电话记录式口头记事？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。
+      建议打开手机的语音转文字（STT）功能或AI备忘录，将昨天发生的事情或今天的心理负担大声说出5分钟，像进行脑力释放（Brain Dumping）一样记录下来。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>口述记录时主要说些什么内容对提高生产力有帮助？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      罗列昨天发生的客观事实、释放今天需要面对的工作优先顺序、或者原原本本大声说出此时此刻脑海中浮现的情感状态，这就足够了。
     </p>
   </details>
 </div>

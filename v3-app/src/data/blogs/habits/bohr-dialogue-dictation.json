@@ -165,26 +165,50 @@
     "faqs": [
       {
         "question": {
-          "ko": "매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?",
-          "en": "How should I fill the journal on days when I have nothing special to write?",
-          "ja": "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？",
-          "zh": "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？",
-          "es": "¿Qué debo escribir en el diario los días en los que no pasa nada especial?",
-          "fr": "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?",
-          "de": "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?",
-          "pt": "O que devo escrever no diário nos dias em que não acontece nada de especial?",
-          "id": "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
+          "ko": "대화를 나눌 파트너나 동료가 없는 1인 환경에서는 어떻게 실천하나요?",
+          "en": "How can I practice this in a solo environment without colleagues to discuss with?",
+          "ja": "討論する同僚がいない1人の環境ではどのように実践しますか？",
+          "zh": "在没有同事讨论的单人环境下，该如何实践？",
+          "es": "¿Cómo puedo practicar esto a solas sin colegas con quienes discutir?",
+          "fr": "Comment puis-je pratiquer cela seul sans collègues avec qui discuter ?",
+          "de": "Wie kann ich dies alleine praktizieren, wenn ich keine Kollegen zum Diskutieren habe?",
+          "pt": "Como posso praticar isso sozinho sem colegas com quem discutir?",
+          "id": "Bagaimana saya bisa mempraktikkan ini sendirian tanpa rekan diskusi?"
         },
         "answer": {
-          "ko": "일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.",
-          "en": "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.",
-          "ja": "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。",
-          "zh": "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。",
-          "es": "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.",
-          "fr": "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.",
-          "de": "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.",
-          "pt": "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo.",
-          "id": "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+          "ko": "스마트폰의 음성 메모나 AI 녹음기를 켜놓고 혼잣말로 설명하듯 생각을 읊조리는 것으로 대체할 수 있습니다. 중요한 것은 청자의 존재가 아닌, 생각을 소리 내어 언어로 객관화하는 대뇌 자극 프로세스입니다.",
+          "en": "You can turn on a smartphone voice recorder or AI memo app and talk out loud as if explaining to someone. What matters is not the presence of a listener, but the neural process of externalizing thoughts into spoken language.",
+          "ja": "スマートフォンの音声メモやAIレコーダーをオンにし、独り言で説明するように考えを呟くことで代替できます。重要なのは聞き手の存在ではなく、考えを声に出して言語として客観化する大脳刺激プロセスです。",
+          "zh": "可以打开手机录音机或AI备忘录，像自言自语一样阐述自己的想法。重要的不是听众的存在，而是大声把想法说出来并使其语言化的脑部刺激过程。",
+          "es": "Puedes encender una grabadora de voz en tu móvil o una aplicación de notas y hablar en voz alta como si estuvieras explicándole a alguien. Lo que importa no es la presencia de un oyente, sino el proceso neural de exteriorizar los pensamientos.",
+          "fr": "Vous pouvez allumer un enregistreur vocal ou une application de notes et parler à voix haute comme si vous expliquiez à quelqu'un. Ce qui compte n'est pas la présence d'un auditeur, mais le processus neuronal d'extériorisation des pensées.",
+          "de": "Sie können das Diktiergerät Ihres Smartphones oder eine KI-Notizen-App einschalten und laut sprechen, als würden Sie es jemandem erklären. Wichtig ist nicht der Zuhörer, sondern der Prozess, Gedanken laut in Sprache zu fassen.",
+          "pt": "Você pode ligar o gravador de voz do smartphone ou um aplicativo de notas e falar em voz alta como se estivesse explicando para alguém. O que importa não é o ouvinte, mas o processo neural de exteriorizar os pensamentos.",
+          "id": "Anda dapat mengaktifkan perekam suara ponsel atau aplikasi memo AI dan berbicara keras seolah-olah sedang menjelaskan kepada seseorang. Yang penting bukan kehadiran pendengar, tetapi proses saraf melisankan pikiran."
+        }
+      },
+      {
+        "question": {
+          "ko": "구술 토론 중 나온 내용을 어떻게 생산적인 결과물로 연결하나요?",
+          "en": "How do I connect the spoken contents into productive outcomes?",
+          "ja": "口述討論中に出た内容をどのように生産的な成果物につなげますか？",
+          "zh": "如何将口述讨论中产生的内容转化为有成效的结果？",
+          "es": "¿Cómo conecto los contenidos hablados con resultados productivos?",
+          "fr": "Comment puis-je transformer les paroles prononcées en résultats productifs ?",
+          "de": "Wie wandle ich das Gesprochene in produktive Ergebnisse um?",
+          "pt": "Como conecto os conteúdos falados a resultados produtivos?",
+          "id": "Bagaimana cara menghubungkan konten yang diucapkan menjadi hasil yang produktif?"
+        },
+        "answer": {
+          "ko": "말하는 도중 얻은 깨달음을 즉시 수첩에 간단히 적어두거나, AI 음성 인식(STT) 변환 결과를 나중에 문서로 저장하여 핵심 아이디어 노드로 정리하면 좋습니다.",
+          "en": "You can briefly write down insights on a notepad while speaking, or save the STT (Speech-to-Text) conversion logs to organize into key idea nodes later.",
+          "ja": "話している最中に得た気づきをすぐに手帳に簡単に書き留めたり、AI音声認識（STT）変換の結果を後で文書として保存して、核心的なアイデアのノードとして整理すると良いでしょう。",
+          "zh": "可以在说话过程中将灵感简单记录在笔记本上，或者稍后将AI语音转文字（STT）的结果保存为文档，整理成核心想法大纲。",
+          "es": "Puedes anotar ideas breves en un cuaderno mientras hablas, o guardar los registros de conversión de voz a texto (STT) para organizarlos en nodos de ideas clave más tarde.",
+          "fr": "Vous pouvez noter brièvement vos idées sur un carnet pendant que vous parlez, ou enregistrer les transcriptions voix-texte (STT) pour les organiser en idées clés plus tard.",
+          "de": "Sie können während des Sprechens kurze Erkenntnisse notieren oder die Speech-to-Text (STT) Protokolle speichern, um sie später zu strukturieren.",
+          "pt": "Você pode anotar ideias breves em um caderno enquanto fala, ou salvar os registros de conversão de voz para texto (STT) para organizá-los em nós de ideias-chave mais tarde.",
+          "id": "Anda dapat mencatat poin-poin penting di buku catatan saat berbicara, atau menyimpan hasil konversi STT (Speech-to-Text) untuk disusun menjadi peta ide nanti."
         }
       }
     ]

@@ -17,10 +17,10 @@ steps:
   - name: "Étape 3 : Recherche objective et méta-organisation"
     text: "Je contrôle étroitement les limites de ma conscience et me concentre sur la lecture de phrases, comme si je mettais un bouclier transparent dans ma tête pour empêcher la stimulation sonore de pénétrer dans mon filtre cognitif."
 faqs:
-  - question: "Est-ce une routine que vous effectuez de la même manière tous les jours ?"
-    answer: "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire des circuits neuronaux à long terme."
-  - question: "Si je n'ai pas l'outil, comment puis-je le remplacer ?"
-    answer: "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni."
+  - question: "Dois-je faire cette routine d'immersion musicale avant les tâches difficiles chaque jour ?"
+    answer: "Oui, limiter le champ d'attention et entrer dans une concentration complexe grâce à un rythme énergique mêlé de bruit."
+  - question: "Comment puis-je remplacer le phonographe si je n'en ai pas ?"
+    answer: "Écouter un bruit blanc rapide, des sons d'ambiance mécanique ou de la musique rythmée au casque produit le même effet."
 ---
 
 John von Neumann, la personne la plus intelligente de l'histoire de l'humanité et un mathématicien de génie hongrois qui a conçu à lui seul les fondements des études humaines modernes (théorie des jeux, architecture de Neumann) dans tous les domaines, y compris les mathématiques, l'informatique, l'économie et la mécanique quantique. Il était capable de dériver sans difficulté des formules mathématiques complexes et des formules d'architecture informatique, même assis dans un coin d'une fête avec de la musique forte ou sur un banc dans une salle d'attente bruyante où un train tremblait et de la vapeur émettait de la vapeur. Aussi bruyant que soit son environnement, il isolait ses ressources cognitives uniquement sur le tableau virtuel construit dans sa tête. Cette routine d’isolement et d’immersion dans le bruit blanc a fait de lui le plus grand mathématicien de génie de l’histoire.
@@ -97,21 +97,21 @@ Le fait de maintenir artificiellement l'immersion sous un certain niveau de stim
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Est-ce une routine que vous effectuez de la même manière tous les jours ?</span>
+      <span>Dois-je faire cette routine d'immersion musicale avant les tâches difficiles chaque jour ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire des circuits neuronaux à long terme.
+      Oui, limiter le champ d'attention et entrer dans une concentration complexe grâce à un rythme énergique mêlé de bruit.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si je n'ai pas l'outil, comment puis-je le remplacer ?</span>
+      <span>Comment puis-je remplacer le phonographe si je n'en ai pas ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.
+      Écouter un bruit blanc rapide, des sons d'ambiance mécanique ou de la musique rythmée au casque produit le même effet.
     </p>
   </details>
 </div>

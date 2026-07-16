@@ -17,10 +17,10 @@ steps:
   - name: "第三步：客观审视和元组织"
     text: "根据突出显示的三个关键词，拉出今天要采取的一项行动，清楚地重置你头脑中的脑电池，然后把它写下来。"
 faqs:
-  - question: "这是你每天都会做的例行公事吗？"
-    answer: "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。"
-  - question: "如果我没有该工具，如何更换？"
-    answer: "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。"
+  - question: "每天早晨都需要进行日程简报规程吗？"
+    answer: "是的，在开始繁重工作前半小时，大声确认日程的优先顺序，这一仪式能抢先激活前额叶的执行控制能力。"
+  - question: "没有专用备忘录板或简报设施时该如何替代？"
+    answer: "只需在自己安静的房间里，看着笔记本上写下的今天3项核心工作，轻声自言自语念一遍进行自我申明，就完全可以替代。"
 ---
 
 玛格丽特·撒切尔，英国第一位女首相、铁娘子，通过强硬保守的改革和经济结构调整，冷静而坚定地克服了英国经济低迷的困难，使英国处于强势地位。她每天晚上都坐在总理府的书房里直到凌晨两三点，仔细阅读内阁官员提交的数百页大部头文件和法案报告。她手持黄色荧光笔，在报告的字里行间，忽略了不必要的言辞和官僚文字，只追踪并强调了三个关键支柱：国家政策的可行性、预算指标和法律问题。这个深夜的例行公事是帮助英国一举克服困难的意志力。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>这是你每天都会做的例行公事吗？</span>
+      <span>每天早晨都需要进行日程简报规程吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。
+      是的，在开始繁重工作前半小时，大声确认日程的优先顺序，这一仪式能抢先激活前额叶的执行控制能力。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>如果我没有该工具，如何更换？</span>
+      <span>没有专用备忘录板或简报设施时该如何替代？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。
+      只需在自己安静的房间里，看着笔记本上写下的今天3项核心工作，轻声自言自语念一遍进行自我申明，就完全可以替代。
     </p>
   </details>
 </div>

@@ -17,10 +17,10 @@ steps:
   - name: "Paso 3: Mirada objetiva y metaorganización"
     text: "Conservamos registros practicando durante un minuto para inferir y analizar la ocupación, la inclinación y la atmósfera de la otra persona en el espacio que estos detalles pueden contener."
 faqs:
-  - question: "¿Es esta una rutina que realizas igual todos los días?"
-    answer: "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo."
-  - question: "Si no tengo la herramienta, ¿cómo la reemplazo?"
-    answer: "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada."
+  - question: "¿Debo realizar esta rutina a la misma hora exacta todos los días?"
+    answer: "Sí, Chéjov reducía la carga cognitiva y organizaba sus pensamientos mediante un ritual tranquilo de té después del trabajo a las 3 PM."
+  - question: "¿Cómo puedo sustituir este hábito si no tengo un juego de té?"
+    answer: "Incluso sin un juego de té elegante, tomar una taza de agua tibia o té de hierbas concentrándose en los sentidos por 5 minutos es suficiente."
 ---
 
 Antón Chéjov, el pináculo de la literatura realista rusa y un gran dramaturgo que completó los cimientos del cuento moderno, capturó los conflictos minúsculos, la hipocresía y la agitación emocional de la gente común en la vida cotidiana de la manera más atenta y aguda y los convirtió en obras de teatro. Se sentaba tranquilamente en un banco de la sala de espera de un tren o en un rincón de un café al aire libre y observaba a la gente que pasaba. En un cuaderno que llevaba en el bolsillo de su abrigo anotaba características muy concretas de cada persona, como por ejemplo una pelusa invisible en el cuello de un traje, un botón arrancado en el dobladillo de un traje y el ligero movimiento de los ojos de un transeúnte cuando está nervioso. Esta colección de detalles extremadamente finos fue la base para construir personajes realistas y tridimensionales en sus novelas.
@@ -97,21 +97,21 @@ La 'Micro Atención Selectiva', que fija la atención sólo en el extremadamente
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Es esta una rutina que realizas igual todos los días?</span>
+      <span>¿Debo realizar esta rutina a la misma hora exacta todos los días?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.
+      Sí, Chéjov reducía la carga cognitiva y organizaba sus pensamientos mediante un ritual tranquilo de té después del trabajo a las 3 PM.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si no tengo la herramienta, ¿cómo la reemplazo?</span>
+      <span>¿Cómo puedo sustituir este hábito si no tengo un juego de té?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.
+      Incluso sin un juego de té elegante, tomar una taza de agua tibia o té de hierbas concentrándose en los sentidos por 5 minutos es suficiente.
     </p>
   </details>
 </div>

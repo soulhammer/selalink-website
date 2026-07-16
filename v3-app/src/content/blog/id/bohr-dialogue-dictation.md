@@ -17,8 +17,10 @@ steps:
   - name: "Merevisi Pemikiran dan Mencatat Umpan Balik"
     text: "Segera catat ketidaksesuaian pikiran atau ide solusi yang muncul saat Anda melisankan masalah atau saat menjawab umpan balik partner."
 faqs:
-  - question: "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
-    answer: "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+  - question: "Bagaimana saya bisa mempraktikkan ini sendirian tanpa rekan diskusi?"
+    answer: "Anda dapat mengaktifkan perekam suara ponsel atau aplikasi memo AI dan berbicara keras seolah-olah sedang menjelaskan kepada seseorang. Yang penting bukan kehadiran pendengar, tetapi proses saraf melisankan pikiran."
+  - question: "Bagaimana cara menghubungkan konten yang diucapkan menjadi hasil yang produktif?"
+    answer: "Anda dapat mencatat poin-poin penting di buku catatan saat berbicara, atau menyimpan hasil konversi STT (Speech-to-Text) untuk disusun menjadi peta ide nanti."
 ---
 
 Niels Bohr mendirikan dasar mekanika kuantum dan memenangkan Hadiah Nobel. Meskipun memiliki intuisi ilmiah luar biasa, ia kesulitan menulis makalah secara pasif di mejanya. Bohr lebih memilih berdiri di depan papan tulis bersama istrinya Margrethe atau muridnya seperti Heisenberg untuk berdiskusi lisan. Pelajari efek kognitif dari bicara eksternal.
@@ -91,13 +93,23 @@ Bicara internal di dalam pikiran sering kali memiliki lompatan logika dan ambigu
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?</span>
+      <span>Bagaimana saya bisa mempraktikkan ini sendirian tanpa rekan diskusi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian.
+      Anda dapat mengaktifkan perekam suara ponsel atau aplikasi memo AI dan berbicara keras seolah-olah sedang menjelaskan kepada seseorang. Yang penting bukan kehadiran pendengar, tetapi proses saraf melisankan pikiran.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Bagaimana cara menghubungkan konten yang diucapkan menjadi hasil yang produktif?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Anda dapat mencatat poin-poin penting di buku catatan saat berbicara, atau menyimpan hasil konversi STT (Speech-to-Text) untuk disusun menjadi peta ide nanti.
     </p>
   </details>
 </div>

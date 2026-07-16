@@ -17,10 +17,10 @@ steps:
   - name: "ステップ3：客観的な視線とメタ組織化"
     text: "観察によって発見された物体に隠された3つのユニークな形態的特徴は、あたかも黒板に拡大表示されたかのように脳内に刻み込まれ、記憶されます。"
 faqs:
-  - question: "これはあなたが毎日行うルーチンですか？"
-    answer: "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。"
-  - question: "ツールを持っていない場合、どうやって交換すればよいですか?"
-    answer: "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。"
+  - question: "毎日屋外での収集散歩ルーティンを行うべきですか？"
+    answer: "はい、朝の新鮮な空気を吸いながら自然物の触覚と質感に集中することが、脳の感覚領域の活性化とストレス解消に良いです。"
+  - question: "砂漠や自然石を収集できる環境ではない場合はどうすればいいですか？"
+    answer: "都心の中の公園を軽く歩きながら、木の葉、花びら、貝殻など、自然の微細な質感を持つ対象を静観して触ることで十分です。"
 ---
 
 アメリカモダニズム美術のゴッドマザーであり、20世紀西洋美術史に独特の花と砂漠の骨を描くスタイルを開拓し、大自然の些細な造形を集中的なクローズアップ技法で見事にキャンバス上に定着させた女性画家、ジョージア・オキーフ。彼女は不毛の砂漠の真ん中に立って、まるで虫眼鏡を通しているかのように10倍以上に拡大して、気づかれない動物の荒い骨、しおれた花の精巧な葉脈、砂粒の質感を何時間も見つめた。キャンバス全体に圧倒的なサイズでオブジェクトの細部をクローズアップすることで、視覚的なインパクトを生み出しました。この詳細な視覚的焦点と最大限のレンダリング ルーチンが、彼女を現代美術の絶対的なマスターとして確立させました。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>これはあなたが毎日行うルーチンですか？</span>
+      <span>毎日屋外での収集散歩ルーティンを行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。
+      はい、朝の新鮮な空気を吸いながら自然物の触覚と質感に集中することが、脳の感覚領域の活性化とストレス解消に良いです。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>ツールを持っていない場合、どうやって交換すればよいですか?</span>
+      <span>砂漠や自然石を収集できる環境ではない場合はどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。
+      都心の中の公園を軽く歩きながら、木の葉、花びら、貝殻など、自然の微細な質感を持つ対象を静観して触ることで十分です。
     </p>
   </details>
 </div>

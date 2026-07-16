@@ -17,10 +17,10 @@ steps:
   - name: "Langkah 3: Pandangan objektif dan meta-organisasi"
     text: "Berdasarkan tiga kata kunci yang disorot, tarik satu tindakan yang harus diambil hari ini, setel ulang baterai otak di kepala Anda dengan jelas, dan tuliskan."
 faqs:
-  - question: "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
-    answer: "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
-  - question: "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
-    answer: "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+  - question: "Haruskah saya melakukan rutinitas pengarahan jadwal ini setiap pagi?"
+    answer: "Ya, meninjau prioritas jadwal dengan bersuara 30 menit sebelum bekerja mengaktifkan kendali eksekutif korteks prefrontal lebih awal."
+  - question: "Bagaimana cara menggantinya jika saya tidak memiliki papan memo khusus?"
+    answer: "Cukup melafalkan dan menyatakan 3 tugas inti hari ini yang ditulis di buku catatan kepada diri sendiri di ruangan tenang."
 ---
 
 Margaret Thatcher, perdana menteri wanita pertama Inggris dan wanita besi yang dengan tenang dan tegas mengatasi kesulitan kemerosotan ekonomi Inggris melalui reformasi konservatif garis keras dan restrukturisasi ekonomi, menempatkan Inggris pada posisi yang kuat. Dia duduk di ruang kerja Kantor Perdana Menteri setiap malam sampai jam 2 atau 3 pagi, membaca dengan teliti ratusan halaman dokumen tebal dan laporan RUU yang diserahkan oleh pejabat kabinet. Dengan stabilo kuning di tangannya, ia menyampaikan apa yang tersirat dalam laporannya, mengabaikan retorika dan teks birokrasi yang tidak diperlukan, dan hanya menelusuri dan menggarisbawahi tiga pilar utama: kelayakan kebijakan nasional, indikator anggaran, dan permasalahan hukum. Sorotan rutin hingga larut malam ini adalah tekad yang membantu mengatasi masalah sulit Inggris sekaligus.
@@ -97,21 +97,21 @@ Tindakan mengekstraksi sumbu informasi penting dari data besar dan melakukan pem
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah ini rutinitas yang selalu Anda lakukan setiap hari?</span>
+      <span>Haruskah saya melakukan rutinitas pengarahan jadwal ini setiap pagi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang.
+      Ya, meninjau prioritas jadwal dengan bersuara 30 menit sebelum bekerja mengaktifkan kendali eksekutif korteks prefrontal lebih awal.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Kalau saya tidak punya alatnya, bagaimana cara menggantinya?</span>
+      <span>Bagaimana cara menggantinya jika saya tidak memiliki papan memo khusus?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan.
+      Cukup melafalkan dan menyatakan 3 tugas inti hari ini yang ditulis di buku catatan kepada diri sendiri di ruangan tenang.
     </p>
   </details>
 </div>

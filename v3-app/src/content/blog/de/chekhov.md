@@ -17,10 +17,10 @@ steps:
   - name: "Schritt 3: Objektiver Blick und Metaorganisation"
     text: "Wir bewahren Aufzeichnungen auf, indem wir eine Minute lang üben, den Beruf, die Neigung und die Atmosphäre des Raums, den diese Details möglicherweise enthalten, durch die andere Person abzuleiten und zu analysieren."
 faqs:
-  - question: "Ist das eine Routine, die Sie jeden Tag gleich durchführen?"
-    answer: "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen."
-  - question: "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?"
-    answer: "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist."
+  - question: "Sollte ich diese Routine jeden Tag zur genau gleichen Zeit durchführen?"
+    answer: "Ja, Tschechow baute mentale Belastung ab, indem er nach harter Arbeit gegen 15 Uhr rituell Tee trank."
+  - question: "Wie kann ich das Teeservice ersetzen, wenn ich keins habe?"
+    answer: "Auch ohne Teeservice reicht es, eine Tasse warmes Wasser oder Kräutertee zu trinken und sich 5 Minuten auf die Sinne zu konzentrieren."
 ---
 
 Anton Tschechow, der Höhepunkt der russischen realistischen Literatur und ein großer Dramatiker, der die Grundlagen der modernen Kurzgeschichte legte, fing die winzigen Konflikte, Heuchelei und emotionalen Turbulenzen gewöhnlicher Menschen im Alltag auf die einfühlsamste und scharfsinnigste Art und Weise ein und verwandelte sie in Theaterstücke. Er saß still auf einer Bank im Warteraum eines Zuges oder in einer Ecke eines Straßencafés und beobachtete die vorbeigehenden Menschen. In einem Notizbuch in seiner Manteltasche notierte er äußerst spezifische Merkmale der Person, etwa einen unsichtbaren Fusselfleck am Kragen eines Anzugs, den Saum eines Anzugs mit abgerissenem Knopf und das leichte Zucken der Augen eines Passanten, wenn er oder sie nervös ist. Diese Sammlung äußerst feiner Details bildete die Grundlage für die Konstruktion realistischer, dreidimensionaler Charaktere in seinen Romanen.
@@ -97,21 +97,21 @@ Heute stellen wir auf BuildSelf die kognitionswissenschaftlichen Prinzipien sein
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Ist das eine Routine, die Sie jeden Tag gleich durchführen?</span>
+      <span>Sollte ich diese Routine jeden Tag zur genau gleichen Zeit durchführen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.
+      Ja, Tschechow baute mentale Belastung ab, indem er nach harter Arbeit gegen 15 Uhr rituell Tee trank.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?</span>
+      <span>Wie kann ich das Teeservice ersetzen, wenn ich keins habe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.
+      Auch ohne Teeservice reicht es, eine Tasse warmes Wasser oder Kräutertee zu trinken und sich 5 Minuten auf die Sinne zu konzentrieren.
     </p>
   </details>
 </div>

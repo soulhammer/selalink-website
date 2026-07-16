@@ -17,10 +17,10 @@ steps:
   - name: "Paso 3: Mirada objetiva y metaorganización"
     text: "Escriba los breves recortes de ideas que ha escrito en un bloc de notas y escríbalos mientras despierta refrescantemente la red del lado derecho del cerebro que está dormida."
 faqs:
-  - question: "¿Es esta una rutina que realizas igual todos los días?"
-    answer: "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo."
-  - question: "Si no tengo la herramienta, ¿cómo la reemplazo?"
-    answer: "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada."
+  - question: "¿Debo realizar esta rutina de escritura asociativa todas las mañanas?"
+    answer: "Sí, es más efectivo practicar la escritura asociativa con tarjetas de palabras justo después de despertar, cuando el subconsciente está activo."
+  - question: "¿Cómo puedo sustituir este hábito si no tengo tarjetas de palabras?"
+    answer: "Puedes sustituirlo abriendo un libro al azar y eligiendo sustantivos, o usando un generador de palabras aleatorias en línea."
 ---
 
 El novelista estadounidense Ray Bradbury, padrino de la literatura moderna de ciencia ficción y maestro que predijo los límites de la civilización científica y tecnológica con su sensibilidad poética única, escribió obras maestras como Fahrenheit 451 utilizando una rutina narrativa de 10 asociaciones de palabras improvisadas cada mañana. Cada mañana, tan pronto como abría los ojos, se acercaba a su escritorio y escribía 10 palabras al azar (por ejemplo, arena, cenizas, campana, motor, nube, etc.) en una hoja de papel en blanco. Se quedó mirando cada palabra durante un minuto, luego obligó a que las palabras se combinaran en su cerebro, creando una asociación de historia corta, ultracorta cada día. Esta rutina fue la cuna de la creatividad que condujo a sus obras maestras de ciencia ficción.
@@ -97,21 +97,21 @@ El acto de tejer una historia lógica conectando a la fuerza conceptos heterogé
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Es esta una rutina que realizas igual todos los días?</span>
+      <span>¿Debo realizar esta rutina de escritura asociativa todas las mañanas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.
+      Sí, es más efectivo practicar la escritura asociativa con tarjetas de palabras justo después de despertar, cuando el subconsciente está activo.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si no tengo la herramienta, ¿cómo la reemplazo?</span>
+      <span>¿Cómo puedo sustituir este hábito si no tengo tarjetas de palabras?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.
+      Puedes sustituirlo abriendo un libro al azar y eligiendo sustantivos, o usando un generador de palabras aleatorias en línea.
     </p>
   </details>
 </div>

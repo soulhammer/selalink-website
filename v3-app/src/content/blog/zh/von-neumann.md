@@ -17,10 +17,10 @@ steps:
   - name: "第三步：客观观察和元组织"
     text: "我严格控制自己的意识边界，专注于阅读句子，就像在自己的脑袋里放了一个透明的防护罩，防止噪音刺激穿透我的认知过滤器。"
 faqs:
-  - question: "这是你每天都会做的例行公事吗？"
-    answer: "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。"
-  - question: "如果我没有该工具，如何更换？"
-    answer: "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。"
+  - question: "每天攻克难题前都需要进行这个音乐沉浸规程吗？"
+    answer: "是的，通过夹杂着噪音的活泼节奏来收窄极端的认知注意范围，从而进入复杂的运算集中状态。"
+  - question: "没有噪音蓄音机或专用设备时该如何替代？"
+    answer: "可以通过耳机播放快节奏的白噪音、机械白噪音环境音，或者轻快节奏的音乐来开启沉浸状态。"
 ---
 
 约翰·冯·诺依曼，人类历史上最聪明的人，来自匈牙利的天才数学家，他一手设计了数学、计算机科学、经济学、量子力学等各个领域的现代人类研究的基础（博弈论、诺依曼体系结构）。即使坐在音乐喧闹的聚会角落，或者坐在火车摇晃、蒸汽冒出蒸汽的喧闹候车室的长凳上，他也能毫无困难地推导出复杂的数学公式和计算机体系结构公式。无论周围环境多么嘈杂，他都将自己的认知资源隔离在脑中构建的虚拟黑板上。这种与世隔绝和沉浸在白噪音中的习惯使他成为历史上最伟大的天才数学家。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>这是你每天都会做的例行公事吗？</span>
+      <span>每天攻克难题前都需要进行这个音乐沉浸规程吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。
+      是的，通过夹杂着噪音的活泼节奏来收窄极端的认知注意范围，从而进入复杂的运算集中状态。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>如果我没有该工具，如何更换？</span>
+      <span>没有噪音蓄音机或专用设备时该如何替代？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。
+      可以通过耳机播放快节奏的白噪音、机械白噪音环境音，或者轻快节奏的音乐来开启沉浸状态。
     </p>
   </details>
 </div>

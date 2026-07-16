@@ -17,10 +17,10 @@ steps:
   - name: "Passo 3: Visão objetiva e meta-organização"
     text: "Preserve o núcleo realizando um exercício de supressão de embelezamento extremo de dois minutos que deixa apenas a frase de uma linha mais essencial (ou uma ferramenta essencial)."
 faqs:
-  - question: "Essa é uma rotina que você faz igual todos os dias?"
-    answer: "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir circuitos neuronais de longo prazo."
-  - question: "Se eu não tiver a ferramenta, como faço para substituí-la?"
-    answer: "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido."
+  - question: "Devo realizar esta rotina de isolamento todas as noites?"
+    answer: "Sim, estabelecendo um limite claro entre trabalho e descanso por meio de um ritual de isolamento, cheirando fragrâncias sozinho após o trabalho."
+  - question: "Como posso substituir se não tiver perfumes de aroma ou um quarto de hotel?"
+    answer: "Você pode obter o mesmo efeito desligando o smartphone por 15 minutos em um canto arrumado de casa enquanto sente o cheiro de um difusor simples."
 ---
 
 Coco Chanel é uma estilista francesa que liderou uma revolução no design de moda no século 20 e libertou as mulheres da opressão dos espartilhos, e fundadora da marca Chanel. Coco Chanel apresentou a liberdade essencial do vestuário feminino através da beleza preta e simples (Simples é o melhor). De pé em seu ateliê, ela percorreu o tecido diretamente sobre o corpo da modelo e, com apenas uma tesoura na mão, cortou impiedosamente os espartilhos pesados ​​e pesados, as golas enormes e as rendas desnecessárias do século XIX. Em vez de apagar as linhas com a caneta, ela sentiu a tensão do tecido e as recortou, criando uma simplificação minimalista que permitiu à mulher se movimentar livremente e exercitar a consciência corporal.
@@ -97,21 +97,21 @@ O ato de corte visual, eliminando o excesso de informações desnecessárias e d
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Essa é uma rotina que você faz igual todos os dias?</span>
+      <span>Devo realizar esta rotina de isolamento todas as noites?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir circuitos neuronais de longo prazo.
+      Sim, estabelecendo um limite claro entre trabalho e descanso por meio de um ritual de isolamento, cheirando fragrâncias sozinho após o trabalho.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Se eu não tiver a ferramenta, como faço para substituí-la?</span>
+      <span>Como posso substituir se não tiver perfumes de aroma ou um quarto de hotel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.
+      Você pode obter o mesmo efeito desligando o smartphone por 15 minutos em um canto arrumado de casa enquanto sente o cheiro de um difusor simples.
     </p>
   </details>
 </div>

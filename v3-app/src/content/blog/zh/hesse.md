@@ -17,10 +17,10 @@ steps:
   - name: "第三步：客观审视和元组织"
     text: "吸入大自然提供的所有模拟事实刺激，彻底洗去你疲惫的额叶的认知疲劳，并将其记录在你的日记中。"
 faqs:
-  - question: "这是你每天都会做的例行公事吗？"
-    answer: "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。"
-  - question: "如果我没有该工具，如何更换？"
-    answer: "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。"
+  - question: "每天都需要进行这种园艺规程吗？"
+    answer: "是的，触摸泥土、拔除杂草等体力劳动，能让因文学创作而疲惫的前额叶得到休息。"
+  - question: "没有可以打理的家庭花园或泥土时该如何替代？"
+    answer: "照料阳台上的室内小盆栽、进行换盆、或者修剪枯叶等养花弄草的活动，也是极佳的替代方案。"
 ---
 
 赫尔曼·黑塞，小说家、诗人，以瑞士园丁的身份通过类比冥想探索人类内在的自我实现和灵魂的徜徉，因《德米安》、《车轮之下》等代表作获得诺贝尔文学奖。他留在他的乡村花园里，每天从事模拟园丁的工作，耕地、拔草、砍断或锯掉枯枝。他一边勤奋地活动着身体，一边将所有的注意力都集中在了林中的鸟鸣声、风声和泥土中潮湿的味道上。这种模拟自然冥想程序是他遭受严重神经衰弱的灵魂稳定和治愈的源泉。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>这是你每天都会做的例行公事吗？</span>
+      <span>每天都需要进行这种园艺规程吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。
+      是的，触摸泥土、拔除杂草等体力劳动，能让因文学创作而疲惫的前额叶得到休息。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>如果我没有该工具，如何更换？</span>
+      <span>没有可以打理的家庭花园或泥土时该如何替代？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。
+      照料阳台上的室内小盆栽、进行换盆、或者修剪枯叶等养花弄草的活动，也是极佳的替代方案。
     </p>
   </details>
 </div>

@@ -17,10 +17,10 @@ steps:
   - name: "第三步：客观审视和元组织"
     text: "将你写下的简短想法剪报写在记事本上，一边写下来，一边清爽地唤醒你大脑沉睡的右脑网络。"
 faqs:
-  - question: "这是你每天都会做的例行公事吗？"
-    answer: "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。"
-  - question: "如果我没有该工具，如何更换？"
-    answer: "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。"
+  - question: "每天清晨都需要进行这种联想写作规程吗？"
+    answer: "是的，在清晨刚起床、无意识最活跃的时间段，通过词卡联想来训练创造性直觉是最有效的。"
+  - question: "没有词卡时该如何替代？"
+    answer: "可以通过翻开任意一本书并组合映入眼帘的名词，或者利用在线随机词语生成器的方式来替代。"
 ---
 
 美国小说家雷·布拉德伯里，现代科幻文学教父，以独特的诗意感性预言科技文明极限的大师，每天早上都以10个即兴词语联想的故事套路写出《华氏451度》等代表作。每天早上一睁开眼睛，他就走到书桌前，在一张白纸上随机写下10个单词（例如沙子、灰烬、钟声、引擎、云彩等）。他盯着每个单词一分钟，然后强迫这些单词在他的大脑中组合起来，每天创造一个短篇、超短篇故事的联想。这种惯例是他创作科幻杰作的创造力的摇篮。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>这是你每天都会做的例行公事吗？</span>
+      <span>每天清晨都需要进行这种联想写作规程吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。
+      是的，在清晨刚起床、无意识最活跃的时间段，通过词卡联想来训练创造性直觉是最有效的。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>如果我没有该工具，如何更换？</span>
+      <span>没有词卡时该如何替代？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。
+      可以通过翻开任意一本书并组合映入眼帘的名词，或者利用在线随机词语生成器的方式来替代。
     </p>
   </details>
 </div>

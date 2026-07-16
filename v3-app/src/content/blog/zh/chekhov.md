@@ -17,10 +17,10 @@ steps:
   - name: "第三步：客观审视和元组织"
     text: "我们通过练习一分钟来推断和分析对方的职业、倾向以及这些细节可能包含的空间氛围来保存记录。"
 faqs:
-  - question: "这是你每天都会做的例行公事吗？"
-    answer: "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。"
-  - question: "如果我没有该工具，如何更换？"
-    answer: "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。"
+  - question: "每天都需要在完全相同的时间进行这个规程吗？"
+    answer: "是的，契诃夫会在下午3点左右结束繁重工作后，通过安静饮茶的仪式来减轻认知负荷、梳理思绪。"
+  - question: "没有茶具套装时该如何替代？"
+    answer: "即使没有精致的茶具，喝一杯温水或袋泡花草茶，并将注意力集中在感官上5分钟，也完全可以替代。"
 ---
 
 契诃夫，俄罗斯现实主义文学的巅峰之作，完成了现代短篇小说基础的伟大剧作家，他以最贴心、最尖锐的方式捕捉到了普通人日常生活中的细微冲突、虚伪和情感动荡，并将其转化为戏剧。他静静地坐在火车候车室的长凳上或露天咖啡馆的一角，观察路过的人们。他在外套口袋里的笔记本里记下了这个人极其具体的特征，比如西装领子上看不见的绒毛痕迹、西装下摆的一颗纽扣被扯掉、路人紧张时眼角的轻微抽动等。这些极其精细的细节的集合是他在小说中塑造现实的三维人物的基础。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>这是你每天都会做的例行公事吗？</span>
+      <span>每天都需要在完全相同的时间进行这个规程吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。
+      是的，契诃夫会在下午3点左右结束繁重工作后，通过安静饮茶的仪式来减轻认知负荷、梳理思绪。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>如果我没有该工具，如何更换？</span>
+      <span>没有茶具套装时该如何替代？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。
+      即使没有精致的茶具，喝一杯温水或袋泡花草茶，并将注意力集中在感官上5分钟，也完全可以替代。
     </p>
   </details>
 </div>

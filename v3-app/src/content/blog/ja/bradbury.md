@@ -17,10 +17,10 @@ steps:
   - name: "ステップ3：客観視とメタ整理"
     text: "メモ帳に書いた短いアイデアの切り抜きを、眠っている右脳のネットワークをスッキリ目覚めさせながら書き留めてみましょう。"
 faqs:
-  - question: "これはあなたが毎日行うルーチンですか？"
-    answer: "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。"
-  - question: "ツールを持っていない場合、どうやって交換すればよいですか?"
-    answer: "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。"
+  - question: "毎朝この連想ライティングルーティンを行うべきですか？"
+    answer: "はい、起床直後の無意識が活性化している時間帯に単語カードの連想を通じて創造的直感を訓練するのが最も効果的です。"
+  - question: "単語カードがない場合はどうすればいいですか？"
+    answer: "任意のページを開いて目に留まった名詞を組み合わせたり、オンラインのランダム単語生成器を利用する方式で代替できます。"
 ---
 
 現代のサイエンス フィクション (SF) 文学のゴッドファーザーであり、独特の詩的感性で科学技術文明の限界を予測した巨匠であるアメリカの小説家レイ ブラッドベリは、毎朝 10 個の即興の単語を連想させるストーリー ルーチンを使用して、『華氏 451 度』などの傑作を書きました。彼は毎朝目を開けるとすぐに机に行き、白紙の紙に10個のランダムな単語（砂、灰、鐘、エンジン、雲など）を書き留めました。彼はそれぞれの単語を 1 分間見つめ、脳内で単語を強制的に組み合わせ、毎日 1 つの短い超短編小説の連想を作成しました。このルーチンは、彼の SF 傑作につながる創造性のゆりかごでした。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>これはあなたが毎日行うルーチンですか？</span>
+      <span>毎朝この連想ライティングルーティンを行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。
+      はい、起床直後の無意識が活性化している時間帯に単語カードの連想を通じて創造的直感を訓練するのが最も効果的です。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>ツールを持っていない場合、どうやって交換すればよいですか?</span>
+      <span>単語カードがない場合はどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。
+      任意のページを開いて目に留まった名詞を組み合わせたり、オンラインのランダム単語生成器を利用する方式で代替できます。
     </p>
   </details>
 </div>

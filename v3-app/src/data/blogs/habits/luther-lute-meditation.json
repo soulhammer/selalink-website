@@ -165,26 +165,50 @@
     "faqs": [
       {
         "question": {
-          "ko": "매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?",
-          "en": "How should I fill the journal on days when I have nothing special to write?",
-          "ja": "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？",
-          "zh": "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？",
-          "es": "¿Qué debo escribir en el diario los días en los que no pasa nada especial?",
-          "fr": "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?",
-          "de": "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?",
-          "pt": "O que devo escrever no diário nos dias em que no acontece nada de especial?",
-          "id": "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
+          "ko": "다룰 수 있는 악기가 전혀 없는 초심자도 효과를 볼 수 있나요?",
+          "en": "Can beginners with no musical background benefit from this instrument meditation?",
+          "ja": "演奏できる楽器が全くない初心者でも効果がありますか？",
+          "zh": "完全不会弹奏乐器的初学者也能获得效果吗？",
+          "es": "¿Pueden los principiantes sin conocimientos musicales beneficiarse de esta meditación con instrumentos?",
+          "fr": "Les débutants sans connaissances musicales peuvent-ils bénéficier de cette méditation instrumentale ?",
+          "de": "Können Anfänger ohne musikalische Vorkenntnisse von dieser Instrumenten-Meditation profitieren?",
+          "pt": "Os iniciantes sem conhecimentos musicais podem se beneficiar desta meditação com instrumentos?",
+          "id": "Apakah pemula yang tidak bisa memainkan alat musik tetap bisa merasakan manfaatnya?"
         },
         "answer": {
-          "ko": "일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.",
-          "en": "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.",
-          "ja": "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。",
-          "zh": "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。",
-          "es": "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.",
-          "fr": "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.",
-          "de": "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.",
-          "pt": "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo.",
-          "id": "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+          "ko": "싱잉볼, 텅드럼, 칼림바처럼 터치가 간단하고 맑은 소리를 내는 단순한 악기로 5분간 건반과 소리에 집중하는 것으로 충분합니다. 뇌에 '평가받지 않는 창작 안전지대'를 제공하는 것이 본질입니다.",
+          "en": "It is enough to spend 5 minutes focusing on the sound of simple instruments like singing bowls, tongue drums, or kalimbas. The essence is providing a judgment-free creative safe zone for the brain.",
+          "ja": "シンギングボウル、タングドラム、カリンバのように、演奏が簡単で澄んだ音を出すシンプルな楽器で5分間音に集中するだけで十分です。脳に「評価されない創作の安全地帯」を提供することが本質です。",
+          "zh": "一分钟就能学会的颂钵、空灵鼓、卡林巴等，集中精神弹奏或敲击5分钟就足够了。其本质是给大脑提供一个“不接受外界评估的创作安全区”。",
+          "es": "Es suficiente pasar 5 minutos concentrándose en el sonido de instrumentos simples como cuencos tibetanos, tambores de lengua o kalimbas. Lo esencial es proporcionar un espacio creativo libre de juicios.",
+          "fr": "Il suffit de passer 5 minutes à se concentrer sur le son d'instruments simples comme les bols chantants ou les kalimbas. L'essentiel est d'offrir un espace créatif libre de jugement.",
+          "de": "Es reicht aus, sich 5 Minuten auf einfache Instrumente wie Klangschalen oder Kalimbas zu konzentrieren. Der Kern liegt darin, dem Gehirn einen bewertungsfreien Raum zu bieten.",
+          "pt": "É suficiente passar 5 minutos se concentrando no som de instrumentos simples como tigelas tibetanas ou kalimbas. O essencial é proporcionar um espaço criativo livre de julgamentos.",
+          "id": "Cukup luangkan waktu 5 menit untuk fokus pada suara alat musik sederhana seperti singing bowl, tongue drum, atau kalimba. Intinya adalah memberikan ruang kreatif bebas dari penilaian."
+        }
+      },
+      {
+        "question": {
+          "ko": "음악 감상만으로 연주 루틴과 동일한 효과를 낼 수 없나요?",
+          "en": "Can passive music listening achieve the same effect as playing an instrument?",
+          "ja": "音楽鑑賞だけで演奏ルーティンと同じ効果を出すことはできませんか？",
+          "zh": "仅仅听音乐不能产生与弹奏乐器相同的效果吗？",
+          "es": "¿Escuchar música de forma pasiva puede lograr el mismo efecto que tocar un instrumento?",
+          "fr": "L'écoute passive de musique peut-elle avoir le même effet que de jouer d'un instrument ?",
+          "de": "Kann passives Musikhören den gleichen Effekt erzielen wie das Spielen eines Instruments?",
+          "pt": "Ouvir música de forma passiva pode alcançar o mesmo efeito que tocar um instrumento?",
+          "id": "Apakah mendengarkan musik saja tidak bisa menghasilkan efek yang sama dengan bermain musik?"
+        },
+        "answer": {
+          "ko": "음악을 수동적으로 듣는 것보다 손가락 끝의 미세 근육을 움직이고 현의 진동을 느끼며 소리를 직접 통제하는 연주 행위가 뇌의 운동 피질 및 전두엽 주의 집중 네트워크를 훨씬 더 강하게 자극합니다.",
+          "en": "Playing an instrument actively coordinates fine motor control and physical feedback (vibrations), which stimulates the motor cortex and prefrontal attention networks far more than passive listening.",
+          "ja": "音楽を受動的に聴くよりも、指先の微細な筋肉を動かし、弦の振動を感じながら音を直接コントロールする演奏行為が、脳の運動皮質や前頭葉の注意集中ネットワークをはるかに強く刺激します。",
+          "zh": "与被动听音乐相比，动用指尖微小肌肉、感受琴弦振动并亲自控制发声的演奏行为，能更强烈地刺激大脑运动皮层及前额叶注意力集中网络。",
+          "es": "Tocar un instrumento coordina el control motor fino y la retroalimentación física, lo que estimula la corteza motora y las redes de atención prefrontal mucho más que escuchar de forma pasiva.",
+          "fr": "Jouer d'un instrument stimule le cortex moteur et le réseau d'attention du cortex préfrontal beaucoup plus fortement que l'écoute passive en raison du contrôle moteur et des vibrations physiques.",
+          "de": "Das aktive Spielen eines Instruments beansprucht die Motorik und die Aufmerksamkeit des präfrontalen Kortex weitaus stärker als passives Hören.",
+          "pt": "Tocar um instrumento coordena o controle motor fino e o feedback físico, o que estimula o córtex motor e as redes de atenção pré-frontal muito mais do que ouvir passivamente.",
+          "id": "Memainkan alat musik secara aktif melatih motorik halus dan merasakan getaran fisik, merangsang korteks motorik dan jaringan konsentrasi otak jauh lebih kuat daripada mendengar pasif."
         }
       }
     ]

@@ -17,8 +17,10 @@ steps:
   - name: "体察振动刺激并配合深呼吸"
     text: "感受通过乐器琴身传达到胸口与手指的微弱物理声波，配合吸气与呼气，以此收尾默想活动。"
 faqs:
-  - question: "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？"
-    answer: "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。"
+  - question: "完全不会弹奏乐器的初学者也能获得效果吗？"
+    answer: "一分钟就能学会的颂钵、空灵鼓、卡林巴等，集中精神弹奏或敲击5分钟就足够了。其本质是给大脑提供一个“不接受外界评估的创作安全区”。"
+  - question: "仅仅听音乐不能产生与弹奏乐器相同的效果吗？"
+    answer: "与被动听音乐相比，动用指尖微小肌肉、感受琴弦振动并亲自控制发声的演奏行为，能更强烈地刺激大脑运动皮层及前额叶注意力集中网络。"
 ---
 
 向物理学界提出“不确定性原理”、奠定现代量子物理学基石并荣获诺贝尔物理学奖的德国巨匠维尔纳·海森堡。被电子不连续轨道跃迁和几何矩阵计算这一深奥物理方程所阻碍、深陷严重的认知崩溃与失眠折磨的年轻海森堡，每当需要寻找突破口时，都会独自前往巴伐利亚阿尔卑斯山脉。他会在郁郁葱葱的针叶林以及连绵不断的阿尔卑斯山路上登山数日，以此整理思路。1925年秋天，在北海孤岛黑尔戈兰岛疗养以及阿尔卑斯山路的散步中，诞生了成为物理学历史里程碑的不确定性公式，其背景正是 his 登山思索习惯。我们共同揭示在自然中散步给大脑带来的认知充电原理。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？</span>
+      <span>完全不会弹奏乐器的初学者也能获得效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。
+      一分钟就能学会的颂钵、空灵鼓、卡林巴等，集中精神弹奏或敲击5分钟就足够了。其本质是给大脑提供一个“不接受外界评估的创作安全区”。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>仅仅听音乐不能产生与弹奏乐器相同的效果吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      与被动听音乐相比，动用指尖微小肌肉、感受琴弦振动并亲自控制发声的演奏行为，能更强烈地刺激大脑运动皮层及前额叶注意力集中网络。
     </p>
   </details>
 </div>

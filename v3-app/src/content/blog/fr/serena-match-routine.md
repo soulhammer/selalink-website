@@ -17,8 +17,10 @@ steps:
   - name: "Entamer le travail principal de suite"
     text: "Dès que le geste s'achève, lancez votre présentation ou ouvrez votre fichier de travail sans la moindre hésitation."
 faqs:
-  - question: "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?"
-    answer: "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction."
+  - question: "Comment créer ma propre routine avant des événements importants comme des présentations ou des examens ?"
+    answer: "Établissez 2 ou 3 étapes simples que vous contrôlez, comme nouer vos lacets d'une certaine façon ou respirer profondément, et répétez-les régulièrement."
+  - question: "Comment gérer l'anxiété si j'oublie une étape ou fais une erreur dans ma routine ?"
+    answer: "Comprenez que la routine n'est qu'une ancre psychologique, pas la source de vos capacités. Accepter les erreurs comme faisant partie de la situation maximise les bienfaits."
 ---
 
 Serena Williams, la reine du tennis. Face à la pression du court, son arme secrète résidait dans des routines strictes. Avant de jouer, elle écoutait de la musique avec les mêmes écouteurs et faisait rebondir la balle 5 fois avant son premier service. Voyons comment la routine de pré-performance (PPR) aide à apaiser l'amygdale.
@@ -91,13 +93,23 @@ L'anxiété extrême avant une épreuve excite le système sympathique, contract
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?</span>
+      <span>Comment créer ma propre routine avant des événements importants comme des présentations ou des examens ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.
+      Établissez 2 ou 3 étapes simples que vous contrôlez, comme nouer vos lacets d'une certaine façon ou respirer profondément, et répétez-les régulièrement.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Comment gérer l'anxiété si j'oublie une étape ou fais une erreur dans ma routine ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Comprenez que la routine n'est qu'une ancre psychologique, pas la source de vos capacités. Accepter les erreurs comme faisant partie de la situation maximise les bienfaits.
     </p>
   </details>
 </div>

@@ -165,26 +165,50 @@
     "faqs": [
       {
         "question": {
-          "ko": "매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?",
-          "en": "How should I fill the journal on days when I have nothing special to write?",
-          "ja": "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？",
-          "zh": "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？",
-          "es": "¿Qué debo escribir en el diario los días en los que no pasa nada especial?",
-          "fr": "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?",
-          "de": "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?",
-          "pt": "O que devo escrever no diário nos dias em que não acontece nada de especial?",
-          "id": "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
+          "ko": "도심에 거주하여 하이킹이나 산행을 가기 힘들 때는 어떻게 대체하나요?",
+          "en": "How can I replace this when living in a city, making hiking difficult?",
+          "ja": "都心に住んでいてハイキングや登山が難しい場合は、どのように代替しますか？",
+          "zh": "居住在城市里，难以去远足或爬山时该如何代替？",
+          "es": "¿Cómo puedo reemplazar esto si vivo en la ciudad y es difícil hacer senderismo?",
+          "fr": "Comment puis-je remplacer cela si je vis en ville et qu'il est difficile de randonner ?",
+          "de": "Wie kann ich dies ersetzen, wenn ich in einer Stadt wohne und Wandern schwierig ist?",
+          "pt": "Como posso substituir isso se moro na cidade e é difícil fazer caminhadas?",
+          "id": "Bagaimana saya bisa menggantinya jika tinggal di kota dan sulit untuk mendaki?"
         },
         "answer": {
-          "ko": "일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.",
-          "en": "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.",
-          "ja": "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。",
-          "zh": "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。",
-          "es": "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.",
-          "fr": "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.",
-          "de": "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.",
-          "pt": "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esfoço de redigir um ensaio longo.",
-          "id": "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+          "ko": "도심 속 공원이나 가로수길을 스마트폰 없이 자연 풍경을 탐색하며 30분 이상 걷는 것으로 대체할 수 있습니다. 야외 활동을 통한 시공간 감각 자극과 뇌혈류 활성화가 핵심입니다.",
+          "en": "You can substitute it by walking in a city park or tree-lined street for over 30 minutes without a smartphone. The key is stimulating spatiotemporal senses and boosting brain blood flow through outdoor activity.",
+          "ja": "都心の中の公園や並木道を、スマートフォンを持たずに自然の風景を探索しながら30分以上歩くことで代替できます。屋外活動を通じた時空間感覚の刺激と脳血流の活性化が核心です。",
+          "zh": "可以通过不带手机在城市公园或林荫道漫步30分钟以上来代替。关键是通过户外活动刺激时空感并促进脑部血液流动。",
+          "es": "Puedes sustituirlo caminando en un parque de la ciudad durante más de 30 minutos sin móvil. La clave es estimular los sentidos espaciotemporales y aumentar el flujo sanguíneo cerebral.",
+          "fr": "Vous pouvez y substituer une marche de 30 minutes dans un parc de la ville sans smartphone. L'important est de stimuler les sens et d'augmenter le flux sanguin cérébral.",
+          "de": "Sie können stattdessen über 30 Minuten ohne Smartphone in einem Stadtpark spazieren gehen. Der Schlüssel liegt in der Anregung der Sinne und der Förderung der Durchblutung durch Aktivität im Freien.",
+          "pt": "Você pode substituir isso caminhando em um parque da cidade por mais de 30 minutos sem o telemóvel. A chave é estimular los sentidos espaço-temporais e aumentar o fluxo sanguíneo cerebral.",
+          "id": "Anda dapat menggantinya dengan berjalan di taman kota selama lebih dari 30 menit tanpa ponsel. Kuncinya adalah merangsang indra spasio-temporal dan melancarkan aliran darah otak."
+        }
+      },
+      {
+        "question": {
+          "ko": "하이킹 중 떠오른 아이디어를 잊지 않고 기록하는 팁이 있나요?",
+          "en": "Are there tips to record ideas that come to mind during a hike without forgetting them?",
+          "ja": "ハイキング中に思い浮かんだアイデアを忘れずに記録するコツはありますか？",
+          "zh": "有什么诀窍可以不漏掉地记录在远足中想到的点子吗？",
+          "es": "¿Hay algún consejo para registrar las ideas que surgen durante una caminata sin olvidarlas?",
+          "fr": "Y a-t-il des astuces pour noter les idées qui surviennent pendant une randonnée sans les oublier ?",
+          "de": "Gibt es Tipps, um Ideen, die beim Wandern entstehen, sofort festzuhalten?",
+          "pt": "Tem alguma dica para registrar as ideias que surges durante uma caminhada sem esquecê-las?",
+          "id": "Apakah ada tips untuk mencatat ide yang muncul saat mendaki agar tidak terlupakan?"
+        },
+        "answer": {
+          "ko": "주머니에 작은 메모 수첩과 펜을 소지하여 생각나는 즉시 핵심 단어만 간단히 수기 기록하거나, 걷기에 방해되지 않도록 음성 메모 기능으로 즉석 녹음하는 방안을 추천합니다.",
+          "en": "We recommend carrying a small notepad and pen in your pocket to jot down keywords instantly, or using voice memo features for quick hands-free recording.",
+          "ja": "ポケットに小さなメモ帳とペンを入れておき、思いついた瞬間にキーワードだけを手書きで記録するか、歩く邪魔にならないように音声メモ機能で即座に録音することをお勧めします。",
+          "zh": "建议在口袋里放一个小型笔记本和笔，想到灵感时立即手写记录关键词，或者使用语音备忘录功能实时录音以防干扰步行。",
+          "es": "Recomendamos llevar un pequeño cuaderno y bolígrafo en el bolsillo para anotar palabras clave al instante, o usar notas de voz para no interrumpir la caminata.",
+          "fr": "Nous recommandons de garder un petit carnet et un stylo sur vous pour noter les mots-clés, ou d'utiliser les notes vocales pour ne pas interrompre la marche.",
+          "de": "Wir empfehlen, ein kleines Notizbuch und einen Stift in der Tasche zu tragen, um Stichworte festzuhalten, oder Sprachnotizen zu verwenden.",
+          "pt": "Recomendamos levar um pequeno caderno e caneta no bolso para anotar palavras-chave instantaneamente, ou usar notas de voz para não interromper a caminhada.",
+          "id": "Kami menyarankan Anda membawa buku catatan kecil dan pena di saku untuk segera menulis kata kunci, atau menggunakan memo suara agar tidak mengganggu jalan."
         }
       }
     ]

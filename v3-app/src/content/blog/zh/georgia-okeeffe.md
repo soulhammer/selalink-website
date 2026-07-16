@@ -17,10 +17,10 @@ steps:
   - name: "步骤三：客观凝视与元组织"
     text: "通过观察发现的物体的三种独特的隐藏形态特征，就像黑板上放大的渲染一样被印记并存储在脑海中。"
 faqs:
-  - question: "这是你每天都会做的例行公事吗？"
-    answer: "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、建立长期神经元回路的最聪明方法。"
-  - question: "如果我没有该工具，如何更换？"
-    answer: "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，通过灵活操作即可获得足够的效果。"
+  - question: "每天都需要进行这种户外采集漫步规程吗？"
+    answer: "是的，呼吸清晨的新鲜空气并集中精力感受自然物的触觉和质地，有利于激活大脑感官区域和缓解压力。"
+  - question: "如果不在沙漠或能收集自然石头的环境下，该如何替代？"
+    answer: "只需不带任何压力地在城市公园散步，静静观察并触摸落叶、花瓣、贝壳等具有自然细微质感的事物即可。"
 ---
 
 乔治亚·欧姬芙，美国现代主义艺术教母、女画家，开创了20世纪西方艺术史上独特的花朵和沙漠骨画风格，她用聚焦的特写技法将大自然的琐碎形状华丽地定格在画布上。她站在贫瘠的沙漠中央，连续几个小时盯着不被注意的动物的粗糙骨头、枯萎花朵的精致纹理以及沙粒的纹理，这些都放大了 10 倍或更多，就像通过放大镜一样。她通过在整个画布上以压倒性的尺寸特写物体的最小细节来创造视觉冲击力。这种细致的视觉焦点和最大限度的渲染例程使她成为现代艺术的绝对大师。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>这是你每天都会做的例行公事吗？</span>
+      <span>每天都需要进行这种户外采集漫步规程吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、建立长期神经元回路的最聪明方法。
+      是的，呼吸清晨的新鲜空气并集中精力感受自然物的触觉和质地，有利于激活大脑感官区域和缓解压力。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>如果我没有该工具，如何更换？</span>
+      <span>如果不在沙漠或能收集自然石头的环境下，该如何替代？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，通过灵活操作即可获得足够的效果。
+      只需不带任何压力地在城市公园散步，静静观察并触摸落叶、花瓣、贝壳等具有自然细微质感的事物即可。
     </p>
   </details>
 </div>

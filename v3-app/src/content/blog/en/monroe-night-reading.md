@@ -17,8 +17,10 @@ steps:
   - name: "Writing a One-line Reflection and Emotion Log"
     text: "After reading, write a key quote or your core emotion of the day in 1 to 2 simple sentences in your diary, then go to sleep."
 faqs:
-  - question: "How should I fill the journal on days when I have nothing special to write?"
-    answer: "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay."
+  - question: "Does reading before bed stimulate the brain and disrupt sleep?"
+    answer: "Read physical books instead of smartphones. Opting for non-stimulating books like poetry or essays under soft lighting induces alpha waves, helping you fall asleep."
+  - question: "How can I capture favorite passages during night reading without disrupting sleep?"
+    answer: "Instead of turning on bright lights or computers, simply use sticky notes or fold book corners, and transfer them to your digital archive the next morning."
 ---
 
 The most mesmerizing style icon and actress in 20th-century pop culture, Marilyn Monroe. Though she thrilled the world under the camera flashes on the silver screen, her life behind the scenes was plagued by identity confusion, voyeuristic media coverage, and invasion of privacy. Hidden behind public gossip, the real Monroe was an avid reader who owned over 400 classic books and read Oscar Wilde and James Joyce. Every night, she took off her wig, read classic books under her bedroom lamp, and wrote down her feelings in poetry and journals. We explore how this quiet reading reset her nervous system.
@@ -91,13 +93,23 @@ When the brain is exposed to constant public evaluation and stress, the sympathe
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>How should I fill the journal on days when I have nothing special to write?</span>
+      <span>Does reading before bed stimulate the brain and disrupt sleep?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.
+      Read physical books instead of smartphones. Opting for non-stimulating books like poetry or essays under soft lighting induces alpha waves, helping you fall asleep.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>How can I capture favorite passages during night reading without disrupting sleep?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Instead of turning on bright lights or computers, simply use sticky notes or fold book corners, and transfer them to your digital archive the next morning.
     </p>
   </details>
 </div>

@@ -17,8 +17,10 @@ steps:
   - name: "Einen Satz zur Reflexion und Gefühlslage notieren"
     text: "Notieren Sie danach einen prägenden Satz oder Ihr Gefühl des Tages in 1 bis 2 Sätzen im Tagebuch und legen Sie sich schlafen."
 faqs:
-  - question: "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?"
-    answer: "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes."
+  - question: "Stört das Lesen vor dem Schlafengehen den Schlaf durch Überstimulation des Gehirns?"
+    answer: "Lesen Sie echte Bücher statt Bildschirme. Sachbücher oder Gedichte bei gedimmtem Licht regen Alpha-Wellen an und helfen beim Einschlafen."
+  - question: "Wie kann ich Lieblingspassagen beim nächtlichen Lesen festhalten, ohne den Schlaf zu stören?"
+    answer: "Schalten Sie nicht den Computer ein. Nutzen Sie stattdessen Haftnotizen oder knicken Sie Seiten ein, und übertragen Sie die Stellen am nächsten Morgen."
 ---
 
 Marilyn Monroe, die Ikone des Kinos. Um dem Druck der Medien zu entfliehen, nutzte sie ein Abendritual: Sie las Klassiker wie James Joyce und schrieb Gedichte. Kognitionspsychologisch senkt stilles Lesen die Herzfrequenz und baut Stresshormone innerhalb von nur 6 Minuten um bis zu 68 % ab.
@@ -91,13 +93,23 @@ Chronischer Stress führt zu einer Überaktivierung des Sympathikus und Schlafst
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?</span>
+      <span>Stört das Lesen vor dem Schlafengehen den Schlaf durch Überstimulation des Gehirns?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.
+      Lesen Sie echte Bücher statt Bildschirme. Sachbücher oder Gedichte bei gedimmtem Licht regen Alpha-Wellen an und helfen beim Einschlafen.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Wie kann ich Lieblingspassagen beim nächtlichen Lesen festhalten, ohne den Schlaf zu stören?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Schalten Sie nicht den Computer ein. Nutzen Sie stattdessen Haftnotizen oder knicken Sie Seiten ein, und übertragen Sie die Stellen am nächsten Morgen.
     </p>
   </details>
 </div>

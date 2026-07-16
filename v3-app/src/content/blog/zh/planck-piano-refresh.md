@@ -17,8 +17,10 @@ steps:
   - name: "体察声音的感觉化并重置思维"
     text: "将所有注意力集中在键盘声音的声波与和弦的共鸣上，于干净清空大脑数理逻辑区域中积攒的疲劳中，结束规程。"
 faqs:
-  - question: "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？"
-    answer: "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。"
+  - question: "没有乐谱的钢琴即兴弹奏该如何开始？"
+    answer: "无需在乎旋律的完美与否或是不和谐音，指尖随心而动，将全部注意力集中在琴键的触感和声音的共鸣上，自由敲击是放松并重置大脑注意力网络的钥匙。"
+  - question: "除了钢琴，用其他乐器也能实现认知重置吗？"
+    answer: "可以。任何需要手指精细触感并能亲自控制余音的弦乐器或键盘乐器，都能提供类似的大脑注意力网络转换效果。"
 ---
 
 创立量子假说、发现物理学常数核心“普朗克常数”、开启超越古典物理学的现代物理学曙光的物理学巨匠马克斯·普朗克。在重构宇宙根本结构的极度逻辑思量与数学公式中，他用来控制强烈研究疲劳与神经痛的钥匙，正是钢琴的琴键。普朗克其实是一位拥有高水平钢琴造诣的音乐家，他经常配合挚友阿尔伯特·爱因斯坦的小提琴，合作演出钢琴室内乐二重奏。每当科研遇到阻碍或结束一天的日程后，他都会坐在钢琴前，随心所欲、不看乐谱地弹奏键盘，沉浸在即兴演奏中。我们共同剖析通过艺术进行认知转换是如何让大脑恢复活力的原理。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？</span>
+      <span>没有乐谱的钢琴即兴弹奏该如何开始？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。
+      无需在乎旋律的完美与否或是不和谐音，指尖随心而动，将全部注意力集中在琴键的触感和声音的共鸣上，自由敲击是放松并重置大脑注意力网络的钥匙。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>除了钢琴，用其他乐器也能实现认知重置吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      可以。任何需要手指精细触感并能亲自控制余音的弦乐器或键盘乐器，都能提供类似的大脑注意力网络转换效果。
     </p>
   </details>
 </div>

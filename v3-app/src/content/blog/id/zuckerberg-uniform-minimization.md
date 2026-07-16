@@ -17,8 +17,10 @@ steps:
   - name: "Hilangkan Pilihan Pakaian di Pagi Hari"
     text: "Langsung kenakan pakaian standar Anda setelah bangun tidur tanpa berpikir, menghemat memori kognitif Anda untuk keputusan penting."
 faqs:
-  - question: "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
-    answer: "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+  - question: "Bagaimana Anda menangani rapat penting atau acara formal dengan kebiasaan seragam ini?"
+    answer: "Batik atau jas formal juga digunakan jika acara mengharuskan. Inti dari seragam adalah menghilangkan pilihan sepele, jadi menentukan kombinasi pakaian formal sebelumnya mencegah kelelahan keputusan."
+  - question: "Bolehkah saya membuat seragam dengan pakaian selain kaus dan jins?"
+    answer: "Tentu saja. Memilih kombinasi kemeja, celana, atau gaun sederhana dan nyaman yang membuat Anda merasa rileks serta menyediakan beberapa pasang pakaian yang sama sudah cukup."
 ---
 
 Pendiri Facebook, Mark Zuckerberg. Menavigasi arah masa depan platform sosial yang menghubungkan miliaran manusia menuntut stamina keputusan prima. Taktik andalannya untuk menjaga daya pikir adalah menolak memilih pakaian pagi hari. Ia hanya memiliki kaus abu-abu dan celana jins yang sama di lemarinya.
@@ -91,13 +93,23 @@ Kapasitas energi korteks prefrontal untuk mengambil keputusan sangat terbatas. P
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?</span>
+      <span>Bagaimana Anda menangani rapat penting atau acara formal dengan kebiasaan seragam ini?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian.
+      Batik atau jas formal juga digunakan jika acara mengharuskan. Inti dari seragam adalah menghilangkan pilihan sepele, jadi menentukan kombinasi pakaian formal sebelumnya mencegah kelelahan keputusan.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Bolehkah saya membuat seragam dengan pakaian selain kaus dan jins?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Tentu saja. Memilih kombinasi kemeja, celana, atau gaun sederhana dan nyaman yang membuat Anda merasa rileks serta menyediakan beberapa pasang pakaian yang sama sudah cukup.
     </p>
   </details>
 </div>

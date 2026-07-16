@@ -17,10 +17,10 @@ steps:
   - name: "Étape 3 : Regard objectif et méta-organisation"
     text: "En synchronisant avec précision les cellules motrices du cerveau sur une trajectoire au ralenti, j'observe et enregistre la force de friction et les limites physiques de mon corps."
 faqs:
-  - question: "Est-ce une routine que vous effectuez de la même manière tous les jours ?"
-    answer: "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme."
-  - question: "Si je n'ai pas l'outil, comment puis-je le remplacer ?"
-    answer: "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni."
+  - question: "Dois-je faire la pratique des gammes immédiatement après le réveil chaque matin ?"
+    answer: "Oui, un entraînement répétitif des doigts après le réveil stimule le cortex moteur et structure le canal de l'attention."
+  - question: "Comment puis-je remplacer le piano si je n'en ai pas ?"
+    answer: "Bouger vos doigts sur un bureau ou un clavier factice au rythme d'un métronome stimule le cortex moteur."
 ---
 
 Le compositeur hongrois Franz Liszt, empereur du piano à l'époque romantique du 19ème siècle et plus grand pianiste virtuose de son temps, a élargi au maximum les limites expressives de la musique pour piano grâce à une sophistication et des méthodes de pratique écrasantes. Au lieu de s'entraîner à jouer rapidement et imprudemment sur le clavier, il s'entraînait chaque jour en ralentissant le tempo du métronome jusqu'à un niveau de ralenti extrême et en ne jouant qu'une seule touche par seconde sans erreur. Il a programmé les trajectoires parfaites des mouvements musculaires du clavier dans son cerveau, puis les a utilisées pour créer des mouvements magiques et spectaculaires.
@@ -97,21 +97,21 @@ L'entraînement pour contrôler consciemment les mouvements des doigts et des mu
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Est-ce une routine que vous effectuez de la même manière tous les jours ?</span>
+      <span>Dois-je faire la pratique des gammes immédiatement après le réveil chaque matin ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.
+      Oui, un entraînement répétitif des doigts après le réveil stimule le cortex moteur et structure le canal de l'attention.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si je n'ai pas l'outil, comment puis-je le remplacer ?</span>
+      <span>Comment puis-je remplacer le piano si je n'en ai pas ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.
+      Bouger vos doigts sur un bureau ou un clavier factice au rythme d'un métronome stimule le cortex moteur.
     </p>
   </details>
 </div>

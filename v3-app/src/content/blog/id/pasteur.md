@@ -17,10 +17,10 @@ steps:
   - name: "Langkah 3: Pandangan objektif dan pengorganisasian meta"
     text: "Setelah 1 jam, amati subjek lagi, ukur perubahan yang sangat kecil (deviasi 1mm, perubahan indikator 1%, dll.), dan lakukan pelatihan umpan balik untuk menyimpulkan dan menganalisis hubungan sebab-akibat selama 1 menit dan mencatatnya."
 faqs:
-  - question: "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
-    answer: "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
-  - question: "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
-    answer: "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+  - question: "Haruskah saya melakukan ritual merapikan ini sebelum bekerja setiap hari?"
+    answer: "Ya, membersihkan lensa secara teliti sebelum bekerja memberikan sinyal keteraturan kognitif bagi otak, memaksimalkan fokus."
+  - question: "Bagaimana cara menggantinya jika saya tidak memiliki mikroskop atau kain pembersih?"
+    answer: "Mengelap layar komputer dengan kain mikrofiber, merapikan meja, atau membersihkan layar ponsel sebelum bekerja memberikan hasil yang sama."
 ---
 
 Louis Pasteur, seorang pionir kedokteran modern dan mikrobiologi dan seorang ahli kimia jenius Perancis yang memelopori vaksin, menyelamatkan umat manusia dari ketakutan akan penyakit menular dengan menciptakan pasteurisasi dan vaksin antraks/rabies. Dia duduk di meja labnya dan menatap tanpa bergerak selama berjam-jam pada botol kultur di bawah kaca pembesar mikroskop. Dia dengan cermat menggambar dan mencatat jejak-jejak gemetar yang ditinggalkan oleh mikroorganisme saat mereka berkembang biak di buku catatannya. Metode desinfeksi dan penemuan vaksinnya lahir dari pengamatan rutin sambil menatap botol tersebut.
@@ -97,21 +97,21 @@ Tindakan membentuk hipotesis dan memasukkan lintasan perubahan objek observasi h
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah ini rutinitas yang selalu Anda lakukan setiap hari?</span>
+      <span>Haruskah saya melakukan ritual merapikan ini sebelum bekerja setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang.
+      Ya, membersihkan lensa secara teliti sebelum bekerja memberikan sinyal keteraturan kognitif bagi otak, memaksimalkan fokus.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Kalau saya tidak punya alatnya, bagaimana cara menggantinya?</span>
+      <span>Bagaimana cara menggantinya jika saya tidak memiliki mikroskop atau kain pembersih?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan.
+      Mengelap layar komputer dengan kain mikrofiber, merapikan meja, atau membersihkan layar ponsel sebelum bekerja memberikan hasil yang sama.
     </p>
   </details>
 </div>

@@ -17,10 +17,10 @@ steps:
   - name: "Schritt 3: Objektiver Blick und Meta-Organisation"
     text: "Beobachten Sie das Subjekt nach einer Stunde erneut, messen Sie sehr kleine Änderungen (1 mm Abweichung, 1 % Indikatoränderung usw.) und führen Sie ein Feedback-Training durch, um die Ursache-Wirkungs-Beziehung für eine Minute abzuleiten, zu analysieren und aufzuzeichnen."
 faqs:
-  - question: "Ist das eine Routine, die Sie jeden Tag gleich durchführen?"
-    answer: "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen."
-  - question: "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?"
-    answer: "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist."
+  - question: "Sollte ich dieses Aufräumritual jeden Tag vor der Arbeit durchführen?"
+    answer: "Ja, das Reinigen der Linsen vor Arbeitsbeginn signalisiert dem Gehirn Struktur und maximiert den Fokus."
+  - question: "Wie kann ich das Mikroskop oder das Reinigungstuch ersetzen, wenn ich keins habe?"
+    answer: "Das Wischen des Bildschirms mit einem Mikrofasertuch oder das Reinigen des Smartphones vor Arbeitsbeginn erzielt den gleichen Effekt."
 ---
 
 Louis Pasteur, ein absoluter Pionier der modernen Medizin und Mikrobiologie und ein genialer französischer Chemiker, der Pionierarbeit bei Impfstoffen leistete, rettete die Menschheit vor der Angst vor Infektionskrankheiten, indem er Pasteurisierung und Milzbrand-/Tollwutimpfstoffe erfand. Er saß an seinem Labortisch und starrte stundenlang regungslos auf ein Kulturgefäß unter der Lupe eines Mikroskops. Er zeichnete und notierte akribisch die winzigen Schüttelspuren, die Mikroorganismen bei ihrer Vermehrung in seinem Notizbuch hinterlassen. Seine Desinfektionsmethode und die Entdeckung des Impfstoffs entstanden aus dieser Beobachtungs-Feedback-Routine, während er auf die Flasche starrte.
@@ -97,21 +97,21 @@ Der Vorgang der Hypothesenbildung und der Eingabe der Verlaufskurve der Verände
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Ist das eine Routine, die Sie jeden Tag gleich durchführen?</span>
+      <span>Sollte ich dieses Aufräumritual jeden Tag vor der Arbeit durchführen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.
+      Ja, das Reinigen der Linsen vor Arbeitsbeginn signalisiert dem Gehirn Struktur und maximiert den Fokus.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?</span>
+      <span>Wie kann ich das Mikroskop oder das Reinigungstuch ersetzen, wenn ich keins habe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.
+      Das Wischen des Bildschirms mit einem Mikrofasertuch oder das Reinigen des Smartphones vor Arbeitsbeginn erzielt den gleichen Effekt.
     </p>
   </details>
 </div>

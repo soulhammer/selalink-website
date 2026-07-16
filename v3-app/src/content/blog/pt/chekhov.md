@@ -17,10 +17,10 @@ steps:
   - name: "Etapa 3: Olhar objetivo e metaorganização"
     text: "Preservamos os registros praticando por um minuto para inferir e analisar a ocupação, inclinação e atmosfera da outra pessoa no espaço que esses detalhes podem conter."
 faqs:
-  - question: "Essa é uma rotina que você realiza todos os dias?"
-    answer: "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo."
-  - question: "Se eu não tiver a ferramenta, como posso substituí-la?"
-    answer: "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido."
+  - question: "Devo realizar esta rotina no mesmo horário todos os dias?"
+    answer: "Sim, Tchekhov reduzia a carga cognitiva e organizava seus pensamentos por meio de um ritual tranquilo de chá após o trabalho às 15h."
+  - question: "Como posso substituir se não tiver um jogo de chá?"
+    answer: "Mesmo sem um jogo de chá elegante, tomar uma xícara de água morna ou chá de ervas concentrando-se nos sentidos por 5 minutos é suficiente."
 ---
 
 Anton Chekhov, o auge da literatura realista russa e um grande dramaturgo que completou a base do conto moderno, capturou os conflitos minuciosos, a hipocrisia e a turbulência emocional das pessoas comuns na vida cotidiana da maneira mais cuidadosa e contundente e os transformou em peças. Ele sentou-se calmamente num banco na sala de espera de um trem ou no canto de um café ao ar livre e observou as pessoas passando. Ele anotou características extremamente específicas da pessoa em um caderno no bolso do casaco, como uma marca invisível de penugem na gola de um terno, a bainha de um terno com um botão arrancado e o leve tremor nos olhos de um transeunte quando ele ou ela está nervoso. Essa coleção de detalhes extremamente finos foi a base para a construção de personagens tridimensionais e realistas em seus romances.
@@ -97,21 +97,21 @@ A 'Micro Atenção Seletiva', que fixa a atenção apenas no extremamente trivia
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Essa é uma rotina que você realiza todos os dias?</span>
+      <span>Devo realizar esta rotina no mesmo horário todos os dias?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo.
+      Sim, Tchekhov reduzia a carga cognitiva e organizava seus pensamentos por meio de um ritual tranquilo de chá após o trabalho às 15h.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Se eu não tiver a ferramenta, como posso substituí-la?</span>
+      <span>Como posso substituir se não tiver um jogo de chá?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.
+      Mesmo sem um jogo de chá elegante, tomar uma xícara de água morna ou chá de ervas concentrando-se nos sentidos por 5 minutos é suficiente.
     </p>
   </details>
 </div>

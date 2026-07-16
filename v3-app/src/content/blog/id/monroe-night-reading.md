@@ -17,8 +17,10 @@ steps:
   - name: "Mencatat Refleksi Singkat dan Jurnal Emosi"
     text: "Tuliskan satu kalimat yang paling berkesan dari buku atau emosi utama Anda hari ini ke dalam jurnal, lalu tidurlah."
 faqs:
-  - question: "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
-    answer: "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+  - question: "Apakah membaca sebelum tidur tidak merangsang otak dan mengganggu tidur?"
+    answer: "Bacalah buku fisik daripada ponsel. Memilih buku yang menenangkan seperti puisi atau esai di bawah lampu redup merangsang gelombang alfa yang membantu tidur nyenyak."
+  - question: "Bagaimana cara mencatat kutipan favorit saat membaca malam hari tanpa mengganggu tidur?"
+    answer: "Hindari menyalakan komputer sebelum tidur. Cukup gunakan kertas penanda atau lipat ujung halaman, lalu salin ke catatan digital keesokan paginya."
 ---
 
 Marilyn Monroe, ikon budaya populer abad ke-20. Di balik citra glamornya, ia mengalami cemas akibat kepungan media. Cara memulihkan ketenangannya adalah ritual membaca malam hari dan menulis puisi. Penelitian menunjukkan membaca sastra menurunkan hormon stres hingga 68%.
@@ -91,13 +93,23 @@ Stres berkepanjangan meningkatkan kerja sistem saraf simpatik. Membaca sastra se
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?</span>
+      <span>Apakah membaca sebelum tidur tidak merangsang otak dan mengganggu tidur?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian.
+      Bacalah buku fisik daripada ponsel. Memilih buku yang menenangkan seperti puisi atau esai di bawah lampu redup merangsang gelombang alfa yang membantu tidur nyenyak.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Bagaimana cara mencatat kutipan favorit saat membaca malam hari tanpa mengganggu tidur?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Hindari menyalakan komputer sebelum tidur. Cukup gunakan kertas penanda atau lipat ujung halaman, lalu salin ke catatan digital keesokan paginya.
     </p>
   </details>
 </div>

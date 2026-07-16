@@ -17,8 +17,10 @@ steps:
   - name: "Ressentir la résonance et réinitialiser l'esprit"
     text: "Concentrez-vous sur les ondes sonores et la résonance des accords, éliminant la tension accumulée dans l'hémisphère gauche."
 faqs:
-  - question: "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?"
-    answer: "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction."
+  - question: "Comment commencer une improvisation au piano sans partition ?"
+    answer: "Appuyez librement sur les touches selon l'inspiration sans vous soucier de la mélodie. Se concentrer sur le toucher et la résonance détend et réinitialise le réseau d'attention du cerveau."
+  - question: "Puis-je obtenir une réinitialisation cognitive avec d'autres instruments que le piano ?"
+    answer: "Oui. Tout instrument à cordes ou à clavier nécessitant une coordination fine et permettant de contrôler la résonance fournira des effets similaires sur l'attention."
 ---
 
 Max Planck, le père de la physique quantique. Pour surmonter la fatigue de ses calculs, il pratiquait un rituel : jouer du piano sans partition. Il accompagnait souvent Albert Einstein au violon. Voyons comment l'improvisation artistique active l'hémisphère droit et met au repos les réseaux logiques de l'hémisphère gauche.
@@ -91,13 +93,23 @@ L'usage intensif d'une zone cérébrale (comme la logique dans l'hémisphère ga
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?</span>
+      <span>Comment commencer une improvisation au piano sans partition ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.
+      Appuyez librement sur les touches selon l'inspiration sans vous soucier de la mélodie. Se concentrer sur le toucher et la résonance détend et réinitialise le réseau d'attention du cerveau.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Puis-je obtenir une réinitialisation cognitive avec d'autres instruments que le piano ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Oui. Tout instrument à cordes ou à clavier nécessitant une coordination fine et permettant de contrôler la résonance fournira des effets similaires sur l'attention.
     </p>
   </details>
 </div>

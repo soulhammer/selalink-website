@@ -17,10 +17,10 @@ steps:
   - name: "Schritt 3: Objektiver Blick und Metaorganisation"
     text: "Atmen Sie alle analogen, sachlichen Reize ein, die die Natur bietet, um die kognitive Müdigkeit vollständig aus Ihrem erschöpften Frontallappen zu entfernen, und halten Sie sie in Ihrem Tagebuch fest."
 faqs:
-  - question: "Ist das eine Routine, die Sie jeden Tag gleich durchführen?"
-    answer: "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen."
-  - question: "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?"
-    answer: "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist."
+  - question: "Sollte ich diese Gartenarbeitsroutine jeden Tag durchführen?"
+    answer: "Ja, körperliche Arbeit wie das Berühren der Erde und Unkrautjäten entspannt den präfrontalen Kortex nach geistiger Anstrengung."
+  - question: "Wie kann ich die Routine ersetzen, wenn ich keinen Garten oder keine Erde habe?"
+    answer: "Das Pflegen kleiner Zimmerpflanzen, Umtopfen oder das Abschneiden trockener Blätter ist ein hervorragender Ersatz."
 ---
 
 Hermann Hesse, ein Romanautor und Dichter, der als Schweizer Gärtner die innere menschliche Selbstverwirklichung und das Wandern der Seele durch analoge Meditation erforschte und Literaturnobelpreisträger für Meisterwerke wie „Demian“ und „Under the Wheel“ erhielt. Er blieb in seinem Landgarten und verrichtete täglich die analoge Gärtnerarbeit, nämlich den Boden zu bestellen, Unkraut zu jäten und abgestorbene Äste zu hacken oder abzusägen. Während er seinen Körper fleißig bewegte, konzentrierte er seine ganze Aufmerksamkeit auf die Geräusche der Vögel im Wald, das Geräusch des Windes und den Geruch von Feuchtigkeit im Boden. Diese analoge natürliche Meditationsroutine war eine Quelle der Stabilität und Heilung für seine Seele, die unter einem schweren Nervenzusammenbruch litt.
@@ -97,21 +97,21 @@ Der Akt der einfachen Bewegung des Körpers und die Konzentration nur auf natür
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Ist das eine Routine, die Sie jeden Tag gleich durchführen?</span>
+      <span>Sollte ich diese Gartenarbeitsroutine jeden Tag durchführen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.
+      Ja, körperliche Arbeit wie das Berühren der Erde und Unkrautjäten entspannt den präfrontalen Kortex nach geistiger Anstrengung.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?</span>
+      <span>Wie kann ich die Routine ersetzen, wenn ich keinen Garten oder keine Erde habe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.
+      Das Pflegen kleiner Zimmerpflanzen, Umtopfen oder das Abschneiden trockener Blätter ist ein hervorragender Ersatz.
     </p>
   </details>
 </div>

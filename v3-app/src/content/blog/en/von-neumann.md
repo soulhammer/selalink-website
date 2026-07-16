@@ -17,10 +17,10 @@ steps:
   - name: "Step 3: Objective looking and meta-organizing"
     text: "I tightly control the boundaries of my consciousness and focus on reading sentences, as if putting a transparent shield in my head to prevent noise stimulation from penetrating my cognitive filter."
 faqs:
-  - question: "Is this a routine you perform the same every day?"
-    answer: "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build long-term neuron circuits."
-  - question: "If I don't have the tool, how do I replace it?"
-    answer: "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided."
+  - question: "Should I perform this music immersion routine before difficult tasks every day?"
+    answer: "Yes, narrowing cognitive focus and entering complex mathematical concentration using an energetic rhythm mixed with noise."
+  - question: "How can I substitute if I don't have noise-generating phonographs?"
+    answer: "You can substitute by playing fast-paced white noise, mechanical ambient sounds, or upbeat music through earphones to start your focus."
 ---
 
 John von Neumann, the most intelligent person in human history and a genius mathematician from Hungary who single-handedly designed the foundations of modern human studies (game theory, Neumann architecture) in all fields including mathematics, computer science, economics, and quantum mechanics. He was able to derive complex mathematical formulas and computer architecture formulas without difficulty even while sitting in a corner of a party with loud music playing or on a bench in a noisy waiting room where a train was shaking and steam was emitting steam. No matter how noisy his surroundings were, he isolated his cognitive resources solely on the virtual blackboard constructed in his head. This routine of isolation and immersion in white noise was what made him the greatest genius mathematician in history.
@@ -97,21 +97,21 @@ The act of artificially maintaining immersion under a certain level of controlla
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Is this a routine you perform the same every day?</span>
+      <span>Should I perform this music immersion routine before difficult tasks every day?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build long-term neuron circuits.
+      Yes, narrowing cognitive focus and entering complex mathematical concentration using an energetic rhythm mixed with noise.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>If I don't have the tool, how do I replace it?</span>
+      <span>How can I substitute if I don't have noise-generating phonographs?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.
+      You can substitute by playing fast-paced white noise, mechanical ambient sounds, or upbeat music through earphones to start your focus.
     </p>
   </details>
 </div>

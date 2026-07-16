@@ -17,8 +17,10 @@ steps:
   - name: "テキストファイルアーカイブと認知リセット"
     text: "録音を終了し、生成されたテキストログを保管フォルダに保存して「昨日の残像は白紙に戻された」と宣言し、今日新しい業務に入ります。"
 faqs:
-  - question: "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？"
-    answer: "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。"
+  - question: "秘書がいない現代人は毎朝の電話記録式の口述をどのように実践しますか？"
+    answer: "スマートフォンの音声-テキスト変換（STT）機能やAIメモアプリを起動し、昨日あった出来事や今日すべき感情的負担を5分間声に出して記録する形をお勧めします。"
+  - question: "口述する時、主にどのような内容を話せば生産性の向上に役立ちますか？"
+    answer: "昨日あった事実的な出来事の羅列、今日直面する業務優先順位のブレインダンプ、あるいは今思い浮かぶ感情の状態を生のまま声に出して呟くだけで十分です。"
 ---
 
 キャンベル・スープの缶やマリリン・モンローの肖像など、ポップなイメージを変奏して現代美術の歴史を塗り替えたポップアートの巨匠アンディ・ウォーホル。アトリエ「ファクトリー（Factory）」の複雑な人間関係、芸術的インスピレーションの渇望、多額の資金支出の中で、彼が芸術家として鋭い感覚を失わなかった秘訣は、毎朝の口頭日記習慣でした。ウォーホルは1976年からこの世を去る前の1987年まで、毎朝秘書のパット・ハケットに電話をかけ、前日のタクシー代の支出から日常のゴシップ、人々との些細な会話まで、すべてを口頭で伝えて代筆で記録させました。毎朝蓄積された頭の中の残骸を言葉で吐き出すことで、脳のワーキングメモリ空間を綺麗に清掃する認知脳科学的原理を分析します。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？</span>
+      <span>秘書がいない現代人は毎朝の電話記録式の口述をどのように実践しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。
+      スマートフォンの音声-テキスト変換（STT）機能やAIメモアプリを起動し、昨日あった出来事や今日すべき感情的負担を5分間声に出して記録する形をお勧めします。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>口述する時、主にどのような内容を話せば生産性の向上に役立ちますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      昨日あった事実的な出来事の羅列、今日直面する業務優先順位のブレインダンプ、あるいは今思い浮かぶ感情の状態を生のまま声に出して呟くだけで十分です。
     </p>
   </details>
 </div>

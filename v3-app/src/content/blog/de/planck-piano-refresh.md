@@ -17,8 +17,10 @@ steps:
   - name: "Wahrnehmen der Töne und geistiges Zurücksetzen"
     text: "Konzentrieren Sie sich ganz auf die Schallwellen und das Nachklingen der Töne, um die logischen Areale zu entlasten."
 faqs:
-  - question: "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?"
-    answer: "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes."
+  - question: "Wie beginne ich eine Klavierimprovisation ohne Noten?"
+    answer: "Drücken Sie die Tasten frei nach Gefühl, ohne sich um die Melodie zu sorgen. Die Konzentration auf den Tastenanschlag entspannt und setzt das Aufmerksamkeitsnetzwerk zurück."
+  - question: "Kann ich einen kognitiven Reset mit anderen Instrumenten als dem Klavier erzielen?"
+    answer: "Ja. Jedes Saiten- oder Tasteninstrument, das feine Koordination erfordert und Resonanzkontrolle ermöglicht, erzielt ähnliche Effekte."
 ---
 
 Max Planck legte das Fundament der Quantenphysik. Um die geistige Erschöpfung durch komplexe Berechnungen abzubauen, nutzte er das freie Klavierspiel. Er musizierte auch oft im Duo mit Albert Einstein. Kognitionspsychologisch entlastet der Wechsel von mathematischer Logik zu kreativer Improvisation das Gehirn und fördert die Regeneration.
@@ -91,13 +93,23 @@ Die intensive Nutzung eines Gehirnareals (etwa der mathematischen Logik der link
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?</span>
+      <span>Wie beginne ich eine Klavierimprovisation ohne Noten?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.
+      Drücken Sie die Tasten frei nach Gefühl, ohne sich um die Melodie zu sorgen. Die Konzentration auf den Tastenanschlag entspannt und setzt das Aufmerksamkeitsnetzwerk zurück.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Kann ich einen kognitiven Reset mit anderen Instrumenten als dem Klavier erzielen?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ja. Jedes Saiten- oder Tasteninstrument, das feine Koordination erfordert und Resonanzkontrolle ermöglicht, erzielt ähnliche Effekte.
     </p>
   </details>
 </div>

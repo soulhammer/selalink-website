@@ -17,10 +17,10 @@ steps:
   - name: "Passo 3: Olhar objetivo e meta-organização"
     text: "As três características morfológicas ocultas únicas dos objetos descobertos através da observação são impressas e armazenadas como se fossem ampliadas em um quadro negro na mente."
 faqs:
-  - question: "Essa é uma rotina que você faz igual todos os dias?"
-    answer: "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo."
-  - question: "Se eu não tiver a ferramenta, como faço para substituí-la?"
-    answer: "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido."
+  - question: "Devo realizar esta rotina de caminhada e coleta ao ar livre todos os dias?"
+    answer: "Sim, respirar ar fresco pela manhã e concentrar-se no toque e textura de objetos naturais activa as áreas sensoriais e alivia o estresse."
+  - question: "Como posso substituir se não tiver um jardim ou terra?"
+    answer: "Basta caminhar em um parque e observar ou tocar com calma objetos com texturas naturais, como folhas, pétalas ou conchas."
 ---
 
 Georgia O'Keeffe, a madrinha da arte modernista americana e uma pintora que foi pioneira no estilo único de pintura de flores e ossos do deserto na história da arte ocidental do século 20, e fixou magnificamente as formas triviais da Mãe Natureza na tela usando a técnica focada de close-up. Ela ficou no meio do deserto árido e olhou durante horas para os ossos ásperos de animais despercebidos, os veios elaborados das flores murchas e a textura dos grãos de areia, ampliados 10x ou mais, como se através de uma lupa. Ela criou um impacto visual ao aproximar os menores detalhes de objetos em tamanho impressionante em toda a tela. Esse foco visual detalhado e rotina de renderização máxima foi o que a estabeleceu como uma mestra absoluta da arte moderna.
@@ -97,21 +97,21 @@ O treinamento que restringe extremamente a atenção a apenas uma parte muito pe
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Essa é uma rotina que você faz igual todos os dias?</span>
+      <span>Devo realizar esta rotina de caminhada e coleta ao ar livre todos os dias?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo.
+      Sim, respirar ar fresco pela manhã e concentrar-se no toque e textura de objetos naturais activa as áreas sensoriais e alivia o estresse.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Se eu não tiver a ferramenta, como faço para substituí-la?</span>
+      <span>Como posso substituir se não tiver um jardim ou terra?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.
+      Basta caminhar em um parque e observar ou tocar com calma objetos com texturas naturais, como folhas, pétalas ou conchas.
     </p>
   </details>
 </div>

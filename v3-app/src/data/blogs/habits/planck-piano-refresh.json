@@ -165,26 +165,50 @@
     "faqs": [
       {
         "question": {
-          "ko": "매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?",
-          "en": "How should I fill the journal on days when I have nothing special to write?",
-          "ja": "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？",
-          "zh": "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？",
-          "es": "¿Qué debo escribir en el diario los días en los que no pasa nada especial?",
-          "fr": "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?",
-          "de": "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?",
-          "pt": "O que devo escrever no diário nos dias em que não acontece nada de especial?",
-          "id": "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
+          "ko": "악보가 없는 피아노 즉흥 연주는 어떻게 시작하나요?",
+          "en": "How do I start a piano improvisation without sheet music?",
+          "ja": "楽譜がないピアノの即興演奏はどのように始めますか？",
+          "zh": "没有乐谱的钢琴即兴弹奏该如何开始？",
+          "es": "¿Cómo empiezo una improvisación de piano sin partitura?",
+          "fr": "Comment commencer une improvisation au piano sans partition ?",
+          "de": "Wie beginne ich eine Klavierimprovisation ohne Noten?",
+          "pt": "Como começo uma improvisação de piano sem partitura?",
+          "id": "Bagaimana cara memulai improvisasi piano tanpa lembar musik?"
         },
         "answer": {
-          "ko": "일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.",
-          "en": "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.",
-          "ja": "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。",
-          "zh": "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。",
-          "es": "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.",
-          "fr": "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.",
-          "de": "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.",
-          "pt": "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo.",
-          "id": "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+          "ko": "멜로디의 완벽성이나 불협화음에 개의치 않고 손가락이 가는 대로 건반의 무게감과 소리의 울림에 온 주의를 모아 자유롭게 누르는 것이 뇌의 주의력 네트워크를 이완하고 리셋하는 열쇠입니다.",
+          "en": "Freely press keys as your fingers lead without worrying about melody or dissonance. Focusing solely on the key touch and resonance relaxes and resets the brain's attention network.",
+          "ja": "メロディーの完璧さや不協和音にこだわらず、指の赴くまま鍵盤の重みと音の響きに全神経を集中させて自由に弾くことが、脳の注意ネットワークを弛緩させリセットする鍵です。",
+          "zh": "无需在乎旋律的完美与否或是不和谐音，指尖随心而动，将全部注意力集中在琴键的触感和声音的共鸣上，自由敲击是放松并重置大脑注意力网络的钥匙。",
+          "es": "Presiona las teclas libremente como tus dedos te guíen sin preocuparte por la melodía. Concentrarse solo en el tacto y la resonancia relaja y reinicia la red de atención cerebral.",
+          "fr": "Appuyez librement sur les touches selon l'inspiration sans vous soucier de la mélodie. Se concentrer sur le toucher et la résonance détend et réinitialise le réseau d'attention du cerveau.",
+          "de": "Drücken Sie die Tasten frei nach Gefühl, ohne sich um die Melodie zu sorgen. Die Konzentration auf den Tastenanschlag entspannt und setzt das Aufmerksamkeitsnetzwerk zurück.",
+          "pt": "Pressione as teclas livremente conforme seus dedos guiarem sem se preocupar com a melodia. Concentrar-se apenas no toque e na ressonância relaxa e reinicia la rede de atenção cerebral.",
+          "id": "Tekan tuts secara bebas tanpa mengkhawatirkan melodi. Fokus pada sentuhan tuts dan resonansi suara merelaksasi serta mengatur ulang jaringan konsentrasi otak."
+        }
+      },
+      {
+        "question": {
+          "ko": "피아노 대신 다른 악기로도 인지 리셋이 가능한가요?",
+          "en": "Can I achieve a cognitive reset with other instruments besides the piano?",
+          "ja": "ピアノの代わりに他の楽器でも認知リセットが可能ですか？",
+          "zh": "除了钢琴，用其他乐器也能实现认知重置吗？",
+          "es": "¿Puedo lograr un reinicio cognitivo con otros instrumentos además del piano?",
+          "fr": "Puis-je obtenir une réinitialisation cognitive avec d'autres instruments que le piano ?",
+          "de": "Kann ich einen kognitiven Reset mit anderen Instrumenten als dem Klavier erzielen?",
+          "pt": "Posso obter um reinício cognitivo com outros instrumentos além do piano?",
+          "id": "Apakah pengaturan ulang kognitif bisa dilakukan dengan alat musik selain piano?"
+        },
+        "answer": {
+          "ko": "네, 기타나 우쿨렐레 등 손가락의 정교한 감각을 요구하고 소리의 여운을 직접 조율할 수 있는 현악기나 건반악기류라면 무엇이든 뇌의 주의 네트워크 전환 효과를 제공합니다.",
+          "en": "Yes. Any string or keyboard instruments that require precise finger coordination and allow direct control over resonance will provide similar attention-shifting effects.",
+          "ja": "はい。ギターやウクレレなど、指の精巧な感覚を要求し、音の余韻を直接調整できる弦楽器や鍵盤楽器類であれば、何でも脳の注意ネットワーク切り替え効果を提供します。",
+          "zh": "可以。任何需要手指精细触感并能亲自控制余音的弦乐器或键盘乐器，都能提供类似的大脑注意力网络转换效果。",
+          "es": "Sí. Cualquier instrumento de cuerda o teclado que requiera coordinación fina y permita controlar la resonancia proporcionará efectos similares de cambio de atención.",
+          "fr": "Oui. Tout instrument à cordes ou à clavier nécessitant une coordination fine et permettant de contrôler la résonance fournira des effets similaires sur l'attention.",
+          "de": "Ja. Jedes Saiten- oder Tasteninstrument, das feine Koordination erfordert und Resonanzkontrolle ermöglicht, erzielt ähnliche Effekte.",
+          "pt": "Sim. Qualquer instrumento de corda ou teclado que exija coordenação fina e permita controlar a ressonância proporcionará efeitos semelhantes de mudança de atenção.",
+          "id": "Ya. Alat musik gesek, petik, atau tuts yang membutuhkan koordinasi jari halus dan kontrol suara langsung memberikan efek pengalihan perhatian yang serupa."
         }
       }
     ]

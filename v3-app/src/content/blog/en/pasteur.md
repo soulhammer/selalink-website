@@ -17,10 +17,10 @@ steps:
   - name: "Step 3: Objective gaze and meta-organizing"
     text: "After 1 hour, observe the subject again, measure very minute changes (1mm deviation, 1% indicator change, etc.), and perform feedback training to infer and analyze the cause-and-effect relationship for 1 minute and record it."
 faqs:
-  - question: "Is this a routine you perform the same every day?"
-    answer: "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit."
-  - question: "If I don't have the tool, how do I replace it?"
-    answer: "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided."
+  - question: "Should I perform this organizing ritual before work every day?"
+    answer: "Yes, cleaning lenses precisely before starting work gives the brain a cognitive organizing signal, maximizing work focus."
+  - question: "How can I substitute if I don't have microscopes or cleaning cloths?"
+    answer: "Wiping your computer monitor, organizing your desk, or cleaning your smartphone screen with a microfiber cloth before starting your daily work achieves the same effect."
 ---
 
 Louis Pasteur, an absolute pioneer of modern medicine and microbiology and a French genius chemist who pioneered vaccines, saved humanity from the fear of infectious diseases by inventing pasteurization and anthrax/rabies vaccines. He sat at his lab desk and stared motionless for hours at a flask of culture under a microscope magnifying glass. He meticulously drew and recorded the minute shaking traces left behind by microorganisms as they proliferate in his notebook. His disinfection method and vaccine discovery were born from this observational feedback routine while staring at the flask.
@@ -97,21 +97,21 @@ The act of forming a hypothesis and inputting the trajectory of changes in the s
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Is this a routine you perform the same every day?</span>
+      <span>Should I perform this organizing ritual before work every day?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.
+      Yes, cleaning lenses precisely before starting work gives the brain a cognitive organizing signal, maximizing work focus.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>If I don't have the tool, how do I replace it?</span>
+      <span>How can I substitute if I don't have microscopes or cleaning cloths?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.
+      Wiping your computer monitor, organizing your desk, or cleaning your smartphone screen with a microfiber cloth before starting your daily work achieves the same effect.
     </p>
   </details>
 </div>

@@ -17,8 +17,10 @@ steps:
   - name: "Supprimer le choix de la tenue le matin"
     text: "Habillez-vous dès le réveil avec la première tenue disponible sans réfléchir, préservant ainsi l'énergie de votre cerveau pour la journée."
 faqs:
-  - question: "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?"
-    answer: "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction."
+  - question: "Comment gérez-vous les réunions importantes ou les événements formels avec cette habitude ?"
+    answer: "Comment gérez-vous les réunions importantes ou les événements formels avec cette habitude ?"
+  - question: "Puis-je composer un uniforme avec des vêtements autres que des t-shirts et des jeans ?"
+    answer: "Bien sûr. Choisir une combinaison simple et confortable de chemises, pantalons ou robes dans laquelle vous vous sentez à l'aise et en posséder plusieurs exemplaires suffit largement."
 ---
 
 Mark Zuckerberg, fondateur de Facebook. Face à des milliers de choix critiques qui impactent Meta, il a mis en place une routine : ne jamais choisir ses vêtements. Son armoire ne contient que des t-shirts gris identiques. Voyons comment chaque choix consomme de l'énergie et mène à la fatigue décisionnelle.
@@ -91,13 +93,23 @@ Le cortex préfrontal dispose d'une énergie limitée. Chaque choix, même mineu
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?</span>
+      <span>Comment gérez-vous les réunions importantes ou les événements formels avec cette habitude ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.
+      Comment gérez-vous les réunions importantes ou les événements formels avec cette habitude ?
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Puis-je composer un uniforme avec des vêtements autres que des t-shirts et des jeans ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Bien sûr. Choisir une combinaison simple et confortable de chemises, pantalons ou robes dans laquelle vous vous sentez à l'aise et en posséder plusieurs exemplaires suffit largement.
     </p>
   </details>
 </div>

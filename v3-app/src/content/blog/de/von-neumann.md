@@ -17,10 +17,10 @@ steps:
   - name: "Schritt 3: Objektive Betrachtung und Meta-Organisation"
     text: "Ich kontrolliere die Grenzen meines Bewusstseins streng und konzentriere mich auf das Lesen von Sätzen, als würde ich einen transparenten Schutz in meinen Kopf legen, um zu verhindern, dass Lärmreize meinen kognitiven Filter durchdringen."
 faqs:
-  - question: "Ist das eine Routine, die Sie jeden Tag gleich durchführen?"
-    answer: "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und langfristige Neuronenschaltkreise aufzubauen."
-  - question: "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?"
-    answer: "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist."
+  - question: "Sollte ich diese Musik-Routine jeden Tag vor schwierigen Aufgaben durchführen?"
+    answer: "Ja, die Einschränkung des Fokus und der Einstieg in komplexe Konzentration durch geräuschvolle Rhythmen."
+  - question: "Wie kann ich den Grammophon-Ersatz nutzen, wenn ich keinen habe?"
+    answer: "Nutzen Sie Kopfhörer mit schnellem weißem Rauschen, mechanischen Klängen oder rhythmischer Musik, um den Fokus zu starten."
 ---
 
 John von Neumann, der intelligenteste Mensch der Menschheitsgeschichte und ein genialer Mathematiker aus Ungarn, der im Alleingang die Grundlagen moderner Humanstudien (Spieltheorie, Neumann-Architektur) in allen Bereichen, einschließlich Mathematik, Informatik, Wirtschaftswissenschaften und Quantenmechanik, entworfen hat. Er war in der Lage, komplexe mathematische Formeln und Computerarchitekturformeln ohne Schwierigkeiten abzuleiten, selbst während er in einer Ecke einer Party bei lauter Musik oder auf einer Bank in einem lauten Wartezimmer saß, wo ein Zug wackelte und Dampf ausströmte. Egal wie laut seine Umgebung war, er isolierte seine kognitiven Ressourcen ausschließlich auf der virtuellen Tafel, die er in seinem Kopf konstruiert hatte. Diese Routine der Isolation und des Eintauchens in weißes Rauschen machte ihn zum genialsten Mathematiker der Geschichte.
@@ -97,21 +97,21 @@ Der Vorgang der künstlichen Aufrechterhaltung der Immersion unter einem bestimm
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Ist das eine Routine, die Sie jeden Tag gleich durchführen?</span>
+      <span>Sollte ich diese Musik-Routine jeden Tag vor schwierigen Aufgaben durchführen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und langfristige Neuronenschaltkreise aufzubauen.
+      Ja, die Einschränkung des Fokus und der Einstieg in komplexe Konzentration durch geräuschvolle Rhythmen.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?</span>
+      <span>Wie kann ich den Grammophon-Ersatz nutzen, wenn ich keinen habe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.
+      Nutzen Sie Kopfhörer mit schnellem weißem Rauschen, mechanischen Klängen oder rhythmischer Musik, um den Fokus zu starten.
     </p>
   </details>
 </div>

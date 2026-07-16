@@ -17,10 +17,10 @@ steps:
   - name: "Paso 3: Mirada objetiva y metaorganización"
     text: "Con base en las tres palabras clave resaltadas, saque una línea de acción a tomar hoy, reinicie claramente la batería cerebral en su cabeza y escríbala."
 faqs:
-  - question: "¿Es esta una rutina que realizas igual todos los días?"
-    answer: "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo."
-  - question: "Si no tengo la herramienta, ¿cómo la reemplazo?"
-    answer: "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada."
+  - question: "¿Debo realizar esta rutina de preparación de agenda todas las mañanas?"
+    answer: "Sí, revisar las prioridades en voz alta 30 minutos antes del trabajo preactiva el control ejecutivo de la corteza prefrontal."
+  - question: "¿Cómo puedo sustituir este hábito si no tengo un tablero de notas dedicado?"
+    answer: "Simplemente decirse a sí mismo en voz alta en una habitación tranquila las 3 tareas clave del día anotadas en un cuaderno es suficiente."
 ---
 
 Margaret Thatcher, la primera mujer primera ministra de Gran Bretaña y la dama de hierro que superó con frialdad y firmeza las dificultades de la crisis económica británica mediante reformas conservadoras de línea dura y reestructuración económica, colocando a Gran Bretaña en una posición poderosa. Se sentaba en el estudio de la Oficina del Primer Ministro todas las noches hasta las 2 o 3 de la madrugada, examinando cientos de páginas de voluminosos documentos e informes de proyectos de ley presentados por funcionarios del gabinete. Con un marcador amarillo en la mano, fue entre líneas del informe, ignorando la retórica innecesaria y el texto burocrático, rastreando y subrayando sólo tres pilares clave: la viabilidad de las políticas nacionales, los indicadores presupuestarios y las cuestiones legales. Esta rutina de mechas nocturnas fue la fuerza de voluntad que ayudó a superar los difíciles problemas de Gran Bretaña de una sola vez.
@@ -97,21 +97,21 @@ El acto de extraer ejes de información clave a partir de datos masivos y realiz
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Es esta una rutina que realizas igual todos los días?</span>
+      <span>¿Debo realizar esta rutina de preparación de agenda todas las mañanas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.
+      Sí, revisar las prioridades en voz alta 30 minutos antes del trabajo preactiva el control ejecutivo de la corteza prefrontal.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si no tengo la herramienta, ¿cómo la reemplazo?</span>
+      <span>¿Cómo puedo sustituir este hábito si no tengo un tablero de notas dedicado?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.
+      Simplemente decirse a sí mismo en voz alta en una habitación tranquila las 3 tareas clave del día anotadas en un cuaderno es suficiente.
     </p>
   </details>
 </div>

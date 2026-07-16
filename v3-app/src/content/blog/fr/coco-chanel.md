@@ -17,10 +17,10 @@ steps:
   - name: "Étape 3 : Recherche d'objectifs et méta-organisation"
     text: "Préservez le noyau en effectuant un exercice de suppression d'embellissement extrême de deux minutes qui ne laisse que la phrase d'une ligne la plus essentielle (ou un outil essentiel)."
 faqs:
-  - question: "Est-ce une routine que vous effectuez de la même manière tous les jours ?"
-    answer: "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire des circuits neuronaux à long terme."
-  - question: "Si je n'ai pas l'outil, comment puis-je le remplacer ?"
-    answer: "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni."
+  - question: "Dois-je faire cette routine d'isolement tous les soirs ?"
+    answer: "Oui, en établissant une frontière nette entre travail et repos grâce à un rituel d'isolement olfactif seul après le travail."
+  - question: "Comment puis-je remplacer les parfums ou la chambre d'hôtel si je n'en ai pas ?"
+    answer: "Éteindre votre smartphone pendant 15 minutes dans un coin calme de la maison en utilisant un diffuseur ou un baume produit le même effet."
 ---
 
 Coco Chanel est une créatrice de mode française qui a mené une révolution dans le design de mode au XXe siècle et a libéré les femmes de l'oppression des corsets, et la fondatrice de la marque Chanel. Coco Chanel a présenté la liberté essentielle du vêtement féminin à travers la beauté noire et simple (Simple is best). Debout dans son atelier, elle a parcouru le tissu directement sur le corps du modèle et, avec seulement une paire de ciseaux à la main, elle a impitoyablement coupé les corsets encombrants et lourds, les cols massifs et les dentelles inutiles du XIXe siècle. Au lieu d’effacer des lignes avec un stylo, elle a senti la tension du tissu et les a découpés, créant ainsi une simplification minimaliste permettant aux femmes de se déplacer librement et d’exercer leur conscience corporelle.
@@ -97,21 +97,21 @@ L'acte de couper visuellement, supprimant les informations inutiles en excès et
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Est-ce une routine que vous effectuez de la même manière tous les jours ?</span>
+      <span>Dois-je faire cette routine d'isolement tous les soirs ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire des circuits neuronaux à long terme.
+      Oui, en établissant une frontière nette entre travail et repos grâce à un rituel d'isolement olfactif seul après le travail.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si je n'ai pas l'outil, comment puis-je le remplacer ?</span>
+      <span>Comment puis-je remplacer les parfums ou la chambre d'hôtel si je n'en ai pas ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.
+      Éteindre votre smartphone pendant 15 minutes dans un coin calme de la maison en utilisant un diffuseur ou un baume produit le même effet.
     </p>
   </details>
 </div>

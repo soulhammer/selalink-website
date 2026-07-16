@@ -165,50 +165,50 @@
     "faqs": [
       {
         "question": {
-          "en": "Is this a routine you perform the same every day?",
-          "ko": "매일 똑같이 수행하는 루틴인가요?",
-          "ja": "これはあなたが毎日行うルーチンですか？",
-          "zh": "这是你每天都会做的例行公事吗？",
-          "es": "¿Es esta una rutina que realizas igual todos los días?",
-          "fr": "Est-ce une routine que vous effectuez de la même manière tous les jours ?",
-          "de": "Ist das eine Routine, die Sie jeden Tag gleich durchführen?",
-          "pt": "Essa é uma rotina que você faz igual todos os dias?",
-          "id": "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
+          "ko": "매일 정원 가꾸기 루틴을 수행해야 하나요?",
+          "en": "Should I perform this gardening routine every day?",
+          "ja": "毎日ガーデニングルーティンを行うべきですか？",
+          "zh": "每天都需要进行这种园艺规程吗？",
+          "es": "¿Debo realizar esta rutina de jardinería todos los días?",
+          "fr": "Dois-je faire cette routine de jardinage chaque jour ?",
+          "de": "Sollte ich diese Gartenarbeitsroutine jeden Tag durchführen?",
+          "pt": "Devo realizar esta rotina de jardinagem todos os dias?",
+          "id": "Haruskah saya melakukan rutinitas berkebun ini setiap hari?"
         },
         "answer": {
-          "en": "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.",
-          "ko": "네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.",
-          "ja": "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。",
-          "zh": "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。",
-          "es": "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.",
-          "fr": "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.",
-          "de": "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.",
-          "pt": "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo.",
-          "id": "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
+          "ko": "네, 정원의 흙을 만지고 잡초를 솎아내는 물리적 신체 노동이 문학적 몰입에 지친 전두엽을 휴식하게 만듭니다.",
+          "en": "Yes, physical labor like touching soil and weeding relaxes the prefrontal cortex exhausted from intense literary focus.",
+          "ja": "庭の土を触って雑草を抜く物理的な身体労働が、文学的な没頭に疲れた前頭葉を休息させます。",
+          "zh": "是的，触摸泥土、拔除杂草等体力劳动，能让因文学创作而疲惫的前额叶得到休息。",
+          "es": "Sí, el trabajo físico como tocar tierra y deshierbar relaja la corteza prefrontal agotada por el intenso enfoque mental.",
+          "fr": "Oui, le travail physique como toucher la terre et désherber repose le cortex préfrontal fatigué par la concentration.",
+          "de": "Ja, körperliche Arbeit wie das Berühren der Erde und Unkrautjäten entspannt den präfrontalen Kortex nach geistiger Anstrengung.",
+          "pt": "Sim, o trabalho físico como tocar na terra e capinar relaxa o córtex pré-frontal exausto pelo foco literário intenso.",
+          "id": "Ya, pekerjaan fisik seperti menyentuh tanah dan mencabut gulma mengistirahatkan korteks prefrontal yang lelah akibat fokus mental."
         }
       },
       {
         "question": {
-          "en": "If I don't have the tool, how do I replace it?",
-          "ko": "도구가 없으면 어떻게 대체하나요?",
-          "ja": "ツールを持っていない場合、どうやって交換すればよいですか?",
-          "zh": "如果我没有该工具，如何更换？",
-          "es": "Si no tengo la herramienta, ¿cómo la reemplazo?",
-          "fr": "Si je n'ai pas l'outil, comment puis-je le remplacer ?",
-          "de": "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?",
-          "pt": "Se eu não tiver a ferramenta, como faço para substituí-la?",
-          "id": "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
+          "ko": "가꿀 정원이나 흙이 없으면 어떻게 대체하나요?",
+          "en": "How can I substitute if I don't have a garden or soil?",
+          "ja": "手入れする庭や土がない場合はどうすればいいですか？",
+          "zh": "没有可以打理的家庭花园或泥土时该如何替代？",
+          "es": "¿Cómo puedo sustituir este hábito si no tengo un jardín o tierra?",
+          "fr": "Comment puis-je remplacer cette routine si je n'ai ni jardin ni terre ?",
+          "de": "Wie kann ich die Routine ersetzen, wenn ich keinen Garten oder keine Erde habe?",
+          "pt": "Como posso substituir se não tiver um jardim ou terra?",
+          "id": "Bagaimana cara menggantinya jika saya tidak memiliki kebun atau tanah?"
         },
         "answer": {
-          "en": "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.",
-          "ko": "안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.",
-          "ja": "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。",
-          "zh": "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。",
-          "es": "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.",
-          "fr": "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.",
-          "de": "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.",
-          "pt": "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.",
-          "id": "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+          "ko": "베란다의 작은 실내 화분을 돌보거나, 분갈이를 하고, 마른 잎을 다듬어주는 식물 관리 활동으로 훌륭히 대체 가능합니다.",
+          "en": "Caring for small indoor plants on a balcony, repotting, or trimming dry leaves is an excellent substitute.",
+          "ja": "ベランダの小さな室内植木鉢を世話したり、植え替えをしたり、枯れ葉を整える植物管理活動で立派に代替可能です。",
+          "zh": "照料阳台上的室内小盆栽、进行换盆、或者修剪枯叶等养花弄草的活动，也是极佳的替代方案。",
+          "es": "Cuidar plantas de interior en un balcón, trasplantar o podar hojas secas es un excelente sustituto.",
+          "fr": "Prendre soin de petites plantes d'intérieur sur un balcon, rempoter ou tailler des feuilles sèches est un excellent substitut.",
+          "de": "Das Pflegen kleiner Zimmerpflanzen, Umtopfen oder das Abschneiden trockener Blätter ist ein hervorragender Ersatz.",
+          "pt": "Cuidar de pequenas plantas de interior em uma varanda, replantar ou aparar folhas secas é um excelente substituto.",
+          "id": "Merawat tanaman hias kecil di balkon, mengganti pot, atau memotong daun kering adalah alternatif pengganti yang bagus."
         }
       }
     ],

@@ -17,8 +17,10 @@ steps:
   - name: "基于提问修改思路并做笔记"
     text: "将伙伴提出的问题或在自身口述过程中发现的想法矛盾点、以及理清的解决线索即刻记录在笔记本上，收集起来。"
 faqs:
-  - question: "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？"
-    answer: "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。"
+  - question: "在没有同事讨论的单人环境下，该如何实践？"
+    answer: "可以打开手机录音机或AI备忘录，像自言自语一样阐述自己的想法。重要的不是听众的存在，而是大声把想法说出来并使其语言化的脑部刺激过程。"
+  - question: "如何将口述讨论中产生的内容转化为有成效的结果？"
+    answer: "可以在说话过程中将灵感简单记录在笔记本上，或者稍后将AI语音转文字（STT）的结果保存为文档，整理成核心想法大纲。"
 ---
 
 创立了现代物理学最大支柱量子力学、因揭示原子结构秘密而荣获诺贝尔物理学奖的巨匠尼尔斯·玻尔。尽管玻尔拥有历史上最伟大的科学直觉，但令人意外的是，他很难独自安静地坐在书桌前撰写论文或将复杂的想法整理成文字。玻尔有一种将想法具象化的独特仪式。他总是让妻子玛格丽特或弟子海森堡、狄拉克等人站在自己房间 of 黑尔戈兰岛的黑尔戈兰岛黑尔戈兰岛前，自己像自言自语一样不断解释或展开激烈讨论，同时让他们记录下自己的话语。我们深入剖析玻尔通过与他人对话这一火花将脑海中模糊想法转化为清晰知识的口述思索原理。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？</span>
+      <span>在没有同事讨论的单人环境下，该如何实践？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。
+      可以打开手机录音机或AI备忘录，像自言自语一样阐述自己的想法。重要的不是听众的存在，而是大声把想法说出来并使其语言化的脑部刺激过程。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>如何将口述讨论中产生的内容转化为有成效的结果？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      可以在说话过程中将灵感简单记录在笔记本上，或者稍后将AI语音转文字（STT）的结果保存为文档，整理成核心想法大纲。
     </p>
   </details>
 </div>

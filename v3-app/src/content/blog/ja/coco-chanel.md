@@ -17,10 +17,10 @@ steps:
   - name: "ステップ 3: 客観視とメタ整理"
     text: "最も重要な 1 行の文 (または 1 つの重要なツール) だけを残す、2 分間の極端な装飾の抑制演習を実行して、核心を保持します。"
 faqs:
-  - question: "これはあなたが毎日行うルーチンですか？"
-    answer: "そう、毎日決まった時間に3分間軽く行うことが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。"
-  - question: "ツールを持っていない場合、どうやって交換すればよいですか?"
-    answer: "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。"
+  - question: "毎晩この断絶ルーティンを行うべきですか？"
+    answer: "はい、仕事の後に完全に一人で香りを感じながら脳を休ませる断絶儀式を通じて、仕事と休息の境界を明確に区分します。"
+  - question: "アロマ香水やホテルの部屋がない場合はどうすればいいですか？"
+    answer: "家の中の整理された隅の空間で、軽いディフューザーやマルチバームの香りを感じながら15分間スマートフォンをオフにする隔離状態でも同じ効果が得られます。"
 ---
 
 ココ・シャネルは、20世紀のファッションデザイン革命を主導し、女性をコルセットの抑圧から解放したフランスのファッションデザイナーであり、シャネルブランドの創設者です。ココ・シャネルは、黒とシンプルな美しさ（シンプル・イズ・ベスト）を通して、婦人服の本質的な自由を提示しました。スタジオに立った彼女は、モデルの体の真上の布地を通り抜け、ハサミだけを手に、19世紀の扱いにくく重いコルセット、巨大な襟、不必要なレースを容赦なく切り落とした。ペンで線を消すのではなく、布地の張力を感じて切り取ることで、女性が自由に動き回り、身体意識を働かせることができるミニマルな簡素化を生み出しました。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>これはあなたが毎日行うルーチンですか？</span>
+      <span>毎晩この断絶ルーティンを行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      そう、毎日決まった時間に3分間軽く行うことが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。
+      はい、仕事の後に完全に一人で香りを感じながら脳を休ませる断絶儀式を通じて、仕事と休息の境界を明確に区分します。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>ツールを持っていない場合、どうやって交換すればよいですか?</span>
+      <span>アロマ香水やホテルの部屋がない場合はどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。
+      家の中の整理された隅の空間で、軽いディフューザーやマルチバームの香りを感じながら15分間スマートフォンをオフにする隔離状態でも同じ効果が得られます。
     </p>
   </details>
 </div>

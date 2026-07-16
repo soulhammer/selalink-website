@@ -17,10 +17,10 @@ steps:
   - name: "Schritt 3: Objektiver Blick und Metaorganisation"
     text: "Indem ich die motorischen Zellen des Gehirns präzise auf eine Zeitlupenbahn synchronisiere, beobachte und zeichne ich die Reibungskraft und physikalischen Grenzen meines Körpers auf."
 faqs:
-  - question: "Ist das eine Routine, die Sie jeden Tag gleich durchführen?"
-    answer: "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen."
-  - question: "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?"
-    answer: "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist."
+  - question: "Sollte ich die Tonleiterübungen jeden Morgen direkt nach dem Aufstehen machen?"
+    answer: "Ja, einfache Fingerübungen nach dem Aufstehen aktivieren den motorischen Kortex und fokussieren die Aufmerksamkeit."
+  - question: "Wie kann ich das Klavier ersetzen, wenn ich keins habe?"
+    answer: "Tippen Sie Ihre Finger nacheinander auf dem Schreibtisch im Takt eines Metronoms. Das aktiviert ebenfalls den motorischen Kortex."
 ---
 
 Der ungarische Komponist Franz Liszt, Kaiser des Klaviers in der Romantik des 19. Jahrhunderts und größter virtuoser Pianist seiner Zeit, erweiterte die Ausdrucksgrenzen der Klaviermusik durch überwältigende Raffinesse und Übungsmethoden auf das Maximum. Anstatt das schnelle und rücksichtslose Spielen auf der Tastatur zu üben, übte er jeden Tag, indem er das Tempo des Metronoms auf ein extremes Zeitlupenniveau verlangsamte und nur eine Taste pro Sekunde fehlerfrei spielte. Er programmierte die perfekten Muskelbewegungsbahnen der Tastatur in sein Gehirn und nutzte sie dann, um magische, spektakuläre Bewegungen zu erzeugen.
@@ -97,21 +97,21 @@ Das Training zur bewussten Steuerung der Bewegungen von Fingern und Körpermuske
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Ist das eine Routine, die Sie jeden Tag gleich durchführen?</span>
+      <span>Sollte ich die Tonleiterübungen jeden Morgen direkt nach dem Aufstehen machen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.
+      Ja, einfache Fingerübungen nach dem Aufstehen aktivieren den motorischen Kortex und fokussieren die Aufmerksamkeit.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?</span>
+      <span>Wie kann ich das Klavier ersetzen, wenn ich keins habe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.
+      Tippen Sie Ihre Finger nacheinander auf dem Schreibtisch im Takt eines Metronoms. Das aktiviert ebenfalls den motorischen Kortex.
     </p>
   </details>
 </div>

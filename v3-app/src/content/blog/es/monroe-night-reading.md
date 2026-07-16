@@ -17,8 +17,10 @@ steps:
   - name: "Escribir una línea de reflexión y nota emocional"
     text: "Al concluir, escriba una frase destacada del libro o su estado emocional del día en el diario y concilie el sueño inmediatamente."
 faqs:
-  - question: "¿Qué debo escribir en el diario los días en los que no pasa nada especial?"
-    answer: "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detail por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo."
+  - question: "¿Leer antes de acostarse estimula el cerebro e interrumpe el sueño?"
+    answer: "Lee libros físicos en lugar de pantallas. Elegir libros no estimulantes como poesía o ensayos bajo una luz tenue induce ondas alfa, ayudándote a conciliar el sueño."
+  - question: "¿Cómo puedo registrar pasajes favoritos durante la lectura nocturna sin interrumpir el sueño?"
+    answer: "En lugar de encender la computadora, simplemente usa notas adhesivas o dobla las esquinas de las páginas, y transfiérelas a tu archivo digital a la mañana siguiente."
 ---
 
 Marilyn Monroe, el ícono del cine de Hollywood. Detrás de su imagen glamorosa, sufría el asedio constante de la prensa. Su forma de proteger su identidad era un ritual noctuarno: leía clásicos como James Joyce y escribía poemas en cuadernos personales. Analicemos cómo la lectura reduce el impacto del cortisol y restablece el pensamiento lógico del córtice prefrontal.
@@ -91,13 +93,23 @@ La exposición constante al estrés eleva el sistema simpático, dificultando el
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Qué debo escribir en el diario los días en los que no pasa nada especial?</span>
+      <span>¿Leer antes de acostarse estimula el cerebro e interrumpe el sueño?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detail por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.
+      Lee libros físicos en lugar de pantallas. Elegir libros no estimulantes como poesía o ensayos bajo una luz tenue induce ondas alfa, ayudándote a conciliar el sueño.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>¿Cómo puedo registrar pasajes favoritos durante la lectura nocturna sin interrumpir el sueño?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      En lugar de encender la computadora, simplemente usa notas adhesivas o dobla las esquinas de las páginas, y transfiérelas a tu archivo digital a la mañana siguiente.
     </p>
   </details>
 </div>

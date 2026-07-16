@@ -165,50 +165,50 @@
     "faqs": [
       {
         "question": {
-          "en": "Is this a routine you perform the same every day?",
-          "ko": "매일 똑같이 수행하는 루틴인가요?",
-          "ja": "これはあなたが毎日行うルーチンですか？",
-          "zh": "这是你每天都会做的例行公事吗？",
-          "es": "¿Es esta una rutina que realizas igual todos los días?",
-          "fr": "Est-ce une routine que vous effectuez de la même manière tous les jours ?",
-          "de": "Ist das eine Routine, die Sie jeden Tag gleich durchführen?",
-          "pt": "Essa é uma rotina que você faz igual todos os dias?",
-          "id": "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
+          "ko": "매일 어려운 과제 돌입 전 이 음악 몰입 루틴을 수행해야 하나요?",
+          "en": "Should I perform this music immersion routine before difficult tasks every day?",
+          "ja": "毎日難しい課題に入る前に、この音楽没入ルーティンを行うべきですか？",
+          "zh": "每天攻克难题前都需要进行这个音乐沉浸规程吗？",
+          "es": "¿Debo realizar esta rutina de inmersión musical antes de tareas difíciles todos los días?",
+          "fr": "Dois-je faire cette routine d'immersion musicale avant les tâches difficiles chaque jour ?",
+          "de": "Sollte ich diese Musik-Routine jeden Tag vor schwierigen Aufgaben durchführen?",
+          "pt": "Devo realizar esta rotina de imersão musical antes de tarefas difíceis todos os dias?",
+          "id": "Haruskah saya melakukan rutinitas musik ini sebelum tugas sulit setiap hari?"
         },
         "answer": {
-          "en": "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build long-term neuron circuits.",
-          "ko": "네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.",
-          "ja": "そう、毎日決まった時間に3分間軽く行うことが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。",
-          "zh": "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。",
-          "es": "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir circuitos neuronales a largo plazo.",
-          "fr": "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire des circuits neuronaux à long terme.",
-          "de": "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und langfristige Neuronenschaltkreise aufzubauen.",
-          "pt": "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir circuitos neuronais de longo prazo.",
-          "id": "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
+          "ko": "네, 소음이 섞인 활기찬 리듬을 통해 극도의 인지 주의 폭을 좁히고 복잡한 연산 집중에 진입했습니다.",
+          "en": "Yes, narrowing cognitive focus and entering complex mathematical concentration using an energetic rhythm mixed with noise.",
+          "ja": "はい、騒音の混ざった活気あるリズムを通じて極度の認知注意幅を狭め、複雑な演算集中に入りました。",
+          "zh": "是的，通过夹杂着噪音的活泼节奏来收窄极端的认知注意范围，从而进入复杂的运算集中状态。",
+          "es": "Sí, estrechar el enfoque cognitivo e ingresar a la concentración compleja mediante un ritmo enérgico mezclado con ruido.",
+          "fr": "Oui, limiter le champ d'attention et entrer dans une concentration complexe grâce à un rythme énergique mêlé de bruit.",
+          "de": "Ja, die Einschränkung des Fokus und der Einstieg in komplexe Konzentration durch geräuschvolle Rhythmen.",
+          "pt": "Sim, estreitar o foco cognitivo e entrar em concentração complexa por meio de um ritmo enérgico misturado com ruído.",
+          "id": "Ya, menyempitkan fokus kognitif dan masuk ke konsentrasi matematika rumit menggunakan irama energik bercampur kebisingan."
         }
       },
       {
         "question": {
-          "en": "If I don't have the tool, how do I replace it?",
-          "ko": "도구가 없으면 어떻게 대체하나요?",
-          "ja": "ツールを持っていない場合、どうやって交換すればよいですか?",
-          "zh": "如果我没有该工具，如何更换？",
-          "es": "Si no tengo la herramienta, ¿cómo la reemplazo?",
-          "fr": "Si je n'ai pas l'outil, comment puis-je le remplacer ?",
-          "de": "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?",
-          "pt": "Se eu não tiver a ferramenta, como faço para substituí-la?",
-          "id": "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
+          "ko": "소음 축음기나 전용 기기가 없으면 어떻게 대체하나요?",
+          "en": "How can I substitute if I don't have noise-generating phonographs?",
+          "ja": "騒音蓄音機や専用機器がない場合はどうすればいいですか？",
+          "zh": "没有噪音蓄音机或专用设备时该如何替代？",
+          "es": "¿Cómo puedo sustituir este hábito si no tengo fonógrafos generadores de ruido?",
+          "fr": "Comment puis-je remplacer le phonographe si je n'en ai pas ?",
+          "de": "Wie kann ich den Grammophon-Ersatz nutzen, wenn ich keinen habe?",
+          "pt": "Como posso substituir se não tiver fonógrafos geradores de ruído?",
+          "id": "Bagaimana cara menggantinya jika saya tidak memiliki gramofon penghasil bising?"
         },
         "answer": {
-          "en": "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.",
-          "ko": "안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.",
-          "ja": "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。",
-          "zh": "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。",
-          "es": "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.",
-          "fr": "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.",
-          "de": "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.",
-          "pt": "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.",
-          "id": "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+          "ko": "이어폰으로 빠른 템포의 백색 소음, 기계음 앰비언트 사운드, 혹은 경쾌한 비트의 음악을 틀어놓고 몰입을 시작하는 것으로 대체 가능합니다.",
+          "en": "You can substitute by playing fast-paced white noise, mechanical ambient sounds, or upbeat music through earphones to start your focus.",
+          "ja": "イヤホンでテンポの速いホワイトノイズ、機械音アンビエントサウンド、あるいは軽快なビートの音楽を流して没頭を開始することで代替可能です。",
+          "zh": "可以通过耳机播放快节奏的白噪音、机械白噪音环境音，或者轻快节奏的音乐来开启沉浸状态。",
+          "es": "Puedes sustituirlo reproduciendo ruido blanco de ritmo rápido, sonidos ambientales mecánicos o música alegre con auriculares.",
+          "fr": "Écouter un bruit blanc rapide, des sons d'ambiance mécanique ou de la musique rythmée au casque produit le même effet.",
+          "de": "Nutzen Sie Kopfhörer mit schnellem weißem Rauschen, mechanischen Klängen oder rhythmischer Musik, um den Fokus zu starten.",
+          "pt": "Você pode substituir reproduzindo ruído branco de ritmo rápido, sons ambientes mecânicos ou música animada com fones de ouvido.",
+          "id": "Anda dapat menggantinya dengan memutar derau putih bertempo cepat, suara lingkungan mekanis, atau musik berirama cepat via fon telinga."
         }
       }
     ],

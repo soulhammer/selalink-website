@@ -17,10 +17,10 @@ steps:
   - name: "Étape 3 : Regard objectif et méta-organisation"
     text: "Les trois caractéristiques morphologiques cachées uniques des objets découverts grâce à l'observation sont imprimées et stockées comme s'il s'agissait d'un rendu agrandi sur un tableau noir dans l'esprit."
 faqs:
-  - question: "Est-ce une routine que vous effectuez de la même manière tous les jours ?"
-    answer: "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme."
-  - question: "Si je n'ai pas l'outil, comment puis-je le remplacer ?"
-    answer: "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni."
+  - question: "Dois-je faire cette routine de marche et de collecte en plein air chaque jour ?"
+    answer: "Oui, respirer l'air frais du matin et se concentrer sur la texture d'objets naturels stimule les zones sensorielles et libère le stress."
+  - question: "Comment puis-je remplacer cette routine si je ne suis pas dans un désert ou milieu rocheux ?"
+    answer: "Marchez dans un parc et observez ou touchez des éléments aux textures naturelles simples, comme des feuilles, des pétales ou des coquillages."
 ---
 
 Georgia O'Keeffe, la marraine de l'art moderniste américain et une femme peintre qui a été la pionnière du style unique de peinture de fleurs et d'os du désert dans l'histoire de l'art occidental du 20e siècle, et a magnifiquement fixé les formes triviales de Mère Nature sur toile en utilisant la technique du gros plan ciblé. Elle se tenait au milieu du désert aride et regardait pendant des heures les os rugueux d'animaux inaperçus, les veines élaborées de fleurs fanées et la texture des grains de sable, agrandies 10 fois ou plus comme à travers une loupe. Elle a créé un impact visuel en gros plan sur les moindres détails des objets en taille impressionnante sur toute la toile. Cette concentration visuelle détaillée et cette routine de rendu maximal sont ce qui a fait d'elle un maître absolu de l'art moderne.
@@ -97,21 +97,21 @@ Un entraînement qui réduit considérablement l'attention à seulement une trè
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Est-ce une routine que vous effectuez de la même manière tous les jours ?</span>
+      <span>Dois-je faire cette routine de marche et de collecte en plein air chaque jour ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.
+      Oui, respirer l'air frais du matin et se concentrer sur la texture d'objets naturels stimule les zones sensorielles et libère le stress.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si je n'ai pas l'outil, comment puis-je le remplacer ?</span>
+      <span>Comment puis-je remplacer cette routine si je ne suis pas dans un désert ou milieu rocheux ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.
+      Marchez dans un parc et observez ou touchez des éléments aux textures naturelles simples, comme des feuilles, des pétales ou des coquillages.
     </p>
   </details>
 </div>

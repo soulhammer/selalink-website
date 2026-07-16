@@ -17,10 +17,10 @@ steps:
   - name: "Step 3: Objective gaze and meta-organization"
     text: "Based on the three highlighted keywords, pull out one line of action to be taken today, clearly reset the brain battery in your head, and write it down."
 faqs:
-  - question: "Is this a routine you perform the same every day?"
-    answer: "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit."
-  - question: "If I don't have the tool, how do I replace it?"
-    answer: "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided."
+  - question: "Should I perform this schedule briefing routine every morning?"
+    answer: "Yes, reviewing schedule priorities aloud 30 minutes before starting busy work pre-activates the prefrontal cortex's executive control."
+  - question: "How can I substitute if I don't have a dedicated memo board or briefing facilities?"
+    answer: "Simply reciting and declaring the top 3 core tasks of today written in a notepad to yourself in a quiet room is a sufficient substitute."
 ---
 
 Margaret Thatcher, Britain's first female prime minister and the iron lady who coolly and firmly overcame the difficulties of Britain's economic downturn through hard-line conservative reforms and economic restructuring, putting Britain in a powerful position. She sat in the study of the Prime Minister's Office every night until 2 or 3 a.m., perusing hundreds of pages of voluminous documents and bill reports submitted by cabinet officials. With a yellow highlighter in hand, she went between the lines of the report, ignoring the unnecessary rhetoric and bureaucratic text, tracing and underlining only three key pillars: the feasibility of national policies, budgetary indicators, and legal issues. This late-night highlighting routine was the willpower that helped overcome Britain's difficult problems in one go.
@@ -97,21 +97,21 @@ The act of extracting key information axes from massive data and performing visu
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Is this a routine you perform the same every day?</span>
+      <span>Should I perform this schedule briefing routine every morning?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.
+      Yes, reviewing schedule priorities aloud 30 minutes before starting busy work pre-activates the prefrontal cortex's executive control.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>If I don't have the tool, how do I replace it?</span>
+      <span>How can I substitute if I don't have a dedicated memo board or briefing facilities?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.
+      Simply reciting and declaring the top 3 core tasks of today written in a notepad to yourself in a quiet room is a sufficient substitute.
     </p>
   </details>
 </div>

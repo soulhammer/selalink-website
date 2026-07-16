@@ -17,10 +17,10 @@ steps:
   - name: "Langkah 3: Pandangan objektif dan pengorganisasian meta"
     text: "Tuliskan kliping ide singkat yang telah anda tulis di buku catatan dan tuliskan sambil menyegarkan jaringan otak kanan otak anda yang tertidur."
 faqs:
-  - question: "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
-    answer: "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
-  - question: "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
-    answer: "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+  - question: "Haruskah saya melakukan rutinitas menulis asosiatif ini setiap pagi?"
+    answer: "Ya, menulis asosiatif menggunakan kartu kata segera setelah bangun tidur saat pikiran bawah sadar aktif adalah yang paling efektif."
+  - question: "Bagaimana cara menggantinya jika saya tidak memiliki kartu kata?"
+    answer: "Anda dapat menggantinya dengan membuka buku secara acak dan memilih kata benda, atau menggunakan generator kata acak online."
 ---
 
 Novelis Amerika Ray Bradbury, bapak baptis sastra fiksi ilmiah modern (SF) dan seorang master yang meramalkan batas-batas peradaban ilmu pengetahuan dan teknologi dengan kepekaan puitisnya yang unik, menulis karya agung seperti Fahrenheit 451 menggunakan rutinitas cerita yang terdiri dari 10 asosiasi kata dadakan setiap pagi. Segera setelah dia membuka matanya setiap pagi, dia pergi ke mejanya dan menuliskan 10 kata acak (misalnya pasir, abu, bel, mesin, awan, dll.) di selembar kertas kosong. Dia menatap setiap kata selama satu menit, lalu memaksa kata-kata itu untuk digabungkan di otaknya, menciptakan satu asosiasi cerita pendek yang sangat pendek setiap hari. Rutinitas ini adalah tempat lahirnya kreativitas yang menghasilkan mahakarya fiksi ilmiahnya.
@@ -97,21 +97,21 @@ Tindakan merangkai cerita logis dengan secara paksa menghubungkan konsep-konsep 
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah ini rutinitas yang selalu Anda lakukan setiap hari?</span>
+      <span>Haruskah saya melakukan rutinitas menulis asosiatif ini setiap pagi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang.
+      Ya, menulis asosiatif menggunakan kartu kata segera setelah bangun tidur saat pikiran bawah sadar aktif adalah yang paling efektif.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Kalau saya tidak punya alatnya, bagaimana cara menggantinya?</span>
+      <span>Bagaimana cara menggantinya jika saya tidak memiliki kartu kata?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan.
+      Anda dapat menggantinya dengan membuka buku secara acak dan memilih kata benda, atau menggunakan generator kata acak online.
     </p>
   </details>
 </div>

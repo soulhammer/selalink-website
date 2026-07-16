@@ -17,8 +17,10 @@ steps:
   - name: "一言の感想および感情日記の作成"
     text: "読書を終えた後、印象深かった一節や今日一日の自分の核心的な感情を日記帳に軽く1〜2文で書き残し、眠りに入ります。"
 faqs:
-  - question: "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？"
-    answer: "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一観性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。"
+  - question: "寝る前の読書が脳を刺激して睡眠の妨げになりませんか？"
+    answer: "ブルーライトが出るスマートフォンの代わりに紙の本を読み、小説よりは人文学、詩集、静的なエッセイなどの図書を薄暗い間接照明の下で軽く読むことがアルファ波を誘導して熟眠を助けます。"
+  - question: "夜の読書中にお気に入りの一節をどのように整理すれば睡眠を妨げませんか？"
+    answer: "就寝前にはPCを起動せず、ポストイットを貼っておくか本の隅を折っておき、翌日の朝や昼の時間帯にデジタルアーカイブに移して整理することをお勧めします。"
 ---
 
 20世紀の大衆文化史上、最も魅惑的なスタイルアイコンであり女優だったマリリン・モンロー. 銀幕の上でカメラのフラッシュを浴びながら世界中の人々を熱狂させた彼女でしたが, スクリーンの外の生活は絶え間ないアイデンティティの混乱、マスコミの覗き見的な報道、プライバシーの侵害により、極度のストレスと神経衰弱に悩まされていました。世間の浅薄な視線の裏に隠されていた本当のモンローは, 400冊以上の古典の蔵書を所蔵し、オスカー・ワイルドやジェームズ・ジョイスを読んでいた深い愛書家でした. 彼女は毎晩、華やかな金髪のウィッグを脱ぎ、寝室のスタンド照明の下で古典の書籍を読みふけり、複雑な心を詩や日記で手ずから記録しました. 脳科学的に、この静かな活字の解読と創作行為がどのように彼女の神経系をリセットしたのかを探ります.
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？</span>
+      <span>寝る前の読書が脳を刺激して睡眠の妨げになりませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      日記帳の欄を長く埋めることよりも重要なのは、「習慣の一観性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。
+      ブルーライトが出るスマートフォンの代わりに紙の本を読み、小説よりは人文学、詩集、静的なエッセイなどの図書を薄暗い間接照明の下で軽く読むことがアルファ波を誘導して熟眠を助けます。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>夜の読書中にお気に入りの一節をどのように整理すれば睡眠を妨げませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      就寝前にはPCを起動せず、ポストイットを貼っておくか本の隅を折っておき、翌日の朝や昼の時間帯にデジタルアーカイブに移して整理することをお勧めします。
     </p>
   </details>
 </div>

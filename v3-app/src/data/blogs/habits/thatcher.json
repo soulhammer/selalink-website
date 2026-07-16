@@ -165,50 +165,50 @@
     "faqs": [
       {
         "question": {
-          "en": "Is this a routine you perform the same every day?",
-          "ko": "매일 똑같이 수행하는 루틴인가요?",
-          "ja": "これはあなたが毎日行うルーチンですか？",
-          "zh": "这是你每天都会做的例行公事吗？",
-          "es": "¿Es esta una rutina que realizas igual todos los días?",
-          "fr": "Est-ce une routine que vous effectuez de la même manière tous les jours ?",
-          "de": "Ist das eine Routine, die Sie jeden Tag gleich durchführen?",
-          "pt": "Essa é uma rotina que você realiza todos os dias?",
-          "id": "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
+          "ko": "매일 아침 스케줄 브리핑 루틴을 수행해야 하나요?",
+          "en": "Should I perform this schedule briefing routine every morning?",
+          "ja": "毎朝このスケジュールブリーフィングルーティンを行うべきですか？",
+          "zh": "每天早晨都需要进行日程简报规程吗？",
+          "es": "¿Debo realizar esta rutina de preparación de agenda todas las mañanas?",
+          "fr": "Dois-je faire cette routine de briefing d'agenda tous les matins ?",
+          "de": "Sollte ich diese Ablaufbesprechungsroutine jeden Morgen durchführen?",
+          "pt": "Devo realizar esta rotina de preparação de agenda todas as manhãs?",
+          "id": "Haruskah saya melakukan rutinitas pengarahan jadwal ini setiap pagi?"
         },
         "answer": {
-          "en": "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.",
-          "ko": "네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.",
-          "ja": "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。",
-          "zh": "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。",
-          "es": "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.",
-          "fr": "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.",
-          "de": "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.",
-          "pt": "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo.",
-          "id": "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
+          "ko": "네, 격무 시작 30분 전 스케줄 우선순위를 소리 내어 확인하는 의식이 전두엽의 실행 통제 능력을 선제적으로 활성화합니다.",
+          "en": "Yes, reviewing schedule priorities aloud 30 minutes before starting busy work pre-activates the prefrontal cortex's executive control.",
+          "ja": "激務開始の30分前にスケジュールの優先順位を声に出して確認する儀式が、前頭葉の実行制御能力を先んじて活性化させます。",
+          "zh": "是的，在开始繁重工作前半小时，大声确认日程的优先顺序，这一仪式能抢先激活前额叶的执行控制能力。",
+          "es": "Sí, revisar las prioridades en voz alta 30 minutos antes del trabajo preactiva el control ejecutivo de la corteza prefrontal.",
+          "fr": "Oui, revoir les priorités à voix haute 30 minutes avant le travail pré-active le contrôle exécutif du cortex préfrontal.",
+          "de": "Ja, das laute Durchgehen der Prioritäten 30 Minuten vor Arbeitsbeginn aktiviert die exekutive Kontrolle des präfrontalen Kortex.",
+          "pt": "Sim, revisar as prioridades em voz alta 30 minutos antes do trabalho pré-ativa o controle executivo do córtex pré-frontal.",
+          "id": "Ya, meninjau prioritas jadwal dengan bersuara 30 menit sebelum bekerja mengaktifkan kendali eksekutif korteks prefrontal lebih awal."
         }
       },
       {
         "question": {
-          "en": "If I don't have the tool, how do I replace it?",
-          "ko": "도구가 없으면 어떻게 대체하나요?",
-          "ja": "ツールを持っていない場合、どうやって交換すればよいですか?",
-          "zh": "如果我没有该工具，如何更换？",
-          "es": "Si no tengo la herramienta, ¿cómo la reemplazo?",
-          "fr": "Si je n'ai pas l'outil, comment puis-je le remplacer ?",
-          "de": "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?",
-          "pt": "Se eu não tiver a ferramenta, como posso substituí-la?",
-          "id": "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
+          "ko": "전용 메모판이나 브리핑 시설이 없으면 어떻게 대체하나요?",
+          "en": "How can I substitute if I don't have a dedicated memo board or briefing facilities?",
+          "ja": "専用のメモボードやブリーフィング施設がない場合はどうすればいいですか？",
+          "zh": "没有专用备忘录板或简报设施时该如何替代？",
+          "es": "¿Cómo puedo sustituir este hábito si no tengo un tablero de notas dedicado?",
+          "fr": "Comment puis-je remplacer le tableau de notes si je n'en ai pas ?",
+          "de": "Wie kann ich die Tafel ersetzen, wenn ich keine habe?",
+          "pt": "Como posso substituir se não tiver um quadro de notas dedicado?",
+          "id": "Bagaimana cara menggantinya jika saya tidak memiliki papan memo khusus?"
         },
         "answer": {
-          "en": "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.",
-          "ko": "안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.",
-          "ja": "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。",
-          "zh": "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。",
-          "es": "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.",
-          "fr": "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.",
-          "de": "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.",
-          "pt": "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.",
-          "id": "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+          "ko": "나만의 조용한 방에서 수첩에 적은 오늘의 핵심 업무 3가지를 가볍게 혼잣말로 읊조리며 선언하는 것으로 충분히 대체됩니다.",
+          "en": "Simply reciting and declaring the top 3 core tasks of today written in a notepad to yourself in a quiet room is a sufficient substitute.",
+          "ja": "自分だけの静かな部屋で、手帳に書いた今日の核心業務3つを軽く独り言で呟きながら宣言することで十分に代替可能です。",
+          "zh": "只需在自己安静的房间里，看着笔记本上写下的今天3项核心工作，轻声自言自语念一遍进行自我申明，就完全可以替代。",
+          "es": "Simplemente decirse a sí mismo en voz alta en una habitación tranquila las 3 tareas clave del día anotadas en un cuaderno es suficiente.",
+          "fr": "Énoncer à voix haute dans une pièce calme les 3 tâches clés du jour notées dans un carnet est un substitut suffisant.",
+          "de": "Es reicht, sich in einem ruhigen Raum die 3 wichtigsten Aufgaben des Tages, die im Notizbuch stehen, laut vorzulesen.",
+          "pt": "Basta dizer a si mesmo em voz alta em um quarto silencioso as 3 tarefas principais do dia anotadas em um caderno.",
+          "id": "Cukup melafalkan dan menyatakan 3 tugas inti hari ini yang ditulis di buku catatan kepada diri sendiri di ruangan tenang."
         }
       }
     ],

@@ -17,10 +17,10 @@ steps:
   - name: "Paso 3: Mirada objetiva y metaorganización"
     text: "Las tres características morfológicas ocultas únicas de los objetos descubiertos a través de la observación quedan impresas y almacenadas como si fueran una representación ampliada en una pizarra en la mente."
 faqs:
-  - question: "¿Es esta una rutina que realizas igual todos los días?"
-    answer: "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo."
-  - question: "Si no tengo la herramienta, ¿cómo la reemplazo?"
-    answer: "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada."
+  - question: "¿Debo realizar esta rutina de caminata de recolección al aire libre todos los días?"
+    answer: "Sí, respirar aire fresco por la mañana y concentrarse en el tacto y textura de objetos naturales activa las áreas sensoriales y reduce el estrés."
+  - question: "¿Cómo puedo sustituir este hábito si no estoy en un desierto o entorno rocoso?"
+    answer: "Simplemente camina en un parque y observa o toca con calma objetos con texturas naturales, como hojas, pétalos o conchas."
 ---
 
 Georgia O'Keeffe, madrina del arte modernista estadounidense y pintora que fue pionera en el estilo único de pintura de flores y huesos del desierto en la historia del arte occidental del siglo XX, y fijó magníficamente las formas triviales de la Madre Naturaleza en lienzo utilizando la técnica del primer plano enfocado. Se paró en medio del árido desierto y contempló durante horas los ásperos huesos de animales que pasaban desapercibidos, las elaboradas venas de las flores marchitas y la textura de los granos de arena, ampliados 10 veces o más, como si se tratara de una lupa. Creó un impacto visual al acercar los detalles más pequeños de los objetos en un tamaño abrumador en todo el lienzo. Este enfoque visual detallado y la máxima rutina de renderizado es lo que la estableció como una maestra absoluta del arte moderno.
@@ -97,21 +97,21 @@ El entrenamiento que limita extremadamente la atención a sólo una parte muy pe
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Es esta una rutina que realizas igual todos los días?</span>
+      <span>¿Debo realizar esta rutina de caminata de recolección al aire libre todos los días?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.
+      Sí, respirar aire fresco por la mañana y concentrarse en el tacto y textura de objetos naturales activa las áreas sensoriales y reduce el estrés.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si no tengo la herramienta, ¿cómo la reemplazo?</span>
+      <span>¿Cómo puedo sustituir este hábito si no estoy en un desierto o entorno rocoso?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.
+      Simplemente camina en un parque y observa o toca con calma objetos con texturas naturales, como hojas, pétalos o conchas.
     </p>
   </details>
 </div>

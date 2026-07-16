@@ -17,10 +17,10 @@ steps:
   - name: "步骤 3：客观凝视和元组织"
     text: "通过将大脑的运动细胞精确同步到慢动作轨迹，我观察并记录我身体的摩擦力和物理极限。"
 faqs:
-  - question: "这是你每天都会做的例行公事吗？"
-    answer: "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、建立长期神经元回路的最聪明方法。"
-  - question: "如果我没有该工具，如何更换？"
-    answer: "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，通过灵活操作即可获得足够的效果。"
+  - question: "每天早晨起床后都需要进行音阶练习吗？"
+    answer: "是的，刚起床进行简单的重复性手指训练，能唤醒大脑的运动皮层，为主管注意力的神经网络路径进行铺垫。"
+  - question: "没有真实的钢琴键盘时该如何替代？"
+    answer: "在桌面上或模拟键盘上配合节拍器依次做出弹琴般的手指敲击动作，也能起到刺激运动皮层的效果。"
 ---
 
 匈牙利作曲家弗朗茨·李斯特，19世纪浪漫主义时期的钢琴皇帝，同时代最伟大的钢琴演奏家，他以压倒性的技巧和练习方法将钢琴音乐的表现力极限拓展到了最大限度。他不再练习快速、鲁莽地在键盘上弹奏，而是每天练习，将节拍器速度放慢到极端慢动作的水平，每秒只弹一个键，没有错误。他将键盘上完美的肌肉运动轨迹编入大脑，然后用它们创造出神奇、壮观的动作。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>这是你每天都会做的例行公事吗？</span>
+      <span>每天早晨起床后都需要进行音阶练习吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、建立长期神经元回路的最聪明方法。
+      是的，刚起床进行简单的重复性手指训练，能唤醒大脑的运动皮层，为主管注意力的神经网络路径进行铺垫。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>如果我没有该工具，如何更换？</span>
+      <span>没有真实的钢琴键盘时该如何替代？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，通过灵活操作即可获得足够的效果。
+      在桌面上或模拟键盘上配合节拍器依次做出弹琴般的手指敲击动作，也能起到刺激运动皮层的效果。
     </p>
   </details>
 </div>

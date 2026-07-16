@@ -17,10 +17,10 @@ steps:
   - name: "ステップ3：客観視とメタ整理"
     text: "1時間後に再び被験者を観察し、非常に微小な変化（1mmの偏差、1％の指標変化など）を計測し、因果関係を推測・分析するフィードバックトレーニングを1分間行い記録します。"
 faqs:
-  - question: "これはあなたが毎日行うルーチンですか？"
-    answer: "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。"
-  - question: "ツールを持っていない場合、どうやって交換すればよいですか?"
-    answer: "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。"
+  - question: "毎日実験の前にこの整理儀式を行うべきですか？"
+    answer: "はい、作業を開始する前にレンズを精密に拭くことで、脳に認知的な整頓信号を送り、業務集中度を極大化します。"
+  - question: "顕微鏡やクリーニングクロスがない場合はどうすればいいですか？"
+    answer: "毎日の業務開始前にPCモニターをマイクロファイバークロスで拭くか、机を整理しスマートフォンの画面をきれいに拭く行為で同じ効果が得られます。"
 ---
 
 現代医学と微生物学の絶対的な先駆者であり、ワクチンを開発したフランスの天才化学者であるルイ・パスツールは、低温殺菌と炭疽菌・狂犬病ワクチンの発明により人類を感染症の恐怖から救いました。彼は研究室の机に座り、顕微鏡の虫眼鏡の下で培養フラスコを何時間も動かずに見つめていました。微生物が増殖する際に残した微細な揺れの痕跡を、ノートに丁寧に描き記録した。彼の消毒方法とワクチンの発見は、フラスコを見つめながらのこの観察フィードバックのルーチンから生まれました。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>これはあなたが毎日行うルーチンですか？</span>
+      <span>毎日実験の前にこの整理儀式を行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。
+      はい、作業を開始する前にレンズを精密に拭くことで、脳に認知的な整頓信号を送り、業務集中度を極大化します。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>ツールを持っていない場合、どうやって交換すればよいですか?</span>
+      <span>顕微鏡やクリーニングクロスがない場合はどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。
+      毎日の業務開始前にPCモニターをマイクロファイバークロスで拭くか、机を整理しスマートフォンの画面をきれいに拭く行為で同じ効果が得られます。
     </p>
   </details>
 </div>

@@ -17,10 +17,10 @@ steps:
   - name: "Étape 3 : Regard objectif et méta-organisation"
     text: "Nous préservons les enregistrements en nous entraînant pendant une minute pour déduire et analyser l'occupation, l'inclinaison et l'atmosphère de l'autre personne dans l'espace que ces détails peuvent contenir."
 faqs:
-  - question: "Est-ce une routine que vous effectuez de la même manière tous les jours ?"
-    answer: "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme."
-  - question: "Si je n'ai pas l'outil, comment puis-je le remplacer ?"
-    answer: "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni."
+  - question: "Dois-je faire cette routine à la même heure chaque jour ?"
+    answer: "Oui, Tchekhov réduisait sa charge cognitive en buvant du thé lors d'un rituel calme après le travail vers 15 heures."
+  - question: "Comment puis-je remplacer le service à thé si je n'en ai pas ?"
+    answer: "Même sans service à thé, boire une tasse d'eau chaude ou d'infusion en vous concentrant sur vos sens pendant 5 minutes suffit."
 ---
 
 Anton Tchekhov, le summum de la littérature réaliste russe et un grand dramaturge qui a jeté les bases de la nouvelle moderne, a capturé les conflits infimes, l'hypocrisie et les troubles émotionnels des gens ordinaires dans la vie quotidienne de la manière la plus attentionnée et la plus précise et les a transformés en pièces de théâtre. Il s'asseyait tranquillement sur un banc dans une salle d'attente de train ou dans un coin d'une terrasse de café et observait les gens qui passaient. Il a noté des caractéristiques extrêmement spécifiques de la personne dans un cahier placé dans la poche de son manteau, comme une marque de peluche invisible sur le col d'un costume, l'ourlet d'un costume avec un bouton arraché et le léger tic de l'œil d'un passant lorsqu'il est nerveux. Cette collection de détails extrêmement fins a servi de base à la construction de personnages réalistes et tridimensionnels dans ses romans.
@@ -97,21 +97,21 @@ Aujourd'hui sur BuildSelf, nous présentons les principes scientifiques cognitif
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Est-ce une routine que vous effectuez de la même manière tous les jours ?</span>
+      <span>Dois-je faire cette routine à la même heure chaque jour ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.
+      Oui, Tchekhov réduisait sa charge cognitive en buvant du thé lors d'un rituel calme après le travail vers 15 heures.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si je n'ai pas l'outil, comment puis-je le remplacer ?</span>
+      <span>Comment puis-je remplacer le service à thé si je n'en ai pas ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.
+      Même sans service à thé, boire une tasse d'eau chaude ou d'infusion en vous concentrant sur vos sens pendant 5 minutes suffit.
     </p>
   </details>
 </div>

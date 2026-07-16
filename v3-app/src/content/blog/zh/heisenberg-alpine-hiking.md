@@ -17,8 +17,10 @@ steps:
   - name: "即刻记录得出的无意识线索"
     text: "登山结束后，将在无意识的DMN碎片重组中瞬间闪现的想法核心逻辑，立刻记录到日记本上妥善保存。"
 faqs:
-  - question: "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？"
-    answer: "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。"
+  - question: "居住在城市里，难以去远足或爬山时该如何代替？"
+    answer: "可以通过不带手机在城市公园或林荫道漫步30分钟以上来代替。关键是通过户外活动刺激时空感并促进脑部血液流动。"
+  - question: "有什么诀窍可以不漏掉地记录在远足中想到的点子吗？"
+    answer: "建议在口袋里放一个小型笔记本和笔，想到灵感时立即手写记录关键词，或者使用语音备忘录功能实时录音以防干扰步行。"
 ---
 
 向物理学界提出“不确定性原理”、奠定现代量子物理学基石并荣获诺贝尔物理学奖的德国巨匠维尔纳·海森堡。被电子不连续轨道跃迁和几何矩阵计算这一深奥物理方程所阻碍、深陷严重的认知崩溃与失眠折磨的年轻海森堡，每当需要寻找突破口时，都会独自前往巴伐利亚阿尔卑斯山脉。他会在郁郁葱葱的针叶林以及连绵不断的阿尔卑斯山路上登山数日，以此整理思路。1925年秋天，在北海孤岛黑尔戈兰岛疗养以及阿尔卑斯山路的散步中，诞生了成为物理学历史里程碑的不确定性公式，其背景正是他的登山思索习惯。我们共同揭示在自然中散步给大脑带来的认知充电原理。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？</span>
+      <span>居住在城市里，难以去远足或爬山时该如何代替？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。
+      可以通过不带手机在城市公园或林荫道漫步30分钟以上来代替。关键是通过户外活动刺激时空感并促进脑部血液流动。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>有什么诀窍可以不漏掉地记录在远足中想到的点子吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      建议在口袋里放一个小型笔记本和笔，想到灵感时立即手写记录关键词，或者使用语音备忘录功能实时录音以防干扰步行。
     </p>
   </details>
 </div>

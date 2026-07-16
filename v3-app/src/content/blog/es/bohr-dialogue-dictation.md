@@ -17,8 +17,10 @@ steps:
   - name: "Ajustar ideas y tomar notas según las preguntas"
     text: "Registre de inmediato en sus notas las contradicciones de sus ideas o los destellos de solución revelados durante el diálogo y las preguntas."
 faqs:
-  - question: "¿Qué debo escribir en el diario los días en los que no pasa nada especial?"
-    answer: "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo."
+  - question: "¿Cómo puedo practicar esto a solas sin colegas con quienes discutir?"
+    answer: "Puedes encender una grabadora de voz en tu móvil o una aplicación de notas y hablar en voz alta como si estuvieras explicándole a alguien. Lo que importa no es la presencia de un oyente, sino el proceso neural de exteriorizar los pensamientos."
+  - question: "¿Cómo conecto los contenidos hablados con resultados productivos?"
+    answer: "Puedes anotar ideas breves en un cuaderno mientras hablas, o guardar los registros de conversión de voz a texto (STT) para organizarlos en nodos de ideas clave más tarde."
 ---
 
 Niels Bohr, el premio Nobel que sentó las bases de la física cuántica. A pesar de su genio, sentía una enorme fricción al sentarse a redactar artículos de forma solitaria. Su método consistía en dictar sus pensamientos a su esposa Margrethe o a sus alumnos mientras caminaba y debatía frente a una pizarra. Analicemos cómo la transición del habla interna al habla externa activa la corteza prefrontal, fortaleciendo el filtro de la metacognición.
@@ -91,13 +93,23 @@ El habla interna está llena de vacíos lógicos y vaguedades. Al exteriorizar l
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Qué debo escribir en el diario los días en los que no pasa nada especial?</span>
+      <span>¿Cómo puedo practicar esto a solas sin colegas con quienes discutir?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.
+      Puedes encender una grabadora de voz en tu móvil o una aplicación de notas y hablar en voz alta como si estuvieras explicándole a alguien. Lo que importa no es la presencia de un oyente, sino el proceso neural de exteriorizar los pensamientos.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>¿Cómo conecto los contenidos hablados con resultados productivos?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Puedes anotar ideas breves en un cuaderno mientras hablas, o guardar los registros de conversión de voz a texto (STT) para organizarlos en nodos de ideas clave más tarde.
     </p>
   </details>
 </div>

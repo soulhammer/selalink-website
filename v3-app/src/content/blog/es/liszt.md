@@ -17,10 +17,10 @@ steps:
   - name: "Paso 3: Mirada objetiva y metaorganización"
     text: "Al sincronizar con precisión las células motoras del cerebro con una trayectoria de cámara lenta, observo y registro la fuerza de fricción y los límites físicos de mi cuerpo."
 faqs:
-  - question: "¿Es esta una rutina que realizas igual todos los días?"
-    answer: "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo."
-  - question: "Si no tengo la herramienta, ¿cómo la reemplazo?"
-    answer: "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada."
+  - question: "¿Debo realizar la práctica de escalas inmediatamente después de despertar cada mañana?"
+    answer: "Sí, el entrenamiento de dedos repetitivo después de despertar despierta la corteza motora cerebral y enmarca el camino de atención."
+  - question: "¿Cómo puedo sustituir este hábito si no tengo un piano real?"
+    answer: "Simplemente mover los dedos en orden sobre un escritorio o teclado de juego con un metrónomo estimula la corteza motora."
 ---
 
 El compositor húngaro Franz Liszt, emperador del piano durante la era romántica del siglo XIX y el mayor pianista virtuoso de su tiempo, amplió al máximo los límites expresivos de la música para piano a través de una sofisticación y métodos de práctica abrumadores. En lugar de practicar tocando el teclado de forma rápida e imprudente, practicaba todos los días reduciendo el tempo del metrónomo a un nivel de cámara extremadamente lenta y tocando sólo una tecla por segundo sin error. Programó las trayectorias perfectas de movimiento muscular del teclado en su cerebro y luego las usó para crear movimientos mágicos y espectaculares.
@@ -97,21 +97,21 @@ Entrenar para controlar conscientemente los movimientos de los dedos y los músc
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Es esta una rutina que realizas igual todos los días?</span>
+      <span>¿Debo realizar la práctica de escalas inmediatamente después de despertar cada mañana?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.
+      Sí, el entrenamiento de dedos repetitivo después de despertar despierta la corteza motora cerebral y enmarca el camino de atención.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si no tengo la herramienta, ¿cómo la reemplazo?</span>
+      <span>¿Cómo puedo sustituir este hábito si no tengo un piano real?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.
+      Simplemente mover los dedos en orden sobre un escritorio o teclado de juego con un metrónomo estimula la corteza motora.
     </p>
   </details>
 </div>

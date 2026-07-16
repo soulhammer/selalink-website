@@ -17,8 +17,10 @@ steps:
   - name: "Direkter Einstieg in die Hauptaufgabe"
     text: "Sobald die Geste beendet ist, starten Sie die Präsentation oder öffnen Sie das Dokument ohne jegliche Zögerung."
 faqs:
-  - question: "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?"
-    answer: "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes."
+  - question: "Wie erstelle ich meine eigene Routine vor wichtigen Ereignissen wie Präsentationen oder Prüfungen?"
+    answer: "Legen Sie 2-3 einfache Schritte fest, die Sie kontrollieren können (z. B. Schuhe binden, tief durchatmen), und wiederholen Sie diese konsequent."
+  - question: "Wie gehe ich mit Angst um, wenn ich einen Schritt auslasse oder einen Fehler in der Routine mache?"
+    answer: "Verstehen Sie, dass eine Routine nur ein psychologischer Anker ist. Fehler als Teil der Situation zu akzeptieren, maximiert den Nutzen der Routine."
 ---
 
 Rekordsiegerin Serena Williams. Unter dem extremen Druck auf dem Platz halfen ihr strikte Rituale. Vor dem Match hörte sie über dieselben Kopfhörer Musik und prellte den Ball vor dem ersten Aufschlag genau 5 Mal. Sportpsychologisch blockiert eine solche Vorbereitungsroutine die Versagensangst, indem sie den Fokus auf einfache Abläufe lenkt.
@@ -91,13 +93,23 @@ Extremer Druck vor Prüfungen regt den Hypothalamus an, blockiert Muskeln und tr
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?</span>
+      <span>Wie erstelle ich meine eigene Routine vor wichtigen Ereignissen wie Präsentationen oder Prüfungen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.
+      Legen Sie 2-3 einfache Schritte fest, die Sie kontrollieren können (z. B. Schuhe binden, tief durchatmen), und wiederholen Sie diese konsequent.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Wie gehe ich mit Angst um, wenn ich einen Schritt auslasse oder einen Fehler in der Routine mache?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Verstehen Sie, dass eine Routine nur ein psychologischer Anker ist. Fehler als Teil der Situation zu akzeptieren, maximiert den Nutzen der Routine.
     </p>
   </details>
 </div>

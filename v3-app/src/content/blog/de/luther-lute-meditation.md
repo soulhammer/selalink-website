@@ -17,8 +17,10 @@ steps:
   - name: "Wahrnehmen der Schwingung kombiniert mit tiefem Atmen"
     text: "Spüren Sie die physische Schwingung im Körper und atmen Sie langsam und tief ein und aus, um die Übung abzuschließen."
 faqs:
-  - question: "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?"
-    answer: "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes."
+  - question: "Können Anfänger ohne musikalische Vorkenntnisse von dieser Instrumenten-Meditation profitieren?"
+    answer: "Es reicht aus, sich 5 Minuten auf einfache Instrumente wie Klangschalen oder Kalimbas zu konzentrieren. Der Kern liegt darin, dem Gehirn einen bewertungsfreien Raum zu bieten."
+  - question: "Kann passives Musikhören den gleichen Effekt erzielen wie das Spielen eines Instruments?"
+    answer: "Das aktive Spielen eines Instruments beansprucht die Motorik und die Aufmerksamkeit des präfrontalen Kortex weitaus stärker als passives Hören."
 ---
 
 Reformator Martin Luther stand allein gegen die Macht der Kirche. Bedrohungen prägten seinen Alltag und belasteten seine Gesundheit. Sein Ventil war die Musik: Nach dem Morgengebet spielte er Laute. Kognitionspsychologisch regt Musik das vegetative Nervensystem an und beruhigt das Herz, was den Stresspegel senkt.
@@ -91,13 +93,23 @@ Das präzise Greifen und Zupfen der Saiten regt den motorischen Cortex an und ve
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?</span>
+      <span>Können Anfänger ohne musikalische Vorkenntnisse von dieser Instrumenten-Meditation profitieren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.
+      Es reicht aus, sich 5 Minuten auf einfache Instrumente wie Klangschalen oder Kalimbas zu konzentrieren. Der Kern liegt darin, dem Gehirn einen bewertungsfreien Raum zu bieten.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Kann passives Musikhören den gleichen Effekt erzielen wie das Spielen eines Instruments?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Das aktive Spielen eines Instruments beansprucht die Motorik und die Aufmerksamkeit des präfrontalen Kortex weitaus stärker als passives Hören.
     </p>
   </details>
 </div>

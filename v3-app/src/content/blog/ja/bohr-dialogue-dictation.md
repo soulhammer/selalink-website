@@ -17,8 +17,10 @@ steps:
   - name: "質問に基づく思考の修正とメモ"
     text: "パートナーの質問や自らの口述過程で発見されたアイデアの矛盾点、および整理された解決の糸口を即座にノートに記録して収集します。"
 faqs:
-  - question: "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？"
-    answer: "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。"
+  - question: "討論する同僚がいない1人の環境ではどのように実践しますか？"
+    answer: "スマートフォンの音声メモやAIレコーダーをオンにし、独り言で説明するように考えを呟くことで代替できます。重要なのは聞き手の存在ではなく、考えを声に出して言語として客観化する大脳刺激プロセスです。"
+  - question: "口述討論中に出た内容をどのように生産的な成果物につなげますか？"
+    answer: "話している最中に得た気づきをすぐに手帳に簡単に書き留めたり、AI音声認識（STT）変換の結果を後で文書として保存して、核心的なアイデアのノードとして整理すると良いでしょう。"
 ---
 
 現代物理学の最大の柱である量子力学を定立し、原子構造の秘密を解き明かしてノーベル物理学賞を受賞した巨匠ニールス・ボーア。歴史上最も偉大な科学的直観を持っていたボーアでしたが、彼は意外にも一人で机に静かに座って論文を書いたり、複雑なアイデアを文章に整理することに大きな困難を抱えていました。ボーアにはアイデアを現実のものにするための特有の儀式がありました。彼は妻のマルグレーテや、弟子のハイゼンベルク、ディラックなどを常に自室の黒板の前に立たせ、絶えず独り言のように説明したり、激しい討論を繰り広げながら自分の言葉を書き留めさせました。頭の中の不鮮明なアイデアを、他者との会話という火花を通じて明確な知識へと導き出したボーアの口述思索の原理を解剖します。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？</span>
+      <span>討論する同僚がいない1人の環境ではどのように実践しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。
+      スマートフォンの音声メモやAIレコーダーをオンにし、独り言で説明するように考えを呟くことで代替できます。重要なのは聞き手の存在ではなく、考えを声に出して言語として客観化する大脳刺激プロセスです。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>口述討論中に出た内容をどのように生産的な成果物につなげますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      話している最中に得た気づきをすぐに手帳に簡単に書き留めたり、AI音声認識（STT）変換の結果を後で文書として保存して、核心的なアイデアのノードとして整理すると良いでしょう。
     </p>
   </details>
 </div>

@@ -17,10 +17,10 @@ steps:
   - name: "Etapa 3: olhar objetivo e metaorganização"
     text: "Anote os pequenos recortes de ideias que você escreveu em um bloco de notas e anote-os enquanto desperta de forma revigorante a rede cerebral direita adormecida do seu cérebro."
 faqs:
-  - question: "Essa é uma rotina que você realiza todos os dias?"
-    answer: "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo."
-  - question: "Se eu não tiver a ferramenta, como posso substituí-la?"
-    answer: "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido."
+  - question: "Devo realizar esta rotina de escrita associativa todas as manhãs?"
+    answer: "Sim, é mais eficaz practicar a escrita associativa com cartões de palavras logo após acordar, quando o subconsciente está ativo."
+  - question: "Como posso substituir se não tiver cartões de palavras?"
+    answer: "Você pode substituir abrindo um livro aleatório e escolhendo substantivos, ou usando un gerador de palavras online."
 ---
 
 O romancista americano Ray Bradbury, o padrinho da literatura moderna de ficção científica (FC) e um mestre que previu os limites da civilização científica e tecnológica com sua sensibilidade poética única, escreveu obras-primas como Fahrenheit 451 usando uma rotina de histórias de 10 associações improvisadas de palavras todas as manhãs. Assim que abria os olhos todas as manhãs, ele ia até sua mesa e escrevia 10 palavras aleatórias (por exemplo, areia, cinzas, sino, motor, nuvem, etc.) em um pedaço de papel em branco. Ele olhou para cada palavra por um minuto, depois forçou as palavras a se combinarem em seu cérebro, criando uma associação de contos curtos e ultracurtos todos os dias. Essa rotina foi o berço da criatividade que deu origem às suas obras-primas de ficção científica.
@@ -97,21 +97,21 @@ O ato de tecer uma história lógica conectando à força conceitos heterogêneo
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Essa é uma rotina que você realiza todos os dias?</span>
+      <span>Devo realizar esta rotina de escrita associativa todas as manhãs?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo.
+      Sim, é mais eficaz practicar a escrita associativa com cartões de palavras logo após acordar, quando o subconsciente está ativo.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Se eu não tiver a ferramenta, como posso substituí-la?</span>
+      <span>Como posso substituir se não tiver cartões de palavras?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.
+      Você pode substituir abrindo um livro aleatório e escolhendo substantivos, ou usando un gerador de palavras online.
     </p>
   </details>
 </div>

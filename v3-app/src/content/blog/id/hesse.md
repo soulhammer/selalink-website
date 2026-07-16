@@ -17,10 +17,10 @@ steps:
   - name: "Langkah 3: Pandangan objektif dan meta-organisasi"
     text: "Hirup semua stimulasi faktual analog yang disediakan oleh alam untuk sepenuhnya menghilangkan kelelahan kognitif dari lobus frontal Anda yang kelelahan dan catatlah dalam buku harian Anda."
 faqs:
-  - question: "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
-    answer: "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
-  - question: "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
-    answer: "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+  - question: "Haruskah saya melakukan rutinitas berkebun ini setiap hari?"
+    answer: "Ya, pekerjaan fisik seperti menyentuh tanah dan mencabut gulma mengistirahatkan korteks prefrontal yang lelah akibat fokus mental."
+  - question: "Bagaimana cara menggantinya jika saya tidak memiliki kebun atau tanah?"
+    answer: "Merawat tanaman hias kecil di balkon, mengganti pot, atau memotong daun kering adalah alternatif pengganti yang bagus."
 ---
 
 Hermann Hesse, seorang novelis dan penyair yang mengeksplorasi realisasi diri manusia dan pengembaraan jiwa melalui meditasi analog sebagai tukang kebun Swiss, dan pemenang Hadiah Nobel Sastra untuk mahakarya seperti “Demian” dan “Under the Wheel.” Dia tinggal di taman pedesaannya dan melakukan pekerjaan analogi tukang kebun, yaitu mengolah tanah, mencabut rumput liar, dan memotong atau menggergaji cabang-cabang yang mati setiap hari. Sambil rajin menggerakkan badannya, ia memusatkan seluruh perhatiannya pada suara burung di hutan, suara angin, dan bau kelembapan tanah. Rutinitas meditasi analog alami ini merupakan sumber stabilitas dan penyembuhan bagi jiwanya, yang menderita gangguan saraf parah.
@@ -97,21 +97,21 @@ Tindakan hanya menggerakkan tubuh dan fokus hanya pada hutan alam dan stimulasi 
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah ini rutinitas yang selalu Anda lakukan setiap hari?</span>
+      <span>Haruskah saya melakukan rutinitas berkebun ini setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang.
+      Ya, pekerjaan fisik seperti menyentuh tanah dan mencabut gulma mengistirahatkan korteks prefrontal yang lelah akibat fokus mental.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Kalau saya tidak punya alatnya, bagaimana cara menggantinya?</span>
+      <span>Bagaimana cara menggantinya jika saya tidak memiliki kebun atau tanah?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan.
+      Merawat tanaman hias kecil di balkon, mengganti pot, atau memotong daun kering adalah alternatif pengganti yang bagus.
     </p>
   </details>
 </div>

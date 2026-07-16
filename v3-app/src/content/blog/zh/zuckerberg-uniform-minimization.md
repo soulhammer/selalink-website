@@ -17,8 +17,10 @@ steps:
   - name: "实现清晨穿搭决策归零"
     text: "早晨起床后不用做任何考虑，直接穿上挂在最前排的工作服，清爽地省下前额叶的葡萄糖预算，开启新的一天。"
 faqs:
-  - question: "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？"
-    answer: "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。"
+  - question: "每天穿同样的衣服，在重要会议或正式场合该如何应对？"
+    answer: "扎克伯格在官方活动或董事会会议上也会穿西装。工作服化的核心是阻断琐碎的决定，因此预先指定一套正式的西装组合，可以毫不犹豫地穿上，防止决策疲劳。"
+  - question: "除了T恤 and 牛仔裤，我可以用其他衣服组成工作服吗？"
+    answer: "当然可以。选择衬衫、西裤、连衣裙等让自己感觉最普通、最舒适、完全不用花心思打理外观的极简组合，并备齐多件即可。"
 ---
 
 创立脸书(Facebook)并掌舵社交媒体帝国美达(Meta)的科技巨头马克·扎克伯格。指挥着连接数亿人日常生活的平台的关键未来路线图、需要实时对数亿美元的业务投资做出决断的他，其日常生活从早晨睁开双眼的那一刻起，就充斥着重大决策的千钧重担。在每时每刻涌来的强烈疲劳感中，他为了守住决策效率而选择的最著名的策略是，“每天清晨不为穿什么衣服而苦恼”。他的衣橱里只塞满了完全相同的灰色圆领T恤和蓝色牛仔裤，拿出来就穿。我们共同揭示阻断无意义的日常剩余选项、防止能量浪费的自我损耗控制的科学机制。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？</span>
+      <span>每天穿同样的衣服，在重要会议或正式场合该如何应对？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。
+      扎克伯格在官方活动或董事会会议上也会穿西装。工作服化的核心是阻断琐碎的决定，因此预先指定一套正式的西装组合，可以毫不犹豫地穿上，防止决策疲劳。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>除了T恤 and 牛仔裤，我可以用其他衣服组成工作服吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      当然可以。选择衬衫、西裤、连衣裙等让自己感觉最普通、最舒适、完全不用花心思打理外观的极简组合，并备齐多件即可。
     </p>
   </details>
 </div>

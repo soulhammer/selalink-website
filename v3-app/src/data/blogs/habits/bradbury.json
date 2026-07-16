@@ -165,50 +165,50 @@
     "faqs": [
       {
         "question": {
-          "en": "Is this a routine you perform the same every day?",
-          "ko": "매일 똑같이 수행하는 루틴인가요?",
-          "ja": "これはあなたが毎日行うルーチンですか？",
-          "zh": "这是你每天都会做的例行公事吗？",
-          "es": "¿Es esta una rutina que realizas igual todos los días?",
-          "fr": "Est-ce une routine que vous effectuez de la même manière tous les jours ?",
-          "de": "Ist das eine Routine, die Sie jeden Tag gleich durchführen?",
-          "pt": "Essa é uma rotina que você realiza todos os dias?",
-          "id": "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
+          "ko": "매일 아침 연상 글쓰기 루틴을 수행해야 하나요?",
+          "en": "Should I perform this associative writing routine every morning?",
+          "ja": "毎朝この連想ライティングルーティンを行うべきですか？",
+          "zh": "每天清晨都需要进行这种联想写作规程吗？",
+          "es": "¿Debo realizar esta rutina de escritura asociativa todas las mañanas?",
+          "fr": "Dois-je faire cette routine d'écriture associative tous les matins ?",
+          "de": "Sollte ich diese assoziative Schreibroutine jeden Morgen durchführen?",
+          "pt": "Devo realizar esta rotina de escrita associativa todas as manhãs?",
+          "id": "Haruskah saya melakukan rutinitas menulis asosiatif ini setiap pagi?"
         },
         "answer": {
-          "en": "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.",
-          "ko": "네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.",
-          "ja": "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。",
-          "zh": "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。",
-          "es": "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.",
-          "fr": "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.",
-          "de": "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.",
-          "pt": "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo.",
-          "id": "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
+          "ko": "네, 아침 기상 직후 무의식이 활성화된 시간에 단어 카드 연상을 통해 창조적 직관을 훈련하는 것이 가장 효과적입니다.",
+          "en": "Yes, practicing associative writing using word cards immediately after waking up when the subconscious is active is most effective.",
+          "ja": "はい、起床直後の無意識が活性化している時間帯に単語カードの連想を通じて創造的直感を訓練するのが最も効果的です。",
+          "zh": "是的，在清晨刚起床、无意识最活跃的时间段，通过词卡联想来训练创造性直觉是最有效的。",
+          "es": "Sí, es más efectivo practicar la escritura asociativa con tarjetas de palabras justo después de despertar, cuando el subconsciente está activo.",
+          "fr": "Oui, il est plus efficace de pratiquer l'écriture associative juste après le réveil, lorsque le subconscient est encore actif.",
+          "de": "Ja, das Schreiben direkt nach dem Aufwachen, wenn das Unterbewusstsein aktiv ist, trainiert die kreative Intuition am effektivsten.",
+          "pt": "Sim, é mais eficaz practicar a escrita associativa com cartões de palavras logo após acordar, quando o subconsciente está ativo.",
+          "id": "Ya, menulis asosiatif menggunakan kartu kata segera setelah bangun tidur saat pikiran bawah sadar aktif adalah yang paling efektif."
         }
       },
       {
         "question": {
-          "en": "If I don't have the tool, how do I replace it?",
-          "ko": "도구가 없으면 어떻게 대체하나요?",
-          "ja": "ツールを持っていない場合、どうやって交換すればよいですか?",
-          "zh": "如果我没有该工具，如何更换？",
-          "es": "Si no tengo la herramienta, ¿cómo la reemplazo?",
-          "fr": "Si je n'ai pas l'outil, comment puis-je le remplacer ?",
-          "de": "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?",
-          "pt": "Se eu não tiver a ferramenta, como posso substituí-la?",
-          "id": "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
+          "ko": "단어 카드가 없을 때는 어떻게 대체하나요?",
+          "en": "How can I substitute if I don't have word cards?",
+          "ja": "単語カードがない場合はどうすればいいですか？",
+          "zh": "没有词卡时该如何替代？",
+          "es": "¿Cómo puedo sustituir este hábito si no tengo tarjetas de palabras?",
+          "fr": "Comment puis-je remplacer les cartes de mots si je n'en ai pas ?",
+          "de": "Wie kann ich die Wortkarten ersetzen, wenn ich keine habe?",
+          "pt": "Como posso substituir se não tiver cartões de palavras?",
+          "id": "Bagaimana cara menggantinya jika saya tidak memiliki kartu kata?"
         },
         "answer": {
-          "en": "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.",
-          "ko": "안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.",
-          "ja": "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。",
-          "zh": "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。",
-          "es": "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.",
-          "fr": "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.",
-          "de": "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.",
-          "pt": "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.",
-          "id": "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+          "ko": "임의의 책을 펼쳐 눈에 띄는 명사들을 조합하거나 온라인 무작위 단어 생성기를 이용하는 방식으로 대체할 수 있습니다.",
+          "en": "You can substitute by opening a random book and picking nouns, or using an online random word generator.",
+          "ja": "任意のページを開いて目に留まった名詞を組み合わせたり、オンラインのランダム単語生成器を利用する方式で代替できます。",
+          "zh": "可以通过翻开任意一本书并组合映入眼帘的名词，或者利用在线随机词语生成器的方式来替代。",
+          "es": "Puedes sustituirlo abriendo un libro al azar y eligiendo sustantivos, o usando un generador de palabras aleatorias en línea.",
+          "fr": "Vous pouvez y substituer le choix de mots au hasard dans un livre ou l'utilisation d'un générateur de mots en ligne.",
+          "de": "Sie können stattdessen ein beliebiges Buch öffnen und Nomen auswählen oder einen Online-Zufallsgenerator nutzen.",
+          "pt": "Você pode substituir abrindo um livro aleatório e escolhendo substantivos, ou usando un gerador de palavras online.",
+          "id": "Anda dapat menggantinya dengan membuka buku secara acak dan memilih kata benda, atau menggunakan generator kata acak online."
         }
       }
     ],

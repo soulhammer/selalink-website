@@ -17,8 +17,10 @@ steps:
   - name: "音の感覚化認知とマインドリセット"
     text: "鍵盤の音の波動や和音の響きにすべての注意を集中させ、脳の数理・論理領域に溜まっていた疲労を綺麗に空にしてルーティンを終えます。"
 faqs:
-  - question: "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？"
-    answer: "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。"
+  - question: "楽譜がないピアノの即興演奏はどのように始めますか？"
+    answer: "メロディーの完璧さや不協和音にこだわらず、指の赴くまま鍵盤の重みと音の響きに全神経を集中させて自由に弾くことが、脳の注意ネットワークを弛緩させリセットする鍵です。"
+  - question: "ピアノの代わりに他の楽器でも認知リセットが可能ですか？"
+    answer: "はい。ギターやウクレレなど、指の精巧な感覚を要求し、音の余韻を直接調整できる弦楽器や鍵盤楽器類であれば、何でも脳の注意ネットワーク切り替え効果を提供します。"
 ---
 
 量子仮説を定立し、物理学定数の核心であるプランク定数を発見して、古典物理学を超えた現代物理学的夜明けを導いた物理学の巨匠マックス・プランク。宇宙の根本構造を再構成する高度な論理的思索と数学公式の中で、彼が激しい研究疲労と神経痛を制御した鍵は、他ならぬピアノの鍵盤でした。プランクは一流のピアノの実力を持つ音楽家であり、彼の親しい同僚であるアルベルト・アインシュタインのバイオリンに合わせてピアノの室内楽デュオを頻繁に披露していました。彼は毎日、研究が滞ったり一日の仕事を終えた後、ピアノの前に座って楽譜なしで気の向くままに鍵盤を叩き、即興演奏に没頭しました。芸術を通じた認知の切り替えがいかに脳をリフレッシュさせたのかを解明します。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？</span>
+      <span>楽譜がないピアノの即興演奏はどのように始めますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。
+      メロディーの完璧さや不協和音にこだわらず、指の赴くまま鍵盤の重みと音の響きに全神経を集中させて自由に弾くことが、脳の注意ネットワークを弛緩させリセットする鍵です。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>ピアノの代わりに他の楽器でも認知リセットが可能ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      はい。ギターやウクレレなど、指の精巧な感覚を要求し、音の余韻を直接調整できる弦楽器や鍵盤楽器類であれば、何でも脳の注意ネットワーク切り替え効果を提供します。
     </p>
   </details>
 </div>

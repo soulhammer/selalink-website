@@ -165,50 +165,50 @@
     "faqs": [
       {
         "question": {
-          "en": "Is this a routine you perform the same every day?",
-          "ko": "매일 똑같이 수행하는 루틴인가요?",
-          "ja": "これはあなたが毎日行うルーチンですか？",
-          "zh": "这是你每天都会做的例行公事吗？",
-          "es": "¿Es esta una rutina que realizas igual todos los días?",
-          "fr": "Est-ce une routine que vous effectuez de la même manière tous les jours ?",
-          "de": "Ist das eine Routine, die Sie jeden Tag gleich durchführen?",
-          "pt": "Essa é uma rotina que você realiza todos os dias?",
-          "id": "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
+          "ko": "매일 똑같은 시간에 이 루틴을 수행해야 하나요?",
+          "en": "Should I perform this routine at the exact same time every day?",
+          "ja": "毎日同じ時間にこのルーティンを行うべきですか？",
+          "zh": "每天都需要在完全相同的时间进行这个规程吗？",
+          "es": "¿Debo realizar esta rutina a la misma hora exacta todos los días?",
+          "fr": "Dois-je faire cette routine à la même heure chaque jour ?",
+          "de": "Sollte ich diese Routine jeden Tag zur genau gleichen Zeit durchführen?",
+          "pt": "Devo realizar esta rotina no mesmo horário todos os dias?",
+          "id": "Haruskah saya melakukan rutinitas ini pada waktu yang sama setiap hari?"
         },
         "answer": {
-          "en": "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.",
-          "ko": "네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.",
-          "ja": "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。",
-          "zh": "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。",
-          "es": "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.",
-          "fr": "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.",
-          "de": "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.",
-          "pt": "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo.",
-          "id": "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
+          "ko": "네, 체호프는 오후 3시경 격무 후 차를 마시는 고요한 의식을 통해 인지 부하를 줄이고 생각을 가다듬었습니다.",
+          "en": "Yes, Chekhov reduced cognitive load and organized his thoughts through a quiet ritual of tea drinking after hard work around 3 PM.",
+          "ja": "はい、チェーホフは午後3時頃の激務の後、お茶を飲む静かな儀式を通じて認知負荷を減らし、考えを整えました。",
+          "zh": "是的，契诃夫会在下午3点左右结束繁重工作后，通过安静饮茶的仪式来减轻认知负荷、梳理思绪。",
+          "es": "Sí, Chéjov reducía la carga cognitiva y organizaba sus pensamientos mediante un ritual tranquilo de té después del trabajo a las 3 PM.",
+          "fr": "Oui, Tchekhov réduisait sa charge cognitive en buvant du thé lors d'un rituel calme après le travail vers 15 heures.",
+          "de": "Ja, Tschechow baute mentale Belastung ab, indem er nach harter Arbeit gegen 15 Uhr rituell Tee trank.",
+          "pt": "Sim, Tchekhov reduzia a carga cognitiva e organizava seus pensamentos por meio de um ritual tranquilo de chá após o trabalho às 15h.",
+          "id": "Ya, Chekhov mengurangi beban kognitif dan menata pikirannya melalui ritual minum teh yang tenang setelah bekerja sekitar jam 3 sore."
         }
       },
       {
         "question": {
-          "en": "If I don't have the tool, how do I replace it?",
-          "ko": "도구가 없으면 어떻게 대체하나요?",
-          "ja": "ツールを持っていない場合、どうやって交換すればよいですか?",
-          "zh": "如果我没有该工具，如何更换？",
-          "es": "Si no tengo la herramienta, ¿cómo la reemplazo?",
-          "fr": "Si je n'ai pas l'outil, comment puis-je le remplacer ?",
-          "de": "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?",
-          "pt": "Se eu não tiver a ferramenta, como posso substituí-la?",
-          "id": "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
+          "ko": "찻잔 세트가 없으면 어떻게 대체하나요?",
+          "en": "How can I substitute if I don't have a tea set?",
+          "ja": "ティーセットがない場合はどうすればいいですか？",
+          "zh": "没有茶具套装时该如何替代？",
+          "es": "¿Cómo puedo sustituir este hábito si no tengo un juego de té?",
+          "fr": "Comment puis-je remplacer le service à thé si je n'en ai pas ?",
+          "de": "Wie kann ich das Teeservice ersetzen, wenn ich keins habe?",
+          "pt": "Como posso substituir se não tiver um jogo de chá?",
+          "id": "Bagaimana cara menggantinya jika saya tidak memiliki set cangkir teh?"
         },
         "answer": {
-          "en": "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.",
-          "ko": "안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.",
-          "ja": "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。",
-          "zh": "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。",
-          "es": "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.",
-          "fr": "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.",
-          "de": "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.",
-          "pt": "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.",
-          "id": "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+          "ko": "정교한 다기 세트가 없더라도 따뜻한 온수나 티백 허브차 한 잔을 마시며 감각에 5분간 집중하는 것으로 충분히 대체 가능합니다.",
+          "en": "Even without a fancy tea set, sipping a warm cup of water or herbal tea bag while focusing on the physical senses for 5 minutes is a sufficient substitute.",
+          "ja": "精巧な茶器セットがなくても、温かいお湯やティーバッグのハーブティーを一杯飲みながら、感覚に5分間集中することで十分に代替可能です。",
+          "zh": "即使没有精致的茶具，喝一杯温水或袋泡花草茶，并将注意力集中在感官上5分钟，也完全可以替代。",
+          "es": "Incluso sin un juego de té elegante, tomar una taza de agua tibia o té de hierbas concentrándose en los sentidos por 5 minutos es suficiente.",
+          "fr": "Même sans service à thé, boire une tasse d'eau chaude ou d'infusion en vous concentrant sur vos sens pendant 5 minutes suffit.",
+          "de": "Auch ohne Teeservice reicht es, eine Tasse warmes Wasser oder Kräutertee zu trinken und sich 5 Minuten auf die Sinne zu konzentrieren.",
+          "pt": "Mesmo sem um jogo de chá elegante, tomar uma xícara de água morna ou chá de ervas concentrando-se nos sentidos por 5 minutos é suficiente.",
+          "id": "Meskipun tanpa set cangkir teh, meminum secangkir air hangat atau teh herbal sambil fokus pada indra selama 5 menit sudah cukup."
         }
       }
     ],

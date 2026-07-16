@@ -17,10 +17,10 @@ steps:
   - name: "Step 3: Objective gaze and meta-organization"
     text: "The three unique hidden morphological characteristics of objects discovered through observation are imprinted and stored as if enlarged rendering on a blackboard in the mind."
 faqs:
-  - question: "Is this a routine you perform the same every day?"
-    answer: "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit."
-  - question: "If I don't have the tool, how do I replace it?"
-    answer: "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided."
+  - question: "Should I perform this outdoor collection walk routine every day?"
+    answer: "Yes, breathing fresh morning air and focusing on the touch and texture of natural objects activates the brain's sensory areas and relieves stress."
+  - question: "How can I substitute if I'm not in a desert or stony environment?"
+    answer: "Simply walk in a city park and quietly observe or touch objects with fine natural textures, such as leaves, petals, or shells."
 ---
 
 Georgia O'Keeffe, the godmother of American modernist art and a female painter who pioneered the unique flower and desert bone painting style in 20th-century Western art history, and magnificently fixed the trivial shapes of Mother Nature on canvas using the focused close-up technique. She stood in the middle of the barren desert and stared for hours at the rough bones of unnoticed animals, the elaborate veins of wilted flowers, and the texture of grains of sand, magnified 10x or more as if through a magnifying glass. She created a visual impact by close-uping the smallest details of objects in overwhelming size on the entire canvas. This detailed visual focus and maximal rendering routine is what established her as an absolute master of modern art.
@@ -97,21 +97,21 @@ Training that extremely narrows attention to only a very small part of an object
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Is this a routine you perform the same every day?</span>
+      <span>Should I perform this outdoor collection walk routine every day?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.
+      Yes, breathing fresh morning air and focusing on the touch and texture of natural objects activates the brain's sensory areas and relieves stress.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>If I don't have the tool, how do I replace it?</span>
+      <span>How can I substitute if I'm not in a desert or stony environment?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.
+      Simply walk in a city park and quietly observe or touch objects with fine natural textures, such as leaves, petals, or shells.
     </p>
   </details>
 </div>

@@ -17,10 +17,10 @@ steps:
   - name: "Langkah 3: Pandangan obyektif dan meta-organisasi"
     text: "Dengan menyinkronkan sel motorik otak secara tepat ke lintasan gerakan lambat, saya mengamati dan mencatat gaya gesekan dan batas fisik tubuh saya."
 faqs:
-  - question: "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
-    answer: "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
-  - question: "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
-    answer: "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+  - question: "Haruskah saya melakukan latihan tangga nada segera setelah bangun tidur setiap pagi?"
+    answer: "Ya, latihan jari berulang yang sederhana setelah bangun tidur mengaktifkan korteks motorik otak dan melatih fokus perhatian."
+  - question: "Bagaimana cara menggantinya jika saya tidak memiliki piano sungguhan?"
+    answer: "Menggerakkan jari secara berurutan di atas meja dengan bantuan metronom sudah cukup merangsang korteks motorik."
 ---
 
 Komposer Hongaria Franz Liszt, kaisar piano selama era Romantis abad ke-19 dan pianis virtuoso terhebat pada masanya, memperluas batas ekspresi musik piano secara maksimal melalui kecanggihan dan metode latihan yang luar biasa. Alih-alih berlatih bermain keyboard dengan cepat dan sembarangan, ia berlatih setiap hari dengan memperlambat tempo metronom ke tingkat gerakan sangat lambat dan hanya memainkan satu tuts per detik tanpa kesalahan. Dia memprogram lintasan gerakan otot yang sempurna pada keyboard ke dalam otaknya, dan kemudian menggunakannya untuk menciptakan gerakan yang ajaib dan spektakuler.
@@ -97,21 +97,21 @@ Latihan mengendalikan gerakan jari dan otot tubuh secara sadar dengan memperlamb
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah ini rutinitas yang selalu Anda lakukan setiap hari?</span>
+      <span>Haruskah saya melakukan latihan tangga nada segera setelah bangun tidur setiap pagi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang.
+      Ya, latihan jari berulang yang sederhana setelah bangun tidur mengaktifkan korteks motorik otak dan melatih fokus perhatian.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Kalau saya tidak punya alatnya, bagaimana cara menggantinya?</span>
+      <span>Bagaimana cara menggantinya jika saya tidak memiliki piano sungguhan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan.
+      Menggerakkan jari secara berurutan di atas meja dengan bantuan metronom sudah cukup merangsang korteks motorik.
     </p>
   </details>
 </div>

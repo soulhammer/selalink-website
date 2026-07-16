@@ -165,50 +165,50 @@
     "faqs": [
       {
         "question": {
-          "en": "Is this a routine you perform the same every day?",
-          "ko": "매일 똑같이 수행하는 루틴인가요?",
-          "ja": "これはあなたが毎日行うルーチンですか？",
-          "zh": "这是你每天都会做的例行公事吗？",
-          "es": "¿Es esta una rutina que realizas igual todos los días?",
-          "fr": "Est-ce une routine que vous effectuez de la même manière tous les jours ?",
-          "de": "Ist das eine Routine, die Sie jeden Tag gleich durchführen?",
-          "pt": "Essa é uma rotina que você faz igual todos os dias?",
-          "id": "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
+          "ko": "매일 저녁 이 단절 루틴을 수행해야 하나요?",
+          "en": "Should I perform this isolation routine every evening?",
+          "ja": "毎晩この断絶ルーティンを行うべきですか？",
+          "zh": "每天晚上都需要进行这种断绝联系的规程吗？",
+          "es": "¿Debo realizar esta rutina de aislamiento todas las noches?",
+          "fr": "Dois-je faire cette routine d'isolement tous les soirs ?",
+          "de": "Sollte ich diese Isolationsroutine jeden Abend durchführen?",
+          "pt": "Devo realizar esta rotina de isolamento todas as noites?",
+          "id": "Haruskah saya melakukan rutinitas isolasi ini setiap malam?"
         },
         "answer": {
-          "en": "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build long-term neuron circuits.",
-          "ko": "네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.",
-          "ja": "そう、毎日決まった時間に3分間軽く行うことが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。",
-          "zh": "是的，每天在特定时间轻做 3 分钟是增厚大脑髓磷脂细胞并建立长期神经元回路的最聪明方法。",
-          "es": "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir circuitos neuronales a largo plazo.",
-          "fr": "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire des circuits neuronaux à long terme.",
-          "de": "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und langfristige Neuronenschaltkreise aufzubauen.",
-          "pt": "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir circuitos neuronais de longo prazo.",
-          "id": "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
+          "ko": "네, 일과 후 온전히 홀로 향을 맡으며 뇌를 쉬게 하는 단절 의식을 통해 일과 휴식의 경계를 명확히 구분합니다.",
+          "en": "Yes, establishing a clear boundary between work and rest through an isolation ritual, smelling scents completely alone after work.",
+          "ja": "はい、仕事の後に完全に一人で香りを感じながら脳を休ませる断絶儀式を通じて、仕事と休息の境界を明確に区分します。",
+          "zh": "是的，下班后通过独自闻香以放松大脑的断绝仪式，能清晰划分工作与休息的界限。",
+          "es": "Sí, establecer un límite claro entre el trabajo y el descanso mediante un ritual de aislamiento, oliendo fragancias a solas después del trabajo.",
+          "fr": "Oui, en établissant une frontière nette entre travail et repos grâce à un rituel d'isolement olfactif seul après le travail.",
+          "de": "Ja, ziehen Sie eine klare Grenze zwischen Arbeit und Ruhe durch ein Isolationsritual, bei dem Sie nach der Arbeit alleine Düfte genießen.",
+          "pt": "Sim, estabelecendo um limite claro entre trabalho e descanso por meio de um ritual de isolamento, cheirando fragrâncias sozinho após o trabalho.",
+          "id": "Ya, tetapkan batas yang jelas antara kerja dan istirahat melalui ritual isolasi, menghirup wewangian sendirian setelah bekerja."
         }
       },
       {
         "question": {
-          "en": "If I don't have the tool, how do I replace it?",
-          "ko": "도구가 없으면 어떻게 대체하나요?",
-          "ja": "ツールを持っていない場合、どうやって交換すればよいですか?",
-          "zh": "如果我没有该工具，如何更换？",
-          "es": "Si no tengo la herramienta, ¿cómo la reemplazo?",
-          "fr": "Si je n'ai pas l'outil, comment puis-je le remplacer ?",
-          "de": "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?",
-          "pt": "Se eu não tiver a ferramenta, como faço para substituí-la?",
-          "id": "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
+          "ko": "아로마 향수나 호텔 방이 없으면 어떻게 대체하나요?",
+          "en": "How can I substitute if I don't have aroma perfumes or a hotel room?",
+          "ja": "アロマ香水やホテルの部屋がない場合はどうすればいいですか？",
+          "zh": "没有香薰香水或酒店房间时该如何替代？",
+          "es": "¿Cómo podemos sustituir este hábito si no tengo perfumes de aroma o una habitación de hotel?",
+          "fr": "Comment puis-je remplacer les parfums ou la chambre d'hôtel si je n'en ai pas ?",
+          "de": "Wie kann ich Parfüms oder ein Hotelzimmer ersetzen, wenn ich keine habe?",
+          "pt": "Como posso substituir se não tiver perfumes de aroma ou um quarto de hotel?",
+          "id": "Bagaimana cara menggantinya jika saya tidak memiliki parfum aroma atau kamar hotel?"
         },
         "answer": {
-          "en": "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.",
-          "ko": "안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.",
-          "ja": "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。",
-          "zh": "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，通过灵活操作即可获得足够的效果。",
-          "es": "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.",
-          "fr": "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.",
-          "de": "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.",
-          "pt": "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.",
-          "id": "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+          "ko": "집 안의 정리된 구석 공간에서 가벼운 디퓨저나 멀티 밤 향을 맡으며 15분간 스마트폰을 끄는 격리 상태로도 동일한 효과를 냅니다.",
+          "en": "You can achieve the same effect by turning off your smartphone for 15 minutes in a tidy corner of your home while smelling a simple diffuser or multi-balm.",
+          "ja": "家の中の整理された隅の空間で、軽いディフューザーやマルチバームの香りを感じながら15分間スマートフォンをオフにする隔離状態でも同じ効果が得られます。",
+          "zh": "在家里整理好的角落里，闻着清淡的无火香薰或万用膏的香气，并关闭手机15分钟，也能达到同样的效果。",
+          "es": "Puedes lograr el mismo efecto apagando tu móvil por 15 minutos en un rincón ordenado de casa mientras hueles un difusor simple.",
+          "fr": "Éteindre votre smartphone pendant 15 minutes dans un coin calme de la maison en utilisant un diffuseur ou un baume produit le même effet.",
+          "de": "Schalten Sie Ihr Smartphone für 15 Minuten in einer ruhigen Ecke Ihrer Wohnung aus und nutzen Sie einen einfachen Diffusor.",
+          "pt": "Você pode obter o mesmo efeito desligando o smartphone por 15 minutos em um canto arrumado de casa enquanto sente o cheiro de um difusor simples.",
+          "id": "Anda dapat memperoleh efek yang sama dengan mematikan ponsel selama 15 min di sudut rumah yang rapi sambil menghirup aroma difuser."
         }
       }
     ],

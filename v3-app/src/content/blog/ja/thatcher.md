@@ -17,10 +17,10 @@ steps:
   - name: "ステップ3：客観的な視線とメタ組織化"
     text: "ハイライトされた 3 つのキーワードに基づいて、今日取るべき行動を 1 行引き出し、頭の中の脳のバッテリーを明確にリセットして書き留めます。"
 faqs:
-  - question: "これはあなたが毎日行うルーチンですか？"
-    answer: "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。"
-  - question: "ツールを持っていない場合、どうやって交換すればよいですか?"
-    answer: "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。"
+  - question: "毎朝このスケジュールブリーフィングルーティンを行うべきですか？"
+    answer: "激務開始の30分前にスケジュールの優先順位を声に出して確認する儀式が、前頭葉の実行制御能力を先んじて活性化させます。"
+  - question: "専用のメモボードやブリーフィング施設がない場合はどうすればいいですか？"
+    answer: "自分だけの静かな部屋で、手帳に書いた今日の核心業務3つを軽く独り言で呟きながら宣言することで十分に代替可能です。"
 ---
 
 マーガレット・サッチャー、英国初の女性首相であり、強硬な保守改革と経済再構築によって英国経済低迷の困難を冷静かつ断固として克服し、英国を強力な地位に置いた鉄の女。彼女は毎晩午前2時か3時まで首相官邸の書斎に座り、閣僚から提出された数百ページにわたる膨大な文書や法案報告書に目を通した。彼女は黄色の蛍光ペンを手に、報告書の行間を探り、不必要な修辞や官僚的な文章を無視し、国家政策の実現可能性、予算指標、法的問題という3つの重要な柱だけをなぞり、下線を引いた。この深夜のハイライトのルーチンは、英国の困難な問題を一気に克服するのに役立つ意志の力でした。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>これはあなたが毎日行うルーチンですか？</span>
+      <span>毎朝このスケジュールブリーフィングルーティンを行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。
+      激務開始の30分前にスケジュールの優先順位を声に出して確認する儀式が、前頭葉の実行制御能力を先んじて活性化させます。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>ツールを持っていない場合、どうやって交換すればよいですか?</span>
+      <span>専用のメモボードやブリーフィング施設がない場合はどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。
+      自分だけの静かな部屋で、手帳に書いた今日の核心業務3つを軽く独り言で呟きながら宣言することで十分に代替可能です。
     </p>
   </details>
 </div>

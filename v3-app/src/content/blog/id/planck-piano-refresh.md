@@ -17,8 +17,10 @@ steps:
   - name: "Merasakan Resonansi Suara dan Atur Ulang Pikiran"
     text: "Pusatkan perhatian Anda sepenuhnya pada gelombang suara tuts dan resonansi yang dihasilkan, membersihkan sisa kelelahan logika."
 faqs:
-  - question: "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
-    answer: "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+  - question: "Bagaimana cara memulai improvisasi piano tanpa lembar musik?"
+    answer: "Tekan tuts secara bebas tanpa mengkhawatirkan melodi. Fokus pada sentuhan tuts dan resonansi suara merelaksasi serta mengatur ulang jaringan konsentrasi otak."
+  - question: "Apakah pengaturan ulang kognitif bisa dilakukan dengan alat musik selain piano?"
+    answer: "Ya. Alat musik gesek, petik, atau tuts yang membutuhkan koordinasi jari halus dan kontrol suara langsung memberikan efek pengalihan perhatian yang serupa."
 ---
 
 Max Planck, bapak fisika modern. Di tengah kalkulasi logika intens untuk menyusun struktur alam semesta, kunci melepas penatnya adalah membebaskan diri melalui piano. Planck adalah pianis berbakat yang sering berduet musik dengan Albert Einstein. Setiap kali penelitiannya buntu, ia berimprovisasi piano tanpa partitur.
@@ -91,13 +93,23 @@ Penggunaan ekstrem pada area kognitif tertentu (logika matematika di otak kiri) 
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?</span>
+      <span>Bagaimana cara memulai improvisasi piano tanpa lembar musik?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian.
+      Tekan tuts secara bebas tanpa mengkhawatirkan melodi. Fokus pada sentuhan tuts dan resonansi suara merelaksasi serta mengatur ulang jaringan konsentrasi otak.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Apakah pengaturan ulang kognitif bisa dilakukan dengan alat musik selain piano?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Ya. Alat musik gesek, petik, atau tuts yang membutuhkan koordinasi jari halus dan kontrol suara langsung memberikan efek pengalihan perhatian yang serupa.
     </p>
   </details>
 </div>

@@ -17,8 +17,10 @@ steps:
   - name: "Noter une réflexion courte et son état émotionnel"
     text: "À la fin, notez une phrase marquante ou votre émotion du jour en quelques mots dans votre carnet, puis endormez-vous."
 faqs:
-  - question: "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?"
-    answer: "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction."
+  - question: "La lecture avant de dormir ne risque-t-elle pas de stimuler le cerveau et de perturber le sommeil ?"
+    answer: "Lisez des livres papier plutôt que des écrans. Choisir des livres calmes comme de la poésie ou des essais sous une lumière douce favorise le sommeil."
+  - question: "Comment noter mes passages préférés lors de la lecture nocturne sans perturber mon sommeil ?"
+    answer: "Au lieu d'allumer l'ordinateur, utilisez des post-it ou pliez les coins des pages, puis transférez-les sur votre fichier numérique le lendemain matin."
 ---
 
 Marilyn Monroe possédait plus de 400 livres classiques. Découvrez comment la lecture du soir et l'écriture intime apaisaient son système nerveux et réduisaient le stress.
@@ -91,13 +93,23 @@ L'exposition au stress excite le système sympathique, nuisant au sommeil. La le
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?</span>
+      <span>La lecture avant de dormir ne risque-t-elle pas de stimuler le cerveau et de perturber le sommeil ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.
+      Lisez des livres papier plutôt que des écrans. Choisir des livres calmes comme de la poésie ou des essais sous une lumière douce favorise le sommeil.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Comment noter mes passages préférés lors de la lecture nocturne sans perturber mon sommeil ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Au lieu d'allumer l'ordinateur, utilisez des post-it ou pliez les coins des pages, puis transférez-les sur votre fichier numérique le lendemain matin.
     </p>
   </details>
 </div>

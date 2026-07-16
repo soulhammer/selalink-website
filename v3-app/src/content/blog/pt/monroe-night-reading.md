@@ -17,8 +17,10 @@ steps:
   - name: "Escrever uma linha de reflexão e nota emocional"
     text: "Ao concluir, escriba una frase destacada del libro o su estado emocional del día en el diario y concilie el sueño inmediatamente."
 faqs:
-  - question: "O que devo escrever no diário nos dias em que não acontece nada de especial?"
-    answer: "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com la continuidad del ritual diário, não com o esfoço de redigir um ensaio longo."
+  - question: "Ler antes de dormir estimula o cérebro e interrompe o sono?"
+    answer: "Leia livros físicos em vez de ecrãs. Escolher livros no estimulantes como poesia ou ensaios sob luz suave induz ondas alfa, ajudando a dormir."
+  - question: "Como posso registar passagens favoritas durante a leitura noturna sem interromper o sono?"
+    answer: "Em vez de ligar o computador, use notas adesivas ou dobre os cantos das páginas, e transfira-as para o arquivo digital na manhã seguinte."
 ---
 
 Marilyn Monroe, o ícone do cinema de Hollywood. Atrás de sua imagem glamorosa, sofria o assédio constante da imprensa. A sua forma de proteger a identidade era un ritual noctuarno: lia clássicos como James Joyce e escrevia poemas. Analisemos como la escrita expresiva reduz o impacto do cortisol.
@@ -91,13 +93,23 @@ La exposição constante ao estresse eleva o sistema simpático, dificultando o 
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>O que devo escrever no diário nos dias em que não acontece nada de especial?</span>
+      <span>Ler antes de dormir estimula o cérebro e interrompe o sono?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com la continuidad del ritual diário, não com o esfoço de redigir um ensaio longo.
+      Leia livros físicos em vez de ecrãs. Escolher livros no estimulantes como poesia ou ensaios sob luz suave induz ondas alfa, ajudando a dormir.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Como posso registar passagens favoritas durante a leitura noturna sem interromper o sono?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Em vez de ligar o computador, use notas adesivas ou dobre os cantos das páginas, e transfira-as para o arquivo digital na manhã seguinte.
     </p>
   </details>
 </div>

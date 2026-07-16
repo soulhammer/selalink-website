@@ -17,8 +17,10 @@ steps:
   - name: "Ausschalten der morgendlichen Outfit-Wahl"
     text: "Ziehen Sie nach dem Aufstehen direkt das bereitliegende Outfit an. So starten Sie ohne Willensverlust in den Tag."
 faqs:
-  - question: "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?"
-    answer: "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes."
+  - question: "Wie gehen Sie bei dieser Gewohnheit mit wichtigen Meetings oder formellen Anlässen um?"
+    answer: "Wie gehen Sie bei dieser Gewohnheit mit wichtigen Meetings oder formellen Anlässen um?"
+  - question: "Kann ich ein Einheits-Outfit aus anderen Kleidungsstücken als T-Shirts und Jeans zusammenstellen?"
+    answer: "Natürlich. Wählen Sie eine schlichte, bequeme Kombination aus Hemden, Hosen oder Kleidern, in der Sie sich wohlfühlen, und schaffen Sie mehrere identische Sätze davon an."
 ---
 
 Facebook-Gründer Mark Zuckerberg. Um bei kritischen Entscheidungen für Meta voll fokussiert zu sein, reduzierte er alltägliche Entscheidungen: Er wählt keine Kleidung aus. Seine Garderobe besteht aus identischen grauen T-Shirts. Kognitionspsychologisch verbraucht jede Wahl Willenskraft, was zur Erschöpfung führt.
@@ -91,13 +93,23 @@ Der präfrontale Cortex verfügt über begrenzte Ressourcen. Jede Entscheidung (
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?</span>
+      <span>Wie gehen Sie bei dieser Gewohnheit mit wichtigen Meetings oder formellen Anlässen um?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.
+      Wie gehen Sie bei dieser Gewohnheit mit wichtigen Meetings oder formellen Anlässen um?
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Kann ich ein Einheits-Outfit aus anderen Kleidungsstücken als T-Shirts und Jeans zusammenstellen?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Natürlich. Wählen Sie eine schlichte, bequeme Kombination aus Hemden, Hosen oder Kleidern, in der Sie sich wohlfühlen, und schaffen Sie mehrere identische Sätze davon an.
     </p>
   </details>
 </div>

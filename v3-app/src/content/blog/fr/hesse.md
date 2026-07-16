@@ -17,10 +17,10 @@ steps:
   - name: "Étape 3 : Regard objectif et méta-organisation"
     text: "Respirez toute la stimulation factuelle analogique fournie par la nature pour éliminer complètement la fatigue cognitive de votre lobe frontal épuisé et enregistrez-la dans votre journal."
 faqs:
-  - question: "Est-ce une routine que vous effectuez de la même manière tous les jours ?"
-    answer: "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme."
-  - question: "Si je n'ai pas l'outil, comment puis-je le remplacer ?"
-    answer: "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni."
+  - question: "Dois-je faire cette routine de jardinage chaque jour ?"
+    answer: "Oui, le travail physique como toucher la terre et désherber repose le cortex préfrontal fatigué par la concentration."
+  - question: "Comment puis-je remplacer cette routine si je n'ai ni jardin ni terre ?"
+    answer: "Prendre soin de petites plantes d'intérieur sur un balcon, rempoter ou tailler des feuilles sèches est un excellent substitut."
 ---
 
 Hermann Hesse, romancier et poète qui a exploré la réalisation de soi humaine intérieure et l'errance de l'âme à travers la méditation analogique en tant que jardinier suisse, et lauréat du prix Nobel de littérature pour des chefs-d'œuvre tels que « Demian » et « Sous la roue ». Il est resté dans son jardin de campagne et a effectué le travail du jardinier analogique consistant à labourer le sol, à arracher les mauvaises herbes et à couper ou scier les branches mortes chaque jour. Pendant qu’il bougeait son corps avec diligence, il concentrait toute son attention sur les bruits des oiseaux dans la forêt, le bruit du vent et l’odeur de l’humidité du sol. Cette routine de méditation naturelle analogique était une source de stabilité et de guérison pour son âme, qui souffrait d'une grave dépression nerveuse.
@@ -97,21 +97,21 @@ Le simple fait de bouger le corps et de se concentrer uniquement sur les forêts
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Est-ce une routine que vous effectuez de la même manière tous les jours ?</span>
+      <span>Dois-je faire cette routine de jardinage chaque jour ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.
+      Oui, le travail physique como toucher la terre et désherber repose le cortex préfrontal fatigué par la concentration.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si je n'ai pas l'outil, comment puis-je le remplacer ?</span>
+      <span>Comment puis-je remplacer cette routine si je n'ai ni jardin ni terre ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.
+      Prendre soin de petites plantes d'intérieur sur un balcon, rempoter ou tailler des feuilles sèches est un excellent substitut.
     </p>
   </details>
 </div>

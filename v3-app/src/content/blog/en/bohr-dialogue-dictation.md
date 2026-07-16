@@ -17,8 +17,10 @@ steps:
   - name: "Revising Thoughts and Taking Notes Based on Questions"
     text: "Immediately write down and capture contradictions in your ideas and clues for solutions found through your partner's questions or your own speaking process."
 faqs:
-  - question: "How should I fill the journal on days when I have nothing special to write?"
-    answer: "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay."
+  - question: "How can I practice this in a solo environment without colleagues to discuss with?"
+    answer: "You can turn on a smartphone voice recorder or AI memo app and talk out loud as if explaining to someone. What matters is not the presence of a listener, but the neural process of externalizing thoughts into spoken language."
+  - question: "How do I connect the spoken contents into productive outcomes?"
+    answer: "You can briefly write down insights on a notepad while speaking, or save the STT (Speech-to-Text) conversion logs to organize into key idea nodes later."
 ---
 
 Niels Bohr established quantum mechanics, the greatest pillar of modern physics, and won the Nobel Prize. Although Bohr had some of the greatest scientific intuition in history, he paradoxically struggled with sitting quietly at his desk to write papers or compile complex ideas. Bohr had a unique ritual to bring ideas to life. He stood before a blackboard with his wife Margrethe or students like Heisenberg and Dirac, explaining concepts out loud or engaging in intense debates while having them write down his words. We dissect the principles of Bohr's conversational dictation.
@@ -91,13 +93,23 @@ Inner speech, processed entirely within the mind, is filled with logical leaps a
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>How should I fill the journal on days when I have nothing special to write?</span>
+      <span>How can I practice this in a solo environment without colleagues to discuss with?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.
+      You can turn on a smartphone voice recorder or AI memo app and talk out loud as if explaining to someone. What matters is not the presence of a listener, but the neural process of externalizing thoughts into spoken language.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>How do I connect the spoken contents into productive outcomes?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      You can briefly write down insights on a notepad while speaking, or save the STT (Speech-to-Text) conversion logs to organize into key idea nodes later.
     </p>
   </details>
 </div>

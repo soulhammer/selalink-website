@@ -17,10 +17,10 @@ steps:
   - name: "Passo 3: Visão objetiva e meta-organização"
     text: "Eu controlo firmemente os limites da minha consciência e me concentro na leitura de frases, como se colocasse um escudo transparente na minha cabeça para evitar que a estimulação sonora penetre no meu filtro cognitivo."
 faqs:
-  - question: "Essa é uma rotina que você faz igual todos os dias?"
-    answer: "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir circuitos neuronais de longo prazo."
-  - question: "Se eu não tiver a ferramenta, como faço para substituí-la?"
-    answer: "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido."
+  - question: "Devo realizar esta rotina de imersão musical antes de tarefas difíceis todos os dias?"
+    answer: "Sim, estreitar o foco cognitivo e entrar em concentração complexa por meio de um ritmo enérgico misturado com ruído."
+  - question: "Como posso substituir se não tiver fonógrafos geradores de ruído?"
+    answer: "Você pode substituir reproduzindo ruído branco de ritmo rápido, sons ambientes mecânicos ou música animada com fones de ouvido."
 ---
 
 John von Neumann, a pessoa mais inteligente da história da humanidade e um matemático genial da Hungria que, sozinho, projetou as bases dos estudos humanos modernos (teoria dos jogos, arquitetura de Neumann) em todos os campos, incluindo matemática, ciência da computação, economia e mecânica quântica. Ele foi capaz de derivar fórmulas matemáticas complexas e fórmulas de arquitetura de computador sem dificuldade, mesmo sentado em um canto de uma festa com música alta tocando ou em um banco em uma sala de espera barulhenta onde um trem tremia e vapor emitia vapor. Por mais barulhento que fosse o ambiente, ele isolava seus recursos cognitivos apenas no quadro negro virtual construído em sua cabeça. Essa rotina de isolamento e imersão em ruído branco foi o que fez dele o maior matemático genial da história.
@@ -97,21 +97,21 @@ O ato de manter artificialmente a imersão sob um certo nível de estimulação 
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Essa é uma rotina que você faz igual todos os dias?</span>
+      <span>Devo realizar esta rotina de imersão musical antes de tarefas difíceis todos os dias?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir circuitos neuronais de longo prazo.
+      Sim, estreitar o foco cognitivo e entrar em concentração complexa por meio de um ritmo enérgico misturado com ruído.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Se eu não tiver a ferramenta, como faço para substituí-la?</span>
+      <span>Como posso substituir se não tiver fonógrafos geradores de ruído?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.
+      Você pode substituir reproduzindo ruído branco de ritmo rápido, sons ambientes mecânicos ou música animada com fones de ouvido.
     </p>
   </details>
 </div>

@@ -17,10 +17,10 @@ steps:
   - name: "Langkah 3: Pandangan obyektif dan meta-organisasi"
     text: "Tiga ciri morfologi tersembunyi yang unik dari objek yang ditemukan melalui observasi dicetak dan disimpan seolah-olah diperbesar di papan tulis dalam pikiran."
 faqs:
-  - question: "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
-    answer: "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
-  - question: "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
-    answer: "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+  - question: "Haruskah saya melakukan rutinitas berjalan mengumpulkan benda alam ini setiap hari?"
+    answer: "Ya, menghirup udara pagi yang segar dan fokus pada sentuhan serta tekstur benda alam sangat baik untuk mengaktifkan area sensorik otak dan meredakan stres."
+  - question: "Bagaimana cara menggantinya jika saya tidak berada di gurun atau lingkungan berbatu?"
+    answer: "Cukup berjalan santai di taman kota dan amati atau sentuh objek bertekstur alam seperti daun, kelopak bunga, atau kerang."
 ---
 
 Georgia O'Keeffe, ibu baptis seni modernis Amerika dan pelukis wanita yang memelopori gaya lukisan bunga dan tulang gurun yang unik dalam sejarah seni Barat abad ke-20, dan dengan luar biasa memperbaiki bentuk-bentuk sepele Ibu Pertiwi di atas kanvas menggunakan teknik close-up yang terfokus. Dia berdiri di tengah gurun tandus dan berjam-jam menatap tulang-tulang kasar hewan yang tidak disadari, urat-urat bunga layu yang rumit, dan tekstur butiran pasir, diperbesar 10x atau lebih seolah-olah melalui kaca pembesar. Dia menciptakan dampak visual dengan menutup detail terkecil objek dalam ukuran besar di seluruh kanvas. Fokus visual yang mendetail dan rutinitas rendering yang maksimal inilah yang menjadikannya sebagai master mutlak seni modern.
@@ -97,21 +97,21 @@ Pelatihan yang sangat mempersempit perhatian hanya pada bagian yang sangat kecil
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah ini rutinitas yang selalu Anda lakukan setiap hari?</span>
+      <span>Haruskah saya melakukan rutinitas berjalan mengumpulkan benda alam ini setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang.
+      Ya, menghirup udara pagi yang segar dan fokus pada sentuhan serta tekstur benda alam sangat baik untuk mengaktifkan area sensorik otak dan meredakan stres.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Kalau saya tidak punya alatnya, bagaimana cara menggantinya?</span>
+      <span>Bagaimana cara menggantinya jika saya tidak berada di gurun atau lingkungan berbatu?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan.
+      Cukup berjalan santai di taman kota dan amati atau sentuh objek bertekstur alam seperti daun, kelopak bunga, atau kerang.
     </p>
   </details>
 </div>

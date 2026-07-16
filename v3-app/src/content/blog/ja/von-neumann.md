@@ -17,10 +17,10 @@ steps:
   - name: "ステップ 3: 客観視とメタ整理"
     text: "まるで透明なシールドを頭の上にかぶせて、騒音刺激が認知フィルターを通過するのを防ぐかのように、意識の境界をしっかりと制御しています。"
 faqs:
-  - question: "これはあなたが毎日行うルーチンですか？"
-    answer: "そう、毎日決まった時間に3分間軽く行うことが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。"
-  - question: "ツールを持っていない場合、どうやって交換すればよいですか?"
-    answer: "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。"
+  - question: "毎日難しい課題に入る前に、この音楽没入ルーティンを行うべきですか？"
+    answer: "はい、騒音の混ざった活気あるリズムを通じて極度の認知注意幅を狭め、複雑な演算集中に入りました。"
+  - question: "騒音蓄音機や専用機器がない場合はどうすればいいですか？"
+    answer: "イヤホンでテンポの速いホワイトノイズ、機械音アンビエントサウンド、あるいは軽快なビートの音楽を流して没頭を開始することで代替可能です。"
 ---
 
 人類史上最も知性があり、数学、コンピューターサイエンス、経済学、量子力学などあらゆる分野における現代人文研究（ゲーム理論、ノイマンアーキテクチャ）の基礎を独力で設計したハンガリーの天才数学者、ジョン・フォン・ノイマン。大音量の音楽が流れるパーティーの隅っこに座っていても、電車が揺れて蒸気が噴き出す騒がしい待合室のベンチに座っていても、複雑な数式やコンピュータアーキテクチャの公式を難なく導き出すことができた。周囲がどんなに騒がしくても、彼は自分の認知リソースを頭の中に構築された仮想黒板上にのみ隔離していました。この孤立してホワイトノイズに浸るという習慣こそが、彼を歴史上最も偉大な天才数学者にしたのです。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>これはあなたが毎日行うルーチンですか？</span>
+      <span>毎日難しい課題に入る前に、この音楽没入ルーティンを行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      そう、毎日決まった時間に3分間軽く行うことが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。
+      はい、騒音の混ざった活気あるリズムを通じて極度の認知注意幅を狭め、複雑な演算集中に入りました。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>ツールを持っていない場合、どうやって交換すればよいですか?</span>
+      <span>騒音蓄音機や専用機器がない場合はどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。
+      イヤホンでテンポの速いホワイトノイズ、機械音アンビエントサウンド、あるいは軽快なビートの音楽を流して没頭を開始することで代替可能です。
     </p>
   </details>
 </div>

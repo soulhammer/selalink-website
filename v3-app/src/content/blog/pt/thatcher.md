@@ -17,10 +17,10 @@ steps:
   - name: "Etapa 3: Olhar objetivo e metaorganização"
     text: "Com base nas três palavras-chave destacadas, escolha uma linha de ação a ser tomada hoje, reinicie claramente a bateria do cérebro em sua cabeça e anote-a."
 faqs:
-  - question: "Essa é uma rotina que você realiza todos os dias?"
-    answer: "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo."
-  - question: "Se eu não tiver a ferramenta, como posso substituí-la?"
-    answer: "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido."
+  - question: "Devo realizar esta rotina de preparação de agenda todas as manhãs?"
+    answer: "Sim, revisar as prioridades em voz alta 30 minutos antes do trabalho pré-ativa o controle executivo do córtex pré-frontal."
+  - question: "Como posso substituir se não tiver um quadro de notas dedicado?"
+    answer: "Basta dizer a si mesmo em voz alta em um quarto silencioso as 3 tarefas principais do dia anotadas em um caderno."
 ---
 
 Margaret Thatcher, a primeira mulher primeira-ministra britânica e a senhora de ferro que superou com frieza e firmeza as dificuldades da crise económica britânica através de reformas conservadoras de linha dura e de reestruturação económica, colocando a Grã-Bretanha numa posição poderosa. Ela ficava sentada no escritório do Gabinete do Primeiro Ministro todas as noites até as 2 ou 3 da manhã, examinando centenas de páginas de volumosos documentos e relatórios de projetos de lei apresentados por funcionários do gabinete. Com um marcador amarelo na mão, ela percorreu as entrelinhas do relatório, ignorando a retórica desnecessária e o texto burocrático, traçando e sublinhando apenas três pilares fundamentais: a viabilidade das políticas nacionais, os indicadores orçamentais e as questões jurídicas. Essa rotina de destaques noturnos foi a força de vontade que ajudou a superar os difíceis problemas da Grã-Bretanha de uma só vez.
@@ -97,21 +97,21 @@ O ato de extrair eixos de informação chave de dados massivos e realizar o proc
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Essa é uma rotina que você realiza todos os dias?</span>
+      <span>Devo realizar esta rotina de preparação de agenda todas as manhãs?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo.
+      Sim, revisar as prioridades em voz alta 30 minutos antes do trabalho pré-ativa o controle executivo do córtex pré-frontal.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Se eu não tiver a ferramenta, como posso substituí-la?</span>
+      <span>Como posso substituir se não tiver um quadro de notas dedicado?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.
+      Basta dizer a si mesmo em voz alta em um quarto silencioso as 3 tarefas principais do dia anotadas em um caderno.
     </p>
   </details>
 </div>

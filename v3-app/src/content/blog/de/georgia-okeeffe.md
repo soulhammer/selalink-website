@@ -17,10 +17,10 @@ steps:
   - name: "Schritt 3: Objektiver Blick und Meta-Organisation"
     text: "Die drei einzigartigen verborgenen morphologischen Eigenschaften von Objekten, die durch Beobachtung entdeckt wurden, werden wie eine vergrößerte Darstellung auf einer Tafel im Kopf eingeprägt und gespeichert."
 faqs:
-  - question: "Ist das eine Routine, die Sie jeden Tag gleich durchführen?"
-    answer: "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen."
-  - question: "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?"
-    answer: "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist."
+  - question: "Sollte ich diese Sammel-Spaziergang-Routine jeden Tag durchführen?"
+    answer: "Ja, frische Morgenluft und die Konzentration auf die Textur natürlicher Objekte aktivieren die sensorischen Areale und bauen Stress ab."
+  - question: "Wie kann ich die Routine ersetzen, wenn ich nicht in einer Wüste oder steinigen Umgebung bin?"
+    answer: "Spazieren Sie in einem Park und betrachten oder berühren Sie Objekte mit natürlichen Texturen wie Blätter, Blüten oder Muscheln."
 ---
 
 Georgia O'Keeffe, die Patin der amerikanischen Kunst der Moderne und eine Malerin, die den einzigartigen Stil der Blumen- und Wüstenknochenmalerei in der westlichen Kunstgeschichte des 20. Jahrhunderts bahnte und die trivialen Formen von Mutter Natur mithilfe der fokussierten Nahaufnahmetechnik auf großartige Weise auf Leinwand fixierte. Sie stand mitten in der kargen Wüste und starrte stundenlang auf die rauen Knochen unbemerkter Tiere, die kunstvollen Adern verwelkter Blumen und die Textur von Sandkörnern, zehnfach oder mehr vergrößert wie durch ein Vergrößerungsglas. Sie erzeugte eine visuelle Wirkung, indem sie die kleinsten Details von Objekten in überwältigender Größe auf der gesamten Leinwand in Nahaufnahmen aufnahm. Dieser detaillierte visuelle Fokus und die maximale Wiedergaberoutine machten sie zu einer absoluten Meisterin der modernen Kunst.
@@ -97,21 +97,21 @@ Training, das die Aufmerksamkeit extrem auf nur einen sehr kleinen Teil eines Ob
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Ist das eine Routine, die Sie jeden Tag gleich durchführen?</span>
+      <span>Sollte ich diese Sammel-Spaziergang-Routine jeden Tag durchführen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.
+      Ja, frische Morgenluft und die Konzentration auf die Textur natürlicher Objekte aktivieren die sensorischen Areale und bauen Stress ab.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?</span>
+      <span>Wie kann ich die Routine ersetzen, wenn ich nicht in einer Wüste oder steinigen Umgebung bin?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.
+      Spazieren Sie in einem Park und betrachten oder berühren Sie Objekte mit natürlichen Texturen wie Blätter, Blüten oder Muscheln.
     </p>
   </details>
 </div>

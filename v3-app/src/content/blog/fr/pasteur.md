@@ -17,10 +17,10 @@ steps:
   - name: "Étape 3 : Regard objectif et méta-organisation"
     text: "Après 1 heure, observez à nouveau le sujet, mesurez des changements très infimes (écart de 1 mm, changement d'indicateur de 1 %, etc.) et effectuez un entraînement au feedback pour déduire et analyser la relation de cause à effet pendant 1 minute et enregistrez-le."
 faqs:
-  - question: "Est-ce une routine que vous effectuez de la même manière tous les jours ?"
-    answer: "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme."
-  - question: "Si je n'ai pas l'outil, comment puis-je le remplacer ?"
-    answer: "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni."
+  - question: "Dois-je faire ce rituel d'organisation avant le travail chaque jour ?"
+    answer: "Oui, nettoyer les objectifs avant de commencer le travail envoie un signal d'ordre au cerveau, maximisant la concentration."
+  - question: "Comment puis-je remplacer le microscope ou le chiffon si je n'en ai pas ?"
+    answer: "Essuyer votre écran avec un chiffon en microfibre, ranger votre bureau ou nettoyer votre smartphone avant le travail produit le même effet."
 ---
 
 Louis Pasteur, pionnier absolu de la médecine et de la microbiologie modernes et chimiste de génie français pionnier des vaccins, a sauvé l'humanité de la peur des maladies infectieuses en inventant la pasteurisation et les vaccins contre le charbon et la rage. Il était assis à son bureau de laboratoire et regardait immobile pendant des heures un flacon de culture sous une loupe de microscope. Il a méticuleusement dessiné et enregistré dans son carnet les minuscules traces de secousses laissées par les micro-organismes lors de leur prolifération. Sa méthode de désinfection et sa découverte de vaccins sont nées de cette routine d’observation en regardant le flacon.
@@ -97,21 +97,21 @@ Le fait de former une hypothèse et de saisir la trajectoire des changements dan
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Est-ce une routine que vous effectuez de la même manière tous les jours ?</span>
+      <span>Dois-je faire ce rituel d'organisation avant le travail chaque jour ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.
+      Oui, nettoyer les objectifs avant de commencer le travail envoie un signal d'ordre au cerveau, maximisant la concentration.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si je n'ai pas l'outil, comment puis-je le remplacer ?</span>
+      <span>Comment puis-je remplacer le microscope ou le chiffon si je n'en ai pas ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.
+      Essuyer votre écran avec un chiffon en microfibre, ranger votre bureau ou nettoyer votre smartphone avant le travail produit le même effet.
     </p>
   </details>
 </div>

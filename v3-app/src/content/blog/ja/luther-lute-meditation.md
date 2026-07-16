@@ -17,8 +17,10 @@ steps:
   - name: "振動刺激の認知と深呼吸の結合"
     text: "楽器のボディを通じて胸や指に伝わる穏やかな物理的波動を感じながら、吸って吐く呼吸を組み合わせて瞑想を締めくくります。"
 faqs:
-  - question: "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？"
-    answer: "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。"
+  - question: "演奏できる楽器が全くない初心者でも効果がありますか？"
+    answer: "シンギングボウル、タングドラム、カリンバのように、演奏が簡単で澄んだ音を出すシンプルな楽器で5分間音に集中するだけで十分です。脳に「評価されない創作の安全地帯」を提供することが本質です。"
+  - question: "音楽鑑賞だけで演奏ルーティンと同じ効果を出すことはできませんか？"
+    answer: "音楽を受動的に聴くよりも、指先の微細な筋肉を動かし、弦の振動を感じながら音を直接コントロールする演奏行為が、脳の運動皮質や前頭葉の注意集中ネットワークをはるかに強く刺激します。"
 ---
 
 免罪符販売を強く批判し、ヴィッテンベルクの城教会の門に「95ヶ条の論題」を掲げて宗教改革の火蓋を切った神学者マルティン・ルター。歴史上、カトリック教会の最も強力な権威に一人で立ち向かったルターであったため、彼の日常は異端宣告、暗殺の危機、絶え間ない激論など、毎日が極限の戦場に立っているかのような重圧でした。慢性的な胃腸障害と極度の恐慌状態に悩まされた彼が、メンタルを維持し聖書翻訳と改革活動を導いた力は、毎朝弦楽器の「リュート（Lute）」を手に取り指を弾く行動でした。ルターは朝の祈りの後、リュートを奏でて歌う儀式を通じて、心にへばりついた悩みと恐怖を洗い流しました。音楽の持つ物理的な波動が脳の緊張神経系を弛緩させる原理を解剖します。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？</span>
+      <span>演奏できる楽器が全くない初心者でも効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。
+      シンギングボウル、タングドラム、カリンバのように、演奏が簡単で澄んだ音を出すシンプルな楽器で5分間音に集中するだけで十分です。脳に「評価されない創作の安全地帯」を提供することが本質です。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>音楽鑑賞だけで演奏ルーティンと同じ効果を出すことはできませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      音楽を受動的に聴くよりも、指先の微細な筋肉を動かし、弦の振動を感じながら音を直接コントロールする演奏行為が、脳の運動皮質や前頭葉の注意集中ネットワークをはるかに強く刺激します。
     </p>
   </details>
 </div>

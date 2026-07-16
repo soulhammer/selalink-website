@@ -17,8 +17,10 @@ steps:
   - name: "Arsipkan Hasil Teks dan Atur Ulang Pikiran"
     text: "Matikan perekam, simpan transkrip teks tersebut ke folder arsip harian, dan mulailah aktivitas baru dengan pikiran segar."
 faqs:
-  - question: "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
-    answer: "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+  - question: "Bagaimana orang modern mempraktikkan dikte harian tanpa asisten?"
+    answer: "Kami menyarankan Anda menggunakan fitur STT (Speech-to-Text) ponsel atau aplikasi memo AI dan menyuarakan beban pikiran hari ini selama 5 menit."
+  - question: "Apa yang harus saya bicarakan saat dikte untuk meningkatkan produktivitas?"
+    answer: "Menyebutkan kejadian kemarin, merinci prioritas kerja hari ini, atau menyuarakan kondisi emosional Anda saat ini secara apa adanya sudah cukup."
 ---
 
 Seniman pop art, Andy Warhol. Di tengah hiruk-pikuk studio 'The Factory' dan kerumitan relasi sosialnya, ia menjaga ketajaman kreatifnya dengan rutinitas lisan pagi hari. Setiap pagi, ia menelepon sekretarisnya, Pat Hackett, untuk mendiktekan detail aktivitasnya kemarin. Ulas manfaat pelepasan beban kognitif (Cognitive Offloading).
@@ -91,13 +93,23 @@ Kapasitas RAM memori kerja otak sangat terbatas. Menyimpan sisa tugas dan pengel
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?</span>
+      <span>Bagaimana orang modern mempraktikkan dikte harian tanpa asisten?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian.
+      Kami menyarankan Anda menggunakan fitur STT (Speech-to-Text) ponsel atau aplikasi memo AI dan menyuarakan beban pikiran hari ini selama 5 menit.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Apa yang harus saya bicarakan saat dikte untuk meningkatkan produktivitas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Menyebutkan kejadian kemarin, merinci prioritas kerja hari ini, atau menyuarakan kondisi emosional Anda saat ini secara apa adanya sudah cukup.
     </p>
   </details>
 </div>

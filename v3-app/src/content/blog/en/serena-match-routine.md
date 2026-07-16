@@ -17,8 +17,10 @@ steps:
   - name: "Immediate Task Entry Linked to the Routine"
     text: "At the exact physical end point of the last ritual, open your main presentation or task document without hesitation and start your first line."
 faqs:
-  - question: "How should I fill the journal on days when I have nothing special to write?"
-    answer: "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay."
+  - question: "How do I build my own routine before important events like presentations or tests?"
+    answer: "Establish 2-3 simple steps that you completely control, such as tying shoes in a certain way, taking deep breaths, or reciting a positive phrase, and repeat them consistently."
+  - question: "How do I manage anxiety when I miss a step or make a mistake in my routine?"
+    answer: "Understand that a routine is merely a psychological anchor, not the source of your skill. Embracing slips as 'part of the situation' maximizes the true benefits of having a routine."
 ---
 
 Winner of 23 Grand Slam singles, the greatest tennis queen of all time, Serena Williams. Amidst microscopic media attention and the brutal pressure on the court where losing a single point could slip her ranking, the weapons that kept her at the top for 20 years were her obsessive and unique pre-match routines. Before entering the court, she always listened to music with the same headphones, and bounced the ball exactly 5 times before the first serve. We explore how these physical actions blocked uncontrollable anxiety variables and focused her mind.
@@ -91,13 +93,23 @@ The intense anxiety felt right before an exam or match stimulates the brain's hy
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>How should I fill the journal on days when I have nothing special to write?</span>
+      <span>How do I build my own routine before important events like presentations or tests?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.
+      Establish 2-3 simple steps that you completely control, such as tying shoes in a certain way, taking deep breaths, or reciting a positive phrase, and repeat them consistently.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>How do I manage anxiety when I miss a step or make a mistake in my routine?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Understand that a routine is merely a psychological anchor, not the source of your skill. Embracing slips as 'part of the situation' maximizes the true benefits of having a routine.
     </p>
   </details>
 </div>

@@ -17,8 +17,10 @@ steps:
   - name: "Arquivar o texto e reiniciar a mente"
     text: "Finalize a gravação e guarde o texto resultante. Declare mentalmente: 'A tela de ontem está em branco'. Comece o seu dia de trabalho."
 faqs:
-  - question: "O que devo escrever no diário nos dias em que não acontece nada de especial?"
-    answer: "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade del ritual diário, não com o esforço de redigir um ensaio longo."
+  - question: "Como as pessoas hoje podem praticar esse hábito de ditado sem um assistente?"
+    answer: "Recomendamos usar a função de voz para texto (STT) do telemóvel ou um aplicativo de notas e expressar em voz alta os eventos de ontem ou cargas de hoje por 5 minutos."
+  - question: "Sobre o que devo falar durante o ditado para aumentar a produtividade?"
+    answer: "Listar os fatos de ontem, fazer um despejo de ideias das prioridades de trabalho de hoje ou expressar seu estado emocional atual de forma crua é suficiente."
 ---
 
 Andy Warhol, o rei do pop art. Rodeado da agitação do seu estúdio 'The Factory', as suas despesas e os seus contatos, idealizou um ritual diário: o ditado telefónico. Cada manhã ligava para a sua secretária Pat Hackett e narrava ao detalhe a sua jornada anterior. Analisemos como este processo liberta espaço na memória.
@@ -91,13 +93,23 @@ La memória de trabalho tem um limite estrito de retenção de dados. Se os deta
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>O que devo escrever no diário nos dias em que não acontece nada de especial?</span>
+      <span>Como as pessoas hoje podem praticar esse hábito de ditado sem um assistente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade del ritual diário, não com o esforço de redigir um ensaio longo.
+      Recomendamos usar a função de voz para texto (STT) do telemóvel ou um aplicativo de notas e expressar em voz alta os eventos de ontem ou cargas de hoje por 5 minutos.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Sobre o que devo falar durante o ditado para aumentar a produtividade?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Listar os fatos de ontem, fazer um despejo de ideias das prioridades de trabalho de hoje ou expressar seu estado emocional atual de forma crua é suficiente.
     </p>
   </details>
 </div>

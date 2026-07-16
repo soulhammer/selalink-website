@@ -17,8 +17,10 @@ steps:
   - name: "Registrar de inmediato los hallazgos subconscientes"
     text: "Al concluir la caminata, anote inmediatamente en su diario la cadena de ideas o soluciones reveladas por su procesamiento subconsciente."
 faqs:
-  - question: "¿Qué debo escribir en el diario los días en los que no pasa nada especial?"
-    answer: "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo."
+  - question: "¿Cómo puedo reemplazar esto si vivo en la ciudad y es difícil hacer senderismo?"
+    answer: "Puedes sustituirlo caminando en un parque de la ciudad durante más de 30 minutos sin móvil. La clave es estimular los sentidos espaciotemporales y aumentar el flujo sanguíneo cerebral."
+  - question: "¿Hay algún consejo para registrar las ideas que surgen durante una caminata sin olvidarlas?"
+    answer: "Recomendamos llevar un pequeño cuaderno y bolígrafo en el bolsillo para anotar palabras clave al instante, o usar notas de voz para no interrumpir la caminata."
 ---
 
 Werner Heisenberg, el físico del principio de incertidumbre. En 1925, bloqueado por las ecuaciones del átomo, viajó solo a los Alpes bávaros para caminar días enteros. Encontró el camino en medio de los bosques. Analicemos cómo la caminata natural reduce la fatiga atencional (teoría de restauración de atención) y permite al cerebro reestructurar problemas abstractos sin interferencias.
@@ -91,13 +93,23 @@ El enfoque voluntario continuado agota los recursos de atención dirigida del l�
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Qué debo escribir en el diario los días en los que no pasa nada especial?</span>
+      <span>¿Cómo puedo reemplazar esto si vivo en la ciudad y es difícil hacer senderismo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.
+      Puedes sustituirlo caminando en un parque de la ciudad durante más de 30 minutos sin móvil. La clave es estimular los sentidos espaciotemporales y aumentar el flujo sanguíneo cerebral.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>¿Hay algún consejo para registrar las ideas que surgen durante una caminata sin olvidarlas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Recomendamos llevar un pequeño cuaderno y bolígrafo en el bolsillo para anotar palabras clave al instante, o usar notas de voz para no interrumpir la caminata.
     </p>
   </details>
 </div>

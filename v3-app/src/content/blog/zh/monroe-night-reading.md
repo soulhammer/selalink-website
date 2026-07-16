@@ -17,8 +17,10 @@ steps:
   - name: "写下一句感悟与情感日记"
     text: "阅读结束后，在日记本上将印象深刻的段落或今天一天的核心情感以1-2句话简短地写下来，随后入睡。"
 faqs:
-  - question: "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？"
-    answer: "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。"
+  - question: "睡前阅读不会因为刺激大脑而妨碍睡眠吗？"
+    answer: "用纸质书代替散发蓝光的智能手机，并且比起刺激的小说，在温和的间接照明下阅读人文学、诗集、平静的散文等书籍，有助于诱导阿尔法波，促进熟睡。"
+  - question: "夜晚阅读时如何整理喜欢的段落才不会打扰睡眠？"
+    answer: "建议睡前不要打开电脑，用贴贴纸标记或折叠书角，等第二天早上或白天的空闲时间再整理录入到数字笔记中。"
 ---
 
 20世纪大众文化史上最迷人的时尚偶像和女演员玛丽莲·梦露。虽然她在银幕上闪耀夺目，令全世界为之疯狂，但银幕背后的生活却饱受身份认同混乱、媒体窥私欲报道以及隐私侵犯带来的极大压力与神经衰弱的折磨。在世人浅薄的注视背后，真实的梦露其实是一位深爱阅读的爱书家，她收藏了400多册经典藏书，并阅读奥斯卡·王尔德和詹姆斯·乔伊斯的作品。每天晚上，她都会摘下华丽的金发假发，在卧室台灯下研读经典书籍，用诗歌和日记记录下自己复杂的心情。我们将从脑科学角度探讨这种静心阅读和写作是如何重置她的神经系统的。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？</span>
+      <span>睡前阅读不会因为刺激大脑而妨碍睡眠吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。
+      用纸质书代替散发蓝光的智能手机，并且比起刺激的小说，在温和的间接照明下阅读人文学、诗集、平静的散文等书籍，有助于诱导阿尔法波，促进熟睡。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>夜晚阅读时如何整理喜欢的段落才不会打扰睡眠？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      建议睡前不要打开电脑，用贴贴纸标记或折叠书角，等第二天早上或白天的空闲时间再整理录入到数字笔记中。
     </p>
   </details>
 </div>

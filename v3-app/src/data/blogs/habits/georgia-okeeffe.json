@@ -165,50 +165,50 @@
     "faqs": [
       {
         "question": {
-          "en": "Is this a routine you perform the same every day?",
-          "ko": "매일 똑같이 수행하는 루틴인가요?",
-          "ja": "これはあなたが毎日行うルーチンですか？",
-          "zh": "这是你每天都会做的例行公事吗？",
-          "es": "¿Es esta una rutina que realizas igual todos los días?",
-          "fr": "Est-ce une routine que vous effectuez de la même manière tous les jours ?",
-          "de": "Ist das eine Routine, die Sie jeden Tag gleich durchführen?",
-          "pt": "Essa é uma rotina que você faz igual todos os dias?",
-          "id": "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
+          "ko": "매일 야외 수집 산책 루틴을 수행해야 하나요?",
+          "en": "Should I perform this outdoor collection walk routine every day?",
+          "ja": "毎日屋外での収集散歩ルーティンを行うべきですか？",
+          "zh": "每天都需要进行这种户外采集漫步规程吗？",
+          "es": "¿Debo realizar esta rutina de caminata de recolección al aire libre todos los días?",
+          "fr": "Dois-je faire cette routine de marche et de collecte en plein air chaque jour ?",
+          "de": "Sollte ich diese Sammel-Spaziergang-Routine jeden Tag durchführen?",
+          "pt": "Devo realizar esta rotina de caminhada e coleta ao ar livre todos os dias?",
+          "id": "Haruskah saya melakukan rutinitas berjalan mengumpulkan benda alam ini setiap hari?"
         },
         "answer": {
-          "en": "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.",
-          "ko": "네, 매일 일정한 시간에 가볍게 3분씩 지속하는 것이 뇌의 미엘린 세포를 두껍게 연결하여 장기적인 뉴런 회로를 구축하는 가장 현명한 방법입니다.",
-          "ja": "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。",
-          "zh": "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、建立长期神经元回路的最聪明方法。",
-          "es": "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.",
-          "fr": "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.",
-          "de": "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.",
-          "pt": "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo.",
-          "id": "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
+          "ko": "네, 아침의 신선한 공기를 마시며 자연물의 촉각과 질감에 집중하는 것이 뇌의 감각 영역 활성화와 스트레스 해소에 좋습니다.",
+          "en": "Yes, breathing fresh morning air and focusing on the touch and texture of natural objects activates the brain's sensory areas and relieves stress.",
+          "ja": "はい、朝の新鮮な空気を吸いながら自然物の触覚と質感に集中することが、脳の感覚領域の活性化とストレス解消に良いです。",
+          "zh": "是的，呼吸清晨的新鲜空气并集中精力感受自然物的触觉和质地，有利于激活大脑感官区域和缓解压力。",
+          "es": "Sí, respirar aire fresco por la mañana y concentrarse en el tacto y textura de objetos naturales activa las áreas sensoriales y reduce el estrés.",
+          "fr": "Oui, respirer l'air frais du matin et se concentrer sur la texture d'objets naturels stimule les zones sensorielles et libère le stress.",
+          "de": "Ja, frische Morgenluft und die Konzentration auf die Textur natürlicher Objekte aktivieren die sensorischen Areale und bauen Stress ab.",
+          "pt": "Sim, respirar ar fresco pela manhã e concentrar-se no toque e textura de objetos naturais activa as áreas sensoriais e alivia o estresse.",
+          "id": "Ya, menghirup udara pagi yang segar dan fokus pada sentuhan serta tekstur benda alam sangat baik untuk mengaktifkan area sensorik otak dan meredakan stres."
         }
       },
       {
         "question": {
-          "en": "If I don't have the tool, how do I replace it?",
-          "ko": "도구가 없으면 어떻게 대체하나요?",
-          "ja": "ツールを持っていない場合、どうやって交換すればよいですか?",
-          "zh": "如果我没有该工具，如何更换？",
-          "es": "Si no tengo la herramienta, ¿cómo la reemplazo?",
-          "fr": "Si je n'ai pas l'outil, comment puis-je le remplacer ?",
-          "de": "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?",
-          "pt": "Se eu não tiver a ferramenta, como faço para substituí-la?",
-          "id": "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
+          "ko": "사막이나 자연석 수집 환경이 아니면 어떻게 대체하나요?",
+          "en": "How can I substitute if I'm not in a desert or stony environment?",
+          "ja": "砂漠や自然石を収集できる環境ではない場合はどうすればいいですか？",
+          "zh": "如果不在沙漠或能收集自然石头的环境下，该如何替代？",
+          "es": "¿Cómo puedo sustituir este hábito si no estoy en un desierto o entorno rocoso?",
+          "fr": "Comment puis-je remplacer cette routine si je ne suis pas dans un désert ou milieu rocheux ?",
+          "de": "Wie kann ich die Routine ersetzen, wenn ich nicht in einer Wüste oder steinigen Umgebung bin?",
+          "pt": "Como posso substituir se não tiver um jardim ou terra?",
+          "id": "Bagaimana cara menggantinya jika saya tidak berada di gurun atau lingkungan berbatu?"
         },
         "answer": {
-          "en": "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.",
-          "ko": "안내해 드린 현대적 가이드에 명기된 가상의 시각화나 대체물 조절 가이드를 가볍게 활용하여 유연하게 기동하시면 충분히 효과를 얻을 수 있습니다.",
-          "ja": "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。",
-          "zh": "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，通过灵活操作即可获得足够的效果。",
-          "es": "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.",
-          "fr": "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.",
-          "de": "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.",
-          "pt": "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.",
-          "id": "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+          "ko": "도심 속 공원을 가볍게 걸으며 나뭇잎, 꽃잎, 조가비 등 자연의 미세한 질감을 지닌 대상을 가만히 관찰하고 만지는 것으로 충분합니다.",
+          "en": "Simply walk in a city park and quietly observe or touch objects with fine natural textures, such as leaves, petals, or shells.",
+          "ja": "都心の中の公園を軽く歩きながら、木の葉、花びら、貝殻など、自然の微細な質感を持つ対象を静観して触ることで十分です。",
+          "zh": "只需不带任何压力地在城市公园散步，静静观察并触摸落叶、花瓣、贝壳等具有自然细微质感的事物即可。",
+          "es": "Simplemente camina en un parque y observa o toca con calma objetos con texturas naturales, como hojas, pétalos o conchas.",
+          "fr": "Marchez dans un parc et observez ou touchez des éléments aux textures naturelles simples, comme des feuilles, des pétales ou des coquillages.",
+          "de": "Spazieren Sie in einem Park und betrachten oder berühren Sie Objekte mit natürlichen Texturen wie Blätter, Blüten oder Muscheln.",
+          "pt": "Basta caminhar em um parque e observar ou tocar com calma objetos com texturas naturais, como folhas, pétalas ou conchas.",
+          "id": "Cukup berjalan santai di taman kota dan amati atau sentuh objek bertekstur alam seperti daun, kelopak bunga, atau kerang."
         }
       }
     ],

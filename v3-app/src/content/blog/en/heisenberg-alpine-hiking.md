@@ -17,8 +17,10 @@ steps:
   - name: "Immediately Taking Notes on Subconscious Clues"
     text: "After hiking, immediately write down the core chain of ideas that flashed into your mind through the subconscious rearrangement of DMN."
 faqs:
-  - question: "How should I fill the journal on days when I have nothing special to write?"
-    answer: "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay."
+  - question: "How can I replace this when living in a city, making hiking difficult?"
+    answer: "You can substitute it by walking in a city park or tree-lined street for over 30 minutes without a smartphone. The key is stimulating spatiotemporal senses and boosting brain blood flow through outdoor activity."
+  - question: "Are there tips to record ideas that come to mind during a hike without forgetting them?"
+    answer: "We recommend carrying a small notepad and pen in your pocket to jot down keywords instantly, or using voice memo features for quick hands-free recording."
 ---
 
 Werner Heisenberg laid the cornerstone of modern quantum physics and won the Nobel Prize. When the young Heisenberg faced cognitive burnout and insomnia from electronic orbital transition matrix calculations, he set off for the Bavarian Alps alone. For days, he hiked quietly through the coniferous forests and orderly paths of the Alps, tuning his thoughts. In the autumn of 1925, during his recovery on the remote North Sea island of Heligoland and hikes in the Alps, the uncertainty equations that marked a historical milestone in physics were born. We uncover the attention restoration principles of hiking.
@@ -91,13 +93,23 @@ When focusing on screens and numbers for hours, the brain depletes its 'Directed
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>How should I fill the journal on days when I have nothing special to write?</span>
+      <span>How can I replace this when living in a city, making hiking difficult?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.
+      You can substitute it by walking in a city park or tree-lined street for over 30 minutes without a smartphone. The key is stimulating spatiotemporal senses and boosting brain blood flow through outdoor activity.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Are there tips to record ideas that come to mind during a hike without forgetting them?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      We recommend carrying a small notepad and pen in your pocket to jot down keywords instantly, or using voice memo features for quick hands-free recording.
     </p>
   </details>
 </div>

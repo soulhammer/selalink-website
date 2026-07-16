@@ -17,10 +17,10 @@ steps:
   - name: "ステップ3：客観的な視線とメタ組織化"
     text: "脳の運動細胞をスローモーションの軌道に正確に同期させることで、体の摩擦力と物理的限界を観察し、記録します。"
 faqs:
-  - question: "これはあなたが毎日行うルーチンですか？"
-    answer: "そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。"
-  - question: "ツールを持っていない場合、どうやって交換すればよいですか?"
-    answer: "提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。"
+  - question: "毎朝起床後にスケール練習を行うべきですか？"
+    answer: "はい、起床直後の単純で反復的な指の訓練を通じて脳の運動皮質を目覚めさせ、注意集中経路をフレーミングします。"
+  - question: "実際のピアノの鍵盤がない場合はどうすればいいですか？"
+    answer: "机の上や模型キーボードの上でメトロノームに合わせて指を順に打鍵するように動かすだけでも、運動皮質を刺激する効果があります。"
 ---
 
 19世紀ロマン派のピアノ界の皇帝であり、当代最高の名手ピアニストであるハンガリーの作曲家フランツ・リストは、圧倒的な洗練と練習法によってピアノ音楽の表現限界を極限まで広げました。彼は、キーボードを早く、がむしゃらに弾く練習をするのではなく、メトロノームのテンポを極端なスローモーションレベルまで落とし、1秒間に1つのキーだけをミスなく弾くという練習を毎日行った。彼はキーボードの完璧な筋肉の動きの軌跡を脳にプログラムし、それを使って魔法のような壮大な動きを生み出しました。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>これはあなたが毎日行うルーチンですか？</span>
+      <span>毎朝起床後にスケール練習を行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      そう、毎日決まった時間に3分間軽く行うのが、脳のミエリン細胞を厚くし、長期的な神経回路を構築する最も賢い方法なのです。
+      はい、起床直後の単純で反復的な指の訓練を通じて脳の運動皮質を目覚めさせ、注意集中経路をフレーミングします。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>ツールを持っていない場合、どうやって交換すればよいですか?</span>
+      <span>実際のピアノの鍵盤がない場合はどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      提供されている最新ガイドに指定されている仮想視覚化または代替調整ガイドを軽快に使用して柔軟に運用することで、十分な結果を得ることができます。
+      机の上や模型キーボードの上でメトロノームに合わせて指を順に打鍵するように動かすだけでも、運動皮質を刺激する効果があります。
     </p>
   </details>
 </div>

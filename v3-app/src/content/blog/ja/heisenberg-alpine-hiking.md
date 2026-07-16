@@ -17,8 +17,10 @@ steps:
   - name: "導出された無意識のヒントの即時メモ"
     text: "ハイキングを終えた後、DMNの無意識的な破片の再配列を通じてひらめいたアイデアの核心を、日記帳に即座に書き残して保管します。"
 faqs:
-  - question: "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？"
-    answer: "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。"
+  - question: "都心に住んでいてハイキングや登山が難しい場合は、どのように代替しますか？"
+    answer: "都心の中の公園や並木道を、スマートフォンを持たずに自然の風景を探索しながら30分以上歩くことで代替できます。屋外活動を通じた時空間感覚の刺激と脳血流の活性化が核心です。"
+  - question: "ハイキング中に思い浮かんだアイデアを忘れずに記録するコツはありますか？"
+    answer: "ポケットに小さなメモ帳とペンを入れておき、思いついた瞬間にキーワードだけを手書きで記録するか、歩く邪魔にならないように音声メモ機能で即座に録音することをお勧めします。"
 ---
 
 物理学界に「不確定性原理」を提示し、現代量子物理学の基礎を築いてノーベル物理学賞を受賞したドイツの巨匠ヴェルナー・ハイゼンベルク。電子の不連続な軌道転移と幾何学的なマトリックス計算という難解な物理方程式に阻まれ、ひどい認知の燃え尽き症候群と不眠症に悩まされていた若きハイゼンベルクは、突破口が必要な時にいつもバイエルン・アルプス山脈へ一人で旅立ちました。彼は鬱蒼とした針葉樹林と規則的に展開するアルプスの山道を数日間黙々とハイキングし、思考の方向を調整しました。1925年の秋、北海の孤島ヘルゴラント島での療養とアルプスの遊歩道から、物理学の歴史的里程標となった不確定性数式が誕生した背景には、彼の登山思索習慣がありました。大自然の中を歩くことが脳にもたらす認知的充電の原理を明らかにします。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？</span>
+      <span>都心に住んでいてハイキングや登山が難しい場合は、どのように代替しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。
+      都心の中の公園や並木道を、スマートフォンを持たずに自然の風景を探索しながら30分以上歩くことで代替できます。屋外活動を通じた時空間感覚の刺激と脳血流の活性化が核心です。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>ハイキング中に思い浮かんだアイデアを忘れずに記録するコツはありますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      ポケットに小さなメモ帳とペンを入れておき、思いついた瞬間にキーワードだけを手書きで記録するか、歩く邪魔にならないように音声メモ機能で即座に録音することをお勧めします。
     </p>
   </details>
 </div>

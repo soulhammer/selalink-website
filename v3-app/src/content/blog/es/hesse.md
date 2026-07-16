@@ -17,10 +17,10 @@ steps:
   - name: "Paso 3: Mirada objetiva y metaorganización"
     text: "Inhale toda la estimulación factual analógica proporcionada por la naturaleza para eliminar por completo la fatiga cognitiva de su lóbulo frontal agotado y regístrelo en su diario."
 faqs:
-  - question: "¿Es esta una rutina que realizas igual todos los días?"
-    answer: "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo."
-  - question: "Si no tengo la herramienta, ¿cómo la reemplazo?"
-    answer: "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada."
+  - question: "¿Debo realizar esta rutina de jardinería todos los días?"
+    answer: "Sí, el trabajo físico como tocar tierra y deshierbar relaja la corteza prefrontal agotada por el intenso enfoque mental."
+  - question: "¿Cómo puedo sustituir este hábito si no tengo un jardín o tierra?"
+    answer: "Cuidar plantas de interior en un balcón, trasplantar o podar hojas secas es un excelente sustituto."
 ---
 
 Hermann Hesse, novelista y poeta que exploró la autorrealización humana interior y el vagabundeo del alma a través de la meditación analógica como un jardinero suizo, y ganador del Premio Nobel de Literatura por obras maestras como “Demian” y “Under the Wheel”. Se quedó en su jardín rural y realizó el trabajo análogo del jardinero: labrar la tierra, arrancar las malas hierbas y cortar o serrar ramas muertas todos los días. Mientras movía su cuerpo diligentemente, centró toda su atención en los sonidos de los pájaros en el bosque, el sonido del viento y el olor a humedad del suelo. Esta rutina de meditación natural analógica fue una fuente de estabilidad y curación para su alma, que sufría una grave crisis nerviosa.
@@ -97,21 +97,21 @@ El simple hecho de mover el cuerpo y centrarse únicamente en los bosques natura
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Es esta una rutina que realizas igual todos los días?</span>
+      <span>¿Debo realizar esta rutina de jardinería todos los días?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.
+      Sí, el trabajo físico como tocar tierra y deshierbar relaja la corteza prefrontal agotada por el intenso enfoque mental.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si no tengo la herramienta, ¿cómo la reemplazo?</span>
+      <span>¿Cómo puedo sustituir este hábito si no tengo un jardín o tierra?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.
+      Cuidar plantas de interior en un balcón, trasplantar o podar hojas secas es un excelente sustituto.
     </p>
   </details>
 </div>

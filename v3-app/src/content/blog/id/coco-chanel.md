@@ -17,10 +17,10 @@ steps:
   - name: "Langkah 3: Pencarian obyektif dan pengorganisasian meta"
     text: "Pertahankan inti dengan melakukan latihan penekanan hiasan ekstrem selama dua menit yang hanya menyisakan kalimat satu baris yang paling penting (atau satu alat penting)."
 faqs:
-  - question: "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
-    answer: "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
-  - question: "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
-    answer: "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+  - question: "Haruskah saya melakukan rutinitas isolasi ini setiap malam?"
+    answer: "Ya, tetapkan batas yang jelas antara kerja dan istirahat melalui ritual isolasi, menghirup wewangian sendirian setelah bekerja."
+  - question: "Bagaimana cara menggantinya jika saya tidak memiliki parfum aroma atau kamar hotel?"
+    answer: "Anda dapat memperoleh efek yang sama dengan mematikan ponsel selama 15 min di sudut rumah yang rapi sambil menghirup aroma difuser."
 ---
 
 Coco Chanel adalah perancang busana Perancis yang memimpin revolusi dalam desain busana di abad ke-20 dan membebaskan wanita dari penindasan korset, dan pendiri merek Chanel. Coco Chanel menghadirkan kebebasan esensial dalam berpakaian wanita melalui keindahan hitam dan sederhana (Sederhana adalah yang terbaik). Berdiri di studionya, dia berjalan melewati kain tepat di atas tubuh model, dan hanya dengan gunting di tangannya, dia tanpa ampun memotong korset yang rumit dan berat, kerah besar, dan renda yang tidak perlu pada abad ke-19. Alih-alih menghapus garis dengan pena, ia merasakan ketegangan pada kain dan memotongnya, menciptakan penyederhanaan minimalis yang memungkinkan perempuan untuk bergerak bebas dan melatih kesadaran tubuh mereka.
@@ -97,21 +97,21 @@ Tindakan pemotongan visual, memotong informasi berlebih yang tidak perlu dan han
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah ini rutinitas yang selalu Anda lakukan setiap hari?</span>
+      <span>Haruskah saya melakukan rutinitas isolasi ini setiap malam?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang.
+      Ya, tetapkan batas yang jelas antara kerja dan istirahat melalui ritual isolasi, menghirup wewangian sendirian setelah bekerja.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Kalau saya tidak punya alatnya, bagaimana cara menggantinya?</span>
+      <span>Bagaimana cara menggantinya jika saya tidak memiliki parfum aroma atau kamar hotel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan.
+      Anda dapat memperoleh efek yang sama dengan mematikan ponsel selama 15 min di sudut rumah yang rapi sambil menghirup aroma difuser.
     </p>
   </details>
 </div>

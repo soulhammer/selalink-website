@@ -17,8 +17,10 @@ steps:
   - name: "Text Archiving and Cognitive Reset"
     text: "End the recording and save the generated text log in a storage folder, declaring that 'yesterday's slate is wiped clean,' to start today's tasks."
 faqs:
-  - question: "How should I fill the journal on days when I have nothing special to write?"
-    answer: "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay."
+  - question: "How can modern people practice daily dictation without an assistant?"
+    answer: "We recommend turning on a smartphone Speech-to-Text (STT) feature or AI memo app and voicing out yesterday's events or today's emotional burdens for 5 minutes as a brain dump."
+  - question: "What should I talk about during dictation to boost productivity?"
+    answer: "Listing factual events from yesterday, doing a brain dump of today's work priorities, or voicing out your current emotional state raw and unfiltered is sufficient."
 ---
 
 The pop art titan Andy Warhol transformed modern art with Campbell's soup cans and Marilyn Monroe portraits. Amidst the complex social relationships at his studio 'Factory,' squeezing of artistic inspirations, and financial budgets, the key that preserved his sharp edge was morning oral journaling. From 1976 to his death in 1987, Warhol called his secretary Pat Hackett every morning to recite taxi fares, daily gossips, and trivial talks for diary transcription. We analyze how this cleared working memory.
@@ -91,13 +93,23 @@ The brain's working memory has a limited capacity. When yesterday's unsolved bud
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>How should I fill the journal on days when I have nothing special to write?</span>
+      <span>How can modern people practice daily dictation without an assistant?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.
+      We recommend turning on a smartphone Speech-to-Text (STT) feature or AI memo app and voicing out yesterday's events or today's emotional burdens for 5 minutes as a brain dump.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>What should I talk about during dictation to boost productivity?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Listing factual events from yesterday, doing a brain dump of today's work priorities, or voicing out your current emotional state raw and unfiltered is sufficient.
     </p>
   </details>
 </div>

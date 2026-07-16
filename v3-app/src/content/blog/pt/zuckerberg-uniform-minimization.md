@@ -17,8 +17,10 @@ steps:
   - name: "Eliminar a decisão de vestir-se pela manhã"
     text: "Vista-se ao levantar-se com o primeiro conjunto do armário sem hesitar, protegendo os recursos de energia do seu cérebro."
 faqs:
-  - question: "O que devo escrever no diário nos dias em que não acontece nada de especial?"
-    answer: "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo."
+  - question: "Como você lida com reuniões importantes ou eventos formais com este hábito?"
+    answer: "Como você lida com reuniões importantes ou eventos formais com este hábito?"
+  - question: "Posso montar um uniforme com roupas que não sejam camisetas y jeans?"
+    answer: "Claro. Selecionar uma combinação simples e confortável de camisas, calças ou vestidos com os que você se sinta à vontade e estocar vários conjuntos idênticos é suficiente."
 ---
 
 Mark Zuckerberg, criador do Facebook. Diante de milhares de decisões críticas que afetam o Meta, desenvolveu uma estratégia famosa: não decidir a sua roupa diária. Seu armário contém várias camisetas idênticas de cor cinza. Analisemos como o cérebro consome energia com cada escolha executiva.
@@ -91,13 +93,23 @@ O córtex pré-frontal tem uma capacidade de processamento limitada. Cada escolh
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>O que devo escrever no diário nos dias em que não acontece nada de especial?</span>
+      <span>Como você lida com reuniões importantes ou eventos formais com este hábito?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo.
+      Como você lida com reuniões importantes ou eventos formais com este hábito?
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Posso montar um uniforme com roupas que não sejam camisetas y jeans?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Claro. Selecionar uma combinação simples e confortável de camisas, calças ou vestidos com os que você se sinta à vontade e estocar vários conjuntos idênticos é suficiente.
     </p>
   </details>
 </div>

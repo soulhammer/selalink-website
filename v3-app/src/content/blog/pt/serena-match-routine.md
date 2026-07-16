@@ -17,8 +17,10 @@ steps:
   - name: "Iniciar a tarefa principal imediatamente"
     text: "Assim que terminar o movimento, inicie a apresentação ou abra o arquivo de trabalho sem hesitar um instante."
 faqs:
-  - question: "O que devo escrever no diário nos dias em que não acontece nada de especial?"
-    answer: "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo."
+  - question: "Como construo minha própria rotina antes de eventos importantes como apresentações ou exames?"
+    answer: "Estabeleça 2 ou 3 passos simples que você controle totalmente, como amarrar os sapatos de certa maneira ou respirar fundo, e repita-os constantemente."
+  - question: "Como gerencio a ansiedade se esquecer de um passo ou cometer um erro na minha rotina?"
+    answer: "Entenda que a rotina é apenas uma âncora psicológica, não a fonte da sua habilidade. Aceitar os erros como parte da situação maximiza os benefícios."
 ---
 
 Serena Williams, a rainha do tênis. No meio da pressão da quadra, a sua arma secreta eram as suas rotinas estritas. Antes de jogar, ouvia música com os mesmos fones de ouvido e quicava a bola 5 vezes antes de seu primeiro saque. Analisemos como a rotina pré-jogo ajuda a acalmar a amígdala.
@@ -91,13 +93,23 @@ La ansiedade extrema antes de uma prova ativa o sistema nervoso simpático, tens
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>O que devo escrever no diário nos dias em que não acontece nada de especial?</span>
+      <span>Como construo minha própria rotina antes de eventos importantes como apresentações ou exames?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo.
+      Estabeleça 2 ou 3 passos simples que você controle totalmente, como amarrar os sapatos de certa maneira ou respirar fundo, e repita-os constantemente.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Como gerencio a ansiedade se esquecer de um passo ou cometer um erro na minha rotina?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Entenda que a rotina é apenas uma âncora psicológica, não a fonte da sua habilidade. Aceitar os erros como parte da situação maximiza os benefícios.
     </p>
   </details>
 </div>

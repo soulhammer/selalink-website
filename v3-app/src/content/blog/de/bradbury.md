@@ -17,10 +17,10 @@ steps:
   - name: "Schritt 3: Objektiver Blick und Meta-Organisation"
     text: "Schreiben Sie die kurzen Ideenausschnitte, die Sie geschrieben haben, in einen Notizblock und notieren Sie sie, während Sie gleichzeitig das schlafende Netzwerk der rechten Gehirnhälfte Ihres Gehirns erfrischend wecken."
 faqs:
-  - question: "Ist das eine Routine, die Sie jeden Tag gleich durchführen?"
-    answer: "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen."
-  - question: "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?"
-    answer: "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist."
+  - question: "Sollte ich diese assoziative Schreibroutine jeden Morgen durchführen?"
+    answer: "Ja, das Schreiben direkt nach dem Aufwachen, wenn das Unterbewusstsein aktiv ist, trainiert die kreative Intuition am effektivsten."
+  - question: "Wie kann ich die Wortkarten ersetzen, wenn ich keine habe?"
+    answer: "Sie können stattdessen ein beliebiges Buch öffnen und Nomen auswählen oder einen Online-Zufallsgenerator nutzen."
 ---
 
 Der amerikanische Schriftsteller Ray Bradbury, der Pate der modernen Science-Fiction-Literatur (SF) und ein Meister, der mit seiner einzigartigen poetischen Sensibilität die Grenzen der wissenschaftlichen und technologischen Zivilisation vorhersagte, schrieb Meisterwerke wie Fahrenheit 451, indem er jeden Morgen eine Erzählroutine aus 10 spontanen Wortassoziationen verwendete. Sobald er jeden Morgen die Augen öffnete, ging er zu seinem Schreibtisch und schrieb 10 zufällige Wörter (z. B. Sand, Asche, Glocke, Motor, Wolke usw.) auf ein leeres Blatt Papier. Er starrte jedes Wort eine Minute lang an, dann zwang er die Wörter, sich in seinem Gehirn zu verbinden, und erzeugte jeden Tag eine Assoziation mit einer kurzen, ultrakurzen Geschichte. Diese Routine war die Wiege der Kreativität, die zu seinen Science-Fiction-Meisterwerken führte.
@@ -97,21 +97,21 @@ Der Vorgang des Webens einer logischen Geschichte durch gewaltsames Verbinden he
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Ist das eine Routine, die Sie jeden Tag gleich durchführen?</span>
+      <span>Sollte ich diese assoziative Schreibroutine jeden Morgen durchführen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.
+      Ja, das Schreiben direkt nach dem Aufwachen, wenn das Unterbewusstsein aktiv ist, trainiert die kreative Intuition am effektivsten.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?</span>
+      <span>Wie kann ich die Wortkarten ersetzen, wenn ich keine habe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.
+      Sie können stattdessen ein beliebiges Buch öffnen und Nomen auswählen oder einen Online-Zufallsgenerator nutzen.
     </p>
   </details>
 </div>

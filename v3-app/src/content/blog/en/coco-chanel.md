@@ -17,10 +17,10 @@ steps:
   - name: "Step 3: Objective looking and meta-organizing"
     text: "Preserve the core by performing a two-minute extreme embellishment suppression exercise that leaves only the most essential one-line sentence (or one essential tool)."
 faqs:
-  - question: "Is this a routine you perform the same every day?"
-    answer: "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build long-term neuron circuits."
-  - question: "If I don't have the tool, how do I replace it?"
-    answer: "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided."
+  - question: "Should I perform this isolation routine every evening?"
+    answer: "Yes, establishing a clear boundary between work and rest through an isolation ritual, smelling scents completely alone after work."
+  - question: "How can I substitute if I don't have aroma perfumes or a hotel room?"
+    answer: "You can achieve the same effect by turning off your smartphone for 15 minutes in a tidy corner of your home while smelling a simple diffuser or multi-balm."
 ---
 
 Coco Chanel is a French fashion designer who led a revolution in fashion design in the 20th century and liberated women from the oppression of corsets, and the founder of the Chanel brand. Coco Chanel presented the essential freedom of women's clothing through black and simple beauty (Simple is best). Standing in her studio, she walked through the fabric directly over the model's body, and with only a pair of scissors in hand, she mercilessly cut away the cumbersome and heavy corsets, massive collars, and unnecessary lace of the 19th century. Instead of erasing lines with a pen, she felt the tension of the fabric and cut them out, creating a minimalist simplification that allowed women to move around freely and exercise their body awareness.
@@ -97,21 +97,21 @@ The act of visual cutting, cutting out unnecessary excess information and leavin
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Is this a routine you perform the same every day?</span>
+      <span>Should I perform this isolation routine every evening?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build long-term neuron circuits.
+      Yes, establishing a clear boundary between work and rest through an isolation ritual, smelling scents completely alone after work.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>If I don't have the tool, how do I replace it?</span>
+      <span>How can I substitute if I don't have aroma perfumes or a hotel room?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.
+      You can achieve the same effect by turning off your smartphone for 15 minutes in a tidy corner of your home while smelling a simple diffuser or multi-balm.
     </p>
   </details>
 </div>

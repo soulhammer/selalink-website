@@ -165,26 +165,50 @@
     "faqs": [
       {
         "question": {
-          "ko": "매일 쓸 양이 적거나 특별한 일이 없던 날에는 어떻게 일기를 채워야 하나요?",
-          "en": "How should I fill the journal on days when I have nothing special to write?",
-          "ja": "毎日書く分量が少なかったり、特別な出来事がなかった日にはどのように日記を埋めればよいですか？",
-          "zh": "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？",
-          "es": "¿Qué debo escribir en el diario los días en los que no pasa nada especial?",
-          "fr": "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?",
-          "de": "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?",
-          "pt": "O que devo escrever no diário nos dias em que não acontece nada de especial?",
-          "id": "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
+          "ko": "매일 똑같은 옷을 입으면 중요한 미팅이나 격식 있는 자리에선 어떻게 대처하나요?",
+          "en": "How do you handle important meetings or formal events with this uniform habit?",
+          "ja": "毎日同じ服を着る場合、重要な会議やフォーマルな席ではどう対応しますか？",
+          "zh": "每天穿同样的衣服，在重要会议或正式场合该如何应对？",
+          "es": "¿Cómo manejas las reuniones importantes o eventos formales con este hábito?",
+          "fr": "Comment gérez-vous les réunions importantes ou les événements formels avec cette habitude ?",
+          "de": "Wie gehen Sie bei dieser Gewohnheit mit wichtigen Meetings oder formellen Anlässen um?",
+          "pt": "Como você lida com reuniões importantes ou eventos formais com este hábito?",
+          "id": "Bagaimana Anda menangani rapat penting atau acara formal dengan kebiasaan seragam ini?"
         },
         "answer": {
-          "ko": "일기장의 칸을 길게 채우는 것보다 더 중요한 것은 '습관의 일관성'을 유지하는 것입니다. 특별한 사건이 없었던 날에는 '오늘 하루 중 나를 편안하게 해 주었던 사소한 사물이나 순간 하나'에 대해 감사함을 적거나, 몸이 느끼는 긴장도 등을 한 줄 적는 것만으로도 충분합니다. 뇌는 긴 글을 쓰는 노고보다 매일 성찰의 시간을 가졌다는 지속성을 통해 안도감을 느낍니다.",
-          "en": "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.",
-          "ja": "日記帳の欄を長く埋めることよりも重要なのは、「習慣の一貫性」を維持することです。特別な出来事がなかった日には、「今日一日の中で自分をリラックスさせてくれた些細なモノや瞬間の一つ」について感謝を綴ったり、体が感じる緊張度などを一行書くだけでも十分です。脳は、長い文章を書く労力よりも、毎日省察の時間を持ったという継続性を通じて安堵感を得るのです。",
-          "zh": "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物或瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。",
-          "es": "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.",
-          "fr": "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.",
-          "de": "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes.",
-          "pt": "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo.",
-          "id": "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+          "ko": "저커버그 역시 공식 행사나 이사회에서는 수트를 착용합니다. 유니폼화의 핵심은 사소한 결정을 차단하는 것이므로, 격식 있는 자리를 위한 정장 조합을 미리 지정해두면 고민 없이 착용해 결정 피로를 방지할 수 있습니다.",
+          "en": "Zuckerberg also wears suits for official events or board meetings. The core of a uniform is eliminating trivial choices, so pre-selecting a formal outfit combination prevents decision fatigue.",
+          "ja": "ザッカーバーグも公式行事や理事会ではスーツを着用します。ユニフォーム化の核心は些細な決定を減らすことにあるため、フォーマルな席のためのスーツの組み合わせをあらかじめ指定しておけば、悩むことなく着用して決定疲れを防ぐことができます。",
+          "zh": "扎克伯格在官方活动或董事会会议上也会穿西装。工作服化的核心是阻断琐碎的决定，因此预先指定一套正式的西装组合，可以毫不犹豫地穿上，防止决策疲劳。",
+          "es": "Zuckerberg también usa trajes para eventos oficiales o reuniones de junta. El núcleo de un uniforme es eliminar elecciones triviales, por lo que preseleccionar una combinación de traje formal evita la fatiga por decisión.",
+          "fr": "Comment gérez-vous les réunions importantes ou les événements formels avec cette habitude ?",
+          "de": "Wie gehen Sie bei dieser Gewohnheit mit wichtigen Meetings oder formellen Anlässen um?",
+          "pt": "Como você lida com reuniões importantes ou eventos formais com este hábito?",
+          "id": "Batik atau jas formal juga digunakan jika acara mengharuskan. Inti dari seragam adalah menghilangkan pilihan sepele, jadi menentukan kombinasi pakaian formal sebelumnya mencegah kelelahan keputusan."
+        }
+      },
+      {
+        "question": {
+          "ko": "티셔츠와 청바지 외에 다른 의류로 유니폼을 구성해도 되나요?",
+          "en": "Can I build a uniform with clothes other than T-shirts and jeans?",
+          "ja": "Tシャツとジーンズ以外の衣類でユニフォームを構成してもいいですか？",
+          "zh": "除了T恤 and 牛仔裤，我可以用其他衣服组成工作服吗？",
+          "es": "¿Puedo armar un uniforme con ropa que no sea camisetas y jeans?",
+          "fr": "Puis-je composer un uniforme avec des vêtements autres que des t-shirts et des jeans ?",
+          "de": "Kann ich ein Einheits-Outfit aus anderen Kleidungsstücken als T-Shirts und Jeans zusammenstellen?",
+          "pt": "Posso montar um uniforme com roupas que não sejam camisetas y jeans?",
+          "id": "Bolehkah saya membuat seragam dengan pakaian selain kaus dan jins?"
+        },
+        "answer": {
+          "ko": "물론입니다. 셔츠와 슬랙스, 원피스 등 본인의 마음에 가장 무난하고 편안하며 외모 관리에 전혀 신경이 쓰이지 않는 최상의 단순한 조합을 선정하여 다량 구비하는 것으로 충분합니다.",
+          "en": "Of course. Selecting a simple, comfortable combination of shirts, slacks, or dresses that you feel completely at ease in and stocking multiple identical sets is sufficient.",
+          "ja": "もちろんです。シャツとスラックス、ワンピースなど、自分の心に最も無難で快適で、外見の管理に全く気を使わない最高のシンプルな組み合わせを選定し、多量に備えることで十分です。",
+          "zh": "当然可以。选择衬衫、西裤、连衣裙等让自己感觉最普通、最舒适、完全不用花心思打理外观的极简组合，并备齐多件即可。",
+          "es": "Por supuesto. Seleccionar una combinación simple y cómoda de camisas, pantalones o vestidos con los que te sientas cómodo y abastecerse de varios juegos idénticos es suficiente.",
+          "fr": "Bien sûr. Choisir une combinaison simple et confortable de chemises, pantalons ou robes dans laquelle vous vous sentez à l'aise et en posséder plusieurs exemplaires suffit largement.",
+          "de": "Natürlich. Wählen Sie eine schlichte, bequeme Kombination aus Hemden, Hosen oder Kleidern, in der Sie sich wohlfühlen, und schaffen Sie mehrere identische Sätze davon an.",
+          "pt": "Claro. Selecionar uma combinação simples e confortável de camisas, calças ou vestidos com os que você se sinta à vontade e estocar vários conjuntos idênticos é suficiente.",
+          "id": "Tentu saja. Memilih kombinasi kemeja, celana, atau gaun sederhana dan nyaman yang membuat Anda merasa rileks serta menyediakan beberapa pasang pakaian yang sama sudah cukup."
         }
       }
     ]

@@ -17,8 +17,10 @@ steps:
   - name: "Sentir a vibração e sincronizar a respiração"
     text: "Sinta a vibração física no seu peito e dedos transmitida pela caixa de ressonância, sincronizando com respirações lentas e profundas."
 faqs:
-  - question: "O que devo escrever no diário nos dias em que no acontece nada de especial?"
-    answer: "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo."
+  - question: "Os iniciantes sem conhecimentos musicais podem se beneficiar desta meditação com instrumentos?"
+    answer: "É suficiente passar 5 minutos se concentrando no som de instrumentos simples como tigelas tibetanas ou kalimbas. O essencial é proporcionar um espaço criativo livre de julgamentos."
+  - question: "Ouvir música de forma passiva pode alcançar o mesmo efeito que tocar um instrumento?"
+    answer: "Tocar um instrumento coordena o controle motor fino e o feedback físico, o que estimula o córtex motor e as redes de atenção pré-frontal muito mais do que ouvir passivamente."
 ---
 
 Martinho Lutero desafiou o poder da Igreja católica. Enfrentando perigos de morte, a sua saúde mental e digestiva sofria um grande estresse. O seu método era tocar o alaúde (Lute) cada manhã após as suas orações. Analisemos como o processo estimula o nervo vago e ativa o sistema parassimpático.
@@ -91,13 +93,23 @@ Tocar um instrumento activa o córtex motor e o córtex auditivo mediante uma re
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>O que devo escrever no diário nos dias em que no acontece nada de especial?</span>
+      <span>Os iniciantes sem conhecimentos musicais podem se beneficiar desta meditação com instrumentos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo.
+      É suficiente passar 5 minutos se concentrando no som de instrumentos simples como tigelas tibetanas ou kalimbas. O essencial é proporcionar um espaço criativo livre de julgamentos.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Ouvir música de forma passiva pode alcançar o mesmo efeito que tocar um instrumento?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Tocar um instrumento coordena o controle motor fino e o feedback físico, o que estimula o córtex motor e as redes de atenção pré-frontal muito mais do que ouvir passivamente.
     </p>
   </details>
 </div>

@@ -17,8 +17,10 @@ steps:
   - name: "Sentir la resonancia y reiniciar el pensamiento"
     text: "Concéntrese plenamente en las ondas sonoras y la resonancia de los acordes, disipando la tensión acumulada de su lóbulo izquierdo."
 faqs:
-  - question: "¿Qué debo escribir en el diario los días en los que no pasa nada especial?"
-    answer: "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo."
+  - question: "¿Cómo empiezo una improvisación de piano sin partitura?"
+    answer: "Presiona las teclas libremente como tus dedos te guíen sin preocuparte por la melodía. Concentrarse solo en el tacto y la resonancia relaja y reinicia la red de atención cerebral."
+  - question: "¿Puedo lograr un reinicio cognitivo con otros instrumentos además del piano?"
+    answer: "Sí. Cualquier instrumento de cuerda o teclado que requiera coordinación fina y permita controlar la resonancia proporcionará efectos similares de cambio de atención."
 ---
 
 Max Planck, el padre de la teoría cuántica. Para tolerar la inmensa fatiga de calcular las leyes del cosmos, realizaba un ritual de descanso: tocaba el piano sin partitura. Incluso acompañaba al violín de su colega Albert Einstein. Analicemos cómo la improvisación artística activa el hemisferio derecho y relaja las redes lógicas del hemisferio izquierdo, induciendo la 'recarga cognitiva cruzada' que restaura la frescura cerebral.
@@ -91,13 +93,23 @@ El uso intensivo de un área cerebral (como la lógica matemática del hemisferi
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Qué debo escribir en el diario los días en los que no pasa nada especial?</span>
+      <span>¿Cómo empiezo una improvisación de piano sin partitura?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.
+      Presiona las teclas libremente como tus dedos te guíen sin preocuparte por la melodía. Concentrarse solo en el tacto y la resonancia relaja y reinicia la red de atención cerebral.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>¿Puedo lograr un reinicio cognitivo con otros instrumentos además del piano?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sí. Cualquier instrumento de cuerda o teclado que requiera coordinación fina y permita controlar la resonancia proporcionará efectos similares de cambio de atención.
     </p>
   </details>
 </div>

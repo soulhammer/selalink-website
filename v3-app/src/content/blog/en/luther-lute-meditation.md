@@ -17,8 +17,10 @@ steps:
   - name: "Perceiving Vibration Stimuli and Combining Deep Breathing"
     text: "Feel the gentle physical vibrations transmitted to your chest and fingers through the instrument body, and combine it with deep breaths to conclude."
 faqs:
-  - question: "How should I fill the journal on days when I have nothing special to write?"
-    answer: "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay."
+  - question: "Can beginners with no musical background benefit from this instrument meditation?"
+    answer: "It is enough to spend 5 minutes focusing on the sound of simple instruments like singing bowls, tongue drums, or kalimbas. The essence is providing a judgment-free creative safe zone for the brain."
+  - question: "Can passive music listening achieve the same effect as playing an instrument?"
+    answer: "Playing an instrument actively coordinates fine motor control and physical feedback (vibrations), which stimulates the motor cortex and prefrontal attention networks far more than passive listening."
 ---
 
 The theologian who sparked the Reformation by pinning the 95 Theses on the door of the Wittenberg Castle Church, Martin Luther. Since Luther stood alone against the strongest authority of the Catholic Church, his daily life was a battlefield filled with excommunication threats, assassination risks, and endless debates. Plagued by chronic stomach issues and extreme panic, the force that saved his mental state and drove his Bible translation work was picking up the 'Lute' and plucking its strings every morning. After morning prayer, he cleansed his mind of anxiety and fear. We dissect how the physical vibrations of music relax the brain's tension.
@@ -91,13 +93,23 @@ Precisely touching and tuning an instrument with fingers activates the brain's m
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>How should I fill the journal on days when I have nothing special to write?</span>
+      <span>Can beginners with no musical background benefit from this instrument meditation?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.
+      It is enough to spend 5 minutes focusing on the sound of simple instruments like singing bowls, tongue drums, or kalimbas. The essence is providing a judgment-free creative safe zone for the brain.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Can passive music listening achieve the same effect as playing an instrument?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Playing an instrument actively coordinates fine motor control and physical feedback (vibrations), which stimulates the motor cortex and prefrontal attention networks far more than passive listening.
     </p>
   </details>
 </div>

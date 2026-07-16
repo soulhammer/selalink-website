@@ -17,8 +17,10 @@ steps:
   - name: "Iniciar la tarea principal inmediatamente"
     text: "En cuanto termine el movimiento (como el último sacudón de manos), inicie la presentación o abra el archivo de trabajo sin dudar un instante."
 faqs:
-  - question: "¿Qué debo escribir en el diario los días en los que no pasa nada especial?"
-    answer: "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo."
+  - question: "¿Cómo construyo mi propia rutina antes de eventos importantes como presentaciones o exámenes?"
+    answer: "Establece 2 o 3 pasos simples que controles por completo, como atar los zapatos de cierta manera o respirar profundo, y repítelos de forma constante."
+  - question: "¿Cómo manejo la ansiedad si omito un paso o cometo un error en mi rutina?"
+    answer: "Comprende que la rutina es solo un ancla psicológica, no la fuente de tu habilidad. Aceptar los errores como 'parte de la situación' maximiza los beneficios."
 ---
 
 Serena Williams, la reina del tenis. En medio de la presión de la cancha, su arma secreta eran sus rutinas estrictas. Antes de jugar, escuchaba música con los mismos auriculares y botaba la pelota 5 veces antes de su primer saque. Analicemos cómo la rutina de pre-performance (PPR) ayuda a calmar la amígdala desviando el enfoque a tareas motrices de control.
@@ -91,13 +93,23 @@ La ansiedad extrema antes de una prueba activa el sistema nervioso simpático, t
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Qué debo escribir en el diario los días en los que no pasa nada especial?</span>
+      <span>¿Cómo construyo mi propia rutina antes de eventos importantes como presentaciones o exámenes?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.
+      Establece 2 o 3 pasos simples que controles por completo, como atar los zapatos de cierta manera o respirar profundo, y repítelos de forma constante.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>¿Cómo manejo la ansiedad si omito un paso o cometo un error en mi rutina?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Comprende que la rutina es solo un ancla psicológica, no la fuente de tu habilidad. Aceptar los errores como 'parte de la situación' maximiza los beneficios.
     </p>
   </details>
 </div>

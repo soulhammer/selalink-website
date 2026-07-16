@@ -17,8 +17,10 @@ steps:
   - name: "紧接规程立即进入任务"
     text: "配合最后一个身体动作结束的物理截止点，毫不犹豫地开启主要演讲文件或工作窗口，敲下第一行字或说出第一句话。"
 faqs:
-  - question: "每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？"
-    answer: "比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物 or 瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。"
+  - question: "在演讲或考试等日常重要事件前，该如何建立专属的规程？"
+    answer: "设定“以特定顺序系鞋带”、“深呼吸3次”、“大声对自己说鼓励的话”等2-3个能完全自我控制的连贯机械动作，并保持一致地重复，对控制焦虑非常有帮助。"
+  - question: "如果在规程中漏掉了一步或犯了错，该如何控制随之而来的焦虑？"
+    answer: "必须明确规程只起到心理锚（Anchor）的作用，并不是自身实力和行动的本质。出错时，承认“这也是客观情况的一部分”的包容与弹性，能使规程的效果发挥到最大。"
 ---
 
 夺得23次大满贯单打冠军、史上最伟大的网球女皇塞雷娜·威廉姆斯。在全世界媒体显微镜般的关注以及失掉一分便会动摇排名的赛场残酷重压下，她之所以能在长达20年的时间里独占头角，秘诀就在于她在赛前执行的近乎强迫症一般的奇特规程. 她在步入赛场前总是用相同的耳机听音乐，发第一球前必定精准地将球弹地5次。我们一起剖析通过这些身体动作将赛场上各种不可控的焦虑变量阻断在外、并调整心态高度专注的认知心理学机制。
@@ -91,13 +93,23 @@ faqs:
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>每天能写的字数很少，或者没有发生特别事情的日子里，该怎么写日记呢？</span>
+      <span>在演讲或考试等日常重要事件前，该如何建立专属的规程？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      比起写满长篇幅的日记，更重要的是保持“习惯的一致性”。在没有发生特别事件的日子里，仅需写下对“今天一天中让我感到舒服的某个微小事物 or 瞬间”的感谢，或是写下一行身体所感受到的紧张度等内容就足够了。比起撰写长文的劳累，大脑更倾向于通过每天都有反思时间这一持续性活动来获得安全感。
+      设定“以特定顺序系鞋带”、“深呼吸3次”、“大声对自己说鼓励的话”等2-3个能完全自我控制的连贯机械动作，并保持一致地重复，对控制焦虑非常有帮助。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>如果在规程中漏掉了一步或犯了错，该如何控制随之而来的焦虑？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      必须明确规程只起到心理锚（Anchor）的作用，并不是自身实力和行动的本质。出错时，承认“这也是客观情况的一部分”的包容与弹性，能使规程的效果发挥到最大。
     </p>
   </details>
 </div>

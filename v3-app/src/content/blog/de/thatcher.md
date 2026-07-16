@@ -17,10 +17,10 @@ steps:
   - name: "Schritt 3: Objektiver Blick und Metaorganisation"
     text: "Zeichnen Sie anhand der drei hervorgehobenen Schlüsselwörter eine Aktionslinie aus, die heute ergriffen werden soll, setzen Sie die Gehirnbatterie in Ihrem Kopf klar zurück und schreiben Sie sie auf."
 faqs:
-  - question: "Ist das eine Routine, die Sie jeden Tag gleich durchführen?"
-    answer: "Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen."
-  - question: "Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?"
-    answer: "Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist."
+  - question: "Sollte ich diese Ablaufbesprechungsroutine jeden Morgen durchführen?"
+    answer: "Ja, das laute Durchgehen der Prioritäten 30 Minuten vor Arbeitsbeginn aktiviert die exekutive Kontrolle des präfrontalen Kortex."
+  - question: "Wie kann ich die Tafel ersetzen, wenn ich keine habe?"
+    answer: "Es reicht, sich in einem ruhigen Raum die 3 wichtigsten Aufgaben des Tages, die im Notizbuch stehen, laut vorzulesen."
 ---
 
 Margaret Thatcher, Großbritanniens erste Premierministerin und die eiserne Dame, die die Schwierigkeiten des wirtschaftlichen Abschwungs Großbritanniens durch konservative Reformen und wirtschaftliche Umstrukturierungen kühl und entschieden überwand und Großbritannien in eine starke Position brachte. Sie saß jede Nacht bis 2 oder 3 Uhr morgens im Arbeitszimmer des Premierministers und las Hunderte Seiten umfangreicher Dokumente und Gesetzesvorlagen, die von Kabinettsbeamten eingereicht wurden. Mit einem gelben Textmarker in der Hand ging sie zwischen den Zeilen des Berichts hin und her, ignorierte die unnötige Rhetorik und den bürokratischen Text und zeichnete und betonte nur drei Schlüsselpfeiler: die Durchführbarkeit nationaler Politiken, Haushaltsindikatoren und rechtliche Fragen. Diese nächtliche Hervorhebungsroutine war die Willenskraft, die dazu beitrug, die schwierigen Probleme Großbritanniens auf einen Schlag zu überwinden.
@@ -97,21 +97,21 @@ Der Vorgang, wichtige Informationsachsen aus riesigen Datenmengen zu extrahieren
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Ist das eine Routine, die Sie jeden Tag gleich durchführen?</span>
+      <span>Sollte ich diese Ablaufbesprechungsroutine jeden Morgen durchführen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ja, es jeden Tag zu einer bestimmten Zeit drei Minuten lang leicht zu machen, ist der intelligenteste Weg, die Myelinzellen im Gehirn zu verdicken und einen langfristigen Neuronenkreislauf aufzubauen.
+      Ja, das laute Durchgehen der Prioritäten 30 Minuten vor Arbeitsbeginn aktiviert die exekutive Kontrolle des präfrontalen Kortex.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wenn ich das Werkzeug nicht habe, wie kann ich es ersetzen?</span>
+      <span>Wie kann ich die Tafel ersetzen, wenn ich keine habe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sie können ausreichende Ergebnisse erzielen, indem Sie flexibel arbeiten, indem Sie leicht die virtuelle Visualisierung oder die alternative Anpassungsanleitung verwenden, die in der bereitgestellten modernen Anleitung angegeben ist.
+      Es reicht, sich in einem ruhigen Raum die 3 wichtigsten Aufgaben des Tages, die im Notizbuch stehen, laut vorzulesen.
     </p>
   </details>
 </div>

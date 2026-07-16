@@ -17,8 +17,10 @@ steps:
   - name: "Sentir la vibration et synchroniser la respiration"
     text: "Ressentez la vibration physique dans votre poitrine transmise par l'instrument, en synchronisant des respirations lentes et profondes."
 faqs:
-  - question: "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?"
-    answer: "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction."
+  - question: "Les débutants sans connaissances musicales peuvent-ils bénéficier de cette méditation instrumentale ?"
+    answer: "Il suffit de passer 5 minutes à se concentrer sur le son d'instruments simples comme les bols chantants ou les kalimbas. L'essentiel est d'offrir un espace créatif libre de jugement."
+  - question: "L'écoute passive de musique peut-elle avoir le même effet que de jouer d'un instrument ?"
+    answer: "Jouer d'un instrument stimule le cortex moteur et le réseau d'attention du cortex préfrontal beaucoup plus fortement que l'écoute passive en raison du contrôle moteur et des vibrations physiques."
 ---
 
 Martin Luther défia le pouvoir de l'Église catholique. Faisant face à des menaces de mort, sa santé mentale et physique en souffrait. Son moyen de recentrer son esprit était de jouer du luth (Lute) chaque matin après ses prières. Voyons comment la musique stimule le nerf vague et active le système parasympathique.
@@ -91,13 +93,23 @@ Tocar un instrumento activa la corteza motora y la corteza auditiva. En se conce
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?</span>
+      <span>Les débutants sans connaissances musicales peuvent-ils bénéficier de cette méditation instrumentale ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.
+      Il suffit de passer 5 minutes à se concentrer sur le son d'instruments simples comme les bols chantants ou les kalimbas. L'essentiel est d'offrir un espace créatif libre de jugement.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>L'écoute passive de musique peut-elle avoir le même effet que de jouer d'un instrument ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Jouer d'un instrument stimule le cortex moteur et le réseau d'attention du cortex préfrontal beaucoup plus fortement que l'écoute passive en raison du contrôle moteur et des vibrations physiques.
     </p>
   </details>
 </div>

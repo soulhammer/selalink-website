@@ -17,10 +17,10 @@ steps:
   - name: "Step 3: Objective gaze and meta-organization"
     text: "We preserve records by practicing for one minute to infer and analyze the other person's occupation, inclination, and atmosphere of the space that these details may contain."
 faqs:
-  - question: "Is this a routine you perform the same every day?"
-    answer: "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit."
-  - question: "If I don't have the tool, how do I replace it?"
-    answer: "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided."
+  - question: "Should I perform this routine at the exact same time every day?"
+    answer: "Yes, Chekhov reduced cognitive load and organized his thoughts through a quiet ritual of tea drinking after hard work around 3 PM."
+  - question: "How can I substitute if I don't have a tea set?"
+    answer: "Even without a fancy tea set, sipping a warm cup of water or herbal tea bag while focusing on the physical senses for 5 minutes is a sufficient substitute."
 ---
 
 Anton Chekhov, the pinnacle of Russian realist literature and a great playwright who completed the foundation of the modern short story, captured the minute conflicts, hypocrisy, and emotional turmoil of ordinary people in everyday life in the most caring and sharp way and turned them into plays. He sat quietly on a bench in a train waiting room or in a corner of an outdoor cafe and observed people passing by. He wrote down extremely specific characteristics of the person in a notebook in his coat pocket, such as an invisible fluff mark on the collar of a suit, the hem of a suit with a button ripped off, and the slight twitching of a passerby's eye when he or she is nervous. This collection of extremely fine details was the foundation for building realistic, three-dimensional characters in his novels.
@@ -97,21 +97,21 @@ Today on BuildSelf, we introduce the cognitive scientific principles of his habi
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Is this a routine you perform the same every day?</span>
+      <span>Should I perform this routine at the exact same time every day?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.
+      Yes, Chekhov reduced cognitive load and organized his thoughts through a quiet ritual of tea drinking after hard work around 3 PM.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>If I don't have the tool, how do I replace it?</span>
+      <span>How can I substitute if I don't have a tea set?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.
+      Even without a fancy tea set, sipping a warm cup of water or herbal tea bag while focusing on the physical senses for 5 minutes is a sufficient substitute.
     </p>
   </details>
 </div>

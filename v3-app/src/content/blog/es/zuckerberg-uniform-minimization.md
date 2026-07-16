@@ -17,8 +17,10 @@ steps:
   - name: "Eliminar la decisión de vestirse por la mañana"
     text: "Vístase al levantarse con el primer conjunto del armario sin dudar, protegiendo los recursos de glucógeno de su cerebro para el resto del día."
 faqs:
-  - question: "¿Qué debo escribir en el diario los días en los que no pasa nada especial?"
-    answer: "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo."
+  - question: "¿Cómo manejas las reuniones importantes o eventos formales con este hábito?"
+    answer: "Zuckerberg también usa trajes para eventos oficiales o reuniones de junta. El núcleo de un uniforme es eliminar elecciones triviales, por lo que preseleccionar una combinación de traje formal evita la fatiga por decisión."
+  - question: "¿Puedo armar un uniforme con ropa que no sea camisetas y jeans?"
+    answer: "Por supuesto. Seleccionar una combinación simple y cómoda de camisas, pantalones o vestidos con los que te sientas cómodo y abastecerse de varios juegos idénticos es suficiente."
 ---
 
 Mark Zuckerberg, creador de Facebook. Frente a miles de decisiones críticas que afectan a Meta, desarrolló una estrategia famosa: no decidir su ropa diaria. Su vestidor contiene múltiples camisetas idénticas de color gris. Analicemos cómo el cerebro consume glucosa con cada elección ejecutiva diaria, lo que lleva a la fatiga decisional y cómo el uniforme previene la 'depleción del ego'.
@@ -91,13 +93,23 @@ El córtex prefrontal tiene una capacidad de procesamiento limitada. Cada elecci
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Qué debo escribir en el diario los días en los que no pasa nada especial?</span>
+      <span>¿Cómo manejas las reuniones importantes o eventos formales con este hábito?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.
+      Zuckerberg también usa trajes para eventos oficiales o reuniones de junta. El núcleo de un uniforme es eliminar elecciones triviales, por lo que preseleccionar una combinación de traje formal evita la fatiga por decisión.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>¿Puedo armar un uniforme con ropa que no sea camisetas y jeans?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Por supuesto. Seleccionar una combinación simple y cómoda de camisas, pantalones o vestidos con los que te sientas cómodo y abastecerse de varios juegos idénticos es suficiente.
     </p>
   </details>
 </div>

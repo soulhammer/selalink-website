@@ -17,10 +17,10 @@ steps:
   - name: "Étape 3 : Regard objectif et méta-organisation"
     text: "Sur la base des trois mots-clés mis en évidence, déterminez une ligne d'action à entreprendre aujourd'hui, réinitialisez clairement la batterie cérébrale dans votre tête et notez-la."
 faqs:
-  - question: "Est-ce une routine que vous effectuez de la même manière tous les jours ?"
-    answer: "Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme."
-  - question: "Si je n'ai pas l'outil, comment puis-je le remplacer ?"
-    answer: "Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni."
+  - question: "Dois-je faire cette routine de briefing d'agenda tous les matins ?"
+    answer: "Oui, revoir les priorités à voix haute 30 minutes avant le travail pré-active le contrôle exécutif du cortex préfrontal."
+  - question: "Comment puis-je remplacer le tableau de notes si je n'en ai pas ?"
+    answer: "Énoncer à voix haute dans une pièce calme les 3 tâches clés du jour notées dans un carnet est un substitut suffisant."
 ---
 
 Margaret Thatcher, la première femme Premier ministre britannique et la dame de fer qui a surmonté avec sang-froid et fermeté les difficultés du ralentissement économique britannique grâce à des réformes conservatrices dures et à une restructuration économique, plaçant la Grande-Bretagne dans une position de pouvoir. Elle restait assise dans le bureau du bureau du premier ministre tous les soirs jusqu'à 2 ou 3 heures du matin, parcourant des centaines de pages de documents volumineux et de rapports sur les projets de loi soumis par les responsables du cabinet. Un surligneur jaune à la main, elle est passée entre les lignes du rapport, ignorant la rhétorique inutile et le texte bureaucratique, traçant et soulignant seulement trois piliers clés : la faisabilité des politiques nationales, les indicateurs budgétaires et les questions juridiques. Cette routine de mise en lumière de fin de soirée était la volonté qui a aidé à surmonter les problèmes difficiles de la Grande-Bretagne d'un seul coup.
@@ -97,21 +97,21 @@ Le fait d'extraire des axes d'information clés à partir de données massives e
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Est-ce une routine que vous effectuez de la même manière tous les jours ?</span>
+      <span>Dois-je faire cette routine de briefing d'agenda tous les matins ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Oui, le faire légèrement pendant 3 minutes à une certaine heure chaque jour est le moyen le plus intelligent d'épaissir les cellules de myéline du cerveau et de construire un circuit neuronal à long terme.
+      Oui, revoir les priorités à voix haute 30 minutes avant le travail pré-active le contrôle exécutif du cortex préfrontal.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si je n'ai pas l'outil, comment puis-je le remplacer ?</span>
+      <span>Comment puis-je remplacer le tableau de notes si je n'en ai pas ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Vous pouvez obtenir des résultats suffisants en opérant de manière flexible et légère en utilisant la visualisation virtuelle ou le guide de réglage alternatif spécifié dans le guide moderne fourni.
+      Énoncer à voix haute dans une pièce calme les 3 tâches clés du jour notées dans un carnet est un substitut suffisant.
     </p>
   </details>
 </div>

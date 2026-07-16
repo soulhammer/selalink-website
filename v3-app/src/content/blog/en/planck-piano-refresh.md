@@ -17,8 +17,10 @@ steps:
   - name: "Perceiving the Acoustic Senses and Resetting the Mind"
     text: "Focus your entire attention on the sound waves of the keyboard and the resonance of chords, clearing logical fatigue to conclude the routine."
 faqs:
-  - question: "How should I fill the journal on days when I have nothing special to write?"
-    answer: "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay."
+  - question: "How do I start a piano improvisation without sheet music?"
+    answer: "Freely press keys as your fingers lead without worrying about melody or dissonance. Focusing solely on the key touch and resonance relaxes and resets the brain's attention network."
+  - question: "Can I achieve a cognitive reset with other instruments besides the piano?"
+    answer: "Yes. Any string or keyboard instruments that require precise finger coordination and allow direct control over resonance will provide similar attention-shifting effects."
 ---
 
 Max Planck, the father of modern physics, established the quantum hypothesis and discovered the Planck constant. Amidst the intense logical calculations and math equations that restructured the universe, the key to controlling his research fatigue and neuralgia was the piano. Planck was a gifted pianist who often played chamber music duos with Albert Einstein on violin. Every day, when his research stalled, he sat before the piano and immersed himself in improvisation without sheet music. We explore how this artistic transition refreshed his brain.
@@ -91,13 +93,23 @@ Extreme usage of a specific cognitive region (mathematical logic, reasoning in t
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>How should I fill the journal on days when I have nothing special to write?</span>
+      <span>How do I start a piano improvisation without sheet music?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay.
+      Freely press keys as your fingers lead without worrying about melody or dissonance. Focusing solely on the key touch and resonance relaxes and resets the brain's attention network.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Can I achieve a cognitive reset with other instruments besides the piano?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Yes. Any string or keyboard instruments that require precise finger coordination and allow direct control over resonance will provide similar attention-shifting effects.
     </p>
   </details>
 </div>

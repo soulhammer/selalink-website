@@ -17,10 +17,10 @@ steps:
   - name: "Paso 3: Mirada objetiva y metaorganización"
     text: "Después de 1 hora, observe nuevamente al sujeto, mida cambios muy pequeños (desviación de 1 mm, cambio de indicador del 1 %, etc.) y realice un entrenamiento de retroalimentación para inferir y analizar la relación causa-efecto durante 1 minuto y registrarla."
 faqs:
-  - question: "¿Es esta una rutina que realizas igual todos los días?"
-    answer: "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo."
-  - question: "Si no tengo la herramienta, ¿cómo la reemplazo?"
-    answer: "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada."
+  - question: "¿Debo realizar este ritual de organización antes del trabajo todos los días?"
+    answer: "Sí, limpiar lentes antes de comenzar el trabajo le da al cerebro una señal de orden cognitivo, maximizando el enfoque."
+  - question: "¿Cómo puedo sustituir este hábito si no tengo microscopios o paños de limpieza?"
+    answer: "Limpiar el monitor con un paño de microfibra, organizar el escritorio o limpiar la pantalla del móvil antes del trabajo produce el mismo efecto."
 ---
 
 Louis Pasteur, un pionero absoluto de la medicina y la microbiología modernas y un genio químico francés que fue pionero en las vacunas, salvó a la humanidad del miedo a las enfermedades infecciosas al inventar la pasteurización y las vacunas contra el ántrax y la rabia. Se sentó en el escritorio de su laboratorio y miró inmóvil durante horas un matraz de cultivo bajo la lupa de un microscopio. Dibujó y registró meticulosamente en su cuaderno las diminutas huellas de temblor que dejan los microorganismos a medida que proliferan. Su método de desinfección y descubrimiento de la vacuna nacieron de esta rutina de retroalimentación observacional mientras miraba el matraz.
@@ -97,21 +97,21 @@ El acto de formar una hipótesis e introducir la trayectoria de los cambios en e
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Es esta una rutina que realizas igual todos los días?</span>
+      <span>¿Debo realizar este ritual de organización antes del trabajo todos los días?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir un circuito neuronal a largo plazo.
+      Sí, limpiar lentes antes de comenzar el trabajo le da al cerebro una señal de orden cognitivo, maximizando el enfoque.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si no tengo la herramienta, ¿cómo la reemplazo?</span>
+      <span>¿Cómo puedo sustituir este hábito si no tengo microscopios o paños de limpieza?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.
+      Limpiar el monitor con un paño de microfibra, organizar el escritorio o limpiar la pantalla del móvil antes del trabajo produce el mismo efecto.
     </p>
   </details>
 </div>

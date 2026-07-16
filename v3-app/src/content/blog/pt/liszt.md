@@ -17,10 +17,10 @@ steps:
   - name: "Passo 3: Olhar objetivo e meta-organização"
     text: "Ao sincronizar com precisão as células motoras do cérebro com uma trajetória em câmera lenta, observo e registro a força de atrito e os limites físicos do meu corpo."
 faqs:
-  - question: "Essa é uma rotina que você faz igual todos os dias?"
-    answer: "Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo."
-  - question: "Se eu não tiver a ferramenta, como faço para substituí-la?"
-    answer: "Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido."
+  - question: "Devo praticar escalas imediatamente após acordar todas as manhãs?"
+    answer: "Sim, o treino repetitivo de dedos após acordar ativa o córtex motor cerebral e molda o canal de atenção."
+  - question: "Como posso substituir se não tiver um piano real?"
+    answer: "Mover os dedos em ordem sobre uma mesa ou teclado simulado ao ritmo de um metrônomo estimula o córtex motor."
 ---
 
 O compositor húngaro Franz Liszt, o imperador do piano durante a era romântica do século XIX e o maior pianista virtuoso do seu tempo, expandiu ao máximo os limites expressivos da música para piano através de sofisticação e métodos de prática avassaladores. Em vez de praticar tocando rápida e imprudentemente no teclado, ele praticava todos os dias desacelerando o andamento do metrônomo para um nível extremamente lento e tocando apenas uma tecla por segundo sem erros. Ele programou em seu cérebro as trajetórias perfeitas dos movimentos musculares do teclado e depois as usou para criar movimentos mágicos e espetaculares.
@@ -97,21 +97,21 @@ O treinamento para controlar conscientemente os movimentos dos dedos e dos músc
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Essa é uma rotina que você faz igual todos os dias?</span>
+      <span>Devo praticar escalas imediatamente após acordar todas as manhãs?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sim, fazer isso levemente por 3 minutos em um determinado horário todos os dias é a maneira mais inteligente de engrossar as células de mielina no cérebro e construir um circuito neuronal de longo prazo.
+      Sim, o treino repetitivo de dedos após acordar ativa o córtex motor cerebral e molda o canal de atenção.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Se eu não tiver a ferramenta, como faço para substituí-la?</span>
+      <span>Como posso substituir se não tiver um piano real?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Você pode obter resultados suficientes operando de forma flexível usando levemente a visualização virtual ou o guia de ajuste alternativo especificado no guia moderno fornecido.
+      Mover os dedos em ordem sobre uma mesa ou teclado simulado ao ritmo de um metrônomo estimula o córtex motor.
     </p>
   </details>
 </div>

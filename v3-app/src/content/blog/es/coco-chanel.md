@@ -17,10 +17,10 @@ steps:
   - name: "Paso 3: Mirada objetiva y metaorganización"
     text: "Preserva el núcleo realizando un ejercicio extremo de supresión de adornos de dos minutos que deja solo la oración de una línea más esencial (o una herramienta esencial)."
 faqs:
-  - question: "¿Es esta una rutina que realizas igual todos los días?"
-    answer: "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir circuitos neuronales a largo plazo."
-  - question: "Si no tengo la herramienta, ¿cómo la reemplazo?"
-    answer: "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada."
+  - question: "¿Debo realizar esta rutina de aislamiento todas las noches?"
+    answer: "Sí, establecer un límite claro entre el trabajo y el descanso mediante un ritual de aislamiento, oliendo fragancias a solas después del trabajo."
+  - question: "¿Cómo podemos sustituir este hábito si no tengo perfumes de aroma o una habitación de hotel?"
+    answer: "Puedes lograr el mismo efecto apagando tu móvil por 15 minutos en un rincón ordenado de casa mientras hueles un difusor simple."
 ---
 
 Coco Chanel es una diseñadora de moda francesa que lideró una revolución en el diseño de moda en el siglo XX y liberó a las mujeres de la opresión de los corsés, y la fundadora de la marca Chanel. Coco Chanel presentó la libertad esencial de la ropa femenina a través del negro y la belleza simple (Lo simple es lo mejor). De pie en su estudio, caminó a través de la tela directamente sobre el cuerpo de la modelo, y con sólo un par de tijeras en la mano, cortó sin piedad los corsés pesados ​​y engorrosos, los cuellos enormes y los encajes innecesarios del siglo XIX. En lugar de borrar líneas con un bolígrafo, sintió la tensión de la tela y las cortó, creando una simplificación minimalista que permitió a las mujeres moverse libremente y ejercitar su conciencia corporal.
@@ -97,21 +97,21 @@ El acto de corte visual, eliminando el exceso de información innecesaria y deja
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Es esta una rutina que realizas igual todos los días?</span>
+      <span>¿Debo realizar esta rutina de aislamiento todas las noches?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir circuitos neuronales a largo plazo.
+      Sí, establecer un límite claro entre el trabajo y el descanso mediante un ritual de aislamiento, oliendo fragancias a solas después del trabajo.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si no tengo la herramienta, ¿cómo la reemplazo?</span>
+      <span>¿Cómo podemos sustituir este hábito si no tengo perfumes de aroma o una habitación de hotel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.
+      Puedes lograr el mismo efecto apagando tu móvil por 15 minutos en un rincón ordenado de casa mientras hueles un difusor simple.
     </p>
   </details>
 </div>

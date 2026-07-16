@@ -17,8 +17,10 @@ steps:
   - name: "Archivar el texto y reiniciar la mente"
     text: "Finalice la grabación y guarde el texto resultante. Declare mentalmente: 'El lienzo de ayer está en blanco'. Comience su jornada de trabajo."
 faqs:
-  - question: "¿Qué debo escribir en el diario los días en los que no pasa nada especial?"
-    answer: "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detail por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo."
+  - question: "¿Cómo puede la gente moderna practicar este hábito de dictado sin un asistente?"
+    answer: "Recomendamos usar la función de voz a texto (STT) del móvil o una aplicación de notas y expresar en voz alta los eventos de ayer o cargas de hoy durante 5 minutos."
+  - question: "¿De qué debo hablar durante el dictado para aumentar la productividad?"
+    answer: "Enumerar los hechos de ayer, hacer un volcado de las prioridades de trabajo de hoy o expresar tu estado emocional actual de forma cruda es suficiente."
 ---
 
 Andy Warhol, el rey del pop art. Rodeado de la agitación de su estudio 'The Factory', sus gastos y sus contactos, ideó un ritual diario para despejar su mente: el dictado telefónico. Cada mañana llamaba a su secretaria Pat Hackett y le narraba al detalle su jornada anterior, desde el costo de los taxis hasta los chismes del día. Analicemos cómo este proceso de descarga cognitiva (Cognitive Offloading) libera espacio en la memoria de trabajo, reduciendo el estrés y devolviendo la frescura cerebral.
@@ -91,13 +93,23 @@ La memoria de trabajo tiene un límite estricto de retención de datos. Si los p
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Qué debo escribir en el diario los días en los que no pasa nada especial?</span>
+      <span>¿Cómo puede la gente moderna practicar este hábito de dictado sin un asistente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detail por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo.
+      Recomendamos usar la función de voz a texto (STT) del móvil o una aplicación de notas y expresar en voz alta los eventos de ayer o cargas de hoy durante 5 minutos.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>¿De qué debo hablar durante el dictado para aumentar la productividad?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Enumerar los hechos de ayer, hacer un volcado de las prioridades de trabajo de hoy o expresar tu estado emocional actual de forma cruda es suficiente.
     </p>
   </details>
 </div>

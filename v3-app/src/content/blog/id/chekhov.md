@@ -17,10 +17,10 @@ steps:
   - name: "Langkah 3: Pandangan objektif dan meta-organisasi"
     text: "Kami menyimpan catatan dengan berlatih selama satu menit untuk menyimpulkan dan menganalisis pekerjaan orang lain, kecenderungan, dan suasana ruang yang mungkin terdapat dalam detail ini."
 faqs:
-  - question: "Apakah ini rutinitas yang selalu Anda lakukan setiap hari?"
-    answer: "Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang."
-  - question: "Kalau saya tidak punya alatnya, bagaimana cara menggantinya?"
-    answer: "Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan."
+  - question: "Haruskah saya melakukan rutinitas ini pada waktu yang sama setiap hari?"
+    answer: "Ya, Chekhov mengurangi beban kognitif dan menata pikirannya melalui ritual minum teh yang tenang setelah bekerja sekitar jam 3 sore."
+  - question: "Bagaimana cara menggantinya jika saya tidak memiliki set cangkir teh?"
+    answer: "Meskipun tanpa set cangkir teh, meminum secangkir air hangat atau teh herbal sambil fokus pada indra selama 5 menit sudah cukup."
 ---
 
 Anton Chekhov, puncak sastra realis Rusia dan penulis drama hebat yang menyelesaikan fondasi cerita pendek modern, menangkap konflik kecil, kemunafikan, dan gejolak emosi orang-orang biasa dalam kehidupan sehari-hari dengan cara yang paling penuh perhatian dan tajam dan mengubahnya menjadi drama. Dia duduk dengan tenang di bangku ruang tunggu kereta atau di sudut kafe luar ruangan dan mengamati orang-orang yang lewat. Dia menuliskan ciri-ciri yang sangat spesifik dari orang tersebut di buku catatan di saku jasnya, seperti tanda bulu yang tidak terlihat di kerah jas, ujung jas dengan kancing yang robek, dan sedikit kedutan pada mata orang yang lewat ketika dia gugup. Kumpulan detail yang sangat halus ini menjadi dasar untuk membangun karakter tiga dimensi yang realistis dalam novelnya.
@@ -97,21 +97,21 @@ Hari ini di BuildSelf, kami memperkenalkan prinsip-prinsip ilmiah kognitif dari 
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah ini rutinitas yang selalu Anda lakukan setiap hari?</span>
+      <span>Haruskah saya melakukan rutinitas ini pada waktu yang sama setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Ya, melakukannya secara ringan selama 3 menit pada waktu tertentu setiap hari adalah cara paling cerdas untuk mengentalkan sel mielin di otak dan membangun sirkuit neuron jangka panjang.
+      Ya, Chekhov mengurangi beban kognitif dan menata pikirannya melalui ritual minum teh yang tenang setelah bekerja sekitar jam 3 sore.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Kalau saya tidak punya alatnya, bagaimana cara menggantinya?</span>
+      <span>Bagaimana cara menggantinya jika saya tidak memiliki set cangkir teh?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Anda dapat mencapai hasil yang memadai dengan mengoperasikan secara fleksibel dengan menggunakan visualisasi virtual atau panduan penyesuaian alternatif yang ditentukan dalam panduan modern yang disediakan.
+      Meskipun tanpa set cangkir teh, meminum secangkir air hangat atau teh herbal sambil fokus pada indra selama 5 menit sudah cukup.
     </p>
   </details>
 </div>

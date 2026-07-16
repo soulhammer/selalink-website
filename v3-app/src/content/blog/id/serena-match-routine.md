@@ -17,8 +17,10 @@ steps:
   - name: "Langsung Beralih ke Tugas Utama"
     text: "Begitu aksi fisik selesai, langsung buka berkas kerja utama atau mulailah presentasi Anda tanpa keraguan sedikit pun."
 faqs:
-  - question: "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
-    answer: "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+  - question: "Bagaimana cara membuat rutinitas sendiri sebelum acara penting seperti presentasi atau ujian?"
+    answer: "Tentukan 2-3 langkah mekanis sederhana yang dapat Anda kontrol sepenuhnya, seperti mengikat tali sepatu dengan urutan tertentu, menarik napas dalam-dalam, atau mengucapkan kalimat positif."
+  - question: "Bagaimana cara mengatasi kecemasan jika melewatkan satu langkah atau melakukan kesalahan dalam rutinitas?"
+    answer: "Sadarilah bahwa rutinitas hanyalah jangkar psikologis, bukan esensi dari kemampuan Anda. Menerima kesalahan sebagai bagian dari proses memaksimalkan manfaat rutinitas."
 ---
 
 Peraih 23 gelar tunggal Grand Slam, ratu tenis Serena Williams. Di bawah tekanan media dan lapangan yang sangat besar, senjatanya bertahan selama 20 tahun adalah rutinitas pra-tanding yang ketat. Sebelum servis pertama, ia selalu memantulkan bola tenis sebanyak 5 kali. Pelajari bagaimana gerakan motorik berulang mengamankan fokus mental.
@@ -91,13 +93,23 @@ Kecemasan ekstrem sebelum kompetisi merangsang hipotalamus, memicu hormon epinef
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?</span>
+      <span>Bagaimana cara membuat rutinitas sendiri sebelum acara penting seperti presentasi atau ujian?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian.
+      Tentukan 2-3 langkah mekanis sederhana yang dapat Anda kontrol sepenuhnya, seperti mengikat tali sepatu dengan urutan tertentu, menarik napas dalam-dalam, atau mengucapkan kalimat positif.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Bagaimana cara mengatasi kecemasan jika melewatkan satu langkah atau melakukan kesalahan dalam rutinitas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Sadarilah bahwa rutinitas hanyalah jangkar psikologis, bukan esensi dari kemampuan Anda. Menerima kesalahan sebagai bagian dari proses memaksimalkan manfaat rutinitas.
     </p>
   </details>
 </div>

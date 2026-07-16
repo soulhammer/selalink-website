@@ -17,10 +17,10 @@ steps:
   - name: "Paso 3: Mirada objetiva y metaorganización"
     text: "Controlo estrictamente los límites de mi conciencia y me concentro en leer oraciones, como si me pusiera un escudo transparente en la cabeza para evitar que la estimulación del ruido penetre mi filtro cognitivo."
 faqs:
-  - question: "¿Es esta una rutina que realizas igual todos los días?"
-    answer: "Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir circuitos neuronales a largo plazo."
-  - question: "Si no tengo la herramienta, ¿cómo la reemplazo?"
-    answer: "Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada."
+  - question: "¿Debo realizar esta rutina de inmersión musical antes de tareas difíciles todos los días?"
+    answer: "Sí, estrechar el enfoque cognitivo e ingresar a la concentración compleja mediante un ritmo enérgico mezclado con ruido."
+  - question: "¿Cómo puedo sustituir este hábito si no tengo fonógrafos generadores de ruido?"
+    answer: "Puedes sustituirlo reproduciendo ruido blanco de ritmo rápido, sonidos ambientales mecánicos o música alegre con auriculares."
 ---
 
 John von Neumann, la persona más inteligente de la historia de la humanidad y un genio matemático de Hungría que diseñó por sí solo las bases de los estudios humanos modernos (teoría de juegos, arquitectura de Neumann) en todos los campos, incluidas las matemáticas, la informática, la economía y la mecánica cuántica. Pudo deducir fórmulas matemáticas complejas y fórmulas de arquitectura informática sin dificultad, incluso mientras estaba sentado en un rincón de una fiesta con música a todo volumen o en un banco en una ruidosa sala de espera donde un tren temblaba y el vapor emitía vapor. Por muy ruidoso que fuera su entorno, aislaba sus recursos cognitivos únicamente en la pizarra virtual construida en su cabeza. Esta rutina de aislamiento e inmersión en ruido blanco fue lo que lo convirtió en el mayor genio matemático de la historia.
@@ -97,21 +97,21 @@ El acto de mantener artificialmente la inmersión bajo un cierto nivel de estimu
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Es esta una rutina que realizas igual todos los días?</span>
+      <span>¿Debo realizar esta rutina de inmersión musical antes de tareas difíciles todos los días?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Sí, hacerlo ligeramente durante 3 minutos a una hora determinada todos los días es la forma más inteligente de espesar las células de mielina del cerebro y construir circuitos neuronales a largo plazo.
+      Sí, estrechar el enfoque cognitivo e ingresar a la concentración compleja mediante un ritmo enérgico mezclado con ruido.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Si no tengo la herramienta, ¿cómo la reemplazo?</span>
+      <span>¿Cómo puedo sustituir este hábito si no tengo fonógrafos generadores de ruido?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Puede lograr resultados suficientes operando de manera flexible usando ligeramente la visualización virtual o la guía de ajuste alternativa especificada en la guía moderna proporcionada.
+      Puedes sustituirlo reproduciendo ruido blanco de ritmo rápido, sonidos ambientales mecánicos o música alegre con auriculares.
     </p>
   </details>
 </div>

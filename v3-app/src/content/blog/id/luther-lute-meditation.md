@@ -17,8 +17,10 @@ steps:
   - name: "Merasakan Getaran dan Bernapas Dalam"
     text: "Rasakan getaran fisik instrumen pada dada dan jemari Anda, lalu kombinasikan dengan tarikan napas panjang untuk relaksasi penuh."
 faqs:
-  - question: "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
-    answer: "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+  - question: "Apakah pemula yang tidak bisa memainkan alat musik tetap bisa merasakan manfaatnya?"
+    answer: "Cukup luangkan waktu 5 menit untuk fokus pada suara alat musik sederhana seperti singing bowl, tongue drum, atau kalimba. Intinya adalah memberikan ruang kreatif bebas dari penilaian."
+  - question: "Apakah mendengarkan musik saja tidak bisa menghasilkan efek yang sama dengan bermain musik?"
+    answer: "Memainkan alat musik secara aktif melatih motorik halus dan merasakan getaran fisik, merangsang korteks motorik dan jaringan konsentrasi otak jauh lebih kuat daripada mendengar pasif."
 ---
 
 Martin Luther memicu Reformasi Gereja di Wittenberg. Di tengah ancaman hukuman bidat dan percobaan pembunuhan, kekuatannya bertahan berasal dari ritual pagi: memetik instrumen berdawai Lute setelah berdoa. Getaran fisika musik terbukti mengendurkan ketegangan saraf motorik.
@@ -91,13 +93,23 @@ Memainkan instrumen dengan jari mengaktifkan korteks motorik halus dan menghubun
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?</span>
+      <span>Apakah pemula yang tidak bisa memainkan alat musik tetap bisa merasakan manfaatnya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian.
+      Cukup luangkan waktu 5 menit untuk fokus pada suara alat musik sederhana seperti singing bowl, tongue drum, atau kalimba. Intinya adalah memberikan ruang kreatif bebas dari penilaian.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Apakah mendengarkan musik saja tidak bisa menghasilkan efek yang sama dengan bermain musik?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Memainkan alat musik secara aktif melatih motorik halus dan merasakan getaran fisik, merangsang korteks motorik dan jaringan konsentrasi otak jauh lebih kuat daripada mendengar pasif.
     </p>
   </details>
 </div>

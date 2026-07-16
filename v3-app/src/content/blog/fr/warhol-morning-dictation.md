@@ -17,8 +17,10 @@ steps:
   - name: "Archiver le fichier texte et réinitialiser l'esprit"
     text: "Arrêtez l'enregistrement et sauvegardez le texte. Dites-vous : 'La feuille d'hier est blanche'. Commencez votre journée de travail."
 faqs:
-  - question: "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?"
-    answer: "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction."
+  - question: "Comment les gens modernes peuvent-ils pratiquer cette habitude sans assistant ?"
+    answer: "Nous recommandons d'utiliser la fonction voix-texte (STT) du smartphone pour exprimer à voix haute vos pensées ou préoccupations pendant 5 minutes."
+  - question: "De quoi dois-je parler pendant le dictado pour augmenter la productivité ?"
+    answer: "Lister les faits d'hier, vider votre esprit des priorités du jour ou exprimer votre état émotionnel actuel de manière brute suffit amplement."
 ---
 
 Andy Warhol, le roi du pop art. Au milieu de l'agitation de son atelier 'The Factory', il mit en place un rituel : le dictaphone téléphonique. Chaque matin, il appelait sa secrétaire Pat Hackett et lui racontait sa journée de la veille. Voyons comment ce processus de décharge cognitive (Cognitive Offloading) libère de la place dans la mémoire de travail.
@@ -91,13 +93,23 @@ La mémoire de travail a des capacités limitées. Si les détails de la veille 
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?</span>
+      <span>Comment les gens modernes peuvent-ils pratiquer cette habitude sans assistant ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction.
+      Nous recommandons d'utiliser la fonction voix-texte (STT) du smartphone pour exprimer à voix haute vos pensées ou préoccupations pendant 5 minutes.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>De quoi dois-je parler pendant le dictado pour augmenter la productivité ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Lister les faits d'hier, vider votre esprit des priorités du jour ou exprimer votre état émotionnel actuel de manière brute suffit amplement.
     </p>
   </details>
 </div>

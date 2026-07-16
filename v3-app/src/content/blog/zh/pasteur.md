@@ -17,10 +17,10 @@ steps:
   - name: "第三步：客观审视和元组织"
     text: "1小时后，再次观察受试者，测量非常微小的变化（1mm偏差、1%指标变化等），并进行反馈训练以推断和分析因果关系1分钟并记录。"
 faqs:
-  - question: "这是你每天都会做的例行公事吗？"
-    answer: "是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。"
-  - question: "如果我没有该工具，如何更换？"
-    answer: "轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。"
+  - question: "每天实验前都需要进行这个整理仪式吗？"
+    answer: "是的，工作前精密地擦拭镜片能给大脑传递认知整理信号，使工作专注度达到最大。"
+  - question: "没有显微镜或清洗布时该如何替代？"
+    answer: "每天开始工作前，用超细纤维布擦拭电脑显示器、整理办公桌，或者把手机屏幕擦拭干净，都能获得同样的效果。"
 ---
 
 路易斯·巴斯德是现代医学和微生物学的绝对先驱，也是疫苗先驱的法国天才化学家，通过发明巴氏灭菌法和炭疽/狂犬病疫苗，使人类摆脱了对传染病的恐惧。他坐在实验室办公桌前，一动不动地盯着显微镜放大镜下的培养瓶几个小时。他细致地在笔记本上记录了微生物增殖时留下的微小晃动痕迹。他的消毒方法和疫苗的发现就是从这种盯着烧瓶的观察反馈程序中诞生的。
@@ -97,21 +97,21 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>这是你每天都会做的例行公事吗？</span>
+      <span>每天实验前都需要进行这个整理仪式吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      是的，每天在特定时间轻做3分钟，是增厚大脑髓磷脂细胞、构建长期神经元回路的最聪明方法。
+      是的，工作前精密地擦拭镜片能给大脑传递认知整理信号，使工作专注度达到最大。
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>如果我没有该工具，如何更换？</span>
+      <span>没有显微镜或清洗布时该如何替代？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      轻轻使用提供的现代指南中指定的虚拟可视化或替代调整指南，即可灵活操作，获得足够的效果。
+      每天开始工作前，用超细纤维布擦拭电脑显示器、整理办公桌，或者把手机屏幕擦拭干净，都能获得同样的效果。
     </p>
   </details>
 </div>

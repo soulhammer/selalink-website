@@ -17,8 +17,10 @@ steps:
   - name: "Registrar de imediato os lampejos subconscientes"
     text: "Ao concluir a caminhada, anote imediatamente no seu diário os lampejos de soluções revelados pelo seu processamento subconsciente."
 faqs:
-  - question: "O que devo escrever no diário nos dias em que não acontece nada de especial?"
-    answer: "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esfoço de redigir um ensaio longo."
+  - question: "Como posso substituir isso se moro na cidade e é difícil fazer caminhadas?"
+    answer: "Você pode substituir isso caminhando em um parque da cidade por mais de 30 minutos sem o telemóvel. A chave é estimular los sentidos espaço-temporais e aumentar o fluxo sanguíneo cerebral."
+  - question: "Tem alguma dica para registrar as ideias que surges durante uma caminhada sem esquecê-las?"
+    answer: "Recomendamos levar um pequeno caderno e caneta no bolso para anotar palavras-chave instantaneamente, ou usar notas de voz para não interromper a caminhada."
 ---
 
 Werner Heisenberg, o físico do princípio da incerteza. Em 1925, bloqueado pelas equações do átomo, viajou sozinho para os Alpes bávaros para caminhar dias inteiros. Encontrou o caminho em meio aos bosques. Analisemos como la caminada natural reduce la fatiga atencional (teoría de restauración de atención).
@@ -91,13 +93,23 @@ O foco voluntário continuado esgota os recursos de atenção dirigida do lóbul
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>O que devo escrever no diário nos dias em que não acontece nada de especial?</span>
+      <span>Como posso substituir isso se moro na cidade e é difícil fazer caminhadas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esfoço de redigir um ensaio longo.
+      Você pode substituir isso caminhando em um parque da cidade por mais de 30 minutos sem o telemóvel. A chave é estimular los sentidos espaço-temporais e aumentar o fluxo sanguíneo cerebral.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>Tem alguma dica para registrar as ideias que surges durante uma caminhada sem esquecê-las?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      Recomendamos levar um pequeno caderno e caneta no bolso para anotar palavras-chave instantaneamente, ou usar notas de voz para não interromper a caminhada.
     </p>
   </details>
 </div>

@@ -17,10 +17,10 @@ steps:
   - name: "Step 3: Objective gaze and meta-organization"
     text: "By precisely synchronizing the brain's motor cells to a slow motion trajectory, I observe and record my body's friction force and physical limits."
 faqs:
-  - question: "Is this a routine you perform the same every day?"
-    answer: "Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit."
-  - question: "If I don't have the tool, how do I replace it?"
-    answer: "You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided."
+  - question: "Should I perform the scales practice immediately after waking up every morning?"
+    answer: "Yes, simple repetitive finger training after waking up awakens the brain's motor cortex and frames the attention pathway."
+  - question: "How can I substitute if I don't have a real piano?"
+    answer: "Simply moving your fingers sequentially on a desk or model keyboard to a metronome stimulates the motor cortex."
 ---
 
 Hungarian composer Franz Liszt, the emperor of the piano during the Romantic era of the 19th century and the greatest virtuosic pianist of his time, expanded the expressive limits of piano music to the maximum through overwhelming sophistication and practice methods. Instead of practicing playing quickly and recklessly on the keyboard, he practiced every day by slowing down the metronome tempo to an extreme slow-motion level and playing only one key per second without error. He programmed the perfect muscle movement trajectories of the keyboard into his brain, and then used them to create magical, spectacular moves.
@@ -97,21 +97,21 @@ Training to consciously control the movements of fingers and body muscles by slo
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Is this a routine you perform the same every day?</span>
+      <span>Should I perform the scales practice immediately after waking up every morning?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes, doing it lightly for 3 minutes at a certain time every day is the smartest way to thicken the myelin cells in the brain and build a long-term neuron circuit.
+      Yes, simple repetitive finger training after waking up awakens the brain's motor cortex and frames the attention pathway.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>If I don't have the tool, how do I replace it?</span>
+      <span>How can I substitute if I don't have a real piano?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      You can achieve sufficient results by operating flexibly by lightly using the virtual visualization or alternative adjustment guide specified in the modern guide provided.
+      Simply moving your fingers sequentially on a desk or model keyboard to a metronome stimulates the motor cortex.
     </p>
   </details>
 </div>
