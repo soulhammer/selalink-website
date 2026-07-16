@@ -1,8 +1,8 @@
 ---
 title: "L'esprit comme une toile blanche : la routine d'attente silencieuse d'Agnes Martin"
 description: "L'artiste Agnes Martin, qui s'asseyait devant une toile vide en attendant que toutes ses pensées se dissipent avant de peindre. Découvrez la science cognitive de la réduction du bruit mental pour déclencher l'intuition créative."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["L'esprit c","Routine"]
 heroImage: "/images/blog/martin_silent_waiting.png"

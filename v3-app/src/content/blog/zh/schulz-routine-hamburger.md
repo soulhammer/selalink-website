@@ -1,8 +1,8 @@
 ---
 title: "消除决策疲劳：查尔斯·舒尔茨的单一午餐规程"
 description: "漫画家查尔斯·舒尔茨为了50年不停歇地创作史努比漫画，完全固定了自己的日常午餐和工作空间。探讨保护前额叶皮层免受决策疲劳影响的自动化仪式。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["消除决策疲劳：查尔斯","Routine"]
 heroImage: "/images/blog/schulz_routine_hamburger.png"

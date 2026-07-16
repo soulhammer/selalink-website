@@ -1,8 +1,8 @@
 ---
 title: "Tanz des Unterbewusstseins: George Balanchines Bügel-Choreografiemethode"
 description: "Choreograf George Balanchine, der bügelte oder den Boden fegte, wenn ihm die Inspiration fehlte. Entdecken Sie die neuronalen Wege der DMN-Aktivierung durch manuelle Wiederholungen mit geringer kognitiver Belastung."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Tanz des U","Routine"]
 heroImage: "/images/blog/balanchine_ironing_choreography.png"

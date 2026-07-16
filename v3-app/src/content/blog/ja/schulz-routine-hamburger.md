@@ -1,8 +1,8 @@
 ---
 title: "意思決定疲労の解消：チャールズ・シュルツの単一ランチルーティン"
 description: "50年間休むことなくスヌーピーを描き続けるため、日常の食事や作業環境を完全に固定したチャールズ・シュルツ。毎日同じハンバーガーを食べながら前頭葉の認知疲労を防ぎ、創造力を極大化した自動化の儀式を探求します。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["意思決定疲労の解消：","Routine"]
 heroImage: "/images/blog/schulz_routine_hamburger.png"

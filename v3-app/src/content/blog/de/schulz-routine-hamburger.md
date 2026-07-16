@@ -1,8 +1,8 @@
 ---
 title: "Dezisionsmüdigkeit eliminieren: Charles M. Schulz' immer gleiche Mittagsroutine"
 description: "Karikaturist Charles M. Schulz, der sein tägliches Mittagessen und seinen Arbeitsplatz standardisierte, um 50 Jahre lang Snoopy zu zeichnen. Erforschen Sie die Automatisierungsrituale, die den präfrontalen Cortex vor Dezisionsmüdigkeit schützen."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Dezisionsm","Routine"]
 heroImage: "/images/blog/schulz_routine_hamburger.png"

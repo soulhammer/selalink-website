@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "도화지 같은 마음: 아그네스 마틴의 정적 대기 루틴"
 description: "캔버스 앞 의자에 앉아 잡념이 완전히 사라질 때까지 기다린 뒤에야 비로소 그림을 그렸던 화가 아그네스 마틴. 두뇌의 노이즈를 청소하고 고도의 통찰과 영감을 자극하는 명상의 인지과학을 알아봅니다."
-pubDate: "2026-07-16"
+pubDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["위인 습관", "아그네스 마틴", "명상", "사색", "안정", "창의성"]
 heroImage: "/images/blog/martin_silent_waiting.png"
 app: "buildself"
 authority: "아그네스 마틴 저서 및 인터뷰집 『Agnes Martin: Writings』 고증 및 명상과 뇌파 동조가 통찰적 문제 해결(Insight Problem Solving)에 미치는 효과 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-06-12"
 faqs:
   - question: "시간이 부족한 직장인은 몇 시간씩 명상할 수 없는데, 마틴의 루틴을 현실적으로 어떻게 단축하나요?"
     answer: "아그네스 마틴처럼 몇 시간씩 명상할 필요는 없습니다. 단 5분 동안만이라도 작업을 개시하기 전 '의도적 멈춤(Intentional Pause)'을 갖는 것으로 충분합니다. 출근 직후 PC 전원을 켜기 전, 눈을 감고 깊은 호흡을 3회 반복하며 '오늘 내가 집중해야 할 최고의 본질은 무엇인가?'만 단 한 번 상기하고 일을 시작하는 것만으로도 브레인 노이즈를 획기적으로 청소하는 메타인지적 튜닝을 달성할 수 있습니다."

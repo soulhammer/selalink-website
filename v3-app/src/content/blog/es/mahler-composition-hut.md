@@ -1,8 +1,8 @@
 ---
 title: "El poder del aislamiento absoluto: la rutina de la cabaña de composición de Gustav Mahler"
 description: "El compositor Gustav Mahler, quien se aislaba en una cabaña alpina cada verano para escribir sinfonías masivas. Explore la psicología ambiental del trabajo profundo que bloquea los estímulos externos y libera la máxima concentración."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["El poder d","Routine"]
 heroImage: "/images/blog/mahler_composition_hut.png"

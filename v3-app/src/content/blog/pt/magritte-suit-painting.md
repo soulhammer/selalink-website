@@ -1,8 +1,8 @@
 ---
 title: "Psicologia do vestuário: a rotina de pintura de terno de René Magritte"
 description: "O pintor surrealista René Magritte, que pintava de terno e chapéu-coco em sua sala arrumada. Saiba mais sobre a cognição do vestuário (Enclothed Cognition) e como as roupas preparam o cérebro para o foco."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Psicologia","Routine"]
 heroImage: "/images/blog/magritte_suit_painting.png"

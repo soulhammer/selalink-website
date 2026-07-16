@@ -1,8 +1,8 @@
 ---
 title: "Eliminar a fadiga de decisão: a rotina de almoço único de Charles M. Schulz"
 description: "O cartunista Charles M. Schulz, que padronizou seu almoço diário e espaço de trabalho para desenhar o Snoopy por 50 anos. Explore os rituais de automatização que protegem o córtex pré-frontal da fadiga de decisão."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Eliminar a","Routine"]
 heroImage: "/images/blog/schulz_routine_hamburger.png"

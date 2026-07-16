@@ -1,8 +1,8 @@
 ---
 title: "Mendinginkan Otak yang Terlalu Panas: Rutinitas Detoks Film Koboi Wittgenstein"
 description: "Filsuf analitik Ludwig Wittgenstein, yang menonton film koboi di barisan depan bioskop untuk menyetel ulang otaknya yang terlalu panas."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Mendingink","Routine"]
 heroImage: "/images/blog/wittgenstein_movie_detox.png"

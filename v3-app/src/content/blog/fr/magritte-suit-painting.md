@@ -1,8 +1,8 @@
 ---
 title: "Psychologie de la tenue : la routine de peinture en costume de René Magritte"
 description: "Le peintre surréaliste René Magritte, qui peignait en costume et chapeau melon dans son salon ordonné. Découvrez la cognition de l'habillement (Enclothed Cognition) et comment les vêtements préparent le cerveau à la concentration."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Psychologi","Routine"]
 heroImage: "/images/blog/magritte_suit_painting.png"

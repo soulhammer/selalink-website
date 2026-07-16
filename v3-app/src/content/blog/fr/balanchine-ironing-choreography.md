@@ -1,8 +1,8 @@
 ---
 title: "Danse du subconscient : la méthode de chorégraphie en repassant de George Balanchine"
 description: "Le chorégraphe George Balanchine, qui repassait ou balayait le sol en panne d'inspiration. Découvrez les voies neuronales de l'activation du DMN grâce à la répétition manuelle à faible charge cognitive."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Danse du s","Routine"]
 heroImage: "/images/blog/balanchine_ironing_choreography.png"

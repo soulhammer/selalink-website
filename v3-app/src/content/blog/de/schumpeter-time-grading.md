@@ -1,8 +1,8 @@
 ---
 title: "Metakognition der Zeit: Joseph Schumpeters tägliche Scorecard-Routine"
 description: "Ökonom Joseph Schumpeter, der seine tägliche Forschungs- und Konzentrationszeit (A-F) in seinem Tagebuch bewertete. Entdecken Sie die metakognitiven Vorteile einer quantitativen täglichen Feedbackschleife."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Metakognit","Routine"]
 heroImage: "/images/blog/schumpeter_time_grading.png"

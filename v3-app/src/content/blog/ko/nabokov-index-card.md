@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "생각의 모듈화: 블라디미르 나보코프의 인덱스 카드 집필법"
 description: "소설을 조각화하여 카드로 기록하고 순서를 재배치했던 작가 블라디미르 나보코프. 인지 부하를 차단하고 창의적인 아이디어를 유연하게 결합하는 카드식 기획법의 인지과학적 가치를 조명합니다."
-pubDate: "2026-07-16"
+pubDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["위인 습관", "블라디미르 나보코프", "기록", "메모", "생산성", "창의성"]
 heroImage: "/images/blog/nabokov_index_card.png"
 app: "buildself"
 authority: "블라디미르 나보코프 자서전 『말하라, 기억이여 (Speak, Memory)』 및 인지 부하 이론 (Cognitive Load Theory) 기반 작업 기억 최적화 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-01-01"
 faqs:
   - question: "실물 종이 카드가 아닌 디지털 메모 도구로도 나보코프의 카드 구성법을 재현할 수 있나요?"
     answer: "네, 가능합니다. 노션(Notion)의 칸반 보드 뷰, 트레로(Trello), 혹은 화이트보드 툴(Miro, FigJam) 등을 활용해 생각 조각들을 카드로 만들고 마우스로 드래그하여 배치할 수 있습니다. 중요한 핵심은 긴 줄글을 한 번에 쓰지 않고, 생각을 '모듈화'하여 언제든 이동 가능한 상태로 객체화하는 것에 있습니다."

@@ -1,8 +1,8 @@
 ---
 title: "Enfriar el cerebro sobrecalentado: la rutina de desintoxicación de películas del oeste de Wittgenstein"
 description: "El filósofo analítico Ludwig Wittgenstein, quien veía películas del oeste en la primera fila de los cines para reiniciar su cerebro sobrecalentado. Descubra cómo el aislamiento visual forzado apaga la corteza prefrontal."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Enfriar el","Routine"]
 heroImage: "/images/blog/wittgenstein_movie_detox.png"

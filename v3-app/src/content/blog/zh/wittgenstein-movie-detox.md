@@ -1,8 +1,8 @@
 ---
 title: "冷却过热的大脑：维特根斯坦的西部片排毒规程"
 description: "分析哲学家路德维希·维特根斯坦，他曾在影院前排观看西部片来重启过热的大脑。发现强迫性的视觉沉浸如何关闭前额叶皮层。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["冷却过热的大脑：维特","Routine"]
 heroImage: "/images/blog/wittgenstein_movie_detox.png"

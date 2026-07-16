@@ -1,8 +1,8 @@
 ---
 title: "Die Kraft absoluter Isolation: Gustav Mahlers Komponierhäuschen-Routine"
 description: "Komponist Gustav Mahler, der sich jeden Sommer in eine Almhütte zurückzog, um gewaltige Sinfonien zu schreiben. Erforschen Sie die Umweltpsychologie der konzentrierten Arbeit, die äußere Reize ausschließt und maximale Fokussierung ermöglicht."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Die Kraft ","Routine"]
 heroImage: "/images/blog/mahler_composition_hut.png"

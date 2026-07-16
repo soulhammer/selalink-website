@@ -1,8 +1,8 @@
 ---
 title: "Modularity of Thought: Vladimir Nabokov's Index Card Writing Method"
 description: "Writer Vladimir Nabokov, who modularized novels into cards and rearranged them. Explore the cognitive value of card-based planning that prevents cognitive overload and flexibly combines creative ideas."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Great Habits","nabokov","Routine","Stamina"]
 heroImage: "/images/blog/nabokov_index_card.png"

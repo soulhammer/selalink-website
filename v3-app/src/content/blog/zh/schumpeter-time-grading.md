@@ -1,8 +1,8 @@
 ---
 title: "时间的元认知：约瑟夫·熊彼特的每日成绩单规程"
 description: "经济学家约瑟夫·熊彼特每天在日记中对自己的研究和专注时间进行评分（A-F）。发现定量每日反馈回路的元认知益处。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["时间的元认知：约瑟夫","Routine"]
 heroImage: "/images/blog/schumpeter_time_grading.png"

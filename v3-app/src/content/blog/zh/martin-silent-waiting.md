@@ -1,8 +1,8 @@
 ---
 title: "如白纸般的心灵：阿格尼丝·马丁的静默等待规程"
 description: "画家阿格尼丝·马丁坐在空画布前的椅子上，直到杂念完全消失才开始画画。了解清除大脑噪音、激发高度洞察力与灵感的冥想认知科学。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["如白纸般的心灵：阿格","Routine"]
 heroImage: "/images/blog/martin_silent_waiting.png"

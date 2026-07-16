@@ -1,8 +1,8 @@
 ---
 title: "Dance of the Subconscious: George Balanchine's Ironing Choreography Method"
 description: "Choreographer George Balanchine, who ironed or swept the floor when blocked for inspiration. Discover the neural pathways of DMN activation through low-cognitive manual repetition."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Great Habits","balanchine","Routine","Stamina"]
 heroImage: "/images/blog/balanchine_ironing_choreography.png"

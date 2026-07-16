@@ -1,8 +1,8 @@
 ---
 title: "服装心理学：勒内·马格里特的西装写作规程"
 description: "超现实主义画家勒内·马格里特每天穿着整洁的西装，在干净的客厅画架前画画。了解服装认知以及衣服如何激发大脑的专注力。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["服装心理学：勒内·马","Routine"]
 heroImage: "/images/blog/magritte_suit_painting.png"

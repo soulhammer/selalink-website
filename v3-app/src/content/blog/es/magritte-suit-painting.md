@@ -1,8 +1,8 @@
 ---
 title: "Psicología de la vestimenta: la rutina de pintura con traje de René Magritte"
 description: "El pintor surrealista René Magritte, quien pintaba con traje y bombín en su ordenada sala de estar. Conozca la cognición investida (Enclothed Cognition) y cómo la ropa prepara al cerebro para concentrarse."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Psicología","Routine"]
 heroImage: "/images/blog/magritte_suit_painting.png"

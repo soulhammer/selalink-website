@@ -1,8 +1,8 @@
 ---
 title: "思考のモジュール化：ウラジーミル・ナボコフのインデックスカード執筆法"
 description: "小説を断片化してカードに記録し、順序を再配置した作家ウラジーミル・ナボコフ。認知負荷を遮断し、創造的なアイデアを柔軟に結合するカード式企画法の認知科学的価値を明らかにします。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["思考のモジュール化：","Routine"]
 heroImage: "/images/blog/nabokov_index_card.png"

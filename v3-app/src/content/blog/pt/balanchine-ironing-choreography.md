@@ -1,8 +1,8 @@
 ---
 title: "Dança do subconsciente: o método de coreografia de passar roupa de George Balanchine"
 description: "O coreógrafo George Balanchine, que passava roupa ou varria o chão quando bloqueado por inspiração. Descubra os caminhos neurais de ativação da DMN através da repetição manual de baixa cognição."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Dança do s","Routine"]
 heroImage: "/images/blog/balanchine_ironing_choreography.png"

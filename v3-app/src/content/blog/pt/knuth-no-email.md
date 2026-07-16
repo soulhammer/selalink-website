@@ -1,8 +1,8 @@
 ---
 title: "Foco offline: a rotina de trabalho profundo sem e-mail de Donald Knuth"
 description: "O pioneiro da ciência da computação Donald Knuth, que abandonou o e-mail em 1990 para se concentrar na escrita. Explore os mecanismos neurocientíficos de bloqueio de alternância de contexto para obter concentração offline profunda."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Foco offli","Routine"]
 heroImage: "/images/blog/knuth_no_email.png"

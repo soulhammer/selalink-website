@@ -1,8 +1,8 @@
 ---
 title: "Refroidir le cerveau surchauffé : la routine détox de films de western de Wittgenstein"
 description: "Le philosophe analytique Ludwig Wittgenstein, qui regardait des westerns au premier rang des cinémas pour réinitialiser son cerveau surchauffé. Découvrez comment l'immersion visuelle forcée désactive le cortex préfrontal."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Refroidir ","Routine"]
 heroImage: "/images/blog/wittgenstein_movie_detox.png"

@@ -1,8 +1,8 @@
 ---
 title: "Éliminer la fatigue décisionnelle : la routine de déjeuner unique de Charles M. Schulz"
 description: "Le caricaturiste Charles M. Schulz, qui a standardisé son déjeuner quotidien et son espace de travail pour dessiner Snoopy pendant 50 ans. Découvrez les rituels d'automatisation qui protègent le cortex préfrontal de la fatigue décisionnelle."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Éliminer l","Routine"]
 heroImage: "/images/blog/schulz_routine_hamburger.png"

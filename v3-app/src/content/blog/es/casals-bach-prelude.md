@@ -1,8 +1,8 @@
 ---
 title: "Afinar el alma: la rutina matutina del preludio de Bach de Pablo Casals"
 description: "El virtuoso violonchelista Pablo Casals, quien comenzó sus días tocando El clave bien temperado de Bach durante más de 80 años. Descubra los principios neurocientíficos de los rituales musicales que inducen ondas alfa y estabilidad emocional."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Afinar el ","Routine"]
 heroImage: "/images/blog/casals_bach_prelude.png"

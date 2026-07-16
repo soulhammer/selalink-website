@@ -1,8 +1,8 @@
 ---
 title: "Modularité de la pensée : la méthode d'écriture sur fiches de Vladimir Nabokov"
 description: "L'écrivain Vladimir Nabokov, qui a modularisé ses romans sur des fiches et les a réorganisés. Découvrez la valeur cognitive de la planification sur fiches pour éviter la surcharge cognitive et combiner les idées de manière flexible."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Modularité","Routine"]
 heroImage: "/images/blog/nabokov_index_card.png"

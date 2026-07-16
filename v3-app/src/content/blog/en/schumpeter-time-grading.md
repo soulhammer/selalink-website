@@ -1,8 +1,8 @@
 ---
 title: "Metacognition of Time: Joseph Schumpeter's Daily Scorecard Routine"
 description: "Economist Joseph Schumpeter, who graded his daily research and focus times (A-F) in his diary. Discover the metacognitive benefits of a quantitative daily feedback loop."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Great Habits","schumpeter","Routine","Stamina"]
 heroImage: "/images/blog/schumpeter_time_grading.png"

@@ -1,8 +1,8 @@
 ---
 title: "魂の調律：パブロ・カザルスの朝のバッハ前奏曲ルーティン"
 description: "80年以上、毎朝バッハの平均律クラヴィーア曲集を演奏して一日を開始した巨匠チェリスト、パブロ・カザルス。音楽的儀式が脳の感情状態を安定させ、アルファ波を誘導する原理を学びます。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["魂の調律：パブロ・カ","Routine"]
 heroImage: "/images/blog/casals_bach_prelude.png"

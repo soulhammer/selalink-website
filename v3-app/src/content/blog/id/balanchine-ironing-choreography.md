@@ -1,8 +1,8 @@
 ---
 title: "Tarian Bawah Sadar: Metode Pembuatan Koreografi Sambil Menyetrika George Balanchine"
 description: "Koreografer George Balanchine, yang menyetrika pakaian atau menyapu lantai saat kehabisan inspirasi. Pelajari jalur saraf aktivasi DMN melalui repetisi."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Tarian Baw","Routine"]
 heroImage: "/images/blog/balanchine_ironing_choreography.png"

@@ -1,8 +1,8 @@
 ---
 title: "Psychologie der Kleidung: René Magrittes Anzug-Malroutine"
 description: "Der surrealistische Maler René Magritte, der im Anzug und Melone in seinem ordentlichen Wohnzimmer malte. Erfahren Sie mehr über Enclothed Cognition (kognitive Wirkung von Kleidung) und wie Kleidung das Gehirn auf Fokus einstellt."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Psychologi","Routine"]
 heroImage: "/images/blog/magritte_suit_painting.png"

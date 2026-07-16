@@ -1,8 +1,8 @@
 ---
 title: "Eliminar la fatiga por tomar decisiones: la rutina de almuerzo único de Charles M. Schulz"
 description: "El caricaturista Charles M. Schulz, quien estandarizó su almuerzo diario y espacio de trabajo para dibujar a Snoopy durante 50 años. Explore los rituales de automatización que protegen la corteza prefrontal de la fatiga por tomar decisiones."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Eliminar l","Routine"]
 heroImage: "/images/blog/schulz_routine_hamburger.png"

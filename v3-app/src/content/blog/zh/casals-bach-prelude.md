@@ -1,8 +1,8 @@
 ---
 title: "心灵的调谐：巴勃罗·卡萨尔斯的晨间巴赫前奏曲规程"
 description: "大师级大提琴家巴勃罗·卡萨尔斯在80多年的时间里，每天早晨演奏巴赫的《平均律键盘曲集》开始新的一天。发现音乐仪式诱导阿尔法波和情绪稳定的神经科学原理。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["心灵的调谐：巴勃罗·","Routine"]
 heroImage: "/images/blog/casals_bach_prelude.png"

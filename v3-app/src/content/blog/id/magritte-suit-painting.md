@@ -1,8 +1,8 @@
 ---
 title: "Psikologi Pakaian: Rutinitas Melukis dengan Setelan Jas René Magritte"
 description: "Pelukis surealis René Magritte, yang melukis dengan jas dan topi bowler di ruang tamunya. Pelajari Enclothed Cognition."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Psikologi ","Routine"]
 heroImage: "/images/blog/magritte_suit_painting.png"

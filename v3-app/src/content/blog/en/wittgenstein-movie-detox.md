@@ -1,8 +1,8 @@
 ---
 title: "Cooling Down the Overheated Brain: Wittgenstein's Western Movie Detox Routine"
 description: "Analytic philosopher Ludwig Wittgenstein, who watched Western movies in the front row of theaters to reset his overheated brain. Discover how forced visual immersion switches off the prefrontal cortex."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Great Habits","wittgenstein","Routine","Stamina"]
 heroImage: "/images/blog/wittgenstein_movie_detox.png"

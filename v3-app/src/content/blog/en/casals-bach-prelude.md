@@ -1,8 +1,8 @@
 ---
 title: "Tuning the Soul: Pablo Casals's Morning Bach Prelude Routine"
 description: "Master cellist Pablo Casals, who started his days playing Bach's Well-Tempered Clavier for over 80 years. Discover the neuroscientific principles of music rituals inducing alpha waves and emotional stability."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Great Habits","casals","Routine","Stamina"]
 heroImage: "/images/blog/casals_bach_prelude.png"

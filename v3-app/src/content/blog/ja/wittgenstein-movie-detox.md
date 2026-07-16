@@ -1,8 +1,8 @@
 ---
 title: "脳の過熱を冷ます：ウィトゲンシュタインの西部劇デトックスルーティン"
 description: "分析哲学の限界に挑戦し、過熱した脳をリセットするために映画館の最前列で西部劇を楽しんだルートヴィヒ・ウィトゲンシュタイン。強制的な視覚的没入が前頭葉の負荷をオフにし、創造的な問題解決を助けるメカニズムを明らかにします。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["脳の過熱を冷ます：ウ","Routine"]
 heroImage: "/images/blog/wittgenstein_movie_detox.png"

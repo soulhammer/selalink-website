@@ -1,8 +1,8 @@
 ---
 title: "Accorder son âme : la routine matinale du prélude de Bach de Pablo Casals"
 description: "Le violoncelliste virtuose Pablo Casals, qui a commencé ses journées en jouant Le Clavier bien tempéré de Bach pendant plus de 80 ans. Découvrez les principes neuroscientifiques des rituels musicaux induisant des ondes alfa et la stabilité émotionnelle."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Accorder s","Routine"]
 heroImage: "/images/blog/casals_bach_prelude.png"

@@ -1,8 +1,8 @@
 ---
 title: "Psychology of Attire: René Magritte's Suit Painting Routine"
 description: "Surrealist painter René Magritte, who painted in a suit and bowler hat in his tidy living room. Learn about Enclothed Cognition and how clothing primes the brain for focus."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["Great Habits","magritte","Routine","Stamina"]
 heroImage: "/images/blog/magritte_suit_painting.png"

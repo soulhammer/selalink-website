@@ -1,8 +1,8 @@
 ---
 title: "Afinar a alma: a rotina matinal de prelúdio de Bach de Pablo Casals"
 description: "O violoncelista virtuoso Pablo Casals, que começou seus dias tocando O Cravo Bem Temperado de Bach por mais de 80 anos. Descubra los principios neurocientíficos de los rituales musicales que inducen ondas alfa y estabilidad emocional."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Afinar a a","Routine"]
 heroImage: "/images/blog/casals_bach_prelude.png"

@@ -1,8 +1,8 @@
 ---
 title: "Danza del subconsciente: el método de coreografía de planchado de George Balanchine"
 description: "El coreógrafo George Balanchine, quien planchaba o barría el suelo cuando se bloqueaba su inspiración. Descubra las vías neuronales de activación de la DMN a través de la repetición manual de baja cognición."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["Danza del ","Routine"]
 heroImage: "/images/blog/balanchine_ironing_choreography.png"

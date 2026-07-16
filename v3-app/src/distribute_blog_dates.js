@@ -6,16 +6,16 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const targetSlugs = [
-  'stravinsky-headstand-composition',
-  'bryant-four-am-workout',
-  'ohtani-mandalart-sleep',
-  'faraday-numbered-notebook',
-  'mendeleev-chemical-solitaire',
-  'machiavelli-regal-reading',
-  'valery-dawn-notebook',
-  'steinbeck-editor-letter',
-  'lee-morning-calligraphy',
-  'yihwang-hwalinsimbang-exercise'
+  'nabokov-index-card',
+  'mahler-composition-hut',
+  'schulz-routine-hamburger',
+  'casals-bach-prelude',
+  'wittgenstein-movie-detox',
+  'balanchine-ironing-choreography',
+  'schumpeter-time-grading',
+  'knuth-no-email',
+  'magritte-suit-painting',
+  'martin-silent-waiting'
 ];
 
 // 2026-01-01 ~ 2026-07-16

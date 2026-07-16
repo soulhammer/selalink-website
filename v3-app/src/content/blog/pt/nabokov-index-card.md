@@ -1,8 +1,8 @@
 ---
 title: "Modularidade do pensamento: o método de escrita com fichas de Vladimir Nabokov"
 description: "O escritor Vladimir Nabokov, que modularizou romances em fichas e os reorganizou. Explore o valor cognitivo do planejamento baseado em fichas que evita a sobrecarga cognitiva e combina ideias criativas de forma flexível."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Modularida","Routine"]
 heroImage: "/images/blog/nabokov_index_card.png"

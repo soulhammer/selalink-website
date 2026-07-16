@@ -1,8 +1,8 @@
 ---
 title: "Menghilangkan Kelelahan Keputusan: Rutinitas Satu Menu Makan Siang Charles M. Schulz"
 description: "Kartunis Charles M. Schulz, yang menstandardisasi makan siang dan ruang kerjanya demi menggambar Snoopy selama 50 tahun. Pelajari ritual otomatisasi."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Menghilang","Routine"]
 heroImage: "/images/blog/schulz_routine_hamburger.png"

@@ -1,8 +1,8 @@
 ---
 title: "Der Geist wie eine leere Leinwand: Agnes Martins Routine des stillen Wartens"
 description: "Die Künstlerin Agnes Martin, die vor einer leeren Leinwand saß und darauf wartete, dass sich alle Gedanken auflösten, bevor sie malte. Erforschen Sie die Kognitionswissenschaft zur Reduzierung des mentalen Rauschens, um kreative Erkenntnisse freizusetzen."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Der Geist ","Routine"]
 heroImage: "/images/blog/martin_silent_waiting.png"

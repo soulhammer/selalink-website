@@ -1,8 +1,8 @@
 ---
 title: "画用紙のような心：アグネス・マーティンの静的待機ルーティン"
 description: "キャンバスの前の椅子に座り、雑念が完全に消えるまで待ってから絵を描いた画家アグネス・マーティン。頭脳のノイズを掃除し、高度な洞察とインスピレーションを刺激する瞑想の認知科学を学びます。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["画用紙のような心：ア","Routine"]
 heroImage: "/images/blog/martin_silent_waiting.png"

@@ -1,8 +1,8 @@
 ---
 title: "Fokus Offline: Rutinitas Kerja Mendalam Tanpa Email Donald Knuth"
 description: "Pionir ilmu komputer Donald Knuth, yang berhenti menggunakan email pada 1990 untuk fokus menulis. Pelajari mekanisme memutus context switching."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Fokus Offl","Routine"]
 heroImage: "/images/blog/knuth_no_email.png"

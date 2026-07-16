@@ -1,8 +1,8 @@
 ---
 title: "Menyelaraskan Jiwa: Rutinitas Pagi Bach Prelude Pablo Casals"
 description: "Pemain cello legendaris Pablo Casals, yang memulai harinya dengan memainkan Bach selama lebih dari 80 tahun. Pelajari prinsip neurosains dari ritual musik ini."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Menyelaras","Routine"]
 heroImage: "/images/blog/casals_bach_prelude.png"

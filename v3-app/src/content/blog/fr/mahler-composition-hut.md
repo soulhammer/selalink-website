@@ -1,8 +1,8 @@
 ---
 title: "Le pouvoir de l'isolement absolu : la routine de la cabane de composition de Gustav Mahler"
 description: "Le compositeur Gustav Mahler, qui s'isolait chaque été dans une cabane alpine pour écrire des symphonies massives. Découvrez la psychologie environnementale du travail en profondeur qui exclut les stimuli externes et libère une concentration maximale."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Le pouvoir","Routine"]
 heroImage: "/images/blog/mahler_composition_hut.png"

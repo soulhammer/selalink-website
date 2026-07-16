@@ -1,8 +1,8 @@
 ---
 title: "Esfriar o cérebro superaquecido: a rotina de desintoxicação de filmes de faroeste de Wittgenstein"
 description: "O filósofo analítico Ludwig Wittgenstein, que assistia a filmes de faroeste na primeira fila dos cinemas para reiniciar seu cérebro superaquecido. Descubra como a imersão visual forçada desliga o córtex pré-frontal."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Esfriar o ","Routine"]
 heroImage: "/images/blog/wittgenstein_movie_detox.png"

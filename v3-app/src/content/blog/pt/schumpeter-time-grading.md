@@ -1,8 +1,8 @@
 ---
 title: "Metacognição do tempo: a rotina de pontuação diária de Joseph Schumpeter"
 description: "O economista Joseph Schumpeter, que avaliava diariamente seus tempos de pesquisa e foco (A-F) em seu diário. Descubra os benefícios metacognitivos de um ciclo de feedback diário quantitativo."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Metacogniç","Routine"]
 heroImage: "/images/blog/schumpeter_time_grading.png"

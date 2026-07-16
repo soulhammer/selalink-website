@@ -1,8 +1,8 @@
 ---
 title: "绝对孤立的力量：古斯塔夫·马勒的作曲小屋规程"
 description: "作曲家古斯塔夫·马勒每年夏天都将自己孤立在阿尔卑斯山的小屋里，创作宏大的交响曲。探讨排除外部刺激并释放最大专注力的深度工作环境心理学。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["绝对孤立的力量：古斯","Routine"]
 heroImage: "/images/blog/mahler_composition_hut.png"

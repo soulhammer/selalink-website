@@ -1,8 +1,8 @@
 ---
 title: "Métacognition du temps : la routine du bilan quotidien de Joseph Schumpeter"
 description: "L'économiste Joseph Schumpeter, qui évaluait quotidiennement ses heures de recherche et de concentration (de A à F) dans son journal. Découvrez les avantages métacognitifs d'une boucle de rétroaction quotidienne quantitative."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Métacognit","Routine"]
 heroImage: "/images/blog/schumpeter_time_grading.png"

@@ -1,8 +1,8 @@
 ---
 title: "The Power of Absolute Isolation: Gustav Mahler's Composing Hut Routine"
 description: "Composer Gustav Mahler, who isolated himself in an Alpine hut each summer to write massive symphonies. Explore the environmental psychology of deep work that shuts out external stimuli and unlocks maximum focus."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Great Habits","mahler","Routine","Stamina"]
 heroImage: "/images/blog/mahler_composition_hut.png"

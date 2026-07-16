@@ -1,8 +1,8 @@
 ---
 title: "Das überhitzte Gehirn abkühlen: Wittgensteins Westernfilm-Detox-Routine"
 description: "Analytischer Philosoph Ludwig Wittgenstein, der in der ersten Reihe von Kinos Westernfilme sah, um sein überhitztes Gehirn zurückzusetzen. Erfahren Sie, wie erzwungene visuelle Immersion den präfrontalen Cortex ausschaltet."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-03-14"
+updatedDate: "2026-03-14"
 category: "BuildSelf"
 tags: ["Das überhi","Routine"]
 heroImage: "/images/blog/wittgenstein_movie_detox.png"

@@ -1,8 +1,8 @@
 ---
 title: "時間のメタ認知：ヨーゼフ・シュンペーターの一日成績表ルーティン"
 description: "毎晩自分の日記帳に学習と没入時間を評価し、成績（A〜F）を付けた経済学者ヨーゼフ・シュンペーター。自らの行動を定量的に評価して改善するフィードバックループのメタ認子的効果を研究します。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["時間のメタ認知：ヨー","Routine"]
 heroImage: "/images/blog/schumpeter_time_grading.png"

@@ -1,8 +1,8 @@
 ---
 title: "Mind Like a Blank Canvas: Agnes Martin's Silent Waiting Routine"
 description: "Artist Agnes Martin, who sat before an empty canvas waiting for all thoughts to dissolve before painting. Explore the cognitive science of reducing mental noise to trigger creative insight."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Great Habits","martin","Routine","Stamina"]
 heroImage: "/images/blog/martin_silent_waiting.png"

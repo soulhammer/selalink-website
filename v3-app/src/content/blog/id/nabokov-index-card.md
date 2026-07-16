@@ -1,8 +1,8 @@
 ---
 title: "Modularitas Pemikiran: Metode Menulis Kartu Indeks Vladimir Nabokov"
 description: "Penulis Vladimir Nabokov, yang memodularisasi novel menjadi kartu dan menyusunnya kembali. Jelajahi nilai kognitif perencanaan berbasis kartu yang mencegah kelebihan beban kognitif."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Modularita","Routine"]
 heroImage: "/images/blog/nabokov_index_card.png"

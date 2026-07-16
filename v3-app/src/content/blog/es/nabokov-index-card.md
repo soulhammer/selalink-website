@@ -1,8 +1,8 @@
 ---
 title: "Modularidad del pensamiento: el método de escritura con tarjetas de Vladimir Nabokov"
 description: "El escritor Vladimir Nabokov, quien modularizó novelas en tarjetas y las reorganizó. Explore el valor cognitivo de la planificación basada en tarjetas que evita la sobrecarga cognitiva y combina ideas creativas de manera flexible."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Modularida","Routine"]
 heroImage: "/images/blog/nabokov_index_card.png"

@@ -1,8 +1,8 @@
 ---
 title: "Kekuatan Isolasi Mutlak: Rutinitas Pondok Komposisi Gustav Mahler"
 description: "Komposer Gustav Mahler, yang mengisolasi diri di pondok Alpen setiap musim panas untuk menulis simfoni masif. Jelajahi psikologi lingkungan dari kerja mendalam."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["Kekuatan I","Routine"]
 heroImage: "/images/blog/mahler_composition_hut.png"

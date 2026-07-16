@@ -1,8 +1,8 @@
 ---
 title: "无意识之舞：乔治·巴兰钦的简单家务编舞法"
 description: "编舞家乔治·巴兰钦在缺乏灵感时，会通过熨衣服或扫地来激发创意。发现通过低认知手动重复激活DMN的神经通路。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 category: "BuildSelf"
 tags: ["无意识之舞：乔治·巴","Routine"]
 heroImage: "/images/blog/balanchine_ironing_choreography.png"

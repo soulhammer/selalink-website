@@ -1,8 +1,8 @@
 ---
 title: "Mente como un lienzo en blanco: la rutina de espera silenciosa de Agnes Martin"
 description: "La pintora Agnes Martin, quien se sentaba ante un lienzo vacío esperando a que todos los pensamientos se disolvieran antes de pintar. Explore la ciencia cognitiva de reducir el ruido mental para desencadenar la percepción creativa."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Mente como","Routine"]
 heroImage: "/images/blog/martin_silent_waiting.png"

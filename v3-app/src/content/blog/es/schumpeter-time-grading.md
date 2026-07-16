@@ -1,8 +1,8 @@
 ---
 title: "Metacognición del tiempo: la rutina de la tarjeta de puntuación diaria de Joseph Schumpeter"
 description: "El economista Joseph Schumpeter, quien calificaba sus tiempos diarios de investigación y concentración (de la A a la F) en su diario. Descubra los beneficios metacognitivos de un ciclo de retroalimentación diaria cuantitativa."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Metacognic","Routine"]
 heroImage: "/images/blog/schumpeter_time_grading.png"

@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "연속적인 집중의 수호: 도널드 너스의 이메일 단절 루틴"
 description: "1990년부터 이메일을 완전히 중단하고 오직 종이 편지와 팩스로만 소통하며 대작을 집필한 전산학의 대부 도널드 너스. 디지털 인터럽트를 제로로 만들어 뇌의 전환 비용(Switching Cost)을 방지하는 집중 전략을 살펴봅니다."
-pubDate: "2026-07-16"
+pubDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
 heroImage: "/images/blog/knuth_no_email.png"
 app: "buildself"
 authority: "도널드 너스 스탠퍼드대 공식 홈페이지 성명서 고증 및 칼 뉴포트의 『딥 워크(Deep Work)』 주의 전환 비용(Switching Cost) 예방 연구"
-updatedDate: "2026-07-16"
+updatedDate: "2026-05-07"
 faqs:
   - question: "실시간 메신저(슬랙 등) 답장을 늦게 보내면 눈치가 보이는데, 어떻게 대처해야 하나요?"
     answer: "이때는 '기대 관리(Expectation Management)'가 핵심입니다. 프로필 상태 창에 '현재 문서 집필 중 (오후 1시에 순차 확인 후 답장 드리겠습니다)' 같은 상태 메시지를 공유해 두십시오. 사람들이 당신이 오프라인인 이유와 답장이 올 정확한 타이밍을 인지하면, 실시간 답장 부재에 대한 심리적 오해를 원천 차단하고 오히려 당신의 업무 밀도를 존중해 주게 됩니다."

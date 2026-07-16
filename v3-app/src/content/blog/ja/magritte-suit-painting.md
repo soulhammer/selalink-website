@@ -1,8 +1,8 @@
 ---
 title: "服装の心理学：ルネ・マグリットのスーツ執筆ルーティン"
 description: "毎日スーツを端正に着て、居間のイーゼルの前で乱れなく絵を描いた超現実主義の画家ルネ・マグリット。着る服が脳に及ぼす認ذي的フィードバック効果である着衣認知（Enclothed Cognition）を解明します。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-25"
+updatedDate: "2026-05-25"
 category: "BuildSelf"
 tags: ["服装の心理学：ルネ・","Routine"]
 heroImage: "/images/blog/magritte_suit_painting.png"

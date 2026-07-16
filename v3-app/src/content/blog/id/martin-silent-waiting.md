@@ -1,8 +1,8 @@
 ---
 title: "Pikiran Seperti Kanvas Kosong: Rutinitas Menunggu dalam Diam Agnes Martin"
 description: "Artis Agnes Martin, yang duduk di depan kanvas kosong menunggu semua pikiran larut sebelum melukis. Pelajari ilmu kognitif mereduksi mental noise."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Pikiran Se","Routine"]
 heroImage: "/images/blog/martin_silent_waiting.png"

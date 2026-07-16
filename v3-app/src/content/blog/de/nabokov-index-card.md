@@ -1,8 +1,8 @@
 ---
 title: "Modularität des Denkens: Vladimir Nabokovs Karteikarten-Schreibmethode"
 description: "Schriftsteller Vladimir Nabokov, der Romane in Karten modularisierte und neu ordnete. Erforschen Sie den kognitiven Wert der kartenbasierten Planung, die kognitive Überlastung verhindert und kreative Ideen flexibel kombiniert."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Modularitä","Routine"]
 heroImage: "/images/blog/nabokov_index_card.png"

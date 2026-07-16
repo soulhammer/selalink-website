@@ -1,8 +1,8 @@
 ---
 title: "思维的模块化：弗拉基米尔·纳博科夫的索引卡写作法"
 description: "将小说模块化为卡片并重新排列的作家弗拉基米尔·纳博科夫。探讨卡片式规划的认知价值，以防止认知超载并灵活组合创意想法。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["思维的模块化：弗拉基","Routine"]
 heroImage: "/images/blog/nabokov_index_card.png"

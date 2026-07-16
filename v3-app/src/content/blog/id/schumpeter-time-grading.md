@@ -1,8 +1,8 @@
 ---
 title: "Metakognisi Waktu: Rutinitas Kartu Skor Harian Joseph Schumpeter"
 description: "Ekonom Joseph Schumpeter, yang menilai waktu penelitian dan fokus hariannya (A-F) di buku hariannya. Temukan manfaat metakognitif."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-04-19"
+updatedDate: "2026-04-19"
 category: "BuildSelf"
 tags: ["Metakognis","Routine"]
 heroImage: "/images/blog/schumpeter_time_grading.png"

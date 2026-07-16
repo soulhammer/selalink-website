@@ -1,8 +1,8 @@
 ---
 title: "完璧な孤立の力：グスタフ・マーラーの作曲小屋ルーティン"
 description: "夏ごとにアルプスの森の中の小屋に身を隔離し、巨大な交響曲を創作した作曲家グスタフ・マーラー。外部のすべての刺激を遮断し、脳をディープワーク状態に進入させる没入の空間心理学を研究します。"
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-01-19"
+updatedDate: "2026-01-19"
 category: "BuildSelf"
 tags: ["完璧な孤立の力：グス","Routine"]
 heroImage: "/images/blog/mahler_composition_hut.png"

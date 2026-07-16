@@ -1,8 +1,8 @@
 ---
 title: "Stimmung der Seele: Pablo Casals' morgendliche Bach-Präludium-Routine"
 description: "Meistercellist Pablo Casals, der über 80 Jahre lang seinen tag mit dem Spielen von Bachs Wohltemperiertem Klavier begann. Entdecken Sie die neurowissenschaftlichen Prinzipien von Musikritualen, die Alphawellen und emotionale Stabilität induzieren."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
 category: "BuildSelf"
 tags: ["Stimmung d","Routine"]
 heroImage: "/images/blog/casals_bach_prelude.png"

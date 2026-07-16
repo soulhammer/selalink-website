@@ -1,8 +1,8 @@
 ---
 title: "Mente como uma tela em branco: a rotina de espera silenciosa de Agnes Martin"
 description: "A artista Agnes Martin, que se sentava diante de uma tela em branco esperando que todos os pensamentos se dissolvessem antes de pintar. Explore a ciência cognitiva de reduzir o ruído mental para desencadear o insight criativo."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-06-12"
+updatedDate: "2026-06-12"
 category: "BuildSelf"
 tags: ["Mente como","Routine"]
 heroImage: "/images/blog/martin_silent_waiting.png"

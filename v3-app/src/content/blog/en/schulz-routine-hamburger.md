@@ -1,8 +1,8 @@
 ---
 title: "Eliminating Decision Fatigue: Charles M. Schulz's Single Lunch Routine"
 description: "Cartoonist Charles M. Schulz, who standardized his daily lunch and workspace to draw Snoopy for 50 years. Explore the automation rituals that shield the prefrontal cortex from decision fatigue."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-02-06"
+updatedDate: "2026-02-06"
 category: "BuildSelf"
 tags: ["Great Habits","schulz","Routine","Stamina"]
 heroImage: "/images/blog/schulz_routine_hamburger.png"

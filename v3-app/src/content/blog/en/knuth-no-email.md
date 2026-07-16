@@ -1,8 +1,8 @@
 ---
 title: "Offline Focus: Donald Knuth's No-Email Deep Work Routine"
 description: "Computer science pioneer Donald Knuth, who quit email in 1990 to focus on writing. Explore the neuroscientific mechanisms of blocking context switching to achieve deep offline concentration."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Great Habits","knuth","Routine","Stamina"]
 heroImage: "/images/blog/knuth_no_email.png"

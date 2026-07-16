@@ -1,8 +1,8 @@
 ---
 title: "Enfoque fuera de línea: la rutina de trabalho profundo sem e-mail de Donald Knuth"
 description: "El pionero de la informática Donald Knuth, quien dejó el correo electrónico en 1990 para concentrarse en escribir. Explore los mecanismos neurocientíficos de bloquear el cambio de contexto para lograr una concentración profunda fuera de línea."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Enfoque fu","Routine"]
 heroImage: "/images/blog/knuth_no_email.png"

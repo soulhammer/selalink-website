@@ -1,8 +1,8 @@
 ---
 title: "Offline-Fokus: Donald Knuths e-mail-freie Tiefenarbeitsroutine"
 description: "Informatikpionier Donald Knuth, der 1990 E-Mails aufgab, um sich auf das Schreiben zu konzentrieren. Erforschen Sie die neurowissenschaftlichen Mechanismen zur Blockierung von Kontextwechseln, um eine tiefe Offline-Konzentration zu erreichen."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Offline-Fo","Routine"]
 heroImage: "/images/blog/knuth_no_email.png"

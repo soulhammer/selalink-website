@@ -1,8 +1,8 @@
 ---
 title: "Concentration hors ligne : la routine de travail en profondeur sans e-mail de Donald Knuth"
 description: "Le pionnier de l'informatique Donald Knuth, qui a arrêté les e-mails en 1990 pour se concentrer sur l'écriture. Découvrez les mécanismes neuroscientifiques du blocage du changement de contexte pour atteindre une concentration profonde hors ligne."
-pubDate: "2026-07-16"
-updatedDate: "2026-07-16"
+pubDate: "2026-05-07"
+updatedDate: "2026-05-07"
 category: "BuildSelf"
 tags: ["Concentrat","Routine"]
 heroImage: "/images/blog/knuth_no_email.png"
