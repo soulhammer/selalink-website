@@ -9,8 +9,8 @@ const { lang } = Astro.props;
 const t = useTranslations(lang as any);
 ---
 
-<div class="share-toolkit-container my-8 p-4 md:p-6 rounded-[2rem] border border-slate-200/50 dark:border-white/5 bg-slate-500/5 dark:bg-slate-900/10 backdrop-blur-sm shadow-sm flex flex-col sm:flex-row items-center justify-between gap-4">
-  <div class="flex items-center gap-2.5">
+<div class="share-toolkit-container my-4 p-3 md:p-4.5 rounded-2xl border border-slate-200/50 dark:border-white/5 bg-slate-500/5 dark:bg-slate-900/10 backdrop-blur-sm shadow-sm flex flex-col sm:flex-row items-center justify-between gap-4">
+  <div id="shareTitleLabel" class="flex items-center gap-2.5">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 text-[var(--theme-accent,#0D9488)]">
       <circle cx="18" cy="5" r="3"></circle>
       <circle cx="6" cy="12" r="3"></circle>
@@ -149,6 +149,8 @@ const t = useTranslations(lang as any);
       if (webShareBtn) webShareBtn.classList.remove('hidden');
       if (webShareBtn) webShareBtn.classList.add('flex');
       if (fallbackShareList) fallbackShareList.classList.add('hidden');
+      const shareTitleLabel = document.getElementById('shareTitleLabel');
+      if (shareTitleLabel) shareTitleLabel.classList.add('hidden');
 
       webShareBtn?.addEventListener('click', async () => {
         try {

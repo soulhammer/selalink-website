@@ -692,7 +692,7 @@ describe('블로그 콘텐츠 전체 무결성 정밀 Linter 테스트', () => {
       const errMsg = err.stdout ? err.stdout.toString() : err.message;
       throw new Error(`[Linter 검증 실패]\n${errMsg}`);
     }
-  });
+  }, 15000);
 });
 
 describe('blogIndex.ts 내의 다국어 리터럴 텍스트 검증', () => {

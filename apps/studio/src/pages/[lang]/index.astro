@@ -152,8 +152,21 @@ const langPosts = allPosts
 				</div>
 
 				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
-					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
-						{t('app.freshself.supported')}
+					<div class="flex flex-wrap items-center gap-2">
+						<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+							{t('app.freshself.supported')}
+						</div>
+						<span 
+							role="link"
+							tabindex="0"
+							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${lang}', '_blank');`}
+							class="inline-flex items-center gap-1.5 text-xs font-bold bg-purple-600 hover:bg-purple-700 text-white dark:bg-purple-500/20 dark:text-purple-300 dark:border-purple-500/30 px-3.5 py-2 rounded-full border border-purple-500/20 shadow-lg transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+						>
+							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
+							</svg>
+							<span>Google Play</span>
+						</span>
 					</div>
 					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-purple-600 dark:group-hover:bg-purple-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
 						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
@@ -199,8 +212,21 @@ const langPosts = allPosts
 				</div>
 
 				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
-					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
-						{t('app.logself.supported')}
+					<div class="flex flex-wrap items-center gap-2">
+						<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+							{t('app.logself.supported')}
+						</div>
+						<span 
+							role="link"
+							tabindex="0"
+							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.logself&hl=${lang}', '_blank');`}
+							class="inline-flex items-center gap-1.5 text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white dark:bg-indigo-500/20 dark:text-indigo-300 dark:border-indigo-500/30 px-3.5 py-2 rounded-full border border-indigo-500/20 shadow-lg transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+						>
+							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
+							</svg>
+							<span>Google Play</span>
+						</span>
 					</div>
 					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-indigo-600 dark:group-hover:bg-indigo-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
 						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
@@ -249,8 +275,21 @@ const langPosts = allPosts
 				</div>
 
 				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
-					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
-						{t('app.buildself.supported')}
+					<div class="flex flex-wrap items-center gap-2">
+						<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+							{t('app.buildself.supported')}
+						</div>
+						<span 
+							role="link"
+							tabindex="0"
+							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.buildself&hl=${lang}', '_blank');`}
+							class="inline-flex items-center gap-1.5 text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white dark:bg-emerald-500/20 dark:text-emerald-300 dark:border-emerald-500/30 px-3.5 py-2 rounded-full border border-emerald-500/20 shadow-lg transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+						>
+							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
+							</svg>
+							<span>Google Play</span>
+						</span>
 					</div>
 					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
 						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
