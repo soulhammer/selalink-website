@@ -1692,5 +1692,775 @@
         "id": "Taruh wadah kedap udara berisi semangka di laci sayur bagian dalam. Menyimpannya di area dengan fluktuasi suhu minimal menjaga kerenyahan dan rasa manisnya."
       }
     }
+  ],
+  "carrot": [
+    {
+      "stepNum": 1,
+      "name": {
+        "ko": "표면 물기를 완벽하게 건조하기 — 습기 차단 흙당근 건조 📦",
+        "en": "Dry surface moisture completely — Prevent rot 📦",
+        "ja": "表面の水分をしっかり乾かす —  カビ防止 📦",
+        "zh": "彻底擦干表面水分 —  防霉防烂 📦",
+        "es": "Secar la humedad de la superficie 📦",
+        "fr": "Sécher l'humidité de surface 📦",
+        "de": "Oberflächenfeuchtigkeit trocknen 📦",
+        "pt": "Secar umidade da superfície 📦",
+        "id": "Keringkan kelembapan permukaan 📦"
+      },
+      "text": {
+        "ko": "당근은 습기에 매우 취약하여 표면에 물기가 남아있으면 곰팡이가 피거나 썩기 쉽습니다. 흙당근은 씻지 말고 묻어있는 물기만 통풍이 잘되는 그늘에서 가볍게 말린 후 보관해야 보존 기한이 길어집니다.",
+        "en": "Carrots are highly vulnerable to moisture. If wet, they mold or rot easily. Keep mud-covered carrots unwashed, dry any surface moisture in a well-ventilated shady area before storage to prolong their shelf life.",
+        "ja": "人参は湿気に非常に弱い野菜です。表面に水分が残っているとカビや腐敗の原因になります。土付きの人参は洗わず、付着している湿気だけを風通しの良い日陰で乾かしてから保管しましょう。",
+        "zh": "胡萝卜极易受潮。如果表面残留水分，很容易发霉或腐烂。",
+        "es": "Las zanahorias son vulnerables a la humedad. Séquelas bien a la sombra antes de guardarlas.",
+        "fr": "Les carottes sont sensibles à l'humidité. Séchez-les bien à l'ombre avant de les stocker.",
+        "de": "Karotten sind feuchtigkeitsempfindlich. Vor dem Lagern gut im Schatten trocknen.",
+        "pt": "As cenouras são sensíveis à umidade. Seque-as bem à sombra antes de guardar.",
+        "id": "Wortel rentan terhadap kelembapan. Keringkan di tempat teduh sebelum disimpan."
+      }
+    },
+    {
+      "stepNum": 2,
+      "name": {
+        "ko": "키친타월이나 신문지로 낱개 포장하기 — 수분 균형 유지 📰",
+        "en": "Wrap individually in paper towels or newspaper — Moisture balance 📰",
+        "ja": "新聞紙やキッチンペーパーで1本ずつ包む — 湿度キープ 📰",
+        "zh": "用报纸或纸巾单独包裹 — 锁水防潮 📰",
+        "es": "Envolver individualmente 📰",
+        "fr": "Envelopper individuellement 📰",
+        "de": "Einzeln einwickeln 📰",
+        "pt": "Embrulhar individualmente 📰",
+        "id": "Bungkus satu per satu 📰"
+      },
+      "text": {
+        "ko": "건조된 당근은 신문지나 키친타월로 한 개씩 정성스럽게 감싸줍니다. 신문지는 냉장고 안의 불필요한 습기를 빨아들이는 동시에 당근 자체의 적정 수분이 빠져나가는 것을 막아주는 훌륭한 필터 역할을 합니다.",
+        "en": "Wrap each dried carrot in newspaper or paper towels. Newspaper acts as a great filter, absorbing excess moisture in the fridge while preventing the carrot's natural moisture from escaping.",
+        "ja": "乾いた人参を新聞紙やキッチンペーパーで1本ずつ丁寧に包みます. 新聞紙は冷蔵庫内の余分な湿気を吸収しつつ, 人参自体の水分が抜けるのを防ぎます.",
+        "zh": "用纸巾包裹胡萝卜以吸收水分。",
+        "es": "Envuelva cada zanahoria en papel de cocina para regular la humedad.",
+        "fr": "Enveloppez chaque carotte dans du papier absorbant pour réguler l'humidité.",
+        "de": "Wickeln Sie jede Karotte in Küchenpapier, um die Feuchtigkeit zu regulieren.",
+        "pt": "Embrulhe cada cenoura em papel-toalha para regular a umidade.",
+        "id": "Bungkus setiap wortel dengan tisu dapur untuk mengatur kelembapan."
+      }
+    },
+    {
+      "stepNum": 3,
+      "name": {
+        "ko": "지퍼백에 담아 세워서 냉장 보관하기 — 직립 보관 (21일) ❄️",
+        "en": "Store vertically in a Ziploc bag — Vertical storage (21 Days) ❄️",
+        "ja": "ジッパーバッグに入れ、立てて冷蔵保存する — 立てて保存 (21日間) ❄️",
+        "zh": "装入密封袋中竖立冷藏 — 竖立储存 (21天) ❄️",
+        "es": "Almacenar verticalmente ❄️",
+        "fr": "Stocker verticalement ❄️",
+        "de": "Aufrecht lagern ❄️",
+        "pt": "Guardar verticalmente ❄️",
+        "id": "Simpan secara tegak ❄️"
+      },
+      "text": {
+        "ko": "포장한 당근은 밀폐 지퍼백에 넣고, 냉장고 야채칸에 '세워서' 보관합니다. 당근은 밭에 심겨 있던 형태 그대로 세워서 보관할 때 자신의 호흡을 원활하게 유지하며 쉽게 무르지 않고 싱싱하게 유지됩니다.",
+        "en": "Place wrapped carrots in a sealed bag and store them vertically in the crisper drawer. Keeping them in their natural growing position maintains stable respiration and keeps them fresh and crisp.",
+        "ja": "包んだ人参をジッパーバッグに入れ、野菜室に立てて保管します。ニンジンが畑で育った本来の向きのまま立てて保存することで, 呼吸活動を安定させ, 新鮮さをより長く保つことができます.",
+        "zh": "将胡萝卜竖立存放在冰箱中层。",
+        "es": "Guárdelas de pie en el cajón de verduras para mantener la frescura.",
+        "fr": "Conservez-les debout dans le bac à légumes pour maintenir la fraîcheur.",
+        "de": "Lagern Sie sie aufrecht im Gemüsefach, um die Frische zu erhalten.",
+        "pt": "Guarde-as de pé na gaveta de legumes para manter o frescor.",
+        "id": "Simpan wortel secara tegak di laci sayur agar tetap segar."
+      }
+    }
+  ],
+  "cucumber": [
+    {
+      "stepNum": 1,
+      "name": {
+        "ko": "표면 세척 후 물기 완벽히 제거하기 — 습기 예방 🥒",
+        "en": "Clean and dry surface completely — Moisture control 🥒",
+        "ja": "きゅうりを洗って水分を完全に拭き取る — 水分除去 🥒",
+        "zh": "清洗干净后彻底擦干水分 — 干燥防霉 🥒",
+        "es": "Lavar y secar la superficie 🥒",
+        "fr": "Laver et sécher la surface 🥒",
+        "de": "Waschen und Oberfläche trocknen 🥒",
+        "pt": "Lavar e secar a superfície 🥒",
+        "id": "Cuci dan keringkan permukaan 🥒"
+      },
+      "text": {
+        "ko": "오이는 수분이 매우 많아 표면에 이물질이나 물기가 있는 채로 보관하면 표면이 쉽게 물러집니다. 먼저 물로 가볍게 씻은 뒤, 키친타월나 마른 수건으로 겉면의 물기를 완전히 닦아 말리는 것이 최우선입니다.",
+        "en": "Cucumbers have high water content. Storing them with moisture on the skin leads to quick spoiling. Wash gently first, then wipe off all water with a dry paper towel.",
+        "ja": "きゅうりは水分の多い野菜なので、表面に水分や汚れがついたまま保管するとぬるぬるして傷んでしまいます。水で軽く洗った後, ペーパータオルで完全に水気を拭き取りましょう。",
+        "zh": "清洗并擦干黄瓜表面的水分。",
+        "es": "Limpie los pepinos y séquelos por completo para evitar que se ablanden.",
+        "fr": "Nettoyez les concombres et séchez-les complètement pour éviter qu'ils ne ramollissent.",
+        "de": "Gurken reinigen und vollständig trocknen, um ein Erweichen zu verhindern.",
+        "pt": "Limpe os pepinos e seque-os completamente para evitar que amoleçam.",
+        "id": "Bersihkan timun dan keringkan sepenuhnya agar tidak menjadi lembek."
+      }
+    },
+    {
+      "stepNum": 2,
+      "name": {
+        "ko": "키친타월로 한 개씩 감싸기 — 냉해 및 온도 완충 📰",
+        "en": "Wrap individually in paper towels — Prevent cold damage 📰",
+        "ja": "キッチンペーパーできゅうりを1本ずつ包む — 冷気遮断 📰",
+        "zh": "用厨房纸巾逐个包裹 — 隔绝冷气 📰",
+        "es": "Envolver individualmente 📰",
+        "fr": "Envelopper individuellement 📰",
+        "de": "Einzeln einwickeln 📰",
+        "pt": "Embrulhar individualmente 📰",
+        "id": "Bungkus satu per satu 📰"
+      },
+      "text": {
+        "ko": "물기를 말린 오이를 한 개씩 키친타월로 꼼꼼히 감쌉니다. 키친타월은 냉장고 내부의 직접적인 냉기가 오이 표면에 닿는 것을 예방하여 냉해를 줄여주는 훌륭한 단열재 역할을 수행합니다.",
+        "en": "Wrap each dry cucumber tightly in a paper towel. The paper towel acts as insulation, protecting the cucumbers from direct cold air in the fridge and reducing chill injury.",
+        "ja": "水気を拭き取ったきゅうりを1本ずつペーパータオルで包みます. ペーパーが冷蔵庫の直接の冷気から守る断熱材となり, 低温障害を大幅に減らすことができます.",
+        "zh": "用纸巾单独包裹黄瓜以防冷害。",
+        "es": "Envuelva cada pepino en papel de cocina para protegerlo del frío.",
+        "fr": "Enveloppez chaque concombre de papier absorbant pour le protéger du froid.",
+        "de": "Wickeln Sie jede Gurke in Küchenpapier, um sie vor Kälte zu schützen.",
+        "pt": "Embrulhe cada pepino em papel-toalha para proteger do frio.",
+        "id": "Bungkus setiap timun dengan tisu dapur untuk melindungi dari suhu dingin."
+      }
+    },
+    {
+      "stepNum": 3,
+      "name": {
+        "ko": "비닐팩에 담아 꼭지가 위로 오게 야채칸 보관 — 세워 보관 (10일) ❄️",
+        "en": "Store vertically in a plastic bag in the crisper — Vertical (10 Days) ❄️",
+        "ja": "袋に入れ, ヘタを上にして野菜室に立てて保存 — 立てて保存 (10日間) ❄️",
+        "zh": "装袋并把蒂朝上放入蔬菜箱 — 竖立保存 (10天) ❄️",
+        "es": "Almacenar verticalmente ❄️",
+        "fr": "Stocker verticalement ❄️",
+        "de": "Aufrecht lagern ❄️",
+        "pt": "Guardar verticalmente ❄️",
+        "id": "Simpan secara tegak ❄️"
+      },
+      "text": {
+        "ko": "포장한 오이들을 구멍이 살짝 뚫린 비닐백이나 지퍼백에 가볍게 넣고 냉장고 야채칸에 보관합니다. 이때 오이를 꼭지 부분이 위를 향하도록 세워 두어야 중력 작용에 따른 조직 연화를 막아싱싱함이 유지됩니다.",
+        "en": "Put wrapped cucumbers in a perforated plastic bag and store vertically in the crisper. Storing them upright with the stem pointing up prevents structural softening from gravity.",
+        "ja": "包んだきゅうりを穴の開いた袋に入れ, 野菜室に「立てて」保存します. ヘタ側を上にして立てて置くことで, 重力による繊維の崩れを防ぎ, シャキシャキ感を保ちます.",
+        "zh": "竖立存放在冰箱蔬菜箱内。",
+        "es": "Colóquelos verticalmente en el cajón de verduras para evitar que se ablanden por gravedad.",
+        "fr": "Conservez-les debout dans le bac à légumes pour éviter le ramollissement dû à la gravité.",
+        "de": "Aufrecht im Gemüsefach lagern, um ein Erweichen durch Schwerkraft zu verhindern.",
+        "pt": "Guarde de pé na gaveta de legumes para evitar o amolecimento devido à gravidade.",
+        "id": "Simpan secara tegak di laci sayur untuk mencegah pelunakan akibat gravitasi."
+      }
+    }
+  ],
+  "lemon": [
+    {
+      "stepNum": 1,
+      "name": {
+        "ko": "표면의 잔여 물기 완벽하게 제거하기 — 수분 통제 🍋",
+        "en": "Remove all surface moisture completely — Moisture control 🍋",
+        "ja": "表面の水分を完全に拭き取る — カビ対策 🍋",
+        "zh": "彻底擦干表面的残留水分 — 控水防霉 🍋",
+        "es": "Secar la humedad de la superficie 🍋",
+        "fr": "Sécher l'humidité de surface 🍋",
+        "de": "Oberflächenfeuchtigkeit trocknen 🍋",
+        "pt": "Secar umidade da superfície 🍋",
+        "id": "Keringkan kelembapan permukaan 🍋"
+      },
+      "text": {
+        "ko": "레몬 껍질은 두껍지만 물기가 남아있으면 곰팡이가 쉽게 증식하여 녹색 또는 흰색 곰팡이가 레몬 전체를 망쳐버립니다. 냉장고에 넣기 전 키친타월로 표면의 습기를 완벽하게 닦아 건조해야 합니다.",
+        "en": "Although lemons have a thick peel, any moisture left on them encourages green or white mold to grow. Always wipe them completely dry with a paper towel before refrigerating.",
+        "ja": "レモンの皮は厚いですが、水分がついたままだと緑色や白色のカビが発生しやすくなります。冷蔵庫に入れる前に、ペーパーで湿気を完全に拭き取ってください。",
+        "zh": "擦干柠檬表面水分以防发霉。",
+        "es": "Seque completamente la humedad con una toalla de papel antes de refrigerar.",
+        "fr": "Essuyez complètement l'humidité avec un papier absorbant avant de réfrigérer.",
+        "de": "Wischen Sie die Feuchtigkeit vor dem Kühlen vollständig mit einem Papiertuch ab.",
+        "pt": "Seque completamente a umidade com papel-toalha antes de refrigerar.",
+        "id": "Lap kelembapan hingga benar-benar kering dengan tisu dapur sebelum disimpan di kulkas."
+      }
+    },
+    {
+      "stepNum": 2,
+      "name": {
+        "ko": "지퍼백에 넣어 공기를 빼고 밀봉하기 — 수분 유실 및 차단 📦",
+        "en": "Place in a Ziploc bag and squeeze out air — Airtight seal 📦",
+        "ja": "ジッパーバッグに入れ、空気を抜いて密閉する — 密封保存 📦",
+        "zh": "放入密封袋并排尽空气 — 密封阻干 📦",
+        "es": "Colocar en bolsa hermética y sellar 📦",
+        "fr": "Placer dans un sac hermétique et sceller 📦",
+        "de": "In einen Beutel legen und versiegeln 📦",
+        "pt": "Colocar em saco hermético e selar 📦",
+        "id": "Masukkan ke kantong Ziploc dan segel 📦"
+      },
+      "text": {
+        "ko": "물기를 닦은 레몬을 지퍼백에 나란히 넣고, 가급적 내부의 공기를 최대한 빼내어 진공에 가까운 상태로 지퍼백을 잠급니다. 공기 접촉을 통제해야 레몬 껍질을 통한 수분 방출을 억제할 수 있습니다.",
+        "en": "Put the dried lemons in a Ziploc bag, squeeze out as much air as possible, and seal it. Restricting air contact prevents moisture from evaporating through the peel.",
+        "ja": "乾いたレモンをジッパーバッグに入れ、中の空気をできるだけ抜いて密閉します。空気との接触を減らすことで、皮から水分が抜けるのを防ぎます。",
+        "zh": "将柠檬装入密封袋中并排尽空气。",
+        "es": "Ponga los limones en una bolsa Ziploc, retire todo el aire posible y séllela.",
+        "fr": "Mettez les citrons dans un sac Ziploc, videz l'air au maximum et fermez.",
+        "de": "Zitronen in einen Ziploc-Beutel legen, Luft möglichst vollständig herausdrücken und schließen.",
+        "pt": "Coloque os limões em um saco Ziploc, retire todo o ar possível e sele.",
+        "id": "Masukkan lemon ke kantong Ziploc, buang udara sebanyak mungkin, lalu segel."
+      }
+    },
+    {
+      "stepNum": 3,
+      "name": {
+        "ko": "냉장고 중간 칸에 냉장 보관하기 — 저온 신선 보관 (30일) ❄️",
+        "en": "Store in the middle shelf of the fridge — Low temperature (30 Days) ❄️",
+        "ja": "冷蔵室の中段で冷蔵保存する —  低温保存 (30日間) ❄️",
+        "zh": "将密封好的袋子存放在冰箱中层（约4℃）。这种方法比将柠檬直接散放在冰箱里能多延长数倍的保鲜期，防止果皮皱缩硬化，保住充沛果汁。",
+        "es": "Almacenar en estante medio ❄️",
+        "fr": "Stocker sur l'étagère du milieu ❄️",
+        "de": "Auf mittlerem Regal lagern ❄️",
+        "pt": "Guardar na prateleira média ❄️",
+        "id": "Simpan di rak tengah kulkas ❄️"
+      },
+      "text": {
+        "ko": "밀봉된 레몬 지퍼백은 냉장고 중간 칸(약 4℃)에 보관합니다. 이 방식은 레몬을 껍질째 그대로 보관하는 것보다 무려 4배 이상 수축 현상과 껍질 딱딱해짐을 예방하여 한 달 내내 레몬즙을 가득 머금게 해줍니다.",
+        "en": "Keep the sealed bag in the middle shelf of the refrigerator (approx. 4°C). This method preserves lemons up to 4 times longer than leaving them loose, preventing them from shrinking and hardening.",
+        "ja": "密閉した袋を冷蔵室の中段（約4℃）に置きます。この方法は、そのまま置くより4倍以上も皮の乾燥や硬化を防ぎ, 1ヶ月後でもジューシーな果汁をキープできます.",
+        "zh": "放在冰箱中层以保持多汁。",
+        "es": "Conserve la bolsa en el estante medio a unos 4°C para evitar que la piel se seque.",
+        "fr": "Conservez le sac sur l'étagère du milieu à environ 4°C pour éviter que la peau ne se dessèche.",
+        "de": "Bewahren Sie den Beutel auf dem mittleren Regal bei ca. 4°C auf, damit die Schale nicht austrocknet.",
+        "pt": "Conserve o saco na prateleira média a cerca de 4°C para evitar que a casca resseque.",
+        "id": "Simpan kantong di rak tengah (sekitar 4°C) untuk mencegah kulitnya mengering dan mengeras."
+      }
+    }
+  ],
+  "broccoli": [
+    {
+      "stepNum": 1,
+      "name": {
+        "ko": "대 부분을 젖은 키친타월로 감싸기 — 줄기 수분 공급 🥦",
+        "en": "Wrap the stem with a damp paper towel — Moisture supply 🥦",
+        "ja": "茎の部分を濡らしたペーパーで包む — 水分補給 🥦",
+        "zh": "用湿纸巾包裹西兰花茎部 — 维持水分 🥦",
+        "es": "Envolver el tallo con papel húmedo 🥦",
+        "fr": "Envelopper la tige de papier humide 🥦",
+        "de": "Stiel mit feuchtem Papier umwickeln 🥦",
+        "pt": "Embrulhar o caule com papel úmido 🥦",
+        "id": "Bungkus batang dengan tisu basah 🥦"
+      },
+      "text": {
+        "ko": "브로콜리의 줄기(대)는 송이 부분으로 수분을 공급해주는 주요 통로입니다. 줄기 밑동 부분을 약간 잘라낸 후, 물에 적셔 꽉 짠 키친타월로 줄기 부분을 감싸서 수분을 지속적으로 공급해 주어야 신선함이 오래 유지됩니다.",
+        "en": "The stem of the broccoli is the main path that feeds moisture to the head. Cut a tiny bit off the bottom of the stem, wrap it with a damp paper towel to supply constant moisture.",
+        "ja": "ブロッコリーの茎は、上のつぼみ部分へ水分を送る重要な役目を持っています。茎の切り口を少し切り落とし, 濡らしたキッチンペーパーで包んで水分を与え続けましょう.",
+        "zh": "用湿纸巾包裹粗茎以维持水分。",
+        "es": "Corte un poco la base del tallo y envuélvala con papel de cocina húmedo.",
+        "fr": "Coupez un peu la base de la tige et enveloppez-la de papier absorbant humide.",
+        "de": "Schneiden Sie das Ende des Stiels leicht ab und umwickeln Sie es mit feuchtem Küchenpapier.",
+        "pt": "Corte um pouco a base do caule e embrulhe com papel-toalha úmido.",
+        "id": "Potong sedikit bagian bawah batang dan bungkus dengan tisu dapur basah."
+      }
+    },
+    {
+      "stepNum": 2,
+      "name": {
+        "ko": "통기성이 있는 비닐백에 가볍게 담기 — 가스 방출용 기공 확보 📦",
+        "en": "Place loosely in a perforated plastic bag — Airflow 📦",
+        "ja": "通気性の良い袋にふんわりと入れる —  ガスの放出 📦",
+        "zh": "放入带孔保鲜袋内略微密封 — 保持空气流通 📦",
+        "es": "Colocar en bolsa perforada 📦",
+        "fr": "Placer dans un sac perforé 📦",
+        "de": "In gelochten Beutel legen 📦",
+        "pt": "Colocar em saco perfurado 📦",
+        "id": "Masukkan ke kantong berlubang 📦"
+      },
+      "text": {
+        "ko": "수분이 너무 꽉 막히면 곰팡이가 생기고, 너무 열려있으면 수분이 날아갑니다. 구멍이 여러 개 뚫린 perforated 비닐백(또는 지퍼백의 지퍼를 살짝 열어둔 상태)에 넣어 브로콜리가 숨을 쉴 수 있도록 통기성을 확보합니다.",
+        "en": "Excessive sealing causes mold, while too much open air dries it out. Put broccoli in a perforated plastic bag or leave a Ziploc bag slightly open to allow proper airflow.",
+        "ja": "完全に密閉するとカビが生え、開けすぎると乾燥します。穴の開いたビニール袋に入れるか、チャックを少し開けた状態で置き、呼吸を妨げないようにします。",
+        "zh": "装入带孔保鲜袋以防霉变。",
+        "es": "Coloque el brócoli en una bolsa de plástico perforada para mantener el flujo de aire.",
+        "fr": "Mettez le brocoli dans un sac plastique perforé pour maintenir la circulation de l'air.",
+        "de": "Legen Sie Brokkoli in einen gelochten Plastikbeutel, um die Luftzirkulation zu gewährleisten.",
+        "pt": "Coloque o brócolis em um saco plástico perfurado para manter a circulação de ar.",
+        "id": "Masukkan brokoli ke kantong plastik berlubang agar udara tetap mengalir."
+      }
+    },
+    {
+      "stepNum": 3,
+      "name": {
+        "ko": "냉장고 야채실에 세워서 보관하기 — 직립 냉장 보관 (7일) ❄️",
+        "en": "Store upright in the crisper drawer — Vertical refrigeration (7 Days) ❄️",
+        "ja": "立てた状態で野菜室で冷やす — 立てて保存 (7日間) ❄️",
+        "zh": "竖立放入蔬菜保鲜盒 — 竖立冷藏 (7天) ❄️",
+        "es": "Almacenar verticalmente ❄️",
+        "fr": "Stocker verticalement ❄️",
+        "de": "Aufrecht lagern ❄️",
+        "pt": "Guardar verticalmente ❄️",
+        "id": "Simpan secara tegak ❄️"
+      },
+      "text": {
+        "ko": "브로콜리를 눕히지 말고 줄기가 아래로, 꽃송이가 위를 향하도록 똑바로 세워 보관합니다. 식물의 생장 방향과 일치하게 보관해야 스트레스로 인한 노화와 영양소 손실을 최소화할 수 있습니다.",
+        "en": "Do not lay the broccoli down. Store it standing upright with the stem at the bottom. Storing it in its natural growth direction minimizes aging stress and nutrient loss.",
+        "ja": "ブロッコリーを横にせず、茎を下にしてまっすぐ立てて保管します。育ったのと同じ向きに置くことで、ストレスによる黄ばみや栄養分の減少を防げます.",
+        "zh": "竖立放入冰箱以保持新鲜。",
+        "es": "Guárdelo de pie con el tallo hacia abajo para reducir el estrés del envejecimiento.",
+        "fr": "Conservez-le debout, tige vers le bas, pour limiter le stress du vieillissement.",
+        "de": "Lagern Sie ihn aufrecht mit dem Stiel nach unten, um Kältestress zu reduzieren.",
+        "pt": "Guarde de pé com o caule para baixo para reduzir o estresse do envelhecimento.",
+        "id": "Simpan secara tegak dengan batang di bawah untuk mengurangi stres penuaan."
+      }
+    }
+  ],
+  "blueberry": [
+    {
+      "stepNum": 1,
+      "name": {
+        "ko": "먹기 직전까지 세척 금지 — 천연 보호막 보존 🫐",
+        "en": "Do not wash before storage — Protect the bloom 🫐",
+        "ja": "食べる直前まで洗わない —  ブルームの維持 🫐",
+        "zh": "食用前切勿清洗 — 保护天然果粉 🫐",
+        "es": "No lavar antes de guardar 🫐",
+        "fr": "Ne pas laver avant stockage 🫐",
+        "de": "Vor dem Lagern nicht waschen 🫐",
+        "pt": "Não lavar antes de guardar 🫐",
+        "id": "Jangan dicuci sebelum disimpan 🫐"
+      },
+      "text": {
+        "ko": "블루베리 표면의 하얀 가루는 수분 소실을 방지하고 곰팡이 균을 막아주는 천연 왁스막(Bloom)입니다. 미리 물로 씻으면 이 보호층이 씻겨 나가 삼투압 현상으로 블루베리가 수분을 흡수해 쉽게 무르고 곰팡이가 피어 버립니다.",
+        "en": "The white powder on blueberry skins is a natural wax layer called 'Bloom' that blocks mold and moisture loss. Washing them early strips this layer, causing berries to absorb water, soften, and mold quickly.",
+        "ja": "ブルーベリーの表面にある白い粉は、乾燥やカビを防ぐ天然の保護膜（ブルーム）です。先に水洗いすると保護層が落ち、水分を吸って傷みやすくなります。",
+        "zh": "蓝莓表面的白霜是天然保护膜，不要提前清洗。",
+        "es": "La capa blanca (bloom) en la superficie de los arándanos los protege del moho. Lávelos solo antes de comer.",
+        "fr": "La couche blanche (pruine) à la surface des myrtilles les protège de la moisissure. Lavez-les juste avant de les manger.",
+        "de": "Der weiße Flaum auf den Blaubeeren schützt vor Schimmel. Erst kurz vor dem Verzehr waschen.",
+        "pt": "A camada branca na superfície dos mirtilos protege contra o mofo. Lave apenas antes de comer.",
+        "id": "Lapisan putih (bloom) pada permukaan blueberry melindunginya dari jamur. Cuci hanya sebelum dimakan."
+      }
+    },
+    {
+      "stepNum": 2,
+      "name": {
+        "ko": "밀폐용기 바닥에 키친타월 깔고 얇게 펴 담기 — 수분 통제 📰",
+        "en": "Line container with paper towels and spread flat — Moisture control 📰",
+        "ja": "容器の底にペーパーを敷き, 重ならないように入れる — 水分管理 📰",
+        "zh": "保鲜盒底铺设纸巾并单层摊平 —  控制湿度 📰",
+        "es": "Forrar el recipiente con papel y esparcir 📰",
+        "fr": "Tapisser le récipient de papier et étaler 📰",
+        "de": "Behälter mit Papier auslegen und verteilen 📰",
+        "pt": "Forrar o pote com papel e espalhar 📰",
+        "id": "Alasi wadah dengan tisu dan ratakan 📰"
+      },
+      "text": {
+        "ko": "용기 바닥에 키친타월을 충분히 깔아준 뒤, 블루베리를 겹치지 않게 얇게 펼쳐 올립니다. 아래에 깔린 키친타월이 미세한 습기와 결로를 흡수하여 바닥 쪽 과육이 짓눌리거나 수분에 닿아 썩는 것을 예방합니다.",
+        "en": "Line the bottom of a wide container with paper towels and place the berries in a thin layer. The towel absorbs condensation, preventing berries from getting crushed or rotting from sitting in water.",
+        "ja": "平らな容器の底にキッチンペーパーを敷き、その上に重ならないよう広げます。ペーパーが余分な結露を吸い取り, 下の実が重みで潰れたり水気で腐るのを防ぎます.",
+        "zh": "在容器底部铺纸巾，并平铺蓝莓。",
+        "es": "Coloque papel de cocina en el fondo de un recipiente y distribuya los arándanos en una sola capa.",
+        "fr": "Tapissez le fond d'un récipient de papier absorbant et étalez les myrtilles en une seule couche.",
+        "de": "Legen Sie Küchenpapier in einen Behälter und verteilen Sie die Beeren in einer Schicht.",
+        "pt": "Coloque papel-toalha no fundo de um pote e distribua os mirtilos em uma única camada.",
+        "id": "Alasi bagian bawah wadah dengan tisu dapur dan sebar blueberry dalam satu lapisan."
+      }
+    },
+    {
+      "stepNum": 3,
+      "name": {
+        "ko": "밀폐하지 않고 냉장고 신선실 보관 — 냉장 보관 (10일) ❄️",
+        "en": "Store unsealed in the crisper drawer — Refrigeration (10 Days) ❄️",
+        "ja": "密閉せずに冷蔵庫の低温エリアに置く —  冷蔵保存 (10日間) ❄️",
+        "zh": "请勿密封，存放于冷藏室深处 —  冷藏保存 (10天) ❄️",
+        "es": "Almacenar sin sellar ❄️",
+        "fr": "Stocker sans sceller ❄️",
+        "de": "Offen lagern ❄️",
+        "pt": "Guardar sem selar ❄️",
+        "id": "Simpan tanpa disegel ❄️"
+      },
+      "text": {
+        "ko": "뚜껑에 숨구멍이 있는 전용 용기나 뚜껑을 완전히 닫지 않은 밀폐 용기에 담아 냉장고 신선실(0~2℃)에 보관합니다. 블루베리는 저온에 매우 강하므로, 결로를 방지하기 위해 온도가 일정한 냉장고 가장 깊은 곳이 적합합니다.",
+        "en": "Keep them in a ventilated container or leave the lid slightly ajar. Put them in the crisper drawer (0-2°C). Blueberries are cold-hardy; keeping them in the coldest back section prevents condensation.",
+        "ja": "通気穴のある容器か、フタを少しずらした密閉容器に入れ、野菜室（0〜2℃）に入れます。ブルーベリーは寒さに強いため, 結露を防ぐために温度変化の少ない奥の方に置くのが適しています.",
+        "zh": "存放在冷藏室深处以防受潮。",
+        "es": "Guárdelos en un recipiente ventilado en la zona fría (0-2°C) del refrigerador.",
+        "fr": "Conservez-les dans un récipient aéré dans la zone froide (0-2°C) du réfrigérateur.",
+        "de": "Lagern Sie sie in einem belüfteten Behälter im kalten Bereich (0-2°C) des Kühlschranks.",
+        "pt": "Guarde em pote ventilado na zona fria (0-2°C) da geladeira.",
+        "id": "Simpan dalam wadah berlubang di area dingin kulkas (0-2°C)."
+      }
+    }
+  ],
+  "cabbage": [
+    {
+      "stepNum": 1,
+      "name": {
+        "ko": "양배추 심지 부분을 삼각형 모양으로 파내기 — 수분 통로 차단 🔪",
+        "en": "Cut out the core in a triangle shape — Disarm growth center 🔪",
+        "ja": "キャベツの芯を三角形にくり抜く —  水分ルート遮断 🔪",
+        "zh": "将卷心菜粗芯部切呈三角状挖去 —  切断水分损耗 🔪",
+        "es": "Cortar el núcleo en forma de triángulo 🔪",
+        "fr": "Couper le cœur en triangle 🔪",
+        "de": "Strunk dreieckig ausschneiden 🔪",
+        "pt": "Cortar o miolo em formato de triângulo 🔪",
+        "id": "Potong bagian tengah berbentuk segitiga 🔪"
+      },
+      "text": {
+        "ko": "양배추는 수확 후에도 심지를 통해 겉잎의 수분과 영양분을 지속해서 공급받아 꽃을 피우려 합니다. 따라서 영양분이 이동하는 통로이자 부패가 가장 먼저 시작되는 심지 부분을 칼로 오려내는 것이 우선되어야 합니다.",
+        "en": "Even after harvest, cabbage tries to bloom by drawing water and nutrients from the leaves through its core. Cutting out the core, which is the nutrient pathway and where rot starts, is essential.",
+        "ja": "キャベツは収穫後も芯を通じて外葉の水分や栄養を吸い上げ、花を咲かせようと成長し続けます。栄養の通り道であり、最も傷みやすい芯の部分を包丁でくり抜きましょう。",
+        "zh": "切掉卷心菜的硬芯以减少养分流失。",
+        "es": "Retire el núcleo de la col, ya que es el canal por donde se pierde agua y se inicia la pudrición.",
+        "fr": "Retirez le cœur du chou, car c'est par là que l'eau s'échappe et que le pourrissement commence.",
+        "de": "Entfernen Sie den Strunk des Kohls, da darüber Feuchtigkeit entweicht und Fäulnis beginnt.",
+        "pt": "Remova o miolo do repolho, pois é o canal por onde se perde água e se inicia o apodrecimento.",
+        "id": "Buang bagian tengah kubis, karena bagian tersebut merupakan saluran hilangnya air dan awal pembusukan."
+      }
+    },
+    {
+      "stepNum": 2,
+      "name": {
+        "ko": "심지 자리에 물 적신 키친타월 채워 넣기 — 마르지 않는 수분 보충 📰",
+        "en": "Fill the core cavity with a damp paper towel — Constant moisture supply 📰",
+        "ja": "くり抜いた部分に濡れたペーパーを詰める —  水分の継続補給 📰",
+        "zh": "在挖空处填入浸湿的厨房纸巾 — 持续湿润保鲜 📰",
+        "es": "Llenar el hueco con papel húmedo 📰",
+        "fr": "Remplir le creux de papier humide 📰",
+        "de": "Aussparung mit feuchtem Papier füllen 📰",
+        "pt": "Preencher a cavidade com papel úmido 📰",
+        "id": "Isi rongga dengan tisu basah 📰"
+      },
+      "text": {
+        "ko": "심지를 잘라낸 깊게 파인 홈에 물을 적신 뒤 물기를 가볍게 짠 키친타월(또는 화장솜)을 뭉쳐서 꽉 채워 넣습니다. 잘린 줄기 단면에 직접 물을 지속해서 제공하여 양배추 내부가 안쪽부터 서서히 갈변하며 말라 들어가는 것을 방지합니다.",
+        "en": "Stuff the carved hole with a paper towel dampened with water (squeeze out excess water first). This supplies moisture directly to the cut stalk, preventing the inner cabbage from drying and turning brown.",
+        "ja": "くり抜いた部分に濡れたペーパーを詰める。",
+        "zh": "在切口处塞入湿纸巾以保鲜。",
+        "es": "Llene el hueco con papel de cocina húmedo para proporcionar hidratación constante.",
+        "fr": "Remplissez le creux avec du papier absorbant humide pour assurer une hydratation constante.",
+        "de": "Füllen Sie die Aussparung mit feuchtem Küchenpapier, um eine konstante Feuchtigkeit zu gewährleisten.",
+        "pt": "Preencha a cavidade com papel-toalha úmido para fornecer hidratação constante.",
+        "id": "Isi rongga tersebut dengan tisu dapur basah untuk memberikan kelembapan konstan."
+      }
+    },
+    {
+      "stepNum": 3,
+      "name": {
+        "ko": "식품용 랩으로 빈틈없이 포장하여 야채칸 보관 — 밀봉 보관 (21일) ❄️",
+        "en": "Wrap tightly with plastic wrap and store in the crisper — Sealed (21 Days) ❄️",
+        "ja": "ラップできちんと包んで野菜室へ — 密封保存 (21日間) ❄️",
+        "zh": "用保鲜膜严密包裹并放蔬菜箱 — 密封冷藏 (21天) ❄️",
+        "es": "Envolver con film plástico ❄️",
+        "fr": "Envelopper de film plastique ❄️",
+        "de": "Mit Frischhaltefolie einwickeln ❄️",
+        "pt": "Embrulhar com filme plástico ❄️",
+        "id": "Bungkus dengan plastik wrap ❄️"
+      },
+      "text": {
+        "ko": "수분 보충 처리를 한 양배추 전체를 식품용 랩으로 감싸 공기가 전혀 통하지 않도록 여러 겹 꽁꽁 밀착 포장합니다. 그 후 수분 패치 부위가 아래로 가도록 랩핑된 채 냉장고 야채실(4℃)에 보관합니다.",
+        "en": "Wrap the entire cabbage with plastic wrap to block airflow. Store it in the crisper drawer (4°C) with the damp core patch facing down.",
+        "ja": "全体をラップで包み、芯を下にして野菜室で保管します。",
+        "zh": "用保鲜膜严密包好放冰箱。",
+        "es": "Envuelva la col con film plástico y guárdela con la base húmeda hacia abajo.",
+        "fr": "Enveloppez le chou de film plastique et conservez-le, cœur humide vers le bas.",
+        "de": "Wickeln Sie den Kohl mit Frischhaltefolie ein und lagern Sie ihn mit dem feuchten Ende nach unten.",
+        "pt": "Embrulhe o repolho com filme plástico e guarde com a base úmida para baixo.",
+        "id": "Bungkus kubis dengan plastik wrap dan simpan dengan bagian bawah basah menghadap ke bawah."
+      }
+    }
+  ],
+  "cheese": [
+    {
+      "stepNum": 1,
+      "name": {
+        "ko": "밀폐 플라스틱 비닐 포장지 제거하기 — 혐기 환경 탈피 📦",
+        "en": "Remove tight plastic packaging — Avoid anaerobic environment 📦",
+        "ja": "プラスチックの密封パッケージを外す — 密閉環境の回避 📦",
+        "zh": "拆除紧贴的塑料包装袋 — 摆脱缺氧环境 📦",
+        "es": "Quitar el embalaje de plástico 📦",
+        "fr": "Retirer l'emballage plastique 📦",
+        "de": "Plastikverpackung entfernen 📦",
+        "pt": "Remover a embalagem plástica 📦",
+        "id": "Lepas kemasan plastik 📦"
+      },
+      "text": {
+        "ko": "치즈는 살아있는 유산균과 박테리아가 서식하는 미생물 식품입니다. 시판용 비닐 랩이나 꽉 막힌 포장지에 오래 두면 가스 교환이 안 되어 치즈 고유의 암모니아 냄새가 갇히고 표면에 쉽게 기름이 돕니다.",
+        "en": "Cheese is a living product with active bacterial cultures. Leaving it in tight plastic wrap blocks gas exchange, trapping natural ammonia odors and making the surface oily.",
+        "ja": "チーズは発酵食品です。プラスチックの包装は外し、空気を通すようにします。",
+        "zh": "拆除塑料外包装以防缺氧变质。",
+        "es": "El queso necesita respirar. Retire el plástico hermético para evitar que acumule olores extraños.",
+        "fr": "Le fromage a besoin de respirer. Retirez le plastique hermétique pour éviter l'accumulation de mauvaises odeurs.",
+        "de": "Käse muss atmen. Entfernen Sie das Plastik, um die Ansammlung von schlechten Gerüchen zu verhindern.",
+        "pt": "O queijo precisa respirar. Remova o plástico hermético para evitar o acúmulo de odores desagradáveis.",
+        "id": "Keju perlu bernapas. Lepaskan kemasan plastik rapat untuk mencegah penumpukan bau yang tidak sedap."
+      }
+    },
+    {
+      "stepNum": 2,
+      "name": {
+        "ko": "종이 호일이나 유산지로 포장하기 — 통기성 및 수분 유지 📰",
+        "en": "Wrap in parchment paper or wax paper — Airflow & moisture balance 📰",
+        "ja": "クッキングシートやワックスペーパーで包む —  通気性と湿度 📰",
+        "zh": "用烘焙纸或羊皮纸包裹 —  透气控干 📰",
+        "es": "Envolver con papel para hornear 📰",
+        "fr": "Envelopper de papier cuisson 📰",
+        "de": "Mit Backpapier einwickeln 📰",
+        "pt": "Embrulhar com papel manteiga 📰",
+        "id": "Bungkus dengan kertas roti 📰"
+      },
+      "text": {
+        "ko": "포장지를 벗긴 치즈는 유산지(Parchment paper)나 종이 호일로 가볍게 감싸줍니다. 종이는 외부 습기로부터 치즈를 보호하는 한편 치즈가 내뿜는 가스가 배출되게 돕고 과도하게 마르는 것을 방지하는 적절한 완충막이 됩니다.",
+        "en": "Wrap the cheese loosely in parchment paper or wax paper. Paper protects cheese from external moisture while allowing gases to escape, preventing it from drying out completely.",
+        "ja": "チーズをワックスペーパーでふんわり包みます。",
+        "zh": "用烘焙纸包裹以维持湿度。",
+        "es": "Envuelva el queso con papel para hornear; este permite la salida de gases sin secar el producto.",
+        "fr": "Enveloppez le fromage dans du papier cuisson; il permet l'évacuation des gaz sans dessécher le produit.",
+        "de": "Wickeln Sie den Käse in Backpapier ein; dies lässt Gase entweichen, ohne das Produkt auszutrocknen.",
+        "pt": "Embrulhe o queijo em papel manteiga; este permite a saída de gases sem ressecar o produto.",
+        "id": "Bungkus keju dengan kertas roti; kertas ini memungkinkan gas keluar tanpa membuat keju menjadi kering."
+      }
+    },
+    {
+      "stepNum": 3,
+      "name": {
+        "ko": "지퍼백에 넣어 냉장고 야채칸 보관하기 — 적정 습도 보존 (21일) ❄️",
+        "en": "Place loosely in a Ziploc bag in the crisper — Humidity (21 Days) ❄️",
+        "ja": "ジッパーバッグに入れ、野菜室で保存 — 湿度維持 (21日間) ❄️",
+        "zh": "放入密封袋并存放在蔬菜保鲜盒 — 湿度维持 (21天) ❄️",
+        "es": "Guardar en una bolsa en el cajón de verduras ❄️",
+        "fr": "Conserver dans un sac dans le bac à légumes ❄️",
+        "de": "Im Gemüsefach in einem Beutel lagern ❄️",
+        "pt": "Guardar em saco na gaveta de legumes ❄️",
+        "id": "Simpan di kantong laci sayur ❄️"
+      },
+      "text": {
+        "ko": "유산지로 감싸인 치즈를 지퍼백에 가볍게 넣고, 지퍼백의 밀봉을 약간 느슨하게 닫아 냉장실 야채칸(4~6℃)에 보관합니다. 이중 보호를 통해 적정 습도를 유지하여 치즈의 깊은 풍미를 지킵니다.",
+        "en": "Place the paper-wrapped cheese in a Ziploc bag, leaving it slightly open, and store it in the crisper drawer (4-6°C). This retains the perfect humidity and protects its flavor.",
+        "ja": "袋に入れ、密封を少し緩めて野菜室で保管します。",
+        "zh": "放入密封袋放蔬菜箱。",
+        "es": "Coloque el queso envuelto en una bolsa Ziploc sin cerrarla del todo y déjelo en el cajón de verduras.",
+        "fr": "Placez le fromage emballé dans un sac Ziploc sans le fermer complètement et mettez-le au bac à légumes.",
+        "de": "Legen Sie den eingewickelten Käse in einen Ziploc-Beutel, schließen Sie ihn nicht ganz und lagern Sie ihn im Gemüsefach.",
+        "pt": "Coloque o queijo embrulhado em um saco Ziploc sem fechar totalmente e deixe na gaveta de legumes.",
+        "id": "Masukkan keju yang sudah dibungkus ke kantong Ziploc tanpa menutupnya rapat, lalu simpan di laci sayur."
+      }
+    }
+  ],
+  "butter": [
+    {
+      "stepNum": 1,
+      "name": {
+        "ko": "알루미늄 오리지널 호일 포장 유지하기 — 빛과 산소 차단 📦",
+        "en": "Keep the original aluminum foil wrapper — Block light & oxygen 📦",
+        "ja": "アルミのオリジナル包装紙のまま保管する —  光と酸素の遮断 📦",
+        "zh": "保持原厂铝箔纸包装 — 阻绝光线与氧气 📦",
+        "es": "Mantener el papel de aluminio original 📦",
+        "fr": "Conserver l'aluminium d'origine 📦",
+        "de": "Original-Alufolie behalten 📦",
+        "pt": "Manter o papel alumínio original 📦",
+        "id": "Pertahankan kertas aluminium asli 📦"
+      },
+      "text": {
+        "ko": "버터의 오리지널 은박(알루미늄) 포장지는 빛과 공기를 강력하게 차단해 산패를 막아주는 매우 우수한 보호재입니다. 이를 버리고 일반 비닐 랩이나 투명 용기에 옮겨 담으면 산화 속도가 훨씬 빨라집니다.",
+        "en": "The original aluminum foil wrapper of butter is a great barrier that blocks light and air. Throwing it away and moving the butter to transparent containers or plastic wrap speeds up oxidation.",
+        "ja": "バターの銀紙包装は、光や空気を強力に遮断して酸化を防ぎます。",
+        "zh": "保持原厂铝箔包装以防氧化。",
+        "es": "El envoltorio original de aluminio es excelente para bloquear la luz y el aire, evitando que se oxide.",
+        "fr": "L'emballage d'origine en aluminium bloque parfaitement la lumière et l'air, évitant l'oxydation.",
+        "de": "Die Original-Alufolie schützt hervorragend vor Licht und Luft und verhindert Oxidation.",
+        "pt": "A embalagem de alumínio original é excelente para bloquear a luz e o ar, evitando a oxidação.",
+        "id": "Pembungkus aluminium asli sangat baik untuk menghalangi cahaya dan udara, mencegah oksidasi."
+      }
+    },
+    {
+      "stepNum": 2,
+      "name": {
+        "ko": "밀폐 지퍼백이나 용기에 담아 이중 밀봉하기 — 냉장고 탈취 방지 📰",
+        "en": "Store in a sealed bag or container — Prevent odor absorption 📰",
+        "ja": "密閉袋や容器に入れて二重に密閉する — におい移り防止 📰",
+        "zh": "双重密封 — 防止吸附冰箱异味 📰",
+        "es": "Doble sellado para evitar olores 📰",
+        "fr": "Double scellage pour éviter les odeurs 📰",
+        "de": "Zweifach versiegeln gegen Gerüche 📰",
+        "pt": "Dupla selagem para evitar cheiros 📰",
+        "id": "Segel ganda untuk mencegah bau 📰"
+      },
+      "text": {
+        "ko": "호일로 감싼 버터를 그대로 냉장실에 넣으면 주변 음식 냄새를 다 흡수합니다. 반드시 오리지널 포장 상태 그대로 밀폐 지퍼백이나 불투명 밀폐 용기에 담아 2중으로 밀봉하여 보관해야 품미를 온전히 지킬 수 있습니다.",
+        "en": "If you put foil-wrapped butter directly into the fridge, it will absorb surrounding food odors. Always place the foil-wrapped butter inside a Ziploc bag or airtight container for double protection.",
+        "ja": "アルミで包んだバターをさらに密閉袋に入れ、におい移りを防ぎます。",
+        "zh": "装入密封袋以防异味吸附。",
+        "es": "Coloque la mantequilla en una bolsa hermética o recipiente para que no absorba olores de otros alimentos.",
+        "fr": "Placez le beurre dans un sac hermétique ou une boîte pour éviter qu'il n'absorbe les odeurs des autres aliments.",
+        "de": "Legen Sie die Butter in einen dichten Beutel oder Behälter, damit sie keine Fremdgerüche annimmt.",
+        "pt": "Coloque a manteiga em um saco hermético ou pote para que não absorva odores de outros alimentos.",
+        "id": "Masukkan mentega ke dalam kantong atau wadah kedap udara agar tidak menyerap bau makanan lain."
+      }
+    },
+    {
+      "stepNum": 3,
+      "name": {
+        "ko": "소분하여 종이 호일로 감싸 냉동하기 — 냉동 보관 (90일) ❄️",
+        "en": "Slice and wrap in parchment paper to freeze — Freezer storage (90 Days) ❄️",
+        "ja": "小分けにしてオーブンシートで包み冷凍する —  冷凍保存 (90日間) ❄️",
+        "zh": "小份切割并用烘焙纸包裹后冷冻 —  冷冻保存 (90天) ❄️",
+        "es": "Cortar en porciones y congelar ❄️",
+        "fr": "Couper en portions et congeler ❄️",
+        "de": "Portionieren und einfrieren ❄️",
+        "pt": "Cortar em porções e congelar ❄️",
+        "id": "Potong menjadi beberapa bagian dan bekukan ❄️"
+      },
+      "text": {
+        "ko": "장기 보관을 원할 때는 1회분(예: 10g~20g)씩 칼로 미리 소분한 뒤 종이 호일로 각각 격리 감싸 지퍼백에 넣어 냉동합니다. 이 방식은 필요할 때마다 한 알씩 꺼내어 상온 해동 후 신속하게 요리에 사용할 수 있어 간편합니다.",
+        "en": "For long-term storage, cut the butter into single portions (e.g., 10g-20g) and wrap each piece in parchment paper, then place them in a freezer bag. You can quickly thaw one piece at room temp.",
+        "ja": "バターを1回分ずつ切り、オーブンシートで包んで冷凍保管します。",
+        "zh": "切小块用纸包好冷冻保存。",
+        "es": "Para conservar a largo plazo, corte la mantequilla en cubos, envuélvalos en papel encerado y congélelos.",
+        "fr": "Pour conserver à long terme, coupez le beurre en dés, enveloppez-les de papier cuisson et congelez.",
+        "de": "Zur langfristigen Lagerung schneiden Sie die Butter in Würfel, wickeln sie in Backpapier und frieren sie ein.",
+        "pt": "Para conservar a longo prazo, corte a manteiga em cubos, embrulhe em papel manteiga e congele.",
+        "id": "Untuk penyimpanan jangka panjang, potong mentega menjadi dadu, bungkus dengan kertas roti, lalu bekukan."
+      }
+    }
+  ],
+  "strawberry": [
+    {
+      "stepNum": 1,
+      "name": {
+        "ko": "씻지 않고 꼭지 떼지 않은 상태 보존하기 — 수분 침투 차단 🍓",
+        "en": "Do not wash and keep stems on — Block water absorption 🍓",
+        "ja": "洗わずにヘタを取らないまま保存する —  水分侵入の遮断 🍓",
+        "zh": "请勿清洗并保留草莓蒂 — 隔绝水分渗入 🍓",
+        "es": "No lavar y mantener los tallos 🍓",
+        "fr": "Ne pas laver et garder les queues 🍓",
+        "de": "Nicht waschen und Stiele behalten 🍓",
+        "pt": "Não lavar e manter os cabos 🍓",
+        "id": "Jangan dicuci dan pertahankan tangkai 🍓"
+      },
+      "text": {
+        "ko": "딸기는 씻어서 꼭지를 떼면 과실 표면에 상처가 생겨 수분을 급속히 흡수하고 세포막이 붕괴되어 과즙이 흘러나옵니다. 이 부위에 잿빛곰팡이가 매우 빠르게 증식하므로, 먹기 직전까지 절대로 물을 묻히거나 꼭지를 떼면 안 됩니다.",
+        "en": "Washing strawberries and cutting their stems creates wounds on the skin, causing them to absorb water, collapse cell walls, and leak juice. Mold grows rapidly on these cut areas; wash only before eating.",
+        "ja": "イチゴは洗ってヘタを取ると、切り口から水分を急激に吸い込んでしまい、細胞壁が壊れて果汁が流れ出てしまいます。そこから灰色かび病が一気に繁殖するため、食べる直前まで洗わないでください。",
+        "zh": "草莓在食用前不要清洗，保留叶子以防吸水变烂。",
+        "es": "Lavar las fresas o quitarles el tallo daña la piel, haciendo que absorban agua y se pudran rápido.",
+        "fr": "Laver les fraises ou retirer la queue endommage la peau, favorisant l'absorption d'eau et le pourrissement.",
+        "de": "Das Waschen oder Entfernen der Stiele beschädigt die Haut, wodurch Wasser aufgenommen wird und sie verfaulen.",
+        "pt": "Lavar os morangos ou remover o cabo danifica a pele, fazendo com que absorvam água e apodreçam rápido.",
+        "id": "Mencuci stroberi atau membuang tangkainya akan merusak kulit, menyerap air, dan mempercepat pembusukan."
+      }
+    },
+    {
+      "stepNum": 2,
+      "name": {
+        "ko": "용기 바닥에 키친타월 깔고 띄엄띄엄 담기 — 마찰 및 습기 방지 📰",
+        "en": "Line container with paper towels and space out — Avoid pressure 📰",
+        "ja": "容器にペーパーを敷き, 隙間をあけて並べる — 摩擦と湿気の防止 📰",
+        "zh": "保鲜盒底垫纸巾并留隙摆放 — 防止挤压与积潮 📰",
+        "es": "Forrar el recipiente y separar las fresas 📰",
+        "fr": "Tapisser le récipient et séparer les fraises 📰",
+        "de": "Behälter auslegen und Erdbeeren trennen 📰",
+        "pt": "Forrar o pote e separar os morangos 📰",
+        "id": "Alasi wadah dan pisahkan stroberi 📰"
+      },
+      "text": {
+        "ko": "수납 용기 바닥에 키친타월을 충분히 깔아준 뒤, 딸기를 서로 달라붙지 않게 일정한 거리를 두고 세워 정렬합니다. 딸기는 연약해서 겹겹이 쌓아두면 중력에 의해 서로 짓눌려 하단 과육부터 물러 터지기 쉽습니다.",
+        "en": "Line the bottom of a container with paper towels, then arrange the strawberries in a single layer with space between them. Stacking fragile strawberries crushes them under gravity.",
+        "ja": "容器の底にキッチンペーパーを敷き、その上に重ならないよう広げます. ペーパーが余分な結露吸い取り, 下の実が重みで潰れたり水気で腐るのを防ぎます.",
+        "zh": "在容器底部铺纸巾，将草莓间隔摆放以防挤压。",
+        "es": "Coloque papel absorbente en el fondo y acomode las fresas separadas para que no se aplasten.",
+        "fr": "Mettez du papier absorbant au fond et disposez les fraises séparément pour éviter qu'elles ne s'écrasent.",
+        "de": "Küchenpapier auf den Boden legen und Erdbeeren getrennt anordnen, um Druckstellen zu vermeiden.",
+        "pt": "Coloque papel-toalha no fundo e acomode os morangos separados para não amassarem.",
+        "id": "Letakkan tisu dapur di bagian bawah dan tata stroberi secara terpisah agar tidak saling menekan."
+      }
+    },
+    {
+      "stepNum": 3,
+      "name": {
+        "ko": "플라스틱 용기나 지퍼백 밀봉 없이 보관하기 — 결로 방지 냉장 (5일) ❄️",
+        "en": "Store without airtight sealing — Avoid condensation (5 Days) ❄️",
+        "ja": "密閉せずに冷蔵庫へ — 結露を防いで保存 (5日間) ❄️",
+        "zh": "请勿密封，开口冷藏 —  防凝露冷藏 (5天) ❄️",
+        "es": "Almacenar sin sellar herméticamente ❄️",
+        "fr": "Stocker sans fermeture hermétique ❄️",
+        "de": "Ohne luftdichten Verschluss lagern ❄️",
+        "pt": "Guardar sem selar hermeticamente ❄️",
+        "id": "Simpan tanpa segel kedap udara ❄️"
+      },
+      "text": {
+        "ko": "밀폐 뚜껑을 꽉 닫아 보관하면 결로 물방울이 딸기 표면에 맺혀 금방 썩습니다. 구멍이 뚫려 통기성이 있는 플라스틱 팩을 활용하거나 지퍼백의 상단부를 완전히 열어둔 상태로 냉장 보관해야 합니다.",
+        "en": "Storing them with a tight lid causes condensation droplets to gather on the fruit, leading to fast rotting. Use a ventilated plastic container or keep the top of a Ziploc bag open in the fridge.",
+        "ja": "密閉した容器は避け、少し空気を通した状態で冷蔵保管します。",
+        "zh": "不要用密封盖，保持空气流通冷藏。",
+        "es": "Use un envase con ventilación o deje la bolsa un poco abierta para evitar que se formen gotas de agua.",
+        "fr": "Utilisez une boîte aérée ou laissez le sac entrouvert pour empêcher la condensation de se former.",
+        "de": "Verwenden Sie einen belüfteten Behälter, um die Bildung von Kondenswasser zu vermeiden.",
+        "pt": "Use um pote com ventilação ou deixe o saco aberto para evitar a formação de gotas de água.",
+        "id": "Gunakan wadah berlubang atau biarkan kantong sedikit terbuka agar tidak terbentuk embun."
+      }
+    }
+  ],
+  "grape": [
+    {
+      "stepNum": 1,
+      "name": {
+        "ko": "먹기 직전까지 물 세척 절대 금지 — 천연 블룸 보호 🍇",
+        "en": "Do not wash with water before storage — Protect the natural bloom 🍇",
+        "ja": "食べる直前まで絶対に水洗いしない — 天然ブルームの保護 🍇",
+        "zh": "食用前严禁清水冲洗 — 保护天然果粉 🍇",
+        "es": "No lavar antes de guardar 🍇",
+        "fr": "Ne pas laver avant stockage 🍇",
+        "de": "Vor dem Lagern nicht waschen 🍇",
+        "pt": "Não lavar antes de guardar 🍇",
+        "id": "Jangan dicuci sebelum disimpan 🍇"
+      },
+      "text": {
+        "ko": "포도 알 표면의 부드러운 하얀 가루는 먼지가 아닌 당분이 농축된 천연 효모 보호막(Bloom)입니다. 이 막은 수분 소실을 방지하고 부패균을 막아주므로 보관 전에 물로 씻으면 신선 기한이 대폭 단축됩니다.",
+        "en": "The soft white powder on grapes is a natural yeast protection layer called 'Bloom,' not dust. It prevents water loss and decay. Washing it off before storage shortens their shelf life significantly.",
+        "ja": "ぶどうの表面の白い粉は汚れではなく、果実から出る天然の保護膜（ブルーム）です。水分消失を防ぎ、雑菌から守るため, 保存する前に洗うと痛みが早くなります.",
+        "zh": "葡萄皮表面的白霜是天然保护层，食用前才清洗。",
+        "es": "El polvo blanco en la piel de las uvas (bloom) es una capa protectora natural contra bacterias y pérdida de agua. No las lave antes de guardar.",
+        "fr": "La pellicule blanche sur la peau du raisin (pruine) est une protection naturelle. Ne les lavez pas avant stockage.",
+        "de": "Der weiße Belag auf den Trauben ist eine natürliche Schutzschicht. Vor dem Lagern nicht abwaschen.",
+        "pt": "O pó branco na casca das uvas é uma camada protetora natural contra bactérias. Não as lave antes de guardar.",
+        "id": "Bedak putih pada kulit anggur (bloom) adalah lapisan pelindung alami. Jangan dicuci sebelum disimpan."
+      }
+    },
+    {
+      "stepNum": 2,
+      "name": {
+        "ko": "한 송이씩 키친타월이나 한지로 부드럽게 감싸기 — 완충재 역할 📰",
+        "en": "Wrap each bunch gently in paper towels or paper — Buffer role 📰",
+        "ja": "1房ずつキッチンペーパーや新聞紙でふんわり包む — 緩衝材 📰",
+        "zh": "按串用厨房纸巾或包装纸轻裹 — 起到缓冲与吸潮作用 📰",
+        "es": "Envolver cada racimo con papel 📰",
+        "fr": "Envelopper chaque grappe de papier 📰",
+        "de": "Jede Traube in Papier einwickeln 📰",
+        "pt": "Embrulhar cada cacho com papel 📰",
+        "id": "Bungkus setiap tangkai dengan kertas 📰"
+      },
+      "text": {
+        "ko": "물기가 없는 포도송이를 키친타월이나 신문지로 한 송이씩 둥글게 포장합니다. 키친타월은 종이 표면이 미세 습기를 빨아들여 포도알 사이사이에 습기가 정체되어 짓무르고 썩는 연쇄적 부패 현상을 원천 방어합니다.",
+        "en": "Wrap each dry grape bunch gently in paper towels or clean paper. The paper absorbs tiny moisture droplets, preventing static wetness between grapes that causes rotten links.",
+        "ja": "乾いた状態のぶどうを1房ずつキッチンペーパーや新聞紙で丸めるように包みます。紙が余分な湿気を吸うことで、粒の隙間に湿気がこもり腐ってしまうのを防ぎます.",
+        "zh": "将每串葡萄用纸巾包好，防潮防腐。",
+        "es": "Envuelva los racimos por separado en papel de cocina para que la humedad no se acumule entre los granos.",
+        "fr": "Enveloppez les grappes séparément dans du papier absorbant pour empêcher l'humidité de s'accumuler.",
+        "de": "Wickeln Sie die Trauben einzeln in Küchenpapier ein, damit sich keine Feuchtigkeit staut.",
+        "pt": "Embrulhe os cachos separadamente em papel-toalha para que a umidade não se acumule.",
+        "id": "Bungkus anggur per tangkai dengan tisu dapur agar kelembapan tidak menumpuk di sela buah."
+      }
+    },
+    {
+      "stepNum": 3,
+      "name": {
+        "ko": "구멍 뚫린 비닐백이나 전용 팩에 넣어 야채칸 냉장 — 분리 보관 (14일) ❄️",
+        "en": "Place in a perforated bag and store in the crisper — Isolated (14 Days) ❄️",
+        "ja": "穴あきビニール袋に入れ、野菜室で保管 — 分けて保存 (14日間) ❄️",
+        "zh": "装入带孔保鲜袋内并冷藏蔬菜箱 — 避免压迫 (14天) ❄️",
+        "es": "Guardar en bolsa perforada en el cajón de verduras ❄️",
+        "fr": "Conserver dans un sac perforé au bac à légumes ❄️",
+        "de": "Im gelochten Beutel im Gemüsefach lagern ❄️",
+        "pt": "Guardar em saco perfurado na gaveta de legumes ❄️",
+        "id": "Simpan di kantong plastik berlubang di laci sayur ❄️"
+      },
+      "text": {
+        "ko": "포장한 송이들을 통기성이 좋은 구멍 뚫린 봉지(또는 플라스틱 팩)에 담아 겹치지 않게 나란히 눕혀 냉장고 야채실에 보관합니다. 무거운 과일 아래 깔리면 눌려 과즙이 터지므로 상부나 단독 보관하는 것이 핵심입니다.",
+        "en": "Put the wrapped bunches in a perforated plastic bag and lay them side-by-side in the crisper drawer. Placing heavy objects on them will burst the grapes, so top shelf or single storing is key.",
+        "ja": "包んだぶどうを穴の開いた袋に入れ、重ならないように野菜室に並めて置きます。重いものの下になると実が潰れて割れてしまうため、単独で置くことが重要です.",
+        "zh": "放带孔保鲜袋冷藏，避免挤压。",
+        "es": "Coloque los racimos envueltos en una bolsa perforada y no coloque objetos pesados encima.",
+        "fr": "Mettez les grappes enveloppées dans un sac perforé et ne posez pas d'objets lourds dessus.",
+        "de": "Legen Sie die eingewickelten Trauben in einen gelochten Beutel und legen Sie keine schweren Dinge darauf.",
+        "pt": "Coloque os cachos embrulhados em um saco perfurado e evite colocar objetos pesados por cima.",
+        "id": "Masukkan tangkai anggur ke kantong plastik berlubang dan jangan menumpuk benda berat di atasnya."
+      }
+    }
   ]
 }

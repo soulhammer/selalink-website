@@ -39,3 +39,14 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
 *   **세부 품종/종류 단위 작성**: 사용자가 반려동물(개, 고양이, 소형 동물 등) 관련 블로그 포스트를 추가하도록 요청할 때, '강아지 전체 케어법', '고양이 전체 케어법'처럼 광범위한 대분류 동물 단위로 작성해서는 절대 안 됩니다.
 *   **정밀 타겟 품종 선정**: 반드시 세부 품종(견종, 묘종 및 구체적인 소형 동물의 세부 종류. 예: 골든 리트리버, 러시안 블루, 네덜란드 드워프 토끼, 골든 햄스터 등)을 특정하고 타겟하여 해당 품종의 구체적인 유전성 특성, 건강 수칙, 올바른 보살핌 방법을 분할해서 정밀하게 담은 포스트로 작성해야 합니다.
 
+---
+
+## 5. FreshSnap 식재료 보관 블로그 이미지 생성 가이드라인 (Image Generation Guidelines)
+*   **스타일**: 벡터 일러스트 스타일 대신, **밝고 환하며 세련된 현대적인 주방(Bright, airy modern kitchen)을 배경으로 하는 고품질 실사 사진(High-quality realistic photo)** 스타일로 생성합니다.
+*   **구도 및 묘사**: 각 식재료가 신선하게 보관되고 있는 실제 행동 상태(예: 비닐 랩으로 밀봉된 모습, 키친타월에 싸인 모습, 전용 수납 용기나 바구니에 정리된 모습 등)가 중심 피사체로 선명하고 위생적으로 드러나야 합니다.
+*   **배색(Color Palette)**: 화이트, 원목, 연한 베이지 등 내추럴하고 밝은 색상의 주방 환경을 기본 톤으로 활용하며, 부드러운 자연광(Soft natural window light)과 아웃포커싱(Shallow depth of field)을 조화시켜 프리미엄 푸드 매거진 같은 느낌을 연출합니다.
+*   **기타 규칙**: 이미지 내에 어떠한 불필요한 텍스트(글자)도 삽입하지 않습니다.
+*   **프롬프트 공식**:
+    > "A high-quality realistic photo of [식재료 상태 묘사] on a clean kitchen countertop. In the background, a bright, airy modern kitchen with soft natural window light, shallow depth of field. Professional food styling, clean and hygienic presentation. No text, high quality."
+
+

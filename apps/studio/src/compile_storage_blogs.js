@@ -212,8 +212,8 @@ function run() {
         let translatedText = koStep.text;
         
         if (stepTrans) {
-          translatedName = stepTrans.name[lang] || stepTrans.name['en'] || koStep.name;
-          translatedText = (stepTrans.text[lang] || stepTrans.text['en'] || koStep.text || "").replace(/\\n/g, '\n');
+          translatedName = (stepTrans.name?.[lang] || stepTrans.name?.['en'] || stepTrans.name?.['ko'] || koStep.name);
+          translatedText = (stepTrans.text?.[lang] || stepTrans.text?.['en'] || stepTrans.text?.['ko'] || koStep.text || "").replace(/\\n/g, '\n');
         } else {
           console.warn(`[경고] 번역 맵에 단계 누락: ${ingId} STEP ${stepIdx}`);
         }
@@ -361,7 +361,7 @@ ${stepCards.join('\n\n')}
 ${cautionHtmls.join('\n\n')}
 ${faqSectionHtml}
 `;
-      const finalMarkdown = cleanMarkdown(markdown);
+      let finalMarkdown = cleanMarkdown(markdown);
 
       // strong 태그 개수 보정 로직 (다국어 정합성 테스트 통과용)
       const countStrong = (str) => (str.match(/<\/?strong\b/gi) || []).length;

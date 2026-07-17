@@ -1362,5 +1362,576 @@
         }
       }
     ]
+  },
+  "carrot": {
+    "intro": {
+      "en": "Have you ever bought a bunch of carrots only to find them turn limp and soft in a few days? Today, FreshSnap shares USDA-verified scientific storage hacks to keep carrots crisp longer.",
+      "ja": "買ってきたばかりの人参が、数日もしないうちにシナシナになって柔らかくなってしまった経験はありませんか？本日、FreshSnapでは人参の鮮度を長く保つ科学的な保存方法をご紹介します。",
+      "zh": "您是否曾买了一包胡萝卜，却发现它们在几天内变软变干？今天，FreshSnap为您分享经科学验证的胡萝卜保鲜储存指南。",
+      "es": "¿Alguna vez compró zanahorias y descubrió que se ablandaron en pocos días? Hoy, FreshSnap comparte trucos científicos de conservación.",
+      "fr": "Avez-vous déjà acheté des carottes pour les voir ramollir en quelques jours ? Aujourd'hui, FreshSnap vous donne des astuces scientifiques pour les garder fraîches.",
+      "de": "Haben Sie schon einmal Karotten gekauft, nur um festzustellen, dass sie nach wenigen Tagen weich wurden? Heute teilt FreshSnap wissenschaftliche Tipps, um sie knackig zu halten.",
+      "pt": "Você já comprou cenouras e viu que elas murcharam em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação comprovadas.",
+      "id": "Pernahkah Anda membeli wortel yang layu dan lunak dalam beberapa hari? Hari ini FreshSnap membagikan panduan penyimpanan ilmiah."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Isolate carrots from ethylene-producing fruits ⚠️",
+          "ja": "エチレンガスを出す果物から隔離してください ⚠️",
+          "zh": "请与释放乙烯的水果彻底隔离 ⚠️",
+          "es": "Aísle las zanahorias de las frutas que producen etileno ⚠️",
+          "fr": "Isolez les carottes des fruits produisant de l'éthylène ⚠️",
+          "de": "Karotten von ethylenproduzierenden Früchten isolieren ⚠️",
+          "pt": "Isole as cenouras de frutas que produzem etileno ⚠️",
+          "id": "Pisahkan wortel dari buah yang menghasilkan etilen ⚠️"
+        },
+        "desc": {
+          "en": "Storing carrots near ethylene-producing fruits like apples or pears turns their starch into isocoumarin, causing a bitter taste.",
+          "ja": "りんごや梨などエチレンガスを多く放出する果物と一緒に保管すると、人参の成分が変質し, 苦味の原因になります.",
+          "zh": "将胡萝卜与苹果、梨等释放乙烯的水果放在一起，会使胡萝卜产生异豆蔻素，从而导致苦味。",
+          "es": "Almacenar zanahorias cerca de manzanas o peras cambia sus componentes, lo que provoca un sabor amargo.",
+          "fr": "Stocker les carottes près de fruits comme les pommes ou les poires modifie leurs composants et donne un goût amer.",
+          "de": "Die Lagerung von Karotten in der Nähe von Äpfeln oder Birnen führt zu einem bitteren Geschmack durch chemische Reaktionen.",
+          "pt": "Armazenar cenouras perto de maçãs ou peras altera seus componentes, causando um sabor amargo.",
+          "id": "Menyimpan wortel di dekat buah yang menghasilkan etilen seperti apel atau pir akan membuat wortel terasa pahit."
+        }
+      },
+      {
+        "title": {
+          "en": "Cut off carrot tops before storing 🥕",
+          "ja": "保存する前に葉の付け根を切り落としてください 🥕",
+          "zh": "储存前请切掉胡萝卜顶部的叶子 🥕",
+          "es": "Corte las hojas de la zanahoria antes de guardarla 🥕",
+          "fr": "Coupez les fanes de carotte avant stockage 🥕",
+          "de": "Karottengrün vor dem Lagern abschneiden 🥕",
+          "pt": "Corte as folhas da cenoura antes de guardar 🥕",
+          "id": "Potong daun wortel sebelum disimpan 🥕"
+        },
+        "desc": {
+          "en": "If green carrot tops are left on, they will draw moisture and nutrients from the root, causing the carrot to dry out quickly.",
+          "ja": "人参の葉が残っていると、保存中に根の水分や栄養を吸い上げてしまい、中身がパサパサになってしまいます。",
+          "zh": "如果保留绿色的胡萝卜叶，它们会持续吸收根部的水分和养分，导致胡萝卜变干变空心。",
+          "es": "Si se dejan las hojas verdes, extraerán la humedad y los nutrientes de la raíz, secándola rápidamente.",
+          "fr": "Si les fanes vertes restent, elles vont puiser l'humidité et les nutriments de la racine, la desséchant rapidement.",
+          "de": "Wenn das grüne Karottengrün nicht entfernt wird, entzieht es der Wurzel Feuchtigkeit und Nährstoffe, wodurch sie austrocknet.",
+          "pt": "Se as folhas verdes forem deixadas, elas extrairão umidade e nutrientes da raiz, ressecando-a rapidamente.",
+          "id": "Jika daun wortel dibbiarkan, mereka akan menyedot air dan nutrisi dari umbi, membuatnya cepat kering."
+        }
+      }
+    ]
+  },
+  "cucumber": {
+    "intro": {
+      "en": "Have you ever put fresh cucumbers in the fridge only to find them turn mushy and slimy? Today, FreshSnap shares scientific storage tips to keep cucumbers crisp.",
+      "ja": "新鮮なきゅうりを冷蔵庫に入れておいたのに、数日でふにゃふにゃになったり表面がぬるぬるしてしまったりしたことはありませんか？本日, FreshSnapではきゅうりのシャキシャキ感を保つ保存方法をご紹介します。",
+      "zh": "您是否曾将新鲜的黄瓜放入冰箱，却发现它们变得软烂甚至表面黏糊糊的？今天，FreshSnap为您分享保持黄瓜清脆的科学储存诀窍。",
+      "es": "¿Alguna vez guardó pepinos en el refrigerador y descubrió que se ablandaron y se pusieron pegajosos? Hoy, FreshSnap comparte consejos científicos.",
+      "fr": "Avez-vous déjà mis des concombres au frigo pour les retrouver mous et gluants ? Aujourd'hui, FreshSnap vous donne des astuces pour les garder croquants.",
+      "de": "Haben Sie schon einmal Gurken in den Kühlschrank gelegt, nur um festzustellen, dass sie weich und schleimig wurden? Heute teilt FreshSnap Tipps.",
+      "pt": "Você já colocou pepinos na geladeira e viu que eles ficaram moles e gosmentos? Hoje, o FreshSnap compartilha técnicas de conservação.",
+      "id": "Pernahkah Anda menyimpan timun di kulkas lalu menjadi lembek dan berlendir? Hari ini, FreshSnap membagikan tips penyimpanan agar timun tetap renyah."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Avoid storing below 7°C (45°F) ⚠️",
+          "ja": "7℃以下の低温保存を避けてください ⚠️",
+          "zh": "避免在7℃以下的低温环境中储存 ⚠️",
+          "es": "Evite almacenar a temperaturas inferiores a 7 °C ⚠️",
+          "fr": "Évitez de stocker en dessous de 7 °C ⚠️",
+          "de": "Lagerung unter 7 °C vermeiden ⚠️",
+          "pt": "Evite armazenar abaixo de 7 °C ⚠️",
+          "id": "Hindari penyimpanan di bawah 7°C ⚠️"
+        },
+        "desc": {
+          "en": "Cucumbers are sensitive to cold. Storing them in very cold areas causes chill injury, leading to watery spots and quick decay.",
+          "ja": "きゅうりは寒さに弱い野菜です。冷たすぎる場所に置くと低温障害を起こし, 表面がへこんで早く傷んでしまいます.",
+          "zh": "黄瓜对低温非常敏感。将其存放在过冷的地方会导致冻伤，形成水渍斑并加速腐烂。",
+          "es": "Los pepinos son sensibles al frío. Guardarlos en áreas muy frías provoca daño por frío, causando manchas acuosas y pudrición rápida.",
+          "fr": "Les concombres sont sensibles au froid. Les stocker dans des zones très froides provoque des gelures, entraînant des taches aqueuses et un pourrissement rapide.",
+          "de": "Gurken sind kälteempfindlich. Die Lagerung in sehr kalten Bereichen führt zu Kälteschäden, was zu wässrigen Stellen und schnellem Verderb führt.",
+          "pt": "Os pepinos são sensíveis ao frio. Guardá-los em locais muito frios causa danos por congelamento, levando a manchas aquosas e apodrecimento rápido.",
+          "id": "Timun sangat sensitif terhadap dingin. Menyimpannya di tempat yang terlalu dingin akan menyebabkan cedera dingin, memicu pembusukan."
+        }
+      },
+      {
+        "title": {
+          "en": "Keep dry and separate damaged ones 🥒",
+          "ja": "水気を切り、傷んだきゅうりは分けてください 🥒",
+          "zh": "保持干燥并分拣出受损的黄瓜 🥒",
+          "es": "Mantenga secos y separe los pepinos dañados 🥒",
+          "fr": "Gardez au sec et séparez les concombres abîmés 🥒",
+          "de": "Trocken halten und beschädigte Gurken aussortieren 🥒",
+          "pt": "Mantenha secos e separe os pepinos danificados 🥒",
+          "id": "Jaga tetap kering dan pisahkan yang rusak 🥒"
+        },
+        "desc": {
+          "en": "Excess moisture on the skin encourages mold growth. Damaged cucumbers rot faster and spoil nearby ones.",
+          "ja": "表面に水分が残っているとカビが発生しやすくなります。傷があるものは腐敗が進みやすいため, 早めに消費してください.",
+          "zh": "表皮残留的过多水分会滋生霉菌。受损的黄瓜腐烂更快，并且会加速周围黄瓜的变质。",
+          "es": "El exceso de humedad en la piel favorece el crecimiento de moho. Los pepinos dañados se pudren más rápido y dañan a los cercanos.",
+          "fr": "L'excès d'humidité sur la peau favorise la moisissure. Les concombres abîmés pourrissent plus vite et gâtent les autres.",
+          "de": "Zu viel Feuchtigkeit auf der Schale fördert Schimmelbildung. Beschädigte Gurken verfaulen schneller und stecken andere an.",
+          "pt": "O excesso de umidade na casca favorece o crescimento de mofo. Pepinos danificados apodrecem mais rápido e estragam os outros.",
+          "id": "Kelembapan berlebih memicu jamur. Timun yang rusak akan membusuk lebih cepat dan merusak timun di sekitarnya."
+        }
+      }
+    ]
+  },
+  "lemon": {
+    "intro": {
+      "en": "Have you ever left lemons on the counter only to have them dry out and harden? Today, FreshSnap shares USDA-verified storage hacks to keep lemons juicy.",
+      "ja": "レモンを常温に放置して、皮がカチカチに乾いてしまったことはありませんか？本日, FreshSnapではレモンの果汁をたっぷり残す保存方法をご紹介します。",
+      "zh": "您是否曾把柠檬放在台面上，却发现它们很快变干变硬？今天，FreshSnap为您分享保住柠檬果汁的科学储存秘诀。",
+      "es": "¿Alguna vez dejó limones en el mostrador y se secaron y endurecieron? Hoy, FreshSnap comparte trucos para mantenerlos jugosos.",
+      "fr": "Avez-vous déjà laissé des citrons sur le comptoir pour les retrouver secs et durs ? Aujourd'hui, FreshSnap vous donne des astuces pour les garder juteux.",
+      "de": "Haben Sie schon einmal Zitronen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie austrockneten und hart wurden? Heute teilt FreshSnap Tipps.",
+      "pt": "Você já deixou limões na bancada e eles secaram e endureceram? Hoje, o FreshSnap compartilha dicas para mantê-los suculentos.",
+      "id": "Pernahkah Anda membiarkan lemon di meja dapur lalu menjadi kering dan keras? Hari ini, FreshSnap membagikan tips penyimpanan lemon."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Isolate damaged lemons immediately ⚠️",
+          "ja": "傷のあるレモンはすぐに分けてください ⚠️",
+          "zh": "请立即隔离有破损的柠檬 ⚠️",
+          "es": "Aísle los limones dañados de inmediato ⚠️",
+          "fr": "Isolez immédiatement les citrons abîmés ⚠️",
+          "de": "Beschädigte Zitronen sofort aussortieren ⚠️",
+          "pt": "Isole os limões danificados imediatamente ⚠️",
+          "id": "Segera pisahkan lemon yang rusak ⚠️"
+        },
+        "desc": {
+          "en": "Mold can quickly spread from one damaged lemon to others in a sealed container.",
+          "ja": "密閉容器の中で傷のあるレモンがあると、そこからカビ胞子が発生し、他のレモンも一気に傷んでしまいます。",
+          "zh": "在密封容器中，霉菌会迅速从一颗受损的柠檬扩散到其他完好的柠檬上。",
+          "es": "El moho puede propagarse rápidamente de un limón dañado a otros en un recipiente cerrado.",
+          "fr": "La moisissure peut rapidement se propager d'un citron abîmé aux autres dans un récipient fermé.",
+          "de": "In einem geschlossenen Behälter kann sich Schimmel schnell von einer beschädigten Zitrone auf andere ausbreiten.",
+          "pt": "O mofo pode se espalhar rapidamente de um limão danificado para os outros em um pote fechado.",
+          "id": "Jamur dapat menyebar dengan cepat dari satu lemon yang rusak ke lemon lainnya di dalam wadah tertutup."
+        }
+      },
+      {
+        "title": {
+          "en": "Do not wash lemons before storage 🍋",
+          "ja": "保存前にレモンを水洗いしないでください 🍋",
+          "zh": "储存前切勿清洗柠檬 🍋",
+          "es": "No lave los limones antes de almacenarlos 🍋",
+          "fr": "Ne lavez pas les citrons avant le stockage 🍋",
+          "de": "Zitronen vor dem Lagern nicht waschen 🍋",
+          "pt": "Não lave os limões antes de guardar 🍋",
+          "id": "Jangan cuci lemon sebelum disimpan 🍋"
+        },
+        "desc": {
+          "en": "Washing and scrubbing breaks the protective peel layer, making lemons rot much faster.",
+          "ja": "洗ってワックスや皮の油分を落としてしまうと, 皮の保護層が壊れ, カビが発生しやすくなります。",
+          "zh": "清洗和刷洗会破坏柠檬表皮的保护层，导致柠檬腐烂得更快。",
+          "es": "Lavar y fregar rompe la capa protectora de la piel, haciendo que los limones se pudran mucho más rápido.",
+          "fr": "Laver et frotter rompt la couche protectrice de la peau, ce qui fait pourrir les citrons beaucoup plus vite.",
+          "de": "Waschen beschädigt die schützende Schalenschicht, wodurch Zitronen viel schneller verfaulen.",
+          "pt": "Lavar e esfregar remove a camada protetora da casca, fazendo com que los limões apodreçam muito mais rápido.",
+          "id": "Mencuci lemon akan merusak lapisan pelindung alami pada kulitnya, membuat lemon lebih cepat busuk."
+        }
+      }
+    ]
+  },
+  "broccoli": {
+    "intro": {
+      "en": "Have you ever bought broccoli only to find it turn yellow and lose its crunch in a few days? Today, FreshSnap shares scientific storage tips to keep broccoli fresh and green.",
+      "ja": "ブロッコリーを買ってきたのに、数日もしないうちに黄色くなってしまったり、シャキシャキ感がなくなってしまったりしたことはありませんか？本日, FreshSnapではブロッコリーの鮮度と緑色を保つ保存方法をご紹介します。",
+      "zh": "您是否曾买回西兰花，却发现它在几天内变黄并失去脆嫩口感？今天，FreshSnap为您分享保持西兰花翠绿清脆的科学储存窍门。",
+      "es": "¿Alguna vez compró brócoli y descubrió que se puso amarillo y perdió su textura crujiente en pocos días? Hoy, FreshSnap comparte consejos de almacenamiento para mantenerlo fresco y verde.",
+      "fr": "Avez-vous déjà acheté du brocoli pour le voir jaunir et perdre son croquant en quelques jours ? Aujourd'hui, FreshSnap vous donne des astuces scientifiques pour le garder frais et vert.",
+      "de": "Haben Sie schon einmal Brokkoli gekauft, nur um festzustellen, dass er nach wenigen Tagen gelb wurde und seine Knackigkeit verlor? Heute teilt FreshSnap Tipps, um ihn frisch und grün zu halten.",
+      "pt": "Você já comprou brócolis e viu que ele ficou amarelo e perdeu a crocância em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação para mantê-lo verde e fresco.",
+      "id": "Pernahkah Anda membeli brokoli segar namun warnanya menguning dan kehilangan tekstur renyahnya dalam beberapa hari? Hari ini, FreshSnap membagikan panduan penyimpanan brokoli."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Do not store in airtight wrapping ⚠️",
+          "ja": "密閉して保管しないでください ⚠️",
+          "zh": "切勿使用完全密封的包装 ⚠️",
+          "es": "No almacene envolturas herméticas ⚠️",
+          "fr": "Ne conservez pas dans un emballage hermétique ⚠️",
+          "de": "Nicht luftdicht verpackt lagern ⚠️",
+          "pt": "Não guarde em embalagens totalmente herméticas ⚠️",
+          "id": "Jangan simpan dalam kemasan kedap udara ⚠️"
+        },
+        "desc": {
+          "en": "Broccoli releases ethylene and heat. Tight wrapping traps moisture and gases, accelerating yellowing and spoilage.",
+          "ja": "ブロッコリーはエチレンガスや熱を放出します。完全に密閉すると湿気やガスがこもり、黄変や腐敗が急速に進みます。",
+          "zh": "西兰花自身会释放乙烯和热量。完全密封会积聚湿气和气体，加速西兰花变黄和腐烂。",
+          "es": "El brócoli libera etileno y calor. El empaque hermético atrapa la humedad y los gases, acelerando el amarillamiento y el deterioro.",
+          "fr": "Le brocoli libère de l'éthylène et de la chaleur. Un emballage étanche emprisonne l'humidité et les gaz, accélérant le jaunissement et la décomposition.",
+          "de": "Brokkoli gibt Ethylen und Wärme ab. Eine luftdichte Verpackung schließt Feuchtigkeit und Gase ein, was das Vergilben und Verderben beschleunigt.",
+          "pt": "O brócolis libera etileno e calor. Embalagens herméticas retêm umidade e gases, acelerando o amarelamento e a deterioração.",
+          "id": "Brokoli melepaskan gas etilen dan panas. Kemasan yang terlalu rapat akan mengunci kelembapan, mempercepat proses menguning..."
+        }
+      },
+      {
+        "title": {
+          "en": "Do not wash before storage 🥦",
+          "ja": "保存前に絶対に洗わないでください 🥦",
+          "zh": "储存前切勿用水清洗 🥦",
+          "es": "No lave el brócoli antes de almacenarlo 🥦",
+          "fr": "Ne lavez pas le brocoli avant de le stocker 🥦",
+          "de": "Brokkoli vor dem Lagern nicht waschen 🥦",
+          "pt": "Não lave o brócolis antes de guardar 🥦",
+          "id": "Jangan cuci brokoli sebelum disimpan 🥦"
+        },
+        "desc": {
+          "en": "Water easily gets trapped inside the dense buds, creating the perfect environment for mold and bacterial growth.",
+          "ja": "密集したつぼみの間に水が入ると抜けにくく、カビや雑菌が繁殖する大きな原因になります。",
+          "zh": "密集的头部花蕾极易积水，这会为霉菌和细菌的滋生创造完美环境。",
+          "es": "El agua se atrapa fácilmente en las densas y pequeñas flores del brócoli, favoreciendo el moho y las bacterias.",
+          "fr": "L'eau s'infiltre facilement dans les inflorescences denses, créant un environnement idéal pour les moisissures et les bactéries.",
+          "de": "Wasser sammelt sich leicht in den dichten Blütenknospen, was Schimmel- und Bakterienbildung begünstigt.",
+          "pt": "A água se acumula facilmente entre as pequenas flores, criando um ambiente perfeito para o crescimento de mofo e bactérias.",
+          "id": "Air sangat mudah terperangkap di sela-sela kuntum bunga brokoli yang rapat, memicu jamur..."
+        }
+      }
+    ]
+  },
+  "blueberry": {
+    "intro": {
+      "en": "Have you ever bought fresh blueberries only to find them turn soft and moldy in a few days? Today, FreshSnap shares scientific storage tips to keep blueberries plump and mold-free.",
+      "ja": "新鮮なブルーベリーを買ってきたのに、数日で柔らかくなったりカビが生えたりしてしまったことはありませんか？本日, FreshSnapではブルーベリーの張りを保ち、カビを防ぐ保存方法をご紹介します。",
+      "zh": "您是否曾买回新鲜的蓝莓，却发现它们在几天内变软发霉？今天，FreshSnap为您分享保持蓝莓圆润饱满且不发霉的科学储存方法。",
+      "es": "¿Alguna vez compró arándanos frescos y descubrió que se ablandaron y enmohecieron en pocos días? Hoy, FreshSnap comparte consejos de almacenamiento para mantenerlos firmes y libres de moho.",
+      "fr": "Avez-vous déjà acheté des myrtilles fraîches pour les voir ramollir et moisir en quelques jours ? Aujourd'hui, FreshSnap vous donne des astuces pour les garder fermes et sans moisissure.",
+      "de": "Haben Sie schon einmal frische Blaubeeren gekauft, nur um festzustellen, dass sie nach wenigen Tagen weich und schimmelig wurden? Heute teilt FreshSnap Tipps, um sie prall und schimmelfrei zu halten.",
+      "pt": "Você já comprou mirtilos frescos e viu que eles ficaram moles e mofados em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação para mantê-los firmes e livres de mofo.",
+      "id": "Pernahkah Anda membeli blueberry segar namun menjadi lunak dan berjamur dalam beberapa hari? Hari ini, FreshSnap membagikan tips penyimpanan agar blueberry tetap kencang..."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Do not wash before storage 🫐",
+          "ja": "保存前に洗わないでください 🫐",
+          "zh": "储存前切勿清洗 🫐",
+          "es": "No lave los arándanos antes de almacenarlos 🫐",
+          "fr": "Ne lavez pas les myrtilles avant de les stocker 🫐",
+          "de": "Blaubeeren vor dem Lagern nicht waschen 🫐",
+          "pt": "Não lave os mirtilos antes de guardar 🫐",
+          "id": "Jangan cuci blueberry sebelum disimpan 🫐"
+        },
+        "desc": {
+          "en": "Washing removes the natural protective coating (bloom) and introduces moisture, leading to quick spoilage.",
+          "ja": "水洗いすると表面の白い天然保護膜（ブルーム）が落ちてしまい、水分を吸収して傷みやすくなります。",
+          "zh": "清洗会洗掉蓝莓表面天然的白色保护膜（果粉），并且残留的水分会加速果实腐烂。",
+          "es": "Lavar los arándanos elimina la capa protectora natural (bloom) y aporta humedad, acelerando su deterioro.",
+          "fr": "Laver les myrtilles élimine leur couche protectrice naturelle (pruine) et apporte de l'humidité, ce qui accélère leur décomposition.",
+          "de": "Waschen entfernt die natürliche Schutzschicht (Pruina) und bringt Feuchtigkeit ein, was zum schnellen Verderb führt.",
+          "pt": "Lavar os mirtilos remove a película protetora natural (bloom) e adiciona umidade, acelerando a deterioração.",
+          "id": "Mencuci blueberry sebelum disimpan akan menghilangkan lapisan pelindung alami (bloom)..."
+        }
+      },
+      {
+        "title": {
+          "en": "Sort out damaged berries ⚠️",
+          "ja": "傷んだ実を取り除いてください ⚠️",
+          "zh": "挑出受损的蓝莓 ⚠️",
+          "es": "Deseche los arándanos dañados ⚠️",
+          "fr": "Triez les baies abîmées ⚠️",
+          "de": "Beschädigte Beeren aussortieren ⚠️",
+          "pt": "Separe os mirtilos danificados ⚠️",
+          "id": "Pilah blueberry yang rusak ⚠️"
+        },
+        "desc": {
+          "en": "Mold spreads rapidly between berries. A single moldy blueberry can ruin the entire container.",
+          "ja": "ブルーベリーはカビが移りやすい果物です。1つでもカビが生えた実があると、パック全体へ一気に広がってしまいます。",
+          "zh": "蓝莓之间的霉菌传播速度极快。哪怕只有一颗发霉的蓝莓，也会迅速毁掉整盒蓝莓。",
+          "es": "El moho se extiende rápidamente entre los arándanos. Un solo arándano enmohecido puede arruinar todo el contenedor.",
+          "fr": "La moisissure se propage rapidement d'une baie à l'autre. Une seule myrtille moisie peut gâcher tout le paquet.",
+          "de": "Schimmel breitet sich schnell aus. Eine einzige schimmelige Blaubeere kann die gesamte Packung verderben.",
+          "pt": "O mofo se espalha rapidamente entre os mirtilos. Um único mirtilo mofado pode estragar todo o pote.",
+          "id": "Jamur menyebar dengan sangat cepat di antara buah beri. Satu blueberry..."
+        }
+      }
+    ]
+  },
+  "cabbage": {
+    "intro": {
+      "en": "Have you ever bought cabbage only to find the outer leaves wither and turn black in a few days? Today, FreshSnap shares scientific storage tips to keep cabbage fresh.",
+      "ja": "キャベツを買ってきたのに、数日もしないうちに外葉がしおれたり黒ずんだりしてしまったことはありませんか？本日, FreshSnapではキャベツの鮮度を長く保つ保存方法をご紹介します。",
+      "zh": "您是否曾买回卷心菜，却发现外叶在几天内枯萎变黑？今天，FreshSnap为您分享保持卷心菜新鲜的科学储存诀窍。",
+      "es": "¿Alguna vez compró repollo y descubrió que las hojas externas se marchitaron y se pusieron negras en pocos días? Hoy, FreshSnap comparte consejos de almacenamiento para mantenerlo fresco.",
+      "fr": "Avez-vous déjà acheté du chou pour voir ses feuilles extérieures se flétrir et noircir en quelques jours ? Aujourd'hui, FreshSnap vous donne des astuces pour le garder frais.",
+      "de": "Haben Sie schon einmal Kohl gekauft, nur um festzustellen, dass die äußeren Blätter nach wenigen Tagen welkten und schwarz wurden? Heute teilt FreshSnap Tipps, um ihn frisch zu halten.",
+      "pt": "Você já comprou repolho e viu que las folhas externas murcharam e escureceram em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação para mantê-lo fresco.",
+      "id": "Pernahkah Anda membeli kubis namun daun bagian luarnya layu dan menghitam dalam beberapa hari? Hari ini, FreshSnap membagikan tips penyimpanan agar kubis tetap segar."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Weekly maintenance of wet paper towel ⚠️",
+          "ja": "濡れたペーパーは定期的に交換してください ⚠️",
+          "zh": "定期更换湿纸巾 ⚠️",
+          "es": "Reemplace el papel húmedo regularmente ⚠️",
+          "fr": "Remplacez le papier humide régulièrement ⚠️",
+          "de": "Feuchtes Papiertuch regelmäßig wechseln ⚠️",
+          "pt": "Troque o papel úmido regularmente ⚠️",
+          "id": "Ganti tisu basah secara berkala ⚠️"
+        },
+        "desc": {
+          "en": "If left too long, the wet paper towel can develop bacteria and sour smells, spoiling the cabbage.",
+          "ja": "濡れたペーパーを長期間放置すると、雑菌が繁殖して異臭や腐敗の原因になります。週に一度は新しいものと取り換えてください。",
+          "zh": "如果湿纸巾放置时间过长，容易滋生细菌并产生异味，导致卷心菜腐烂。建议每周更换一次。",
+          "es": "Si se deja demasiado tiempo, el papel húmedo puede desarrollar bacterias y olores desagradables, estropeando el repollo.",
+          "fr": "S'il reste trop longtemps, le papier humide peut développer des bactéries et de mauvaises odeurs, gâtant le chou.",
+          "de": "Wenn das feuchte Papiertuch zu lange verbleibt, können sich Bakterien und saure Gerüche bilden, die den Kohl verderben.",
+          "pt": "Se for deixado por muito tempo, o papel úmido pode acumular bactérias e odores desagradáveis, estragando o repolho.",
+          "id": "Jika dibiarkan terlalu lama, tisu basah dapat menumbuhkan bakteri dan bau asam..."
+        }
+      },
+      {
+        "title": {
+          "en": "Do not store at room temperature 🥦",
+          "ja": "常温での保存は避けてください 🥦",
+          "zh": "请勿在常温下储存 🥦",
+          "es": "No almacene a temperatura ambiente 🥦",
+          "fr": "Ne conservez pas à température ambiante 🥦",
+          "de": "Nicht bei Raumtemperatur lagern 🥦",
+          "pt": "Não guarde em temperatura ambiente 🥦",
+          "id": "Jangan simpan di suhu ruang 🥦"
+        },
+        "desc": {
+          "en": "Storing cabbage at warm room temperatures causes the leaves to loosen and moisture to escape quickly.",
+          "ja": "暖かい常温に置くと、キャベツが葉を開こうとして緩み, 水分が急速に抜けて食感が悪くなります.",
+          "zh": "在温暖的常温下储存卷心菜会导致叶片松散，水分流失加快，影响口感。",
+          "es": "Almacenar el repollo a temperatura ambiente hace que las hojas se aflojen y la humedad se escape rápidamente.",
+          "fr": "Conserver le chou à température ambiante fait se relâcher les feuilles et s'échapper l'humidité rapidement.",
+          "de": "Die Lagerung von Kohl bei warmer Raumtemperatur führt dazu, dass sich die Blätter lockern und Feuchtigkeit schnell entweicht.",
+          "pt": "Guardar o repolho em temperatura ambiente faz com que as folhas fiquem soltas e a umidade escape rapidamente.",
+          "id": "Menyimpan kubis di suhu ruang yang hangat akan melonggarkan daunnya..."
+        }
+      }
+    ]
+  },
+  "cheese": {
+    "intro": {
+      "en": "Have you ever wrapped cheese tightly in plastic wrap only to find it turn moldy and hard? Today, FreshSnap shares scientific storage tips to keep cheese flavorful.",
+      "ja": "余ったチーズをラップで密着させて包んだら、すぐにカビたり固くなったりしたことはありませんか？本日, FreshSnapではチーズの風味を最大限に残す保存方法をご紹介します。",
+      "zh": "您是否曾用保鲜膜紧紧包裹奶酪，却发现它发霉变硬？今天，FreshSnap为您分享保持奶酪风味的科学储存方法。",
+      "es": "¿Alguna vez envolvió queso firmemente en film plástico y descubrió que se enmoheció y endureció? Hoy, FreshSnap comparte trucos para mantenerlo sabroso.",
+      "fr": "Avez-vous déjà enveloppé du fromage hermétiquement dans du film plastique pour le retrouver moisi et dur ? Aujourd'hui, FreshSnap vous donne des conseils.",
+      "de": "Haben Sie schon einmal Käse fest in Frischhaltefolie gewickelt, nur um festzustellen, dass sie schimmelig und hart wurde? Heute teilt FreshSnap Tipps.",
+      "pt": "Você já embrulhou queijo firmemente em filme plástico e viu que ele mofou e endureceu? Hoje, o FreshSnap compartilha dicas de conservação.",
+      "id": "Pernahkah Anda membungkus keju rapat-rapat dengan plastik wrap lalu menjadi berjamur..."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Keep away from strong-smelling foods ⚠️",
+          "ja": "においの強い食材から離して保管してください ⚠️",
+          "zh": "请远离气味强烈的食物 ⚠️",
+          "es": "Mantenga alejado de alimentos con olores fuertes ⚠️",
+          "fr": "Gardez à l'écart des aliments à forte odeur ⚠️",
+          "de": "Von geruchsintensiven Lebensmitteln fernhalten ⚠️",
+          "pt": "Mantenha longe de alimentos com cheiro forte ⚠️",
+          "id": "Jauhkan dari makanan berbau tajam ⚠️"
+        },
+        "desc": {
+          "en": "Cheese absorbs smells easily due to its fat content. Keep it isolated from garlic, fish, or onions.",
+          "ja": "チーズの脂肪分は周囲のにおいを吸収しやすい性質があります。キムチやニンニク、魚などの近くに置くのは避けてください。",
+          "zh": "由于脂肪含量高，奶酪极易吸收周围的气味。请将其与大蒜、鱼类或洋葱等隔离开来。",
+          "es": "El queso absorbe olores fácilmente debido a su contenido de grasa. Manténgalo aislado del ajo, pescado o cebolla.",
+          "fr": "Le fromage absorbe facilement les odeurs en raison de sa teneur en matières grasses. Isolez-le de l'ail, du poisson ou des oignons.",
+          "de": "Käse nimmt aufgrund seines Fettgehalts leicht Gerüche an. Halten Sie ihn von Knoblauch, Fisch oder Zwiebeln fern.",
+          "pt": "O queijo absorve odores facilmente devido ao teor de gordura. Mantenha-o isolado de alho, peixe..."
+        }
+      },
+      {
+        "title": {
+          "en": "Do not leave at room temperature 🧀",
+          "ja": "常温で長時間放置しないでください 🧀",
+          "zh": "请勿长时间置于常温下 🧀",
+          "es": "No deje a temperatura ambiente 🧀",
+          "fr": "Ne laissez pas à température ambiante 🧀",
+          "de": "Nicht bei Raumtemperatur stehen lassen 🧀",
+          "pt": "Não deixe em temperatura ambiente 🧀",
+          "id": "Jangan biarkan di suhu ruang 🧀"
+        },
+        "desc": {
+          "en": "Leaving cheese out causes its fats to melt and separate, altering its texture and flavor.",
+          "ja": "常温に放置すると脂肪分が溶け出し, 分離してしまいます. 一度分離したチーズは風味が著しく損なわれます.",
+          "zh": "将奶酪置于常温下会导致其中的脂肪融化并分离，从而改变其质地和风味。",
+          "es": "Dejar el queso a temperatura ambiente hace que sus grasas se derritan y se separen, alterando su textura y sabor.",
+          "fr": "Laisser le fromage à température ambiante fait fondre et se séparer les matières grasses, ce qui altère sa texture et sa saveur.",
+          "de": "Wenn Käse warm steht, schmilzt und trennt sich das Fett, was die Textur..."
+        }
+      }
+    ]
+  },
+  "butter": {
+    "intro": {
+      "en": "Have you ever left butter in the fridge door only to have it turn yellow and absorb food odors? Today, FreshSnap shares USDA-verified storage tips to protect its flavor.",
+      "ja": "バターを冷蔵庫のドアポケットに入れておいたら、黄色く乾燥したり冷蔵庫のにおいを吸ってしまったりしたことはありませんか？本日, FreshSnapではバターの風味を保つ保存法をご紹介します。",
+      "zh": "您是否曾把黄油放在冰箱门架上，却发现它发黄干燥且吸附了食物异味？今天，FreshSnap为您分享经验证的黄油保鲜储存诀窍。",
+      "es": "¿Alguna vez dejó la mantequilla en la puerta del refrigerador y vio que se puso amarilla y absorbió olores? Hoy, FreshSnap comparte consejos de almacenamiento.",
+      "fr": "Avez-vous déjà laissé du beurre dans la porte du frigo pour le retrouver jauni et imprégné d'odeurs ? Aujourd'hui, FreshSnap partage des conseils de stockage.",
+      "de": "Haben Sie schon einmal Butter in der Kühlschranktür gelassen, nur um festzustellen, dass sie gelb wurde und Gerüche annahm? Heute teilt FreshSnap Tipps.",
+      "pt": "Você já deixou a manteiga na porta da geladeira e viu que ela ficou amarelada e absorveu odores? Hoje, o FreshSnap compartilha dicas de conservação.",
+      "id": "Pernahkah Anda menyimpan mentega di pintu kulkas..."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Do not store butter in the refrigerator door ⚠️",
+          "ja": "冷蔵庫のドアポケットでの保存は避けてください ⚠️",
+          "zh": "切勿将黄油存放在冰箱门架上 ⚠️",
+          "es": "No guarde en la puerta del refrigerador ⚠️",
+          "fr": "Ne stockez pas dans la porte du réfrigérateur ⚠️",
+          "de": "Nicht in der Kühlschranktür lagern ⚠️",
+          "pt": "Não guarde na porta da geladeira ⚠️",
+          "id": "Jangan simpan mentega di pintu kulkas ⚠️"
+        },
+        "desc": {
+          "en": "The door is the warmest part and has constant temperature changes, which breaks down the butter structure.",
+          "ja": "ドアポケットは冷蔵庫の開閉で温度変化が最も激しい場所です。温度が頻繁に変わると、バターの組織が緩んで劣化が早まります。",
+          "zh": "冰箱门架是温度最高且温度变化最频繁的区域，这会破坏黄油的物理结构并加速变质。",
+          "es": "La puerta es la zona más cálida y tiene fluctuaciones constantes de temperatura, lo que daña la estructura de la mantequilla.",
+          "fr": "La porte est la zone la plus chaude et subit des variations constantes de température, ce qui altère la structure du beurre.",
+          "de": "Die Tür ist der wärmste Ort mit ständigen Temperaturschwankungen, was die Struktur der Butter beeinträchtigt.",
+          "pt": "A porta é a parte mais quente e tem constantes mudanças de temperatura, o que estraga a estrutura..."
+        }
+      },
+      {
+        "title": {
+          "en": "Avoid cross-contamination during slicing 🧈",
+          "ja": "カットする際の二次汚染を防いでください 🧈",
+          "zh": "切块时请避免交叉污染 🧈",
+          "es": "Evite la contaminación cruzada al cortar 🧈",
+          "fr": "Évitez la contamination croisée lors de la découpe 🧈",
+          "de": "Kreuzkontamination beim Schneiden vermeiden 🧈",
+          "pt": "Evite a contaminação cruzada ao cortar 🧈",
+          "id": "Hindari kontaminasi silang saat memotong 🧈"
+        },
+        "desc": {
+          "en": "Using a wet or dirty knife introduces moisture and bacteria, causing early spoilage.",
+          "ja": "水気が残ったナイフや他の食材を切った包丁を使うと、断面に雑菌や水分が移り, カビや酸敗の原因になります。",
+          "zh": "使用潮湿或不洁的刀具会引入水分和细菌，导致黄油过早变质。",
+          "es": "Usar un cuchillo húmedo o sucio introduce humedad y bacterias, acelerando su descomposición.",
+          "fr": "Utiliser un couteau humide ou sale introduit de l'humidité et des bactéries, provoquant..."
+        }
+      }
+    ]
+  },
+  "strawberry": {
+    "intro": {
+      "en": "Have you ever bought beautiful strawberries only to find them turn mushy and moldy in a day or two? Today, FreshSnap shares scientific storage tips to prevent mold.",
+      "ja": "甘いイチゴを買ってきたのに、翌日には潰れたりカビが生えたりしてしまったことはありませんか？本日, FreshSnapではイチゴの傷みを防ぎ、長持ちさせる保存法をご紹介します。",
+      "zh": "您是否曾买回鲜美的大草莓，却发现它们在一两天内就变得软烂发霉？今天，FreshSnap为您分享防止草莓发霉的科学储存方法。",
+      "es": "¿Alguna vez compró fresas hermosas y descubrió que se ablandaron y enmohecieron en un par de días? Hoy, FreshSnap comparte consejos científicos para evitar el moho.",
+      "fr": "Avez-vous déjà acheté de belles fraises pour les voir ramollir et moisir en un jour ou deux ? Aujourd'hui, FreshSnap vous donne des astuces scientifiques pour éviter les moisissures.",
+      "de": "Haben Sie schon einmal wunderschöne Erdbeeren gekauft, nur um festzustellen, dass sie nach ein bis zwei Tagen weich und schimmelig wurden? Heute teilt FreshSnap wissenschaftliche Tipps.",
+      "pt": "Você já comprou morangos lindos e viu que eles murcharam e mofaram em um ou dois dias? Hoje, o FreshSnap compartilha dicas científicas para evitar o mofo.",
+      "id": "Pernahkah Anda membeli stroberi segar yang indah..."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Remove bruised strawberries immediately ⚠️",
+          "ja": "潰れたイチゴはすぐに取り除いてください ⚠️",
+          "zh": "请立即拣出压坏的草莓 ⚠️",
+          "es": "Retire las fresas golpeadas de inmediato ⚠️",
+          "fr": "Retirez immédiatement les fraises abîmées ⚠️",
+          "de": "Beschädigte Erdbeeren sofort entfernen ⚠️",
+          "pt": "Remova os morangos machucados imediatamente ⚠️",
+          "id": "Segera buang stroberi yang memar ⚠️"
+        },
+        "desc": {
+          "en": "A single bruised berry with leaking juice creates the perfect environment for mold to take over the whole package.",
+          "ja": "汁が出ている潰れたイチゴをそのままにしておくと、カビ胞子が急速に繁殖し, パック全体のイチゴが台無しになります。",
+          "zh": "哪怕只有一颗压坏流汁的草莓，也会迅速滋生霉菌，进而导致整盒草莓变质。",
+          "es": "Una sola fresa golpeada que gotee jugo crea el ambiente perfecto para que el moho se extienda por todo el empaque.",
+          "fr": "Une seule fraise abîmée dont le jus s'écoule crée un environnement idéal pour que la moisissure envahisse tout le paquet.",
+          "de": "Eine einzige beschädigte Erdbeere, aus der Saft austritt, bietet den perfekten Nährboden für Schimmel auf der ganzen Packung.",
+          "pt": "Um único morango machucado vazando suco cria o ambiente perfeito para o mofo tomar conta de toda a embalagem.",
+          "id": "Satu buah stroberi yang memar dan mengeluarkan cairan akan memicu pertumbuhan jamur..."
+        }
+      },
+      {
+        "title": {
+          "en": "Store on the inner shelf with stable low temperature 🍓",
+          "ja": "一定の低温が保たれる奥の棚に保管してください 🍓",
+          "zh": "存放在温度稳定的内侧搁板上 🍓",
+          "es": "Guarde en el estante interior con temperatura baja y estable 🍓",
+          "fr": "Conservez sur une étagère intérieure à température stable 🍓",
+          "de": "Auf dem inneren Regal bei stabiler niedriger Temperatur lagern 🍓",
+          "pt": "Guarde na prateleira interna com temperatura baixa e estável 🍓",
+          "id": "Simpan di rak bagian dalam dengan suhu rendah..."
+        },
+        "desc": {
+          "en": "The refrigerator door pockets have large temperature fluctuations and vibrations. Store strawberries on the back of the inner shelf where the temperature is stable to prevent rapid spoiling.",
+          "ja": "冷蔵庫のドアポケットは開閉による温度変化や振動が大きく、イチゴが傷みやすくなります。温度変化の少ない庫内奥の棚に置くことが、長持ちさせる秘訣です。",
+          "zh": "冰箱门旁的置物架温度波动大且伴随震动，容易加速草莓老化。应将其存放在温度稳定且震动较小的冷藏室深处。",
+          "es": "Los compartimentos de la puerta del refrigerador sufren grandes variaciones de temperatura y vibraciones. Coloque las fresas en la parte posterior del estante interior para conservarlas mejor.",
+          "fr": "Les balconnets de porte du réfrigérateur subissent de grandes variations de température et des vibrations. Placez les fraises au fond d'une étagère intérieure où la température reste stable.",
+          "de": "Die Türfächer des Kühlschranks sind starken Temperaturschwankungen und Erschütterungen ausgesetzt. Lagern Sie Erdbeeren im hinteren Bereich des Innenraums, um Fäulnis zu verhindern.",
+          "pt": "As prateleiras da porta da geladeira têm grande variação de temperatura e vibrações. Coloque os morangos no fundo da prateleira interna para evitar que estraguem rapidamente.",
+          "id": "Bagian pintu kulkas mengalami fluktuasi suhu..."
+        }
+      }
+    ]
+  },
+  "grape": {
+    "intro": {
+      "en": "Have you ever stored grapes in the fridge only to find them fall off the stems and turn mushy? Today, FreshSnap shares scientific storage tips to keep grapes firm and fresh.",
+      "ja": "ぶどうを冷蔵庫に入れておいたら、ポロポロと実が落ちたり傷んでしまったりしたことはありませんか？本日, FreshSnapでは実が落ちるのを防ぎ、新鮮さを保つ保存法をご紹介します。",
+      "zh": "您是否曾把葡萄存放在冰箱，却发现它们从梗上脱落并变软？今天，FreshSnap为您分享保持葡萄紧致新鲜的科学储存方法。",
+      "es": "¿Alguna vez guardó uvas en el refrigerador y descubrió que se desprendieron del racimo y se ablandaron? Hoy, FreshSnap comparte consejos de almacenamiento para mantenerlas firmes y frescas.",
+      "fr": "Avez-vous déjà conservé des raisins au réfrigérateur pour les retrouver détachés de la grappe et ramollis ? Aujourd'hui, FreshSnap vous donne des astuces pour les garder fermes.",
+      "de": "Haben Sie schon einmal Weintrauben im Kühlschrank gelagert, nur um festzustellen, dass sie abfielen und matschig wurden? Heute teilt FreshSnap wissenschaftliche Tipps, um sie knackig zu halten.",
+      "pt": "Você já guardou uvas na geladeira e viu que elas se soltaram do cacho e murcharam? Hoje, o FreshSnap compartilha dicas de conservação para mantê-las firmes e frescas.",
+      "id": "Pernahkah Anda menyimpan anggur di kulkas..."
+    },
+    "cautions": [
+      {
+        "title": {
+          "en": "Do not stack heavy items on top ⚠️",
+          "ja": "上に重いものを載せないでください ⚠️",
+          "zh": "切勿在上方堆放重物 ⚠️",
+          "es": "No coloque objetos pesados sobre las uvas ⚠️",
+          "fr": "Ne posez pas d'objets lourds sur les raisins ⚠️",
+          "de": "Keine schweren Gegenstände darauf legen ⚠️",
+          "pt": "Não coloque objetos pesados por cima ⚠️",
+          "id": "Jangan menumpuk barang berat di atasnya ⚠️"
+        },
+        "desc": {
+          "en": "Grapes are easily crushed. Pressure breaks the skins, releasing juice and spoiling the entire bunch in days.",
+          "ja": "ぶどうは潰れやすい果物です。上に物を置いて圧力がかかると実が破裂し, そこから雑菌が増殖してカビの温床になります.",
+          "zh": "葡萄极易被压碎。重压会导致果皮破裂、汁液流出，并在几天内使整串葡萄腐烂。",
+          "es": "Las uvas se aplastan con facilidad. La presión rompe la piel, liberando jugo y estropeando todo el racimo en pocos días.",
+          "fr": "Les raisins s'écrasent facilement. La pression brise la peau, libérant du jus et gâtant toute la grappe en quelques jours.",
+          "de": "Weintrauben werden leicht zerdrückt. Druck beschädigt die Schale, sodass Saft ausläuft und die Traube innerhalb weniger Tage verdirbt.",
+          "pt": "As uvas são facilmente esmagadas. A pressão rompe a casca, liberando suco e estragando todo o cacho em poucos dias.",
+          "id": "Buah anggur sangat mudah hancur. Tekanan..."
+        }
+      },
+      {
+        "title": {
+          "en": "Remove damaged grapes in advance 🍇",
+          "ja": "傷んだブドウの実はあらかじめ取り除いてください 🍇",
+          "zh": "提前剔除变质的葡萄粒 🍇",
+          "es": "Retire las uvas dañadas con anticipación 🍇",
+          "fr": "Retirez les grains de raisin gâtés à l'avance 🍇",
+          "de": "Beschädigte Weintrauben vorab entfernen 🍇",
+          "pt": "Remova as uvas danificadas com antecedência 🍇",
+          "id": "Buang butiran anggur..."
+        },
+        "desc": {
+          "en": "If there are bruised or burst grapes inside the bunch, the leaking juice will spoil nearby healthy grapes. Cut off any damaged grapes before storing.",
+          "ja": "房の中に潰れた実や傷んだ実が混ざっていると、そこから出る汁が周囲の健康な実を腐らせます。保存する前に、傷んだ実をハサミで切り落としておきましょう。",
+          "zh": "如果葡萄串中混有破损或霉变的果粒，流出的果汁会加速周围完好葡萄的腐烂。储存前请务必用剪刀将坏果剪除。",
+          "es": "Si hay uvas magulladas o rotas dentro del racimo, el jugo que gotea dañará las uvas sanas de alrededor. Corte las uvas dañadas antes de guardarlas.",
+          "fr": "Si des grains écrasés ou moisis se trouvent à l'intérieur de la grappe, leur jus gâtera les grains sains environnants. Retirez-les avant de stocker.",
+          "de": "Wenn sich gequetschte oder faule Beeren in der Traube befinden, verdirbt der..."
+        }
+      }
+    ]
   }
 }
