@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { execSync } from 'child_process';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -52,7 +53,75 @@ function checkTranslationIntegrity() {
     process.exit(1);
   }
 
-  htmlFiles.forEach((filePath) => {
+  let isFullScan = process.argv.includes('--full') || process.env.CI === 'true';
+  const changedSlugs = new Set();
+
+  if (!isFullScan) {
+    try {
+      const diffOutput = execSync('git diff --name-only HEAD', { encoding: 'utf-8', stdio: ['pipe', 'pipe', 'ignore'] });
+      const statusOutput = execSync('git status --porcelain', { encoding: 'utf-8', stdio: ['pipe', 'pipe', 'ignore'] });
+      
+      const lines = [
+        ...diffOutput.split('\n'),
+        ...statusOutput.split('\n').map(line => line.slice(3).trim())
+      ].map(l => l.trim()).filter(Boolean);
+      
+      const uniqueChangedFiles = [...new Set(lines)];
+      
+      if (uniqueChangedFiles.length === 0) {
+        console.log('✨ Git 변경 사항이 없습니다. 번역 검증을 마칩니다.');
+        process.exit(0);
+      }
+      
+      for (const file of uniqueChangedFiles) {
+        const contentBlogMatch = file.match(/src\/content\/blog\/[^/]+\/([^/]+)\.md$/);
+        const dataBlogMatch1 = file.match(/src\/data\/blogs\/habits\/([^/]+)\.json$/);
+        const dataBlogMatch2 = file.match(/src\/data\/habits\/items\/([^/]+)\.json$/);
+        
+        const slug = (contentBlogMatch && contentBlogMatch[1]) || 
+                     (dataBlogMatch1 && dataBlogMatch1[1]) || 
+                     (dataBlogMatch2 && dataBlogMatch2[1]);
+                     
+        if (slug) {
+          changedSlugs.add(slug);
+        } else {
+          // 중요하지 않은 파일 변경(예: README.md)은 전수 검사로 전환하지 않고 스킵
+          if (file.endsWith('.md') && !file.includes('src/content/blog/')) {
+            continue;
+          }
+          console.log(`⚠️  블로그 데이터 외 파일 변경 감지 -> 전수 검증으로 전환: ${file}`);
+          isFullScan = true;
+          break;
+        }
+      }
+      
+      if (!isFullScan && changedSlugs.size === 0) {
+        console.log('✨ 검증 대상 블로그 파일의 변경이 없습니다. 검증을 완료합니다.');
+        process.exit(0);
+      }
+    } catch (err) {
+      console.log('⚠️  Git 명령어 실행 실패 -> 전수 검증으로 안전하게 전환합니다.');
+      isFullScan = true;
+    }
+  }
+
+  let scanTargets = htmlFiles;
+  if (!isFullScan) {
+    console.log(`⚡ 증분 검증(Incremental Check) 활성화 - 변경된 블로그 대상: [${[...changedSlugs].join(', ')}]`);
+    scanTargets = htmlFiles.filter(filePath => {
+      const relativePath = path.relative(distRoot, filePath);
+      return [...changedSlugs].some(slug => relativePath.includes(`/blog/${slug}/`));
+    });
+    
+    if (scanTargets.length === 0) {
+      console.log('✨ 변경된 블로그에 매핑되는 빌드 결과물이 없습니다. 검사를 완료합니다.');
+      process.exit(0);
+    }
+  } else {
+    console.log('📊 전수 검증(Full Scan) 실행 - 모든 빌드 HTML 페이지를 검사합니다.');
+  }
+
+  scanTargets.forEach((filePath) => {
     const relativePath = path.relative(distRoot, filePath);
     const pathParts = relativePath.split(path.sep);
     const lang = pathParts[0];

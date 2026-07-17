@@ -25,11 +25,23 @@ jobs:
     steps:
       - name: 📦 저장소(레포지토리) 체크아웃
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 이전 커밋들과의 Diff 분석을 통한 증분 테스트가 가능하도록 조치
 
       - name: 🟢 Node.js 22버전 환경 셋팅
         uses: actions/setup-node@v4
         with:
           node-version: "22"
+          cache: "npm"
+          cache-dependency-path: "./v3-app/package-lock.json"
+
+      - name: ⚡ Astro 빌드 에셋 캐싱 복원 및 저장 (node_modules/.astro)
+        uses: actions/cache@v4
+        with:
+          path: ./v3-app/node_modules/.astro
+          key: ${{ runner.os }}-astro-${{ hashFiles('v3-app/package-lock.json', 'v3-app/src/content/**') }}
+          restore-keys: |
+            ${{ runner.os }}-astro-
 
       - name: 📥 패키지 설치 (npm ci)
         working-directory: ./v3-app
