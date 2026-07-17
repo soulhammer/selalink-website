@@ -2,10 +2,10 @@
   "name": "selalink-website-root",
   "private": true,
   "scripts": {
-    "test": "npm run test --prefix v3-app",
-    "test:unit": "npm run test:unit --prefix v3-app",
-    "test:e2e": "npm run test:e2e --prefix v3-app",
-    "dev": "npm run dev --prefix v3-app",
-    "build": "npm run build --prefix v3-app"
+    "test": "npm run test --prefix apps/studio",
+    "test:unit": "npm run test:unit --prefix apps/studio",
+    "test:e2e": "npm run test:e2e --prefix apps/studio",
+    "dev": "npm run dev --prefix apps/studio",
+    "build": "npm run build --prefix apps/studio"
   }
 }

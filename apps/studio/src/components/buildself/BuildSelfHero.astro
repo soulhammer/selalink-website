@@ -36,14 +36,14 @@ const t = useTranslations(lang as keyof typeof languages);
 	<div class="flex-1 w-full h-auto lg:h-[650px] relative flex flex-col items-center justify-center perspective-[1200px] mt-12 lg:mt-0 z-10 pointer-events-none">
 		<!-- Back Image (Analytics/Consistency) - Hidden on mobile/tablet for clarity -->
 		<div class="hidden lg:block absolute right-4 top-10 w-[70%] max-w-[320px] rounded-[2.5rem] p-1.5 bg-white/30 dark:bg-slate-800/30 backdrop-blur-xl border border-white/40 dark:border-white/10 shadow-2xl transform rotate-6 hover:rotate-3 transition-all duration-700 opacity-90">
-			<img src="/assets/images/apps/buildself/4_buildself_phone_screen.jpeg" alt="BuildSelf Consistency Tracking" class="w-full h-auto rounded-[2.2rem] shadow-inner object-cover" loading="lazy" />
+			<img src={`${import.meta.env.BASE_URL}assets/images/apps/buildself/4_buildself_phone_screen.jpeg`} alt="BuildSelf Consistency Tracking" class="w-full h-auto rounded-[2.2rem] shadow-inner object-cover" loading="lazy" />
 		</div>
 		
 		<!-- Front Image (Daily Routine) - Relative and centered on mobile/tablet -->
 		<div 
 			class="relative lg:absolute lg:left-4 lg:bottom-10 w-[68%] sm:w-[60%] lg:w-[75%] max-w-[340px] rounded-[2rem] lg:rounded-[2.5rem] p-1.5 lg:p-2 bg-white/70 dark:bg-slate-700/60 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-[-10px_10px_40px_rgba(0,0,0,0.15)] lg:shadow-[-20px_20px_60px_rgba(0,0,0,0.15)] dark:shadow-[0_20px_30px_70px_rgba(0,0,0,0.6)] transform -rotate-3 hover:transform-none transition-all duration-700 z-10 app-card-interactive mx-auto lg:mx-0"
 		>
-			<img src="/assets/images/apps/buildself/1_buildself_phone_screen.jpeg" alt="Daily Routine Check Main UI" class="w-full h-auto rounded-[1.8rem] lg:rounded-[2rem] shadow-sm object-cover" loading="eager" />
+			<img src={`${import.meta.env.BASE_URL}assets/images/apps/buildself/1_buildself_phone_screen.jpeg`} alt="Daily Routine Check Main UI" class="w-full h-auto rounded-[1.8rem] lg:rounded-[2rem] shadow-sm object-cover" loading="eager" />
 			
 			<!-- Floating Glass Chip -->
 			<div class="absolute -left-2 lg:-left-6 top-16 lg:top-20 bg-white/90 dark:bg-slate-800/90 backdrop-blur-md px-3 lg:px-4 py-2 lg:py-3 rounded-xl lg:rounded-2xl border border-slate-100 dark:border-slate-700 shadow-xl flex items-center gap-2 lg:gap-3 transform -rotate-6 z-10">

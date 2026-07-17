@@ -131,7 +131,7 @@ const langPosts = allPosts
 				</div>
 					<div class="space-y-4">
 						<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-2 text-slate-900 dark:text-white group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors drop-shadow-sm flex items-center gap-3">
-							<img src="/freshself/invite/icon.png" alt="FreshSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-purple-500/10" />
+							<img src={`${import.meta.env.BASE_URL}freshself/invite/icon.png`} alt="FreshSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-purple-500/10" />
 							{t('app.freshself.title')}
 							<LineupBadge type="self" lang={lang} className="ml-2 scale-95 origin-left" tooltipPosition="right" />
 						</h2>
@@ -179,7 +179,7 @@ const langPosts = allPosts
 						</div>
 					</div>
 					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors drop-shadow-sm flex items-center gap-3">
-						<img src="/images/logself/icon.png" alt="logSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-indigo-500/10" />
+						<img src={`${import.meta.env.BASE_URL}images/logself/icon.png`} alt="logSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-indigo-500/10" />
 						{t('app.logself.title')}
 						<LineupBadge type="self" lang={lang} className="ml-2 scale-95 origin-left" tooltipPosition="right" />
 					</h2>
@@ -225,7 +225,7 @@ const langPosts = allPosts
 						</div>
 					</div>
 					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-3">
-						<img src="/images/buildself/icon.png" alt="BuildSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-emerald-500/10" />
+						<img src={`${import.meta.env.BASE_URL}images/buildself/icon.png`} alt="BuildSelf Logo" class="w-10 h-10 sm:w-12 sm:h-12 object-contain rounded-xl shadow-sm border border-emerald-500/10" />
 						{t('app.buildself.title')}
 						<LineupBadge type="self" lang={lang} className="ml-2 scale-95 origin-left" tooltipPosition="right" />
 					</h2>
@@ -236,15 +236,15 @@ const langPosts = allPosts
 				<div class="absolute bottom-[-10%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-10%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[60%] sm:w-[45%] md:w-[70%] lg:w-[65%] h-[55%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-15 sm:opacity-45 group-hover:opacity-100 transition-all duration-700">
 					<!-- Back Left Image -->
 					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-50 sm:opacity-60 dark:opacity-40">
-						<img src="/assets/images/apps/buildself/2_buildself_phone_screen.jpeg" alt="BuildSelf Habit List" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
+						<img src={`${import.meta.env.BASE_URL}assets/images/apps/buildself/2_buildself_phone_screen.jpeg`} alt="BuildSelf Habit List" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
 					</div>
 					<!-- Back Right Image -->
 					<div class="absolute right-[5%] sm:right-[0%] bottom-[25%] w-[50%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-2xl transform rotate-12 translate-y-2 group-hover:translate-x-4 group-hover:-translate-y-3 lg:group-hover:-translate-y-6 group-hover:rotate-16 transition-all duration-700 opacity-70 lg:opacity-80 dark:opacity-60">
-						<img src="/assets/images/apps/buildself/4_buildself_phone_screen.jpeg" alt="BuildSelf Analytics" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
+						<img src={`${import.meta.env.BASE_URL}assets/images/apps/buildself/4_buildself_phone_screen.jpeg`} alt="BuildSelf Analytics" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
 					</div>
 					<!-- Front Main Image -->
 					<div class="relative w-[65%] sm:w-[55%] mb-2 sm:mb-8 mr-6 sm:mr-12 rounded-[1.5rem] lg:rounded-[2rem] p-1.5 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.3)] dark:shadow-[0_20px_60px_-15px_rgba(0,0,0,0.7)] transform rotate-[-4deg] group-hover:rotate-0 group-hover:scale-[1.03] lg:group-hover:scale-105 group-hover:-translate-y-2 lg:group-hover:-translate-y-4 transition-all duration-700 z-20 mx-auto sm:mx-0">
-						<img src="/assets/images/apps/buildself/1_buildself_phone_screen.jpeg" alt="BuildSelf Main UI" class="w-full h-auto rounded-[1.3rem] lg:rounded-[1.7rem] shadow-inner object-cover" loading="eager" />
+						<img src={`${import.meta.env.BASE_URL}assets/images/apps/buildself/1_buildself_phone_screen.jpeg`} alt="BuildSelf Main UI" class="w-full h-auto rounded-[1.3rem] lg:rounded-[1.7rem] shadow-inner object-cover" loading="eager" />
 					</div>
 				</div>
 
@@ -340,7 +340,7 @@ const langPosts = allPosts
 				<!-- Interactive Web Visual (Preview Dashboard Mockup) -->
 				<div class="absolute bottom-[4%] sm:bottom-[-2%] md:bottom-[-3%] lg:bottom-[-4%] right-[-10%] sm:right-[-5%] md:right-[-2%] lg:right-[-2%] w-[85%] sm:w-[65%] md:w-[60%] lg:w-[58%] h-[55%] sm:h-[60%] md:h-[75%] lg:h-[80%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-15 sm:opacity-45 group-hover:opacity-100 transition-all duration-700">
 					<div class="relative w-[95%] sm:w-[90%] mb-4 sm:mb-8 mr-4 sm:mr-8 rounded-[1.2rem] lg:rounded-[1.8rem] p-1 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_50px_rgba(0,0,0,0.25)] dark:shadow-[0_20px_50px_rgba(0,0,0,0.6)] transform rotate-[-3deg] group-hover:rotate-0 group-hover:scale-[1.03] lg:group-hover:scale-105 group-hover:-translate-y-4 transition-all duration-700 z-20">
-						<img src="/assets/images/apps/buildsnap/preview.png" alt="BuildSnap Web App" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] shadow-inner object-cover" loading="lazy" />
+						<img src={`${import.meta.env.BASE_URL}assets/images/apps/buildsnap/preview.png`} alt="BuildSnap Web App" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] shadow-inner object-cover" loading="lazy" />
 					</div>
 				</div>
                 

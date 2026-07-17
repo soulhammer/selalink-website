@@ -33,30 +33,30 @@ jobs:
         with:
           node-version: "22"
           cache: "npm"
-          cache-dependency-path: "./v3-app/package-lock.json"
+          cache-dependency-path: "./apps/studio/package-lock.json"
 
       - name: ⚡ Astro 빌드 에셋 캐싱 복원 및 저장 (node_modules/.astro)
         uses: actions/cache@v4
         with:
-          path: ./v3-app/node_modules/.astro
-          key: ${{ runner.os }}-astro-${{ hashFiles('v3-app/package-lock.json', 'v3-app/src/content/**') }}
+          path: ./apps/studio/node_modules/.astro
+          key: ${{ runner.os }}-astro-${{ hashFiles('apps/studio/package-lock.json', 'apps/studio/src/content/**') }}
           restore-keys: |
             ${{ runner.os }}-astro-
 
       - name: 📥 패키지 설치 (npm ci)
-        working-directory: ./v3-app
+        working-directory: ./apps/studio
         run: npm ci
 
       - name: 🏗️ Astro 사이트 빌드 (정적 HTML 렌더링)
-        working-directory: ./v3-app
+        working-directory: ./apps/studio
         run: npm run build
 
       - name: 🚀 빌드된 최종 산출물(dist)을 GitHub Pages 배포 준비 폴더로 업로드
         uses: actions/upload-pages-artifact@v3
         with:
-          # v3-app의 dist 안의 파일들만을 배포 타겟으로 지정합니다. 
+          # apps/studio의 dist 안의 파일들만을 배포 타겟으로 지정합니다. 
           # (이 덕분에 루트 폴더의 파일들이 섞이지 않고 완벽히 격리됩니다.)
-          path: ./v3-app/dist
+          path: ./apps/studio/dist
 
   deploy:
     name: "🌐 GitHub Pages로 라이브 배포"
