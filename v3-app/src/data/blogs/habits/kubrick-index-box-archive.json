@@ -1,0 +1,194 @@
+{
+  "kubrick-index-box-archive": {
+    "title": {
+      "ko": "외부 뇌(Second Brain)로 그리는 완벽함: 스탠리 큐브릭의 인덱스 카드 아카이빙 습관",
+      "en": "Designing Perfection with a Second Brain: Stanley Kubrick's Index Card Archiving Habit",
+      "ja": "外部脳（Second Brain）で描く完璧さ：スタンリー・キューブリックのインデックスカードアーカイブ習慣",
+      "zh": "用外部大脑（Second Brain）描绘完美：斯坦利·库布里克的索引卡归档习惯",
+      "es": "Diseñar la perfección con un segundo cerebro: el hábito de archivo de tarjetas de índice de Stanley Kubrick",
+      "fr": "Concevoir la perfection avec un second cerveau : l'habitude d'archivage sur fiches de Stanley Kubrick",
+      "de": "Perfektionierung mit einem zweiten Gehirn: Stanley Kubricks Karteikarten-Archivierungsgewohnheit",
+      "pt": "Projetar a perfeição com um segundo cérebro: o hábito de arquivamento de fichas de Stanley Kubrick",
+      "id": "Merancang Kesempurnaan dengan Otak Kedua: Kebiasaan Pengarsipan Kartu Indeks Stanley Kubrick"
+    },
+    "description": {
+      "ko": "완벽한 고증과 치밀한 연출을 자랑했던 영화감독 스탠리 큐브릭. 대뇌 전두엽의 기억 부하를 줄이고 수만 개의 정보 조각들을 연합하여 걸작을 창조해 낸 아카이빙 비결을 소개합니다.",
+      "en": "Stanley Kubrick was renowned for his flawless historical research and obsessive detail. Discover his archiving habit of using physical index cards to reduce working memory load and synthesize masterpieces.",
+      "ja": "完璧な歴史考証と緻密な演出を誇った映画監督スタンリー・キューブリック。大脳前頭葉の記憶負荷を減らし、数万個の情報のかけらを連合させて傑作を創造したアーカイブの秘訣を紹介します。",
+      "zh": "以完美考证和周密导演著称的电影导演斯坦利·库布里克。介绍他减轻大脑额叶记忆负荷，联合数万个信息碎片创造出杰作的归档秘诀。",
+      "es": "Stanley Kubrick fue famoso por su impecable investigación histórica y su obsesivo detalle. Descubra su hábito de archivar usando tarjetas físicas para reducir la carga de la memoria de trabajo y sintetizar obras maestras.",
+      "fr": "Stanley Kubrick était réputé pour ses recherches historiques impeccables et son souci obsessionnel du détail. Découvrez son habitude d'archivage utilisant des fiches physiques pour réduire la charge mentale.",
+      "de": "Stanley Kubrick war bekannt für seine makellose historische Recherche und seine obsessive Liebe zum Detail. Entdecken Sie seine Archivierungsgewohnheit, physische Karteikarten zu verwenden, um das Arbeitsgedächtnis zu entlasten.",
+      "pt": "Stanley Kubrick era famoso pela sua investigação histórica impecável e detalhe obsessivo. Descubra o seu hábito de arquivamento com fichas físicas para reduzir a carga da memória de trabalho e sintetizar obras-primas.",
+      "id": "Stanley Kubrick terkenal karena riset sejarahnya yang tanpa cela dan detail yang obsesif. Temukan kebiasaan pengarsipannya menggunakan kartu indeks fisik untuk mengurangi beban memori kerja."
+    },
+    "authority": {
+      "ko": "런던예술대학교(UAL) 스탠리 큐브릭 아카이브(Stanley Kubrick Archive) 공식 소장품 실태 보고서 및 인지신경과학의 정보 청킹(Chunking)과 인지 외재화(Cognitive Externalization) 효과",
+      "en": "University of the Arts London (UAL) Stanley Kubrick Archives and Cognitive Neuroscience Research on Information Chunking, Extended Mind Thesis, and Cognitive Offloading",
+      "ja": "ロンドン芸術大学（UAL）スタンリー・キューブリック・アーカイブ（Stanley Kubrick Archive）公式所蔵品実態報告書、および認知神経科学における情報のチャンキング（Chunking）と認知的外在化（Cognitive Externalization）効果の研究",
+      "zh": "伦敦艺术大学（UAL）斯坦利·库布里克档案馆（Stanley Kubrick Archive）官方馆藏实物报告及关于信息块化（Chunking）与认知外显化（Cognitive Externalization）效应的认知神经科学研究",
+      "es": "Archivos de Stanley Kubrick de la Universidad de las Artes de Londres (UAL) e investigación de neurociencia cognitiva sobre fragmentación de información, tesis de la mente extendida y descarga cognitiva",
+      "fr": "Archives Stanley Kubrick de l'Université des Arts de Londres (UAL) et recherches en neurosciences cognitives sur le fractionnement des informations, la théorie de l'esprit étendu et la décharge cognitive",
+      "de": "Stanley Kubrick Archives der University of the Arts London (UAL) und kognitionsneurowissenschaftliche Forschung zu Informations-Chunking, Theorie des erweiterten Geistes und kognitiver Entlastung",
+      "pt": "Arquivos de Stanley Kubrick da University of the Arts London (UAL) e investigação em neurociência cognitiva sobre a fragmentação da informação, tese da mente alargada e descarregamento cognitivo",
+      "id": "Arsip Stanley Kubrick University of the Arts London (UAL) dan Riset Neurosains Kognitif tentang Chunking Informasi, Tesis Pikiran yang Diperluas, dan Pelepasan Kognitif"
+    },
+    "intro": {
+      "ko": "『2001 스페이스 오디세이』, 『시계태엽 오렌지』, 『샤이닝』 등을 연출하며 현대 영화계의 시각 예술과 내러티브에 한 획을 그은 완벽주의 거장 스탠리 큐브릭. 그의 작품들은 미학적으로나 철학적으로 한 치의 빈틈도 없는 설계를 자랑합니다. 그가 이 방대한 세계관과 극단적인 연출 디테일을 조율할 수 있었던 진짜 비결은 그의 특별한 정리 습관에 있었습니다. 그는 평생 가로 3인치, 세로 5인치의 푸른 인덱스 카드에 영화 리서치 정보, 캐릭터 대사, 시각적 구도를 펜으로 정리하여 전용 오두막과 나무 상자에 카테고리별로 엄격하게 수납했습니다. 지식을 뇌 밖으로 배출해 의식의 여백을 확보했던 큐브릭의 아카이빙 시스템의 과학적 효과를 심층 분석합니다.",
+      "en": "Stanley Kubrick, the legendary American director behind masterpieces like 2001: A Space Odyssey and The Shining, was infamous for his extreme perfectionism and deep research. To manage the oceanic volume of historical documents, location photos, and script ideas, Kubrick developed an indexing system. He handwrote notes and structured ideas on 3x5-inch index cards, filing them systematically in custom-made wooden boxes. We analyze how offloading data from the brain to physical cards allowed Kubrick to preserve creative clarity and forge connections between unrelated concepts.",
+      "ja": "『2001年宇宙の旅』、『時計じかけのオレンジ』、『シャイニング』などを監督し、現代映画界の視覚芸術とナラティブに大きな足跡を残した完璧主義の巨匠スタンリー・キューブリック。彼の作品は、美学的にも哲学的にも一分の隙もない設計を誇っています。彼がこの膨大な世界観と極端な演出ディテールを制御できた本当の秘訣は、彼の特別な整理習慣にありました。彼は生涯、横3インチ、縦5インチの青いインデックスカードに映画のリサーチ情報、キャラクターの台詞、視覚的な構図をペンで整理し、専用の小屋や木箱にカテゴリ別で厳密に収納しました。知識を脳の外へ排出して意識の余白を確保したキューブリックのアーカイブシステムの科学的効果を詳細に分析します。",
+      "zh": "导演了《2001太空漫游》、《顺风车》、《闪灵》等影片，在现代电影界的视觉艺术与叙事手法上画下浓墨重彩一笔的完美主义大师斯坦利·库布里克。他的作品在美学和哲学层面上都展现出毫无破绽的严密设计。他能够协调这庞大的世界观和极端的导演细节，真正的秘诀在于其特殊的整理习惯。他一生都在宽3英寸、高5英寸的蓝色索引卡上用钢笔整理电影调研信息、角色台词、视觉构图，并将其严格按照类别收纳在专属木屋和木箱中。我们将深入分析库布里克将知识排空到大脑外部以确保意识留白的归档系统的科学效果。",
+      "es": "Stanley Kubrick, el legendario director estadounidense detrás de obras maestras como 2001: Odisea del espacio y El resplandor, era famoso por su extremo perfeccionismo y su profunda investigación. Para gestionar el volumen oceánico de documentos históricos, fotos de locaciones e ideas de guiones, Kubrick desarrolló un sistema de indexación. Escribía notas a mano y estructuraba ideas en tarjetas de índice de 3x5 pulgadas, archivándolas sistemáticamente en cajas de madera hechas a medida. Analizamos cómo la descarga de datos del cerebro a tarjetas físicas le permitió a Kubrick preservar la claridad creativa y forjar conexiones entre conceptos no relacionados.",
+      "fr": "Stanley Kubrick, le légendaire réalisateur américain à l'origine de chefs-d'œuvre comme 2001 : L'Odyssée de l'espace et Shining, était célèbre pour son perfectionnisme extrême et ses recherches approfondies. Pour gérer le volume impressionnant de documents historiques, de photos et d'idées de scénarios, Kubrick a développé un système d'indexation. Il écrivait des notes à la main sur des fiches de 3x5 pouces, les classant systématiquement dans des boîtes en bois. Nous analysons comment la décharge de données du cerveau vers des fiches physiques a permis à Kubrick de préserver sa clarté créative.",
+      "de": "Stanley Kubrick, der legendäre amerikanische Regisseur hinter Meisterwerken wie 2001: Odyssee im Weltraum und Shining, war berüchtigt für seinen extremen Perfektionismus und seine tiefgehende Recherche. Um die Flut an historischen Dokumenten, Drehortfotos und Drehbuchideen zu bewältigen, entwickelte Kubrick ein Karteisystem. Er schrieb Notizen und strukturierte Ideen auf Karteikarten im Format 3x5 Zoll und ordnete sie systematisch in maßgefertigten Holzkisten. Wir analysieren, wie das Auslagern von Daten aus dem Gehirn auf physische Karten es Kubrick ermöglichte, kreative Klarheit zu bewahren.",
+      "pt": "Stanley Kubrick, o lendário realizador americano por detrás de obras-primas como 2001: Odisseia no Espaço e O Iluminado, era famoso pelo seu extremo perfeccionismo e profunda investigação. Para gerir o volume oceânico de documentos históricos, fotos de locais e ideias de guião, Kubrick desenvolveu um sistema de indexação. Ele escrevia notas à mão e estruturava ideias em fichas de 3x5 polegadas, arquivando-as sistematicamente em caixas de madeira feitas à medida. Analisamos como o descarregamento de dados do cérebro para fichas físicas permitiu a Kubrick preservar a clareza criativa.",
+      "id": "Stanley Kubrick, sutradara legendaris Amerika di balik mahakarya seperti 2001: A Space Odyssey dan The Shining, terkenal karena kesempurnaan ekstrem dan riset mendalamnya. Untuk mengelola dokumen sejarah yang sangat banyak, foto lokasi, dan ide naskah, Kubrick mengembangkan sistem pengindeksan. Dia menulis catatan dan menyusun ide pada kartu indeks berukuran 3x5 inci, mengajukannya secara sistematis dalam kotak kayu buatan khusus. Kami menganalisis bagaimana memindahkan data dari otak ke kartu fisik memungkinkan Kubrick menjaga kejelasan kreatif."
+    },
+    "whyTitle": {
+      "ko": "작업 기억(Working Memory)의 외재화와 정보 청킹",
+      "en": "Externalization of Working Memory and Information Chunking",
+      "ja": "ワーキングメモリ（Working Memory）の外在化と情報のチャンキング",
+      "zh": "工作记忆（Working Memory）外显化与信息块化",
+      "es": "Externalización de la memoria de trabajo y fragmentación de la información",
+      "fr": "Externalisation de la mémoire de travail et fractionnement des informations",
+      "de": "Auslagerung des Arbeitsgedächtnisses und Informations-Chunking",
+      "pt": "Externalização da Memória de Trabalho e Fragmentação da Informação",
+      "id": "Eksternalisasi Memori Kerja dan Chunking Informasi"
+    },
+    "whyDesc": {
+      "ko": "인지과학에 따르면 인간의 작업 기억(Working Memory) 용량은 일시적으로 4~7개 단위의 정보만 보존할 수 있습니다. 뇌에 너무 많은 기획이나 데이터를 억지로 담아두려 하면 인지 과부하(Cognitive Overload)가 걸려 새로운 아이디어를 창출하는 기능이 저하됩니다. 큐브릭의 인덱스 카드 작성은 뇌가 감당해야 할 저장 작업을 외부 물리 매체로 외재화(Cognitive Offloading)한 대표적 예시입니다. 정보를 작은 단편(Chunk)으로 구조화해 뇌 밖에 정리해두면 대뇌 피질은 암기 스트레스에서 해방되어, 카드 간의 예기치 못한 연결을 발견하고 거대한 논리적 설계를 완성하는 고차원 창의적 연산에만 에너지를 집중하게 됩니다.",
+      "en": "According to cognitive science, working memory has a strictly limited capacity, keeping only a few chunks of information active at one time. Forcing the brain to hold vast databases triggers cognitive overload, degrading the prefrontal cortex's ability to engage in complex creative synthesis. Kubrick's index cards served as a tool for cognitive offloading. By slicing thoughts into modular pieces and placing them on paper, he freed up executive processing resources. This allowed the brain's networks to focus on identifying novel associations and organizing macro-level structural designs.",
+      "ja": "認知科学によれば、人間のワーキングメモリ（Working Memory）の容量は、一時的に4〜7個の情報単位しか保存できません。脳にあまりにも多くの企画やデータを無理に詰め込もうとすると、認知過負荷（Cognitive Overload）が起こり、新しいアイデアを創出する機能が低下します。キューブリックのインデックスカード作成は、脳が負担すべき保存作業を外部の物理メディアへ外在化（Cognitive Offloading）した代表的な例です。情報を小さな断片（Chunk）に構造化して脳の外に整理しておけば、大脳皮質は暗記ストレスから解放され、カード間の予期せぬつながりを発見し、巨大な論理的設計を完成させる高次元の創造的な演算だけにエネルギーを集中できるようになります。",
+      "zh": "认知科学研究表明，人类工作记忆（Working Memory）的容量在同一时间只能储存4~7个信息单位。若强行将过多的企划或数据装入大脑，就会产生认知超载（Cognitive Overload），导致产出新创意的功能退化。库布里克制作索引卡，是将大脑所承担的储存工作外显化（Cognitive Offloading）到外部物理介质上的代表性实例。将信息结构化为小的信息块（Chunk）并在大脑外部进行整理，大脑皮层便能从记忆压力中解放出来，从而将所有精力投入到发现卡片之间意想不到的连接、构建庞大逻辑设计的更高层次的创造性运算中。",
+      "es": "Según la ciencia cognitiva, la memoria de trabajo tiene una capacidad estrictamente limitada, manteniendo solo unos pocos fragmentos de información activos a la vez. Forzar al cerebro a retener bases de datos masivas desencadena una sobrecarga cognitiva, degradando la capacidad de la corteza prefrontal para participar en una síntesis creativa compleja. Las tarjetas de índice de Kubrick sirvieron como una herramienta para la descarga cognitiva. Al dividir los pensamientos en piezas modulares y colocarlas en papel, liberó recursos de procesamiento ejecutivo. Esto permitió que las redes del cerebro se concentraran en identificar nuevas asociaciones y organizar diseños estructurales a macroescala.",
+      "fr": "Selon les sciences cognitives, la mémoire de travail a une capacité strictement limitée. Forcer le cerveau à retenir de vastes bases de données déclenche une surcharge cognitive, dégradant la capacité du cortex préfrontal à s'engager dans une synthèse créative complexe. Les fiches de Kubrick servaient d'outil de décharge cognitive. En découpant ses pensées en éléments modulaires et en les posant sur papier, il a libéré des ressources. Cela a permis aux réseaux cérébraux de se concentrer sur l'identification de nouvelles associations.",
+      "de": "Kognitionswissenschaften zufolge hat das Arbeitsgedächtnis eine streng begrenzte Kapazität und hält jeweils nur wenige Informationseinheiten aktiv. Wenn das Gehirn gezwungen wird, riesige Datenbanken zu speichern, führt dies zu einer kognitiven Überlastung und beeinträchtigt die Fähigkeit des präfrontalen Kortex, komplexe kreative Synthesen durchzuführen. Kubricks Karteikarten dienten als Werkzeug zur kognitiven Entlastung. Indem er Gedanken in modulare Teile zerlegte und auf Papier festhielt, setzte er Ressourcen für die Ausführung frei. Dadurch konnten sich die Netzwerke des Gehirns darauf konzentrieren, neue Assoziationen zu identifizieren.",
+      "pt": "De acordo com a ciência cognitiva, a memória de trabalho tem uma capacidade estritamente limitada, mantendo apenas alguns fragmentos de informação ativos de cada vez. Forçar o cérebro a reter bases de dados massivas desencadeia uma sobrecarga cognitiva, degradando a capacidade do córtex pré-frontal de se envolver em sínteses criativas complexas. As fichas de Kubrick serviram como uma ferramenta de descarregamento cognitivo. Ao dividir os pensamentos em partes modulares e colocá-las no papel, ele libertou recursos de processamento executivo. Isto permitiu que as redes cerebrais se concentrassem na identificação de novas associações.",
+      "id": "Menurut sains kognitif, memori kerja memiliki kapasitas yang sangat terbatas, hanya menjaga beberapa potongan informasi tetap aktif pada satu waktu. Memaksa otak untuk menahan database yang luas memicu kelebihan beban kognitif, menurunkan kemampuan korteks prefrontal untuk terlibat dalam sintesis kreatif yang kompleks. Kartu indeks Kubrick berfungsi sebagai alat untuk pelepasan kognitif. Dengan mengiris pikiran menjadi potongan-potongan modular dan menempatkannya di atas kertas, dia membebaskan sumber daya pemrosesan eksekutif."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
+    },
+    "cautionDesc": {
+      "ko": "아카이빙 습관을 시작할 때 범하기 쉬운 과오는 수집한 정보를 가공하지 않고 카드에 그대로 옮겨 적거나 무조건 많이 복사해 두는 것입니다. 자신의 언어로 재해석하여 요약하지 않은 원본 텍스트의 단순 나열은 뇌로 하여금 정보를 이해했다는 인지 왜곡인 메타인지 오류를 범하게 만듭니다. 핵심은 1장의 카드에는 오직 1개의 개념(One Card, One Idea)만 담아야 하며, 글씨는 2문장 내외로 압축해 자신의 쉬운 언어로 요약해야 합니다. 정보의 밀도가 극도로 압축되어 시각적으로 한눈에 구조가 들어오는 카드 형태를 유지해야 뇌가 연합적 인지를 기민하게 수행할 수 있습니다.",
+      "en": "A common trap in personal archiving is copying massive walls of text onto cards without processing them. Accumulating unrefined quotes induces a meta-cognitive illusion of competence, where the brain mistakes having the data for understanding it. The ironclad rule is one card, one idea. Keep sentences short and translate the insight into your own simplified words. Visual scannability is essential; the brain must be able to comprehend the modular concept at a glance to enable rapid cross-referencing and creative synthesis.",
+      "ja": "アーカイブ習慣を始めるときに陥りやすい誤りは、収集した情報を加工せずにそのままカードに書き写したり、無条件にたくさんコピーして残しておくことです。自分の言葉で再解釈して要約していない原文テキストの単純な羅列は、脳に「情報を理解した」という認知の歪み（メタ認知エラー）を引き起こします。肝心なのは、1枚のカードにはただ一つの概念（One Card, One Idea）だけを盛り込み、文章は2文前後に圧縮して、自分の分かりやすい言葉で要約することです。情報の密度が極限まで圧縮され、視覚的に一目で構造がわかるカード形式を維持してこそ、脳が連合的認知を機敏に遂行できるようになります。",
+      "zh": "开始建立归档习惯时，容易犯的错误是不对收集到的信息进行加工，直接搬运到卡片上或者盲目进行大量复制。如果不通过自己的语言重新解读并提炼摘要，仅仅单纯罗列原始文本，大脑就会产生已理解该信息的认知歪曲，即元认知错误。关键在于，一张卡片只能包含一个概念（即“一卡一想法”原则），字数应压缩在2句话左右，并用自己易懂的语言总结。必须维持信息密度极度压缩、视觉上能一眼看清结构的卡片形式，大脑才能灵敏地执行联合认知。",
+      "es": "Una trampa común en el archivo personal es copiar enormes bloques de texto en las tarjetas sin procesarlos. Acumular citas sin refinar induce una ilusión metacognitiva de competencia, donde el cerebro confunde tener los datos con comprenderlos. La regla estricta es una tarjeta, una idea. Mantenga las oraciones cortas y traduzca la información a sus propias palabras simplificadas. La capacidad de escaneo visual es esencial; el cerebro debe poder comprender el concepto modular de un vistazo para permitir una referencia cruzada rápida y una síntesis creativa.",
+      "fr": "Un piège courant dans l'archivage personnel consiste à copier des blocs de texte entiers sur des fiches sans les traiter. Accumuler des citations non reformulées induit une illusion métacognitive de compétence. La règle d'or est une fiche, une idée. Rédigez des phrases courtes et reformulez l'information avec vos propres mots. La lisibilité visuelle est essentielle ; le cerveau doit pouvoir comprendre le concept modulaire en un coup d'œil.",
+      "de": "Eine häufige Falle beim persönlichen Archivieren besteht darin, riesige Textwände ungefiltert auf Karten zu kopieren. Das Anhäufen ungefilterter Zitate führt zu einer metakognitiven Kompetenzillusion, bei der das Gehirn das Vorhandensein von Daten mit deren Verständnis verwechselt. Die eiserne Regel lautet: Eine Karte, eine Idee. Halten Sie Sätze kurz und übersetzen Sie die Erkenntnis in Ihre eigenen, vereinfachten Worte. Visuelle Scanbarkeit ist unerlässlich; das Gehirn muss das modulare Konzept auf einen Blick erfassen können.",
+      "pt": "Uma armadilha comum no arquivamento pessoal é copiar enormes blocos de texto para as fichas sem os processar. Acumular citações não refinadas induz uma ilusão metacognitiva de competência, onde o cérebro confunde ter os dados com compreendê-los. A regra de ouro é uma ficha, uma ideia. Mantenha as frases curtas e traduza a informação para as suas próprias palavras simplificadas. A capacidade de leitura visual é essencial; o cérebro deve ser capaz de compreender o conceito modular num relance para permitir referências cruzadas rápidas.",
+      "id": "Jebakan umum dalam pengarsipan pribadi adalah menyalin teks dalam jumlah besar ke kartu tanpa memprosesnya. Mengakumulasi kutipan yang tidak diolah memicu ilusi kompetensi metakognitif, di mana otak salah mengira memiliki data sebagai memahaminya. Aturan mutlaknya adalah satu kartu, satu ide. Singkat kalimat dan terjemahkan wawasan ke dalam kata-kata sederhana Anda sendiri."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "단위 아이디어의 카드 기입",
+          "en": "Writing Modular Ideas on Cards",
+          "ja": "単位アイデアのカード記入",
+          "zh": "单位想法的卡片记录",
+          "es": "Escribir ideas modulares en tarjetas",
+          "fr": "Écrire des idées modulaires sur des fiches",
+          "de": "Modulare Ideen auf Karten schreiben",
+          "pt": "Escrever Ideias Modulares em Fichas",
+          "id": "Menulis Ide Modular pada Kartu"
+        },
+        "text": {
+          "ko": "리서치를 하거나 책을 읽던 중 중요한 팩트나 영감이 떠오르면, 가로세로가 한 뼘 크기인 소형 카드에 수기로 적습니다. 카드 상단에는 핵심 주제어(태그)를 적고, 본문에는 누구나 알 수 있는 쉬운 용어로 2문장 내외의 요약을 작성합니다.",
+          "en": "When a key insight or piece of research strikes, write it down manually on a single index card. Place a broad conceptual tag at the top, and summarize the insight in two sentences below.",
+          "ja": "リサーチをしたり本を読んだりしている最中に、重要な事実やインスピレーションが浮かんだら、縦横が手のひら大の小型カードに手書きで記入します。カードの上部に主要なテーマ（タグ）を書き、本文には誰でも理解できる簡単な言葉で2文前後の要約を書きます。",
+          "zh": "在进行调研或阅读书籍时，如果想到重要的事实或灵感，请用手写方式记录在一张巴掌大小的小卡片上。卡片上方写上核心主题词（标签），正文用通俗易懂的语言写下2句话左右的总结。",
+          "es": "Cuando surja una idea clave o una pieza de investigación, escríbala manualmente en una sola tarjeta de índice. Coloque una etiqueta conceptual amplia en la parte superior y resuma la idea en dos oraciones a continuación.",
+          "fr": "Lorsqu'une idée clé ou un élément de recherche se présente, notez-le à la main sur une fiche. Placez un mot-clé général en haut de la fiche et résumez l'idée en deux phrases en dessous.",
+          "de": "Wenn Ihnen eine wichtige Erkenntnis oder ein Forschungsergebnis auffällt, schreiben Sie es manuell auf eine einzelne Karteikarte. Fügen Sie oben ein allgemeines Schlagwort hinzu und fassen Sie die Erkenntnis unten in zwei Sätzen zusammen.",
+          "pt": "Quando surgir uma ideia-chave ou uma pesquisa, escreva-a manualmente numa única ficha. Coloque uma etiqueta conceptual ampla no topo e resuma a ideia em duas frases abaixo.",
+          "id": "Ketika wawasan kunci atau hasil riset muncul, tuliskan secara manual pada satu kartu indeks. Tempatkan tag konseptual yang luas di bagian atas, dan rangkum wawasan tersebut dalam dua kalimat di bawahnya."
+        }
+      },
+      {
+        "name": {
+          "ko": "카테고리별 상자 분할 수납",
+          "en": "Filing Cards Into Divided Boxes",
+          "ja": "カテゴリ別ボックスへの分割収納",
+          "zh": "按类别分箱收纳",
+          "es": "Archivar tarjetas en cajas divididas",
+          "fr": "Classer les fiches dans des boîtes divisées",
+          "de": "Karten in unterteilten Kisten ablegen",
+          "pt": "Arquivar Fichas em Caixas Divididas",
+          "id": "Mengarsipkan Kartu ke dalam Kotak Terbagi"
+        },
+        "text": {
+          "ko": "작성된 카드를 사전에 분류된 수납 상자(예: 아이디어, 자료, 논리, 실행)에 라벨에 따라 기계적으로 격리하여 꽂아 둡니다. 카드가 일정 수량(50장 이상) 누적될 때까지는 분류 체계를 과하게 복잡하게 나누지 말고 대분류를 유지합니다.",
+          "en": "File your finished cards into a dedicated container organized by major categories (e.g., Ideas, Research, Actions). Avoid overcomplicating your taxonomy early on; stick to simple divisions until your collection grows past 50 cards.",
+          "ja": "作成したカードを、事前に分類された収納ボックス（例：アイデア、資料、論理、実行）のラベルに従って機械的に整理して収めます。カードが一定数（50枚以上）蓄積するまでは、分類体系を複雑にしすぎず、大分類を維持します。",
+          "zh": "将写好的卡片根据标签机械地隔离存放至预先分类好的收纳箱（如：想法、资料、逻辑、执行）中。在卡片积累到一定数量（50张以上）之前，不要过度细分分类体系，保持粗线条大类即可。",
+          "es": "Archive sus tarjetas terminadas en un contenedor dedicado organizado por categorías principales (por ejemplo, Ideas, Investigación, Acciones). Evite complicar demasiado su taxonomía al principio; limítese a divisiones simples hasta que su colección supere las 50 tarjetas.",
+          "fr": "Classez vos fiches terminées dans un conteneur dédié organisé par grandes catégories (par exemple, Idées, Recherches, Actions). Évitez de trop compliquer votre classification au début ; tenez-vous-en à des divisions simples.",
+          "de": "Legen Sie Ihre fertigen Karten in einem speziellen Behälter ab, der nach Hauptkategorien (z. B. Ideen, Forschung, Aktionen) organisiert ist. Vermeiden Sie es, Ihre Systematik anfangs zu kompliziert zu gestalten; bleiben Sie bei einfachen Unterteilungen, bis Ihre Sammlung auf über 50 Karten anwächst.",
+          "pt": "Arquive as suas fichas concluídas num recipiente dedicado, organizado pelas categorias principais (por exemplo, Ideias, Pesquisa, Ações). Evite complicar demasiado a sua taxonomia no início; limite-se a divisões simples até que a sua coleção passe das 50 fichas.",
+          "id": "Simpan kartu yang sudah selesai ke dalam wadah khusus yang diatur berdasarkan kategori utama (misalnya, Ide, Riset, Tindakan). Hindari mempersulit taksonomi Anda di awal; gunakan pembagian sederhana sampai koleksi Anda melebihi 50 kartu."
+        }
+      },
+      {
+        "name": {
+          "ko": "무작위 카드 셔플과 창의적 연결",
+          "en": "Random Shuffling and Associative Synthesis",
+          "ja": "ランダムなカードシャッフルと創造的結合",
+          "zh": "随机洗卡与创意连接",
+          "es": "Barajado aleatorio y síntesis asociativa",
+          "fr": "Mélange aléatoire et synthèse associative",
+          "de": "Zufälliges Mischen und assoziative Synthese",
+          "pt": "Baralho Aleatório e Síntese Associativa",
+          "id": "Pengocokan Acak dan Sintesis Asosiatif"
+        },
+        "text": {
+          "ko": "매주 1회, 수납 상자에서 무작위로 3~5장의 카드를 무작위로 꺼냅니다. 완전히 무관한 분야의 카드들을 책상 위에 늘어놓고 이를 억지로 융합하여 새로운 프로젝트 아이디어나 글쓰기의 소재를 도출하는 셔플링 연합 인지를 수행합니다.",
+          "en": "Once a week, retrieve 3 to 5 random cards from different folders. Lay them side by side on your desk and force your brain to find connections between these unrelated fragments to trigger unique insights.",
+          "ja": "週に1回、収納ボックスからランダムに3〜5枚のカードを取り出します。完全に無関係な分野のカードをデスクの上に並べ、それらを無理やり融合させて新しいプロジェクトのアイデアや執筆のネタを導き出す、シャッフル連想認知を行います。",
+          "zh": "每周一次，从收纳箱中随机抽取3~5张卡片。将完全无关领域的卡片平铺在桌面上，强行将它们融合成一个新的项目创意或写作题材，进行洗牌联合认知。",
+          "es": "Una vez a la semana, recupere de 3 a 5 tarjetas aleatorias de diferentes carpetas. Colóquelas una al lado de la otra en su escritorio y obligue a su cerebro a encontrar conexiones entre estos fragmentos no relacionados para generar ideas únicas.",
+          "fr": "Une fois par semaine, tirez 3 à 5 fiches au hasard dans différents dossiers. Posez-les côte à côte sur votre bureau et forcez votre cerveau à trouver des liens entre ces fragments non liés pour susciter des idées.",
+          "de": "Holen Sie einmal pro Woche 3 bis 5 zufällige Karten aus verschiedenen Ordnern. Legen Sie sie nebeneinander auf Ihren Schreibtisch und zwingen Sie Ihr Gehirn, Verbindungen zwischen diesen nicht zusammenhängenden Fragmenten zu finden.",
+          "pt": "Uma vez por semana, retire 3 a 5 fichas aleatórias de pastas diferentes. Coloque-as lado a lado na sua secretária e force o seu cérebro a encontrar ligações entre estes fragmentos não relacionados para gerar ideias únicas.",
+          "id": "Sekali seminggu, ambil 3 hingga 5 kartu acak dari folder yang berbeda. Letakkan berdampingan di meja Anda dan paksa otak Anda untuk menemukan hubungan antara fragmen-fragmen yang tidak terkait ini."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "종이 카드 대신 스마트폰 어플이나 컴퓨터 메모장을 써도 되나요?",
+          "en": "Can I use digital apps like Notion or Obsidian instead of physical cards?",
+          "ja": "紙のカードの代わりにスマートフォンのアプリやPCのメモ帳を使ってもいいですか？",
+          "zh": "可以用手机应用或电脑记事本代替纸质卡片吗？",
+          "es": "¿Puedo utilizar aplicaciones digitales como Notion u Obsidian en lugar de tarjetas físicas?",
+          "fr": "Puis-je utiliser des applications numériques comme Notion ou Obsidian à la place des fiches physiques ?",
+          "de": "Kann ich anstelle physischer Karten auch digitale Apps wie Notion oder Obsidian verwenden?",
+          "pt": "Posso utilizar aplicações digitais como o Notion ou o Obsidian em vez de fichas físicas?",
+          "id": "Bisakah saya menggunakan aplikasi digital seperti Notion atau Obsidian alih-alih kartu fisik?"
+        },
+        "answer": {
+          "ko": "네, 노션이나 옵시디언, 혹은 다이내믹 노트 툴을 활용해도 아주 훌륭한 세컨드 브레인을 만들 수 있습니다. 중요한 것은 도구의 매체가 아니라 한 페이지에는 단 하나의 명확한 생각 조각만 담는 '모듈성 원칙'과 폴더에 가둬두지 않고 끊임없이 정보를 믹스하는 '연결성 원칙'을 유지하는 것입니다.",
+          "en": "Yes, digital tools like Notion or Obsidian are excellent for building a second brain. The medium is less important than adhering to the modular principle: keep each note limited to a single concept, and actively link notes together rather than burying them inside isolated folders.",
+          "ja": "はい、NotionやObsidian、あるいはダイナミックなノートツールを活用しても、非常に素晴らしいセカンドブレインを作ることができます。重要なのはツールの媒体ではなく、1つのページにはただ一つの明確な思考の断片だけを盛り込む「モジュール性原則」と、フォルダに閉じ込めずに絶えず情報をミックスする「連結性原則」を維持することです。",
+          "zh": "当然可以。利用Notion、Obsidian或动态笔记本工具，同样能打造出非常出色的“第二大脑”。重要的不是工具载体，而是坚持在一页上只记录碎片想法的“模块化原则”，以及不把信息锁在文件夹里、不断将其混合联通的“连接性原则”。",
+          "es": "Sí, las herramientas digitales como Notion u Obsidian son excelentes para construir un segundo cerebro. El medio es menos importante que adherirse al principio modular: mantenga cada nota limitada a un solo concepto y vincule activamente las notas entre sí en lugar de enterrarlas dentro de carpetas aisladas.",
+          "fr": "Oui, les outils numériques comme Notion ou Obsidian sont excellents pour construire un second cerveau. Le support importe moins que le respect du principe modulaire : limitez chaque note à un seul concept et reliez-les activement entre elles.",
+          "de": "Ja, digitale Tools wie Notion oder Obsidian eignen sich hervorragend für den Aufbau eines zweiten Gehirns. Das Medium ist weniger wichtig als die Einhaltung des modularen Prinzips: Beschränken Sie jede Notiz auf ein einziges Konzept und verknüpfen Sie Notizen aktiv miteinander, anstatt sie in isolierten Ordnern zu vergraben.",
+          "pt": "Sim, ferramentas digitais como o Notion ou o Obsidian são excelentes para construir um segundo cérebro. O suporte é menos importante do que a adesão ao princípio modular: limite cada nota a um único conceito e ligue ativamente as notas entre si em vez de as enterrar em pastas isoladas.",
+          "id": "Ya, alat digital seperti Notion atau Obsidian sangat baik untuk membangun otak kedua. Mediumnya kurang penting dibandingkan dengan mematuhi prinsip modular: batasi setiap catatan pada satu konsep saja, dan hubungkan catatan secara aktif."
+        }
+      }
+    ],
+    "pubDate": "2026-03-18",
+    "updatedDate": "2026-03-18"
+  }
+}

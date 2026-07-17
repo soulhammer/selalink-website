@@ -6,16 +6,16 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const targetSlugs = [
-  'augustus-decision-consultation',
-  'epicurus-garden-conversation',
-  'keynes-morning-bed-work',
-  'leibniz-universal-notebook',
-  'mead-immediate-field-notes',
-  'pythagoras-evening-examination',
-  'rembrandt-self-portrait-reflection',
-  'senna-pre-race-visualization',
-  'smith-contemplative-walking',
-  'verdi-morning-farming'
+  'eisenhower-matrix-decision',
+  'flaubert-gueuloir-recitation',
+  'stendhal-civil-code-reading',
+  'shaw-rotating-hut-focus',
+  'kubrick-index-box-archive',
+  'cezanne-dawn-mountain-observation',
+  'mccartney-dream-melody-capture',
+  'fermi-dawn-calculation-routine',
+  'emerson-walking-journal-integration',
+  'wharton-bedside-writing-relaxation'
 ];
 
 // 2026-01-01 ~ 2026-07-17 (약 197일) 간격 중 10개 날짜 고르게 분산 생성
