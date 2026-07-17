@@ -35,6 +35,11 @@ jobs:
           cache: "npm"
           cache-dependency-path: "./apps/studio/package-lock.json"
 
+      - name: 🔑 구글 Indexing API 서비스 계정 인증 파일 임시 생성
+        run: |
+          mkdir -p apps/studio/secrets
+          echo '${{ secrets.GOOGLE_SERVICE_KEY }}' > apps/studio/secrets/google-service-key.json
+
       - name: ⚡ Astro 빌드 에셋 캐싱 복원 및 저장 (node_modules/.astro)
         uses: actions/cache@v4
         with:

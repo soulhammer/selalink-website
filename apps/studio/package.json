@@ -8,7 +8,7 @@
   "scripts": {
     "predev": "lsof -t -i:4321 | xargs kill -9 2>/dev/null || true",
     "dev": "astro dev",
-    "build": "node src/compile_habit_blogs.js && node src/compile_pet_blogs.js && node src/compile_storage_blogs.js && node src/check_blog_integrity.js && astro build && node src/check_translation_integrity.js",
+    "build": "node src/compile_habit_blogs.js && node src/compile_pet_blogs.js && node src/compile_storage_blogs.js && node src/check_blog_integrity.js && astro build && node src/check_translation_integrity.js && node src/submit_google_indexing.js",
     "preview": "astro preview",
     "astro": "astro",
     "test": "vitest run && playwright test",
@@ -23,6 +23,7 @@
     "@tailwindcss/typography": "^0.5.20",
     "@tailwindcss/vite": "^4.2.2",
     "astro": "^6.0.8",
+    "googleapis": "^173.0.0",
     "tailwindcss": "^4.2.2"
   },
   "devDependencies": {
