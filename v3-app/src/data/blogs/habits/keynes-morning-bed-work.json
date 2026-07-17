@@ -1,0 +1,129 @@
+{
+  "keynes-morning-bed-work": {
+    "title": {
+      "ko": "이불 속에서 쓰인 일반이론: 존 메이너드 케인스의 아침 침대 작업 습관",
+      "en": "General Theory Written Under the Blanket: John Maynard Keynes's Morning Bed Work Habit",
+      "ja": "布団の中で書かれた一般理論：ジョン・メイナード・ケインズの朝のベッド作業習慣",
+      "zh": "被窝里写就的《一般理论》：约翰·梅纳德·凯恩斯的清晨卧床工作习惯"
+    },
+    "description": {
+      "ko": "대공황을 극복한 거시경제학자이자 기상 직후 2시간 동안 침대 위에서 모든 원고를 집필했던 케인스. 기상 후 전두엽 각성을 주도하는 코르티솔 반응(CAR)을 활용해 집중력을 극대화하는 생산성의 비법을 소개합니다.",
+      "en": "Macroeconomist John Maynard Keynes wrote all his manuscripts in bed for 2 hours after waking. Discover how to leverage the cortisol awakening response (CAR) for peak focus.",
+      "ja": "大恐慌を克服したマクロ経済学者であり、起床直後の2時間、ベッドの上ですべての原稿を執筆したケインズ. 起床後に前頭葉の覚醒を促すコルチゾール反応（CAR）を活用し、集中力を極大化する生産性の秘訣を紹介します.",
+      "zh": "克服大萧条的宏观经济学家、在起床后最初两小时内于床榻上撰写所有手稿的凯恩斯。介绍利用起床后引导前额叶觉醒的皮质醇反应（CAR）来最大化专注力的生产力秘诀。"
+    },
+    "authority": {
+      "ko": "로버트 스키델스키 저 『존 메이너드 케인스(John Maynard Keynes: Hopes Betrayed)』 전기 고증 및 기상 각성 호르몬(CAR)과 기상 직후 단기 각성이 전두엽 인지 기능에 미치는 임상 뇌신경과학 연구",
+      "en": "Robert Skidelsky's 'John Maynard Keynes' and Neuroscientific Clinical Research on Cortisol Awakening Response (CAR) and Prefrontal Executive Functioning",
+      "ja": "ロバート・スキデルスキー著『ジョン・メイナード・ケインズ（John Maynard Keynes: Hopes Betrayed）』伝記的考証および起床覚醒ホルモン（CAR）と起床直後の短期覚醒が大脳前頭葉認知機能に及ぼす臨床脳神経科学研究",
+      "zh": "罗伯特·斯基德尔斯基著《约翰·梅纳德·凯恩斯传》事实考证及关于清晨觉醒荷尔蒙（CAR）与起初短期觉醒对大脑前额叶认知功能影响的临床脑神经科学研究"
+    },
+    "intro": {
+      "ko": "20세기 경제학의 판도를 바꾸고 거시경제의 틀을 마련하여 역사상 최악의 세계 대공황을 타개할 열쇠를 쥐어준 인물, 존 메이너드 케인스. 그는 학자이자 관료, 투자가로서 살인적인 스케줄을 처리했던 엄청난 생산성의 소유자였습니다. 그러나 그의 아침 풍경은 의외로 평화롭고 나른했습니다. 케인스는 잠에서 깬 뒤 즉시 이불을 박차고 일어나 서재로 향하지 않았습니다. 아침 8시경 비서가 신문과 보고서를 가져다주면, 침대에 기댄 채 약 2시간 동안 보고서를 분석하고 원고를 집필하는 집중 작업을 수행했습니다. 가장 맑은 전두엽 자원을 기상 직후 침대 위라는 차단된 공간에서 고스란히 쏟아부었던 케인스의 이불 속 업무 루틴의 뇌과학적 원리를 분석합니다.",
+      "en": "John Maynard Keynes, the figure who shifted the paradigm of 20th-century economics, established macroeconomics, and provided the key to overcoming the Great Depression, was a man of immense productivity. Yet his morning scene was surprisingly peaceful. Keynes did not leap out of bed at waking. When his secretary brought papers at 8 AM, he reclined in bed for 2 hours, analyzing data and writing manuscripts. We analyze the neurobiological principles of Keynes's morning bed work routine, who poured his freshest prefrontal resources into a distraction-free space.",
+      "ja": "20世紀の経済学の版図を変え、マクロ経済の枠組みを用意して、歴史上最悪の世界大恐慌を打開する鍵を握らせた人物、ジョン・メイナード・ケインズ. 彼は学者であり官僚、投資家として、殺的なスケジュールを処理した途方もない生産性の所有者でした. しかし彼の朝の風景は意外にも平和でだるそうでした. ケインズは目が覚めた後、すぐに布団を跳ね除けて起きて書斎に向かいませんでした. 朝8時頃、秘書が新聞や報告書を持ってくると、ベッドに寄りかかったまま約2時間、報告書を分析し原稿を執筆する集中作業を行いました.",
+      "zh": "约翰·梅纳德·凯恩斯，20世纪经济学巨人，奠定了宏观经济学的框架，并提供了克服大萧条的钥匙。作为学者、官员与投资家，他曾处理过极重的工作表，是拥有惊人生产力的人物。然而，防范了工作效率的流失。我们分析了凯恩斯清晨卧床工作常规的神经生物学原理。"
+    },
+    "whyTitle": {
+      "ko": "기상 각성 반응(CAR)과 전두엽 가용 에너지의 최적화",
+      "en": "Optimization of Cortisol Awakening Response (CAR) and Prefrontal Energy",
+      "ja": "起床覚醒反応（CAR）と前頭葉の利用可能エネルギーの最適化",
+      "zh": "清晨觉醒反应（CAR）与前额叶可用能量的优化"
+    },
+    "whyDesc": {
+      "ko": "잠에서 깬 직후 30~45분 동안, 인체는 기상 각성 반응(CAR)에 의해 부신에서 천연 활력 호르몬인 코르티솔 분비를 급증시킵니다. 이 시점은 하루 중 인지 필터의 개입 없이 창의적이고 심도 있는 논리 구조를 짤 수 있는 '골든 아워'입니다. 이때 스마트폰의 메일이나 메신저 같은 파편화된 요구 사항에 노출되면 CAR 에너지가 즉각 낭비됩니다. 케인스처럼 침대 안이라는 평온하고 변화 없는 자극 통제 환경에서 핵심 과제에 집중하면, 기상 후의 최고치 인지 능력을 온전히 중요한 집행 기능에 사용할 수 있게 됩니다.",
+      "en": "During the first 30 to 45 minutes after waking, the body surges cortisol, a natural vitality hormone, via the Cortisol Awakening Response (CAR). This window is the 'golden hour' when you can form creative and deep logical structures without cognitive interference. Accessing emails or messengers at this point immediately wastes this CAR energy. Focusing on key tasks in a quiet, zero-distraction environment like bed, as Keynes did, preserves this peak cognitive resource for executive function.",
+      "ja": "目覚めた直後の30〜45分の間、人体は起床覚醒反応（CAR）によって副腎から天然の活力ホルモンであるコルチゾールの分泌を急増させます. この時点は、一日のうちで認知フィルターの介入なしに創造的で深度のある論理構造を組むことができる「ゴールデンアワー」です. このときスマートフォンのメールやメッセンジャーのような断片化された要求事項に露出されると、CARエネルギーが即座に浪費されます. ケインズのようにベッドの中という平穏で変化のない刺激制御環境で核心課題に集中すると、起床後の最高値 of 認知能力を完全に重要な執行機能に使用できるようになります.",
+      "zh": "在刚醒来后的30~45分钟内，人体会由于清晨觉醒反应（CAR）而在肾上腺中激增天然活力荷尔蒙皮质醇的分泌。此时是一天中在没有认知过滤器干涉下，能够构建创造性且深层逻辑框架的“黄金时间”。如果在此时接触智能手机的邮件或微信等碎片化的需求信息，CAR能量会被瞬间浪费。像凯恩斯一样，在床被里这一平静且无变化的刺激控制环境中专注于核心任务，就可以将起床后的巅峰认知能力完全投入到关键的执行功能中。"
+    },
+    "whyDesc_2": {
+      "ko": "또한 침대에서 비스듬히 누운 자세로 일하는 것은 척추의 근육 피로를 일시적으로 덜어주어 뇌로 가야 할 물리적 신체 에너지를 보존하며, 긴 텍스트를 읽고 심도 깊은 기획서를 분석하는 데 필요한 높은 '안정적 인지 상태(Quiet Cognitive State)'를 지속하는 장점이 있습니다."
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议"
+    },
+    "cautionDesc": {
+      "ko": "아침 침대 집중 작업의 가장 큰 함정은, 침대에서 비스듬히 누워 일하다가 다시 깊은 잠(수면 관성으로의 복귀)에 빠져버리는 것입니다. 뇌가 완전히 깨기 전에 자세가 지나치게 평평해지면 수면 파동인 세타파(Theta)가 활성화되어 다시 졸음이 밀려옵니다. 따라서 침대 작업을 수행할 때는 머리와 등을 베개나 등받이에 비스듬히 45도 이상 단단히 세워 각성 상태를 뇌에 신호로 인지시켜야 하며, 최대 30분 내외로 시간을 한정해 집중해야 효과적입니다.",
+      "en": "The trap of bed work is falling back to sleep due to sleep inertia. If your posture is too flat before the brain is fully awake, theta waves activate, inducing sleepiness. Prop your head and back firmly up to at least 45 degrees against pillows to signal alertness to the brain, and limit the session to 30 minutes.",
+      "ja": "朝のベッド集中作業の最大の落とし穴は、ベッドで横になって仕事をしているうちに、再び深い眠り（睡眠慣性への復帰）に陥ってしまうことです. 脳が完全に覚醒する前に姿勢が平らになりすぎると、睡眠波動であるシータ波（Theta）が活性化され、再び眠気が押し寄せます. したがって、ベッド作業を行うときは、頭と背中を枕や背もたれに斜めに45度以上しっかりと立てて、覚醒状態を脳に信号として認識させなければならず、最大30分前後に時間を限定して集中することが効果的です.（Theta）",
+      "zh": "卧床专注工作的最大陷阱是，躺在床上工作时再次陷入熟睡（重回睡眠惰性）。在大脑完全清醒前，如果姿势过于平躺，会激活作为睡眠波的θ波（Theta），睡意会再次袭来。因此，进行卧床工作时，必须将头部和背部靠在枕头或靠背上，牢牢支起45度以上，以此向大脑发出觉醒状态的信号，并且将时间控制在最长30分钟左右方显成效。"
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "기상 직후 스마트폰 비활성화",
+          "en": "Deactivating Your Smartphone Immediately After Waking",
+          "ja": "起床直後のスマートフォンの非活性化",
+          "zh": "起床后立即禁用手机"
+        },
+        "text": {
+          "ko": "눈을 뜬 후 스마트폰의 화면을 절대 켜지 않고 손이 닿지 않는 곳에 물리적으로 격리해 둡니다.",
+          "en": "After opening your eyes, never turn on your smartphone screen and physically isolate it in a place out of reach.",
+          "ja": "目を開けた後、スマートフォンの画面を絶対にオンにせず、手の届かない場所に物理的に隔離しておきます.",
+          "zh": "睁开眼后，决不开启手机屏幕，将其物理隔离在手碰不到的地方。"
+        }
+      },
+      {
+        "name": {
+          "ko": "등받이 45도 이상 세우기",
+          "en": "Propping Your Back Up to at least 45 Degrees",
+          "ja": "背もたれを45度以上に立てる",
+          "zh": "将背部垫高45度以上"
+        },
+        "text": {
+          "ko": "베개나 쿠션을 침대 머리맡에 쌓아 머리와 등을 45도 이상 세워 기댄 자세를 취해 뇌에 각성 신호를 보냅니다.",
+          "en": "Stack pillows or cushions against the headboard to prop your head and back up at least 45 degrees, signaling alertness to the brain.",
+          "ja": "枕やクッションをベッドの頭元に積み上げ、頭と背中を45度以上立てて寄りかかる姿勢を取り、脳に覚醒信号を送ります.",
+          "zh": "在床头叠放枕头或靠垫，将头部和背部支撑成45度以上的意靠姿势，以此向大脑发出觉醒信号。"
+        }
+      },
+      {
+        "name": {
+          "ko": "침대 위 단일 핵심 과제 20분 해결",
+          "en": "Solving Just One Core Task in Bed for 20 Minutes",
+          "ja": "ベッドの上での単一核心課題の20分間での解決",
+          "zh": "卧床20分钟内解决单一核心任务"
+        },
+        "text": {
+          "ko": "미리 준비해 둔 기획서 분석이나 원고 집필 등 가장 뇌 에너지가 많이 소모되는 핵심 과제를 침대 위에서 20분간 몰입하여 해결합니다.",
+          "en": "Immerse yourself for 20 minutes in bed to solve your most brain-heavy task, such as analyzing a report or writing a manuscript prepared in advance.",
+          "ja": "あらかじめ用意しておいた企画書の分析や原稿執筆など、最も脳のエネルギーを消費する核心的な課題を、ベッドの上で20分間没頭して解決します.",
+          "zh": "在床上专注进行20分钟，解决最耗费脑力的核心任务——例如分析预先准备好的策划案或撰写手稿。"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "침대 위에서 작업할 때 척추나 관절 건강에 해롭지 않나요?",
+          "en": "Will working in bed harm my neck or back?",
+          "ja": "ベッドの上で作業するとき、脊椎や関節の健康に悪影響はありませんか？",
+          "zh": "卧床工作会伤害我的颈部或背部吗？"
+        },
+        "answer": {
+          "ko": "완전히 평평하게 누워서 고개를 숙이는 자세는 경추와 척추에 나쁜 영향을 줍니다. 따라서 머리와 등이 비스듬히 45도 이상 곧추세워지도록 큰 쿠션이나 등받이를 단단히 받쳐야 하며, 최대 30분 내외로 시간을 한정해 집중해야 건강과 생산성을 모두 챙길 수 있습니다.",
+          "en": "Yes, if you lie flat and crane your neck. Prop yourself up with sturdy pillows at a 45-degree angle, and limit your sessions to 30 minutes to stay healthy.",
+          "ja": "完全に平らに横になって頭を下げる姿勢は、頚椎や脊椎に悪い影響を与えます. したがって、頭と背中が斜めに45度以上まっすぐ起き上がるように、大きなクッションや背もたれをしっかりと支え、最大30分前後に時間を限定して集中することが、健康と生産性の両方を手に入れるポイントです.",
+          "zh": "是的，如果您平躺并低着头。用坚固的枕头将自己以45度角撑起，并将每次时间限制在30分钟内，以保持健康和效率。"
+        }
+      },
+      {
+        "question": {
+          "ko": "기상 직후 메일이나 메신저를 5분만 먼저 확인하고 시작하면 안 되나요?",
+          "en": "Can I check my emails for just 5 minutes before starting?",
+          "ja": "起床直後にメールやメッセンジャーを5分だけ先に確認してから始めてはいけませんか？",
+          "zh": "可以在开始工作前先收5分钟的电子邮件吗？"
+        },
+        "answer": {
+          "ko": "안 됩니다. 뇌가 파편화된 외부 요구 사항에 단 5분만 노출되어도, 기상 각성 반응(CAR)의 강력한 에너지가 즉각 분산 및 소실됩니다. 뇌가 가장 온전한 상태일 때 1순위 핵심 과제 하나를 끝내기 전까지는 스마트폰 전원을 켜지 않는 것이 핵심입니다.",
+          "en": "No. Even 5 minutes of scanning incoming alerts immediately scatters and wastes your CAR energy. Leave your phone off until your primary task is complete.",
+          "ja": "いけません. 脳が断片化された外部の要求事項にわずか5分でも露出されると、起床覚醒反応（CAR）の強力なエネルギーが即座に分散し消失します. 脳が最も健全な状態の時に第一優先順位の核心課題を一つ終わらせるまでは、スマートフォンの電源を入れないことが重要なポイントです.",
+          "zh": "绝对不行。即使只有5分钟暴露在零散的外部需求信息中，清晨觉醒反应（CAR）的强大能量也会瞬间消散。核心是在用大脑最健全的状态完成首要任务之前，决不打开智能手机电源。"
+        }
+      }
+    ]
+  }
+}

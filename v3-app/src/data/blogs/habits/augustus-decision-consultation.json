@@ -1,0 +1,126 @@
+{
+  "augustus-decision-consultation": {
+    "title": {
+      "ko": "천천히 서둘러 내린 황제의 결단: 아우구스투스의 다각도 조언 경청 습관",
+      "en": "The Emperor's Deliberate Decision: Augustus's Multi-perspective Consultation Habit",
+      "ja": "ゆっくり急いだ皇帝の決断：アウグストゥスの多角度的助言傾聴習慣",
+      "zh": "缓中求急的皇帝决断：奥古斯都的多维听取建议习惯"
+    },
+    "description": {
+      "ko": "시저의 암살 이후 독단 대신 마이케나스, 아그리파 등 참모들의 이견을 철저히 경청하여 결정을 단순화했던 로마 황제 아우구스투스. 최초의 판단을 맹신하는 확증 편향을 깨뜨리는 경청과 필터링의 뇌과학적 원리를 규명합니다.",
+      "en": "Roman Emperor Augustus simplified decisions by listening to contradictory inputs from advisors like Agrippa. Discover the neuroscience of how listening breaks confirmation bias.",
+      "ja": "シーザーの暗殺後、独断の代わりにマイケナスやアグリッパら参謀たちの異論を徹底的に傾聴し、決定を単純化したローマ皇帝アウグストゥス. 最初の判断を盲信する確証バイアスを打ち破る傾聴とフィルタリングの脳科学的原理を究明します。",
+      "zh": "在恺撒遇刺后，罗马皇帝奥古斯都并非独断专行，而是彻底倾听梅塞纳斯、阿格里巴等参谋的不同意见以简化决策。阐明打破盲信最初判断 of 确证偏差之倾听与过滤脑科学原理。"
+    },
+    "authority": {
+      "ko": "수토니우스 저 『황제전(The Lives of the Twelve Caesars)』 사료 기록 및 카너먼 & 트버스키의 휴리스틱과 의사결정 시 확증 편향(Confirmation Bias) 인지행동 연구 결과",
+      "en": "Suetonius's 'The Lives of the Twelve Caesars' and Daniel Kahneman's Research on Heuristics, System 2 Thinking, and Confirmation Bias Mitigation in Decision Making",
+      "ja": "スエトニウス著『皇帝伝（The Lives of the Twelve Caesars）』史料記録およびカーネマン＆トベルスキーによるヒューリスティクスと意思決定時の確証バイアス（Confirmation Bias）認知行動研究結果",
+      "zh": "苏维托尼乌斯著《罗马十二帝王传》史料记录及卡尼曼与特沃斯基关于启发法与决策时“确证偏差”的认知行为研究成果"
+    },
+    "intro": {
+      "ko": "로마 최초의 황제이자 백 년의 내전을 종식시키고 200년간 지속된 로마의 평화(Pax Romana)의 기틀을 마련한 아우구스투스. 그는 젊은 날 요절했던 양부 줄리어스 시저와 달리, 신체적으로 매우 병약했으며 특출난 군사적 재능도 없었습니다. 그러나 그는 로마 역사상 가장 오랜 기간 황좌를 지키며 제국을 번영시켰습니다. 그 비결은 그가 매번 중대 결정을 내릴 때 가동했던 '의사결정 전 다각도 조언 경청 루틴'이었습니다. 아우구스투스는 독단적 결정을 내리는 대신, 마이케나스(외교), 아그리파(군사) 등 최고의 전문가들을 곁에 두고 그들이 자유롭게 다른 의견을 제시하도록 부추겼습니다. 황제의 권위 뒤에 숨지 않고 참모들의 날카로운 이견을 이성적 필터로 활용한 아우구스투스의 현명한 의사결정 공식을 해부합니다.",
+      "en": "Augustus, the first Roman emperor who ended a century of civil war and laid the foundation for the 200-year Pax Romana. Unlike his adoptive father Julius Caesar, who died young, Augustus was physically weak and lacked exceptional military talent. Yet he ruled Rome longer than anyone, bringing prosperity. The secret was his 'pre-decision multi-perspective consultation routine.' Instead of making autocratic decisions, Augustus kept top experts like Maecenas and Agrippa close, encouraging them to raise dissenting views. We dissect Augustus's wise decision-making formula.",
+      "ja": "ローマ最初の皇帝であり、百年の内戦を終息させ、200年間持続したローマの平和（Pax Romana）の基礎を築いたアウグストゥス. 彼は若くして世を去った養父ジュリアス・シーザーとは異なり、身体的に非常に病弱で、際立った軍事的能力もありませんでした.  しかし彼はローマ史上最も長期間にわたり皇帝の座を守り、帝国を繁栄させました. その秘訣は、彼が重大な決断を下すたびに稼働させた「意思決定前の多角度的助言傾聴ルーティン」でした. 彼は自ら決定を下す前に、マイケナスやアグリッパなど周囲の参謀たちが自由に別意見を提示することを求め、それらを傾聴して最終判断を下しました.",
+      "zh": "在恺撒遇刺后，罗马皇帝奥古斯都并非独断专行，而是彻底倾听梅塞纳斯、阿格里巴等参谋的不同意见以简化决策。阐明打破盲信最初判断的“确证偏差”之倾听与过滤脑科学原理。"
+    },
+    "whyTitle": {
+      "ko": "확증 편향의 억제와 dlPFC 인지 필터의 작동 원리",
+      "en": "Suppression of Confirmation Bias and Activation of dlPFC Cognitive Filters",
+      "ja": "確証バイアスの抑制とdlPFC認知フィルターの作動原理",
+      "zh": "确证偏差抑制与dlPFC认知过滤器的运作原理"
+    },
+    "whyDesc": {
+      "ko": "인간의 뇌는 본능적으로 가장 먼저 떠오른 생각이나 호감을 정당화하려는 시스템 1(직관) 오류에 빠지기 쉽습니다. 아우구스투스처럼 자신의 결론에 이의를 제기할 수 있는 다각도의 전문가 피드백을 수용하면, 뇌는 의사 결정을 조절하는 '외측 전전두엽 피질(dlPFC)'을 자극해 정보의 논리적 틈새를 찾아내는 검증 필터를 작동시킵니다. 또한 갈등 조절 중추인 '전대상회(ACC)'를 연동시켜, 주관적 감정을 걷어내고 객관적 사실 데이터만을 구조화해 최선의 이성적 결정을 내릴 수 있게 돕습니다.",
+      "en": "The human brain is naturally prone to System 1 (intuitive) errors, justifying its first thought. Accepting diverse expert feedback that challenges your conclusion, like Augustus did, stimulates the dorsolateral prefrontal cortex (dlPFC) to run verification filters that find logical gaps in information. It also links the anterior cingulate cortex (ACC), clearing subjective emotion and structuring only objective data for the best rational decisions.",
+      "ja": "人間の脳は、本能的に最も早く浮かんだ考えや好感を正当化しようとする system 1（直観）のエラーに陥りやすいです. アウグストゥスのように自らの結論に異議を唱えることができる多角的な専門家のフィードバックを受け入れると、脳は意思決定を調節する「外側前頭前皮質（dlPFC）」を刺激し、情報の論理的な隙間を見つけ出す検証フィルターを作動させます. また、葛藤調節の中枢である「前帯状皮質（ACC）」を連動させ、主観的な感情を取り除き、客観的な事実データだけを構造化して最善の理性的決定を下せるよう助けます.",
+      "zh": "人类大脑本能地极易陷入试图将最先想到的点子或好感合理化的系统1（直觉）错误中。如果像奥古斯都一样，接纳能对自身结论提出异议的多维专家反馈，大脑就会刺激调节决策的“外侧前额叶皮层（dlPFC）”，启动寻找信息逻辑漏洞 of 验证过滤器。同时联动作为冲突调节点中心的“前扣带回（ACC）”，剥离主观情绪，仅对客观事实数据进行结构化整理，以此帮助做出最明智的理性决策。"
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议"
+    },
+    "cautionDesc": {
+      "ko": "조언 경청의 가장 큰 함정은 무분별한 의견 수집으로 인해 결정 장애(Analysis Paralysis)에 빠지는 것입니다. 지나치게 많은 익명의 사람들에게 의견을 구하면 인지적 과부하가 생겨 우선순위를 결정하지 못하고 혼란에 빠집니다. 의사결정을 할 때는 아우구스투스처럼 신뢰도가 확실히 입증된 소수의 전문가(마이케나스, 아그리파 등)로 자문단을 3명 이내로 제한해야 하며, 최종 결정과 책임은 철저히 자신이 지는 경계를 지켜야 합니다.",
+      "en": "The trap of this habit is falling into analysis paralysis due to random opinion gathering. Seeking inputs from too many people triggers cognitive overload and confusion. Tightly limit your advisory group to a maximum of 3 highly trusted experts, keeping the final decision and responsibility solely on yourself.",
+      "ja": "助言傾聴の最大の落とし穴は、無分別な意見収集によって決定障害（Analysis Paralysis）に陥ることです.  過度に多くの匿名の人々に意見を求めると、認知的過負荷が生じて優先順位を決定できず混乱に陥ります. 意思決定をするときは、アウグストゥスのように「信頼性が確実に証明された少数の専門家（マイケナス、アグリッパなど）」に諮問団を3人以内に制限しなければならず、最終決定と責任は徹底的に自分が負う境界を守らなければなりません.",
+      "zh": "听取建议的最大陷阱是，因盲目收集意见而陷入决策瘫痪（Analysis Paralysis）。如果向过多不知底细的人征求意见，会产生认知过载，导致无法确立优先级并陷入混乱。在决策时，应当像奥古斯都一样，将咨询团队限制在可信度已获确证的极少数专家（梅塞纳斯、阿格里巴等）（建议3人以内）中，并且必须严格坚守由自己承担最终决定与责任的界限。"
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "신뢰할 수 있는 3인의 자문위원 지정",
+          "en": "Designating 3 Highly Trusted Advisors",
+          "ja": "信頼できる3人の諮問委員の指定",
+          "zh": "指定三位值得信赖的咨询委员"
+        },
+        "text": {
+          "ko": "자신의 주관적 아집을 지적해 줄 수 있으며, 해당 의사결정 분야의 객관적인 전문성을 지닌 3인 이내의 참모를 선별합니다.",
+          "en": "Select a maximum of 3 advisors who have objective expertise in the decision-making field and are willing to challenge your subjective biases.",
+          "ja": "自らの主観的な我執を指摘してくれ、該当する意思決定分野の客観的な専門性を持つ3人以内の参謀を選定します.",
+          "zh": "甄选出能够指出自身主观固执、且在相关决策领域拥有客观专业能力的参谋，限制在3人以内。"
+        }
+      },
+      {
+        "name": {
+          "ko": "비대면 서면 피드백 접수",
+          "en": "Receiving Asynchronous Written Feedback",
+          "ja": "非対面書面フィードバックの回収",
+          "zh": "获取非面对面书面反馈"
+        },
+        "text": {
+          "ko": "대면 토론 시 발생하는 감정적 동조나 권위 압박을 피하기 위해, 결정안의 취약점을 적은 짧은 서면 피드백을 개별적으로 접수합니다.",
+          "en": "To avoid emotional conformity or authority pressure during face-to-face debates, receive brief written feedback detailing the decision's vulnerabilities asynchronously.",
+          "ja": "対面討論時に発生する感情的な同調や権威の圧迫を避けるため、決定案の脆弱性を書いた短い書面フィードバックを個別に回収します.",
+          "zh": "为避免面对面讨论时产生的情感盲从或权威施压，单独收集指明决策草案脆弱性的简短书面反馈。"
+        }
+      },
+      {
+        "name": {
+          "ko": "반대 인지 필터 적용 후 단순화 결정",
+          "en": "Applying Contrary Cognitive Filters and Simplifying Decisions",
+          "ja": "反対認知フィルターの適用後の単純化決定",
+          "zh": "应用对立认知过滤器后简化决策"
+        },
+        "text": {
+          "ko": "이견의 핵심 논리와 팩트를 자신의 결정안에 대조하고 취약점을 적극 보완한 뒤, 가장 실행력이 높은 최선의 결정을 내립니다.",
+          "en": "Compare the core logic and facts of the dissenting views with your decision, actively cover the vulnerabilities, and make the simplest, most actionable decision.",
+          "ja": "異論の核心的な論理と事実を自らの決定案と対照し、脆弱性を積極的に補完した後、最も実行力の高い最善の決定を下します.",
+          "zh": "将异议的核心逻辑与事实和自身的决策草案进行比对，积极补充脆弱环节，随后做出执行力最强的最佳决定。"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "동료들의 피드백을 들을 때 감정적으로 설득당하지 않으려면 어떻게 하나요?",
+          "en": "How can I avoid getting emotionally swayed by peer feedback?",
+          "ja": "同僚たちのフィードバックを聞くたびに感情的に説得されないようにするにはどうすればいいですか？",
+          "zh": "听取同行反馈时如何避免被情绪说服？"
+        },
+        "answer": {
+          "ko": "그래서 '비대면 서면 접수'가 유리합니다. 대면 미팅을 하면 권위나 동조 압력, 화술에 의해 감정적인 설득이 일어나기 쉽습니다. 참모들이 개별적으로 작성해 준 서면의 날카로운 논리와 팩트 데이터만을 따로 모아 분석해야 이성적으로 판단할 수 있습니다.",
+          "en": "This is why written feedback is key. Face-to-face meetings introduce groupthink and social pressure. Collecting written remarks lets you review raw logic and data rationally.",
+          "ja": "そのため「非対面書面受付」が有利です.  対面での打ち合わせを行うと、権威や同調圧力、話術によって感情的な説得が起こりやすくなります. 参謀たちが個別に作成してくれた書面の鋭い論理と事実データだけを別々に集めて分析してこそ、理性的に判断することができます.",
+          "zh": "这就是为什么书面反馈是关键。面对面的会议会引入群体思维和社交压力。收集书面意见可以让您理性地审查原始逻辑和数据。"
+        }
+      },
+      {
+        "question": {
+          "ko": "자문단의 인원은 어느 정도가 가장 적당한가요?",
+          "en": "What is the best size for this advisory group?",
+          "ja": "諮問委員会の人数はどれくらいが最も適当ですか？",
+          "zh": "咨询小组的最佳人数是多少？"
+        },
+        "answer": {
+          "ko": "최대 3명 이내를 강력하게 추천합니다. 인원이 늘어나면 정보의 과부하로 인해 결정을 짓지 못하는 결정 장애(Analysis Paralysis)가 발생합니다. 각 분야(예: 마케팅, 기술, 법률)를 대변하는 핵심 전문가 1명씩만 배치하여 자문을 수렴하십시오.",
+          "en": "Keep it to a maximum of 3. Larger numbers cause analysis paralysis. Select one core expert for each relevant domain (e.g., tech, business, legal) to collect inputs.",
+          "ja": "最大3人以内を強く推奨します. 人数が増えると情報の過負荷によって決定を下せない決定障害（Analysis Paralysis）が発生します. 各分野（例：マーケティング、技術、法律）を代表する核心的な専門家を1人ずつ配置して諮問の収集をしてください.",
+          "zh": "强烈建议控制在3人以内。人数增加会导致信息过载，从而产生无法做出决定的决策瘫痪（Analysis Paralysis）。为每个相关领域（例如技术、业务、法律）选择一名核心专家来收集意见。"
+        }
+      }
+    ]
+  }
+}

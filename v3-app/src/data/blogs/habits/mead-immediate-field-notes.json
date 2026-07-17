@@ -1,0 +1,126 @@
+{
+  "mead-immediate-field-notes": {
+    "title": {
+      "ko": "기억의 각색을 막는 기록: 마가렛 미드의 현장 즉각 메모 습관",
+      "en": "Notes That Prevent the Adaptation of Memory: Margaret Mead's Immediate Note-taking Habit",
+      "ja": "記憶の脚色を防ぐ記録：マーガレット・ミードの現場即時メモ習慣",
+      "zh": "防止记忆被粉饰的记录：玛格丽特·米德的现场即时笔记习惯"
+    },
+    "description": {
+      "ko": "기억이 왜곡되기 전 관찰한 사실을 현장에서 즉시 수첩에 받아적었던 인류학자 마가렛 미드. 뇌의 작업 기억 용량 한계를 극복하고 편향을 막아내는 '인지 오프로딩'의 신경학적 원리를 다룹니다.",
+      "en": "Anthropologist Margaret Mead wrote down observation facts on the spot before memory distorted. Explore the neuroscience of cognitive offloading to bypass working memory limits.",
+      "ja": "記憶が歪む前、観察した事実を現場で即座に手帳に書き留めた人類学者マーガレット・ミード. 脳の作業記憶の容量限界を克服し、偏向を防ぐ「認知オフローディング」の神経学的原理を扱います.",
+      "zh": "文化人类学家玛格丽特·米德在记忆发生指歪曲前，会在现场立即将观察到的事实记录在笔记本上。探讨克服大脑工作记忆容量限制并防止偏见的“认知卸载”神经学原理。"
+    },
+    "authority": {
+      "ko": "제인 하워드 저 『마가렛 미드의 생애(Margaret Mead: A Life)』 기록 분석 및 대뇌 작업 기억(Working Memory)의 한계와 인지 오프로딩(Cognitive Offloading) 신경인지과학 연구",
+      "en": "Jane Howard's 'Margaret Mead: A Life' and Neurocognitive Research on Working Memory Limitations and Cognitive Offloading (Storm & Stone, 2015)",
+      "ja": "ジェーン・ハワード著『マーガレット・ミードの生涯（Margaret Mead: A Life）』の記録分析および大脳作業記憶（Working Memory）の限界と認知オフローディング（Cognitive Offloading）の神経認知科学研究",
+      "zh": "简·霍华德著《玛格丽特·米德的一生》记录分析及关于大脑工作记忆（Working Memory）局限与认知卸载（Cognitive Offloading）的神经认知科学研究"
+    },
+    "intro": {
+      "ko": "20세기 인류학의 패러다임을 바꾸고 문화적 다양성을 옹호한 세계적인 문화인류학자 마가렛 미드. 그녀는 남태평양 사모아 섬 등 문명의 발길이 닿지 않은 곳에 수년간 머물며 원주민들의 행동 양식과 의식을 관찰했습니다. 미드의 저작들이 100년이 지난 지금도 최고의 정교함과 사실성을 인정받는 이유는 그녀만의 독특한 기록 공식에 있었습니다. 미드는 무언가를 관찰하면 단 1시간도 뒤로 미루지 않고, 현장에서 즉시 가방 속 미니 수첩을 꺼내 생생하게 기록했습니다. 기억의 주관적 왜곡을 원천 봉쇄했던 미드의 즉각 기록 메커니즘을 상세히 해부합니다.",
+      "en": "Margaret Mead, the world-renowned cultural anthropologist who shifted the paradigm of 20th-century anthropology, lived for years in remote areas like Samoa. The reason Mead's writings are recognized for their extreme accuracy even 100 years later was her unique note-taking formula. Staring at something, Mead never delayed even for an hour, pulling out a mini-notepad to write. We dissect Mead's immediate note-taking mechanism.",
+      "ja": "20世紀の人類学のパラダイムを変え、文化的多様性を提唱した世界的な文化人类学者マーガレット・ミード. 彼女は南太平洋のサモア島など文明の足跡が届かない場所に数年間滞在し、先住民たちの行動様式や儀式を観察しました. 彼の著作が100年経った今でも最高の精緻さと事実性を認められている理由は、彼女だけのユニークな記録公式にありました. 彼女は何かを観察すると、わずか1時間も後に引き延ばすことなく、現場で即座にバッグの中のミニ手帳を取り出して生き生きと記録しました. 記憶の主観的歪みを根底から封じ込めたミードの即時記録メカニズムを詳細に解剖します.",
+      "zh": "改变了二十世纪人类学范式、倡导文化多样性的世界级文化人类学家玛格丽特·米德。她曾在南太平洋萨摩亚群岛等文明尚未波及的偏远地区居住数年，观察原住民的行为模式和仪式。米德的著作在百年后的今天依然被公认为具有极高精细度与真实性，原因就在于她独特的记录公式。米德在观察到某些现象时，绝不会往后拖延哪怕一小时，而是在现场立即从包里拿出微型笔记本进行生动记录。详细剖析从源头上封锁记忆主观扭曲的米德即时记录机制。"
+    },
+    "whyTitle": {
+      "ko": "작업 기억의 한계와 인지 오프로딩(Cognitive Offloading)",
+      "en": "Limitations of Working Memory and Cognitive Offloading",
+      "ja": "作業記憶の限界と認知オフローディング（Cognitive Offloading）",
+      "zh": "工作记忆的局限与认知卸载（Cognitive Offloading）"
+    },
+    "whyDesc": {
+      "ko": "우리의 뇌는 새로운 정보를 입력받은 후 일시적인 '작업 기억(Working Memory)' 공간에 담아두지만, 이 공간은 7개 내외의 정보 조각만을 보존할 수 있을 정도로 용량이 작습니다. 시간이 지남에 따라 뇌는 누락된 정보를 자신의 스키마(기존 지식과 편향)에 맞춰 임의로 각색하고 재구성합니다. 미드처럼 현장에서 즉각 종이나 펜을 활용해 외부 기록 장치로 정보를 이동시키는 '인지 오프로딩'을 실행하면, 뇌는 주관적 기억 각색을 차단하고 뇌의 한계를 뛰어넘어 완벽한 객관성 데이터를 추출할 수 있게 됩니다.",
+      "en": "While our brain holds new information in temporary working memory, its capacity is limited to holding about 7 chunks. Over time, the brain fills gaps and reconstructs memory based on its schemas (existing bias). Transferring information immediately to an external recorder using pen and paper, like Mead did, triggers 'cognitive offloading' that blocks subjective memory distortion and captures objective data.",
+      "ja": "私たちの脳は新しい情報を入力された後、一時的な「作業記憶（Working Memory）」空間に収めておきますが、この空間は7個前後の情報のかたまりしか保存できないほど容量が小さいです. 時間の経過とともに、脳は抜け落ちた情報を自らのスキーマ（既存の知識や偏見）に合わせて任意に脚色し再構成します. ミードのように現場で即座に紙やペンを活用して外部記録装置に情報を移動させる「認知オフローディング」を実行すると、脳は主観的な記憶の脚色を遮断し、脳の限界を越えて完璧な客観性データを取り出すことができるようになります.",
+      "zh": "我们的大脑在接收新信息后，会将其储存在临时的“工作记忆”空间里，但该空间容量极小，仅能保存7个左右的信息片段。随着时间流逝，大脑会迎合自身的Schema（已有知识与偏见），对缺失的信息进行任意粉饰和重构。如果像米德一样，在现场立即利用纸笔将信息转移至外部记录介质上，即执行“认知卸载”，大脑就会阻断主观性的记忆美化，跨越大脑局限，导出客观数据。"
+    },
+    "cautionTitle": {
+      "ko": "주의사항 및 팁",
+      "en": "Precautions and Tips",
+      "ja": "注意事項とヒント",
+      "zh": "注意事项与建议"
+    },
+    "cautionDesc": {
+      "ko": "즉각 기록 습관을 실천할 때 흔히 저지르는 실수는, 완벽한 문장이나 깔끔한 보고서 형태로 정돈하여 적으려 하는 것입니다. 기록 과정에서 철자나 문맥, 정리를 지나치게 의식하면 뇌는 다시 언어 문법 및 교정 필터를 돌리느라 찰나의 날것 데이터를 가공하고 변형해 버립니다. 즉각 메모 시에는 오직 날것의 키워드, 어조, 핵심 사실만 빠르게 휘갈겨 적어야 하며, 예쁜 문장으로 다듬는 일은 주말이나 퇴근 직전의 '정리 단계'로 완벽히 분리해야 합니다.",
+      "en": "A common mistake of immediate note-taking is trying to write in perfect sentences or structured reports. Focusing too much on spelling and context during the process causes the brain to filter and transform the raw data. Write in raw keywords and facts, and leave polishing to a separate organization phase.",
+      "ja": "即時記録習慣を実践する際にありがちなミスは、完璧な文章や整った報告書の形で整理して書こうとすることです. 記録の過程でスペルや文脈、整理を過度に意識すると、脳は再び言語の文法や校正フィルターを回すため、刹那の生データを加工し変形してしまいます. 即時メモの際は、生のキーワード、口調、核心の事実だけを素早く殴り書きしなければならず、きれいな文章に整える仕事は、週末や退社直前の「整理段階」へ完全に分離する必要があります.",
+      "zh": "践行即时记录习惯时常犯的错误是，试图以完美的语句或整洁的报告形式进行整理记录。如果记录过程中过度关注拼写、上下文或排版，大脑为了启动语言语法及校正过滤器，反而会加工并篡改转瞬即逝的原始数据。即时记录时，应当只快速草拟原始关键词、语气和核心事实，把修饰为优美句子的工作完全剥离到周末或下班前的“整理阶段”。"
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "휴대용 기록 도구 상시 휴대",
+          "en": "Always Carrying Portable Recording Tools",
+          "ja": "携帯用記録ツールの常時携帯",
+          "zh": "常备随身记录工具"
+        },
+        "text": {
+          "ko": "주머니에 들어가는 작은 휴대용 수첩과 연필을 항상 소지하거나, 스마트폰 첫 화면에 원터치 메모 앱 위젯을 꺼내 둡니다.",
+          "en": "Always keep a small portable notepad and pencil in your pocket, or place a one-touch memo app widget on your smartphone's home screen.",
+          "ja": "ポケットに入る小さな携帯用手帳と鉛筆を常に携帯するか、スマートフォンの最初の画面にワンタッチメモアプリのウィジェットを出しておきます.",
+          "zh": "随身携带放得进兜里的小型笔记本和铅笔，或者在手机主屏幕上放置一键式备忘录应用的小组件。"
+        }
+      },
+      {
+        "name": {
+          "ko": "이벤트 직후 날것의 휘갈겨 적기",
+          "en": "Jotting Down Raw Data Immediately After an Event",
+          "ja": "イベント直後の生の殴り書き",
+          "zh": "事件发生后立即草拟原始数据"
+        },
+        "text": {
+          "ko": "중요한 대화나 관찰이 끝난 직후, 정리를 미루지 않고 1분 이내에 머릿속 날것의 정보(키워드, 핵심 팩트)를 빠르게 휘갈겨 씁니다.",
+          "en": "Immediately after an important conversation or observation, without delaying, write down the raw information (keywords, core facts) within 1 minute.",
+          "ja": "重要な会話や観察が終わった直後、整理を引き延ばすことなく1分以内に、頭の中の生の情報（キーワード、核心の事実）を素早く殴り書きします.",
+          "zh": "在重要的交谈或观察结束后，毫不拖延地在1分钟内快速写下脑海中的原始信息（关键词、核心事实）。"
+        }
+      },
+      {
+        "name": {
+          "ko": "일정 주기별 구조화 및 데이터 보관",
+          "en": "Periodic Structuring and Data Archiving",
+          "ja": "一定周期ごとの構造化とデータ保管",
+          "zh": "定期结构化与数据归档"
+        },
+        "text": {
+          "ko": "매일 저녁이나 주말의 고정된 시간에 휘갈겨 적은 메모를 분류하고, 영구 보관용 지식 노트 시스템으로 이관하여 구조화합니다.",
+          "en": "At a fixed time every evening or weekend, classify the jotted notes and transfer them to a permanent knowledge base to structure them.",
+          "ja": "毎晩または週末の固定された時間に、殴り書きしたメモを分類し、永久保管用の知識ノートシステムに移管して構造化します.",
+          "zh": "在每天傍晚或周末的固定时间，对草拟的笔记进行分类，并移至永久保存的知识笔记系统中进行结构化整理。"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "수첩 대신 스마트폰 메모 앱을 사용해도 무방한가요?",
+          "en": "Is it okay to use a smartphone memo app instead of a notepad?",
+          "ja": "手帳の代わりにスマートフォンのメモアプリを使用しても差し支えありませんか？",
+          "zh": "用手机备忘录代替笔记本可以吗？"
+        },
+        "answer": {
+          "ko": "가능합니다. 다만 스마트폰을 사용할 때는 다른 앱의 알림(메시지, SNS 등)에 주의를 빼앗기지 않도록 방해 금지 모드를 켜거나, 첫 화면에 바로 메모를 띄울 수 있는 위젯을 설정하여 기록 시간의 지연을 최소화해야 합니다.",
+          "en": "Yes. However, set your phone to Do Not Disturb to avoid notifications, or place a widget on the home screen to minimize input delay.",
+          "ja": "可能です. ただし、スマートフォンを使用するときは、他のアプリの通知（メッセージ、SNSなど）に注意を奪われないように、マナーモードにするか、最初の画面にすぐにメモを作成できるウィジェットを設定して、記録時間の遅延を最小限に抑える必要があります.",
+          "zh": "可以。但使用手机时开启免打扰模式，避免被社交媒体等应用通知分心，或在主屏幕上设置快捷组件，以将输入延迟降至最低。"
+        }
+      },
+      {
+        "question": {
+          "ko": "녹음기를 켜두고 나중에 모아서 적는 방법은 어떤가요?",
+          "en": "What about recording audio and transcribing it later?",
+          "ja": "ボイスレコーダーをオンにしておき、後でまとめて書き留める方法はどうですか？",
+          "zh": "录音并在此后进行整理的方法如何？"
+        },
+        "answer": {
+          "ko": "전체 녹음은 기록 누락을 줄여주지만, 나중에 수 시간을 다시 들어야 해서 작업 기억에 과부하를 줍니다. 관찰이나 회의 중 결정적인 순간에 핵심 키워드 중심의 손 기록을 병행하는 것이 뇌 신경 활성 및 정보 구조화에 더 효과적입니다.",
+          "en": "Audio recording helps capture details but causes working memory fatigue during transcription. Jotting down raw keywords during the event is much better for semantic mapping.",
+          "ja": "全体を録音することは記録漏れを減らしてくれますが、後で数時間聞き直さなければならないため、ワーキングメモリに負荷をかけます. 観察や会議中の決定的な瞬間に、核心のキーワードを中心とした手書きの記録を併行することが、脳の神経活性および情報の構造化に効果的です.",
+          "zh": "录音可以减少细节遗漏，但此后需要花费数小时重新收听，给工作记忆带来负担。在观察或会议期间手写记录核心关键词，更有利于大脑的神经网络构建和信息结构化。"
+        }
+      }
+    ]
+  }
+}
