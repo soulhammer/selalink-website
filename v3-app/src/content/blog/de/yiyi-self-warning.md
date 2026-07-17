@@ -21,11 +21,7 @@ faqs:
     answer: "Es ist am effektivsten, Ihre am schwersten zu kontrollierenden Schwächen (z. B. Abstand vom Smartphone halten, Pünktlichkeit) als positive, handlungsbasierte Sätze zu formulieren, um klare Reize an das Gehirn zu senden."
 ---
 
-Yi I, the great Neo-Confucian scholar and politician of mid-Joseon, passed all nine state exams with top honors, earning him the title 'Gudojangwongong.' Behind his stellar achievements was the 'Jakyungmun' (Self-Warning Letter), a guide he wrote at age 20 to end his wandering after the death of his mother, Shin Saimdang. 📜
-
-Through Jakyungmun, Yi I structured his day, set principles for relationships and emotional control, and read it aloud every morning. This is a neuroscientific mechanism to enhance goal-directed attention control.
-
-Today, BuildSelf uncovers the cognitive science value of Yi I's morning self-warning routine and proposes a 3-step action guide for modern people to maintain autonomy and practice daily goals.
+Yi I schrieb 11 persönliche Selbstwarnregeln und las sie jeden Morgen, um sein Verhalten zu regulieren. Dies stärkte seine Selbstbeherrschung.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -43,9 +39,7 @@ Today, BuildSelf uncovers the cognitive science value of Yi I's morning self-war
 
 ## 1. Selbstreferenz-Effekt und Neurobiologie zielgerichteter Deklarationen
 
-In brain science, the Self-Reference Effect refers to the phenomenon where processing new information by linking it to oneself activates the medial prefrontal cortex (mPFC), leading to stronger memory and value internalization. Yi I reading rules bearing his name and code of conduct every morning was a process of reinforcing this neural pathway.
-
-Reading and injecting self-made principles into the brain every morning activates the cognitive control network. It functions as cognitive navigation, helping suppress impulses and make decisions aligned with long-term goals and discipline amid daily stimuli and temptations.
+Das Lesen klarer Ziele am Morgen aktiviert das exekutive Kontrollnetzwerk des Gehirns und festigt die Vorsätze, was hilft, kurzfristigen Ablenkungen zu widerstehen.
 
 ---
 
@@ -88,7 +82,7 @@ Reading and injecting self-made principles into the brain every morning activate
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Wichtiger als das Aufstellen von Prinzipien ist die Ehrlichkeit, sich jeden Morgen an sie zu erinnern. Nicht von anderen aufgestellte Regeln, sondern nur die Kriterien, denen Sie zustimmen und die Sie erklären, bewegen Ihr Gehirn am stärksten.
+      Schreiben Sie nicht zu viele Regeln auf. Begrenzen Sie Ihre Selbstwarnliste auf wenige Kernprinzipien, die Ihre wichtigsten Werte darstellen.
     </p>
   </div>
 </div>

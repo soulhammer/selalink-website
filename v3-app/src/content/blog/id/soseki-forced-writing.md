@@ -21,7 +21,7 @@ faqs:
     answer: "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling."
 ---
 
-Natsume Soseki sat at his desk mechanically every morning without waiting for inspiration. This is a work excitement routine that stimulates dopamine and awakens creative focus.
+Natsume Soseki duduk menulis secara mekanis setiap pagi tanpa menunggu inspirasi. Kebiasaan tindakan paksa ini merangsang pelepasan dopamin.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Natsume Soseki sat at his desk mechanically every morning without waiting for in
 
 ## 1. Work Excitement Effect: Action Creates Motivation
 
-The brain does not release motivation hormones when sitting still. Rhythmic actions trigger the nucleus accumbens to release dopamine and focus.
+Otak tidak melepaskan hormon motivasi saat tidak aktif. Memulai tindakan fisik merangsang nukleus akumbens, mengaktifkan produksi dopamin.
 
 ---
 
@@ -82,7 +82,7 @@ The brain does not release motivation hormones when sitting still. Rhythmic acti
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Do not wait for mood or perfect environments. Just sit down and write a single character. Action alone awakens your brain.
+      Jangan menunggu suasana hati Anda sempurna. Cukup duduk dan mulai tugas dengan menulis satu kata atau melakukan tindakan fisik kecil pertama.
     </p>
   </div>
 </div>

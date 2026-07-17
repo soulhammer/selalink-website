@@ -1,8 +1,8 @@
 ---
 title: "The Night That Restores the Soul's Order: Pythagoras's Evening Self-Examination Habit"
 description: "Pythagoras reviewed his actions three times before sleeping. Explore the neurobiology of how this pre-sleep self-examination routine consolidates episodic memory."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["Great Habits","pythagoras","Routine","Stamina"]
 heroImage: "/images/blog/pythagoras_evening_examination.png"

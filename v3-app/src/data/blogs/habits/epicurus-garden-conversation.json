@@ -4,49 +4,89 @@
       "ko": "소박한 정원에서의 지적 연대: 에피쿠로스의 대화 및 검소한 식사 습관",
       "en": "Intellectual Solidarity in a Simple Garden: Epicurus's Conversation and Frugal Diet Habit",
       "ja": "質素な庭での知的連帯：エピクロスの対話と質素な食事習慣",
-      "zh": "简朴庭院中的智力团结：伊壁鸠鲁的对话与简朴饮食习惯"
+      "zh": "简朴庭院中的智力团结：伊壁鸠鲁的对话与简朴饮食习惯",
+      "es": "Solidaridad intelectual en un jardín sencillo: el hábito de conversación y dieta frugal de Epicuro",
+      "fr": "Solidarité intellectuelle dans un jardin simple : l'habitude de conversation et de régime frugal d'Épicure",
+      "de": "Intellektuelle Solidarität in einem einfachen Garten: Epikurs Gewohnheit des Gesprächs und der einfachen Ernährung",
+      "pt": "Solidariedade intelectual num jardim simples: o hábito de conversa e dieta frugal de Epicuro",
+      "id": "Solidaritas Intelektual di Taman Sederhana: Kebiasaan Percakapan dan Diet Sederhana Epikuros"
     },
     "description": {
       "ko": "아테네 외곽에 '정원'을 짓고 소수의 벗들과 검소한 식사를 나누며 깊은 사색을 공유한 에피쿠로스. 사회적 과시를 배제하고 안전한 유대관계 속에서 대화를 나누는 습관이 체내 옥시토신과 엔도르핀을 자극해 고차원적 행복을 느끼게 하는 메커니즘을 규명합니다.",
       "en": "Epicurus established 'The Garden' to share simple meals and intellectual dialogues with close friends. Discover how psychological safety and social connection stimulate oxytocin.",
       "ja": "アテネの郊外に「庭園」を開き、少数の友人たちと質素な食事を共にしながら深い思索を共有したエピクロス. 社会的過示を排し、安全な信頼関係の中で対話を交わす習慣が心に平穏をもたらす神経メカニズムを解説します。",
-      "zh": "伊壁鸠鲁在雅典郊外建立了“花园”，与少数朋友共享简谱的餐食，分享深刻的反思。探讨心理安全感与社会联结如何刺激催产素。"
+      "zh": "伊壁鸠鲁在雅典郊外建立了“花园”，与少数朋友共享简谱的餐食，分享深刻的反思。探讨心理安全感与社会联结如何刺激催产素。",
+      "es": "Epicuro estableció 'El Jardín' para compartir comidas sencillas y diálogos intelectuales con amigos cercanos. Descubra cómo la seguridad psicológica y la conexión social estimulan la oxitocina.",
+      "fr": "Épicure a établi 'Le Jardin' pour partager des repas simples et des dialogues intellectuels avec des amis proches. Découvrez comment la sécurité psychologique et la connexion sociale stimulent l'ocytocine.",
+      "de": "Epikur gründete 'Den Garten', um einfache Mahlzeiten und intellektuelle Dialoge mit engen Freunden zu teilen. Erfahren Sie, wie psychologische Sicherheit und soziale Verbindung Oxytocin stimulieren.",
+      "pt": "Epicuro estabeleceu 'O Jardim' para compartilhar refeições simples e diálogos intelectuais com amigos próximos. Descubra como a segurança psicológica e a conexão social estimulam a oxitocina.",
+      "id": "Epikuros mendirikan 'Taman' untuk berbagi makanan sederhana dan dialog intelektual dengan teman-teman dekat. Temukan bagaimana keamanan psikologis dan hubungan sosial merangsang oksitosin."
     },
     "authority": {
       "ko": "디오게네스 라에르티오스 저 『그리스 철학자들의 생애와 사상』 10권 고증 및 심리적 안전감(Psychological Safety)과 소수 대면 유대감이 부교감 자율신경 및 스트레스 완화에 미치는 신경정신의학 연구",
       "en": "Diogenes Laërtius's 'Lives and Opinions of Eminent Philosophers' and Neuropsychiatric Research on Psychological Safety, Social Connection, and Stress Reduction",
       "ja": "ディオゲネス・ラエルティオス著『ギリシア哲学者列伝』第10巻歴史的考証および信頼関係のもとでの対面コミュニケーションがオキシトシン分泌とストレス緩解に及ぼす神経精神医学研究結果",
-      "zh": "第欧根尼·拉尔修著《哲人言行录》第10卷历史考证及关于心理安全感、少数面对面联结对副交感神经及缓解压力影响的神经精神医学研究成果"
+      "zh": "第欧根尼·拉尔修著《哲人言行录》第10卷历史考证及关于心理安全感、少数面对面联结对副交感神经及缓解压力影响的神经精神医学研究成果",
+      "es": "La obra de Diógenes Laercio 'Vidas y opiniones de los filósofos ilustres' e investigación neuropsiquiátrica sobre seguridad psicológica, conexión social y reducción del estrés",
+      "fr": "L'ouvrage de Diogène Laërce 'Vies et doctrines des philosophes illustres' et recherche neuropsychiatrique sur la sécurité psychologique, la connexion sociale et la réduction du stress",
+      "de": "Diogenes Laertios' 'Leben und Meinungen berühmter Philosophen' und neuropsychiatrische Forschung zu psychologischer Sicherheit, sozialer Verbindung und Stressabbau",
+      "pt": "A obra de Diógenes Laércio 'Vidas e Doutrinas dos Filósofos Ilustres' e pesquisa neuropsiquiátrica sobre segurança psicológica, conexão social e redução do estresse",
+      "id": "Karya Diogenes Laërtius 'Lives and Opinions of Eminent Philosophers' dan Riset Neuropsikiatri tentang Keamanan Psikologis, Hubungan Sosial, dan Pengurangan Stres"
     },
     "intro": {
       "ko": "쾌락주의의 대명사로 널리 오해받지만, 실제로는 마음의 평정심인 '아타락시아(Ataraxia)'를 추구하며 지극히 절제된 삶을 살았던 고대 그리스의 현자 에피쿠로스. 그는 아테네 도심의 화려함과 정치적 암투를 피해, 한적한 외곽에 작은 뜰이 있는 '정원(The Garden)'을 만들었습니다. 이곳에서 신분, 성별을 떠나 마음이 맞는 벗들과 빵, 물, 약간의 치즈만으로 구성된 아주 검소한 식사를 매일 함께하며 열띤 지적 대화를 나누었습니다. 그는 탐욕적 소비를 통한 쾌락은 더 큰 갈증을 부르지만, 검소한 식탁 위에서 펼쳐지는 깊은 신뢰와 우정은 영혼을 치유한다고 외쳤습니다. 2500년 전 에피쿠로스가 정립한 '정원의 우정'이 지닌 신경학적 행복 공식을 해부합니다.",
       "en": "Epicurus, often misunderstood as a hedonist, pursued inner tranquility or 'ataraxia' through a disciplined life. Escaping Athens' political chaos, he built 'The Garden' on the outskirts. Here, ignoring social status and gender, he shared frugal meals of bread, water, and cheese with friends, engaging in intellectual dialogues. He argued that material greed triggers thirst, while deep trust and friendship heal the soul. We explore the neurobiology of Epicurus's garden habit.",
       "ja": "快楽主義の代名詞として誤解されがちですが、実際には心の平穏である「アタラクシア（Ataraxia）」を追求し、極めて節制された生活を送った古代ギリシャの賢者エピクロス. 彼はアテネの都会の華やかさや政治的な陰謀を避け、静かな郊外に小さな庭がある「園（The Garden）」を作りました. ここでは身分や性別を問わず、気が合う友人たちとパンと水、少々のチーズだけの非常に質素な食事を毎日共にしながら、熱心な知的対話を交わしました. 彼は、過剰な消費による快楽はさらなる渇きを生むが、質素な食卓の上で広がる深い信頼と友情こそが魂を癒すと主張しました. 2500年前にエピクロスが定義した「庭の友情」が持つ神経学的な幸福の公式を解剖します.",
-      "zh": "伊壁鸠鲁，常被误解为享乐主义者，实际上通过自律的生活追求内心的宁静或“ataraxia”。他避开雅典的政治混乱，在郊区建造了“花园”。在这里，他抛开社会地位和性别，与朋友们共享面包、水和奶酪的简朴餐食，进行智力对话。他认为，物质贪婪会引发渴望，而深厚的信任和友谊才能治愈灵魂。我们探索伊壁鸠鲁花园习惯的神经生物学。"
+      "zh": "伊壁鸠鲁，常被误解为享乐主义者，实际上通过自律的生活追求内心的宁静或“ataraxia”。他避开雅典的政治混乱，在郊区建造了“花园”。在这里，他抛开社会地位和性别，与朋友们共享面包、水和奶酪的简朴餐食，进行智力对话。他认为，物质贪婪会引发渴望，而深厚的信任和友谊才能治愈灵魂。我们探索伊壁鸠鲁花园习惯的神经生物学。",
+      "es": "Epicuro, a menudo malinterpretado como un hedonista, buscaba la tranquilidad interior o 'ataraxia' a través de una vida disciplinada. Escapando del caos político de Atenas, construyó 'El Jardín' en las afueras. Aquí, ignorando el estatus social y el género, compartía comidas frugales de pan, agua y queso con amigos, participando en diálogos intelectuales. Sostenía que la codicia material provoca sed, mientras que la profunda confianza y la amistad curan el alma. Exploramos la neurobiología del hábito del jardín de Epicuro.",
+      "fr": "Épicure, souvent mal compris comme hédoniste, recherchait la tranquillité intérieure ou 'ataraxie' à travers une vie disciplinée. Échappant au chaos politique d'Athènes, il a construit 'Le Jardin' en périphérie. Ici, ignorant le statut social et le genre, il partageait des repas frugaux de pain, d'eau et de fromage avec des amis, s'engageant dans des dialogues intellectuels. Il soutenait que l'avidité matérielle provoque la soif, tandis que la confiance profonde et l'amitié guérissent l'âme.",
+      "de": "Epikur, oft als Hedonist missverstanden, strebte durch ein diszipliniertes Leben nach innerer Ruhe oder 'Ataraxie'. Er entfloh dem politischen Chaos Athens und baute 'Den Garten' am Stadtrand. Hier teilte er, ungeachtet des sozialen Status und des Geschlechts, einfache Mahlzeiten aus Brot, Wasser und Käse mit Freunden und führte intellektuelle Dialoge. Er argumentierte, dass materielle Gier Durst auslöst, während tiefes Vertrauen und Freundschaft die Seele heilen.",
+      "pt": "Epicuro, frequentemente incompreendido como um hedonista, buscava a tranquilidade interior ou 'ataraxia' através de uma vida disciplinada. Escapando do caos político de Atenas, construiu 'O Jardim' nos arredores. Aqui, ignorando o status social e o gênero, compartilhava refeições frugais de pão, água e queijo com amigos, participando de diálogos intelectuais. Ele argumentava que a ganância material provoca sede, enquanto a confiança profunda e a amizade curam a alma.",
+      "id": "Epikuros, yang sering disalahpahami sebagai seorang hedonis, mengejar ketenangan batin atau 'ataraxia' melalui kehidupan yang disiplin. Menghindari kekacauan politik Athena, ia membangun 'Taman' di pinggiran kota. Di sini, dengan mengabaikan status sosial dan gender, ia berbagi makanan sederhana berupa roti, air, dan keju dengan teman-temannya, sambil terlibat dalam dialog intelektual. Ia berargumen bahwa ketamakan materi memicu dahaga, sementara kepercayaan mendalam dan persahabatan menyembuhkan jiwa."
     },
     "whyTitle": {
       "ko": "심리적 안전감과 옥시토신 및 세로토닌의 유대 효과",
       "en": "Psychological Safety and the Bonding Effect of Oxytocin and Serotonin",
       "ja": "心理的安全性とオキシトシンおよびセロトニンの絆効果",
-      "zh": "心理安全感与催产素及血清素的联结效应"
+      "zh": "心理安全感与催产素及血清素的联结效应",
+      "es": "Seguridad psicológica y el efecto de unión de la oxitocina y la serotonina",
+      "fr": "Sécurité psychologique et effet de liaison de l'ocytocine et de la sérotonine",
+      "de": "Psychologische Sicherheit und die Bindungswirkung von Oxytocin und Serotonin",
+      "pt": "Segurança psicológica e o efeito de ligação da oxitocina e da serotonina",
+      "id": "Keamanan Psikologis dan Efek Pengikat Oksitosin serta Serotonin"
     },
     "whyDesc": {
       "ko": "어떤 비난이나 공격 없이 내면을 온전히 공유할 수 있는 소수의 모임은 대뇌에 강력한 '심리적 안전감(Psychological Safety)'을 부여합니다. 이러한 신뢰적 유대 관계에서 깊은 대화를 나누면, 뇌의 시상하부에서 친밀감과 정서적 완화를 이끄는 호르몬인 옥시토신(Oxytocin)이 뿜어져 나옵니다. 옥시토신은 편도체의 공격적 경계 반응을 잠재우고 만성 스트레스 호르몬인 코르티솔의 분비를 급감시켜 면역력을 강화하고 대뇌의 인지 피로를 말끔히 정돈해 줍니다.",
       "en": "A close group where thoughts are shared without judgment provides a powerful sense of psychological safety to the brain. Under these trusted connections, the hypothalamus releases oxytocin, the bonding hormone. Oxytocin dampens amygdala threat response and curbs cortisol, strengthening the immune system and clearing cognitive fatigue.",
       "ja": "非難や攻撃を受けることなく内面を完全に共有できる少数のコミュニティは、大脳に強力な「心理的安全性（Psychological Safety）」を与えます. このような信頼関係の中で深い対話を交わすと、脳の下垂体から親密感と情緒的な安定をもたらすホルモンであるオキシトシン（Oxytocin）が分泌されます. オキシトシンは扁桃体の攻撃的な警戒反応を和らげ、慢性的ストレスホルモンであるコルチゾールの分泌を急減させることで、免疫力を高め、大脳の認知疲労をすっきりと整理してくれます.",
-      "zh": "一个可以毫无顾忌地分享想法的紧密群体，能给大脑提供强烈的心理安全感。在这些信任的连接下，下丘脑会释放催产素（一种联结激素）。催产素能抑制杏仁核的威胁反应并抑制皮质醇，从而增强免疫系统并消除认知疲劳。"
+      "zh": "一个可以毫无顾忌地分享想法的紧密群体，能给大脑提供强烈的心理安全感。在这些信任的连接下，下丘脑会释放催产素（一种联结激素）。催产素能抑制杏仁核的威胁反应并抑制皮质醇，从而增强免疫系统并消除认知疲劳。",
+      "es": "Un grupo cercano donde los pensamientos se comparten sin juicio proporciona una poderosa sensación de seguridad psicológica al cerebro. Bajo estas conexiones de confianza, el hipotálamo libera oxitocina, la hormona del vínculo. La oxitocina amortigua la respuesta de amenaza de la amígdala y reduce el cortisol, fortaleciendo el sistema inmunológico y despejando la fatiga cognitiva.",
+      "fr": "Un groupe proche où les pensées sont partagées sans jugement procure une puissante sensation de sécurité psychologique au cerveau. Sous ces connexions de confiance, l'hypothalamus libère de l'ocytocine, l'hormone du lien. L'ocytocine atténue la réponse de menace de l'amygdale et réduit le cortisol, renforçant le système immunitaire.",
+      "de": "Eine enge Gruppe, in der Gedanken ohne Urteil geteilt werden, verleiht dem Gehirn ein starkes Gefühl der psychologischen Sicherheit. Unter diesen vertrauensvollen Verbindungen setzt der Hypothalamus Oxytocin frei, das Bindungshormon. Oxytocin dämpft die Bedrohungsreaktion der Amygdala und drosselt Cortisol, was das Immunsystem stärkt.",
+      "pt": "Um grupo próximo onde os pensamentos são compartilhados sem julgamento proporciona uma poderosa sensação de segurança psicológica ao cérebro. Sob essas conexões de confiança, o hipotálamo libera oxitocina, o hormônio do vínculo. A oxitocina amortece a resposta de ameaça da amígdala e reduz o cortisol, fortalecendo o sistema imunológico.",
+      "id": "Kelompok dekat di mana pikiran dibagikan tanpa penilaian memberikan rasa keamanan psikologis yang kuat pada otak. Di bawah hubungan yang tepercaya ini, hipotalamus melepaskan oksitosin, hormon pengikat. Oksitosin meredam respons ancaman amigdala dan membatasi kortisol, memperkuat sistem kekebalan tubuh serta membersihkan kelelahan kognitif."
     },
     "cautionTitle": {
       "ko": "주의사항 및 팁",
       "en": "Precautions and Tips",
       "ja": "注意事項とヒント",
-      "zh": "注意事项与建议"
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
     },
     "cautionDesc": {
       "ko": "우정을 쌓기 위한 정원 대화를 실천할 때 흔히 범하는 오류는, 지나치게 화려한 식사나 술을 동반하여 인위적인 흥분 상태를 조성하는 것입니다. 알코올이나 폭식은 도파민의 급격한 상승과 쾌락을 유발하지만, 이내 급격한 결핍을 가져와 만성적인 불안을 증폭시킵니다. 에피쿠로스가 빵과 물만으로 식탁을 구성한 것처럼, 대화의 본질에 집중할 수 있는 최소한의 소박한 자리를 마련해야 뇌의 도파민 수용체가 정화되어 잔잔하고 영속적인 행복(아타락시아)을 감지할 수 있습니다.",
       "en": "Avoid creating artificial excitement using heavy alcohol or lavish meals. Alcohol and overeating trigger temporary dopamine spikes followed by crashes that worsen anxiety. Epicurus chose bread and water to clear dopamine receptors and focus on genuine human connection.",
       "ja": "友情を育むための対話を実践する際によくある過ちは、過度に豪華な食事やお酒を伴って人為的な興奮状態を作り出すことです. アルコールや暴食はドーパミンの急激な上昇と快楽をもたらしますが、すぐに急激な欠乏を招き、慢性的な不安を増幅させます. エピクロスがパンと水だけで食卓を構成したように、対話の本質に集中できる最小限の素朴な場を用意してこそ、脳のドーパミン受容体が浄化され、静かで永続的な幸福（アタラクシア）を感知することができます.",
-      "zh": "避免使用烈酒或奢华的餐食来制造人为的兴奋。酒精和暴食会触发暂时的多巴胺激增，随后导致的低谷会加剧焦虑。伊壁鸠鲁选择面包和水来清理多巴胺受体，并专注于真诚的人类连接。"
+      "zh": "避免使用烈酒或奢华的餐食来制造人为的兴奋。酒精和暴食会触发暂时的多巴胺激增，随后导致的低谷会加剧焦虑。伊壁鸠鲁选择面包和水来清理多巴胺受体，并专注于真诚的人类连接。",
+      "es": "Evite crear excitación artificial utilizando alcohol fuerte o comidas abundantes. El alcohol y comer en exceso provocan picos temporales de dopamina seguidos de caídas que empeoran la ansiedad. Epicuro eligió pan y agua para limpiar los receptores de dopamina y centrarse en la conexión humana genuina.",
+      "fr": "Évitez de créer une excitation artificielle en utilisant de l'alcool fort ou des repas copieux. L'alcool et la suralimentation déclenchent des pics temporaires de dopamine suivis de chutes qui aggravent l'anxiété. Épicure a choisi le pain et l'eau pour nettoyer les récepteurs de dopamine et se concentrer sur le lien humain.",
+      "de": "Vermeiden Sie es, durch starken Alkohol oder üppige Mahlzeiten künstliche Erregung zu erzeugen. Alkohol und Überessen lösen vorübergehende Dopaminspitzen aus, gefolgt von Abstürzen, die die Angst verschlimmern. Epikur wählte Brot und Wasser, um die Dopaminrezeptoren zu reinigen und sich auf echte menschliche Verbindungen zu konzentrieren.",
+      "pt": "Evite criar excitação artificial utilizando álcool forte ou refeições abundantes. O álcool e o comer em excesso provocam picos temporários de dopamina seguidos de quedas que pioram a ansiedade. Epicuro escolheu pão e água para limpar os receptores de dopamina e focar na conexão humana genuína.",
+      "id": "Hindari menciptakan kegembiraan buatan dengan alkohol berat atau makanan mewah. Alkohol dan makan berlebihan memicu lonjakan dopamin sementara diikuti oleh penurunan yang memperburuk kecemasan. Epikuros memilih roti dan air untuk membersihkan reseptor dopamin dan fokus pada hubungan manusia yang tulus."
     },
     "steps": [
       {
@@ -54,13 +94,23 @@
           "ko": "심리적 장벽이 없는 소수 우정 모임 설계",
           "en": "Creating a Judgment-free Inner Circle",
           "ja": "心理的障壁のない少数の友情グループの設計",
-          "zh": "建立无评判的亲密圈子"
+          "zh": "建立无评判的亲密圈子",
+          "es": "Crear un círculo íntimo libre de juicios",
+          "fr": "Créer un cercle intime sans jugement",
+          "de": "Einen urteilsfreien inneren Kreis schaffen",
+          "pt": "Criar um círculo íntimo livre de julgamentos",
+          "id": "Membuat Lingkaran Dalam Bebas Penilaian"
         },
         "text": {
           "ko": "가면을 쓸 필요가 없는 편안한 벗 2~3명을 엄선하여, 그들과 사적으로 주기적인 소모임 스케줄을 만듭니다.",
           "en": "Select 2 to 3 trusted friends before whom you don't need to put on a mask, and schedule a recurring private meet-up.",
           "ja": "仮面を被る必要のない信頼できる友人2〜3人を厳選し、彼らと定期的に私的な小規模の集まりを持つスケジュールを作ります.",
-          "zh": "挑选2到3个您无需在其面前伪装的信任朋友，并安排定期私人聚会。"
+          "zh": "挑选2到3个您无需在其面前伪装的信任朋友，并安排定期私人聚会。",
+          "es": "Seleccione de 2 a 3 amigos de confianza ante quienes no necesite ponerse una máscara y programe una reunión privada periódica.",
+          "fr": "Sélectionnez 2 à 3 amis de confiance devant qui vous n'avez pas besoin de porter de masque, et planifiez une réunion privée régulière.",
+          "de": "Wählen Sie 2 bis 3 vertrauenswürdige Freunde aus, vor denen Sie keine Maske aufsetzen müssen, und vereinbaren Sie ein regelmäßiges privates Treffen.",
+          "pt": "Selecione de 2 a 3 amigos de confiança diante de quem você não precise colocar uma máscara e programe uma reunião privada periódica.",
+          "id": "Pilih 2 hingga 3 teman tepercaya yang di hadapannya Anda tidak perlu memakai topeng, dan jadwalkan pertemuan pribadi yang rutin."
         }
       },
       {
@@ -68,13 +118,23 @@
           "ko": "검소하고 자극 없는 공동 식사 차리기",
           "en": "Setting a Simple, Frugal Meal",
           "ja": "質素で刺激のない共同の食事の準備",
-          "zh": "准备简单朴素的膳食"
+          "zh": "准备简单朴素的膳食",
+          "es": "Preparar una comida sencilla y frugal",
+          "fr": "Préparer un repas simple et frugal",
+          "de": "Bereiten Sie eine einfache, bescheidene Mahlzeit zu",
+          "pt": "Preparar uma refeição simples e frugal",
+          "id": "Menyajikan Makanan yang Sederhana dan Bersahaja"
         },
         "text": {
           "ko": "거창한 외식 대신 물, 차, 소박한 샌드위치 등으로 가볍고 위장에 자극이 없는 무설탕 검소 식단을 마련합니다.",
           "en": "Skip heavy restaurants and prepare a light, low-sugar diet like tea, water, and simple sandwiches.",
           "ja": "豪華な外食の代わりに、水や温かいお茶、質素なサンドイッチなどで軽く胃腸に負担の少ない砂糖抜きの質素なメニューを用意します.",
-          "zh": "跳过奢华的餐厅，准备清淡、低糖的饮食，如茶、水和简单的三明治。"
+          "zh": "跳过奢华的餐厅，准备清淡、低糖的饮食，如茶、水和简单的三明治。",
+          "es": "Evite los restaurantes caros y prepare una dieta ligera y baja en azúcar como té, agua y sándwiches sencillos.",
+          "fr": "Évitez les restaurants copieux et préparez un régime léger et pauvre en sucre comme du thé, de l'eau et des sandwichs simples.",
+          "de": "Verzichten Sie auf schwere Restaurantbesuche und bereiten Sie eine leichte, zuckerarme Mahlzeit wie Tee, Wasser und einfache Sandwiches zu.",
+          "pt": "Evite restaurantes caros e prepare uma dieta leve e baixa em açúcar como chá, água e sanduíches simples.",
+          "id": "Lewati restoran mewah dan siapkan makanan ringan rendah gula seperti teh, air, dan roti lapis sederhana."
         }
       },
       {
@@ -82,13 +142,23 @@
           "ko": "사각지대 없는 개방형 지적 대화 나눔",
           "en": "Engaging in Transparent Intellectual Dialogue",
           "ja": "偏見のないオープンな知的対話",
-          "zh": "进行透明的智力对话"
+          "zh": "进行透明的智力对话",
+          "es": "Entablar un diálogo intelectual transparente",
+          "fr": "S'engager dans un dialogue intellectuel transparent",
+          "de": "Führen Sie einen transparenten intellektuellen Dialog",
+          "pt": "Entrar em um diálogo intelectual transparente",
+          "id": "Membuka Dialog Intelektual yang Transparan"
         },
         "text": {
           "ko": "사회적 과시나 직급을 배제하고, 인생의 참된 의미와 철학, 고민거리에 대해 온전히 1시간 동안 무비판적인 태도로 경청하며 대화합니다.",
           "en": "Ignoring social rank or prestige, engage in a non-judgmental dialogue for an hour about life, philosophy, and personal growth.",
           "ja": "社会的な立場や職級を排し、人生の真の意味や哲学、悩みについて、批判を交えずにお互いの話を1時間聞き合いながら対話します.",
-          "zh": "抛开社会地位或声望，就人生、哲学和个人成长进行一小时无评判的对话。"
+          "zh": "抛开社会地位或声望，就人生、哲学和个人成长进行一小时无评判的对话。",
+          "es": "Ignorando el rango social o el prestigio, participe en un diálogo libre de juicios durante una hora sobre la vida, la filosofía y el crecimiento personal.",
+          "fr": "Ignorant le rang social ou le prestige, engagez-vous dans un dialogue sans jugement pendant une heure sur la vie, la philosophie et le développement personnel.",
+          "de": "Nehmen Sie ohne Rücksicht auf sozialen Rang oder Prestige an einem urteilsfreien, einstündigen Dialog über das Leben, Philosophie und persönliches Wachstum teil.",
+          "pt": "Ignorando o nível social ou prestígio, participe de um diálogo livre de julgamentos por uma hora sobre a vida, filosofia e crescimento pessoal.",
+          "id": "Dengan mengabaikan pangkat sosial atau prestise, lakukan dialog tanpa penilaian selama satu jam tentang kehidupan, filsafat, dan pertumbuhan pribadi."
         }
       }
     ],
@@ -98,13 +168,23 @@
           "ko": "지인들과 대화할 때마다 정치나 경제 이야기로 흘러 논쟁이 되는데 어떻게 대처하나요?",
           "en": "What if conversations with friends devolve into political or economic debates?",
           "ja": "知人と会話するたびに政治や経済の話になり、論争になってしまいますが、どう対処すべきですか？",
-          "zh": "与朋友交谈时如果演变成政治或经济争论怎么办？"
+          "zh": "与朋友交谈时如果演变成政治或经济争论怎么办？",
+          "es": "¿Qué pasa si las conversaciones con amigos se convierten en debates políticos o económicos?",
+          "fr": "Que faire si les conversations avec des amis se transforment en débats politiques ou économiques ?",
+          "de": "Was ist, wenn Gespräche mit Freunden in politische oder wirtschaftliche Debatten ausarten?",
+          "pt": "O que fazer se as conversas com amigos se transformarem em debates políticos ou econômicos?",
+          "id": "Bagaimana jika percakapan dengan teman berkembang menjadi debat politik atau ekonomi?"
         },
         "answer": {
           "ko": "논쟁적인 주제는 아드레날린과 코르티솔 분비를 부추겨 심리적 피로를 야기합니다. 모임 시작 전 '오늘은 시사 이슈 대신 개인의 마음 상태나 읽은 책에 대해서만 이야기하자'라는 가벼운 그라운드 룰을 사전에 공표하는 것이 모임의 아타락시아를 유지하는 핵심 방패입니다.",
           "en": "Debates raise adrenaline and cortisol. Establish a ground rule beforehand: 'Let's focus on personal growth, feelings, or books rather than news today.'",
           "ja": "論争的なテーマはアドレナリンやコルチゾールの分泌を促し、心理的疲労の原因になります. 集まりの開始前に「今日は時事的な問題の代わりに、個人の心の状態や読んだ本についてだけ話そう」と軽いグランドルールを事前に共有することが、集まりのアタラクシアを維持するための重要な盾になります.",
-          "zh": "争论会提高肾上腺素和皮质醇。预先制定一条基本规则：“今天我们专注于个人成长、感受或书籍，而不是新闻。”"
+          "zh": "争论会提高肾上腺素和皮质醇。预先制定一条基本规则：“今天我们专注于个人成长、感受或书籍，而不是新闻。”",
+          "es": "Los debates aumentan la adrenalina y el cortisol. Establezca una regla básica de antemano: 'Centrémonos hoy en el crecimiento personal, los sentimientos o los libros más que en las noticias'.",
+          "fr": "Les débats augmentent l'adrénaline et le cortisol. Établissez une règle de base préalable : 'Concentrons-nous aujourd'hui sur le développement personnel, les sentiments ou les livres plutôt que sur les actualités'.",
+          "de": "Debatten erhöhen Adrenalin und Cortisol. Stellen Sie vorher eine Grundregel auf: 'Lassen Sie uns heute lieber auf persönliches Wachstum, Gefühle oder Bücher konzentrieren als auf Nachrichten.'",
+          "pt": "Debates elevam a adrenalina e o cortisol. Estabeleça uma regra básica de antemão: 'Vamos focar no crescimento pessoal, sentimentos ou livros em vez de notícias hoje.'",
+          "id": "Debat meningkatkan adrenalin dan kortisol. Tetapkan aturan dasar sebelumnya: 'Mari fokus pada pertumbuhan pribadi, perasaan, atau buku daripada berita hari ini.'"
         }
       },
       {
@@ -112,15 +192,27 @@
           "ko": "친구들을 매주 만나기에는 일정 조정이 너무 어렵습니다. 다른 대안이 있을까요?",
           "en": "What if scheduling weekly meetups with friends is too difficult?",
           "ja": "友人たちと毎週会うのはスケジュール調整が非常に難しいです. 代替案はありますか？",
-          "zh": "如果很难安排每周与朋友聚会怎么办？"
+          "zh": "如果很难安排每周与朋友聚会怎么办？",
+          "es": "¿Qué pasa si programar reuniones semanales con amigos es demasiado difícil?",
+          "fr": "Que faire si planifier des réunions hebdomadaires avec des amis est trop difficile ?",
+          "de": "Was ist, wenn wöchentliche Treffen mit Freunden zu schwierig zu organisieren sind?",
+          "pt": "O que fazer se programar reuniões semanais com amigos for muito difícil?",
+          "id": "Bagaimana jika menjadwalkan pertemuan mingguan dengan teman terlalu sulit?"
         },
         "answer": {
           "ko": "매주 대면할 필요는 없습니다. 한 달에 1회 깊은 대면 만남을 갖거나, 격주로 30분간 조용한 음성 통화로 일상의 내면을 공유하는 것만으로도 대뇌 옥시토신 경로를 유지하는 데 충분히 유효한 자극이 됩니다.",
           "en": "You don't have to meet weekly. A monthly face-to-face dinner or a bi-weekly 30-minute quiet voice call to share updates is enough to stimulate oxytocin.",
           "ja": "毎週対面で会う必要はありません. 月に1回深く対面で会うか、隔週で30分間静かに音声通話で日常の内面を共有するだけでも、大脳のオキシトシン経路を維持するのに十分に効果的な刺激になります.",
-          "zh": "你不必每周都见面。每月一次面对面晚餐，或每两周进行一次30分钟的安静语音通话来分享近况，就足以刺激催产素。"
+          "zh": "你不必每周都见面。每月一次面对面晚餐，或每两周进行一次30分钟的安静语音通话来分享近况，就足以刺激催产素。",
+          "es": "No es necesario reunirse semanalmente. Una cena cara a cara al mes o una llamada de voz tranquila de 30 minutos quincenal para compartir actualizaciones es suficiente para estimular la oxitocina.",
+          "fr": "Vous n'avez pas besoin de vous réunir chaque semaine. Un dîner en face à face par mois ou un appel vocal calme de 30 minutes toutes les deux semaines pour partager des nouvelles suffit à stimuler l'ocytocine.",
+          "de": "Sie müssen sich nicht wöchentliche treffen. Ein monatliches persönliches Abendessen oder ein zweiwöchentliches, ruhiges 30-minütiges Telefonat zum Austausch von Neuigkeiten reicht aus, um Oxytocin zu stimulieren.",
+          "pt": "Não é necessário se reunir semanalmente. Um jantar cara a cara por mês ou uma ligação de voz tranquila de 30 minutos a cada duas semanas para compartilhar atualizações é suficiente para estimular a oxitocina.",
+          "id": "Anda tidak harus bertemu setiap minggu. Makan malam tatap muka bulanan atau panggilan suara tenang selama 30 menit dua mingguan untuk berbagi kabar sudah cukup untuk merangsang oksitosin."
         }
       }
-    ]
+    ],
+    "pubDate": "2026-01-20",
+    "updatedDate": "2026-01-20"
   }
 }

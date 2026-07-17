@@ -1,8 +1,8 @@
 ---
 title: "缓中求急的皇帝决断：奥古斯都的多维听取建议习惯"
 description: "在恺撒遇刺后，罗马皇帝奥古斯都并非独断专行，而是彻底倾听梅塞纳斯、阿格里巴等参谋的不同意见以简化决策。阐明打破盲信最初判断 of 确证偏差之倾听与过滤脑科学原理。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["缓中求急的皇帝决断：","Routine"]
 heroImage: "/images/blog/augustus_decision_consultation.png"

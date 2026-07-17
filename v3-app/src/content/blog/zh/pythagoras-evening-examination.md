@@ -1,8 +1,8 @@
 ---
 title: "整理灵魂秩序之夜：毕达哥拉斯的傍晚自我反省习惯"
 description: "毕达哥拉斯每天晚上睡前都会三次反省一天的言行。探讨睡前唤醒元认知的这三种自问仪式强化情景记忆、提高情绪控制力的神经生理学效果。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["整理灵魂秩序之夜：毕","Routine"]
 heroImage: "/images/blog/pythagoras_evening_examination.png"

@@ -23,11 +23,7 @@ faqs:
     answer: "Latihan treadmill yang intens bagus untuk aktivasi fisik, tetapi tidak memberi otak ruang untuk mengamati lingkungan sekitar dan merenung dengan cermat. Untuk memicu reset otak dan pemikiran kreatif, berjalan santai dengan kecepatan konstan sembari menjelajahi sekitar adalah hal yang optimal."
 ---
 
-Columns mimicking tree trunks, curved apartment facades like rolling waves. Antoni Gaudí, the Spanish genius architect who created the most original architecture in human history by transplanting nature's shapes and organic structures into buildings. Where did his multidimensional and marvelous inspirations, which have astonished people for over a century, come from? ⛪
-
-Gaudí maintained a very strict walking habit of walking at least 4km through the streets of Barcelona every afternoon. During his walks, he closely observed natural patterns such as the twisting of street trees, the movement of clouds, the veins of leaves, and even insect wings and animal skeletons. The physical stimulation of walking, combined with the organic structures unfolding in front of him, formed the backbone of Gaudí's unique curved architectural engineering.
-
-Today, BuildSelf introduces the scientific principles behind Gaudí's '4km organic walk' routine and how modern people can apply it to generate creative ideas.
+Antoni Gaudí berjalan kaki setiap hari di Barcelona saat matahari terbenam untuk mengamati pola geometris di alam. Hal ini menginspirasi desain arsitekturnya.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,9 +41,7 @@ Today, BuildSelf introduces the scientific principles behind Gaudí's '4km organ
 
 ## 1. 'Jalan Kaki Fisik' untuk Mengaktifkan Hipokampus dan Kreativitas Otak
 
-When sitting at a desk for long hours obsessed with a single problem, the brain's frontal lobe enters a tense state and cognitive flexibility drops sharply. The brain circuit becomes fixed, reaching a deadlock of repeating the same thoughts.
-
-Gaudí's 4km walking routine was the most natural way to stimulate the brain, resolving mental blocks by providing both <strong>'physical activation'</strong> and <strong>'visual stimulation'</strong>. Walking increases the heart rate, supplying strong blood flow to the brain's hippocampus and frontal lobe, enhancing cognitive flexibility. Stanford researchers proved that walking alone increases creative output by an average of 60% compared to sitting. The natural objects and non-geometric structures encountered while walking stimulate various neurons in the visual cortex, organically connecting fragmented memories from new perspectives.
+Mengamati fraktal alami mengaktifkan default mode network (DMN) dan mengurangi stres. Berjalan di luar ruangan merangsang aliran darah ke otak, mempromosikan sintesis serotonin.
 
 ---
 
@@ -90,7 +84,7 @@ Gaudí's 4km walking routine was the most natural way to stimulate the brain, re
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Bagi arsitek genius Gaudí, berjalan bukan sekadar olahraga fisik, melainkan proses desain mental untuk memindai misteri alam dan menerapkan rumus geometris ke otaknya secara organik. Ketika buntu oleh rencana sulit, segeralah bangkit, melangkah ke luar, dan mulailah berjalan. Otak Anda akan mulai bergerak.
+      Hindari memeriksa perangkat digital selama berjalan kaki. Notifikasi mengganggu proses pemulihan otak dan memblokir kondisi difusi kognitif.
     </p>
   </div>
 </div>
@@ -119,4 +113,4 @@ Gaudí's 4km walking routine was the most natural way to stimulate the brain, re
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong><strong></strong>

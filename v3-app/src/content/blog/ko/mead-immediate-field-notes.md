@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "기억의 각색을 막는 기록: 마가렛 미드의 현장 즉각 메모 습관"
 description: "기억이 왜곡되기 전 관찰한 사실을 현장에서 즉시 수첩에 받아적었던 인류학자 마가렛 미드. 뇌의 작업 기억 용량 한계를 극복하고 편향을 막아내는 '인지 오프로딩'의 신경학적 원리를 다룹니다."
-pubDate: "2026-07-17"
+pubDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["기록", "메모", "생산성"]
 heroImage: "/images/blog/mead_immediate_field_notes.png"
 app: "buildself"
 authority: "제인 하워드 저 『마가렛 미드의 생애(Margaret Mead: A Life)』 기록 분석 및 대뇌 작업 기억(Working Memory)의 한계와 인지 오프로딩(Cognitive Offloading) 신경인지과학 연구"
-updatedDate: "2026-07-17"
+updatedDate: "2026-03-18"
 faqs:
   - question: "수첩 대신 스마트폰 메모 앱을 사용해도 무방한가요?"
     answer: "가능합니다. 다만 스마트폰을 사용할 때는 다른 앱의 알림(메시지, SNS 등)에 주의를 빼앗기지 않도록 방해 금지 모드를 켜거나, 첫 화면에 바로 메모를 띄울 수 있는 위젯을 설정하여 기록 시간의 지연을 최소화해야 합니다."

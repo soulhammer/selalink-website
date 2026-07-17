@@ -1,8 +1,8 @@
 ---
 title: "記憶の脚色を防ぐ記録：マーガレット・ミードの現場即時メモ習慣"
 description: "記憶が歪む前、観察した事実を現場で即座に手帳に書き留めた人類学者マーガレット・ミード. 脳の作業記憶の容量限界を克服し、偏向を防ぐ「認知オフローディング」の神経学的原理を扱います."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["記憶の脚色を防ぐ記録","Routine"]
 heroImage: "/images/blog/mead_immediate_field_notes.png"

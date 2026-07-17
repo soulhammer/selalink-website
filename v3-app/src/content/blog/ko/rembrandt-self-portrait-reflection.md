@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "거울 속 심연을 응시하다: 렘브란트의 자화상 시각 성찰 습관"
 description: "일평생 80여 점의 자화상을 그리며 자신의 변화를 회피 없이 직면했던 렘브란트. 거울 속 자신을 깊게 관찰하는 행위가 뇌의 거울 뉴런계와 자기 참조 네트워크를 자극하여 내적 안정감과 자존감을 강화하는 원리를 파헤칩니다."
-pubDate: "2026-07-17"
+pubDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["성찰", "창의성", "사색"]
 heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
 app: "buildself"
 authority: "페리 채프먼 저 『렘브란트의 자화상(Rembrandt: The Self-Portraits)』 미술사적 기록 및 뇌의 자기 인식(Self-Recognition) 및 거울 뉴런계(Mirror Neuron System) 신경심리학 연구 결과"
-updatedDate: "2026-07-17"
+updatedDate: "2026-04-25"
 faqs:
   - question: "자화상 시각 성찰을 할 때 거울을 얼마나 오래 보아야 하나요?"
     answer: "거울을 바라보며 성찰을 하는 권장 시간은 3분에서 5분 이내입니다. 너무 오랫동안 거울 속 자신의 모습에 집착하면 오히려 시각적 왜곡이 일어나 부정적인 얼굴 관찰 모드로 변질될 수 있으므로, 짧고 밀도 높은 성찰이 유용합니다."

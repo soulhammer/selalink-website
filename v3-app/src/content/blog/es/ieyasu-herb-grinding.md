@@ -21,7 +21,7 @@ faqs:
     answer: "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future."
 ---
 
-Tokugawa Ieyasu unified the Warring States period of Japan. His secret to longevity and founding the Edo Shogunate was his daily routine of grinding and prescribing herbs himself.
+Tokugawa Ieyasu preparaba sus propias medicinas moliendo hierbas en un mortero. Este hábito manual le proporcionó una estimulación táctil que calmó su sistema nervioso y agudizó su enfoque estratégico durante momentos de alta tensión política.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Tokugawa Ieyasu unified the Warring States period of Japan. His secret to longev
 
 ## 1. Actividad Motora Rítmica y Activación de Serotonina para el Control de la Paciencia Prefrontal
 
-Physiologically, Rhythmic Motor Activity stimulates serotonin release, controlling impulsivity and regulating composure.
+Las tareas motoras finas y repetitivas desvían la atención de los factores estresantes cognitivos, reduciendo la actividad de la amígdala. El contacto físico y el ritmo constante estimulan la producción de ondas alfa, induciendo un estado de calma atenta.
 
 ---
 
@@ -82,7 +82,7 @@ Physiologically, Rhythmic Motor Activity stimulates serotonin release, controlli
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Life is like walking a long road carrying a heavy burden. When you feel rushed, sit quietly and focus on a simple rhythm by grinding something.
+      No realice la tarea con prisa. Para obtener los beneficios neurológicos, concéntrese en el proceso físico, la textura de los materiales y la precisión de sus movimientos corporales.
     </p>
   </div>
 </div>

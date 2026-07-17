@@ -23,11 +23,7 @@ faqs:
     answer: "Benar. Diperlukan pembelajaran asosiatif yang jelas dan berulang agar otak dapat menghubungkan warna dengan kondisi kognitif tertentu secara organik. Oleh karena itu, kuncinya adalah membatasi warna pada maksimal 3 area kategori besar dan menjaganya tetap konsisten."
 ---
 
-Alexandre Dumas, the master of French literature who captured the hearts of readers worldwide with monumental historical adventure works such as The Three Musketeers and The Count of Monte Cristo. What was the secret of his superhuman productivity and creative energy, which continuously published hundreds of books in vast fields throughout his life? ✍️
-
-Dumas established a unique physical rule to prevent burnout under the harsh environment of constantly switching between imagination and logical brain circuits every day. It was 'using different colored manuscript pages depending on the writing genre.' He strictly insisted on writing adventure novels only on clear blue paper, poetry on bright yellow paper, and newspaper articles or non-fiction columns on light pink (rose) paper. By visually separating page colors, Dumas created an incredible system that helped his brain immediately enter the cognitive state of each genre without confusion or wasted energy.
-
-Today, BuildSelf introduces the scientific principles behind Alexandre Dumas' 'color switching' routine and how modern people can use it to increase focus in a complex multitasking environment.
+Alexandre Dumas menulis novel di kertas biru, puisi di kertas kuning, dan artikel non-fiksi di kertas merah muda. Kebiasaan mengganti warna ini mencegah kebosanan mental.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,9 +41,7 @@ Today, BuildSelf introduces the scientific principles behind Alexandre Dumas' 'c
 
 ## 1. 'Efek Priming Warna' untuk Mengimbangi Biaya Pergantian Kognitif
 
-When we alternate between different tasks (e.g., writing a strategic plan, checking a budget, or generating emotional ideas), the brain pays a huge Switching Cost to process Cognitive Residue and adapt to the new context. This blocks the brain's working memory and degrades task efficiency.
-
-Alexandre Dumas' color differentiation was a cognitive design that solved this barrier using <strong>'Color Association'</strong> and the <strong>'Priming Effect'</strong>. The moment our eyes recognize a unique color matched with a specific genre for a long time (e.g., novel = blue paper), the visual cortex delivers a subconscious signal to the frontal lobe to 'start creative writing mode.' Consequently, the brain quickly shuts down the previous analytical state, dramatically reducing the waste of cognitive resources and maximizing focus and imagination.
+Paparan terus-menerus pada stimulus visual yang sama menyebabkan adaptasi sensorik. Mengubah warna bahan penulisan memberikan kebaruan visual, mengaktifkan kembali sirkuit penghargaan.
 
 ---
 
@@ -90,7 +84,7 @@ Alexandre Dumas' color differentiation was a cognitive design that solved this b
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Bagi Dumas, kertas berwarna bukan sekadar pemanis, melainkan alat bantu cerdas untuk menarik batas kognitif yang jelas di otak dan meruntuhkan hambatan transisi. Jika kepala terasa pening dan sulit beradaptasi saat beralih dari satu pekerjaan ke pekerjaan lain, alih-alih menyalahkan otak Anda, alihkan lingkungan warna di depan Anda secara fisik seperti Dumas saat memulai pekerjaan.
+      Jangan rumitkan kebiasaan ini dengan menggunakan terlalu banyak warna. Tujuannya adalah memberikan kontras visual yang sederhana untuk membedakan jenis tugas kognitif.
     </p>
   </div>
 </div>
@@ -119,4 +113,4 @@ Alexandre Dumas' color differentiation was a cognitive design that solved this b
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong><strong></strong>

@@ -23,11 +23,7 @@ faqs:
     answer: "No se necesita un espacio especial. Basta con cerrar la puerta, sentarse de espaldas a la pared para evitar distracciones o colocar un panel divisorio que bloquee la vista más allá del monitor."
 ---
 
-Linus Torvalds, the computer engineering icon who created the Linux kernel running inside billions of devices and designed Git. What drove his explosive concentration, allowing him to sculpt complex open-source operating systems line by line? 💻
-
-Linus Torvalds placed his computer in a corner of his home's laundry room, shut the door, and coded in darkness, blocking all sunlight and artificial lighting. There were no books, frames, or decorative gadgets on his desk—only a single monitor. By reducing surrounding visual distractions to zero, Torvalds freed his visual cortex, letting him invest 100% of his cognitive resources into the logical world inside the monitor. This dark and quiet laundry room was the workspace that enabled him to trace operating system flaws.
-
-Today, BuildSelf reveals the cognitive principles of Linus Torvalds' 'darkroom focus' routine and introduces how modern knowledge workers can apply it to defeat distraction.
+Linus Torvalds programaba Linux en una habitación oscura y silenciosa sin decoraciones. Este entorno de estímulo mínimo le permitió dedicar toda su energía prefrontal al desarrollo del kernel al eliminar las distracciones sensoriales del entorno.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,9 +41,7 @@ Today, BuildSelf reveals the cognitive principles of Linus Torvalds' 'darkroom f
 
 ## 1. 'Filtración cognitiva' para conservar la atención mediante el control visual
 
-Our visual cortex constantly processes details about everything we see—toys, frames, or moving people. Visual processing consumes about 30% of the cerebral cortex's energy, making it the sensory input that places the greatest cognitive load on the brain.
-
-Linus Torvalds' darkroom focus routine maximized <strong>'Cognitive Filtration'</strong> by cutting off visual stimuli at the source, allowing him to concentrate his cognitive resources on logical problem-solving. When the surroundings are dark and irrelevant books or objects vanish from sight, the brain does not even waste energy deciding what to filter out. The saved energy in the prefrontal cortex is redirected to tracing abstract data structures and code logic, securing overwhelming concentration speed.
+La corteza prefrontal es muy sensible a las distracciones visuales y auditivas del entorno. Trabajar en un espacio de baja iluminación y silencioso apaga los filtros de alerta del cerebro, reduciendo la fatiga del procesamiento y maximizando la concentración.
 
 ---
 
@@ -90,7 +84,7 @@ Linus Torvalds' darkroom focus routine maximized <strong>'Cognitive Filtration'<
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      For Linus Torvalds, the laundry room was a cognitive fortress that cut off external temptation and minor stimulation. If your home is distracting and your focus is wasted, make your desk surrounding completely dry without visual decorations and dim the ambient lighting. You will experience incredible immersion.
+      Evite trabajar en la oscuridad durante períodos excesivamente prolongados para no causar fatiga ocular. Use una luz de fondo suave y asegure una ergonomía básica para proteger su bienestar físico.
     </p>
   </div>
 </div>
@@ -119,4 +113,4 @@ Linus Torvalds' darkroom focus routine maximized <strong>'Cognitive Filtration'<
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong>

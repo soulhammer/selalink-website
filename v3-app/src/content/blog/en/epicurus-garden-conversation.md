@@ -1,8 +1,8 @@
 ---
 title: "Intellectual Solidarity in a Simple Garden: Epicurus's Conversation and Frugal Diet Habit"
 description: "Epicurus established 'The Garden' to share simple meals and intellectual dialogues with close friends. Discover how psychological safety and social connection stimulate oxytocin."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["Great Habits","epicurus","Routine","Stamina"]
 heroImage: "/images/blog/epicurus_garden_conversation.png"

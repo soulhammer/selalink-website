@@ -23,11 +23,7 @@ faqs:
     answer: "Even without a viewfinder, you can achieve the same visual framing effect by cutting a small square hole in a card or simply forming a circle with your fingers (like an OK sign) and looking through it with one eye closed. The principle of filtering out peripheral visual noise remains identical."
 ---
 
-Steven Spielberg, the master director who defined modern cinema with hits like Jaws, E.T., and Jurassic Park. Where did his overwhelming creative designs come from? 🎬
-
-Whenever Spielberg hit a creative block in storyboarding or scene direction, he pulled out a small director's viewfinder and tiny scale model toys (like miniature cars) from his pocket. He spun and felt the shapes of these toys while looking through the viewfinder to frame his surroundings tightly. He recalled that this visual and haptic stimulation immediately unlocked the 3D spatial thinking that had stalled in his mind.
-
-Today, BuildSelf looks into the brain science behind Spielberg's 'viewfinder and tactile model' routine and how to apply it to unlock blocks.
+Steven Spielberg formava um visor com as mãos para visualizar cenas de filmes. Esse hábito tátil ajudou ele a enquadrar e focar sua atenção espacial rapidamente.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,7 +41,7 @@ Today, BuildSelf looks into the brain science behind Spielberg's 'viewfinder and
 
 ## 1. Estimulação do córtex somatossensorial e aceleração do lobo parietal
 
-Fidelity touch feedback (haptic feedback) from feeling scale models stimulates the brain's somatosensory cortex. This activates the right parietal lobe, which manages spatial reasoning and three-dimensional rotation. Concurrently, framing visual fields through viewfinders acts as visual reframing, filtering out visual noise and focusing frontal lobe energy on the structural relationships of target ideas.
+Formar um enquadramento físico ativa o processamento espacial no lobo parietal e ajuda o córtex visual a ignorar o ruído periférico, facilitando a atenção seletiva.
 
 ---
 
@@ -88,7 +84,7 @@ Fidelity touch feedback (haptic feedback) from feeling scale models stimulates t
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      If fidget toys are too complex or colorful, your brain might get distracted by the toy itself instead of focusing on the task. For cognitive offloading, utilize simple, solid, and cool metal or wooden scale models. Also, limit the tactile stimulation to a maximum of 10 minutes to prevent distraction.
+      Não olhe de forma passiva. Use a estimulação tátil de seus dedos para criar conscientemente um enquadramento e focar sua atenção mental.
     </p>
   </div>
 </div>

@@ -1,8 +1,8 @@
 ---
 title: "Melodies Drafted in the Soil: Giuseppe Verdi's Morning Farming Habit"
 description: "Giuseppe Verdi woke up at 5 AM to farm in Sant'Agata before writing scores. Discover how physical work under morning sunlight floods the brain with serotonin."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["Great Habits","verdi","Routine","Stamina"]
 heroImage: "/images/blog/verdi_morning_farming.png"

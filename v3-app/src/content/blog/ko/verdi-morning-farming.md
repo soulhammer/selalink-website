@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "흙을 일구어 작곡한 멜로디: 주세페 베르디의 아침 농업 노동 습관"
 description: "악보를 그리기 전 새벽 5시에 일어나 산타가타 농장에서 직접 흙을 갈고 땀을 흘렸던 주세페 베르디. 아침 자연광 아래 신체 노동이 뇌에 풍부한 세로토닌을 공급하여 창작적 영감을 촉발하는 메커니즘을 규명합니다."
-pubDate: "2026-07-17"
+pubDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["창의성", "휴식", "생산성"]
 heroImage: "/images/blog/verdi_morning_farming.png"
 app: "buildself"
 authority: "메리 제인 필립스-매츠 저 『베르디 평전(Verdi: A Biography)』 일기 고증 및 자연 접촉(Earthing)과 아침 Daylight 노출이 대뇌 세로토닌 및 인지 유연성에 미치는 환경신경과학 연구"
-updatedDate: "2026-07-17"
+updatedDate: "2026-06-21"
 faqs:
   - question: "아침 체육관 운동(헬스)도 베르디의 농업과 유사한 창의적 뇌 자극 효과가 있나요?"
     answer: "유산소 및 가벼운 근육 활성화는 도움을 주지만, 인공 조명 아래 실내 헬스는 멜라토닌 억제 효과가 덜합니다. 자연광(햇빛) 아래에서의 활동과 흙, 자연물을 직접 만지는 자연 접촉(Earthing)이 동반되어야 베르디와 같은 강력한 신경 안정과 세로토닌 활성이 일어납니다."

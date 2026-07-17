@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "시동을 걸기 전 이미 달린 100번의 랩: 아일톤 세나의 시각화 명상 습관"
 description: "레이스가 시작하기 전 머릿속으로 완벽한 주행 궤적과 근육 반응을 수십 번 시뮬레이션했던 아일톤 세나. 두뇌의 모터 피질을 자극하여 반응 속도를 단축하고 편도체 과부하를 막는 행동 시각화의 과학을 파헤칩니다."
-pubDate: "2026-07-17"
+pubDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["집중", "몰입", "성공습관"]
 heroImage: "/images/blog/senna_pre_race_visualization.png"
 app: "buildself"
 authority: "크리스토퍼 힐튼 저 『아일톤 세나: 그의 진실한 이야기(Ayrton Senna: The Whole Story)』 전기적 사실 고증 및 스포츠 신경과학에서의 행동 시각화(Mental Imagery) 임상 인지 기능 연구 결과"
-updatedDate: "2026-07-17"
+updatedDate: "2026-05-14"
 faqs:
   - question: "시각화 명상을 할 때 실제 머리카락이나 바람의 느낌까지 상상해야 하나요?"
     answer: "그렇습니다. 뇌과학적으로 시각 자극뿐 아니라 소리(청각), 압력(촉각) 등의 오감을 섞은 다감각적 시각화(Multisensory Imagery)를 수행할 때 실제 뉴런 경로의 예열 효과가 훨씬 배가됩니다."

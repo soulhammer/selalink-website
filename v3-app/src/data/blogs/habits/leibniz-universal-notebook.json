@@ -4,49 +4,89 @@
       "ko": "만능 지식의 단권화 수첩: 라이프니츠의 커먼플레이스 북 필기 습관",
       "en": "The Notebook of Universal Knowledge: Leibniz's Commonplace Book Habit",
       "ja": "万能知識の単巻化手帳：ライプニッツのコモンプレイス・ブック筆記習慣",
-      "zh": "万能知识的单册化笔记本：莱布尼茨的常用手册记事习惯"
+      "zh": "万能知识的单册化笔记本：莱布尼茨的常用手册记事习惯",
+      "es": "El cuaderno del conocimiento universal: el hábito del libro de lugares comunes de Leibniz",
+      "fr": "Le carnet du savoir universel : l'habitude du livre de lieux communs de Leibniz",
+      "de": "Das Notizbuch des universellen Wissens: Leibniz' Gewohnheit des Commonplace Books",
+      "pt": "O caderno do conhecimento universal: o hábito do livro de lugares comuns de Leibniz",
+      "id": "Buku Catatan Pengetahuan Universal: Kebiasaan Buku Catatan Umum Leibniz"
     },
     "description": {
       "ko": "미적분을 발견한 천재 학자이자, 모든 지식과 영감을 한 권의 범주화된 수첩에 단권화했던 라이프니츠. 정보를 맥락화하여 장기 강화(LTP)를 유도하고 아이디어의 교차 융합을 촉진하는 신경인지적 비결을 밝깁니다.",
       "en": "Leibniz wove calculus and philosophy through a single commonplace book. Learn the cognitive science of how categorizing raw thoughts triggers long-term potentiation and cross-pollinates ideas.",
       "ja": "微積分を発見した天才学者であり、すべての知識とインスピレーションを一冊のカテゴリ化された手帳にまとめたライプニッツ. 情報を文脈化して長期増強（LTP）を誘導し、アイデアの交差融合を促進する神経認知的秘訣を明らかにします.",
-      "zh": "独立创立微积分的画时代天才学者，将所有知识 and 灵感归拢于一册分类笔记本中的莱布尼茨。阐明将信息情境化以引导长期增强（LTP）并促进想法交融的神经认知秘诀。"
+      "zh": "独立创立微积分的画时代天才学者，将所有知识 and 灵感归拢于一册分类笔记本中的莱布尼茨。阐明将信息情境化以引导长期增强（LTP）并促进想法交融的神经认知秘诀。",
+      "es": "Leibniz tejió el cálculo y la filosofía a través de un único libro de lugares comunes. Conozca la ciencia cognitiva de cómo categorizar los pensamientos en bruto activa la potenciación a largo plazo.",
+      "fr": "Leibniz a tissé le calcul et la philosophie à travers un unique livre de lieux communs. Découvrez la science cognitive de la façon dont la catégorisation des pensées brutes déclenche la potentialisation à long terme.",
+      "de": "Leibniz verknüpfte Infinitesimalrechnung und Philosophie in einem einzigen Commonplace Book. Lernen Sie die kognitionswissenschaftlichen Hintergründe darüber kennen, wie die Kategorisierung roher Gedanken die Langzeitpotenzierung aktiviert.",
+      "pt": "Leibniz entrelaçou o cálculo e a filosofia através de um único livro de lugares comuns. Aprenda a ciência cognitiva de como categorizar pensamentos brutos ativa a potenciação a longo prazo.",
+      "id": "Leibniz merajut kalkulus dan filsafat melalui satu buku catatan umum. Pelajari sains kognitif tentang bagaimana mengategorikan pikiran mentah memicu potensiasi jangka panjang."
     },
     "authority": {
       "ko": "마리아 로사 안토냐차 저 『라이프니츠 평전(Leibniz: An Intellectual Biography)』 기록 고증 및 정보 뇌 과학에서의 의미망 형성(Semantic Networking)과 시냅스 장기 강화(LTP) 인지 이론",
       "en": "Maria Rosa Antognazza's 'Leibniz: An Intellectual Biography' and Cognitive Research on Semantic Networking and Long-term Potentiation (LTP)",
       "ja": "マリア・ローサ・アントニャッツァ著『ライプニッツ評伝（Leibniz: An Intellectual Biography）』記録考証および情報脳科学における意味ネットワーク形成（Semantic Networking）とシナプス長期増強（LTP）認知理論",
-      "zh": "玛丽亚·罗莎·安托尼亚扎著《莱布尼茨知识传记》记录考证及关于大脑信息科学中语义网络形成与突触长期增强的认知理论"
+      "zh": "玛丽亚·罗莎·安托尼亚扎著《莱布尼茨知识传记》记录考证及关于大脑信息科学中语义网络形成与突触长期增强的认知理论",
+      "es": "La biografía de Maria Rosa Antognazza 'Leibniz: An Intellectual Biography' e investigación cognitiva sobre redes semánticas y potenciación a largo plazo (LTP)",
+      "fr": "La biographie de Maria Rosa Antognazza 'Leibniz: An Intellectual Biography' et recherche cognitive sur le réseautage sémantique et la potentialisation à long terme (LTP)",
+      "de": "Maria Rosa Antognazzas Biografie 'Leibniz: An Intellectual Biography' und kognitive Forschung zu semantischen Netzwerken und Langzeitpotenzierung (LTP)",
+      "pt": "A biografia de Maria Rosa Antognazza 'Leibniz: An Intellectual Biography' e pesquisa cognitiva sobre redes semânticas e potenciação a longo prazo (LTP)",
+      "id": "Biografi Maria Rosa Antognazza 'Leibniz: An Intellectual Biography' dan Riset Kognitif tentang Jaringan Semantik serta Potensiasi Jangka Panjang (LTP)"
     },
     "intro": {
       "ko": "독일의 위대한 철학자이자 미적분학의 창시자, 이진법의 확립자인 고트프리트 빌헬름 라이프니츠. 인류 역사상 가장 다방면에 걸쳐 방대한 지식을 소유했던 백과사전적 천재였던 그였지만, 그의 거대한 학문적 지도는 무질서한 방치가 아닌 철저한 메모 습관에서 구축되었습니다. 라이프니츠는 평생 '커먼플레이스 북(Commonplace Book)'이라 불리는 단 한 권의 단권화 필기 노트를 몸에 지녔습니다. 독서 중 얻은 인용구, 대화 속 지혜, 여행길 마차 안에서 떠오른 수학 공식까지 모두 한 권에 적어 나만의 체계적인 인덱스로 관리했습니다. 정보를 고립시키지 않고 유기적으로 연결한 라이프니츠의 단권화 수첩 메커니즘을 규명합니다.",
       "en": "Gottfried Wilhelm Leibniz, the German philosopher, creator of calculus, and founder of binary code, possessed some of the most vast encyclopedic knowledge in history. His monumental map of learning was built on a thorough note-taking habit. Leibniz kept a single commonplace book with him throughout his life. Quotes from reading, conversational insights, and mathematical formulas derived in carriages were all recorded in one place under his own index system. We explore Leibniz's notebook mechanism.",
       "ja": "ドイツの偉大な哲学者であり、微積分学の創始者、二進法の確立者であるゴットフリート・ヴィルヘルム・ライプニッツ. 人類の歴史上最も多方面にわたる膨大な知識を所有した百科事典的天才であった彼でしたが、彼の巨大な学術的地図は、無秩序な放置ではなく徹底したメモ習慣から構築されました. ライプニッツは生涯、「コモンプレイス・ブック（Commonplace Book）」と呼ばれるたった一冊の単巻化筆記ノートを身につけていました. 読書中に得た引用句、対話の中の知恵、旅行中の馬車の中で浮かんだ数学公式まで、すべてを一冊に書き留め、自分だけの体系的なインデックスで管理しました. 情報を孤立させずに有機的に連結したライプニッツの単巻化手帳メカニズムを究明します.",
-      "zh": "德国伟大的哲学家、微积分的创立者、二进制的确立者高特弗里德·威廉·莱布尼茨。尽管他是人类历史上在最多领域拥有最庞大知识的百科全书式天才，但他宏伟的学术版图并非建立在无秩序的堆砌之上，而是源于极其彻底的笔记习惯。莱布尼茨终其一生都随身携带一册被称为“常用手册”的分类记事本。阅读中获得的引文、交谈中的智慧、旅行马车中闪现的数学公式，通通记录在这一册中，并利用自己独特的系统化索引进行管理。阐明不让信息孤立、使其有机结合的莱布尼茨单册化记事本机制。"
+      "zh": "德国伟大的哲学家、微积分的创立者、二进制的确立者高特弗里德·威廉·莱布尼茨。尽管他是人类历史上在最多领域拥有最庞大知识的百科全书式天才，但他宏伟的学术版图并非建立在无秩序的堆砌之上，而是源于极其彻底的笔记习惯。莱布尼茨终其一生都随身携带一册被称为“常用手册”的分类记事本。阅读中获得的引文、交谈中的智慧、旅行马车中闪现的数学公式，通通记录在这一册中，并利用自己独特的系统化索引进行管理。阐明不让信息孤立、使其有机结合的莱布尼茨单册化记事本机制。",
+      "es": "Gottfried Wilhelm Leibniz, el filósofo alemán, creador del cálculo y fundador del código binario, poseía algunos de los conocimientos enciclopédicos más vastos de la historia. Su monumental mapa del aprendizaje se construyó sobre un minucioso hábito de tomar notas. Leibniz mantuvo un solo libro de lugares comunes con él durante toda su vida. Las citas de lecturas, las ideas conversacionales y las fórmulas matemáticas derivadas en carruajes se registraban en un solo lugar bajo su propio sistema de índices. Exploramos el mecanismo de su cuaderno.",
+      "fr": "Gottfried Wilhelm Leibniz, le philosophe allemand, créateur du calcul et fondateur du code binaire, possédait certaines des connaissances encyclopédiques les plus vastes de l'histoire. Sa carte monumentale de l'apprentissage s'est construite sur une habitude minutieuse de prise de notes. Leibniz a gardé un unique livre de lieux communs avec lui tout au long de sa vie. Les citations de lectures, les idées de conversations et les formules mathématiques notées dans des carrosses étaient toutes enregistrées au même endroit.",
+      "de": "Gottfried Wilhelm Leibniz, der deutsche Philosoph, Erfinder der Infinitesimalrechnung und Begründer des Binärcodes, besaß eines der umfangreichsten enzyklopädischen Wissen der Geschichte. Seine monumentale Wissenslandkarte baute auf einer gründlichen Gewohnheit des Notizenschreibens auf. Leibniz führte zeit seines Lebens ein einziges Commonplace Book mit sich. Zitate aus Lektüren, Gesprächserkenntnisse und in Kutschen entwickelte mathematische Formeln wurden an einem Ort unter seinem eigenen Indexsystem festgehalten.",
+      "pt": "Gottfried Wilhelm Leibniz, o filósofo alemão, criador do cálculo e fundador do código binário, possuía alguns dos conhecimentos enciclopédicos mais vastos da história. Seu monumental mapa de aprendizagem foi construído sobre um minucioso hábito de tomar notas. Leibniz manteve um único livro de lugares comuns com ele durante toda a sua vida. Citações de leituras, percepções de conversas e fórmulas matemáticas derivadas em carruagens eram registradas num único local.",
+      "id": "Gottfried Wilhelm Leibniz, filsuf Jerman, pencipta kalkulus, dan penemu kode biner, memiliki pengetahuan ensiklopedis paling luas dalam sejarah. Peta pembelajarannya yang monumental dibangun di atas kebiasaan mencatat yang menyeluruh. Leibniz menyimpan satu buku catatan umum bersamanya sepanjang hidupnya. Kutipan dari bacaan, wawasan percakapan, dan rumus matematika yang diperoleh di kereta semuanya dicatat di satu tempat di bawah sistem indeksnya sendiri."
     },
     "whyTitle": {
       "ko": "정보의 연결과 시냅스 장기 강화(LTP)의 촉진 효과",
       "en": "Information Linking and Promotion Effect of Long-term Potentiation (LTP)",
       "ja": "情報の連結とシナプス長期増強（LTP）の促進効果",
-      "zh": "信息结合与突触长期增强（LTP）的促进效应"
+      "zh": "信息结合与突触长期增强（LTP）的促进效应",
+      "es": "Vinculación de información y efecto de promoción de la potenciación a largo plazo (LTP)",
+      "fr": "Liaison d'informations et effet de promotion de la potentialisation à long terme (LTP)",
+      "de": "Informationsverknüpfung und Förderungseffekt der Langzeitpotenzierung (LTP)",
+      "pt": "Ligação de informações e efeito de promoção da potenciação a longo prazo (LTP)",
+      "id": "Penghubung Informasi dan Efek Promosi Potensiasi Jangka Panjang (LTP)"
     },
     "whyDesc": {
       "ko": "인간의 대뇌 피질은 새로운 정보를 파편적으로 수집할 때보다, 기존에 영속화된 지식 인덱스 시스템에 서로 연결(Semantic Networking)하여 보존할 때 정보를 인출하는 속도와 정확도가 기하급수적으로 늘어납니다. 지식을 단권화된 노트에 인덱스로 분류하여 수동으로 적는 행위는 뇌의 시냅스 연결을 강화하여 신호 강도를 증가시키는 '장기 강화(LTP)' 현상을 유발합니다. 또한 서로 다른 영역의 지식들이 한 페이지 내에서 교차 연결되면서 논리적 비약을 극복하고 완전히 새로운 아이디어가 탄생하는 지적 비약을 일으킵니다.",
       "en": "The human cerebral cortex retrieves information exponentially faster and more accurately when it is connected (Semantic Networking) to existing knowledge indexes rather than collected fragmentarily. Manually writing and classifying knowledge in a single notebook indexes triggers Long-Term Potentiation (LTP), strengthening synaptic connections. Furthermore, cross-linking different fields of knowledge within the same notebook pages overcomes logical gaps, sparking intellectual leaps for entirely new ideas.",
       "ja": "人間の大脳皮質は、新しい情報を断片的に収集するよりも、既存の永続化された知識インデックスシステムに相互連結（Semantic Networking）して保存するとき、情報を引き出す速度と正確性が幾何級数的に増加します. 知識を単巻化されたノートにインデックスで分類して手動で書き込む行為は、脳のシナプス結合を強化して信号強度を増加させる「長期増強（LTP）」現象を誘発します. また、異なる領域の知識が一ページ内で交差連結され、論理的な飛躍を克服して完全に新しいアイデアが誕生する知的飛躍を引き起こします.",
-      "zh": "人类的大脑皮层在将新信息与既有的永久性知识索引系统相互结合（语义网络）并保存时，提取信息的检索速度与准确度会呈几何级数增长，而非碎片化地收集。将知识分类索引并手动写在单册笔记本中的行为，会强化大脑突触连接，从而引发提升信号强度的“长期增强”现象。此外，不同领域的知识在同一页纸中发生交叉结合，有助于克服逻辑跳跃，催生出全新创见的智力飞跃。"
+      "zh": "人类的大脑皮层在将新信息与既有的永久性知识索引系统相互结合（语义网络）并保存时，提取信息的检索速度与准确度会呈几何级数增长，而非碎片化地收集。将知识分类索引并手动写在单册笔记本中的行为，会强化大脑突触连接，从而引发提升信号强度的“长期增强”现象。此外，不同领域的知识在同一页纸中发生交叉结合，有助于克服逻辑跳跃，催生出全新创见的智力飞跃。",
+      "es": "La corteza cerebral humana recupera información exponencialmente más rápido y con mayor precisión cuando está conectada (Redes Semánticas) a índices de conocimiento existentes en lugar de recopilarse de forma fragmentaria. Escribir y clasificar manualmente los conocimientos en un único cuaderno genera Potenciación a Largo Plazo (LTP), fortaleciendo las conexiones sinápticas. Además, vincular diferentes campos de conocimiento dentro de las mismas páginas supera las lagunas lógicas, provocando saltos intelectuales para ideas completamente nuevas.",
+      "fr": "Le cortex cérébral humain récupère les informations de manière exponentiellement plus rapide et plus précise lorsqu'elles sont connectées (Réseautage sémantique) à des index de connaissances existants plutôt que collectées de manière fragmentaire. Écrire et classer manuellement les connaissances dans un unique carnet déclenche la potentialisation à long terme (LTP), renforçant les connexions synaptiques.",
+      "de": "Die menschliche Großhirnrinde ruft Informationen exponentiell schneller und genauer ab, wenn sie mit bestehenden Wissensindizes verknüpft sind (semantische Vernetzung), als wenn sie fragmentiert gesammelt werden. Das manuelle Schreiben und Klassifizieren von Wissen in einem einzigen Notizbuch-Index löst eine Langzeitpotenzierung (LTP) aus, was die synaptischen Verbindungen stärkt. Darüber hinaus überwindet die Querbeziehung verschiedener Wissensbereiche logische Lücken und führt zu intellektuellen Sprüngen.",
+      "pt": "O córtex cerebral humano recupera informações exponencialmente mais rápido e com maior precisão quando está conectado (Redes Semânticas) a índices de conhecimento existentes, em vez de coletado de forma fragmentada. Escrever e classificar manualmente os conhecimentos num único caderno ativa a Potenciação a Longo Prazo (LTP), fortalecendo as conexões sinápticas.",
+      "id": "Korteks serebral manusia mengambil informasi secara eksponensial lebih cepat dan lebih akurat ketika informasi tersebut terhubung (Semantic Networking) dengan indeks pengetahuan yang ada, daripada dikumpulkan secara terfragmentasi. Menulis dan mengklasifikasikan pengetahuan secara manual dalam satu indeks buku catatan memicu Long-Term Potentiation (LTP), memperkuat koneksi sinaptik. Terlebih lagi, menghubungkan berbagai bidang pengetahuan yang berbeda dalam halaman buku catatan yang sama mengatasi celah logis, memicu lompatan intelektual untuk ide-ide baru yang segar."
     },
     "cautionTitle": {
       "ko": "주의사항 및 팁",
       "en": "Precautions and Tips",
       "ja": "注意事項とヒント",
-      "zh": "注意事项与建议"
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
     },
     "cautionDesc": {
       "ko": "커먼플레이스 북의 가장 큰 함정은 노트를 다각화하여 여러 권으로 분리해 관리하는 것입니다. 정보 수집을 완벽하게 하겠다며 독서 수첩, 일상 수첩, 업무 수첩, 아이디어 수첩으로 노트를 파편화하면 뇌는 정보를 인출할 때 경로 수집 병목을 일으키고, 교차 융합의 기회가 소실됩니다. 따라서 라이프니츠처럼 모든 생각은 오직 단 한 권의 무조건적 단권화 노트에 집적하고 인덱스 탭으로만 구분해야 의미망 시너지가 발생합니다.",
       "en": "The trap of a commonplace book is dividing your writing into multiple specialized notebooks. Fragmenting notes into reading, daily, work, and idea books causes retrieval bottlenecks and loses opportunities for cross-pollination. Leibniz collected all thoughts in just one notebook, separating only with index tabs to ignite synergy.",
       "ja": "コモンプレイス・ブックの最大の落とし穴は、ノートを多角化して複数冊に分類し管理することです. 情報収集を完璧にするとして、読書手帳、日常手帳、業務手帳、アイデア手帳へとノートを断片化すると、脳は情報を引き出す際に経路収集のボトルネックを起こし、交差融合の機会が失われます. したがって、ライプニッツのようにすべての思考は、ただ「たった一冊の無条件の単巻化ノート」に集積し、インデックス付箋だけで区分してこそ意味ネットワークの相乗効果が発生します.",
-      "zh": "常用手册的最大陷阱是，将笔记本多样化并拆分为多本进行管理。如果为了完美收集信息而将笔记碎片化为读书笔记、日常记事、工作手册、点子本等，大脑在提取信息时会产生路径搜集瓶颈，并丧失交叉融合的机会。因此，应当像莱布尼茨一样，将所有想法无条件汇聚在仅此一册的单册化笔记本中，仅利用索引标签进行区分，这样才能产生语义网络的协同效应。"
+      "zh": "常用手册的最大陷阱是，将笔记本多样化并拆分为多本进行管理。如果为了完美收集信息而将笔记碎片化为读书笔记、日常记事、工作手册、点子本等，大脑在提取信息时会产生路径搜集瓶颈，并丧失交叉融合的机会。因此，应当像莱布尼茨一样，将所有想法无条件汇聚在仅此一册的单册化笔记本中，仅利用索引标签进行区分，这样才能产生语义网络的协同效应。",
+      "es": "El error de un libro de lugares comunes es dividir la escritura en múltiples cuadernos especializados. Fragmentar las notas en libros de lectura, diario, trabajo e ideas causa cuellos de botella en la recuperación y pierde oportunidades de intercambio. Leibniz reunió todos los pensamientos en un solo cuaderno, separándolos solo con pestañas de índice para generar sinergia.",
+      "fr": "Le piège d'un livre de lieux communs est de diviser vos écrits en plusieurs carnets spécialisés. Fragmenter les notes en carnets de lecture, de quotidien, de travail et d'idées provoque des goulets d'étranglement dans la récupération et fait perdre des opportunités de croisement. Leibniz a rassemblé toutes ses pensées dans un seul carnet, les séparant uniquement par des onglets.",
+      "de": "Die Falle eines Commonplace Books besteht darin, Ihre Aufzeichnungen in mehrere spezialisierte Notizbücher aufzuteilen. Die Fragmentierung von Notizen in Lektüre-, Tage-, Arbeits- und Ideenbücher führt zu Engpässen beim Abrufen und lässt Gelegenheiten zur gegenseitigen Befruchtung ungenutzt. Leibniz sammelte alle Gedanken in nur einem Notizbuch und trennte sie nur mit Registerkarten, um Synergien freizusetzen.",
+      "pt": "O erro de um livro de lugares comuns é dividir a escrita em múltiplos cadernos especializados. Fragmentar as notas em cadernos de leitura, diário, trabalho e ideias causa gargalos na recuperação e perde oportunidades de intercâmbio. Leibniz reuniu todos os pensamentos num único caderno, separando-os apenas com abas de índice para gerar sinergia.",
+      "id": "Jebakan dari buku catatan umum adalah membagi tulisan Anda ke dalam beberapa buku catatan khusus. Memecah catatan menjadi buku bacaan, harian, kerja, dan ide menyebabkan hambatan dalam pencarian dan menghilangkan peluang untuk saling silang. Leibniz mengumpulkan semua pikiran hanya dalam satu buku catatan, memisahkannya hanya dengan tab indeks untuk memicu sinergi."
     },
     "steps": [
       {
@@ -54,13 +94,23 @@
           "ko": "단 하나의 영구 단권화 노트 지정",
           "en": "Designating Just One Permanent Unified Notebook",
           "ja": "たった一冊の永久単巻化ノートの指定",
-          "zh": "指定唯一一本永久单册化笔记本"
+          "zh": "指定唯一一本永久单册化笔记本",
+          "es": "Designar un solo cuaderno unificado permanente",
+          "fr": "Désigner un seul carnet unifié permanent",
+          "de": "Bestimmung eines einzigen, dauerhaften, einheitlichen Notizbuchs",
+          "pt": "Designar um único caderno unificado permanente",
+          "id": "Menentukan Hanya Satu Buku Catatan Terpadu yang Permanen"
         },
         "text": {
           "ko": "정보의 파편화를 막기 위해 아날로그 수첩이든 단일 디지털 파일이든 모든 생각을 받아적을 단 하나의 노트를 지정합니다.",
           "en": "To prevent fragmentation of information, designate just one notebook to write all thoughts, whether an analog pocketbook or a single digital file.",
           "ja": "情報の断片化を防ぐため、アナログ手帳であれ単一のデジタルファイルであれ、すべての思考を書き留めるたった一冊 of ノートを指定します.",
-          "zh": "为防止信息碎片化，指定唯一一本用于记录所有想法的笔记本——无论是纸质笔记本还是单一的数字化文件。"
+          "zh": "为防止信息碎片化，指定唯一一本用于记录所有想法的笔记本——无论是纸质笔记本还是单一的数字化文件。",
+          "es": "Para evitar la fragmentación de la información, designe un solo cuaderno para escribir todos los pensamientos, ya sea una libreta analógica o un solo archivo digital.",
+          "fr": "Pour éviter la fragmentation de l'information, désignez un seul carnet pour écrire toutes les pensées, qu'il s'agisse d'un agenda analogique ou d'un fichier numérique unique.",
+          "de": "Um eine Fragmentierung der Informationen zu verhindern, bestimmen Sie ein einziges Notizbuch für alle Gedanken, sei es ein analoges Taschenbuch oder eine einzige digitale Datei.",
+          "pt": "Para evitar a fragmentação da informação, designe um único caderno para escrever todos os pensamentos, seja um caderno analógico ou um único arquivo digital.",
+          "id": "Untuk mencegah fragmentasi informasi, tentukan hanya satu buku catatan untuk menulis semua pikiran, baik buku saku analog maupun file digital tunggal."
         }
       },
       {
@@ -68,13 +118,23 @@
           "ko": "지식 습득 및 영감의 인덱스 태깅 기록",
           "en": "Recording with Index Tagging of Knowledge and Insights",
           "ja": "知識習得およびインスピレーションのインデックスメタ記帳",
-          "zh": "记录知识学习与灵感的索引标记"
+          "zh": "记录知识学习与灵感的索引标记",
+          "es": "Grabar con etiquetado de índice de conocimiento e ideas",
+          "fr": "Enregistrer avec un étiquetage d'index des connaissances et des idées",
+          "de": "Erfassung mit Index-Kennzeichnung von Wissen und Erkenntnissen",
+          "pt": "Gravar com etiquetagem de índice de conhecimento e ideias",
+          "id": "Mencatat dengan Penandaan Indeks Pengetahuan dan Wawasan"
         },
         "text": {
           "ko": "새로운 정보를 적을 때, 맨 위에 날짜와 함께 고유 범주(예: [철학], [수학], [아이디어])를 앞머리에 달아 기록을 누적합니다.",
           "en": "When writing new information, prefix the entry with the date and its specific category (e.g., [Phil], [Math], [Idea]) to build the archive.",
           "ja": "新しい情報を書き留める際、一番上に日付と共に固有のカテゴリ（例：［哲学］、［数学］、［アイデア］）を前置して記録を累積します.",
-          "zh": "记录新信息时，在最上方一并标注日期与固有分类（例如：[哲学]、[数学]、[想法]），以此累积记录。"
+          "zh": "记录新信息时，在最上方一并标注日期与固有分类（例如：[哲学]、[数学]、[想法]），以此累积记录。",
+          "es": "Al escribir nueva información, anteponga a la entrada la fecha y su categoría específica (por ejemplo, [Fil], [Mat], [Idea]) para crear el archivo.",
+          "fr": "Lorsque vous écrivez de nouvelles informations, préfixez l'entrée par la date et sa catégorie spécifique (par exemple, [Phil], [Math], [Idée]) pour construire l'archive.",
+          "de": "Wenn Sie neue Informationen aufschreiben, stellen Sie dem Eintrag das Datum und die spezifische Kategorie vor (z. B. [Phil], [Math], [Idee]), um das Archiv aufzubauen.",
+          "pt": "Ao escrever novas informações, prefixe a entrada com a data e sua categoria específica (por ejemplo, [Fil], [Mat], [Ideia]) para criar o arquivo.",
+          "id": "Saat menulis informasi baru, awali entri dengan tanggal dan kategori spesifiknya (misalnya, [Fil], [Mat], [Ide]) untuk membangun arsip."
         }
       },
       {
@@ -82,13 +142,23 @@
           "ko": "주기적 노트 정독 및 아이디어 결합",
           "en": "Periodic Reading of the Notebook and Idea Combination",
           "ja": "周期的なノートの精読とアイデアの結合",
-          "zh": "定期精读笔记与想法融合"
+          "zh": "定期精读笔记与想法融合",
+          "es": "Lectura periódica del cuaderno y combinación de ideas",
+          "fr": "Lecture périodique du carnet et combinaison d'idées",
+          "de": "Regelmäßiges Lesen des Notizbuchs und Verknüpfen von Ideen",
+          "pt": "Leitura periódica do caderno e combinação de ideias",
+          "id": "Membaca Buku Catatan Secara Berkala dan Menggabungkan Ide"
         },
         "text": {
           "ko": "매주 주말이나 고정 시간에 노트를 처음부터 훑어보며, 서로 다른 인덱스의 정보들이 연결되는 지점을 포착하여 새로운 기획을 만듭니다.",
           "en": "Every weekend or at a set time, scan through the notebook from the beginning to capture linking points between different index categories to draft new plans.",
           "ja": "毎週末または固定の時間にノートを最初から見返し、異なるインデックスの情報が結びつくポイントを捉えて新しい企画を立てます.",
-          "zh": "在每周周末或固定时间从头浏览一遍笔记本，捕捉不同索引信息相互关联的契合点，以此开发新策划。"
+          "zh": "在每周周末或固定时间从头浏览一遍笔记本，捕捉不同索引信息相互关联的契合点，以此开发新策划。",
+          "es": "Cada fin de semana o a una hora fija, revise el cuaderno desde el principio para capturar puntos de enlace entre diferentes categorías de índices para redactar nuevos planes.",
+          "fr": "Chaque week-end ou à une heure fixe, parcourez le carnet depuis le début pour saisir les points de liaison entre différentes catégories d'index afin de rédiger de nouveaux plans.",
+          "de": "Gehen Sie jedes Wochenende oder zu einer festgelegten Zeit das Notizbuch von Anfang an durch, um Verknüpfungspunkte zwischen verschiedenen Indexkategorien zu erfassen und neue Pläne zu entwerfen.",
+          "pt": "A cada fim de semana ou em um horário fixo, revise o caderno desde o início para capturar pontos de ligação entre diferentes categorias de índices para redigir novos planos.",
+          "id": "Setiap akhir pekan atau pada waktu yang ditentukan, pindai buku catatan dari awal untuk menangkap titik penghubung antara kategori indeks yang berbeda guna merancang rencana baru."
         }
       }
     ],
@@ -98,13 +168,23 @@
           "ko": "커먼플레이스 북을 디지털 도구(노션, 옵시디언 등)로 실천해도 되나요?",
           "en": "Can I use digital tools like Notion or Obsidian instead?",
           "ja": "コモンプレイス・ブックをデジタルツール（Notion、Obsidianなど）で実践してもいいですか？",
-          "zh": "可以用Notion或Obsidian等数字工具代替吗？"
+          "zh": "可以用Notion或Obsidian等数字工具代替吗？",
+          "es": "¿Puedo utilizar herramientas digitales como Notion u Obsidian en su lugar?",
+          "fr": "Puis-je utiliser des outils numériques comme Notion ou Obsidian à la place ?",
+          "de": "Kann ich stattdessen digitale Tools wie Notion oder Obsidian verwenden?",
+          "pt": "Posso usar ferramentas digitais como Notion ou Obsidian em seu lugar?",
+          "id": "Bisakah saya menggunakan alat digital seperti Notion atau Obsidian sebagai gantinya?"
         },
         "answer": {
           "ko": "그렇습니다. 디지털 도구는 검색과 링크 연결에 아주 유리합니다. 중요한 것은 노션을 쓸 때 페이지를 여러 곳으로 쪼개기보다, 단 하나의 보드나 데이터베이스 테이블에 날짜, 범주 태그를 달아 한곳에 축적(단권화)하는 라이프니츠식 시스템을 구현하는 것입니다.",
           "en": "Yes. Digital tools are excellent for search and linking. The key is to avoid fragmenting files and instead maintain a single unified database with date and category tags.",
           "ja": "そうです. デジタルツールは検索やリンクの接続に非常に有利です. 重要なのは、Notionを使用する際にページを多数に分割するのではなく、日付やカテゴリタグを付けて一箇所に蓄積（単巻化）するライプニッツ式システムを実装することです.",
-          "zh": "可以。数字工具非常适合搜索和链接。关键是避免将文件碎片化，而是维护一个带有日期和分类标签的统一数据库。"
+          "zh": "可以。数字工具非常适合搜索和链接。关键是避免将文件碎片化，而是维护一个带有日期和分类标签的统一数据库。",
+          "es": "Sí. Las herramientas digitales son excelentes para buscar y vincular. La clave es evitar la fragmentación de archivos y, en su lugar, mantener una única base de datos unificada con etiquetas de fecha y categoría.",
+          "fr": "Oui. Les outils numériques sont excellents pour la recherche et les liens. L'essentiel est d'éviter de fragmenter les fichiers et de conserver à la place une base de données unifiée avec des étiquettes de date et de catégorie.",
+          "de": "Ja. Digitale Tools eignen sich hervorragend für die Suche und Verknüpfung. Der Schlüssel liegt darin, eine Fragmentierung von Dateien zu vermeiden und stattdessen eine einzige einheitliche Datenbank mit Datums- und Kategorie-Tags zu führen.",
+          "pt": "Sim. As ferramentas digitais são excelentes para pesquisa e vinculação. O segredo é evitar a fragmentação de arquivos e, em vez disso, manter um único banco de datos unificado com tags de data e categoria.",
+          "id": "Ya. Alat digital sangat bagus untuk pencarian dan penghubung. Kuncinya adalah menghindari fragmentasi file dan sebaliknya memelihara satu database terpadu dengan tag tanggal dan kategori."
         }
       },
       {
@@ -112,15 +192,27 @@
           "ko": "수첩 한 권에 적다 보면 정보가 너무 무질서해지지 않나요?",
           "en": "Won't gathering everything in one place make it messy?",
           "ja": "手帳一冊に書いていると、情報が乱雑になりませんか？",
-          "zh": "把所有东西聚集在一个地方不会很乱吗？"
+          "zh": "把所有东西聚集在一个地方不会很乱吗？",
+          "es": "¿Reunir todo en un solo lugar no hará que todo sea un desastre?",
+          "fr": "Rassembler tout au même endroit ne va-t-il pas rendre les choses confuses ?",
+          "de": "Wird das Sammeln aller Dinge an einem Ort nicht zu einem Chaos führen?",
+          "pt": "Reunir tudo num único local não tornará tudo uma bagunça?",
+          "id": "Bukankah mengumpulkan semuanya di satu tempat akan membuatnya berantakan?"
         },
         "answer": {
           "ko": "질서보다 축적이 우선입니다. 정보가 한곳에 모여 있어야만 뇌는 뜻밖의 아이디어 교차 융합을 만들어냅니다. 정보 정리는 매일 하려 하지 말고, 일주일에 한 번 특정 시간을 정해 인덱스 태그를 달고 구조화하는 형태로 완벽히 이원화하여 관리하십시오.",
           "en": "Accumulation precedes order. Having ideas close together allows the brain to cross-pollinate them. Don't worry about order daily; dedicate a brief weekly slot to tag and clean up entries.",
           "ja": "秩序よりも蓄積が優先されます. 情報が一箇所に集まっているからこそ、脳は思いがけないアイデアの交差融合を生み出すことができます. 情報の整理は毎日行おうとせず、一週間に一度、特定の時間を決めてインデックスを付け構造化する形で完全に二元化して管理してください.",
-          "zh": "积累先于秩序。让想法靠近在一起，大脑才能相互授粉。不要每天担心秩序，每周专门花一个简短的时间段来标记和清理记录即可。"
+          "zh": "积累先于秩序。让想法靠近在一起，大脑才能相互授粉。不要每天担心秩序，每周专门花一个简短的时间段来标记和清理记录即可。",
+          "es": "La acumulación precede al orden. Tener las ideas juntas permite que el cerebro las fertilice de forma cruzada. No se preocupe por el orden a diario; dedique un breve espacio semanal para etiquetar y limpiar las entradas.",
+          "fr": "L'accumulation précède l'ordre. Le fait d'avoir des idées proches les unes des autres permet au cerveau de les croiser. Ne vous souciez pas de l'ordre au quotidien ; consacrez un court créneau hebdomadaire pour étiqueter et nettoyer les entrées.",
+          "de": "Akkumulation geht vor Ordnung. Wenn Ideen nahe beieinander liegen, kann das Gehirn sie gegenseitig befruchten. Machen Sie sich keine täglichen Sorgen um die Ordnung; widmen Sie wöchentlich ein kurzes Zeitfenster dem Taggen und Bereinigen von Einträgen.",
+          "pt": "A acumulação precede a ordem. Ter as ideias juntas permite que o cérebro as cruze. Não se preocupe com a ordem diariamente; dedique um breve espaço semanal para etiquetar e limpar as entradas.",
+          "id": "Akumulasi mendahului keteraturan. Menjaga ide-ide saling berdekatan memungkinkan otak untuk melakukan penyerbukan silang. Jangan khawatir tentang keteraturan harian; dedikasikan slot mingguan singkat untuk menandai dan merapikan entri."
         }
       }
-    ]
+    ],
+    "pubDate": "2026-02-27",
+    "updatedDate": "2026-02-27"
   }
 }

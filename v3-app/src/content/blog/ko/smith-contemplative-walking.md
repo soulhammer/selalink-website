@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "잠 가운을 입고 15마일을 걸은 학자: 애덤 스미스의 사색적 산책 습관"
 description: "아이디어를 머릿속으로 조립하기 위해 완전히 몰입한 채 장거리 산책을 즐겼던 애덤 스미스. 디지털 자극을 차단하고 걷는 행위가 디폴트 모드 네트워크를 활성화하여 창의성과 집중력을 극대화하는 신경과학적 원리를 해부합니다."
-pubDate: "2026-07-17"
+pubDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["생산성", "사색", "창의성"]
 heroImage: "/images/blog/smith_contemplative_walking.png"
 app: "buildself"
 authority: "존 레이 저 『애덤 스미스의 생애(The Life of Adam Smith)』 역사적 고증 및 스탠퍼드 대학교 오페조 & 슈워츠(2014)의 보행과 창의적 인지 기능 상관관계 연구"
-updatedDate: "2026-07-17"
+updatedDate: "2026-06-02"
 faqs:
   - question: "사색 산책의 적정 거리나 시간은 어느 정도인가요?"
     answer: "스미스처럼 15마일을 걸을 필요는 없습니다. 뇌의 혈류 개선과 DMN 활성화를 위한 임상적 권장 시간은 최소 20분에서 최대 40분 정도입니다. 거리보다는 디지털 자극을 완전히 차단한 집중 상태를 유지하는 시간이 중요합니다."

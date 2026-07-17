@@ -21,7 +21,7 @@ faqs:
     answer: "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year."
 ---
 
-Akira Kurosawa kept the simple principle of completing 2 pages of script daily even during busy filming. This is a wisdom to avoid amygdala threat and trigger action.
+Akira Kurosawa schrieb jeden Tag eine feste Anzahl von Drehbuchseiten, unabhängig von seiner Inspiration. Diese Routine verhinderte Schreibblockaden durch Disziplin statt Motivation.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Akira Kurosawa kept the simple principle of completing 2 pages of script daily e
 
 ## 1. Neuroscience of Micro-Goals Bypassing Brain Defense Mechanisms
 
-When a goal is too huge, the brain's amygdala perceives it as a threat and triggers procrastination. Extreme downsizing bypasses this block and starts prefrontal action.
+Das kreative Gehirn leidet oft unter Erwartungsparalyse. Das Festlegen eines quantitativ niedrigen Ziels reduziert die Angst und entlastet den präfrontalen Kortex.
 
 ---
 
@@ -82,7 +82,7 @@ When a goal is too huge, the brain's amygdala perceives it as a threat and trigg
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Thinking of a huge movie blocks breath, but anyone can write 2 pages daily. Focus only on today's step. You will find massive assets in a year.
+      Vermeiden Sie es, Ihre Arbeit während des Schreibens zu bewerten. Trennen Sie die Erstellungsphase streng von der Bearbeitungsphase, um den Flow-Zustand nicht zu stören.
     </p>
   </div>
 </div>

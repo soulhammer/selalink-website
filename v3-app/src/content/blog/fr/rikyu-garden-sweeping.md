@@ -21,7 +21,7 @@ faqs:
     answer: "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective."
 ---
 
-Sen no Rikyu swept the tea garden path every morning to align with nature and wipe away mental dust. This was a device to anchor attention to physical stimuli and reduce cognitive noise.
+Sen no Rikyu, le maître de thé qui a défini l'esthétique du Wabi-Sabi. En nettoyant le jardin, il laissait tomber des feuilles pour briser la perfection artificielle.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Sen no Rikyu swept the tea garden path every morning to align with nature and wi
 
 ## 1. Anchoring Effect of Broom Sound and Cognitive Noise Reduction
 
-Repetitive sweeping in a steady rhythm delivers immediate and simple physical feedback to bind attention to the present. This sensory focus stabilizes cognitive noise that triggers anxiety and distraction.
+La symétrie artificielle exige que le cortex préfrontal traite l'écart par rapport aux motifs naturels. Accepter l'imperfection réduit la fatigue mentale.
 
 ---
 
@@ -82,7 +82,7 @@ Repetitive sweeping in a steady rhythm delivers immediate and simple physical fe
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      The real dust to be swept is not on the ground, but in your mind. Feed your brain with tranquility and whitespace through simple repetitive physical activity.
+      Ne confondez pas cette habitude avec de la négligence. Le Wabi-Sabi consiste en un nettoyage en profondeur avec de subtiles touches d'asymétrie naturelle.
     </p>
   </div>
 </div>

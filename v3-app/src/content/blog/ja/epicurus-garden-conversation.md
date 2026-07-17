@@ -1,8 +1,8 @@
 ---
 title: "質素な庭での知的連帯：エピクロスの対話と質素な食事習慣"
 description: "アテネの郊外に「庭園」を開き、少数の友人たちと質素な食事を共にしながら深い思索を共有したエピクロス. 社会的過示を排し、安全な信頼関係の中で対話を交わす習慣が心に平穏をもたらす神経メカニズムを解説します。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["質素な庭での知的連帯","Routine"]
 heroImage: "/images/blog/epicurus_garden_conversation.png"

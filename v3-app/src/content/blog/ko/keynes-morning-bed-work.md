@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "이불 속에서 쓰인 일반이론: 존 메이너드 케인스의 아침 침대 작업 습관"
 description: "대공황을 극복한 거시경제학자이자 기상 직후 2시간 동안 침대 위에서 모든 원고를 집필했던 케인스. 기상 후 전두엽 각성을 주도하는 코르티솔 반응(CAR)을 활용해 집중력을 극대화하는 생산성의 비법을 소개합니다."
-pubDate: "2026-07-17"
+pubDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["집중", "생산성", "성공습관"]
 heroImage: "/images/blog/keynes_morning_bed_work.png"
 app: "buildself"
 authority: "로버트 스키델스키 저 『존 메이너드 케인스(John Maynard Keynes: Hopes Betrayed)』 전기 고증 및 기상 각성 호르몬(CAR)과 기상 직후 단기 각성이 전두엽 인지 기능에 미치는 임상 뇌신경과학 연구"
-updatedDate: "2026-07-17"
+updatedDate: "2026-02-08"
 faqs:
   - question: "침대 위에서 작업할 때 척추나 관절 건강에 해롭지 않나요?"
     answer: "완전히 평평하게 누워서 고개를 숙이는 자세는 경추와 척추에 나쁜 영향을 줍니다. 따라서 머리와 등이 비스듬히 45도 이상 곧추세워지도록 큰 쿠션이나 등받이를 단단히 받쳐야 하며, 최대 30분 내외로 시간을 한정해 집중해야 건강과 생산성을 모두 챙길 수 있습니다."

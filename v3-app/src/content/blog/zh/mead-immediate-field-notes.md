@@ -1,8 +1,8 @@
 ---
 title: "防止记忆被粉饰的记录：玛格丽特·米德的现场即时笔记习惯"
 description: "文化人类学家玛格丽特·米德在记忆发生指歪曲前，会在现场立即将观察到的事实记录在笔记本上。探讨克服大脑工作记忆容量限制并防止偏见的“认知卸载”神经学原理。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["防止记忆被粉饰的记录","Routine"]
 heroImage: "/images/blog/mead_immediate_field_notes.png"

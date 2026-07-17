@@ -1,8 +1,8 @@
 ---
 title: "General Theory Written Under the Blanket: John Maynard Keynes's Morning Bed Work Habit"
 description: "Macroeconomist John Maynard Keynes wrote all his manuscripts in bed for 2 hours after waking. Discover how to leverage the cortisol awakening response (CAR) for peak focus."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["Great Habits","keynes","Routine","Stamina"]
 heroImage: "/images/blog/keynes_morning_bed_work.png"

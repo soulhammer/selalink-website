@@ -4,49 +4,89 @@
       "ko": "영혼의 질서를 잡는 밤: 피타고라스의 저녁 자기 성찰 습관",
       "en": "The Night That Restores the Soul's Order: Pythagoras's Evening Self-Examination Habit",
       "ja": "魂の秩序を整える夜：ピタゴラスの夕方の自己省察習慣",
-      "zh": "整理灵魂秩序之夜：毕达哥拉斯的傍晚自我反省习惯"
+      "zh": "整理灵魂秩序之夜：毕达哥拉斯的傍晚自我反省习惯",
+      "es": "La noche que restaura el orden del alma: el hábito de autoexamen vespertino de Pitágoras",
+      "fr": "La nuit qui restaure l'ordre de l'âme : l'habitude d'auto-examen du soir de Pythagore",
+      "de": "Die Nacht, die die Ordnung der Seele wiederherstellt: Pythagoras' Gewohnheit der abendlichen Selbstprüfung",
+      "pt": "A noite que restaura a ordem da alma: o hábito de autoexame vespertino de Pitágoras",
+      "id": "Malam Yang Memulihkan Ketertiban Jiwa: Kebiasaan Pemeriksaan Diri Sore Hari Pythagoras"
     },
     "description": {
       "ko": "매일 밤 잠들기 전 하루의 언행을 세 번 되짚어보며 성찰했던 피타고라스. 수면 전 메타인지를 깨우는 3가지 자문 의식이 에피소드 기억을 강화하고 감정 조절력을 높이는 신경생리학적 효과를 탐구합니다.",
       "en": "Pythagoras reviewed his actions three times before sleeping. Explore the neurobiology of how this pre-sleep self-examination routine consolidates episodic memory.",
       "ja": "毎晩眠る前に一日の言動を三度振り返って省察したピタゴラス。睡眠前にメタ認知を呼び覚ます3つの自問儀式が、エピソード記憶を強化し感情コントロール力を高める神経生理学的効果を探求します。",
-      "zh": "毕达哥拉斯每天晚上睡前都会三次反省一天的言行。探讨睡前唤醒元认知的这三种自问仪式强化情景记忆、提高情绪控制力的神经生理学效果。"
+      "zh": "毕达哥拉斯每天晚上睡前都会三次反省一天的言行。探讨睡前唤醒元认知的这三种自问仪式强化情景记忆、提高情绪控制力的神经生理学效果。",
+      "es": "Pitágoras repasaba sus acciones tres veces antes de dormir. Explore la neurobiología de cómo esta rutina de autoexamen previa al sueño consolida la memoria episódica.",
+      "fr": "Pythagore passait en revue ses actions trois fois avant de s'endormir. Explorez la neurobiologie de la façon dont cette routine consolide la mémoire épisodique.",
+      "de": "Pythagoras ging seine Handlungen vor dem Schlafen dreimal durch. Erforschen Sie die Neurowissenschaft hinter der Frage, wie diese Selbstprüfung vor dem Schlafen das episodische Gedächtnis festigt.",
+      "pt": "Pitágoras revisava suas ações três vezes antes de dormir. Explore a neurobiologia de como esta rotina de autoexame antes do sono consolida a memória episódica.",
+      "id": "Pythagoras meninjau tindakannya tiga kali sebelum tidur. Jelajahi neurobiologi tentang bagaimana rutinitas pemeriksaan diri sebelum tidur ini memperkuat memori episodik."
     },
     "authority": {
       "ko": "피타고라스 학파의 행동 지침서 『황금시(Golden Verses)』 역사적 기록 및 하버드 대학교 의과대학 수면의학과 수면 중 기억 고정(Memory Consolidation) 신경학 연구 결과",
       "en": "Pythagorean code 'Golden Verses' and Harvard Medical School's Research on Sleep-state Memory Consolidation",
       "ja": "ピタゴラス学派の行動指針書『黄金詩（Golden Verses）』歴史的記録およびハーバード大学医学部睡眠医学科による睡眠中の記憶固定（Memory Consolidation）神経学研究結果",
-      "zh": "毕达哥拉斯学派的行为准则《黄金诗》历史记录及哈佛大学医学院睡眠医学科关于睡眠中记忆巩固的神经学研究成果"
+      "zh": "毕达哥拉斯学派的行为准则《黄金诗》历史记录及哈佛大学医学院睡眠医学科关于睡眠中记忆巩固的神经学研究成果",
+      "es": "El código pitagórico 'Versos dorados' e investigación de la Facultad de Medicina de Harvard sobre la consolidación de la memoria en estado de sueño",
+      "fr": "Le code pythagoricien 'Vers dorés' et recherches de la Harvard Medical School sur la consolidation de la mémoire pendant le sommeil",
+      "de": "Der pythagoreische Kodex 'Goldene Verse' und die Forschung der Harvard Medical School zur Gedächtniskonsolidierung im Schlafzustand",
+      "pt": "O código pitagórico 'Versos de Ouro' e pesquisa da Escola de Medicina de Harvard sobre a consolidação da memória no estado de sono",
+      "id": "Pedoman Pythagoras 'Golden Verses' dan Riset Harvard Medical School tentang Konsolidasi Memori Selama Tidur"
     },
     "intro": {
       "ko": "수학과 기하학의 거장이자 우주의 만물은 수로 이루어져 있다고 주장한 고대 그리스의 철학자 피타고라스. 그는 제자들과 함께 철저한 금욕과 영혼의 조화를 추구하는 신비주의 공동체를 이끌었습니다. 이 공동체에서 가장 중요하게 여겼던 실천 강령은 바로 매일 밤 수행되는 저녁 성찰 습관이었습니다. 피타고라스 학파의 『황금시』에 따르면, 그들은 잠들기 전 하루의 행동을 세 번씩 반복하여 자문했습니다. '내가 오늘 무엇을 잘못했는가?', '내가 오늘 실천한 선은 무엇인가?', '해야 했는데 하지 않은 일은 무엇인가?'. 하루를 돌아보며 인격의 완성을 꾀했던 피타고라스의 저녁 루틴을 분석합니다.",
       "en": "Pythagoras, the giant of mathematics and geometry, led a school seeking harmony and self-control. Their core rule was the evening self-examination. In the 'Golden Verses,' they asked three questions before sleep: 'What did I do wrong?', 'What good did I do?', and 'What did I omit?'. We analyze Pythagoras's evening self-examination routine.",
       "ja": "数学と幾何学の巨匠であり、宇宙の万物は数で構成されていると主張した古代ギリシャの哲学者ピタゴラス。彼は弟子たちと共に徹底した禁欲と魂の調和を追求した神秘主義共同体を率いていました。この共同体で最も重要視されていた実践綱領は、まさに毎夜行われる夕方の省察習慣でした。ピタゴラス学派の『黄金詩』によると、彼らは眠る前に一日の出来事を三度繰り返して自問しました。「私は何を間違えたのか？」「私が今日実践した善は何か？」「すべきだったができなかったことは何か？」。一日を省察して人格の完成を図ったピタゴラスの夜のルーティンを分析します。",
-      "zh": "古希腊哲学家毕达哥拉斯，数学和几何学大师，主张万物皆数。他带领弟子们组建了追求彻底禁欲和灵魂和谐的神秘主义共同体。在这个共同体中，最受重视的实践纲领便是每天晚上进行的傍晚省察习惯。根据毕达哥拉斯学派的《黄金诗》，他们在入睡前会三次自问一天的经历：“我做错了什么？”、“我今天践行了什么善？”、“有什么该做却没做的事？”。分析毕达哥拉斯通过省察一天来谋求人格完善的晚间常规。"
+      "zh": "古希腊哲学家毕达哥拉斯，数学和几何学大师，主张万物皆数。他带领弟子们组建了追求彻底禁欲和灵魂和谐的神秘主义共同体。在这个共同体中，最受重视的实践纲领便是每天晚上进行的傍晚省察习惯。根据毕达哥拉斯学派的《黄金诗》，他们在入睡前会三次自问一天的经历：“我做错了什么？”、“我今天践行了什么善？”、“有什么该做却没做的事？”。分析毕达哥拉斯通过省察一天来谋求人格完善的晚间常规。",
+      "es": "Pitágoras, el gigante de las matemáticas y la geometría, lideró una escuela que buscaba la armonía y el autocontrol. Su regla central era el autoexamen vespertino. En los 'Versos dorados', se hacían tres preguntas antes de dormir: '¿Qué hice mal?', '¿Qué bien hice?' y '¿Qué omití?'. Analizamos la rutina de autoexamen vespertino de Pitágoras.",
+      "fr": "Pythagore, le géant des mathématiques et de la géométrie, dirigeait une école en quête d'harmonie et d'autocontrôle. Leur règle centrale était l'auto-examen du soir. Dans les 'Vers dorés', ils se posaient trois questions avant de dormir : « Qu'ai-je fait de mal ? », « Quel bien ai-je fait ? » et « Qu'ai-je omis ? ». Nous analysons cette routine.",
+      "de": "Pythagoras, der Riese der Mathematik und Geometrie, leitete eine Schule, die nach Harmonie und Selbstkontrolle strebte. Ihre Kernregel war die abendliche Selbstprüfung. In den 'Goldenen Versen' stellten sie sich vor dem Schlafen drei Fragen: 'Was habe ich falsch gemacht?', 'Was habe ich Gutes getan?' und 'Was habe ich unterlassen?'. Wir analysieren seine Routine.",
+      "pt": "Pitágoras, o gigante da matemática e da geometria, liderou uma escola que buscava a harmonia e o autocontrole. Sua regra central era o autoexame vespertino. Nos 'Versos de Ouro', eles faziam três perguntas antes de dormir: 'O que eu fiz de errado?', 'Que bem eu fiz?' e 'O que eu omiti?'. Analisamos sua rotina.",
+      "id": "Pythagoras, raksasa matematika dan geometri, memimpin sebuah perguruan yang mencari harmoni dan pengendalian diri. Aturan inti mereka adalah pemeriksaan diri di sore hari. Dalam 'Golden Verses', mereka mengajukan tiga pertanyaan sebelum tidur: 'Apa yang saya lakukan salah?', 'Kebaikan apa yang saya lakukan?', dan 'Apa yang saya lewatkan?'. Kami menganalisis rutinitas pemeriksaan diri sore hari Pythagoras."
     },
     "whyTitle": {
       "ko": "수면 전 기억 통합과 정서 안정의 뇌과학적 원리",
       "en": "Neuroscience of Pre-sleep Memory Consolidation and Emotional Stability",
       "ja": "睡眠前の記憶統合と情緒安定の脳科学的原理",
-      "zh": "睡前记忆整合与情绪稳定的脑科学原理"
+      "zh": "睡前记忆整合与情绪稳定的脑科学原理",
+      "es": "Neurociencia de la consolidación de la memoria antes del sueño y estabilidad emocional",
+      "fr": "Neuroscience de la consolidation de la mémoire avant le sommeil et stabilité émotionnelle",
+      "de": "Neurowissenschaft der Gedächtniskonsolidierung vor dem Schlafengehen und emotionale Stabilität",
+      "pt": "Neurociência da consolidação da memória antes do sono e estabilidade emocional",
+      "id": "Neurosains Konsolidasi Memori Sebelum Tidur dan Stabilitas Emosional"
     },
     "whyDesc": {
       "ko": "수면은 낮 동안 해마에 저장된 단기 기억을 대뇌 피질로 이동시켜 장기 기억으로 고정(Memory Consolidation)하는 핵심 시간입니다. 잠들기 직전 의도적으로 하루의 행동을 돌아보는 행위는 뇌에게 '어떤 에피소드를 우선적으로 가공하여 저장할 것인가'에 대한 도표를 제공합니다. 또한 자신의 행동을 도덕적, 인지적으로 평가하는 '자기 모니터링' 프로세스는 전두엽의 억제 회로를 강화하여 감정적 앙금을 정화(카타르시스)하고 부교감 신경계를 활성화하여 깊은 서파(Slow-wave) 수면을 유도합니다.",
       "en": "Sleep is the time when short-term memories stored in the hippocampus move to the cerebral cortex to consolidate into long-term memories. Actively reviewing the day's actions before sleeping flags which episodes to prioritize. This self-monitoring process also strengthens prefrontal inhibitory circuits, clearing emotional tension and activating the parasympathetic nervous system to induce deep slow-wave sleep.",
       "ja": "睡眠は、日中に海馬に保存された情報を大脳皮質に移動させ、長期記憶として固定（Memory Consolidation）する核心的な時間です。眠る前に意図的に一日の行動を振り返る行為は、脳に対して「どのエピソードを優先的に加工し保存すべきか」という道しるべを提供します。また、自分の行動を道徳的・認知的に評価する「自己監視」プロセスは、前頭葉の抑制回路を強化して感情のしこりを浄化（カタルシス）し、副交感神経系を活性化して深いデルタ波睡眠を誘導します。",
-      "zh": "睡眠是将白天储存在海马体中的信息转移到大脑皮层并固定为长期记忆（记忆巩固）的核心时间。在入睡前有意识地回顾一天的行为，可以为大脑提供“应该优先加工和储存哪些情景”的指南针。此外，评估自身行为的“自我监测”过程可以强化前额叶的抑制回路，净化情绪包袱，并激活副交感神经系统以诱导深度慢波睡眠。"
+      "zh": "睡眠是将白天储存在海马体中的信息转移到大脑皮层并固定为长期记忆（记忆巩固）的核心时间。在入睡前有意识地回顾一天的行为，可以为大脑提供“应该优先加工和储存哪些情景”的指南针。此外，评估自身行为的“自我监测”过程可以强化前额叶的抑制回路，净化情绪包袱，并激活副交感神经系统以诱导深度慢波睡眠。",
+      "es": "El sueño es el momento en que los recuerdos a corto plazo almacenados en el hipocampo se trasladan a la corteza cerebral para consolidarse en recuerdos a largo plazo. Revisar activamente las acciones del día antes de dormir indica qué episodios priorizar. Este proceso de automonitoreo también fortalece los circuitos inhibidores prefrontales, eliminando la tensión emocional y activando el sistema nervioso parasimpático para inducir un sueño profundo de ondas lentas.",
+      "fr": "Le sommeil est le moment où les souvenirs à court terme stockés dans l'hippocampe se déplacent vers le cortex cérébral pour se consolider en souvenirs à long terme. Passer en revue activement les actions de la journée avant de dormir indique les épisodes à prioriser. Ce processus renforce également les circuits inhibiteurs préfrontaux, éliminant la tension émotionnelle.",
+      "de": "Der Schlaf ist die Zeit, in der sich im Hippocampus gespeicherte Kurzzeitgedächtnisse in die Großhirnrinde verlagern, um sich zu Langzeitgedächtnissen zu festigen. Die aktive Überprüfung der Tagesereignisse vor dem Schlafen signalisiert, welche Episoden priorisiert werden sollen. Dieser Selbstüberwachungsprozess stärkt auch die präfrontalen Hemmkreisläufe, was emotionale Spannungen abbaut.",
+      "pt": "O sono é o momento em que as memórias de curto prazo armazenadas no hipocampo se movem para o córtex cerebral para se consolidarem em memórias de longo prazo. Revisar ativamente as ações do dia antes de dormir sinaliza quais episódios priorizar. Este processo de automonitoramento também fortalece os circuitos inibitórios pré-frontais, eliminando a tensão emocional.",
+      "id": "Tidur adalah waktu ketika memori jangka pendek yang disimpan di hipokampus berpindah ke korteks serebral untuk dikonsolidasikan menjadi memori jangka panjang. Meninjau secara aktif tindakan hari itu sebelum tidur menandai episode mana yang harus diprioritaskan. Proses pemantauan diri ini juga memperkuat sirkuit penghambat prefrontal, membersihkan ketegangan emosional dan mengaktifkan sistem saraf parasimpatis untuk memicu tidur gelombang lambat yang dalam."
     },
     "cautionTitle": {
       "ko": "주의사항 및 팁",
       "en": "Precautions and Tips",
       "ja": "注意事項とヒント",
-      "zh": "注意事项与建议"
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
     },
     "cautionDesc": {
       "ko": "저녁 성찰의 가장 큰 위험은 성찰이 자책이나 후회(Rumination)로 변질되는 것입니다. 오늘 발생한 나쁜 사건에 감정적으로 매몰되어 반추를 반복하면, 스트레스 호르몬인 코르티솔이 분비되어 되려 불면을 초래합니다. 성찰을 진행할 때는 철저히 제3자의 입장에서 사건만을 객관적으로 바라보는 '인지적 거리두기(Cognitive Distance)'를 유지해야 하며, 자책 대신 '다음에는 이렇게 개선하겠다'는 행동 대안에 집중해야 합니다.",
       "en": "The danger of evening self-examination is falling into emotional self-blame or rumination. Reliving negative events triggers cortisol, destroying sleep. Maintain 'cognitive distance,' observing yourself objectively as a third party, and focus on constructive adjustments.",
       "ja": "夕方の省察の最大の危険は、振り返りが自責や後悔（Rumination）に変質することです。今日起きた悪い出来事に感情的に埋没し、反芻を繰り返すと、ストレスホルモンであるコルチゾールが分泌され、かえって不眠を招きます。省察を行うときは、徹底的に第三者の立場で出来ごとだけを客観的に見つめる「認知的距離感（Cognitive Distance）」を維持しなければならず、自責の代わりに「次はこのように改善する」という行動の選択肢に集中すべきです。",
-      "zh": "傍晚省察的最大危险是反省演变为自责或后悔（反刍）。如果情绪化地沉溺于今天发生的坏事并反复反刍，会导致压力荷尔蒙皮质醇的分泌，反而招致失眠。进行省察时，必须彻底以第三者的立场客观审视事件，保持“认知距离”，并专注于“下次如何改进”的行为选择，而不是自责。"
+      "zh": "傍晚省察的最大危险是反省演变为自责或后悔（反刍）。如果情绪化地沉溺于今天发生的坏事并反复反刍，会导致压力荷尔蒙皮质醇的分泌，反而招致失眠。进行省察时，必须彻底以第三者的立场客观审视事件，保持“认知距离”，并专注于“下次如何改进”的行为选择，而不是自责。",
+      "es": "El peligro del autoexamen vespertino es caer en la autoculpa emocional o la rumiación. Revivir eventos negativos genera cortisol, destruyendo el sueño. Mantenga una 'distancia cognitiva', observándose objetivamente como un tercero, y concéntrese en ajustes constructivos.",
+      "fr": "Le danger de l'auto-examen du soir est de tomber dans l'autocritique émotionnelle ou la rumination. Revivre des événements négatifs déclenche du cortisol, détruisant le sommeil. Maintenez une « distance cognitive », en vous observant objectivement comme un tiers.",
+      "de": "Die Gefahr der abendlichen Selbstprüfung besteht darin, in emotionale Selbstbeschuldigung oder Grübeln zu verfallen. Das Wiedererleben negativer Ereignisse setzt Cortisol frei, was den Schlaf zerstört. Bewahren Sie 'kognitive Distanz', indem Sie sich selbst objektiv als Außenstehender betrachten, und konzentrieren Sie sich auf konstruktive Anpassungen.",
+      "pt": "O perigo do autoexame vespertino é cair na autoculpa emocional ou ruminação. Reviver eventos negativos gera cortisol, destruindo o sono. Mantenha uma 'distância cognitiva', observando-se objetivamente como um terceiro, e concentre-se em ajustes construtivos.",
+      "id": "Bahaya dari pemeriksaan diri di malam hari adalah jatuh ke dalam menyalahkan diri sendiri secara emosional atau ruminasi. Mengalami kembali peristiwa negatif memicu kortisol, merusak tidur. Jaga 'jarak kognitif', amati diri Anda secara objektif sebagai pihak ketiga, dan fokuslah pada penyesuaian yang konstruktif."
     },
     "steps": [
       {
@@ -54,13 +94,23 @@
           "ko": "안정적인 성찰 환경 및 자세 확보",
           "en": "Ensuring a Calm Environment and Posture",
           "ja": "安定した省察環境と姿勢の確保",
-          "zh": "确保稳定的省察环境与姿势"
+          "zh": "确保稳定的省察环境与姿势",
+          "es": "Garantizar un entorno y una postura tranquilos",
+          "fr": "Assurer un environnement et une posture calmes",
+          "de": "Für eine ruhige Umgebung und Haltung sorgen",
+          "pt": "Garantir um ambiente e postura tranquilos",
+          "id": "Memastikan Lingkungan dan Postur yang Tenang"
         },
         "text": {
           "ko": "조명을 낮춘 어두운 침실에 바른 자세로 눕거나 기 기대어 앉아, 눈을 감고 전신의 긴장을 완전히 해제합니다.",
           "en": "Recline in a dimly lit bedroom, close your eyes, and release all tension from your body.",
           "ja": "照明を落とした暗い寝室に正しい姿勢で横になるか寄りかかって座り、目を閉じて全身の緊張を完全に解きます。",
-          "zh": "在光线昏暗的卧室中以正确的姿势躺下或靠坐，闭上双眼，完全释放全身的紧张感。"
+          "zh": "在光线昏暗的卧室中以正确的姿势躺下或靠坐，闭上双眼，完全释放全身的紧张感。",
+          "es": "Recuéstese en un dormitorio con luz tenue, cierre los ojos y libere toda la tensión de su cuerpo.",
+          "fr": "Allongez-vous dans une chambre faiblement éclairée, fermez les yeux et libérez toute tension de votre corps.",
+          "de": "Legen Sie sich in ein schwach beleuchtetes Schlafzimmer, schließen Sie die Augen und lösen Sie alle Spannungen aus Ihrem Körper.",
+          "pt": "Recline-se num quarto com iluminação suave, feche os olhos e libere toda a tensão do corpo.",
+          "id": "Berbaringlah di kamar tidur yang remang-remang, pejamkan mata, dan lepaskan semua ketegangan dari tubuh Anda."
         }
       },
       {
@@ -68,13 +118,23 @@
           "ko": "하루의 타임라인을 객관적으로 되감기",
           "en": "Rewinding the Day's Timeline Objectively",
           "ja": "一日のタイムラインの客観的な巻き戻し",
-          "zh": "客观回放一天的时光线"
+          "zh": "客观回放一天的时光线",
+          "es": "Rebobinar la línea de tiempo del día objetivamente",
+          "fr": "Rebobiner la chronologie de la journée objectivement",
+          "de": "Die Zeitleiste des Tages objektiv zurückspulen",
+          "pt": "Rebobinar a linha do tempo do dia objetivamente",
+          "id": "Memutar Kembali Garis Waktu Hari Itu Secara Objektif"
         },
         "text": {
           "ko": "아침에 일어난 시점부터 밤에 눕기 전까지 있었던 주요 사건들을 머릿속으로 빠르게 훑어봅니다. 영화 필름을 보듯 감정을 배제합니다.",
           "en": "Fast-rewind through the day's events in your mind from waking up to lying down, leaving emotions out as if watching a movie.",
           "ja": "朝起きた時点から夜横になるまでの主要な出来ごとを、頭の中で映画のフィルムを見るように感情を交えず素早く見返します。",
-          "zh": "从早上起床到晚上躺下，快速在脑海中浏览一天发生的主要事件。像看电影胶片一样排除个人情绪。"
+          "zh": "从早上起床到晚上躺下，快速在脑海中浏览一天发生的主要事件。像看电影胶片一样排除个人情绪。",
+          "es": "Rebobine rápidamente los eventos del día en su mente desde que se despierta hasta que se acuesta, dejando de lado las emociones como si estuviera viendo una película.",
+          "fr": "Rebobinez rapidement les événements de la journée dans votre esprit, du réveil au coucher, en laissant les émotions de côté comme si vous regardiez un film.",
+          "de": "Spulen Sie die Ereignisse des Tages im Geist schnell vom Aufwachen bis zum Hinlegen zurück, und blenden Sie Emotionen aus, als würden Sie einen Film ansehen.",
+          "pt": "Rebobine rapidamente os eventos do dia em sua mente, desde o acordar até se deitar, deixando as emoções de lado como se estivesse assistindo a um filme.",
+          "id": "Putar kembali peristiwa hari itu di pikiran Anda sejak bangun tidur hingga berbaring, kesampingkan emosi seolah-olah sedang menonton film."
         }
       },
       {
@@ -82,13 +142,23 @@
           "ko": "피타고라스 3대 질문의 적용 및 정리",
           "en": "Applying the 3 Pythagorean Questions and Concluding",
           "ja": "ピタゴラスの3大質問の適用と整理",
-          "zh": "应用和整理毕达哥拉斯三大提问"
+          "zh": "应用和整理毕达哥拉斯三大提问",
+          "es": "Aplicar las 3 preguntas pitagóricas y concluir",
+          "fr": "Appliquer les 3 questions pythagoriciennes et conclure",
+          "de": "Die 3 pythagoreischen Fragen anwenden und abschließen",
+          "pt": "Aplicar as 3 perguntas pitagóricas e concluir",
+          "id": "Menerapkan 3 Pertanyaan Pythagoras dan Menyelesaikan"
         },
         "text": {
           "ko": "질문(실수, 선행, 지연한 업무)에 담담히 자문하고, 행동 수정의 실마리만 뇌에 각인시키며 하루를 의식적으로 종료합니다.",
           "en": "Ask yourself Pythagoras's three questions, note the adjustments, and consciously end the day.",
           "ja": "問い（間違い、善行、先延ばしした仕事）に淡々と答え、行動修正の糸口だけをメモして一日を意識的に終わらせます。",
-          "zh": "淡然回答提问（错误、善行、拖延的任务），仅在脑海中刻下修正行为的线索，有意识地结束一天。"
+          "zh": "淡然回答提问（错误、善行、拖延的任务），仅在脑海中刻下修正行为的线索，有意识地结束一天。",
+          "es": "Hágase las tres preguntas de Pitágoras, anote los ajustes y finalice el día conscientemente.",
+          "fr": "Posez-vous les trois questions de Pythagore, notez les ajustements et terminez consciemment la journée.",
+          "de": "Stellen Sie sich die drei pythagoreischen Fragen, notieren Sie die Anpassungen und beenden Sie den Tag bewusst.",
+          "pt": "Faça a si mesmo as três perguntas de Pitágoras, anote os ajustes e termine o dia conscientemente.",
+          "id": "Ajukan tiga pertanyaan Pythagoras pada diri Anda, catat penyesuaian yang diperlukan, dan akhiri hari secara sadar."
         }
       }
     ],
@@ -98,13 +168,23 @@
           "ko": "하루 종일 너무 바쁘고 피곤해서 성찰하다가 그냥 자버리는데 어쩌죠?",
           "en": "What if I'm too tired and just fall asleep mid-examination?",
           "ja": "一日中とても忙しくて疲れているので、省察している途中で眠ってしまいますが、どうすればいいですか？",
-          "zh": "整天都很忙很累，省察着就睡着了，怎么办？"
+          "zh": "整天都很忙很累，省察着就睡着了，怎么办？",
+          "es": "¿Qué pasa si estoy demasiado cansado y me quedo dormido a mitad del examen?",
+          "fr": "Que faire si je suis trop fatigué et que je m'endors au milieu de l'examen ?",
+          "de": "Was ist, wenn ich zu müde bin und mitten in der Prüfung einfach einschlafe?",
+          "pt": "O que fazer se eu estiver muito cansado e simplesmente pegar no sono no meio do exame?",
+          "id": "Bagaimana jika saya terlalu lelah dan tertidur di tengah pemeriksaan diri?"
         },
         "answer": {
           "ko": "피곤해서 잠드는 것은 자연스러운 현상입니다. 다만, 침대 위가 아닌 일기를 쓰듯이 책상에 앉아서 5분만 짧게 기록하는 방식으로 진행하는 것이 수면 유도와 수면 관성을 방지하는 데 도움을 줍니다.",
           "en": "Falling asleep is fine, but you can try sitting at a desk and writing for just 5 minutes before getting in bed to prevent dropping off immediately.",
           "ja": "疲れて眠ることは自然な現象です。ただし、ベッドの上ではなく日記を書くように机に座って5分間短く記録する方式で進めることが、睡眠導入と睡眠慣性の防止に役立ちます。",
-          "zh": "疲惫入睡是自然现象。不过，可以尝试坐在书桌前像写日记一样进行5分钟的简短记录，而不是在床上进行，这有助于引导睡眠和防止深度睡眠惯性。"
+          "zh": "疲惫入睡是自然现象。不过，可以尝试坐在书桌前像写日记一样进行5分钟的简短记录，而不是在床上进行，这有助于引导睡眠和防止深度睡眠惯性。",
+          "es": "Quedarse dormido está bien, pero puede intentar sentarse en un escritorio y escribir durante solo 5 minutos antes de acostarse para evitar quedarse dormido de inmediato.",
+          "fr": "S'endormir est normal, mais vous pouvez essayer de vous asseoir à un bureau et d'écrire pendant seulement 5 minutes avant de vous coucher pour éviter de vous endormir immédiatement.",
+          "de": "Einschlafen ist in Ordnung, aber Sie können versuchen, sich an einen Schreibtisch zu setzen und vor dem Schlafengehen nur 5 Minuten lang zu schreiben, um ein sofortiges Wegnicken zu verhindern.",
+          "pt": "Dormir é natural, mas você pode tentar sentar numa escrivaninha e escrever por apenas 5 minutos antes de ir para a cama para evitar pegar no sono imediatamente.",
+          "id": "Tertidur adalah hal yang wajar, tetapi Anda dapat mencoba duduk di meja kerja dan menulis selama 5 menit saja sebelum tidur untuk mencegah langsung tertidur."
         }
       },
       {
@@ -112,15 +192,27 @@
           "ko": "자책으로 밤잠을 설칠 때는 어떻게 해야 하나요?",
           "en": "What should I do if self-blame keeps me awake?",
           "ja": "自責で夜眠れない時はどうすればいいですか？",
-          "zh": "因为自责而彻夜难眠时该怎么办？"
+          "zh": "因为自责而彻夜难眠时该怎么办？",
+          "es": "¿Qué debo hacer si la autoculpa me mantiene despierto?",
+          "fr": "Que dois-je faire si l'autocritique m'empêche de dormir ?",
+          "de": "Was soll ich tun, wenn Selbstbeschuldigung mich wach hält?",
+          "pt": "O que devo fazer se a autoculpa me mantiver acordado?",
+          "id": "Apa yang harus saya lakukan jika menyalahkan diri sendiri membuat saya tetap terjaga?"
         },
         "answer": {
           "ko": "감정 반추가 시작되면 자문을 즉시 중단하십시오. 그 대신 '이미 일어난 일은 어쩔 수 없으며, 내일 1가지만 다르게 하겠다'라고 대안적 선택지만 메모한 후 성찰을 끝마치는 훈련이 필요합니다.",
           "en": "Stop the process immediately if rumination starts. Simply write down one single action to take tomorrow, and consciously close the book.",
           "ja": "感情の反芻が始まったら自問をすぐに中止してください。その代わりに「すでに起きたことは仕方がないので、明日は1つだけ違う方法で行動する」と代替的な選択肢だけをメモして省察を終える訓練が必要です。",
-          "zh": "一旦开始情绪反刍，请立即停止自问。取而代之的是，需要训练自己仅备忘替代性选择，如“已经发生的事无可挽回，明天我会采取不一样的做法”，然后结束省察。"
+          "zh": "一旦开始情绪反刍，请立即停止自问。取而代之的是，需要训练自己仅备忘替代性选择，如“已经发生的事无可挽回，明天我会采取不一样的做法”，然后结束省察。",
+          "es": "Detenga el proceso inmediatamente si comienza la rumiación. Simplemente escriba una sola acción para realizar mañana y cierre el libro conscientemente.",
+          "fr": "Arrêtez immédiatement le processus si la rumination commence. Écrivez simplement une seule action à faire demain, et fermez consciemment le cahier.",
+          "de": "Brechen Sie den Vorgang sofort ab, wenn das Grübeln beginnt. Schreiben Sie einfach eine einzige Aktion auf, die Sie morgen tun wollen, und schließen Sie das Buch bewusst.",
+          "pt": "Interrompa o processo imediatamente se a ruminação começar. Apenas escreva uma única ação para realizar amanhã e encerre conscientemente o caderno.",
+          "id": "Hentikan proses segera jika ruminasi dimulai. Cukup tuliskan satu tindakan yang akan dilakukan besok, dan tutup buku catatan secara sadar."
         }
       }
-    ]
+    ],
+    "pubDate": "2026-04-06",
+    "updatedDate": "2026-04-06"
   }
 }

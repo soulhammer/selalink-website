@@ -37,7 +37,12 @@
       "ko": "마쓰시타 고노스케는 매일 저녁 온수 욕조에 몸을 담그며 자아 성찰과 깊은 사색을 진행했습니다. 이것은 지친 뇌를 부교감 신경계 이완으로 재생시키는 인지 복구 장치였습니다.",
       "en": "Konosuke Matsushita immersed himself in a warm bath every evening for self-reflection. This was a cognitive restore system to regenerate the brain via parasympathetic relaxation.",
       "ja": "松下幸之助は毎晩、温かい湯船に身を委ねながら自己省察と深い思索を行いました。これは疲れた脳を副交感神経の緩和によって再生する認知回復装置でした。",
-      "zh": "松下幸之助每天傍晚都会浸泡在温水浴缸中，进行深刻的反思与自省。这是一种通过激活副交感神经来放松并恢复疲惫大脑的认知修复手段。"
+      "zh": "松下幸之助每天傍晚都会浸泡在温水浴缸中，进行深刻的反思与自省。这是一种通过激活副交感神经来放松并恢复疲惫大脑的认知修复手段。",
+      "es": "Konosuke Matsushita tomaba baños largos todas las noches para reflexionar sobre sus decisiones comerciales. Este hábito de relajación térmica aumentó el flujo sanguíneo cerebral y promovió una profunda meditación calmada.",
+      "fr": "Konosuke Matsushita prenait de longs bains chaque soir pour réfléchir à ses décisions. Cette relaxation thermique augmentait le flux sanguin cérébral et favorisait la réflexion.",
+      "de": "Konosuke Matsushita nahm jeden Abend ein langes Bad, um über seine Geschäftsentscheidungen nachzudenken. Diese thermische Entspannung steigerte die Gehirndurchblutung.",
+      "pt": "Konosuke Matsushita tomava banhos longos todas as noites para refletir sobre suas decisões de negócios. Esse hábito de relaxamento térmico aumentou o fluxo sanguíneo cerebral.",
+      "id": "Konosuke Matsushita mandi air hangat dalam waktu lama setiap malam untuk merenungkan keputusan bisnisnya. Kebiasaan ini meningkatkan aliran darah ke otak."
     },
     "whyTitle": {
       "ko": "온수 이완과 기본 모드 네트워크의 시너지",
@@ -54,7 +59,12 @@
       "ko": "따뜻한 온수 입욕은 심부 체온을 높이고 부교감 신경을 활성화하여 코르티솔을 감소시킵니다. 외부 자극이 차단된 이완 상태는 뇌의 기본 모드 네트워크를 자극해 창의적인 통찰력을 선사합니다.",
       "en": "Immersion in warm water raises core temperature and triggers parasympathetic activation, reducing cortisol. This stimulus-blocked relaxation activates DMN for creative insight.",
       "ja": "温水への入浴は深部体温を高め、副交感神経を活性化してストレスホルモンを減少させます。外部の刺激が遮断されたリラックス状態は脳のDMNを刺激し、創造的な洞察を与えてくれます。",
-      "zh": "温水入浴能提高身体深层温度，激活副交感神经并减少皮质醇的分泌。在隔绝外界刺激的放松状态下，大脑的默认模式网络会重新活跃，带来出人意料的创造性直觉。"
+      "zh": "温水入浴能提高身体深层温度，激活副交感神经并减少皮质醇的分泌。在隔绝外界刺激的放松状态下，大脑的默认模式网络会重新活跃，带来出人意料的创造性直觉。",
+      "es": "El calentamiento corporal pasivo activa el sistema nervioso parasimpático, reduciendo el cortisol y promoviendo la relajación muscular. La vasodilatación aumenta el suministro de oxígeno al cerebro, facilitando el estado cognitivo difuso ideal para resolver problemas complejos.",
+      "fr": "Le réchauffement corporel passif active le système parasympatique, réduisant le cortisol. La vasodilatation augmente l'apport d'oxygène, facilitant l'état cognitif diffus.",
+      "de": "Passive Körpererwärmung aktiviert das parasympathische Nervensystem, senkt den Cortisolspiegel und fördert die Muskelentspannung. Die Vasodilatation erhöht die Sauerstoffzufuhr im Gehirn.",
+      "pt": "O aquecimento corporal passivo ativa o sistema nervoso parassimpático, reduzindo o cortisol. A vasodilatação aumenta o suprimento de oxigênio ao cérebro, facilitando o estado cognitivo difuso.",
+      "id": "Pemanasan tubuh pasif mengaktifkan sistem saraf parasimpatis, mengurangi kortisol. Vasodilatasi meningkatkan pasokan oksigen ke otak, memfasilitasi kondisi kognitif difus."
     },
     "cautionTitle": {
       "ko": "뇌의 비움을 돕는 거장의 한마디",
@@ -71,7 +81,12 @@
       "ko": "현명한 판단을 내리고 싶다면 먼저 뇌를 완전히 비우십시오. 욕실 내 디지털 차단과 15분간의 심신 이완이 그 지름길입니다.",
       "en": "If you want to make wise decisions, empty your brain first. Blocking digital devices in bath and 15-minute relaxation is the shortcut.",
       "ja": "賢明な判断を下したいなら、まずは脳を完全に空にしてください。浴室でのデジタル遮断と15分間の心身の緩和がその近道です。",
-      "zh": "若想做出贤明的决策，首先必须彻底放空大脑。在浴室中隔绝电子设备并进行15分钟的身心放松，是达到这一状态的捷径。"
+      "zh": "若想做出贤明的决策，首先必须彻底放空大脑。在浴室中隔绝电子设备并进行15分钟的身心放松，是达到这一状态的捷径。",
+      "es": "Limite la duración del baño a 20 minutos y evite el agua excesivamente caliente. Las temperaturas muy altas pueden activar el sistema simpático, contrarrestando el efecto de relajación buscado.",
+      "fr": "Limitez la durée du bain à 20 minutes et évitez l'eau trop chaude. Les températures très élevées peuvent activer le système sympathique, contrecarrant la relaxation.",
+      "de": "Begrenzen Sie das Bad auf 20 Minuten und vermeiden Sie zu heißes Wasser. Sehr hohe Temperaturen können das sympathische System aktivieren und die Entspannung stören.",
+      "pt": "Limite a duração do banho a 20 minutos e evite água excessivamente quente. Temperaturas muito altas podem ativar o sistema simpático, neutralizando o relaxamento.",
+      "id": "Batasi durasi mandi hingga 20 menit dan hindari air yang terlalu panas. Suhu yang sangat tinggi dapat mengaktifkan sistem simpatis, menggagalkan efek relaksasi."
     },
     "steps": [
       {

@@ -1,8 +1,8 @@
 ---
 title: "身穿睡衣步行15英里的学者：亚当·斯密的思索性散步习惯"
 description: "亚当·斯密通过长途步行深入思考，重构了复杂的经济思想。探讨在没有数字刺激的情况下步行如何激活默认模式网络以提升创造力。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["身穿睡衣步行15英里","Routine"]
 heroImage: "/images/blog/smith_contemplative_walking.png"

@@ -37,7 +37,12 @@
       "ko": "나쓰메 소세키는 매일 아침 영감을 기다리지 않고 기계적으로 책상에 앉았습니다. 이것은 뇌의 도파민 분비를 촉진하고 창의적인 집중력을 깨우는 작동 흥분 루틴입니다.",
       "en": "Natsume Soseki sat at his desk mechanically every morning without waiting for inspiration. This is a work excitement routine that stimulates dopamine and awakens creative focus.",
       "ja": "夏目漱石は毎朝、インスピレーションを待たずに機械的に机に向かいました。これは脳のドーパミン分泌を促し、創造的な集中力を呼び覚ます作業興奮ルーティンです。",
-      "zh": "夏目漱石每天清晨都不等灵感降临就机械地坐在书桌前。这是一种促进大脑分泌多巴胺、唤醒创造性专注力的“作业兴奋”惯例。"
+      "zh": "夏目漱石每天清晨都不等灵感降临就机械地坐在书桌前。这是一种促进大脑分泌多巴胺、唤醒创造性专注力的“作业兴奋”惯例。",
+      "es": "Natsume Soseki se sentaba a escribir mecánicamente todas las mañanas sin esperar inspiración. Este hábito de acción obligada estimuló la liberación de dopamina en su cerebro, despertando el enfoque creativo a través del movimiento físico.",
+      "fr": "Natsume Soseki s'asseyait pour écrire mécaniquement chaque matin sans attendre l'inspiration. Cette routine a stimulé la libération de dopamine.",
+      "de": "Natsume Soseki setzte sich jeden Morgen mechanisch zum Schreiben hin, ohne auf Inspiration zu warten. Diese Aktion stimulierte die Dopaminausschüttung.",
+      "pt": "Natsume Soseki sentava-se para escrever mecanicamente todas as manhãs sem esperar inspiração. Esse hábito estimulou a liberação de dopamina no cérebro.",
+      "id": "Natsume Soseki duduk menulis secara mekanis setiap pagi tanpa menunggu inspirasi. Kebiasaan tindakan paksa ini merangsang pelepasan dopamin."
     },
     "whyTitle": {
       "ko": "시작이 동기를 만드는 작동 흥분 효과",
@@ -54,7 +59,12 @@
       "ko": "뇌는 가만히 앉아 있을 때 동기부여 호르몬을 내보내지 않습니다. 움직이기 시작해야 비로소 전두엽과 측좌핵이 자극을 받아 행동력을 부여합니다.",
       "en": "The brain does not release motivation hormones when sitting still. Rhythmic actions trigger the nucleus accumbens to release dopamine and focus.",
       "ja": "脳は静かに座っているだけでは動機付けホルモンを放出しません。実際に動き始めることで側坐核が刺激され、ドーパミンが分泌されて集中モードに入ります。",
-      "zh": "大脑在静坐不动时不会释放动力激素。只有当身体开始行动时，侧坐核受到刺激才会分泌多巴胺，进而带入专注状态。"
+      "zh": "大脑在静坐不动时不会释放动力激素。只有当身体开始行动时，侧坐核受到刺激才会分泌多巴胺，进而带入专注状态。",
+      "es": "El cerebro no libera hormonas de motivación cuando está inactivo. Iniciar acciones físicas repetitivas estimula el núcleo accumbens, activando la producción de dopamina y conduciendo al cerebro a un estado de enfoque y concentración profunda de manera automática.",
+      "fr": "Le cerveau ne libère pas d'hormones de motivation lorsqu'il est inactif. Commencer des actions physiques stimule le noyau accumbens, activant la dopamine.",
+      "de": "Das Gehirn schüttet im Ruhezustand keine Motivationshormone aus. Der Beginn repetitiver physischer Handlungen stimuliert den Nucleus accumbens und aktiviert Dopamin.",
+      "pt": "O cérebro não libera hormônios de motivação quando está inativo. Iniciar ações físicas repetitivas estimula o núcleo accumbens, ativando a produção de dopamina.",
+      "id": "Otak tidak melepaskan hormon motivasi saat tidak aktif. Memulai tindakan fisik merangsang nukleus akumbens, mengaktifkan produksi dopamin."
     },
     "cautionTitle": {
       "ko": "행동을 바로 이끌기 위한 거장의 조언",
@@ -71,7 +81,12 @@
       "ko": "기분이나 환경의 조성을 기다리지 말고, 일단 원고지 앞에 앉아 한 글자라도 적기 시작하십시오. 행동만이 뇌를 깨웁니다.",
       "en": "Do not wait for mood or perfect environments. Just sit down and write a single character. Action alone awakens your brain.",
       "ja": "気分や完璧な環境が整うのを待つのではなく、まずは机に向かって一文字でも書き始めてください。行動だけが脳を目覚めさせます。",
-      "zh": "不要等待心情或完美环境。只要先坐在书桌前，哪怕只写一个字，行动本身就能唤醒大脑。"
+      "zh": "不要等待心情或完美环境。只要先坐在书桌前，哪怕只写一个字，行动本身就能唤醒大脑。",
+      "es": "No espere a que el entorno o su estado de ánimo sean perfectos. Simplemente siéntese e inicie la tarea escribiendo una sola palabra o realizando la primera acción física menor.",
+      "fr": "N'attendez pas que votre humeur soit parfaite. Asseyez-vous et commencez la tâche en écrivant un seul mot ou en faisant une première action physique.",
+      "de": "Warten Sie nicht auf die perfekte Stimmung. Setzen Sie sich einfach hin und beginnen Sie die Aufgabe, indem Sie ein einziges Wort schreiben.",
+      "pt": "Não espere que o ambiente ou seu humor estejam perfeitos. Apenas sente-se e inicie a tarefa escrevendo uma única palavra ou realizando uma primeira ação.",
+      "id": "Jangan menunggu suasana hati Anda sempurna. Cukup duduk dan mulai tugas dengan menulis satu kata atau melakukan tindakan fisik kecil pertama."
     },
     "steps": [
       {

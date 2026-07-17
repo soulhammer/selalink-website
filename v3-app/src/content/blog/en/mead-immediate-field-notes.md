@@ -1,8 +1,8 @@
 ---
 title: "Notes That Prevent the Adaptation of Memory: Margaret Mead's Immediate Note-taking Habit"
 description: "Anthropologist Margaret Mead wrote down observation facts on the spot before memory distorted. Explore the neuroscience of cognitive offloading to bypass working memory limits."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-03-18"
+updatedDate: "2026-03-18"
 category: "BuildSelf"
 tags: ["Great Habits","mead","Routine","Stamina"]
 heroImage: "/images/blog/mead_immediate_field_notes.png"

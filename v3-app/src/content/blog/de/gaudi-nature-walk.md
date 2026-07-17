@@ -23,11 +23,7 @@ faqs:
     answer: "Ein Laufband aktiviert den Körper, lässt aber keine Zeit für Beobachtungen. Zur Gehirnerholung und Kreativitätsförderung ist ein langsamer Spaziergang im Freien ideal."
 ---
 
-Columns mimicking tree trunks, curved apartment facades like rolling waves. Antoni Gaudí, the Spanish genius architect who created the most original architecture in human history by transplanting nature's shapes and organic structures into buildings. Where did his multidimensional and marvelous inspirations, which have astonished people for over a century, come from? ⛪
-
-Gaudí maintained a very strict walking habit of walking at least 4km through the streets of Barcelona every afternoon. During his walks, he closely observed natural patterns such as the twisting of street trees, the movement of clouds, the veins of leaves, and even insect wings and animal skeletons. The physical stimulation of walking, combined with the organic structures unfolding in front of him, formed the backbone of Gaudí's unique curved architectural engineering.
-
-Today, BuildSelf introduces the scientific principles behind Gaudí's '4km organic walk' routine and how modern people can apply it to generate creative ideas.
+Antoni Gaudí ging jeden Tag bei Sonnenuntergang in Barcelona spazieren, um geometrische Muster in der Natur zu beobachten. Dieses Eintauchen in natürliche Formen inspirierte seine Architektur.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,9 +41,7 @@ Today, BuildSelf introduces the scientific principles behind Gaudí's '4km organ
 
 ## 1. Das 'körperliche Gehen' zur Aktivierung des Hippocampus und der Kreativität
 
-When sitting at a desk for long hours obsessed with a single problem, the brain's frontal lobe enters a tense state and cognitive flexibility drops sharply. The brain circuit becomes fixed, reaching a deadlock of repeating the same thoughts.
-
-Gaudí's 4km walking routine was the most natural way to stimulate the brain, resolving mental blocks by providing both <strong>'physical activation'</strong> and <strong>'visual stimulation'</strong>. Walking increases the heart rate, supplying strong blood flow to the brain's hippocampus and frontal lobe, enhancing cognitive flexibility. Stanford researchers proved that walking alone increases creative output by an average of 60% compared to sitting. The natural objects and non-geometric structures encountered while walking stimulate various neurons in the visual cortex, organically connecting fragmented memories from new perspectives.
+Die Beobachtung natürlicher Fraktale aktiviert das Default-Mode-Netzwerk (DMN) und baut Stress ab. Spazierengehen regt die Gehirndurchblutung an und fördert die Serotoninsynthese.
 
 ---
 
@@ -90,7 +84,7 @@ Gaudí's 4km walking routine was the most natural way to stimulate the brain, re
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Für Gaudí war Gehen nicht nur Fitness, sondern die geistige Konstruktion zur Übertragung von Naturgesetzen. Wenn Sie bei schwierigen Plänen feststecken, stehen Sie auf und gehen Sie. Ihr Gehirn wird aktiv.
+      Vermeiden Sie es, während des Spaziergangs auf digitale Geräte zu schauen. Benachrichtigungen unterbrechen den Erholungsprozess des Gehirns und blockieren die kognitive Diffusion.
     </p>
   </div>
 </div>
@@ -119,4 +113,4 @@ Gaudí's 4km walking routine was the most natural way to stimulate the brain, re
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong><strong></strong>

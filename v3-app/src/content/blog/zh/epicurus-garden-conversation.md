@@ -1,8 +1,8 @@
 ---
 title: "简朴庭院中的智力团结：伊壁鸠鲁的对话与简朴饮食习惯"
 description: "伊壁鸠鲁在雅典郊外建立了“花园”，与少数朋友共享简谱的餐食，分享深刻的反思。探讨心理安全感与社会联结如何刺激催产素。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["简朴庭院中的智力团结","Routine"]
 heroImage: "/images/blog/epicurus_garden_conversation.png"

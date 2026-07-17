@@ -21,11 +21,7 @@ faqs:
     answer: "Escrever suas fraquezas mais difíceis de controlar (por exemplo, ficar longe do smartphone, cumplir horários) como frases positivas baseadas en ações es lo más eficaz para enviar estímulos claros al cerebro. (Wait, cumplir -> cumprir)"
 ---
 
-Yi I, the great Neo-Confucian scholar and politician of mid-Joseon, passed all nine state exams with top honors, earning him the title 'Gudojangwongong.' Behind his stellar achievements was the 'Jakyungmun' (Self-Warning Letter), a guide he wrote at age 20 to end his wandering after the death of his mother, Shin Saimdang. 📜
-
-Through Jakyungmun, Yi I structured his day, set principles for relationships and emotional control, and read it aloud every morning. This is a neuroscientific mechanism to enhance goal-directed attention control.
-
-Today, BuildSelf uncovers the cognitive science value of Yi I's morning self-warning routine and proposes a 3-step action guide for modern people to maintain autonomy and practice daily goals.
+Yi I escreveu 11 regras de advertência pessoal e as lia todas as manhãs para regular seu comportamento. Este hábito diário fortaleceu o autocontrole.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -43,9 +39,7 @@ Today, BuildSelf uncovers the cognitive science value of Yi I's morning self-war
 
 ## 1. Efeito de Autorreferência e Neurobiologia das Declarações Direcionadas a Metas
 
-In brain science, the Self-Reference Effect refers to the phenomenon where processing new information by linking it to oneself activates the medial prefrontal cortex (mPFC), leading to stronger memory and value internalization. Yi I reading rules bearing his name and code of conduct every morning was a process of reinforcing this neural pathway.
-
-Reading and injecting self-made principles into the brain every morning activates the cognitive control network. It functions as cognitive navigation, helping suppress impulses and make decisions aligned with long-term goals and discipline amid daily stimuli and temptations.
+Ler metas claras no início do dia ativa a rede de controle executivo do cérebro e consolida os objetivos na memória, ajudando a resistir às distrações.
 
 ---
 
@@ -88,7 +82,7 @@ Reading and injecting self-made principles into the brain every morning activate
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Mais importante do que estabelecer princípios é a honestidade de lembrar-se deles todas as manhãs. Não as regras dos outros, mas apenas os critérios com os quais você concorda e declara moverão seu cérebro com mais força e darão o controle do seu dia.
+      Não escreva regras excessivas que não possa cumprir. Limite sua lista a alguns princípios-chave que representem seus valores fundamentais.
     </p>
   </div>
 </div>

@@ -1,8 +1,8 @@
 ---
 title: "The Notebook of Universal Knowledge: Leibniz's Commonplace Book Habit"
 description: "Leibniz wove calculus and philosophy through a single commonplace book. Learn the cognitive science of how categorizing raw thoughts triggers long-term potentiation and cross-pollinates ideas."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["Great Habits","leibniz","Routine","Stamina"]
 heroImage: "/images/blog/leibniz_universal_notebook.png"

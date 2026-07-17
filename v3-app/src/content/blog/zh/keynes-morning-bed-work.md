@@ -1,8 +1,8 @@
 ---
 title: "被窝里写就的《一般理论》：约翰·梅纳德·凯恩斯的清晨卧床工作习惯"
 description: "克服大萧条的宏观经济学家、在起床后最初两小时内于床榻上撰写所有手稿的凯恩斯。介绍利用起床后引导前额叶觉醒的皮质醇反应（CAR）来最大化专注力的生产力秘诀。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
 tags: ["被窝里写就的《一般理","Routine"]
 heroImage: "/images/blog/keynes_morning_bed_work.png"

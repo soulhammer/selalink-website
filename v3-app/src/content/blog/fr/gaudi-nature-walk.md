@@ -23,11 +23,7 @@ faqs:
     answer: "Le tapis de course active le corps, mais ne laisse pas le temps d'observer. Pour réinitialiser le cerveau et stimuler la créativité, une marche lente en explorant l'environnement est idéale."
 ---
 
-Columns mimicking tree trunks, curved apartment facades like rolling waves. Antoni Gaudí, the Spanish genius architect who created the most original architecture in human history by transplanting nature's shapes and organic structures into buildings. Where did his multidimensional and marvelous inspirations, which have astonished people for over a century, come from? ⛪
-
-Gaudí maintained a very strict walking habit of walking at least 4km through the streets of Barcelona every afternoon. During his walks, he closely observed natural patterns such as the twisting of street trees, the movement of clouds, the veins of leaves, and even insect wings and animal skeletons. The physical stimulation of walking, combined with the organic structures unfolding in front of him, formed the backbone of Gaudí's unique curved architectural engineering.
-
-Today, BuildSelf introduces the scientific principles behind Gaudí's '4km organic walk' routine and how modern people can apply it to generate creative ideas.
+Antoni Gaudí marchait chaque jour à Barcelone au coucher du soleil pour observer les formes géométriques de la nature. Cette immersion a inspiré ses créations et soulagé sa fatigue.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,9 +41,7 @@ Today, BuildSelf introduces the scientific principles behind Gaudí's '4km organ
 
 ## 1. La 'marche physique' pour activer l'hippocampe et la créativité du cerveau
 
-When sitting at a desk for long hours obsessed with a single problem, the brain's frontal lobe enters a tense state and cognitive flexibility drops sharply. The brain circuit becomes fixed, reaching a deadlock of repeating the same thoughts.
-
-Gaudí's 4km walking routine was the most natural way to stimulate the brain, resolving mental blocks by providing both <strong>'physical activation'</strong> and <strong>'visual stimulation'</strong>. Walking increases the heart rate, supplying strong blood flow to the brain's hippocampus and frontal lobe, enhancing cognitive flexibility. Stanford researchers proved that walking alone increases creative output by an average of 60% compared to sitting. The natural objects and non-geometric structures encountered while walking stimulate various neurons in the visual cortex, organically connecting fragmented memories from new perspectives.
+L'observation des fractales naturelles active le réseau du mode par défaut (DMN). Marcher en plein air stimule le flux sanguin cérébral, favorisant la synthèse de sérotonine.
 
 ---
 
@@ -90,7 +84,7 @@ Gaudí's 4km walking routine was the most natural way to stimulate the brain, re
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Pour Gaudí, marcher n'était pas un simple exercice, mais un processus de conception mentale pour transposer le mystère de la nature en formules. Quand vous bloquez sur un plan, levez-vous et marchez. Le cerveau s'activera.
+      Évitez de consulter vos appareils numériques pendant la marche. Les notifications interrompent le processus de récupération et bloquent l'état de diffusion cognitive.
     </p>
   </div>
 </div>
@@ -119,4 +113,4 @@ Gaudí's 4km walking routine was the most natural way to stimulate the brain, re
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong><strong></strong>

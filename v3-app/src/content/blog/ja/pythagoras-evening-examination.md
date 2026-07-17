@@ -1,8 +1,8 @@
 ---
 title: "魂の秩序を整える夜：ピタゴラスの夕方の自己省察習慣"
 description: "毎晩眠る前に一日の言動を三度振り返って省察したピタゴラス。睡眠前にメタ認知を呼び覚ます3つの自問儀式が、エピソード記憶を強化し感情コントロール力を高める神経生理学的効果を探求します。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["魂の秩序を整える夜：","Routine"]
 heroImage: "/images/blog/pythagoras_evening_examination.png"

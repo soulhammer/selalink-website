@@ -1,8 +1,8 @@
 ---
 title: "The Scholar Who Walked 15 Miles in a Nightgown: Adam Smith's Contemplative Walking Habit"
 description: "Adam Smith wove complex economic thoughts through long-distance walks in deep focus. Discover how walking without digital stimulus activates the default mode network to boost creativity."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["Great Habits","smith","Routine","Stamina"]
 heroImage: "/images/blog/smith_contemplative_walking.png"

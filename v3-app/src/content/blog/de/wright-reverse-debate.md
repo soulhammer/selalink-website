@@ -23,11 +23,7 @@ faqs:
     answer: "Vereinbaren Sie vorab, dass die Regel der Gebrüder Wright gilt. Klären Sie, dass es sich um ein offizielles Rollenspiel handelt, um persönliche Angriffe zu vermeiden."
 ---
 
-Wilbur and Orville Wright, the brothers who successfully achieved the first controlled, powered flight through fierce winds, sparking the aviation revolution. What drove these ordinary brothers, who ran a bicycle repair shop, to conquer the sky ahead of the world's leading scholars? ✈️
-
-Whenever they encountered complex engineering obstacles such as wing design or aerodynamic balance, the Wright Brothers engaged in intense debates all night in the back room of their shop. When the debate reached a deadlock, they executed a peculiar rule: 'swap positions and debate again.' Wilbur defended Orville's theory, while Orville vigorously criticized his own previous theory from Wilbur's perspective. Through this reverse debate routine, the brothers diagnosed and corrected critical flaws in their design.
-
-Today, BuildSelf identifies the cognitive science principles behind the Wright Brothers' 'reverse debate' routine and proposes practical ways for modern people to make the best decisions.
+Wilbur und Orville Wright debattierten, indem sie jeden Abend ihre Rollen tauschten. Dieser Rollenwechsel half ihnen, Bestätigungsfehler zu vermeiden.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,9 +41,7 @@ Today, BuildSelf identifies the cognitive science principles behind the Wright B
 
 ## 1. Die 'metakognitive Restrukturierung' zur Neutralisierung des Bestätigungsfehlers
 
-The human brain is prone to <strong>'Confirmation Bias'</strong>, which selectively collects information supporting one's ideas while ignoring flaws or contrary evidence. This is a critical reason why many business projects and research developments fail.
-
-The Wright Brothers' reverse debate routine was a tool for <strong>'Metacognitive Restructuring'</strong> that neutralized this bias. Swapping positions to construct and present arguments forces the frontal lobe to let go of emotional attachment to previous theories. The metacognition circuit, which monitors one's own assumptions from a third-party perspective, is activated. During this process, they coolly discover logical flaws and blind spots hidden in their arguments, leading to an optimal, flaw-free solution.
+Die Verteidigung einer Gegenposition zwingt das Gehirn, nach Fakten zu suchen, die den eigenen Überzeugungen widersprechen. Dies fördert eine rationale Bewertung.
 
 ---
 
@@ -90,7 +84,7 @@ The Wright Brothers' reverse debate routine was a tool for <strong>'Metacognitiv
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Um die beste Idee zu perfektionieren, müssen Sie sich zuerst von ihr lösen können. Die Gebrüder Wright prüften ihre Theorien, indem sie in die Rolle des anderen schlüpften. Wenn Sie dogmatisch sind, drehen Sie Ihren Standpunkt um 180 Grad.
+      Lassen Sie die Debatte nicht zu einem emotionalen Wettkampf werden. Konzentrieren Sie sich auf Fakten und analysieren Sie Schwachstellen rational.
     </p>
   </div>
 </div>
@@ -119,4 +113,4 @@ The Wright Brothers' reverse debate routine was a tool for <strong>'Metacognitiv
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong><strong></strong>

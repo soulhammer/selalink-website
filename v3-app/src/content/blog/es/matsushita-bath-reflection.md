@@ -21,7 +21,7 @@ faqs:
     answer: "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring."
 ---
 
-Konosuke Matsushita immersed himself in a warm bath every evening for self-reflection. This was a cognitive restore system to regenerate the brain via parasympathetic relaxation.
+Konosuke Matsushita tomaba baños largos todas las noches para reflexionar sobre sus decisiones comerciales. Este hábito de relajación térmica aumentó el flujo sanguíneo cerebral y promovió una profunda meditación calmada.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -39,7 +39,7 @@ Konosuke Matsushita immersed himself in a warm bath every evening for self-refle
 
 ## 1. Synergy of Warm Bath Relaxation and Default Mode Network
 
-Immersion in warm water raises core temperature and triggers parasympathetic activation, reducing cortisol. This stimulus-blocked relaxation activates DMN for creative insight.
+El calentamiento corporal pasivo activa el sistema nervioso parasimpático, reduciendo el cortisol y promoviendo la relajación muscular. La vasodilatación aumenta el suministro de oxígeno al cerebro, facilitando el estado cognitivo difuso ideal para resolver problemas complejos.
 
 ---
 
@@ -82,7 +82,7 @@ Immersion in warm water raises core temperature and triggers parasympathetic act
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      If you want to make wise decisions, empty your brain first. Blocking digital devices in bath and 15-minute relaxation is the shortcut.
+      Limite la duración del baño a 20 minutos y evite el agua excesivamente caliente. Las temperaturas muy altas pueden activar el sistema simpático, contrarrestando el efecto de relajación buscado.
     </p>
   </div>
 </div>

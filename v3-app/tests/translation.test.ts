@@ -335,6 +335,26 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
             // 라틴계열 언어 간의 짧은 문장 오판율 완화 허용
             if (isTargetLatin && isDetectedLatin) {
               isAllowed = true;
+              
+              // 영어(eng)로 감지되었고 타겟 언어가 영어가 아닌 경우, 영어 최빈출 단어 빈도 분석을 통해 영문 통째 유출 검출
+              if (detectedLang === 'eng' && targetFrancLang !== 'eng') {
+                const words = sanitizedPara.toLowerCase().split(/\s+/);
+                const englishStopwords = ['the', 'of', 'and', 'to', 'is', 'a', 'that', 'it', 'for', 'on', 'with', 'as'];
+                const stopwordCount = words.filter(w => englishStopwords.includes(w)).length;
+                
+                // 영어 불용어가 3회 이상 출현 시, 다이아크리틱이 존재하지 않으면 에러 처리
+                if (stopwordCount >= 3) {
+                  let hasTargetIndicator = false;
+                  if (targetFrancLang === 'deu' && /[äöüßÄÖÜ]/.test(sanitizedPara)) hasTargetIndicator = true;
+                  if (targetFrancLang === 'fra' && /[éèàùçâêîôûëïüœÉÈÀÙÇÂÊÎÔÛËÏÜŒ]/.test(sanitizedPara)) hasTargetIndicator = true;
+                  if (targetFrancLang === 'spa' && /[áéíóúñüÁÉÍÓÚÑÜ¿¡]/.test(sanitizedPara)) hasTargetIndicator = true;
+                  if (targetFrancLang === 'por' && /[áéíóúçãõâêôÁÉÍÓÚÇÃÕÂÊÔ]/.test(sanitizedPara)) hasTargetIndicator = true;
+                  
+                  if (!hasTargetIndicator) {
+                    isAllowed = false;
+                  }
+                }
+              }
             }
 
             // 스페인어(spa)와 포르투갈어(por) 간의 형태소 유사성으로 인한 감지 혼동 허용

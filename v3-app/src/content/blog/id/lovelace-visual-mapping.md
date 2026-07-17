@@ -23,13 +23,7 @@ faqs:
     answer: "Tidak. Daripada membuang-buang sumber daya kognitif otak untuk mempelajari perangkat lunak, mengambil pena dan kertas untuk menggambar dengan tangan jauh lebih efektif dalam mengaktifkan pengodean ganda otak. Coretan papan tulis biasa adalah alat terbaik."
 ---
 
-"I face the true beauty of mathematics when I visually project the hidden organic connections of relationships." 📊
-
-In the 19th century, when only mechanical gears turned, Ada Lovelace analyzed Charles Babbage's Analytical Engine, declaring the birth of software algorithms. Where did her creative foresight, which laid the foundation of the digital age, come from?
-
-When studying the complex operations of the Analytical Engine and Bernoulli number calculations, Lovelace did not limit herself to text or equations. She mapped how information flowed through the gears and how operations repeated onto large sheets of paper using geometric diagrams and tables (Visual Mapping). This conceptualizing habit allowed her to visualize the abstract flow of information processing and write the first computer program.
-
-Today, BuildSelf introduces the cognitive principles behind Ada Lovelace's 'visual mapping' routine and how modern people can apply it to clarify complex planning or learning.
+Ada Lovelace menerjemahkan konsep matematika abstrak ke dalam diagram visual. Kebiasaan spasial ini memungkinkannya memahami algoritma pertama di dunia.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -47,9 +41,7 @@ Today, BuildSelf introduces the cognitive principles behind Ada Lovelace's 'visu
 
 ## 1. Memaksimalkan Kapasitas Memori Kerja melalui 'Pengodean Ganda'
 
-The 'Working Memory' that stores and controls short-term information in our brain is highly limited in its processing capacity. Reading text-heavy or symbol-heavy materials quickly causes bottlenecks and cognitive overload.
-
-Ada Lovelace's diagramming routine was a cognitive technique that utilized <strong>'Dual-Coding Theory'</strong>. According to cognitive psychologist Allan Paivio, the brain processes verbal/symbolic information and visual/image information in completely separate regions. Translating difficult equations into nodes and links in a diagram spreads the load to the visual cortex, securing cognitive space. This allows the prefrontal cortex to process information more efficiently and grasp patterns intuitively.
+Informasi abstrak membebani memori kerja. Pemetaan visual menggunakan lobus parietal untuk pemrosesan spasial, mengurangi beban kognitif prefrontal.
 
 ---
 
@@ -92,7 +84,7 @@ Ada Lovelace's diagramming routine was a cognitive technique that utilized <stro
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      For the genius programmer Ada Lovelace, a visual diagram was not a simple note, but a lens to align the brain's visual intelligence and trace the abstract mechanisms hidden behind equations. If your coding or planning is blocked, stop writing text immediately and map your thoughts using shapes and arrows on a large sheet of paper.
+      Jangan mencoba membuat peta yang terlalu rumit di awal. Mulailah dengan diagram alir sederhana yang mewakili koneksi inti informasi.
     </p>
   </div>
 </div>
@@ -121,4 +113,4 @@ Ada Lovelace's diagramming routine was a cognitive technique that utilized <stro
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong>

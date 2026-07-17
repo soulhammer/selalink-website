@@ -37,7 +37,12 @@
       "ko": "아키라 구로사와 감독은 평생 촬영 중에도 매일 시나리오 2페이지를 채우는 소박한 원칙을 지켰습니다. 이것은 뇌의 위협 센서인 편도체를 피해 행동력을 유도하는 지혜입니다.",
       "en": "Akira Kurosawa kept the simple principle of completing 2 pages of script daily even during busy filming. This is a wisdom to avoid amygdala threat and trigger action.",
       "ja": "黒澤明監督は、撮影期間中であっても毎日シナリオを2ページ書くという質素な原則を守り続けました。これは扁桃体を刺激せずに脳の行動力を引き出す知恵です。",
-      "zh": "黑泽明导演一生在繁忙的拍摄期间也坚持每天写两页剧本。这是一种避开大脑威胁感受器杏仁核、有效引导行动力的智慧。"
+      "zh": "黑泽明导演一生在繁忙的拍摄期间也坚持每天写两页剧本。这是一种避开大脑威胁感受器杏仁核、有效引导行动力的智慧。",
+      "es": "Akira Kurosawa escribía un número fijo de páginas de guion todos los días, independientemente de su nivel de inspiración. Este hábito de escritura sistemático evitó el bloqueo del escritor al confiar en la disciplina sobre la motivación emocional.",
+      "fr": "Akira Kurosawa écrivait un nombre fixe de pages chaque jour, peu importe son inspiration. Cette routine systématique a évité le blocage de l'écrivain en s'appuyant sur la discipline.",
+      "de": "Akira Kurosawa schrieb jeden Tag eine feste Anzahl von Drehbuchseiten, unabhängig von seiner Inspiration. Diese Routine verhinderte Schreibblockaden durch Disziplin statt Motivation.",
+      "pt": "Akira Kurosawa escrevia um número fixo de páginas de roteiro todos os dias, independentemente de sua inspiração. Este hábito sistemático evitou o bloqueio criativo com base na disciplina.",
+      "id": "Akira Kurosawa menulis jumlah halaman skenario yang tetap setiap hari, tanpa memandang tingkat inspirasinya. Kebiasaan ini mencegah kebuntuan menulis."
     },
     "whyTitle": {
       "ko": "뇌의 방어 기제를 우회하는 미세 목표의 뇌과학",
@@ -54,7 +59,12 @@
       "ko": "목표가 너무 크면 뇌의 편도체는 위협으로 느껴 회피 반응을 내보냅니다. 하루 2장과 같이 극단적으로 목표를 줄이면 저항감 없이 전두엽이 주도하는 행동을 시작할 수 있습니다.",
       "en": "When a goal is too huge, the brain's amygdala perceives it as a threat and triggers procrastination. Extreme downsizing bypasses this block and starts prefrontal action.",
       "ja": "目標が大きすぎると、脳の扁桃体はそれを脅威と感じて回避反応（先延ばし）を起こします。１日２ページのように目標を極限まで小さくすれば、抵抗なく前頭葉による行動を開始できます。",
-      "zh": "当目标过于庞大时，大脑中的杏仁核会将其视为威胁并触发拖延。如果将目标极度缩减至每日两页，就能毫无抵抗感地启动前额叶主导的行动。"
+      "zh": "当目标过于庞大时，大脑中的杏仁核会将其视为威胁并触发拖延。如果将目标极度缩减至每日两页，就能毫无抵抗感地启动前额叶主导的行动。",
+      "es": "El cerebro creativo a menudo sufre de parálisis por expectativas. Establecer una meta de salida cuantitativamente baja reduce la ansiedad, disminuye la carga de trabajo en la corteza prefrontal y permite que el proceso de escritura fluya más libremente.",
+      "fr": "Le cerveau créatif souffre souvent de paralysie due aux attentes. Fixer un objectif quantitatif bas réduit l'anxiété, diminuant la charge de travail du cortex préfrontal.",
+      "de": "Das kreative Gehirn leidet oft unter Erwartungsparalyse. Das Festlegen eines quantitativ niedrigen Ziels reduziert die Angst und entlastet den präfrontalen Kortex.",
+      "pt": "O cérebro criativo frequentemente sofre de paralisia por expectativas. Estabelecer uma meta quantitativa baixa reduz a ansiedade, diminuindo a carga de trabalho no córtex pré-frontal.",
+      "id": "Otak kreatif sering kali menderita kelumpuhan karena ekspektasi. Menetapkan target keluaran kuantitatif yang rendah mengurangi kecemasan, menurunkan beban kerja prefrontal."
     },
     "cautionTitle": {
       "ko": "완수를 돕기 위한 거장의 명언",
@@ -71,7 +81,12 @@
       "ko": "거대한 영화 전체를 생각하면 숨이 막히지만, 매일 2페이지는 누구나 할 수 있습니다. 오늘 한 걸음에만 몰두하십시오. 1년 뒤 놀라운 자산이 쌓일 것입니다.",
       "en": "Thinking of a huge movie blocks breath, but anyone can write 2 pages daily. Focus only on today's step. You will find massive assets in a year.",
       "ja": "巨大な映画全体を考えると圧倒されますが、毎日２ページなら誰でもできます。今日の１歩にのみ集中してください。１年後には驚くべき成果が積み上がっています。",
-      "zh": "如果去设想一整部宏大的电影，会让人喘不过气，但每天写两页剧本是任何人都能做到的。只专注今天这一步，一年后你将积累惊人的资产。"
+      "zh": "如果去设想一整部宏大的电影，会让人喘不过气，但每天写两页剧本是任何人都能做到的。只专注今天这一步，一年后你将积累惊人的资产。",
+      "es": "Evite juzgar o editar su trabajo mientras escribe. Separe estrictamente la fase de generación de contenido de la fase de edición para no interrumpir el estado de flujo cognitivo.",
+      "fr": "Évitez de juger ou d'éditer votre travail pendant que vous écrivez. Séparez strictement la phase de génération de la phase d'édition pour ne pas interrompre l'état de flux.",
+      "de": "Vermeiden Sie es, Ihre Arbeit während des Schreibens zu bewerten. Trennen Sie die Erstellungsphase streng von der Bearbeitungsphase, um den Flow-Zustand nicht zu stören.",
+      "pt": "Evite julgar ou editar seu trabalho enquanto escreve. Separe estritamente a fase de geração da fase de edição para não interromper o estado de fluxo cognitivo.",
+      "id": "Hindari menilai atau mengedit karya Anda saat menulis. Pisahkan secara ketat fase pembuatan konten dari fase pengeditan agar tidak mengganggu kondisi alir (flow)."
     },
     "steps": [
       {

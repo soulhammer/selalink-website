@@ -23,11 +23,7 @@ faqs:
     answer: "Se for enorme, o cérebro sentirá pressão e a evitará. Divida a tarefa em partes pequenas que possa terminar em 1 hora, e aborde uma delas primeiro."
 ---
 
-Andrew Carnegie, the steel king who consolidated America's vast steel industry, accumulated colossal wealth, and became one of history's greatest philanthropists alongside Rockefeller. What was the secret of his business productivity and decision-making? 🏗️
-
-Every morning at the start of business, Carnegie organized the priorities of the tasks he had to achieve. He then selected the core task that was most crucial for success, yet at the same time most difficult, complex, and dreaded, placing it at the very top of his list. For the first 1-2 golden hours of the morning, when his frontal lobe's energy and rational control were at their peak, Carnegie turned away all emails and meeting requests, pouring all his energy into completing that single heaviest task.
-
-Today, BuildSelf reveals the scientific mechanism of Andrew Carnegie's 'do the hardest task first' routine in conserving the brain's limited willpower, and introduces practical methods for modern workers to maximize efficiency.
+Andrew Carnegie, o magnata do aço que construiu a base industrial americana. Ele lidou com uma imensa carga de trabalho concentrando-se numa tarefa principal pela manhã.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,9 +41,7 @@ Today, BuildSelf reveals the scientific mechanism of Andrew Carnegie's 'do the h
 
 ## 1. 'Controle do desgaste do ego' para superar os limites da vontade
 
-Modern psychology and neuroscience have revealed that the cognitive resources of the prefrontal cortex—which coordinates rational decision-making, temptation resistance, and willpower—are not infinite, but deplete like a battery. This is known as <strong>'Ego Depletion'</strong> theory.
-
-If you consume your frontal lobe energy in the morning by scrolling on your phone, checking emails, or answering minor requests, your brain's battery will be drained when you need to make high-level decisions or write plans in the afternoon. Andrew Carnegie's routine was the ultimate brain engineering strategy to prevent ego depletion. By tackling the heaviest task in the morning when energy was 100% charged after sleep, he finished the job with peak logic and judgment, leaving the rest of the day light and productive.
+O cérebro tem recursos limitados para decisões complexas. Lidar com a tarefa de maior prioridade logo pela manhã, quando a energia cognitiva está no topo, previne a fadiga pré-frontal.
 
 ---
 
@@ -90,7 +84,7 @@ If you consume your frontal lobe energy in the morning by scrolling on your phon
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      For a successful manager, willpower is an expensive cognitive asset that depreciates every moment. Carnegie did not donate his frontal lobe's golden time to trivial tasks, but invested it in the most critical decisions of his steel empire, maintaining peak productivity. Make the task you want to delay most your first project of the morning.
+      O risco deste hábito é ser interrompido por demandas externas. Certifique-se de se isolar fisicamente ou desligar os canais de comunicação durante a primeira hora de trabalho.
     </p>
   </div>
 </div>
@@ -119,4 +113,4 @@ If you consume your frontal lobe energy in the morning by scrolling on your phon
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong>

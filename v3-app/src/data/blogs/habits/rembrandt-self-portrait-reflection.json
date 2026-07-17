@@ -4,49 +4,89 @@
       "ko": "거울 속 나를 응시한 찰나: 렘브란트의 자화상 시각 성찰 습관",
       "en": "Looking at Myself in the Mirror: Rembrandt's Self-Portrait Reflection Habit",
       "ja": "鏡の中の自分を見つめる瞬間：レンブラントの自画像省察習慣",
-      "zh": "凝视镜中自我的瞬间：伦勃朗的自画像省察习惯"
+      "zh": "凝视镜中自我的瞬间：伦勃朗的自画像省察习惯",
+      "es": "Mirándome en el espejo: el hábito de reflexión del autorretrato de Rembrandt",
+      "fr": "Me regarder dans le miroir : l'habitude de réflexion de l'autoportrait de Rembrandt",
+      "de": "Sich selbst im Spiegel betrachten: Rembrandt' Gewohnheit der Selbstreflexion im Selbstporträt",
+      "pt": "Olhando para mim no espelho: o hábito de reflexão do autorretrato de Rembrandt",
+      "id": "Melihat Diri Sendiri di Cermin: Kebiasaan Refleksi Potret Diri Rembrandt"
     },
     "description": {
       "ko": "평생 80여 점의 자화상을 그리며 자신의 변화 과정을 시각적으로 깊이 관찰했던 렘브란트 판 레인. 거울 속 자신의 눈빛과 주름을 깊이 응시하는 시각 성찰이 자기 객관화 능력을 높이고 뇌의 '기본 감정 조절망'을 활성화하는 신경학적 메커니즘을 밝힙니다.",
       "en": "Rembrandt painted over 80 self-portraits to capture his shifting self. Discover how staring at your own reflection in a mirror activates self-referential cognitive networks.",
       "ja": "生涯で約80点の自画像を制作し、自身の変化を視覚的に観察し続けたレンブラント。鏡に映る自分の表情を凝視する視覚的省察が、自己客観化能力を高める脳内メカニズムを明らかにします。",
-      "zh": "伦勃朗一生画了80多幅自画像，在视觉上捕捉自己变化的过程。揭示凝视镜中自我以激活自我参照认知网络的神经学机制。"
+      "zh": "伦勃朗一生画了80多幅自画像，在视觉上捕捉自己变化的过程。揭示凝视镜中自我以激活自我参照认知网络的神经学机制。",
+      "es": "Rembrandt pintó más de 80 autorretratos para capturar su yo cambiante. Descubra cómo mirar su propio reflejo en un espejo activa las redes cognitivas autorreferenciales.",
+      "fr": "Rembrandt a peint plus de 80 autoportraits pour capturer son évolution. Découvrez comment regarder votre propre reflet dans un miroir active les réseaux cognitifs.",
+      "de": "Rembrandt malte über 80 Selbstporträts, um sein sich veränderndes Selbst festzuhalten. Erfahren Sie, wie das Betrachten des eigenen Spiegelbilds selbstbezogene kognitive Netzwerke aktiviert.",
+      "pt": "Rembrandt pintou mais de 80 autorretratos para capturar sua evolução. Descubra como olhar para o próprio reflexo num espelho ativa as redes cognitivas autorreferenciais.",
+      "id": "Rembrandt melukis lebih dari 80 potret diri untuk menangkap perubahan dirinya. Temukan bagaimana menatap refleksi diri Anda di cermin mengaktifkan jaringan kognitif referensi diri."
     },
     "authority": {
       "ko": "암스테르담 렘브란트 하우스 뮤지엄 소장 자화상 기록 고증 및 거울 자기 응시(Mirror Gazing)가 대뇌 내측 전전두엽(mPFC) 및 디폴트 모드 네트워크의 자기 참조(Self-Referential) 인지에 미치는 신경과학 임상 결과",
       "en": "Rembrandt House Museum Archives and Neurocognitive Research on Mirror Gazing, Medial Prefrontal Cortex (mPFC), and Self-Referential Processing",
       "ja": "アムステルダム・レンブラント・ハウス博物館所蔵の自画像記録考証および鏡の自己凝視（Mirror Gazing）が大脳内側前頭前野（mPFC）に及ぼす神経科学研究結果",
-      "zh": "阿姆斯特丹伦勃朗故居博物馆收藏记录考证及镜子自我凝视对大脑内侧前额叶皮层（mPFC）影响的神经科学研究成果"
+      "zh": "阿姆斯特丹伦勃朗故居博物馆收藏记录考证及镜子自我凝视对大脑内侧前额叶皮层（mPFC）影响的神经科学研究成果",
+      "es": "Los archivos del Museo de la Casa de Rembrandt e investigación neurocognitiva sobre la observación del espejo, la corteza prefrontal medial (mPFC) y el procesamiento autorreferencial",
+      "fr": "Les archives du musée de la maison de Rembrandt et recherches neurocognitives sur l'observation du miroir, le cortex préfrontal médial (mPFC) et le traitement autoréférentiel",
+      "de": "Die Archive des Rembrandt-House-Museums und neurokognitive Forschung zum Spiegelblick, dem medialen präfrontalen Kortex (mPFC) und der selbstbezogenen Verarbeitung",
+      "pt": "Os arquivos do Museu da Casa de Rembrandt e pesquisa neurocognitiva sobre observação do espelho, córtex pré-frontal medial (mPFC) e processamento autorreferencial",
+      "id": "Arsip Museum Rumah Rembrandt dan Riset Neurokognitif tentang Menatap Cermin, Korteks Prefrontal Medial (mPFC), dan Pemrosesan Referensi Diri"
     },
     "intro": {
       "ko": "17세기 네덜란드 황금시대의 불멸의 거장이자 빛과 어둠의 마술사라 불린 화가 렘브란트 판 레인. 그는 당대 초상화가로 엄청난 부와 명예를 얻었으나 말년에는 완전히 파산하여 쓸쓸한 최후를 보냈습니다. 영욕의 인생 속에서도 그가 평생 멈추지 않았던 특별한 루틴은 바로 '자화상 제작'이었습니다. 그는 약 40년에 걸쳐 청년 시절부터 노년의 늙고 초라한 모습까지 80여 점의 자화상을 남겼습니다. 단순히 그림을 그린 것이 아니라, 거울 속 늙고 지친 자신의 표정과 눈빛을 왜곡 없이 가만히 바라보는 시각적 성찰 과정이었습니다. 위대한 거장이 마음의 붕괴를 막고 회복탄력성을 유지했던 렘브란트식 거울 성찰의 원리를 규명합니다.",
       "en": "Rembrandt van Rijn, the immortal master of the Dutch Golden Age. While he achieved great wealth and fame early on, his later years were marked by bankruptcy and loneliness. Yet he never stopped painting self-portraits, leaving behind over 80 pieces over 40 years. This was a process of visual reflection, gazing at his aging face in the mirror without distortion. We study how Rembrandt maintained resilience through mirror gazing.",
       "ja": "17世紀のオランダ黄金時代における不滅の巨匠であり、「光と影の魔術師」と呼ばれた画家レンブラント・ファン・レイン。彼は当時、肖像画家として莫大な富と名声を得ましたが、晩年は完全に破産し、寂しい最期を迎えました。栄華と苦難に満ちた人生の中で、彼が一生涯続け続けた特別なルーティンは、まさに「自画像の制作」でした。彼は約40年にわたり、青年期から晩年の老いて衰えた姿まで、80点余りの自画像を残しました。これは単に絵を描いただけでなく、鏡の中の老いて疲れた自身の表情や目元を歪みなく静かに見つめ直す視覚的省察プロセスでした。偉大な巨匠が心の崩壊を防ぎ、回復力を維持したレンブラント式の鏡省察の原理を解明します。",
-      "zh": "伦勃朗·凡·莱因，17世纪荷兰黄金时代的不朽大师。虽然他早期获得了巨大的财富和名声，但晚年却以破产和孤独为标志。然而，他从未停止画自画像，在40年里留下了80多幅作品。这是一个视觉反省的过程，毫无扭曲地凝视着镜中自己衰老的脸。我们研究伦勃朗如何通过凝视镜子来保持韧性。"
+      "zh": "伦勃朗·凡·莱因，17世纪荷兰黄金时代的不朽大师。虽然他早期获得了巨大的财富和名声，但晚年却以破产和孤独为标志。然而，他从未停止画自画像，在40年里留下了80多幅作品。这是一个视觉反省的过程，毫无扭曲地凝视着镜中自己衰老的脸。我们研究伦勃朗如何通过凝视镜子来保持韧性。",
+      "es": "Rembrandt van Rijn, el maestro inmortal de la Edad de Oro holandesa. Aunque logró una gran riqueza y fama desde el principio, sus últimos años estuvieron marcados por la bancarrota y la soledad. Sin embargo, nunca dejó de pintar autorretratos, dejando atrás más de 80 piezas durante 40 años. Este fue un proceso de reflexión visual, contemplando su rostro envejecido en el espejo sin distorsiones. Estudiamos cómo Rembrandt mantuvo la resiliencia a través de la contemplación del espejo.",
+      "fr": "Rembrandt van Rijn, le maître immortel de l'âge d'or hollandais. Bien qu'il ait connu la richesse et la gloire très tôt, ses dernières années ont été marquées par la faillite et la solitude. Pourtant, il n'a jamais cessé de peindre des autoportraits, laissant plus de 80 pièces sur 40 ans. C'était un processus de réflexion visuelle, regardant son visage vieillissant dans le miroir. Nous étudions sa résilience.",
+      "de": "Rembrandt van Rijn, der unsterbliche Meister des Goldenen Zeitalters der Niederlande. Obwohl er schon früh großen Reichtum und Ruhm erlangte, waren seine späteren Jahre von Bankrott und Einsamkeit geprägt. Dennoch hörte er nie auf, Selbstporträts zu malen, und hinterließ im Laufe von 40 Jahren über 80 Werke. Dies war ein Prozess der visuellen Reflexion, bei dem er sein alterndes Gesicht ohne Verzerrung im Spiegel betrachtete. Wir untersuchen seine Resilienz.",
+      "pt": "Rembrandt van Rijn, o mestre imortal da Idade de Ouro holandesa. Embora tenha alcançado grande riqueza e fama desde o início, seus últimos anos foram marcados pela falência e solidão. No entanto, nunca deixou de pintar autorretratos, deixando para trás mais de 80 peças durante 40 anos. Este foi um processo de reflexão visual, contemplando seu rosto envelhecido no espelho sem distorções.",
+      "id": "Rembrandt van Rijn, maestro abadi dari Zaman Keemasan Belanda. Meskipun ia mencapai kekayaan dan ketenaran yang besar di awal, tahun-tahun berikutnya ditandai dengan kebangkrutan dan kesepian. Namun ia tidak pernah berhenti melukis potret diri, meninggalkan lebih dari 80 karya selama 40 tahun. Ini adalah proses refleksi visual, menatap wajahnya yang menua di cermin tanpa distorsi. Kami mempelajari bagaimana Rembrandt mempertahankan ketahanan melalui menatap cermin."
     },
     "whyTitle": {
       "ko": "거울 자기 응시와 내측 전전두엽(mPFC)의 자기 참조 효과",
       "en": "Mirror Gazing and Medial Prefrontal Cortex (mPFC) Activation",
       "ja": "鏡の自己凝視と内側前頭前野（mPFC）の自己参照効果",
-      "zh": "镜子自我凝视与内侧前额叶皮层（mPFC）的激活"
+      "zh": "镜子自我凝视与内侧前额叶皮层（mPFC）的激活",
+      "es": "Observación del espejo y activación de la corteza prefrontal medial (mPFC)",
+      "fr": "Observation du miroir et activation du cortex préfrontal médial (mPFC)",
+      "de": "Spiegelblick und Aktivierung des medialen präfrontalen Kortex (mPFC)",
+      "pt": "Observação do espelho e ativação do córtex pré-frontal medial (mPFC)",
+      "id": "Menatap Cermin dan Aktivasi Korteks Prefrontal Medial (mPFC)"
     },
     "whyDesc": {
       "ko": "거울 속 자신의 눈을 3분 이상 깊이 응시하는 행동은 대뇌의 '내측 전전두엽(mPFC)'을 강하게 활성화합니다. 이 영역은 자기 참조 가공(Self-Referential Processing)을 담당하여, 남들의 평가나 사회적 가면(페르소나) 뒤에 숨겨진 '순수한 자아'를 인지하게 만듭니다. 시각 피질을 통해 들어오는 자신의 물리적 상은 뇌의 감정 예측 모형을 재조정하며 스트레스 신경 물질 분비를 가라앉히고, 자기 연민(Self-Compassion)과 심리적 항상성을 복구하는 강력한 도구로 작용합니다.",
       "en": "Gazing deeply into your own eyes in a mirror for over 3 minutes strongly activates the Medial Prefrontal Cortex (mPFC). This region handles self-referential processing, allowing you to bypass social facades and connect with your raw self. The visual input of your reflection recalibrates the brain's predictive models, settling stress chemistry and recovering self-compassion.",
       "ja": "鏡の中の自分の目を3分以上深く見つめる行動は、大脳の「内側前頭前野（mPFC）」を強く活性化します。この領域は自己参照プロセス（Self-Referential Processing）を司り、他人の評価や社会的役割（ペルソナ）の背後に隠された「純粋な自己」を認識させます。視覚野を通じて伝わる自身の物理的な像は、脳の感情予測モデルを再調整してストレス物質の分泌を抑え、自己思いやり（Self-Compassion）と心理的恒常性を修復する強力な道具として作用します。",
-      "zh": "凝视镜中自己的眼睛3分钟以上，可以强烈激活大脑的“内侧前额叶皮层（mPFC）”。该区域负责处理自我参照，使您能够绕过社会伪装，与真实的自我建立联系。镜中反射的视觉输入可以重新调整大脑的情绪预测模型，平息压力化学反应，并恢复自我关怀。"
+      "zh": "凝视镜中自己的眼睛3分钟以上，可以强烈激活大脑的“内侧前额叶皮层（mPFC）”。该区域负责处理自我参照，使您能够绕过社会伪装，与真实的自我建立联系。镜中反射的视觉输入可以重新调整大脑的情绪预测模型，平息压力化学反应，并恢复自我关怀。",
+      "es": "Mirar profundamente a sus propios ojos en un espejo durante más de 3 minutos activa fuertemente la corteza prefrontal medial (mPFC). Esta región maneja el procesamiento autorreferencial, lo que le permite eludir las fachadas sociales y conectarse con su yo crudo. La entrada visual de su reflejo recalibra los modelos predictivos del cerebro, calmando la química del estrés y recuperando la autocompasión.",
+      "fr": "Regarder profondément dans vos propres yeux dans un miroir pendant plus de 3 minutes active fortement le cortex préfrontal médial (mPFC). Cette région gère le traitement autoréférentiel, vous permettant de contourner les façades sociales et de vous connecter avec votre moi brut. L'apport visuel de votre reflet recalibre les modèles prédictifs du cerveau, calmant la chimie du stress.",
+      "de": "Der tiefe Blick in die eigenen Augen im Spiegel für über 3 Minuten aktiviert den medialen präfrontalen Kortex (mPFC) stark. Diese Region steuert die selbstbezogene Verarbeitung, wodurch Sie soziale Fassaden umgehen und sich mit Ihrem wahren Selbst verbinden können. Der visuelle Input Ihres Spiegelbilds kalibriert die Vorhersagemodelle des Gehirns neu, baut Stress ab und stellt das Selbstmitgefühl wieder her.",
+      "pt": "Olhar profundamente nos próprios olhos num espelho por mais de 3 minutos ativa fortemente o Córtex Pré-Frontal Medial (mPFC). Esta região lida com o processamento autorreferencial, permitindo que você ignore as fachadas sociais e se conecte com seu eu bruto. A entrada visual do seu reflexo recalibra os modelos preditivos do cérebro, acalmando a química do estresse.",
+      "id": "Menatap mata Anda sendiri di cermin secara mendalam selama lebih dari 3 menit sangat mengaktifkan Medial Prefrontal Cortex (mPFC). Wilayah ini menangani pemrosesan referensi diri, memungkinkan Anda melewati fasad sosial dan terhubung dengan diri Anda yang sebenarnya. Input visual dari refleksi Anda mengkalibrasi ulang model prediktif otak, menenangkan kimia stres dan memulihkan welas asih diri."
     },
     "cautionTitle": {
       "ko": "주의사항 및 팁",
       "en": "Precautions and Tips",
       "ja": "注意事項とヒント",
-      "zh": "注意事项与建议"
+      "zh": "注意事项与建议",
+      "es": "Precauciones y consejos",
+      "fr": "Précautions et conseils",
+      "de": "Vorsichtsmaßnahmen und Tipps",
+      "pt": "Precauções e conselhos",
+      "id": "Tindakan Pencegahan dan Tips"
     },
     "cautionDesc": {
       "ko": "거울 성찰을 진행할 때 가장 경계해야 할 것은 자신의 외모적 단점(피부 트러블, 주름, 대칭성 등)을 '평가하고 집착'하는 것입니다. 얼굴의 세부 단점에 평가를 시작하면 뇌는 다시 부정적 감정 필터를 가동해 스트레스를 유발합니다. 렘브란트처럼 외모의 아름다움을 떠나 얼굴 전체의 명암과 눈동자의 반짝임, 표정의 흐름을 마치 타인의 그림을 보듯 덤덤하고 시각적인 팩트 위주로만 바라봐야 온전한 자기 객관화 효과를 얻을 수 있습니다.",
       "en": "Avoid judging or obsessing over physical flaws (wrinkles, asymmetry) during the process. Evaluating facial defects triggers negative emotional filters. Treat your reflection like a portrait of someone else, observing the shadows and eyes objectively.",
       "ja": "鏡省察を行う際に最も警戒すべきことは、自身の外見的な欠点（肌荒れ、シワ、非対称など）を「評価して執着」することです。顔の細かな欠点に評価を始めると、脳は再び否定的な感情フィルターを稼働させ、ストレスを誘発します。レンブラントのように、外見の美しさを離れ、顔全体の明暗や瞳の輝き、表情の流れをまるで他人の絵を見るように淡々と客観的に見つめることで、本来の自己客観化効果を得ることができます。",
-      "zh": "在此过程中，避免评判或执着于外在生理缺陷（皱纹、不对称）。评估脸部缺陷会触发消极的情绪过滤器。像对待别人的画像一样对待镜中自己的倒影，客观地观察阴影和眼睛。"
+      "zh": "在此过程中，避免评判或执着于外在生理缺陷（皱纹、不对称）。评估脸部缺陷会触发消极的情绪过滤器。像对待别人的画像一样对待镜中自己的倒影，客观地观察阴影和眼睛。",
+      "es": "Evite juzgar u obsesionarse con los defectos físicos (arrugas, asimetría) durante el proceso. Evaluar los defectos faciales desencadena filtros emocionales negativos. Trate su reflejo como el retrato de otra persona, observando las sombras y los ojos objetivamente.",
+      "fr": "Évitez de juger ou d'obséder sur les défauts physiques (rides, asymétrie) pendant le processus. Évaluer les défauts faciaux déclenche des filtres émotionnels négatifs. Traitez votre reflet comme le portrait de quelqu'un d'autre, en observant les ombres et les yeux.",
+      "de": "Vermeiden Sie es, während des Prozesses körperliche Mängel (Falten, Asymmetrien) zu beurteilen oder sich darauf zu fixieren. Die Bewertung von Gesichtsmängeln löst negative emotionale Filter aus. Behandeln Sie Ihr Spiegelbild wie das Porträt eines anderen und betrachten Sie Schatten und Augen objektiv.",
+      "pt": "Evite julgar ou ficar obcecado por defeitos físicos (rugas, assimetria) durante o processo. Avaliar os defeitos faciais desencadeia filtros emocionais negativos. Trate seu reflexo como o retrato de outra pessoa, observando as sombras e os olhos objetivamente.",
+      "id": "Hindari menilai atau terobsesi pada kekurangan fisik (kerutan, asimetri) selama proses berlangsung. Mengevaluasi cacat wajah memicu filter emosional negatif. Perlakukan refleksi Anda seperti potret orang lain, amati bayangan dan mata secara objektif."
     },
     "steps": [
       {
@@ -54,13 +94,23 @@
           "ko": "차분한 거울 앞 공간과 조명 확보",
           "en": "Setting Up Mirror Space and Soft Lighting",
           "ja": "静かな鏡の前スペースと照明の確保",
-          "zh": "设置镜子空间和柔和照明"
+          "zh": "设置镜子空间和柔和照明",
+          "es": "Configuración del espacio del espejo e iluminación suave",
+          "fr": "Aménager l'espace miroir et éclairage doux",
+          "de": "Einrichten des Spiegelbereichs und weiches Licht",
+          "pt": "Configurar o espaço do espelho e iluminação suave",
+          "id": "Menyiapkan Ruang Cermin dan Pencahayaan Lembut"
         },
         "text": {
           "ko": "잡음이 차단된 방이나 욕실의 거울 앞에 바로 섭니다. 눈이 피로하지 않도록 조명을 살짝 은은하게 정돈합니다.",
           "en": "Stand in front of a mirror in a quiet room or bathroom, softening the lights to prevent eye strain.",
           "ja": "雑音が遮断された部屋や浴室の鏡の前にまっすぐ立ちます。目が疲れないよう、照明を少し薄暗く整えます。",
-          "zh": "站在安静的房间或浴室的镜子前，光线调柔和以防止眼睛疲劳。"
+          "zh": "站在安静的房间或浴室的镜子前，光线调柔和以防止眼睛疲劳。",
+          "es": "Párese frente a un espejo en una habitación o baño silencioso, suavizando las luces para evitar la fatiga ocular.",
+          "fr": "Tenez-vous devant un miroir dans une pièce ou une salle de bain calme, en tamisant les lumières pour éviter la fatigue oculaire.",
+          "de": "Stellen Sie sich vor einen Spiegel in einem ruhigen Raum oder Badezimmer und dimmen Sie das Licht, um eine Überanstrengung der Augen zu vermeiden.",
+          "pt": "Fique em pé na frente de um espelho num quarto ou banheiro silencioso, suavizando as luzes para evitar a fadiga ocular.",
+          "id": "Berdirilah di depan cermin di ruangan atau kamar mandi yang tenang, redupkan lampu untuk mencegah ketegangan mata."
         }
       },
       {
@@ -68,13 +118,23 @@
           "ko": "자신의 양쪽 눈동자 가만히 응시",
           "en": "Gazing Quietly at Your Own Pupils",
           "ja": "自身の両方の瞳を静かに凝視",
-          "zh": "静静凝视自己的双眼"
+          "zh": "静静凝视自己的双眼",
+          "es": "Mirar fijamente sus propias pupilas",
+          "fr": "Regarder fixement ses propres pupilles",
+          "de": "Blicken Sie ruhig in Ihre eigenen Pupillen",
+          "pt": "Olhar fixamente para as próprias pupilas",
+          "id": "Menatap Pupil Anda Sendiri Secara Tenang"
         },
         "text": {
           "ko": "거울 속 비치는 자신의 양쪽 눈동자를 부드러운 시선으로 바라봅니다. 깜박임은 자연스럽게 두되, 시선을 고정합니다.",
           "en": "Gaze softly at your pupils in the mirror. Let blinkings happen naturally but keep your focus.",
           "ja": "鏡に映る自身の両方の瞳を優しい眼差しで見つめます。瞬きは自然に任せつつ、視線を固定します。",
-          "zh": "柔和地凝视镜中自己的瞳孔。自然眨眼，但保持专注。"
+          "zh": "柔和地凝视镜中自己的瞳孔。自然眨眼，但保持专注。",
+          "es": "Mire suavemente sus pupilas en el espejo. Deje que el parpadeo ocurra naturalmente pero mantenga su enfoque.",
+          "fr": "Regardez doucement vos pupilles dans le miroir. Laissez les clignements se faire naturellement mais gardez votre concentration.",
+          "de": "Blicken Sie sanft in Ihre Pupillen im Spiegel. Lassen Sie das Blinzeln natürlich geschehen, aber behalten Sie Ihren Fokus bei.",
+          "pt": "Olhe suavemente para suas pupilas no espelho. Deixe que os piscados ocorram naturalmente, mas mantenha o foco.",
+          "id": "Menatap lembut pada pupil Anda di cermin. Biarkan kedipan terjadi secara alami tetapi tetap jaga fokus Anda."
         }
       },
       {
@@ -82,13 +142,23 @@
           "ko": "주관적 감정 배제 및 시각 팩트 수용",
           "en": "Removing Judgment and Accepting Visual Facts",
           "ja": "主観的感情の排除と視覚的ファクトの受容",
-          "zh": "消除评判并接受视觉事实"
+          "zh": "消除评判并接受视觉事实",
+          "es": "Eliminar el juicio y aceptar los hechos visuales",
+          "fr": "Éliminer le jugement et accepter les faits visuels",
+          "de": "Beurteilungen unterlassen und visuelle Fakten akzeptieren",
+          "pt": "Eliminar o julgamento e aceitar os fatos visuais",
+          "id": "Menghilangkan Penilaian dan Menerima Fakta Visual"
         },
         "text": {
           "ko": "거울 속 주름이나 얼굴 선을 보며 평가하지 않고, '오늘 나의 눈동자 밝기, 피로의 명암' 등을 3분간 가만히 응시한 후 미소(Smile)를 짓고 마무리합니다.",
           "en": "Without judging facial lines, observe the brightness of your eyes and fatigue levels for 3 minutes, smile, and wrap up.",
           "ja": "鏡の中のシワや輪郭を見て評価せず、「今日の私の瞳の明るさ、疲労の明暗」などを3分間静かに凝視した後、微笑んで終わります。",
-          "zh": "不要评判脸部线条，静静凝视眼睛的亮度和疲劳程度，持续3分钟，然后微笑结束。"
+          "zh": "不要评判脸部线条，静静凝视眼睛的亮度和疲劳程度，持续3分钟，然后微笑结束。",
+          "es": "Sin juzgar las líneas faciales, observe el brillo de sus ojos y los niveles de fatiga durante 3 minutos, sonría y concluya.",
+          "fr": "Sans juger les traits du visage, observez la luminosité de vos yeux et votre niveau de fatigue pendant 3 minutes, souriez et terminez.",
+          "de": "Beobachten Sie 3 Minuten lang die Helligkeit Ihrer Augen und den Grad der Müdigkeit, ohne die Gesichtszüge zu beurteilen, lächeln Sie und schließen Sie ab.",
+          "pt": "Sem julgar as linhas faciais, observe o brilho de seus olhos e os níveis de fadiga por 3 minutos, sorria e conclua.",
+          "id": "Tanpa menilai garis-garis wajah, amati kecerahan mata dan tingkat kelelahan Anda selama 3 menit, tersenyum, dan selesaikan."
         }
       }
     ],
@@ -98,13 +168,23 @@
           "ko": "거울을 계속 쳐다보고 있으면 기분이 묘하고 우울해지는데 중단해야 할까요?",
           "en": "Should I stop if staring in the mirror makes me feel weird or depressed?",
           "ja": "鏡をずっと見つめていると気分が妙になり、憂鬱になりますが、中断すべきですか？",
-          "zh": "如果盯着镜子让我感到怪异或沮丧，应该停止吗？"
+          "zh": "如果盯着镜子让我感到怪异或沮丧，应该停止吗？",
+          "es": "¿Debo parar si mirarme en el espejo me hace sentir raro o deprimido?",
+          "fr": "Dois-je arrêter si me regarder dans le miroir me fait me sentir bizarre ou déprimé ?",
+          "de": "Sollte ich aufhören, wenn ich mich beim Blick in den Spiegel seltsam oder deprimiert fühle?",
+          "pt": "Devo parar se me olhar no espelho me fizer sentir estranho ou deprimido?",
+          "id": "Haruskah saya berhenti jika menatap cermin membuat saya merasa aneh atau depresi?"
         },
         "answer": {
           "ko": "그렇습니다. 만약 기분의 왜곡이나 우울감이 심해진다면 자기 비판 루프에 빠진 것일 수 있으므로 즉시 중단하십시오. 그 대신 눈동자가 아닌 어깨선이나 손 모양을 보며 신체 접지(Earthing) 감각을 먼저 확인하는 훈련으로 우회해야 합니다.",
           "en": "Yes. If depression or self-criticism creeps in, stop immediately. Try focusing on your shoulder line or hands first to ground your physical sensations.",
           "ja": "そうです。もし気分の歪みや憂鬱感がひどくなるなら、自己批判ループに陥っている可能性があるので、すぐに中断してください。その代わりに、瞳ではなく肩のラインや手の形を見て、身体接地の感覚を先に確認するアプローチに切り替えてください。",
-          "zh": "是的。如果抑郁或自我批评情绪上升，请立即停止。尝试先将注意力集中在肩膀轮廓或双手上，以接地您的身体感觉。"
+          "zh": "是的。如果抑郁或自我批评情绪上升，请立即停止。尝试先将注意力集中在肩膀轮廓或双手上，以接地您的身体感觉。",
+          "es": "Sí. Si surge la depresión o la autocrítica, deténgase de inmediato. Intente concentrarse en la línea de los hombros o en las manos primero para conectar sus sensaciones físicas.",
+          "fr": "Oui. Si la dépression ou l'autocritique s'installe, arrêtez-vous immédiatement. Essayez d'abord de vous concentrar sur la ligne de vos épaules ou sur vos mains pour ancrer vos sensations physiques.",
+          "de": "Ja. Wenn sich Deprimiertheit oder Selbstkritik breitmachen, hören Sie sofort auf. Versuchen Sie, sich zuerst auf Ihre Schulterlinie oder Ihre Hände zu konzentrieren, um Ihre körperlichen Empfindungen zu erden.",
+          "pt": "Sim. Se a depressão ou a autocrítica surgirem, pare imediatamente. Tente se concentrar na linha dos ombros ou nas mãos primeiro para conectar suas sensações físicas.",
+          "id": "Ya. Jika depresi atau kritik diri muncul, segera hentikan. Cobalah fokus pada garis bahu atau tangan Anda terlebih dahulu untuk menstabilkan sensasi fisik Anda."
         }
       },
       {
@@ -112,15 +192,27 @@
           "ko": "거울 자기 성찰을 하기에 가장 좋은 시간대는 언제인가요?",
           "en": "When is the best time of day for mirror self-reflection?",
           "ja": "鏡の自己省察を行うのに最も良い時間帯はいつですか？",
-          "zh": "镜子自我反省的最佳时间是什么时候？"
+          "zh": "镜子自我反省的最佳时间是什么时候？",
+          "es": "¿Cuándo es el mejor momento del día para la autorreflexión en el espejo?",
+          "fr": "Quel est le meilleur moment de la journée pour l'autoréflexion dans le miroir ?",
+          "de": "Wann ist die beste Tageszeit für die Selbstreflexion im Spiegel?",
+          "pt": "Qual é o melhor momento do dia para a autorreflexão no espelho?",
+          "id": "Kapan waktu terbaik dalam sehari untuk refleksi diri di cermin?"
         },
         "answer": {
           "ko": "샤워를 끝마친 후 욕실 거울 앞에서 3분간 진행하는 루틴이 가장 좋습니다. 몸이 이완된 부교감 우위 상태에서 뇌의 방어 기제가 약해지므로, 가장 진실되고 편안한 자기 마주하기가 일어납니다.",
           "en": "Right after a shower is ideal. Your body is relaxed under parasympathetic dominance, weakening ego defenses and allowing the most comfortable self-connection.",
           "ja": "シャワーを終えた後、浴室の鏡の前で3分間行うルーティンが最もお勧めです。体がリラックスした副交感神経優位の状態で脳の防衛親和性が弱まるため、最も真実で快適な自己対峙が起こります。",
-          "zh": "洗完澡后在浴室镜子前进行3分钟是理想的。在副交感神经占主导地位的情况下，您的身体处于放松状态，会削弱自我的防御机制，从而允许最舒适的自我连接。"
+          "zh": "洗完澡后在浴室镜子前进行3分钟是理想的。在副交感神经占主导地位的情况下，您的身体处于放松状态，会削弱自我的防御机制，从而允许最舒适的自我连接。",
+          "es": "Justo después de ducharse es ideal. Su cuerpo está relajado bajo el dominio parasimpático, lo que debilita las defensas del ego y permite la conexión más cómoda consigo mismo.",
+          "fr": "Juste après la douche, c'est idéal. Votre corps est détendu sous la domination parasympathique, ce qui affaiblit les défenses de l'ego et permet une connexion plus confortable.",
+          "de": "Direkt nach dem Duschen ist ideal. Ihr Körper ist unter parasympathischer Dominanz entspannt, was die Ego-Abwehrkräfte schwächt und eine angenehme Selbstverbindung ermöglicht.",
+          "pt": "Logo após o banho é o ideal. Seu corpo está relaxado sob o domínio parassimpático, enfraquecendo as defesas do ego e permitindo a conexão mais confortável consigo mesmo.",
+          "id": "Tepat setelah mandi adalah waktu yang ideal. Tubuh Anda rileks di bawah dominasi parasimpatis, melemahkan pertahanan ego dan memungkinkan hubungan diri yang paling nyaman."
         }
       }
-    ]
+    ],
+    "pubDate": "2026-04-25",
+    "updatedDate": "2026-04-25"
   }
 }

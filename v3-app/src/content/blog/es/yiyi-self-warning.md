@@ -21,11 +21,7 @@ faqs:
     answer: "Escribir sus debilidades más difíciles de controlar (p. ej., alejarse del móvil, puntualidad) como frases positivas basadas en acciones es lo más eficaz para enviar estímulos claros al cerebro."
 ---
 
-Yi I, the great Neo-Confucian scholar and politician of mid-Joseon, passed all nine state exams with top honors, earning him the title 'Gudojangwongong.' Behind his stellar achievements was the 'Jakyungmun' (Self-Warning Letter), a guide he wrote at age 20 to end his wandering after the death of his mother, Shin Saimdang. 📜
-
-Through Jakyungmun, Yi I structured his day, set principles for relationships and emotional control, and read it aloud every morning. This is a neuroscientific mechanism to enhance goal-directed attention control.
-
-Today, BuildSelf uncovers the cognitive science value of Yi I's morning self-warning routine and proposes a 3-step action guide for modern people to maintain autonomy and practice daily goals.
+Yi I escribió 11 reglas de advertencia personal (Self-warning) y las leyó todas las mañanas para regular su comportamiento. Este hábito diario reactivó su corteza prefrontal, fortaleciendo el autocontrol y previniendo la deriva de metas cognitivas.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -43,9 +39,7 @@ Today, BuildSelf uncovers the cognitive science value of Yi I's morning self-war
 
 ## 1. Efecto de Autorreferencia y Neurobiología de las Declaraciones Dirigidas a Metas
 
-In brain science, the Self-Reference Effect refers to the phenomenon where processing new information by linking it to oneself activates the medial prefrontal cortex (mPFC), leading to stronger memory and value internalization. Yi I reading rules bearing his name and code of conduct every morning was a process of reinforcing this neural pathway.
-
-Reading and injecting self-made principles into the brain every morning activates the cognitive control network. It functions as cognitive navigation, helping suppress impulses and make decisions aligned with long-term goals and discipline amid daily stimuli and temptations.
+Leer declaraciones de metas claras al comienzo del día activa la red de control ejecutivo del cerebro y consolida los objetivos en la memoria a largo plazo. Esto ayuda a resistir los impulsos de distracción a corto plazo y a mantener la atención enfocada.
 
 ---
 
@@ -88,7 +82,7 @@ Reading and injecting self-made principles into the brain every morning activate
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Más importante que fijar principios es la honestidad de recordárselos cada mañana. No las reglas de otros, sino solo los criterios que usted acepte y declare moverán su cerebro con más fuerza y le darán le control de su día. (Wait, le -> el)
+      No escriba demasiadas reglas que no pueda recordar o cumplir. Limite su lista de advertencias a unos pocos principios clave que representen sus valores fundamentales y objetivos principales.
     </p>
   </div>
 </div>

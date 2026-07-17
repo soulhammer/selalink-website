@@ -1,29 +1,29 @@
 ---
-title: "The Night That Restores the Soul's Order: Pythagoras's Evening Self-Examination Habit"
-description: "Pythagoras reviewed his actions three times before sleeping. Explore the neurobiology of how this pre-sleep self-examination routine consolidates episodic memory."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+title: "Malam Yang Memulihkan Ketertiban Jiwa: Kebiasaan Pemeriksaan Diri Sore Hari Pythagoras"
+description: "Pythagoras meninjau tindakannya tiga kali sebelum tidur. Jelajahi neurobiologi tentang bagaimana rutinitas pemeriksaan diri sebelum tidur ini memperkuat memori episodik."
+pubDate: "2026-04-06"
+updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["The Night ","Routine"]
+tags: ["Malam Yang","Routine"]
 heroImage: "/images/blog/pythagoras_evening_examination.png"
 app: "buildself"
 formatVersion: 4
-authority: "Pythagorean code 'Golden Verses' and Harvard Medical School's Research on Sleep-state Memory Consolidation"
+authority: "Pedoman Pythagoras 'Golden Verses' dan Riset Harvard Medical School tentang Konsolidasi Memori Selama Tidur"
 steps:
-  - name: "Ensuring a Calm Environment and Posture"
-    text: "Recline in a dimly lit bedroom, close your eyes, and release all tension from your body."
-  - name: "Rewinding the Day's Timeline Objectively"
-    text: "Fast-rewind through the day's events in your mind from waking up to lying down, leaving emotions out as if watching a movie."
-  - name: "Applying the 3 Pythagorean Questions and Concluding"
-    text: "Ask yourself Pythagoras's three questions, note the adjustments, and consciously end the day."
+  - name: "Memastikan Lingkungan dan Postur yang Tenang"
+    text: "Berbaringlah di kamar tidur yang remang-remang, pejamkan mata, dan lepaskan semua ketegangan dari tubuh Anda."
+  - name: "Memutar Kembali Garis Waktu Hari Itu Secara Objektif"
+    text: "Putar kembali peristiwa hari itu di pikiran Anda sejak bangun tidur hingga berbaring, kesampingkan emosi seolah-olah sedang menonton film."
+  - name: "Menerapkan 3 Pertanyaan Pythagoras dan Menyelesaikan"
+    text: "Ajukan tiga pertanyaan Pythagoras pada diri Anda, catat penyesuaian yang diperlukan, dan akhiri hari secara sadar."
 faqs:
-  - question: "What if I'm too tired and just fall asleep mid-examination?"
-    answer: "Falling asleep is fine, but you can try sitting at a desk and writing for just 5 minutes before getting in bed to prevent dropping off immediately."
-  - question: "What should I do if self-blame keeps me awake?"
-    answer: "Stop the process immediately if rumination starts. Simply write down one single action to take tomorrow, and consciously close the book."
+  - question: "Bagaimana jika saya terlalu lelah dan tertidur di tengah pemeriksaan diri?"
+    answer: "Tertidur adalah hal yang wajar, tetapi Anda dapat mencoba duduk di meja kerja dan menulis selama 5 menit saja sebelum tidur untuk mencegah langsung tertidur."
+  - question: "Apa yang harus saya lakukan jika menyalahkan diri sendiri membuat saya tetap terjaga?"
+    answer: "Hentikan proses segera jika ruminasi dimulai. Cukup tuliskan satu tindakan yang akan dilakukan besok, dan tutup buku catatan secara sadar."
 ---
 
-Pythagoras, the giant of mathematics and geometry, led a school seeking harmony and self-control. Their core rule was the evening self-examination. In the 'Golden Verses,' they asked three questions before sleep: 'What did I do wrong?', 'What good did I do?', and 'What did I omit?'. We analyze Pythagoras's evening self-examination routine.
+Pythagoras, raksasa matematika dan geometri, memimpin sebuah perguruan yang mencari harmoni dan pengendalian diri. Aturan inti mereka adalah pemeriksaan diri di sore hari. Dalam 'Golden Verses', mereka mengajukan tiga pertanyaan sebelum tidur: 'Apa yang saya lakukan salah?', 'Kebaikan apa yang saya lakukan?', dan 'Apa yang saya lewatkan?'. Kami menganalisis rutinitas pemeriksaan diri sore hari Pythagoras.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -32,16 +32,16 @@ Pythagoras, the giant of mathematics and geometry, led a school seeking harmony 
       Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Pythagorean code 'Golden Verses' and Harvard Medical School's Research on Sleep-state Memory Consolidation</strong>.
+      Konten ini didasarkan pada <strong>Pedoman Pythagoras 'Golden Verses' dan Riset Harvard Medical School tentang Konsolidasi Memori Selama Tidur</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Neuroscience of Pre-sleep Memory Consolidation and Emotional Stability
+## 1. Neurosains Konsolidasi Memori Sebelum Tidur dan Stabilitas Emosional
 
-Sleep is the time when short-term memories stored in the hippocampus move to the cerebral cortex to consolidate into long-term memories. Actively reviewing the day's actions before sleeping flags which episodes to prioritize. This self-monitoring process also strengthens prefrontal inhibitory circuits, clearing emotional tension and activating the parasympathetic nervous system to induce deep slow-wave sleep.
+Tidur adalah waktu ketika memori jangka pendek yang disimpan di hipokampus berpindah ke korteks serebral untuk dikonsolidasikan menjadi memori jangka panjang. Meninjau secara aktif tindakan hari itu sebelum tidur menandai episode mana yang harus diprioritaskan. Proses pemantauan diri ini juga memperkuat sirkuit penghambat prefrontal, membersihkan ketegangan emosional dan mengaktifkan sistem saraf parasimpatis untuk memicu tidur gelombang lambat yang dalam.
 
 ---
 
@@ -50,41 +50,41 @@ Sleep is the time when short-term memories stored in the hippocampus move to the
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">LANGKAH 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ensuring a Calm Environment and Posture</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Memastikan Lingkungan dan Postur yang Tenang</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Recline in a dimly lit bedroom, close your eyes, and release all tension from your body.
+    Berbaringlah di kamar tidur yang remang-remang, pejamkan mata, dan lepaskan semua ketegangan dari tubuh Anda.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">LANGKAH 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rewinding the Day's Timeline Objectively</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Memutar Kembali Garis Waktu Hari Itu Secara Objektif</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Fast-rewind through the day's events in your mind from waking up to lying down, leaving emotions out as if watching a movie.
+    Putar kembali peristiwa hari itu di pikiran Anda sejak bangun tidur hingga berbaring, kesampingkan emosi seolah-olah sedang menonton film.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">LANGKAH 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Applying the 3 Pythagorean Questions and Concluding</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Menerapkan 3 Pertanyaan Pythagoras dan Menyelesaikan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Ask yourself Pythagoras's three questions, note the adjustments, and consciously end the day.
+    Ajukan tiga pertanyaan Pythagoras pada diri Anda, catat penyesuaian yang diperlukan, dan akhiri hari secara sadar.
   </p>
 </div>
 
 ---
 
-## 3. Precautions and Tips
+## 3. Tindakan Pencegahan dan Tips
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      The danger of evening self-examination is falling into emotional self-blame or rumination. Reliving negative events triggers cortisol, destroying sleep. Maintain 'cognitive distance,' observing yourself objectively as a third party, and focus on constructive adjustments.
+      Bahaya dari pemeriksaan diri di malam hari adalah jatuh ke dalam menyalahkan diri sendiri secara emosional atau ruminasi. Mengalami kembali peristiwa negatif memicu kortisol, merusak tidur. Jaga 'jarak kognitif', amati diri Anda secara objektif sebagai pihak ketiga, dan fokuslah pada penyesuaian yang konstruktif.
     </p>
   </div>
 </div>
@@ -95,21 +95,21 @@ Sleep is the time when short-term memories stored in the hippocampus move to the
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>What if I'm too tired and just fall asleep mid-examination?</span>
+      <span>Bagaimana jika saya terlalu lelah dan tertidur di tengah pemeriksaan diri?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Falling asleep is fine, but you can try sitting at a desk and writing for just 5 minutes before getting in bed to prevent dropping off immediately.
+      Tertidur adalah hal yang wajar, tetapi Anda dapat mencoba duduk di meja kerja dan menulis selama 5 menit saja sebelum tidur untuk mencegah langsung tertidur.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>What should I do if self-blame keeps me awake?</span>
+      <span>Apa yang harus saya lakukan jika menyalahkan diri sendiri membuat saya tetap terjaga?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Stop the process immediately if rumination starts. Simply write down one single action to take tomorrow, and consciously close the book.
+      Hentikan proses segera jika ruminasi dimulai. Cukup tuliskan satu tindakan yang akan dilakukan besok, dan tutup buku catatan secara sadar.
     </p>
   </details>
 </div>

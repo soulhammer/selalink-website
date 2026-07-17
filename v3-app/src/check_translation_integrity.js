@@ -213,6 +213,36 @@ function checkTranslationIntegrity() {
         if (hasChinese) {
           logError(`${relativePath}: 라틴계열 페이지에 CJK 한자(중국어)가 검출되었습니다.`);
         }
+
+        // 영어(en)가 아닌 타 라틴계열 페이지에 영어가 통째로 폴백되어 노출되는 버그 검출
+        if (lang !== 'en' && plainText.length > 100) {
+          let hasTargetLangChar = false;
+          
+          if (lang === 'de') {
+            const hasDeChar = /[äöüßÄÖÜ]/.test(plainText);
+            const deWords = plainText.match(/\b(ich|sie|ist|sind|und|der|die|das|in|zu|den|von|nicht|mit)\b/gi) || [];
+            hasTargetLangChar = hasDeChar || deWords.length >= 3;
+          } else if (lang === 'fr') {
+            const hasFrChar = /[éèàùçâêîôûëïüœÉÈÀÙÇÂÊÎÔÛËÏÜŒ]/.test(plainText);
+            const frWords = plainText.match(/\b(je|est|sont|et|le|la|les|en|dans|pour|une|des|qui|que)\b/gi) || [];
+            hasTargetLangChar = hasFrChar || frWords.length >= 3;
+          } else if (lang === 'es') {
+            const hasEsChar = /[áéíóúñüÁÉÍÓÚÑÜ¿¡]/.test(plainText);
+            const esWords = plainText.match(/\b(el|la|los|las|un|una|es|son|y|en|para|con|de|no|que)\b/gi) || [];
+            hasTargetLangChar = hasEsChar || esWords.length >= 3;
+          } else if (lang === 'pt') {
+            const hasPtChar = /[áéíóúçãõâêôÁÉÍÓÚÇÃÕÂÊÔ]/.test(plainText);
+            const ptWords = plainText.match(/\b(o|a|os|as|um|uma|é|são|e|em|para|com|de|não|que)\b/gi) || [];
+            hasTargetLangChar = hasPtChar || ptWords.length >= 3;
+          } else if (lang === 'id') {
+            const idWords = plainText.match(/\b(yang|dan|di|ke|dari|adalah|untuk|pada|dengan|ini|itu|tidak|bisa)\b/gi) || [];
+            hasTargetLangChar = idWords.length >= 3;
+          }
+
+          if (!hasTargetLangChar) {
+            logError(`${relativePath}: 타겟 언어 [${lang.toUpperCase()}]의 문법이나 고유 단어가 전혀 감지되지 않습니다. 영어로 폴백 노출되는 번역 누락 버그가 의심됩니다.`);
+          }
+        }
       }
 
       // D. 전용 문자 누락 검증 (번역 누락 및 영어 Fallback 방지)

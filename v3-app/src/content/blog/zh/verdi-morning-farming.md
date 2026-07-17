@@ -1,8 +1,8 @@
 ---
 title: "耕作泥土谱写旋律：朱塞佩·威尔第的清晨农作习惯"
 description: "朱塞佩·威尔第在写乐谱前，清晨5点起床在圣阿加塔农场亲自耕作流汗。探讨朝阳下的身体劳动如何为大脑提供丰富的血清素以激发创作灵感的机制。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["耕作泥土谱写旋律：朱","Routine"]
 heroImage: "/images/blog/verdi_morning_farming.png"

@@ -1,8 +1,8 @@
 ---
 title: "時速300kmの瞑想：アイルトン・セナのレース前視覚化習慣"
 description: "F1の伝説的チャンピオンであり、レース開始前にコックピット内で完璧なコースのシミュレーションを行ったセナ. 運動野を事前活性化してエラーを最小限に抑える神経学的な仕組みを解析します."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["時速300kmの瞑想","Routine"]
 heroImage: "/images/blog/senna_pre_race_visualization.png"

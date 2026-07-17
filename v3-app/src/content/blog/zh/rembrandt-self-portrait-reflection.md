@@ -1,8 +1,8 @@
 ---
 title: "凝视镜中自我的瞬间：伦勃朗的自画像省察习惯"
 description: "伦勃朗一生画了80多幅自画像，在视觉上捕捉自己变化的过程。揭示凝视镜中自我以激活自我参照认知网络的神经学机制。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["凝视镜中自我的瞬间：","Routine"]
 heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"

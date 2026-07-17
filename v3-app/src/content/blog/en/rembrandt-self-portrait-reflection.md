@@ -1,8 +1,8 @@
 ---
 title: "Looking at Myself in the Mirror: Rembrandt's Self-Portrait Reflection Habit"
 description: "Rembrandt painted over 80 self-portraits to capture his shifting self. Discover how staring at your own reflection in a mirror activates self-referential cognitive networks."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["Great Habits","rembrandt","Routine","Stamina"]
 heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"

@@ -1,8 +1,8 @@
 ---
 title: "万能知识的单册化笔记本：莱布尼茨的常用手册记事习惯"
 description: "独立创立微积分的画时代天才学者，将所有知识 and 灵感归拢于一册分类笔记本中的莱布尼茨。阐明将信息情境化以引导长期增强（LTP）并促进想法交融的神经认知秘诀。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-02-27"
+updatedDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["万能知识的单册化笔记","Routine"]
 heroImage: "/images/blog/leibniz_universal_notebook.png"

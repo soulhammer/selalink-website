@@ -1,8 +1,8 @@
 ---
 title: "土を耕して作曲したメロディ：ジュゼッペ・ヴェルディの朝の農業労働習慣"
 description: "楽譜を書く前に朝5時に起床し、サンタアガタ農場で畑を耕し汗を流したジュゼッペ・ヴェルディ. 朝の太陽光下での身体労働が脳内にセロトニンを供給し、創作的ひらめきを誘発するメカニズムを解説します。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-06-21"
+updatedDate: "2026-06-21"
 category: "BuildSelf"
 tags: ["土を耕して作曲したメ","Routine"]
 heroImage: "/images/blog/verdi_morning_farming.png"

@@ -23,11 +23,7 @@ faqs:
     answer: "Sí. Para que el cerebro asocie un color con un estado mental, se requiere constancia. Por tanto, limite los colores a 3 categorías principales y manténgalas firmes."
 ---
 
-Alexandre Dumas, the master of French literature who captured the hearts of readers worldwide with monumental historical adventure works such as The Three Musketeers and The Count of Monte Cristo. What was the secret of his superhuman productivity and creative energy, which continuously published hundreds of books in vast fields throughout his life? ✍️
-
-Dumas established a unique physical rule to prevent burnout under the harsh environment of constantly switching between imagination and logical brain circuits every day. It was 'using different colored manuscript pages depending on the writing genre.' He strictly insisted on writing adventure novels only on clear blue paper, poetry on bright yellow paper, and newspaper articles or non-fiction columns on light pink (rose) paper. By visually separating page colors, Dumas created an incredible system that helped his brain immediately enter the cognitive state of each genre without confusion or wasted energy.
-
-Today, BuildSelf introduces the scientific principles behind Alexandre Dumas' 'color switching' routine and how modern people can use it to increase focus in a complex multitasking environment.
+Alexandre Dumas escribía novelas en papel azul, poesía en papel amarillo y artículos de no ficción en papel rosa. Este hábito de alternar colores evitó el aburrimiento mental y mantuvo su cortex visual estimulado durante largas jornadas de escritura.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,9 +41,7 @@ Today, BuildSelf introduces the scientific principles behind Alexandre Dumas' 'c
 
 ## 1. 'Efecto de primado del color' para compensar el coste del cambio cognitivo
 
-When we alternate between different tasks (e.g., writing a strategic plan, checking a budget, or generating emotional ideas), the brain pays a huge Switching Cost to process Cognitive Residue and adapt to the new context. This blocks the brain's working memory and degrades task efficiency.
-
-Alexandre Dumas' color differentiation was a cognitive design that solved this barrier using <strong>'Color Association'</strong> and the <strong>'Priming Effect'</strong>. The moment our eyes recognize a unique color matched with a specific genre for a long time (e.g., novel = blue paper), the visual cortex delivers a subconscious signal to the frontal lobe to 'start creative writing mode.' Consequently, the brain quickly shuts down the previous analytical state, dramatically reducing the waste of cognitive resources and maximizing focus and imagination.
+La exposición continua al mismo estímulo visual causa adaptación sensorial y reduce la secreción de dopamina. Cambiar los colores de los materiales de escritura proporciona novedad visual, reactivando los circuitos de recompensa y manteniendo la concentración creativa.
 
 ---
 
@@ -90,7 +84,7 @@ Alexandre Dumas' color differentiation was a cognitive design that solved this b
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Para Dumas, las hojas de colores eran una herramienta inteligente para trazar límites cognitivos y derribar barreras. Si le cuesta adaptarse al cambiar de tarea, cambie el color de su entorno de trabajo.
+      No complique el hábito usando demasiados colores o materiales costosos. El objetivo es proporcionar un contraste visual simple y claro que ayude a diferenciar los tipos de tareas cognitivas.
     </p>
   </div>
 </div>
@@ -119,4 +113,4 @@ Alexandre Dumas' color differentiation was a cognitive design that solved this b
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong><strong></strong>

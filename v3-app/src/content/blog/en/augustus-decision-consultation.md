@@ -1,8 +1,8 @@
 ---
 title: "The Emperor's Deliberate Decision: Augustus's Multi-perspective Consultation Habit"
 description: "Roman Emperor Augustus simplified decisions by listening to contradictory inputs from advisors like Agrippa. Discover the neuroscience of how listening breaks confirmation bias."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-01-01"
+updatedDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["Great Habits","augustus","Routine","Stamina"]
 heroImage: "/images/blog/augustus_decision_consultation.png"

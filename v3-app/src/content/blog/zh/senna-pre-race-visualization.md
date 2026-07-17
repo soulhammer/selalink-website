@@ -1,8 +1,8 @@
 ---
 title: "时速300公里的冥想：埃尔顿·塞纳赛前想象习惯"
 description: "F1传奇冠军埃尔顿·塞纳在比赛前会在驾驶舱内闭上眼睛，在脑海中完美地构想整个赛道。探讨精神演练预先激活运动皮层以减少执行误差的神经学机制。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["时速300公里的冥想","Routine"]
 heroImage: "/images/blog/senna_pre_race_visualization.png"

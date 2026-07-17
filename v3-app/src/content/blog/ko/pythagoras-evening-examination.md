@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "영혼의 질서를 잡는 밤: 피타고라스의 저녁 자기 성찰 습관"
 description: "매일 밤 잠들기 전 하루 동안의 말과 행동을 세 번씩 되감아 성찰했던 피타고라스. 수면 전 메타인지를 깨우는 3대 자문 의식이 에피소드 기억을 강화하고 감정 조절력을 높이는 신경생리학적 효과를 탐구합니다."
-pubDate: "2026-07-17"
+pubDate: "2026-04-06"
 category: "BuildSelf"
 tags: ["성찰", "사색", "휴식"]
 heroImage: "/images/blog/pythagoras_evening_examination.png"
 app: "buildself"
 authority: "피타고라스 학파 행동 지침서 『황금률(Golden Verses)』 역사적 기록 및 하버드 의과대학 수면 의학과의 수면 중 기억 고정(Memory Consolidation) 신경학 연구 결과"
-updatedDate: "2026-07-17"
+updatedDate: "2026-04-06"
 faqs:
   - question: "사색 성찰의 적정 거리나 시간은 어느 정도인가요?"
     answer: "스미스처럼 15마일을 걸을 필요는 없습니다. 뇌의 혈류 개선과 DMN 활성화를 위한 임상적 권장 시간은 최소 20분에서 최대 40분 정도입니다. 거리보다는 디지털 자극을 완전히 차단한 집중 상태를 유지하는 시간이 중요합니다."

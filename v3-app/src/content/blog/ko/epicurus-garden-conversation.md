@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "불안을 씻는 소박한 정원: 에피쿠로스의 공동체 식사 및 대화 습관"
 description: "아테네 외곽의 정원에서 친구들과 검소한 식사를 나누며 불안 없는 평정을 유지했던 에피쿠로스. 사회적 유대감을 조율하는 옥시토신과 HPA 축 안정화 메커니즘을 밝혀 현대인의 불안을 해소하는 비법을 제시합니다."
-pubDate: "2026-07-17"
+pubDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["휴식", "안정", "사색"]
 heroImage: "/images/blog/epicurus_garden_conversation.png"
 app: "buildself"
 authority: "에피쿠로스의 저서 『메노이케우스에게 보낸 편지』 역사적 문헌 분석 및 집단 유대감 형성이 체내 스트레스 호르몬(HPA 축)에 미치는 신경생리학적 임상 연구"
-updatedDate: "2026-07-17"
+updatedDate: "2026-01-20"
 faqs:
   - question: "비즈니스 지인들과의 식사 자리도 사색적 이완 효과가 있나요?"
     answer: "아니요, 비즈니스 네트워킹은 목적 지향적이고 긴장감을 수반하여 뇌를 자극(각성) 상태로 만듭니다. 사색적 이완을 위해서는 취약성을 공유해도 안전한 소수의 친밀한 동료들과의 식사가 필수적입니다."

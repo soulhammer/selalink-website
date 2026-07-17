@@ -23,11 +23,7 @@ faqs:
     answer: "Sí. Reproducir ruido blanco en una sala de estudio ayuda a aislarse. No obstante, combinarlo con cambios visuales (la amplitud de un café) es mejor para la creatividad por aportar diversidad sensorial."
 ---
 
-J.K. Rowling, the wizard who invited hundreds of millions of readers into a world of magic and became the history's first billionaire writer, sparking a global fantasy syndrome. How did she imagine the vast worldview of Hogwarts and wizardry while struggling as a single mother in a drafty flat in Edinburgh? ☕
-
-To overcome the suffocating silence of her room and the high mental pressure of economic instability, Rowling wheeled her stroller out to a small local cafe. She settled in a corner of the cafe filled with clinking teacups, gentle human murmurs, and the vibration of coffee machines. For Rowling, these cafe sounds were the optimal 'Ambient Noise' that reduced her brain's over-arousal. Concealed within the noise, she enjoyed a cozy sense of isolation, expanding her imagination to write the first pages of Harry Potter.
-
-Today, BuildSelf introduces the cognitive principles behind J.K. Rowling's 'cafe ambient noise' routine and how modern people can utilize it to spark creativity.
+J.K. Rowling escribió Harry Potter en cafés ruidosos. Ella descubrió que el ruido blanco moderado y el bullicio ambiental le ayudaron a bloquear las distracciones internas y mantener un enfoque intenso.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,9 +41,7 @@ Today, BuildSelf introduces the cognitive principles behind J.K. Rowling's 'cafe
 
 ## 1. 'Dificultad cognitiva' para ayudar a la actividad cerebral abstracta
 
-Many people look for extremely quiet spaces like libraries when working on tasks that require creativity, but this often backfires. Suffocating silence places pressure on the brain, tightening the attention filter too much and reducing flexibility.
-
-J.K. Rowling's cafe focus routine is a living example of the <strong>'Cognitive Smoothing Effect'</strong> of about 70dB (decibels) of ambient noise. According to a study from the University of Chicago, moderate ambient noise induces a state of <strong>'Cognitive Disfluency'</strong> that slightly disrupts the brain's information processing. In overcoming this minor disruption, the brain skips conscious obsession with details and activates 'Abstract Processing,' thinking from a broader perspective. Through this, the brain organically weaves giant, innovative ideas outside of conventional boxes.
+El ruido blanco moderado (alrededor de 70 dB) estimula el nivel óptimo de excitación cognitiva en la corteza prefrontal, aumentando el procesamiento abstracto y la creatividad, a la vez que amortigua las alertas de distracciones agudas.
 
 ---
 
@@ -90,7 +84,7 @@ J.K. Rowling's cafe focus routine is a living example of the <strong>'Cognitive 
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      For J.K. Rowling, the murmur of the cafe was not a distraction, but a cozy noise shield that offset loneliness and stress, throwing light cognitive stimuli to lubricate creative circuits. When your thoughts stagnate in a cramped, silent room, head to a cafe or fill your room with ambient noise.
+      Evite los entornos con ruido excesivamente alto (más de 85 dB) o conversaciones audibles claras que puedan distraer su atención y causar fatiga auditiva.
     </p>
   </div>
 </div>
@@ -119,4 +113,4 @@ J.K. Rowling's cafe focus routine is a living example of the <strong>'Cognitive 
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong><strong></strong>

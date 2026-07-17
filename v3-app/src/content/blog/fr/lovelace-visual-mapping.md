@@ -23,13 +23,7 @@ faqs:
     answer: "No. Rather than wasting the brain's cognitive resources learning software, picking up a pen and paper to draw by hand is far more effective in activating the brain's dual-coding. A raw whiteboard scribble is the best tool."
 ---
 
-"I face the true beauty of mathematics when I visually project the hidden organic connections of relationships." 📊
-
-In the 19th century, when only mechanical gears turned, Ada Lovelace analyzed Charles Babbage's Analytical Engine, declaring the birth of software algorithms. Where did her creative foresight, which laid the foundation of the digital age, come from?
-
-When studying the complex operations of the Analytical Engine and Bernoulli number calculations, Lovelace did not limit herself to text or equations. She mapped how information flowed through the gears and how operations repeated onto large sheets of paper using geometric diagrams and tables (Visual Mapping). This conceptualizing habit allowed her to visualize the abstract flow of information processing and write the first computer program.
-
-Today, BuildSelf introduces the cognitive principles behind Ada Lovelace's 'visual mapping' routine and how modern people can apply it to clarify complex planning or learning.
+Ada Lovelace traduisait les concepts mathématiques abstraits en diagrammes visuels. Cette méthode lui a permis de concevoir le premier algorithme au monde.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -47,9 +41,7 @@ Today, BuildSelf introduces the cognitive principles behind Ada Lovelace's 'visu
 
 ## 1. Maximiser la capacité de la mémoire de travail par le 'double codage'
 
-The 'Working Memory' that stores and controls short-term information in our brain is highly limited in its processing capacity. Reading text-heavy or symbol-heavy materials quickly causes bottlenecks and cognitive overload.
-
-Ada Lovelace's diagramming routine was a cognitive technique that utilized <strong>'Dual-Coding Theory'</strong>. According to cognitive psychologist Allan Paivio, the brain processes verbal/symbolic information and visual/image information in completely separate regions. Translating difficult equations into nodes and links in a diagram spreads the load to the visual cortex, securing cognitive space. This allows the prefrontal cortex to process information more efficiently and grasp patterns intuitively.
+Les informations abstraites surchargent la mémoire de travail. La cartographie visuelle utilise le lobe pariétal pour le traitement spatial, réduisant la charge cognitive préfrontale.
 
 ---
 
@@ -92,7 +84,7 @@ Ada Lovelace's diagramming routine was a cognitive technique that utilized <stro
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      For the genius programmer Ada Lovelace, a visual diagram was not a simple note, but a lens to align the brain's visual intelligence and trace the abstract mechanisms hidden behind equations. If your coding or planning is blocked, stop writing text immediately and map your thoughts using shapes and arrows on a large sheet of paper.
+      N'essayez pas de créer des cartes trop complexes dès le début. Commencez par des schémas simples qui représentent les connexions centrales de l'information.
     </p>
   </div>
 </div>
@@ -121,4 +113,4 @@ Ada Lovelace's diagramming routine was a cognitive technique that utilized <stro
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong>

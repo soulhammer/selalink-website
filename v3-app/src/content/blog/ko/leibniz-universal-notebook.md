@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "만능 지식의 단권화 수첩: 라이프니츠의 커먼플레이스 북 필기 습관"
 description: "미적분을 발견한 천재 학자이자, 모든 지식과 영감을 한 권의 범주화된 수첩에 단권화했던 라이프니츠. 정보를 맥락화하여 장기 강화(LTP)를 유도하고 아이디어의 교차 융합을 촉진하는 신경인지적 비결을 밝힙니다."
-pubDate: "2026-07-17"
+pubDate: "2026-02-27"
 category: "BuildSelf"
 tags: ["기록", "창의성", "사색"]
 heroImage: "/images/blog/leibniz_universal_notebook.png"
 app: "buildself"
 authority: "마리아 로사 안토냐차 저 『라이프니츠 평전(Leibniz: An Intellectual Biography)』 기록 고증 및 정보 뇌 과학에서의 의미망 형성(Semantic Networking)과 시냅스 장기 강화(LTP) 인지 이론"
-updatedDate: "2026-07-17"
+updatedDate: "2026-02-27"
 faqs:
   - question: "커먼플레이스 북을 디지털 도구(노션, 옵시디언 등)로 실천해도 되나요?"
     answer: "그렇습니다. 디지털 도구는 검색과 링크 연결에 아주 유리합니다. 중요한 것은 노션을 쓸 때 페이지를 여러 곳으로 쪼개기보다, 단 하나의 보드나 데이터베이스 테이블에 날짜, 범주 태그를 달아 한곳에 축적(단권화)하는 에피쿠로스/라이프니츠식 시스템을 구현하는 것입니다."

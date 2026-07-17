@@ -23,9 +23,7 @@ faqs:
     answer: "Sí, incluso en días nublados la luz natural que penetra las nubes es más de 10 veces más brillante que la iluminación artificial. Las ondas de luz azul siguen presentes, lo que basta para estimular las células retinianas."
 ---
 
-Claude Monet, the pioneer of Impressionism who captured the subtle texture of light and atmosphere on canvas. How did he maintain his exceptional color perception? 🎨
-
-Monet woke up at 3:30 AM every morning regardless of the season. Putting on his morning coat, he went to the garden to watch the blue light of the blue hour transition into a golden sunrise. He wrote that witnessing the fine changes in light and shade calibrated his brain to differentiate true color contrasts on canvas during the day.
+Claude Monet se despertaba antes del amanecer para pintar la misma escena bajo el cambiante sol matutino. Este hábito visual agudizó su sensibilidad al color y entrenó su cerebro para procesar cambios sutiles en la iluminación física.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -43,7 +41,7 @@ Monet woke up at 3:30 AM every morning regardless of the season. Putting on his 
 
 ## 1. Activación de ipRGCs retinianas y sensibilidad al contraste
 
-The blue wavelengths of natural light appearing in the sky just before sunrise strongly stimulate the intrinsically photosensitive retinal ganglion cells (ipRGCs). This awakens the suprachiasmatic nucleus (SCN) in the brain, suppressing melatonin and releasing cortisol for cognitive arousal. Simultaneously, observing subtle tone variations in low light maximizes contrast sensitivity in the visual cortex, preparing the brain for high-level cognitive discrimination and creative spatial layout planning.
+La exposición temprana a la luz natural del amanecer suprime la melatonina y estimula la síntesis de serotonina. Este proceso regula el ritmo circadiano y mejora la agudeza visual, optimizando el rendimiento de la corteza visual para procesar matices complejos.
 
 ---
 
@@ -86,7 +84,7 @@ The blue wavelengths of natural light appearing in the sky just before sunrise s
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Modern double-pane or coated glass windows filter out up to 80% of the natural light wavelengths needed to stimulate your brain. Instead of staying behind closed windows, fully open the window or step outside to your balcony or garden to expose yourself to the fresh morning air and direct light.
+      Evite mirar directamente a fuentes de luz artificial intensa inmediatamente después de despertarse. Permita que sus ojos se adapten gradualmente a la luz natural del exterior.
     </p>
   </div>
 </div>

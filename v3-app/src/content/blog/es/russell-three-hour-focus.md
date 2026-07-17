@@ -23,11 +23,7 @@ faqs:
     answer: "Sí. Tras el deep work, se aconseja realizar tareas sencillas de oficina o correos que no requieran gran esfuerzo mental para proteger el lóbulo frontal."
 ---
 
-Bertrand Russell, one of the greatest minds of the 20th century, who built academic monuments in mathematical logic, history of western philosophy, and social activism, and won the Nobel Prize in Literature. What was the secret of his tireless focus and vast writing productivity? ☕
-
-Every morning, after a cup of tea, Russell wrote and researched mathematics for exactly three hours. During these three hours, no interruption was permitted, and he poured all his nervous system into deep work (Deep Work) on the logical problem in front of him. Surprisingly, the moment the timer marked the end of three hours, he put down his pen without hesitation, spending the rest of the day in relaxing walks, reading, and contemplation. This strictly timeboxed routine protected him from burnout and maintained his writing efficiency.
-
-Today, BuildSelf illuminates the scientific principles of Bertrand Russell's '3-hour focus' routine in maximizing the brain's concentration limit, and presents practical deep work strategies for modern knowledge workers.
+Bertrand Russell limitaba su trabajo intelectual intenso a exactamente 3 horas al día. Este límite estricto de tiempo previno el agotamiento cognitivo y le permitió mantener una alta producción intelectual durante toda su vida.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -45,9 +41,7 @@ Today, BuildSelf illuminates the scientific principles of Bertrand Russell's '3-
 
 ## 1. 'Efecto de timeboxing' para comprimir la densidad del enfoque
 
-Average modern workers trap themselves in a long '8-hour workday' frame. However, neuroscience indicates that the maximum time the cerebral cortex can squeeze 100% of its energy to produce peak logic and creativity is at most 3 to 4 hours a day. Setting long work hours causes the brain to loosen tension and waste attention on phone-checking, raising cognitive fatigue.
-
-Bertrand Russell's 3-hour focus routine was the wisdom of reversing <strong>'Parkinson's Law'</strong> (which states that a task swells to fill the time allotted). Restricting focus time to exactly 3 hours (Timeboxing) forces the brain to immediately raise concentration density through an emergency-like state. Furthermore, the complete rest following high-density focus resolves cognitive overheating in synaptic circuits and promotes 'Memory Consolidation,' preparing the brain to operate at 100% the next morning.
+La corteza prefrontal consume altos niveles de glucosa durante la concentración profunda. Limitar el trabajo cognitivo exigente a 3 horas evita la depleción de energía, permitiendo una toma de decisiones óptima y manteniendo la salud de las redes de atención.
 
 ---
 
@@ -90,7 +84,7 @@ Bertrand Russell's 3-hour focus routine was the wisdom of reversing <strong>'Par
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      For the great thinker Russell, 3 hours of focus was a process of cognitive hacking far more intense than passively enduring all day at a desk with a distracted mind. If you sit at a computer all day with no results, set up a 3-hour shield and penetrate the core task. Your freedom for the rest of the day will increase.
+      Durante esas 3 horas de enfoque, elimine por completo la multitarea y las interrupciones externas. El objetivo es maximizar la densidad del trabajo en un bloque de tiempo concentrado.
     </p>
   </div>
 </div>
@@ -119,4 +113,4 @@ Bertrand Russell's 3-hour focus routine was the wisdom of reversing <strong>'Par
     </p>
   </details>
 </div>
-<strong></strong>
+<strong></strong><strong></strong>

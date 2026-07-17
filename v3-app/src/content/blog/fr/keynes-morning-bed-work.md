@@ -1,29 +1,29 @@
 ---
-title: "General Theory Written Under the Blanket: John Maynard Keynes's Morning Bed Work Habit"
-description: "Macroeconomist John Maynard Keynes wrote all his manuscripts in bed for 2 hours after waking. Discover how to leverage the cortisol awakening response (CAR) for peak focus."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+title: "Théorie générale écrite sous la couverture : l'habitude de travail matinal au lit de John Maynard Keynes"
+description: "Le macroéconomiste John Maynard Keynes a écrit tous ses manuscrits au lit pendant 2 heures après son réveil. Découvrez comment exploiter la réponse du cortisol au réveil (CAR) pour un pic de concentration."
+pubDate: "2026-02-08"
+updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["General Th","Routine"]
+tags: ["Théorie gé","Routine"]
 heroImage: "/images/blog/keynes_morning_bed_work.png"
 app: "buildself"
 formatVersion: 4
-authority: "Robert Skidelsky's 'John Maynard Keynes' and Neuroscientific Clinical Research on Cortisol Awakening Response (CAR) and Prefrontal Executive Functioning"
+authority: "La biographie de Robert Skidelsky 'John Maynard Keynes' et recherche neuroscientifique sur la réponse du cortisol au réveil (CAR) et la fonction exécutive préfrontale"
 steps:
-  - name: "Deactivating Your Smartphone Immediately After Waking"
-    text: "After opening your eyes, never turn on your smartphone screen and physically isolate it in a place out of reach."
-  - name: "Propping Your Back Up to at least 45 Degrees"
-    text: "Stack pillows or cushions against the headboard to prop your head and back up at least 45 degrees, signaling alertness to the brain."
-  - name: "Solving Just One Core Task in Bed for 20 Minutes"
-    text: "Immerse yourself for 20 minutes in bed to solve your most brain-heavy task, such as analyzing a report or writing a manuscript prepared in advance."
+  - name: "Désactiver son smartphone immédiatement après le réveil"
+    text: "Après avoir ouvert les yeux, n'allumez jamais l'écran de votre smartphone et isolez-le physiquement hors de portée."
+  - name: "Redresser son dos à au moins 45 degrés"
+    text: "Empilez des oreillers ou des coussins contre la tête de lit pour redresser votre tête et votre dos d'au moins 45 degrés, signalant la vigilance au cerveau."
+  - name: "Résoudre une seule tâche clé au lit pendant 20 minutes"
+    text: "Plongez-vous pendant 20 minutes au lit pour résoudre votre tâche la plus lourde pour le cerveau, comme analyser un rapport ou rédiger un manuscrit préparé à l'avance."
 faqs:
-  - question: "Will working in bed harm my neck or back?"
-    answer: "Yes, if you lie flat and crane your neck. Prop yourself up with sturdy pillows at a 45-degree angle, and limit your sessions to 30 minutes to stay healthy."
-  - question: "Can I check my emails for just 5 minutes before starting?"
-    answer: "No. Even 5 minutes of scanning incoming alerts immediately scatters and wastes your CAR energy. Leave your phone off until your primary task is complete."
+  - question: "Travailler au lit va-t-il nuire à mon cou ou à mon dos ?"
+    answer: "Oui, si vous vous allongez à plat et tendez le cou. Redressez-vous à l'aide d'oreillers fermes à un angle de 45 degrés et limitez vos séances à 30 minutes pour rester en bonne santé."
+  - question: "Puis-je consulter mes e-mails pendant seulement 5 minutes avant de commencer ?"
+    answer: "Non. Même 5 minutes d'examen des alertes entrantes dispersent et gaspillent immédiatement votre énergie CAR. Laissez votre téléphone éteint jusqu'à ce que votre tâche principale soit terminée."
 ---
 
-John Maynard Keynes, the figure who shifted the paradigm of 20th-century economics, established macroeconomics, and provided the key to overcoming the Great Depression, was a man of immense productivity. Yet his morning scene was surprisingly peaceful. Keynes did not leap out of bed at waking. When his secretary brought papers at 8 AM, he reclined in bed for 2 hours, analyzing data and writing manuscripts. We analyze the neurobiological principles of Keynes's morning bed work routine, who poured his freshest prefrontal resources into a distraction-free space.
+John Maynard Keynes, le personnage qui a changé le paradigme de l'économie du XXe siècle, a fondé la macroéconomie et a fourni la clé pour surmonter la Grande Dépression, était un homme d'une productivité immense. Pourtant, sa scène matinale était étonnamment paisible. Keynes ne sautait pas du lit au réveil. Lorsque son secrétaire lui apportait des documents à 8 heures du matin, il restait allongé dans son lit pendant 2 heures, analysant les données et rédigeant des manuscrits.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -32,16 +32,16 @@ John Maynard Keynes, the figure who shifted the paradigm of 20th-century economi
       Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Robert Skidelsky's 'John Maynard Keynes' and Neuroscientific Clinical Research on Cortisol Awakening Response (CAR) and Prefrontal Executive Functioning</strong>.
+      Ce contenu est basé sur <strong>La biographie de Robert Skidelsky 'John Maynard Keynes' et recherche neuroscientifique sur la réponse du cortisol au réveil (CAR) et la fonction exécutive préfrontale</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Optimization of Cortisol Awakening Response (CAR) and Prefrontal Energy
+## 1. Optimisation de la réponse du cortisol au réveil (CAR) et de l'énergie préfrontale
 
-During the first 30 to 45 minutes after waking, the body surges cortisol, a natural vitality hormone, via the Cortisol Awakening Response (CAR). This window is the 'golden hour' when you can form creative and deep logical structures without cognitive interference. Accessing emails or messengers at this point immediately wastes this CAR energy. Focusing on key tasks in a quiet, zero-distraction environment like bed, as Keynes did, preserves this peak cognitive resource for executive function.
+Pendant les 30 à 45 premières minutes après le réveil, le corps produit un pic de cortisol, une hormone de vitalité naturelle, via la Réponse du Cortisol au Réveil (CAR). Cette fenêtre est l'« heure d'or » où vous pouvez former des structures logiques profondes et créatives sans interférence cognitive. Consulter des e-mails ou des messages à ce stade gaspille cette énergie CAR. Se concentrer sur des tâches clés dans un environnement calme et sans distraction comme le lit, comme l'a fait Keynes, préserve cette ressource.
 
 ---
 
@@ -50,41 +50,41 @@ During the first 30 to 45 minutes after waking, the body surges cortisol, a natu
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Deactivating Your Smartphone Immediately After Waking</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Désactiver son smartphone immédiatement après le réveil</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    After opening your eyes, never turn on your smartphone screen and physically isolate it in a place out of reach.
+    Après avoir ouvert les yeux, n'allumez jamais l'écran de votre smartphone et isolez-le physiquement hors de portée.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Propping Your Back Up to at least 45 Degrees</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Redresser son dos à au moins 45 degrés</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Stack pillows or cushions against the headboard to prop your head and back up at least 45 degrees, signaling alertness to the brain.
+    Empilez des oreillers ou des coussins contre la tête de lit pour redresser votre tête et votre dos d'au moins 45 degrés, signalant la vigilance au cerveau.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Solving Just One Core Task in Bed for 20 Minutes</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Résoudre une seule tâche clé au lit pendant 20 minutes</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Immerse yourself for 20 minutes in bed to solve your most brain-heavy task, such as analyzing a report or writing a manuscript prepared in advance.
+    Plongez-vous pendant 20 minutes au lit pour résoudre votre tâche la plus lourde pour le cerveau, comme analyser un rapport ou rédiger un manuscrit préparé à l'avance.
   </p>
 </div>
 
 ---
 
-## 3. Precautions and Tips
+## 3. Précautions et conseils
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      The trap of bed work is falling back to sleep due to sleep inertia. If your posture is too flat before the brain is fully awake, theta waves activate, inducing sleepiness. Prop your head and back firmly up to at least 45 degrees against pillows to signal alertness to the brain, and limit the session to 30 minutes.
+      Le piège du travail au lit est de se rendormir à cause de l'inertie du sommeil. Si votre posture est trop plate avant que le cerveau ne soit complètement éveillé, les ondes thêta s'activent, induisant la somnolence. Redressez fermement votre tête et votre dos à au moins 45 degrés contre des oreillers pour signaler la vigilance, et limitez la séance à 30 minutes.
     </p>
   </div>
 </div>
@@ -95,21 +95,21 @@ During the first 30 to 45 minutes after waking, the body surges cortisol, a natu
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Will working in bed harm my neck or back?</span>
+      <span>Travailler au lit va-t-il nuire à mon cou ou à mon dos ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes, if you lie flat and crane your neck. Prop yourself up with sturdy pillows at a 45-degree angle, and limit your sessions to 30 minutes to stay healthy.
+      Oui, si vous vous allongez à plat et tendez le cou. Redressez-vous à l'aide d'oreillers fermes à un angle de 45 degrés et limitez vos séances à 30 minutes pour rester en bonne santé.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Can I check my emails for just 5 minutes before starting?</span>
+      <span>Puis-je consulter mes e-mails pendant seulement 5 minutes avant de commencer ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      No. Even 5 minutes of scanning incoming alerts immediately scatters and wastes your CAR energy. Leave your phone off until your primary task is complete.
+      Non. Même 5 minutes d'examen des alertes entrantes dispersent et gaspillent immédiatement votre énergie CAR. Laissez votre téléphone éteint jusqu'à ce que votre tâche principale soit terminée.
     </p>
   </details>
 </div>

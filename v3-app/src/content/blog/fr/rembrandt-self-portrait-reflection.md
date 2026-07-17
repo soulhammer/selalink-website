@@ -1,29 +1,29 @@
 ---
-title: "Looking at Myself in the Mirror: Rembrandt's Self-Portrait Reflection Habit"
-description: "Rembrandt painted over 80 self-portraits to capture his shifting self. Discover how staring at your own reflection in a mirror activates self-referential cognitive networks."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+title: "Me regarder dans le miroir : l'habitude de réflexion de l'autoportrait de Rembrandt"
+description: "Rembrandt a peint plus de 80 autoportraits pour capturer son évolution. Découvrez comment regarder votre propre reflet dans un miroir active les réseaux cognitifs."
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["Looking at","Routine"]
+tags: ["Me regarde","Routine"]
 heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"
 app: "buildself"
 formatVersion: 4
-authority: "Rembrandt House Museum Archives and Neurocognitive Research on Mirror Gazing, Medial Prefrontal Cortex (mPFC), and Self-Referential Processing"
+authority: "Les archives du musée de la maison de Rembrandt et recherches neurocognitives sur l'observation du miroir, le cortex préfrontal médial (mPFC) et le traitement autoréférentiel"
 steps:
-  - name: "Setting Up Mirror Space and Soft Lighting"
-    text: "Stand in front of a mirror in a quiet room or bathroom, softening the lights to prevent eye strain."
-  - name: "Gazing Quietly at Your Own Pupils"
-    text: "Gaze softly at your pupils in the mirror. Let blinkings happen naturally but keep your focus."
-  - name: "Removing Judgment and Accepting Visual Facts"
-    text: "Without judging facial lines, observe the brightness of your eyes and fatigue levels for 3 minutes, smile, and wrap up."
+  - name: "Aménager l'espace miroir et éclairage doux"
+    text: "Tenez-vous devant un miroir dans une pièce ou une salle de bain calme, en tamisant les lumières pour éviter la fatigue oculaire."
+  - name: "Regarder fixement ses propres pupilles"
+    text: "Regardez doucement vos pupilles dans le miroir. Laissez les clignements se faire naturellement mais gardez votre concentration."
+  - name: "Éliminer le jugement et accepter les faits visuels"
+    text: "Sans juger les traits du visage, observez la luminosité de vos yeux et votre niveau de fatigue pendant 3 minutes, souriez et terminez."
 faqs:
-  - question: "Should I stop if staring in the mirror makes me feel weird or depressed?"
-    answer: "Yes. If depression or self-criticism creeps in, stop immediately. Try focusing on your shoulder line or hands first to ground your physical sensations."
-  - question: "When is the best time of day for mirror self-reflection?"
-    answer: "Right after a shower is ideal. Your body is relaxed under parasympathetic dominance, weakening ego defenses and allowing the most comfortable self-connection."
+  - question: "Dois-je arrêter si me regarder dans le miroir me fait me sentir bizarre ou déprimé ?"
+    answer: "Oui. Si la dépression ou l'autocritique s'installe, arrêtez-vous immédiatement. Essayez d'abord de vous concentrar sur la ligne de vos épaules ou sur vos mains pour ancrer vos sensations physiques."
+  - question: "Quel est le meilleur moment de la journée pour l'autoréflexion dans le miroir ?"
+    answer: "Juste après la douche, c'est idéal. Votre corps est détendu sous la domination parasympathique, ce qui affaiblit les défenses de l'ego et permet une connexion plus confortable."
 ---
 
-Rembrandt van Rijn, the immortal master of the Dutch Golden Age. While he achieved great wealth and fame early on, his later years were marked by bankruptcy and loneliness. Yet he never stopped painting self-portraits, leaving behind over 80 pieces over 40 years. This was a process of visual reflection, gazing at his aging face in the mirror without distortion. We study how Rembrandt maintained resilience through mirror gazing.
+Rembrandt van Rijn, le maître immortel de l'âge d'or hollandais. Bien qu'il ait connu la richesse et la gloire très tôt, ses dernières années ont été marquées par la faillite et la solitude. Pourtant, il n'a jamais cessé de peindre des autoportraits, laissant plus de 80 pièces sur 40 ans. C'était un processus de réflexion visuelle, regardant son visage vieillissant dans le miroir. Nous étudions sa résilience.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -32,16 +32,16 @@ Rembrandt van Rijn, the immortal master of the Dutch Golden Age. While he achiev
       Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Rembrandt House Museum Archives and Neurocognitive Research on Mirror Gazing, Medial Prefrontal Cortex (mPFC), and Self-Referential Processing</strong>.
+      Ce contenu est basé sur <strong>Les archives du musée de la maison de Rembrandt et recherches neurocognitives sur l'observation du miroir, le cortex préfrontal médial (mPFC) et le traitement autoréférentiel</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 1. Mirror Gazing and Medial Prefrontal Cortex (mPFC) Activation
+## 1. Observation du miroir et activation du cortex préfrontal médial (mPFC)
 
-Gazing deeply into your own eyes in a mirror for over 3 minutes strongly activates the Medial Prefrontal Cortex (mPFC). This region handles self-referential processing, allowing you to bypass social facades and connect with your raw self. The visual input of your reflection recalibrates the brain's predictive models, settling stress chemistry and recovering self-compassion.
+Regarder profondément dans vos propres yeux dans un miroir pendant plus de 3 minutes active fortement le cortex préfrontal médial (mPFC). Cette région gère le traitement autoréférentiel, vous permettant de contourner les façades sociales et de vous connecter avec votre moi brut. L'apport visuel de votre reflet recalibre les modèles prédictifs du cerveau, calmant la chimie du stress.
 
 ---
 
@@ -50,41 +50,41 @@ Gazing deeply into your own eyes in a mirror for over 3 minutes strongly activat
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Setting Up Mirror Space and Soft Lighting</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aménager l'espace miroir et éclairage doux</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Stand in front of a mirror in a quiet room or bathroom, softening the lights to prevent eye strain.
+    Tenez-vous devant un miroir dans une pièce ou une salle de bain calme, en tamisant les lumières pour éviter la fatigue oculaire.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gazing Quietly at Your Own Pupils</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Regarder fixement ses propres pupilles</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Gaze softly at your pupils in the mirror. Let blinkings happen naturally but keep your focus.
+    Regardez doucement vos pupilles dans le miroir. Laissez les clignements se faire naturellement mais gardez votre concentration.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Removing Judgment and Accepting Visual Facts</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Éliminer le jugement et accepter les faits visuels</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    Without judging facial lines, observe the brightness of your eyes and fatigue levels for 3 minutes, smile, and wrap up.
+    Sans juger les traits du visage, observez la luminosité de vos yeux et votre niveau de fatigue pendant 3 minutes, souriez et terminez.
   </p>
 </div>
 
 ---
 
-## 3. Precautions and Tips
+## 3. Précautions et conseils
 <div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      Avoid judging or obsessing over physical flaws (wrinkles, asymmetry) during the process. Evaluating facial defects triggers negative emotional filters. Treat your reflection like a portrait of someone else, observing the shadows and eyes objectively.
+      Évitez de juger ou d'obséder sur les défauts physiques (rides, asymétrie) pendant le processus. Évaluer les défauts faciaux déclenche des filtres émotionnels négatifs. Traitez votre reflet comme le portrait de quelqu'un d'autre, en observant les ombres et les yeux.
     </p>
   </div>
 </div>
@@ -95,21 +95,21 @@ Gazing deeply into your own eyes in a mirror for over 3 minutes strongly activat
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Should I stop if staring in the mirror makes me feel weird or depressed?</span>
+      <span>Dois-je arrêter si me regarder dans le miroir me fait me sentir bizarre ou déprimé ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Yes. If depression or self-criticism creeps in, stop immediately. Try focusing on your shoulder line or hands first to ground your physical sensations.
+      Oui. Si la dépression ou l'autocritique s'installe, arrêtez-vous immédiatement. Essayez d'abord de vous concentrar sur la ligne de vos épaules ou sur vos mains pour ancrer vos sensations physiques.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>When is the best time of day for mirror self-reflection?</span>
+      <span>Quel est le meilleur moment de la journée pour l'autoréflexion dans le miroir ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Right after a shower is ideal. Your body is relaxed under parasympathetic dominance, weakening ego defenses and allowing the most comfortable self-connection.
+      Juste après la douche, c'est idéal. Votre corps est détendu sous la domination parasympathique, ce qui affaiblit les défenses de l'ego et permet une connexion plus confortable.
     </p>
   </details>
 </div>

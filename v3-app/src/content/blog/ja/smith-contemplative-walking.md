@@ -1,8 +1,8 @@
 ---
 title: "パジャマ姿で15マイル歩いた学者：アダム・スミスの思索的散歩習慣"
 description: "アイデアを脳内で組み立てるために、完全に没頭して長距離散歩を楽しんだアダム・スミス. デジタル刺激を遮断して歩く行為がデフォルトモードネットワークを活性化し、創造性と集中力を極大化する神経科学的原理を解剖します."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-06-02"
+updatedDate: "2026-06-02"
 category: "BuildSelf"
 tags: ["パジャマ姿で15マイ","Routine"]
 heroImage: "/images/blog/smith_contemplative_walking.png"

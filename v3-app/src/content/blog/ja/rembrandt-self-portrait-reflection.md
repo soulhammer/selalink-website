@@ -1,8 +1,8 @@
 ---
 title: "鏡の中の自分を見つめる瞬間：レンブラントの自画像省察習慣"
 description: "生涯で約80点の自画像を制作し、自身の変化を視覚的に観察し続けたレンブラント。鏡に映る自分の表情を凝視する視覚的省察が、自己客観化能力を高める脳内メカニズムを明らかにします。"
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-04-25"
+updatedDate: "2026-04-25"
 category: "BuildSelf"
 tags: ["鏡の中の自分を見つめ","Routine"]
 heroImage: "/images/blog/rembrandt_self_portrait_reflection.png"

@@ -1,8 +1,8 @@
 ---
 title: "Meditation at 300km/h: Ayrton Senna's Pre-race Visualization Habit"
 description: "F1 legend Ayrton Senna closed his eyes in the cockpit to mentally drive the track before the race. Learn how mental rehearsal pre-activates the motor cortex to minimize error."
-pubDate: "2026-07-17"
-updatedDate: "2026-07-17"
+pubDate: "2026-05-14"
+updatedDate: "2026-05-14"
 category: "BuildSelf"
 tags: ["Great Habits","senna","Routine","Stamina"]
 heroImage: "/images/blog/senna_pre_race_visualization.png"

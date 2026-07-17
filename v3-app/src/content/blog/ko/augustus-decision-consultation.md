@@ -2,13 +2,13 @@
 formatVersion: 4
 title: "천천히 서둘러 내린 황제의 결단: 아우구스투스의 다각도 조언 경청 습관"
 description: "시저의 암살 이후 독단 대신 마이케나스, 아그리파 등 참모들의 이견을 철저히 경청하여 결정을 단순화했던 로마 황제 아우구스투스. 최초의 판단을 맹신하는 확증 편향을 깨뜨리는 경청과 필터링의 뇌과학적 원리를 규명합니다."
-pubDate: "2026-07-17"
+pubDate: "2026-01-01"
 category: "BuildSelf"
 tags: ["의사결정", "단순화", "생산성"]
 heroImage: "/images/blog/augustus_decision_consultation.png"
 app: "buildself"
 authority: "수토니우스 저 『황제전(The Lives of the Twelve Caesars)』 사료 기록 및 카너먼 & 트버스키의 휴리스틱과 의사결정 시 확증 편향(Confirmation Bias) 인지행동 연구 결과"
-updatedDate: "2026-07-17"
+updatedDate: "2026-01-01"
 faqs:
   - question: "동료들의 피드백을 들을 때 감정적으로 설득당하지 않으려면 어떻게 하나요?"
     answer: "그래서 '비대면 서면 접수'가 유리합니다. 대면 미팅을 하면 권위나 동조 압력, 화술에 의해 감정적인 설득이 일어나기 쉽습니다. 참모들이 개별적으로 작성해 준 서면의 날카로운 논리와 팩트 데이터만을 따로 모아 분석해야 이성적으로 판단할 수 있습니다."
