@@ -1,0 +1,31 @@
+---
+import { languages } from '../../../../i18n/ui';
+import { ingredients } from '../../../../data/ingredients';
+
+export function getStaticPaths() {
+  const paths = [];
+  const langKeys = Object.keys(languages);
+  
+  for (const lang of langKeys) {
+    // 1. 인덱스 페이지 리다이렉션 (/apps/storeself/ -> /apps/freshsnap/)
+    paths.push({
+      params: { lang, redirect: undefined }
+    });
+    
+    // 2. 개별 식재료 페이지 리다이렉션 (/apps/storeself/[ingredient]/ -> /apps/freshsnap/[ingredient]/)
+    for (const item of ingredients) {
+      paths.push({
+        params: { lang, redirect: item.id }
+      });
+    }
+  }
+  return paths;
+}
+
+return Astro.redirect(
+  Astro.params.redirect 
+    ? `/${Astro.params.lang || 'en'}/apps/freshsnap/${Astro.params.redirect}/`
+    : `/${Astro.params.lang || 'en'}/apps/freshsnap/`,
+  301
+);
+---
