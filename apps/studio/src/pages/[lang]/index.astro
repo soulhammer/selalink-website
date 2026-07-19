@@ -124,7 +124,7 @@ const langPosts = allPosts
 				<div class="absolute inset-y-0 left-0 w-full md:w-[60%] bg-gradient-to-r from-white via-white/95 to-transparent dark:from-slate-950 dark:via-slate-950/90 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
 
 				<!-- Left Side Content (Z-20) -->
-				<div class="z-20 relative max-w-md lg:max-w-xl xl:max-w-2xl space-y-6 dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
+				<div class="z-20 relative pointer-events-none max-w-md lg:max-w-xl xl:max-w-2xl space-y-6 dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 				<div class="flex flex-wrap gap-2 mb-4 md:mb-6">
 					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-700 dark:bg-purple-500/20 dark:text-purple-400 text-xs md:text-sm font-semibold border border-purple-500/20 shadow-sm backdrop-blur-md">
 						<span class="w-1.5 h-1.5 rounded-full bg-purple-500 animate-pulse"></span>{t('app.freshself.status')}
@@ -164,7 +164,7 @@ const langPosts = allPosts
 							role="link"
 							tabindex="0"
 							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${lang}', '_blank');`}
-							class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold bg-purple-600 hover:bg-purple-700 text-white dark:bg-purple-500/20 dark:text-purple-300 dark:border-purple-500/30 px-3.5 py-1.5 rounded-full border border-purple-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+							class="z-30 relative pointer-events-auto inline-flex items-center gap-1.5 text-xs font-bold bg-purple-600 hover:bg-purple-700 text-white dark:bg-purple-500/20 dark:text-purple-300 dark:border-purple-500/30 px-3.5 py-1.5 rounded-full border border-purple-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
 						>
 							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
 								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
@@ -190,7 +190,7 @@ const langPosts = allPosts
 				<div class="absolute inset-x-0 bottom-0 w-full h-[65%] bg-gradient-to-t from-white via-white/80 to-transparent dark:from-slate-950 dark:via-slate-950/80 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
 
 				<!-- Top Content (Z-20) -->
-				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
+				<div class="z-20 relative pointer-events-none dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 					<div class="flex flex-wrap gap-2 mb-4 md:mb-6">
 						<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-100 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-400 text-xs md:text-sm font-semibold border border-indigo-500/20 shadow-sm backdrop-blur-md">
 							<span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>{t('app.logself.status')}
@@ -228,7 +228,7 @@ const langPosts = allPosts
 							role="link"
 							tabindex="0"
 							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.logself&lang=${lang}', '_blank');`}
-							class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white dark:bg-indigo-500/20 dark:text-indigo-300 dark:border-indigo-500/30 px-3.5 py-1.5 rounded-full border border-indigo-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+							class="z-30 relative pointer-events-auto inline-flex items-center gap-1.5 text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white dark:bg-indigo-500/20 dark:text-indigo-300 dark:border-indigo-500/30 px-3.5 py-1.5 rounded-full border border-indigo-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
 						>
 							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
 								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
@@ -253,7 +253,7 @@ const langPosts = allPosts
 				<div class="absolute inset-x-0 bottom-0 w-full h-[65%] bg-gradient-to-t from-white via-white/80 to-transparent dark:from-slate-950 dark:via-slate-950/80 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
 				
 				<!-- Top Content (Z-20) -->
-				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
+				<div class="z-20 relative pointer-events-none dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 					<div class="flex flex-wrap gap-2 mb-4 md:mb-6">
 						<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold border border-emerald-500/20 shadow-sm backdrop-blur-md">
 							<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.buildself.status')}
@@ -295,7 +295,7 @@ const langPosts = allPosts
 							role="link"
 							tabindex="0"
 							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.buildself&hl=${lang}', '_blank');`}
-							class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white dark:bg-emerald-500/20 dark:text-emerald-300 dark:border-emerald-500/30 px-3.5 py-1.5 rounded-full border border-emerald-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+							class="z-30 relative pointer-events-auto inline-flex items-center gap-1.5 text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white dark:bg-emerald-500/20 dark:text-emerald-300 dark:border-emerald-500/30 px-3.5 py-1.5 rounded-full border border-emerald-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
 						>
 							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
 								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
@@ -320,7 +320,7 @@ const langPosts = allPosts
 				<div class="absolute inset-y-0 left-0 w-full md:w-[65%] bg-gradient-to-r from-white via-white/95 to-transparent dark:from-slate-950 dark:via-slate-950/90 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
 				
 				<!-- Top Content -->
-				<div class="z-20 relative max-w-[65%] dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
+				<div class="z-20 relative pointer-events-none max-w-[65%] dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 					<div class="flex flex-wrap gap-2 mb-3">
 						<div class="inline-flex items-center gap-2 px-2.5 py-0.5 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-[10px] md:text-xs font-semibold border border-emerald-500/20 shadow-sm backdrop-blur-md">
 							<span class="w-1 h-1 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.freshsnap.status')}
@@ -365,7 +365,7 @@ const langPosts = allPosts
 				<div class="absolute inset-y-0 left-0 w-full md:w-[65%] bg-gradient-to-r from-white via-white/95 to-transparent dark:from-slate-950 dark:via-slate-950/90 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
 				
 				<!-- Top Content -->
-				<div class="z-20 relative max-w-[65%] dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
+				<div class="z-20 relative pointer-events-none max-w-[65%] dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 					<div class="flex flex-wrap gap-2 mb-3">
 						<div class="inline-flex items-center gap-2 px-2.5 py-0.5 rounded-full bg-violet-100 text-violet-800 dark:bg-violet-500/20 dark:text-violet-400 text-[10px] md:text-xs font-semibold border border-violet-500/20 shadow-sm backdrop-blur-md">
 							<span class="w-1 h-1 rounded-full bg-violet-500 animate-pulse"></span>{t('app.buildsnap.status')}
