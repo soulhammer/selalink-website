@@ -263,6 +263,28 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 200);
   });
 
+  // 8. 맨 위로 가기(Back to Top) 버튼 제어
+  const backToTopBtn = document.getElementById('back-to-top');
+  if (backToTopBtn) {
+    window.addEventListener('scroll', () => {
+      const scrollPos = window.scrollY || document.documentElement.scrollTop;
+      if (scrollPos > 400) {
+        backToTopBtn.classList.remove('opacity-0', 'translate-y-4', 'pointer-events-none');
+        backToTopBtn.classList.add('opacity-100', 'translate-y-0');
+      } else {
+        backToTopBtn.classList.remove('opacity-100', 'translate-y-0');
+        backToTopBtn.classList.add('opacity-0', 'translate-y-4', 'pointer-events-none');
+      }
+    });
+
+    backToTopBtn.addEventListener('click', () => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    });
+  }
+
   // 초기 실행
   filterAndSort(true);
 });

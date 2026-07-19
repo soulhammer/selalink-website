@@ -230,6 +230,17 @@ const loadMoreText = loadMoreTranslations[normalizedLang] || loadMoreTranslation
       </div>
     )}
   </main>
+
+  <!-- Back to Top Button -->
+  <button 
+    id="back-to-top" 
+    class="fixed bottom-[calc(1.5rem+env(safe-area-inset-bottom,0px))] right-[calc(1.5rem+env(safe-area-inset-right,0px))] z-40 p-3.5 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 shadow-xl border border-white/10 dark:border-black/5 opacity-0 translate-y-4 pointer-events-none transition-all duration-300 hover:scale-110 active:scale-95 cursor-pointer"
+    aria-label="Back to Top"
+  >
+    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+    </svg>
+  </button>
 </Layout>
 
 <script src="../../../utils/blogIndex.ts"></script>
