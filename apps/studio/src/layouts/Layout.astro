@@ -46,6 +46,42 @@ const currentAccentRgb = hexToRgb(currentAccent);
 const currentPath = Astro.url.pathname;
 const t = useTranslations(lang as any);
 
+// 1. 현재 영역 판별
+const isBlogArea = currentPath.includes('/blog/') || (currentPath.endsWith('/blog') || currentPath.endsWith('/blog/'));
+
+// 2. appId에 따른 로고 텍스트 및 링크 대상 결정
+let logoText = '';
+let logoLink = `/${lang}`; // 기본값은 전체 메인
+let logoColorClass = '';
+
+// 식재료(freshsnap) 및 유통기한(freshself) 관련 앱/블로그는 모두 'FreshSelf'로 통일하여 연계
+const isFreshApp = appId === 'freshself' || appId === 'freshsnap';
+const hasSpecificApp = ['buildself', 'buildsnap', 'logself'].includes(appId) || isFreshApp;
+
+if (hasSpecificApp) {
+	if (appId === 'buildself') {
+		logoText = 'BuildSelf';
+		logoLink = `/${lang}/apps/buildself/`;
+		logoColorClass = 'text-teal-600 dark:text-teal-400 font-extrabold font-outfit';
+	} else if (appId === 'buildsnap') {
+		logoText = 'BuildSnap';
+		logoLink = `/${lang}/apps/buildsnap/`;
+		logoColorClass = 'text-indigo-600 dark:text-indigo-400 font-extrabold font-outfit';
+	} else if (isFreshApp) {
+		logoText = 'FreshSelf';
+		logoLink = `/${lang}/apps/freshself/`;
+		logoColorClass = 'text-purple-600 dark:text-purple-400 font-bold font-jakarta';
+	} else if (appId === 'logself') {
+		logoText = 'logSelf';
+		logoLink = `/${lang}/apps/logself/`;
+		logoColorClass = 'text-indigo-600 dark:text-indigo-400 font-extrabold font-outfit';
+	}
+} else if (isBlogArea) {
+	logoText = 'Blog';
+	logoLink = `/${lang}/blog/`;
+	logoColorClass = 'text-indigo-600 dark:text-indigo-400 font-extrabold font-outfit';
+}
+
 const baseSchema = generateBaseSchema({
 	pathname: currentPath,
 	appId,
@@ -169,25 +205,10 @@ const isProd = import.meta.env.PROD;
 	<body class="antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black">
 		<!-- Navigation Bar with Lang & Theme Switches -->
 		<header class="max-w-[1400px] mx-auto px-6 pt-6 md:pt-12 flex flex-row justify-between items-center gap-4 relative z-50">
-			<a href={`/${lang}`} class="text-xl sm:text-2xl font-bold tracking-tighter flex items-center transition-all duration-300 hover:opacity-80">
+			<a href={logoLink} class="text-xl sm:text-2xl font-bold tracking-tighter flex items-center transition-all duration-300 hover:opacity-80">
 				<span>SelaLink.</span>
-				{appId === 'buildself' && (
-					<span class="text-teal-600 dark:text-teal-400 font-extrabold ml-1.5 font-outfit text-lg sm:text-xl tracking-tight animate-fade-in">BuildSelf</span>
-				)}
-				{appId === 'buildsnap' && (
-					<span class="text-indigo-600 dark:text-indigo-400 font-extrabold ml-1.5 font-outfit text-lg sm:text-xl tracking-tight animate-fade-in">BuildSnap</span>
-				)}
-				{appId === 'freshself' && (
-					<span class="text-purple-600 dark:text-purple-400 font-bold ml-1.5 font-jakarta text-lg sm:text-xl tracking-normal animate-fade-in">FreshSelf</span>
-				)}
-				{appId === 'freshsnap' && (
-					<span class="text-emerald-600 dark:text-emerald-400 font-bold ml-1.5 font-jakarta text-lg sm:text-xl tracking-normal animate-fade-in">FreshSnap</span>
-				)}
-				{appId === 'logself' && (
-					<span class="text-indigo-600 dark:text-indigo-400 font-extrabold ml-1.5 font-outfit text-lg sm:text-xl tracking-tight animate-fade-in">logSelf</span>
-				)}
-				{appId === 'studio' && (
-					<span class="text-indigo-600 dark:text-indigo-400 font-extrabold ml-1.5 font-outfit text-lg sm:text-xl tracking-tight animate-fade-in">Blog</span>
+				{logoText && (
+					<span class={`ml-1.5 text-lg sm:text-xl tracking-tight animate-fade-in ${logoColorClass}`}>{logoText}</span>
 				)}
 			</a>
 			<div class="flex items-center gap-4 sm:gap-6">
