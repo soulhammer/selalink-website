@@ -53,22 +53,27 @@ const baseSchema = generateBaseSchema({
 	description,
 	canonicalUrl,
 	urlHref: Astro.url.href,
-	keywords,
 	t
 });
+
+const isProd = import.meta.env.PROD;
 ---
 <!doctype html>
 <html lang={lang} class="dark" style={`--theme-accent: ${currentAccent}; --theme-accent-rgb: ${currentAccentRgb}; --theme-font-family: ${currentFont};`}>
 	<head>
-		<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-F045X42F26"></script>
-		<script is:inline>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
+		{isProd && (
+			<>
+				<!-- Google tag (gtag.js) -->
+				<script async src="https://www.googletagmanager.com/gtag/js?id=G-F045X42F26"></script>
+				<script is:inline>
+				  window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
 
-		  gtag('config', 'G-F045X42F26');
-		</script>
+				  gtag('config', 'G-F045X42F26');
+				</script>
+			</>
+		)}
 		<meta charset="UTF-8" />
 		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width" />

@@ -8,10 +8,10 @@
   "scripts": {
     "predev": "lsof -t -i:4321 | xargs kill -9 2>/dev/null || true",
     "dev": "astro dev",
-    "build": "node src/compile_habit_blogs.js && node src/compile_pet_blogs.js && node src/compile_storage_blogs.js && node src/check_blog_integrity.js && astro build && node src/check_translation_integrity.js && node src/submit_google_indexing.js",
+    "build": "node src/compile_habit_blogs.js && node src/compile_pet_blogs.js && node src/compile_storage_blogs.js && astro build && node src/submit_google_indexing.js",
     "preview": "astro preview",
     "astro": "astro",
-    "test": "vitest run && playwright test",
+    "test": "vitest run && playwright test && node src/check_blog_integrity.js && node src/check_translation_integrity.js",
     "test:unit": "vitest run",
     "test:e2e": "playwright test",
     "generate-blog": "node src/generate_blog_autonomous.js",

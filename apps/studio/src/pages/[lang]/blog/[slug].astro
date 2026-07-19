@@ -5,22 +5,43 @@ import YoutubeEmbed from '../../../components/YoutubeEmbed.astro';
 import ShareToolkit from '../../../components/ShareToolkit.astro';
 import { getCollection, render } from 'astro:content';
 import { useTranslations } from '../../../i18n/ui';
-import { getFormattedDate, getPrevNextPost, generateStructuredData } from '../../../utils/blogDetailHelper';
+import { getFormattedDate, generateStructuredData } from '../../../utils/blogDetailHelper';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
+
+  // 언어별로 포스트를 분류하고 미리 날짜 순 정렬 (1회만 수행)
+  const postsByLang: Record<string, typeof posts> = {};
+  posts.forEach((post) => {
+    const lang = post.id.split('/')[0];
+    if (!postsByLang[lang]) {
+      postsByLang[lang] = [];
+    }
+    postsByLang[lang].push(post);
+  });
+
+  Object.keys(postsByLang).forEach((lang) => {
+    postsByLang[lang].sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  });
+
   return posts.map((post) => {
     const parts = post.id.split('/');
     const lang = parts[0];
     const slug = parts.slice(1).join('/');
+
+    const langPosts = postsByLang[lang] || [];
+    const currentIndex = langPosts.findIndex((p) => p.id === post.id);
+    const nextPost = currentIndex > 0 ? langPosts[currentIndex - 1] : null;
+    const prevPost = currentIndex < langPosts.length - 1 ? langPosts[currentIndex + 1] : null;
+
     return {
       params: { lang, slug },
-      props: { post },
+      props: { post, prevPost, nextPost },
     };
   });
 }
 
-const { post } = Astro.props;
+const { post, prevPost, nextPost } = Astro.props;
 const { lang } = Astro.params;
 const { title, description, pubDate, heroImage, app, youtubeId, updatedDate } = post.data;
 
@@ -44,9 +65,7 @@ const structuredDataList = generateStructuredData({
 
 const formattedDate = getFormattedDate(pubDate, lang || 'en');
 
-// 이전 글 / 다음 글 계산
-const allPosts = await getCollection('blog');
-const { prevPost, nextPost } = getPrevNextPost(allPosts, post.id, lang || 'en');
+
 
 // 앱 타입별 테마 스타일링 바인딩
 const themeAccents: Record<string, string> = {
