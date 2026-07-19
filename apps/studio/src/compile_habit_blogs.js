@@ -209,31 +209,11 @@ ${faqSection}`;
     const imgName = `${blogSlug.replace(/-/g, '_')}.png`;
     const imgCheckPath = pathModule.join(__dirname, '../public/images/blog', imgName);
 
-    // 1. 진단기용 위인 JSON 파일 미존재 시 자동 골격 생성
+    // 1. 진단기용 위인 JSON 파일 미존재 시 에러 발생 및 빌드 강제 차단
     if (!fs.existsSync(snapItemPath)) {
-      const skeleton = {
-        id: blogSlug,
-        name: data.title['ko'] || '신규 위인',
-        gender: "male",
-        era: "현대",
-        location: "한국",
-        lifespan: "1900 - 1980",
-        birthYear: 1900,
-        bio: "여기에 위인의 한 줄 소개 바이오를 입력해 주세요.",
-        habitName: data.title['ko'] || "습관명",
-        tags: [
-          "#집중",
-          "#생산성",
-          "#보통"
-        ],
-        timeOfDay: "morning",
-        requiredItems: []
-      };
-      // habits 디렉토리가 존재하는지 재확인 후 쓰기
-      const habitsDirCheck = pathModule.join(__dirname, 'data/habits/items');
-      ensureDir(habitsDirCheck);
-      fs.writeFileSync(snapItemPath, JSON.stringify(skeleton, null, 2), 'utf-8');
-      console.log(`\x1b[32m[BuildSnap 연동] 신규 위인 진단기 데이터 골격 파일이 자동 생성되었습니다: ${blogSlug}.json\x1b[0m`);
+      console.error(`\x1b[31m[에러] BuildSnap 진단기 데이터 누락: '${blogSlug}.json'에 대응하는 원천 데이터 파일이 존재하지 않습니다: src/data/habits/items/${blogSlug}.json\x1b[0m`);
+      console.error(`\x1b[31m[에러] 데이터의 신뢰성 검증을 위해 깡통(Skeleton) 생성을 중단하고 빌드를 강제 차단합니다. 올바른 역사적/과학적 근거 데이터를 수동으로 채워 넣으십시오.\x1b[0m`);
+      process.exit(1);
     } else {
       // 2. 이미 존재하는 경우 매칭 유효성 검사 (Q1 필수 태그 존재 여부)
       try {
