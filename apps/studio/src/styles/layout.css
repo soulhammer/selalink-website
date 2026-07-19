@@ -80,6 +80,11 @@ html.dark .bento-card:active {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
 }
 
+/* Z-INDEX LAYER FOR GRADIENT SHIELD */
+.z-15 {
+  z-index: 15;
+}
+
 /* GLOW EFFECT */
 .bento-glow {
   display: none;
@@ -101,3 +106,4 @@ html.dark .bento-card:active {
     opacity: 1;
   }
 }
+

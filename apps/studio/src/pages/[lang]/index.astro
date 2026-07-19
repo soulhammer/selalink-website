@@ -113,12 +113,15 @@ const langPosts = allPosts
 		</section>
 
 		<!-- Bento Grid 2.0 -->
-		<section class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 auto-rows-[230px] md:auto-rows-[350px]">
+		<section class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 auto-rows-auto md:auto-rows-[260px]">
 			
 			<!-- FreshSelf Card (Horizontal Bento - Z-10) -->
-			<div class="bento-card col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.15);">
+			<div class="bento-card col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative min-h-[480px] md:min-h-[536px]" style="--glow-color: rgba(139,92,246,0.15);">
 				<div class="bento-glow top-0 left-0"></div>
 				<a href={`/${lang}/apps/freshself/`} aria-label={t('app.freshself.title')} class="absolute inset-0 z-10"></a>
+
+				<!-- Gradient Shield Overlay (Z-15) for Readability -->
+				<div class="absolute inset-y-0 left-0 w-full md:w-[60%] bg-gradient-to-r from-white via-white/95 to-transparent dark:from-slate-950 dark:via-slate-950/90 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
 
 				<!-- Left Side Content (Z-20) -->
 				<div class="z-20 relative max-w-md lg:max-w-xl xl:max-w-2xl space-y-6 dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
@@ -141,7 +144,7 @@ const langPosts = allPosts
 				</div>
 
 				<!-- Right Side 3D Spatial Mockup (Z-10) -->
-				<div class="absolute bottom-[-20px] lg:bottom-[-20px] right-[-15px] sm:right-[-15px] lg:right-[5%] w-[60%] sm:w-[40%] lg:w-[35%] h-[240px] sm:h-[260px] lg:h-[95%] z-10 pointer-events-none perspective-[1000px] flex items-end justify-end self-end lg:self-auto mt-8 lg:mt-0 opacity-15 sm:opacity-50 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700">
+				<div class="absolute bottom-[-10px] md:bottom-[-20px] right-[-15px] md:right-[5%] w-[60%] sm:w-[45%] md:w-[35%] h-[240px] sm:h-[280px] md:h-[95%] z-10 pointer-events-none perspective-[1000px] flex items-end justify-end opacity-20 sm:opacity-50 md:opacity-30 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700">
 					<!-- Back Left Image -->
 					<div class="absolute right-[35%] bottom-2 w-[55%] rounded-2xl p-1.5 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700">
 						<img src={`${imgBase}/5.jpg`} alt="FreshSelf Rescue Reports" class="w-full h-auto rounded-[1rem] object-cover" loading="lazy" />
@@ -152,7 +155,7 @@ const langPosts = allPosts
 					</div>
 				</div>
 
-				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
+				<div class="z-30 relative flex justify-between items-end transition-transform mt-auto pt-8">
 					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
 						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 							{t('app.freshself.supported')}
@@ -179,10 +182,13 @@ const langPosts = allPosts
 			</div>
 
 			<!-- logSelf Card (Encrypted Personal Log) -->
-			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(99,102,241,0.2);">
+			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative min-h-[480px] md:min-h-[536px]" style="--glow-color: rgba(99,102,241,0.2);">
 				<div class="bento-glow top-0 left-0"></div>
 				<a href={`/${lang}/apps/logself/`} aria-label={t('app.logself.title')} class="absolute inset-0 z-10"></a>
 				
+				<!-- Gradient Shield Overlay (Z-15) for Readability -->
+				<div class="absolute inset-x-0 bottom-0 w-full h-[65%] bg-gradient-to-t from-white via-white/80 to-transparent dark:from-slate-950 dark:via-slate-950/80 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
+
 				<!-- Top Content (Z-20) -->
 				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
 					<div class="flex flex-wrap gap-2 mb-4 md:mb-6">
@@ -201,9 +207,9 @@ const langPosts = allPosts
 					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">{t('app.logself.desc')}</p>
 				</div>
                 
-				<!-- Spatial 3D Collage Mock (Z-10) - Matches FreshSelf/BuildSelf style -->
-				<div class="absolute bottom-[-10%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-10%] sm:right-[-8%] md:right-[-3%] lg:right-[0%] w-[60%] sm:w-[40%] md:w-[65%] lg:w-[60%] h-[55%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-15 sm:opacity-45 group-hover:opacity-100 transition-all duration-700">
-					<!-- Back Left Image (High transparency for readability) -->
+				<!-- Spatial 3D Collage Mock (Z-10) -->
+				<div class="absolute bottom-[-5%] md:bottom-[-8%] right-[-5%] md:right-[-2%] w-[60%] sm:w-[45%] md:w-[70%] h-[55%] sm:h-[60%] md:h-[80%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-20 sm:opacity-45 md:opacity-35 group-hover:opacity-100 transition-all duration-700">
+					<!-- Back Left Image -->
 					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-3xl p-1.5 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-45 sm:opacity-55 dark:opacity-30">
 						<img src={`/images/logself/${isKo ? 'ko' : 'en'}/3.jpeg`} alt="logSelf Stats Screen" class="w-full h-auto rounded-[1rem] object-cover" loading="lazy" />
 					</div>
@@ -213,7 +219,7 @@ const langPosts = allPosts
 					</div>
 				</div>
 
-				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
+				<div class="z-30 relative flex justify-between items-end transition-transform mt-auto pt-8">
 					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
 						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 							{t('app.logself.supported')}
@@ -221,7 +227,7 @@ const langPosts = allPosts
 						<span 
 							role="link"
 							tabindex="0"
-							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.logself&hl=${lang}', '_blank');`}
+							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.logself&lang=${lang}', '_blank');`}
 							class="inline-flex items-center gap-1.5 text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white dark:bg-indigo-500/20 dark:text-indigo-300 dark:border-indigo-500/30 px-3.5 py-1.5 rounded-full border border-indigo-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
 						>
 							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
@@ -239,9 +245,12 @@ const langPosts = allPosts
 			</div>
 
 			<!-- BuildSelf Card (Large Spatial Canvas) -->
-			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.2);">
+			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative min-h-[480px] md:min-h-[536px]" style="--glow-color: rgba(16,185,129,0.2);">
 				<div class="bento-glow top-0 left-0"></div>
 				<a href={`/${lang}/apps/buildself/`} aria-label={t('app.buildself.title')} class="absolute inset-0 z-10"></a>
+
+				<!-- Gradient Shield Overlay (Z-15) for Readability -->
+				<div class="absolute inset-x-0 bottom-0 w-full h-[65%] bg-gradient-to-t from-white via-white/80 to-transparent dark:from-slate-950 dark:via-slate-950/80 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
 				
 				<!-- Top Content (Z-20) -->
 				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
@@ -262,7 +271,7 @@ const langPosts = allPosts
 				</div>
                 
 				<!-- Spatial 3D Collage (Active Grid - Z-10) -->
-				<div class="absolute bottom-[-10%] sm:bottom-[-10%] md:bottom-[-15%] lg:bottom-[-20%] right-[-10%] sm:right-[-10%] md:right-[-5%] lg:right-[-5%] w-[60%] sm:w-[45%] md:w-[70%] lg:w-[65%] h-[55%] sm:h-[55%] md:h-[80%] lg:h-[85%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-15 sm:opacity-45 group-hover:opacity-100 transition-all duration-700">
+				<div class="absolute bottom-[-5%] md:bottom-[-8%] right-[-5%] md:right-[-2%] w-[60%] sm:w-[45%] md:w-[70%] h-[55%] sm:h-[60%] md:h-[80%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-20 sm:opacity-45 md:opacity-35 group-hover:opacity-100 transition-all duration-700">
 					<!-- Back Left Image -->
 					<div class="absolute left-[5%] sm:left-[0%] bottom-[20%] w-[55%] rounded-[1.2rem] lg:rounded-3xl p-1 bg-white/20 dark:bg-slate-800/40 backdrop-blur-sm border border-white/30 dark:border-white/10 shadow-xl transform -rotate-12 translate-y-4 group-hover:-translate-x-4 group-hover:-translate-y-2 group-hover:-rotate-16 transition-all duration-700 opacity-50 sm:opacity-60 dark:opacity-40">
 						<img src={`${import.meta.env.BASE_URL}assets/images/apps/buildself/2_buildself_phone_screen.jpeg`} alt="BuildSelf Habit List" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] object-cover" loading="lazy" />
@@ -277,7 +286,7 @@ const langPosts = allPosts
 					</div>
 				</div>
 
-				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
+				<div class="z-30 relative flex justify-between items-end transition-transform mt-auto pt-8">
 					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
 						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 							{t('app.buildself.supported')}
@@ -303,97 +312,90 @@ const langPosts = allPosts
 			</div>
 
 			<!-- FreshSnap Card (Free Web Utility) -->
-			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.25);">
+			<div class="bento-card col-span-1 md:col-span-1 row-span-1 p-5 sm:p-5 md:p-6 flex flex-col justify-between group overflow-hidden relative min-h-[220px] md:min-h-[260px]" style="--glow-color: rgba(16,185,129,0.25);">
 				<div class="bento-glow top-0 right-0"></div>
 				<a href={`/${lang}/apps/freshsnap/`} aria-label={t('app.freshsnap.title')} class="absolute inset-0 z-10"></a>
+
+				<!-- Gradient Shield Overlay (Z-15) for Readability -->
+				<div class="absolute inset-y-0 left-0 w-full md:w-[65%] bg-gradient-to-r from-white via-white/95 to-transparent dark:from-slate-950 dark:via-slate-950/90 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
 				
 				<!-- Top Content -->
-				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
-				<div class="flex flex-wrap gap-2 mb-4 md:mb-6">
-					<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-xs md:text-sm font-semibold border border-emerald-500/20 shadow-sm backdrop-blur-md">
-						<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.freshsnap.status')}
-					</div>
-					<div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/60 dark:bg-white/10 text-slate-800 dark:text-slate-300 text-xs md:text-sm font-semibold border border-white/40 dark:border-white/10 shadow-sm backdrop-blur-md">
-						{t('platform.web')}
-					</div>
-				</div>
-					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-3">
-						<div class="w-10 h-10 sm:w-12 sm:h-12 rounded-xl bg-emerald-100 dark:bg-emerald-500/20 flex items-center justify-center text-emerald-600 dark:text-emerald-400 shadow-sm border border-emerald-500/10">
-							<svg class="w-6 h-6 sm:w-7 sm:h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-								<path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
-							</svg>
+				<div class="z-20 relative max-w-[65%] dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
+					<div class="flex flex-wrap gap-2 mb-3">
+						<div class="inline-flex items-center gap-2 px-2.5 py-0.5 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-400 text-[10px] md:text-xs font-semibold border border-emerald-500/20 shadow-sm backdrop-blur-md">
+							<span class="w-1 h-1 rounded-full bg-emerald-500 animate-pulse"></span>{t('app.freshsnap.status')}
 						</div>
+						<div class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-white/60 dark:bg-white/10 text-slate-800 dark:text-slate-300 text-[10px] md:text-xs font-semibold border border-white/40 dark:border-white/10 shadow-sm backdrop-blur-md">
+							{t('platform.web')}
+						</div>
+					</div>
+					<h2 class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-black mb-2 text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors drop-shadow-sm flex items-center gap-2">
 						{t('app.freshsnap.title')}
-						<LineupBadge type="snap" lang={lang} className="ml-2 scale-95 origin-left" tooltipPosition="right" />
+						<LineupBadge type="snap" lang={lang} className="ml-1 scale-90 origin-left" tooltipPosition="right" />
 					</h2>
-					<p class="text-base sm:text-lg md:text-xl text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">
+					<p class="text-xs md:text-sm text-slate-800 dark:text-slate-200 font-medium leading-relaxed max-w-xs drop-shadow-md relative z-20">
 						{t('app.freshsnap.desc')}
 					</p>
 				</div>
                 
 				<!-- Interactive Web Visual (Desktop Browser Mockup) -->
-				<div class="absolute bottom-[4%] sm:bottom-[-2%] md:bottom-[-3%] lg:bottom-[-4%] right-[-10%] sm:right-[-5%] md:right-[-2%] lg:right-[-2%] w-[85%] sm:w-[65%] md:w-[60%] lg:w-[58%] h-[55%] sm:h-[60%] md:h-[75%] lg:h-[80%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-15 sm:opacity-45 group-hover:opacity-100 transition-all duration-700">
-					<div class="relative w-[95%] sm:w-[90%] mb-4 sm:mb-8 mr-4 sm:mr-8 rounded-[1.2rem] lg:rounded-[1.8rem] p-1 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_50px_rgba(0,0,0,0.25)] dark:shadow-[0_20px_50px_rgba(0,0,0,0.6)] transform rotate-[-3deg] group-hover:rotate-0 group-hover:scale-[1.03] lg:group-hover:scale-105 group-hover:-translate-y-4 transition-all duration-700 z-20">
-						<img src={`/assets/images/apps/freshsnap/freshsnap_browser_${lang}.png`} alt="FreshSnap Web App" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] shadow-inner object-cover" loading="lazy" />
+				<div class="absolute bottom-[-20px] right-[-20px] w-[50%] sm:w-[45%] md:w-[50%] h-[75%] sm:h-[80%] md:h-[90%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-20 sm:opacity-50 md:opacity-40 group-hover:opacity-100 transition-all duration-700">
+					<div class="relative w-full rounded-[0.8rem] md:rounded-[1.2rem] p-0.5 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_15px_35px_rgba(0,0,0,0.2)] dark:shadow-[0_15px_35px_rgba(0,0,0,0.5)] transform rotate-[-2deg] group-hover:rotate-0 group-hover:scale-[1.03] transition-all duration-700">
+						<img src={`/assets/images/apps/freshsnap/freshsnap_browser_${lang}.png`} alt="FreshSnap Web App" class="w-full h-auto rounded-[0.7rem] md:rounded-[1rem] shadow-inner object-cover" loading="lazy" />
 					</div>
 				</div>
                 
-				<div class="z-20 relative mt-auto pt-8 flex justify-between items-end">
-					<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
+				<div class="z-30 relative mt-auto pt-2 flex justify-between items-end">
+					<div class="text-[10px] md:text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-2.5 py-1 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 						{t('app.freshsnap.supported')}
 					</div>
-					<a href={`/${lang}/apps/freshsnap/`} class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
-						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
+					<a href={`/${lang}/apps/freshsnap/`} class="w-10 h-10 md:w-12 md:h-12 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-md z-30 relative">
+						<svg class="w-5 h-5 md:w-6 md:h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
 					</a>
 				</div>
 				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[350px] h-[350px] bg-emerald-400/15 dark:bg-emerald-600/15 blur-[90px] rounded-full group-hover:bg-emerald-500/25 dark:group-hover:bg-emerald-500/20 transition-colors duration-700 pointer-events-none z-0"></div>
 			</div>
 
 			<!-- BuildSnap Card (Habit Dashboard Generator Web Utility) -->
-			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.25);">
+			<div class="bento-card col-span-1 md:col-span-1 row-span-1 p-5 sm:p-5 md:p-6 flex flex-col justify-between group overflow-hidden relative min-h-[220px] md:min-h-[260px]" style="--glow-color: rgba(139,92,246,0.25);">
 				<div class="bento-glow top-0 right-0"></div>
 				<a href={`/${lang}/apps/buildsnap/`} aria-label={t('app.buildsnap.title')} class="absolute inset-0 z-10"></a>
+
+				<!-- Gradient Shield Overlay (Z-15) for Readability -->
+				<div class="absolute inset-y-0 left-0 w-full md:w-[65%] bg-gradient-to-r from-white via-white/95 to-transparent dark:from-slate-950 dark:via-slate-950/90 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
 				
 				<!-- Top Content -->
-				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
-					<div class="flex flex-wrap gap-2 mb-4 md:mb-6">
-						<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-violet-100 text-violet-800 dark:bg-violet-500/20 dark:text-violet-400 text-xs md:text-sm font-semibold border border-violet-500/20 shadow-sm backdrop-blur-md">
-							<span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>{t('app.buildsnap.status')}
+				<div class="z-20 relative max-w-[65%] dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
+					<div class="flex flex-wrap gap-2 mb-3">
+						<div class="inline-flex items-center gap-2 px-2.5 py-0.5 rounded-full bg-violet-100 text-violet-800 dark:bg-violet-500/20 dark:text-violet-400 text-[10px] md:text-xs font-semibold border border-violet-500/20 shadow-sm backdrop-blur-md">
+							<span class="w-1 h-1 rounded-full bg-violet-500 animate-pulse"></span>{t('app.buildsnap.status')}
 						</div>
-						<div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/60 dark:bg-white/10 text-slate-800 dark:text-slate-300 text-xs md:text-sm font-semibold border border-white/40 dark:border-white/10 shadow-sm backdrop-blur-md">
+						<div class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-white/60 dark:bg-white/10 text-slate-800 dark:text-slate-300 text-[10px] md:text-xs font-semibold border border-white/40 dark:border-white/10 shadow-sm backdrop-blur-md">
 							{t('platform.web')}
 						</div>
 					</div>
-					<h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-3 md:mb-4 text-slate-900 dark:text-white group-hover:text-violet-600 dark:group-hover:text-violet-400 transition-colors drop-shadow-sm flex items-center gap-3">
-						<div class="w-10 h-10 sm:w-12 sm:h-12 rounded-xl bg-violet-100 dark:bg-violet-500/20 flex items-center justify-center text-violet-600 dark:text-violet-400 shadow-sm border border-violet-500/10">
-							<svg class="w-6 h-6 sm:w-7 sm:h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-								<rect x="3" y="3" width="7" height="9" rx="1"></rect>
-								<rect x="14" y="3" width="7" height="5" rx="1"></rect>
-								<rect x="14" y="12" width="7" height="9" rx="1"></rect>
-								<rect x="3" y="16" width="7" height="5" rx="1"></rect>
-							</svg>
-						</div>
+					<h2 class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-black mb-2 text-slate-900 dark:text-white group-hover:text-violet-600 dark:group-hover:text-violet-400 transition-colors drop-shadow-sm flex items-center gap-2">
 						{t('app.buildsnap.title')}
-						<LineupBadge type="snap" lang={lang} className="ml-2 scale-95 origin-left" tooltipPosition="right" />
+						<LineupBadge type="snap" lang={lang} className="ml-1 scale-90 origin-left" tooltipPosition="right" />
 					</h2>
-					<p class="text-base sm:text-lg md:text-xl text-slate-850 dark:text-slate-200 font-medium leading-relaxed max-w-sm drop-shadow-md relative z-20">
+					<p class="text-xs md:text-sm text-slate-850 dark:text-slate-200 font-medium leading-relaxed max-w-xs drop-shadow-md relative z-20">
 						{t('app.buildsnap.desc')}
 					</p>
 				</div>
                 
-				<!-- Interactive Web Visual (Preview Dashboard Mockup) -->
-				<div class="absolute bottom-[4%] sm:bottom-[-2%] md:bottom-[-3%] lg:bottom-[-4%] right-[-10%] sm:right-[-5%] md:right-[-2%] lg:right-[-2%] w-[85%] sm:w-[65%] md:w-[60%] lg:w-[58%] h-[55%] sm:h-[60%] md:h-[75%] lg:h-[80%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-15 sm:opacity-45 group-hover:opacity-100 transition-all duration-700">
-					<div class="relative w-[95%] sm:w-[90%] mb-4 sm:mb-8 mr-4 sm:mr-8 rounded-[1.2rem] lg:rounded-[1.8rem] p-1 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_20px_50px_rgba(0,0,0,0.25)] dark:shadow-[0_20px_50px_rgba(0,0,0,0.6)] transform rotate-[-3deg] group-hover:rotate-0 group-hover:scale-[1.03] lg:group-hover:scale-105 group-hover:-translate-y-4 transition-all duration-700 z-20">
-						<img src={`${import.meta.env.BASE_URL}assets/images/apps/buildsnap/preview.png`} alt="BuildSnap Web App" class="w-full h-auto rounded-[1rem] lg:rounded-[1.5rem] shadow-inner object-cover" loading="lazy" />
+				<!-- Interactive Web Visual (Preview Desktop Browser Mockup) -->
+				<div class="absolute bottom-[-20px] right-[-20px] w-[50%] sm:w-[45%] md:w-[50%] h-[75%] sm:h-[80%] md:h-[90%] z-10 pointer-events-none perspective-[1200px] flex items-end justify-end opacity-20 sm:opacity-50 md:opacity-40 group-hover:opacity-100 transition-all duration-700">
+					<div class="relative w-full rounded-[0.8rem] md:rounded-[1.2rem] p-0.5 bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/60 dark:border-white/20 shadow-[0_15px_35px_rgba(0,0,0,0.2)] dark:shadow-[0_15px_35px_rgba(0,0,0,0.5)] transform rotate-[-2deg] group-hover:rotate-0 group-hover:scale-[1.03] transition-all duration-700">
+						<img src={`${import.meta.env.BASE_URL}assets/images/apps/buildsnap/preview.png`} alt="BuildSnap Web App" class="w-full h-auto rounded-[0.7rem] md:rounded-[1rem] shadow-inner object-cover" loading="lazy" />
 					</div>
 				</div>
                 
-				<div class="z-20 relative mt-auto pt-8 flex justify-between items-end">
-					<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
+				<div class="z-30 relative mt-auto pt-2 flex justify-between items-end">
+					<div class="text-[10px] md:text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-2.5 py-1 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 						{t('app.buildsnap.supported')}
 					</div>
-					<a href={`/${lang}/apps/buildsnap/`} class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-violet-600 dark:group-hover:bg-violet-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
-						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
+					<a href={`/${lang}/apps/buildsnap/`} class="w-10 h-10 md:w-12 md:h-12 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-violet-600 dark:group-hover:bg-violet-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-md z-30 relative">
+						<svg class="w-5 h-5 md:w-6 md:h-6 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
 					</a>
 				</div>
 				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[350px] h-[350px] bg-violet-400/15 dark:bg-violet-600/15 blur-[90px] rounded-full group-hover:bg-violet-500/25 dark:group-hover:bg-violet-500/20 transition-colors duration-700 pointer-events-none z-0"></div>
