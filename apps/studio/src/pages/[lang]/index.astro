@@ -38,13 +38,13 @@ const langPosts = allPosts
 						<span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>{t('blog.filter.buildself')}
 					</span>
 					<span class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-purple-100 text-purple-800 border-purple-200/50 dark:bg-purple-500/10 dark:text-purple-400 dark:border-purple-500/20 text-xs md:text-sm font-semibold shadow-sm backdrop-blur-md">
-						<span class="w-1.5 h-1.5 rounded-full bg-purple-500 animate-pulse"></span>{t('blog.filter.freshsnap')} / {t('app.freshself.title')}
+						<span class="w-1.5 h-1.5 rounded-full bg-purple-500 animate-pulse"></span>{t('blog.filter.freshsnap')}
 					</span>
 					<span class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-indigo-100 text-indigo-800 border-indigo-200/50 dark:bg-indigo-500/10 dark:text-indigo-400 dark:border-indigo-500/20 text-xs md:text-sm font-semibold shadow-sm backdrop-blur-md">
 						<span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>{t('blog.filter.logself')}
 					</span>
 					<span class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-rose-100 text-rose-800 border-rose-200/50 dark:bg-rose-500/10 dark:text-rose-400 dark:border-rose-500/20 text-xs md:text-sm font-semibold shadow-sm backdrop-blur-md">
-						<span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>{t('blog.filter.petself')} ({t('app.petself.status')})
+						<span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>{t('blog.filter.petself')}
 					</span>
 				</div>
 			</div>
@@ -116,8 +116,9 @@ const langPosts = allPosts
 		<section class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 auto-rows-[230px] md:auto-rows-[350px]">
 			
 			<!-- FreshSelf Card (Horizontal Bento - Z-10) -->
-			<a href={`/${lang}/apps/freshself/`} aria-label={t('app.freshself.title')} class="bento-card col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.15);">
+			<div class="bento-card col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.15);">
 				<div class="bento-glow top-0 left-0"></div>
+				<a href={`/${lang}/apps/freshself/`} aria-label={t('app.freshself.title')} class="absolute inset-0 z-10"></a>
 
 				<!-- Left Side Content (Z-20) -->
 				<div class="z-20 relative max-w-md lg:max-w-xl xl:max-w-2xl space-y-6 dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
@@ -152,15 +153,15 @@ const langPosts = allPosts
 				</div>
 
 				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
-					<div class="flex flex-wrap items-center gap-2">
-						<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
+						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 							{t('app.freshself.supported')}
 						</div>
 						<span 
 							role="link"
 							tabindex="0"
 							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${lang}', '_blank');`}
-							class="inline-flex items-center gap-1.5 text-xs font-bold bg-purple-600 hover:bg-purple-700 text-white dark:bg-purple-500/20 dark:text-purple-300 dark:border-purple-500/30 px-3.5 py-2 rounded-full border border-purple-500/20 shadow-lg transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+							class="inline-flex items-center gap-1.5 text-xs font-bold bg-purple-600 hover:bg-purple-700 text-white dark:bg-purple-500/20 dark:text-purple-300 dark:border-purple-500/30 px-3.5 py-1.5 rounded-full border border-purple-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
 						>
 							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
 								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
@@ -175,11 +176,12 @@ const langPosts = allPosts
 
 				<!-- Purple Light Bloom Effect -->
 				<div class="absolute -bottom-32 -right-32 w-[500px] h-[500px] bg-purple-400/10 dark:bg-purple-600/10 blur-[100px] rounded-full group-hover:bg-purple-400/20 dark:group-hover:bg-purple-500/15 transition-colors duration-700 z-0 pointer-events-none"></div>
-			</a>
+			</div>
 
 			<!-- logSelf Card (Encrypted Personal Log) -->
-			<a href={`/${lang}/apps/logself/`} aria-label={t('app.logself.title')} class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(99,102,241,0.2);">
+			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(99,102,241,0.2);">
 				<div class="bento-glow top-0 left-0"></div>
+				<a href={`/${lang}/apps/logself/`} aria-label={t('app.logself.title')} class="absolute inset-0 z-10"></a>
 				
 				<!-- Top Content (Z-20) -->
 				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
@@ -212,15 +214,15 @@ const langPosts = allPosts
 				</div>
 
 				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
-					<div class="flex flex-wrap items-center gap-2">
-						<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
+						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 							{t('app.logself.supported')}
 						</div>
 						<span 
 							role="link"
 							tabindex="0"
 							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.logself&hl=${lang}', '_blank');`}
-							class="inline-flex items-center gap-1.5 text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white dark:bg-indigo-500/20 dark:text-indigo-300 dark:border-indigo-500/30 px-3.5 py-2 rounded-full border border-indigo-500/20 shadow-lg transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+							class="inline-flex items-center gap-1.5 text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white dark:bg-indigo-500/20 dark:text-indigo-300 dark:border-indigo-500/30 px-3.5 py-1.5 rounded-full border border-indigo-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
 						>
 							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
 								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
@@ -234,11 +236,12 @@ const langPosts = allPosts
 				</div>
 				<!-- Background Gradient Effect -->
 				<div class="absolute -bottom-32 -right-32 w-[600px] h-[600px] bg-indigo-300/20 dark:bg-indigo-700/20 blur-[120px] rounded-full group-hover:bg-indigo-400/30 dark:group-hover:bg-indigo-500/20 transition-colors duration-700 z-0 pointer-events-none"></div>
-			</a>
+			</div>
 
 			<!-- BuildSelf Card (Large Spatial Canvas) -->
-			<a href={`/${lang}/apps/buildself/`} aria-label={t('app.buildself.title')} class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.2);">
+			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.2);">
 				<div class="bento-glow top-0 left-0"></div>
+				<a href={`/${lang}/apps/buildself/`} aria-label={t('app.buildself.title')} class="absolute inset-0 z-10"></a>
 				
 				<!-- Top Content (Z-20) -->
 				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
@@ -275,15 +278,15 @@ const langPosts = allPosts
 				</div>
 
 				<div class="z-20 relative flex justify-between items-end transition-transform mt-auto pt-8">
-					<div class="flex flex-wrap items-center gap-2">
-						<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
+						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 							{t('app.buildself.supported')}
 						</div>
 						<span 
 							role="link"
 							tabindex="0"
 							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.buildself&hl=${lang}', '_blank');`}
-							class="inline-flex items-center gap-1.5 text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white dark:bg-emerald-500/20 dark:text-emerald-300 dark:border-emerald-500/30 px-3.5 py-2 rounded-full border border-emerald-500/20 shadow-lg transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+							class="inline-flex items-center gap-1.5 text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white dark:bg-emerald-500/20 dark:text-emerald-300 dark:border-emerald-500/30 px-3.5 py-1.5 rounded-full border border-emerald-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
 						>
 							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
 								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
@@ -297,11 +300,12 @@ const langPosts = allPosts
 				</div>
 				<!-- Background Gradient Effect -->
 				<div class="absolute -bottom-32 -right-32 w-[600px] h-[600px] bg-emerald-300/20 dark:bg-emerald-700/20 blur-[120px] rounded-full group-hover:bg-emerald-400/30 dark:group-hover:bg-emerald-500/20 transition-colors duration-700 z-0 pointer-events-none"></div>
-			</a>
+			</div>
 
 			<!-- FreshSnap Card (Free Web Utility) -->
-			<a href={`/${lang}/apps/freshsnap/`} aria-label={t('app.freshsnap.title')} class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.25);">
+			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(16,185,129,0.25);">
 				<div class="bento-glow top-0 right-0"></div>
+				<a href={`/${lang}/apps/freshsnap/`} aria-label={t('app.freshsnap.title')} class="absolute inset-0 z-10"></a>
 				
 				<!-- Top Content -->
 				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
@@ -335,7 +339,7 @@ const langPosts = allPosts
 				</div>
                 
 				<div class="z-20 relative mt-auto pt-8 flex justify-between items-end">
-					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+					<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 						{t('app.freshsnap.supported')}
 					</div>
 					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
@@ -343,11 +347,12 @@ const langPosts = allPosts
 					</div>
 				</div>
 				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[350px] h-[350px] bg-emerald-400/15 dark:bg-emerald-600/15 blur-[90px] rounded-full group-hover:bg-emerald-500/25 dark:group-hover:bg-emerald-500/20 transition-colors duration-700 pointer-events-none z-0"></div>
-			</a>
+			</div>
 
 			<!-- BuildSnap Card (Habit Dashboard Generator Web Utility) -->
-			<a href={`/${lang}/apps/buildsnap/`} aria-label={t('app.buildsnap.title')} class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.25);">
+			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative" style="--glow-color: rgba(139,92,246,0.25);">
 				<div class="bento-glow top-0 right-0"></div>
+				<a href={`/${lang}/apps/buildsnap/`} aria-label={t('app.buildsnap.title')} class="absolute inset-0 z-10"></a>
 				
 				<!-- Top Content -->
 				<div class="z-20 relative dark:drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)]">
@@ -384,7 +389,7 @@ const langPosts = allPosts
 				</div>
                 
 				<div class="z-20 relative mt-auto pt-8 flex justify-between items-end">
-					<div class="text-sm font-bold text-slate-800 dark:text-slate-200 bg-white/70 dark:bg-black/50 px-4 py-2 rounded-full backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg">
+					<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 						{t('app.buildsnap.supported')}
 					</div>
 					<div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-violet-600 dark:group-hover:bg-violet-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
@@ -392,7 +397,7 @@ const langPosts = allPosts
 					</div>
 				</div>
 				<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[350px] h-[350px] bg-violet-400/15 dark:bg-violet-600/15 blur-[90px] rounded-full group-hover:bg-violet-500/25 dark:group-hover:bg-violet-500/20 transition-colors duration-700 pointer-events-none z-0"></div>
-			</a>
+			</div>
 
 		</section>
 

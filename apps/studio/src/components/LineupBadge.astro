@@ -18,19 +18,19 @@ const badgeStyles = {
   self: {
     bg: 'bg-purple-100/80 text-purple-800 border-purple-200/60 dark:bg-purple-500/20 dark:text-purple-300 dark:border-purple-500/30',
     title: t('lineup.self.title') || 'SelaLink SELF',
-    desc: t('lineup.self.desc'),
+    desc: t('lineup.self.tooltip') || t('lineup.self.desc'),
     icon: '🔒'
   },
   snap: {
     bg: 'bg-emerald-100/80 text-emerald-800 border-emerald-200/60 dark:bg-emerald-500/20 dark:text-emerald-300 dark:border-emerald-500/30',
     title: t('lineup.snap.title') || 'SelaLink SNAP',
-    desc: t('lineup.snap.desc'),
+    desc: t('lineup.snap.tooltip') || t('lineup.snap.desc'),
     icon: '⚡'
   },
   share: {
     bg: 'bg-amber-100/80 text-amber-800 border-amber-200/60 dark:bg-amber-500/25 dark:text-amber-200 dark:border-amber-500/30',
     title: t('lineup.share.title') || 'SelaLink SHARE',
-    desc: t('lineup.share.desc'),
+    desc: t('lineup.share.tooltip') || t('lineup.share.desc'),
     icon: '👥'
   }
 };
@@ -57,8 +57,8 @@ const posConfig = tooltipPositionStyles[tooltipPosition] || tooltipPositionStyle
 ---
 
 <span class={`relative inline-flex items-center gap-1 md:gap-1.5 px-2.5 py-0.5 md:px-3 md:py-1 rounded-full text-[10px] md:text-xs font-bold border tracking-wider uppercase backdrop-blur-sm cursor-help select-none group transition-all duration-300 hover:scale-105 ${config.bg} ${className}`}>
-  <span>{config.icon}</span>
-  <span>{config.title.split(' ').pop()}</span> <!-- SelaLink 단어 제외하고 SELF/SNAP/SHARE만 깔끔하게 노출 -->
+  <span class="scale-110 mr-0.5 inline-block">{config.icon}</span>
+  <span>{type.toUpperCase()}</span>
 
   {showTooltip && (
     <span class={`hidden sm:block absolute bottom-full mb-2.5 w-64 max-w-[85vw] p-3 bg-white/95 dark:bg-slate-900/95 border border-slate-200/60 dark:border-slate-800/80 text-left rounded-xl shadow-xl pointer-events-none opacity-0 scale-95 translate-y-2 group-hover:opacity-100 group-hover:scale-100 group-hover:translate-y-0 transition-all duration-300 z-50 backdrop-blur-md ${posConfig.container}`}>
