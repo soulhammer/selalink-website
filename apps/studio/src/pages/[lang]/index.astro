@@ -116,9 +116,9 @@ const langPosts = allPosts
 		<section class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 auto-rows-auto md:auto-rows-[260px]">
 			
 			<!-- FreshSelf Card (Horizontal Bento - Z-10) -->
-			<div class="bento-card col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative min-h-[480px] md:min-h-[536px]" style="--glow-color: rgba(139,92,246,0.15);">
+			<div class="bento-card cursor-pointer col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative min-h-[480px] md:min-h-[536px]" style="--glow-color: rgba(139,92,246,0.15);">
 				<div class="bento-glow top-0 left-0"></div>
-				<a href={`/${lang}/apps/freshself/`} aria-label={t('app.freshself.title')} class="absolute inset-0 z-10"></a>
+				<a href={`/${lang}/apps/freshself/`} aria-label={t('app.freshself.title')} class="absolute inset-0 z-20"></a>
 
 				<!-- Gradient Shield Overlay (Z-15) for Readability -->
 				<div class="absolute inset-y-0 left-0 w-full md:w-[60%] bg-gradient-to-r from-white via-white/95 to-transparent dark:from-slate-950 dark:via-slate-950/90 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
@@ -155,7 +155,7 @@ const langPosts = allPosts
 					</div>
 				</div>
 
-				<div class="z-30 relative flex justify-between items-end transition-transform mt-auto pt-8">
+				<div class="relative flex justify-between items-end transition-transform mt-auto pt-8">
 					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
 						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 							{t('app.freshself.supported')}
@@ -164,7 +164,7 @@ const langPosts = allPosts
 							role="link"
 							tabindex="0"
 							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${lang}', '_blank');`}
-							class="inline-flex items-center gap-1.5 text-xs font-bold bg-purple-600 hover:bg-purple-700 text-white dark:bg-purple-500/20 dark:text-purple-300 dark:border-purple-500/30 px-3.5 py-1.5 rounded-full border border-purple-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+							class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold bg-purple-600 hover:bg-purple-700 text-white dark:bg-purple-500/20 dark:text-purple-300 dark:border-purple-500/30 px-3.5 py-1.5 rounded-full border border-purple-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
 						>
 							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
 								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
@@ -172,7 +172,7 @@ const langPosts = allPosts
 							<span>Google Play</span>
 						</span>
 					</div>
-					<a href={`/${lang}/apps/freshself/`} class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-purple-600 dark:group-hover:bg-purple-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
+					<a href={`/${lang}/apps/freshself/`} class="z-30 relative w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-purple-600 dark:group-hover:bg-purple-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
 						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
 					</a>
 				</div>
@@ -182,9 +182,9 @@ const langPosts = allPosts
 			</div>
 
 			<!-- logSelf Card (Encrypted Personal Log) -->
-			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative min-h-[480px] md:min-h-[536px]" style="--glow-color: rgba(99,102,241,0.2);">
+			<div class="bento-card cursor-pointer col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative min-h-[480px] md:min-h-[536px]" style="--glow-color: rgba(99,102,241,0.2);">
 				<div class="bento-glow top-0 left-0"></div>
-				<a href={`/${lang}/apps/logself/`} aria-label={t('app.logself.title')} class="absolute inset-0 z-10"></a>
+				<a href={`/${lang}/apps/logself/`} aria-label={t('app.logself.title')} class="absolute inset-0 z-20"></a>
 				
 				<!-- Gradient Shield Overlay (Z-15) for Readability -->
 				<div class="absolute inset-x-0 bottom-0 w-full h-[65%] bg-gradient-to-t from-white via-white/80 to-transparent dark:from-slate-950 dark:via-slate-950/80 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
@@ -219,7 +219,7 @@ const langPosts = allPosts
 					</div>
 				</div>
 
-				<div class="z-30 relative flex justify-between items-end transition-transform mt-auto pt-8">
+				<div class="relative flex justify-between items-end transition-transform mt-auto pt-8">
 					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
 						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 							{t('app.logself.supported')}
@@ -228,7 +228,7 @@ const langPosts = allPosts
 							role="link"
 							tabindex="0"
 							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.logself&lang=${lang}', '_blank');`}
-							class="inline-flex items-center gap-1.5 text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white dark:bg-indigo-500/20 dark:text-indigo-300 dark:border-indigo-500/30 px-3.5 py-1.5 rounded-full border border-indigo-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+							class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white dark:bg-indigo-500/20 dark:text-indigo-300 dark:border-indigo-500/30 px-3.5 py-1.5 rounded-full border border-indigo-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
 						>
 							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
 								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
@@ -236,7 +236,7 @@ const langPosts = allPosts
 							<span>Google Play</span>
 						</span>
 					</div>
-					<a href={`/${lang}/apps/logself/`} class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-indigo-600 dark:group-hover:bg-indigo-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
+					<a href={`/${lang}/apps/logself/`} class="z-30 relative w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-indigo-600 dark:group-hover:bg-indigo-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
 						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
 					</a>
 				</div>
@@ -245,9 +245,9 @@ const langPosts = allPosts
 			</div>
 
 			<!-- BuildSelf Card (Large Spatial Canvas) -->
-			<div class="bento-card col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative min-h-[480px] md:min-h-[536px]" style="--glow-color: rgba(16,185,129,0.2);">
+			<div class="bento-card cursor-pointer col-span-1 md:col-span-1 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative min-h-[480px] md:min-h-[536px]" style="--glow-color: rgba(16,185,129,0.2);">
 				<div class="bento-glow top-0 left-0"></div>
-				<a href={`/${lang}/apps/buildself/`} aria-label={t('app.buildself.title')} class="absolute inset-0 z-10"></a>
+				<a href={`/${lang}/apps/buildself/`} aria-label={t('app.buildself.title')} class="absolute inset-0 z-20"></a>
 
 				<!-- Gradient Shield Overlay (Z-15) for Readability -->
 				<div class="absolute inset-x-0 bottom-0 w-full h-[65%] bg-gradient-to-t from-white via-white/80 to-transparent dark:from-slate-950 dark:via-slate-950/80 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
@@ -286,7 +286,7 @@ const langPosts = allPosts
 					</div>
 				</div>
 
-				<div class="z-30 relative flex justify-between items-end transition-transform mt-auto pt-8">
+				<div class="relative flex justify-between items-end transition-transform mt-auto pt-8">
 					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
 						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 							{t('app.buildself.supported')}
@@ -295,7 +295,7 @@ const langPosts = allPosts
 							role="link"
 							tabindex="0"
 							onclick={`event.stopPropagation(); window.open('https://play.google.com/store/apps/details?id=com.selalink.buildself&hl=${lang}', '_blank');`}
-							class="inline-flex items-center gap-1.5 text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white dark:bg-emerald-500/20 dark:text-emerald-300 dark:border-emerald-500/30 px-3.5 py-1.5 rounded-full border border-emerald-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
+							class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white dark:bg-emerald-500/20 dark:text-emerald-300 dark:border-emerald-500/30 px-3.5 py-1.5 rounded-full border border-emerald-500/20 shadow-sm transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer"
 						>
 							<svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
 								<path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
@@ -303,7 +303,7 @@ const langPosts = allPosts
 							<span>Google Play</span>
 						</span>
 					</div>
-					<a href={`/${lang}/apps/buildself/`} class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
+					<a href={`/${lang}/apps/buildself/`} class="z-30 relative w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-[0_0_30px_rgba(0,0,0,0.1)] dark:shadow-[0_0_30px_rgba(255,255,255,0.3)]">
 						<svg class="w-6 h-6 sm:w-8 sm:h-8 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
 					</a>
 				</div>
@@ -312,9 +312,9 @@ const langPosts = allPosts
 			</div>
 
 			<!-- FreshSnap Card (Free Web Utility) -->
-			<div class="bento-card col-span-1 md:col-span-1 row-span-1 p-5 sm:p-5 md:p-6 flex flex-col justify-between group overflow-hidden relative min-h-[220px] md:min-h-[260px]" style="--glow-color: rgba(16,185,129,0.25);">
+			<div class="bento-card cursor-pointer col-span-1 md:col-span-1 row-span-1 p-5 sm:p-5 md:p-6 flex flex-col justify-between group overflow-hidden relative min-h-[220px] md:min-h-[260px]" style="--glow-color: rgba(16,185,129,0.25);">
 				<div class="bento-glow top-0 right-0"></div>
-				<a href={`/${lang}/apps/freshsnap/`} aria-label={t('app.freshsnap.title')} class="absolute inset-0 z-10"></a>
+				<a href={`/${lang}/apps/freshsnap/`} aria-label={t('app.freshsnap.title')} class="absolute inset-0 z-20"></a>
 
 				<!-- Gradient Shield Overlay (Z-15) for Readability -->
 				<div class="absolute inset-y-0 left-0 w-full md:w-[65%] bg-gradient-to-r from-white via-white/95 to-transparent dark:from-slate-950 dark:via-slate-950/90 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
@@ -345,7 +345,7 @@ const langPosts = allPosts
 					</div>
 				</div>
                 
-				<div class="z-30 relative mt-auto pt-2 flex justify-between items-end">
+				<div class="relative mt-auto pt-2 flex justify-between items-end">
 					<div class="text-[10px] md:text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-2.5 py-1 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 						{t('app.freshsnap.supported')}
 					</div>
@@ -357,9 +357,9 @@ const langPosts = allPosts
 			</div>
 
 			<!-- BuildSnap Card (Habit Dashboard Generator Web Utility) -->
-			<div class="bento-card col-span-1 md:col-span-1 row-span-1 p-5 sm:p-5 md:p-6 flex flex-col justify-between group overflow-hidden relative min-h-[220px] md:min-h-[260px]" style="--glow-color: rgba(139,92,246,0.25);">
+			<div class="bento-card cursor-pointer col-span-1 md:col-span-1 row-span-1 p-5 sm:p-5 md:p-6 flex flex-col justify-between group overflow-hidden relative min-h-[220px] md:min-h-[260px]" style="--glow-color: rgba(139,92,246,0.25);">
 				<div class="bento-glow top-0 right-0"></div>
-				<a href={`/${lang}/apps/buildsnap/`} aria-label={t('app.buildsnap.title')} class="absolute inset-0 z-10"></a>
+				<a href={`/${lang}/apps/buildsnap/`} aria-label={t('app.buildsnap.title')} class="absolute inset-0 z-20"></a>
 
 				<!-- Gradient Shield Overlay (Z-15) for Readability -->
 				<div class="absolute inset-y-0 left-0 w-full md:w-[65%] bg-gradient-to-r from-white via-white/95 to-transparent dark:from-slate-950 dark:via-slate-950/90 dark:to-transparent z-15 pointer-events-none transition-opacity duration-500"></div>
@@ -390,7 +390,7 @@ const langPosts = allPosts
 					</div>
 				</div>
                 
-				<div class="z-30 relative mt-auto pt-2 flex justify-between items-end">
+				<div class="relative mt-auto pt-2 flex justify-between items-end">
 					<div class="text-[10px] md:text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-2.5 py-1 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
 						{t('app.buildsnap.supported')}
 					</div>
