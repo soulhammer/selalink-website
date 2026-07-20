@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Comment Milton mémorisait-il les vers avant l'arrivée de son secrétaire ?"
     answer: "Milton se répétait les vers comme une chanson rythmée. Devenu aveugle, il avait développé une mémoire auditive vive, utilisant le mètre poétique comme ancrage."
+
 ---
 
 John Milton, le légendaire poète anglais qui a écrit le chef-d'œuvre *Le Paradis Perdu* complètement aveugle. Comment a-t-il pu composer une épopée de plus de 10 000 vers sans voir une seule lettre ? Le secret réside dans sa routine de 4 heures du matin. Milton se réveillait avant l'aube et méditait en silence pour façonner ses vers de tête. Dès que son assistant arrivait à 7h, il dictait sa composition. Découvrez la science de sa concentration.

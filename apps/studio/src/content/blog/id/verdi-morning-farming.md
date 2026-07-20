@@ -21,6 +21,7 @@ faqs:
     answer: "Latihan di gym membantu, tetapi pencahayaan dalam ruangan kurang efektif untuk mengatur ulang ritme sirkadian. Kontak langsung dengan elemen alami seperti tanah (Earthing) yang dikombinasikan dengan cahaya luar ruangan adalah hal yang memicu aktivasi serotonin seperti yang dialami Verdi."
   - question: "Apa yang harus saya perhatikan saat menambahkan kerja fisik pagi hari?"
     answer: "Hindari kerja intensitas tinggi yang menguras glukosa. Kelelahan tinggi membahayakan korteks prefrontal, jadi batasi sesi pagi Anda sekitar 15 menit untuk aktivitas ringan."
+
 ---
 
 Giuseppe Verdi, raksasa opera abad ke-19, menyebut dirinya sebagai 'petani sederhana' bahkan ketika teater di seluruh dunia dipenuhi dengan namanya. Bangun jam 5 pagi di pertanian Sant'Agata miliknya, ia mengenakan pakaian kasar untuk mengolah ladang dan merawat tanaman selama 2 jam sebelum duduk di depan piano.

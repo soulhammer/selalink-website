@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "¿Por qué Hemingway registraba su cantidad de palabras diario?"
     answer: "Para visualizar el progreso de escritura, evitando bloqueos y forzando un flujo regular de productividad creativa."
+
 ---
 
 Ernest Hemingway, un maestro de la literatura estadounidense moderna que ganó el Premio Nobel y el Premio Pulitzer. Conocido por su estilo de escritura minimalista y duro, su disciplina diaria era igualmente legendaria. Comenzaba a escribir temprano por la mañana y, al final de cada sesión, contaba y registraba su recuento diario de palabras en un gráfico en la pared. Hoy, BuildSelf analiza las razones científicas detrás de este seguimiento y cómo puedes aplicar el autocontrol para mantener el impulso diario.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Quel est le principe scientifique par lequel l'observation de la nature calme le stress ?"
     answer: "À l'inverse de l'attention focalisée exigée par les écrans, les éléments de la nature provoquent une « fascination douce », qui régénère l'énergie du cortex frontal."
+
 ---
 
 Shin Saimdang, l'artiste emblématique de Joseon et mère de Yulgok Yi I, a laissé des peintures de paysages et d'insectes (Chochungdo) réputées pour la finesse de leurs traits. Le secret de sa créativité résidait dans son habitude quotidienne d'aller dans son jardin observer les plantes et les insectes. 🌿

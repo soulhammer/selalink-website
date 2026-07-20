@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Travailler au lit ne risque-t-il pas de donner envie de dormir ?"
     answer: "C'est possible. L'important n'est pas de s'allonger mollement, mais de soutenir le buste avec des oreillers pour rester dans un état d'éveil détendu. Il est également crucial de définir une durée de travail fixe en éliminant les distractions."
+
 ---
 
 Mark Twain, qui a ouvert un horizon unique dans la littérature américaine avec ses romans 'Les Aventures de Tom Sawyer' et 'Les Aventures de Huckleberry Finn,' est considéré comme l'un des plus grands humoristes. Étonnamment, son humour aiguisé et ses descriptions vivantes sont nés dans l'endroit le plus confortable et apparemment le plus paresseux : son 'lit' douillet.

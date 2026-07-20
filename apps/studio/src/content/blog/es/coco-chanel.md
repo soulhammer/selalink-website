@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, establecer un límite claro entre el trabajo y el descanso mediante un ritual de aislamiento, oliendo fragancias a solas después del trabajo."
   - question: "¿Cómo podemos sustituir este hábito si no tengo perfumes de aroma o una habitación de hotel?"
     answer: "Puedes lograr el mismo efecto apagando tu móvil por 15 minutos en un rincón ordenado de casa mientras hueles un difusor simple."
+
 ---
 
 Coco Chanel es una diseñadora de moda francesa que lideró una revolución en el diseño de moda en el siglo XX y liberó a las mujeres de la opresión de los corsés, y la fundadora de la marca Chanel. Coco Chanel presentó la libertad esencial de la ropa femenina a través del negro y la belleza simple (Lo simple es lo mejor). De pie en su estudio, caminó a través de la tela directamente sobre el cuerpo de la modelo, y con sólo un par de tijeras en la mano, cortó sin piedad los corsés pesados ​​y engorrosos, los cuellos enormes y los encajes innecesarios del siglo XIX. En lugar de borrar líneas con un bolígrafo, sintió la tensión de la tela y las cortó, creando una simplificación minimalista que permitió a las mujeres moverse libremente y ejercitar su conciencia corporal.

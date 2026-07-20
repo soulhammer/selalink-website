@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Posso utilizar um aplicativo de mapas mentais no lugar de cartões físicos?"
     answer: "Os aplicativos ajudam, mas a retroalimentacão tátil de mover objetos físicos com as mãos estimula o córtex motor de forma muito mais direta. Estudos demonstram que a manipulacão manual no espaço real gera uma maior ativação neuronal útil para a criatividade do que o arrastar elementos em uma tela."
+
 ---
 
 A tabela periódica, um dos marcos da ciência moderna. Para resolver este grande quebra-cabeça, o cientista russo Dmitri Mendeleiev utilizou cartões de papel para representar os 63 elementos conocidos. Levava estes cartões no bolso e os distribuía sobre a mesa, buscando padrões lógicos em suas propriedades. Analisemos como a manipulação física de ideias ativa os recursos da memória de trabalho.

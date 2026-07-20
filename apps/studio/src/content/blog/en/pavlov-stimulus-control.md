@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How can I make a stimulus-blocking zone if I don't have an independent study room or room at home?"
     answer: "Even without a physical room, you can sufficiently block visual and auditory stimuli by placing a desk partition in a corner of the desk or using noise-canceling headphones to set up a virtual isolation barrier."
+
 ---
 
 Ivan Pavlov, the great physiologist who won Russia's first Nobel Prize in Physiology or Medicine by discovering learning and behavioral patterns through watching dogs salivate. How did his precise observations that captured the subconscious learning mechanism of animals come about? 🔔

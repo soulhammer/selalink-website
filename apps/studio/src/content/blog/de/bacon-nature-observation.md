@@ -16,6 +16,7 @@ steps:
     text: "Gehen Sie langsam und nehmen Sie Formen, Geräusche, Texturen und Düfte in Ihrer Umgebung bewusst wahr. Dies verankert das Gehirn im Moment."
   - name: "Halten Sie die gewonnenen Erkenntnisse fest"
     text: "Notieren Sie nach der Rückkehr an Ihren Schreibtisch sofort die Ideen, die Ihnen beim Gehen kamen. Ein erholter präfrontaler Kortex arbeitet mit überlegener Klarheit."
+
 ---
 
 "Die Natur besiegt man nur, indem man sich ihr unterwirft." Francis Bacon, der Pionier der modernen Wissenschaftsmethode, war ein begeisterter Gärtner. Jeden Morgen ging er durch seine Gärten und beobachtete die Natur. Schreiber folgten ihm und notierten seine Gedanken. Für Bacon war dies eine sensorische Entgiftung.

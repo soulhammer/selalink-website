@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, catatan sejarah mengonfirmasi bahwa Napoleon dapat tidur hampir seketika..."
   - question: "Kapan waktu paling optimal dalam sehari untuk tidur mikro?"
     answer: "Waktu ideal adalah antara pukul 13.00 dan 15.00..."
+
 ---
 
 Napoleon Bonaparte, ahli strategi militer legendaris and Kaiser Prancis...

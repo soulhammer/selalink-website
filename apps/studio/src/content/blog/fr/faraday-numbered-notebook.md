@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "La numérotation est-elle utile si j'utilise des applications de notes numériques ?"
     answer: "Oui, la numérotation numérique est très pratique. Même si les moteurs de recherche aident, attribuer des codes uniques (comme #042) facilite la création de liens de référence et permet de connecter les idées, boostant la productivité."
+
 ---
 
 Michael Faraday, qui a jeté les bases de l'ère électrique. Bien que manquant de formation mathématique poussée, la clé de ses découvertes résidait dans ses notes de laboratoire. Il a numéroté chacune de ses observations tout au long de sa vie. Son journal s'étend du numéro 1 au numéro 16 041. Voyons comment ce classement a compensé les limites de sa mémoire.

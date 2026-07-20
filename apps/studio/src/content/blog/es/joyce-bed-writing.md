@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Joyce vestía una bata blanca para escribir en la cama?"
     answer: "El color blanco reflejaba la máxima luz sobre el papel, actuando como un potenciador de iluminación natural para sus ojos debilitados."
+
 ---
 
 James Joyce, uno de los escritores más influyentes del siglo XX, pionero de la literatura modernista con su obra *Ulises*. A lo largo de su vida, sufrió graves problemas de visión y más de 20 cirugías. Para escribir en tales condiciones físicas, adoptó un hábito inusual: acostado en la cama, con una bata blanca, escribiendo con un lápiz azul en papel blanco. Conozcamos cómo este arreglo redujo su fatiga sensorial.

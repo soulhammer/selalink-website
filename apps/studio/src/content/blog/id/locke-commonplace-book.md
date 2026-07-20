@@ -21,6 +21,7 @@ faqs:
     answer: "Ini adalah sistem pengalamatan unik yang menggambar kisi-kisi kombinasi alfabet dan vokal di halaman depan, dan menulis nomor halaman yang sesuai dengan kata kunci tertentu untuk memudahkan pencarian."
   - question: "Apakah buku catatan analog lebih bermanfaat untuk pencernaan pengetahuan daripada metode digital?"
     answer: "Menulis tangan merangsang jaringan kontrol kognitif otak dengan kuat dan menguntungkan pengodean jangka pendek. Namun, metode digital cepat dalam pencarian dan tidak memiliki risiko kehilangan data."
+
 ---
 
 John Locke, raksasa filsafat Pencerahan yang meletakkan dasar filosofis demokrasi parlementer dan memengaruhi Deklarasi Kemerdekaan AS. Bagaimana dia, yang berargumen bahwa pikiran manusia seperti kertas kosong saat lahir (tabula rasa), mengisi kanvas kosongnya dengan pengetahuan besar? 📰

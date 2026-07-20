@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, menulis asosiatif menggunakan kartu kata segera setelah bangun tidur saat pikiran bawah sadar aktif adalah yang paling efektif."
   - question: "Bagaimana cara menggantinya jika saya tidak memiliki kartu kata?"
     answer: "Anda dapat menggantinya dengan membuka buku secara acak dan memilih kata benda, atau menggunakan generator kata acak online."
+
 ---
 
 Novelis Amerika Ray Bradbury, bapak baptis sastra fiksi ilmiah modern (SF) dan seorang master yang meramalkan batas-batas peradaban ilmu pengetahuan dan teknologi dengan kepekaan puitisnya yang unik, menulis karya agung seperti Fahrenheit 451 menggunakan rutinitas cerita yang terdiri dari 10 asosiasi kata dadakan setiap pagi. Segera setelah dia membuka matanya setiap pagi, dia pergi ke mejanya dan menuliskan 10 kata acak (misalnya pasir, abu, bel, mesin, awan, dll.) di selembar kertas kosong. Dia menatap setiap kata selama satu menit, lalu memaksa kata-kata itu untuk digabungkan di otaknya, menciptakan satu asosiasi cerita pendek yang sangat pendek setiap hari. Rutinitas ini adalah tempat lahirnya kreativitas yang menghasilkan mahakarya fiksi ilmiahnya.

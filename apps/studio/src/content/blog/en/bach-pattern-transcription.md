@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does typing transcription have the same effect?"
     answer: "Typing consists of repeating the same keypress for all letters, which results in much lower stimulation of the parietal logical areas compared to analog hand-writing that draws character paths and adjusts pen pressure."
+
 ---
 
 Johann Sebastian Bach, called the 'Father of Music' for completing Baroque counterpoint and harmony, serving as a compass for later composers like Beethoven and Mozart. His complex, mathematical chord structures are interwoven with an incredibly sophisticated logical framework. This genius logic was born from a lifelong intellectual routine rather than mere innate talent. It was the 'score copying habit' of copying sheet music written by the greatest masters of his time, line by line with a quill every night. As a young boy, he secretly stole master scores from his older brother's study and copied them all night under the moonlight. For Bach, copying was not passive reading. It was a brain-imprinting ritual that used fine motor skills of his hands to engrave mathematical arrangements of notes into his nervous system. Today, BuildSelf shares the brain-scientific principles behind Bach's transcription habit and how to design a modern analog transcription ritual to maximize your logical thinking and learning.

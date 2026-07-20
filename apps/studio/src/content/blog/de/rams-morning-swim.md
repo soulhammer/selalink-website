@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Schwimmen war nur Rams' bevorzugte Übung. Jedes aerobe Training, das den Blutfluss im Gehirn anregt, wie leichtes Joggen, Dehnen oder 10 Minuten zügiges Gehen, ist in Ordnung."
   - question: "Kann ich nicht auch Gebäude oder Innenräume anstelle der Natur beobachten?"
     answer: "Künstliche Innenräume oder geometrische Gebäude erfordern unbewusst analytische Interpretationen des Gehirns (gerichtete Aufmerksamkeit). Zur Erholung der kognitiven Müdigkeit ist es ideal, Naturobjekte zu betrachten, die keine Analyse erfordern."
+
 ---
 
 "Weniger, aber besser." Dieter Rams, die lebende Legende des Designs, der als Chefdesigner von Braun das Paradigma des Industriedesigns des 20. Jahrhunderts revolutionierte und unzählige Meister wie Jony Ive von Apple inspirierte. Woher stammten seine genialen Ideen zur Vereinfachung der Welt? 🏊‍♂️

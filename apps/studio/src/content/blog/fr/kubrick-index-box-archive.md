@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Puis-je utiliser des applications numériques comme Notion ou Obsidian à la place des fiches physiques ?"
     answer: "Oui, les outils numériques comme Notion ou Obsidian sont excellents pour construire un second cerveau. Le support importe moins que le respect du principe modulaire : limitez chaque note à un seul concept et reliez-les activement entre elles."
+
 ---
 
 Stanley Kubrick, le légendaire réalisateur américain à l'origine de chefs-d'œuvre comme 2001 : L'Odyssée de l'espace et Shining, était célèbre pour son perfectionnisme extrême et ses recherches approfondies. Pour gérer le volume impressionnant de documents historiques, de photos et d'idées de scénarios, Kubrick a développé un système d'indexation. Il écrivait des notes à la main sur des fiches de 3x5 pouces, les classant systématiquement dans des boîtes en bois. Nous analysons comment la décharge de données du cerveau vers des fiches physiques a permis à Kubrick de préserver sa clarté créative.

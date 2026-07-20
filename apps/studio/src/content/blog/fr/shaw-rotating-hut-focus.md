@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si je vis dans un appartement partagé et que je ne peux pas créer une pièce physique séparée ?"
     answer: "Si la séparation physique est impossible, construisez une barrière acoustique avec des écouteurs à réduction de bruit diffusant un bruit rose de basse fréquence. De plus, placez un panneau Ne pas déranger sur votre bureau, ou ajustez votre emploi du temps pour vous réveiller 2 heures avant les autres."
+
 ---
 
 George Bernard Shaw, le brillant dramaturge et critique irlandais, était célèbre pour sa langue acérée, mais dans sa routine de travail, il était incroyablement discipliné. Pour éviter les interruptions, il a construit un minuscule abri en bois au fond de son jardin à Ayot St Lawrence. La cabane reposait sur un châssis rotatif en acier, ce qui permettait à Shaw de la pousser manuellement pour suivre le soleil. Pour éviter les invités imprévus, il disait à son personnel de dire qu'il était parti à Londres. Nous examinons la psychologie de cet isolement associé au suivi de la lumière du jour.

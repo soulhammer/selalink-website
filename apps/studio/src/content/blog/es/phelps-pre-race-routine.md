@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué pasa si accidentalmente me salto un paso de la rutina?"
     answer: "El cerebro puede reaccionar de forma exagerada a la interrupción inesperada, aumentando la ansiedad. Intente comenzar de nuevo o pase flexiblemente al siguiente paso."
+
 ---
 
 Michael Phelps, una leyenda de la natación con 28 medallas olímpicas. Incluso frente a los bloques de salida tensos, mantuvo una mente notablemente tranquila. Detrás de su control mental estaba una rutina de alta precisión que se ejecutaba sin errores exactamente 2 horas antes de la carrera.

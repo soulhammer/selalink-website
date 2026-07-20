@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa mengubah topik setiap tiga tahun?"
     answer: "Karena siklus tiga tahun tepat untuk menguasai satu topik dan merangsang neuroplastisitas otak secara optimal, memungkinkan pemikiran konvergen di berbagai disiplin ilmu."
+
 ---
 
 Peter Drucker, akademisi yang meletakkan dasar manajemen modern dan menghadirkan cakrawala bisnis. Bagaimana dia bisa mempertahankan pikiran yang jernih dan wawasan yang tajam seperti orang muda hingga akhir usia 90-an? Rahasianya terletak pada rutinitas intelektualnya yang unik, siklus belajar tiga tahun.

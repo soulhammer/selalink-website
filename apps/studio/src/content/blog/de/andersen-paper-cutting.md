@@ -21,6 +21,7 @@ faqs:
     answer: "Natürlich. Zufälliges Schneiden ohne Vorlage ist effektiver, um das DMN zu beruhigen. Es ist egal, ob das Muster seltsam aussieht. Wichtig sind die Bewegung und das Geräusch. Genießen Sie es."
   - question: "Es entsteht Papiermüll, stört das Aufräumen nicht die Entspannung?"
     answer: "Wenn Sie der Müll stört, arbeiten Sie über einem Tablett. So können Sie die Reste am Ende mit einem Griff entsorgen, was die Entspannung nicht stört."
+
 ---
 
 Hans Christian Andersen, der Vater der Märchen. Wie bewahrte er trotz Depressionen, Minderwertigkeitskomplexen und Verlustängsten seine Fantasie und fand Trost? Zur Inspiration zog er immer Papier und Schere aus der Tasche. Er faltete und schnitt, während er improvisierte. Für ihn war das Papierschneiden kein Kinderspiel, sondern ein Werkzeug, um seine Fantasie anzuregen und innere Ruhe zu finden. Heute stellt BuildSelf die Vorteile dieser Routine vor.

@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, frische Morgenluft und die Konzentration auf die Textur natürlicher Objekte aktivieren die sensorischen Areale und bauen Stress ab."
   - question: "Wie kann ich die Routine ersetzen, wenn ich nicht in einer Wüste oder steinigen Umgebung bin?"
     answer: "Spazieren Sie in einem Park und betrachten oder berühren Sie Objekte mit natürlichen Texturen wie Blätter, Blüten oder Muscheln."
+
 ---
 
 Georgia O'Keeffe, die Patin der amerikanischen Kunst der Moderne und eine Malerin, die den einzigartigen Stil der Blumen- und Wüstenknochenmalerei in der westlichen Kunstgeschichte des 20. Jahrhunderts bahnte und die trivialen Formen von Mutter Natur mithilfe der fokussierten Nahaufnahmetechnik auf großartige Weise auf Leinwand fixierte. Sie stand mitten in der kargen Wüste und starrte stundenlang auf die rauen Knochen unbemerkter Tiere, die kunstvollen Adern verwelkter Blumen und die Textur von Sandkörnern, zehnfach oder mehr vergrößert wie durch ein Vergrößerungsglas. Sie erzeugte eine visuelle Wirkung, indem sie die kleinsten Details von Objekten in überwältigender Größe auf der gesamten Leinwand in Nahaufnahmen aufnahm. Dieser detaillierte visuelle Fokus und die maximale Wiedergaberoutine machten sie zu einer absoluten Meisterin der modernen Kunst.

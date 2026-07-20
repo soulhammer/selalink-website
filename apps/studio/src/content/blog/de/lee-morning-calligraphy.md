@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Ich habe keine Kalligraphieausrüstung; gibt es Alternativen für den Alltag?"
     answer: "Füllfederhalter, Zeichenstifte oder ein Bleistift auf strukturiertem Papier reichen völlig aus. Wichtig ist, dass das Gehirn den Widerstand der Stiftspitze auf dem Papier und die Druckverteilung bewusst registriert. Jedes Schreibgerät, das ein deutliches taktiles Feedback gibt, erzielt eine ähnliche Wirkung."
+
 ---
 
 Samsung-Gründer Lee Byung-chul schuf das koreanische Halbleiterwunder. Hinter seinen rationalen Entscheidungen, mit denen er einen Weltkonzern aufbaute, stand ein fernöstliches Ritual: Nach dem Aufwachen setzte er sich allein in sein Arbeitszimmer, um Tusche zu reiben und Kalligraphien anzufertigen. Werte wie 'Grenzenloses Streben' auf Papier zu bannen, half ihm, geschäftliche Ablenkungen auszublenden. Erfahren Sie, wie Kalligraphie das Gehirn beruhigt.

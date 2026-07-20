@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Pavarotti cherchait-il un clou spécifiquement tordu ?"
     answer: "Dans le théâtre italien, un clou tordu est un vieux présage de chance. D'abord simple superstition, c'est devenu pour lui une ancre cognitive indispensable contre le trac."
+
 ---
 
 Luciano Pavarotti, l'un des plus grands ténors de l'histoire. Malgré son immense succès, Pavarotti souffrait d'un trac terrible. Pour vaincre son angoisse, il suivait un rituel : chercher un clou tordu sur le sol des coulisses. En Italie, un clou tordu porte bonheur. Découvrez comment ce rituel agissait sur son amygdale pour calmer son anxiété.

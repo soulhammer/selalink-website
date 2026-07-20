@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was ist, wenn kein Kind da ist, dem ich es erklären kann?"
     answer: "Sie können es Kollegen, einem Spielzeug oder einem Chatbot erklären. Wichtig ist der Filterprozess, bei dem Sie Fachbegriffe weglassen und Worte wählen, die ein 10-jähriges Kind verstehen könnte."
+
 ---
 
 Richard Feynman, ein Riese der modernen Physik, der für seine Arbeit in der Quantenelektrodynamik den Nobelpreis für Physik erhielt. Er war ein hervorragender Pädagoge, der komplexe Physik so erklärte, dass jeder sie verstehen konnte. Das Geheimnis lag in seiner Gewohnheit zu 'lehren'. Wann immer Feynman etwas Neues lernte, öffnete er ein leeres Notizbuch und tat so, als säße ein 10-jähriges Kind vor ihm. Er schrieb das Konzept einfach auf. Wenn er ins Stocken geriet, kehrte er zur Quelle zurück. Heute stellt BuildSelf die neurowissenschaftliche Wahrheit hinter Feynmans Lernmethode vor.

@@ -21,6 +21,7 @@ faqs:
     answer: "Ouvir é passivo. Bloqueia a 'Recuperação Ativa'. Durante as caminhadas, manter os ouvidos livres e processar ativamente o que foi lido é mais eficaz para a plasticidade."
   - question: "A velocidade da caminhada influencia a estimulação cerebral?"
     answer: "Sim. Um ritmo rápido e rítmico (4 a 5 km/h) sem fadiga é ideal. Este nível de exercício aeróbico leve otimiza o BDNF. Correr muito rápido desvia os recursos cognitivos para o controle físico."
+
 ---
 
 John Stuart Mill escreveu Sobre a Liberdade. Como desenvolveu sua imensa capacidade cognitiva? 🚶

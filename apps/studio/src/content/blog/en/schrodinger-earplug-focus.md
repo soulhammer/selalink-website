@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What should I do if complete silence actually hinders concentration or causes anxiety?"
     answer: "For beginners who feel awkward in complete silence, it is recommended to start by playing white noise (rain, wave sounds) or wordless pink noise to let the brain adapt to the quietness."
+
 ---
 
 Erwin Schrödinger, the genius Austrian physicist who won the Nobel Prize in Physics and laid the foundation for modern quantum mechanics by discovering the wave equation, the most mysterious and complex physical law in history. In what environment did his brilliant mathematical calculations and deep physical-philosophical thoughts come from? 🌌

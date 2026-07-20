@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum läuft Murakami jeden Tag 10 km?"
     answer: "Um die Konzentration beim Schreiben aufrechtzuerhalten, stimuliert er die Gehirnzellen durch Ausdauersport."
+
 ---
 
 Haruki Murakami ist ein Gigant der modernen japanischen Literatur, der mit jedem seiner Werke weltweites Aufsehen erregt. Er ist nicht nur Schriftsteller, sondern auch ein leidenschaftlicher Läufer, der seit über 40 Jahren jedes Jahr einen Marathon läuft. Als er 1982 hauptberuflicher Autor wurde, bemerkte er durch das ständige Sitzen einen Mangel an Ausdauer und eine Gewichtszunahme. Er erkannte, dass ein Schriftsteller für langfristige Kreativität nicht nur Talent, sondern auch eine starke körperliche Fitness benötigt, um die Konzentration aufrechtzuerhalten. Er gab das Rauchen auf und begann jeden Morgen 10 km zu laufen oder 1.500 m zu schwimmen. Diese Routine behält er überall auf der Welt bei. Heute untersucht BuildSelf die wissenschaftlichen Gründe für Murakamis Laufroutine und wie Sie Ihre eigene Ausdauer aufbauen können.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sim. No entanto, defina o telefone para Não Perturbe para evitar notificações, ou coloque um widget na tela inicial para minimizar o atraso de entrada."
   - question: "O que você acha de gravar áudio e transcrevê-lo mais tarde?"
     answer: "A gravação de áudio ajuda a capturar detalhes, mas causa fadiga na memória de trabalho durante a transcrição. Anotar palavras-chave brutas durante o evento é muito melhor para o mapeamento semântico."
+
 ---
 
 Margaret Mead, a antropóloga cultural de renome mundial que mudou o paradigma da antropologia do século XX, viveu durante anos em áreas remotas como Samoa. A razão pela qual os escritos de Mead são reconhecidos por sua extrema precisão, mesmo 100 anos depois, foi sua fórmula única de tomar notas. Ao observar algo, Mead nunca demorava nem uma hora, tirando um mini-bloco de notas para escrever.

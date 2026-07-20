@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, einfache Fingerübungen nach dem Aufstehen aktivieren den motorischen Kortex und fokussieren die Aufmerksamkeit."
   - question: "Wie kann ich das Klavier ersetzen, wenn ich keins habe?"
     answer: "Tippen Sie Ihre Finger nacheinander auf dem Schreibtisch im Takt eines Metronoms. Das aktiviert ebenfalls den motorischen Kortex."
+
 ---
 
 Der ungarische Komponist Franz Liszt, Kaiser des Klaviers in der Romantik des 19. Jahrhunderts und größter virtuoser Pianist seiner Zeit, erweiterte die Ausdrucksgrenzen der Klaviermusik durch überwältigende Raffinesse und Übungsmethoden auf das Maximum. Anstatt das schnelle und rücksichtslose Spielen auf der Tastatur zu üben, übte er jeden Tag, indem er das Tempo des Metronoms auf ein extremes Zeitlupenniveau verlangsamte und nur eine Taste pro Sekunde fehlerfrei spielte. Er programmierte die perfekten Muskelbewegungsbahnen der Tastatur in sein Gehirn und nutzte sie dann, um magische, spektakuläre Bewegungen zu erzeugen.

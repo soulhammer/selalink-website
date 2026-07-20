@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Mengapa Angelou menulis dengan mengisolasi diri di kamar hotel?"
     answer: "Untuk memblokir otaknya dari rangsangan sensorik rumah tangga (lukisan, pekerjaan rumah), memaksa fokus ekstrem."
+
 ---
 
 Maya Angelou, penyair legendaris Amerika, penulis memoar, dan aktivis hak-hak sipil yang menulis otobiografi terobosan 'I Know Why the Caged Bird Sings.' Untuk fokus secara mendalam, dia check-in ke kamar hotel setempat setiap pagi pukul 06.30. Dia meminta staf hotel untuk menghapus semua lukisan, foto, dan dekorasi dari dinding, hanya menyisakan sebuah Alkitab, kamus, dek kartu, dan sebotol sherry. Hari ini, BuildSelf membagikan bagaimana menciptakan lingkungan kosong dapat meningkatkan hasil kognitif Anda.

@@ -21,6 +21,7 @@ faqs:
     answer: "Escribir a mano en papel estimula con mayor fuerza las redes cognitivas debido al tacto. No obstante, si logras abrir la app de notas en menos de 3 segundos sin distraerte con notificaciones, la opción digital es una gran alternativa para no perder la idea."
   - question: "¿Hacer las tareas domésticas con extrema concentración es mejor para la creatividad?"
     answer: "No. El efecto de incubación se maximiza cuando el cerebro descansa del esfuerzo consciente (activación de la RND). Por lo tanto, realizar tareas domésticas familiares que no requieran concentración detallada en un estado semiinconsciente es lo ideal para la creatividad."
+
 ---
 
 Emily Dickinson, una de las escritoras más originales de la literatura estadounidense del siglo XIX. Vivió recluida, saliendo rara vez de su casa, y escribió más de 1.800 maravillosos poemas. El lugar donde constantemente extraía y registraba su inspiración artística era la cocina por la noche.

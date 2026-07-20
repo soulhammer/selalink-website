@@ -21,6 +21,7 @@ faqs:
     answer: "No. Writing directly on paper with a pen stimulates the somatosensory cortex strongly, yielding much higher encoding efficiency. Keyboard typing is fast but lacks cognitive tactile stimuli as every keypress feels identical. For important long-term memory formation, handwritten transcription is far more powerful."
   - question: "Does explaining to someone trigger the metacognitive effect even if it's not in a letter format?"
     answer: "Yes. According to the Learning Pyramid theory, teaching others is the most powerful method, boosting retention up to 90%. Beyond letters or emails, explaining to yourself in a mirror or discussing it with a colleague or friend are all highly effective for stimulating metacognition."
+
 ---
 
 Dasan Jeong Yak-yong, the great scholar who synthesized Joseon's late Silhak (practical learning) ideology and left behind a massive collection of over 500 volumes of writings, including Mokmin-simseo and Gyeongse-yupyo. Due to political framing, he endured a long exile in a miserable thatched house in Gangjin for 18 years. How did he overcome frustration and build a monumental academic legacy in a place of isolation akin to prison?

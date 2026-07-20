@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Barack Obama wear only grey and blue suits?"
     answer: "To preserve prefrontal brain energy needed for the countless critical national decisions he faced daily, he completely eliminated minor choices like what to wear or eat to prevent decision fatigue."
+
 ---
 
 As the 44th President of the United States, Barack Obama had to make heavy, world-altering decisions every day. During his presidency, to focus his prefrontal judgment energy entirely on critical national affairs amid countless daily choices, he utilized a very clever personal secret. 👔

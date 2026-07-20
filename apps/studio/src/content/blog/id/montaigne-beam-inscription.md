@@ -16,6 +16,7 @@ steps:
     text: "Tulis kutipan di kartu pos atau kertas tempel dan letakkan di area yang tinggi seperti bingkai atas monitor komputer atau langit-langit kamar agar Anda harus mendongak untuk melihatnya."
   - name: "Langkah 3: Dongakkan Kepala dan Renungkan 15 Detik"
     text: "Saat fokus Anda buntu atau menghadapi bias, condongkan tubuh ke belakang, dongakkan kepala, baca kutipan tersebut, dan renungkan selama 15 detik untuk memutus kepenatan kognitif."
+
 ---
 
 "Siapa yang tidak melihat ke depan akan tertinggal." Michel de Montaigne pensiun pada usia 38 tahun ke perpustakaan menara bulatnya. Di balok kayu langit-langitnya, ia memahat 57 kalimat bijak Yunani dan Latin. Sambil bersandar di kursi malas, ia menatap tulisan tersebut untuk memecah kebuntuan berpikir.

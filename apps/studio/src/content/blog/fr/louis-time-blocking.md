@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, tout à fait. Assegnez des blocs pour 'gérer les urgences et e-mails' 2 ou 3 fois par jour. Pendant les blocs de concentration (1 ou 2 heures), travaillez sans distractions et gérez les urgences dans le bloc prévu."
   - question: "Je me sens coupable si je ne respecte pas le planning."
     answer: "Le blocage du temps est un guide, pas une contrainte. L'important n'est pas de tout finir à 100 %, mais de s'être concentré sur une tâche pendant le bloc. Si vous déviez, faites preuve de flexibilité."
+
 ---
 
 Louis XIV, qui marqua l'âge d'or de la monarchie absolue française et se plaça au sommet du pouvoir en construisant le château de Versailles. Pendant son long règne de 72 ans, gérant les conflits constants et les luttes de pouvoir, quel était le secret pour établir son autorité ? Sous le credo "En fixant des heures et des règles de travail, on peut maîtriser sa vie", Louis XIV divisa ses 24 heures à la minute près. Aujourd'hui, BuildSelf présente les bénéfices de la routine de 'time-blocking' de Louis XIV.

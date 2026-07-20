@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Waktu emas fisiologis untuk memperoleh sinergi korektif otonom adalah 'tepat setelah denyut jantung memuncak.' Jika denyut jantung Anda kembali normal saat mandi, efek eliminasi kortisol dan pemulihan homeostasis melalui pergeseran otonom yang cepat akan berkurang secara signifikan. Anda harus segera duduk setelah berkeringat."
   - question: "Apakah gagal jika pikiran-pikiran yang mengganggu terus bermunculan selama meditasi?"
     answer: "Tidak. Pikiran yang mengganggu adalah fenomena otak yang alami. Inti dari meditasi bukanlah menghilangkan pikiran sepenuhnya melainkan 'menyadari bahwa pikiran Anda telah mengembara dan dengan lembut mengembalikan perhatian ke napas Anda.' Setiap kali Anda menyadari gangguan dan kembali, otot perhatian lobus frontal diperkuat."
+
 ---
 
 Lee Kuan Yew, Perdana Menteri pendiri yang mengubah Singapura, sebuah negara kota Asia yang kecil dan miskin sumber daya, menjadi pusat keuangan global kelas dunia dan kekuatan ekonomi. Ia menghadapi tekanan psikologis yang sangat besar dalam merumuskan strategi bertahan hidup di antara kekuatan-kekuatan besar dan kelumpuhan keputusan dalam menentukan nasib bangsa di setiap kesempatan. Bagaimana ia menjaga ketajaman otak dan wawasannya yang teguh hingga usia 90-an?

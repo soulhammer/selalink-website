@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Comment puis-je m'empêcher d'être trop indulgent ou de tricher sur mes notes ?"
     answer: "C'est pourquoi vous devez établir des grilles d'évaluation numériques et concrètes. Ne basez pas vos notes sur des sentiments tels que « Je me suis senti productif aujourd'hui ». Basez-les sur des faits mesurables tels que « Mon minuteur actif a-t-il enregistré 3 heures de travail en profondeur ? » Associer des critères clairs à des données analytiques bloque les boucles de rationalisation du cerveau, le confrontant à la réalité objective."
+
 ---
 
 Joseph Schumpeter, l'économiste autrichien qui a défini l'innovation et la « destruction créatrice ». Pour maintenir son intense production de recherche et d'écriture, il s'imposait une habitude d'autoréflexion froide et systématique. Chaque soir, il ouvrait son journal pour consigner les heures consacrées à la recherche, à la lecture et à l'écriture, et évaluait ses performances de A à F. Nous étudions les effets neuroscientifiques de cette routine d'évaluation quotidienne sur les fonctions exécutives et l'autorégulation.

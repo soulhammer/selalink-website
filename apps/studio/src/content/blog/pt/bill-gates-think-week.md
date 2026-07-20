@@ -21,6 +21,7 @@ faqs:
     answer: "Não. O importante não é o local físico, mas o isolamento das distrações. Estudar em uma biblioteca ou guardar o celular por um dia inteiro, focando apenas em livros e cadernos físicos, já trará excelentes resultados."
   - question: "Posso usar a tela do computador para ler os materiais?"
     answer: "A tela do computador facilita a distração com abas abertas e notificações. Para manter o foco, o ideal é ler materiais impressos. Se precisar usar telas, utilize leitores de e-book sem conexão com a internet."
+
 ---
 
 Bill Gates, fundador da Microsoft e pioneiro da inovação tecnológica. O segredo para suas decisões mais importantes foi sua rotina de retiro em uma cabana isolada. 🌲

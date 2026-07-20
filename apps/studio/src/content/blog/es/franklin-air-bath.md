@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "¿Realmente ayuda el baño de aire (Air Bath) a prevenir resfriados?"
     answer: "Sí, exponer la piel al aire fresco mejora la resistance del cuerpo a los cambios de temperatura y estimula la inmunidad."
+
 ---
 
 La figura grabada en el billete de 100 dólares de los EE. UU., el genio científico que inventó el pararrayos, y Benjamin Franklin, famoso por su estricto autocontrol. ¿Conoce el método de salud tan singular y extraño que practicaba cada mañana al levantarse de la cama? 💨

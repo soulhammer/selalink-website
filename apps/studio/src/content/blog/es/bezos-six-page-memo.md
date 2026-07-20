@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué tomarse el tiempo para leer juntos durante una reunión?"
     answer: "Si se les pide que lean con anticipación, las personas a menudo lo pasan por alto. Obligar a leer en la sala asegura que todos comiencen con la misma profundidad de estado cognitivo."
+
 ---
 
 Jeff Bezos, fundador de Amazon. Prohibió las diapositivas de PPT con viñetas y dictaminó que se utilizara un informe de 6 páginas en forma de texto narrativo. Justo después de comenzar una reunión, no se habla y los asistentes leen el memorando en silencio. ¿Por qué mantuvieron esta regla de silencio?

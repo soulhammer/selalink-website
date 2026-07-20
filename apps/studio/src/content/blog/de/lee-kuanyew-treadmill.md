@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Der biologische Effekt ist direkt nach der Belastung am stärksten. Wenn Sie erst duschen, beruhigt sich der Puls, wodurch der regenerative Effekt des abrupten Wechsels auf den Parasympathikus verloren geht."
   - question: "Ist die Meditation gescheitert, wenn mir ständig Gedanken durch den Kopf gehen?"
     answer: "Nein, das ist völlig normal. Es geht nicht darum, keine Gedanken zu haben, sondern das Abschweifen zu bemerken und den Fokus sanft wieder auf den Atem zu richten. Das trainiert die Konzentrationsfähigkeit."
+
 ---
 
 Staatsgründer Lee Kuan Yew führte den kleinen asiatischen Stadtstaat Singapur an die Weltspitze. Der ständige Druck zwischen den Großmächten und die Verantwortung für sein Land führten bei ihm oft zu geistiger Erschöpfung. Doch er hatte ein wirksames Mittel dagegen.

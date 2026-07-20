@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Do I have to wake up at 4 AM? I'm a night person."
     answer: "No. The core is not the absolute time of 4 AM, but consistently applying the organic 3-step mechanism of blocking cognitive load, morning communication, and daylight walking to your schedule."
+
 ---
 
 Chairman Chung Ju-yung, the founder of Hyundai Group and symbol of South Korea's high economic growth. He had a unique morning routine he kept for life: waking up before 4 AM daily, having breakfast with all family members at 5 AM, and walking to the office in Gaedong. Explore the cognitive rewards offered by the quiet and vitality of dawn.

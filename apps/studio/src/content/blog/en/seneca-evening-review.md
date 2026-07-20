@@ -16,6 +16,7 @@ steps:
     text: "Close your eyes and mentally walk through your day from the moment you woke up. Examine your actions, choices, and interactions without judging or defending yourself, just observing."
   - name: "Reconvene & Re-engineer"
     text: "Identify one key lesson or mistake you made. Plan one concrete adjustment you will make tomorrow to handle it better. Once the plan is set, mentally close the day and release all worries."
+
 ---
 
 "When the light has been removed and my wife has fallen silent, I examine my entire day." Seneca, the Roman Stoic philosopher, believed in holding a trial for himself every night. By analyzing his actions objectively in the dark, he stripped daily events of their emotional charge, allowing him to sleep with a clear, peaceful conscience.

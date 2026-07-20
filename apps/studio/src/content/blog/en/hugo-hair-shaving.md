@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, in 1830, facing an urgent publisher deadline for 'The Hunchback of Notre-Dame,' Hugo shaved half his head and beard, locked away his formal clothes, and focused entirely on writing to prevent himself from leaving."
   - question: "What are some modern commitment devices I can use without shaving my head?"
     answer: "You can use a time-locking safe container to lock away your phone for specific hours, or set up a dedicated workspace computer account that blocks web browsing entirely."
+
 ---
 
 Victor Hugo, the monumental French writer who authored 'Les Misérables' and 'The Hunchback of Notre-Dame.' Facing an incredibly tight deadline for Notre-Dame, he resorted to an extreme measure: he shaved half of his hair and beard and locked himself in his study. Unable to go outside due to his appearance, he finished the masterpiece on time. Today, BuildSelf discusses how physical commitment devices can enforce deep creative focus.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Isaac Asimov alternava entre várias máquinas de escrever?"
     answer: "Para evitar a fadiga cognitiva e o stress ao bloquear com um tema, alternando tarefas de géneros e características totalmente diferentes para ativar o efeito de novidade, despertando diferentes regiões do córtex cerebral."
+
 ---
 
 Autor de mais de 500 livros em diversos géneros, Isaac Asimov foi celebrado como um mestre da ficção científica e o mais proeminente escritor de ciência popular do seu tempo. Por trás da capacidade deste prolífico mestre de produzir manuscritos diariamente estava o seu hábito de trabalho único. ⌨️

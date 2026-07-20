@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Realmente Haydn vestía formal cuando estaba solo?"
     answer: "Sí, creía que la ropa informal traía ideas musicales informales. Vestir formal era una disciplina para respetar su arte y enfocar su mente."
+
 ---
 
 Joseph Haydn, el 'Padre de la Sinfonía' que sentó las bases del estilo clásico. Compuso más de 100 sinfonías en su vida. Curiosamente, tenía un hábito único: siempre vestía de gala, con peluca y su anillo preferido antes de escribir música. Aunque trabajaba solo en su estudio, creía que el orden mental nacía del orden exterior. Conozcamos la ciencia de la 'cognición revestida'.

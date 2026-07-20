@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "En quoi le fait de broyer soi-même son remède aide-t-il à stabiliser les émotions ?"
     answer: "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future."
+
 ---
 
 Tokugawa Ieyasu préparait ses propres remèdes en broyant des herbes. Ce travail manuel lui apportait une stimulation tactile qui calmait son système nerveux lors des tensions politiques.

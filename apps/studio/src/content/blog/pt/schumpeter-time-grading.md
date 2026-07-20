@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Como evito ser muito tolerante ou trapacear nas minhas notas?"
     answer: "É por isso que você deve estabelecer rubricas numéricas concretas. Não baseie as notas em sentimentos como 'Eu me senti produtivo hoje'. Baseie-as em fatos mensuráveis como 'Meu cronômetro ativo capturou 3 horas de trabalho profundo?'. Combinar rubricas claras com dados analíticos bloqueia as armadilhas de racionalización do cérebro, fazendo-o encarar a realidade objetiva."
+
 ---
 
 Joseph Schumpeter, o economista austríaco que definiu a inovação e a 'destruição criativa'. Para manter sua intensa produção de pesquisa e escrita, ele praticou um hábito de autorreflexão frio y sistemático. Todas as noites, ele abria seu diário para registrar as horas dedicadas à pesquisa, leitura e escrita, e avaliava seu desempenho de A a F. Investigamos os efeitos neurocientíficos dessa rotina diária de pontuação nas funções executivas e na autorregulação.

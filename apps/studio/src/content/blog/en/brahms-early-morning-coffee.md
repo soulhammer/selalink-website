@@ -21,6 +21,7 @@ faqs:
     answer: "Brahms had a perfectionist personality and believed that the strength and taste of coffee were directly linked to his morning alertness, so he had an obsessive ritual of grinding and making it himself rather than drinking coffee made by others."
   - question: "How exactly does walking contribute to brain stimulation?"
     answer: "Walking physically increases brain blood flow through foot impact and promotes the secretion of BDNF, a nerve growth factor, actively forming synapses between nerve cells to maximize creative solutions and working memory capacity."
+
 ---
 
 Johannes Brahms, a composer who is called one of the three great 'Bs' of German classical music along with Johann Sebastian Bach and Ludwig van Beethoven. His heavy yet lyrical masterpieces were designed in a perfect awakening ritual meticulously structured every morning. ☕

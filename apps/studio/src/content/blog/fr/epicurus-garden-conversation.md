@@ -21,6 +21,7 @@ faqs:
     answer: "Les débats augmentent l'adrénaline et le cortisol. Établissez une règle de base préalable : 'Concentrons-nous aujourd'hui sur le développement personnel, les sentiments ou les livres plutôt que sur les actualités'."
   - question: "Que faire si planifier des réunions hebdomadaires avec des amis est trop difficile ?"
     answer: "Vous n'avez pas besoin de vous réunir chaque semaine. Un dîner en face à face par mois ou un appel vocal calme de 30 minutes toutes les deux semaines pour partager des nouvelles suffit à stimuler l'ocytocine."
+
 ---
 
 Épicure, souvent mal compris comme hédoniste, recherchait la tranquillité intérieure ou 'ataraxie' à travers une vie disciplinée. Échappant au chaos politique d'Athènes, il a construit 'Le Jardin' en périphérie. Ici, ignorant le statut social et le genre, il partageait des repas frugaux de pain, d'eau et de fromage avec des amis, s'engageant dans des dialogues intellectuels. Il soutenait que l'avidité matérielle provoque la soif, tandis que la confiance profonde et l'amitié guérissent l'âme.

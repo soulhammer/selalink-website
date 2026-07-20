@@ -21,6 +21,7 @@ faqs:
     answer: "Ein Ortswechsel wird empfohlen. Ist dies nicht möglich, ändern Sie die Sitzordnung oder nutzen Sie andere Stifte, um dem Gehirn einen klaren Wechsel zu signalisieren."
   - question: "Was soll ich tun, wenn die Kritik die Idee komplett zerstört?"
     answer: "Kritik soll den Plan verbessern, nicht zerstören. Fragen Sie nicht, warum die Idee scheitert, sondern was geändert werden muss, damit sie funktioniert."
+
 ---
 
 Walt Disney baute ein Imperium auf, indem er Träume verschenkte. Seine Kreativität war ein Produkt eines klaren Systems. Er verfeinerte scheinbar absurde Ideen in eine perfekte Realität.

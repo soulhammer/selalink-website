@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Quel contenu est le plus efficace dans un serment d'auto-avertissement ?"
     answer: "Formuler vos faiblesses les plus difficiles à gérer (ex. s'éloigner du smartphone, être ponctuel) sous forme de phrases affirmatives basées sur des actions concrètes est le plus efficace pour stimuler le cerveau."
+
 ---
 
 Yi I a écrit 11 règles d'avertissement personnel et les lisait chaque matin pour réguler son comportement. Cette routine a renforcé son autocontrôle.

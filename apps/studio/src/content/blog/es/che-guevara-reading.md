@@ -21,6 +21,7 @@ faqs:
     answer: "Los textos con estructuras planas no estimulan la red de control ejecutivo. Aunque sean novelas o ensayos, deben tener una filosofía profunda que exija interpretación cognitiva (ej. deducir intenciones) para lograr la reestructuración. Lo clave es que el contexto obligue a pensar."
   - question: "¿Es efectivo usar tabletas o lectores de e-book en lugar de libros físicos?"
     answer: "Sí. Al usar tableta, active el modo 'no molestar' para bloquear avisos de internet y redes. No obstante, el olor y el tacto de pasar páginas físicas facilitan la concentración, por lo que sugerimos libros impresos o lectores e-ink."
+
 ---
 
 Che Guevara, el héroe de la Revolución Cubana. A pesar de sufrir asma y el estrés extremo de la guerra de guerrillas, ¿cómo mantuvo su audaz combatividad y profundidad ideológica? Siempre llevaba libros pesados en su mochila. Se sumergía en la lectura dentro de las trincheras o en las ramas de los árboles cuando cesaba el combate. Para él, la lectura era una lucha consciente para fortalecer sus convicciones. Hoy, BuildSelf presenta los beneficios neurológicos y la aplicación de la rutina de 'lectura en la selva' de Che Guevara.

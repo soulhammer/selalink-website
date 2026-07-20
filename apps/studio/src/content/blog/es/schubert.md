@@ -21,6 +21,7 @@ faqs:
     answer: "Está bien. En solo dos minutos de sostener un bolígrafo y expresar sus pensamientos, la misión de capturar ondas theta ya se ha completado con éxito. Inmediatamente después de la grabación, si bebe un poco de agua o se estira para enviar una señal de despertar físico a su cerebro, el sueño desaparecerá rápidamente."
   - question: "¿Qué debo hacer cuando no se me ocurre nada que escribir justo después de despertarme?"
     answer: "Si no se le ocurre nada, basta con romper la fricción de conexión entre el bolígrafo y las células motoras del cerebro escribiendo a mano un adjetivo que describa un estado simple, como \"no recuerdo\" o \"tengo sueño\", tres veces seguidas en una hoja de papel en blanco."
+
 ---
 
 Franz Schubert, un genio compositor austriaco que representó la música romántica del siglo XIX y llamado el Rey de los Lieder (Liederfürst), compuso más de 600 grandes canciones y sinfonías líricas hasta su joven muerte a la temprana edad de 31 años. Tan pronto como abría los ojos todas las mañanas, sin quitarse las gafas, iba directamente al escritorio de composición justo al lado de su cama y comenzaba a escribir notas en papel musical. Para no perder de vista la inconsciencia musical que surgía incluso en su estado medio dormido, se fue a la cama sin gafas. Esta rutina de escritura inmediata, que eliminaba toda la fricción entre despertarse por la mañana y empezar a trabajar, fue lo que lo convirtió en un compositor inmortal.

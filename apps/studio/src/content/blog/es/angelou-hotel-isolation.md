@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "¿Por qué Angelou escribía aislada en una habitación de hotel?"
     answer: "Para bloquear por completo su mente de estímulos sensoriales domésticos, forzando un estado extremo de enfoque."
+
 ---
 
 Maya Angelou, la legendaria poeta, memorialista y activista por los derechos civiles estadounidense que escribió la innovadora autobiografía 'Sé por qué canta el pájaro enjaulado'. Para concentrarse profundamente, se registraba en una habitación de hotel local todas las mañanas a las 6:30 a. m. Solicitaba al personal del hotel que retirara todas las pinturas, fotos y decoraciones de las paredes, dejando solo una Biblia, un diccionario, una baraja de cartas y una botella de jerez. Hoy, BuildSelf comparte cómo crear un entorno vacío puede mejorar drásticamente tu rendimiento.

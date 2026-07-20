@@ -21,6 +21,7 @@ faqs:
     answer: "Oui. En débloquant l'inclinaison de votre chaise et en vous balançant doucement, vous pouvez éviter la charge statique et stimuler le système vestibulaire."
   - question: "Quelle est la meilleure vitesse de balancement ?"
     answer: "Le meilleur rythme est de 0,5 Hz à 1 Hz, soit un cycle complet toutes les 1,5 à 2 secondes. Cette vitesse lente est idéale pour apaiser le cerveau."
+
 ---
 
 Le président John F. Kennedy a dirigé l'Amérique lors des moments les plus tendus. Bien qu'il paraisse dynamique, il souffrait d'un mal de dos chronique dû à une blessure de guerre. 🪑

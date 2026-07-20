@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, estrechar el enfoque cognitivo e ingresar a la concentración compleja mediante un ritmo enérgico mezclado con ruido."
   - question: "¿Cómo puedo sustituir este hábito si no tengo fonógrafos generadores de ruido?"
     answer: "Puedes sustituirlo reproduciendo ruido blanco de ritmo rápido, sonidos ambientales mecánicos o música alegre con auriculares."
+
 ---
 
 John von Neumann, la persona más inteligente de la historia de la humanidad y un genio matemático de Hungría que diseñó por sí solo las bases de los estudios humanos modernos (teoría de juegos, arquitectura de Neumann) en todos los campos, incluidas las matemáticas, la informática, la economía y la mecánica cuántica. Pudo deducir fórmulas matemáticas complejas y fórmulas de arquitectura informática sin dificultad, incluso mientras estaba sentado en un rincón de una fiesta con música a todo volumen o en un banco en una ruidosa sala de espera donde un tren temblaba y el vapor emitía vapor. Por muy ruidoso que fuera su entorno, aislaba sus recursos cognitivos únicamente en la pizarra virtual construida en su cabeza. Esta rutina de aislamiento e inmersión en ruido blanco fue lo que lo convirtió en el mayor genio matemático de la historia.

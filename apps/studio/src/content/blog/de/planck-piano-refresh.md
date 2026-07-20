@@ -21,6 +21,7 @@ faqs:
     answer: "Drücken Sie die Tasten frei nach Gefühl, ohne sich um die Melodie zu sorgen. Die Konzentration auf den Tastenanschlag entspannt und setzt das Aufmerksamkeitsnetzwerk zurück."
   - question: "Kann ich einen kognitiven Reset mit anderen Instrumenten als dem Klavier erzielen?"
     answer: "Ja. Jedes Saiten- oder Tasteninstrument, das feine Koordination erfordert und Resonanzkontrolle ermöglicht, erzielt ähnliche Effekte."
+
 ---
 
 Max Planck legte das Fundament der Quantenphysik. Um die geistige Erschöpfung durch komplexe Berechnungen abzubauen, nutzte er das freie Klavierspiel. Er musizierte auch oft im Duo mit Albert Einstein. Kognitionspsychologisch entlastet der Wechsel von mathematischer Logik zu kreativer Improvisation das Gehirn und fördert die Regeneration.

@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, physical labor like touching soil and weeding relaxes the prefrontal cortex exhausted from intense literary focus."
   - question: "How can I substitute if I don't have a garden or soil?"
     answer: "Caring for small indoor plants on a balcony, repotting, or trimming dry leaves is an excellent substitute."
+
 ---
 
 Hermann Hesse, a novelist and poet who explored inner human self-realization and the wandering of the soul through analog meditation as a Swiss gardener, and winner of the Nobel Prize in Literature for masterpieces such as “Demian” and “Under the Wheel.” He stayed in his country garden and performed the analog gardener's work of tilling the soil, pulling weeds, and chopping or sawing off dead branches every day. While he was moving his body diligently, he focused all his attention on the sounds of birds in the forest, the sound of the wind, and the smell of moisture in the soil. This analog natural meditation routine was a source of stability and healing for his soul, which was suffering from a severe nervous breakdown.

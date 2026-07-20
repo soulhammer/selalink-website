@@ -16,6 +16,7 @@ steps:
     text: "Allocate 15-20 minutes to the first project. Focus 100% of your cognitive energy on this single task. Refrain from checking any other inputs during this block."
   - name: "Perform a Clean Context Shift"
     text: "When the block ends, close the first file and open the second. Take 3 deep breaths to flush the immediate working memory, then dive with 100% focus into the second task without looking back."
+
 ---
 
 "Reason is the handmaid of faith, and intellect is its sword." Thomas Aquinas, the towering figure of medieval scholasticism, possessed a mind that worked faster than he could write. To capture his thoughts, he dictated his massive Summa Theologiae to multiple scribes at once. He walked around his room, directing one scribe on a point of theology, then immediately turning to another on a point of physics, without losing his train of thought.

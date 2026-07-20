@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que acontece se eu acidentalmente pular um passo da rotina?"
     answer: "O cérebro pode reagir de forma exagerada à interrupção inesperada, aumentando temporariamente a ansiedade. Tente recomeçar ou passe de forma flexível para o próximo passo."
+
 ---
 
 Michael Phelps, uma lenda da natação com 28 medalhas olímpicas. Mesmo diante dos blocos de partida tensos, ele manteve uma mente notavelmente calma. Por trás de seu controle mental estava uma rotina de alta precisão executada sem erros exatamente 2 horas antes da corrida.

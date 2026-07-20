@@ -21,6 +21,7 @@ faqs:
     answer: "Excessive contrast in complete darkness causes eye strain. Therefore, dim the monitor's brightness to match the environment, or install a soft backlight (indirect LED) behind the monitor to prevent visual strain while maintaining high immersion."
   - question: "What if I don't have a laundry room or an isolated room at home?"
     answer: "It doesn't have to be a special isolated room. Simply closing the door of a regular room, sitting with your back to the wall to keep your visual field quiet, or setting up a physical partition to block anything other than the monitor from entering your 1.5m field of view is sufficient."
+
 ---
 
 Linus Torvalds, the computer engineering icon who created the Linux kernel running inside billions of devices and designed Git. What drove his explosive concentration, allowing him to sculpt complex open-source operating systems line by line? 💻

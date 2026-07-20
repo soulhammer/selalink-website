@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does wearing shoes (like house shoes or loafers) inside help focus during remote work?"
     answer: "Yes, it provides a powerful sensory cue. The firmness of shoes on the soles signals the somatosensory cortex that the body is active and standing. This suppresses the urge to slouch on a sofa. Setting aside light canvas shoes or indoor leather slippers exclusively for work is an efficient way to switch remote workers into high gear."
+
 ---
 
 René Magritte, the Belgian surrealist master who challenged perception with 'This is not a pipe.' Contrary to his eccentric art, his daily lifestyle was exceptionally orderly. Unlike painters who worked in chaotic studios, Magritte put on a neat suit and bowler hat every morning, standing before an easel in his tidy living room. He painted with control, never dropping a spot of paint on his clothes or rug. We analyze the cognitive mechanism of how attire primes the brain for peak focus.

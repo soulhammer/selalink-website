@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Buku seperti apa yang efektif dibaca dengan keras?"
     answer: "Daripada novel atau esai, membaca teks humaniora dengan kalimat yang padat & logis, buku pelajaran, atau kutipan laporan adalah yang paling efektif untuk meningkatkan plastisitas prefrontal."
+
 ---
 
 Abraham Lincoln, Presiden ke-16 Amerika Serikat yang mempersatukan negara di ambang perpecahan & menghapuskan perbudakan. Di balik kosa kata Lincoln yang luar biasa, ada ritual membaca unik yang dilakukannya di kantor setiap pagi: membaca buku dengan keras hingga suaranya memenuhi ruangan. Rekannya William Herndon bersaksi bahwa suaranya menggema ke lorong. Lincoln berkata, 'Saya melihat kata-kata dengan mata untuk mencapnya di otak, dan mendengar suara saya dengan telinga untuk mencapnya lagi. Menggunakan kedua indra melipatgandakan ingatan.' Hari ini, BuildSelf membagikan kebenaran ilmiah di balik kebiasaan ini.

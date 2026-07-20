@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, simply watching and listening only stimulates passive cognitive regions. Brain plasticity increases and synaptic networks activate only when you stimulate vocal cords and oral muscles through loud reading and actively construct sentences yourself like Cleopatra."
   - question: "Does studying two languages simultaneously cause cognitive overload?"
     answer: "In the beginner stage, adapting to one language first is desirable. However, if the foundation is somewhat set, alternating between the grammar structures of two languages dramatically develops the cognitive control of the prefrontal cortex."
+
 ---
 
 Cleopatra VII captivated Caesar and Antony, the great heroes of Rome. While popular media depicts her with beauty, actual history records her as an educated and political strategist. 👑

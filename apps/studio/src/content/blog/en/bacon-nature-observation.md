@@ -16,6 +16,7 @@ steps:
     text: "Walk slowly and consciously notice five shapes, four sounds, three textures, and two scents in your natural surroundings. This anchors your brain in the present moment."
   - name: "Harvest the Rested Insight"
     text: "Once back at your desk, immediately jot down the creative connections or solutions that surfaced during the walk. A rested prefrontal cortex executes tasks with superior clarity."
+
 ---
 
 "Nature, to be commanded, must be obeyed." Francis Bacon, the pioneer of modern scientific inquiry, was an avid gardener. Every morning, he walked slowly through his estate gardens, closely observing changes in weather, plants, and soil. Scribes followed him, writing down the philosophical principles he dictated. For Bacon, observing nature was both a scientific tool and a sensory detox for the mind.

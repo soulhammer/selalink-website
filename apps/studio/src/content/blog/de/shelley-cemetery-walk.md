@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum wählte Mary Shelley gezielt das Grab ihrer Mutter?"
     answer: "Ihre Mutter starb kurz nach ihrer Geburt. Das Grab war die einzige physische Verbindung zu ihr. Dort konnte sie über Geburt, Tod und Identität nachdenken – Kernthemen von Frankenstein."
+
 ---
 
 Mary Shelley war die englische Schriftstellerin, die das Science-Fiction-Genre mit *Frankenstein* begründete. Seit ihrer Kindheit besuchte sie das Grab ihrer Mutter, um zu lesen und nachzudenken. Friedhöfe und Ruinen waren für sie Orte des Friedens und des Studiums von Leben und Tod. Erfahren Sie, wie feierliche Umgebungen ehrfürchtige und kreative Netzwerke aktivieren.

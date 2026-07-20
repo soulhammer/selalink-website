@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Welches wissenschaftliche Prinzip steckt hinter der stresslindernden Wirkung von Naturbeobachtung?"
     answer: "Statt der gerichteten Aufmerksamkeit bei Bildschirmen lösen natürliche Elemente einen Zustand „sanfter Faszination“ aus, der die kognitive Energie des Stirnhirns regeneriert."
+
 ---
 
 Shin Saimdang, die herausragende Künstlerin der Joseon-Dynastie und Mutter von Yulgok Yi I, hinterließ Insekten-Blumen-Gemälde (Chochungdo), die für ihre feinen Linien gelobt werden. Ihr Geheimnis für kreative Tiefe war ihre tägliche Gewohnheit, im Garten Gras und Insekten zu beobachten. 🌿

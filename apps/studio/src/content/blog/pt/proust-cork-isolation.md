@@ -21,6 +21,7 @@ faqs:
     answer: "Dependendo do perfil da pessoa, o vazio sonoro pode gerar zumbidos ou desconforto. Se for o seu caso, reproduza em volume baixo um som branco natural como chuva. Os sons da natureza não distraem o tálamo e trazem conforto."
   - question: "Trabalhar deitado na cama é recomendável para se concentrar?"
     answer: "Proust não tinha alternativa devido à sua asma crônica. Para a maioria das pessoas, o cérebro associa a cama ao sono, induzindo sonolência. Use uma mesa com postura firme, aplicando apenas o bloqueio de luz e ruído para eficiência cognitiva."
+
 ---
 
 Marcel Proust, o romancista francês que revolucionou a ficção do século XX e demonstrou o ápice da descrição sensorial. Ele sofria de asma crônica e neurastenia grave ao longo da vida, particularmente de hipersensibilidade sensorial à luz e ao som. Por isso, reformou seu quarto para transformá-lo em uma fortaleza acústica.

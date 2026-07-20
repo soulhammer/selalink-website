@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah makan siang menu yang sama setiap hari tidak sehat? Bagaimana kita mengadaptasi kebiasaan Schulz hari ini?"
     answer: "Meskipun Schulz makan burger biasa, adaptasi modern dapat menggunakan katering sehat, salad langganan, atau rotasi 3 menu sehat. Tujuannya adalah menghilangkan proses pemilihan kognitif."
+
 ---
 
 Peanuts, strip komik yang menampilkan Snoopy dan Charlie Brown. Di balik mahakarya ini berdiri Charles M. Schulz, pria dengan rutinitas mutlak yang menggambar sendirian selama 50 tahun. Untuk menghemat energi otak, dia bekerja di meja yang sama pukul 9 pagi hingga 4 sore, dan makan menu burger yang sama. Kami melihat bagaimana ini melindungi pusat analitik otak.

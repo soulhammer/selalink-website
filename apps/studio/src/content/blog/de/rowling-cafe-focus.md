@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Musik mit Text oder laute Geräusche (über 85 dB) stören das Arbeitsgedächtnis des Stirnlappens. Für den Effekt muss das Geräusch instrumental, zufällig und unregelmäßig sein."
   - question: "Hilft es, weißes Rauschen mit Kopfhörern im Arbeitszimmer zu hören?"
     answer: "Ja. Weißes Rauschen im Arbeitszimmer hilft bei der Isolation. Die Kombination mit visuellen Veränderungen (die Weite eines Cafés) ist jedoch besser für die Kreativität."
+
 ---
 
 J.K. Rowling schrieb Harry Potter in lauten Cafés. Sie stellte fest, dass mäßiges weißes Rauschen ihr half, interne Ablenkungen auszublenden und sich zu konzentrieren.

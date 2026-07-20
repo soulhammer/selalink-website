@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, of course. The purpose of this routine is not to acquire brilliant performance techniques, but to achieve 'auditory nerve stabilization' through tuning and simple plucking. Starting with easy instruments like the ukulele, which has only 4 strings, or the kalimba, which plucks metal keys, is enough to yield the relaxation effect."
   - question: "Is it allowed to use electronic tuner apps?"
     answer: "It is fine to keep the app on to help tune, but you should listen with your ears rather than staring at the smartphone screen. Turn the screen slightly away, look only with side eyes, and try to focus auditory attention on the plucks of fingertips and resonance of the instrument body to turn off the visual cognitive mode that causes brain fatigue."
+
 ---
 
 Confucius, the founder of Confucianism and the most influential philosopher who shaped Eastern thought for over two millennia. During his arduous 14-year exile, facing threats and persecution while traveling through various states, what was the secret behind maintaining his moral dignity and spiritual peace? Confucius always carried a Guqin (string instrument) even during his travels, playing it and singing poetry every day. For him, music was not entertainment, but a noble method of self-cultivation, tuning his inner flow just as he tuned the strings of the instrument. Today, BuildSelf introduces the music-therapy principles and modern emotional tuning routine of Confucius's 'Guqin tuning'.

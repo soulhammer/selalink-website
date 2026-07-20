@@ -21,6 +21,7 @@ faqs:
     answer: "Anstatt geradeaus auf das Ziel zu starren, üben Sie sich darin, Ihren Blick auf natürliche Weise abzulenken, indem Sie eine Sonnenbrille tragen oder eine Kaffeetasse halten, und nutzen Sie den weiten Fokus Ihrer peripheren Sicht, um nur der Silhouettenspur reibungslos zu folgen."
   - question: "Verbessert körperliche Mimikry tatsächlich das emotionale Verständnis des Gehirns erheblich?"
     answer: "Ja, laut Neurowissenschaften wird das Spiegelneuronensystem synchronisiert, wenn man die physischen Muskelbewegungen des Körpers (Haltung, Rhythmus) nachahmt, und das zerebrale limbische System dekodiert emotionale Indikatoren wie Angst, Anspannung und Müdigkeit der anderen Person auf einem um 70 % höheren Niveau genau."
+
 ---
 
 Charlie Chaplin, ein unsterblicher britischer Komiker und genialer Filmregisseur, der die Stummfilmära dominierte, schuf eine zeitlose Wanderfigur mit Schnurrbart, Fedora und weiten Hosen und brachte scharfe Gesellschaftskritik und Humor ins Lachen. Er behielt seine lange Gewohnheit bei, an belebten Straßenecken in London und New York zu stehen. Er beobachtete genau die Besonderheiten der zuckenden Hüftbalance, des hinkenden Schrittrhythmus und der Kopfneigung von Fremden, die mit hochgeschlagenem Kragen vorbeigingen. Sobald der Passant wegging, imitierte er mit seinem Körper den Laufrhythmus der Figur und sammelte das innere emotionale Feedback des Körpers, was zur Vervollständigung der Figur von „The Tramp“ führte.

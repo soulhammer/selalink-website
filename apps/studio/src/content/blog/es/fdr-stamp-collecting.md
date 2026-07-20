@@ -21,6 +21,7 @@ faqs:
     answer: "No. La luz azul y los estímulos de las pantallas mantienen al cerebro despierto en lugar de dejarlo descansar, bloqueando la melatonina. Para la relajación cognitiva, se deben usar herramientas analógicas."
   - question: "¿Qué hago si 30 minutos cada noche me parece demasiado tiempo?"
     answer: "Si le falta tiempo, incluso 10 minutos bastan. Cerrar la laptop y hacer garabatos o escribir un breve diario analógico ayuda enviando una señal clara de que 'el día terminó'."
+
 ---
 
 Franklin D. Roosevelt, presidente de EE. UU. durante la Segunda Guerra Mundial, sufría polio y gran estrés. Su secreto era ordenar sellos antes de dormir, apartando todo documento oficial. Esta rutina purificaba su cerebro del ruido de la guerra.

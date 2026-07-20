@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Warum hielt Tchaikovsky strikt an einem 2-stündigen Spaziergang fest?"
     answer: "Es begann als Aberglaube, aber der 2-stündige Spaziergang steigerte die Hirndurchblutung und brachte musikalische Inspiration."
+
 ---
 
 Pjotr Iljitsch Tschaikowski, der legendäre Komponist, der die russische romantische Musik mit Meisterwerken wie „Schwanensee“, „Der Nussknacker“ und der „Sinfonie Pathétique“ auf weltweites Niveau hob. Er hielt einen strengen Zeitplan ein und teilte seine Arbeit in Vormittags- und Nachmittagssitzungen auf. Insbesondere ging er jeden Nachmittag exakt zwei Stunden spazieren. Er glaubte so fest an diese Routine, dass er befürchtete, eine Verkürzung um auch nur wenige Minuten würde ihn krank machen oder seine Inspiration versiegen lassen. Die musikalischen Themen, die ihm während dieser Spaziergänge einfielen, notierte er sofort in einem kleinen Notizbuch, das er stets in der Tasche trug. Heute zeigt BuildSelf, wie ein täglicher Spaziergang Ihre kreativen Gedanken anregen kann.

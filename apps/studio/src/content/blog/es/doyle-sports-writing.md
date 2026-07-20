@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Realmente Doyle practicaba críquet y boxeo a alto nivel?"
     answer: "Sí, Doyle jugaba al críquet con el Marylebone Cricket Club y boxeaba. Incluso fue árbitro de boxeo y usó su experiencia para describir las habilidades de Sherlock en combate."
+
 ---
 
 Sir Arthur Conan Doyle, el médico y escritor que creó al detective más famoso de la historia, Sherlock Holmes. Mientras diseñaba la mente fría de Sherlock, Doyle mantenía su cuerpo muy activo. Era un deportista excelente que practicaba boxeo, críquet y fútbol. Creía que si el cuerpo se adormecía, el cerebro se estancaba. Conozcamos la ciencia de cómo el ejercicio físico estimula el BDNF.

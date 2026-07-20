@@ -16,6 +16,7 @@ steps:
     text: "Marchez lentement et observez consciemment les formes, sons, textures et odeurs de votre environnement. Cela ancre le cerveau dans le moment présent."
   - name: "Récolter les idées au retour"
     text: "De retour à votre bureau, notez immédiatement les idées ou solutions apparues pendant la marche. Un cortex préfrontal reposé exécute les tâches avec plus de clarté."
+
 ---
 
 "Pour commander à la nature, il faut lui obéir." Francis Bacon, pionnier de la méthode scientifique, était un jardinier passionné. Chaque matin, il marchait dans ses jardins pour observer la nature. Ses scribes le suivaient pour noter ses idées. C'était pour lui un outil scientifique et une détoxification sensorielle.

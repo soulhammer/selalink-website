@@ -21,6 +21,7 @@ faqs:
     answer: "Ouvrez la fenêtre et regardez le point le plus éloigné à l'extérieur pendant plus de 30 secondes. L'important est de passer d'un focus étroit à un focus large pour relâcher les tensions."
   - question: "J'ai du mal à visualiser des images précises."
     answer: "Il n'est pas nécessaire d'imaginer une vidéo parfaite. Il suffit d'évoquer la 'sensation' de succès, les sons et les mots de réussite. Cela active les mêmes circuits. Ajoutez ces détails graduellement."
+
 ---
 
 Genghis Khan, le stratège qui unifia les tribus nomades et bâtit le plus grand empire continu. Face aux menaces et trahisons, comment gardait-il sa volonté d'acier ? Face à des choix critiques, il gravissait le 'Burkhan Khaldun', la montagne sacrée. Méditer pendant trois jours au sommet était sa routine pour trouver des solutions stratégiques. Aujourd'hui, BuildSelf présente les bénéfices neurologiques et la mise en œuvre de la 'visualisation en montagne' de Genghis Khan.

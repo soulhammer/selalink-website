@@ -16,6 +16,7 @@ steps:
     text: "Schreiben Sie das Zitat auf eine Karte und kleben Sie sie an eine hohe Stelle, z. B. auf den oberen Monitorrand. Ziel ist es, den Blick nach oben zu lenken."
   - name: "Blicken Sie auf und kalibrieren Sie neu"
     text: "Wenn Sie blockiert sind, lehnen Sie sich zurück, heben Sie den Kopf und lesen Sie das Zitat für 15 Sekunden. Lassen Sie Ihr Gehirn kurz abschalten, um die Logik neu zu kalibrieren."
+
 ---
 
 "Wer nicht vorausblickt, bleibt zurück." Michel de Montaigne zog sich mit 38 Jahren in die Bibliothek seines Turms zurück. In die Holzbalken schnitzte er 57 griechische und lateinische Maximen. Im Sessel sitzend blickte er auf diese Sätze, um seine Vorurteile abzubauen, was es ihm ermöglichte, seine Essays zu schreiben.

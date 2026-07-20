@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Isaac Asimov switch between multiple typewriters?"
     answer: "To avoid cognitive fatigue and stress when stuck on a single topic, he switched between tasks of entirely different genres and characteristics to trigger the novelty effect, waking up different regions of the cerebral cortex."
+
 ---
 
 Writing over 500 books in vast genres throughout his life, Isaac Asimov was celebrated as an SF master and the preeminent popular science writer of his time. Behind this incredibly prolific master's ability to magic up manuscripts daily lay his unique and brilliant work habit. ⌨️

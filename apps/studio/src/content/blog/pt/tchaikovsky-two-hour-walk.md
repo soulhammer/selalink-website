@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Porque é que Tchaikovsky respeitava estritamente uma caminhada de 2 horas?"
     answer: "Começou por obsessão, mas caminhar 2 horas aumentava o fluxo de sangue cerebral e relaxava os nervos, trazendo inspiração."
+
 ---
 
 Pyotr Ilyich Tchaikovsky, o lendário compositor que elevou a música romântica russa a um nível mundial com obras-primas como 'O Lago dos Cisnes', 'O Quebra-Nozes' e a 'Sinfonia Patética'. Mantinha um horário incrivelmente rigoroso, dividindo as suas sessões de composição em manhã e tarde. Em particular, saía para caminhar exatamente duas horas todas as tardes. Acreditava tão firmemente nesta rotina que temia que encurtá-la mesmo por alguns minutos causaria uma doença física ou esgotaria a sua inspiração musical. Os temas que lhe surgiam durante estas caminhadas eram registados imediatamente num pequeno caderno no bolso. Hoje, o BuildSelf partilha como uma caminhada diária pode despertar os seus pensamentos criativos.

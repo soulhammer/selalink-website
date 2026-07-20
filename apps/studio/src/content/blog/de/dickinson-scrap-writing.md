@@ -21,6 +21,7 @@ faqs:
     answer: "Handschriftliche Notizen regen das Gehirn durch die Motorik stärker an. Wenn Sie jedoch eine App nutzen, die sich in Sekundenschnelle ohne Ablenkungen öffnen lässt, ist das eine ebenso gute Methode."
   - question: "Sollte man Hausarbeit besonders konzentriert ausführen, um kreativer zu sein?"
     answer: "Nein. Kreativität entsteht, wenn das bewusste Denken Pause hat (DMN-Aktivierung). Führen Sie Routineaufgaben daher eher entspannt und im Autopiloten aus, um Gedanken schweifen zu lassen."
+
 ---
 
 Emily Dickinson, eine der geheimnisvollsten Dichterinnen der Literaturgeschichte. Sie lebte extrem zurückgezogen und verließ fast nie ihr Haus. Ihre besten Gedichte entstanden nachts in der Küche.

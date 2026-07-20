@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, Einstein navegaba regularmente por el mar para sentir el viento y meditar, o dormía más de 10 horas al día para permitir que su subconsciente organizara problemas complejos."
   - question: "¿Puede seguir esta rutina alguien que no sepa tocar ningún instrumento?"
     answer: "Por supuesto. En lugar de tocar, puede concentrarse en la música clásica, marcar el ritmo con los dedos o practicar respiraciones profundas mientras bloquea los estímulos visuales durante 5 minutos."
+
 ---
 
 Albert Einstein, el físico más grande de la historia que cambió el paradigma de la física moderna al publicar la teoría de la relatividad y revolucionó la forma en que la humanidad comprende el universo. ¿De dónde surgieron las grandes inspiraciones físicas que cambiaron la mentalidad de la humanidad? 🎻

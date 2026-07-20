@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Si coloco papel bajo la almohada, no se arrugará o se romperá el bolígrafo mientras duermo?"
     answer: "Para la práctica moderna, en lugar de papel común que se arruga fácilmente, recomendamos colocar una pequeña carpeta de tapa dura sobre la mesita de noche o fijar una tabla portapapeles de madera con clip en la repisa de la cabecera para evitar el riesgo de daños y diseñar la ruta más corta posible."
+
 ---
 
 Carlomagno, el gran monarca que sentó las bases históricas de Europa occidental y lideró el renacimiento de la cultura y la educación. En el siglo VIII, una época de analfabetismo en la que escribir era raro y la expansión del imperio era muy ajetreada, ¿cómo perseguía el Emperador el conocimiento y la escritura? 👑

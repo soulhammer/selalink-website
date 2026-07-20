@@ -21,6 +21,7 @@ faqs:
     answer: "Pratiquer à la même heure aide le cerveau à associer ce moment au travail profond. Néanmoins, l'utiliser comme réinitialisation d'urgence lors d'une surcharge cognitive reste très efficace."
   - question: "Comment faire s'il n'y a pas de silence absolu ou si je ne peux pas bloquer les bruits ?"
     answer: "Si le silence complet est impossible, utilisez une technique de masquage en diffusant du bruit blanc, du bruit rose ou un son de pluie sans paroles dans vos écouteurs."
+
 ---
 
 Alexander Graham Bell, le grand inventeur qui a révolutionné la communication humaine en créant le premier téléphone. D'où venaient ses inspirations créatives ? 🌌

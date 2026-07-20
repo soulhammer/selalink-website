@@ -21,6 +21,7 @@ faqs:
     answer: "Sofern es sich nicht um eine Krise handelt, können dringende E-Mails 1 bis 2 Stunden warten. Richten Sie sich zu Beginn 1 Stunde für sich ein."
   - question: "Was mache ich, wenn die Hauptaufgabe zu groß ist?"
     answer: "Wenn sie riesig ist, weicht das Gehirn aus. Teilen Sie die Aufgabe in Abschnitte von 1 Stunde auf und bearbeiten Sie zuerst einen Teil."
+
 ---
 
 Andrew Carnegie, der Stahlmagnat, der die industrielle Basis Amerikas aufbaute. Er hatte eine immense Arbeitsbelastung, bewältigte sie jedoch, indem er sich morgens auf eine Schlüsselaufgabe konzentrierte.

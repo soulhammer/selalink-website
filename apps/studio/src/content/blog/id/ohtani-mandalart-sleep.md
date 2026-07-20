@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bolehkah saya mengurangi jam tidur jika 10 jam tidak realistis bagi saya?"
     answer: "Standar tidur 10 jam ditujukan untuk atlet elit dengan intensitas latihan tinggi. Untuk masyarakat umum, tidur 7 hingga 8 jam berkualitas sudah sangat cukup. Kuncinya adalah memaksimalkan tidur nyenyak."
+
 ---
 
 Pemain bisbol Shohei Ohtani yang mendominasi Major League Baseball. Rahasianya menjaga performa luar biasa setiap musim didasarkan pada dua rutinitas klasik: teknik Mandalart untuk menyusun semua rencana secara terperinci, dan tidur pemulihan minimal 10 jam. Pelajari bagaimana disiplin ini menyegarkan otak dan otot.

@@ -21,6 +21,7 @@ faqs:
     answer: "C'est naturel au début en raison de la dissonance cognitive. L'important n'est pas de débattre des faits, mais d'ouvrir de nouvelles voies dans le cerveau. Avec la répétition et la plasticité cérébrale, cela deviendra une croyance."
   - question: "Cela ne fonctionne-t-il que si je le dis à voix haute ?"
     answer: "L'idéal est d'entendre votre voix. Si l'environnement ne le permet pas, chuchoter ou répéter la phrase mentalement avec concentration (discours interne silencieux) stimule également les circuits cérébraux."
+
 ---
 
 Muhammad Ali, médaillé d'or olympique et champion du monde des poids lourds, reste la plus grande icône de l'histoire du sport du XXe siècle. Avant de monter sur le ring où l'attendaient des milliers de spectateurs et des adversaires brutaux, comment gérait-il la peur et l'anxiété ? Ali criait "I am the greatest" devant son miroir chaque matin. Ce n'était pas de la vantardise, mais une routine d'affirmation positive qui gravait la victoire dans son cerveau. Aujourd'hui, BuildSelf présente les principes de la psychologie du sport et la routine moderne d'auto-affirmation de Muhammad Ali.

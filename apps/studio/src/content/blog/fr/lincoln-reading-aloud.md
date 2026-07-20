@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Quel type de livre est le plus efficace à lire à haute voix ?"
     answer: "Plutôt que des romans ou des essais, lire des textes humanistes aux phrases denses et logiques, des manuels ou des extraits de rapports est le plus efficace pour stimuler la plasticité préfrontale."
+
 ---
 
 Abraham Lincoln, le 16e président des États-Unis, qui a unifié un pays au bord de la division et aboli l'esclavage. Derrière l'incroyable vocabulaire de Lincoln se cachait un rituel de lecture unique pratiqué chaque matin dans son bureau. Il consistait à lire des livres ou des journaux à haute voix pour que sa voix résonne dans la pièce. Son associé William Herndon a témoigné que sa voix s'entendait dans le couloir. Quand on lui demandait pourquoi il lisait ainsi, Lincoln souriait et disait : 'Je vois les mots avec les yeux pour les imprimer dans mon cerveau, et j'écoute ma voix avec les oreilles. Utiliser les deux sens double la mémoire'. Aujourd'hui, BuildSelf partage le secret de ce rituel pour améliorer votre concentration.

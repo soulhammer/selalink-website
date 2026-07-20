@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How do I prevent myself from being too lenient or cheating my grades?"
     answer: "This is why you must establish concrete, numerical rubrics. Do not base grades on feelings like 'I felt productive today.' Base them on measurable facts like 'Did my active timer capture 3 hours of deep work?' Combining clear rubrics with analytical data blocks the brain's rationalization loops, facing objective reality."
+
 ---
 
 Joseph Schumpeter, the Austrian economist who defined innovation and 'creative destruction.' To maintain his intense research and writing output, he practiced a cold, systematic self-reflection habit. Every night, he opened his diary to log hours dedicated to research, reading, and writing, and graded his performance from A to F. We investigate the neuroscientific effects of this daily scoring routine on executive function and self-regulation.

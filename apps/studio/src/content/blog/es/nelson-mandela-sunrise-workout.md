@@ -21,6 +21,7 @@ faqs:
     answer: "Los días de fatiga extrema, es mejor sustituir el entrenamiento duro por 10 minutos de estiramientos. La clave de Mandela no es forzar el cuerpo sino iniciar el día con 'voluntad propia'."
   - question: "¿Cómo debe empezar un principiante con poca fuerza física?"
     answer: "Empiece con una intensidad adaptada: haga flexiones apoyándose en la pared o de rodillas, y sentadillas usando una silla. Con 5 minutos al día activa la rutina de autonomía cerebral."
+
 ---
 
 Nelson Mandela, primer presidente negro de Sudáfrica, fue encarcelado durante 27 años. Su salvavidas en la fría celda fue el ejercicio a las 5:00 AM, corriendo en el sitio y haciendo flexiones. Esta rutina al amanecer protegía su autoestima.

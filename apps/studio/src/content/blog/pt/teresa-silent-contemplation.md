@@ -21,6 +21,7 @@ faqs:
     answer: "É natural que o cérebro tente trabalhar. Não lute contra os pensamentos; reconheça-os como nuvens passageiras e retorne a atenção para a respiração pelo nariz."
   - question: "A Madre Teresa fazia por uma hora. Funciona se eu fizer apenas por 10 a 15 minutos?"
     answer: "Sim, estudos mostram que mesmo 10 minutos de silêncio absoluto reduzem a tensão e o cortisol. Mantener(Manter) uma rotina constante de 10 minutos diários é muito eficaz para a regulação emocional a longo prazo."
+
 ---
 
 Madre Teresa, que dedicou a vida a ajudar os pobres em Calcutá. Como suportava a dor das favelas para manter a sua paz emocional? 🕊️

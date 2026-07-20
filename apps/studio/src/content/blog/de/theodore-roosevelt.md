@@ -21,6 +21,7 @@ faqs:
     answer: "Das liegt daran, dass die Trainingsintensität zu hoch war und die Ermüdungserscheinungen schnell zunahmen. Sobald Sie den kritischen Punkt der Atemnot erreicht haben, sollten Sie die Atmung sofort mit einem 3-Minuten-Timer unterbrechen, damit nur noch das erfrischende, aufwachende Dopamin in Ihr Gehirn geladen wird."
   - question: "Wie sollte ein Anfänger mit ernsthaft schwacher Körperkraft beginnen?"
     answer: "Jede Art von Aerobic-/Krafttraining, wie schnelles Gehen auf der Stelle oder leichtes Laufen auf der Stelle, ist gleichermaßen effektiv, solange es ausreicht, um Sie basierend auf Ihrem aktuellen kardiorespiratorischen Zustand leicht ins Schwitzen zu bringen."
+
 ---
 
 Theodore Roosevelt, der 26. US-Präsident, der im jüngsten Alter in der US-Geschichte zum Präsidenten ernannt wurde und innovative fortschrittliche Reformen anführte und Amerikas globale Hegemonie durch den Einsatz starker diplomatischer Macht im Ausland ausbaute. Um als Kind die Einschränkungen seines asthmatischen und dünnen Körpers zu überwinden, ging er jeden Morgen ins Fitnessstudio und übte sein Leben lang hochintensives körperliches Training, indem er schwere Eisenblöcke bis an seine Grenzen hob und schwitzte. Diese Angewohnheit, sich jeden Morgen intensiv körperlich zu betätigen, verwandelte nicht nur einen schwachen Jungen in einen starken Mann, sondern war auch die treibende Kraft, die ihm die eiserne Willenskraft und geistige Wachsamkeit verlieh, um als Präsident bestehen zu können.

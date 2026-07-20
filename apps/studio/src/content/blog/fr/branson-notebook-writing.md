@@ -21,6 +21,7 @@ faqs:
     answer: "Déverrouiller un smartphone expose à des notifications (réseaux, e-mails) qui distraient et font oublier l'idée. Le carnet est instantané et stimule plus activement le SRA grâce au contact physique du stylo."
   - question: "Y a-t-il des exemples d'idées simples notées sur un carnet devenues de grands projets ?"
     answer: "Oui, la compagnie Virgin Atlantic est née d'une simple note. Suite à l'annulation d'un vol vers Porto Rico, Branson a écrit sur son carnet : 'Lancer compagnie alternative ?'. Il a loué un avion privé et vendu les places aux autres passagers bloqués. Ce mot fut le point de départ d'une compagnie mondiale."
+
 ---
 
 Richard Branson, le milliardaire qui a fondé le groupe Virgin et bâti un empire de plus de 400 entreprises. Célèbre pour son marketing créatif et son goût de l'aventure, il possède un objet fétiche : non pas une montre de luxe, mais un simple carnet en papier glissé dans sa poche.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, o trabalho físico como tocar na terra e capinar relaxa o córtex pré-frontal exausto pelo foco literário intenso."
   - question: "Como posso substituir se não tiver um jardim ou terra?"
     answer: "Cuidar de pequenas plantas de interior em uma varanda, replantar ou aparar folhas secas é um excelente substituto."
+
 ---
 
 Hermann Hesse, um romancista e poeta que explorou a auto-realização humana interior e a divagação da alma através da meditação analógica como jardineiro suíço e vencedor do Prêmio Nobel de Literatura por obras-primas como “Demian” e “Under the Wheel”. Ele permanecia em seu jardim rural e realizava o trabalho análogo do jardineiro: arar o solo, arrancar ervas daninhas e cortar ou serrar galhos mortos todos os dias. Enquanto movia seu corpo diligentemente, ele concentrou toda sua atenção nos sons dos pássaros na floresta, no som do vento e no cheiro de umidade no solo. Essa rotina analógica de meditação natural foi uma fonte de estabilidade e cura para sua alma, que sofria de um grave colapso nervoso.

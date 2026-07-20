@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Hat das Gehen auf dem Laufband denselben Effekt?"
     answer: "Der Effekt auf den Blutfluss ist ähnlich, aber die visuelle Stimulation durch die Natur und die Senkung des Stresshormons Cortisol sind beim Gehen im Freien oder in Parks deutlich höher."
+
 ---
 
 Sokrates, der Weise aus Athen, der die Grundlagen der westlichen Philosophie legte. Die Aufzeichnungen Platons beschreiben eine einzigartige Gewohnheit: das endlose Gehen auf dem Marktplatz oder im Wald, während er Fragen stellte und debattierte. Er ging barfuß unter den Bäumen der Agora spazieren. Für ihn war das Gehen ein Labor der Weisheit, das die körperliche Bewegung mit der Plastizität seines Gehirns synchronisierte. Heute zeigt BuildSelf, wie Sie durch ein 15-minütiges kognitives Gehen die Nachmittagsmüdigkeit überwinden.

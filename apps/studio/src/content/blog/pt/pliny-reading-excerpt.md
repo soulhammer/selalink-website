@@ -21,6 +21,7 @@ faqs:
     answer: "Escrever com caneta digital no tablet é semelhante à escrita física. No entanto, digitar é muito menos eficaz, pois é um processo rápido que não exige esforço cognitivo. A escrita manual força o cérebro a processar a informação."
   - question: "Como organizo as notas para que não se percam?"
     answer: "Recomendamos o método do commonplace book de Locke: crie um índice por categorias ou palavras-chave nas primeiras páginas de seu caderno. Também pode escanear as notas físicas uma vez por mês."
+
 ---
 
 "Não há livro tão mau que não tenha algo de bom." Plínio, o Velho, acreditava que o tempo não dedicado ao aprendizado era tempo perdido. Durante as refeições, banhos e viagens, um escravo lia para ele enquanto outro tomava notas. Ele nunca lia um livro sem fazer extratos, gerando um imenso banco de dados.

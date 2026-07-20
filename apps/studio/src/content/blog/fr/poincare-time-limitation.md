@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Henri Poincaré ne travaillait-il que 4 heures par jour ?"
     answer: "Forcer la concentration trop longtemps rétrécit le champ cognitif et nuit à la créativité. Ainsi, après 4 heures de mode concentré, il activait le mode diffus par la marche et le repos afin de solliciter les ressources du subconscient."
+
 ---
 
 Henri Poincaré, qui a résolu le problème des trois corps, pionnier de la théorie du chaos et considéré comme l'un des plus grands mathématiciens de l'histoire, s'imposait étonnamment de ne travailler à son bureau que 4 heures par jour. ⏰

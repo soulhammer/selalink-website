@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Puis-je utiliser des mémos vocaux ou des applications de notes sur mon téléphone pendant mes promenades ?"
     answer: "Oui, à condition de minimiser les distractions. Utilisez une application lancée depuis l'écran de verrouillage hors ligne pour éviter les notifications. L'important n'est pas le papier, mais la protection du mode diffus pendant la marche."
+
 ---
 
 Ralph Waldo Emerson, le leader intellectuel du mouvement transcendantaliste dans l'Amérique du XIXe siècle, a inspiré des générations avec ses essais. Le fondement de sa philosophie était un cycle cognitif en deux étapes. Pendant la journée, il se promenait dans les bois avec un carnet en cuir. La nuit, il s'asseyait à son bureau pour transférer ces fragments bruts dans un grand journal en cuir, les transformant en essais cohérents. Nous examinons comment l'alternance entre la pensée physique diffuse et l'intégration concentrée nocturne construit des modèles mentaux.

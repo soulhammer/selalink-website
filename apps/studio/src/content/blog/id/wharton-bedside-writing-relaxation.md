@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bukankah bekerja di tempat tidur mengubah kamar tidur menjadi ruang yang penuh stres, menyebabkan insomnia?"
     answer: "Itu adalah perbedaan yang penting. Jangan pernah melakukan tugas-tugas yang menegangkan di tempat tidur, seperti membalas keluhan, mengatur spreadsheet, atau merencanakan kalender. Batasi tugas-tugas di tempat tidur hanya pada ideasi kreatif, penulisan draf pertama, atau refleksi."
+
 ---
 
 Edith Wharton, wanita pertama yang memenangkan Penghargaan Pulitzer dalam Fiksi untuk novelnya The Age of Innocence, membedah kesombongan dan kemunafikan masyarakat kelas atas dengan prosa yang tajam. Namun, rutinitas menulis hariannya sangat nyaman. Bangun pagi-pagi, dia menolak untuk meninggalkan tempat tidurnya sampai jam 11 pagi. Ditopang oleh bantal, dengan anjing Pekinese kesayangannya berbaring di selimut, dia menulis di papan kayu yang seimbang di pangkuannya. Relaksasi fisik yang mendalam ini meminimalkan kecemasan menulis.

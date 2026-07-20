@@ -16,6 +16,7 @@ steps:
     text: "Olhe pela janela para a paisagem que passa. Deixe que seus olhos capturem o fluxo óptico sem focar em nada em particular, permitindo ao cérebro entrar em devaneio."
   - name: "Capturar a centelha de lucidez"
     text: "No momento em que surgir uma ideia ou solução em sua mente, anote imediatamente as palavras-chave em seu caderno. Não espere chegar ao destino, pois essas ideias desaparecem rapidamente."
+
 ---
 
 "A viagem é a verdadeira fonte de sabedoria, e um caderno é o seu mapa." Desidério Erasmo, o grande humanista do Renascimento, era um viajero constante. Em vez de tratar o tempo de viagem como tempo perdido, levava um pequeno caderno de couro no bolso. Enquanto viajava, escrevia observações e sátiras.

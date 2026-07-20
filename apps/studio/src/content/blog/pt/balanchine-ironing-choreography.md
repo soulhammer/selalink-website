@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Caminhar oferece um efeito de ativação da DMN semelhante ao das tarefas domésticas?"
     answer: "Sim, caminhar é um poderoso facilitador criativo. No entanto, caminhar ao ar livre requer navegar pelo terreno, evitar obstáculos e processar ambientes em mudança. As tarefas domésticas, como passar roupa, ocorrem em uma sala controlada, dependendo da memória motora totalmente automatizada. Isso minimiza a intervenção pré-frontal ainda mais do que caminhar, induzindo um estado de DMN profundamente estável."
+
 ---
 
 George Balanchine, o lendário coreógrafo que revolucionou o balé do século XX. Diante da pressão de produzir movimentos geométricos e inovadores, ele também encontrou bloqueios mentais. No entanto, Balanchine não se forçava a sentar e pensar. Em vez disso, ele se levantava, montava uma tábua de passar e passava camisas ou esfregava o chão. Analisamos como essa rotina corriqueira de tarefas domésticas reconecta os caminhos criativos do cérebro para entregar avanços artísticos.

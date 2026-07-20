@@ -21,6 +21,7 @@ faqs:
     answer: "Recomendamos usar la función de voz a texto (STT) del móvil o una aplicación de notas y expresar en voz alta los eventos de ayer o cargas de hoy durante 5 minutos."
   - question: "¿De qué debo hablar durante el dictado para aumentar la productividad?"
     answer: "Enumerar los hechos de ayer, hacer un volcado de las prioridades de trabajo de hoy o expresar tu estado emocional actual de forma cruda es suficiente."
+
 ---
 
 Andy Warhol, el rey del pop art. Rodeado de la agitación de su estudio 'The Factory', sus gastos y sus contactos, ideó un ritual diario para despejar su mente: el dictado telefónico. Cada mañana llamaba a su secretaria Pat Hackett y le narraba al detalle su jornada anterior, desde el costo de los taxis hasta los chismes del día. Analicemos cómo este proceso de descarga cognitiva (Cognitive Offloading) libera espacio en la memoria de trabajo, reduciendo el estrés y devolviendo la frescura cerebral.

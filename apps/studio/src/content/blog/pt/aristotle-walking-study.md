@@ -21,6 +21,7 @@ faqs:
     answer: "Caminhar ao ar livre é altamente recomendado. O fluxo visual de se mover por uma paisagem real acalma a amígdala, reduz a ansiedade e estimula a criatividade de forma muito mais eficaz do que olhar para uma parede fixa na esteira."
   - question: "Quanto tempo devo caminhar para obter os melhores resultados?"
     answer: "De 20 a 30 minutos é o ideal. Esse tempo proporciona os benefícios aeróbicos necessários para aumentar o fluxo sanguíneo e o BDNF, sem causar fadiga física que diminua a energia para o pensamento analítico."
+
 ---
 
 "A lógica e a verdade não se encontram na imobilidade, mas nos passos ativos." Aristóteles fundou o Liceu em Atenas e passava seus dias caminhando com seus discípulos pelos caminhos (Peripatos), discutindo filosofia e ciência. Essa abordagem deu origem ao termo 'peripatéticos' (aqueles que caminham). Caminhar era uma ferramenta para desbloquear o pensamento lógico profundo.

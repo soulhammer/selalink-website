@@ -21,6 +21,7 @@ faqs:
     answer: "Kecuali jika terjadi krisis langsung di perusahaan, sebagian besar email atau kontak yang 'tampak mendesak' dapat ditangani 1-2 jam kemudian tanpa gangguan besar pada alur kerja. Kuncinya adalah menetapkan setidaknya 1 jam 'waktu perlindungan lobus frontal' Anda sendiri di awal pagi."
   - question: "Bagaimana jika tugas tersulit terlalu besar untuk diselesaikan dalam sehari?"
     answer: "Jika tugas tersebut terlalu besar, otak akan merasa tertekan dan mencoba menghindarinya sebelum dimulai. Dalam hal ini, bagi tugas besar tersebut menjadi unit tindakan terperinci yang dapat diselesaikan dalam 1 jam pagi ini, dan selesaikan satu bagian pecahan itu sebagai tugas pertama di pagi hari."
+
 ---
 
 Andrew Carnegie, taipan baja yang membangun basis industri Amerika. Ia mengelola beban kerja yang besar dengan berfokus pada satu tugas utama di pagi hari.

@@ -21,6 +21,7 @@ faqs:
     answer: "Selon la sensibilité de chacun, le silence complet peut générer des acouphènes ou de l'inconfort. Si c'est votre cas, utilisez un bruit blanc naturel à faible volume (pluie, vent). Ces sons neutres ne captent pas l'attention du thalamus et apportent un confort apaisant."
   - question: "Travailler allongé dans son lit est-il bon pour la concentration ?"
     answer: "Proust y était contraint par sa maladie. Pour la plupart des gens, le cerveau associe le lit au sommeil, ce qui favorise la somnolence. Pour travailler, préférez un bureau avec une bonne posture, en appliquant simplement l'isolation sensorielle."
+
 ---
 
 Marcel Proust, le romancier français qui a révolutionné la fiction du XXe siècle. Il a souffert toute sa vie d'asthme et d'hypersensibilité sensorielle au moindre bruit et à la lumière. Pour y échapper, il transforma sa chambre en une véritable forteresse insonorisée.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Virginia Woolf escribía de pie?"
     answer: "Inspirada por su hermana pintora, utilizaba un escritorio de pie como un ritual físico para mantener la igualdad artística y el enfoque."
+
 ---
 
 Virginia Woolf, considerada una pionera de la literatura modernista del siglo XX, que dejó obras maestras como 'La señora Dalloway' y 'Al faro'. ¿Cómo fue capaz de plasmar mundos internos tan íntimos y psicologías tan complejas con oraciones tan persistentes y sofisticadas? Detrás de su asombrosa concentración había un hábito de trabajo muy singular. Cada mañana, Woolf se paraba frente a un escritorio de pie inclinado de más de un metro de altura para escribir. Esta rutina de escritura se inspiró en el método de trabajo de su hermana, Vanessa Bell, una destacada pintora. Fascinada por la forma en que su hermana se paraba frente al caballete, usando todo su cuerpo para pintar, Woolf pensé que ella también tenía que pararse para escribir. Hoy, BuildSelf comparte los beneficios científicos de la rutina de escritura de pie de Woolf y prácticas para aumentar la concentración.

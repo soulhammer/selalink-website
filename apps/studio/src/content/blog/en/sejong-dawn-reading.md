@@ -21,6 +21,7 @@ faqs:
     answer: "No. The core of King Sejong's routine is 'securing one's own cognitive assets right after waking without external interruption'. Waking up just 30 minutes earlier than your usual time and reading quietly under device blocking is sufficient to yield the same effect."
   - question: "Is it okay to read web novels or social media articles?"
     answer: "To warm up the morning brain, it is better to read structured paper books with deep logical development, rather than fragmented online text with strong visual stimuli. Print that forces the brain to actively think along the narrative, such as philosophy, humanities, classic essays, and history, is far more beneficial for cognitive activation."
+
 ---
 
 King Sejong the Great, the most respected monarch in Korean history who created Hangeul and advanced science and culture. What was the secret behind his extraordinary creativity and wise decisions despite severe workload and illness? He woke up before anyone else at 3 or 4 AM and read books under candlelight. In this quiet time, he focused on reading history and classics to prepare for academic debates with officials. Today, BuildSelf introduces the neurological principles and modern implementation of King Sejong's 'dawn reading' routine.

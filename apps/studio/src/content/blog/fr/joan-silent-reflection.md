@@ -21,6 +21,7 @@ faqs:
     answer: "Non. Le cœur de la routine de Jeanne d'Arc est d'apaiser le cerveau au réveil, avant d'ouvrir son téléphone. Consacrer seulement 10 minutes après le réveil à votre heure habituelle suffit."
   - question: "Je n'ai pas de religion, la prière silencieuse est-elle efficace ?"
     answer: "Tout à fait. Cette routine se concentre sur le 'blocage cognitivo-sensoriel' et la 'validation de soi', pas sur les rites. Rappeler vos valeurs ou convictions active le même effet de calme."
+
 ---
 
 Jeanne d'Arc, l'héroïne légendaire qui sauva la France pendant la guerre de Cent Ans. Où résidait la force qui permit à une paysanne analphabète de surmonter la peur et de garder une foi inébranlable ? Elle cherchait des endroits calmes pour prier chaque matin. Cette routine de bloquer le bruit pour se concentrer sur son intérieur lui a donné un équilibre mental de fer. Aujourd'hui, BuildSelf présente les bénéfices de cette routine.

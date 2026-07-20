@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika saya tidak sengaja melewatkan satu langkah rutinitas?"
     answer: "Otak dapat bereaksi berlebihan terhadap gangguan yang tidak terduga, meningkatkan kecemasan sementara. Mulailah dari awal atau lanjutkan ke langkah berikutnya."
+
 ---
 
 Michael Phelps, legenda dalam sejarah renang, memenangkan 28 medali Olimpiade. Bahkan di depan balok start yang tegang, dia mempertahankan pikiran yang luar biasa tenang. Di balik kontrol mentalnya yang sempurna adalah rutinitas presisi tinggi yang berjalan tanpa kesalahan tepat 2 jam sebelum perlombaan dimulai.

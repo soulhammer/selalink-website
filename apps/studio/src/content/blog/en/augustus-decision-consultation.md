@@ -21,6 +21,7 @@ faqs:
     answer: "This is why written feedback is key. Face-to-face meetings introduce groupthink and social pressure. Collecting written remarks lets you review raw logic and data rationally."
   - question: "What is the best size for this advisory group?"
     answer: "Keep it to a maximum of 3. Larger numbers cause analysis paralysis. Select one core expert for each relevant domain (e.g., tech, business, legal) to collect inputs."
+
 ---
 
 Augustus, the first Roman emperor who ended a century of civil war and laid the foundation for the 200-year Pax Romana. Unlike his adoptive father Julius Caesar, who died young, Augustus was physically weak and lacked exceptional military talent. Yet he ruled Rome longer than anyone, bringing prosperity. The secret was his 'pre-decision multi-perspective consultation routine.' Instead of making autocratic decisions, Augustus kept top experts like Maecenas and Agrippa close, encouraging them to raise dissenting views. We dissect Augustus's wise decision-making formula.

@@ -21,6 +21,7 @@ faqs:
     answer: "Yes. By unlocking the tilt mechanism of your office chair and gently rocking back and forth, you can prevent static load, stimulate the vestibular system, and activate the parasympathetic nervous system."
   - question: "What is the best speed for rocking?"
     answer: "The rhythm that best induces relaxation is between 0.5Hz and 1Hz. This means completing one full cycle back and forth every 1.5 to 2 seconds smoothly. This speed is ideal for calming the brain."
+
 ---
 
 President John F. Kennedy led America during the most tense moments of human history, from the Cuban Missile Crisis to the Space Race. Though he appeared vibrant and charismatic, he suffered from severe chronic back pain due to a wartime spinal injury. 🪑

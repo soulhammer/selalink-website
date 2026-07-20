@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Isto ajuda mesmo quando se escrevem histórias emocionais ou textos de marketing?"
     answer: "Para redação publicitária ou narrativa emocional, substitua os estatutos secos por textos publicitários de alta qualidade ou prosa evocativa que deseja imular. O cerne do método de Stendhal é o priming consciente; escolha um modelo de estilo que corresponda ao tom pretendido da sua próxima tarefa."
+
 ---
 
 Stendhal, famoso por O Vermelho e o Negro, é celebrado pela sua prosa objetiva e transparente que capturou as complexidades da ambição humana. Numa época saturada de Romantismo florido, Stendhal insistia na precisão matemática nas suas frases. A sua rotina matinal secreta antes de escrever era ler algumas páginas do Código Civil Napoleónico (Código Civil Francês). Analisamos como Stendhal utilizou textos jurídicos secos e lógicos para preparar o seu cérebro, eliminando o excesso retórico e aguçando o seu poder analítico objetivo.

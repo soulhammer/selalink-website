@@ -16,6 +16,7 @@ steps:
     text: "Connect the entities using arrows. The thickness of the line represents importance or volume, and the direction shows cause and effect, transforming a static layout into a dynamic system."
   - name: "Analyze & Simplify"
     text: "Examine the finalized map. Identify areas where lines overlap or loops become too complicated, and redraw the diagram with fewer elements until the logical solution becomes obvious."
+
 ---
 
 "The book of nature is written in the language of mathematics." Galileo Galilei, the father of modern observational astronomy, had a lifelong habit of sketching. While watching a bronze chandelier swing in Pisa Cathedral, he measured the pulses of time and sketched the arc. Every wave in water or rope vibration was recorded in his journals as precise diagrams. Sketching allowed him to translate abstract laws into visual reality.

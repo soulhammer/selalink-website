@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "E se não conseguir manter o foco durante 2 horas sem me distrair?"
     answer: "Se 2 horas for muito tempo, divida-o em dois blocos: 50 minutos de foco profundo seguidos de 10 minutos de alongamentos ativos. Não mexa no telemóvel durante o intervalo de 10 minutos. Beba água ou caminhe para aumentar a circulação e regresse imediatamente à segunda sessão."
+
 ---
 
 Enrico Fermi, o lendário físico que projetou o primeiro reator nuclear do mundo, foi altamente singular por dominar a física teórica e a experimental. Enquanto outros cientistas ficavam atolados em cálculos, Fermi deduzia as respostas com facilidade. O segredo da sua produtividade era a sua rotina matinal: acordar às 5h30 para calcular no seu estúdio durante 2 horas em silêncio absoluto antes de se dirigir para o laboratório às 8h30. Exploramos a neurociência de proteger a hora de ouro.

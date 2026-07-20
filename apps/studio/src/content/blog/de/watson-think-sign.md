@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was mache ich, wenn meine Gedanken abschweifen?"
     answer: "Das ist anfangs normal. Wenn Ablenkungen auftauchen, unterdrücken Sie diese nicht, sondern schauen Sie auf das 'THINK'-Schild und lenken Sie die Gedanken zurück."
+
 ---
 
 Thomas Watson, der erste Präsident von IBM. Er ordnete an, dass in jedem Winkel des Unternehmens Schilder mit dem Wort 'THINK' aufgestellt wurden. Jeden Morgen saß er 15 Minuten lang schweigend da, ohne Dokumente oder Stift. Erfahren Sie mehr über den Nutzen dieser einfachen Gewohnheit.

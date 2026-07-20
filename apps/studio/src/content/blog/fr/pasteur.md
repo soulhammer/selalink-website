@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, nettoyer les objectifs avant de commencer le travail envoie un signal d'ordre au cerveau, maximisant la concentration."
   - question: "Comment puis-je remplacer le microscope ou le chiffon si je n'en ai pas ?"
     answer: "Essuyer votre écran avec un chiffon en microfibre, ranger votre bureau ou nettoyer votre smartphone avant le travail produit le même effet."
+
 ---
 
 Louis Pasteur, pionnier absolu de la médecine et de la microbiologie modernes et chimiste de génie français pionnier des vaccins, a sauvé l'humanité de la peur des maladies infectieuses en inventant la pasteurisation et les vaccins contre le charbon et la rage. Il était assis à son bureau de laboratoire et regardait immobile pendant des heures un flacon de culture sous une loupe de microscope. Il a méticuleusement dessiné et enregistré dans son carnet les minuscules traces de secousses laissées par les micro-organismes lors de leur prolifération. Sa méthode de désinfection et sa découverte de vaccins sont nées de cette routine d’observation en regardant le flacon.

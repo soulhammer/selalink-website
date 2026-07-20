@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum suchte Pavarotti ausgerechnet einen krummen Nagel?"
     answer: "Im italienischen Theater galt ein krummer Nagel hinter der Bühne als Glücksbote. Es begann als Aberglaube, wurde aber zur unverzichtbaren psychologischen Hilfe."
+
 ---
 
 Luciano Pavarotti, einer der größten Tenöre aller Zeiten, der die Oper populär machte. Trotz Auftritten vor Massen litt er unter extremem Lampenfieber. Dagegen hatte er ein Ritual: Er suchte in den Kulissen nach einem krummen Nagel. Nach italienischem Glauben bringt dieser Glück. Erfahren Sie, wie dieses Ritual seine Amygdala beruhigte und Aufmerksamkeit fokussierte.

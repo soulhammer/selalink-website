@@ -21,6 +21,7 @@ faqs:
     answer: "Você pode ligar o gravador de voz do smartphone ou um aplicativo de notas e falar em voz alta como se estivesse explicando para alguém. O que importa não é o ouvinte, mas o processo neural de exteriorizar os pensamentos."
   - question: "Como conecto os conteúdos falados a resultados produtivos?"
     answer: "Você pode anotar ideias breves em um caderno enquanto fala, ou salvar os registros de conversão de voz para texto (STT) para organizá-los em nós de ideias-chave mais tarde."
+
 ---
 
 Niels Bohr, o prêmio Nobel que assentou as bases da física quântica. Apesar do seu gênio, sentia uma enorme fricção ao sentar-se a redigir artigos de forma solitária. O seu método consistia em ditar os seus pensamentos à esposa Margrethe ou aos seus alunos enquanto caminhava e debatia frente a uma lousa. Analisemos como o processo ativa o córtex pré-frontal.

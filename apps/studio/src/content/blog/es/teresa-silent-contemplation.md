@@ -21,6 +21,7 @@ faqs:
     answer: "Es natural que el cerebro intente realizar cálculos. No luche contra esos pensamientos; reconózcalos como nubes pasajeras y regrese suavemente su atención a la respiración por la nariz."
   - question: "La Madre Teresa lo hacía por una hora. ¿Es útil si solo lo hago de 10 a 15 minutos?"
     answer: "Sí, estudios muestran que incluso 10 minutos de silencio absoluto reducen la tensión y el cortisol. Mantener una rutina constante de 10 minutos diarios es muy efectivo para la regulación emocional a largo plazo."
+
 ---
 
 La Madre Teresa, quien dedicó su vida a ayudar a los pobres en Calcuta. ¿Cómo soportó el dolor de los suburbios para mantener su paz emocional? 🕊️

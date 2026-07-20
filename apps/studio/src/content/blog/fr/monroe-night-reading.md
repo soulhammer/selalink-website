@@ -21,6 +21,7 @@ faqs:
     answer: "Lisez des livres papier plutôt que des écrans. Choisir des livres calmes comme de la poésie ou des essais sous une lumière douce favorise le sommeil."
   - question: "Comment noter mes passages préférés lors de la lecture nocturne sans perturber mon sommeil ?"
     answer: "Au lieu d'allumer l'ordinateur, utilisez des post-it ou pliez les coins des pages, puis transférez-les sur votre fichier numérique le lendemain matin."
+
 ---
 
 Marilyn Monroe possédait plus de 400 livres classiques. Découvrez comment la lecture du soir et l'écriture intime apaisaient son système nerveux et réduisaient le stress.

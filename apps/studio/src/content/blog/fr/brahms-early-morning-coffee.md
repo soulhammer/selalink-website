@@ -21,6 +21,7 @@ faqs:
     answer: "Brahms était perfectionniste et pensait que la force du café influençait directement son éveil. Il avait donc ce rituel obsessionnel de moudre et préparer ses grains lui-même pour en contrôler le dosage."
   - question: "Comment la marche contribue-t-elle à la stimulation cérébrale ?"
     answer: "La marche augmente physiquement le flux sanguin vers le cerveau par l'impact des pas et stimule le BDNF, favorisant les connexions neuronales pour optimiser la créativité et la mémoire de travail."
+
 ---
 
 Johannes Brahms, compositeur considéré comme l'un des trois grands 'B' de la musique classique allemande avec Jean-Sébastien Bach et Ludwig van Beethoven. Ses chefs-d'œuvre à la fois puissants et lyriques ont été conçus selon un rituel de réveil quotidien rigoureux. ☕

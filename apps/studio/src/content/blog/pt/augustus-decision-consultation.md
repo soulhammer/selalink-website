@@ -21,6 +21,7 @@ faqs:
     answer: "É por isso que feedbacks escritos são fundamentais. Reuniões cara a cara introduzem o pensamento de grupo e a pressão social. Coletar feedbacks escritos permite que você revise a lógica e os dados de forma racional."
   - question: "Qual é o melhor tamanho para este grupo assessor?"
     answer: "Mantenha em no máximo 3. Números maiores causam paralisia por análise. Selecione um especialista principal para cada domínio relevante (por exemplo, tecnologia, negócios, jurídico)."
+
 ---
 
 Augusto, o primeiro imperador romano que pôs fim a um século de guerra civil e lançou as bases para a Pax Romana de 200 anos. Ao contrário de seu pai adotivo Júlio César, que morreu jovem, Augusto era fisicamente fraco e carecia de um talento militar excepcional. No entanto, governou Roma mais tempo do que qualquer outro, trazendo prosperidade. O segredo foi sua rotina de consulta multiperspectiva antes da decisão. Em vez de tomar decisões autocráticas, Augusto manteve perto especialistas de alto nível como Mecenas e Agripa, encorajando-os a apresentar opiniões divergentes.

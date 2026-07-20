@@ -21,6 +21,7 @@ faqs:
     answer: "Dans l'Angleterre du XIXe siècle, il était très rare pour une femme d'avoir son propre bureau. Travaillant dans le salon commun, Jane Austen utilisait ce grincement pour masquer ses manuscrits avant l'arrivée des visiteurs."
   - question: "Comment appliquer cette astuce dans un environnement numérique moderne ?"
     answer: "Vous pouvez bloquer les notifications en passant votre statut en « Ne pas déranger » ou « Occupé », et configurer vos outils pour regrouper les alertes à intervalles réguliers."
+
 ---
 
 Jane Austen, légendaire romancière anglaise, autrice de chefs-d'œuvre comme « Orgueil et Préjugés ». Travaillant dans le salon familial, elle devait protéger sa concentration des interruptions. Plutôt que de réparer la porte qui grinçait, elle s'en servit comme avertisseur. Aujourd'hui, BuildSelf montre comment instaurer des barrières sensorielles protège votre travail.

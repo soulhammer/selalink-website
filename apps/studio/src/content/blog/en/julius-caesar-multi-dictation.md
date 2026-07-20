@@ -21,6 +21,7 @@ faqs:
     answer: "General multitasking disperses attention across multiple tasks at the same time, like sending messages while writing an email, causing delays. In contrast, simultaneous dictation has a structure of 'sequential single focus,' where you focus intensely on only one scribe at a time to write down, then sequentially and deliberately transition cognition to the next subject."
   - question: "Can I practice this method by typing instead of dictating?"
     answer: "Since typing speed is slower than the cognitive speed of expanding thoughts, bottlenecks are highly likely to occur. It is much more advantageous to pour out drafts through speech following the flow of thoughts using voice recognition memo tools, and then edit them in batches later to reduce working memory overload."
+
 ---
 
 Julius Caesar, the hero who expanded the territory of the late Roman Republic and laid the foundation of the empire. He had his own superhuman time-saving secret.

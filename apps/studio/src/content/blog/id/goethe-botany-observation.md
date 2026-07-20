@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah mengamati tanaman pendamping di rumah membantu?"
     answer: "Ya, mengamati tanaman dalam ruangan atau dedaunan selama lebih dari 15 detik juga merangsang perhatian tidak disengaja, mengurangi kelelahan prefrontal. Namun, pengamatan di luar ruangan disertai sinar matahari & berjalan ringan adalah yang paling efektif."
+
 ---
 
 Johann Wolfgang von Goethe, yang menciptakan mahakarya 'Faust' & novel 'The Sorrows of Young Werther'. Ia bukan hanya seorang penulis melainkan seorang polimatik yang menjelajahi botani, teori warna, & anatomi. Di balik ide-ide kreatifnya, ada ritual pagi yang menakjubkan: kebiasaan berjalan di taman, mengamati tanaman liar secara dekat, & mengumpulkan biji-bijian. Setiap pagi ia berjalan perlahan di tamannya di Weimar. Baginya, waktu ini adalah stasiun pengisian kognitif yang membebaskannya dari tekanan pekerjaan meja.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Haruskah saya menulis sambil berdiri? Tidak bisakah saya duduk?"
     answer: "Duduk di sofa atau kursi segera setelah kembali memicu relaksasi cepat & menurunkan kewaspadaan. Postur berdiri mempertahankan gairah fisik untuk menjaga memori kerja, sehingga secara kognitif menguntungkan untuk berdiri selama 10 menit pertama."
+
 ---
 
 Søren Kierkegaard, pionir filsuf eksistensialis kelahiran Denmark abad ke-19. Aforisme & tulisan tajam yang ditinggalkannya diselesaikan di beberapa meja berdiri di rumahnya. Kierkegaard adalah pejalan kaki yang menyusuri Kopenhagen. Ia khawatir inspirasi yang dikumpulkan di jalan akan hilang saat melepas mantel & merapikan barang. Begitu membuka pintu, ia langsung ke meja berdiri sambil mengenakan topi & mantel.

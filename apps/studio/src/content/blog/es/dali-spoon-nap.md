@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Dalí sostenía una cuchara durante las siestas?"
     answer: "Al relajarse sus músculos al dormir, la cuchara caía sobre un plato, despertándolo para capturar de inmediato inspiraciones surrealistas."
+
 ---
 
 Salvador Dalí, un gigante del arte surrealista y una de las mentes creativas más grandes del siglo XX. ¿De dónde venía la inspiración tan extraña y caprichosa de sus obras? Cuando Dalí se enfrentaba a bloqueos creativos o fatiga mental, se sentaba cómodamente en una silla de madera y sostenía ligeramente una cuchara de metal en una mano, colocando un plato de metal directamente en el suelo debajo. Hoy, BuildSelf analiza la ciencia detrás de la siesta de la cuchara.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum schrieb Virginia Woolf im Stehen?"
     answer: "Inspiriert von ihrer malenden Schwester nutzte sie ein Stehpult, um sich künstlerisch auf Augenhöhe zu fühlen."
+
 ---
 
 Virginia Woolf gilt als Pioneerin der modernistischen Literatur des 20. Jahrhunderts und hinterließ Meisterwerke wie 'Mrs. Dalloway' und 'Zum Leuchtturm'. Wie gelang es ihr, die inneren Welten und komplexen Seelenzustände ihrer Figuren in so raffinierten Sätzen darzustellen? Hinter ihrer erstaunlichen Konzentration steckte eine einzigartige Arbeitsgewohnheit. Jeden Morgen stand Woolf vor einem über einen meter hehen, geneigten Stehpult, um zu schreiben. Diese Schreibroutine war von der Arbeitsweise ihrer Schwester Vanessa Bell inspiriert, einer hervorragenden Malerin. Fasziniert davon, wie ihre Schwester vor der Staffelei stand und ihren ganzen Körper zum Malen einsetzte, dachte Woolf, dass auch sie im Stehen schreiben müsse. Heute stellt BuildSelf die wissenschaftlichen Vorteile von Woolfs Steh-Routine vor.

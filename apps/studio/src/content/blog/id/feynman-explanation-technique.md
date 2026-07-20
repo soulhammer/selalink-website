@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika tidak ada anak kecil di sekitar untuk dijelaskan?"
     answer: "Anda dapat menjelaskannya kepada rekan kerja, mainan di meja, atau chatbot. Kuncinya adalah melalui 'proses penyaringan' untuk mengecualikan jargon & menggunakan kosakata yang dapat dipahami anak berusia 10 tahun."
+
 ---
 
 Richard Feynman, raksasa fisika modern yang memenangkan Hadiah Nobel Fisika untuk karyanya dalam elektrodinamika kuantum. Ia adalah seorang pendidik luar biasa yang menjelaskan penelitian rumit dengan sederhana. Rahasianya terletak pada kebiasaan 'mengajar' di buku catatannya. Setiap mempelajari sesuatu yang baru, ia membuka buku catatan kosong & berasumsi ada anak berusia 10 tahun di depannya. Ia menulis konsep itu dengan kata-kata sederhana.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que fazer se um iniciante não conseguir plantar bananeira?"
     answer: "Mesmo se não puder se apoiar na parede, você pode obter efeitos semelhantes de fluxo sanguíneo e estimulacão vestibular com a postura do golfinho (levantando apenas os quadris no chão) ou com inversões suaves de coluna, como apoiar as pernas em uma cadeira e inclinar o tronco."
+
 ---
 
 Igor Stravinsky, que abalou a música clássica do século XX com melodias vanguardistas como A Sagração da Primavera. Por trás de sua genialidade havia uma rotina física singular. Quando bloqueava ao compor, plantava bananeira ao lado do piano. Acreditava que ficar de cabeça para baixo acordava o cérebro. Analisemos como esta inversão física estimula a criatividade.

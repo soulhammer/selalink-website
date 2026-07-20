@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apa yang harus saya lakukan jika telapak kaki atau pinggang saya sakit saat menggunakan meja berdiri?"
     answer: "Disarankan untuk meletakkan keset anti-lelah yang menyerap benturan di bawah kaki Anda atau mengenakan sandal dalam ruangan yang empuk, serta mengontraksikan otot inti ringan untuk mendistribusikan gravitasi dan mencegah pembengkokan tulang belakang yang berlebihan."
+
 ---
 
 Rainer Maria Rilke, penyair Austria tiada tanding yang menandai puncak puisi modern dengan menggambarkan lanskap batin yang mendalam dalam ritme yang indah dalam 'The Notebooks of Malte Laurids Brigge' dan 'Duino Elegies'. Lingkungan menulis unik apa yang dia pilih untuk membangkitkan ketegangan kreatif dan inspirasi intuitif? ✍️

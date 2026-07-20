@@ -21,6 +21,7 @@ faqs:
     answer: "La multitarea dispersa la atención al mismo tiempo, como chatear mientras escribe un correo. La dictación simultánea usa un enfoque 'monotarea secuencial': enfoca al 100% en un escriba a la vez y luego cambia."
   - question: "¿Puedo usar el teclado para escribir en lugar de dictar?"
     answer: "Escribir en teclado es más lento que la velocidad cognitiva, lo que crea cuellos de botella. Es mejor usar dictado de voz para plasmar las ideas rápido y luego editarlas para reducir la fatiga mental."
+
 ---
 
 Julio César, héroe de la República romana, tenía un secreto sobrehumano para ahorrar tiempo: dictaba cartas y órdenes militares a 3 o 4 escribas a la vez mientras cabalgaba. Esta capacidad de procesamiento paralelo era la fuente de su gran administración.

@@ -16,6 +16,7 @@ steps:
     text: "Look out the window at the passing scenery. Let your eyes capture the natural optical flow without trying to focus on any single object, allowing your brain to enter a daydream state."
   - name: "Seize the Flash of Insight"
     text: "The moment a unique analogy or solution flashes in your mind, immediately jot down keywords in your pocket notebook. Do not wait until you arrive, as travel insights fade rapidly once the journey ends."
+
 ---
 
 "Travel is the true source of wisdom, and a notebook is its map." Desiderius Erasmus, the great Renaissance humanist, was a perpetual traveler, riding carriages across Europe. Rather than treating travel time as dead time, he kept a small leather notebook in his pocket. While bouncing in carriages, he wrote down observations and satirical thoughts, drafting the majority of Praise of Folly while traveling from Italy to England.

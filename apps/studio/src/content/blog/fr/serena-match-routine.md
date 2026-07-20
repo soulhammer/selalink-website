@@ -21,6 +21,7 @@ faqs:
     answer: "Établissez 2 ou 3 étapes simples que vous contrôlez, comme nouer vos lacets d'une certaine façon ou respirer profondément, et répétez-les régulièrement."
   - question: "Comment gérer l'anxiété si j'oublie une étape ou fais une erreur dans ma routine ?"
     answer: "Comprenez que la routine n'est qu'une ancre psychologique, pas la source de vos capacités. Accepter les erreurs comme faisant partie de la situation maximise les bienfaits."
+
 ---
 
 Serena Williams, la reine du tennis. Face à la pression du court, son arme secrète résidait dans des routines strictes. Avant de jouer, elle écoutait de la musique avec les mêmes écouteurs et faisait rebondir la balle 5 fois avant son premier service. Voyons comment la routine de pré-performance (PPR) aide à apaiser l'amygdale.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Usar sapatos (como pantufas ou mocassins) dentro de casa ajuda a focar durante o teletrabalho?"
     answer: "Sim, fornece um poderoso estímulo sensorial. A firmeza dos sapatos nas solas sinaliza ao córtex somatossensorial que o corpo está ativo e em pé. Isso suprime o desejo de se deitar no sofá. Reservar sapatos leves de lona ou pantufas de couro para interior exclusivamente para o trabalho é uma maneira eficiente de colocar os trabalhadores remotos em ação."
+
 ---
 
 René Magritte, o mestre surrealista belga que desafiou a percepção com 'Isto não é um cachimbo'. Ao contrário de sua arte excêntrica, seu estilo de vida diário era excepcionalmente ordenado. Ao contrário dos pintores que trabalhavam em ateliês caóticos, Magritte vestia um terno limpo e chapéu-coco todas as manhãs, de pé diante de um cavalete em sua sala arrumada. Ele pintava com controle, nunca deixando cair uma gota de tinta em suas roupas ou tapete. Analisamos o mecanismo cognitivo de como o vestuário prepara o cérebro para o pico de foco.

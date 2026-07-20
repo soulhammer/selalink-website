@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Dois-je obligatoirement écrire debout ? Ne puis-je pas m'asseoir ?"
     answer: "S'asseoir au retour détend le corps et baisse l'éveil rapidement. La posture debout maintient l'activation physique pour préserver la mémoire de travail, ce qui rend la position debout avantageuse pendant les 10 premières minutes."
+
 ---
 
 Søren Kierkegaard, pionnier du courant existentialiste danois du XIXe siècle. Les aphorismes et écrits qu'il a laissés ont été rédigés sur plusieurs bureaux debout installés chez lui. Kierkegaard était un marcheur qui déambulait dans Copenhague. Il craignait que les inspirations obtenues en chemin ne s'évaporent au moment de retirer son manteau ou ranger ses affaires. Dès l'entrée, il se ruait vers son bureau vêtu de son manteau et chapeau. Aujourd'hui, BuildSelf partage les principes neuroscientifiques derrière la routine de Kierkegaard.

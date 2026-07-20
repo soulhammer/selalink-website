@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué tipo de libro es más efectivo para leer en voz alta?"
     answer: "En lugar de novelas o ensayos, leer textos humanísticos con oraciones densas y lógicas, libros de texto o extractos de informes es más efectivo para mejorar la plasticidad prefrontal."
+
 ---
 
 Abraham Lincoln, el 16º presidente de los Estados Unidos, que unificó un país al borde de la división y logró el hito histórico de la abolición de la esclavitud. Detrás del increíble vocabulario de Lincoln se escondía un ritual de lectura único que practicaba cada mañana en su oficina. Consistía en leer libros o periódicos en voz alta para que su voz llenara el lugar. Su socio William Herndon testificó que la voz de Lincoln resonaba en el pasillo. Cuando le preguntaron por qué leía así, Lincoln sonrió y dijo: 'Veo las palabras con los ojos para grabarlas en mi cerebro, y al mismo tiempo escucho mi voz con los oídos. Usar ambos sentidos duplica la memoria'. Hoy, BuildSelf comparte el secreto de este ritual para mejorar tu enfoque.

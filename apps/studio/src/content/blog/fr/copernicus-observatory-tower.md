@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si mon logement est petit et qu'il est difficile d'isoler un espace ?"
     answer: "Si l'isolement physique est difficile, vous pouvez obtenir le même effet en ajustant les repères visuels, par exemple en allumant une lampe de bureau spécifique ou en utilisant un sous-main dédié uniquement à l'étude."
+
 ---
 
 Nicolas Copernic, qui a déclaré la théorie héliocentrique. La base de recherche où il a révélé les secrets du cosmos n'était autre que l'ancienne tour d'observation en pierre de Frombork, en Pologne. Pendant des décennies, il n'a changé ni d'instruments ni de lieu. Découvrez le mécanisme cérébral de cet isolement spatial.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Los juegos normales de smartphone tienen el mismo efecto?"
     answer: "Los juegos móviles con texto o estimulación fuerte tensan otras áreas de la corteza prefrontal, aumentando la carga cognitiva. Para lograr el efecto DMN, son mucho más efectivos los juegos de simulación física o analógicos."
+
 ---
 
 Wolfgang Amadeus Mozart, un genio que escribía sinfonías perfectas a la primera. Detrás de su creatividad había una rutina única: jugar al billar cada vez que se bloqueaba al componer. Colocó una mesa de billar cara en su casa, al lado de su estudio. Su esposa testificó que Mozart se levantaba repentinamente para jugar un poco y luego regresaba a escribir. Observar la trayectoria de las bolas no era ocio, sino un refugio que inducía a la mente a un estado inconsciente (DMN) para fomentar nuevas conexiones. Hoy, BuildSelf comparte el secreto de este ritual para aliviar la fatiga mental.

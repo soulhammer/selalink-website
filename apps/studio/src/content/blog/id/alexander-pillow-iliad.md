@@ -21,6 +21,7 @@ faqs:
     answer: "Fiksi ringan juga dapat meredakan stres otak, tetapi untuk menghasilkan efek 'motivasi berorientasi nilai' yang menyelaraskan identitas diri dan menginspirasi kemauan seperti rutinitas Alexander, jauh lebih baik memilih buku epik klasik, filsafat, atau biografi yang memberikan resonansi batin dan refleksi."
   - question: "Bolehkah saya membaca buku di e-reader sambil berbaring?"
     answer: "Layar e-reader atau tablet memancarkan cahaya yang dapat mengecoh otak bahwa ini siang hari dan menekan sekresi melatonin. Untuk efek penyelarasan alam bawah sadar dan tidur nyenyak yang optimal, disarankan membaca buku kertas fisik di bawah cahaya lembut."
+
 ---
 
 Alexander Agung menaklukkan kekaisaran terbesar di zamannya. Kunci keberaniannya ada di bawah bantal: buku Iliad karya Homer dan sebuah belati. Membaca kisah kepahlawanan meredakan ketakutannya sebelum tidur.

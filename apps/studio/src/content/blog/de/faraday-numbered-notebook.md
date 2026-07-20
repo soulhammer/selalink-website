@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Ist eine Nummerierung auch bei digitalen Notizen sinnvoll?"
     answer: "Auch digital ist die Nummerierung wertvoll. Suchfunktionen stoßen an Grenzen, wenn exakte Begriffe fehlen. Feste Nummern (z. B. #042) ermöglichen Querverweise (Backlinks) und dienen als eindeutige Referenzen, was die digitale Produktivität steigert."
+
 ---
 
 Michael Faraday legte mit der Entdeckung der elektromagnetischen Induktion den Grundstein für die moderne Elektrotechnik. Obwohl er keine mathematische Ausbildung hatte, verhalf ihm seine präzise Arbeitsmethode zum Erfolg. Er nummerierte jeden einzelnen Laboreintrag chronologisch durch. Sein Tagebuch umfasst Einträge von Nummer 1 bis 16.041. Erfahren Sie, wie diese Strukturierung seine kognitive Leistung stützte.

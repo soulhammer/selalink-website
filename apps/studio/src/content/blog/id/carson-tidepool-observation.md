@@ -21,6 +21,7 @@ faqs:
     answer: "Ya. Meskipun skalanya lebih kecil, mengamati detail tanaman hias, memeriksa kekeringan tanah, dan mencatat struktur daun menginduksi 'Fascinasi Lembut', yang berujung pada istirahat otak dan pengurangan stres."
   - question: "Apakah saya harus menggambar di buku catatan?"
     answer: "Tidak. Menggambar hanyalah alat bantu fokus. Jika Anda tidak bisa menggambar, cukup mendeskripsikan detail pengamatan (warna, tekstur, gerakan) dengan kata-kata sudah sangat efektif."
+
 ---
 
 Silent Spring memperingatkan tentang penyalahgunaan pestisida. Penulisnya, Rachel Carson, menulis di bawah tekanan intimidasi perusahaan dan kanker payudara. 🐚

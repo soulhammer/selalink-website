@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Comer o mesmo almoço diariamente não faz mal à saúde? Como adaptamos o hábito do Schulz de forma moderna?"
     answer: "Embora Schulz comesse hambúrgueres típicos, os adaptadores modernos podem usar kits de refeições nutricionalmente equilibradas, saladas pré-encomendadas ou 3 menus saudáveis rotativos. O objetivo é remover o processo de seleção cognitiva. A pré-seleção de 2 ou 3 opções de dieta saudável garante tanto a saúde física quanto a economia de energia mental."
+
 ---
 
 Peanuts, a adorada tira de quadrinhos com Snoopy e Charlie Brown. Por trás desta obra-prima estava Charles M. Schulz, um homem de rotinas absolutas que desenhou e escreveu a tira sozinho por 50 anos, sem assistentes. Para gerenciar a pressão criativa e economizar energia mental, ele padronizou seus dias. Ele trabalhava na mesma mesa das 9h às 16h e, no almoço, comia exatamente o mesmo hambúrguer ao lado de sua mesa de desenho. Analisamos como essa rotina de cardápio único protege os centros analíticos do cérebro.

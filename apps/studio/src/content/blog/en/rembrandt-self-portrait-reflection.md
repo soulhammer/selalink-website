@@ -21,6 +21,7 @@ faqs:
     answer: "Yes. If depression or self-criticism creeps in, stop immediately. Try focusing on your shoulder line or hands first to ground your physical sensations."
   - question: "When is the best time of day for mirror self-reflection?"
     answer: "Right after a shower is ideal. Your body is relaxed under parasympathetic dominance, weakening ego defenses and allowing the most comfortable self-connection."
+
 ---
 
 Rembrandt van Rijn, the immortal master of the Dutch Golden Age. While he achieved great wealth and fame early on, his later years were marked by bankruptcy and loneliness. Yet he never stopped painting self-portraits, leaving behind over 80 pieces over 40 years. This was a process of visual reflection, gazing at his aging face in the mirror without distortion. We study how Rembrandt maintained resilience through mirror gazing.

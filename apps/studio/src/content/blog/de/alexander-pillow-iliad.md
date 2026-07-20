@@ -21,6 +21,7 @@ faqs:
     answer: "Leichte Belletristik hilft ebenfalls, Stress abzubauen, aber um eine „wertorientierte Motivation“ zu erzeugen, die die Identität stärkt und Willenskraft freisetzt, ist es besser, klassische Epen, Philosophie oder Biografien zu wählen, die tiefere Reflexion anregen."
   - question: "Kann ich im Liegen auf einem E-Reader lesen?"
     answer: "E-Reader oder Tablets strahlen Licht aus, das dem Gehirn Tag vortäuscht und die Melatoninausschüttung hemmt. Für eine optimale Ausrichtung des Unterbewusstseins und tiefen Schlaf wird empfohlen, ein echtes Buch aus Papier bei gedimmtem Licht zu lesen."
+
 ---
 
 Alexander der Große schlief selbst im Feldlager immer mit einem Buch der Ilias von Homer (herausgegeben von Aristoteles) und einem Dolch unter seinem Kissen. Dies half ihm, seine Ängste zu besiegen und sich als unbesiegbarer Held zu sehen.

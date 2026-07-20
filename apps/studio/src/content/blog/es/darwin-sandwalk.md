@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué es el Sandwalk de Darwin?"
     answer: "Era un sendero donde caminaba tres vueltas diarias para activar la corteza prefrontal y ordenar las ideas de la teoría de la evolución."
+
 ---
 
 Charles Darwin, el hombre que trajo la mayor revolución al pensamiento científico en la historia de la humanidad al escribir 'El origen de las especies', explicando la evolución de los organismos basada en la selección natural. ¿De dónde surgieron las grandes inspiraciones evolutivas que cambiaron el paradigma de la humanidad? Darwin pasó su vida investigando en Down House, un pueblo tranquilo cerca de Londres. Cada mañana y tarde, caminaba por el 'Sandwalk', un sendero de grava y tierra que construyó al rededor de su casa. Llamó a este camino el 'Sendero del Pensamiento', y al comienzo de su caminata, apilaba 5 o 6 piedras pequeñas en la esquina, pateando una cada vez que completaba una vuelta para llevar un registro de cuántas vueltas había caminado. Hoy, BuildSelf explora los principios científicos de la rutina de Darwin y cómo los profesionales modernos pueden aplicarla para aumentar la creatividad.

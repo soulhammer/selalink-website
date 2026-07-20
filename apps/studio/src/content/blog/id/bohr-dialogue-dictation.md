@@ -21,6 +21,7 @@ faqs:
     answer: "Anda dapat mengaktifkan perekam suara ponsel atau aplikasi memo AI dan berbicara keras seolah-olah sedang menjelaskan kepada seseorang. Yang penting bukan kehadiran pendengar, tetapi proses saraf melisankan pikiran."
   - question: "Bagaimana cara menghubungkan konten yang diucapkan menjadi hasil yang produktif?"
     answer: "Anda dapat mencatat poin-poin penting di buku catatan saat berbicara, atau menyimpan hasil konversi STT (Speech-to-Text) untuk disusun menjadi peta ide nanti."
+
 ---
 
 Niels Bohr mendirikan dasar mekanika kuantum dan memenangkan Hadiah Nobel. Meskipun memiliki intuisi ilmiah luar biasa, ia kesulitan menulis makalah secara pasif di mejanya. Bohr lebih memilih berdiri di depan papan tulis bersama istrinya Margrethe atau muridnya seperti Heisenberg untuk berdiskusi lisan. Pelajari efek kognitif dari bicara eksternal.

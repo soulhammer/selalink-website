@@ -21,6 +21,7 @@ faqs:
     answer: "Las pantallas digitales carecen de la fricción del papel, lo que reduce la estimulación táctil. Escribir en papel ofrece resistencia física que estimula la corteza y favorece una descarga cognitiva profunda, por lo que es preferible utilizar papel real."
   - question: "¿Es efectivo sentarse y dibujar sin caminar antes?"
     answer: "Dibujar sentado ayuda, pero combinarlo con caminar y el seguimiento visual mejora el resultado. Caminar aumenta el flujo de sangre al cerebro y la alerta, mientras que seguir objetos con la vista activa redes cerebrales, optimizando el razonamiento lógico."
+
 ---
 
 Henry Ford, el gigante automotriz que implementó el sistema de producción en masa con cinta transportadora. ¿De dónde surgieron sus inspiraciones estructurales? 🚗

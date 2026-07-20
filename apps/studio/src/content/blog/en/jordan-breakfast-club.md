@@ -21,6 +21,7 @@ faqs:
     answer: "The core is not the exact time but the 'limit-pushing training immediately after waking up'. Even if it is not exactly 6 AM, you can achieve the same hormone release and psychological advantage by forcing cognitive and physical loads in your first waking hour."
   - question: "Doesn't doing high-intensity exercise every day strain the body?"
     answer: "Jordan's routine also underwent a gradual adaptation process. For beginners, it is recommended to start 3 times a week and gradually increase intensity and frequency. Alternating between intense strength training and light functional training on different days can help prevent physical fatigue accumulation."
+
 ---
 
 Michael Jordan, the greatest basketball player in history and the ultimate symbol of competitive spirit. When he was repeatedly blocked by the Detroit Pistons' rough defensive tactics in the early 1990s, he decided to strengthen his body rather than give up. This gave birth to the legendary 6 AM training routine, the 'Breakfast Club.'

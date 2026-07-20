@@ -21,6 +21,7 @@ faqs:
     answer: "Nos invernos rigorosos da Paris dos anos 1940, o Café de Flore mantinha o aquecimento alto e seu proprietário era acolhedor com artistas que passavam horas nas mesas, tornando-se o melhor escritório possível."
   - question: "É possível aplicar o roteiro cognitivo trabalhando em casa?"
     answer: "Com certeza. Mesmo em casa, você pode alcançar o mesmo efeito de foco se acender uma luminária específica em um canto da mesa, usar uma caneca exclusiva para o trabalho e ativar o mesmo som ambiente."
+
 ---
 
 Simone de Beauvoir, a filósofa francesa autora de 'O Segundo Sexo' que marcou o feminismo e o existencialismo. O estado de alta concentração do qual brotavam seus textos densos não se forjou em uma biblioteca silenciosa, mas em uma mesa de canto de um ruidoso café de Paris. ☕

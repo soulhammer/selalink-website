@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que tipo de modelo geométrico esculpia Kepler?"
     answer: "Ele criou um modelo encaixado dos cinco sólidos platónicos (octaedro, icosaedro, dodecaedro, tetraedro e cubo) para representar as órbitas dos planetas."
+
 ---
 
 Johannes Kepler, o astrónomo e matemático que descobriu as leis do movimento planetário. Numa época sem computadores, Kepler calculava dados matemáticos sem fim. Ao bloquear-se, esculpia modelos geométricos 3D do universo em madeira ou argila. Ao tocar as proporções físicas, encontrava soluções. Saiba mais sobre a manipulação espacial háptica.

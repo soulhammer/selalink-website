@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika saya sulit bangun subuh akibat kurang tidur kronis?"
     answer: "Bangun subuh hanya akan bermanfaat jika Anda juga tidur lebih cepat di malam hari. Jika tidak memungkinkan untuk tidur cepat akibat pekerjaan, jangan paksa bangun pukul 4 pagi. Cukup gunakan 30 menit pertama setelah bangun tidur biasa sebagai 'Waktu Bebas Gadget dan Cahiers'."
+
 ---
 
 Paul Valery, puncak kesusastraan simbolis Prancis yang memiliki kecerdasan luar biasa. Sepanjang hidupnya, ia selalu bangun pukul 4 pagi untuk menyalakan lampu minyak dan duduk di meja kerjanya. Sebelum fajar menyingsing, ia mencatat aliran kesadaran dan pemikirannya. Buku catatan harian selama 51 tahun ini berjumlah 261 volume. Ulas bagaimana kesunyian subuh menyaring kebisingan kognitif untuk memunculkan ide-ide murni.

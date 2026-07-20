@@ -21,6 +21,7 @@ faqs:
     answer: "Sangat bisa. Cukup mengisi tanah di pot kecil di balkon atau ruang tamu dan menanam tanaman herbal kecil sudah memberikan stimulasi taktil yang sama. Intinya adalah hubungan fisik dengan tanah, bukan ukuran tanaman."
   - question: "Apakah ada masalah higienitas seperti infeksi bakteri saat menyentuh dengan tangan telanjang?"
     answer: "Tanah pot komersial sering kali disterilkan, sehingga jauh lebih aman. Faktanya, bakteri bermanfaat dalam tanah justru membantu membangun kekebalan. Jika khawatir, gunakan sarung tangan berkebun yang tipis dan cuci tangan bersih-bersih dengan sabun setelah selesai."
+
 ---
 
 Audrey Hepburn, ikon fesyen abadi Hollywood yang bekerja untuk anak-anak sebagai duta UNICEF. Apa sumber kekuatan untuk menenangkan luka batinnya dan mempertahankan keanggunan melalui paparan media dan kanker? Ia mendedikasikan diri untuk menyentuh tanah dan menanam bunga setiap sore di kebun rumahnya di Tolochenaz, Swiss. Hari ini, BuildSelf memperkenalkan prinsip-prinsip pemulihan kognitif dan rutinitas penyembuhan emosional dari 'berkebun' Audrey Hepburn.

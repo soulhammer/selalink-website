@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Beethoven insistía en contar 60 granos de café?"
     answer: "A través del acto repetitivo de contar 60 granos, concentraba la energía cognitiva para usarla como disparador de concentración."
+
 ---
 
 Ludwig van Beethoven, uno de los más grandes compositores de la historia de la música occidental, que superó la prueba mortal de la pérdida auditiva y creó las melodías más grandiosas de la historia, como la 'Sinfonía del Destino' y la 'Sinfonía Coral'. ¿Sabías que realizaba un ritual matutino antes de empezar a componer? Era el ritual de contar exactamente '60 granos' de café. Beethoven era muy sensible al sabor y aroma del café e insistía en la proporción perfecta. Contar estos 60 granos era una entrada sagrada para aislar los ruidos externos y entrar en su mundo musical. Hoy, BuildSelf comparte los secretos científicos del ritual de Beethoven y cómo diseñar una rutina matutina para maximizar tu enfoque.

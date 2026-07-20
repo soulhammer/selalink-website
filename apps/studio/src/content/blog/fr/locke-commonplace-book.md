@@ -21,6 +21,7 @@ faqs:
     answer: "Il dessinait une grille combinant consonnes (A-Z) et voyelles (a, e, i, o, u). Pour un mot clé (ex: 'Epistola' sous E-i), il inscrivait le numéro de page dans la case pour faciliter les recherches croisées."
   - question: "Le papier est-il plus efficace pour assimiler les connaissances que le numérique ?"
     answer: "L'écriture manuscrite stimule plus fortement le contrôle cognitif, favorisant l'encodage initial. Le numérique l'emporte sur la recherche et la sauvegarde. L'idéal reste d'utiliser le support adapté ou de combiner les deux."
+
 ---
 
 John Locke, figure de la philosophie des Lumières qui a posé les bases de la démocratie parlementaire et inspiré la Déclaration d'Indépendance américaine. Comment celui qui affirmait que l'esprit humain à la naissance est une page blanche, une 'tabula rasa', a-t-il structuré ses connaissances ? 📖

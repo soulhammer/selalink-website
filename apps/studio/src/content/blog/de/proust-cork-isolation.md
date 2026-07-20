@@ -21,6 +21,7 @@ faqs:
     answer: "Bei manchen Menschen kann absolute Stille Tinnitus oder Unruhe verstärken. In diesem Fall hilft es, leise Naturgeräusche wie Regen oder Meeresrauschen abzuspielen. Diese gleichmäßigen Geräusche belasten den Thalamus nicht, wirken aber beruhigend."
   - question: "Ist das Arbeiten im Liegen wirklich empfehlenswert?"
     answer: "Proust musste krankheitsbedingt im Liegen arbeiten. Für gesunde Menschen ist das Bett jedoch ein Ort des Schlafs; dort zu arbeiten fördert Müdigkeit. Nutzen Sie einen Schreibtisch für die Arbeit, aber übernehmen Sie Prousts Methode der Reizabschirmung."
+
 ---
 
 Marcel Proust, der französische Schriftsteller, der die Literatur des 20. Jahrhunderts revolutionierte. Er litt Zeit seines Lebens unter Asthma und einer extremen Überempfindlichkeit gegenüber Licht und Geräuschen. Um der Pariser Hektik zu entkommen, baute er sein Schlafzimmer in eine schallisolierte Festung um.

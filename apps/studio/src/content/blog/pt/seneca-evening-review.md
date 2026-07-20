@@ -16,6 +16,7 @@ steps:
     text: "Feche os olhos e mentalize seu dia desde o momento em que acordou. Observe suas ações e decisões sem se julgar ou se justificar, apenas analisando."
   - name: "Extrair lições e desapegar do controle"
     text: "Identifique uma lição-chave do dia. Planeje um ajuste concreto para amanhã. Uma vez traçado o plano, encerre mentalmente o dia e libere as preocupações."
+
 ---
 
 "Quando a luz se apaga e minha esposa silencia, examino meu dia inteiro." Sêneca acreditava em realizar um julgamento de si mesmo todas as noites. Ao analisar objetivamente suas ações no escuro, eliminava a carga emocional, permitindo-se dormir com a consciência limpa.

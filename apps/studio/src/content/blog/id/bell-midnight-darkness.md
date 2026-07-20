@@ -21,6 +21,7 @@ faqs:
     answer: "Melakukannya pada waktu yang sama membantu otak mengasosiasikannya dengan fokus mendalam. Namun, Anda juga dapat menggunakannya kapan saja sebagai reset mental saat jenuh."
   - question: "Bagaimana jika tidak ada keheningan total atau saya tidak bisa menghalangi semua bising?"
     answer: "Jika tidak ada keheningan total, gunakan teknik masking dengan memutar white noise, pink noise, atau suara hujan melalui headphone untuk menghalangi suara luar yang mengganggu."
+
 ---
 
 Alexander Graham Bell, penemu hebat yang mengubah paradigma komunikasi manusia dengan menciptakan telepon praktis. Dari mana inspirasi kreatifnya berasal? 🌌

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana profesional yang sibuk dapat mempersingkat rutinitas Martin?"
     answer: "Anda tidak perlu duduk berjam-jam. Jeda 3 hingga 5 menit sebelum bekerja sudah cukup. Sebelum menyalakan komputer, pejamkan mata dan tarik napas dalam 3 kali, tanyakan: 'Apa tugas terpenting hari ini?'"
+
 ---
 
 Agnes Martin, maestro lukisan grid minimalis. Demi menjaga kreativitasnya di bawah sorotan publik, ia melakukan ritual pagi yang sangat statis. Ia duduk tenang di kursi goyang di depan kanvas kosong, menunggu berjam-jam hingga semua keinginan dan rencana larut. Begitu visi yang jelas muncul, ia baru mengambil kuas.

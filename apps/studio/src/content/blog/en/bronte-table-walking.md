@@ -21,6 +21,7 @@ faqs:
     answer: "No. The physical activity of walking alone yields the same refresh effects (60% increase in creativity) due to BDNF secretion and increased brain blood flow. When alone, you can mimic the metacognitive stimulus by 'explaining ideas directly to yourself in a mirror' or 'setting a virtual critic and self-questioning while walking'."
   - question: "Doesn't listening to critical feedback hurt your feelings and dampen your creative desire instead?"
     answer: "This is a common cognitive error. If the brain perceives critique as 'an attack on self,' it builds defenses and creative drive drops. To prevent this, you must strictly separate 'my personality' and 'my creation.' Keep in mind that feedback is merely neutral data to complement structural holes in the work, enabling the brain's tuning mechanism."
+
 ---
 
 Charlotte Brontë, the author of 'Jane Eyre,' the novel that presented the greatest shock in 19th-century English literary history. She lived a life of severe isolation and poverty with her sisters Emily and Anne Brontë in a remote vicarage in Haworth, Yorkshire. In an isolated environment without proper intellectual stimuli or external exchanges, how did these three sisters simultaneously complete masterpieces like 'Jane Eyre' and 'Wuthering Heights'?

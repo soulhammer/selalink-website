@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah bekerja larut malam seperti Kafka tidak akan merusak siklus tidur?"
     answer: "Ya, begadang berlebihan dapat membahayakan kesehatan. Kunci dari rutinitas ini bukanlah zona waktu 'larut malam' itu sendiri, melainkan mengamankan 'satu jam keheningan total' di mana gangguan luar menghilang sepenuhnya. Untuk itu, disarankan menggunakan alat peredam bising atau memanfaatkan jam pagi hari sebagai gantinya."
+
 ---
 
 Franz Kafka, yang secara luas dianggap sebagai pionir sastra eksistensialis, menggambarkan dengan tajam kecemasan dan keterasingan manusia modern. Dunia kreatifnya baru terbuka larut malam ketika hiruk-pikuk siang hari telah sepenuhnya mereda. Pada siang hari, Kafka memenuhi peran sosialnya sebagai administrator yang rajin di lembaga asuransi kecelakaan kerja. Namun, pada jam 11 malam, ketika kegelapan semakin pekat dan kebisingan keluarga serta tetangga mereda, ia akhirnya duduk di mejanya.

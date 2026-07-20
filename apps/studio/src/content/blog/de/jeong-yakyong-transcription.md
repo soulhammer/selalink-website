@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Handschriftliches Schreiben aktiviert die sensorische Rinde viel stärker, was das Lernen erleichtert. Tippen ist zwar schneller, aber der motorische Reiz ist für jede Taste gleich, was den Lerneffekt mindert."
   - question: "Entsteht der Lerneffekt auch, wenn ich das Wissen mündlich erkläre?"
     answer: "Ja. Das Erklären vor anderen ist laut Lernpyramide die effektivste Methode (bis zu 90 % Behaltungsquote). Ob Sie es einem Kollegen erklären oder den Gedanken laut für sich selbst formulieren – der Lerneffekt ist hoch."
+
 ---
 
 Dasan Jeong Yak-yong, der Gelehrte, der das spätzeitliche Silhak-Denken (Praktisches Lernen) in Joseon prägte und über 500 Bände verfasste. Aufgrund politischer Intrigen musste er 18 Jahre lang im Exil leben. Wie schaffte er es, in dieser Isolation ein so gewaltiges Lebenswerk zu erschaffen?

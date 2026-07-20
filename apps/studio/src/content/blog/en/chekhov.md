@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, Chekhov reduced cognitive load and organized his thoughts through a quiet ritual of tea drinking after hard work around 3 PM."
   - question: "How can I substitute if I don't have a tea set?"
     answer: "Even without a fancy tea set, sipping a warm cup of water or herbal tea bag while focusing on the physical senses for 5 minutes is a sufficient substitute."
+
 ---
 
 Anton Chekhov, the pinnacle of Russian realist literature and a great playwright who completed the foundation of the modern short story, captured the minute conflicts, hypocrisy, and emotional turmoil of ordinary people in everyday life in the most caring and sharp way and turned them into plays. He sat quietly on a bench in a train waiting room or in a corner of an outdoor cafe and observed people passing by. He wrote down extremely specific characteristics of the person in a notebook in his coat pocket, such as an invisible fluff mark on the collar of a suit, the hem of a suit with a button ripped off, and the slight twitching of a passerby's eye when he or she is nervous. This collection of extremely fine details was the foundation for building realistic, three-dimensional characters in his novels.

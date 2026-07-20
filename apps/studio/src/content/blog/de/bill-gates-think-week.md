@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Wichtig ist nicht der Ort, sondern die Reduzierung von Informationen. Es reicht, am Wochenende eine ruhige Bibliothek zu nutzen oder das Smartphone für einen Tag wegzusperren, um sich nur auf Bücher zu konzentrieren."
   - question: "Kann ich für das Lesen der Materialien keinen Computerbildschirm nutzen?"
     answer: "Bildschirme verleiten durch E-Mails und Websites zur Ablenkung. Um die Konzentration aufrechtzuerhalten, wird gedrucktes Papier empfohlen. Falls digitale Geräte unvermeidbar sind, nutzen Sie einen E-Reader ohne Internetzugang."
+
 ---
 
 Bill Gates, Gründer von Microsoft und treibende Kraft hinter technologischen Innovationen. Das Geheimnis hinter seiner Vision lag in seiner Lese-Routine in einer Hütte. 🌲

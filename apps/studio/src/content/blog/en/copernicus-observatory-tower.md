@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if it's a small studio apartment and physically isolating space is hard?"
     answer: "If physical isolation is hard, you can achieve the same effect by artificially adjusting 'visual/environmental cues,' such as turning on a specific desk lamp or placing a desk mat used only for study."
+
 ---
 
 Nicolaus Copernicus, who declared the heliocentric theory that the Earth revolves around the Sun. The research base where he could reveal the secrets of the cosmos was none other than the old, narrow stone observatory tower located in Frombork Cathedral, Poland. For decades, he did not change his observation instruments or location, recording the sky only inside this fixed tower. Explore the brain mechanism of this strict spatial isolation.

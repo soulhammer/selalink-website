@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, in 1830, facing an urgent publisher deadline..."
   - question: "Apa saja perangkat komitmen modern yang dapat saya gunakan tanpa mencukur rambut?"
     answer: "You can use a time-locking safe container..."
+
 ---
 
 Victor Hugo, penulis legendaris Prancis yang menulis 'Les Misérables'...

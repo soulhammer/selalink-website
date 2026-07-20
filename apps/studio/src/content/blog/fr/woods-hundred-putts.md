@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si le stress augmente et nuit à ma concentration ?"
     answer: "Cela se produit lorsque l'objectif est trop difficile par rapport à vos capacités actuelles. Réduisez l'intensité pour maintenir la réussite à 70-80%."
+
 ---
 
 Tiger Woods, le champion de golf le plus dominant de l'histoire. Il a fait preuve d'un mental d'acier même au 18e trou des tournois majeurs. Son mental inébranlable provient de sa routine d'entraînement : la règle des 100 putts consécutifs. Nous analysons ce rituel où échouer une fois signifie tout recommencer.

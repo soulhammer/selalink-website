@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "E se eu acordar e não me lembrar de absolutamente nada dos meus sonhos?"
     answer: "Isso é normal. Se não se lembrar de nenhum sonho, faça um exercício de escrita de fluxo de consciência. Escreva livremente três linhas de quaisquer palavras que lhe passem pela cabeça, sem filtrar. Isto funciona como um aquecimento cognitivo."
+
 ---
 
 Paul McCartney, o génio musical por detrás dos Beatles, compôs Yesterday, uma das canções com mais versões da história, diretamente a partir de um sonho. Ao acordar em Londres em 1964, uma melodia ressoou na sua cabeça. Temendo que ela desaparecesse, saltou da cama e tocou-a instantaneamente no seu piano, garantindo a inspiração bruta antes que a sua mente consciente a apagasse. Este hábito de capturar fragmentos de sonhos tornou-se o cadinho de muitos dos seus sucessos. Exploramos a neurobiologia do estado hipnagógico.

@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Why did the Curies request bicycles as wedding gifts?"
     answer: "Instead of a lavish wedding, they wanted a practical tool to travel through the French countryside, meditate, and focus on research away from daily distractions."
+
 ---
 
 Marie Curie, the first female Nobel laureate and the legendary scientist who remains the only person in history to win Nobel Prizes in two different scientific fields, physics and chemistry.

@@ -21,6 +21,7 @@ faqs:
     answer: "Consistia em desenhar uma grade inicial com letras (A-Z) e vogais (a, e, i, o, u). Para termos específicos (ex: 'Epistola' na letra E com o 'i'), anotava a página na grade correspondente para facilitar a busca cruzada."
   - question: "O papel é melhor para fixar o conhecimento do que o meio digital?"
     answer: "Escrever à mão ativa mais a rede de controle cognitivo, facilitando a retenção inicial. O meio digital destaca-se pela rapidez de busca e segurança. O ideal é escolher o que melhor se adapta ou combinar ambos."
+
 ---
 
 John Locke, mestre do Iluminismo que estruturou a democracia parlamentar e inspirou a Declaração de Independência dos EUA. Se a mente ao nascer é uma folha em branco ('tabula rasa'), como ele preencheu sua tela com tanto saber? 📖

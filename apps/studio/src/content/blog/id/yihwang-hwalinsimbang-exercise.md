@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apa gerakan inti yang paling penting jika sulit mempelajari seluruh senam Hwalinsimbang?"
     answer: "Jika sulit menghafal seluruh gerakan, cukup lakukan 2 hal: Pertama, gosok kedua telapak tangan hingga hangat lalu usapkan ke wajah Anda. Kedua, duduk tegak di atas kasur, hirup napas dalam-dalam lewat hidung, lalu embuskan napas secara perlahan lewat mulut selama 10 detik."
+
 ---
 
 Yi Hwang, tokoh Konfusianisme Korea terkemuka. Meskipun fisiknya lemah dan sering sakit, ia mampu menjaga ketajaman berpikirnya hingga usia lanjut berkat latihan rahasia: senam Hwalinsimbang. Segera setelah bangun tidur, ia melakukan senam peregangan ringan dan mengatur napas. Ulas bagaimana latihan ini meredam lonjakan kortisol dan merangsang saraf parasimpatik.

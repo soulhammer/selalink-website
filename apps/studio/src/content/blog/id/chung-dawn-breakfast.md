@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah saya harus bangun jam 4 pagi? Saya tipe orang malam."
     answer: "Tidak. Kuncinya bukan jam 4 pagi, melainkan menerapkan mekanisme 3 langkah (memblokir beban kognitif, komunikasi pagi, dan jalan kaki) secara konsisten ke jadwal Anda."
+
 ---
 
 Ketua Chung Ju-yung, pendiri Hyundai Group dan simbol pertumbuhan ekonomi tinggi Korea Selatan. Dia memiliki rutinitas pagi unik seumur hidup: bangun sebelum jam 4 pagi, sarapan bersama keluarga jam 5 pagi, dan berjalan kaki ke kantor di Gaedong. Temukan manfaat kognitif dari fajar.

@@ -21,6 +21,7 @@ faqs:
     answer: "Nesses dias é quando esta rotina é mais necessária. Não busque grandes eventos. Escreva estados físicos básicos como 'a água que bebi estava limpa', 'cheguei a casa em segurança' ou 'acordei e posso respirar'. Anotar esses indicadores de segurança ativa a alerta positiva."
   - question: "E quanto a registrar a gratidão em um aplicativo ou publicar nas redes sociais?"
     answer: "Publicar nas redes sociais faz com que o cérebro espere aprovação externa (curtidas, comentários), expondo o centro de recompensa a padrões de dopamina associados à ansiedade. Escrever no papel protege o cérebro de comparações e fornece pura satisfação."
+
 ---
 
 Oprah Winfrey, o ícone da mídia moderna que superou uma infância difícil para se tornar a rainha dos talk shows. De onde vinha a sua energia criativa? 📝

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Hilft das Tragen von Schuhen (wie Hausschuhen oder Slippern) im Haus, sich während der Telearbeit zu konzentrieren?"
     answer: "Ja, es bietet einen starken sensorischen Reiz. Die Festigkeit der Schuhe an den Fußsohlen signalisiert dem somatosensorischen Cortex, dass der Körper aktiv ist und steht. Dies unterdrückt den Drang, sich auf dem Sofa zu fläzen. Die Bereitstellung von leichten Segeltuchschuhen oder Lederhausschuhen ausschließlich für die Arbeit ist eine effiziente Methode, um Telearbeiter in Schwung zu bringen."
+
 ---
 
 René Magritte, der belgische Meister des Surrealismus, der die Wahrnehmung mit „Dies ist keine Pfeife“ herausforderte. Im Gegensatz zu seiner exzentrischen Kunst war sein täglicher Lebensstil außergewöhnlich geordnet. Anders als Maler, die in chaotischen Ateliers arbeiteten, zog Magritte jeden Morgen einen ordentlichen Anzug und eine Melone an und stellte sich vor eine Staffelei in seinem aufgeräumten Wohnzimmer. Er malte kontrolliert und hinterließ nie einen Farbfleck auf seiner Kleidung oder dem Teppich. Wir analysieren den kognitiven Mechanismus, wie Kleidung das Gehirn auf Spitzenfokussierung einstellt.

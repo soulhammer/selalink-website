@@ -16,6 +16,7 @@ steps:
     text: "Reliez les éléments avec des flèches. L'épaisseur représente l'importance et la direction montre la cause et l'effet, créant un système dynamique."
   - name: "Analyser et simplifier le modèle"
     text: "Examinez le croquis. Repérez les zones de chevauchement ou de complexité, et redessinez le diagramme en réduisant les éléments jusqu'à ce que la solution apparaisse."
+
 ---
 
 "Le livre de la nature est écrit en langue mathématique." Galilée avait l'habitude de dessiner. En observant un lustre osciller dans la cathédrale de Pise, il mesura le temps et dessina l'arc. Chaque onde dans l'eau était notée sous forme de diagramme précis. Dessiner lui permettait de visualiser les lois physiques.

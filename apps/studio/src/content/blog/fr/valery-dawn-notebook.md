@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si j'ai un manque de sommeil chronique et que j'ai du mal à me lever ?"
     answer: "Se lever tôt nécessite de se coucher tôt. Si vous ne pouvez pas vous coucher tôt à cause de votre travail, ne vous forcez pas à vous lever à 4h. Réservez les 30 premières minutes de votre réveil habituel pour l'écriture, avec le même effet d'ancrage."
+
 ---
 
 Paul Valéry, figure majeure du symbolisme français. Pendant 51 ans, il s'est levé à 4h du matin pour écrire à son bureau. Dans le silence précédant l'aube, il a noté le flux de ses pensées. Ces écrits ont formé 261 carnets, base de toute son œuvre. Voyons comment le calme de l'aube dissipe le bruit mental pour libérer des idées pures.

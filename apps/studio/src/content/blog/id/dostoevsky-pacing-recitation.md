@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah berbisik atau membaca dalam hati kurang efektif dibandingkan berbicara lantang?"
     answer: "Berpikir dalam hati tidak memicu kontrol bahasa otak dan umpan balik lisan, jadi Anda harus bersuara sepenuhnya dengan suara jernih untuk mendapatkan sinergi."
+
 ---
 
 Fyodor Dostoevsky, pelopor puncak penggambaran psikologis manusia yang mendalam. Bagaimana narasinya bisa menawarkan vitalitas yang begitu luar biasa? Menurut catatan asisten stenografi dan istrinya Anna, saat menulis, dia berjalan mengitari ruangan seperti orang gila, berteriak dan membacakan monolog seperti karakternya. Temukan rahasia metode unik ini.

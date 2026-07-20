@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Pourquoi Edison tenait-il des billes d'acier pendant ses siestes ?"
     answer: "Au moment où il s'endormait, ses muscles se relâchaient et le bruit de la chute des billes le réveillait, lui permettant de noter les idées hypnagogiques."
+
 ---
 
 Thomas Edison, le roi de l'invention qui a déposé plus de 1 000 brevets ayant transformé le quotidien de l'humanité, de l'ampoule à incandescence au phonographe. Connaissez-vous le rituel de sieste très particulier qu'il utilisait lorsqu'il faisait face à un défi intellectuel majeur ou à un manque d'inspiration ? 💤

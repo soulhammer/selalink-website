@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bietet Gehen einen ähnlichen DMN-Aktivierungseffekt wie Hausarbeit?"
     answer: "Ja, Gehen ist ein starker kreativer Vermittler. Das Gehen im Freien erfordert jedoch das Navigieren im Gelände, das Ausweichen von Hindernissen und das Verarbeiten wechselnder Umgebungen. Hausarbeiten wie Bügeln finden in einem kontrollierten Raum statt und hängen vom vollautomatischen Bewegungsgedächtnis ab. Dies minimiert die präfrontale Beteiligung noch stärker als Gehen und induziert einen tief stabilen DMN-Zustand."
+
 ---
 
 George Balanchine, der legendäre Choreograf, der das Ballett des 20. Jahrhunderts revolutionierte. Angesichts des Drucks, geometrische und innovative Bewegungen zu schaffen, stieß auch er auf mentale Blockaden. Balanchine zwang sich jedoch nicht, dazusitzen und nachzudenken. Stattdessen stand er auf, stellte ein Bügelbrett auf und bügelte Hemden oder wischte Böden. Wir analysieren, wie diese alltägliche Hausarbeitsroutine die kreativen Wege des Gehirns neu verdrahtet, um künstlerische Durchbrüche zu erzielen.

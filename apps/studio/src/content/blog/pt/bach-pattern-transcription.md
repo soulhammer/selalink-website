@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "A transcrição digitada tem o mesmo efeito?"
     answer: "Digitar consiste em repetir a mesma pressão de tecla para todas as letras, o que resulta numa estimulação do lóbulo parietal muito menor em comparação com escrever à mão."
+
 ---
 
 Johann Sebastian Bach, chamado o 'Pai da Música' por completar o contraponto barroco. A sua lógica genial nasceu de um ritual intelectual de toda a vida: o hábito de copiar partituras escritas pelos grandes mestres da sua época com pena todas as noites. Em criança, roubava partituras do escritório do seu irmão para as copiar sob a luz da lua. Para Bach, copiar não era leitura passiva. Era um ritual de impressão cerebral que gravava arranjos matemáticos usando a motricidade fina. Hoje, o BuildSelf partilha o segredo deste ritual para maximizar a sua lógica.

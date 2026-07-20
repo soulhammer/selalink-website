@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Menulis langsung di atas kertas dengan pena merangsang korteks somatosensorik secara kuat, menghasilkan efisiensi pengkodean yang jauh lebih tinggi. Mengetik keyboard cepat tetapi kurang rangsangan taktil kognitif karena setiap penekanan tombol terasa sama. Untuk pembentukan memori jangka panjang yang penting, transkripsi tulisan tangan jauh lebih kuat."
   - question: "Apakah menjelaskan kepada seseorang memicu efek metakognitif meskipun tidak dalam format surat?"
     answer: "Ya. Menurut teori Piramida Pembelajaran, mengajar orang lain adalah metode paling kuat, meningkatkan retensi hingga 90%. Selain surat atau email, menjelaskan kepada diri sendiri di cermin atau mendiskusikannya dengan rekan kerja atau teman semuanya sangat efektif untuk merangsang metakognisi."
+
 ---
 
 Dasan Jeong Yak-yong, cendekiawan besar yang mensintesis ideologi Silhak (pembelajaran praktis) akhir Joseon dan meninggalkan koleksi besar lebih dari 500 jilid tulisan, termasuk Mokmin-simseo dan Gyeongse-yupyo. Karena dijebak secara politik, ia menjalani pengasingan yang lama di sebuah rumah beratap jerami yang menyedihkan di Gangjin selama 18 tahun. Bagaimana ia mengatasi frustrasi dan membangun warisan akademis yang monumental di tempat pengasingan yang mirip dengan penjara?

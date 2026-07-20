@@ -21,6 +21,7 @@ faqs:
     answer: "Esta es una reacción muy normal. En lugar de intentar obligarte a mirar una esfera 3D, comienza sosteniendo la imagen residual de color y forma de un pequeño modelo plano 2D, como un cuadrado naranja o un triángulo blanco, sin agitarlo durante 3 segundos."
   - question: "¿Aumentar la capacidad del cuaderno de bocetos de tu cerebro también te ayudará a organizar tareas y prioridades complejas?"
     answer: "Sí, puedes mostrar virtualmente cinco tarjetas de tareas pendientes para hoy en tu cabeza, clasificar su importancia por tamaño y color y reorganizarlas tridimensionalmente, mejorando tus habilidades de organización de tareas de una manera muy intuitiva."
+
 ---
 
 Stephen Hawking, el físico espacial más grande del siglo XX y un genio científico que representa la historia de la ciencia humana desde Einstein, es un gran físico que descubrió el nacimiento del universo y los secretos de los agujeros negros incluso en medio de la cruel barrera de la parálisis llamada enfermedad de Lou Gehrig. No detuvo su investigación a pesar de las duras barreras físicas que paralizaban todo su cuerpo y le impedían mover ni siquiera un dedo. Incapaz de escribir fórmulas físicas en papel, calculó la enorme estructura del universo virtual y las fórmulas geométricas tridimensionales como objetos tridimensionales en su cabeza. Este imaginativo ejercicio de cuaderno de bocetos sobre el espacio-tiempo fue la fuerza que condujo a grandes conocimientos en física.

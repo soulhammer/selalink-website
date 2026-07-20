@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if a beginner cannot do a headstand at all?"
     answer: "Even if you cannot lean your feet on a wall, you can achieve the same effects of prefrontal blood flow and vestibular stimulation by doing a Dolphin Pose (lifting only your hips toward the sky on a mat) or gentle spine inversions, such as placing your legs on a chair or bed and lowering your upper body toward the floor."
+
 ---
 
 Igor Stravinsky, who shook the 20th-century classical music scene with avant-garde melodies like The Rite of Spring and The Firebird. Behind his amazing musical experiments was a unique physical routine. Whenever he ran out of inspiration or felt heavy-headed while composing, he would do a headstand next to his piano. He believed that going upside down wakes up the brain and changes perspective. Let's explore how this physical inversion sparks creativity.

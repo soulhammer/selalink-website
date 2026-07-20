@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum wechselte Isaac Asimov zwischen mehreren Schreibmaschinen?"
     answer: "Um kognitive Ermüdung und Stress bei Blockaden zu vermeiden, wechselte er zwischen Aufgaben mit völlig anderen Themen, um den Neuheits-Effekt zu nutzen und andere Bereiche der Großhirnrinde zu aktivieren."
+
 ---
 
 Mit über 500 Büchern in verschiedenen Genres war Isaac Asimov ein Meister der Science-Fiction und der führende populärwissenschaftliche Autor seiner Zeit. Hinter der Fähigkeit dieses extrem produktiven Autors, täglich Manuskripte zu verfassen, steckte eine einzigartige Arbeitsgewohnheit. ⌨️

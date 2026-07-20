@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Ist es ungesund, täglich das gleiche Mittagessen zu essen? Wie können wir Schulz' Gewohnheit modern anpassen?"
     answer: "Während Schulz typische Hamburger aß, können moderne Anwender ernährungsphysiologisch ausgewogene Mahlzeiten-Kits, vorbestellte Salate oder 3 rotierende gesunde Menüs nutzen. Das Ziel besteht darin, den kognitiven Auswahlprozess zu eliminieren. Die Vorauswahl von 2 oder 3 gesunden Ernährungsoptionen sichert sowohl die körperliche Gesundheit als auch die Einsparung geistiger Energie."
+
 ---
 
 Peanuts, der beliebte Comic-Strip mit Snoopy und Charlie Brown. Hinter diesem Meisterwerk stand Charles M. Schulz, ein Mann absoluter Routinen, der den Strip 50 Jahre lang ohne Assistenten allein zeichnete und schrieb. Um den kreativen Druck zu bewältigen und Gehirnschmalz zu sparen, standardisierte er seine Tage. Er arbeitete von 9 bis 16 Uhr am selben Schreibtisch und aß mittags genau denselben Hamburger an seinem Zeichentisch. Wir untersuchen, wie diese Routine des immer gleichen Menüs die Analysezentren des Gehirns schützt.

@@ -21,6 +21,7 @@ faqs:
     answer: "Les jours de fatigue intense, il est préférable de remplacer le sport par 10 minutes d'étirements. Le secret de Mandela n'est pas de forcer le corps mais de commencer la journée avec sa propre volonté."
   - question: "Comment un débutant sans force physique doit-il commencer ?"
     answer: "Commencez avec une intensité adaptée : faites des pompes contre le mur ou sur les genoux, et des squats à l'aide d'une chaise. 5 minutes par jour suffisent pour réveiller la volonté du cerveau."
+
 ---
 
 Nelson Mandela, premier président noir d'Afrique du Sud, a passé 27 ans en prison. Son rituel de survie dans sa cellule était l'exercice physique à 5h00 du matin, faisant du surplace et des abdominaux. Cette routine préservait son estime de soi.

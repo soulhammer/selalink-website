@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Can Nabokov's index card method be replicated using digital note tools instead of physical cards?"
     answer: "Yes, absolutely. You can use Kanban boards in Notion, Trello, or digital whiteboards like Miro or FigJam to create cards and drag them around. The core principle is not writing long continuous text at once, but rather modularizing thoughts into movable objects."
+
 ---
 
 Vladimir Nabokov, who showed the peak of 20th-century English literature with elaborate structures in Lolita. Surprisingly, he did not write his novels in chronological order. Instead, he wrote dialogue, descriptions, and plot fragments on 3x5 inch index cards. Nabokov laid these cards on his desk and rearranged them freely, even carrying them in his car or while collecting butterflies. We explore why this modular writing method is a powerful cognitive strategy for complex projects and writing.

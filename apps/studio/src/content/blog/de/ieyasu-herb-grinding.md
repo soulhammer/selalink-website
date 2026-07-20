@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wie hilft das Mahlen der eigenen Medizin, Emotionen zu stabilisieren?"
     answer: "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future."
+
 ---
 
 Tokugawa Ieyasu stellte seine eigenen Medikamente her, indem er Kräuter in einem Mörser zerrieb. Diese manuelle Arbeit verschaffte ihm eine taktile Stimulation, die sein Nervensystem beruhigte.

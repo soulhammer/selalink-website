@@ -21,6 +21,7 @@ faqs:
     answer: "Esconder os erros prolonga a ansiedade. Escrever os fatos e analisar o porquê de uma falha ajuda o cérebro a recuperar o senso de controle, reduzindo o estresse."
   - question: "Existe algum treinamento para captar melhor a serendipidade?"
     answer: "Fazer pequenas mudanças na sua rotina diária é útil. Caminhar por um caminho diferente estimula o cérebro para notar conexões novas."
+
 ---
 
 A penicilina, o primeiro antibiótico que salvou milhões de vidas. Nasceu em um laboratório de alta tecnologia? 🧫

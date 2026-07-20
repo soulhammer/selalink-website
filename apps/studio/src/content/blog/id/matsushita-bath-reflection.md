@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Is it inefficient for busy people to take a bath every day?"
     answer: "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring."
+
 ---
 
 Konosuke Matsushita mandi air hangat dalam waktu lama setiap malam untuk merenungkan keputusan bisnisnya. Kebiasaan ini meningkatkan aliran darah ke otak.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah boleh menggunakan alat digital jika sulit untuk menggambar papan cerita secara manual setiap saat?"
     answer: "Inti dari papan cerita bukanlah keterampilan menggambar, melainkan perencanaan langkah terstruktur dan simulasi perilaku. Menggunakan Figma, Miro, atau aplikasi peta pikiran sederhana untuk mengatur dengan bentuk kotak dan teks sudah sangat cukup untuk mendapatkan manfaat psikologi kognitif yang sama."
+
 ---
 
 Alfred Hitchcock, maestro Inggris terkenal di dunia yang mendefinisikan ulang tata bahasa film thriller dengan menyutradarai film-film suspense abadi seperti 'Psycho', 'Vertigo', dan 'Rear Window'. Dari mana kontrolnya yang luar biasa, memimpin lokasi syuting dengan keyakinan mutlak tanpa keraguan sedikit pun, berasal? 🎬

@@ -21,6 +21,7 @@ faqs:
     answer: "La ficción ligera también alivia el estrés cerebral, pero para producir una 'motivación orientada a valores' que alinee la identidad y despierte la fuerza de voluntad, es mucho mejor elegir epopeyas clásicas, libros de filosofía o biografías que brinden resonancia interna y reflexión."
   - question: "¿Puedo leer libros en un lector electrónico sementara estoy acostado?"
     answer: "Las pantallas de lectores electrónicos o tabletas emiten luz azul, lo que puede confundir al cerebro haciéndole creer que es de día y suprimir la melatonina. Para lograr un mejor effecto de alinhamento subconsciente y sueño profundo, se recomienda leer un libro de papel físico bajo una luz tenue."
+
 ---
 
 Alejandro Magno, coronado a los 20 años, conquistó un vasto imperio. El secreto de su valor estaba bajo su almohada: dormía con la Ilíada de Homero (editada por Aristóteles) y una daga. Leer sobre héroes disipaba sus temores nocturnos.

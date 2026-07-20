@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Beethoven bersikeras menggunakan 60 biji kopi?"
     answer: "Melalui tindakan berulang menghitung 60 biji kopi, ia mengumpulkan energi kognitif sebagai pemicu fokus."
+
 ---
 
 Ludwig van Beethoven, salah satu komposer terbesar dalam sejarah musik Barat yang mengatasi cobaan mematikan berupa kehilangan pendengaran dan menciptakan melodi terbesar dalam sejarah manusia seperti 'Simfoni Takdir' dan 'Simfoni Paduan Suara.' Tahukah Anda ritual unik yang dilakukannya setiap pagi sebelum mulai menggubah lagu? Itu adalah ritual kopi yang tepat dengan menghitung tepat '60 biji.' Beethoven sangat sensitif terhadap rasa & aroma kopi.

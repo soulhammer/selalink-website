@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Rousseau escribía en el reverso de cartas de juego?"
     answer: "No le gustaba llevar cuadernos pesados al monte. Las cartas de juego eran rígidas para escribir de pie y cabían de sobra en sus bolsillos."
+
 ---
 
 Jean-Jacques Rousseau, el gran filósofo francés cuyas ideas inspiraron la Revolución Francesa. En sus últimos años, acosado por la ansiedad, halló alivio en la botánica y el paseo. Cada tarde salía a recolectar plantas silvestres y escribía sus pensamientos en el reverso de cartas de juego. Estas notas formaron su obra *Las ensoñaciones del paseante solitario*. Conozcamos los efectos de esta rutina.

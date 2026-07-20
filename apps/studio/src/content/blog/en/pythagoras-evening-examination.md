@@ -21,6 +21,7 @@ faqs:
     answer: "Falling asleep is fine, but you can try sitting at a desk and writing for just 5 minutes before getting in bed to prevent dropping off immediately."
   - question: "What should I do if self-blame keeps me awake?"
     answer: "Stop the process immediately if rumination starts. Simply write down one single action to take tomorrow, and consciously close the book."
+
 ---
 
 Pythagoras, the giant of mathematics and geometry, led a school seeking harmony and self-control. Their core rule was the evening self-examination. In the 'Golden Verses,' they asked three questions before sleep: 'What did I do wrong?', 'What good did I do?', and 'What did I omit?'. We analyze Pythagoras's evening self-examination routine.

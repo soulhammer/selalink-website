@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Do I have to pick up trash, or can I just walk?"
     answer: "Just walking helps DMN activation, but combining it with the altruistic act of picking up trash and 'organizing environment' triggers higher satisfaction dopamine and serotonin."
+
 ---
 
 Director Hayao Miyazaki, who became a legend in animation history, releasing works like 'My Neighbor Totoro' and 'Spirited Away.' He has a unique routine he's followed every morning for decades: wearing an apron and walking around the neighborhood river and trails, picking up litter. What is the secret of the master picking up trash himself?

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Quelles activités tactiles modernes peuvent remplacer le rouet ?"
     answer: "Toute activité rythmée mobilisant la motricité fine convient. Écrire au stylo-plume, tricoter, la cérémonie du thé, assembler des Lego ou des puzzles, ou pianoter avec les doigts produisent le même effet stimulant sur la sérotonine."
+
 ---
 
 Le Mahatma Gandhi, père de l'Inde qui a mené son pays à l'indépendance par la non-violence et a légué un grand message de paix. D'où venaient la patience surhumaine et la paix intérieure inébranlable de ce leader ? La réponse réside dans le rituel matinal qu'il a observé avec rigueur toute sa vie.

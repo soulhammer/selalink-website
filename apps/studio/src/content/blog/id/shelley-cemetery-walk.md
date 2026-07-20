@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Mary Shelley memilih makam ibunya secara khusus?"
     answer: "Ibunya meninggal sesaat setelah melahirkannya. Makam tersebut menjadi satu-satunya hubungan fisik dengan ibunya, memicu renungan tentang hidup dan mati."
+
 ---
 
 Mary Shelley, novelis Inggris terkenal yang memelopori genre fiksi ilmiah melalui mahakaryanya *Frankenstein*. Sejak kecil, Mary terbiasa mengunjungi makam ibunya untuk membaca dan berpikir. Bagi dirinya, pemakaman atau reruntuhan sejarah adalah tempat yang tenang untuk merenungi hidup. Ulas sains di balik lingkungan khidmat.

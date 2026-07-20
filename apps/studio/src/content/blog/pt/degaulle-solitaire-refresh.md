@@ -21,6 +21,7 @@ faqs:
     answer: "Os aplicativos compartilham as regras, mas o brilho da tela, anúncios e notificações mantêm o cérebro em alerta. Usar ferramentas físicas é muito superior para relaxar."
   - question: "Não causa estresse se as cartas ficarem travadas e não puderem ser ordenadas?"
     answer: "O objetivo não é 'ganhar', mas o 'desvio de atenção'. Mesmo se travar, o processo de mover as cartas já relaxou a mente. Simplesmente embaralhe de novo e comece outra vez."
+
 ---
 
 Charles de Gaulle liderou a 'França Livre' e fundou a França moderna. Sob constante pressão, como gerenciava o estresse? 🃏

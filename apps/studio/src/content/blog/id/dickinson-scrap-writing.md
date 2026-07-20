@@ -21,6 +21,7 @@ faqs:
     answer: "Pada prinsipnya, informasi taktil fisik dari menulis di atas kertas merangsang jaringan kognitif otak secara lebih kuat. Namun, jika Anda menggunakan aplikasi memo ponsel dengan memblokir notifikasi dan dapat membukanya dalam 3 detik untuk mencatat, memo digital juga merupakan alternatif yang sangat baik untuk mencegah hilangnya inspirasi."
   - question: "Apakah melakukan pekerjaan rumah tangga dengan teliti dan penuh konsentrasi lebih baik untuk kreativitas?"
     answer: "Tidak. Efek inkubasi yang memicu kreativitas dimaksimalkan saat otak menghentikan upaya sadar dan melamun (aktivasi DMN). Oleh karena itu, inspirasi paling segar muncul saat Anda melakukan pekerjaan rumah tangga yang familiar dan tidak memerlukan konsentrasi detail dalam kondisi setengah tidak sadar."
+
 ---
 
 Emily Dickinson, salah satu penulis paling orisinal dan misterius dalam sejarah sastra Amerika abad ke-19. Ia hidup menyendiri, jarang meninggalkan rumahnya, dan menulis lebih dari 1.800 puisi yang luar biasa. Tempat di mana ia terus-menerus menarik dan mencatat inspirasi seni yang berkilauan adalah dapur di malam hari.

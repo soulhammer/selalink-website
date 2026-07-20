@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Cómo puedo crear una zona que bloquee los estímulos si no tengo un estudio independiente o una habitación en casa?"
     answer: "Incluso sin una habitación física, puede bloquear suficientemente los estímulos visuales y auditivos colocando un panel divisorio en una esquina del escritorio o utilizando auriculares con cancelación de ruido para establecer una barrera de aislamiento virtual."
+
 ---
 
 Simplemente, Iván Pávlov, el gran fisiólogo que ganó el primer Premio Nobel de Fisiología o Medicina de Rusia al descubrir los patrones de aprendizaje y comportamiento a través de la observación de la salivación de los perros. ¿Cómo surgieron sus precisas observaciones que captaron el mecanismo de aprendizaje subconsciente de los animales? 🔔

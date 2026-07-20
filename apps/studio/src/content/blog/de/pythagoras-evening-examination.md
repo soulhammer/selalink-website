@@ -21,6 +21,7 @@ faqs:
     answer: "Einschlafen ist in Ordnung, aber Sie können versuchen, sich an einen Schreibtisch zu setzen und vor dem Schlafengehen nur 5 Minuten lang zu schreiben, um ein sofortiges Wegnicken zu verhindern."
   - question: "Was soll ich tun, wenn Selbstbeschuldigung mich wach hält?"
     answer: "Brechen Sie den Vorgang sofort ab, wenn das Grübeln beginnt. Schreiben Sie einfach eine einzige Aktion auf, die Sie morgen tun wollen, und schließen Sie das Buch bewusst."
+
 ---
 
 Pythagoras, der Riese der Mathematik und Geometrie, leitete eine Schule, die nach Harmonie und Selbstkontrolle strebte. Ihre Kernregel war die abendliche Selbstprüfung. In den 'Goldenen Versen' stellten sie sich vor dem Schlafen drei Fragen: 'Was habe ich falsch gemacht?', 'Was habe ich Gutes getan?' und 'Was habe ich unterlassen?'. Wir analysieren seine Routine.

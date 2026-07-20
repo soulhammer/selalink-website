@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, l'acétaldéhyde libéré par la fermentation modifie temporairement la respiration et procure un stimulus particulier, tandis que le signal olfactif envoie un message d'éveil immédiat au système limbique."
   - question: "Quelles odeurs sont recommandées pour l'ancrage olfactif moderne ?"
     answer: "Le romarin, qui favorise la concentration et la vigilance, ou la menthe poivrée et l'eucalyptus, qui luttent contre la fatigue, sont recommandés. Les agrumes (citron) ont également des effets positifs prouvés."
+
 ---
 
 Friedrich Schiller, le grand poète et dramaturge qui a mené l'âge d'or de la littérature classique allemande aux côtés de Johann Wolfgang von Goethe. Ses pièces 'Les Brigands' et 'Guillaume Tell' ont marqué l'histoire. Pourtant, un secret très étrange et nauséabond se cachait dans le tiroir du bureau où sont nés ces chefs-d'œuvre. 🍎

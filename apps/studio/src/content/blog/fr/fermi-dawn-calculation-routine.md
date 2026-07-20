@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si je ne parviens pas à rester concentré pendant 2 heures sans me dissiper ?"
     answer: "Si 2 heures, c'est trop long, divisez cette session en deux blocs : 50 minutes de concentration profonde suivies de 10 minutes d'étirements. Ne regardez pas votre téléphone pendant la pause de 10 minutes."
+
 ---
 
 Enrico Fermi, le légendaire physicien qui a conçu le premier réacteur nucléaire au monde, maîtrisait à la fois la physique théorique et expérimentale. Alors que d'autres scientifiques se perdaient dans les calculs, Fermi trouvait les réponses avec facilité. Le secret de sa productivité résidait dans sa routine matinale : se réveiller à 5h30 pour calculer dans son bureau pendant 2 heures dans un silence absolu avant de se rendre à son laboratoire à 8h30. Nous explorons les neurosciences de la protection de l'heure d'or.

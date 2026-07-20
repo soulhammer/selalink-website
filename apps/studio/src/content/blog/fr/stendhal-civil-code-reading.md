@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Cela aide-t-il même lors de la rédaction d'histoires émotionnelles ou de textes marketing ?"
     answer: "Pour la rédaction publicitaire ou la narration émotionnelle, remplacez les textes juridiques par des textes publicitaires de qualité ou de la prose évocatrice que vous souhaitez imiter. Le cœur de la méthode de Stendhal est l'amorçage conscient."
+
 ---
 
 Stendhal, célèbre pour Le Rouge et le Noir, est réputé pour sa prose objective et transparente qui a capturé les complexités de l'ambition humaine. À une époque saturée de romantisme fleuri, Stendhal insistait sur la précision mathématique dans ses phrases. Sa routine matinale secrète avant d'écrire consistait à lire quelques pages du Code civil napoléonien. Nous analysons comment Stendhal a utilisé des textes juridiques secs et logiques pour préparer son cerveau, éliminant le superflu rhétorique et aiguisant son sens analytique.

@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, das freigesetzte Acetaldehyd beeinflusst kurzfristig den Sauerstoffgehalt und die Atmung, was einen Reiz darstellt. Zudem aktivierte das Geruchssignal direkt das limbische System."
   - question: "Welche Düfte werden für das moderne Aroma-Anchoring empfohlen?"
     answer: "Rosmarin, das nachweislich die Konzentration fördert, oder Pfefferminze und Eukalyptus zur Verringerung von Müdigkeit werden am meisten empfohlen. Zitrone hat ebenfalls positive Effekte gezeigt."
+
 ---
 
 Friedrich Schiller, der große Dichter und Dramatiker, der gemeinsam mit Johann Wolfgang von Goethe die Blütezeit der Weimarer Klassik prägte. Seine Stücke 'Die Räuber' und 'Wilhelm Tell' gingen in die Weltliteratur ein. Doch in der Schreibtischschublade, an der diese Meisterwerke entstanden, verbarg sich ein seltsames, stechendes Geheimnis. 🍎

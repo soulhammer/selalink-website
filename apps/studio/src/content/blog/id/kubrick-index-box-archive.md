@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bisakah saya menggunakan aplikasi digital seperti Notion atau Obsidian alih-alih kartu fisik?"
     answer: "Ya, alat digital seperti Notion atau Obsidian sangat baik untuk membangun otak kedua. Mediumnya kurang penting dibandingkan dengan mematuhi prinsip modular: batasi setiap catatan pada satu konsep saja, dan hubungkan catatan secara aktif."
+
 ---
 
 Stanley Kubrick, sutradara legendaris Amerika di balik mahakarya seperti 2001: A Space Odyssey dan The Shining, terkenal karena kesempurnaan ekstrem dan riset mendalamnya. Untuk mengelola dokumen sejarah yang sangat banyak, foto lokasi, dan ide naskah, Kubrick mengembangkan sistem pengindeksan. Dia menulis catatan dan menyusun ide pada kartu indeks berukuran 3x5 inci, mengajukannya secara sistematis dalam kotak kayu buatan khusus. Kami menganalisis bagaimana memindahkan data dari otak ke kartu fisik memungkinkan Kubrick menjaga kejelasan kreatif.

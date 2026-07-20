@@ -21,6 +21,7 @@ faqs:
     answer: "Sie können stattdessen über 30 Minuten ohne Smartphone in einem Stadtpark spazieren gehen. Der Schlüssel liegt in der Anregung der Sinne und der Förderung der Durchblutung durch Aktivität im Freien."
   - question: "Gibt es Tipps, um Ideen, die beim Wandern entstehen, sofort festzuhalten?"
     answer: "Wir empfehlen, ein kleines Notizbuch und einen Stift in der Tasche zu tragen, um Stichworte festzuhalten, oder Sprachnotizen zu verwenden."
+
 ---
 
 Werner Heisenberg, Entdecker der Unbestimmtheitsrelation. 1925 zog er sich bei einer Schreibblockade in die bayerischen Alpen zurück, um tagelang zu wandern. Die Lösung fand er mitten in den Tannenwäldern. Kognitionspsychologisch regeneriert Naturwandern die Aufmerksamkeit (Attention Restoration Theory) und ordnet komplexe Gedanken.

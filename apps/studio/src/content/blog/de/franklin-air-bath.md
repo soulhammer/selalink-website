@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Hilft ein Luftbad (Air Bath) wirklich, Erkältungen vorzubeugen?"
     answer: "Ja, die Haut kühler Luft auszusetzen, stärkt die Widerstandsfähigkeit gegen Temperaturschwankungen und reguliert das Immunsystem."
+
 ---
 
 Die Persönlichkeit auf der US-100-Dollar-Note, der geniale Erfinder des Blitzableiters und Benjamin Franklin, der für sein konsequentes Selbstmanagement bekannt war. Kennen Sie die einzigartige und bizarre Methode, die er jeden Morgen nach dem Aufstehen praktizierte? 💨

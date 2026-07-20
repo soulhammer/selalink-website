@@ -21,6 +21,7 @@ faqs:
     answer: "Kecemasan meningkat ketika pikiran Anda berfokus pada skenario kegagalan. Hentikan visualisasi, fokuskan diri pada sentuhan fisik atau suara napas, dan lakukan peregangan untuk rileks."
   - question: "Berapa durasi ideal untuk sesi latihan mental?"
     answer: "Buat tetap singkat – 3 hingga 5 menit perendaman fokus adalah hal yang ideal. Memori kerja prefrontal terbatas, jadi simulasi cepat tepat sebelum acara memberikan hasil terbaik."
+
 ---
 
 Ayrton Senna, salah satu pembalap F1 terhebat dalam sejarah, memiliki rutinitas mental yang intens di samping pelatihan fisik. Beberapa menit sebelum balapan, ia duduk di kokpit dengan helm terpasang, mata terpejam, dan sepenuhnya diam. Di dalam pikirannya, balapan telah dimulai, menyimulasikan setiap tikungan, pergantian gigi, dan titik pengereman.

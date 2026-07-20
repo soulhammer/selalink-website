@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, c'est un risque réel. Pour l'éviter, fixez une limite de temps distincte pour la création et la correction. Limitez par exemple la phase d'affinage à 3 heures ou 5 relectures au maximum."
   - question: "À quel moment faut-il arrêter de corriger et valider la version ?"
     answer: "L'intuition est utile, mais le bon indicateur est le moment où les modifications n'apportent plus de valeur ajoutée sensible (loi des rendements décroissants). Quand les retouches n'impactent plus la qualité, validez le projet."
+
 ---
 
 Frédéric Chopin, surnommé le 'poète du piano' pour avoir mené son instrument aux sommets du romantisme. Ses nocturnes et ballades semblent libres et légers. Pourtant, cette apparente fluidité masquait une rigueur et un perfectionnisme obsessionnel lors de la composition.

@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, dalam surat-surat pribadinya kepada keluarga..."
   - question: "Apakah mandi air dingin lebih efektif daripada rendam kaki air dingin?"
     answer: "Mandi air dingin lebih efektif..."
+
 ---
 
 Thomas Jefferson, penulis utama Deklarasi Kemerdekaan dan Presiden ketiga Amerika Serikat. Terkenal karena kesehatannya yang prima...

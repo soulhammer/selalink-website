@@ -21,6 +21,7 @@ faqs:
     answer: "Mudar de ambiente físico ajuda a clarear o foco. Se não for possível, mude a disposição das cadeiras ou use canetas de cores diferentes para indicar a mudança de fase ao cérebro."
   - question: "O que fazer se a crítica for muito dura e anular a ideia?"
     answer: "O Crítico deve buscar melhorias e correções, e não descartar o projeto. Foque em resolver os riscos apontados para tornar a ideia viável."
+
 ---
 
 Walt Disney construiu um império da animação transformando sonhos em realidade. Sua criatividade vinha de um sistema único de pensamento, refinando fantasias em projetos reais.

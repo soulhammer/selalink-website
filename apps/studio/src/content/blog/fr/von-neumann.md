@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, limiter le champ d'attention et entrer dans une concentration complexe grâce à un rythme énergique mêlé de bruit."
   - question: "Comment puis-je remplacer le phonographe si je n'en ai pas ?"
     answer: "Écouter un bruit blanc rapide, des sons d'ambiance mécanique ou de la musique rythmée au casque produit le même effet."
+
 ---
 
 John von Neumann, la personne la plus intelligente de l'histoire de l'humanité et un mathématicien de génie hongrois qui a conçu à lui seul les fondements des études humaines modernes (théorie des jeux, architecture de Neumann) dans tous les domaines, y compris les mathématiques, l'informatique, l'économie et la mécanique quantique. Il était capable de dériver sans difficulté des formules mathématiques complexes et des formules d'architecture informatique, même assis dans un coin d'une fête avec de la musique forte ou sur un banc dans une salle d'attente bruyante où un train tremblait et de la vapeur émettait de la vapeur. Aussi bruyant que soit son environnement, il isolait ses ressources cognitives uniquement sur le tableau virtuel construit dans sa tête. Cette routine d’isolement et d’immersion dans le bruit blanc a fait de lui le plus grand mathématicien de génie de l’histoire.

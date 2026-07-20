@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Comment les professionnels pressés par le temps peuvent-ils raccourcir la routine de Martin de manière pratique ?"
     answer: "Vous n'avez pas besoin de rester assis pendant des heures. S'accorder une « pause intentionnelle » de seulement 3 à 5 minutes avant de commencer à travailler suffit. Avant de démarrer votre ordinateur, fermez les yeux et prenez trois respirations profondes, en vous demandant : « Quelle est la tâche la plus essentielle que je doive accomplir aujourd'hui ? » Ce court laps de temps permet d'obtenir le réglage métacognitif souhaité."
+
 ---
 
 Agnes Martin, la maîtresse des peintures à grille minimalistes. Pour maintenir sa créativité sous le regard du public, elle pratiquait un rituel matinal extrêmement statique. Elle s'asseyait tranquillement dans un rocking-chair devant une toile vierge, attendant des heures que tous ses désirs et ses projets se dissipent. Ce n'est que lorsqu'une vision claire apparaissait qu'elle prenait son pinceau. Nous examinons comment cette routine de nettoyage mental prépare le cerveau à une intuition de haut niveau.

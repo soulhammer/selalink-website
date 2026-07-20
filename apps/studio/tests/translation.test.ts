@@ -20,7 +20,7 @@ const langMapping: Record<string, string> = {
 };
 
 const locales = Object.keys(langMapping);
-const latinLanguages = ['deu', 'eng', 'spa', 'fra', 'por', 'ita', 'lat', 'ind', 'zlm', 'jav', 'mad', 'ilo', 'tgl', 'msa'];
+const latinLanguages = ['deu', 'eng', 'spa', 'fra', 'por', 'ita', 'lat', 'ind', 'zlm', 'jav', 'mad', 'ilo', 'tgl', 'msa', 'nld'];
 
 // 공통 화이트리스트 단어군 (번역 제외하고 그대로 노출되어야 하는 약어, 인명, 브랜드명 등)
 const globalWhitelist = [

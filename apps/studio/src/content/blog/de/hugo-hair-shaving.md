@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, 1830 rasierte sich Hugo angesichts einer Frist für „Der Glöckner von Notre-Dame“ die Hälfte der Haare und des Bartes, sperrte seine Ausgehkleidung weg und konzentrierte sich ganz auf das Schreiben, um nicht ausgehen zu können."
   - question: "Welche modernen Hürden kann ich nutzen, ohne mir die Haare zu rasieren?"
     answer: "Sie können eine Box mit Zeitschloss nutzen, um Ihr Telefon für einige Stunden wegzusperren, oder ein Benutzerkonto einrichten, das den Webbrowser blockiert."
+
 ---
 
 Victor Hugo, der berühmte französische Schriftsteller, der „Les Misérables“ und „Der Glöckner von Notre-Dame“ verfasste. Als er vor einer extremen Frist stand, griff er zu einer drastischen Maßnahme: Er rasierte sich die Hälfte seiner Haare und seines Bartes ab und schloss sich ein. Aufgrund seines Aussehens konnte er nicht ausgehen und beendete das Werk rechtzeitig. Heute zeigt BuildSelf, wie physische Schranken den Fokus erzwingen.

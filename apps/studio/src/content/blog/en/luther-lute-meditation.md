@@ -21,6 +21,7 @@ faqs:
     answer: "It is enough to spend 5 minutes focusing on the sound of simple instruments like singing bowls, tongue drums, or kalimbas. The essence is providing a judgment-free creative safe zone for the brain."
   - question: "Can passive music listening achieve the same effect as playing an instrument?"
     answer: "Playing an instrument actively coordinates fine motor control and physical feedback (vibrations), which stimulates the motor cortex and prefrontal attention networks far more than passive listening."
+
 ---
 
 The theologian who sparked the Reformation by pinning the 95 Theses on the door of the Wittenberg Castle Church, Martin Luther. Since Luther stood alone against the strongest authority of the Catholic Church, his daily life was a battlefield filled with excommunication threats, assassination risks, and endless debates. Plagued by chronic stomach issues and extreme panic, the force that saved his mental state and drove his Bible translation work was picking up the 'Lute' and plucking its strings every morning. After morning prayer, he cleansed his mind of anxiety and fear. We dissect how the physical vibrations of music relax the brain's tension.

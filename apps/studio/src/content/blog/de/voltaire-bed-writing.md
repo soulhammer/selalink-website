@@ -21,6 +21,7 @@ faqs:
     answer: "Während Morgenseiten nach dem Waschen des Gesichts oder dem Hinsetzen geschrieben werden, wenn der Verstand teilweise aktiv ist, zielt Voltaires Schreiben im Bett auf die Lücke im Gehirn während der Schlafträgheit vor dem physischen Aufstehen ab. Es fängt unterbewusste Metaphern und kreative Gedanken in ihrem reinsten Zustand ein."
   - question: "Was soll ich tun, wenn mir morgens im Bett nichts einfällt, worüber ich schreiben könnte?"
     answer: "Es gibt absolut keine Notwendigkeit, großartige Ideen zu schreiben. Sie können einfach jedes kleine Fragment aufschreiben, das Ihnen durch den Kopf geht, wie ein schlechtes Erlebnis von gestern, den Ärger über die Aufgaben des Tages oder zufällige Wortlisten. Das Ziel ist es, den Hemmungsfilter des Gehirns zu lockern."
+
 ---
 
 Voltaire, das Symbol der europäischen Aufklärungsbewegung des 18. Jahrhunderts, hinterließ unzählige Romane, Tragödien und historische Texte. Wo nahmen seine scharfen Kritiken und brillanten humanistischen Ideen jeden Morgen ihren Anfang? ✍️

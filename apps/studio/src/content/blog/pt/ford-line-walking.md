@@ -21,6 +21,7 @@ faqs:
     answer: "As telas digitais não têm o atrito do papel, reduzindo o estímulo tátil. Escrever no papel oferece resistência física que estimula o córtex e favorece uma descarga cognitiva profunda, sendo preferível o uso de papel real."
   - question: "É eficaz apenas sentar-se e desenhar sem caminhar antes?"
     answer: "Desenhar sentado ajuda, mas combinar o ato com caminhada e seguimento visual melhora o resultado. Caminhar aumenta o fluxo sanguíneo cerebral e a alerta, enquanto seguir objetos com os olhos ativa redes cerebrais, otimizando o raciocínio lógico."
+
 ---
 
 Henry Ford, o gigante automotivo que construiu o histórico sistema de produção em massa em linha de montagem. De onde vinham suas inspirações estruturais? 🚗

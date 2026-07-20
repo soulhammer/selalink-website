@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, limpiar lentes antes de comenzar el trabajo le da al cerebro una señal de orden cognitivo, maximizando el enfoque."
   - question: "¿Cómo puedo sustituir este hábito si no tengo microscopios o paños de limpieza?"
     answer: "Limpiar el monitor con un paño de microfibra, organizar el escritorio o limpiar la pantalla del móvil antes del trabajo produce el mismo efecto."
+
 ---
 
 Louis Pasteur, un pionero absoluto de la medicina y la microbiología modernas y un genio químico francés que fue pionero en las vacunas, salvó a la humanidad del miedo a las enfermedades infecciosas al inventar la pasteurización y las vacunas contra el ántrax y la rabia. Se sentó en el escritorio de su laboratorio y miró inmóvil durante horas un matraz de cultivo bajo la lupa de un microscopio. Dibujó y registró meticulosamente en su cuaderno las diminutas huellas de temblor que dejan los microorganismos a medida que proliferan. Su método de desinfección y descubrimiento de la vacuna nacieron de esta rutina de retroalimentación observacional mientras miraba el matraz.

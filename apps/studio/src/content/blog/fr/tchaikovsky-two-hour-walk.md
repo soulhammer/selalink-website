@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Pourquoi Tchaïkovski respectait-il une promenade de 2 heures ?"
     answer: "Cela a commencé comme une superstition, mais 2 heures de marche augmentaient le flux sanguin cérébral, apportant l'inspiration."
+
 ---
 
 Piotr Ilyitch Tchaïkovski, le légendaire compositeur qui a élevé la musique romantique russe à un niveau mondial avec des chefs-d'œuvre comme « Le Lac des cygnes », « Casse-Noisette » et la « Symphonie Pathétique ». Il maintenait un emploi du temps incroyablement strict, divisant ses séances de composition entre le matin et l'après-midi. En particulier, il sortait se promener pendant exactement deux heures chaque après-midi. Il croyait si fermement à cette routine qu'il craignait que l'écourter même de quelques minutes ne le rende malade physiquement ou ne tarisse son inspiration. Les thèmes musicaux qui lui venaient à l'esprit pendant ses promenades étaient immédiatement notés sur un petit carnet qu'il gardait toujours sur lui. Aujourd'hui, BuildSelf montre comment une marche quotidienne stimule vos pensées créatives.

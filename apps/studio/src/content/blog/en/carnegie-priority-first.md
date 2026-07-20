@@ -21,6 +21,7 @@ faqs:
     answer: "Unless it is an immediate crisis, most 'urgent-looking' emails or messages can wait for 1-2 hours without major disruption. The key is to establish at least 1 hour of your own 'frontal lobe protection time' at the very beginning of the morning."
   - question: "What if the hardest task is too massive to finish in a single day?"
     answer: "If a task is too big, the brain feels pressured and tries to avoid starting. In this case, divide the massive task into smaller action units that can be finished in 1 hour this morning, and tackle one split chunk as your first project."
+
 ---
 
 Andrew Carnegie, the steel king who consolidated America's vast steel industry, accumulated colossal wealth, and became one of history's greatest philanthropists alongside Rockefeller. What was the secret of his business productivity and decision-making? 🏗️

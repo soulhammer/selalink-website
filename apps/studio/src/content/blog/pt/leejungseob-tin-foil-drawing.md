@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Por que desenhar no papel de alumínio alivia o estresse?"
     answer: "A fricção e o som ao raspar o papel de alumínio preenchem o feedback somatossensorial, bloqueando a ansiedade ao ancorar a atenção no presente tátil-visual."
+
 ---
 
 Lee Jung-seob, o lendário mestre da pintura ocidental moderna na Coreia, sofreu extrema pobreza durante a Guerra da Coreia. Sem dinheiro para telas, ele recolheu maços de cigarro abandonados para desenhar no papel de alumínio. 🐂

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah pembelajaran perencanaan kreatif yang kualitatif juga dapat dicatat dengan indikator kuantitatif seperti jumlah kata atau waktu?"
     answer: "Untuk perencanaan kreatif, alih-alih jumlah kata, Anda dapat menerapkan umpan balik secara efektif dengan mendefinisikan unit output berharga Anda sendiri seperti 'jumlah ide kunci yang diperoleh', 'jumlah referensi bagus yang dikumpulkan', atau 'jumlah bab outline terperinci yang dibuat'."
+
 ---
 
 B. F. Skinner, psikolog genius Amerika yang mendirikan paradigma behaviorisme, mengklaim kehendak bebas manusia adalah produk dari pengondisian perilaku. Sebagai ilmuwan yang mempelajari mekanisme untuk mengubah perilaku orang lain, bagaimana dia mengelola produktivitas kreatifnya sendiri? 📈

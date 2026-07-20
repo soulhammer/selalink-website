@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Doyle pratiquait-il vraiment le cricket et la boxe à haut niveau ?"
     answer: "Oui, Doyle jouait au cricket au Marylebone Cricket Club et boxait. Il a même été arbitre de boxe et s'est inspiré de son sport pour les combats de Sherlock."
+
 ---
 
 Sir Arthur Conan Doyle, le médecin et écrivain qui a créé le détective le plus célèbre de l'histoire, Sherlock Holmes. Tout en concevant l'esprit vif de Sherlock, Doyle restait très actif. C'était un athlète accompli qui boxait, jouait au cricket et au football. Il pensait que si le corps ralentissait, l'esprit stagnait. Découvrez comment le sport stimule le BDNF.

@@ -16,6 +16,7 @@ steps:
     text: "Écrivez la phrase sur un carton et collez-la en hauteur, comme sur le haut de votre écran ou au plafond. Le but est de forcer votre regard vers le haut."
   - name: "Regarder vers le haut et réfléchir 15 secondes"
     text: "Lorsque vous vous sentez bloqué, inclinez-vous, levez la tête et lisez la phrase pendant 15 secondes. Laissez votre cerveau se détacher du problème pour calibrer votre logique."
+
 ---
 
 "Celui qui ne regarde pas en avant reste en arrière." Michel de Montaigne s'est retiré à 38 ans dans sa bibliothèque. Sur les poutres en bois, il a gravé 57 maximes grecques et latines. Assis dans son fauteuil, il regardait ces phrases pour briser ses préjugés, ce qui lui a permis d'écrire ses Essais.

@@ -21,6 +21,7 @@ faqs:
     answer: "It was a unique addressing system that drew a grid with the combination of alphabets (A-Z) and vowels (a, e, i, o, u) on the front page of the notebook, and wrote page numbers corresponding to specific keywords (e.g., 'Epistola' in the 'i' slot of E) in the grid slots to make cross-searching easy."
   - question: "Are analog notebooks more beneficial for knowledge digestion than digital methods?"
     answer: "Handwriting strongly stimulates the brain's cognitive control network and is advantageous for short-term encoding. However, digital methods are fast in search and link and have no data loss risk, so choosing a tool fit for your style or combining both is best."
+
 ---
 
 John Locke, the giant of Enlightenment philosophy who laid the philosophical foundation of parliamentary democracy and became the basic idea of the American Declaration of Independence. How did he, who argued that the human mind is like a blank sheet of paper with no records at birth, tabula rasa, fill his blank canvas with great knowledge? 📰

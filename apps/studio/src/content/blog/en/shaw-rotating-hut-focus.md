@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if I live in a shared flat and cannot create a physical separate room?"
     answer: "If physical separation is impossible, construct an acoustic barrier with noise-canceling headphones playing low-frequency pink noise. Additionally, put a small Do Not Disturb sign on your desk, or adjust your schedule to wake up 2 hours before others, capturing the early morning silence as your cognitive sanctuary."
+
 ---
 
 George Bernard Shaw, the brilliant Irish playwright and critic, was famously sharp-tongued, but in his working routine, he was incredibly disciplined. To prevent interruptions from friends and callers, he built a tiny wooden writing shed at the bottom of his garden in Ayot St Lawrence. The hut sat on a revolving steel chassis, allowing Shaw to push it manually to track the sun as it moved through the sky, filling his workspace with daylight. To evade unannounced guests, he told his staff to tell callers he had gone to London. We examine the psychology of this dedicated isolation combined with daylight tracking.

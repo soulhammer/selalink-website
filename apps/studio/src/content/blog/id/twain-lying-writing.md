@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah bekerja di tempat tidur tidak membuat mengantuk atau malas?"
     answer: "Bisa saja. Oleh karena itu, rutinitas ini bukan sekadar berbaring, melainkan menyangga tubuh bagian atas dengan bantal untuk mempertahankan kondisi 'relaksasi yang waspada'. Singkirkan gangguan seperti ponsel."
+
 ---
 
 Mark Twain, yang membuka cakrawala unik dalam sastra Amerika dengan novel 'Petualangan Tom Sawyer' dan 'Petualangan Huckleberry Finn,' dikenal sebagai salah satu humoris terbesar dalam sejarah. Anehnya, humornya yang tajam dan deskripsinya yang hidup lahir di tempat yang paling nyaman dan tampaknya malas: 'tempat tidur' yang hangat.

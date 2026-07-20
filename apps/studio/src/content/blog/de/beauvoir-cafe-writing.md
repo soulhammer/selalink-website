@@ -21,6 +21,7 @@ faqs:
     answer: "Im kalten Paris der 1940er Jahre war das Café de Flore geheizt und bot Künstlern ein angenehmes Umfeld, in dem sie stundenlang sitzen durften. Daher wurde es zu ihrem bevorzugten Arbeitsplatz."
   - question: "Kann man dieses Startritual auch im Homeoffice anwenden?"
     answer: "Natürlich. Auch im Homeoffice können Sie denselben Effekt erzielen, indem Sie eine bestimmte Lampe einschalten, eine Tasse nur für die Arbeit nutzen und dasselbe Hintergrundgeräusch abspielen."
+
 ---
 
 Simone de Beauvoir, die französische Philosophin und Autorin des wegweisenden Werks 'Das andere Geschlecht'. Ihre Konzentration entstand nicht in einem abgeschlossenen Arbeitszimmer, sondern in einer Ecke des Café de Flore in Paris. ☕

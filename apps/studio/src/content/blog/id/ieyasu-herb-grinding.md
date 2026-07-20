@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana aktivitas menggiling obat sendiri membantu menstabilkan emosi?"
     answer: "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future."
+
 ---
 
 Tokugawa Ieyasu menyiapkan obat-obatannya sendiri dengan menumbuk bahan di lesung. Kebiasaan manual ini memberikan stimulasi taktil yang menenangkan sistem sarafnya.

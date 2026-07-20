@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, il est plus efficace de pratiquer l'écriture associative juste après le réveil, lorsque le subconscient est encore actif."
   - question: "Comment puis-je remplacer les cartes de mots si je n'en ai pas ?"
     answer: "Vous pouvez y substituer le choix de mots au hasard dans un livre ou l'utilisation d'un générateur de mots en ligne."
+
 ---
 
 Le romancier américain Ray Bradbury, parrain de la littérature de science-fiction (SF) moderne et maître qui a prédit les limites de la civilisation scientifique et technologique grâce à sa sensibilité poétique unique, a écrit des chefs-d'œuvre tels que Fahrenheit 451 en utilisant chaque matin une routine d'histoire composée de 10 associations de mots impromptues. Dès qu'il ouvrait les yeux chaque matin, il se rendait à son bureau et écrivait 10 mots aléatoires (par exemple sable, cendres, cloche, moteur, nuage, etc.) sur une feuille de papier vierge. Il a regardé chaque mot pendant une minute, puis a forcé les mots à se combiner dans son cerveau, créant chaque jour une association d'histoires courtes, ultra-courtes. Cette routine a été le berceau de la créativité qui a conduit à ses chefs-d'œuvre de science-fiction.

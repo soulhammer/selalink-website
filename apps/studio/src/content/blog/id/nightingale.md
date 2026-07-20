@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, ada hubungan yang mendalam. Ketika otak mengontrol lingkungan mikroskopis di sekitar saya (pencahayaan meja, kebersihan) dan menuliskan hasil kontrol sebagai data visual, otak mengeluarkan dopamin 'self-efisiensi' di lobus frontal untuk menenangkan kecemasan."
   - question: "Apakah cara kerjanya sama untuk mengatur lingkungan digital seperti email atau messenger?"
     answer: "Ya, organisasi digital, seperti membuang tiga file sementara yang terfragmentasi di desktop ke tempat sampah dan menuliskan jumlah target utama email yang akan diproses hari ini (misalnya, tersisa lima email yang belum diproses) di sudut buku catatan, juga memiliki efek yang sama dalam mengendalikan korteks serebral."
+
 ---
 
 Florence Nightingale, pendiri keperawatan modern dan inovator dalam administrasi medis, seorang ahli statistik Inggris yang menyelamatkan ribuan tentara yang terluka dengan mengatasi kengerian rumah sakit lapangan selama Perang Krimea di abad ke-19 dengan data ilmiah dan reformasi sanitasi yang menyeluruh. Di rumah sakit lapangan yang mengerikan, dia terus-menerus berpatroli lebih dari empat mil di lorong rumah sakit yang gelap setiap malam, hanya berbekal lampu. Dia melakukan lebih dari sekadar menenangkan rasa sakit pasien, dan dengan cermat mengarsipkan angka-angka di buku catatan untuk mengetahui tingkat demam pasien, basahnya tempat tidur, dan aliran udara segar di dalam ruangan. Data fakta yang dikumpulkan ini kemudian menjadi dasar indikator statistik yang secara signifikan menurunkan angka kematian di rumah sakit.

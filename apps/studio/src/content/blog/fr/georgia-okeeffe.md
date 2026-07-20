@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, respirer l'air frais du matin et se concentrer sur la texture d'objets naturels stimule les zones sensorielles et libère le stress."
   - question: "Comment puis-je remplacer cette routine si je ne suis pas dans un désert ou milieu rocheux ?"
     answer: "Marchez dans un parc et observez ou touchez des éléments aux textures naturelles simples, comme des feuilles, des pétales ou des coquillages."
+
 ---
 
 Georgia O'Keeffe, la marraine de l'art moderniste américain et une femme peintre qui a été la pionnière du style unique de peinture de fleurs et d'os du désert dans l'histoire de l'art occidental du 20e siècle, et a magnifiquement fixé les formes triviales de Mère Nature sur toile en utilisant la technique du gros plan ciblé. Elle se tenait au milieu du désert aride et regardait pendant des heures les os rugueux d'animaux inaperçus, les veines élaborées de fleurs fanées et la texture des grains de sable, agrandies 10 fois ou plus comme à travers une loupe. Elle a créé un impact visuel en gros plan sur les moindres détails des objets en taille impressionnante sur toute la toile. Cette concentration visuelle détaillée et cette routine de rendu maximal sont ce qui a fait d'elle un maître absolu de l'art moderne.

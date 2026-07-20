@@ -21,6 +21,7 @@ faqs:
     answer: "Porque não queria quebrar o seu delicado fluxo criativo altamente focado. Ao rejeitar rotinas diárias como mudar de roupa ou tomar banho, vertia 100% da sua energia neuronal diretamente na sua obra."
   - question: "Quais são as dicas práticas para reduzir a fadiga por decisão?"
     answer: "Pode padronizar escolhas triviais como o uniforme de Steve Jobs, planejar refeições ou silenciar notificações para proteger a sua mente da sobrecarga sensorial."
+
 ---
 
 A Pietà, o David e o teto da Capela Sistina. Miguel Ângelo Buonarroti, criador de algumas das maiores obras-primas da história da arte. Por trás do seu génio estava um hábito intenso de fluxo extremo. Segundo o seu biógrafo Giorgio Vasari, quando Miguel Ângelo trabalhava, dormia com a roupa e as botas calçadas por semanas. Hoje, o BuildSelf explora a ciência cognitiva por disso.

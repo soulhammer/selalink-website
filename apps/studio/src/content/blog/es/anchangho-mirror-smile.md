@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Realmente funciona forzar una sonrisa frente al espejo?"
     answer: "Sí, a través de la retroalimentación facial, el cerebro detecta el movimiento muscular y lo reconoce como un estado alegre, estimulando la liberación de endorfinas."
+
 ---
 
 Ahn Chang-ho, el gran líder educativo y activista por la independencia de Corea, creía que cultivar la moralidad individual, la inteligencia y la dignidad diaria era tan crucial para la independencia como la lucha armada. Enseñó estrictamente a sus miembros a tratarse con una sonrisa y a mantener limpios todos los espacios para establecer el orden. 🧹

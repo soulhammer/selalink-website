@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, caminhar a qualquer hora proporciona estimulação bilateral. Mas, enquanto a caminhada matinal ajuda a acordar o cérebro, a noturna redefine a tensão emocional e a carga cognitiva acumuladas durante o dia."
   - question: "Posso digitar as minhas reflexões no celular ou teclado?"
     answer: "Digitar ativa o modo de cálculo lógico devido ao feedback visual simplificado. Por outro lado, escrever à mão estimula o Sistema de Ativação Reticular (SAR), ajudando a aflorar os pensées subconscientes."
+
 ---
 
 Sigmund Freud, o pai da psicanálise que remodelou a psicologia moderna ao introduzir conceitos como o subconsciente. De onde vinham suas percepções profundas? 🧠

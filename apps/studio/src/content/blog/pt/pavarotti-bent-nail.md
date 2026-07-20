@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Pavarotti procurava especificamente um prego torto?"
     answer: "No teatro italiano, encontrar um prego dobrado é um velho presságio de sorte. Começou por superstição, mas acabou por ser uma ferramenta para vencer o seu medo."
+
 ---
 
 Luciano Pavarotti, um dos maiores tenores de sempre que popularizou a ópera. Apesar de cantar para multidões, Pavarotti sofria de um medo do palco terrível. Para dominar a ansiedade, cumpria um ritual no backstage: procurar um prego torto no chão. Em Itália, isto dá sorte. Saiba como este hábito acalmava a sua amígdala e focava a sua mente.

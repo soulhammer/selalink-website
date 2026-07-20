@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana Milton menghafal bait sebelum juru tulis datang?"
     answer: "Milton mengulangi bait-bait tersebut di kepalanya seperti lagu yang ritmis. Karena buta, ia melatih memori kerja auditori dan menggunakan ritme puisi sebagai jangkar memori."
+
 ---
 
 John Milton, penyair legendaris Inggris yang menulis mahakarya *Paradise Lost* dalam keadaan buta total. Bagaimana ia menulis epos lebih dari 10.000 baris tanpa bisa melihat satu huruf pun? Rahasianya ada pada rutinitas jam 4 pagi. Milton bangun sebelum subuh dan bermeditasi dalam sunyi untuk menyusun bait di otaknya. Begitu asistennya tiba jam 7 pagi, ia mendiktekan semuanya. Mari kita pelajari sains di balik fokus tenangnya.

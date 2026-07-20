@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Trug Haydn wirklich formelle Kleidung, wenn er allein war?"
     answer: "Ja, er glaubte, nachlässige Kleidung führe zu nachlässigen Ideen. Formelle Kleidung war Disziplin und Respekt vor der Kunst."
+
 ---
 
 Joseph Haydn, der „Vater der Sinfonie“, prägte die klassische Musik und komponierte über 100 Sinfonien. Er hatte eine besondere Angewohnheit: Vor dem Komponieren legte er stets formelle Kleidung, Perücke und seinen Lieblingsring an. Obwohl er allein im Arbeitszimmer saß, glaubte er, dass geistige Ordnung aus äußerer Ordnung entspringt. Entdecken Sie die Wissenschaft der „bekleideten Kognition“.

@@ -21,6 +21,7 @@ faqs:
     answer: "You can substitute it by walking in a city park or tree-lined street for over 30 minutes without a smartphone. The key is stimulating spatiotemporal senses and boosting brain blood flow through outdoor activity."
   - question: "Are there tips to record ideas that come to mind during a hike without forgetting them?"
     answer: "We recommend carrying a small notepad and pen in your pocket to jot down keywords instantly, or using voice memo features for quick hands-free recording."
+
 ---
 
 Werner Heisenberg laid the cornerstone of modern quantum physics and won the Nobel Prize. When the young Heisenberg faced cognitive burnout and insomnia from electronic orbital transition matrix calculations, he set off for the Bavarian Alps alone. For days, he hiked quietly through the coniferous forests and orderly paths of the Alps, tuning his thoughts. In the autumn of 1925, during his recovery on the remote North Sea island of Heligoland and hikes in the Alps, the uncertainty equations that marked a historical milestone in physics were born. We uncover the attention restoration principles of hiking.

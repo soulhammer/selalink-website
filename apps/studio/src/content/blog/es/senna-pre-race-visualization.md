@@ -21,6 +21,7 @@ faqs:
     answer: "La ansiedad aumenta cuando su mente se centra en escenarios de fracaso. Detenga la imaginería, conéctese con el tacto físico o los sonidos de la respiración y estírese para relajarse."
   - question: "¿Cuál es la duración ideal para una sesión de ensayo mental?"
     answer: "Manténgalo corto: de 3 a 5 minutos de inmersión enfocada es ideal. La memoria de trabajo prefrontal es limitada, por lo que las simulaciones rápidas justo antes del evento producen los mejores resultados."
+
 ---
 
 Ayrton Senna, uno de los mejores pilotos de F1 de la historia, tenía una intensa rutina mental junto con el entrenamiento físico. Minutos antes de una carrera, se sentaba en su cabina con el casco puesto, los ojos cerrados, completamente inmóvil. En su mente, la carrera ya había comenzado, simulando cada giro, cambio de marcha y punto de frenado. Analizamos el mecanismo del ensayo mental de Ayrton Senna.

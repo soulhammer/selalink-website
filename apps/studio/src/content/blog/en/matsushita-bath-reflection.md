@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Is it inefficient for busy people to take a bath every day?"
     answer: "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring."
+
 ---
 
 Konosuke Matsushita immersed himself in a warm bath every evening for self-reflection. This was a cognitive restore system to regenerate the brain via parasympathetic relaxation.

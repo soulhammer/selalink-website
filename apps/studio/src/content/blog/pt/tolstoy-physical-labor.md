@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O exercício matinal de alta intensidade não causa fadiga durante a manhã?"
     answer: "É fundamental ajustar a intensidade. O objetivo não é a exaustão, mas uma sessão breve de 15-20 minutos para elevar o ritmo cardíaco e la temperatura corporal, ativando a circulação. Ajuste-o à sua condição física."
+
 ---
 
 Leão Tolstoi, amplamente considerado um pilar da literatura realista russa com obras-primas como 'Guerra e Paz' e 'Anna Karenina'. Embora fosse um nobre rico, rejeitou os privilégios e procurou uma vida humilde de trabalho físico. A fonte da sua incansável energia criativa era o trabalho físico e a ginástica que realizava todas as manhãs. Ao acordar, antes de se sentar à secretária, Tolstoi arava os campos, cortava lenha ou carregava água. Também instalou aparelhos de ginástica no seu quintal para elevações e treino de força. Ele via o trabalho físico como um motor necessário para despertar o cérebro. Hoje, a BuildSelf explora la verdade neurocientífica por trás do hábito de exercício de Tolstoi e como os profissionais modernos podem desenhar rotinas matinais para maximizar a eficiência cerebral.

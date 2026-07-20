@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, turning on your phone exposes your brain to digital noise (social media, notifications), immediately dispersing focus. Handwriting creates tactile friction that inputs sensory data more deeply into the cortex, increasing the cognitive awareness of 'I am in control' by over two times, which is far superior for behavior regulation."
   - question: "Do I really need to track tiny details like 1 cent or 1 minute?"
     answer: "The goal is not the value of the figure itself, but training your brain for real-time feedback. Repeatedly catching and writing down even tiny expenses or time leakages hardwires your prefrontal inhibition networks. This builds a neural circuit that suppresses impulses and maintains logical reasoning during major business decisions."
+
 ---
 
 John D. Rockefeller, the legendary entrepreneur who established Standard Oil and accumulated the largest private wealth in history. Where did his rigorous planning and drive come from? 📕

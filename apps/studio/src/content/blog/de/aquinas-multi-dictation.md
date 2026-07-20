@@ -16,6 +16,7 @@ steps:
     text: "Widmen Sie dem ersten Projekt 15-20 Minuten. Konzentrieren Sie sich zu 100 % auf diese Aufgabe und vermeiden Sie jegliche Ablenkung."
   - name: "Führen Sie einen sauberen Kontextwechsel durch"
     text: "Schließen Sie nach Ablauf der Zeit die erste Datei und öffnen Sie die zweite. Atmen Sie dreimal tief durch, um das Arbeitsgedächtnis zu leeren, und starten Sie fokussiert."
+
 ---
 
 "Die Vernunft ist die Dienerin des Glaubens, und der Intellekt ist sein Schwert." Thomas von Aquin, die überragende Gestalt der mittelalterlichen Scholastik, besaß einen Geist, der schneller arbeitete, als er schreiben konnte. Um seine Gedanken festzuhalten, diktierte er seine Summa Theologiae mehreren Schreibern gleichzeitig.

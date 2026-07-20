@@ -21,6 +21,7 @@ faqs:
     answer: "Untuk meniru korteks motorik otak dan meningkatkan koneksi saraf, perspektif orang pertama (melihat tangan atau lingkungan sekitar Anda melalui mata Anda sendiri) sangat efektif. Perspektif orang ketiga dapat berguna untuk posisi keseluruhan, tetapi visualisasi orang pertama jauh lebih kuat untuk mensimulasikan dan menyetel keterampilan motorik fisik yang halus."
   - question: "Bagaimana jika skenario kegagalan (membuat kesalahan) muncul selama visualisasi?"
     answer: "Ini adalah mekanisme pertahanan otak yang sangat alami. Jika skenario kegagalan muncul, jangan panik; jeda adegan tersebut dan putar kembali seperti pita kaset. Visualisasikan kembali dengan berhasil mengatasi kesalahan tersebut melalui proses umpan balik korektif yang fleksibel, memperkuat loop sukses di otak."
+
 ---
 
 Pele, pemain sepak bola terhebat dalam sejarah dan sinonim dari sepak bola, sang 'Raja'. Sorak-sorai puluhan ribu penonton dan harapan besar negaranya untuk menang menjadi beban psikologis yang sangat besar bagi remaja tersebut di panggung Piala Dunia. Namun, ia selalu melangkah ke lapangan dengan ketenangan mutlak. Rahasianya tersembunyi di sudut ruang ganti.

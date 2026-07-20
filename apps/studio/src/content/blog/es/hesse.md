@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, el trabajo físico como tocar tierra y deshierbar relaja la corteza prefrontal agotada por el intenso enfoque mental."
   - question: "¿Cómo puedo sustituir este hábito si no tengo un jardín o tierra?"
     answer: "Cuidar plantas de interior en un balcón, trasplantar o podar hojas secas es un excelente sustituto."
+
 ---
 
 Hermann Hesse, novelista y poeta que exploró la autorrealización humana interior y el vagabundeo del alma a través de la meditación analógica como un jardinero suizo, y ganador del Premio Nobel de Literatura por obras maestras como “Demian” y “Under the Wheel”. Se quedó en su jardín rural y realizó el trabajo análogo del jardinero: labrar la tierra, arrancar las malas hierbas y cortar o serrar ramas muertas todos los días. Mientras movía su cuerpo diligentemente, centró toda su atención en los sonidos de los pájaros en el bosque, el sonido del viento y el olor a humedad del suelo. Esta rutina de meditación natural analógica fue una fuente de estabilidad y curación para su alma, que sufría una grave crisis nerviosa.

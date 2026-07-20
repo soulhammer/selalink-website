@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Will the progress be too slow if daily micro-goals are too small?"
     answer: "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year."
+
 ---
 
 Akira Kurosawa kept the simple principle of completing 2 pages of script daily even during busy filming. This is a wisdom to avoid amygdala threat and trigger action.

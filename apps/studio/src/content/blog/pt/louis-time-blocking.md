@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, totalmente. Nesse caso, designe blocos específicos para 'responder urgências e verificar e-mails' 2 ou 3 vezes ao dia. Durante os blocos de foco (1 ou 2 horas), trabalhe sem interrupções."
   - question: "Sinto-me muito culpado se não conseguir cumprir o cronograma."
     answer: "O bloqueio de tempo não é uma corrente, mas um mapa. O importante não é concluir tudo, mas ter estado concentrado em uma única tarefa durante o bloco. Se se desviar, tenha flexibilidade cognitiva."
+
 ---
 
 Luís XIV, que marcou a era de ouro da monarquia absoluta francesa e situou-se no topo do poder ao construir o Palácio de Versalhes. Durante seu longo reinado de 72 anos, resolvendo conflitos e lutas de poder, qual era o segredo para estabelecer sua autoridade inabalável? Sob o credo "Ao estabelecer tempos e regras de trabalho, pode-se dominar completamente a vida", Luís XIV dividiu suas 24 horas estritamente ao minuto. Hoje, o BuildSelf apresenta os benefícios neurológicos e a aplicação da rotina de 'time-blocking' de Luís XIV.

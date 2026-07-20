@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah menggulir video format pendek seperti Reels atau TikTok menghasilkan penyetelan ulang kognitif yang sama?"
     answer: "Tidak, justru memiliki efek sebaliknya. Video berdurasi pendek membombardir otak dengan informasi baru dan kejutan visual setiap beberapa detik. Ini merangsang jalur dopamin secara berlebihan. Jalur Wittgenstein berfokus pada alur lambat dan sederhana yang menghentikan pemrosesan kognitif."
+
 ---
 
 Ludwig Wittgenstein, filsuf jenius awal abad ke-20 yang mengguncang dunia akademis dengan Tractatus Logico-Philosophicus. Mendorong batas pemikiran logis, dia menghadapi kelelahan kognitif ekstrem. Untuk mengatasinya, Wittgenstein menjaga ritual malam hari: berlari ke bioskop, duduk di baris depan menonton film koboi.

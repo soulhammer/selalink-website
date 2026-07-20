@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, jika Anda berbaring datar dan menegangkan leher Anda. Sandarkan diri Anda dengan bantal yang kokoh pada sudut 45 derajat, dan batasi sesi Anda hingga 30 menit agar tetap sehat."
   - question: "Bisakah saya memeriksa email saya hanya selama 5 menit sebelum memulai?"
     answer: "Tidak. Bahkan 5 menit untuk memindai notifikasi yang masuk akan langsung memecah dan membuang energi CAR Anda. Matikan ponsel Anda sampai tugas utama Anda selesai."
+
 ---
 
 John Maynard Keynes, tokoh yang menggeser paradigma ekonomi abad ke-20, mendirikan makroekonomi, dan memberikan kunci untuk mengatasi Depresi Besar, adalah pria dengan produktivitas luar biasa. Namun pemandangan paginya sangat damai. Keynes tidak melompat dari tempat tidur saat bangun. Ketika sekretarisnya membawakan berkas pada jam 8 pagi, ia berbaring di tempat tidur selama 2 jam, menganalisis data dan menulis manuskrip.

@@ -21,6 +21,7 @@ faqs:
     answer: "No. Lo fundamental es bloquear físicamente los estímulos y concentrarse en actividades analógicas. Puede designar una zona libre de teléfonos en casa durante 30 a 60 minutos."
   - question: "¿Por qué las tareas domésticas simples ayudan a la contemplación?"
     answer: "El trabajo simple sin pensar minimiza la carga cognitiva y relaja el cerebro. En este estado, el cerebro reduce la censura en el lóbulo frontal y promueve conexiones inconscientes."
+
 ---
 
 Carl Jung, el psiquiatra de renombre mundial que trazó el mapa del inconsciente humano y propuso los conceptos del inconsciente colectivo y los complejos. ¿Dónde se recuperaba su energía creativa, que atendía a innumerables pacientes y escribía vastos estudios académicos? 🪵

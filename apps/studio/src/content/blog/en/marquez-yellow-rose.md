@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does it have to be a yellow rose?"
     answer: "No. For Márquez, the yellow rose was a personal medium offering psychological comfort. Modern professionals can freely choose any object they feel comfortable with."
+
 ---
 
 Gabriel García Márquez, who won the Nobel Prize in Literature for 'One Hundred Years of Solitude.' One of the sources of his literary imagination was a single yellow rose placed on his desk daily. If the yellow rose was not there, he considered it a jinx and didn't type a word. Was it simple obsession, or was it scientific reason stimulating the brain?

@@ -21,6 +21,7 @@ faqs:
     answer: "Meskipun tulisan pagi biasa ditulis setelah mencuci muka atau duduk, di mana logika sebagian aktif, tulisan di tempat tidur Voltaire menargetkan 'celah otak' selama inersia tidur sebelum bangun secara fisik, menangkap metafora alam bawah sadar dan pikiran kreatif dalam kondisi paling murni."
   - question: "Apa yang harus saya lakukan jika saya tidak tahu harus menulis apa di tempat tidur setiap pagi?"
     answer: "Sama sekali tidak perlu menulis ide-ide besar. Anda cukup menuliskan fragmen kecil apa pun yang terlintas di kepala Anda, seperti kejadian buruk kemarin, kekesalan terhadap tugas hari ini, atau daftar kata acak. Tujuannya adalah latihan melepaskan filter hambatan otak."
+
 ---
 
 Voltaire, simbol gerakan Pencerahan Eropa abad ke-18, yang meninggalkan banyak sekali novel, tragedi, dan tulisan sejarah. Dari mana kritik tajam dan ide-ide humanistiknya yang cemerlang dimulai setiap pagi? ✍️

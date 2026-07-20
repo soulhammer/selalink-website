@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Model geometris apa yang sebenarnya diukir oleh Kepler?"
     answer: "Ia membuat model bersarang dari lima padatan Platonik (oktahedron, ikosahedron, dodekahedron, tetrahedron, kubus) bersarang satu sama lain untuk mewakili orbit planet."
+
 ---
 
 Johannes Kepler, astronom dan matematikawan terkenal yang menemukan hukum gerakan planet. Di era tanpa komputer, Kepler harus menghitung rumus rumit. Ketika buntu, ia merutinkan mengukir model geometris 3D dari kayu, kertas, atau tanah liat. Sentuhan fisik membantunya memvisualisasikan orbit kosmis. Mari kita ulas sains manipulasi spasial haptik.

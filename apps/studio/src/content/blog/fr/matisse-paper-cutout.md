@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, tout à fait. La qualité esthétique n'a pas d'importance. Le mécanisme repose sur le mouvement des doigts et l'observation des couleurs. L'effet thérapeutique reste identique."
   - question: "Que pensez-vous d'utiliser de la pâte à modeler ou des applis de dessin à la place ?"
     answer: "La pâte à modeler est recommandée pour son stimulus tactile. Les applications de dessin sont moins idéales en raison de l'écran glissant et des distractions."
+
 ---
 
 Henri Matisse a libéré la couleur. Mais à la fin de sa vie, il souffrait et ne pouvait plus peindre. ✂️

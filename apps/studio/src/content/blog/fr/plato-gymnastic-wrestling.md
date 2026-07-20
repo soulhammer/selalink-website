@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, il n'est pas nécessaire de soulever des poids lourds. Vous pouvez adapter les mouvements avec des pompes contre le mur ou des squats lents. L'indicateur biologique est une respiration plus rapide et une légère transpiration, ajustez l'intensité à votre niveau."
   - question: "Puis-je remplacer la musculation par du cardio comme le jogging ?"
     answer: "Bien que le jogging soit bénéfique, les séances courtes de musculation intensive sont plus efficaces pour libérer rapidement du BDNF. Si vous préférez le cardio, intégrez des intervalles de sprint courts pour forcer la respiration et obtenir le même effet."
+
 ---
 
 Platon, le géant intellectuel qui a jeté les bases de la philosophie occidentale et fondé l'« Académie ». D'où venaient sa pensée infatigable et sa force mentale ? 🤼

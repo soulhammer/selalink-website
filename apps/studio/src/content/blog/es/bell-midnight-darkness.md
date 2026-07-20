@@ -21,6 +21,7 @@ faqs:
     answer: "Hacerlo a la misma hora ayuda al cerebro a asociar esa hora con el enfoque profundo. Sin embargo, usarlo como un reinicio mental de emergencia cuando sienta sobrecarga también es muy efectivo."
   - question: "¿Qué pasa si no hay un silencio absoluto o no se puede bloquear el ruido?"
     answer: "Si el silencio absoluto es imposible, use una técnica de enmascaramiento reproduciendo ruido blanco, ruido rosa o sonidos de lluvia sin letra a través de sus auriculares para evitar distracciones."
+
 ---
 
 Alexander Graham Bell, el gran inventor que cambió el paradigma de la comunicación humana al inventar el primer teléfono práctico. ¿De dónde surgieron sus inspiraciones creativas? 🌌

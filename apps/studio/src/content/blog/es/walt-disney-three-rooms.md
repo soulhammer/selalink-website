@@ -21,6 +21,7 @@ faqs:
     answer: "Es mejor cambiar de espacio. Si no es posible, cambie la disposición de la mesa, el color de la pizarra o las herramientas de escritura para marcar la frontera cognitiva."
   - question: "¿Qué pasa si las críticas son tan duras que destruyen la idea?"
     answer: "El Crítico debe buscar mejorar, no desechar. Pregúntese: '¿Qué cambios harían viable esta idea?' en lugar de concluir que es imposible."
+
 ---
 
 Walt Disney construyó un imperio de la animación regalando sueños a niños y adultos por igual. Su creatividad no era sólo producto de la inspiración. Tenía un sistema de pensamiento único que refinaba imaginaciones aparentemente absurdas en una realidad perfecta.

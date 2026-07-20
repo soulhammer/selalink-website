@@ -21,6 +21,7 @@ faqs:
     answer: "Al abrir el móvil te expones a notificaciones y correos que diluyen la idea. La libreta es instantánea y, a través del tacto, envía señales directas al SARA, imprimiendo mayor importancia al pensamiento en las neuronas."
   - question: "¿Hay ejemplos de ideas pequeñas en libretas que se convirtieran en grandes proyectos?"
     answer: "Sí, la aerolínea Virgin Atlantic nació de una nota. Cuando cancelaron su vuelo a Puerto Rico, Branson escribió: '¿Operar aerolínea alternativa?'. Llamó para cotizar un chárter y vendió boletos de ida a los pasajeros varados. Esa frase dio origen a la aerolínea."
+
 ---
 
 Richard Branson, el multimillonario fundador de Virgin Group, quien construyó un imperio de más de 400 empresas en aviación, espacio y finanzas. Famoso por su mercadotecnia creativa, tiene un objeto insignia: no un reloj de lujo, sino una pequeña libreta de papel en el bolsillo de su vaquero.

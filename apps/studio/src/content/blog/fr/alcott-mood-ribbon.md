@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si mon entourage n'apprécie pas cette routine, estimant qu'elle nuit à la communication ?"
     answer: "Évitez de garder le signal de blocage actif pendant de trop longues heures. Il est important de limiter le temps de concentration à un maximum de 50 à 60 minutes, et de montrer que vous êtes disponible le reste du temps."
+
 ---
 
 Louisa May Alcott, la grande romancière américaine qui a touché d'innombrables lecteurs en écrivant le classique mondial 'Les Quatre Filles du docteur March'. Comment parvenait-elle à se concentrer sur l'écriture sans être dérangée alors que sa famille nombreuse vivait dans une maison animée ? 🎀

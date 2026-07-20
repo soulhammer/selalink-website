@@ -21,6 +21,7 @@ faqs:
     answer: "Écrire avec un stylet sur tablette est proche de l'écriture physique. Cependant, le clavier est moins efficace car trop rapide et automatique, sans effort cognitif. L'écriture manuscrite force le cerveau à synthétiser."
   - question: "Comment organiser mes notes pour ne pas les perdre ?"
     answer: "Nous recommandons la méthode du commonplace book de Locke : créez un index par mots-clés dans les premières pages de votre carnet. Vous pouvez aussi scanner vos notes physiques une fois par mois."
+
 ---
 
 "Il n'y a pas de livre si mauvais qu'il ne contienne quelque chose de bon." Pline l'Ancien pensait que le temps non consacré à apprendre était perdu. Pendant ses repas, bains et voyages, un esclave lui lisait à haute voix tandis qu'un autre écrivait sous sa dictée. Il ne lisait jamais sans faire d'extraits.

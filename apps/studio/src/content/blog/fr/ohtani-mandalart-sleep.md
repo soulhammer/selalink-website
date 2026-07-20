@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Puis-je réduire les heures de sommeil si 10 heures ne sont pas réalistes pour moi ?"
     answer: "La norme de 10 heures s'applique aux athlètes de haut niveau ; dormir 7 à 8 heures suffit pour la majorité. La clé est d'optimiser la qualité et la proportion de sommeil profond en contrôlant l'environnement."
+
 ---
 
 La star de la Ligue majeure de baseball Shohei Ohtani. Le secret pour maintenir son niveau de jeu repose sur deux routines : le plan Mandalart de 81 cases et un sommeil d'au moins 10 heures, pour lequel il voyage avec son propre oreiller. Découvrez comment cette rigueur régénère le cerveau et les muscles.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Gibt es einen Grund, in der digitalen Ära ein analoges Papiernotizbuch zu verwenden?"
     answer: "Ja. Das Tippen bietet weniger taktile Stimulation als das Schreiben mit der Hand, welches den Hippocampus anregt. Zudem können Ideen so frei durch Symbole oder Skizzen skizziert werden, ohne an Textformate gebunden zu sein."
+
 ---
 
 Isaac Newton, der größte Wissenschaftler der Geschichte, entdeckte das Gesetz der universellen Gravitation, begründete die Infinitesimalrechnung und legte das Fundament der modernen Physik. Wie konnte ein so komplexes Wissenssystem aus Physik, Mathematik, Alchemie und Theologie im Kopf eines Menschen geordnet werden? Der Schlüssel lag in der akribischen Schreibgewohnheit, die er seit seiner Jugend pflegte.

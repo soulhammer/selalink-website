@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, não é necessário levantar pesos pesados. Você pode adaptar os exercícios para flexões na parede ou agachamentos lentos. O indicador fisiológico é atingir um estado em que a respiração acelere e você sue levemente, ajustando a intensidade para sua segurança."
   - question: "Posso substituir o treino de resistência por cardio como corrida?"
     answer: "Embora a corrida ajude, treinos curtos de resistência são mais eficazes para ativar a liberação rápida de BDNF. Se preferir cardio, inclua intervalos de tiros curtos para elevar a respiração, obtendo o mesmo efeito."
+
 ---
 
 Platão, o gigante intelectual que lançou as bases da filosofia ocidental e fundou a 'Academia'. De onde vinha seu pensamento incansável e vigor mental? 🤼

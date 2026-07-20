@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, apenas assistir e ouvir estimula apenas áreas cognitivas passivas. A plasticidade cerebral e as redes sinápticas se ativam apenas quando você estimula as cuerdas vocales através da leitura em voz alta e constrói frases de forma ativa como Cleópatra."
   - question: "Estudar dois idiomas simultaneamente causa sobrecarga cognitiva?"
     answer: "Na fase inicial, recomenda-se focar primeiro em um idioma. Porém, se a base já estiver estabelecida, alternar entre duas estruturas gramaticais desenvolve drasticamente o controle cognitivo do córtex pré-frontal."
+
 ---
 
 Cleópatra VII, última rainha do Egito, dominava pelo menos 9 línguas, incluindo grego, egípcio, latim e hebraico. Ela reservava parte de suas tardes para estudar idiomas, permitindo negociar diretamente sem intérpretes, o que lhe dava enorme vantagem política.

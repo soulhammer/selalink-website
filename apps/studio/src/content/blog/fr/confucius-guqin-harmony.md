@@ -21,6 +21,7 @@ faqs:
     answer: "Bien sûr. Le but n'est pas de maîtriser des techniques complexes, mais d'apaiser le système nerveux par l'accordage et des sons simples. Des instruments faciles comme le ukulélé ou la kalimba sont parfaits pour débuter."
   - question: "Est-il permis d'utiliser des applications d'accordage électronique ?"
     answer: "Vous pouvez utiliser l'application pour vous guider, mais concentrez-vous sur l'écoute plutôt que sur l'écran. Regardez l'écran du coin de l'œil et concentrez-vous sur le son et la vibration de l'instrument."
+
 ---
 
 Confucius, le fondateur du confucianisme et le philosophe le plus influent de la pensée orientale. Durant ses 14 années d'exil difficile, faisant face aux menaces alors qu'il voyageait à travers divers États, quel était le secret pour maintenir sa dignité morale et sa paix spirituelle ? Confucius portait toujours un Guqin (instrument à cordes), en jouant et en chantant des poèmes chaque jour. Pour lui, la musique n'était pas un divertissement, mais une méthode noble d'auto-culture, accordant son flux intérieur comme il accordait les cordes. Aujourd'hui, BuildSelf présente les principes de la musicothérapie et la routine moderne d''accordage du Guqin' de Confucius.

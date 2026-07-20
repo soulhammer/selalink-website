@@ -21,6 +21,7 @@ faqs:
     answer: "Metakognition zielt nicht auf „Erfolg“, sondern auf „präzise Analyse“. Das Aufschreiben schlechter Werte baut Illusionen ab und stärkt die Resilienz für morgen."
   - question: "Kann ich alle Werte auch nur mit Notion oder Excel verwalten?"
     answer: "Digitale Tools verleiten zu Ablenkungen (Social Media, E-Mails). Das handschriftliche Notieren im Tagebuch fördert die kognitive Klarheit und sorgt für tiefere Einsichten."
+
 ---
 
 George Washington wachte fast sein ganzes Leben lang um 4:00 Uhr morgens auf. Er ritt über seine Ländereien in Mount Vernon, prüfte den Zustand der Felder und notierte die Daten in einem Logbuch. Diese zahlenbasierte Arbeitsweise übertrug er später auf die Staatsverwaltung.

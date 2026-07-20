@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Beethoven insistait-il sur 60 grains de café ?"
     answer: "À travers l'action répétitive de compter 60 grains, il concentrait son attention pour en faire le déclencheur de son travail."
+
 ---
 
 Ludwig van Beethoven, l'un des plus grands compositeurs de l'histoire de la musique occidentale, qui a surmonté l'épreuve mortelle de la perte auditive pour créer les mélodies les plus grandioses, telles que la « Symphonie du Destin » et la « Symphonie chorale ». Saviez-vous qu'il accomplissait un rituel matutinal avant de commencer à composer ? C'était le rituel consistant à compter exactement « 60 grains » de café. Beethoven était très sensible au goût et à l'arôme du café et exigeait une proportion parfaite. Compter ces 60 grains était un prélude sacré pour s'isoler des bruits extérieurs et entrer dans son monde musical. Aujourd'hui, BuildSelf partage les secrets scientifiques du rituel de Beethoven.

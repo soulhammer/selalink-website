@@ -21,6 +21,7 @@ faqs:
     answer: "Tippen ist ein eintöniger Prozess mit geringem Reiz. Zudem lenken Bildschirme ab. Für eine tiefe Informationsverarbeitung sind das Lesen von Büchern und das Schreiben von Hand weitaus besser geeignet."
   - question: "Was sollten vielbeschäftigte Menschen tun, die keine 10 Stunden täglich lesen können?"
     answer: "Die Qualität der bildschirmfreien Konzentration ist wichtiger als die Zeitdauer. Schon 30 Minuten tägliches Deep Reading und das Schreiben kurzer Notizen reichen aus, um den Assoziationskortex zu stimulierte."
+
 ---
 
 Karl Marx analysierte die ökonomischen Strukturen des Kapitalismus. Wie entstand Das Kapital? 🏛️

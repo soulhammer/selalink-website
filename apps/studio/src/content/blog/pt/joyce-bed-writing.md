@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Joyce vestia um casaco branco para escrever na cama?"
     answer: "O casaco branco refletia a máxima luz sobre o papel, servindo de amplificador de luz natural para os seus olhos enfraquecidos."
+
 ---
 
 James Joyce, um dos escritores mais influentes do século XX, pioneiro da literatura moderna com a sua obra *Ulisses*. Joyce sofreu de graves problemas oculares ao longo da vida. Para conseguir escrever em tais condições físicas, adotou um hábito incomum: deitado na cama, com casaco branco, escrevendo com lápis azul em papel branco. Saiba como esta configuração reduziu a fadiga sensorial.

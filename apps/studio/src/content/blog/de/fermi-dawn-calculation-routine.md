@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was ist, wenn ich mich nicht zwei Stunden lang ohne Ablenkung konzentrieren kann?"
     answer: "Wenn zwei Stunden zu lang sind, unterteilen Sie sie in zwei Blöcke: 50 Minuten tiefe Konzentration, gefolgt von 10 Minuten aktivem Dehnen. Schauen Sie während der 10-minütigen Pause nicht auf Ihr Telefon. Trinken Sie Wasser oder gehen Sie im Raum auf und ab, um den Kreislauf anzuregen, und kehren Sie dann sofort zu Ihrer zweiten Sitzung zurück."
+
 ---
 
 Enrico Fermi, der legendäre Physiker, der den weltweit ersten Kernreaktor entwarf, war hochgradig einzigartig, da er sowohl die theoretische als auch die experimentelle Physik beherrschte. Während andere Wissenschaftler bei Berechnungen stecken blieben, leitete Fermi Antworten mit Leichtigkeit ab. Das Geheimnis seiner Produktivität war seine Morgenroutine: Er wachte um 5:30 Uhr morgens auf, um zwei Stunden lang in absolutem Schweigen in seinem Arbeitszimmer Berechnungen anzustellen, bevor er um 8:30 Uhr morgens in sein Labor ging.

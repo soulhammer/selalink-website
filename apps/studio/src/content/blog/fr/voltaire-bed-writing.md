@@ -21,6 +21,7 @@ faqs:
     answer: "Alors que les pages du matin sont écrites après s'être lavé le visage ou s'être assis, là où la raison est partiellement active, l'écriture au lit de Voltaire cible le 'moment de transition' du cerveau pendant l'inertie du sommeil avant le réveil physique, capturant les métaphores du subconscient et les pensées créatives à l'état le plus brut."
   - question: "Que faire si je ne trouve rien à écrire au lit chaque matin ?"
     answer: "Il n'y a absolument aucun besoin d'écrire de grandes idées. Vous pouvez simplement noter n'importe quel détail qui vous passe par la tête, comme un mauvais moment de la veille, le désagrément des tâches du jour ou des listes de mots aléatoires. Le but est de s'entraîner à lever la censure du cerveau."
+
 ---
 
 Voltaire, symbole du mouvement des Lumières en Europe au XVIIIe siècle, a laissé d'innombrables romans, pièces de théâtre et textes historiques. Où commençaient chaque matin ses critiques acérées et ses brillantes idées humanistes ? ✍️

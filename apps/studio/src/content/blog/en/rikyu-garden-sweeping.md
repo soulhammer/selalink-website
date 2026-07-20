@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How can I utilize cleaning as a meditation?"
     answer: "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective."
+
 ---
 
 Sen no Rikyu swept the tea garden path every morning to align with nature and wipe away mental dust. This was a device to anchor attention to physical stimuli and reduce cognitive noise.

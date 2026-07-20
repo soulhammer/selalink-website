@@ -21,6 +21,7 @@ faqs:
     answer: "Tout à fait. Remplir un petit pot sur le balcon avec de la terre et planter une petite herbe ou plante dépolluante offre le même stimulus tactile. L'important est la connexion physique, pas la taille de la plante."
   - question: "Y a-t-il des problèmes d'hygiène à toucher la terre à mains nues ?"
     answer: "La terre commerciale est souvent stérilisée, donc sûre. En fait, les bonnes bactéries aident à renforcer l'immunité. Si cela vous inquiète, portez des gants fins de jardinage et lavez-vous bien les mains après."
+
 ---
 
 Audrey Hepburn, l'éternelle icône d'Hollywood qui a travaillé pour les enfants en tant qu'ambassadrice de l'UNICEF. Quelle était sa source de force pour apaiser ses blessures et maintenir son élégance face aux médias et au cancer ? Elle se consacrait à toucher la terre et à cultiver des fleurs chaque après-midi dans son jardin à Tolochenaz, en Suisse. Aujourd'hui, BuildSelf présente les principes de restauration cognitive et la routine de guérison de la 'jardinería' d'Audrey Hepburn.

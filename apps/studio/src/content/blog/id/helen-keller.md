@@ -21,6 +21,7 @@ faqs:
     answer: "Ya itu benar. Ketika otak menerjemahkan informasi tentang tekstur sentuhan halus kulit dibandingkan informasi visual atau pendengaran, jaringan sinaptik jangka panjang pada lobus frontal dan parietal terhubung jauh lebih erat, sehingga kedalaman dan kelanggengan memori meningkat secara eksplosif."
   - question: "Apa yang harus saya lakukan jika kulit saya kering dan sensitivitas sentuhan saya menurun?"
     answer: "Anda dapat meningkatkan resolusi fisik indra peraba Anda dengan mengaktifkan aliran darah dengan mencuci tangan secara ringan dengan air hangat sebelum latihan, atau dengan mengoleskan sedikit krim pelembab untuk membentuk lapisan tipis tahan kelembapan sebelum latihan."
+
 ---
 
 Helen Keller, ikon penanggulangan yang berhasil mengatasi tiga cobaan yaitu tidak terlihat dan tidak dapat mendengar (keterbatasan penglihatan, pendengaran, dan bicara) dan mendedikasikan hidupnya sebagai aktivis sosial dan penulis hebat, mewarnai keputusasaan umat manusia dengan harapan. Dalam kegelapan yang sunyi, dia memusatkan seluruh sarafnya pada jejak gerakan taktil Tuan Sullivan saat dia dengan cermat menulis surat-surat itu dengan ujung jarinya di telapak tangannya. Saat mata air dingin membasahi punggung tangannya yang lain, dia menggabungkan sinyal sentuhan 'W-A-T-E-R' di telapak tangannya dengan roh air di otaknya untuk pertama kalinya. Pelatihan peniruan sentuhan yang canggih ini adalah kunci yang menjadikannya seorang penulis abadi.

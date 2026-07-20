@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wie können Büroangestellte in Großraumbüros Mahlers Isolationsroutine anwenden?"
     answer: "Nutzen Sie in diesem Fall akustische und digitale Isolation. Das Tragen von Kopfhörern mit aktiver Geräuschunterdrückung und weißem Rauschen oder Naturklängen wirkt wie ein kognitiver Schutzschild. Kombinieren Sie dies, indem Sie Kommunikations-Apps auf „Bitte nicht stören“ setzen und Ihre Hauptarbeitsanwendung maximieren, um ein digitales Mini-Häuschen zu schaffen."
+
 ---
 
 Gustav Mahler, der österreichische Meister, der unsterbliche Sinfonien mit gewaltigen Orchestrierungen komponierte. Während seiner geschäftigen Dirigententätigkeit musste er seine gesamte musikalische Energie in den kurzen Sommerferien bündeln. Um dies zu erreichen, baute Mahler ein winziges ‚Komponierhäuschen‘ tief im Almenwald. Jeden Morgen um 6 Uhr, nachdem das Frühstück vor der Tür abgestellt worden war, schloss sich Mahler bis zum Mittag ein. Wir untersuchen, wie diese absolute Isolationsroutine das Gehirn zu kreativen Höchstleistungen führt.

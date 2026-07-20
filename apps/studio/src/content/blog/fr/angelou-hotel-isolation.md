@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Pourquoi Angelou écrivait-elle isolée dans une chambre d'hôtel ?"
     answer: "Pour couper son cerveau des distractions du quotidien (corvées, tableaux), s'obligeant à un niveau de concentration maximal."
+
 ---
 
 Maya Angelou, poétesse, mémorialiste et militante des droits civiques américaine légendaire, autrice de l'autobiographie « Je sais pourquoi chante l'oiseau en cage ». Pour se concentrer profondément, elle s'installait dans une chambre d'hôtel chaque matin à 6h30. Elle demandait au personnel de retirer tous les tableaux et décorations, ne gardant qu'une Bible, un dictionnaire, un jeu de cartes et une bouteille de sherry. Aujourd'hui, BuildSelf montre comment un environnement épuré améliore le rendement.

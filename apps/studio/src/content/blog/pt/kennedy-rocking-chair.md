@@ -21,6 +21,7 @@ faqs:
     answer: "Sim. Ao desbloquear o mecanismo de inclinação da cadeira e balançar suavemente, você pode evitar a carga estática e estimular o sistema vestibular."
   - question: "Qual é a velocidade ideal para se balançar?"
     answer: "O melhor ritmo para relaxar é de 0.5Hz a 1Hz. Isso equivale a um ciclo completo a cada 1.5 ou 2 segundos. Esta velocidade é ideal para acalmar o cérebro."
+
 ---
 
 O presidente John F. Kennedy liderou a América durante os momentos mais tensos. Embora parecesse dinâmico, sofria de dor crônica nas costas devido a uma lesão de guerra. 🪑

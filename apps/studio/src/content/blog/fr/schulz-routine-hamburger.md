@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Est-il malsain de manger le même déjeuner tous les jours ? Comment adapter la routine de Schulz aujourd'hui ?"
     answer: "Alors que Schulz mangeait des hamburgers classiques, les adaptateurs modernes peuvent utiliser des kits de préparation de repas équilibrés, des salades précommandées ou 3 menus sains rotatifs. Le but est de supprimer le processus de choix cognitif. Présélectionner 2 ou 3 options saines garantit à la fois la santé physique et l'économie d'énergie mentale."
+
 ---
 
 Peanuts, la bande dessinée adorée mettant en scène Snoopy et Charlie Brown. Derrière ce chef-d'œuvre se tenait Charles M. Schulz, un homme aux routines absolues qui dessinait et écrivait seul la bande dessinée pendant 50 ans sans assistants. Pour gérer la pression créative et économiser son énergie mentale, il a standardisé ses journées. Il travaillait au même bureau de 9h à 16h et, pour le déjeuner, il mangeait exactement le même hamburger à côté de sa table à dessin. Nous examinons comment cette routine de menu unique protège les centres analytiques du cerveau.

@@ -21,6 +21,7 @@ faqs:
     answer: "Establece 2 o 3 pasos simples que controles por completo, como atar los zapatos de cierta manera o respirar profundo, y repítelos de forma constante."
   - question: "¿Cómo manejo la ansiedad si omito un paso o cometo un error en mi rutina?"
     answer: "Comprende que la rutina es solo un ancla psicológica, no la fuente de tu habilidad. Aceptar los errores como 'parte de la situación' maximiza los beneficios."
+
 ---
 
 Serena Williams, la reina del tenis. En medio de la presión de la cancha, su arma secreta eran sus rutinas estrictas. Antes de jugar, escuchaba música con los mismos auriculares y botaba la pelota 5 veces antes de su primer saque. Analicemos cómo la rutina de pre-performance (PPR) ayuda a calmar la amígdala desviando el enfoque a tareas motrices de control.

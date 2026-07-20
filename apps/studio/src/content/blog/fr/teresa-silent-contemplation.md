@@ -21,6 +21,7 @@ faqs:
     answer: "Il est naturel que le cerveau s'active. Ne luttez pas, observez simplement ces pensées comme des nuages en passant, et ramenez doucement votre attention sur la respiration."
   - question: "Mère Teresa le faisait pendant une heure. Est-ce utile si je ne le fais que 10 à 15 minutes ?"
     answer: "Oui, les études montrent que 10 minutes de silence complet suffisent à réduire la tension et le cortisol. Pratiquer régulièrement 10 minutes par jour est très efficace pour la régulation émotionnelle à l'aube."
+
 ---
 
 Mère Teresa, qui a consacré sa vie à aider les pauvres à Calcutta. Comment supportait-elle la souffrance des bidonvilles pour préserver sa paix intérieure ? 🕊️

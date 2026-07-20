@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Muss ich unbedingt um 4 Uhr aufstehen? Ich bin ein Nachtmensch."
     answer: "Nein. Es geht nicht um die Uhrzeit, sondern darum, die 3 Schritte (Abschalten, Kommunikation, Lichtspaziergang) konsequent in Ihren eigenen Zeitplan zu integrieren."
+
 ---
 
 Präsident Chung Ju-yung, Gründer der Hyundai Group. Er hatte eine einzigartige Morgenroutine: Aufstehen vor 4 Uhr morgens, Familienfrühstück um 5 Uhr und Fußmarsch ins Büro in Gaedong. Erfahren Sie mehr über die kognitiven Vorteile dieser Gewohnheit.

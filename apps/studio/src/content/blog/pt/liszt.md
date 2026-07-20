@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, o treino repetitivo de dedos após acordar ativa o córtex motor cerebral e molda o canal de atenção."
   - question: "Como posso substituir se não tiver um piano real?"
     answer: "Mover os dedos em ordem sobre uma mesa ou teclado simulado ao ritmo de um metrônomo estimula o córtex motor."
+
 ---
 
 O compositor húngaro Franz Liszt, o imperador do piano durante a era romântica do século XIX e o maior pianista virtuoso do seu tempo, expandiu ao máximo os limites expressivos da música para piano através de sofisticação e métodos de prática avassaladores. Em vez de praticar tocando rápida e imprudentemente no teclado, ele praticava todos os dias desacelerando o andamento do metrônomo para um nível extremamente lento e tocando apenas uma tecla por segundo sem erros. Ele programou em seu cérebro as trajetórias perfeitas dos movimentos musculares do teclado e depois as usou para criar movimentos mágicos e espetaculares.

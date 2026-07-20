@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "L'observation des plantes d'intérieur à la maison aide-t-elle ?"
     answer: "Oui, observer de près les plantes d'intérieur pendant plus de 15 secondes stimule également l'attention involontaire. Cependant, l'observation en plein air avec lumière naturelle et marche est plus efficace pour le rendement cognitif."
+
 ---
 
 Johann Wolfgang von Goethe, auteur du chef-d'œuvre « Faust ». Il n'était pas seulement un écrivain, mais un polymathe qui a exploré la botanique, la théorie des couleurs et l'anatomie. Derrière ses idées créatrices se cachait un rituel : l'habitude de se promener dans son jardin, d'observer de près les plantes et de récolter des graines. Chaque matin, il marchait lentement dans son jardin à Weimar. Il portait toujours des enveloppes et une loupe pour étudier les feuilles et collecter des graines. Pour Goethe, ce moment était une recharge cognitive qui le libérait du travail de bureau. Aujourd'hui, BuildSelf partage le secret de ce rituel.

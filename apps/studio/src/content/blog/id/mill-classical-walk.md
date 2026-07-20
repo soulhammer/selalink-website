@@ -21,6 +21,7 @@ faqs:
     answer: "Mendengarkan bersifat pasif. Hal ini menghalangi 'Pemanggilan Aktif'—memaksa otak mencari dan mengolah memori. Saat berjalan, kosongkan telinga dan olah informasi secara mandiri."
   - question: "Apakah kecepatan berjalan memengaruhi stimulasi otak?"
     answer: "Ya. Kecepatan ritmis yang santai namun aktif (4-5 km/jam) adalah yang terbaik. Intensitas aerobik ringan ini mengoptimalkan kadar BDNF dan aliran darah otak tanpa menguras energi fisik."
+
 ---
 
 John Stuart Mill menulis On Liberty. Bagaimana tokoh intelek ini mengembangkan kapasitas kognitifnya? 🚶

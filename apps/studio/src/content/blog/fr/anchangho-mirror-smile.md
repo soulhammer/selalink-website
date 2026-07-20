@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Est-ce que se forcer à sourire devant un miroir fonctionne vraiment ?"
     answer: "Oui, par l'effet de rétroaction faciale, le cerveau capte le mouvement des muscles du visage et en déduit un état de joie, libérant ainsi des hormones du bonheur."
+
 ---
 
 Ahn Chang-ho, grand leader de l'éducation et activiste pour l'indépendance de la Corée, pensait que développer la moralité individuelle, l'intelligence et la dignité quotidienne était aussi crucial pour l'indépendance que la lutte armée. Il enseignait à ses membres de s'adresser aux autres avec un sourire et de garder les espaces propres pour instaurer l'ordre. 🧹

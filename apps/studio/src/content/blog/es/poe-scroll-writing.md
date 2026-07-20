@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, algunos manuscritos originales (como sus críticas literarias o el relato 'The Murders in the Rue Morgue') se conservan en formato de tira continua pegada por él mismo en la Biblioteca Libre de Filadelfia (Free Library of Philadelphia) y otros museos de EE. UU."
   - question: "¿Hay programas para evitar la manía de borrar y corregir al escribir en pantalla?"
     answer: "Sí, existen aplicaciones diseñadas para forzar el flujo continuo, como 'The Most Dangerous Writing App' (que borra lo escrito si se detiene o borra), o editores que simulan una máquina de escribir (Typewriter Mode) impidiendo editar líneas previas."
+
 ---
 
 Edgar Allan Poe, el maestro de la intriga gótica creador de 'El cuervo' y 'El gato negro'. ¿Sobre qué tipo de soporte nacieron sus manuscritos, capaces de capturar la ansiedad humana con una lógica deductiva impecable? 📜

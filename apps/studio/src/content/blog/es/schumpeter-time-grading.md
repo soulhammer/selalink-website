@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Cómo evito ser demasiado indulgente o hacer trampa con mis calificaciones?"
     answer: "Por eso debe establecer rúbricas numéricas concretas. No base las calificaciones en sentimientos como 'Me sentí productivo hoy'. Baselas en hechos medibles como '¿Mi temporizador activo capturó 3 horas de trabajo profundo?'. Combinar rúbricas claras con datos analíticos bloquea los bucles de racionalización del cerebro, enfrentándolo a la realidad objetiva."
+
 ---
 
 Joseph Schumpeter, el economista austriaco que definió la innovación y la 'destrucción creativa'. Para mantener su intensa producción de investigación y escritura, practicó un hábito de autorreflexión frío y sistemático. Cada noche abría su diario para registrar las horas dedicadas a la investigación, la lectura y la escritura, y calificaba su desempeño de la A a la F. Investigamos los efectos neurocientíficos de esta rutina de puntuación diaria en la función ejecutiva y la autorregulación.

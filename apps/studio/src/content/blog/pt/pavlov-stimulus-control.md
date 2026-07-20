@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Como posso criar uma zona de bloqueio de estímulos se não tiver um escritório independente em casa?"
     answer: "Mesmo sem um quarto físico, você pode bloquear suficientemente os estímulos visuais e auditivos colocando uma divisória de mesa em um canto da mesa ou usando fones de ouvido com cancelamento de ruído para estabelecer uma barreira virtual de isolamento."
+
 ---
 
 Ivan Pavlov, o grande fisiologista que ganhou o primeiro Prémio Nobel da Fisiologia ou Medicina da Rússia ao descobrir padrões de aprendizagem e comportamento através da observação da salivação dos cães. Como surgiram as suas observações precisas que captaram o mecanismo de aprendizagem subconsciente dos animais? 🔔

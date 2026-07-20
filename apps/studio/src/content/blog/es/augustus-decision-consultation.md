@@ -21,6 +21,7 @@ faqs:
     answer: "Por eso los comentarios escritos son clave. Las reuniones cara a cara introducen el pensamiento de grupo y la presión social. Recopilar comentarios escritos le permite revisar la lógica y los datos de forma racional."
   - question: "¿Cuál es el mejor tamaño para este grupo asesor?"
     answer: "Manténgalo en un máximo de 3. Números mayores causan parálisis por análisis. Seleccione un experto principal para cada dominio relevante (por ejemplo, tecnología, negocios, legal)."
+
 ---
 
 Augusto, el primer emperador romano que puso fin a un siglo de guerra civil y sentó las bases de la Pax Romana de 200 años. A diferencia de su padre adoptivo Julio César, que murió joven, Augusto era físicamente débil y carecía de un talento militar excepcional. Sin embargo, gobernó Roma más tiempo que nadie, trayendo prosperidad. El secreto fue su rutina de consulta multiperspectiva antes de la decisión. En lugar de tomar decisiones autocráticas, Augusto mantuvo cerca a expertos de alto nivel como Mecenas y Agripa, animándolos a plantear opiniones disidentes. Analizamos la fórmula de toma de decisiones del emperador.

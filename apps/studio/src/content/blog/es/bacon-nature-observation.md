@@ -16,6 +16,7 @@ steps:
     text: "Camine despacio y preste atención de forma consciente a las formas, sonidos, texturas y olores de su entorno. Esto ancla el cerebro en el momento presente."
   - name: "Recoger las ideas al volver"
     text: "Al regresar a su escritorio, anote de inmediato las soluciones o ideas creativas que surgieron durante el paseo. Una corteza prefrontal descansada ejecutará las tareas con mayor claridad."
+
 ---
 
 "Para dominar la naturaleza, debemos obedecerla." Francis Bacon, el pionero del método científico, era un ávido jardinero. Cada mañana caminaba por sus jardines observando los cambios en las plantas. Sus escribas lo seguían anotando las ideas que dictaba. Para Bacon, esto era tanto una herramienta científica como una desintoxicación mental.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, revisar as prioridades em voz alta 30 minutos antes do trabalho pré-ativa o controle executivo do córtex pré-frontal."
   - question: "Como posso substituir se não tiver um quadro de notas dedicado?"
     answer: "Basta dizer a si mesmo em voz alta em um quarto silencioso as 3 tarefas principais do dia anotadas em um caderno."
+
 ---
 
 Margaret Thatcher, a primeira mulher primeira-ministra britânica e a senhora de ferro que superou com frieza e firmeza as dificuldades da crise económica britânica através de reformas conservadoras de linha dura e de reestruturação económica, colocando a Grã-Bretanha numa posição poderosa. Ela ficava sentada no escritório do Gabinete do Primeiro Ministro todas as noites até as 2 ou 3 da manhã, examinando centenas de páginas de volumosos documentos e relatórios de projetos de lei apresentados por funcionários do gabinete. Com um marcador amarelo na mão, ela percorreu as entrelinhas do relatório, ignorando a retórica desnecessária e o texto burocrático, traçando e sublinhando apenas três pilares fundamentais: a viabilidade das políticas nacionais, os indicadores orçamentais e as questões jurídicas. Essa rotina de destaques noturnos foi a força de vontade que ajudou a superar os difíceis problemas da Grã-Bretanha de uma só vez.

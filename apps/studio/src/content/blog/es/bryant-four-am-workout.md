@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Debo levantarme a las 4 AM también los fines de semana?"
     answer: "Para una correcta alineación circadiana, se aconseja que la variación horaria del fin de semana sea de menos de 1 hora. Dormir demasiado en días libres desajusta el reloj interno, dificultando el regreso al horario de semana."
+
 ---
 
 Kobe Bryant, uno de los mejores jugadores de la historia. Cada día a las 4 AM, en medio del silencio, comenzaba su entrenamiento. Su práctica en solitario mientras sus compañeros dormían en los Juegos Olímpicos fue el pilar de la mentalidad Mamba. Explore cómo la rutina de las 4 AM sincroniza el cuerpo para un rendimiento de élite.

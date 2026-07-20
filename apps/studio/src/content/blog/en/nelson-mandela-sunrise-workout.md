@@ -21,6 +21,7 @@ faqs:
     answer: "On days with extreme physical fatigue, it is better to replace intense workout with 5 to 10 minutes of light stretching and deep breathing. The essence of the Mandela routine is not to abuse the body, but to start the day's initiative with 'my own will'."
   - question: "How should a beginner with very low physical strength start?"
     answer: "Start with intensities that suit you, such as doing push-ups against a wall or on your knees, and replacing squats with sitting down and rising from a chair. Just 5 minutes a day, one set, is enough to activate the positive brain routine of securing autonomy in the morning."
+
 ---
 
 Nelson Mandela dedicated his life to human dignity and equality, becoming the first black president of South Africa. He was arrested and imprisoned for 27 years. However, Mandela did not break down in despair and finally won freedom. ☀️

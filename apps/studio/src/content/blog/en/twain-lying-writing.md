@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Won't working in bed make you sleepy or lazy?"
     answer: "It can. Therefore, this routine is not simply about lying down, but supporting your upper body firmly using pillows to maintain an 'alert relaxation' state. Also, you must preset a focused working time completely cutting off distractors like smartphones."
+
 ---
 
 Mark Twain, who opened a unique horizon in American literature with the novels 'The Adventures of Tom Sawyer' and 'Adventures of Huckleberry Finn,' is known as one of history's greatest humorists. Surprisingly, his sharp humor and vivid descriptions were born in the most comfortable and seemingly lazy place: his warm 'bed.'

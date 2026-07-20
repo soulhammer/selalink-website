@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Hilft das auch beim Schreiben emotionaler Geschichten oder Werbetexte?"
     answer: "Ersetzen Sie beim emotionalen Texten oder Geschichtenerzählen trockene Gesetze durch hochwertige Werbetexte oder ausdrucksstarke Prosa, die Sie nachahmen möchten. Der Kern von Stendhals Methode ist das bewusste Priming; Wählen Sie ein Stilmodell, das zum Zielton Ihrer bevorstehenden Aufgabe passt."
+
 ---
 
 Stendhal, berühmt für Rot und Schwarz, wird für seine objektive und transparente Prosa gefeiert, die die Komplexität menschlichen Ehrgeizes einfing. In einer Ära, die von blumiger Romantik geprägt war, bestand Stendhal auf mathematischer Präzision in seinen Sätzen. Seine geheime Morgenroutine vor dem Schreiben bestand darin, einige Seiten des napoleonischen Bürgerlichen Gesetzbuchs (Code Civil) zu lesen. Wir analysieren, wie Stendhal trockene, logische Gesetzestexte nutzte, um sein Gehirn vorzubereiten, rhetorischen Ballast abzuwerfen und seine objektive analytische Kraft zu schärfen.

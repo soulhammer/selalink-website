@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Weil préférait-elle les textes en grec ancien ?"
     answer: "Elle pensait que les langues classiques exigeaient un effort cognitif accru, évitant l'habitude passive et forçant l'esprit à accorder 100 % d'attention à chaque syllabe."
+
 ---
 
 Simone Weil, la brillante philosophe française qui a consacré sa vie à la vérité. Elle pensait que l'attention était l'outil le plus sacré de l'esprit. Pour la cultiver, elle récitait chaque matin le Notre Père en grec ancien ou des textes de Platon. Elle décrivait cette récitation comme un nettoyage mental pour aligner sa fréquence cognitive. Découvrez les bienfaits de la récitation.

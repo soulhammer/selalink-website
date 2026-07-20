@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apa yang harus saya lakukan jika menatap cermin membuat saya stres karena saya hanya melihat kekurangan atau kerutan di wajah saya?"
     answer: "Ini adalah fenomena yang sangat alami. Di awal menatap cermin, insting evaluasi penampilan bekerja dengan kuat. Pada saat ini, cobalah untuk fokus dan menatap hanya pada 'pupil (mata)' Anda daripada seluruh wajah. Membantu mengunci pandangan Anda dengan perasaan bahwa Anda sedang melakukan kontak mata dengan keberadaan Anda sendiri."
+
 ---
 
 Frida Kahlo, pelukis Meksiko legendaris, menanggung rasa sakit fisik ekstrem akibat polio dan kecelakaan bus mengerikan yang menghancurkan tulang-tulangnya dan menyebabkan lebih dari 30 operasi. Dalam situasi putus asa di mana dia terbaring di tempat tidur, yang menyelamatkan jiwanya dan menjadikannya pelukis kelas dunia adalah sebuah 'cermin' yang memantulkan dirinya setiap hari.

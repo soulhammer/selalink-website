@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, mendapatkan hasil dengan satu klik tidak menstimulasi jaringan kognitif otak. Sinapsis di korteks prefrontal berkembang aktif hanya ketika Anda melalui 'proses resistensi otak', seperti mencari kamus dan menyusun struktur kalimat."
   - question: "Apakah efeknya terbatas hanya pada mempelajari bahasa klasik seperti Yunani dan Latin?"
     answer: "Tidak. Teks bahasa asing modern (Inggris, Mandarin, Jerman, dll.) dengan struktur kalimat logis yang berbeda juga berfungsi sebagai sarana latihan yang luar biasa. Kuncinya adalah menerjemahkan teks formal dan padat seperti filsafat atau kolom, bukan dialog santai."
+
 ---
 
 Ratu Elizabeth I memimpin Inggris melewati masa-masa genting. Untuk mengasah logikanya sebelum bekerja, ia meluangkan waktu satu jam setiap pagi menerjemahkan teks Latin Seneca atau Cicero ke bahasa Inggris. Hobi ini melatih ketajaman berpikirnya.

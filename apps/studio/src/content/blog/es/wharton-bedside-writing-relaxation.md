@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Trabajar en la cama no convierte el dormitorio en un espacio estresante, lo que provoca insomnio?"
     answer: "Esa es una distinción importante. Nunca realice tareas estresantes en la cama, como responder quejas, organizar hojas de cálculo o planificar el calendario. Restrinja las tareas junto a la cama estrictamente a la ideación creativa, la escritura del primer borrador o la reflexión. Mantener el trabajo junto a la cama puramente positivo y libre de estrés evita que se comprometa el valor asociativo del sueño de la cama."
+
 ---
 
 Edith Wharton, la primera mujer en ganar el Premio Pulitzer de Ficción por su novela La edad de la inocencia, analizó la vanidad y la hipocresía de la alta sociedad con una prosa afilada como una navaja. Sin embargo, su rutina diaria de escritura era increíblemente acogedora. Al despertarse temprano, se negaba a levantarse de la cama hasta las 11 a. m. Apoyada en almohadas, con sus perros pekineses acostados sobre las mantas, escribía en una tabla de madera sobre su regazo. Esta profunda relajación física minimizó la ansiedad al escribir y generó un flujo de imaginación creativa altamente activo. Exploramos la neurobiología de cómo la relajación somática cambia el sistema nervioso autónomo al dominio parasimpático, fomentando las ondas cerebrales necesarias para la narración profunda.

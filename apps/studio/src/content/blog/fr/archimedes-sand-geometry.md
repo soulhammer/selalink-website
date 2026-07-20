@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Peut-on utiliser cette méthode si je dessine très mal ?"
     answer: "Oui. L'habitude d'Archimède n'est pas artistique, mais constitue un processus cognitif pour décharger l'esprit à l'extérieur. Dessiner de simples cercles ou relier des mots avec des flèches suffit à réduire la charge de la mémoire de travail."
+
 ---
 
 Le plus grand génie de l'Antiquité, Archimède, qui découvrit le principe du levier. Derrière sa concentration surhumaine et son inspiration scientifique se cachait une habitude de croquis visuels. Il dessinait des formes géométriques sur le sable ou sur l'huile corporelle après le bain. L'anecdote selon laquelle il cria à un soldat romain de ne pas piétiner ses cercles est célèbre. Nous dévoilons comment ces croquis créèrent un focus mental absolu.

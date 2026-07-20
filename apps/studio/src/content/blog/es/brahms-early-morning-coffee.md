@@ -21,6 +21,7 @@ faqs:
     answer: "Brahms era perfeccionista y creía que la intensidad y el sabor del café influían en su estado de alerta, por lo que prefería seguir su ritual obsesivo de moler y preparar él mismo los granos."
   - question: "¿Cómo contribuye caminar a la estimulación cerebral?"
     answer: "Caminar aumenta el flujo sanguíneo cerebral debido al impacto del pie contra el suelo y promueve el BDNF, estimulando la formación de sinapsis para maximizar la creatividad y la memoria de trabajo."
+
 ---
 
 Johannes Brahms, compositor considerado uno de los tres grandes maestros de la música clásica alemana junto a Johann Sebastian Bach y Ludwig van Beethoven. Sus obras maestras, pesadas pero líricas, se diseñaron en un ritual de despertar perfecto y meticulosamente estructurado cada mañana. ☕

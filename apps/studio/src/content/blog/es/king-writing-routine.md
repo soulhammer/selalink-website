@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Stephen King escribía 2.000 palabras al día?"
     answer: "Para no depender del estado de ánimo y producir obras de forma mecánica a diario, utilizando activadores sensoriales y límites de producción mínimos para controlar y habituar el tiempo que dura la inspiración."
+
 ---
 
 Stephen King, el maestro del terror moderno detrás de obras maestras como 'El resplandor' y 'Cadena perpetua', ha mantenido una disciplina estricta durante décadas: empieza a escribir cada mañana y no se levanta hasta terminar 2.000 palabras. ✍️

@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Menurut ilmu saraf, ketika tugas mencapai titik tertinggi dan gesekan kognitif dimaksimalkan, daripada memaksakan diri untuk melakukannya, melakukan kerja ventilasi selama 20 menit dan kemudian kembali ke lobus frontal yang jelas akan mempercepat total kecepatan penyelesaian akhir lebih dari 40%."
   - question: "Berapa banyak jalur tugas per hari yang terbaik?"
     answer: "Untuk melindungi baterai energi otak pengambilan keputusan Anda, kami merekomendasikan tidak lebih dari tiga kategori tugas inti per hari. Pengaturan trek yang sering lebih dari empat mengakibatkan peralihan perhatian yang sia-sia."
+
 ---
 
 Pablo Picasso, seorang pelukis Spanyol jenius yang menciptakan banyak sekali inspirasi destruktif tanpa batas sepanjang hidupnya, termasuk lukisan, patung, dan keramik. Dia meletakkan lusinan kanvas yang belum selesai di seluruh studio besarnya pada saat yang bersamaan dan mulai mengerjakannya. Ketika inspirasi berhenti saat melukis sebuah karya Kubisme dan dia merasakan stagnasi kognitif di otaknya, dia tidak memaksakan kuasnya, tetapi segera mengambil kuasnya dan pindah ke lukisan still life atau kanvas potret yang sama sekali berbeda di sebelahnya dan terus bekerja. Rutinitas perubahan tugas yang fleksibel ini menjadi kekuatan pendorong di balik penciptaan puluhan ribu mahakarya sepanjang kariernya.

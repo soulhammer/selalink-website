@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How is Jules Verne's research card different from Professor Niklas Luhmann's Zettelkasten method?"
     answer: "While Zettelkasten focuses on creating a web of thoughts through permanent numbering links between cards, Jules Verne's cards focus on building a large encyclopedic archive of science and technology data by category to support technical descriptions and plausibility in his works."
+
 ---
 
 Jules Verne, the pioneer of science fiction who melted fantastic adventures and brilliant imaginations ahead of his time in texts such as 'Twenty Thousand Leagues Under the Sea' and 'Around the World in Eighty Days'. Where did his detailed background knowledge that predicted satellites, submarines, and moon landing vehicles with amazing precision in the 19th century come from? 🗺️

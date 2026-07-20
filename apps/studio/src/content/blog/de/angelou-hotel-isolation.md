@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Warum schrieb Angelou isoliert in einem Hotelzimmer?"
     answer: "Um ihr Gehirn von Reizen zu Hause (Bilder, Hausarbeit) abzuschirmen und einen Zustand extremen Fokus zu erzwingen."
+
 ---
 
 Maya Angelou, eine legendäre amerikanische Dichterin, Autobiografin und Bürgerrechtlerin, die die bahnbrechende Autobiografie „Ich weiß, warum der gefangene Vogel singt“ schrieb. Um sich tief zu konzentrieren, mietete sie sich jeden Morgen um 6:30 Uhr in ein Hotelzimmer ein. Sie bat das Personal, alle Bilder und Dekorationen zu entfernen, sodass nur eine Bibel, ein Wörterbuch, ein Kartenspiel und eine Flasche Sherry übrig blieben. Heute zeigt BuildSelf, wie ein ablenkungsfreies Umfeld Ihre kognitive Leistung steigern kann.

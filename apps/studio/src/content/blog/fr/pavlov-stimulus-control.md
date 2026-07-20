@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Comment créer une zone de blocage des stimuli si je n'ai pas de bureau indépendant ou de pièce dédiée à la maison ?"
     answer: "Même sans pièce dédiée, vous pouvez bloquer efficacement les stimuli visuels et auditifs en installant une cloison d'intimité sur un coin du bureau ou en utilisant un casque antibruit pour créer une barrière d'isolement virtuelle."
+
 ---
 
 Ivan Pavlov, le grand physiologiste qui a remporté le premier prix Nobel russe de physiologie ou médecine en découvrant les schémas d'apprentissage et de comportement grâce à l'observation de la salivation des chiens. Comment sont nées ses observations précises du mécanisme d'apprentissage inconscient des animaux ? 🔔

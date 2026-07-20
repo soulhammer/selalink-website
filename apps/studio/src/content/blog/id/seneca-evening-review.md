@@ -16,6 +16,7 @@ steps:
     text: "Pejamkan mata dan bayangkan kembali aktivitas Anda sejak bangun tidur secara berurutan. Periksa tindakan dan reaksi Anda tanpa menghakimi, cukup amati."
   - name: "Langkah 3: Ambil Pelajaran dan Relakan Pikiran"
     text: "Temukan satu pelajaran atau kesalahan utama hari ini. Tentukan satu tindakan konkret untuk memperbaikinya besok. Begitu rencana dibuat, tutup hari ini dan relakan semua beban."
+
 ---
 
 "Ketika lampu telah dimatikan dan istri saya sudah terlelap, saya memeriksa seluruh hari saya." Seneca, filsuf Stoik Roma, percaya pada ritual mengadili diri sendiri setiap malam. Dengan menganalisis tindakannya secara objektif di kegelapan, ia meredakan beban emosi hari itu.

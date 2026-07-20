@@ -21,6 +21,7 @@ faqs:
     answer: "Ao abrir o celular você se expõe a notificações e e-mails que diluem a ideia. A caderneta é instantânea e, através do estímulo tátil, envia sinais diretos ao SARA, imprimindo maior importância ao pensamento nas células cerebrais."
   - question: "Há exemplos de ideias pequenas em cadernetas que se tornaram grandes projetos?"
     answer: "Sim, a companhia aérea Virgin Atlantic nasceu de uma nota. Quando cancelaram seu voo para Porto Rico, Branson escreveu: 'Operar companhia aérea alternativa?'. Ele ligou para cotar um fretamento e vendeu passagens de ida aos passageiros retidos. Essa frase deu origem à companhia aérea global."
+
 ---
 
 Richard Branson, o bilionário fundador do Virgin Group, que construuiu um império de mais de 400 empresas em aviação, espaço e finanças. Famoso pelo seu marketing criativo, tem um objeto de assinatura: não um relógio de luxo, mas uma pequena caderneta de papel no bolso do jeans.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Hat das Scrollen durch Kurzvideos wie Reels oder TikTok einen ähnlichen kognitiven Reset-Effekt?"
     answer: "Nein, es hat den gegenteiligen Effekt. Kurzvideos bombardieren das Gehirn alle paar Sekunden mit neuen Informationen und visuellen Reizen. Dies überstimuliert die Dopaminbahnen und zwingt das Gehirn, ständig neue Fragmente zu kontextualisieren, was die geistige Unruhe verstärkt. Wittgensteins Routine konzentriert sich auf ein langzeitiges, langsames und einfaches Erleben, das die kognitive Verarbeitung aussetzt. Schnelle Kurzmedien erschöpfen das Gehirn, anstatt es auszuruhen."
+
 ---
 
 Ludwig Wittgenstein, das geniale Denker des frühen 20. Jahrhunderts, das die akademische Welt mit der Logisch-Philosophischen Abhandlung erschütterte. Da er die Grenzen logischen Denkens auslotete, war er extremer kognitiver Erschöpfung ausgesetzt. Um diese geistige Überhitzung zu überwinden, pflegte Wittgenstein ein tägliches Abendritual. Er eilte ins Kino, setzte sich in die erste Reihe und starrte auf Westernfilme. Wir untersuchen, wie diese einfache, intensive visuelle Stimulation einen erschöpften präfrontalen Cortex reinigt und zurücksetzt.

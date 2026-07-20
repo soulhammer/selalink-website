@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Est-il possible d'utiliser des outils numériques s'il est difficile de dessiner les storyboards à la main ?"
     answer: "L'essence du storyboard ne réside pas dans vos talents de dessinateur, mais dans la planification structurée par étapes et la simulation du comportement. Utiliser Figma, Miro ou de simples applications de carte heuristique pour l'organiser avec des blocs et du texte suffit amplement à obtenir les mêmes avantages en psychologie cognitive."
+
 ---
 
 Alfred Hitchcock, le génie de la psychologie américaine qui a établi le paradigme du béhaviorisme. En tant que scientifique ayant étudié les mécanismes de modification du comportement d'autrui, comment gérait-il sa propre productivité ? 🎬

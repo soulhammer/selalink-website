@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Hat Doyle wirklich Cricket und Boxen auf hohem Niveau betrieben?"
     answer: "Ja, Doyle spielte für den berühmten Marylebone Cricket Club und boxte aktiv. Er war sogar Schiedsrichter bei Boxkämpfen und nutzte diese Erfahrungen für Sherlocks Kampfszenen."
+
 ---
 
 Sir Arthur Conan Doyle, Arzt und Schöpfer von Sherlock Holmes, hielt seinen eigenen Körper stets aktiv. Er war ein hervorragender Sportler, der boxte, Cricket und Fußball spielte. Er war überzeugt: Wird der Körper träge, stagniert der Geist. Erfahren Sie, wie Sport die BDNF-Ausschüttung anregt und kognitive Fähigkeiten maximiert.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wie machte sich Thoreau beim 4-stündigen Gehen Notizen?"
     answer: "Er hatte ein kleines, selbstgemachtes Lederbuch und einen Bleistift dabei. Bei einem Gedanken hielt er inne und notierte Details unter einem Baum."
+
 ---
 
 Henry David Thoreau, der amerikanische Schriftsteller, der autark am Walden-See lebte und den Klassiker *Walden* schrieb. Hinter seinen Erkenntnissen steckte eine eiserne Nachmittagsroutine: Er wanderte täglich 4 Stunden durch die Wälder von Concord. Er machte keinen reinen Sport; er beobachtete die Natur präzise und notierte Einfälle in sein Notizbuch. Entdecken Sie, wie Naturspaziergänge den Geist erfrischen.

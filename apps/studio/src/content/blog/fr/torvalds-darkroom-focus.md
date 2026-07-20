@@ -21,6 +21,7 @@ faqs:
     answer: "Un contraste excessif fatigue les yeux. Il est recommandé de baisser la luminosité de l'écran pour l'adapter à l'espace ou d'utiliser un rétroéclairage LED doux installé derrière l'écran."
   - question: "Que faire si je n'ai pas de buanderie ou de pièce isolée ?"
     answer: "Aucun espace spécial n'est requis. Il suffit de fermer la porte, de s'asseoir le dos au mur pour éviter les distractions ou d'installer un panneau de séparation pour bloquer la vue."
+
 ---
 
 Linus Torvalds programmait Linux dans une pièce sombre sans décorations. Cet environnement lui a permis de consacrer toute son énergie préfrontale au noyau.

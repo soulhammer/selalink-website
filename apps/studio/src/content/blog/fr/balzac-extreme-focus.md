@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Consommer de la caféine tard le soir ne perturbe-t-il pas le sommeil ?"
     answer: "Oui, cela peut affecter le sommeil. Le style de Balzac n'est pas adapté pour les actifs. Si vous êtes sensible, utilisez du décaféiné ou du thé à la menthe, et placez le bloc de travail à l'aube ou juste après le travail."
+
 ---
 
 Honoré de Balzac, géant de la littérature réaliste française du XIXe siècle, a posé les bases du roman moderne avec « La Comédie humaine ». La force motrice de sa création était sa routine d'« hyperfocus » consistant à se réveiller à minuit et à écrire pendant 12 heures. Se réveillant à minuit quand le monde se taisait, Balzac revêtait une robe blanche et n'allumait que deux bougies, éliminant toute distraction. Il écrivait pendant 12 à 15 heures, utilisant du café pour rester éveillé. Aujourd'hui, BuildSelf partage les principes neuroscientifiques derrière la routine de Balzac.

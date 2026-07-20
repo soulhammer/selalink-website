@@ -21,6 +21,7 @@ faqs:
     answer: "No. El momento clave es justo después de acelerar el pulso. Si te duchas, el ritmo cardíaco vuelve a la normalidad y se reduce el efecto del cambio de sistema y la eliminación de cortisol. Siéntate en cuanto termines el ejercicio."
   - question: "¿Significa que he fallado si me distraigo durante la meditación?"
     answer: "No. Es una reacción natural. El éxito de la meditación no radica en tener la mente en blanco, sino en darse cuenta de la distracción y devolver la atención a la respiración. Cada vez que lo haces, entrenas el lóbulo frontal."
+
 ---
 
 El primer ministro fundador Lee Kuan Yew, quien transformó a Singapur, una pequeña ciudad-estado sin recursos, en un centro financiero global. Se enfrentaba a una inmensa presión formulando estrategias de supervivencia y a la parálisis por decisión determinando el destino de la nación. ¿Cómo mantuvo su cerebro agudo hasta los 90 años?

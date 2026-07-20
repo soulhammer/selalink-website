@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, walking at any time of the day provides bilateral stimulation. However, while morning walks excel at awakening the brain, evening walks help reset cognitive load and emotional tension accumulated from communication and work during the day."
   - question: "Can I type my subconscious thoughts on a smartphone or keyboard?"
     answer: "Typing activates the brain's logical computation mode due to simplified visual feedback. Conversely, handwriting with a pen strongly stimulates the Reticular Activating System (RAS) through fine muscle control, making it much more effective at surfacing subconscious thoughts intuitively."
+
 ---
 
 Sigmund Freud, the father of psychoanalysis who reshaped modern psychology by introducing concepts like the subconscious and the interpretation of dreams. Where did his insights come from? 🧠

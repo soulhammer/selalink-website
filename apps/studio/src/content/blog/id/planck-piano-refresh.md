@@ -21,6 +21,7 @@ faqs:
     answer: "Tekan tuts secara bebas tanpa mengkhawatirkan melodi. Fokus pada sentuhan tuts dan resonansi suara merelaksasi serta mengatur ulang jaringan konsentrasi otak."
   - question: "Apakah pengaturan ulang kognitif bisa dilakukan dengan alat musik selain piano?"
     answer: "Ya. Alat musik gesek, petik, atau tuts yang membutuhkan koordinasi jari halus dan kontrol suara langsung memberikan efek pengalihan perhatian yang serupa."
+
 ---
 
 Max Planck, bapak fisika modern. Di tengah kalkulasi logika intens untuk menyusun struktur alam semesta, kunci melepas penatnya adalah membebaskan diri melalui piano. Planck adalah pianis berbakat yang sering berduet musik dengan Albert Einstein. Setiap kali penelitiannya buntu, ia berimprovisasi piano tanpa partitur.

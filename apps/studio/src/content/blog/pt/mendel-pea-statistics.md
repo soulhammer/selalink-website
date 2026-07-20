@@ -21,6 +21,7 @@ faqs:
     answer: "Planilhas automatizam o processo, reduzindo o estímulo visual. Desenhar as linhas à mão envolve o lobo parietal inferior de forma muito mais forte, ajudando a captar relações de causa e efeito."
   - question: "É necessário continuar registrando se não houver grandes mudanças nos números?"
     answer: "Sim, absolutamente. Uma linha plana representa consistência, o que é valioso. Registrar períodos sem mudanças mantém os mecanismos de controle de impulsos do cérebro."
+
 ---
 
 Gregor Mendel, o pai da genética. Em um mosteiro do século XIX sem equipamentos de laboratório, como descobriu as leis da hereditariedade? 🫛

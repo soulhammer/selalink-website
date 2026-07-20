@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que fazer se tiver falta de sono crônico e me custar madrugar?"
     answer: "Madrugar requer deitar-se mais cedo. Se não puder dormir cedo devido ao seu horário de trabalho, não se force a acordar às 4 AM. Em vez disso, reserve os primeiros 30 minutos de seu despertar habitual para a desconexão digital e escrita, alcançando o mesmo efeito de foco."
+
 ---
 
 Paul Valéry, o expoente máximo do simbolismo francês. Durante 51 anos, levantou-se às 4 AM para escrever em sua escrivaninha. Nessas horas silenciosas antes do amanhecer, registrou o fluxo de seus pensamentos. Esses escritos somaram 261 cadernos e constituíram o núcleo de sua obra. Analisemos como o silêncio do amanhecer limpa o ruído mental para liberar ideias puras.

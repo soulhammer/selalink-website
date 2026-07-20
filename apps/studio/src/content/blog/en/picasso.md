@@ -21,6 +21,7 @@ faqs:
     answer: "No. According to neuroscience, when a task reaches a plateau and cognitive friction is maximized, rather than forcing yourself to do it, doing 20 minutes of ventilatory work and then returning to a clear frontal lobe will accelerate the total final completion speed by more than 40%."
   - question: "How many assignment tracks per day is best?"
     answer: "To protect your decision-making brain's energy battery, we recommend no more than three core task categories per day. Frequent track settings of more than four result in wasted attention switching."
+
 ---
 
 Pablo Picasso, a genius Spanish painter who created a vast amount of borderless, destructive inspiration throughout his life, including paintings, sculptures, and ceramics. He laid out dozens of unfinished canvases all over his huge atelier at the same time and started working on them. When inspiration stopped while painting a Cubist work and he felt cognitive stagnation in his brain, he did not force the brush, but immediately picked up the brush and moved to a completely different still life or portrait canvas next to him and continued working. This flexible task-changing routine was the driving force behind the creation of tens of thousands of masterpieces throughout his career.

@@ -21,6 +21,7 @@ faqs:
     answer: "Meskipun mind mapping berpusat pada asosiasi kata-kata yang meluas ke segala arah, pemetaan visual Lovelace adalah proses merancang 'prinsip-prinsip struktural mekanisme operasional' seperti urutan, alur kontrol (loop dan kondisi), dan interaksi dalam suatu sistem."
   - question: "Apakah saya harus menggunakan alat perangkat lunak yang rumit (UML, Figma, dll.)?"
     answer: "Tidak. Daripada membuang-buang sumber daya kognitif otak untuk mempelajari perangkat lunak, mengambil pena dan kertas untuk menggambar dengan tangan jauh lebih efektif dalam mengaktifkan pengodean ganda otak. Coretan papan tulis biasa adalah alat terbaik."
+
 ---
 
 Ada Lovelace menerjemahkan konsep matematika abstrak ke dalam diagram visual. Kebiasaan spasial ini memungkinkannya memahami algoritma pertama di dunia.

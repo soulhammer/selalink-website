@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum forschte Henri Poincaré nur 4 Stunden am Tag?"
     answer: "Weil langes erzwungenes Konzentrieren den kognitiven Horizont des Gehirns verengt und die Kreativität mindert. Nach 4 Stunden fokussiertem Arbeiten aktivierte er durch Spaziergänge den diffusen Modus, um unbewusste Inspirationen zu nutzen."
+
 ---
 
 Henri Poincaré, der Löser des Dreikörperproblems, Pionier der Chaostheorie und einer der größten Mathematiker der Geschichte, arbeitete überraschenderweise nur 4 Stunden am Tag an seinem Schreibtisch. ⏰

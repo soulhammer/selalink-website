@@ -21,6 +21,7 @@ faqs:
     answer: "O contraste excessivo cansa os olhos. Recomenda-se diminuir o brilho do monitor para adaptá-lo ao ambiente ou usar uma luz LED de fundo suave instalada atrás da tela."
   - question: "O que fazer se eu não tiver uma área de serviço ou quarto isolado?"
     answer: "Não é necessário um espaço especial. Basta fechar a porta, sentar-se de costas para a parede para evitar distrações ou colocar um painel divisório que bloqueie a vista além do monitor."
+
 ---
 
 Linus Torvalds programava o Linux num quarto escuro e silencioso. Este ambiente de estímulo mínimo permitiu que ele dedicasse toda a energia pré-frontal ao desenvolvimento.

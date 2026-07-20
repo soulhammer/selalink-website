@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Pourquoi les Curie ont-ils demandé des vélos comme cadeaux de mariage ?"
     answer: "Plutôt qu'un mariage fastueux, ils voulaient un outil pratique pour voyager dans la campagne française, méditer et se concentrer sur leurs recherches."
+
 ---
 
 Marie Curie, première femme lauréate du prix Nobel et scientifique de légende qui reste à ce jour la seule personne de l'histoire à avoir obtenu des prix Nobel dans deux disciplines scientifiques distinctes : la physique et la chimie.

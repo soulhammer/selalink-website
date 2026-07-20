@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué actividades de meditación táctil pueden sustituir al hilado?"
     answer: "Cualquier actividad rítmica que requiera motricidad fina es adecuada. Escribir con pluma estilográfica, tejer, la ceremonia del té, montar puzles o Lego, o tocar tambores de dedos producen el mismo efecto estimulante de serotonina."
+
 ---
 
 Mahatma Gandhi, el padre de la India que lideró la independencia a través del movimiento de desobediencia no violenta y dejó un profundo legado de paz. ¿Dónde comenzó la paciencia sobrehumana y la inquebrantable paz interior de este activista? La respuesta estaba en el ritual especial de la mañana que cumplió estrictamente durante toda su vida.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Se puede replicar el método de tarjetas de Nabokov usando herramientas de notas digitales en lugar de tarjetas físicas?"
     answer: "Sí, absolutamente. Puede usar tableros Kanban en Notion, Trello o pizarras digitales como Miro o FigJam para crear tarjetas y arrastrarlas. El principio básico no es escribir textos continuos largos a la vez, sino modularizar los pensamientos en objetos móviles."
+
 ---
 
 Vladimir Nabokov, quien mostró la cúspide de la literatura inglesa del siglo XX con estructuras elaboradas en Lolita. Sorprendentemente, no escribió sus novelas en orden cronológico. En cambio, escribió diálogos, descripciones y fragmentos de tramas en tarjetas de 3x5 pulgadas. Nabokov colocaba estas tarjetas en su escritorio y las reorganizaba libremente, incluso llevándolas en su automóvil o mientras recolectaba mariposas. Exploramos por qué este método de escritura modular es una estrategia cognitiva poderosa para proyectos complejos y escritura.

@@ -21,6 +21,7 @@ faqs:
     answer: "Não. Ajustar a cor das ferramentas digitais (temas de aplicativos, pastas de e-mail, temas do navegador) conforme o uso proporciona o mesmo efeito de ativação."
   - question: "Pode ser contraproducente usar cores demais e mudá-las frequentemente?"
     answer: "Sim. Para que o cérebro associe uma cor com um estado mental, é necessária constância. Portanto, limite as cores a 3 categorias principais e mantenha-as firmes."
+
 ---
 
 Alexandre Dumas escrevia romances em papel azul, poesia em papel amarelo e artigos em papel rosa. Este hábito de alternar cores evitou a fadiga mental e manteve seu córtex visual estimulado.

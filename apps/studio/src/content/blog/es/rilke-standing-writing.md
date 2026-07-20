@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué debo hacer si me duelen las plantas de los pies o la espalda al utilizar un escritorio de pie?"
     answer: "Se recomienda colocar una alfombra antifatiga amortiguadora bajo los pies o usar zapatillas acolchadas de interior, y contraer ligeramente los músculos abdominales y lumbares para distribuir la gravedad y evitar una flexión espinal excesiva."
+
 ---
 
 Rainer Maria Rilke, el inigualable poeta austriaco que marcó la cumbre de la poesía moderna describiendo profundos paisajes interiores con magníficos ritmos en 'Los cuadernos de Malte Laurids Brigge' y 'Elegías de Duino'. ¿Qué entorno de escritura único eligió para despertar la tensión creativa y la inspiración intuitiva? ✍️

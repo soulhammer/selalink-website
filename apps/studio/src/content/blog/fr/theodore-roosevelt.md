@@ -21,6 +21,7 @@ faqs:
     answer: "C'est parce que l'intensité de l'exercice était trop élevée et que l'accumulation de fatigue augmentait rapidement. Dès que vous atteignez le point critique d'être essoufflé, vous devez immédiatement l'arrêter avec une minuterie de 3 minutes afin que seule la dopamine rafraîchissante du réveil soit chargée dans votre cerveau."
   - question: "Comment doit commencer un débutant avec une force physique très faible ?"
     answer: "Tout type d'entraînement physique aérobique/de force, comme la marche sur place à un rythme rapide ou la course légère sur place, est tout aussi efficace tant qu'il est suffisant pour vous faire transpirer légèrement en fonction de votre condition cardiorespiratoire actuelle."
+
 ---
 
 Theodore Roosevelt, le 26e président des États-Unis, qui a été nommé à la présidence au plus jeune âge de l'histoire des États-Unis et a mené des réformes progressistes innovantes et élargi l'hégémonie mondiale de l'Amérique en déployant une forte puissance diplomatique à l'étranger. Afin de surmonter les limites de son corps asthmatique et mince lorsqu'il était enfant, il allait à la salle de sport tous les matins et pratiquait un entraînement physique de haute intensité toute sa vie, soulevant de lourds blocs de fer jusqu'à ses limites et transpirant. Cette habitude d'exercice physique explosif chaque matin a non seulement transformé un garçon faible en un homme fort, mais a également été la force motrice qui lui a donné la volonté de fer et la vivacité d'esprit nécessaires pour endurer sa fonction de président.

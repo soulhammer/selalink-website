@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Inti dari rutinitas Raja Sejong adalah 'mengamankan aset kognitif sendiri segera setelah bangun tidur tanpa gangguan luar'. Bangun hanya 30 menit lebih awal dan membaca dengan tenang tanpa ponsel sudah cukup untuk menghasilkan efek yang sama."
   - question: "Apakah boleh membaca novel web atau artikel media sosial?"
     answer: "Untuk melatih otak di pagi hari, lebih baik membaca buku fisik terstruktur daripada teks digital yang terfragmentasi. Buku filsafat, humaniora, sejarah, atau esai yang membutuhkan pemikiran aktif jauh lebih bermanfaat."
+
 ---
 
 Raja Sejong yang Agung, raja yang paling dihormati dalam sejarah Korea yang menciptakan Hangeul dan memajukan sains serta budaya. Apa rahasia di balik kreativitas luar biasa dan keputusan bijaksananya meskipun beban kerja parah dan sakit? Ia bangun sebelum orang lain jam 3 atau 4 pagi dan membaca buku di bawah cahaya lilin. Di waktu tenang ini, ia fokus membaca sejarah dan karya klasik untuk mempersiapkan debat akademis. Hari ini, BuildSelf memperkenalkan prinsip-prinsip neurologis dan penerapan modern dari rutinitas 'membaca subuh' Raja Sejong.

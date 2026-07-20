@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, copies of the articles collected by George Orwell and his clipped scrapbooks, along with notes related to his work, are preserved as historically valuable materials in the George Orwell Archive at University College London (UCL)."
   - question: "What apps do you recommend to perform this scrap routine digitally?"
     answer: "We recommend Notion, Obsidian, and Evernote, which allow easy capture and highlighting of text and immediate adding of personal opinion notes, or Pocket and Raindrop.io, which are dedicated web scraping apps."
+
 ---
 
 George Orwell, a giant of 20th-century English literature who sharply warned of the nature of human power and the dangers of dictatorship through '1984' and 'Animal Farm.' How were his foresight and cool analytical sentences maintained every day? 📰

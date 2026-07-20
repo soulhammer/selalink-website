@@ -21,6 +21,7 @@ faqs:
     answer: "Ocultar los errores prolonga la ansiedad. Escribir los hechos y analizar el porqué de un fallo ayuda al cerebro a recuperar el sentido de control, lo que reduce el estrés."
   - question: "¿Existe algún entrenamiento para captar mejor la serendipia?"
     answer: "Hacer pequeños cambios en sus rutas diarias es muy útil. Caminar por una ruta diferente introduce micro-ruido, lo que estimula el cerebro para notar conexiones nuevas."
+
 ---
 
 La penicilina, el primer antibiótico que salvó millones de vidas. ¿Nació en un laboratorio de alta tecnología? 🧫

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Y a-t-il une raison d'utiliser un carnet en papier à l'ère du numérique ?"
     answer: "Oui. L'écriture manuscrite active davantage le cortex que le clavier et stimule l'hippocampe. De plus, elle offre l'avantage de pouvoir schématiser librement ses idées avec des symboles sans les contraintes du texte numérique."
+
 ---
 
 Isaac Newton, le plus grand scientifique de l'histoire, a découvert la loi de la gravitation universelle, fondé le calcul infinitésimal et posé les bases de la physique moderne. Comment un système de connaissances aussi vaste et complexe a-t-il pu s'organiser dans la tête d'un seul homme ? La clé réside dans sa rigoureuse 'habitude d'écrire' adoptée dès sa jeunesse.

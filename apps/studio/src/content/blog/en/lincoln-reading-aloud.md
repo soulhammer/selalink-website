@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What kind of book is effective to read aloud?"
     answer: "Rather than novels or essays, reading humanities texts with dense, logical sentences, textbooks, or report excerpts is most effective for improving prefrontal plasticity."
+
 ---
 
 Abraham Lincoln, the 16th President of the United States, who united a country on the brink of division and achieved the historic milestone of the abolition of slavery. Despite receiving almost no formal education, he was renowned for his brilliant speeches and logical insights. Behind Lincoln's incredible vocabulary and information processing was a unique reading ritual he practiced in his office every morning. It was reading books or newspapers aloud so that his voice filled the office. His law partner, William Herndon, testified that Lincoln read aloud every morning so that his voice echoed out into the hallway. When asked why he read so slowly and loudly, Lincoln smiled and said, 'I see the words with my eyes to imprint them on my brain, and at the same time, I hear my own voice with my ears to imprint them again. Using both senses doubles the memory.' Today, BuildSelf shares the brain-scientific truth behind Lincoln's reading aloud habit and how to design a modern reading ritual to boost your memory and comprehension.

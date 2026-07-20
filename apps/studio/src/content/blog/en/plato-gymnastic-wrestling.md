@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, there is no need to lift heavy weights. You can scale down the exercises to wall push-ups, bodyweight slow squats, or planks. The physiological trigger for brain blood flow is reaching a state where your breathing elevates and you sweat lightly, so adjust the intensity to keep it safe."
   - question: "Can I replace resistance training with cardio like jogging or running?"
     answer: "While jogging supports brain health, short bursts of high-intensity resistance training are more effective at triggering rapid BDNF release and immediate cognitive arousal. If choosing cardio, incorporate short sprint intervals or hill climbs to push your breathing limits, matching the warm-up effect."
+
 ---
 
 Plato, the intellectual giant who laid the foundation of Western philosophy and established 'Academeia.' Where did his tireless thinking and mental stamina come from? 🤼

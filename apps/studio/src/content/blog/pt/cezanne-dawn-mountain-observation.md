@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Devo sair de casa mesmo em dias nublados ou chuvosos?"
     answer: "Sim. Mesmo em dias nublados, os níveis de luz no exterior variam entre 1.000 e 2.000 lux, o que é muito mais brilhante do que a iluminação interior típica (300 a 500 lux). Continuará a receber os benefícios biológicos do reinício circadiano. Contudo, se a qualidade do ar for má, substitua a caminhada ao ar livre por ficar em frente a uma janela grande por 10 minutos."
+
 ---
 
 Paul Cezanne, elogiado por Picasso e Matisse como o pai de todos nós, lançou as bases para o cubismo e a abstração do século XX. As suas obras capturam as eternas estruturas geométricas da natureza. A fonte da sua visão única era a sua rotina matinal. Ao acordar às 6h, carregava o seu cavalete para caminhar pelos trilhos de Aix-en-Provence. Enquanto o sol nascia sobre o Mont Sainte-Victoire, permanecia de pé e meditava sobre os ângulos mutáveis da luz e a transmutação das cores. Exploramos como expor o córtex visual à luz solar do amanhecer agça o foco.

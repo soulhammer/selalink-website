@@ -21,6 +21,7 @@ faqs:
     answer: "Menulis dengan stylus di tablet memiliki efek yang mirip dengan menulis di kertas. Namun, mengetik dengan keyboard jauh kurang efektif karena terlalu cepat dan otomatis tanpa proses berpikir kognitif yang mendalam. Kecepatan menulis tangan yang lebih lambat secara alami memaksa otak mencerna informasi dengan baik."
   - question: "Bagaimana cara merapikan tumpukan catatan ini agar tidak berantakan dan hilang?"
     answer: "Kami menyarankan metode commonplace book milik John Locke: buat halaman indeks berdasarkan kategori atau kata kunci di halaman depan buku catatan Anda. Anda juga bisa memindai catatan tangan sebulan sekali dan menyimpannya secara digital."
+
 ---
 
 "Tidak ada buku yang begitu buruk sehingga tidak ada hal baik yang bisa diambil dari dalamnya." Pliny the Elder percaya bahwa waktu yang tidak digunakan untuk belajar adalah sia-sia. Selama makan, mandi, dan bepergian, pelayannya membacakan buku sementara yang lain mencatat. Ia tidak pernah membaca buku tanpa membuat ringkasan.

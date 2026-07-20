@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, isso mesmo. Quando o cérebro decodifica informações sobre a fina textura tátil da pele, em vez de informações visuais ou auditivas, as redes sinápticas de longo prazo dos lobos frontal e parietal estão ligadas de forma muito mais densa, de modo que a profundidade e a permanência da memória aumentam explosivamente."
   - question: "O que devo fazer se minha pele estiver seca e minha sensibilidade tátil diminuir?"
     answer: "Você pode despertar ainda mais a resolução física do seu sentido do tato ativando o fluxo sanguíneo lavando levemente as mãos com água morna antes do treino ou aplicando levemente um creme hidratante para formar uma fina película de resistência à umidade antes do treino."
+
 ---
 
 Helen Keller, um ícone de superação que superou a tripla provação de ser invisível e incapaz de ouvir (dificuldades visuais, auditivas e de fala) e dedicou sua vida como grande ativista social e escritora, colorindo o desespero da humanidade com esperança. Na escuridão silenciosa, ela concentrou todos os seus nervos nos traços dos movimentos táteis do Sr. Sullivan enquanto ele escrevia meticulosamente as letras com as pontas dos dedos na palma da mão. No momento em que a água fria da nascente molhou as costas da outra mão, ela combinou o sinal tátil 'ÁGUA' na palma da mão com o espírito da água em seu cérebro pela primeira vez. Esse sofisticado treinamento de imitação tátil foi a chave que fez dela uma escritora imortal.

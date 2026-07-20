@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Dali segurava uma colher durante os cochilos?"
     answer: "Ao adormecer e relaxar os músculos, a colher caía sobre um prato, acordando-o para capturar imediatamente inspirações surrealistas."
+
 ---
 
 Salvador Dalí, um gigante da arte surrealista e uma das mentes mais criativas do século XX. De onde vinham as inspirações bizarras e caprichosas das suas obras? Quando Dalí enfrentava bloqueios criativos, sentava-se confortavelmente numa cadeira e segurava uma colher de metal acima de um prato pousado no chão. Hoje, o BuildSelf explora a ciência por trás do cochilo da colher.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿É possível usar este método se eu não tiver nenhuma habilidade para o desenho?"
     answer: "Sim. O hábito de Arquimedes não é artístico, mas um processo cognitivo para descarregar a mente no exterior. Desenhar simples círculos ou conectar palavras com setas é suficiente para reduzir a carga da memória de trabalho e melhorar o foco."
+
 ---
 
 O maior gênio da antiguidade, Arquimedes, que descobriu o princípio da alavanca. Por trás de sua concentração sobre-humana e inspiração científica estava um hábito de esboço visual. Desenhava formas geométricas na areia ou sobre o óleo corporal após o banho. É famosa a história em que gritou a um soldado romano para não pisar em seus desenhos na areia. Revelamos os mecanismos de como esses esboços criaram uma concentração mental extrema.

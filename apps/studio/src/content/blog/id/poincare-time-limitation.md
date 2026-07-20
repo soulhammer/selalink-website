@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Henri Poincaré hanya meneliti selama 4 jam sehari?"
     answer: "Memaksakan konsentrasi selama berjam-jam mempersempit cakupan kognitif otak dan mengurangi kreativitas. Jadi, setelah mode fokus 4 jam, ia mengaktifkan mode menyebar melalui jalan-jalan dan istirahat untuk memicu inspirasi bawah sadar."
+
 ---
 
 Henri Poincaré, pemecah masalah tiga benda, pelopor teori kekacauan, dan dianggap sebagai salah satu matematikawan genius terbesar dalam sejarah, secara mengejutkan membatasi waktu kerjanya di meja hanya 4 jam sehari. ⏰

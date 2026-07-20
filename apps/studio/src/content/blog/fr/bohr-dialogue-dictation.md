@@ -21,6 +21,7 @@ faqs:
     answer: "Vous pouvez allumer un enregistreur vocal ou une application de notes et parler à voix haute comme si vous expliquiez à quelqu'un. Ce qui compte n'est pas la présence d'un auditeur, mais le processus neuronal d'extériorisation des pensées."
   - question: "Comment puis-je transformer les paroles prononcées en résultats productifs ?"
     answer: "Vous pouvez noter brièvement vos idées sur un carnet pendant que vous parlez, ou enregistrer les transcriptions voix-texte (STT) pour les organiser en idées clés plus tard."
+
 ---
 
 Niels Bohr, le prix Nobel qui posa les bases de la physique quantique. Malgré son génie, il ressentait une grande frustration à rédiger seul ses articles. Sa méthode consistait à dicter ses pensées à son épouse Margrethe ou à ses étudiants tout en arpentant sa pièce et en débattant. Voyons comment la transition du langage interne au langage externe active le cortex préfrontal, renforçant la métacognition.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "La planification créative qualitative peut-elle également être suivie avec des métriques quantitatives ?"
     answer: "Pour la planification créative, au lieu du nombre de mots, vous pouvez appliquer efficacement le feedback en définissant vos propres indicateurs de valeur, comme le 'nombre d'idées clés générées', le 'nombre de références rassemblées' ou le 'nombre d'étapes détaillées du plan rédigées'."
+
 ---
 
 B. F. Skinner, le génie de la psychologie américaine qui a établi le paradigme du béhaviorisme. En tant que scientifique ayant étudié les mécanismes de modification du comportement d'autrui, comment gérait-il sa propre productivité ? 📈

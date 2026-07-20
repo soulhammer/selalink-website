@@ -21,6 +21,7 @@ faqs:
     answer: "There is no need to walk 15 miles like Smith. The clinically recommended duration for DMN activation is 20 to 40 minutes. Rather than distance, keeping your mind focused without digital distractions is what truly matters."
   - question: "Can I walk on an indoor treadmill when it's hard to go outside?"
     answer: "Yes, but it's crucial not to look at smartphone screens or TV monitors while on the treadmill. Keep your eyes on a blank spot on the wall and block visual inputs to focus purely on the sensation of walking."
+
 ---
 
 Adam Smith, the philosopher who established the foundations of modern economics and the 'invisible hand' of the free market, had a unique lifelong habit. When structuring complex ideas, Smith walked aimlessly around gardens or quiet paths. One morning, so deeply absorbed in thought, he walked 15 miles (about 24 km) to a neighboring town, completely forgetting he was in his nightgown. Only after hearing the church bells did he snap out of it. We dissect the mechanism of Adam Smith's contemplative walking that stimulated the brain and generated creative ideas.

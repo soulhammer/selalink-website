@@ -21,6 +21,7 @@ faqs:
     answer: "Jangan salahkan diri sendiri. Dalam Stoikisme, menyalahkan diri sendiri justru tidak produktif. Cukup tulis satu kalimat di ponsel Anda. Konsistensi pola pikir adalah hal yang terpenting."
   - question: "Apa perbedaannya dengan jurnal rasa syukur biasa?"
     answer: "Jurnal rasa syukur berfokus pada hal positif, sedangkan refleksi Stoik sengaja mengantisipasi kejadian buruk (Premeditatio Malorum) dan berfokus pada cara mengontrol reaksi diri."
+
 ---
 
 "Saat fajar, ketika Anda sulit bangun tidur, katakan pada diri sendiri: Saya harus pergi bekerja — sebagai manusia." Marcus Aurelius, kaisar filsuf Roma, menulis kata-kata ini untuk dirinya sendiri. Di kesunyian tenda militernya sebelum matahari terbit, ia menulis jurnal untuk menjaga kestabilan pikiran di tengah krisis.

@@ -21,6 +21,7 @@ faqs:
     answer: "Les tableurs automatisent le processus, ce qui réduit le stimulus visuel. Dessiner les lignes à la main engage le lobe pariétal inférieur beaucoup plus fortement, aidant à comprendre les relations de cause à effet."
   - question: "Est-il nécessaire de continuer à noter s'il n'y a pas de grands changements ?"
     answer: "Oui, tout à fait. Une ligne plate représente la régularité, ce qui est une donnée précieuse. Noter les périodes sans changement maintient le contrôle des impulsions."
+
 ---
 
 Gregor Mendel, le père de la génétique. Dans un monastère du XIXe siècle sans équipement de laboratoire, comment a-t-il découvert les lois de l'hérédité ? 🫛

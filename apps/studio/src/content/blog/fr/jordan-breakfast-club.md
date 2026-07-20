@@ -21,6 +21,7 @@ faqs:
     answer: "L'important n'est pas l'heure exacte, mais l'entraînement pour repousser vos limites dès le réveil. Même si ce n'est pas à 6h, s'imposer un effort physique lors de votre première heure d'éveil produit le même effet psychologique."
   - question: "L'entraînement intensif quotidien n'est-il pas nocif pour le corps ?"
     answer: "La routine de Jordan a fait l'objet d'une adaptation progressive. Pour les débutants, commencez 3 fois par semaine, puis augmentez l'intensité. Alternez musculation et entraînement fonctionnel léger pour éviter le surmenage."
+
 ---
 
 Michael Jordan, le plus grand joueur de basket-ball de l'histoire et symbole ultime de la compétition. Au début des années 1990, alors qu'il se heurtait à la défense rugueuse des Detroit Pistons, il décida de fortifier son corps plutôt que d'abandonner. C'est ainsi qu'est née la légendaire routine d'entraînement de 6h du matin, le 'Breakfast Club'.

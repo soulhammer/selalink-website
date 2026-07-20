@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Berenang hanyalah olahraga aerobik ideal yang disukai oleh Dieter Rams. Olahraga aerobik apa pun yang memicu aliran darah otak, seperti joging dalam ruangan yang ringan, peregangan, atau jalan cepat selama 10 menit, tidak masalah."
   - question: "Bisakah saya mengamati bangunan perkotaan atau interior yang canggih sebagai ganti objek alami?"
     answer: "Interior buatan atau bangunan kota yang geometris secara implisit menuntut interpretasi analitis (perhatian terarah) dari otak, seperti 'Mengapa mereka membuatnya seperti itu?' atau 'Apa itu?' Untuk memulihkan kelelahan kognitif, memandang objek alami organik yang tidak memerlukan interpretasi adalah hal yang paling ideal."
+
 ---
 
 "Lebih sedikit, tetapi lebih baik." Dieter Rams, legenda desain hidup yang merevolusi paradigma desain industri abad ke-20 sebagai kepala desainer Braun dan menginspirasi banyak master termasuk Jony Ive dari Apple. Dari mana datangnya ide geniusnya untuk menyederhanakan dunia? 🏊‍♂️

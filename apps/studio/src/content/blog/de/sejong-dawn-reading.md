@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Der Kern liegt darin, direkt nach dem Aufwachen ablenkungsfreie Zeit zu haben. Es reicht völlig aus, 30 Minuten früher aufzustehen und ohne Geräte zu lesen."
   - question: "Ist es in Ordnung, Web-Romane oder Social-Media-Artikel zu lesen?"
     answer: "Um das Gehirn aufzuwärmen, ist es besser, strukturierte physische Bücher zu lesen. Bücher über Philosophie, Geisteswissenschaften, Geschichte oder Essays, die zum aktiven Nachdenken anregen, sind vorteilhafter."
+
 ---
 
 König Sejong der Große, der angesehenste Monarch der koreanischen Geschichte, der das Hangeul schuf und Wissenschaft und Kultur voranbrachte. Was war das Geheimnis seiner außergewöhnlichen Kreativität und klugen Entscheidungen trotz Überlastung und Krankheit? Er wachte vor allen anderen um 3 oder 4 Uhr morgens auf und las Bücher bei Kerzenlicht. In dieser ruhigen Zeit konzentrierte er sich auf das Lesen von Geschichte und Klassikern, um sich auf Debatten vorzubereiten. Heute stellt BuildSelf die neurologischen Prinzipien und die moderne Umsetzung von König Sejongs 'Morgenlese'-Routine vor.

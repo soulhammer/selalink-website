@@ -21,6 +21,7 @@ faqs:
     answer: "Di Inggris abad ke-19, sangat jarang bagi penulis wanita memiliki ruang kerja pribadi..."
   - question: "Bagaimana cara menerapkan aturan pintu berderit ini di lingkungan digital modern?"
     answer: "Anda dapat memblokir pemberitahuan masuk dengan menyetel status obrolan ke 'Jangan Ganggu'..."
+
 ---
 
 Jane Austen, novelis legendaris Inggris yang menciptakan mahakarya seperti 'Pride and Prejudice.' Bekerja di ruang keluarga bersama, ia harus mempertahankan fokusnya dari gangguan terus-menerus. Bukannya memperbaiki pintunya yang berderit, ia membiarkannya rusak untuk berfungsi as sistem peringatan alami. Hari ini, BuildSelf mengungkapkan bagaimana menetapkan batas fokus sensorik dapat melindungi kerja mendalam Anda.

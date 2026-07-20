@@ -21,6 +21,7 @@ faqs:
     answer: "Mandi air hangat melemaskan otot dan menstabilkan detak jantung. Sementara itu, mengunyah apel renyah dan mencium aromanya merangsang saraf wajah dan otot rahang, menginduksi keadaan kewaspadaan tenang."
   - question: "Metode relaksasi fisik apa yang dapat saya gunakan jika tidak memiliki bak mandi?"
     answer: "Anda dapat merendam kaki dengan air hangat atau minum teh hangat untuk meningkatkan suhu tubuh. Relaksasi sensorik memicu Jaringan Mode Default otak."
+
 ---
 
 Agatha Christie, pencipta Hercule Poirot dan Miss Marple, dan novelis terlaris dalam sejarah. Bagaimana plot pembunuhan dan alibinya yang rumit bisa terjadi? Alih-alih mengurung diri di ruang kerja, Christie percaya pikirannya bekerja paling baik saat berendam di bak mandi hangat. Hari ini, BuildSelf mengeksplorasi ilmu kognitif di balik ini.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Dois-je ramasser les déchets ou puis-je simplement marcher ?"
     answer: "La simple marche aide à activer le réseau par défaut, mais l'associer à l'acte altruiste de ramassage des déchets et à la 'mise en ordre' déclenche plus de dopamine et de sérotonine."
+
 ---
 
 Le réalisateur Hayao Miyazaki, légende de l'animation avec des films comme 'Mon voisin Totoro' et 'Le Voyage de Chihiro'. Il suit une routine unique depuis des décennies : mettre un tablier et marcher près de la rivière pour ramasser les déchets. Quel est son secret ?

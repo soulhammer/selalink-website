@@ -21,6 +21,7 @@ faqs:
     answer: "Kami menyarankan Anda menggunakan fitur STT (Speech-to-Text) ponsel atau aplikasi memo AI dan menyuarakan beban pikiran hari ini selama 5 menit."
   - question: "Apa yang harus saya bicarakan saat dikte untuk meningkatkan produktivitas?"
     answer: "Menyebutkan kejadian kemarin, merinci prioritas kerja hari ini, atau menyuarakan kondisi emosional Anda saat ini secara apa adanya sudah cukup."
+
 ---
 
 Seniman pop art, Andy Warhol. Di tengah hiruk-pikuk studio 'The Factory' dan kerumitan relasi sosialnya, ia menjaga ketajaman kreatifnya dengan rutinitas lisan pagi hari. Setiap pagi, ia menelepon sekretarisnya, Pat Hackett, untuk mendiktekan detail aktivitasnya kemarin. Ulas manfaat pelepasan beban kognitif (Cognitive Offloading).

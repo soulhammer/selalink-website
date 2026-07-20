@@ -21,6 +21,7 @@ faqs:
     answer: "Sehr einfache Texte stimulieren das exekutive Netzwerk kaum. Auch Romane sollten eine tiefere Ebene besitzen, die Interpretation erfordert (z. B. Motive hinterfragen), um den Effekt zu erzielen. Wichtig ist aktives Mitdenken."
   - question: "Ist die Nutzung von Tablets oder E-Readern anstelle von Papierbüchern effektiv?"
     answer: "Ja. Bei Tablets aktivieren Sie den 'Nicht stören'-Modus. Da Geruch und Haptik von Papier die Konzentration fördern, empfehlen wir gedruckte Bücher oder E-Ink-Reader."
+
 ---
 
 Che Guevara, der Held der kubanischen Revolution. Wie bewahrte er trotz schwerem Asthma und dem Stress des Guerillakriegs seine Entschlossenheit und geistige Tiefe? Er trug immer dicke Bücher im Rucksack. Er las in Schützengräben oder auf Bäumen, sobald die Kämpfe ruhten. Für ihn war das Lesen ein bewusster Kampf zur Stärkung seiner Überzeugungen. Heute stellt BuildSelf die neurologischen Vorteile und die Umsetzung von Che Guevaras 'Dschungel-Leseroutine' vor.

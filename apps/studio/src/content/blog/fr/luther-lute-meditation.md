@@ -21,6 +21,7 @@ faqs:
     answer: "Il suffit de passer 5 minutes à se concentrer sur le son d'instruments simples comme les bols chantants ou les kalimbas. L'essentiel est d'offrir un espace créatif libre de jugement."
   - question: "L'écoute passive de musique peut-elle avoir le même effet que de jouer d'un instrument ?"
     answer: "Jouer d'un instrument stimule le cortex moteur et le réseau d'attention du cortex préfrontal beaucoup plus fortement que l'écoute passive en raison du contrôle moteur et des vibrations physiques."
+
 ---
 
 Martin Luther défia le pouvoir de l'Église catholique. Faisant face à des menaces de mort, sa santé mentale et physique en souffrait. Son moyen de recentrer son esprit était de jouer du luth (Lute) chaque matin après ses prières. Voyons comment la musique stimule le nerf vague et active le système parasympathique.

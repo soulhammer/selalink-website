@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Pavarotti mencari paku yang bengkok secara spesifik?"
     answer: "Dalam budaya teater Italia, menemukan paku bengkok di belakang panggung adalah pertanda keberuntungan. Kebiasaan ini kemudian menjadi jangkar kognitif baginya."
+
 ---
 
 Luciano Pavarotti, salah satu tenor terhebat sepanjang masa. Meskipun bernyanyi di depan puluhan ribu orang, Pavarotti menderita demam panggung yang parah. Untuk mengatasinya, ia merutinkan mencari paku bengkok di lantai panggung sebelum tampil. Ulas bagaimana cara ini menenangkan kecemasan otaknya.

@@ -21,6 +21,7 @@ faqs:
     answer: "Les textes trop simples n'activent pas le contrôle exécutif. Même pour des romans, ils doivent présenter une réflexion profonde qui demande de l'interprétation. L'important est que le texte fasse réfléchir."
   - question: "Est-ce efficace d'utiliser une liseuse à la place d'un livre papier ?"
     answer: "Oui. Sur tablette, activez le mode 'ne pas déranger'. Cependant, l'odeur et le geste de tourner les pages facilitent la concentration, nous suggérons donc le papier ou les liseuses e-ink."
+
 ---
 
 Le Che Guevara, héros de la Révolution Cubaine. Malgré l'asthme et le stress de la guérilla, comment a-t-il gardé son courage et sa profondeur d'esprit ? Il portait toujours des livres dans son sac. Il lisait dans les tranchées ou sur des branches d'arbres dès que le combat s'arrêtait. Pour lui, lire était une lutte consciente pour fortifier ses idées. Aujourd'hui, BuildSelf présente les bénéfices de la routine de 'lecture dans la jungle' du Che Guevara.

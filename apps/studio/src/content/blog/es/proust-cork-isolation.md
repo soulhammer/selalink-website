@@ -21,6 +21,7 @@ faqs:
     answer: "Según el perfil de la persona, el vacío sonoro puede generar zumbidos o incomodidad. Si te ocurre, reproduce a bajo volumen un sonido blanco natural como la lluvia. Los sonidos de la naturaleza no distraen al tálamo y dan confort."
   - question: "¿Trabajar acostado en la cama es recomendable para concentrarse?"
     answer: "Proust no tenía alternativa debido a su asma crónico. Para la mayoría, el cerebro asocia la cama con el sueño, induciendo somnolencia. Use un escritorio con postura firme, aplicando solo el bloqueo de luz y ruido para la eficiencia cognitiva."
+
 ---
 
 Marcel Proust, el novelista francés que revolucionó la ficción del siglo XX y demostró la cima de la descripción sensorial. Sufrió de asma crónica y una grave neurastenia, en particular hipersensibilidad sensorial a la luz y al sonido. Por ello, reformó su dormitorio para convertirlo en una fortaleza insonorizada.

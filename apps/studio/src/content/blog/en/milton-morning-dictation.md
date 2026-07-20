@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How did Milton memorize lines before the scribe arrived?"
     answer: "Milton repeated the verses to himself like a rhythmic song. Since he was blind, he developed a sharp auditory working memory, structuring the words chronologically and using the physical meter of the poem as a memory anchor."
+
 ---
 
 John Milton, the legendary English poet and intellectual who wrote the masterpiece *Paradise Lost* completely blind. How did he write an epic of over 10,000 lines without being able to see a single letter? The secret lies in his 4 AM morning routine. Milton woke up before dawn and meditated in silence to shape verses in his mind. The moment his assistant arrived at 7 AM, he poured out his mental composition. Let's look into the science of his quiet focus and how you can apply it.

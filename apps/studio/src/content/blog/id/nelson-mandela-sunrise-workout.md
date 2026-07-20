@@ -21,6 +21,7 @@ faqs:
     answer: "Pada hari-hari kelelahan fisik ekstrem, lebih baik ganti latihan intens dengan peregangan ringan dan napas dalam selama 5-10 menit. Esensi rutinitas Mandela bukan menyiksa tubuh, tapi memulai inisiatif hari dengan 'kehendak saya'."
   - question: "Bagaimana pemula dengan kekuatan fisik sangat rendah sebaiknya memulai?"
     answer: "Mulailah dengan intensitas yang sesuai, seperti push-up di dinding atau berlutut, dan squat dengan bantuan kursi. Cukup 5 menit sehari, satu set, sudah cukup mengaktifkan rutinitas pagi positif otak."
+
 ---
 
 Nelson Mandela, presiden kulit hitam pertama Afrika Selatan, dipenjara selama 27 tahun. Penyelamat hidupnya di dalam sel adalah olahraga pukul 05.00 pagi: lari di tempat, push-up, dan sit-up. Rutinitas pagi ini menjaga harga dirinya.

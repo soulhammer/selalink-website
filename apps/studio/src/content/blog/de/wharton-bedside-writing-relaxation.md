@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wird das Schlafzimmer durch das Arbeiten im Bett nicht zu einem stressigen Ort, was zu Schlaflosigkeit führt?"
     answer: "Das ist ein wichtiger Unterschied. Führen Sie im Bett niemals stressige Aufgaben aus, wie z. B. das Beantworten von E-Mails, das Verwalten von Tabellenkalkulationen oder die Kalenderplanung. Beschränken Sie Aufgaben im Bett streng auf kreative Ideenfindung, das Schreiben von ersten Entwürfen oder Reflexion. Wenn die Arbeit im Bett rein positiv und stressfrei bleibt, wird das Gehirn nicht daran gehindert, das Bett mit Schlaf zu assoziieren."
+
 ---
 
 Edith Wharton, die für ihren Roman Zeit der Unschuld als erste Frau den Pulitzer-Preis für Belletristik gewann, analysierte die Eitelkeit und Heuchelei der High Society mit messerscharfer Prosa. Doch ihre tägliche Schreibroutine war unglaublich gemütlich. Sie wachte früh auf und weigerte sich, ihr Bett vor 11 Uhr morgens zu verlassen. Aufgestützt von Kissen, während ihre Pekinesen auf den Decken lagen, schrieb sie auf einem Holzbrett, das auf ihrem Schoß balancierte. Diese tiefgreifende körperliche Entspannung minimierte die Schreibblockade und erzeugte einen hochaktiven Strom kreativer Fantasie. Wir untersuchen die Neurobiologie der somatischen Entspannung.

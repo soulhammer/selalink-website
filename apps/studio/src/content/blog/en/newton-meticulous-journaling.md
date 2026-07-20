@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Is there a reason to use an analog paper notebook in today's digital age?"
     answer: "Yes, neuroscientifically, keyboard typing has simple tactile stimulation and activates the cerebral cortex less. Conversely, writing on paper with a pen directly wakes up the brain's hippocampus. Also, there is a strong cognitive benefit of being able to immediately diagram ideas into free-form drawings or symbols, departing from standardized text input."
+
 ---
 
 Isaac Newton, the greatest scientist in history who discovered the law of universal gravitation, established calculus, and laid the foundations of modern physics. How could the vast and complex system of knowledge spanning physics, mathematics, alchemy, and theology be organized inside one person's head? The key lay in the thorough and elaborate 'writing habit' he strictly adhered to from his youth.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que se passe-t-il si je saute accidentellement une étape ?"
     answer: "Le cerveau peut réagir de manière excessive à cette rupture, ce qui augmente l'anxiété. Recommencez ou passez avec souplesse à l'étape suivante."
+
 ---
 
 Michael Phelps, légende de la natation avec 28 médailles olympiques. Même devant les blocs de départ, il conservait un esprit remarquablement calme. Derrière ce contrôle mental se cachait une routine de haute précision exécutée sans erreur exactement 2 heures avant la course.

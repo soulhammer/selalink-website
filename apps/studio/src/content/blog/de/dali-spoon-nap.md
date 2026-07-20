@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum hielt Dali während des Mittagsschlafs einen Löffel?"
     answer: "Sobald er einschlief und die Muskeln locker ließen, fiel der Löffel auf einen teller, um surreale Inspirationen festzuhalten."
+
 ---
 
 Salvador Dalí, ein Gigant der surrealistischen Kunst und einer der kreativsten Köpfe des 20. Jahrhunderts. Woher stammten die bizarren Inspirationen in seinen Werken? Wenn Dalí vor kreativen Blockaden oder geistiger Erschöpfung stand, setzte er sich bequem in einen Holzstuhl und hielt einen Metalllöffel locker in einer Hand, während er einen Metallteller auf den Boden stellte. Heute untersucht BuildSelf die Wissenschaft hinter Dalís Mittagsschlaf.

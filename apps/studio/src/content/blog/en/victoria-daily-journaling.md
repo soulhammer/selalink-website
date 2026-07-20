@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How should I fill the journal on days when I have nothing special to write?"
     answer: "Maintaining consistency is far more important than filling pages. On uneventful days, write about a minor thing or moment you felt grateful for, or a single line about how relaxed your body feels. The brain gains comfort from the continuity of daily reflection rather than the effort of writing a long essay."
+
 ---
 
 Queen Victoria ruled the golden age of the British Empire. The weight of the crown she carried was heavy with geopolitical conflicts, governing stress, and personal tragedy including the early death of Prince Albert. Suffering from loneliness, her daily ritual of internal salvation was handwritten journaling. Starting at age 9 and continuing until her death at 81, her diaries reached 122 volumes. We examine the neuroscience of handwriting.

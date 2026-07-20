@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Comment puis-je lire 500 pages par jour comme Warren Buffett ?"
     answer: "Lire 500 pages d'un coup est impossible. La première étape consiste à augmenter progressivement votre objectif de 20 à 30 pages par jour, et à créer un cadre sans téléphone pour plonger dans le texte afin d'ancrer l'habitude."
+
 ---
 
 Warren Buffett, président de Berkshire Hathaway et considéré comme l'investisseur le plus prospère de l'histoire, consacre encore 80 % de ses journées à la lecture et à l'analyse de rapports. 📚

@@ -21,6 +21,7 @@ faqs:
     answer: "Absolut. Sie müssen keine komplexen Melodien spielen können. Spielen Sie stattdessen ein klassisches Musikstück ab und konzentrieren Sie sich darauf, während Sie eine bewusste Bauchatmung ausführen."
   - question: "Wie regt kaltes Wasser im Gesicht den Vagusnerv an und weckt das Gehirn?"
     answer: "Wenn kaltes Wasser Ihr Gesicht berührt, aktiviert Ihr Körper den Tauchreflex. Dieser senkt den Puls leicht und leitet die Durchblutung so um, dass die Sauerstoffversorgung des Gehirns Priorität hat."
+
 ---
 
 Arthur Schopenhauer, der deutsche Philosoph, der die Welt als Wille und Vorstellung definierte. Wie bereitete er seinen Geist jeden Morgen vor? 🎶

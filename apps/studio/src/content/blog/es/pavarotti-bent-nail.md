@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Pavarotti buscaba específicamente un clavo torcido?"
     answer: "En el teatro italiano, hallar un clavo doblado es un viejo augurio de buena suerte. Empezó por simple superstición, pero acabó siendo una herramienta para vencer su miedo."
+
 ---
 
 Luciano Pavarotti, uno de los tenores más grandes de la historia que popularizó la ópera en todo el mundo. A pesar de cantar ante miles de personas, Pavarotti sufría un pánico escénico tremendo. Para superarlo, hacía una rutina en el backstage: buscar un clavo doblado en el suelo. En Italia, esto da suerte. Conozcamos cómo este hábito calmaba su amígdala y enfocaba su mente.

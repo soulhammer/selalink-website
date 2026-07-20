@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Hilft diese Methode auch bei Arbeiten, die nichts mit Schreiben zu tun haben?"
     answer: "Ja, sie hilft. Unabhängig von der Art der Aufgabe entstehen die Versagensängste beim Einstieg im selben Hirnareal (dem Mandelkern). Freies Skizzieren oder kurze Notizen vor dem Programmieren schaffen einen kognitiven Puffer, der den Einstieg erleichtert."
+
 ---
 
 Literaturnobelpreisträger John Steinbeck schuf Meisterwerke wie Früchte des Zorns. Doch selbst ihm graute es morgens vor der leeren Seite. Um diese Schreibblockade zu lösen, entwickelte er eine Routine: Vor dem eigentlichen Schreiben schickte er Briefe an seinen Freund und Lektor Pascal Covici. Darin plauderte er über das Wetter oder seine Gelenkschmerzen. Erfahren Sie, wie dieses Aufwärmen Versagensängste blockiert.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Rousseau menulis catatan di balik kartu bermain?"
     answer: "Ia tidak suka membawa buku catatan yang tebal saat berjalan jauh. Kartu bermain yang kecil dan kaku sangat cocok untuk menulis sambil berdiri."
+
 ---
 
 Jean-Jacques Rousseau, filsuf Prancis terkemuka yang meletakkan fondasi bagi Revolusi Prancis. Di masa tuanya, ia mengatasi kecemasan dengan merutinkan jalan kaki sambil meneliti tanaman liar. Setiap sore ia membawa wadah sampel tanaman dan mencatat ide di bagian belakang kartu bermain. Kartu-kartu tersebut kemudian menjadi mahakaryanya. Mari kita ulas sainsnya.

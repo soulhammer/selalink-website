@@ -21,6 +21,7 @@ faqs:
     answer: "Mientras que las páginas matutinas se escriben después de lavarse la cara o sentarse, donde la razón está parcialmente activa, la escritura de Voltaire al lado de la cama apunta al 'vacío en el cerebro' durante la inercia del sueño antes de levantarse físicamente, capturando metáforas subconscientes y pensamientos creativos en su estado más puro."
   - question: "¿Qué debo hacer si no se me ocurre nada que escribir en la cama cada mañana?"
     answer: "No hay ninguna necesidad de escribir grandes ideas. Puede escribir simplemente cualquier fragmento menor que le pase por la cabeza, como un mal acontecimiento de ayer, la molestia de las tareas de hoy o listas aleatorias de palabras. El objetivo es la práctica de liberar el filtro de inhibición del cerebro."
+
 ---
 
 Voltaire, el símbolo del movimiento de la Ilustración europea del siglo XVIII, que dejó tras de sí innumerables novelas, tragedias y textos históricos. ¿Dónde empezaban cada mañana sus afiladas críticas y sus brillantes ideas humanistas? ✍️

@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, les originaux et copies des découpages de presse de George Orwell, ainsi que ses notes de travail, sont conservés comme pièces historiques précieuses aux Archives George Orwell de l'University College de Londres (UCL)."
   - question: "Quelles applications recommandez-vous pour numériser cette routine ?"
     answer: "Nous conseillons Notion, Obsidian ou Evernote, qui permettent de capturer facilement le texte et d'ajouter une note ; ou des applications de sauvegarde comme Pocket ou Raindrop.io."
+
 ---
 
 George Orwell, monument de la littérature anglaise du XXe siècle qui a dénoncé la nature du pouvoir et les dérives totalitaires dans '1984' et 'La Ferme des animaux'. Comment parvenait-il à nourrir quotidiennement sa lucidité politique et son style d'analyse si incisif ? 📰

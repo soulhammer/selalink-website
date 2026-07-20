@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Steve Jobs vestía la misma ropa todos los días?"
     answer: "Para ahorrar la energía prefrontal consumida por elecciones triviales de ropa, enfocando el 100% de su capacidad en decisiones clave de negocio."
+
 ---
 
 Steve Jobs, el genio emprendedor que cofundó Apple y lanzó el Macintosh, iPhone, iPad y otros dispositivos revolucionarios que cambiaron para siempre el estilo de vida digital de la humanidad. ¿Sabía que vestía exactamente el mismo suéter negro, vaqueros y zapatillas todos los días, y no sólo en los escenarios? 👕

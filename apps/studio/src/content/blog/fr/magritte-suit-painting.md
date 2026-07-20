@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Le fait de porter des chaussures (comme des pantouflles ou des mocassins) à l'intérieur aide-t-il à se concentrer pendant le télétravail ?"
     answer: "Oui, cela fournit un signal sensoriel puissant. La fermeté des chaussures sur la plante des pieds signale au cortex somatosensoriel que le corps est actif et debout. Cela supprime l'envie de s'affaler sur un canapé. Réserver des chaussures en toile légères ou des pantoufles en cuir d'intérieur exclusivement pour le travail est un moyen efficace de mettre les télétravailleurs en action."
+
 ---
 
 René Magritte, le maître surréaliste belge qui a défié la perception avec « Ceci n'est pas une pipe ». Contrairement à son art excentrique, son mode de vie quotidien était exceptionnellement ordonné. Contrairement aux peintres qui travaillaient dans des ateliers chaotiques, Magritte enfilait chaque matin un costume propre et un chapeau melon, se tenant devant un chevalet dans son salon ordonné. Il peignait avec retenue, ne laissant jamais tomber une tache de peinture sur ses vêtements ou son tapis. Nous analysons le mécanisme cognitif par lequel la tenue prépare le cerveau à une concentration maximale.

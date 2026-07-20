@@ -21,6 +21,7 @@ faqs:
     answer: "Sí. Al desbloquear el mecanismo de inclinación de su silla y balancearse hacia adelante y hacia atrás, puede evitar la carga estática y estimular el sistema vestibular para relajarse."
   - question: "¿Cuál es la mejor velocidad para balancearse?"
     answer: "El mejor ritmo para relajarse es de 0.5Hz a 1Hz. Esto equivale a un ciclo completo cada 1.5 o 2 segundos. Esta velocidad es la ideal para calmar el cerebro."
+
 ---
 
 El presidente John F. Kennedy lideró a EE. UU. durante los momentos más tensos de la historia. Aunque parecía vibrante, sufría de un dolor de espalda crónico debido a una lesión de guerra. 🪑

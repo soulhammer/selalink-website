@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Barack Obama ne portait-il que des costumes grises et bleues ?"
     answer: "Pour préserver l'énergie frontale nécessaire aux innombrables décisions nationales cruciales auxquelles il faisait face, en éliminant les choix de vêtements ou de repas afin de prévenir la fatigue décisionnelle."
+
 ---
 
 En tant que 44e président des États-Unis, Barack Obama devait prendre chaque jour des décisions lourdes de conséquences à l'échelle mondiale. Durant sa présidence, pour concentrer toute son énergie frontale sur les dossiers cruciaux de l'État parmi d'innombrables choix quotidiens, il a eu recours à un secret personnel très astucieux. 👔

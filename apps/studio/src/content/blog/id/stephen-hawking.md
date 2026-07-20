@@ -21,6 +21,7 @@ faqs:
     answer: "Ini adalah reaksi yang sangat normal. Daripada memaksakan diri untuk melihat bola 3D, mulailah dengan menahan warna dan bentuk bayangan model datar 2D kecil, seperti kotak oranye atau segitiga putih, tanpa menggoyangkannya selama 3 detik."
   - question: "Akankah meningkatkan kapasitas buku sketsa otak Anda juga membantu Anda mengatur tugas dan prioritas yang kompleks?"
     answer: "Ya, Anda dapat menampilkan secara virtual lima kartu tugas hari ini di kepala Anda, mengurutkan kepentingannya berdasarkan ukuran dan warna, dan menyusunnya ulang secara tiga dimensi, sehingga meningkatkan keterampilan mengatur tugas Anda dengan cara yang sangat intuitif."
+
 ---
 
 Stephen Hawking, fisikawan luar angkasa terhebat abad ke-20 dan ilmuwan jenius yang mewakili sejarah ilmu pengetahuan manusia sejak Einstein, adalah fisikawan hebat yang menemukan kelahiran alam semesta dan rahasia lubang hitam bahkan di tengah penghalang kelumpuhan kejam yang disebut penyakit Lou Gehrig. Dia tidak menghentikan penelitiannya meskipun ada hambatan fisik yang keras yang melumpuhkan seluruh tubuhnya dan mencegahnya menggerakkan satu jari pun. Karena tidak dapat menuliskan rumus fisika di atas kertas, ia menghitung struktur alam semesta maya yang sangat besar dan rumus geometri tiga dimensi sebagai objek tiga dimensi di kepalanya. Latihan sketsa ruang-waktu yang imajinatif ini adalah kekuatan yang menghasilkan wawasan luas dalam fisika.

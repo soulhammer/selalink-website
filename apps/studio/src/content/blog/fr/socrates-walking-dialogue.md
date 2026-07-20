@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "La marche sur un tapis roulant intérieur a-t-elle le même effet ?"
     answer: "Bien que le flux sanguin soit similaire, la stimulation visuelle et spatiale de la nature et l'effet de réduction du cortisol sont maximisés lorsque l'on marche en plein air ou dans un parc."
+
 ---
 
 Socrate, le sage d'Athènes qui a posé las bases de la philosophie occidentale. Les écrits de Platon décrivent une habitude quotidienne unique : marcher sans cesse sur la place publique ou en forêt, posant des questions et débattant avec autrui. Socrate marchait pieds nus, même en hiver, sous l'ombre des arbres de l'Agora. Pour lui, la marche n'était pas un simple exercice physique, mais un laboratoire de sagesse qui synchronisait le mouvement corporel avec la plasticité cérébrale. Aujourd'hui, BuildSelf partage les secrets de cette marche réflexive.

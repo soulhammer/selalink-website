@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Did Doyle really play cricket and box at a high level?"
     answer: "Yes, Doyle was a professional-grade cricket player for the Marylebone Cricket Club and actively boxed. He even refereed boxing matches and used his real-world athletic insights to design Sherlock's physical combat skills."
+
 ---
 
 Sir Arthur Conan Doyle, the medical doctor and writer who created the most famous detective in history, Sherlock Holmes. While designing Sherlock's sharp and logical mind, Doyle kept his own body highly active. He was an excellent athlete who boxed, played cricket, and played soccer. He believed that when the body slows down, the brain stagnates. Let's study the neuroscience of how physical exercise stimulates BDNF and maximizes cognitive abilities.

@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Pourquoi Démosthène s'est-il rasé la moitié de la tête ?"
     answer: "En se rendant ridicule, il s'est empêché de sortir, se forçant à surmonter la tentation et à rester dans son étude pour s'entraîner."
+
 ---
 
 Un homme qui a surmonté un bégaiement congénital, une constitution fragile et un essoufflement chronique l'empêchant de parler longtemps, pour devenir le plus grand homme d'État de l'Athènes antique et le plus grand orateur de l'histoire grecque. Cet homme, c'est Démosthène. 🏛️

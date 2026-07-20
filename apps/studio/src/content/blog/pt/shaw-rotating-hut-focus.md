@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "E se eu morar num apartamento partilhado e não puder criar um quarto físico separado?"
     answer: "Se a separação física for impossível, construa uma barreira acústica com auscultadores com cancelamento de ruído a reproduzir ruído rosa de baixa frequência. Adicionalmente, coloque uma pequena placa de Não Incomodar na sua secretária, ou ajuste o seu horário para acordar 2 horas antes dos outros, capturando o silêncio da manhã como o seu santuário cognitivo."
+
 ---
 
 George Bernard Shaw, o brilhante dramaturgo e crítico irlandês, era famoso pela sua língua afiada, mas na sua rotina de trabalho era incrivelmente disciplinado. Para evitar interrupções de amigos e visitantes, ele construiu uma pequena cabana de madeira no fundo do seu jardim em Ayot St Lawrence. A cabana assentava sobre um chassi de aço giratório, permitindo a Shaw empurrá-la manualmente para seguir o sol à medida que este se movia no céu, preenchendo o seu espaço de trabalho com luz natural. Para evitar hóspedes inesperados, dizia à sua equipa para dizer que tinha ido a Londres. Examinamos a psicologia deste isolamento dedicado combinado com o rastreio da luz do dia.

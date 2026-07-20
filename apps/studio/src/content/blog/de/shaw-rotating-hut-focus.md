@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was ist, wenn ich in einer Wohngemeinschaft lebe und keinen physisch separaten Raum einrichten kann?"
     answer: "Wenn eine physische Trennung unmöglich ist, bauen Sie eine akustische Barriere mit Kopfhörern mit aktiver Geräuschunterdrückung auf, die niederfrequentes rosa Rauschen abspielen. Stellen Sie außerdem ein kleines „Bitte nicht stören“-Schild auf Ihren Schreibtisch oder passen Sie Ihren Zeitplan so an, dass Sie 2 Stunden vor den anderen aufwachen, um die frühmorgendliche Stille als kognitiven Rückzugsort zu nutzen."
+
 ---
 
 George Bernard Shaw, der geniale irische Dramatiker und Kritiker, war bekannt für seine scharfe Zunge, in seiner Arbeitsroutine jedoch unglaublich diszipliniert. Um Störungen durch Freunde zu vermeiden, baute er am Ende seines Gartens in Ayot St. Lawrence eine winzige Schreibhütte aus Holz. Die Hütte stand auf einem drehbaren Stahlchassis, sodass Shaw sie manuell verschieben konnte, um der Sonne am Himmel zu folgen und seinen Arbeitsplatz mit Tageslicht zu füllen. Um unangekündigten Gästen aus dem Weg zu gehen, wies er seine Mitarbeiter an, den Anrufern mitzuteilen, er sei nach London gereist. Wir untersuchen die Psychologie dieser hingebungsvollen Isolation in Kombination mit der Tageslichtverfolgung.

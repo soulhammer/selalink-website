@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Je n'ai pas de pinceaux de calligraphie, puis-je utiliser d'autres outils ?"
     answer: "Un stylo plume, un stylo de calligraphie ou même un crayon sur du papier texturé conviennent. L'important est que le cerveau perçoive la résistance de la pointe et la force exercée en temps réel. Tout outil offrant un retour tactile net sur le papier fera l'affaire."
+
 ---
 
 Lee Byung-chul, le fondateur de Samsung qui a forgé le miracle industriel en Corée. Derrière ses grandes décisions commerciales se cachait un rituel oriental silencieux chaque matin. Au réveil, il s'installait seul à son bureau pour broyer l'encre et écrire au pinceau. Tracer des mots comme 'Poursuite infinie' concentré sur la tension du pinceau était sa façon de nettoyer son esprit. Voyons comment la calligraphie calme les émotions et active le focus.

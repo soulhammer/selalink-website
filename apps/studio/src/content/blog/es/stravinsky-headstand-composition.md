@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué pasa si un principiante no puede hacer el pino en absoluto?"
     answer: "Incluso si no puede apoyarse en la pared, puede lograr efectos similares de flujo sanguíneo y estimulación vestibular con la postura del delfín (levantando solo las caderas en el suelo) o con inversiones de columna suaves, como apoyar las piernas en una silla e inclinar el torso."
+
 ---
 
 Igor Stravinsky, quien sacudió la música clásica del siglo XX con melodías vanguardistas como La consagración de la primavera. Detrás de su genialidad había una rutina física singular. Cuando se bloqueaba al componer, hacía el pino junto a su piano. Creía que estar de cabeza despierta el cerebro. Analicemos cómo esta inversión física estimula la creatividad.

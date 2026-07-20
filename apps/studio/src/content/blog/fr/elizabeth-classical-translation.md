@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, obtenir des résultats en un clic ne stimule pas les réseaux cognitifs. Les synapses du cortex préfrontal ne se développent activement que lorsque vous passez par le 'processus de résistance cérébrale', en cherchant dans des dictionnaires et en structurant les phrases."
   - question: "L'effet est-il limité à l'étude des langues classiques comme le grec et le latin ?"
     answer: "Non. Les textes de langues étrangères modernes (anglais, chinois, allemand, etc.) avec des structures logiques différentes conviennent également. La clé est de traduire des textes denses et formels comme de la philosophie ou des colonnes, et non des dialogues simples."
+
 ---
 
 Élisabeth I, reine d'Angleterre, a mené le pays sous de grandes tensions. Son secret était de se lever tôt pour traduire Cicéron ou Sénèque du latin à l'anglais pendant une heure. Ce déchiffrement aiguisait son esprit pour décider sur les affaires d'État.

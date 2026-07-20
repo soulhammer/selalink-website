@@ -21,6 +21,7 @@ faqs:
     answer: "Las hojas de cálculo automatizan el proceso, reduciendo el estímulo visual. Dibujar las líneas a mano involucra el lóbulo parietal inferior de forma más fuerte, ayudándole a captar relaciones de causa y efecto."
   - question: "¿Es necesario seguir registrando si no hay grandes cambios en los números?"
     answer: "Sí, absolutamente. Una línea plana representa consistencia, lo cual es valioso. Registrar periodos sin cambios mantiene los mecanismos de control de impulsos del cerebro y sirve de grupo de control para cuando ocurran anomalías."
+
 ---
 
 Gregor Mendel, el padre de la genética. En un monasterio del siglo XIX sin equipo de laboratorio, ¿cómo descubrió las leyes de la herencia? 🫛

@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, les récits historiques confirment que Napoléon pouvait s'endormir presque instantanément au milieu du bruit des canons, et se réveiller 15 minutes plus tard, frais et dispos pour donner ses ordres."
   - question: "Quel est le meilleur moment de la journée pour une micro-sieste ?"
     answer: "Le créneau idéal se situe entre 13h00 et 15h00, ce qui correspond à la baisse naturelle de la vigilance. Évitez de dormir après 16h00 pour ne pas perturber votre nuit."
+
 ---
 
 Napoléon Bonaparte, légendaire stratège militaire et empereur de France. Réputé pour son énergie débordante, il gérait l'État et les batailles avec 4 heures de sommeil par nuit. Son secret résidait dans les « micro-siestes » de 10 à 15 minutes dès qu'il avait un moment libre, même au combat. Aujourd'hui, BuildSelf montre comment ces siestes réinitialisent vos capacités.

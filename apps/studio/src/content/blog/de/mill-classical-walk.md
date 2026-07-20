@@ -21,6 +21,7 @@ faqs:
     answer: "Hören ist ein passiver Prozess. Er verhindert den aktiven Wissensabruf. Beim Gehen ist es besser, keine Kopfhörer zu tragen und das gelesene Wissen gedanklich selbst durchzuarbeiten."
   - question: "Beeinflusst das Gehtempo die Gehirnstimulation?"
     answer: "Ja. Ein zügiges, rhythmisches Tempo (4 bis 5 km/h), bei dem Sie nicht außer Atem geraten, ist am besten. Diese leichte Belastung optimiert die Durchblutung und BDNF-Freisetzung."
+
 ---
 
 John Stuart Mill verfasste Über die Freiheit. Wie entwickelte dieser brillante Denker seine Fähigkeiten? 🚶

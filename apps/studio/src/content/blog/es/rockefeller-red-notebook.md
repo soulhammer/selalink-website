@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, encender el móvil expone al cerebro al ruido digital, dispersando la atención. Escribir a mano genera fricción táctil que introduce datos en la corteza, aumentando la conciencia de autocontrol en más del doble, lo que es superior para regular la conducta."
   - question: "¿Realmente tengo que registrar detalles tan pequeños como 1 centavo o 1 minuto?"
     answer: "El objetivo no es el valor de la cifra, sino entrenar el cerebro para la autorregulación. Registrar fugas de tiempo o dinero menores fortalece el lóbulo frontal. Esto crea un circuito neural que suprime impulsos en decisiones mayores."
+
 ---
 
 John D. Rockefeller, el legendario empresario que fundó Standard Oil y acumuló la mayor riqueza privada de la historia. ¿De dónde venía su rigurosa planificación y empuje? 📕

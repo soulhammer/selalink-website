@@ -21,6 +21,7 @@ faqs:
     answer: "Sangat disarankan berjalan di luar ruangan. Aliran visual pemandangan saat bergerak (optic flow) dapat menenangkan amigdala, mengurangi kecemasan, dan merangsang kreativitas jauh lebih baik daripada menatap dinding statis di atas treadmill."
   - question: "Berapa lama waktu jalan kaki yang ideal untuk menghasilkan pemikiran terbaik?"
     answer: "Sekitar 20 hingga 30 menit adalah waktu yang ideal. Durasi ini cukup untuk meningkatkan aliran darah ke otak dan memicu produksi BDNF tanpa menyebabkan kelelahan fisik yang dapat menguras energi kognitif Anda."
+
 ---
 
 "Logika dan kebenaran tidak ditemukan dalam keheningan, tetapi dalam langkah aktif." Aristoteles mendirikan Lyceum di Athena dan menghabiskan hari-harinya berjalan di jalur rindang (Peripatos) bersama murid-muridnya, mendiskusikan filsafat dan sains. Pendekatan aktif ini melahirkan istilah 'Peripatetik' (mereka yang berjalan kaki). Jalan kaki adalah alat untuk membuka pemikiran logis yang mendalam.

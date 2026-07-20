@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Wenn eine Aufgabe ein Plateau erreicht und die kognitive Reibung maximiert ist, beschleunigt die Neurowissenschaft laut Neurowissenschaften die Gesamtgeschwindigkeit der endgültigen Erledigung um mehr als 40 %, anstatt sich selbst dazu zu zwingen."
   - question: "Wie viele Aufgabenbereiche pro Tag sind am besten?"
     answer: "Um die Energiebatterie Ihres Entscheidungsgehirns zu schonen, empfehlen wir nicht mehr als drei Kernaufgabenkategorien pro Tag. Häufige Spureinstellungen von mehr als vier führen zu verschwendetem Aufmerksamkeitswechsel."
+
 ---
 
 Pablo Picasso, ein genialer spanischer Maler, der im Laufe seines Lebens eine große Menge grenzenloser, destruktiver Inspiration schuf, darunter Gemälde, Skulpturen und Keramik. Er breitete gleichzeitig Dutzende unvollendeter Leinwände in seinem riesigen Atelier aus und begann mit der Arbeit daran. Als die Inspiration beim Malen eines kubistischen Werks aufhörte und er eine kognitive Stagnation in seinem Gehirn verspürte, übte er keinen Druck auf den Pinsel aus, sondern griff sofort zum Pinsel, bewegte sich zu einem völlig anderen Stillleben oder einer Porträtleinwand neben sich und arbeitete weiter. Diese flexible Routine zur Aufgabenänderung war die treibende Kraft hinter der Schaffung Zehntausender Meisterwerke im Laufe seiner Karriere.

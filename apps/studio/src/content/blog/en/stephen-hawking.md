@@ -21,6 +21,7 @@ faqs:
     answer: "This is a very normal reaction. Instead of trying to force yourself to look at a 3D sphere, start by holding the color and shape afterimage of a small 2D flat model, such as an orange square or a white triangle, without shaking for 3 seconds."
   - question: "Will increasing your brain's sketchbook capacity also help you organize complex tasks and priorities?"
     answer: "Yes, you can virtually display five to-do cards for today in your head, rank their importance by size and color, and rearrange them three-dimensionally, improving your task organizing skills in a very intuitive way."
+
 ---
 
 Stephen Hawking, the greatest space physicist of the 20th century and a genius scientist representing the history of human science since Einstein, is a great physicist who discovered the birth of the universe and the secrets of black holes even amidst the cruel barrier of paralysis called Lou Gehrig's disease. He did not stop his research despite the harsh physical barriers that paralyzed his entire body and prevented him from moving even a finger. Unable to write down physical formulas on paper, he calculated the huge virtual universe structure and three-dimensional geometric formulas as three-dimensional objects in his head. This imaginative space-time sketchbook exercise was the force that led to huge insights in physics.

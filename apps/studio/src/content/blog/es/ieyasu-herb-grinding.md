@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Cómo ayuda a estabilizar las emociones el hecho de moler su propia medicina?"
     answer: "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future."
+
 ---
 
 Tokugawa Ieyasu preparaba sus propias medicinas moliendo hierbas en un mortero. Este hábito manual le proporcionó una estimulación táctil que calmó su sistema nervioso y agudizó su enfoque estratégico durante momentos de alta tensión política.

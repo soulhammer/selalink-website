@@ -21,6 +21,7 @@ faqs:
     answer: "Der Kern ist nicht die Uhrzeit, sondern die Herausforderung direkt nach dem Aufstehen. Sie können diese Routine auch zu Ihrer persönlichen Aufstehzeit durchführen und denselben mentalen Effekt erzielen."
   - question: "Belastet ein tägliches intensives Training nicht den Körper?"
     answer: "Jordans Routine entwickelte sich auch erst nach und nach. Anfängern wird empfohlen, mit 3 Einheiten pro Woche zu starten und sich langsam zu steigern. Wechseln Sie Krafttraining mit Dehnübungen ab, um Überlastungen zu vermeiden."
+
 ---
 
 Michael Jordan, der legendärste Basketballspieler aller Zeiten und das Sinnbild für eiserne Disziplin. Als er Anfang der 1990er Jahre wiederholt an der harten Verteidigung der Detroit Pistons scheiterte, entschied er sich, seinen Körper massiv zu stärken. So entstand der legendäre „Breakfast Club“ um 6 Uhr morgens.

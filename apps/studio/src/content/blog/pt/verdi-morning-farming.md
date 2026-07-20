@@ -21,6 +21,7 @@ faqs:
     answer: "Treinos na academia ajudam, mas a iluminação interna é menos eficaz para redefinir os ritmos circadianos. O contato direto com elementos naturais como o solo (Earthing) combinado com a luz externa é o que desencadeia a ativação de serotonina que Verdi experimentou."
   - question: "O que devo observar ao adicionar o trabalho físico matinal?"
     answer: "Evite o trabalho de alta intensidade que esgota a glicose. A fadiga elevada prejudica o córtex pré-frontal, por isso limite a sessão da manhã a cerca de 15 minutos de atividade leve."
+
 ---
 
 Giuseppe Verdi, o gigante da ópera do século XIX, chamava a si mesmo de 'simples fazendeiro' mesmo quando os teatros de todo o mundo se enchiam com o seu nome. Ao acordar às 5h em sua fazenda em Sant'Agata, vestia roupas rústicas para cultivar campos e cuidar das plantações por 2 horas antes de se sentar ao piano.

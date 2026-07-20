@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Stephen King write 2,000 words every day?"
     answer: "To avoid relying on mood and mechanically output creative work daily, utilizing sensory triggers and physical minimum limits to control and habituate the time inspiration stays."
+
 ---
 
 Stephen King, the master of modern horror behind countless masterpieces like 'The Shining' and 'The Shawshank Redemption,' has maintained a strict discipline for decades: he starts writing every morning and never gets up from his desk until he finishes 2,000 words. ✍️

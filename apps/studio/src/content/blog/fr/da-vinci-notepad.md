@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi De Vinci portait-il toujours un carnet à la taille ?"
     answer: "Pour noter immédiatement les curiosités et observations afin de libérer son attention de la charge mentale."
+
 ---
 
 Léonard de Vinci, le maître absolu de la Renaissance qui a laissé des réalisations surhumaines sans précédent dans l'art, la science, l'anatomie, la musique et le génie civil. Quelle était la source de son génie créatif et de sa capacité à synthétiser les connaissances ? Le secret réside dans une habitude très simple mais puissante qu'il a conservée tout au long de sa vie. De Vinci portait en permanence un petit carnet relié en cuir attaché à sa ceinture afin de pouvoir enregistrer l'inspiration où et quand elle se présentait. Lorsqu'il rencontrait dans la rue une personne au visage ou à l'expression singulière, il la suivait avec insistance jusqu'à ce qu'elle disparaisse de sa vue pour en faire un croquis. Lorsqu'il observait l'écoulement de l'eau, il dessinait sur-le-champ les règles du tourbillon. Ces croquis et notes sont devenus plus tard les milliers de pages du « Codex Léonard de Vinci », qui reste un trésor de l'humanité. Aujourd'hui, BuildSelf partage les secrets neuroscientifiques de la routine de De Vinci.

@@ -21,6 +21,7 @@ faqs:
     answer: "Tentu saja. Anda bisa mendapatkan efek yang sama dengan menulis 'Argumen Saya' di kertas dan bermain peran sebagai kritikus terberat Anda sendiri atau tim analisis pesaing, menulis laporan 'Devil's Advocate' untuk mengkritik rencana Anda sendiri."
   - question: "Bagaimana cara melakukan debat terbalik dengan seseorang tanpa menyinggung perasaan mereka?"
     answer: "Sebelum memulai, Anda harus menyepakati aturan: 'Kami sedang menerapkan aturan debat terbalik Wright Bersaudara.' Menjelaskan bahwa Anda secara resmi bermain peran di bawah aturan tersebut, alih-alih melayangkan serangan pribadi, mencegah gesekan emosional."
+
 ---
 
 Wilbur dan Orville Wright berdebat dengan bertukar peran pendapat setiap malam. Kebiasaan debat terbalik ini membantu mematahkan bias konfirmasi.

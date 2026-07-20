@@ -21,6 +21,7 @@ faqs:
     answer: "Hari-hari seperti itu adalah saat di mana rutinitas ini paling Anda butuhkan. Jangan mencari hal besar. Cukup tulis kondisi fisik atau kelangsungan hidup dasar, seperti 'air yang saya minum bersih', 'saya tiba di rumah dengan selamat', atau 'saya bangun dan bisa bernapas'."
   - question: "Bagaimana dengan mencatat rasa syukur di aplikasi ponsel atau mempostingnya di media sosial?"
     answer: "Memposting di media sosial membuat otak mengharapkan persetujuan orang lain (likes, komentar), memicu pelepasan dopamin yang tidak stabil akibat cemas. Menulis di kertas melindungi otak dari keinginan membandingkan diri."
+
 ---
 
 Oprah Winfrey, ikon media modern yang mengatasi masa kecil yang menyakitkan untuk menjadi ratu talk show legendaris. Dari mana dorongan kreatifnya berasal? 📝

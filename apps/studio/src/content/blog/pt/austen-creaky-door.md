@@ -21,6 +21,7 @@ faqs:
     answer: "Porque é que Jane Austen escrevia numa sala partilhada em vez de num escritório privado?"
   - question: "Como posso aplicar esta regra da porta rangente num ambiente digital moderno?"
     answer: "Pode bloquear notificações configurando o seu estado para 'Não incomodar' ou 'Ocupado', e configurar as suas ferramentas para receber notificações em intervalos específicos, evitando interrupciones."
+
 ---
 
 Jane Austen, a lendária romancista inglesa que criou obras-primas como 'Orgulho e Preconceito'. Trabalhando numa sala familiar partilhada, tinha de defender o seu foco das interrupções constantes. Em vez de reparar a porta rangente, deixou-a assim para servir como sistema de alerta natural. Hoje, o BuildSelf revela como estabelecer limites de foco pode proteger o seu trabalho.

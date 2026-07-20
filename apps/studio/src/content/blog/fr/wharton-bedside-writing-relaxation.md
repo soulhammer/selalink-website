@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Travailler au lit ne transforme-t-il pas la chambre en un espace de stress, provoquant de l'insomnie ?"
     answer: "C'est une distinction importante. Ne faites jamais de tâches stressantes au lit, comme répondre à des réclamations ou planifier votre calendrier. Restreignez le travail au lit à la création. Garder ce travail sans stress évite de perturber la fonction première du lit, qui est le sommeil."
+
 ---
 
 Edith Wharton, première femme à remporter le prix Pulitzer de fiction pour son roman Le Temps de l'innocence, disséquait la vanité et l'hypocrisie de la haute société. Pourtant, sa routine d'écriture était incroyablement confortable. Se réveillant tôt, elle refusait de quitter son lit avant 11h du matin. Soutenue par des oreillers, avec ses chiens pékinois sur les couvertures, elle écrivait sur une planche en bois posée sur ses genoux. Cette profonde relaxation physique a minimisé l'anxiété liée à l'écriture et a généré un flux d'imagination créative. Nous explorons la neurobiologie de la relaxation somatique.

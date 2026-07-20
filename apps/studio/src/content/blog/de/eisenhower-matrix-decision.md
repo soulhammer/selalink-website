@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was ist, wenn an meinem Arbeitsplatz alles dringend sein muss? Wie kann ich Quadrant 2 schützen?"
     answer: "Wenn sich alles dringend anfühlt, bedeutet das meist, dass die Fristen anderer Leute Ihre eigenen Prioritäten überschreiben. Richten Sie zu Beginn Ihres Tages ein nicht verhandelbares 30-Minuten-Zeitfenster für Aufgaben aus Q2 ein und lassen Sie E-Mail- und Chat-Programme geschlossen. Diese kleine Grenze verhindert reaktive Brandbekämpfung und reduziert künftige Notfälle."
+
 ---
 
 Dwight D. Eisenhower, der oberste Befehlshaber der Alliierten im Zweiten Weltkrieg und 34. US-Präsident, stand täglich vor einigen der komplexesten Entscheidungen der Geschichte. Angesichts massiver militärischer Operationen, Diplomatie und Regierungsführung praktizierte er eine einfache, aber wirkungsvolle morgendliche Gewohnheit: Er zeichnete ein Kreuz auf ein Papier, um die Aufgaben in vier Quadranten zu unterteilen. Er fragte sich ständig: „Ist das wichtig oder ist es nur dringend?“ Wir untersuchen die psychologischen Prinzipien der Eisenhower-Matrix, die das Gehirn aus der Falle der Dringlichkeit befreien.

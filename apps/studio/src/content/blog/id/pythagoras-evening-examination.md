@@ -21,6 +21,7 @@ faqs:
     answer: "Tertidur adalah hal yang wajar, tetapi Anda dapat mencoba duduk di meja kerja dan menulis selama 5 menit saja sebelum tidur untuk mencegah langsung tertidur."
   - question: "Apa yang harus saya lakukan jika menyalahkan diri sendiri membuat saya tetap terjaga?"
     answer: "Hentikan proses segera jika ruminasi dimulai. Cukup tuliskan satu tindakan yang akan dilakukan besok, dan tutup buku catatan secara sadar."
+
 ---
 
 Pythagoras, raksasa matematika dan geometri, memimpin sebuah perguruan yang mencari harmoni dan pengendalian diri. Aturan inti mereka adalah pemeriksaan diri di sore hari. Dalam 'Golden Verses', mereka mengajukan tiga pertanyaan sebelum tidur: 'Apa yang saya lakukan salah?', 'Kebaikan apa yang saya lakukan?', dan 'Apa yang saya lewatkan?'. Kami menganalisis rutinitas pemeriksaan diri sore hari Pythagoras.

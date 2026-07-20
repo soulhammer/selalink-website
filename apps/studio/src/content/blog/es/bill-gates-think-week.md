@@ -21,6 +21,7 @@ faqs:
     answer: "No. Lo crucial es controlar la información y aislar la atención. Es suficiente con ir a una biblioteca silenciosa o guardar el móvil durante un día entero centrándose solo en libros de papel."
   - question: "¿Puedo utilizar una pantalla de ordenador al leer los materiales?"
     answer: "Las pantallas tientan al cerebro con notificaciones de correos y webs. Para mantener la red de concentración se aconseja leer en papel. Si es inevitable usar un dispositivo digital, utilice un lector electrónico sin conexión."
+
 ---
 
 Bill Gates, fundador de Microsoft y líder de la innovación tecnológica, su secreto para capturar la visión decisiva del futuro fue su rutina de aislamiento en cabañas. 🌲

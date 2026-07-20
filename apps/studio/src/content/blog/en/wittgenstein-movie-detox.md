@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does scrolling through short-form videos like Reels or TikTok produce a similar cognitive reset?"
     answer: "No, it has the opposite effect. Short-form videos bombard the brain with novel information and visual shocks every few seconds. This over-stimulates dopamine pathways and forces the brain to constantly contextualize new snippets, raising mental restlessness. Wittgenstein's routine focuses on long-form, slow-paced, and simplistic flow that suspends cognitive processing. Rapid short-form media exhaust the brain rather than resting it."
+
 ---
 
 Ludwig Wittgenstein, the genius philosopher of the early 20th century who shook the academic world with Tractatus Logico-Philosophicus. Pushing the limits of logical thought, he faced extreme cognitive exhaustion. To overcome this mental overheating, Wittgenstein kept a daily evening ritual. He rushed to the cinema, sat in the front row, and stared at Western movies. We explore how this simple, intense visual stimulation purifies and resets an exhausted prefrontal cortex.

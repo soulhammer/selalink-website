@@ -21,6 +21,7 @@ faqs:
     answer: "La fiction légère aide également à soulager le stress cérébral, mais pour opacity une 'motivation orientée vers les valeurs' qui aligne l'identité et inspire la volonté, il est bien préférable de choisir des épopées classiques, des livres de philosophie ou des biographies qui apportent une résonance intérieure et une réflexion."
   - question: "Puis-je lire des livres sur une liseuse en étant allongé ?"
     answer: "Les écrans des liseuses ou des tablettes émettent de la lumière bleue, ce qui peut tromper le cerveau en lui faisant croire qu'il fait jour et bloquer la mélatonine. Pour un effet optimal d'alignement subconscient et de sommeil profond, il est recommandé de lire un livre papier sous une lumière douce."
+
 ---
 
 Alexandre le Grand, couronné à 20 ans, conquit un vaste empire. Le secret de son courage était sous son oreiller : il dormait avec l'Iliade d'Homère et une dague. Lire sur des héros dissipait ses peurs nocturnes.

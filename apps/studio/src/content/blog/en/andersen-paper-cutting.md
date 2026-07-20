@@ -21,6 +21,7 @@ faqs:
     answer: "Of course. In fact, cutting randomly without any design is more effective for lowering the DMN. The brain does not care at all if the finished pattern is weird or crooked. What matters is the fine movement of fingertip muscles and auditory stimulation itself, not the precision of the form. Enjoy cutting comfortably."
   - question: "Waste paper is generated after cutting, won't it interfere due to cleanup?"
     answer: "If you are concerned about waste, place a small trash can or tray on the desk from the start and cut over it. If you set it up so cut papers naturally collect in one place, you can finish with a simple 10-second action of throwing them into the bin after the routine, without harming the emotional relaxation state."
+
 ---
 
 Hans Christian Andersen, the father of fairy tales who brought dreams and tears to children and adults worldwide. Suffering from a severe appearance complex, depression, and abandonment anxiety throughout his life, what was the secret behind maintaining his beautiful fairy tale imagination and finding comfort? When conceptualizing inspirations, Andersen always took out paper and scissors from his pocket. He folded and paper-cut while speaking and conceiving fairy tales. For him, paper-cutting was not children's craft, but a tool for emotional recovery that stimulated fingertip senses to draw out the imaginary world. Today, BuildSelf introduces the psychiatric healing benefits and modern manual routine of Andersen's 'paper-cutting'.

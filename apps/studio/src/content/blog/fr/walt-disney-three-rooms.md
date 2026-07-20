@@ -21,6 +21,7 @@ faqs:
     answer: "Il est préférable de changer d'espace. Si ce n'est pas possible, changez la disposition des sièges, la couleur du tableau ou vos outils d'écriture."
   - question: "Que faire si les critiques sont si sévères qu'elles détruisent l'idée?"
     answer: "Le Critique doit viser l'amélioration, non l'abandon. Demandez-vous : 'Quelles modifications rendraient ce projet viable ?' plutôt que de conclure à l'impossibilité."
+
 ---
 
 Walt Disney a construit un empire de l'animation en offrant des rêves aux enfants et aux adultes. Sa créativité n'était pas seulement le produit de l'inspiration. Il avait un système de pensée unique qui affinait des imaginations absurdes en une réalité parfaite.

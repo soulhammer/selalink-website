@@ -16,6 +16,7 @@ steps:
     text: "Verbinden Sie die Formen mit Pfeilen. Die Stärke der Linie zeigt Bedeutung oder Volumen, und die Richtung zeigt Ursache und Wirkung."
   - name: "Analysieren und vereinfachen Sie"
     text: "Prüfen Sie die Skizze. Finden Sie komplexe Bereiche und zeichnen Sie das Diagramm mit weniger Elementen neu, bis die Lösung offensichtlich wird."
+
 ---
 
 "Das Buch der Natur ist in der Sprache der Mathematik geschrieben." Galileo Galilei hatte die lebenslange Angewohnheit zu skizzieren. Als er einen Kronleuchter im Dom von Pisa schwingen sah, maß er die Zeit und skizzierte den Bogen. Jede Welle im Wasser wurde als Diagramm erfasst, was ihm half, abstrakte Gesetze zu visualisieren.

@@ -21,6 +21,7 @@ faqs:
     answer: "Durante los crudos inviernos del París de los años 40, el Café de Flore mantenía la calefacción encendida y su dueño era muy tolerante con los creadores que pasaban horas en sus mesas, convirtiéndose en el mejor despacho posible."
   - question: "¿Se puede aplicar un guion cognitivo trabajando desde casa?"
     answer: "Por supuesto. Incluso en casa, puede lograr el mismo efecto de cambio de mentalidad si enciende un flexo específico en una esquina de su mesa, usa una taza exclusiva para el trabajo y activa de fondo el mismo tipo de sonido ambiente."
+
 ---
 
 Simone de Beauvoir, la filósofa y escritora francesa autora de 'El segundo sexo' que marcó un hito en el feminismo y el existencialismo. Ese estado de superconcentración de donde brotaba su prosa densa no se forjó en una biblioteca privada y silenciosa, sino en una mesa de esquina de un ruidoso café de París. ☕

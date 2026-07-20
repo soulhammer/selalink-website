@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika saya tidak dapat mempertahankan fokus selama 2 jam tanpa melamun?"
     answer: "Jika 2 jam terlalu lama, bagilah menjadi dua blok: 50 menit fokus mendalam diikuti oleh 10 menit peregangan aktif. Jangan memeriksa ponsel Anda selama istirahat 10 menit. Minum air atau berjalan-jalan di sekitar ruangan untuk meningkatkan sirkulasi, lalu segera kembali ke sesi kedua Anda."
+
 ---
 
 Enrico Fermi, fisikawan legendaris yang merancang reaktor nuklir pertama di dunia, sangat unik karena menguasai fisika teoritis dan eksperimental. Sementara ilmuwan lain buntu dalam perhitungan, Fermi menurunkan jawaban dengan mudah. Rahasia produktivitasnya adalah rutinitas pagi harinya: bangun jam 5:30 pagi untuk menghitung di ruang kerjanya selama 2 jam dalam kesunyian mutlak sebelum menuju laboratoriumnya pada jam 8:30 pagi.

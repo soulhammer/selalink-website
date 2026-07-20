@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, Kopien von Orwells Zeitungsausschnitten und Einklebebüchern sowie Arbeitsnotizen werden im George-Orwell-Archiv des University College London (UCL) als historische Dokumente aufbewahrt."
   - question: "Welche Apps werden für das digitale Strukturieren empfohlen?"
     answer: "Wir empfehlen Notion, Obsidian oder Evernote, da sie das Erfassen von Texten und Hinzufügen eigener Gedanken erleichtern, oder Lesezeichen-Apps wie Pocket und Raindrop.io."
+
 ---
 
 George Orwell, der Autor von '1984' und 'Farm der Tiere', der hellsichtig vor totalitärer Macht und Diktatur warnte. Wie gelang es ihm, seine scharfe Beobachtungsgabe und analytische Sprache täglich aufrechtzuerhalten? 📰

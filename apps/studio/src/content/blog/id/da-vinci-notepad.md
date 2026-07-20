@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Da Vinci selalu membawa buku catatan di pinggangnya?"
     answer: "Untuk segera mencatat rasa ingin tahu dan pengamatan yang lewat tanpa kehilangannya."
+
 ---
 
 Leonardo da Vinci, maestro Renaisans sejati yang meninggalkan pencapaian luar biasa yang belum pernah ada sebelumnya dalam seni, sains, anatomi, musik, dan teknik sipil. Apa sumber kreativitas jenius dan kemampuannya untuk mensintesis pengetahuan? Rahasianya terletak pada kebiasaan yang sangat sederhana namun kuat yang dia pertahankan sepanjang hidupnya. Da Vinci selalu membawa buku catatan kecil bersampul kulit yang diikatkan pada ikat pinggangnya sehingga dia dapat mencatat inspirasi kapan pun dan di mana pun inspirasi itu muncul. Ketika dia bertemu seseorang dengan wajah atau ekspresi unik di jalan, dia terus mengikutinya sampai mereka menghilang dari pandangan untuk membuat sketsa karikatur di buku catatannya. Ketika dia mengamati aliran water, dia membuat sketsa aturan pusaran.

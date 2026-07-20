@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, da er morgens mit voller Energie arbeitete, wusste er, dass seine Konzentration nach 13 Uhr nachließ. Er glaubte, dass späteres Schreiben die Qualität mindere, und widmete den Nachmittag dem Gehen, Lesen oder Redigieren."
   - question: "Kann ich die Fokusphase auch in die Abendstunden legen?"
     answer: "Ja, je nach biologischer Uhr (Nachteule). Wichtig ist nicht die Uhrzeit, sondern eine ungestörte Phase von mindestens zwei Stunden mit frischem Kopf."
+
 ---
 
 Thomas Mann, der Literaturnobelpreisträger, der mit 'Der Zauberberg' und 'Die Buddenbrooks' die deutsche Literatur prägte. Seine tiefgründigen Werke entstanden nicht durch spontane Eingebungen, sondern durch eine Zeitplanung, die wie ein Uhrwerk funktionierte. 🕰️

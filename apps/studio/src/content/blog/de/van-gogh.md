@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, wenn Sie so schreiben, als ob Sie einen Brief an jemanden schreiben würden, der Ihren inneren Gedanken ohne Vorurteile zuhört, wie der fiktive Theo, werden die ehrliche Ausdrucksweise Ihrer Emotionen und der Gehirnentgiftungseffekt maximiert."
   - question: "Kann ich eine digitale Memo-App verwenden?"
     answer: "Ein analoges Notizbuch wird zur emotionalen Reinigung empfohlen, da die Verwendung von Handschrift viel vorteilhafter ist, um die Wachsamkeit des somatosensorischen Kortex des Gehirns zu steigern und den Frontallappen zu beruhigen."
+
 ---
 
 Vincent van Gogh, einer der größten Maler in der Kunstgeschichte des späten 19. Jahrhunderts und Pionier des Expressionismus, war ein genialer Maler, der aufgrund extremer Armut und geistiger Isolation im Laufe seines Lebens nur ein Gemälde verkaufte, aber unsterbliche Meisterwerke hinterließ, die heute die menschlichen Sinne beherrschen. Als absoluter Meister des französischen Postimpressionismus schrieb er im Laufe seines Lebens über 660 Briefe an seinen Bruder Theo, um die Einsamkeit inmitten verheerender innerer Anfälle und Entfremdung zu überwinden. Jede Nacht verließ er die Leinwand, zündete in seinem Zimmer eine Kerze an und reinigte seinen Geist, indem er in Briefform die Qual, die auf seinem Herzen lastete, und die Inspiration der Farbe ausschüttete.

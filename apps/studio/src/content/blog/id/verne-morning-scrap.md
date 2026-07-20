@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana kartu penelitian Jules Verne berbeda dari metode Zettelkasten dari Profesor Niklas Luhmann?"
     answer: "Sementara Zettelkasten berfokus pada pembuatan jaringan pemikiran melalui tautan nomor permanen antar kartu, kartu Jules Verne berfokus pada membangun arsip ensiklopedis besar data sains dan teknologi berdasarkan kategori untuk mendukung deskripsi teknis dan plausibilitas dalam karyanya."
+
 ---
 
 Jules Verne, pionir fiksi ilmiah yang memadukan petualangan fantastis dan imajinasi cemerlang yang mendahului zamannya dalam karya-karya seperti 'Dua Puluh Ribu Mil di Bawah Laut' dan 'Mengelilingi Dunia dalam Delapan Puluh Hari'. Dari mana pengetahuan latar belakangnya yang terperinci yang memprediksi satelit, kapal selam, dan pendarat bulan dengan presisi luar biasa di abad ke-19 berasal? 🗺️

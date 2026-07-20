@@ -21,6 +21,7 @@ faqs:
     answer: "Memang benar bahwa pemandangan alam paling efektif untuk mengurangi stres dan memulihkan perhatian. Namun, berjalan sembari melihat gang-gang atau bangunan perkotaan yang tidak beraturan juga merupakan alternatif yang cukup karena dapat memicu berbagai area stimulasi visual otak."
   - question: "Bisakah saya menggantinya dengan joging cepat atau treadmill?"
     answer: "Latihan treadmill yang intens bagus untuk aktivasi fisik, tetapi tidak memberi otak ruang untuk mengamati lingkungan sekitar dan merenung dengan cermat. Untuk memicu reset otak dan pemikiran kreatif, berjalan santai dengan kecepatan konstan sembari menjelajahi sekitar adalah hal yang optimal."
+
 ---
 
 Antoni Gaudí berjalan kaki setiap hari di Barcelona saat matahari terbenam untuk mengamati pola geometris di alam. Hal ini menginspirasi desain arsitekturnya.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Is it inefficient for busy people to take a bath every day?"
     answer: "Even a 10-minute soak relaxes the sympathetic system and turns on DMN, which is highly efficient for cognitive restructuring."
+
 ---
 
 Konosuke Matsushita prenait de longs bains chaque soir pour réfléchir à ses décisions. Cette relaxation thermique augmentait le flux sanguin cérébral et favorisait la réflexion.

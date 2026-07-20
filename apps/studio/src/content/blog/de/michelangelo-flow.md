@@ -21,6 +21,7 @@ faqs:
     answer: "Weil er seinen empfindlichen, hochfokussierten kreativen Fluss nicht unterbrechen wollte. Indem er alltägliche Routinen verweigerte, leitete er seine neuronale Energie direkt in die Bildhauerei."
   - question: "Was sind praktische Tipps zur Verringerung von Entscheidungsmüdigkeit?"
     answer: "Sie können triviale Entscheidungen wie Steve Jobs' Einheitskleidung standardisieren, Mahlzeiten im Voraus planen oder Benachrichtigungen ausschalten."
+
 ---
 
 Die Pietà, der David und die Decke der Sixtinischen Kapelle. Michelangelo Buonarroti, Schöpfer einiger der größten Meisterwerke der Kunstgeschichte. Hinter seinem Genie steckte eine Angewohnheit des extremen Fokus. Laut Biograf Giorgio Vasari schlief Michelangelo wochenlang in Kleidung und Stiefeln. Heute untersucht BuildSelf die Kognitionswissenschaft dahinter.

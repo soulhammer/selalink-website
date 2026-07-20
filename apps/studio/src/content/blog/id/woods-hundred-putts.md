@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika stres meningkat dan menghambat konsentrasi saya?"
     answer: "Itu terjadi ketika tujuan terlalu sulit dibandingkan kemampuan Anda saat ini, menyebabkan otak melepas hormon stres. Turunkan intensitas agar peluang sukses sekitar 70-80%."
+
 ---
 
 Tiger Woods, juara golf paling dominan dalam sejarah dan kaisar olahraga mental. Dia menunjukkan mental baja bahkan di lubang ke-18 turnamen besar yang menegangkan. Pikiran kokohnya berasal dari rutinitas pra-latihan: aturan 100 putts berturut-turut. Kami menganalisis ritual menakutkan ini.

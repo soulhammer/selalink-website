@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Der Kern liegt in der Blockierung künstlicher Reize und dem analogen Fokus. Sie können eine handyfreie Zone zu Hause für 30 bis 60 Minuten einrichten."
   - question: "Warum helfen einfache Hausarbeiten bei der Kontemplation?"
     answer: "Einfache Arbeit ohne Nachdenken minimiert die kognitive Belastung und entspannt das Gehirn. In diesem Zustand reduziert das Gehirn die Zensur im Stirnlappen und fördert unbewusste Verbindungen."
+
 ---
 
 Carl Jung, der weltberühmte Psychiater, der das menschliche Unbewusste kartierte und die Konzepte des kollektiven Unbewussten und der Komplexe vorschlug. Wo erholte sich seine kreative Energie, die unzählige Patienten beriet und umfangreiche akademische Studien verfasste? 🪵

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "L'exercice matinal de haute intensité ne fatigue-t-il pas pendant la matinée ?"
     answer: "Il est important d'adapter l'intensité. Le but n'est pas l'épuisement, mais une séance brève de 15-20 minutes pour élever le rythme cardiaque et la température, activant la circulation. Adaptez le sport à votre forme."
+
 ---
 
 Léon Tolstoï, largement considéré comme un pilier de la littérature réaliste russe avec des chefs-d'œuvre tels que 'Guerre et Paix' et 'Anna Karénine'. Bien qu'il fût un noble fortuné, il rejeta ses privilèges et chercha une vie humble de travail physique. La source de son énergie créative inépuisable était le travail physique et la gymnastique qu'il pratiquait chaque matin. Au réveil, avant de s'asseoir à son bureau, Tolstoï labourait les champs, coupait du bois ou portait de l'eau. Il installa également des appareils de gymnastique dans sa cour pour les tractions et le renforcement musculaire. Il considérait le travail physique comme un moteur nécessaire pour éveiller le cerveau. Aujourd'hui, BuildSelf explore la vérité neuroscientifique derrière l'habitude d'exercice de Tolstoï et comment les professionnels modernes peuvent concevoir des routines matinales pour maximiser l'efficacité cérébrale.

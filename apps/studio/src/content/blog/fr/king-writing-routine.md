@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Stephen King écrivait-il 2 000 mots par jour ?"
     answer: "Pour ne pas dépendre de son humeur et produire régulièrement de manière mécanique, en utilisant des déclencheurs sensoriels and des limites de production minimales afin de contrôler et de ritualiser le temps d'inspiration."
+
 ---
 
 Stephen King, le maître de l'horreur moderne auteur de chefs-d'œuvre comme « Shining » et « Les Évadés », maintient une discipline stricte depuis des décennies : il commence à écrire chaque matin et ne se lève pas avant d'avoir produit 2 000 mots. ✍️

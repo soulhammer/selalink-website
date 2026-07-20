@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Mary Shelley escolhia o cemitério onde a mãe estava enterrada?"
     answer: "A sua mãe faleceu após dar-lhe à luz. A campa era o seu único contacto físico. Estar lá permitia-lhe meditar sobre o nascimento, a morte e a identidade, temas centrais em Frankenstein."
+
 ---
 
 Mary Shelley, a romancista inglesa pioneira na ficção científica com *Frankenstein*. Desde criança, ela visitava o cemitério onde a mãe estava enterrada para ler e pensar. Para ela, os cemitérios eram santuários tranquilos sobre a vida e a morte. Saiba como a atmosfera solene ativa redes criativas no cérebro.

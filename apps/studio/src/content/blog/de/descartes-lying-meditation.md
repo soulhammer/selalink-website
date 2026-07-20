@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Ist morgendliche Meditation im Bett wissenschaftlich wirksam?"
     answer: "Ja, die flache Haltung direkt nach dem Aufwachen führt zu Alpha-Wellen im Gehirn, was das Nervensystem beruhigt und die Kreativität steigert."
+
 ---
 
 René Descartes, der Vater der modernen Philosophie, der mit dem Satz "Ich denke, also bin ich" den Ausgangspunkt des modernen Denkens markierte und die analytische Geometrie begründete. Wussten Sie, dass dieses Genie jeden Morgen eine sehr gemütliche, aber einzigartige Routine pflegte? 🛏️

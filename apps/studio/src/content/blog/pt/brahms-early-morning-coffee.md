@@ -21,6 +21,7 @@ faqs:
     answer: "Brahms tinha uma personalidade perfeccionista e acreditava que a intensidade e sabor do café influenciavam seu estado de alerta, preferindo moer e preparar os grãos em seu próprio ritual."
   - question: "Como a caminhada contribui para a estimulação cerebral?"
     answer: "A caminhada aumenta fisicamente o fluxo sanguíneo cerebral através do impacto dos pés e promove a secreção de BDNF, estimulando as conexões sinápticas para maximizar a criatividade e a memória de trabalho."
+
 ---
 
 Johannes Brahms, compositor considerado um dos três grandes mestres da música clássica alemã junto com Johann Sebastian Bach e Ludwig van Beethoven. Suas obras-primas líricas foram projetadas em um ritual de despertar perfeito e estruturado. ☕

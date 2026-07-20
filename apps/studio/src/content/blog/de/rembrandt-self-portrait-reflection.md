@@ -21,6 +21,7 @@ faqs:
     answer: "Ja. Wenn sich Deprimiertheit oder Selbstkritik breitmachen, hören Sie sofort auf. Versuchen Sie, sich zuerst auf Ihre Schulterlinie oder Ihre Hände zu konzentrieren, um Ihre körperlichen Empfindungen zu erden."
   - question: "Wann ist die beste Tageszeit für die Selbstreflexion im Spiegel?"
     answer: "Direkt nach dem Duschen ist ideal. Ihr Körper ist unter parasympathischer Dominanz entspannt, was die Ego-Abwehrkräfte schwächt und eine angenehme Selbstverbindung ermöglicht."
+
 ---
 
 Rembrandt van Rijn, der unsterbliche Meister des Goldenen Zeitalters der Niederlande. Obwohl er schon früh großen Reichtum und Ruhm erlangte, waren seine späteren Jahre von Bankrott und Einsamkeit geprägt. Dennoch hörte er nie auf, Selbstporträts zu malen, und hinterließ im Laufe von 40 Jahren über 80 Werke. Dies war ein Prozess der visuellen Reflexion, bei dem er sein alterndes Gesicht ohne Verzerrung im Spiegel betrachtete. Wir untersuchen seine Resilienz.

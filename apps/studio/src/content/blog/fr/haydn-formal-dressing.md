@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Haydn s'habillait-il vraiment de façon formelle même seul ?"
     answer: "Oui, il pensait qu'une tenue négligée entraînait des idées négligées. S'habiller correctement était pour lui une discipline de respect de l'art."
+
 ---
 
 Joseph Haydn, le 'Père de la Symphonie' qui a posé les bases du style classique. Il a composé plus de 100 symphonies. Il avait une habitude unique : il portait toujours un costume formel, sa perruque et sa bague préférée avant de composer. Même seul dans son cabinet, il pensait que l'ordre créatif découlait de l'ordre extérieur. Découvrez la science de la 'cognition habillée'.

@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, membersihkan lensa secara teliti sebelum bekerja memberikan sinyal keteraturan kognitif bagi otak, memaksimalkan fokus."
   - question: "Bagaimana cara menggantinya jika saya tidak memiliki mikroskop atau kain pembersih?"
     answer: "Mengelap layar komputer dengan kain mikrofiber, merapikan meja, atau membersihkan layar ponsel sebelum bekerja memberikan hasil yang sama."
+
 ---
 
 Louis Pasteur, seorang pionir kedokteran modern dan mikrobiologi dan seorang ahli kimia jenius Perancis yang memelopori vaksin, menyelamatkan umat manusia dari ketakutan akan penyakit menular dengan menciptakan pasteurisasi dan vaksin antraks/rabies. Dia duduk di meja labnya dan menatap tanpa bergerak selama berjam-jam pada botol kultur di bawah kaca pembesar mikroskop. Dia dengan cermat menggambar dan mencatat jejak-jejak gemetar yang ditinggalkan oleh mikroorganisme saat mereka berkembang biak di buku catatannya. Metode desinfeksi dan penemuan vaksinnya lahir dari pengamatan rutin sambil menatap botol tersebut.

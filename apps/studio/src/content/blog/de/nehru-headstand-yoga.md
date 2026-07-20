@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Personen mit Nackenproblemen sollten das Körpergewicht nicht auf dem Kopf abstützen. Sie können sich auf den Rücken legen und die Beine an der Wand hochstrecken (mit einem Kissen unter dem Becken)."
   - question: "Wann ist die beste Zeit für einen Kopfstand?"
     answer: "Morgens auf nüchternen Magen oder direkt vor Arbeitsbeginn ist es am besten. Der Kopfstand am Morgen bringt Sauerstoff ins Gehirn und weckt die Lebensgeister. Vermeiden Sie die Übung direkt nach dem Essen."
+
 ---
 
 Jawaharlal Nehru kämpfte für die Unabhängigkeit Indiens. Er verbrachte 9 Jahre in Haft. 🧘

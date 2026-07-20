@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que devo fazer se me olhar no espelho me estressa porque só vejo defeitos ou rugas no meu rosto?"
     answer: "Este é um fenômeno muito natural. No início da contemplação, o instinto de avaliar a aparência opera fortemente. Tente focar e olhar apenas para a sua 'pupila' em vez de para todo o rosto. Ajuda fixar o olhar com a sensação de estar fazendo contato visual com a sua própria existência."
+
 ---
 
 Frida Kahlo, a lendária pintora mexicana, suportou dor física extrema devido à poliomielite e a um terrível acidente de ônibus que quebrou seus ossos e a levou a mais de 30 cirurgias. Numa situação desesperadora em que estava acamada, o que salvou sua alma e a tornou uma pintora de classe mundial foi um único 'espelho' que a refletia todos os dias.

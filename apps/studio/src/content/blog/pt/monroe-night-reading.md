@@ -21,6 +21,7 @@ faqs:
     answer: "Leia livros físicos em vez de ecrãs. Escolher livros no estimulantes como poesia ou ensaios sob luz suave induz ondas alfa, ajudando a dormir."
   - question: "Como posso registar passagens favoritas durante a leitura noturna sem interromper o sono?"
     answer: "Em vez de ligar o computador, use notas adesivas ou dobre os cantos das páginas, e transfira-as para o arquivo digital na manhã seguinte."
+
 ---
 
 Marilyn Monroe, o ícone do cinema de Hollywood. Atrás de sua imagem glamorosa, sofria o assédio constante da imprensa. A sua forma de proteger a identidade era un ritual noctuarno: lia clássicos como James Joyce e escrevia poemas. Analisemos como la escrita expresiva reduz o impacto do cortisol.

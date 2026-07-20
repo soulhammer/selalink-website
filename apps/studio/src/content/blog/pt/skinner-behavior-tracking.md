@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O estudo de planeamento criativo qualitativo também pode ser registado com métricas quantitativas?"
     answer: "Para o planejamento criativo, en ver da contagem de palavras, você pode aplicar o feedback de maneira eficaz definindo suas próprias unidades de produção valiosas, como 'número de ideias-chave geradas', 'número de referências coletadas' ou 'número de etapas detalhadas do esboço criadas'."
+
 ---
 
 B. F. Skinner, o genial psicólogo americano que estabeleceu o paradigma do behaviorismo. Como um cientista que estudou mecanismos para mudar o comportamento dos outros geria a sua própria produtividade criativa? 📈

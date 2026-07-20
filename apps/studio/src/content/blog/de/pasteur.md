@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, das Reinigen der Linsen vor Arbeitsbeginn signalisiert dem Gehirn Struktur und maximiert den Fokus."
   - question: "Wie kann ich das Mikroskop oder das Reinigungstuch ersetzen, wenn ich keins habe?"
     answer: "Das Wischen des Bildschirms mit einem Mikrofasertuch oder das Reinigen des Smartphones vor Arbeitsbeginn erzielt den gleichen Effekt."
+
 ---
 
 Louis Pasteur, ein absoluter Pionier der modernen Medizin und Mikrobiologie und ein genialer französischer Chemiker, der Pionierarbeit bei Impfstoffen leistete, rettete die Menschheit vor der Angst vor Infektionskrankheiten, indem er Pasteurisierung und Milzbrand-/Tollwutimpfstoffe erfand. Er saß an seinem Labortisch und starrte stundenlang regungslos auf ein Kulturgefäß unter der Lupe eines Mikroskops. Er zeichnete und notierte akribisch die winzigen Schüttelspuren, die Mikroorganismen bei ihrer Vermehrung in seinem Notizbuch hinterlassen. Seine Desinfektionsmethode und die Entdeckung des Impfstoffs entstanden aus dieser Beobachtungs-Feedback-Routine, während er auf die Flasche starrte.

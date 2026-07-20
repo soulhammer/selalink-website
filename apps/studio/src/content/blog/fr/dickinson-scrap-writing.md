@@ -21,6 +21,7 @@ faqs:
     answer: "Écrire sur papier apporte un stimulus tactile qui active plus fortement les réseaux cognitifs. Cependant, si vous utilisez une application que vous pouvez ouvrir en moins de 3 secondes sans vous laisser distraire par des notifications, l'option numérique convient également."
   - question: "Faut-il être très concentré sur ses tâches ménagères pour stimuler sa créativité ?"
     answer: "Non, c'est l'inverse. L'effet d'incubation est optimal lorsque le cerveau relâche son effort conscient. Effectuer des tâches familières en mode 'pilote automatique' est le meilleur moyen de laisser libre cours à votre créativité."
+
 ---
 
 Emily Dickinson, l'une des figures les plus originales de la littérature américaine du XIXe siècle. Elle a vécu recluse, sortant rarement de chez elle, et a écrit plus de 1 800 poèmes. C'est dans sa cuisine, la nuit, qu'elle puisait et consignait son inspiration artistique.

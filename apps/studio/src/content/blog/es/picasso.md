@@ -21,6 +21,7 @@ faqs:
     answer: "No. Según la neurociencia, cuando una tarea llega a un punto muerto y la fricción cognitiva se maximiza, en lugar de obligarse a hacerlo, hacer 20 minutos de trabajo ventilatorio y luego regresar a un lóbulo frontal despejado acelerará la velocidad total de finalización final en más de un 40%."
   - question: "¿Cuántas pistas de tareas por día es mejor?"
     answer: "Para proteger la batería de energía de su cerebro al tomar decisiones, recomendamos no más de tres categorías de tareas principales por día. La configuración frecuente de pistas de más de cuatro resulta en un desperdicio de atención al cambiar."
+
 ---
 
 Pablo Picasso, un genio pintor español que creó una gran cantidad de inspiración destructiva y sin fronteras a lo largo de su vida, incluidas pinturas, esculturas y cerámicas. Colocó docenas de lienzos sin terminar al mismo tiempo en todo su enorme taller y comenzó a trabajar en ellos. Cuando la inspiración se detuvo mientras pintaba una obra cubista y sintió un estancamiento cognitivo en su cerebro, no forzó el pincel, sino que inmediatamente lo tomó y se trasladó a una naturaleza muerta o un retrato completamente diferente junto a él y continuó trabajando. Esta rutina flexible de cambio de tareas fue la fuerza impulsora detrás de la creación de decenas de miles de obras maestras a lo largo de su carrera.

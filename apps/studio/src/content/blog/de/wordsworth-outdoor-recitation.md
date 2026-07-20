@@ -21,6 +21,7 @@ faqs:
     answer: "In ihrem Tagebuch berichtete sie, dass William morgens den Gartenweg Hunderte Male auf und ab ging, um Verse zu dichten, wobei Schritttempo und Sprechrhythmus genau übereinstimmten."
   - question: "Hat das Vorlesen auf dem Laufband denselben Effekt?"
     answer: "Ja, da der Effekt auf der Durchblutungssteigerung und der Aktivierung des Kleinhirns beruht. Auch das langsame Gehen auf dem Laufband führt zur Taktung des Leseflusses."
+
 ---
 
 William Wordsworth, der Dichter der Romantik, der mit 'Der Regenbogen' und 'Die Narzissen' die Natur besang. Seine melodischen Gedichte entstanden nicht am Schreibtisch, sondern im Takt seiner Schritte auf den Wegen des Lake District. 🚶‍♂️

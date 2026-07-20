@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Da Vinci sempre levava um caderno na cintura?"
     answer: "Para registrar instantaneamente qualquer curiosidade ou observação sem perdê-las, mantendo livre sua energia cognitiva."
+
 ---
 
 Leonardo da Vinci, o mestre supremo do Renascimento que deixou conquistas sobre-humanas sem precedentes na arte, na ciência, na anatomia, na música e na engenharia civil. Qual era a fonte de sua genial criatividade e capacidade de sintetizar o conhecimento? O segredo reside num hábito muito simples mas poderoso que manteve durante toda a vida. Da Vinci trazia sempre um pequeno caderno encadernado em couro atado ao cinto para poder registar a inspiração onde e quando ela surgisse. Quando encontrava na rua alguém com um rosto ou expressão singular, seguiu-o persistentemente até o perder de vista para fazer um esboço no seu caderno. Quando observava o fluxo da água, desenhava no local as regras do redemoinho. Estes esboços e notas tornaram-se mais tarde as milhares de páginas do 'Códice Leonardo da Vinci', que continua a ser um tesouro da humanidade. Hoje, o BuildSelf partilha os segredos neurocientíficos da rotina de Da Vinci.

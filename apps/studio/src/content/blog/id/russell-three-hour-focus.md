@@ -21,6 +21,7 @@ faqs:
     answer: "Tentu saja, pemutusan hubungan komunikasi total selama 3 jam mungkin sulit dilakukan dalam lingkungan kantor biasa. Dalam hal ini, Anda dapat membaginya menjadi blok waktu yang lebih kecil seperti 90 menit di pagi hari dan 90 menit di sore hari."
   - question: "Bisakah saya melanjutkan dengan tugas-tugas ringan di sore hari setelah fokus selama 3 jam?"
     answer: "Ya. Setelah 3 jam Deep Work, disarankan untuk melakukan tugas-tugas berulang yang sederhana, memeriksa email, atau menangani pekerjaan administratif (shallow work). Mengisi sore hari dengan pekerjaan yang tidak menuntut banyak sumber daya otak adalah kombinasi yang baik untuk menghemat energi lobus frontal."
+
 ---
 
 Bertrand Russell membatasi kerja intelektual intensifnya hanya 3 jam sehari. Batasan waktu yang ketat ini mencegah kelelahan kognitif.

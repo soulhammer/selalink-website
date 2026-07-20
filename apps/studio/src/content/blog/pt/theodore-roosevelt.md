@@ -21,6 +21,7 @@ faqs:
     answer: "Isso ocorre porque a intensidade do exercício foi acelerada e o material de acúmulo de fadiga aumentou rapidamente. Assim que você atingir o ponto crítico de falta de ar, você deve interrompê-lo imediatamente com um cronômetro de 3 minutos para que apenas a refrescante dopamina do despertar seja carregada em seu cérebro."
   - question: "Como deve começar um iniciante com força física gravemente fraca?"
     answer: "Qualquer tipo de treinamento físico aeróbico/de força, como caminhar sem sair do lugar em um ritmo rápido ou correr leve sem sair do lugar, é igualmente eficaz, desde que seja suficiente para fazer você suar levemente com base na sua condição cardiorrespiratória atual."
+
 ---
 
 Theodore Roosevelt, o 26º presidente dos EUA, que foi nomeado para a presidência na idade mais jovem da história dos EUA e liderou reformas progressistas inovadoras e expandiu a hegemonia global da América através da implantação de um forte poder diplomático no estrangeiro. Para superar as limitações do corpo asmático e magro de criança, ele ia à academia todas as manhãs e praticou treinamento físico de alta intensidade durante toda a vida, levantando pesados ​​​​blocos de ferro até o limite e suando. Este hábito de exercício físico explosivo todas as manhãs não só transformou um rapaz fraco num homem forte, mas foi também a força motriz que lhe deu a força de vontade férrea e a agilidade mental para resistir como presidente.

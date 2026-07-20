@@ -21,6 +21,7 @@ faqs:
     answer: "Com certeza. Não é preciso tocar melodias complexas. Em vez disso, coloque uma música clássica e concentre-se nela enquanto pratica a respiração profunda para obter a estimulação nervosa."
   - question: "Como a água fria no rosto estimula o nervo vago e desperta o cérebro?"
     answer: "Quando a água fria toca o rosto, o corpo ativa o reflexo de mergulho, o que reduz os batimentos cardíacos e prioriza a oxigenação cerebral. Essa resposta estimula diretamente o nervo trigêmeo e o vago."
+
 ---
 
 Arthur Schopenhauer, o filósofo alemão que definiu o mundo como vontade e representação. Como ele preparava a sua mente afiada todas as manhãs? 🎶

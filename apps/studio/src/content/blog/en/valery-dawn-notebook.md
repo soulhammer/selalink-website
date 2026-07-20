@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if it is hard to wake up early due to chronic sleep debt?"
     answer: "Waking up early must be accompanied by going to bed early to prevent physical harm. If early bedtime is impossible due to late work, do not force yourself to wake up at 4 AM. Instead, dedicate the first 30 minutes of your regular wake-up window as 'digital disconnect and Cahiers time' to achieve the same anchoring effect."
+
 ---
 
 The peak of French symbolist literature and sharp intellect, Paul Valery. Throughout his life, every day at 4 AM, he woke up without fail and turned on his lamp. He headed straight to his writing desk. During the quiet hours before dawn when the world was silent, Valery recorded the stream of consciousness and thoughts. Over 51 years, these notebooks accumulated to 261 volumes, serving as the source of all his philosophical ideas. Explore how the quietness of dawn filters cognitive noise to extract the purest ideas.

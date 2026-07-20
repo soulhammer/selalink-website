@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Ne devrais-je pas écouter de la musique pendant la marche ?"
     answer: "La musique ou les informations verbales stimulent le cerveau pour les analyser, ce qui entrave l'activation du DMN. Pour un repos cérébral complet, concentrez-vous uniquement sur les sons naturels sans écouteurs."
+
 ---
 
 Charles Dickens, considéré comme le plus grand romancier de l'époque victorienne avec des chefs-d'œuvre tels que 'Oliver Twist', 'Les Grandes Espérances' et 'Un chant de Noël'. Savez-vous où sont nés les personnages charmants et les intrigues complexes de ses romans ? Le secret réside dans sa routine de 'marche de 3 heures' chaque après-midi. Après avoir écrit de 9h à 14h, Dickens sortait. Il marchait environ 16 à 19 km à un pas très rapide pendant exactement trois heures. Aujourd'hui, BuildSelf partage les principes neuroscientifiques derrière la routine de marche de Dickens.

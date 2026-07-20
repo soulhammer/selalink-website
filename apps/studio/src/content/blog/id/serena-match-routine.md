@@ -21,6 +21,7 @@ faqs:
     answer: "Tentukan 2-3 langkah mekanis sederhana yang dapat Anda kontrol sepenuhnya, seperti mengikat tali sepatu dengan urutan tertentu, menarik napas dalam-dalam, atau mengucapkan kalimat positif."
   - question: "Bagaimana cara mengatasi kecemasan jika melewatkan satu langkah atau melakukan kesalahan dalam rutinitas?"
     answer: "Sadarilah bahwa rutinitas hanyalah jangkar psikologis, bukan esensi dari kemampuan Anda. Menerima kesalahan sebagai bagian dari proses memaksimalkan manfaat rutinitas."
+
 ---
 
 Peraih 23 gelar tunggal Grand Slam, ratu tenis Serena Williams. Di bawah tekanan media dan lapangan yang sangat besar, senjatanya bertahan selama 20 tahun adalah rutinitas pra-tanding yang ketat. Sebelum servis pertama, ia selalu memantulkan bola tenis sebanyak 5 kali. Pelajari bagaimana gerakan motorik berulang mengamankan fokus mental.

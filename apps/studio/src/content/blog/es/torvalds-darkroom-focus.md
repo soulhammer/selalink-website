@@ -21,6 +21,7 @@ faqs:
     answer: "El contraste excesivo fatiga los ojos. Se recomienda bajar el brillo del monitor para adaptarlo al entorno o usar una luz LED de fondo suave instalada detrás de la pantalla."
   - question: "¿Qué hacer se no tengo un lavadero o habitación aislada?"
     answer: "No se necesita un espacio especial. Basta con cerrar la puerta, sentarse de espaldas a la pared para evitar distracciones o colocar un panel divisorio que bloquee la vista más allá del monitor."
+
 ---
 
 Linus Torvalds programaba Linux en una habitación oscura y silenciosa sin decoraciones. Este entorno de estímulo mínimo le permitió dedicar toda su energía prefrontal al desarrollo del kernel al eliminar las distracciones sensoriales del entorno.

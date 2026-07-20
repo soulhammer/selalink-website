@@ -21,6 +21,7 @@ faqs:
     answer: "No es necesario escribir mucho. Con tres líneas basta: 'una cosa que me agotó hoy', 'cómo me sentí' y 'una cosa que puedo cambiar mañana'. Esto activa el mismo mecanismo de control."
   - question: "¿El efecto es el mismo si escribo en una aplicación de diario o escribo en teclado?"
     answer: "Es más eficaz escribir a mano en papel. El estímulo físico de mover la mano envía señales táctiles que activan la concentración del lóbulo frontal. Si escribe en teclado, asegúrese de bloquear todas las alertas para no romper la concentración."
+
 ---
 
 El almirante Yi Sun-shin de Joseon estableció un récord de 23 victorias en 23 batallas. Frente a conspiraciones políticas, torturas, la muerte de su hijo y una flota enemiga abrumadora, ¿dónde encontró la fuerza para mantener la compostura? Encendía un farol cada noche y registraba meticulosamente el clima y sus penas en el Nanjung Ilgi. Escribir no era solo un informe militar, sino un ritual de sanación para disipar la frustración. Hoy, BuildSelf presenta los efectos de esta rutina y cómo aplicarla.

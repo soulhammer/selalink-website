@@ -21,6 +21,7 @@ faqs:
     answer: "A menos que sea una crisis, la mayoría de los correos que parecen urgentes pueden esperar 1 o 2 horas. Establezca al menos 1 hora de reserva para usted al comenzar."
   - question: "¿Qué hacer si la tarea principal es demasiado grande?"
     answer: "Si es enorme, el cerebro sentirá presión y la evitará. Divida la tarea en partes pequeñas que pueda terminar en 1 hora, y aborde una de ellas primero."
+
 ---
 
 Andrew Carnegie, el magnate del acero que construyó la base industrial de Estados Unidos. Tenía una inmensa carga de trabajo, pero la manejó enfocándose estrictamente en una tarea clave a la mañana antes de que comenzaran otras distracciones.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was sind die wichtigsten Kernübungen, wenn man nicht alles lernen kann?"
     answer: "Wenn Sie nicht alle Übungen schaffen, merken Sie sich zwei Schritte: Erstens, reiben Sie die Handflächen warm und massieren Sie das Gesicht. Zweitens, setzen Sie sich aufrecht hin, atmen Sie tief durch die Nase ein und atmen Sie 10 Sekunden lang ruhig durch den Mund aus. Das reguliert die Aufwachreaktion bereits."
+
 ---
 
 Yi Hwang, der große neo-konfuzianische Denker Koreas. Trotz seiner schwachen Gesundheit arbeitete er bis ins hohe Alter dank seiner morgendlichen Routine: der Hwalinsimbang-Übung. Nach dem Erwachen führte er Dehnungen aus und regulierte den Atem. Erfahren Sie, wie dieses Ritual die morgendliche Cortisolausschüttung dämpft, den Parasympathikus aktiviert und den Geist klärt.

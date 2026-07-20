@@ -21,6 +21,7 @@ faqs:
     answer: "Não. De acordo com a neurociência, quando uma tarefa atinge um platô e o atrito cognitivo é maximizado, em vez de se forçar a fazê-lo, fazer 20 minutos de trabalho ventilatório e depois retornar a um lobo frontal limpo acelerará a velocidade final total de conclusão em mais de 40%."
   - question: "Quantas faixas de tarefas por dia são melhores?"
     answer: "Para proteger a bateria de energia do seu cérebro que toma decisões, recomendamos não mais do que três categorias principais de tarefas por dia. Configurações freqüentes de mais de quatro faixas resultam em desperdício de atenção."
+
 ---
 
 Pablo Picasso, um gênio pintor espanhol que criou uma grande quantidade de inspiração destrutiva e sem fronteiras ao longo de sua vida, incluindo pinturas, esculturas e cerâmicas. Ele expôs dezenas de telas inacabadas por todo o seu enorme ateliê ao mesmo tempo e começou a trabalhar nelas. Quando a inspiração parou enquanto pintava uma obra cubista e ele sentiu estagnação cognitiva em seu cérebro, ele não forçou o pincel, mas imediatamente pegou o pincel e mudou-se para uma natureza morta ou tela de retrato completamente diferente ao lado dele e continuou trabalhando. Essa rotina flexível de mudança de tarefas foi a força motriz por trás da criação de dezenas de milhares de obras-primas ao longo de sua carreira.

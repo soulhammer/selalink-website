@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Can qualitative creative planning study also be tracked with quantitative metrics like word count or hours?"
     answer: "For creative planning, instead of word count, you can effectively apply feedback by defining your own valuable output units such as 'number of key ideas derived', 'number of reference gathered', or 'number of detailed outline steps created'."
+
 ---
 
 B. F. Skinner, the genius American psychologist who established the paradigm of behaviorism, claiming human free will is a product of behavioral conditioning. As a scientist who studied mechanisms to change others' behavior, how did he manage his own creative productivity? 📈

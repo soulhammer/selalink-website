@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, das Schreiben direkt nach dem Aufwachen, wenn das Unterbewusstsein aktiv ist, trainiert die kreative Intuition am effektivsten."
   - question: "Wie kann ich die Wortkarten ersetzen, wenn ich keine habe?"
     answer: "Sie können stattdessen ein beliebiges Buch öffnen und Nomen auswählen oder einen Online-Zufallsgenerator nutzen."
+
 ---
 
 Der amerikanische Schriftsteller Ray Bradbury, der Pate der modernen Science-Fiction-Literatur (SF) und ein Meister, der mit seiner einzigartigen poetischen Sensibilität die Grenzen der wissenschaftlichen und technologischen Zivilisation vorhersagte, schrieb Meisterwerke wie Fahrenheit 451, indem er jeden Morgen eine Erzählroutine aus 10 spontanen Wortassoziationen verwendete. Sobald er jeden Morgen die Augen öffnete, ging er zu seinem Schreibtisch und schrieb 10 zufällige Wörter (z. B. Sand, Asche, Glocke, Motor, Wolke usw.) auf ein leeres Blatt Papier. Er starrte jedes Wort eine Minute lang an, dann zwang er die Wörter, sich in seinem Gehirn zu verbinden, und erzeugte jeden Tag eine Assoziation mit einer kurzen, ultrakurzen Geschichte. Diese Routine war die Wiege der Kreativität, die zu seinen Science-Fiction-Meisterwerken führte.

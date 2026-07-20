@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Comment Thoreau prenait-il des notes pendant ses 4 heures de marche ?"
     answer: "Il portait un petit carnet en cuir et un crayon dans sa poche. Dès qu'une idée surgissait, il s'arrêtait sous un arbre pour noter ses observations."
+
 ---
 
 Henry David Thoreau, l'essayiste américain qui a vécu en autarcie près du lac Walden. Auteur du classique *Walden*. Derrière sa profonde philosophie se cachait une habitude immuable l'après-midi : marcher 4 heures par jour dans les bois de Concord. Il n'en faisait pas qu'un exercice physique, il observait la nature et notait ses idées sur un carnet. Découvrez l'impact de la marche sur le cerveau.

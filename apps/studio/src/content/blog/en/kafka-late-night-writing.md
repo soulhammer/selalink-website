@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Won't working late at night like Kafka break the sleep cycle?"
     answer: "Yes, excessive staying up can harm your health. The key to this routine is not the 'late night' time zone itself, but securing 'one hour of extreme silence' where external interference disappears completely. For this, it is recommended to use noise blocking devices or utilize early morning hours instead."
+
 ---
 
 Franz Kafka, widely regarded as a pioneer of existentialist literature, sharply depicted the anxiety and alienation of modern humans. His creative world only opened late at night when the bustle of the day had completely ceased. During the day, Kafka fulfilled his social role as a diligent administrator at a workers' accident insurance institute. However, at 11 PM, when the darkness deepened and the noise of family and neighbors quieted down, he finally sat at his desk.

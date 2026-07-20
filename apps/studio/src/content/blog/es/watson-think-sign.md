@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué pasa si mis pensamientos se desvían hacia distracciones?"
     answer: "Esto es natural al principio. Cuando surjan distracciones, no las reprima; en su lugar, mire la señal de 'THINK' y regrese suavemente al tema."
+
 ---
 
 Thomas Watson, el primer presidente de IBM. Hizo que se colocaran tarjetas con la palabra 'THINK' en cada espacio de la empresa. Se sentaba en silencio durante más de 15 minutos todas las mañanas sin documentos ni bolígrafos. Explore la eficacia de esta simple señal y hábito de pensamiento.

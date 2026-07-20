@@ -21,6 +21,7 @@ faqs:
     answer: "Sie müssen nicht viel schreiben. Drei Zeilen genügen: 'Eine Sache, die mich heute erschöpft hat', 'wie ich mich gefühlt habe' und 'eine Sache, die ich morgen ändern kann'."
   - question: "Ist der Effekt derselbe, wenn ich eine Tagebuch-App oder die Tastatur nutze?"
     answer: "Das handschriftliche Schreiben auf Papier ist am effektivsten. Die Bewegung sendet taktile Signale, die die Konzentration stärken. Wenn Sie tippen, schalten Sie alle Benachrichtigungen aus, um den Fokus zu wahren."
+
 ---
 
 Admiral Yi Sun-shin aus Joseon errang 23 Siege in 23 Schlachten. Woher nahm er angesichts von Intrigen, Folter und einer übermächtigen gegnerischen Flotte die Kraft, die Fassung zu bewahren? Er zündete jede Nacht eine Laterne an und hielt das Wetter sowie seine Sorgen im Nanjung Ilgi fest. Das Schreiben war für ihn ein Selbstheilungsritual, um Frust abzubauen. Heute stellt BuildSelf die Effekte dieser Routine vor.

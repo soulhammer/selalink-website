@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Quais atividades manuais modernas podem substituir a fiação?"
     answer: "Qualquer atividade rítmica que exija motricidade fina é ideal. Escrever com caneta-tinteiro, fazer tricô ou crochê, a cerimônia do chá, montar Lego ou quebra-cabeças têm o mesmo efeito estimulante da serotonina."
+
 ---
 
 Mahatma Gandhi, o pai da Índia que liderou a independência do país por meio do movimento de desobediência civil não violenta. De onde vinha a paciência sobre-humana e a paz interior inabalável deste líder? A resposta estava no ritual matinal que ele seguiu rigorosamente durante toda a vida.

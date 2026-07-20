@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Will the progress be too slow if daily micro-goals are too small?"
     answer: "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year."
+
 ---
 
 Akira Kurosawa écrivait un nombre fixe de pages chaque jour, peu importe son inspiration. Cette routine systématique a évité le blocage de l'écrivain en s'appuyant sur la discipline.

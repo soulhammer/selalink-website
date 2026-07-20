@@ -16,6 +16,7 @@ steps:
     text: "Consacrez 15 à 20 minutes au premier projet. Concentrez 100 % de votre énergie sur cette seule tâche, en évitant toute autre distraction."
   - name: "Faire un changement propre de contexte"
     text: "À la fin du bloc, fermez le premier projet et ouvrez le second. Respirez profondément trois fois pour vider la mémoire de travail active et plongez à 100 % dans le second projet."
+
 ---
 
 "La raison est la servante de la fe, et l'intellect son épée." Thomas d'Aquin, figure de la scolastique médiévale, possédait un esprit plus rapide que sa plume. Pour capturer ses pensées, il dictait sa Somme théologique à plusieurs secrétaires à la fois, passant d'un sujet à un autre sans jamais perdre le fil.

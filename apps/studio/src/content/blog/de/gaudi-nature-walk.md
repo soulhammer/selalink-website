@@ -21,6 +21,7 @@ faqs:
     answer: "Naturlandschaften bauen Stress am besten ab. Das Gehen in städtischen Gassen oder das Betrachten von Gebäuden ist jedoch ebenfalls nützlich, da es die visuellen Gehirnbereiche aktiviert."
   - question: "Kann ich es durch schnelles Joggen oder ein Laufband ersetzen?"
     answer: "Ein Laufband aktiviert den Körper, lässt aber keine Zeit für Beobachtungen. Zur Gehirnerholung und Kreativitätsförderung ist ein langsamer Spaziergang im Freien ideal."
+
 ---
 
 Antoni Gaudí ging jeden Tag bei Sonnenuntergang in Barcelona spazieren, um geometrische Muster in der Natur zu beobachten. Dieses Eintauchen in natürliche Formen inspirierte seine Architektur.

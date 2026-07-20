@@ -16,6 +16,7 @@ steps:
     text: "Berjalanlah perlahan dan sadarilah bentuk daun, suara burung, tekstur batang pohon, hingga aroma tanah di sekitar Anda untuk memusatkan pikiran saat ini."
   - name: "Langkah 3: Tulis Ide Setelah Kembali ke Ruangan"
     text: "Setelah kembali ke meja kerja, segera catat ide kreatif atau solusi masalah yang muncul selama berjalan. Korteks prefrontal yang segar akan mengeksekusi tugas secara optimal."
+
 ---
 
 "Alam, untuk dikuasai, harus dipatuhi." Francis Bacon, pelopor metode ilmiah modern, adalah pencinta kebun. Setiap pagi ia berjalan perlahan di kebunnya, mengamati perubahan cuaca dan tanaman. Asistennya mengikuti untuk mencatat ide yang ia ucapkan. Bagi Bacon, ini adalah sarana detoksifikasi sensorik otak.

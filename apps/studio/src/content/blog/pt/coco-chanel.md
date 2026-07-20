@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, estabelecendo um limite claro entre trabalho e descanso por meio de um ritual de isolamento, cheirando fragrâncias sozinho após o trabalho."
   - question: "Como posso substituir se não tiver perfumes de aroma ou um quarto de hotel?"
     answer: "Você pode obter o mesmo efeito desligando o smartphone por 15 minutos em um canto arrumado de casa enquanto sente o cheiro de um difusor simples."
+
 ---
 
 Coco Chanel é uma estilista francesa que liderou uma revolução no design de moda no século 20 e libertou as mulheres da opressão dos espartilhos, e fundadora da marca Chanel. Coco Chanel apresentou a liberdade essencial do vestuário feminino através da beleza preta e simples (Simples é o melhor). De pé em seu ateliê, ela percorreu o tecido diretamente sobre o corpo da modelo e, com apenas uma tesoura na mão, cortou impiedosamente os espartilhos pesados ​​e pesados, as golas enormes e as rendas desnecessárias do século XIX. Em vez de apagar as linhas com a caneta, ela sentiu a tensão do tecido e as recortou, criando uma simplificação minimalista que permitiu à mulher se movimentar livremente e exercitar a consciência corporal.

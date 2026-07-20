@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Es menos efectivo susurrar o leer en silencio que hablar en voz alta?"
     answer: "Pensar en silencio no desencadena tanto el control del lenguaje y la retroalimentación, por lo que debe vocalizar completamente con una voz clara."
+
 ---
 
 Fiódor Dostoievski, quien fue pionero en el retrato psicológico humano. ¿Cómo pudo su narrativa ofrecer tanta vitalidad? Según los registros de su asistente y esposa Anna, al escribir, caminaba por la habitación como un loco, gritando y recitando monólogos. Explore el secreto de este método de escritura único.

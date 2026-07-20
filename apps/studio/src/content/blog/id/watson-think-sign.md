@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika pikiran saya melayang ke hal-hal yang mengganggu?"
     answer: "Ini wajar dalam latihan awal. Saat gangguan muncul, jangan ditekan; sebagai gantinya, tatap tanda 'THINK' dan kembalikan pikiran Anda ke topik."
+
 ---
 
 Thomas Watson, presiden pertama raksasa teknologi IBM. Dia mewajibkan kartu dan papan bertuliskan kata 'THINK' ditempatkan di setiap sudut perusahaan. Dia duduk diam selama lebih dari 15 menit setiap pagi tanpa dokumen atau pena. Temukan keefektifan tanda sederhana dan kebiasaan berpikir ini.

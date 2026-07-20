@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Ayuda a concentrarse el usar zapatos (como zapatos de casa o mocasines) en el interior durante el teletrabajo?"
     answer: "Sí, proporciona una potente señal sensorial. La firmeza de los zapatos en las suelas indica a la corteza somatosensorial que el cuerpo está activo y de pie. Esto suprime la urgencia de tumbarse en un sofá. Reservar zapatos ligeros de lona o zapatillas de cuero para interiores exclusivamente para el trabajo es una forma eficiente de poner a los teletrabajadores en marcha."
+
 ---
 
 René Magritte, el maestro surrealista belga que desafió la percepción con 'Esto no es una pipa'. Al contrario de su arte excéntrico, su estilo de vida diario era excepcionalmente ordenado. A diferencia de los pintores que trabajaban en estudios caóticos, Magritte se ponía un traje limpio y un bombín cada mañana, parándose ante un easel en su ordenada sala de estar. Pintaba con control, sin dejar caer nunca una gota de pintura en su ropa o alfombra. Analizamos el mecanismo cognitivo de cómo la vestimenta prepara al cerebro para el máximo enfoque.

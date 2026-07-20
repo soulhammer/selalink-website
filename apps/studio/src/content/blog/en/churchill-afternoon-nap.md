@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What was the effect of Churchill's wartime nap routine?"
     answer: "With a deep 1.5-2 hour nap, he divided his day into two independent alert periods to handle heavy decision-making loads."
+
 ---
 
 Winston Churchill, the British Prime Minister during World War II who led the strong fight against Germany to secure the final victory of the Allies, and at the same time a historian and writer who won the Nobel Prize in Literature. How was he able to maintain his peak mental alertness without getting exhausted under the grueling state duties of over 18 hours a day? The secret lay in a very unique and firm 'nap routine' he had every afternoon. Every afternoon between 2:00 and 2:30 PM, Churchill stopped all state reports and went to his bedroom, undressed completely, and took a deep nap for 1 to 2 hours. This schedule was strictly protected even during the war. Churchill boasted that thanks to his nap, he was able to split the day into 'a day with two independent mornings.' Today, BuildSelf shares the neuroscientific truth behind Churchill's nap and the Power Nap practice for modern people to completely reset their fatigue.

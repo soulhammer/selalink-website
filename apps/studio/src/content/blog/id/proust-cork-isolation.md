@@ -21,6 +21,7 @@ faqs:
     answer: "Tergantung pada kepribadian, keheningan total dapat memicu tinitus atau kecemasan pada otak yang mengalami deprivasi sensorik. Dalam kasus seperti itu, memutar white noise alami dengan volume rendah (atau pink noise), seperti suara hujan atau dedaunan yang berguguran, sangat disarankan. Suara alam tanpa makna buatan tidak akan menyita perhatian talamus tetapi tetap memberikan efek relaksasi yang nyaman."
   - question: "Apakah bekerja sambil berbaring di tempat tidur juga bisa membuat fokus tetap baik?"
     answer: "Proust terpaksa bekerja sambil berbaring karena penyakit kronisnya (asma). Bagi kebanyakan manusia modern, otak menganggap tempat tidur sebagai 'ruang tidur,' sehingga memicu rasa kantuk saat bekerja di sana. Untuk fokus bekerja, jauh lebih efektif bagi efisiensi kognitif untuk menggunakan meja dengan postur tegak, dengan hanya menerapkan teknik isolasi sensorik (pencahayaan, pemblokiran bising)."
+
 ---
 
 Marcel Proust, novelis Prancis yang merevolusi fiksi abad ke-20 dan menunjukkan puncak deskripsi sensorik. Ia menderita asma kronis dan neurastenia parah sepanjang hidupnya, terutama hipersensitivitas sensorik yang bereaksi secara neurotis terhadap cahaya dan suara kecil. Akibatnya, ia merombak kamar tidurnya menjadi benteng kedap suara total untuk melarikan diri dari lingkungan Paris yang bising.

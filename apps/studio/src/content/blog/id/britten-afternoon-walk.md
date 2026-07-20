@@ -21,6 +21,7 @@ faqs:
     answer: "The Aldeburgh coast, located in Suffolk, eastern England, is a beach full of round pebbles, not sand. Whenever waves hit, it makes a clear sound of rolling pebbles, and boasts an open, calm scenery along the coastal road."
   - question: "Does walking in a city skyscraper forest also have an attention restoration effect?"
     answer: "Walking in a city has low restoration effects due to many involuntary guidance stimuli that stimulate sight and nerves, such as neon signs, signboards, and traffic noise. It is essential to choose a quiet park with dense trees or a nature-friendly zone with flowerbeds and water sounds, even within a city."
+
 ---
 
 Benjamin Britten, seorang maestro yang memimpin lompatan besar dalam musik Inggris abad ke-20 dengan menggubah opera 'Peter Grimes' dan 'The Young Person's Guide to the Orchestra.' Benang harmonis musik modernnya yang kompleks dan intelektual terurai bukan di depan lembaran musik, melainkan di jalan setapak pantai Aldeburgh di Suffolk tempat angin laut berhembus kencang. 🌊

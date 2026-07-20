@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Steve Jobs memakai pakaian yang sama setiap hari?"
     answer: "Untuk menghemat energi otak prefrontal yang dikonsumsi oleh pilihan pakaian sepele, memfokuskan 100% kekuatannya pada keputusan bisnis."
+
 ---
 
 Steve Jobs, genius wirausaha yang mendirikan Apple dan meluncurkan Macintosh, iPhone, iPad, serta perangkat revolusioner lainnya. Tahukah Anda bahwa ia mengenakan turtleneck hitam, celana jins, dan sepatu kets yang sama persis setiap hari, bukan hanya di atas panggung? 👕

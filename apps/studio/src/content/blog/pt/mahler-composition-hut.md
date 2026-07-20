@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Como os funcionários em escritórios abertos podem aplicar a rotina de isolamento de Mahler?"
     answer: "Nesse cenário, utilize o isolamento auditivo e digital. Usar fones de ouvido com cancelamento de ruído com ruído branco ou sons ambientes funciona como um escudo cognitivo. Combine isso definindo os aplicativos de comunicação como 'Não perturbe' e maximizando a janela do seu espaço de trabalho principal para criar uma minicabana digital."
+
 ---
 
 Gustav Mahler, o mestre austríaco que compôs sinfonias imortais com orquestrações massivas. Durante sua ocupada regência, ele teve que despejar toda a sua energia musical durante as limitadas férias de verão. Para conseguir isso, Mahler construiu uma pequena 'cabana de composição' no fundo da floresta alpina. Todas as manhãs, às 6h, após o café da manhã ser deixado na porta, Mahler se trancava lá dentro até o meio-dia. Exploramos como essa rotina de isolamento absoluto guia o cérebro ao pico do desempenho criativo.

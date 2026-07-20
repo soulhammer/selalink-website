@@ -21,6 +21,7 @@ faqs:
     answer: "Es ist nicht nötig, wie Smith 15 Meilen zu gehen. Die klinisch empfohlene Dauer für die DMN-Aktivierung beträgt 20 bis 40 Minuten. Wichtiger als die Distanz ist es, den Geist ohne digitale Ablenkungen fokussiert zu halten."
   - question: "Kann ich auf einem Laufband im Innenbereich gehen, wenn es schwierig ist, nach draußen zu gehen?"
     answer: "Ja, aber es ist wichtig, während des Laufens nicht auf Smartphone-Bildschirme oder Fernsehbildschirme zu schauen. Richten Sie Ihren Blick auf eine leere Stelle an der Wand und blenden Sie visuelle Reize aus, um sich auf das Gehen zu konzentrieren."
+
 ---
 
 Adam Smith, der Philosoph, der die Grundlagen der modernen Wirtschaftswissenschaften und die 'unsichtbare Hand' des freien Marktes begründete, hatte eine einzigartige lebenslange Gewohnheit. Wenn er komplexe Ideen strukturierte, ging Smith ziellos in Gärten oder auf ruhigen Pfaden spazieren. Eines Morgens war er so tief in Gedanken versunken, dass er 15 Meilen (ca. 24 km) in eine Nachbarstadt ging und völlig vergaß, dass er ein Nachthemd trug. Erst als er die Kirchenglocken hörte, schreckte er auf.

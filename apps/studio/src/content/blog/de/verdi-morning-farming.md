@@ -21,6 +21,7 @@ faqs:
     answer: "Fitnessstudio-Trainings helfen, aber künstliches Licht ist weniger effektiv bei der Zurücksetzung des zirkadianen Rhythmus. Direkter Kontakt mit natürlichen Elementen wie Erde (Grounding) in Kombination mit Außenlicht löst die Serotoninaktivierung aus, die Verdi erlebt hat."
   - question: "Worauf sollte ich achten, wenn ich morgendliche körperliche Arbeit hinzufüge?"
     answer: "Vermeiden Sie hochintensive Arbeit, die Glukose abbaut. Starke Erschöpfung schadet dem präfrontalen Kortex. Beschränken Sie Ihre morgendliche Arbeit daher auf etwa 15 Minuten leichte Aktivität."
+
 ---
 
 Giuseppe Verdi, der Operngigant des 19. Jahrhunderts, nannte sich selbst einen 'einfachen Bauern', selbst als die Theater weltweit mit seinem Namen gefüllt waren. Wenn er um 5 Uhr morgens auf seinem Bauernhof in Sant'Agata aufwachte, trug er grobe Kleidung, um 2 Stunden lang die Felder zu bestellen und die Ernte zu verwalten, bevor er sich ans Klavier setzte.

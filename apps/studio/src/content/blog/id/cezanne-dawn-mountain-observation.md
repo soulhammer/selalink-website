@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah saya harus pergi keluar bahkan pada hari mendung atau hujan?"
     answer: "Ya. Bahkan pada hari mendung, tingkat cahaya luar ruangan berkisar antara 1.000 hingga 2.000 lux, jauh lebih terang daripada pencahayaan dalam ruangan biasa (300 hingga 500 lux). Anda masih akan menerima manfaat biologis. Namun, jika kualitas udara buruk, ganti jalan-jalan di luar dengan berdiri di depan jendela besar."
+
 ---
 
 Paul Cezanne, dipuji oleh Picasso dan Matisse sebagai bapak kita semua, meletakkan dasar bagi kubisme dan abstraksi abad ke-20. Karya-karyanya menangkap struktur geometris alam yang abadi. Sumber dari visinya yang unik adalah rutinitas pagi harinya. Bangun jam 6 pagi, ia membawa kanvasnya untuk menyusuri jalan setapak di Aix-en-Provence. Saat matahari terbit di atas Mont Sainte-Victoire, ia berdiri dan merenungkan pergeseran sudut cahaya dan perubahan warna. Kami mengeksplorasi bagaimana memaparkan korteks visual ke cahaya matahari fajar mempertajam fokus.

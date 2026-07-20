@@ -46,7 +46,7 @@
     },
     "whyTitle": {
       "en": "Analysis of the brain science principles that lead to success",
-      "ko": "성공을 자아내는 뇌과학적 원리 분석",
+      "ko": "성공을 자아내는 脳科学的 원리 분석",
       "ja": "成功に導く脳科学原理の分析",
       "zh": "分析导致成功的脑科学原理",
       "es": "Análisis de los principios de las ciencias del cerebro que conducen al éxito.",
@@ -177,7 +177,7 @@
         },
         "answer": {
           "en": "No. Images on digital screens are just compressed 2D pixels and do not activate the brain's stereoscopic perception neural network. You must be able to decipher the depth and texture of analog objects in three dimensions with your eyes to promote sensory neuron plasticity in your brain.",
-          "ko": "아닙니다. 디지털 화면 속 이미지는 압축된 2D 픽셀일 뿐이어서 뇌의 입체 지각 신경망을 활성화하지 못합니다. 반드시 내 눈으로 아날로그 사물의 깊이감과 질감을 입체적으로 해독해야 뇌에 감각 뉴런 가소성이 촉진됩니다.",
+          "ko": "아닙니다. 디지털 화면 속 이미지는 압축된 2D 픽셀일 뿐이어서 뇌의 입체 지각 신경망을 활성화하지 못합니다. 반드시 내 눈으로 아날로그 事物의 깊이감과 질감을 입체적으로 해독해야 뇌에 감각 뉴런 가소성이 촉진됩니다.",
           "ja": "いいえ、デジタル画面上の画像は単に圧縮された 2D ピクセルであり、脳の立体認識ニューラル ネットワークを活性化するものではありません。脳の感覚ニューロンの可塑性を促進するには、アナログオブジェクトの奥行きと質感を 3 次元で目で解読できなければなりません。",
           "zh": "不会。数字屏幕上的图像只是压缩的 2D 像素，不会激活大脑的立体感知神经网络。您必须能够用眼睛在三个维度上解读模拟物体的深度和纹理，以促进大脑中感觉神经元的可塑性。",
           "es": "No. Las imágenes en las pantallas digitales son simplemente píxeles 2D comprimidos y no activan la red neuronal de percepción estereoscópica del cerebro. Debes poder descifrar la profundidad y la textura de objetos analógicos en tres dimensiones con tus ojos para promover la plasticidad de las neuronas sensoriales en tu cerebro.",

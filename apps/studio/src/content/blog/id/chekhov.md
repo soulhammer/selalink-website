@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, Chekhov mengurangi beban kognitif dan menata pikirannya melalui ritual minum teh yang tenang setelah bekerja sekitar jam 3 sore."
   - question: "Bagaimana cara menggantinya jika saya tidak memiliki set cangkir teh?"
     answer: "Meskipun tanpa set cangkir teh, meminum secangkir air hangat atau teh herbal sambil fokus pada indra selama 5 menit sudah cukup."
+
 ---
 
 Anton Chekhov, puncak sastra realis Rusia dan penulis drama hebat yang menyelesaikan fondasi cerita pendek modern, menangkap konflik kecil, kemunafikan, dan gejolak emosi orang-orang biasa dalam kehidupan sehari-hari dengan cara yang paling penuh perhatian dan tajam dan mengubahnya menjadi drama. Dia duduk dengan tenang di bangku ruang tunggu kereta atau di sudut kafe luar ruangan dan mengamati orang-orang yang lewat. Dia menuliskan ciri-ciri yang sangat spesifik dari orang tersebut di buku catatan di saku jasnya, seperti tanda bulu yang tidak terlihat di kerah jas, ujung jas dengan kancing yang robek, dan sedikit kedutan pada mata orang yang lewat ketika dia gugup. Kumpulan detail yang sangat halus ini menjadi dasar untuk membangun karakter tiga dimensi yang realistis dalam novelnya.

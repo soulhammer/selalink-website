@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, olahraga aerobik berkelanjutan apa pun yang melibatkan fungsi kardiopulmoner dan meningkatkan kadar BDNF, seperti bersepeda atau berenang, menawarkan pemulihan kognitif serupa. Namun, berlari di luar ruangan memaksimalkan relaksasi DMN dan wawasan kreatif karena masukan sensorik seperti pemandangan alam dan angin diproses oleh otak."
   - question: "Apakah mendengarkan musik saat berlari mengganggu pemulihan otak?"
     answer: "Musik dengan lirik atau ketukan agresif memaksa lobus frontal untuk memproses dan menyaring informasi audio, yang menghambat istirahat otak secara total. Mendengarkan suara alam atau hanya fokus pada napas Anda tanpa musik adalah cara terbaik untuk mengaktifkan DMN sepenuhnya dan mengisi ulang perhatian."
+
 ---
 
 Alan Turing, matematikawan jenius Inggris yang memecahkan kode Enigma tentara Jerman selama Perang Dunia II dan meletakkan dasar ilmu komputer. Ia menderita kelelahan otak kronis karena perhitungan rumit, desain mekanis, dan analisis kriptografi. Rahasianya untuk menjaga keseimbangan mental dan pemikiran kreatif di bawah tekanan intelektual seperti itu adalah 'berlari maraton.'

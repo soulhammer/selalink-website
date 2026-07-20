@@ -21,6 +21,7 @@ faqs:
     answer: "Los debates aumentan la adrenalina y el cortisol. Establezca una regla básica de antemano: 'Centrémonos hoy en el crecimiento personal, los sentimientos o los libros más que en las noticias'."
   - question: "¿Qué pasa si programar reuniones semanales con amigos es demasiado difícil?"
     answer: "No es necesario reunirse semanalmente. Una cena cara a cara al mes o una llamada de voz tranquila de 30 minutos quincenal para compartir actualizaciones es suficiente para estimular la oxitocina."
+
 ---
 
 Epicuro, a menudo malinterpretado como un hedonista, buscaba la tranquilidad interior o 'ataraxia' a través de una vida disciplinada. Escapando del caos político de Atenas, construyó 'El Jardín' en las afueras. Aquí, ignorando el estatus social y el género, compartía comidas frugales de pan, agua y queso con amigos, participando en diálogos intelectuales. Sostenía que la codicia material provoca sed, mientras que la profunda confianza y la amistad curan el alma. Exploramos la neurobiología del hábito del jardín de Epicuro.

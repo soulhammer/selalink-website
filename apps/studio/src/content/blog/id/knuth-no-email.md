@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana cara memberi tahu rekan kerja tentang jadwal offline saya?"
     answer: "Atur balasan otomatis atau pesan status: 'Saya memeriksa email dua kali sehari untuk fokus pada proyek. Untuk keadaan darurat, hubungi saya melalui telepon'. Ini mengelola ekspektasi rekan kerja."
+
 ---
 
 Donald Knuth, pionir ilmu komputer yang menulis The Art of Computer Programming. Meskipun berada di pusat revolusi komputer, dia membuat keputusan radikal pada tahun 1990: dia benar-benar berhenti menggunakan email. Dia menyatakan perannya adalah mendalami masalah. Sebaliknya, dia menerima pertanyaan melalui surat fisik atau faks.

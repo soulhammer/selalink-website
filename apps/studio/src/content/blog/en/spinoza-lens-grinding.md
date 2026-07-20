@@ -16,6 +16,7 @@ steps:
     text: "Leave your desk and start a physical, non-digital task for 15 minutes. Ensure the activity requires precise control of your fingers and moderate attention (like washing dishes or peeling fruit)."
   - name: "Re-enter the Cognitive Workspace"
     text: "After the break, return to your original work. You will find that your prefrontal cortex has replenished its executive neurotransmitters, allowing you to solve logical problems with ease."
+
 ---
 
 "Logic needs clarity, and clarity is polished by hand." Baruch Spinoza, the Dutch philosopher who defined God as nature, refused wealthy patronages to preserve his intellectual independence. Instead, he made a living by grinding lenses for spectacles and microscopes. While sitting at his work table covered in glass dust, the repetitive, precise physical movements allowed his analytical mind to rest and process complex philosophical geometry.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, si se acuesta plano y estira el cuello. Apóyese con almohadas resistentes en un ángulo de 45 grados y limite las sesiones a 30 minutos para mantenerse saludable."
   - question: "¿Puedo revisar mis correos electrónicos durante solo 5 minutos antes de comenzar?"
     answer: "No. Incluso 5 minutos de escaneo de alertas entrantes dispersan y desperdician inmediatamente su energía CAR. Deje su teléfono apagado hasta que termine su tarea principal."
+
 ---
 
 John Maynard Keynes, la figura que cambió el paradigma de la economía del siglo XX, estableció la macroeconomía y proporcionó la clave para superar la Gran Depresión, fue un hombre de una productividad inmensa. Sin embargo, su escena matutina era sorprendentemente pacífica. Keynes no saltaba de la cama al despertarse. Cuando su asistente traía los papeles a las 8 de la mañana, se recostaba en la cama durante 2 horas, analizando datos y escribiendo manuscritos. Analizamos los principios neurobiológicos de su rutina, quien vertía sus recursos prefrontales más frescos en un espacio libre de distracciones.

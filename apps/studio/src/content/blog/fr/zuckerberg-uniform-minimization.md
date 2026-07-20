@@ -21,6 +21,7 @@ faqs:
     answer: "Comment gérez-vous les réunions importantes ou les événements formels avec cette habitude ?"
   - question: "Puis-je composer un uniforme avec des vêtements autres que des t-shirts et des jeans ?"
     answer: "Bien sûr. Choisir une combinaison simple et confortable de chemises, pantalons ou robes dans laquelle vous vous sentez à l'aise et en posséder plusieurs exemplaires suffit largement."
+
 ---
 
 Mark Zuckerberg, fondateur de Facebook. Face à des milliers de choix critiques qui impactent Meta, il a mis en place une routine : ne jamais choisir ses vêtements. Son armoire ne contient que des t-shirts gris identiques. Voyons comment chaque choix consomme de l'énergie et mène à la fatigue décisionnelle.

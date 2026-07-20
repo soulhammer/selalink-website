@@ -21,6 +21,7 @@ faqs:
     answer: "It's okay. In just two minutes of holding a pen and pouring out your thoughts, the mission to capture theta waves has already been successfully completed. Immediately after recording, if you lightly drink water or stretch to send a physical awakening signal to your brain, sleep will quickly disappear."
   - question: "What should I do when I can’t think of anything to write right after waking up?"
     answer: "If you can't think of anything, it's enough to break the connection friction between the pen and the brain's motor cells by handwriting an adjective describing a simple state, such as 'I can't remember' or 'I'm sleepy', three times in a row on a blank piece of paper."
+
 ---
 
 Franz Schubert, a genius Austrian composer representing 19th century Romantic music and called the King of Lieder (Liederfürst), composed more than 600 great and lyrical songs and symphonies until his young death at the young age of 31. As soon as he opened his eyes every morning, without taking off his glasses, he went straight to the composition desk right next to his bedside and began writing down notes on music paper. In order not to lose sight of the musical unconsciousness that arose even in his half-asleep state, he went to bed without his glasses on. This immediate writing routine, which eliminated all the friction between waking up in the morning and starting work, was what made him an immortal composer.

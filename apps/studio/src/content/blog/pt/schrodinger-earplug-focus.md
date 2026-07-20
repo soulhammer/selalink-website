@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que devo fazer se o silêncio absoluto prejudicar a concentração ou causar ansiedade?"
     answer: "Para iniciantes que se sentem desconfortáveis no silêncio absoluto, recomenda-se começar reproduzindo ruído branco (sons de chuva, ondas, etc.) ou ruído rosa simples sem letra para permitir que o cérebro se adapte ao silêncio por meio de um processo de enquadramento cognitivo."
+
 ---
 
 Erwin Schrödinger, o genial físico austríaco que ganhou o Prémio Nobel da Física e lançou as bases da mecânica quântica moderna ao descobrir a equação de ondas. Em que ambiente surgiram os seus brilhantes cálculos matemáticos e profundos pensamentos físico-filosóficos? 🌌

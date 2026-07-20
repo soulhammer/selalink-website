@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿El ejercicio matutino de alta intensidad no causa fatiga durante la mañana?"
     answer: "Es clave ajustar la intensidad. El objetivo no es el agotamiento, sino una sesión breve de 15-20 minutos para elevar el ritmo cardíaco y la temperatura corporal, activando la circulación. Ajústelo a su condición física."
+
 ---
 
 León Tolstói, considerado ampliamente un pilar de la literatura realista rusa con obras maestras como 'Guerra y Paz' y 'Anna Karénina'. Aunque era un noble rico, rechazó sus privilegios y buscó una vida humilde de trabajo físico. La fuente de su inagotable energía creativa era el trabajo físico y la gimnasia que practicaba cada mañana. Al despertarse, antes de sentarse a su escritorio, Tolstói araba los campos, cortaba leña o transportaba agua. También instaló aparatos de gimnasia en su patio para hacer dominadas y entrenamiento de fuerza. Consideraba el trabajo físico como un motor necesario para despertar el cerebro. Hoy, BuildSelf explora la verdad neurocientífica detrás del hábito de ejercicio de Tolstói y cómo los profesionales modernos pueden diseñar rutinas matutinas para maximizar la eficiencia cerebral.

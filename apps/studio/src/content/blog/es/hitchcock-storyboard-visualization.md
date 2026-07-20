@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Se pueden utilizar herramientas digitales si resulta difícil dibujar los guiones gráficos a mano cada vez?"
     answer: "La esencia de los guiones gráficos no radica en la habilidad para dibujar, sino en la planificación estruturada por pasos y la simulación del comportamiento. Utilizar aplicaciones como Figma, Miro o herramientas sencillas de mapas mentales para organizar la información mediante cuadros y texto es completamente suficiente para obtener los mismos beneficios de la psicología cognitiva."
+
 ---
 
 Alfred Hitchcock, el mundialmente famoso maestro británico que redefinió la gramática del cine de suspense dirigiendo películas inmortales como 'Psicosis', 'Vértigo' y 'La ventana indiscreta'. ¿De dónde procedía su asombroso control, comandando el set de rodaje con absoluta confianza y sin una sola duda? 🎬

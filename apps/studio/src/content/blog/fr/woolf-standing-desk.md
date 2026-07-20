@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Virginia Woolf écrivait-elle debout ?"
     answer: "Inspirée par sa sœur peintre debout devant son chevalet, elle utilisait un pupitre debout pour garder une égalité artistique."
+
 ---
 
 Virginia Woolf, considérée comme une pionnière de la littérature moderniste du XXe siècle, laissant derrière elle des chefs-d'œuvre tels que « Mrs Dalloway » et « La Promenade au phare ». Comment a-t-elle pu dépeindre des mondes intérieurs si intimes et des psychologies si complexes avec des phrases si denses et sophistiquées ? Derrière son incroyable concentration se cachait une habitude de travail très singulière. Chaque matin, Woolf se tenait debout devant un pupitre incliné de plus d'un mètre de haut pour écrire. Cette routine d'écriture a été inspirée par la méthode de travail de sa sœur, Vanessa Bell, une peintre accomplie. Fascinée par la façon dont sa sœur se tenait devant son chevalet, utilisant tout son corps pour peindre, Woolf a pensé qu'elle devait elle aussi se tenir debout pour écrire. Aujourd'hui, BuildSelf partage les avantages scientifiques de la routine d'écriture debout de Woolf.

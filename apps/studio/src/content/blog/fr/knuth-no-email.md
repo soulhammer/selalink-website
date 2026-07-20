@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Comment puis-je informer mes collègues de mon planning hors ligne pour éviter les malentendus ?"
     answer: "Le meilleur moyen est de configurer un message d'absence automatique ou d'indiquer dans votre statut : « Je consulte mes e-mails deux fois par jour pour me concentrer sur mes projets. En cas d'urgence, contactez-moi par téléphone ». Cela gère les attentes, évite les relances et protège votre temps de concentration sans nuire à vos relations professionnelles."
+
 ---
 
 Donald Knuth, le pionnier de l'informatique qui a écrit The Art of Computer Programming. Bien qu'il ait été au cœur de la révolution informatique, il a fait un choix radical en 1990 : il a complètement arrêté les e-mails. Il a déclaré que son rôle n'est pas d'être au courant de tout, mais d'aller au fond des choses. Au lieu de cela, il accepte les demandes par courrier postal ou par fax, les traitant par lots tous les quelques mois. Nous explorons la valeur cognitive de cette routine hors ligne extrême pour protéger la concentration.

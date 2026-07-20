@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apa prinsip di balik menggambar di kertas timah yang meredakan stres?"
     answer: "Gesekan dan suara saat menggores kertas timah mengisi umpan balik somatosensorik, memblokir kecemasan dengan mengunci fokus pada saat ini."
+
 ---
 
 Lee Jung-seob, pelukis barat modern legendaris Korea, menderita kemiskinan saat perang. Tanpa uang untuk kanvas, ia mengumpulkan kertas timah rokok bekas untuk digambar. 🐂

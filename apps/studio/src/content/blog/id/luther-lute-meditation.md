@@ -21,6 +21,7 @@ faqs:
     answer: "Cukup luangkan waktu 5 menit untuk fokus pada suara alat musik sederhana seperti singing bowl, tongue drum, atau kalimba. Intinya adalah memberikan ruang kreatif bebas dari penilaian."
   - question: "Apakah mendengarkan musik saja tidak bisa menghasilkan efek yang sama dengan bermain musik?"
     answer: "Memainkan alat musik secara aktif melatih motorik halus dan merasakan getaran fisik, merangsang korteks motorik dan jaringan konsentrasi otak jauh lebih kuat daripada mendengar pasif."
+
 ---
 
 Martin Luther memicu Reformasi Gereja di Wittenberg. Di tengah ancaman hukuman bidat dan percobaan pembunuhan, kekuatannya bertahan berasal dari ritual pagi: memetik instrumen berdawai Lute setelah berdoa. Getaran fisika musik terbukti mengendurkan ketegangan saraf motorik.

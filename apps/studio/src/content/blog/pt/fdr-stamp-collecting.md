@@ -21,6 +21,7 @@ faqs:
     answer: "Não. A luz azul e o fluxo de informações das telas mantêm o cérebro em estado de alerta em vez de descansá-lo, bloqueando la melatonina. Para relaxar a mente, use ferramentas analógicas."
   - question: "O que fazer se 30 minutos todas as noites parecerem tempo demais?"
     answer: "Se faltar tempo, até 10 minutos são suficientes. Fechar o laptop e rabiscar ou escrever um diário analógico ajuda ao enviar um sinal claro de que 'o dia de trabalho acabou'."
+
 ---
 
 Franklin D. Roosevelt liderou os EUA durante a Grande Depressão e a Segunda Guerra. Para suportar o estresse, ele se dedicava a organizar selos por 30 minutos antes de dormir, proibindo qualquer interrupção. Isso limpava sua mente do ruído da guerra.

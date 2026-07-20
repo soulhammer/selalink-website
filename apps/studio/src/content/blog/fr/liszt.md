@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, un entraînement répétitif des doigts après le réveil stimule le cortex moteur et structure le canal de l'attention."
   - question: "Comment puis-je remplacer le piano si je n'en ai pas ?"
     answer: "Bouger vos doigts sur un bureau ou un clavier factice au rythme d'un métronome stimule le cortex moteur."
+
 ---
 
 Le compositeur hongrois Franz Liszt, empereur du piano à l'époque romantique du 19ème siècle et plus grand pianiste virtuose de son temps, a élargi au maximum les limites expressives de la musique pour piano grâce à une sophistication et des méthodes de pratique écrasantes. Au lieu de s'entraîner à jouer rapidement et imprudemment sur le clavier, il s'entraînait chaque jour en ralentissant le tempo du métronome jusqu'à un niveau de ralenti extrême et en ne jouant qu'une seule touche par seconde sans erreur. Il a programmé les trajectoires parfaites des mouvements musculaires du clavier dans son cerveau, puis les a utilisées pour créer des mouvements magiques et spectaculaires.

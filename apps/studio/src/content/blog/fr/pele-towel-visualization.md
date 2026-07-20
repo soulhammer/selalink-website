@@ -21,6 +21,7 @@ faqs:
     answer: "Pour stimuler le cortex moteur, la première personne (voir par ses propres yeux) est beaucoup plus efficace. La troisième personne est utile pour la tactique globale, mais la première personne simule avec plus de force le contrôle psychomoteur fin."
   - question: "Que faire si des scénarios d'échec ou d'erreur apparaissent durant la visualisation ?"
     answer: "C'est un mécanisme de défense naturel. Si vous imaginez une erreur, stoppez la scène et rembobinez. Visualisez immédiatement le geste correctif pour ancrer la réussite dans votre cerveau."
+
 ---
 
 Pelé, le plus grand joueur de l'histoire et synonyme même du football. La pression de tout un pays pesait sur le jeune prodige lors de ses débuts en Coupe du monde. Pourtant, il pénétrait toujours sur le terrain avec un calme souverain, prêt à accomplir des miracles. Son secret résidait dans les vestiaires.

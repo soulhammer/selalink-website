@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, meninjau prioritas jadwal dengan bersuara 30 menit sebelum bekerja mengaktifkan kendali eksekutif korteks prefrontal lebih awal."
   - question: "Bagaimana cara menggantinya jika saya tidak memiliki papan memo khusus?"
     answer: "Cukup melafalkan dan menyatakan 3 tugas inti hari ini yang ditulis di buku catatan kepada diri sendiri di ruangan tenang."
+
 ---
 
 Margaret Thatcher, perdana menteri wanita pertama Inggris dan wanita besi yang dengan tenang dan tegas mengatasi kesulitan kemerosotan ekonomi Inggris melalui reformasi konservatif garis keras dan restrukturisasi ekonomi, menempatkan Inggris pada posisi yang kuat. Dia duduk di ruang kerja Kantor Perdana Menteri setiap malam sampai jam 2 atau 3 pagi, membaca dengan teliti ratusan halaman dokumen tebal dan laporan RUU yang diserahkan oleh pejabat kabinet. Dengan stabilo kuning di tangannya, ia menyampaikan apa yang tersirat dalam laporannya, mengabaikan retorika dan teks birokrasi yang tidak diperlukan, dan hanya menelusuri dan menggarisbawahi tiga pilar utama: kelayakan kebijakan nasional, indikator anggaran, dan permasalahan hukum. Sorotan rutin hingga larut malam ini adalah tekad yang membantu mengatasi masalah sulit Inggris sekaligus.

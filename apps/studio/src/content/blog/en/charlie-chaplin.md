@@ -21,6 +21,7 @@ faqs:
     answer: "Instead of staring straight ahead at the target, train yourself to naturally divert your gaze by wearing sunglasses or holding a coffee cup, and use the wide focus of your peripheral vision to smoothly follow only the silhouette trace."
   - question: "Does physical mimicry actually significantly improve the brain's emotional understanding?"
     answer: "Yes, according to neuroscience, when you replicate the body's physical muscle movements (posture, rhythm), the mirror neuron system is synchronized, and the cerebral limbic system accurately decodes emotional indicators such as anxiety, tension, and fatigue of the other person at a level of 70% higher."
+
 ---
 
 Charlie Chaplin, an immortal British comic actor and genius film director who dominated the silent film era, created a timeless wanderer character with a mustache, fedora, and baggy pants, and threw sharp social criticism and humor into laughter. He maintained his long habit of standing on busy street corners in London and New York. He closely observed the peculiarities of the twitching hip balance, limping rhythm of stride, and head tilt of strangers who passed by with their collars turned up. As soon as the passerby walked away, he imitated the character's walking rhythm with his body and collected the inner emotional feedback provided by the body, which led to the completion of the character of The Tramp.

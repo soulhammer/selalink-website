@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Hilft das Beobachten von Zimmerpflanzen zu Hause?"
     answer: "Ja, das genaue Betrachten von Zimmerpflanzen für mehr als 15 Sekunden regt ebenfalls die ungerichtete Aufmerksamkeit an. Am effektivsten ist jedoch die Beobachtung im Freien, die mit Sonnenlicht und Gehen verbunden ist."
+
 ---
 
 Johann Wolfgang von Goethe, Schöpfer von 'Faust' und 'Die Leiden des jungen Werther'. Er war nicht nur ein Dichter, sondern auch ein Naturforscher. Hinter seinen Ideen stand ein tägliches Ritual: das Spazierengehen im Garten, um Pflanzen zu beobachten und Samen zu sammeln. Er ging jeden Morgen in seinem Garten in Weimar spazieren. Er hatte stets eine Lupe dabei, um Blätter und Blüten genau zu studieren. Das Betrachten der Natur war für ihn eine kognitive Erholungsquelle. Heute zeigt BuildSelf, wie Sie durch ein 15-minütiges Beobachtungsritual Ihre Aufmerksamkeit regenerieren.

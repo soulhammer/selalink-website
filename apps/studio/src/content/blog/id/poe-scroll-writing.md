@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, beberapa naskah yang ditulisnya dilestarikan di museum-museum seperti Perpustakaan Bebas Philadelphia di Amerika Serikat dalam bentuk gulungan sempit."
   - question: "Apakah ada program yang mencegah 'kebiasaan mengoreksi kalimat' di layar digital?"
     answer: "Ya, aplikasi draf (misalnya, 'The Most Dangerous Writing App') yang memaksa Anda untuk tidak berbalik arah dengan mulai menghapus naskah jika Anda berhenti mengetik sangat efektif."
+
 ---
 
 Edgar Allan Poe, seorang raksasa yang dihormati sebagai pelopor sastra horor gotik dan pendiri fiksi detektif. Pada alat apa naskah jeniusnya, yang menciptakan kecemasan psikologis manusia dan misteri logis, lahir? 📜

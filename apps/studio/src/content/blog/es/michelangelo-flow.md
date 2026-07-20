@@ -21,6 +21,7 @@ faqs:
     answer: "Porque no quería romper su delicado flujo creativo altamente enfocado. Al rechazar rutinas diarias como cambiarse de ropa o ducharse, vertía el 100% de su energía neuronal directamente en su obra."
   - question: "¿Cuáles son algunos consejos prácticos para reducir la fatiga por decisión?"
     answer: "Puede estandarizar elecciones triviales como el uniforme de Steve Jobs, planificar sus comidas o silenciar notificaciones para proteger su mente de la sobrecarga sensorial."
+
 ---
 
 La Piedad, el David y el techo de la Capilla Sixtina. Miguel Ángel Buonarroti, creador de algunas de las obras maestras más grandes del arte. Detrás de su genio había un hábito intenso de flujo extremo. Según su biógrafo Giorgio Vasari, cuando Miguel Ángel trabajaba en un proyecto, dormía con la ropa y las botas puestas durante semanas. Hoy, BuildSelf analiza la ciencia cognitiva detrás de esto.

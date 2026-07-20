@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was ist, wenn ich aufwache und mich an absolut nichts aus meinen Träumen erinnere?"
     answer: "Das ist normal. Wenn Sie sich an keine Träume erinnern, führen Sie stattdessen eine Schreibübung des Bewusstseinsstroms durch. Schreiben Sie ungefiltert drei Zeilen mit Wörtern auf, die Ihnen gerade durch den Kopf gehen. Dies dient als kognitives Aufwärmen."
+
 ---
 
 Paul McCartney, das musikalische Genie hinter den Beatles, komponierte Yesterday, einen der am häufigsten gecoverten Songs der Geschichte, direkt aus einem Traum. Als er 1964 in London aufwachte, ging ihm eine Melodie durch den Kopf. Aus Angst, sie könnte verblassen, sprang er aus dem Bett und spielte sie sofort auf seinem Klavier. So hielt er die rohe Inspiration fest, bevor sein bewusster Verstand sie löschte. Diese Gewohnheit, Traumfragmente festzuhalten, wurde zum Schmelztiegel für viele seiner Hits. Wir untersuchen die Neurobiologie des hypnagogischen Zustands.

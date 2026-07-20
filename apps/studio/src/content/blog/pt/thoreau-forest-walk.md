@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Como é que Thoreau tomava notas enquanto caminhava durante 4 horas?"
     answer: "Ele carregava um bloco de couro e um lápis no bolso. Quando tinha uma ideia, parava sob uma árvore e anotava os detalhes das plantas ou frases soltas."
+
 ---
 
 Henry David Thoreau, o ensaísta americano que viveu de forma autossuficiente no lago Walden, autor do clássico *Walden*. Por trás de suas ideias profundas estava uma rotina de tarde rígida: caminhar 4 horas diárias na floresta de Concord. Não era apenas exercício: ele contemplava a natureza e anotava insights em seu bloco. Saiba como caminhar na natureza restaura o cérebro.

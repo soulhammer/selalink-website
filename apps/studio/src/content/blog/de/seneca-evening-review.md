@@ -16,6 +16,7 @@ steps:
     text: "Schließen Sie die Augen und gehen Sie Ihren Tag im Geist von morgens bis abends durch. Betrachten Sie Ihre Handlungen sachlich, ohne sich zu verurteilen."
   - name: "Ziehen Sie Lehren und lassen Sie los"
     text: "Identifizieren Sie eine wichtige Lehre aus dem Tag. Planen Sie eine konkrete Änderung für morgen. Sobald der Plan steht, schließen Sie den Tag ab und lassen Sie alle Sorgen los."
+
 ---
 
 "Wenn das Licht gelöscht ist und meine Frau verstummt ist, prüfe ich meinen ganzen Tag." Seneca hielt jede Nacht Gericht über sich selbst. Indem er seine Handlungen in der Dunkelheit objektiv analysierte, befreite er sie von emotionaler Last, was ihm einen ruhigen Schlaf bescherte.

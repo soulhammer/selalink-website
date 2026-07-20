@@ -21,6 +21,7 @@ faqs:
     answer: "Puedes sustituirlo caminando en un parque de la ciudad durante más de 30 minutos sin móvil. La clave es estimular los sentidos espaciotemporales y aumentar el flujo sanguíneo cerebral."
   - question: "¿Hay algún consejo para registrar las ideas que surgen durante una caminata sin olvidarlas?"
     answer: "Recomendamos llevar un pequeño cuaderno y bolígrafo en el bolsillo para anotar palabras clave al instante, o usar notas de voz para no interrumpir la caminata."
+
 ---
 
 Werner Heisenberg, el físico del principio de incertidumbre. En 1925, bloqueado por las ecuaciones del átomo, viajó solo a los Alpes bávaros para caminar días enteros. Encontró el camino en medio de los bosques. Analicemos cómo la caminata natural reduce la fatiga atencional (teoría de restauración de atención) y permite al cerebro reestructurar problemas abstractos sin interferencias.

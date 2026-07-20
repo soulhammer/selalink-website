@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Faut-il se lever à 4h du matin le week-end aussi ?"
     answer: "Pour réguler le rythme circadien, il est conseillé de limiter l'écart de réveil le week-end à moins d'une heure. Trop dormir pendant les jours de repos décale l'horloge interne et complique le réveil en semaine."
+
 ---
 
 Kobe Bryant, l'un des plus grands joueurs de basket-ball de l'histoire. Chaque jour à 4 heures du matin, dans le silence de la nuit, il commençait son entraînement. S'entraîner seul à l'aube pendant les Jeux Olympiques était le pilier de la mentalité Mamba. Découvrez comment cette routine matinale synchronise le corps pour un rendement d'élite.

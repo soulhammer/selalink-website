@@ -21,6 +21,7 @@ faqs:
     answer: "Because he did not want to break his delicate, hyper-focused creative flow. By refusing daily routines like changing clothes or showering, he poured 100% of his neural energy directly into his sculpting work without interruption."
   - question: "What are some practical tips to reduce decision fatigue in modern life?"
     answer: "You can standardize trivial choices like Steve Jobs' daily uniform, plan meals in advance, or eliminate digital notifications to protect your brain from sensory overload and cognitive drain."
+
 ---
 
 The Pieta, David, and the Sistine Chapel ceiling. Michelangelo Buonarroti, who created some of the greatest masterpieces in art history. Behind his historic genius lay an intense habit of extreme flow. According to contemporary biographer Giorgio Vasari, when Michelangelo worked on a project, he slept in his clothes and boots for weeks. Today, BuildSelf explores the cognitive science behind Michelangelo's 'ritual minimization' and how you can reduce decision fatigue to maximize your own focus.

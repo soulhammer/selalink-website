@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apa prinsip ilmiah di balik observasi alam yang meredakan stres otak?"
     answer: "Alih-alih 'perhatian terarah' yang habis karena menatap layar, elemen alami memicu ketertarikan lembut, menata ulang energi kognitif yang lelah."
+
 ---
 
 Shin Saimdang, seniman wanita terkemuka Joseon dan ibu dari Yulgok Yi I, meninggalkan lukisan lanskap dan serangga-bunga (Chochungdo) yang dipuji karena kehalusannya. Rahasia kedalaman kreatif Saimdang adalah kebiasaan hariannya melangkah ke kebun untuk mengamati rumput dan serangga. 🌿

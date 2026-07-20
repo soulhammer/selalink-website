@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Pavarotti specifically search for a bent nail?"
     answer: "In Italian theater culture, finding a bent nail backstage is an old omen of good luck. He began doing it as a simple superstition, but it evolved into a mandatory cognitive anchor that saved him from crippling stage fright."
+
 ---
 
 Luciano Pavarotti, one of the greatest tenors of all time who popularized classical opera worldwide. Despite singing in front of tens of thousands of people, Pavarotti suffered from severe stage fright. To conquer this anxiety, he had a backstage routine: finding a bent nail on the stage floor. In Italian folklore, a bent nail brings good luck. Let's study how this superstition acted as a powerful cognitive trick to calm his amygdala and refocus his attention.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Cómo tomaba notas Thoreau mientras paseaba durante 4 horas?"
     answer: "Llevaba una pequeña libreta de cuero y un lápiz en su abrigo. Al tener una idea, se detenía bajo un árbol y anotaba la descripción de las plantas o frases sueltas."
+
 ---
 
 Henry David Thoreau, el ensayista estadounidense que vivió de forma autosuficiente en el lago Walden, autor de la obra clásica *Walden*. Detrás de sus ideas profundas había un hábito de la tarde: pasear 4 horas al día por el bosque de Concord. No era ejercicio físico: era contemplar la naturaleza y anotar reflexiones en su libreta. Conozcamos cómo pasear en la naturaleza restaura el cerebro.

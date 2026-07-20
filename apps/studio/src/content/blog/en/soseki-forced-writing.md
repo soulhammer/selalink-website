@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What should I do if no thoughts come and I cannot focus?"
     answer: "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling."
+
 ---
 
 Natsume Soseki sat at his desk mechanically every morning without waiting for inspiration. This is a work excitement routine that stimulates dopamine and awakens creative focus.

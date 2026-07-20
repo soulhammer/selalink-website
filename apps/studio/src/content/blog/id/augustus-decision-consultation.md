@@ -21,6 +21,7 @@ faqs:
     answer: "Inilah mengapa masukan tertulis adalah kuncinya. Pertemuan tatap muka memicu pemikiran kelompok dan tekanan sosial. Mengumpulkan masukan tertulis memungkinkan Anda meninjau logika dan data mentah secara rasional."
   - question: "Berapa ukuran terbaik untuk kelompok penasihat ini?"
     answer: "Batasi maksimal 3 orang. Jumlah yang lebih besar menyebabkan kelumpuhan analisis. Pilih satu ahli inti untuk setiap bidang yang relevan (misalnya, teknologi, bisnis, hukum)."
+
 ---
 
 Augustus, kaisar Romawi pertama yang mengakhiri perang saudara selama satu abad dan meletakkan dasar bagi Pax Romana selama 200 tahun. Berbeda dengan ayah angkatnya Julius Caesar yang meninggal muda, Augustus lemah secara fisik dan tidak memiliki bakat militer yang menonjol. Namun ia memerintah Roma lebih lama dari siapa pun, membawa kemakmuran. Rahasianya adalah rutinitas konsultasi multiperspektif sebelum mengambil keputusan. Alih-alih membuat keputusan otokratis, Augustus menjaga agar para ahli seperti Maecenas dan Agrippa tetap dekat, mendorong mereka untuk mengutarakan pandangan yang berbeda.

@@ -16,6 +16,7 @@ steps:
     text: "Conecte os elementos usando setas. A espessura da linha representa a importância, e a direção mostra a causa e o efeito, criando um sistema dinâmico."
   - name: "Analisar e simplificar o modelo"
     text: "Examine o esboço. Identifique áreas onde as linhas se sobreponham ou sejam complexas, e redesenhe o diagrama reduzindo elementos até que a solução seja clara."
+
 ---
 
 "O livro da natureza está escrito na linguagem da matemática." Galileu Galilei tinha o hábito de desenhar. Ao observar um lustre oscilar na Catedral de Pisa, mediu o tempo e desenhou o arco. Cada onda na água era registrada como um diagrama preciso. Desenhar permitia-lhe traduzir leis abstratas em realidade visual.

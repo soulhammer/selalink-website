@@ -16,6 +16,7 @@ steps:
     text: "Hubungkan elemen-elemen tersebut dengan anak panah. Ketebalan garis mewakili tingkat kepentingan, sedangkan arah panah menunjukkan hubungan sebab-akibat."
   - name: "Langkah 3: Analisis dan Sederhanakan Model"
     text: "Periksa sketsa yang sudah jadi. Temukan area di mana alur saling bertabrakan atau terlalu rumit, lalu gambar ulang dengan menyederhanakan elemennya."
+
 ---
 
 "Buku alam semesta ditulis dalam bahasa matematika." Galileo Galilei memiliki kebiasaan menggambar seumur hidup. Saat mengamati lampu gantung perunggu yang berayun di Katedral Pisa, ia mengukur waktu dengan denyut nadinya dan menggambar garis ayunannya. Sketsa membantunya menerjemahkan rumus abstrak menjadi visual nyata.

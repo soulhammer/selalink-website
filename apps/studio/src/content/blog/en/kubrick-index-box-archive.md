@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Can I use digital apps like Notion or Obsidian instead of physical cards?"
     answer: "Yes, digital tools like Notion or Obsidian are excellent for building a second brain. The medium is less important than adhering to the modular principle: keep each note limited to a single concept, and actively link notes together rather than burying them inside isolated folders."
+
 ---
 
 Stanley Kubrick, the legendary American director behind masterpieces like 2001: A Space Odyssey and The Shining, was infamous for his extreme perfectionism and deep research. To manage the oceanic volume of historical documents, location photos, and script ideas, Kubrick developed an indexing system. He handwrote notes and structured ideas on 3x5-inch index cards, filing them systematically in custom-made wooden boxes. We analyze how offloading data from the brain to physical cards allowed Kubrick to preserve creative clarity and forge connections between unrelated concepts.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, se você deitar reto e esticar o pescoço. Apoie-se com travesseiros firmes a um ângulo de 45 graus, e limite suas sessões a 30 minutos para se manter saudável."
   - question: "Posso verificar meus e-mails por apenas 5 minutos antes de começar?"
     answer: "Não. Mesmo 5 minutos verificando notificações recebidas dispersam e desperdiçam imediatamente sua energia CAR. Deixe seu telefone desligado até que sua principal tarefa seja concluída."
+
 ---
 
 John Maynard Keynes, a figura que mudou o paradigma da economia do século XX, estabeleceu a macroeconomia e forneceu a chave para superar a Grande Depressão, era um homem de imensa produtividade. No entanto, sua cena matinal era surpreendentemente pacífica. Keynes não pulava da cama ao acordar. Quando seu secretário trazia os relatórios às 8h, ele permanecia deitado na cama por 2 horas, analisando dados e escrevendo manuscritos.

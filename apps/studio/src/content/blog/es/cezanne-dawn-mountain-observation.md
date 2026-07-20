@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Debo salir al aire libre incluso en días nublados o lluviosos?"
     answer: "Sí. Incluso en días nublados, los niveles de luz al aire libre oscilan entre 1.000 y 2.000 lux, que es mucho más brillante que la iluminación interior típica (300 a 500 lux). Seguirá recibiendo los beneficios biológicos del reinicio circadiano. Sin embargo, si la calidad del aire es mala, sustituya la caminata al aire libre parándose directamente frente a una ventana grande durante 10 minutos."
+
 ---
 
 Paul Cezanne, elogiado por Picasso y Matisse como el padre de todos nosotros, sentó las bases del cubismo y la abstracción del siglo XX. Sus obras capturan las eternas estructuras geométricas de la naturaleza. La fuente de su visión única era su rutina matutina. Al despertarse a las 6 a.m., cargaba su caballete para recorrer los senderos de Aix-en-Provence. Mientras el sol salía sobre el Mont Sainte-Victoire, se paraba a meditar sobre los ángulos cambiantes de la luz y la transmutación de los colores. Exploramos cómo exponer la corteza visual a la luz solar del amanecer agudiza la concentración y mejora la intuición creativa.

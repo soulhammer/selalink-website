@@ -21,6 +21,7 @@ faqs:
     answer: "Nietzsche caminhava principalmente aps o pequeno-almoo at  hora do almoo, e novamente ao fim da tarde. Preferia trilhos de montanha e florestas para se inspirar."
   - question: " Esstrictamente necessrio caminhar ao ar livre para praticar isto?"
     answer: "Embora caminhar ao ar livre seja o ideal, passear tranquilamente por um corredor ou no escritrio pode proporcionar uma ligeira transio cognitiva e reiniciar o foco."
+
 ---
 
 Friedrich Nietzsche, o filósofo icónico que declared que 'todos os pensamentos verdadeiramente grandes são concebidos ao caminhar'. Lutando contra problemas crónicos de saúde, passava os verões em Sils Maria, na Suíça, caminhando por florestas e montanhas até oito horas por dia. Com um caderno na mão, registava imediatamente as ideias que lhe surgiam. Hoje, o BuildSelf explora como o movimento liberta a criatividade.

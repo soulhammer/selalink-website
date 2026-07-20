@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, obter resultados com um clique não estimula as redes cognitivas. As sinapses no córtex frontal se desenvolvem apenas quando você passa pelo 'processus de resistência mental', como buscar dicionários e montar a oração manualmente."
   - question: "O efeito limita-se apenas a estudar línguas clássicas como grego e latim?"
     answer: "Não. Textos de línguas estrangeiras modernas (inglês, chinês, alemão, etc.) com diferentes estruturas lógicas são excelentes ferramentas. O segredo é traduzir textos densos e formais como filosofia ou colunas, em vez de diálogos casuais."
+
 ---
 
 A rainha Elizabeth I governou a Inglaterra durante a Armada Espanhola e graves crises. Para manter a mente afiada para governar, ela dedicava a primeira hora da manhã para traduzir Cícero ou Sêneca do latim para o inglês. Isso estimulava seu raciocínio lógico.

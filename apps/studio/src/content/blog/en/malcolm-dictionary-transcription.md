@@ -21,6 +21,7 @@ faqs:
     answer: "No, it's not the same. Typing utilizes simple, repetitive keystrokes, which minimizes sensory inputs to the motor cortex. Handwriting requires controlling individual strokes and shapes, which stimulates complex associative areas of the brain, yielding vastly superior focus and memory retention."
   - question: "Should I focus on correcting my handwriting style?"
     answer: "No, it doesn't need to be neat. The core of this training is the brain focusing on the physical pressure and control of the pen. As long as it is legible to you, writing naturally and focusing on the tactile feedback is far more beneficial than worrying about aesthetics."
+
 ---
 
 Malcolm X, the orator and leader who thrilled crowds during the civil rights movement. Behind his fluid words and charisma lay a dark past where he couldn't write a single correct sentence. 📖

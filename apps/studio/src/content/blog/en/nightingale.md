@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, there is a deep connection. When the brain controls the microscopic environment around me (desk illumination, cleanliness) and writes down the control results as visual data, it secretes 'self-efficacy' dopamine in the frontal lobe to calm anxiety."
   - question: "Does it work the same way for organizing digital environments such as email or messenger?"
     answer: "Yes, digital organization, such as putting three fragmented temporary files on the desktop into the trash and writing down the key target number of emails to be processed today (e.g., five unprocessed emails remaining) in the corner of a notebook, also has the same effect of controlling the cerebral cortex."
+
 ---
 
 Florence Nightingale, the founder of modern nursing and an innovator in medical administration, a British statistician who saved thousands of wounded soldiers by overcoming the horrors of field hospitals during the Crimean War in the 19th century with scientific data and thorough sanitary reform. In the harrowing field hospital, she constantly patrolled more than four miles of dark hospital hallways each night, armed with only a lamp. She went beyond simply comforting the patients' pain, and meticulously archived numbers on notepad for the patient's fever level, the wetness of the bedding, and the flow of fresh air inside the room. This collected fact data later became the basis for statistical indicators that dramatically lowered the hospital mortality rate.

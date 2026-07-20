@@ -21,6 +21,7 @@ faqs:
     answer: "Em seus diários, anotou que seu irmão caminhava de um lado a outro no jardim centenas de vezes murmurando versos, variando o ritmo dos passos e a declamação em perfeita sintonia."
   - question: "Funciona se eu declamar caminhando em uma esteira ergométrica?"
     answer: "Sim. Como o efeito neurofisiológico depende da ativação do cerebelo pelo movimento, caminhar devagar em uma esteira produz o mesmo resultado de entonação e feedback."
+
 ---
 
 William Wordsworth, expoente do Romantismo inglês célebre por 'O Arco-Íris' e 'Os Narcisos'. Sua poesia lírica não foi concebida com pena e papel em uma sala fechada, mas no compasso de suas pisadas pelos bosques de Lake District. 🚶‍♂️

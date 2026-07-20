@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Musik dengan lirik yang diproduksi secara buatan, atau kebisingan yang sangat teratur dan terlalu keras (di atas 85dB) melampaui batas stimulus ringan dan langsung mengganggu area memori kerja lobus frontal. Hal ini mempercepat kelelahan otak. Efek disfluensi kognitif hanya berfungsi jika suara tersebut berupa kebisingan latar yang tidak teratur, tidak dapat diprediksi, dan tanpa lirik."
   - question: "Apakah mendengarkan kebisingan latar dengan earphone secara diam-diam di ruang belajar juga membantu?"
     answer: "Ya. Memutar kebisingan latar di ruang belajar yang tenang juga baik karena memberikan efek pemblokiran perhatian yang ringan pada otak. Namun, jika memungkinkan, sesekali menggabungkannya dengan perubahan visual fisik (seperti keterbukaan kafe) lebih baik untuk kreativitas."
+
 ---
 
 J.K. Rowling menulis Harry Potter di kafe yang bising. Ia menemukan bahwa kebisingan latar belakang yang moderat membantunya memblokir gangguan internal.

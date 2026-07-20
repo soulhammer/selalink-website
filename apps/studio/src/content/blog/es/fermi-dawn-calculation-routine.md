@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué pasa si no puedo mantener la concentración durante 2 horas sin distraerme?"
     answer: "Si 2 horas es demasiado tiempo, divídalas en dos bloques: 50 minutos de concentración profunda seguidos de 10 minutos de estiramiento activo. No revise su teléfono durante el descanso de 10 minutos. Beba agua o camine por la habitación para estimular la circulación, luego regrese a su segunda sesión de inmediato."
+
 ---
 
 Enrico Fermi, el legendario físico que diseñó el primer reactor nuclear del mundo, fue muy singular por dominar tanto la física teórica como la experimental. Mientras otros científicos se atascaban en los cálculos, Fermi derivaba las respuestas con facilidad. El secreto de su productividad era su rutina matutina: despertarse a las 5:30 a. m. para calcular en su estudio durante 2 horas en absoluto silencio antes de dirigirse a su laboratorio a las 8:30 a. m. Exploramos la neurociencia de proteger la hora dorada cognitiva del cerebro de las distracciones matutinas.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿En qué se diferencia la tarjeta de investigación de Julio Verne del método Zettelkasten del profesor Niklas Luhmann?"
     answer: "Mientras que Zettelkasten se centra en crear una red de pensamientos mediante enlaces permanentes numerados entre tarjetas, las tarjetas de Julio Verne se centran en acumular un gran archivo enciclopédico de datos de ciencia y tecnología por categorías para fundamentar las descripciones técnicas y la verosimilitud de sus obras."
+
 ---
 
 Julio Verne, el pionero de la ciencia ficción que plasmó en textos fantásticas aventuras e imaginaciones adelantadas a su tiempo, como 'Veinte mil leguas de viaje submarino' y 'La vuelta al mundo en ochenta días'. ¿De dónde procedían sus detallados conocimientos de base que predijeron con asombrosa precisión satélites, submarinos y vehículos de aterrizaje lunar en el siglo XIX? 🗺️

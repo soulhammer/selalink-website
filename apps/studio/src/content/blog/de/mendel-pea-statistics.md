@@ -21,6 +21,7 @@ faqs:
     answer: "Tabellenkalkulationen automatisieren den Prozess, was den kognitiven Reiz minimiert. Das Zeichnen von Hand beansprucht den Parietallappen stärker und hilft, Ursache-Wirkungs-Beziehungen besser zu verstehen."
   - question: "Ist es notwendig, weiterzuschreiben, wenn sich die Zahlen kaum ändern?"
     answer: "Ja, absolut. Eine flache Linie steht für Beständigkeit, was wichtige Daten sind. Die Erfassung unveränderter Werte schult die Impulskontrolle und dient als Referenz bei späteren Schwankungen."
+
 ---
 
 Gregor Mendel, der Vater der Genetik. Wie entdeckte er in einem Kloster des 19. Jahrhunderts ohne Laborgeräte die Vererbungselemente? 🫛

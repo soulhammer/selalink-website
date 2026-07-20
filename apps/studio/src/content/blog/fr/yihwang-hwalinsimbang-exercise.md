@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Quels sont les gestes essentiels si je ne peux pas apprendre la méthode complète ?"
     answer: "Si vous ne pouvez pas tout faire, retenez deux gestes : frottez vos mains pour créer de la chaleur et massez votre visage. Ensuite, asseyez-vous droit, inspirez par le nez et expirez lentement par la bouche pendant 10 secondes. Cela suffit à réguler le stress."
+
 ---
 
 Yi Hwang, le grand philosophe confucianiste coréen. Malgré sa santé fragile, il mena une vie intellectuelle riche jusqu'à soixante-dix ans grâce à une routine : le Hwalinsimbang. Au réveil, il réalisait des étirements doux et contrôlait sa respiration. Voyons comment ce rituel équilibre la réponse au stress matinal, régule le cortisol et active le système parasympathique.

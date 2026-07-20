@@ -21,6 +21,7 @@ faqs:
     answer: "L'anxiété augmente lorsque votre esprit se concentre sur des scénarios d'échec. Arrêtez l'imagerie, concentrez-vous sur le toucher physique ou les sons de la respiration, et étirez-vous."
   - question: "Quelle est la durée idéale pour une séance de répétition mentale ?"
     answer: "Restez court : 3 à 5 minutes d'immersion ciblée sont idéales. La mémoire de travail préfrontale étant limitée, des simulations rapides juste avant l'événement donnent les meilleurs résultats."
+
 ---
 
 Ayrton Senna, l'un des plus grands pilotes de F1 de l'histoire, avait une routine mentale intense en plus de son entraînement physique. Quelques minutes avant une course, il s'asseyait dans son cockpit, casque sur la tête, yeux fermés, complètement immobile. Dans son esprit, la course avait déjà commencé. Nous analysons son entraînement mental.

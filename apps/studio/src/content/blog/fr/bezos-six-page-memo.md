@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi prendre le temps de lire ensemble pendant une réunion ?"
     answer: "Si on leur demande de lire à l'avance, les gens parcourent souvent le document à la hâte. Imposer la lecture garantit que chacun commence avec la même profondeur de compréhension."
+
 ---
 
 Jeff Bezos, fondateur d'Amazon. Il a banni les diapositives PPT avec des puces et a décrété qu'un rapport de 6 pages sous forme de texte narratif devait être utilisé. Juste après le début d'une réunion, aucun mot n'est prononcé et les participants lisent le mémo en silence. Pourquoi ont-ils gardé cette règle ?

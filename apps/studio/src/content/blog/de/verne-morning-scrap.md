@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wie unterscheidet sich Jules Vernes Karte von Professor Niklas Luhmanns Zettelkasten-Methode?"
     answer: "Während der Zettelkasten sich darauf konzentriert, ein Gedankennetz durch permanente Nummerierungslinks zwischen Karten zu erstellen, konzentrieren sich Jules Vernes Karten darauf, ein großes enzyklopädisches Archiv wissenschaftlicher Daten nach Kategorien aufzubauen, um technische Beschreibungen und Plausibilität in seinen Werken zu stützen."
+
 ---
 
 Jules Verne, der Pionier der Science-Fiction, der phantastische Abenteuer und geniale Ideen seiner Zeit voraus in Werken wie 'Zwanzigtausend Meilen unter dem Meer' und 'In 80 Tagen um die Welt' verarbeitete. Woher stammte sein detailliertes Hintergrundwissen, mit dem er Satelliten, U-Boote und Mondlandungsfahrzeuge im 19. Jahrhundert mit verblüffender Präzision vorhersagte? 🗺️

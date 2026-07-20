@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Joyce portait-il un manteau blanc pour écrire au lit ?"
     answer: "Le blanc du manteau reflétait la lumière sur son papier, améliorant la luminosité de manière naturelle pour ses yeux fatigués."
+
 ---
 
 James Joyce, l'un des écrivains les plus influents du XXe siècle, pionnier de la littérature moderniste avec son chef-d'œuvre *Ulysse*. Tout au long de sa vie, Joyce a souffert de graves maladies oculaires. Pour écrire dans de telles conditions, il a adopté une habitude insolite : allongé dans son lit, vêtu d'un manteau blanc, écrivant au crayon bleu. Découvrez comment cette installation a réduit sa fatigue.

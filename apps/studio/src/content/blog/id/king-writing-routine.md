@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Stephen King menulis 2.000 kata setiap hari?"
     answer: "Agar tidak bergantung pada suasana hati dan mekanis menghasilkan karya kreatif setiap hari, ia menggunakan pemicu sensorik dan batas minimum fisik untuk mengendalikan serta merutinkan waktu bertahannya inspirasi."
+
 ---
 
 Stephen King, maestro horor modern di balik karya luar biasa seperti 'The Shining' dan 'The Shawshank Redemption,' telah menjaga disiplin ketat selama beberapa dekade: ia mulai menulis setiap pagi dan tidak akan berdiri sebelum menyelesaikan 2.000 kata. ✍️

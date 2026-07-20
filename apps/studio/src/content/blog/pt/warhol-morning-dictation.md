@@ -21,6 +21,7 @@ faqs:
     answer: "Recomendamos usar a função de voz para texto (STT) do telemóvel ou um aplicativo de notas e expressar em voz alta os eventos de ontem ou cargas de hoje por 5 minutos."
   - question: "Sobre o que devo falar durante o ditado para aumentar a produtividade?"
     answer: "Listar os fatos de ontem, fazer um despejo de ideias das prioridades de trabalho de hoje ou expressar seu estado emocional atual de forma crua é suficiente."
+
 ---
 
 Andy Warhol, o rei do pop art. Rodeado da agitação do seu estúdio 'The Factory', as suas despesas e os seus contatos, idealizou um ritual diário: o ditado telefónico. Cada manhã ligava para a sua secretária Pat Hackett e narrava ao detalhe a sua jornada anterior. Analisemos como este processo liberta espaço na memória.

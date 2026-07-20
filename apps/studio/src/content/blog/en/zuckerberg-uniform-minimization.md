@@ -21,6 +21,7 @@ faqs:
     answer: "Zuckerberg also wears suits for official events or board meetings. The core of a uniform is eliminating trivial choices, so pre-selecting a formal outfit combination prevents decision fatigue."
   - question: "Can I build a uniform with clothes other than T-shirts and jeans?"
     answer: "Of course. Selecting a simple, comfortable combination of shirts, slacks, or dresses that you feel completely at ease in and stocking multiple identical sets is sufficient."
+
 ---
 
 Tech giant Mark Zuckerberg, who founded Facebook and leads Meta. Directing the future roadmap of a platform connecting billions of lives, his daily life is loaded with critical business decisions from the moment he wakes up. To preserve decision-making efficiency, his most famous strategy was refusing to choose what to wear each morning. He keeps identical grey crewneck T-shirts and blue jeans in his closet. We reveal the scientific mechanism of preventing ego depletion by eliminating trivial daily choices.

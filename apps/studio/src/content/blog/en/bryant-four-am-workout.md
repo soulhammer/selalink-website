@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Should I wake up at 4 AM on weekends as well?"
     answer: "For circadian alignment, it is recommended to keep the wake-up time difference between weekdays and weekends within 1 hour. Sleeping in excessively on weekends resets the biological clock, making weekday morning wake-ups much harder."
+
 ---
 
 One of the greatest basketball players in history and the personification of competitive spirit, Kobe Bryant. Every day at 4 AM, in pitch-black silence, he began his training. His action of turning on the gym lights alone to practice while teammates slept during the Olympics was a pillar of the legendary Mamba Mentality. Kobe was confident of victory through this preemptive grab of time. Let's find out how a 4 AM routine synchronizes the body for peak performance.

@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, dans ses lettres à sa famille et à ses médecins, Jefferson a écrit qu'il pratiquait ce bain de pieds chaque matin depuis soixante ans, attribuant sa santé robuste et l'absence de rhumes à cette habitude."
   - question: "Une douche froide est-elle plus efficace qu'un bain de pieds froid ?"
     answer: "Une douche froide offre une stimulation globale plus forte, mais entraîne aussi un stress physiologique supérieur. Le bain de pieds est une alternative douce et durable, qui stimule les nerfs périphériques avec un impact minimal."
+
 ---
 
 Thomas Jefferson, rédacteur principal de la Déclaration d'indépendance et troisième président des États-Unis. Réputé pour sa santé et son esprit vif, il a suivi le même rituel pendant 60 ans : tremper ses pieds dans l'eau froide au réveil. Aujourd'hui, BuildSelf examine comment le froid stimule la concentration.

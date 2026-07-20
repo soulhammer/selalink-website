@@ -21,6 +21,7 @@ faqs:
     answer: "Em vez de olhar diretamente para o alvo, treine-se para desviar naturalmente o olhar usando óculos escuros ou segurando uma xícara de café e use o foco amplo da sua visão periférica para seguir suavemente apenas o traço da silhueta."
   - question: "O mimetismo físico realmente melhora significativamente a compreensão emocional do cérebro?"
     answer: "Sim, de acordo com a neurociência, quando você replica os movimentos musculares físicos do corpo (postura, ritmo), o sistema de neurônios-espelho é sincronizado e o sistema límbico cerebral decodifica com precisão indicadores emocionais como ansiedade, tensão e fadiga da outra pessoa em um nível 70% maior."
+
 ---
 
 Charlie Chaplin, um ator cômico britânico imortal e diretor de cinema genial que dominou a era do cinema mudo, criou um personagem errante atemporal com bigode, chapéu de feltro e calças largas, e lançou críticas sociais afiadas e humor nas risadas. Ele manteve seu antigo hábito de ficar nas esquinas movimentadas de Londres e Nova York. Ele observou atentamente as peculiaridades do equilíbrio dos quadris, do ritmo manco dos passos e da inclinação da cabeça de estranhos que passavam com os colarinhos levantados. Assim que o transeunte se afastava, ele imitava com seu corpo o ritmo de caminhada do personagem e coletava o feedback emocional interno fornecido pelo corpo, o que levou à finalização do personagem O Vagabundo.

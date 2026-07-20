@@ -21,6 +21,7 @@ faqs:
     answer: "Esto se debe a que la intensidad del ejercicio se excedió y el material que se acumulaba en la fatiga aumentó rápidamente. Tan pronto como llegues al punto crítico de quedarte sin aliento, debes cortarlo inmediatamente con un temporizador de 3 minutos para que solo la refrescante dopamina del despertar se cargue en tu cerebro."
   - question: "¿Cómo debería empezar un principiante con una fuerza física muy débil?"
     answer: "Cualquier tipo de entrenamiento físico aeróbico/de fuerza, como caminar en un lugar a un ritmo rápido o correr ligeramente en un lugar, es igualmente efectivo siempre que sea suficiente para hacerte sudar ligeramente según tu condición cardiorrespiratoria actual."
+
 ---
 
 Theodore Roosevelt, el vigésimo sexto presidente de Estados Unidos, que fue nombrado presidente a la edad más joven en la historia de Estados Unidos y lideró reformas progresistas innovadoras y amplió la hegemonía global de Estados Unidos mediante el despliegue de un fuerte poder diplomático en el extranjero. Para superar las limitaciones de su cuerpo asmático y delgado de niño, acudió todas las mañanas al gimnasio y practicó entrenamiento físico de alta intensidad toda su vida, levantando pesados ​​bloques de hierro hasta el límite y sudando. Este hábito de ejercicio físico explosivo todas las mañanas no sólo convirtió a un niño débil en un hombre fuerte, sino que también fue la fuerza impulsora que le dio la fuerza de voluntad de hierro y la agudeza mental para perdurar como presidente.

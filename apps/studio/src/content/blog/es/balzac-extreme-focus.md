@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Consumir cafeína tarde en la noche no altera el sueño?"
     answer: "Sí, puede afectar el sueño. El estilo de Balzac no es apto para trabajadores actuales. Si es sensible, use café descafeinado o té de menta, y ubique el bloque de trabajo temprano en la mañana o al salir de trabajar."
+
 ---
 
 Honoré de Balzac, el gigante de la literatura realista francesa del siglo XIX, sentó las bases de la novela moderna con 'La comedia humana'. El motor de su creatividad era su rutina de 'hiperenfoque' al despertar a medianoche y escribir durante 12 horas. Al despertar a la medianoche cuando el mundo callaba, Balzac se vestía con un hábito blanco y encendía solo dos velas, eliminando distracciones. Escribía de 12 a 15 horas utilizando café para mantener la alerta. Hoy, BuildSelf comparte los principios neurocientíficos de la rutina de Balzac.

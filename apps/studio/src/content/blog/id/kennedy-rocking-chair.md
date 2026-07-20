@@ -21,6 +21,7 @@ faqs:
     answer: "Ya. Dengan membuka pengunci kemiringan kursi kantor dan bergoyang perlahan, Anda dapat menghindari beban statis dan merangsang sistem vestibular."
   - question: "Berapa kecepatan terbaik untuk bergoyang?"
     answer: "Ritme terbaik untuk menginduksi relaksasi adalah antara 0,5Hz dan 1Hz. Artinya, satu siklus penuh goyangan selesai dalam 1,5 hingga 2 detik secara mulus."
+
 ---
 
 Presiden John F. Kennedy memimpin Amerika selama momen-momen paling menegangkan. Meskipun tampak bersemangat, ia menderita sakit punggung kronis yang parah akibat cedera perang. 🪑

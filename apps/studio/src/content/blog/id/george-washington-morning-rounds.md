@@ -21,6 +21,7 @@ faqs:
     answer: "Inti dari aktivasi metakognisi bukan pada 'keberhasilan' tetapi pada 'pemantauan yang akurat'. Menghadapi dan mencatat metrik rendah di hari-hari gagal secara jujur menghilangkan ilusi kognitif dan membangun ketahanan untuk merancang strategi esok hari."
   - question: "Bolehkah saya mengelola semua metrik hanya menggunakan Notion atau Excel?"
     answer: "Perangkat digital menghadirkan godaan tinggi seperti notifikasi media sosial atau surel saat mencatat. Menulis metrik harian secara manual di jurnal kertas dengan pena analog menjamin imersi yang jauh lebih kuat untuk penjernihan kognitif otak dan pembentukan wawasan mendalam."
+
 ---
 
 George Washington bangun pukul 04.00 pagi untuk menginspeksi peternakannya di Mount Vernon secara langsung lalu menuliskan catatan meteorologi dan pertanian di buku catatan kulit. Kebiasaan berbasis data ini menjadi fondasi kecakapannya mengurus negara.

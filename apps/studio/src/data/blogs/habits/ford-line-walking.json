@@ -56,7 +56,7 @@
       "id": "Visual Smooth Pursuit dan Cognitive Offloading"
     },
     "whyDesc": {
-      "ko": "조립 공장의 부품처럼 일정한 궤도를 움직이는 정돈된 사물을 지그시 추적하는 시각 활동은 뇌의 시각 피질과 소뇌의 운동 타이밍 제어 영역을 동기화하여 주의를 차분하게 집중시킵니다. 또한 머릿속으로만 계산하던 복잡한 논리 프로세스를 직접 손으로 화살표와 도형을 그리는 아날로그 도식 스케치(Spatial Sketching)는 뇌의 인지 부하를 종이라는 외부 공간에 물리적으로 떠넘기는 '인지 오프로딩' 효과를 발휘합니다. 이를 통해 전두엽의 실행 기억 용량이 보호되어 더 창의적이고 명확한 의사결정이 가능해집니다.",
+      "ko": "조립 공장의 부품처럼 일정한 궤도를 움직이는 정돈된 事物을 지그시 추적하는 시각 활동은 뇌의 시각 피질과 소뇌의 운동 타이밍 제어 영역을 동기화하여 주의를 차분하게 집중시킵니다. 또한 머릿속으로만 계산하던 복잡한 논리 프로세스를 직접 손으로 화살표와 도형을 그리는 아날로그 도식 스케치(Spatial Sketching)는 뇌의 인지 부하를 종이라는 외부 공간에 물리적으로 떠넘기는 '인지 오프로딩' 효과를 발휘합니다. 이를 통해 전두엽의 실행 기억 용량이 보호되어 더 창의적이고 명확한 의사결정이 가능해집니다.",
       "en": "Visually tracking ordered objects moving in a fixed trajectory synchronizes the visual cortex with the motor timing control areas of the cerebellum, stabilizing attention. Furthermore, spatial sketching, drawing arrows and shapes by hand, transfers complex logical computations onto paper. This 'cognitive offloading' protects the working memory capacity of the prefrontal cortex, enabling clearer, more creative decision-making.",
       "ja": "規則的な軌道に沿って動く整然とした物体を目で追う行為は、視覚皮質と小脳のタイミング制御領域を同期させ、注意力を安定させます。さらに、頭の中だけで計算していた複雑な論理プロセスを、手で矢印や図形を使ってスケッチする行為は、脳の処理負担を外部の紙に委ねる「認知的オフローディング」効果を生みます。これにより前頭葉のワーキングメモリ容量が確保され、より創造的でクリアな意思決定が可能になります。",
       "zh": "平滑追踪在固定轨道上移动的有序物体，能够使大脑的视觉皮层与小脑的运动时序控制区实现同步，从而让注意力平稳下来。此外，将本在脑中计算的工序利用箭头和框图手绘出来（空间草图），能起到把认知压力转嫁给外部介质（手账）的“认知卸载”效应。这有效保护了前额叶皮层的工作记忆容量，使得决策更加清晰、有创意。",
@@ -102,7 +102,7 @@
           "id": "Pelacakan Visual Gerakan Fisik"
         },
         "text": {
-          "ko": "지적 과업을 시작하기 전, 자신의 일정한 오피스나 서재 공간을 약 10분간 천천히 걸어 다니며 정돈된 사물들의 물리적 각도나 공간 배치를 천천히 눈으로 따라갑니다. 뇌의 운동 제어 영역을 차분하게 각성시키는 준비 단계입니다.",
+          "ko": "지적 과업을 시작하기 전, 자신의 일정한 오피스나 서재 공간을 약 10분간 천천히 걸어 다니며 정돈된 事物들의 물리적 각도나 공간 배치를 천천히 눈으로 따라갑니다. 뇌의 운동 제어 영역을 차분하게 각성시키는 준비 단계입니다.",
           "en": "Before starting a cognitive task, slowly walk around your office or study for 10 minutes, tracing the physical shapes and spatial layout of ordered objects with your eyes. This prepares your brain by gently awakening its motor control areas.",
           "ja": "知的な作業に取りかかる前に、オフィスや書斎のスペースを10分ほどゆっくりと歩き回り、整理された物体の配置や角度を視線で追いかけます。脳の運動制御領域を穏やかに覚醒させる準備ステップです。",
           "zh": "在开始高强度工作前，在办公室或书房里漫步约10分钟，视线缓缓追踪排列整齐的物品轮廓或空间布局。这是温和激活大脑运动控制区域的准备阶段。",
@@ -200,7 +200,7 @@
           "id": "Apakah tetap efektif untuk langsung menggambar tanpa berjalan terlebih dahulu?"
         },
         "answer": {
-          "ko": "자리에 가만히 앉아 도식을 그리는 것도 인지 오프로딩 효과를 일부 주지만, 걷기나 시각 추적 활동을 결합할 때 효과가 대폭 상승합니다. 걷는 행위는 뇌의 혈류량을 즉시 증가시키고 심폐 활동을 자극하여 대뇌 각성을 활성화하며, 사물의 움직임을 눈으로 따라가는 예열이 소뇌의 실행 망을 활성화하여 도식 구성 시의 논리 연산 능력을 극대화하기 때문입니다.",
+          "ko": "자리에 가만히 앉아 도식을 그리는 것도 인지 오프로딩 효과를 일부 주지만, 걷기나 시각 추적 활동을 결합할 때 효과가 대폭 상승합니다. 걷는 행위는 뇌의 혈류량을 즉시 증가시키고 심폐 활동을 자극하여 대뇌 각성을 활성화하며, 事物의 움직임을 눈으로 따라가는 예열이 소뇌의 실행 망을 활성화하여 도식 구성 시의 논리 연산 능력을 극대화하기 때문입니다.",
           "en": "While sketching alone helps, combining it with physical walking and visual pursuit dramatically enhances the cognitive outcome. Walking increases cerebral blood flow and arousal. Meanwhile, tracking object layouts with your eyes activates cerebellar networks, maximizing logical reasoning capacity for diagramming.",
           "ja": "座って描くだけでも認值的オフローディングの効果は一部得られますが、歩行や視覚的な追従活動と組み合わせることで効果は大幅に向上します。歩くことで脳の血流量が増えて覚醒レベルが上がり、物の動きを目で追うウォームアップが小脳のネットワークを刺激し、論理的な設計力を高めるからです。",
           "zh": "单纯坐着画图确实也能起到部分认知卸载作用，但如果能结合散步与视觉追踪，效果会倍增。因为步行可以瞬间增加脑血流量、激活神经元；而眼神追踪物品的暖身运动能唤醒小脑功能，最大程度提高构图时的逻辑推理能力。",

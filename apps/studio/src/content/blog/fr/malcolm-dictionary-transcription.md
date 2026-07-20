@@ -21,6 +21,7 @@ faqs:
     answer: "Non, ce n'est pas pareil. Le clavier utilise des mouvements simples. L'écriture manuscrite demande de tracer chaque lettre, ce qui active des zones complexes du cerveau."
   - question: "Dois-je me soucier d'avoir une belle écriture ?"
     answer: "Non, pas besoin d'une belle écriture. L'entraînement repose sur l'attention portée à la pression et au mouvement du stylo. Écrire naturellement est plus bénéfique."
+
 ---
 
 Malcolm X, l'orateur et leader qui a captivé les foules. Derrière ses mots fluides et son charisme se cachait un passé où il ne pouvait pas écrire une seule phrase correcte. 📖

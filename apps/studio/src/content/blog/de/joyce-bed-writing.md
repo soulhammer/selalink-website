@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum trug Joyce einen weißen Mantel beim Schreiben im Bett?"
     answer: "Der weiße Mantel reflektierte das Licht optimal auf sein Papier. Das diente seinen schwachen Augen als natürliche Beleuchtung."
+
 ---
 
 James Joyce war einer der einflussreichsten Schriftsteller des 20. Jahrhunderts. Er litt zeit seines Lebens an schweren Augenkrankheiten. Um unter diesen Bedingungen zu schreiben, entwickelte er eine ungewöhnliche Routine: Er lag im Bett, trug einen weißen Mantel und schrieb mit einem dicken blauen Stift auf weißem Papier. Erfahren Sie, wie dieses Vorgehen die kognitive Last und Sinnesermüdung verringerte.

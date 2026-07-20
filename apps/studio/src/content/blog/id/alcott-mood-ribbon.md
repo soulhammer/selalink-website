@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apa yang harus saya lakukan jika orang-orang di sekitar tidak menyukai rutinitas pita ini, karena merasa hal itu menghambat komunikasi?"
     answer: "Hindari mengaktifkan sinyal pemblokiran selama berjam-jam secara berlebihan. Penting untuk membatasi waktu fokus maksimal 50-60 menit, dan secara aktif membangun kepercayaan dengan menunjukkan bahwa Anda senang berbicara di lain waktu."
+
 ---
 
 Louisa May Alcott, novelis Amerika hebat yang menyentuh hati banyak pembaca dengan menulis novel klasik global 'Little Women'. Bagaimana dia fokus menulis tanpa terganggu ketika keluarga besarnya tinggal bersama di rumah yang sibuk? 🎀

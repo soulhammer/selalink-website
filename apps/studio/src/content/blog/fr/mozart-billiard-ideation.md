@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Les jeux mobiles classiques ont-ils le même effet ?"
     answer: "Les jeux mobiles contenant du texte ou de fortes stimulations fatiguent d'autres zones du cortex préfrontal, augmentant la charge cognitive. Pour obtenir l'effet DMN, privilégiez les jeux de simulation physique."
+
 ---
 
 Wolfgang Amadeus Mozart, un génie qui composait des symphonies parfaites du premier coup. Derrière sa créativité se cachait une routine unique : jouer au billar chaque fois qu'il bloquait en composant. Il avait installé un billard coûteux chez lui, à côté de son bureau. Son épouse a témoigné que Mozart se levait soudainement pour jouer avant de revenir écrire. Observer la trajectoire des billes n'était pas un loisir, mais un refuge qui induisait l'esprit dans un état inconscient (DMN) pour stimuler de nouvelles connexions. Aujourd'hui, BuildSelf partage le secret de ce rituel.

@@ -21,6 +21,7 @@ faqs:
     answer: "Il est parfois difficile de se déconnecter 3 heures. Vous pouvez diviser en blocs de 90 minutes matin et après-midi pour un effet similaire."
   - question: "Puis-je effectuer des tâches simples l'après-midi après les 3 heures de concentration ?"
     answer: "Oui. Après le deep work, il est conseillé d'effectuer des tâches simples ou des e-mails qui ne demandent pas d'effort mental pour protéger le lobe frontal."
+
 ---
 
 Bertrand Russell limitait son travail intellectuel intense à exactement 3 heures par jour. Cette limite a évité l'épuisement cognitif et maintenu sa productivité.

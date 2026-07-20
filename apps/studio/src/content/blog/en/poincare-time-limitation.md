@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Henri Poincaré research for only 4 hours a day?"
     answer: "Forcing concentration for long hours narrows the brain's cognitive scope and reduces creativity. Thus, after a 4-hour focused mode, he activated diffuse mode via walks and rest to draw creative ideas from the subconscious."
+
 ---
 
 Henri Poincaré, the solver of the three-body problem, pioneer of chaos theory, and regarded as one of the greatest genius mathematicians in modern history, surprisingly had a strict rule of working at his desk for only 4 hours a day. ⏰

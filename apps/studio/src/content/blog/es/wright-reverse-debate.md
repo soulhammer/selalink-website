@@ -21,6 +21,7 @@ faqs:
     answer: "Sí. Escriba su plan en un papel y juegue el rol de un crítico despiadado o del equipo de análisis de un competidor, redactando un informe de 'Abogado del Diablo'."
   - question: "¿Cómo debatir a la inversa con alguien sin dañar la relación?"
     answer: "Antes de empezar, acuerde claramente que se aplica la regla de los hermanos Wright. Deje claro que es un juego de roles oficial dentro de las reglas, evadiendo ataques personales."
+
 ---
 
 Wilbur y Orville Wright debatían intercambiando sus roles de opinión todas las noches. Este hábito de debate inverso les ayudó a romper el sesgo de confirmación y a evaluar los problemas del diseño de vuelo de forma racional y sin ego.

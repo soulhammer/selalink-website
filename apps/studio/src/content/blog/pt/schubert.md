@@ -21,6 +21,7 @@ faqs:
     answer: "Tudo bem. Em apenas dois minutos segurando uma caneta e expressando seus pensamentos, a missão de capturar ondas teta já foi concluída com sucesso. Imediatamente após a gravação, se você beber água levemente ou se alongar para enviar um sinal de despertar físico ao cérebro, o sono desaparecerá rapidamente."
   - question: "O que devo fazer quando não consigo pensar em nada para escrever logo depois de acordar?"
     answer: "Se você não consegue pensar em nada, basta quebrar o atrito de conexão entre a caneta e as células motoras do cérebro escrevendo à mão um adjetivo que descreve um estado simples, como “não consigo me lembrar” ou “estou com sono”, três vezes seguidas em um pedaço de papel em branco."
+
 ---
 
 Franz Schubert, um genial compositor austríaco que representa a música romântica do século XIX e é chamado de Rei de Lieder (Liederfürst), compôs mais de 600 grandes canções e sinfonias líricas até sua jovem morte, aos 31 anos de idade. Para não perder de vista a inconsciência musical que surgia mesmo no estado meio adormecido, foi para a cama sem óculos. Essa rotina imediata de escrita, que eliminou todo o atrito entre acordar de manhã e começar a trabalhar, foi o que fez dele um compositor imortal.

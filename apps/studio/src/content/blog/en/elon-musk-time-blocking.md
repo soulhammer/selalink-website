@@ -21,6 +21,7 @@ faqs:
     answer: "For beginners, filling the entire schedule with 5-minute blocks causes cognitive overload. It is recommended to start by scheduling 15 or 30-minute blocks for just 1 or 2 focus hours a day."
   - question: "What if I can't finish the task within the allocated time block?"
     answer: "Move to the next block immediately. Assign unfinished work to a dedicated 'Buffer Block' late in the afternoon to prevent a single delay from ruining the whole day."
+
 ---
 
 Elon Musk, the tech entrepreneur who simultaneously leads Tesla, SpaceX, and Neuralink. Facing weekly 80 to 100-hour workweeks, his secret is the '5-Minute Time Blocking' planning routine. He partitions everything, from meals and email reviews to engineer meetings, into 5 to 15-minute blocks. When entering a block, he cuts off all external noise and dumps 100% of brain energy on it.

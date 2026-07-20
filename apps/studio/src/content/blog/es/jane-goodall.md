@@ -21,6 +21,7 @@ faqs:
     answer: "No. Las imágenes en las pantallas digitales son simplemente píxeles 2D comprimidos y no activan la red neuronal de percepción estereoscópica del cerebro. Debes poder descifrar la profundidad y la textura de objetos analógicos en tres dimensiones con tus ojos para promover la plasticidad de las neuronas sensoriales en tu cerebro."
   - question: "¿Deberíamos observar sólo objetos estáticos y aburridos?"
     answer: "Analizar con precisión el rastro del temblor de la cola de un gato, el movimiento de las aletas de un pez en una pecera, etc. también es un muy buen ejercicio que despierta bruscamente el circuito de atención selectiva del cerebro."
+
 ---
 
 Jane Goodall es una investigadora de chimpancés salvajes y activista ambiental de renombre mundial, y una bióloga que reformó completamente el mapa existente de etología animal al descubrir por primera vez la capacidad de los primates para utilizar herramientas interactuando directamente con los chimpancés en la selva de Gombe en África durante décadas. Todos los días, trepaba a través de la niebla de la mañana y se sentaba en lo alto de los escarpados acantilados de Gombe, África. Silenció por completo el ruido de sus acciones para que los chimpancés no desconfiaran de ella. Y observé en silencio los finos movimientos del chimpancé al recogerse el pelo, el ritmo de las yemas de sus dedos utilizando herramientas de ramas de árboles y el parpadeo de sus ojos a través de un telescopio, y registré los hechos junto con dibujos en un cuaderno de bolsillo.

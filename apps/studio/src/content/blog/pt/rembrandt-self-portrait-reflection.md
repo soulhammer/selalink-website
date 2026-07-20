@@ -21,6 +21,7 @@ faqs:
     answer: "Sim. Se a depressão ou a autocrítica surgirem, pare imediatamente. Tente se concentrar na linha dos ombros ou nas mãos primeiro para conectar suas sensações físicas."
   - question: "Qual é o melhor momento do dia para a autorreflexão no espelho?"
     answer: "Logo após o banho é o ideal. Seu corpo está relaxado sob o domínio parassimpático, enfraquecendo as defesas do ego e permitindo a conexão mais confortável consigo mesmo."
+
 ---
 
 Rembrandt van Rijn, o mestre imortal da Idade de Ouro holandesa. Embora tenha alcançado grande riqueza e fama desde o início, seus últimos anos foram marcados pela falência e solidão. No entanto, nunca deixou de pintar autorretratos, deixando para trás mais de 80 peças durante 40 anos. Este foi um processo de reflexão visual, contemplando seu rosto envelhecido no espelho sem distorções.

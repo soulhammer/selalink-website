@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does forcing a smile in front of the mirror really work?"
     answer: "Yes, through the facial feedback effect, the brain senses the movement of facial muscles and recognizes it as a happy state, prompting the release of happiness substances."
+
 ---
 
 Ahn Chang-ho, the great educational leader and independence activist of Korea, believed that building individual morality, intelligence, and daily dignity was as crucial as armed struggle for independence. He strictly taught his members to treat each other with a smiling face and keep all spaces clean to establish order. 🧹

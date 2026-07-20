@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was soll ich tun, wenn Mitmenschen diese Band-Routine ablehnen, weil sie sich in der Kommunikation behindert fühlen?"
     answer: "Vermeiden Sie es, das Signal übermäßig lange aktiv zu halten. Es ist wichtig, die Fokuszeit auf maximal 50-60 Minuten zu beschränken und aktiv Vertrauen aufzubauen, indem Sie zeigen, dass Sie zu anderen Zeiten ansprechbar sind."
+
 ---
 
 Louisa May Alcott, die große amerikanische Schriftstellerin, die mit ihrem Klassiker 'Little Women' unzählige Leser berührte. Wie schaffte sie es, sich ohne Störung auf das Schreiben zu konzentrieren, während ihre große Familie in einem geschäftigen Haus zusammenlebte? 🎀

@@ -21,6 +21,7 @@ faqs:
     answer: "Sim. Embora em menor escala, observar os detalhes das plantas de interior induz a 'Fascinação suave', o que ajuda a descansar o cérebro e reduzir o estresse."
   - question: "Preciso desenhar obrigatoriamente no caderno?"
     answer: "Não. Desenhar é apenas uma ferramenta para ajudar a focar. Se não souber desenhar, descrever os detalhes (cores, texturas) com palavras é muito eficaz."
+
 ---
 
 O clássico Primavera Silenciosa alertou sobre o abuso de pesticidas. Sua autora, Rachel Carson, enfrentou intimidação de corporações e o câncer. 🐚

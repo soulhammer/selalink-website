@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What content is most effective to write in the self-warning pledge?"
     answer: "Writing your hardest-to-control weaknesses (e.g., staying away from smartphone, keeping appointment times) as positive, action-based sentences is most effective for delivering clear stimuli to the brain."
+
 ---
 
 Yi I, the great Neo-Confucian scholar and politician of mid-Joseon, passed all nine state exams with top honors, earning him the title 'Gudojangwongong.' Behind his stellar achievements was the 'Jakyungmun' (Self-Warning Letter), a guide he wrote at age 20 to end his wandering after the death of his mother, Shin Saimdang. 📜

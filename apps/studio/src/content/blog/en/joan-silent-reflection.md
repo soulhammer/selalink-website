@@ -21,6 +21,7 @@ faqs:
     answer: "No. The core of Joan of Arc's routine is to refine the brain right after waking up before smartphone or external information noise rushes in. Waking up at your usual time and spending just 10 minutes yields the same effect."
   - question: "I don't have a religion, will silent prayer be effective?"
     answer: "Absolutely. This routine focuses on neurological 'cognitive blocking' and 'self-value validation' rather than religious rituals. Even if it is not a prayer to a specific god, just reminding yourself of your values or precious beliefs in your mind fully triggers the amygdala stabilizing effect."
+
 ---
 
 Joan of Arc, the legendary figure who saved France during the Hundred Years' War and carved out her destiny through faith alone to become a Catholic saint. Where lay the source of strength that enabled a peasant girl who couldn't read to overcome the fear of death and maintain indomitable belief amidst threats of war, cold shoulders from nobles, and trials by the church? She sought quiet spaces, like cathedral corners or behind army tents, to engage in deep silent prayer every morning. This routine of blocking out all surrounding noise to focus solely on her inner call and promise granted her strong mental balance. Today, BuildSelf introduces the neurological relief effects and modern implementation of Joan of Arc's 'silent prayer' routine.

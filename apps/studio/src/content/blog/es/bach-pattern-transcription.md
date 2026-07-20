@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿La transcripción mecanografiada tiene el mismo efecto?"
     answer: "Mecanografiar consiste en repetir la misma pulsación de tecla para todas las letras, lo que resulta en una estimulación del lóbulo parietal mucho menor en comparación con escribir a mano."
+
 ---
 
 Johann Sebastian Bach, llamado el 'Padre de la Música' por completar el contrapunto barroco. Su lógica genial nació de un ritual intelectual de toda la vida: el hábito de copiar partituras escritas por los grandes maestros de su época, línea por línea con pluma cada noche. De niño, robaba partituras de la oficina de su hermano para copiarlas toda la noche bajo la luz de la luna. Para Bach, copiar no era lectura pasiva. Era un ritual de impresión cerebral que grababa arreglos matemáticos de notas usando las habilidades motoras finas. Hoy, BuildSelf comparte el secreto de este ritual para maximizar tu lógica y aprendizaje.

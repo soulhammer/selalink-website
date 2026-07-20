@@ -21,6 +21,7 @@ faqs:
     answer: "Das ist anfangs durch kognitive Dissonanz völlig normal. Wichtig ist nicht, Fakten zu prüfen, sondern neue Wege für das Gehirn zu öffnen. Durch Wiederholung und Neuroplastizität wird sich das Gefühl legen und zur Überzeugung werden."
   - question: "Funktioniert es nur, wenn ich es laut ausspreche?"
     answer: "Ideal ist es, die Stimme zu hören. Wenn die Umgebung dies nicht zulässt, stimuliert auch das Flüstern oder das geistige Wiederholen (stilles Selbstgespräch) mit Fokus dieselben Hirnareale."
+
 ---
 
 Muhammad Ali, Olympiasieger und Schwergewichtsweltmeister, ist die größte Ikone in der Sportgeschichte des 20. Jahrhunderts. Wie kontrollierte er extreme Angst und Leistungsangst, bevor er in den Ring stieg, wo Zehntausende von Zuschauern und brutale Gegner warteten? Ali rief jeden Morgen vor dem Spiegel laut "I am the greatest". Dies war kein bloßes Prahlen, sondern eine Routine der positiven Selbstaffirmation, die das Sieger-Mindset in sein Gehirn einprägte. Heute stellt BuildSelf die sportpsychologischen Prinzipien und die moderne Mindset-Routine von Muhammad Alis 'Selbstaffirmation' vor.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Kann jemand, der kein Instrument spielt, von Casals' Morgenroutine profiteren?"
     answer: "Ja, definitiv. Während das Spielen eines Instruments eine taktile und motorische Aktivierung des Cortex bewirkt, synchronisiert aktives Hören – also das vollständige Konzentrieren auf das Hörerlebnis mit geschlossenen Augen – die Alphawellen effektiv. Der Schlüssel liegt in der aktiven Beschäftigung mit den Schallwellen, anstatt sie als Hintergrundgeräusch verpuffen zu lassen."
+
 ---
 
 Pablo Casals, die spanische Cello-Legende, die Bachs Cello-Suiten wiederbelebte. Bis zu seinem Tod im Alter von 96 Jahren pflegte er über 80 Jahre lang eine einzigartige Morgenroutine. Nach einem kurzen Morgenspaziergang setzte er sich ans Klavier, um zwei Bach-Präludien zu spielen. Er nannte dies eher einen Segen als Übung. Wir untersuchen die kognitiven Auswirkungen dieses morgendlichen Musikrituals auf die Gehirnsynchronisation und die emotionale Regulierung.

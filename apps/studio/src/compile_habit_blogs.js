@@ -156,7 +156,8 @@ formatVersion: 4
 authority: "${authority.replace(/"/g, '\\"')}"
 steps:
 ${stepsYaml}
-${faqsYaml}---
+${faqsYaml}
+---
 
 ${intro}
 

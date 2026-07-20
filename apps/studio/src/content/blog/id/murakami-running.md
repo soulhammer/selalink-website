@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Murakami berlari 10 km setiap hari?"
     answer: "Untuk mempertahankan konsentrasi dan daya tahan menulis, ia merangsang sel otak dengan olahraga aerobik."
+
 ---
 
 Haruki Murakami, seorang tokoh sastra Jepang modern yang menciptakan sensasi global dengan setiap karya yang diterbitkannya. Dia bukan hanya seorang novelis tetapi juga seorang pelari bersemangat yang telah menyelesaikan maraton penuh setiap tahun selama lebih dari 40 tahun. Ketika dia menjadi penulis penuh waktu pada tahun 1982, dia mengalami penurunan stamina & kenaikan berat badan akibat duduk & menulis sepanjang hari. Hari ini, BuildSelf mengeksplorasi alasan ilmiah di balik rutinitas lari Murakami & bagaimana Anda dapat membangun rutinitas stamina Anda sendiri.

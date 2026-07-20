@@ -21,6 +21,7 @@ faqs:
     answer: "No. Swimming was just the ideal aerobic exercise preferred by Dieter Rams. Any aerobic exercise that wakes up brain blood flow, such as light indoor jogging, stretching, or 10 minutes of brisk walking, is fine."
   - question: "Can't I observe urban buildings or sophisticated interiors instead of natural objects?"
     answer: "Artificially crafted interiors or geometric city buildings implicitly demand analytical interpretations (directed attention) from the brain, like 'Why did they make it that way?' or 'What is that?' To restore cognitive fatigue, looking at organic natural objects that require no interpretation is ideal."
+
 ---
 
 "Less, but better." Dieter Rams, the living legend of design who revolutionized the paradigm of 20th-century industrial design as the chief designer of Braun and inspired countless masters including Apple's Jony Ive. Where did his genius ideas of visualizing a complex world into simple and practical products come from? 🏊‍♂️

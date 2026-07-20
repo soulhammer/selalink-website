@@ -21,6 +21,7 @@ faqs:
     answer: "Intinya bukanlah waktu yang tepat, melainkan 'latihan menembus batas segera setelah bangun tidur'. Meskipun bukan jam 6 pagi, Anda dapat mencapai pelepasan hormon dan efek keuntungan psikologis yang sama dengan memaksakan beban kognitif dan fisik pada jam pertama Anda bangun."
   - question: "Apakah melakukan olahraga intensitas tinggi setiap hari tidak membebani tubuh?"
     answer: "Rutinitas Jordan juga melalui proses adaptasi bertahap. Bagi pemula, disarankan untuk memulai 3 kali seminggu dan secara bertahap meningkatkan intensitas serta frekuensi. Bergantian antara latihan kekuatan yang intens dan latihan fungsional ringan dapat membantu mencegah akumulasi kelelahan fisik."
+
 ---
 
 Michael Jordan, pemain bola basket terhebat dalam sejarah dan simbol utama semangat kompetitif. Ketika ia berulang kali dihalangi oleh taktik pertahanan kasar Detroit Pistons pada awal tahun 1990-an, ia memutuskan untuk memperkuat tubuhnya alih-alih menyerah. Hal ini melahirkan rutinitas latihan jam 6 pagi yang legendaris, 'Breakfast Club.'

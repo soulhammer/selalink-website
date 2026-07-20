@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi dessiner sur du papier d'aluminium calme-t-il le stress ?"
     answer: "Le frottement et le crissement du métal stimulent les capteurs sensoriels, ce qui chasse l'anxiété et les distractions en ancrant l'esprit dans le moment présent."
+
 ---
 
 Lee Jung-seob, maître légendaire de la peinture moderne en Corée, a connu la misère lors de la guerre de Corée. Sans argent pour acheter des toiles, il récupérait les paquets de cigarettes pour dessiner sur leur feuille d'aluminium. 🐂

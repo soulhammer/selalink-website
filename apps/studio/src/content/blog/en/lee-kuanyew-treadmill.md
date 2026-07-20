@@ -21,6 +21,7 @@ faqs:
     answer: "No. The physiological golden time to obtain autonomic corrective synergy is 'immediately after the heart rate peaks.' If your heart rate returns to normal while showering, the effect of cortisol elimination and homeostasis recovery through the rapid autonomic shift decreases significantly. You must sit immediately after sweating."
   - question: "Is it a failure if distracting thoughts keep arising during meditation?"
     answer: "No. Distracting thoughts are a natural brain phenomenon. The core of meditation is not eliminating thoughts completely but 'recognizing that your mind has wandered and gently returning attention to your breath.' Every time you notice distraction and return, the frontal lobe's attention muscle is strengthened."
+
 ---
 
 Lee Kuan Yew, the founding Prime Minister who transformed Singapore, a small and resource-poor Asian city-state, into a world-class global financial hub and an economic powerhouse. He faced immense psychological pressure formulating survival strategies amid major powers and decision paralysis determining the nation's fate at every turn. How did he maintain a sharp brain and resolute insight into his 90s?

@@ -21,6 +21,7 @@ faqs:
     answer: "Dormir é natural, mas você pode tentar sentar numa escrivaninha e escrever por apenas 5 minutos antes de ir para a cama para evitar pegar no sono imediatamente."
   - question: "O que devo fazer se a autoculpa me mantiver acordado?"
     answer: "Interrompa o processo imediatamente se a ruminação começar. Apenas escreva uma única ação para realizar amanhã e encerre conscientemente o caderno."
+
 ---
 
 Pitágoras, o gigante da matemática e da geometria, liderou uma escola que buscava a harmonia e o autocontrole. Sua regra central era o autoexame vespertino. Nos 'Versos de Ouro', eles faziam três perguntas antes de dormir: 'O que eu fiz de errado?', 'Que bem eu fiz?' e 'O que eu omiti?'. Analisamos sua rotina.

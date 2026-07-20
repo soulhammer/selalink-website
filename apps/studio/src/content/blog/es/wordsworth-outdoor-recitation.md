@@ -21,6 +21,7 @@ faqs:
     answer: "En sus diarios, anotó que su hermano caminaba de un lado a otro por el sendero del jardín cientos de veces al día murmurando versos, de modo que el compás de sus pasos y el tempo de su declamación variaban a la par."
   - question: "¿Funciona igual de bien si declamo caminando sobre una cinta de correr en interior?"
     answer: "Sí. Como el efecto neurofisiológico depende del aumento del flujo sanguíneo y la activación del cerebelo por el movimiento, caminar despacio en una cinta produce el mismo resultado de entonación y feedback."
+
 ---
 
 William Wordsworth, exponente del Romanticismo inglés célebre por 'El arco iris' y 'Los narcisos'. Su poesía, una de las más rítmicas de la literatura anglosajona, no se concibió con pluma y papel en una habitación silenciosa, sino al compás de sus pisadas por los bosques de Lake District. 🚶‍♂️

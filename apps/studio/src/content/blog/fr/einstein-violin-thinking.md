@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, Einstein faisait régulièrement de la voile pour sentir le vent et méditer, ou dormait plus de 10 heures par jour pour laisser son subconscient organiser les problèmes complexes."
   - question: "Quelqu'un qui ne sait pas jouer d'un instrument peut-il suivre cette routine ?"
     answer: "Absolument. Au lieu de jouer d'un instrument, vous pouvez écouter du classique en marquant le rythme avec vos doigts, ou faire des respirations profondes en coupant tout stimulus visuel pendant 5 minutes."
+
 ---
 
 Albert Einstein, le plus grand physicien de l'histoire, qui a changé le paradigme de la physique moderne en publiant la théorie de la relativité et a révolutionné la façon dont l'humanité comprend l'univers. D'où sont nées les grandes inspirations physiques qui ont changé les mentalités ? 🎻

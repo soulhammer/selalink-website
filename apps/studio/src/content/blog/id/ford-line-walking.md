@@ -21,6 +21,7 @@ faqs:
     answer: "Layar digital tidak memiliki gesekan taktil seperti kertas fisik, mengurangi umpan balik sensorik. Pena di atas kertas memberikan resistensi fisik yang menstimulasi korteks untuk pemindahan beban kognitif yang lebih baik, sehingga kertas asli direkomendasikan."
   - question: "Apakah tetap efektif untuk langsung menggambar tanpa berjalan terlebih dahulu?"
     answer: "Menggambar sambil duduk tetap membantu, tetapi memadukannya dengan berjalan dan pelacakan visual meningkatkan hasil secara drastis. Berjalan melancarkan aliran darah ke otak, sementara pelacakan visual melatih fokus logika."
+
 ---
 
 Henry Ford, raksasa otomotif yang membangun sistem produksi massal sabuk konveyor yang bersejarah. Dari mana inspirasi desain strukturalnya berasal? 🚗

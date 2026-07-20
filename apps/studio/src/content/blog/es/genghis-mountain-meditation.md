@@ -21,6 +21,7 @@ faqs:
     answer: "Abra la ventana y mire el punto más lejano en el exterior por más de 30 segundos. Lo importante es cambiar el foco estrecho (túnel) a un foco periférico amplio para desactivar los circuitos de alerta del cerebro."
   - question: "Tengo dificultades para imaginar imágenes concretas."
     answer: "No necesita imaginar un video perfecto. Basta con evocar la 'sensación' de éxito, los sonidos a su alrededor y palabras de logro. Esto activa los mismos circuitos cerebrales. Vaya sumando estos detalles sensoriales gradualmente."
+
 ---
 
 Genghis Khan, el estratega que unificó a las tribus nómadas y construyó el imperio continuo más grande. Frente a amenazas y traiciones, ¿cómo mantuvo la audaz fuerza de voluntad para seguir firme? Cuando se enfrentaba a decisiones críticas, subía al 'Burkhan Khaldun', la montaña sagrada. Meditar durante tres días en la cima era su rutina mental para lograr avances estratégicos. Hoy, BuildSelf presenta los beneficios neurológicos y la aplicación de la 'visualización en la montaña' de Genghis Khan.

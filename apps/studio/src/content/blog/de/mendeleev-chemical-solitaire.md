@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Kann ich statt Papierkarten auch Mindmapping-Apps nutzen?"
     answer: "Apps helfen zwar beim Strukturieren, doch das taktile Feedback beim Verschieben echter Karten aktiviert motorische Areale deutlich stärker. Forschungen zeigen, dass die manuelle Handhabung im 3D-Raum eine intensivere Gehirnaktivität auslöst als das Bewegen von Elementen auf einem Bildschirm. Nutzen Sie daher bevorzugt echte Karten."
+
 ---
 
 Das Periodensystem der Elemente ist ein Meilenstein der Chemie. Um die verborgene Ordnung der Atome zu entschlüsseln, nutzte Dmitri Mendeleev 63 selbst gefertigte Pappkarten. Er trug diese stets bei sich und legte sie auf Tischen aus, um logische Muster in den Atomeigenschaften zu finden. Erfahren Sie, wie das physische Interagieren mit Konzepten die kognitive Problemlösung anregt.

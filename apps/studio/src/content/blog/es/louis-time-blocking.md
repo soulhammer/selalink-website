@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, totalmente. En ese caso, asigne bloques específicos para 'responder urgencias y revisar correos' 2 o 3 veces al día. Durante los bloques de enfoque (1 o 2 horas), trabaje sin interrupciones y resuelva las urgencias juntas en el bloque de respuesta."
   - question: "Me siento muy culpable si no logro cumplir con el horario."
     answer: "El bloqueo de tiempo no es una cadena, sino un mapa. Lo importante no es completar todo al 100%, sino haber estado concentrado en una sola tarea durante el bloque. Si se desvía, tenga flexibilidad cognitiva y concéntrese en el siguiente bloque en lugar de culparse."
+
 ---
 
 Luis XIV, quien marcó la edad de oro de la monarquía absoluta francesa y se situó en la cúspide del poder construyendo el Palacio de Versalles. Durante su largo reinado de 72 años, resolviendo conflictos constantes y luchas de poder, ¿cuál fue el secreto para establecer su autoridad inquebrantable? Bajo el credo "Al establecer tiempos y reglas de trabajo, uno puede dominar completamente la vida", Luis XIV dividió sus 24 horas estrictamente al minuto. Hoy, BuildSelf presenta los beneficios neurológicos y la aplicación de la rutina de 'time blocking' de Luis XIV.

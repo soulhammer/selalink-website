@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Se puede usar este método si no tengo ninguna habilidad para el dibujo?"
     answer: "Sí. El hábito de Arquímedes no es artístico, sino un proceso cognitivo para descargar la mente en el exterior. Dibujar simples círculos o conectar palabras con flechas es suficiente para reducir la carga de la memoria de trabajo y mejorar el enfoque."
+
 ---
 
 El mayor genio de la antigüedad, Arquímedes, que descubrió el principio de la palanca. Detrás de su concentración sobrehumana y su inspiración científica se encontraba un hábito de bocetado visual. Dibujaba formas geométricas en la arena o sobre el aceite corporal tras el baño. Es famosa la anécdota en la que, ante el peligro de muerte, gritó a un soldado romano que no pisara sus dibujos en la arena. Revelamos los mecanismos de cómo estos esbozos crearon una concentración mental extrema.

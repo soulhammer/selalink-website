@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, der Biograf John Aubrey, ein Zeitgenosse und Freund von Hobbes, berichtet in seinem Werk 'Brief Lives' detailliert, dass Hobbes ein Tintenfass im Griff des Stockes trug, um Geistesblitze festzuhalten."
   - question: "Was ist effektiver: Sprachnotizen oder geschriebener Text?"
     answer: "Unterwegs sind Sprachnotizen sicherer und schneller, da das Tippen die Aufmerksamkeit vom Gehen ablenkt. Tippen erfordert Feinmotorik und stört den Denkfluss, weshalb Sprachnotizen zu bevorzugen sind."
+
 ---
 
 Thomas Hobbes, der Autor des 'Leviathan', des Klassikers zur Staatstheorie. Seine Philosophie, die das Fundament des modernen politischen Denkens legte, entstand nicht am Schreibtisch, sondern auf Feldwegen. Und dabei hatte er einen besonderen Begleiter. 🦯

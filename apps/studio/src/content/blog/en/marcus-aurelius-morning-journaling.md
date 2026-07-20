@@ -21,6 +21,7 @@ faqs:
     answer: "Do not judge yourself. In Stoicism, self-blame is counterproductive. Simply write a single sentence on your phone notepad or catch up in the evening with an evening review. The consistency of the mindset is what matters."
   - question: "How does this differ from standard gratitude journaling?"
     answer: "While gratitude journals focus on positives, a Stoic reflection deliberately anticipates negative events (Premeditatio Malorum) and focuses on how to govern your own reactions. It is a tool for mental preparation rather than passive appreciation."
+
 ---
 
 "At dawn, when you have trouble getting out of bed, tell yourself: I have to go to work — as a human being." Marcus Aurelius, the philosopher-emperor of Rome, wrote these words to himself during military campaigns. In the quiet of his military tent before sunrise, he journaled not for publication, but to cultivate a steady mind amid empire-wide crises and wars.

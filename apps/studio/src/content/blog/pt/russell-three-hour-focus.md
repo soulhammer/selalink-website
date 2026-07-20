@@ -21,6 +21,7 @@ faqs:
     answer: "Às vezes é difícil se desconectar por 3 horas. Você pode dividir em blocos de 90 minutos de manhã e à tarde para obter um efeito semelhante."
   - question: "Posso fazer tarefas leves à tarde após as 3 horas de foco?"
     answer: "Sim. Após o deep work, aconselha-se realizar tarefas simples ou e-mails que não exijam grande esforço mental para proteger o lobo frontal."
+
 ---
 
 Bertrand Russell limitava seu trabalho intelectual intenso a exatamente 3 horas por dia. Esse limite rígido evitou a exaustão cognitiva e manteve sua produtividade.

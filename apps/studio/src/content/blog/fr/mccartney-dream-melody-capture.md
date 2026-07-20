@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si je me réveille sans aucun souvenir de mes rêves ?"
     answer: "C'est normal. Si vous ne vous souvenez d'aucun rêve, faites un exercice d'écriture en flux de conscience. Rédigez librement trois lignes de mots qui vous viennent à l'esprit. Cela agit comme un échauffement cognitif."
+
 ---
 
 Paul McCartney, le génie musical des Beatles, a composé Yesterday, l'une des chansons les plus reprises de l'histoire, directement à partir d'un rêve. Se réveillant à Londres en 1964, une mélodie résonne dans sa tête. Craignant qu'elle ne s'échappe, il a sauté du lit et l'a jouée sur son piano, fixant l'inspiration brute avant que son esprit conscient ne l'efface. Cette habitude de capturer des fragments de rêves est devenue le creuset de nombre de ses succès. Nous explorons la neurobiologie de l'état hypnagogique.

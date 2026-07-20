@@ -21,6 +21,7 @@ faqs:
     answer: "No. La música con letra o los ruidos fuertes (más de 85 dB) invaden la memoria de trabajo del lóbulo frontal. Para lograr el efecto, el sonido debe ser sin letra, aleatorio e irregular."
   - question: "¿Ayuda escuchar ruido blanco con auriculares en una sala de estudio?"
     answer: "Sí. Reproducir ruido blanco en una sala de estudio ayuda a aislarse. No obstante, combinarlo con cambios visuales (la amplitud de un café) es mejor para la creatividad por aportar diversidad sensorial."
+
 ---
 
 J.K. Rowling escribió Harry Potter en cafés ruidosos. Ella descubrió que el ruido blanco moderado y el bullicio ambiental le ayudaron a bloquear las distracciones internas y mantener un enfoque intenso.

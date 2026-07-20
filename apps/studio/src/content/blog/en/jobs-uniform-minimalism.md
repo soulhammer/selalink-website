@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Steve Jobs wear the exact same clothes every day?"
     answer: "He wanted to save prefrontal brain energy consumed by minor fashion choices in the morning, focusing 100% of his power on critical business and product decisions."
+
 ---
 
 Steve Jobs, the entrepreneurial genius who co-founded Apple and launched the Macintosh, iPhone, iPad, and other revolutionary devices that permanently changed mankind's digital lifestyle. Did you know that he wore the exact same black turtleneck, jeans, and sneakers every single day, not just on stage? 👕

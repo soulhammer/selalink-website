@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How can I utilize cleaning as a meditation?"
     answer: "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective."
+
 ---
 
 Sen no Rikyu, o mestre do chá que definiu a estética do Wabi-Sabi. Ao limpar o jardim, deixava cair algumas folhas para quebrar a perfeição artificial.

@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Mengapa Immanuel Kant berjalan-jalan tepat jam 15.30 setiap hari?"
     answer: "Itu adalah ritual ketat untuk menjaga ritme sirkadian tubuhnya guna mempertahankan penelitian filsafat abstrak yang tinggi selama beberapa dekade."
+
 ---
 
 Filsuf epistemologis terbesar dalam sejarah manusia dan raksasa yang meletakkan dasar bagi idealisme Jerman modern, Immanuel Kant. Setiap hari pukul 15.30, tanpa gagal, dia meninggalkan rumahnya dengan mengenakan mantel yang sama dan berjalan di sepanjang jalan yang tetap. 🚶‍♂️

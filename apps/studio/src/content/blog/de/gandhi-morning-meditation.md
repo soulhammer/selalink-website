@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Welche modernen taktilen Aktivitäten können das Spinnen ersetzen?"
     answer: "Jede rhythmische Aktivität, die Feinmotorik erfordert, ist gut geeignet. Dazu gehören das Abschreiben mit Füllfederhalter, Stricken, die Teezeremonie, das Zusammensetzen von Lego oder Puzzles oder Fingertrommeln, die die gleiche Serotoninwirkung haben."
+
 ---
 
 Mahatma Gandhi, der Vater Indiens, der Indiens Unabhängigkeit durch gewaltlosen Widerstand anführte und ein tiefes Erbe des Friedens hinterließ. Woher stammte die übermenschliche Geduld und der unerschütterliche innere Frieden dieses Friedensaktivisten? Die Antwort lag in dem besonderen Morgenritual, an dem er sein Leben lang festhielt.

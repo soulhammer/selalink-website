@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Murakami corre 10 km todos los días?"
     answer: "Para mantener la alta concentración y resistencia para escribir, estimula las células cerebrales y construye una base física sólida."
+
 ---
 
 Haruki Murakami, un gigante de la literatura japonesa moderna que genera un revuelo global con cada obra que publica. No solo es novelista, sino también un corredor apasionado que ha completado un maratón completo cada año durante más de 40 años. Cuando se convirtió en escritor a tiempo completo en 1982, experimentó una disminución de su resistencia y un aumento de peso por estar sentado escribiendo todo el día. Se dio cuenta de que para mantener las actividades creativas a largo plazo, un novelista necesita no solo talento, sino una fuerte resistencia física para mantener una alta concentración. Dejó de fumar y comenzó una rutina de correr 10 km o nadar 1.500 m cada mañana, que mantiene dondequiera que vaya. Hoy, BuildSelf analiza las razones científicas detrás de la rutina de Murakami y cómo puedes construir tu propia rutina de resistencia.

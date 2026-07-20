@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Joyce wear a white coat while writing in bed?"
     answer: "The white color of the coat reflected maximum light onto his paper, acting as a natural light enhancer for his extremely weak eyes without causing glare."
+
 ---
 
 James Joyce, one of the most influential writers of the 20th century who pioneered modernist literature with his stream of consciousness masterpiece *Ulysses*. Throughout his life, Joyce suffered from severe eye illnesses and underwent over 20 surgeries. To write in such excruciating physical conditions, he adopted an unusual habit: lying in bed, wearing a white coat, and writing with a huge blue pencil on white paper. Let's study how this physical setup reduced his cognitive load and sensory fatigue.

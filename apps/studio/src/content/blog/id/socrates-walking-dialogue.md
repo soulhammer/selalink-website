@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah berjalan di treadmill dalam ruangan memiliki efek yang sama?"
     answer: "Meskipun efek aliran darah aerobik serupa, stimulasi visual spasial dari alam luar & efek penurunan hormon stres (kortisol) dimaksimalkan saat berjalan di taman atau luar ruangan."
+
 ---
 
 Socrates, orang bijak Athena yang mendirikan akar filsafat Barat. Catatan Plato menjelaskan kebiasaan sehari-hari yang unik: berjalan tanpa henti di alun-alun atau hutan, mengajukan pertanyaan & berdebat dengan orang lain. Socrates berjalan perlahan di bawah rindangnya pepohonan Agora, bertelanjang kaki bahkan di musim dingin. Baginya, berjalan bukan sekadar kebugaran, melainkan laboratorium kebijaksanaan yang menyelaraskan gerakan fisik dengan plastisitas otaknya. Hari ini, BuildSelf membagikan kebenaran ilmiah di balik kebiasaan ini.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does walking on an indoor treadmill have the same effect?"
     answer: "While the aerobic blood flow effect is similar, the spatial visual stimulation from outdoor nature and the effect of lowering stress hormones (cortisol) are maximized when walking in parks or outdoors."
+
 ---
 
 Socrates, the sage of Athens who established the roots of Western philosophy and constantly made people reflect on their own ignorance. Numerous records left by Plato and Xenophon describe a very unique daily habit he had. It was walking endlessly in the public square or forest path, constantly asking and answering questions and debating with others. Socrates was not a man who sat in a study. He walked slowly under the shade of trees in the Agora or Academeia, barefoot even in winter. For him, a walk was not mere fitness, but a wisdom laboratory that synchronized the physical movement of his feet with his brain plasticity. He instinctively understood that the human brain operates most creatively when walking. Today, BuildSelf shares the brain-scientific principles behind Socrates' walking ritual and how to practice a 15-minute problem-solving walk to clear afternoon cognitive fatigue and draw out your best ideas.

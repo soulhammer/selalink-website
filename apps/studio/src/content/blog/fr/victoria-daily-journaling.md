@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que dois-je écrire dans le journal les jours où il ne se passe rien de spécial ?"
     answer: "Garder la régularité est plus important que de remplir des pages. Les jours calmes, décrivez simplement un moment pour lequel vous êtes reconnaissant ou l'état physique de votre corps. Le cerveau se détend grâce à la continuité du rituel, non par l'effort de rédaction."
+
 ---
 
 La reine Victoria dirigea l'Empire britannique. Pour surmonter le poids de la couronne et le deuil de son époux, elle pratiquait un rituel : tenir un journal manuscrit. Elle en rédigea 122 volumes. Voyons comment l'écriture manuelle stimule le cortex préfrontal, régulant l'amygdale pour calmer le stress.

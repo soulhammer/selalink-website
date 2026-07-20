@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Barack Obama usava apenas fatos cinzentos e azuis?"
     answer: "Para preservar a energia cognitiva necessária para as inúmeras decisões nacionais críticas que enfrentava diariamente, eliminando pequenas escolhas de vestuário ou refeição para evitar a fadiga de decisão."
+
 ---
 
 Como o 44.º presidente dos Estados Unidos, Barack Obama tinha de tomar decisões difíceis todos os dias. Durante a sua presidência, para concentrar a sua energia pré-frontal inteiramente em assuntos críticos do país, ele utilizou um segredo pessoal muito inteligente. 👔

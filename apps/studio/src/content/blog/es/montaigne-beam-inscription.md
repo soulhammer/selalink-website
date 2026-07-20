@@ -16,6 +16,7 @@ steps:
     text: "Escriba la frase en una tarjeta y péguela en un lugar alto, como el marco superior de su monitor o el techo. El objetivo es forzar una mirada hacia arriba al leerla."
   - name: "Mirar hacia arriba y reflexionar 15 segundos"
     text: "Cuando se sienta bloqueado, reclínese, levante la cabeza y lea la frase durante 15 segundos. Permita que su cerebro se desconecte del problema inmediato para calibrar la lógica desde la distancia."
+
 ---
 
 "El que no mira hacia adelante se queda atrás." Michel de Montaigne se retiró a los 38 años a la biblioteca de su torre. En las vigas de madera talló 57 máximas griegas y latinas. Sentado en su sillón, miraba estas frases para romper sus prejuicios, lo que le permitió escribir sus Ensayos.

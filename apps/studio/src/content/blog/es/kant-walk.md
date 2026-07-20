@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "¿Por qué Immanuel Kant salía a pasear exactamente a las 3:30 PM todos los días?"
     answer: "Era un ritual estricto para mantener su ritmo circadiano y sostener la investigación filosófica abstracta durante décadas, protegiendo su salud."
+
 ---
 
 El filósofo epistemológico más grande de la historia de la humanidad y el gigante que sentó las bases del idealismo alemán moderno, Immanuel Kant. Todos los días a las 3:30 PM, sin falta, salía de su casa con el mismo abrigo y caminaba por un sendero fijo. 🚶‍♂️

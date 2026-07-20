@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Se puede registrar también el estudio de planificación creativa cualitativa con métricas cuantitativas como el recuento de palabras o las horas?"
     answer: "Para la planificación creativa, en lugar del recuento de palabras, puede aplicar el feedback de manera efectiva definiendo sus propias unidades de producción valiosas, como 'número de ideas clave generadas', 'número de referencias recopiladas' o 'número de pasos detallados del esquema creados'."
+
 ---
 
 B. F. Skinner, el genial psicólogo estadounidense que estableció el paradigma del conductismo, afirmando que el libre albedrío humano es producto del condicionamiento de la conducta. Como científico que estudió los mecanismos para cambiar el comportamiento de los demás, ¿cómo gestionaba su propia productividad creativa? 📈

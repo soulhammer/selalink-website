@@ -21,6 +21,7 @@ faqs:
     answer: "Ya. Namun, atur ponsel Anda ke Jangan Ganggu untuk menghindari notifikasi, atau tempatkan widget di layar beranda untuk meminimalkan keterlambatan input."
   - question: "Bagaimana dengan merekam audio dan mentranskripsikannya nanti?"
     answer: "Perekaman audio membantu menangkap detail tetapi menyebabkan kelelahan memori kerja selama transkripsi. Mencatat kata kunci mentah selama acara jauh lebih baik untuk pemetaan semantik."
+
 ---
 
 Margaret Mead, antropolog budaya terkenal di dunia yang menggeser paradigma antropologi abad ke-20, tinggal bertahun-tahun di daerah terpencil seperti Samoa. Alasan mengapa tulisan-tulisan Mead diakui keakuratannya yang luar biasa bahkan 100 tahun kemudian adalah formula pencatatan uniknya. Saat mengamati sesuatu, Mead tidak pernah menunda bahkan selama satu jam, mengeluarkan buku catatan mini untuk menulis.

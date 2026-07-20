@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, menyempitkan fokus kognitif dan masuk ke konsentrasi matematika rumit menggunakan irama energik bercampur kebisingan."
   - question: "Bagaimana cara menggantinya jika saya tidak memiliki gramofon penghasil bising?"
     answer: "Anda dapat menggantinya dengan memutar derau putih bertempo cepat, suara lingkungan mekanis, atau musik berirama cepat via fon telinga."
+
 ---
 
 John von Neumann, orang paling cerdas dalam sejarah manusia dan ahli matematika jenius dari Hongaria yang seorang diri merancang dasar-dasar studi manusia modern (teori permainan, arsitektur Neumann) di segala bidang termasuk matematika, ilmu komputer, ekonomi, dan mekanika kuantum. Dia mampu memperoleh rumus matematika yang rumit dan rumus arsitektur komputer tanpa kesulitan bahkan saat duduk di sudut pesta dengan musik keras diputar atau di bangku di ruang tunggu yang bising di mana kereta berguncang dan uap mengeluarkan uap. Tidak peduli seberapa berisik lingkungannya, dia mengisolasi sumber daya kognitifnya hanya pada papan tulis virtual yang dibangun di kepalanya. Rutinitas isolasi dan perendaman dalam white noise inilah yang menjadikannya ahli matematika jenius terhebat dalam sejarah.

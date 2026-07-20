@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, pekerjaan fisik seperti menyentuh tanah dan mencabut gulma mengistirahatkan korteks prefrontal yang lelah akibat fokus mental."
   - question: "Bagaimana cara menggantinya jika saya tidak memiliki kebun atau tanah?"
     answer: "Merawat tanaman hias kecil di balkon, mengganti pot, atau memotong daun kering adalah alternatif pengganti yang bagus."
+
 ---
 
 Hermann Hesse, seorang novelis dan penyair yang mengeksplorasi realisasi diri manusia dan pengembaraan jiwa melalui meditasi analog sebagai tukang kebun Swiss, dan pemenang Hadiah Nobel Sastra untuk mahakarya seperti “Demian” dan “Under the Wheel.” Dia tinggal di taman pedesaannya dan melakukan pekerjaan analogi tukang kebun, yaitu mengolah tanah, mencabut rumput liar, dan memotong atau menggergaji cabang-cabang yang mati setiap hari. Sambil rajin menggerakkan badannya, ia memusatkan seluruh perhatiannya pada suara burung di hutan, suara angin, dan bau kelembapan tanah. Rutinitas meditasi analog alami ini merupakan sumber stabilitas dan penyembuhan bagi jiwanya, yang menderita gangguan saraf parah.

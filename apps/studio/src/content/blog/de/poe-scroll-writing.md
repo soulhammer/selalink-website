@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, einige Originalmanuskripte (wie Kritiken oder Kurzgeschichten) sind in Form der von ihm zusammengeklebten Rollen in Museen wie der Free Library of Philadelphia erhalten."
   - question: "Gibt es Programme, die das ständige Korrigieren am Bildschirm verhindern?"
     answer: "Ja, Schreib-Apps wie 'The Most Dangerous Writing App' (die den Text löscht, wenn man aufhört zu tippen) oder Editoren mit Schreibmaschinenmodus verhindern das Zurückspringen effektiv."
+
 ---
 
 Edgar Allan Poe, der Wegbereiter der Schauerliteratur und Begründer der Detektivgeschichte mit 'Der Rabe' und 'Die schwarze Katze'. Auf welchem Material entstanden seine Meisterwerke, die menschliche Abgründe und logische Rätsel verbinden? 📜

@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Mengapa Demosthenes mencukur setengah kepalanya?"
     answer: "Dengan membuat penampilannya konyol, ia mencegah dirinya pergi ke luar, memaksa dirinya mengatasi godaan dan tetap berlatih."
+
 ---
 
 Seorang pria yang mengatasi gagap bawaan, fisik yang lemah, dan keterbatasan fisik berupa napas pendek yang membuatnya tidak bisa berbicara dalam waktu lama, menjadi negarawan terbesar Athena kuno dan orator terhebat dalam sejarah Yunani. Pria itu adalah Demosthenes. 🏛️

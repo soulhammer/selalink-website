@@ -21,6 +21,7 @@ faqs:
     answer: "L'écoute est passive. Elle empêche la 'Récupération Active'. Pendant la marche, garder les oreilles libres et retravailler les informations lues est plus efficace."
   - question: "La vitesse de marche influence-t-elle la stimulation cérébrale ?"
     answer: "Oui. Une allure rythmée (4 à 5 km/h) sans essoufflement est idéale. Ce niveau d'aérobie léger optimise le BDNF. Courir trop vite détourne les ressources cognitives vers le physique."
+
 ---
 
 John Stuart Mill a écrit De la liberté. Comment a-t-il développé cette immense capacité cognitive ? 🚶

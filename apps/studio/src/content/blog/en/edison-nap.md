@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Why did Edison hold steel balls in his hands during naps?"
     answer: "The moment he fell asleep and his muscles relaxed, the sound of dropping balls woke him up, allowing him to record ideas from the boundary of sleep and waking (hypnagogia) immediately."
+
 ---
 
 Thomas Edison, the king of invention who registered more than 1,000 patents that changed the historical paradigm of daily human life, including the incandescent light bulb, the phonograph, and the motion picture camera. Do you know the very famous and unique nap ritual he used when he hit a high-level intellectual challenge or a wall of ideas? 💤

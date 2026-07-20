@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah memakai sepatu (seperti sepatu rumah atau pantofel) di dalam ruangan membantu fokus?"
     answer: "Ya, ini memberikan isyarat sensorik yang kuat. Kekerasan sepatu pada telapak kaki memberi sinyal ke korteks somatosensorik bahwa tubuh sedang aktif. Ini menekan keinginan untuk bermalas-malasan di sofa."
+
 ---
 
 René Magritte, maestro surealis Belgia yang menantang persepsi dengan 'Ini bukan pipa.' Kontras dengan seninya yang aneh, gaya hidup hariannya sangat teratur. Berbeda dengan pelukis yang bekerja di studio berantakan, Magritte mengenakan setelan jas rapi dan topi bowler setiap pagi, melukis di ruang tamu. Kami menganalisis cara pakaian membantu fokus.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿No debería escuchar música durante la caminata?"
     answer: "La música o la información verbal estimulan al cerebro para analizarlas, lo que dificulta la activación de la DMN. Para un descanso cerebral completo y creatividad, se recomienda concentrarse en los sonidos naturales sin auriculares."
+
 ---
 
 Charles Dickens, considerado el más grande novelista de la era victoriana con obras maestras como 'Oliver Twist', 'Grandes Esperanzas' y 'Un Cuento de Navidad'. ¿Sabes dónde nacieron los cientos de personajes encantadores y tramas intrincadas de sus novelas? El secreto reside en su rutina de 'caminar 3 horas' cada tarde. Después de escribir de 9 AM a 2 PM, Dickens salía al exterior. Caminaba unas 10-12 millas (16-19 km) a paso rápido durante exactamente tres horas. Caminando por los callejones de Londres o los senderos de Kent, organizaba los diálogos y personajes. Hoy, BuildSelf comparte los principios neurocientíficos de la rutina de Dickens.

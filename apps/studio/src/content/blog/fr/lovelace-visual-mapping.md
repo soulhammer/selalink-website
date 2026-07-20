@@ -21,6 +21,7 @@ faqs:
     answer: "While mind mapping centers on the association of words expanding in all directions, Lovelace's visual mapping is a process of designing the 'structural principles of operational mechanisms' such as sequence, control flow (loops and conditions), and interactions in a system."
   - question: "Dois-je utiliser des outils logiciels complexes (UML, Figma, etc.) ?"
     answer: "No. Rather than wasting the brain's cognitive resources learning software, picking up a pen and paper to draw by hand is far more effective in activating the brain's dual-coding. A raw whiteboard scribble is the best tool."
+
 ---
 
 Ada Lovelace traduisait les concepts mathématiques abstraits en diagrammes visuels. Cette méthode lui a permis de concevoir le premier algorithme au monde.

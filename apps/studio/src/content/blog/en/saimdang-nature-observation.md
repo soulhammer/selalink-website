@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What is the scientific principle behind nature observation relieving brain stress?"
     answer: "Instead of the 'directed attention' used for screens, natural elements trigger a state of 'soft fascination,' resetting the prefrontal lobe's drained cognitive energy."
+
 ---
 
 Shin Saimdang, the outstanding female artist of Joseon and mother of Yulgok Yi I, left landscape and insect-flower paintings (Chochungdo) praised for delicate lines and colors. Saimdang's secret to creative depth was her daily habit of stepping into the garden to observe grass and insects. 🌿

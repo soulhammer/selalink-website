@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah menulis pemanasan ini tetap efektif untuk pekerjaan desain atau pemrograman?"
     answer: "Sangat efektif. Meskipun pekerjaan Anda tidak melibatkan tulisan, hambatan mental untuk memulai pekerjaan berasal dari area otak yang sama (amigdala). Menulis jurnal atau mencoret-coret kertas sebelum mulai mendesain/ngoding membangun penyangga kognitif."
+
 ---
 
 Penulis peraih Nobel kesusastraan John Steinbeck, pencipta karya legendaris seperti The Grapes of Wrath. Bahkan sebagai maestro dunia, ia kerap kali lumpuh karena ketakutan saat menatap kertas kosong setiap pagi. Untuk mengatasi blokade menulis ini, ia merancang ritual pemanasan: menulis surat santai kepada sahabat sekaligus editornya Pascal Covici tentang cuaca atau rasa lelahnya. Pelajari bagaimana menulis tanpa beban membebaskan otak dari belenggu perfeksionisme.

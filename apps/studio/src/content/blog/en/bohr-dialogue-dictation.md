@@ -21,6 +21,7 @@ faqs:
     answer: "You can turn on a smartphone voice recorder or AI memo app and talk out loud as if explaining to someone. What matters is not the presence of a listener, but the neural process of externalizing thoughts into spoken language."
   - question: "How do I connect the spoken contents into productive outcomes?"
     answer: "You can briefly write down insights on a notepad while speaking, or save the STT (Speech-to-Text) conversion logs to organize into key idea nodes later."
+
 ---
 
 Niels Bohr established quantum mechanics, the greatest pillar of modern physics, and won the Nobel Prize. Although Bohr had some of the greatest scientific intuition in history, he paradoxically struggled with sitting quietly at his desk to write papers or compile complex ideas. Bohr had a unique ritual to bring ideas to life. He stood before a blackboard with his wife Margrethe or students like Heisenberg and Dirac, explaining concepts out loud or engaging in intense debates while having them write down his words. We dissect the principles of Bohr's conversational dictation.

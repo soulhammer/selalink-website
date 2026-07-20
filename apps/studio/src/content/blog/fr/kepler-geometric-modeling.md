@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Quel type de maquette géométrique Kepler a-t-il sculpté ?"
     answer: "Il a sculpté un modèle emboîté des cinq solides de Platon (octaèdre, icosaèdre, dodécaèdre, tétraèdre, cube) pour représenter les orbites des planètes."
+
 ---
 
 Johannes Kepler, le célèbre astronome et mathématicien qui a découvert les lois du mouvement des planètes. À une époque sans ordinateurs, Kepler traitait des montagnes de calculs. Face à un obstacle, il sculptait des modèles géométriques 3D du cosmos. En touchant les proportions réelles, il trouvait des solutions. Découvrez les bienfaits de la manipulation haptique.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wie verhindere ich, dass ich zu nachsichtig bin oder meine Noten fälsche?"
     answer: "Deshalb müssen Sie konkrete, numerische Bewertungskriterien festlegen. Basiere die Noten nicht auf Gefühlen wie „Ich fühlte mich heute produktiv“. Basiere sie auf messbaren Fakten wie „Hat mein aktiver Timer tatsächlich 3 Stunden konzentrierte Arbeit erfasst?“. Die Kombination klarer Kriterien mit analytischen Daten blockiert die Rationalisierungsschleifen des Gehirns und führt zur Konfrontation mit der objektiven Realität."
+
 ---
 
 Joseph Schumpeter, der österreichische Ökonom, der Innovation und ‚schöpferische Zerstörung‘ definierte. Um seine intensive Forschungs- und Schreibarbeit aufrechtzuerhalten, pflegte er eine kühle, systematische Gewohnheit der Selbstreflexion. Jeden Abend öffnete er sein Tagebuch, um die Stunden zu protokollieren, die er der Forschung, dem Lesen und Schreiben gewidmet hatte, und bewertete seine Leistung von A bis F. Wir untersuchen die neurowissenschaftlichen Auswirkungen dieser täglichen Bewertungsroutine auf die Exekutivfunktionen und die Selbstregulation.

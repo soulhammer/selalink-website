@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Existe alguma razão para usar cadernos analógicos de papel na era digital?"
     answer: "Sim. A digitação oferece menos estímulo tátil e ativa menos o córtex cerebral do que a escrita manual, que ativa o hipocampo. Além disso, permite desenhar esquemas e símbolos com liberdade, sem as travas da escrita digital."
+
 ---
 
 Isaac Newton, o maior cientista da história, descobriu a lei da gravitação universal, fundou o cálculo e lançou as bases da física moderna. Como pôde organizar na cabeça um sistema de conhecimento tão vasto que abrangia física, matemática, alquimia e teologia? O segredo estava no rigoroso 'hábito de escrever' que manteve desde a juventude.

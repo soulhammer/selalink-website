@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué debo escribir en el diario los días en los que no pasa nada especial?"
     answer: "Mantener la constancia es más importante que llenar páginas. En días tranquilos, escriba sobre un detalle por el que esté agradecido o describa cómo se siente físicamente. El cerebro se relaja con la continuidad del ritual diario, no con el esfuerzo de redactar un ensayo largo."
+
 ---
 
 La reina Victoria rigió el Imperio británico. Para sobrellevar la inmensa carga del trono y la pérdida de su esposo Albert, realizaba un ritual de sanación: escribir a mano un diario personal. Redactó 122 tomos. Analicemos cómo la escritura analógica estimula las áreas motoras y el córtex prefrontal, regulando la actividad de la amígdala para desactivar las respuestas del estrés.

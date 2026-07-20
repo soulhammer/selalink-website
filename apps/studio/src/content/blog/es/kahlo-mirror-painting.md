@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué debo hacer si mirarme al espejo me estresa porque solo veo defectos o arrugas en mi rostro?"
     answer: "Este es un fenómeno muy natural. Al principio, el instinto de evaluar la apariencia opera con fuerza. En ese momento, intente enfocar y mirar solo a su 'pupila' en lugar de a todo el rostro. Ayuda fijar la mirada con la sensación de estar haciendo contacto visual con su existencia misma."
+
 ---
 
 Frida Kahlo, la legendaria pintora mexicana, soportó un dolor físico extremo debido a la polio y a un horrible accidente de autobús que destrozó sus huesos y la llevó a más de 30 cirugías. En una situación desesperada en la que estaba postrada en cama, lo que salvó su alma y la convirtió en una pintora de clase mundial fue un único 'espejo' que la reflejaba todos los días.

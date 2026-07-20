@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apa prinsip ilmiah di balik kaligrafi yang membantu meredakan stres?"
     answer: "Mengontrol gerakan halus ujung kuas memusatkan aktivitas korteks somatosensorik, memblokir sinyal kecemasan dari amigdala."
+
 ---
 
 Kim Gu, yang menjabat sebagai pemimpin Pemerintahan Sementara Republik Korea, hidup di bawah ancaman penangkapan dan ketakutan akan pembunuhan. Di tengah stres tinggi ini, ia mempertahankan latihan spiritual: kaligrafi. 🖌

@@ -21,6 +21,7 @@ faqs:
     answer: "A veces es difícil desconectarse 3 horas. Puede dividirlo en bloques de 90 minutos por la mañana y por la tarde para lograr un efecto similar."
   - question: "¿Puedo hacer tareas ligeras por la tarde tras las 3 horas de enfoque?"
     answer: "Sí. Tras el deep work, se aconseja realizar tareas sencillas de oficina o correos que no requieran gran esfuerzo mental para proteger el lóbulo frontal."
+
 ---
 
 Bertrand Russell limitaba su trabajo intelectual intenso a exactamente 3 horas al día. Este límite estricto de tiempo previno el agotamiento cognitivo y le permitió mantener una alta producción intelectual durante toda su vida.

@@ -21,6 +21,7 @@ faqs:
     answer: "A multitarefa dispersa a atenção ao mesmo tempo, como digitar e-mails enquanto atende chamadas. O ditado simultâneo usa um foco 'monotarefa sequencial': foca 100% em um escrivão por vez e depois muda."
   - question: "Posso praticar este método digitando em vez de ditar?"
     answer: "Digitar é mais lento que a velocidade cognitiva, o que cria gargalos. É melhor usar o ditado por voz para registrar as ideias de forma fluida e editá-las depois para não sobrecarregar a mente."
+
 ---
 
 Júlio César, líder militar e político romano, viajava sempre acompanhado de 3 ou 4 secretários. Ele ditava mensagens de temas totalmente distintos ao mesmo tempo, alternando as frases entre eles. Essa velocidade era a base de sua gestão.

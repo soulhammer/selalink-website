@@ -21,6 +21,7 @@ faqs:
     answer: "L'activation de la métacognition ne repose pas sur le 'succès' mais sur un 'suivi précis'. Affronter et écrire honnêtement les mauvais résultats dissipe les illusions cognitives et aide à préparer demain."
   - question: "Puis-je gérer toutes mes mesures uniquement avec Notion ou Excel ?"
     answer: "Les outils numériques affichent des alertes de réseaux ou de courriels. Écrire à la main avec du papier et un stylo garantit un niveau de concentration bien plus élevé pour purifier l'esprit."
+
 ---
 
 George Washington, premier président des États-Unis, subissait une grande pression. Son rituel était de se lever à 4h00 pour patrouiller son domaine. De retour, il notait le climat et les récoltes dans un journal. Cette prise de décision basée sur les chiffres a structuré son administration.

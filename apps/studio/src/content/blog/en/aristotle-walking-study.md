@@ -21,6 +21,7 @@ faqs:
     answer: "Outdoor walking is highly recommended. The visual flow of moving through a physical landscape triggers 'optic flow,' which calms the amygdala, reduces anxiety, and enhances open-ended creativity much more effectively than staring at a static wall on a treadmill."
   - question: "How long should I walk for best results?"
     answer: "20 to 30 minutes is ideal. Walking for this duration provides sufficient aerobic benefits to increase blood flow and trigger BDNF production, without causing physical fatigue that might exhaust the energy needed for deep analytical thinking."
+
 ---
 
 "Logic and truth are found not in sitting still, but in active steps." Aristotle founded the Lyceum in Athens and spent his days walking along the tree-lined paths (Peripatos) with his disciples, discussing philosophy and science. This active approach to learning led to the term 'Peripatetics' (those who walk). Walking was not just a way to travel, but a tool to unlock deep, logical thinking.

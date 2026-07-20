@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Est-il vraiment utile de s'habiller proprement pour le télétravail ?"
     answer: "Oui, c'est prouvé par la psychologie cognitive. Les télétravailleurs en tenue correcte font moins d'erreurs et commencent à travailler plus vite que ceux en pyjama. Changer de tenue est le moyen le plus simple pour aider le cerveau à distinguer le contexte professionnel du cadre privé."
+
 ---
 
 Nicolas Machiavel, l'auteur du Prince. Banni des affaires publiques après la chute de la république, il fut contraint à l'exil dans sa ferme. Pourtant, il ne se laissa pas aller. Au crépuscule, il retirait ses habits crottés pour revêtir ses habits de cour et entrer dans sa bibliothèque. Il pensait que pour dialoguer avec les penseurs du passé, il fallait se présenter avec dignité. Voyons comment la tenue modifie la réactivité du cerveau.

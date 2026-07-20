@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum alle drei Jahre das Thema wechseln?"
     answer: "Weil ein Dreijahreszyklus geeignet ist, ein einzelnes Thema zu meistern und die Neuroplastizität des Gehirns optimal zu stimulieren, was ein konvergentes Denken über verschiedene Disziplinen hinweg ermöglicht."
+
 ---
 
 Peter Drucker, der Gelehrte, der die Grundlagen des modernen Managements legte und den Horizont des Geschäftslebens aufzeigte. Wie bewahrte er sich bis in seine späten 90er Jahre einen klaren Geist und einen scharfen Verstand wie ein junger Mann? Das Geheimnis lag in seiner einzigartigen intellektuellen Routine, dem dreijährigen Lernzyklus.

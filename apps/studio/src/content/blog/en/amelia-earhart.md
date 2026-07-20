@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, it works right away. When impatience occurs, the brain overactivates the amygdala. At this time, if you coldly write down physical figures such as the number of remaining messenger notifications and deadline minutes on a blank sheet of paper, the brain's cognitive control network operates top-down to stabilize your emotions."
   - question: "What values ​​are most recommended to specify as flight instrument panel variables?"
     answer: "It is wisest to set the three major indicators centered on 'variables completely under my control' (e.g., number of reports to read, number of calls to make, time to focus) that I can complete today."
+
 ---
 
 Amelia Earhart, a legendary American aviator and aviation pioneer who became the first woman to successfully fly solo across the Atlantic Ocean, spreading the adventurous spirit of challenging the impossible to people around the world, and breaking down social limitations for women. She sat in the narrow, shaky cockpit of the plane and meticulously observed minute-by-minute changes in the compass, altimeter readings, and decibel changes in engine sounds, writing them down in her pilot's notebook. Even in extreme crisis situations where we could experience a typhoon or engine failure at any moment, we held our trembling hands and focused only on the factual information on the instrument panel scale. This habit of thoroughly analyzing and recording analog instruments was the secret to successfully becoming the first woman to fly transatlantic.

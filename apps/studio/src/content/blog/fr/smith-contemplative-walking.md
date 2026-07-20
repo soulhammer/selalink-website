@@ -21,6 +21,7 @@ faqs:
     answer: "Il n'est pas nécessaire de marcher 15 milles comme Smith. La durée cliniquement recommandée pour l'activation du DMN est de 20 à 40 minutes. Plus que la distance, c'est le maintien de la concentration qui importe."
   - question: "Puis-je marcher sur un tapis roulant intérieur lorsqu'il est difficile de sortir ?"
     answer: "Oui, mais il est crucial de ne pas regarder les écrans de smartphone ou de télévision pendant que vous êtes sur le tapis roulant. Gardez les yeux sur un point blanc sur le mur pour vous concentrer sur la marche."
+
 ---
 
 Adam Smith, le philosophe qui a établi les fondements de l'économie moderne et la « main invisible » du marché libre, avait une habitude unique. Pour structurer des idées complexes, Smith marchait sans but dans des jardins ou sur des sentiers calmes. Un matin, si profondément absorbé par ses pensées, il a marché 15 milles (environ 24 km) jusqu'à une ville voisine, oubliant qu'il était en chemise de nuit. Ce n'est qu'après avoir entendu les cloches de l'église qu'il a repris ses esprits.

@@ -21,6 +21,7 @@ faqs:
     answer: "Kaca jendela tertutup menghalangi hingga 80% gelombang cahaya biru yang dibutuhkan untuk merangsang ipRGCs. Membuka jendela lebar-lebar sangat penting agar cahaya langsung mencapai retina Anda untuk menghentikan melatonin."
   - question: "Apakah rutinitas ini tetap efektif pada pagi hari yang mendung atau hujan?"
     answer: "Ya, bahkan pada hari mendung atau hujan, cahaya alami yang menembus awan tetap 10 kali lebih terang daripada lampu ruangan. Gelombang cahaya alami tetap ada dan cukup untuk merangsang sel retina."
+
 ---
 
 Claude Monet bangun sebelum fajar untuk melukis pemandangan yang sama di bawah sinar matahari pagi. Kebiasaan visual ini menajamkan sensitivitasnya terhadap warna.

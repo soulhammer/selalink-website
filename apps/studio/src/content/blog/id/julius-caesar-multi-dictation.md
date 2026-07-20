@@ -21,6 +21,7 @@ faqs:
     answer: "Multitasking umum membubarkan perhatian pada beberapa tugas secara pyramids, seperti mengirim pesan sambil menulis surel. Sebaliknya, dikte simultan memiliki struktur 'fokus tunggal berurutan,' di mana Anda fokus penuh pada satu juru tulis saja, lalu beralih secara terencana."
   - question: "Bolehkah saya mempraktikkan metode ini dengan mengetik alih-alih mendikte?"
     answer: "Karena kecepatan mengetik lebih lambat dari kecepatan kognitif dalam mengembangkan pikiran, penyumbatan aliran pikir mudah terjadi. Disarankan menggunakan alat memo pengenal suara untuk menumpahkan draf lalu menyuntingnya nanti."
+
 ---
 
 Julius Caesar, panglima besar Romawi, memiliki rahasia menghemat waktu yang luar biasa. Saat bepergian, ia membawa 3 atau 4 juru tulis dan mendiktekan surat serta perintah perang secara bergantian. Metode ini adalah kunci efisiensinya.

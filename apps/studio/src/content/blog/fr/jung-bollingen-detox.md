@@ -21,6 +21,7 @@ faqs:
     answer: "Non. L'essentiel est de bloquer physiquement les stimuli et de se concentrer sur l'analogique. Vous pouvez définir une zone sans téléphone chez vous pendant 30 à 60 minutes."
   - question: "Pourquoi les tâches ménagères simples aident-elles à la contemplation ?"
     answer: "Les tâches simples sans réflexion minimisent la charge cognitive et détendent le cerveau. Dans cet état, le cerveau réduit la censure dans le lobe frontal et favorise les connexions inconscientes."
+
 ---
 
 Carl Jung, le psychiatre de renommée mondiale qui a cartographié l'inconscient humain et proposé les concepts d'inconscient collectif et de complexes. Où sa force créatrice, qui a conseillé d'innombrables patients et rédigé de vastes études, s'est-elle reconstituée ? 🪵

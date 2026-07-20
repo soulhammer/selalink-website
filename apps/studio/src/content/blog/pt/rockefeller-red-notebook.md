@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, ligar o celular expõe o cérebro a ruídos digitais, dispersando o foco. Escrever à mão gera atrito tátil que fixa dados no córtex, aumentando a percepção de autocontrole em mais do dobro, sendo superior para regular o comportamento."
   - question: "Eu preciso registrar detalhes tão pequenos como 1 centavo ou 1 minuto?"
     answer: "O objetivo não é o valor em si, mas treinar o cérebro para a autorregulação. Registrar pequenas perdas de tempo ou dinheiro fortalece o lobo frontal, criando um circuito que suprime impulsos em grandes decisões."
+
 ---
 
 John D. Rockefeller, o lendário empresário que fundou a Standard Oil e acumulou a maior riqueza privada da história. De onde vinha seu planejamento rigoroso? 📕

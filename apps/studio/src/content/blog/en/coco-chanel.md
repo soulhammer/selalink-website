@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, establishing a clear boundary between work and rest through an isolation ritual, smelling scents completely alone after work."
   - question: "How can I substitute if I don't have aroma perfumes or a hotel room?"
     answer: "You can achieve the same effect by turning off your smartphone for 15 minutes in a tidy corner of your home while smelling a simple diffuser or multi-balm."
+
 ---
 
 Coco Chanel is a French fashion designer who led a revolution in fashion design in the 20th century and liberated women from the oppression of corsets, and the founder of the Chanel brand. Coco Chanel presented the essential freedom of women's clothing through black and simple beauty (Simple is best). Standing in her studio, she walked through the fabric directly over the model's body, and with only a pair of scissors in hand, she mercilessly cut away the cumbersome and heavy corsets, massive collars, and unnecessary lace of the 19th century. Instead of erasing lines with a pen, she felt the tension of the fabric and cut them out, creating a minimalist simplification that allowed women to move around freely and exercise their body awareness.

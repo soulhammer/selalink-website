@@ -21,6 +21,7 @@ faqs:
     answer: "Non. La marche seule stimule déjà la créativité de 60 % en augmentant l'afflux d'oxygène. Si vous êtes seul, simulez la métacognition en vous expliquant l'idée à voix haute ou en imaginant les questions d'un critique."
   - question: "La critique ne risque-t-elle pas de décourager le créateur ?"
     answer: "C'est un piège cognitif classique. Si le cerveau perçoit la critique comme une attaque personnelle, il se défend et la motivation baisse. Séparez votre ego de votre œuvre. Voyez la critique comme une donnée neutre pour l'améliorer."
+
 ---
 
 Charlotte Brontë, l'auteure de 'Jane Eyre', le roman qui a bouleversé la littérature anglaise du XIXe siècle. Elle a vécu isolée et pauvre dans le presbytère de Haworth avec ses sœurs Emily et Anne. Sans stimulation intellectuelle ni échanges avec l'extérieur, comment ont-elles pu publier simultanément des chefs-d'œuvre comme 'Jane Eyre' et 'Les Hauts de Hurlevent' ?

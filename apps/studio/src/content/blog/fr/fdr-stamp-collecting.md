@@ -21,6 +21,7 @@ faqs:
     answer: "Non. La lumière bleue et les flux d'informations des écrans maintiennent le cerveau éveillé au lieu de le reposer, bloquant la mélatonine. Pour la relaxation cognitive, vous devez utiliser des outils analogiques."
   - question: "Que faire si 30 minutes chaque soir me semblent trop longues ?"
     answer: "Si le temps manque, 10 minutes suffisent. Fermer l'ordinateur et griffonner ou écrire un court journal analogique aide en envoyant un signal clair que la journée est finie."
+
 ---
 
 Franklin D. Roosevelt, président des États-Unis pendant la Seconde Guerre Mondiale, souffrait de polio et de grand stress. Son rituel était de trier des timbres avant de dormir. Cette routine libérait son cerveau du bruit de la guerre.

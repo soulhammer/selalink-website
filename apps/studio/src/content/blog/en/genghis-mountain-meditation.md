@@ -21,6 +21,7 @@ faqs:
     answer: "Opening the window and looking at the farthest outside scenery from your room or office for more than 30 seconds is sufficient. The core is switching the narrow tunnel vision to a broad peripheral vision to turn off the brain's threat response circuits."
   - question: "Images are not drawn concretely when visualizing."
     answer: "You don't need to recall a perfect video. Just the combination of the positive 'feeling' of achieving the goal, clear surrounding sounds, and simple words (e.g., the achievement of 'I solved it in the end') is enough to activate the corresponding brain cortex. Project sensory cues comfortably into your head."
+
 ---
 
 Genghis Khan, the legendary strategist who united clashing nomadic tribes and built the largest contiguous empire in human history. Under constant threats, betrayals, and massive enemy confrontations, where did he draw the bold willpower and precise planning to stay unshaken? Whenever he faced critical decisions, he climbed 'Burkhan Khaldun', the sacred mountain of the Mongols, all by himself. Praying and conceptualizing the big picture for three days at the peak was his mental routine to gain strategic breakthroughs. Today, BuildSelf introduces the neurological benefits and modern implementation of Genghis Khan's 'mountain visualization' routine.

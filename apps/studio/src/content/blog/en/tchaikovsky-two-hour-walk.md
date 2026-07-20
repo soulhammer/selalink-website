@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Why did Tchaikovsky strictly observe a 2-hour walk?"
     answer: "It started as a superstitious obsession, but 2 hours of walking increased brain blood flow and relaxed nerves, bringing musical inspiration."
+
 ---
 
 Pyotr Ilyich Tchaikovsky, the legendary composer who elevated Russian romantic music to a world-class level with masterpieces like 'Swan Lake,' 'The Nutcracker,' and the 'Pathétique Symphony.' He maintained an incredibly strict schedule, separating his composing sessions into morning and afternoon. Especially, he went out for a walk for exactly two hours every single afternoon. He believed so strongly in this routine that he feared cutting it short by even a few minutes would cause physical illness or exhaust his musical inspiration. The musical themes that came to him during these walks were immediately written down in a small notebook he always carried in his pocket. Today, BuildSelf shares how a daily walk can spark your creative thoughts.

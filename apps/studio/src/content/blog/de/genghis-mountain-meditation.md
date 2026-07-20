@@ -21,6 +21,7 @@ faqs:
     answer: "Öffnen Sie das Fenster und blicken Sie für mindestens 30 Sekunden auf den entferntesten Punkt. Das Umschalten des Blickfeldes baut die Bedrohungsreaktion des Gehirns ab."
   - question: "Ich habe Schwierigkeiten, mir Bilder konkret vorzustellen."
     answer: "Sie müssen sich kein perfektes Video vorstellen. Es reicht aus, das 'Gefühl' des Erfolgs, Geräusche und Worte des Erfolgs abzurufen. Dies aktiviert dieselben Areale. Fügen Sie sensorische Details nach und nach hinzu."
+
 ---
 
 Dschingis Khan, der Begründer des größten zusammenhängenden Reiches der Geschichte. Wie bewahrte er den Willen und die strategische Klarheit inmitten von Bedrohungen? Vor wichtigen Entscheidungen stieg er allein auf den 'Burkhan Khaldun', den heiligen Berg. Das dreitägige Meditieren auf dem Gipfel war seine Routine für strategische Durchbrüche. Heute stellt BuildSelf die neurologischen Vorteile und die Umsetzung von Dschingis Khans 'Berg-Visualisierung' vor.

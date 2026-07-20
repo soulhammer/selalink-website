@@ -21,6 +21,7 @@ faqs:
     answer: "Closed window glass blocks up to 80% of blue and UV wavelengths required to stimulate ipRGCs. Opening the window completely is crucial to ensure direct light waves reach your retina for proper melatonin suppression and cognitive awakening."
   - question: "Is this routine effective even on cloudy or rainy mornings?"
     answer: "Yes, even on cloudy or rainy days, natural light penetrating the clouds is still over 10 times brighter than typical indoor artificial lighting. The atmospheric blue wavelengths are still present, which is sufficient to stimulate retinal cells and calibrate your circadian rhythm."
+
 ---
 
 Claude Monet, the pioneer of Impressionism who captured the subtle texture of light and atmosphere on canvas. How did he maintain his exceptional color perception? 🎨

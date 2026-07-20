@@ -21,6 +21,7 @@ faqs:
     answer: "En lugar de mirar fijamente al objetivo, entrénate para desviar la mirada de forma natural usando gafas de sol o sosteniendo una taza de café, y utiliza el enfoque amplio de tu visión periférica para seguir suavemente solo el trazo de la silueta."
   - question: "¿La mímica física realmente mejora significativamente la comprensión emocional del cerebro?"
     answer: "Sí, según la neurociencia, cuando se replican los movimientos físicos de los músculos del cuerpo (postura, ritmo), el sistema de neuronas espejo se sincroniza y el sistema límbico cerebral decodifica con precisión indicadores emocionales como la ansiedad, la tensión y la fatiga de la otra persona en un nivel un 70% mayor."
+
 ---
 
 Charlie Chaplin, un inmortal actor cómico británico y genio director de cine que dominó la era del cine mudo, creó un personaje errante atemporal con bigote, sombrero de fieltro y pantalones holgados, y lanzó agudas críticas sociales y humor a través de la risa. Mantuvo su larga costumbre de pararse en las esquinas concurridas de Londres y Nueva York. Observó de cerca las peculiaridades del balanceo de las caderas, el ritmo cojo de las zancadas y la inclinación de la cabeza de los extraños que pasaban con el cuello levantado. Tan pronto como el transeúnte se alejó, imitó el ritmo de caminata del personaje con su cuerpo y recogió la retroalimentación emocional interna proporcionada por el cuerpo, lo que llevó a la finalización del personaje de El Vagabundo.

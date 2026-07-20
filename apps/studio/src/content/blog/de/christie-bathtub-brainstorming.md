@@ -21,6 +21,7 @@ faqs:
     answer: "Warme Bäder entspannen die Muskeln und stabilisieren die Herzfrequenz. Das Kauen von knackigen Äpfeln und deren Duft aktiviert Gesichtsnerven und Kiefermuskeln, was eine ruhige Wachsamkeit bewirkt."
   - question: "Welche Entspannungsmethoden kann ich ohne Badewanne nutzen?"
     answer: "Sie können ein warmes Fußbad nehmen oder heißen Tee trinken, um die Körpertemperatur zu erhöhen. Sensorische Entspannung aktiviert das Default-Mode-Netzwerk."
+
 ---
 
 Agatha Christie, die Schöpferin von Hercule Poirot und Miss Marple sowie die meistverkaufte Romanautorin der Geschichte. Wie entstanden ihre komplizierten Plots? Anstatt sich in ein Arbeitszimmer einzuschließen, glaubte Christie, dass ihr Geist in einer warmen Wanne am besten funktionierte. Heute untersucht BuildSelf die Verhaltenswissenschaft dahinter.

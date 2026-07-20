@@ -21,6 +21,7 @@ faqs:
     answer: "Ya. Jika depresi atau kritik diri muncul, segera hentikan. Cobalah fokus pada garis bahu atau tangan Anda terlebih dahulu untuk menstabilkan sensasi fisik Anda."
   - question: "Kapan waktu terbaik dalam sehari untuk refleksi diri di cermin?"
     answer: "Tepat setelah mandi adalah waktu yang ideal. Tubuh Anda rileks di bawah dominasi parasimpatis, melemahkan pertahanan ego dan memungkinkan hubungan diri yang paling nyaman."
+
 ---
 
 Rembrandt van Rijn, maestro abadi dari Zaman Keemasan Belanda. Meskipun ia mencapai kekayaan dan ketenaran yang besar di awal, tahun-tahun berikutnya ditandai dengan kebangkrutan dan kesepian. Namun ia tidak pernah berhenti melukis potret diri, meninggalkan lebih dari 80 karya selama 40 tahun. Ini adalah proses refleksi visual, menatap wajahnya yang menua di cermin tanpa distorsi. Kami mempelajari bagaimana Rembrandt mempertahankan ketahanan melalui menatap cermin.

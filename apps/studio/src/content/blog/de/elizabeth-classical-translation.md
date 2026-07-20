@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, Ergebnisse per Knopfdruck stimulieren das Gehirn nicht. Synapsen im Kortex entwickeln sich nur, wenn Sie den „Widerstandsprozess des Denkens“ durchlaufen, also selbst im Wörterbuch suchen und Sätze bauen."
   - question: "Tritt der Effekt nur beim Erlernen klassischer Sprachen wie Griechisch und Latein ein?"
     answer: "Nein. Moderne Fremdsprachen (Englisch, Chinesisch, Deutsch usw.) mit anderen Satzstrukturen eignen sich ebenso. Wichtig ist, dichte und formelle Texte wie Philosophie oder Kolumnen präzise zu übersetzen, nicht Umgangssprache."
+
 ---
 
 Königin Elisabeth I. führte England durch stürmische Zeiten. Um ihren Verstand zu schärfen, übersetzte sie jeden Morgen eine Stunde lang lateinische Klassiker von Seneca oder Cicero ins Englische. Diese anspruchsvolle Arbeit schützte sie vor emotionalen Fehlentscheidungen.

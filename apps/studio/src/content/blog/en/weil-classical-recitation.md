@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Weil prefer ancient Greek texts for recitation?"
     answer: "She believed that foreign classical languages require more conscious cognitive effort, preventing passive habituation and forcing the brain to dedicate 100% of its attention to each syllable."
+
 ---
 
 Simone Weil, the brilliant French philosopher and mystic who dedicated her short life to exploring truth and human suffering. She believed that 'attention' is the most sacred tool of the intellect and spirit. To cultivate this attention, she practiced a morning routine: reciting the Lord's Prayer in ancient Greek or passages from Plato. She described this vocalization as a mental cleanup to align her cognitive frequency. Let's explore the neurocognitive benefits of vocal recitation.

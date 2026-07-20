@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Une personne qui ne joue d'aucun instrument peut-elle bénéficier de la routine matinale de Casals ?"
     answer: "Oui, tout à fait. Bien que jouer d'un instrument offre une activation tactile et motrice du cortex, l'écoute active (se concentrer entièrement sur l'expérience auditive, les yeux closed) synchronise efficacement les ondes alfa. L'essentiel réside dans l'engagement actif avec les ondes sonores plutôt que de les laisser en bruit de fond."
+
 ---
 
 Pablo Casals, la leyenda española du violoncelle qui a ressuscité les Suites pour violoncelle de Bach. Jusqu'à sa mort à 96 ans, il a conservé une routine matinale unique pendant plus de 80 ans. Après une légère promenade matinale, il s'asseyait au piano pour jouer deux préludes de Bach. Il appelait cela une bénédiction plutôt qu'un exercice. Nous explorons les effets cognitifs de ce rituel musical matinal sur la synchronisation cérébrale et la régulation émotionnelle.

@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, Tchekhov réduisait sa charge cognitive en buvant du thé lors d'un rituel calme après le travail vers 15 heures."
   - question: "Comment puis-je remplacer le service à thé si je n'en ai pas ?"
     answer: "Même sans service à thé, boire une tasse d'eau chaude ou d'infusion en vous concentrant sur vos sens pendant 5 minutes suffit."
+
 ---
 
 Anton Tchekhov, le summum de la littérature réaliste russe et un grand dramaturge qui a jeté les bases de la nouvelle moderne, a capturé les conflits infimes, l'hypocrisie et les troubles émotionnels des gens ordinaires dans la vie quotidienne de la manière la plus attentionnée et la plus précise et les a transformés en pièces de théâtre. Il s'asseyait tranquillement sur un banc dans une salle d'attente de train ou dans un coin d'une terrasse de café et observait les gens qui passaient. Il a noté des caractéristiques extrêmement spécifiques de la personne dans un cahier placé dans la poche de son manteau, comme une marque de peluche invisible sur le col d'un costume, l'ourlet d'un costume avec un bouton arraché et le léger tic de l'œil d'un passant lorsqu'il est nerveux. Cette collection de détails extrêmement fins a servi de base à la construction de personnages réalistes et tridimensionnels dans ses romans.

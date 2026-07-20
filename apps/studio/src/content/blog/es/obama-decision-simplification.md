@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Barack Obama usaba solo trajes grises y azules?"
     answer: "Para preservar la energía cognitiva necesaria para las innumerables decisiones nacionales críticas a las que se enfrentaba a diario, eliminando elecciones menores de vestimenta o comida para evitar la fatiga por decisión."
+
 ---
 
 Como el 44.º presidente de los Estados Unidos, Barack Obama tenía que tomar decisiones pesadas y trascendentales todos los days. Durante su presidencia, para enfocar su energía prefrontal por completo en los asuntos críticos del país entre innumerables elecciones diarias, utilizó un secreto personal muy inteligente. 👔

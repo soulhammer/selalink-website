@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, if you lie flat and crane your neck. Prop yourself up with sturdy pillows at a 45-degree angle, and limit your sessions to 30 minutes to stay healthy."
   - question: "Can I check my emails for just 5 minutes before starting?"
     answer: "No. Even 5 minutes of scanning incoming alerts immediately scatters and wastes your CAR energy. Leave your phone off until your primary task is complete."
+
 ---
 
 John Maynard Keynes, the figure who shifted the paradigm of 20th-century economics, established macroeconomics, and provided the key to overcoming the Great Depression, was a man of immense productivity. Yet his morning scene was surprisingly peaceful. Keynes did not leap out of bed at waking. When his secretary brought papers at 8 AM, he reclined in bed for 2 hours, analyzing data and writing manuscripts. We analyze the neurobiological principles of Keynes's morning bed work routine, who poured his freshest prefrontal resources into a distraction-free space.

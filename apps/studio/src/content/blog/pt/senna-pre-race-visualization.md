@@ -21,6 +21,7 @@ faqs:
     answer: "A ansiedade aumenta quando a mente se concentra em cenários de fracasso. Interrompa a imaginação, conecte-se com o toque físico ou os sons da respiração, e alongue-se para relaxar."
   - question: "Qual é a duração ideal para uma sessão de ensaio mental?"
     answer: "Mantenha curto: de 3 a 5 minutos de imersão focada é o ideal. A memória de trabalho pré-frontal é limitada, de modo que simulados rápidos logo antes do evento produzem os melhores resultados."
+
 ---
 
 Ayrton Senna, um dos maiores pilotos de F1 da história, tinha uma intensa rotina mental ao lado do treinamento físico. Minutos antes de uma corrida, sentava-se no cockpit com o capacete, olhos fechados, completamente imóvel. Em sua mente, a corrida já havia começado, simulando cada curva, troca de marcha e ponto de frenagem.

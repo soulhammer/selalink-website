@@ -21,6 +21,7 @@ faqs:
     answer: "Ya. Alat digital sangat bagus untuk pencarian dan penghubung. Kuncinya adalah menghindari fragmentasi file dan sebaliknya memelihara satu database terpadu dengan tag tanggal dan kategori."
   - question: "Bukankah mengumpulkan semuanya di satu tempat akan membuatnya berantakan?"
     answer: "Akumulasi mendahului keteraturan. Menjaga ide-ide saling berdekatan memungkinkan otak untuk melakukan penyerbukan silang. Jangan khawatir tentang keteraturan harian; dedikasikan slot mingguan singkat untuk menandai dan merapikan entri."
+
 ---
 
 Gottfried Wilhelm Leibniz, filsuf Jerman, pencipta kalkulus, dan penemu kode biner, memiliki pengetahuan ensiklopedis paling luas dalam sejarah. Peta pembelajarannya yang monumental dibangun di atas kebiasaan mencatat yang menyeluruh. Leibniz menyimpan satu buku catatan umum bersamanya sepanjang hidupnya. Kutipan dari bacaan, wawasan percakapan, dan rumus matematika yang diperoleh di kereta semuanya dicatat di satu tempat di bawah sistem indeksnya sendiri.

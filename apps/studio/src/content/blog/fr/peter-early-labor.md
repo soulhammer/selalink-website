@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "L'entraînement physique au réveil ne fatigue-t-il pas trop le cerveau ?"
     answer: "Au contraire, stimuler le mouvement des mains et les nerfs sensoriels dès le réveil active le système réticulé du tronc cérébral pour libérer du cortisol et de la dopamine, ce qui dissipe l'inertie du sommeil le plus rapidement possible et éveille le cerveau."
+
 ---
 
 Pierre le Grand, le grand tsar qui a réformé l'Empire russe pour en faire une puissance majeure. D'où venait son charisme, lui qui a interdit la paresse de la noblesse pour développer la marine ? ⚓

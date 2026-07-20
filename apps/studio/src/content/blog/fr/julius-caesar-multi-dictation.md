@@ -21,6 +21,7 @@ faqs:
     answer: "Le multitâche éparpille l'attention en même temps, comme envoyer un message en écrivant un e-mail. La dictée simultanée utilise une structure de focus séquentiel : se concentrer sur un scribe à la fois, puis changer."
   - question: "Puis-je pratiquer cette méthode en tapant au clavier au lieu de dicter ?"
     answer: "Taper au clavier est plus lent que la vitesse cognitive, ce qui crée des blocages. Il est préférable d'utiliser la dictée vocale pour jeter vos idées rapidement, puis de les éditer ensuite."
+
 ---
 
 Jules César, héros de la République romaine, avait un secret pour gagner du temps : il dictait des lettres et des ordres militaires à 3 ou 4 secrétaires à la fois. Ce traitement parallèle était la source de sa grande administration.

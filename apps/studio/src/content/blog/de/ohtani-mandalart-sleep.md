@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Kann ich die Schlafzeit verkürzen, wenn 10 Stunden unrealistisch sind?"
     answer: "Der 10-Stunden-Standard gilt für Leistungssportler; für aktive Menschen sind 7 bis 8 Stunden ausreichend. Wichtig ist vor allem, die Qualität des Tiefschlafs durch eine optimierte Schlafumgebung zu maximieren."
+
 ---
 
 Ausnahmetalent Shohei Ohtani dominiert die Major League Baseball. Sein Geheimnis für konstant überragende Leistungen liegt in zwei klassischen Routinen: der Strukturierung aller Pläne mittels einer 81-Felder-Mandalart und einer Schlafroutine von täglich über 10 Stunden, für die er sogar sein eigenes Kissen auf Reisen mitnimmt. Erfahren Sie, wie dies Gehirn und Muskeln regeneriert.

@@ -16,6 +16,7 @@ steps:
     text: "Deje su escritorio y comience una tarea manual durante 15 minutos. Asegúrese de que la actividad requiera control preciso de los dedos y cierta atención (como lavar los platos)."
   - name: "Regresar al trabajo cognitivo"
     text: "Después del descanso, regrese a su trabajo original. Notará que su corteza prefrontal ha recuperado su energía, permitiéndole resolver problemas con mayor facilidad."
+
 ---
 
 "La lógica necesita claridad, y la claridad se pule a mano." Baruch Spinoza, el filósofo holandés que definió a Dios como la naturaleza, rechazó el patrocinio para mantener su libertad. En su lugar, se ganaba la vida tallando lentes. Mientras trabajaba en su mesa de tallado, los movimientos repetitivos y precisos permitían que su mente descansara y procesara geometrías filosóficas.

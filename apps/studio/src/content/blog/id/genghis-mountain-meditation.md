@@ -21,6 +21,7 @@ faqs:
     answer: "Cukup buka jendela dan tatap pemandangan luar terjauh selama minimal 30 detik. Intinya adalah mengubah fokus sempit menjadi fokus luas untuk menonaktifkan sirkuit siaga otak."
   - question: "Saya kesulitan membayangkan gambar secara konkret."
     answer: "Tidak perlu membayangkan video yang sempurna. Cukup gabungkan 'rasa' sukses, suara di sekitar, dan kata-kata pencapaian. Ini merangsang sirkuit otak dengan baik. Tambahkan detail sensorik secara bertahap."
+
 ---
 
 Genghis Khan, ahli strategi legendaris yang menyatukan suku-suku nomaden dan membangun kekaisaran besar. Di bawah ancaman konstan, pengkhianatan, dan konfrontasi musuh, dari mana ia menarik kemauan keras untuk tetap teguh? Setiap kali menghadapi keputusan penting, ia mendaki 'Burkhan Khaldun', gunung suci Mongol. Bermeditasi selama tiga hari di puncak adalah rutinitas mentalnya untuk mendapatkan terobosan strategis. Hari ini, BuildSelf memperkenalkan manfaat neurologis dari rutinitas berkebun ini.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Muss es unbedingt eine gelbe Rose sein?"
     answer: "Nein. Für Márquez war die gelbe Rose ein persönliches Objekt, das ihm Ruhe schenkte. Sie können frei wählen, was auch immer Ihnen ein gutes Gefühl gibt."
+
 ---
 
 Gabriel García Márquez, der für 'Hundert Jahre Einsamkeit' den Nobelpreis für Literatur erhielt. Eine der Quellen seiner literarischen Vorstellungskraft war eine gelbe Rose, die täglich auf seinem Schreibtisch stand. Fehlte sie, tippte er kein einziges Wort. War es Aberglaube oder steckte ein wissenschaftlicher Nutzen dahinter?

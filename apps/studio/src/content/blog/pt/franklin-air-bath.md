@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "O banho de ar (Air Bath) ajuda realmente a prevenir constipações?"
     answer: "Sim, expor a pele ao ar fresco melhora a resistência do corpo a mudanças de temperatura e regula a imunidade."
+
 ---
 
 A figura gravada na nota de US$ 100, o cientista genial que inventou o para-raios e Benjamin Franklin, famoso por seu rigoroso autocontrole. Você conhece o método de saúde singular e excêntrico que ele praticava todas as manhãs ao se levantar da cama? 💨

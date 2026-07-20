@@ -21,6 +21,7 @@ faqs:
     answer: "Bacalah buku fisik daripada ponsel. Memilih buku yang menenangkan seperti puisi atau esai di bawah lampu redup merangsang gelombang alfa yang membantu tidur nyenyak."
   - question: "Bagaimana cara mencatat kutipan favorit saat membaca malam hari tanpa mengganggu tidur?"
     answer: "Hindari menyalakan komputer sebelum tidur. Cukup gunakan kertas penanda atau lipat ujung halaman, lalu salin ke catatan digital keesokan paginya."
+
 ---
 
 Marilyn Monroe, ikon budaya populer abad ke-20. Di balik citra glamornya, ia mengalami cemas akibat kepungan media. Cara memulihkan ketenangannya adalah ritual membaca malam hari dan menulis puisi. Penelitian menunjukkan membaca sastra menurunkan hormon stres hingga 68%.

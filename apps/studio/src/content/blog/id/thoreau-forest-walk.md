@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana Thoreau menulis catatan saat berjalan selama 4 jam?"
     answer: "Ia membawa buku catatan kulit buatan sendiri dan pensil di saku mantelnya. Ketika berpikir, ia berhenti di bawah pohon dan langsung mencatatnya."
+
 ---
 
 Henry David Thoreau, esais Amerika yang hidup mandiri di dekat Kolam Walden dan menulis buku legendaris *Walden*. Di balik wawasannya yang mendalam, ia memiliki kebiasaan sore hari yang disiplin: berjalan kaki selama 4 jam di hutan Concord. Ia mengamati alam secara mendalam dan mencatat ide di buku sakunya. Mari kita bahas bagaimana berjalan di alam memulihkan otak kita.

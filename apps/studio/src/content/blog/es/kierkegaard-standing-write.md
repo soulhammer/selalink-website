@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Debo escribir de pie obligatoriamente? ¿No puedo sentarme?"
     answer: "Sentarse al volver relaja el cuerpo y baja la alerta rápidamente. La postura de pie mantiene la activación física para preservar la memoria de trabajo, por lo que es ventajoso estar de pie durante los primeros 10 minutos."
+
 ---
 
 Søren Kierkegaard, pionero del existencialismo danés del siglo XIX. Los aforismos y escritos que dejó se completaron en varios escritorios de pie ubicados en su casa. Kierkegaard era un caminante que paseaba por Copenhague. Temía que las inspiraciones obtenidas en la calle se desvanecieran al organizar su abrigo y quitarse los zapatos al entrar. Por ello, al abrir la puerta, se dirigía directamente al escritorio vistiendo abrigo y sombrero. Hoy, BuildSelf comparte los principios neurocientíficos de la rutina de Kierkegaard.

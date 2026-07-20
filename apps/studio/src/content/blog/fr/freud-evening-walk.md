@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, marcher à tout moment apporte la stimulation bilatérale. Cependant, si la marche matinale éveille le cerveau, la marche du soir aide à évacuer la tension émotionnelle et la fatigue cognitive accumulées durant la journée."
   - question: "Puis-je taper mes pensées sur un smartphone ou un clavier ?"
     answer: "Saisir au clavier ramène le cerveau vers un mode logique. À l'inverse, écrire à la main stimule le système réticulé activateur (SRA) via la motricité fine, favorisant l'émergence des pensées subconscientes de manière intuitive."
+
 ---
 
 Sigmund Freud, le père de la psychanalyse qui a redéfini la psychologie moderne en introduisant le concept de subconscient. D'où venaient ses profondes intuitions ? 🧠

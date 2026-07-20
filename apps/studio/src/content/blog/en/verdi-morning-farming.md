@@ -21,6 +21,7 @@ faqs:
     answer: "Gym workouts help, but indoor lighting is less effective at resetting circadian rhythms. Direct contact with natural elements like soil (Earthing) combined with outdoor light is what triggers the serotonin activation Verdi experienced."
   - question: "What should I watch out for when adding morning physical labor?"
     answer: "Avoid high-intensity labor that drains glucose. High fatigue hurts the prefrontal cortex, so keep your morning session to about 15 minutes of light activity."
+
 ---
 
 Giuseppe Verdi, the 19th-century opera giant, called himself a 'simple farmer' even when theatres worldwide were filled with his name. Waking at 5 AM at his Sant'Agata farm, he wore rough clothes to till fields and manage crops for 2 hours before sitting at the piano. We explore how Verdi's physical labor stimulated musical inspiration.

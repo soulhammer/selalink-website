@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah melakukan latihan gerakan fisik saat lelah di pagi hari tidak membebani otak?"
     answer: "Sebaliknya, latihan yang merangsang gerakan tangan dan saraf sensorik secara mendetail tepat setelah bangun tidur memicu sistem retikular batang otak untuk mendorong pelepasan kortisol dan dopamin, sehingga menghilangkan inersia tidur (Sleep Inertia) dengan paling cepat dan membuat otak terjaga dengan jernih."
+
 ---
 
 Peter Agung, Tsar agung yang mereformasi total Kekaisaran Rusia yang tertinggal dan menjadikannya kekuatan besar. Dari mana kharismanya yang melarang kemewahan dan kemalasan kaum bangsawan serta membina angkatan laut berasal? ⚓

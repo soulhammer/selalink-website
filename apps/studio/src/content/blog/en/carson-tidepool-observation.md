@@ -21,6 +21,7 @@ faqs:
     answer: "Yes. While smaller in scale, focusing on the details of houseplants, checking soil dryness, and noting leaf structures induces 'Soft Fascination,' leading to brain rest and stress reduction."
   - question: "Do I have to draw in the notebook?"
     answer: "No. Drawing is just a tool to help you focus. If you cannot draw, simply describing the details (colors, textures, movements) in words is highly effective for stimulating cognitive processing."
+
 ---
 
 The environmental classic Silent Spring warned of pesticide abuse. Its author, Rachel Carson, lived a life under constant strain. During its writing, she faced intimidation from corporations, sexism, and a battle with breast cancer. 🐚

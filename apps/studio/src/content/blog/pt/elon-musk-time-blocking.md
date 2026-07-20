@@ -21,6 +21,7 @@ faqs:
     answer: "Para iniciantes, preencher todo o cronograma com blocos de 5 minutos gera sobrecarga cognitiva. Recomenda-se começar com blocos de 15 ou 30 minutos para apenas 1 ou 2 horas de foco por dia."
   - question: "E se eu não conseguir terminar a tarefa dentro do bloco alocado?"
     answer: "Mude para o próximo bloco imediatamente. Aloque o trabalho pendente em um 'bloco de folga' (Buffer Block) no final da tarde, evitando que um atraso estrague todo o dia."
+
 ---
 
 Elon Musk lidera a Tesla e a SpaceX trabalhando cerca de 100 horas semanais. O segredo de sua capacidade produtiva é planejar o dia em blocos de 5 minutos. Ao iniciar um bloco, ele silencia todas as notificações e foca 100% de sua energia na tarefa.

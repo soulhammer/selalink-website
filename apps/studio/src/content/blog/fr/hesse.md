@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, le travail physique como toucher la terre et désherber repose le cortex préfrontal fatigué par la concentration."
   - question: "Comment puis-je remplacer cette routine si je n'ai ni jardin ni terre ?"
     answer: "Prendre soin de petites plantes d'intérieur sur un balcon, rempoter ou tailler des feuilles sèches est un excellent substitut."
+
 ---
 
 Hermann Hesse, romancier et poète qui a exploré la réalisation de soi humaine intérieure et l'errance de l'âme à travers la méditation analogique en tant que jardinier suisse, et lauréat du prix Nobel de littérature pour des chefs-d'œuvre tels que « Demian » et « Sous la roue ». Il est resté dans son jardin de campagne et a effectué le travail du jardinier analogique consistant à labourer le sol, à arracher les mauvaises herbes et à couper ou scier les branches mortes chaque jour. Pendant qu’il bougeait son corps avec diligence, il concentrait toute son attention sur les bruits des oiseaux dans la forêt, le bruit du vent et l’odeur de l’humidité du sol. Cette routine de méditation naturelle analogique était une source de stabilité et de guérison pour son âme, qui souffrait d'une grave dépression nerveuse.

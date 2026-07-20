@@ -21,6 +21,7 @@ faqs:
     answer: "No. People with neck issues must avoid supporting their body weight on their head. Instead, they can lie on their back and lift their legs vertically against a wall with a cushion under the hips. This safely reverses blood flow without compressing the spine."
   - question: "What is the best time of day to do a headstand?"
     answer: "Early morning before breakfast or right before starting work is ideal. Doing a headstand in the morning sends oxygen to sleep-fogged brain cells, waking you up. Avoid doing it right after eating, as it can cause indigestion; wait at least 2 hours."
+
 ---
 
 Jawaharlal Nehru led the non-violent struggle for Indian independence and served as the first Prime Minister. Behind his elegant white attire lay long, painful years spent in cold prison cells. 🧘

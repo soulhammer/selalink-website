@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "No tengo pinceles de caligrafía en casa, ¿puedo usar herramientas normales?"
     answer: "Una pluma estilográfica, un bolígrafo de caligrafía de punta flexible o incluso un lápiz sobre papel texturizado bastan. Lo importante es que el cerebro perciba la resistencia de la punta y la dosificación de la fuerza al escribir en tiempo real. Cualquier herramienta que ofrezca una retroalimentación táctil clara sirve."
+
 ---
 
 Lee Byung-chul, el fundador de Samsung que forjó el milagro de los semiconductores en Corea. Detrás de sus grandes decisiones comerciales, existía un ritual oriental silencioso cada mañana. Al despertar, se sentaba solo en su biblioteca a moler tinta y escribir a pincel. Trazar palabras como 'Búsqueda infinita' concentrado en la tensión de la pluma era su forma de limpiar el ruido de la gestión. Explore cómo esta caligrafía templa las emociones y activa el foco.

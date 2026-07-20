@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, limpar as lentes antes de começar o trabalho dá ao cérebro um sinal de ordem cognitiva, maximizando o foco."
   - question: "Como posso substituir se não tiver microscópios ou panos de limpeza?"
     answer: "Limpar o monitor com um pano de microfibra, organizar a mesa ou limpar a tela do telemóvel antes do trabalho pós-laboral fornece o mesmo efeito."
+
 ---
 
 Louis Pasteur, um pioneiro absoluto da medicina moderna e da microbiologia e um químico francês genial que foi pioneiro nas vacinas, salvou a humanidade do medo das doenças infecciosas ao inventar a pasteurização e as vacinas contra o antraz/raiva. Ele sentou-se à mesa do laboratório e ficou olhando imóvel por horas para um frasco de cultura sob a lupa de um microscópio. Ele desenhou meticulosamente e registrou em seu caderno os minúsculos traços trêmulos deixados pelos microorganismos à medida que proliferavam. Seu método de desinfecção e descoberta da vacina nasceram dessa rotina de feedback observacional enquanto olhava para o frasco.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Cuál era el efecto de la siesta de Churchill en la guerra?"
     answer: "Con una siesta profunda de 1.5 a 2 horas, dividía su día en dos períodos independientes de alerta para manejar cargas de decisión."
+
 ---
 
 Winston Churchill, el primer ministro británico durante la Segunda Guerra Mundial que lideró la lucha contra Alemania para asegurar la victoria final de los Aliados, y al mismo tiempo historiador y escritor ganador del Premio Nobel de Literatura. ¿Cómo era capaz de mantener su máximo estado de alerta mental sin agotarse bajo las agotadoras tareas estatales de más de 18 horas al día? El secreto residía en una rutina de siesta muy singular y firme que realizaba cada tarde. Cada tarde, entre las 2:00 y las 2:30 p. m., Churchill interrumpía todos los informes y se iba a su dormitorio, se desnudaba por completo y tomaba una siesta profunda de 1 a 2 horas. Hoy, BuildSelf comparte la verdad neurocientífica detrás de la siesta de Churchill y la siesta reparadora.

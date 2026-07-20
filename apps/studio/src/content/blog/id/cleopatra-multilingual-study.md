@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, hanya menonton dan mendengarkan hanya menstimulasi area kognitif pasif. Plastisitas otak dan jaringan sinapsis aktif hanya ketika Anda menstimulasi pita suara melalui membaca keras-keras dan aktif menyusun kalimat sendiri seperti Cleopatra."
   - question: "Apakah mempelajari dua bahasa sekaligus menyebabkan kelebihan beban kognitif?"
     answer: "Pada tingkat pemula, beradaptasi dengan satu bahasa terlebih dahulu lebih baik. Namun jika dasar sudah terbentuk, bergantian struktur tata bahasa dari dua bahasa secara dramatis melatih kemampuan kontrol kognitif korteks prefrontal."
+
 ---
 
 Ratu Cleopatra VII menguasai minimal 9 bahasa, termasuk Mesir, Yunani, Latin, dan Ibrani. Setiap sore ia belajar bahasa agar dapat berdiplomasi langsung tanpa penerjemah.

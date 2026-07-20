@@ -21,6 +21,7 @@ faqs:
     answer: "No need to write long. Just writing three lines is enough. Writing just 'one thing that exhausted me today', 'my emotion at that time', and 'one thing I can correct tomorrow' triggers the same emotional objectification mechanism in the brain."
   - question: "Is the effect the same when writing on a smartphone diary app or typing?"
     answer: "In principle, writing by hand with a pen on paper is most effective. The tactile feedback of transmitting fine sensory information from hands and arms to the brain awakens the frontal lobe's cognitive control more clearly. However, even when typing, you can sufficiently experience the emotional control effect if you maintain focus with device notifications blocked and describe honestly."
+
 ---
 
 Admiral Yi Sun-shin of Joseon set an unprecedented record of 23 victories in 23 battles in naval history. Facing political frame-ups, torture, the death of his son, and an overwhelming enemy fleet, where did he draw the strength to maintain composure and precise strategy? He lit a lantern every single night and meticulously recorded the day's weather, troop conditions, and his deepest sighs in Nanjung Ilgi. Writing a diary was not just a military report, but a self-healing ritual to clear away frustration and anxiety. Today, BuildSelf introduces the cognitive psychological effects and modern nightly journaling practice based on Admiral Yi's 'reflective diary' routine.

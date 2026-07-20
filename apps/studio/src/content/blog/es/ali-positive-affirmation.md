@@ -21,6 +21,7 @@ faqs:
     answer: "Es natural al principio debido a la disonancia cognitiva. Lo importante no es debatir el hecho, sino abrir nuevas posibilidades para la mente. Con la repetición y la neuroplasticidad, la incomodidad desaparecerá y se consolidará como una creencia."
   - question: "¿Solo funciona si lo digo en voz alta?"
     answer: "Lo ideal es escuchar la vibración de su voz. Si el entorno no lo permite, susurrar o repetir la frase mentalmente con concentración absoluta (diálogo interno silencioso) también estimula eficazmente los mismos circuitos cerebrales."
+
 ---
 
 Muhammad Ali, medallista de oro olímpico y campeón mundial de peso pesado, sigue siendo el mayor ícono de la historia del deporte del siglo XX. Antes de subir al ring, donde esperaban miles de espectadores y rivales brutales, ¿cómo controlaba el miedo y la ansiedad? Ali gritaba "I am the greatest" ante el espejo cada mañana. Esto no era simple presunción, sino una rutina de afirmación positiva que grababa la mentalidad de victoria en su cerebro. Hoy, BuildSelf presenta los principios psicológicos del deporte y la rutina de mentalidad moderna de la 'autoafirmación' de Muhammad Ali.

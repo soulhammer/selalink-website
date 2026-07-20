@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, mirar y escuchar estimula solo áreas cognitivas pasivas. La plasticidad cerebral y las redes sinápticas se activan solo cuando estimula las cuerdas vocales mediante la lectura en voz alta y construye activamente oraciones usted mismo como Cleopatra."
   - question: "¿Estudiar dos idiomas simultáneamente causa sobrecarga cognitiva?"
     answer: "En la etapa de principiante, es deseable adaptarse primero a un idioma. Sin embargo, si la base está algo establecida, alternar entre dos estructuras gramaticales desarrolla drásticamente el control cognitivo de la corteza prefrontal."
+
 ---
 
 Cleopatra VII, reina de Egipto, no era solo una belleza. Fue una gran estratega que hablaba al menos 9 idiomas (griego, egipcio, latín, hebreo, etc.) sin usar intérpretes. Estudiaba cada tarde para comunicarse directamente con los embajadores.

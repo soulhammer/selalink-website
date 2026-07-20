@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, because he poured 100% of his brain energy in the morning, he recognized that his cognitive ability was exhausted after 1 PM. Believing that writing after 1 PM degraded quality, he only handled light work that required relatively less brain energy, such as reading, walking, and editing in the afternoon."
   - question: "Can I perform Deep Work during night hours instead of morning hours?"
     answer: "Depending on an individual's biological clock (night owl type), some people have peak efficiency during night hours. The core principle is not the absolute time of day, but securing and entering a continuous period of 2 hours or more when external stimuli are blocked and brain energy is fullest."
+
 ---
 
 Thomas Mann, a Nobel Prize-winning writer who stood tall as a novelist representing German intellectual history by writing 'The Magic Mountain' and 'Buddenbrooks.' His vast and dense narratives, which boast philosophical depth every time, were born not in accidental moments of flashing inspiration, but in time control that operated like a machine clockwork without any error. 🕰️

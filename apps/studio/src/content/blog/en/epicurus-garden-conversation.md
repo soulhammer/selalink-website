@@ -21,6 +21,7 @@ faqs:
     answer: "Debates raise adrenaline and cortisol. Establish a ground rule beforehand: 'Let's focus on personal growth, feelings, or books rather than news today.'"
   - question: "What if scheduling weekly meetups with friends is too difficult?"
     answer: "You don't have to meet weekly. A monthly face-to-face dinner or a bi-weekly 30-minute quiet voice call to share updates is enough to stimulate oxytocin."
+
 ---
 
 Epicurus, often misunderstood as a hedonist, pursued inner tranquility or 'ataraxia' through a disciplined life. Escaping Athens' political chaos, he built 'The Garden' on the outskirts. Here, ignoring social status and gender, he shared frugal meals of bread, water, and cheese with friends, engaging in intellectual dialogues. He argued that material greed triggers thirst, while deep trust and friendship heal the soul. We explore the neurobiology of Epicurus's garden habit.

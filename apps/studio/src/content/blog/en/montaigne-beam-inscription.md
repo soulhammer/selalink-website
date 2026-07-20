@@ -16,6 +16,7 @@ steps:
     text: "Write the phrase on a card or post-it and paste it on a high spot, like the ceiling or the top frame of your monitor. The goal is to physically force an upward gaze when viewing it."
   - name: "Exert Upward Gaze & Recalibrate"
     text: "When blocked or biased, lean back, raise your head, read the quote, and pause for 15 seconds. Let your brain detach from the immediate stressor to calibrate the logic path from a distance."
+
 ---
 
 "He who does not look ahead remains behind." Michel de Montaigne retired at age 38 to his round tower library. On the wooden beams supporting his ceiling, he carved 57 Greek and Latin maxims, representing key philosophical questions. Sitting in his armchair, he looked up at these phrases to break his own rigid assumptions, which allowed him to write his highly objective, self-reflective Essays.

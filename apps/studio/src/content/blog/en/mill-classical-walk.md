@@ -21,6 +21,7 @@ faqs:
     answer: "Listening is passive. It blocks 'Active Retrieval'—forcing the brain to dig up and process memory. During walks, keeping your ears clear and actively working through already read information is much more effective for neuroplasticity."
   - question: "Does walking speed affect brain stimulation?"
     answer: "Yes. A brisk, rhythmic pace (4 to 5 km/h) that doesn't leave you breathless is best. This level of light aerobic intensity optimizes BDNF and cerebral blood flow. Running too fast shifts cognitive resources to physical control, which is less ideal."
+
 ---
 
 John Stuart Mill wrote On Liberty and led 19th-century utilitarianism. How did this giant of intellect develop his cognitive capacity? 🚶

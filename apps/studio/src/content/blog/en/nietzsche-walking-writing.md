@@ -21,6 +21,7 @@ faqs:
     answer: "Nietzsche walked mainly after breakfast until lunchtime, and again in the late afternoon. He preferred mountain trails and forests to find philosophical inspiration in nature."
   - question: "Do I have to walk outdoors to practice this?"
     answer: "While walking outdoors is ideal, simply pacing quietly down a hallway or around an office can provide a mild cognitive shift and reset focus."
+
 ---
 
 Friedrich Nietzsche, the iconic philosopher who declared that 'all truly great thoughts are conceived while walking.' Battling chronic health issues, he spent his summers in Sils Maria, Switzerland, walking through forests and mountains for up to eight hours a day. With a notebook in hand, he immediately recorded the insights that came to him while moving. Today, BuildSelf explores how physical activity reorganizes cognitive networks and unlocks deep creativity.

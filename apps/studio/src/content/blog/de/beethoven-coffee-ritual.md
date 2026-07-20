@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum bestand Beethoven auf 60 Kaffeebohnen?"
     answer: "Durch das Abzählen von 60 Bohnen sammelte er seine Energie als Signal für den Beginn tiefer Arbeit."
+
 ---
 
 Ludwig van Beethoven, einer der größten Komponisten der westlichen Musikgeschichte, der trotz seiner fortschreitenden Ertaubung Meisterwerke wie die 'Schicksalssinfonie' und die '9. Sinfonie' schuf. Wussten Sie, dass er jeden Morgen vor dem Komponieren ein strenges Ritual befolgte? Es war das Abzählen von exakt '60 Kaffeebohnen'. Beethoven war äußerst wählerisch, was den Geschmack seines Kaffees anging. Das Abzählen dieser 60 Bohnen war für ihn der Übergang von der lauten Außenwelt in seine innere wissenschaftliche Welt. Heute untersucht BuildSelf die wissenschaftlichen Geheimnisse von Beethovens Kaffee-Ritual.

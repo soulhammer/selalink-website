@@ -16,6 +16,7 @@ steps:
     text: "Schauen Sie aus dem Fenster auf die vorbeiziehende Landschaft. Lassen Sie die Augen schweifen, um das Gehirn in einen Tagtraumzustand zu versetzen."
   - name: "Halten Sie Geistesblitze sofort fest"
     text: "Sobald Ihnen ein Gedanke kommt, schreiben Sie Schlüsselwörter sofort auf. Warten Sie nicht bis zur Ankunft, da Reiseeindrücke schnell verblassen."
+
 ---
 
 "Reisen ist die wahre Quelle der Weisheit, und ein Notizbuch ist ihre Landkarte." Desiderius Erasmus, der große Humanist der Renaissance, war ständig auf Reisen. Anstatt die Reisezeit ungenutzt zu lassen, trug er ein kleines Lederbuch in der Tasche. Während der Kutschenfahrten notierte er Beobachtungen und verfasste Entwürfe.

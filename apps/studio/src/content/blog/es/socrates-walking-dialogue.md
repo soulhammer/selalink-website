@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Caminar en una cinta de correr interior tiene el mismo efecto?"
     answer: "Aunque el flujo sanguíneo es similar, el estímulo visual y espacial de la naturaleza exterior y el efecto de reducir el cortisol se maximizan cuando se camina al aire libre o en parques."
+
 ---
 
 Sócrates, el sabio de Atenas que estableció las raíces de la filosofía occidental. Los registros de Platón describen un hábito diario único: caminar sin cesar en la plaza pública o en el bosque, haciendo preguntas y debatiendo con otros. Sócrates caminaba lentamente bajo la sombra de los árboles del Ágora, descalzo incluso en invierno. Para él, caminar no era mero fitness, sino un laboratorio de sabiduría que sincronizaba el movimiento físico con la plasticidad de su cerebro. Hoy, BuildSelf comparte los secretos del paseo reflexivo para superar la fatiga mental de la tarde y obtener las mejores ideas.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Ist es in Ordnung, digitale Tools zu verwenden, wenn es schwierig ist, Storyboards jedes Mal von Hand zu zeichnen?"
     answer: "Der Kern eines Storyboards liegt nicht im zeichnerischen Talent, sondern in der strukturierten Schritt-für-Schritt-Planung und der Simulation des Verhaltens. Die Verwendung von Figma, Miro oder einfachen Mindmap-Apps zur Organisation mit Box-Formen und Text ist völlig ausreichend, um die gleichen kognitionspsychologischen Vorteile zu erzielen."
+
 ---
 
 Alfred Hitchcock, der weltberühmte britische Maestro, der die Filmsprache des Thrillers mit Werken wie 'Psycho', 'Vertigo' und 'Das Fenster zum Hof' neu definierte. Woher stammte seine erstaunliche Kontrolle, mit der er das Filmset mit absoluter Zuversicht und ohne jeden Zweifel beherrschte? 🎬

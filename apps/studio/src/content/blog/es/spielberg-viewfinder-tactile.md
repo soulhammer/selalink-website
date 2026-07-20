@@ -21,6 +21,7 @@ faqs:
     answer: "Simply spinning a pen or spinner is a repetitive motor habit that only triggers basal ganglia pathways, offering low haptic feedback for parietal lobe recruitment. Using geometric wooden puzzles, scale models, or cubes forces the brain to coordinate fine motor control to perceive shapes, yielding far superior cognitive stimulation."
   - question: "¿Cómo puedo reducir mi campo visual sin un visor de director?"
     answer: "Even without a viewfinder, you can achieve the same visual framing effect by cutting a small square hole in a card or simply forming a circle with your fingers (like an OK sign) and looking through it with one eye closed. The principle of filtering out peripheral visual noise remains identical."
+
 ---
 
 Steven Spielberg formaba un visor con sus manos para visualizar escenas de películas. Este hábito táctil le ayudó a encuadrar y enfocar su atención espacial rápidamente, aislando la información visual relevante del entorno caótico del rodaje.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Como notifico meus colegas sobre meu horário offline para evitar mal-entendidos?"
     answer: "Defina um preenchedor automático ou coloque uma mensagem de status informando: 'Verifico o e-mail duas vezes ao dia para focar nos projetos. Para emergências, entre em contato via telefone'. Isso gerencia as expectativas dos outros, reduz acompanhamentos ansiosos e protege seu limite offline sem prejudicar o relacionamento profissional."
+
 ---
 
 Donald Knuth, o pioneiro da ciência da computação que escreveu The Art of Computer Programming. Apesar de estar no centro da revolução da computação, ele fez uma escolha radical em 1990: abandonou completamente o e-mail. Ele declarou que seu papel não é ficar por dentro das coisas, mas sim chegar ao fundo delas. Em vez disso, ele aceita consultas por correio físico ou fax, processando-as em lotes a cada poucos meses. Exploramos o valor cognitivo desta rotina offline extrema para proteger o foco.

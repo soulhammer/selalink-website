@@ -16,6 +16,7 @@ steps:
     text: "Mire por la ventana el paisaje que pasa. Deje que sus ojos capturen el flujo óptico sin enfocarse en nada en particular, permitiendo que el cerebro entre en un estado de ensueño."
   - name: "Capturar el destello de lucidez"
     text: "En el momento en que surja una idea o solución en su mente, anote de inmediato las palabras clave en su cuaderno. No espere a llegar a su destino, ya que estas ideas se desvanecen rápido."
+
 ---
 
 "El viaje es la verdadera fuente de sabiduría, y un cuaderno es su mapa." Desiderio Erasmo, el gran humanista del Renacimiento, era un viajero perpetuo. En lugar de tratar el tiempo de viaje como tiempo muerto, llevaba un pequeño cuaderno de cuero en el bolsillo. Mientras rebotaba en los carruajes, escribía sus observaciones y pensamientos satíricos.

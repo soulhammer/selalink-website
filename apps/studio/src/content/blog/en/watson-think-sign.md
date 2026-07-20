@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if my thoughts drift into distractions or random daydreams?"
     answer: "This is natural in early brain training. When distractions arise, do not suppress them; instead, look at the 'THINK' sign and gently return to the topic."
+
 ---
 
 Thomas Watson, the first president of the tech giant IBM. He forced cards and signs with the single word 'THINK' to be placed in every small space across the company. He sat quietly for over 15 minutes every morning without any documents or pens, fully immersed in thought. Explore the efficacy of this simple sign and thinking habit that drove IBM's leap 100 years ago.

@@ -21,6 +21,7 @@ faqs:
     answer: "Ja. Wenn auch in kleinerem Rahmen, führt das Beobachten von Zimmerpflanzen zu 'sanfter Faszination' und trägt so zum Stressabbau bei."
   - question: "Muss ich unbedingt in das Notizbuch zeichnen?"
     answer: "Nein. Zeichnen ist nur eine Hilfe zur Konzentration. Wenn Sie nicht zeichnen können, reicht es völlig aus, die Details (Farben, Texturen) in Worten zu beschreiben."
+
 ---
 
 Der Klassiker Der stumme Frühling warnte vor dem Pestizidmissbrauch. Seine Autorin Rachel Carson war während des Schreibens starkem Druck und Krebs ausgesetzt. 🐚

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was soll ich tun, wenn mir beim Benutzen eines Stehpults die Fußsohlen oder der Rücken wehtun?"
     answer: "Es wird empfohlen, eine stoßdämpfende Anti-Ermüdungsmatte unter die Füße zu legen oder gedämpfte Hausschuhe zu tragen sowie die Rumpfmuskulatur leicht anzuspannen, um die Schwerkraft zu verteilen und ein übermäßiges Hohlkreuz zu verhindern."
+
 ---
 
 Rainer Maria Rilke, der unvergleichliche österreichische Dichter, der mit Werken wie 'Die Aufzeichnungen des Malte Laurids Brigge' und den 'Duineser Elegien' den Höhepunkt der modernen Poesie markierte. Welche einzigartige Schreibumgebung wählte er, um kreative Spannung und intuitive Inspiration zu wecken? ✍️

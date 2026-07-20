@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, el biógrafo John Aubrey, contemporáneo y amigo de Hobbes, lo describe con detalle en su obra Brief Lives, confirmando que mandó fabricar un bastón con un tintero adaptado en el mango para no perder ideas al caminar."
   - question: "¿Qué es más efectivo, las notas de voz o escribir en el móvil?"
     answer: "Al caminar, las notas de voz son más rápidas y seguras porque evitan que tenga que mirar la pantalla del móvil. Escribir exige motricidad fina e interrumpe la atención, por lo que la voz es ideal en movimiento."
+
 ---
 
 Thomas Hobbes, autor de 'Leviatán', clásico de la teoría del contrato social y tratado sobre el poder del Estado. Su sofisticado sistema, pilar de la filosofía política moderna occidental, no se esculpió en un despacho, sino en valles y senderos. Y contaba para ello con un aliado singular. 🦯

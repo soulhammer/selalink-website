@@ -21,6 +21,7 @@ faqs:
     answer: "Es suficiente pasar 5 minutos concentrándose en el sonido de instrumentos simples como cuencos tibetanos, tambores de lengua o kalimbas. Lo esencial es proporcionar un espacio creativo libre de juicios."
   - question: "¿Escuchar música de forma pasiva puede lograr el mismo efecto que tocar un instrumento?"
     answer: "Tocar un instrumento coordina el control motor fino y la retroalimentación física, lo que estimula la corteza motora y las redes de atención prefrontal mucho más que escuchar de forma pasiva."
+
 ---
 
 Martín Lutero desafió el poder de la Iglesia católica. Enfrentando peligros de muerte, su salud mental y digestiva sufría un gran estrés. Su método para centrar su mente era tocar el laúd (Lute) cada mañana tras sus oraciones. Analicemos cómo la música estimula el nervio vago y activa el sistema parasimpático, bloqueando los niveles de cortisol.

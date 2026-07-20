@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, das laute Durchgehen der Prioritäten 30 Minuten vor Arbeitsbeginn aktiviert die exekutive Kontrolle des präfrontalen Kortex."
   - question: "Wie kann ich die Tafel ersetzen, wenn ich keine habe?"
     answer: "Es reicht, sich in einem ruhigen Raum die 3 wichtigsten Aufgaben des Tages, die im Notizbuch stehen, laut vorzulesen."
+
 ---
 
 Margaret Thatcher, Großbritanniens erste Premierministerin und die eiserne Dame, die die Schwierigkeiten des wirtschaftlichen Abschwungs Großbritanniens durch konservative Reformen und wirtschaftliche Umstrukturierungen kühl und entschieden überwand und Großbritannien in eine starke Position brachte. Sie saß jede Nacht bis 2 oder 3 Uhr morgens im Arbeitszimmer des Premierministers und las Hunderte Seiten umfangreicher Dokumente und Gesetzesvorlagen, die von Kabinettsbeamten eingereicht wurden. Mit einem gelben Textmarker in der Hand ging sie zwischen den Zeilen des Berichts hin und her, ignorierte die unnötige Rhetorik und den bürokratischen Text und zeichnete und betonte nur drei Schlüsselpfeiler: die Durchführbarkeit nationaler Politiken, Haushaltsindikatoren und rechtliche Fragen. Diese nächtliche Hervorhebungsroutine war die Willenskraft, die dazu beitrug, die schwierigen Probleme Großbritanniens auf einen Schlag zu überwinden.

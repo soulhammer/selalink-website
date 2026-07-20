@@ -16,6 +16,7 @@ steps:
     text: "Tinggalkan meja kerja dan mulailah aktivitas fisik non-digital selama 15 menit. Pastikan kegiatan ini melatih ketangkasan jari tangan (seperti mencuci piring)."
   - name: "Langkah 3: Kembali ke Meja Kerja dengan Otak yang Segar"
     text: "Setelah istirahat selesai, kembalilah ke pekerjaan Anda. Anda akan merasakan korteks prefrontal telah memulihkan energinya untuk memecahkan masalah."
+
 ---
 
 "Logika membutuhkan kejernihan, dan kejernihan itu dipoles oleh tangan." Baruch Spinoza, filsuf Belanda yang mendefinisikan Tuhan sebagai alam, menolak sponsor kekayaan demi menjaga kebebasan berpikirnya. Ia memilih bertahan hidup dengan mengasah lensa kacamata dan mikroskop. Gerakan fisik yang berulang dan presisi di meja kerja membantu mengistirahatkan otaknya.

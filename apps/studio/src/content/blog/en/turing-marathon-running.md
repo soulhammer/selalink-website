@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, any continuous aerobic exercise that engages cardiopulmonary function and increases BDNF levels, like cycling or swimming, offers similar cognitive recovery. However, outdoor running maximizes DMN relaxation and creative insight as sensory inputs like natural scenery and wind are processed."
   - question: "Does listening to music while running interfere with brain recovery?"
     answer: "Music with lyrics or aggressive beats forces the frontal lobe to process and filter audio information, which hinders complete brain rest. Listening to natural sounds or focusing solely on your breath without music is the best way to fully activate the DMN and recharge attention."
+
 ---
 
 Alan Turing, the British genius mathematician who decoded the notorious Enigma code of the German army during World War II and laid the foundation of computer science. He suffered from chronic brain overload due to complex calculations, mechanical design, and cryptanalysis. His secret to maintaining mental equilibrium and creative thinking under such intellectual pressure was 'marathon running.'

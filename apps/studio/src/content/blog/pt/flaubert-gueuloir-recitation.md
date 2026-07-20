@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Como posso praticar isto num escritório silencioso ou num café público?"
     answer: "Se não puder falar alto, sussurre suavemente, movendo deliberadamente os lábios e a língua. Envolver o sistema motor vocal, mesmo em silêncio, ativa o córtex motor e ajuda na monitorização de erros muito melhor do que a leitura puramente silenciosa."
+
 ---
 
 Gustave Flaubert, autor de Madame Bovary, defendia a ideia de que existe apenas uma palavra perfeita (le mot juste) para qualquer conceito. Ele passava dias a refinar frases únicas. Para testar a versão final da sua prosa, ele envolvia-se num ritual dramático: ler o seu trabalho em voz alta no seu estúdio, um processo que chamou de 'Gueuloir' (a sala de gritos). Descubra o segredo científico de como gritar e ouvir ativa múltiplas áreas sensoriais no cérebro para alcançar clareza semântica e rítmica absoluta.

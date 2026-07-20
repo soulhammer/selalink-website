@@ -21,6 +21,7 @@ faqs:
     answer: "It is natural for the brain to try and run computations. Do not fight these thoughts; instead, acknowledge them like passing clouds, telling yourself 'I am thinking about today's tasks,' and gently bring your attention back to the breath at your nostrils."
   - question: "Mother Teresa did it for an hour. Is 10 to 15 minutes still effective for the brain?"
     answer: "Yes, clinical research shows that even 10 minutes of complete silence and sensory deprivation significantly lowers sympathetic tone and reduces cortisol. Practicing consistently for 10 minutes daily is highly effective for long-term emotional regulation and brain rewiring."
+
 ---
 
 Mother Teresa, who dedicated her life to helping the poor in Calcutta. How did she endure the mental limits and sorrow of the slums to maintain her emotional peace? 🕊️

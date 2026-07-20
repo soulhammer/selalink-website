@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana cara menulis jika tidak ada kejadian istimewa hari ini?"
     answer: "Menjaga konsistensi jauh lebih penting daripada menulis banyak halaman. Pada hari biasa, tulis satu hal kecil yang Anda syukuri atau bagaimana kondisi fisik Anda. Otak mendapat ketenangan dari kontinuitas refleksi harian."
+
 ---
 
 Ratu Victoria mengendalikan Kekaisaran Britania Raya. Untuk mengatasi tekanan takhta dan rasa duka mendalam atas wafatnya Pangeran Albert, ia menulis buku harian secara manual dengan pena. Ia menghasilkan 122 volume. Pelajari bagaimana menulis meredakan ketegangan saraf.

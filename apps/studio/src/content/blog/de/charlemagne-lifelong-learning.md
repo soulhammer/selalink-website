@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Knittert das Papier nicht oder geht der Stift kaputt, wenn ich ihn unter das Kissen lege?"
     answer: "Für eine moderne Umsetzung empfehlen wir, statt leicht knitterndem Papier einen stabilen Mini-Ordner mit Hardcover auf dem Nachttisch zu platzieren oder ein Klemmbrett aus Holz an einem Regal über dem Bett zu befestigen, um Beschädigungen zu vermeiden und den Weg so kurz wie möglich zu halten."
+
 ---
 
 Karl der Große, der große Monarch, der das historische Fundament Westeuropas legte und die Renaissance von Kultur und Bildung anführte. Wie suchte der Kaiser im 8. Jahrhundert, einer Ära des Analphabetismus, nach Wissen und übte das Schreiben? 👑

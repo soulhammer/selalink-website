@@ -21,6 +21,7 @@ faqs:
     answer: "Anda dapat menggantinya dengan berjalan di taman kota selama lebih dari 30 menit tanpa ponsel. Kuncinya adalah merangsang indra spasio-temporal dan melancarkan aliran darah otak."
   - question: "Apakah ada tips untuk mencatat ide yang muncul saat mendaki agar tidak terlupakan?"
     answer: "Kami menyarankan Anda membawa buku catatan kecil dan pena di saku untuk segera menulis kata kunci, atau menggunakan memo suara agar tidak mengganggu jalan."
+
 ---
 
 Werner Heisenberg meletakkan dasar mekanika kuantum modern. Ketika Heisenberg muda mengalami burnout akibat perhitungan matriks orbital elektron, ia mendaki Pegunungan Alpen Bavaria sendirian. Berhari-hari berjalan di hutan pinus merapikan pemikirannya. Pelajari efek pemulihan perhatian (Attention Restoration Theory).

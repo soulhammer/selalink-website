@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que devo escrever no diário nos dias em que não acontece nada de especial?"
     answer: "Manter a constância é mais importante do que preencher páginas. En dias tranquilos, escreva sobre um detalhe pelo qual esteja agradecido ou descreva como se sente fisicamente. O cérebro se relaja com a continuidade do ritual diário, não com o esforço de redigir um ensaio longo."
+
 ---
 
 A rainha Vitória regeu o Império britânico. Para sobrelevar a imensa carga do trono e a perda de seu esposo Albert, realizava um ritual de cura: escrever à mão um diário pessoal. Escreveu 122 tomos. Analisemos como a escrita analógica regula a atividade da amígdala.

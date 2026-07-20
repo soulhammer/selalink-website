@@ -21,6 +21,7 @@ faqs:
     answer: "Typing is repetitive and offers minimal tactile stimulation. Crucially, computer screens have multitasking distractions. For deep information mapping and brain restructuring, analog reading and hand-writing are much more ideal."
   - question: "What should modern people do if they don't have time to read for 10 hours daily?"
     answer: "The quality of screen-free focus matters more than the quantity of time. Even just 30 minutes a day of screen-free, focused reading and writing 1 or 2 pages of notes is enough to stimulate the association cortex and improve system thinking."
+
 ---
 
 Karl Marx dissected the economic structures of capitalism. How did his masterpiece Das Kapital come to life? 🏛️

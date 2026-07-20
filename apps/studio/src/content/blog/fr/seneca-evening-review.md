@@ -16,6 +16,7 @@ steps:
     text: "Fermez les yeux et revivez votre journée depuis le matin. Observez vos actions et décisions sans vous juger ni vous justifier, simplement en analysant."
   - name: "Tirer des leçons et lâcher prise"
     text: "Identifiez une leçon clé de la journée. Planifiez une correction concrète pour le lendemain. Une fois le plan établi, fermez le chapitre de la journée et libérez votre esprit."
+
 ---
 
 "Quand la lumière est éteinte et que ma femme s'est tue, j'examine ma journée entière." Sénèque tenait un procès avec lui-même chaque soir. En analysant ses actions objectivement dans le noir, il libérait les tensions émotionnelles, s'assurant un sommeil paisible.

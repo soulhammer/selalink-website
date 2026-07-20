@@ -21,6 +21,7 @@ faqs:
     answer: "Totalmente. Llenar una maceta pequeña en el balcón o sala con tierra y plantar una hierba pequeña o planta purificadora de aire ofrece el mismo estímulo táctil y contacto bacteriano. Lo importante es la conexión física, no el tamaño de la planta."
   - question: "¿Hay problemas de higiene al tocar la tierra con las manos descubiertas?"
     answer: "La tierra comercial suele estar esterilizada, siendo segura. De hecho, las bacterias beneficiosas ayudan a fortalecer el sistema inmune. Si le preocupa, use guantes finos de jardinería que permitan sentir la textura y lávese bien las manos con jabón después."
+
 ---
 
 Audrey Hepburn, el eterno ícono de Hollywood que trabajó por los niños como embajadora de UNICEF. ¿Cuál fue su fuente de fuerza para calmar sus heridas internas y mantener la elegancia a través de la exposición de los medios y el cáncer? Se dedicaba a tocar la tierra y cultivar flores cada tarde en su jardín en Tolochenaz, Suiza. Hoy, BuildSelf presenta los principios de restauración cognitiva y la rutina de curación emocional de la 'jardinería' de Audrey Hepburn.

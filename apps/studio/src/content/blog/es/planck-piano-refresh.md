@@ -21,6 +21,7 @@ faqs:
     answer: "Presiona las teclas libremente como tus dedos te guíen sin preocuparte por la melodía. Concentrarse solo en el tacto y la resonancia relaja y reinicia la red de atención cerebral."
   - question: "¿Puedo lograr un reinicio cognitivo con otros instrumentos además del piano?"
     answer: "Sí. Cualquier instrumento de cuerda o teclado que requiera coordinación fina y permita controlar la resonancia proporcionará efectos similares de cambio de atención."
+
 ---
 
 Max Planck, el padre de la teoría cuántica. Para tolerar la inmensa fatiga de calcular las leyes del cosmos, realizaba un ritual de descanso: tocaba el piano sin partitura. Incluso acompañaba al violín de su colega Albert Einstein. Analicemos cómo la improvisación artística activa el hemisferio derecho y relaja las redes lógicas del hemisferio izquierdo, induciendo la 'recarga cognitiva cruzada' que restaura la frescura cerebral.

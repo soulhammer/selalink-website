@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, certains originaux (comme ses critiques ou nouvelles) sont conservés sous forme de bandes collées de sa main à la Free Library de Philadelphie et dans d'autres musées américains."
   - question: "Existe-t-il des logiciels pour bloquer le réflexe de correction à l'écran ?"
     answer: "Oui, des applications comme 'The Most Dangerous Writing App' (qui efface le texte si vous vous arrêtez ou effacez) ou des éditeurs avec un mode machine à écrire (Typewriter Mode) bloquent l'édition des lignes précédentes."
+
 ---
 
 Edgar Allan Poe, pionnier de l'épouvante et inventeur du roman policier avec 'Le Corbeau' et 'Le Chat noir'. Sur quel support ses manuscrits de génie, qui explorent l'angoisse humaine et résolvent des énigmes logiques parfaites, ont-ils été rédigés ? 📜

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Trabalhar até tarde como Kafka não vai prejudicar o ciclo de sono?"
     answer: "Sim, ficar acordado excessivamente pode prejudicar a saúde. O foco desta rotina não é o horário da noite em si, mas garantir 'uma hora de silêncio absoluto' livre de distrações. Recomenda-se o uso de protetores de ruído ou aproveitar o início da manhã."
+
 ---
 
 Franz Kafka, amplamente considerado um pioneiro da literatura existencialista, retratou com agudeza a ansiedade e a alienação do ser humano moderno. Seu mundo criativo só se abria tarde da noite, quando a agitação do dia havia cessado por completo. Durante o dia, Kafka cumpria seu papel social como funcionário diligente em um instituto de seguros de acidentes de trabalho. No entanto, às 23h, quando a escuridão se intensificava e os barulhos da família e dos vizinhos silenciavam, ele finalmente se sentava à sua escrivaninha.

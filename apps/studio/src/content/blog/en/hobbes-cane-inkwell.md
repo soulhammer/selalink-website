@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, in the biography 'Brief Lives' written by John Aubrey, a contemporary biographer who was close to Hobbes, there is a detailed historical description that Hobbes attached a special inkwell to the end of his cane handle to write down inspirations while walking."
   - question: "Which method is more effective: voice memo or typing memo?"
     answer: "During walking, voice recording, which can capture text immediately while moving, is much safer and faster with less distraction. Typing requires delicate hand control and can cause attention interference, so voice memos are recommended while moving."
+
 ---
 
 Thomas Hobbes, the author of 'Leviathan', a classic of social contract theory and a work on the legitimacy of a huge state power. His sophisticated philosophical system, which laid the foundation for Western modern political philosophy, was carved not in front of a desk but on fields and mountain paths. And there was a very special companion in that work. 🦯

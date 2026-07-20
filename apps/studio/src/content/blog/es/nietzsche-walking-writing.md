@@ -21,6 +21,7 @@ faqs:
     answer: "Nietzsche caminaba principalmente despus del desayuno hasta la hora del almuerzo, y de nuevo a ltima hora de la tarde. Prefera los senderos de montaa y bosques para inspirarse."
   - question: "Es estrictamente necesario caminar al aire libre para practicar esto?"
     answer: "Aunque caminar al aire libre es ideal, pasear tranquilamente por un pasillo o en la oficina puede proporcionar una ligera transicin cognitiva y reiniciar el enfoque."
+
 ---
 
 Friedrich Nietzsche, el icónico filósofo que declaró que 'todos los pensamientos verdaderamente grandes se conciben al caminar'. Luchando contra problemas de salud crónicos, pasaba sus veranos en Sils Maria, Suiza, caminando por bosques y montañas hasta ocho horas al día. Con un cuaderno en la mano, registraba de inmediato las ideas que le surgían. Hoy, BuildSelf analiza cómo el movimiento físico desbloquea la creatividad profunda.

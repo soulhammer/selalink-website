@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa meluangkan waktu untuk membaca bersama selama rapat?"
     answer: "Jika diminta membaca terlebih dahulu, orang sering kali hanya membaca sekilas. Membaca paksa di ruang rapat memastikan semua orang mulai dengan kedalaman status kognitif yang sama."
+
 ---
 
 Jeff Bezos, pendiri Amazon. Dia melarang slide PPT dengan poin-poin singkat dan mewajibkan laporan bentuk tulisan naratif sepanjang 6 halaman. Tepat setelah rapat dimulai, tidak ada kata-kata yang diucapkan, dan peserta membaca memo dalam diam selama 30 menit. Mengapa mereka menerapkan aturan diam ini?

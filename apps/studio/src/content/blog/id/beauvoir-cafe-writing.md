@@ -21,6 +21,7 @@ faqs:
     answer: "Selama musim dingin yang parah di Paris pada tahun 1940-an, Café de Flore menyalakan tungku pemanas dengan sangat hangat di dalam, dan pemiliknya memiliki atmosfer ramah seniman."
   - question: "Bisakah saya menerapkan skrip kognitif di lingkungan rumah?"
     answer: "Tentu saja. Bahkan tanpa meninggalkan rumah, Anda dapat memicu efek peralihan kognitif yang sama dengan urutan seperti menyalakan lampu tertentu di sudut meja tertentu."
+
 ---
 
 Simone de Beauvoir, filsuf Prancis yang menulis 'The Second Sex' dan membuat tonggak sejarah besar dalam feminisme modern. Keadaan fokus tingginya ditenun bukan di ruang kerja yang glamor, melainkan di sudut kafe Paris yang ramai. ☕

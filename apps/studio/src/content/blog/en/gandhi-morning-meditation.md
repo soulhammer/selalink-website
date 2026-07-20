@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What are some modern tactile meditation activities that can replace spinning?"
     answer: "Any rhythmic activity that requires fine movement of fingers is good. Representative examples include transcribing with a fountain pen, quiet knitting or crocheting, brewing tea slowly, assembling Lego or puzzles, or playing finger drums, which neuroscientifically have the same serotonin-stimulating effect."
+
 ---
 
 Mahatma Gandhi, the father of India who led India's independence through the nonviolent disobedience movement and left a deep legacy of peace. Where did this peace activist's superhuman patience and unwavering inner peace begin? The answer lay in the special early morning ritual he strictly adhered to throughout his life.

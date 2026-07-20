@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What should I do if looking in the mirror stresses me out because I only see flaws or wrinkles on my face?"
     answer: "This is a very natural phenomenon. In the beginning of mirror-gazing, the appearance evaluation instinct operates strongly. At this time, try to focus and stare only at your 'pupil (eye)' rather than the entire face. It is helpful to lock your gaze with the sense that you are making eye contact with your existence itself, not the physical appearance."
+
 ---
 
 Frida Kahlo, the legendary Mexican painter, endured extreme physical pain from polio and a horrific bus accident that shattered her bones and led to more than 30 surgeries. In a desperate situation where she was bedridden, what saved her soul and made her a world-class painter was a single 'mirror' reflecting her every day.

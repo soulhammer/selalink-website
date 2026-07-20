@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "O movimento dos dedos do pé ajuda realmente a ativar o cérebro?"
     answer: "Sim, a região dos dedos do pé está localizada no córtex somatossensorial perto do centro cerebral. Estimular esses micromúsculos ativa o córtex pré-frontal."
+
 ---
 
 O cientista gênio que iluminou o mundo ao lado de Edison e lançou as bases da civilização elétrica moderna, Nikola Tesla. Você sabia que ele repetia uma ação muito excêntrica na cama todas as noites? ⚡

@@ -21,6 +21,7 @@ faqs:
     answer: "We recommend turning on a smartphone Speech-to-Text (STT) feature or AI memo app and voicing out yesterday's events or today's emotional burdens for 5 minutes as a brain dump."
   - question: "What should I talk about during dictation to boost productivity?"
     answer: "Listing factual events from yesterday, doing a brain dump of today's work priorities, or voicing out your current emotional state raw and unfiltered is sufficient."
+
 ---
 
 The pop art titan Andy Warhol transformed modern art with Campbell's soup cans and Marilyn Monroe portraits. Amidst the complex social relationships at his studio 'Factory,' squeezing of artistic inspirations, and financial budgets, the key that preserved his sharp edge was morning oral journaling. From 1976 to his death in 1987, Warhol called his secretary Pat Hackett every morning to recite taxi fares, daily gossips, and trivial talks for diary transcription. We analyze how this cleared working memory.

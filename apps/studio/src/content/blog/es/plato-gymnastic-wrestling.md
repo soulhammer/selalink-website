@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, no es necesario levantar pesas pesadas. Puede adaptar los ejercicios a flexiones en pared o sentadillas lentas. El indicador fisiológico es alcanzar un estado donde su respiración se eleve y sude ligeramente, por lo que debe ajustar la intensidad para mantenerse seguro."
   - question: "¿Puedo reemplazar el entrenamiento de resistencia con cardio como correr?"
     answer: "Aunque trotar ayuda, los entrenamientos cortos de resistencia de alta intensidad son más efectivos para activar la liberación rápida de BDNF. Si elige cardio, incorpore intervalos cortos de sprint para elevar la respiración, logrando el mismo efecto."
+
 ---
 
 Platón, el gigante intelectual que sentó las bases de la filosofía occidental y fundó la 'Academia'. ¿De dónde venía su incansable pensamiento y resistencia mental? 🤼

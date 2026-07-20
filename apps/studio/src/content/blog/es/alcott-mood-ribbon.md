@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué debo hacer si a las personas circundantes les disgusta esta rutina de la cinta, sintiendo que obstaculiza la comunicación?"
     answer: "Evite mantener activa la señal de bloqueo durante horas excesivamente largas. Es importante limitar el tiempo de concentración a un máximo de 50-60 minutos, y construir activamente la confianza mostrando que es bienvenido a hablar en otros momentos."
+
 ---
 
 Louisa May Alcott, la gran novelista estadounidense que conmovió a innumerables lectores escribiendo la novela clásica mundial 'Mujercitas'. ¿Cómo lograba concentrarse en la escritura sin ser molestada cuando su numerosa familia vivía junta en una bulliciosa casa? 🎀

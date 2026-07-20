@@ -16,6 +16,7 @@ steps:
     text: "Cierre los ojos y recorra mentalmente su día desde el momento en que se despertó. Observe sus acciones y decisiones sin juzgarse ni justificarse, solo analizando."
   - name: "Extraer lecciones y soltar el control"
     text: "Identifique una lección clave del día. Planee un ajuste concreto que implementará mañana. Una vez establecido el plan, cierre mentalmente el día y libérese de preocupaciones."
+
 ---
 
 "Cuando la luz se ha apagado y mi esposa ha guardado silencio, examino todo mi día." Séneca creía en celebrar un juicio para sí mismo cada noche. Al analizar objetivamente sus acciones en la oscuridad, eliminaba la carga emocional, permitiéndose dormir con una conciencia clara.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿No dará sueño o pereza trabajar en la cama?"
     answer: "Es posible. Por ello, la clave no es tumbarse sin más, sino apoyar el cuerpo con almohadas para mantener una 'relajación alerta'. También debe fijarse un tiempo de trabajo sin distractores cerca."
+
 ---
 
 Mark Twain, quien abrió un horizonte único en la literatura estadounidense con las novelas 'Las aventuras de Tom Sawyer' y 'Las aventuras de Huckleberry Finn,' es recordado como uno de los mayores humoristas. Sorprendentemente, su agudo humor y vívidas descripciones nacieron en el lugar más cómodo y aparentemente perezoso: su cálida 'cama.'

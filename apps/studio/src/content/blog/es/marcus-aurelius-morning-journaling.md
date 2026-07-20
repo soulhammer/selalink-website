@@ -21,6 +21,7 @@ faqs:
     answer: "No se juzgue a sí mismo. En el estoicismo, la autocrítica es contraproducente. Si tiene prisa, escriba una sola frase en el móvil o recupérelo por la noche. Lo importante es mantener la actitud."
   - question: "¿En qué se diferencia de un diario de gratitud estándar?"
     answer: "Mientras que el diario de gratitud se enfoca en lo positivo, la reflexión estoica anticipa de forma deliberada los eventos negativos (Premeditatio Malorum) y se centra en cómo controlar sus propias reacciones. Es una preparación mental."
+
 ---
 
 "Al amanecer, cuando te cueste levantarte de la cama, dite a ti mismo: tengo que ir a trabajar como ser humano." Marco Aurelio, el emperador filósofo de Roma, se escribía esto a sí mismo. En el silencio de su tienda militar antes del amanecer, escribía un diario no para publicar, sino para cultivar una mente firme en medio de las crisis.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, Einstein costumava velejar no mar para sentir o vento e meditar, ou dormia mais de 10 horas por dia para permitir ao seu subconsciente organizar os problemas complexos."
   - question: "Quem não sabe tocar nenhum instrumento pode seguir esta rotina?"
     answer: "Com certeza. Em vez de tocar, pode concentrar-se na música clássica, marcar o ritmo com os dedos ou fazer respirações profundas enquanto bloqueia estímulos visuais por 5 minutos."
+
 ---
 
 Albert Einstein, o maior físico da história, que mudou o paradigma da física moderna ao publicar a teoria da relatividade e revolucionou a forma como a humanidade compreende o universo. De onde vieram as grandes inspirações que mudaram a mente humana? 🎻

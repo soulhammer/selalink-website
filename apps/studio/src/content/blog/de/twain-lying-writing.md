@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wird man beim Arbeiten im Bett nicht schläfrig oder träge?"
     answer: "Das ist möglich. Daher geht es nicht um einfaches Liegen, sondern um die Stützung des Oberkörpers mit Kissen, um einen Zustand wacher Entspannung zu halten. Legen Sie feste Zeiten fest und verbannen Sie Ablenkungen."
+
 ---
 
 Mark Twain, der mit seinen Romanen 'Die Abenteuer des Tom Sawyer' und 'Die Abenteuer des Huckleberry Finn' den Weg für die eigenständige amerikanische Literatur ebnete, gilt als einer der größten Humoristen der Geschichte. Überraschenderweise wurden sein scharfer Humor und seine lebendigen Beschreibungen am bequemsten und scheinbar faulsten Ort geboren: in seinem warmen 'Bett'.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wie informiere ich Kollegen über meinen Offline-Zeitplan, um Missverständnisse zu vermeiden?"
     answer: "Richten Sie einen Autoresponder oder eine Statusmeldung ein mit dem Text: „Ich lese meine E-Mails zweimal täglich, um mich auf Projekte zu konzentrieren. In dringenden Fällen kontaktieren Sie mich bitte telefonisch.“ Dies regelt die Erwartungen anderer, reduziert ungeduldige Rückfragen und schützt Ihre Offline-Grenzen, ohne die beruflichen Beziehungen zu belasten."
+
 ---
 
 Donald Knuth, der Informatikpionier, der The Art of Computer Programming schrieb. Obwohl er im Zentrum der Computerrevolution stand, traf er 1990 eine radikale Entscheidung: Er gab E-Mails komplett auf. Er erklärte, seine Rolle bestehe nicht darin, immer auf dem Laufenden zu sein, sondern den Dingen auf den Grund zu gehen. Stattdessen nimmt er Anfragen per Post oder Fax entgegen und bearbeitet sie alle paar Monate stapelweise. Wir untersuchen den kognitiven Wert dieser extremen Offline-Routine zum Schutz der Konzentration.

@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Does curling toes really help activate the brain?"
     answer: "Yes, the toe region is located in the somatosensory cortex mapping near the center of the brain. Stimulating toe micro-muscles sends electrical signals to active the prefrontal cortex."
+
 ---
 
 The genius scientist who lit up the world alongside Edison and laid the foundation for modern electrical civilization, Nikola Tesla. Did you know that he repeated a very strange action in bed every night? ⚡

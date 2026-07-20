@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, in his personal letters to family and doctors, Jefferson wrote that he had practiced this cold foot bath every morning for sixty years, attributing his robust health and lack of colds to this habit."
   - question: "Is a cold shower more effective than a cold foot bath?"
     answer: "A cold shower provides stronger overall stimulation, but also causes higher physiological stress. A cold foot bath is a gentle, sustainable alternative that effectively wakes up peripheral nerves with minimal physical strain."
+
 ---
 
 Thomas Jefferson, the principal author of the Declaration of Independence and the third President of the United States. Renowned for his lifelong health and sharp intellect, he maintained a unique ritual for over 60 years: placing his feet in cold water immediately upon waking. Today, BuildSelf explores how sudden cold exposure triggers neurotransmitter release and optimizes your morning focus.

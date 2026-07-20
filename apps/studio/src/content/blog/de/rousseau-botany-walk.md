@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum nutzte Rousseau die Rückseite von Spielkarten?"
     answer: "Er wollte keine schweren Bücher beim Wandern tragen. Die festen Spielkarten boten eine gute Schreibfläche im Stehen und passten in jede Tasche."
+
 ---
 
 Jean-Jacques Rousseau war der französische Denker, der den Weg für die Französische Revolution ebnete. In seinen späten Jahren, geplagt von Verfolgung und Ängsten, fand er Trost im Pflanzensammeln beim Gehen. Jeden Nachmittag sammelte er Wildpflanzen und schrieb Einfälle auf die Rückseite von Spielkarten. Diese Notizen wurden zu *Träumereien eines einsamen Spaziergängers*. Entdecken Sie die heilsame Wirkung.

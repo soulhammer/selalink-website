@@ -21,6 +21,7 @@ faqs:
     answer: "Los baños calientes relajan los músculos y estabilizan el ritmo cardíaco. Masticar manzanas crujientes y oler su aroma activa los nervios faciales y los músculos de la mandíbula, induciendo una alerta tranquila para las tramas."
   - question: "¿Qué métodos de relajación física puedo usar si no tengo bañera?"
     answer: "Puede tomar un baño de pies tibio o beber té caliente para elevar suavemente la temperatura corporal. La relajación sensorial activa la Red Neuronal por Defecto cerebral."
+
 ---
 
 Agatha Christie, la creadora de Hércules Poirot y Miss Marple, y la novelista más vendida de la historia. ¿Cómo surgieron sus intrincadas tramas de asesinato? En lugar de encerrarse a escribir, Christie creía que su mente funcionaba mejor en un baño tibio. Hoy, BuildSelf analiza la ciencia del comportamiento detrás de esta rutina.

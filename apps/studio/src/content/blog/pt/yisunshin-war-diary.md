@@ -21,6 +21,7 @@ faqs:
     answer: "Não é necessário escrever muito. Três linhas bastam: 'uma coisa que me esgotou hoje', 'como me senti' e 'uma coisa que posso mudar amanhã'."
   - question: "O efeito é o mesmo se eu escrever em um aplicativo ou no teclado?"
     answer: "É mais eficaz escrever à mão no papel. O estímulo físico de mover la mano envía sinais táteis que ativam a concentração do lobo frontal. Se digitar, certifique-se de bloquear todos os alertas para não romper a concentração."
+
 ---
 
 O almirante Yi Sun-shin de Joseon estabeleceu um recorde de 23 vitórias em 23 batalhas. Diante de conspirações políticas, torturas e uma frota inimiga esmagadora, onde encontrava forças para manter a compostura? Ele acendia um lampião todas as noites e registrava meticulosamente o clima e suas mágoas no Nanjung Ilgi. Escrever era um ritual de cura para dissipar a frustração. Hoje, o BuildSelf apresenta os efeitos dessa rotina.

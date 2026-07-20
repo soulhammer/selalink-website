@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What is the principle behind drawing on tin foil calming stress?"
     answer: "The friction and sound when scratching metal foil fills somatosensory feedback, blocking anxiety and mind-wandering by anchoring focus in the tactile-visual present."
+
 ---
 
 Lee Jung-seob, the legendary master of modern Korean Western painting, suffered severe poverty and separation from his family during the Korean War. Lacking money for paint or canvas, he never stopped. Instead, he collected discarded cigarette packs to create drawings on the tin foil lining. 🐂

@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, latihan jari berulang yang sederhana setelah bangun tidur mengaktifkan korteks motorik otak dan melatih fokus perhatian."
   - question: "Bagaimana cara menggantinya jika saya tidak memiliki piano sungguhan?"
     answer: "Menggerakkan jari secara berurutan di atas meja dengan bantuan metronom sudah cukup merangsang korteks motorik."
+
 ---
 
 Komposer Hongaria Franz Liszt, kaisar piano selama era Romantis abad ke-19 dan pianis virtuoso terhebat pada masanya, memperluas batas ekspresi musik piano secara maksimal melalui kecanggihan dan metode latihan yang luar biasa. Alih-alih berlatih bermain keyboard dengan cepat dan sembarangan, ia berlatih setiap hari dengan memperlambat tempo metronom ke tingkat gerakan sangat lambat dan hanya memainkan satu tuts per detik tanpa kesalahan. Dia memprogram lintasan gerakan otot yang sempurna pada keyboard ke dalam otaknya, dan kemudian menggunakannya untuk menciptakan gerakan yang ajaib dan spektakuler.

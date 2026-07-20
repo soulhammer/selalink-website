@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Preciso acordar às 4h? Sou uma pessoa noturna."
     answer: "Não. O fundamental não é a hora absoluta das 4h, mas sim aplicar de forma consistente o mecanismo de 3 etapas (bloquear carga, comunicação e caminhada) ao seu cronograma."
+
 ---
 
 O presidente Chung Ju-yung, fundador do Grupo Hyundai. Ele tinha uma rotina matinal única: acordar antes das 4h diariamente, tomar café da manhã com a família às 5h e caminhar até o escritório em Gaedong. Explore as recompensas cognitivas do amanhecer.

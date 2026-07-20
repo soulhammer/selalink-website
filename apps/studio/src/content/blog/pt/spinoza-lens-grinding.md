@@ -16,6 +16,7 @@ steps:
     text: "Deixe sua mesa e inicie uma tarefa manual por 15 minutos. Garanta que a atividade exija controle preciso dos dedos e certa atenção (como lavar a louça)."
   - name: "Retornar ao trabalho cognitivo"
     text: "Após o descanso, retorne ao trabalho original. Você notará que seu córtex pré-frontal recuperou sua energia, facilitando a resolução de problemas."
+
 ---
 
 "A lógica precisa de clareza, e a clareza é polida à mão." Baruch Espinoza, o filósofo holandês que definiu Deus como a natureza, recusou patrocínios para manter sua independência. Em vez disso, ganhava a vida polindo lentes. Enquanto trabalhava em sua bancada, os movimentos repetitivos permitiam que seu cérebro descansasse.

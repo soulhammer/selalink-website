@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Como a ficha de Júlio Verne se diferencia do método Zettelkasten do professor Niklas Luhmann?"
     answer: "Enquanto o Zettelkasten se concentra na criação de uma rede de pensamentos por meio de links numerados permanentes, as fichas de Júlio Verne concentram-se em construir um grande arquivo enciclopédico de dados científicos por categorias para apoiar as descrições técnicas e a verosimilhança em suas obras."
+
 ---
 
 Júlio Verne, o pioneiro da ficção científica que reuniu aventuras fantásticas e imaginações brilhantes à frente do seu tempo em obras como 'Vinte Mil Léguas Submarinas' e 'A Volta ao Mundo em Oitenta Dias'. De onde vinha o seu detalhado conhecimento de base que previu com assombrosa precisão satélites, submarinos e foguetes lunares no século XIX? 🗺️

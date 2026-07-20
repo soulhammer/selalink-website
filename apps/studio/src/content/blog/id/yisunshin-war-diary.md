@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak perlu menulis panjang. Menulis tiga baris saja sudah cukup: 'satu hal yang melelahkan hari ini', 'bagaimana perasaan saya', dan 'satu hal yang bisa saya perbaiki besok'."
   - question: "Apakah efeknya sama jika menulis di aplikasi buku harian ponsel atau mengetik?"
     answer: "Menulis tangan di atas kertas adalah yang paling efektif. Umpan balik fisik dari gerakan tangan mengirimkan sinyal taktil yang mengaktifkan konsentrasi. Jika mengetik, pastikan semua notifikasi diblokir."
+
 ---
 
 Laksamana Yi Sun-shin dari Joseon mencetak rekor 23 kemenangan dalam 23 pertempuran. Menghadapi konspirasi politik, siksaan, dan armada musuh yang luar biasa, dari mana ia menarik kekuatan untuk tetap tenang? Ia menyalakan lentera setiap malam dan mencatat cuaca serta keluh kesahnya di Nanjung Ilgi. Menulis bukanlah sekadar laporan militer, melainkan ritual penyembuhan untuk membuang rasa frustrasi. Hari ini, BuildSelf memperkenalkan efek dari rutinitas ini.

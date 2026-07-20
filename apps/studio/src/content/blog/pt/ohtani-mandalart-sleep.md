@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Posso reduzir as horas de sono se 10 horas não for realista para mim?"
     answer: "O padrão de 10 horas é para atletas de alto rendimento; dormir entre 7 e 8 horas é suficiente para a maioria das pessoas. A chave está em melhorar a qualidade e proporção de sono profundo controlando o ambiente."
+
 ---
 
 A estrela da Major League Baseball Shohei Ohtani. O segredo para manter um nível de elite baseia-se em duas rotinas: o plano Mandalart de 81 casas e seu hábito de dormir pelo menos 10 horas, mesmo levando seu próprio travesseiro nas viagens. Analisamos como este rigor reseta o cérebro e os músculos.

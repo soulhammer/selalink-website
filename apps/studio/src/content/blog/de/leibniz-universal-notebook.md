@@ -21,6 +21,7 @@ faqs:
     answer: "Ja. Digitale Tools eignen sich hervorragend für die Suche und Verknüpfung. Der Schlüssel liegt darin, eine Fragmentierung von Dateien zu vermeiden und stattdessen eine einzige einheitliche Datenbank mit Datums- und Kategorie-Tags zu führen."
   - question: "Wird das Sammeln aller Dinge an einem Ort nicht zu einem Chaos führen?"
     answer: "Akkumulation geht vor Ordnung. Wenn Ideen nahe beieinander liegen, kann das Gehirn sie gegenseitig befruchten. Machen Sie sich keine täglichen Sorgen um die Ordnung; widmen Sie wöchentlich ein kurzes Zeitfenster dem Taggen und Bereinigen von Einträgen."
+
 ---
 
 Gottfried Wilhelm Leibniz, der deutsche Philosoph, Erfinder der Infinitesimalrechnung und Begründer des Binärcodes, besaß eines der umfangreichsten enzyklopädischen Wissen der Geschichte. Seine monumentale Wissenslandkarte baute auf einer gründlichen Gewohnheit des Notizenschreibens auf. Leibniz führte zeit seines Lebens ein einziges Commonplace Book mit sich. Zitate aus Lektüren, Gesprächserkenntnisse und in Kutschen entwickelte mathematische Formeln wurden an einem Ort unter seinem eigenen Indexsystem festgehalten.

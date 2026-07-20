@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What are the essential core movements if it is hard to learn the entire Hwalinsimbang?"
     answer: "If it is hard to perform all actions, remember just two. First, rub your palms after waking up to generate heat, and massage your face. Second, sit comfortably on your bed, straighten your back, inhale deeply through the nose, and exhale quietly through the mouth for about 10 seconds. These two are enough to optimize the parasympathetic wake-up response."
+
 ---
 
 The giant of Korean Neo-Confucianism, Yi Hwang. Though he achieved deep academic standards, he was frail, suffering from chronic stomach illnesses throughout his life. The secret he practiced every morning to preserve his health and sharp intellect was the Hwalinsimbang exercise. Waking up early at dawn, he sat straight on his bed to perform 24 stretching movements and regulate his breath. Let's reveal how this classic morning routine controls morning hormone spikes and brings calm alertness.

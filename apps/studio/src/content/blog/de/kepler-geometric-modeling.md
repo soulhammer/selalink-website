@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Welche geometrischen Modelle schnitzte Kepler?"
     answer: "Er schuf ein Modell aus den fünf platonischen Körpern (Oktaeder, Ikosaeder, Dodekaeder, Tetraeder, Würfel) ineinander, um die Planetenbahnen darzustellen."
+
 ---
 
 Johannes Kepler, der Astronom und Mathematiker, entdeckte die Gesetze der Planetenbewegung. Ohne Computer musste er gigantische Berechnungen anstellen. Stieß er an Grenzen, schnitzte er 3D-Modelle des Universums aus Holz oder Ton. Durch das Tasten nach Proportionen fand er astronomische Antworten. Entdecken Sie die Vorteile haptischer Raummanipulation.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, caminar a cualquier hora proporciona estimulación bilateral. Sin embargo, mientras las caminatas matutinas despiertan el cerebro, las vespertinas ayudan a liberar la tensión emocional y la carga cognitiva acumuladas durante el día."
   - question: "¿Puedo escribir mis pensamientos en un móvil o teclado?"
     answer: "Escribir con teclado activa el modo de cálculo lógico debido a la retroalimentación visual simplificada. En cambio, escribir a mano con un bolígrafo estimula el Sistema de Activación Reticular (SAR), ayudando a aflorar el subconsciente."
+
 ---
 
 Sigmund Freud, el padre del psicoanálisis que reformuló la psicología moderna al introducir conceptos como el subconsciente. ¿De dónde surgieron sus profundos conocimientos? 🧠

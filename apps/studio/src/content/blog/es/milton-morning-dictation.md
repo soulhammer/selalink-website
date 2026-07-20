@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Cómo memorizaba Milton los versos antes de que llegara el transcriptor?"
     answer: "Milton repetía los versos para sí mismo como una canción rítmica. Al ser ciego, desarrolló una aguda memoria auditiva, usando la métrica del poema como ancla."
+
 ---
 
 John Milton, el legendario poeta inglés que escribió la obra maestra *El paraíso perdido* completamente ciego. ¿Cómo pudo escribir una epopeya de más de 10.000 líneas sin ver una sola letra? El secreto está en su rutina de las 4 a.m. Milton se despertaba antes del amanecer y meditaba en silencio para dar forma a los versos en su mente. Al llegar su asistente a las 7 a.m., dictaba su composición. Conozcamos la ciencia detrás de su enfoque.

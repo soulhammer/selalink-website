@@ -21,6 +21,7 @@ faqs:
     answer: "Pour les débutants, remplir tout l'agenda avec des blocs de 5 minutes provoque une surcharge cognitive. Il est conseillé de commencer par des blocs de 15 ou 30 minutes pour seulement 1 ou 2 heures de concentration par jour."
   - question: "Que se passe-t-il si je ne termine pas le travail dans le bloc de temps alloué ?"
     answer: "Passez immédiatement au bloc suivant. Allouez le travail restant à un 'bloc tampon' (Buffer Block) en fin d'après-midi, pour éviter qu'un retard ne gâche toute la journée."
+
 ---
 
 Elon Musk dirige Tesla et SpaceX en travaillant jusqu'à 100 heures par semaine. Son secret est de planifier sa journée en blocs de 5 minutes. Au moment de commencer un bloc, il coupe tout avertissement et concentre 100% de son énergie.

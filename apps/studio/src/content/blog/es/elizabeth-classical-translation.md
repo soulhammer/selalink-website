@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, obtener resultados con un solo clic no estimula las redes cognitivas. Las sinapsis en la corteza frontal se desarrollan activamente solo cuando pasa por el 'proceso de resistencia cerebral', como buscar diccionarios y armar la oración."
   - question: "¿El effecto se limita solo a estudiar idiomas clásicos como el griego y el latín?"
     answer: "No. Los textos de idiomas extranjeros modernos (inglés, chino, alemán, etc.) con diferentes estructuras lógicas sirven como excelentes herramientas. La clave es traducir textos densos y formales como filosofía o columnas, no diálogos casuales."
+
 ---
 
 Isabel I, reina de Inglaterra, lideró el país durante la Armada Invencible y gran inestabilidad. Su secreto era levantarse temprano para traducir a Cicerón o Séneca del latín al inglés durante una hora. Este descifrado gramatical agudizaba su mente para decidir sobre los asuntos de Estado.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, nas suas cartas pessoais Jefferson escreveu que tinha praticado este banho de pés todas as manhãs durante sessenta anos, atribuindo a sua saúde forte e a falta de constipações a este hábito."
   - question: "É mais eficaz tomar um duche frio do que um banho de pés frio?"
     answer: "Um duche frio oferece um estímulo geral mais forte, mas também gera maior stress fisiológico. O banho de pés é uma alternativa suave e sustentável que desperta os nervos periféricos com o mínimo de esforço corporal."
+
 ---
 
 Thomas Jefferson, o principal autor da Declaração de Independência e o terceiro presidente dos Estados Unidos. Reconhecido pela sua saúde e intelecto, manteve um ritual único durante mais de 60 anos: colocar os pés em água fria ao acordar. Hoje, o BuildSelf explora como o frio estimula o foco matinal.

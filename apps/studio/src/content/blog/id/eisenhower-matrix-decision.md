@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika tempat kerja saya menuntut semuanya mendesak? Bagaimana saya bisa melindungi Kuadran 2?"
     answer: "Ketika segala sesuatu terasa mendesak, biasanya itu berarti tenggat waktu orang lain mengesampingkan prioritas Anda sendiri. Tetapkan blok waktu 30 menit yang tidak dapat ditawar di awal hari Anda untuk pekerjaan K2, dengan menutup email dan aplikasi obrolan. Batasan kecil ini mencegah pemadaman kebakaran yang reaktif dan mengurangi keadaan darurat di masa depan."
+
 ---
 
 Dwight D. Eisenhower, Panglima Tertinggi Sekutu dalam Perang Dunia II dan Presiden AS ke-34, menghadapi beberapa keputusan paling kompleks dalam sejarah setiap hari. Di tengah operasi militer, diplomasi, dan pemerintahan yang masif, ia mempraktikkan kebiasaan pagi yang sederhana namun kuat: menggambar tanda silang di kertas untuk membagi tugas menjadi empat kuadran. Dia terus bertanya, 'Apakah ini penting, atau hanya mendesak?' Kami menjelajahi prinsip-prinsip psikologis Matriks Eisenhower yang membebaskan otak dari perangkap urgensi.

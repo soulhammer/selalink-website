@@ -21,6 +21,7 @@ faqs:
     answer: "Brahms memiliki kepribadian perfeksionis dan percaya bahwa kekuatan dan rasa kopi terkait langsung dengan kewaspadaan paginya, sehingga dia memiliki ritual membuat kopi sendiri."
   - question: "Bagaimana olahraga berjalan berkontribusi pada stimulasi otak?"
     answer: "Berjalan meningkatkan aliran darah otak melalui dampak langkah kaki dan mendorong pelepasan BDNF, membentuk sinapsis untuk memaksimalkan solusi kreatif dan kapasitas memori kerja."
+
 ---
 
 Johannes Brahms, komposer yang disebut sebagai salah satu dari tiga 'B' musik klasik Jerman bersama Johann Sebastian Bach dan Ludwig van Beethoven. Mahakaryanya yang berat namun liris dirancang dalam rutinitas kebangkitan pagi yang sempurna setiap hari. ☕

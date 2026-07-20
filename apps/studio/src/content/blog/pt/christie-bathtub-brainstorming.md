@@ -21,6 +21,7 @@ faqs:
     answer: "Os banhos quentes relaxam os músculos e estabilizam o ritmo cardíaco. Mastigar maçãs crocantes e cheirar o seu aroma ativa os nervos faciais e os músculos da mandíbula, induzindo um alerta tranquilo para os enredos."
   - question: "Que métodos de relaxamento físico posso usar se não tiver banheira?"
     answer: "Pode fazer um escalda-pés morno ou beber chá quente para elevar suavemente a temperatura corporal. O relaxamento sensorial ativa a Rede Neuronal por Omissão."
+
 ---
 
 Agatha Christie, a criadora de Hercule Poirot e Miss Marple, e a romancista mais vendida da história. Como surgiram os seus enredos intrincados? Em vez de se fechar num escritório, Christie acreditava que a sua mente funcionava melhor num banho morno. Hoje, o BuildSelf explora a ciência por trás disso.

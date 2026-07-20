@@ -21,6 +21,7 @@ faqs:
     answer: "Não. O fundamental é garantir um tempo sem interrupções ao acordar. Levantar apenas 30 minutos mais cedo e ler sem distrações digitais é suficiente para obter o mesmo efeito."
   - question: "Tudo bem ler web novels ou artigos de redes sociais?"
     answer: "Para aquecer o cérebro, é melhor ler livros físicos estruturados, em vez de textos digitais fragmentados. Livros de filosofia, ciências humanas, história ou ensaios que exijam reflexão ativa são mais benéficos."
+
 ---
 
 O rei Sejong, o Grande, o monarca mais respeitado da história da Coréia que criou o Hangeul e promoveu a ciência e a cultura. Qual era o segredo de sua extraordinária criatividade e decisões sábias apesar do excesso de trabalho e doenças? Ele acordava antes de todos às 3 ou 4 da manhã e lia sob a luz de velas. Nesse tempo silencioso, concentrava-se em ler história e clássicos para se preparar para os debates. Hoje, o BuildSelf apresenta os princípios neurológicos e a implementação moderna da rotina de 'leitura ao amanhecer' do rei Sejong.

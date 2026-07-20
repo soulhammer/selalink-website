@@ -21,6 +21,7 @@ faqs:
     answer: "Les applications mobiles ont les mêmes règles, mais la lumière de l'écran, les pubs et les notifications maintiennent le cerveau en alerte. Utiliser des outils physiques est bien plus efficace."
   - question: "Cela ne provoque-t-il pas du stress si les cartes sont bloquées ?"
     answer: "Le but n'est pas de 'gagner', mais de détourner l'attention. Même si vous êtes bloqué, le fait de manipuler les cartes a déjà reposé votre esprit. Mélangez et recommencez."
+
 ---
 
 Charles de Gaulle a dirigé la 'France Libre'. Face au stress, il se réfugiait dans le 'Solitaire'. 🃏

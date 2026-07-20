@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Virginia Woolf menulis sambil berdiri?"
     answer: "Terinspirasi oleh saudaranya yang melukis sambil berdiri, ia menggunakan meja berdiri sebagai ritual fisik."
+
 ---
 
 Virginia Woolf, yang dinilai sebagai pelopor sastra modernis abad ke-20, meninggalkan mahakarya seperti 'Mrs. Dalloway' & 'To the Lighthouse.' Bagaimana dia bisa mewujudkan dunia batin yang begitu intim & psikologi yang kompleks dengan kalimat yang gigih & canggih?

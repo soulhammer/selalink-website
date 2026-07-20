@@ -21,6 +21,7 @@ faqs:
     answer: "Les écrans lisses manquent de la friction du papier, réduisant le retour sensoriel. De plus, les notifications perturbent la concentration. Écrire sur papier offre une résistance physique qui stimule le cortex et favorise une décharge cognitive plus profonde."
   - question: "Est-ce efficace de rester assis pour dessiner sans marcher ?"
     answer: "Dessiner assis aide, mais associer le croquis à la marche et à la poursuite visuelle améliore le résultat. Marcher stimule le flux sanguin et la vigilance, tandis que suivre des objets du regard prépare le cerveau au raisonnement logique."
+
 ---
 
 Henry Ford, le géant de l'automobile qui a mis en place la production en série sur chaîne de montage. D'où venaient ses inspirations structurelles ? 🚗

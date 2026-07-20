@@ -21,6 +21,7 @@ faqs:
     answer: "While morning pages are written after washing your face or sitting down, where reason is partially active, Voltaire's bedside writing targets the 'gap in the brain' during sleep inertia before physically getting up, capturing subconscious metaphors and creative thoughts in their rawest state."
   - question: "What should I do if I can't think of anything to write in bed every morning?"
     answer: "There is absolutely no need to write grand ideas. You can simply write down any minor fragment that passes through your head, like a bad event from yesterday, the annoyance of today's tasks, or random lists of words. The goal is the practice of releasing the brain's inhibition filter."
+
 ---
 
 Voltaire, the symbol of the 18th-century European Enlightenment, who left behind countless novels, tragedies, and historical texts. Where did his sharp criticisms and brilliant humanistic ideas begin each morning? ✍️

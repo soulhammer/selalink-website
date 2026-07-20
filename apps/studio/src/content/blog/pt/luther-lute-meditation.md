@@ -21,6 +21,7 @@ faqs:
     answer: "É suficiente passar 5 minutos se concentrando no som de instrumentos simples como tigelas tibetanas ou kalimbas. O essencial é proporcionar um espaço criativo livre de julgamentos."
   - question: "Ouvir música de forma passiva pode alcançar o mesmo efeito que tocar um instrumento?"
     answer: "Tocar um instrumento coordena o controle motor fino e o feedback físico, o que estimula o córtex motor e as redes de atenção pré-frontal muito mais do que ouvir passivamente."
+
 ---
 
 Martinho Lutero desafiou o poder da Igreja católica. Enfrentando perigos de morte, a sua saúde mental e digestiva sofria um grande estresse. O seu método era tocar o alaúde (Lute) cada manhã após as suas orações. Analisemos como o processo estimula o nervo vago e ativa o sistema parassimpático.

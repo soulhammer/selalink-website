@@ -21,6 +21,7 @@ faqs:
     answer: "Yes. Digital tools are excellent for search and linking. The key is to avoid fragmenting files and instead maintain a single unified database with date and category tags."
   - question: "Won't gathering everything in one place make it messy?"
     answer: "Accumulation precedes order. Having ideas close together allows the brain to cross-pollinate them. Don't worry about order daily; dedicate a brief weekly slot to tag and clean up entries."
+
 ---
 
 Gottfried Wilhelm Leibniz, the German philosopher, creator of calculus, and founder of binary code, possessed some of the most vast encyclopedic knowledge in history. His monumental map of learning was built on a thorough note-taking habit. Leibniz kept a single commonplace book with him throughout his life. Quotes from reading, conversational insights, and mathematical formulas derived in carriages were all recorded in one place under his own index system. We explore Leibniz's notebook mechanism.

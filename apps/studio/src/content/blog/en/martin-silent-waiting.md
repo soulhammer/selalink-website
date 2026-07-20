@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How can time-pressed professionals shorten Martin's routine practically?"
     answer: "You don't need to sit for hours. Securing an 'Intentional Pause' for just 3 to 5 minutes before starting work is sufficient. Before booting up your computer, close your eyes and take three deep breaths, asking: 'What is the single most essential task I must accomplish today?' This brief window achieves the desired metacognitive tuning."
+
 ---
 
 Agnes Martin, the master of minimalist grid paintings. To maintain her creativity under public scrutiny, she practiced an extremely static morning ritual. She sat quietly in a rocking chair before an empty canvas, waiting for hours until all desires and planning dissolved. Only when a clear vision emerged did she pick up her brush. We examine how this mental clearing routine prepares the brain for high-level insight.

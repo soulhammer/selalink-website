@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah mengonsumsi kafein larut malam mengganggu tidur?"
     answer: "Ya, itu dapat menurunkan kualitas tidur. Gaya hidup Balzac tidak cocok untuk pekerja modern. Jika sensitif, gunakan kopi dekave atau teh mint, & jadwalkan blok kerja di pagi hari atau segera setelah pulang kerja."
+
 ---
 
 Honoré de Balzac, raksasa mutlak sastra realis Prancis abad ke-19, meletakkan dasar bagi novel modern dengan 'Komedi Manusia.' Kekuatan pendorong di balik karya kreatifnya adalah rutinitas 'hiperfokus' ekstrem bangun tengah malam & menulis selama 12 jam. Bangun tengah malam saat dunia sunyi, Balzac menyalakan 2 lilin saja & menghapus semua gangguan. Ia menulis selama 12-15 jam & meminum kopi hitam agar otak tetap waspada.

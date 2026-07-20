@@ -16,6 +16,7 @@ steps:
     text: "Verlassen Sie Ihren Schreibtisch und widmen Sie sich 15 Minuten lang einer analogen Tätigkeit, die eine präzise Fingermotorik erfordert (z. B. Abwaschen)."
   - name: "Kehren Sie zur kognitiven Arbeit zurück"
     text: "Kehren Sie nach der Pause zur Arbeit zurück. Sie werden feststellen, dass Ihr präfrontaler Kortex sich erholt hat und Sie logische Probleme leichter lösen können."
+
 ---
 
 "Logik braucht Klarheit, und Klarheit wird von Hand poliert." Baruch Spinoza, der niederländische Philosoph, der Gott als Natur definierte, lehnte wohlhabende Gönner ab, um seine Unabhängigkeit zu bewahren. Er verdiente seinen Lebensunterhalt mit dem Schleifen von Linsen. Diese repetitive, präzise Arbeit bot seinem Geist die nötige Pause.

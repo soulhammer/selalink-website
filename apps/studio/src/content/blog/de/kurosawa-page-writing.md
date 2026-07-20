@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Will the progress be too slow if daily micro-goals are too small?"
     answer: "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year."
+
 ---
 
 Akira Kurosawa schrieb jeden Tag eine feste Anzahl von Drehbuchseiten, unabhängig von seiner Inspiration. Diese Routine verhinderte Schreibblockaden durch Disziplin statt Motivation.

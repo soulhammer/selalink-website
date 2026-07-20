@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, en sus cartas personales Jefferson escribió que había practicado este baño de pies cada mañana durante sesenta años, atribuyendo su salud fuerte y la falta de resfriados a este hábito."
   - question: "¿Es más efectivo ducharse con agua fría que un baño de pies frío?"
     answer: "Una ducha fría ofrece un estímulo general más fuerte, pero también genera mayor estrés fisiológico. El baño de pies es una alternativa suave y sostenible que despierta los nervios periféricos con mínimo esfuerzo corporal."
+
 ---
 
 Thomas Jefferson, el autor principal de la Declaración de Independencia y the third President of the United States. Reconocido por su salud y su intelecto, mantuvo un ritual único durante más de 60 años: meter los pies en agua fría al despertar. Hoy, BuildSelf analiza cómo el frío estimula el enfoque matutino.

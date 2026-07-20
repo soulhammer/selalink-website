@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Doesn't working in bed turn the bedroom into a stressful space, causing insomnia?"
     answer: "That is an important distinction. Never perform stressful tasks in bed, such as replying to complaints, organizing spreadsheets, or calendar planning. Restrict bedside tasks strictly to creative ideation, first-draft writing, or reflection. Keeping the bedside work purely positive and stress-free prevents the sleep associative value of the bed from being compromised."
+
 ---
 
 Edith Wharton, the first woman to win the Pulitzer Prize in Fiction for her novel The Age of Innocence, dissected the vanity and hypocrisies of high society with razor-sharp prose. Yet, her daily writing routine was incredibly cozy. Waking early, she refused to leave her bed until 11 AM. Propped up by pillows, with her pet Pekinese dogs lying on the blankets, she wrote on a wooden board balanced on her lap. This profound physical relaxation minimized writing anxiety and generated a highly active stream of creative imagination. We explore the neurobiology of how somatic relaxation shifts the autonomic nervous system to parasympathetic dominance, fostering the brainwaves needed for deep storytelling.

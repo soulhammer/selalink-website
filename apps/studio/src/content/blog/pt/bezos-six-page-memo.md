@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Por que reservar um tempo para ler juntos durante uma reunião?"
     answer: "Se solicitado que leiam com antecedência, as pessoas geralmente passam os olhos ou não leem. Forçar a leitura na sala garante que todos comecem com a mesma profundidade de estado cognitivo."
+
 ---
 
 Jeff Bezos, fundador de Amazon. Ele proibiu slides de PPT com marcadores e determinou que fosse usado um relatório de 6 páginas em formato de texto narrativo. Logo após iniciar uma reunião, nenhuma palavra é dita e os participantes leem o memorando em silêncio. Por que mantiveram essa regra?

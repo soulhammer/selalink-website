@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah ini membantu bahkan saat menulis cerita emosional atau salinan pemasaran?"
     answer: "Untuk copywriting emosional atau mendongeng, ganti undang-undang kering dengan salinan iklan berkualitas tinggi atau prosa menggugah yang ingin Anda tiru. Inti dari metode Stendhal adalah priming sadar; pilih model gaya yang sesuai dengan nada target dari tugas Anda."
+
 ---
 
 Stendhal, yang terkenal dengan karyanya Merah dan Hitam, terkenal karena prosanya yang objektif dan transparan yang menangkap kompleksitas ambisi manusia. Selama era yang dipenuhi dengan Romantisisme yang berbunga-bunga, Stendhal bersikeras pada ketepatan matematis dalam kalimat-kalimatnya. Rutinitas pagi rahasianya sebelum menulis adalah membaca beberapa halaman Kode Sipil Napoleon (Kode Sipil Prancis). Kami menganalisis bagaimana Stendhal menggunakan teks hukum yang kering dan logis untuk mempersiapkan otaknya, menghilangkan hiasan retoris dan mempertajam kekuatan analitis objektifnya.

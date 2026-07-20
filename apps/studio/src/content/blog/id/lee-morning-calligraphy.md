@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Saya tidak memiliki alat kaligrafi di rumah, adakah alat tulis biasa yang bisa menggantikannya?"
     answer: "Pena tinta, pena kaligrafi (brush pen), atau pensil di atas kertas tebal bertekstur sudah cukup. Kuncinya adalah otak memproses gesekan pena dan tekanan tangan saat menulis secara langsung. Alat tulis apa pun yang memberi sensasi gesekan kertas yang kuat dapat memicu efek fokus yang serupa."
+
 ---
 
 Pendiri Samsung Lee Byung-chul, yang memelopori industri semikonduktor Korea. Di balik keputusan bisnisnya yang dingin dan logis, terdapat ritual spiritual timur yang ia lakukan setiap pagi. Segera setelah bangun tidur, ia duduk sendiri di ruang kerjanya untuk mengasah tinta dan menulis kaligrafi. Menuliskan kata kunci filosofis seperti 'Mengejar Tanpa Batas' dengan fokus penuh pada kuas adalah latihan mental untuk menjernihkan pikiran dari urusan bisnis. Pelajari bagaimana menulis kaligrafi pagi menenangkan emosi dan mempertajam fokus.

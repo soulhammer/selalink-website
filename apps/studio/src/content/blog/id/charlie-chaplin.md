@@ -21,6 +21,7 @@ faqs:
     answer: "Daripada menatap lurus ke depan pada target, latih diri Anda untuk mengalihkan pandangan secara alami dengan memakai kacamata hitam atau memegang cangkir kopi, dan gunakan fokus lebar penglihatan tepi Anda untuk hanya mengikuti jejak siluet dengan lancar."
   - question: "Apakah mimikri fisik benar-benar meningkatkan pemahaman emosional otak secara signifikan?"
     answer: "Ya, menurut ilmu saraf, ketika Anda meniru gerakan otot fisik tubuh (postur, ritme), sistem neuron cermin disinkronkan, dan sistem limbik otak secara akurat menerjemahkan indikator emosional seperti kecemasan, ketegangan, dan kelelahan orang lain pada tingkat 70% lebih tinggi."
+
 ---
 
 Charlie Chaplin, aktor komik abadi Inggris dan sutradara film jenius yang mendominasi era film bisu, menciptakan karakter pengembara abadi dengan kumis, fedora, dan celana longgar, serta melontarkan kritik sosial dan humor yang tajam hingga tertawa. Dia mempertahankan kebiasaan panjangnya berdiri di sudut jalan yang sibuk di London dan New York. Ia mengamati dengan cermat ciri-ciri keseimbangan pinggul yang bergerak-gerak, ritme langkah yang pincang, dan kepala yang miring pada orang asing yang lewat dengan kerah terangkat. Begitu orang yang lewat pergi, dia meniru ritme berjalan karakter tersebut dengan tubuhnya dan mengumpulkan umpan balik emosional batin yang diberikan oleh tubuh, yang mengarah pada penyelesaian karakter The Tramp.

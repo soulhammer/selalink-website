@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, simple repetitive finger training after waking up awakens the brain's motor cortex and frames the attention pathway."
   - question: "How can I substitute if I don't have a real piano?"
     answer: "Simply moving your fingers sequentially on a desk or model keyboard to a metronome stimulates the motor cortex."
+
 ---
 
 Hungarian composer Franz Liszt, the emperor of the piano during the Romantic era of the 19th century and the greatest virtuosic pianist of his time, expanded the expressive limits of piano music to the maximum through overwhelming sophistication and practice methods. Instead of practicing playing quickly and recklessly on the keyboard, he practiced every day by slowing down the metronome tempo to an extreme slow-motion level and playing only one key per second without error. He programmed the perfect muscle movement trajectories of the keyboard into his brain, and then used them to create magical, spectacular moves.

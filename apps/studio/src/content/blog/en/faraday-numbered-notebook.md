@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Is analog-style numbering useful when using digital note apps?"
     answer: "Assigning unique numbers is highly effective even in digital environments. While search functions have limits if you forget keywords, fixing knowledge with a unique number (e.g., #042) allows building cross-references (backlinks) and serves as an index address to fetch context, maximizing digital productivity."
+
 ---
 
 Michael Faraday, who laid the foundation of electric civilization by discovering electromagnetic induction. Although he lacked a formal mathematical background, the key to his precise physical laws was in his notebook. Throughout his life, he assigned sequential numbers to his observations and ideas in his journal. His research archives were indexed from number 1 up to 16,041. Let's find out how this precise record-keeping compensated for cognitive limits and unlocked his genius.

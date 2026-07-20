@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Is eating the same lunch daily unhealthy? How do we adapt Schulz's habit modernly?"
     answer: "While Schulz ate typical burgers, modern adapters can use nutritionally balanced meal prep kits, pre-ordered salads, or 3 rotating healthy menus. The goal is removing the cognitive selection process. Pre-selecting 2 or 3 healthy diet options secures both physical health and mental energy savings."
+
 ---
 
 Peanuts, the beloved comic strip featuring Snoopy and Charlie Brown. Behind this masterpiece stood Charles M. Schulz, a man of absolute routines who drew and wrote the strip alone for 50 years without assistants. To manage the creative pressure and save brainpower, he standardized his days. He worked at the same desk from 9 AM to 4 PM, and for lunch, he ate the exact same hamburger next to his drawing board. We look into how this single-menu routine shields the brain's analytic centers.

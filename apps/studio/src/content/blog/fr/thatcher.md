@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, revoir les priorités à voix haute 30 minutes avant le travail pré-active le contrôle exécutif du cortex préfrontal."
   - question: "Comment puis-je remplacer le tableau de notes si je n'en ai pas ?"
     answer: "Énoncer à voix haute dans une pièce calme les 3 tâches clés du jour notées dans un carnet est un substitut suffisant."
+
 ---
 
 Margaret Thatcher, la première femme Premier ministre britannique et la dame de fer qui a surmonté avec sang-froid et fermeté les difficultés du ralentissement économique britannique grâce à des réformes conservatrices dures et à une restructuration économique, plaçant la Grande-Bretagne dans une position de pouvoir. Elle restait assise dans le bureau du bureau du premier ministre tous les soirs jusqu'à 2 ou 3 heures du matin, parcourant des centaines de pages de documents volumineux et de rapports sur les projets de loi soumis par les responsables du cabinet. Un surligneur jaune à la main, elle est passée entre les lignes du rapport, ignorant la rhétorique inutile et le texte bureaucratique, traçant et soulignant seulement trois piliers clés : la faisabilité des politiques nationales, les indicateurs budgétaires et les questions juridiques. Cette routine de mise en lumière de fin de soirée était la volonté qui a aidé à surmonter les problèmes difficiles de la Grande-Bretagne d'un seul coup.

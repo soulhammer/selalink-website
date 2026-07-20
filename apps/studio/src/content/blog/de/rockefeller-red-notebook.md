@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, das Einschalten des Telefons lenkt durch digitale Reize ab. Das Schreiben von Hand bietet einen taktilen Widerstand, der sensorische Daten tiefer einprägt und das Gefühl der Selbstkontrolle verdoppelt, was für die Verhaltenssteuerung besser ist."
   - question: "Muss ich wirklich so kleine Details wie 1 Cent oder 1 Minute erfassen?"
     answer: "Es geht nicht um den Wert der Zahl, sondern um das Training des Gehirns für Echtzeit-Feedback. Das Erfassen kleinster Ausgaben stärkt das präfrontale Kontrollsystem. Dies baut einen Schaltkreis auf, der Impulse bei großen Entscheidungen zügelt."
+
 ---
 
 John D. Rockefeller, der legendäre Unternehmer, der Standard Oil gründete und den größten privaten Reichtum der Geschichte anhäufte. Woher stammte seine rigorose Planung? 📕

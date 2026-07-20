@@ -21,6 +21,7 @@ faqs:
     answer: "Smartphone apps share the same rules, but screen glare, ads, and notifications keep the prefrontal cortex alert. Utilizing physical tools that build tactile feedback between the hands and eyes is far superior for relaxation."
   - question: "Doesn't it cause stress if the cards get stuck and cannot be aligned?"
     answer: "The main goal of Solitaire is not 'winning,' but 'attention shifting and brain rest through simple work.' Even if you get stuck, the physical process of shifting cards and sorting colors has already rested your prefrontal cortex. Simply reshuffle and start over."
+
 ---
 
 Charles de Gaulle led 'Free France' during WWII and established modern France. Under constant cold war pressure, how did he handle stress? 🃏

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Como os profissionais com pouco tempo podem encurtar a rotina de Martin de forma prática?"
     answer: "Você não precisa ficar sentado por horas. Garantir uma 'Pausa Intencional' de apenas 3 a 5 minutos antes de começar a trabalhar é suficiente. Antes de ligar o computador, feche os os olhos e respire fundo três vezes, perguntando a si mesmo: 'Qual é a única tarefa essencial que devo realizar hoje?'. Esta breve janela atinge a sintonia metacognitiva desejada."
+
 ---
 
 Agnes Martin, a mestra das pinturas de grade minimalistas. Para manter sua criatividade sob o escrutínio público, ela praticava um ritual matinal extremamente estático. Ela sentava-se calmamente em uma cadeira de balanço diante de uma tela vazia, esperando por horas até que todos os desejos e planejamentos se dissolvessem. Só quando uma visão clara surgia, ela pegava o pincel. Examinamos como essa rotina de limpeza mental prepara o cérebro para insights de alto nível.

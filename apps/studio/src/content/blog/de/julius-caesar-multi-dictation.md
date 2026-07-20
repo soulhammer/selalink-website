@@ -21,6 +21,7 @@ faqs:
     answer: "Klassisches Multitasking lenkt ab, da Aufmerksamkeit aufgeteilt wird. Gleichzeitiges Diktieren folgt einem „sequenziellen Monotasking“: volle Konzentration auf einen Schreiber, dann gezielter Wechsel."
   - question: "Kann ich diese Methode auch durch Tippen statt Diktieren anwenden?"
     answer: "Tippen ist langsamer als der Gedankenfluss, wodurch Engpässe entstehen. Nutzen Sie Spracherkennungs-Tools, um Gedanken frei to diktieren und später zu bearbeiten."
+
 ---
 
 Julius Cäsar reiste stets mit 3 oder 4 Schreibern und diktierte ihnen gleichzeitig Briefe, militärische Befehle und Notizen zu völlig unterschiedlichen Themen. Dieses parallele Arbeiten ermöglichte ihm eine enorme Effizienz.

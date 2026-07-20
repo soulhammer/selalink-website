@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Haben normale Smartphone-Spiele denselben Effekt?"
     answer: "Handyspiele mit viel Text oder hoher Stimulation belasten andere Bereiche des Frontalhirns und erhöhen die kognitive Last. Für den DMN-Effekt sind Physik-Puzzles oder analoge Spiele deutlich besser geeignet."
+
 ---
 
 Wolfgang Amadeus Mozart war ein Genie, das perfekte Symphonien ohne Korrekturen schrieb. Hinter seiner Kreativität stand eine Routine: Billard spielen, wenn er müde war. Er stellte einen Billardtisch neben sein Arbeitszimmer. Seine Frau berichtete, dass Mozart oft aufstand, um ein paar Bälle zu spielen. Das Beobachten der Kugeln war keine bloße Unterhaltung, sondern brachte sein Gehirn in den Ruhezustand (DMN), in dem unbewusste Verbindungen geknüpft werden. Heute zeigt BuildSelf, wie Sie durch ein 15-minütiges Spiel neue Ideen wecken.

@@ -21,6 +21,7 @@ faqs:
     answer: "A chave da metacognição não é o 'sucesso', mas o 'monitoramento preciso'. Encarar e registrar os resultados ruins afasta as ilusões mentais e constrói a resiliência para planejar o dia de amanhã."
   - question: "Posso gerenciar todas as métricas apenas usando Notion ou Excel?"
     answer: "Dispositivos digitais distraem com alertas de redes ou e-mails. Registrar as métricas à mão em um diário de papel garante um foco muito maior para purificar a mente e criar insights."
+
 ---
 
 George Washington governou a nascente nação americana sob enorme responsabilidade. Seu esteio analítico vinha do hábito de acordar às 4h da manhã para inspecionar Mount Vernon a cavalo. Ele registrava vento, temperatura e experimentos agrícolas em uma caderneta de couro manualmente. Isso moldou sua gestão de precisão.

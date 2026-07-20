@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, tentu saja. Kualitas estetika hasil karya tidak penting. Efek pemulihan utamanya adalah kombinasi gerakan jari presisi (taktil) dan pengamatan warna-warna cerah (visual)."
   - question: "Bagaimana dengan menggunakan tanah liat atau aplikasi menggambar digital?"
     answer: "Tanah liat sangat disarankan karena memberikan stimulasi taktil yang baik. Namun, aplikasi menggambar tidak disarankan karena layar licin dan notifikasi yang mengganggu."
+
 ---
 
 Henri Matisse, maestro Fauvisme, membebaskan warna-warna pekat. Di akhir hayatnya, ia mengalami nyeri fisik yang membuatnya tidak bisa melukis. ✂️

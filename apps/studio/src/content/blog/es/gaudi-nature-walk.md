@@ -21,6 +21,7 @@ faqs:
     answer: "Es cierto que los paisajes naturales son mejores para reducir el estrés. Sin embargo, caminar observando callejones o edificios urbanos también es útil porque activa las áreas visuales del cerebro."
   - question: "¿Se puede sustituir por trote rápido o cinta de correr?"
     answer: "La cinta de correr activa el cuerpo, pero no da tiempo para observar la calle. Para reiniciar el cerebro y fomentar la creatividad, es óptimo un paseo lento explorando el entorno."
+
 ---
 
 Antoni Gaudí caminaba todos los días por Barcelona al atardecer para observar los patrones geométricos en la naturaleza. Esta inmersión en formas naturales inspiró sus diseños arquitectónicos y alivió su fatiga creativa.

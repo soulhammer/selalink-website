@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does this help even when writing emotional stories or marketing copy?"
     answer: "For emotional copywriting or storytelling, replace dry statutes with high-quality advertising copy or evocative prose that you wish to emulate. The core of Stendhal's method is conscious priming; choose a style model that matches the target tone of your upcoming task."
+
 ---
 
 Stendhal, famous for Scarlet and Black, is celebrated for his objective and transparent prose that captured the complexities of human ambition. During an era saturated with flowery Romanticism, Stendhal insisted on mathematical precision in his sentences. His secret morning routine before writing was reading a few pages of the Napoleonic Civil Code (French Civil Code). We analyze how Stendhal used dry, logical legal texts to prime his brain, stripping away rhetorical fluff and sharpening his objective analytical power.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How can I utilize cleaning as a meditation?"
     answer: "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective."
+
 ---
 
 Sen no Rikyu, el maestro del té que definió la estética del Wabi-Sabi en Japón. Al limpiar el jardín, dejaba intencionalmente caer unas pocas hojas para romper la perfección artificial y abrazar la asimetría natural, reduciendo el estrés cognitivo.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana saya bisa mempraktikkan ini di kantor yang sepi atau kafe umum?"
     answer: "Jika Anda tidak dapat berbicara keras, berbisiklah dengan lembut, gerakkan bibir dan lidah Anda dengan sengaja. Melibatkan sistem motorik vokal, bahkan dalam diam, mengaktifkan korteks motorik dan membantu pemantauan kesalahan jauh lebih baik daripada membaca dalam hati."
+
 ---
 
 Gustave Flaubert, penulis Madame Bovary, mempercayai gagasan bahwa hanya ada satu kata yang sempurna (le mot juste) untuk konsep apa pun. Dia menghabiskan waktu berhari-hari menyempurnakan satu kalimat. Untuk menguji versi akhir prosanya, ia terlibat dalam ritual dramatis: membaca karyanya dengan keras sekuat tenaga di ruang kerjanya, sebuah proses yang ia sebut 'Gueuloir' (ruang berteriak). Temukan rahasia ilmiah bagaimana berteriak dan mendengarkan mengaktifkan beberapa area sensorik di otak untuk mencapai kejelasan semantik dan ritmis yang mutlak.

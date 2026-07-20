@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Pourquoi Emmanuel Kant se promenait-il à 15h30 précises chaque jour ?"
     answer: "C'était un rituel pour maintenir son rythme circadien afin de soutenir des recherches philosophiques abstraites, préservant sa santé."
+
 ---
 
 Le plus grand philosophe de l'épistémologie et le penseur qui a posé les bases de l'idéalisme allemand moderne, Immanuel Kant. Chaque jour à 15h30 précises, sans jamais y déroger, il franchissait le seuil de sa maison vêtu du même manteau et suivait un itinéraire immuable. 🚶‍♂️

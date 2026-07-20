@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Blaulicht und Reize von Bildschirmen halten das Gehirn wach und stören die Melatoninausschüttung. Verwenden Sie stattdessen analoge Hobbys."
   - question: "Was kann ich tun, wenn mir 30 Minuten jeden Abend zu lang vorkommen?"
     answer: "Sollte die Zeit knapp sein, reichen auch 10 Minuten. Laptop schließen, kritzeln oder ein analoges Tagebuch führen, um dem Gehirn das Signal „Feierabend“ zu senden."
+
 ---
 
 Franklin D. Roosevelt bewältigte die Weltwirtschaftskrise und den Zweiten Weltkrieg unter extremem Stress. Sein Geheimnis für inneren Frieden war das Sortieren von Briefmarken vor dem Schlafen. Dies schirmte ihn vom Kriegsgeschehen ab.

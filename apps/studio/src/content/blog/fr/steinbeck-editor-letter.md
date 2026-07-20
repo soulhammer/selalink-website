@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Cette routine est-elle utile si mon travail n'est pas lié à l'écriture ?"
     answer: "Oui, c'est très utile. Bien que le travail final soit différent, la paralysie liée au perfectionnisme naît dans la même région cérébrale (l'amygdale). Gribouiller ou écrire des notes rapides avant de coder crée un tampon cognitif, facilitant le démarrage."
+
 ---
 
 John Steinbeck, prix Nobel de Littérature et auteur des Raisins de la colère. Même au sommet de sa gloire, il redoutait la page blanche chaque matin. Pour vaincre ce blocage, il a conçu un rituel d'échauffement : avant d'entamer son roman, il écrivait une lettre à son éditeur Pascal Covici sur le temps, sa fatigue ou ses rhumatismes. Voyons comment l'écriture informelle désactive l'anxiété de l'amygdale.

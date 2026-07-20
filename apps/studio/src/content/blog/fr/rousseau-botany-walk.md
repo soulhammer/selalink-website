@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Rousseau écrivait-il sur des cartes à jouer ?"
     answer: "Il n'aimait pas s'encombrer de carnets lourds. Les cartes à jouer étaient rigides pour écrire debout et se glissaient facilement dans ses poches."
+
 ---
 
 Jean-Jacques Rousseau, le grand philosophe français dont les idées ont inspiré la Révolution. À la fin de sa vie, en proie à l'anxiété, il a trouvé le salut dans l'herborisation et la marche. Chaque après-midi, il marchait pour collecter des plantes et notait ses idées sur des cartes à jouer. Ces notes ont donné *Les Rêveries du promeneur solitaire*. Découvrez les bienfaits de cette herborisation.

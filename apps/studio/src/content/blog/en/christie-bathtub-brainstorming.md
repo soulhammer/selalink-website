@@ -21,6 +21,7 @@ faqs:
     answer: "Warm baths relax muscles and stabilize heart rates. Meanwhile, chewing crunchy apples and smelling their scent activates minor facial nerves and jaw muscles, inducing a state of calm alertness best suited for mystery plotting."
   - question: "What physical relaxation methods can I use if I don't have a tub?"
     answer: "You can take a warm foot bath or drink hot tea to gently raise body temperature. Simple sensory relaxation triggers the brain's Default Mode Network, unlocking creative blockages."
+
 ---
 
 Agatha Christie, the creator of Hercule Poirot and Miss Marple, and the best-selling novelist in history. How did her intricate murder plots and alibis come to be? Instead of locking herself in a study forcing words on paper, Christie believed her mind worked best when immersed in a warm bath. Today, BuildSelf explores the behavioral science behind Christie's 'bath and apples' routine and how you can apply it to solve complex daily problems.

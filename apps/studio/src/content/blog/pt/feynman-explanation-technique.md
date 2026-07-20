@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que fazer se não houver uma criança real por perto para explicar?"
     answer: "Pode explicar a um colega, a um brinquedo na sua secretária ou a um chatbot. A chave é passar pelo 'processo de filtragem' de rever as suas palavras para excluir jargão técnico e usar vocabulário que uma criança possa entender."
+
 ---
 
 Richard Feynman, um gigante da física moderna que ganhou o Prémio Nobel da Física pelo seu trabalho em eletrodinâmica quântica. Era um educador excepcional que explicava investigações complexas de forma simples. O segredo estava no seu hábito de 'ensinar' no seu caderno. Ao aprender algo novo, abria um caderno e assumia que uma criança de 10 anos estava à sua frente. Escrevia o conceito com termos simples. Se hesitasse, sabia que havia uma falha na sua compreensão e voltava ao material original. Hoje, o BuildSelf partilha a verdade neurocientífica por trás do método de Feynman.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Supone un esfuerzo para el cerebro realizar un entrenamiento de movimiento físico por la mañana estando cansado?"
     answer: "Al contrario, estimular los movimientos de las manos y los nervios sensoriales justo después de despertar activa el sistema reticular del tronco encefálico para promover la liberación de cortisol y dopamina, eliminando la inercia del sueño de la forma más rápida y despertando el cerebro con claridad."
+
 ---
 
 Pedro el Grande, el gran Zar que reformó por completo el atrasado Imperio Ruso y lo consolidó como una gran potencia. ¿De dónde procedía su carisma, que prohibía el lujo y la pereza de la nobleza y fomentaba la marina? ⚓

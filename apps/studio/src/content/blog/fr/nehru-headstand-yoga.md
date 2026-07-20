@@ -21,6 +21,7 @@ faqs:
     answer: "Non. Les personnes souffrant des cervicales doivent éviter de porter leur poids sur la tête. Elles peuvent s'allonger sur le dos et lever les jambes contre un mur."
   - question: "Quel est le meilleur moment de la journée pour faire le poirier ?"
     answer: "Le meilleur moment est le matin à jeun ou avant de travailler. Cela apporte de l'oxygène au cerveau et aide à se réveiller. Évitez de le faire après manger."
+
 ---
 
 Jawaharlal Nehru a lutté pour l'indépendance de l'Inde. Il a passé 9 ans en prison. 🧘

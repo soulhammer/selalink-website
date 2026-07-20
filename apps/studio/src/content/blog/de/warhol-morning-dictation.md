@@ -21,6 +21,7 @@ faqs:
     answer: "Wir empfehlen, die Diktierfunktion (STT) des Smartphones zu nutzen, um die Ereignisse von gestern oder die Aufgaben von heute 5 Minuten lang laut auszusprechen."
   - question: "Worüber sollte ich beim Diktieren sprechen, um die Produktivität zu steigern?"
     answer: "Es reicht aus, die Ereignisse von gestern aufzulisten, die Prioritäten für heute zu ordnen oder Ihre aktuelle emotionale Verfassung laut auszusprechen."
+
 ---
 
 Pop-Art-Ikone Andy Warhol. Um inmitten des Trubels in der 'Factory' fokussiert zu bleiben, nutzte er ein tägliches Ritual: das Diktat am Telefon. Jeden Morgen rief er seine Sekretärin Pat Hackett an, um ihr seinen Vortag zu diktieren. Kognitionspsychologisch entlastet diese verbale Strukturierung das Arbeitsgedächtnis (Cognitive Offloading).

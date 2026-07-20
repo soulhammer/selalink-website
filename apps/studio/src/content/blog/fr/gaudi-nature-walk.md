@@ -21,6 +21,7 @@ faqs:
     answer: "Il est vrai que les paysages naturels sont préférables pour réduire le stress. Cependant, marcher en observant des ruelles ou des bâtiments urbains est également utile en activant les zones visuelles du cerveau."
   - question: "Peut-on remplacer par un jogging rapide ou un tapis de course ?"
     answer: "Le tapis de course active le corps, mais ne laisse pas le temps d'observer. Pour réinitialiser le cerveau et stimuler la créativité, une marche lente en explorant l'environnement est idéale."
+
 ---
 
 Antoni Gaudí marchait chaque jour à Barcelone au coucher du soleil pour observer les formes géométriques de la nature. Cette immersion a inspiré ses créations et soulagé sa fatigue.

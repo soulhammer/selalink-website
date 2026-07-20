@@ -1,0 +1,233 @@
+{
+  "reagan-jellybean-relaxation": {
+    "title": {
+      "ko": "백악관의 비밀 사탕? 로널드 레이건의 젤리빈 저작 스트레스 완화법",
+      "en": "Secret Candy of White House? Ronald Reagan's Jellybean Mastication Routine",
+      "ja": "ホワイトハウスの秘密の飴？ロナルド・レーガンのジェリービーン咀嚼ストレス緩和法",
+      "zh": "白宫的秘密糖果？罗纳德·里根的吉力贝咀嚼压力缓解法",
+      "es": "¿Dulce secreto de la Casa Blanca? La rutina de masticación de Ronald Reagan",
+      "fr": "Le bonbon secret de la Maison-Blanche ? La routine anti-stress de Ronald Reagan",
+      "de": "Das geheime Bonbonglas? Ronald Reagans Jellybean-Kaubewegung gegen Stress",
+      "pt": "O doce secreto da Casa Branca? A rotina de mastigação de Ronald Reagan",
+      "id": "Permen Rahasia Gedung Putih? Rutinitas Pengunyahan Jellybean Ronald Reagan untuk Meredakan Stres"
+    },
+    "description": {
+      "ko": "미국 제40대 대통령 로널드 레이건은 담배를 끊고 스트레스를 다스리기 위해 백악관 집무실에서 젤리빈을 먹었습니다. 저작 운동이 정서에 미치는 脳科学的 원리를 알아봅니다.",
+      "en": "Ronald Reagan, the 40th US President, ate jellybeans to quit smoking and manage stress. Learn the neurological effects of mastication.",
+      "ja": "米国第40代大統領ロナルド・レーガンは、禁煙とストレス管理のためにホワイトハウスでジェリービーンを食べました。咀嚼運動が情緒に与える脳科学的原理を紹介します。",
+      "zh": "美国第40任总统罗纳德·里根为了戒烟和控制压力，在白宫办公室里吃吉力贝（Jelly Belly）。让我们来了解一下咀嚼运动对情绪产生影响的脑科学原理。",
+      "es": "El presidente Ronald Reagan comía gominolas para dejar de fumar y controlar el estrés. Conozca el efecto neurológico de la masticación.",
+      "fr": "Le président Ronald Reagan mangeait des dragées pour arrêter de fumer. Découvrez l'effet neurologique de la mastication sur le stress.",
+      "de": "US-Präsident Ronald Reagan kaute Jellybeans, um das Rauchen aufzugeben. Entdecken Sie die neurologischen Effekte des Kauens.",
+      "pt": "O presidente Ronald Reagan comia gomas para parar de fumar e controlar o estresse. Conheça o efeito neurológico da mastigação.",
+      "id": "Presiden AS ke-40 Ronald Reagan memakan jellybean di Gedung Putih untuk berhenti merokok dan mengelola stres. Pelajari prinsip sains kognitif tentang efek pengunyahan."
+    },
+    "authority": {
+      "ko": "레이건 전기 'President Reagan: The Role of a Lifetime' 및 저작 운동 스트레스 연구",
+      "en": "Reagan's Biography 'President Reagan: The Role of a Lifetime' & Mastication Stress Research",
+      "ja": "レーガン伝記「President Reagan」および咀嚼運動とストレス緩和の学術研究",
+      "zh": "里根传记《President Reagan: The Role of a Lifetime》与咀嚼运动压力研究成果",
+      "es": "Biografía de Reagan y estudios sobre masticación y alivio del estrés",
+      "fr": "Biographie de Reagan & recherches sur la mastication et le stress",
+      "de": "Reagans Biografie & kognitive Forschung zur Kautätigkeit gegen Stress",
+      "pt": "Biografia de Reagan e estudos sobre mastigação e alívio do estresse",
+      "id": "Biografi Reagan 'President Reagan: The Role of a Lifetime' & Penelitian Stres Pengunyahan"
+    },
+    "intro": {
+      "ko": "뛰어난 화술과 유머 감각으로 대중의 마음을 잡고, 미국 경제 부흥과 냉전 해체를 이끈 제40대 대통령 로널드 레이건. 매일 쏟아지는 전 세계적인 외교 갈등과 극단적인 긴장 상황 속에서 그가 침착함을 유지했던 비밀은 백악관 집무실 책상 위에 놓여 있던 알록달록한 '젤리빈'이었습니다. 🍬\n\n레이건은 주지사 시절 지독한 파이프 담배 금단을 해결하고자 대안으로 젤리빈을 먹기 시작해 백악관까지 습관을 이어갔습니다. 회의 도중 긴장감이 맴돌 때마다 그가 젤리빈을 꼭꼭 씹어 먹던 습관은 단순한 간식 섭취를 넘어, 급성 정서 스트레스를 진정시키고 회담의 유연성을 발휘하도록 돕는 훌륭한 뇌 통제 비결이었습니다.\n\n오늘 BuildSelf에서는 레이건의 젤리빈 저작 이완 습관을 현대적으로 접목해 급작스러운 욕구와 불안을 다스리는 3단계 저작 이완법을 알아봅니다.",
+      "en": "Ronald Reagan, the 40th US President who led the cold war era with great communication. What was his secret to calmness under daily international tensions? The answer was a colorful jar of jellybeans. 🍬\n\nTo quit his pipe smoking habit during his governor days, Reagan started eating jellybeans. Chewing jellybeans during meetings was not just eating snacks, but a brain control method to calm stress and guide negotiations.\n\nToday, BuildSelf introduces Reagan's jellybean chewing routine to control instant anxiety and bad habits in 3 steps.",
+      "ja": "優れた話術とユーモアのセンスで大衆の心を掴み、米国経済の復興と冷戦の解体を導いた第40代大統領ロナルド・レーガン。毎日押し寄せる世界的な外交葛藤と極限の緊張状況の中で、彼が沈着さを維持した秘密は、ホワイトハウスの執務室の机の上に置かれていたカラフルな「ジェリービーン」でした。 🍬\n\nレーガンは知事時代、ひどいパイプタバコの禁断症状を解決するために代替案としてジェリービーンを食べ始め、ホワイトハウスまでその習慣を続けました。会議の途中で緊張感が漂うたびに、彼がジェリービーンをよく噛んで食べていた習慣は、単なるおやつ摂取を超えて、急性感情ストレスを鎮め、会談の柔軟性を発揮するように助ける優れた脳の制御の秘訣でした。\n\n今日のBuildSelfでは、レーガンのジェリービーン咀嚼緩和習慣を現代的に取り入れ、急な欲求や不安をコントロールする3ステップの咀嚼緩和法を紹介します。",
+      "zh": "罗纳德·里根总统以其高超的谈吐和幽默感征服了大众。在每天如潮水般涌来的国际外交冲突和极端紧张的局势中，他保持冷静的秘密竟是放在白宫办公室办公桌上五彩缤纷的“吉力贝”。 🍬\n\n里根在担任州长期间，为了解决严重的烟瘾戒断反应，作为替代方案开始吃吉力贝，并将这一习惯延续到了白宫。每当会议中弥漫着紧张气氛时，他细细咀嚼吉力贝的习惯，已不仅仅是吃零食，更是平复急性情绪压力、帮助在谈判中发挥灵活性的绝佳大脑控制法宝。\n\n今天，BuildSelf 将结合现代方法应用里根的吉力贝咀嚼放松习惯，带您了解控制突发欲望与焦虑的三步咀嚼放松指南。",
+      "es": "Ronald Reagan lideró a EE. UU. con comunicación brillante. ¿Cuál fue el secreto para mantener la calma bajo tensión? Las gominolas. 🍬\n\nPara dejar de fumar en su época de gobernador, Reagan comenzó a comer gominolas. Masticarlas durante reuniones difíciles calmaba su estrés.\n\nHoy, BuildSelf presenta la rutina de gominolas de Reagan y una práctica de 3 pasos para controlar la ansiedad instantánea.",
+      "fr": "Le président Ronald Reagan a mené les États-Unis durant la guerre froide. Son secret face aux tensions ? Un pot de dragées colorées. 🍬\n\nPour compenser l'arrêt du tabac, Reagan s'est mis à manger des bonbons. Mâcher ces douceurs calmait son stress en réunion.\n\nAujourd'hui, BuildSelf présente la routine de Reagan et une méthode en 3 étapes pour apaiser l'anxiété.",
+      "de": "Ronald Reagan führte die USA durch die Endphase des Kalten Krieges. Was gab ihm Ruhe bei harten Verhandlungen? Die Antwort war ein Glas bunter Jellybeans. 🍬\n\nUm sich das Pfeifenrauchen abzugewöhnen, begann Reagan mit dem Naschen. Das Kauen beruhigte seine Nerven bei Krisensitzungen.\n\nHeute stellt BuildSelf Reagans Kaumethode vor, mit der Sie Stress und Verlangen in 3 Schritten zügeln.",
+      "pt": "Ronald Reagan liderou os EUA com comunicação brilhante. Qual era o seu segredo para manter a calma sob tensão? As gomas. 🍬\n\nPara parar de fumar, Reagan começou a comer gomas. Mastigá-las durante reuniões difíceis acalmava o estresse acumulado.\n\nHoje, o BuildSelf apresenta a rotina de gomas de Reagan e uma prática de 3 passos para controlar a ansiedade.",
+      "id": "Ronald Reagan, Presiden AS ke-40 yang memimpin era perang dingin dengan komunikasi hebat. Apa rahasianya untuk tetap tenang di bawah ketegangan internasional sehari-hari? Jawabannya adalah toples jellybean warna-warni. 🍬\n\nUntuk berhenti merokok pipa selama menjabat sebagai gubernur, Reagan mulai memakan jellybean. Mengunyah jellybean saat rapat bukan sekadar makan camilan, melainkan metode kontrol otak untuk meredakan stres akut dan memimpin negosiasi dengan luwes.\n\nHari ini, BuildSelf memperkenalkan rutinitas pengunyahan jellybean Reagan untuk mengendalikan kecemasan instan dan kebiasaan buruk dalam 3 langkah."
+    },
+    "whyTitle": {
+      "ko": "편도체를 안정시키는 저작 운동과 감각 대체",
+      "en": "Mastication and Sensory Substitution Stabilizing the Amygdala",
+      "ja": "扁桃体を安定させる咀嚼運動と感覚の代替",
+      "zh": "稳定杏核体的咀嚼运动与感官替代",
+      "es": "Masticación y sustitución sensorial que estabilizan la amígdala",
+      "fr": "La mastication et la substitution sensorielle apaisant l'amygdale",
+      "de": "Wie Kauen und sensorischer Ersatz die Amygdala beruhigen",
+      "pt": "Mastigação e substituição sensorial que estabilizam a amígdala",
+      "id": "Pengunyahan dan Substitusi Sensorik yang Menstabilkan Amigdala"
+    },
+    "whyDesc": {
+      "ko": "턱을 움직여 무언가를 반복적으로 씹는 저작(Mastication) 운동은 뇌의 삼차 신경을 활성화하여 공포와 스트레스를 주관하는 편도체(Amygdala)의 활동을 억제합니다. 이는 맥박을 안정시키고 코르티솔 분비를 즉각 떨어뜨립니다. \n\n동시에, 담배를 피우고 싶거나 단것을 과식하고 싶은 강력한 나쁜 중독성 욕구가 일어날 때, 무작정 참지 않고 안전한 대안 감각(예: 젤리빈 씹기)을 입안에 투입하는 구강 감각 대체(Oral Sensory Substitution)는 뇌의 도파민 보상 만족 회로를 교란하고 안정시켜 유해한 자동 행동을 끊어내도록 유도합니다.",
+      "en": "The rhythmic movement of chewing activates trigeminal nerves, reducing the activity of the amygdala which controls fear and stress, lowering cortisol.\n\nAt the same time, when harmful cravings strike, inserting a safe substitute sensor (like chewing jellybeans) acts as Oral Sensory Substitution, satisfying dopamine reward circuits without damage.",
+      "ja": "顎を動かして何かを反復的に噛む咀嚼（Mastication）運動は、脳の三叉神経を活性化し、恐怖やストレスを司る扁桃体（Amygdala）の活動を抑制します。これは脈拍を安定させ、コルチゾールの分泌を即座に低下させます。\n\n同時に、タバコを吸いたい、あるいは甘いものを過食したいという強力な悪癖の欲求が起こった時、むやみに我慢するのではなく、安全な代替感覚（例：ジェリービーンを噛む）を口の中に投入する口腔感覚代替（Oral Sensory Substitution）は、脳のドーパミン報酬満足回路を混乱させて安定させ、有害な自動行動を断ち切るように促します。",
+      "zh": "通过活动下颚反复咬合东西的咀嚼（Mastication）运动，能激活大脑的三叉神经，抑制主管恐惧与压力的杏核体（Amygdala）的活动。这能迅速稳定脉搏并减少皮质醇的释放。\n\n同时，当吸烟或暴食甜食等有害瘾头袭来时，比起盲目死撑，亲口塞入安全的替代感官刺激（例如嚼吉力贝）即“口腔感官替代（Oral Sensory Substitution）”，能扰乱并安抚大脑的多巴胺奖励机制，从而引导切断有害的无意识行为行为。",
+      "es": "Masticar de forma rítmica reduce la actividad de la amígdala y baja el cortisol.\n\nAl mismo tiempo, la sustitución sensorial oral satisface los circuitos de recompensa sin causar daños, rompiendo los malos hábitos.",
+      "fr": "Le mouvement rythmique de mastication réduit l'activité de l'amygdale et fait baisser le cortisol.\n\nLa substitution sensorielle orale satisfait les circuits de récompense sans danger, aidant à briser les mauvaises habitudes.",
+      "de": "Rhythmisches Kauen beruhigt die Amygdala (Angstzentrum) und senkt den Cortisolspiegel.\n\nZudem überlistet das Kauen von Alternativen das Suchtzentrum des Gehirns (Substitution), was hilft, schädliche Gewohnheiten leichter abzulegen.",
+      "pt": "Mastigar de forma rítmica reduz a atividade da amígdala e diminui o cortisol.\n\nAo mesmo tempo, a substituição sensorial oral satisfaz os circuitos de recompensa sem causar danos, rompendo os maus hábitos.",
+      "id": "Gerakan mengunyah yang berulang-ulang mengaktifkan saraf trigeminal, menekan aktivitas amigdala yang mengatur ketakutan dan stres. Ini menstabilkan denyut nadi dan menurunkan kortisol.\n\nPada saat yang sama, Substitusi Sensorik Oral dengan memasukkan stimulasi alternatif (seperti mengunyah jellybean) memuaskan sirkuit penghargaan dopamin secara aman, membantu memutus kebiasaan buruk."
+    },
+    "cautionTitle": {
+      "ko": "치아 건강을 위해 당류 섭취량에 유의하세요",
+      "en": "Be mindful of sugar intake for dental health",
+      "ja": "歯の健康のため、糖類の摂取量に注意してください",
+      "zh": "为了牙齿健康，请注意控制糖分摄入量",
+      "es": "Tenga en cuenta el azúcar ingerido por su salud dental",
+      "fr": "Faites attention au sucre pour votre santé bucco-dentaire",
+      "de": "Achten Sie auf den Zuckergehalt zum Schutz Ihrer Zähne",
+      "pt": "Fique atento ao açúcar ingerido por sua saúde dental",
+      "id": "Perhatikan asupan gula demi kesehatan gigi Anda"
+    },
+    "cautionDesc": {
+      "ko": "레이건처럼 젤리빈을 너무 많이 먹으면 치아 우식(충치)이나 과도한 당 섭취로 건강을 해칠 수 있습니다. 설탕이 함유되지 않은 무설탕 껌이나 무당 젤리, 혹은 견과류(아몬드, 호두 등)를 대안으로 활용하여 저작 운동의 이완 효과만을 안전하게 취하는 것이 권장됩니다.",
+      "en": "Eating too many jellybeans can cause tooth decay or excess sugar intake. It is recommended to use sugar-free gum, sugar-free jelly, or nuts (almonds, walnuts) to safely get the mastication benefits.",
+      "ja": "レーガンのようにジェリービーンを食べすぎると、虫歯や過度な糖の摂取により健康を損なう可能性があります。砂糖が含まれていない無糖ガムや無糖ゼリー、またはナッツ類（アーモンド、クルミなど）を代替として活用し、咀嚼運動の緩和効果だけを安全に得ることをお勧めします。",
+      "zh": "如果像里根那样食用过量的吉力贝，可能会因糖分摄入超标导致龋齿，损害健康。推荐使用无糖口香糖、无糖果冻或坚果（大杏仁、核桃等）作为替代，安全地获取咀嚼运动的放松效果。",
+      "es": "Comer demasiadas gominolas puede causar caries. Se recomienda usar chicle sin azúcar o frutos secos para obtener los beneficios sin el exceso de azúcar.",
+      "fr": "Manger trop de bonbons favorise les caries. Privilégiez les chewing-gums sans sucre ou les oléagineux pour mâcher sainement.",
+      "de": "Zu viele Jellybeans schaden den Zähnen. Nutzen Sie zuckerfreien Kaugummi oder Nüsse, um die Kautätigkeit zahnschonend anzuregen.",
+      "pt": "Comer muitas gomas causa cáries. Recomenda-se usar chiclete sem açúcar ou nozes para obter os benefícios com segurança.",
+      "id": "Memakan jellybean terlalu banyak dapat menyebabkan kerusakan gigi atau asupan gula berlebih. Disarankan untuk menggunakan permen karet bebas gula, jelly bebas gula, atau kacang-kacangan (almon, kenari) sebagai alternatif aman."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "대체 씹기 도구의 준비",
+          "en": "Prepare a Chewing Tool",
+          "ja": "代替の咀嚼アイテムを準備する",
+          "zh": "准备替代咀嚼物",
+          "es": "Preparar un objeto para masticar",
+          "fr": "Préparer de quoi mâcher",
+          "de": "Kauen vorbereiten",
+          "pt": "Preparar um objeto para mastigar",
+          "id": "Menyiapkan Alat Pengunyah Alternatif"
+        },
+        "text": {
+          "ko": "중독성 욕구가 일거나 긴장 상황이 닥치기 전, 무설탕 껌이나 무당 젤리, 견과류 1봉 등 질감이 쫄깃하거나 딱딱한 대체 식품을 미리 준비해 둡니다.",
+          "en": "Before anxiety strikes or cravings happen, prepare a chewing tool like sugar-free gum, sugar-free jelly, or a pack of nuts in advance.",
+          "ja": "依存的な欲求が湧き起こったり、緊張する状況が訪れたりする前に、無糖ガムや無糖ゼリー、ナッツ類など、噛みごたえのある代替食品をあらかじめ準備しておきます。",
+          "zh": "在产生瘾头或身处紧张局势前，提前准备好无糖口香糖、无糖果冻或一小包坚果等质地有韧性或偏硬的替代食品。",
+          "es": "Antes de sentir ansiedad o antojos, prepare chicle sin azúcar, frutos secos o gominolas sin azúcar con anticipación.",
+          "fr": "Avant les moments de stress, prévoyez un chewing-gum sans sucre ou quelques amandes à portée de main.",
+          "de": "Halten Sie zuckerfreien Kaugummi oder Nüsse bereit, bevor Stress oder Verlangen aufkommen.",
+          "pt": "Antes de sentir ansiedade ou desejos, prepare chiclete sem açúcar ou castanhas com antecedência.",
+          "id": "Sebelum kecemasan melanda atau keinginan buruk muncul, siapkan alat pengunyah seperti permen karet bebas gula, jeli bebas gula, atau sebungkus kacang."
+        }
+      },
+      {
+        "name": {
+          "ko": "감각 감지 저작 수행",
+          "en": "Chew with Sensory Awareness",
+          "ja": "感覚を意識した咀嚼の実行",
+          "zh": "进行感官觉察式咀嚼",
+          "es": "Masticar con conciencia sensorial",
+          "fr": "Mâcher en conscience",
+          "de": "Bewusst kauen",
+          "pt": "Mastigar com consciência sensorial",
+          "id": "Mengunyah dengan Kesadaran Sensorik"
+        },
+        "text": {
+          "ko": "불안이나 욕구가 커지는 정점에서, 씹을거리를 입안에 넣고 턱 근육의 긴장과 움직임, 침의 분비에 집중하여 천천히 씹기 시작합니다.",
+          "en": "At the peak of anxiety, put the food in your mouth and start chewing slowly, focusing on jaw muscle movements and saliva.",
+          "ja": "不安や欲求が高まるピークの時点で、噛むものを口に入れ、顎の筋肉の緊張や動き、唾液の分泌に集中してゆっくりと噛み始めます。",
+          "zh": "在焦虑或欲望膨胀的顶点，将咀嚼物放入口中，集中精力感受咬合肌的紧张与收缩、唾液的分泌，开始缓慢地咀嚼。",
+          "es": "En el momento de mayor ansiedad, póngase el alimento en la boca y mastique lentamente, concentrándose en los músculos de la mandíbula.",
+          "fr": "Au plus fort du stress, placez l'aliment en bouche et mâchez lentement en vous concentrant sur la mâchoire.",
+          "de": "Legen Sie das Kaugummi in den Mund und kauen Sie langsam. Konzentrieren Sie sich auf die Muskelbewegung im Kiefer.",
+          "pt": "No momento de maior ansiedade, coloque o alimento na boca e mastigue devagar, concentrando-se nos músculos da mandíbula.",
+          "id": "Pada puncak kecemasan, masukkan makanan ke dalam mulut dan mulailah mengunyah secara perlahan, fokus pada gerakan otot rahang dan air liur."
+        }
+      },
+      {
+        "name": {
+          "ko": "2분 이완 및 호흡 조율",
+          "en": "Relax and Tune Breathing for 2 Minutes",
+          "ja": "2分間の弛緩と呼吸の調整",
+          "zh": "两分钟放松与调息",
+          "es": "Relajar y respirar durante 2 minutos",
+          "fr": "Se détendre et respirer pendant 2 minutes",
+          "de": "2 Minuten entspannen und atmen",
+          "pt": "Relaxar e respirar por 2 minutos",
+          "id": "Rileks dan Atur Pernapasan Selama 2 Menit"
+        },
+        "text": {
+          "ko": "씹는 행위를 2분간 유지하며 깊은 호흡을 병행합니다. 뇌가 자극을 처리하고 정서적인 평정을 되찾을 수 있도록 몸의 긴장을 이완합니다.",
+          "en": "Keep chewing for 2 minutes while taking deep breaths. Relax your body so your brain can process the stimulus and restore calm.",
+          "ja": "噛む行為を2分間維持しながら、深呼吸を並行して行います。脳が刺激を処理し、情緒的な安定を取り戻せるように体の緊張をほぐします。",
+          "zh": "持续咀嚼2分钟，并配合深呼吸。使全身肌肉松弛下来，让大脑得以处理刺激并重新找回情绪上的平静。",
+          "es": "Siga masticando durante 2 minutos mientras respira profundamente, relajando el cuerpo para calmarse.",
+          "fr": "Continuez de mâcher pendant 2 minutes en respirant profondément pour aider l'esprit à s'apaiser.",
+          "de": "Kauen Sie 2 Minuten weiter und atmen Sie tief durch, um den Körper und die Nerven spürbar zu beruhigen.",
+          "pt": "Continue mastigando por 2 minutos enquanto respira fundo, relaxando o corpo para se acalmar.",
+          "id": "Teruslah mengunyah selama 2 menit sambil menarik napas dalam-dalam. Rilekskan tubuh Anda agar otak dapat memproses stimulasi dan mengembalikan ketenangan."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "저작 운동이 스트레스를 낮추는 효과는 얼마나 오래 씹어야 나타나나요?",
+          "en": "How long do I need to chew to feel the stress reduction effect?",
+          "ja": "咀嚼運動がストレスを下げる効果は、どれくらい噛み続ければ現れますか？",
+          "zh": "咀嚼运动降压的效果，一般需要嚼多久才会显现？",
+          "es": "¿Cuánto tiempo debo masticar para sentir alivio del estrés?",
+          "fr": "Combien de temps faut-il mâcher pour réduire le stress ?",
+          "de": "Wie lange muss man kauen, um den Stressabbau zu spüren?",
+          "pt": "Quanto tempo devo mastigar para sentir alívio do estresse?",
+          "id": "Berapa lama saya harus mengunyah untuk merasakan efek pengurangan stres?"
+        },
+        "answer": {
+          "ko": "신경생리학 연구에 따르면 저작 운동을 시작하고 약 2~3분 이후부터 코르티솔 수치가 감소하고 뇌파가 이완성인 알파파(Alpha wave)로 전환되기 시작합니다. 따라서 최소한 2~3분 이상은 차분히 저작 운동에 집중해 주는 것이 효과를 보는 열쇠입니다.",
+          "en": "According to research, cortisol levels start to decrease and brain waves transition to alpha waves after 2-3 minutes of chewing. Thus, focusing on chewing for at least 2-3 minutes is key.",
+          "ja": "神経生理学の研究によると、咀嚼を始めてから約2〜3分後からコルチゾール値が減少し、脳波がリラックス状態のアルファ波（Alpha wave）に移行し始めます。そのため、最低限2〜3分以上は静かに咀嚼運動に集中することが効果を実感する鍵です。",
+          "zh": "神经生理学研究显示，在开始咀嚼运动约2~3分钟后，皮质醇水平就会下降，且脑电波会开始向舒缓的阿尔法波（Alpha wave）转变。因此，静下心来专注于咀嚼运动至少2~3分钟以上是见效的关键。",
+          "es": "Los estudios muestran que el cortisol disminuye tras 2 o 3 minutos de masticación. Por tanto, masticar por lo menos 3 minutos es clave.",
+          "fr": "Les études montrent que le cortisol diminue après 2 à 3 minutes. Mâcher pendant au moins 3 minutes est donc essentiel.",
+          "de": "Studien zeigen, dass der Cortisolspiegel nach 2 bis 3 Minuten Kauen sinkt. Mindestens 3 Minuten Kauen ist also ratsam.",
+          "pt": "Estudos mostram que o cortisol diminui após 2 a 3 minutos. Mastigar por pelo menos 3 minutos é essencial.",
+          "id": "Menurut penelitian neurofisiologis, kadar kortisol mulai menurun dan gelombang otak bertransisi menjadi gelombang alfa yang rileks setelah 2-3 menit mengunyah. Oleh karena itu, fokus pada pengunyahan selama minimal 2-3 menit adalah kuncinya."
+        }
+      },
+      {
+        "question": {
+          "ko": "저작 운동이 실제로 금연이나 폭식을 억제하는 과학적인 원리가 맞나요?",
+          "en": "Is the claim that chewing suppresses smoking or binge eating scientifically true?",
+          "ja": "咀嚼運動が実際に禁煙や過食を抑えるというのは、科学的な原理ですか？",
+          "zh": "咀嚼运动能够抑制戒烟反应或暴饮暴食，这在科学上真的站得住脚吗？",
+          "es": "¿Es científicamente cierto que masticar ayuda a controlar antojos o fumar?",
+          "fr": "Est-il prouvé que mâcher aide à limiter l'envie de fumer ou de grignoter ?",
+          "de": "Hilft Kauen nachweislich bei Rauchstopp oder Heißhunger?",
+          "pt": "É cientificamente comprovado que mastigar ajuda a controlar desejos ou fumar?",
+          "id": "Apakah pengunyahan benar-benar dapat membantu menekan keinginan merokok atau makan berlebihan secara ilmiah?"
+        },
+        "answer": {
+          "ko": "맞습니다. 뇌는 강력한 충동(담배, 음식)이 들 때 도파민의 급격한 공급을 원합니다. 이때 구강에 씹는 대체 자극을 제공하면 뇌는 보상 욕구를 부분적으로 자족하게 되어(도파민 우회 방출) 충동의 급격한 피크를 통제할 수 있게 돕습니다. 행동 과학에서는 이를 '대안 행동 형성'이라고 합니다.",
+          "en": "Yes. The brain wants dopamine when cravings hit. Providing alternative oral stimuli satisfies reward circuits partially, helping control peak urges. In behavioral science, this is called 'Alternative Behavior Formation.'",
+          "ja": "事実です。脳は強い衝動（タバコ、食べ物）を感じる時、ドーパミンの急速な供給を求めます。この時、口腔に噛む代替刺激を提供すると、脳は報酬の欲求を部分的に満たし（ドーパミンの迂回放出）、衝動の急激なピークを抑えられるよう助けます。行動科学ではこれを「代替行動形成」と呼びます。",
+          "zh": "是的。当产生强烈冲动（想吸烟或暴食）时，大脑渴望多巴胺的爆发式供给。此时向口腔提供替代性咀嚼刺激，大脑便会在一定程度上自行满足奖励机制（多巴胺迂回释放），从而帮助控制冲动的峰值。在行为科学中，这被称为“替代行为塑造”。",
+          "es": "Sí. El cerebro busca dopamina al sentir antojos. Dar un estímulo alternativo satisface la recompensa en parte, mitigando el pico del impulso.",
+          "fr": "Oui. Le cerveau réclame de la dopamine en cas d'envie pressante. Apporter un stimulus oral alternatif trompe le circuit de récompense, limitant la pulsion.",
+          "de": "Ja. Bei Verlangen fordert das Gehirn Dopamin. Das Kauen trickst das Belohnungszentrum aus, was hilft, die Impulsspitze abzuflachen.",
+          "pt": "Sim. O cérebro busca dopamina ao sentir desejos. Dar um estímulo alternativo satisfaz a recompensa parcialmente, mitigando a compulsão.",
+          "id": "Ya. Otak menginginkan pasokan dopamin yang cepat saat keinginan kuat (merokok, makanan) muncul. Memberikan stimulasi pengunyahan alternatif di mulut membantu otak memuaskan kebutuhan penghargaan sebagian (pelepasan dopamin tidak langsung), mengendalikan puncak keinginan tersebut."
+        }
+      }
+    ],
+    "stepImages": [
+      "",
+      "/images/blog/reagan_jellybean_relaxation_relax_detail.png",
+      ""
+    ],
+    "blog": {
+      "steps": [
+        null,
+        {
+          "text": {
+            "zh": "在焦虑或欲望膨胀的顶点，将咀嚼物放入口中，集中精力感受咬合肌的紧张与收缩、唾液的分泌，开始缓慢地咀嚼。"
+          }
+        }
+      ]
+    },
+    "pubDate": "2026-04-25",
+    "updatedDate": "2026-04-25"
+  }
+}

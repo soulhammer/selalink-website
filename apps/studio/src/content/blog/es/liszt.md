@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, el entrenamiento de dedos repetitivo después de despertar despierta la corteza motora cerebral y enmarca el camino de atención."
   - question: "¿Cómo puedo sustituir este hábito si no tengo un piano real?"
     answer: "Simplemente mover los dedos en orden sobre un escritorio o teclado de juego con un metrónomo estimula la corteza motora."
+
 ---
 
 El compositor húngaro Franz Liszt, emperador del piano durante la era romántica del siglo XIX y el mayor pianista virtuoso de su tiempo, amplió al máximo los límites expresivos de la música para piano a través de una sofisticación y métodos de práctica abrumadores. En lugar de practicar tocando el teclado de forma rápida e imprudente, practicaba todos los días reduciendo el tempo del metrónomo a un nivel de cámara extremadamente lenta y tocando sólo una tecla por segundo sin error. Programó las trayectorias perfectas de movimiento muscular del teclado en su cerebro y luego las usó para crear movimientos mágicos y espectaculares.

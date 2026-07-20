@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Apakah Mandi Udara (Air Bath) benar-benar membantu mencegah pilek?"
     answer: "Ya, memaparkan kulit ke udara dingin meningkatkan resistensi tubuh terhadap perubahan suhu dan mengatur kekebalan tubuh."
+
 ---
 
 Sosok yang terukir di uang kertas $100 AS, ilmuwan jenius yang menemukan penangkal petir, dan Benjamin Franklin, yang terkenal dengan manajemen diri yang ketat. Tahukah Anda metode kesehatan yang sangat unik dan aneh yang ia lakukan setiap pagi setelah bangun tidur? 💨

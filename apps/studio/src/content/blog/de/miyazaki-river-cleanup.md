@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Muss ich unbedingt Müll sammeln oder reicht einfaches Gehen?"
     answer: "Einfaches Gehen hilft auch, aber die Kombination mit der altruistischen Tat des Müllsammelns und dem Gefühl, etwas aufzuräumen, schüttet deutlich mehr Dopamin und Serotonin aus."
+
 ---
 
 Regisseur Hayao Miyazaki, eine Legende der Animationsgeschichte mit Meisterwerken wie 'Mein Nachbar Totoro' und 'Chihiros Reise ins Zauberland'. Er hat eine einzigartige Routine: Er trägt eine Schürze und sammelt Müll am Fluss. Was ist das Geheimnis dahinter?

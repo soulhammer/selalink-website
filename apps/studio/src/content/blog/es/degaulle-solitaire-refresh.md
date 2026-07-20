@@ -21,6 +21,7 @@ faqs:
     answer: "Las aplicaciones móviles comparten las reglas, pero el brillo de la pantalla, los anuncios y las notificaciones mantienen el cerebro alerta. Usar herramientas físicas es muy superior."
   - question: "¿No causa estrés si las cartas se traban y no se pueden ordenar?"
     answer: "El objetivo no es 'ganar', sino el 'desvío de atención'. Incluso si se traba, el proceso de mover las cartas ya ha relajado la mente. Simplemente vuelva a barajar y empiece otra vez."
+
 ---
 
 Charles de Gaulle lideró a 'Francia Libre' y fundó la Francia moderna. Bajo constante presión, ¿cómo manejaba el estrés? 🃏

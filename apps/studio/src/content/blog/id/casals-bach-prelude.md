@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah seseorang yang tidak memainkan instrumen apa pun dapat memperoleh manfaat dari rutinitas pagi Casals?"
     answer: "Ya, tentu saja. Meskipun memainkan instrumen memberikan aktivasi korteks taktil dan motorik, mendengarkan secara aktif—fokus sepenuhnya pada suara dengan mata tertutup—secara efektif menyelaraskan gelombang alfa."
+
 ---
 
 Pablo Casals, legenda cello Spanyol yang menghidupkan kembali Cello Suites Bach. Hingga wafat pada usia 96 tahun, dia menjaga rutinitas pagi unik selama lebih dari 80 tahun. Setelah berjalan santai, dia duduk di depan piano memainkan dua prelude Bach. Kami mengeksplorasi efek kognitif dari ritual musik pagi ini.

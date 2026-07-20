@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "¿Por qué Demóstenes se afeitó la mitad de la cabeza?"
     answer: "Al ridiculizar su aspecto, se impidió salir a la calle, obligándose a superar la tentación y quedarse en su estudio para practicar la oratoria."
+
 ---
 
 Un hombre que superó una tartamudez congénita, un físico débil y limitaciones como la falta de aire que le impedía hablar durante largos períodos de tiempo, para convertirse en el mayor estadista de la antigua Atenas y en el orador más grande de la historia de Grecia. Ese hombre fue Demóstenes. 🏛️

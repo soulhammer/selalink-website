@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, körperliche Arbeit wie das Berühren der Erde und Unkrautjäten entspannt den präfrontalen Kortex nach geistiger Anstrengung."
   - question: "Wie kann ich die Routine ersetzen, wenn ich keinen Garten oder keine Erde habe?"
     answer: "Das Pflegen kleiner Zimmerpflanzen, Umtopfen oder das Abschneiden trockener Blätter ist ein hervorragender Ersatz."
+
 ---
 
 Hermann Hesse, ein Romanautor und Dichter, der als Schweizer Gärtner die innere menschliche Selbstverwirklichung und das Wandern der Seele durch analoge Meditation erforschte und Literaturnobelpreisträger für Meisterwerke wie „Demian“ und „Under the Wheel“ erhielt. Er blieb in seinem Landgarten und verrichtete täglich die analoge Gärtnerarbeit, nämlich den Boden zu bestellen, Unkraut zu jäten und abgestorbene Äste zu hacken oder abzusägen. Während er seinen Körper fleißig bewegte, konzentrierte er seine ganze Aufmerksamkeit auf die Geräusche der Vögel im Wald, das Geräusch des Windes und den Geruch von Feuchtigkeit im Boden. Diese analoge natürliche Meditationsroutine war eine Quelle der Stabilität und Heilung für seine Seele, die unter einem schweren Nervenzusammenbruch litt.

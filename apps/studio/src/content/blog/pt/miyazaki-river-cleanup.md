@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Preciso recolher lixo ou posso apenas caminhar?"
     answer: "Apenas caminhar ajuda a ativar a rede de modo padrão, mas combinar isso com o ato altruísta de recolher lixo e 'organizar o ambiente' desencadeia dopamina e serotonina de maior satisfação."
+
 ---
 
 O diretor Hayao Miyazaki, uma lenda da animação com obras como 'Meu vizinho Totoro' e 'A Viagem de Chihiro'. Ele tem uma rotina única há décadas: colocar um avental e caminhar perto do rio para recolher o lixo. Qual é o segredo do mestre ao fazer isso?

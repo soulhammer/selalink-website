@@ -21,6 +21,7 @@ faqs:
     answer: "Teks dengan struktur sederhana tidak merangsang kontrol eksekutif. Walau berupa novel atau esai, buku tersebut harus memiliki kedalaman filosofis yang membutuhkan interpretasi aktif."
   - question: "Apakah efektif menggunakan tablet atau e-reader daripada buku cetak?"
     answer: "Bisa. Saat menggunakan tablet, aktifkan mode 'jangan ganggu'. Namun, aroma dan sentuhan membalik halaman cetak mempermudah fokus, sehingga kami menyarankan buku cetak atau e-reader."
+
 ---
 
 Che Guevara, simbol intelektual aktif yang memimpin Revolusi Kuba. Sepanjang hidupnya, menderita asma berat dan stres ekstrim perang gerilya di hutan, apa rahasia di balik keteguhan dan kedalaman ideologinya? Che Guevara selalu membawa buku tebal di ranselnya saat berbaris. Ia membaca di parit atau di dahan pohon setiap kali pertempuran jeda. Baginya, membaca adalah perjuangan sadar untuk memperkokoh keyakinan. Hari ini, BuildSelf memperkenalkan efek dari rutinitas ini.

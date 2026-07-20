@@ -21,6 +21,7 @@ faqs:
     answer: "Ja. Stellen Sie Ihr Telefon jedoch auf 'Nicht stören', um Benachrichtigungen zu vermeiden, oder platzieren Sie ein Widget auf dem Startbildschirm, um die Eingabeverzögerung zu minimieren."
   - question: "Wie wäre es, Audio aufzunehmen und später zu transkribieren?"
     answer: "Audioaufzeichnungen helfen, Details zu erfassen, führen jedoch bei der Transkription zu einer Ermüdung des Arbeitsgedächtnisses. Das Aufschreiben von Roh-Keywords während des Ereignisses ist viel besser für das semantische Mapping."
+
 ---
 
 Margaret Mead, die weltberühmte Kulturanthropologin, die das Paradigma der Anthropologie des 20. Jahrhunderts veränderte, lebte jahrelang in abgelegenen Gebieten wie Samoa. Der Grund, warum Meads Schriften auch 100 Jahre später noch für ihre extreme Genauigkeit anerkannt sind, war ihre einzigartige Methode des Notizenschreibens. Wenn sie etwas beobachtete, zögerte Mead keine Stunde, sondern zog einen Mini-Notizblock heraus, um zu schreiben.

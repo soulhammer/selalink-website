@@ -21,6 +21,7 @@ faqs:
     answer: "Das Verdrängen von Fehlern verlängert die Angst. Das Aufschreiben und Analysieren gibt dem Gehirn das Gefühl der Kontrolle zurück, was Stress abbaut."
   - question: "Gibt es ein Training, um unerwartete Zufälle (Serendipität) besser zu erkennen?"
     answer: "Kleine Änderungen im Alltag helfen sehr. Ein anderer Arbeitsweg oder ein neuer Arbeitsort regen das Gehirn an, unerwartete Details wahrzunehmen."
+
 ---
 
 Penicillin, das erste Antibiotikum, das Millionen Menschenleben rettete. Wurde diese Entdeckung in einem High-Tech-Labor gemacht? 🧫

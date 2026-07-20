@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Warum hielt Edison während des Schlafs Stahlkugeln in den Händen?"
     answer: "Sobald er einschlief und die Muskeln locker ließen, weckte ihn das Geräusch der fallenden Kugeln, um Ideen aus dem Übergangszustand festzuhalten."
+
 ---
 
 Thomas Edison, der Erfinderkönig, der mehr als 1.000 Patente anmeldete, die das tägliche Leben der Menschheit veränderten – darunter die Glühbirne, der Phonograph und die Filmkamera. Kennen Sie sein berühmtes Nickerchen-Ritual, das er anwandte, wenn er vor einem schwierigen intellektuellen Problem stand? 💤

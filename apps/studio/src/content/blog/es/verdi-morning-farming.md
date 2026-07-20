@@ -21,6 +21,7 @@ faqs:
     answer: "Los entrenamientos de gimnasio ayudan, pero la iluminación interior es menos efectiva para restablecer los ritmos circadianos. El contacto directo con elementos naturales como el suelo (Earthing) combinado con la luz exterior es lo que desencadena la activación de la serotonina que experimentó Verdi."
   - question: "¿Qué debo tener en cuenta al agregar el trabajo físico matutino?"
     answer: "Evite el trabajo de alta intensidad que agota la glucosa. La fatiga alta daña la corteza prefrontal, así que mantenga su sesión de la mañana en unos 15 minutos de actividad ligera."
+
 ---
 
 Giuseppe Verdi, el gigante de la ópera del siglo XIX, se llamaba a sí mismo un 'simple granjero' incluso cuando los teatros de todo el mundo se llenaban con su nombre. Al despertarse a las 5 a.m. en su granja de Sant'Agata, vestía ropa tosca para cultivar campos y cultivar cosechas durante 2 horas antes de sentarse al piano. Exploramos cómo el trabajo físico de Verdi estimuló la inspiración musical.

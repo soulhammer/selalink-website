@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Murakami corre 10 km todos os dias?"
     answer: "Para manter a alta concentração e resistência para a escrita, estimula as células cerebrais com exercício aeróbico."
+
 ---
 
 O romancista de renome mundial Haruki Murakami. Descubra a neurociência por trás de sua corrida diária de 10 km e um guia de 3 passos para profissionais modernos. Hoje, o BuildSelf explora as razões científicas por trás da corrida de Murakami e como você pode construir sua própria rotina de resistência.

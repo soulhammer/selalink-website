@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Realizar treino físico de manhã quando está cansado sobrecarrega o cérebro?"
     answer: "Pelo contrário, estimular os movimentos das mãos e os nervos sensoriais logo após acordar ativa o sistema reticular do tronco cerebral para promover a libertação de cortisol e dopamina, eliminando a inércia do sono mais rapidamente e despertando o cérebro."
+
 ---
 
 Pedro, o Grande, o grande czar que reformou completamente o atrasado Império Russo. De onde vinha o seu carisma, que proibiu o luxo da nobreza e promoveu a marinha? ⚓

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How does the act of grinding your own medicine help stabilize emotions?"
     answer: "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future."
+
 ---
 
 Tokugawa Ieyasu unified the Warring States period of Japan. His secret to longevity and founding the Edo Shogunate was his daily routine of grinding and prescribing herbs himself.

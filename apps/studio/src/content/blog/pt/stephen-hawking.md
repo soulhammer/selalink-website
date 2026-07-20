@@ -21,6 +21,7 @@ faqs:
     answer: "Esta é uma reação muito normal. Em vez de tentar se forçar a olhar para uma esfera 3D, comece segurando a cor e a forma da pós-imagem de um pequeno modelo plano 2D, como um quadrado laranja ou um triângulo branco, sem tremer por 3 segundos."
   - question: "Aumentar a capacidade do caderno de desenho do seu cérebro também o ajudará a organizar tarefas e prioridades complexas?"
     answer: "Sim, você pode exibir virtualmente cinco cartões de tarefas do dia em sua cabeça, classificar sua importância por tamanho e cor e reorganizá-los tridimensionalmente, melhorando suas habilidades de organização de tarefas de uma forma muito intuitiva."
+
 ---
 
 Stephen Hawking, o maior físico espacial do século XX e um cientista genial que representa a história da ciência humana desde Einstein, é um grande físico que descobriu o nascimento do universo e os segredos dos buracos negros mesmo em meio à cruel barreira da paralisia chamada doença de Lou Gehrig. Ele não interrompeu sua pesquisa, apesar das duras barreiras físicas que paralisaram todo o seu corpo e o impediram de mover até mesmo um dedo. Incapaz de escrever fórmulas físicas no papel, ele calculou a enorme estrutura do universo virtual e as fórmulas geométricas tridimensionais como objetos tridimensionais em sua cabeça. Este exercício imaginativo de caderno de esboços de espaço-tempo foi a força que levou a grandes insights em física.

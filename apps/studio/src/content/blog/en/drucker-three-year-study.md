@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why change topics every three years?"
     answer: "Because a three-year cycle is appropriate to master a single topic and optimally stimulate brain neuroplasticity, enabling convergent thinking across various disciplines."
+
 ---
 
 Peter Drucker, the scholar who laid the foundation of modern management and presented the horizon of business. How did he maintain a clear mind and sharp insight like a young man until his late 90s, leaving behind numerous works? The secret lay in his unique intellectual routine, the three-year study cycle.

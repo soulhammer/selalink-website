@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Isaac Asimov berganti-ganti menggunakan beberapa mesin tik?"
     answer: "Untuk menghindari keletihan kognitif dan stres saat buntu pada satu topik, ia berganti-ganti melakukan tugas dengan genre dan karakteristik berbeda demi mendapatkan efek kebaruan yang mengaktifkan area otak korteks serebral lainnya."
+
 ---
 
 Menulis lebih dari 500 buku dalam berbagai genre sepanjang hidupnya, Isaac Asimov dirayakan sebagai maestro fiksi ilmiah dan penulis sains populer terkemuka pada masanya. Di balik kemampuan luar biasa maestro produktif ini menghasilkan naskah setiap hari terletak pada kebiasaan kerjanya yang unik. ⌨️

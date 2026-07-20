@@ -21,6 +21,7 @@ faqs:
     answer: "The core of activating metacognition lies not in 'success' but in 'accurate monitoring'. Honestly facing and writing down low metrics on failed days clears away cognitive illusions and builds the resilience to design tomorrow's strategy."
   - question: "Can I manage all metrics using only Notion or Excel?"
     answer: "Digital devices present high temptations like social media or email notifications during logging. Writing down daily metrics manually using a paper journal and an analog pen, like George Washington, guarantees a much stronger immersion for cognitive brain purification and deep insight formation."
+
 ---
 
 George Washington, the hero who led the American Revolutionary War to victory and guided the young country. Under massive administration duties, the secret behind his analytical power was his early farm management routine. ☀️

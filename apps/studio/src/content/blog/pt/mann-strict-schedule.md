@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, tendo esgotado a mente pela manhã, ele sabia que o rendimento caía após as 13h. Acreditava que escrever à tarde prejudicava a qualidade, reservando o período para ler, caminhar ou editar."
   - question: "Posso fazer o trabalho profundo à noite em vez de pela manhã?"
     answer: "Sim, depende do relógio biológico de cada um (perfil noturno). A chave não é a hora em si, mas conseguir um bloco de pelo menos 2 horas seguidas livre de interrupções com a mente descansada."
+
 ---
 
 Thomas Mann, vencedor do Nobel de Literatura e referência intelectual alemã graças a 'A Montanha Mágica' e 'Os Buddenbrook'. Sua prosa densa não nasceu de lampejos espontâneos, mas de um rígido controle do tempo que funcionava com a precisão de um relógio. 🕰️

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Qual era o efeito do cochilo de Churchill na guerra?"
     answer: "Com um cochilo profundo de 1.5 a 2 horas, dividia o dia em dois períodos independentes de alerta para lidar com as decisões."
+
 ---
 
 Winston Churchill, o primeiro-ministro britânico durante a Segunda Guerra Mundial que lideró la lucha contra la Alemania para garantizar la victoria final de los Aliados, y al mismo tiempo historiador y escritor vencedor del Prémio Nobel de Literatura. Como era capaz de manter o seu estado de alerta mental máximo sem se esgotar sob as tarefas estatais de mais de 18 horas por dia? O segredo residia numa rotina de sesta muito singular que realizava todas as tardes. Todas as tardes, entre as 14h00 e as 14h30, Churchill interrompia todos os relatórios e ia para o seu quarto, despia-se completamente e tirava uma sesta profunda de 1 a 2 horas. Hoje, o BuildSelf partilha a verdade neurocientífica por trás da sesta de Churchill.

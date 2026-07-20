@@ -21,6 +21,7 @@ faqs:
     answer: "Read physical books instead of smartphones. Opting for non-stimulating books like poetry or essays under soft lighting induces alpha waves, helping you fall asleep."
   - question: "How can I capture favorite passages during night reading without disrupting sleep?"
     answer: "Instead of turning on bright lights or computers, simply use sticky notes or fold book corners, and transfer them to your digital archive the next morning."
+
 ---
 
 The most mesmerizing style icon and actress in 20th-century pop culture, Marilyn Monroe. Though she thrilled the world under the camera flashes on the silver screen, her life behind the scenes was plagued by identity confusion, voyeuristic media coverage, and invasion of privacy. Hidden behind public gossip, the real Monroe was an avid reader who owned over 400 classic books and read Oscar Wilde and James Joyce. Every night, she took off her wig, read classic books under her bedroom lamp, and wrote down her feelings in poetry and journals. We explore how this quiet reading reset her nervous system.

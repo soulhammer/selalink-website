@@ -21,6 +21,7 @@ faqs:
     answer: "Es reicht aus, sich 5 Minuten auf einfache Instrumente wie Klangschalen oder Kalimbas zu konzentrieren. Der Kern liegt darin, dem Gehirn einen bewertungsfreien Raum zu bieten."
   - question: "Kann passives Musikhören den gleichen Effekt erzielen wie das Spielen eines Instruments?"
     answer: "Das aktive Spielen eines Instruments beansprucht die Motorik und die Aufmerksamkeit des präfrontalen Kortex weitaus stärker als passives Hören."
+
 ---
 
 Reformator Martin Luther stand allein gegen die Macht der Kirche. Bedrohungen prägten seinen Alltag und belasteten seine Gesundheit. Sein Ventil war die Musik: Nach dem Morgengebet spielte er Laute. Kognitionspsychologisch regt Musik das vegetative Nervensystem an und beruhigt das Herz, was den Stresspegel senkt.

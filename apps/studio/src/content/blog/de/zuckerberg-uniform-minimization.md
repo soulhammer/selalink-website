@@ -21,6 +21,7 @@ faqs:
     answer: "Wie gehen Sie bei dieser Gewohnheit mit wichtigen Meetings oder formellen Anlässen um?"
   - question: "Kann ich ein Einheits-Outfit aus anderen Kleidungsstücken als T-Shirts und Jeans zusammenstellen?"
     answer: "Natürlich. Wählen Sie eine schlichte, bequeme Kombination aus Hemden, Hosen oder Kleidern, in der Sie sich wohlfühlen, und schaffen Sie mehrere identische Sätze davon an."
+
 ---
 
 Facebook-Gründer Mark Zuckerberg. Um bei kritischen Entscheidungen für Meta voll fokussiert zu sein, reduzierte er alltägliche Entscheidungen: Er wählt keine Kleidung aus. Seine Garderobe besteht aus identischen grauen T-Shirts. Kognitionspsychologisch verbraucht jede Wahl Willenskraft, was zur Erschöpfung führt.

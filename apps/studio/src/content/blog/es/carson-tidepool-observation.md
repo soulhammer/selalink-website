@@ -21,6 +21,7 @@ faqs:
     answer: "Sí. Aunque a menor escala, observar los detalles de las plantas de interior, tocar la tierra y notar su estructura induce la 'Fascinación suave', lo que reduce el estrés."
   - question: "¿Tengo que dibujar obligatoriamente en el cuaderno?"
     answer: "No. Dibujar es solo una herramienta para ayudar a enfocar. Si no puede dibujar, describir los detalles (colores, texturas) con palabras es muy efectivo."
+
 ---
 
 El clásico Silent Spring advirtió sobre el abuso de pesticidas. Su autora, Rachel Carson, enfrentó intimidación corporativa y cáncer mientras escribía. 🐚

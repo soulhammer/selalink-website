@@ -16,6 +16,7 @@ steps:
     text: "Conecte los elementos mediante flechas. El grosor de la línea representa la importancia, y la dirección muestra la causa y el efecto, creando un sistema dinámico."
   - name: "Analizar y simplificar el modelo"
     text: "Examine el boceto. Identifique áreas donde las líneas se superpongan o las relaciones sean complejas, y redibuje el diagrama reduciendo elementos hasta que la solución sea clara."
+
 ---
 
 "El libro de la naturaleza está escrito en el lenguaje de las matemáticas." Galileo Galilei tenía el hábito de abocetar. Al observar una lámpara oscilar en la Catedral de Pisa, midió el tiempo con su pulso y dibujó el arco. Cada onda en el agua era registrada como un diagrama preciso. Dibujar le permitía traducir leyes abstractas en realidad visual.

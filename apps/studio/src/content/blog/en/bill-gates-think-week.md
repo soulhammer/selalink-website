@@ -21,6 +21,7 @@ faqs:
     answer: "No. The core is not the physical place, but 'controlling the influx of information' and 'isolating attention'. It is enough to use a quiet study room or cafe outside the house during the weekend, or to create an environment where you put your smartphone in a safe or another room for just a day and focus only on paper books and notebooks."
   - question: "Can't I use a computer screen when reading materials?"
     answer: "The computer screen is a passage connected to the temptation of various websites, emails, and messenger notifications. To maintain the brain's focus network, it is recommended to look at printed analog paper if possible. If you must use a digital device, it is recommended to use an E-reader without internet connection or a terminal with Wi-Fi disabled."
+
 ---
 
 Bill Gates, who founded Microsoft and led technological innovation. Amidst enormous turbulence and competition, he steered the company's huge rudder at the right timing to open a new paradigm. The secret to his capture of the decisive future vision was none other than his cabin isolation routine. 🌲

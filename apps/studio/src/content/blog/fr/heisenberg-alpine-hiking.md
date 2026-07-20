@@ -21,6 +21,7 @@ faqs:
     answer: "Vous pouvez y substituer une marche de 30 minutes dans un parc de la ville sans smartphone. L'important est de stimuler les sens et d'augmenter le flux sanguin cérébral."
   - question: "Y a-t-il des astuces pour noter les idées qui surviennent pendant une randonnée sans les oublier ?"
     answer: "Nous recommandons de garder un petit carnet et un stylo sur vous pour noter les mots-clés, ou d'utiliser les notes vocales pour ne pas interrompre la marche."
+
 ---
 
 Werner Heisenberg, le physicien de l'incertitude. En 1925, bloqué par les équations de l'atome, il s'est retiré dans les Alpes bavaroises pour marcher pendant des jours. Il a trouvé la clé au milieu des forêts. Voyons comment la marche en pleine nature restaure l'attention.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Sollte ich beim Gehen keine Musik hören?"
     answer: "Musik oder verbale Informationen regen das Gehirn zur Analyse an und behindern die DMN-Aktivierung. Für vollständige Erholung und Kreativität ist es am besten, sich ohne Kopfhörer auf Umgebungsgeräusche zu konzentrieren."
+
 ---
 
 Charles Dickens, der mit Meisterwerken wie 'Oliver Twist', 'Große Erwartungen' und 'Eine Weihnachtsgeschichte' als der größte Romancier des viktorianischen Zeitalters gilt. Wissen Sie, wo seine vielschichtigen Charaktere und komplexen Handlungen entstanden? Das Geheimnis lag in seiner Routine, jeden Nachmittag '3 Stunden zu gehen'. Nach dem Schreiben von 9 bis 14 Uhr ging Dickens nach draußen. Er ging drei Stunden lang stramm etwa 16–19 km weit. Gehend ordnete er seine Gedanken. Heute stellt BuildSelf die gehirnwissenschaftlichen Prinzipien hinter Dickens' Gehroutine vor.

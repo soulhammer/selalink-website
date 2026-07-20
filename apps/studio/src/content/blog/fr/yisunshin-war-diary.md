@@ -21,6 +21,7 @@ faqs:
     answer: "Il n'est pas nécessaire d'écrire beaucoup. Trois lignes suffisent : 'une chose qui m'a fatigué aujourd'hui', 'ce que j'ai ressenti' et 'une chose que je peux changer demain'."
   - question: "L'effet est-il le même si j'écris sur une application ou un clavier ?"
     answer: "L'écriture manuscrite est plus efficace. Le geste physique envoie des signaux tactiles qui activent la concentration. Si vous tapez au clavier, bloquez toutes les alertes pour ne pas briser la concentration."
+
 ---
 
 L'amiral Yi Sun-shin de Joseon détient un record de 23 victoires en 23 batailles. Face aux complots politiques, à la torture et à une flotte ennemie écrasante, où puisait-il la force de rester calme ? Il allumait un fanal chaque nuit et notait le climat et ses peines dans le Nanjung Ilgi. Écrire n'était pas qu'un rapport militaire, mais un rituel pour apaiser la frustration. Aujourd'hui, BuildSelf présente les effets de cette routine.

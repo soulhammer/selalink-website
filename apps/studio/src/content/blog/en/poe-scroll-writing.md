@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, some manuscripts he wrote (e.g., criticisms or short stories like 'Belladonna') are preserved in museums such as the Free Library of Philadelphia in the United States in the form of narrow scrolls he actually pasted together."
   - question: "Are there programs that prevent the 'sentence-correcting habit' on digital screens?"
     answer: "Yes, drafting apps (e.g., 'The Most Dangerous Writing App') that force you not to turn back by starting to erase the manuscript if you press backspace or stop typing, or editors that support typewriter modes, are effective."
+
 ---
 
 Edgar Allan Poe, a giant who is revered as a pioneer of strange and cold gothic horror literature and the founder of detective fiction. On what kind of tools were his genius manuscripts, which created the psychological anxiety of the human inside and perfectly structured logical mysteries, born? 📜

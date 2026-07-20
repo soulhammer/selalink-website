@@ -21,6 +21,7 @@ faqs:
     answer: "Legen Sie 2-3 einfache Schritte fest, die Sie kontrollieren können (z. B. Schuhe binden, tief durchatmen), und wiederholen Sie diese konsequent."
   - question: "Wie gehe ich mit Angst um, wenn ich einen Schritt auslasse oder einen Fehler in der Routine mache?"
     answer: "Verstehen Sie, dass eine Routine nur ein psychologischer Anker ist. Fehler als Teil der Situation zu akzeptieren, maximiert den Nutzen der Routine."
+
 ---
 
 Rekordsiegerin Serena Williams. Unter dem extremen Druck auf dem Platz halfen ihr strikte Rituale. Vor dem Match hörte sie über dieselben Kopfhörer Musik und prellte den Ball vor dem ersten Aufschlag genau 5 Mal. Sportpsychologisch blockiert eine solche Vorbereitungsroutine die Versagensangst, indem sie den Fokus auf einfache Abläufe lenkt.

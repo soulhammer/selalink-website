@@ -21,6 +21,7 @@ faqs:
     answer: "Doch. Das Gehen allein steigert die Kreativität bereits durch die Durchblutung. Wenn Sie alleine sind, können Sie die Metakognition anregen, indem Sie sich den Gedanken selbst laut vorsprechen oder einen imaginären Kritiker befragen."
   - question: "Kann Kritik nicht auch demotiveren und verletzen?"
     answer: "Das ist ein häufiger Denkfehler. Wenn das Gehirn Kritik als persönlichen Angriff wertet, blockiert es. Trennen Sie Ihre Persönlichkeit strikt von Ihrer Arbeit. Sehen Sie Feedback als wertfreie Daten an, um Fehler zu korrigieren."
+
 ---
 
 Charlotte Brontë, die Autorin von „Jane Eyre“. Sie lebte mit ihren Schwestern Emily und Anne in einem abgelegenen Pfarrhaus in Yorkshire. In völliger Isolation und Armut schufen die drei Schwestern zeitgleich Klassiker wie „Jane Eyre“ und „Sturmhöhe“. Wie war das möglich?

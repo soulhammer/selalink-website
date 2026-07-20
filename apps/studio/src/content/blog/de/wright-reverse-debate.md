@@ -21,6 +21,7 @@ faqs:
     answer: "Ja. Schreiben Sie Ihren Plan auf ein Blatt Papier und nehmen Sie die Rolle Ihres schärfsten Kritikers ein, indem Sie einen Bericht als 'Anwalt des Teufels' schreiben."
   - question: "Wie debattiert man umgekehrt mit jemandem, ohne die Beziehung zu stören?"
     answer: "Vereinbaren Sie vorab, dass die Regel der Gebrüder Wright gilt. Klären Sie, dass es sich um ein offizielles Rollenspiel handelt, um persönliche Angriffe zu vermeiden."
+
 ---
 
 Wilbur und Orville Wright debattierten, indem sie jeden Abend ihre Rollen tauschten. Dieser Rollenwechsel half ihnen, Bestätigungsfehler zu vermeiden.

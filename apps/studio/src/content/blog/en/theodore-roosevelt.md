@@ -21,6 +21,7 @@ faqs:
     answer: "That's because the intensity of exercise was overpaced and fatigue build-up material increased rapidly. As soon as you reach the critical point of being out of breath, you should immediately cut it off with a 3-minute timer so that only the refreshing awakening dopamine is charged into your brain."
   - question: "How should a beginner with seriously weak physical strength start?"
     answer: "Any type of aerobic/strength physical training, such as walking in place at a fast tempo or light running in place, is equally effective as long as it is enough to make you slightly sweat based on your current cardiorespiratory condition."
+
 ---
 
 Theodore Roosevelt, the 26th U.S. president, who was appointed to the presidency at the youngest age in U.S. history and led innovative progressive reforms and expanded America's global hegemony by deploying strong diplomatic power abroad. In order to overcome the limitations of his asthmatic and thin body as a child, he went to the gym every morning and practiced high-intensity physical training all his life, lifting heavy iron blocks to his limit and sweating. This habit of explosive physical exercise every morning not only turned a weak boy into a strong man, but was also the driving force that gave him the iron willpower and mental alertness to endure as president.

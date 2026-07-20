@@ -21,6 +21,7 @@ faqs:
     answer: "C'est pourquoi les commentaires écrits sont essentiels. Les réunions en face à face introduisent la pensée de groupe et la pression sociale. Recueillir des commentaires écrits vous permet d'examiner la logique et les données de manière rationnelle."
   - question: "Quelle est la meilleure taille pour ce groupe consultatif ?"
     answer: "Limitez-le à 3 maximum. Des chiffres plus élevés provoquent une paralysie de l'analyse. Sélectionnez un expert principal pour chaque domaine pertinent (par exemple, technologie, affaires, juridique)."
+
 ---
 
 Auguste, le premier empereur romain qui a mis fin à un siècle de guerre civile et a jeté les bases de la Pax Romana de 200 ans. Contrairement à son père adoptif Jules César, décédé jeune, Auguste était physiquement faible et manquait d'un talent militaire exceptionnel. Pourtant, il a régné sur Rome plus longtemps que quiconque, apportant la prospérité. Le secret résidait dans sa routine de consultation multiperspective avant la décision. Au lieu de prendre des décisions autocratiques, Auguste a gardé près de lui des experts de haut niveau comme Mécène et Agrippa, les encourageant à exprimer des opinions dissidentes. Nous analysons sa formule.

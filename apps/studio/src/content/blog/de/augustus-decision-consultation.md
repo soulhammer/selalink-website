@@ -21,6 +21,7 @@ faqs:
     answer: "Deshalb ist schriftliches Feedback der Schlüssel. Persönliche Treffen führen zu Gruppendenken und sozialem Druck. Das Sammeln schriftlicher Anmerkungen ermöglicht es Ihnen, Logik und Daten rational zu überprüfen."
   - question: "Was ist die beste Größe für diese Beratergruppe?"
     answer: "Halten Sie die Gruppe auf maximal 3 Personen. Größere Zahlen führen zu einer Analyseparalyse. Wählen Sie einen Kernexperten für jeden relevanten Bereich (z. B. Technologie, Wirtschaft, Recht) aus."
+
 ---
 
 Augustus, der erste römische Kaiser, der ein Jahrhundert Bürgerkrieg beendete und den Grundstein für die 200-jährige Pax Romana legte. Im Gegensatz zu seinem Adoptivvater Julius Cäsar, der jung starb, war Augustus körperlich schwach und besaß kein außergewöhnliches militärisches Talent. Dennoch regierte er Rom länger als jeder andere und brachte Wohlstand. Das Geheimnis war seine Routine der mehrperspektivischen Konsultation vor der Entscheidung. Anstatt autokratische Entscheidungen zu treffen, hielt Augustus Spitzenexperten wie Maecenas und Agrippa in seiner Nähe und ermutigte sie, abweichende Ansichten zu äußern. Wir analysieren seine Formel.

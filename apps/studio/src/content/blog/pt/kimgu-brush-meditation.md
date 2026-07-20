@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Qual é o princípio científico pelo qual a caligrafia alivia o estresse?"
     answer: "Controlar os movimentos finos da ponta do pincel concentra a ativação do córtex somatossensorial, bloqueando os sinais de ansiedade da amígdala."
+
 ---
 
 Kim Gu, que atuou como líder do Governo Provisório da República da Coreia, viveu sob constantes ameaças de prisão e temores de assassinato. Em meio a esse grande estresse, ele manteve uma prática espiritual: a caligrafia. 🖌

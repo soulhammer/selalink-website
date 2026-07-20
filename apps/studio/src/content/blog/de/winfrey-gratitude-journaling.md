@@ -21,6 +21,7 @@ faqs:
     answer: "An solchen Tagen ist diese Routine am wichtigsten. Suchen Sie nicht nach großen Ereignissen. Schreiben Sie grundlegende körperliche Zustände auf (z. B. 'ich bin unbeschadet nach Hause gekommen' oder 'ich kann atmen'). Dies aktiviert das Belohnungssystem."
   - question: "Wie steht es mit dem Aufzeichnen von Dankbarkeit in einer App oder auf Social Media?"
     answer: "Das Posten in sozialen Medien führt dazu, dass das Gehirn nach externer Anerkennung sucht (Likes, Kommentare), was zu ungesunden Dopaminmustern führt. Das Schreiben auf Papier schützt das Gehirn vor Vergleichen und sorgt für reine Zufriedenheit."
+
 ---
 
 Oprah Winfrey, die Medienikone, die eine schwere Kindheit überwand, um die legendäre Talkshow-Königin zu werden. Woher stammte ihr Antrieb? 📝

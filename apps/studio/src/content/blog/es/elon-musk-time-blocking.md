@@ -21,6 +21,7 @@ faqs:
     answer: "Para principiantes, llenar toda la agenda con bloques de 5 minutos provoca sobrecarga cognitiva. Se recomienda empezar con bloques de 15 o 30 minutos solo para 1 o 2 horas de enfoque al día."
   - question: "¿Qué pasa si no termino el trabalho dentro del bloque asignado?"
     answer: "Pase al siguiente bloque de inmediato. Asigne el trabalho pendiente a un 'bloque de reserva' (Buffer Block) al final de la tarde, evitando que un retraso arruine todo el día."
+
 ---
 
 Elon Musk dirige Tesla y SpaceX trabajando hasta 100 horas semanales. Su secreto es planificar su día en bloques de 5 minutos, desde comer hasta reuniones técnicas. Al entrar en un bloque, desconecta todo aviso y enfoca el 100% de su energía en ese tema.

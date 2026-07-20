@@ -21,6 +21,7 @@ faqs:
     answer: "Digitar é repetitivo e oferece pouca estimulação tátil. As telas trazem distrações. Para um mapeamento profundo e reestruturação mental, a leitura e a escrita analógicas são ideais."
   - question: "O que as pessoas devem fazer se não tiverem tempo para ler 10 horas por dia?"
     answer: "A qualidade da concentração sem telas importa mais do que a quantidade de tempo. Apenas 30 minutos por dia de leitura concentrada e escrita de 1 ou 2 páginas de notas já são suficientes para estimular o córtex de associação."
+
 ---
 
 Karl Marx analisou as estruturas econômicas do capitalismo. Como nasceu sua obra Das Kapital? 🏛️

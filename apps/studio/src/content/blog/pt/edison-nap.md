@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Porque é que Edison segurava bolas de aço nas mãos ao cochilar?"
     answer: "Ao adormecer e relaxar os músculos, o som das bolas a cair acordava-o, permitindo-lhe anotar ideias do limite hipnagógico instantaneamente."
+
 ---
 
 Thomas Edison, o rei da invenção que registrou mais de 1.000 patentes que mudaram o cotidiano da humanidade, incluindo a lâmpada incandescente, o fonógrafo e a câmera de projeção. Você conhece o famoso e peculiar ritual de soneca que ele utilizava ao enfrentar um bloqueio de ideias ou um desafio intelectual complexo? 💤

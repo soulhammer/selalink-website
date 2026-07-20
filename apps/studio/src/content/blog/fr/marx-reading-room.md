@@ -21,6 +21,7 @@ faqs:
     answer: "Taper sur un clavier est répétitif et offre peu de stimulation tactile. Les écrans apportent des distractions. Pour une assimilation profonde, l'écriture analogique est idéale."
   - question: "Que doivent faire les gens s'ils n'ont pas le temps de lire 10 heures par jour ?"
     answer: "La qualité de la concentration sans écran importe plus que la quantité de temps. Même 30 minutes par jour de lecture concentrée et de prise de notes suffisent à stimuler l'aire d'association."
+
 ---
 
 Karl Marx a analysé les structures du capitalisme. Comment son chef-d'œuvre Das Kapital est-il né ? 🏛️

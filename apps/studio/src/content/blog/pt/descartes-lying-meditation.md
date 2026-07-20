@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "A meditação matinal na cama é realmente eficaz para o cérebro?"
     answer: "Sim, a postura horizontal ao acordar induz as ondas cerebrais ao estado alfa, estabilizando o sistema nervoso autónomo e melhorando a criatividade."
+
 ---
 
 René Descartes, o pai da filosofia moderna que estabeleceu o ponto de partida do pensamento racional com a frase "Penso, logo existo" e fundou a geometria analítica. Você sabia que este gigante do intelecto mantinha uma rotina muito confortável, porém única, todas as manhãs? 🛏️

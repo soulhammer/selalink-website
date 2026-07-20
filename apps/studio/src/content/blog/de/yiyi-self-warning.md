@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Welche Inhalte sind im Selbstwarnungs-Gelübde am effektivsten?"
     answer: "Es ist am effektivsten, Ihre am schwersten zu kontrollierenden Schwächen (z. B. Abstand vom Smartphone halten, Pünktlichkeit) als positive, handlungsbasierte Sätze zu formulieren, um klare Reize an das Gehirn zu senden."
+
 ---
 
 Yi I schrieb 11 persönliche Selbstwarnregeln und las sie jeden Morgen, um sein Verhalten zu regulieren. Dies stärkte seine Selbstbeherrschung.

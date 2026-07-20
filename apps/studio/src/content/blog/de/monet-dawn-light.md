@@ -21,6 +21,7 @@ faqs:
     answer: "Geschlossene Fensterscheiben filtern bis zu 80 % der blauen Wellenlängen heraus, die für die ipRGCs wichtig sind. Das vollständige Öffnen des Fensters ist entscheidend, damit die Lichtwellen die Netzhaut direkt erreichen."
   - question: "Ist diese Routine auch an bewölkten oder regnerischen Tagen effektiv?"
     answer: "Ja, auch an bewölkten Tagen ist das durch die Wolken dringende Naturlicht noch mehr als zehnmal heller als künstliches Raumlicht. Die blauen Lichtwellen sind vorhanden und regen die Zellen an."
+
 ---
 
 Claude Monet erwachte vor dem Morgengrauen, um dieselbe Szene im wechselnden Morgenlicht zu malen. Diese Gewohnheit schärfte seine Sensibilität für subtile Lichtveränderungen.

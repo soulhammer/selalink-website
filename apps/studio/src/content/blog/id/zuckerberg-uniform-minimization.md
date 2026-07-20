@@ -21,6 +21,7 @@ faqs:
     answer: "Batik atau jas formal juga digunakan jika acara mengharuskan. Inti dari seragam adalah menghilangkan pilihan sepele, jadi menentukan kombinasi pakaian formal sebelumnya mencegah kelelahan keputusan."
   - question: "Bolehkah saya membuat seragam dengan pakaian selain kaus dan jins?"
     answer: "Tentu saja. Memilih kombinasi kemeja, celana, atau gaun sederhana dan nyaman yang membuat Anda merasa rileks serta menyediakan beberapa pasang pakaian yang sama sudah cukup."
+
 ---
 
 Pendiri Facebook, Mark Zuckerberg. Menavigasi arah masa depan platform sosial yang menghubungkan miliaran manusia menuntut stamina keputusan prima. Taktik andalannya untuk menjaga daya pikir adalah menolak memilih pakaian pagi hari. Ia hanya memiliki kaus abu-abu dan celana jins yang sama di lemarinya.

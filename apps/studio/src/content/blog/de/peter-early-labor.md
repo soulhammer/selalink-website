@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Belastet körperliches Training am frühen Morgen das Gehirn, wenn man müde ist?"
     answer: "Im Gegenteil: Die feine Stimulation der Handbewegungen und sensorischen Nerven direkt nach dem Aufwachen regt das retikuläre System an, Cortisol und Dopamin freizusetzen. Dadurch wird die Schlafträgheit (Sleep Inertia) am schnellsten überwunden und das Gehirn wach und klar."
+
 ---
 
 Peter der Große, der große Zar, der das rückständige Russische Reich reformierte und als Großmacht etablierte. Woher stammte sein Charisma, mit dem er den Adel disziplinierte und die Marine aufbaute? ⚓

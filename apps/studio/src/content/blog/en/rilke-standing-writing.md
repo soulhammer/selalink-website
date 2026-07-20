@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What should I do if my soles or back hurt when using a standing desk?"
     answer: "It is recommended to place a shock-absorbing anti-fatigue mat under your feet or wear cushioned indoor slippers, and lightly contract core muscles to distribute gravity and prevent excessive spinal bending."
+
 ---
 
 Rainer Maria Rilke, the unmatched Austrian poet who marked the peak of modern poetry by describing deep inner landscapes in gorgeous rhythms in 'The Notebooks of Malte Laurids Brigge' and 'Duino Elegies'. What unique writing environment did he choose to awaken creative tension and intuitive inspiration? ✍️

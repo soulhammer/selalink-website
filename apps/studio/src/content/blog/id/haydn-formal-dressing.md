@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah Haydn benar-benar memakai baju formal saat sendirian?"
     answer: "Ya, Haydn percaya bahwa pakaian santai menghasilkan ide musik yang santai juga. Ia menganggap pakaian formal sebagai disiplin untuk menjaga ketajaman berpikir."
+
 ---
 
 Joseph Haydn, 'Bapak Simfoni' yang meletakkan dasar bagi gaya musik klasik. Ia menggubah lebih dari 100 simfoni dalam hidupnya. Menariknya, ia memiliki kebiasaan unik: ia selalu mengenakan jas formal, wig, dan cincin favoritnya sebelum menulis musik. Meskipun bekerja sendiri di ruang kerjanya, ia percaya bahwa keteraturan kreatif hanya bisa lahir dari keteraturan fisik. Mari kita pelajari sains 'Kognisi Berbusana'.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si j'ai mal aux pieds ou au dos en utilisant un bureau debout ?"
     answer: "Il est recommandé de placer un tapis anti-fatigue amortissant sous vos pieds ou de porter des pantoufles d'intérieur rembourrées, et de contracter légèrement les muscles du tronc pour répartir la gravité et éviter une courbure excessive de la colonne vertébrale."
+
 ---
 
 Rainer Maria Rilke, le grand poète autrichien qui a marqué l'apogée de la poésie moderne en décrivant les paysages intérieurs dans 'Les Cahiers de Malte Laurids Brigge' et 'Élégies de Duino'. Quel environnement d'écriture unique avait-il choisi pour éveiller l'inspiration ? ✍️

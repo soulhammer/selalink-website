@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Dois-je me lever à 4h ? Je suis du soir."
     answer: "Non. L'essentiel n'est pas l'heure de 4h, mais l'application régulière du mécanisme en 3 étapes (arrêt cognitif, discussion et marche) à votre rythme."
+
 ---
 
 Le président Chung Ju-yung, fondateur du groupe Hyundai. Il suivait une routine matinale unique : réveil avant 4h, petit-déjeuner en famille à 5h et marche jusqu'au bureau à Gaedong. Découvrez les bienfaits de l'aube.

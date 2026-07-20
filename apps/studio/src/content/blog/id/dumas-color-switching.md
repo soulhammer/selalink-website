@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Mengatur warna alat digital (pengaturan warna latar belakang tema aplikasi menulis tablet, penentuan warna folder Notion atau kotak surat, tema peramban Chrome, dll.) agar sepenuhnya berbeda berdasarkan tujuan saja sudah cukup bagi otak untuk mendapatkan efek kognitif priming yang sama."
   - question: "Apakah membagi warna secara terlalu mendalam dan sering menggantinya justru akan berdampak buruk?"
     answer: "Benar. Diperlukan pembelajaran asosiatif yang jelas dan berulang agar otak dapat menghubungkan warna dengan kondisi kognitif tertentu secara organik. Oleh karena itu, kuncinya adalah membatasi warna pada maksimal 3 area kategori besar dan menjaganya tetap konsisten."
+
 ---
 
 Alexandre Dumas menulis novel di kertas biru, puisi di kertas kuning, dan artikel non-fiksi di kertas merah muda. Kebiasaan mengganti warna ini mencegah kebosanan mental.

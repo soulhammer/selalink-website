@@ -21,6 +21,7 @@ faqs:
     answer: "When we try to hide mistakes, anxiety lasts longer. However, writing down facts and analyzing why a failure occurred helps the brain regain a sense of control, which reduces stress and stimulates motivation."
   - question: "Is there a brain training method to better capture serendipity?"
     answer: "Making minor changes to your daily routes or habits is very helpful. Walking a different path or working in a new spot introduces micro-noise, which stimulates the frontoparietal attention network and trains the brain to notice novel connections."
+
 ---
 
 Penicillin, the first antibiotic that saved hundreds of millions of lives. Was this achievement born in a high-tech laboratory? 🧫

@@ -21,6 +21,7 @@ faqs:
     answer: "Para imitar la corteza motora y mejorar las conexiones neurales, la primera persona (ver a través de tus propios ojos) es infinitamente más eficaz. La tercera persona sirve para ver la colocación global, pero la primera persona simula con mayor potencia la psicomotricidade fina."
   - question: "¿Qué pasa si surgen ideas de fracaso o errores durante la visualización?"
     answer: "Es una reacción natural del cerebro. Si imagina un error, detenga la escena y retroceda. Visualice el proceso de corrección inmediato y exitoso para reforzar la conexión de éxito en las neuronas."
+
 ---
 
 Pelé, el mejor futbolista de la historia y el sinónimo del fútbol, 'El Rey'. Los vítores de miles de espectadores y la enorme presión de ganar presentaban una carga psicológica colosal para el joven en el Mundial. Sin embargo, siempre entraba al campo con absoluta compostura. El secreto estaba escondido en el vestuario.

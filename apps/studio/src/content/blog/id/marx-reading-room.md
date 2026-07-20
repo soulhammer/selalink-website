@@ -21,6 +21,7 @@ faqs:
     answer: "Mengetik bersifat repetitif dan menawarkan stimulasi taktil yang minim. Selain itu, layar komputer memicu gangguan multitasking. Untuk pemetaan informasi mendalam, membaca analog dan menulis tangan jauh lebih ideal."
   - question: "Apa yang harus dilakukan manusia modern jika tidak memiliki waktu membaca 10 jam sehari?"
     answer: "Kualitas fokus bebas layar lebih penting daripada kuantitas waktu. Bahkan hanya 30 menit sehari membaca fokus bebas layar dan menulis 1-2 halaman catatan sudah cukup untuk merangsang korteks asosiasi."
+
 ---
 
 Karl Marx membedah struktur ekonomi kapitalisme. Bagaimana karya agungnya Das Kapital lahir? 🏛️

@@ -21,6 +21,7 @@ faqs:
     answer: "Aplikasi ponsel memiliki aturan yang sama, tetapi radiasi layar, iklan, dan notifikasi membuat prefrontal tetap waspada. Menggunakan alat fisik yang melibatkan umpan balik taktil mata dan tangan jauh lebih efektif."
   - question: "Bukankah memicu stres jika kartu macet dan tidak bisa disusun?"
     answer: "Tujuan utama Solitaire bukanlah 'kemenangan', melainkan 'pengalihan perhatian dan istirahat otak lewat aktivitas sederhana'. Proses menggeser dan memilah kartu sudah memenuhi tujuan tersebut. Cukup kocok ulang kartu dan mulai lagi."
+
 ---
 
 Charles de Gaulle memimpin 'Prancis Bebas' selama Perang Dunia II. Di bawah tekanan konstan, bagaimana ia mengelola stres? 🃏

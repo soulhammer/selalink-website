@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was tun, wenn man überhaupt keinen Handstand beherrscht?"
     answer: "Auch ohne Handstand erzielen Sie ähnliche Effekte für Durchblutung und Vestibulärsinn durch die Delphin-Pose (nur das Gesäß anheben) oder sanfte Haltungen, bei denen Sie die Beine auf einen Stuhl legen und den Oberkörper beugen."
+
 ---
 
 Igor Stravinsky revolutionierte die klassische Musik des 20. Jahrhunderts mit Werken wie Le sacre du printemps. Hinter seiner Kreativität steckte eine ungewöhnliche physische Routine: Bei Blockaden machte er neben dem Klavier Handstand. Er glaubte, die Umkehrhaltung wecke das Gehirn auf. Wir untersuchen, wie diese Methode die Kreativität fördert.

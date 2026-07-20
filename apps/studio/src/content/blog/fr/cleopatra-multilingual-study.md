@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, regarder et écouter ne stimule que les régions cognitives passives. La plasticité cérébrale et les réseaux synaptiques s'activent uniquement lorsque vous stimulez les cordes vocales par la lecture à haute voix et construisez activement des phrases vous-même comme Cléopâtre."
   - question: "L'étude simultanée de deux langues provoque-t-elle une surcharge cognitive ?"
     answer: "Au stade débutant, il est préférable de s'adapter d'abord à une seule langue. Cependant, si les bases sont posées, alterner entre les structures grammaticales de deux langues développe considérablement le contrôle cognitif du cortex préfrontal."
+
 ---
 
 Cléopâtre VII, reine d'Égypte, n'était pas seulement une beauté. Elle était une grande stratège qui parlait au moins 9 langues (grec, égyptien, latin, hébreu, etc.) sans interprètes. Elle étudiait chaque après-midi pour négocier directement.

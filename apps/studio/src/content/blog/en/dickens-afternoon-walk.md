@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Should I not listen to music during the walk?"
     answer: "Music or verbal information stimulates the brain to analyze it, hindering DMN activation. For complete brain rest and creativity, it is best to focus solely on the sounds of nature and your footsteps without earphones."
+
 ---
 
 Charles Dickens, widely regarded as the greatest novelist of the Victorian era with masterpieces such as 'Oliver Twist,' 'Great Expectations,' and 'A Christmas Carol.' Do you know where the hundreds of charming characters and intricate plots in his novels were born? The secret lies in his '3-hour walk' routine, which he strictly maintained every afternoon. After finishing his writing sessions from 9 AM to 2 PM, Dickens headed outside. He walked about 10-12 miles (16-19 km) at a very fast pace for exactly three hours. Walking through the busy back alleys of London to the quiet country paths of Kent, he organized the characters and structured the dialogues in his head. Today, BuildSelf shares the brain-scientific principles behind Dickens' walking habit and how to design walks to refresh your mind and boost creativity.

@@ -21,6 +21,7 @@ faqs:
     answer: "Itu karena intensitas latihan yang berlebihan dan bahan penumpuk kelelahan meningkat dengan cepat. Begitu Anda mencapai titik kritis kehabisan napas, sebaiknya segera hentikan dengan pengatur waktu 3 menit agar hanya dopamin kebangkitan yang menyegarkan yang dibebankan ke otak Anda."
   - question: "Bagaimana seharusnya seorang pemula dengan kekuatan fisik yang sangat lemah memulai?"
     answer: "Segala jenis latihan fisik aerobik/kekuatan, seperti berjalan di tempat dengan tempo cepat atau lari ringan di tempat, sama efektifnya asalkan cukup membuat Anda sedikit berkeringat berdasarkan kondisi kardiorespirasi Anda saat ini."
+
 ---
 
 Theodore Roosevelt, presiden AS ke-26, yang diangkat menjadi presiden pada usia termuda dalam sejarah AS dan memimpin reformasi progresif yang inovatif serta memperluas hegemoni global Amerika dengan mengerahkan kekuatan diplomatik yang kuat di luar negeri. Untuk mengatasi keterbatasan tubuhnya yang menderita asma dan kurus sebagai seorang anak, dia pergi ke gym setiap pagi dan melakukan latihan fisik intensitas tinggi sepanjang hidupnya, mengangkat balok besi yang berat hingga batas kemampuannya dan berkeringat. Kebiasaan melakukan latihan fisik yang eksplosif setiap pagi tidak hanya mengubah anak laki-laki yang lemah menjadi pria yang kuat, tetapi juga menjadi kekuatan pendorong yang memberinya kemauan keras dan kewaspadaan mental untuk bertahan sebagai presiden.

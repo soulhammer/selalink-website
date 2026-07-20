@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah ada alasan untuk menggunakan buku catatan kertas analog di era digital saat ini?"
     answer: "Ya, secara neurosains, mengetik pada keyboard memiliki stimulasi taktil yang sederhana dan kurang mengaktifkan korteks serebral. Sebaliknya, menulis di kertas dengan pena langsung membangunkan hipokampus otak."
+
 ---
 
 Isaac Newton, ilmuwan terbesar dalam sejarah yang menemukan hukum gravitasi universal, menetapkan kalkulus, dan meletakkan dasar-dasar fisika modern. Bagaimana sistem pengetahuan yang luas dan kompleks yang mencakup fisika, matematika, alkimia, dan teologi dapat diatur di dalam kepala satu orang? Kuncinya terletak pada 'kebiasaan menulis' yang menyeluruh dan rumit yang ia patuhi sejak masa mudanya.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Tengo que recoger basura o puedo simplemente caminar?"
     answer: "Solo caminar ayuda a la activación de DMN, pero combinarlo con el acto altruista de recoger basura y 'organizar el entorno' desencadena dopamina y serotonina de mayor satisfacción."
+
 ---
 
 El director Hayao Miyazaki, una leyenda de la animación con obras como 'Mi vecino Totoro' y 'El viaje de Chihiro'. Tiene una rutina única desde hace décadas: ponerse un delantal y caminar cerca del río para recoger basura. ¿Cuál es el secreto del maestro al hacer esto?

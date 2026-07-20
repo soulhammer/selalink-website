@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Stört Koffein am späten Abend nicht den Schlaf?"
     answer: "Ja, es kann Schlafqualität mindern. Die Gewohnheit Balzacs ist für moderne Arbeitnehmer ungeeignet. Nutzen Sie bei Empfindlichkeit entkoffeinierten Kaffee oder Pfefferminztee und legen Sie Fokusstunden auf den frühen Morgen."
+
 ---
 
 Honoré de Balzac, der Gigant der französischen realistischen Literatur des 19. Jahrhunderts, schuf mit 'Die menschliche Komödie' ein monumentales Werk. Der Motor dahinter war seine extreme Hyperfokus-Routine: Um Mitternacht aufstehen und 12 Stunden schreiben. Wenn die Welt schwieg, stand Balzac auf, zündete zwei Kerzen an und blendete jede Ablenkung aus. Er schrieb bis zum Mittag des nächsten Tages und hielt sich mit starkem Kaffee wach. Heute stellt BuildSelf die neurophysiologischen Prinzipien von Balzacs extremem Fokus vor.

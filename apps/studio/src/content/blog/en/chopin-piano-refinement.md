@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, that is a viable risk. To prevent this, you must separate the 'time for drafting' and 'time for refinement and tuning.' For instance, limiting the refinement phase to a maximum of 3 hours or 5 iterations, setting a quantitative boundary while applying Chopin's refinement mechanism, is effective."
   - question: "At what point should you stop modifying and adopt it as the final version?"
     answer: "While artistic intuition is useful, use the point when 'no meaningful improvement is found compared to the previous version during the correction process (law of diminishing returns)' as a criterion. When minor modifications no longer significantly change overall structural efficiency or intent, the ACC signal has resolved, and it is wise to finalize the work."
+
 ---
 
 Frédéric Chopin, called the 'Poet of the Piano' for achieving the romantic zenith with a single piano. His Nocturnes, Ballades, and Waltzes sound infinitely free and lyrical, like clouds drifting in the air. Yet, behind these fluid and perfect melodies hid a painful, obsessive perfectionism in composition that defies imagination.

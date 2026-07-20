@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, eso es correcto. Cuando el cerebro decodifica información sobre la fina textura táctil de la piel en lugar de información visual o auditiva, las redes sinápticas a largo plazo de los lóbulos frontal y parietal se vinculan mucho más densamente, por lo que la profundidad y permanencia de la memoria aumentan explosivamente."
   - question: "¿Qué debo hacer si mi piel está seca y mi sensibilidad táctil disminuye?"
     answer: "Puedes despertar en mayor medida la resolución física de tu sentido del tacto activando el flujo sanguíneo lavándote ligeramente las manos con agua tibia antes de entrenar, o aplicando ligeramente una crema humectante para formar una fina película resistente a la humedad antes de entrenar."
+
 ---
 
 Helen Keller, un ícono de superación que superó la triple prueba de ser invisible e incapaz de oír (impedimentos visuales, auditivos y del habla) y dedicó su vida como gran activista social y escritora, coloreando de esperanza la desesperación de la humanidad. En la silenciosa oscuridad, concentró todos sus nervios en las huellas de los movimientos táctiles del Sr. Sullivan mientras él escribía meticulosamente las letras con las yemas de los dedos en la palma de su mano. En el momento en que el agua fría del manantial mojó el dorso de su otra mano, combinó la señal táctil 'AGUA' en su palma con el espíritu del agua en su cerebro por primera vez. Este sofisticado entrenamiento de imitación táctil fue la clave que la convirtió en una escritora inmortal.

@@ -21,6 +21,7 @@ faqs:
     answer: "Non. L'écriture manuscrite stimule le cortex somatosensoriel, ce qui favorise l'intégration. Le clavier est plus rapide mais neutre au niveau tactile. Pour retenir à long terme, l'écriture manuelle reste supérieure."
   - question: "Expliquer à l'oral produit-il le même effet métacognitif qu'une lettre ?"
     answer: "Oui. Enseigner à autrui permet de retenir jusqu'à 90 % du savoir. Que ce soit en parlant à un ami, en écrivant ou même en s'expliquant le cours à soi-même face à un miroir, l'effet métacognitif est garanti."
+
 ---
 
 Dasan Jeong Yak-yong, le grand érudit qui a synthétisé l'idéologie Silhak (apprentissage pratique) et laissé plus de 500 volumes d'écrits. En raison de complots politiques, il a enduré 18 ans d'exil dans une misérable cabane à Gangjin. Comment a-t-il surmonté la frustration pour bâtir un tel héritage en prison ?

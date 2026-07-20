@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, lorsque vous écrivez comme si vous écriviez une lettre à quelqu'un qui écoutera vos pensées intérieures sans préjugés, comme le Théo fictif, la verbalisation honnête de vos émotions et l'effet de détoxification cérébrale sont maximisés."
   - question: "Puis-je utiliser une application de mémo numérique ?"
     answer: "Un cahier analogique est recommandé pour la purification émotionnelle car l'utilisation de l'écriture manuscrite est beaucoup plus bénéfique pour augmenter la vigilance du cortex somatosensoriel du cerveau et calmer le lobe frontal."
+
 ---
 
 Vincent van Gogh, l'un des plus grands peintres de l'histoire de l'art de la fin du XIXe siècle et pionnier de l'expressionnisme, était un peintre de génie qui n'a vendu qu'un seul tableau au cours de sa vie en raison de l'extrême pauvreté et de l'isolement mental, mais a laissé derrière lui des chefs-d'œuvre immortels qui dominent aujourd'hui les sens humains. En tant que maître absolu du postimpressionnisme français, il a écrit plus de 660 lettres à son frère Théo tout au long de sa vie pour surmonter la solitude au milieu de crises intérieures dévastatrices et d'aliénation. Chaque soir, il quittait la toile, allumait une bougie dans sa chambre et purifiait son esprit en déversant sous forme épistolaire l'angoisse qui pesait sur son cœur et l'inspiration de la couleur.

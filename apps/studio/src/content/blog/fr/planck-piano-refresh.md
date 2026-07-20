@@ -21,6 +21,7 @@ faqs:
     answer: "Appuyez librement sur les touches selon l'inspiration sans vous soucier de la mélodie. Se concentrer sur le toucher et la résonance détend et réinitialise le réseau d'attention du cerveau."
   - question: "Puis-je obtenir une réinitialisation cognitive avec d'autres instruments que le piano ?"
     answer: "Oui. Tout instrument à cordes ou à clavier nécessitant une coordination fine et permettant de contrôler la résonance fournira des effets similaires sur l'attention."
+
 ---
 
 Max Planck, le père de la physique quantique. Pour surmonter la fatigue de ses calculs, il pratiquait un rituel : jouer du piano sans partition. Il accompagnait souvent Albert Einstein au violon. Voyons comment l'improvisation artistique active l'hémisphère droit et met au repos les réseaux logiques de l'hémisphère gauche.

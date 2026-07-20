@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Realmente ajuda vestir-se formalmente se trabalho de casa?"
     answer: "Sim, está demonstrado pela psicologia cognitiva. Os trabalhadores remotos que usam roupas formais cometem menos erros e demoram menos tempo para iniciar suas atividades do que quem trabalha de pijama. A mudança de roupa é o interruptor mental mais simples para que o cérebro diferencie o contexto laboral do doméstico."
+
 ---
 
 Nicolau Maquiavel, o autor de O Príncipe. Desterrado da vida pública após a queda da república, viu-se obrigado a viver no exílio rural. No entanto, não se abandonou à apatia. Ao cair da tarde, tirava as roupas sujas de barro e vestia-se com suas roupas de corte para entrar em sua biblioteca. Acreditava que para dialogar com os pensadores do passado devia apresentar-se com dignidade. Analisemos como a indumentária modifica a atitude do cérebro.

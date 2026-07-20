@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, dalam biografi 'Brief Lives' yang ditulis oleh John Aubrey, seorang penulis biografi kontemporer yang dekat dengan Hobbes, ada deskripsi sejarah terperinci bahwa Hobbes menempelkan wadah tinta khusus pada pegangan tongkatnya."
   - question: "Mana yang lebih efektif: catatan suara atau catatan mengetik?"
     answer: "Saat berjalan, perekaman suara, yang dapat menangkap teks segera saat bergerak, jauh lebih aman dan lebih cepat dengan lebih sedikit gangguan. Mengetik memerlukan kontrol tangan yang rumit, sehingga catatan suara lebih direkomendasikan saat bergerak."
+
 ---
 
 Thomas Hobbes, penulis 'Leviathan', sebuah karya klasik tentang legitimasi kekuasaan negara yang besar. Sistem filosofisnya yang canggih diukir bukan di depan meja melainkan di ladang dan jalur gunung. Dan ada teman yang sangat istimewa dalam pekerjaan itu. 🦯

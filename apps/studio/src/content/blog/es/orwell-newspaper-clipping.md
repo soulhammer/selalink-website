@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, copias de los recortes de prensa de George Orwell y sus notas de trabajo se conservan como valioso material histórico en el Archivo de George Orwell en el University College de Londres (UCL)."
   - question: "¿Qué aplicaciones recomienda para seguir esta rutina de forma digital?"
     answer: "Recomendamos Notion, Obsidian o Evernote, que facilitan capturar texto y añadir notas de opinión inmediatas; o aplicaciones dedicadas a guardar enlaces web como Pocket o Raindrop.io."
+
 ---
 
 George Orwell, gigante de la literatura inglesa del siglo XX que advirtió con lucidez sobre el poder humano y la dictadura en '1984' y 'Rebelión en la granja'. ¿Cómo lograba mantener esa visión de futuro y esa prosa analítica fría todos los días? 📰

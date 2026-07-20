@@ -21,6 +21,7 @@ faqs:
     answer: "It is natural to feel awkward at first due to Cognitive Dissonance. The important thing is not to verify facts, but to open up new possibilities for the brain. As you repeat, neuroplasticity reorganizes neural circuits, resolving the awkwardness and solidifying the affirmation into a belief."
   - question: "Does it work only if I shout it out loud?"
     answer: "The best way is to directly perceive the vibration of the voice auditorily. However, if it is difficult to make sound due to the surrounding environment, whispering or silently reciting with intense focus on each word (Silent Self-talk) also provides a sufficiently positive stimulus for brain activation."
+
 ---
 
 Muhammad Ali, who reigned as an Olympic gold medalist and World Heavyweight Champion, remains the greatest icon in 20th-century sports history. Before stepping into the ring where tens of thousands of spectators and brutal opponents awaited, how did he control extreme fear and performance anxiety? Ali shouted "I am the greatest" out loud every morning in front of the mirror, and even in front of reporters during training. This was not simple boasting, but a routine of positive self-affirmation that engraved the mindset of victory deep into his brain and subconscious. Today, BuildSelf introduces the sports psychological principles and modern mindset routine of Muhammad Ali's 'self-affirmation'.

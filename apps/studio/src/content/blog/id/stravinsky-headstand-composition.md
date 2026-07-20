@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika seorang pemula sama sekali tidak bisa melakukan handstand?"
     answer: "Meskipun Anda tidak bisa menyandarkan kaki ke dinding, Anda bisa mendapatkan efek aliran darah dan stimulasi vestibular yang sama dengan melakukan Pose Lumba-lumba (hanya mengangkat pinggul ke atas di atas matras) atau menekuk tubuh dengan kaki bertumpu di kursi atau kasur."
+
 ---
 
 Igor Stravinsky, yang mengguncang dunia musik klasik abad ke-20 dengan melodi avant-garde seperti The Rite of Spring. Di balik eksperimen musiknya yang luar biasa, terdapat rutinitas fisik yang unik. Setiap kali dia kehabisan inspirasi saat menggubah lagu, dia akan melakukan handstand di samping pianonya. Dia percaya posisi terbalik membangunkan otak dan mengubah sudut pandang. Mari kita ulas bagaimana inversi fisik ini memicu kreativitas.

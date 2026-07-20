@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What should I do if no thoughts come and I cannot focus?"
     answer: "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling."
+
 ---
 
 Natsume Soseki se sentaba a escribir mecánicamente todas las mañanas sin esperar inspiración. Este hábito de acción obligada estimuló la liberación de dopamina en su cerebro, despertando el enfoque creativo a través del movimiento físico.

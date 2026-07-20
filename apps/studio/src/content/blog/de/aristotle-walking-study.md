@@ -21,6 +21,7 @@ faqs:
     answer: "Gehen im Freien wird dringend empfohlen. Der visuelle Fluss der sich bewegenden Landschaft beruhigt die Amygdala, baut Ängste ab und fördert die Kreativität viel effektiver, als auf eine Wand auf dem Laufband zu starren."
   - question: "Wie lange sollte ich für beste Ergebnisse gehen?"
     answer: "20 bis 30 Minuten sind ideal. Diese Dauer bietet genügend aeroben Nutzen, um die Durchblutung und BDNF-Produktion zu steigern, ohne körperliche Ermüdung hervorzurufen, die die Energie für tiefes Denken raubt."
+
 ---
 
 "Logik und Wahrheit finden sich nicht im Stillstand, sondern im aktiven Handeln." Aristoteles gründete das Lykeion in Athen und verbrachte seine Tage damit, mit seinen Schülern auf den von Bäumen gesäumten Wegen (Peripatos) spazieren zu gehen und über Philosophie und Wissenschaft zu diskutieren. Dieser Ansatz führte zum Begriff der "Peripatetiker" (die umherwandelnden). Gehen war ein Werkzeug, um tiefes, logisches Denken freizusetzen.

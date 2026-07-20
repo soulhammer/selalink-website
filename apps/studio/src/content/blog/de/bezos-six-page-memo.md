@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum wird die Lesezeit direkt in das Meeting gelegt?"
     answer: "Wenn die Unterlagen vorab verschickt werden, lesen viele sie nur oberflächlich. Die Lesezeit im Meeting erzwingt den gleichen Informationsstand bei allen Teilnehmern."
+
 ---
 
 Jeff Bezos, Gründer von Amazon. Er verbot PPT-Folien mit Stichpunkten und ordnete an, dass ein 6-seitiger Bericht in Textform verwendet werden muss. Zu Beginn eines Meetings wird kein Wort gesprochen; die Teilnehmer lesen den Bericht 30 Minuten lang schweigend. Warum führte er diese strenge Regel ein?

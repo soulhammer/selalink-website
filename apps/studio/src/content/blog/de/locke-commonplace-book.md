@@ -21,6 +21,7 @@ faqs:
     answer: "Er zeichnete vorn ein Raster aus Konsonanten (A-Z) und Vokalen (a, e, i, o, u). Für Begriffe (z. B. 'Epistola' unter E-i) trug er die Seitenzahl in dieses Raster ein, was das spätere Suchen erleichterte."
   - question: "Ist Papier für das Verstehen besser als digitale Notizen?"
     answer: "Handschrift regt die Hirnaktivität stärker an und hilft beim Verstehen. Digitale Notizen sind jedoch durchsuchbar und sicherer. Am besten ist es, das Werkzeug nach Vorliebe zu wählen oder beide zu kombinieren."
+
 ---
 
 John Locke, der Vordenker der Aufklärung und Verfechter der Demokratie. Er sah den menschlichen Geist bei der Geburt als unbeschriebenes Blatt – als 'Tabula Rasa'. Wie füllte er dieses Blatt mit seinem fundierten Wissen? 📖

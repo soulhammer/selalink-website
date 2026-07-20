@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Dois-je sortir même par temps nuageux ou pluvieux ?"
     answer: "Oui. Même par temps nuageux, l'intensité lumineuse extérieure varie de 1 000 à 2 000 lux, ce qui est beaucoup plus lumineux que l'éclairage intérieur (300 à 500 lux). Vous bénéficierez toujours des bienfaits du cycle circadien. Si l'air est pollué, restez à l'intérieur devant une grande fenêtre."
+
 ---
 
 Paul Cezanne, salué par Picasso et Matisse comme le père de nous tous, a jeté les bases du cubisme et de l'abstraction du XXe siècle. Ses œuvres capturent les structures géométriques éternelles de la nature. La source de sa vision unique était sa routine matinale. Se réveillant à 6 heures du matin, il portait son chevalet pour parcourir les sentiers d'Aix-en-Provence. Alors que le soleil se levait sur la montagne Sainte-Victoire, il méditait sur les changements d'angles de la lumière. Nous explorons comment l'exposition à la lumière de l'aube aiguise la concentration.

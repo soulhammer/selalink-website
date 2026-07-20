@@ -21,6 +21,7 @@ faqs:
     answer: "Beginnen Sie mit 15- oder 30-Minuten-Blöcken für 1 oder 2 Fokus-Stunden pro Tag. Eine vollständige Umstellung führt anfangs zu Überlastung."
   - question: "Was mache ich, wenn ich eine Aufgabe nicht im zugewiesenen Block schaffe?"
     answer: "Wechseln Sie sofort zum nächsten Block. Verschieben Sie Unerledigtes auf einen speziellen Puffer-Block (Buffer Block) am Spätnachmittag, damit kein Domino-Effekt entsteht."
+
 ---
 
 Elon Musk führt Tesla und SpaceX mit bis zu 100 Arbeitsstunden pro Woche. Seine Geheimwaffe ist der '5-Minuten-Zeitblock'. Jede Aktivität (E-Mails, Essen, Besprechungen) wird minutengenau eingetragen. Während eines Blocks arbeitet er absolut ablenkungsfrei.

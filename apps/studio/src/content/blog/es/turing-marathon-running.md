@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, cualquier ejercicio aeróbico continuo que eleve el BDNF, como ciclismo o natación, ofrece una recuperación cognitiva similar. No obstante, correr al aire libre maximiza la relajación del RND gracias a los estímulos sensoriales como el viento y el paisaje."
   - question: "¿Escuchar música mientras corro interfiere con la recuperación cerebral?"
     answer: "La música con letra o ritmos fuertes obliga al lóbulo frontal a procesar sonido, impidiendo el descanso cerebral. Escuchar sonidos naturales o concentrarse en la respiración sin música activa mejor la RND y recarga la atención."
+
 ---
 
 Alan Turing, el genio matemático británico que descodificó el código Enigma del ejército alemán durante la Segunda Guerra Mundial y sentó las bases de la informática. Sufría de sobrecarga cerebral crónica debido a cálculos complejos y criptoanálisis. Su secreto para mantener el equilibrio mental bajo tal presión intelectual era 'correr maratones'.

@@ -21,6 +21,7 @@ faqs:
     answer: "Consistía en dibujar una cuadrícula al inicio con letras (A-Z) y vocales (a, e, i, o, u). Al anotar un término clave (ej. 'Epistola' en la E con la i), escribía el número de página en la cuadrícula para facilitar la búsqueda cruzada."
   - question: "¿Es el papel más beneficioso para asimilar conocimientos que lo digital?"
     answer: "Escribir a mano activa más la red de control cognitivo, facilitando la retención inicial. Sin embargo, lo digital destaca por su rapidez de búsqueda y seguridad. Lo ideal es elegir según su perfil o combinar ambos sistemas."
+
 ---
 
 John Locke, maestro del Siglo de las Luces que sentó las bases de la democracia parlamentaria e inspiró la Declaración de Independencia de EE. UU. Si la mente al nacer es una hoja en blanco, una 'tabula rasa', ¿cómo logró llenar su lienzo con tal nivel de conocimiento? 📖

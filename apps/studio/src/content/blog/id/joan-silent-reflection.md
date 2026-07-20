@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Inti dari rutinitas Joan of Arc adalah menyelaraskan otak tepat setelah bangun sebelum ponsel atau informasi luar masuk. Meluangkan waktu 10 menit saja sudah cukup."
   - question: "Saya tidak memiliki agama, apakah doa hening tetap efektif?"
     answer: "Sangat efektif. Rutinitas ini berfokus pada 'pemblokiran kognitif' dan 'konfirmasi nilai diri' secara ilmiah, bukan ritual keagamaan. Mengingat nilai atau keyakinan Anda sudah cukup memicu efek tenang."
+
 ---
 
 Joan of Arc, penyelamat Prancis. Temukan efek penstabilan neuropsikologis dari rutinitas 'Keheningan Pagi' untuk menjaga tekadnya, dan panduan 3 langkah.

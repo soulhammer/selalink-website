@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What should I do if no thoughts come and I cannot focus?"
     answer: "Instead of doing nothing or looking at a phone, sit at your desk and start writing anything or scribbling."
+
 ---
 
 Natsume Soseki setzte sich jeden Morgen mechanisch zum Schreiben hin, ohne auf Inspiration zu warten. Diese Aktion stimulierte die Dopaminausschüttung.

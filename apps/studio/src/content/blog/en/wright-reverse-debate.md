@@ -21,6 +21,7 @@ faqs:
     answer: "Absolutely. You can achieve the same effect by writing 'My Argument' on paper and role-playing as your own harshest critic or a competitor's analysis team, writing a 'Devil's Advocate' report to tear down your own plan."
   - question: "How can I do a reverse debate with someone without hurting their feelings?"
     answer: "Before starting, you must agree on the rule: 'We are applying the Wright Brothers' reverse debate rule.' Setting the expectation that you are officially role-playing under a rule, rather than launching personal attacks, prevents emotional friction."
+
 ---
 
 Wilbur and Orville Wright, the brothers who successfully achieved the first controlled, powered flight through fierce winds, sparking the aviation revolution. What drove these ordinary brothers, who ran a bicycle repair shop, to conquer the sky ahead of the world's leading scholars? ✈️

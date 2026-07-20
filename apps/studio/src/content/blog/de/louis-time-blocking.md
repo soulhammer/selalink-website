@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, absolut. Planen Sie in diesem Fall 2–3 Mal täglich Blöcke für 'Notfälle und E-Mails' ein. Während der Fokus-Blöcke (1–2 Stunden) arbeiten Sie ungestört und bearbeiten Notfälle gebündelt."
   - question: "Ich fühle mich schuldig, wenn ich den Zeitplan nicht einhalte."
     answer: "Time-Blocking ist kein Gefängnis, sondern ein Wegweiser. Wichtig ist nicht das Erreichen von 100 %, sondern die Konzentration auf eine Aufgabe im Block. Seien Sie flexibel und machen Sie mit dem nächsten Block weiter."
+
 ---
 
 Ludwig XIV., der die Blütezeit der französischen absoluten Monarchie einleitete und durch den Bau des Schlosses von Versailles an der Spitze der Macht stand. Was war das Geheimnis für seine unerschütterliche Autorität während seiner 72-jährigen Regierungszeit inmitten von Konflikten und Machtkämpfen? Unter dem Credo "Indem man Arbeitszeiten und Regeln festlegt, kann man das Leben vollständig beherrschen", teilte Ludwig XIV. seine 24 Stunden streng nach Minuten auf. Heute stellt BuildSelf die neurologischen Vorteile und die Umsetzung von Ludwig XIV. 'Time-Blocking'-Routine vor.

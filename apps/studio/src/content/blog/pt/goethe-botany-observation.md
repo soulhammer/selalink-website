@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Ajuda observar as plantas de interior em casa?"
     answer: "Sim, observar de perto as plantas de interior por mais de 15 segundos também estimula a atenção involuntária. No entanto, a observação ao ar livre com luz solar e caminhada ligeira é a mais eficaz para o desempenho cognitivo."
+
 ---
 
 Johann Wolfgang von Goethe, autor do grande clássico 'Fausto'. Não era apenas um escritor, mas um polímata que explorou a botânica, a teoria das cores e a anatomia. Por trás das suas ideias criativas havia um ritual: o hábito de passear pelo jardim, olhar de perto as plantas e recolher sementes. Todas as manhãs caminhava lentamente pelo seu jardim em Weimar. Levava sempre envelopes e uma lupa para observar os padrões das folhas e recolher sementes. Para Goethe, este tempo era uma recarga cognitiva que o libertava do trabalho de escritório. Hoje, o BuildSelf partilha o segredo deste ritual.

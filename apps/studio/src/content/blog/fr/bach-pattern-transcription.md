@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "La copie au clavier a-t-elle le mesmo effet ?"
     answer: "Saisir au clavier consiste à répéter la même frappe, ce qui stimule beaucoup moins le lobe pariétal que l'écriture manuscrite qui dessine les lettres et ajuste la pression."
+
 ---
 
 Jean-Sébastien Bach, appelé le « Père de la musique » pour avoir parachevé le contrepoint baroque. Sa logique de génie est née d'un rituel intellectuel quotidien : l'habitude de recopier les partitions des grands maîtres de son époque, ligne par ligne à la plume chaque nuit. Enfant, il dérobait des partitions dans le cabinet de son frère pour les copier sous la lumière de la lune. Pour Bach, copier n'était pas une lecture passive. C'était un rituel d'impression cérébrale qui gravait les arrangements mathématiques des notes grâce à la motricité fine. Aujourd'hui, BuildSelf partage le secret de ce rituel pour maximiser votre logique.

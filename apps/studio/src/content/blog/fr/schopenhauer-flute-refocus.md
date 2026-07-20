@@ -21,6 +21,7 @@ faqs:
     answer: "Absolument. Vous n'avez pas besoin de jouer des mélodies complexes. Écoutez simplement du classique en vous concentrant sur le son tout en pratiquant une respiration contrôlée pour obtenir le même effet."
   - question: "Comment l'eau froide stimule-t-elle le nerf vague et éveille-t-elle le cerveau ?"
     answer: "L'eau froide sur le visage déclenche le réflexe d'immersion, réduisant le rythme cardiaque et orientant le flux sanguin pour oxygéner le cerveau. Cette réaction stimule directement le nerf trijumeau et vague, dissipant la somnolence du matin."
+
 ---
 
 Arthur Schopenhauer, le philosophe allemand qui a défini le monde comme volonté et représentation. Comment préparait-il son esprit chaque matin ? 🎶

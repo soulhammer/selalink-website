@@ -21,6 +21,7 @@ faqs:
     answer: "Oui. Les outils numériques sont excellents pour la recherche et les liens. L'essentiel est d'éviter de fragmenter les fichiers et de conserver à la place une base de données unifiée avec des étiquettes de date et de catégorie."
   - question: "Rassembler tout au même endroit ne va-t-il pas rendre les choses confuses ?"
     answer: "L'accumulation précède l'ordre. Le fait d'avoir des idées proches les unes des autres permet au cerveau de les croiser. Ne vous souciez pas de l'ordre au quotidien ; consacrez un court créneau hebdomadaire pour étiqueter et nettoyer les entrées."
+
 ---
 
 Gottfried Wilhelm Leibniz, le philosophe allemand, créateur du calcul et fondateur du code binaire, possédait certaines des connaissances encyclopédiques les plus vastes de l'histoire. Sa carte monumentale de l'apprentissage s'est construite sur une habitude minutieuse de prise de notes. Leibniz a gardé un unique livre de lieux communs avec lui tout au long de sa vie. Les citations de lectures, les idées de conversations et les formules mathématiques notées dans des carrosses étaient toutes enregistrées au même endroit.

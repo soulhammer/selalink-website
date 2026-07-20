@@ -21,6 +21,7 @@ faqs:
     answer: "Lesen Sie echte Bücher statt Bildschirme. Sachbücher oder Gedichte bei gedimmtem Licht regen Alpha-Wellen an und helfen beim Einschlafen."
   - question: "Wie kann ich Lieblingspassagen beim nächtlichen Lesen festhalten, ohne den Schlaf zu stören?"
     answer: "Schalten Sie nicht den Computer ein. Nutzen Sie stattdessen Haftnotizen oder knicken Sie Seiten ein, und übertragen Sie die Stellen am nächsten Morgen."
+
 ---
 
 Marilyn Monroe, die Ikone des Kinos. Um dem Druck der Medien zu entfliehen, nutzte sie ein Abendritual: Sie las Klassiker wie James Joyce und schrieb Gedichte. Kognitionspsychologisch senkt stilles Lesen die Herzfrequenz und baut Stresshormone innerhalb von nur 6 Minuten um bis zu 68 % ab.

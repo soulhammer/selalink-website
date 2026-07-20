@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah metode penomoran ini tetap berguna jika saya menggunakan aplikasi catatan digital?"
     answer: "Metode ini sangat berguna di era digital. Meskipun aplikasi memiliki fitur pencarian, menetapkan kode unik (misalnya #042) memudahkan pembuatan tautan silang (backlink) antar catatan dan menyusun basis pengetahuan digital Anda."
+
 ---
 
 Michael Faraday, yang meletakkan dasar bagi peradaban listrik modern. Meskipun tidak memiliki latar belakang matematika formal yang kuat, kunci keberhasilannya merumuskan hukum fisika yang rumit terletak pada catatan eksperimennya. Sepanjang hidupnya, ia menomori setiap observasi dan ide secara berurutan, dari nomor 1 hingga 16.041. Ulas bagaimana kebiasaan mencatat yang rapi ini mengatasi keterbatasan memori.

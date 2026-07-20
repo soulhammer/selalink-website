@@ -21,6 +21,7 @@ faqs:
     answer: "While digital pen-writing on tablets is reasonably close, keyboard typing is significantly less effective. Typing is too fast and automatic, requiring little cognitive processing. Handwriting's slower speed naturally forces the brain to synthesize information, which enhances retention."
   - question: "How do I organize all these extracts so they don't get lost?"
     answer: "We recommend Locke's commonplace book method: index your notes by category or keyword on the first few pages of your notebook. You can also digitize the handwritten notes once a month, archiving them with digital tags."
+
 ---
 
 "No book is so bad that some good cannot be got from it." Pliny the Elder, the Roman administrator and author, believed that time not spent learning was wasted. During meals, baths, and travels, a slave read aloud to him while another took dictation. He never read a book without making extracts, establishing a continuous knowledge pipeline that generated the ancient world's most massive encyclopedia.

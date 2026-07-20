@@ -21,6 +21,7 @@ faqs:
     answer: "Se recomienda caminar al aire libre. El flujo visual de desplazarse a través de un paisaje real calma la amígdala, reduce la ansiedad y fomenta la creatividad de manera mucho más efectiva que mirar una pared fija en una cinta."
   - question: "¿Cuánto tiempo debo caminar para obtener mejores resultados?"
     answer: "De 20 a 30 minutos es lo ideal. Este tiempo proporciona los beneficios aeróbicos necesarios para aumentar el flujo sanguíneo y el BDNF, sin causar fatiga física que reste energía al pensamiento analítico."
+
 ---
 
 "La lógica y la verdad no se encuentran en la inmovilidad, sino en los pasos activos." Aristóteles fundó el Liceo en Atenas y pasaba sus días caminando con sus discípulos por los senderos (Peripatos), discutiendo filosofía y ciencia. Este enfoque dio origen al término 'peripatéticos' (los que caminan). Caminar era una herramienta para desbloquear el pensamiento lógico profundo.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Kann diese Methode auch von Personen genutzt werden, die überhaupt nicht zeichnen können?"
     answer: "Ja. Archimedes' Methode ist kein künstlerischer Akt, sondern ein kognitiver Prozess, um Denkstrukturen nach außen zu verlagern. Einfache Kreise oder mit Pfeilen verbundene Textboxen reichen völlig aus, um das Arbeitsgedächtnis zu entlasten."
+
 ---
 
 Der größte Genius der Antike, Archimedes, Entdecker des Hebelgesetzes. Hinter seinem übermenschlichen Fokus stand die Gewohnheit visueller Skizzen. Wann immer er nachdachte, zeichnete er geometrische Figuren in den Sand oder auf das Öl auf seinem Körper. Berühmt ist die Anekdote, nach der er einen römischen Soldaten anbrüllte, seine Kreise im Sand nicht zu stören. Wir erklären die Mechanismen dahinter.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Dali memegang sendok saat tidur siang?"
     answer: "Saat ia tertidur dan ototnya rileks, sendok jatuh ke piring di lantai, membangunkannya untuk menangkap inspirasi surealis."
+
 ---
 
 Salvador Dalí, raksasa seni surealis dan salah satu pikiran kreatif terbesar di abad ke-20. Dari mana inspirasi aneh dalam karya-karyanya berasal? Ketika Dalí menghadapi hambatan kreatif, ia tidur dengan pakaian dan sepatu botnya selama berminggu-minggu. Hari ini, BuildSelf mengeksplorasi ilmu kognitif di balik ini.

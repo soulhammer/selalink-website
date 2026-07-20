@@ -21,6 +21,7 @@ faqs:
     answer: "La clave de la metacognición no es el 'éxito' sino el 'monitoreo preciso'. Enfrentar y escribir con honestidad los malos resultados rompe las ilusiones cognitivas y ayuda a planear la estrategia de mañana."
   - question: "¿Puedo llevar todas las métricas solo con Notion o Excel?"
     answer: "Los dispositivos digitales tientan con avisos de redes o correos. Escribir las métricas a mano con papel y pluma garantiza un enfoque mucho mayor para purificar la mente y crear perspectivas profundas."
+
 ---
 
 George Washington, primer presidente de EE. UU., sufría gran presión. Su secreto era levantarse a las 4 AM para patrullar Mount Vernon. Al volver a su estudio, anotaba el clima, temperatura y abonos en un diario de cuero a mano. Esta toma de decisiones basada en datos fue su base administrativa.

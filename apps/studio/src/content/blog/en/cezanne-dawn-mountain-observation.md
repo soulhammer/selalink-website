@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Should I go outside even on cloudy or rainy days?"
     answer: "Yes. Even on cloudy days, outdoor light levels range from 1,000 to 2,000 lux, which is far brighter than typical indoor lighting (300 to 500 lux). You will still receive the biological benefits of circadian reset. However, if air quality is poor, substitute the outdoor walk by standing directly in front of a large window for 10 minutes."
+
 ---
 
 Paul Cezanne, praised by Picasso and Matisse as the father of us all, laid the foundation for 20th-century cubism and abstraction. His works capture the eternal geometric structures of nature. The source of his unique vision was his early morning routine. Waking at 6 AM, he carried his easel to walk the trails of Aix-en-Provence. As the sun rose over Mont Sainte-Victoire, he stood and meditated on the shifting angles of light and transmuting colors. We explore how exposing the visual cortex to dawn sunlight sharpens focus and enhances creative intuition.

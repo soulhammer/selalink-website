@@ -21,6 +21,7 @@ faqs:
     answer: "Com certeza. O objetivo não é adquirir técnicas complexas, mas obter estabilidade nervosa através da afinação e do som simples. Instrumentos fáceis como o ukulele ou a kalimba são excelentes para começar."
   - question: "É permitido usar aplicativos de afinação eletrônica?"
     answer: "Pode usar o aplicativo para se guiar, mas concentre-se em ouvir em vez de olhar para a tela. Olhe para a tela apenas de soslaio e concentre-se na vibração física e no som do instrumento para desconectar o modo cognitivo visual."
+
 ---
 
 Confúcio, o fundador do confucionismo e o filósofo mais influente que moldou o pensamento oriental. Durante seu árduo exílio de 14 anos, enfrentando ameaças enquanto viajava por vários estados, qual era o segredo para manter sua dignidade moral e paz espiritual? Confúcio sempre carregava um Guqin (instrumento de cordas), tocando-o e cantando poesia todos os dias. Para ele, a música não era entretenimento, mas um método nobre de autocultivo, afinando seu fluxo interno tal como afinava as cordas. Hoje, o BuildSelf apresenta os princípios da musicoterapia e a rotina moderna de 'afinação do Guqin' de Confúcio.

@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Mengapa Edison memegang bola baja di tangannya saat tidur siang?"
     answer: "Saat ia tertidur dan ototnya rileks, suara bola yang jatuh membangunkannya, memungkinkannya mencatat ide dari batas hipnagogis."
+
 ---
 
 Thomas Edison, raja penemuan yang mendaftarkan lebih dari 1.000 paten yang mengubah paradigma sejarah kehidupan manusia sehari-hari, termasuk lampu pijar, fonograf, dan kamera gambar bergerak. Tahukah Anda ritual tidur siang yang sangat terkenal dan unik yang ia gunakan ketika ia menghadapi tantangan intelektual tingkat tinggi atau jalan buntu ide? 💤

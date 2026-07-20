@@ -21,6 +21,7 @@ faqs:
     answer: "Es ist normal, dass das Gehirn arbeitet. Kämpfen Sie nicht gegen die Gedanken an; betrachten Sie sie wie vorbeiziehende Wolken und lenken Sie die Aufmerksamkeit wieder auf den Atem."
   - question: "Mutter Teresa tat dies eine Stunde lang. Sind 10 bis 15 Minuten immer noch effektiv?"
     answer: "Ja, Forschungen zeigen, dass bereits 10 Minuten Stille den Cortisolspiegel senken. Eine tägliche Routine von 10 Minuten ist für die emotionale Regulierung sehr effektiv."
+
 ---
 
 Mutter Teresa, die ihr Leben der Hilfe für die Armen widmete. Wie ertrug sie das Leid, um ihren inneren Frieden zu bewahren? 🕊️

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum bevorzugte Weil altgriechische Texte zur Rezitation?"
     answer: "Sie glaubte, fremde klassische Sprachen erforderten mehr bewusste kognitive Anstrengung. Dies verhinderte passive Gewöhnung und zwang das Gehirn zu 100 % Aufmerksamkeit."
+
 ---
 
 Simone Weil, die französische Philosophin, die ihr Leben der Wahrheit widmete. Sie glaubte, Aufmerksamkeit sei das edelste Werkzeug des Geistes. Um sie zu schulen, praktizierte sie eine Morgenroutine: Sie rezitierte das Vaterunser auf Altgriechisch oder Plato-Passagen. Diese Rezitation beschrieb sie als geistigen Hausputz. Entdecken Sie die neurokognitiven Vorteile des Vorlesens.

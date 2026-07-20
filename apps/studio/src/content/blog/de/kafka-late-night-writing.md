@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Stört spätes Arbeiten wie bei Kafka nicht den Schlafzyklus?"
     answer: "Ja, übermäßiges Wachbleiben kann der Gesundheit schaden. Der Kern dieser Routine is nicht die späte Nachtzeit selbst, sondern die Sicherung einer 'Stunde extremer Stille', in der äußere Störungen vollständig verschwinden. Dafür wird empfohlen, geräuschdämmende Geräte zu verwenden oder stattdessen die frühen Morgenstunden zu nutzen."
+
 ---
 
 Franz Kafka, der weithin als Pionier der existentialistischen Literatur gilt, zeichnete ein scharfes Bild der Angst und Entfremdung des modernen Menschen. Seine kreative Welt öffnete sich erst spät in der Nacht, wenn das Treiben des Tages völlig verstummt war. Tagsüber erfüllte Kafka seine gesellschaftliche Rolle als gewissenhafter Angestellter einer Arbeiter-Unfallversicherungsanstalt. Doch um 23 Uhr, wenn die Dunkelheit hereinbrach und der Lärm von Familie und Nachbarn verstummte, setzte er sich endlich an seinen Schreibtisch.

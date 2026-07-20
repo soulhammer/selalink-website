@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, es más efectivo practicar la escritura asociativa con tarjetas de palabras justo después de despertar, cuando el subconsciente está activo."
   - question: "¿Cómo puedo sustituir este hábito si no tengo tarjetas de palabras?"
     answer: "Puedes sustituirlo abriendo un libro al azar y eligiendo sustantivos, o usando un generador de palabras aleatorias en línea."
+
 ---
 
 El novelista estadounidense Ray Bradbury, padrino de la literatura moderna de ciencia ficción y maestro que predijo los límites de la civilización científica y tecnológica con su sensibilidad poética única, escribió obras maestras como Fahrenheit 451 utilizando una rutina narrativa de 10 asociaciones de palabras improvisadas cada mañana. Cada mañana, tan pronto como abría los ojos, se acercaba a su escritorio y escribía 10 palabras al azar (por ejemplo, arena, cenizas, campana, motor, nube, etc.) en una hoja de papel en blanco. Se quedó mirando cada palabra durante un minuto, luego obligó a que las palabras se combinaran en su cerebro, creando una asociación de historia corta, ultracorta cada día. Esta rutina fue la cuna de la creatividad que condujo a sus obras maestras de ciencia ficción.

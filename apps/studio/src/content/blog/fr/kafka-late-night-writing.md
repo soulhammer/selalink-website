@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Travailler tard comme Kafka ne risque-t-il pas de perturber le cycle du sommeil ?"
     answer: "Oui, veiller excessivement peut nuire à la santé. L'essentiel de cette routine n'est pas le créneau tardif, mais l'obtention d'une 'heure de silence absolu' sans interférence. Il est recommandé d'utiliser des dispositifs antibruit ou de privilégier le début de matinée."
+
 ---
 
 Franz Kafka, largement considéré comme un pionnier de la littérature existentialiste, a dépeint avec acuité l'anxiété et l'aliénation de l'homme moderne. Son monde créatif ne s'ouvrait que tard dans la nuit, lorsque l'agitation de la journée avait complètement cessé. Le jour, Kafka remplissait son rôle social d'administrateur diligent dans une compagnie d'assurance contre les accidents du travail. Cependant, à 23 heures, lorsque l'obscurité s'épaississait et que le bruit de sa famille et de ses voisins s'apaisait, il s'asseyait enfin à son bureau.

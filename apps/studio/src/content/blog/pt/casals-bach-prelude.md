@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Alguém que não toca nenhum instrumento puede se beneficiar da rotina matinal de Casals?"
     answer: "Sim, definitivamente. Embora tocar um instrumento proporcione ativação tátil e motora do córtex, la escuta ativa — concentrar-se inteiramente na experiência auditiva com os olhos fechados — sincroniza efetivamente as ondas alfa. A chave é o envolvimento ativo con las ondas acústicas, en vez de dej-las como ruído de fondo."
+
 ---
 
 Pablo Casals, a lenda espanhola do violoncelo que ressuscitou as Suites para Violoncelo de Bach. Até falecer aos 96 anos, ele manteve uma rotina matinal única por mais de 80 anos. Depois de uma leve caminhada matinal, ele se sentava ao piano para tocar dois prelúdios de Bach. Ele chamava isso de bênção, em vez de prática. Exploramos os efeitos cognitivos de este ritual musical matinal en la sincronización cerebral y la regulación emocional.

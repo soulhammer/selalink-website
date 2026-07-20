@@ -21,6 +21,7 @@ faqs:
     answer: "Sauf crise, la plupart des messages qui semblent urgents peuvent attendre 1 ou 2 heures. Aménagez-vous au moins 1 heure réservée au début."
   - question: "Que faire si la tâche principale est trop grande ?"
     answer: "Si elle est énorme, le cerveau ressent de la pression et l'évite. Divisez la tâche en actions d'une heure, et attaquez l'une d'elles d'abord."
+
 ---
 
 Andrew Carnegie, le magnat de l'acier qui a construit la base industrielle américaine. Il avait une charge de travail immense, mais il l'a gérée en se concentrant sur une tâche clé le matin.

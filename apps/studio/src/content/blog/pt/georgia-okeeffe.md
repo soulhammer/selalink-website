@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, respirar ar fresco pela manhã e concentrar-se no toque e textura de objetos naturais activa as áreas sensoriais e alivia o estresse."
   - question: "Como posso substituir se não tiver um jardim ou terra?"
     answer: "Basta caminhar em um parque e observar ou tocar com calma objetos com texturas naturais, como folhas, pétalas ou conchas."
+
 ---
 
 Georgia O'Keeffe, a madrinha da arte modernista americana e uma pintora que foi pioneira no estilo único de pintura de flores e ossos do deserto na história da arte ocidental do século 20, e fixou magnificamente as formas triviais da Mãe Natureza na tela usando a técnica focada de close-up. Ela ficou no meio do deserto árido e olhou durante horas para os ossos ásperos de animais despercebidos, os veios elaborados das flores murchas e a textura dos grãos de areia, ampliados 10x ou mais, como se através de uma lupa. Ela criou um impacto visual ao aproximar os menores detalhes de objetos em tamanho impressionante em toda a tela. Esse foco visual detalhado e rotina de renderização máxima foi o que a estabeleceu como uma mestra absoluta da arte moderna.

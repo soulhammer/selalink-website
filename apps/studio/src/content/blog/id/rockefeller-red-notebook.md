@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, menyalakan ponsel memicu distraksi digital (media sosial, pesan masuk) yang membuyarkan fokus. Menulis tangan melatih sensorik motorik di korteks, meningkatkan kesadaran kontrol diri hingga 2 kali lipat."
   - question: "Apakah saya benar-benar harus mencatat hal sekecil 1 sen atau 1 menit?"
     answer: "Tujuannya bukan nilai dari angka tersebut, melainkan melatih otak untuk peka terhadap kebiasaan diri. Terbiasa mencatat pengeluaran sekecil apa pun melatih kontrol prefrontal untuk menolak impulsif saat mengambil keputusan besar."
+
 ---
 
 John D. Rockefeller, pengusaha legendaris yang mendirikan Standard Oil dan mengumpulkan kekayaan pribadi terbesar dalam sejarah. Dari mana perencanaan disiplinnya berasal? 📕

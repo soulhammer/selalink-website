@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, le biographe John Aubrey, contemporain et proche de Hobbes, le décrit en détail dans ses notices biographiques 'Brief Lives', précisant qu'il avait fait équiper le pommeau de sa canne d'un encrier pour écrire sur le vif."
   - question: "Qu'est-ce qui est le plus efficace : mémo vocal ou écrit ?"
     answer: "En marchant, le mémo vocal est plus rapide et plus sûr car il évite de fixer l'écran. Taper un texte exige de la motricité fine et perturbe la marche, la voix est donc recommandée en déplacement."
+
 ---
 
 Thomas Hobbes, auteur du 'Léviathan', classique de la théorie du contrat social et traité majeur sur le pouvoir de l'État. Sa pensée, socle de la philosophie politique occidentale moderne, ne s'est pas forgée derrière un bureau, mais sur les chemins de campagne. Et il y disposait d'un compagnon unique. 🦯

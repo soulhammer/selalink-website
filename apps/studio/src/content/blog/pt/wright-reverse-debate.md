@@ -21,6 +21,7 @@ faqs:
     answer: "Sim. Escreva o seu plano em um papel e faça o papel de um crítico implacável ou da equipe de análise de um concorrente, elaborando um relatório de 'Advogado do Diabo'."
   - question: "Como debater de forma inversa com alguém sem prejudicar a relação?"
     answer: "Antes de começar, concorde claramente que se aplica a regra dos irmãos Wright. Deixe claro que se trata de um jogo de papéis oficial dentro das regras, evitando ataques pessoais."
+
 ---
 
 Wilbur e Orville Wright debatiam trocando seus papéis de opinião todas as noites. Esse hábito de debate reverso ajudou a quebrar o viés de confirmação.

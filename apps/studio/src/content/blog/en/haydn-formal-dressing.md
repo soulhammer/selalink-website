@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Did Haydn really wear formal clothes even when composing alone?"
     answer: "Yes, Haydn believed that loose attire led to loose musical ideas. He considered formal dress a necessary discipline to respect his art and keep his mind sharp."
+
 ---
 
 Joseph Haydn, the 'Father of the Symphony' who laid the foundation for classical style music. He composed over 100 symphonies in his lifetime. Interestingly, he had a unique habit: he always wore formal suits, a wig, and his favorite ring before sitting down to write music. Even though he worked alone in his study, he believed that creative order could only come from physical order. Let's look into the science of 'Enclothed Cognition' and how clothes shape our brain power.

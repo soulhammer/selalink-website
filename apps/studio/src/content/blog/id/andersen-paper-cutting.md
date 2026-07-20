@@ -21,6 +21,7 @@ faqs:
     answer: "Tentu saja. Memotong secara acak tanpa pola justru lebih efektif untuk menenangkan DMN. Otak tidak peduli jika hasil potongan aneh atau tidak rapi. Yang penting adalah gerakan fisik dan suara guntingan."
   - question: "Potongan kertas sisa guntingan akan mengotori meja, apakah merapikannya tidak mengganggu fokus?"
     answer: "Jika khawatir tentang sisa kertas, bekerjalah di atas nampan. Dengan mengumpulkan sisa kertas dalam satu gerakan di akhir, merapikannya hanya butuh 10 detik."
+
 ---
 
 Hans Christian Andersen, bapak dongeng yang membawa mimpi bagi anak-anak dan orang dewasa. Menderita kompleks penampilan, depresi, dan kecemasan sepanjang hidupnya, apa rahasia di balik imajinasi dongengnya? Saat mencari inspirasi, Andersen selalu mengeluarkan kertas dan gunting dari sakunya. Ia melipat dan memotong kertas sembari berbicara. Bagi dia, memotong bukanlah kerajinan anak-anak, melainkan alat untuk memulihkan emosi. Hari ini, BuildSelf memperkenalkan efek dari rutinitas ini.

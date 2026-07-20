@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Trabalhar na cama não transforma o quarto num espaço de stress, causando insónia?"
     answer: "Essa é uma distinção importante. Nunca realize tarefas stressantes na cama, como responder a reclamações, organizar folhas de cálculo ou planear o calendário. Restrinja as tarefas na cama estritamente à ideação criativa, à escrita do primeiro rascunho ou à reflexão. Manter o trabalho na cama puramente positivo e livre de stress evita que o valor associativo do sono na cama seja comprometido."
+
 ---
 
 Edith Wharton, a primeira mulher a ganhar o Prémio Pulitzer de Ficção pelo seu romance A Idade da Inocência, dissecou a vaidade e a hipocresia da alta sociedade com uma prosa afiada. No entanto, a sua rotina diária de escrita era incrivelmente acolhedora. Ao acordar cedo, recusava-se a sair da cama antes das 11 horas. Apoiada em almofadas, com os seus cães pequinês deitados sobre os cobertores, escrevia numa tábua de madeira equilibrada ao colo. Este relaxamento físico profundo minimizou a ansiedade de escrita e gerou um fluxo altamente ativo de imaginação criativa. Exploramos a neurobiologia da forma como o relaxamento somático muda o sistema nervoso autónomo.

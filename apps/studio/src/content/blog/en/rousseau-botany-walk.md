@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Rousseau write notes on the back of playing cards?"
     answer: "He did not carry heavy notebooks while hiking. The stiff, small playing cards were perfect to write on while standing or walking, and easily fit inside his coat pockets."
+
 ---
 
 Jean-Jacques Rousseau, the pioneering French philosopher and writer whose ideas laid the political foundation for the French Revolution. In his later years, facing persecution and severe anxiety, he found solace in a unique combination of botany and walking. Every afternoon, he walked to collect wild plants and recorded thoughts on the back of playing cards he kept in his pocket. These card notes became his final masterpiece, *Reveries of a Solitary Walker*. Let's study how this foraging attention routine restores our mind.

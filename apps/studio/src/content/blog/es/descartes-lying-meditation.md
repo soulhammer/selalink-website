@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Es la meditación matutina en la cama realmente eficaz para el cerebro?"
     answer: "Sí, la postura horizontal al despertar induce las ondas cerebrales al estado alfa, estabilizando el sistema nervioso autónomo y mejorando la creatividad."
+
 ---
 
 René Descartes, el padre de la filosofía moderna que estableció el punto de partida de la filosofía moderna con la proposición "Pienso, luego existo" y fundó la geometría analítica. ¿Sabía que este gigante del intelecto mantenía una rutina muy acogedora pero única cada mañana? 🛏️

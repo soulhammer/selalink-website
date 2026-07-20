@@ -21,6 +21,7 @@ faqs:
     answer: "Debatten erhöhen Adrenalin und Cortisol. Stellen Sie vorher eine Grundregel auf: 'Lassen Sie uns heute lieber auf persönliches Wachstum, Gefühle oder Bücher konzentrieren als auf Nachrichten.'"
   - question: "Was ist, wenn wöchentliche Treffen mit Freunden zu schwierig zu organisieren sind?"
     answer: "Sie müssen sich nicht wöchentliche treffen. Ein monatliches persönliches Abendessen oder ein zweiwöchentliches, ruhiges 30-minütiges Telefonat zum Austausch von Neuigkeiten reicht aus, um Oxytocin zu stimulieren."
+
 ---
 
 Epikur, oft als Hedonist missverstanden, strebte durch ein diszipliniertes Leben nach innerer Ruhe oder 'Ataraxie'. Er entfloh dem politischen Chaos Athens und baute 'Den Garten' am Stadtrand. Hier teilte er, ungeachtet des sozialen Status und des Geschlechts, einfache Mahlzeiten aus Brot, Wasser und Käse mit Freunden und führte intellektuelle Dialoge. Er argumentierte, dass materielle Gier Durst auslöst, während tiefes Vertrauen und Freundschaft die Seele heilen.

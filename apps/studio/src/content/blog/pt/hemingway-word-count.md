@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Porque é que Hemingway registrava a sua contagem de palavras diariamente?"
     answer: "Para visualizar o progresso da escrita, evitando bloqueios e forçando um fluxo regular de produtividade criativa."
+
 ---
 
 Ernest Hemingway, um mestre da literatura americana moderna que ganhou o Prémio Nobel e o Prémio Pulitzer. Conhecido pelo seu estilo de escrita minimalista, a sua disciplina diária era igualmente lendária. Começava a escrever de manhã cedo e, no final de cada sessão, contava e registava a sua contagem de palavras diária num gráfico na parede. Hoje, o BuildSelf explora as razões científicas por trás do rastreamento de progresso e como aplicar o automonitoramento.

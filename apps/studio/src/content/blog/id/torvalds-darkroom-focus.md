@@ -21,6 +21,7 @@ faqs:
     answer: "Kontras berlebih di kegelapan total menyebabkan mata lelah. Oleh karena itu, turunkan tingkat kecerahan monitor agar sesuai dengan lingkungan sekitar, atau pasang lampu latar (backlight LED tidak langsung) di belakang layar untuk mencegah ketegangan mata."
   - question: "Bagaimana jika saya tidak memiliki ruang cuci atau ruang terisolasi di rumah?"
     answer: "Tidak harus berupa ruang terisolasi khusus. Cukup tutup pintu ruangan biasa, duduk membelakangi dinding untuk menjaga bidang pandang tetap tenang, atau pasang sekat fisik untuk menghalangi apa pun selain monitor masuk ke dalam bidang pandang 1,5 meter Anda."
+
 ---
 
 Linus Torvalds memprogram Linux di ruangan yang gelap dan tenang tanpa dekorasi. Lingkungan minim stimulus ini memungkinkannya mencurahkan seluruh energi.

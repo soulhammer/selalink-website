@@ -21,6 +21,7 @@ faqs:
     answer: "Beim Entsperren des Handys lenken Benachrichtigungen oder Mails oft sofort ab, wodurch der Gedanke verloren geht. Das Notizbuch ist sofort einsatzbereit und das handschriftliche Schreiben aktiviert das RAS zuverlässiger."
   - question: "Gibt es Beispiele für kleine Notizen, die zu großen Projekten wurden?"
     answer: "Ja, die Gründung von Virgin Atlantic begann mit einer Notiz. Als sein Flug nach Puerto Rico ausfiel, schrieb Branson: „Eigene Airline starten?“ in sein Buch, charterte spontan eine Maschine und verkaufte die Plätze an andere gestrandete Passagiere."
+
 ---
 
 Richard Branson, der Milliardär und Gründer der Virgin Group, der über 400 Unternehmen in den Bereichen Luftfahrt, Finanzen und Unterhaltung aufbaute. Bekannt für seine unkonventionellen Marketingideen, hat er ein Markenzeichen: Ein kleines Notizbuch aus Papier in seiner Gesäßtasche.

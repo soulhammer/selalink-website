@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does consuming caffeine late at night disturb sleep?"
     answer: "Yes, it can reduce sleep quality. Waking at midnight daily like Balzac is unsuitable for modern professionals. If sensitive, use decaf or mint tea, and place the deep-work block early in the morning or immediately after work."
+
 ---
 
 Honoré de Balzac, the absolute giant of 19th-century French realist literature, laid the foundation of the modern novel with his massive series 'The Human Comedy.' The driving force behind this creative work was his extreme 'hyperfocus' routine of waking at midnight and writing for 12 hours. Waking at midnight when the world was silent, Balzac put on a white monk's robe and lit only two candles, erasing all external distractions. He wrote for 12-15 hours until noon the next day, using strong black coffee to keep his brain alert. Today, BuildSelf shares the neuroscientific principles behind Balzac's extreme focus and how modern professionals can utilize quiet deep-work blocks.

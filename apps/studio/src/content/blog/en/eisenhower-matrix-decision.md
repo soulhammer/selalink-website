@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if my workplace demands that everything be urgent? How can I protect Quadrant 2?"
     answer: "When everything feels urgent, it usually means other people's deadlines are overriding your own priorities. Establish a non-negotiable 30-minute block at the start of your day for Q2 work, keeping email and chat apps closed. This small boundary prevents reactive firefighting and reduces future emergencies."
+
 ---
 
 Dwight D. Eisenhower, Allied Supreme Commander in WWII and the 34th US President, faced some of the most complex decisions in history daily. Amid massive military operations, diplomacy, and governance, he practiced a simple yet powerful morning habit: drawing a cross on a paper to divide tasks into four quadrants. He constantly asked, 'Is this important, or is it just urgent?' We explore the psychological principles of the Eisenhower Matrix that free the brain from the trap of urgency.

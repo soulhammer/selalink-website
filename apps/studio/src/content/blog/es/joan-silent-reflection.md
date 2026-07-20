@@ -21,6 +21,7 @@ faqs:
     answer: "No. El núcleo de la rutina de Juana de Arco es calmar el cerebro justo después de despertar, antes de recibir información del teléfono. Dedicar solo 10 minutos al despertar a su hora habitual ofrece el mismo efecto."
   - question: "No tengo religión, ¿funcionará la oración en silencio?"
     answer: "Totalmente. Esta rutina se enfoca en el 'bloqueo cognitivo' y la 'confirmación del valor propio' desde la neurociencia, no en ritos. Aunque no sea para un dios, recordar sus valores o convicciones activa el mismo efecto de calma."
+
 ---
 
 Juana de Arco, la heroína legendaria que salvó a Francia durante la Guerra de los Cien Años. ¿Dónde residía la fuente de fuerza que permitió a una campesina analfabeta superar el miedo a la muerte y mantener una fe inquebrantable ante la hostilidad de los nobles y los tribunales? Buscaba espacios silenciosos para orar cada mañana. Esta rutina de bloquear el ruido para concentrarse en su interior le otorgó un equilibrio mental de hierro. Hoy, BuildSelf presenta los beneficios de esta rutina y cómo aplicarla.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué cambiar de tema cada tres años?"
     answer: "Porque un ciclo de tres años es apropiado para dominar un solo tema y estimular de manera óptima la neuroplasticidad cerebral, lo que permite un pensamiento convergente a través de diversas disciplinas."
+
 ---
 
 Peter Drucker, el erudito que sentó las bases de la gestión moderna y presentó el horizonte de los negocios. ¿Cómo mantuvo una mente clara y una visión aguda como un hombre joven hasta los 90 años? El secreto residía en su rutina intelectual única, el ciclo de estudio de tres años.

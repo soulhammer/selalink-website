@@ -21,6 +21,7 @@ faqs:
     answer: "Verurteilen Sie sich nicht selbst. Im Stoizismus ist Selbstvorwurf kontraproduktiv. Schreiben Sie stattdessen einen Satz auf dem Handy. Die Beständigkeit der Haltung ist entscheidend."
   - question: "Wie unterscheidet sich dies von einem Dankbarkeitsjournal?"
     answer: "Während sich Dankbarkeitsjournale auf Positives konzentrieren, antizipiert die stoische Reflexion bewusst negative Ereignisse (Premeditatio Malorum), um Reaktionen darauf zu steuern. Es ist ein Werkzeug zur Vorbereitung."
+
 ---
 
 "Wenn du am Morgen nicht gerne aufstehst, so denke: Ich erwache, um als Mensch zu wirken." Marcus Aurelius, der Philosophenkaiser Roms, schrieb diese Worte auf Feldzügen an sich selbst. In der Stille seines Zeltes vor Sonnenaufgang führte er Journal, um inmitten von Krisen und Kriegen einen ruhigen Geist zu bewahren.

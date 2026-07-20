@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué pasa si no hay un niño real cerca para explicarle?"
     answer: "Puede explicarle a un compañero, a un juguete en su escritorio o a un chatbot. La clave es pasar por el 'proceso de filtrado' de revisar sus palabras para excluir tecnicismos y usar vocabulario que un niño pueda entender."
+
 ---
 
 Richard Feynman, un gigante de la física moderna que ganó el Premio Nobel por su trabajo en electrodinámica cuántica. Era un educador excepcional que explicaba investigaciones complejas de manera sencilla. El secreto residía en su hábito de 'enseñar' en su cuaderno. Al aprender algo nuevo, abría una libreta y asumía que un niño de 10 años estaba enfrente. Escribía el concepto con términos sencillos. Si se trababa, sabía que había un vacío en su comprensión y volvía al material original. Hoy, BuildSelf comparte la verdad neurocientífica detrás del método de Feynman.

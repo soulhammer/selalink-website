@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Is it okay to use digital tools if it is difficult to hand-draw storyboards every time?"
     answer: "The essence of storyboards is not drawing skill, but structural step-planning and simulation of behavior. Utilizing Figma, Miro, or simple mind map apps to organize with box shapes and text is completely sufficient to gain the same cognitive psychology benefits."
+
 ---
 
 Alfred Hitchcock, the world-famous British maestro who redefined the grammar of thriller movies by directing immortal suspense films such as 'Psycho', 'Vertigo', and 'Rear Window'. Where did his amazing control, commanding the filming set with absolute confidence and without a single doubt, come from? 🎬

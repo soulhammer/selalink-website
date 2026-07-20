@@ -21,6 +21,7 @@ faqs:
     answer: "Mengubah ruangan fisik sangat efektif. Jika terpaksa di satu ruangan, ubah posisi duduk atau warna papan tulis untuk memberi batasan kognitif pada otak."
   - question: "Bagaimana jika kritik terlalu tajam hingga membatalkan ide awal?"
     answer: "Kritikus harus bertujuan memperbaiki rancangan, bukan membatalkan ide. Fokus pada cara mengatasi risiko agar ide tersebut dapat dijalankan."
+
 ---
 
 Walt Disney membangun kerajaan animasi dengan membagikan mimpi kepada anak-anak dan orang dewasa. Kreativitasnya adalah hasil dari sistem berpikir unik yang menyempurnakan imajinasi menjadi kenyataan.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Cuál es el principio científico por el que la observación de la naturaleza alivia el estrés?"
     answer: "En lugar de la 'atención dirigida' de las pantallas, los elementos naturales activan una 'fascinación suave', reiniciando la energía cognitiva de la corteza prefrontal."
+
 ---
 
 Shin Saimdang, la destacada artista de Joseon y madre de Yulgok Yi I, dejó pinturas de insectos y flores (Chochungdo) elogiadas por sus líneas delicadas. Su secreto para la profundidad creativa era su hábito diario de observar la hierba y los insectos. 🌿

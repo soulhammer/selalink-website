@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Ayuda esta rutina si mi trabajo no es escribir (como diseño o programación)?"
     answer: "Sí, es de gran ayuda. Aunque el trabajo final sea diferente, la parálisis por perfeccionismo se origina en la misma región cerebral (la amígdala). Hacer bocetos libres o escribir notas cortas antes de programar genera un amortiguador cognitivo, facilitando el inicio de la tarea."
+
 ---
 
 John Steinbeck, el premio Nobel de Literatura autor de Las uvas de la ira. Incluso siendo un escritor consagrado, sentía el bloqueo de la página en blanco cada mañana. Para superar esta parálisis, ideó un ritual de calentamiento: antes de comenzar la novela, escribía una carta a su amigo y editor Pascal Covici sobre el clima, su fatiga o sus dolencias. Analicemos cómo la escritura informal y sin presiones apaga la alarma de la amígdala.

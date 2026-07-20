@@ -21,6 +21,7 @@ faqs:
     answer: "Sí. Las herramientas digitales son excelentes para buscar y vincular. La clave es evitar la fragmentación de archivos y, en su lugar, mantener una única base de datos unificada con etiquetas de fecha y categoría."
   - question: "¿Reunir todo en un solo lugar no hará que todo sea un desastre?"
     answer: "La acumulación precede al orden. Tener las ideas juntas permite que el cerebro las fertilice de forma cruzada. No se preocupe por el orden a diario; dedique un breve espacio semanal para etiquetar y limpiar las entradas."
+
 ---
 
 Gottfried Wilhelm Leibniz, el filósofo alemán, creador del cálculo y fundador del código binario, poseía algunos de los conocimientos enciclopédicos más vastos de la historia. Su monumental mapa del aprendizaje se construyó sobre un minucioso hábito de tomar notas. Leibniz mantuvo un solo libro de lugares comunes con él durante toda su vida. Las citas de lecturas, las ideas conversacionales y las fórmulas matemáticas derivadas en carruajes se registraban en un solo lugar bajo su propio sistema de índices. Exploramos el mecanismo de su cuaderno.

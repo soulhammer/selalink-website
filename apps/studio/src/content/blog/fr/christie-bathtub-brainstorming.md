@@ -21,6 +21,7 @@ faqs:
     answer: "Le bain chaud détend les muscles et régule le cœur. Le fait de croquer des pommes et de respirer leur parfum stimule la mâchoire et l'olfaction, induisant un état d'éveil calme propice aux énigmes."
   - question: "Quelles méthodes de relaxation puis-je utiliser sans baignoire ?"
     answer: "Vous pouvez faire un bain de pieds chaud ou boire un thé chaud pour augmenter doucement la température du corps. La relaxation stimule le réseau du mode par défaut."
+
 ---
 
 Agatha Christie, créatrice d'Hercule Poirot et de Miss Marple, romancière la plus vendue de l'histoire. Comment naissaient ses intrigues complexes ? Plutôt que de s'enfermer dans un bureau, Christie pensait que son esprit fonctionnait mieux dans un bain chaud. Aujourd'hui, BuildSelf explore les bases de cette routine.

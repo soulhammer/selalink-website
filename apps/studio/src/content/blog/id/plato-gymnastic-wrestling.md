@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, tidak perlu mengangkat beban berat. Anda dapat menurunkan intensitas olahraga dengan push-up di dinding, slow squat, atau plank. Kunci utama aliran darah otak adalah napas yang terengah-engah dan berkeringat tipis."
   - question: "Bisakah saya mengganti latihan ketahanan dengan kardio seperti joging atau lari?"
     answer: "Meskipun joging melancarkan aliran darah, latihan ketahanan singkat intensitas tinggi lebih cepat memicu pelepasan BDNF dan kesadaran kognitif. Jika memilih kardio, lakukan lari sprint interval untuk memicu napas cepat."
+
 ---
 
 Plato, raksasa intelektual yang meletakkan dasar filsafat Barat dan mendirikan 'Academeia.' Dari mana kekuatan berpikir dan stamina mentalnya berasal? 🤼

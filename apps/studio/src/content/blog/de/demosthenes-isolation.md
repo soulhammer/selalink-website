@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Warum rasierte sich Demosthenes die Hälfte seines Kopfes?"
     answer: "Durch sein lächerliches Aussehen hinderte er sich selbst daran, nach draußen zu gehen, um sich auf das Redetraining zu konzentrieren."
+
 ---
 
 Ein Mann, der ein angeborenes Stottern, einen schwachen Körperbau und die Kurzatmigkeit, die ihn an langen Reden hinderte, überwand, um der größte Staatsmann des antiken Athen und der berühmteste Redner der griechischen Geschichte zu werden. Dieser Mann war Demosthenes. 🏛️

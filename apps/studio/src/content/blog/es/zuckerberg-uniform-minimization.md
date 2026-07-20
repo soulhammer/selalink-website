@@ -21,6 +21,7 @@ faqs:
     answer: "Zuckerberg también usa trajes para eventos oficiales o reuniones de junta. El núcleo de un uniforme es eliminar elecciones triviales, por lo que preseleccionar una combinación de traje formal evita la fatiga por decisión."
   - question: "¿Puedo armar un uniforme con ropa que no sea camisetas y jeans?"
     answer: "Por supuesto. Seleccionar una combinación simple y cómoda de camisas, pantalones o vestidos con los que te sientas cómodo y abastecerse de varios juegos idénticos es suficiente."
+
 ---
 
 Mark Zuckerberg, creador de Facebook. Frente a miles de decisiones críticas que afectan a Meta, desarrolló una estrategia famosa: no decidir su ropa diaria. Su vestidor contiene múltiples camisetas idénticas de color gris. Analicemos cómo el cerebro consume glucosa con cada elección ejecutiva diaria, lo que lleva a la fatiga decisional y cómo el uniforme previene la 'depleción del ego'.

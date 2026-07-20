@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿El deslizarse a través de videos de formato corto como Reels o TikTok produce un reinicio cognitivo similar?"
     answer: "No, tiene el efecto contrario. Los videos de formato corto bombardean el cerebro con información novedosa y choques visuales cada pocos segundos. Esto sobreestimula las vías de la dopamina y obliga al cerebro a contextualizar constantemente nuevos fragmentos, aumentando la inquietud mental. La rutina de Wittgenstein se centra en un flujo de formato largo, ritmo lento y simplista que suspende el procesamiento cognitivo. Los medios de formato corto rápidos agotan el cerebro en lugar de descansarlo."
+
 ---
 
 Ludwig Wittgenstein, el genial filósofo de principios del siglo XX que sacudió al mundo académico con su Tractatus Logico-Philosophicus. Al llevar al límite el pensamiento lógico, se enfrentó a un agotamiento cognitivo extremo. Para superar este sobrecalentamiento mental, Wittgenstein mantuvo un ritual diario al atardecer. Corría al cine, se sentaba en la primera fila y miraba fijamente películas del oeste. Exploramos cómo esta estimulación visual simple pero intensa purifica y reinicia una corteza prefrontal agotada.

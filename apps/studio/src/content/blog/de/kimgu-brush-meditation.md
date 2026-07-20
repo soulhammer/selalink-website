@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Welches wissenschaftliche Prinzip steckt hinter der stresslindernden Wirkung von Kalligraphie?"
     answer: "Die Kontrolle der Feinbewegungen der Pinselspitze konzentriert die Aktivierung der somatosensorischen Rinde und blockiert Angstsignale der Amygdala."
+
 ---
 
 Kim Gu, der als Führer der Provisorischen Regierung der Republik Korea fungierte, lebte unter ständiger Bedrohung durch Verhaftungen und Attentatsängste. Inmitten dieses großen Stresses pflegte er eine spirituelle Praxis: Kalligraphie. 🖌

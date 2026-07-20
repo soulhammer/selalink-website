@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Kann man auch qualitative kreative Arbeit mit quantitativen Metriken wie Wortzahl oder Stunden erfassen?"
     answer: "Bei kreativen Planungen können Sie das Feedback anstelle einer Wortzählung effektiv anwenden, indem Sie Ihre eigenen wertvollen Output-Einheiten definieren, wie z. B. 'Anzahl der abgeleiteten Schlüsselideen', 'Anzahl der gesammelten Referenzen' oder 'Anzahl der erstellten detaillierten Gliederungsschritte'."
+
 ---
 
 B. F. Skinner, der geniale amerikanische Psychologe, der das Paradigma des Behaviorismus begründete. Wie verwaltete ein Wissenschaftler, der Mechanismen zur Verhaltensänderung anderer untersuchte, seine eigene kreative Produktivität? 📈

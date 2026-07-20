@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, absolutely. Just filling potting soil in a small pot on a veranda or living room and planting a small herb or air-purifying plant yields the same tactile stimulation and Mycobacterium bacteria contact effect. The core is the physical connection with the soil, not the size of the plant."
   - question: "Are there hygiene issues like bacterial infection when touching with bare hands?"
     answer: "Commercially available potting soil is often sterilized, making it much safer than wild soil. In fact, beneficial bacteria in the soil rather help build immunity. If concerned about hygiene, wearing thin gardening gloves still allows enough analog touch. Washing hands cleanly with soap under running water after work resolves any hygiene issues."
+
 ---
 
 Audrey Hepburn, the eternal fashion icon of Hollywood who worked for suffering children worldwide as a devoted UNICEF ambassador in her later years. What was the source of strength that calmed her inner wounds and maintained her elegance through extreme media exposure, appearance evaluations, and cancer? She dedicated herself to touching the dirt and cultivating flowers and fruits every afternoon in her country home garden in Tolochenaz, Switzerland. Today, BuildSelf introduces the cognitive restoration principles and modern emotional healing routine of Audrey Hepburn's 'gardening'.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What is the scientific principle behind calligraphy helping relieve stress?"
     answer: "Control of fine movements of the brush tip concentrates activation of the somatosensory cortex, blocking anxiety-activating signals from the amygdala."
+
 ---
 
 Kim Gu, who served as the leader of the Provisional Government of the Republic of Korea, lived under constant threats of arrest, fears of assassination, and a heavy sense of responsibility. Amid this high stress, he maintained a spiritual practice: calligraphy. 🖌

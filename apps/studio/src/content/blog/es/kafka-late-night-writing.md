@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿No alterará el ciclo del sueño trabajar hasta tarde como Kafka?"
     answer: "Sí, trasnochar en exceso puede dañar la salud. La clave de esta rutina no es la noche en sí, sino asegurar 'una hora de silencio extremo' donde las interferencias desaparezcan. Se recomienda utilizar dispositivos de aislamiento acústico o aprovechar las primeras horas de la mañana."
+
 ---
 
 Franz Kafka, considerado pionero de la literatura existencialista, retrató con agudeza la ansiedad y la alienación del ser humano moderno. Su mundo creativo sólo se abría a altas horas de la noche, cuando el bullicio del día había cesado por completo. Durante el día, Kafka cumplía con su rol social como funcionario en un instituto de seguros de accidentes de trabajo. Sin embargo, a las 11 PM, cuando la oscuridad se intensificaba y los ruidos de su familia y vecinos se apagaban, por fin se sentaba en su escritorio.

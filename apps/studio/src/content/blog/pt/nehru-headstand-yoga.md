@@ -21,6 +21,7 @@ faqs:
     answer: "Não. Quem tem problemas no pescoço deve evitar apoiar o peso do corpo sobre a cabeça. Em vez disso, deite-se de costas e eleve as pernas contra a parede com uma almofada sob o quadril."
   - question: "Qual é o melhor momento do dia para plantar bananeira?"
     answer: "O melhor momento é pela manhã antes do desjejum ou logo antes de começar a trabalhar. Plantar bananeira oxigena o cérebro e ajuda a acordar. Evite fazer após comer; espere pelo menos 2 horas."
+
 ---
 
 Jawaharlal Nehru lutou pela independência indiana. Passou 9 anos na prisão. 🧘

@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, historical accounts confirm that Napoleon could fall asleep almost instantly even amidst the roar of cannons, and wake up exactly 15 minutes later fully refreshed to issue tactical commands."
   - question: "What is the optimal time of day to take a micro-nap?"
     answer: "The ideal window is between 1:00 PM and 3:00 PM, aligning with the natural circadian dip in alertness. Avoid napping after 4:00 PM to prevent interference with nighttime sleep."
+
 ---
 
 Napoleon Bonaparte, the legendary military strategist and Emperor of France. Renowned for his endless energy, he managed state affairs and battles on just 4 hours of night sleep. His secret lay in 'micro-naps'—taking 10 to 15 minutes of sleep whenever he had a spare moment, even during battle. Today, BuildSelf reveals how short strategic naps can rapidly reset your cognitive performance.

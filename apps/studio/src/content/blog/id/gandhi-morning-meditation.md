@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Aktivitas meditasi taktil modern apa saja yang bisa menggantikan memintal?"
     answer: "Aktivitas ritmis apa pun yang memerlukan gerakan halus jari sangatlah baik. Contohnya termasuk menulis dengan pena bulu, merajut, menyeduh teh secara perlahan, merakit Lego atau teka-teki, atau mengetuk jari, yang secara neurosains memiliki efek stimulasi serotonin yang sama."
+
 ---
 
 Mahatma Gandhi, bapak negara India yang memimpin kemerdekaan India melalui gerakan pembangkangan sipil tanpa kekerasan dan meninggalkan warisan perdamaian yang mendalam. Dari mana datangnya kesabaran luar biasa dan kedamaian batin yang tak tergoyahkan dari pejuang perdamaian ini? Jawabannya terletak pada ritual pagi hari yang dia patuhi secara ketat sepanjang hidupnya.

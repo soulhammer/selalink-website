@@ -21,6 +21,7 @@ faqs:
     answer: "Nietzsche ging hauptschlich nach dem Frhstck bis zum Mittagessen und am spten Nachmittag spazieren. Er bevorzugte Bergpfade und Wlder, um Inspiration zu finden."
   - question: "Muss ich drauen gehen, um dies zu praktizieren?"
     answer: "Obwohl Gehen an der frischen Luft ideal ist, kann das Auf- und Abgehen auf einem Flur oder im Bro einen leichten kognitiver Wechsel bewirken und den Fokus strken."
+
 ---
 
 Friedrich Nietzsche, der berühmte Philosoph, der erklärte: „Alle wirklich großen Gedanken werden im Gehen empfangen.“ Trotz chronischer Gesundheitsprobleme verbrachte er seine Sommer in Sils Maria in der Schweiz, wo er täglich bis zu acht Stunden wanderte. Mit einem Notizbuch in der Hand hielt er seine Einfälle sofort fest. Heute zeigt BuildSelf, wie körperliche Aktivität tiefe Kreativität freisetzt.

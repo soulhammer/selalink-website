@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Hay alguna razón para usar cuadernos analógicos en la era digital?"
     answer: "Sí. Escribir a mano activa más la corteza cerebral que el teclado y estimula el hipocampo. Además, permite diagramar ideas libremente mediante esquemas o símbolos sin las restricciones de la escritura digital."
+
 ---
 
 Isaac Newton, el mayor científico de la historia que descubrió la gravedad, estableció el cálculo y sentó las bases de la física moderna. ¿Cómo pudo organizarse en la cabeza de una persona un sistema de conocimientos tan vasto y complejo? La clave residía en el minucioso 'hábito de escribir' que mantuvo desde su juventud.

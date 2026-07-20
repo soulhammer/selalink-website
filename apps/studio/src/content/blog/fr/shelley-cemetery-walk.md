@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Mary Shelley choisissait-elle la tombe de sa mère ?"
     answer: "Sa mère est morte après sa naissance. Sa tombe était son seul lien physique. Y aller lui permettait de méditer sur la vie, la mort et l'identité, thèmes d'Ulysse."
+
 ---
 
 Mary Shelley, la romancière anglaise qui a inventé la science-fiction avec *Frankenstein*. Depuis l'enfance, Mary lisait et méditait dans le cimetière où reposait sa mère. Pour elle, ces lieux historiques étaient des sanctuaires paisibles pour penser à la vie et la mort. Découvrez comment la solennité libère la créativité.

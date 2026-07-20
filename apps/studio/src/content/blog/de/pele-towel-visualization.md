@@ -21,6 +21,7 @@ faqs:
     answer: "Für das motorische Lernen im Gehirn ist die Ich-Perspektive deutlich wirksamer. Sie simuliert die reale Situation am besten. Die Außenperspektive kann helfen, um die gesamte Kulisse zu erfassen, ersetzt aber nicht das Bewegungstraining im Kopf."
   - question: "Was tun, wenn sich bei der Visualisierung Fehler einschleichen?"
     answer: "Das ist ein natürlicher Schutzmechanismus des Gehirns. Wenn Sie sich einen Fehler vorstellen, spulen Sie die Szene gedanklich zurück und starten Sie neu. Stellen Sie sich vor, wie Sie den Fehler korrigieren und erfolgreich abschließen."
+
 ---
 
 Pelé, die brasilianische Legende und der Inbegriff des Fußballs. Als Teenager auf der Weltbühne trug er die Hoffnungen einer ganzen Nation auf seinen Schultern. Doch er spielte stets mit einer unbändigen Freude und Leichtigkeit. Sein Geheimnis lag in der mentalen Vorbereitung.

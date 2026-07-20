@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, Einstein regularly went sailing on the sea to feel the wind and meditate, or slept for over 10 hours a day to allow his subconscious to organize complex problems."
   - question: "Can someone who doesn't know how to play any instrument follow this routine?"
     answer: "Absolutely. Instead of playing an instrument, you can focus on classical music, do finger tapping to the rhythm, or simply practice deep breathing while blocking all external visual inputs for 5 minutes."
+
 ---
 
 Albert Einstein, the greatest physicist in history who changed the paradigm of modern physics by publishing the theory of relativity and revolutionized the way mankind understands the universe. Where did the great physical inspirations that changed the paradigm of mankind come from? 🎻

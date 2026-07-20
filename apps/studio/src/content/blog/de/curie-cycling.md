@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Warum wünschten sich die Curies Fahrräder zur Hochzeit?"
     answer: "Anstelle einer wissenschaftlichen Hochzeit wollten sie ein praktisches Werkzeug, um die französische Landschaft zu bereisen und in Ruhe zu forschen."
+
 ---
 
 Marie Curie, die erste Nobelpreisträgerin der Geschichte und die legendäre Wissenschaftlerin, die bis heute die einzige Person ist, die Nobelpreise in zwei unterschiedlichen Naturwissenschaften – Physik und Chemie – erhielt.

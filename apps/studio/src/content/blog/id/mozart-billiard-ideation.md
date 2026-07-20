@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah game ponsel biasa memberikan efek transisi yang sama?"
     answer: "Game seluler dengan teks, media sosial, atau stimulasi berat membuat area lain dari korteks prefrontal tetap tegang, menambah beban kognitif. Untuk mencapai efek DMN, permainan simulasi fisika jauh lebih efektif."
+
 ---
 
 Wolfgang Amadeus Mozart, seorang jenius musik klasik yang menulis simfoni sempurna sekaligus tanpa mengedit. Di balik kreativitasnya yang ajaib, ada rutinitas unik: bermain biliar setiap kali lelah saat menggubah lagu. Ia menempatkan meja biliar mahal di rumahnya, tepat di sebelah ruang kerjanya. Istrinya bersaksi bahwa Mozart akan duduk fokus di mejanya, lalu tiba-tiba bangkit, pergi ke sebelah, memukul beberapa bola, & kembali menulis melodi. Menatap lintasan bola bukan sekadar hiburan, melainkan perlindungan kognitif yang memicu otak ke mode bawah sadar.

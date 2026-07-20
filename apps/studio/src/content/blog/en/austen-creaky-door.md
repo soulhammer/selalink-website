@@ -21,6 +21,7 @@ faqs:
     answer: "In 19th-century England, it was very rare for female writers to have a private study. Writing in a shared family room, Austen used the creaky door to detect visitors and hide her manuscripts in time."
   - question: "How can I apply this creaky door rule in a modern digital environment?"
     answer: "You can block incoming notifications by setting chat statuses to 'Do Not Disturb' or 'Busy,' and configure tools to batch notifications at set intervals to control unexpected cognitive interruptions."
+
 ---
 
 Jane Austen, the legendary English novelist who created masterpieces like 'Pride and Prejudice.' Working in a shared family room, she had to defend her fragile focus from constant interruptions. Instead of fixing her squeaky door, she left it broken to serve as a natural alert system. Today, BuildSelf reveals how establishing sensory focus boundaries can shield your deep work.

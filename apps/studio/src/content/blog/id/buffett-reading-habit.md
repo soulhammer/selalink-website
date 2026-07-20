@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana saya bisa membaca 500 halaman setiap hari seperti Warren Buffett?"
     answer: "Membaca 500 halaman sejak awal itu mustahil. Langkah pertama adalah meningkatkan target secara bertahap dari 20 menjadi 30 halaman sehari, membangun lingkungan fisik bebas ponsel untuk fokus sepenuhnya pada teks, dan memulai rutinitas tersebut."
+
 ---
 
 Warren Buffett, ketua Berkshire Hathaway dan dianggap sebagai investor paling sukses dalam sejarah, masih menghabiskan 80% waktunya sehari untuk membaca dan menganalisis laporan. 📚

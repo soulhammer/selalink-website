@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah jalan kaki menawarkan efek aktivasi DMN yang sama seperti pekerjaan rumah tangga?"
     answer: "Ya, jalan kaki adalah fasilitator kreatif yang kuat. Namun, jalan kaki di luar ruangan memerlukan navigasi medan dan pemrosesan lingkungan. Pekerjaan rumah tangga seperti menyetrika terjadi di ruang terkontrol, bergantung pada memori motorik otomatis. Ini meminimalkan intervensi prefrontal lebih jauh daripada jalan kaki."
+
 ---
 
 George Balanchine, koreografer legendaris yang merevolusi balet abad ke-20. Dihadapkan pada tekanan menghasilkan gerakan geometris dan inovatif, dia juga menghadapi kemacetan mental. Namun, Balanchine tidak memaksa diri duduk berpikir. Sebaliknya, dia menyetrika kemeja atau mengepel lantai. Kami menganalisis bagaimana pekerjaan rumah tangga ini membantu kreativitas.

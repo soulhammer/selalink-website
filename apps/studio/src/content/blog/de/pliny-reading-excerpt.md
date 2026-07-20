@@ -21,6 +21,7 @@ faqs:
     answer: "Das Schreiben mit dem Eingabestift auf dem Tablet ist dem auf Papier ähnlich. Das Tippen auf der Tastatur ist jedoch weniger effektiv, da es automatisiert erfolgt. Handschreiben zwingt das Gehirn, die Informationen aktiv zu verarbeiten."
   - question: "Wie organisiere ich diese Auszüge, damit sie nicht verloren gehen?"
     answer: "Wir empfehlen Lockes Commonplace-Book-Methode: Erstellen Sie einen Index nach Kategorien auf den ersten Seiten Ihres Notizbuchs. Sie können die Notizen auch einmal im Monat scannen."
+
 ---
 
 "Kein Buch ist so schlecht, dass man nicht etwas Gutes daraus lernen könnte." Plinius der Ältere glaubte, dass jede nicht mit Lernen verbrachte Zeit verschwendet war. Während der Mahlzeiten, Bäder und Reisen las ihm ein Sklave vor, während ein anderer Notizen machte. Er las nie ein Buch, ohne Auszüge anzufertigen.

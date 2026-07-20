@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, qualquer exercício aeróbico contínuo que eleve o BDNF, como ciclismo ou natação, oferece uma recuperação cognitiva semelhante. Contudo, correr ao ar livre maximiza o relaxamento do DMN graças aos estímulos sensoriais como o vento e a paisagem."
   - question: "Ouvir música enquanto corro interfere na recuperação cerebral?"
     answer: "Música com letra ou ritmos fortes obriga o lobo frontal a processar som, impedindo o descanso cerebral absoluto. Ouvir sons naturais ou concentrar-se na respiração sem música ativa melhor o DMN e recarrega a atenção."
+
 ---
 
 Alan Turing, o gênio matemático britânico que decodificou o código Enigma do exército alemão durante a Segunda Guerra Mundial e estabeleceu as bases da ciência da computação. Ele sofria de sobrecarga cerebral crônica devido a cálculos complexos e criptoanálise. Seu segredo para manter o equilíbrio mental sob tal pressão intelectual era a corrida de maratona.

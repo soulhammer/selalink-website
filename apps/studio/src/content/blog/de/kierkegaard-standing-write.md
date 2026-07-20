@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Muss ich unbedingt im Stehen schreiben? Kann ich mich nicht hinsetzen?"
     answer: "Das Hinsetzen nach der Rückkehr entspannt den Körper und senkt die Wachheit. Die stehende Position erhält die körperliche Aktivierung, um das Arbeitsgedächtnis zu schonen, was für die ersten 10 Minuten kognitiv vorteilhaft ist."
+
 ---
 
 Søren Kierkegaard, ein Pionier der Existenzphilosophie aus dem Dänemark des 19. Jahrhunderts. Seine scharfen, originellen Aphorismen und Schriften entstanden an mehreren Stehschreibtischen in seinem Haus. Kierkegaard war ein Spaziergänger, der täglich durch Kopenhagen streifte. Er befürchtete, dass Ideen beim Ausziehen des Mantels und Aufräumen verfliegen würden. Sobald er die Tür öffnete, ging er mit Hut und Mantel direkt an den Stehschreibtisch. Heute stellt BuildSelf die neurologische Wirkung von Kierkegaards Stehroutine vor.

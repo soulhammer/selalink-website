@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Est-ce que faire défiler des vidéos courtes comme Reels ou TikTok produit une réinitialisation cognitive similaire ?"
     answer: "Non, c'est le contraire. Les vidéos courtes bombardent le cerveau d'informations inédites et de chocs visuels toutes les quelques secondes. Cela surexcite les voies dopaminergiques et oblige le cerveau à contextualiser en permanence de nouveaux fragments, augmentant l'agitation mentale. La routine de Wittgenstein se concentre sur un flux long, lent et simpliste qui suspend le traitement cognitif. Les médias courts et rapides épuisent le cerveau plutôt que de le reposer."
+
 ---
 
 Ludwig Wittgenstein, le génial philosophe du début du XXe siècle qui a secoué le monde universitaire avec son Tractatus Logico-Philosophicus. Repoussant les limites de la pensée logique, il a fait face à un épuisement cognitif extrême. Pour surmonter cette surchauffe mentale, Wittgenstein s'imposait un rituel quotidien en soirée. Il se précipitait au cinéma, s'asseyait au premier rang et regardait des westerns. Nous explorons comment cette stimulation visuelle simple mais intense purifie et réinitialise un cortex préfrontal épuisé.

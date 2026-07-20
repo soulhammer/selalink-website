@@ -21,6 +21,7 @@ faqs:
     answer: "Em dias de cansaço extremo, é melhor substituir o treino intenso por 10 minutes de alongamentos. O segredo de Mandela não é desgastar o corpo, mas iniciar o dia com 'autodeterminação'."
   - question: "Como um iniciante com baixo condicionamento físico deve começar?"
     answer: "Comece com intensidades adaptadas, como flexões na parede ou de joelhos, e agachamentos usando uma cadeira. Apenas 5 minutos por dia ativam a rotina de autodisciplina do cérebro."
+
 ---
 
 Nelson Mandela passou 27 anos na prisão. Seu refúgio contra o desespero foi o treino às 5h da manhã: corrida no lugar, flexões e abdominais diariamente. Essa rotina mantinha sua mente sã e fortalecida.

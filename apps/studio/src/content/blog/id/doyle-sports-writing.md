@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah Doyle benar-benar bermain kriket dan bertinju di level tinggi?"
     answer: "Ya, Doyle adalah pemain kriket untuk Klub Kriket Marylebone dan aktif bertinju. Ia bahkan memimpin pertandingan tinju sebagai wasit."
+
 ---
 
 Sir Arthur Conan Doyle, dokter medis dan penulis yang menciptakan detektif paling terkenal dalam sejarah, Sherlock Holmes. Sambil merancang pikiran logis Sherlock, Doyle menjaga tubuhnya tetap aktif. Ia adalah atlet yang gemar bertinju dan bermain kriket. Ia percaya bahwa ketika tubuh lesu, otak pun mandek. Mari kita bahas sainsnya.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "La marche offre-t-elle un effet d'activation du DMN similaire à celui des tâches ménagères ?"
     answer: "Oui, la marche est un puissant catalyseur de créativité. Cependant, marcher à l'extérieur nécessite de s'orienter, d'éviter les obstacles et de traiter des environnements changeants. Les tâches ménagères comme le repassage se déroulent dans une pièce contrôlée, s'appuyant sur une mémoire motrice entièrement automatisée. Cela minimise l'intervention préfrontale encore plus que la marche, induisant un état du DMN profondément stable."
+
 ---
 
 George Balanchine, le légendaire chorégraphe qui a révolutionné le ballet du XXe siècle. Face à la pression de produire des mouvements géométriques et innovants, il a lui aussi rencontré des blocages mentaux. Cependant, Balanchine ne se forçait pas à s'asseoir pour réfléchir. Au lieu de cela, il se levait, installait une planche à repasser et repassait des chemises ou lavait le sol. Nous analysons comment cette routine de tâches ménagères banales recâble les voies créatives du cerveau pour offrir des percées artistiques.

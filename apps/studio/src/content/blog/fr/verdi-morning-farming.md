@@ -21,6 +21,7 @@ faqs:
     answer: "Les entraînements en salle aident, mais l'éclairage intérieur est moins efficace pour réinitialiser les rythmes. Le contact direct avec la nature (Earthing) combiné à la lumière extérieure déclenche l'activation de la sérotonine."
   - question: "À quoi dois-je faire attention en ajoutant du travail physique matinal ?"
     answer: "Évitez le travail à haute intensité qui vide le glucose. Une grande fatigue nuit au cortex préfrontal, alors limitez votre séance du matin à environ 15 minutes d'activité légère."
+
 ---
 
 Giuseppe Verdi, le géant de l'opéra du XIXe siècle, se qualifiait de « simple fermier » même lorsque les théâtres du monde entier s'arrachaient son nom. Se réveillant à 5 heures du matin dans sa ferme de Sant'Agata, il s'habillait de vêtements grossiers pour travailler la terre pendant 2 heures avant de s'installer au piano.

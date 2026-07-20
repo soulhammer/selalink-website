@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Will the progress be too slow if daily micro-goals are too small?"
     answer: "Huge goals block starting completely. Consistent daily execution of tiny steps aggregates massive volumes of output in a year."
+
 ---
 
 Akira Kurosawa menulis jumlah halaman skenario yang tetap setiap hari, tanpa memandang tingkat inspirasinya. Kebiasaan ini mencegah kebuntuan menulis.

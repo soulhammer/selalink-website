@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Es útil la numeración si utilizo aplicaciones de notas digitales?"
     answer: "Sí, la numeración digital es sumamente práctica. Aunque los buscadores ayudan, asignar códigos únicos (como #042) facilita la creación de enlaces de referencia y permite conectar ideas y documentos con precisión, potenciando su productividad digital."
+
 ---
 
 Michael Faraday, quien sentó las bases de la era eléctrica. A pesar de carecer de formación matemática avanzada, la clave de sus descubrimientos estuvo en sus notas de laboratorio. A lo largo de su vida, numeró cada una de sus observaciones científicas. Su diario registra desde el número 1 hasta el 16,041. Analicemos cómo este ordenamiento compensó las limitaciones de memoria.

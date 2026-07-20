@@ -21,6 +21,7 @@ faqs:
     answer: "Karena ia tidak ingin memutus aliran kreatifnya yang halus. Dengan menolak rutinitas harian seperti berganti pakaian, ia menuangkan 100% energi sarafnya ke dalam karyanya."
   - question: "Apa saja tips praktis untuk mengurangi kelelahan keputusan dalam kehidupan modern?"
     answer: "Anda dapat menstandarkan pilihan sepele seperti pakaian harian Steve Jobs, merencanakan makanan terlebih dahulu, atau menghilangkan notifikasi digital."
+
 ---
 
 Pieta, David, dan langit-langit Kapel Sistina. Michelangelo Buonarroti, pencipta mahakarya terbesar dalam sejarah seni. Di balik kejeniusannya terdapat kebiasaan fokus ekstrem. Menurut biografer Giorgio Vasari, ketika Michelangelo mengerjakan sebuah proyek, ia tidur dengan pakaian dan sepatu botnya selama berminggu-minggu. Hari ini, BuildSelf mengeksplorasi ilmu kognitif di balik ini.

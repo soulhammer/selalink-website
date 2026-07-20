@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, tout exercice aérobie continu qui stimule le BDNF (vélo, natation) offre des bienfaits cognitifs similaires. Cependant, la course en extérieur maximise le repos du RMD en apportant des stimuli sensoriels (nature, vent) qui stimulent la créativité."
   - question: "Écouter de la musique en courant nuit-il à la récupération cérébrale ?"
     answer: "Les musiques avec paroles ou rythmes agressifs forcent le lobe frontal à traiter les informations sonores, ce qui empêche le cerveau de se reposer. Écouter les bruits de la nature ou se concentrer sur son souffle sans musique est idéal pour activer le RMD."
+
 ---
 
 Alan Turing, le génie mathématique britannique qui a décrypté le code Enigma de l'armée allemande pendant la Seconde Guerre mondiale et posé les bases de l'informatique. Il souffrait de surchauffe cérébrale chronique due à ses recherches. Son secret pour maintenir son équilibre mental et sa créativité sous une telle pression intellectuelle était la course de fond.

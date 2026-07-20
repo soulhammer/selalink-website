@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Is morning meditation in bed really effective for the brain?"
     answer: "Yes, a horizontal posture right after waking guides brainwaves into an alpha state, stabilizing the autonomic nervous system and boosting creativity and emotional stability."
+
 ---
 
 René Descartes, the father of modern philosophy who established the starting point of modern philosophy with the proposition "I think, therefore I am" and founded analytic geometry. Did you know that this giant of intellect maintained a very cozy yet unique routine every morning? 🛏️

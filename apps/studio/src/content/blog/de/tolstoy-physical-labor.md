@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Macht intensiver Morgen-Sport am Vormittag nicht müde?"
     answer: "Es ist wichtig, die Intensität anzupassen. Das Ziel ist keine Erschöpfung, sondern ein kurzes 15- bis 20-minütiges Training zur Steigerung von Herzfrequenz und Körpertemperatur zur Anregung des Kreislaufs. Passen Sie es an Ihre Fitness an."
+
 ---
 
 Leo Tolstoi, der mit Meisterwerken wie 'Krieg und Frieden' und 'Anna Karenina' weithin als Säule der russischen realistischen Literatur gilt. Obwohl er ein reicher Adliger war, lehnte er Privilegien ab und suchte ein bescheidenes Leben in körperlicher Arbeit. Die Quelle seiner unermüdlichen kreativen Energie waren die körperliche Arbeit und die Gymnastik, die er jeden Morgen ausübte. Nach dem Aufstehen, bevor er sich an seinen Schreibtisch setzte, pflügte Tolstoi Felder, hackte Holz oder trug Wasser. Er stellte auch Turngeräte in seinem Hof für Klimmzüge und Krafttraining auf. Er betrachtete körperliche Arbeit als einen notwendigen Motor, um das Gehirn aufzuwecken. Heute untersucht BuildSelf die neurowissenschaftliche Wahrheit hinter Tolstois Bewegungsgewohnheit und wie moderne Berufstätige Morgenroutinen gestalten können, um die Gehirneffizienz zu maximieren.

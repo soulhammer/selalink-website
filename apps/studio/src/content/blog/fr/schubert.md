@@ -21,6 +21,7 @@ faqs:
     answer: "C'est bon. En seulement deux minutes passées à tenir un stylo et à exprimer vos pensées, la mission de capture des ondes thêta a déjà été accomplie avec succès. Immédiatement après l'enregistrement, si vous buvez légèrement de l'eau ou si vous vous étirez pour envoyer un signal d'éveil physique à votre cerveau, le sommeil disparaîtra rapidement."
   - question: "Que dois-je faire quand je ne trouve rien à écrire juste après mon réveil ?"
     answer: "Si vous ne parvenez à penser à rien, il suffit de rompre la friction de connexion entre le stylo et les cellules motrices du cerveau en écrivant à la main un adjectif décrivant un état simple, comme « Je ne me souviens pas » ou « J'ai sommeil », trois fois de suite sur une feuille de papier vierge."
+
 ---
 
 Franz Schubert, un compositeur autrichien de génie représentant la musique romantique du XIXe siècle et surnommé le roi du Lieder (Liederfürst), a composé plus de 600 grandes chansons et symphonies lyriques jusqu'à sa mort à l'âge de 31 ans. Dès qu'il ouvrait les yeux chaque matin, sans enlever ses lunettes, il se dirigeait directement vers le bureau de composition juste à côté de son lit et commençait à écrire des notes sur du papier à musique. Afin de ne pas perdre de vue l'inconscience musicale qui survenait même dans son état de demi-sommeil, il se coucha sans lunettes. Cette routine d’écriture immédiate, qui éliminait toutes les frictions entre le réveil matinal et le début du travail, fut ce qui fit de lui un compositeur immortel.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sie können das Diktiergerät Ihres Smartphones oder eine KI-Notizen-App einschalten und laut sprechen, als würden Sie es jemandem erklären. Wichtig ist nicht der Zuhörer, sondern der Prozess, Gedanken laut in Sprache zu fassen."
   - question: "Wie wandle ich das Gesprochene in produktive Ergebnisse um?"
     answer: "Sie können während des Sprechens kurze Erkenntnisse notieren oder die Speech-to-Text (STT) Protokolle speichern, um sie später zu strukturieren."
+
 ---
 
 Nobelpreisträger Niels Bohr legte das Fundament der Quantenphysik. Trotz seines Genies fiel es ihm schwer, einsam am Schreibtisch zu arbeiten. Sein Ansatz war das Diktieren: Er ging vor einer Tafel auf und ab und debattierte mit seiner Frau Margrethe oder Schülern wie Heisenberg, die seine Worte mitschrieben. Kognitionspsychologisch stärkt diese Überführung von innerer in äußere Sprache die Metakognition.

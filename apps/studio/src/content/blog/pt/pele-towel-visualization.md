@@ -21,6 +21,7 @@ faqs:
     answer: "Para imitar o córtex motor e melhorar as conexões neurais, a primeira pessoa (olhar através dos próprios olhos) é infinitamente mais eficaz. A terceira pessoa serve para visualizar a colocação global, mas a primeira pessoa simula com maior potência a coordenação motora fina."
   - question: "O que fazer se surgirem pensamentos de falha ou erros durante a visualização?"
     answer: "É uma reação natural do cérebro. Se imaginar um erro, interrompa a cena e retroceda. Visualize o processo de correção imediata e bem-sucedida para reforçar a conexão de sucesso nos neurônios."
+
 ---
 
 Pelé, o maior jogador de futebol da história e o próprio sinônimo do esporte, 'O Rei'. A torcida de milhares de espectadores e a enorme pressão do país apresentavam uma carga psicológica colossal para o jovem na Copa do Mundo. No entanto, ele sempre entrava em campo com absoluta compostura. O segredo estava escondido no vestiário.

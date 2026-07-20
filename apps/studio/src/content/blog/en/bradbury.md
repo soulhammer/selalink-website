@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, practicing associative writing using word cards immediately after waking up when the subconscious is active is most effective."
   - question: "How can I substitute if I don't have word cards?"
     answer: "You can substitute by opening a random book and picking nouns, or using an online random word generator."
+
 ---
 
 American novelist Ray Bradbury, the godfather of modern science fiction (SF) literature and a master who predicted the limits of scientific and technological civilization with his unique poetic sensibility, wrote masterpieces such as Fahrenheit 451 using a story routine of 10 impromptu word associations every morning. As soon as he opened his eyes every morning, he went to his desk and wrote down 10 random words (e.g. sand, ashes, bell, engine, cloud, etc.) on a blank piece of paper. He stared at each word for a minute, then forced the words to combine in his brain, creating one short, ultra-short story association every day. This routine was the cradle of creativity that led to his sci-fi masterpieces.

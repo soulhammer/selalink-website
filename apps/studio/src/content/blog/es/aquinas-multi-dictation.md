@@ -16,6 +16,7 @@ steps:
     text: "Dedique entre 15 y 20 minutos al primer proyecto. Concentre el 100% de su energía en esa única tarea, evitando mirar cualquier otro estímulo."
   - name: "Hacer un cambio limpio de contexto"
     text: "Al finalizar el bloque, cierre el primer archivo y abra el segundo. Respire hondo tres veces para vaciar la memoria de trabajo activa y comience con el 100% de atención en el segundo proyecto."
+
 ---
 
 "La razón es la sirvienta de la fe, y el intelecto es su espada." Tomás de Aquino, la figura más destacada de la escolástica medieval, tenía una mente tan rápida que sus manos no podían seguirla. Para plasmar sus ideas, dictaba su Summa Theologiae a varios escribas al mismo tiempo, moviéndose de un tema a otro sin perder el hilo de sus pensamientos.

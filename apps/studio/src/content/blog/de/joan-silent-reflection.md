@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Der Kern von Jeanne d'Arcs Routine ist es, das Gehirn direkt nach dem Aufwachen zu ordnen, bevor Handy-Nachrichten eintreffen. 10 Minuten nach dem Aufstehen zur gewohnten Zeit genügen."
   - question: "Ich habe keine Religion, ist stilles Gebet trotzdem effektiv?"
     answer: "Absolut. Diese Routine konzentriert sich auf kognitive Abgrenzung und Selbstbestätigung, nicht auf Rituale. Auch ohne Gott aktiviert das Besinnen auf Werte denselben Beruhigungseffekt."
+
 ---
 
 Jeanne d'Arc, die Retterin Frankreichs. Entdecken Sie die neuropsychologischen Stabilisierungseffekte ihrer 'morgendlichen Stille' zur Bewahrung ihrer Entschlossenheit und eine 3-Schritte-Anleitung.

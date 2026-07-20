@@ -21,6 +21,7 @@ faqs:
     answer: "Digital screens lack the tactile friction of physical paper, reducing sensory feedback. Also, digital devices carry notification distractions. Writing with pencil on paper provides tactile resistance that stimulates the cortex and leads to deeper cognitive offloading, which is why actual paper is recommended."
   - question: "Is it effective to just sit down and sketch without walking around?"
     answer: "While sketching alone helps, combining it with physical walking and visual pursuit dramatically enhances the cognitive outcome. Walking increases cerebral blood flow and arousal. Meanwhile, tracking object layouts with your eyes activates cerebellar networks, maximizing logical reasoning capacity for diagramming."
+
 ---
 
 Henry Ford, the automotive giant who built the historic conveyor belt mass production system. Where did his structural design inspirations come from? 🚗

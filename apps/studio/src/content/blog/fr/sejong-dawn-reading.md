@@ -21,6 +21,7 @@ faqs:
     answer: "Non. L'essentiel est de s'assurer un temps sans distractions au réveil. Se lever seulement 30 minutes plus tôt et lire sans écrans suffit pour obtenir le même effet."
   - question: "Est-il possible de lire des romans en ligne ou des articles de réseaux sociaux ?"
     answer: "Pour échauffer le cerveau, il est préférable de lire des livres physiques structurés avec un développement logique. Les livres de philosophie, sciences humaines, histoire ou essais qui demandent une réflexion active sont plus bénéfiques."
+
 ---
 
 Le roi Sejong le Grand, le monarque le plus respecté de l'histoire de la Corée qui créa le Hangeul et fit progresser la science et la culture. Quel était le secret de sa créativité et de ses décisions sages malgré le surmenage et la maladie ? Il se réveillait avant tout le monde à 3h ou 4h du matin et lisait à la lueur des bougies. Pendant ce temps calme, il lisait l'histoire et les classiques pour se préparer aux débats académiques. Aujourd'hui, BuildSelf présente les principes neurologiques et la mise en œuvre moderne de la routine de 'lecture à l'aube' du roi Sejong.

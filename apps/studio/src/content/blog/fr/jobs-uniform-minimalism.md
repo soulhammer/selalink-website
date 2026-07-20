@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Steve Jobs portait-il toujours les mêmes vêtements ?"
     answer: "Pour préserver l'attention consommée par des choix triviaux le matin, afin de se concentrer à 100 % sur les choix stratégiques d'Apple."
+
 ---
 
 Steve Jobs, le génie entrepreneurial qui a cofondé Apple et lancé le Macintosh, l'iPhone, l'iPad et d'autres appareils révolutionnaires. Saviez-vous qu'il portait exactement le même col roulé noir, le même jean et les mêmes baskets tous les jours, et pas seulement sur scène ? 👕

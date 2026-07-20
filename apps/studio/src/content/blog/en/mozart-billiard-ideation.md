@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Do regular smartphone games give the same transition effect?"
     answer: "Mobile games with text, social media, or heavy stimulation keep other areas of the prefrontal cortex tense, adding to cognitive load. To achieve the DMN effect, physics simulation games or analog play focusing on simple, geometric trajectories are far more effective."
+
 ---
 
 Wolfgang Amadeus Mozart, a genius in classical music history who wrote perfect symphonies and operas in one go without editing. Behind his miraculous creativity was a unique routine that allowed his brain to escape artistic obsessions. It was the 'billiards transition habit' of picking up a cue and hitting billiard balls whenever he got tired or stuck while composing. He set up a luxurious billiard table in his home, next to his study. His wife, Constanze, testified that Mozart would sit focused at his desk, then suddenly get up, go next door, hit a few balls, and return to write down the melody. Staring blankly at the geometric trajectories of colliding balls was not mere entertainment. It was a cognitive shelter that induced the brain into an unconscious mode to spark new associations. Today, BuildSelf shares the brain-scientific principles behind Mozart's billiard habit and how to design a modern 15-minute game routine to clear mental blocks and invite creative ideas.

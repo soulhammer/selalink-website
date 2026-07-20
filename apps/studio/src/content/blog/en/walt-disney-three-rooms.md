@@ -21,6 +21,7 @@ faqs:
     answer: "It is effective to use different physical spaces to induce cognitive shift. If you must use one space, it is recommended to change the blackboard color, rearrange seats, or use different writing instruments to provide cognitive boundaries for the brain."
   - question: "What should I do if the critique is so severe in the Critic stage that the idea is completely scrapped?"
     answer: "The Critic should aim for 'improvement and supplementation', not the discarding of ideas. Do not end with 'This idea is impossible' in the critique phase, but approach it by asking 'What risk factors must be modified to make this idea work?' to build constructive adjustments."
+
 ---
 
 Walt Disney built an animation empire by gifting dreams to children and adults alike. His creativity was not just a product of inspiration. He had a unique system of thinking that refined seemingly absurd imaginations into perfect reality.

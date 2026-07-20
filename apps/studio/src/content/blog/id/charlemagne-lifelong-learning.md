@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Jika saya meletakkan kertas di bawah bantal, bukankah kertas tersebut akan kusut atau pulpennya rusak saat tidur?"
     answer: "Untuk praktik modern, alih-alih kertas biasa yang mudah kusut, kami merekomendasikan untuk meletakkan binder mini dengan hard cover yang kokoh di atas meja samping tempat tidur, atau memasang papan jalan memo kayu dengan klip di rak kepala tempat tidur untuk mencegah risiko kerusakan dan merancang rute terpendek."
+
 ---
 
 Charlemagne, monarki agung yang meletakkan fondasi sejarah Eropa Barat dan memimpin kebangkitan budaya dan pendidikan. Di abad ke-8, era buta aksara di mana menulis adalah hal yang langka dan ekspansi kekaisaran sangat sibuk, bagaimana Kaisar mengejar pengetahuan dan menulis? 👑

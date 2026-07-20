@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Cómo pueden los empleados en espacios abiertos de trabajo aplicar la rutina de aislamiento de Mahler?"
     answer: "En este escenario, emplee el aislamiento auditivo y digital. Usar auriculares con cancelación de ruido con ruido blanco o sonidos ambientales actúa como un escudo cognitivo. Combine esto configurando las aplicaciones de comunicación en 'No molestar' y maximizando la ventana de su área de trabajo principal para crear una minicabaña digital."
+
 ---
 
 Gustav Mahler, el maestro austriaco que compuso sinfonías inmortales con orquestaciones masivas. Durante su ocupada dirección, tuvo que verter toda su energía musical durante las limitadas vacaciones de verano. Para lograr esto, Mahler construyó una pequeña 'cabaña de composición' en lo profundo del bosque alpino. Cada mañana a las 6 a.m., después de dejar el desayuno en la puerta, Mahler se encerraba adentro hasta el mediodía. Exploramos cómo esta rutina de aislamiento absoluto guía al cerebro hacia el máximo rendimiento creativo.

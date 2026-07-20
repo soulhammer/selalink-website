@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What kind of geometric model did Kepler actually carve?"
     answer: "He created a nested model of the five Platonic solids (octahedron, icosahedron, dodecahedron, tetrahedron, cube) nested inside each other to represent the orbits and distances of the known planets."
+
 ---
 
 Johannes Kepler, the famous astronomer and mathematician who discovered the laws of planetary motion, laying the cornerstone for Newton's gravity theory. In an era without computers, Kepler had to process mountains of mathematical calculations. When he hit a wall, he carved 3D geometric models of the universe out of wood, paper, or clay. By touching the physical proportions, he found breakthroughs in cosmic orbits. Let's study the cognitive benefits of haptic space manipulation.

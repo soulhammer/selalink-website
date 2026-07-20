@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if there is no real child around to explain to?"
     answer: "You can target college students, coworkers, a toy on your desk, or a chatbot. The key is going through the 'filtering process' of checking your words to exclude jargon and use vocabulary a 10-year-old can understand."
+
 ---
 
 Richard Feynman, a giant of modern physics who won the Nobel Prize in Physics for his revolutionary work in quantum electrodynamics. He was a cheerful and outstanding educator who could explain complex research in a way that anyone could understand. The secret lies in his unique 'teaching' habit recorded in his notebook. Whenever Feynman learned something new, he opened a blank notebook and assumed a 10-year-old child was sitting in front of him. He wrote down the concept using simple vocabulary and analogies as if explaining it to that child. When his writing became wordy, he realized there was a gap in his understanding and immediately returned to the original source. Today, BuildSelf shares the neuroscientific truth behind Feynman's learning method and how to master new knowledge quickly.

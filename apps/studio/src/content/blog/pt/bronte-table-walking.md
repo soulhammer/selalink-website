@@ -21,6 +21,7 @@ faqs:
     answer: "Não. O simples fato de caminhar estimula a criatividade em 60% pela oxigenação e BDNF. Se estiver sozinho, simule a metacognição falando consigo mesmo em voz alta ou imaginando que um crítico fictício lhe questiona a ideia enquanto anda."
   - question: "A crítica sincera não pode ferir e desmotivar a criatividade?"
     answer: "É um viés comum. Se o cérebro percebe a crítica como um ataque pessoal, ele se defende e a motivação diminui. Separe a sua identidade da sua obra. Entenda a crítica como dados neutros para melhorar o trabalho."
+
 ---
 
 Charlotte Brontë, autora de 'Jane Eyre', romance que sacudiu a literatura do século XIX. Viveu com suas irmãs Emily e Anne em uma paróquia em Haworth, Yorkshire, sofrendo isolamento e pobreza. Sem estímulos intelectuais externos, como completaram obras-primas de forma simultânea?

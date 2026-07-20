@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah metode kartu indeks Nabokov dapat direplikasi menggunakan alat catatan digital alih-alih kartu fisik?"
     answer: "Ya, tentu saja. Anda dapat menggunakan papan Kanban di Notion, Trello, atau papan tulis digital seperti Miro atau FigJam untuk membuat kartu. Prinsip utamanya adalah memodularisasi pikiran menjadi objek yang dapat dipindahkan."
+
 ---
 
 Vladimir Nabokov, yang menunjukkan puncak sastra Inggris abad ke-20 dengan struktur rumit dalam Lolita. Anehnya, dia tidak menulis novelnya secara kronologis. Sebaliknya, dia menulis dialog, deskripsi, dan fragmen plot pada kartu indeks 3x5 inci. Nabokov meletakkan kartu-kartu ini di mejanya dan menyusunnya kembali dengan bebas, bahkan membawanya di mobil. Kami mengeksplorasi mengapa metode penulisan modular ini adalah strategi kognitif yang kuat untuk proyek-proyek rumit.

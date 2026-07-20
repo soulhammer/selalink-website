@@ -21,6 +21,7 @@ faqs:
     answer: "Quedarse dormido está bien, pero puede intentar sentarse en un escritorio y escribir durante solo 5 minutos antes de acostarse para evitar quedarse dormido de inmediato."
   - question: "¿Qué debo hacer si la autoculpa me mantiene despierto?"
     answer: "Detenga el proceso inmediatamente si comienza la rumiación. Simplemente escriba una sola acción para realizar mañana y cierre el libro conscientemente."
+
 ---
 
 Pitágoras, el gigante de las matemáticas y la geometría, lideró una escuela que buscaba la armonía y el autocontrol. Su regla central era el autoexamen vespertino. En los 'Versos dorados', se hacían tres preguntas antes de dormir: '¿Qué hice mal?', '¿Qué bien hice?' y '¿Qué omití?'. Analizamos la rutina de autoexamen vespertino de Pitágoras.

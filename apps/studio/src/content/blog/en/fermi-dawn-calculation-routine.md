@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if I cannot sustain focus for 2 hours without drifting off?"
     answer: "If 2 hours is too long, break it into two blocks: 50 minutes of deep focus followed by 10 minutes of active stretching. Do not check your phone during the 10-minute break. Drink water or pace around the room to boost circulation, then return to your second session immediately."
+
 ---
 
 Enrico Fermi, the legendary physicist who designed the world's first nuclear reactor, was highly unique for mastering both theoretical and experimental physics. While other scientists got stuck in calculations, Fermi derived answers with ease. The secret to his productivity was his morning routine: waking at 5:30 AM to calculate in his study for 2 hours in absolute silence before heading to his lab at 8:30 AM. We explore the neuroscience of protecting the brain's cognitive golden hour from early morning distractions to maximize rational and logical output.

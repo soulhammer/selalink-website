@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "I do not have calligraphy tools at home; can I replace them with standard tools?"
     answer: "Fountain pens, dip pens, or thick textured paper with a pencil are sufficient. The key is for the brain to perceive the friction and force adjustment between the paper and tip in real time. Any writing tool that provides crisp tactile feedback on paper can produce neural activation effects similar to calligraphy."
+
 ---
 
 Founder of global business giant Samsung, Lee Byung-chul, who built Korea's semiconductor legend. Behind his cool decisions and rational thoughts that built a corporate empire from war ruins was a static Eastern ritual performed every morning. Waking up early, he sat alone in his study to grind ink and practice calligraphy. Writing values like Unlimited Pursuit or Talent First on paper, focusing on the brush tension, was a discipline to clear business distractions. Discover how this precise morning calligraphy calms brain emotion centers and delivers calm focus.

@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak perlu berjalan sejauh 15 mil seperti Smith. Durasi yang disarankan secara klinis untuk aktivasi DMN adalah 20 hingga 40 menit. Daripada jarak, menjaga pikiran tetap fokus tanpa gangguan digital adalah hal yang paling penting."
   - question: "Bisakah saya berjalan di treadmill dalam ruangan saat sulit pergi keluar?"
     answer: "Ya, tetapi sangat penting untuk tidak melihat layar ponsel pintar atau monitor TV saat berada di treadmill. Jaga agar mata Anda tertuju pada titik kosong di dinding dan blokir input visual untuk fokus murni pada sensasi berjalan."
+
 ---
 
 Adam Smith, filsuf yang meletakkan dasar ekonomi modern dan 'tangan tak terlihat' dari pasar bebas, memiliki kebiasaan unik seumur hidup. Saat menyusun ide-ide kompleks, Smith berjalan tanpa tujuan di sekitar taman atau jalan setapak yang tenang. Suatu pagi, karena sangat tenggelam dalam pikiran, ia berjalan sejauh 15 mil (sekitar 24 km) ke kota tetangga, benar-benar lupa bahwa ia mengenakan baju tidur. Hanya setelah mendengar lonceng gereja dia sadar kembali.

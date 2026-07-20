@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, el acetaldehído liberado al fermentar reduce temporalmente el nivel de oxígeno y altera la respiración, dando un estímulo inusual; y la señal olfativa habría enviado un aviso de activación inmediato al sistema límbico."
   - question: "¿Qué aromas se recomiendan para el anclaje aromático moderno?"
     answer: "Se recomienda el romero, que ayuda científicamente a la concentración y el estado de alerta; o la menta y el eucalipto, que alivian la fatiga cerebral. Los cítricos como el limón también han demostrado efectos positivos."
+
 ---
 
 Friedrich Schiller, el gran poeta y dramaturgo que lideró la edad de oro de la literatura clásica alemana junto a Johann Wolfgang von Goethe. Sus obras 'Los ladrones' y 'Guillermo Tell' dejaron una profunda huella en la historia. Sin embargo, en el cajón del escritorio donde nacieron estas obras maestras se ocultaba un secreto muy extraño y penetrante. 🍎

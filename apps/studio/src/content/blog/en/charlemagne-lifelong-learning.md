@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "If I put paper under the pillow, won't it crumple or the pen get broken while sleeping?"
     answer: "For modern practice, instead of paper, we recommend keeping a sturdy hardcover mini binder on the chest or securing a wooden memo board with a clip on the shelf to protect them and minimize the movements."
+
 ---
 
 Charlemagne, the great monarch who laid the historical foundation of Western Europe and led the renaissance of culture and education. In the 8th century, an era of illiteracy where writing was rare and empire expansion was busy, how did the Emperor pursue knowledge and writing? 👑

@@ -21,6 +21,7 @@ faqs:
     answer: "Establish 2-3 simple steps that you completely control, such as tying shoes in a certain way, taking deep breaths, or reciting a positive phrase, and repeat them consistently."
   - question: "How do I manage anxiety when I miss a step or make a mistake in my routine?"
     answer: "Understand that a routine is merely a psychological anchor, not the source of your skill. Embracing slips as 'part of the situation' maximizes the true benefits of having a routine."
+
 ---
 
 Winner of 23 Grand Slam singles, the greatest tennis queen of all time, Serena Williams. Amidst microscopic media attention and the brutal pressure on the court where losing a single point could slip her ranking, the weapons that kept her at the top for 20 years were her obsessive and unique pre-match routines. Before entering the court, she always listened to music with the same headphones, and bounced the ball exactly 5 times before the first serve. We explore how these physical actions blocked uncontrollable anxiety variables and focused her mind.

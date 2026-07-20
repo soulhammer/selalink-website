@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, absolut. Der künstlerische Wert des Ergebnisses ist nebensächlich. Die therapeutische Wirkung beruht auf der Kombination aus präziser Bewegung und dem Erleben lebendiger Farben."
   - question: "Wie wäre es mit Knetmasse oder Zeichen-Apps anstelle der Schere?"
     answer: "Knetmasse ist aufgrund der haptischen Reize sehr zu empfehlen. Zeichen-Apps sind wegen der glatten Oberfläche und möglicher Ablenkungen weniger geeignet. Analoge Werkzeuge sind besser."
+
 ---
 
 Henri Matisse, der Meister des Fauvismus, revolutionierte die Farbe. Am Lebensende litt er unter starken Schmerzen und konnte den Pinsel nicht mehr führen. ✂️

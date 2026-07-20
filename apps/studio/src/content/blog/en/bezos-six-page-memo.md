@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why take time to read together during a meeting?"
     answer: "If asked to read in advance, people often skim or skip it. Forcing reading in the room ensures everyone starts with the exact same depth of cognitive state."
+
 ---
 
 Jeff Bezos, founder of Amazon, the world's largest e-commerce and cloud company. He banned fancy PPT slides with bullet points and ruled that a 6-page report in narrative form should be used. Right after starting a meeting, no words are spoken, and attendees spend 30 minutes quietly reading the memo. Why did they keep this strict rule of silence?

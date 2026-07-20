@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum schrieb Stephen King jeden Tag 2.000 Wörter?"
     answer: "Um sich nicht auf seine Stimmung verlassen zu müssen und täglich mechanisch kreativ zu sein. Er nutzte sensorische Reize und Mindestgrenzen, um die Zeit, in der die Inspiration anhält, zu steuern und zur Gewohnheit zu machen."
+
 ---
 
 Stephen King, der Meister des modernen Horrors hinter Meisterwerken wie „The Shining“ und „Die Verurteilten“, pflegt seit Jahrzehnten eine strenge Disziplin: Er schreibt jeden Morgen und steht erst auf, wenn er 2.000 Wörter beendet hat. ✍️

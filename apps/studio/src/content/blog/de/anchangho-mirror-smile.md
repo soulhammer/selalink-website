@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Hilft ein erzwungenes Lächeln vor dem Spiegel wirklich?"
     answer: "Ja, durch den Facial-Feedback-Effekt erkennt das Gehirn die Muskelbewegung und stuft dies als glücklichen Zustand ein, was Glücksstoffe freisetzt."
+
 ---
 
 Ahn Chang-ho, der große Bildungsführer und Unabhängigkeitsaktivist Koreas, glaubte, dass der Aufbau individueller Moral, Intelligenz und Würde ebenso wichtig für die Unabhängigkeit war wie der bewaffnete Kampf. Er lehrte seine Mitglieder streng, sich mit einem Lächeln zu begegnen und alle Räume sauber zu halten, um Ordnung zu schaffen. 🧹

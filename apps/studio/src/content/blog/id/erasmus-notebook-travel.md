@@ -16,6 +16,7 @@ steps:
     text: "Tataplah pemandangan luar jendela yang bergerak cepat. Rilekskan pandangan mata Anda dan biarkan otak Anda mulai masuk ke kondisi melamun (daydream)."
   - name: "Langkah 3: Tangkap Ide yang Muncul Segera"
     text: "Saat analogi unik atau solusi masalah tebersit di kepala, segera tulis kata kuncinya di buku catatan saku. Jangan menundanya hingga tiba di tujuan karena ide tersebut akan cepat menguap."
+
 ---
 
 "Perjalanan adalah sumber kebijaksanaan, dan buku catatan adalah petanya." Desiderius Erasmus, humanis hebat Renaisans, adalah pelancong abadi yang sering melintasi Eropa dengan kereta kuda. Alih-alih membiarkan waktu perjalanan terbuang sia-sia, ia selalu mengantongi buku catatan kulit kecil untuk menulis ide dan kritik.

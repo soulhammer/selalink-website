@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How can I utilize cleaning as a meditation?"
     answer: "Focusing strictly on real-time sensory feedback like friction noise and touch, rather than speed, makes it effective."
+
 ---
 
 Sen no Rikyu, master teh yang mendefinisikan estetika Wabi-Sabi. Saat membersihkan taman, ia sengaja menjatuhkan beberapa daun untuk mematahkan kesempurnaan buatan.

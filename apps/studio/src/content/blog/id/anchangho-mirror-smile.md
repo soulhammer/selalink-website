@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah memaksakan senyum di depan cermin benar-benar berhasil?"
     answer: "Ya, melalui efek umpan balik wajah, otak mendeteksi gerakan otot wajah dan menganggapnya sebagai kondisi bahagia, memicu pelepasan zat bahagia."
+
 ---
 
 Ahn Chang-ho, pemimpin pendidikan dan aktivis kemerdekaan Korea, percaya bahwa membangun moralitas individu, kecerdasan, dan martabat harian sama pentingnya dengan perjuangan bersenjata demi kemerdekaan. Ia mengajarkan anggotanya untuk saling memperlakukan dengan senyuman dan menjaga kebersihan semua ruang untuk membangun ketertiban. 🧹

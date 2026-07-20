@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, dieses Risiko besteht. Setzen Sie sich daher klare Zeitlimits: Planen Sie beispielsweise feste Stunden für den Entwurf und maximal drei Durchgänge für die Verfeinerung ein."
   - question: "Wann ist ein Werk fertig und sollte nicht weiter bearbeitet werden?"
     answer: "Als Faustregel gilt: Wenn eine weitere Korrektur das Gesamtergebnis nicht mehr spürbar verbessert (Grenznutzen), ist das Werk fertig. Hören Sie auf, sobald Sie nur noch Details ohne echten Mehrwert ändern."
+
 ---
 
 Frédéric Chopin, der „Poet des Klaviers“. Seine Nocturnes und Balladen klingen leicht und verträumt. Doch hinter dieser Leichtigkeit verbarg sich ein schmerzhafter, fast obsessiver Perfektionsdrang bei der Komposition.

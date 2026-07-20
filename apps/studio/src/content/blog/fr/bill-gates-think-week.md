@@ -21,6 +21,7 @@ faqs:
     answer: "Non. L'essentiel est de contrôler l'information et d'isoler l'attention. Il suffit d'aller dans une bibliothèque ou de ranger votre téléphone pendant une journée pour vous concentrer sur des livres papier."
   - question: "Puis-je utiliser un écran d'ordinateur pour lire les documents?"
     answer: "Les écrans tentent le cerveau avec des notifications. Pour maintenir la concentration, il est conseillé de lire sur papier. Si l'utilisation d'un écran est inévitable, utilisez une liseuse sans connexion internet."
+
 ---
 
 Bill Gates, fondateur de Microsoft et leader de l'innovation technologique, a orienté le gouvernail de l'entreprise au bon moment pour ouvrir un nouveau paradigme grâce à sa routine d'isolement en chalet. 🌲

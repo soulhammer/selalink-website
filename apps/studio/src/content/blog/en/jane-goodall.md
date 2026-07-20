@@ -21,6 +21,7 @@ faqs:
     answer: "No. Images on digital screens are just compressed 2D pixels and do not activate the brain's stereoscopic perception neural network. You must be able to decipher the depth and texture of analog objects in three dimensions with your eyes to promote sensory neuron plasticity in your brain."
   - question: "Should we only observe static and boring objects?"
     answer: "Precisely analyzing the trace of a pet cat's tail trembling, the movement of the fins of a fish in a fish tank, etc. is also a very good exercise that sharply awakens the brain's selective attention circuit."
+
 ---
 
 Jane Goodall is a world-renowned wild chimpanzee researcher and environmental activist, and a biologist who completely reformed the existing map of animal ethology by first discovering the ability of primates to use tools by directly interacting with chimpanzees in the Gombe jungle in Africa for decades. Every day, she climbed through the early morning fog and sat atop the steep cliffs of Gombe, Africa. She completely silenced the noise of her actions so that the chimpanzees would not be wary of her. And I quietly observed the chimpanzee's fine hair-picking movements, the rhythm of its fingertips using tree branch tools, and the blinking of its eyes through a telescope, and recorded the facts along with drawings in a pocket notebook.

@@ -21,6 +21,7 @@ faqs:
     answer: "Brahms war Perfektionist und glaubte, dass Kaffeestärke und -geschmack seine geistige Frische beeinflussen. Daher pflegte er dieses Ritual des eigenen Mahlens und Aufbrühens."
   - question: "Wie genau trägt Gehen zur Gehirnstimulation bei?"
     answer: "Gehen erhöht durch den Fußauftritt den Blutfluss zum Gehirn und fördert die Ausschüttung von BDNF, was die Synapsenbildung anregt und so Kreativität und Gedächtnis maximiert."
+
 ---
 
 Johannes Brahms, der neben Bach und Beethoven als einer der drei großen 'Bs' der deutschen klassischen Musik gilt. Seine tiefgründigen und lyrischen Meisterwerke entstanden in einer perfekt strukturierten Morgenroutine. ☕

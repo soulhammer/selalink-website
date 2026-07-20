@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, allumer son téléphone expose l'esprit au bruit numérique, ce qui disperse l'attention. Écrire à la main crée une friction tactile qui transmet des données plus profondes au cortex, doublant la sensation de contrôle, ce qui est supérieur pour réguler le comportement."
   - question: "Dois-je vraiment noter des détails aussi minimes qu'un centime ou une minute ?"
     answer: "L'objectif n'est pas la valeur du chiffre, mais l'entraînement du cerveau à l'autorégulation. Noter les moindres pertes de temps ou d'argent renforce le cortex préfrontal. Cela crée un circuit neuronal qui réprime les impulsions lors de choix majeurs."
+
 ---
 
 John D. Rockefeller, le légendaire entrepreneur qui a créé la Standard Oil et amassé la plus grande fortune privée de l'histoire. D'où venait sa rigoureuse planification ? 📕

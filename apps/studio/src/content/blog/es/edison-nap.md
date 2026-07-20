@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "¿Por qué Edison sostenera bolas de acero en sus manos al dormir?"
     answer: "Al quedarse dormido y relajarse sus músculos, el sonido de las bolas al caer lo despertaba, permitiéndole anotar ideas del límite hipnagógico al instante."
+
 ---
 
 Thomas Edison, el rey de la invención que registró más de 1.000 patentes que cambiaron el rumbo de la vida cotidiana humana, incluyendo la bombilla incandescente, el fonógrafo y la cámara de cine. ¿Conoce el famoso y singular ritual de siesta que utilizaba cuando se enfrentaba a un reto intelectual complejo o a un bloqueo de ideas? 💤

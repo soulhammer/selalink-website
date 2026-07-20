@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bolehkah saya mendengarkan musik saat berjalan?"
     answer: "Musik atau informasi verbal merangsang otak untuk menganalisisnya, menghambat aktivasi DMN. Untuk istirahat otak yang lengkap, sebaiknya fokus hanya pada suara alam & langkah kaki Anda tanpa earphone."
+
 ---
 
 Charles Dickens, secara luas dianggap sebagai novelis terbesar di era Victoria dengan karya-karya besar seperti 'Oliver Twist,' 'Great Expectations,' dan 'A Christmas Carol.' Tahukah Anda di mana karakter menawan dan alur cerita rumit dalam novelnya lahir? Rahasianya terletak pada rutinitas 'jalan kaki 3 jam' yang dilakukannya setiap sore. Setelah menulis dari jam 9 pagi sampai jam 2 siang, ia pergi keluar. Ia berjalan sekitar 16-19 km dengan sangat cepat selama tepat 3 jam.

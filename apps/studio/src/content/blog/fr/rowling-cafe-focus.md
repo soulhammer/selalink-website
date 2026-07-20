@@ -21,6 +21,7 @@ faqs:
     answer: "Non. La musique avec paroles ou les bruits forts (plus de 85 dB) perturbent la mémoire de travail du lobe frontal. Pour obtenir l'effet, le son doit être instrumental, aléatoire et irrégulier."
   - question: "Écouter du bruit blanc avec des écouteurs dans une salle d'étude aide-t-il ?"
     answer: "Oui. Diffuser du bruit blanc dans une salle d'étude aide à s'isoler. Néanmoins, y associer des changements visuels (la clarté d'un café) est préférable en apportant de la diversité sensorielle."
+
 ---
 
 J.K. Rowling a écrit Harry Potter dans des cafés bruyants. Elle a découvert que le bruit blanc modéré l'aidait à bloquer les distractions internes.

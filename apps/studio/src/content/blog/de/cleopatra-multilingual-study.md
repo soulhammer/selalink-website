@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, bloßes Zusehen und Zuhören stimuliert nur passive kognitive Bereiche. Die neuronale Plastizität steigt und Synapsen aktivieren sich erst, wenn Sie die Stimmbänder durch lautes Vorlesen anregen und Sätze selbst konstruieren wie Kleopatra."
   - question: "Führt das gleichzeitige Erlernen zweier Sprachen zu einer kognitiven Überlastung?"
     answer: "Für Anfänger ist es ratsam, sich erst auf eine Sprache zu konzentrieren. Sobald jedoch Grundlagen vorhanden sind, trainiert der Wechsel zwischen den Grammatiken das präfrontale Kortex-Areal enorm."
+
 ---
 
 Königin Kleopatra sprach mindestens 9 Sprachen, darunter Ägyptisch, Griechisch, Latein und Hebräisch, fließend und verhandelte ohne Dolmetscher. Sie blockte jeden Nachmittag Zeit zum Lernen und Üben.

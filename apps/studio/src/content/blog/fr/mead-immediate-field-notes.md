@@ -21,6 +21,7 @@ faqs:
     answer: "Oui. Cependant, réglez votre téléphone sur Ne pas déranger pour éviter les notifications, ou placez un widget sur l'écran d'accueil pour minimiser le délai de saisie."
   - question: "Qu'en est-il de l'enregistrement audio et de sa transcription ultérieure ?"
     answer: "L'enregistrement audio aide à capturer les détails mais fatigue la mémoire de travail pendant la transcription. Griffonner des mots-clés bruts pendant l'événement est préférable pour la cartographie sémantique."
+
 ---
 
 Margaret Mead, l'anthropologue culturelle de renommée mondiale qui a changé le paradigme de l'anthropologie du XXe siècle, a vécu pendant des années dans des régions reculées comme les îles Samoa. La raison pour laquelle les écrits de Mead sont reconnus pour leur extrême précision, même 100 ans plus tard, résidait dans sa formule unique de prise de notes.

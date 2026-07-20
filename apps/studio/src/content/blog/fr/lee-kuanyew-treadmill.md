@@ -21,6 +21,7 @@ faqs:
     answer: "Non. Le moment idéal pour profiter du basculement nerveux est le pic de fréquence cardiaque. Si vous vous douchez d'abord, le cœur ralentit et l'effet de baisse du cortisol est amoindri. Installez-vous immédiatement."
   - question: "Est-ce un échec si des pensées parasites apparaissent pendant la méditation ?"
     answer: "Non, c'est tout à fait normal. L'important n'est pas d'avoir l'esprit vide, mais de réaliser que l'on s'est distrait et de ramener doucement son attention sur le souffle. Ce processus renforce le contrôle de votre attention."
+
 ---
 
 Lee Kuan Yew, le Premier ministre fondateur qui a métamorphosé Singapour, petite cité-état dépourvue de ressources, en un centre financier mondial. Il faisait face à une pression immense au milieu des superpuissances et au risque de paralysie décisionnelle. Comment a-t-il pu garder sa vivacité d'esprit jusqu'à 90 ans ?

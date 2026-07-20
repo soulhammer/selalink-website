@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Virginia Woolf escrevia de pé?"
     answer: "Inspirada pela irmã pintora, utilizava uma escrivaninha de pé como um ritual físico para manter a igualdade artística."
+
 ---
 
 Virginia Woolf, considerada uma pioneira da literatura modernista do século XX, deixando obras-primas como 'Mrs. Dalloway' e 'Ao Farol'. Como foi ela capaz de retratar mundos interiores tão íntimos e psicologias tão complexas com frases tão persistentes e sofisticadas? Por trás da sua incrível concentração estava um hábito de trabalho muito singular. Todas as manhãs, Woolf escrevia de pé em frente a uma secretária inclinada com mais de um metro de altura. Esta rotina de escrita foi inspirada no método de trabalho da sua irmã, Vanessa Bell, uma pintora notável. Faszinala pela forma como a irmã se colocava em frente ao cavalete, usando todo o corpo para pintar, Woolf pensou que ela também tinha de escrever de pé. Hoje, o BuildSelf partilha os benefícios científicos da rotina de escrita de pé de Woolf.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Can someone who doesn't play any instruments benefit from Casals's morning routine?"
     answer: "Yes, definitely. While playing an instrument provides tactile and motor cortex activation, active listening—focusing entirely on the auditory experience with closed eyes—effectively synchronizes alpha waves. The key is active engagement with the acoustic waves rather than leaving it as background noise."
+
 ---
 
 Pablo Casals, the Spanish cello legend who resurrected Bach's Cello Suites. Until he passed away at 96, he maintained a unique morning routine for over 80 years. After a light morning walk, he sat at the piano to play two Bach preludes. He called this a blessing rather than practice. We explore the cognitive effects of this morning music ritual on brain synchronization and emotional regulation.

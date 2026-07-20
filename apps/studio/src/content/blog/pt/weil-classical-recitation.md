@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Weil preferia textos em grego antigo para recitar?"
     answer: "Acreditava que línguas clássicas estrangeiras exigiam maior esforço cognitivo, evitando a habituação passiva e forçando a mente a prestar 100% de atenção a cada sílaba."
+
 ---
 
 Simone Weil, a brilhante filósofa francesa que dedicou a sua vida à verdade. Acreditava que a 'atenção' é a ferramenta mais sagrada do intelecto. Para cultivá-la, recitava o Pai Nosso em grego antigo ou passagens de Platão de manhã. Descrevia esta vocalização como uma limpeza mental para sintonizar a mente. Conheça a ciência da recitação vocal.

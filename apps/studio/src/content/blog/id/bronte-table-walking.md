@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Aktivitas fisik berjalan saja menghasilkan efek penyegaran yang sama (peningkatan kreativitas sebesar 60%) karena sekresi BDNF dan peningkatan aliran darah otak. Saat sendiri, Anda dapat meniru stimulus metakognitif dengan 'menjelaskan ide secara langsung kepada diri sendiri di cermin' atau 'menetapkan kritikus virtual dan mengajukan pertanyaan pada diri sendiri saat berjalan'."
   - question: "Bukankah mendengarkan umpan balik yang kritis justru menyakiti perasaan Anda dan memadamkan keinginan kreatif Anda?"
     answer: "Ini adalah kesalahan kognitif yang umum. Jika otak menganggap kritik sebagai 'serangan terhadap diri sendiri,' ia akan membangun pertahanan dan dorongan kreatif akan menurun. Untuk mencegah hal ini, Anda harus memisahkan secara ketat 'kepribadian saya' dan 'karya saya.' Ingatlah bahwa umpan balik hanyalah data netral untuk melengkapi celah struktural dalam karya tersebut, sehingga mengaktifkan mekanisme penyetelan otak."
+
 ---
 
 Charlotte Brontë, penulis 'Jane Eyre,' novel yang memberikan kejutan terbesar dalam sejarah sastra Inggris abad ke-19. Ia menjalani hidup yang sangat terisolasi dan miskin bersama saudara-saudaranya, Emily dan Anne Brontë di sebuah pastoran terpencil di Haworth, Yorkshire. Dalam lingkungan terisolasi tanpa rangsangan intelektual yang memadai atau pertukaran luar, bagaimana ketiga saudari ini secara bersamaan menyelesaikan mahakarya seperti 'Jane Eyre' dan 'Wuthering Heights'?

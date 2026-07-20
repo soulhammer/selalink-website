@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, revisar las prioridades en voz alta 30 minutos antes del trabajo preactiva el control ejecutivo de la corteza prefrontal."
   - question: "¿Cómo puedo sustituir este hábito si no tengo un tablero de notas dedicado?"
     answer: "Simplemente decirse a sí mismo en voz alta en una habitación tranquila las 3 tareas clave del día anotadas en un cuaderno es suficiente."
+
 ---
 
 Margaret Thatcher, la primera mujer primera ministra de Gran Bretaña y la dama de hierro que superó con frialdad y firmeza las dificultades de la crisis económica británica mediante reformas conservadoras de línea dura y reestructuración económica, colocando a Gran Bretaña en una posición poderosa. Se sentaba en el estudio de la Oficina del Primer Ministro todas las noches hasta las 2 o 3 de la madrugada, examinando cientos de páginas de voluminosos documentos e informes de proyectos de ley presentados por funcionarios del gabinete. Con un marcador amarillo en la mano, fue entre líneas del informe, ignorando la retórica innecesaria y el texto burocrático, rastreando y subrayando sólo tres pilares clave: la viabilidad de las políticas nacionales, los indicadores presupuestarios y las cuestiones legales. Esta rutina de mechas nocturnas fue la fuerza de voluntad que ayudó a superar los difíciles problemas de Gran Bretaña de una sola vez.

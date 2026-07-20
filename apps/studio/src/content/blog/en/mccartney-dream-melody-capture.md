@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if I wake up and remember absolutely nothing from my dreams?"
     answer: "That is normal. If you remember no dreams, perform a stream-of-consciousness writing exercise instead. Free-write three lines of whatever words happen to cross your mind without filtering. This still acts as a cognitive warm-up, unlocking lateral thinking and preparing the brain for creative performance during the day."
+
 ---
 
 Paul McCartney, the musical genius behind The Beatles, composed Yesterday, one of the most covered songs in history, directly from a dream. Waking up in London in 1964, a melody resonated in his head. Fearing it would slip away, he leaped out of bed and instantly played it on his piano, securing the raw inspiration before his conscious mind erased it. This habit of capturing dream fragments became the crucible for many of his hits. We explore the neurobiology of the hypnagogic state, the twilight zone between sleep and wakefulness where the brain generates its most unrestrained creative associations.

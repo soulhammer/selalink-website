@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Hat das Abtippen denselben Effekt?"
     answer: "Tippen ist ein einfacher, immer gleicher Tastendruck, weshalb die Stimulation des Scheitellappens im Vergleich zum analogen Schreiben, bei dem Striche gezogen und Druck angepasst werden, sehr gering ist."
+
 ---
 
 Johann Sebastian Bach, der Vater der Musik, vollendete die Barockmusik. Seine geniale Logik basierte auf einer lebenslangen Gewohnheit: dem handschriftlichen Kopieren der Werke großer Meister bei Kerzen- oder Mondlicht. Als Junge stahl er Partituren seines Bruders, um sie nachts heimlich abzuschreiben. Das Abschreiben war für ihn kein passives Lernen, sondern ein Einprägen der mathematischen Struktur der Musik durch die Feinmotorik der Hand. Heute zeigt BuildSelf, wie Sie durch ein analoges Abschreibe-Ritual Ihre logische Denkfähigkeit verbessern.

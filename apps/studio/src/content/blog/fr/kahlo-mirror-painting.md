@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si me regarder dans le miroir me stresse parce que je ne vois que des défauts ou des rides ?"
     answer: "C'est un phénomène très naturel. Au début, l'instinct d'évaluation physique est fort. Essayez alors de vous concentrer uniquement sur votre 'pupille' plutôt que sur tout le visage. Il est utile de fixer le regard avec le sentiment d'entrer en contact avec votre existence même."
+
 ---
 
 Frida Kahlo, la légendaire peintre mexicaine, a enduré d'immenses souffrances physiques à la suite de la polio et d'un terrible accident de bus qui a brisé ses os et nécessité plus de 30 opérations. Clouée au lit dans une situation désespérée, ce qui a sauvé son âme et a fait d'elle une artiste de renommée mondiale est un simple 'miroir' qui la reflétait chaque jour.

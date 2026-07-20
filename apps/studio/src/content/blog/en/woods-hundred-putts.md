@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if the stress increases and hinders my concentration?"
     answer: "That happens when the goal is too difficult relative to your current ability, causing the brain to emit stress hormones. Lower the intensity to keep success probability around 70-80%."
+
 ---
 
 Tiger Woods, called the emperor of mental sports and the most dominant golf champion in history. He showed steel-like mental strength even at the tense 18th hole of major championships. His unshakable mind originated from his pre-training routine: the 100 consecutive putts rule. We analyze this terrifying ritual where failing once means starting over even after 99 successes.

@@ -21,6 +21,7 @@ faqs:
     answer: "Simply spinning a pen or spinner is a repetitive motor habit that only triggers basal ganglia pathways, offering low haptic feedback for parietal lobe recruitment. Using geometric wooden puzzles, scale models, or cubes forces the brain to coordinate fine motor control to perceive shapes, yielding far superior cognitive stimulation."
   - question: "Comment puis-je limiter mon champ visuel sans viseur de réalisateur ?"
     answer: "Even without a viewfinder, you can achieve the same visual framing effect by cutting a small square hole in a card or simply forming a circle with your fingers (like an OK sign) and looking through it with one eye closed. The principle of filtering out peripheral visual noise remains identical."
+
 ---
 
 Steven Spielberg formait un viseur avec ses mains pour visualiser les scènes. Cette habitude l'a aidé à cadrer et à concentrer son attention spatiale.

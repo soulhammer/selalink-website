@@ -21,6 +21,7 @@ faqs:
     answer: "Angst entsteht, wenn sich Ihr Geist auf Versagensszenarien konzentriert. Stoppen Sie die Vorstellung, erden Sie sich auf körperliche Berührungen oder Atemgeräusche und dehnen Sie sich, um sich zu entspannen."
   - question: "Was ist die ideale Dauer für eine mentale Trainingseinheit?"
     answer: "Halten Sie es kurz – 3 bis 5 Minuten fokussiertes Eintauchen sind ideal. Das präfrontale Arbeitsgedächtnis ist begrenzt, daher bringen schnelle Simulationen kurz vor dem Ereignis die besten Ergebnisse."
+
 ---
 
 Ayrton Senna, einer der größten F1-Fahrer der Geschichte, hatte neben dem körperlichen Training ein intensives mentales Programm. Minuten vor einem Rennen saß er mit aufgesetztem Helm mit geschlossenen Augen völlig still in seinem Cockpit. In seinem Geist hatte das Rennen bereits begonnen und simulierte jede Kurve, jeden Gangwechsel und jeden Bremspunkt.

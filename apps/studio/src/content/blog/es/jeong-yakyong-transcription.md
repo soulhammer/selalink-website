@@ -21,6 +21,7 @@ faqs:
     answer: "No. Escribir a mano activa el córtex somatosensorial con mayor intensidad, mejorando la codificación de la memoria. El teclado es rápido pero carece del estímulo táctil diferenciado. La escritura a mano es superior para crear memoria a largo plazo."
   - question: "¿Explicar a alguien cara a cara genera el mismo efecto metacognitivo que una carta?"
     answer: "Sí. Según la pirámide del aprendizaje, enseñar a otros eleva la retención hasta un 90%. Explicarse a uno mismo ante el espejo o hablarlo con un colega activan la metacognición de igual forma."
+
 ---
 
 Dasan Jeong Yak-yong, el gran erudito que sintetizó la ideología Silhak (aprendizaje práctico) de finales de Joseon y dejó una colección de más de 500 volúmenes de escritos. Debido a intrigas políticas, sufrió 18 años de exilio en una miserable choza en Gangjin. ¿Cómo superó la frustración y construyó un legado académico en un aislamiento similar a la prisión?

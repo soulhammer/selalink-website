@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Do I have to write standing up? Can't I sit down?"
     answer: "Sitting on a sofa or chair immediately after returning induces rapid relaxation and drops alertness. The standing posture maintains physical arousal to preserve working memory, making it cognitively advantageous to stand for those first 10 minutes."
+
 ---
 
 Søren Kierkegaard, a pioneer of existentialist philosophy born in 19th-century Denmark. The sharp, original philosophical aphorisms and writings he left behind were completed at multiple standing desks placed throughout his house. Kierkegaard was a unique walker who strolled the streets of Copenhagen every day. He was anxious that the inspirations gathered on the street would dissipate during the domestic routine of taking off his coat and organizing items upon entering the house. Thus, the moment he opened the door, he ran straight to a standing desk while still wearing his hat and coat. Today, BuildSelf shares the neuroscientific principles behind Kierkegaard's standing writing routine and how to capture ideas instantly.

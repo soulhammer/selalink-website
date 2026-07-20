@@ -21,6 +21,7 @@ faqs:
     answer: "Tentu saja. Anda tidak harus memainkan melodi yang rumit. Sebagai pengganti instrumen, putar lagu klasik instrumental dan fokuslah pada alunan nadanya sambil mengatur napas."
   - question: "Bagaimana mencuci muka dengan air dingin merangsang saraf vagus?"
     answer: "Saat air dingin menyentuh wajah, tubuh memicu diving reflex, yang menurunkan detak jantung secara halus dan mengarahkan aliran darah untuk memberi oksigen pada otak."
+
 ---
 
 Arthur Schopenhauer, filsuf Jerman yang mendefinisikan dunia sebagai kehendak dan representasi. Bagaimana ia mempersiapkan pikirannya yang tajam setiap pagi? 🎶

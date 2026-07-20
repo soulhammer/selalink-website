@@ -21,6 +21,7 @@ faqs:
     answer: "Yes. However, set your phone to Do Not Disturb to avoid notifications, or place a widget on the home screen to minimize input delay."
   - question: "What about recording audio and transcribing it later?"
     answer: "Audio recording helps capture details but causes working memory fatigue during transcription. Jotting down raw keywords during the event is much better for semantic mapping."
+
 ---
 
 Margaret Mead, the world-renowned cultural anthropologist who shifted the paradigm of 20th-century anthropology, lived for years in remote areas like Samoa. The reason Mead's writings are recognized for their extreme accuracy even 100 years later was her unique note-taking formula. Staring at something, Mead never delayed even for an hour, pulling out a mini-notepad to write. We dissect Mead's immediate note-taking mechanism.

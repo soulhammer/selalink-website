@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué pasa si vivo en un piso compartido y no puedo crear una habitación física separada?"
     answer: "Si la separación física es imposible, construya una barrera acústica con auriculares con cancelación de ruido que reproduzcan ruido rosa de baja frecuencia. Además, coloque un pequeño letrero de No molestar en su escritorio o ajuste su horario para despertarse 2 horas antes que los demás, capturando el silencio de la mañana como su santuario cognitivo."
+
 ---
 
 George Bernard Shaw, el brillante dramaturgo y crítico irlandés, era famoso por su lengua afilada, pero en su rutina de trabajo era increíblemente disciplinado. Para evitar interrupciones de amigos y visitantes, construyó una pequeña cabaña de madera para escribir en el fondo de su jardín en Ayot St Lawrence. La cabaña se asentaba sobre un chasis de acero giratorio, lo que le permitía empujarla manualmente para seguir al sol a medida que se movía por el cielo, llenando su espacio de trabajo con luz natural. Para evadir a los huéspedes imprevistos, le decía a su personal que dijera que se había ido a Londres. Examinamos la psicología de este aislamiento dedicado combinado con el seguimiento de la luz del día.

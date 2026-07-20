@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, los registros históricos confirman que Napoleón podía dormirse casi al instante incluso con el estruendo de los cañones, y despertarse exactamente 15 minutos después para dar órdenes tácticas."
   - question: "¿Cuál es the best hora del día para tomar una micro-siesta?"
     answer: "El horario ideal es entre las 13:00 y las 15:00, coincidiendo con la caída natural de la alerta. Evita dormir después de las 16:00 para no afectar el sueño nocturno."
+
 ---
 
 Napoleon Bonaparte, el legendario estratega militar y emperador de Francia. Famoso por su energía inagotable, gobernaba y batallaba con solo 4 horas de sueño nocturno. Su secreto eran las 'micro-siestas': dormir 10 o 15 minutos en cualquier momento libre, incluso en batalla. Hoy, BuildSelf analiza cómo las siestas estratégicas resetean tu mente.

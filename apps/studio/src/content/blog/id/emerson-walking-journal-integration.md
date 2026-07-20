@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bisakah saya menggunakan memo suara atau aplikasi catatan digital di ponsel saya saat berjalan?"
     answer: "Ya, asalkan Anda meminimalkan gangguan digital. Gunakan aplikasi yang dapat diluncurkan langsung dari layar kunci Anda dalam mode offline untuk menghindari notifikasi. Nilai intinya bukan pada kertas itu sendiri, tetapi pada perlindungan mode difus."
+
 ---
 
 Ralph Waldo Emerson, pemimpin intelektual gerakan Transendentalis di Amerika abad ke-19, menginspirasi generasi dengan esainya Self-Reliance dan Nature. Dasar dari filosofinya yang mendalam adalah siklus kognitif dua tahap. Di siang hari, ia mengembara di hutan Concord dengan buku catatan saku kulit, menangkap pikiran sekilas dengan pensil. Di malam hari, ia duduk di mejanya untuk mentransfer fragmen mentah ini ke dalam jurnal besar berikat kulit, memperluasnya menjadi esai yang koheren.

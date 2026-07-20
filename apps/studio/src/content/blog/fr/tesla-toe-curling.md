@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Le fait de plier les orteils aide-t-il vraiment à activer le cerveau ?"
     answer: "Oui, la zone des orteils est située dans le cortex somatosensoriel près du centre du cerveau. Stimuler ces micro-muscles active le cortex préfrontal."
+
 ---
 
 Le scientifique de génie qui a éclairé le monde aux côtés d'Edison et jeté les bases de notre civilisation électrique, Nikola Tesla. Saviez-vous qu'il répétait un geste très étrange chaque soir dans son lit ? ⚡

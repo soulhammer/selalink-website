@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que fazer se meus pensamentos se desviarem para distrações?"
     answer: "Isso é natural no início. Quando surgirem distrações, não as reprima; em vez disso, olhe para a placa 'THINK' e retorne suavemente ao assunto."
+
 ---
 
 Thomas Watson, o primeiro presidente da IBM. Ele determinou que cartões com a palavra 'THINK' fossem colocados em todos os cantos da empresa. Sentava-se em silêncio por mais de 15 minutos todas as manhãs, sem documentos ou canetas. Explore a eficácia deste sinal simples e hábito de pensar.

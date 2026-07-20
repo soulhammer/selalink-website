@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Trabalhar na cama não dá sono ou preguiça?"
     answer: "Pode acontecer. Por isso, a rotina não é apenas deitar-se, mas apoiar o tronco com travesseiros para manter um estado de 'relaxamento alerta'. Fique longe do celular durante este tempo."
+
 ---
 
 Mark Twain, que abriu um horizonte único na literatura americana com os romances 'As Aventuras de Tom Sawyer' e 'As Aventuras de Huckleberry Finn,' é conhecido como um dos maiores humoristas da história. Surpreendentemente, seu humor afiado e suas descrições vívidas nasceram no lugar mais confortável e aparentemente preguiçoso: sua 'cama' aconchegante.

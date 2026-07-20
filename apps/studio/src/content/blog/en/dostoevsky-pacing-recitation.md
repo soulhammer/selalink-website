@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Is whispering or silent reading less effective than speaking aloud?"
     answer: "Thinking silently does not trigger brain language control and oral feedback activation as much, so you must vocalize completely with a clear voice to get the synergy."
+
 ---
 
 Fyodor Dostoevsky, who pioneered the deep peak of human psychological portrayal. How could his narrative offer such overwhelming vitality? According to his shorthand assistant and wife Anna's records, when writing, he paced the room like mad, screaming and reciting monologues like his characters. Explore the secret of this unique writing method combining spoken voice and steps.

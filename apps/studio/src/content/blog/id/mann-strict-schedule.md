@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, karena dia mencurahkan 100% energi otaknya di pagi hari, dia menyadari bahwa kemampuan kognitifnya habis setelah jam 1 siang. Dia hanya menangani pekerjaan ringan seperti membaca dan jalan-jalan di sore hari."
   - question: "Bisakah saya melakukan Kerja Mendalam pada malam hari, bukan pagi hari?"
     answer: "Tergantung pada jam biologis individu (tipe burung hantu malam), beberapa orang memiliki efisiensi puncak pada malam hari. Prinsip utamanya adalah mengamankan waktu terus menerus selama 2 jam atau lebih saat rangsangan luar diblokir."
+
 ---
 
 Thomas Mann, pemenang Hadiah Nobel Sastra yang berdiri tegak sebagai novelis yang mewakili sejarah intelektual Jerman dengan menulis 'The Magic Mountain' dan 'Buddenbrooks.' Narasi-narasinya yang luas, lahir bukan dalam momen inspirasi yang tidak disengaja, melainkan dalam kontrol waktu yang beroperasi seperti roda gigi mesin. 🕰️

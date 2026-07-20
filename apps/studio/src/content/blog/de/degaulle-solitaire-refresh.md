@@ -21,6 +21,7 @@ faqs:
     answer: "Apps haben zwar dieselben Regeln, aber Blaulicht, Werbung und Benachrichtigungen halten den Stirnlappen aktiv. Physische Karten mit echtem Tastsinn sind für die Entspannung weitaus besser."
   - question: "Verursacht es nicht Frust, wenn das Spiel stecken bleibt und nicht aufgeht?"
     answer: "Das Ziel ist nicht das Gewinnen, sondern die Ablenkung. Auch wenn das Spiel nicht aufgeht, hat das Wippen das Gehirn entlastet. Mischen Sie einfach neu und fangen Sie von vorne an."
+
 ---
 
 Charles de Gaulle führte das 'Freie Frankreich' und gründete die moderne Republik. Wie baute er den extremen Stress ab? 🃏

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What if I accidentally skip a routine step?"
     answer: "The brain may overreact to the unexpected disruption, temporarily increasing anxiety. Try starting over or flexibly move to the next step."
+
 ---
 
 Michael Phelps, a legend in swimming history, winning 28 Olympic medals. Even in front of the tense start blocks, he maintained a remarkably calm and cool mind. Behind his perfect mental control was a high-precision routine running with no errors exactly 2 hours before the race starts. Explore the minute-by-minute mind setting he practiced.

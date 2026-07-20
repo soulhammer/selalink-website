@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, Tchekhov reduzia a carga cognitiva e organizava seus pensamentos por meio de um ritual tranquilo de chá após o trabalho às 15h."
   - question: "Como posso substituir se não tiver um jogo de chá?"
     answer: "Mesmo sem um jogo de chá elegante, tomar uma xícara de água morna ou chá de ervas concentrando-se nos sentidos por 5 minutos é suficiente."
+
 ---
 
 Anton Chekhov, o auge da literatura realista russa e um grande dramaturgo que completou a base do conto moderno, capturou os conflitos minuciosos, a hipocrisia e a turbulência emocional das pessoas comuns na vida cotidiana da maneira mais cuidadosa e contundente e os transformou em peças. Ele sentou-se calmamente num banco na sala de espera de um trem ou no canto de um café ao ar livre e observou as pessoas passando. Ele anotou características extremamente específicas da pessoa em um caderno no bolso do casaco, como uma marca invisível de penugem na gola de um terno, a bainha de um terno com um botão arrancado e o leve tremor nos olhos de um transeunte quando ele ou ela está nervoso. Essa coleção de detalhes extremamente finos foi a base para a construção de personagens tridimensionais e realistas em seus romances.

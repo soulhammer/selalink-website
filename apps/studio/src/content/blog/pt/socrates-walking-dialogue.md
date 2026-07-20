@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Caminhar numa passadeira interior tem o mesmo efeito?"
     answer: "Embora o fluxo sanguíneo seja semelhante, o estímulo visual e espacial da natureza exterior e o efeito de reduzir o cortisol são maximizados quando se caminha ao ar livre ou em parques."
+
 ---
 
 Sócrates, o sábio de Atenas que estabeleceu as raízes da filosofia ocidental. Os registros de Platão descrevem um hábito diário único: caminhar sem cessar na praça pública ou no bosque, fazendo perguntas e debatendo com outros. Sócrates caminhava descalço sob a sombra das árvores da Ágora. Para ele, caminhar não era mero fitness, mas um laboratório de sabedoria que sincronizava o movimento físico com a plasticidade do seu cérebro. Hoje, o BuildSelf partilha os segredos do passeio reflexivo para superar a fadiga mental da tarde.

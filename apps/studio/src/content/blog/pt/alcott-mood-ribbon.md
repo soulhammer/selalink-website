@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que devo fazer se as pessoas ao redor não gostarem desta rotina, sentindo que ela prejudica a comunicação?"
     answer: "Evite manter o sinal ativo por horas excessivamente longas. É importante limitar o tempo de foco a no máximo 50-60 minutos, e construir confiança ativamente ao mostrar que você está disponível para conversar em outros momentos."
+
 ---
 
 Louisa May Alcott, a grande romancista americana que emocionou inúmeros leitores com o clássico 'Mulherzinhas'. Como ela conseguia focar na escrita sem ser perturbada enquanto sua numerosa família morava junta em uma casa movimentada? 🎀

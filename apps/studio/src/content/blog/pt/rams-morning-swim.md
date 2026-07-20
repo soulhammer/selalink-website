@@ -21,6 +21,7 @@ faqs:
     answer: "Não. Nadar era apenas o exercício favorito de Rams. Serve qualquer exercício aeróbico que ative o fluxo sanguíneo cerebral, como caminhar, alongar-se ou caminhar rápido por 10 minutos."
   - question: "Não posso observar edifícios urbanos ou interiores em vez da natureza?"
     answer: "Interiores de design ou edifícios geométricos exigem interpretações analíticas do cérebro (atenção dirigida). Para recuperar a fadiga cognitiva, é ideal contemplar objetos naturais que não exijam análises."
+
 ---
 
 "Menos, mas melhor". Dieter Rams, a lenda viva do design que revolucionou o design industrial do século XX como diretor da Braun e inspirou mestres como Jony Ive da Apple. De onde surgiram suas ideias geniais para simplificar o mundo? 🏊‍♂️

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que fazer se o estresse aumentar e prejudicar minha concentração?"
     answer: "Isso acontece quando o objetivo é difícil demais para sua capacidade atual. Reduza a intensidade para manter a probabilidade de sucesso em cerca de 70-80%."
+
 ---
 
 Tiger Woods, o campeão de golfe mais dominante da história. Ele mostrou força mental de aço mesmo no tenso buraco 18 dos principais campeonatos. Sua mente inabalável originou-se de sua rotina pré-treino: a regra dos 100 putts consecutivos. Analisamos este ritual onde falhar uma vez significa começar de novo.

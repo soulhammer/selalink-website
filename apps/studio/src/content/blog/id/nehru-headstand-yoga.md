@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Penderita nyeri leher harus menghindari menopang berat tubuh dengan kepala. Sebagai gantinya, berbaringlah dan luruskan kaki ke atas menempel dinding dengan bantal di bawah pinggul."
   - question: "Kapan waktu terbaik untuk melakukan headstand?"
     answer: "Pagi hari sebelum sarapan atau tepat sebelum mulai bekerja adalah waktu ideal. Headstand di pagi hari mengirimkan oksigen ke sel otak, membangunkan Anda. Hindari melakukannya setelah makan."
+
 ---
 
 Jawaharlal Nehru memimpin perjuangan kemerdekaan India. Di balik pakaian putihnya, ia menghabiskan 9 tahun di penjara. 🧘

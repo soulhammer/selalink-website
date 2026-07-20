@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, die Einschränkung des Fokus und der Einstieg in komplexe Konzentration durch geräuschvolle Rhythmen."
   - question: "Wie kann ich den Grammophon-Ersatz nutzen, wenn ich keinen habe?"
     answer: "Nutzen Sie Kopfhörer mit schnellem weißem Rauschen, mechanischen Klängen oder rhythmischer Musik, um den Fokus zu starten."
+
 ---
 
 John von Neumann, der intelligenteste Mensch der Menschheitsgeschichte und ein genialer Mathematiker aus Ungarn, der im Alleingang die Grundlagen moderner Humanstudien (Spieltheorie, Neumann-Architektur) in allen Bereichen, einschließlich Mathematik, Informatik, Wirtschaftswissenschaften und Quantenmechanik, entworfen hat. Er war in der Lage, komplexe mathematische Formeln und Computerarchitekturformeln ohne Schwierigkeiten abzuleiten, selbst während er in einer Ecke einer Party bei lauter Musik oder auf einer Bank in einem lauten Wartezimmer saß, wo ein Zug wackelte und Dampf ausströmte. Egal wie laut seine Umgebung war, er isolierte seine kognitiven Ressourcen ausschließlich auf der virtuellen Tafel, die er in seinem Kopf konstruiert hatte. Diese Routine der Isolation und des Eintauchens in weißes Rauschen machte ihn zum genialsten Mathematiker der Geschichte.

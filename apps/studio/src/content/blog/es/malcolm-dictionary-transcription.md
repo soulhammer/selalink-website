@@ -21,6 +21,7 @@ faqs:
     answer: "No. El teclado utiliza movimientos repetitivos y simples. La escritura a mano requiere coordinar trazos individuales, lo que activa áreas complejas del cerebro, logrando mayor enfoque y memoria."
   - question: "¿Debo preocuparme por tener una letra bonita?"
     answer: "No, no necesita ser bonita. El entrenamiento consiste en enfocar el cerebro en la presión y control del bolígrafo. Escribir con soltura enfocándose en la sensación táctil es más útil."
+
 ---
 
 Malcolm X, el orador y líder que cautivó a multitudes. Detrás de sus fluidas palabras y carisma se ocultaba un pasado en el que no podía escribir una sola frase correcta. 📖

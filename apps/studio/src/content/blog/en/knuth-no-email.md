@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How do I notify colleagues about my offline schedule to avoid misunderstandings?"
     answer: "Set an auto-responder or put a status message stating: 'I check email twice daily to focus on projects. For emergencies, contact me via phone/specific channel.' This manages expectations, reduces anxious follow-ups, and protects your offline boundary without hurting professional relationships."
+
 ---
 
 Donald Knuth, the computer science pioneer who wrote The Art of Computer Programming. Despite being at the center of the computer revolution, he made a radical choice in 1990: he completely quit email. He stated his role is not to stay on top of things, but to get to the bottom of things. Instead, he accepts inquiries via physical mail or fax, processing them batch-style every few months. We explore the cognitive value of this extreme offline routine in shielding focus.

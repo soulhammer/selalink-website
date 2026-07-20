@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Are warm-up letters effective for mathematical calculations or design work as well?"
     answer: "Yes, it is highly effective. Regardless of the task type, the anxiety and perfectionism barriers at the starting phase originate from the same brain region (amygdala). Doing scribbles before opening design tools or writing simple notes before coding builds a cognitive buffer, lubricating main creative pathways."
+
 ---
 
 Nobel Prize-winning author of landmark masterpieces like The Grapes of Wrath and East of Eden, John Steinbeck. Even as a world-renowned master, he was weighed down by psychological resistance and the fear of starting whenever he stood before a blank paper every morning. To neutralize this fear, Steinbeck devised a unique warm-up ritual. Before writing the novel, he wrote letters about weather, yesterday's fatigue, or minor rheumatoid pain to his friend and editor Pascal Covici. Explore how this simple warm-up rescues the brain from the trap of perfectionism.

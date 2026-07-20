@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, menghirup udara pagi yang segar dan fokus pada sentuhan serta tekstur benda alam sangat baik untuk mengaktifkan area sensorik otak dan meredakan stres."
   - question: "Bagaimana cara menggantinya jika saya tidak berada di gurun atau lingkungan berbatu?"
     answer: "Cukup berjalan santai di taman kota dan amati atau sentuh objek bertekstur alam seperti daun, kelopak bunga, atau kerang."
+
 ---
 
 Georgia O'Keeffe, ibu baptis seni modernis Amerika dan pelukis wanita yang memelopori gaya lukisan bunga dan tulang gurun yang unik dalam sejarah seni Barat abad ke-20, dan dengan luar biasa memperbaiki bentuk-bentuk sepele Ibu Pertiwi di atas kanvas menggunakan teknik close-up yang terfokus. Dia berdiri di tengah gurun tandus dan berjam-jam menatap tulang-tulang kasar hewan yang tidak disadari, urat-urat bunga layu yang rumit, dan tekstur butiran pasir, diperbesar 10x atau lebih seolah-olah melalui kaca pembesar. Dia menciptakan dampak visual dengan menutup detail terkecil objek dalam ukuran besar di seluruh kanvas. Fokus visual yang mendetail dan rutinitas rendering yang maksimal inilah yang menjadikannya sebagai master mutlak seni modern.

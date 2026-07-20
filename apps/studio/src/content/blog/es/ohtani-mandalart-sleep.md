@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Puedo reducir las horas de sueño si 10 horas no es realista para mí?"
     answer: "El estándar de 10 horas es para atletas de alto rendimiento; dormir entre 7 y 8 horas es suficiente para la mayoría de las personas. La clave está en mejorar la calidad y proporción de sueño profundo controlando el ambiente."
+
 ---
 
 La estrella de las Grandes Ligas Shohei Ohtani. El secreto para mantener un nivel de élite se basa en dos rutinas: el plan Mandalart de 81 casillas y su hábito de dormir al menos 10 horas, incluso llevando su propia almohada a los viajes. Analizamos cómo este rigor resetea el cerebro y los músculos.

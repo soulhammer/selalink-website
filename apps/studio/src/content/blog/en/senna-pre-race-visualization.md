@@ -21,6 +21,7 @@ faqs:
     answer: "Anxiety rises when your mind focuses on failure scenarios. Stop the imagery, ground yourself on physical touch or breath sounds, and stretch to relax."
   - question: "What is the ideal duration for a mental rehearsal session?"
     answer: "Keep it short—3 to 5 minutes of focused immersion is ideal. Prefrontal working memory is limited, so quick simulations right before the event yield the best results."
+
 ---
 
 Ayrton Senna, one of the greatest F1 drivers in history, had an intense mental routine alongside physical training. Minutes before a race, he sat in his cockpit with his helmet on, eyes closed, completely still. Inside his mind, the race had already begun, simulating every turn, gear shift, and braking point. We analyze the mechanism of Ayrton Senna's mental rehearsal.

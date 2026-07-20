@@ -21,6 +21,7 @@ faqs:
     answer: "Nietzsche marchait principalement aprs le petit-djeuner jusqu'au djeuner, puis en fin d'aprs-midi. Il prfrait les sentiers de montagne et forts pour s'inspirer."
   - question: "Doit-on obligatoirement marcher en extrieur ?"
     answer: "Mme si l'extrieur est idal, faire les cent pas dans un couloir ou un bureau peut suffire  crer une transition cognitive et recentrer l'attention."
+
 ---
 
 Friedrich Nietzsche, le célèbre philosophe qui déclarait que « toutes les pensées vraiment grandes sont conçues en marchant ». Luttant contre des problèmes de santé chroniques, il passait ses étés à Sils Maria, en Suisse, à marcher dans les forêts et les montagnes jusqu'à huit heures par jour. Un carnet à la main, il notait immédiatement ses idées. Aujourd'hui, BuildSelf montre comment l'activité physique libère la créativité.

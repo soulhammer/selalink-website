@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, o biógrafo John Aubrey, contemporâneo e amigo de Hobbes, descreve isso em detalhes na obra Brief Lives, confirmando que ele adaptou um tinteiro na bengala para não perder insights ao caminhar."
   - question: "O que é mais eficaz: notas de voz ou escritas no celular?"
     answer: "Ao caminhar, as notas de voz são mais rápidas e seguras por evitarem desviar a atenção para a tela do celular. Digitar exige coordenação fina e interrompe o ritmo, sendo a gravação de voz recomendada em movimento."
+
 ---
 
 Thomas Hobbes, autor de 'Leviatã', clássico sobre a legitimidade do poder estatal. Seu sofisticado sistema filosófico, base da ciência política moderna, não foi esculpido em um gabinete, mas em vales e caminhos de terra. E contava com um aliado singular. 🦯

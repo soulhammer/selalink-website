@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, quando você escreve como se estivesse escrevendo uma carta para alguém que ouvirá seus pensamentos íntimos sem preconceitos, como o fictício Theo, a verbalização honesta de suas emoções e o efeito de desintoxicação cerebral são maximizados."
   - question: "Posso usar um aplicativo de memorando digital?"
     answer: "Um caderno analógico é recomendado para purificação emocional porque usar a escrita à mão é muito mais benéfico para aumentar o estado de alerta do córtex somatossensorial do cérebro e acalmar o lobo frontal."
+
 ---
 
 Vincent van Gogh, um dos maiores pintores da história da arte no final do século XIX e um pioneiro do expressionismo, foi um pintor genial que vendeu apenas um quadro durante a sua vida devido à pobreza extrema e ao isolamento mental, mas deixou para trás obras-primas imortais que hoje dominam os sentidos humanos. Como um mestre absoluto do pós-impressionismo francês, ele escreveu mais de 660 cartas para seu irmão Theo ao longo de sua vida para superar a solidão em meio a ataques internos e alienação devastadores. Todas as noites ele saía da tela, acendia uma vela em seu quarto e purificava a mente derramando em forma epistolar a angústia que pesava em seu coração e a inspiração da cor.

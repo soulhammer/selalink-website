@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Não tenho pincéis de caligrafia em casa, posso usar ferramentas normais?"
     answer: "Uma caneta-tinteiro, uma caneta de caligrafia de ponta flexível ou mesmo um lápis sobre papel texturizado bastam. O importante é que o cérebro perceba a resistência da ponta e a dosagem da força ao escrever em tempo real. Qualquer ferramenta que ofereça uma retroalimentação tátil clara serve."
+
 ---
 
 Lee Byung-chul, o fundador da Samsung que forjou o milagre dos semicondutores na Coreia. Por trás de suas grandes decisões comerciais, existia um ritual oriental silencioso a cada manhã. Ao acordar, sentava-se sozinho em sua biblioteca a moer tinta e escrever a pincel. Traçar palavras como 'Busca infinita' concentrado na tensão da pluma era sua forma de limpar o ruído da gestão. Analisemos como esta caligrafia tempera as emoções e ativa o foco.

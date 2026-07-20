@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si le silence complet nuit à la concentration ou provoque de l'anxiété ?"
     answer: "Pour les débutants qui se sentent mal à l'aise dans un silence complet, il est recommandé de commencer par diffuser du bruit blanc (bruit de pluie, de vagues, etc.) ou du bruit rose simple sans paroles, afin que le cerveau s'adapte au silence par un processus de cadrage cognitif."
+
 ---
 
 Erwin Schrödinger, le génie autrichien de la physique qui a remporté le prix Nobel de physique et posé les bases de la mécanique quantique moderne en découvrant l'équation de propagation des ondes. Dans quel environnement sont nés ses brillants calculs mathématiques et ses profondes réflexions ? 🌌

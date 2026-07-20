@@ -21,6 +21,7 @@ faqs:
     answer: "Nietzsche berjalan terutama setelah sarapan hingga waktu makan siang, and sekali lagi di sore hari. Ia lebih menyukai jalur pegunungan dan hutan untuk menemukan inspirasi filosofis di alam."
   - question: "Apakah saya harus berjalan di luar ruangan untuk mempraktikkan ini?"
     answer: "Mengenai berjalan di luar ruangan adalah yang ideal, sekadar mondar-mandir dengan tenang di lorong atau di sekitar kantor dapat memberikan peralihan kognitif ringan."
+
 ---
 
 Friedrich Nietzsche, filsuf ikonik yang menyatakan bahwa 'semua pemikiran yang benar-benar hebat lahir saat berjalan.' Berjuang melawan masalah kesehatan kronis, ia menghabiskan musim panasnya di Sils Maria, Swiss, berjalan melewati hutan dan pegunungan hingga delapan jam sehari. Dengan buku catatan di tangan, ia segera mencatat wawasan yang muncul saat bergerak. Hari ini, BuildSelf mengeksplorasi bagaimana aktivitas fisik membuka kreativitas yang mendalam.

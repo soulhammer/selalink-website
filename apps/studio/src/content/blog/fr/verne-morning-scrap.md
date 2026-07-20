@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "En quoi la fiche de recherche de Jules Verne est-elle différente de la méthode Zettelkasten du professeur Niklas Luhmann ?"
     answer: "Alors que le Zettelkasten se concentre sur la création d'un réseau de pensées grâce à des liens numérotés permanents, les fiches de Jules Verne visent à accumuler de grandes archives encyclopédiques de données scientifiques par catégories pour soutenir la plausibilité de ses œuvres."
+
 ---
 
 Jules Verne, pionnier de la science-fiction qui a décrit des aventures fantastiques et des imaginations brillantes en avance sur son temps dans des textes comme 'Vingt mille lieues sous les mers' et 'Le Tour du monde en quatre-vingts jours'. D'où venaient ses connaissances détaillées qui ont prédit les satellites, les sous-marins et les fusées lunaires au XIXe siècle ? 🗺️

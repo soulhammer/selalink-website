@@ -21,6 +21,7 @@ faqs:
     answer: "Unlocking a smartphone and locating the app exposes you to distractions like SNS notifications or emails, making it easy to lose inspiration. Conversely, a paper notebook allows instant writing upon opening and, through tactile pen stimulation, more reliably awakens the brain's critical RAS filter."
   - question: "Are there actual cases where a small idea written in a notebook was used in business or work?"
     answer: "Yes, Virgin Atlantic, Richard Branson's flagship business, began with a notebook entry. When his flight to Puerto Rico was canceled, he wrote 'Run alternative airline?' in his notebook, immediately called for charter prices, and flew the plane by selling one-way tickets to other stranded passengers. That single note was the origin of a global airline."
+
 ---
 
 Richard Branson, the billionaire entrepreneur who established the British icon Virgin Group and built a diverse business empire of over 400 companies spanning aviation, space, finance, and entertainment. Famous for his creative marketing and adventurous spirit, he has one unique signature item. It is not a luxury watch or a high-tech smart device, but a small analog paper notebook tucked in his jeans pocket.

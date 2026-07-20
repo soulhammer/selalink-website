@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Doit-il s'agir d'une rose jaune ?"
     answer: "Non. Pour Márquez, la rose jaune était un moyen personnel d'apporter un confort psychologique. Vous pouvez choisir librement tout objet qui vous met à l'aise."
+
 ---
 
 Gabriel García Márquez, lauréat du prix Nobel de littérature pour 'Cent ans de solitude'. L'une des sources de son imagination littéraire était une unique rose jaune placée sur son bureau. Si la rose jaune n'était pas là, il n'écrivait pas un seul mot. S'agissait-il d'une simple obsession ou d'une raison scientifique ?

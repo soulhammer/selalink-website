@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Why did Immanuel Kant go for a walk at exactly 3:30 PM every day?"
     answer: "It was a strict ritual to maintain his body's circadian rhythm to sustain high-level abstract philosophical research over decades, protecting his health and mental peace."
+
 ---
 
 The greatest epistemological philosopher in human history and the giant who laid the foundation for modern German idealism, Immanuel Kant. Every day at 3:30 PM, without fail, he left his house wearing the same coat and walked along a fixed path. 🚶‍♂️

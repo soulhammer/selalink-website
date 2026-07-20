@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, Einstein secara teratur pergi berlayar di laut untuk merasakan angin dan bermeditasi, atau tidur lebih dari 10 jam sehari agar alam bawah sadarnya dapat merapikan masalah rumit."
   - question: "Bisakah seseorang yang tidak tahu cara bermain instrumen mengikuti rutinitas ini?"
     answer: "Tentu saja. Alih-alih bermain instrumen, Anda dapat fokus pada musik klasik, mengetuk jari mengikuti irama, atau sekadar bernapas dalam-dalam sambil menutup mata selama 5 menit."
+
 ---
 
 Albert Einstein, fisikawan terbesar dalam sejarah yang mengubah paradigma fisika modern dengan merumuskan teori relativitas dan merevolusi cara manusia memahami semesta. Dari mana datangnya inspirasi fisik luar biasa yang mengubah pikiran manusia ini? 🎻

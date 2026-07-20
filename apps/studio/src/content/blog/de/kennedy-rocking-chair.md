@@ -21,6 +21,7 @@ faqs:
     answer: "Ja. Indem Sie die Wippfunktion Ihres Bürostuhls freigeben und leicht wippen, können Sie die statische Belastung verringern und das Vestibulärsystem anregen."
   - question: "Wie schnell sollte man schaukeln?"
     answer: "Der beste Rhythmus liegt zwischen 0,5 Hz und 1 Hz, also ein vollständiges Wippen alle 1,5 bis 2 Sekunden. Diese Geschwindigkeit beruhigt das Gehirn am effektivsten."
+
 ---
 
 Präsident John F. Kennedy führte Amerika durch die spannensten Momente. Obwohl er dynamisch wirkte, litt er an chronischen Rückenschmerzen. 🪑

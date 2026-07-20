@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Joyce memakai mantel putih saat menulis di ranjang?"
     answer: "Warna putih mantel tersebut memantulkan cahaya secara maksimal ke atas kertasnya, membantu penglihatannya yang sangat lemah."
+
 ---
 
 James Joyce, salah satu penulis paling berpengaruh di abad ke-20 yang memelopori aliran kesadaran melalui epos *Ulysses*. Sepanjang hidupnya, ia menderita penyakit mata parah. Agar tetap bisa menulis dalam kondisi fisik lemah, ia merutinkan menulis di ranjang mengenakan mantel putih dan krayon biru di atas kertas putih. Mari kita pelajari sains di balik rutinitasnya.

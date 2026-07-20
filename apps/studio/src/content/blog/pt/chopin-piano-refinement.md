@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, é um risco real. Para evitá-lo, determine de forma estrita um 'tempo para o esboço' e um 'tempo para polimento'. Limite as revisões a um número fixo (por exemplo, 5 rodadas) para não estagnar."
   - question: "Em que momento deve-se parar de corrigir e dar por concluído o trabalho?"
     answer: "Embora a intuição ajude, o melhor indicador é quando 'as correções já não trazem melhorias significativas em relação à versão anterior'. Quando as alterações são mínimas, o CCA terminou sua tarefa e é hora de entregar."
+
 ---
 
 Frédéric Chopin, chamado o 'Poeta do Piano' por alcançar o ápice romântico com o piano. Seus noturnos e baladas soam líricos, como nuvens flutuando no ar. No entanto, por trás dessas melodias fluidas escondia-se um doloroso e obsessivo perfeccionismo ao compor.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Kann ich anstelle physischer Karten auch digitale Apps wie Notion oder Obsidian verwenden?"
     answer: "Ja, digitale Tools wie Notion oder Obsidian eignen sich hervorragend für den Aufbau eines zweiten Gehirns. Das Medium ist weniger wichtig als die Einhaltung des modularen Prinzips: Beschränken Sie jede Notiz auf ein einziges Konzept und verknüpfen Sie Notizen aktiv miteinander, anstatt sie in isolierten Ordnern zu vergraben."
+
 ---
 
 Stanley Kubrick, der legendäre amerikanische Regisseur hinter Meisterwerken wie 2001: Odyssee im Weltraum und Shining, war berüchtigt für seinen extremen Perfektionismus und seine tiefgehende Recherche. Um die Flut an historischen Dokumenten, Drehortfotos und Drehbuchideen zu bewältigen, entwickelte Kubrick ein Karteisystem. Er schrieb Notizen und strukturierte Ideen auf Karteikarten im Format 3x5 Zoll und ordnete sie systematisch in maßgefertigten Holzkisten. Wir analysieren, wie das Auslagern von Daten aus dem Gehirn auf physische Karten es Kubrick ermöglichte, kreative Klarheit zu bewahren.

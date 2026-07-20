@@ -21,6 +21,7 @@ faqs:
     answer: "No. The core is the 'physical blocking of artificial information stimuli' and 'analog focus'. You can achieve great effects by designating a corner of your home as a smartphone-free zone and keeping it blocked for just 30 minutes to an hour."
   - question: "Why do simple household chores or physical labor help with contemplation?"
     answer: "Simple work that you immerse yourself in without thinking minimizes cognitive load and relaxes how the brain operates. In this state, the brain reduces censorship in the frontal lobe and promotes subconscious connections, offering deeper insights than when trying to force contemplation."
+
 ---
 
 Carl Jung, the world-renowned psychiatrist who mapped the human unconscious and proposed the concepts of the collective unconscious and complexes. Where did his creative energy, which counseled countless patients and wrote vast academic studies, recover? 🪵

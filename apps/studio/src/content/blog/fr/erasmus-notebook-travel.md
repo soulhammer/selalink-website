@@ -16,6 +16,7 @@ steps:
     text: "Regardez le paysage défiler par la fenêtre. Laissez vos yeux capter le flux optique sans vous focaliser sur un point, permettant à l'esprit d'entrer en rêverie."
   - name: "Saisir l'éclair d'inspiration"
     text: "Dès qu'une idée ou solution apparaît, notez immédiatement les mots-clés dans votre carnet. N'attendez pas d'être arrivé, car les inspirations de voyage s'effacent vite."
+
 ---
 
 "Le voyage est la véritable source de sagesse, et un carnet en est la carte." Érasme, le grand humaniste de la Renaissance, voyageait constamment en carrosse à travers l'Europe. Plutôt que de perdre ce temps, il gardait un petit carnet en cuir dans sa poche. En voyageant, il y notait ses observations.

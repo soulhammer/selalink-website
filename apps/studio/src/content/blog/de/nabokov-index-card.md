@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Kann Nabokovs Karteikartenmethode mit digitalen Notizwerkzeugen anstelle von physischen Karten repliziert werden?"
     answer: "Ja, absolut. Sie können Kanban-Boards in Notion, Trello oder digitale Whiteboards wie Miro oder FigJam verwenden, um Karten zu erstellen und sie zu verschieben. Das Kernprinzip besteht darin, nicht lange, zusammenhängende Texte auf einmal zu schreiben, sondern Gedanken in bewegliche Objekte zu modularisieren."
+
 ---
 
 Vladimir Nabokov, der mit den kunstvollen Strukturen in Lolita den Höhepunkt der englischen Literatur des 20. Jahrhunderts markierte. Überraschenderweise schrieb er seine Romane nicht in chronologischer Reihenfolge. Stattdessen notierte er Dialoge, Beschreibungen und Handlungsfragmente auf 3x5-Zoll-Karteikarten. Nabokov legte diese Karten auf seinen Schreibtisch und ordnete sie frei um. Er trug sie sogar im Auto oder beim Schmetterlingsfangen bei sich. Wir untersuchen, warum diese modulare Schreibmethode eine starke kognitive Strategie für komplexe Projekte und das Schreiben ist.

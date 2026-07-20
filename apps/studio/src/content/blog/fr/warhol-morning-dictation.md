@@ -21,6 +21,7 @@ faqs:
     answer: "Nous recommandons d'utiliser la fonction voix-texte (STT) du smartphone pour exprimer à voix haute vos pensées ou préoccupations pendant 5 minutes."
   - question: "De quoi dois-je parler pendant le dictado pour augmenter la productivité ?"
     answer: "Lister les faits d'hier, vider votre esprit des priorités du jour ou exprimer votre état émotionnel actuel de manière brute suffit amplement."
+
 ---
 
 Andy Warhol, le roi du pop art. Au milieu de l'agitation de son atelier 'The Factory', il mit en place un rituel : le dictaphone téléphonique. Chaque matin, il appelait sa secrétaire Pat Hackett et lui racontait sa journée de la veille. Voyons comment ce processus de décharge cognitive (Cognitive Offloading) libère de la place dans la mémoire de travail.

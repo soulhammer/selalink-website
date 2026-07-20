@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Comment faire si on ne sait pas du tout faire le poirier ?"
     answer: "Même sans mur, vous pouvez obtenir des effets similaires sur le flux sanguin et le système vestibulaire en faisant la posture du dauphin (lever les fesses au sol) ou des inversions douces, comme poser les jambes sur une chaise et pencher le buste."
+
 ---
 
 Igor Stravinsky, qui a bouleversé la musique classique du XXe siècle avec Le Sacre du printemps. Derrière son génie se cachait une routine physique unique. S'il manquait d'inspiration en composant, il faisait le poirier près de son piano. Il pensait que se retourner réveillait le cerveau. Voyons comment cette inversion physique libère la créativité.

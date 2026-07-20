@@ -21,6 +21,7 @@ faqs:
     answer: "Sangat bisa. Jika demikian, alokasikan blok khusus untuk 'merespons hal mendadak & memeriksa email' sebanyak 2-3 kali sehari. Selama blok fokus (1-2 jam), bekerjalah tanpa gangguan."
   - question: "Saya merasa bersalah jika tidak bisa memenuhi jadwal."
     answer: "Time blocking bukanlah belenggu, melainkan peta panduan. Yang penting bukan menyelesaikan 100%, melainkan apakah Anda fokus pada satu tugas selama blok itu. Bersikaplah fleksibel."
+
 ---
 
 Louis XIV, yang menandai masa keemasan monarki absolut Prancis dan berdiri di puncak kekuasaan dengan membangun Istana Versailles. Sepanjang 72 tahun masa pemerintahannya yang panjang, memproses konflik teritorial, perebutan kekuasaan, dan urusan negara yang rumit, apa rahasia di balik kekuasaannya yang tak tergoyahkan? Di bawah moto "Dengan menetapkan waktu kerja dan aturan, seseorang dapat mendominasi hidup sepenuhnya," Louis XIV membagi 24 jamnya dengan ketat per menit. Hari ini, BuildSelf memperkenalkan keuntungan neurologis dari rutinitas berkebun ini.

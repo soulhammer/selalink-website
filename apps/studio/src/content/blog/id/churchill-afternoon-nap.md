@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apa efek dari rutinitas tidur siang Churchill di masa perang?"
     answer: "Dengan tidur siang yang nyenyak, ia membagi harinya menjadi dua periode aktif untuk menangani beban keputusan."
+
 ---
 
 Winston Churchill, Perdana Menteri Inggris selama Perang Dunia II yang memimpin perjuangan kuat melawan Jerman untuk memastikan kemenangan akhir Sekutu, & pada saat yang sama seorang sejarawan & penulis pemenang Hadiah Nobel Sastra. Bagaimana dia bisa menjaga kewaspadaan mental puncaknya tanpa kelelahan di bawah tugas-tugas negara yang melelahkan selama lebih dari 18 jam sehari? Rahasianya terletak pada rutinitas tidur siang yang sangat unik & kokoh yang dia lakukan setiap sore. Setiap sore antara pukul 14.00 & 14.30, Churchill menghentikan semua laporan negara & pergi ke kamar tidurnya, menanggalkan pakaian sepenuhnya, & tidur nyenyak selama 1 hingga 2 jam.

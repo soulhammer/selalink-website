@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué dibujar sobre papel de aluminio alivia el estrés?"
     answer: "La fricción y el sonido al raspar el metal llenan la retroalimentación somatosensorial, bloqueando la ansiedad al anclar la atención en el presente táctil-visual."
+
 ---
 
 Lee Jung-seob, el legendario maestro de la pintura occidental moderna en Corea, sufrió pobreza durante la guerra. Sin dinero para pinturas ni lienzos, recogió cajas de cigarrillos abandonadas para dibujar sobre el papel de aluminio. 🐂

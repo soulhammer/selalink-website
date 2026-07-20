@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Warum notierte Hemingway täglich seine Wortanzahl?"
     answer: "Um den Schreibfortschritt objektiv zu visualisieren, Schreibblockaden vorzubeugen und die Produktivität zu fördern."
+
 ---
 
 Ernest Hemingway, ein Meister der modernen amerikanischen Literatur, der sowohl den Nobelpreis als auch den Pulitzer-Preis erhielt. Bekannt für seinen minimalistischen Schreibstil, war seine tägliche Disziplin ebenso legendär. Er begann frühmorgens mit dem Schreiben und hielt am Ende jeder Sitzung seine tägliche Wortzahl auf einer Wandtabelle fest. Heute untersucht BuildSelf die wissenschaftlichen Gründe für Hemingways Fortschrittsverfolgung und wie Sie Selbstbeobachtung im Alltag nutzen können.

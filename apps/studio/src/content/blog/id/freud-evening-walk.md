@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, berjalan di waktu kapan saja tetap memberikan stimulasi bilateral. Namun, sementara jalan pagi berfungsi membangunkan fokus, jalan malam meredakan ketegangan emosi dan stres yang terkumpul sepanjang hari."
   - question: "Bisakah saya mengetik diari alam bawah sadar di ponsel atau keyboard?"
     answer: "Mengetik mengaktifkan mode logika otak karena visual yang monoton. Sebaliknya, menulis dengan tangan merangsang Reticular Activating System (RAS) melalui gerakan motorik, membantu menyaring pikiran bawah sadar."
+
 ---
 
 Sigmund Freud, bapak psikoanalisis yang membentuk kembali psikologi modern dengan memperkenalkan konsep alam bawah sadar. Dari mana wawasan mendalamnya berasal? 🧠

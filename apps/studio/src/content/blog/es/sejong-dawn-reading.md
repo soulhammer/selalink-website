@@ -21,6 +21,7 @@ faqs:
     answer: "No. Lo fundamental es asegurar un tiempo sin interrupciones al despertar. Levantarse solo 30 minutos antes de lo habitual y leer sin distracciones digitales es suficiente para obtener el mismo efecto."
   - question: "¿Está bien leer novelas web o artículos de redes sociales?"
     answer: "Para calentar el cerebro, es mejor leer libros físicos estructurados y con desarrollo lógico, en lugar de textos digitales fragmentados. Libros de filosofía, humanidades, historia o ensayos que requieran reflexión activa son más beneficiosos."
+
 ---
 
 El rey Sejong el Grande, el monarca más respetado de la historia de Corea que creó el Hangeul y promovió la ciencia y la cultura. ¿Cuál fue el secreto de su extraordinaria creatividad y sabias decisiones a pesar de la carga de trabajo y las enfermedades? Se despertaba antes que nadie, a las 3 o 4 de la mañana, y leía bajo la luz de las velas. En este tiempo de silencio, se concentraba en la historia y los clásicos para prepararse para los debates académicos. Hoy, BuildSelf presenta los principios neurológicos y la aplicación moderna de la rutina de 'lectura al amanecer' del rey Sejong.

@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, sachant qu'il avait sollicité son cerveau à 100 % le matin, il savait que son efficacité déclinait après 13h. Pensant qu'écrire l'après-midi réduisait la qualité, il réservait ces heures à la marche, la lecture ou la relecture."
   - question: "Peut-on faire du travail profond le soir plutôt que le matin ?"
     answer: "Oui, selon votre chronotype (couche-tard). La clé n'est pas l'heure exacte, mais le fait de réserver un bloc d'au moins 2h consécutives libre d'interruptions avec un esprit dispos."
+
 ---
 
 Thomas Mann, prix Nobel de littérature et géant des lettres allemandes avec 'La Montagne magique' et 'Les Buddenbrook'. Son œuvre monumentale, réputée pour sa profondeur philosophique, n'est pas née d'inspirations fortuites, mais d'une discipline horaire d'une précision d'horlogerie. 🕰️

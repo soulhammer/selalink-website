@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "É possível utilizar ferramentas digitais se for difícil desenhar os storyboards à mão todas as vezes?"
     answer: "A essência do storyboard não é a habilidade de desenhar, mas o planejamento estruturado passo a passo e a simulação de comportamento. Utilizar o Figma, Miro ou aplicativos simples de mapa mental para organizar com formas de caixas e texto é totalmente suficiente para obter os mesmos benefícios da psicologia cognitiva."
+
 ---
 
 Alfred Hitchcock, o mundialmente famoso maestro britânico que redefiniu a linguagem dos thrillers ao realizar filmes imortais como 'Psicose', 'Vertigem' e 'Janela Indiscreta'. De onde vinha o seu controlo incrível, comandando o set de filmagens com absoluta confiança e sem uma única dúvida? 🎬

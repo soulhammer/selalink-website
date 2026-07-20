@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Mary Shelley specifically choose her mother's grave?"
     answer: "Her mother died right after her birth. The grave was her only physical connection to her mother. Sitting there allowed her to meditate on birth, death, and identity, topics central to Frankenstein."
+
 ---
 
 Mary Shelley, the brilliant English novelist who pioneered the science fiction genre with her gothic masterpiece *Frankenstein*. Since childhood, Mary had a unique habit: she visited the cemetery where her mother was buried to read books and contemplate. For her, a cemetery or historic ruin was a peaceful sanctuary to study life, death, and history. Let's study how a solemn environment triggers awe and activates deep creative networks in the brain.

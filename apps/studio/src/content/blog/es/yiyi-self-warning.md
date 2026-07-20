@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué contenido es más efectivo escribir en la autoadvertencia?"
     answer: "Escribir sus debilidades más difíciles de controlar (p. ej., alejarse del móvil, puntualidad) como frases positivas basadas en acciones es lo más eficaz para enviar estímulos claros al cerebro."
+
 ---
 
 Yi I escribió 11 reglas de advertencia personal (Self-warning) y las leyó todas las mañanas para regular su comportamiento. Este hábito diario reactivó su corteza prefrontal, fortaleciendo el autocontrol y previniendo la deriva de metas cognitivas.

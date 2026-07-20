@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, es ist nicht nötig, schwere Gewichte zu heben. Sie können die Übungen anpassen (z. B. Liegestütze an der Wand). Der biologische Auslöser ist ein Zustand, in dem der Atem schneller wird und Sie leicht schwitzen. Passen Sie die Intensität an."
   - question: "Kann ich Krafttraining durch Ausdauertraining wie Joggen ersetzen?"
     answer: "Joggen fördert zwar die Durchblutung des Gehirns, aber kurze, hochintensive Kraftübungen sind effektiver bei der Freisetzung von BDNF. Wenn Sie Ausdauersport wählen, bauen Sie kurze Sprints ein, um die Atmung anzuregen."
+
 ---
 
 Platon, der intellektuelle Riese, der das Fundament der westlichen Philosophie legte und die 'Akademie' gründete. Woher stammten sein unermüdliches Denken und seine mentale Ausdauer? 🤼

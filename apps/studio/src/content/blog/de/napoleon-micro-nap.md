@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, historische Berichte bestätigen, dass Napoleon selbst bei Kanonendonner fast augenblicklich einschlafen und genau 15 Minuten später erholt aufwachen konnte, um taktische Befehle zu erteilen."
   - question: "Wann ist die beste Tageszeit für ein kurzes Nickerchen?"
     answer: "Die beste Zeit liegt zwischen 13:00 und 15:00 Uhr, passend zum natürlichen Leistungstief. Vermeiden Sie Nickerchen nach 16:00 Uhr, um den Nachtschlaf nicht zu stören."
+
 ---
 
 Napoleon Bonaparte, der legendäre Militärstratege und Kaiser von Frankreich. Bekannt für seine Energie, bewältigte er Staatsgeschäfte und Schlachten mit nur 4 Stunden Nachtschlaf. Sein Geheimnis lag im Mikroschlaf – 10 bis 15 Minuten Schlaf in jeder freien Minute, selbst im Kampf. Heute zeigt BuildSelf, wie kurze Nickerchen die kognitive Leistung resetten.

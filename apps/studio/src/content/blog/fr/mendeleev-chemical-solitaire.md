@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Puis-je utiliser une application de cartes mentales à la place de fiches physiques ?"
     answer: "Les applications aident, mais le repérage tactile lié au déplacement d'objets physiques avec les mains stimule le cortex moteur plus directement. Des études montrent que la manipulation manuelle dans l'espace réel génère une plus grande activation neuronale utile pour l'idéation que le glissement sur écran."
+
 ---
 
 Le tableau périodique, l'un des piliers de la science. Pour résoudre ce grand casse-tête, le savant russe Dmitri Mendeleïev a utilisé des cartes en papier pour représenter les 63 éléments connus. Il gardait ces cartes sur lui et les disposait sur des tables, cherchant des motifs logiques. Voyons comment la manipulation physique des concepts active la mémoire.

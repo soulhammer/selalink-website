@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Si je mets du papier sous l'oreiller, ne va-t-il pas se froisser pendant le sommeil ?"
     answer: "Pour une pratique moderne, au lieu de papier ordinaire qui se froisse facilement, nous recommandons de placer un mini-classeur rigide à couverture rigide sur la table de chevet ou de fixer un porte-bloc en bois avec pince sur l'étagère de chevet pour éviter le risque d'endommagement tout en concevant un parcours le plus court possible."
+
 ---
 
 Charlemagne, le grand monarque qui a jeté les bases historiques de l'Europe occidentale et mené la renaissance de la culture et de l'éducation. Au VIIIe siècle, comment l'empereur parvenait-il à poursuivre l'étude et l'écriture ? 👑

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Se colocar papel sob o travesseiro, ele não se vai amarrotar ou estragar a caneta enquanto durmo?"
     answer: "Para a prática moderna, em vez de papel comum que se amassa facilmente, recomendamos colocar um mini fichário de capa dura sobre a mesa de cabeceira ou fixar uma prancheta de madeira com clipe na prateleira da cabeceira para evitar o risco de danos e projetar a menor rota possível."
+
 ---
 
 Carlos Magno, o grande monarca que lançou as bases históricas da Europa Ocidental e liderou o renascimento da cultura e da educação. Como é que o Imperador prosseguia o estudo e a escrita? 👑

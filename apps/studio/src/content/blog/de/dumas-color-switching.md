@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Die Anpassung der Farben digitaler Werkzeuge (App-Hintergründe, Ordnerfarben, Browserthemen) je nach Verwendungszweck erzielt denselben Priming-Effekt."
   - question: "Kann es nach hinten losgehen, wenn ich zu viele Farben verwende?"
     answer: "Ja. Damit das Gehirn eine Farbe mit einem Geisteszustand verbindet, ist Beständigkeit erforderlich. Beschränken Sie sich auf maximal 3 Hauptkategorien."
+
 ---
 
 Alexandre Dumas schrieb Romane auf blauem Papier, Gedichte auf gelbem Papier und Sachartikel auf rosa Papier. Dieser Farbwechsel verhinderte mentale Ermüdung während langer Schreibsitzungen.

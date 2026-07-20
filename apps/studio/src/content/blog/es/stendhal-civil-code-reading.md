@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Esto ayuda incluso al escribir historias emocionales o textos de marketing?"
     answer: "Para la redacción publicitaria o la narración emocional, reemplace los estatutos secos con textos publicitarios de alta calidad o prosa evocadora que desee emular. El núcleo del método de Stendhal es el primado consciente; elija un modelo de estilo que coincida con el tono objetivo de su próxima tarea."
+
 ---
 
 Stendhal, famoso por Rojo y Negro, es celebrado por su prosa objetiva y transparente que capturó las complejidades de la ambición humana. Durante una época saturada de romanticismo florido, Stendhal insistió en la precisión matemática en sus oraciones. Su rutina matutina secreta antes de escribir era leer algunas páginas del Código Civil napoleónico (Código Civil francés). Analizamos cómo Stendhal utilizó textos legales secos y lógicos para preparar su cerebro, eliminando la pelusa retórica y agudizando su poder analítico objetivo.

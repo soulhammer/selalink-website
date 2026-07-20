@@ -21,6 +21,7 @@ faqs:
     answer: "Ne vous jugez pas. Dans le stoïcisme, l'autocritique est contre-productive. Si vous manquez de temps, écrivez une seule phrase sur votre téléphone. L'important est de maintenir la régularité d'esprit."
   - question: "En quoi cela diffère-t-il d'un journal de gratitude classique ?"
     answer: "Alors que le journal de gratitude se concentre sur le positif, la réflexion stoïcienne anticipe les événements négatifs (Premeditatio Malorum) et se focalise sur votre réaction. C'est une préparation mentale."
+
 ---
 
 "À l'aube, quand tu as du mal à te lever, dis-toi : je dois aller travailler en tant qu'être humain." Marc Aurèle, l'empereur philosophe de Rome, s'écrivait ces mots à lui-même. Dans le calme de sa tente militaire avant le lever du soleil, il écrivait son journal pour cultiver un esprit stable au milieu des guerres.

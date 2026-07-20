@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, o acetaldeído liberado na fermentação reduz temporariamente o nível de oxigênio e altera a respiração, proporcionando um estímulo incomum, e o sinal olfativo enviava um alerta imediato ao sistema límbico."
   - question: "Quais aromas são recomendados para a ancoragem aromática moderna?"
     answer: "Recomenda-se o alecrim, que ajuda cientificamente na concentração e alerta, ou hortelã-pimenta e eucalipto, que aliviam a fadiga. Aromas cítricos como limão também têm efeitos positivos comprovados."
+
 ---
 
 Friedrich Schiller, o grande poeta e dramaturgo que liderou a era de ouro da literatura clássica alemã junto com Johann Wolfgang von Goethe. Suas peças 'Os Salteadores' e 'Guilherme Tell' deixaram marcas profundas na história. No entanto, na gaveta da mesa onde essas obras-primas nasceram, escondia-se um segredo muito estranho e forte. 🍎

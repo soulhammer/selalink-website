@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was ist, wenn der Stress steigt und meine Konzentration stört?"
     answer: "Das passiert, wenn das Ziel für Ihre Fähigkeiten zu schwer ist. Senken Sie die Hürde, sodass die Erfolgsquote bei etwa 70-80 % liegt."
+
 ---
 
 Tiger Woods, der dominierendste Golf-Champion der Geschichte. Er zeigte selbst am nervenaufreibenden 18. Loch großer Meisterschaften eine mentale Stärke aus Stahl. Seine unerschütterliche Geisteshaltung beruhte auf seiner Routine vor dem Training: der 100-Putt-Regel. Wir analysieren dieses gnadenlose Ritual.

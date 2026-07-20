@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, en 1830, pressé par l'éditeur pour finir « Notre-Dame de Paris », Hugo s'est rasé la moitié de la tête et de la barbe, a fait enfermer ses vêtements de sortie et s'est consacré entièrement à l'écriture."
   - question: "Quels sont les mécanismes d'engagement modernes sans avoir à se raser ?"
     answer: "Vous pouvez utiliser une boîte à minuteur pour verrouiller votre téléphone pendant quelques heures, ou configurer un profil utilisateur sur votre ordinateur sans accès aux navigateurs."
+
 ---
 
 Victor Hugo, le grand écrivain français auteur de « Les Misérables » et de « Notre-Dame de Paris ». Face à un délai de rendu très serré, il prit une décision radicale : se raser la moitié des cheveux et de la barbe et s'enfermer dans son bureau. Incapable de sortir à cause de son look, il finit son livre à temps. Aujourd'hui, BuildSelf montre comment l'engagement physique force la concentration.

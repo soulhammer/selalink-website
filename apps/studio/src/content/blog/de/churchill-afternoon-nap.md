@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Welcher Effekt hatte Churchills Mittagsschlaf im Krieg?"
     answer: "Mit einem tiefen Schlaf teilte er seinen Tag in zwei unabhängige Phasen auf, um schwere Entscheidungen zu treffen."
+
 ---
 
 Winston Churchill, der britische Premierminister im Zweiten Weltkrieg, der den Kampf gegen Deutschland anführte, und Literaturnobelpreisträger. Wie konnte er bei einer täglichen Arbeitszeit von über 18 Stunden seine geistige Fitness aufrechterhalten? Das Geheimnis lag in einer Mittagschlaf-Routine. Jeden Nachmittag zwischen 14:00 und 14:30 Uhr unterbrach er alle Staatsgeschäfte, zog sich im Schlafzimmer komplett aus und schlief ein bis zwei Stunden tief. Heute stellt BuildSelf die wissenschaftlichen Erkenntnisse dahinter vor.

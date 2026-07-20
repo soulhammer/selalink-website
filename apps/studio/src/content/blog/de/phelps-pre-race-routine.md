@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was passiert, wenn ich einen Schritt der Routine auslasse?"
     answer: "Das Gehirn reagiert eventuell empfindlich auf die Störung, was die Angst erhöht. Fangen Sie von vorne an oder gehen Sie flexibel zum nächsten Schritt über."
+
 ---
 
 Michael Phelps, eine Legende der Schwimmgeschichte mit 28 olympischen Medaillen. Selbst vor den Startblöcken bewahrte er einen bemerkenswert ruhigen Geist. Hinter seiner mentalen Stärke stand eine hochpräzise Routine, die exakt 2 Stunden vor dem Start fehlerfrei ablief.

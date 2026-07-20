@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, jede Form von aerobem Ausdauersport (wie Radfahren oder Schwimmen) fördert die BDNF-Ausschüttung. Laufen an der frischen Luft hat jedoch durch die sensorischen Reize der Natur den stärksten beruhigenden Effekt auf das DMN."
   - question: "Stört Musik beim Laufen die geistige Erholung?"
     answer: "Musik mit Texten oder schnellen Rhythmen zwingt das Gehirn, akustische Daten zu verarbeiten. Das verhindert die geistige Ruhe. Das Lauschen auf die Naturgeräusche oder den eigenen Atem aktiviert das DMN am effektivsten."
+
 ---
 
 Alan Turing, der britische Mathematiker, der im Zweiten Weltkrieg die Enigma-Maschine knackte. Die ständige Beschäftigung mit komplexen Codes führte bei ihm zu extremer geistiger Erschöpfung. Sein Ventil war der Ausdauersport.

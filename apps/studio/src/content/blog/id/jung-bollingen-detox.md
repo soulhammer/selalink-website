@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Intinya adalah 'pemblokiran fisik terhadap rangsangan informasi buatan' dan 'fokus analog'. Anda dapat mencapai efek yang luar biasa dengan menetapkan salah satu sudut rumah Anda sebagai area bebas ponsel pintar dan membiarkannya terputus selama 30 menit hingga satu jam."
   - question: "Mengapa pekerjaan rumah tangga yang sederhana membantu perenungan?"
     answer: "Pekerjaan sederhana yang Anda lakukan tanpa berpikir meminimalkan beban kognitif dan merilekskan cara kerja otak. Dalam kondisi ini, otak mengurangi sensor di lobus frontal dan mendorong hubungan bawah sadar, menawarkan wawasan yang lebih mendalam daripada saat mencoba memaksakan perenungan."
+
 ---
 
 Carl Jung, psikiater terkenal di dunia yang memetakan alam bawah sadar manusia dan mencetuskan konsep alam bawah sadar kolektif serta kompleks. Di mana energi kreatifnya, yang melayani pasien tak terhitung jumlahnya dan menulis studi akademis yang luas, pulih? 🪵

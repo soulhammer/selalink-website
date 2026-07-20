@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Quais são os movimentos-chave se não puder aprender o método completo?"
     answer: "Se não puder fazer a rotina inteira, concentre-se em dois gestos: primeiro, esfregue as palmas para gerar calor e massageie o rosto. Segundo, sente-se com as costas eretas, inale pelo nariz e expire lentamente pela boca por 10 segundos. Isto basta para regular a resposta ao estresse."
+
 ---
 
 Yi Hwang, o grande filósofo confuciano coreano. Apesar de sua frágil saúde, alcançou uma vida intelectual plena até os setenta anos graças a uma rotina secreta: o método de saúde Hwalinsimbang. Ao acordar, realizava alongamentos suaves e controlava sua respiração. Analisemos como este ritual equilibra a resposta ao estresse matinal, regulando o cortisol e ativando o sistema parassimpático.

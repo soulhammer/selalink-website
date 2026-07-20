@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Why did Hemingway record his word count daily?"
     answer: "To objectively visualize writing progress, preventing slumps and forcing a regular flow of creative productivity without self-deception."
+
 ---
 
 Ernest Hemingway, a master of modern American literature who won both the Nobel Prize and the Pulitzer Prize. Known for his minimalist, hard-boiled writing style, his daily discipline was equally legendary. He started writing early in the morning and, at the end of each session, counted and recorded his daily word count on a large chart on the wall. Today, BuildSelf explores the scientific reasons behind Hemingway's progress tracking and how you can apply self-monitoring to maintain daily momentum.

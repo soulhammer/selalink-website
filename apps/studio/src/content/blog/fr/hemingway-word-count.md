@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Pourquoi Hemingway notait-il son nombre de mots chaque jour ?"
     answer: "Pour suivre objectivement sa progression, évitant les pannes d'inspiration et installant une régularité créative."
+
 ---
 
 Ernest Hemingway, un maître de la littérature américaine moderne qui a remporté le prix Nobel et le prix Pulitzer. Connu pour son style d'écriture minimaliste et hard-boiled, sa discipline quotidienne était tout aussi légendaire. Il commençait à écrire tôt le matin et, à la fin de chaque séance, comptait et enregistrait son nombre de mots sur un grand tableau au mur. Aujourd'hui, BuildSelf explore les raisons scientifiques de ce suivi et comment appliquer l'autosurveillance.

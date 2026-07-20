@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Sollte ich auch am Wochenende um 4 Uhr aufstehen?"
     answer: "Zur Stabilisierung des zirkadianen Rhythmus wird empfohlen, die Aufstehzeit am Wochenende um höchstens 1 Stunde zu verschieben. Zu langes Ausschlafen stört die innere Uhr und erschwert das Aufstehen an Werktagen."
+
 ---
 
 Kobe Bryant, einer der besten Basketballspieler aller Zeiten und Inbegriff des Kampfgeists. Jeden Morgen um 4 Uhr, in tiefster Dunkelheit, begann er sein Training. Dass er während der Olympischen Spiele allein in der Halle trainierte, während andere schliefen, war ein Eckpfeiler der Mamba Mentality. Erfahren Sie, wie die 4-Uhr-Routine den Körper auf Höchstleistung synchronisiert.

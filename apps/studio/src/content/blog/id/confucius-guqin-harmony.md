@@ -21,6 +21,7 @@ faqs:
     answer: "Tentu saja bisa. Tujuan rutinitas ini bukan mempelajari teknik bermain musik yang rumit, melainkan mencapai 'stabilisasi saraf pendengaran' melalui penyetelan dan pemetikan sederhana. Alat musik mudah seperti ukulele atau kalimba sangat bagus untuk memulai."
   - question: "Apakah boleh menggunakan aplikasi penyetem elektronik?"
     answer: "Anda boleh menggunakan aplikasi untuk panduan, tetapi fokuslah untuk mendengar daripada menatap layar. Geser layar sedikit, dan fokuskan perhatian pada getaran fisik dan suara instrumen."
+
 ---
 
 Konfusius, pendiri Konfusianisme dan filsuf paling berpengaruh yang membentuk pemikiran Timur selama lebih dari dua milenium. Selama 14 tahun pengasingan yang sulit, menghadapi ancaman saat bepergian melalui berbagai negara bagian, apa rahasia di balik menjaga martabat moral dan kedamaian spiritualnya? Konfusius selalu membawa Guqin (instrumen senar) bahkan selama perjalanannya, memainkannya dan menyanyikan puisi setiap hari. Baginya, musik bukanlah hiburan, melainkan metode luhur kultivasi diri, menyelaraskan aliran batinnya seperti menyelaraskan senar instrumen. Hari ini, BuildSelf memperkenalkan prinsip-prinsip terapi musik dan rutinitas penyelarasan emosi modern dari 'penyelarasan Guqin' Konfusius.

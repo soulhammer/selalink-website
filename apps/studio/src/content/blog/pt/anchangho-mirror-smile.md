@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Forçar um sorriso em frente ao espelho realmente funciona?"
     answer: "Sim, por meio do efeito de feedback facial, o cérebro detecta o movimento dos músculos faciais e o reconhece como um estado feliz, estimulando a liberação de endorfinas."
+
 ---
 
 Ahn Chang-ho, o grande líder educacional e ativista da independência da Coreia, acreditava que cultivar a moralidade individual, a inteligência e a dignidade diária era tão crucial para a independência quanto a luta armada. Ele ensinou rigorosamente seus membros a se tratarem com um sorriso e a manterem limpos todos os espaços para estabelecer a ordem. 🧹

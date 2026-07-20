@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Why did Demosthenes shave half of his head?"
     answer: "By making his appearance ridiculous, he prevented himself from going outside, forcing himself to overcome temptation and stay in his study to practice."
+
 ---
 
 A man who overcame a congenital stutter, a weak physique, and physical limitations such as shortness of breath that prevented him from speaking for long periods, to become the greatest statesman of ancient Athens and the greatest orator in Greek history. That man was Demosthenes. 🏛️

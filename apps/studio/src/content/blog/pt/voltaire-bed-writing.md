@@ -21,6 +21,7 @@ faqs:
     answer: "Embora as páginas matinais sejam escritas depois de lavar o rosto ou sentar-se, onde a razão está parcialmente ativa, a escrita na cama de Voltaire visa a 'brecha no cérebro' durante a inércia do sono antes de levantar-se fisicamente, capturando metáforas subconscientes e pensamentos criativos no seu estado mais puro."
   - question: "O que debo fazer se não conseguir pensar em nada para escrever na cama todas as manhãs?"
     answer: "Não há necessidade alguma de escrever grandes ideias. Pode simplesmente anotar qualquer pequeno fragmento que lhe passe pela cabeça, como um evento ruim de ontem, o aborrecimento das tarefas de hoje ou listas aleatórias de palavras. O objetivo é a prática de libertar o filtro de inibição do cérebro."
+
 ---
 
 Voltaire, o símbolo do iluminismo europeu do século XVIII, deixou inúmeros romances, tragédias e textos históricos. De onde surgiam, a cada manhã, suas críticas afiadas e suas brilhantes ideias humanistas? ✍️

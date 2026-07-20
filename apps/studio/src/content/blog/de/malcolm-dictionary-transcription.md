@@ -21,6 +21,7 @@ faqs:
     answer: "Nein. Tippen nutzt einfache, sich wiederholende Tastenanschläge. Handschriftliches Schreiben erfordert die Kontrolle der einzelnen Striche, was das Gehirn weit stärker beansprucht."
   - question: "Sollte ich auf eine schöne Handschrift achten?"
     answer: "Nein. Wichtig ist nur, dass sich das Gehirn auf den Druck und die Führung des Stifts konzentriert. Solange es leserlich ist, ist ein natürlicher Schreibfluss optimal."
+
 ---
 
 Malcolm X, der Redner und Anführer, der die Massen begeisterte. Hinter seinen fließenden Worten und seinem Charisma lag eine dunkle Vergangenheit, in der er keinen einzigen korrekten Satz schreiben konnte. 📖

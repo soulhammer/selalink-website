@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, wenn Sie flach liegen und den Nacken beugen. Stützen Sie sich mit festen Kissen in einem 45-Grad-Winkel ab und begrenzen Sie Ihre Sitzungen auf 30 Minuten, um gesund zu bleiben."
   - question: "Kann ich meine E-Mails vor dem Start nur 5 Minuten lang abrufen?"
     answer: "Nein. Selbst 5 Minuten das Abrufen eingehender Benachrichtigungen zerstreut und verschwendet sofort Ihre CAR-Energie. Lassen Sie Ihr Telefon ausgeschaltet, bis Ihre Hauptaufgabe erledigt ist."
+
 ---
 
 John Maynard Keynes, der Mann, der das Paradigma der Wirtschaftswissenschaften des 20. Jahrhunderts veränderte, die Makroökonomie begründete und den Schlüssel zur Überwindung der Weltwirtschaftskrise lieferte, war ein Mann von immenser Produktivität. Dennoch war seine morgendliche Szene überraschend friedlich. Keynes sprang beim Aufwachen nicht aus dem Bett. Wenn sein Sekretär um 8 Uhr morgens Dokumente brachte, blieb er 2 Stunden lang im Bett liegen, analysierte Daten und schrieb Manuskripte.

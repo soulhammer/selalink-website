@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, Chéjov reducía la carga cognitiva y organizaba sus pensamientos mediante un ritual tranquilo de té después del trabajo a las 3 PM."
   - question: "¿Cómo puedo sustituir este hábito si no tengo un juego de té?"
     answer: "Incluso sin un juego de té elegante, tomar una taza de agua tibia o té de hierbas concentrándose en los sentidos por 5 minutos es suficiente."
+
 ---
 
 Antón Chéjov, el pináculo de la literatura realista rusa y un gran dramaturgo que completó los cimientos del cuento moderno, capturó los conflictos minúsculos, la hipocresía y la agitación emocional de la gente común en la vida cotidiana de la manera más atenta y aguda y los convirtió en obras de teatro. Se sentaba tranquilamente en un banco de la sala de espera de un tren o en un rincón de un café al aire libre y observaba a la gente que pasaba. En un cuaderno que llevaba en el bolsillo de su abrigo anotaba características muy concretas de cada persona, como por ejemplo una pelusa invisible en el cuello de un traje, un botón arrancado en el dobladillo de un traje y el ligero movimiento de los ojos de un transeúnte cuando está nervioso. Esta colección de detalles extremadamente finos fue la base para construir personajes realistas y tridimensionales en sus novelas.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sangat wajar jika otak mencoba berpikir. Jangan dilawan, cukup amati pikiran itu seperti awan yang lewat, lalu arahkan kembali perhatian Anda pada napas di hidung."
   - question: "Ibu Teresa melakukannya selama 1 jam. Apakah 10-15 menit tetap bermanfaat bagi otak?"
     answer: "Ya, studi menunjukkan bahwa hening total selama 10 menit saja sudah cukup untuk menurunkan denyut jantung dan meredakan stres. Melakukan hening 10 menit secara konsisten setiap hari melatih kontrol emosi jangka panjang."
+
 ---
 
 Ibu Teresa, yang membaktikan hidupnya membantu orang miskin di Kalkuta. Bagaimana ia bertahan dari batas mental dan kesedihan daerah kumuh untuk menjaga emosinya? 🕊️

@@ -21,6 +21,7 @@ faqs:
     answer: "Ces jours-là sont ceux où la routine est la plus nécessaire. Ne cherchez pas de grands événements. Notez des faits physiques élémentaires comme « l'eau que j'ai bue était propre », « je suis rentré sain et sauf » ou « je respire ». Consigner ces micro-indices de sécurité active la vigilance positive."
   - question: "Que pensez-vous d'écrire votre gratitude sur une application ou de la publier sur les réseaux sociaux ?"
     answer: "Publier sur les réseaux sociaux incite le cerveau à attendre l'approbation d'autrui (likes, commentaires), exposant le système de récompense à de l'anxiété. L'acte d'écrire sur papier protège l'esprit des comparaisons et procure une satisfaction pure."
+
 ---
 
 Oprah Winfrey, l'icône des médias modernes qui a surmonté une enfance douloureuse pour devenir la reine des talk-shows. D'où venait son énergie créative ? 📝

@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, itu adalah risiko yang sangat mungkin terjadi. Untuk mencegah hal ini, Anda harus memisahkan 'waktu untuk menyusun draf' dan 'waktu untuk penyempurnaan serta penyetelan.' Misalnya, membatasi fase penyempurnaan maksimal 3 jam atau 5 kali iterasi, menetapkan batas kuantitatif saat menerapkan mekanisme penyempurnaan Chopin, adalah hal yang efektif."
   - question: "Pada titik mana Anda harus berhenti memodifikasi dan mengadopsinya sebagai versi final?"
     answer: "Meskipun intuisi artistik berguna, gunakan titik ketika 'tidak ada perbaikan berarti yang ditemukan dibandingkan dengan versi sebelumnya selama proses koreksi (hukum pengembalian yang semakin menurun)' sebagai kriteria. Ketika modifikasi kecil tidak lagi mengubah efisiensi atau tujuan struktural secara signifikan, sinyal ACC telah diselesaikan, dan bijaksana untuk menyelesaikan pekerjaan tersebut."
+
 ---
 
 Frédéric Chopin, yang dijuluki 'Penyair Piano' karena mencapai puncak romantis hanya dengan sebuah piano. Nocturnes, Ballades, dan Waltzes miliknya terdengar sangat bebas dan liris, seperti awan yang melayang di udara. Namun, di balik melodi yang mengalir dan sempurna ini tersembunyi perfeksionisme yang menyakitkan dan obsesif dalam komposisi yang menentang imajinasi.

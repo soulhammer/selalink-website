@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si mes pensées s'égarent vers des distractions ?"
     answer: "C'est naturel au début. En cas de distraction, ne la refoulez pas. Regardez le panneau 'THINK' et revenez doucement au sujet."
+
 ---
 
 Thomas Watson, premier président d'IBM. Il a imposé la pose de cartons avec le mot 'THINK' dans chaque recoin de l'entreprise. Il s'asseyait en silence pendant plus de 15 minutes chaque matin, sans documents ni stylos. Découvrez l'efficacité de ce simple panneau.

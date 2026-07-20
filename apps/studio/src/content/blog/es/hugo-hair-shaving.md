@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, in 1830, ante un plazo urgente para entregar 'Nuestra Señora de París', Hugo se afeitó la mitad de la cabeza y la barra, guardó bajo llave su ropa formal y se enfocó en escribir para evitar salir."
   - question: "¿Qué dispositivos de compromiso modernos puedo usar sin afeitarme la cabeza?"
     answer: "Puedes usar una caja con temporizador para guardar tu teléfono durante ciertas horas, o configurar una cuenta de usuario específica en tu computadora que bloquee el acceso web."
+
 ---
 
 Victor Hugo, el monumental escritor francés autor de 'Les Misérables' y 'Nuestra Señora de París'. Al enfrentar una fecha de entrega límite, recurrió a una medida extrema: se afeitó la mitad del cabello y de la barra y se encerró en su estudio. Incapaz de salir por su apariencia, terminó la obra a tempo. Hoy, BuildSelf analiza cómo los dispositivos de compromiso físico obligan al enfoque.

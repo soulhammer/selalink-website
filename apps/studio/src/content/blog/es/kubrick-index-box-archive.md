@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Puedo utilizar aplicaciones digitales como Notion u Obsidian en lugar de tarjetas físicas?"
     answer: "Sí, las herramientas digitales como Notion u Obsidian son excelentes para construir un segundo cerebro. El medio es menos importante que adherirse al principio modular: mantenga cada nota limitada a un solo concepto y vincule activamente las notas entre sí en lugar de enterrarlas dentro de carpetas aisladas."
+
 ---
 
 Stanley Kubrick, el legendario director estadounidense detrás de obras maestras como 2001: Odisea del espacio y El resplandor, era famoso por su extremo perfeccionismo y su profunda investigación. Para gestionar el volumen oceánico de documentos históricos, fotos de locaciones e ideas de guiones, Kubrick desarrolló un sistema de indexación. Escribía notas a mano y estructuraba ideas en tarjetas de índice de 3x5 pulgadas, archivándolas sistemáticamente en cajas de madera hechas a medida. Analizamos cómo la descarga de datos del cerebro a tarjetas físicas le permitió a Kubrick preservar la claridad creativa y forjar conexiones entre conceptos no relacionados.

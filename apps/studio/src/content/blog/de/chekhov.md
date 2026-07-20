@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, Tschechow baute mentale Belastung ab, indem er nach harter Arbeit gegen 15 Uhr rituell Tee trank."
   - question: "Wie kann ich das Teeservice ersetzen, wenn ich keins habe?"
     answer: "Auch ohne Teeservice reicht es, eine Tasse warmes Wasser oder Kräutertee zu trinken und sich 5 Minuten auf die Sinne zu konzentrieren."
+
 ---
 
 Anton Tschechow, der Höhepunkt der russischen realistischen Literatur und ein großer Dramatiker, der die Grundlagen der modernen Kurzgeschichte legte, fing die winzigen Konflikte, Heuchelei und emotionalen Turbulenzen gewöhnlicher Menschen im Alltag auf die einfühlsamste und scharfsinnigste Art und Weise ein und verwandelte sie in Theaterstücke. Er saß still auf einer Bank im Warteraum eines Zuges oder in einer Ecke eines Straßencafés und beobachtete die vorbeigehenden Menschen. In einem Notizbuch in seiner Manteltasche notierte er äußerst spezifische Merkmale der Person, etwa einen unsichtbaren Fusselfleck am Kragen eines Anzugs, den Saum eines Anzugs mit abgerissenem Knopf und das leichte Zucken der Augen eines Passanten, wenn er oder sie nervös ist. Diese Sammlung äußerst feiner Details bildete die Grundlage für die Konstruktion realistischer, dreidimensionaler Charaktere in seinen Romanen.

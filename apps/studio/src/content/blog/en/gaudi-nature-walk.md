@@ -21,6 +21,7 @@ faqs:
     answer: "It is true that natural scenery is most effective for reducing stress and restoring attention. However, walking while looking at atypical alleyways or buildings in the city is also a sufficient alternative because it awakens various visual stimulation areas of the brain."
   - question: "Can I replace it with fast jogging or a treadmill?"
     answer: "Intense treadmill exercise is good for physical activation, but it does not give the brain room to closely observe and contemplate the surrounding scenery. To induce brain reset and creative thoughts, a 'slow walk' exploring the surroundings at a steady pace is optimal."
+
 ---
 
 Columns mimicking tree trunks, curved apartment facades like rolling waves. Antoni Gaudí, the Spanish genius architect who created the most original architecture in human history by transplanting nature's shapes and organic structures into buildings. Where did his multidimensional and marvelous inspirations, which have astonished people for over a century, come from? ⛪

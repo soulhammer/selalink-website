@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah saya harus tetap bangun pukul 4 pagi di akhir pekan?"
     answer: "Untuk penyelarasan sirkadian yang baik, disarankan untuk menjaga perbedaan waktu bangun antara hari kerja dan akhir pekan dalam batas 1 jam. Tidur berlebihan di akhir pekan mengacaukan jam biologis Anda."
+
 ---
 
 Kobe Bryant, salah satu pemain basket terhebat sepanjang sejarah dan perwujudan sejati dari daya juang tinggi. Setiap hari pukul 4 pagi, di tengah kesunyian malam, dia mulai berlatih. Kebiasaannya berlatih sendiri saat rekan setimnya tidur selama Olimpiade menjadi pilar dari mentalitas Mamba yang legendaris. Mari ulas bagaimana rutinitas jam 4 pagi menyinkronkan tubuh untuk performa puncak.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué pasa si mi trabajo exige que todo sea urgente? ¿Cómo puedo proteger el Cuadrante 2?"
     answer: "Cuando todo parece urgente, suele significar que los plazos de otras personas se anteponen a sus propias prioridades. Establezca un bloque innegociable de 30 minutos al comienzo de su día para el trabajo del C2, manteniendo cerrado el correo electrónico y las aplicaciones de chat. Este pequeño límite evita apagar fuegos de forma reactiva y reduce futuras emergencias."
+
 ---
 
 Dwight D. Eisenhower, comandante supremo aliado en la Segunda Guerra Mundial y 34.º presidente de los EE. UU., enfrentó diariamente algunas de las decisiones más complejas de la historia. En medio de operaciones militares masivas, diplomacia y gobernanza, practicaba un hábito matutino simple pero poderoso: dibujar una cruz en un papel para dividir las tareas en cuatro cuadrantes. Se preguntaba constantemente: '¿Es esto importante o es simplemente urgente?' Exploramos los principios psicológicos de la Matriz de Eisenhower que liberan al cerebro de la trampa de la urgencia.

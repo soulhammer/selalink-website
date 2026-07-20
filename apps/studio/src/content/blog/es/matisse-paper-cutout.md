@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, absolutamente. La calidad estética no importa. El mecanismo de curación es la combinación del movimiento preciso de los dedos (táctil) y la observación de colores (visual). El efecto es el mismo."
   - question: "¿Qué tal usar plastilina o aplicaciones de dibujo en lugar de tijeras?"
     answer: "La plastilina se recomienda por su estimulación táctil. Las aplicaciones de dibujo no son ideales debido al deslizamiento y las notificaciones. Para una verdadera recuperación, es mejor usar herramientas físicas."
+
 ---
 
 Henri Matisse freed los colores intensos. Pero al final de su vida, sufrió de dolor físico y no podía pintar. ✂️

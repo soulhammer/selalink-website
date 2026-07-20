@@ -21,6 +21,7 @@ faqs:
     answer: "Light fiction also has a cooling effect to relieve brain stress, but to produce a 'value-oriented motivation' effect that aligns self-identity and inspires willpower like Alexander's routine, it is much better to choose classic epics, philosophy books, or biographies that provide inner resonance and reflection."
   - question: "Can I read books on an e-reader while lying down?"
     answer: "E-readers or tablet screens release blue light, which can mislead the brain into thinking it is daytime and suppress melatonin secretion. For the best effect of subconscious alignment and deep sleep, it is recommended to read a physical paper book under warm, dim lighting."
+
 ---
 
 Alexander the Great, who ascended the throne at 20 and built an empire from Macedonia to India. He faced harsh mental tensions. ⚔️

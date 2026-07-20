@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, das Gehen zu jeder Tageszeit bietet eine bilaterale Stimulation. Während Morgenspaziergänge das Gehirn wecken, helfen Abendspaziergänge, kognitive Lasten und emotionale Spannungen des Tages abzubauen."
   - question: "Kann ich meine unbewussten Gedanken auf einem Smartphone eintippen?"
     answer: "Tippen aktiviert den logischen Rechenmodus des Gehirns. Das Schreiben mit einem Stift regt das Retikuläre Aktivierungssystem (RAS) durch Muskelkontrolle an, was unbewusste Gedanken effektiver an die Oberfläche bringt."
+
 ---
 
 Sigmund Freud, der Vater der Psychoanalyse, der die moderne Psychologie durch Konzepte wie das Unterbewusstsein prägte. Woher stammten seine tiefen Einsichten? 🧠

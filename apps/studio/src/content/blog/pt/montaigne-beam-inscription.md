@@ -16,6 +16,7 @@ steps:
     text: "Escreva a frase em um cartão e cole em um local alto, como a moldura superior de seu monitor ou o teto. O objetivo é forçar o olhar para cima ao lê-la."
   - name: "Olhar para cima e refletir por 15 segundos"
     text: "Quando se sentir bloqueado, incline-se, levante a cabeça e leia a frase por 15 segundos. Permita que seu cérebro se desconecte do problema imediato para calibrar a lógica à distância."
+
 ---
 
 "Aquele que não olha para frente fica para trás." Michel de Montaigne retirou-se aos 38 anos para a biblioteca de sua torre. Nas vigas de madeira, entalhou 57 máximas gregas e latinas. Sentado em sua poltrona, olhava para essas frases para quebrar seus preconceitos, o que lhe permitiu escrever seus Ensaios.

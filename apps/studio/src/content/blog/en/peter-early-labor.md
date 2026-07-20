@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does performing physical movement training in a tired morning state strain the brain?"
     answer: "On the contrary, stimulating hand movements and sensory nerves right after waking triggers the reticular system to promote cortisol and dopamine release, clearing sleep inertia fastest and awakening the brain."
+
 ---
 
 Peter the Great, the great Tsar who completely reformed the backward Russian Empire and established it as a major power. Where did his charisma, forbidding the luxury and laziness of nobility and fostering the navy, originate? ⚓

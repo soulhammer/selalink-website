@@ -21,6 +21,7 @@ faqs:
     answer: "Debat meningkatkan adrenalin dan kortisol. Tetapkan aturan dasar sebelumnya: 'Mari fokus pada pertumbuhan pribadi, perasaan, atau buku daripada berita hari ini.'"
   - question: "Bagaimana jika menjadwalkan pertemuan mingguan dengan teman terlalu sulit?"
     answer: "Anda tidak harus bertemu setiap minggu. Makan malam tatap muka bulanan atau panggilan suara tenang selama 30 menit dua mingguan untuk berbagi kabar sudah cukup untuk merangsang oksitosin."
+
 ---
 
 Epikuros, yang sering disalahpahami sebagai seorang hedonis, mengejar ketenangan batin atau 'ataraxia' melalui kehidupan yang disiplin. Menghindari kekacauan politik Athena, ia membangun 'Taman' di pinggiran kota. Di sini, dengan mengabaikan status sosial dan gender, ia berbagi makanan sederhana berupa roti, air, dan keju dengan teman-temannya, sambil terlibat dalam dialog intelektual. Ia berargumen bahwa ketamakan materi memicu dahaga, sementara kepercayaan mendalam dan persahabatan menyembuhkan jiwa.

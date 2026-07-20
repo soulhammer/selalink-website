@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, absolutamente. A qualidade estética do resultado não importa. O mecanismo de cura é a combinação do movimento preciso dos dedos (tátil) e a observação de cores (visual). O efeito terapêutico é o mesmo."
   - question: "Que tal usar plasticina ou aplicativos de desenho em vez de tesouras?"
     answer: "A plasticina é recomendada por sua estimulação tátil. Os aplicativos de desenho não são recomendados devido ao deslize da tela e às notificações. Para recuperar o foco, use ferramentas físicas."
+
 ---
 
 Henri Matisse libertou as cores intensas. Mas ao final da vida, sofreu de dor física e não podia pintar. ✂️

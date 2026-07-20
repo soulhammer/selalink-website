@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bolehkah saya menggunakan aplikasi mind map digital jika tidak ada kartu kertas?"
     answer: "Aplikasi mind map digital cukup membantu, tetapi stimulasi taktil dari menyentuh dan menggeser kartu kertas secara fisik mengaktifkan korteks motorik otak dengan lebih kuat. Penelitian neurosains membuktikan manipulasi fisik 3 dimensi memicu aktivitas gelombang otak yang lebih baik untuk kreativitas dibanding sekadar mengklik layar."
+
 ---
 
 Tabel periodik, peta dari semua unsur kimia dan tonggak terpenting sains modern. Penemunya, ilmuwan jenius asal Rusia Dmitri Mendeleev, menggunakan tumpukan 63 kartu kertas buatan tangan untuk memecahkan misteri tersebut. Ia selalu membawa kartu-kartu berisi data berat atom itu, menyusunnya berulang kali seperti bermain kartu solitaire. Pelajari bagaimana mengubah info abstrak menjadi kartu fisik memicu inovasi kognitif.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana pekerja kantor di ruang terbuka dapat menerapkan rutinitas isolasi Mahler?"
     answer: "Dalam skenario ini, gunakan isolasi pendengaran dan digital. Mengenakan headphone peredam bising dengan derau putih berfungsi sebagai pelindung kognitif. Ubah status perpesanan menjadi 'Jangan Ganggu' dan maksimalkan layar utama."
+
 ---
 
 Gustav Mahler, maestro Austria yang mengubah simfoni abadi dengan orkestrasi masif. Selama masa kepemimpinannya yang sibuk, dia harus mencurahkan energi musiknya selama liburan musim panas. Untuk mencapai hal ini, Mahler membangun 'Pondok Komposisi' kecil di hutan Alpen. Setiap pagi pukul 6 pagi, Mahler mengunci diri di dalam hingga siang. Kami menjelajahi bagaimana isolasi mutlak ini membantu kinerja kreatif puncak.

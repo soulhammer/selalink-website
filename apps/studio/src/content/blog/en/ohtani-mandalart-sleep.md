@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Is it okay to shorten the sleep time if 10 hours is unrealistic for busy people?"
     answer: "The 10-hour standard is for elite athletes with extremely high training volumes; 7 to 8 hours of complete sleep is sufficient for general active people. The key is to maximize the ratio of deep sleep (slow-wave sleep) through sleep environment control rather than obsessing over duration."
+
 ---
 
 An absolute hero of baseball who dominates Major League Baseball, two-way genius Shohei Ohtani. The secret why he maintains outstanding performance every season is based on two surprisingly classic routines. First, the Mandalart technique that structures all detailed plans into an 81-grid, and second, a 10-hour recovery sleep routine utilizing his own pillow even in away hotels. Explore how this extreme precision resets the brain and muscles for peak performance.

@@ -21,6 +21,7 @@ faqs:
     answer: "Por supuesto. No necesita tocar melodías complejas. En su lugar, reproduzca música clásica y concéntrese en ella mientras practica respiración abdominal profunda para obtener la estimulación nerviosa y la transición a ondas alfa."
   - question: "¿Cómo estimula el agua fría el nervio vago y despierta el cerebro?"
     answer: "Cuando el agua fría toca la cara, el cuerpo activa el reflejo de inmersión, lo que reduce el ritmo cardíaco y prioriza la oxigenación cerebral. Esta respuesta estimula directamente el nervio trigémino y vago, despejando la modorra matutina."
+
 ---
 
 Arthur Schopenhauer, el filósofo alemán que definió el mundo como voluntad y representación. ¿Cómo preparaba su mente cada mañana? 🎶

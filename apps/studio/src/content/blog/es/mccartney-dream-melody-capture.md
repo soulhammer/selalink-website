@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué pasa si me despierto y no recuerdo absolutamente nada de mis sueños?"
     answer: "Es normal. Si no recuerda ningún sueño, realice un ejercicio de escritura de flujo de conciencia en su lugar. Escriba libremente tres líneas de cualquier palabra que se le ocurra sin filtrar. Esto funciona como un calentamiento cognitivo, desbloqueando el pensamiento lateral y preparando al cerebro para el rendimiento creativo durante el día."
+
 ---
 
 Paul McCartney, el genio musical detrás de The Beatles, compuso Yesterday, una de las canciones con más versiones de la historia, directamente a partir de un sueño. Al despertarse en Londres en 1964, una melodía resonó en su cabeza. Temiendo que se le escapara, saltó de la cama e instantáneamente la tocó en su piano, asegurando la inspiración en bruto antes de que su mente consciente la borrara. Este hábito de capturar fragmentos de sueños se convirtió en el crisol de muchos de sus éxitos. Exploramos la neurobiología del estado hipnagógico, la zona de penumbra entre el sueño y la vigilia donde el cerebro genera sus asociaciones creativas más desenfrenadas.

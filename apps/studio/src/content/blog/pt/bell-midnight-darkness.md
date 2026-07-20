@@ -21,6 +21,7 @@ faqs:
     answer: "Fazer no mesmo horário ajuda o cérebro a associar o momento ao foco profundo. Porém, usá-lo como um reinício de emergência após uma sobrecarga mental também é muito eficaz."
   - question: "O que fazer se não houver silêncio absoluto ou se eu não puder bloquear os ruídos?"
     answer: "Se o silêncio total for impossível, use a técnica de mascaramento tocando ruído branco, ruído rosa ou sons de chuva sem vocais nos fones para evitar distrações de ruídos externos."
+
 ---
 
 Alexander Graham Bell, o grande inventor que mudou a comunicação humana ao inventar o telefone prático. De onde vinham suas inspirações criativas? 🌌

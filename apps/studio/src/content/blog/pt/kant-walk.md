@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Porque é que Immanuel Kant ia passear exatamente às 15:30 todos os dias?"
     answer: "Era um ritual rigoroso para manter o seu ritmo circadiano e sustentar a investigação filosófica abstrata por décadas, protegendo a saúde."
+
 ---
 
 O maior filósofo da epistemologia na história da humanidade e o gigante que estabeleceu as bases do idealismo alemão moderno, Immanuel Kant. Todos os dias às 15h30, sem falta, ele saía de casa vestindo o mesmo casaco e caminhava por uma rota predeterminada. 🚶‍♂️

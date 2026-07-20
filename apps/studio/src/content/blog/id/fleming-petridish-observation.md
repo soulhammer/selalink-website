@@ -21,6 +21,7 @@ faqs:
     answer: "Saat mencoba menyembunyikan kesalahan, kecemasan berlangsung lebih lama. Menuliskan fakta dan menganalisis mengapa kegagalan terjadi membantu otak mendapatkan kembali kendali, menurunkan stres."
   - question: "Apakah ada latihan otak untuk menangkap penemuan tak terduga (serendipitas) dengan lebih baik?"
     answer: "Melakukan perubahan kecil pada rute atau kebiasaan harian sangat membantu. Berjalan di jalur berbeda atau bekerja di tempat baru memperkenalkan noise mikro, merangsang otak menangkap hubungan baru."
+
 ---
 
 Penisilin, antibiotik pertama yang menyelamatkan ratusan juta nyawa. Apakah lahir di laboratorium canggih? 🧫

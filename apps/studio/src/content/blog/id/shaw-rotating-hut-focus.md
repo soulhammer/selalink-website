@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika saya tinggal di apartemen bersama dan tidak dapat membuat ruang terpisah secara fisik?"
     answer: "Jika pemisahan fisik tidak memungkinkan, buatlah penghalang akustik dengan headphone peredam bising yang memainkan white noise frekuensi rendah. Selain itu, letakkan tanda Jangan Ganggu kecil di meja Anda, atau sesuaikan jadwal Anda untuk bangun 2 jam sebelum orang lain."
+
 ---
 
 George Bernard Shaw, dramawan dan kritikus Irlandia yang cemerlang, terkenal berlidah tajam, tetapi dalam rutinitas kerjanya, ia sangat disiplin. Untuk mencegah gangguan dari teman dan penelepon, ia membangun pondok menulis kayu kecil di ujung tamannya di Ayot St Lawrence. Pondok itu berdiri di atas sasis baja berputar, memungkinkan Shaw mendorongnya secara manual untuk melacak matahari saat bergerak melintasi langit, memenuhi ruang kerjanya dengan cahaya matahari. Untuk menghindari tamu yang tidak terduga, ia memberi tahu stafnya untuk memberi tahu penelepon bahwa ia pergi ke London. Kami memeriksa psikologi dari isolasi khusus ini yang dikombinasikan dengan pelacakan cahaya matahari.

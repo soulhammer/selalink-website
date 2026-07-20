@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Apakah meremas jari kaki benar-benar membantu mengaktifkan otak?"
     answer: "Ya, area jari kaki terletak di korteks somatosensorik dekat pusat otak. Merangsang otot mikro mengirimkan sinyal ke otak."
+
 ---
 
 Ilmuwan jenius yang menerangi dunia bersama Edison dan meletakkan dasar bagi peradaban listrik modern, Nikola Tesla. Tahukah Anda bahwa dia mengulangi tindakan yang sangat aneh di tempat tidur setiap malam? ⚡

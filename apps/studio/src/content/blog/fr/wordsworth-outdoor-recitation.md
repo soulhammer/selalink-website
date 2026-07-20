@@ -21,6 +21,7 @@ faqs:
     answer: "Dans son journal, elle raconte que son frère faisait les cent pas dans le jardin des centaines de fois par jour en murmurant, le tempo de ses pas et de sa déclamation variant de concert."
   - question: "La méthode fonctionne-t-elle sur un tapis de course en intérieur ?"
     answer: "Oui. L'effet reposant sur l'activation du cervelet par le mouvement, marcher lentement sur un tapis de course produit le même résultat de synchronisation cérébrale et de feedback."
+
 ---
 
 William Wordsworth, figure du romantisme anglais célèbre pour 'L'Arc-en-ciel' et 'Les Narcisses'. Sa poésie, l'une des plus mélodieuses de la langue anglaise, ne s'est pas construite sur le papier d'un cabinet sombre, mais au rythme de ses pas sur les sentiers du Lake District. 🚶‍♂️

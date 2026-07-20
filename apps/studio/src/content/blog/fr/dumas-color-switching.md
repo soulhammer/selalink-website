@@ -21,6 +21,7 @@ faqs:
     answer: "Non. Configurer la couleur des outils numériques (thèmes d'applications, dossiers d'e-mails, thèmes du navigateur) selon l'usage apporte le même effet d'amorçage."
   - question: "Est-ce contre-productif d'utiliser trop de couleurs et de changer ?"
     answer: "Oui. Pour que le cerveau associe une couleur à un état mental, il faut de la cohérence. Limitez les couleurs à 3 catégories principales et respectez-les."
+
 ---
 
 Alexandre Dumas écrivait ses romans sur du papier bleu, sa poésie sur du jaune et ses articles sur du rose. Cette alternance évitait la fatigue mentale et stimulait son cortex visuel.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, em 1830, perante um prazo urgente para entregar 'Nossa Senhora de Paris', Hugo cortou metade do cabelo e da barba, guardou a sua roupa formal e focou-se em escrever para evitar sair."
   - question: "Que dispositivos de compromisso modernos posso usar sem rapar a cabeça?"
     answer: "Pode usar uma caixa com temporizador para guardar o seu telemóvel durante certas horas, ou configurar uma conta de utilizador específica no seu computador que bloqueie o acesso web."
+
 ---
 
 Victor Hugo, o monumental escritor francês que escreveu 'Os Miseráveis' e 'Nossa Senhora de Paris'. Diante de um prazo de entrega muito apertado, recorreu a uma medida extrema: rapou metade do cabelo e da barba e fechou-se no seu escritório. Incapaz de sair devido à sua aparência, terminou a obra a tempo. Hoje, o BuildSelf analisa como os dispositivos de compromisso físico forçam o foco.

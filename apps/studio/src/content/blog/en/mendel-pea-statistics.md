@@ -21,6 +21,7 @@ faqs:
     answer: "Spreadsheets automate the processing, which minimizes visual cognitive stimulation. Placing a ruler and drawing lines by hand engages the inferior parietal lobe much more strongly, helping you intuitively grasp cause-and-effect relationships and hidden patterns."
   - question: "Is it necessary to keep recording even when there are no major changes in the numbers?"
     answer: "Yes, absolutely. A flat line represents consistency, which is valuable data. Documenting periods with no change maintains the brain's impulse control mechanisms and provides a crucial control group when anomalies eventually occur."
+
 ---
 
 Gregor Mendel, the father of genetics who unlocked how parental traits are inherited. In a mid-19th century monastery without proper lab equipment, how did he discover the laws of inheritance? 🫛

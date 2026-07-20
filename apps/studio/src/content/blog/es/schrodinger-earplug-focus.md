@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué debo hacer si el silencio completo dificulta la concentración o provoca ansiedad?"
     answer: "Para los principiantes que se sientan incómodos en completo silencio, se recomienda empezar reproduciendo ruido blanco (sonidos de lluvia o de olas) o ruido rosa simple sin letra, para que el cerebro pase por un proceso de encuadre cognitivo y se adapte al silencio."
+
 ---
 
 Erwin Schrödinger, el genial físico austriaco que ganó el Premio Nobel de Física y sentó las bases de la mecánica cuántica moderna al descubrir la ecuación de ondas, la ley física más misteriosa y compleja de la historia. ¿De dónde procedían sus brillantes cálculos matemáticos y sus profundos pensamientos físico-filosóficos? 🌌

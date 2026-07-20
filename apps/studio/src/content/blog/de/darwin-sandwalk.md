@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was ist Darwins Sandwalk?"
     answer: "Es war ein Pfad, den er täglich ging, um den präfrontalen Kortex zu aktivieren und die Evolutionstheorie zu ordnen."
+
 ---
 
 Charles Darwin, der Mann, der mit seinem Werk 'Die Entstehung der Arten' die größte Revolution des wissenschaftlichen Denkens in der Menschheitsgeschichte auslöste. Woher stammten die evolutionären Inspirationen, die das Paradigma der Menschheit veränderten? Darwin verbrachte sein Leben mit Forschungen im Down House, einem ruhigen Dorf in der Nähe von London. Jeden Morgen und Nachmittag ging er den 'Sandwalk', einen Kies- und Erdweg, den er um sein Haus herum angelegt hatte. Er nannte diesen Weg den 'Denkweg'. Zu Beginn seines Spaziergangs stapelte er fünf oder sechs kleine Steine an einer Ecke und stieß bei jeder Runde einen Stein weg, um zu wissen, wie viele Runden er bereits gegangen war. Heute untersucht BuildSelf die wissenschaftlichen Prinzipien von Darwins 'Sandwalk'-Routine und wie moderne Menschen sie nutzen können, um ihre Kreativität zu steigern.

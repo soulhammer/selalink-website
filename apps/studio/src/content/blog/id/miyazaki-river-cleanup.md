@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah saya harus memungut sampah, atau bolehkah saya berjalan saja?"
     answer: "Jalan biasa membantu aktivasi DMN, tetapi menggabungkannya dengan tindakan altruistik memungut sampah dan 'merapikan lingkungan' memicu kepuasan dopamin dan serotonin yang lebih tinggi."
+
 ---
 
 Sutradara Hayao Miyazaki, legenda dalam sejarah animasi yang merilis karya-karya seperti 'My Neighbor Totoro' and 'Spirited Away.' Dia memiliki rutinitas unik setiap pagi: mengenakan celemek dan berjalan di sekitar sungai lingkungan, memungut sampah. Apa rahasianya?

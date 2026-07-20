@@ -21,6 +21,7 @@ faqs:
     answer: "Freely press keys as your fingers lead without worrying about melody or dissonance. Focusing solely on the key touch and resonance relaxes and resets the brain's attention network."
   - question: "Can I achieve a cognitive reset with other instruments besides the piano?"
     answer: "Yes. Any string or keyboard instruments that require precise finger coordination and allow direct control over resonance will provide similar attention-shifting effects."
+
 ---
 
 Max Planck, the father of modern physics, established the quantum hypothesis and discovered the Planck constant. Amidst the intense logical calculations and math equations that restructured the universe, the key to controlling his research fatigue and neuralgia was the piano. Planck was a gifted pianist who often played chamber music duos with Albert Einstein on violin. Every day, when his research stalled, he sat before the piano and immersed himself in improvisation without sheet music. We explore how this artistic transition refreshed his brain.

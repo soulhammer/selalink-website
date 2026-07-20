@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Can I replace paper cards with mind mapping apps if none are available?"
     answer: "While mind mapping apps help with structuring, physical tactile input from sliding cards with your fingers awakens the motor cortex and parietal lobes much more strongly. Cognitive research shows physical 3D manipulation induces far superior brainwave changes for ideation and memory than moving objects on a screen. Using physical cards is recommended."
+
 ---
 
 The periodic table, the map of all elements and the most beautiful milestone of modern chemistry. Russian genius scientist Dmitri Mendeleev designed this great discovery. The tool he used to reveal the hidden cycles of elements was a hand-cut stack of 63 cards. He always carried the cards noting atomic weights and properties in his pocket, arranging them repeatedly like solitaire in trains or on desks. Let's analyze how converting vast information into physical cards triggers cognitive innovation.

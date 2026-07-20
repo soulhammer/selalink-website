@@ -21,6 +21,7 @@ faqs:
     answer: "Spreadsheet mengotomatiskan proses, meminimalkan stimulasi kognitif visual. Menggaris dengan penggaris dan menggambar garis secara manual merangsang lobus parietal inferior dengan lebih kuat, membantu memahami pola sebab-akibat."
   - question: "Apakah perlu terus mencatat meskipun tidak ada perubahan besar pada angka tersebut?"
     answer: "Ya, tentu saja. Garis datar mewakili konsistensi, yang merupakan data berharga. Mencatat periode tanpa perubahan mempertahankan mekanisme kontrol impuls otak dan menjadi pembanding penting saat terjadi anomali."
+
 ---
 
 Gregor Mendel, bapak genetika. Di biara abad ke-19 tanpa peralatan laboratorium mumpuni, bagaimana ia menemukan hukum pewarisan sifat? 🫛

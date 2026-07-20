@@ -16,6 +16,7 @@ steps:
     text: "Quittez votre bureau et commencez une tâche manuelle pendant 15 minutes. Assurez-vous que l'activité demande un contrôle précis (comme faire la vaisselle)."
   - name: "Retourner au travail cognitif"
     text: "Après la pause, retournez à votre travail. Vous constaterez que votre cortex préfrontal a reconstitué ses réserves, facilitant la résolution de problèmes."
+
 ---
 
 "La logique a besoin de clarté, et la clarté se polit à la main." Baruch Spinoza, le philosophe hollandais qui définissait Dieu comme la nature, refusa les mécénats pour rester indépendant. Il gagnait sa vie en polissant des lentilles. Les mouvements répétitifs de ce travail permettaient à son esprit analytique de se reposer.

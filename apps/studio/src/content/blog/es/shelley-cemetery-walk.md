@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Mary Shelley elegía el cementerio donde yacía su madre?"
     answer: "Su madre falleció tras darle a luz. El sepulcro era su único contacto físico. Estar allí le permitía meditar sobre el nacimiento, muerte e identidad, ejes clave de Frankenstein."
+
 ---
 
 Mary Shelley, la novelista inglesa que fue pionera en la ciencia ficción con *Frankenstein*. Desde niña, visitaba el cementerio donde yacía su madre para leer y pensar. Para ella, los cementerios eran santuarios tranquilos sobre la vida y la muerte. Conozcamos cómo la solemne atmósfera activa redes creativas en el cerebro.

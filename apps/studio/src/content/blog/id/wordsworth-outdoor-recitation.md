@@ -21,6 +21,7 @@ faqs:
     answer: "Dalam buku hariannya, dia menulis, 'William bolak-balik di jalan taman ratusan kali pagi ini, melafalkan puisi,' dan kecepatan jalannya berubah secara proporsional."
   - question: "Apakah efektif melafalkan sambil berjalan di atas treadmill dalam ruangan?"
     answer: "Ya, karena tindakan fisiologis intinya adalah peningkatan sirkulasi sistemik dan aktivasi otak kecil akibat berjalan, melafalkan sambil berjalan lambat di atas treadmill bekerja sama baiknya."
+
 ---
 
 William Wordsworth, penyair besar sastra Romantis yang memaksimalkan napas liris alam Inggris dengan menerbitkan puisi seperti 'Rainbow' dan 'Daffodils.' Puisi indahnya, disetel bukan di atas kertas di ruangan gelap, tetapi dalam suara langkah kaki di jalur hutan. 🚶‍♂️

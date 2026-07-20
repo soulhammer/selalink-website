@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Cahaya biru dan umpan informasi yang merangsang dari layar digital membuat otak tetap terjaga alih-alih mengistirahatkannya, mengganggu sekresi hormon melatonin. Untuk relaksasi kognitif, alat analog atau objek fisik wajib digunakan."
   - question: "Apa yang harus saya lakukan jika 30 menit setiap malam terasa terlalu lama?"
     answer: "Jika waktu mepet, bahkan 10 menit saja sudah cukup. Menutup laptop dan mencorat-coret di buku gambar atau menulis buku harian analog singkat tetap efektif memberikan sinyal aman ke otak bahwa 'hari kerja telah selesai'."
+
 ---
 
 Franklin D. Roosevelt memimpin AS melewati Depresi Besar dan Perang Dunia II. Rahasia meredakan stresnya adalah merapikan perangko selama 30 menit sebelum tidur tanpa gangguan untuk menjauhkan pikiran dari urusan perang.

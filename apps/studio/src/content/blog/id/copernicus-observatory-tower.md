@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika itu adalah apartemen studio kecil dan sulit mengisolasi ruang secara fisik?"
     answer: "Jika isolasi fisik sulit, Anda dapat memperoleh efek yang sama dengan menyesuaikan 'pemicu visual/lingkungan' secara buatan, seperti menyalakan lampu meja tertentu atau memasang alas meja yang hanya digunakan saat belajar."
+
 ---
 
 Nicolaus Copernicus, yang mendeklarasikan teori heliosentris bahwa Bumi mengelilingi Matahari. Basis penelitian tempat dia mengungkap rahasia kosmos adalah menara observatorium batu yang sempit di Katedral Frombork, Polandia. Selama beberapa dekade, dia tidak mengubah instrumen atau lokasinya. Temukan mekanisme otak dari isolasi spasial ini.

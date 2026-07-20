@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does walking offer a similar DMN activation effect as domestic chores?"
     answer: "Yes, walking is a powerful creative facilitator. However, walking outside requires navigating terrain, avoiding obstacles, and processing changing environments. Domestic chores like ironing take place in a controlled room, depending on fully automated motor memory. This minimizes prefrontal intervention even further than walking, inducing a deeply stable DMN state."
+
 ---
 
 George Balanchine, the legendary choreographer who revolutionized 20th-century ballet. Faced with the pressure of producing geometric and innovative movements, he too encountered mental blocks. However, Balanchine didn't force himself to sit and think. Instead, he stood up, set up an ironing board, and ironed shirts or mopped floors. We analyze how this mundane household chore routine rewires the brain's creative pathways to deliver artistic breakthroughs.

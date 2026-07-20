@@ -21,6 +21,7 @@ faqs:
     answer: "Absolut. Es reicht aus, einen kleinen Topf auf dem Balkon mit Erde zu füllen und eine Pflanze einzusetzen, um den gleichen taktilen Reiz zu spüren. Wichtig ist der physische Kontakt, nicht die Größe der Pflanze."
   - question: "Gibt es Hygieneprobleme, wenn man die Erde mit bloßen Händen berührt?"
     answer: "Handelsübliche Blumenerde ist sterilisiert und sicher. Nützliche Bakterien helfen sogar, das Immunsystem zu stärken. Bei Bedenken können Sie dünne Gartenhandschuhe tragen und sich danach gründlich die Hände waschen."
+
 ---
 
 Audrey Hepburn, die ewige Ikone Hollywoods, die sich als UNICEF-Botschafterin für Kinder einsetzte. Was war ihre Kraftquelle, um trotz Medienrummel und Krebserkrankung innere Wunden zu heilen und ihre Eleganz zu bewahren? Sie widmete sich jeden Nachmittag der Gartenarbeit in ihrem Haus in Tolochenaz in der Schweiz. Heute stellt BuildSelf die Prinzipien der kognitiven Erholung und die emotionale Heilungsroutine von Audrey Hepburns 'Gartenarbeit' vor.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Henri Poincaré investigaba solo 4 horas al día?"
     answer: "Forzar la concentración durante muchas horas estrecha el alcance cognitivo y reduce la creatividad. Por ello, tras 4 horas en modo focalizado, activaba el modo difuso mediante paseos y descanso para extraer ideas del subconsciente."
+
 ---
 
 Henri Poincaré, el matemático francés que resolvió el problema de los tres cuerpos, pionero de la teoría del caos y uno de los mayores genios de la historia, tenía la sorprendente regla de trabajar en su escritorio solo 4 horas al día. ⏰

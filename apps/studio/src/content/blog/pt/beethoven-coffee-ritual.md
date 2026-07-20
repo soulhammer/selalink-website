@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Beethoven insistia em contar 60 grãos de café?"
     answer: "Através do ato repetitivo de contar 60 grãos, concentrava a energia cognitiva para usá-la como gatilho de concentração."
+
 ---
 
 Ludwig van Beethoven, um dos maiores compositores da história da música ocidental, que superou a provação mortal da perda auditiva e criou as melodias mais grandiosas da história, como a 'Sinfonia do Destino' e a 'Sinfonia Coral'. Sabia que ele realizava um ritual matinal antes de começar a compor? Era o ritual de contar exatamente '60 grãos' de café. Beethoven era muito sensível ao sabor e aroma del café e insistia na proporção perfeita. Contar estes 60 grãos era uma entrada sagrada para isolar os ruídos externos e entrar no seu mundo musical. Hoje, o BuildSelf partilha os segredos científicos del ritual de Beethoven.

@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, Einstein ging regelmäßig segeln, um den Wind zu spüren und zu meditieren, oder schlief mehr als 10 Stunden am Tag, damit sein Unterbewusstsein komplexe Probleme ordnen konnte."
   - question: "Kann jemand, der kein Instrument spielt, diese Routine anwenden?"
     answer: "Absolut. Statt ein Instrument zu spielen, können Sie sich auf klassische Musik konzentrieren, den Rhythmus mit den Fingern mitklopfen oder tief durchatmen, während Sie alle visuellen Reize für 5 Minuten ausblenden."
+
 ---
 
 Albert Einstein, der größte Physiker der Geschichte, der mit der Relativitätstheorie das Paradigma der modernen Physik veränderte und das Weltbild der Menschheit revolutionierte. Woher stammten die großen physikalischen Inspirationen, die das Denken veränderten? 🎻

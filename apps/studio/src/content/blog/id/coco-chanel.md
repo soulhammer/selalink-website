@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, tetapkan batas yang jelas antara kerja dan istirahat melalui ritual isolasi, menghirup wewangian sendirian setelah bekerja."
   - question: "Bagaimana cara menggantinya jika saya tidak memiliki parfum aroma atau kamar hotel?"
     answer: "Anda dapat memperoleh efek yang sama dengan mematikan ponsel selama 15 min di sudut rumah yang rapi sambil menghirup aroma difuser."
+
 ---
 
 Coco Chanel adalah perancang busana Perancis yang memimpin revolusi dalam desain busana di abad ke-20 dan membebaskan wanita dari penindasan korset, dan pendiri merek Chanel. Coco Chanel menghadirkan kebebasan esensial dalam berpakaian wanita melalui keindahan hitam dan sederhana (Sederhana adalah yang terbaik). Berdiri di studionya, dia berjalan melewati kain tepat di atas tubuh model, dan hanya dengan gunting di tangannya, dia tanpa ampun memotong korset yang rumit dan berat, kerah besar, dan renda yang tidak perlu pada abad ke-19. Alih-alih menghapus garis dengan pena, ia merasakan ketegangan pada kain dan memotongnya, menciptakan penyederhanaan minimalis yang memungkinkan perempuan untuk bergerak bebas dan melatih kesadaran tubuh mereka.

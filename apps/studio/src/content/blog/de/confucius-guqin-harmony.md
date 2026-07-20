@@ -21,6 +21,7 @@ faqs:
     answer: "Natürlich. Ziel ist nicht das Erlernen schwieriger Techniken, sondern die Beruhigung des Nervensystems durch das Stimmen und einfache Töne. Einfache Instrumente wie Ukulele oder Kalimba eignen sich hervorragend für den Einstieg."
   - question: "Ist es erlaubt, elektronische Stimmgeräte-Apps zu verwenden?"
     answer: "Sie können die App zur Orientierung nutzen, sollten sich aber auf das Hören konzentrieren, statt auf den Bildschirm zu starren. Schauen Sie nur flüchtig auf das Display und konzentrieren Sie sich auf den Ton und die Vibration."
+
 ---
 
 Konfuzius, der Begründer des Konfuzianismus und der einflussreichste Philosoph des östlichen Denkens. Was war das Geheimnis, dass er während seines beschwerlichen 14-jährigen Exils inmitten von Bedrohungen seine moralische Würde und seinen seelischen Frieden bewahrte? Konfuzius trug auch auf Reisen immer eine Guqin (Saiteninstrument) bei sich, spielte sie und sang täglich Gedichte. Für ihn war Musik keine Unterhaltung, sondern eine edle Methode der Selbstkultivierung, bei der er seinen inneren Fluss stimmte, so wie er die Saiten stimmte. Heute stellt BuildSelf die musiktherapeutischen Prinzipien und die moderne emotionale Stimmungsroutine von Konfuzius' 'Guqin-Stimmen' vor.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wie kann ich wie Warren Buffett jeden Tag 500 Seiten lesen?"
     answer: "Vom Start weg 500 Seiten zu lesen ist unmöglich. Der erste Schritt besteht darin, das Ziel schrittweise von 20 auf 30 Seiten pro Tag zu steigern, eine smartphonefreie Umgebung für ungestörtes Lesen zu schaffen und so die Gewohnheit zu etablieren."
+
 ---
 
 Warren Buffett, der Vorsitzende von Berkshire Hathaway und weithin als der erfolgreichste Investor der Geschichte angesehen, verbringt auch heute noch 80 % seines Tages mit dem Lesen und Analysieren von Berichten. 📚

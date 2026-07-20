@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum trug Da Vinci immer ein Notizbuch am Gürtel?"
     answer: "Um flüchtige Ideen und Beobachtungen sofort festzuhalten und die kognitive Energie frei zu halten."
+
 ---
 
 Leonardo da Vinci, das ultimative Genie der Renaissance, das beispiellose übermenschliche Leistungen in Kunst, Wissenschaft, Anatomie, Musik und Ingenieurwesen hinterließ. Was war die Quelle seiner genialen Kreativität und seiner Fähigkeit, Wissen zu wissenschaftlichen Themen zu synthetisieren? Das Geheimnis liegt in einer sehr einfachen, aber wirkungsvollen Gewohnheit, die er sein Leben lang beibehielt. Da Vinci trug stets ein kleines, in Leder gebundenes Notizbuch am Gürtel, um Inspirationen sofort festhalten zu können. Wenn er auf der Straße jemanden mit einem markanten Gesicht traf, folgte er ihm beharrlich, um ein Porträt in sein Notizbuch zu skizzieren. Wenn er den Fluss des Wassers beobachtete, zeichnete er die Bewegung der Wirbel an Ort und Stelle auf. Skizzen und Notizen entwickelten sich später zu den Tausenden von Seiten des 'Codex Leonardo da Vinci', der bis heute ein Schatz der Menschheit ist. Heute stellt BuildSelf die wissenschaftlichen Geheimnisse von Da Vincis Notizbuch-Routine vor.

@@ -21,6 +21,7 @@ faqs:
     answer: "Como você lida com reuniões importantes ou eventos formais com este hábito?"
   - question: "Posso montar um uniforme com roupas que não sejam camisetas y jeans?"
     answer: "Claro. Selecionar uma combinação simples e confortável de camisas, calças ou vestidos com os que você se sinta à vontade e estocar vários conjuntos idênticos é suficiente."
+
 ---
 
 Mark Zuckerberg, criador do Facebook. Diante de milhares de decisões críticas que afetam o Meta, desenvolveu uma estratégia famosa: não decidir a sua roupa diária. Seu armário contém várias camisetas idênticas de cor cinza. Analisemos como o cérebro consome energia com cada escolha executiva.

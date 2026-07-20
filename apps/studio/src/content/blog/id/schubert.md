@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak apa-apa. Hanya dalam waktu dua menit memegang pulpen dan menuangkan pemikiran, misi menangkap gelombang theta sudah berhasil diselesaikan. Segera setelah perekaman, jika Anda minum sedikit air atau melakukan peregangan untuk mengirimkan sinyal kebangkitan fisik ke otak Anda, tidur akan segera hilang."
   - question: "Apa yang harus saya lakukan ketika saya tidak dapat memikirkan apa pun untuk ditulis setelah bangun tidur?"
     answer: "Jika tidak bisa memikirkan apa pun, cukup putuskan gesekan sambungan antara pena dan sel motorik otak dengan menulis kata sifat yang menggambarkan keadaan sederhana, seperti 'Saya tidak ingat' atau 'Saya mengantuk', tiga kali berturut-turut di selembar kertas kosong."
+
 ---
 
 Franz Schubert, seorang komposer Austria jenius yang mewakili musik Romantis abad ke-19 dan disebut Raja Lieder (Liederfürst), menggubah lebih dari 600 lagu dan simfoni yang hebat dan liris hingga kematiannya yang muda di usia muda 31 tahun. Begitu dia membuka matanya setiap pagi, tanpa melepas kacamatanya, dia langsung menuju meja komposisi tepat di samping tempat tidurnya dan mulai menulis nada-nada di kertas musik. Agar tidak melupakan ketidaksadaran musikal yang muncul bahkan dalam kondisi setengah tertidur, dia pergi tidur tanpa mengenakan kacamata. Rutinitas menulis langsung ini, yang menghilangkan semua hambatan antara bangun di pagi hari dan mulai bekerja, inilah yang menjadikannya seorang komposer abadi.

@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Le bain d'air (Air Bath) aide-t-il vraiment à prévenir les rhumes ?"
     answer: "Oui, exposer la peau à l'air frais augmente la résistance aux changements de température et stimule l'immunité contre le rhume."
+
 ---
 
 L'homme dont le visage orne le billet de 100 dollars américains, le génie scientifique qui a inventé le paratonnerre, et Benjamin Franklin, réputé pour sa discipline de fer. Connaissez-vous l'étonnante habitude qu'il pratiquait chaque matin au saut du lit ? 💨

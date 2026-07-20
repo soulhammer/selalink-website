@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah harus mawar kuning?"
     answer: "Tidak. Bagi Márquez, mawar kuning adalah media pribadi yang menawarkan kenyamanan psikologis. Manusia modern dapat bebas memilih objek apa pun yang membuat mereka nyaman."
+
 ---
 
 Gabriel García Márquez, peraih Penghargaan Nobel Sastra untuk 'Seratus Tahun Kesunyian'. Salah satu sumber imajinasi sastranya adalah sekuntum mawar kuning yang diletakkan di mejanya setiap hari. Jika mawar kuning itu tidak ada, dia menganggapnya sebagai nasib sial dan tidak akan mengetik sepatah kata pun. Apakah itu sekadar obsesi, atau alasan ilmiah yang menstimulasi otak?

@@ -21,6 +21,7 @@ faqs:
     answer: "Membuka kunci ponsel dan mencari aplikasi membuat Anda terpapar gangguan seperti notifikasi media sosial atau email, sehingga mudah kehilangan inspirasi. Sebaliknya, buku catatan kertas memungkinkan penulisan instan saat dibuka dan, melalui stimulasi pena taktil, lebih andal membangkitkan filter RAS penting otak."
   - question: "Apakah ada kasus nyata di mana ide kecil yang ditulis dalam buku catatan benar-benar digunakan dalam bisnis atau pekerjaan?"
     answer: "Ya, Virgin Atlantic, bisnis utama Richard Branson, dimulai dari entri buku catatan. Ketika penerbangannya ke Puerto Riko dibatalkan, ia menulis 'Jalankan maskapai alternatif?' di buku catatannya, segera menanyakan harga sewa pesawat, dan menerbangkan pesawat dengan menjual tiket sekali jalan ke penumpang lain yang terlantar. Satu catatan itu adalah awal dari maskapai penerbangan global."
+
 ---
 
 Richard Branson, pengusaha miliarder yang mendirikan ikon Inggris Virgin Group dan membangun kerajaan bisnis yang beragam dari 400 lebih perusahaan yang mencakup penerbangan, ruang angkasa, keuangan, dan hiburan. Terkenal dengan pemasaran kreatif dan semangat petualangannya, ia memiliki satu barang khas yang unik. Ini bukan jam tangan mewah atau perangkat pintar berteknologi tinggi, melainkan buku catatan kertas analog kecil yang terselip di saku celana jinsnya.

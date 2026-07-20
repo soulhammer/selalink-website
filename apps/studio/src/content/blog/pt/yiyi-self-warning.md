@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que conteúdo é mais eficaz escrever no juramento de autoadvertência?"
     answer: "Escrever suas fraquezas mais difíceis de controlar (por exemplo, ficar longe do smartphone, cumplir horários) como frases positivas baseadas en ações es lo más eficaz para enviar estímulos claros al cerebro. (Wait, cumplir -> cumprir)"
+
 ---
 
 Yi I escreveu 11 regras de advertência pessoal e as lia todas as manhãs para regular seu comportamento. Este hábito diário fortaleceu o autocontrole.

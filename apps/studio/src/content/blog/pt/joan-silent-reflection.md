@@ -21,6 +21,7 @@ faqs:
     answer: "Não. O núcleo da rotina de Joana d'Arc é acalmar o cérebro logo após acordar, antes de receber informações do celular. Dedicar apenas 10 minutos ao acordar no seu horário habitual oferece o mesmo efeito."
   - question: "Não tenho religião, a oração silenciosa funcionará?"
     answer: "Com certeza. Esta rotina se concentra no 'bloqueio cognitivo' e na 'validação do valor próprio', não em ritos. Lembrar de seus valores ou convicções ativa o mesmo efeito de calma."
+
 ---
 
 Joana d'Arc, a salvadora de França. Descubra os efeitos de estabilização neuropsicológica de sua rotina de 'Silêncio Matinal' para manter a determinação, e um guia em 3 passos.

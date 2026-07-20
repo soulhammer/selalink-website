@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Porque é que Demóstenes rapou metade da cabeça?"
     answer: "Ao ridicularizar a sua aparência, impediu-se de sair à rua, forçando-se a superar a tentação e a ficar no seu estúdio a praticar."
+
 ---
 
 Um homem que superou a gagueira congênita, um físico frágil e a falta de ar que o impedia de falar por longos períodos para se tornar o maior estadista da Atenas Antiga e o maior orador da história grega. Esse homem foi Demóstenes. 🏛️

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Ist Flüstern oder stilles Denken weniger effektiv als lautes Sprechen?"
     answer: "Stilles Denken aktiviert das Sprachzentrum und die akustische Rückmeldung kaum. Sprechen Sie die Sätze mit klarer Stimme laut aus."
+
 ---
 
 Fjodor Dostojewski, der Meister der psychologischen Darstellung. Wie konnten seine Werke eine so überwältigende Lebendigkeit entfalten? Den Aufzeichnungen seiner Frau Anna zufolge lief er beim Schreiben wie wild im Zimmer auf und ab, schrie und hielt Monologe. Erfahren Sie mehr über diese Methode.

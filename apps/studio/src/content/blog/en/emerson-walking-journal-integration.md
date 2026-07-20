@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Can I use voice memos or digital note apps on my phone during walks?"
     answer: "Yes, provided you minimize digital distractions. Use an app that can be launched directly from your lock screen in offline mode to avoid notifications. The core value lies not in the paper itself, but in protecting the diffuse mode during your walk and securing the transfer to your permanent database that night."
+
 ---
 
 Ralph Waldo Emerson, the intellectual leader of the Transcendentalist movement in 19th-century America, inspired generations with his essays Self-Reliance and Nature. The foundation of his deep philosophy was a two-stage cognitive cycle. During the day, he wandered the woods of Concord with a leather pocket notebook, trapping fleeting thoughts with a pencil. At night, he sat at his desk to transfer these raw fragments into a large leather-bound journal, expanding them into coherent essays. We examine how alternating between physical diffuse mode thinking and nocturnal focused integration builds structural mental models.

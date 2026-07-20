@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Puedo usar notas de voz o aplicaciones de notas digitales en mi teléfono durante las caminatas?"
     answer: "Sí, siempre que minimice las distracciones digitales. Use una aplicación que se pueda iniciar directamente desde la pantalla de bloqueo en modo fuera de línea para evitar notificaciones. El valor principal no radica en el papel en sí, sino en proteger el modo difuso durante su caminata y asegurar la transferencia a su base de datos permanente esa noche."
+
 ---
 
 Ralph Waldo Emerson, el líder intelectual del movimiento trascendentalista en la América del siglo XIX, inspiró a generaciones con sus ensayos Self-Reliance y Nature. La base de su profunda filosofía fue un ciclo cognitivo de dos etapas. Durante el día, deambulaba por los bosques de Concord con un cuaderno de bolsillo de cuero, atrapando pensamientos fugaces con un lápiz. Por la noche, se sentaba en su escritorio para transferir estos fragmentos en bruto a un gran diario encuadernado en cuero, expandiéndolos en ensayos coherentes. Examinamos cómo la alternancia entre el pensamiento en modo difuso físico y la integración enfocada nocturna construye modelos mentales estructurales.

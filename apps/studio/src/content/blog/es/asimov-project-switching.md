@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Por qué Isaac Asimov cambiaba entre varias máquinas de escribir?"
     answer: "Para evitar la fatiga cognitiva y el estrés al bloquearse con un tema, alternando tareas de géneros y características totalmente diferentes para activar el efecto novedad y despertar distintas regiones de la corteza cerebral."
+
 ---
 
 Con más de 500 libros publicados en diversos géneros, Isaac Asimov fue una leyenda de la ciencia ficción y el divulgador científico más destacado de su época. Detrás de la capacidad de este maestro tan prolífico para producir manuscritos a diario se encontraba un hábito de trabajo único. ⌨️

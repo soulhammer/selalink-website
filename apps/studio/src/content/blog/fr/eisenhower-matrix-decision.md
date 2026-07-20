@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire si mon travail exige que tout soit urgent ? Comment puis-je protéger le quadrant 2 ?"
     answer: "Lorsque tout semble urgent, cela signifie généralement que les échéances des autres l'emportent sur vos propres priorités. Établissez un bloc non négociable de 30 minutes au début de votre journée pour le travail du Q2, en gardant vos courriels et vos applications de messagerie fermés. Cette petite limite évite la gestion de crise réactive et réduit les urgences futures."
+
 ---
 
 Dwight D. Eisenhower, commandant suprême allié pendant la Seconde Guerre Mundial et 34e président des États-Unis, était confronté quotidiennement à des décisions parmi les plus complexes de l'histoire. Au milieu d'opérations militaires massives, de diplomatie et de gouvernance, il pratiquait une habitude matinale simple mais puissante : dessiner une croix sur un papier pour diviser les tâches en quatre quadrants. Il se demandait constamment : « Est-ce important, ou est-ce juste urgent ? » Nous explorons les principes psychologiques de la matrice d'Eisenhower qui libèrent le cerveau du piège de l'urgence.

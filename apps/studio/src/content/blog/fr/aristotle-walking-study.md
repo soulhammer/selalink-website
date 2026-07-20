@@ -21,6 +21,7 @@ faqs:
     answer: "La marche en plein air est fortement recommandée. Le flux visuel de paysages qui défilent calme l'amygdale, réduit l'anxiété et stimule la créativité bien plus efficacement que de regarder un mur fixe sur un tapis roulant."
   - question: "Combien de temps dois-je marcher pour obtenir les meilleurs résultats ?"
     answer: "20 à 30 minutes sont idéales. Cette durée apporte les bienfaits aérobiques nécessaires pour augmenter le flux sanguin et le BDNF, sans causer de fatigue physique qui nuirait à la pensée profonde."
+
 ---
 
 "La logique et la vérité ne se trouvent pas dans l'immobilité, mais dans l'action." Aristote a fondé le Lycée à Athènes et passait ses journées à marcher avec ses disciples le long des sentiers (Peripatos), discutant de philosophie et de science. Cette approche active a donné naissance au terme de 'péripatéticiens' (ceux qui marchent). Marcher était un outil pour libérer la pensée logique profonde.

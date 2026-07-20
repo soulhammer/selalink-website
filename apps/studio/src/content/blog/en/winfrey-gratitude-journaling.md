@@ -21,6 +21,7 @@ faqs:
     answer: "Those days are when this routine is needed most. Do not look for grand events. Write down basic physical or survival states, such as 'the water I drank was clean,' 'I arrived home safely,' or 'I woke up and can breathe.' Simply writing down these tiny safety indicators prompts the brain to trigger positive arousal to escape crisis mode."
   - question: "What about tracking gratitude on a smartphone app or posting it on social media?"
     answer: "Posting on social media or apps tricks the brain into expecting external approval (likes, comments), exposing the reward center to anxious dopamine patterns. It also lacks physical tactile stimulation. The analog act of writing on paper shields the brain from comparisons and supplies pure satisfaction and focus, which is why sticking to an actual notebook is essential."
+
 ---
 
 Oprah Winfrey, the icon of modern media who overcame a painful childhood to become the legendary talk show queen. Where did her relentless drive and empathy come from? 📝

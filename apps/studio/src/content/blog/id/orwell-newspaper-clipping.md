@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, salinan artikel yang dikumpulkan oleh George Orwell dan buku klipingnya, disimpan di Arsip George Orwell di University College London (UCL)."
   - question: "Aplikasi apa yang Anda rekomendasikan untuk melakukan rutinitas kliping ini secara digital?"
     answer: "Kami merekomendasikan Notion, Obsidian, dan Evernote, yang memungkinkan pengambilan teks dan penyorotan yang mudah serta penambahan catatan pendapat pribadi, atau Pocket dan Raindrop.io."
+
 ---
 
 George Orwell, raksasa sastra Inggris abad ke-20 yang dengan tajam memperingatkan sifat kekuasaan manusia dan bahaya kediktatoran melalui '1984' dan 'Animal Farm.' Bagaimana pandangan ke depan dan kalimat analitisnya yang dingin dipertahankan setiap hari? 📰

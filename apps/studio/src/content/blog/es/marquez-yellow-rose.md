@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Tiene que ser una rosa amarilla?"
     answer: "No. Para Márquez, la rosa amarilla era un medio personal que ofrecía comodidad psicológica. Los profesionales pueden elegir libremente cualquier objeto con el que se sientan cómodos."
+
 ---
 
 Gabriel García Márquez, galardonado con el Premio Nobel de Literatura por 'Cien años de soledad'. Una de las fuentes de su imaginación literaria fue una sola rosa amarilla colocada en su escritorio todos los días. Si la rosa amarilla no estaba allí, no escribía una sola palabra. ¿Obsesión o razón científica?

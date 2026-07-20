@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah transkripsi mengetik memiliki efek yang sama?"
     answer: "Mengetik terdiri dari menekan tombol yang sama untuk semua huruf, yang menghasilkan stimulasi lobus parietal yang jauh lebih rendah dibandingkan dengan tulisan tangan analog yang menggambar jalur karakter & menyesuaikan tekanan pena."
+
 ---
 
 Johann Sebastian Bach, yang disebut 'Bapak Musik' karena menyelesaikan kontrapung & harmoni Barok. Logika jeniusnya lahir dari ritual intelektual seumur hidup: kebiasaan menyalin lembaran musik yang ditulis oleh para master terkemuka di zamannya, baris demi baris dengan pena bulu setiap malam. Saat kecil, ia mencuri partitur dari kantor saudaranya untuk disalin sepanjang malam di bawah sinar rembulan. Baginya, menyalin bukan sekadar membaca pasif. Ini adalah ritual otak yang mengukir susunan matematika dari nada-nada menggunakan keterampilan motorik halus tangan.

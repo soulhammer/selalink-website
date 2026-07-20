@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Realmente ayuda vestirse formal si trabajo desde casa?"
     answer: "Sí, está demostrado por la psicología cognitiva. Los teletrabajadores que usan ropa formal cometen menos errores y tardan menos tiempo en iniciar sus actividades que quienes trabajan en pijama. El cambio de ropa es el interruptor mental más sencillo para que el cerebro diferencie el contexto laboral del doméstico."
+
 ---
 
 Nicolás Maquiavelo, el autor de El Príncipe. Desterrado de la vida pública tras la caída de la república, se vio obligado a vivir en el exilio rural. Sin embargo, no se abandonó a la apatía. Al caer la tarde, se quitaba la ropa manchada de barro y se vestía con sus ropas de corte para entrar a su biblioteca. Creía que para dialogar con los pensadores del pasado debía presentarse con dignidad. Analicemos cómo la indumentaria modifica la actitud del cerebro.

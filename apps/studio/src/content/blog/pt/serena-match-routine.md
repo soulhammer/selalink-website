@@ -21,6 +21,7 @@ faqs:
     answer: "Estabeleça 2 ou 3 passos simples que você controle totalmente, como amarrar os sapatos de certa maneira ou respirar fundo, e repita-os constantemente."
   - question: "Como gerencio a ansiedade se esquecer de um passo ou cometer um erro na minha rotina?"
     answer: "Entenda que a rotina é apenas uma âncora psicológica, não a fonte da sua habilidade. Aceitar os erros como parte da situação maximiza os benefícios."
+
 ---
 
 Serena Williams, a rainha do tênis. No meio da pressão da quadra, a sua arma secreta eram as suas rotinas estritas. Antes de jogar, ouvia música com os mesmos fones de ouvido e quicava a bola 5 vezes antes de seu primeiro saque. Analisemos como a rotina pré-jogo ajuda a acalmar a amígdala.

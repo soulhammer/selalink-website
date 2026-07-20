@@ -16,6 +16,7 @@ steps:
     text: "Alokasikan waktu 15-20 menit untuk proyek pertama. Curahkan 100% energi kognitif Anda pada tugas tunggal ini tanpa gangguan notifikasi lain."
   - name: "Langkah 3: Lakukan Peralihan Fokus Secara Bersih"
     text: "Begitu waktu habis, segera tutup file pertama dan buka file kedua. Tarik napas dalam-dalam 3 kali untuk membersihkan memori kerja aktif, lalu fokuslah 100% pada proyek kedua."
+
 ---
 
 "Nalar adalah pelayan iman, dan intelek adalah pedangnya." Thomas Aquinas, tokoh skolastisisme abad pertengahan yang terkemuka, memiliki kecepatan berpikir yang melampaui kemampuan tangannya menulis. Ia mendiktekan buku besarnya Summa Theologiae ke beberapa asisten sekaligus, berjalan mondar-mandir beralih dari satu asisten ke asisten lain tanpa kehilangan alur berpikir.

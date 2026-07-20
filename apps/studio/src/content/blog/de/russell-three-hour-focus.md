@@ -21,6 +21,7 @@ faqs:
     answer: "Manchmal ist eine 3-stündige Pause schwer. Sie können sie in Abschnitte von 90 Minuten morgens und nachmittags aufteilen."
   - question: "Kann ich nach den 3 Stunden Fokus nachmittags leichte Arbeiten erledigen?"
     answer: "Ja. Nach dem Deep Work empfiehlt es sich, einfache Arbeiten oder E-Mails zu erledigen, die keinen großen Aufwand erfordern, um den Stirnlappen zu schonen."
+
 ---
 
 Bertrand Russell beschränkte seine intensive intellektuelle Arbeit auf genau 3 Stunden am Tag. Diese Grenze verhinderte kognitive Erschöpfung.

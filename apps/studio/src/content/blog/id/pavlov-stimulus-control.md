@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana saya bisa membuat zona pemblokiran stimulus jika saya tidak memiliki ruang belajar mandiri di rumah?"
     answer: "Bahkan tanpa ruangan fisik, Anda dapat memblokir stimulus visual dan pendengaran secara memadai dengan menempatkan sekat meja di sudut meja atau menggunakan headphone peredam bising untuk menciptakan penghalang isolasi virtual."
+
 ---
 
 Ivan Pavlov, fisiolog besar yang memenangkan Hadiah Nobel Fisiologi atau Kedokteran pertama di Rusia dengan menemukan pola pembelajaran dan perilaku melalui pengamatan sekresi air liur anjing. Bagaimana pengamatan presisi yang menangkap mekanisme pembelajaran alam bawah sadar hewan ini terjadi? 🔔

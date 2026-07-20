@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Gambar di layar digital hanyalah piksel 2D terkompresi dan tidak mengaktifkan jaringan saraf persepsi stereoskopis otak. Anda harus mampu menguraikan kedalaman dan tekstur objek analog dalam tiga dimensi dengan mata Anda untuk meningkatkan plastisitas neuron sensorik di otak Anda."
   - question: "Haruskah kita hanya mengamati objek statis dan membosankan?"
     answer: "Menganalisis secara tepat jejak gemetar ekor kucing peliharaan, pergerakan sirip ikan di dalam tangki ikan, dll. juga merupakan latihan yang sangat baik yang secara tajam membangkitkan sirkuit perhatian selektif otak."
+
 ---
 
 Jane Goodall adalah peneliti simpanse liar dan aktivis lingkungan terkenal di dunia, dan seorang ahli biologi yang sepenuhnya mereformasi peta etologi hewan yang ada dengan terlebih dahulu menemukan kemampuan primata dalam menggunakan alat melalui interaksi langsung dengan simpanse di hutan Gombe di Afrika selama beberapa dekade. Setiap hari, dia memanjat kabut pagi dan duduk di puncak tebing curam Gombe, Afrika. Dia benar-benar membungkam suara tindakannya sehingga simpanse tidak waspada terhadapnya. Dan diam-diam saya mengamati gerakan halus simpanse mencabuti rambut, ritme ujung jari menggunakan alat dahan pohon, dan kedipan matanya melalui teleskop, serta mencatat fakta beserta gambarnya di buku catatan saku.

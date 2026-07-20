@@ -21,6 +21,7 @@ faqs:
     answer: "En la Inglaterra del siglo XIX, era muy raro que las escritoras tuvieran un estudio privado. Al escribir en una sala compartida, Austen usaba el ruido de la puerta para anticipar visitas y ocultar sus manuscritos a tiempo."
   - question: "¿Cómo puedo aplicar esta regla de la puerta chirriante en un entorno digital moderno?"
     answer: "Puedes bloquear notificaciones configurando tu estado en 'No molestar' o 'Ocupado', y configurar tus herramientas para recibir notificaciones en intervalos específicos, evitando interrupciones."
+
 ---
 
 Jane Austen, la legendaria novelista inglesa autora de obras maestras como 'Orgullo y prejuicio'. Al trabajar en una sala familiar compartida, debía defender su frágil concentración de las interrupciones. En lugar de reparar su puerta chirriante, la dejó rota para que sirviera como un sistema de alerta natural. Hoy, BuildSelf revela cómo establecer límites de enfoque puede proteger tu trabajo profundo.

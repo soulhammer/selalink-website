@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Mengetik hanya menggunakan ketukan tombol yang berulang, meminimalkan stimulus sensorik. Menulis tangan melibatkan kontrol goresan pena, merangsang area asosiasi otak."
   - question: "Apakah saya harus fokus memperbaiki gaya tulisan tangan?"
     answer: "Tidak perlu rapi. Inti latihan ini adalah fokus pada tekanan fisik pena. Selama bisa Anda baca, menulis secara alami jauh lebih bermanfaat daripada estetika."
+
 ---
 
 Malcolm X, orator dan pemimpin yang memikat massa selama gerakan hak-hak sipil. Di balik kata-kata lancar dan karismanya tersimpan masa lalu kelam di mana ia bahkan tidak bisa menulis satu kalimat dengan benar. 📖

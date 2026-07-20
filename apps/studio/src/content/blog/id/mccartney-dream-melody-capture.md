@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana jika saya bangun dan tidak ingat apa pun dari mimpi saya?"
     answer: "Itu normal. Jika Anda tidak mengingat mimpi, lakukan latihan menulis aliran kesadaran sebagai gantinya. Tulis bebas tiga baris kata apa pun yang terlintas di pikiran Anda tanpa menyaring. Ini tetap bertindak sebagai pemanasan kognitif."
+
 ---
 
 Paul McCartney, jenius musik di balik The Beatles, menggubah Yesterday, salah satu lagu yang paling banyak dinyanyikan ulang dalam sejarah, langsung dari sebuah mimpi. Bangun di London pada tahun 1964, sebuah melodi bergema di kepalanya. Takut melodi itu akan hilang, ia melompat dari tempat tidur dan langsung memainkannya di pianonya, mengamankan inspirasi mentah sebelum pikiran sadarnya menghapusnya. Kebiasaan menangkap fragmen mimpi ini menjadi wadah bagi banyak lagunya.

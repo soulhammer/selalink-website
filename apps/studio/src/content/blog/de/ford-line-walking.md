@@ -21,6 +21,7 @@ faqs:
     answer: "Digitale Bildschirme bieten nicht den taktilen Widerstand von Papier, was die sensorische Rückmeldung verringert. Zudem lenken Benachrichtigungen ab. Das Schreiben auf Papier bietet einen Widerstand, der den Kortex anregt und zu tieferer Entlastung führt."
   - question: "Ist es effektiv, nur im Sitzen zu skizzieren, ohne vorher zu gehen?"
     answer: "Das Zeichnen im Sitzen hilft, aber die Kombination mit Gehen und visueller Verfolgung verstärkt das Ergebnis. Gehen erhöht die Durchblutung des Gehirns und die Aufmerksamkeit, während das Verfolgen von Objekten die logischen Fähigkeiten maximiert."
+
 ---
 
 Henry Ford, der Automobilgigant, der das historische Fließband-Massenproduktionssystem aufbaute. Woher stammten seine Inspirationen? 🚗

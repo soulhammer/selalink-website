@@ -21,6 +21,7 @@ faqs:
     answer: "Totalmente. Encher um vaso pequeno na varanda ou sala com terra e plantar uma erva pequena ou planta purificadora de ar oferece o mesmo estímulo táctil. O importante é a conexão física, não o tamanho da planta."
   - question: "Existem problemas de higiene ao tocar a terra com as mãos desprotegidas?"
     answer: "A terra comercial costuma ser esterilizada, sendo segura. De fato, as bactérias benéficas ajudam a fortalecer o sistema imunológico. Se estiver preocupado, use luvas finas de jardinagem que permitam sentir a textura e lave bem as mãos com sabão depois."
+
 ---
 
 Audrey Hepburn, o eterno ícone de Hollywood que trabalhou pelas crianças como embaixadora do UNICEF. Qual era sua fonte de força para acalmar suas feridas internas e manter a elegância através da exposição da mídia e do câncer? Ela se dedicava a tocar a terra e cultivar flores todas as tardes em seu jardim em Tolochenaz, na Suíça. Hoje, o BuildSelf apresenta os princípios de restauração cognitiva e a rotina de cura emocional da 'jardinagem' de Audrey Hepburn.

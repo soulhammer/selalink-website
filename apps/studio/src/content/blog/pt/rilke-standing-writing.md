@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que devo fazer se me doerem as plantas dos pés ou as costas ao usar uma secretária de pé?"
     answer: "Recomenda-se colocar um tapete anti-fadiga amortecedor sob os pés ou usar chinelos acolchoados para o interior, e contrair levemente os músculos do abdômen para distribuir a gravidade e evitar a curvatura espinhal excessiva."
+
 ---
 
 Rainer Maria Rilke, o inigualável poeta austríaco que marcou o auge da poesia moderna ao descrever profundas paisagens interiores em 'Os Cadernos de Malte Laurids Brigge' e 'Elegias de Duíno'. Que ambiente de escrita único escolheu para despertar a tensão criativa e a inspiração intuitiva? ✍️

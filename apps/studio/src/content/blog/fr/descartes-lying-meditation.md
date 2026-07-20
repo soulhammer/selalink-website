@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "La méditation matinale au lit est-elle vraiment efficace pour le cerveau ?"
     answer: "Oui, la position allongée après le réveil guide les ondes cérébrales en état alpha, ce qui stabilise le système nerveux et stimule la créativité."
+
 ---
 
 René Descartes, le père de la philosophie moderne, qui a établi le point de départ de la philosophie moderne avec la proposition "Je pense, donc je suis" et a fondé la géométrie analytique. Saviez-vous que ce géant de l'intellect s'imposait chaque matin une routine aussi confortable qu'originale ? 🛏️

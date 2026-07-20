@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was soll ich tun, wenn völlige Stille die Konzentration stört oder Angstgefühle hervorruft?"
     answer: "Für Anfänger, denen völlige Stille unangenehm ist, empfiehlt es sich, zunächst weißes Rauschen (Regen- oder Wellengeräusche) oder einfaches rosa Rauschen ohne Text abzuspielen, damit sich das Gehirn in einem kognitiven Anpassungsprozess an die Stille gewöhnt."
+
 ---
 
 Erwin Schrödinger, der geniale österreichische Physiker, der den Nobelpreis für Physik erhielt und mit der Entdeckung der Wellengleichung das Fundament für die moderne Quantenmechanik legte. In welcher Umgebung entstanden seine brillanten mathematischen Berechnungen und tiefen physikalisch-philosophischen Gedanken? 🌌

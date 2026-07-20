@@ -21,6 +21,7 @@ faqs:
     answer: "Por supuesto. De hecho, recortar al azar sin un diseño previo es más eficaz para desactivar la RND. Al cerebro no le importa si el patrón resultante es extraño o torcido. Lo importante es el estímulo táctil y el sonido del corte. Disfrute de esta actividad libre de presiones."
   - question: "Quedan restos de papel después de recortar, ¿limpiar esto no arruina la relajación?"
     answer: "Si le preocupa la basura, trabaje sobre una bandeja o papel periódico. Al recoger los restos de un solo movimiento al finalizar, la limpieza toma 10 segundos y no rompe el estado de calma."
+
 ---
 
 Hans Christian Andersen, el padre de los cuentos de hadas. A pesar de sufrir depresión, complejo de apariencia y ansiedad por abandono, ¿cómo mantuvo su imaginación y encontró consuelo? Cuando buscaba inspiración, siempre sacaba papel y tijeras de su bolsillo. Recortaba papel mientras narraba sus cuentos improvisados. Para él, recortar no era una manualidad infantil, sino una herramienta para liberar su imaginación y recuperar la calma. Hoy, BuildSelf presenta los beneficios de esta rutina y cómo aplicarla.

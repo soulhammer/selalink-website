@@ -21,6 +21,7 @@ faqs:
     answer: "Não. O momento-chave é logo após acelerar o pulso. Se tomar banho, o ritmo cardíaco volta ao normal e reduz-se o efeito da mudança de sistema e eliminação de cortisol. Sente-se assim que terminar o exercício."
   - question: "Significa que falhei se me distrair durante a meditação?"
     answer: "Não. É uma reação natural do cérebro. O sucesso da meditação não reside em ter a mente em branco, mas em perceber a distração e retornar a atenção à respiração. Cada vez que faz isso, treina o lobo frontal."
+
 ---
 
 O primeiro-ministro fundador Lee Kuan Yew, que transformou Cingapura, uma pequena cidade-estado sem recursos, em um centro financeiro global. Ele enfrentava uma imensa pressão formulando estratégias de sobrevivência e à paralisia por decisão determinando o destino da nação. Como manteve seu cérebro afiado até os 90 anos?

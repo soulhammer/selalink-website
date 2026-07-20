@@ -21,6 +21,7 @@ faqs:
     answer: "Puedes encender una grabadora de voz en tu móvil o una aplicación de notas y hablar en voz alta como si estuvieras explicándole a alguien. Lo que importa no es la presencia de un oyente, sino el proceso neural de exteriorizar los pensamientos."
   - question: "¿Cómo conecto los contenidos hablados con resultados productivos?"
     answer: "Puedes anotar ideas breves en un cuaderno mientras hablas, o guardar los registros de conversión de voz a texto (STT) para organizarlos en nodos de ideas clave más tarde."
+
 ---
 
 Niels Bohr, el premio Nobel que sentó las bases de la física cuántica. A pesar de su genio, sentía una enorme fricción al sentarse a redactar artículos de forma solitaria. Su método consistía en dictar sus pensamientos a su esposa Margrethe o a sus alumnos mientras caminaba y debatía frente a una pizarra. Analicemos cómo la transición del habla interna al habla externa activa la corteza prefrontal, fortaleciendo el filtro de la metacognición.

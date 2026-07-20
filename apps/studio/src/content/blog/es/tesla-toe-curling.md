@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "¿Realmente ayuda a activar el cerebro el movement de los dedos del pie?"
     answer: "Sí, la región de los dedos del pie está ubicada en la corteza somatosensorial cerca del centro cerebral. Estimular estos micromúsculos activa la corteza prefrontal."
+
 ---
 
 El genio científico que iluminó el mundo junto a Edison y sentó las bases de la civilización eléctrica moderna, Nikola Tesla. ¿Sabía que repetía una acción muy extraña en la cama todas las noches? ⚡

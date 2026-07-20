@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Posso utilizar notas de voz ou aplicações de notas digitais no telemóvel durante as caminhadas?"
     answer: "Sim, desde que minimize as distrações digitais. Utilize uma aplicação que possa ser iniciada diretamente a partir do ecrã de bloqueio no modo offline para evitar notificações. O valor principal não reside no papel em si, mas sim em proteger o modo difuso."
+
 ---
 
 Ralph Waldo Emerson, o líder intelectual do movimento Transcendentalista na América do século XIX, inspirou gerações com os seus ensaios Self-Reliance e Nature. A base da sua profunda filosofia foi um ciclo cognitivo de duas etapas. Durante o dia, deambulava pelas florestas de Concord com um caderno de bolso de couro, prendendo pensamentos fugazes com um lápis. À noite, sentava-se à secretária para transferir estes fragmentos brutos para um grande diário encadernado em couro, expandindo-os em ensaios coerentes.

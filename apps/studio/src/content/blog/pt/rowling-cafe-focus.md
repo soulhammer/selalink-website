@@ -21,6 +21,7 @@ faqs:
     answer: "Não. Música com letra ou ruídos fortes (mais de 85 dB) invadem a memória de trabalho do lobo frontal. Para obter o efeito, o som deve ser instrumental, aleatório e irregular."
   - question: "Ajuda ouvir ruído branco com fones de ouvido em uma sala de estudo?"
     answer: "Sim. Reproduzir ruído branco em uma sala de estudo ajuda no isolamento. Contudo, combiná-lo com mudanças visuais (a amplitude de um café) é melhor para a criatividade por proporcionar diversidade sensorial."
+
 ---
 
 J.K. Rowling escreveu Harry Potter em cafés barulhentos. Ela descobriu que o ruído branco moderado e o burburinho a ajudaram a bloquear distrações internas.

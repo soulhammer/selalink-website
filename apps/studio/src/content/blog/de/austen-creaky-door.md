@@ -21,6 +21,7 @@ faqs:
     answer: "Im England des 19. Jahrhunderts hatten Frauen selten ein eigenes Arbeitszimmer. Da sie im gemeinsamen Raum schrieb, nutzte Austen die quietschende Tür, um Besucher rechtzeitig zu bemerken und ihre Manuskripte zu verstecken."
   - question: "Wie kann ich diese Regel in einer modernen digitalen Umgebung anwenden?"
     answer: "Sie können Benachrichtigungen blockieren, indem Sie Ihren Status auf „Bitte nicht stören“ setzen, und Ihre Programme so konfigurieren, dass sie Meldungen in Intervallen bündeln."
+
 ---
 
 Jane Austen, die legendäre englische Schriftstellerin, die Meisterwerke wie „Stolz und Vorurteil“ schuf. Da sie im gemeinsamen Wohnzimmer der Familie schrieb, musste sie ihren Fokus vor ständigen Störungen schützen. Statt die quietschende Tür zu reparieren, nutzte sie diese als Warnsystem. Heute zeigt BuildSelf, wie Sie sensorische Fokusgrenzen zum Schutz Ihrer Arbeit errichten.

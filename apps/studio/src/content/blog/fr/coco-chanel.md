@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, en établissant une frontière nette entre travail et repos grâce à un rituel d'isolement olfactif seul après le travail."
   - question: "Comment puis-je remplacer les parfums ou la chambre d'hôtel si je n'en ai pas ?"
     answer: "Éteindre votre smartphone pendant 15 minutes dans un coin calme de la maison en utilisant un diffuseur ou un baume produit le même effet."
+
 ---
 
 Coco Chanel est une créatrice de mode française qui a mené une révolution dans le design de mode au XXe siècle et a libéré les femmes de l'oppression des corsets, et la fondatrice de la marque Chanel. Coco Chanel a présenté la liberté essentielle du vêtement féminin à travers la beauté noire et simple (Simple is best). Debout dans son atelier, elle a parcouru le tissu directement sur le corps du modèle et, avec seulement une paire de ciseaux à la main, elle a impitoyablement coupé les corsets encombrants et lourds, les cols massifs et les dentelles inutiles du XIXe siècle. Au lieu d’effacer des lignes avec un stylo, elle a senti la tension du tissu et les a découpés, créant ainsi une simplification minimaliste permettant aux femmes de se déplacer librement et d’exercer leur conscience corporelle.

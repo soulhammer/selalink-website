@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Konten apa yang paling efektif ditulis dalam janji peringatan diri?"
     answer: "Menuliskan kelemahan Anda yang paling sulit dikendalikan (misal menjauhkan ponsel, menepati waktu janji) sebagai kalimat positif berbasis tindakan adalah cara paling efektif untuk merangsang otak."
+
 ---
 
 Yi I menulis 11 aturan peringatan diri (Self-warning) dan membacanya setiap pagi untuk mengatur perilakunya. Kebiasaan ini memperkuat pengendalian diri.

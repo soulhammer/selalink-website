@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Como o ato de moer o próprio remédio ajuda a estabilizar as emoções?"
     answer: "Repeated movement with steady speed activates the brain's serotonin system, improving mood and blocking anxiety about the future."
+
 ---
 
 Tokugawa Ieyasu preparava seus próprios remédios moendo ervas num almofariz. Este hábito manual proporcionou uma estimulação tátil que acalmou seu sistema nervoso durante momentos de tensão.

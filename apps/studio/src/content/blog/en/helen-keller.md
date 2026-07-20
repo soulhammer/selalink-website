@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, that's right. When the brain decodes information about the skin's fine tactile texture rather than visual or auditory information, the long-term synaptic networks of the frontal and parietal lobes are linked much more densely, so the depth and permanence of memory increases explosively."
   - question: "What should I do if my skin is dry and my tactile sensitivity decreases?"
     answer: "You can awaken the physical resolution of your sense of touch to a greater extent by activating blood flow by lightly washing your hands with warm water before training, or by lightly applying moisturizing cream to form a fine moisture resistance film before training."
+
 ---
 
 Helen Keller, an icon of overcoming who overcame the triple ordeal of being invisible and unable to hear (visual, hearing, and speech impediments) and dedicated her life as a great social activist and writer, coloring humanity's despair with hope. In the silent darkness, she focused all her nerves on the traces of Mr. Sullivan's tactile movements as he meticulously wrote the letters with his fingertips on the palm of his hand. The moment the cold spring water wetted the back of her other hand, she combined the tactile signal 'W-A-T-E-R' on her palm with the spirit of the water in her brain for the first time. This sophisticated training of tactile imitation was the key that made her an immortal writer.

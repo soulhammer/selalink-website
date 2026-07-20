@@ -21,6 +21,7 @@ faqs:
     answer: "A menos que seja uma crise, a maioria dos e-mails que parecem urgentes podem esperar 1 ou 2 horas. Estabeleça ao menos 1 hora de reserva para você ao começar."
   - question: "O que fazer se a tarefa principal for grande demais?"
     answer: "Se for enorme, o cérebro sentirá pressão e a evitará. Divida a tarefa em partes pequenas que possa terminar em 1 hora, e aborde uma delas primeiro."
+
 ---
 
 Andrew Carnegie, o magnata do aço que construiu a base industrial americana. Ele lidou com uma imensa carga de trabalho concentrando-se numa tarefa principal pela manhã.

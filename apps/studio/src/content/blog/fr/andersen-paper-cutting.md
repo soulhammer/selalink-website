@@ -21,6 +21,7 @@ faqs:
     answer: "Bien sûr. Découper au hasard sans modèle est plus efficace pour calmer le cerveau. L'important est le geste physique et le son du ciseau. Profitez de cette activité sans pression."
   - question: "Les débris de papier après la découpe ne gâchent-ils pas la détente ?"
     answer: "Si cela vous inquiète, travaillez au-dessus d'un plateau. En ramassant les débris d'un seul coup à la fin, le nettoyage prend 10 secondes et ne gâche pas la détente."
+
 ---
 
 Hans Christian Andersen, le père des contes de fées. Malgré la dépression et l'anxiété d'abandon, comment a-t-il gardé son imagination et trouvé le réconfort ? Pour s'inspirer, il sortait toujours du papier et des ciseaux de sa poche. Il découpait le papier en racontant ses contes. Pour lui, découper n'était pas un jeu d'enfant, mais un outil pour libérer sa créativité. Aujourd'hui, BuildSelf présente les bénéfices de la routine de 'découpage de papier' d'Andersen.

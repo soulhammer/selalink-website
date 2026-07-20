@@ -21,6 +21,7 @@ faqs:
     answer: "Ja, in Briefen an seine Familie und Ärzte schrieb Jefferson, dass er dieses kalte Fußbad seit sechzig Jahren jeden Morgen praktiziere, und schrieb seine robuste Gesundheit diesem Ritual zu."
   - question: "Ist eine kalte Dusche effektiver als ein kaltes Fußbad?"
     answer: "Eine kalte Dusche sorgt für einen stärkeren Gesamtreiz, bedeutet aber auch mehr Stress für den Körper. Ein kaltes Fußbad ist eine sanftere Alternative, die die Nerven ohne große Belastung weckt."
+
 ---
 
 Thomas Jefferson, der Hauptverfasser der Unabhängigkeitserklärung und dritte Präsident der USA. Bekannt für seine Gesundheit und seinen scharfen Verstand, behielt er über 60 Jahre ein Ritual bei: Er tauchte die Füße direkt nach dem Aufstehen in kaltes Wasser. Heute zeigt BuildSelf, wie Kälte den Fokus am Morgen optimiert.

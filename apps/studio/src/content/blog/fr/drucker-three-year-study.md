@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi changer de sujet tous les trois ans ?"
     answer: "Parce qu'un cycle de trois ans est approprié pour maîtriser un seul sujet et stimuler de manière optimale la neuroplasticité cérébrale, permettant une pensée convergente à travers diverses disciplines."
+
 ---
 
 Peter Drucker, l'érudit qui a jeté les bases du management moderne et présenté l'horizon des affaires. Comment a-t-il conservé un esprit clair et une vision acérée comme un jeune homme jusqu'à la fin de ses 90 ans ? Le secret résidait dans sa routine intellectuelle unique, le cycle d'étude de trois ans.

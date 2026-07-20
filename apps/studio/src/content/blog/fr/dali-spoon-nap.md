@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Pourquoi Dali tenait-il une cuillère pendant ses siestes ?"
     answer: "Dès qu'il s'endormait, ses muscles se relâchaient et la cuillère tombait sur une assiette, le réveillant pour capturer des images surréalistes."
+
 ---
 
 Salvador Dalí, géant de l'art surréaliste et l'un des plus grands esprits créatifs du XXe siècle. D'où venaient les inspirations bizarres de ses œuvres ? Face aux blocages créatifs, Dalí s'asseyait dans un fauteuil en bois, tenait une cuillère en métal au-dessus d'une assiette posée au sol. Aujourd'hui, BuildSelf explore la science de la sieste à la cuillère.

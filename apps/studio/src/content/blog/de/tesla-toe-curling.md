@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Hilft das Zehenkrümmen wirklich, das Gehirn zu aktivieren?"
     answer: "Ja, die Zehenregion liegt im somatosensorischen Kortex nahe der Hirnmitte. Die Stimulierung der Muskeln sendet Signale zur Aktivierung des Gehirns."
+
 ---
 
 Der geniale Wissenschaftler, der zusammen mit Edison die Welt erleuchtete und das Fundament für die moderne Elektrizitätswirtschaft legte – Nikola Tesla. Wussten Sie, dass er jeden Abend im Bett eine sehr seltsame Übung wiederholte? ⚡

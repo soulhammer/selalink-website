@@ -21,6 +21,7 @@ faqs:
     answer: "Não há necessidade de caminhar 15 milhas como Smith. A duração recomendada clinicamente para a ativação da DMN é de 20 a 40 minutos. Mais do que a distância, manter a mente focada sem distrações digitais é o que realmente importa."
   - question: "Posso caminhar em uma esteira interna quando for difícil sair?"
     answer: "Sim, mas é crucial não olhar para as telas dos smartphones ou monitores de TV enquanto estiver na esteira. Mantenha os olhos num ponto em branco na parede e bloqueie as entradas visuais para se concentrar puramente na sensação de caminhar."
+
 ---
 
 Adam Smith, o filósofo que estabeleceu as bases da economia moderna e a 'mão invisível' do mercado livre, tinha um hábito único ao longo da vida. Ao estruturar ideias complexas, Smith caminhava sem rumo por jardins ou caminhos tranquilos. Uma manhã, tão profundamente absorto em pensamentos, caminhou 15 milhas (cerca de 24 km) até uma cidade vizinha, esquecendo que estava de roupão. Apenas após ouvir os sinos da igreja ele voltou a si.

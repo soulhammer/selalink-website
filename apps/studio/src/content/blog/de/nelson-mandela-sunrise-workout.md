@@ -21,6 +21,7 @@ faqs:
     answer: "An Tagen mit starker Erschöpfung ist leichtes Dehnen und Atmen besser als hartes Training. Mandelas Routine zielt darauf ab, den Tag selbstbestimmt zu beginnen."
   - question: "Wie sollte ein Anfänger mit sehr geringer Ausdauer beginnen?"
     answer: "Wählen Sie eine Intensität, die zu Ihnen passt (Liegestütze an der Wand oder auf Knien, Kniebeugen mit einem Stuhl). 5 Minuten täglich reichen, um Willenskraft zu trainieren."
+
 ---
 
 Nelson Mandela verbrachte 27 Jahre im Gefängnis. Sein Rettungsanker in der Zelle war Sport um 5:00 Uhr morgens: Laufen auf der Stelle, Liegestütze und Dehnübungen. Diese Routine schützte seinen Geist vor der Verzweiflung.

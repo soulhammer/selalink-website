@@ -21,6 +21,7 @@ faqs:
     answer: "No hay necesidad de caminar 15 millas como Smith. La duración recomendada clínicamente para la activación de DMN es de 20 a 40 minutos. Más que la distancia, lo que realmente importa es mantener la mente enfocada sin distracciones digitales."
   - question: "¿Puedo caminar en una caminadora de interior cuando es difícil salir?"
     answer: "Sí, pero es crucial no mirar las pantallas de los teléfonos inteligentes ni los monitores de televisión mientras está en la caminadora. Mantenga los ojos en un punto en blanco de la pared y bloquee las entradas visuales para concentrarse puramente en la sensación de caminar."
+
 ---
 
 Adam Smith, el filósofo que estableció las bases de la economía moderna y la 'mano invisible' del libre mercado, tenía un hábito único de por vida. Al estructurar ideas complejas, Smith caminaba sin rumbo fijo por jardines o senderos tranquilos. Una mañana, tan profundamente absorto en sus pensamientos, caminó 15 millas (unos 24 km) hasta una ciudad vecina, olvidando por completo que estaba en bata de baño. Solo después de escuchar las campanas de la iglesia volvió en sí. Analizamos su rutina de caminata contemplativa.

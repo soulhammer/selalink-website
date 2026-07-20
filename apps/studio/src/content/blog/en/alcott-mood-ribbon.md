@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "What should I do if surrounding people dislike this ribbon routine, feeling it hinders communication?"
     answer: "Avoid keeping the block signal active for excessively long hours. It is important to limit focus time to a maximum of 50-60 minutes, and actively build trust by showing you are welcome to talk at other times."
+
 ---
 
 Louisa May Alcott, the great American novelist who touched countless readers by writing the global classic novel 'Little Women'. How did she focus on writing without being disturbed when her large family lived together in a bustling house? 🎀

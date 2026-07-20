@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, estreitar o foco cognitivo e entrar em concentração complexa por meio de um ritmo enérgico misturado com ruído."
   - question: "Como posso substituir se não tiver fonógrafos geradores de ruído?"
     answer: "Você pode substituir reproduzindo ruído branco de ritmo rápido, sons ambientes mecânicos ou música animada com fones de ouvido."
+
 ---
 
 John von Neumann, a pessoa mais inteligente da história da humanidade e um matemático genial da Hungria que, sozinho, projetou as bases dos estudos humanos modernos (teoria dos jogos, arquitetura de Neumann) em todos os campos, incluindo matemática, ciência da computação, economia e mecânica quântica. Ele foi capaz de derivar fórmulas matemáticas complexas e fórmulas de arquitetura de computador sem dificuldade, mesmo sentado em um canto de uma festa com música alta tocando ou em um banco em uma sala de espera barulhenta onde um trem tremia e vapor emitia vapor. Por mais barulhento que fosse o ambiente, ele isolava seus recursos cognitivos apenas no quadro negro virtual construído em sua cabeça. Essa rotina de isolamento e imersão em ruído branco foi o que fez dele o maior matemático genial da história.

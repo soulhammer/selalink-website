@@ -21,6 +21,7 @@ faqs:
     answer: "Zu starker Kontrast ermüdet die Augen. Reduzieren Sie die Helligkeit des Monitors oder installieren Sie ein sanftes LED-Hintergrundlicht hinter dem Bildschirm."
   - question: "Was mache ich, wenn ich keinen separaten Raum habe?"
     answer: "Ein spezieller Raum ist nicht nötig. Es reicht, die Tür zu schließen, sich mit dem Rücken zur Wand zu setzen oder eine Trennwand aufzustellen, die den Blick abschirmt."
+
 ---
 
 Linus Torvalds programmierte Linux in einem dunklen, stillen Raum ohne Dekorationen. Diese reizarme Umgebung ermöglichte es ihm, sich voll auf den Kernel zu konzentrieren.

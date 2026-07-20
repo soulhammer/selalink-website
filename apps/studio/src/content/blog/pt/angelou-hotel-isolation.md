@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Porque é que Angelou escrevia isolada num quarto de hotel?"
     answer: "Para bloquear por completo a sua mente de estímulos sensoriais domésticos, forçando um estado extremo de foco."
+
 ---
 
 Maya Angelou, a lendária poetisa, memorialista e ativista dos direitos civis americana que escreveu a autobiografia inovadora 'Sei por que o pássaro canta na gaiola'. Para se concentrar profundamente, ela hospedava-se num quarto de hotel local todas as manhãs às 6h30. Pedia à equipa do hotel para remover todos os quadros, fotos e decorações das paredes, deixando apenas uma Bíblia, um dicionário, um baralho de cartas e uma garrafa de xerez. Hoje, o BuildSelf partilha como a criação de um ambiente vazio melhora a produção.

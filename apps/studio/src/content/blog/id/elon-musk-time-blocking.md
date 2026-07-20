@@ -21,6 +21,7 @@ faqs:
     answer: "Bagi pemula, mengisi seluruh jadwal dengan blok 5 menit tentu menyebabkan beban kognitif berlebih. Disarankan mulai menjadwalkan blok 15 atau 30 menit selama 1 atau 2 jam fokus saja sehari."
   - question: "Bagaimana jika saya tidak dapat menyelesaikan pekerjaan dalam blok waktu yang dialokasikan?"
     answer: "Segera pindah ke blok berikutnya. Alokasikan pekerjaan yang belum selesai ke 'Buffer Block' khusus di sore hari untuk mencegah satu penundaan merusak seluruh hari."
+
 ---
 
 Elon Musk memimpin Tesla dan SpaceX dengan waktu kerja 100 jam per minggu. Rahasia produktivitasnya adalah membagi jadwal dalam blok 5 menit. Saat berada di satu blok, ia mematikan notifikasi dan fokus 100%.

@@ -21,6 +21,7 @@ faqs:
     answer: "É verdade que as paisagens naturais são melhores para reduzir o estresse. Contudo, caminhar observando becos ou prédios urbanos também é útil porque ativa as áreas visuais do cérebro."
   - question: "Pode ser substituído por corrida rápida ou esteira?"
     answer: "A esteira ativa o corpo, mas não dá tempo para observar. Para reiniciar o cérebro e fomentar a criatividade, um passeio lento explorando o entorno é ideal."
+
 ---
 
 Antoni Gaudí caminhava diariamente por Barcelona ao pôr do sol para observar os padrões geométricos na natureza. Essa imersão inspirou seus projetos arquitetônicos e aliviou sua fadiga.

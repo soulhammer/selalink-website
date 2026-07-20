@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was soll ich an Tagen aufschreiben, an denen nichts Besonderes passiert ist?"
     answer: "Konsequenz ist wichtiger als lange Texte. Schreiben Sie an ruhigen Tagen einfach über eine Kleinigkeit, für die Sie dankbar sind, oder notieren Sie, wie entspannt sich Ihr Körper anfühlt. Die Routine der täglichen Reflexion beruhigt das Gehirn, nicht die Länge des Textes."
+
 ---
 
 Königin Victoria regierte das britische Weltreich. Um die Last der Krone und den Verlust ihres Mannes Albert zu verkraften, schrieb sie Tagebuch. Sie hinterließ 122 Bände. Kognitionspsychologisch strukturiert das handschriftliche Schreiben (Expressive Writing) den präfrontalen Cortex und beruhigt den Mandelkern.

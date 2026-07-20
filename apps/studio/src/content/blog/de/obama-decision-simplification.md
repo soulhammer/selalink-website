@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum trug Barack Obama nur graue und blaue Anzüge?"
     answer: "Um die kognitive Energie zu schonen, die er für die unzähligen wichtigen nationalen Entscheidungen benötigte, eliminierte er kleine Entscheidungen über Kleidung oder Essen, um Entscheidungsermüdung zu vermeiden."
+
 ---
 
 Als 44. Präsident der Vereinigten Staaten musste Barack Obama jeden Tag schwerwiegende Entscheidungen treffen. Um seine Entscheidungsenergie inmitten unzähliger alltäglicher Entscheidungen ganz auf die wichtigen Staatsgeschäfte zu konzentrieren, nutzte er ein sehr kluges persönliches Geheimnis. 👔

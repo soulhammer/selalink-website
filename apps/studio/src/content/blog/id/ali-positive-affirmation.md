@@ -21,6 +21,7 @@ faqs:
     answer: "Wajar jika merasa canggung pada awalnya karena Disonansi Kognitif. Yang penting bukanlah memverifikasi fakta, melainkan membuka kemungkinan baru bagi otak. Melalui pengulangan, neuroplastisitas menata ulang sirkuit saraf, menghilangkan rasa canggung dan memperkuat afirmasi menjadi keyakinan."
   - question: "Apakah ini hanya berhasil jika saya mengucapkannya dengan lantang?"
     answer: "Cara terbaik adalah mendengar getaran suara secara langsung. Namun, jika tidak memungkinkan karena lingkungan, berbisik atau membacanya dalam hati dengan fokus penuh (silent self-talk) juga merangsang sirkuit otak dengan baik."
+
 ---
 
 Muhammad Ali, yang bertahta sebagai peraih medali emas Olimpiade dan Juara Kelas Berat Dunia, tetap menjadi ikon terhebat dalam sejarah olahraga abad ke-20. Sebelum melangkah ke atas ring di mana puluhan ribu penonton dan lawan yang kejam menunggu, bagaimana ia mengendalikan ketakutan ekstrem dan kecemasan performa? Ali berteriak "I am the greatest" dengan lantang setiap pagi di depan cermin. Ini bukan sekadar kesombongan, melainkan rutinitas afirmasi diri positif yang mengukir pola pikir kemenangan jauh ke dalam otak dan alam bawah sadarnya. Hari ini, BuildSelf memperkenalkan prinsip-prinsip psikologis olahraga dan rutinitas pola pikir modern dari 'afirmasi diri' Muhammad Ali.

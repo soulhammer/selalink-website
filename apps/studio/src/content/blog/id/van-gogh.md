@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, ketika Anda menulis seolah-olah Anda sedang menulis surat kepada seseorang yang akan mendengarkan pikiran batin Anda tanpa prasangka, seperti Theo fiksi, verbalisasi emosi Anda yang jujur ​​dan efek detoksifikasi otak akan dimaksimalkan."
   - question: "Bisakah saya menggunakan aplikasi memo digital?"
     answer: "Buku catatan analog direkomendasikan untuk pemurnian emosi karena menggunakan tulisan tangan jauh lebih bermanfaat dalam meningkatkan kewaspadaan korteks somatosensori otak dan menenangkan lobus frontal."
+
 ---
 
 Vincent van Gogh, salah satu pelukis terhebat dalam sejarah seni rupa di akhir abad ke-19 dan pelopor ekspresionisme, adalah seorang pelukis jenius yang hanya menjual satu lukisan selama hidupnya karena kemiskinan ekstrem dan isolasi mental, namun meninggalkan mahakarya abadi yang mendominasi indera manusia saat ini. Sebagai ahli mutlak Pasca-Impresionisme Prancis, ia menulis lebih dari 660 surat kepada saudaranya Theo sepanjang hidupnya untuk mengatasi kesepian di tengah-tengah serangan batin dan keterasingan yang menghancurkan. Setiap malam, ia meninggalkan kanvas, menyalakan lilin di kamarnya, dan menjernihkan pikirannya dengan menuangkan dalam bentuk tulisan penderitaan yang membebani hatinya dan inspirasi warna.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah mengenakan pakaian rapi saat kerja dari rumah (WFH) benar-benar efektif?"
     answer: "Banyak penelitian psikologi kognitif membuktikan hal ini. Pekerja WFH yang mengenakan pakaian kerja rapi memiliki tingkat kesalahan kognitif yang lebih rendah dan tidak menunda pekerjaan dibanding mereka yang memakai piyama. Pakaian adalah sakelar kognitif paling mudah untuk membedakan mode kerja dan santai."
+
 ---
 
 Niccolo Machiavelli, penulis mahakarya ilmu politik Il Principe. Setelah diberhentikan dari jabatannya di Florence, ia dipaksa hidup terisolasi di sebuah pertanian terpencil. Namun, ia tidak membiarkan pikirannya tumpul. Setelah seharian bekerja keras dan kotor oleh lumpur, ia berganti pakaian resmi setiap sore sebelum memasuki ruang kerjanya. Pelajari bagaimana perubahan pakaian secara sadar mengatur ulang fokus otak.

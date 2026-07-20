@@ -21,6 +21,7 @@ faqs:
     answer: "Lee libros físicos en lugar de pantallas. Elegir libros no estimulantes como poesía o ensayos bajo una luz tenue induce ondas alfa, ayudándote a conciliar el sueño."
   - question: "¿Cómo puedo registrar pasajes favoritos durante la lectura nocturna sin interrumpir el sueño?"
     answer: "En lugar de encender la computadora, simplemente usa notas adhesivas o dobla las esquinas de las páginas, y transfiérelas a tu archivo digital a la mañana siguiente."
+
 ---
 
 Marilyn Monroe, el ícono del cine de Hollywood. Detrás de su imagen glamorosa, sufría el asedio constante de la prensa. Su forma de proteger su identidad era un ritual noctuarno: leía clásicos como James Joyce y escribía poemas en cuadernos personales. Analicemos cómo la lectura reduce el impacto del cortisol y restablece el pensamiento lógico del córtice prefrontal.

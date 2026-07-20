@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, absolutely. The aesthetic quality of the result does not matter. The core healing mechanism is the combination of precise finger movement (tactical) and observing vivid colors (visual). Even if the shape is messy or simple, the therapeutic effect on the brain is the same."
   - question: "What about using clay or digital drawing apps instead of scissors?"
     answer: "Clay is highly recommended as it provides great tactile stimulation. However, drawing apps are not recommended due to slippery screens and notifications that distract the brain. For true recovery, analog tools are far superior."
+
 ---
 
 Henri Matisse, the master of Fauvism, freed intense colors and set the direction of 20th-century art. Even for this genius, a moment of extreme physical pain arrived at the end of his life when he couldn't hold a paintbrush. ✂️

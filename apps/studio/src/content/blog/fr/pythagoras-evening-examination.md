@@ -21,6 +21,7 @@ faqs:
     answer: "S'endormir est normal, mais vous pouvez essayer de vous asseoir à un bureau et d'écrire pendant seulement 5 minutes avant de vous coucher pour éviter de vous endormir immédiatement."
   - question: "Que dois-je faire si l'autocritique m'empêche de dormir ?"
     answer: "Arrêtez immédiatement le processus si la rumination commence. Écrivez simplement une seule action à faire demain, et fermez consciemment le cahier."
+
 ---
 
 Pythagore, le géant des mathématiques et de la géométrie, dirigeait une école en quête d'harmonie et d'autocontrôle. Leur règle centrale était l'auto-examen du soir. Dans les 'Vers dorés', ils se posaient trois questions avant de dormir : « Qu'ai-je fait de mal ? », « Quel bien ai-je fait ? » et « Qu'ai-je omis ? ». Nous analysons cette routine.

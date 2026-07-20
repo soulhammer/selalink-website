@@ -21,6 +21,7 @@ faqs:
     answer: "No. Ajustar el color de las herramientas digitales (temas de apps, carpetas de correo, temas del navegador) según el uso aporta el mismo efecto de primado."
   - question: "¿Puede ser contraproducente usar demasiados colores y cambiarlos?"
     answer: "Sí. Para que el cerebro asocie un color con un estado mental, se requiere constancia. Por tanto, limite los colores a 3 categorías principales y manténgalas firmes."
+
 ---
 
 Alexandre Dumas escribía novelas en papel azul, poesía en papel amarillo y artículos de no ficción en papel rosa. Este hábito de alternar colores evitó el aburrimiento mental y mantuvo su cortex visual estimulado durante largas jornadas de escritura.

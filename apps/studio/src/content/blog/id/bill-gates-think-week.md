@@ -21,6 +21,7 @@ faqs:
     answer: "Tidak. Kuncinya adalah membatasi aliran informasi dan memfokuskan perhatian. Anda bisa menggunakan ruang baca yang tenang atau kafe di akhir pekan, atau menyimpan ponsel di ruangan lain selama sehari untuk fokus pada buku kertas."
   - question: "Apakah saya tidak boleh menggunakan layar komputer saat membaca bahan?"
     answer: "Layar komputer terhubung dengan godaan situs web lain, surel, dan pesan. Untuk menjaga fokus, sebaiknya gunakan kertas cetak. Jika harus menggunakan perangkat digital, gunakan E-reader tanpa koneksi internet."
+
 ---
 
 Bill Gates, yang mendirikan Microsoft dan memimpin inovasi teknologi. Rahasia di balik kemampuannya menangkap visi masa depan yang menentukan adalah rutinitas isolasi kabinnya. 🌲

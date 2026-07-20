@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Quel est le principe scientifique par lequel la calligraphie calme le stress ?"
     answer: "Le contrôle des mouvements fins du pinceau stimule le cortex somatosensoriel, ce qui bloque les signaux d'anxiété émis par l'amygdale."
+
 ---
 
 Kim Gu, qui dirigeait le gouvernement provisoire de la République de Corée, a vécu sous la menace constante d'arrestations et de tentatives d'assassinat. Malgré ce stress immense, il a maintenu une pratique spirituelle : la calligraphie. 🖌

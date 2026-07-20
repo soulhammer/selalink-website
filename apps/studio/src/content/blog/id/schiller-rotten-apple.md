@@ -21,6 +21,7 @@ faqs:
     answer: "Ya, asetaldehida yang dilepaskan selama fermentasi untuk sementara menurunkan kadar oksigen dan mengubah pernapasan, memberikan rangsangan unik; dan sinyal penciuman akan segera mengirimkan sinyal kebangkitan ke sistem limbik."
   - question: "Aroma apa yang direkomendasikan untuk penjangkaran aroma modern?"
     answer: "Rosemary, yang secara ilmiah membantu konsentrasi dan kewaspadaan otak, atau peppermint dan eucalyptus, yang meredakan kelelahan dan membangunkan perhatian, sangat direkomendasikan. Aroma sitrus seperti lemon juga terbukti memiliki efek positif."
+
 ---
 
 Friedrich Schiller, penyair dan dramawan besar yang memimpin era keemasan sastra klasik Jerman bersama Johann Wolfgang von Goethe. Karya-karyanya seperti 'The Robbers' dan 'William Tell' meninggalkan jejak mendalam dalam sejarah. Namun, di dalam laci meja tulis tempat mahakarya tersebut lahir, tersembunyi sebuah rahasia yang sangat aneh dan menyengat. 🍎

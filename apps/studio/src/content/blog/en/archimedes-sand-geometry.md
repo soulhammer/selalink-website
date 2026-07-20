@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Can someone who cannot draw at all use this habit?"
     answer: "Yes. Archimedes' sketching habit is not an artistic act, but a cognitive process of offloading the brain's thought structures to an external space. Simple circles, bounding text in boxes, and connecting them with arrows are enough to relieve working memory and boost concentration."
+
 ---
 
 The greatest genius of antiquity who discovered the principle of the lever and declared, 'Give me a place to stand on, and I will move the Earth,' Archimedes. Behind his superhuman flow and scientific inspiration was a unique visual sketching habit. Whenever he thought, he drew geometric shapes on the sand, or on the oil applied to his body after bathing. His famous anecdote of shouting at a Roman soldier not to step on his drawings on the sand even when his life was in danger of enemy invasion is well known. We uncover the mechanisms of how these drawings created extreme focus.

@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, absolutely. In that case, intentionally allocate a 'Urgent Response & Email Check Time Block' 2-3 times a day. During other major focus blocks (1-2 hours), immerse yourself in core tasks without interruption, and process urgent matters together in the response block."
   - question: "I feel severe self-reproach if I don't achieve schedules as planned."
     answer: "Time blocking is not a shackle to bind you, but merely a map guiding time resources. What is more important than completion is 'whether you immersed yourself in a single task during that block'. Rather than criticizing the plan when schedules slip, you must have cognitive flexibility to immediately immerse yourself back in the next block's schedule to maintain the routine long-term."
+
 ---
 
 Louis XIV, who marked the golden age of the French absolute monarchy and stood at the pinnacle of power with the title 'Sun King' by building the Palace of Versailles. Throughout his long 72-year reign, processing constant territorial conflicts, factional struggles, and complex state affairs, what was the secret behind establishing his unwavering authority? Under the creed "By setting working times and rules, one can completely dominate life," Louis XIV divided his 24 hours strictly by the minute. Today, BuildSelf introduces the neurological advantages and modern implementation of Louis XIV's 'time blocking' routine.

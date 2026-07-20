@@ -21,6 +21,7 @@ faqs:
     answer: "No. Blue light and stimulating information feeds from digital screens keep the brain awake rather than letting it rest, disrupting the secretion of the sleep hormone melatonin. For cognitive relaxation, analog tools or physical objects must be used."
   - question: "What should I do if 30 minutes every night feels too long?"
     answer: "If time is short, even 10 minutes is fine. Closing your laptop and doing actions like doodling in a drawing book or writing a brief analog diary still works effectively by providing a clear safety feedback signal to the brain that 'the workday is over'."
+
 ---
 
 Franklin D. Roosevelt, the only 4-term U.S. president who led the New Deal to overcome the Great Depression and guided the Allies to victory in WWII. He lived in heavy duties testing human limits. ✉️

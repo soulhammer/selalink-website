@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum lindert das Zeichnen auf Alufolie Stress?"
     answer: "Die Reibung und das Geräusch beim Kratzen auf Metall füllen das somatosensorische Feedback, blockieren Ängste und verankern den Fokus im Jetzt."
+
 ---
 
 Lee Jung-seob, der legendäre Meister der modernen koreanischen Westlichen Malerei, litt während des Koreakriegs unter Armut. Da er kein Geld für Leinwände hatte, sammelte er Alufolie aus Zigarettenschachteln. 🐂

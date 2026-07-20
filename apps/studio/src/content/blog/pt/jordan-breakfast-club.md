@@ -21,6 +21,7 @@ faqs:
     answer: "A chave não é o horário exato, mas o 'treino para superar limites imediatamente após acordar'. Mesmo que não seja às 6h, aplicar uma carga física na sua primeira hora de vigília gera o mesmo efeito psicológico."
   - question: "Não sobrecarrega o corpo se fizermos exercício intenso todos os dias?"
     answer: "A rotina de Jordan também teve uma adaptação gradual. Para iniciantes, recomenda-se começar 3 vezes por semana e aumentar gradualmente. Alterne dias de força com treino funcional leve para evitar a fadiga acumulada."
+
 ---
 
 Michael Jordan, o maior jogador de basquete da história e o símbolo máximo do espírito competitivo. Quando foi bloqueado repetidamente pelas táticas defensivas dos Detroit Pistons no início da década de 1990, decidiu fortalecer seu corpo em vez de desistir. Isso deu origem à lendária rotina de treino das 6h, o 'Breakfast Club'.

@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, cleaning lenses precisely before starting work gives the brain a cognitive organizing signal, maximizing work focus."
   - question: "How can I substitute if I don't have microscopes or cleaning cloths?"
     answer: "Wiping your computer monitor, organizing your desk, or cleaning your smartphone screen with a microfiber cloth before starting your daily work achieves the same effect."
+
 ---
 
 Louis Pasteur, an absolute pioneer of modern medicine and microbiology and a French genius chemist who pioneered vaccines, saved humanity from the fear of infectious diseases by inventing pasteurization and anthrax/rabies vaccines. He sat at his lab desk and stared motionless for hours at a flask of culture under a microscope magnifying glass. He meticulously drew and recorded the minute shaking traces left behind by microorganisms as they proliferate in his notebook. His disinfection method and vaccine discovery were born from this observational feedback routine while staring at the flask.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Tem que ser uma rosa amarela?"
     answer: "Não. Para Márquez, a rosa amarela era um meio pessoal que oferecia conforto psicológico. Você pode escolher livremente qualquer objeto com o qual se sinta confortável."
+
 ---
 
 Gabriel García Márquez, vencedor do Prêmio Nobel de Literatura por 'Cem anos de solidão'. Uma das fontes de sua imaginação literária foi uma única rosa amarela colocada em sua mesa todos os dias. Se a rosa amarela não estivesse lá, ele não escrevia uma única palavra. Obsessão ou razão científica?

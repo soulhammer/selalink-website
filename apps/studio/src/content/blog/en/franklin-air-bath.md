@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Does an Air Bath really help prevent colds?"
     answer: "Yes, exposing the skin to cool air boosts the body's resistance to temperature changes and regulates immunity, helping prevent colds."
+
 ---
 
 The figure engraved on the US $100 bill, the genius scientist who invented the lightning rod, and Benjamin Franklin, famous for his thorough self-management. Do you know the very unique and strange health method he practiced every morning after getting out of bed? 💨

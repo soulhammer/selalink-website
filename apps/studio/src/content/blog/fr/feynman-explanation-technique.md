@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Que faire s'il n'y a pas d'enfant réel à qui expliquer ?"
     answer: "Vous pouvez expliquer à un collègue, un jouet ou un chatbot. L'essentiel est de passer par le « processus de filtrage » consistant à vérifier vos mots pour exclure le jargon et utiliser un vocabulaire compréhensible par un enfant."
+
 ---
 
 Richard Feynman, un géant de la physique moderne qui a remporté le prix Nobel pour ses travaux en électrodynamique quantique. C'était un éducateur exceptionnel qui expliquait les recherches complexes de manière simple. Le secret résidait dans son habitude d'« enseigner » sur son carnet. En apprenant quelque chose de nouveau, il ouvrait un cahier et supposait qu'un enfant de 10 ans était en face. Il écrivait le concept simplement. S'il bloquait, il savait qu'il y avait une lacune et retournait au matériel original. Aujourd'hui, BuildSelf partage la vérité neuroscientifique de Feynman.

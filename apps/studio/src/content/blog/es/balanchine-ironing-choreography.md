@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Caminar ofrece un efecto de activación de la DMN similar al de los quehaceres domésticos?"
     answer: "Sí, caminar es un poderoso facilitador creativo. Sin embargo, caminar al aire libre requiere navegar por el terreno, evitar obstáculos y procesar entornos cambiantes. Los quehaceres domésticos como planchar se realizan en una habitación controlada, dependiendo de la memoria motora completamente automatizada. Esto minimiza la intervención prefrontal aún más que caminar, induciendo un estado de la DMN profundamente estable."
+
 ---
 
 George Balanchine, el legendario coreógrafo que revolucionó el ballet del siglo XX. Ante la presión de producir movimientos geométricos e innovadores, él también encontró bloqueos mentales. Sin embargo, Balanchine no se obligaba a sentarse y pensar. En su lugar, se levantaba, preparaba una tabla de planchar y planchaba camisas o fregaba suelos. Analizamos cómo esta mundana rutina de quehaceres domésticos reconecta las vías creativas del cerebro para ofrecer avances artísticos.

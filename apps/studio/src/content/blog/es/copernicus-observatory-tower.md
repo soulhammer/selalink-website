@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Qué pasa si es un estudio pequeño y aislar el espacio es difícil?"
     answer: "Si el aislamiento físico es difícil, puede lograr el mismo efecto ajustando artificialmente las 'claves visuales/ambientales', como encender una lámpara específica o colocar un tapete de escritorio usado solo para estudiar."
+
 ---
 
 Nicolás Copérnico, quien declaró la teoría heliocéntrica. La base donde pudo revelar los secretos del cosmos no era otra que la vieja y estrecha torre de observación de piedra en Frombork, Polonia. Durante décadas, no cambió sus instrumentos ni su ubicación. Explore el mecanismo cerebral de este estricto aislamiento espacial.

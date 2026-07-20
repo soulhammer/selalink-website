@@ -21,6 +21,7 @@ faqs:
     answer: "Escribir con lápiz digital en una tableta es similar a la escritura física. Sin embargo, escribir con teclado es mucho menos efectivo, ya que es un proceso demasiado rápido que no requiere esfuerzo cognitivo. Escribir a mano obliga al cerebro a procesar la información."
   - question: "¿Cómo organizo todos estos extractos para que no se pierdan?"
     answer: "Recomendamos el método del libro de anotaciones comunes de Locke: cree un índice por categorías o palabras clave en las primeras páginas de su cuaderno. También puede escanear las notas físicas una vez al mes."
+
 ---
 
 "No hay libro tan malo que no contenga algo bueno." Plinio el Viejo creía que el tiempo que no se dedicaba a aprender era tiempo perdido. Durante las comidas, baños y viajes, un esclavo le leía en voz alta mientras otro tomaba notas. Nunca leía un libro sin hacer extractos, estableciendo una base de datos de conocimiento continuo.

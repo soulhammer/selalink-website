@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Welche Art von Buch eignet sich am besten zum lauten Vorlesen?"
     answer: "Anstelle von Romanen eignen sich geisteswissenschaftliche Texte mit dichten, logischen Sätzen, Lehrbücher oder Berichte am besten zur Verbesserung der präfrontalen Plastizität."
+
 ---
 
 Abraham Lincoln, der 16. Präsident der USA, der das Land einte und die historische Abschaffung der Sklaverei erreichte. Trotz mangelnder formaler Bildung war er für seine Reden bekannt. Hinter Lincolns Wortschatz steckte ein Leseritual, das er jeden Morgen praktizierte: Er las Bücher laut vor. Sein Partner William Herndon berichtete, dass Lincolns Stimme durch den Flur hallte. Lincoln erklärte: 'Ich sehe die Worte mit den Augen und höre meine eigene Stimme mit den Ohren. Die Nutzung beider Sinne verdoppelt das Gedächtnis.' Heute zeigt BuildSelf die wissenschaftliche Wahrheit hinter diesem Ritual.

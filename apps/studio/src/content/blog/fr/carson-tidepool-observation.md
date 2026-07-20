@@ -21,6 +21,7 @@ faqs:
     answer: "Oui. Bien qu'à plus petite échelle, observer les détails des plantes d'intérieur induit une 'Fascination douce', ce qui repose le cerveau et réduit le stress."
   - question: "Dois-je obligatoirement dessiner dans le carnet ?"
     answer: "Non. Dessiner est simplement un outil pour aider à se concentrer. Si vous ne pouvez pas dessiner, décrire les détails avec des mots est très efficace."
+
 ---
 
 Le classique Printemps silencieux a mis en garde contre l'abus de pesticides. Son auteur, Rachel Carson, a fait face aux intimidations et au cancer en écrivant. 🐚

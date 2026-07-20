@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was tun, wenn in einer kleinen Wohnung kein Platz für eine räumliche Trennung ist?"
     answer: "Wenn eine räumliche Trennung unmöglich ist, nutzen Sie visuelle Signale wie eine bestimmte Schreibtischlampe oder eine Unterlage, die Sie nur zum Arbeiten auflegen."
+
 ---
 
 Nicolaus Copernicus, der mit seiner heliozentrischen Theorie die Welt veränderte. Seine Forschungsbasis war der enge steinerne Beobachtungsturm der Kathedrale von Frombork, Polen. Über Jahrzehnte hinweg veränderte er weder seine Instrumente noch seinen Standort. Erfahren Sie mehr über die neurologische Wirkung dieser räumlichen Isolation.

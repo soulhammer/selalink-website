@@ -21,6 +21,7 @@ faqs:
     answer: "In principle, the physical tactile information of writing on paper stimulates the brain's cognitive networks more strongly. However, if you set up a focused environment where you can open a digital memo app within 3 seconds without distraction, digital tools are also an excellent alternative to prevent the loss of inspiration."
   - question: "Is doing housework carefully and attentively better for creativity?"
     answer: "No. The incubation effect that induces creativity is maximized when the brain stops conscious effort and enters a daydreaming state (DMN activation). Therefore, creative inspiration emerges best when performing familiar household tasks that do not require intense focus in a semi-unconscious state."
+
 ---
 
 Emily Dickinson, one of the most original and mysterious writers in 19th-century American literary history. She lived a secluded life, rarely leaving her house, and wrote over 1,800 marvelous poems. The place where she constantly drew and recorded flashing artistic inspiration away from the eyes of others was none other than the kitchen at night.

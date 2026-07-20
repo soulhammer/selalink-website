@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, alguns manuscritos originais (como críticas ou contos) estão preservados em formato de tiras coladas por ele mesmo na Biblioteca Livre de Filadélfia (Free Library of Philadelphia) e outros museus dos EUA."
   - question: "Existem programas para evitar a mania de apagar e corrigir ao digitar?"
     answer: "Sim, existem aplicativos para forçar a escrita contínua, como o 'The Most Dangerous Writing App' (que apaga o texto se você parar ou apagar), ou editores com modo máquina de escrever (Typewriter Mode)."
+
 ---
 
 Edgar Allan Poe, o mestre do terror gótico criador de 'O Corvo' e 'O Gato Preto'. Sobre que suporte nasceram seus manuscritos capazes de projetar a ansiedade com lógica impecável? 📜

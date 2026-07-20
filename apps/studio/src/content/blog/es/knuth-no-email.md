@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Cómo notifico a mis colegas sobre mi horario fuera de línea para evitar malentendidos?"
     answer: "La mejor manera es configurar una respuesta automática o poner un mensaje de estado indicando: 'Reviso el correo electrónico dos veces al día para concentrarme en los proyectos. Para emergencias, contácteme por teléfono'. Esto gestiona las expectativas de los demás, reduce el seguimiento ansioso y protege su límite fuera de línea sin dañar las relaciones profesionales."
+
 ---
 
 Donald Knuth, el pionero de la informática que escribió El arte de programar ordenadores. A pesar de estar en el centro de la revolución informática, tomó una decisión radical en 1990: dejó por completo el correo electrónico. Declaró que su función no es estar al tanto de las cosas, sino llegar al fondo de ellas. En su lugar, acepta consultas por correo físico o fax, procesándolas por lotes cada pocos meses. Exploramos el valor cognitivo de esta rutina extrema fuera de línea para proteger la concentración.

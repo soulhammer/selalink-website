@@ -21,6 +21,7 @@ faqs:
     answer: "Absolument. Écrivez votre projet sur papier et jouez le rôle d'un critique impitoyable ou de la concurrence, en rédigeant un rapport de 'l'Avocat du Diable'."
   - question: "Comment débattre à l'envers avec quelqu'un sans nuire à la relation ?"
     answer: "Avant de commencer, convenez clairement que vous appliquez la règle des frères Wright. Laissez entendre qu'il s'agit d'un jeu de rôle officiel, évitant ainsi les attaques personnelles."
+
 ---
 
 Wilbur et Orville Wright débattaient en échangeant leurs rôles d'opinion. Cette méthode les a aidés à briser le biais de confirmation et à évaluer les problèmes.

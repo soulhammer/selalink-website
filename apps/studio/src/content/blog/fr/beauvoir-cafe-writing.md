@@ -21,6 +21,7 @@ faqs:
     answer: "Durant les hivers rigoureux des années 1940 à Paris, le Café de Flore était l'un des rares établissements chauffés à blanc, et le patron se montrait tolérant envers les créateurs restant des heures attablés, ce qui en faisait un bureau idéal."
   - question: "Peut-on mettre en place un rituel de focus en télétravail ?"
     answer: "Tout à fait. Même chez vous, vous pouvez obtenir le même effet en allumant une lampe de bureau spécifique, en utilisant un mug réservé au travail et en diffusant le même bruit de fond."
+
 ---
 
 Simone de Beauvoir, philosophe et écrivaine française dont l'ouvrage 'Le Deuxième Sexe' a marqué l'histoire du féminisme et de l'existentialisme. Cet état d'hyper-concentration qui caractérisait son travail ne s'est pas construit dans le secret d'un cabinet feutré, mais dans un coin de table d'un café parisien bruyant. ☕

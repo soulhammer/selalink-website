@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O método de fichas de Nabokov pode ser replicado usando ferramentas de notas digitais em vez de fichas físicas?"
     answer: "Sim, absolutamente. Você pode usar quadros Kanban no Notion, Trello ou quadros digitais como Miro ou FigJam para criar fichas e arrastá-las. O princípio básico não é escrever textos longos e contínuos de uma só vez, mas sim modularizar os pensamentos em objetos móveis."
+
 ---
 
 Vladimir Nabokov, que mostrou o auge da literatura inglesa do século XX com estruturas elaboradas em Lolita. Surpreendentemente, ele não escreveu seus romances em ordem cronológica. Em vez disso, ele escreveu diálogos, descrições e fragmentos de enredo em fichas de 3x5 polegadas. Nabokov espalhava essas fichas em sua mesa e as reorganizava livremente, carregando-as até no carro ou enquanto colecionava borboletas. Exploramos por que este método de escrita modular é uma estratégia cognitiva poderosa para projetos complexos e escrita.

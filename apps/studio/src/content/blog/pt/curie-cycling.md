@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Porque é que os Curie pediram bicicletas como prenda de casamento?"
     answer: "Em vez de um casamento luxuoso, queriam uma ferramenta prática para viajar pelo campo francês, meditar e concentrar-se na investigação."
+
 ---
 
 Marie Curie, a primeira mulher laureada com o Nobel e a lendária cientista que continua sendo a única pessoa na história a ganhar o Prêmio Nobel em duas áreas científicas distintas: física e química.

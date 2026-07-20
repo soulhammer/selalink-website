@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "O que fazer se for um apartamento pequeno e for difícil isolar o espaço?"
     answer: "Se o isolamento físico for difícil, você pode obter o mesmo efeito ajustando artificialmente as 'pistas visuais/ambientais', como acender uma luminária específica ou colocar uma esteira de mesa usada apenas para estudar."
+
 ---
 
 Nicolau Copérnico, que declarou a teoria heliocéntrica. A base de pesquisa onde revelou os secretos do cosmos era a antiga e estreita torre de observação de pedra em Frombork, Polônia. Durante décadas, não mudou de instrumentos ou local. Explore o mecanismo cerebral deste isolamento espacial.

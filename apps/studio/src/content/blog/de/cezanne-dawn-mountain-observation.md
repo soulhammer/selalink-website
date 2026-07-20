@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Sollte ich auch an bewölkten oder regnerischen Tagen nach draußen gehen?"
     answer: "Ja. Selbst an bewölkten Tagen liegt die Lichtstärke im Freien zwischen 1.000 und 2.000 Lux, was weitaus heller ist als eine typische Innenbeleuchtung (300 bis 500 Lux). Sie profitieren weiterhin von der biologischen Wirkung des circadianen Resets. Wenn die Luftqualität jedoch schlecht ist, stellen Sie sich stattdessen an ein großes Fenster."
+
 ---
 
 Paul Cezanne, der von Picasso und Matisse als unser aller Vater gepriesen wurde, legte den Grundstein für den Kubismus und die Abstraktion des 20. Jahrhunderts. Seine Werke fangen die ewigen geometrischen Strukturen der Natur ein. Die Quelle seiner einzigartigen Vision war seine Routine am frühen Morgen. Er wachte um 6 Uhr morgens auf, trug seine Staffelei und ging auf den Wegen von Aix-en-Provence wandern. Als die Sonne über dem Mont Sainte-Victoire aufging, stand er da und meditierte über die wechselnden Lichtwinkel und die sich verändernden Farben. Wir untersuchen, wie die Konfrontation der Sehrinde mit dem Morgenlicht den Fokus schärft.

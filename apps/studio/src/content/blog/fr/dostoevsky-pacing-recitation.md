@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Le chuchotement ou la lecture silencieuse sont-ils moins efficaces ?"
     answer: "Penser en silence ne stimule pas autant le contrôle du langage et le retour d'information. Vous devez donc prononcer clairement les mots à voix haute."
+
 ---
 
 Fiodor Dostoïevski, pionnier de la description psychologique humaine. Comment ses récits pouvaient-ils offrir une telle vitalité ? D'après sa sténographe et épouse Anna, lorsqu'il écrivait, il arpentait la pièce comme un fou, criant et récitant des monologues comme ses personnages. Découvrez le secret de cette méthode.

@@ -21,6 +21,7 @@ faqs:
     answer: "Sí, es un riesgo real. Para evitarlo, determine de forma estricta un 'tiempo para el borrador' y un 'tiempo para pulir'. Limite las revisiones a un número fijo (por ejemplo, 5 rondas) para no estancarse."
   - question: "¿En qué momento se debe parar de corregir y dar por bueno el trabajo?"
     answer: "Aunque la intuición ayuda, el mejor indicador es cuando 'las correcciones ya no aportan una mejora significativa respecto a la versión anterior'. Cuando los cambios son mínimos, el SARA ha terminado su labor y es hora de entregar."
+
 ---
 
 Frédéric Chopin, llamado el 'Poeta del Piano' por lograr el cenit romántico. Sus nocturnos y baladas suenan líricos, como nubes en el aire. Sin embargo, detrás de estas melodías se escondía un doloroso y obsesivo perfeccionismo al componer.

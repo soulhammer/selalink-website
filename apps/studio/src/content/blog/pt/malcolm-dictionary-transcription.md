@@ -21,6 +21,7 @@ faqs:
     answer: "Não. Digitar utiliza movimentos repetitivos. A escrita à mão requer coordenar traços individuais, o que ativa áreas complexas do cérebro, obtendo maior foco."
   - question: "Devo me preocupar em ter uma caligrafia bonita?"
     answer: "Não. O treino consiste em focar o cérebro na pressão e controle da caneta. Escrever com fluidez focando-se na sensação tátil é mais útil."
+
 ---
 
 Malcolm X, o orador e líder que cativou multidões. Por trás de suas palavras fluidas e carisma escondia-se um passado em que não conseguia escrever uma única frase correta. 📖

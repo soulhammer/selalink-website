@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why did Dali hold a spoon during naps?"
     answer: "The moment he fell asleep, muscles relaxed and the spoon hit a plate on the floor, waking him up to capture surreal inspirations from hypnagogia."
+
 ---
 
 Salvador Dalí, a giant of surrealist art and one of the greatest creative minds of the 20th century. Where did the bizarre and whimsical inspirations in his works come from? When Dalí faced creative blocks or mental fatigue, he sat comfortably in a wooden chair and lightly held a metal spoon in one hand, placing a metal plate directly on the floor beneath it. Today, BuildSelf explores the science behind Dalí's spoon napping and how you can apply it to restore daily focus.

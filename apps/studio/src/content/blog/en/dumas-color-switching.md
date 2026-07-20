@@ -21,6 +21,7 @@ faqs:
     answer: "No. Setting the color of digital tools (theme backgrounds of tablet note apps, Notion or email folder color tags, Chrome browser themes, etc.) to be completely different for each purpose is sufficient for the brain to achieve the same priming effect."
   - question: "Won't it backfire if I subdivide colors too much and change them too often?"
     answer: "Correct. Clear and repetitive associative learning is required for the brain to organically connect colors to specific cognitive states. Therefore, the key is to limit colors to 3 or fewer major categories and keep them consistent."
+
 ---
 
 Alexandre Dumas, the master of French literature who captured the hearts of readers worldwide with monumental historical adventure works such as The Three Musketeers and The Count of Monte Cristo. What was the secret of his superhuman productivity and creative energy, which continuously published hundreds of books in vast fields throughout his life? ✍️

@@ -21,6 +21,7 @@ faqs:
     answer: "Admittedly, a complete 3-hour disconnect can be difficult in normal office settings. In this case, you can split it into smaller timeboxes like 90 minutes in the morning and 90 minutes in the afternoon, applying a '90-min focus, full rest' cycle to conserve brain efficiency."
   - question: "Can I continue with light tasks in the afternoon after the 3-hour focus?"
     answer: "Yes. After 3 hours of Deep Work, it is recommended to perform simple repetitive tasks, check emails, or handle administrative chores (shallow work) that do not require high decision-making. Filling the afternoon with low-demand tasks is a good harmony to protect frontal lobe energy."
+
 ---
 
 Bertrand Russell, one of the greatest minds of the 20th century, who built academic monuments in mathematical logic, history of western philosophy, and social activism, and won the Nobel Prize in Literature. What was the secret of his tireless focus and vast writing productivity? ☕

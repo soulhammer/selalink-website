@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Mengapa Hemingway mencatat jumlah katanya setiap hari?"
     answer: "Untuk memvisualisasikan kemajuan menulis secara objektif, mencegah kemacetan kreatif."
+
 ---
 
 Ernest Hemingway, seorang maestro sastra Amerika modern yang memenangkan Hadiah Nobel dan Hadiah Pulitzer. Dikenal dengan gaya menulisnya yang minimalis dan lugas, disiplin hariannya juga legendaris. Dia mulai menulis pagi-pagi sekali and, di akhir setiap sesi, menghitung dan mencatat jumlah kata hariannya di bagan besar di dinding. Hari ini, BuildSelf mengeksplorasi alasan ilmiah di balik pelacakan kemajuan Hemingway.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wie können Berufstätige mit Zeitmangel Martins Routine praktisch verkürzen?"
     answer: "Sie müssen nicht stundenlang sitzen. Es reicht völlig aus, sich vor Arbeitsbeginn eine „bewusste Pause“ von nur 3 bis 5 Minuten zu gönnen. Schließen Sie vor dem Einschalten Ihres Computers die Augen, atmen Sie dreimal tief durch und fragen Sie sich: „Was ist die eine wesentliche Aufgabe, die ich heute erledigen muss?“ Dieses kurze Zeitfenster bewirkt die gewünschte metakognitive Abstimmung."
+
 ---
 
 Agnes Martin, die Meisterin der minimalistischen Rasterschnittbilder. Um ihre Kreativität unter öffentlicher Beobachtung aufrechtzuerhalten, praktizierte sie ein extrem statisches Morgenritual. Sie saß ruhig in einem Schaukelstuhl vor einer leeren Leinwand und wartete stundenlang, bis sich alle Wünsche und Planungen auflösten. Erst wenn eine klare Vision auftauchte, griff sie zum Pinsel. Wir untersuchen, wie diese mentale Reinigungsroutine das Gehirn auf tiefe Erkenntnisse vorbereitet.

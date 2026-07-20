@@ -21,6 +21,7 @@ faqs:
     answer: "Cacher les erreurs prolonge l'anxiété. Écrire les faits et analyser l'échec aide le cerveau à retrouver un sentiment de contrôle, réduisant le stress."
   - question: "Existe-t-il un entraînement pour mieux capter la sérendipité ?"
     answer: "Faire de légers changements dans ses habitudes est utile. Prendre un chemin différent stimule le cerveau pour remarquer de nouvelles connexions."
+
 ---
 
 La pénicilline, le premier antibiotique qui a sauvé des millions de vies. Est-elle née dans un laboratoire de haute technologie ? 🧫

@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Mengapa keluarga Curie meminta sepeda sebagai hadiah pernikahan?"
     answer: "Alih-alih pernikahan mewah, mereka menginginkan alat praktis untuk bepergian di pedesaan Prancis, bermeditasi, dan fokus pada penelitian."
+
 ---
 
 Marie Curie, peraih Nobel wanita pertama dan ilmuwan legendaris yang hingga kini menjadi satu-satunya orang dalam sejarah yang memenangkan Hadiah Nobel di dua bidang ilmiah berbeda, yaitu fisika dan kimia.

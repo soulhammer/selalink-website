@@ -21,6 +21,7 @@ faqs:
     answer: "Escribir en teclado es repetitivo y ofrece poca estimulación táctil. Las pantallas tienen distracciones de multitarea. Para un mapeo profundo y reestructuración mental, la lectura y escritura analógicas son ideales."
   - question: "¿Qué deben hacer las personas de hoy si no tienen tiempo para leer 10 horas al día?"
     answer: "La calidad de la concentración sin pantallas importa más que la cantidad de tiempo. Incluso solo 30 minutos al día de lectura concentrada y escribir 1 o 2 páginas de notas es suficiente para estimular la corteza asociativa."
+
 ---
 
 Karl Marx analizó las estructuras económicas del capitalismo. ¿Cómo nació su obra Das Kapital? 🏛️

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Kann ich während des Spaziergangs Sprachmemos oder digitale Notizen-Apps auf meinem Telefon verwenden?"
     answer: "Ja, vorausgesetzt, Sie minimieren digitale Ablenkungen. Verwenden Sie eine App, die offline direkt vom Sperrbildschirm aus gestartet werden kann, um Benachrichtigungen zu vermeiden. Der Wert liegt nicht im Papier selbst, sondern im Schutz des diffusen Modus."
+
 ---
 
 Ralph Waldo Emerson, der intellektuelle Führer der Transzendentalismus-Bewegung im Amerika des 19. Jahrhunderts, inspirierte Generationen mit seinen Essays Self-Reliance und Nature. Das Fundament seiner tiefgründigen Philosophie war ein zweistufiger kognitiver Zyklus. Tagsüber wanderte er mit einem ledernen Taschennotizbuch durch die Wälder von Concord und hielt flüchtige Gedanken mit einem Bleistift fest. Nachts saß er an seinem Schreibtisch, um diese rohen Fragmente in ein großes, ledergebundenes Tagebuch zu übertragen und sie zu zusammenhängenden Essays auszuarbeiten.

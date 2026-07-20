@@ -21,6 +21,7 @@ faqs:
     answer: "A ficção leve também alivia el estresse cerebral, mas para produzir uma 'motivação orientada a valores' que alinee la identidad y despierte la fuerza de voluntad, es mucho melhor escolher epopeyas clássicas, livros de filosofia ou biografias que tragan reflexão e ressonância interna."
   - question: "Posso ler livros em um e-reader deitado?"
     answer: "Telas de e-readers ou tablets emitem luz azul, o que pode confundir o cérebro fazendo-o pensar que é dia e suprimir a melatonina. Para obter o melhor efeito de alinhamento subconsciente e sono profundo, recomenda-se ler um livro físico de papel sob luz suave."
+
 ---
 
 Alexandre o Grande conquistou o maior império de sua época. Seu refúgio mental era a Ilíada de Homero (corrigida por Aristóteles), que ele mantinha sob o travesseiro com uma adaga. Ler sobre Aquiles limpava seu medo antes de dormir.

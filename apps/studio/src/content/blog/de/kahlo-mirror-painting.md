@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Was soll ich tun, wenn mich der Blick in den Spiegel stresst, weil ich nur Makel oder Falten in meinem Gesicht sehe?"
     answer: "Dies ist ein sehr natürliches Phänomen. Zu Beginn der Spiegelbetrachtung ist der Instinkt zur Bewertung des Aussehens stark ausgeprägt. Versuchen Sie, sich nur auf Ihre 'Pupille' zu konzentrieren, anstatt auf das ganze Gesicht. Es hilft, den Blick mit dem Gefühl zu fixieren, dass Sie Blickkontakt mit Ihrer Existenz selbst aufnehmen."
+
 ---
 
 Frida Kahlo, die legendäre mexikanische Malerin, ertrug extreme körperliche Schmerzen durch Kinderlähmung und einen schrecklichen Busunfall, der ihre Knochen zertrümmerte und zu mehr als 30 Operationen führte. In einer verzweifelten Situation, in der sie bettlägerig war, rettete ein einziger Spiegel, der sie jeden Tag widerspiegelte, ihre Seele und machte sie zu einer Weltklasse-Malerin.

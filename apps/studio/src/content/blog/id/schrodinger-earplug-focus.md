@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apa yang harus saya lakukan jika keheningan total justru menghambat konsentrasi atau menyebabkan kecemasan?"
     answer: "Bagi pemula yang merasa canggung dalam keheningan total, disarankan untuk mulai dengan memutar white noise (suara hujan, ombak, dll.) atau pink noise sederhana tanpa lirik agar otak dapat beradaptasi dengan keheningan melalui proses pembingkaian kognitif."
+
 ---
 
 Erwin Schrödinger, fisikawan genius Austria yang memenangkan Hadiah Nobel Fisika dan meletakkan dasar bagi mekanika kuantum modern dengan menemukan persamaan gelombang, hukum fisika paling misterius dan kompleks dalam sejarah. Dalam lingkungan seperti apa perhitungan matematika yang cemerlang dan pemikiran fisik-filosofisnya yang mendalam berasal? 🌌

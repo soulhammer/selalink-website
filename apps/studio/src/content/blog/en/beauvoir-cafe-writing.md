@@ -21,6 +21,7 @@ faqs:
     answer: "During the severe winter cold of Paris in the 1940s, Café de Flore kept stoves very warm inside, and the owner had an artist-friendly atmosphere that did not pressure customers even if they stayed for a long time, making it her best workspace."
   - question: "Can I implement cognitive scripts in a home environment?"
     answer: "Absolutely. Even without leaving the house, you can trigger the same cognitive switching effect with a sequence like turning on a specific lamp at a specific desk corner, designating a mug cup used only during focus, and playing a specific background white noise."
+
 ---
 
 Simone de Beauvoir, a French philosopher and novelist who wrote 'The Second Sex' and made a huge milestone in modern feminism and existential thought. Her high-focus state, which produced high-level intellectual thoughts and meticulous sentences every time, was woven not in a glamorous and sealed study, but in a corner of a bustling Paris cafe. ☕

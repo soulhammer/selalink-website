@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does wearing outdoor clothes instead of pajamas really help when working from home?"
     answer: "Numerous studies in cognitive psychology strongly support this. When remote workers wear neat office clothes rather than pajamas, cognitive error rates decrease and the hesitation delay before starting work is drastically reduced. Changing attire is the easiest and most effective cognitive switch that helps the brain differentiate between work and home contexts."
+
 ---
 
 The author of the political classic The Prince and Florentine diplomat, Niccolo Machiavelli. Banished from office with the fall of the republic, he was forced into a harsh, impoverished exile in a country farm. However, he did not lose his focus. After a day covered in mud from farm work, he solemnly changed into royal robes every evening and opened his library door. He dressed up to be worthy of facing the wisdom of the ancients, sinking deeply into classical thought. Explore how this conscious change of attire resets the brain's focus.

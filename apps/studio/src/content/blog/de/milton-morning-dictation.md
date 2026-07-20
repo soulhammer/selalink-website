@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Wie merkte sich Milton die Verse, bevor der Schreiber eintraf?"
     answer: "Milton wiederholte die Verse wie ein rhythmisches Lied. Durch seine Erblindung schulte er sein auditves Gedächtnis und nutzte das Metrum als Gedächtnisstütze."
+
 ---
 
 John Milton, der legendäre englische Dichter, der sein Meisterwerk *Das verlorene Paradies* völlig blind verfasste. Wie konnte er ein Epos von über 10.000 Zeilen schreiben, ohne einen einzigen Buchstaben zu sehen? Das Geheimnis lag in seiner Routine um 4 Uhr morgens. Milton wachte vor der Dämmerung auf und meditierte schweigend, um Verse im Geist zu formen. Sobald sein Assistent um 7 Uhr eintraf, diktierte er das Werk. Entdecken Sie die Wissenschaft dahinter.

@@ -21,6 +21,7 @@ faqs:
     answer: "No. Quienes tienen problemas de cuello deben evitar sostener el peso del cuerpo sobre la cabeza. En su lugar, pueden acostarse de espaldas y elevar las piernas contra la pared con un cojín bajo la cadera."
   - question: "¿Cuál es el mejor momento del día para hacer el pino?"
     answer: "El mejor momento es por la mañana antes del desayuno o justo antes de empezar a trabajar. Hacer el pino oxigena el cerebro y ayuda a despertar. Evite hacerlo después de comer; espere al menos 2 horas."
+
 ---
 
 Jawaharlal Nehru luchó por la independencia india. Detrás de sus ropas blancas, pasó 9 años en prisión. 🧘

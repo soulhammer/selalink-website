@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Puedo utilizar una aplicación de mapas mentales en lugar de tarjetas físicas?"
     answer: "Las aplicaciones ayudan, pero la retroalimentación táctil de mover objetos físicos con las manos estimula la corteza motora de forma mucho más directa. Estudios demuestran que la manipulación manual en el espacio real genera una mayor activación neuronal útil para la creatividad que el arrastrar elementos en una pantalla."
+
 ---
 
 La tabla periódica, uno de los hitos de la ciencia moderna. Para resolver este gran rompecabezas, el científico ruso Dmitri Mendeléyev utilizó tarjetas de papel para representar los 63 elementos conocidos. Llevaba estas tarjetas en su bolsillo y las distribuía sobre la mesa, buscando patrones lógicos en sus propiedades. Analicemos cómo la manipulación física de ideas activa los recursos de la memoria de trabajo.

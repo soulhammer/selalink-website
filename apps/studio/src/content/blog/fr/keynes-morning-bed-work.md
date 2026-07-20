@@ -21,6 +21,7 @@ faqs:
     answer: "Oui, si vous vous allongez à plat et tendez le cou. Redressez-vous à l'aide d'oreillers fermes à un angle de 45 degrés et limitez vos séances à 30 minutes pour rester en bonne santé."
   - question: "Puis-je consulter mes e-mails pendant seulement 5 minutes avant de commencer ?"
     answer: "Non. Même 5 minutes d'examen des alertes entrantes dispersent et gaspillent immédiatement votre énergie CAR. Laissez votre téléphone éteint jusqu'à ce que votre tâche principale soit terminée."
+
 ---
 
 John Maynard Keynes, le personnage qui a changé le paradigme de l'économie du XXe siècle, a fondé la macroéconomie et a fourni la clé pour surmonter la Grande Dépression, était un homme d'une productivité immense. Pourtant, sa scène matinale était étonnamment paisible. Keynes ne sautait pas du lit au réveil. Lorsque son secrétaire lui apportait des documents à 8 heures du matin, il restait allongé dans son lit pendant 2 heures, analysant les données et rédigeant des manuscrits.

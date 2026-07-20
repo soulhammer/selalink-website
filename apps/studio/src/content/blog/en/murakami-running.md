@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Why does Murakami run 10km every day?"
     answer: "To sustain high concentration and endurance for writing, he stimulates brain cells with aerobic exercise and builds a solid physical base."
+
 ---
 
 Haruki Murakami, a giant of modern Japanese literature who creates a global sensation with every work he publishes. He is not only a novelist but also a passionate runner who has completed a full marathon every year for over 40 years. When he became a full-time writer in 1982, he experienced a decline in stamina and weight gain from sitting and writing all day. He realized that to sustain creative activities in the long run, a novelist needs not just talent, but strong physical stamina to maintain high concentration. He quit smoking and started a routine of running 10km or swimming 1,500m every morning, which he maintains wherever he goes. Today, BuildSelf explores the scientific reasons behind Murakami's running and how you can build your own stamina routine.

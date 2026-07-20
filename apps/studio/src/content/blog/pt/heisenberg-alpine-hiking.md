@@ -21,6 +21,7 @@ faqs:
     answer: "Você pode substituir isso caminhando em um parque da cidade por mais de 30 minutos sem o telemóvel. A chave é estimular los sentidos espaço-temporais e aumentar o fluxo sanguíneo cerebral."
   - question: "Tem alguma dica para registrar as ideias que surges durante uma caminhada sem esquecê-las?"
     answer: "Recomendamos levar um pequeno caderno e caneta no bolso para anotar palavras-chave instantaneamente, ou usar notas de voz para não interromper a caminhada."
+
 ---
 
 Werner Heisenberg, o físico do princípio da incerteza. Em 1925, bloqueado pelas equações do átomo, viajou sozinho para os Alpes bávaros para caminhar dias inteiros. Encontrou o caminho em meio aos bosques. Analisemos como la caminada natural reduce la fatiga atencional (teoría de restauración de atención).

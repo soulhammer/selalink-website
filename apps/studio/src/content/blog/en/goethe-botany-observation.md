@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Does observing companion plants at home help?"
     answer: "Yes, closely observing indoor plants or foliage for over 15 seconds also stimulates involuntary attention, reducing prefrontal fatigue. However, outdoor observation accompanied by sunlight and light walking is most effective for cognitive enhancement."
+
 ---
 
 Johann Wolfgang von Goethe, who created the great masterpiece 'Faust' and the novel 'The Sorrows of Young Werther'. He was not only a writer but also a polymath who deeply explored botany, color theory, and anatomy, writing the botanical paper 'The Metamorphosis of Plants.' Behind his creative ideas crossing science and literature was an amazing morning ritual he practiced every morning. It was the 'garden observation walk habit' of walking in the garden, looking closely at wild plants, and collecting seeds. Every morning, he walked slowly in his Weimar garden. He always carried collection envelopes and a magnifying glass. He observed petal patterns, leaf growth lines, and spiral seed patterns under a magnifying glass, collecting seeds in envelopes. For Goethe, this time was a cognitive recharging station that freed him from the pressure of desk work, visualized the design laws of nature, and washed away brain fatigue. Today, BuildSelf shares the environmental psychology principles behind Goethe's morning observation walk and a modern 15-minute morning observation method to restore cognitive attention and increase daily insights.

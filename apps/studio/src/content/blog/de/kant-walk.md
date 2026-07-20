@@ -18,6 +18,7 @@ steps:
 faqs:
   - question: "Warum ging Immanuel Kant jeden Tag um Punkt 15:30 Uhr spazieren?"
     answer: "Es war ein strenges Ritual, um den biologischen Rhythmus aufrechtzuerhalten, um jahrzehntelang abstrakte philosophische Forschung zu betreiben."
+
 ---
 
 Der größte Erkenntnistheoretiker der Menschheitsgeschichte und der Wegbereiter des deutschen Idealismus – Immanuel Kant. Jeden Tag um exakt 15:30 Uhr verließ er in demselben Mantel sein Haus und ging den immer gleichen Weg ab. 🚶‍♂️

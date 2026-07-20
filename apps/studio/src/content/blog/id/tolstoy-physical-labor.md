@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bukankah olahraga pagi dengan intensitas tinggi membuat lelah di pagi hari?"
     answer: "Penting untuk menyesuaikan intensitas olahraga. Tujuannya bukan kelelahan, tetapi sesi singkat 15-20 menit untuk meningkatkan denyut jantung & suhu tubuh sementara, merangsang sirkulasi darah. Anda harus menyesuaikan dengan tingkat kebugaran Anda."
+
 ---
 
 Leo Tolstoy, yang secara luas dianggap sebagai pilar sastra realis Rusia dengan karya-karya agung seperti 'Perang dan Damai' dan 'Anna Karenina'. Meskipun dia adalah seorang bangsawan kaya, dia menolak hak istimewa dan mencari kehidupan kerja fisik yang sederhana. Sumber energi kreatifnya yang tak kenal lelah adalah kerja fisik dan senam yang dia lakukan setiap pagi. Saat bangun tidur, sebelum duduk di mejanya, Tolstoy membajak sawah, membelah kayu, atau membawa air. Dia juga memasang peralatan senam di halamannya untuk latihan pull-up dan kekuatan. Dia memandang kerja fisik sebagai mesin penting untuk membangunkan otak. Hari ini, BuildSelf mengeksplorasi kebenaran neurosains di balik kebiasaan olahraga Tolstoy dan bagaimana para profesional modern dapat merancang rutinitas pagi untuk memaksimalkan efisiensi otak.

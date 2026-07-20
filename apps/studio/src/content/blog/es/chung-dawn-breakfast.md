@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "¿Tengo que despertarme a las 4 a. m.? Soy una persona nocturna."
     answer: "No. Lo fundamental no es la hora absoluta de las 4 a. m., sino aplicar de manera constante el mecanismo de 3 pasos (bloquear carga, comunicación y caminata) a su horario."
+
 ---
 
 El presidente Chung Ju-yung, fundador del Grupo Hyundai. Tenía una rutina matutina única: despertarse antes de las 4 a. m., desayunar con su familia a las 5 a. m. y caminar a la oficina en Gaedong. Explore las recompensas cognitivas del amanecer.

@@ -21,6 +21,7 @@ faqs:
     answer: "Parce qu'il ne voulait pas rompre son flux créatif ultra-concentré. En refusant les rituels du quotidien, il dirigeait 100 % de son énergie vers sa sculpture sans interruption."
   - question: "Quels sont les conseils pratiques pour réduire la fatigue décisionnelle ?"
     answer: "Vous pouvez uniformiser des choix triviaux (comme Steve Jobs), planifier vos repas, ou couper les notifications pour protéger votre cerveau de la surcharge cognitive."
+
 ---
 
 La Pietà, le David, la chapelle Sixtine. Michel-Ange Buonarroti, créateur des plus grands chefs-d'œuvre de l'histoire. Derrière son génie se cachait une habitude de concentration extrême. Selon son biographe Giorgio Vasari, lorsqu'il travaillait, il dormait tout habillé et botté pendant des semaines. Aujourd'hui, BuildSelf explore la science cognitive derrière cela.

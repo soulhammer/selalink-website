@@ -21,6 +21,7 @@ faqs:
     answer: "Oui. Si la dépression ou l'autocritique s'installe, arrêtez-vous immédiatement. Essayez d'abord de vous concentrar sur la ligne de vos épaules ou sur vos mains pour ancrer vos sensations physiques."
   - question: "Quel est le meilleur moment de la journée pour l'autoréflexion dans le miroir ?"
     answer: "Juste après la douche, c'est idéal. Votre corps est détendu sous la domination parasympathique, ce qui affaiblit les défenses de l'ego et permet une connexion plus confortable."
+
 ---
 
 Rembrandt van Rijn, le maître immortel de l'âge d'or hollandais. Bien qu'il ait connu la richesse et la gloire très tôt, ses dernières années ont été marquées par la faillite et la solitude. Pourtant, il n'a jamais cessé de peindre des autoportraits, laissant plus de 80 pièces sur 40 ans. C'était un processus de réflexion visuelle, regardant son visage vieillissant dans le miroir. Nous étudions sa résilience.

@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah meditasi pagi di tempat tidur benar-benar efektif bagi otak?"
     answer: "Ya, posisi berbaring setelah bangun mengarahkan gelombang otak ke keadaan alfa, menstabilkan sistem saraf otonom."
+
 ---
 
 René Descartes, bapak filsafat modern yang meletakkan dasar pemikiran rasional lewat kutipan terkenal "Aku berpikir, maka aku ada" dan penemu geometri analitis. Tahukah Anda bahwa raksasa intelektual ini menjalani rutinitas pagi yang sangat nyaman namun unik? 🛏️

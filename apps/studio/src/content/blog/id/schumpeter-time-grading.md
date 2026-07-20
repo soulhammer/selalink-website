@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Bagaimana saya mencegah diri terlalu longgar atau curang dalam memberikan nilai?"
     answer: "Inilah mengapa Anda harus menetapkan rubrik numerik konkret. Jangan mendasarkan nilai pada perasaan. Dasarkan pada fakta terukur. Menggabungkan rubrik dengan data analitis memutus rasionalisasi otak."
+
 ---
 
 Joseph Schumpeter, ekonom Austria yang mendefinisikan inovasi dan 'creative destruction'. Demi menjaga output penelitian dan menulisnya, ia melakukan refleksi diri dingin dan sistematis. Setiap malam ia membuka diari mencatat waktu penelitian dan menilai kinerjanya dari A ke F.

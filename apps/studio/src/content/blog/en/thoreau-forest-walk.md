@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How did Thoreau write notes while walking for 4 hours?"
     answer: "He walked with a small, handmade leather notebook and pencil in his coat pocket. When a thought occurred, he paused, stood under a tree, and captured the details of plants or raw sentences immediately."
+
 ---
 
 Henry David Thoreau, the American essayist and transcendentalist who lived self-sufficiently by Walden Pond. He wrote the environmental classic *Walden*. Behind his profound insights lay an uncompromising afternoon habit: walking 4 hours daily in the woods of Concord. He wasn't just exercising; he was observing nature microscopically and recording sudden insights in his pocket notebook. Let's study how a walk in nature restores our brain power and triggers creative breakthroughs.

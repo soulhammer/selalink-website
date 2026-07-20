@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Apakah orang yang tidak bisa menggambar sama sekali tetap bisa menggunakan kebiasaan ini?"
     answer: "Tentu saja. Kebiasaan sketsa Archimedes bukanlah tindakan artistik, melainkan proses kognitif untuk menempatkan struktur pemikiran otak ke ruang luar. Cukup membuat lingkaran sederhana dan menghubungkannya dengan panah."
+
 ---
 
 Genius terbesar zaman kuno yang menemukan prinsip tuas, Archimedes. Di balik fokus luar biasa dan inspirasi ilmiahnya terdapat kebiasaan sketsa visual yang unik. Setiap kali berpikir, ia menggambar bentuk geometri di pasir atau minyak di tubuhnya setelah mandi. Cerita terkenalnya meneriaki tentara Romawi agar tidak menginjak gambarnya di pasir sangat melegenda. Kami mengungkap mekanisme fokus ekstrem ini.

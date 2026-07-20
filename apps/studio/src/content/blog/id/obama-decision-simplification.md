@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Mengapa Barack Obama hanya memakai setelan jas abu-abu dan biru?"
     answer: "Untuk menjaga energi otak prefrontal yang dibutuhkan demi keputusan negara penting yang tak terhitung jumlahnya, ia memotong pilihan sepele seperti berpakaian atau makan guna menghindari keletihan keputusan."
+
 ---
 
 Presiden Amerika Serikat ke-44 Barack Obama harus membuat keputusan berat setiap hari. Selama masa jabatannya, demi memfokuskan energi kognitifnya sepenuhnya pada urusan negara penting di antara pilihan harian yang tak terhitung, ia menggunakan rahasia pribadi yang sangat cerdas. 👔

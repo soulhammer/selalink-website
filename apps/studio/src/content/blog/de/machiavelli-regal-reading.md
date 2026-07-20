@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Hilft formelle Kleidung auch im Homeoffice?"
     answer: "Zahlreiche Studien bestätigen dies. Mitarbeiter im Homeoffice, die ordentliche Kleidung tragen statt Pyjamas, machen weniger Fehler und beginnen zügiger mit der Arbeit. Der Kleiderwechsel ist ein einfaches Signal, das dem Gehirn hilft, zwischen Arbeit und Freizeit zu unterscheiden."
+
 ---
 
 Niccolo Machiavelli, der Autor des Klassikers Der Fürst. Nach seinem Sturz wurde er ins Exil auf ein Landgut verbannt, wo er ein einfaches Leben führen musste. Doch er gab sich nicht auf. Jeden Abend legte er die schmutzige Arbeitskleidung ab, zog seine feine Amtskleidung an und betrat die Bibliothek. Er war überzeugt, dass er den Denkern der Vergangenheit nur in angemessener Kleidung begegnen sollte. Erfahren Sie, wie der bewusste Kleiderwechsel die geistige Haltung beeinflusst.

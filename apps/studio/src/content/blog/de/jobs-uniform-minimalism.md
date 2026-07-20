@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Warum trug Steve Jobs jeden Tag die gleiche Kleidung?"
     answer: "Um Energie zu sparen, die morgens durch triviale Kleidungsentscheidungen verbraucht wird, und sich voll auf kritische Geschäftsentscheidungen zu konzentrieren."
+
 ---
 
 Steve Jobs, der geniale Unternehmer und Mitbegründer von Apple, der den Macintosh, das iPhone, das iPad und andere revolutionäre Geräte auf den Markt brachte, die unseren Lebensstil nachhaltig veränderten. Wussten Sie, dass er nicht nur auf der Bühne, sondern auch im Alltag täglich den gleichen schwarzen Rollkragenpullover, Jeans und Sneakers trug? 👕

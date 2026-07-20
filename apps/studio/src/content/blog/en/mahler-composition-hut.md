@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "How can office workers in open-plan workspaces apply Mahler's isolation routine?"
     answer: "In this scenario, employ auditory and digital isolation. Wearing noise-canceling headphones with white noise or ambient sounds acts as a cognitive shield. Combine this by setting communication apps to 'Do Not Disturb' and maximizing your main workspace application to create a digital mini-hut."
+
 ---
 
 Gustav Mahler, the Austrian master who composed immortal symphonies with massive orchestrations. During his busy conductorship, he had to pour all his musical energy during limited summer breaks. To achieve this, Mahler constructed a tiny 'Composing Hut' deep in the Alpine forest. Every morning at 6 AM, after breakfast was left at the door, Mahler locked himself inside until noon. We explore how this absolute isolation routine guides the brain into peak creative performance.

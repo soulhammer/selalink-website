@@ -21,6 +21,7 @@ faqs:
     answer: "O vidro da janela filtra até 80% das ondas de luz azul necessárias para estimular as ipRGCs. Abrir a janela totalmente é importante para permitir que as ondas de luz directas atinjam a retina para a alerta cognitiva."
   - question: "Esta rotina é eficaz mesmo em manhãs nubladas ou chuvosas?"
     answer: "Sim, mesmo em dias nublados a luz natural que penetra as nuvens é mais de 10 vezes mais brilhante que a iluminação artificial. As ondas de luz azul continuam presentes para estimular as células retinianas."
+
 ---
 
 Claude Monet acordava antes do amanhecer para pintar a mesma cena sob a luz mutável do sol matinal. Este hábito visual aguçou sua sensibilidade a mudanças sutis na iluminação.

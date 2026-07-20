@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Porque é que Stephen King escrevia 2.000 palavras por dia?"
     answer: "Para não depender do seu estado de espírito e produzir obras de forma mecânica diariamente, utilizando ativadores sensoriais e limites de produção mínimos para controlar e habituar o tempo em que a inspiração dura."
+
 ---
 
 Stephen King, o mestre do terror moderno por trás de obras-primas como 'The Shining' e 'The Shawshank Redemption', mantém uma disciplina rigorosa há décadas: começa a escrever todas as manhãs e nunca se levanta até terminar 2.000 palavras. ✍️

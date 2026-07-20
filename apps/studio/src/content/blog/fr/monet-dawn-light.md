@@ -21,6 +21,7 @@ faqs:
     answer: "Les vitres filtrent jusqu'à 80 % des longueurs d'onde bleues nécessaires pour stimuler les ipRGC. Ouvrir la fenêtre en grand est essentiel pour que les ondes lumineuses directes soient transmises au cerveau."
   - question: "Cette routine est-elle efficace les matins nuageux ou pluvieux ?"
     answer: "Oui, même par temps nuageux, la lumière naturelle traversant les nuages est plus de 10 fois plus intense que l'éclairage artificiel. Les longueurs d'onde bleues restent présentes pour stimuler les cellules rétiniennes."
+
 ---
 
 Claude Monet se réveillait avant l'aube pour peindre la même scène sous la lumière changeante du matin. Cette routine a aiguisé sa sensibilité aux variations subtiles de l'éclairage.

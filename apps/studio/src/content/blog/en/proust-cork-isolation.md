@@ -21,6 +21,7 @@ faqs:
     answer: "Depending on personality, complete silence can trigger tinnitus or anxiety in a sensory-deprived brain. In such cases, playing low-volume natural white noise (or pink noise), like rain or rustling leaves, is recommended. Meaningless natural sounds do not capture the thalamus's attention but still provide a comforting, relaxed effect."
   - question: "Can working lying down in bed also lead to good focus?"
     answer: "Proust was forced to work lying down due to his chronic illness (asthma). For most modern people, the brain perceives the bed as a 'sleeping space,' promoting drowsiness when working there. To focus on work, it is much more effective for cognitive efficiency to use a desk with an upright posture, applying only the sensory isolation techniques (lighting, noise block)."
+
 ---
 
 Marcel Proust, the French novelist who revolutionized 20th-century fiction and demonstrated the peak of sensory description. He suffered from chronic asthma and severe neurasthenia throughout his life, particularly sensory hypersensitivity that reacted neurotically to minute light and sound. Consequently, he remodeled his bedroom into a complete soundproof fortress to escape Paris's noisy environment.

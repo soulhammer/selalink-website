@@ -19,6 +19,7 @@ steps:
 faqs:
   - question: "Quel était l'effet de la sieste de Churchill pendant la guerre ?"
     answer: "Avec une sieste profonde, il divisait sa journée en deux périodes actives indépendantes pour supporter la charge des décisions."
+
 ---
 
 Winston Churchill, le Premier ministre britannique pendant la Seconde Guerre mondiale qui a mené la lutte contre l'Allemagne pour assurer la victoire finale des Alliés. Comment était-il capable de maintenir sa vigilance mentale maximale sans s'épuiser sous les tâches étatiques de plus de 18 heures par jour ? Le secret résidait dans une routine de sieste très singulière qu'il faisait chaque après-midi. Chaque après-midi, entre 14h00 et 14h30, Churchill interrompait tous les rapports et allait dans sa chambre, se déshabillait complètement et faisait une sieste profonde de 1 à 2 heures. Aujourd'hui, BuildSelf partage la vérité neuroscientifique derrière la sieste de Churchill.

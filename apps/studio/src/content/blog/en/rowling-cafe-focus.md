@@ -21,6 +21,7 @@ faqs:
     answer: "No. Artificially mixed music with lyrics, or highly rhythmic and excessively loud noise (over 85dB), crosses the line and directly invades the frontal lobe's working memory area. This accelerates brain fatigue. To correctly trigger the cognitive disfluency effect, the noise must be lyrics-free, unpredictable, and irregular ambient noise."
   - question: "Does listening to white noise through earphones in a study room help?"
     answer: "Yes. Playing white noise in a quiet study room is also good because it gives the brain a mild distraction-blocking effect. However, combining it with physical visual changes (like the open feeling of a cafe) is better for creativity as it secures sensory diversity for the brain."
+
 ---
 
 J.K. Rowling, the wizard who invited hundreds of millions of readers into a world of magic and became the history's first billionaire writer, sparking a global fantasy syndrome. How did she imagine the vast worldview of Hogwarts and wizardry while struggling as a single mother in a drafty flat in Edinburgh? ☕

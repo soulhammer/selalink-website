@@ -21,6 +21,7 @@ faqs:
     answer: "Sim, os registos históricos confirmam que Napoleão podia adormecer quase instantaneamente mesmo com o estrondo dos canhões, e acordar exatamente 15 minutes depois para dar ordens tácticas."
   - question: "Qual é a melhor hora do dia para fazer uma micro sesta?"
     answer: "O horário ideal é entre as 13:00 e as 15:00, coincidiendo con la quebra natural do alerta. Evite dormir depois das 16:00 para não afetar o sono noturno."
+
 ---
 
 Napoleão Bonaparte, o lendário estratega militar e imperador da França. Famoso pela sua energia inesgotável, governava e batalhava com apenas 4 horas de sono noturno. O seu segredo eram as 'micro sestas': dormir 10 ou 15 minutos em qualquer momento livre, mesmo em batalha. Hoje, o BuildSelf analisa como as sestas estratégicas reiniciam a mente.

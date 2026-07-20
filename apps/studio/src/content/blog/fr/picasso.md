@@ -21,6 +21,7 @@ faqs:
     answer: "Non. Selon les neurosciences, lorsqu'une tâche atteint un plateau et que la friction cognitive est maximisée, plutôt que de se forcer à le faire, faire 20 minutes de travail ventilatoire puis revenir à un lobe frontal clair accélérera la vitesse totale d'achèvement final de plus de 40 %."
   - question: "Quel est le meilleur nombre de pistes d'affectation par jour ?"
     answer: "Pour protéger la batterie d'énergie de votre cerveau décisionnel, nous recommandons de ne pas dépasser trois catégories de tâches principales par jour. Des réglages de piste fréquents supérieurs à quatre entraînent une perte d’attention."
+
 ---
 
 Pablo Picasso, un peintre espagnol de génie qui a créé une grande quantité d'inspiration destructrice et sans frontières tout au long de sa vie, notamment des peintures, des sculptures et des céramiques. Il a disposé en même temps des dizaines de toiles inachevées dans tout son immense atelier et a commencé à y travailler. Lorsque l'inspiration s'est arrêtée alors qu'il peignait une œuvre cubiste et qu'il a ressenti une stagnation cognitive dans son cerveau, il n'a pas forcé le pinceau, mais a immédiatement pris le pinceau et s'est déplacé vers une nature morte ou une toile de portrait complètement différente à côté de lui et a continué à travailler. Cette routine flexible de changement de tâches a été le moteur de la création de dizaines de milliers de chefs-d’œuvre tout au long de sa carrière.
