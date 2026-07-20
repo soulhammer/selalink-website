@@ -66,9 +66,7 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     주변에 있는 가벼운 손악기(칼림바, 리코더, 우쿨렐레, 심지어 핑거 드럼 등)를 5분간 마음대로 연주해 봅니다. 악기가 없다면 가사가 없는 클래식이나 재즈 연주곡을 재생한 뒤 눈을 감고, 멜로디의 흐름과 타악기의 박자에 온 감각을 집중하여 손가락으로 가볍게 박자를 탑니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/einstein_violin_relax.png" alt="5분간의 청각 및 리듬 집중 리추얼" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
+  
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

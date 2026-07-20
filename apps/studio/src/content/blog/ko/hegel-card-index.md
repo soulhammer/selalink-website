@@ -73,9 +73,7 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     작성한 카드 상단에 해당 메모의 속성을 식별할 수 있는 키워드나 분류 코드(예: #인지과학, #습관)를 적어두어 나중에 언제든 쉽게 찾고 연결할 수 있는 색인을 부여합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/hegel_card_index_relax_detail.png" alt="메타 데이터 태그 부여 및 색인 분류" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
+  
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

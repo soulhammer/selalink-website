@@ -62,9 +62,7 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     작업 환경에서 스마트폰 알림, 웹 서핑 브라우저 탭, 소음 등 주의를 분산시키는 외부의 자극 요소를 물리적으로 완전 격리합니다. 뇌가 오직 하나의 대상에만 연산 능력을 가둘 수 있게 집중 방을 세팅합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/michelangelo_flow_relax_detail.png" alt="인지적 유입 자극의 차단" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
+  
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

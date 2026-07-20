@@ -73,9 +73,7 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     불안이나 욕구가 커지는 정점에서, 씹을거리를 입안에 넣고 턱 근육의 긴장과 움직임, 침의 분비에 집중하여 천천히 씹기 시작합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/reagan_jellybean_relaxation_relax_detail.png" alt="감각 감지 저작 수행" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
+  
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

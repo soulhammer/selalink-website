@@ -73,9 +73,7 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     빛이 구름이나 안개에 부딪혀 산란하는 그라데이션을 5분간 온전히 응시합니다. 하늘의 대조와 색채의 세세한 변화를 눈과 마음에 새깁니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/turner_dawn_observation_relax_detail.png" alt="산란하는 빛과 변화 응시" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
+  
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

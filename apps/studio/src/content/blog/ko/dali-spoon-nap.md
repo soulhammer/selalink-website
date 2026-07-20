@@ -62,9 +62,7 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     스마트폰의 부드러운 알람을 5분~7분 뒤로 설정해 두거나, 손가락 사이에 펜을 가볍게 쥔 채 바닥에 종이를 놓아둡니다. 힘이 빠지는 찰나에 깨어날 수 있는 물리적 알람 장치를 마련하고 눈을 감습니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/dali_spoon_nap_relax_detail.png" alt="5분 타이머 또는 감각 낙하 셋업" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
+  
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

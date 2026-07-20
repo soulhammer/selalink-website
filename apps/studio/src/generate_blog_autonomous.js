@@ -46,51 +46,7 @@ function detectSourceLanguage(slug) {
 // 과거 발행일 자율 배정 함수 (Backdating)
 // distributeBlogDates 함수 삭제 완료
 
-// 2. 파이썬 크롭 모듈 자동 트리거
-function cropSubImage(imageName) {
-  const rawImagePath = path.join(publicRoot, 'images', 'blog', `${imageName}.png`);
-  const croppedImagePath = path.join(publicRoot, 'images', 'blog', `${imageName}_detail.png`);
 
-  if (!fs.existsSync(rawImagePath)) {
-    console.warn(`\x1b[33m⚠️ [WARN] 크롭할 원본 이미지를 찾을 수 없습니다: ${rawImagePath}\x1b[0m`);
-    return false;
-  }
-
-  console.log(`🎨 [이미지 크롭] '${imageName}.png' 파일 상하단 15% 잘라내기 실행 중...`);
-  
-  // 파이썬 크롭 스크립트를 임시 생성 및 실행
-  const pyScriptPath = path.join(__dirname, 'temp_crop.py');
-  const pyCode = `import os
-from PIL import Image
-
-src = "${rawImagePath}"
-dest = "${croppedImagePath}"
-
-if os.path.exists(src):
-    img = Image.open(src)
-    w, h = img.size
-    top = int(h * 0.15)
-    bottom = int(h * 0.85)
-    cropped = img.crop((0, top, w, bottom))
-    cropped.save(dest)
-    print("Python: Successfully cropped image to 1.6:1 wide ratio.")
-else:
-    print("Python: Source image not found.")
-`;
-
-  fs.writeFileSync(pyScriptPath, pyCode, 'utf-8');
-
-  try {
-    const pyOutput = execSync('python3 temp_crop.py', { cwd: __dirname }).toString();
-    console.log(pyOutput.trim());
-    fs.unlinkSync(pyScriptPath);
-    return true;
-  } catch (err) {
-    console.error(`\x1b[31m❌ [Python 크롭 실패] PIL 라이브러리 미설치 또는 파이썬 오류: ${err.message}\x1b[0m`);
-    if (fs.existsSync(pyScriptPath)) fs.unlinkSync(pyScriptPath);
-    return false;
-  }
-}
 
 // 3. 자가 치유(Self-healing) 루프가 결합된 정합성 Linter 검사 작동
 function runSelfHealingValidation() {
@@ -113,14 +69,8 @@ function runSelfHealingValidation() {
       console.error(`\x1b[31m❌ [검증 실패] 결함이 발견되었습니다.\x1b[0m`);
       
       // 에러 로그 분석 시나리오 프로토타입
-      console.log('🤖 [AI 자가 치유 엔진] 에러 로그를 읽고 자동 교정 절차를 실행합니다...');
-      
-      const subImageName = slugArg.replace(/-/g, '_') + '_relax'; // 보조 이미지명 예시
-      const fixed = cropSubImage(subImageName);
-      if (!fixed) {
-        console.log('🤖 [AI 자가 치유 실패] 에러를 자체 치유하지 못했습니다. 수동 수정이 필요합니다.');
-        break;
-      }
+      console.log('🤖 [AI 자가 치유 실패] 에러를 자체 치유하지 못했습니다. 수동 수정이 필요합니다.');
+      break;
     }
   }
 

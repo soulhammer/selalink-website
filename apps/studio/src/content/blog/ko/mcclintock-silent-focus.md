@@ -73,9 +73,7 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     스스로에게 침묵을 지키겠다고 선언합니다. 오직 내가 공부할 책의 첫 문장, 혹은 분석해야 할 데이터 화면에 눈을 맞추고 침묵을 이어갑니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/mcclintock_silent_focus_relax_detail.png" alt="묵언과 시각 고정 관찰" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
+  
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

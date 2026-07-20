@@ -73,9 +73,7 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     기획안의 각 요소(A개념, B개념)를 도형으로 변환해 머릿속 공간에 배치하고, 이들이 선이나 화살표로 어떻게 얽히는지를 가상의 입체 지도로 그립니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/borges_mental_dictation_relax_detail.png" alt="개념의 3D 입체 구조 시각화" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
+  
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

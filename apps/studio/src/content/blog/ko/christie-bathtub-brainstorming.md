@@ -62,9 +62,7 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     입욕 중 사과나 오이 등 씹는 질감이 뚜렷하고 아로마 향이 풍부한 건강한 간식을 섭취합니다. 씹는 행위(저작 운동)는 스트레스 호르몬인 코르티솔 수치를 낮추고 뇌 전두엽을 미세하게 자극하여 고요한 각성을 유도합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/christie_bathtub_brainstorming_relax_detail.png" alt="저작 운동과 미세 감각 자극 병행" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
+  
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

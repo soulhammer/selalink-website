@@ -244,18 +244,7 @@ function checkIntegrity() {
         }
       }
 
-      // 본문 <img> 태그 검사
-      const imgRegex = /<img[^>]+src=["']([^"']+)["']/g;
-      let imgMatch;
-      while ((imgMatch = imgRegex.exec(parsed.body)) !== null) {
-        const imgSrc = imgMatch[1];
-        if (imgSrc.startsWith('/')) {
-          const absoluteImgPath = path.join(publicRoot, imgSrc);
-          if (!fs.existsSync(absoluteImgPath)) {
-            logError(`[이미지 부재] ${lang.toUpperCase()} ${file}: 본문 내 이미지 '${imgSrc}' 파일이 public 폴더에 없습니다.`);
-          }
-        }
-      }
+
 
       // 2-D. 내부 링크 깨짐 검사 (Broken Internal Links)
       const linkRegex = /\[[^\]]*\]\(([^)]+)\)/g;

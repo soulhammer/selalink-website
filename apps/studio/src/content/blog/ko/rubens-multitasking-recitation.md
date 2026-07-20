@@ -73,9 +73,7 @@ faqs:
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     작업과 동시에 스마트폰이나 스피커를 통해 고전 오디오북, 역사 강연, 학술 팟캐스트 등을 백그라운드로 실행합니다. 가볍게 흘려듣는 배경음악이 아닌 귀로 내용을 이해하려는 의식적 경청을 세팅합니다.
   </p>
-  <div class="mt-6 flex justify-center">
-    <img src="/images/blog/rubens_multitasking_recitation_relax_detail.png" alt="고전 학술 낭독 및 팟캐스트 기동" class="rounded-2xl max-w-full h-auto border border-slate-200/50 dark:border-slate-800/50 shadow-sm" />
-  </div>
+  
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">

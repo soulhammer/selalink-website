@@ -9,95 +9,7 @@ const __dirname = path.dirname(__filename);
 const blogRoot = path.join(__dirname, 'content/blog');
 const publicRoot = path.join(__dirname, '../public');
 
-// 파이썬 크롭 모듈 연동
-function cropImageIfExist(slug, type) {
-  let imageName = '';
-  if (type === 'habit') {
-    imageName = slug.replace(/-/g, '_') + '_relax';
-  } else {
-    const ingId = slug.replace('how-to-store-', '');
-    imageName = `${ingId}_storage`;
-  }
 
-  let rawImagePath = path.join(publicRoot, 'images', 'blog', `${imageName}.png`);
-  const croppedImagePath = path.join(publicRoot, 'images', 'blog', `${imageName}_detail.png`);
-
-  if (!fs.existsSync(rawImagePath)) {
-    // 1:1 보조 이미지가 존재하지 않을 경우, 기배포된 대표 이미지를 원본으로 삼아 복사 폴백 처리
-    let fallbackOrigin = '';
-    if (type === 'habit') {
-      fallbackOrigin = path.join(publicRoot, 'images', 'blog', `${slug.replace(/-/g, '_')}.png`);
-    } else {
-      let ingId = slug.replace('how-to-store-', '');
-      const pluralMap = {
-        'bananas': 'banana',
-        'potatoes': 'potato',
-        'tomatoes': 'tomato',
-        'onions': 'onion',
-        'eggs': 'egg',
-        'mushrooms': 'mushroom',
-        'green-onions': 'green_onion'
-      };
-      const mappedId = pluralMap[ingId] || ingId;
-      const finalId = mappedId.replace(/-/g, '_');
-      fallbackOrigin = path.join(publicRoot, 'images', 'blog', `${finalId}_storage_hack.png`);
-    }
-
-    if (fs.existsSync(fallbackOrigin)) {
-      console.log(`💡 [폴백 복사] '${path.basename(fallbackOrigin)}' -> '${path.basename(rawImagePath)}'`);
-      fs.copyFileSync(fallbackOrigin, rawImagePath);
-    } else {
-      return false;
-    }
-  }
-
-  if (fs.existsSync(croppedImagePath)) {
-    // 이미 크롭되어 있다면 완료로 간주
-    return true;
-  }
-
-  console.log(`🎨 [크롭 가공] '${imageName}.png' 감지! 1.6:1 와이드 크롭 이미지 생성 중...`);
-  
-  const pyScriptPath = path.join(__dirname, 'temp_crop.py');
-  const pyCode = `import os
-from PIL import Image
-
-src = "${rawImagePath}"
-dest = "${croppedImagePath}"
-
-if os.path.exists(src):
-    img = Image.open(src)
-    w, h = img.size
-    top = int(h * 0.15)
-    bottom = int(h * 0.85)
-    cropped = img.crop((0, top, w, bottom))
-    cropped.save(dest)
-    print("Python: Successfully cropped to 1.6:1.")
-else:
-    print("Python: Image not found.")
-`;
-
-  fs.writeFileSync(pyScriptPath, pyCode, 'utf-8');
-
-  try {
-    // 쉘 환경에서 python3 또는 Pillow 모듈 설치 여부를 사전에 테스트하여 크래시 방지
-    execSync('python3 -c "from PIL import Image"', { stdio: 'ignore' });
-  } catch (e) {
-    console.warn(`⚠️ [크롭 폴백] 로컬 환경에 python3 또는 PIL(Pillow) 라이브러리가 미설치되어 이미지 크롭을 폴백 복사 처리합니다.`);
-    if (fs.existsSync(pyScriptPath)) fs.unlinkSync(pyScriptPath);
-    return false;
-  }
-
-  try {
-    execSync('python3 temp_crop.py', { cwd: __dirname });
-    if (fs.existsSync(pyScriptPath)) fs.unlinkSync(pyScriptPath);
-    return true;
-  } catch (err) {
-    console.error(`❌ [크롭 에러] PIL 라이브러리 실행 오류: ${err.message}`);
-    if (fs.existsSync(pyScriptPath)) fs.unlinkSync(pyScriptPath);
-    return false;
-  }
-}
 
 function run() {
   console.log('🔄 [개조 파이프라인] 기존 블로그 전수 진단 및 최신 규격 업그레이드 기동...');
@@ -148,26 +60,8 @@ function run() {
   console.log(`   - 갭(결함) 감지된 식재료 보관 블로그 (${storageRetrofitTargets.length}개):`, storageRetrofitTargets);
   console.log(`   - 갭(결함) 감지된 반려동물 케어 블로그 (${petRetrofitTargets.length}개):`, petRetrofitTargets);
 
-  // 3. 동적으로 필터링된 위인 습관 대상 크롭 실행 - 보조 이미지 제외 규격으로 비활성화
-  // console.log('\n3️⃣ [미디어 개조] 결함 감지된 위인 습관 이미지 크롭 실행...');
-  // let habitCropped = 0;
-  // habitRetrofitTargets.forEach(slug => {
-  //   const success = cropImageIfExist(slug, 'habit');
-  //   if (success) habitCropped++;
-  // });
-  // console.log(`   - 위인 습관 보조 크롭 가공률: ${habitCropped}/${habitRetrofitTargets.length}`);
-
-  // 4. 동적으로 필터링된 식재료 대상 크롭 실행 - 보조 이미지 제외 규격으로 비활성화
-  // console.log('\n4️⃣ [미디어 개조] 결함 감지된 식재료 보관 이미지 크롭 실행...');
-  // let storageCropped = 0;
-  // storageRetrofitTargets.forEach(slug => {
-  //   const success = cropImageIfExist(slug, 'storage');
-  //   if (success) storageCropped++;
-  // });
-  // console.log(`   - 식재료 보관 보조 크롭 가공률: ${storageCropped}/${storageRetrofitTargets.length}`);
-
-  // 5. 다국어 마크다운 빌더 동시 재기동 (모든 신형 껍데기 조립)
-  console.log('\n5️⃣ [껍데기 업그레이드] 결함 식별 블로그 다국어 마크다운 일괄 재생성...');
+  // 3. 다국어 마크다운 빌더 동시 재기동 (모든 신형 껍데기 조립)
+  console.log('\n3️⃣ [껍데기 업그레이드] 결함 식별 블로그 다국어 마크다운 일괄 재생성...');
   try {
     console.log('   - 위인 습관 다국어 빌드 기동...');
     execSync('node src/compile_habit_blogs.js', { cwd: path.join(__dirname, '..') });
