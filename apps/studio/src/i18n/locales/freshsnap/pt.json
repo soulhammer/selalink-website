@@ -37,7 +37,20 @@
     "util.card.room.recommended": "Recomendado",
     "util.card.fridge.recommended": "Recomendado",
     "util.card.freezer.recommended": "Recomendado",
-    "util.trust.mobile": "🛡️ Ref. a padrões de 9 org. incluindo a OMS/USDA"
+    "util.trust.mobile": "🛡️ Ref. a padrões de 9 org. incluindo a OMS/USDA",
+    "util.myfridge.title": "Minha Geladeira Virtual",
+    "util.myfridge.subtitle": "Acompanhe o D-Day restante dos ingredientes armazenados em tempo real para reduzir o desperdício de alimentos.",
+    "util.myfridge.empty": "Nenhum ingrediente armazenado ainda. Encontre ingredientes na lista abaixo e adicione-os à 'Minha Geladeira'!",
+    "util.myfridge.consume": "Consumido 😋",
+    "util.myfridge.waste": "Descartado 🗑️",
+    "util.myfridge.status.imminent": "🚨 Urgente",
+    "util.myfridge.status.expired": "⚠️ Expirado",
+    "util.myfridge.status.safe": "🟢 Fresco",
+    "util.myfridge.status.infinite": "∞ Infinito",
+    "util.myfridge.score": "Pontuação Desperdício Zero",
+    "util.myfridge.reset": "Redefinir ↺",
+    "util.myfridge.reset.confirm": "Tem certeza de que deseja redefinir as estatísticas de consumo e desperdício?",
+    "util.myfridge.reset.cancel": "Cancelar"
   },
   "indexSource": {
     "source.MFDS": "MFDS (Coreia do Sul)",
@@ -96,7 +109,9 @@
     "detail.calc.state.unopened": "Fechado 🔓",
     "detail.calc.state.opened": "Aberto 🔒",
     "detail.calc.state.prepped": "Preparado 🔪",
-    "app.learn_more_freshself": "Saiba mais sobre o FreshSelf"
+    "app.learn_more_freshself": "Saiba mais sobre o FreshSelf",
+    "detail.calc.keep_fridge": "Guardar na minha geladeira 🧊",
+    "detail.calc.keep_fridge.success": "Guardado na geladeira! ✓"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Coreia do Sul)",

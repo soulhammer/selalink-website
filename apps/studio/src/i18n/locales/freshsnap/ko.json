@@ -37,7 +37,20 @@
     "util.card.room.recommended": "실온 추천",
     "util.card.fridge.recommended": "냉장 추천",
     "util.card.freezer.recommended": "냉동 추천",
-    "util.trust.mobile": "🛡️ WHO / 한국 식약처 등 9개 기관 기준 참조"
+    "util.trust.mobile": "🛡️ WHO / 한국 식약처 등 9개 기관 기준 참조",
+    "util.myfridge.title": "나의 가상 냉장고",
+    "util.myfridge.subtitle": "보관 중인 식재료의 남은 신선 기한(D-Day)을 실시간으로 추적하여 음식물 쓰레기를 줄이세요.",
+    "util.myfridge.empty": "아직 보관 중인 식재료가 없습니다. 아래 목록에서 식재료를 찾아 '나의 냉장고'에 등록해 보세요!",
+    "util.myfridge.consume": "먹었어요 😋",
+    "util.myfridge.waste": "버렸어요 🗑️",
+    "util.myfridge.status.imminent": "🚨 소비 임박",
+    "util.myfridge.status.expired": "⚠️ 기한 초과",
+    "util.myfridge.status.safe": "🟢 신선함",
+    "util.myfridge.status.infinite": "∞ 무기한",
+    "util.myfridge.score": "식재료 구출 점수",
+    "util.myfridge.reset": "초기화 ↺",
+    "util.myfridge.reset.confirm": "그동안 누적된 소비/폐기 통계를 초기화하시겠습니까?",
+    "util.myfridge.reset.cancel": "취소"
   },
   "indexSource": {
     "source.MFDS": "식품의약품안전처 식약처",
@@ -96,7 +109,9 @@
     "detail.calc.state.unopened": "미개봉 🔓",
     "detail.calc.state.opened": "개봉 후 🔒",
     "detail.calc.state.prepped": "손질 후 🔪",
-    "app.learn_more_freshself": "FreshSelf 상세 정보 알아보기"
+    "app.learn_more_freshself": "FreshSelf 상세 정보 알아보기",
+    "detail.calc.keep_fridge": "나의 냉장고에 보관하기 🧊",
+    "detail.calc.keep_fridge.success": "냉장고에 등록 완료! ✓"
   },
   "detailSource": {
     "source.MFDS": "식품의약품안전처",

@@ -37,7 +37,20 @@
     "util.card.room.recommended": "Direkomendasikan",
     "util.card.fridge.recommended": "Direkomendasikan",
     "util.card.freezer.recommended": "Direkomendasikan",
-    "util.trust.mobile": "🛡️ Rujukan ke standar 9 lembaga termasuk WHO/USDA"
+    "util.trust.mobile": "🛡️ Rujukan ke standar 9 lembaga termasuk WHO/USDA",
+    "util.myfridge.title": "Kulkas Virtual Saya",
+    "util.myfridge.subtitle": "Pantau sisa D-Day kesegaran bahan makanan yang disimpan secara real-time untuk mengurangi limbah makanan.",
+    "util.myfridge.empty": "Belum ada bahan makanan yang disimpan. Cari bahan makanan dari daftar di bawah dan tambahkan ke 'Kulkas Saya'!",
+    "util.myfridge.consume": "Dimakan 😋",
+    "util.myfridge.waste": "Dibuang 🗑️",
+    "util.myfridge.status.imminent": "🚨 Mendesak",
+    "util.myfridge.status.expired": "⚠️ Kedaluwarsa",
+    "util.myfridge.status.safe": "🟢 Segar",
+    "util.myfridge.status.infinite": "∞ Selamanya",
+    "util.myfridge.score": "Skor Anti-Buang Makanan",
+    "util.myfridge.reset": "Atur Ulang ↺",
+    "util.myfridge.reset.confirm": "Apakah Anda yakin ingin mengatur ulang statistik konsumsi dan pembuangan?",
+    "util.myfridge.reset.cancel": "Batal"
   },
   "indexSource": {
     "source.MFDS": "MFDS (Corea Selatan)",
@@ -96,7 +109,9 @@
     "detail.calc.state.unopened": "Belum dibuka 🔓",
     "detail.calc.state.opened": "Sudah dibuka 🔒",
     "detail.calc.state.prepped": "Sudah disiapkan 🔪",
-    "app.learn_more_freshself": "Pelajari Lebih Lanjut tentang FreshSelf"
+    "app.learn_more_freshself": "Pelajari Lebih Lanjut tentang FreshSelf",
+    "detail.calc.keep_fridge": "Simpan di kulkas saya 🧊",
+    "detail.calc.keep_fridge.success": "Disimpan di kulkas! ✓"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Corea Selatan)",

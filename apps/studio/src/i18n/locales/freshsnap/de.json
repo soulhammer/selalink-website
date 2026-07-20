@@ -37,7 +37,20 @@
     "util.card.room.recommended": "Empfohlen",
     "util.card.fridge.recommended": "Empfohlen",
     "util.card.freezer.recommended": "Empfohlen",
-    "util.trust.mobile": "🛡️ Ref. auf Standards von 9 Org. inkl. WHO/USDA"
+    "util.trust.mobile": "🛡️ Ref. auf Standards von 9 Org. inkl. WHO/USDA",
+    "util.myfridge.title": "Mein virtueller Kühlschrank",
+    "util.myfridge.subtitle": "Verfolgen Sie die verbleibende Frischezeit (D-Day) gelagerter Zutaten in Echtzeit, um Lebensmittelabfälle zu reduzieren.",
+    "util.myfridge.empty": "Noch keine Zutaten gelagert. Suchen Sie Zutaten in der Liste unten und fügen Sie sie 'Mein Kühlschrank' hinzu!",
+    "util.myfridge.consume": "Verbraucht 😋",
+    "util.myfridge.waste": "Weggeworfen 🗑️",
+    "util.myfridge.status.imminent": "🚨 Dringend",
+    "util.myfridge.status.expired": "⚠️ Abgelaufen",
+    "util.myfridge.status.safe": "🟢 Frisch",
+    "util.myfridge.status.infinite": "∞ Unbegrenzt",
+    "util.myfridge.score": "Lebensmittelrettung-Score",
+    "util.myfridge.reset": "Zurücksetzen ↺",
+    "util.myfridge.reset.confirm": "Möchten Sie die Verbrauchs- und Abfallstatistiken wirklich zurücksetzen?",
+    "util.myfridge.reset.cancel": "Abbrechen"
   },
   "indexSource": {
     "source.MFDS": "MFDS (Südkorea)",
@@ -96,7 +109,9 @@
     "detail.calc.state.unopened": "Ungeöffnet 🔓",
     "detail.calc.state.opened": "Geöffnet 🔒",
     "detail.calc.state.prepped": "Zubereitet 🔪",
-    "app.learn_more_freshself": "Mehr über FreshSelf erfahren"
+    "app.learn_more_freshself": "Mehr über FreshSelf erfahren",
+    "detail.calc.keep_fridge": "Im Kühlschrank aufbewahren 🧊",
+    "detail.calc.keep_fridge.success": "Im Kühlschrank gespeichert! ✓"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Südkorea)",

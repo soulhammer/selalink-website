@@ -96,6 +96,100 @@ const categoryCounts = getCategoryCounts(ingredients);
       </div>
     </div>
 
+    <!-- 나의 냉장고 대시보드 섹션 (가이드 문구가 있는 Empty State 상시 노출) -->
+    <div 
+      id="myFridgeSection" 
+      class="app-card-neon p-4 md:p-6 mb-6 border-indigo-500/20 dark:border-indigo-500/30" 
+      style="--theme-color-light: rgba(99, 102, 241, 0.15); --theme-color-brand: #6366F1; --theme-color-glow: rgba(99, 102, 241, 0.15); --theme-color-glow-secondary: rgba(99, 102, 241, 0.05);"
+    >
+      <!-- 헤더 및 성취도 통계 -->
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-5 pb-4 border-b border-slate-200/50 dark:border-slate-800/50 select-none">
+        <div>
+          <h2 class="text-lg sm:text-xl font-bold text-slate-800 dark:text-slate-100 flex items-center gap-2">
+            🧊 {t('util.myfridge.title')}
+            <span id="myFridgeCount" class="bg-indigo-600 text-white text-xs px-2.5 py-0.5 rounded-full font-black font-outfit">0</span>
+            <button 
+              id="myFridgeToggleBtn" 
+              class="p-1 text-slate-450 hover:text-slate-600 dark:text-slate-500 dark:hover:text-slate-300 transition-colors select-none cursor-pointer focus:outline-none"
+              aria-expanded="true"
+            >
+              <span id="myFridgeToggleArrow" class="inline-block transition-transform duration-300">▲</span>
+            </button>
+          </h2>
+          <p class="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
+            {t('util.myfridge.subtitle')}
+          </p>
+        </div>
+        
+        <!-- 제로 웨이스트 성취도 스코어 및 초기화 버튼 -->
+        <div class="flex flex-col items-end gap-1.5">
+          <div class="flex items-center gap-3 bg-slate-100/80 dark:bg-slate-900/50 px-3 py-2 rounded-2xl border border-slate-200/40 dark:border-slate-800/40">
+            <div class="text-right">
+              <div class="text-[9px] font-black uppercase text-slate-400 dark:text-slate-500 tracking-wider">{t('util.myfridge.score')}</div>
+              <div class="text-sm font-black text-indigo-600 dark:text-indigo-400 font-outfit leading-tight" id="zeroWasteScore">100%</div>
+            </div>
+            <div class="w-16 h-2 bg-slate-200 dark:bg-slate-800 rounded-full overflow-hidden p-[1px]">
+              <div id="zeroWasteProgress" class="h-full bg-gradient-to-r from-indigo-500 to-emerald-500 rounded-full transition-all duration-500" style="width: 100%"></div>
+            </div>
+          </div>
+          <button 
+            id="myFridgeResetBtn" 
+            class="text-[10px] font-extrabold text-slate-400 hover:text-indigo-600 dark:text-slate-500 dark:hover:text-indigo-400 cursor-pointer transition-colors select-none active:scale-95"
+          >
+            {t('util.myfridge.reset')}
+          </button>
+        </div>
+      </div>
+
+      <!-- 보관 식재료 그리드 리스트 -->
+      <div 
+        id="myFridgeGrid" 
+        class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4"
+      >
+        <!-- 동적 바인딩 -->
+      </div>
+    </div>
+
+    <!-- 커스텀 리셋 컨펌 모달 (인디고 네온 테마 - myFridgeSection 밖으로 분리) -->
+    <div 
+      id="myFridgeResetModal" 
+      class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/60 backdrop-blur-sm hidden select-none"
+    >
+      <div class="w-full max-w-sm bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800/80 rounded-3xl p-6 shadow-2xl flex flex-col items-center text-center animate-fade-in">
+        <!-- 리셋 원형 아이콘 -->
+        <div class="w-12 h-12 rounded-full bg-indigo-50 dark:bg-indigo-950/30 flex items-center justify-center mb-4 border border-indigo-100/50 dark:border-indigo-900/50 text-indigo-600 dark:text-indigo-400">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 stroke-[2]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 1121.21 7.89M9 11l3-3 3 3" />
+          </svg>
+        </div>
+        
+        <h3 class="text-base font-bold text-slate-800 dark:text-slate-100 mb-2">
+          {t('util.myfridge.reset')}
+        </h3>
+        <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed mb-6">
+          {t('util.myfridge.reset.confirm')}
+        </p>
+        
+        <!-- 액션 단추 -->
+        <div class="flex items-center gap-3 w-full">
+          <button 
+            type="button" 
+            id="myFridgeCancelResetBtn" 
+            class="flex-1 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-650 dark:text-slate-350 font-extrabold text-xs text-center transition-colors cursor-pointer select-none active:scale-95"
+          >
+            {t('util.myfridge.reset.cancel')}
+          </button>
+          <button 
+            type="button" 
+            id="myFridgeConfirmResetBtn" 
+            class="flex-1 py-2.5 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-extrabold text-xs text-center shadow-lg shadow-indigo-600/20 transition-colors cursor-pointer select-none active:scale-95"
+          >
+            {t('util.myfridge.reset')}
+          </button>
+        </div>
+      </div>
+    </div>
+
     <div 
       class="app-card-neon p-4 md:p-6 mb-6" 
       style="--theme-color-light: rgba(16, 185, 129, 0.15); --theme-color-brand: #10B981; --theme-color-glow: rgba(16, 185, 129, 0.15); --theme-color-glow-secondary: rgba(16, 185, 129, 0.05);"

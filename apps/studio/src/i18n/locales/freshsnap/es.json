@@ -37,7 +37,20 @@
     "util.card.room.recommended": "Recomendado",
     "util.card.fridge.recommended": "Recomendado",
     "util.card.freezer.recommended": "Recomendado",
-    "util.trust.mobile": "🛡️ Ref. a estándares de 9 org. incluyendo la OMS/USDA"
+    "util.trust.mobile": "🛡️ Ref. a estándares de 9 org. incluyendo la OMS/USDA",
+    "util.myfridge.title": "Mi Nevera Virtual",
+    "util.myfridge.subtitle": "Realice un seguimiento del D-Day restante de sus ingredientes para reducir el desperdicio de alimentos.",
+    "util.myfridge.empty": "No hay ingredientes guardados aún. ¡Busque ingredientes en la lista de abajo y agréguelos a 'Mi Nevera'!",
+    "util.myfridge.consume": "Consumido 😋",
+    "util.myfridge.waste": "Desechado 🗑️",
+    "util.myfridge.status.imminent": "🚨 Urgente",
+    "util.myfridge.status.expired": "⚠️ Expirado",
+    "util.myfridge.status.safe": "🟢 Fresco",
+    "util.myfridge.status.infinite": "∞ Infinito",
+    "util.myfridge.score": "Puntuación Antidesperdicio",
+    "util.myfridge.reset": "Restablecer ↺",
+    "util.myfridge.reset.confirm": "¿Está seguro de que desea restablecer las estadísticas de consumo y desperdicio?",
+    "util.myfridge.reset.cancel": "Cancelar"
   },
   "indexSource": {
     "source.MFDS": "MFDS (Corea del Sur)",
@@ -96,7 +109,9 @@
     "detail.calc.state.unopened": "Sin abrir 🔓",
     "detail.calc.state.opened": "Abierto 🔒",
     "detail.calc.state.prepped": "Preparado 🔪",
-    "app.learn_more_freshself": "Saber más sobre FreshSelf"
+    "app.learn_more_freshself": "Saber más sobre FreshSelf",
+    "detail.calc.keep_fridge": "Guardar en mi nevera 🧊",
+    "detail.calc.keep_fridge.success": "¡Guardado en la nevera! ✓"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Corea del Sur)",

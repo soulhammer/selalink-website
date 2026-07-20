@@ -11,6 +11,7 @@ if (appEl) {
   const initialBuyDateStr = appEl.getAttribute('data-initial-buy-date-str') || '';
 
   let storageDuration = 0;
+  let activeMethod = 'fridge';
 
   const tabs = document.querySelectorAll('.method-tab');
   const daysCount = document.getElementById('daysCount');
@@ -100,6 +101,7 @@ if (appEl) {
   updateDateDisplay();
 
   const switchMethod = (method: string) => {
+    activeMethod = method;
     const guide = currentItem.storage[method];
     storageDuration = guide?.durationDays || 0;
 
@@ -214,6 +216,47 @@ if (appEl) {
   });
 
   buyDateInput?.addEventListener('input', triggerDDayCalculator);
+
+  // 나의 냉장고 등록 로직
+  const keepInFridgeBtn = document.getElementById('keepInFridgeBtn');
+  keepInFridgeBtn?.addEventListener('click', () => {
+    if (!buyDateInput) return;
+    
+    const storedListStr = localStorage.getItem('freshsnap_my_fridge') || '[]';
+    const storedList = JSON.parse(storedListStr);
+    
+    const newItem = {
+      id: currentItem.id,
+      name: currentItem.names[currentLang] || currentItem.names['en'],
+      category: currentItem.category,
+      emoji: currentItem.emoji || '',
+      iconImage: currentItem.iconImage || null,
+      method: activeMethod,
+      durationDays: storageDuration,
+      buyDate: buyDateInput.value,
+      idForDelete: Date.now().toString() + '_' + Math.random().toString(36).substring(2, 9)
+    };
+    
+    storedList.push(newItem);
+    localStorage.setItem('freshsnap_my_fridge', JSON.stringify(storedList));
+    
+    // 버튼 텍스트 변경 피드백 (Micro-interaction)
+    const btnSpan = keepInFridgeBtn.querySelector('span');
+    if (btnSpan) {
+      const originalText = btnSpan.textContent;
+      btnSpan.textContent = translate('detail.calc.keep_fridge.success');
+      
+      // 성공 스타일 적용
+      keepInFridgeBtn.classList.remove('bg-indigo-600', 'hover:bg-indigo-750', 'dark:bg-indigo-600', 'dark:hover:bg-indigo-500');
+      keepInFridgeBtn.classList.add('bg-emerald-600', 'hover:bg-emerald-500', 'dark:bg-emerald-600', 'dark:hover:bg-emerald-500');
+      
+      setTimeout(() => {
+        btnSpan.textContent = originalText;
+        keepInFridgeBtn.classList.remove('bg-emerald-600', 'hover:bg-emerald-500', 'dark:bg-emerald-600', 'dark:hover:bg-emerald-500');
+        keepInFridgeBtn.classList.add('bg-indigo-600', 'hover:bg-indigo-750', 'dark:bg-indigo-600', 'dark:hover:bg-indigo-500');
+      }, 2000);
+    }
+  });
 
   // Spatial Glow effect
   document.querySelectorAll('.bento-card').forEach((card) => {

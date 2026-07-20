@@ -37,7 +37,20 @@
     "util.card.room.recommended": "常温推奨",
     "util.card.fridge.recommended": "冷蔵推奨",
     "util.card.freezer.recommended": "冷凍推奨",
-    "util.trust.mobile": "🛡️ WHO・食薬処など9つの機関基準を参照"
+    "util.trust.mobile": "🛡️ WHO・食薬処など9つの機関基準を参照",
+    "util.myfridge.title": "マイ仮想冷蔵庫",
+    "util.myfridge.subtitle": "保管中の食材の残り新鮮期間(D-Day)をリアルタイムで追跡し、フードロスを減らしましょう。",
+    "util.myfridge.empty": "まだ保管中の食材がありません。下のリストから食材を探し、「マイ冷蔵庫」に登録してみましょう！",
+    "util.myfridge.consume": "食べました 😋",
+    "util.myfridge.waste": "捨てました 🗑️",
+    "util.myfridge.status.imminent": "🚨 消費間近",
+    "util.myfridge.status.expired": "⚠️ 期限超過",
+    "util.myfridge.status.safe": "🟢 新鮮",
+    "util.myfridge.status.infinite": "∞ 無期限",
+    "util.myfridge.score": "食品ロス削減スコア",
+    "util.myfridge.reset": "初期化 ↺",
+    "util.myfridge.reset.confirm": "これまでの消費・廃棄統計を初期化しますか？",
+    "util.myfridge.reset.cancel": "キャンセル"
   },
   "indexSource": {
     "source.MFDS": "食品医薬品安全処 (MFDS)",
@@ -96,7 +109,9 @@
     "detail.calc.state.unopened": "未開封 🔓",
     "detail.calc.state.opened": "開封後 🔒",
     "detail.calc.state.prepped": "カット・下処理後 🔪",
-    "app.learn_more_freshself": "FreshSelfの詳細を見る"
+    "app.learn_more_freshself": "FreshSelfの詳細を見る",
+    "detail.calc.keep_fridge": "マイ冷蔵庫に保管する 🧊",
+    "detail.calc.keep_fridge.success": "冷蔵庫に登録完了！ ✓"
   },
   "detailSource": {
     "source.MFDS": "韓国食品医薬品安全処",

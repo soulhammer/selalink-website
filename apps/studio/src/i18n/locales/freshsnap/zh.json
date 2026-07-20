@@ -37,7 +37,20 @@
     "util.card.room.recommended": "常温推荐",
     "util.card.fridge.recommended": "冷藏推荐",
     "util.card.freezer.recommended": "冷冻推荐",
-    "util.trust.mobile": "🛡️ 参考世界卫生组织(WHO)及食药处等9个机构标准"
+    "util.trust.mobile": "🛡️ 参考世界卫生组织(WHO)及食药处等9个机构标准",
+    "util.myfridge.title": "我的虚拟冰箱",
+    "util.myfridge.subtitle": "实时追踪保存在库食材的剩余新鲜期 (D-Day)，减少食物浪费。",
+    "util.myfridge.empty": "暂无保存的食材。从下方列表中查找食材并加入“我的冰箱”吧！",
+    "util.myfridge.consume": "吃掉了 😋",
+    "util.myfridge.waste": "扔掉了 🗑️",
+    "util.myfridge.status.imminent": "🚨 即将过期",
+    "util.myfridge.status.expired": "⚠️ 已过期",
+    "util.myfridge.status.safe": "🟢 新鲜",
+    "util.myfridge.status.infinite": "∞ 无期限",
+    "util.myfridge.score": "食物节约评分",
+    "util.myfridge.reset": "重置 ↺",
+    "util.myfridge.reset.confirm": "确定要重置食物消耗与废弃统计吗？",
+    "util.myfridge.reset.cancel": "取消"
   },
   "indexSource": {
     "source.MFDS": "食品医药安全处 (MFDS)",
@@ -96,7 +109,9 @@
     "detail.calc.state.unopened": "未开封 🔓",
     "detail.calc.state.opened": "开封后 🔒",
     "detail.calc.state.prepped": "处理后 🔪",
-    "app.learn_more_freshself": "了解更多关于 FreshSelf"
+    "app.learn_more_freshself": "了解更多关于 FreshSelf",
+    "detail.calc.keep_fridge": "放入我的冰箱 🧊",
+    "detail.calc.keep_fridge.success": "已成功放入冰箱！ ✓"
   },
   "detailSource": {
     "source.MFDS": "韩国食品医药品安全处",
