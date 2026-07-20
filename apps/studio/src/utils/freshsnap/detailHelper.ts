@@ -110,7 +110,7 @@ export function getFreshSnapDetailData(currentItem: any, currentLang: string): F
   const dynamicKeywords = `${localName}, ${localName} 보관법, ${localName} 보관 기간, ${localName} 소비기한, ${currentItem.id.replace(/-/g, ' ')}, ${localSearchKeywords.join(', ')}, FreshSnap, FreshSelf, SelaLink`;
 
   // 9개 언어별 HowTo 스키마 단계 및 명칭 사전
-  const methodNames: Record<string, Record<string, string>> = {
+  const schemaMethodNames: Record<string, Record<string, string>> = {
     ko: { fridge: '냉장 보관법', room: '실온 보관법', freezer: '냉동 보관법', title: '{name} 보관 방식 & 권장 보관 기간' },
     en: { fridge: 'Refrigerated Storage', room: 'Room Temperature Storage', freezer: 'Frozen Storage', title: 'How to store {name}' },
     ja: { fridge: '冷蔵保存', room: '常温保存', freezer: '冷凍保存', title: '{name}の保存方法と推奨期間' },
@@ -170,7 +170,7 @@ export function getFreshSnapDetailData(currentItem: any, currentLang: string): F
     }
   };
 
-  const langMap = methodNames[currentLang] || methodNames['en'];
+  const langMap = schemaMethodNames[currentLang] || schemaMethodNames['en'];
   const faqTpl = faqTemplates[currentLang] || faqTemplates['en'];
 
   // 동적 HowTo 스키마(JSON-LD) 생성
