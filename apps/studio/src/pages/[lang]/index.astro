@@ -57,7 +57,7 @@ const langPosts = allPosts
 		<section class="my-16 md:my-24 relative z-20">
 			<div class="text-center md:text-left mb-10">
 				<h2 class="text-3xl md:text-4xl lg:text-5xl font-black tracking-tighter text-slate-900 dark:text-white mb-3">
-					SelaLink Product Series
+					{t('lineup.guide.title') || 'SelaLink Product Series'}
 				</h2>
 				<p class="text-sm md:text-base text-slate-600 dark:text-slate-400 font-medium max-w-2xl">
 					{t('lineup.guide.subtitle')}
@@ -113,7 +113,7 @@ const langPosts = allPosts
 		</section>
 
 		<!-- Bento Grid 2.0 -->
-		<section class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 auto-rows-auto md:auto-rows-[260px]">
+		<section class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 auto-rows-auto md:auto-rows-auto">
 			
 			<!-- FreshSelf Card (Horizontal Bento - Z-10) -->
 			<div class="bento-card cursor-pointer col-span-1 md:col-span-2 row-span-2 p-5 sm:p-8 md:p-12 flex flex-col justify-between group overflow-hidden relative min-h-[480px] md:min-h-[536px]" style="--glow-color: rgba(139,92,246,0.15);">
@@ -157,7 +157,7 @@ const langPosts = allPosts
 
 				<div class="relative flex justify-between items-end transition-transform mt-auto pt-8">
 					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
-						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
+						<div class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold text-emerald-700 dark:text-emerald-300 bg-emerald-50/80 dark:bg-emerald-950/60 px-3 py-1.5 rounded-full border border-emerald-200 dark:border-emerald-500/40 backdrop-blur-md shadow-sm leading-none" style="height: 28px; line-height: 1; display: inline-flex; align-items: center; font-size: 12px;">
 							{t('app.freshself.supported')}
 						</div>
 						<span 
@@ -221,7 +221,7 @@ const langPosts = allPosts
 
 				<div class="relative flex justify-between items-end transition-transform mt-auto pt-8">
 					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
-						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
+						<div class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold text-indigo-700 dark:text-indigo-300 bg-indigo-50/80 dark:bg-indigo-950/60 px-3 py-1.5 rounded-full border border-indigo-200 dark:border-indigo-500/40 backdrop-blur-md shadow-sm leading-none" style="height: 28px; line-height: 1; display: inline-flex; align-items: center; font-size: 12px;">
 							{t('app.logself.supported')}
 						</div>
 						<span 
@@ -288,7 +288,7 @@ const langPosts = allPosts
 
 				<div class="relative flex justify-between items-end transition-transform mt-auto pt-8">
 					<div class="flex flex-wrap items-center gap-x-2 gap-y-1.5">
-						<div class="text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-3 py-1.5 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
+						<div class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold text-purple-700 dark:text-purple-300 bg-purple-50/80 dark:bg-purple-950/60 px-3 py-1.5 rounded-full border border-purple-200 dark:border-purple-500/40 backdrop-blur-md shadow-sm leading-none" style="height: 28px; line-height: 1; display: inline-flex; align-items: center; font-size: 12px;">
 							{t('app.buildself.supported')}
 						</div>
 						<span 
@@ -312,7 +312,7 @@ const langPosts = allPosts
 			</div>
 
 			<!-- FreshSnap Card (Free Web Utility) -->
-			<div class="bento-card cursor-pointer col-span-1 md:col-span-1 row-span-1 p-5 sm:p-5 md:p-6 flex flex-col justify-between group overflow-hidden relative min-h-[220px] md:min-h-[260px]" style="--glow-color: rgba(16,185,129,0.25);">
+			<div class="bento-card h-full cursor-pointer col-span-1 md:col-span-1 row-span-1 p-5 sm:p-5 md:p-6 flex flex-col justify-between group overflow-hidden relative min-h-[250px] md:min-h-[280px]" style="--glow-color: rgba(16,185,129,0.25); height: 100%;">
 				<div class="bento-glow top-0 right-0"></div>
 				<a href={`/${lang}/apps/freshsnap/`} aria-label={t('app.freshsnap.title')} class="absolute inset-0 z-20"></a>
 
@@ -346,7 +346,7 @@ const langPosts = allPosts
 				</div>
                 
 				<div class="relative mt-auto pt-2 flex justify-between items-end">
-					<div class="text-[10px] md:text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-2.5 py-1 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
+					<div class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold text-emerald-700 dark:text-emerald-300 bg-emerald-50/80 dark:bg-emerald-950/60 px-2.5 py-1 rounded-full border border-emerald-200 dark:border-emerald-500/40 backdrop-blur-md shadow-sm leading-none" style="height: 24px; line-height: 1; display: inline-flex; align-items: center; font-size: 12px;">
 						{t('app.freshsnap.supported')}
 					</div>
 					<a href={`/${lang}/apps/freshsnap/`} class="w-10 h-10 md:w-12 md:h-12 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-emerald-600 dark:group-hover:bg-emerald-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-md z-30 relative">
@@ -357,7 +357,7 @@ const langPosts = allPosts
 			</div>
 
 			<!-- BuildSnap Card (Habit Dashboard Generator Web Utility) -->
-			<div class="bento-card cursor-pointer col-span-1 md:col-span-1 row-span-1 p-5 sm:p-5 md:p-6 flex flex-col justify-between group overflow-hidden relative min-h-[220px] md:min-h-[260px]" style="--glow-color: rgba(139,92,246,0.25);">
+			<div class="bento-card h-full cursor-pointer col-span-1 md:col-span-1 row-span-1 p-5 sm:p-5 md:p-6 flex flex-col justify-between group overflow-hidden relative min-h-[250px] md:min-h-[280px]" style="--glow-color: rgba(139,92,246,0.25); height: 100%;">
 				<div class="bento-glow top-0 right-0"></div>
 				<a href={`/${lang}/apps/buildsnap/`} aria-label={t('app.buildsnap.title')} class="absolute inset-0 z-20"></a>
 
@@ -391,7 +391,7 @@ const langPosts = allPosts
 				</div>
                 
 				<div class="relative mt-auto pt-2 flex justify-between items-end">
-					<div class="text-[10px] md:text-xs font-bold text-slate-700 dark:text-slate-350 bg-slate-100/60 dark:bg-slate-900/50 px-2.5 py-1 rounded-full border border-slate-200/60 dark:border-slate-800/40 backdrop-blur-md shadow-sm">
+					<div class="z-30 relative inline-flex items-center gap-1.5 text-xs font-bold text-violet-700 dark:text-violet-300 bg-violet-50/80 dark:bg-violet-950/60 px-2.5 py-1 rounded-full border border-violet-200 dark:border-violet-500/40 backdrop-blur-md shadow-sm leading-none" style="height: 24px; line-height: 1; display: inline-flex; align-items: center; font-size: 12px;">
 						{t('app.buildsnap.supported')}
 					</div>
 					<a href={`/${lang}/apps/buildsnap/`} class="w-10 h-10 md:w-12 md:h-12 rounded-full bg-slate-900 text-white dark:bg-white dark:text-slate-900 flex items-center justify-center group-hover:scale-110 group-hover:bg-violet-600 dark:group-hover:bg-violet-400 group-hover:text-white dark:group-hover:text-black transition-all duration-500 shadow-md z-30 relative">
