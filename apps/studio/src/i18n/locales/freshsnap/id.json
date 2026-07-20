@@ -95,7 +95,8 @@
     "detail.calc.state": "Kondisi Penyimpanan",
     "detail.calc.state.unopened": "Belum dibuka 🔓",
     "detail.calc.state.opened": "Sudah dibuka 🔒",
-    "detail.calc.state.prepped": "Sudah disiapkan 🔪"
+    "detail.calc.state.prepped": "Sudah disiapkan 🔪",
+    "app.learn_more_freshself": "Pelajari Lebih Lanjut tentang FreshSelf"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Corea Selatan)",

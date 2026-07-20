@@ -95,7 +95,8 @@
     "detail.calc.state": "Estado de conservación",
     "detail.calc.state.unopened": "Sin abrir 🔓",
     "detail.calc.state.opened": "Abierto 🔒",
-    "detail.calc.state.prepped": "Preparado 🔪"
+    "detail.calc.state.prepped": "Preparado 🔪",
+    "app.learn_more_freshself": "Saber más sobre FreshSelf"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Corea del Sur)",

@@ -95,7 +95,8 @@
     "detail.calc.state": "保存状态",
     "detail.calc.state.unopened": "未开封 🔓",
     "detail.calc.state.opened": "开封后 🔒",
-    "detail.calc.state.prepped": "处理后 🔪"
+    "detail.calc.state.prepped": "处理后 🔪",
+    "app.learn_more_freshself": "了解更多关于 FreshSelf"
   },
   "detailSource": {
     "source.MFDS": "韩国食品医药品安全处",

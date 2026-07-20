@@ -95,7 +95,8 @@
     "detail.calc.state": "保存状態",
     "detail.calc.state.unopened": "未開封 🔓",
     "detail.calc.state.opened": "開封後 🔒",
-    "detail.calc.state.prepped": "カット・下処理後 🔪"
+    "detail.calc.state.prepped": "カット・下処理後 🔪",
+    "app.learn_more_freshself": "FreshSelfの詳細を見る"
   },
   "detailSource": {
     "source.MFDS": "韓国食品医薬品安全処",

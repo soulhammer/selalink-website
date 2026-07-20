@@ -95,7 +95,8 @@
     "detail.calc.state": "보관 상태",
     "detail.calc.state.unopened": "미개봉 🔓",
     "detail.calc.state.opened": "개봉 후 🔒",
-    "detail.calc.state.prepped": "손질 후 🔪"
+    "detail.calc.state.prepped": "손질 후 🔪",
+    "app.learn_more_freshself": "FreshSelf 상세 정보 알아보기"
   },
   "detailSource": {
     "source.MFDS": "식품의약품안전처",
