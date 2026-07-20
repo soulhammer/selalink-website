@@ -1,0 +1,38 @@
+{
+  "id": "ronaldo-polyphasic-sleep",
+  "name": "크리스티아누 호날두",
+  "gender": "male",
+  "era": "현대",
+  "location": "포르투갈",
+  "lifespan": "1985 - ",
+  "birthYear": 1985,
+  "bio": "발롱도르를 5회 수상하며 역사상 가장 뛰어난 축구 선수 중 한 명으로 꼽히는 포르투갈의 전설적인 공격수이자 철저한 자기관리의 아이콘입니다.",
+  "habitName": "90분씩 5회 분할 수면을 통한 신체 회복",
+  "tags": [
+    "#수면",
+    "#이완",
+    "#휴식",
+    "#자기계발"
+  ],
+  "timeOfDay": "anytime",
+  "requiredItems": [
+    "암막 커튼이 쳐진 조용한 방",
+    "편안한 침대 매트리스"
+  ],
+  "frequency": "daily",
+  "historicalStory": "호날두는 스포츠 슬립 코치인 닉 리틀헤일스의 조언을 받아 밤에 통잠을 자는 대신, 하루 동안 90분씩 총 5회에 걸쳐 분할 수면(R90 Sleep Cycle)을 취하는 독특한 루틴을 도입했습니다. 그는 훈련과 경기 일정 사이사이에 완벽히 암막이 보장된 환경에서 태아 자세로 누워 90분간 잠을 청하며, 이를 통해 신체 근육의 미세 피로를 빠르게 회복하고 높은 집중력을 유지했습니다.",
+  "sciencePrinciples": "인간의 수면은 90분 주기의 논렘(Non-REM)과 렘(REM) 수면 단계로 구성됩니다. 90분 단위로 수면을 나누어 취하면 잠에서 깨어날 때의 인지적 몽롱함(Sleep Inertia)을 방지하고 깊은 수면 단계에서 분비되는 성장호르몬을 효율적으로 자극하여 손상된 신체 조직과 신경을 신속하게 복구할 수 있습니다.",
+  "quote": "어제보다 오늘 더 나은 선수가 되는 것, 그것이 나의 유일한 목표다.",
+  "trigger": "고강도 운동이나 피로가 누적되어 빠른 인지/신체적 회복이 필요할 때",
+  "modernGuide": [
+    "낮 시간 동안 피로가 몰려올 때 90분의 온전한 수면 시간을 확보하거나, 시간 여유가 없다면 수면 주기의 절반인 30분간의 파워 냅(Power Nap)을 계획합니다.",
+    "수면을 취할 공간을 완전히 어둡게 차단하고(안대나 암막 커튼 활용), 척추의 부담을 덜어주는 태아 자세(옆으로 누워 무릎을 살짝 구부린 자세)로 눕습니다.",
+    "스마트폰 알람을 정확히 90분(또는 30분) 뒤로 설정해 두고 깊은 이완에 몰입합니다."
+  ],
+  "actionName": "90분 분할 수면 또는 30분 태아 자세 파워 냅 (호날두 루틴)",
+  "sources": [
+    "Nick Littlehales, *Sleep: Change the Way You Sleep with this R90 Program* (2016)",
+    "Cristiano Ronaldo's interviews on sports recovery and physical maintenance techniques",
+    "*Sleep Medicine Reviews* (분할 수면 주기가 운동선수의 회복 및 인지 기능에 미치는 영향)"
+  ]
+}
