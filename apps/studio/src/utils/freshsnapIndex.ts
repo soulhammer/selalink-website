@@ -223,7 +223,6 @@ const restoreState = () => {
 
 // 초기화 및 상태 복원
 dispatchInitRefrigeratorView();
-restoreState();
 
 // 나의 냉장고 렌더링 및 인터랙션 액션 로직
 const myFridgeSection = document.getElementById('myFridgeSection');
@@ -249,13 +248,22 @@ const renderMyFridge = () => {
   
   if (list.length === 0) {
     myFridgeCount.textContent = '0';
-    zeroWasteScore.textContent = '100%';
-    zeroWasteProgress.style.width = '100%';
+    const statsStr = localStorage.getItem('freshsnap_stats') || '{"consumed":0,"wasted":0}';
+    const stats = JSON.parse(statsStr);
+    const total = stats.consumed + stats.wasted;
+    const scoreVal = total === 0 ? 100 : Math.round((stats.consumed / total) * 100);
+    zeroWasteScore.textContent = `${scoreVal}%`;
+    zeroWasteProgress.style.width = `${scoreVal}%`;
     
-    // 초기화 버튼 비활성화 (보관 품목이 없을 때는 누를 수 없음)
+    // 초기화 버튼 제어: 보관 식재료가 없어도 누적 점수 기록이 존재하면 활성화
     if (myFridgeResetBtn) {
-      myFridgeResetBtn.setAttribute('disabled', 'true');
-      myFridgeResetBtn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+      if (total > 0) {
+        myFridgeResetBtn.removeAttribute('disabled');
+        myFridgeResetBtn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+      } else {
+        myFridgeResetBtn.setAttribute('disabled', 'true');
+        myFridgeResetBtn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+      }
     }
     
     // 점선 박스의 고급스러운 Empty State 가이드 카드 렌더링
@@ -521,10 +529,12 @@ const applyInitialCollapse = () => {
   }
 };
 
-applyInitialCollapse();
-
-// 최초 로드 시 실행
-renderMyFridge();
+// 최초 로드 및 뒤로가기(bfcache) 네비게이션 시 최신 상태 동기화
+window.addEventListener('pageshow', () => {
+  applyInitialCollapse();
+  renderMyFridge();
+  restoreState();
+});
 
 let scrollTimeout: any;
 window.addEventListener('scroll', () => {

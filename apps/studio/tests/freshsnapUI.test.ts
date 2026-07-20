@@ -97,6 +97,7 @@ describe('FreshSnap 가상 냉장고 UI 인터랙션 JSDOM 통합 검증 (TDD)',
 
     // freshsnapIndex 스크립트를 로드하여 렌더링 트리거
     await import('../src/utils/freshsnapIndex');
+    window.dispatchEvent(new Event('pageshow'));
 
     const myFridgeSection = document.getElementById('myFridgeSection');
     const myFridgeCount = document.getElementById('myFridgeCount');
@@ -117,6 +118,7 @@ describe('FreshSnap 가상 냉장고 UI 인터랙션 JSDOM 통합 검증 (TDD)',
 
     // 스크립트 마운트
     await import('../src/utils/freshsnapIndex');
+    window.dispatchEvent(new Event('pageshow'));
 
     const toggleBtn = document.getElementById('myFridgeToggleBtn');
     const myFridgeGrid = document.getElementById('myFridgeGrid');
@@ -149,6 +151,7 @@ describe('FreshSnap 가상 냉장고 UI 인터랙션 JSDOM 통합 검증 (TDD)',
     window.localStorage.setItem('freshsnap_stats', JSON.stringify({ consumed: 1, wasted: 3 }));
 
     await import('../src/utils/freshsnapIndex');
+    window.dispatchEvent(new Event('pageshow'));
 
     const scoreText = document.getElementById('zeroWasteScore');
     const resetModal = document.getElementById('myFridgeResetModal');
@@ -189,6 +192,7 @@ describe('FreshSnap 가상 냉장고 UI 인터랙션 JSDOM 통합 검증 (TDD)',
     window.localStorage.setItem('freshsnap_stats', JSON.stringify({ consumed: 2, wasted: 1 })); // 67%
 
     await import('../src/utils/freshsnapIndex');
+    window.dispatchEvent(new Event('pageshow'));
 
     const myFridgeGrid = document.getElementById('myFridgeGrid');
     expect(myFridgeGrid?.innerHTML).toContain('양파');
@@ -218,6 +222,7 @@ describe('FreshSnap 가상 냉장고 UI 인터랙션 JSDOM 통합 검증 (TDD)',
     setupMockDOM();
     document.documentElement.lang = 'en';
     await import('../src/utils/freshsnapIndex');
+    window.dispatchEvent(new Event('pageshow'));
     
     let myFridgeGrid = document.getElementById('myFridgeGrid');
     expect(myFridgeGrid?.innerHTML).toContain('No stored ingredients yet');
@@ -227,9 +232,58 @@ describe('FreshSnap 가상 냉장고 UI 인터랙션 JSDOM 통합 검증 (TDD)',
     setupMockDOM();
     document.documentElement.lang = 'ja';
     await import('../src/utils/freshsnapIndex');
+    window.dispatchEvent(new Event('pageshow'));
     
     myFridgeGrid = document.getElementById('myFridgeGrid');
     expect(myFridgeGrid?.innerHTML).toContain('まだ保管中の食材がありません');
+  });
+
+  it('6. 냉장고 품목이 비었어도 누적 통계 점수가 존재하면 100%로 덮어쓰지 않고 실제 점수를 바르게 노출하는가', async () => {
+    window.localStorage.setItem('freshsnap_my_fridge', JSON.stringify([])); // 빈 냉장고
+    window.localStorage.setItem('freshsnap_stats', JSON.stringify({ consumed: 1, wasted: 3 })); // 25%
+    
+    vi.resetModules();
+    setupMockDOM();
+    document.documentElement.lang = 'ko';
+    await import('../src/utils/freshsnapIndex');
+    window.dispatchEvent(new Event('pageshow'));
+    
+    const scoreText = document.getElementById('zeroWasteScore');
+    const myFridgeGrid = document.getElementById('myFridgeGrid');
+    
+    // 품목은 비어있으나 점수는 25%여야 함
+    expect(scoreText?.textContent).toBe('25%');
+    expect(myFridgeGrid?.innerHTML).toContain('아직 보관 중인 식재료가 없습니다');
+  });
+
+  it('7. 냉장고 품목이 비었어도 누적 통계 기록이 존재하면 초기화 버튼이 활성화되는가', async () => {
+    window.localStorage.setItem('freshsnap_my_fridge', JSON.stringify([])); // 빈 냉장고
+    window.localStorage.setItem('freshsnap_stats', JSON.stringify({ consumed: 2, wasted: 2 })); // 50%
+    
+    vi.resetModules();
+    setupMockDOM();
+    document.documentElement.lang = 'ko';
+    await import('../src/utils/freshsnapIndex');
+    window.dispatchEvent(new Event('pageshow'));
+    
+    const resetBtn = document.getElementById('myFridgeResetBtn') as HTMLButtonElement;
+    const confirmResetBtn = document.getElementById('myFridgeConfirmResetBtn');
+    const resetModal = document.getElementById('myFridgeResetModal');
+    
+    // 점수 기록이 남아있으므로 초기화 버튼이 활성화(disabled가 없음)되어야 함
+    expect(resetBtn?.hasAttribute('disabled')).toBe(false);
+    expect(resetBtn?.classList.contains('opacity-40')).toBe(false);
+
+    // 초기화 버튼 클릭 -> 모달 등장
+    resetBtn?.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+    expect(resetModal?.classList.contains('hidden')).toBe(false);
+
+    // 확인 버튼 클릭 -> 리셋 수행 후 최종 비활성화 처리 확인
+    confirmResetBtn?.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+    expect(resetModal?.classList.contains('hidden')).toBe(true);
+    expect(resetBtn?.hasAttribute('disabled')).toBe(true);
+    expect(resetBtn?.classList.contains('opacity-40')).toBe(true);
+    expect(window.localStorage.getItem('freshsnap_stats')).toBe(JSON.stringify({ consumed: 0, wasted: 0 }));
   });
 
 });
