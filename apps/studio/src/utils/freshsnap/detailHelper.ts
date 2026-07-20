@@ -109,36 +109,101 @@ export function getFreshSnapDetailData(currentItem: any, currentLang: string): F
   const localSearchKeywords = currentItem.searchKeywords?.[currentLang] || currentItem.searchKeywords?.['en'] || [];
   const dynamicKeywords = `${localName}, ${localName} 보관법, ${localName} 보관 기간, ${localName} 소비기한, ${currentItem.id.replace(/-/g, ' ')}, ${localSearchKeywords.join(', ')}, FreshSnap, FreshSelf, SelaLink`;
 
+  // 9개 언어별 HowTo 스키마 단계 및 명칭 사전
+  const methodNames: Record<string, Record<string, string>> = {
+    ko: { fridge: '냉장 보관법', room: '실온 보관법', freezer: '냉동 보관법', title: '{name} 보관 방식 & 권장 보관 기간' },
+    en: { fridge: 'Refrigerated Storage', room: 'Room Temperature Storage', freezer: 'Frozen Storage', title: 'How to store {name}' },
+    ja: { fridge: '冷蔵保存', room: '常温保存', freezer: '冷凍保存', title: '{name}の保存方法と推奨期間' },
+    zh: { fridge: '冷藏保存', room: '常温保存', freezer: '冷冻保存', title: '{name}的保存方式与推荐期限' },
+    es: { fridge: 'Almacenamiento Refrigerado', room: 'Temperatura Ambiente', freezer: 'Almacenamiento Congelado', title: 'Cómo almacenar {name}' },
+    fr: { fridge: 'Stockage Réfrigéré', room: 'Température Ambiante', freezer: 'Stockage Congelé', title: 'Comment conserver {name}' },
+    de: { fridge: 'Kühlung Lagerung', room: 'Raumtemperatur Lagerung', freezer: 'Gefrierlagerung', title: 'Wie man {name} lagert' },
+    pt: { fridge: 'Armazenamento Refrigerado', room: 'Temperatura Ambiente', freezer: 'Armazenamento Congelado', title: 'Como armazenar {name}' },
+    id: { fridge: 'Penyimpanan Dingin', room: 'Suhu Ruangan', freezer: 'Penyimpanan Beku', title: 'Cara menyimpan {name}' }
+  };
+
+  const faqTemplates: Record<string, { q: string; aInfinite: string; aLimit: string }> = {
+    ko: {
+      q: "{name} {method} 기간과 보관 방법은 어떻게 되나요?",
+      aInfinite: "{name}의 권장 {method} 기간은 무기한입니다. 보관 팁: {tips}",
+      aLimit: "{name}의 권장 {method} 기간은 {days}일입니다. 보관 팁: {tips}"
+    },
+    en: {
+      q: "How long can you store {name} in the {method} and how to do it?",
+      aInfinite: "The recommended storage period for {name} in the {method} is indefinite. Tips: {tips}",
+      aLimit: "The recommended storage period for {name} in the {method} is {days} days. Tips: {tips}"
+    },
+    ja: {
+      q: "{name}の{method}期間と保存方法はどうなりますか？",
+      aInfinite: "{name}の推奨{method}期間は無期限です。保存のコツ: {tips}",
+      aLimit: "{name}の推奨{method}期間は{days}日です。保存のコツ: {tips}"
+    },
+    zh: {
+      q: "{name}的{method}期限与保存方法是什么？",
+      aInfinite: "{name}的推荐{method}期限是无限制的。保存建议: {tips}",
+      aLimit: "{name}的推荐{method}期限是{days}天。保存建议: {tips}"
+    },
+    es: {
+      q: "¿Cómo y cuánto tempo se puede conservar {name} en {method}?",
+      aInfinite: "El período recomendado de conservación para {name} en {method} es indefinido. Consejo: {tips}",
+      aLimit: "El período recomendado de conservación para {name} en {method} es de {days} días. Consejo: {tips}"
+    },
+    fr: {
+      q: "Combien de temps peut-on conserver {name} en {method} et comment faire ?",
+      aInfinite: "La durée de conservation recommandée pour {name} en {method} est indéfinie. Astuce: {tips}",
+      aLimit: "La durée de conservation recommandée pour {name} en {method} est de {days} jours. Astuce: {tips}"
+    },
+    de: {
+      q: "Wie lange kann man {name} im {method} lagern und wie geht das?",
+      aInfinite: "Die empfohlene Lagerzeit für {name} im {method} ist unbegrenzt. Tipp: {tips}",
+      aLimit: "Die empfohlene Lagerzeit für {name} im {method} beträgt {days} Tage. Tipp: {tips}"
+    },
+    pt: {
+      q: "Como e quanto tempo pode conservar {name} no {method}?",
+      aInfinite: "O período recomendado de conservação para {name} no {method} é por tempo indeterminado. Dica: {tips}",
+      aLimit: "O período recomendado de conservação para {name} no {method} é de {days} dias. Dica: {tips}"
+    },
+    id: {
+      q: "Berapa lama Anda bisa menyimpan {name} di {method} dan bagaimana caranya?",
+      aInfinite: "Masa penyimpanan yang disarankan untuk {name} di {method} adalah tanpa batas waktu. Tips: {tips}",
+      aLimit: "Masa penyimpanan yang disarankan untuk {name} di {method} adalah {days} hari. Tips: {tips}"
+    }
+  };
+
+  const langMap = methodNames[currentLang] || methodNames['en'];
+  const faqTpl = faqTemplates[currentLang] || faqTemplates['en'];
+
   // 동적 HowTo 스키마(JSON-LD) 생성
-  const isKo = currentLang === 'ko';
   const steps = [];
 
   if (currentItem.storage.fridge && currentItem.storage.fridge.durationDays > 0) {
     steps.push({
       "@type": "HowToStep",
-      "name": isKo ? "냉장 보관법" : (currentLang === 'ja' ? '冷蔵保存' : (currentLang === 'zh' ? '冷藏保存' : 'Refrigerated Storage')),
+      "name": langMap.fridge,
       "text": currentItem.storage.fridge.tips[currentLang] || currentItem.storage.fridge.tips['en']
     });
   }
   if (currentItem.storage.room && currentItem.storage.room.durationDays > 0) {
     steps.push({
       "@type": "HowToStep",
-      "name": isKo ? "실온 보관법" : (currentLang === 'ja' ? '常温保存' : (currentLang === 'zh' ? '常温保存' : 'Room Temperature Storage')),
+      "name": langMap.room,
       "text": currentItem.storage.room.tips[currentLang] || currentItem.storage.room.tips['en']
     });
   }
   if (currentItem.storage.freezer && currentItem.storage.freezer.durationDays > 0) {
     steps.push({
       "@type": "HowToStep",
-      "name": isKo ? "냉동 보관법" : (currentLang === 'ja' ? '冷凍保存' : (currentLang === 'zh' ? '冷冻保存' : 'Frozen Storage')),
+      "name": langMap.freezer,
       "text": currentItem.storage.freezer.tips[currentLang] || currentItem.storage.freezer.tips['en']
     });
   }
 
+  const schemaTitle = langMap.title.replace('{name}', localName);
+
   const ingredientHowToSchema = {
     "@context": "https://schema.org",
     "@type": "HowTo",
-    "name": isKo ? `${localName} 보관 방식 & 권장 보관 기간` : (currentLang === 'ja' ? `${localName}の保存方法と推奨期間` : (currentLang === 'zh' ? `${localName}的保存方式与推荐期限` : `How to store ${localName}`)),
+    "name": schemaTitle,
     "description": dynamicDescription,
     "image": currentItem.iconImage 
       ? (currentItem.iconImage.startsWith('http') ? currentItem.iconImage : `https://selalink.net${currentItem.iconImage}`)
@@ -152,12 +217,13 @@ export function getFreshSnapDetailData(currentItem: any, currentLang: string): F
     const guide = currentItem.storage[meth as keyof typeof currentItem.storage];
     if (guide && guide.durationDays > 0) {
       const methodLabel = localTranslations[currentLang]?.[`detail.storage.${meth}`] || localTranslations['en']?.[`detail.storage.${meth}`] || meth;
-      const qText = isKo 
-        ? `${localName} ${methodLabel} 기간과 보관 방법은 어떻게 되나요?`
-        : `How long can you store ${localName} in the ${meth} and how to do it?`;
+      const tipsText = guide.tips[currentLang] || guide.tips['en'] || '';
+      
+      const qText = faqTpl.q.replace('{name}', localName).replace('{method}', methodLabel);
       const aText = guide.durationDays === 9999
-        ? `${localName}의 권장 ${methodLabel} 기간은 무기한입니다. 보관 팁: ${guide.tips[currentLang] || guide.tips['en']}`
-        : `${localName}의 권장 ${methodLabel} 기간은 ${guide.durationDays}일입니다. 보관 팁: ${guide.tips[currentLang] || guide.tips['en']}`;
+        ? faqTpl.aInfinite.replace('{name}', localName).replace('{method}', methodLabel).replace('{tips}', tipsText)
+        : faqTpl.aLimit.replace('{name}', localName).replace('{method}', methodLabel).replace('{days}', guide.durationDays.toString()).replace('{tips}', tipsText);
+
       faqEntities.push({
         "@type": "Question",
         "name": qText,

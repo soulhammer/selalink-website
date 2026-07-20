@@ -39,6 +39,7 @@
   "app.logself.meta.title": "logSelf | 设备端加密个人日记与生活记录",
   "app.logself.status": "免费应用",
   "app.logself.supported": "🌐 支持 9 种语言",
+  "app.logself.hero.tag": "今日想法",
   "app.petself.status": "即将推出",
   "app.freshself.title": "FreshSelf",
   "app.freshself.desc": "聰明管理食材與日用品的保存期限，避免浪費。免伺服器連動、100%本地離線環境，自由規劃保管空間，並查看消費率分析報告。",
@@ -306,5 +307,19 @@
   "cta.action.learn_more": "查看详情",
   "cta.petself.title": "🐾 宠物专属 FreshSelf",
   "cta.petself.desc": "使用 FreshSelf 智能管理宠物营养品、饲料和手工零食的保质期，时刻保持新鲜与健康。",
-  "cta.petself.btn": "下载 FreshSelf →"
+  "cta.petself.btn": "下载 FreshSelf →",
+  "app.back_to_studio": "返回 SelaLink Studio",
+  "app.back_to_home": "返回首页",
+  "buildsnap.matcher.btn.prev": "上一步",
+  "buildsnap.matcher.btn.next": "下一步",
+  "app.data_deletion_guide": "数据删除申请指南",
+  "app.download_google_play": "在 Google Play 下载",
+  "app.learn_more_freshself": "了解更多关于 FreshSelf",
+  "app.learn_more_buildself": "了解更多关于 BuildSelf",
+  "app.coming_soon": "即将推出",
+  "share.naver.blog": "博客",
+  "share.copy": "复制",
+  "lineup.guide.title": "SelaLink Product Series",
+  "blog.btn.load_more": "加载更多",
+  "blog.search.results_count": "共找到 {count} 篇符合条件的文章。"
 }

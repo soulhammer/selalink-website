@@ -85,18 +85,7 @@ const filteredPosts = allPosts
 const title = t('blog.title');
 const description = t('blog.desc');
 
-const loadMoreTranslations: Record<string, string> = {
-  ko: "더보기",
-  ja: "もっと見る",
-  zh: "加载更多",
-  en: "Load More",
-  es: "Cargar más",
-  fr: "Charger plus",
-  de: "Mehr laden",
-  pt: "Carregar mais",
-  id: "Muat lebih banyak"
-};
-const loadMoreText = loadMoreTranslations[normalizedLang] || loadMoreTranslations['en'];
+const loadMoreText = t('blog.btn.load_more') || 'Load More';
 ---
 
 <Layout title={title} lang={normalizedLang} description={description} appId="studio">
@@ -213,7 +202,7 @@ const loadMoreText = loadMoreTranslations[normalizedLang] || loadMoreTranslation
 
         {/* 결과 개수 표시 메타 정보 */}
         <div class="mb-6 px-2 flex items-center justify-between">
-          <span id="blog-search-count" class="text-xs font-semibold text-slate-500 dark:text-slate-400 tracking-wide"></span>
+          <span id="blog-search-count" data-results-template={t('blog.search.results_count') || 'Found {count} post(s) matching your criteria.'} class="text-xs font-semibold text-slate-500 dark:text-slate-400 tracking-wide"></span>
         </div>
 
         <div id="blog-posts-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

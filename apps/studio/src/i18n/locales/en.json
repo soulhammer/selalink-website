@@ -39,6 +39,7 @@
   "app.logself.meta.title": "logSelf - Encrypted On-Device Personal Journal & Life Log | SelaLink",
   "app.logself.status": "Free App",
   "app.logself.supported": "🌐 9 Languages",
+  "app.logself.hero.tag": "Today's Thoughts",
   "app.petself.status": "Coming Soon",
   "ls.hero.subtitle": "100% On-Device Encrypted Life Log",
   "ls.hero.title": "Your Life, Your Logs.\nPerfect Privacy Guaranteed.",
@@ -306,5 +307,19 @@
   "cta.action.learn_more": "Learn More",
   "cta.petself.title": "🐾 FreshSelf for Pets",
   "cta.petself.desc": "Manage your pet's supplements, feed, and treats freshly with FreshSelf to keep them safe and healthy.",
-  "cta.petself.btn": "Get FreshSelf →"
+  "cta.petself.btn": "Get FreshSelf →",
+  "app.back_to_studio": "Back to SelaLink Studio",
+  "app.back_to_home": "Back to Home",
+  "buildsnap.matcher.btn.prev": "Previous Step",
+  "buildsnap.matcher.btn.next": "Next Step",
+  "app.data_deletion_guide": "Guide for requesting data deletion",
+  "app.download_google_play": "Download on Google Play",
+  "app.learn_more_freshself": "Learn More about FreshSelf",
+  "app.learn_more_buildself": "Learn More about BuildSelf",
+  "app.coming_soon": "Coming Soon",
+  "share.naver.blog": "Blog",
+  "share.copy": "Copy",
+  "lineup.guide.title": "SelaLink Product Series",
+  "blog.btn.load_more": "Load More",
+  "blog.search.results_count": "Found {count} post(s) matching your criteria."
 }

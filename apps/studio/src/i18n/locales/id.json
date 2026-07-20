@@ -39,6 +39,7 @@
   "app.logself.meta.title": "logSelf - Jurnal Pribadi Terenkripsi di Perangkat | SelaLink",
   "app.logself.status": "Aplikasi Gratis",
   "app.logself.supported": "🌐 9 Bahasa",
+  "app.logself.hero.tag": "Pikiran Hari Ini",
   "app.petself.status": "Segera Hadir",
   "app.freshself.title": "FreshSelf",
   "app.freshself.desc": "Kelola tanggal kedaluwarsa makanan dan kebutuhan rumah tangga Anda secara cerdas tanpa ada yang terbuang. Buat ruang penyimpanan kustom dalam lingkungan 100% pribadi dan offline-first, serta analisis tingkat konsumsi Anda dengan mudah.",
@@ -306,5 +307,19 @@
   "cta.action.learn_more": "Pelajari Lebih Lanjut",
   "cta.petself.title": "🐾 FreshSelf untuk Hewan Peliharaan",
   "cta.petself.desc": "Kelola suplemen, pakan, dan camilan hewan peliharaan Anda dengan FreshSelf agar tetap segar dan aman.",
-  "cta.petself.btn": "Unduh FreshSelf →"
+  "cta.petself.btn": "Unduh FreshSelf →",
+  "app.back_to_studio": "Kembali ke SelaLink Studio",
+  "app.back_to_home": "Kembali ke Beranda",
+  "buildsnap.matcher.btn.prev": "Langkah Sebelumnya",
+  "buildsnap.matcher.btn.next": "Langkah Berikutnya",
+  "app.data_deletion_guide": "Panduan meminta penghapusan data",
+  "app.download_google_play": "Unduh di Google Play",
+  "app.learn_more_freshself": "Pelajari Lebih Lanjut tentang FreshSelf",
+  "app.learn_more_buildself": "Pelajari Lebih Lanjut tentang BuildSelf",
+  "app.coming_soon": "Segera Hadir",
+  "share.naver.blog": "Blog",
+  "share.copy": "Salin",
+  "lineup.guide.title": "SelaLink Product Series",
+  "blog.btn.load_more": "Muat lebih banyak",
+  "blog.search.results_count": "Ditemukan {count} artikel yang sesuai dengan kriteria Anda."
 }

@@ -39,6 +39,7 @@
   "app.logself.meta.title": "logSelf - Verschlüsseltes persönliches Tagebuch auf dem Gerät | SelaLink",
   "app.logself.status": "Kostenlose App",
   "app.logself.supported": "🌐 9 Sprachen",
+  "app.logself.hero.tag": "Gedanke des Tages",
   "app.petself.status": "Demnächst verfügbar",
   "app.freshself.title": "FreshSelf",
   "app.freshself.desc": "Verwalten Sie das Mindesthaltbarkeitsdatum von Lebensmitteln und Haushaltswaren intelligent und ohne Verschwendung. Erstellen Sie maßgeschneiderte Lagerräume in einer 100 % privaten, offline-first Umgebung und analysieren Sie Ihre Verbrauchsraten.",
@@ -306,5 +307,19 @@
   "cta.action.learn_more": "Mehr erfahren",
   "cta.petself.title": "🐾 FreshSelf für Haustiere",
   "cta.petself.desc": "Verwalten Sie Nahrungsergänzungsmittel, Futter und Leckerlis Ihres Haustiers mit FreshSelf, um sie frisch und sicher zu halten.",
-  "cta.petself.btn": "FreshSelf herunterladen →"
+  "cta.petself.btn": "FreshSelf herunterladen →",
+  "app.back_to_studio": "Zurück zu SelaLink Studio",
+  "app.back_to_home": "Zurück zur Startseite",
+  "buildsnap.matcher.btn.prev": "Vorheriger Schritt",
+  "buildsnap.matcher.btn.next": "Nächster Schritt",
+  "app.data_deletion_guide": "Anleitung zur Anforderung der Datenlöschung",
+  "app.download_google_play": "Auf Google Play herunterladen",
+  "app.learn_more_freshself": "Mehr über FreshSelf erfahren",
+  "app.learn_more_buildself": "Mehr über BuildSelf erfahren",
+  "app.coming_soon": "Demnächst",
+  "share.naver.blog": "Blog",
+  "share.copy": "Kopieren",
+  "lineup.guide.title": "SelaLink Product Series",
+  "blog.btn.load_more": "Mehr laden",
+  "blog.search.results_count": "{count} Beitrag/Beiträge gefunden, die Ihren Kriterien entsprechen."
 }

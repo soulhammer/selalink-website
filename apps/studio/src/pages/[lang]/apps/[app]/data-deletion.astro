@@ -58,13 +58,13 @@ const activeTextColor = textColors[app as string] || 'text-teal-600';
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="group-hover:-translate-x-1 transition-transform">
           <path d="m15 18-6-6 6-6"/>
         </svg>
-        <span class="text-sm font-medium tracking-wide">{appData.dataDeletion.backToText}</span>
+        <span class="text-sm font-medium tracking-wide">{t(`app.back_to_${app}`) || appData.dataDeletion.backToText}</span>
       </a>
 
       <!-- Hero Section -->
       <section class="mb-12">
           <h1 class="text-3xl md:text-4xl font-extrabold mb-4 tracking-tight text-slate-900 dark:text-white">{title}</h1>
-          <p class="text-lg text-slate-600 dark:text-slate-400">{isKo ? '데이터 삭제 요청 안내' : 'Guide for requesting data deletion'}</p>
+          <p class="text-lg text-slate-600 dark:text-slate-400">{t('app.data_deletion_guide') || 'Guide for requesting data deletion'}</p>
       </section>
 
       <!-- Deletion Content Body -->

@@ -346,7 +346,7 @@ const tSource = (key: string) => {
                 href={`/${currentLang}/apps/freshself/`}
                 class="flex items-center justify-center px-4 py-2 rounded-xl border border-slate-200 dark:border-slate-800 text-slate-650 dark:text-slate-400 hover:bg-slate-50 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white text-xs font-bold transition-all text-center select-none active:scale-[0.99]"
               >
-                {currentLang === 'ko' ? 'FreshSelf 상세 정보 알아보기 →' : 'Learn More about FreshSelf →'}
+                {t('app.learn_more_freshself') || 'Learn More about FreshSelf'} →
               </a>
             </div>
           </div>

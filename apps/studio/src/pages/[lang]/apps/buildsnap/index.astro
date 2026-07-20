@@ -1,12 +1,13 @@
 ---
 import Layout from '../../../../layouts/Layout.astro';
-import { languages } from '../../../../i18n/ui';
+import { useTranslations, languages } from '../../../../i18n/ui';
 import BackToStudioButton from '../../../../components/BackToStudioButton.astro';
 import AppBackgroundBlurs from '../../../../components/AppBackgroundBlurs.astro';
 
 // 원천 데이터 및 번역 사전 임포트
 import { habits } from '../../../../data/habits';
 import { buildsnapTranslations } from '../../../../i18n/buildsnapTranslations';
+import habitsTranslations from '../../../../i18n/habitsTranslations.json';
 
 export function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({
@@ -19,6 +20,12 @@ const currentLang = (lang as string) || 'ko';
 
 const t = (key: string) => {
   return buildsnapTranslations[currentLang]?.[key] || buildsnapTranslations['ko']?.[key] || key;
+};
+
+const tUi = useTranslations(currentLang as any);
+
+const getTranslatedMentorName = (id: string, defaultName: string) => {
+  return (habitsTranslations as any)[id]?.[currentLang]?.name || defaultName;
 };
 
 // 1. 빌드 타임 통계 사전 분석 (Pre-aggregation)
@@ -47,11 +54,11 @@ habits.forEach(h => {
 
 // C. 각 시대별 매칭 위인 명단 빌드타임 전처리
 const eraMentors = {
-  ancient: habits.filter(h => (h.era || '').toLowerCase().includes('고대')).map(h => h.name),
-  renaissance: habits.filter(h => (h.era || '').toLowerCase().includes('르네상스')).map(h => h.name),
-  earlyModern: habits.filter(h => (h.era || '').toLowerCase().includes('근세')).map(h => h.name),
-  modern: habits.filter(h => (h.era || '').toLowerCase().includes('근대')).map(h => h.name),
-  contemporary: habits.filter(h => !(h.era || '').toLowerCase().includes('고대') && !(h.era || '').toLowerCase().includes('르네상스') && !(h.era || '').toLowerCase().includes('근세') && !(h.era || '').toLowerCase().includes('근대')).map(h => h.name)
+  ancient: habits.filter(h => (h.era || '').toLowerCase().includes('고대')).map(h => getTranslatedMentorName(h.id, h.name)),
+  renaissance: habits.filter(h => (h.era || '').toLowerCase().includes('르네상스')).map(h => getTranslatedMentorName(h.id, h.name)),
+  earlyModern: habits.filter(h => (h.era || '').toLowerCase().includes('근세')).map(h => getTranslatedMentorName(h.id, h.name)),
+  modern: habits.filter(h => (h.era || '').toLowerCase().includes('근대')).map(h => getTranslatedMentorName(h.id, h.name)),
+  contemporary: habits.filter(h => !(h.era || '').toLowerCase().includes('고대') && !(h.era || '').toLowerCase().includes('르네상스') && !(h.era || '').toLowerCase().includes('근세') && !(h.era || '').toLowerCase().includes('근대')).map(h => getTranslatedMentorName(h.id, h.name))
 };
 
 // D. 준비 난이도 (requiredItems 개수 기준)
@@ -114,7 +121,8 @@ const runtimeTranslations = {
   timeAnytime: t('buildsnap.time.anytime'),
   statsBadge: t('buildsnap.matcher.stats.badge'),
   statsBadgeNone: t('buildsnap.matcher.stats.badge.none'),
-  cycleGuide: t('buildsnap.matcher.cycle.guide')
+  cycleGuide: t('buildsnap.matcher.cycle.guide'),
+  toastReset: t('buildsnap.matcher.toast.reset')
 };
 ---
 
@@ -164,420 +172,483 @@ const runtimeTranslations = {
       </p>
     </div>
 
-    <!-- 1. Stats Dashboard Section (Premium UI with High Contrast & Perfect Consistency) -->
+    <!-- 1. Stats Dashboard Section (Premium UI with Accordion) -->
     <section class="app-card-neon p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl bg-slate-50/50 dark:bg-slate-900/10">
-      <div class="mb-6 md:mb-8 text-center md:text-left">
-        <h2 class="text-2xl font-black text-slate-855 dark:text-slate-100 flex items-center justify-center md:justify-start gap-2">
-          <span>{t('buildsnap.stats.title')}</span>
-        </h2>
-        <p class="text-xs sm:text-sm text-slate-700 dark:text-slate-400 mt-1 font-bold">
-          {t('buildsnap.stats.desc').replace('$1', habits.length.toString())}
-        </p>
+      
+      <!-- Accordion Toggle Header Trigger -->
+      <div id="btnToggleStats" class="flex items-center justify-between cursor-pointer select-none group">
+        <div class="text-left">
+          <h2 class="text-xl sm:text-2xl font-black text-slate-855 dark:text-slate-100 flex items-center gap-2">
+            <span>{t('buildsnap.stats.title')}</span>
+          </h2>
+          <p class="text-xs sm:text-sm text-slate-700 dark:text-slate-400 mt-1 font-bold">
+            {t('buildsnap.stats.desc').replace('$1', habits.length.toString())}
+          </p>
+        </div>
+        <div class="p-2 rounded-xl bg-slate-250/60 dark:bg-slate-800/60 border border-slate-250/30 dark:border-slate-750/30 text-slate-500 group-hover:text-indigo-500 transition-all shrink-0 flex items-center justify-center">
+          <span id="statsToggleArrow" class="sr-only">▼</span>
+          <svg id="chevronStatsIcon" class="w-5 h-5 transition-transform duration-300 transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+          </svg>
+        </div>
       </div>
 
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-        <!-- Chart A: timeOfDay Distribution (Radial Time Dial with High Contrast) -->
-        <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none relative group transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
-          <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
-            🕒 {t('buildsnap.stats.time')}
-          </h3>
-          <div class="flex flex-col items-center justify-center flex-1 py-3">
-            <div class="relative w-40 h-40">
-              <svg viewBox="0 0 200 200" class="w-full h-full transform -rotate-90">
-                <!-- Clock background circle -->
-                <circle cx="100" cy="100" r="80" class="stroke-slate-200 dark:stroke-slate-855 fill-none" stroke-width="12" />
-                
-                <!-- Anytime outline glow circle -->
-                <circle cx="100" cy="100" r="90" class="stroke-indigo-500/20 fill-none" stroke-width="2" stroke-dasharray="6 4" />
+      <!-- Accordion Content Container -->
+      <div id="statsContainer" class="hidden mt-6 md:mt-8 transition-all duration-300">
+        
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8">
+          <!-- Chart A: timeOfDay Distribution (Radial Time Dial with High Contrast) -->
+          <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-6 rounded-2xl flex flex-col justify-between select-none relative group transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
+            <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
+              🕒 {t('buildsnap.stats.time')}
+            </h3>
+            <div class="flex flex-col items-center justify-center flex-1 py-3">
+              <div class="relative w-40 h-40">
+                <svg viewBox="0 0 200 200" class="w-full h-full transform -rotate-90">
+                  <!-- Clock background circle -->
+                  <circle cx="100" cy="100" r="80" class="stroke-slate-200 dark:stroke-slate-855 fill-none" stroke-width="12" />
+                  
+                  <!-- Anytime outline glow circle -->
+                  <circle cx="100" cy="100" r="90" class="stroke-indigo-500/20 fill-none" stroke-width="2" stroke-dasharray="6 4" />
 
-                <!-- 1. Morning Arc -->
-                <circle cx="100" cy="100" r="80" 
-                  class="stroke-violet-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-violet-400" 
-                  stroke-width="14" 
-                  stroke-dasharray="502.6" 
-                  stroke-dashoffset={502.6 * (1 - (morningPercent / 100))} 
-                  transform="rotate(0, 100, 100)"
-                  id="arcMorning"
-                />
+                  <!-- 1. Morning Arc -->
+                  <circle cx="100" cy="100" r="80" 
+                    class="stroke-violet-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-violet-400" 
+                    stroke-width="14" 
+                    stroke-dasharray="502.6" 
+                    stroke-dashoffset={502.6 * (1 - (morningPercent / 100))} 
+                    transform="rotate(0, 100, 100)"
+                    id="arcMorning"
+                  />
 
-                <!-- 2. Afternoon Arc -->
-                <circle cx="100" cy="100" r="80" 
-                  class="stroke-amber-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-amber-400" 
-                  stroke-width="14" 
-                  stroke-dasharray="502.6" 
-                  stroke-dashoffset={502.6 * (1 - (afternoonPercent / 100))} 
-                  transform={`rotate(${360 * (morningPercent / 100)}, 100, 100)`}
-                  id="arcAfternoon"
-                />
+                  <!-- 2. Afternoon Arc -->
+                  <circle cx="100" cy="100" r="80" 
+                    class="stroke-amber-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-amber-400" 
+                    stroke-width="14" 
+                    stroke-dasharray="502.6" 
+                    stroke-dashoffset={502.6 * (1 - (afternoonPercent / 100))} 
+                    transform={`rotate(${360 * (morningPercent / 100)}, 100, 100)`}
+                    id="arcAfternoon"
+                  />
 
-                <!-- 3. Evening Arc -->
-                <circle cx="100" cy="100" r="80" 
-                  class="stroke-pink-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-pink-400" 
-                  stroke-width="14" 
-                  stroke-dasharray="502.6" 
-                  stroke-dashoffset={502.6 * (1 - (eveningPercent / 100))} 
-                  transform={`rotate(${360 * ((morningPercent + afternoonPercent) / 100)}, 100, 100)`}
-                  id="arcEvening"
-                />
+                  <!-- 3. Evening Arc -->
+                  <circle cx="100" cy="100" r="80" 
+                    class="stroke-pink-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-pink-400" 
+                    stroke-width="14" 
+                    stroke-dasharray="502.6" 
+                    stroke-dashoffset={502.6 * (1 - (eveningPercent / 100))} 
+                    transform={`rotate(${360 * ((morningPercent + afternoonPercent) / 100)}, 100, 100)`}
+                    id="arcEvening"
+                  />
 
-                <!-- 4. Night Arc -->
-                <circle cx="100" cy="100" r="80" 
-                  class="stroke-blue-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-blue-400" 
-                  stroke-width="14" 
-                  stroke-dasharray="502.6" 
-                  stroke-dashoffset={502.6 * (1 - (nightPercent / 100))} 
-                  transform={`rotate(${360 * ((morningPercent + afternoonPercent + eveningPercent) / 100)}, 100, 100)`}
-                  id="arcNight"
-                />
+                  <!-- 4. Night Arc -->
+                  <circle cx="100" cy="100" r="80" 
+                    class="stroke-blue-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-blue-400" 
+                    stroke-width="14" 
+                    stroke-dasharray="502.6" 
+                    stroke-dashoffset={502.6 * (1 - (nightPercent / 100))} 
+                    transform={`rotate(${360 * ((morningPercent + afternoonPercent + eveningPercent) / 100)}, 100, 100)`}
+                    id="arcNight"
+                  />
 
-                <!-- 5. Anytime Arc (Completes the 100% MECE circle) -->
-                <circle cx="100" cy="100" r="80" 
-                  class="stroke-indigo-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-indigo-400" 
-                  stroke-width="14" 
-                  stroke-dasharray="502.6" 
-                  stroke-dashoffset={502.6 * (1 - (anytimePercent / 100))} 
-                  transform={`rotate(${360 * ((morningPercent + afternoonPercent + eveningPercent + nightPercent) / 100)}, 100, 100)`}
-                  opacity="0.45"
-                  id="arcAnytime"
-                />
-              </svg>
-              <!-- Info text inside clock -->
-              <div class="absolute inset-0 flex flex-col items-center justify-center text-center pointer-events-none">
-                <span class="text-[11px] font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest" id="radialLabel">Total</span>
-                <span class="text-xl font-black text-slate-855 dark:text-white mt-0.5" id="radialValue">{totalHabits}</span>
+                  <!-- 5. Anytime Arc (Completes the 100% MECE circle) -->
+                  <circle cx="100" cy="100" r="80" 
+                    class="stroke-indigo-500 fill-none transition-all duration-350 cursor-pointer hover:stroke-indigo-400" 
+                    stroke-width="14" 
+                    stroke-dasharray="502.6" 
+                    stroke-dashoffset={502.6 * (1 - (anytimePercent / 100))} 
+                    transform={`rotate(${360 * ((morningPercent + afternoonPercent + eveningPercent + nightPercent) / 100)}, 100, 100)`}
+                    opacity="0.45"
+                    id="arcAnytime"
+                  />
+                </svg>
+                <div class="absolute inset-0 flex flex-col items-center justify-center text-center pointer-events-none">
+                  <span class="text-[11px] font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest" id="radialLabel">Total</span>
+                  <span class="text-xl font-black text-slate-855 dark:text-white mt-0.5" id="radialValue">{totalHabits}</span>
+                </div>
               </div>
-            </div>
-          </div>
-
-          <!-- Restructured Grid Card Tabs with Unified Wrapper & SVG Icons (Lucide Specification, Open Layout) -->
-          <div class="flex gap-1.5 mt-3 border-t border-slate-200/50 dark:border-slate-800/80 pt-2.5 overflow-x-auto no-scrollbar whitespace-nowrap pb-1 sm:grid sm:grid-cols-5 sm:gap-2 sm:overflow-visible sm:whitespace-normal sm:pb-0">
-            <!-- Morning Card -->
-            <div id="btnMorning" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-violet-200 dark:border-violet-900/40 bg-violet-50/30 dark:bg-violet-950/10 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-violet-500 text-violet-600 dark:text-violet-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.time.morning')}>
-              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.time.morning')}</span>
-              <span class="text-[8px] sm:text-[9px] opacity-75 font-bold mt-0.5">{morningPercent}%</span>
-            </div>
-            <!-- Afternoon Card -->
-            <div id="btnAfternoon" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-amber-200 dark:border-amber-900/40 bg-amber-50/30 dark:bg-amber-950/10 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-amber-500 text-amber-600 dark:text-amber-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.time.afternoon')}>
-              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.time.afternoon')}</span>
-              <span class="text-[8px] sm:text-[9px] opacity-75 font-bold mt-0.5">{afternoonPercent}%</span>
-            </div>
-            <!-- Evening Card -->
-            <div id="btnEvening" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-pink-200 dark:border-pink-900/40 bg-pink-50/30 dark:bg-pink-950/10 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-pink-500 text-pink-600 dark:text-pink-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.time.evening')}>
-              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.time.evening')}</span>
-              <span class="text-[8px] sm:text-[9px] opacity-75 font-bold mt-0.5">{eveningPercent}%</span>
-            </div>
-            <!-- Night Card -->
-            <div id="btnNight" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-blue-200 dark:border-blue-900/40 bg-blue-50/30 dark:bg-blue-950/10 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-blue-500 text-blue-600 dark:text-blue-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.time.night')}>
-              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.time.night')}</span>
-              <span class="text-[8px] sm:text-[9px] opacity-75 font-bold mt-0.5">{nightPercent}%</span>
-            </div>
-            <!-- Anytime Card -->
-            <div id="btnAnytime" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-indigo-200 dark:border-indigo-900/40 bg-indigo-50/30 dark:bg-indigo-950/10 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-indigo-600 dark:text-indigo-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.time.anytime')}>
-              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.time.anytime')}</span>
-              <span class="text-[8px] sm:text-[9px] opacity-75 font-bold mt-0.5">{anytimePercent}%</span>
-            </div>
-          </div>
-        </div>
-
-        <!-- Chart B: Category Share (Layered Horizontal Bar Chart with Unified Legends) -->
-        <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
-          <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
-            🧬 {t('buildsnap.stats.category')}
-          </h3>
-          <div class="space-y-4 my-auto py-2 w-full">
-            <!-- Focus -->
-            <div id="legendFocus" class="group cursor-pointer p-2.5 rounded-xl border border-slate-100 dark:border-slate-900 bg-slate-50/50 dark:bg-slate-900/30 hover:border-violet-500/50 hover:translate-y-[-1px] transition-all duration-300">
-              <div class="flex justify-between items-center text-xs font-bold text-slate-800 dark:text-slate-200 mb-1.5">
-                <div class="flex items-center gap-2">
+              
+              <!-- timeOfDay color legend for high readability -->
+              <div class="flex flex-wrap justify-center gap-x-3.5 gap-y-2 mt-5 text-[10px] sm:text-[11px] font-extrabold select-none border-t border-slate-200/60 dark:border-slate-800/60 pt-4 w-full">
+                <div class="flex items-center gap-1.5 text-slate-600 dark:text-slate-400">
                   <span class="w-2.5 h-2.5 rounded-full bg-violet-500 shrink-0"></span>
-                  <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.a')}</span>
+                  <span>{t('buildsnap.time.morning')}</span>
+                  <span class="font-black text-slate-855 dark:text-slate-200">{morningPercent}%</span>
                 </div>
-                <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{focusPercent}%</span>
-              </div>
-              <div class="w-full h-3 bg-slate-200 dark:bg-slate-850 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
-                <div id="barFocus" class="h-full bg-violet-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-violet-500/25" style={`width: ${focusPercent}%`}></div>
+                <div class="flex items-center gap-1.5 text-slate-600 dark:text-slate-400">
+                  <span class="w-2.5 h-2.5 rounded-full bg-amber-500 shrink-0"></span>
+                  <span>{t('buildsnap.time.afternoon')}</span>
+                  <span class="font-black text-slate-855 dark:text-slate-200">{afternoonPercent}%</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-slate-600 dark:text-slate-400">
+                  <span class="w-2.5 h-2.5 rounded-full bg-pink-500 shrink-0"></span>
+                  <span>{t('buildsnap.time.evening')}</span>
+                  <span class="font-black text-slate-855 dark:text-slate-200">{eveningPercent}%</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-slate-600 dark:text-slate-400">
+                  <span class="w-2.5 h-2.5 rounded-full bg-blue-500 shrink-0"></span>
+                  <span>{t('buildsnap.time.night')}</span>
+                  <span class="font-black text-slate-855 dark:text-slate-200">{nightPercent}%</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-slate-600 dark:text-slate-400 opacity-60">
+                  <span class="w-2.5 h-2.5 rounded-full bg-indigo-500/50 shrink-0"></span>
+                  <span>{t('buildsnap.time.anytime')}</span>
+                  <span class="font-black text-slate-855 dark:text-slate-200">{anytimePercent}%</span>
+                </div>
               </div>
             </div>
-            <!-- Creative -->
-            <div id="legendCreative" class="group cursor-pointer p-2.5 rounded-xl border border-slate-100 dark:border-slate-900 bg-slate-50/50 dark:bg-slate-900/30 hover:border-fuchsia-500/50 hover:translate-y-[-1px] transition-all duration-300">
-              <div class="flex justify-between items-center text-xs font-bold text-slate-800 dark:text-slate-200 mb-1.5">
-                <div class="flex items-center gap-2">
-                  <span class="w-2.5 h-2.5 rounded-full bg-fuchsia-500 shrink-0"></span>
-                  <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.b')}</span>
+          </div>
+
+          <!-- Chart B: category Distribution -->
+          <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-6 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
+            <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
+              🎯 {t('buildsnap.stats.category')}
+            </h3>
+            <div class="space-y-3.5 my-auto">
+              <!-- Focus -->
+              <div class="space-y-1">
+                <div class="flex justify-between items-center">
+                  <div class="flex items-center gap-2">
+                    <span class="w-2.5 h-2.5 rounded-full bg-violet-500 shrink-0"></span>
+                    <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.a')}</span>
+                  </div>
+                  <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{focusPercent}%</span>
                 </div>
-                <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{creativePercent}%</span>
+                <div class="w-full h-3 bg-slate-200 dark:bg-slate-855 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
+                  <div id="barFocus" class="h-full bg-violet-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-violet-500/25" style={`width: ${focusPercent}%`}></div>
+                </div>
               </div>
-              <div class="w-full h-3 bg-slate-200 dark:bg-slate-850 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
-                <div id="barCreative" class="h-full bg-fuchsia-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-fuchsia-500/25" style={`width: ${creativePercent}%`}></div>
+              <!-- Creative -->
+              <div class="space-y-1">
+                <div class="flex justify-between items-center">
+                  <div class="flex items-center gap-2">
+                    <span class="w-2.5 h-2.5 rounded-full bg-amber-500 shrink-0"></span>
+                    <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.b')}</span>
+                  </div>
+                  <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{creativePercent}%</span>
+                </div>
+                <div class="w-full h-3 bg-slate-200 dark:bg-slate-855 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
+                  <div id="barCreative" class="h-full bg-amber-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-amber-500/25" style={`width: ${creativePercent}%`}></div>
+                </div>
+              </div>
+              <!-- Simplicity -->
+              <div class="space-y-1">
+                <div class="flex justify-between items-center">
+                  <div class="flex items-center gap-2">
+                    <span class="w-2.5 h-2.5 rounded-full bg-pink-500 shrink-0"></span>
+                    <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.c')}</span>
+                  </div>
+                  <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{simplicityPercent}%</span>
+                </div>
+                <div class="w-full h-3 bg-slate-200 dark:bg-slate-855 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
+                  <div id="barSimplicity" class="h-full bg-pink-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-pink-500/25" style={`width: ${simplicityPercent}%`}></div>
+                </div>
+              </div>
+              <!-- Mind -->
+              <div class="space-y-1">
+                <div class="flex justify-between items-center">
+                  <div class="flex items-center gap-2">
+                    <span class="w-2.5 h-2.5 rounded-full bg-teal-500 shrink-0"></span>
+                    <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.d')}</span>
+                  </div>
+                  <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{mindPercent}%</span>
+                </div>
+                <div class="w-full h-3 bg-slate-200 dark:bg-slate-855 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
+                  <div id="barMind" class="h-full bg-teal-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-teal-500/25" style={`width: ${mindPercent}%`}></div>
+                </div>
               </div>
             </div>
-            <!-- Simplicity -->
-            <div id="legendSimplicity" class="group cursor-pointer p-2.5 rounded-xl border border-slate-100 dark:border-slate-900 bg-slate-50/50 dark:bg-slate-900/30 hover:border-indigo-500/50 hover:translate-y-[-1px] transition-all duration-300">
-              <div class="flex justify-between items-center text-xs font-bold text-slate-800 dark:text-slate-200 mb-1.5">
-                <div class="flex items-center gap-2">
-                  <span class="w-2.5 h-2.5 rounded-full bg-indigo-500 shrink-0"></span>
-                  <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.c')}</span>
+          </div>
+
+          <!-- Chart C: Difficulty Barrier -->
+          <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-6 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
+            <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
+              🛡️ {t('buildsnap.stats.difficulty')}
+            </h3>
+            <div class="space-y-6 my-auto py-3">
+              <div class="relative w-full h-12 bg-slate-200 dark:bg-slate-855 rounded-2xl overflow-hidden border border-slate-300/60 dark:border-slate-855 flex">
+                <div class="h-full bg-gradient-to-r from-emerald-500 to-teal-400 relative overflow-hidden transition-all duration-1000 ease-out" style={`width: ${easyPercent}%`}>
+                  <svg class="absolute top-0 right-[-15px] h-full w-[40px] fill-teal-400/85 opacity-90 overflow-visible animate-wave" viewBox="0 0 100 100" preserveAspectRatio="none">
+                    <path d="M0,0 Q25,20 0,40 T0,80 T0,100 L100,100 L100,0 Z" />
+                  </svg>
                 </div>
-                <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{simplicityPercent}%</span>
+                <div class="h-full bg-gradient-to-r from-violet-600 to-indigo-500 flex-1 relative overflow-hidden transition-all duration-1000 ease-out">
+                  <svg class="absolute top-0 left-[-15px] h-full w-[40px] fill-violet-600/85 opacity-90 overflow-visible animate-wave" viewBox="0 0 100 100" preserveAspectRatio="none" style="transform: rotate(180deg);">
+                    <path d="M0,0 Q25,20 0,40 T0,80 T0,100 L100,100 L100,0 Z" />
+                  </svg>
+                </div>
               </div>
-              <div class="w-full h-3 bg-slate-200 dark:bg-slate-850 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
-                <div id="barSimplicity" class="h-full bg-indigo-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-indigo-500/25" style={`width: ${simplicityPercent}%`}></div>
+              <div class="flex justify-between items-center text-[10px] sm:text-xs">
+                <div class="flex items-center gap-1.5">
+                  <span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span>
+                  <span class="font-extrabold text-slate-600 dark:text-slate-400">{t('buildsnap.stats.difficulty.easy')}:</span>
+                  <span class="font-black text-slate-855 dark:text-slate-200">{easyPercent}%</span>
+                </div>
+                <div class="flex items-center gap-1.5">
+                  <span class="w-2.5 h-2.5 rounded-full bg-violet-600"></span>
+                  <span class="font-extrabold text-slate-600 dark:text-slate-400">{t('buildsnap.stats.difficulty.hard')}:</span>
+                  <span class="font-black text-slate-855 dark:text-slate-200">{100 - easyPercent}%</span>
+                </div>
               </div>
             </div>
-            <!-- Mind -->
-            <div id="legendMind" class="group cursor-pointer p-2.5 rounded-xl border border-slate-100 dark:border-slate-900 bg-slate-50/50 dark:bg-slate-900/30 hover:border-teal-500/50 hover:translate-y-[-1px] transition-all duration-300">
-              <div class="flex justify-between items-center text-xs font-bold text-slate-800 dark:text-slate-200 mb-1.5">
-                <div class="flex items-center gap-2">
-                  <span class="w-2.5 h-2.5 rounded-full bg-teal-500 shrink-0"></span>
-                  <span class="text-xs sm:text-sm font-extrabold text-slate-800 dark:text-slate-200 leading-tight">{t('buildsnap.matcher.q1.d')}</span>
-                </div>
-                <span class="text-xs sm:text-sm font-black text-slate-900 dark:text-slate-100 shrink-0">{mindPercent}%</span>
+          </div>
+
+          <!-- Chart D: Era distribution (Timeline Wave) -->
+          <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-6 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
+            <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-3">
+              🏛️ {t('buildsnap.stats.era')}
+            </h3>
+            <div class="relative w-full h-24 md:h-auto md:aspect-[400/110] bg-slate-50 dark:bg-slate-955/40 rounded-xl overflow-hidden border border-slate-200/60 dark:border-slate-855">
+              <svg viewBox="0 0 400 110" class="w-full h-full">
+                <defs>
+                  <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+                    <addColorStop offset="0%" stop-color="#6366F1" stop-opacity="0.4" id="areaGradStart" />
+                    <addColorStop offset="100%" stop-color="#6366F1" stop-opacity="0.0" />
+                  </linearGradient>
+                </defs>
+                <path d="M 0,110 L 0,85 C 50,85 50,100 100,100 C 150,100 150,92 200,92 C 250,92 250,20 300,20 C 350,20 350,75 400,75 L 400,110 Z" fill="url(#areaGrad)" id="waveAreaPath" class="transition-all duration-350" />
+                <path d="M 0,85 C 50,85 50,100 100,100 C 150,100 150,92 200,92 C 250,92 250,20 300,20 C 350,20 350,75 400,75" fill="none" stroke="#8b5cf6" stroke-width="3" id="waveCurveLine" class="transition-all duration-350" />
+                <circle cx="10" cy="85" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer" id="dotAncient" />
+                <circle cx="105" cy="100" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer" id="dotRenaissance" />
+                <circle cx="200" cy="92" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer" id="dotEarlyModern" />
+                <circle cx="295" cy="20" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer" id="dotModern" />
+                <circle cx="390" cy="75" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer" id="dotContemporary" />
+              </svg>
+            </div>
+            <div class="flex gap-1.5 mt-3 border-t border-slate-200 dark:border-slate-800/80 pt-2.5 overflow-x-auto no-scrollbar whitespace-nowrap pb-1 sm:grid sm:grid-cols-5 sm:gap-2 sm:overflow-visible sm:whitespace-normal sm:pb-0">
+              <div id="lblAncient" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px]" title={t('buildsnap.era.ancient')}>
+                <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep">{t('buildsnap.era.ancient')}</span>
+                <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.ancient}</span>
               </div>
-              <div class="w-full h-3 bg-slate-200 dark:bg-slate-850 rounded-full overflow-hidden border border-slate-300/30 dark:border-slate-800/30">
-                <div id="barMind" class="h-full bg-teal-500 rounded-full transition-all duration-1000 ease-out shadow-sm shadow-teal-500/25" style={`width: ${mindPercent}%`}></div>
+              <div id="lblRenaissance" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px]" title={t('buildsnap.era.renaissance')}>
+                <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep">{t('buildsnap.era.renaissance')}</span>
+                <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.renaissance}</span>
+              </div>
+              <div id="lblEarlyModern" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px]" title={t('buildsnap.era.earlyModern')}>
+                <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep">{t('buildsnap.era.earlyModern')}</span>
+                <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.earlyModern}</span>
+              </div>
+              <div id="lblModern" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px]" title={t('buildsnap.era.modern')}>
+                <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep">{t('buildsnap.era.modern')}</span>
+                <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.modern}</span>
+              </div>
+              <div id="lblContemporary" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px]" title={t('buildsnap.era.contemporary')}>
+                <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep">{t('buildsnap.era.contemporary')}</span>
+                <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.contemporary}</span>
               </div>
             </div>
           </div>
         </div>
 
-        <!-- Chart C: Difficulty Barrier (Liquid Wave Balance Gauge) -->
-        <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
-          <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-4">
-            🛡️ {t('buildsnap.stats.difficulty')}
-          </h3>
-          <div class="space-y-6 my-auto py-3">
-            <!-- Liquid wave bar container -->
-            <div class="relative w-full h-12 bg-slate-200 dark:bg-slate-850 rounded-2xl overflow-hidden border border-slate-300/60 dark:border-slate-850 flex">
-              <!-- Easy Liquid Wave (Emerald Gradient) -->
-              <div class="h-full bg-gradient-to-r from-emerald-500 to-teal-400 relative overflow-hidden transition-all duration-1000 ease-out" style={`width: ${easyPercent}%`}>
-                <svg class="absolute top-0 right-[-15px] h-full w-[40px] fill-teal-400/85 opacity-90 overflow-visible animate-wave" viewBox="0 0 100 100" preserveAspectRatio="none">
-                  <path d="M0,0 Q25,20 0,40 T0,80 T0,100 L100,100 L100,0 Z" />
-                </svg>
-              </div>
-              <!-- Hard Liquid Wave (Violet Gradient) -->
-              <div class="h-full bg-gradient-to-r from-violet-600 to-indigo-500 flex-1 relative overflow-hidden transition-all duration-1000 ease-out">
-                <svg class="absolute top-0 left-[-15px] h-full w-[40px] fill-violet-600/85 opacity-90 overflow-visible animate-wave" viewBox="0 0 100 100" preserveAspectRatio="none" style="transform: rotate(180deg);">
-                  <path d="M0,0 Q25,20 0,40 T0,80 T0,100 L100,100 L100,0 Z" />
-                </svg>
-              </div>
-            </div>
-
-            <div class="space-y-3.5 border-t border-slate-200 dark:border-slate-800/80 pt-2.5">
-              <div class="flex items-center gap-3 justify-between">
-                <div class="flex items-center gap-2">
-                  <div class="w-4 h-4 bg-emerald-500 rounded-md shrink-0 shadow-sm shadow-emerald-500/30"></div>
-                  <span class="text-xs sm:text-sm text-slate-850 dark:text-slate-200 font-extrabold">{t('buildsnap.stats.difficulty.easy')}</span>
-                </div>
-                <span class="text-xs sm:text-sm text-slate-800 dark:text-slate-300 font-black">{easyCount} ({easyPercent}%)</span>
-              </div>
-              <div class="flex items-center gap-3 justify-between">
-                <div class="flex items-center gap-2">
-                  <div class="w-4 h-4 bg-violet-600 rounded-md shrink-0 shadow-sm shadow-violet-500/30"></div>
-                  <span class="text-xs sm:text-sm text-slate-855 dark:text-slate-200 font-extrabold">{t('buildsnap.stats.difficulty.hard')}</span>
-                </div>
-                <span class="text-xs sm:text-sm text-slate-800 dark:text-slate-300 font-black">{hardCount} ({hardPercent}%)</span>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Chart D: Era distribution (Chronological Area Wave Chart with Tooltips & Unified Cards) -->
-        <div class="bg-white/70 dark:bg-slate-900/40 backdrop-blur-md border border-slate-200 dark:border-slate-800/80 p-5 rounded-2xl flex flex-col justify-between select-none relative transition-all duration-300 hover:border-indigo-500/40 shadow-sm">
-          <h3 class="text-sm font-black text-slate-855 dark:text-slate-200 tracking-tight border-b border-slate-200 dark:border-slate-800 pb-2 mb-2">
-            🏛️ {t('buildsnap.stats.era')}
-          </h3>
-          <!-- Wave timeline SVG representation -->
-          <div class="relative w-full h-36 flex items-end">
-            <!-- Tooltip container -->
-            <div id="eraTooltip" class="absolute top-1 left-1/2 -translate-x-1/2 bg-slate-950/95 border border-indigo-500/30 text-white rounded-lg p-2.5 text-[9px] font-bold z-20 pointer-events-none opacity-0 transition-opacity duration-300 max-w-[95%] shadow-2xl leading-relaxed text-center">
-              <span id="eraTooltipTitle" class="text-indigo-400 block mb-1">Era Name</span>
-              <span id="eraTooltipMentors" class="hidden text-slate-350 font-normal">Mentors list...</span>
-            </div>
-
-            <!-- Path Canvas -->
-            <svg viewBox="0 0 400 120" class="w-full h-full overflow-visible z-10" id="waveTimelineSvg">
-              <!-- Gradient fill for area under wave -->
-              <defs>
-                <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
-                  <addColorStop offset="0%" stop-color="#6366F1" stop-opacity="0.4" id="areaGradStart" />
-                  <addColorStop offset="100%" stop-color="#6366F1" stop-opacity="0.0" />
-                </linearGradient>
-              </defs>
-
-              <!-- Filled curve -->
-              <path d="M 0,110 L 0,85 C 50,85 50,100 100,100 C 150,100 150,92 200,92 C 250,92 250,20 300,20 C 350,20 350,75 400,75 L 400,110 Z" fill="url(#areaGrad)" id="waveAreaPath" class="transition-all duration-350" />
-              <path d="M 0,85 C 50,85 50,100 100,100 C 150,100 150,92 200,92 C 250,92 250,20 300,20 C 350,20 350,75 400,75" fill="none" stroke="#8b5cf6" stroke-width="3" id="waveCurveLine" class="transition-all duration-350" />
-
-              <!-- Interactive Dot nodes on wave peak coordinates -->
-              <circle cx="10" cy="85" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-indigo-400 transition-all duration-300" id="dotAncient" />
-              <circle cx="105" cy="100" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-indigo-400 transition-all duration-300" id="dotRenaissance" />
-              <circle cx="200" cy="92" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-indigo-400 transition-all duration-300" id="dotEarlyModern" />
-              <circle cx="295" cy="20" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-indigo-400 transition-all duration-300" id="dotModern" />
-              <circle cx="390" cy="75" r="5.5" class="fill-indigo-500 stroke-slate-950 stroke-[2] cursor-pointer hover:r-10 hover:fill-indigo-400 transition-all duration-300" id="dotContemporary" />
-            </svg>
-          </div>
-
-          <!-- Chronological Unified Tab Cards with SVG Icons (Lucide Specification) & Labels -->
-          <div class="flex gap-1.5 mt-3 border-t border-slate-200 dark:border-slate-800/80 pt-2.5 overflow-x-auto no-scrollbar whitespace-nowrap pb-1 sm:grid sm:grid-cols-5 sm:gap-2 sm:overflow-visible sm:whitespace-normal sm:pb-0">
-            <!-- Ancient -->
-            <div id="lblAncient" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.era.ancient')}>
-              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.era.ancient')}</span>
-              <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.ancient}</span>
-            </div>
-            <!-- Renaissance -->
-            <div id="lblRenaissance" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.era.renaissance')}>
-              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.era.renaissance')}</span>
-              <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.renaissance}</span>
-            </div>
-            <!-- Early Modern -->
-            <div id="lblEarlyModern" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.era.earlyModern')}>
-              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.era.earlyModern')}</span>
-              <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.earlyModern}</span>
-            </div>
-            <!-- Modern -->
-            <div id="lblModern" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.era.modern')}>
-              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.era.modern')}</span>
-              <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.modern}</span>
-            </div>
-            <!-- Contemporary -->
-            <div id="lblContemporary" class="flex flex-col items-center justify-center p-2 sm:px-1 rounded-xl border border-slate-250 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 cursor-pointer hover:translate-y-[-2px] transition-all hover:border-indigo-500 text-slate-500 dark:text-slate-400 shrink-0 min-w-[80px] sm:min-w-0 sm:shrink sm:w-full flex-1" title={t('buildsnap.era.contemporary')}>
-              <span class="text-[9px] xs:text-[10px] sm:text-[10px] md:text-xs font-black text-center leading-tight break-keep whitespace-nowrap sm:whitespace-normal sm:break-all btn-text">{t('buildsnap.era.contemporary')}</span>
-              <span class="text-[8px] sm:text-[9px] text-slate-400 dark:text-slate-500 font-bold mt-1">{eraCounts.contemporary}</span>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
 
-    <!-- 2. Matcher Section -->
-    <section class="app-card-neon p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl">
-      <div class="mb-8 text-center md:text-left select-none">
-        <h2 class="text-xl sm:text-2xl font-bold text-slate-800 dark:text-slate-100">
-          {t('buildsnap.matcher.title')}
+    <!-- 2. Matcher Section (Interactive Wizard Step Slider) -->
+    <section id="matcherSection" class="app-card-neon p-4 sm:p-6 md:p-8 mb-8 md:mb-12 relative z-10 border border-slate-200 dark:border-slate-800/80 rounded-3xl overflow-hidden bg-white/40 dark:bg-slate-955/20 backdrop-blur-md">
+      <div class="mb-6 text-center md:text-left select-none">
+        <h2 class="text-xl sm:text-2xl font-bold text-slate-800 dark:text-slate-100 flex items-center justify-center md:justify-start gap-2">
+          <span>{t('buildsnap.matcher.title')}</span>
         </h2>
         <p class="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
           {t('buildsnap.matcher.desc')}
         </p>
       </div>
 
-      <!-- Matcher Interactive Question Form -->
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-        <!-- Q1 -->
-        <div class="bg-slate-50 dark:bg-slate-900/50 p-5 rounded-2xl border border-slate-200/60 dark:border-slate-800/40">
-          <h3 class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 mb-4">
-            {t('buildsnap.matcher.q1')}
-          </h3>
-          <div class="space-y-2.5" id="groupQ1">
-            {[
-              { val: 'focus', text: t('buildsnap.matcher.q1.a') },
-              { val: 'creative', text: t('buildsnap.matcher.q1.b') },
-              { val: 'simplicity', text: t('buildsnap.matcher.q1.c') },
-              { val: 'mind', text: t('buildsnap.matcher.q1.d') }
-            ].map((ans, idx) => (
-              <label class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 hover:border-indigo-500 dark:hover:border-indigo-500 cursor-pointer select-none transition-all duration-300">
-                <input type="radio" name="q1" value={ans.val} checked={idx === 0} class="accent-indigo-600 w-4 h-4" />
-                <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 leading-tight">{ans.text}</span>
-              </label>
-            ))}
-          </div>
-        </div>
-
-        <!-- Q2 -->
-        <div class="bg-slate-50 dark:bg-slate-900/50 p-5 rounded-2xl border border-slate-200/60 dark:border-slate-800/40">
-          <h3 class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 mb-4">
-            {t('buildsnap.matcher.q2')}
-          </h3>
-          <div class="space-y-2.5" id="groupQ2">
-            {[
-              { val: 'physical', text: t('buildsnap.matcher.q2.a') },
-              { val: 'mental', text: t('buildsnap.matcher.q2.b') }
-            ].map((ans, idx) => (
-              <label class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 hover:border-indigo-500 dark:hover:border-indigo-500 cursor-pointer select-none transition-all duration-300">
-                <input type="radio" name="q2" value={ans.val} checked={idx === 0} class="accent-indigo-600 w-4 h-4" />
-                <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 leading-tight">{ans.text}</span>
-              </label>
-            ))}
-          </div>
-        </div>
-
-        <!-- Q3 -->
-        <div class="bg-slate-50 dark:bg-slate-900/50 p-5 rounded-2xl border border-slate-200/60 dark:border-slate-800/40">
-          <h3 class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 mb-4">
-            {t('buildsnap.matcher.q3')}
-          </h3>
-          <div class="space-y-2.5" id="groupQ3">
-            {[
-              { val: 'easy', text: t('buildsnap.matcher.q3.a') },
-              { val: 'hard', text: t('buildsnap.matcher.q3.b') }
-            ].map((ans, idx) => (
-              <label class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 hover:border-indigo-500 dark:hover:border-indigo-500 cursor-pointer select-none transition-all duration-300">
-                <input type="radio" name="q3" value={ans.val} checked={idx === 0} class="accent-indigo-600 w-4 h-4" />
-                <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 leading-tight">{ans.text}</span>
-              </label>
-            ))}
-          </div>
-        </div>
-      </div>
-
-      <!-- Action Button -->
-      <div class="flex justify-center">
-        <button 
-          type="button" 
-          id="btnDiagnose" 
-          class="px-8 py-3.5 bg-gradient-to-r from-violet-600 to-indigo-600 dark:from-violet-500 dark:to-indigo-500 hover:from-violet-700 hover:to-indigo-700 text-white rounded-2xl text-base font-bold shadow-lg shadow-indigo-500/20 active:scale-95 transition-all select-none cursor-pointer"
-        >
-          {t('buildsnap.matcher.btn.match')}
-        </button>
-      </div>
-
-      <!-- Matcher Result Card View (Minimal Summary & Rich Illustration) -->
-      <div id="resultContainer" class="hidden mt-10 p-6 md:p-8 rounded-3xl bg-white dark:bg-slate-950 border border-indigo-500/30 shadow-2xl relative overflow-hidden transition-all duration-500">
-        <!-- Neon Glow Aura background inside result card -->
-        <div class="absolute -right-20 -bottom-20 w-64 h-64 bg-indigo-500/10 dark:bg-indigo-500/15 rounded-full blur-[60px] pointer-events-none z-0"></div>
-
-        <div class="relative z-10 flex flex-col items-center text-center">
-          <span class="text-xs font-extrabold uppercase tracking-widest text-indigo-500 mb-3 block">{t('buildsnap.result.title')}</span>
+      <!-- 2-Column Responsive Layout Grid -->
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+        
+        <!-- Left Column (lg:col-span-5): Step Wizard Slider Form -->
+        <div class="lg:col-span-5 flex flex-col justify-between min-h-[380px] bg-slate-50/20 dark:bg-slate-955/20 p-4 sm:p-5 rounded-2xl border border-slate-250/30 dark:border-slate-850/30 min-w-0 max-w-full overflow-hidden">
           
-          <!-- 매칭 결과 요약 배지 -->
-          <div id="matcherStatsBadge" class="px-4 py-1.5 rounded-full text-xs font-black bg-indigo-500/10 dark:bg-indigo-500/20 text-indigo-600 dark:text-indigo-400 border border-indigo-500/20 mb-4 tracking-wide select-none"></div>
-
-          <!-- Hero Illustration Image (The main visual focus) -->
-          <div class="w-full rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-850 shadow-lg bg-slate-900 mb-6 relative aspect-video max-h-[380px] w-full max-w-[640px]">
-            <img id="resultHeroImage" src="" class="w-full h-full object-cover opacity-90 transition-opacity duration-350" alt="Mentor Habit Illustration" />
+          <!-- Step Indicator Track -->
+          <div class="flex items-center justify-center gap-2 mb-4 select-none">
+            <div id="indicator1" class="w-8 h-2 rounded-full bg-indigo-600 dark:bg-indigo-500 transition-all duration-300"></div>
+            <div id="indicator2" class="w-2.5 h-2.5 rounded-full bg-slate-200 dark:bg-slate-800 transition-all duration-300"></div>
           </div>
 
-          <!-- Description Section -->
-          <div class="max-w-2xl px-2">
-            <h3 class="text-lg sm:text-xl font-bold text-slate-800 dark:text-slate-100 leading-relaxed">
-              {t('buildsnap.result.desc')}
-            </h3>
+          <!-- Step Wizard Slider Frame -->
+          <div class="relative w-full overflow-hidden flex-1 mb-6">
+            <div id="wizardSlider" class="flex transition-transform duration-500 ease-out w-[200%]">
+              
+              <!-- STEP 1: Age & Gender Selection -->
+              <div class="w-1/2 px-1 flex-shrink-0 flex flex-col gap-4">
+                <div class="flex-1 bg-slate-50/50 dark:bg-slate-900/30 p-4 rounded-xl border border-slate-200/50 dark:border-slate-800/40">
+                  <h3 class="text-xs sm:text-sm font-bold text-slate-855 dark:text-slate-200 mb-3 select-none">
+                    👤 {t('buildsnap.matcher.age')}
+                  </h3>
+                  <div class="grid grid-cols-1 gap-2" id="groupAge">
+                    <button type="button" data-age="kids" class="age-btn flex items-center gap-3 p-2.5 rounded-lg border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 hover:border-indigo-500 dark:hover:border-indigo-500 text-xs sm:text-sm font-extrabold text-slate-700 dark:text-slate-300 text-left transition-all duration-300 active:scale-[0.98] cursor-pointer">
+                      {t('buildsnap.matcher.age.kids')}
+                    </button>
+                    <button type="button" data-age="adult" class="age-btn active-btn flex items-center gap-3 p-2.5 rounded-lg border border-indigo-500 dark:border-indigo-500 bg-white dark:bg-slate-950 text-xs sm:text-sm font-extrabold text-slate-700 dark:text-slate-300 text-left transition-all duration-300 active:scale-[0.98] cursor-pointer">
+                      {t('buildsnap.matcher.age.adult')}
+                    </button>
+                    <button type="button" data-age="silver" class="age-btn flex items-center gap-3 p-2.5 rounded-lg border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-955 hover:border-indigo-500 dark:hover:border-indigo-500 text-xs sm:text-sm font-extrabold text-slate-700 dark:text-slate-300 text-left transition-all duration-300 active:scale-[0.98] cursor-pointer">
+                      {t('buildsnap.matcher.age.silver')}
+                    </button>
+                  </div>
+                </div>
+
+                <div class="flex-1 bg-slate-50/50 dark:bg-slate-900/30 p-4 rounded-xl border border-slate-200/50 dark:border-slate-800/40">
+                  <h3 class="text-xs sm:text-sm font-bold text-slate-855 dark:text-slate-200 mb-3 select-none">
+                    🧬 {t('buildsnap.matcher.gender')}
+                  </h3>
+                  <div class="grid grid-cols-1 gap-2" id="groupGender">
+                    <button type="button" data-gender="all" class="gender-btn active-btn flex items-center gap-3 p-2.5 rounded-lg border border-indigo-500 dark:border-indigo-500 bg-white dark:bg-slate-955 text-xs sm:text-sm font-extrabold text-slate-700 dark:text-slate-300 text-left transition-all duration-300 active:scale-[0.98] cursor-pointer">
+                      {t('buildsnap.matcher.gender.all')}
+                    </button>
+                    <button type="button" data-gender="male" class="gender-btn flex items-center gap-3 p-2.5 rounded-lg border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-955 hover:border-indigo-500 dark:hover:border-indigo-500 text-xs sm:text-sm font-extrabold text-slate-700 dark:text-slate-300 text-left transition-all duration-300 active:scale-[0.98] cursor-pointer">
+                      {t('buildsnap.matcher.gender.male')}
+                    </button>
+                    <button type="button" data-gender="female" class="gender-btn flex items-center gap-3 p-2.5 rounded-lg border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-955 hover:border-indigo-500 dark:hover:border-indigo-500 text-xs sm:text-sm font-extrabold text-slate-700 dark:text-slate-300 text-left transition-all duration-300 active:scale-[0.98] cursor-pointer">
+                      {t('buildsnap.matcher.gender.female')}
+                    </button>
+                  </div>
+                </div>
+              </div>
+
+              <!-- STEP 2: Q1, Q2 & Q3 Selection -->
+              <div class="w-1/2 px-1 flex-shrink-0 flex flex-col gap-4">
+                <div class="bg-slate-50/50 dark:bg-slate-900/30 p-3.5 rounded-xl border border-slate-200/50 dark:border-slate-800/40">
+                  <h3 class="text-xs font-bold text-slate-855 dark:text-slate-200 mb-2.5 select-none">
+                    🧠 {t('buildsnap.matcher.q1')}
+                  </h3>
+                  <div class="grid grid-cols-1 sm:grid-cols-2 gap-2" id="groupQ1">
+                    {[
+                      { val: 'focus', text: t('buildsnap.matcher.q1.a') },
+                      { val: 'creative', text: t('buildsnap.matcher.q1.b') },
+                      { val: 'simplicity', text: t('buildsnap.matcher.q1.c') },
+                      { val: 'mind', text: t('buildsnap.matcher.q1.d') }
+                    ].map((ans, idx) => (
+                      <button type="button" data-q1={ans.val} class={`q1-btn ${idx === 0 ? 'active-btn border-indigo-500' : 'border-slate-200 dark:border-slate-800'} flex items-center gap-2 p-2.5 rounded-lg border bg-white dark:bg-slate-950 hover:border-indigo-500 text-xs font-extrabold text-slate-700 dark:text-slate-300 text-left transition-all duration-300 active:scale-[0.98] cursor-pointer`}>
+                        {ans.text}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                <div class="bg-slate-50/50 dark:bg-slate-900/30 p-3.5 rounded-xl border border-slate-200/50 dark:border-slate-800/40">
+                  <h3 class="text-xs font-bold text-slate-855 dark:text-slate-200 mb-2.5 select-none">
+                    🧭 {t('buildsnap.matcher.q2')}
+                  </h3>
+                  <div class="grid grid-cols-1 sm:grid-cols-2 gap-2" id="groupQ2">
+                    {[
+                      { val: 'physical', text: t('buildsnap.matcher.q2.a') },
+                      { val: 'mental', text: t('buildsnap.matcher.q2.b') }
+                    ].map((ans, idx) => (
+                      <button type="button" data-q2={ans.val} class={`q2-btn ${idx === 1 ? 'active-btn border-indigo-500' : 'border-slate-200 dark:border-slate-800'} flex items-center gap-2 p-2.5 rounded-lg border bg-white dark:bg-slate-950 hover:border-indigo-500 text-xs font-extrabold text-slate-700 dark:text-slate-300 text-left transition-all duration-300 active:scale-[0.98] cursor-pointer`}>
+                        {ans.text}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                <div class="bg-slate-50/50 dark:bg-slate-900/30 p-3.5 rounded-xl border border-slate-200/50 dark:border-slate-800/40">
+                  <h3 class="text-xs font-bold text-slate-855 dark:text-slate-200 mb-2.5 select-none">
+                    🛠️ {t('buildsnap.matcher.q3')}
+                  </h3>
+                  <div class="grid grid-cols-1 sm:grid-cols-2 gap-2" id="groupQ3">
+                    {[
+                      { val: 'easy', text: t('buildsnap.matcher.q3.a') },
+                      { val: 'hard', text: t('buildsnap.matcher.q3.b') }
+                    ].map((ans, idx) => (
+                      <button type="button" data-q3={ans.val} class={`q3-btn ${idx === 0 ? 'active-btn border-indigo-500' : 'border-slate-200 dark:border-slate-800'} flex items-center gap-2 p-2.5 rounded-lg border bg-white dark:bg-slate-950 hover:border-indigo-500 text-xs font-extrabold text-slate-700 dark:text-slate-300 text-left transition-all duration-300 active:scale-[0.98] cursor-pointer`}>
+                        {ans.text}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              </div>
+
+            </div>
           </div>
 
-          <!-- 순환 안내 및 템플릿 인덱스 가이드 -->
-          <div id="matcherCycleGuide" class="mt-4 px-4 py-2 rounded-xl text-xs font-bold bg-slate-50 dark:bg-slate-900/50 border border-slate-200/50 dark:border-slate-800/50 text-slate-500 dark:text-slate-400 flex items-center justify-center gap-2 select-none"></div>
-
-          <!-- Result Footer Action (Blog Deep Link only) -->
-          <div class="w-full flex items-center justify-center pt-6 mt-4 border-t border-slate-100 dark:border-slate-900">
-            <a 
-              href="#" 
-              id="btnReadStory" 
-              target="_blank" 
-              class="w-full md:w-auto px-8 py-3.5 bg-indigo-600 hover:bg-indigo-700 text-white rounded-2xl text-sm font-black shadow-lg shadow-indigo-500/10 active:scale-95 transition-all text-center select-none cursor-pointer"
-            >
-              📖 {t('buildsnap.result.button')}
-            </a>
+          <!-- Navigation buttons for wizard -->
+          <div class="flex items-center justify-between pt-4 border-t border-slate-250/40 dark:border-slate-850">
+            <button type="button" id="btnPrevStep" class="px-4 py-2 border border-slate-200 dark:border-slate-800 text-slate-500 hover:border-indigo-500 hover:text-indigo-500 text-xs sm:text-sm font-black rounded-lg transition-all cursor-pointer invisible">
+              {t('buildsnap.matcher.btn.prev')}
+            </button>
+            <button type="button" id="btnNextStep" class="px-6 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs sm:text-sm font-black rounded-lg shadow-md transition-all cursor-pointer active:scale-95">
+              {t('buildsnap.matcher.btn.next')}
+            </button>
+            <button type="button" id="btnDiagnose" class="px-6 py-2.5 bg-gradient-to-r from-violet-600 to-indigo-600 dark:from-violet-500 dark:to-indigo-500 hover:from-violet-700 hover:to-indigo-700 text-white text-xs sm:text-sm font-black rounded-lg shadow-lg shadow-indigo-500/20 active:scale-95 transition-all cursor-pointer hidden">
+              {t('buildsnap.matcher.btn.match')}
+            </button>
           </div>
+
         </div>
-      </div>
 
-      <!-- Matcher Empty State (When no match is found) -->
-      <div id="matcherEmptyState" class="hidden text-center py-10 mt-10 rounded-2xl bg-slate-100/50 dark:bg-slate-900/20 border border-slate-250/50 dark:border-slate-850">
-        <span class="text-3xl block mb-2">🤔</span>
-        <p class="text-xs sm:text-sm font-bold text-slate-500 dark:text-slate-400">{t('buildsnap.matcher.result.none')}</p>
+        <!-- Right Column (lg:col-span-7): Real-time Result / Pending Dashboard -->
+        <div class="lg:col-span-7 w-full">
+          
+          <!-- Matcher Result Card View (Neon Glass Frame) -->
+          <div id="resultContainer" class="hidden p-5 sm:p-6 md:p-8 rounded-2xl bg-white/80 dark:bg-slate-950/80 border border-indigo-500/30 shadow-2xl relative overflow-hidden transition-all duration-500">
+            <div class="absolute -right-20 -bottom-20 w-64 h-64 bg-indigo-500/10 dark:bg-indigo-500/15 rounded-full blur-[60px] pointer-events-none z-0"></div>
+
+            <div class="relative z-10 flex flex-col items-center text-center">
+              <span class="text-[10px] font-extrabold uppercase tracking-widest text-indigo-550 mb-3 block">{t('buildsnap.result.title')}</span>
+              
+              <!-- Quick Filter Tuning Chips (Real-time option tuning) -->
+              <div id="quickFilterChips" class="flex flex-wrap gap-1.5 justify-center mb-5 max-w-2xl select-none">
+                <!-- Dynamically injected chips -->
+              </div>
+
+              <div id="matcherStatsBadge" class="px-3.5 py-1 rounded-full text-[10px] sm:text-xs font-black bg-indigo-500/10 dark:bg-indigo-500/20 text-indigo-600 dark:text-indigo-400 border border-indigo-500/20 mb-4 tracking-wide select-none"></div>
+
+              <!-- Hero Illustration Image -->
+              <div class="w-full rounded-xl overflow-hidden border border-slate-200 dark:border-slate-850 shadow-lg bg-slate-900 mb-5 relative aspect-video max-h-[300px] w-full max-w-[500px]">
+                <img id="resultHeroImage" src="" class="w-full h-full object-cover opacity-90 transition-opacity duration-350" alt="Mentor Habit Illustration" />
+              </div>
+
+              <!-- Title and description (Min-height prevent Layout Shift during Shuffle) -->
+              <div class="max-w-2xl px-1 mb-5 min-h-[145px] flex flex-col justify-center">
+                <h3 id="resultMentorName" class="text-lg sm:text-xl font-black text-slate-900 dark:text-white mb-1.5"></h3>
+                <div id="resultHabitName" class="text-[10px] sm:text-xs font-bold text-indigo-650 dark:text-indigo-400 mb-3 uppercase tracking-wider"></div>
+                <p id="resultHabitQuote" class="text-xs sm:text-sm md:text-base text-slate-750 dark:text-slate-250 italic leading-relaxed max-w-lg mx-auto"></p>
+              </div>
+
+              <!-- Cycle guide instructions -->
+              <div id="matcherCycleGuide" class="mt-1 px-3.5 py-1.5 rounded-lg text-[10px] font-bold bg-slate-50 dark:bg-slate-900/50 border border-slate-200/50 dark:border-slate-800/50 text-slate-500 dark:text-slate-400 flex items-center justify-center gap-1.5 select-none"></div>
+
+              <!-- Action buttons for results (Shuffle, Read Story, Reset history, Start Over) -->
+              <div class="w-full flex flex-col sm:flex-row flex-wrap items-center justify-center gap-2 pt-5 mt-5 border-t border-slate-100 dark:border-slate-900">
+                <button type="button" id="btnShuffle" class="w-full sm:w-auto px-5 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs sm:text-sm font-black shadow-md transition-all active:scale-95 select-none cursor-pointer">
+                  {t('buildsnap.matcher.btn.shuffle')}
+                </button>
+                <a href="#" id="btnReadStory" target="_blank" class="w-full sm:w-auto px-5 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-xs sm:text-sm font-black shadow-md transition-all active:scale-95 text-center select-none cursor-pointer">
+                  📖 {t('buildsnap.result.button')}
+                </a>
+                <button type="button" id="btnResetHistory" class="w-full sm:w-auto px-5 py-2.5 border border-slate-200 dark:border-slate-800 text-slate-400 hover:text-rose-500 hover:border-rose-500 rounded-lg text-xs sm:text-sm font-black transition-all active:scale-95 select-none cursor-pointer">
+                  {t('buildsnap.matcher.btn.reset')}
+                </button>
+                <button type="button" id="btnStartOver" class="w-full sm:w-auto px-5 py-2.5 border border-indigo-500/20 text-indigo-650 hover:bg-indigo-600 hover:text-white dark:text-indigo-400 rounded-lg text-xs sm:text-sm font-black transition-all active:scale-95 select-none cursor-pointer flex items-center justify-center gap-1.5">
+                  {t('buildsnap.matcher.btn.startover')}
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Matcher Default Placeholder Guide (Before Diagnosis) -->
+          <div id="matcherWaitingGuide" class="text-center py-12 px-6 rounded-2xl border border-dashed border-slate-250 dark:border-slate-800/80 bg-slate-50/20 dark:bg-slate-900/10 flex flex-col items-center justify-center min-h-[380px]">
+            <span class="text-4xl mb-4 animate-pulse">🔮</span>
+            <h4 class="text-sm sm:text-base font-bold text-slate-700 dark:text-slate-300 mb-1.5 select-none">
+              {t('buildsnap.matcher.waiting.title')}
+            </h4>
+            <p class="text-[11px] sm:text-xs text-slate-500 dark:text-slate-400 max-w-sm leading-relaxed">
+              {t('buildsnap.matcher.waiting.desc')}
+            </p>
+          </div>
+
+          <!-- Matcher Empty State -->
+          <div id="matcherEmptyState" class="hidden text-center py-10 rounded-2xl bg-slate-100/50 dark:bg-slate-900/20 border border-slate-250/50 dark:border-slate-850 min-h-[380px] flex flex-col items-center justify-center">
+            <span class="text-3xl block mb-2">🤔</span>
+            <p class="text-xs sm:text-sm font-bold text-slate-500 dark:text-slate-400">{t('buildsnap.matcher.result.none')}</p>
+          </div>
+
+        </div>
+
       </div>
     </section>
-
-
     <!-- 4. Smart Nudge Banner Section -->
     <section class="mt-12 md:mt-16 max-w-4xl mx-auto rounded-[2rem] border border-indigo-500/15 bg-indigo-500/5 dark:border-indigo-500/25 dark:bg-indigo-900/10 p-6 md:p-8 flex flex-col md:flex-row items-center gap-6 relative z-10 overflow-hidden">
       <!-- Ambient light effect -->
@@ -601,529 +672,31 @@ const runtimeTranslations = {
           rel="noopener noreferrer" 
           class="px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-xl text-xs sm:text-sm font-extrabold shadow-md hover:scale-[1.01] active:scale-95 transition-all text-center"
         >
-          {currentLang === 'ko' ? 'Google Play 다운로드' : 'Download on Google Play'}
+          {tUi('app.download_google_play')}
         </a>
         <a 
           href={`/${currentLang}/apps/buildself/`} 
           class="px-6 py-3 bg-slate-900 text-white dark:bg-white dark:text-slate-900 hover:bg-slate-800 dark:hover:bg-slate-100 rounded-xl text-xs sm:text-sm font-extrabold shadow-md border border-slate-750 dark:border-slate-300 hover:scale-[1.01] active:scale-95 transition-all text-center"
         >
-          {currentLang === 'ko' ? '상세 알아보기 →' : 'Learn More →'}
+          {tUi('app.learn_more_buildself')}
         </a>
       </div>
     </section>
   </main>
 
   <!-- Client-side logic for diagnostics & canvas generator -->
-  <script is:inline define:vars={{ habits, currentLang, runtimeTranslations, eraMentors, timeOfDayCounts, totalHabits, focusPercent, creativePercent, simplicityPercent, mindPercent }}>
-    window.__BUILDSNAP_DATA__ = { habits, currentLang, runtimeTranslations, eraMentors, timeOfDayCounts, totalHabits, focusPercent, creativePercent, simplicityPercent, mindPercent };
+  <script is:inline define:vars={{ habits, currentLang, runtimeTranslations, eraMentors, timeOfDayCounts, totalHabits, focusPercent, creativePercent, simplicityPercent, mindPercent, habitsTranslations }}>
+    window.__BUILDSNAP_DATA__ = { habits, currentLang, runtimeTranslations, eraMentors, timeOfDayCounts, totalHabits, focusPercent, creativePercent, simplicityPercent, mindPercent, habitsTranslations };
   </script>
 
   <script>
-    import { matchHabit } from '../../../../utils/buildsnapMatcher';
+    import { initBuildSnapUI } from './_buildsnapClient';
 
     document.addEventListener('DOMContentLoaded', () => {
       const data = (window as any).__BUILDSNAP_DATA__;
       if (!data) return;
-      const { habits, currentLang, runtimeTranslations, eraMentors, timeOfDayCounts, totalHabits, focusPercent, creativePercent, simplicityPercent, mindPercent } = data;
 
-      const btnDiagnose = document.getElementById('btnDiagnose') as HTMLButtonElement;
-      const resultContainer = document.getElementById('resultContainer') as HTMLDivElement;
-      const matcherEmptyState = document.getElementById('matcherEmptyState') as HTMLDivElement;
-
-      // Result DOM nodes
-      const resultName = document.getElementById('resultName');
-      const resultHabitName = document.getElementById('resultHabitName');
-      const resultTags = document.getElementById('resultTags');
-      const resultLocation = document.getElementById('resultLocation');
-      const resultEra = document.getElementById('resultEra');
-      const resultLifespan = document.getElementById('resultLifespan');
-      const resultTime = document.getElementById('resultTime');
-      const resultHeroImage = document.getElementById('resultHeroImage');
-      const resultQuote = document.getElementById('resultQuote');
-      const btnReadStory = document.getElementById('btnReadStory');
-      const matcherStatsBadge = document.getElementById('matcherStatsBadge') as HTMLDivElement;
-      const matcherCycleGuide = document.getElementById('matcherCycleGuide') as HTMLDivElement;
-
-      let currentMatchedHabit = null;
-      let lastQ1 = '';
-      let lastQ2 = '';
-      let lastQ3 = '';
-      let currentPool = [];
-      let currentIndex = 0;
-
-      // ----------------------------------------------------
-      // 1. Dashboard Interactive Chart Events (Visual Highlights Coupling)
-      // ----------------------------------------------------
-      // A. Radial Time Clock hover actions & coupling
-      const radialLabel = document.getElementById('radialLabel');
-      const radialValue = document.getElementById('radialValue');
-      
-      const arcMorning = document.getElementById('arcMorning');
-      const arcAfternoon = document.getElementById('arcAfternoon');
-      const arcEvening = document.getElementById('arcEvening');
-      const arcNight = document.getElementById('arcNight');
-      const arcAnytime = document.getElementById('arcAnytime');
-      const allArcs = [arcMorning, arcAfternoon, arcEvening, arcNight, arcAnytime];
-
-      const setRadialInfo = (label, val, percent, activeArc) => {
-        radialLabel.textContent = label;
-        radialValue.textContent = `${val} (${percent}%)`;
-        
-        // Highlight active arc and dim others
-        allArcs.forEach(arc => {
-          if (arc) {
-            if (arc === activeArc) {
-              arc.setAttribute('stroke-width', '22');
-              arc.setAttribute('opacity', '1');
-            } else {
-              arc.setAttribute('stroke-width', '10');
-              if (arc === arcAnytime) {
-                arc.setAttribute('opacity', '0.15'); // Anytime은 비활성 시 더 흐리게 축소
-              } else {
-                arc.setAttribute('opacity', '0.25');
-              }
-            }
-          }
-        });
-      };
-
-      const resetRadialInfo = () => {
-        radialLabel.textContent = 'Total';
-        radialValue.textContent = totalHabits;
-        
-        // Restore all arcs to default
-        allArcs.forEach(arc => {
-          if (arc) {
-            arc.setAttribute('stroke-width', '14');
-            if (arc === arcAnytime) {
-              arc.setAttribute('opacity', '0.45'); // Anytime은 평소에 보조적인 흐릿함 유지
-            } else {
-              arc.setAttribute('opacity', '1');
-            }
-          }
-        });
-      };
-
-      let activeTimeId = null;
-
-      const updateTimeHighlightState = () => {
-        resetRadialInfo();
-        const timeTabs = [
-          { id: 'btnMorning', activeBorder: 'border-violet-500', defaultBorder: 'border-violet-200 dark:border-violet-900/40', arc: arcMorning },
-          { id: 'btnAfternoon', activeBorder: 'border-amber-500', defaultBorder: 'border-amber-200 dark:border-amber-900/40', arc: arcAfternoon },
-          { id: 'btnEvening', activeBorder: 'border-pink-500', defaultBorder: 'border-pink-200 dark:border-pink-900/40', arc: arcEvening },
-          { id: 'btnNight', activeBorder: 'border-blue-500', defaultBorder: 'border-blue-200 dark:border-blue-900/40', arc: arcNight },
-          { id: 'btnAnytime', activeBorder: 'border-indigo-500', defaultBorder: 'border-indigo-200 dark:border-indigo-900/40', arc: arcAnytime }
-        ];
-
-        timeTabs.forEach(tab => {
-          const el = document.getElementById(tab.id);
-          if (el) {
-            el.classList.remove(tab.activeBorder, 'scale-[1.03]', 'shadow-md');
-            tab.defaultBorder.split(' ').forEach(cls => {
-              if (cls) el.classList.add(cls);
-            });
-          }
-        });
-
-        if (activeTimeId) {
-          const activeTab = timeTabs.find(t => t.id === activeTimeId);
-          if (activeTab) {
-            const el = document.getElementById(activeTab.id);
-            if (el) {
-              activeTab.defaultBorder.split(' ').forEach(cls => {
-                if (cls) el.classList.remove(cls);
-              });
-              el.classList.add(activeTab.activeBorder, 'scale-[1.03]', 'shadow-md');
-            }
-            
-            let countVal = 0;
-            let translationKey = '';
-            if (activeTimeId === 'btnMorning') { countVal = timeOfDayCounts.morning; translationKey = runtimeTranslations.timeMorning; }
-            else if (activeTimeId === 'btnAfternoon') { countVal = timeOfDayCounts.afternoon; translationKey = runtimeTranslations.timeAfternoon; }
-            else if (activeTimeId === 'btnEvening') { countVal = timeOfDayCounts.evening; translationKey = runtimeTranslations.timeEvening; }
-            else if (activeTimeId === 'btnNight') { countVal = timeOfDayCounts.night; translationKey = runtimeTranslations.timeNight; }
-            else if (activeTimeId === 'btnAnytime') { countVal = timeOfDayCounts.anytime; translationKey = runtimeTranslations.timeAnytime; }
-
-            const pct = Math.round((countVal / totalHabits) * 100);
-            setRadialInfo(translationKey, countVal, pct, activeTab.arc);
-          }
-        }
-      };
-
-      const bindTimeEvent = (elId, activeBorderClass, translationKey, countVal, activeArc, isBtn = false, defaultBorderClasses = '', targetBtnId = null) => {
-        const el = document.getElementById(elId);
-        if (el) {
-          const pct = Math.round((countVal / totalHabits) * 100);
-          
-          el.addEventListener('mouseenter', () => {
-            if (activeTimeId) return;
-            setRadialInfo(translationKey, countVal, pct, activeArc);
-            if (isBtn) {
-              defaultBorderClasses.split(' ').forEach(cls => {
-                if (cls) el.classList.remove(cls);
-              });
-              el.classList.add(activeBorderClass, 'scale-[1.03]', 'shadow-md');
-            }
-          });
-          
-          el.addEventListener('mouseleave', () => {
-            if (activeTimeId) return;
-            resetRadialInfo();
-            if (isBtn) {
-              el.classList.remove(activeBorderClass, 'scale-[1.03]', 'shadow-md');
-              defaultBorderClasses.split(' ').forEach(cls => {
-                if (cls) el.classList.add(cls);
-              });
-            }
-          });
-
-          el.addEventListener('click', () => {
-            const clickTargetId = isBtn ? elId : targetBtnId;
-            if (!clickTargetId) return;
-
-            if (activeTimeId === clickTargetId) {
-              activeTimeId = null; 
-            } else {
-              activeTimeId = clickTargetId; 
-            }
-            updateTimeHighlightState();
-          });
-        }
-      };
-
-      // Bidirectional connection: clock arcs & card buttons with unified hover colors
-      bindTimeEvent('arcMorning', 'border-violet-500', runtimeTranslations.timeMorning, timeOfDayCounts.morning, arcMorning, false, '', 'btnMorning');
-      bindTimeEvent('arcAfternoon', 'border-amber-500', runtimeTranslations.timeAfternoon, timeOfDayCounts.afternoon, arcAfternoon, false, '', 'btnAfternoon');
-      bindTimeEvent('arcEvening', 'border-pink-500', runtimeTranslations.timeEvening, timeOfDayCounts.evening, arcEvening, false, '', 'btnEvening');
-      bindTimeEvent('arcNight', 'border-blue-500', runtimeTranslations.timeNight, timeOfDayCounts.night, arcNight, false, '', 'btnNight');
-      bindTimeEvent('arcAnytime', 'border-indigo-500', runtimeTranslations.timeAnytime, timeOfDayCounts.anytime, arcAnytime, false, '', 'btnAnytime');
-
-      bindTimeEvent('btnMorning', 'border-violet-500', runtimeTranslations.timeMorning, timeOfDayCounts.morning, arcMorning, true, 'border-violet-200 dark:border-violet-900/40');
-      bindTimeEvent('btnAfternoon', 'border-amber-500', runtimeTranslations.timeAfternoon, timeOfDayCounts.afternoon, arcAfternoon, true, 'border-amber-200 dark:border-amber-900/40');
-      bindTimeEvent('btnEvening', 'border-pink-500', runtimeTranslations.timeEvening, timeOfDayCounts.evening, arcEvening, true, 'border-pink-200 dark:border-pink-900/40');
-      bindTimeEvent('btnNight', 'border-blue-500', runtimeTranslations.timeNight, timeOfDayCounts.night, arcNight, true, 'border-blue-200 dark:border-blue-900/40');
-      bindTimeEvent('btnAnytime', 'border-indigo-500', runtimeTranslations.timeAnytime, timeOfDayCounts.anytime, arcAnytime, true, 'border-indigo-200 dark:border-indigo-900/40');
-
-
-      // B. Horizontal Bar Graph Legend Hover Actions & Coupling
-      const setBarInfo = (activeBarId) => {
-        const bars = ['legendFocus', 'legendCreative', 'legendSimplicity', 'legendMind'];
-        bars.forEach(id => {
-          const el = document.getElementById(id);
-          if (el) {
-            if (el.id === activeBarId) {
-              el.classList.add('scale-[1.02]', 'shadow-md');
-              el.classList.add('border-violet-500/50', 'dark:border-violet-500/30');
-              el.classList.remove('border-slate-100', 'dark:border-slate-900');
-            } else {
-              el.classList.add('opacity-40');
-            }
-          }
-        });
-      };
-
-      const resetBarInfo = () => {
-        const bars = ['legendFocus', 'legendCreative', 'legendSimplicity', 'legendMind'];
-        bars.forEach(id => {
-          const el = document.getElementById(id);
-          if (el) {
-            el.classList.remove('scale-[1.02]', 'shadow-md', 'opacity-40');
-            el.classList.remove('border-violet-500/50', 'dark:border-violet-500/30');
-            el.classList.add('border-slate-100', 'dark:border-slate-900');
-          }
-        });
-      };
-
-      const bindBarEvent = (legendId) => {
-        const legend = document.getElementById(legendId);
-        if (legend) {
-          legend.addEventListener('mouseenter', () => setBarInfo(legendId));
-          legend.addEventListener('mouseleave', resetBarInfo);
-        }
-      };
-
-      bindBarEvent('legendFocus');
-      bindBarEvent('legendCreative');
-      bindBarEvent('legendSimplicity');
-      bindBarEvent('legendMind');
-
-
-      // C. Chronological Wave Timeline Tooltips & Coupling
-      const eraTooltip = document.getElementById('eraTooltip');
-      const eraTooltipTitle = document.getElementById('eraTooltipTitle');
-      const eraTooltipMentors = document.getElementById('eraTooltipMentors');
-      const waveTimelineSvg = document.getElementById('waveTimelineSvg');
-      const waveAreaPath = document.getElementById('waveAreaPath');
-      const waveCurveLine = document.getElementById('waveCurveLine');
-
-      let activeEraId = null;
-
-      const updateEraHighlightState = () => {
-        eraTooltip.style.opacity = '0';
-        const guide = document.getElementById('waveGuideline');
-        if (guide) guide.remove();
-        if (waveCurveLine) {
-          waveCurveLine.setAttribute('stroke', '#8b5cf6');
-          waveCurveLine.setAttribute('stroke-width', '3');
-        }
-        if (waveAreaPath) waveAreaPath.removeAttribute('fill-opacity');
-
-        const eraTabs = [
-          { id: 'lblAncient', dotId: 'dotAncient', x: '10', name: 'Ancient Era', mentors: eraMentors.ancient },
-          { id: 'lblRenaissance', dotId: 'dotRenaissance', x: '105', name: 'Renaissance', mentors: eraMentors.renaissance },
-          { id: 'lblEarlyModern', dotId: 'dotEarlyModern', x: '200', name: 'Early Modern', mentors: eraMentors.earlyModern },
-          { id: 'lblModern', dotId: 'dotModern', x: '295', name: 'Modern Era', mentors: eraMentors.modern },
-          { id: 'lblContemporary', dotId: 'dotContemporary', x: '390', name: 'Contemporary', mentors: eraMentors.contemporary }
-        ];
-
-        eraTabs.forEach(tab => {
-          const dot = document.getElementById(tab.dotId);
-          if (dot) {
-            dot.setAttribute('r', '5.5');
-            dot.classList.remove('fill-violet-400');
-          }
-          const lbl = document.getElementById(tab.id);
-          if (lbl) {
-            lbl.classList.remove('border-indigo-500', 'translate-y-[-2px]', 'text-indigo-600', 'dark:text-indigo-400');
-            lbl.classList.add('border-slate-250', 'dark:border-slate-800', 'text-slate-500', 'dark:text-slate-400');
-            const txtSpan = lbl.querySelector('.btn-text');
-            if (txtSpan) {
-              txtSpan.classList.remove('text-indigo-600', 'dark:text-indigo-400');
-            }
-          }
-        });
-
-        if (activeEraId) {
-          const activeTab = eraTabs.find(t => t.id === activeEraId || t.dotId === activeEraId);
-          if (activeTab) {
-            const dot = document.getElementById(activeTab.dotId);
-            if (dot) {
-              dot.setAttribute('r', '12');
-              dot.classList.add('fill-violet-400');
-            }
-            const lbl = document.getElementById(activeTab.id);
-            if (lbl) {
-              lbl.classList.add('border-indigo-500', 'translate-y-[-2px]', 'text-indigo-600', 'dark:text-indigo-400');
-              lbl.classList.remove('border-slate-250', 'dark:border-slate-800', 'text-slate-500', 'dark:text-slate-400');
-              const txtSpan = lbl.querySelector('.btn-text');
-              if (txtSpan) {
-                txtSpan.classList.add('text-indigo-600', 'dark:text-indigo-400');
-              }
-            }
-            if (waveCurveLine) {
-              waveCurveLine.setAttribute('stroke', '#a78bfa');
-              waveCurveLine.setAttribute('stroke-width', '5');
-            }
-            if (waveAreaPath) waveAreaPath.setAttribute('fill-opacity', '0.65');
-
-            let guide = document.getElementById('waveGuideline');
-            if (!guide) {
-              guide = document.createElementNS('http://www.w3.org/2000/svg', 'line');
-              guide.setAttribute('id', 'waveGuideline');
-              guide.setAttribute('class', 'stroke-indigo-500/60 stroke-2');
-              guide.setAttribute('stroke-dasharray', '5 4');
-              waveTimelineSvg.appendChild(guide);
-            }
-            guide.setAttribute('x1', activeTab.x);
-            guide.setAttribute('y1', '10');
-            guide.setAttribute('x2', activeTab.x);
-            guide.setAttribute('y2', '110');
-
-            const activeLbl = document.getElementById(activeTab.id);
-            const activeTxtSpan = activeLbl ? activeLbl.querySelector('.btn-text') : null;
-            eraTooltipTitle.textContent = activeTxtSpan ? activeTxtSpan.textContent : activeTab.name;
-            eraTooltipMentors.textContent = '';
-            eraTooltip.style.opacity = '1';
-          }
-        }
-      };
-
-      const setEraHighlight = (dotId, lblId, eraName, mentorList, xCoord, yCoord) => {
-        const dot = document.getElementById(dotId);
-        if (dot) {
-          dot.setAttribute('r', '12');
-          dot.classList.add('fill-violet-400');
-        }
-
-        const lbl = document.getElementById(lblId);
-        if (lbl) {
-          lbl.classList.add('border-indigo-500', 'translate-y-[-2px]', 'text-indigo-600', 'dark:text-indigo-400');
-          lbl.classList.remove('border-slate-250', 'dark:border-slate-800', 'text-slate-500', 'dark:text-slate-400');
-          const txtSpan = lbl.querySelector('.btn-text');
-          if (txtSpan) {
-            txtSpan.classList.remove('text-slate-500', 'dark:text-slate-400');
-            txtSpan.classList.add('text-indigo-600', 'dark:text-indigo-400');
-          }
-        }
-
-        if (waveCurveLine) {
-          waveCurveLine.setAttribute('stroke', '#a78bfa');
-          waveCurveLine.setAttribute('stroke-width', '5');
-        }
-        if (waveAreaPath) {
-          waveAreaPath.setAttribute('fill-opacity', '0.65');
-        }
-
-        let guide = document.getElementById('waveGuideline');
-        if (!guide) {
-          guide = document.createElementNS('http://www.w3.org/2000/svg', 'line');
-          guide.setAttribute('id', 'waveGuideline');
-          guide.setAttribute('class', 'stroke-indigo-500/60 stroke-2');
-          guide.setAttribute('stroke-dasharray', '5 4');
-          waveTimelineSvg.appendChild(guide);
-        }
-        guide.setAttribute('x1', xCoord);
-        guide.setAttribute('y1', '10');
-        guide.setAttribute('x2', xCoord);
-        guide.setAttribute('y2', '110');
-
-        const activeTxtSpan = lbl ? lbl.querySelector('.btn-text') : null;
-        eraTooltipTitle.textContent = activeTxtSpan ? activeTxtSpan.textContent : eraName;
-        eraTooltipMentors.textContent = '';
-        eraTooltip.style.opacity = '1';
-      };
-
-      const resetEraHighlight = (dotId, lblId) => {
-        const dot = document.getElementById(dotId);
-        if (dot) {
-          dot.setAttribute('r', '5.5');
-          dot.classList.remove('fill-violet-400');
-        }
-
-        const lbl = document.getElementById(lblId);
-        if (lbl) {
-          lbl.classList.remove('border-indigo-500', 'translate-y-[-2px]', 'text-indigo-600', 'dark:text-indigo-400');
-          lbl.classList.add('border-slate-250', 'dark:border-slate-800', 'text-slate-500', 'dark:text-slate-400');
-          const txtSpan = lbl.querySelector('.btn-text');
-          if (txtSpan) {
-            txtSpan.classList.remove('text-indigo-600', 'dark:text-indigo-400');
-          }
-        }
-
-        if (waveCurveLine) {
-          waveCurveLine.setAttribute('stroke', '#8b5cf6');
-          waveCurveLine.setAttribute('stroke-width', '3');
-        }
-        if (waveAreaPath) {
-          waveAreaPath.removeAttribute('fill-opacity');
-        }
-
-        const guide = document.getElementById('waveGuideline');
-        if (guide) {
-          guide.remove();
-        }
-
-        eraTooltip.style.opacity = '0';
-      };
-
-      const bindEraEvent = (dotId, lblId, eraName, mentorList, xCoord, yCoord) => {
-        const dot = document.getElementById(dotId);
-        const lbl = document.getElementById(lblId);
-
-        const enterHandler = () => {
-          if (activeEraId) return;
-          setEraHighlight(dotId, lblId, eraName, mentorList, xCoord, yCoord);
-        };
-        const leaveHandler = () => {
-          if (activeEraId) return;
-          resetEraHighlight(dotId, lblId);
-        };
-
-        if (dot) {
-          dot.addEventListener('mouseenter', enterHandler);
-          dot.addEventListener('mouseleave', leaveHandler);
-          dot.addEventListener('click', () => {
-            activeEraId = activeEraId === dotId ? null : dotId;
-            updateEraHighlightState();
-          });
-        }
-        if (lbl) {
-          lbl.addEventListener('mouseenter', enterHandler);
-          lbl.addEventListener('mouseleave', leaveHandler);
-          lbl.addEventListener('click', () => {
-            activeEraId = activeEraId === lblId ? null : lblId;
-            updateEraHighlightState();
-          });
-        }
-      };
-
-      // Coordinates mapping on timeline curve: Ancient(10, 85), Renaissance(105, 100), EarlyModern(200, 92), Modern(295, 20), Contemporary(390, 75)
-      bindEraEvent('dotAncient', 'lblAncient', 'Ancient Era', eraMentors.ancient, '10', '85');
-      bindEraEvent('dotRenaissance', 'lblRenaissance', 'Renaissance', eraMentors.renaissance, '105', '100');
-      bindEraEvent('dotEarlyModern', 'lblEarlyModern', 'Early Modern', eraMentors.earlyModern, '200', '92');
-      bindEraEvent('dotModern', 'lblModern', 'Modern Era', eraMentors.modern, '295', '20');
-      bindEraEvent('dotContemporary', 'lblContemporary', 'Contemporary', eraMentors.contemporary, '390', '75');
-
-
-      // ----------------------------------------------------
-      // 2. Habit Diagnoser & Matcher Logic
-      // ----------------------------------------------------
-      btnDiagnose.addEventListener('click', () => {
-        // Get values
-        const q1Element = document.querySelector('input[name="q1"]:checked') as HTMLInputElement;
-        const q2Element = document.querySelector('input[name="q2"]:checked') as HTMLInputElement;
-        const q3Element = document.querySelector('input[name="q3"]:checked') as HTMLInputElement;
-
-        if (!q1Element || !q2Element || !q3Element) return;
-
-        const q1Val = q1Element.value;
-        const q2Val = q2Element.value;
-        const q3Val = q3Element.value;
-
-        // 조건 변경 확인
-        const isConditionChanged = q1Val !== lastQ1 || q2Val !== lastQ2 || q3Val !== lastQ3;
-
-        if (isConditionChanged) {
-          currentPool = matchHabit(habits, q1Val, q2Val, q3Val);
-          currentIndex = 0;
-          lastQ1 = q1Val;
-          lastQ2 = q2Val;
-          lastQ3 = q3Val;
-        } else {
-          if (currentPool.length > 0) {
-            currentIndex = (currentIndex + 1) % currentPool.length;
-          }
-        }
-
-        // 렌더링 로직 처리
-        if (currentPool.length > 0) {
-          const item = currentPool[currentIndex];
-          currentMatchedHabit = item;
-
-          if (resultHeroImage) {
-            resultHeroImage.src = `/images/blog/${item.id.replace(/-/g, '_')}.png`;
-          }
-
-          // 블로그 상세 가이드 딥링크 바인딩
-          btnReadStory.href = `/${currentLang}/blog/${item.id}/`;
-
-          // 결과 요약 배지 업데이트
-          if (matcherStatsBadge) {
-            matcherStatsBadge.textContent = runtimeTranslations.statsBadge.replace('$1', currentPool.length.toString());
-          }
-
-          // 순환 가이드 업데이트 (매칭 위인이 2명 이상일 때만 노출하여 인지 부하 감소)
-          if (matcherCycleGuide) {
-            if (currentPool.length > 1) {
-              matcherCycleGuide.classList.remove('hidden');
-              matcherCycleGuide.textContent = runtimeTranslations.cycleGuide
-                .replace('$1', (currentIndex + 1).toString())
-                .replace('$2', currentPool.length.toString());
-            } else {
-              matcherCycleGuide.classList.add('hidden');
-            }
-          }
-
-          // UI 토글 처리
-          resultContainer.classList.remove('hidden');
-          matcherEmptyState.classList.add('hidden');
-        } else {
-          resultContainer.classList.add('hidden');
-          matcherEmptyState.classList.remove('hidden');
-          currentMatchedHabit = null;
-        }
-      });
+      initBuildSnapUI(data);
     });
   </script>
 </Layout>

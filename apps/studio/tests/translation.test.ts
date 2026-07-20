@@ -646,6 +646,50 @@ describe('BuildSnap 번역 사전 구조 및 정합성 검증', () => {
 });
 
 // ========================================================
+// 검증 3.9: 글로벌 메인 UI 번역 사전 구조 및 정합성 검증
+// ========================================================
+describe('글로벌 메인 UI 번역 사전 구조 및 정합성 검증', () => {
+  const locales = ['en', 'ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'];
+  const defaultLocale = 'en';
+  const localesDir = path.join(__dirname, '../src/i18n/locales');
+
+  const getKeys = (locale: string) => {
+    const filePath = path.join(localesDir, `${locale}.json`);
+    const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    return { keys: Object.keys(content), content };
+  };
+
+  const { keys: defaultKeys } = getKeys(defaultLocale);
+
+  locales.forEach((locale) => {
+    if (locale === defaultLocale) return;
+
+    it(`[${locale.toUpperCase()}] 글로벌 메인 UI 번역 키 리스트가 기본 언어(${defaultLocale})와 완전히 일치해야 한다`, () => {
+      const { keys: localeKeys } = getKeys(locale);
+
+      // 1. 누락된 번역 키 검출
+      defaultKeys.forEach(key => {
+        expect(localeKeys, `오류: 글로벌 locales/${locale}.json 사전에 번역 키 "${key}"가 누락되었습니다.`).toContain(key);
+      });
+
+      // 2. 미사용/잘못 정의된 번역 키 검출
+      localeKeys.forEach(key => {
+        expect(defaultKeys, `오류: 글로벌 locales/${locale}.json 사전에 기본 언어(${defaultLocale})에 없는 잘못된 키 "${key}"가 정의되어 있습니다.`).toContain(key);
+      });
+    });
+
+    if (locale !== 'ko') {
+      it(`[${locale.toUpperCase()}] 글로벌 메인 UI 번역 사전(locales/${locale}.json)에 한글(번역 누출)이 포함되어 있지 않아야 한다`, () => {
+        const filePath = path.join(localesDir, `${locale}.json`);
+        const rawContent = fs.readFileSync(filePath, 'utf-8');
+        const hasKorean = /[\uAC00-\uD7A3\u3130-\u318F]/g.test(rawContent);
+        expect(hasKorean, `오류: 글로벌 locales/${locale}.json 사전에 번역되지 않은 한글이 포함되어 있습니다.`).toBe(false);
+      });
+    }
+  });
+});
+
+// ========================================================
 // 검증 4: 다국어 치환 유틸리티(useTranslations)의 런타임 동작 및 폴백 검증
 // ========================================================
 describe('다국어 치환 헬퍼 함수(useTranslations) 단위 테스트', () => {
@@ -695,35 +739,7 @@ describe('블로그 콘텐츠 전체 무결성 정밀 Linter 테스트', () => {
   }, 15000);
 });
 
-describe('blogIndex.ts 내의 다국어 리터럴 텍스트 검증', () => {
-  it('blogIndex.ts 소스 코드 내의 각 로케일별 검색 결과 텍스트가 정상적이어야 한다', () => {
-    const filePath = path.join(__dirname, '../src/utils/blogIndex.ts');
-    const content = fs.readFileSync(filePath, 'utf-8');
-    
-    // es 분기 내에 포르투갈어 단어인 artigo가 포함되지 않았고 스페인어 artículo가 적용되었는지 검사
-    const esSection = content.match(/lang === 'es'[\s\S]*?text = `([\s\S]*?)`/);
-    expect(esSection).not.toBeNull();
-    expect(esSection![1]).toContain('artículo');
-    expect(esSection![1]).not.toContain('artigo');
-    
-    const checkIsolation = (langKey: string, regexList: RegExp[]) => {
-      const escapedLang = langKey.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-      const match = content.match(new RegExp(`lang === '${escapedLang}'[\\s\\S]*?text = \`([\\s\\S]*?)\``));
-      expect(match, `lang === '${langKey}' 분기를 찾을 수 없습니다.`).not.toBeNull();
-      const text = match![1];
-      regexList.forEach(rx => {
-        expect(rx.test(text)).toBe(false);
-      });
-    };
-    
-    const hangulRegex = /[\uAC00-\uD7A3\u3130-\u318F]/;
-    const kanaRegex = /[\u3040-\u309F\u30A0-\u30FF]/;
-    
-    ['de', 'es', 'fr', 'pt', 'id'].forEach(l => {
-      checkIsolation(l, [hangulRegex, kanaRegex]);
-    });
-  });
-});
+
 
 
 

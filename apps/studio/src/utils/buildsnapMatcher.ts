@@ -1,6 +1,14 @@
 import type { Habit } from '../data/habits';
 
-export function matchHabit(habits: Habit[], q1Val: string, q2Val: string, q3Val: string): Habit[] {
+export function matchHabit(
+  habits: Habit[],
+  q1Val: string,
+  q2Val: string,
+  q3Val: string,
+  ageGroup: string = 'all',
+  gender: string = 'all',
+  showCounts: Record<string, number> = {}
+): Habit[] {
   const checkQ1 = (tagsStr: string, q1: string): boolean => {
     if (q1 === 'focus') {
       return ['집중', '몰입', '생산성', '의지', '의지력', '동기부여', '자기계발', '학습', '성공습관', '계획', '시간 관리'].some(k => tagsStr.includes(k));
@@ -28,12 +36,54 @@ export function matchHabit(habits: Habit[], q1Val: string, q2Val: string, q3Val:
     return q3 === 'easy' ? isEasy : !isEasy;
   };
 
+  const checkAge = (tagsStr: string, age: string): boolean => {
+    if (age === 'all') return true;
+    if (age === 'kids') {
+      return ['공부', '학습', '독서', '메모', '집중', '학교', '어린이', '청소년'].some(k => tagsStr.includes(k));
+    }
+    if (age === 'silver') {
+      return ['산책', '사색', '휴식', '성찰', '명상', '수면', '안정'].some(k => tagsStr.includes(k));
+    }
+    return true; // adult는 기본적으로 전체 풀 수용
+  };
+
+  const checkGender = (h: Habit, g: string): boolean => {
+    if (g === 'all') return true;
+    return h.gender === g;
+  };
+
+  // Step 1: 5가지 조건 완전 일치 필터링
   let matched = habits.filter(h => {
     const tagsStr = (h.tags || []).join(' ');
-    return checkQ1(tagsStr, q1Val) && checkQ2(tagsStr, q2Val) && checkQ3(h, q3Val);
+    return checkQ1(tagsStr, q1Val) && 
+           checkQ2(tagsStr, q2Val) && 
+           checkQ3(h, q3Val) &&
+           checkAge(tagsStr, ageGroup) &&
+           checkGender(h, gender);
   });
 
-  // Fallback Step 1: 3가지 조건 동시 만족 위인이 없을 시, 개선 목표(Q1)와 준비 장벽(Q3) 필터만 적용
+  // Step 2 Fallback: 성별 조건 완화
+  if (matched.length === 0) {
+    matched = habits.filter(h => {
+      const tagsStr = (h.tags || []).join(' ');
+      return checkQ1(tagsStr, q1Val) && 
+             checkQ2(tagsStr, q2Val) && 
+             checkQ3(h, q3Val) &&
+             checkAge(tagsStr, ageGroup);
+    });
+  }
+
+  // Step 3 Fallback: 연령대 조건 완화 (기존 3조건 매칭 상태)
+  if (matched.length === 0) {
+    matched = habits.filter(h => {
+      const tagsStr = (h.tags || []).join(' ');
+      return checkQ1(tagsStr, q1Val) && 
+             checkQ2(tagsStr, q2Val) && 
+             checkQ3(h, q3Val);
+    });
+  }
+
+  // Step 4 Fallback: Q2 스타일 조건 완화
   if (matched.length === 0) {
     matched = habits.filter(h => {
       const tagsStr = (h.tags || []).join(' ');
@@ -41,7 +91,7 @@ export function matchHabit(habits: Habit[], q1Val: string, q2Val: string, q3Val:
     });
   }
 
-  // Fallback Step 2: 1단계 실패 시 핵심 목표(Q1) 카테고리만 매칭되는 위인 탐색
+  // Step 5 Fallback: Q3 장벽 조건 완화
   if (matched.length === 0) {
     matched = habits.filter(h => {
       const tagsStr = (h.tags || []).join(' ');
@@ -49,10 +99,52 @@ export function matchHabit(habits: Habit[], q1Val: string, q2Val: string, q3Val:
     });
   }
 
-  // Fallback Step 3: 최후 폴백 (전체 위인 무작위 추천)
+  // Step 6 Fallback: 최후 보장 (전체 위인 반환)
   if (matched.length === 0) {
     matched = habits;
   }
 
-  return matched;
+  // 2단계: 필터링되어 걸러진 위인 후보군들(matched) 안에서 소프트 스코어링을 통해 최종 노출 순서를 정렬함
+  const scoredHabits = matched.map(h => {
+    const tagsStr = (h.tags || []).join(' ');
+    let score = 0;
+
+    // A. 연령대(Age Group) 보정 가중치
+    if (ageGroup === 'kids') {
+      // 어린이를 위한 학업, 공부, 집중, 독서, 메모 등 명확한 아동/청소년 성향 매칭
+      const isKidsFriendly = ['공부', '학습', '독서', '메모', '집중', '학교', '어린이', '청소년'].some(k => tagsStr.includes(k));
+      if (isKidsFriendly) score += 10;
+    } else if (ageGroup === 'silver') {
+      // 실버 세대를 위한 부드러운 산책, 사색, 휴식, 성찰, 명상
+      const isSilverFriendly = ['산책', '사색', '휴식', '성찰', '명상', '수면', '안정'].some(k => tagsStr.includes(k));
+      if (isSilverFriendly) score += 10;
+    } else {
+      score += 10;
+    }
+
+
+    // B. 성별(Gender) 보정 가중치
+    if (gender !== 'all' && h.gender === gender) {
+      score += 10;
+    }
+
+    // C. 로컬 노출 가중치 (Show Count) 보정 연산
+    const showCount = showCounts[h.id] || 0;
+    const exposureBonus = (1 / (showCount + 1)) * 5; // 최대 5점 가산
+    score += exposureBonus;
+
+    return { habit: h, score };
+  });
+
+  // 점수 내림차순 정렬 (동점 시 ID 정렬 유지)
+  scoredHabits.sort((a, b) => {
+    if (b.score !== a.score) {
+      return b.score - a.score;
+    }
+    return a.habit.id.localeCompare(b.habit.id);
+  });
+
+  return scoredHabits.map(sh => sh.habit);
 }
+
+

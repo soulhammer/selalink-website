@@ -39,6 +39,7 @@
   "app.logself.meta.title": "logSelf - Diario Personal Encriptado en el Dispositivo | SelaLink",
   "app.logself.status": "App gratis",
   "app.logself.supported": "🌐 9 idiomas",
+  "app.logself.hero.tag": "Pensamiento de Hoy",
   "app.petself.status": "Próximamente",
   "app.freshself.title": "FreshSelf",
   "app.freshself.desc": "Gestiona de forma inteligente las fechas de caducidad de tus alimentos y productos sin desperdiciar nada. Crea espacios de almacenamiento personalizados en un entorno 100% privado y sin conexión, y analiza fácilmente tus tasas de consumo.",
@@ -306,5 +307,19 @@
   "cta.action.learn_more": "Saber más",
   "cta.petself.title": "🐾 FreshSelf para Mascotas",
   "cta.petself.desc": "Gestione los suplementos, alimentos y premios de su mascota con FreshSelf para mantenerlos siempre frescos y seguros.",
-  "cta.petself.btn": "Descargar FreshSelf →"
+  "cta.petself.btn": "Descargar FreshSelf →",
+  "app.back_to_studio": "Volver a SelaLink Studio",
+  "app.back_to_home": "Volver al inicio",
+  "buildsnap.matcher.btn.prev": "Paso Anterior",
+  "buildsnap.matcher.btn.next": "Paso Siguiente",
+  "app.data_deletion_guide": "Guía para solicitar la eliminación de datos",
+  "app.download_google_play": "Descargar en Google Play",
+  "app.learn_more_freshself": "Saber más sobre FreshSelf",
+  "app.learn_more_buildself": "Saber más sobre BuildSelf",
+  "app.coming_soon": "Próximamente",
+  "share.naver.blog": "Blog",
+  "share.copy": "Copiar",
+  "lineup.guide.title": "SelaLink Product Series",
+  "blog.btn.load_more": "Cargar más",
+  "blog.search.results_count": "Se encontraron {count} artículo(s) que coinciden con tus criterios."
 }

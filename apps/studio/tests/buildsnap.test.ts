@@ -140,3 +140,89 @@ describe('BuildSnap 순차 순환 매칭 클라이언트 상태 검증', () => {
     expect(matchedPool[currentIndex].id).toBe(firstMentor.id);
   });
 });
+
+describe('BuildSnap 연령대, 성별 및 로컬 노출 가중치(Show Count) 소프트 스코어링 보정 테스트', () => {
+  const customMockHabits: Habit[] = [
+    {
+      id: 'mentor-kids-male',
+      name: '세종대왕',
+      tags: ['#몰입', '#공부', '#새벽'],
+      gender: 'male', era: '근세', location: '한국', lifespan: '', birthYear: 0, bio: '', habitName: '', timeOfDay: 'morning', frequency: '', historicalStory: '', sciencePrinciples: '', quote: '', trigger: '', modernGuide: [], actionName: '', sources: [],
+      requiredItems: []
+    },
+    {
+      id: 'mentor-adults-female',
+      name: '퀴리부인',
+      tags: ['#몰입', '#연구', '#실험'],
+      gender: 'female', era: '현대', location: '프랑스', lifespan: '', birthYear: 0, bio: '', habitName: '', timeOfDay: 'anytime', frequency: '', historicalStory: '', sciencePrinciples: '', quote: '', trigger: '', modernGuide: [], actionName: '', sources: [],
+      requiredItems: ['라듐']
+    },
+    {
+      id: 'mentor-silver-male',
+      name: '칸트',
+      tags: ['#사색', '#산책', '#규칙'],
+      gender: 'male', era: '근세', location: '독일', lifespan: '', birthYear: 0, bio: '', habitName: '', timeOfDay: 'afternoon', frequency: '', historicalStory: '', sciencePrinciples: '', quote: '', trigger: '', modernGuide: [], actionName: '', sources: [],
+      requiredItems: []
+    }
+  ];
+
+  it('연령대(kids)가 입력으로 주어지면, 아이들의 학업과 성장 단계에 가장 알맞은 위인이 높은 유사도 가중치를 받아 추천되어야 한다', () => {
+    // Q1: focus (몰입), Q2: mental, Q3: easy, ageGroup: kids, gender: all, showCounts: {}
+    const matched = matchHabit(customMockHabits, 'focus', 'mental', 'easy', 'kids', 'all', {});
+    // 'mentor-kids-male' (세종대왕)이 추천 순위 1위에 올라와야 함
+    expect(matched.length).toBeGreaterThan(0);
+    expect(matched[0].id).toBe('mentor-kids-male');
+  });
+
+  it('성별(female) 조건이 주어지면 여성이 우선 순위에 반영되어 추천을 보정해야 한다', () => {
+    // Q1: focus (몰입), Q2: mental, Q3: hard, ageGroup: adult, gender: female, showCounts: {}
+    const matched = matchHabit(customMockHabits, 'focus', 'mental', 'hard', 'adult', 'female', {});
+    expect(matched.length).toBeGreaterThan(0);
+    expect(matched[0].id).toBe('mentor-adults-female');
+  });
+
+  it('유사도 점수가 비등한 경우, localStorage에서 수집된 노출 횟수(Show Count)가 더 적은 위인이 리스트 최상단(우선 노출)에 위치해야 한다', () => {
+    // 세종대왕('mentor-kids-male')과 퀴리부인('mentor-adults-female')은 둘 다 focus 성향임.
+    // 하지만 세종대왕의 노출 빈도가 5회로 높고, 퀴리부인의 노출 빈도가 0회인 경우, 퀴리부인이 우선 추천되어야 함.
+    const showCounts = { 'mentor-kids-male': 5, 'mentor-adults-female': 0, 'mentor-silver-male': 0 };
+    const matched = matchHabit(customMockHabits, 'focus', 'mental', 'easy', 'adult', 'all', showCounts);
+    
+    expect(matched.length).toBeGreaterThan(1);
+    expect(matched[0].id).toBe('mentor-adults-female'); // 노출이 적었던 퀴리가 1위로 상승
+  });
+});
+
+describe('BuildSnap 연령대 및 성별 하드 필터링 전수 조합 무결성 검증', () => {
+  it('144가지 전체 조건 조합에 대해 결과 배열이 최소 1명 이상이어야 하며 중복이 전혀 없어야 한다', () => {
+    const q1Options = ['focus', 'creative', 'simplicity', 'mind'];
+    const q2Options = ['physical', 'mental'];
+    const q3Options = ['easy', 'hard'];
+    const ageOptions = ['kids', 'adult', 'silver'];
+    const genderOptions = ['male', 'female', 'all'];
+
+    let testCount = 0;
+
+    for (const q1 of q1Options) {
+      for (const q2 of q2Options) {
+        for (const q3 of q3Options) {
+          for (const age of ageOptions) {
+            for (const gen of genderOptions) {
+              testCount++;
+              const matched = matchHabit(realHabits, q1, q2, q3, age, gen);
+              
+              // 1. 모든 조합에 대해 반드시 최소 1명 이상 추천됨을 검증 (텅 빔 방지)
+              expect(matched.length).toBeGreaterThan(0);
+              
+              // 2. 결과 리스트에 동일 위인이 중복해서 튀어나오지 않는지 ID 고유성 검증
+              const uniqueIds = new Set(matched.map(h => h.id));
+              expect(uniqueIds.size).toBe(matched.length);
+            }
+          }
+        }
+      }
+    }
+
+    // 총 4 * 2 * 2 * 3 * 3 = 144가지 조합이 정상 수행되었는지 보증
+    expect(testCount).toBe(144);
+  });
+});

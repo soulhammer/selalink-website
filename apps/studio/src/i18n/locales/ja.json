@@ -39,6 +39,7 @@
   "app.logself.meta.title": "logSelf | オンデバイス暗号化個人日記＆ライフログ",
   "app.logself.status": "無料アプリ",
   "app.logself.supported": "🌐 9ヶ国語対応",
+  "app.logself.hero.tag": "今日の思考",
   "app.petself.status": "リリース準備中",
   "app.freshself.title": "FreshSelf",
   "app.freshself.desc": "食材や日用品の賞味期限を無駄なくスマートに管理するFreshSelf。サーバー連携なしの100%ローカル・オフライン環境で保管スペースを自由に構成し、消費率分析レポートを確認しましょう。",
@@ -306,5 +307,19 @@
   "cta.action.learn_more": "詳細を見る",
   "cta.petself.title": "🐾 ペットのためのFreshSelf",
   "cta.petself.desc": "ペット of サプリメント、フード、手作りおやつの消費期限をFreshSelfで賢く管理し、常に新鮮に保ちましょう。",
-  "cta.petself.btn": "FreshSelfをダウンロード →"
+  "cta.petself.btn": "FreshSelfをダウンロード →",
+  "app.back_to_studio": "SelaLink Studioに戻る",
+  "app.back_to_home": "ホームに戻る",
+  "buildsnap.matcher.btn.prev": "前の段階",
+  "buildsnap.matcher.btn.next": "次の段階",
+  "app.data_deletion_guide": "データ削除要求のご案内",
+  "app.download_google_play": "Google Playでダウンロード",
+  "app.learn_more_freshself": "FreshSelfの詳細を見る",
+  "app.learn_more_buildself": "BuildSelfの詳細を見る",
+  "app.coming_soon": "近日公開",
+  "share.naver.blog": "ブログ",
+  "share.copy": "コピー",
+  "lineup.guide.title": "SelaLink Product Series",
+  "blog.btn.load_more": "もっと見る",
+  "blog.search.results_count": "合計 {count} 件の記事が見つかりました。"
 }

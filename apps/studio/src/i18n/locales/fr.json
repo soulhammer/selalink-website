@@ -39,6 +39,7 @@
   "app.logself.meta.title": "logSelf - Journal Personnel Chiffré sur l'Appareil | SelaLink",
   "app.logself.status": "App gratuite",
   "app.logself.supported": "🌐 9 langues",
+  "app.logself.hero.tag": "Pensée du Jour",
   "app.petself.status": "Bientôt disponible",
   "app.freshself.title": "FreshSelf",
   "app.freshself.desc": "Gerez intelligemment les dates de péremption de vos aliments et produits ménagers sans gaspillage. Créez des espaces de stockage personnalisés dans un environnement 100 % privé et hors ligne, et analysez facilement votre consommation.",
@@ -306,5 +307,19 @@
   "cta.action.learn_more": "En savoir plus",
   "cta.petself.title": "🐾 FreshSelf pour Animaux",
   "cta.petself.desc": "Gérez intelligemment les compléments, croquettes et friandises de votre animal avec FreshSelf pour les garder toujours frais.",
-  "cta.petself.btn": "Télécharger FreshSelf →"
+  "cta.petself.btn": "Télécharger FreshSelf →",
+  "app.back_to_studio": "Retour à SelaLink Studio",
+  "app.back_to_home": "Retour à l'accueil",
+  "buildsnap.matcher.btn.prev": "Étape Précédente",
+  "buildsnap.matcher.btn.next": "Étape Suivante",
+  "app.data_deletion_guide": "Guide pour demander la suppression des données",
+  "app.download_google_play": "Télécharger sur Google Play",
+  "app.learn_more_freshself": "En savoir plus sur FreshSelf",
+  "app.learn_more_buildself": "En savoir plus sur BuildSelf",
+  "app.coming_soon": "Bientôt disponible",
+  "share.naver.blog": "Blog",
+  "share.copy": "Copier",
+  "lineup.guide.title": "SelaLink Product Series",
+  "blog.btn.load_more": "Charger plus",
+  "blog.search.results_count": "Trouvé {count} article(s) correspondant à vos critères."
 }

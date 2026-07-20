@@ -39,6 +39,7 @@
   "app.logself.meta.title": "로그셀프 logSelf | 온디바이스 암호화 개인 일지 및 라이프 로그",
   "app.logself.status": "무료 앱",
   "app.logself.supported": "🌐 9개 언어 지원",
+  "app.logself.hero.tag": "오늘의 생각",
   "app.petself.status": "출시 준비 중",
   "ls.hero.subtitle": "100% 온디바이스 암호화 라이프 로그",
   "ls.hero.title": "당신의 일상, 당신의 기록.\n완벽한 프라이버시를 보장합니다.",
@@ -306,5 +307,19 @@
   "cta.action.learn_more": "자세히 보기",
   "cta.petself.title": "🐾 반려동물을 위한 FreshSelf",
   "cta.petself.desc": "우리 아이의 영양제, 사료, 수제 간식 소비기한을 FreshSelf로 똑똑하게 관리하고 늘 신선하게 유지하세요.",
-  "cta.petself.btn": "FreshSelf 다운로드 →"
+  "cta.petself.btn": "FreshSelf 다운로드 →",
+  "app.back_to_studio": "SelaLink Studio로 돌아가기",
+  "app.back_to_home": "홈으로 돌아가기",
+  "buildsnap.matcher.btn.prev": "이전 단계",
+  "buildsnap.matcher.btn.next": "다음 단계",
+  "app.data_deletion_guide": "데이터 삭제 요청 안내",
+  "app.download_google_play": "Google Play 다운로드",
+  "app.learn_more_freshself": "FreshSelf 상세 정보 알아보기",
+  "app.learn_more_buildself": "BuildSelf 상세 정보 알아보기",
+  "app.coming_soon": "출시 예정",
+  "share.naver.blog": "블로그",
+  "share.copy": "복사",
+  "lineup.guide.title": "SelaLink Product Series",
+  "blog.btn.load_more": "더보기",
+  "blog.search.results_count": "총 {count}개의 포스트가 발견되었습니다."
 }

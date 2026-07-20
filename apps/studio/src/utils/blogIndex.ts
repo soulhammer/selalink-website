@@ -138,29 +138,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 4. 결과 개수 피드백 업데이트
     if (searchCount) {
-      const lang = document.documentElement.lang || 'ko';
-      let text = '';
       if (query.length > 0 || activeFilter !== 'all') {
-        if (lang === 'ko') {
-          text = `총 ${matchCount}개의 포스트가 발견되었습니다.`;
-        } else if (lang === 'ja') {
-          text = `合計 ${matchCount} 件の記事が見つかりました。`;
-        } else if (lang === 'zh') {
-          text = `共找到 ${matchCount} 篇符合条件的文章。`;
-        } else if (lang === 'es') {
-          text = `Se encontraron ${matchCount} artículo(s) que coinciden con tus criterios.`;
-        } else if (lang === 'fr') {
-          text = `Trouvé ${matchCount} article(s) correspondant à vos critères.`;
-        } else if (lang === 'de') {
-          text = `${matchCount} Beitrag/Beiträge gefunden, die Ihren Kriterien entsprechen.`;
-        } else if (lang === 'pt') {
-          text = `Encontrado(s) ${matchCount} artigo(s) correspondente(s) aos seus critérios.`;
-        } else if (lang === 'id') {
-          text = `Ditemukan ${matchCount} artikel yang sesuai dengan kriteria Anda.`;
-        } else {
-          text = `Found ${matchCount} post(s) matching your criteria.`;
-        }
-        searchCount.textContent = text;
+        const template = searchCount.getAttribute('data-results-template') || 'Found {count} post(s) matching your criteria.';
+        searchCount.textContent = template.replace('{count}', matchCount.toString());
         searchCount.classList.remove('opacity-0');
       } else {
         searchCount.textContent = '';

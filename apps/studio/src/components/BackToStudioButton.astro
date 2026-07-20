@@ -1,10 +1,13 @@
 ---
+import { useTranslations, languages } from '../i18n/ui';
+
 interface Props {
   lang: string;
   class?: string;
 }
 
 const { lang, class: className = '' } = Astro.props;
+const t = useTranslations(lang as keyof typeof languages);
 ---
 
 <div class={className}>
@@ -27,6 +30,6 @@ const { lang, class: className = '' } = Astro.props;
     >
       <path d="m15 18-6-6 6-6"/>
     </svg>
-    <span class="text-sm tracking-wide">Back to SelaLink Studio</span>
+    <span class="text-sm tracking-wide">{t('app.back_to_studio') || 'Back to SelaLink Studio'}</span>
   </a>
 </div>
