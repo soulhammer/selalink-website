@@ -1,7 +1,7 @@
 /**
  * @vitest-environment jsdom
  */
-import { describe, it, expect, beforeEach, vi } from 'vitest';
+import { describe, it, expect, beforeEach, afterEach, vi } from 'vitest';
 
 describe('FreshSnap 가상 냉장고 UI 인터랙션 JSDOM 통합 검증 (TDD)', () => {
   
@@ -60,6 +60,10 @@ describe('FreshSnap 가상 냉장고 UI 인터랙션 JSDOM 통합 검증 (TDD)',
   beforeEach(() => {
     vi.resetModules();
     
+    // 시스템 시각을 2026-07-20으로 고정 (D-25 기댓값 유지)
+    vi.useFakeTimers({ toFake: ['Date'] });
+    vi.setSystemTime(new Date('2026-07-20T12:00:00Z'));
+    
     // localStorage Mocking
     let store: Record<string, string> = {};
     const mockLocalStorage = {
@@ -77,6 +81,10 @@ describe('FreshSnap 가상 냉장고 UI 인터랙션 JSDOM 통합 검증 (TDD)',
     window.localStorage.clear();
     document.documentElement.lang = 'ko';
     setupMockDOM();
+  });
+
+  afterEach(() => {
+    vi.useRealTimers();
   });
 
   it('1. 가상 냉장고에 등록된 아이템이 있으면 대시보드가 정상 렌더링되는가', async () => {
