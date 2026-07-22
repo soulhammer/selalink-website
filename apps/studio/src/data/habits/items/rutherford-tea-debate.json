@@ -1,0 +1,37 @@
+{
+  "id": "rutherford-tea-debate",
+  "name": "어네스트 러더퍼드",
+  "gender": "male",
+  "era": "근대",
+  "location": "뉴질랜드, 영국",
+  "lifespan": "1871 - 1937",
+  "birthYear": 1871,
+  "bio": "원자핵을 발견하여 노벨 화학상을 수상하고 '핵물리학의 아버지'라 불리는 세기의 물리학자입니다.",
+  "habitName": "오후 4시 연구실 비공식 티 타임과 소크라테스식 자유 토론",
+  "tags": [
+    "#소통",
+    "#아이디어",
+    "#창의",
+    "#몰입"
+  ],
+  "timeOfDay": "afternoon",
+  "requiredItems": [
+    "홍차 한 잔",
+    "동료 또는 노트"
+  ],
+  "frequency": "daily",
+  "historicalStory": "카벤디시 연구소의 소장이었던 러더퍼드는 매일 오후 4시가 되면 모든 연구원들과 함께 연구실 중앙에 모여 홍차와 비스킷을 나누는 '티 타임'을 가졌습니다. 이 자리에서는 직급이나 계급에 상관없이 아이디어를 자유롭게 공격하고 비판하며 토론했습니다. 그는 편안하고 자유로운 티 타임을 통해 알파 입자 산란 실험과 알파 입자 인공 변환이라는 인류사적 대발견의 영감을 얻었습니다.",
+  "sciencePrinciples": "수평적 분위기에서의 비공식적 대화는 심리적 안전감(Psychological Safety)을 형성하여 뇌의 인지적 방어 기제를 낮추고 집단 지성과 집단 창의성(Collective Creativity)을 극대화합니다.",
+  "quote": "우리가 돈이 없다는 것은 생각을 더 많이 해야 한다는 뜻이다.",
+  "trigger": "혼자 고민해도 아이디어가 나오지 않거나 연구가 정체되었을 때",
+  "modernGuide": [
+    "오후 4시경 15분간 따뜻한 차나 음료를 준비하고 동료나 친구와 가벼운 비공식 미팅을 갖습니다.",
+    "정해진 보고 형식을 없애고 피드백에 대한 어떤 감정적 방어도 하지 않은 채 자유롭게 아이디어를 주고받습니다.",
+    "토론 중 나온 새로운 시각이나 인지적 자극을 키워드로 기록합니다."
+  ],
+  "actionName": "오후 4시 15분 소크라테스 티 타임 (러더퍼드 루틴)",
+  "sources": [
+    "A.S. Eve, *Rutherford: Being the Life and Letters of the Rt. Hon. Lord Rutherford* (1939)",
+    "Cavendish Laboratory Historical Archives"
+  ]
+}

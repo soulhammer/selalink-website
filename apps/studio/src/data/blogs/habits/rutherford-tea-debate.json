@@ -1,0 +1,218 @@
+{
+  "rutherford-tea-debate": {
+    "title": {
+      "ko": "원자핵 발견자의 창의성 비결? 어네스트 러더퍼드의 오후 4시 티 타임 루틴",
+      "en": "Father of Nuclear Physics' Secret? Ernest Rutherford's 4 PM Tea Debate Routine",
+      "ja": "原子核を発見した現代物理学の巨匠、アーネスト・ラザフォードの午後4時ティータイム",
+      "zh": "原子核发现者的创造力秘诀？欧内斯特·卢瑟福的下午4点茶会讨论习惯",
+      "es": "¿El secreto del padre de la física nuclear? La rutina de té a las 4 PM de Ernest Rutherford",
+      "fr": "Le secret du père de la physique nucléaire ? La routine du thé de 16h d'Ernest Rutherford",
+      "de": "Das Geheimnis des Vaters der Kernphysik? Ernest Rutherfords 16-Uhr-Tee-Routine",
+      "pt": "O segredo do pai da física nuclear? A rotina de chá às 16h de Ernest Rutherford",
+      "id": "Rahasia Bapak Fisika Nuklir? Rutinitas Diskusi Teh Jam 4 Sore Ernest Rutherford"
+    },
+    "description": {
+      "ko": "핵물리학의 아버지 러더퍼드. 매일 오후 4시 동료들과 홍차를 마시며 격식 없는 토론을 나눠 인류 최초의 원자핵을 발견한 소통 루틴.",
+      "en": "Discover how Rutherford held 4 PM tea debates to foster psychological safety and split the atom.",
+      "ja": "毎日午後4時に紅茶を飲みながら自由な討論を行い、原子核を発見したラザフォードの習慣。",
+      "zh": "介绍“核物理之父”卢瑟福每天下午4点同同事饮茶自由讨论、建立心理安全感并发现原子核的沟通习惯。",
+      "es": "Descubra cómo Rutherford mantenía debates a las 4 PM con té para fomentar la seguridad psicológica.",
+      "fr": "Découvrez comment Rutherford organisait des débats à 16h autour d'un thé pour fendre l'atome.",
+      "de": "Erfahren Sie, wie Rutherford um 16 Uhr Tee-Debatten führte, um den Atomkern zu entdecken.",
+      "pt": "Descubra como Rutherford realizava debates às 16h tomando chá para promover a criatividade.",
+      "id": "Temukan cara Rutherford menggelar diskusi teh jam 4 sore untuk merangsang kreativitas tim."
+    },
+    "authority": {
+      "ko": "전기 'Rutherford: Being the Life and Letters' 및 카벤디시 연구소 보관 사료",
+      "en": "Biography 'Rutherford: Life and Letters' & Cavendish Laboratory Archives",
+      "ja": "評伝「Rutherford: Life and Letters」およびキャベンディッシュ研究所史料",
+      "zh": "传记《Rutherford: Life and Letters》与卡文迪许实验室史料",
+      "es": "Biografía 'Rutherford: Life and Letters' y archivos del Laboratorio Cavendish",
+      "fr": "Biographie 'Rutherford: Life and Letters' & archives du Laboratoire Cavendish",
+      "de": "Biografie 'Rutherford: Life and Letters' & Archive des Cavendish-Laboratoriums",
+      "pt": "Biografia 'Rutherford: Life and Letters' e arquivos do Laboratório Cavendish",
+      "id": "Biografi 'Rutherford: Life and Letters' & Arsip Laboratorium Cavendish"
+    },
+    "intro": {
+      "ko": "원자핵의 존재를 최초로 밝혀내 노벨 화학상을 수상하고 '핵물리학의 아버지'라 불리는 현대 물리학의 거장, 어네스트 러더퍼드. 집단 창의성을 이끌어내어 수많은 위대한 대발견을 일궈낸 그의 연구소 분위기의 비결은 무엇이었을까요? ☕\n\n러더퍼드는 카벤디시 연구소 소장 시절 매일 오후 4시가 되면 연구원들과 함께 연구실 중앙에 모여 홍차와 비스킷을 나누며 비공식적인 티 타임을 가졌습니다. 이 자리에서는 직급이나 나이에 상관없이 누구나 자유롭게 논쟁하고 아이디어를 제안했습니다. 격식 없는 수평적 토론 루틴은 러더퍼드와 그의 팀이 원자핵을 발견하는 결정적 영감을 선사했습니다.\n\n오늘 BuildSelf에서는 어네스트 러더퍼드의 오후 4시 소크라테스 티 타임 루틴과 심리적 안전감의 과학을 소개합니다.",
+      "en": "Ernest Rutherford, the father of nuclear physics who discovered the atomic nucleus. Where did his team's breakthroughs come from? ☕\n\nEvery afternoon at 4 PM, Rutherford gathered his researchers for tea and biscuits. In this informal setting, anyone could freely challenge ideas regardless of rank. This horizontal debate routine paved the way for splitting the atom.\n\nToday, BuildSelf introduces Rutherford's 4 PM tea debate routine.",
+      "ja": "原子核を発見した現代物理学の巨匠、アーネスト・ラザフォード。偉大な発見を生み出した秘密は何だったのでしょうか？ ☕\n\nラザフォードは毎日午後4時になると、研究者たちと紅茶を飲みながら非公式なティータイムを持ちました。誰でも自由な意見交換ができる水平的な討論のルーティンが偉大な発見を生み出しました。\n\n今日のBuildSelfではラザフォードのティータイム習慣を紹介します。",
+      "zh": "首次揭示原子核存在、获得诺贝尔化学奖的物理学巨匠欧内斯特·卢瑟福。他带领团队做出重大发现的秘诀是什么？ ☕\n\n每天下午4点，卢瑟福都会同研究人员聚在一起享用红茶与饼干。在这种非正式场合，人人皆可自由辩论。这种打破阶级的自由讨论习惯孕育了伟大的发现。\n\n今天，BuildSelf 将介绍卢瑟福的下午4点茶会讨论习惯。",
+      "es": "Ernest Rutherford, el padre de la física nuclear. ¿De dónde venían los descubrimientos de su equipo? ☕\n\nCada tarde a las 4 PM, Rutherford se reunía con sus investigadores para tomar té. Esta rutina informal fomentó la creatividad grupal.\n\nHoy, BuildSelf presenta la rutina de té a las 4 PM de Rutherford.",
+      "fr": "Ernest Rutherford, le père de la physique nucléaire. D'où venaient les percées de son équipe ? ☕\n\nChaque après-midi à 16h, Rutherford réunissait ses chercheurs autour d'un thé. Ce cadre informel a favorisé les plus grandes découvertes.\n\nAujourd'hui, BuildSelf vous présente sa routine du thé de 16h.",
+      "de": "Ernest Rutherford, der Vater der Kernphysik. Woher stammten die Durchbrüche seines Teams? ☕\n\nJeden Nachmittag um 16 Uhr traf sich Rutherford mit seinen Forschern zum Tee. Diese informelle Routine förderte die Gruppenkreativität.\n\nHeute stellt BuildSelf Rutherfords 16-Uhr-Tee-Routine vor.",
+      "pt": "Ernest Rutherford, o pai da física nuclear. De onde vinham as descobertas de sua equipe? ☕\n\nTodas as tardes às 16h, Rutherford se reunia com pesquisadores para tomar chá. Essa rotina informal promoveu grandes descobertas.\n\nHoje, o BuildSelf apresenta a rotina de chá às 16h de Rutherford.",
+      "id": "Ernest Rutherford, bapak fisika nuklir. Dari mana datangnya penemuan timnya? ☕\n\nSetiap jam 4 sore, Rutherford berkumpul dengan para peneliti untuk minum teh. Rutinitas informal ini memicu penemuan ilmiah besar.\n\nHari ini, BuildSelf menyajikan rutinitas diskusi teh jam 4 sore Rutherford."
+    },
+    "whyTitle": {
+      "ko": "심리적 안전감이 유도하는 집단 창의성과 억제 해제",
+      "en": "Collective Creativity & Inhibition Release via Psychological Safety",
+      "ja": "心理的安全性が誘導する集団的創造性と抑制解除",
+      "zh": "心理安全感引发的集体创造力与解除抑制",
+      "es": "Creatividad Colectiva e Inhibición Mediante Seguridad Psicológica",
+      "fr": "Créativité Collective et Libération des Inhibitions via la Sécurité",
+      "de": "Kollektive Kreativität durch psychologische Sicherheit",
+      "pt": "Criatividade Coletiva via Segurança Psicológica",
+      "id": "Kreativitas Kolektif Melalui Rasa Aman Psikologis"
+    },
+    "whyDesc": {
+      "ko": "격식 있는 직장이나 엄격한 평가 환경에서는 실패에 대한 두려움으로 인해 뇌의 인지적 방어 기제가 발동하여 창의적 아이디어를 억압합니다.\n\n러더퍼드가 조성한 4시 티 타임처럼 수평적이고 따뜻한 환경은 뇌의 <strong>'심리적 안전감(Psychological Safety)'</strong>을 극대화합니다. 평가의 압박이 사라질 때 편도체의 경계 신호가 꺼지고 확산적 사고(Divergent Thinking) 회로가 활성화되어 파격적인 아이디어가 발현됩니다.",
+      "en": "Strict evaluation environments trigger cognitive defenses, suppressing creative ideas.\n\nInformal tea-time environments maximize <strong>'psychological safety'</strong>. When pressure drops, divergent thinking circuits activate, surfacing bold ideas.",
+      "ja": "厳格な評価環境では失敗への恐れから脳が防衛モードに入り、アイデアが抑圧されます。\n\nティータイムのような水平的環境は<strong>「心理的安全性」</strong>を高め、拡散的思考（Divergent Thinking）を活性化させます。",
+      "zh": "在严格的评估环境中，对失败的恐惧会触发大脑的防御机制、抑制创造性想法。\n\n卢瑟福营造的非正式茶会极大地提高了大脑的<strong>“心理安全感”</strong>，激活发散性思维（Divergent Thinking）。",
+      "es": "Los entornos de evaluación estricta reprimen las ideas creativas.\n\nUn entorno informal de té maximiza la <strong>'seguridad psicológica'</strong>, activando el pensamiento divergente.",
+      "fr": "Les environnements stricts étouffent la créativité.\n\nUn cadre informel maximise la <strong>'sécurité psychologique'</strong>, activant la pensée divergente.",
+      "de": "Strenge Bewertungsumgebungen unterdrücken kreative Ideen.\n\nEine Tee-Routine maximiert die <strong>'psychologische Sicherheit'</strong> und aktiviert explosives Denken.",
+      "pt": "Ambientes estritos de avaliação reprimem ideias criativas.\n\nUm ambiente informal de chá maximiza a <strong>'segurança psicológica'</strong> e ativa o pensamento divergente.",
+      "id": "Lingkungan evaluasi yang ketat menekan ide kreatif.\n\nSuasana teh informal memaksimalkan <strong>'rasa aman psikologis'</strong> untuk memicu pemikiran divergen."
+    },
+    "cautionTitle": {
+      "ko": "계급과 격식을 내려놓고 따뜻한 차 한 잔으로 시작하세요",
+      "en": "Set aside rank and start with a warm cup of tea",
+      "ja": "階級や形式を捨て、温かい茶一杯から始めましょう",
+      "zh": "放下身份与形式，从一杯温茶开始",
+      "es": "Deje de lado los rangos y comience con una taza de té",
+      "fr": "Mettez de côté la hiérarchie et commencez par un thé chaud",
+      "de": "Legen Sie Hierarchien ab und beginnen Sie mit Tee",
+      "pt": "Deixe a hierarquia de lado e comece com um chá quente",
+      "id": "Tanggalkan posisi dan mulailah dengan secangkir teh hangat"
+    },
+    "cautionDesc": {
+      "ko": "티 타임의 목적은 업무보고나 지시가 아닙니다. 어떤 황당한 아이디어도 웃으며 논의할 수 있는 열린 유연성을 유지하는 것이 핵심입니다.",
+      "en": "The purpose is not work reporting. Maintaining open flexibility to laugh and discuss absurd ideas is key.",
+      "ja": "目的は報告ではありません。どんな突飛なアイデアも笑って議論できる柔軟性がキーです。",
+      "zh": "茶会的目的绝非汇报工作。保持能笑着讨论任何荒谬想法的开放与灵活才是关键。",
+      "es": "El objetivo no es informar. Mantener la flexibilidad para discutir cualquier idea es la clave.",
+      "fr": "Le but n'est pas de faire un rapport. Discuter d'idées folles avec souplesse est essentiel.",
+      "de": "Es geht nicht um Berichterstattung. Offenheit für verrückte Ideen ist der Schlüssel.",
+      "pt": "O objetivo não é relatar. Manter flexibilidade para discutir qualquer ideia é a chave.",
+      "id": "Tujuannya bukan laporan kerja. Menjaga fleksibilitas untuk mendiskusikan ide adalah kuncinya."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "오후 4시 15분 차 시간 고정 설정",
+          "en": "Set Fixed 4 PM 15-Minute Tea Time",
+          "ja": "午後4時15分のティータイム設定",
+          "zh": "固定下午4点15分钟茶会时间",
+          "es": "Fijar Tiempo de Té de 15 Minutos a las 4 PM",
+          "fr": "Fixer un Pause Thé de 15 Min à 16h",
+          "de": "16 Uhr Teezeit auf 15 Min festlegen",
+          "pt": "Definir Pausa de Chá de 15 Minutos às 16h",
+          "id": "Tetapkan 15 Menit Jam 4 Sore untuk Teh"
+        },
+        "text": {
+          "ko": "오후 4시 알람을 맞추고 따뜻한 차 한 잔을 가지러 이동하여 뇌의 휴식 신호를 켭니다.",
+          "en": "Set an alarm for 4 PM, grab a cup of tea, and switch your brain to rest mode.",
+          "ja": "午後4時にアラームをセットし、温かいお茶を淹れて脳の休息信号を入れます。",
+          "zh": "设定下午4点闹钟，沏一杯热茶，开启大脑放松信号。",
+          "es": "Ponga una alarma a las 4 PM, sirva una taza de té y cambie al modo de descanso.",
+          "fr": "Réglez une alarme à 16h, prenez un thé et basculez le cerveau en mode pause.",
+          "de": "Stellen Sie einen Wecker auf 16 Uhr, holen Sie sich Tee und schalten Sie um.",
+          "pt": "Defina um alarme para as 16h, pegue um chá e mude para o modo de descanso.",
+          "id": "Pasang alarm jam 4 sore, ambil secangkir teh, dan alihkan otak ke mode istirahat."
+        }
+      },
+      {
+        "name": {
+          "ko": "격식 없는 수평적 브레인스토밍",
+          "en": "Informal Horizontal Brainstorming",
+          "ja": "形式のない水平的ブレインストーミング",
+          "zh": "非正式水平均衡头脑风暴",
+          "es": "Lluvia de Ideas Informal y Horizontal",
+          "fr": "Remue-Méninges Informel et Horizontal",
+          "de": "Informelles horizontales Brainstorming",
+          "pt": "Brainstorming Informal e Horizontal",
+          "id": "Brainstorming Informal Horizontal"
+        },
+        "text": {
+          "ko": "동료와 차를 마시며 '오늘 가장 뜻밖이었던 일'이나 재미있는 아이디어를 가볍게 주고받습니다.",
+          "en": "Sip tea with colleagues and lightly exchange thoughts on 'the most surprising event today'.",
+          "ja": "同僚とお茶を飲みながら「今日最も意外だったこと」などを軽く語り合います。",
+          "zh": "同同事饮茶，轻松交流“今天最出乎意料的事”或有趣的构想。",
+          "es": "Tome té con colegas e intercambie opiniones sobre 'lo más sorprendente de hoy'.",
+          "fr": "Buvez un thé entre collègues et échangez sur 'la surprise de la journée'.",
+          "de": "Trinken Sie Tee mit Kollegen und tauschen Sie sich über 'das Übliche hinaus' aus.",
+          "pt": "Tome chá com colegas e troque ideias sobre 'o evento mais surpreendente de hoje'.",
+          "id": "Nikmati teh bersama rekan kerja dan tukar pikiran tentang hal menarik hari ini."
+        }
+      },
+      {
+        "name": {
+          "ko": "영감 키워드 1줄 수집",
+          "en": "Collect 1-Line Inspiration Keyword",
+          "ja": "インスピレーションの1行キーワード収集",
+          "zh": "收集1行灵感关键词",
+          "es": "Recopilar 1 Línea de Palabras Clave de Inspiración",
+          "fr": "Capturer 1 Ligne de Mots-Clés d'Inspiration",
+          "de": "1 Zeile Inspiration festhalten",
+          "pt": "Coletar 1 Linha de Palavras-Chave de Inspiração",
+          "id": "Kumpulkan 1 Baris Kata Kunci Inspirasi"
+        },
+        "text": {
+          "ko": "대화 중 가슴을 때리거나 새롭게 다가온 아이디어를 미팅 종료 직후 메모장에 1줄 기록합니다.",
+          "en": "Record a striking idea from the chat into your memo in a single line right after.",
+          "ja": "会話の中で得た新鮮なアイデアを、終了後ノートに1行記録します。",
+          "zh": "交谈结束后，将启发新思路的观点在便签上记录1行。",
+          "es": "Anote una idea impactante de la conversación en una sola línea justo después.",
+          "fr": "Notez une idée marquante de la discussion en une seule ligne juste après.",
+          "de": "Halten Sie eine packende Idee aus dem Gespräch in einer Zeile fest.",
+          "pt": "Anote uma ideia marcante da conversa em uma única linha logo após.",
+          "id": "Catat 1 baris ide paling berkesan di buku catatan segera setelah selesai."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "혼자 일하는 프리랜서도 이 루틴을 적용할 수 있나요?",
+          "en": "Can freelancers working alone apply this routine?",
+          "ja": "一人で活動するフリーランスもこのルーティンを適用できますか？",
+          "zh": "自由职业者一个人工作也能应用这个习惯吗？",
+          "es": "¿Pueden los trabajadores independientes aplicar esta rutina?",
+          "fr": "Les freelances travaillant seuls peuvent-ils utiliser cette routine ?",
+          "de": "Können Freiberufler diese Routine anwenden?",
+          "pt": "Freelancers trabalhando sozinhos podem aplicar esta rotina?",
+          "id": "Bisakah pekerja lepas mandiri menerapkan rutinitas ini?"
+        },
+        "answer": {
+          "ko": "네, 오후 4시 차 한 잔을 마시며 온라인 동료 커뮤니티나 음성 통화로 10분간 아이디어를 나누거나, 노트에 스스로에게 비판적 질문을 던지는 자가 토론으로 적용할 수 있습니다.",
+          "en": "Yes, you can have a 10-minute voice call or online chat with peers, or write self-questioning notes.",
+          "ja": "はい、午後4時にお茶を飲みながらオンラインの仲間に電話したり、ノートに自問自答を書き出すことで代用できます。",
+          "zh": "当然可以。下午4点饮茶时，可通过语音通话与同人轻聊10分钟，或在便签上自问自答进行自我探讨。",
+          "es": "Sí, puede hacer una llamada de 10 minutos con colegas en línea o escribir notas de autocuestionamiento.",
+          "fr": "Oui, en faisant un appel de 10 minutes ou en écrivant un autodiagnostic sur un carnet.",
+          "de": "Ja, durch einen 10-minütigen Anruf mit Kollegen oder Selbstfragen auf einem Zettel.",
+          "pt": "Sim, você pode fazer uma chamada de 10 minutos com colegas ou escrever autoquestionamentos.",
+          "id": "Ya, Anda bisa menelepon rekan online selama 10 menit atau menulis tanya-jawab mandiri di catatan."
+        }
+      },
+      {
+        "question": {
+          "ko": "티 타임에 수다만 떨다가 시간이 낭비될까 봐 염려됩니다.",
+          "en": "I'm worried time will be wasted on mere small talk.",
+          "ja": "雑談ばかりで時間が無駄になるのが心配です。",
+          "zh": "担心茶会只顾闲聊导致浪费时间怎么办？",
+          "es": "Me preocupa perder el tiempo en charlar sin sentido.",
+          "fr": "J'ai peur de perdre mon temps en bavardages.",
+          "de": "Ich fürchte, Zeit mit Schwatzen zu verschwenden.",
+          "pt": "Preocupo-me em perder tempo apenas conversando.",
+          "id": "Saya khawatir waktu terbuang hanya untuk mengobrol."
+        },
+        "answer": {
+          "ko": "타이머를 정확히 15분으로 설정하여 시간 제한을 두면 감정적 낭비 없이 뇌에 효과적인 산소 공급과 아이디어 자극만 남길 수 있습니다.",
+          "en": "Setting a strict 15-minute timer ensures oxygen supply and idea stimulation without time waste.",
+          "ja": "タイマーを正確に15分に設定することで、時間の無駄を防ぎ効果的な刺激だけを残せます。",
+          "zh": "精确设定15分钟定时器，限定时间即可在不浪费时间的前提下，为大脑充氧并激发灵感。",
+          "es": "Poner un temporizador estricto de 15 minutos evita la pérdida de tiempo.",
+          "fr": "Régler un minuteur strict de 15 minutes évite toute perte de temps.",
+          "de": "Ein Timer auf 15 Minuten verhindert Zeitverschwendung.",
+          "pt": "Definir um timer estrito de 15 minutos evita perda de tempo.",
+          "id": "Mengeset pengatur waktu 15 menit mencegah waktu terbuang sia-sia."
+        }
+      }
+    ],
+    "pubDate": "2026-05-23",
+    "updatedDate": "2026-05-23"
+  }
+}

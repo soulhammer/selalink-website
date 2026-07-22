@@ -1,0 +1,37 @@
+{
+  "id": "marco-polo-travel-journal",
+  "name": "마르코 폴로",
+  "gender": "male",
+  "era": "중세",
+  "location": "이탈리아, 베네치아",
+  "lifespan": "1254 - 1324",
+  "birthYear": 1254,
+  "bio": "동방견문록(동방의 서)을 집필하여 유럽에 아시아 대륙의 문화를 최초로 생생하게 알린 탐험가이자 상인입니다.",
+  "habitName": "실크로드 탐험 현장 감각 메모와 밤마다 일기 서술",
+  "tags": [
+    "#기록",
+    "#메모",
+    "#창의",
+    "#자기계발"
+  ],
+  "timeOfDay": "night",
+  "requiredItems": [
+    "탐험 수첩",
+    "양피지/펜"
+  ],
+  "frequency": "daily",
+  "historicalStory": "마르코 폴로는 베네치아를 떠나 24년간 아시아 대륙을 탐험하며 몽골 제국과 동방의 상상을 초월하는 이색 문화를 접했습니다. 그는 거친 낯선 환경 속에서도 매일 밤 촛불 아래 그날 만난 사람들의 언어, 거래품, 미식, 풍경을 상세하게 노트에 기록했습니다. 그의 현장 감각 메모 습관은 훗날 감옥에서 '동방견문록'이라는 인류 역사상 최고의 세계 탐험 문학을 탄생시켰습니다.",
+  "sciencePrinciples": "낯선 환경의 생생한 감각 정보(Sensory Nuances)를 일기 형태로 세밀하게 기술하면 뇌의 해마(Hippocampus)와 에피소드 기억(Episodic Memory) 신경 회로가 두꺼워져 차원 높은 에피소드 저장 능력이 구축됩니다.",
+  "quote": "내가 본 것의 절반도 미처 다 말하지 못했다.",
+  "trigger": "새로운 프로젝트를 시작하거나 낯선 환경에서 대량의 경험 지식을 내 것으로 만들고 싶을 때",
+  "modernGuide": [
+    "외출이나 미팅, 낯선 경험이 있었던 날 밤 10분간 수첩이나 메모 앱을 엽니다.",
+    "그날 경험한 낯선 장면, 독특한 인상, 오감(시각, 청각, 미각 등) 정보를 3줄로 상세히 기록합니다.",
+    "기록된 에피소드를 자신의 프로젝트나 미래 아이디어의 자산으로 정돈합니다."
+  ],
+  "actionName": "밤 10분 낯선 감각 에피소드 일기 (마르코폴로 루틴)",
+  "sources": [
+    "Marco Polo, *The Travels of Marco Polo* (Latham translation)",
+    "Laurence Bergreen, *Marco Polo: From Venice to Xanadu* (2007)"
+  ]
+}

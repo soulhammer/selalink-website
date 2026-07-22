@@ -1,0 +1,36 @@
+{
+  "id": "braille-tactile-simplification",
+  "name": "루이 브라이유",
+  "gender": "male",
+  "era": "근대",
+  "location": "프랑스",
+  "lifespan": "1809 - 1852",
+  "birthYear": 1809,
+  "bio": "전 세계 시각장애인을 위한 6점 점자 체계를 발명하여 인류 지식 접근성에 혁명을 일으킨 위인입니다.",
+  "habitName": "손끝 촉각 패턴 검증과 핵심 요소 단순화 구조화",
+  "tags": [
+    "#몰입",
+    "#생산성",
+    "#아이디어",
+    "#자기계발"
+  ],
+  "timeOfDay": "anytime",
+  "requiredItems": [
+    "점자 송곳 또는 종이"
+  ],
+  "frequency": "daily",
+  "historicalStory": "루이 브라이유는 기존의 군용 야간 문자(12점 체계)가 너무 복잡하여 손가락 하나로 한 번에 읽기 어렵다는 사실을 발견했습니다. 그는 매일 손끝으로 점의 감촉을 검증하며, 손가락 끝 마디 하나에 완벽히 들어오는 '6점 점자 시스템'으로 과감히 단순화했습니다. 복잡성을 덜어내고 핵심 요소만을 남기는 그의 본질 단순화 습관은 세계적 표준을 만들었습니다.",
+  "sciencePrinciples": "뇌의 작업 기억(Working Memory) 용량 한계를 고려하여 정보를 최소 단위(Chunking)로 단순화하면 뇌의 인지 부하(Cognitive Load)가 획기적으로 줄어들어 처리 속도가 극대화됩니다.",
+  "quote": "지식에 대한 접근은 장애와 상관없이 모두에게 평등해야 한다.",
+  "trigger": "시스템이나 업무 프로세스가 너무 복잡하여 오류와 지연이 자주 발생할 때",
+  "modernGuide": [
+    "현재 진행 중인 복잡한 작업이나 루틴에서 불필요한 단계를 찾아냅니다.",
+    "한 번에 처리할 수 있는 최대 핵심 요소 3~5가지로 프로세스를 단순화합니다.",
+    "단순화된 새 시스템을 즉시 적용하여 처리 속도와 명확성을 높입니다."
+  ],
+  "actionName": "핵심 3단계 본질 단순화 검증 (브라이유 루틴)",
+  "sources": [
+    "C. Michael Mellor, *Louis Braille: A Touch of Genius* (2006)",
+    "UNESCO Braille Heritage Documents"
+  ]
+}

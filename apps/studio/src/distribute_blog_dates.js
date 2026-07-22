@@ -6,28 +6,28 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const targetSlugs = [
-  'piaget-morning-writing',
-  'ronaldo-polyphasic-sleep',
-  'bresson-decisive-moment',
-  'morrison-pre-dawn-coffee',
-  'roosevelt-my-day-column',
-  'brucelee-pocket-notebook',
-  'lindbergh-meticulous-checklist',
-  'wintour-morning-tennis',
-  'didion-manuscript-sleeping',
-  'camus-football-reset'
+  'rodin-sculpting-walk',
+  'schweitzer-night-organ',
+  'montessori-observation-log',
+  'oppenheimer-poetry-balance',
+  'debussy-nature-listening',
+  'nobel-evening-reflection',
+  'braille-tactile-simplification',
+  'rutherford-tea-debate',
+  'maupassant-rowing-reset',
+  'marco-polo-travel-journal'
 ];
 
-// 2026-01-01 ~ 2026-07-17 (약 197일) 간격 중 10개 날짜 고르게 분산 생성
-const baseDate = new Date('2026-01-01T00:00:00Z');
-const intervalDays = 19; // 19일 간격 (최대 171일 더해서 2026-06-20 경까지 분포)
+// 2026-01-10 ~ 2026-07-15 (약 190일) 간격 중 10개 날짜 고르게 분산 생성 (20일 간격)
+const baseDate = new Date('2026-01-10T00:00:00Z');
+const intervalDays = 19;
 
 const generatedDates = targetSlugs.map((_, idx) => {
   const d = new Date(baseDate.getTime() + idx * intervalDays * 24 * 60 * 60 * 1000);
   return d.toISOString().split('T')[0];
 });
 
-console.log('분산 날짜 목록:', generatedDates);
+console.log('🗓️ 신규 10개 블로그 분산 날짜 목록:', generatedDates);
 
 const blogBaseDir = path.join(__dirname, 'content/blog');
 const jsonDir = path.join(__dirname, 'data/blogs/habits');
@@ -64,4 +64,4 @@ targetSlugs.forEach((slug, idx) => {
   }
 });
 
-console.log('날짜 분산 완료! 이제 컴파일 스크립트를 기동해야 합니다.');
+console.log('✨ 10개 블로그 날짜 분산 업데이트 완료!');

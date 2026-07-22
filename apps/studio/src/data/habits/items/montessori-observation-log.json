@@ -1,0 +1,37 @@
+{
+  "id": "montessori-observation-log",
+  "name": "마리아 몽테소리",
+  "gender": "female",
+  "era": "근대",
+  "location": "이탈리아",
+  "lifespan": "1870 - 1952",
+  "birthYear": 1870,
+  "bio": "이탈리아 최초의 여성 의사이자 몽테소리 교육법을 창시하여 현대 유아 교육의 혁명을 일으킨 교육학자입니다.",
+  "habitName": "선입견 없는 아동 행동 관찰과 객관적 반응 일지 기록",
+  "tags": [
+    "#관찰",
+    "#자기계발",
+    "#집중",
+    "#기록"
+  ],
+  "timeOfDay": "anytime",
+  "requiredItems": [
+    "관찰 노트",
+    "펜"
+  ],
+  "frequency": "daily",
+  "historicalStory": "마리아 몽테소리는 '어린이의 집(Casa dei Bambini)'에서 아이들을 관찰할 때, 자신의 어떠한 주관적 편견이나 선입견도 배제하고 철저히 과학적 의학 관찰자의 태도를 유지했습니다. 그녀는 아이가 교구에 몰입하는 시간, 자발적 선택 패턴을 정밀하게 기록함으로써 아이들의 내적 집중력 법칙을 발견해냈습니다.",
+  "sciencePrinciples": "주관적 판단을 배제한 '객관적 관찰(Objective Observation)' 습관은 뇌의 전두엽 인지 통제 영역을 활성화하고 확증 편향(Confirmation Bias)을 막아 문제 상황의 본질을 명확히 파악하게 돕습니다.",
+  "quote": "우리의 임무는 아이를 조종하는 것이 아니라, 아이 안에서 스스로 자라나는 생명을 관찰하고 돕는 것이다.",
+  "trigger": "상대방의 행동이나 복잡한 업무 상황에서 오류의 원인을 정밀하게 파악하고 싶을 때",
+  "modernGuide": [
+    "관찰 대상(동료, 아이, 혹은 본인의 작업 행동)을 정하고 10분간 어떤 판단도 내리지 않은 채 현상을 관찰합니다.",
+    "'좋다/나쁘다' 같은 주관적 감정 형용사를 빼고 factual한 사실만 노트에 기록합니다.",
+    "기록된 사실을 통해 행동의 숨겨진 원인과 패턴을 분석합니다."
+  ],
+  "actionName": "10분 편견 없는 객관적 관찰 일지 (몽테소리 루틴)",
+  "sources": [
+    "Maria Montessori, *The Discovery of the Child* (1948)",
+    "E.M. Standing, *Maria Montessori: Her Life and Work* (1957)"
+  ]
+}

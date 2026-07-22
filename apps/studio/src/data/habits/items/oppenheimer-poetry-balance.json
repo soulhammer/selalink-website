@@ -1,0 +1,36 @@
+{
+  "id": "oppenheimer-poetry-balance",
+  "name": "로버트 오펜하이머",
+  "gender": "male",
+  "era": "근대",
+  "location": "미국",
+  "lifespan": "1904 - 1967",
+  "birthYear": 1904,
+  "bio": "맨해튼 프로젝트의 총괄 과학자이자 이론 물리학자, 고전문학에 깊은 학식을 지닌 천재 물리학자입니다.",
+  "habitName": "복잡한 물리학 연구 후 산스크리트어 시 독서와 뇌 이완",
+  "tags": [
+    "#휴식",
+    "#사색",
+    "#독서",
+    "#인지전환"
+  ],
+  "timeOfDay": "night",
+  "requiredItems": [
+    "고전 시집 또는 인문학 서적"
+  ],
+  "frequency": "daily",
+  "historicalStory": "오펜하이머는 맨해튼 프로젝트라는 인류 역사상 가장 막중한 압박감 속에서도 저녁이 되면 수식과 물리학 논문을 내려놓고 산스크리트어 고전 시집이나 시집을 읽었습니다. 그는 원어를 직접 읽기 위해 산스크리트어를 독학했으며, 인문학적 독서를 통해 과학적 집착에서 벗어나 감정의 균형과 뇌의 이완을 얻었습니다.",
+  "sciencePrinciples": "치열한 수리 인지 영역(좌뇌 중심) 연구 후 인문학·문학 독서(우뇌 및 감성 회로)를 수행하면 뇌의 특정 과부하 회로를 이완시키는 '이질적 인지 전환(Heterogeneous Cognitive Shift)'이 일어나 스트레스 수준을 줄입니다.",
+  "quote": "바가바드 기타의 구절들은 내 영혼의 안식처였다.",
+  "trigger": "숫자나 수식, 극심한 업무 압박으로 머리가 복잡할 때",
+  "modernGuide": [
+    "치열한 작업이 끝난 저녁 시간 15분간 업무 관련 기기와 문서에서 완전히 이탈합니다.",
+    "시집, 에세이, 서정적인 인문학 책을 펴고 서두르지 않고 문장의 감성에 온전히 몰입합니다.",
+    "수치적 사고에서 벗어나 시적 이미지와 언어의 아름다움에 집중하며 뇌를 이완시킵니다."
+  ],
+  "actionName": "야간 인문학 시 독서 이완 (오펜하이머 루틴)",
+  "sources": [
+    "Kai Bird & Martin J. Sherwin, *American Prometheus* (2005)",
+    "J. Robert Oppenheimer Papers at the Library of Congress"
+  ]
+}

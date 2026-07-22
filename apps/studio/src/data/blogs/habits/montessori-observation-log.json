@@ -1,0 +1,218 @@
+{
+  "montessori-observation-log": {
+    "title": {
+      "ko": "현대 유아교육 혁명가? 마리아 몽테소리의 객관적 관찰 일지 루틴",
+      "en": "Pioneer of Child Education? Maria Montessori's Objective Observation Routine",
+      "ja": "幼児教育の革命家？マリア・モンテッソーリの客観的観察日記ルーティン",
+      "zh": "儿童教育革命家？玛丽亚·蒙台梭利的客观观察日志习惯",
+      "es": "¿Revolucionaria de la educación infantil? La rutina de observación objetiva de Maria Montessori",
+      "fr": "Révolutionnaire de l'éducation ? La routine d'observation objective de Maria Montessori",
+      "de": "Pionierin der Pädagogik? Maria Montessoris objektive Beobachtungsroutine",
+      "pt": "Revolucionária da educação infantil? A rotina de observação objetiva de Maria Montessori",
+      "id": "Pionir Pendidikan Anak? Rutinitas Jurnal Observasi Objektif Maria Montessori"
+    },
+    "description": {
+      "ko": "이탈리아 최초의 여성 의사이자 교육학자 마리아 몽테소리. 주관적 편견을 차단하고 본질을 파악했던 그녀의 객관적 관찰 기술과 3단계 가이드.",
+      "en": "Learn how Dr. Maria Montessori used bias-free objective observation logs to unveil human potential.",
+      "ja": "偏見を排除し本質を見抜いたモンテッソーリ博士の客観的観察術と実践ガイド。",
+      "zh": "介绍蒙台梭利博士去除主观偏见、洞察事物本质的客观观察记录习惯及三步指南。",
+      "es": "Descubra la técnica de observación objetiva libre de prejuicios de la Dra. Maria Montessori.",
+      "fr": "Découvrez la méthode d'observation objective sans parti pris du Dr Maria Montessori.",
+      "de": "Erfahren Sie mehr über Dr. Maria Montessoris objektive Beobachtungstechnik ohne Vorurteile.",
+      "pt": "Descubra a técnica de observação objetiva isenta de pré-julgamentos da Dra. Maria Montessori.",
+      "id": "Pelajari teknik observasi objektif bebas prasangka dari Dr. Maria Montessori."
+    },
+    "authority": {
+      "ko": "몽테소리 저서 'The Discovery of the Child' 및 전기 사료",
+      "en": "Maria Montessori's Book 'The Discovery of the Child' & Historical Archives",
+      "ja": "モンテッソーリ著「The Discovery of the Child」および評伝史料",
+      "zh": "蒙台梭利著作《The Discovery of the Child》与历史文献",
+      "es": "Libro de Maria Montessori 'The Discovery of the Child' y archivos históricos",
+      "fr": "Livre 'The Discovery of the Child' & archives historiques",
+      "de": "Buch 'The Discovery of the Child' & historische Archive",
+      "pt": "Livro de Maria Montessori 'The Discovery of the Child' e arquivos históricos",
+      "id": "Buku Maria Montessori 'The Discovery of the Child' & Arsip Sejarah"
+    },
+    "intro": {
+      "ko": "이탈리아 최초의 여성 의사이자 관습에 굴하지 않고 몽테소리 교육법을 설립하여 인류 유아 교육의 패러다임을 바꾼 마리아 몽테소리. 그녀가 아이들의 숨겨진 잠재력과 집중력의 법칙을 세상을 바꾼 통찰로 바꿔낸 비결은 무엇일까요? 📝\n\n몽테소리는 '어린이의 집'에서 아이들을 관찰할 때 어떠한 감정적 편견이나 성인 중심의 평가를 완벽히 배제했습니다. 그녀는 의학 관찰자의 시선으로 아이가 언제 집중하고 어떤 환경에서 호기심을 느끼는지 사실만을 엄밀하게 기록했습니다. 주관을 뺀 객관적 관찰 기록 습관은 복잡한 문제의 진정한 원인을 발견하는 가장 완벽한 인지 도구였습니다.\n\n오늘 BuildSelf에서는 마리아 몽테소리의 객관적 관찰 루틴과 현대인을 위한 확증편향 차단 실천법을 소개합니다.",
+      "en": "Dr. Maria Montessori, Italy's first female physician and founder of the Montessori method. How did she discover human potential? 📝\n\nMontessori was completely free from emotional bias when observing children. She strictly recorded facts—when they focused and what triggered curiosity—acting as an objective medical observer. This objective logging habit was her ultimate cognitive tool.\n\nToday, BuildSelf introduces Dr. Montessori's objective observation routine.",
+      "ja": "イタリア初の女性医師であり、モンテッソーリ教育法を確立したマリア・モンテッソーリ。彼女の洞察の秘密は何だったのでしょうか？ 📝\n\nモンテッソーリは子どもたちを観察する際、感情的な偏見を徹底的に排除しました。医学的観察者として事実だけを厳密に記録したのです。\n\n今日のBuildSelfでは、マリア・モンテッソーリの客観的観察ルーティンを紹介します。",
+      "zh": "意大利首位女性医师、蒙台梭利教育法创始人玛丽亚·蒙台梭利。她洞察力的秘诀是什么？ 📝\n\n蒙台梭利在观察儿童时彻底排除了主观偏见。她以医学观察者的视角只记录客观事实，这成了她发现事物本质的认知工具。\n\n今天，BuildSelf 将介绍蒙台梭利博士的客观观察习惯。",
+      "es": "La Dra. Maria Montessori, la primera médica de Italia. ¿Cómo descubrió el potencial humano? 📝\n\nMontessori observaba a los niños libre de prejuicios emocionales, registrando estrictamente hechos como observadora médica.\n\nHoy, BuildSelf presenta la rutina de observación objetiva de la Dra. Montessori.",
+      "fr": "Le Dr Maria Montessori, première femme médecin d'Italie. Comment a-t-elle découvert le potentiel humain ? 📝\n\nMontessori observait les enfants sans aucun préjugé, consignant rigoureusement les faits.\n\nAujourd'hui, BuildSelf vous présente sa routine d'observation objective.",
+      "de": "Dr. Maria Montessori, Italiens erste Ärztin. Wie entdeckte sie das menschliche Potenzial? 📝\n\nMontessori beobachtete Kinder frei von emotionalen Vorurteilen und hielt streng Fakten fest.\n\nHeute stellt BuildSelf Dr. Montessoris objektive Beobachtungsroutine vor.",
+      "pt": "A Dra. Maria Montessori, primeira médica da Itália. Como ela descobriu o potencial humano? 📝\n\nMontessori observava as crianças livre de pré-julgamentos, registrando fatos com precisão.\n\nHoje, o BuildSelf apresenta a rotina de observação objetiva da Dra. Montessori.",
+      "id": "Dr. Maria Montessori, dokter wanita pertama di Italia. Bagaimana ia menemukan potensi manusia? 📝\n\nMontessori mengamati anak-anak secara objektif tanpa prasangka, mencatat fakta secara ketat.\n\nHari ini, BuildSelf menyajikan rutinitas observasi objektif Dr. Montessori."
+    },
+    "whyTitle": {
+      "ko": "확증 편향을 극복하고 본질을 직시하는 인지적 객관화",
+      "en": "Cognitive Objectification Overcoming Confirmation Bias",
+      "ja": "確証バイアスを克服し本質を直視する認知の客観化",
+      "zh": "克服确认偏误、直视本质的认知客观化",
+      "es": "Objetivación Cognitiva Superando el Sesgo de Confirmación",
+      "fr": "Objectivation Cognitive Surmontant le Biais de Confirmation",
+      "de": "Kognitive Objektivierung zur Überwindung von Bestätigungsfehlern",
+      "pt": "Objetivação Cognitiva Superando o Vício de Confirmação",
+      "id": "Objektifikasi Kognitif Mengatasi Bias Konfirmasi"
+    },
+    "whyDesc": {
+      "ko": "우리는 종종 자신의 경험이나 감정에 기반한 주관적 억측으로 문제의 원인을 단정 짓는 '확증 편향'에 빠집니다.\n\n몽테소리 박사의 관찰 습관은 뇌의 전두엽 인지 통제 영역을 강화하여 감정적 판단을 일시 중지하는 <strong>'인지적 괄호 치기'</strong> 효과를 제공합니다. 상황을 감정이 아닌 팩트로 분리해 기록하면 오해와 오류의 진정한 원인이 선명하게 드러납니다.",
+      "en": "We often fall into confirmation bias, jumping to conclusions based on emotions.\n\nMontessori's habit acts as a <strong>'cognitive bracketing'</strong> that pauses emotional judgments. Separating facts from emotions clearly reveals the true causes of problems.",
+      "ja": "私たちはしばしば感情に基づいた確証バイアスに陥り、問題の原因を決めつけてしまいます。\n\nモンテッソーリ博士の観察習慣は、感情的判断を一時停止する<strong>「心理的ブラケット（括弧くくり）」</strong>効果を提供します。ファクトを記録することで問題の真因が明確になります。",
+      "zh": "我们常陷入基于情绪的确认偏误，武断下结论。\n\n蒙台梭利博士的习惯起到了搁置情绪判断的<strong>“认知括号”</strong>作用。将事实与情绪分离记录，能清晰揭示问题的真正原因。",
+      "es": "A menudo caemos en el sesgo de confirmación basado en emociones.\n\nLa rutina de Montessori actúa como un <strong>'paréntesis cognitivo'</strong> que pausa los juicios emocionales, revelando causas reales.",
+      "fr": "Nous tombons souvent dans le biais de confirmation par émotion.\n\nLa routine de Montessori agit comme une <strong>'mise entre parenthèses cognitive'</strong> pour isoler les faits des émotions.",
+      "de": "Wir verfallen oft in emotionalen Bestätigungsfehler.\n\nMontessoris Gewohnheit wirkt wie eine <strong>'kognitive Einklammerung'</strong>, die emotionale Urteile aussetzt und Fakten offenlegt.",
+      "pt": "Frequentemente caímos no vício de confirmação por emoção.\n\nA rotina de Montessori funciona como um <strong>'parêntese cognitivo'</strong> que pausa julgamentos e revela fatos.",
+      "id": "Kita sering terjebak bias konfirmasi akibat emosi.\n\nRutinitas Montessori berfungsi sebagai <strong>'tanda kurung kognitif'</strong> yang menunda prasangka emosional dan mengungkap fakta."
+    },
+    "cautionTitle": {
+      "ko": "평가나 감정 형용사 없이 오직 사실만 기록하세요",
+      "en": "Record only facts without evaluations or emotional adjectives",
+      "ja": "評価や感情表現を排除し、事実だけを記録しましょう",
+      "zh": "摒弃评价与形容词，仅记录事实",
+      "es": "Registre solo hechos sin evaluaciones ni adjetivos emocionales",
+      "fr": "Consignez uniquement les faits sans jugement ni adjectif",
+      "de": "Halten Sie nur Fakten ohne Bewertungen oder Adjektive fest",
+      "pt": "Registre apenas fatos sem avaliações ou adjetivos emocionais",
+      "id": "Catat hanya fakta tanpa penilaian atau kata sifat emosional"
+    },
+    "cautionDesc": {
+      "ko": "'피곤해 보인다' 대신 '10분 동안 눈을 30회 감았다'처럼 주관적 해석을 빼고 감각적으로 관찰된 사실 자체만을 기술하는 것이 몽테소리 관찰의 핵심입니다.",
+      "en": "Instead of 'looks tired', record 'closed eyes 30 times in 10 minutes'. Describing sensorially observed facts is key.",
+      "ja": "「疲れて見える」ではなく「10分間に30回目を閉じた」のように、主観的解釈を抜いて観察された事実だけを記述することが鍵です。",
+      "zh": "用“10分钟内眨眼30次”代替“看起来很累”。剥离主观解释、描述感官事实是关键所在。",
+      "es": "En lugar de 'parece cansado', anote 'cerró los ojos 30 veces en 10 min'. Describir hechos observados es la clave.",
+      "fr": "Au lieu de 'semble fatigué', notez 'a fermé les yeux 30 fois en 10 min'. Décrire les faits bruts est essentiel.",
+      "de": "Statt 'sieht müde aus' schreiben Sie 'schloss in 10 Min 30 Mal die Augen'. Das Festhalten von Fakten ist der Schlüssel.",
+      "pt": "Em vez de 'parece cansado', anote 'fechou os olhos 30 vezes em 10 min'. Descrever fatos brutos é essencial.",
+      "id": "Daripada 'tampak lelah', catat 'memejamkan mata 30 kali dalam 10 menit'. Menguraikan fakta sensorik adalah kuncinya."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "10분 관찰 타겟 설정 및 몰입",
+          "en": "10-Minute Observation Target Setup",
+          "ja": "10分間観察ターゲットの設定と没頭",
+          "zh": "设定10分钟观察目标与沉浸",
+          "es": "Establecer Objetivo de Observación de 10 Minutos",
+          "fr": "Fixer une Cible d'Observation de 10 Min",
+          "de": "Festlegung des 10-Minuten-Beobachtungsziels",
+          "pt": "Definir Alvo de Observação de 10 Minutos",
+          "id": "Tetapkan Target Observasi 10 Menit"
+        },
+        "text": {
+          "ko": "분석하고자 하는 대상(본인의 작업 습관, 특정 프로젝트 흐름)을 정하고 10분간 말을 아끼며 시각적 변화에 몰입합니다.",
+          "en": "Select a target to analyze (e.g., your own work habit) and focus quietly for 10 minutes on visual changes.",
+          "ja": "分析したい対象（自分の作業習慣など）を決め、10分間静かに観察します。",
+          "zh": "设定要分析的目标（如自己的工作习惯），静心观察10分钟的变化。",
+          "es": "Elija un objetivo para analizar y concéntrese en silencio durante 10 minutos.",
+          "fr": "Choisissez une cible à analyser et observez en silence pendant 10 minutes.",
+          "de": "Wählen Sie ein Ziel und beobachten Sie 10 Minuten lang still.",
+          "pt": "Escolha um alvo e observe em silêncio por 10 minutos.",
+          "id": "Pilih target yang ingin dianalisis dan amati secara diam selama 10 menit."
+        }
+      },
+      {
+        "name": {
+          "ko": "팩트 중심의 명사·동사 관찰 노트 작성",
+          "en": "Fact-Based Noun & Verb Observation Logging",
+          "ja": "ファクト中心の名詞・動詞観察ノート作成",
+          "zh": "基于事实的名词与动词观察记录",
+          "es": "Registro de Observación Basado en Hechos",
+          "fr": "Prise de Notes Factuelle Basée sur Verbes & Noms",
+          "de": "Faktenbasiertes Beobachtungsprotokoll",
+          "pt": "Registro de Observação Baseado em Fatos",
+          "id": "Catatan Observasi Berbasis Fakta Kata Benda & Kerja"
+        },
+        "text": {
+          "ko": "관찰된 물리적 행동과 소리, 행동 시간을 감정 형용사 없이 명사와 동사 위주로 기록합니다.",
+          "en": "Record physical actions, sounds, and timestamps using mostly nouns and verbs without emotional adjectives.",
+          "ja": "観察された行動や時間を、感情的表現を除いて名詞と動詞を中心に記録します。",
+          "zh": "摒弃情绪形容词，主要用名词和动词记录观察到的物理行为与时间点。",
+          "es": "Anote acciones físicas y horas usando principalmente sustantivos y verbos sin adjetivos.",
+          "fr": "Consignez actions et horaires en utilisant des noms et verbes sans adjectifs.",
+          "de": "Notieren Sie Aktionen und Zeiten hauptsächlich mit Nomen und Verben.",
+          "pt": "Anote ações físicas e horários usando substantivos e verbos sem adjetivos.",
+          "id": "Catat tindakan fisik dan waktu menggunakan kata benda dan kerja tanpa kata sifat."
+        }
+      },
+      {
+        "name": {
+          "ko": "패턴 추출 및 가설 검증",
+          "en": "Pattern Extraction & Hypothesis Verification",
+          "ja": "パターン抽出と仮説検証",
+          "zh": "模式提取与假设验证",
+          "es": "Extracción de Patrones y Verificación de Hipótesis",
+          "fr": "Extraction de Motifs & Vérification d'Hypothèse",
+          "de": "Mustertextraktion & Hypothesenprüfung",
+          "pt": "Extração de Padrões e Verificação de Hipóteses",
+          "id": "Ekstraksi Pola & Verifikasi Hipotesis"
+        },
+        "text": {
+          "ko": "작성된 팩트 노트에서 반복되는 행동 패턴이나 집중 저하 시점을 찾아내어 개선책을 도출합니다.",
+          "en": "Identify recurring action patterns or focus drops from the fact log to derive improvements.",
+          "ja": "ファクトノートから繰り返される行動パターンや集中低下のタイミングを見つけ出し、改善策を導きます。",
+          "zh": "从事实记录中找出重复出为模式或注意力下降点，从而得出改进方案。",
+          "es": "Identifique patrones de acción recurrentes o caídas de enfoque para derivar mejoras.",
+          "fr": "Identifiez les schémas d'action récurrents pour en déduire des améliorations.",
+          "de": "Identifizieren Sie wiederkehrende Muster für Verbesserungen.",
+          "pt": "Identifique padrões recorrentes para derivar melhorias.",
+          "id": "Temukan pola tindakan yang berulang untuk merumuskan perbaikan."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "자기 자신의 습관을 관찰할 때도 이 루틴을 쓸 수 있나요?",
+          "en": "Can I use this routine to observe my own habits?",
+          "ja": "自分の習慣を観察する時もこのルーティンを使えますか？",
+          "zh": "可以用这个习惯观察自己的习惯吗？",
+          "es": "¿Puedo usar esta rutina para observar mis propios hábitos?",
+          "fr": "Puis-je utiliser cette routine pour observer mes propres habitudes ?",
+          "de": "Kann ich diese Routine nutzen, um meine eigenen Gewohnheiten zu beobachten?",
+          "pt": "Posso usar esta rotina para observar meus próprios hábitos?",
+          "id": "Bisakah rutinitas ini digunakan untuk mengamati kebiasaan sendiri?"
+        },
+        "answer": {
+          "ko": "네, 셀프 타임 트래킹이나 업무 일지를 쓸 때 '자책 감정'을 빼고 시간대별 실제 작업한 팩트만 기재하는 방식으로 완벽히 적용할 수 있습니다.",
+          "en": "Yes, when time-tracking or journaling, record factual tasks per hour without self-blame.",
+          "ja": "はい、タイムトラッキング時に自分を責める感情を抜き、時間ごとの事実だけを記録することで応用できます。",
+          "zh": "当然可以。在进行时间追踪时剔除自责情绪、按时段仅记录实际完成的事实即可。",
+          "es": "Sí, al registrar su tiempo, anote las tareas reales por hora sin culpa.",
+          "fr": "Oui, en consignant vos tâches heure par heure sans culpabilité.",
+          "de": "Ja, indem Sie Ihre Aufgaben stündlich ohne Schuldgefühle aufschreiben.",
+          "pt": "Sim, ao registrar seu tempo, anote as tarefas reais sem culpa.",
+          "id": "Ya, saat mencatat waktu, catat tugas nyata per jam tanpa menyalahkan diri."
+        }
+      },
+      {
+        "question": {
+          "ko": "주관적 감정과 객관적 팩트를 구분하기가 어렵다면 어떻게 해야 하나요?",
+          "en": "What if it's hard to distinguish subjective emotions from objective facts?",
+          "ja": "主観的感情と客観的ファクトの区別が難しい場合はどうすればいいですか？",
+          "zh": "如果很难区分主观情绪与客观事实该怎么办？",
+          "es": "¿Qué hacer si es difícil distinguir emociones de hechos?",
+          "fr": "Que faire s'il est difficile de séparer émotions et faits ?",
+          "de": "Was tun, wenn es schwer ist, Emotionen von Fakten zu trennen?",
+          "pt": "O que fazer se for difícil distinguir emoções de fatos?",
+          "id": "Bagaimana jika sulit membedakan emosi subjektif dan fakta?"
+        },
+        "answer": {
+          "ko": "'카메라에 촬영되는 수치와 행동인가?'라는 기준을 적용해 보세요. 카메라 렌즈에 담기지 않는 생각이나 평가 표현은 모두 제외하면 됩니다.",
+          "en": "Ask 'Is this measurable or capturable by a camera?' Exclude thoughts not visible on camera.",
+          "ja": "「カメラの映像に映る数値や行動か？」という基準を適用してみてください。",
+          "zh": "问问自己：“这是摄像机能拍到的数值或行为吗？”剔除镜头无法拍到的思想与评价即可。",
+          "es": "Pregúntese: '¿Es esto capturable por una cámara?' Excluya pensamientos no visibles.",
+          "fr": "Demandez-vous : 'Est-ce capturable par une caméra ?' Excluez ce qui ne l'est pas.",
+          "de": "Fragen Sie sich: 'Ist das von einer Kamera erfassbar?' Schließen Sie Gedanken aus.",
+          "pt": "Pergunte-se: 'Isso é capturável por uma câmera?' Exclua pensamentos não visíveis.",
+          "id": "Tanyakan 'Apakah ini dapat ditangkap kamera?' Keluarkan pemikiran yang tak terlihat."
+        }
+      }
+    ],
+    "pubDate": "2026-02-17",
+    "updatedDate": "2026-02-17"
+  }
+}
