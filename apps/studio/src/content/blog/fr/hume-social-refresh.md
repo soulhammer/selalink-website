@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-David Hume a posé les bases de l'empirisme et inspiré les sciences cognitives. Quel était le secret de sa vivacité d'esprit ? ♟️
+Sommet de l'empirisme occidental, David Hume a inspiré Kant. Comment évitait-il le surmenage ? 🎱
 
-Hume passait ses journées dans d'intenses réflexions. Mais le soir venu, il posait sa plume pour partager un dîner et une partie d'échecs avec ses amis.
+Chaque après-midi après le travail, Hume rejoignait ses amis pour jouer au billard et dîner. Quitter la réflexion abstraite rééquilibrait son esprit.
 
-Aujourd'hui, BuildSelf présente la routine de Hume et une méthode en 3 étapes pour éliminer la fatigue mentale.
+Aujourd'hui, BuildSelf vous présente la science derrière la routine de reconnexion sociale de David Hume.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

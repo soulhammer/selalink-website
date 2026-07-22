@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Le président Ronald Reagan a mené les États-Unis durant la guerre froide. Son secret face aux tensions ? Un pot de dragées colorées. 🍬
+Le 40e président américain Ronald Reagan était célèbre pour son calme. Comment gérait-il la pression ? 🍬
 
-Pour compenser l'arrêt du tabac, Reagan s'est mis à manger des bonbons. Mâcher ces douceurs calmait son stress en réunion.
+Sur son bureau se trouvait un bocal de bonbons Jelly Belly. Lors de réunions tendues, il faisait une pause pour en savourer un. Cela apportait du glucose à son cerveau.
 
-Aujourd'hui, BuildSelf présente la routine de Reagan et une méthode en 3 étapes pour apaiser l'anxiété.
+Aujourd'hui, BuildSelf vous présente la science derrière la routine de Ronald Reagan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

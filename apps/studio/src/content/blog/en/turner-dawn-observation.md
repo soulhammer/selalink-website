@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Joseph Mallord William Turner transformed art history toward Impressionism through dramatic light. What was the secret to his vivid colors? 🌅
+Britain's greatest landscape painter J.M.W. Turner mastered light and atmospheric drama. How did he capture such sublime natural gradients? 🌅
 
-Turner went outdoors before sunrise to gaze at the changes of light, mist, and clouds. Rather than sketching, he engraved these visual scenes in his mind and recreated them in his atelier.
+Every dawn, Turner observed sunrise light over Thames or ocean cliffs. Exposure to morning sunlight resets circadian rhythms and boosts serotonin.
 
-Today, BuildSelf introduces Turner's dawn color observation routine and a 3-step practice to train visual plasticity in daily life.
+Today, BuildSelf explores J.M.W. Turner's dawn observation routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

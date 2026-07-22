@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-David Hume, filsuf Skotlandia yang menyusun empirisme dan menginspirasi sains kognitif modern. Apa metode relaksasi di balik pemikirannya yang jernih? ♟️
+Puncak empirisme Barat, David Hume menginspirasi filsafat modern. Bagaimana ia menghindari kelelahan mental? 🎱
 
-Hume tenggelam dalam perenungan filosofis mendalam saat menulis. Namun, begitu konsentrasi siang hari yang melelahkan selesai, ia dengan tegas meletakkan penanya untuk menikmati makan malam yang hangat atau bermain catur bersama teman-temannya.
+Setiap sore setelah belajar, Hume bermain biliar dan makan malam bersama teman-teman. Melepaskan diri dari pemikiran abstrak memulihkan energinya.
 
-Hari ini, BuildSelf memperkenalkan rutinitas relaksasi sosial malam David Hume dan panduan praktis 3 langkah untuk menyegarkan kembali otak Anda dari kelelahan kognitif.
+Hari ini BuildSelf mengungkap sains kognitif di balik rutinitas sosial David Hume.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

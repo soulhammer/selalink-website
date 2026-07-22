@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Jean-Paul Sartre begründete den Existenzialismus. Wo verfasste er seine Werke? Im Café de Flore. ☕
+Jean-Paul Sartre schrieb seine Werke in Pariser Cafés. Das Umgebungsgeräusch förderte sein abstraktes Denken. ☕
 
-Jeden Morgen ging Sartre an seinen Lieblingstisch. Trotz der Unruhe teilte er seinen Tag in feste Arbeitsblöcke ein.
-
-Heute stellt BuildSelf Sartres Zeitblock-Routine vor und zeigt, wie Sie Ihre Leistung in 3 Schritten durch Fokussierung steigern.
+Heute untersucht BuildSelf Sartres Café-Schreibroutine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

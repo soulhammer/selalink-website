@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Barbara McClintock erhielt den Nobelpreis für die Entdeckung von Transposonen. Wie gelang ihr diese enorme Konzentration? 🔬
+Nobelpreisträgerin Barbara McClintock revolutionierte die Genetik mit den "springenden Genen". Wie bewahrte sie diesen Fokus? 🌽
 
-McClintock arbeitete am Mikroskop in völliger Stille. Sie blendete alle Reize aus, bis sie sich mit dem Präparat eins fühlte.
+Jeden Morgen ging sie allein in die Maisfelder und beobachtete stundenlang kleinste Variationen in voller Stille.
 
-Hinter diesem Verhalten stehen neurologische Prozesse, die wir heute als Filtermechanismus nutzen können. Erfahren Sie mehr bei BuildSelf.
+Heute untersucht BuildSelf Barbara McClintocks stille Fokus-Routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

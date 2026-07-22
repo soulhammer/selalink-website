@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Peter Paul Rubens, the Baroque art master who also excelled as a multilingual diplomat. Where did his explosive intellectual productivity, achieving success in both art and public office, come from? 🎨
+Baroque master painter and diplomat Peter Paul Rubens achieved staggering productivity while running a legendary Antwerp workshop. How did he maintain immense creative output without fatigue? 🎨
 
-Rubens did not stop his intellectual growth even during the physically demanding work of painting large canvases. Throughout his brush movements in the atelier, he had a secretary read aloud from historical accounts, philosophical classics, and Latin poetry. Hand sketching precisely while ears processed humanities knowledge. This unique multi-cognitive habit was his secret to superhuman time management.
+While painting large canvases, Rubens hired readers to recite classical literature and philosophy aloud. Engaging his visual-motor cortex with painting while occupying his auditory cortex with poetry prevented mental boredom and triggered elevated flow states.
 
-Today, BuildSelf introduces the neurological principles behind Rubens' reading-listening routine and a 3-step application guide to block distraction and learn during work.
+Today, BuildSelf explores Peter Paul Rubens' classical recitation routine, demonstrating how dual-sensory stimulation elevates deep focus.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -1,0 +1,38 @@
+{
+  "id": "potter-botanical-sketch",
+  "name": "비아트릭스 포터",
+  "gender": "female",
+  "era": "근대",
+  "location": "영국",
+  "lifespan": "1866 - 1943",
+  "birthYear": 1866,
+  "bio": "'피터 래빗' 시리즈의 작가이자 영국 농촌 자연보호 및 세밀화 과학 관찰의 거장입니다.",
+  "habitName": "매일 아침 자연속 미시적 세밀 관찰과 스케치북 기록 루틴",
+  "tags": [
+    "#창의",
+    "#예술",
+    "#아이디어",
+    "#휴식",
+    "#몰입"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "스케치북과 연필",
+    "돋보기 또는 야외 산책"
+  ],
+  "frequency": "daily",
+  "historicalStory": "영국의 작가이자 균류 연구가였던 비아트릭스 포터는 레이크 디스트릭트 시골 농장에서 매일 아침 돋보기와 스케치북을 들고 수풀 속으로 나갔습니다. 그녀는 이끼, 버섯, 토끼의 미세 털과 식물 줄기의 세포 수준 세밀화를 그리며 자연의 극미시적 미학에 수 시간 동안 초집중했습니다.",
+  "sciencePrinciples": "미시적 대상에 고도의 시각적 초점을 맞추는 행위(Micro-focused visual attention)는 뇌의 상위 제어망인 집행 제어 네트워크(Executive Control Network)를 강력히 활성화합니다. 이는 뇌 속 잡다한 상념(Default Mode Network의 방황)을 수초 내에 완벽히 꺼버리고 청정한 영감을 주입합니다.",
+  "quote": "자연이 우리에게 보여주는 가장 미세한 비밀 속에 가장 위대한 이야기가 들어있다.",
+  "trigger": "시끄러운 소음 속에서 집중력을 단숨에 되살리고 맑은 영감이 필요할 때",
+  "modernGuide": [
+    "아침 산책이나 휴식 시간에 나뭇잎, 꽃잎, 혹은 소품 하나를 유심히 돋보기 보듯 관찰합니다.",
+    "미세한 결, 질감, 색상 변화를 3분간 유심히 주시하고 디테일을 감상합니다.",
+    "느낀 점이나 세부 형태를 1줄 메모나 간단한 라인 스케치로 기록에 남깁니다."
+  ],
+  "actionName": "아침 3분 사물 세밀 관찰 & 디테일 기록 (포터 루틴)",
+  "sources": [
+    "Linda Lear, *Beatrix Potter: A Life in Nature* (2007)",
+    "Victoria and Albert Museum Archives"
+  ]
+}

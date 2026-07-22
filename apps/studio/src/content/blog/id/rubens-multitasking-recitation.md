@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Peter Paul Rubens, master seni Barok yang juga unggul sebagai diplomat multibahasa. Dari mana datangnya produktivitas intelektualnya yang luar biasa? 🎨
+Master Barok Peter Paul Rubens mendengarkan pembacaan sastra klasik saat melukis. Stimulasi ganda ini memicu fokus mendalam. 🎨
 
-Rubens tidak menghentikan pertumbuhan intelektualnya bahkan selama pekerjaan melukis kanvas besar yang menuntut fisik. Sepanjang gerakan kuasnya di studio, ia meminta sekretaris membacakan buku sejarah, karya klasik filsafat, dan puisi. Tangan menggambar dengan tepat sementara telinga memproses pengetahuan. Kebiasaan kognitif unik ini adalah rahasia manajemen waktu supernya.
-
-Hari ini, BuildSelf menyajikan prinsip-prinsip saraf di balik rutinitas membaca-mendengar Rubens dan panduan praktis 3 langkah untuk memblokir gangguan dan belajar saat bekerja.
+Hari ini BuildSelf mengungkap sains di balik rutinitas Peter Paul Rubens.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

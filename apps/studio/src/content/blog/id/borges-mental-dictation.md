@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Jorge Luis Borges, penulis Argentina yang memelopori sastra fantasi abad ke-20 dan sangat menginspirasi Umberto Eco. Meskipun ia kehilangan penglihatannya di usia paruh baya karena faktor genetik, apa rahasia di balik naskah labirin filosofis dan kosmisnya yang sangat rumit? 👁️
+Jorge Luis Borges menyusun karya agung setelah kehilangan penglihatannya. 📚
 
-Borges mendengarkan buku klasik yang dibacakan oleh asistennya, lalu secara visual merakit perpustakaan virtual atau labirin tiga dimensi di kepalanya. Merancang tata letak kalimat di dalam pikiran dan mendiktekannya adalah penggerak utamanya.
-
-Hari ini, BuildSelf memperkenalkan rutinitas visualisasi memori kerja spasial Borges dan panduan praktis 3 langkah untuk aktivasi kognitif modern.
+Hari ini BuildSelf mengungkap sains di balik rutinitas Borges.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

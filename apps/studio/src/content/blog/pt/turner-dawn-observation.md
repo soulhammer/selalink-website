@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-J.M.W. Turner transformou a história da arte com luz dramática. Qual era o segredo de suas cores vívidas? 🌅
+J.M.W. Turner observava o amanhecer diariamente para capturar a luz. 🌅
 
-Turner saía antes do amanhecer para contemplar a mudança da luz e névoa. Em vez de desenhar, gravava essas cenas na mente e as recriava no ateliê.
-
-Hoje, o BuildSelf apresenta a rotina de Turner e uma prática de 3 passos para treinar a plasticidade visual no dia a dia.
+Hoje BuildSelf revela a ciência por trás da rotina de Turner.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

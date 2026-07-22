@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-J.M.W. Turner a transformé l'histoire de l'art par des rendus lumineux dramatiques. Quel était son secret ? 🌅
+J.M.W. Turner observait l'aube pour capturer la lumière sublime. 🌅
 
-Turner sortait avant l'aube pour contempler les variations de la lumière et de la brume. Plutôt que de dessiner, il gravait ces scènes dans son esprit pour les recréer à l'atelier.
-
-Aujourd'hui, BuildSelf présente la routine de Turner et une méthode en 3 étapes pour stimuler la plasticité visuelle au quotidien.
+Aujourd'hui, BuildSelf vous présente la routine de Turner.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

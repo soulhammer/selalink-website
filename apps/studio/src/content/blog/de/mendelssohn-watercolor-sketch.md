@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Felix Mendelssohn, der Meister der romantischen Musik, faszinierte viele mit seinen Melodien. Wie entstanden die lebendigen Klänge in seiner Musik? 🎨
+Romantik-Genie Felix Mendelssohn schuf zeitlose Musik. Wie erneuerte er seine Inspiration? 🎨
 
-Mendelssohn besaß auch in der bildenden Kunst außergewöhnliches Talent. Auf seinen Reisen malte er jeden Morgen Aquarelle. Er hinterließ Hunderte von Bildern. Für ihn war dies kein bloßes Hobby, sondern ein kognitives Werkzeug, um visuelle Reize in Melodien zu übersetzen.
+Zwischen den Proben malte Mendelssohn Aquarelle in der Natur. Der Wechsel von auditiver zu visueller Wahrnehmung erfrischte seinen Geist.
 
-Heute stellt BuildSelf die wissenschaftlichen Prinzipien hinter Mendelssohns Malroutine vor und zeigt, wie man sie heute anwendet.
+Heute untersucht BuildSelf Mendelssohns Aquarell-Routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

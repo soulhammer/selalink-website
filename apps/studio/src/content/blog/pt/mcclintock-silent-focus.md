@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Barbara McClintock descobriu os transposons e ganhou o Nobel. Qual era o seu segredo de concentração diante do preconceito? 🔬
+Prêmio Nobel por descobrir os "genes saltadores", Barbara McClintock revolucionou a genética. Como ela mantinha tal intuição? 🌽
 
-McClintock mantinha silêncio absoluto ao microscópio. Silenciava todo estímulo externo até se sentir uma com a amostra.
+Todas as manhãs, ela caminhava sozinha pelos milharais observando micro-variações em silêncio absoluto.
 
-Hoje, o BuildSelf apresenta a rotina de McClintock e uma prática de 3 passos para filtrar ruídos cognitivos.
+Hoje BuildSelf revela a ciência por trás da rotina de foco silencioso de Barbara McClintock.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

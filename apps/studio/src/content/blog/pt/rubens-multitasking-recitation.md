@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Peter Paul Rubens, o mestre da arte barroca que também se destacou como diplomata poliglota. De onde vinha a sua explosiva produtividade intelectual? 🎨
+Mestre barroco, Peter Paul Rubens ouvia leituras clássicas enquanto pintava. Essa dupla estimulação elevava seu foco. 🎨
 
-Rubens não parava o seu desenvolvimento intelectual enquanto realizava o trabalho físico de pintar grandes telas. Ele pedia para um assistente ler em voz alta clássicos da filosofia e história. Suas mãos pintavam enquanto seus ouvidos absorviam conhecimento.
-
-Hoje, o BuildSelf apresenta os princípios neurológicos por trás da rotina de escuta de Rubens e um guia prático de 3 passos.
+Hoje BuildSelf revela a ciência por trás da rotina de Peter Paul Rubens.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

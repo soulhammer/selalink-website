@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Jean-Paul Sartre menyintesis eksistensialisme dan memengaruhi sejarah intelektual abad ke-20. Di mana naskah filosofis eksistensialismenya yang luas ditulis? ☕
+Filsuf Jean-Paul Sartre menulis karyanya di kafe-kafe Paris. Derau putih moderat memicu pemikiran abstraknya. ☕
 
-Setiap pagi, Sartre mengunjungi tempat duduk khususnya di lantai dua kafe bersejarah di Paris, 'Café de Flore'. Di tengah kebisingan dan lalu lalang orang, ia membagi waktu secara ketat untuk menulis.
-
-Hari ini, BuildSelf memperkenalkan rutinitas pembagian waktu tempat duduk khusus Sartre dan panduan praktis 3 langkah penataan ruang fokus untuk produktivitas Anda.
+Hari ini BuildSelf mengungkap sains di balik rutinitas Jean-Paul Sartre.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

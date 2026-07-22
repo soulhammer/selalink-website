@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Barbara McClintock ganó el Nobel por descubrir el 'transposón'. ¿Cuál fue su secreto para enfocar la mente bajo presión? 🔬
+Premio Nobel por descubrir los "genes saltarines", Barbara McClintock revolucionó la genética. ¿Cómo mantenía esa intuición? 🌽
 
-McClintock mantenía un silencio absoluto frente a su microscopio. Silenciaba todo estímulo externo hasta sentirse uno con la muestra.
+Cada mañana, caminaba sola por los campos de maíz observando variaciones microscópicas en absoluto silencio. Esta absorción sensorial agudizaba su enfoque.
 
-Hoy, BuildSelf presenta la rutina de McClintock y una práctica de 3 pasos para eliminar el ruido cognitivo.
+Hoy BuildSelf revela la neurociencia tras la rutina de enfoque silencioso de Barbara McClintock.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

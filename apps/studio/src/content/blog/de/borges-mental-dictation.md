@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Jorge Luis Borges revolutionierte die Fantastische Literatur. Wie konnte er nach seiner Erblindung derart komplexe Welten entwerfen? 👁️
+Jorge Luis Borges erdachte Meisterwerke nach seiner Erblindung. 📚
 
-Borges lauschte den Vorlesern und baute im Kopf 3D-Bibliotheken auf. Das Ausformulieren im Geist und spätere Diktieren war sein Schlüssel.
-
-Heute stellt BuildSelf Borges' visuell-räumliche Gedächtnisroutine vor und zeigt, wie Sie Ihre Denkkraft in 3 Schritten stärken.
+Heute untersucht BuildSelf Borges' mentale Diktat-Routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

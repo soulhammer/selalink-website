@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-David Hume estabeleceu o empirismo e inspirou a ciência cognitiva. Qual era o método de relaxamento por trás de seu claro intelecto? ♟️
+Pilar do empirismo ocidental, David Hume inspirou grandes pensadores. Como ele evitava o esgotamento mental? 🎱
 
-Hume sofria com profundas reflexões em seu escritório. Mas ao terminar, deixava a escrita para desfrutar de um jantar e xadrez com amigos.
+Todas as tardes após o estudo, Hume jogava bilhar e jantava com amigos. Afastar-se da reflexão abstrata renovava sua energia mental.
 
-Hoje, o BuildSelf apresenta a rotina de Hume e uma prática de 3 passos para eliminar a fadiga cognitiva no dia a dia.
+Hoje BuildSelf revela a ciência por trás da rotina de reconexão social de David Hume.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

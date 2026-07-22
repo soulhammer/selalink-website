@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Georg Wilhelm Friedrich Hegel vollendete den deutschen Idealismus und prägte spätere Denker tiefgreifend. Wie konnte sein komplexes System entworfen werden? 🗃️
+Meister des deutschen Idealismus, Hegel, schuf ein monumentales Denksystem. Wie strukturierte er dieses Wissen? 🗃️
 
-Wann immer Hegel las, hielt er Gedanken auf kleinen Zetteln fest. Er ordnete diese Zettel alphabetisch und thematisch in Holzkästen. Beim Schreiben zog er diese Zettel heran, um sie neu zu verknüpfen.
+Hegel schrieb jeden Gedanken auf Karteikarten und ordnete sie in Holzkästen. Beim Schreiben verknüpfte er die Karten neu.
 
-Heute stellt BuildSelf die kognitiven Prinzipien hinter Hegels Zettelkasten-System vor und zeigt, wie man es in 3 Schritten als kognitives Werkzeug nutzt.
+Heute untersucht BuildSelf die Neurowissenschaft hinter Hegels Karteikarten-Routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

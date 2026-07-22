@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Peter Paul Rubens, der Meister des Barock, der auch als mehrsprachiger Diplomat glänzte. Woher stammte seine enorme geistige Produktivität? 🎨
+Barockmeister Peter Paul Rubens hörte beim Malen Klassiker-Vorlesungen. Diese duale Stimulation steigerte seine Produktivität. 🎨
 
-Rubens malte riesige Leinwände und ließ sich während dieser physischen Arbeit kontinuierlich aus Geschichtswerken, philosophischen Klassikern und lateinischer Dichtung vorlesen. Seine Hände zeichneten präzise, während seine Ohren Wissen aufnahmen. Dies war sein Geheimnis für übermenschliches Zeitmanagement.
-
-Heute stellt BuildSelf die neurologischen Prinzipien hinter Rubens' Vorlese-Hörroutine vor und zeigt, wie man sie in 3 Schritten anwendet.
+Heute untersucht BuildSelf Rubens' Vorlese-Routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

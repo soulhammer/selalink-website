@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Georg Wilhelm Friedrich Hegel a synthétisé l'idéalisme allemand, influençant profondément les penseurs suivants. Comment son système complexe a-t-il pu être conçu ? 🗃️
+Maître de l'idéalisme allemand, Hegel a façonné la philosophie moderne. Comment organisait-il une pensée si vaste ? 🗃️
 
-Chaque fois que Hegel lisait de vastes livres, il consignait ses concepts sur une fiche. Il classait ces fiches par ordre alphabétique et par thème dans des boîtes en bois. Pour développer ses idées, il reliait ces fiches.
+Hegel notait chaque idée sur des fiches individuelles classées dans des boîtes. En écrivant, il les étalait sur sa table pour les combiner.
 
-Aujourd'hui, BuildSelf présente les principes cognitifs de la routine d'indexation de Hegel et une pratique en 3 étapes pour l'utiliser comme outil d'expansion cognitive.
+Aujourd'hui, BuildSelf vous présente la science derrière la routine de fiches de Hegel.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

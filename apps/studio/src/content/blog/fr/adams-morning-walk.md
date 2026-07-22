@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-John Adams a mené les États-Unis vers l'indépendance. Quel était son secret pour garder un esprit vif durant la révolution ? 🚶‍♂️
+Le 6e président américain John Quincy Adams a conservé une agilité mentale exceptionnelle passé 80 ans. Face aux tensions politiques, comment protégeait-il son cerveau ? 🏊‍♂️
 
-Adams marchait 8 km à vive allure dans la brume matinale. Le soir venu, il notait les enseignements de ses lectures dans son journal.
+Chaque matin avant le lever du soleil, Adams effectuait une marche rapide de 8 km ou nageait dans la rivière Potomac, puis tenait un journal le soir. Cette synergie d'effort physique et d'introspection a fortifié ses capacités.
 
-Aujourd'hui, BuildSelf présente la routine d'Adams et une méthode en 3 étapes pour fortifier l'esprit.
+Aujourd'hui, BuildSelf vous présente la science cognitive derrière la routine de marche et de réflexion de John Quincy Adams.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

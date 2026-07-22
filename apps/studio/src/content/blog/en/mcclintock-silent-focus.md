@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Barbara McClintock discovered the 'transposon' and won the Nobel Prize. What was her extreme secret to concentration amid prejudice? 🔬
+Nobel laureate Barbara McClintock revolutionized genetics by discovering "jumping genes" (transposons). Facing skepticism from mainstream academia for decades, how did she sustain revolutionary focus and intuition? 🌽
 
-McClintock maintained perfect silence when looking at chromosomes through a microscope. Going beyond quietness, she muted all external stimuli until she felt as one with the specimen.
+Every morning, McClintock walked alone into the Cold Spring Harbor cornfields. She spent hours quietly observing micro-variations in corn kernel patterns, feeling a deep "feeling for the organism." This silent, undivided sensory absorption freed her mind from dogma.
 
-Today, BuildSelf introduces McClintock's silent focus routine and a 3-step practice to filter out cognitive noise and strengthen concentration.
+Today, BuildSelf reveals the neuroscience of Barbara McClintock's silent focus routine, showing how quiet observation enhances intuitive problem solving.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

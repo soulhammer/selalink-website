@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Ronald Reagan, Presiden AS ke-40 yang memimpin era perang dingin dengan komunikasi hebat. Apa rahasianya untuk tetap tenang di bawah ketegangan internasional sehari-hari? Jawabannya adalah toples jellybean warna-warni. 🍬
+Presiden AS ke-40 Ronald Reagan terkenal akan ketenangannya. Bagaimana ia mengatasi tekanan rapat di Gedung Putih? 🍬
 
-Untuk berhenti merokok pipa selama menjabat sebagai gubernur, Reagan mulai memakan jellybean. Mengunyah jellybean saat rapat bukan sekadar makan camilan, melainkan metode kontrol otak untuk meredakan stres akut dan memimpin negosiasi dengan luwes.
+Di mejanya selalu ada toples permen jelly. Saat rapat tegang, ia berhenti sejenak menikmati permen. Jeda mikro ini memberi suplai glukosa ke otak.
 
-Hari ini, BuildSelf memperkenalkan rutinitas pengunyahan jellybean Reagan untuk mengendalikan kecemasan instan dan kebiasaan buruk dalam 3 langkah.
+Hari ini BuildSelf mengungkap sains di balik rutinitas Ronald Reagan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

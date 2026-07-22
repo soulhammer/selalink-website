@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Felix Mendelssohn, raksasa musik romantis, memikat banyak orang dengan melodi yang elegan. Bagaimana melodi tiga dimensi yang hidup dalam musiknya diciptakan? 🎨
+Genius Romantis Felix Mendelssohn menciptakan musik abadi. Bagaimana ia memulihkan inspirasinya? 🎨
 
-Mendelssohn memiliki bakat luar biasa dalam seni visual juga. Sepanjang perjalanannya, ia melakukan ritual bangun pagi dan melukis cat air yang indah dari pemandangan alam. Ia meninggalkan ratusan lukisan. Bagi Mendelssohn, rutinitas menggambar ini bukanlah hobi yang terpisah, melainkan alat lintas indra yang memvisualisasikan warna untuk merangsang melodi pendengaran.
+Di antara latihan, Mendelssohn membawa cat air saat berjalan-jalan untuk melukis. Mengubah pemrosesan dari pendengaran ke visual menyegarkan otaknya.
 
-Hari ini, BuildSelf menyajikan prinsip-prinsip ilmiah di balik rutinitas seni pagi Mendelssohn dan bagaimana manusia modern dapat menerapkannya untuk kreativitas sensorik lintas indra.
+Hari ini BuildSelf mengungkap sains kognitif di balik rutinitas lukis cat air Felix Mendelssohn.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

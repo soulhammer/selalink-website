@@ -1,0 +1,38 @@
+{
+  "id": "columbus-nautical-log",
+  "name": "크리스토퍼 콜럼버스",
+  "gender": "male",
+  "era": "근대",
+  "location": "이탈리아, 스페인",
+  "lifespan": "1451 - 1506",
+  "birthYear": 1451,
+  "bio": "1492년 대서양을 건너 신대륙 항로를 개척하여 대항해 시대를 연 탐험가이자 탐험 선장입니다.",
+  "habitName": "매일 밤 항해 일지(Nautical Log) 작성과 별자리 위치 수치 대조 루틴",
+  "tags": [
+    "#기록",
+    "#의사결정",
+    "#안정",
+    "#계획",
+    "#성공습관"
+  ],
+  "timeOfDay": "night",
+  "requiredItems": [
+    "항해 일기장",
+    "사분의(Astrolabe) 또는 나침반"
+  ],
+  "frequency": "daily",
+  "historicalStory": "1492년 미지의 대서양을 항해하던 선장 콜럼버스는 풍랑과 선원들의 반란 공포 속에서도 매일 밤 선장실 촛불 아래 앉아 항해 일지(Nautical Logbook)를 작성했습니다. 그는 바람의 방향, 위도, 사분의로 측정한 별의 각도를 수치로 기록하여 수평선 너머의 불안을 이성적 데이터로 제어했습니다.",
+  "sciencePrinciples": "불안과 미지의 공포 상황에서 정량적 데이터 측정 및 야간 일지 작성(Log writing)은 감정 조절 센터인 편도체(Amygdala)의 오버드라이브를 즉각 차단합니다. 뇌의 전전두엽 논리 회로를 재가동하여 심리적 안정감과 리더십 통제력을 유지하게 만듭니다.",
+  "quote": "바다를 건너려면 수평선 너머 시야에서 육지가 사라지는 것을 지켜볼 용기가 있어야 한다.",
+  "trigger": "불확실한 상황이나 거대한 도전을 앞두고 불안감이 덮쳐올 때",
+  "modernGuide": [
+    "잠들기 전 오늘 있었던 주요 사건과 진행 지표를 3줄의 항해 일지로 노트에 적습니다.",
+    "막연한 감정적 불안을 숫자로 측정 가능한 정량 지표(예: 완료율 80%)로 변환합니다.",
+    "내일 항해할 방향(우선 과제)을 명확히 명시하고 편안히 취침에 듭니다."
+  ],
+  "actionName": "밤 3줄 항해 일지 & 불안 정량화 (콜럼버스 루틴)",
+  "sources": [
+    "Christopher Columbus, *The Journal of Christopher Columbus* (1492-1493)",
+    "Samuel Eliot Morison, *Admiral of the Ocean Sea: A Life of Christopher Columbus*"
+  ]
+}

@@ -6,21 +6,21 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const targetSlugs = [
-  'rodin-sculpting-walk',
-  'schweitzer-night-organ',
-  'montessori-observation-log',
-  'oppenheimer-poetry-balance',
-  'debussy-nature-listening',
-  'nobel-evening-reflection',
-  'braille-tactile-simplification',
-  'rutherford-tea-debate',
-  'maupassant-rowing-reset',
-  'marco-polo-travel-journal'
+  'zhuge-liang-guqin-strategy',
+  'zola-morning-writing-block',
+  'rosalind-franklin-diffraction-focus',
+  'bismarck-morning-ride-priority',
+  'vermeer-camera-obscura-light',
+  'columbus-nautical-log',
+  'potter-botanical-sketch',
+  'gutenberg-movable-type-inspection',
+  'sushi-bamboo-walk-cooking',
+  'jenner-observation-tracking-log'
 ];
 
-// 2026-01-10 ~ 2026-07-15 (약 190일) 간격 중 10개 날짜 고르게 분산 생성 (20일 간격)
-const baseDate = new Date('2026-01-10T00:00:00Z');
-const intervalDays = 19;
+// 2026-01-15 ~ 2026-07-14 (약 180일) 간격 중 10개 날짜 고르게 분산 생성 (20일 간격)
+const baseDate = new Date('2026-01-15T00:00:00Z');
+const intervalDays = 20;
 
 const generatedDates = targetSlugs.map((_, idx) => {
   const d = new Date(baseDate.getTime() + idx * intervalDays * 24 * 60 * 60 * 1000);

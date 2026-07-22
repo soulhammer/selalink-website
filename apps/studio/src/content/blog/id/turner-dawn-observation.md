@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Joseph Mallord William Turner memengaruhi jalannya sejarah seni menuju Impresionisme melalui cahaya dramatis. Apa rahasia di balik pewarnaan yang hidup itu? 🌅
+J.M.W. Turner mengamati fajar setiap hari untuk menangkap cahaya alami. 🌅
 
-Turner pergi ke luar ruangan sebelum matahari terbit untuk menatap perubahan cahaya, kabut, dan awan. Alih-alih membuat sketsa, ia mengukir pemandangan visual tersebut di benaknya lalu menciptakannya kembali di studio.
-
-Hari ini, BuildSelf memperkenalkan rutinitas pengamatan fajar Turner dan panduan praktis 3 langkah untuk melatih plastisitas visual sehari-hari.
+Hari ini BuildSelf mengungkap sains di balik rutinitas Turner.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

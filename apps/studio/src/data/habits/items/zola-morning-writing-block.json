@@ -1,0 +1,38 @@
+{
+  "id": "zola-morning-writing-block",
+  "name": "에밀 졸라",
+  "gender": "male",
+  "era": "근대",
+  "location": "프랑스",
+  "lifespan": "1840 - 1902",
+  "birthYear": 1840,
+  "bio": "'드레퓌스 사건'의 지성인이자 자연주의 문학을 대변하는 세기의 프랑스 대문호입니다.",
+  "habitName": "매일 아침 3시간 \"Nulla dies sine linea\" 엄격한 차단 글쓰기 루틴",
+  "tags": [
+    "#몰입",
+    "#글쓰기",
+    "#생산성",
+    "#의지력",
+    "#계획"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "서재 Desk",
+    "만년필과 원고지"
+  ],
+  "frequency": "daily",
+  "historicalStory": "프랑스의 대문호 에밀 졸라는 서재 책상에 'Nulla dies sine linea(하루도 한 줄의 글을 쓰지 않는 날이 없다)'라는 모토를 새겨 넣었습니다. 그는 매일 아침 9시부터 12시까지 외부 방해와 방문객을 철저히 차단하고 정해진 4쪽의 원고를 작성하는 철통 루틴을 30년 넘게 엄수했습니다.",
+  "sciencePrinciples": "시간 차단(Time Blocking)과 환경 차단은 뇌의 의지력 고갈을 방지합니다. 정해진 시간과 고정된 장소의 반복적 결합은 뇌의 기저핵(Basal Ganglia)에 습관 회로를 각인시켜 저항 없이 깊은 초몰입(Deep Work) 상태로 진입하게 만듭니다.",
+  "quote": "하루도 한 줄의 글을 쓰지 않는 날이 없게 하라 (Nulla dies sine linea).",
+  "trigger": "미루는 습관을 끊고 매일 일관된 생산성을 확보하고 싶을 때",
+  "modernGuide": [
+    "매일 아침 동일한 시간(예: 9시~10시)을 딥 워크 차단 시간으로 지정합니다.",
+    "해당 시간 동안 스마트폰 무음 설정 및 알림을 차단하고 작업에 몰입합니다.",
+    "목표 분량(예: 글 1쪽 또는 코드 1모듈)을 완성할 때까지 유혹 요소를 거절합니다."
+  ],
+  "actionName": "아침 1시간 디지털 차단 몰입 세션 (에밀 졸라 루틴)",
+  "sources": [
+    "Henri Mitterand, *Émile Zola* (3 volumes, 1999-2002)",
+    "Émile Zola, *Correspondence*"
+  ]
+}

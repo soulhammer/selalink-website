@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Peter Paul Rubens, le maître de l'art baroque qui excellait également comme diplomate polyglotte. D'où venait son explosive productivité intellectuelle ? 🎨
+Maître baroque, Peter Paul Rubens écoutait la lecture de classiques en peignant. Cette double stimulation sensorielle enrichissait son inspiration. 🎨
 
-Rubens n'arrêtait pas sa croissance intellectuelle pendant le travail exigeant de la peinture. Il faisait lire à haute voix par un secrétaire des classiques philosophiques et de la poésie. Il dessinait de ses mains tandis que ses oreilles traitaient des connaissances. Cette habitude était son secret pour une gestion du temps surhumaine.
-
-Aujourd'hui, BuildSelf présente les principes neurologiques de la routine de lecture-écoute de Rubens et un guide en 3 étapes.
+Aujourd'hui, BuildSelf vous présente la routine de stimulation de Peter Paul Rubens.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

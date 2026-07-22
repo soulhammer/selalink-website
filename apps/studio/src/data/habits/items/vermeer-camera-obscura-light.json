@@ -1,0 +1,38 @@
+{
+  "id": "vermeer-camera-obscura-light",
+  "name": "요하네스 페르메이르",
+  "gender": "male",
+  "era": "근대",
+  "location": "네덜란드",
+  "lifespan": "1632 - 1675",
+  "birthYear": 1632,
+  "bio": "'진주 귀걸이를 한 소녀', '우유 짜는 하녀'로 빛의 오묘한 정적을 예술로 승화시킨 네덜란드 대표 거장 화가입니다.",
+  "habitName": "매일 창가 카메라 옵스큐라 빛 입자 정밀 관찰 및 심적 정적 관조 루틴",
+  "tags": [
+    "#몰입",
+    "#창의",
+    "#예술",
+    "#휴식",
+    "#사색"
+  ],
+  "timeOfDay": "morning",
+  "requiredItems": [
+    "자연광 창문",
+    "관찰 메모지 또는 렌즈"
+  ],
+  "frequency": "daily",
+  "historicalStory": "네덜란드 델프트의 거장 화가 페르메이르는 매일 아침 햇살이 비추는 작업실 창가에 카메라 옵스큐라(Camera Obscura) 렌즈 장비를 세워두었습니다. 그는 렌즈를 통해 투영되는 빛의 미세한 반사 점(Pointillé)과 사물의 음영 변화를 장시간 정밀하게 관찰하며 고요한 심적 정적 속에서 최고의 미학을 화폭에 옮겨 담았습니다.",
+  "sciencePrinciples": "자연광과 빛의 정교한 음영 변화를 조용히 지속 관찰하는 행위는 시각 피질(Visual Cortex)의 대비 감도를 극대화하고 신경계를 이완시킵니다. 이는 뇌의 집행 제어 네트워크(Executive Control Network)를 활성화하여 시끄러운 시각적 소음 속에서 본질을 꿰뚫어 보는 통찰력을 제공합니다.",
+  "quote": "빛과 그늘이 닿는 모든 미세한 순간 속에 영원한 아름다움이 숨어있다.",
+  "trigger": "복잡한 세상을 한 걸음 물러나 고요한 통찰과 시각적 몰입을 얻고 싶을 때",
+  "modernGuide": [
+    "아침 시간 창가에 앉아 모니터 없이 5분간 들어오는 자연 햇살과 그림자를 가만히 바라봅니다.",
+    "빛에 따라 변화하는 사물의 색감과 미세한 입자 감각에 온전히 시선을 고정시킵니다.",
+    "마음이 고요해지면 오늘 창의적으로 해결하고 싶은 디자인이나 핵심 아이디어를 정리합니다."
+  ],
+  "actionName": "아침 5분 창가 빛 관찰 & 정적 관조 (페르메이르 루틴)",
+  "sources": [
+    "Walter Liedtke, *Vermeer and the Delft School* (Metropolitan Museum of Art, 2001)",
+    "Philip Steadman, *Vermeer's Camera: Uncovering the Truth Behind the Masterpieces*"
+  ]
+}

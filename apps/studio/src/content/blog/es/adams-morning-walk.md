@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-John Adams lideró la independencia de EE. UU. ¿Cómo mantuvo su claridad mental durante los turbulentos años de revolución? 🚶‍♂️
+El sexto presidente de los Estados Unidos, John Quincy Adams, mantuvo una agudeza mental excepcional hasta pasados los 80 años. Enfrentando tensiones políticas extremas, ¿cómo protegió su salud cerebral? 🏊‍♂️
 
-Adams caminaba 5 millas a paso rápido por senderos forestales temprano por la mañana. Por la noche, escribía resúmenes de sus lecturas en su diario.
+Cada mañana al amanecer, Adams realizaba una caminata a paso ligero de 5 millas o nadaba en las frías aguas del río Potomac, seguida de un diario de reflexión por la noche. Esta combinación de ejercicio cardiovascular e introspección diaria fue su escudo cognitivo.
 
-Hoy, BuildSelf presenta la rutina de Adams y una práctica de 3 pasos para fortalecer el cerebro.
+Hoy en BuildSelf, exploramos la ciencia cognitiva tras la rutina de caminata y reflexión de John Quincy Adams, y cómo estimula el factor neurotrófico derivado del cerebro (BDNF).
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

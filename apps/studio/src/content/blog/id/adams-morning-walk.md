@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-John Adams, Presiden ke-2 yang memimpin kemerdekaan AS dan meletakkan dasar pendirian negara. Di tengah masa revolusi yang bergolak dan pertentangan politik yang sengit, apa rahasia kesehatan yang membuatnya mempertahankan kemampuan kognitif yang kuat dan nalar yang jernih hingga akhir hayatnya? 🚶‍♂️
+Presiden AS ke-6 John Quincy Adams mempertahankan stamina intelektual dan ingatan tajam hingga usia 80-an. Bagaimana ia melindungi otaknya dari penuaan dini? 🏊‍♂️
 
-Adams mempraktikkan rutinitas jalan kaki yang ketat sepanjang hidupnya, menempuh jarak 5 mil (sekitar 8 km) dengan langkah yang sangat cepat melalui kabut dan jalan hutan setiap pagi. Setelah meningkatkan vitalitas fisik, ia akan duduk dengan tenang di ruang kerjanya pada malam hari untuk mencatat intisari buku yang dibacanya hari itu sambil merenungkan hari tersebut.
+Setiap pagi sebelum fajar, Adams melakukan jalan cepat 8 km atau berenang di sungai Potomac, dilanjutkan dengan menulis diari pada malam hari. Sinergi ini memperkuat ketahanan otaknya.
 
-Hari ini, BuildSelf memperkenalkan rutinitas jalan cepat dan menulis catatan refleksi Adams serta panduan praktis 3 langkah untuk memperkuat otak bagi orang modern.
+Hari ini BuildSelf mengungkap sains kognitif di balik rutinitas jalan cepat dan refleksi malam John Quincy Adams.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

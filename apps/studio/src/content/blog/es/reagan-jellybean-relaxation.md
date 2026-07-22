@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Ronald Reagan lideró a EE. UU. con comunicación brillante. ¿Cuál fue el secreto para mantener la calma bajo tensión? Las gominolas. 🍬
+El 40º Presidente de EE.UU. Ronald Reagan era famoso por su serenidad. ¿Cómo manejaba la tensión en reuniones clave? 🍬
 
-Para dejar de fumar en su época de gobernador, Reagan comenzó a comer gominolas. Masticarlas durante reuniones difíciles calmaba su estrés.
+En su escritorio siempre había un frasco de caramelos "Jelly Belly". Durante cumbres tensas, hacía una pausa para saborear uno. Esta pequeña pausa reponía glucosa en su cerebro.
 
-Hoy, BuildSelf presenta la rutina de gominolas de Reagan y una práctica de 3 pasos para controlar la ansiedad instantánea.
+Hoy BuildSelf examina la rutina de relajación con caramelos de Ronald Reagan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

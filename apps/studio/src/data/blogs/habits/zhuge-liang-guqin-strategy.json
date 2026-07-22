@@ -1,0 +1,218 @@
+{
+  "zhuge-liang-guqin-strategy": {
+    "title": {
+      "ko": "세기 최고의 지략가? 제갈량의 새벽 구친 연주와 천문 전략 루틴",
+      "en": "History's Greatest Strategist? Zhuge Liang's Dawn Guqin & Celestial Strategy Routine",
+      "ja": "歴史上最高の strategist？諸葛亮の朝の古琴演奏と天文戦略ルーティン",
+      "zh": "历史顶尖智囊？诸葛亮的清晨弹琴与夜观天象习惯",
+      "es": "¿El mejor estratega de la historia? La rutina de guqin al amanecer y estrategia celeste de Zhuge Liang",
+      "fr": "Le plus grand stratège ? La routine de guqin à l'aube et d'observation céleste de Zhuge Liang",
+      "de": "Der größte Stratege der Geschichte? Zhuge Liangs morgendliche Guqin- und Himmelsstrategie-Routine",
+      "pt": "O maior estrategista da história? A rotina de guqin ao amanhecer e estratégia celeste de Zhuge Liang",
+      "id": "Ahli Strategi Terbesar Sejarah? Rutinitas Guqin Fajar & Pengamatan Bintang Zhuge Liang"
+    },
+    "description": {
+      "ko": "삼국시대 촉한의 승상 제갈량이 복잡한 정세 속에서 새벽 구친 연주와 야간 천문 관측으로 고도의 마인드 컨트롤을 이뤄낸 비밀과 실천 가이드.",
+      "en": "Discover how Zhuge Liang maintained ultimate clarity through morning guqin playing and star observation.",
+      "ja": "諸葛亮が過酷な情勢の中で朝の古琴演奏と夜の天文観測でマインドコントロールを成し遂げた秘密を紹介します。",
+      "zh": "介绍诸葛亮在复杂政局中通过清晨弹琴与夜观天象保持极度清醒与战略定力的习惯。",
+      "es": "Descubra cómo Zhuge Liang mantuvo la máxima claridad mediante el guqin matutino y la observación estelar.",
+      "fr": "Découvrez comment Zhuge Liang maintenait une clarté mentale absolue grâce au guqin et à l'astronomie.",
+      "de": "Erfahren Sie, wie Zhuge Liang durch morgendliches Guqin-Spiel und Sternenbeobachtung absolute Klarheit bewahrte.",
+      "pt": "Descubra como Zhuge Liang manteve clareza absoluta tocando guqin ao amanhecer e observando estrelas.",
+      "id": "Temukan bagaimana Zhuge Liang menjaga kejelasan mental melalui permainan guqin pagi dan pengamatan bintang."
+    },
+    "authority": {
+      "ko": "사서 '삼국지(三國志) 촉서 제갈량전' 및 제갈량 친필 '계자서(戒子書)'",
+      "en": "Historical Records of the Three Kingdoms (Zhuge Liang Biography) & Commandment to My Son",
+      "ja": "史書「三国志 蜀書 諸葛亮伝」および「戒子書」",
+      "zh": "史书《三国志·蜀书·诸葛亮传》与《戒子书》",
+      "es": "Registros Históricos de los Tres Reinos (Biografía de Zhuge Liang) y Carta a mi hijo",
+      "fr": "Chroniques des Trois Royaume (Biographie de Zhuge Liang) & Carte à mon fils",
+      "de": "Chroniken der Drei Reiche (Zhuge Liang Biografie) & Brief an meinen Sohn",
+      "pt": "Registros Históricos dos Três Reinos (Biografia de Zhuge Liang) e Carta ao meu filho",
+      "id": "Catatan Sejarah Tiga Kerajaan (Biografi Zhuge Liang) & Surat untuk Putraku"
+    },
+    "intro": {
+      "ko": "동한 말기 삼국시대, 촉한(蜀漢)을 창건한 유비를 도와 천하삼분지계를 완성하고 위·촉·오의 치열한 대립 속에서 명상상(名宰相)으로 역사에 이름을 새긴 세기의 지략가, 제갈량(諸葛亮). 적벽대전과 남정, 그리고 승패가 교차하는 숱한 군사 작전 속에서 수십만 군사의 생사와 국가의 존망을 어깨에 짊어져야 했던 그는 극심한 정서적 압박과 심리적 중압감을 매일 견뎌내야 했습니다. 🪕\n\n제갈량은 매일 새벽 맑은 공기가 서린 처마 끝에서 5음계로 이루어진 전통 현악기 구친(古琴)을 직접 연주하는 정적 루틴을 지켜냈습니다. 맑은 기운 속에서 거문고 줄을 튕기며 마음속의 군사적 집착과 노여움을 씻어내고, 밤이 되면 은하수가 흐르는 하늘 아래 서서 별자리와 기상의 변화를 관측하며 거시적인 판세를 가다듬었습니다. 그가 남긴 친필 지침 '계자서(戒子書)'의 핵심인 \"마음이 담박하지 않으면 뜻을 밝힐 수 없고, 침착하여 조용하지 않으면 먼 이상에 이를 수 없다(非淡泊無以明志, 非寧靜無以致遠)\"는 철학은 바로 이 새벽 연주 루틴에서 비롯되었습니다.\n\n오늘 BuildSelf에서는 세기의 전략가 제갈량이 평생 실천했던 새벽 현악 연주와 시야 확장 루틴에 담긴 알파파 뇌파 유도 및 의사결정 클리어링의 인지과학적 과학을 소개합니다.",
+      "en": "During the chaotic Three Kingdoms period of ancient China, Zhuge Liang guided Liu Bei to found Shu Han, masterminding legendary strategies that reshaped East Asian history. Burdened with managing the life and death of hundreds of thousands of soldiers and the survival of a state amidst fierce geopolitical rivalry, he faced daily unimaginable psychological pressure. 🪕\n\nEvery morning at dawn, Zhuge Liang sat under his quiet pavilion, playing the traditional five-tone zither, the Guqin. As the delicate acoustic vibrations cleared his mind of military tension and anger, he transformed stress into serene clarity. At night, he stood beneath the starry sky observing constellations to read macro weather and strategic trends. His famous motto in *Jiazi Shu*—\"Without tranquility, one cannot clarify one's ambition; without quietude, one cannot reach far\"—stemmed directly from this morning Guqin ritual.\n\nToday, BuildSelf explores the cognitive science behind Zhuge Liang's dawn Guqin playing and night observation routine, revealing how acoustic relaxation and visual expansion refresh decision-making clarity.",
+      "ja": "三国時代の熾烈な対立の中で、劉備を助けて蜀漢を建国し、後世まで語り継がれる天才軍師・政治家として歴史に名を刻んだ諸葛亮（孔明）。赤壁の戦いから数々の軍事作戦において数十万の兵の生死と国家の存亡を背負っていた彼は、毎日絶大な精神的プレッシャーを耐え抜いていました。 🪕\n\n諸葛亮は毎朝の清らかな空気の中、伝統的な五音階の弦楽器「古琴（グーチン）」を静かに演奏する静寂ルーティンを守り抜きました。琴の響きに耳を澄ませて胸の中の執着や焦りを洗い流し、夜には満天の星空の下に立って気象と星座の変化を観察し、大局的な判断力を養いました。彼が遺した『戒子書』の「淡泊にあらざれば以て志を明らかにすること無く、寧静にあらざれば以て遠きに至ること無し」という名言は、まさにこの朝の演奏習慣から生まれたものです。\n\n今日のBuildSelfでは、諸葛亮が一生実践した朝の古琴演奏と夜の視界拡張ルーティンに隠されたアルファ波誘導と意思決定クリアリングの認知科学的メカニズムを紹介します。",
+      "zh": "三国时代，诸葛亮辅佐刘备缔造蜀汉，以出神入化的韬略奠定三分天下的格局。在赤壁之战与诸多生死攸关的军事对决中，他肩负着几十万大军的存亡与国家命运，每天承受着常人难以想象的心理巨压。 🪕\n\n诸葛亮坚持每天清晨在袅袅晨雾中弹奏古琴。在清雅的五音律动中，他涤荡心中的浮躁与焦虑，令大脑恢复极致的宁静。入夜后，他静立于繁星之下，仰观天象气候的变化，在宏观视野中理清战略大局。他在《诫子书》中所著的名言“非淡泊无以明志，非宁静无以致远”，正是源自这一晨间弹琴与夜观星象的修身习惯。\n\n今天 BuildSelf 将为您揭示诸葛亮晨间弹琴与夜观星象习惯背后的认知科学，带您领略声学放松与视野拓展如何帮助大脑清空焦虑、做出睿智决断。",
+      "es": "Durante el caótico período de los Tres Reinos en la antigua China, Zhuge Liang guió a Liu Bei a fundar Shu Han, ideando estrategias legendarias. Soportando la responsabilidad sobre la vida de miles de soldados y la supervivencia de un imperio, enfrentaba a diario una presión psicológica inimaginable. 🪕\n\nCada mañana al amanecer, Zhuge Liang se sentaba en su pabellón a tocar el Guqin, un instrumento tradicional de cinco tonos. Las vibraciones acústicas limpian su mente del estrés militar y la tensión. De noche, contemplaba las estrellas para analizar las tendencias meteorológicas y estratégicas. Su famosa máxima en el *Jiazi Shu*—\"Sin tranquilidad no hay ambición clara; sin calma no se llega lejos\"—nació de este ritual matutino.\n\nHoy en BuildSelf, exploramos la ciencia cognitiva tras la rutina de Guqin y observación nocturna de Zhuge Liang, revelando cómo la relajación acústica y la expansión visual renuevan la claridad en la toma de decisiones.",
+      "fr": "Pendant la période des Trois Royaumes, Zhuge Liang guida Liu Bei pour fonder le royaume de Shu. Portant le poids de la vie de centaines de milliers de soldats et la survie d'un État, il faisait face chaque jour à une pression psychologique colossale. 🪕\n\nChaque matin à l'aube, Zhuge Liang jouait du Guqin, une cithare traditionnelle à cinq tons. Les vibrations acoustiques libéraient son esprit des tensions militaires. La nuit, il observait les étoiles pour lire les tendances stratégiques. Sa célèbre citation du *Jiazi Shu*—\"Sans sérénité, on ne peut clarifier son ambition\"—est née de ce rituel.\n\nAujourd'hui, BuildSelf vous présente la science cognitive derrière la routine du Guqin et d'observation de Zhuge Liang, montrant comment la relaxation acoustique clarifie la prise de décision.",
+      "de": "In der Ära der Drei Reiche führte Zhuge Liang Liu Bei zur Gründung von Shu Han und erdachte Strategien von historischem Ausmaß. Angesichts der Verantwortung für Hunderttausende Soldaten stand er täglich unter enormem Druck. 🪕\n\nJeden Morgen spielte Zhuge Liang auf der Guqin, einer traditionellen Zither. Die sanften Schwingungen befreiten seinen Geist von Stress. Nachts beobachtete er die Sterne, um meteorologische Trends zu erkennen. Sein berühmtes Zitat im *Jiazi Shu*—\"Ohne Seelenruhe keine klare Ambition\"—entstand aus diesem Morgenritual.\n\nHeute präsentiert BuildSelf die kognitive Wissenschaft hinter Zhuge Liangs Guqin-Routine und zeigt, wie akustische Entspannung die Entscheidungsfindung schärft.",
+      "pt": "Durante o período dos Três Reinos, Zhuge Liang liderou grandes estratégias militares e políticas. Carregando o peso de milhares de vidas e o destino de um reino, ele enfrentava diariamente uma pressão enorme. 🪕\n\nTodas as manhãs ao amanhecer, Zhuge Liang tocava Guqin, uma cítara tradicional. As vibrações acústicas limpavam sua mente do estresse. À noite, observava o céu estrelado para ler tendências estratégicas. Sua célebre frase—\"Sem tranquilidade, não há ambição clara\"—nasceu desse ritual.\n\nHoje no BuildSelf, exploramos a ciência cognitiva por trás da rotina de Guqin e observação de Zhuge Liang, mostrando como a relaxação acústica renova a clareza decisória.",
+      "id": "Pada era Tiga Kerajaan di Tiongkok kuno, Zhuge Liang memimpin strategi legendaris yang mengubah sejarah. Menanggung beban hidup ratusan ribu prajurit, ia menghadapi tekanan psikologis yang sangat besar setiap hari. 🪕\n\nSetiap pagi saat fajar, Zhuge Liang memainkan Guqin, kecapi tradisional lima nada. Getaran akustiknya membersihkan pikirannya dari ketegangan militer. Pada malam hari, ia mengamati bintang untuk membaca tren strategis.\n\nHari ini BuildSelf mengungkap sains kognitif di balik rutinitas Guqin Zhuge Liang, menunjukkan bagaimana relaksasi akustik memperbarui kejelasan pengambilan keputusan."
+    },
+    "whyTitle": {
+      "ko": "알파 뇌파 유도를 통한 정서적 과부하 차단과 거시적 공간 판단력",
+      "en": "Emotional Overload Block & Strategic Clarity via Alpha Wave Induction",
+      "ja": "アルファ波誘導による感情的オーバーロード遮断とマクロ判断力",
+      "zh": "通过α脑电波诱导消除情绪过载与提升宏观决策力",
+      "es": "Bloqueo de Sobrecarga Emocional y Claridad Estratégica mediante Ondas Alfa",
+      "fr": "Blocage de la Surcharge Émotionnelle & Clarté Estratégique via Ondes Alpha",
+      "de": "Blockade emotionaler Überlastung & strategische Klarheit durch Alpha-Wellen",
+      "pt": "Bloqueio de Sobrecarga Emocional e Clareza Estratégica via Ondas Alfa",
+      "id": "Mencegah Kelebihan Emosional & Kejelasan Strategis Melalui Gelombang Alfa"
+    },
+    "whyDesc": {
+      "ko": "중요한 과제나 불안감이 높을 때 뇌의 편도체(Amygdala)가 과활성화되어 시야가 좁아지고 우유부단해집니다.\n\n제갈량이 실천한 구친 연주와 고요한 별 관측은 뇌의 알파파(8-12Hz) 발생을 유도하는 강력한 <strong>'정서적 클리어링 시스템'</strong>입니다. 마음을 고요히 가라앉히면 불안이 차단되고 전전두엽 피질의 통찰 회로가 활성화되어 복잡한 선택지 속에서 가장 정답에 가까운 대전략을 도출할 수 있습니다.",
+      "en": "High-stakes pressure overactivates the amygdala, narrowing vision.\n\nPlaying string music and observing space induces alpha waves (8-12Hz), acting as an <strong>'emotional clearing system'</strong> that restores strategic foresight.",
+      "ja": "プレッシャーは偏桃体を過剰活性化させ視野を狭めます。\n\n弦楽器の演奏と静かな観測はアルファ波を誘導する<strong>「感情的クリアリングシステム」</strong>です。",
+      "zh": "高压环境下杏仁核过度激活会导致视野狭窄。\n\n弹奏弦乐与观星是引发α波的<strong>“情绪重置系统”</strong>，能恢复全局战略眼光。",
+      "es": "La presión hiperactiva la amígdala, reduciendo la visión.\n\nTocar música de cuerda induce ondas alfa, funcionando como un <strong>'sistema de limpieza emocional'</strong>.",
+      "fr": "La pression hyperactive l'amygdale, rétrécissant la vision.\n\nLa musique à cordes induit des ondes alpha, agissant comme un <strong>'système de nettoyage émotionnel'</strong>.",
+      "de": "Druck überaktiviert die Amygdala und verengt die Sicht.\n\nSaitenmusik erzeugt Alpha-Wellen als <strong>'emotionales Reinigungssystem'</strong>.",
+      "pt": "A pressão hiperativa a amígdala, estreitando a visão.\n\nMúsica de cordas induz ondas alfa como um <strong>'sistema de limpeza emocional'</strong>.",
+      "id": "Tekanan memicu hiperaktivitas amigdala dan menyempitkan pandangan.\n\nMusik petik memicu gelombang alfa sebagai <strong>'sistem pembersihan emosional'</strong>."
+    },
+    "cautionTitle": {
+      "ko": "소음과 자극을 줄이고 내면의 정적 상태를 확보하세요",
+      "en": "Reduce Noise and Secure Inner Tranquility",
+      "ja": "騒音を減らし内面の静寂を確保しましょう",
+      "zh": "减少噪音刺激，确保内心宁静",
+      "es": "Reduzca el ruido y asegure la tranquilidad interior",
+      "fr": "Réduisez le bruit et sécurisez la tranquilidad intérieure",
+      "de": "Reduzieren Sie Lärm und sichern Sie innere Ruhe",
+      "pt": "Reduza o ruído e garanta a tranquilidade interior",
+      "id": "Kurangi kebisingan dan dapatkan ketenangan batin"
+    },
+    "cautionDesc": {
+      "ko": "제갈량의 명언처럼 담박함과 고요함 없이는 멀리 내다볼 수 없습니다. 외부의 시끄러운 뉴스나 SNS 알림을 차단하고 10분간 의도적인 이완과 정적 시간을 확보하세요.",
+      "en": "Without tranquility, one cannot reach far. Turn off notifications and secure 10 minutes of intentional stillness.",
+      "ja": "静寂なしに遠くを見渡すことはできません。通知を切り10分間の静けさを確保してください。",
+      "zh": "非宁静无以致远。关闭消息推送，确保10分钟刻意留白的宁静时光。",
+      "es": "Sin tranquilidad no se llega lejos. Desactive notificaciones y asegure 10 minutos de calma.",
+      "fr": "Sans tranquillité, on ne va pas loin. Éteignez les notifications et gardez 10 min de calme.",
+      "de": "Ohne Ruhe kommt man nicht weit. Schalten Sie Benachrichtigungen aus und sichern Sie 10 Minuten Stille.",
+      "pt": "Sem tranquilidade não se vai longe. Desligue notificações e garanta 10 min de calma.",
+      "id": "Tanpa ketenangan, tak bisa melangkah jauh. Matikan notifikasi dan siapkan 10 menit ketenangan."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "아침 현악 이완 음악 청취",
+          "en": "Morning String Music Relaxation",
+          "ja": "朝の弦楽リラックス音楽鑑賞",
+          "zh": "清晨弦乐放松聆听",
+          "es": "Escucha Matutina de Música de Cuerda",
+          "fr": "Écoute Matinale de Musique à Cordes",
+          "de": "Morgendliche Saitenmusik-Entspannung",
+          "pt": "Audição Matinal de Música de Cordas",
+          "id": "Mendengarkan Musik Petik Pagi"
+        },
+        "text": {
+          "ko": "일어나서 5~10분간 가야금, 거문고, 혹은 클래식 현악 연주곡을 틀어놓고 심호흡하며 머리를 비웁니다.",
+          "en": "Listen to calm string music for 5-10 minutes upon waking while taking deep breaths.",
+          "ja": "起床後5〜10分間、和楽器やクラシックの弦楽演奏を聴きながら深呼吸して頭を空にします。",
+          "zh": "起床后听5-10分钟古琴或古典弦乐，配合深呼吸将大脑清空。",
+          "es": "Escuche música de cuerda relajante de 5 a 10 minutos al despertar mientras respira profundo.",
+          "fr": "Écoutez de la musique à cordes 5 à 10 minutes au réveil en respirant profondément.",
+          "de": "Lauschen Sie nach dem Aufstehen 5-10 Minuten Saitenmusik und atmen Sie tief durch.",
+          "pt": "Ouça música de cordas por 5 a 10 minutos ao acordar enquanto respira fundo.",
+          "id": "Dengarkan musik petik selama 5-10 menit saat bangun tidur sambil menarik napas dalam."
+        }
+      },
+      {
+        "name": {
+          "ko": "오늘의 핵심 대전략 1가지 기재",
+          "en": "Write Down 1 Master Strategy for Today",
+          "ja": "今日の最も critical な戦略1つを記録",
+          "zh": "写下今天最重要的1个核心战略",
+          "es": "Escriba 1 Estrategia Principal para Hoy",
+          "fr": "Écrivez 1 Stratégie Principale pour la Journée",
+          "de": "Schreiben Sie 1 Hauptstrategie für heute auf",
+          "pt": "Escreva 1 Estratégia Principal para Hoje",
+          "id": "Tuliskan 1 Strategi Utama Hari Ini"
+        },
+        "text": {
+          "ko": "마음이 완전히 침착해진 상태에서 오늘 수많은 할 일 중 승패를 가르는 가장 중요한 과제 1가지만을 노트에 작성합니다.",
+          "en": "In a completely calm state, record the single most pivotal task for today in your notebook.",
+          "ja": "色が落ち着いたら、今日最も重要な勝負どころとなるタスクを1つだけノートに書き出します。",
+          "zh": "在内心彻底平静的状态下，在笔记本上写下今天决定成败的最核心任务。",
+          "es": "Con la mente en calma, anote en su cuaderno la única tarea verdaderamente decisiva de hoy.",
+          "fr": "Calme, notez dans votre carnet la seule tâche véritablement décisive de la journée.",
+          "de": "Schreiben Sie in ruhigem Zustand die eine entscheidende Aufgabe des Tages auf.",
+          "pt": "Com a mente calma, anote no caderno a única tarefa verdadeiramente decisiva de hoje.",
+          "id": "Dengan pikiran tenang, catat 1 tugas paling menentukan untuk hari ini di buku catatan."
+        }
+      },
+      {
+        "name": {
+          "ko": "야간 시야 확장 및 정적 리셋",
+          "en": "Nightly Perspective Expansion & Quiet Reset",
+          "ja": "夜の視野拡大と静寂リセット",
+          "zh": "夜间视角拓展与静心重置",
+          "es": "Expansión de Perspectiva Nocturna y Reinicio",
+          "fr": "Élargissement de la Perspective du Soir",
+          "de": "Nächtliche Perspektiverweiterung & Reset",
+          "pt": "Expansão de Perspectiva Noturna e Reinício",
+          "id": "Perluasan Perspektif Malam & Reset Tenang"
+        },
+        "text": {
+          "ko": "밤 퇴근 후 3분간 창밖 밤하늘이나 조용한 공간을 바라보며 당일 지엽적인 스트레스를 날려 보냅니다.",
+          "en": "Gaze at the night sky or a quiet space for 3 minutes after work to release minor stresses.",
+          "ja": "夜、仕事が終わったら3分間夜空や静かな空間を見つめ、今日の細かい stress を 洗い流します。",
+          "zh": "下班后凝视夜空或安静空间3分钟，将全天琐碎的压力彻底释放。",
+          "es": "Mire el cielo nocturno durante 3 minutos después del trabajo para liberar el estrés.",
+          "fr": "Regardez le ciel nocturne 3 minutes après le travail pour libérer le stress.",
+          "de": "Blicken Sie abends 3 Minuten in den Nachthimmel, um Tagesstress loszulassen.",
+          "pt": "Olhe para o céu noturno por 3 minutos após o trabalho para liberar o estresse.",
+          "id": "Tatap langit malam selama 3 menit setelah bekerja untuk melepaskan stres seharian."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "악기를 직접 연주하지 못해도 효과가 있나요?",
+          "en": "Does it work if I can't play an instrument?",
+          "ja": "楽器を直接演奏できなくても効果はありますか？",
+          "zh": "不会演奏乐器也能生效吗？",
+          "es": "¿Funciona si no sé tocar ningún instrumento?",
+          "fr": "Est-ce efficace si je ne joue pas d'instrument ?",
+          "de": "Wirkt es auch, wenn ich kein Instrument spiele?",
+          "pt": "Funciona se eu não souber tocar um instrumento?",
+          "id": "Apakah tetap efektif jika saya tidak bisa bermain alat musik?"
+        },
+        "answer": {
+          "ko": "네, 고유한 울림을 가진 오케스트라나 아쿠스틱 현악 음악을 집중해서 듣는 청각적 몰입만으로도 알파 뇌파 유도 효과는 동일하게 나타납니다.",
+          "en": "Yes, focused acoustic string music listening provides the exact same alpha wave induction benefits.",
+          "ja": "はい、アコースティックな弦楽を集中して聴く音響的没頭だけで、アルファ波誘導効果は同様に得られます。",
+          "zh": "是的，专注聆听富于共鸣的原声弦乐，在诱发α脑电波方面效果完全相同。",
+          "es": "Sí, escuchar atentamente música de cuerda acústica ofrece exactamente el mismo efecto de ondas alfa.",
+          "fr": "Oui, écouter attentivement de la musique à cordes acoustique offre exactement les mêmes bienfaits.",
+          "de": "Ja, das bewusste Anhören von Akustik-Saitenmusik hat denselben Alpha-Wellen-Effekt.",
+          "pt": "Sim, ouvir música de cordas acústica com foco oferece exatamente o mesmo efeito de ondas alfa.",
+          "id": "Ya, mendengarkan musik petik akustik secara fokus memberikan manfaat gelombang alfa yang sama."
+        }
+      },
+      {
+        "question": {
+          "ko": "왜 수많은 할 일 중 1가지만 골라야 하나요?",
+          "en": "Why should I pick only 1 main task out of many?",
+          "ja": "なぜ多くのタスクから1つだけを選ぶべきなのですか？",
+          "zh": "为什么要在众多任务中只挑选1个？",
+          "es": "¿Por qué debo elegir solo 1 tarea principal entre muchas?",
+          "fr": "Pourquoi choisir 1 seule tâche principale parmi tant d'autres ?",
+          "de": "Warum sollte ich nur 1 Hauptaufgabe auswählen?",
+          "pt": "Por que devo escolher apenas 1 tarefa principal?",
+          "id": "Mengapa harus memilih 1 tugas utama saja dari sekian banyak?"
+        },
+        "answer": {
+          "ko": "뇌는 여러 개의 동시다발 과제(Multitasking)를 수행할 때 과열됩니다. 1가지 결정적 핵심 과제에 에너지를 집중시키면 전전두엽의 자원이 효율적으로 배분됩니다.",
+          "en": "The brain overheats during multitasking. Focusing energy on 1 decisive task allocates prefrontal resources efficiently.",
+          "ja": "脳はマルチタスク時にオーバーヒートします。1つの決定的タスクに集中することで前頭前野の資源が効率的に分配されます。",
+          "zh": "大脑在多任务并行时极易过热。将精力集中于1项关键任务能最高效地分配前额叶资源。",
+          "es": "El cerebro se sobrecalienta con la multitarea. Concentrarse en 1 tarea clave asigna los recursos prefrontales eficientemente.",
+          "fr": "Le cerveau surchauffe en multitâche. Concentrer l'énergie sur 1 tâche alloue les ressources préfrontales efficacement.",
+          "de": "Multitasking überhitzt das Gehirn. Die Konzentration auf 1 Hauptaufgabe teilt die Ressourcen des präfrontalen Kortex optimal ein.",
+          "pt": "O cérebro superaquece no multitarefa. Focar em 1 tarefa chave aloca os recursos prefrontais com eficiência.",
+          "id": "Otak mengalami kelebihan beban saat multitasking. Fokus pada 1 tugas utama mengalokasikan sumber daya otak secara efisien."
+        }
+      }
+    ],
+    "pubDate": "2026-01-15",
+    "updatedDate": "2026-01-15"
+  }
+}

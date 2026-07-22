@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Georg Wilhelm Friedrich Hegel synthesized German idealism and completed the dialectical system, profoundly influencing subsequent thinkers. How could his complex philosophical system be designed? 🗃️
+Mastermind of German Idealism whose dialectical system shaped modern philosophy, Georg Wilhelm Friedrich Hegel built a monumental intellectual legacy. How did he organize such vast philosophical systems without drowning in complexity? 🗃️
 
-Whenever Hegel read vast amounts of books, he recorded his unique concepts or logical thoughts on a small card. He systematically cataloged these cards alphabetically and topically in custom wooden boxes. When expanding ideas, he retrieved these cards to connect and compare them.
+Hegel transcribed every single concept or excerpt onto individual paper cards. He cataloged tens of thousands of cards in wooden boxes organized by topics. When constructing new works, he spread these modular cards across his table, reorganizing them physically to uncover dialectical connections between ideas.
 
-Today, BuildSelf introduces the cognitive principles behind Hegel's card indexing routine and a 3-step practice to use it as a cognitive expansion tool.
+Today, BuildSelf explores the cognitive scaffolding behind Hegel's card index routine, revealing how modular information management fuels mental flexibility.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Jean-Paul Sartre sintetizó el existencialismo. ¿Dónde se redactaron sus vastos conceptos? En el bullicioso Café de Flore. ☕
+Jean-Paul Sartre escribía sus obras en cafés de París. El ruido blanco moderado estimulaba su pensamiento abstracto. ☕
 
-Cada mañana, Sartre se sentaba en su asiento preferido. Pese al ruido, dividía su jornada rigurosamente para escribir durante horas.
-
-Hoy, BuildSelf presenta la rutina de Sartre y una práctica de 3 pasos de anclaje espacial para aumentar la productividad diaria.
+Hoy BuildSelf examina la rutina de escritura en café de Jean-Paul Sartre.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -1,0 +1,38 @@
+{
+  "id": "rosalind-franklin-diffraction-focus",
+  "name": "로잘린드 프랭클린",
+  "gender": "female",
+  "era": "현대",
+  "location": "영국",
+  "lifespan": "1920 - 1958",
+  "birthYear": 1920,
+  "bio": "DNA 이중구조 발견의 결정을 제공한 'Photo 51'의 주인공이자 세기의 물리학적 생물학자입니다.",
+  "habitName": "매일 0.1도 미세 오차 교정과 정량 데이터 수치 직접 검증 루틴",
+  "tags": [
+    "#몰입",
+    "#학습",
+    "#집중",
+    "#성공습관",
+    "#생산성"
+  ],
+  "timeOfDay": "afternoon",
+  "requiredItems": [
+    "정밀 노트",
+    "측정 도구 및 연필"
+  ],
+  "frequency": "daily",
+  "historicalStory": "영국의 여성 과학자 로잘린드 프랭클린은 런던 킹스 콜리지 실험실에서 DNA 회절 사진을 촬영할 때 수분 함량과 X선 카메라 각도를 0.1도 단위로 정밀 조율했습니다. 그녀는 매일 수십 시간 동안 관측된 점들의 거리와 각도를 직접 수치 계산하며 타협 없는 치밀함으로 역사적 Photograph 51을 완성했습니다.",
+  "sciencePrinciples": "0.1 단위의 정밀 데이터 대조 및 시각-수치 검증 훈련은 뇌의 두정엽(Parietal Lobe) 공간 분석 회로와 좌뇌의 논리 검증 네트워크를 강화합니다. 이는 단순 느낌이나 추측에 의한 오류를 차단하고 확고한 객관적 정답을 도출하는 뇌 기반을 형성합니다.",
+  "quote": "과학과 일상생활은 분리될 수 없다. 과학은 나에게 진실에 대한 열정이다.",
+  "trigger": "작업의 정확도를 높이고 섬세한 치품질과 정밀함을 확보하고 싶을 때",
+  "modernGuide": [
+    "핵심 프로젝트 완료 직전 10분간 '프랭클린 정밀 검수 세션'을 마련합니다.",
+    "감이나 직관 대신 실제 수치, 지표, 철자, 오탈자를 1:1로 직접 대조 확인합니다.",
+    "검증된 데이터 결과를 기록지에 서명하듯 남기고 다음 단계로 진행합니다."
+  ],
+  "actionName": "오후 10분 정량 데이터 미세 검수 (프랭클린 루틴)",
+  "sources": [
+    "Brenda Maddox, *Rosalind Franklin: The Dark Lady of DNA* (2002)",
+    "King's College London Archives"
+  ]
+}

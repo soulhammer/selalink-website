@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Jorge Luis Borges, the master of fantasy literature who inspired Umberto Eco. How did he draft complex, philosophical worlds after going blind? 👁️
+Master of labyrinths Jorge Luis Borges wrote masterpieces after losing his sight. 📚
 
-Borges listened to books read by assistants, visually assembling vast mental libraries and labyrinths. Designing the text layout in his mind's eye and dictating it was his core driver.
+He composed entire stories mentally before dictating them aloud, maximizing working memory.
 
-Today, BuildSelf introduces Borges' spatial working memory routine and a 3-step cognitive practice for modern busy people.
+Today, BuildSelf explores Jorge Luis Borges' mental dictation routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

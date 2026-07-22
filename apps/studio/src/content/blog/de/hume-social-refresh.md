@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-David Hume begründete den Empirismus und prägte die kognitive Wissenschaft. Wie erholte sich dieser scharfsinnige Denker? ♟️
+Höhepunkt des westlichen Empirismus, David Hume, prägte die kognitive Philosophie. Wie verhinderte er geistige Erschöpfung? 🎱
 
-Hume dachte intensiv nach, legte aber abends den Stift beiseite, um mit Freunden zu essen, Schach zu spielen und sich zu unterhalten.
+Jeden Nachmittag schloss Hume seine Bibliothek, um Billard zu spielen und mit Freunden zu speisen. Diese soziale Auszeit lud seine Akkus auf.
 
-Heute stellt BuildSelf Humes Entspannungsroutine vor und zeigt, wie Sie mentale Müdigkeit in 3 Schritten abbauen.
+Heute untersucht BuildSelf David Humes soziale Reset-Routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

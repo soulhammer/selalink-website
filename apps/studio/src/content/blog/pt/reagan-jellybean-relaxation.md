@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Ronald Reagan liderou os EUA com comunicação brilhante. Qual era o seu segredo para manter a calma sob tensão? As gomas. 🍬
+O 40º Presidente dos EUA Ronald Reagan era famoso por sua serenidade. Como ele lidava com a tensão no escritório? 🍬
 
-Para parar de fumar, Reagan começou a comer gomas. Mastigá-las durante reuniões difíceis acalmava o estresse acumulado.
+Em sua mesa havia um pote de balas Jelly Belly. Durante reuniões tensas, ele fazia uma pausa para saborear uma. Essa micro-pausa trazia glicose ao cérebro.
 
-Hoje, o BuildSelf apresenta a rotina de gomas de Reagan e uma prática de 3 passos para controlar a ansiedade.
+Hoje BuildSelf revela a ciência por trás da rotina de Ronald Reagan.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

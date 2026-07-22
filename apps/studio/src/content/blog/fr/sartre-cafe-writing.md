@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Jean-Paul Sartre a théorisé l'existentialisme. Où a-t-il rédigé ses œuvres ? Au Café de Flore. ☕
+Jean-Paul Sartre écrivait ses chefs-d'œuvre dans les cafés parisiens. Le bruit ambiant stimulait sa créativité. ☕
 
-Chaque matin, Sartre s'installait à sa table attitrée. Malgré le bruit ambiant, il découpait son temps pour écrire durant des heures.
-
-Aujourd'hui, BuildSelf présente la routine de Sartre et une méthode en 3 étapes pour doper votre productivité.
+Aujourd'hui, BuildSelf vous présente la routine de Jean-Paul Sartre.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

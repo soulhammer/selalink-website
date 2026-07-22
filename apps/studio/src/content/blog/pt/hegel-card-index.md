@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Georg Wilhelm Friedrich Hegel sintetizou o idealismo alemão e completou o sistema dialético, influenciando pensadores posteriores. Como seu complexo sistema foi projetado? 🗃️
+Mestre do idealismo alemão, Hegel construiu um legado intelectual monumental. Como ele organizava suas ideias? 🗃️
 
-Sempre que Hegel lia vastos livros, registrava seus conceitos em uma ficha. Ele catalogava essas fichas alfabeticamente e por temas em caixas de madeira. Ao expandir ideias, recuperava essas fichas.
+Hegel anotava cada conceito em fichas individuais e as organizava em caixas. Ao escrever, ele as reorganizava na mesa para criar conexões dialéticas.
 
-Hoje, o BuildSelf apresenta os princípios cognitivos por trás da rotina de indexação de Hegel e uma prática de 3 passos para usá-la como expansão cognitiva.
+Hoje BuildSelf revela a ciência por trás da rotina de fichas de Hegel.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Jorge Luis Borges lideró la literatura fantástica. ¿Cómo pudo crear mundos filosóficos tan complejos tras quedar ciego? 👁️
+Jorge Luis Borges compuso obras maestras tras perder la vista. 📚
 
-Borges escuchaba lecturas y construía bibliotecas y laberintos tridimensionales en su mente. Diseñar las frases en su cabeza y dictarlas fue su motor.
-
-Hoy, BuildSelf presenta la rutina de visualización de Borges y una práctica de 3 pasos de memoria de trabajo espacial.
+Hoy BuildSelf explora la rutina de dictado mental de Borges.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

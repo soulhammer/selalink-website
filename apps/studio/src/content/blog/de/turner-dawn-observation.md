@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-J.M.W. Turner veränderte die Kunstgeschichte durch die Darstellung von Licht. Was war sein Geheimnis? 🌅
+J.M.W. Turner beobachtete täglich den Sonnenaufgang. 🌅
 
-Turner beobachtete vor Sonnenaufgang das wechselnde Licht. Er prägte sich die Bilder ein, um sie später im Atelier aus dem Gedächtnis zu malen.
-
-Heute stellt BuildSelf Turners Routine vor und zeigt, wie Sie Ihre visuelle Wahrnehmung in 3 Schritten trainieren.
+Heute untersucht BuildSelf Turners Sonnenaufgangs-Routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

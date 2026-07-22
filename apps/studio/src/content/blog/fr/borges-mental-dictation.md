@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Jorge Luis Borges a révolutionné la littérature fantastique. Comment a-t-il pu concevoir des univers si complexes après être devenu aveugle ? 👁️
+Jorge Luis Borges a composé des chefs-d'œuvre après être devenu aveugle. 📚
 
-Borges écoutait les lectures et bâtissait des bibliothèques mentales en 3D. Concevoir le texte mentalement pour le dicter était sa méthode.
-
-Aujourd'hui, BuildSelf présente la routine de Borges et une méthode en 3 étapes pour stimuler la mémoire spatiale.
+Aujourd'hui, BuildSelf vous présente la routine de Borges.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

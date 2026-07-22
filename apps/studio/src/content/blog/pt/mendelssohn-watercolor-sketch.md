@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Felix Mendelssohn, o gigante da música romântica, cativou muitos com suas melodías. Como foram criadas as cores e sons de suas composições? 🎨
+Gênio do Romantismo, Felix Mendelssohn criou obras imortais. Como ele renovava sua inspiração? 🎨
 
-Mendelssohn possuía um talento extraordinário também nas artes visuais. Durante suas viagens, costumava acordar cedo e pintar aquarelas de paisagens. Ele deixou centenas de quadros. Para ele, essa rotina era uma ferramenta multissensorial para inspirar as notas musicais.
+Entre ensaios, Mendelssohn levava aquarelas para pintar paisagens. Alternar do canal auditivo para o visual renovava sua mente.
 
-Hoje, o BuildSelf apresenta os princípios científicos por trás da rotina artística de Mendelssohn e como as pessoas modernas podem utilizá-la.
+Hoje BuildSelf revela a ciência por trás da rotina de aquarela de Felix Mendelssohn.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

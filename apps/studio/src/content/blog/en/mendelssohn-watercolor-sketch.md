@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Felix Mendelssohn, the romantic music giant, captured the ears of many with elegant melodies. How were the living, three-dimensional melodies in his music created? 🎨
+Genius Romantic composer Felix Mendelssohn brought Bach back to humanity and crafted timeless pieces like *A Midsummer Night's Dream*. How did he maintain boundless artistic inspiration amidst exhausting conducting schedules? 🎨
 
-Mendelssohn possessed extraordinary talent in visual art as well. Throughout his travels, he practiced a ritual of waking up early and painting delicate watercolor sketches of landscapes. He left hundreds of paintings. For Mendelssohn, this drawing routine was not a separate hobby, but a cross-modal tool that visualized colors and proportions to stimulate auditory melodies.
+Between intense score-writing and rehearsals, Mendelssohn carried a portable watercolor kit on walks. He painted landscapes and architecture, shifting his brain's focus from auditory processing to visual-spatial creation. This cross-sensory reset rejuvenated his mind.
 
-Today, BuildSelf introduces the scientific principles behind Mendelssohn's morning art routine and how modern people can apply it to cross-modal sensory creativity.
+Today, BuildSelf explores Felix Mendelssohn's watercolor sketching routine, showing how sensory switching fuels creative problem solving.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

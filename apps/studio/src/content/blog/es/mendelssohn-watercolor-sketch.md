@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Felix Mendelssohn, el gigante de la música romántica, cautivó a muchos con sus melodías. ¿Cómo se crearon los sonidos tridimensionales de su música? 🎨
+Genio del Romanticismo, Felix Mendelssohn creó obras inmortales. ¿Cómo reponía su inspiración? 🎨
 
-Mendelssohn poseía un talento extraordinario también en el arte visual. Durante sus viajes, practicaba el ritual de levantarse temprano y pintar acuarelas. Dejó cientos de cuadros. Para él, esta rutina no era un pasatiempo aparte, sino una herramienta cruzada que visualizaba colores para estimular melodías auditivas.
+Entre ensayos, Mendelssohn llevaba acuarelas a sus paseos para pintar paisajes. Cambiar de canal auditivo a visual renovaba su cerebro.
 
-Hoy, BuildSelf presenta los principios científicos detrás de la rutina artística de Mendelssohn y cómo las personas modernas pueden aplicarla.
+Hoy BuildSelf explora la neurociencia tras la rutina de acuarela de Felix Mendelssohn.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

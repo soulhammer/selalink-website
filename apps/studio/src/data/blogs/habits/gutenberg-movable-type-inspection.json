@@ -1,0 +1,218 @@
+{
+  "gutenberg-movable-type-inspection": {
+    "title": {
+      "ko": "인쇄 혁명의 거장? 구텐베르크의 아침 금속 활자 정밀 오차 검수 루틴",
+      "en": "Master of the Printing Revolution? Gutenberg's Morning Movable Type Inspection",
+      "ja": "印刷革命の巨匠？グーテンベルクの朝の金属活字精密誤差点検ルーティン",
+      "zh": "印刷术革命的巨匠？古腾堡的清晨活字精准校对习惯",
+      "es": "¿El maestro de la Revolución de la Imprenta? La rutina de inspección de tipos de Gutenberg",
+      "fr": "Le maître de la Révolution de l'Imprimerie ? La routine d'inspection de Gutenberg",
+      "de": "Der Meister der Druckrevolution? Gutenbergs morgendliche Lettern-Prüf-Routine",
+      "pt": "O mestre da Revolução da Imprensa? A rotina de inspeção de tipos móveis de Gutenberg",
+      "id": "Master Revolusi Percetakan? Rutinitas Inspeksi Presisi Cetak Gutenberg"
+    },
+    "description": {
+      "ko": "금속 활자의 발명가 구텐베르크가 매일 아침 활자 수평 오차를 손과 눈으로 검수하며 시스템 표준과 품질을 지켜낸 뇌과학적 습관.",
+      "en": "Discover how Johannes Gutenberg achieved zero-error publishing through his morning movable type inspection habit.",
+      "ja": "金属活字の発明者グーテンベルクが毎朝活字の誤差を手と目で点検し、品質を守り抜いた脳科学的習慣を紹介します。",
+      "zh": "介绍金属活字发明家古腾堡每天早晨亲手校验活字对齐与水平误差、守护史诗级品质标准的决策习惯。",
+      "es": "Descubra cómo Gutenberg logró publicaciones sin errores revisando sus tipos móviles cada mañana.",
+      "fr": "Découvrez comment Gutenberg publiait sans erreur en inspectant ses caractères chaque matin.",
+      "de": "Erfahren Sie, wie Gutenberg durch seine morgendliche Prüfroutine fehlerfreie Drucke erzielte.",
+      "pt": "Descubra como Gutenberg alcançou publicações sem erros revisando seus tipos móveis todas as manhãs.",
+      "id": "Temukan bagaimana Gutenberg mencapai percetakan tanpa kesalahan dengan memverifikasi tipe cetak tiap pagi."
+    },
+    "authority": {
+      "ko": "알베르트 카프 전기 'Johannes Gutenberg' 및 마인츠 구텐베르크 박물관 사료",
+      "en": "Albert Kapr Biography 'Johannes Gutenberg' & Gutenberg Museum Mainz Archives",
+      "ja": "アルバート・カプラ評伝「Johannes Gutenberg」およびマインツ・グーテンベルク博物館史料",
+      "zh": "阿尔伯特·卡普尔传记《Johannes Gutenberg》与美因茨古腾堡博物馆史料",
+      "es": "Biografía 'Johannes Gutenberg' de Albert Kapr y Archivos del Museo Gutenberg de Maguncia",
+      "fr": "Biographie par Albert Kapr 'Johannes Gutenberg' & Archives du Gutenberg Museum",
+      "de": "Albert Kapr Biografie 'Johannes Gutenberg' & Archive des Gutenberg-Museums Mainz",
+      "pt": "Biografia 'Johannes Gutenberg' de Albert Kapr e Arquivos do Museu Gutenberg",
+      "id": "Biografi Albert Kapr 'Johannes Gutenberg' & Arsip Museum Gutenberg Mainz"
+    },
+    "intro": {
+      "ko": "15세기 금속 활자 인쇄술을 발명하여 지식의 독점을 깨부수고 인류의 정보 보급 속도를 폭발시켜 종교개혁과 현대 문명의 개막을 이끈 대발명가, 요하네스 구텐베르크(Johannes Gutenberg). 수만 개의 낱개 금속 활자를 조합하여 42줄 성경을 인쇄해 낸 그의 작업은 고도의 정밀함과 감각적 몰입을 요구하는 인류사의 대공정이었습니다. 🔠\n\n구텐베르크는 매일 아침 침침한 공방 등불 아래 앉아 납과 틴, 안티몬을 융합하여 주조해낸 금속 활자 블록들을 하나하나 손에 쥐었습니다. 그는 활자 표면의 높낮이와 0.1mm의 간격 오차, 활자 조합의 정렬 상태를 수백 번 손가락 감각과 돋보기로 정밀 검수했습니다. 뇌의 섣부른 추측(Heuristics)을 차단하고 완벽한 감각 검수를 고수한 이 꼼꼼한 루틴이 오탈자 제로의 인쇄 혁명을 완성해냈습니다.\n\n오늘 BuildSelf에서는 구텐베르크의 0.1mm 활자 감각 검수 루틴에 담긴 인지 오류 제어와 시각-촉각 피질 고도화의 원리를 소개합니다.",
+      "en": "Inventor of the movable type printing press in the 15th century, Johannes Gutenberg democratized knowledge and ignited the Renaissance and Scientific Revolution. Printing his famed 42-Line Bible required crafting and assembling tens of thousands of individual metal type pieces with zero margin for error. 🔠\n\nEvery morning in his Mainz workshop under lantern light, Gutenberg individually inspected metal type blocks cast from lead and tin alloys. He used his fingertips and magnifying lenses to check for 0.1mm height alignment and edge crispness. By replacing mental assumptions with physical micro-inspection, he built a sensory quality control routine that delivered flawless printed text.\n\nToday, BuildSelf analyzes Johannes Gutenberg's 0.1mm type inspection routine, showing how sensory cross-checking suppresses heuristic bias and boosts precision.",
+      "ja": "15世紀に可動活字印刷術を発明し、知識の独占を打ち破って情報伝達速度を爆発させ、宗教改革と近代文明を開幕させた大発明家、ヨハネス・グーテンベルク（Johannes Gutenberg）。数万個の金属活字を組み立てて『42行聖書』を印刷した彼の作業は、高度の精密さを求める大事業でした。 🔠\n\nグーテンベルクは毎朝、暗い工房のランプの下で鉛合金で作られた活字ブロックを一つ一つ手に取りました。活字の表面の高さや0.1mmのズレ、配置の整列状態を指先の感覚と拡大鏡で幾度も検品しました。脳の早合点（ヒューリスティクス）を遮断し、完璧な感覚検証を維持したこの検品ルーティンが誤字ゼロの印刷革命を達成させました。\n\n今日のBuildSelfでは、グーテンベルクの0.1mm活字検品ルーティンに潜む認知エラー制御と視覚・触覚皮質高度化の原理を紹介します。",
+      "zh": "作为15世纪活字印刷术的发明者，约翰尼斯·谷登堡（Johannes Gutenberg）破除了知识垄断，掀起了欧洲文艺复兴与科学革命。印刷著名的《42行圣书》需要铸造并组装数万个金属活字，容不得半点误差。 🔠\n\n每天清晨，在美因茨工作坊的灯光下，谷登堡都会挨个检查铅合金活字块。他用指尖触感与放大镜核对0.1毫米的字高对齐度与边缘清晰度。这种用感官微观核对替代大脑主观推测的习惯，打造出了零错误的印刷传奇。\n\n今天 BuildSelf 将为您剖析谷登堡0.1毫米活字检视习惯背后的神经科学，带您了解感官双重对比如何抑制启发式偏见、提升精准交付能力。",
+      "es": "Inventor de la imprenta de tipos móviles en el siglo XV, Johannes Gutenberg democratizó el conocimiento. Imprimir la Biblia de 42 líneas requería una precisión sin margen de error. 🔠\n\nCada mañana, Gutenberg inspeccionaba individualmente los tipos metálicos. Usaba las yemas de sus dedos y lupas para verificar alineaciones de 0.1 mm. Esta inspección previno errores.\n\nHoy BuildSelf analiza la rutina de inspección de Gutenberg.",
+      "fr": "Inventeur de l'imprimerie à caractères mobiles au XVe siècle, Johannes Gutenberg a démocratisé le savoir. Imprimer la Bible à 42 lignes exigait une précision chirurgicale. 🔠\n\nChaque matin, Gutenberg inspectait chaque caractère en métal, vérifiant des alignements de 0,1 mm au toucher et à la loupe.\n\nAujourd'hui, BuildSelf vous présente la science derrière la routine d'inspection de Gutenberg.",
+      "de": "Erfinder des Buchdrucks mit beweglichen Lettern im 15. Jahrhundert, Johannes Gutenberg, demokratisierte das Wissen. Der Druck der 42-zeiligen Bibel erforderte absolute Präzision. 🔠\n\nJeden Morgen prüfte Gutenberg die Metalllettern einzeln auf 0,1 mm Genauigkeit mit Lupe und Fingerspitzen.\n\nHeute analysiert BuildSelf Gutenbergs Inspektion-Routine.",
+      "pt": "Inventor da imprensa de tipos móveis no século XV, Johannes Gutenberg democratizou o conhecimento. Imprimir a Bíblia de 42 linhas exigia precisão absoluta. 🔠\n\nTodas as manhãs, Gutenberg inspecionava cada tipo de metal, verificando alinhamentos de 0,1 mm ao toque e com lupa.\n\nHoje BuildSelf revela a ciência por trás da rotina de inspeção de Gutenberg.",
+      "id": "Penemu mesin cetak jenis bergerak abad ke-15, Johannes Gutenberg mendemokratisasi pengetahuan. Mencetak Alkitab 42 Baris membutuhkan presisi tanpa cela. 🔠\n\nSetiap pagi, Gutenberg memeriksa setiap balok logam, memverifikasi keselarasan 0,1 mm dengan ujung jari dan kaca pembesar.\n\nHari ini BuildSelf mengungkap sains di balik rutinitas inspeksi Gutenberg."
+    },
+    "whyTitle": {
+      "ko": "ERN(오류 관련 음성 파형) 강화를 통한 품질 기준 고도화와 오차 자동 감지",
+      "en": "ERN Wave Enhancement for High Quality Standards & Error Detection",
+      "ja": "ERN（エラー関連陰性波形）強化による品質基準高度化とエラー自動検知",
+      "zh": "通过 ERN 脑波强化大幅提升品质标准与自动感知偏差",
+      "es": "Mejora de Ondas ERN para Altos Estándares de Calidad y Detección de Errores",
+      "fr": "Amélioration des Ondes ERN pour de Hauts Standards de Qualité",
+      "de": "ERN-Wellen-Verstärkung für hohe Qualitätsstandards & Fehlererkennung",
+      "pt": "Melhoria de Ondas ERN para Altos Padrões de Qualidade e Detecção de Erros",
+      "id": "Peningkatan Gelombang ERN untuk Standar Kualitas & Deteksi Kesalahan"
+    },
+    "whyDesc": {
+      "ko": "작업 시스템에 조그마한 유격이나 미세 오류를 방치하면 미세한 실수가 누적되어 결국 전체 대형 시스템 부실로 이어집니다.\n\n구텐베르크처럼 작업 직전 5분간 시스템 정렬 수평을 점검하는 <strong>'오차 점검 루틴'</strong>은 뇌의 오류 감지 피질인 ERN(Error-Related Negativity)의 감도를 훈련시킵니다. 미세한 오차도 즉각 알아채고 정정하게 하여 결함 없는 최고 품질을 보장합니다.",
+      "en": "Leaving minor errors uncorrected causes system-wide breakdowns over time.\n\n5 minutes of <strong>'Alignment Inspection'</strong> before work trains ERN sensitivity, enabling your brain to instantly spot and fix mistakes.",
+      "ja": "作業システムの些細なズレを放置すると、最終的にシステム全体の欠陥に繋がります。\n\n作業直前の5分間の<strong>「誤差点検ルーティン」</strong>は脳のエラー検知皮質（ERN）の感度を訓練し、無欠陥の品質を保証します。",
+      "zh": "对工作系统中的微小偏差听之任之，微小疏漏将不断累积并导致最终整个大型系统的崩溃。\n\n在开工前花5分钟进行<strong>“对齐与误差点检”</strong>，能大幅训练大脑错误相关负波(ERN)的敏锐度，让偏差在萌芽期即被发现并纠正。",
+      "es": "Dejar pequeños errores sin corregir causa fallos a nivel de sistema con el tiempo.\n\n5 minutos de <strong>'Inspección de Alineación'</strong> entrenan la sensibilidad ERN para corregir fallos al instante.",
+      "fr": "Laisser de petites erreurs non corrigées entraîne des pannes globales.\n\n5 minutes d'<strong>'Inspection d'Alignement'</strong> entraînent la sensibilité ERN à corriger les erreurs.",
+      "de": "Kleine Fehler unkorrigiert zu lassen führt zu Systemausfällen.\n\n5 Minuten <strong>'Ausrichtungsprüfung'</strong> schulen die ERN-Empfindlichkeit zur sofortigen Korrektur.",
+      "pt": "Deixar pequenos erros sem correção causa falhas em todo o sistema.\n\n5 minutos de <strong>'Inspeção de Alinhamento'</strong> treinam a sensibilidade ERN para corrigir falhas.",
+      "id": "Membiarkan kesalahan kecil menyebabkan kegagalan sistemik secara bertahap.\n\n5 menit <strong>'Inspeksi Keselarasan'</strong> melatih sensitivitas ERN untuk mengoreksi kesalahan seketika."
+    },
+    "cautionTitle": {
+      "ko": "습관화된 시스템 점검으로 감에 의한 방심을 막으세요",
+      "en": "Prevent Carelessness by Making Inspection Systematic",
+      "ja": "習慣化されたシステム点検で油断を防ぎましょう",
+      "zh": "通过常规系统校对杜绝凭经验掉以轻心",
+      "es": "Evite el descuido haciendo que la inspección sea sistemática",
+      "fr": "Évitez l'inattention en rendant l'inspection systématique",
+      "de": "Vermeiden Sie Nachlässigkeit durch systematische Prüfung",
+      "pt": "Evite a desatenção tornando a inspeção sistemática",
+      "id": "Cegah kelalaian dengan menjadikan inspeksi sebagai sistem"
+    },
+    "cautionDesc": {
+      "ko": "'이 정도면 대충 맞겠지'라는 방심이 대형 인쇄 구김을 만듭니다. 매일 아침 5분간 시스템 정렬 수평을 눈과 손으로 직관 확인하는 프로세스를 규칙으로 굳히세요.",
+      "en": "Assuming 'This looks good enough' causes major publishing misprints. Solidify the 5-minute alignment check as a rule.",
+      "ja": "「これくらいで良いだろう」という油断が大きな印刷ミスを生みます。毎朝5分間の点検をルールとして固めてください。",
+      "zh": "“大概差不多就行”的掉以轻心是产生重大印制事故的根源。请将每天早晨5分钟的系统对齐点检固定为铁律。",
+      "es": "Asumir 'Esto parece suficientemente bueno' causa errores graves. Consolide la inspección de 5 minutos como regla.",
+      "fr": "Penser que 'C'est assez bien' cause des erreurs majeures. Consolidez l'inspection de 5 minutes comme règle.",
+      "de": "Zu glauben 'Das reicht schon' führt zu großen Fehlern. Festigen Sie den 5-Minuten-Check als Regel.",
+      "pt": "Achar que 'Está bom o suficiente' causa erros graves. Consolide a inspeção de 5 minutos como regra.",
+      "id": "Menganggap 'Ini sudah cukup baik' menyebabkan kesalahan fatal. Jadikan periksa 5 menit ini aturan wajib."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "아침 작업 시스템 5분 정렬 점검 세션",
+          "en": "5-Minute Morning System Alignment Check",
+          "ja": "朝の作業システム5分間整列点検セッション",
+          "zh": "开启清晨5分钟工作系统对齐校验",
+          "es": "Sesión de 5 Minutos de Alineación del Sistema",
+          "fr": "Session de 5 Minutes d'Alignement du Système",
+          "de": "5-minütiger morgendlicher System-Ausrichtungs-Check",
+          "pt": "Sessão de 5 Minutos de Alinhamento do Sistema",
+          "id": "Sesi 5 Menit Periksa Keselarasan Sistem Pagi"
+        },
+        "text": {
+          "ko": "본 작업 시작 직전, 코딩 린터 실행, 템플릿 서식 확인, 혹 정밀 도구의 수평 상태를 5분간 점검합니다.",
+          "en": "Right before main work, run your linters, check template layouts, or inspect precision tools for 5 minutes.",
+          "ja": "メイン作業の直前、リンターの実行やテンプレートのレイアウト確認、精密ツールの状態を5分間点検します。",
+          "zh": "在正式工作前，用5分钟时间运行代码检查工具、查验模板对齐版式或检视精细工具的状态。",
+          "es": "Justo antes del trabajo principal, ejecute linters, revise plantillas o inspecione herramientas durante 5 minutos.",
+          "fr": "Juste avant de commencer, vérifiez vos modèles, outils ou code pendant 5 minutes.",
+          "de": "Prüfen Sie direkt vor der Hauptarbeit 5 Minuten lang Ihre Vorlagen, Code-Linter oder Werkzeuge.",
+          "pt": "Logo antes do trabalho principal, verifique seus modelos, ferramentas ou código por 5 minutos.",
+          "id": "Tepat sebelum bekerja, jalankan periksa linter, cek tata letak templat selama 5 menit."
+        }
+      },
+      {
+        "name": {
+          "ko": "눈과 손을 이용한 1:1 오차 직접 검수",
+          "en": "Direct 1:1 Visual & Tactile Error Inspection",
+          "ja": "目と手を使った1:1の直接誤差点検",
+          "zh": "结合眼观与手触进行 1:1 误差点检",
+          "es": "Inspección Directa 1:1 de Errores Visual y Táctil",
+          "fr": "Inspection Directe 1:1 Visuelle & Tactile",
+          "de": "Direkte 1:1 visuelle & taktile Fehlerprüfung",
+          "pt": "Inspeção Direta 1:1 de Erros Visual e Tátil",
+          "id": "Inspeksi Kesalahan Langsung 1:1 Secara Visual & Taktil"
+        },
+        "text": {
+          "ko": "화면의 픽셀 수치, 오탈자, 주소 유효성 등 오류 발생 가능 지점 3곳을 직접 손가락으로 짚으며 확인합니다.",
+          "en": "Touch or point directly at 3 error-prone spots like pixel margins, typos, or link URLs.",
+          "ja": "画面のピクセル数値や誤字脱字、URLなどエラーが起きやすい3箇所を指で指しながら直接確認します。",
+          "zh": "用手指逐一指着像素数值、错别字或链接地址等3处最易出错的卡口点进行亲力核验。",
+          "es": "Señale con el dedo 3 puntos propensos a error como márgenes de píxeles, erratas o enlaces.",
+          "fr": "Pointez du doigt 3 points sensibles comme les marges, fautes de frappe ou liens.",
+          "de": "Zeigen Sie mit dem Finger auf 3 fehleranfällige Stellen wie Pixelränder oder URLs.",
+          "pt": "Apontando com o dedo 3 pontos propensos a erro como margens de pixels, erros ou links.",
+          "id": "Tunjuk langsung 3 titik rawan kesalahan seperti piksel, ejaan, atau URL."
+        }
+      },
+      {
+        "name": {
+          "ko": "시스템 오차 제로 확정 및 인쇄/발행 개시",
+          "en": "Confirm Zero Error & Initiate Production/Publishing",
+          "ja": "システム誤差ゼロ確定と生産/発行開始",
+          "zh": "确认系统零误差并启动生产或发布",
+          "es": "Confirmar Cero Errores e Iniciar Producción",
+          "fr": "Confirmer Zéro Erreur & Lancer la Production",
+          "de": "Null-Fehler-Bestätigung & Produktionsstart",
+          "pt": "Confirmar Zero Erros e Iniciar Produção",
+          "id": "Konfirmasi Nol Kesalahan & Mulai Produksi/Rilis"
+        },
+        "text": {
+          "ko": "정렬 및 시스템 오차 제로 상태가 확인되면 자신 있게 본 작업 버튼을 누르고 최고 품질로 출하합니다.",
+          "en": "Once alignment and zero errors are confirmed, confidently hit the execute button for top-quality output.",
+          "ja": "整列と系統誤差ゼロが確認されたら、自信を持ってメインの実行ボタンを押し最高の品質で出荷します。",
+          "zh": "在确认对齐精准且零误差后，充满自信地按下主工作或发布按钮，以极致品质产出。",
+          "es": "Una vez confirmada la alineación sin errores, pulse el botón de ejecución con total confianza.",
+          "fr": "Une fois l'alignement sans erreur confirmé, appuyez sereinement sur le bouton d'exécution.",
+          "de": "Nach der Null-Fehler-Bestätigung drücken Sie vertrauensvoll den Startknopf.",
+          "pt": "Assim que o alinhamento sem erros for confirmado, pressione o botão de execução com confiança.",
+          "id": "Setelah keselarasan tanpa kesalahan terkonfirmasi, tekan tombol rilis dengan percaya diri."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "소프트웨어 자동 테스트가 있는데 수동 점검을 왜 해야 하나요?",
+          "en": "Why do manual inspection if we have automated software testing?",
+          "ja": "ソフトウェアの自動テストがあるのに、なぜ手動点検をする必要がありますか？",
+          "zh": "既然已有软件自动化测试，为什么还需要人工手动点检？",
+          "es": "¿Por qué hacer una inspección manual si hay pruebas automatizadas?",
+          "fr": "Pourquoi inspecter manuellement quand il y a des tests automatisés ?",
+          "de": "Warum manuell prüfen, wenn es automatisierte Tests gibt?",
+          "pt": "Por que fazer inspeção manual se existem testes automatizados?",
+          "id": "Mengapa harus inspeksi manual jika sudah ada tes otomatis?"
+        },
+        "answer": {
+          "ko": "자동 테스트는 로직 오류를 잡지만, 사람이 느끼는 레이아웃 어색함이나 시각적 미세 불균형은 잡지 못합니다. 5분 사람 눈 검수가 완벽함을 완성합니다.",
+          "en": "Automated tests catch logic bugs, but fail at human visual flow or layout awkwardness. Human eyes complete perfection.",
+          "ja": "自動テストはロジックエラーを捉えますが、人間が感じるレイアウトの違和感は捉えられません。人の目が完璧さを補完します。",
+          "zh": "自动化测试只能拦截逻辑 Bug，却无法捕捉人类体感上的视觉不和谐或布局扭曲。人工5分钟目测是走向完美的临门一脚。",
+          "es": "Las pruebas automáticas detectan fallos lógicos, pero no la desarmonía visual. El ojo humano completa la perfección.",
+          "fr": "Les tests automatiques attrapent les bugs logiques, pas la gène visuelle. L'œil humain parfait le tout.",
+          "de": "Automatisierte Tests finden Logikfehler, aber keine visuellen Unstimmigkeiten. Das menschliche Auge vollendet die Qualität.",
+          "pt": "Testes automáticos pegam erros de lógica, mas não o desalinhamento visual. O olho humano completa a perfeição.",
+          "id": "Tes otomatis menangkap bug logika, bukan kejanggalan visual manusia. Mata manusia menyempurnakan kualitas."
+        }
+      },
+      {
+        "question": {
+          "ko": "매일 아침 점검하다가 시간이 지연되면 어떻게 하나요?",
+          "en": "What if daily morning inspection causes work delays?",
+          "ja": "毎朝の点検で作業時間が遅延したらどうすればいいですか？",
+          "zh": "如果每天早晨点检导致工作进度被推迟怎么办？",
+          "es": "¿Qué pasa si la inspección diaria retrasa el inicio del trabajo?",
+          "fr": "Que faire si l'inspection quotidienne retarde le travail ?",
+          "de": "Was tun, wenn die tägliche Prüfung zu Verzögerungen führt?",
+          "pt": "O que fazer se a inspeção diária atrasar o trabalho?",
+          "id": "Bagaimana jika inspeksi harian menyebabkan keterlambatan kerja?"
+        },
+        "answer": {
+          "ko": "타이머를 딱 5분으로 한정하세요. 5분 동안 가장 치명적인 오차 지점 3곳만 확인해도 사고의 95% 이상을 미연에 방지할 수 있습니다.",
+          "en": "Cap the timer strictly at 5 minutes. Inspecting 3 high-risk spots in 5 minutes prevents over 95% of fatal errors.",
+          "ja": "タイマーを5分に限定してください。5分で最もリスクの高い3箇所を点検するだけで事故の95%を防げます。",
+          "zh": "严格将倒计时限定为5分钟。在5分钟内仅快速校验风险最高的3处核心卡口，即可消灭 95% 以上的大型偏差事故。",
+          "es": "Limite el temporizador a 5 minutos. Revisar 3 puntos críticos en 5 minutos previene más del 95% de errores.",
+          "fr": "Limitez le minuteur à 5 minutes. Inspecter 3 points clés en 5 minutes évite 95 % des erreurs.",
+          "de": "Begrenzen Sie den Timer auf 5 Minuten. 3 Risikostellen in 5 Minuten verhindern 95 % aller Fehler.",
+          "pt": "Limite o cronômetro a 5 minutos. Inspecionar 3 pontos críticos em 5 minutos previne mais de 95% dos erros.",
+          "id": "Batasi pengukur waktu 5 menit. Memeriksa 3 titik berisiko tinggi mencegah lebih dari 95% kesalahan."
+        }
+      }
+    ],
+    "pubDate": "2026-06-04",
+    "updatedDate": "2026-06-04"
+  }
+}

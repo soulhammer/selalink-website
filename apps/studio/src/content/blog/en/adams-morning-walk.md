@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-John Adams, the 2nd president of the US who laid the foundations of the country. How did he maintain strong cognitive abilities throughout his life? 🚶‍♂️
+The 6th U.S. President John Quincy Adams maintained extraordinary intellectual stamina and razor-sharp memory past his 80s. Serving as diplomat, president, and congressman over six decades of intense national turbulence, how did he protect his brain against cognitive aging and immense political stress? 🏊‍♂️
 
-Adams practiced a rigorous walking routine, pacing 5 miles rapidly through mist and forest paths. Then, in the evening, he sat in his study to write summaries of his readings.
+Every morning before sunrise, Adams plunged into the freezing Potomac River for a swim or embarked on a vigorous 5-mile power walk through rugged forest trails. Having stimulated his cerebral circulation, he spent quiet evenings writing detailed reflections and book excerpts in his diary by hand. This powerful synergy of physical exertion and evening introspection fortified his cognitive reserve.
 
-Today, BuildSelf introduces Adams' walking and writing routine and a 3-step brain strengthening method for modern busy people.
+Today, BuildSelf explores the cognitive science behind John Quincy Adams' power walk and evening reflection routine, demonstrating how aerobic movement and manual writing stimulate Brain-Derived Neurotrophic Factor (BDNF).
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

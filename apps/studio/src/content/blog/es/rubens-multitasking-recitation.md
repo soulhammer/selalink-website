@@ -24,11 +24,9 @@ faqs:
 
 ---
 
-Peter Paul Rubens, el maestro del arte barroco que también destacó como diplomático políglota. ¿De dónde venía su explosiva productividad intelectual? 🎨
+Maestro del Barroco, Peter Paul Rubens escuchaba lecturas clásicas mientras pintaba grandes lienzos. Esta estimulación dual elevaba su enfoque. 🎨
 
-Rubens no detenía su crecimiento intelectual mientras realizaba el exigente trabajo físico de pintar. Hacía que un secretario le leyera en voz alta clásicos filosóficos y poesía. Dibujaba con las manos mientras sus oídos procesaban conocimientos. Este hábito fue su secreto para una gestión del tiempo sobrehumana.
-
-Hoy, BuildSelf presenta los principios neurológicos detrás de la rutina de lectura-escucha de Rubens y una guía de 3 pasos.
+Hoy BuildSelf explora la rutina de estimulación sensorial dual de Peter Paul Rubens.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

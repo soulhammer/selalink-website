@@ -1,0 +1,218 @@
+{
+  "rosalind-franklin-diffraction-focus": {
+    "title": {
+      "ko": "DNA 구조 비밀을 밝힌 여성 과학자? 로잘린드 프랭클린의 0.1도 정밀 검수 루틴",
+      "en": "Scientist Behind DNA Secrets? Rosalind Franklin's 0.1-Degree Precision Routine",
+      "ja": "DNA構造の秘密を解き明かした科学者？ロザリンド・フランクリンの0.1度精密検証ルーティン",
+      "zh": "揭开DNA结构奥秘的女性科学家？罗莎琳德·富兰克林的0.1度精细核对习惯",
+      "es": "¿La científica tras los secretos del ADN? La rutina de precisión de 0.1 grados de Rosalind Franklin",
+      "fr": "La scientifique derrière les secrets de l'ADN ? La routine de précision à 0,1 degré de Rosalind Franklin",
+      "de": "Die Wissenschaftlerin hinter den DNA-Geheimnissen? Rosalind Franklins 0,1-Grad-Präzisionsroutine",
+      "pt": "A cientista por trás dos segredos do ADN? A rotina de precisão de 0,1 grau de Rosalind Franklin",
+      "id": "Ilmuwan di Balik Rahasia DNA? Rutinitas Presisi 0,1 Derajat Rosalind Franklin"
+    },
+    "description": {
+      "ko": "DNA 이중나선 사진 'Photo 51'을 완성한 로잘린드 프랭클린의 타협 없는 0.1도 미세 오차 검수 습관과 현대인을 위한 정밀성 강화 가이드.",
+      "en": "Discover how Rosalind Franklin achieved groundbreaking accuracy through her 0.1-degree precision verification routine.",
+      "ja": "DNA二重らせん写真「Photo 51」を完成させたロザリンド・フランクリンの妥協なき精密検証習慣を紹介します。",
+      "zh": "介绍完成 DNA 双螺旋照片 Photo 51 的富兰克林通过0.1度精细核对达成史诗级精确度的习惯。",
+      "es": "Descubra cómo Rosalind Franklin logró una precisión revolucionaria con su rutina de verificación de 0.1 grados.",
+      "fr": "Découvrez comment Rosalind Franklin a atteint une précision historique grâce à sa routine de vérification.",
+      "de": "Erfahren Sie, wie Rosalind Franklin durch ihre 0,1-Grad-Präzisionsroutine weltverändernde Genauigkeit erzielte.",
+      "pt": "Descubra como Rosalind Franklin alcançou uma precisão histórica com sua rotina de verificação de 0,1 grau.",
+      "id": "Temukan bagaimana Rosalind Franklin mencapai akurasi bersejarah melalui rutinitas verifikasi presisi 0,1 derajat."
+    },
+    "authority": {
+      "ko": "브렌다 매독스 전기 'Rosalind Franklin: The Dark Lady of DNA' 및 킹스 콜리지 아카이브",
+      "en": "Brenda Maddox Biography 'Rosalind Franklin' & King's College London Archives",
+      "ja": "ブレンダ・マドックス評伝「Rosalind Franklin」およびキングス・カレッジ・ロンドン史料",
+      "zh": "布伦达·马多克斯传记《Rosalind Franklin》与伦敦国王学院档案馆史料",
+      "es": "Biografía de Brenda Maddox 'Rosalind Franklin' y Archivos del King's College London",
+      "fr": "Biographie par Brenda Maddox 'Rosalind Franklin' & Archives du King's College London",
+      "de": "Brenda Maddox Biografie 'Rosalind Franklin' & Archive des King's College London",
+      "pt": "Biografia de Brenda Maddox 'Rosalind Franklin' e Arquivos do King's College London",
+      "id": "Biografi Brenda Maddox 'Rosalind Franklin' & Arsip King's College London"
+    },
+    "intro": {
+      "ko": "20세기 생명과학 역사상 가장 위대한 발견으로 손꼽히는 DNA 이중선구조 해독의 결정적 열쇠인 '51번 사진(Photo 51)'을 촬영하고 탄소 및 바이러스 결정학의 새 지평을 연 영국의 여성 물리화학자, 로잘린드 프랭클린(Rosalind Franklin). 수많은 편견과 척박한 연구 환경 속에서도 그녀가 도출해낸 실험 데이터들은 단 0.01%의 오차도 허용하지 않는 완벽함 그 자체였습니다. 🧬\n\n킹스 컬리지 런던의 어두운 지하 실험실에서 로잘린드 프랭클린은 X선 회절 카메라의 각도를 0.1도 단위로 정밀 조율하며 수백 시간 동안 묵묵히 엑스선 사진을 촬영했습니다. 그녀는 현상된 필름 수치와 실제 기하학적 계산을 마이크로 단위로 직접 손으로 짚어가며 꼼꼼히 1:1 대조하고 검수했습니다. 감정이나 섣부른 추측에 의존하지 않고, 오직 엄밀한 데이터 검증만을 신뢰했던 그녀의 정량 검수 습관이 인류의 생명 비밀을 풀어내는 금빛 입자를 발견하게 만들었습니다.\n\n오늘 BuildSelf에서는 로잘린드 프랭클린이 실천했던 0.1도 정밀 검수 및 데이터 대조 루틴에 담긴 두정엽 공간 인지 회로 강화와 업무 품질 100% 보장 가이드를 소개합니다.",
+      "en": "The brilliant British physical chemist whose X-ray diffraction image, \"Photo 51,\" provided the critical key to unlocking the DNA double helix structure, Rosalind Franklin transformed molecular biology and virus crystallography. Working under challenging academic environments, her scientific data was revered for its absolute 0.01% zero-error precision. 🧬\n\nIn the dimly lit basement laboratories of King's College London, Franklin spent hundreds of patient hours adjusting X-ray cameras by precise 0.1-degree increments. Rather than relying on guesswork or theoretical leaps, she painstakingly cross-checked diffraction pattern coordinates line-by-line using micro-rulers and manual calculations. This rigorous quantitative verification routine prevented premature cognitive bias and delivered unbreakable scientific truth.\n\nToday, BuildSelf unveils the neuroscience behind Rosalind Franklin's precision cross-checking routine, showing how parietal lobe activation and deliberate verification guarantee error-free quality in modern work.",
+      "ja": "20世紀の生命科学史上最も偉大な発見とされるDNA二重らせん構造解明の決定的な鍵「写真51号（Photo 51）」を撮影し、ウイルス結晶学の扉を開いた英国の女性物理化学者、ロザリンド・フランクリン（Rosalind Franklin）。過酷な研究環境の中でも彼女が導き出した実験データは、わずか0.01％の誤差も許さない完璧そのものでした。 🧬\n\nキングス・カレッジ・ロンドンの薄暗い地下研究室で、フランクリンはX線回折カメラの角度を0.1度単位で精密に調整し、数百時間にわたり黙々と写真を撮影しました。現像されたフィルムの数値と実際の計算をマイクロ単位で手で直接追いながら、1:1で細かく照合・検証しました。推測に頼らず厳密なデータ検証のみを信頼した彼女の定量的照合習慣が、生命の秘密を解き明かす黄金の粒子を発見させました。\n\n今日のBuildSelfでは、ロザリンド・フランクリンが実践した0.1度精密検証ルーティンに潜む頭頂葉空間認知回路の強化と業務品質100％保障ガイドを紹介します。",
+      "zh": "作为20世纪生命科学史上最伟大的女性物理化学家，罗莎琳德·富兰克林（Rosalind Franklin）拍摄的“51号照片”（Photo 51）为解开DNA双螺旋结构提供了至关重要的决定性证据。在当时充满偏见的学术环境中，她出具的每一个实验数据都以0.01%误差以内的绝顶精确度著称。 🧬\n\n在伦敦国王学院昏暗的地下实验室里，富兰克林细致地将X射线衍射相机的角度调整至0.1度。她花费数百个小时沉静拍摄，并用微型直尺与手工计算对衍射图样的数据点进行逐字逐行的1:1精确比对。这种拒绝凭空推测、只用数据说话的极致核对习惯，最终擦亮了揭示人类生命奥秘的光芒。\n\n今天 BuildSelf 将为您揭秘罗莎琳德·富兰克林0.1度精准核对习惯背后的顶叶空间认知机制，带您领略严谨数据对比如何帮助现代职场人实现零失误的高质量交付。",
+      "es": "La brillante fisicoquímica británica cuya \"Foto 51\" proporcionó la clave para desentrañar la estructura del ADN, Rosalind Franklin transformó la biología molecular. Sus datos experimentales eran admirados por su precisión absoluta del 0.01%. 🧬\n\nEn los laboratorios del King's College de Londres, Franklin pasaba cientos de horas ajustando cámaras de rayos X en incrementos de 0.1 grados. En lugar de especular, verificaba minuciosamente las coordenadas de difracción a mano. Esta rutina de verificación cuantitativa previno sesgos cognitivos y aseguró el éxito.\n\nHoy en BuildSelf, revelamos la neurociencia tras la rutina de verificación de precisión de Rosalind Franklin y cómo garantiza una calidad sin errores.",
+      "fr": "La brillante physico-chimiste britannique dont la \"Photo 51\" a fourni la clé pour déchiffrer la structure en double hélice de l'ADN, Rosalind Franklin a transformé la biologie moléculaire. Ses données expérimentales étaient célébrées pour leur précision absolue. 🧬\n\nDans les laboratoires du King's College de Londres, Franklin passait des centaines d'heures à ajuster les caméras à rayons X à 0,1 degré près. Elle vérifiait minutieusement chaque coordonnée à la main, garantissant une rigueur scientifique sans faille.\n\nAujourd'hui, BuildSelf vous dévoile la neurosciences derrière la routine de vérification de précision de Rosalind Franklin et la prévention des erreurs.",
+      "de": "Die britische Physiko-Chemikerin, deren \"Foto 51\" den Schlüssel zur Entschlüsselung der DNA-Doppelhelix lieferte, Rosalind Franklin, prägte die Molekularbiologie. Ihre Daten waren berühmt für ihre 0,01%-ige Präzision. 🧬\n\nIn den Laboratorien des King's College London verbrachte Franklin Hunderte von Stunden damit, Röntgenkameras um 0,1 Grad zu justieren. Sie überprüfte jedes Beugungsmuster akribisch von Hand und verhinderte so kognitive Fehler.\n\nHeute enthüllt BuildSelf die Neurowissenschaft hinter Rosalind Franklins Präzisionsprüf-Routine und die Garantie für fehlerfreie Arbeit.",
+      "pt": "A brilhante físico-química britânica cuja \"Foto 51\" forneceu a chave para desvendar a estrutura do DNA, Rosalind Franklin transformou a biologia molecular. Seus dados experimentais eram admirados por sua precisão absoluta. 🧬\n\nNos laboratórios do King's College de Londres, Franklin passava centenas de horas ajustando câmeras de raios X em incrementos de 0,1 grau. Ela verificava minuciosamente cada coordenada à mão.\n\nHoje no BuildSelf, revelamos a ciência cognitiva por trás da rotina de verificação de precisão de Rosalind Franklin e o segredo do trabalho sem erros.",
+      "id": "Fisikawan kimia Inggris yang mengambil \"Foto 51\" sebagai kunci pembuka struktur heliks ganda DNA, Rosalind Franklin mengubah biologi molekuler. Data eksperimennya terkenal akan presisi 0,01% tanpa celah. 🧬\n\nDi laboratorium King's College London, Franklin menghabiskan ratusan jam menyesuaikan kamera sinar-X hingga ketelitian 0,1 derajat. Ia memverifikasi koordinat difraksi secara manual baris demi baris.\n\nHari ini BuildSelf mengungkap sains saraf di balik rutinitas verifikasi presisi Rosalind Franklin dan cara menjamin kualitas bebas kesalahan."
+    },
+    "whyTitle": {
+      "ko": "두정엽 공간 수치 대조를 통한 인지 오류 차단과 품질 극대화",
+      "en": "Parietal Lobe Data Verification & Error Prevention",
+      "ja": "頭頂葉空間数値照合による認知エラー遮断と品質極大化",
+      "zh": "通过顶叶数据对比消除认知偏差与提升品质",
+      "es": "Verificación de Datos en el Lóbulo Parietal y Prevención de Errores",
+      "fr": "Vérification des Données dans le Lobe Pariétal & Prévention des Erreurs",
+      "de": "Datenverifizierung im Parietallappen & Fehlervermeidung",
+      "pt": "Verificação de Dados no Lóbulo Parietal e Prevenção de Erros",
+      "id": "Verifikasi Data Lobus Parietal & Pencegahan Kesalahan"
+    },
+    "whyDesc": {
+      "ko": "뇌는 익숙한 작업을 할 때 '대략 맞겠지'라는 휴리스틱(Heuristics) 착각에 빠져 치명적 오탈자나 수치 오류를 지나치기 쉽습니다.\n\n프랭클린처럼 실제 수치와 지표를 1:1로 손으로 직접 짚으며 검수하는 <strong>'정량 데이터 미세 대조'</strong>는 좌뇌 논리 회로와 두정엽 공간 인지를 동시 활성화합니다. 뇌의 섣부른 추측을 차단하고 완벽한 오차 제로 상태를 달성하게 만듭니다.",
+      "en": "The brain easily falls into heuristic shortcuts during familiar work, overlooking fatal errors.\n\nManual 1:1 <strong>'Precision Data Verification'</strong> activates left-brain logic and parietal spatial processing, stopping reckless assumptions.",
+      "ja": "脳は慣れた作業で思い込みに陥り、致命的なエラーを見落としがちです。\n\n数値と指標を1:1で照合する<strong>「精密データ検証」</strong>は脳の過剰な推測を遮断し、エラーゼロを達成します。",
+      "zh": "大脑在处理熟悉事务时极易掉入启发式直觉陷阱，忽略致命错误。\n\n手扣手 1:1 的<strong>“精细数据核对”</strong>能同时激活左脑逻辑与顶叶空间认知，杜绝凭空假设。",
+      "es": "El cerebro recurre a atajos heurísticos en tareas conocidas, pasando por alto errores fatales.\n\nLa <strong>'Verificación de Datos de Precisión'</strong> 1:1 frena suposiciones apresuradas.",
+      "fr": "Le cerveau utilise des raccourcis heuristiques, ignorant des erreurs fatales.\n\nLa <strong>'Vérification de Précision des Données'</strong> 1:1 bloque les suppositions hâtives.",
+      "de": "Das Gehirn nutzt bei vertrauten Aufgaben Heuristiken und übersieht Fehler.\n\nDie 1:1-<strong>'Präzisions-Datenprüfung'</strong> stoppt voreilige Annahmen.",
+      "pt": "O cérebro usa atalhos heurísticos em tarefas conhecidas, ignorando erros fatais.\n\nA <strong>'Verificação de Dados de Precisão'</strong> 1:1 interrompe suposições precipitadas.",
+      "id": "Otak sering menggunakan pintasan heuristik saat bekerja, mengabaikan kesalahan fatal.\n\n<strong>'Verifikasi Data Presisi'</strong> 1:1 menghentikan asumsi terburu-buru."
+    },
+    "cautionTitle": {
+      "ko": "마무리 단계에서 속도보다 확실성을 우선하세요",
+      "en": "Prioritize Certainty Over Speed During Final Inspection",
+      "ja": "仕上げ段階で速度より確実性を優先しましょう",
+      "zh": "在收尾阶段，务必置确定性于速度之上",
+      "es": "Priorice la certeza sobre la velocidad en la revisión final",
+      "fr": "Priorisez la certitude sur la vitesse lors de la révision finale",
+      "de": "Priorisieren Sie Gewissheit vor Geschwindigkeit bei der Endprüfung",
+      "pt": "Priorize a certeza sobre a velocidade na revisão final",
+      "id": "Utamakan kepastian daripada kecepatan saat pemeriksaan akhir"
+    },
+    "cautionDesc": {
+      "ko": "마지막 순간 서두르면 사소한 오탈자나 계산 실수가 전체 결과물의 신뢰도를 망칩니다. 검수 10분 동안만큼은 속도를 낮추고 꼼꼼함에 온전히 집중하세요.",
+      "en": "Rushing at the last moment ruins credibility through minor oversights. Slow down for 10 minutes.",
+      "ja": "最後の瞬間に焦ると些細なミスが全体の信頼性を損ないます。検証の10分間は速度を落として集中してください。",
+      "zh": "最后时刻赶进度极易因微小疏漏毁掉整体信任。在核对的10分钟内放慢速度，全神贯注。",
+      "es": "Apurarse al final arruina la credibilidad por descuidos. Baje el ritmo durante 10 minutos.",
+      "fr": "Se précipiter à la fin ruine la crédibilité par omission. Ralentissez pendant 10 minutes.",
+      "de": "Eile in letzter Minute ruiniert die Glaubwürdigkeit. Verlangsamen Sie für 10 Minuten das Tempo.",
+      "pt": "Apressar-se no final estraga a credibilidade por descuidos. Diminua o ritmo por 10 minutos.",
+      "id": "Terburu-buru di akhir merusak kredibilitas karena kelalaian kecil. Pelan-pelan selama 10 menit."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "10분 정밀 검수 골든 타임 확보",
+          "en": "Secure 10-Minute Precision Inspection Window",
+          "ja": "10分間精密検証ゴールデンタイムの確保",
+          "zh": "锁定10分钟精细核对黄金时间",
+          "es": "Asegurar 10 Minutos de Revisión de Precisión",
+          "fr": "Réserver 10 Minutes de Révision de Précision",
+          "de": "Sichern von 10 Minuten Präzisionsprüfzeit",
+          "pt": "Reservar 10 Minutos de Revisão de Precisão",
+          "id": "Sediakan 10 menit Waktu Emas Verifikasi Presisi"
+        },
+        "text": {
+          "ko": "보고서 제출, 코드 배포, 기획안 완결 직전 10분을 오직 오류 검수만을 위한 전용 시간으로 확보합니다.",
+          "en": "Reserve 10 minutes immediately before submitting reports or deploying code solely for error verification.",
+          "ja": "レポート提出やコードデプロイの直前10分を、エラー検証専用の時間として確保します。",
+          "zh": "在提交报告、发布代码或完成方案前的最后10分钟，划出专门用于核对错漏的专属时间。",
+          "es": "Reserve 10 minutos antes de entregar informes o publicar código exclusivamente para verificar errores.",
+          "fr": "Réservez 10 minutes avant de soumettre un rapport ou déployer du code uniquement pour vérifier.",
+          "de": "Reservieren Sie 10 Minuten vor der Abgabe von Berichten oder Code-Deployments nur für die Prüfung.",
+          "pt": "Reserve 10 minutos antes de entregar relatórios ou implantar código exclusivamente para verificação.",
+          "id": "Sediakan 10 menit tepat sebelum menyerahkan laporan atau rilis kode khusus untuk verifikasi kesalahan."
+        }
+      },
+      {
+        "name": {
+          "ko": "지표 및 수치 1:1 오프라인 대조",
+          "en": "1:1 Manual Metric & Data Cross-Checking",
+          "ja": "指標および数値の1:1オフライン照合",
+          "zh": "数据与指标 1:1 手工精细比对",
+          "es": "Cruce Manual 1:1 de Datos y Métricas",
+          "fr": "Vérification Croisée Manuelle 1:1 des Données",
+          "de": "1:1 manueller Abgleich von Daten und Zahlen",
+          "pt": "Cruzamento Manual 1:1 de Dados e Métricas",
+          "id": "Pemeriksaan Silang Data & Metrik 1:1 Secara Manual"
+        },
+        "text": {
+          "ko": "화면의 수치나 텍스트를 손가락이나 펜 끝으로 짚어가며 원본 출처 데이터와 1:1로 정밀 확인합니다.",
+          "en": "Point your finger or pen tip at values on screen and compare them 1:1 against raw source data.",
+          "ja": "画面の数値やテキストを指やペン先で指しながら、元データと1:1で精密に確認します。",
+          "zh": "用手指或笔尖指着屏幕上的数值与文本，与原始数据源逐一进行 1:1 精确比对。",
+          "es": "Señale los valores en pantalla con un bolígrafo y compárelos 1:1 con la fuente original.",
+          "fr": "Pointez les valeurs à l'écran avec un stylo et comparez-les 1:1 avec la source d'origine.",
+          "de": "Zeigen Sie mit dem Stift auf Werte am Bildschirm und vergleichen Sie sie 1:1 mit der Quelle.",
+          "pt": "Apontando os valores na tela com uma caneta, compare-os 1:1 com a fonte original.",
+          "id": "Tunjuk nilai di layar dengan pena dan bandingkan 1:1 dengan sumber data asli."
+        }
+      },
+      {
+        "name": {
+          "ko": "검수 완료 사인 및 품질 확정",
+          "en": "Verification Sign-off & Quality Confirmation",
+          "ja": "検証完了サインと品質確定",
+          "zh": "核对签字与质量终审确认",
+          "es": "Firma de Verificación y Confirmación de Calidad",
+          "fr": "Validation de Révision & Confirmation Qualité",
+          "de": "Freigabe der Prüfung & Qualitätsbestätigung",
+          "pt": "Assinatura de Verificação e Confirmação de Qualidade",
+          "id": "Tanda Tangan Verifikasi & Konfirmasi Kualitas"
+        },
+        "text": {
+          "ko": "검수를 마친 후 노트에 '오차 검수 완료' 표시나 서명을 남기고 완벽한 품질로 최종 작업을 마무리합니다.",
+          "en": "After checking, write 'Verification Complete' or initial your log, finishing with 100% confidence.",
+          "ja": "検証完了後、ノートに「検証完了」のサインを残し、完璧な品質で最終作業を締めくくります。",
+          "zh": "完成核对后，在记录本上写下“精细核对完毕”标记或签名，以完美品质结束工作。",
+          "es": "Tras revisar, escriba 'Verificación Completa' en su cuaderno y finalice con total confianza.",
+          "fr": "Après révision, inscrivez 'Vérification Terminée' et finalisez en toute confiance.",
+          "de": "Schreiben Sie nach der Prüfung 'Prüfung abgeschlossen' auf und schließen Sie die Arbeit ab.",
+          "pt": "Após revisar, escreva 'Verificação Concluída' e finalize com total confiança.",
+          "id": "Setelah memverifikasi, catat 'Verifikasi Selesai' dan selesaikan pekerjaan dengan percaya diri."
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": {
+          "ko": "매번 꼼꼼히 검수하는 데 시간이 너무 많이 걸리지 않나요?",
+          "en": "Doesn't detailed cross-checking take too much time every day?",
+          "ja": "毎回緻密に検証するのに時間がかかりすぎませんか？",
+          "zh": "每次都进行精细核对会不会太耗费时间？",
+          "es": "¿No se pierde mucho tiempo haciendo revisiones tan detalladas?",
+          "fr": "La vérification minutieuse ne prend-elle pas trop de temps ?",
+          "de": "Dauert das detaillierte Prüfen nicht zu lange?",
+          "pt": "Fazer revisões tão detalhadas não toma tempo demais?",
+          "id": "Apakah verifikasi mendalam tidak memakan terlalu banyak waktu?"
+        },
+        "answer": {
+          "ko": "나중에 오타나 숫자가 틀려 수정하고 사과하고 재작업하는 데 드는 시간이 10배 더 큽니다. 사전 10분 검수가 결국 가장 빠른 길입니다.",
+          "en": "Fixing mistakes and redoing work later takes 10x more time. 10 minutes upfront is the fastest route.",
+          "ja": "後でエラーを修正してやり直す時間のほうが10倍大きいです。事前の10分検証が最も速い道です。",
+          "zh": "事后因错误而修改、重做和致歉所消耗的时间要多出10倍。前置10分钟核对才是最快的捷径。",
+          "es": "Corregir errores y rehacer trabajo después toma 10 veces más tiempo. 10 minutos antes es más rápido.",
+          "fr": "Corriger des erreurs et refaire le travail prend 10 fois plus de temps. 10 minutes en amont est la voie la plus rapide.",
+          "de": "Fehler nachträglich zu korrigieren dauert 10-mal länger. 10 Minuten vorab sparen Zeit.",
+          "pt": "Corrigir erros e refazer o trabalho depois toma 10 vezes mais tempo. 10 minutos antes é mais rápido.",
+          "id": "Memperbaiki kesalahan dan mengulang pekerjaan memakan waktu 10x lebih lama. 10 menit di awal adalah jalur tercepat."
+        }
+      },
+      {
+        "question": {
+          "ko": "텍스트나 일반 직무에서도 정량 대조를 쓸 수 있나요?",
+          "en": "Can quantitative data checking be applied to text or general tasks?",
+          "ja": "テキストや一般的な業務でも定量照合を適用できますか？",
+          "zh": "文案或日常行政工作也能应用这一数据对比法吗？",
+          "es": "¿Se puede aplicar esta verificación de datos a textos o tareas generales?",
+          "fr": "Peut-on appliquer cette vérification de données aux textes ou tâches générales ?",
+          "de": "Kann man diese Datenprüfung auf Texte oder allgemeine Aufgaben anwenden?",
+          "pt": "Pode-se aplicar essa verificação de dados a textos ou tarefas gerais?",
+          "id": "Apakah verifikasi data ini bisa diterapkan pada teks atau tugas umum?"
+        },
+        "answer": {
+          "ko": "네! 날짜, 맞춤법, 첨부파일 링크, 고객명 등 오류가 나기 쉬운 핵심 요소 3가지를 정량적 체크리스트로 만들어 동일하게 적용할 수 있습니다.",
+          "en": "Yes! Create a checklist for dates, names, links, and typos to apply the exact same precision model.",
+          "ja": "はい！日付、人名、リンク、誤字脱字などエラーになりやすい要素をリスト化して適用できます。",
+          "zh": "当然可以！将日期、人名、链接、错别字等易错要素制成量化清单，同样适用此精细比对法。",
+          "es": "¡Sí! Cree una lista de verificación para fechas, nombres, enlaces y faltas de ortografía.",
+          "fr": "Oui ! Créez une liste de contrôle pour les dates, noms, liens et fautes d'orthographe.",
+          "de": "Ja! Erstellen Sie eine Checkliste für Daten, Namen, Links und Rechtschreibung.",
+          "pt": "Sim! Crie uma lista de verificação para datas, nomes, links e erros de ortografia.",
+          "id": "Tentu! Buat daftar periksa untuk tanggal, nama, tautan, dan ejaan untuk menerapkannya."
+        }
+      }
+    ],
+    "pubDate": "2026-02-24",
+    "updatedDate": "2026-02-24"
+  }
+}

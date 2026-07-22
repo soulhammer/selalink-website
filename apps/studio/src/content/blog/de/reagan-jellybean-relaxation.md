@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Ronald Reagan führte die USA durch die Endphase des Kalten Krieges. Was gab ihm Ruhe bei harten Verhandlungen? Die Antwort war ein Glas bunter Jellybeans. 🍬
+Der 40. US-Präsident Ronald Reagan war bekannt für seine Gelassenheit. Wie bewältigte er den Druck im Oval Office? 🍬
 
-Um sich das Pfeifenrauchen abzugewöhnen, begann Reagan mit dem Naschen. Das Kauen beruhigte seine Nerven bei Krisensitzungen.
+Auf seinem Schreibtisch stand stets ein Glas Jelly Beans. In angespannten Sitzungen legte er eine kleine Pause ein. Diese Mikropause führte seinem Gehirn Glukose zu.
 
-Heute stellt BuildSelf Reagans Kaumethode vor, mit der Sie Stress und Verlangen in 3 Schritten zügeln.
+Heute untersucht BuildSelf Ronald Reagans Jelly-Bean-Routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

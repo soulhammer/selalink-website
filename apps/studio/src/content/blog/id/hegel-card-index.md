@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Georg Wilhelm Friedrich Hegel menyintesis idealisme Jerman dan melengkapi sistem dialektika, sangat memengaruhi para pemikir selanjutnya. Bagaimana sistem filosofisnya yang rumit dirancang? 🗃️
+Tokoh idealisme Jerman, Hegel membangun sistem filsafat yang monumental. Bagaimana ia mengorganisasi gagasan seluas itu? 🗃️
 
-Setiap kali membaca buku dalam jumlah besar, Hegel mencatat konsep unik atau pemikiran logisnya di atas kartu kecil. Ia menyusun kartu-kartu ini berdasarkan abjad dan topik dalam kotak kayu khusus. Saat mengembangkan ide, ia mengambil kartu-kartu ini untuk menghubungkan dan membandingkannya.
+Hegel menulis setiap konsep pada kartu indeks individual dan menyimpannya di kotak kayu. Saat menulis, ia menyusun ulang kartu-kartu itu untuk menemukan koneksi dialektis.
 
-Hari ini, BuildSelf menyajikan prinsip-prinsip kognitif di balik rutinitas pengindeksan kartu Hegel dan panduan praktis 3 langkah untuk menggunakannya sebagai alat perluasan kognitif.
+Hari ini BuildSelf mengungkap sains kognitif di balik rutinitas kartu indeks Hegel.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

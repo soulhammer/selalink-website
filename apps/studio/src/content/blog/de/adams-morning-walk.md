@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-John Adams legte den Grundstein für die USA. Wie hielt er sich geistig fit in unruhigen Zeiten? 🚶‍♂️
+Der 6. US-Präsident John Quincy Adams bewahrte bis ins hohe Alter von über 80 Jahren seine geistige Schärfe. Wie schützte er seine kognitiven Fähigkeiten vor Stress? 🏊‍♂️
 
-Adams ging morgens 8 km schnell durch Nebel und Wald. Abends schrieb er Auszüge aus seinen gelesenen Büchern auf.
+Jeden Morgen vor Sonnenaufgang unternahm Adams einen 8 km langen strammen Marsch oder schwamm im kalten Fluss Potomac, gefolgt von einer abendlichen Tagebuchreflexion. Diese Kombination stärkte sein Gehirn nachhaltig.
 
-Heute stellt BuildSelf Adams' Routine vor und zeigt, wie Sie Ihre Denkkraft in 3 Schritten stärken.
+Heute untersucht BuildSelf die kognitive Wissenschaft hinter John Quincy Adams' Marsch- und Tagebuch-Routine.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

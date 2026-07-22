@@ -24,11 +24,11 @@ faqs:
 
 ---
 
-Barbara McClintock menemukan 'transposon' dan memenangkan Hadiah Nobel. Apa rahasia konsentrasi ekstremnya di tengah bias dunia sains pada zamannya? 🔬
+Peraih Nobel Barbara McClintock merevolusi genetika dengan menemukan "gen melompat". Bagaimana ia menjaga intuisi yang luar biasa? 🌽
 
-McClintock mempertahankan keheningan sempurna saat melihat kromosom melalui mikroskop. Lebih dari sekadar diam, ia mematikan semua rangsangan luar hingga ia merasa menyatu dengan spesimen.
+Setiap pagi, ia berjalan sendirian di ladang jagung mengamati variasi mikroskopis dalam hening.
 
-Hari ini, BuildSelf memperkenalkan rutinitas fokus hening McClintock dan panduan praktis 3 langkah untuk memfilter kebisingan kognitif.
+Hari ini BuildSelf mengungkap sains kognitif di balik rutinitas fokus hening Barbara McClintock.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
