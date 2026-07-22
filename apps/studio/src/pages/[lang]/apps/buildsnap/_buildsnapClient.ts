@@ -160,7 +160,7 @@ export function initBuildSnapUI(config: BuildSnapConfig) {
     }
   };
 
-  const setEraHighlight = (dotId: string, lblId: string, eraName: string, mentorList: string[], xCoord: string, yCoord: string) => {
+  const setEraHighlight = (dotId: string, lblId: string, eraName: string, _mentorList: string[], xCoord: string, _yCoord: string) => {
     const dot = document.getElementById(dotId);
     if (dot) {
       dot.setAttribute('r', '12');

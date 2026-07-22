@@ -34,7 +34,7 @@ const displayDesc = desc || t('app.toast.ios.desc');
   </div>
 </div>
 
-<script define:vars={{ triggerId, toastId }}>
+<script is:inline define:vars={{ triggerId, toastId }}>
   const iosBtn = document.getElementById(triggerId);
   const toast = document.getElementById(toastId);
   

@@ -29,10 +29,6 @@ export function getFreshSnapDetailData(currentItem: any, currentLang: string): F
     return text;
   };
 
-  const tSource = (key: string) => {
-    return sourceTranslations[currentLang]?.[key] || sourceTranslations['en']?.[key] || key;
-  };
-
   // 추천 보관 방식 결정 우선순위: 냉장 -> 실온 -> 냉동 (기간이 0인 비권장 보관법은 후순위 제외)
   const getRecommendedMethod = (): 'fridge' | 'room' | 'freezer' => {
     if (currentItem.storage.fridge && currentItem.storage.fridge.durationDays > 0) return 'fridge';

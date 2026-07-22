@@ -8,7 +8,6 @@ const __dirname = path.dirname(__filename);
 
 // 경로 설정
 const blogRoot = path.join(__dirname, 'content/blog');
-const publicRoot = path.join(__dirname, '../public');
 
 // 인자 파싱
 const args = process.argv.slice(2);

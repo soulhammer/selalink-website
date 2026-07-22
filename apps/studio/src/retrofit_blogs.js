@@ -7,7 +7,6 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const blogRoot = path.join(__dirname, 'content/blog');
-const publicRoot = path.join(__dirname, '../public');
 
 
 

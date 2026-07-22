@@ -20,7 +20,6 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const blogRoot = path.join(__dirname, 'content/blog');
-const publicRoot = path.join(__dirname, '../public');
 const ingredientsDir = path.join(__dirname, 'data/blogs/ingredients');
 const transJsonPath = path.join(ingredientsDir, 'blog_translations.json');
 

@@ -49,7 +49,6 @@ function parseMarkdown(content) {
 function parseYaml(yamlStr) {
   const result = {};
   const lines = yamlStr.split('\n');
-  let currentKey = null;
   let inFaqs = false;
   let currentFaq = null;
 

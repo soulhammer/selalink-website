@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 // 헬퍼 및 템플릿 임포트
-import { parseKoSteps, cleanMarkdown, ensureDir } from './utils/compilerHelper.js';
+import { cleanMarkdown, ensureDir } from './utils/compilerHelper.js';
 import { renderEvidenceBox, renderStepCard, renderTipBox, renderFaqSection } from './utils/blogTemplates.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -57,9 +57,6 @@ function run() {
     const pubDate = pubDateMatch ? pubDateMatch[1] : '2026-06-30';
     const updatedDateMatch = koContentUpdated.match(/updatedDate:\s*"([^"]+)"/);
     const updatedDate = updatedDateMatch ? updatedDateMatch[1] : null;
-
-    // koContent로부터 한글 STEP 명칭 및 본문 파싱 수집
-    const koSteps = parseKoSteps(koContentUpdated);
 
     const koTagsMatch = koContentUpdated.match(/tags:\s*(\[[^\]]*\])/);
     const koTagsStr = koTagsMatch ? koTagsMatch[1] : '["위인 습관", "Routine"]';

@@ -11,7 +11,7 @@ let mockPoolSize = 2;
 // Mock matchHabit matcher
 vi.mock('../src/utils/buildsnapMatcher', () => {
   return {
-    matchHabit: (habits: any[], q1: string, q2: string, q3: string, age: string, gender: string, exposures: any) => {
+    matchHabit: (habits: any[], _q1: string, _q2: string, _q3: string, _age: string, _gender: string, _exposures: any) => {
       if (mockPoolSize === 0) return [];
       
       const sejongFromHabits = habits.find(h => h.id === 'sejong-dawn-reading') || {};
@@ -368,6 +368,7 @@ describe('BuildSnap 맞춤 진단 JSDOM UI 인터랙션 통합 검증', () => {
   test('시나리오 10: 역사 시대 SVG Wave 타임라인 호버 및 클릭 가이드라인 토글 검증', () => {
     const dotAncient = document.getElementById('dotAncient');
     const lblAncient = document.getElementById('lblAncient');
+    expect(lblAncient).not.toBeNull();
     const eraTooltip = document.getElementById('eraTooltip');
     const eraTooltipTitle = document.getElementById('eraTooltipTitle');
 

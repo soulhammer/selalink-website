@@ -100,7 +100,7 @@ const isProd = import.meta.env.PROD;
 		{isProd && (
 			<>
 				<!-- Google tag (gtag.js) -->
-				<script async src="https://www.googletagmanager.com/gtag/js?id=G-F045X42F26"></script>
+				<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-F045X42F26"></script>
 				<script is:inline>
 				  window.dataLayer = window.dataLayer || [];
 				  function gtag(){dataLayer.push(arguments);}
@@ -112,6 +112,7 @@ const isProd = import.meta.env.PROD;
 		)}
 		<meta charset="UTF-8" />
 		<meta name="description" content={description} />
+		{keywords && <meta name="keywords" content={keywords} />}
 		<meta name="viewport" content="width=device-width" />
 		
 		<!-- Mobile Theme & Color Optimization -->
@@ -169,15 +170,15 @@ const isProd = import.meta.env.PROD;
 		<meta name="author" content="SelaLink Studio" />
 		
 		<!-- Comprehensive JSON-LD Structured Data for AI Search -->
-		<script type="application/ld+json" set:html={JSON.stringify(baseSchema)} />
+		<script is:inline type="application/ld+json" set:html={JSON.stringify(baseSchema)} />
 		
 		{structuredData && (
 			Array.isArray(structuredData) ? (
 				structuredData.map((sd) => (
-					<script type="application/ld+json" set:html={JSON.stringify(sd)} />
+					<script is:inline type="application/ld+json" set:html={JSON.stringify(sd)} />
 				))
 			) : (
-				<script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+				<script is:inline type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 			)
 		)}
 		
@@ -347,7 +348,7 @@ const isProd = import.meta.env.PROD;
             }
 
             // Close dropdown when clicking outside
-            document.addEventListener('click', (e) => {
+            document.addEventListener('click', () => {
                 if (langMenu && !langMenu.classList.contains('opacity-0')) {
                     langMenu.classList.add('opacity-0', 'invisible', 'scale-95', 'pointer-events-none');
                     langMenu.classList.remove('scale-100');

@@ -1,13 +1,11 @@
 ---
-import { useTranslations } from '../i18n/ui';
 import shortsData from '../data/shorts.json';
 
 export interface Props {
   lang: string;
 }
 
-const { lang } = Astro.props;
-const t = useTranslations(lang as any);
+const { lang = 'ko' } = Astro.props;
 
 const buildselfData = shortsData.buildself as Record<string, any>;
 const freshselfData = shortsData.freshself as Record<string, any>;
@@ -40,7 +38,7 @@ const fsShorts = (freshselfData[lang] || freshselfData['en'] || []).map((s: any)
   }
 </style>
 
-<script define:vars={{ bsShorts, fsShorts }}>
+<script is:inline define:vars={{ bsShorts, fsShorts }}>
   document.addEventListener('DOMContentLoaded', () => {
     const container = document.getElementById('app-stories-container');
     if (!container || !bsShorts || !fsShorts) return;

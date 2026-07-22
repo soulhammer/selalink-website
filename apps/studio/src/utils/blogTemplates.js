@@ -66,7 +66,7 @@ export function renderEvidenceBox(lang, authority, domain) {
 }
 
 // 4. 반려동물 전용 시그널 카드
-export function renderPetStepCard(lang, stepIdx, stepType, name, meaningLabel, meaningText, responseLabel, responseText) {
+export function renderPetStepCard(_lang, stepIdx, stepType, name, meaningLabel, meaningText, responseLabel, responseText) {
   return `<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">${stepType} ${stepIdx}</span>
@@ -80,7 +80,7 @@ export function renderPetStepCard(lang, stepIdx, stepType, name, meaningLabel, m
 }
 
 // 5. 반려동물 전용 루틴 카드
-export function renderPetRoutineCard(lang, stepIdx, name, text) {
+export function renderPetRoutineCard(_lang, stepIdx, name, text) {
   return `<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE ${stepIdx}</span>
