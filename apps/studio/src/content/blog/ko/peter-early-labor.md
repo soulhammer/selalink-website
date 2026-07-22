@@ -62,7 +62,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">이론 배경 20% 퀵 드로잉</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    실무 조작을 행하기 직전, 5~10분간 수행할 원리나 기본 가이드를 빠르게 눈으로 훑어보아 인지 기초 틀을 점화합니다.
+    실무 조작을 행하기 직전, -분간 수행할 원리나 기본 가이드를 빠르게 눈으로 훑어보아 인지 기초 틀을 점화합니다.
   </p>
 </div>
 
@@ -72,7 +72,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">80% 에너지의 피지컬 실습 수행</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    남은 20~30분간 고도로 기민하게 손가락과 눈을 조율하며 소뇌 회로에 지식을 각인시킵니다. 실수하더라도 멈추지 않고 손의 작동 흐름(Flow)을 지속합니다.
+    남은 -분간 고도로 기민하게 손가락과 눈을 조율하며 소뇌 회로에 지식을 각인시킵니다. 실수하더라도 멈추지 않고 손의 작동 흐름(Flow)을 지속합니다.
   </p>
 </div>
 

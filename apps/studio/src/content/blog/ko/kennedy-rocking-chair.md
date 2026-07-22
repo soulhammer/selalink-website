@@ -74,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">전정 자극 몰입 및 이완</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    눈을 지그시 감고 호흡을 천천히 들이쉬고 내쉬며, 흔들리는 궤도가 몸에 전달하는 부어드러운 움직임의 흐름과 공간감에 온 주의를 집중합니다. 등과 허리 근육의 긴장이 풀어지는 것을 느끼며 5~10분간 지속합니다.
+    눈을 지그시 감고 호흡을 천천히 들이쉬고 내쉬며, 흔들리는 궤도가 몸에 전달하는 부어드러운 움직임의 흐름과 공간감에 온 주의를 집중합니다. 등과 허리 근육의 긴장이 풀어지는 것을 느끼며 -분간 지속합니다.
   </p>
 </div>
 

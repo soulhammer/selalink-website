@@ -64,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">30분 스마트폰 차단 후 수기 필사</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    스마트폰을 아예 다른 방에 두거나 끄고, 최소 20~30분간 오직 종이와 필사 텍스트에만 몰입합니다. 단어를 적을 때는 스펠링, 품사, 예문까지 한 땀 한 땀 정성을 들여 손으로 꾹꾹 눌러 씁니다.
+    스마트폰을 아예 다른 방에 두거나 끄고, 최소 -분간 오직 종이와 필사 텍스트에만 몰입합니다. 단어를 적을 때는 스펠링, 품사, 예문까지 한 땀 한 땀 정성을 들여 손으로 꾹꾹 눌러 씁니다.
   </p>
 </div>
 

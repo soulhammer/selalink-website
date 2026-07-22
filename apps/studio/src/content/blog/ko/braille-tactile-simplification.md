@@ -12,13 +12,13 @@ authority: "전기 'Louis Braille: A Touch of Genius' 및 유네스코 점자 �
 steps:
   - name: "복잡한 프로세스 요소 전수 진단"
     text: "현재 작성 중인 기획안이나 daily 업무 루틴의 모든 단계를 나열합니다."
-  - name: "핵심 3~5가지 요소 과감한 추출"
-    text: "결과에 80% 영향을 주는 핵심 3~5가지 필수 요소만 남기고 나머지를 과감히 삭제합니다."
+  - name: "핵심 -가지 요소 과감한 추출"
+    text: "결과에 80% 영향을 주는 핵심 -가지 필수 요소만 남기고 나머지를 과감히 삭제합니다."
   - name: "단순화 체계 적용 및 원스톱 처리"
     text: "새로 정돈된 6점 스타일의 단순 시스템으로 업무를 즉시 한눈에 원스톱 처리합니다."
 faqs:
   - question: "단순화하다가 중요한 내용을 빼먹을까 봐 두려울 땐 어떻게 하나요?"
-    answer: "삭제된 부가 정보는 '부록'이나 별도 폴더에 백업해 두고, 본문 프로세스에서는 핵심 3~5개만 노출시키는 이중화 전략을 쓰면 불안감을 해소할 수 있습니다."
+    answer: "삭제된 부가 정보는 '부록'이나 별도 폴더에 백업해 두고, 본문 프로세스에서는 핵심 -개만 노출시키는 이중화 전략을 쓰면 불안감을 해소할 수 있습니다."
   - question: "팀 업무 프로세스에도 이 방식을 적용할 수 있나요?"
     answer: "네, 회의 안건이나 보고서 결재 라인을 3단계 이하로 축소하는 단순화 규칙을 도입하면 팀 전반의 소통 속도가 급격히 향상됩니다."
 ---
@@ -47,7 +47,7 @@ faqs:
 
 인간의 작업 기억(Working Memory)은 한 번에 처리할 수 있는 정보의 양에 명확한 한계가 있습니다.
 
-브라이유 박사가 12점을 6점으로 절반이나 줄여 단번에 인지하게 만든 것처럼, 복잡한 업무 절차를 핵심 요소 3~5개 단위로 줄이는 <strong>'청킹(Chunking)'</strong> 작업은 뇌의 인지 부하를 줄이고 처리 속도를 극대화합니다.
+브라이유 박사가 12점을 6점으로 절반이나 줄여 단번에 인지하게 만든 것처럼, 복잡한 업무 절차를 핵심 요소 -개 단위로 줄이는 <strong>'청킹(Chunking)'</strong> 작업은 뇌의 인지 부하를 줄이고 처리 속도를 극대화합니다.
 
 ---
 
@@ -67,10 +67,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">핵심 3~5가지 요소 과감한 추출</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">핵심 -가지 요소 과감한 추출</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    결과에 80% 영향을 주는 핵심 3~5가지 필수 요소만 남기고 나머지를 과감히 삭제합니다.
+    결과에 80% 영향을 주는 핵심 -가지 필수 요소만 남기고 나머지를 과감히 삭제합니다.
   </p>
 </div>
 
@@ -107,7 +107,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      삭제된 부가 정보는 '부록'이나 별도 폴더에 백업해 두고, 본문 프로세스에서는 핵심 3~5개만 노출시키는 이중화 전략을 쓰면 불안감을 해소할 수 있습니다.
+      삭제된 부가 정보는 '부록'이나 별도 폴더에 백업해 두고, 본문 프로세스에서는 핵심 -개만 노출시키는 이중화 전략을 쓰면 불안감을 해소할 수 있습니다.
     </p>
   </details>
 

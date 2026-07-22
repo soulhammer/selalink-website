@@ -45,7 +45,7 @@ updatedDate: "2026-03-10"
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">나를 일깨우는 회의적 질문 고르기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    단순한 위로의 글귀가 아니라, 나의 확증 편향과 고정관념을 강하게 흔들어 줄 철학적 질문이나 명언을 1~2개 선택합니다. 예컨대 몽테뉴의 '나는 무엇을 아는가?'와 같은 반성적 질문이 좋습니다.
+    단순한 위로의 글귀가 아니라, 나의 확증 편향과 고정관념을 강하게 흔들어 줄 철학적 질문이나 명언을 -개 선택합니다. 예컨대 몽테뉴의 '나는 무엇을 아는가?'와 같은 반성적 질문이 좋습니다.
   </p>
 </div>
 

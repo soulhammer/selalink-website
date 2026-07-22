@@ -70,7 +70,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">자제심을 위한 행동 다짐 적기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    오늘 하루도 정의롭고 인내하며 평정심을 지켜내겠다는 결의를 2~3줄의 문장으로 적습니다. 마치 오랜 친구나 자아에게 말하듯 편안하면서도 단호하게 문장을 마무리합니다.
+    오늘 하루도 정의롭고 인내하며 평정심을 지켜내겠다는 결의를 -줄의 문장으로 적습니다. 마치 오랜 친구나 자아에게 말하듯 편안하면서도 단호하게 문장을 마무리합니다.
   </p>
 </div>
 

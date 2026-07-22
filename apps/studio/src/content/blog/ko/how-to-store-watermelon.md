@@ -12,7 +12,7 @@ steps:
     text: "수박을 반으로 잘라 비닐 랩으로 덮어 보관하면, 수박 표면에 세균이 수천 배 이상 폭발적으로 증식하여 식중독 위험을 높입니다. 남은 수박에 절대 랩만 씌워 보관하지 마세요."
   - name: "껍질을 도려내고 깍둑썰기 후 밀폐용기 보관 — 냉장 보관 (7일) 📦"
     text: "수박의 껍질 부위에 묻은 먼지와 미생물이 단면에 닿지 않도록 주의하며 껍질을 전부 도려낸 후, 과육을 먹기 좋은 크기로 깍둑썰기하여 소독된 밀폐용기에 담아 뚜껑을 꼭 닫아 보관합니다."
-  - name: "0~4℃ 일정한 온도에서 야채칸 깊숙이 보관 — 차가운 냉장 ❄️"
+  - name: "-℃ 일정한 온도에서 야채칸 깊숙이 보관 — 차가운 냉장 ❄️"
     text: "밀폐 용기에 담은 수박을 냉장고 내부 야채칸 깊숙한 곳이나 안쪽 선반에 넣어 보관합니다. 온도 변화가 적은 곳에서 보관해야 수박의 아삭한 텍스처와 당도가 떨어지지 않고 안전하게 보존됩니다."
 
 formatVersion: 4
@@ -68,7 +68,7 @@ formatVersion: 4
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">0~4℃ 일정한 온도에서 야채칸 깊숙이 보관 — 차가운 냉장 ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">-℃ 일정한 온도에서 야채칸 깊숙이 보관 — 차가운 냉장 ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     밀폐 용기에 담은 수박을 냉장고 내부 야채칸 깊숙한 곳이나 안쪽 선반에 넣어 보관합니다. 온도 변화가 적은 곳에서 보관해야 수박의 아삭한 텍스처와 당도가 떨어지지 않고 안전하게 보존됩니다.

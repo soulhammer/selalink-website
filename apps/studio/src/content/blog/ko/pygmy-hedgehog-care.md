@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "아프리칸 피그미 고슴도치의 안팅 습성과 저체온 방지 3단계 루틴"
-description: "앙증맞은 가시를 가진 아프리칸 피그미 고슴도치. 자신의 가시에 거품을 바르는 안팅 행동의 의미와 동면을 방지하는 24~26도 온도 케어 중심의 3단계 가이드라인을 전해드립니다."
+description: "앙증맞은 가시를 가진 아프리칸 피그미 고슴도치. 자신의 가시에 거품을 바르는 안팅 행동의 의미와 동면을 방지하는 -도 온도 케어 중심의 3단계 가이드라인을 전해드립니다."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 heroImage: "/images/blog/pygmy_hedgehog_care.png"
@@ -84,7 +84,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 사계절 실내 최적 온도 24~26도 및 가습기 정밀 세팅</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 사계절 실내 최적 온도 -도 및 가습기 정밀 세팅</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     추위로 인한 저체온증 및 강제 동면 사망을 막기 위해 가열 매트와 자동 온도 조절기의 정상 작동 유무를 수시로 확인합니다.

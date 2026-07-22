@@ -54,7 +54,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">출근 전 가벼운 아침 산책로 지정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    매일 아침 일과 시작 전 15~20분 동안 가볍게 도보로 다녀올 수 있는 나무가 우거진 산책로나 작은 공원 코스를 선택합니다.
+    매일 아침 일과 시작 전 -분 동안 가볍게 도보로 다녀올 수 있는 나무가 우거진 산책로나 작은 공원 코스를 선택합니다.
   </p>
 </div>
 

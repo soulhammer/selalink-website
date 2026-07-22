@@ -64,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">5분 스마트폰 차단 후 오류 미세 분석</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    스마트폰을 완전히 끄고 차단한 상태에서, 보관해 둔 실패작을 5~10분간 유심히 관찰합니다. 당초 기획과 달라진 구체적인 실패 지점, 의도하지 않았던 현상이나 조건이 무엇이었는지 한글로 꼼꼼히 기록합니다.
+    스마트폰을 완전히 끄고 차단한 상태에서, 보관해 둔 실패작을 -분간 유심히 관찰합니다. 당초 기획과 달라진 구체적인 실패 지점, 의도하지 않았던 현상이나 조건이 무엇이었는지 한글로 꼼꼼히 기록합니다.
   </p>
 </div>
 
@@ -74,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">우연한 힌트 추출 및 재조합</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    적어둔 메모를 보며 '이 오류 현상이 유용하게 활용될 수 있는 다른 영역은 없을까?' 혹은 '이 과정에서 배운 새로운 제약은 무엇인가?'를 고민해 보고, 1~2개의 창의적 대안이나 교훈으로 재구조화합니다.
+    적어둔 메모를 보며 '이 오류 현상이 유용하게 활용될 수 있는 다른 영역은 없을까?' 혹은 '이 과정에서 배운 새로운 제약은 무엇인가?'를 고민해 보고, -개의 창의적 대안이나 교훈으로 재구조화합니다.
   </p>
 </div>
 

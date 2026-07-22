@@ -64,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">이메일/메일 체크의 배치 처리(Batching)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    수시로 확인하던 이메일을 하루 2~3회(예: 정오 및 퇴근 전 1시간)만 시간을 몰아서 열어 집중 답장하는 시간 관리법을 시행합니다.
+    수시로 확인하던 이메일을 하루 -회(예: 정오 및 퇴근 전 1시간)만 시간을 몰아서 열어 집중 답장하는 시간 관리법을 시행합니다.
   </p>
 </div>
 

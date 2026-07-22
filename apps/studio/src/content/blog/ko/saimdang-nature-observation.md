@@ -64,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">특정 대상(잎, 곤충)의 구조 초정밀 관찰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    하나의 나뭇잎이나 꽃잎, 혹은 나뭇가지 위를 기어가는 작은 곤충을 정해 3~5분 동안 가만히 응시하며 잎맥의 패턴, 껍질의 질감, 색상의 옅고 짙음을 극도로 세밀하게 뇌에 담습니다.
+    하나의 나뭇잎이나 꽃잎, 혹은 나뭇가지 위를 기어가는 작은 곤충을 정해 -분 동안 가만히 응시하며 잎맥의 패턴, 껍질의 질감, 색상의 옅고 짙음을 극도로 세밀하게 뇌에 담습니다.
   </p>
 </div>
 

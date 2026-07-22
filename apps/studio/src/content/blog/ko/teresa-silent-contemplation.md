@@ -19,7 +19,7 @@ steps:
 faqs:
   - question: "명상 중에 오늘 해야 할 일과 걱정거리가 자꾸 떠오를 때는 어떻게 하나요?"
     answer: "그것은 뇌가 완전히 정지하지 못하고 연산 장치를 가동하려는 자연스러운 현상입니다. 생각이 떠오르는 것과 싸우지 말고, '아, 내가 오늘 할 일을 생각하고 있구나' 하고 머릿속 구름이 흐르듯 무심히 한걸음 뒤에서 관조하세요. 그리고 다시 의식을 콧등의 날숨 온도 변화와 들숨의 감각으로 가볍게 밀어 넣는 행위를 반복하는 것이 뇌파 정리에 훌륭한 해법입니다."
-  - question: "테레사 수녀는 1시간을 했다는데, 10~15분 정도로 줄여서 해도 뇌에 효과가 있나요?"
+  - question: "테레사 수녀는 1시간을 했다는데, -분 정도로 줄여서 해도 뇌에 효과가 있나요?"
     answer: "네, 임상 뇌과학 및 스트레스 연구에 따르면, 완전한 암전/무음 상태에서의 침묵 명상은 단 10분만 고도로 지속하더라도 자율신경계 교감 신경 흥분을 억제하고 코르티솔 분비를 낮추는 유의미한 생리적 이완 효과를 냅니다. 시간이 부족하다면 아침에 단 10분이라도 스마트폰을 완전히 끄고 침묵하는 루틴을 일관되게 매일 실천하는 것이 장기적인 감정 제어력 향상에 큰 도움을 줍니다."
 ---
 
@@ -109,7 +109,7 @@ faqs:
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>테레사 수녀는 1시간을 했다는데, 10~15분 정도로 줄여서 해도 뇌에 효과가 있나요?</span>
+      <span>테레사 수녀는 1시간을 했다는데, -분 정도로 줄여서 해도 뇌에 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

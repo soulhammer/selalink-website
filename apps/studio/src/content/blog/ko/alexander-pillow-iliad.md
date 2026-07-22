@@ -76,7 +76,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">비전 각인 및 취침</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    읽은 내용을 머리맡에 내려놓고, 눈을 감은 뒤 오늘 읽은 영웅의 모습이나 나의 내일 목표를 1~2분간 시각화하며 잠자리에 듭니다. 잠재의식이 밤새 이 방향으로 움직이도록 유도합니다.
+    읽은 내용을 머리맡에 내려놓고, 눈을 감은 뒤 오늘 읽은 영웅의 모습이나 나의 내일 목표를 -분간 시각화하며 잠자리에 듭니다. 잠재의식이 밤새 이 방향으로 움직이도록 유도합니다.
   </p>
 </div>
 

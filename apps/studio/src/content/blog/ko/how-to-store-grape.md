@@ -87,7 +87,7 @@ faqs:
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">상단에 무거운 짐을 쌓아두지 마세요 ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      포도송이는 다른 견고한 과일에 비해 압력에 극도로 취약합니다. 위쪽에 물건이나 뚝배기, 반찬통을 올려 짓누르게 되면 내부에서 미세 과즙이 터져 나와 포도 봉지 전체를 단 3~4일 만에 부패한 슬러시처럼 만들어 버립니다.
+      포도송이는 다른 견고한 과일에 비해 압력에 극도로 취약합니다. 위쪽에 물건이나 뚝배기, 반찬통을 올려 짓누르게 되면 내부에서 미세 과즙이 터져 나와 포도 봉지 전체를 단 -일 만에 부패한 슬러시처럼 만들어 버립니다.
     </p>
   </div>
 </div>

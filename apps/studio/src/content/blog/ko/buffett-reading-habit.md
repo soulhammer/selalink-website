@@ -54,7 +54,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">현실적이고 도달 가능한 매일의 목표량 설정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    처음부터 500페이지를 읽으려 하면 뇌가 저항을 일으켜 포기하기 쉽습니다. 자신의 독서 속도를 고려하여 하루 10~20페이지처럼 작지만 무조건 실천할 수 있는 목표를 먼저 수립합니다. 작은 성취가 뇌의 도파민 보상계를 자극해 루틴이 유지됩니다.
+    처음부터 500페이지를 읽으려 하면 뇌가 저항을 일으켜 포기하기 쉽습니다. 자신의 독서 속도를 고려하여 하루 -페이지처럼 작지만 무조건 실천할 수 있는 목표를 먼저 수립합니다. 작은 성취가 뇌의 도파민 보상계를 자극해 루틴이 유지됩니다.
   </p>
 </div>
 
@@ -74,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">비즈니스 지식 및 실천 아이디어 요약 기록</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    읽기만 하고 지나치면 망각 곡선에 의해 대부분 사라집니다. 책을 덮은 뒤 핵심 메시지와 자신의 일상 및 업무에 어떻게 대입할지 1~2문장의 핵심 문장으로 요약하여 작성합니다. 능동적 인출(Active Recall)을 통해 뇌에 확실히 장기 기억화됩니다.
+    읽기만 하고 지나치면 망각 곡선에 의해 대부분 사라집니다. 책을 덮은 뒤 핵심 메시지와 자신의 일상 및 업무에 어떻게 대입할지 -문장의 핵심 문장으로 요약하여 작성합니다. 능동적 인출(Active Recall)을 통해 뇌에 확실히 장기 기억화됩니다.
   </p>
 </div>
 

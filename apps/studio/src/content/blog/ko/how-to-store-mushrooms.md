@@ -97,7 +97,7 @@ faqs:
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">장기 보관 시 데친 후 냉동 보관하세요 ❄️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      +      3~5일 이상 오래 보관해야 할 때는 끓는 물에 소금을 아주 살짝 넣어 30초간 데친 뒤, 물기를 꾹 짜서 지퍼백에 얼려야 맛과 질감이 보존됩니다.
+      +      -일 이상 오래 보관해야 할 때는 끓는 물에 소금을 아주 살짝 넣어 30초간 데친 뒤, 물기를 꾹 짜서 지퍼백에 얼려야 맛과 질감이 보존됩니다.
 +
     </p>
   </div>

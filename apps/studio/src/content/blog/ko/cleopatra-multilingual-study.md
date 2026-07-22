@@ -76,7 +76,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">15분 번역기 없는 실전 작문</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    오늘 읽은 표현을 바탕으로 내 일상이나 비즈니스 메일 구문을 스스로 생각해서 손으로 직접 5~6문장을 영작하고 복습합니다. 뇌 회로를 최종 활성화하고 고정하는 작용입니다.
+    오늘 읽은 표현을 바탕으로 내 일상이나 비즈니스 메일 구문을 스스로 생각해서 손으로 직접 -문장을 영작하고 복습합니다. 뇌 회로를 최종 활성화하고 고정하는 작용입니다.
   </p>
 </div>
 

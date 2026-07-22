@@ -56,7 +56,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">매일 측정할 핵심 운영 수치 선정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 2~3개의 객관적 항목을 규정합니다.
+    기상 시간, 독서량(페이지), 코딩/업무 몰입 시간 등 내 하루 생산성을 가늠할 수 있는 -개의 객관적 항목을 규정합니다.
   </p>
 </div>
 

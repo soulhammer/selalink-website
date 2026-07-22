@@ -64,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">10분 동안 외출복 그대로 아이디어 인출</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    겉옷을 걸친 상태 그대로 준비된 펜을 쥡니다. 다른 방해 요소가 사색의 맥을 끊기 전에, 머릿속에 있는 핵심 아이디어의 뼈대와 당일 즉시 처리할 문장들을 5~10분간 쏟아내듯 적습니다.
+    겉옷을 걸친 상태 그대로 준비된 펜을 쥡니다. 다른 방해 요소가 사색의 맥을 끊기 전에, 머릿속에 있는 핵심 아이디어의 뼈대와 당일 즉시 처리할 문장들을 -분간 쏟아내듯 적습니다.
   </p>
 </div>
 

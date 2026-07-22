@@ -74,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">핵심 키워드 정제 및 기상</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    약 5~10분간의 기록을 마친 뒤, 작성한 노트에서 영감을 주는 단어나 오늘의 행동 방향을 정해줄 핵심 키워드 2~3개를 골라 형광펜으로 칠합니다. 의식을 정돈한 후 기분 좋게 기상합니다.
+    약 -분간의 기록을 마친 뒤, 작성한 노트에서 영감을 주는 단어나 오늘의 행동 방향을 정해줄 핵심 키워드 -개를 골라 형광펜으로 칠합니다. 의식을 정돈한 후 기분 좋게 기상합니다.
   </p>
 </div>
 

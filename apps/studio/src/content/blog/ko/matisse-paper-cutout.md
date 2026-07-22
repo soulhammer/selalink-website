@@ -74,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">공간 정렬 및 색채 조율</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    오려낸 다채로운 종이 조각들을 빈 책상 위나 하얀 종이판 위에 이리저리 옮기며 배치해 봅니다. 보색의 대비, 형태 간의 겹침과 거리감 등 시각적 조화에 주의를 집중하며 5~10분간 뇌를 감각적으로 몰입시킵니다.
+    오려낸 다채로운 종이 조각들을 빈 책상 위나 하얀 종이판 위에 이리저리 옮기며 배치해 봅니다. 보색의 대비, 형태 간의 겹침과 거리감 등 시각적 조화에 주의를 집중하며 -분간 뇌를 감각적으로 몰입시킵니다.
   </p>
 </div>
 

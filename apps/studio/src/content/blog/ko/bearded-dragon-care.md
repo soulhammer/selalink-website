@@ -11,7 +11,7 @@ formatVersion: 4
 tags: ["비어디드래곤","파충류칼슘급여","UVB조명관리","MBD골질환예방"]
 faqs:
   - question: "UVB 램프는 얼마나 자주 교체해야 하나요?"
-    answer: "UVB 램프는 빛이 켜져 있더라도 수명이 지나면 자외선 방출량이 현저히 줄어듭니다. 시각적 점등 여부와 관계없이 보통 6~12개월 주기로 교체해 주어야 합니다."
+    answer: "UVB 램프는 빛이 켜져 있더라도 수명이 지나면 자외선 방출량이 현저히 줄어듭니다. 시각적 점등 여부와 관계없이 보통 -개월 주기로 교체해 주어야 합니다."
   - question: "대사성 골질환(MBD)의 초기 신호는 무엇인가요?"
     answer: "턱뼈가 말랑해지거나 다리 관절 부종, 근육 떨림, 걸을 때 힘없이 미끄러지는 현상 등이 초기 증상입니다. 이를 발견하면 즉시 조명 설비를 보강하고 전문 수의사의 질료를 받아야 합니다."
 ---
@@ -77,7 +77,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 일광욕 열원 및 UVB 램프 가동</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    스팟 열원과 UVB 등을 켭니다. 일광욕 지점(바스킹 스팟) 온도가 35~40°C에 도달해 소화를 위한 체온 상승을 돕습니다.
+    스팟 열원과 UVB 등을 켭니다. 일광욕 지점(바스킹 스팟) 온도가 -°C에 도달해 소화를 위한 체온 상승을 돕습니다.
   </p>
 </div>
 
@@ -124,7 +124,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      UVB 램프는 빛이 켜져 있더라도 수명이 지나면 자외선 방출량이 현저히 줄어듭니다. 시각적 점등 여부와 관계없이 보통 6~12개월 주기로 교체해 주어야 합니다.
+      UVB 램프는 빛이 켜져 있더라도 수명이 지나면 자외선 방출량이 현저히 줄어듭니다. 시각적 점등 여부와 관계없이 보통 -개월 주기로 교체해 주어야 합니다.
     </p>
   </details>
 

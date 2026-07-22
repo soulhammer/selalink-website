@@ -74,7 +74,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早上：水温25~28°C点检与营养均衡饲料供给</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早上：水温-°C点检与营养均衡饲料供给</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     为确保其活跃的代谢功能，检查加热棒水温，并根据年龄适量喂食乌龟专用料。

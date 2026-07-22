@@ -1,0 +1,219 @@
+{
+  "ashoka-edict-inscribed-reflection": {
+    "slug": "ashoka-edict-inscribed-reflection",
+    "title": {
+      "ko": "바위에 칙령을 새기고 성찰한 정복왕? 아쇼카 대왕의 일일 윤리 성찰 루틴",
+      "en": "The Conqueror Who Inscribed Edicts on Rocks for Daily Reflection? King Ashoka's Moral Reflection Routine",
+      "ja": "岩に勅令を刻み自省した征服王？アショカ王の倫理的リフレクション",
+      "zh": "在岩石上刻下敕令以日日反省的征服王？阿育王的大脑道德反思惯例",
+      "es": "¿El conquistador que inscribió edictos en rocas para reflexionar? La rutina de reflexión moral del Rey Ashoka",
+      "fr": "Le conquérant qui gravait des édits sur roche pour méditer ? La routine de réflexion morale du Roi Ashoka",
+      "de": "Der Eroberer, der Edikte in Felsen meißelte zur Selbstreflexion? König Ashokas Ethik-Routine",
+      "pt": "O conquistador que inscreveu éditos em rochas para refletir? A rotina de reflexão moral do Rei Ashoka",
+      "id": "Raja Penakluk yang Mengukir Titah di Batu untuk Refleksi? Rutinitas Refleksi Moral Raja Ashoka"
+    },
+    "description": {
+      "ko": "인도 마우리아 제국의 아쇼카 대왕. 칼링가 전쟁의 참상을 반성하고 석주 칙령을 세워 매일 윤리적 자아를 성찰했던 그의 외부 닻 내리기 루틴과 3단계 실천법을 알아봅니다.",
+      "en": "King Ashoka of India's Maurya Empire. Discover his pillar edict routine for daily ethical self-reflection and a 3-step action guide.",
+      "ja": "インド・マウリヤ朝のアショカ王。石柱勅令を建て毎日倫理的自我を振り返った彼の自省習慣を紹介します。",
+      "zh": "印度孔雀王朝阿育王。介绍他建立石柱敕令进行每日道德自省的大脑定位惯例与三步指南。",
+      "es": "El Rey Ashoka del Imperio Maurya. Descubra su rutina de edictos en pilares para la autorreflexión ética diaria.",
+      "fr": "Le Roi Ashoka de l'Empire Maurya. Découvrez sa routine d'édits gravés pour l'autoréflexion éthique quotidienne.",
+      "de": "König Ashoka des Maurya-Reiches. Entdecken Sie seine Felsenedikt-Routine zur täglichen ethischen Selbstreflexion.",
+      "pt": "O Rei Ashoka do Império Maurya. Descubra sua rotina de éditos em pilares para a autorreflexão ética diária.",
+      "id": "Raja Ashoka dari Kekaisaran Maurya. Temukan rutinitas ukiran batunya untuk refleksi diri moral harian."
+    },
+    "authority": {
+      "ko": "Romila Thapar 역사서 'Asoka and the Decline of the Mauryas' 및 아쇼카 석주 칙령(Ashoka Edicts) 비문",
+      "en": "Romila Thapar's 'Asoka and the Decline of the Mauryas' & Ashoka Edicts Inscriptions",
+      "ja": "ロミラ・ターパル著「Asoka and the Decline of the Mauryas」およびアショカ王勅令碑文",
+      "zh": "罗米拉·塔帕尔历史著作《Asoka and the Decline of the Mauryas》与阿育王石刻敕令",
+      "es": "Obra de Romila Thapar 'Asoka and the Decline of the Mauryas' e inscripciones de edictos de Ashoka",
+      "fr": "Ouvrage de Romila Thapar 'Asoka and the Decline of the Mauryas' & inscriptions des édits d'Ashoka",
+      "de": "Romila Thapars Historie 'Asoka and the Decline of the Mauryas' & Ashokas Felsenedikte",
+      "pt": "Obra de Romila Thapar 'Asoka and the Decline of the Mauryas' & inscrições dos éditos de Ashoka",
+      "id": "Karya Romila Thapar 'Asoka and the Decline of the Mauryas' & Prasasti Titah Ashoka"
+    },
+    "intro": {
+      "ko": "고대 인도 대륙 대부분을 통일하고 마우리아 제국의 태평성대를 연 성왕이자, 잔혹한 정복 군주에서 비폭력과 평화의 수호자로 거듭난 아쇼카 대왕(Ashoka the Great). 정복 전쟁이었던 칼링가(Kalinga) 전투의 참혹한 비극을 목도한 후, 그가 평생 자신의 권력과 욕망을 통제하며 올바른 윤리적 리더십을 고수할 수 있었던 비결은 무엇일까요? 🏛️\n\n아쇼카 대왕은 자신의 죄책감과 성찰, 그리고 제국이 지켜야 할 평화와 도덕적 가치(Dharma)를 거대한 바위와 석주에 새겨 제국 전역의 영토 길목에 세웠습니다. 그는 단순히 백성들을 가르치기 위함이 아니라, 왕인 자기 자신도 매일 석주에 새겨진 비문을 되새기며 자신의 행동이 가치관에 부합하는지 점검했습니다. 굳건한 바위에 새겨진 비문은 변덕스러운 인간의 감정에 흔들리지 않는 강력한 시각적 닻(Visual Anchor) 역할을 해주었습니다.\n\n오늘 BuildSelf에서는 아쇼카 대왕의 '가치관 비문 되새김' 루틴의 뇌과학적 작동 원리와 현대인들이 자신의 핵심 가치를 일상에서 복원하는 3단계 실천 가이드를 공개합니다.",
+      "en": "King Ashoka, who unified India and transformed from a ruthless conqueror into a champion of peace after the tragic Kalinga War. What was his secret to ethical self-governance? 🏛️\n\nAshoka engraved his core moral values (Dharma) onto giant rock pillars across his empire. Beyond instructing his subjects, he used these inscriptions to daily audit his own choices against his values. These unyielding stone edicts served as powerful visual anchors for his brain.\n\nToday, BuildSelf reveals the science behind King Ashoka's 'value inscription reflection' routine and a 3-step action guide.",
+      "ja": "古代インドを統一したアショカ王。カリンガ戦争の惨状を反省し、平和の守護者となった彼の自省の秘密は何でしょうか？ 🏛️\n\nアショカ王は自身の倫理的価値観を巨大な石柱に刻み、毎日その碑文を振り返りました。変わらない石に刻まれた言葉が、感情に流されない視覚的アンカーとなりました。\n\n今日のBuildSelfでは、アショカ王の「価値観碑文リフレクション」を紹介します。",
+      "zh": "统一古印度半岛、并在看见卡林加战争惨状后自省成为和平守护者的阿育王。他在余生中恪守道德自治的秘诀是什么？ 🏛️\n\n阿育王将自己的道德价值观刻在巨型石柱上。除了诏告臣民，他每天也用这些碑文审视自己的决定。坚硬石柱上的文字成为了防范情绪动摇的视觉锚点。\n\n今天，BuildSelf 将带您探究阿育王“价值观铭文反思”惯例指南。",
+      "es": "El Rey Ashoka, quien unificó India y se transformó en un gobernante de paz tras la guerra de Kalinga. ¿Su secreto? 🏛️\n\nAshoka inscribió sus valores morales en pilares de piedra por su imperio, revisando a diario sus acciones frente a ellos como anclas visuales.\n\nHoy, BuildSelf explora la rutina de reflexión en edictos del Rey Ashoka.",
+      "fr": "Le Roi Ashoka, qui a unifié l'Inde et s'est transformé en souverain de paix après la guerre du Kalinga. Son secret ? 🏛️\n\nAshoka a gravé ses valeurs morales sur des piliers en roche pour évaluer chaque jour ses actions comme des ancres visuelles.\n\nAujourd'hui, BuildSelf explore la routine de réflexion gravée du Roi Ashoka.",
+      "de": "König Ashoka, der Indien einte und sich nach dem Kalinga-Krieg dem Frieden verschrieb. Sein Geheimnis? 🏛️\n\nAshoka meißelte seine Werte in Felsen und nutzte sie täglich als visuelle Anker zur Überprüfung seines Strebens.\n\nHeute untersucht BuildSelf König Ashokas Ethik-Routine.",
+      "pt": "O Rei Ashoka, que unificou a Índia e se tornou um governante de paz após a guerra de Kalinga. Seu segredo? 🏛️\n\nAshoka inscreveu seus valores em pilares de pedra para avaliar diariamente suas ações como âncoras visuais.\n\nHoje, o BuildSelf explora a rotina de reflexão em éditos do Rei Ashoka.",
+      "id": "Raja Ashoka, yang menyatukan India dan berubah menjadi raja perdamaian pasca Perang Kalinga. Rahasianya? 🏛️\n\nAshoka mengukir nilai-nilai moralnya di pilar batu sebagai jangkar visual harian untuk mengevaluasi tindakannya.\n\nHari ini, BuildSelf menjelajahi rutinitas refleksi ukiran batu Raja Ashoka."
+    },
+    "whyTitle": {
+      "ko": "외부 가치관 닻(Visual Anchor)과 전전두엽 자아 정체성 강화 메커니즘",
+      "en": "Mechanism: External Visual Anchoring and Prefrontal Self-Identity Reinforcement",
+      "ja": "視覚的アンカー（Visual Anchor）による前頭葉の自我同一性強化メカニズム",
+      "zh": "外部视觉锚点(Visual Anchor)与前额叶自我同一性强化机制",
+      "es": "Mecanismo: Anclaje visual externo y refuerzo de la identidad en el córtex prefrontal",
+      "fr": "Mécanisme : Ancrage visuel externe et renforcement de l'identité préfrontale",
+      "de": "Mechanismus: Externe visuelle Verankerung und präfrontale Festigung der Identität",
+      "pt": "Mecanismo: Ancoragem visual externa e reforço da identidade pré-frontal",
+      "id": "Mekanisme: Jangkar Visual Eksternal dan Penguatan Identitas Diri Prefrontal"
+    },
+    "whyDesc": {
+      "ko": "사람의 감정과 순간적 욕망은 뇌의 시상하부와 변연계의 영향을 받아 수시로 변덕을 부립니다. 아쇼카 대왕처럼 자신의 핵심 신념을 눈에 보이는 물리적 구조물로 외재화(Externalization)하면, 뇌는 물리적 텍스트를 인식하는 즉시 <strong></strong> 효과를 발동시킵니다.\n\n매일 정해진 시각에 자신의 핵심 가치를 눈으로 보고 읽는 행위는 전전두엽 피질의 <strong></strong>를 강하게 자극하여, 순간적 유혹이나 피로 속에서도 자신이 지켜야 할 올바른 행동을 선제적으로 선택하도록 돕습니다.",
+      "en": "Emotions and fleeting desires fluctuate under limbic influence. Externalizing core principles into visible physical formats creates a <strong></strong> for the brain.\n\nReading your core values daily activates the prefrontal <strong></strong>, steering decision-making toward long-term alignment over short-term temptation.",
+      "ja": "感情や欲望は変易的です。自身の核心的信念を視覚的な構造物として外在化すると、<strong></strong>が働きます。\n\n毎日価値観を目にすることで、前頭葉の<strong></strong>が刺激され、正しい選択を助けます。",
+      "zh": "人类的情绪与瞬间欲望受边缘系统影响极其易变。像阿育王一样将核心信念外在化(Externalization)为肉眼可见的结构，能触发大脑的<strong></strong>。\n\n每天阅读核心价值观能强烈刺激前额叶的<strong></strong>，确保在面对诱惑时做出符合长远价值观的决定。",
+      "es": "Las emociones varían bajo la influencia límbica. Externalizar principios crea un <strong></strong> que activa la identidad prefrontal.\n\nLeer sus valores a diario le guía hacia decisiones alineadas con sus metas a largo plazo.",
+      "fr": "Les émotions varient sans cesse. Externaliser ses principes crée une <strong></strong> qui active l'identité préfrontale.\n\nLire ses valeurs au quotidien guide les choix vers un alignement à long terme.",
+      "de": "Emotionen schwanken leicht. Das Aufschreiben von Werten schafft einen <strong></strong> im präfrontalen Kortex.\n\nTägliches Lesen stärkt das Selbstbild und schützt vor Versuchungen.",
+      "pt": "As emoções oscilam facilmente. Externalizar princípios cria uma <strong></strong> que ativa a identidade pré-frontal.\n\nLer seus valores diariamente guia decisões alinhadas a longo prazo.",
+      "id": "Emosi dan hasrat mudah berubah. Mengidentifikasi nilai inti secara fisik menciptakan <strong></strong> di otak.\n\nMembaca nilai-nilai Anda setiap hari menguatkan sirkuit identitas diri prefrontal untuk memilih hal yang benar."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "나만의 핵심 가치관 3가지 단어 선언",
+          "en": "Declaring 3 Core Value Words",
+          "ja": "自分だけの核心的価値観3つの宣言",
+          "zh": "确立并宣示个人核心价值观3大关键词",
+          "es": "Declarar 3 palabras con sus valores fundamentales",
+          "fr": "Déclarer 3 mots représentatifs de vos valeurs",
+          "de": "Festlegen von 3 Wörtern für Ihre Kernwerte",
+          "pt": "Declarar 3 palavras para seus valores fundamentais",
+          "id": "Menyatakan 3 Kata Nilai Inti Pribadi"
+        },
+        "text": {
+          "ko": "자신이 일상에서 결코 타협하고 싶지 않은 최우선 인격적 가치(예: 정직, 지속성, 몰입) 3가지를 단어로 명확히 정의합니다.",
+          "en": "Define 3 core non-negotiable personal values (e.g., Integrity, Consistency, Focus) that guide your life decisions.",
+          "ja": "自分が妥協したくない人生の最優先価値観（例：誠実、継続、没頭）を3つ定義します。",
+          "zh": "明确界定自己在生活中绝不妥协的3项最优先人格价值观（如：言行一致、持续性、极度专注）。",
+          "es": "Defina 3 valores personales innegociables (ej. Integridad, Constancia, Enfoque) que guíen sus decisiones.",
+          "fr": "Définissez 3 valeurs personnelles essentielles (ex. Intégrité, Constance, Focus) pour guider vos choix.",
+          "de": "Definieren Sie 3 unumstößliche Werte (z. B. Ehrlichkeit, Ausdauer, Fokus) für Ihr Handeln.",
+          "pt": "Defina 3 valores pessoais inegociáveis (ex. Integridade, Constância, Foco) para guiar suas escolhas.",
+          "id": "Tentukan 3 nilai pribadi tak terbantahkan (misal: Integritas, Konsistensi, Fokus) sebagai panduan."
+        }
+      },
+      {
+        "name": {
+          "ko": "시각적 닻(Visual Anchor) 카드 작성 및 정면 배치",
+          "en": "Creating and Placing a Visual Anchor Card",
+          "ja": "視覚的アンカー（Visual Anchor）カードの作成と 配置",
+          "zh": "制作视觉锚点卡片并放置于常视正前方",
+          "es": "Crear y colocar una tarjeta de anclaje visual",
+          "fr": "Créer et placer une carte d'ancrage visuel",
+          "de": "Erstellen und Platzieren einer visuellen Ankerkarte",
+          "pt": "Criar e posicionar um cartão de ancoragem visual",
+          "id": "Membuat dan Meletakkan Kartu Jangkar Visual"
+        },
+        "text": {
+          "ko": "선정한 3가지 가치관을 카드나 인덱스 노트에 적어 모니터 옆, 책상 앞, 혹은 스마트폰 잠금화면 등 매일 수십 번 시선이 닿는 곳에 붙여둡니다.",
+          "en": "Write these 3 values on a card and place it next to your monitor or desk where your eyes hit dozens of times daily.",
+          "ja": "書いたカードをデスクの前やモニターの横など、目につく場所に貼ります。",
+          "zh": "将选出的3项价值观写在卡片上，贴在电脑显示器旁、书桌前等每天眼神数十次扫过的地方。",
+          "es": "Escriba sus 3 valores en una tarjeta y péguela junto a su monitor o escritorio para verla a diario.",
+          "fr": "Écrivez vos 3 valeurs sur une carte et collez-la à côté de votre écran pour la voir tous les jours.",
+          "de": "Schreiben Sie die 3 Werte auf eine Karte und kleben Sie sie gut sichtbar an Ihren Monitor.",
+          "pt": "Escreva seus 3 valores em um cartão e cole-o ao lado do monitor para vê-lo diariamente.",
+          "id": "Tuliskan 3 nilai tersebut di kartu dan tempel di samping monitor agar terlihat puluhan kali sehari."
+        }
+      },
+      {
+        "name": {
+          "ko": "하루 마감 시 가치관 부합 여부 1분 낭송 및 점검",
+          "en": "1-Minute Daily Recitation and Alignment Audit",
+          "ja": "一日の終わりに価値観との一致度を1分間確認",
+          "zh": "一天结束时用1分钟朗读并对照自省",
+          "es": "Recitación y auditoría de 1 minuto al final del día",
+          "fr": "Récitation et vérification d'une minute en fin de journée",
+          "de": "1-minütiges Aufsagen und Prüfen am Tagesende",
+          "pt": "Recitação e auditoria de 1 minuto no fim do dia",
+          "id": "Pembacaan dan Evaluasi Keselarasan 1 Menit di Akhir Hari"
+        },
+        "text": {
+          "ko": "하루를 마감하며 카드의 가치관 단어를 입으로 나지막이 읽고, '오늘 나의 결정이 이 가치와 일치했는가?'를 1분간 성찰합니다.",
+          "en": "At day's end, quietly recite the words on the card and audit for 1 minute: 'Did my choices today reflect these values?'",
+          "ja": "一日の終わりにカードの言葉を声に出して読み、「今日の行動は一致していたか」を1分間振り返ります。",
+          "zh": "在一天结束之际，低声朗读卡片上的关键词，用1分钟默想反思：“我今天的决定与这些价值观相符吗？”",
+          "es": "Al final del día, lea los valores en voz alta y reflexione 1 minuto si sus acciones coincidieron con ellos.",
+          "fr": "En fin de journée, lisez les valeurs à voix haute et vérifiez pendant 1 minute l'alignement de vos actes.",
+          "de": "Lesen Sie am Tagesende die Werte laut vor und prüfen Sie 1 Minute lang Ihre Entscheidungen.",
+          "pt": "No fim do dia, leia os valores em voz alta e avalie por 1 minuto se suas ações foram coerentes.",
+          "id": "Di akhir hari, bacakan kata-kata tersebut dan evaluasi selama 1 menit keselarasan tindakan Anda."
+        }
+      }
+    ],
+    "cautionTitle": {
+      "ko": "가치관 선언의 일회성 이벤트화 및 형식주의 주의",
+      "en": "Caution Against One-Time Eventism and Empty Formalism",
+      "ja": "価値観宣言の一回性イベント化に対する注意",
+      "zh": "切忌将价值观宣示变成一次性形式主义",
+      "es": "Precaución con convertir la declaración en un acto formal único",
+      "fr": "Attention à ne pas transformer cette déclaration en simple formalité",
+      "de": "Vorsicht vor einmaliger Formalität ohne tägliche Praxis",
+      "pt": "Cuidado ao transformar a declaração em mero formalismo",
+      "id": "Waspada Menjadikan Pernyataan Nilai Sekadar Formalitas Sekali Jadi"
+    },
+    "cautionDesc": {
+      "ko": "가치관 카드를 예쁘게 적어 붙여놓고 다시는 읽지 않는다면 아무런 뇌과학적 닻 효과가 일어나지 않습니다. 아쇼카 대왕이 석주 비문을 매일 되새긴 것처럼, 핵심은 '매일 눈으로 확인하고 낭송하는 일상적 반복'에 있습니다.",
+      "en": "Writing a nice card and ignoring it yields zero anchoring effect. Like Ashoka, the power lies in the daily active habit of looking at and reciting your values.",
+      "ja": "カードを貼っただけで満足して読まなければ効果はありません。アショカ王のように毎日声に出して確認することが重要です。",
+      "zh": "若精美地制作卡片贴上后便不再阅读，不会产生任何大脑锚点效果。如同阿育王每日重温铭文一样，关键在于“每日目视与朗读”的日常重复。",
+      "es": "Pegar una tarjeta y no leerla no produce ningún efecto ancla. La clave es la repetición diaria de mirarla y leerla.",
+      "fr": "Coller une carte sans la relire n'a aucun effet. La clé réside dans la répétition quotidienne de sa lecture.",
+      "de": "Eine Karte aufzukleben ohne sie zu lesen bringt nichts. Der Schlüssel ist das tägliche laute Relevieren.",
+      "pt": "Colar um cartão e não ler não produz efeito âncora. A chave está na repetição diária de olhar e recitar.",
+      "id": "Menempel kartu tanpa membacanya tidak memberi efek jangkar. Kuncinya ada pada kebiasaan harian melihat dan membacanya."
+    },
+    "faqs": [
+      {
+        "question": {
+          "ko": "가치관 단어가 3개보다 많아도 괜찮나요?",
+          "en": "Can I have more than 3 core value words?",
+          "ja": "核心的価値観の単語が3つ以上あってもいいですか？",
+          "zh": "核心价值观的关键词可以多于3个吗？",
+          "es": "¿Puedo tener más de 3 palabras de valores fundamentales?",
+          "fr": "Puis-je avoir plus de 3 mots de valeurs fondamentales ?",
+          "de": "Kann ich mehr als 3 Kernwerte festlegen?",
+          "pt": "Posso ter mais de 3 palavras de valores fundamentais?",
+          "id": "Bolehkah memiliki lebih dari 3 kata nilai inti?"
+        },
+        "answer": {
+          "ko": "가급적 3개 이내로 제한하는 것을 강력히 권장합니다. 가치관 숫자가 5개 이상으로 늘어나면 작업 기억(Working Memory)에 부하가 걸려 닻 내리기 효과가 급격히 약화됩니다.",
+          "en": "We strongly recommend keeping it to 3 maximum. Having 5 or more overloads working memory, diluting the visual anchor effect.",
+          "ja": "3つ以内に絞ることを強くお勧めします。多すぎると脳の作業記憶に負荷がかかり、効果が薄れます。",
+          "zh": "强烈建议控制在3个以内。一旦数量超过5个，会给工作记忆带来过载，使锚定效果大幅削弱。",
+          "es": "Se recomienda un máximo de 3. Tener 5 o más sobrecarga la memoria de trabajo y diluye el efecto ancla.",
+          "fr": "Nous recommandons 3 maximum. En avoir 5 ou plus surcharge la mémoire et dilue l'effet d'ancrage.",
+          "de": "Wir empfehlen maximal 3. Bei 5 oder mehr wird das Arbeitsgedächtnis überfordert und der Effekt verblasst.",
+          "pt": "Recomendamos no máximo 3. Ter 5 ou mais sobrecarrega a memória de trabalho e dilui o efeito âncora.",
+          "id": "Sangat disarankan membatasi maksimal 3. Memiliki 5 atau lebih membebani memori kerja dan mengaburkan efek jangkar."
+        }
+      },
+      {
+        "question": {
+          "ko": "시간이 지나 가치관 단어를 바꿔도 되나요?",
+          "en": "Is it okay to change my value words over time?",
+          "ja": "時間が経ってから価値観の単語を変更してもいいですか？",
+          "zh": "随着时间推移可以更换价值观关键词吗？",
+          "es": "¿Es adecuado cambiar las palabras de valores con el tiempo?",
+          "fr": "Puis-je changer mes mots de valeurs au fil du temps ?",
+          "de": "Darf ich meine Kernwerte im Laufe der Zeit anpassen?",
+          "pt": "Posso mudar as palavras de valores com o tempo?",
+          "id": "Bolehkah mengubah kata nilai inti seiring berjalannya waktu?"
+        },
+        "answer": {
+          "ko": "네, 물론입니다! 분기별(3개월)로 자신의 삶의 단계와 목표 변화에 맞춰 가치관 카드를 재정의하고 갱신하는 것은 전전두엽에 새로운 자극을 주는 매우 좋은 습관입니다.",
+          "en": "Yes, absolutely! Auditing and updating your value card quarterly (every 3 months) aligns with evolving life stages and refreshes prefrontal focus.",
+          "ja": "はい。3ヶ月ごとに見直し、現在の目標に合致するよう更新するのは 脳に良い刺激となります。",
+          "zh": "当然可以！每季度（3个月）根据生活阶段与目标的变化重新审视并更新价值观卡片，能向前额叶提供极佳的新鲜刺激。",
+          "es": "¡Sí! Revisar y actualizar la tarjeta cada trimestre adapta sus valores a sus metas y renueva el enfoque.",
+          "fr": "Absolument ! Réévaluer votre carte chaque trimestre l'aligne sur vos objectifs et stimule le cerveau.",
+          "de": "Ja! Eine vierteljährliche Überprüfung passt die Werte an neue Ziele an und erfrischt den Fokus.",
+          "pt": "Com certeza! Revisar seu cartão a cada trimestre alinha seus valores às suas metas e renova o foco.",
+          "id": "Tentu saja! Mengevaluasi dan memperbarui kartu nilai secara triwulanan memberi stimulasi segar bagi otak."
+        }
+      }
+    ],
+    "pubDate": "2026-06-04",
+    "updatedDate": "2026-06-04"
+  }
+}

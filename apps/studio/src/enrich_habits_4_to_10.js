@@ -1,0 +1,350 @@
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const habitsDataDir = path.join(__dirname, 'data/blogs/habits');
+const habitsItemDir = path.join(__dirname, 'data/habits/items');
+const koBlogDir = path.join(__dirname, 'content/blog/ko');
+
+const today = "2026-07-22";
+
+const habits4to10 = [
+  // 4. federer-sleep-recovery
+  {
+    slug: "federer-sleep-recovery",
+    title: {
+      ko: "하루 12시간 자고 수십 개의 우승컵을 든 황제? 로저 페더러의 수면 회복 루틴",
+      en: "The Emperor Who Slept 12 Hours a Day and Won Dozens of Trophies? Roger Federer's Sleep Recovery Routine",
+      ja: "一日12時間眠り数々のトロフィーを掲げた皇帝？ロジャー・フェデラーの睡眠回復ルーティン",
+      zh: "每天睡12小时并斩获几十座奖杯的球天王？罗杰·费德勒的睡眠恢复惯例",
+      es: "¿El emperador que dormía 12 horas al día y ganó decenas de trofeos? La rutina de sueño de Roger Federer",
+      fr: "L'empereur qui dormait 12 heures par jour et a remporté des dizaines de trophées ? La routine de sommeil de Roger Federer",
+      de: "Der Kaiser, der 12 Stunden am Tag schlief und Dutzende von Trophäen gewann? Roger Federers Schlaf-Routine",
+      pt: "O imperador que dormia 12 horas por dia e ganhou dezenas de troféus? A rotina de sono de Roger Federer",
+      id: "Kaisar yang Tidur 12 Jam Sehari dan Memenangkan Puluhan Trofi? Rutinitas Pemulihan Tidur Roger Federer"
+    },
+    description: {
+      ko: "테니스 황제 로저 페더러. 40세가 넘는 나이까지 세계 최고 기량을 유지한 비결인 하루 10~12시간 고급 수면 및 렘(REM) 수면 회복 루틴과 3단계 실천 가이드를 깊이 있게 알아봅니다.",
+      en: "Roger Federer, tennis legend. Discover his 10-12 hour sleep recovery routine for maintaining peak performance and a 3-step action guide for modern professionals.",
+      ja: "テニス界の皇帝フェデラー。40歳を超えてもトップで活躍した秘密である10〜12時間睡眠回復法を紹介します。",
+      zh: "网球天王罗杰·费德勒。介绍他保持巅峰状态的每天10-12小时睡眠恢复惯例及现代人三步实践指南。",
+      es: "Roger Federer, leyenda del tenis. Descubra su rutina de sueño de 10 a 12 horas para mantener el máximo rendimiento.",
+      fr: "Roger Federer, légende du tennis. Découvrez sa routine de sommeil de 10 à 12 heures pour maintenir des performances optimales.",
+      de: "Roger Federer, Tennislegende. Entdecken Sie seine 10-12-Stunden-Schlafroutine zur Aufrechterhaltung der Höchstleistung.",
+      pt: "Roger Federer, lenda do tênis. Descubra sua rotina de sono de 10 a 12 horas para manter o desempenho máximo.",
+      id: "Roger Federer, legenda tenis. Temukan rutinitas pemulihan tidur 10-12 jam untuk menjaga performa puncak."
+    },
+    authority: {
+      ko: "Christopher Clarey 전기 'The Master: The Long Run and Beautiful Game of Roger Federer' 및 Nature Neuroscience 수면 논문",
+      en: "Christopher Clarey's Biography 'The Master' & Nature Neuroscience Sleep Research",
+      ja: "クリストファー・クレアリー評伝「The Master」およびNature Neuroscience睡眠論文",
+      zh: "克里斯托弗·克拉雷传记《The Master》与《Nature Neuroscience》睡眠研究",
+      es: "Biografía de Christopher Clarey 'The Master' y estudio de Nature Neuroscience",
+      fr: "Biographie de Christopher Clarey 'The Master' & étude de Nature Neuroscience",
+      de: "Christopher Clareys Biografie 'The Master' & Nature Neuroscience Schlafstudie",
+      pt: "Biografia de Christopher Clarey 'The Master' & estudo da Nature Neuroscience",
+      id: "Biografi Christopher Clarey 'The Master' & Riset Nature Neuroscience"
+    },
+    intro: {
+      ko: "메이저 대회 20회 우승, 310주 세계 랭킹 1위, 40세가 넘는 나이까지 세계 최고의 인지 순발력과 체력을 유지하며 테니스 역사를 새로 쓴 황제, 로저 페더러(Roger Federer). 혹독한 경기 일정 속에서도 그가 20년 이상 정상의 자리를 유지할 수 있었던 가장 강력한 신체적·정신적 회복 비밀은 무엇일까요? 🎾\n\n페더러는 '충분한 수면이 없다면 나는 코트 위에서 내 실력의 50%도 발휘할 수 없다'고 단언했습니다. 그는 밤 시간 10시간의 깊은 본 수면과 경기 및 훈련 사이 1~2시간의 낮잠을 합쳐 하루 평균 11~12시간의 수면을 철저한 최우선 순위로 스케줄링했습니다. 수면을 훈련의 일부이자 인지 가소성(Neuroplasticity)의 핵심 엔진으로 본 그의 철학은 신체 세포 재배열과 뇌의 정교한 반응 속도를 극한으로 보존시켰습니다.\n\n오늘 BuildSelf에서는 페더러의 '12시간 수면 회복' 루틴의 뇌과학적 작동 원리와 현대인들이 수면의 질을 대폭 향상시키는 3단계 실천법을 공개합니다.",
+      en: "Roger Federer, tennis emperor who maintained peak athletic and cognitive performance into his 40s. What was his greatest secret to endurance? 🎾\n\nFederer famously stated, 'If I don't sleep 11 to 12 hours a day, it's not right.' He prioritized 10 hours of night sleep plus a 1-2 hour daytime nap. Viewing sleep as an essential component of training, his routine optimized cellular repair and reaction speeds.\n\nToday, BuildSelf explores Federer's sleep recovery routine and a 3-step action guide.",
+      ja: "テニス界の皇帝ロジャー・フェデラー。40歳を超えてもトップで活躍し続けた秘密は何でしょうか？ 🎾\n\nフェデラーは「11〜12時間眠らなければ、コート上で最高のプレーはできない」と語りました。彼は10時間の夜間睡眠と昼寝を組み合わせて回復を極めました。\n\n今日のBuildSelfでは、フェdererの「12時間睡眠回復」ルーティンを紹介します。",
+      zh: "网球天王罗杰·费德勒。在40岁高龄依然保持巅峰竞争力的秘密是什么？ 🎾\n\n费德勒曾坦言：“如果我每天不睡满11-12个小时，就无法打出最高水平。”他将夜间10小时睡眠与午睡结合，作为最高优先事项。\n\n今天，BuildSelf 将带您探究费德勒“12小时睡眠恢复”惯例指南。",
+      es: "Roger Federer, leyenda del tenis. ¿Cuál fue su gran secreto para mantener el rendimiento pasados los 40 años? 🎾\n\nFederer afirmó que si no dormía de 11 a 12 horas al día, no podía competir. Combinaba 10 horas nocturnas con siestas.\n\nHoy, BuildSelf explora la rutina de descanso de 12 horas de Federer.",
+      fr: "Roger Federer, légende du tennis. Quel était son secret pour maintenir des performances au-delà de 40 ans ? 🎾\n\nFederer disait que s'il ne dormait pas 11 à 12 heures, il ne pouvait pas performer. Il combinait 10h de nuit et des siestes.\n\nAujourd'hui, BuildSelf explore la routine de récupération par le sommeil de Federer.",
+      de: "Roger Federer, Tennislegende. Was war sein Geheimnis für Höchstleistungen bis in die 40er? 🎾\n\nFederer betonte, dass er ohne 11-12 Stunden Schlaf nicht performen könne. Er kombinierte 10 Stunden Nachtschlaf mit Nickerchen.\n\nHeute untersucht BuildSelf Federers 12-Stunden-Schlafroutine.",
+      pt: "Roger Federer, lenda do tênis. Qual era o seu segredo para manter o nível máximo após os 40 anos? 🎾\n\nFederer afirmava que sem 11 a 12 horas de sono não conseguia jogar. Ele combinava 10h noturnas com cochilos.\n\nHoje, o BuildSelf explora a rotina de recuperação pelo sono de Federer.",
+      id: "Roger Federer, legenda tenis. Apa rahasianya menjaga performa puncak hingga usia 40-an? 🎾\n\nFederer menyatakan bahwa jika ia tidak tidur 11-12 jam, ia tidak bisa bertanding maksimal. Ia memadukan 10 jam tidur malam dan tidur siang.\n\nHari ini, BuildSelf menjelajahi rutinitas pemulihan tidur Federer."
+    },
+    whyTitle: {
+      ko: "글림프 시스템 청소와 렘(REM) 수면 신경 가소성 회복 메커니즘",
+      en: "Mechanism: Glymphatic Clearance and REM Sleep Neuroplasticity Restoration",
+      ja: "グリンパティック系の洗浄とREM睡眠による神経可塑性の回復メカニズム",
+      zh: "淋巴清除与REM睡眠神经可塑性恢复机制",
+      es: "Mecanismo: Limpieza del sistema glinfático y restauración de plasticidad neuronal en sueño REM",
+      fr: "Mécanisme : Nettoyage du système glymphatique et restauration de la plasticité en sommeil REM",
+      de: "Mechanismus: Glymphatische Reinigung und Erneuerung der Neuroplastizität im REM-Schlaf",
+      pt: "Mecanismo: Limpeza do sistema glinfático e restauração da plasticidade no sono REM",
+      id: "Mekanisme: Pembersihan Sistem Glimfatik dan Restorasi Plastisitas Neural Saat Tidur REM"
+    },
+    whyDesc: {
+      ko: "깊은 수면 상태에 접어들면 뇌의 <strong></strong>이 활성화되어 낮 동안 뇌세포 사이에 쌓인 베타 아밀로이드 등 독성 노폐물을 시원하게 세척합니다. 또한 수면 후반부의 <strong></strong>은 운동 절차 기억과 인지 순발력을 고도화하는 신경 가소성을 촉진합니다.\n\n페더러처럼 충분한 수면 시간을 보장할 때, 뇌는 스트레스 호르몬인 코르티솔 수치를 낮추고 성장 호르몬 분비를 촉진하여 신체 근육과 뇌의 집중력을 최고 상태로 복원합니다.",
+      en: "During deep sleep, the brain's <strong></strong> flushes out neurotoxic metabolic waste like beta-amyloid built up during waking hours. Additionally, late-stage <strong></strong> consolidates motor memory and sharpens cognitive reaction speed.\n\nEnsuring adequate sleep duration suppresses cortisol and triggers growth hormone release, fully restoring muscular and mental resilience.",
+      ja: "深い睡眠中、脳の<strong></strong>が毒性老廃物を洗浄します。さらに後半の<strong></strong>が運動記憶と反応速度を強化します。\n\n十分な睡眠を確保することで、ストレスホルモンを下げ、認知集中力を復元します。",
+      zh: "在深度睡眠中，大脑<strong></strong>会清除白天积累的代谢废弃物。睡眠后半段的<strong></strong>能巩固运动记忆与反应速度。\n\n保证充足睡眠可以降低皮质醇水，促进生长激素分泌，全面恢复身体与大脑的集中力。",
+      es: "Durante el sueño profundo, el <strong></strong> elimina residuos neurotóxicos. El <strong></strong> consolida la memoria motora.\n\nUn descanso adecuado reduce el cortisol y libera hormona del crecimiento para restaurar la mente.",
+      fr: "Pendant le sommeil profond, le <strong></strong> nettoie les déchets métaboliques. Le <strong></strong> consolide la mémoire motrice.\n\nGarantir un sommeil suffisant réduit le cortisol et libère l'hormone de croissance.",
+      de: "Im Tiefschlaf reinigt das <strong></strong> neurotoxische Abfälle. Der <strong></strong> festigt das Bewegungsgedächtnis.\n\nAusreichend Schlaf senkt Cortisol und fördert das Wachstumshormon zur Erholung.",
+      pt: "No sono profundo, o <strong></strong> elimina resíduos neurotóxicos. O <strong></strong> consolida a memória motora.\n\nGarantir um sono adequado reduz o cortisol e libera hormônio do crescimento.",
+      id: "Saat tidur nyenyak, <strong></strong> membersihkan limbah neurotoksik. <strong></strong> memperkuat memori motorik.\n\nMemastikan tidur cukup menurunkan kortisol dan memicu hormon pertumbuhan untuk memulihkan otak."
+    },
+    steps: [
+      {
+        name: {
+          ko: "취침 1시간 전 입면 환경 암막·절전 세팅",
+          en: "Setting a Dark, Cool Sleep Environment 1 Hour Before Bed",
+          ja: "就寝1時間前の遮光・室温調整セット",
+          zh: "睡前1小时设置遮光与凉爽睡眠环境",
+          es: "Acondicionar un entorno oscuro y fresco 1 hora antes de dormir",
+          fr: "Préparer un environnement sombre et frais 1 heure avant le coucher",
+          de: "Einrichten einer dunklen, kühlen Schlafumgebung 1 Stunde vor dem Bett",
+          pt: "Preparar um ambiente escuro e fresco 1 hora antes de dormir",
+          id: "Menyiapkan Lingkungan Tidur Gelap dan Sejuk 1 Jam Sebelum Tidur"
+        },
+        text: {
+          ko: "취침 1시간 전 스마트폰 사용을 중단하고, 침실 온도를 섭씨 18~20도로 서늘하게 유지하며 암막 커튼을 내려 불빛을 완전 차단합니다.",
+          en: "Stop using screens 1 hour before sleep, maintain room temperature at 18-20°C (64-68°F), and use blackout curtains.",
+          ja: "就寝1時間前にスマホを止め、寝室を涼しく（18〜20度）保ち、遮光カーテンを引きます。",
+          zh: "睡前1小时停止使用手机，保持卧室温度在18-20摄氏度，拉上遮光窗帘彻底遮挡光线。",
+          es: "Deje los teléfonos 1 hora antes, mantenga la habitación a 18-20°C y use cortinas opacas.",
+          fr: "Éteignez les écrans 1 heure avant, maintenez la chambre à 18-20°C et fermez les volets.",
+          de: "Schalten Sie 1 Stunde vorher Bildschirme aus, halten Sie 18-20°C und nutzen Sie Verdunkelung.",
+          pt: "Desligue as telas 1 hora antes, mantenha o quarto a 18-20°C e use cortinas blackout.",
+          id: "Hentikan layar 1 jam sebelum tidur, jaga suhu kamar 18-20°C, dan gunakan tirai kedap cahaya."
+        }
+      },
+      {
+        name: {
+          ko: "최소 8시간 본 수면 시간 엄격 스케줄링",
+          en: "Strictly Scheduling at Least 8 Hours of Core Sleep",
+          ja: "最低8時間の本睡眠時間の厳格なスケジューリング",
+          zh: "严格排定至少8小时的主睡眠时间",
+          es: "Programar estrictamente al menos 8 horas de sueño principal",
+          fr: "Planifier au moins 8 heures de sommeil principal",
+          de: "Strikte Einplanung von mindestens 8 Stunden Hauptschlaf",
+          pt: "Agendar estritamente pelo menos 8 horas de sono principal",
+          id: "Menjadwalkan Secara Ketat Minimal 8 Jam Tidur Utama"
+        },
+        text: {
+          ko: "하루 일정에서 수면을 남는 시간에 하는 것이 아니라, 바쁜 업무 스케줄보다 먼저 8시간의 취침 및 기상 시간을 확정해 배치합니다.",
+          en: "Do not leave sleep as an afterthought; block out 8 hours in your daily calendar before scheduling other tasks.",
+          ja: "睡眠を余った時間で行うのではなく、予定の最優先として 8時間を確保します。",
+          zh: "切勿将睡眠视为零碎时间的补充；在安排其他日程前，优先在日历中锁定8小时睡眠 Block。",
+          es: "Bloquee 8 horas de sueño en su agenda diaria antes de planificar otras tareas.",
+          fr: "Bloquez 8 heures de sommeil dans votre agenda avant de planifier d'autres tâches.",
+          de: "Planen Sie 8 Stunden Schlaf fest in Ihren Kalender ein, bevor Sie andere Aufgaben ansetzen.",
+          pt: "Reserve 8 horas de sono em sua agenda antes de planejar outras tarefas.",
+          id: "Jadwalkan 8 jam tidur dalam kalender harian Anda sebelum merencanakan tugas lain."
+        }
+      },
+      {
+        name: {
+          ko: "오후 1~3시 20분간의 렘/서파 리프레시 낮잠",
+          en: "20-Minute Refreshing Afternoon Power Nap",
+          ja: "午後1〜3時の20分間のリフレッシュ昼寝",
+          zh: "下午1-3点进行20分钟的焕新午休",
+          es: "Siesta reconfortante de 20 minutos por la tarde",
+          fr: "Sieste rafraîchissante de 20 minutes l'après-midi",
+          de: "20-minütiges Erholungs-Nickerchen am Nachmittag",
+          pt: "Cochilo revigorante de 20 minutos à tarde",
+          id: "Tidur Siang Singkat 20 Menit yang Menyegarkan"
+        },
+        text: {
+          ko: "오후 집중력이 떨어지는 시간대에 20분간 가볍게 눈을 감고 낮잠을 취해 뇌의 작업 기억을 초기화하고 오후 성능을 리셋합니다.",
+          en: "Take a 20-minute power nap in the early afternoon to clear working memory and reset cognitive performance.",
+          ja: "午後の集中力が 低下する時間帯に20分間の軽い昼寝を取り、脳をリフレッシュします。",
+          zh: "在下午注意力下降的宝贵时段，闭目午休20分钟，清空工作记忆并重置下午的工作状态。",
+          es: "Tome una siesta de 20 minutos a primera hora de la tarde para reiniciar la memoria de trabajo.",
+          fr: "Faites une sieste de 20 minutes en début d'après-midi pour réinitialiser votre cerveau.",
+          de: "Machen Sie am frühen Nachmittag ein 20-minütiges Nickerchen zum Reset des Gehirns.",
+          pt: "Tire um cochilo de 20 minutos no início da tarde para reiniciar o desempenho mental.",
+          id: "Lakukan tidur siang 20 menit di awal sore untuk menyegarkan memori kerja otak."
+        }
+      }
+    ],
+    cautionTitle: {
+      ko: "수면 부족 상태에서의 무리한 作業強行 주의",
+      en: "Caution Against Overworking Under Sleep Deprivation",
+      ja: "睡眠不足状態での無理な 作業強行に対する注意",
+      zh: "切忌在剥夺睡眠状态下强行高效工作",
+      es: "Precaución con forzar el trabajo en estado de privación de sueño",
+      fr: "Attention au surmenage en état de privation de sommeil",
+      de: "Vorsicht vor Überarbeitung bei Schlafmangel",
+      pt: "Cuidado ao forçar o trabalho sob privação de sono",
+      id: "Waspada Memaksakan Kerja Saat Kekurangan Tidur"
+    },
+    cautionDesc: {
+      ko: "잠을 줄여가며 일하는 것은 알코올 음주 상태에서 운전하는 것과 동일한 수준의 인지 오류를 유발합니다. 페더러의 말처럼 최고의 성과는 억지로 버티는 시간에서 나오는 것이 아니라, 정교한 수면 회복이 선사하는 맑은 몰입에서 비롯됩니다.",
+      en: "Working through sleep deprivation induces cognitive impairment equivalent to alcohol intoxication. Peak performance comes from high-quality sleep recovery, not grinding through exhaustion.",
+      ja: "睡眠を削って働くことは、飲酒状態と同等の認知エラーを引き起こします。最高の成果は質の高い睡眠から生まれます。",
+      zh: "牺牲睡眠强行工作导致的认知失误等同于酒后驾车。顶尖的成就源于精妙睡眠带来的清醒专注，而非硬撑。",
+      es: "Trabajar con falta de sueño causa un deterioro cognitivo equivalente a la ebriedad. El alto rendimiento nace del descanso.",
+      fr: "Travailler sans sommeil provoque une baisse cognitive équivalente à l'ivresse. La performance vient du repos.",
+      de: "Schlaflos zu arbeiten verursacht kognitive Einbußen wie Alkoholeinfluss. Höchstleistung entsteht durch Erholung.",
+      pt: "Trabalhar sem sono causa prejuízo cognitivo equivalente à embriaguez. O alto desempenho vem do repouso.",
+      id: "Bekerja saat kurang tidur menyebabkan penurunan kognitif sebanding dengan mabuk. Performa puncak lahir dari pemulihan."
+    },
+    faqs: [
+      {
+        question: {
+          ko: "밤에 잠이 잘 오지 않는 불면증이 있을 때는 어떻게 하나요?",
+          en: "What should I do if I struggle with insomnia at night?",
+          ja: "夜なかなか眠れない不眠症の場合はどうすればいいですか？",
+          zh: "晚上入睡困难（失眠）时该怎么办？",
+          es: "¿Qué hacer si tengo problemas de insomnio por la noche?",
+          fr: "Que faire en cas d'insomnie le soir ?",
+          de: "Was tun bei Schlafstörungen in der Nacht?",
+          pt: "O que fazer se eu tiver insônia à noite?",
+          id: "Apa yang harus dilakukan jika mengalami insomnia di malam hari?"
+        },
+        answer: {
+          ko: "침대 위에서 억지로 잠들려 애쓰지 말고, 20분이 지나도 잠이 오지 않으면 거실로 나와 붉은 조명 아래서 가벼운 독서를 하다가 졸음이 올 때 다시 침실로 들어가는 자극 통제 치료법(Stimulus Control)을 권장합니다.",
+          en: "Do not toss and turn in bed. If awake after 20 minutes, leave the bedroom and read under dim red light until sleepy to re-associate the bed with sleep.",
+          ja: "ベッドで無理に眠ろうとせず、20分経過したら一度起きて暗い部屋で 読書をし、眠くなったら戻ります。",
+          zh: "切勿在床上强求入睡。若20分钟后仍未睡着，建议下床在昏暗暖光下稍作阅读，待有倦意再返回卧室。",
+          es: "No se fuerce en la cama. Si tras 20 minutos no duerme, levántese y lea con luz tenue hasta sentir sueño.",
+          fr: "Ne vous forcez pas au lit. Après 20 minutes, levez-vous et lisez sous une lumière tamisée jusqu'au sommeil.",
+          de: "Zwingen Sie sich nicht im Bett. Stehen Sie nach 20 Minuten auf und lesen Sie bei schwachem Licht, bis Sie müde sind.",
+          pt: "Não se force na cama. Se após 20 minutos não dormir, levante-se e leia sob luz fraca até sentir sono.",
+          id: "Jangan memaksakan diri di tempat tidur. Jika 20 menit belum tidur, bangun dan bacalah di bawah cahaya temaram."
+        }
+      },
+      {
+        question: {
+          ko: "낮잠을 자고 나면 오히려 머리가 더 무거워지는데 이유가 무엇인가요?",
+          en: "Why do I feel groggy after taking a nap?",
+          ja: "昼寝の後に頭が重くなるのはなぜですか？",
+          zh: "为什么午睡后反而感觉头脑昏沉？",
+          es: "¿Por qué me siento aturdido tras una siesta?",
+          fr: "Pourquoi suis-je confus après une sieste ?",
+          de: "Warum fühle ich mich nach dem Nickerchen benommen?",
+          pt: "Por que me sinto tonto após um cochilo?",
+          id: "Mengapa saya merasa pusing setelah tidur siang?"
+        },
+        answer: {
+          ko: "낮잠 시간이 30분을 초과하여 깊은 서파 수면(Slow-Wave Sleep) 단계에 진입했기 때문입니다. 수면 관성(Sleep Inertia)을 방지하려면 낮잠 알람을 반드시 15~20분으로 세팅하세요.",
+          en: "This occurs when napping exceeds 30 minutes, entering deep slow-wave sleep. Keep naps strictly to 15-20 minutes to prevent sleep inertia.",
+          ja: "30分を超えて深い睡眠に入ったためです。昼寝のアラームは15〜20分に設定しましょう。",
+          zh: "这是因为午睡超过30分钟进入了深睡期导致“睡眠惯性”。请务必将午睡闹钟设定在15-20分钟。",
+          es: "Ocurre al superar los 30 minutos y entrar en sueño profundo. Limite las siestas a 15-20 minutos para evitar el aturdimiento.",
+          fr: "Cela arrive si la sieste dépasse 30 minutes (sommeil profond). Limitez-la à 15-20 minutes pour éviter l'inertie.",
+          de: "Das passiert, wenn das Nickerchen 30 Minuten überschreitet. Begrenzen Sie es auf 15-20 Minuten.",
+          pt: "Isso acontece quando o cochilo passa de 30 minutos. Mantenha o alarme em 15-20 minutos para evitar a inércia.",
+          id: "Ini terjadi jika tidur siang lebih dari 30 menit. Batasi tidur siang hingga 15-20 menit untuk menghindari inersia tidur."
+        }
+      }
+    ]
+  }
+];
+
+function enrich4to10() {
+  habits4to10.forEach(item => {
+    // 1. JSON 저장 (habits/items)
+    const itemPath = path.join(habitsItemDir, `${item.slug}.json`);
+    if (fs.existsSync(itemPath)) {
+      const itemData = JSON.parse(fs.readFileSync(itemPath, 'utf-8'));
+      itemData.historicalStory = item.intro.ko;
+      itemData.sciencePrinciples = item.whyDesc.ko;
+      fs.writeFileSync(itemPath, JSON.stringify(itemData, null, 2), 'utf-8');
+      console.log(`[Item 업데이트] ${item.slug}.json`);
+    }
+
+    // 2. JSON 저장 (blogs/habits)
+    const blogJsonPath = path.join(habitsDataDir, `${item.slug}.json`);
+    const jsonObj = { [item.slug]: item };
+    fs.writeFileSync(blogJsonPath, JSON.stringify(jsonObj, null, 2), 'utf-8');
+    console.log(`[Blog JSON 업데이트] ${item.slug}.json`);
+
+    // 3. KO 마크다운 작성
+    const koPath = path.join(koBlogDir, `${item.slug}.md`);
+    const stepsYaml = item.steps.map(s => `  - name: "${s.name.ko.replace(/"/g, '\\"')}"\n    text: "${s.text.ko.replace(/"/g, '\\"')}"`).join('\n');
+    const faqsYaml = item.faqs.map(f => `  - question: "${f.question.ko.replace(/"/g, '\\"')}"\n    answer: "${f.answer.ko.replace(/"/g, '\\"')}"`).join('\n');
+
+    const stepCardsHtml = item.steps.map((s, idx) => `
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP ${idx + 1}</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">${s.name.ko}</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    ${s.text.ko}
+  </p>
+</div>`).join('\n');
+
+    const faqAccordionHtml = item.faqs.map((f, idx) => `
+  <details class="group ${idx < item.faqs.length - 1 ? 'border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4' : ''} cursor-pointer" ${idx === 0 ? 'open' : ''}>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>${f.question.ko}</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      ${f.answer.ko}
+    </p>
+  </details>`).join('\n');
+
+    const koContent = `---
+title: "${item.title.ko.replace(/"/g, '\\"')}"
+description: "${item.description.ko.replace(/"/g, '\\"')}"
+pubDate: "${today}"
+updatedDate: "${today}"
+category: "BuildSelf"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/${item.slug.replace(/-/g, '_')}.png"
+app: "buildself"
+formatVersion: 4
+authority: "${item.authority.ko.replace(/"/g, '\\"')}"
+steps:
+${stepsYaml}
+faqs:
+${faqsYaml}
+---
+
+${item.intro.ko}
+
+<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+      역사적 & 학술적 근거
+    </h5>
+    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 <strong>${item.authority.ko}</strong>에 기록된 역사적 사실 및 최신 인지 뇌과학 연구를 바탕으로 작성되었습니다.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. ${item.whyTitle.ko}
+
+${item.whyDesc.ko}
+
+---
+
+## 2. 현대인을 위한 실천 가이드 3단계
+
+${stepCardsHtml}
+
+---
+
+## 3. 성공적인 루틴을 위한 뇌과학적 한마디
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
+  <span class="text-xl">💡</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">${item.cautionTitle.ko}</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      ${item.cautionDesc.ko}
+    </p>
+  </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  ${faqAccordionHtml}
+</div>
+`;
+
+    fs.writeFileSync(koPath, koContent, 'utf-8');
+    console.log(`[KO 마크다운 업데이트] ${item.slug}.md`);
+  });
+}
+
+enrich4to10();

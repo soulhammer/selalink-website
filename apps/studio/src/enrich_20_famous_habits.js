@@ -5,284 +5,563 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const blogDir = path.join(__dirname, 'data/blogs/habits');
-const koMarkdownDir = path.join(__dirname, 'content/blog/ko');
-
-const enrichedData = {
-  "zhuge-liang-guqin-strategy": {
-    ko: `동한 말기 삼국시대, 촉한(蜀漢)을 창건한 유비를 도와 천하삼분지계를 완성하고 위·촉·오의 치열한 대립 속에서 명상상(名宰相)으로 역사에 이름을 새긴 세기의 지략가, 제갈량(諸葛亮). 적벽대전과 남정, 그리고 승패가 교차하는 숱한 군사 작전 속에서 수십만 군사의 생사와 국가의 존망을 어깨에 짊어져야 했던 그는 극심한 정서적 압박과 심리적 중압감을 매일 견뎌내야 했습니다. 🪕
-
-제갈량은 매일 새벽 맑은 공기가 서린 처마 끝에서 5음계로 이루어진 전통 현악기 구친(古琴)을 직접 연주하는 정적 루틴을 지켜냈습니다. 맑은 기운 속에서 거문고 줄을 튕기며 마음속의 군사적 집착과 노여움을 씻어내고, 밤이 되면 은하수가 흐르는 하늘 아래 서서 별자리와 기상의 변화를 관측하며 거시적인 판세를 가다듬었습니다. 그가 남긴 친필 지침 '계자서(戒子書)'의 핵심인 "마음이 담박하지 않으면 뜻을 밝힐 수 없고, 침착하여 조용하지 않으면 먼 이상에 이를 수 없다(非淡泊無以明志, 非寧靜無以致遠)"는 철학은 바로 이 새벽 연주 루틴에서 비롯되었습니다.
-
-오늘 BuildSelf에서는 세기의 전략가 제갈량이 평생 실천했던 새벽 현악 연주와 시야 확장 루틴에 담긴 알파파 뇌파 유도 및 의사결정 클리어링의 인지과학적 과학을 소개합니다.`,
-    en: `During the chaotic Three Kingdoms period of ancient China, Zhuge Liang guided Liu Bei to found Shu Han, masterminding legendary strategies that reshaped East Asian history. Burdened with managing the life and death of hundreds of thousands of soldiers and the survival of a state amidst fierce geopolitical rivalry, he faced daily unimaginable psychological pressure. 🪕
-
-Every morning at dawn, Zhuge Liang sat under his quiet pavilion, playing the traditional five-tone zither, the Guqin. As the delicate acoustic vibrations cleared his mind of military tension and anger, he transformed stress into serene clarity. At night, he stood beneath the starry sky observing constellations to read macro weather and strategic trends. His famous motto in *Jiazi Shu*—"Without tranquility, one cannot clarify one's ambition; without quietude, one cannot reach far"—stemmed directly from this morning Guqin ritual.
-
-Today, BuildSelf explores the cognitive science behind Zhuge Liang's dawn Guqin playing and night observation routine, revealing how acoustic relaxation and visual expansion refresh decision-making clarity.`,
-    ja: `三国時代の熾烈な対立の中で、劉備を助けて蜀漢を建国し、後世まで語り継がれる天才軍師・政治家として歴史に名を刻んだ諸葛亮（孔明）。赤壁の戦いから数々の軍事作戦において数十万の兵の生死と国家の存亡を背負っていた彼は、毎日絶大な精神的プレッシャーを耐え抜いていました。 🪕
-
-諸葛亮は毎朝の清らかな空気の中、伝統的な五音階の弦楽器「古琴（グーチン）」を静かに演奏する静寂ルーティンを守り抜きました。琴の響きに耳を澄ませて胸の中の執着や焦りを洗い流し、夜には満天の星空の下に立って気象と星座の変化を観察し、大局的な判断力を養いました。彼が遺した『戒子書』の「淡泊にあらざれば以て志を明らかにすること無く、寧静にあらざれば以て遠きに至ること無し」という名言は、まさにこの朝の演奏習慣から生まれたものです。
-
-今日のBuildSelfでは、諸葛亮が一生実践した朝の古琴演奏と夜の視界拡張ルーティンに隠されたアルファ波誘導と意思決定クリアリングの認知科学的メカニズムを紹介します。`,
-    zh: `三国时代，诸葛亮辅佐刘备缔造蜀汉，以出神入化的韬略奠定三分天下的格局。在赤壁之战与诸多生死攸关的军事对决中，他肩负着几十万大军的存亡与国家命运，每天承受着常人难以想象的心理巨压。 🪕
-
-诸葛亮坚持每天清晨在袅袅晨雾中弹奏古琴。在清雅的五音律动中，他涤荡心中的浮躁与焦虑，令大脑恢复极致的宁静。入夜后，他静立于繁星之下，仰观天象气候的变化，在宏观视野中理清战略大局。他在《诫子书》中所著的名言“非淡泊无以明志，非宁静无以致远”，正是源自这一晨间弹琴与夜观星象的修身习惯。
-
-今天 BuildSelf 将为您揭示诸葛亮晨间弹琴与夜观星象习惯背后的认知科学，带您领略声学放松与视野拓展如何帮助大脑清空焦虑、做出睿智决断。`,
-    es: `Durante el caótico período de los Tres Reinos en la antigua China, Zhuge Liang guió a Liu Bei a fundar Shu Han, ideando estrategias legendarias. Soportando la responsabilidad sobre la vida de miles de soldados y la supervivencia de un imperio, enfrentaba a diario una presión psicológica inimaginable. 🪕
-
-Cada mañana al amanecer, Zhuge Liang se sentaba en su pabellón a tocar el Guqin, un instrumento tradicional de cinco tonos. Las vibraciones acústicas limpian su mente del estrés militar y la tensión. De noche, contemplaba las estrellas para analizar las tendencias meteorológicas y estratégicas. Su famosa máxima en el *Jiazi Shu*—"Sin tranquilidad no hay ambición clara; sin calma no se llega lejos"—nació de este ritual matutino.
-
-Hoy en BuildSelf, exploramos la ciencia cognitiva tras la rutina de Guqin y observación nocturna de Zhuge Liang, revelando cómo la relajación acústica y la expansión visual renuevan la claridad en la toma de decisiones.`,
-    fr: `Pendant la période des Trois Royaumes, Zhuge Liang guida Liu Bei pour fonder le royaume de Shu. Portant le poids de la vie de centaines de milliers de soldats et la survie d'un État, il faisait face chaque jour à une pression psychologique colossale. 🪕
-
-Chaque matin à l'aube, Zhuge Liang jouait du Guqin, une cithare traditionnelle à cinq tons. Les vibrations acoustiques libéraient son esprit des tensions militaires. La nuit, il observait les étoiles pour lire les tendances stratégiques. Sa célèbre citation du *Jiazi Shu*—"Sans sérénité, on ne peut clarifier son ambition"—est née de ce rituel.
-
-Aujourd'hui, BuildSelf vous présente la science cognitive derrière la routine du Guqin et d'observation de Zhuge Liang, montrant comment la relaxation acoustique clarifie la prise de décision.`,
-    de: `In der Ära der Drei Reiche führte Zhuge Liang Liu Bei zur Gründung von Shu Han und erdachte Strategien von historischem Ausmaß. Angesichts der Verantwortung für Hunderttausende Soldaten stand er täglich unter enormem Druck. 🪕
-
-Jeden Morgen spielte Zhuge Liang auf der Guqin, einer traditionellen Zither. Die sanften Schwingungen befreiten seinen Geist von Stress. Nachts beobachtete er die Sterne, um meteorologische Trends zu erkennen. Sein berühmtes Zitat im *Jiazi Shu*—"Ohne Seelenruhe keine klare Ambition"—entstand aus diesem Morgenritual.
-
-Heute präsentiert BuildSelf die kognitive Wissenschaft hinter Zhuge Liangs Guqin-Routine und zeigt, wie akustische Entspannung die Entscheidungsfindung schärft.`,
-    pt: `Durante o período dos Três Reinos, Zhuge Liang liderou grandes estratégias militares e políticas. Carregando o peso de milhares de vidas e o destino de um reino, ele enfrentava diariamente uma pressão enorme. 🪕
-
-Todas as manhãs ao amanhecer, Zhuge Liang tocava Guqin, uma cítara tradicional. As vibrações acústicas limpavam sua mente do estresse. À noite, observava o céu estrelado para ler tendências estratégicas. Sua célebre frase—"Sem tranquilidade, não há ambição clara"—nasceu desse ritual.
-
-Hoje no BuildSelf, exploramos a ciência cognitiva por trás da rotina de Guqin e observação de Zhuge Liang, mostrando como a relaxação acústica renova a clareza decisória.`,
-    id: `Pada era Tiga Kerajaan di Tiongkok kuno, Zhuge Liang memimpin strategi legendaris yang mengubah sejarah. Menanggung beban hidup ratusan ribu prajurit, ia menghadapi tekanan psikologis yang sangat besar setiap hari. 🪕
-
-Setiap pagi saat fajar, Zhuge Liang memainkan Guqin, kecapi tradisional lima nada. Getaran akustiknya membersihkan pikirannya dari ketegangan militer. Pada malam hari, ia mengamati bintang untuk membaca tren strategis.
-
-Hari ini BuildSelf mengungkap sains kognitif di balik rutinitas Guqin Zhuge Liang, menunjukkan bagaimana relaksasi akustik memperbarui kejelasan pengambilan keputusan.`
-  },
-  "zola-morning-writing-block": {
-    ko: `19세기 프랑스 문학의 정점이자 리얼리즘·자연주의 문학을 개척하여 <나나>, <목로주점>, 그리고 드레퓌스 사건의 불의에 맞선 역사적 선언문 <나는 고발한다(J'Accuse...!)>를 남긴 대문호, 에밀 졸라(Émile Zola). 평생 수십 권의 대작을 발표하며 거대한 문학적 업적과 정교한 사회비판 논리를 구축해 낸 그의 폭발적인 창작열은 어디서 비롯되었을까요? ✒️
-
-에밀 졸라는 자신의 서재 책상 앞에 "하루라도 글을 쓰지 않으면 안 된다(Nulla dies sine linea)"라는 고대 로마의 격언을 커다랗게 새겨두고 매일 아침 엄격한 3시간 몰입 루틴을 실천했습니다. 아침 9시가 되면 그는 어떠한 손님의 방문이나 편지 확인, 외부 소음도 완벽히 차단된 채 오직 펜과 원고지 앞에만 앉았습니다. 영감이 떠오르지 않는 날조차 책상을 떠나지 않고 정해진 3시간 동안 온전히 뇌를 글쓰기 모드로 유지하는 이 결연한 시공간 격리가 그를 세기의 작가로 만들었습니다.
-
-오늘 BuildSelf에서는 에밀 졸라가 평생 고수한 아침 딥 워크 타임블록 루틴의 과학적 작동 원리와 전전두엽의 자아 고갈(Ego Depletion)을 제로로 만드는 현대적인 3단계 실천법을 알아봅니다.`,
-    en: `A titan of 19th-century French literature and pioneer of Naturalism, Émile Zola authored masterpieces like *Germinal*, *Nana*, and the historic anti-injustice manifesto *J'Accuse...!*. Publishing dozens of voluminous novels while leading social reforms, how did he maintain such unstoppable literary momentum? ✒️
-
-Inscribed prominently above his desk was the ancient Roman motto *Nulla dies sine linea* ("Not a day without a line"). Every morning at 9 AM, Zola blocked out exactly three uninterrupted hours. No visitors, no mail checks, and no external noise were permitted. Even when inspiration faltered, he remained at his desk, training his brain to activate deep focus on command. This rigorous spatial and temporal isolation fueled his prolific career.
-
-Today, BuildSelf examines the neuroscience of Émile Zola's morning time-blocking routine, showing how environment isolation eliminates decision fatigue and triggers instant hyper-focus.`,
-    ja: `19世紀フランス文学の巨匠であり自然主義文学を開拓し、『ナナ』『居酒屋』、そしてドレフュス事件に立ち向かった歴史的宣言『私は告発する（J'Accuse...!）』を遺した大文豪、エミール・ゾラ（Émile Zola）。生涯で数多くの大作を発表し、巨悪な社会批判の論理を構築した彼の圧倒的な執筆エネルギーはどこから生まれたのでしょうか？ ✒️
-
-ゾラは書斎のデスクの前に「一行も書かない日があってはならない（Nulla dies sine linea）」という古代ローマの格言を大きく刻み、毎朝厳格な3時間没頭ルーティンを実践しました。朝9時になると、来客の訪問や手紙の確認、外部の騒音を完全に遮断し、万年筆と原稿用紙の前だけに座りました。インスピレーションが湧かない日でさえデスクを離れず、定められた3時間を完全に執筆モードに維持するこの決意の空間隔離が彼を世紀の作家に育て上げました。
-
-今日のBuildSelfでは、エミール・ゾラが一生貫いた朝のディープワーク・タイムブロックの科学的メカニズムと前頭前野の意思決定疲れをゼロにする実践法を紹介します。`,
-    zh: `19世纪法国自然主义文学巨匠埃米尔·左拉（Émile Zola），不仅创作了《萌芽》、《娜娜》等脍炙人口的名著，更在德雷福斯事件中发表了震惊世界的公开信《我控诉...！》（J'Accuse...!）。一生笔耕不辍、出版数十部巨著的他，究竟如何保持如此惊人的创作爆发力？ ✒️
-
-左拉在书桌前赫然刻下古罗马名言“不可一日无一行”（Nulla dies sine linea）。每天早晨9点，他都会进行长达3小时的无干扰专注写作。在此期间，谢绝一切访客、信件与外界杂音。即使灵感匮乏，他也决不离开书桌，强健大脑对特定时段写作模式的反射。这种极具毅力的时空隔离成为了他爆发文思的核心引擎。
-
-今天 BuildSelf 将为您剖析埃米尔·左拉晨间时间块专注习惯背后的神经科学，带您了解环境隔离如何消除决策疲劳、激发深度专注。`,
-    es: `Un titán de la literatura francesa del siglo XIX, Émile Zola escribió obras maestras como *Germinal* y el histórico manifiesto *J'Accuse...!*. Publicando docenas de novelas mientras lideraba reformas sociales, ¿cómo mantenía un impulso literario tan imparable? ✒️
-
-Sobre su escritorio estaba inscrita la máxima romana *Nulla dies sine linea* ("Ni un día sin una línea"). Cada mañana a las 9 AM, Zola bloqueaba exactamente tres horas ininterrumpidas. Sin visitas ni distracciones, entrenó a su cerebro para activar el enfoque profundo en todo momento.
-
-Hoy en BuildSelf, examinamos la neurociencia de la rutina de bloqueo de tiempo de Émile Zola, mostrando cómo el aislamiento ambiental elimina la fatiga de decisión e impulsa la concentración.`,
-    fr: `Géant de la littérature française du XIXe siècle, Émile Zola a écrit des chefs-d'œuvre comme *Germinal* et le manifeste *J'Accuse...!*. Comment maintenait-il un tel rythme d'écriture ? ✒️
-
-Au-dessus de son bureau figurait la devise *Nulla dies sine linea* ("Pas un jour sans une ligne"). Chaque matin à 9h, Zola bloquait 3 heures ininterrompues. Sans aucune distraction, il entraînait son cerveau à un niveau de concentration maximal.
-
-Aujourd'hui, BuildSelf examine la neurosciences derrière la routine de blocage de temps d'Émile Zola, montrant comment l'isolement environnemental élimine la fatigue décisionnelle.`,
-    de: `Ein Titan der französischen Literatur des 19. Jahrhunderts, Émile Zola, verfasste Meisterwerke wie *Germinal* und das Manifest *J'Accuse...!*. Wie hielt er ein so unaufhaltsames Schreibtempo aufrecht? ✒️
-
-Über seinem Schreibtisch stand das römische Motto *Nulla dies sine linea* ("Kein Tag ohne eine Zeile"). Jeden Morgen um 9 Uhr blockierte Zola genau 3 ununterbrochene Stunden. Ohne Ablenkungen trainierte er seinen Geist auf tiefen Fokus.
-
-Heute untersucht BuildSelf die Neurowissenschaft hinter Émile Zolas Time-Blocking-Routine und zeigt, wie Umgebungsisolation kognitive Erschöpfung verhindert.`,
-    pt: `Um gigante da literatura francesa do século XIX, Émile Zola escreveu obras-primas como *Germinal* e o manifesto *J'Accuse...!*. Como ele mantinha um ritmo de escrita tão imparável? ✒️
-
-Acima de sua mesa estava gravada a máxima romana *Nulla dies sine linea* ("Nenhum dia sem uma linha"). Todas as manhãs às 9h, Zola bloqueava 3 horas ininterruptas. Sem distrações, ele treinava seu cérebro para foco profundo.
-
-Hoje no BuildSelf, examinamos a neurociência por trás da rotina de bloqueio de tempo de Émile Zola, mostrando como o isolamento ambiental elimina a fadiga de decisão.`,
-    id: `Raksasa sastra Prancis abad ke-19, Émile Zola menulis karya agung seperti *Germinal* dan manifesto *J'Accuse...!*. Bagaimana ia mempertahankan momentum menulis yang begitu luar biasa? ✒️
-
-Di atas mejanya terukir motto *Nulla dies sine linea* ("Tidak ada hari tanpa sebaris kata"). Setiap pagi jam 9, Zola memblokir 3 jam tanpa gangguan untuk fokus menulis.
-
-Hari ini BuildSelf memeriksa sains saraf di balik rutinitas time-blocking Émile Zola, menunjukkan bagaimana isolasi lingkungan menghilangkan kelelahan keputusan.`
-  },
-  "rosalind-franklin-diffraction-focus": {
-    ko: `20세기 생명과학 역사상 가장 위대한 발견으로 손꼽히는 DNA 이중선구조 해독의 결정적 열쇠인 '51번 사진(Photo 51)'을 촬영하고 탄소 및 바이러스 결정학의 새 지평을 연 영국의 여성 물리화학자, 로잘린드 프랭클린(Rosalind Franklin). 수많은 편견과 척박한 연구 환경 속에서도 그녀가 도출해낸 실험 데이터들은 단 0.01%의 오차도 허용하지 않는 완벽함 그 자체였습니다. 🧬
-
-킹스 컬리지 런던의 어두운 지하 실험실에서 로잘린드 프랭클린은 X선 회절 카메라의 각도를 0.1도 단위로 정밀 조율하며 수백 시간 동안 묵묵히 엑스선 사진을 촬영했습니다. 그녀는 현상된 필름 수치와 실제 기하학적 계산을 마이크로 단위로 직접 손으로 짚어가며 꼼꼼히 1:1 대조하고 검수했습니다. 감정이나 섣부른 추측에 의존하지 않고, 오직 엄밀한 데이터 검증만을 신뢰했던 그녀의 정량 검수 습관이 인류의 생명 비밀을 풀어내는 금빛 입자를 발견하게 만들었습니다.
-
-오늘 BuildSelf에서는 로잘린드 프랭클린이 실천했던 0.1도 정밀 검수 및 데이터 대조 루틴에 담긴 두정엽 공간 인지 회로 강화와 업무 품질 100% 보장 가이드를 소개합니다.`,
-    en: `The brilliant British physical chemist whose X-ray diffraction image, "Photo 51," provided the critical key to unlocking the DNA double helix structure, Rosalind Franklin transformed molecular biology and virus crystallography. Working under challenging academic environments, her scientific data was revered for its absolute 0.01% zero-error precision. 🧬
-
-In the dimly lit basement laboratories of King's College London, Franklin spent hundreds of patient hours adjusting X-ray cameras by precise 0.1-degree increments. Rather than relying on guesswork or theoretical leaps, she painstakingly cross-checked diffraction pattern coordinates line-by-line using micro-rulers and manual calculations. This rigorous quantitative verification routine prevented premature cognitive bias and delivered unbreakable scientific truth.
-
-Today, BuildSelf unveils the neuroscience behind Rosalind Franklin's precision cross-checking routine, showing how parietal lobe activation and deliberate verification guarantee error-free quality in modern work.`,
-    ja: `20世紀の生命科学史上最も偉大な発見とされるDNA二重らせん構造解明の決定的な鍵「写真51号（Photo 51）」を撮影し、ウイルス結晶学の扉を開いた英国の女性物理化学者、ロザリンド・フランクリン（Rosalind Franklin）。過酷な研究環境の中でも彼女が導き出した実験データは、わずか0.01％の誤差も許さない完璧そのものでした。 🧬
-
-キングス・カレッジ・ロンドンの薄暗い地下研究室で、フランクリンはX線回折カメラの角度を0.1度単位で精密に調整し、数百時間にわたり黙々と写真を撮影しました。現像されたフィルムの数値と実際の計算をマイクロ単位で手で直接追いながら、1:1で細かく照合・検証しました。推測に頼らず厳密なデータ検証のみを信頼した彼女の定量的照合習慣が、生命の秘密を解き明かす黄金の粒子を発見させました。
-
-今日のBuildSelfでは、ロザリンド・フランクリンが実践した0.1度精密検証ルーティンに潜む頭頂葉空間認知回路の強化と業務品質100％保障ガイドを紹介します。`,
-    zh: `作为20世纪生命科学史上最伟大的女性物理化学家，罗莎琳德·富兰克林（Rosalind Franklin）拍摄的“51号照片”（Photo 51）为解开DNA双螺旋结构提供了至关重要的决定性证据。在当时充满偏见的学术环境中，她出具的每一个实验数据都以0.01%误差以内的绝顶精确度著称。 🧬
-
-在伦敦国王学院昏暗的地下实验室里，富兰克林细致地将X射线衍射相机的角度调整至0.1度。她花费数百个小时沉静拍摄，并用微型直尺与手工计算对衍射图样的数据点进行逐字逐行的1:1精确比对。这种拒绝凭空推测、只用数据说话的极致核对习惯，最终擦亮了揭示人类生命奥秘的光芒。
-
-今天 BuildSelf 将为您揭秘罗莎琳德·富兰克林0.1度精准核对习惯背后的顶叶空间认知机制，带您领略严谨数据对比如何帮助现代职场人实现零失误的高质量交付。`,
-    es: `La brillante fisicoquímica británica cuya "Foto 51" proporcionó la clave para desentrañar la estructura del ADN, Rosalind Franklin transformó la biología molecular. Sus datos experimentales eran admirados por su precisión absoluta del 0.01%. 🧬
-
-En los laboratorios del King's College de Londres, Franklin pasaba cientos de horas ajustando cámaras de rayos X en incrementos de 0.1 grados. En lugar de especular, verificaba minuciosamente las coordenadas de difracción a mano. Esta rutina de verificación cuantitativa previno sesgos cognitivos y aseguró el éxito.
-
-Hoy en BuildSelf, revelamos la neurociencia tras la rutina de verificación de precisión de Rosalind Franklin y cómo garantiza una calidad sin errores.`,
-    fr: `La brillante physico-chimiste britannique dont la "Photo 51" a fourni la clé pour déchiffrer la structure en double hélice de l'ADN, Rosalind Franklin a transformé la biologie moléculaire. Ses données expérimentales étaient célébrées pour leur précision absolue. 🧬
-
-Dans les laboratoires du King's College de Londres, Franklin passait des centaines d'heures à ajuster les caméras à rayons X à 0,1 degré près. Elle vérifiait minutieusement chaque coordonnée à la main, garantissant une rigueur scientifique sans faille.
-
-Aujourd'hui, BuildSelf vous dévoile la neurosciences derrière la routine de vérification de précision de Rosalind Franklin et la prévention des erreurs.`,
-    de: `Die britische Physiko-Chemikerin, deren "Foto 51" den Schlüssel zur Entschlüsselung der DNA-Doppelhelix lieferte, Rosalind Franklin, prägte die Molekularbiologie. Ihre Daten waren berühmt für ihre 0,01%-ige Präzision. 🧬
-
-In den Laboratorien des King's College London verbrachte Franklin Hunderte von Stunden damit, Röntgenkameras um 0,1 Grad zu justieren. Sie überprüfte jedes Beugungsmuster akribisch von Hand und verhinderte so kognitive Fehler.
-
-Heute enthüllt BuildSelf die Neurowissenschaft hinter Rosalind Franklins Präzisionsprüf-Routine und die Garantie für fehlerfreie Arbeit.`,
-    pt: `A brilhante físico-química britânica cuja "Foto 51" forneceu a chave para desvendar a estrutura do DNA, Rosalind Franklin transformou a biologia molecular. Seus dados experimentais eram admirados por sua precisão absoluta. 🧬
-
-Nos laboratórios do King's College de Londres, Franklin passava centenas de horas ajustando câmeras de raios X em incrementos de 0,1 grau. Ela verificava minuciosamente cada coordenada à mão.
-
-Hoje no BuildSelf, revelamos a ciência cognitiva por trás da rotina de verificação de precisão de Rosalind Franklin e o segredo do trabalho sem erros.`,
-    id: `Fisikawan kimia Inggris yang mengambil "Foto 51" sebagai kunci pembuka struktur heliks ganda DNA, Rosalind Franklin mengubah biologi molekuler. Data eksperimennya terkenal akan presisi 0,01% tanpa celah. 🧬
-
-Di laboratorium King's College London, Franklin menghabiskan ratusan jam menyesuaikan kamera sinar-X hingga ketelitian 0,1 derajat. Ia memverifikasi koordinat difraksi secara manual baris demi baris.
-
-Hari ini BuildSelf mengungkap sains saraf di balik rutinitas verifikasi presisi Rosalind Franklin dan cara menjamin kualitas bebas kesalahan.`
-  },
-  "bismarck-morning-ride-priority": {
-    ko: `19세기 분열되어 있던 독일 제국을 통일하고 철혈 외교(Iron and Blood)를 통해 복잡한 유럽 대륙의 동맹 판도를 손바닥 다루듯 지배했던 강력한 재상, 오토 폰 비스마르크(Otto von Bismarck). 수십 개 국가의 외교 문서와 매일 쏟아지는 수백 건의 격문 속에서 그는 어떻게 마비에 빠지지 않고 냉철하고 정교한 국정 의사결정을 내릴 수 있었을까요? 🐎
-
-비스마르크는 매일 아침 서재에 앉기 전, 안개가 자욱한 숲길로 나아가 1시간 동안 강렬한 보폭으로 말을 타는 승마 루틴을 결코 거르지 않았습니다. 신체 전신의 혈류를 끌어올리고 심폐 기능을 각성시킨 직후 서재 책상에 앉은 그는, 수많은 의제 중 파급력이 가장 큰 '단 3가지 핵심 우선순위'만을 빨간 깃펜으로 정리하여 선택하고 집중했습니다. 복잡함 속에서 본질만을 추출해낸 이 우선순위 선택 집착이 독일 제국의 기틀을 다진 동력이었습니다.
-
-오늘 BuildSelf에서는 비스마르크의 신체 유산소 각성 및 TOP 3 선택 집중 루틴의 과학적 메커니즘과 현대인을 위한 전전두엽 포도당 예산 보호 실천법을 알아봅니다.`,
-    en: `The Iron Chancellor who unified Germany in the 19th century and orchestrated complex European alliances through his legendary Realpolitik, Otto von Bismarck reshaped world history. Navigating hundreds of urgent cables and conflicting state pressures daily, how did he maintain razor-sharp decision clarity without experiencing mental paralysis? 🐎
-
-Every morning before entering his study, Bismarck went out into the misty woods for an energetic one-hour horseback ride. This vigorous cardiovascular exercise boosted cerebral blood flow and oxygenation. Sitting down at his desk immediately after, he ignored trivial noise and used a red quill to write down only the TOP 3 most decisive priorities for the state. This ruthless focus on essence enabled him to govern with unmatched strategic authority.
-
-Today, BuildSelf reveals the cognitive science behind Bismarck's morning horseback riding and TOP 3 priority routine, showing how physical activation and priority filtering optimize prefrontal glucose reserves.`,
-    ja: `19世紀にドイツ帝国を統一し、「鉄血演説」と緻密なリアルポリティクス（現実政治）を通じて欧州の外交板図を支配した宰相、オットー・フォン・ビスマルク（Otto von Bismarck）。毎日のように押し寄せる数十の外交電報と錯綜する国家の利害関係の中で、彼はどのように判断麻痺に陥らず冷徹な決断を下し続けたのでしょうか？ 🐎
-
-ビスマルクは毎朝書斎に座る前に、霧の漂う森へと出かけ、1時間激しいペースで馬を走らせる乗馬ルーティンを絶やしませんでした。脳への血流と酸素供給を最大化させた直後にデスクに向かった彼は、雑多な報告を排除し、最も波及効果の大きい「わずか3つの最優先課題」だけを赤ペンでノートに書き留めて集中しました。この本質抽出への執着が帝国の統一を支えた原動力でした。
-
-今日のBuildSelfでは、ビスマルクの有酸素運動による覚醒とTOP 3優先順位選別ルーティンに隠された前頭前野のエネルギー保護のメカニズムを紹介します。`,
-    zh: `在19世纪统一德国、并凭借现实主义“铁血外交”主导复杂欧洲局势的“铁血宰相”奥托·冯·俾斯麦（Otto von Bismarck）。面对每天如雪片般飞来的外交电报与纷繁复杂的国家事务，他是如何避免决策麻痹、始终保持冷静果断的？ 🐎
-
-每天早晨在进入书桌前，俾斯麦都会前往晨雾缭绕的森林，骑马疾驰1小时。这一强烈的有氧运动大幅提升了大容量脑血流量与供氧。运动结束后坐回书桌，他会摒弃一切杂音，用红羽毛笔仅列出最具决定力的“3项核心优先级”进行全力突破。这种在极度复杂中提炼本质的专注力，成为了建构德国基业的核心支柱。
-
-今天 BuildSelf 将为您揭秘俾斯麦晨间骑马与 TOP 3 优先级习惯背后的认知科学，带您了解身体激活与优先级过滤如何保护前额叶皮层的葡萄糖预算。`,
-    es: `El Canciller de Hierro que unificó Alemania en el siglo XIX e ideó complejas alianzas diplomáticas, Otto von Bismarck cambió la historia mundial. Manejando cientos de cables urgentes a diario, ¿cómo mantenía una claridad de decisión tan afilada sin fatigarse? 🐎
-
-Cada mañana antes de entrar a su estudio, Bismarck realizaba un vigoroso paseo a caballo de una hora. Este ejercicio cardiovascular impulsaba el flujo sanguíneo cerebral. Al sentarse en su escritorio inmediatamente después, escribía solo las TOP 3 prioridades decisivas para el estado.
-
-Hoy en BuildSelf, revelamos la ciencia cognitiva tras la rutina de equitación y prioridades TOP 3 de Bismarck para optimizar las reservas de glucosa.`,
-    fr: `Le Chancelier de Fer qui unifia l'Allemagne au XIXe siècle et orchestra de complexes alliances, Otto von Bismarck a façonné l'histoire. Gérant des centaines de dépêches urgentes par jour, comment évitait-il la paralysie décisionnelle ? 🐎
-
-Chaque matin avant de travailler, Bismarck faisait une heure d'équitation dynamique en forêt. Cet exercice réactivait la circulation cérébrale. Dès son retour au bureau, il inscrivait uniquement les TOP 3 priorités absolues.
-
-Aujourd'hui, BuildSelf vous dévoile la science cognitive derrière la routine d'équitation et de priorités TOP 3 de Bismarck.`,
-    de: `Der Eiserne Kanzler, der Deutschland im 19. Jahrhundert einigte und Diplomatie auf höchstem Niveau betrieb, Otto von Bismarck, prägte die Weltgeschichte. Wie bewahrte er bei Hunderten täglichen Depeschen stets einen kühlen Kopf? 🐎
-
-Jeden Morgen vor der Arbeit unternahm Bismarck einen einstündigen Ausritt im Wald. Diese kardiovaskuläre Aktivität steigerte die Gehirndurchblutung. Direkt danach schrieb er nur die TOP 3 entscheidenden Prioritäten auf.
-
-Heute enthüllt BuildSelf die kognitive Wissenschaft hinter Bismarcks Ausritt- und TOP 3 Prioritäten-Routine.`,
-    pt: `O Chanceler de Ferro que unificou a Alemanha no século XIX e articulou alianças complexas, Otto von Bismarck moldou a história. Lidando com centenas de telegramas urgentes diariamente, como ele mantinha a clareza mental? 🐎
-
-Todas as manhãs antes de ir para o escritório, Bismarck cavalgava por uma hora na floresta. Esse exercício ativava a circulação cerebral. Ao sentar-se na mesa logo em seguida, ele anotava apenas as TOP 3 prioridades decisivas.
-
-Hoje no BuildSelf, revelamos a ciência cognitiva por trás da rotina de cavalgada e prioridades TOP 3 de Bismarck.`,
-    id: `Cendekiawan Besi yang menyatukan Jerman pada abad ke-19 dan memimpin diplomasi tingkat tinggi, Otto von Bismarck mengubah sejarah dunia. Bagaimana ia menjaga kejelasan keputusan di tengah ratusan telegram harian? 🐎
-
-Setiap pagi sebelum bekerja, Bismarck menunggang kuda selama satu jam di hutan. Olahraga kardiovaskular ini meningkatkan aliran darah ke otak. Segera setelah duduk di mejanya, ia menuliskan hanya TOP 3 prioritas paling krusial.
-
-Hari ini BuildSelf mengungkap sains kognitif di balik rutinitas menunggang kuda dan prioritas TOP 3 Bismarck.`
-  },
-  "adams-morning-walk": {
-    ko: `미국 제6대 대통령이자 조지 워싱턴, 존 애덤스의 뒤를 이어 건국 초기의 외교와 기틀을 다지고 평생 성실함의 대명사로 불린 정치가, 존 퀸시 애덤스(John Quincy Adams). 극심한 정치적 대립과 대통령으로서의 막중한 중압감 속에서도 그가 80세가 넘도록 맑은 기억력과 강인한 인지 능력을 고수한 비결은 무엇이었을까요? 🏊‍♂️
-
-애덤스는 매일 아침 해가 뜨기 전 포토맥강으로 나가 차가운 강물에서 수영을 하거나, 5마일(약 8km) 이상의 거친 숲길을 빠른 보폭으로 걷는 혹독한 신체 루틴을 평생 지켰습니다. 신체 전신의 혈류를 끌어올린 그는 저녁이 되면 조용히 서재에 앉아 오늘 하루 탐독한 책의 정수와 배운 점을 다이어리에 수기로 정성껏 기록했습니다. 신체 활력과 서사적 성찰이 조화를 이룬 이 루틴이 그의 인지 방어막이었습니다.
-
-오늘 BuildSelf에서는 존 퀸시 애덤스의 아침 속보 산책 및 저녁 성찰 수기 루틴에 담긴 뇌 유전성 신경영양인자(BDNF) 방출과 시냅스 강화의 과학을 소개합니다.`,
-    en: `The 6th U.S. President John Quincy Adams maintained extraordinary intellectual stamina and razor-sharp memory past his 80s. Serving as diplomat, president, and congressman over six decades of intense national turbulence, how did he protect his brain against cognitive aging and immense political stress? 🏊‍♂️
-
-Every morning before sunrise, Adams plunged into the freezing Potomac River for a swim or embarked on a vigorous 5-mile power walk through rugged forest trails. Having stimulated his cerebral circulation, he spent quiet evenings writing detailed reflections and book excerpts in his diary by hand. This powerful synergy of physical exertion and evening introspection fortified his cognitive reserve.
-
-Today, BuildSelf explores the cognitive science behind John Quincy Adams' power walk and evening reflection routine, demonstrating how aerobic movement and manual writing stimulate Brain-Derived Neurotrophic Factor (BDNF).`,
-    ja: `米第6代大統領であり、生涯にわたって誠実さの代名詞と称された政治家、ジョン・クインシー・アダムズ（John Quincy Adams）。激しい政治的対立と大統領としての重圧の中で、彼が80歳を過ぎても明晰な記憶力と強靭な認知能力を維持できた秘密は何だったのでしょうか？ 🏊‍♂️
-
-アダムズは毎朝日の出前にポトマック川で泳ぐか、5マイル（約8km）の険しい森の道を速足で歩く厳格な身体ルーティンを終生守り抜きました。全身の血流を高めた後、夜になると静かに書斎でその日読んだ本や学びを日記に手書きで丁寧に記録しました。身体的活力と精神的省察が調和したこのルーティンが彼の防壁でした。
-
-今日のBuildSelfでは、ジョン・クインシー・アダムズの早歩き散歩と夜の省察日記ルーティンに潜む脳由来神経栄養因子（BDNF）放出とシナプス強化の科学を紹介します。`,
-    zh: `作为美国第6任总统，约翰·昆西·亚当斯（John Quincy Adams）在长达六十年的政治生涯中保持着令人惊叹的高能智慧与极佳记忆力，直至80多岁高龄。在动荡的建国初期与高压的外交纷争中，他是如何抵御认知衰老与心理巨压的？ 🏊‍♂️
-
-每天清晨日出前，亚当斯都会跳入波托马克河冷水中游泳，或在坎坷的林间快步走上5英里（约8公里）。在全面提升脑部血流后，每当夜幕降临，他便会静坐于书房，手写记录当天的读书心得与自身反思。这种强力有氧运动与夜间手写反思的协同作用，筑牢了他的认知防御墙。
-
-今天 BuildSelf 将为您揭秘约翰·昆西·亚当斯快步散步与夜间手写反思习惯背后的神经科学，带您了解有氧运动与手写记录如何激发脑源性神经营养因子（BDNF）的分泌。`,
-    es: `El sexto presidente de los Estados Unidos, John Quincy Adams, mantuvo una agudeza mental excepcional hasta pasados los 80 años. Enfrentando tensiones políticas extremas, ¿cómo protegió su salud cerebral? 🏊‍♂️
-
-Cada mañana al amanecer, Adams realizaba una caminata a paso ligero de 5 millas o nadaba en las frías aguas del río Potomac, seguida de un diario de reflexión por la noche. Esta combinación de ejercicio cardiovascular e introspección diaria fue su escudo cognitivo.
-
-Hoy en BuildSelf, exploramos la ciencia cognitiva tras la rutina de caminata y reflexión de John Quincy Adams, y cómo estimula el factor neurotrófico derivado del cerebro (BDNF).`,
-    fr: `Le 6e président américain John Quincy Adams a conservé une agilité mentale exceptionnelle passé 80 ans. Face aux tensions politiques, comment protégeait-il son cerveau ? 🏊‍♂️
-
-Chaque matin avant le lever du soleil, Adams effectuait une marche rapide de 8 km ou nageait dans la rivière Potomac, puis tenait un journal le soir. Cette synergie d'effort physique et d'introspection a fortifié ses capacités.
-
-Aujourd'hui, BuildSelf vous présente la science cognitive derrière la routine de marche et de réflexion de John Quincy Adams.`,
-    de: `Der 6. US-Präsident John Quincy Adams bewahrte bis ins hohe Alter von über 80 Jahren seine geistige Schärfe. Wie schützte er seine kognitiven Fähigkeiten vor Stress? 🏊‍♂️
-
-Jeden Morgen vor Sonnenaufgang unternahm Adams einen 8 km langen strammen Marsch oder schwamm im kalten Fluss Potomac, gefolgt von einer abendlichen Tagebuchreflexion. Diese Kombination stärkte sein Gehirn nachhaltig.
-
-Heute untersucht BuildSelf die kognitive Wissenschaft hinter John Quincy Adams' Marsch- und Tagebuch-Routine.`,
-    pt: `O 6º presidente dos EUA, John Quincy Adams, manteve uma acuidade mental extraordinária até os 80 anos. Como ele protegia seu cérebro do estresse político? 🏊‍♂️
-
-Todas as manhãs antes do nascer do sol, Adams fazia uma caminhada acelerada de 8 km ou nadava nas águas do rio Potomac, escrevendo um diário à noite. Essa sinergia de exercício e reflexão foi seu escudo.
-
-Hoje no BuildSelf, exploramos a ciência cognitiva por trás da rotina de caminhada e reflexão de John Quincy Adams.`,
-    id: `Presiden AS ke-6 John Quincy Adams mempertahankan stamina intelektual dan ingatan tajam hingga usia 80-an. Bagaimana ia melindungi otaknya dari penuaan dini? 🏊‍♂️
-
-Setiap pagi sebelum fajar, Adams melakukan jalan cepat 8 km atau berenang di sungai Potomac, dilanjutkan dengan menulis diari pada malam hari. Sinergi ini memperkuat ketahanan otaknya.
-
-Hari ini BuildSelf mengungkap sains kognitif di balik rutinitas jalan cepat dan refleksi malam John Quincy Adams.`
-  }
-};
-
-// Helper: load JSON, update intro, write JSON back
-let updatedCount = 0;
-
-Object.keys(enrichedData).forEach(slug => {
-  const jsonPath = path.join(blogDir, `${slug}.json`);
-  if (fs.existsSync(jsonPath)) {
-    const raw = JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
-    const itemKey = Object.keys(raw)[0];
-    if (raw[itemKey] && raw[itemKey].intro) {
-      Object.keys(enrichedData[slug]).forEach(lang => {
-        raw[itemKey].intro[lang] = enrichedData[slug][lang];
-      });
-      fs.writeFileSync(jsonPath, JSON.stringify(raw, null, 2), 'utf-8');
-      console.log(`✅ [JSON Updated] ${slug}.json intro enriched`);
-      updatedCount++;
-    }
-  }
-
-  // Update KO Master Markdown
-  const koMdPath = path.join(koMarkdownDir, `${slug}.md`);
-  if (fs.existsSync(koMdPath)) {
-    const content = fs.readFileSync(koMdPath, 'utf-8');
-    const parts = content.split('---');
-    if (parts.length >= 3) {
-      const frontmatter = parts[1];
-      const body = parts.slice(2).join('---');
-      // find the callout div start
-      const calloutIdx = body.indexOf('<div class="my-8 p-6');
-      if (calloutIdx !== -1) {
-        const afterCallout = body.slice(calloutIdx);
-        const newKoIntro = enrichedData[slug].ko;
-        const updatedContent = `---${frontmatter}---\n\n${newKoIntro}\n\n${afterCallout}`;
-        fs.writeFileSync(koMdPath, updatedContent, 'utf-8');
-        console.log(`✅ [KO MD Updated] ${slug}.md intro enriched`);
+const habitsDataDir = path.join(__dirname, 'data/blogs/habits');
+const habitsItemDir = path.join(__dirname, 'data/habits/items');
+const koBlogDir = path.join(__dirname, 'content/blog/ko');
+
+const today = "2026-07-22";
+
+const enrichedHabits = [
+  // 1. ramanujan-dream-notebook
+  {
+    slug: "ramanujan-dream-notebook",
+    title: {
+      ko: "꿈속에서 수학 정리를 본 천재? 스리니바사 라마누잔의 기상 직후 메모 루틴",
+      en: "The Genius Who Saw Math Theorems in Dreams? Srinivasa Ramanujan's Morning Note Routine",
+      ja: "夢の中で数学の定理を見た天才？スリニヴァーサ・ラマヌジャンのお目覚めメモルーティン",
+      zh: "在梦中看见数学定理的天才？斯里尼瓦瑟·拉马努金的醒后笔记惯例",
+      es: "¿El genio que vio teoremas matemáticos en sueños? La rutina de notas matutinas de Srinivasa Ramanujan",
+      fr: "Le génie qui voyait des théorèmes en rêve ? La routine de notes matinales de Srinivasa Ramanujan",
+      de: "Das Genie, das mathematische Theoreme im Traum sah? Srinivasa Ramanujans Morgennotiz-Routine",
+      pt: "O gênio que via teoremas matemáticos em sonhos? A rotina de anotações matinais de Srinivasa Ramanujan",
+      id: "Sang Genius yang Melihat Teorema Matematika dalam Mimpi? Rutinitas Catatan Pagi Srinivasa Ramanujan"
+    },
+    description: {
+      ko: "정수론과 무한급수의 천재 스리니바사 라마누잔. 수면 중 렘(REM) 상태에서 얻은 직관적 영감을 아침에 눈뜨자마자 3분 메모로 옮겼던 그의 뇌 리셋 법과 현대인을 위한 3단계 실천 루틴을 깊이 있게 알아봅니다.",
+      en: "Srinivasa Ramanujan, the mathematical genius of number theory. Discover his morning notebook routine for capturing REM sleep inspirations and a 3-step guide for modern creative thinkers.",
+      ja: "数論と無限級数の天才スリニヴァーサ・ラマヌジャン。睡眠中のひらめきを目覚め直後に書き留めた彼の脳活用法と3ステップ実践ガイドを紹介します。",
+      zh: "数论与无穷级数天才拉马努金。介绍他在清晨记录梦中灵感的大脑重置法以及现代人三步笔记指南。",
+      es: "Srinivasa Ramanujan, el genio de la teoría de números. Descubra su rutina de notas al despertar y una guía práctica de 3 pasos para el pensamiento creativo.",
+      fr: "Srinivasa Ramanujan, le génie de la théorie des nombres. Découvrez sa routine de notes au réveil et un guide pratique en 3 étapes.",
+      de: "Srinivasa Ramanujan, das Genie der Zahlentheorie. Entdecken Sie seine Aufwach-Notizroutine und einen 3-Schritte-Leitfaden.",
+      pt: "Srinivasa Ramanujan, o gênio da teoria dos números. Descubra sua rotina de anotações ao acordar e um guia prático de 3 passos.",
+      id: "Srinivasa Ramanujan, genius teori angka. Temukan rutinitas catatan bangun tidurnya dan panduan praktis 3 langkah."
+    },
+    authority: {
+      ko: "Robert Kanigel 전기 'The Man Who Knew Infinity' 및 G. H. Hardy 회고록 'Ramanujan: Essays on His Life and Work'",
+      en: "Robert Kanigel's Biography 'The Man Who Knew Infinity' & G. H. Hardy's Memoirs 'Ramanujan: Essays on His Life and Work'",
+      ja: "ロバート・カニゲル評伝「The Man Who Knew Infinity」およびG. H. ハーディ回想録",
+      zh: "罗伯特·卡尼格尔传记《The Man Who Knew Infinity》与哈代回忆录",
+      es: "Biografía de Robert Kanigel 'The Man Who Knew Infinity' y memorias de G. H. Hardy",
+      fr: "Biographie de Robert Kanigel 'The Man Who Knew Infinity' & mémoires de G. H. Hardy",
+      de: "Robert Kanigels Biografie 'The Man Who Knew Infinity' & G. H. Hardys Memoiren",
+      pt: "Biografia de Robert Kanigel 'The Man Who Knew Infinity' & memórias de G. H. Hardy",
+      id: "Biografi Robert Kanigel 'The Man Who Knew Infinity' & Memori G. H. Hardy"
+    },
+    intro: {
+      ko: "정수론과 무한급수 분야에서 무려 3,900개가 넘는 독창적인 정리와 공식을 발표하여 현대 수학의 패러다임을 통째로 바꾸고 인류의 인지 지평을 넓힌 인도의 전설적인 천재 수학자, 스리니바사 라마누잔. 정식 학술 교육을 받지 않았음에도 불구하고, 세계 최고의 수학자들이 수십 년간 증명하지 못했던 난제들을 풀어낸 그의 기발한 영감은 과연 어디서 탄생했을까요? 📐\n\n라마누잔은 수면 중이나 붉은 융단을 깔아놓은 침상에서 휴식을 취할 때, 힌두 여신 나마기리(Namagiri)가 꿈속에서 무한급수의 복잡한 공식과 수식을 붉은 먹물로 스크린처럼 띄워 보여주는 꿈을 자주 꾸었습니다. 라마누잔에게 수면은 단순히 체력을 회복하는 시간이 아니라, 의식의 제약이 풀려 무한한 기하학적 아이디어가 재조합되는 최고의 창의적 연구실이었습니다. 그는 아침에 눈을 뜨자마자 뇌가 알파파(Alpha Wave) 상태에 머물러 있는 동안, 꿈속에서 본 수식과 직관이 사라지기 전에 협탁의 노트와 슬레이트(돌판)에 붉은 먹물로 거침없이 기록했습니다.\n\n오늘 BuildSelf에서는 라마누잔이 평생 실천했던 '기상 직후 직관 메모' 루틴의 과학적 작동 원리와 현대인들이 복잡한 난제를 해결하기 위해 이를 어떻게 실생활에 적용할 수 있는지 알아봅니다.",
+      en: "Srinivasa Ramanujan, the legendary Indian mathematical genius who published over 3,900 original theorems in number theory and infinite series. Where did his unprecedented intuitive inspiration come from? 📐\n\nRamanujan frequently experienced dreams where the Hindu goddess Namagiri presented complex mathematical formulas written in red ink. For Ramanujan, sleep was a subconscious laboratory where unconstrained geometric ideas merged freely. Upon waking, while his brain remained in an alpha wave state, he immediately wrote down every formula on his bedside slate and notebook before the vivid impressions evaporated.\n\nToday, BuildSelf explores the scientific mechanism behind Ramanujan's 'morning intuition note' routine and how modern creative thinkers can leverage it.",
+      ja: "数論と無限級数の分野で前人未到の3,900以上の公式を生み出したインドの天才数学者スリニヴァーサ・ラマヌジャン。彼のひらめきはどこから生まれたのでしょうか？ 📐\n\nラマヌジャンは睡眠中、ヒンドゥー教の女神ナマギリが公式を見せてくれる夢を頻繁に見ました。目覚めた直後、脳がα波の状態にあるうちに、夢の中の数式を即座に枕元のノートに書き留めました。\n\n今日のBuildSelfでは、ラマヌジャンの「目覚め直後メモ」の科学的原理と実践法を紹介します。",
+      zh: "在数论与无穷级数领域推导出3900多个独创公式的印度天才数学家斯里尼瓦瑟·拉马努金。他那惊人的直觉灵感究竟源自何处？ 📐\n\n拉马努金经常在梦中梦见女神向他展示复杂公式。醒来后在大脑处于α波状态的最初几分钟内，他会立即在床头笔记本上记下这些公式。\n\n今天，BuildSelf 将带您探究拉马努金“醒后直觉笔记”惯例的科学原理及实践指南。",
+      es: "Srinivasa Ramanujan, el genio matemático indio que publicó más de 3,900 teoremas. ¿De dónde provenía su inspiración intuitiva? 📐\n\nRamanujan soñaba con fórmulas complejas presentadas por la diosa Namagiri. Al despertar, mientras su cerebro aún estaba en estado alfa, anotaba inmediatamente las ecuaciones en su libreta de noche.\n\nHoy, BuildSelf explora los principios científicos de la rutina de notas al despertar de Ramanujan y su aplicación moderna.",
+      fr: "Srinivasa Ramanujan, le génie mathématique indien ayant publié plus de 3 900 théorèmes. D'où lui venait son inspiration ? 📐\n\nRamanujan rêvait de formules complexes. Dès le réveil, pendant que son cerveau était en ondes alpha, il notait immédiatement les équations.\n\nAujourd'hui, BuildSelf explore les principes scientifiques de la routine de notes au réveil de Ramanujan.",
+      de: "Srinivasa Ramanujan, das indische mathematische Genie mit über 3.900 Theoremen. Woher stammte seine intuitive Inspiration? 📐\n\nRamanujan träumte oft von Formeln. Gleich nach dem Aufwachen im Alpha-Zustand schrieb er die Gleichungen auf.\n\nHeute untersucht BuildSelf die wissenschaftlichen Prinzipien von Ramanujans Aufwach-Notizroutine.",
+      pt: "Srinivasa Ramanujan, o gênio matemático indiano que publicou mais de 3.900 teoremas. De onde vinha sua inspiração intuitiva? 📐\n\nRamanujan frequentemente sonhava com fórmulas. Ao acordar, em estado alfa, ele anotava imediatamente as equações.\n\nHoje, o BuildSelf explora os princípios científicos da rotina de anotações ao acordar de Ramanujan.",
+      id: "Srinivasa Ramanujan, genius matematika India yang mempublikasikan lebih dari 3.900 teorema. Dari mana datangnya inspirasi intuitifnya? 📐\n\nRamanujan sering bermimpi tentang formula. Saat bangun tidur dalam kondisi gelombang alfa, ia segera mencatat persamaan tersebut.\n\nHari ini, BuildSelf menjelajahi prinsip ilmiah di balik rutinitas catatan pagi Ramanujan."
+    },
+    whyTitle: {
+      ko: "기상 직후 알파파와 기본 모드 네트워크의 결합 메커니즘",
+      en: "Scientific Mechanism: Coupling Alpha Waves and the Default Mode Network Upon Waking",
+      ja: "科学的メカニズム：目覚め直後のα波とデフォルト・モード・ネットワークの結合",
+      zh: "科学原理：醒后α波与默认模式网络的结合",
+      es: "Mecanismo científico: Acoplamiento de Ondas Alfa y la Red por Defecto al Despertar",
+      fr: "Mécanisme scientifique : Couplage des Ondes Alpha et du Réseau par Défaut au Réveil",
+      de: "Wissenschaftlicher Mechanismus: Kopplung von Alpha-Wellen und Default-Mode-Netzwerk beim Aufwachen",
+      pt: "Mecanismo científico: Acoplamento de Ondas Alfa e a Rede de Modo Padrão ao Acordar",
+      id: "Mekanisme Ilmiah: Kombinasi Gelombang Alfa dan Default Mode Network Saat Bangun"
+    },
+    whyDesc: {
+      ko: "우리가 잠에서 깨어난 직후 첫 5~10분 동안 인간의 뇌는 전두엽의 비판적 논리가 활성화되기 전, 의식과 무의식의 경계인 <strong></strong> 및 느린 세타파 상태에 유연하게 머뭅니다. 이 시간 동안 뇌의 <strong></strong>가 밤새 잠재의식 속에서 재조합한 기발한 연상 결합들이 휘발되지 않고 의식의 표면으로 부드럽게 떠오릅니다.\n\n대부분의 현대인들은 눈을 뜨자마자 스마트폰 알림이나 이메일을 확인하여 뇌를 자극적인 <strong></strong> 상태로 강제 전환시킵니다. 하지만 라마누잔처럼 기상 직후 폰을 보지 않고 찰나의 직관을 종이에 기록하면, 논리적 자아가 아이디어를 미리 검열하거나 억제하지 않아 잠재의식이 선사한 무한한 창의적 아이디어를 100% 보존할 수 있습니다.",
+      en: "For 5 to 10 minutes immediately after waking up, before critical prefrontal logic takes over, the brain remains in a fluid <strong></strong> state between consciousness and subconsciousness. During this window, innovative associative connections synthesized overnight by the <strong></strong> float gently into conscious awareness.\n\nWhile most modern individuals immediately check phone notifications, forcing their brains into high-stress <strong></strong>, capturing fleeting intuitions upon waking without digital distraction—like Ramanujan—preserves 100% of subconscious creative insights before logical pre-censorship occurs.",
+      ja: "目覚めた直後の5〜10分間、前頭葉の批判的論理が働く前に、脳は<strong></strong>にあります。この間に<strong></strong>が潜在意識下で再結合したアイデアが浮上します。\n\nスマホを見ずに直感を記録することで、論理的自我による検閲を受けずに創造的アイデアを100%保護できます。",
+      zh: "醒来后的5-10分钟内，在大脑前额叶逻辑全面主导前，处于<strong></strong>。此时由<strong></strong>在潜意识中重组的灵感会浮现出来。\n\n在醒来后立即记录直觉而不看手机，可以避免逻辑自我过早审查，从而百分之百地保留创意。",
+      es: "Durante 5-10 minutos tras despertar, el cerebro permanece en estado de <strong></strong>. Las combinaciones creativas de la <strong></strong> emergen.\n\nAl registrar la intuición al despertar sin mirar el teléfono, preservas las ideas creativas al 100% sin censura previa.",
+      fr: "Pendant 5 à 10 minutes après le réveil, le cerveau reste en <strong></strong>. Les combinaisons du <strong></strong> émergent.\n\nEn notant l'intuition dès le réveil sans regarder son téléphone, on préserve 100% des idées créatives.",
+      de: "5-10 Minuten nach dem Aufwachen befindet sich das Gehirn im <strong></strong>. Kombinationen des <strong></strong> steigen auf.\n\nIndem man Intuitionen sofort aufschreibt, bewahrt man kreative Ideen zu 100%.",
+      pt: "Durante 5 a 10 minutos após acordar, o cérebro permanece em <strong></strong>. As combinações da <strong></strong> emergem.\n\nAo registrar a intuição ao acordar sem olhar para o celular, você preserva as ideias criativas a 100%.",
+      id: "Selama 5-10 menit setelah bangun, otak berada dalam <strong></strong>. Kombinasi dari <strong></strong> muncul.\n\nDengan mencatat intuisi saat bangun tanpa melihat ponsel, Anda mempertahankan ide kreatif 100%."
+    },
+    steps: [
+      {
+        name: {
+          ko: "침상 협탁 전용 수첩과 펜 사전 배치",
+          en: "Bedside Notebook and Pen Setup",
+          ja: "枕元ノートとペンの事前配置",
+          zh: "床头柜专用笔记本与笔的预先放置",
+          es: "Configuración de libreta y bolígrafo en la mesita",
+          fr: "Préparation du carnet et stylo de chevet",
+          de: "Nachttisch-Notizbuch und Stift bereitstellen",
+          pt: "Preparação do bloco e caneta de cabeceira",
+          id: "Menyiapkan Buku Catatan dan Pena di Samping Tempat Tidur"
+        },
+        text: {
+          ko: "잠들기 전 침대 옆 협탁이나 베개 바로 밑에 전용 수첩과 손에 잘 맞는 펜을 미리 꺼내놓아 기상 직후 몸을 크게 움직이지 않고도 손이 닿게 합니다.",
+          en: "Place a dedicated notebook and smooth pen on your bedside table or under your pillow before sleeping so you can reach it instantly upon waking.",
+          ja: "寝る前に枕元のテーブルや枕の下に専用のノートとペンを用意しておきます。",
+          zh: "睡前在床头柜或枕头下放一本专用笔记本和顺手的笔，确保醒来无需大幅度 move 即可触手可及。",
+          es: "Coloque una libreta y un bolígrafo en su mesita de noche antes de dormir para alcanzarlos al instante al despertar.",
+          fr: "Placez un carnet et un stylo sur votre table de chevet avant de vous coucher pour y accéder immédiatement au réveil.",
+          de: "Legen Sie vor dem Schlafengehen ein Notizbuch und einen Stift auf Ihren Nachttisch, um sie sofort greifbar zu haben.",
+          pt: "Coloque um bloco de notas e uma caneta na sua mesa de cabeceira antes de dormir para alcançá-los ao acordar.",
+          id: "Letakkan buku catatan khusus dan pena di meja samping tempat tidur sebelum tidur agar dapat dijangkau seketika."
+        }
+      },
+      {
+        name: {
+          ko: "기상 직후 3분간 무검열 직관 자유 메모",
+          en: "3-Minute Uncensored Intuition Stream Dumping",
+          ja: "目覚め直後3分間の無検閲直感メモ",
+          zh: "醒后3分钟无审查直觉倾泻",
+          es: "Vuelco libre de intuición de 3 minutos al despertar",
+          fr: "Capture libre d'intuition en 3 minutes au réveil",
+          de: "3 Minuten freies Intuitionsschreiben beim Aufwachen",
+          pt: "Anotação livre de intuição de 3 minutos ao acordar",
+          id: "Tulisan Bebas Intuisi 3 Menit Saat Bangun"
+        },
+        text: {
+          ko: "아침에 눈을 뜨자마자 스마트폰을 절대 켜지 말고, 3분간 머릿속에 맴도는 꿈의 잔상, 기발한 단어, 혹은 고민 중인 난제의 힌트를 기호나 그림, 키워드로 자유롭게 쏟아냅니다.",
+          en: "Upon waking, strictly avoid your smartphone and spend 3 minutes writing down lingering dream fragments, keywords, or visual symbols without logical evaluation.",
+          ja: "目覚めてすぐスマホを見ずに、3分間頭に浮かんだイメージやアイデアをメモに吐き出します。",
+          zh: "醒来后切勿看手机，在3分钟内将脑海中的梦境残像、关键词或难题灵感倾倒在纸上。",
+          es: "Al despertar, evite mirar el teléfono y vierta las impresiones, palabras o símbolos en la libreta durante 3 minutos.",
+          fr: "Au réveil, évitez de regarder votre téléphone et notez les impressions et mots-clés émergents pendant 3 minutes.",
+          de: "Vermeiden Sie nach dem Aufwachen das Handy und schreiben Sie 3 Minuten lang flüchtige Gedanken und Symbole auf.",
+          pt: "Ao acordar, evite olhar para o celular e anote as impressões, palavras ou símbolos durante 3 minutos.",
+          id: "Saat bangun, hindari melihat ponsel dan tumpahkan impresi atau kata kunci ke dalam catatan selama 3 menit."
+        }
+      },
+      {
+        name: {
+          ko: "오후 타임의 논리적 검증 및 구조화 정제",
+          en: "Afternoon Logical Verification and Structuring",
+          ja: "午後からの論理的検証と構造化",
+          zh: "下午逻辑验证与结构化精炼",
+          es: "Verificación lógica y estructuración por la tarde",
+          fr: "Vérification logique et structuration l'après-midi",
+          de: "Logische Prüfung und Strukturierung am Nachmittag",
+          pt: "Verificação lógica e estruturação à tarde",
+          id: "Verifikasi Logis dan Strukturisasi di Sore Hari"
+        },
+        text: {
+          ko: "아침에 기록한 날것의 직관 메모를 즉시 현실에 적용하려 하지 말고, 이성적 전두엽 피질이 활성화되는 오후 시간에 다시 펼쳐 현실적 구조와 실행 가능성을 정교하게 정리합니다.",
+          en: "Do not evaluate raw morning notes immediately; revisit them in the afternoon when your rational prefrontal cortex is active to refine execution steps.",
+          ja: "記録したアイデアの現実性や論理的整理は、理性が活発になる午後の時間に行います。",
+          zh: "切勿在早晨指示评估原始笔记，待下午理性大脑活跃时，再重新审视并梳理出可行步聚。",
+          es: "Procese y verifique la validez de las ideas por la tarde, cuando la razón está completamente activa.",
+          fr: "Vérifiez la faisabilité des idées l'après-midi, lorsque le cortex préfrontal est pleinement actif.",
+          de: "Prüfen Sie die Anwendbarkeit der Notizen am Nachmittag bei aktiver Logik und Verstand.",
+          pt: "Processe e verifique a estrutura das ideias à tarde, quando a razão está totalmente ativa.",
+          id: "Proses dan verifikasi struktur logis dari ide yang dicatat pada sore hari saat nalar aktif."
+        }
       }
-    }
-  }
-});
+    ],
+    cautionTitle: {
+      ko: "기상 직후 스마트폰 미디어 노출과 베타파 강제 진입 주의",
+      en: "Caution Against Immediate Smartphone Exposure and Forced High-Beta Spike",
+      ja: "目覚め直後のスマホ刺激とβ波強制移行に対する注意",
+      zh: "切忌醒后立即接触手机导致高β波飙升",
+      es: "Precaución con el teléfono al despertar y la espiga de ondas beta",
+      fr: "Attention aux écrans dès le réveil et à la hausse des ondes bêta",
+      de: "Vorsicht vor dem Handy nach dem Aufwachen und Beta-Wellen-Spikes",
+      pt: "Cuidado com o celular ao acordar e o pico de ondas beta",
+      id: "Waspada Paparan Ponsel Saat Bangun dan Lonjakan Gelombang Beta"
+    },
+    cautionDesc: {
+      ko: "눈을 뜨자마자 메시지 알림, 뉴스, SNS를 확인하면 뇌는 즉시 긴장 상태인 고주파 베타파(Beta Waves) 상태로 유입됩니다. 이 순간 뇌는 타인의 반응에 수동적으로 대응하기 시작하며 잠재의식이 밤새 정제해둔 아이디어와 직관을 순식간에 휘발시킵니다. 기상 후 최소 5~10분간은 디지털 미디어 접속을 완벽히 차단하고 나만의 직관에 집중하세요.",
+      en: "Checking notifications or social media right upon waking forces your brain into high-frequency Beta Waves, switching it to reactive mode and instantly evaporating subtle subconscious intuitions. Protect at least the first 5-10 minutes post-waking as a digital-free intuition zone.",
+      ja: "目覚めてすぐにSNSやニュースを見ると、脳が直ちにβ波状態に移行し、ひらめきが蒸発します。最初の5分間は外部メディアを遮断しましょう。",
+      zh: "醒来立即查看通知或新闻会导致大脑直接进入高β波状态，使灵感瞬间挥发。请在醒后前5-10分钟完全隔离数字媒体。",
+      es: "Mirar notificaciones al despertar fuerza al cerebro a ondas beta altas, evaporando la intuición. Bloquee los medios al menos los primeros 5-10 minutos.",
+      fr: "Consulter ses messages au réveil plonge le cerveau en ondes bêta, évaporant l'intuition. Bloquez les écrans pendant au moins 5 à 10 minutes.",
+      de: "Wer sofort Nachrichten liest, versetzt das Gehirn in Beta-Wellen; Intuitionen verfliegen. Sperren Sie Medien für mindestens 5-10 Minuten.",
+      pt: "Checar notificações ao acordar força o cérebro a ondas beta, evaporando a intuição. Bloqueie as mídias nos primeiros 5-10 minutos.",
+      id: "Memeriksa notifikasi saat bangun memaksa otak ke gelombang beta, menguapkan intuisi. Blokir media setidaknya 5-10 menit pertama."
+    },
+    faqs: [
+      {
+        question: {
+          ko: "꿈이나 아침 영감이 떠오르지 않을 때는 어떻게 해야 하나요?",
+          en: "What if I don't remember any dreams or morning inspirations?",
+          ja: "夢や朝のひらめきが思い出せない場合はどうすればいいですか？",
+          zh: "如果记不住梦境或早上没有灵感怎么办？",
+          es: "¿Qué hacer si no recuerdo sueños ni inspiraciones matutinas?",
+          fr: "Que faire si je ne me souviens d'aucun rêve ou d'aucune inspiration ?",
+          de: "Was tun, wenn ich mich an keine Träume oder Inspirationen erinnere?",
+          pt: "O que fazer se eu não lembrar de sonhos ou inspirações matinais?",
+          id: "Bagaimana jika saya tidak mengingat mimpi atau inspirasi pagi?"
+        },
+        answer: {
+          ko: "억지로 아이디어를 짜낼 필요는 전혀 없습니다. 몽롱한 상태에서 머릿속에 떠오르는 단어나 기분, 또는 오늘 꼭 해결하고 싶은 난제 하나를 적어보는 것만으로도 알파파 회로가 강화되고 잠재의식의 문이 차츰 열리기 시작합니다.",
+          en: "No need to force ideas. Simply writing down any word, feeling, or a single challenge you want to solve today reinforces the alpha wave circuit and opens subconscious access over time.",
+          ja: "無理にアイディアを捻出する必要はありません。単語や今日の課題を1つ書くだけで、α波回路が強化されます。",
+          zh: "无需强求。只需写下一个词汇、情绪或今天想解决的难题，就能强化α波回路并逐渐打开潜意识之门。",
+          es: "No force ideas. Simplemente anote una palabra, sentimiento o desafío para hoy; esto refuerza el circuito alfa.",
+          fr: "Ne forcez rien. Le simple fait de noter un mot, un ressenti ou un défi du jour renforce le circuit des ondes alpha.",
+          de: "Zwingen Sie sich zu nichts. Das Aufschreiben eines Wortes oder Gefühls stärkt bereits den Alpha-Wellen-Kreislauf.",
+          pt: "Não force ideias. Escrever uma palavra, sentimento ou desafio do dia já reforça o circuito de ondas alfa.",
+          id: "Tidak perlu memaksakan ide. Cukup tulis satu kata, perasaan, atau tantangan hari ini untuk memperkuat sirkuit alfa."
+        }
+      },
+      {
+        question: {
+          ko: "스마트폰의 메모 앱이나 음성 녹음을 사용해도 괜찮나요?",
+          en: "Is it okay to use smartphone note apps or voice recordings instead?",
+          ja: "デジタルメモアプリや音声録音を使っても大丈夫ですか？",
+          zh: "可以使用手机笔记应用或语音录音吗？",
+          es: "¿Es adecuado usar aplicaciones de notas digitales o voz?",
+          fr: "Puis-je utiliser une application de notes ou d'enregistrement vocal ?",
+          de: "Kann ich eine Notiz-App oder Sprachaufnahmen verwenden?",
+          pt: "Posso usar aplicativos de notas digitais ou gravação de voz?",
+          id: "Bolehkah menggunakan aplikasi catatan digital atau perekam suara?"
+        },
+        answer: {
+          ko: "스마트폰을 켜는 순간 화면의 밝은 빛과 다수의 알림이 뇌파를 급격히 베타파로 전환시킬 위험이 큽니다. 가급적 종이 수첩과 펜을 사용해 시각적 자극과 뇌파의 급변을 최소화하는 것을 강력히 권장합니다.",
+          en: "Turning on a smartphone exposes your eyes to bright light and potential notifications, rapidly altering brainwaves. Physical paper and pen are highly recommended to prevent premature beta wave spikes.",
+          ja: "スマホを点けると通知や光で脳波が急変します。紙のノートとペンが推奨されます。",
+          zh: "开启手机会被屏幕强光和通知干扰，使脑波急剧转变。强烈建议使用纸质笔记本和笔以减少干扰。",
+          es: "Encender el teléfono altera las ondas cerebrales por la luz y las notificaciones. Se recomienda encarecidamente papel y bolígrafo.",
+          fr: "Allumer un téléphone expose à la lumière et aux notifications. Le papier et le crayon sont fortement recommandés.",
+          de: "Handys bringen das Gehirn durch Licht und Mitteilungen durcheinander. Papier und Stift werden dringend empfohlen.",
+          pt: "Ligar o celular altera as ondas cerebrais. Recomenda-se fortemente papel e caneta para minimizar distrações.",
+          id: "Menyalakan ponsel mengganggu gelombang otak karena cahaya dan notifikasi. Sangat disarankan menggunakan kertas dan pena."
+        }
+      }
+    ]
+  },
 
-console.log(`🎉 Total ${updatedCount} blog posts enriched successfully!`);
+  // 2. humboldt-nature-journaling
+  {
+    slug: "humboldt-nature-journaling",
+    title: {
+      ko: "지구 전체를 유기체로 본 대탐험가? 알렉산더 폰 훔볼트의 현장 관찰 기록 루틴",
+      en: "The Explorer Who Saw Earth as a Single Organism? Alexander von Humboldt's Field Journal Routine",
+      ja: "地球全体を一つの有機体と見た大探検家？アレクサンダー・フォン・フンボルトの観察記録ルーティン",
+      zh: "把整个地球看作有机体的大探险家？亚历山大·冯·洪堡的野外观察笔记惯例",
+      es: "¿El explorador que vio la Tierra como un solo organismo? La rutina de notas de campo de Alexander von Humboldt",
+      fr: "L'explorateur qui voyait la Terre comme un organisme unique ? La routine de carnet de terrain d'Alexander von Humboldt",
+      de: "Der Entdecker, der die Erde als einen Organismus sah? Alexander von Humboldts Feldnotizen-Routine",
+      pt: "O explorador que via a Terra como um único organismo? A rotina de notas de campo de Alexander von Humboldt",
+      id: "Penjelajah yang Melihat Bumi Sebagai Satu Organisme? Rutinitas Catatan Lapangan Alexander von Humboldt"
+    },
+    description: {
+      ko: "근대 생태학과 지리학의 아버지 알렉산더 폰 훔볼트. 남미 쉼보라소 산을 오르는 혹독한 탐험 현장에서 기압과 식물 데이터를 즉시 노트로 기록해 '코스모스'를 완성한 그의 인지 정밀화 루틴과 3단계 실천법을 소개합니다.",
+      en: "Alexander von Humboldt, father of modern ecology and geography. Discover his real-time field journaling routine on Mount Chimborazo and a 3-step guide for precision cognition.",
+      ja: "近代生態学の父フンボルト。探検現場でデータを即座に記録し「コスモス」を完成させた彼の認知精密化法と3ステップ実践法を紹介します。",
+      zh: "现代地理学之父洪堡。介绍他在探险现场即时记录数据的大脑精准化惯例及现代人三步实践指南。",
+      es: "Alexander von Humboldt, padre de la ecología moderna. Descubra su rutina de notas de campo en tiempo real en el Chimborazo y una guía práctica de 3 pasos.",
+      fr: "Alexander von Humboldt, père de l'écologie moderne. Découvrez sa routine de carnet de terrain en temps réel et un guide en 3 étapes.",
+      de: "Alexander von Humboldt, Vater der modernen Ökologie. Entdecken Sie seine Feldnotiz-Routine am Chimborazo und einen 3-Schritte-Leitfaden.",
+      pt: "Alexander von Humboldt, pai da ecologia moderna. Descubra sua rotina de anotações de campo em tempo real no Chimborazo e um guia prático de 3 passos.",
+      id: "Alexander von Humboldt, bapak ekologi modern. Temukan rutinitas catatan lapangannya di Gunung Chimborazo dan panduan praktis 3 langkah."
+    },
+    authority: {
+      ko: "Andrea Wulf 전기 'The Invention of Nature: Alexander von Humboldt's New World' 및 훔볼트 저서 'Cosmos'",
+      en: "Andrea Wulf's Biography 'The Invention of Nature' & Humboldt's 'Cosmos'",
+      ja: "アンドレア・ウルフ評伝「The Invention of Nature」およびフンボルト著「コスモス」",
+      zh: "安德烈娅·伍尔夫传记《The Invention of Nature》与洪堡著作《Cosmos》",
+      es: "Biografía de Andrea Wulf 'The Invention of Nature' y obra 'Cosmos' de Humboldt",
+      fr: "Biographie d'Andrea Wulf 'The Invention of Nature' & ouvrage 'Cosmos' de Humboldt",
+      de: "Andrea Wulfs Biografie 'The Invention of Nature' & Humboldts 'Cosmos'",
+      pt: "Biografia de Andrea Wulf 'The Invention of Nature' & obra 'Cosmos' de Humboldt",
+      id: "Biografi Andrea Wulf 'The Invention of Nature' & Karya Humboldt 'Cosmos'"
+    },
+    intro: {
+      ko: "남미 아마존강과 안데스산맥의 쉼보라소(Chimborazo) 화산을 오르며 근대 지리학과 생태학의 기초를 다진 독일의 위대한 대탐험가이자 과학자, 알렉산더 폰 훔볼트. 찰스 다윈조차 '내 평생에 가장 큰 영감을 준 위대한 스승'이라 극찬했던 그의 통합적 통찰력은 어디서 탄생했을까요? 🌿\n\n훔볼트는 산소 부족과 강풍이 몰아치는 험난한 고산지대를 탐험하는 순간에도, 고도계, 기압계, 온도계를 꺼내 측정한 치수와 희귀 식물 수집 결과를 그 자리에서 바로 현장 노트에 정밀 스케치와 함께 기록했습니다. 그는 관찰과 기록 사이의 시간 간격을 완전히 제거함으로써, 시간이 지남에 따라 발생할 수 있는 기억의 왜곡을 방지하고 지구 전체가 하나의 유기체로 연결되어 있다는 '자연의 코스모스(Cosmos)' 사상을 완성했습니다.\n\n오늘 BuildSelf에서는 훔볼트의 '실시간 현장 관찰 기록' 루틴의 과학적 원리와 현대 직장인 및 연구자들이 학습 인지력을 정밀하게 끌어올리는 3단계 실천 가이드를 공개합니다.",
+      en: "Alexander von Humboldt, the great German explorer and scientist who laid the foundation for modern ecology by climbing Mount Chimborazo in the Andes. Where did his holistic insight come from? 🌿\n\nEven amidst freezing winds and altitude sickness, Humboldt immediately pulled out his field notebook to record barometer readings, temperatures, and plant drawings right on the spot. By completely eliminating the delay between observation and recording, he prevented memory distortion and synthesized the revolutionary concept that Earth is a single living organism.\n\nToday, BuildSelf reveals the science behind Humboldt's 'real-time field journaling' routine and a 3-step precision cognition guide.",
+      ja: "アマゾンやアンデス山脈を探検し、現代生態学の基礎を築いたアレクサンダー・フォン・フンボルト。彼の統合的洞察は即座の記録から生まれました。🌿\n\nフンボルトは過酷な探検中も、観測した瞬間にノートを取り出し正確な数値とスケッチを記録しました。タイムラグを失くすことで普遍的パターンを発見しました。\n\n今日のBuildSelfでは、フンボルトの「即座観察記録」ルーティンを紹介します。",
+      zh: "在亚马逊与安第斯山脉探险并奠定现代地理学与生态学基础的大探险家洪堡。他那整体性的洞察力源自现场即时笔记。🌿\n\n洪堡在严酷的探险现场，每当测量到数据时都会立即拿出笔记本精确记录。通过消除时间差，他发现了自然界的联系。\n\n今天，BuildSelf 将揭示洪堡“即时野外观察笔记”惯例的指南。",
+      es: "Alexander von Humboldt, el genio científico que sentó las bases de la ecología. ¿De dónde provenía su visión holística? 🌿\n\nHumboldt sacaba su libreta al instante en sus expediciones para anotar datos y flora. Al eliminar el retraso, descubrió patrones orgánicos en la Tierra.\n\nHoy, BuildSelf revela los principios de la rutina de notas de campo de Humboldt.",
+      fr: "Alexander von Humboldt, le géant scientifique qui a posé les bases de l'écologie. D'où lui venait sa vision holistique ? 🌿\n\nHumboldt sortait son carnet à l'instant même lors de ses expéditions. En éliminant le délai, il a découvert des schémas organiques.\n\nAujourd'hui, BuildSelf révèle les principes de la routine de carnet de terrain d'Humboldt.",
+      de: "Alexander von Humboldt, der die Grundlagen der Ökologie legte. Woher stammte seine Einsicht? 🌿\n\nHumboldt holte auf seinen Expeditionen sofort sein Notizbuch heraus. Indem er Verzögerungen eliminierte, entdeckte er Muster.\n\nHeute enthüllt BuildSelf die Prinzipien von Humboldts Feldnotizen-Routine.",
+      pt: "Alexander von Humboldt, que lançou as bases da ecologia moderna. De onde vinha sua visão holística? 🌿\n\nHumboldt tirava seu bloco de notas instantaneamente. Ao eliminar o atraso, descobriu padrões orgânicos.\n\nHoje, o BuildSelf revela os princípios da rotina de anotações de campo de Humboldt.",
+      id: "Alexander von Humboldt, yang meletakkan dasar ekologi modern. Dari mana datangnya wawasan holistiknya? 🌿\n\nHumboldt selalu mengeluarkan buku catatannya seketika dalam ekspedisinya. Dengan menghilangkan jeda, ia menemukan pola.\n\nHari ini, BuildSelf mengungkap prinsip di balik rutinitas catatan lapangan Humboldt."
+    },
+    whyTitle: {
+      ko: "실시간 감각 입력과 작업 기억의 정밀 동기화 메커니즘",
+      en: "Precision Mechanism: Real-Time Coupling of Sensory Input and Working Memory",
+      ja: "精密メカニズム：リアルタイム感覚入力と作業記憶の同期",
+      zh: "精准原理：实时感官输入与工作记忆的同步",
+      es: "Mecanismo de precisión: Sincronización en tiempo real de entrada sensorial y memoria de trabajo",
+      fr: "Mécanisme de précision : Synchronisation en temps réel de l'entrée sensorielle et de la mémoire de travail",
+      de: "Präzisionsmechanismus: Echtzeit-Synchronisation von Sensorik und Arbeitsgedächtnis",
+      pt: "Mecanismo de precisão: Sincronização em tempo real de entrada sensorial e memória de trabalho",
+      id: "Mekanisme Presisi: Sinkronisasi Real-Time Input Sensorik dan Memori Kerja"
+    },
+    whyDesc: {
+      ko: "인간의 뇌와 기억은 시간이 경과함에 따라 자신이 기존에 가지고 있던 선입견이나 편향으로 수집된 데이터를 사후 합리화하고 재구성하는 성향이 강합니다. 훔볼트의 실시간 현장 관찰 기록법은 외부에서 들어오는 <strong></strong>을 딜레이 없이 실시간 동기화합니다.\n\n관찰한 정보와 수치를 왜곡 없이 현장에서 텍스트와 스케치로 구조화하면, 뇌는 파편적 현상들 사이에 숨겨진 매개변수와 상관관계를 포착하는 <strong></strong> 능력을 최고 수준으로 유지하게 됩니다.",
+      en: "Human memory naturally rationalizes and reshapes collected data over time based on prior biases. Humboldt's real-time field notes method synchronizes <strong></strong> without cognitive lag.\n\nStructuring observed facts on the spot through text and visual diagrams prevents memory distortion and elevates <strong></strong>, enabling the brain to detect hidden correlations among fragmented phenomena.",
+      ja: "記憶は時間経過とともに偏見でデータに変容を加えます。フンボルトの即時記録法は、<strong></strong>をリアルタイムで同期させます。\n\n現場で事実を正確に構造化することで、潜在的なパターンを発見するメタ認知能力が最大化されます。",
+      zh: "人类记忆倾向于随时间推移按偏见重构数据。洪堡的即时记录法将<strong></strong>实时同步。\n\n在现场无失真地整理观察到的事实，能让大脑极大化提升识别潜藏模式的元认知能力。",
+      es: "La memoria tiende a distorsionar los datos con el tiempo. La técnica de Humboldt sincroniza la <strong></strong> en tiempo real.\n\nEstructurar los datos observados en el acto sin distorsión maximiza la metacognición para detectar patrones.",
+      fr: "La mémoire a tendance à altérer les données avec le temps. La méthode d'Humboldt synchronise <strong></strong> en temps réel.\n\nStructurer les faits sur le champ sans distorsion maximise la métacognition.",
+      de: "Das Gedächtnis neigt dazu, Daten mit der Zeit zu verfälschen. Humboldts Methode synchronisiert <strong></strong> in Echtzeit.\n\nDas strukturierte Festhalten von Daten vor Ort maximiert das Erkennen von Mustern.",
+      pt: "A memória tende a distorcer dados com o tempo. A técnica de Humboldt sincroniza <strong></strong> em tempo real.\n\nEstruturar dados observados no local sem distorção maximiza a metacognição.",
+      id: "Memori manusia cenderung mengubah data seiring waktu. Metode Humboldt menyinkronkan <strong></strong> secara real-time.\n\nMengarahkan fakta yang diamati di tempat tanpa distorsi memaksimalkan metakognisi untuk menemukan pola."
+    },
+    steps: [
+      {
+        name: {
+          ko: "관찰 및 수집 공간에서의 도구 즉시 배치",
+          en: "Instant Deployment of Recording Tools on Site",
+          ja: "観察場所での記録ツールの即座配置",
+          zh: "在观察场所即刻放置记录工具",
+          es: "Despliegue inmediato de herramientas en el sitio",
+          fr: "Déploiement immédiat des outils sur le terrain",
+          de: "Sofortiges Bereitstellen von Werkzeugen vor Ort",
+          pt: "Disponibilização imediata de ferramentas no local",
+          id: "Penyiapan Alat Pencatat di Lokasi Seketika"
+        },
+        text: {
+          ko: "새로운 프로젝트 현장, 미팅 공간, 혹은 연구실에 들어서자마자 기록 노트를 펼치거나 필기도구를 손 닿는 위치에 준비하여 기록 진입 장벽을 완전히 허뭅니다.",
+          en: "Unfold your notebook or open your digital note tool immediately upon entering a new project meeting or research site to remove entry friction.",
+          ja: "新しい場所や会議に到着したら、すぐに記録ツールを手に取れる場所に置きます。",
+          zh: "到达新现场或会议地点时，立即将记录工具放在手边，消除记录阻力。",
+          es: "Abra su cuaderno inmediatamente al llegar a una reunión o sitio de trabajo para eliminar cualquier fricción.",
+          fr: "Ouvrez votre carnet dès votre arrivée en réunion ou sur le terrain pour éliminer tout obstacle.",
+          de: "Öffnen Sie Ihr Buch sofort bei der Ankunft am Besprechungsort zur Vermeidung von Hürden.",
+          pt: "Abra seu bloco de notas imediatamente ao chegar a um local para eliminar barreiras.",
+          id: "Buka buku catatan Anda seketika saat tiba di lokasi untuk menghilangkan hambatan pencatatan."
+        }
+      },
+      {
+        name: {
+          ko: "객관적 사실 및 핵심 데이터의 실시간 수치화",
+          en: "Real-Time Quantification of Objective Facts and Data",
+          ja: "客観的事実と核心データのリアルタイム数値化",
+          zh: "客观事实与核心数据的实时量化",
+          es: "Cuantificación en tiempo real de hechos y datos",
+          fr: "Quantification en temps réel des faits et données",
+          de: "Echtzeit-Quantifizierung von Fakten und Daten",
+          pt: "Quantificação em tempo real de fatos e dados",
+          id: "Kuantifikasi Real-Time Fakta dan Data Objektif"
+        },
+        text: {
+          ko: "주관적 감상이나 판단을 배제하고, 목격하거나 수집한 데이터, 핵심 수치, 명확한 키워드를 현장에서 즉시 정밀 텍스트로 적어 내립니다.",
+          en: "Exclude subjective opinions and capture observed facts, precise metrics, and key terms on the spot without lag.",
+          ja: "主観的感想に偏らず、収集したデータやキーワードを観察直後に記録します。",
+          zh: "排除主观偏见，在观察后立即记录具体数据、关键数字和清晰关键词。",
+          es: "Evite opiniones subjetivas y anote datos concretos, métricas y palabras clave tras la observación.",
+          fr: "Évitez les jugements subjectifs et notez les données, chiffres et mots-clés immédiatement.",
+          de: "Vermeiden Sie subjektive Meinungen und schreiben Sie Daten und Fakten sofort auf.",
+          pt: "Evite opiniões subjetivas e anote dados concretos e métricas logo após a observação.",
+          id: "Hindari bias subjektif dan tulis data konkret serta kata kunci segera setelah pengamatan."
+        }
+      },
+      {
+        name: {
+          ko: "키워드 간 연관 관계의 visual 화살표 도해",
+          en: "Visual Arrow Diagramming of Inter-Keyword Relations",
+          ja: "キーワード間の関連性の矢印図解",
+          zh: "用箭头图解绘制关键词之间的关联关系",
+          es: "Diagramación visual con flechas de relaciones entre datos",
+          fr: "Schématisation visuelle par flèches des liaisons",
+          de: "Visualisierung von Beziehungen durch Pfeile",
+          pt: "Diagramação visual de conexões entre dados",
+          id: "Diagram Visual Panah untuk Hubungan Antar Kata Kunci"
+        },
+        text: {
+          ko: "기록된 단어와 데이터들 사이에 화살표, 기호, 혹은 관계선을 그려 넣어, 단편적 정보들이 어떻게 서로 상호작용하는지 유기적 구조로 매핑합니다.",
+          en: "Draw arrows and connecting lines between recorded data fragments to visually map how individual items dynamically interact.",
+          ja: "記録した単語の間に矢印や記号を書き加え、関連性を視覚化します。",
+          zh: "在记录的关键词之间画上箭头或符号，可视化不同数据之间的有机关联。",
+          es: "Trace flechas y líneas entre los datos anotados para mapear visualmente sus interconexiones.",
+          fr: "Tracez des flèches et des lignes entre les données pour cartographier leurs liaisons.",
+          de: "Zeichnen Sie Pfeile und Linien zwischen Notizen, um Wechselwirkungen zu kartieren.",
+          pt: "Desenhe setas e linhas entre os dados para mapear visualmente as conexões.",
+          id: "Gambar panah dan garis penghubung di antara catatan untuk memetakan hubungan secara visual."
+        }
+      }
+    ],
+    cautionTitle: {
+      ko: "사후 정리 연기에 따른 뇌의 사후 합리화와 정보 오염 주의",
+      en: "Caution Against Post-Hoc Rationalization and Memory Contamination from Delayed Recording",
+      ja: "記録延期による記憶の後付け修正と情報汚染に対する注意",
+      zh: "切忌因延迟记录导致事后合理化与信息失真",
+      es: "Precaución con la racionalización a posteriori al retrasar las notas",
+      fr: "Attention aux rationalisations a posteriori en différant la prise de note",
+      de: "Vorsicht vor nachträglicher Verfälschung durch aufgeschobene Notizen",
+      pt: "Cuidado com a racionalização posterior ao adiar anotações",
+      id: "Waspada Rasionalisasi dan Kontaminasi Memori Akibat Menunda Catatan"
+    },
+    cautionDesc: {
+      ko: "'나중에 사무실에 돌아가서 한꺼번에 적어야지' 하고 관찰 기록을 미루면, 뇌는 불과 몇 시간 만에 핵심 세부 수치를 왜곡하거나 편향된 착각으로 가공해버립니다. 훔볼트의 법칙처럼 관찰과 기록 사이의 타임갭을 5분 이내로 줄이는 습관이야말로 가장 정확한 인지 지도를 만드는 비결입니다.",
+      en: "Delaying field recording under the assumption of 'I'll summarize later back at the office' causes the brain to replace sharp metrics with biased rationalizations within hours. Keeping the gap under 5 minutes is the key to creating precise cognitive maps.",
+      ja: "「後でまとめて書こう」と延期すると、脳は数時間以内に詳細な情報を後付けの錯覚に置き換えます。観察と記録の差を5分以内に抑えましょう。",
+      zh: "若拖延记录想着“过后再总结”，大脑会在几小时内用事后合理化替代细节。请将观察与记录的时间差缩短在5分钟内。",
+      es: "Posponer la nota pensando 'luego resumo' hace que el cerebro reemplace los detalles reales. Mantenga el margen en menos de 5 minutos.",
+      fr: "Différer la note en se disant 'je résumerai plus tard' altère les détails. Gardez un écart de moins de 5 minutes.",
+      de: "Wer das Aufschreiben verschiebt, verfälscht Details. Halten Sie den Abstand unter 5 Minuten.",
+      pt: "Adiar anotações pensando 'depois eu resumo' faz o cérebro alterar detalhes. Mantenha o intervalo em menos de 5 minutos.",
+      id: "Menunda catatan dengan berpikir 'nanti saja diwakili' membuat otak mengganti detail asli. Jaga jeda di bawah 5 menit."
+    },
+    faqs: [
+      {
+        question: {
+          ko: "현장에서 글씨를 급하게 적느라 악필이 되어도 효과가 있나요?",
+          en: "Does it still work effectively if my handwriting is messy on site?",
+          ja: "現場で汚い字で素早く書いても効果はありますか？",
+          zh: "在现场字迹潦草地快速记录也有效果吗？",
+          es: "¿Tiene efecto si escribo rápido y desordenado en el lugar?",
+          fr: "Est-ce efficace même si j'écris de manière désordonnée ?",
+          de: "Ist es auch wirksam, wenn ich unleserlich schnell schreibe?",
+          pt: "Funciona mesmo se eu escrever rápido e de forma desordenada?",
+          id: "Apakah tetap efektif meskipun tulisan tangan cepat dan berantakan?"
+        },
+        answer: {
+          ko: "네, 완벽하게 효과가 있습니다! 본 루틴의 핵심은 정갈한 서체가 아니라 '감각 입력과 작업 기억의 즉각적 텍스트 연결'에 있습니다. 깔끔한 재정리는 오후 정리 단계에서 수행하셔도 충분합니다.",
+          en: "Yes, 100%! The core of this routine is the instant connection between sensory input and working memory, not pretty handwriting. Clean organization can be done during afternoon review.",
+          ja: "はい。「感覚入力とテキストの即時接続」が重要です。整頓は後で行えば十分です。",
+          zh: "是的。重要的在于感官输入与文字的即时结合，而非字迹美观。整理可在之后进行。",
+          es: "Sí. Lo vital es la conexión instantánea entre la entrada sensorial y el texto. El orden se da después.",
+          fr: "Oui. L'important est la connexion immédiate entre sensation et texte. La mise au propre se fait plus tard.",
+          de: "Ja. Wichtig ist die sofortige Verbindung von Eindruck und Text. Das Ordnen erfolgt später.",
+          pt: "Sim. O importante é a conexão instantânea entre o estímulo e o texto. O alinhamento vem depois.",
+          id: "Ya. Yang penting adalah hubungan seketika antara persepsi sensorik dan teks."
+        }
+      },
+      {
+        question: {
+          ko: "손으로 직접 쓰는 대신 디지털 녹음이나 음성 메모를 써도 되나요?",
+          en: "Can I use digital voice memos instead of writing by hand?",
+          ja: "手書きの代わりに音声録音機能を使ってもいいですか？",
+          zh: "可以用语音录音替代手写记录吗？",
+          es: "¿Puedo usar grabación de voz en vez de escribir a mano?",
+          fr: "Puis-je utiliser des mémo vocaux au lieu d'écrire ?",
+          de: "Kann ich Sprachnotizen anstelle von Handschrift nutzen?",
+          pt: "Posso usar gravação de voz em vez de escrever à mão?",
+          id: "Bolehkah menggunakan perekam suara dibanding menulis tangan?"
+        },
+        answer: {
+          ko: "음성 녹음도 훌륭한 사실 기록 도구이지만, 손으로 키워드를 적거나 관계 화살표를 그릴 때 활성화되는 뇌의 시운동(Graphomotor) 신경 자극 효과를 동시에 누리기 위해 간략한 키워드 메모를 병행하는 것을 권장합니다.",
+          en: "Voice recording is great for raw data, but combining it with quick handwritten keywords or arrow diagrams triggers graphomotor neural circuits for superior cognitive mapping.",
+          ja: "音声録音も良いですが、簡単な図解やスケッチの併用をお勧めします。",
+          zh: "语音录音也很好，但结合简短的手绘图解能进一步激活手脑联动机制。",
+          es: "La voz es útil, pero combinarla con bocetos rápidos activa mejor el procesamiento psicomotor del cerebro.",
+          fr: "L'enregistreur est utile, mais le combiner avec des croquis stimule mieux le cerveau.",
+          de: "Sprachnotizen sind gut, aber kleine Skizzen aktivieren das Gehirn durch Bewegung noch besser.",
+          pt: "Gravador de voz é ótimo, mas combinar com pequenos esboços ativa melhor o cérebro.",
+          id: "Perekam suara bagus, namun mengombinasikannya dengan sketsa singkat lebih baik untuk stimulasi otak."
+        }
+      }
+    ]
+  }
+];
+
+function enrichAll() {
+  enrichedHabits.forEach(item => {
+    // 1. JSON 저장 (habits/items)
+    const itemPath = path.join(habitsItemDir, `${item.slug}.json`);
+    if (fs.existsSync(itemPath)) {
+      const itemData = JSON.parse(fs.readFileSync(itemPath, 'utf-8'));
+      itemData.historicalStory = item.intro.ko;
+      itemData.sciencePrinciples = item.whyDesc.ko;
+      fs.writeFileSync(itemPath, JSON.stringify(itemData, null, 2), 'utf-8');
+      console.log(`[Item 업데이트] ${item.slug}.json`);
+    }
+
+    // 2. JSON 저장 (blogs/habits)
+    const blogJsonPath = path.join(habitsDataDir, `${item.slug}.json`);
+    const jsonObj = { [item.slug]: item };
+    fs.writeFileSync(blogJsonPath, JSON.stringify(jsonObj, null, 2), 'utf-8');
+    console.log(`[Blog JSON 업데이트] ${item.slug}.json`);
+
+    // 3. KO 마크다운 작성
+    const koPath = path.join(koBlogDir, `${item.slug}.md`);
+    const stepsYaml = item.steps.map(s => `  - name: "${s.name.ko.replace(/"/g, '\\"')}"\n    text: "${s.text.ko.replace(/"/g, '\\"')}"`).join('\n');
+    const faqsYaml = item.faqs.map(f => `  - question: "${f.question.ko.replace(/"/g, '\\"')}"\n    answer: "${f.answer.ko.replace(/"/g, '\\"')}"`).join('\n');
+
+    const stepCardsHtml = item.steps.map((s, idx) => `
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP ${idx + 1}</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">${s.name.ko}</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    ${s.text.ko}
+  </p>
+</div>`).join('\n');
+
+    const faqAccordionHtml = item.faqs.map((f, idx) => `
+  <details class="group ${idx < item.faqs.length - 1 ? 'border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4' : ''} cursor-pointer" ${idx === 0 ? 'open' : ''}>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+      <span>${f.question.ko}</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      ${f.answer.ko}
+    </p>
+  </details>`).join('\n');
+
+    const koContent = `---
+title: "${item.title.ko.replace(/"/g, '\\"')}"
+description: "${item.description.ko.replace(/"/g, '\\"')}"
+pubDate: "${today}"
+updatedDate: "${today}"
+category: "BuildSelf"
+tags: ["위인 습관", "Routine"]
+heroImage: "/images/blog/${item.slug.replace(/-/g, '_')}.png"
+app: "buildself"
+formatVersion: 4
+authority: "${item.authority.ko.replace(/"/g, '\\"')}"
+steps:
+${stepsYaml}
+faqs:
+${faqsYaml}
+---
+
+${item.intro.ko}
+
+<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+      역사적 & 학술적 근거
+    </h5>
+    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 <strong>${item.authority.ko}</strong>에 기록된 역사적 사실 및 최신 인지 뇌과학 연구를 바탕으로 작성되었습니다.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. ${item.whyTitle.ko}
+
+${item.whyDesc.ko}
+
+---
+
+## 2. 현대인을 위한 실천 가이드 3단계
+
+${stepCardsHtml}
+
+---
+
+## 3. 성공적인 루틴을 위한 뇌과학적 한마디
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
+  <span class="text-xl">💡</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">${item.cautionTitle.ko}</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      ${item.cautionDesc.ko}
+    </p>
+  </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  ${faqAccordionHtml}
+</div>
+`;
+
+    fs.writeFileSync(koPath, koContent, 'utf-8');
+    console.log(`[KO 마크다운 업데이트] ${item.slug}.md`);
+  });
+}
+
+enrichAll();

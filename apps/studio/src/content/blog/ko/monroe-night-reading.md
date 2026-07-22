@@ -68,7 +68,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">한 줄 감상 및 감정 일기 작성</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    독서를 끝낸 뒤, 인상 깊었던 구절이나 오늘 하루 자신의 핵심 감정을 일기장에 가볍게 1~2문장으로 남기고 수면을 개시합니다.
+    독서를 끝낸 뒤, 인상 깊었던 구절이나 오늘 하루 자신의 핵심 감정을 일기장에 가볍게 -문장으로 남기고 수면을 개시합니다.
   </p>
 </div>
 

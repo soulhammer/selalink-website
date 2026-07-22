@@ -1,0 +1,37 @@
+{
+  "id": "zaha-hadid-fluid-sketching",
+  "name": "자하 하디드",
+  "gender": "female",
+  "era": "현대",
+  "location": "영국, 이라크",
+  "lifespan": "1950 - 2016",
+  "birthYear": 1950,
+  "bio": "여성 최초로 프리츠커 건축상을 수상하며 해체주의와 역동적 곡선 건축의 새 지평을 연 건축가입니다.",
+  "habitName": "유기적 선과 곡선의 자유 스케치하기",
+  "tags": [
+    "#창의성",
+    "#기획",
+    "#아이디어",
+    "#영감"
+  ],
+  "timeOfDay": "anytime",
+  "requiredItems": [
+    "대형 드로잉북",
+    "먹물과 붓 또는 드로잉 펜"
+  ],
+  "frequency": "daily",
+  "historicalStory": "자하 하디드는 기존 건축계의 격자형 직선 관념에 얽매이지 않기 위해, 거대한 드로잉북 위에 먹물과 붓으로 흐르는 물결과 모래언덕을 닮은 굵고 강렬한 유기적 곡선을 무수히 그렸습니다. 이 자유로운 손 스케치 속에서 탄생한 곡선들이 훗날 동대문디자인플라자(DDP) 등 세계적 마스터피스로 구체화되었습니다.",
+  "sciencePrinciples": "손을 움직여 비정형적이고 자유로운 선을 그리는 시각적 자유 묘사(Fluid Sketching)는 뇌의 우뇌 영역을 자극하고 고정관념의 심리적 억제를 완화합니다. 비선형적 3차원 입체 구상은 시공간 인지 회로(Visuospatial Processing)를 활성화하여 획기적인 형태를 포착하게 합니다.",
+  "quote": "360도의 방위가 있는데, 왜 굳이 하나의 직선만을 고집해야 하는가?",
+  "trigger": "기존 규칙이나 정형화된 프레임에 갇혀 새로운 디자인/기획이 떠오르지 않을 때",
+  "modernGuide": [
+    "줄이나 격자가 없는 무지 종이나 스케치북을 펼칩니다.",
+    "자나 직선 도구를 치우고, 손이 가는 대로 자유롭게 곡선과 물결 모양의 선을 그립니다.",
+    "완성된 비정형 선들 사이에서 새로운 형태나 구조의 힌트를 포착합니다."
+  ],
+  "actionName": "자유 곡선 스케치 루틴 (하디드 루틴)",
+  "sources": [
+    "Philip Jodidio, *Zaha Hadid: Complete Works 1979-Today* (2020)",
+    "Zaha Hadid Architects Official Monographs"
+  ]
+}

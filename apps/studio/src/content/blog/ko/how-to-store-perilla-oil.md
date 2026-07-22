@@ -10,8 +10,8 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
-  - name: "무조건 냉장실 0~4℃ 보관하기 — 냉장 보관 (30일)"
-    text: "들기름은 참기름과 달리 산패를 막아주는 세사몰 성분이 없고 오메가-3 지방산이 60% 이상 함유되어 있어 상온에 두면 금방 상합니다. 무조건 0~4℃ 냉장고에 보관하세요."
+  - name: "무조건 냉장실 -℃ 보관하기 — 냉장 보관 (30일)"
+    text: "들기름은 참기름과 달리 산패를 막아주는 세사몰 성분이 없고 오메가-3 지방산이 60% 이상 함유되어 있어 상온에 두면 금방 상합니다. 무조건 -℃ 냉장고에 보관하세요."
   - name: "갈색 차광병에 담고 공기 노출 제한 — 산소 및 자외선 차단 🫙"
     text: "빛과 산소는 오메가-3의 산화를 촉진합니다. 들기름은 갈색이나 초록색 유리병에 담아야 하며, 사용 후에는 뚜껑을 꼭 닫아 공기 접촉을 최소화해야 합니다."
   - name: "들기름과 참기름을 8:2 비율로 혼합하여 보관 — 천연 보존제 효과 🫒"
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">무조건 냉장실 0~4℃ 보관하기 — 냉장 보관 (30일)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">무조건 냉장실 -℃ 보관하기 — 냉장 보관 (30일)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    들기름은 참기름과 달리 산패를 막아주는 세사몰 성분이 없고 오메가-3 지방산이 60% 이상 함유되어 있어 상온에 두면 금방 상합니다. 무조건 0~4℃ 냉장고에 보관하세요.
+    들기름은 참기름과 달리 산패를 막아주는 세사몰 성분이 없고 오메가-3 지방산이 60% 이상 함유되어 있어 상온에 두면 금방 상합니다. 무조건 -℃ 냉장고에 보관하세요.
   </p>
 </div>
 

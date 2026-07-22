@@ -81,7 +81,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早晨：头顶囟门防护与保温室温设定</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷的吉娃娃生活的室内温度保持在 24~26 度左右的温暖状态。
+    为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷的吉娃娃生活的室内温度保持在 - 度左右的温暖状态。
   </p>
 </div>
 

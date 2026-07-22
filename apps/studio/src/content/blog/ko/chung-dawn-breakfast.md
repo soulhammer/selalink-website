@@ -74,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">빛이 있는 야외 도보 출근 혹은 산책</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    집을 나서서 15~30분간 야외 햇빛을 섭취하며 가볍게 걸어서 출근하거나 공원을 걸어 활성 호르몬 세팅을 완료합니다.
+    집을 나서서 -분간 야외 햇빛을 섭취하며 가볍게 걸어서 출근하거나 공원을 걸어 활성 호르몬 세팅을 완료합니다.
   </p>
 </div>
 

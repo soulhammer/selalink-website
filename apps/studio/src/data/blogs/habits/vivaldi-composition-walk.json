@@ -1,0 +1,219 @@
+{
+  "vivaldi-composition-walk": {
+    "slug": "vivaldi-composition-walk",
+    "title": {
+      "ko": "새벽 운하를 걸으며 오케스트라 스코어를 적은 천재? 안토니오 비발디의 악상 기록 루틴",
+      "en": "The Genius Who Wrote Orchestral Scores While Walking Dawn Canals? Antonio Vivaldi's Capture Routine",
+      "ja": "早朝の運河を歩きオーケストラスコアを書き留めた天才？ヴィヴァルディの楽想記録ルーティン",
+      "zh": "在清晨运河边散步并急速记录管弦乐总谱的天才？维瓦尔第的极速灵感捕获惯例",
+      "es": "¿El genio que escribía partituras al caminar por los canales? La rutina de captura de Antonio Vivaldi",
+      "fr": "Le génie qui composait des partitions en marchant au bord des canaux ? La routine d'Antonio Vivaldi",
+      "de": "Das Genie, das beim morgendlichen Kanalseite-Gehen Partituren schrieb? Antonio Vivaldis Notation-Routine",
+      "pt": "O gênio que escrevia partituras ao caminhar pelos canais? A rotina de captura de Antonio Vivaldi",
+      "id": "Genius yang Menulis Skor Orkestra Saat Berjalan di Kanal Pagi? Rutinitas Pencatatan Antonio Vivaldi"
+    },
+    "description": {
+      "ko": "바로크 음악의 거장 안토니오 비발디. '사계' 등 500개가 넘는 협주곡을 탄생시킨 새벽 운하 산책 후 악상 쾌속 기록 루틴과 3단계 실천법을 알아봅니다.",
+      "en": "Baroque master Antonio Vivaldi. Discover his early morning canal walking and rapid score-capturing routine for 'The Four Seasons' and a 3-step action guide.",
+      "ja": "バロック音楽の巨匠ヴィヴァルディ。「四季」などを生み出した早朝散歩と速攻譜面記録習慣を紹介します。",
+      "zh": "巴洛克音乐大师维瓦尔第。介绍他以创作《四季》闻名的清晨运河散步与极速总谱记录惯例及三步指南。",
+      "es": "Antonio Vivaldi, maestro del Barroco. Descubra su rutina de caminata matutina por canales y rápida anotación para 'Las Cuatro Estaciones'.",
+      "fr": "Antonio Vivaldi, maître baroque. Découvrez sa routine de marche matinale le long des canaux et de notation rapide pour 'Les Quatre Saisons'.",
+      "de": "Barockmeister Antonio Vivaldi. Entdecken Sie seine Routine des morgendlichen Kanal-Spaziergangs und schnellen Notierens.",
+      "pt": "Antonio Vivaldi, mestre barroco. Descubra sua rotina de caminhada matinal pelos canais e rápida anotação para 'As Quatro Estações'.",
+      "id": "Antonio Vivaldi, master Barok. Temukan rutinitas jalan pagi di kanal dan pencatatan musik cepatnya untuk 'The Four Seasons'."
+    },
+    "authority": {
+      "ko": "H.C. Robbins Landon 전기 'Vivaldi: Voice of the Baroque' 및 바로크 자필 악보 자필본 해제",
+      "en": "H.C. Robbins Landon's 'Vivaldi: Voice of the Baroque' & Autograph Score Analysis",
+      "ja": "H.C.ロビンズ・ランドン著「Vivaldi: Voice of the Baroque」および直筆楽譜解題",
+      "zh": "H.C.罗宾斯·兰登著作《Vivaldi: Voice of the Baroque》与维瓦尔第手稿分析",
+      "es": "Obra de H.C. Robbins Landon 'Vivaldi: Voice of the Baroque' y análisis de manuscritos",
+      "fr": "Ouvrage de H.C. Robbins Landon 'Vivaldi: Voice of the Baroque' & analyse de manuscrits",
+      "de": "H.C. Robbins Landons 'Vivaldi: Voice of the Baroque' & Manuskriptanalyse",
+      "pt": "Obra de H.C. Robbins Landon 'Vivaldi: Voice of the Baroque' & análise de manuscritos",
+      "id": "Karya H.C. Robbins Landon 'Vivaldi: Voice of the Baroque' & Analisis Naskah Asli"
+    },
+    "intro": {
+      "ko": "불후의 명곡 '사계(The Four Seasons)'를 비롯해 무려 500곡이 넘는 웅장한 협주곡과 40여 개가 넘는 오페라를 창작하며 바로크 음악의 피크를 이끈 이탈리아의 천재 작곡가, 안토니오 비발디(Antonio Vivaldi). 그가 평생 마르지 않는 샘물처럼 폭발적인 음악적 영감을 끊임없이 지면에 옮길 수 있었던 비밀은 무엇일까요? 🎻\n\n비발디는 매일 새벽 안개가 자욱하게 깔린 베네치아의 운하 다리와 골목길을 홀로 걸었습니다. 물소리와 바람 소리, 새벽의 조용한 공기가 선사하는 감각적 자극 속에서 머릿속에 오케스트라의 웅장한 바이올린 선율이 떠오르면, 그는 작업실로 돌아오자마자 펜과 오케스트라 악보지를 펼치고 영감이 사라지기 전에 번개 같은 속도로 악보를 적어 내렸습니다. 그는 '내 머릿속에 이미 완성된 곡을 악보로 옮기는 속도가 다른 사람이 악보를 복사하는 속도보다 빠르다'고 말할 정도로 즉각적인 쾌속 외재화(Speed of Capture)를 실천했습니다.\n\n오늘 BuildSelf에서는 비발디의 '새벽 산책 후 악상 쾌속 기록' 루틴의 뇌과학적 원리와 현대 크리에이터들이 찰나의 아이디어를 100% 포착하는 3단계 실천 가이드를 공개합니다.",
+      "en": "Antonio Vivaldi, the Italian Baroque master who composed over 500 concertos including 'The Four Seasons'. What was his secret to an endless wellspring of musical creation? 🎻\n\nEvery dawn, Vivaldi walked through the misty canal bridges of Venice. Sensory stimuli from water and morning air triggered orchestral melodies in his head. Returning to his desk, he captured these complete arrangements onto score paper at lightning speed before the inspiration evaporated.\n\nToday, BuildSelf reveals the science behind Vivaldi's 'rapid capture' routine and a 3-step action guide.",
+      "ja": "「四季」など500以上の協奏曲を生み出したバロック音楽の巨匠ヴィヴァルディ。彼の無限のひらめきの秘密は何でしょうか？ 🎻\n\nヴィヴァルディは毎朝、ヴェネツィアの運ハを歩き、水音や風の刺激から浮かんだメロディを、作業場に戻るやいなや電光石火のスピードで楽譜に書き留めました。\n\n今日のBuildSelfでは、ヴィヴァルディの「楽想即座記録」ルーティンを紹介します。",
+      "zh": "创作了名曲《四季》等500多首协奏曲的巴洛克音乐大师维瓦尔第。他那源源不断的音乐灵感究竟是如何在纸上迅速呈现的？ 🎻\n\n维瓦尔第每天清晨独自漫步在威尼斯大雾弥漫的运河桥上。水声与清晨空气带来的感觉刺激在大脑中激发管弦乐旋律，回到案前他便以闪电般的速度将音乐抄写在总谱纸上。\n\n今天，BuildSelf 将带您探究维瓦尔第“极速灵感捕获”惯例指南。",
+      "es": "Antonio Vivaldi, maestro del Barroco italiano que compuso más de 500 conciertos. ¿Su secreto? 🎻\n\nCada amanecer, Vivaldi caminaba por los puentes de los canales de Venecia. El estímulo del agua inspiraba melodías que anotaba a velocidad del rayo al volver.\n\nHoy, BuildSelf explora la rutina de captura rápida de Vivaldi.",
+      "fr": "Antonio Vivaldi, maître baroque italien auteur de plus de 500 concertos. Son secret ? 🎻\n\nChaque matin, Vivaldi marchait sur les ponts de Venise. Les sensations de l'eau lui inspiraient des mélodies qu'il notait à la vitesse de l'éclair.\n\nAujourd'hui, BuildSelf explore la routine de capture rapide de Vivaldi.",
+      "de": "Antonio Vivaldi, italienischer Barockmeister von über 500 Konzerten. Sein Geheimnis? 🎻\n\nJeden Morgen ging Vivaldi über die Kanalbrücken Venedigs. Die Reize des Wassers inspirierten Melodien, die er blitzschnell niederschrieb.\n\nHeute untersucht BuildSelf Vivaldis Notation-Routine.",
+      "pt": "Antonio Vivaldi, mestre barroco italiano autor de mais de 500 concertos. Seu segredo? 🎻\n\nA cada amanhecer, Vivaldi caminhava pelas pontes de Veneza. Os estímulos da água inspiravam melodias que anotava a velocidade da luz.\n\nHoje, o BuildSelf explora a rotina de captura rápida de Vivaldi.",
+      "id": "Antonio Vivaldi, master Barok Italia pengubah lebih dari 500 konserto. Rahasianya? 🎻\n\nSetiap pagi, Vivaldi berjalan di jembatan kanal Venesia. Udara pagi dan suara air memicu melodi orkestra yang ia catat secepat kilat.\n\nHari ini, BuildSelf menjelajahi rutinitas pencatatan cepat Vivaldi."
+    },
+    "whyTitle": {
+      "ko": "감각 자극 유입과 찰나 아이디어의 쾌속 외재화(Speed of Capture) 메커니즘",
+      "en": "Mechanism: Sensory Input Triggering and Speed-of-Capture Externalization",
+      "ja": "感覚刺激の流入と直感的アイデアの速攻外在化（Speed of Capture）メカニズム",
+      "zh": "感官刺激涌入与刹那灵感极速外在化(Speed of Capture)机制",
+      "es": "Mecanismo: Entrada sensorial y externalización ultrarrápida de ideas",
+      "fr": "Mécanisme : Entrée sensorielle et externalisation ultra-rapide des idées",
+      "de": "Mechanismus: Sensorischer Reiz und blitzschnelle Auslagerung flüchtiger Ideen",
+      "pt": "Mecanismo: Entrada sensorial e externalização ultrarrápida de ideias",
+      "id": "Mekanisme: Input Sensorik dan Eksternalisasi Kilat (Speed of Capture)"
+    },
+    "whyDesc": {
+      "ko": "새로운 산책로나 새벽 공기가 제공하는 풍부한 물리적 자극은 뇌의 청각 및 시각 피질을 상쾌하게 깨워 작업 기억 속에 잠자던 연상 결합을 촉발합니다. 그러나 찰나의 창의적 아이디어는 전두엽의 기억 보존 시간이 매우 짧아 불과 1~2분 만에 손실되는 특성을 지닙니다.\n\n비발디의 쾌속 기록 루틴은 아이디어가 떠오른 직후 머뭇거림이나 완벽주의 검열 없이 <strong></strong>함으로써, 영감의 휘발을 100% 막아내는 뇌과학적 메커니즘을 완성합니다.",
+      "en": "Sensory stimuli from fresh morning air activate visual and auditory cortices, unlocking associative connections. However, fleeting creative sparks degrade within 1-2 minutes if not recorded.\n\nVivaldi's rapid capture method externalizes raw ideas into physical format without hesitation or analytical pre-censorship, preserving 100% of intuitive sparks.",
+      "ja": "早朝の空気などの感覚刺激は脳の知覚野を覚醒させます。しかし直感的なひらめきは1〜2分で蒸発する性質があります。\n\nビバルディの速攻記録法は、躊躇せず即座に可視化することで、ひらめきの揮発を完全に防ぎます。",
+      "zh": "清晨新鲜空气带来的丰富感官刺激能极佳地唤醒大脑知觉皮层。然而，刹那间的创意灵感衰减极快，若不记录会在1-2分钟内蒸发殆尽。\n\n维瓦尔第的极速捕获惯例在灵感浮现后毫不犹豫地将其<strong></strong>为文字或符号，防止灵感挥发。",
+      "es": "El aire matutino estimula la corteza cerebral. Sin embargo, las ideas creativas se evaporan en 1-2 minutos si no se anotan.\n\nLa técnica de Vivaldi externaliza la idea de inmediato sin censura analítica.",
+      "fr": "L'air du matin stimule le cortex. Cependant, les idées s'évaporent en 1-2 minutes sans prise de note.\n\nLa méthode de Vivaldi externalise l'idée immédiatement sans censure.",
+      "de": "Frische Morgenluft stimuliert das Gehirn. Flüchtige Ideen verfliegen jedoch in 1-2 Minuten.\n\nVivaldis Methode lagert Ideen sofort ohne Zögern aus.",
+      "pt": "O ar matinal estimula o córtex. No entanto, ideias criativas se evaporam em 1-2 minutos sem registro.\n\nA técnica de Vivaldi externaliza a ideia imediatamente sem censura.",
+      "id": "Udara pagi menyegarkan korteks otak. Namun, ide kreatif menguap dalam 1-2 menit jika tidak dicatat.\n\nMetode Vivaldi mengeksternalisasikan ide seketika tanpa ragu."
+    },
+    "steps": [
+      {
+        "name": {
+          "ko": "새벽/야외 오감 자극 산책 수행",
+          "en": "Early Morning Outdoor Sensory Walking",
+          "ja": "早朝・野外の五感刺激散歩の実行",
+          "zh": "执行清晨/户外的五感刺激散步",
+          "es": "Realizar una caminata al aire libre al amanecer",
+          "fr": "Faire une marche matinale stimulante en plein air",
+          "de": "Morgendlicher Spaziergang zur Aktivierung der Sinne",
+          "pt": "Realizar uma caminhada ao ar livre ao amanhecer",
+          "id": "Melakukan Jalan Pagi Terbuka untuk Stimulasi Sensorik"
+        },
+        "text": {
+          "ko": "아침 시간 15~20분간 외부의 바람, 자연 소리, 조용한 풍경을 오감으로 느끼며 머릿속 상상력을 가볍게 깨웁니다.",
+          "en": "Spend 15-20 minutes walking outdoors at dawn, engaging your senses with fresh air and ambient sounds to wake your imagination.",
+          "ja": "朝の15〜20分間、風や音を五感で感じながら散歩し、脳の想像力を目覚めさせます。",
+          "zh": "在清晨花15-20分钟在户外散步，用五感去感受风声、自然声音与景色，轻松唤醒大脑想象力。",
+          "es": "Camine 15-20 minutos al amanecer, sintiendo el aire y sonidos para despertar su imaginación.",
+          "fr": "Marchez 15-20 minutes au réveil en stimulant vos sens pour réveiller votre imagination.",
+          "de": "Gehen Sie morgens 15-20 Minuten spazieren und aktivieren Sie Ihre Sinne.",
+          "pt": "Caminhe 15-20 minutos ao amanhecer, sentindo o ar para despertar sua imaginação.",
+          "id": "Berjalanlah 15-20 menit di pagi hari, rasakan udara dan suara sekitar untuk membangunkan imajinasi."
+        }
+      },
+      {
+        "name": {
+          "ko": "아이디어 도착 직후 번개 같은 메모 캡처",
+          "en": "Lightning-Fast Capture Upon Idea Arrival",
+          "ja": "アイデア到来直後の電光石火メモキャプチャ",
+          "zh": "灵感浮现后闪电般的极速捕获",
+          "es": "Captura ultrarrápida al surgir la idea",
+          "fr": "Capture ultra-rapide dès l'apparition de l'idée",
+          "de": "Blitzschnelles Notieren bei Idee-Eingebung",
+          "pt": "Captura ultrarrápida ao surgir a ideia",
+          "id": "Pencatatan Seketika Saat Ide Muncul"
+        },
+        "text": {
+          "ko": "산책 중 혹은 복귀 직후 아이디어가 스칠 때, 미루지 말고 음성 메모나 펜으로 핵심 뼈대 선율과 키워드를 초스피드로 기록합니다.",
+          "en": "The moment a spark hits, immediately open a voice memo or pen to capture core keywords before they fade.",
+          "ja": "ひらめきがあった瞬間、躊躇せず音声メモやペンでキーワードを即座に記録します。",
+          "zh": "在散步中或刚返回时灵感闪现的瞬间，切勿拖延，立即用语音备忘录或手写笔极速记录下核心骨架与关键词。",
+          "es": "Al instante en que surja una idea, grabe una nota de voz o escriba palabras clave sin dudar.",
+          "fr": "Dès qu'une idée surgit, enregistrez un mémo vocal ou notez des mots-clés sans attendre.",
+          "de": "Sobald eine Idee auftaucht, halten Sie sofort Stichworte fest.",
+          "pt": "No momento em que surgir uma ideia, grave uma nota de voz ou anote palavras-chave.",
+          "id": "Saat ide muncul, segera gunakan perekam suara atau pena untuk mencatat kata kunci utama."
+        }
+      },
+      {
+        "name": {
+          "ko": "날것의 캡처본 1차 정제 및 초안 즉시 완성",
+          "en": "Immediate Draft Refinement of Raw Captures",
+          "ja": "生データの一次精製と草案の即座完成",
+          "zh": "对原始捕获内容进行即时一次精炼与初稿完成",
+          "es": "Pulido inmediato de capturas y borrador",
+          "fr": "Polissage immédiat de la capture en premier jet",
+          "de": "Sofortiges Ausarbeiten der Roh-Notiz zum Entwurf",
+          "pt": "Lapidação imediata da captura em rascunho",
+          "id": "Penyempurnaan Seketika Catatan Mentah Menjadi Draf"
+        },
+        "text": {
+          "ko": "기록 직후 곧바로 10분간 머릿속 감각이 남아있는 동안 날것의 기록을 하나의 완성된 초안 문장이나 개요 구조로 정제합니다.",
+          "en": "Spend 10 minutes right after capture developing the raw note into a structured draft while the sensory impression remains fresh.",
+          "ja": "記録直後の10分間、感覚が残っているうちにメモを一つのまとまった Guiding 概要として精製します。",
+          "zh": "在记录完成后的10分钟内，趁着脑海中感官余温未散，将原始笔记精炼为一份完整的初稿句子或大纲结构。",
+          "es": "Dedique 10 minutos justo después para convertir esa nota en un borrador esquemático.",
+          "fr": "Consacrez 10 minutes juste après pour transformer la note en un premier jet structuré.",
+          "de": "Verwandeln Sie die Roh-Notiz direkt in den folgenden 10 Minuten in einen Entwurf.",
+          "pt": "Dedique 10 minutos logo após para transformar a anotação em um rascunho estruturado.",
+          "id": "Luangkan 10 menit setelah mencatat untuk mengubahnya menjadi draf terstruktur."
+        }
+      }
+    ],
+    "cautionTitle": {
+      "ko": "아이디어 캡처 시 완벽주의 검열과 지연 행동 주의",
+      "en": "Caution Against Perfectionist Censorship and Delayed Capture",
+      "ja": "アイデアキャプチャ時の完璧主義と記録遅延に対する注意",
+      "zh": "切忌在捕获灵感时陷入完美主义审查与拖延",
+      "es": "Precaución con el perfeccionismo y la demora al capturar ideas",
+      "fr": "Attention au perfectionnisme et au retard lors de la capture",
+      "de": "Vorsicht vor Perfektionismus und Aufschub beim Notieren",
+      "pt": "Cuidado com o perfeccionismo e demora ao capturar ideias",
+      "id": "Waspada Perfeksionisme dan Penundaan Saat Mencatat Ide"
+    },
+    "cautionDesc": {
+      "ko": "'이 아이디어가 정말 쓸만한가?' 하고 이성적으로 검열하며 기록을 주저하는 순간, 뇌는 영감을 잊어버립니다. 비발디처럼 초기 캡처 단계는 정답을 따지지 말고 유치한 아이디어라도 무조건 100% 지면에 쏟아내세요.",
+      "en": "Hesitating to record while rationally evaluating 'Is this idea good enough?' causes rapid forgetting. Capture raw ideas 100% first without analytical judgment.",
+      "ja": "「このアイデアは使えるか」と検閲して記録を躊躇すると、ひらめきは消えます。まずは100%吐き出しましょう。",
+      "zh": "如果在记录时犹豫去理性审查“这灵感真的有用吗？”，大脑会极其迅速地忘却它。请像维瓦尔第一样，在初期捕获阶段无条件100%倾倒出来。",
+      "es": "Dudar al anotar pensando '¿es buena esta idea?' provoca el olvido. Anote el 100% del trazo crudo primero.",
+      "fr": "Hésiter en se demandant si l'idée est bonne provoque l'oubli. Notez d'abord 100% de l'idée brute.",
+      "de": "Zögern beim Notieren durch Hinterfragen löscht die Idee. Schreiben Sie die Idee zuerst zu 100% auf.",
+      "pt": "Hesitar ao anotar pensando se a ideia é boa causa o esquecimento. Anote 100% da ideia bruta primeiro.",
+      "id": "Ragu saat mencatat karena menilai ide menyebabkan ide lupa. Catat 100% ide mentah terlebih dahulu."
+    },
+    "faqs": [
+      {
+        "question": {
+          "ko": "길을 걷다 급하게 적은 메모가 나중에 보면 무슨 뜻인지 모를 때가 많은데 어쩌나요?",
+          "en": "What if I can't understand my own rushed notes later?",
+          "ja": "急いで書いたメモが後から見返して意味が分からない時はどうすればいいですか？",
+          "zh": "匆忙记下的笔记事后看不懂含义该怎么办？",
+          "es": "¿Qué hacer si luego no entiendo mis notas rápidas?",
+          "fr": "Que faire si je ne comprends plus mes notes rapides plus tard ?",
+          "de": "Was tun, wenn ich meine schnellen Notizen später nicht verstehe?",
+          "pt": "O que fazer se eu não entender minhas notas rápidas depois?",
+          "id": "Bagaimana jika saya tidak memahami catatan cepat saya di kemudian hari?"
+        },
+        "answer": {
+          "ko": "캡처 후 1~2시간 이내에 바로 복기하여 개요 문장으로 보완하는 습관이 중요합니다. 기록과 정제 사이의 시간을 최대한 단축하여 감각 잔상을 보존하세요.",
+          "en": "Elaborate on raw notes within 1-2 hours while memory traces remain active. Keep the time gap between capture and refinement as short as possible.",
+          "ja": "メモ後1〜2時間以内に見直し、文章として補完する習慣をつけることが重要です。",
+          "zh": "关键在于捕获后1-2小时内立即复盘并补充完整句。缩短捕获与精炼的时间差以保留感官残像。",
+          "es": "Repase sus notas 1-2 horas después para completar las frases mientras la memoria esté fresca.",
+          "fr": "Relisez vos notes dans les 1-2 heures pour compléter les phrases tant que le souvenir est frais.",
+          "de": "Arbeiten Sie die Notizen innerhalb von 1-2 Stunden aus, solange die Erinnerung frisch ist.",
+          "pt": "Revise suas notas em 1-2 horas para completar as frases enquanto a memória estiver fresca.",
+          "id": "Uraikan catatan dalam 1-2 jam setelah mencatat agar kenangan sensorik masih segar."
+        }
+      },
+      {
+        "question": {
+          "ko": "음성 메모 앱을 쓸 때 주변 사람들의 시선이 부담스러운데 좋은 팁이 있나요?",
+          "en": "Any tips if recording voice memos in public feels awkward?",
+          "ja": "人前で音声メモを録音するのが恥ずかしい場合のコツはありますか？",
+          "zh": "在公共场所使用语音备忘录感觉尴尬有什么好建议吗？",
+          "es": "¿Algún consejo si da vergüenza usar notas de voz en público?",
+          "fr": "Des conseils si enregistrer un mémo vocal en public est gênant ?",
+          "de": "Tipps, wenn Sprachnotizen in der Öffentlichkeit unangenehm sind?",
+          "pt": "Alguma dica se gravar notas de voz em público for constrangedor?",
+          "id": "Ada saran jika merekam suara di tempat umum terasa canggung?"
+        },
+        "answer": {
+          "ko": "이어폰을 낀 채 마치 누군가와 전화 통화를 하는 것처럼 자연스럽게 읊조리듯 녹음하면 주변 시선을 전혀 받지 않고 편안하게 영감을 캡처할 수 있습니다.",
+          "en": "Put in earphones and speak as if you are on a phone call. This removes public awkwardness entirely.",
+          "ja": "イヤホンを装着し、電話で通話しているようにささやいて録音するのがお勧めです。",
+          "zh": "戴上耳机，装作正在与人打电话一样自然低声念出，就能完全规避他人目光并轻松捕获灵感。",
+          "es": "Póngase auriculares e intente hablar como si estuviera en una llamada telefónica para disimular.",
+          "fr": "Mettez des écouteurs et parlez comme si vous étiez au téléphone pour enregistrer discrètement.",
+          "de": "Nutzen Sie Kopfhörer und sprechen Sie wie bei einem Telefonat, um unauffällig zu bleiben.",
+          "pt": "Coloque fones e fale como se estivesse em uma ligação telefônica para disfarçar.",
+          "id": "Gunakan headphone dan berbicaralah seolah sedang menelepon agar tidak menjadi perhatian."
+        }
+      }
+    ],
+    "pubDate": "2026-06-24",
+    "updatedDate": "2026-06-24"
+  }
+}

@@ -16,7 +16,7 @@ faqs:
 steps:
   - name: "无需清洗，用保鲜膜单独包裹 — 锁水防干 📦"
     text: "将苹果直接暴露在常温或冰箱中会导致水分流失，使果皮起皱、果肉变绵。💡储存小贴士：保持干燥，用保鲜膜将苹果逐个紧密包裹。这样可以锁住自身水分以长久保持爽脆口感，并防止其自身释放的乙烯气体扩散到空气中。"
-  - name: "0~4℃ 低温冷藏保存 — 冷藏储存 (30天) ❄️"
+  - name: "-℃ 低温冷藏保存 — 冷藏储存 (30天) ❄️"
     text: "温度越高，苹果的呼吸作用越活跃，乙烯释放量增加，容易变质。💡储存小贴士：苹果最喜欢的温度是0-4℃。将裹好保鲜膜的苹果放入冰箱蔬菜保鲜抽屉或密封盒中冷藏。避免零下温度以免冻伤影响口感。"
   - name: "与其他食材彻底隔离 — 双重保护 🛡️"
     text: "即便裹了保鲜膜，苹果释放的强效乙烯气体仍会通过冰箱空气影响其他新鲜食材。💡储存小贴士：将包好的苹果再装入密封网袋或塑料保鲜盒中，进行双重密封。务必与生菜、菠菜、香蕉、梨等对乙烯敏感的蔬果分层或分室存放。"
@@ -74,11 +74,11 @@ formatVersion: 4
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">第 2 步</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">0~4℃ 低温冷藏保存 — 冷藏储存 (30天) ❄️</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">-℃ 低温冷藏保存 — 冷藏储存 (30天) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     温度越高，苹果的呼吸作用就越旺盛，乙烯释放量也会增加，从而更容易坏掉。<br/><br/>
-    💡 <strong>储存窍门</strong>: 苹果最喜欢的适宜温度是 0~4℃ 的低温。请将包裹好保鲜膜的苹果放入冰箱的蔬菜专用抽屉（保鲜室）或单独的密封盒中冷藏保存。核心是避开零度以下以免冻伤苹果导致口感变差。
+    💡 <strong>储存窍门</strong>: 苹果最喜欢的适宜温度是 -℃ 的低温。请将包裹好保鲜膜的苹果放入冰箱的蔬菜专用抽屉（保鲜室）或单独的密封盒中冷藏保存。核心是避开零度以下以免冻伤苹果导致口感变差。
   </p>
 </div>
 

@@ -54,7 +54,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">회의 및 의사결정 주제의 서술형 작성</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    회의를 진행하기 전, 요약이나 나열이 아닌 인과관계가 드러나도록 완성도 높은 서술형 문서(1~6페이지)를 작성하여 배포합니다.
+    회의를 진행하기 전, 요약이나 나열이 아닌 인과관계가 드러나도록 완성도 높은 서술형 문서(-페이지)를 작성하여 배포합니다.
   </p>
 </div>
 
@@ -64,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">회의 직후 조용한 침묵 속의 자료 정독</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    회의 개시 후 발표자의 설명을 듣는 대신, 15~30분 동안 회의실 전체가 완전한 침묵 속에서 자료를 온전히 완독합니다.
+    회의 개시 후 발표자의 설명을 듣는 대신, -분 동안 회의실 전체가 완전한 침묵 속에서 자료를 온전히 완독합니다.
   </p>
 </div>
 

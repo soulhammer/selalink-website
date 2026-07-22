@@ -74,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">오브젝트 응시 후 자연스러운 이완 집중</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    오브젝트를 가볍게 10~20초 동안 바라보며 호흡을 가다듬고, 뇌의 인지 상태를 편안하고 몰입 가능한 모드로 서서히 유도합니다.
+    오브젝트를 가볍게 -초 동안 바라보며 호흡을 가다듬고, 뇌의 인지 상태를 편안하고 몰입 가능한 모드로 서서히 유도합니다.
   </p>
 </div>
 

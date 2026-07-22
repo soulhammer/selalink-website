@@ -48,7 +48,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">새벽 야외 자연광 노출</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    새벽 5~7시 사이, 해가 뜨는 시점에 맞춰 편안한 작업복을 입고 마당이나 베란다 등 자연광이 드는 곳으로 이동합니다.
+    새벽 -시 사이, 해가 뜨는 시점에 맞춰 편안한 작업복을 입고 마당이나 베란다 등 자연광이 드는 곳으로 이동합니다.
   </p>
 </div>
 

@@ -10,7 +10,7 @@ app: "buildself"
 authority: "잔 다르크 1431년 재판 기록 사료 및 Journal of Research in Personality 학술지"
 updatedDate: "2026-02-12"
 faqs:
-  - question: "아침형 인간이 아닌데, 새벽 3~4시에 일어나야 하나요?"
+  - question: "아침형 인간이 아닌데, 새벽 -시에 일어나야 하나요?"
     answer: "아닙니다. 세종대왕의 핵심은 '기상 직후 외부 방해 없는 나만의 인지 자산 확보'에 있습니다. 본인의 평소 기상 시간보다 단 30분만 일찍 일어나 스마트폰 차단 하에 조용히 독서하는 것만으로도 충분히 동일한 효과를 냅니다."
   - question: "시각화를 할 때 이미지가 구체적으로 안 그려집니다."
     answer: "완벽한 화질의 영상을 떠올릴 필요는 없습니다. 자신이 목표를 달성한 상태의 긍정적인 '느낌', 주변의 맑은 소리, 가벼운 단어(예: '나는 결국 해결했다'는 성취감)의 결합만으로도 뇌의 해당 피질은 동일하게 활성화됩니다. 감각적 단서들을 서서히 모아 나간다고 생각하고 편하게 머릿속에 투영해 보세요."
@@ -103,7 +103,7 @@ faqs:
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
-      <span>아침형 인간이 아닌데, 새벽 3~4시에 일어나야 하나요?</span>
+      <span>아침형 인간이 아닌데, 새벽 -시에 일어나야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

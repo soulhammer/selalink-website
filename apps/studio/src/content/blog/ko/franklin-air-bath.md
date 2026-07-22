@@ -68,7 +68,7 @@ authority: "벤자민 프랭클린 자서전 'The Autobiography of Benjamin Fran
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">가벼운 맨몸 스트레칭</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    공기욕을 마치며 가벼운 기지개나 목, 어깨 스트레칭을 1~2분간 진행합니다. 신선한 산소가 전신으로 원활하게 공급되면서 즉각적으로 활력 넘치는 하루를 시작할 준비가 완료됩니다.
+    공기욕을 마치며 가벼운 기지개나 목, 어깨 스트레칭을 -분간 진행합니다. 신선한 산소가 전신으로 원활하게 공급되면서 즉각적으로 활력 넘치는 하루를 시작할 준비가 완료됩니다.
   </p>
 </div>
 

@@ -58,7 +58,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">동일 룩 다량 배치(프리셋화)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    옷장 속에 동일한 컬러와 디자인의 의류를 평일 요일 수에 맞춰 5~7벌을 다량 구비하여 고민 없이 꺼낼 수 있게 정돈합니다.
+    옷장 속에 동일한 컬러와 디자인의 의류를 평일 요일 수에 맞춰 -벌을 다량 구비하여 고민 없이 꺼낼 수 있게 정돈합니다.
   </p>
 </div>
 

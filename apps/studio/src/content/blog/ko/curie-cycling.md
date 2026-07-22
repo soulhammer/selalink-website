@@ -47,7 +47,7 @@ authority: "이브 퀴리 저 '퀴리 부인' 및 하버드 헬스 퍼블리싱(
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">주 1~2회 야외 라이딩 코스 설정</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">주 -회 야외 라이딩 코스 설정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     주말이나 퇴근 후, 실내 헬스장 바이크 대신 탁 트인 야외 공원, 강변, 혹은 나무가 우거진 자전거 전용 도로를 라이딩 코스로 설정합니다. 자연과 접촉할 수 있는 환경이 효과적입니다.

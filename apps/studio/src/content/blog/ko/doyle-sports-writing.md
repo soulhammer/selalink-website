@@ -43,7 +43,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">업무 전 10~15분간 심박수를 올리는 고강도/유산소 운동 실시하기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">업무 전 -분간 심박수를 올리는 고강도/유산소 운동 실시하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     실내에서 빠르게 수행할 수 있는 스쿼트, 버피 테스트, 실내 자전거 등을 활용해 맥박을 끌어올립니다. 살짝 땀이 나고 숨이 찰 정도의 신체 자극을 유도합니다.
@@ -77,7 +77,7 @@ faqs:
   <span class="text-xl">💡</span>
   <div>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      아서 코난 도일에게 격렬한 땀방울은 논리적 전개를 매끄럽게 만들기 위한 지적 연료였습니다. 만약 몇 시간 동안 책상에 앉아 있어 머리가 무겁고 무기력하다면, 가만히 앉아 버티지 말고 10~15분간 가벼운 홈트레이닝(스쿼트, 버피 테스트 등)을 수행하세요. 운동이 끝난 직후 뇌 혈류량이 극대화된 1시간의 '인지적 골든타임' 동안 가장 까다롭고 머리를 많이 써야 하는 핵심 과제를 공략해 보세요.
+      아서 코난 도일에게 격렬한 땀방울은 논리적 전개를 매끄럽게 만들기 위한 지적 연료였습니다. 만약 몇 시간 동안 책상에 앉아 있어 머리가 무겁고 무기력하다면, 가만히 앉아 버티지 말고 -분간 가벼운 홈트레이닝(스쿼트, 버피 테스트 등)을 수행하세요. 운동이 끝난 직후 뇌 혈류량이 극대화된 1시간의 '인지적 골든타임' 동안 가장 까다롭고 머리를 많이 써야 하는 핵심 과제를 공략해 보세요.
     </p>
   </div>
 </div>

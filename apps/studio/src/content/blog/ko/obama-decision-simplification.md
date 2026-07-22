@@ -54,7 +54,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">나만의 '기본 템플릿(Uniform)' 공식 구축</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    스티브 잡스처럼 완벽히 똑같은 유니폼을 매일 입을 필요는 없지만, 일상에서 입었을 때 가장 무난하고 편안한 나만의 코디 조합을 2~3가지 템플릿으로 공식화해 둡니다. 아침에 거울 앞에서 고민하는 시간을 원천 봉쇄할 수 있습니다.
+    스티브 잡스처럼 완벽히 똑같은 유니폼을 매일 입을 필요는 없지만, 일상에서 입었을 때 가장 무난하고 편안한 나만의 코디 조합을 -가지 템플릿으로 공식화해 둡니다. 아침에 거울 앞에서 고민하는 시간을 원천 봉쇄할 수 있습니다.
   </p>
 </div>
 

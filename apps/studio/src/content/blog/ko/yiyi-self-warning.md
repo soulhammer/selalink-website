@@ -54,7 +54,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">나만의 핵심 행동 강령(자경문) 작성</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    집중력, 시간 관리, 태도 등 평소 개선하고 싶거나 지키고 싶은 나만의 핵심적인 수양 수칙 3~5가지를 나만의 언어로 명확하고 구체적으로 작성해 둡니다.
+    집중력, 시간 관리, 태도 등 평소 개선하고 싶거나 지키고 싶은 나만의 핵심적인 수양 수칙 -가지를 나만의 언어로 명확하고 구체적으로 작성해 둡니다.
   </p>
 </div>
 
@@ -74,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">하루의 끝, 일과 비교 분석 및 피드백 기록</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    잠자리에 들기 전 아침에 선언한 원칙들을 오늘 얼마나 잘 지켰는지 짧게 회고하고, 부족했던 점과 내일 보완할 사항을 1~2줄로 일지 앱이나 수첩에 기록합니다.
+    잠자리에 들기 전 아침에 선언한 원칙들을 오늘 얼마나 잘 지켰는지 짧게 회고하고, 부족했던 점과 내일 보완할 사항을 -줄로 일지 앱이나 수첩에 기록합니다.
   </p>
 </div>
 

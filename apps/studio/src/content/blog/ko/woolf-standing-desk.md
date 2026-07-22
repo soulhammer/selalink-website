@@ -71,7 +71,7 @@ authority: "버지니아 울프 일기 및 Applied Ergonomics 스탠딩 데스�
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">체중을 고르게 분산하고 바른 자세 유지하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    서 있을 때 한쪽 다리에만 체중을 싣는 '짝다리' 자세를 피하고, 양발에 균등하게 힘을 줍니다. 어깨와 가슴을 활짝 펴고 모니터 상단을 시선과 일치시켜 목에 가해지는 압박을 분산합니다. 30~50분 몰입 후에는 10분간 앉거나 가볍게 스트레칭을 해줍니다.
+    서 있을 때 한쪽 다리에만 체중을 싣는 '짝다리' 자세를 피하고, 양발에 균등하게 힘을 줍니다. 어깨와 가슴을 활짝 펴고 모니터 상단을 시선과 일치시켜 목에 가해지는 압박을 분산합니다. -분 몰입 후에는 10분간 앉거나 가볍게 스트레칭을 해줍니다.
   </p>
 </div>
 

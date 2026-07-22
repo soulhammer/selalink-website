@@ -64,7 +64,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">하나의 미세 생태계 관찰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    바위 틈의 작은 이끼, 화단의 잎맥, 흙바닥 위의 개미의 이동 등 미세한 자연 요소 중 하나를 선정하여 돋보기를 보듯 5~10분간 유심히 바라보며 관찰에 완전히 몰입합니다.
+    바위 틈의 작은 이끼, 화단의 잎맥, 흙바닥 위의 개미의 이동 등 미세한 자연 요소 중 하나를 선정하여 돋보기를 보듯 -분간 유심히 바라보며 관찰에 완전히 몰입합니다.
   </p>
 </div>
 
@@ -74,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아웃도어 노트 일지 작성</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    준비한 종이 수첩에 자신이 관찰한 자연물의 세부 특징(모양, 색체 변화, 촉감, 움직임의 속도 등)을 2~3문장으로 사실적이고 세밀하게 글로 옮겨 적거나, 가벼운 스케치로 묘사합니다.
+    준비한 종이 수첩에 자신이 관찰한 자연물의 세부 특징(모양, 색체 변화, 촉감, 움직임의 속도 등)을 -문장으로 사실적이고 세밀하게 글로 옮겨 적거나, 가벼운 스케치로 묘사합니다.
   </p>
 </div>
 
@@ -105,7 +105,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      반드시 울창한 숲이나 바다일 필요는 없습니다. 집 근처 화단의 잡초, 아파트 주변의 가로수 잎사귀, 혹은 하늘의 구름이나 비행하는 조류(비둘기, 참새 등)의 깃털 모양을 돋보기나 스마트폰 카메라 줌을 사용해 2~3분간 집중해서 정밀하게 쳐다보고 기술하는 것만으로도 자연 결핍 장애를 치유하고 두뇌 피로를 씻어낼 수 있습니다.
+      반드시 울창한 숲이나 바다일 필요는 없습니다. 집 근처 화단의 잡초, 아파트 주변의 가로수 잎사귀, 혹은 하늘의 구름이나 비행하는 조류(비둘기, 참새 등)의 깃털 모양을 돋보기나 스마트폰 카메라 줌을 사용해 -분간 집중해서 정밀하게 쳐다보고 기술하는 것만으로도 자연 결핍 장애를 치유하고 두뇌 피로를 씻어낼 수 있습니다.
     </p>
   </details>
 

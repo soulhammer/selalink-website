@@ -49,7 +49,7 @@ authority: "윌리엄 헌돈 저 '링컨의 생애' 및 인지심리학 연구(M
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">지적 밀도가 높은 텍스트와 독립된 공간 준비</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    아침에 읽을 만한 깊이 있는 인문학 도서나 보고서 등을 1~2문단 분량으로 준비합니다. 타인의 눈치를 보지 않고 목소리를 편안하게 낼 수 있는 조용한 방이나 개인 서재 같은 독립된 공간을 활용합니다.
+    아침에 읽을 만한 깊이 있는 인문학 도서나 보고서 등을 -문단 분량으로 준비합니다. 타인의 눈치를 보지 않고 목소리를 편안하게 낼 수 있는 조용한 방이나 개인 서재 같은 독립된 공간을 활용합니다.
   </p>
 </div>
 

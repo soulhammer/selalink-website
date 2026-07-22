@@ -74,7 +74,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">뇌 혈류 집중 및 깊은 호흡</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    그 상태에서 눈을 부드럽게 감고, 머리 쪽에 따뜻하게 모이는 혈액의 온도와 중력 역전의 느낌에 온 주의를 집중합니다. 어깨와 목을 쥐어짜지 말고 이완하며 1~3분간 천천히 복식 호흡을 유지한 후 복귀합니다.
+    그 상태에서 눈을 부드럽게 감고, 머리 쪽에 따뜻하게 모이는 혈액의 온도와 중력 역전의 느낌에 온 주의를 집중합니다. 어깨와 목을 쥐어짜지 말고 이완하며 -분간 천천히 복식 호흡을 유지한 후 복귀합니다.
   </p>
 </div>
 
@@ -115,7 +115,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      초보자의 경우 30초에서 1분으로 시작하는 것이 좋습니다. 숙련되더라도 3~5분을 넘기지 않는 것이 뇌혈관에 과도한 압력을 가하지 않고 부작용을 예방하면서 이상적인 신경 조절 혜택(HPA 축 안정화 및 뇌 혈류 정화)을 얻는 비결입니다.
+      초보자의 경우 30초에서 1분으로 시작하는 것이 좋습니다. 숙련되더라도 -분을 넘기지 않는 것이 뇌혈관에 과도한 압력을 가하지 않고 부작용을 예방하면서 이상적인 신경 조절 혜택(HPA 축 안정화 및 뇌 혈류 정화)을 얻는 비결입니다.
     </p>
   </details>
 </div>

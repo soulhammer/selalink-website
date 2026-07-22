@@ -87,7 +87,7 @@ faqs:
   <div>
     <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">에틸렌 방출 과일과 같이 두지 마세요 ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      브로콜리는 에틸렌 가스에 매우 민감한 채소입니다. 사과, 멜론, 토마토 등과 밀폐된 냉장고 안에서 맞닿아 있으면 브로콜리의 봉오리가 노랗게 변하는 숙성이 2~3배 빨라집니다. 가급적 칸을 분리해 멀리 떨어뜨려 놓아야 합니다.
+      브로콜리는 에틸렌 가스에 매우 민감한 채소입니다. 사과, 멜론, 토마토 등과 밀폐된 냉장고 안에서 맞닿아 있으면 브로콜리의 봉오리가 노랗게 변하는 숙성이 -배 빨라집니다. 가급적 칸을 분리해 멀리 떨어뜨려 놓아야 합니다.
     </p>
   </div>
 </div>

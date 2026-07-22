@@ -74,7 +74,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 수온 25~28도 점검 및 영양 균형 사료 공급</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 수온 -도 점검 및 영양 균형 사료 공급</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     거북이의 대사 작용 활성화를 돕기 위해 온도계 수온을 체크하고 전용 거북이 사료와 영양 사료를 소량 나누어 급여합니다.

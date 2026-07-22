@@ -66,7 +66,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2분에서 3분간의 찬물 족욕</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    의자나 침대 가장자리에 편안하게 걸터앉아 양발을 찬물에 푹 담급니다. 몸의 긴장을 풀고 천천히 심호흡에 집중합니다. 2~3분의 짧은 시간만으로도 심장에 무리 없이 말초 신경을 강하게 깨우기에 충분합니다.
+    의자나 침대 가장자리에 편안하게 걸터앉아 양발을 찬물에 푹 담급니다. 몸의 긴장을 풀고 천천히 심호흡에 집중합니다. -분의 짧은 시간만으로도 심장에 무리 없이 말초 신경을 강하게 깨우기에 충분합니다.
   </p>
 </div>
 

@@ -46,7 +46,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침 기상 직후 낭독할 짧은 명언이나 고전 텍스트 선정하기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    전날 밤에 미리 아침에 낭독할 1~2문장 내외의 깊이 있는 텍스트나 격언을 책상 위에 준비해 둡니다. 뉴스나 일상적인 글 대신 인지적 사색을 돕는 밀도 높은 문장이 좋습니다.
+    전날 밤에 미리 아침에 낭독할 -문장 내외의 깊이 있는 텍스트나 격언을 책상 위에 준비해 둡니다. 뉴스나 일상적인 글 대신 인지적 사색을 돕는 밀도 높은 문장이 좋습니다.
   </p>
 </div>
 

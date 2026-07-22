@@ -52,7 +52,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">데일리 정보 축약 카드 작성</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    공부나 연구 중 습득한 아티클, 과학 사실 등을 가로세로 10cm 크기의 아날로그 메모지나 디지털 노트에 요약하여 핵심 단어 2~3개와 출처를 짧게 기입합니다.
+    공부나 연구 중 습득한 아티클, 과학 사실 등을 가로세로 10cm 크기의 아날로그 메모지나 디지털 노트에 요약하여 핵심 단어 -개와 출처를 짧게 기입합니다.
   </p>
 </div>
 
@@ -72,7 +72,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">주 1회 카드 융합 복기</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    주말이나 특정 시간에 스크랩해 둔 카드를 서랍에서 임의로 5~6장 꺼내어 다시 읽고, 무관해 보이는 정보들을 결합하여 생각의 시너지를 만들거나 실질적인 집필에 출력합니다.
+    주말이나 특정 시간에 스크랩해 둔 카드를 서랍에서 임의로 -장 꺼내어 다시 읽고, 무관해 보이는 정보들을 결합하여 생각의 시너지를 만들거나 실질적인 집필에 출력합니다.
   </p>
 </div>
 

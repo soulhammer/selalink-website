@@ -62,7 +62,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">취침 전 핵심 1문장 요약 필사</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    잠자기 직전 2~3분 동안, 오늘 학습한 핵심 개념이나 내일 아침 가장 먼저 기억해야 할 우선 과제 1문장을 손글씨로 짧게 받아 적고 잠듭니다.
+    잠자기 직전 -분 동안, 오늘 학습한 핵심 개념이나 내일 아침 가장 먼저 기억해야 할 우선 과제 1문장을 손글씨로 짧게 받아 적고 잠듭니다.
   </p>
 </div>
 

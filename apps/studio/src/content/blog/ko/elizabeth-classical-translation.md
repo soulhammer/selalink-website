@@ -56,7 +56,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">라틴어 또는 타겟 고전 텍스트 선정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 3~4문장의 실물 자료를 선정하여 아침 책상에 올려둡니다.
+    단순히 회화를 넘어서, 문장 구조가 정밀하고 복잡한 철학서, 명언집, 영문 명문 등 -문장의 실물 자료를 선정하여 아침 책상에 올려둡니다.
   </p>
 </div>
 
