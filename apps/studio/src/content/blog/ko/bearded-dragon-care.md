@@ -11,20 +11,20 @@ formatVersion: 4
 tags: ["비어디드래곤","파충류칼슘급여","UVB조명관리","MBD골질환예방"]
 faqs:
   - question: "UVB 램프는 얼마나 자주 교체해야 하나요?"
-    answer: "UVB 램프는 빛이 켜져 있더라도 수명이 지나면 자외선 방출량이 현저히 줄어듭니다. 시각적 점등 여부와 관계없이 보통 -개월 주기로 교체해 주어야 합니다."
+    answer: "UVB 램프는 빛이 켜져 있더라도 수명이 지나면 자외선 방출량이 현저히 줄어듭니다. 시각적 점등 여부와 관계없이 보통 6~12개월 주기로 교체해 주어야 합니다."
   - question: "대사성 골질환(MBD)의 초기 신호는 무엇인가요?"
     answer: "턱뼈가 말랑해지거나 다리 관절 부종, 근육 떨림, 걸을 때 힘없이 미끄러지는 현상 등이 초기 증상입니다. 이를 발견하면 즉시 조명 설비를 보강하고 전문 수의사의 질료를 받아야 합니다."
 ---
 
 온순한 성격과 호기심 어린 표정 덕분에 비어디 드래곤은 전 세계적으로 가장 사랑받는 반려 파충류 중 하나입니다. 그러나 변온동물인 파충류는 스스로 체온을 조절하지 못하고 외부 열원과 UVB(중파장 자외선) 조명 아래에서만 먹이를 소화하고 비타민 D3를 합성해 칼슘을 흡수할 수 있습니다. 적절한 일광욕 구역과 UVB 공급이 부족하면 뼈가 약해지고 마비가 오는 대사성 골질환(MBD)에 걸리기 쉽습니다. 오늘 PetSelf에서는 비어디 드래곤의 사회적 행동 신호를 분석하고, 뼈 건강을 지키는 3단계 칼슘-조명 일상 루틴을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>양서파충류수의학회(ARAV) 사육 가이드라인 및 파충류 임상 표준 수의 행동학</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -77,7 +77,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 일광욕 열원 및 UVB 램프 가동</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    스팟 열원과 UVB 등을 켭니다. 일광욕 지점(바스킹 스팟) 온도가 -°C에 도달해 소화를 위한 체온 상승을 돕습니다.
+    스팟 열원과 UVB 등을 켭니다. 일광욕 지점(바스킹 스팟) 온도가 35~40°C에 도달해 소화를 위한 체온 상승을 돕습니다.
   </p>
 </div>
 
@@ -119,17 +119,17 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>UVB 램프는 얼마나 자주 교체해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      UVB 램프는 빛이 켜져 있더라도 수명이 지나면 자외선 방출량이 현저히 줄어듭니다. 시각적 점등 여부와 관계없이 보통 -개월 주기로 교체해 주어야 합니다.
+      UVB 램프는 빛이 켜져 있더라도 수명이 지나면 자외선 방출량이 현저히 줄어듭니다. 시각적 점등 여부와 관계없이 보통 6~12개월 주기로 교체해 주어야 합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>대사성 골질환(MBD)의 초기 신호는 무엇인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

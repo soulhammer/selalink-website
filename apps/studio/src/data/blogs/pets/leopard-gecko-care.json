@@ -1,0 +1,521 @@
+{
+  "leopard-gecko-care": {
+    "pubDate": "2026-03-01",
+    "updatedDate": "2026-03-01",
+    "locales": {
+      "ko": {
+        "title": "레오파드 게코의 꼬리 신호와 올바른 탈피를 돕는 3단계 데일리 케어",
+        "description": "입문용 반려 파충류 1위 레오파드 게코. 꼬리 흔들기 감정 신호와 은신처 습도 관리를 통한 완벽 탈피, 핫존/쿨존 온습도 3단계 케어를 정리합니다.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines",
+        "profile": {
+          "breed": "레오파드 게코 (Leopard Gecko)",
+          "lifespan": "15 ~ 20년",
+          "sleep_pattern": "12 ~ 14시간 (주간 사막 은신처 수면 / 야행성)",
+          "temperament": "온순함, 느긋함, 독자적, 보수적 환경 선호"
+        },
+        "intro": "특유의 웃는 듯한 얼굴과 표범 무늬 꼬리를 가진 레오파드 게코(Leopard Gecko)는 온순하고 수명이 긴 대표적 파충류 반려동물입니다. 파충류 및 양서류 수의사회(ARAV)의 권고에 따르면, 레오파드 게코는 체온 조절을 외부 열원에 의존하는 변온동물이므로 사육장 내 핫존(Hot Zone 30°C ~ 32°C)과 쿨존(Cool Zone 24°C ~ 26°C)의 명확한 경계 및 탈피용 습성 은신처(Wet Cave) 유지가 생존의 핵심입니다.",
+        "whyTitle": "레오파드 게코의 신체 언어: 꼬리 흔들기와 탈피 전조 신호",
+        "whyDesc": "게코의 통통한 꼬리는 영양 저장소이자 감정의 표현 장치입니다. 천천히 꼬리를 파도치듯 흔드는 행동과 사냥 시 꼬리 끝을 기분 좋게 털어대는 시그널을 구분할 수 있어야 합니다.",
+        "body_signals": [
+          {
+            "name": "꼬리를 높이 들고 천천히 좌우로 흔듦 (Slow Tail Waving)",
+            "meaning": "위협을 느끼거나 낯선 개체를 경계하며 '나도 공격할 수 있다'는 신호를 보내는 강한 경계 상태입니다.",
+            "response": "핸들링을 즉시 중단하고 손을 천천히 밖으로 빼며 게코가 안정을 찾을 때까지 자극하지 않습니다."
+          },
+          {
+            "name": "몸 색이 하얗게 뜨고 눈을 자주 비빔 (Pre-Shedding Signal)",
+            "meaning": "묵은 허물을 벗겨내기 위한 탈피(Shedding) 직전 단계로, 피부가 건조해지고 민감해진 상태입니다.",
+            "response": "습성 은신처의 습지를 촉촉하게 적셔주고 탈피 부전이 생기지 않도록 습도를 70% 이상 올려줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 핫존/쿨존 온도계 확인 및 습성 은신처 수분 분무",
+            "text": "하부 히팅 매트 온도(30°C ~ 32°C)를 점검하고 습성 은신처 내부 키친타월/수태에 온수를 촉촉하게 분무합니다."
+          },
+          {
+            "name": "낮: 정적 유지를 통한 주간 야행성 수면 환경 보장",
+            "text": "직사광선을 피하고 낮 동안 깊은 수면을 취할 수 있도록 조용하고 어두운 은신처 상태를 유지합니다."
+          },
+          {
+            "name": "저녁: 살아있는 곤충(귀뚜라미/밀웜) 칼슘 다스팅 급여 및 배설물 치우기",
+            "text": "칼슘제(D3 포함/미포함 교대)를 묻힌 먹이를 핀셋으로 급여하고 바닥재의 배설물을 즉시 치웁니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "발가락 끝에 흰 허물이 남아있는데 직접 떼어줘도 되나요?",
+            "answer": "발가락에 남은 탈피 껍질을 방치하면 괴사할 수 있습니다. 따뜻한 물(30°C)에 5분간 온수욕을 시킨 뒤 젖은 면봉으로 살살 문질러 제거해 주세요."
+          },
+          {
+            "question": "꼬리가 갑자기 얇아졌는데 질병인가요?",
+            "answer": "게코의 꼬리는 영양분과 지방의 저장소입니다. 꼬리가 급격히 얇아진다면 거식증, 거식 거품, 혹은 거대 파라사이트 감염일 수 있으니 수의사 진료가 필요합니다."
+          }
+        ],
+        "tags": [
+          "레오파드게코",
+          "파충류케어",
+          "게코탈피",
+          "ARAV지침",
+          "파충류사육"
+        ]
+      },
+      "en": {
+        "title": "Leopard Gecko Tail Communication and 3-Step Care Routine for Safe Shedding",
+        "description": "Comprehensive care guide for Leopard Geckos. Learn to decode tail-waving defensive signals, manage humid hides for shedding, and structure ARAV thermal zones.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines",
+        "profile": {
+          "breed": "Leopard Gecko",
+          "lifespan": "15 - 20 Years",
+          "sleep_pattern": "12 - 14 Hours (Nocturnal Desert Hide Sleep)",
+          "temperament": "Docile, Calm, Solitary, Sensitive to Environment"
+        },
+        "intro": "With their smiling expressions and distinctive spotted tails, Leopard Geckos are the premier choice for reptile companion keepers. According to ARAV guidelines, as ectothermic creatures dependent on external heat sources, establishing a precise thermal gradient (Hot Zone 30°C ~ 32°C / Cool Zone 24°C ~ 26°C) and maintaining a humid hide (Wet Cave) is fundamental to their survival.",
+        "whyTitle": "Leopard Gecko Body Language: Deciphering Tail Movements and Pre-Shedding Clues",
+        "whyDesc": "A gecko's plump tail is both a vital fat reservoir and a primary communication instrument. Distinguishing between slow, defensive tail waving and joyful tail wiggles during feeding prevents unnecessary handling stress.",
+        "body_signals": [
+          {
+            "name": "Tail Elevated & Waved Slowly in S-Curves (Slow Tail Waving)",
+            "meaning": "A high-alert defensive posture indicating the gecko feels threatened or startled by a predator signal.",
+            "response": "Immediately halt handling, withdraw your hand slowly, and allow the gecko to retreat into its shelter undisturbed."
+          },
+          {
+            "name": "Skin Becoming Dull White & Eye Rubbing (Pre-Shedding Signal)",
+            "meaning": "The imminent onset of shedding (ecdysis); old keratin layers are loosening and require high humidity.",
+            "response": "Generously mist moss or paper towels inside the humid hide with warm water to raise local humidity above 70%."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Thermal Gradient Inspection & Humid Hide Warm Misting",
+            "text": "Verify under-tank heat mat temperatures (30°C ~ 32°C) and mist the humid hide substrate with warm water."
+          },
+          {
+            "name": "Afternoon: Daytime Quietness & Shielded Hide Darkness Maintenance",
+            "text": "Avoid direct sunlight and loud environmental vibrations to ensure deep, undisturbed nocturnal rest during daylight hours."
+          },
+          {
+            "name": "Evening: Tongs Feeding with Dusted Live Insects & Spot Cleaning",
+            "text": "Feed gut-loaded crickets or mealworms dusted with calcium (alternating D3 supplements) using tongs, and immediately remove waste from substrate."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How should I safely handle stuck shed skin remaining on toe tips?",
+            "answer": "Retained toe shed can constrict blood circulation and lead to toe necrosis. Soak the feet in a shallow warm water bath (30°C) for 5 minutes, then roll off skin gently using a damp cotton swab."
+          },
+          {
+            "question": "What does it mean if my Leopard Gecko's tail suddenly thins out?",
+            "answer": "A gecko's tail stores nutrient fat reserves. Rapid tail thinning indicates anorexia, severe stress, or gastrointestinal parasite infection requiring immediate ARAV vet diagnosis."
+          }
+        ],
+        "tags": [
+          "Leopard Gecko",
+          "Reptile Care",
+          "Shedding Guide",
+          "ARAV Standards",
+          "Terrarium Maintenance"
+        ]
+      },
+      "ja": {
+        "title": "ヒョウモントカゲモドキの尾サインと脱皮不全を防ぐ3ステップデイリーケア",
+        "description": "人気のヒョウモントカゲモドキ(レオパ)。しっぽの警戒サイン解読、脱皮不全を防ぐ湿性シェルター管理、ARAV基準の温度勾配を解説します。",
+        "authority": "爬虫類・両生類獣医師協会 (ARAV) 飼育ガイドライン",
+        "profile": {
+          "breed": "ヒョウモントカゲモドキ (Leopard Gecko)",
+          "lifespan": "15 - 20年",
+          "sleep_pattern": "12 - 14時間 (夜行性・シェルター睡眠)",
+          "temperament": "温厚、マイペース、単独飼育向き、環境に繊細"
+        },
+        "intro": "微笑んでいるような表情とヒョウ柄のしっぽが魅力のヒョウモントカゲモドキ（レオパ）は、最も親しまれているペット用爬虫類です。ARAV（爬虫類・両生類獣医師協会）の指針に従い、外部熱源に依存する変温動物として、ケージ内にホットゾーン（30°C ~ 32°C）とクールゾーン（24°C ~ 26°C）の温度勾配を作り、脱皮用の湿性シェルター（Wet Cave）を維持することが健康維持の根幹です。",
+        "whyTitle": "ヒョウモントカゲモドキのボディランゲージ：しっぽの動きと脱皮前兆の解読",
+        "whyDesc": "ぷっくりとした尾は栄養の貯蔵庫であり、感情を伝えるアンテナです。威嚇のためのゆっくりとした尾振りと、給餌時の喜びの振りを区別することが重要です。",
+        "body_signals": [
+          {
+            "name": "尾を高く上げてゆっくり左右に振る (Slow Tail Waving)",
+            "meaning": "強い警戒を感じ、「攻撃するぞ」と相手を威嚇している緊急警戒状態です。",
+            "response": "ハンドリングを直ちに中止し、手をゆっくり引き、トカゲが落ち着くまで静かに見守ります。"
+          },
+          {
+            "name": "体色が白くくすみ目をこする (Pre-Shedding Signal)",
+            "meaning": "古い皮が剥がれ始める脱皮直前のサインで、皮膚が乾燥し非常に繊細になっています。",
+            "response": "湿性シェルター内の水苔やキッチンペーパーをぬるま湯で湿らせ、湿度を70%以上に高めます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：温度勾配の確認と湿性シェルターの給水",
+            "text": "パネルヒーターの温度（30°C ~ 32°C）を確認し、湿性シェルターにぬるま湯をスプレーして湿度を保ちます。"
+          },
+          {
+            "name": "昼：静かな環境での昼間睡眠の確保",
+            "text": "直射日光を避け、暗く静かな環境を保ち、夜行性の睡眠を妨げないようにします。"
+          },
+          {
+            "name": "夜：カルシウムをまぶした給餌とフンの清掃",
+            "text": "カルシウムパウダーをまぶしたコオロギ等をピンセットで与え、床材の排泄物を速やかに清掃します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "指先に脱皮ガラが残っている時はどうすればいいですか？",
+            "answer": "指の皮が残ると血流が止まり壊死する恐れがあります。ぬるま湯(30°C)で5分温浴させ、濡らした綿棒で優しく取り除いてください。"
+          },
+          {
+            "question": "しっぽが急に細くなってきたのは病気ですか？",
+            "answer": "しっぽは脂肪の蓄積場所です。急激に細くなる場合は拒食、ストレス、寄生虫感染の可能性があるため獣医師の診察が必要です。"
+          }
+        ],
+        "tags": [
+          "ヒョウモントカゲモドキ",
+          "レオパ",
+          "爬虫類の飼い方",
+          "脱皮不全予防",
+          "ARAV基準"
+        ]
+      },
+      "zh": {
+        "title": "豹纹守宫尾部语言与辅助顺畅蜕皮 responses 3步日常护理",
+        "description": "首选伴侣爬宠豹纹守宫护理全攻略。解读摇尾警戒信号、湿藏避难所管理与ARAV标准的冷热温区建立。",
+        "authority": "国际两栖爬行动物兽医协会 (ARAV) 护理指南",
+        "profile": {
+          "breed": "豹纹守宫 (Leopard Gecko)",
+          "lifespan": "15 - 20年",
+          "sleep_pattern": "12 - 14小时 (夜行性、躲避穴睡眠)",
+          "temperament": "温顺、安静、喜独居、环境敏感"
+        },
+        "intro": "豹纹守宫（Leopard Gecko）因其微笑般的面容和斑斓的尾巴而深受全球爬宠爱好者喜爱。遵照ARAV权威指南，作为依赖外部热源的变温动物，饲养缸内必须建立清晰的热区（30°C ~ 32°C）与冷区（24°C ~ 26°C），并提供湿躲避（Wet Cave）以防蜕皮不畅，这是保证其生存的关键。",
+        "whyTitle": "豹纹守宫的肢体语言：摇尾警戒与蜕皮前兆解密",
+        "whyDesc": "守宫肥硕的尾巴既是营养脂肪仓库也是重要的情绪表达器官。分清缓慢S型摇尾防卫与捕食时兴奋抖尾的区别，能有效避免应激。",
+        "body_signals": [
+          {
+            "name": "尾巴高举并缓慢S型摆动 (Slow Tail Waving)",
+            "meaning": "感到受威胁或受惊，发出的防御性警告信号，表示‘我也具有攻击性’。",
+            "response": "立即停止上手，缓慢收回手部，让守宫自行回到躲避穴中恢复平静。"
+          },
+          {
+            "name": "全身体色发白发雾并频繁擦眼 (Pre-Shedding Signal)",
+            "meaning": "旧角质皮即脱落的蜕皮（Shedding）前兆，皮肤非常敏感干燥。",
+            "response": "向湿躲避内的水苔或湿纸巾喷洒温水，保持局部高湿度达70%以上。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：温区检查与湿躲避喷雾加湿",
+            "text": "检查加热垫温度（30°C ~ 32°C），确保湿躲避内垫材湿润。"
+          },
+          {
+            "name": "下午：保持环境安静保障日间睡眠",
+            "text": "避免阳光直射与剧烈震动，确保其白天暗处安心休眠。"
+          },
+          {
+            "name": "夜晚：沾取钙粉活体喂食与清理排泄物",
+            "text": "用镊子夹取裹有钙粉的蟋蟀或面包虫喂食，并及时清理垫材上的粪便。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "脚趾上残留旧皮应该如何安全处理？",
+            "answer": "脚趾残皮会导致血液循环受阻发生坏死。可用30°C温水浸泡5 - 10分钟，再用湿棉签轻轻滚擦剥离。"
+          },
+          {
+            "question": "豹纹守宫尾巴突然变细预示着什么？",
+            "answer": "守宫尾巴储存着营养脂肪。尾巴快速变细可能预示拒食、严重应激或肠道寄生虫感染，需立即请兽医诊治。"
+          }
+        ],
+        "tags": [
+          "豹纹守宫",
+          "爬宠护理",
+          "蜕皮管理",
+          "ARAV指南",
+          "温区建立"
+        ]
+      },
+      "es": {
+        "title": "Lenguaje de la Cola del Gecko Leopardo y Rutina de 3 Pasos para una Muda Sana",
+        "description": "Guía completa de cuidado para el Gecko Leopardo. Interpreta el movimiento defensivo de su cola, gestiona cuevas húmedas y ajusta las zonas térmicas ARAV.",
+        "authority": "Asociación de Veterinarios de Reptiles y Anfibios (ARAV) Guías de Cuidado",
+        "profile": {
+          "breed": "Gecko Leopardo (Leopard Gecko)",
+          "lifespan": "15 - 20 años",
+          "sleep_pattern": "12 - 14 horas (Nocturno, refugio en cueva)",
+          "temperament": "Dócil, tranquilo, solitario, sensible"
+        },
+        "intro": "El Gecko Leopardo es el reptil doméstico más popular del mundo. Según la ARAV, al ser un animal ectotérmico que depende de fuentes externas de calor, mantener una gradación térmica correcta (Zona Caliente 30°C ~ 32°C / Zona Fría 24°C ~ 26°C) y una cueva húmeda para la muda es vital para su supervivencia.",
+        "whyTitle": "Lenguaje Corporal del Gecko: Movimientos de Cola y Muda de Piel",
+        "whyDesc": "Su cola regordeta es una reserva de grasa y una herramienta de comunicación. Diferenciar el balanceo lento defensivo de la agitación alegre durante la caza previene el estrés.",
+        "body_signals": [
+          {
+            "name": "Balanceo Lento de Cola en Forma de 'S' (Slow Tail Waving)",
+            "meaning": "Señal de advertencia defensiva de alta alerta cuando se siente amenazado o asustado.",
+            "response": "Detén la manipulación de inmediato, retira la mano despacio y deja que se refugie."
+          },
+          {
+            "name": "Piel Pálida Blanquecina y Frotado de Ojos (Pre-Shedding Signal)",
+            "meaning": "Inicio del proceso de muda de piel; las capas viejas se desprenden y requieren alta humedad.",
+            "response": "Pulveriza agua tibia en la cueva húmeda para elevar la humedad por encima del 70%."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control Térmico e Humidificación de Cueva",
+            "text": "Comprueba la temperatura de la manta térmica (30°C ~ 32°C) e humedece el sustrato de la cueva."
+          },
+          {
+            "name": "Tarde: Entorno Tranquilo para Descanso Diurno",
+            "text": "Evita luces directas y ruidos fuertes para respetar su ciclo de sueño nocturno."
+          },
+          {
+            "name": "Noche: Alimentación con Calcio e Higiene del Sustrato",
+            "text": "Alimenta con insectos espolvoreados con calcio mediante pinzas y limpia las heces."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Qué hacer si queda piel retenida en las puntas de los dedos?",
+            "answer": "La piel retenida corta la circulación y causa necrosis. Báñalo en agua tibia (30°C) durante 5 minutos y retírala suavemente con un bastoncillo húmedo."
+          },
+          {
+            "question": "¿Por qué la cola de mi gecko se ha vuelto delgada de repente?",
+            "answer": "La cola almacena grasa nutriente. Su adelgazamiento rápido indica anorexia, estrés severo o parásitos intestinales que requieren atención veterinaria."
+          }
+        ],
+        "tags": [
+          "Gecko Leopardo",
+          "Reptiles",
+          "Cuidados de Mascotas",
+          "Muda de Piel",
+          "Normas ARAV"
+        ]
+      },
+      "fr": {
+        "title": "Signaux de Queue du Gecko Léopard et Routine en 3 Étapes pour une Mue Réussie",
+        "description": "Guide complet pour le Gecko Léopard. Décodez le mouvement défensif de la queue, gérez la cachette humide et organisez le gradient thermique ARAV.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV)",
+        "profile": {
+          "breed": "Gecko Léopard (Leopard Gecko)",
+          "lifespan": "15 - 20 ans",
+          "sleep_pattern": "12 - 14 heures (Nocturne, sommeil en cachette)",
+          "temperament": "Docile, calme, solitaire, sensible"
+        },
+        "intro": "Le Gecko Léopard est le reptile préféré des passionnés. Suivant les normes ARAV, en tant qu'animal ectotherme, établir un gradient thermique strict (Point Chaud 30°C ~ 32°C / Point Frais 24°C ~ 26°C) et maintenir une boîte à mue humide (Wet Cave) est indispensable.",
+        "whyTitle": "Langage Corporel: Mouvement de Queue et Indices de Mue",
+        "whyDesc": "Sa queue charnue sert de réserve de graisse et d'organe de communication. Distinguer l'ondulation lente défensive du frétillement lors de la chasse évite le stress.",
+        "body_signals": [
+          {
+            "name": "Ondulation Lente de la Queue en S (Slow Tail Waving)",
+            "meaning": "Avertissement défensif; le gecko se sent menacé ou surpris par un prédateur.",
+            "response": "Cessez toute manipulation, retirez la main lentement et laissez-le se cacher."
+          },
+          {
+            "name": "Peau Blanchâtre et Frottement des Yeux (Pre-Shedding Signal)",
+            "meaning": "Début du processus de mue (ecdysis); la peau a besoin d'une forte humidité.",
+            "response": "Vaporisez de l'eau tiède sur la mousse de la cachette humide pour dépasser 70% d'humidité."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin: Contrôle de Température & Vaporisation Humide",
+            "text": "Contrôlez le point chaud (30°C ~ 32°C) et vaporisez la cachette humide."
+          },
+          {
+            "name": "Après-midi: Repos Diurne Calme dans l'Obscurité",
+            "text": "Garantissez l'obscurité et le calme pour respecter son sommeil nocturne."
+          },
+          {
+            "name": "Soir: Repas Enrichi en Calcium à la Pince & Nettoyage",
+            "text": "Donnez des insectes saupoudrés de calcium à la pince et retirez les déjections."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Que faire en cas de reste de mue bloqué sur les doigts ?",
+            "answer": "Le reste de mue peut couper la circulation. Faites un bain d'eau tiède (30°C) de 5 minutes et retirez délicatement la peau avec un coton-tige mouillé."
+          },
+          {
+            "question": "Pourquoi la queue de mon gecko s'amincit-elle rapidement ?",
+            "answer": "La queue stocke les réserves de graisse. Un amincissement rapide indique une anorexie, un stress intense ou une maladie parasitaire nécessitant un vétérinaire."
+          }
+        ],
+        "tags": [
+          "Gecko Léopard",
+          "Reptiles",
+          "Soins Terrario",
+          "Mue",
+          "Normes ARAV"
+        ]
+      },
+      "de": {
+        "title": "Leopardgecko-Schwanzsignale und 3-Schritte-Routine für eine sichere Häutung",
+        "description": "Pflegeanleitung für Leopardgeckos. Schwanzbewegungen verstehen, Feuchthöhlen pflegen und ARAV-Temperaturzonen korrekt einstellen.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV)",
+        "profile": {
+          "breed": "Leopardgecko (Leopard Gecko)",
+          "lifespan": "15 - 20 Jahre",
+          "sleep_pattern": "12 - 14 Stunden (Nachtaktiv, Höhlenruhe)",
+          "temperament": "Friedlich, ruhig, einzelgängerisch, sensibel"
+        },
+        "intro": "Der Leopardgecko ist das beliebteste Heimreptil. Gemäß ARAV-Richtlinien sind ein klares Temperaturgefälle (Warmzone 30°C ~ 32°C / Kaltzone 24°C ~ 26°C) und eine feuchte Häutungshöhle (Wet Cave) lebenswichtig für diese wechselwarmen Tiere.",
+        "whyTitle": "Körpersprache: Schwanzwedeln & Häutungssignale Verstehen",
+        "whyDesc": "Der dicke Schwanz dient als Fett-Speicher und Kommunikationsmittel. Unterscheiden Sie langsames Abwehr-Wedeln von freudigem Wackeln bei der Jagd.",
+        "body_signals": [
+          {
+            "name": "Langsames S-förmiges Schwanzwedeln (Slow Tail Waving)",
+            "meaning": "Starke Abwehrreaktion bei Bedrohung oder Schreck vor Fressfeinden.",
+            "response": "Handhabung sofort stoppen, Hand langsam zurückziehen und den Gecko in Ruhe lassen."
+          },
+          {
+            "name": "Matte, weißliche Haut & Augenreiben (Pre-Shedding Signal)",
+            "meaning": "Bevorstehende Häutung; alte Hautschichten lösen sich und brauchen hohe Feuchtigkeit.",
+            "response": "Feuchthöhle gründlich mit warmem Wasser einsprühen, um über 70% Luftfeuchtigkeit zu erreichen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Temperaturkontrolle & Höhle Befeuchten",
+            "text": "Wärmematte (30°C ~ 32°C) prüfen und das Substrat der Feuchthöhle besprühen."
+          },
+          {
+            "name": "Nachmittag: Ungestörte Tagruhe im Dunkeln Gewährleisten",
+            "text": "Direktes Sonnenlicht und Vibrationen vermeiden, um den Schlaf nicht zu stören."
+          },
+          {
+            "name": "Abend: Kalziumfütterung mit der Pinzette & Kot Entfernen",
+            "text": "Bestäubte Insekten per Pinzette füttern und Kotreste sofort aus dem Substrat entfernen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Was tun bei Häutungsresten an den Zehenspitzen?",
+            "answer": "Hautreste können die Blutzufuhr abschnüren und zum Absterben der Zehen führen. Ein 5-minütiges warmes Fußbad (30°C) machen und die Haut mit feuchtem Wattestäbchen abrollen."
+          },
+          {
+            "question": "Warum wird der Schwanz meines Leopardgeckos plötzlich dünn?",
+            "answer": "Der Schwanz speichert Fettreserven. Rascher Gewichtsverlust deutet auf Anorexie, Stress oder Parasitenbefall hin und erfordert einen Tierarztbesuch."
+          }
+        ],
+        "tags": [
+          "Leopardgecko",
+          "Reptilienpflege",
+          "Häutung",
+          "ARAV-Standards",
+          "Terraristik"
+        ]
+      },
+      "pt": {
+        "title": "Comunicação da Cauda do Gecko Leopardo e Rotina em 3 Passos Para Troca de Pele",
+        "description": "Guia completo de cuidados para o Gecko Leopardo. Interprete os movimentos defensivos da cauda, cuide da toca úmida e ajuste as zonas de temperatura ARAV.",
+        "authority": "Associação de Veterinários de Répteis e Anfíbios (ARAV)",
+        "profile": {
+          "breed": "Gecko Leopardo (Leopard Gecko)",
+          "lifespan": "15 - 20 anos",
+          "sleep_pattern": "12 - 14 horas (Noturno, sono na toca)",
+          "temperament": "Dócil, calmo, solitário, sensível"
+        },
+        "intro": "O Gecko Leopardo é o réptil de estimação mais querido do mundo. Conforme a ARAV, por ser um animal ectotérmico, manter um gradiente térmico adequado (Zona Quente 30°C ~ 32°C / Zona Fria 24°C ~ 26°C) e umidade na toca de muda é essencial.",
+        "whyTitle": "Linguagem Corporal: Balanço da Cauda e Mudança de Pele",
+        "whyDesc": "Sua cauda armazena gordura e serve de comunicação. Diferenciar o balanço lento de defesa do balanço rápido de caça evita estresse.",
+        "body_signals": [
+          {
+            "name": "Balanço Lento da Cauda em Formato de 'S' (Slow Tail Waving)",
+            "meaning": "Sinal de defesa quando se sente ameaçado ou assustado por algum perigo.",
+            "response": "Pare o manuseio imediatamente, retire a mão devagar e deixe-o recuar para a toca."
+          },
+          {
+            "name": "Pele Opaca Esbranquiçada e Fricção nos Olhos (Pre-Shedding Signal)",
+            "meaning": "Início do processo de troca de pele (muda); exige alta umidade local.",
+            "response": "Umedeça a toca úmida com água morna para elevar a umidade acima de 70%."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Checagem Térmica e Umedecer Toca",
+            "text": "Verifique a temperatura do aquecedor (30°C ~ 32°C) e borrife água na toca úmida."
+          },
+          {
+            "name": "Tarde: Ambiente Calmo e Escuro para Descanso",
+            "text": "Evite luzes fortes e ruídos à tarde para respeitar o sono noturno."
+          },
+          {
+            "name": "Noite: Alimentação com Cálcio via Pinça e Limpeza",
+            "text": "Alimente com insetos polvilhados com cálcio e limpe as fezes do substrato."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O que fazer com pele presa nas pontas dos dedos?",
+            "answer": "A pele presa pode causar necrose dos dedos. Faça um banho morno (30°C) por 5 minutos e remova a pele com um cotonete úmido."
+          },
+          {
+            "question": "Por que a cauda do meu gecko emagreceu rapidamente?",
+            "answer": "A cauda armazena reservas de gordura. O emagrecimento rápido indica anorexia, estresse ou parasitas e exige veterinário ARAV."
+          }
+        ],
+        "tags": [
+          "Gecko Leopardo",
+          "Répteis",
+          "Cuidados com Pet",
+          "Troca de Pele",
+          "Padrões ARAV"
+        ]
+      },
+      "id": {
+        "title": "Bahasa Ekor Leopard Gecko dan Rutinitas 3 Langkah untuk Ganti Kulit Aman",
+        "description": "Panduan lengkap merawat Leopard Gecko. Pahami gerak ekor pertahanan, kelola tempat sembunyi lembap (Wet Cave), dan atur zona suhu terarium standar ARAV.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Care Guidelines",
+        "profile": {
+          "breed": "Leopard Gecko",
+          "lifespan": "15 - 20 Tahun",
+          "sleep_pattern": "12 - 14 Jam (Nocturnal, Tidur di Tempat Sembunyi)",
+          "temperament": "Jinak, Tenang, Soliter, Sensitif Lingkungan"
+        },
+        "intro": "Dengan senyuman khas dan ekor bintik-bintik yang indah, Leopard Gecko adalah pilihan utama pencinta reptil. Berdasarkan panduan ARAV, sebagai hewan ektotermik yang bergantung pada suhu luar, menyediakan gradien suhu yang tepat (Zona Panas 30°C ~ 32°C / Zona Dingin 24°C ~ 26°C) serta tempat sembunyi lembap (Wet Cave) adalah kunci utama kelangsungan hidupnya.",
+        "whyTitle": "Bahasa Tubuh Gecko: Gerakan Ekor Pertahanan & Tanda Moulting",
+        "whyDesc": "Ekor gecko yang gemuk berfungsi sebagai cadangan lemak dan alat komunikasi. Membedakan gerakan ekor perlahan saat terancam dengan getaran gembira saat berburu sangat penting agar tidak menimbulkan stres.",
+        "body_signals": [
+          {
+            "name": "Ekor Diangkat & Mengayun Perlahan Bentuk 'S' (Slow Tail Waving)",
+            "meaning": "Postur pertahanan kewaspadaan tinggi saat gecko merasa terancam atau kaget oleh potensi bahaya.",
+            "response": "Hentikan memegang gecko segera, tarik tangan perlahan, dan biarkan gecko bersembunyi tanpa gangguan."
+          },
+          {
+            "name": "Kulit Memucat Putih Kusam & Menggosok Mata (Pre-Shedding Signal)",
+            "meaning": "Tanda awal proses berganti kulit (moulting/ecdysis); lapisan kulit lama terlepas dan membutuhkan kelembapan tinggi.",
+            "response": "Semprotkan air hangat pada alas di dalam tempat sembunyi lembap untuk menaikkan kelembapan di atas 70%."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Cek Gradien Suhu Terarium & Semprot Tempat Sembunyi Lembap",
+            "text": "Cek suhu alas pemanas (30°C ~ 32°C) dan basahi alas tempat sembunyi lembap dengan air hangat."
+          },
+          {
+            "name": "Siang: Suasana Tenang & Tempat Sembunyi Gelap untuk Tidur Siang",
+            "text": "Jauhkan dari sinar matahari langsung dan kebisingan agar tidur nokturnalnya tidak terganggu."
+          },
+          {
+            "name": "Malam: Beri Pakan Serangga Ber-Kalsium dengan Pinset & Bersihkan Kotoran",
+            "text": "Beri makan jangkrik tabur kalsium menggunakan pinset dan bersihkan kotoran dari alas terarium."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara menangani sisa kulit ganti yang tersangkut di ujung jari kaki?",
+            "answer": "Sisa kulit di jari dapat menghentikan sirkulasi darah dan menyebabkan nekrosis (kematian jaringan jari). Rendam kaki gecko dalam air hangat (30°C) selama 5 menit lalu usap perlahan dengan cotton bud basah."
+          },
+          {
+            "question": "Mengapa ekor Leopard Gecko saya tiba-tiba mendadak mengecil dan kurus?",
+            "answer": "Ekor gecko menyimpan cadangan lemak nutrisi. Ekor yang mendadak kurus menandakan gejala anoreksia, stres berat, atau infeksi parasit pencernaan yang membutuhkan pemeriksaan dokter hewan ARAV."
+          }
+        ],
+        "tags": [
+          "Leopard Gecko",
+          "Reptil",
+          "Perawatan Gecko",
+          "Moulting Aman",
+          "Standar ARAV"
+        ]
+      }
+    }
+  }
+}

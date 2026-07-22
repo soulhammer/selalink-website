@@ -18,13 +18,13 @@ faqs:
 
 노르웨이 숲 고양이는 혹독한 북유럽의 겨울을 견디기 위해 진화한 크고 단단한 골격과 방수 기능을 가진 오밀조밀한 삼중모를 지니고 있습니다. '놀숲'이라는 애칭으로 많은 사랑을 받는 이들은 대형 묘종으로서 활동량이 많고 높은 곳을 올라가려는 강한 본능을 지니고 있습니다. 🐈 또한 털이 매우 굵고 풍성하여 정기적으로 관리하지 않으면 커다란 털 뭉치를 삼켜 소화 장애를 겪을 수 있습니다. 오늘 PetSelf에서는 노르웨이 숲의 등반 욕구를 풀어주고 웅장한 피모를 지키는 3단계 홈케어 루틴을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>국제고양이협회(TICA) 가이드 및 고양이 수의행동학 학술 지침</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>털 빠짐이 다른 고양이에 비해 아주 심한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>물놀이를 좋아한다는 소문이 사실인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

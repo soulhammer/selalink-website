@@ -21,6 +21,17 @@
       "de": "Historischer & Wissenschaftlicher Beleg",
       "pt": "Base Histórica e Acadêmica",
       "id": "Bukti Sejarah & Akademik"
+    },
+    "pet": {
+      "ko": "수의학적 & 행동학적 근거",
+      "en": "Veterinary & Behavioral Evidence",
+      "ja": "獣医学・行動学的根拠",
+      "zh": "兽医学与行为学依据",
+      "es": "Evidencia Veterinaria y Comportamental",
+      "fr": "Preuves Vétérinaires et Comportementales",
+      "de": "Veterinärmedizinische & verhaltensbedingte Nachweise",
+      "pt": "Evidência Veterinária e Comportamental",
+      "id": "Bukti Dokter Hewan & Perilaku"
     }
   },
   "evidenceDescPattern": {

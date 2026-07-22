@@ -1,0 +1,36 @@
+{
+  "id": "leopard-gecko-care",
+  "title": "레오파드 게코 꼬리 경계 신호 및 탈피 보조 케어",
+  "species": "reptile",
+  "breed": "레오파드 게코 (Leopard Gecko)",
+  "lifespan": "15 ~ 20년",
+  "sleepPattern": "12 ~ 14시간 동안 은신처 내부에서 쉼을 취하는 야행성 수면 패턴을 보입니다.",
+  "likes": [
+    "30°C ~ 32°C의 바닥 따뜻한 핫존 매트 위에 배를 대고 체온 높이기",
+    "습성 은신처(Wet cave)의 촉촉하게 젖은 수태 속에서 탈피 허물 벗기"
+  ],
+  "dislikes": [
+    "사육장 전반의 습도가 너무 낮아 발가락 끝 탈피 껍질이 굳어 괴사하는 상황",
+    "자고 있는 낮 동안 갑자기 밝은 조명을 비추거나 꼬리를 잡아채는 행동"
+  ],
+  "bodyLanguage": [
+    {
+      "signal": "꼬리를 높이고 천천히 흔듦 (Slow Tail Waving)",
+      "meaning": "위협을 느끼고 경계하며 '공격할 수 있다'는 신호를 보내는 강한 경계 상태입니다."
+    },
+    {
+      "signal": "몸 색이 하얗게 뜨고 눈 비빔 (Pre-Shedding)",
+      "meaning": "묵은 허물을 벗겨내기 위한 탈피 직전 단계로 습도 조절이 필요합니다."
+    }
+  ],
+  "dailyRoutine": {
+    "step1": "아침에는 핫존/쿨존 온도계 수치를 점검하고 습성 은신처 내부 키친타월에 온수를 분무합니다.",
+    "step2": "낮 동안에는 은신처가 어둡고 조용하도록 유지하여 야행성 주간 수면을 보장합니다.",
+    "step3": "저녁에는 칼슘제를 다스팅한 곤충을 핀셋 급여하고 바닥재 배설물을 즉시 치웁니다."
+  },
+  "heroImage": "/images/blog/leopard_gecko_care.png",
+  "sources": [
+    "ARAV (Association of Reptilian and Amphibian Veterinarians) Guidelines",
+    "Herpetological Medicine Standards"
+  ]
+}

@@ -18,13 +18,13 @@ faqs:
 
 매력적인 박쥐 귀와 납작하고 귀여운 얼굴을 가진 프렌치 불독은 전 세계적으로 사랑받는 동반자입니다. 그러나 납작한 얼굴(단두종) 구조는 기도 협착과 호흡 곤란, 급격한 체온 상승을 유발하기 쉽습니다. 또한 척추 구조상 높은 곳에서 뛰면 디스크 위험이 큽니다. 오늘 PetSelf에서는 프렌치 불독의 호흡기 바디 랭귀지를 진단하고, 건강을 지키는 3단계 케어 루틴을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>American Kennel Club (AKC) 프렌치 불독 가이드라인</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>프렌치 불독은 왜 더위에 약한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>얼굴 주름은 얼마나 자주 관리해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

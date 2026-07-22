@@ -22,7 +22,7 @@ Dikenal dengan pola silver tabby yang indah dan tubuh berototnya, American Short
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      Bukti Dokter Hewan & Perilaku
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Konten ini didasarkan pada <strong>Standar Ras American Shorthair CFA & Studi Cornell Feline Health Center</strong>.

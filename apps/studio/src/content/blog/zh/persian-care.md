@@ -11,7 +11,7 @@ formatVersion: 4
 tags: ["波斯猫","长毛梳理","扁脸猫","泪痕"]
 faqs:
   - question: "为什么波斯猫即使只停几天不梳毛也不行？"
-    answer: "波斯猫的毛发细长且浓密，只要疏忽梳理-天就会结成硬毛块。这会拉扯皮肤引起疼痛，最终只能被迫剃光毛发，因此每天梳毛是必须的。"
+    answer: "波斯猫的毛发细长且浓密，只要疏忽梳理2~3天就会结成硬毛块。这会拉扯皮肤引起疼痛，最终只能被迫剃光毛发，因此每天梳毛是必须的。"
   - question: "为什么扁脸猫的褶皱护理如此重要？"
     answer: "扁脸波斯猫的鼻部周围有深深的褶皱。如果泪水在此积聚，会阻断氧气，滋生细菌和酵母菌，从而导致异味和皮肤坏死性发炎。"
 ---
@@ -22,7 +22,7 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      兽医学与行为学依据
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本内容基于 <strong>CFA 波斯猫品种指南与 AAFP 兽医学标准</strong>。
@@ -124,7 +124,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      波斯猫的毛发细长且浓密，只要疏忽梳理-天就会结成硬毛块。这会拉扯皮肤引起疼痛，最终只能被迫剃光毛发，因此每天梳毛是必须的。
+      波斯猫的毛发细长且浓密，只要疏忽梳理2~3天就会结成硬毛块。这会拉扯皮肤引起疼痛，最终只能被迫剃光毛发，因此每天梳毛是必须的。
     </p>
   </details>
 

@@ -18,13 +18,13 @@ faqs:
 
 황금빛 털과 온순한 성격으로 전 세계적으로 큰 사랑을 받고 있는 골든 리트리버는 뛰어난 지능과 친화력을 지닌 반려견입니다. '천사견'이라는 별명처럼 다정하지만, 대형 사냥견 출신인 만큼 넘치는 에너지를 지녀 일상에서의 적극적인 자극과 교감이 필요합니다. 특히 대형견의 유전적 취약점인 고관절 이형성증(Hip Dysplasia)을 예방하고, 타고난 리트리빙(물건 물어오기) 본능을 해소해 주는 일상 루틴이 평생의 건강과 정서적 안정에 절대적인 영향을 미칩니다. 오늘 PetSelf에서는 리트리버의 바디 랭귀지를 이해하고, 관절과 놀이 본능을 매일 관리할 수 있는 3단계 헬시 루틴을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -77,7 +77,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 리트리빙 본능 충족 공 놀이</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    리트리버는 물건을 물어오는 것에 가장 큰 희열을 느낍니다. 아침 산책 전 실내나 마당에서 부드러운 공을 던져 가져오게 하는 놀이를 -분간 진행하여 야생 본능적 에너지를 안전하게 방산시킵니다.
+    리트리버는 물건을 물어오는 것에 가장 큰 희열을 느낍니다. 아침 산책 전 실내나 마당에서 부드러운 공을 던져 가져오게 하는 놀이를 5~10분간 진행하여 야생 본능적 에너지를 안전하게 방산시킵니다.
   </p>
 </div>
 
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>리트리버가 산책할 때 나뭇가지나 신발을 자꾸 물고 다니는데 왜 그런가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>골든 리트리버를 키울 때 관절 관리는 몇 살부터 시작해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

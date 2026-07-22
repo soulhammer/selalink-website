@@ -18,13 +18,13 @@ faqs:
 
 푸들은 세계에서 가장 머리가 좋은 강아지 중 하나로 꼽힙니다. 영리하고 보호자의 감정을 잘 파악하며 훈련 속도도 매우 빠르지만, 높은 지능만큼이나 쉽게 지루함을 느끼고 스트레스를 받기도 합니다. 🐩 또한, 푸들은 귀가 아래로 축 늘어져 귓구멍을 덮고 있는 외형적 특징 때문에 귓속 통풍이 잘 안 되어 만성적인 외이염(귓병)에 걸릴 확률이 유전적으로 매우 높습니다. 오늘 PetSelf에서는 똑똑한 푸들의 지능적 피로를 풀어주어 파괴적 행동을 예방하고, 귀 건강을 효과적으로 지킬 수 있는 3단계 홈케어 루틴을 공유합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -87,7 +87,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">오후: 통풍 불량 귀의 청결 점검 및 마사지</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    귀 세정제를 귓속에 -방울 넣고 귀밑 연골 부위를 부드럽게 마사지한 뒤, 밖으로 밀려 나온 이물질을 탈지면으로 닦아내 외이염 유발 인자를 차단합니다.
+    귀 세정제를 귓속에 2~3방울 넣고 귀밑 연골 부위를 부드럽게 마사지한 뒤, 밖으로 밀려 나온 이물질을 탈지면으로 닦아내 외이염 유발 인자를 차단합니다.
   </p>
 </div>
 
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>푸들이 귀 세정 후에 머리를 세차게 터는 것은 정상인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>푸들이 가구를 씹거나 물어뜯는 행동은 어떻게 교정하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -26,7 +26,7 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      兽医学与行为学依据
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本内容基于 <strong>康奈尔猫科健康中心行为指南与韩国国立畜产科学院伴侣动物看护手册</strong>。

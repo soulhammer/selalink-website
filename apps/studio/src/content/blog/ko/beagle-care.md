@@ -18,13 +18,13 @@ faqs:
 
 귀엽고 처진 커다란 귀와 늘 쾌활하게 흔들리는 하얀 꼬리 팁이 매력적인 비글은 인간과 수세기 동안 함께 활동해 온 사냥개(하운드) 출신입니다. 뛰어난 친화력으로 누구와도 잘 지내지만, 타고난 호기심과 엄청난 후각 집착력을 가지고 있습니다. 이 에너지를 해소해 주지 못하면 하울링을 하거나 집안 가구를 파괴하는 등 분리불안 증상을 보이기 쉽습니다. 또한 축 늘어진 커다란 귀는 내부가 습해 곰팡이성 외이염에 취약합니다. 오늘 PetSelf에서는 비글의 독특한 추적 행동 및 불안 신호를 진단하고, 후각 본능 해소와 귀 건강을 잡는 3단계 데일리 루틴을 알려드립니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>American Kennel Club (AKC) 비글 가이드 및 IAABC 노즈워크 행동 프로토콜</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>비글의 하울링을 방지하려면 어떻게 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>비글의 덮인 귀는 왜 자주 외이염에 걸리나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "아프리칸 피그미 고슴도치의 안팅 습성과 저체온 방지 3단계 루틴"
-description: "앙증맞은 가시를 가진 아프리칸 피그미 고슴도치. 자신의 가시에 거품을 바르는 안팅 행동의 의미와 동면을 방지하는 -도 온도 케어 중심의 3단계 가이드라인을 전해드립니다."
+description: "앙증맞은 가시를 가진 아프리칸 피그미 고슴도치. 자신의 가시에 거품을 바르는 안팅 행동의 의미와 동면을 방지하는 24~26도 온도 케어 중심의 3단계 가이드라인을 전해드립니다."
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 heroImage: "/images/blog/pygmy_hedgehog_care.png"
@@ -18,13 +18,13 @@ faqs:
 
 아프리칸 피그미 고슴도치는 얼굴을 조심히 내밀어 코를 씰룩이는 모습이 매력적이며, 조용히 관찰하는 재미가 쏠쏠한 외래 반려동물입니다. 태생적으로 매우 소심하여 가시라는 방어 수단을 쓰며, 낯선 냄새를 접하면 거품을 만들어 등 가시에 바르는 독특한 행동을 보입니다. 또한, 실내 온도가 조금만 낮아져도 목숨이 위험한 동면 상태에 빠질 수 있습니다. 오늘 PetSelf에서는 피그미 고슴도치의 본능적 가시 반응과 안전한 안팅 행동 요령, 24시간 적정 온도 및 위생을 보장하는 3단계 관리법을 알아봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>Hedgehog Welfare Society 케어 가이드라인 및 수의학 외래동물 치료 지침</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -84,7 +84,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 사계절 실내 최적 온도 -도 및 가습기 정밀 세팅</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 사계절 실내 최적 온도 24~26도 및 가습기 정밀 세팅</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     추위로 인한 저체온증 및 강제 동면 사망을 막기 위해 가열 매트와 자동 온도 조절기의 정상 작동 유무를 수시로 확인합니다.
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>고슴도치가 감기에 걸리거나 저체온증에 걸리면 어떤 신호를 보이나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>이갈이용 완구는 필요 없나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

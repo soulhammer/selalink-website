@@ -8,6 +8,9 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://selalink.net',
+  build: {
+    concurrency: 10
+  },
   vite: {
     plugins: [tailwindcss()]
   },

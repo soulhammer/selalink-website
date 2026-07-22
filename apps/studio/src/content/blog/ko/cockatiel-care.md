@@ -1,0 +1,140 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "왕관앵무의 우관 표현과 나이트 파닉 예방을 위한 3단계 데일리 케어"
+description: "사교적이고 머리 벼슬(우관)이 매력적인 왕관앵무. 밤에 깜짝 놀라는 나이트 파닉(Night Fright) 예방과 깃털 긁기 시그널 해독, 맞춤형 3단계 데일리 케어 루틴을 소개합니다."
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
+heroImage: "/images/blog/cockatiel_care.png"
+authority: "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards"
+app: "petself"
+formatVersion: 4
+tags: ["왕관앵무","반려조류","나이트파닉예방","앵무새케어","AAV지침"]
+faqs:
+  - question: "한밤중에 새장 안에서 비명을 지르며 날개를 펄럭이는데(나이트 파닉) 어떻게 해야 하나요?"
+    answer: "즉시 방 조명을 켜고 다정한 목소리로 안심시킨 뒤, 날개나 부리에 상처가 없는지 확인하세요. 나이트 파닉 예방을 위해 새장 옆에 작은 야간 미등(Night light)을 항상 켜두는 것이 좋습니다."
+  - question: "왕관앵무 비듬(파우더)이 너무 많이 날리는데 정상인가요?"
+    answer: "왕관앵무는 깃털 보호를 위한 파우더(Powder Down)가 자연스럽게 분비되는 종입니다. 공기청정기를 가동하고 일주일에 2 - 3회 부드러운 분무기 분사로 깃털 목욕을 시켜주면 파우더 날림을 줄일 수 있습니다."
+---
+
+노란 뺨과 머리 위 우아한 벼슬(우관)이 특징인 왕관앵무(Cockatiel)는 전 세계 반려조류 집사들에게 가장 사랑받는 소형 앵무새 품종입니다. 사람과의 강한 유대감을 형성하고 멜로디 휘파람을 즐기지만, 야생에서의 천적 경계 본능이 남아있어 밤중에 작은 빛이나 소음에도 크게 놀라 새장 속에서 날뛰는 '나이트 파닉(Night Fright)'을 겪기 쉽습니다. 조류 수의사 협회(AAV)의 지침을 바탕으로, 왕관앵무의 감정 시그널을 읽고 건강한 조류 생활을 돕는 루틴을 안내합니다.
+
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
+  <span class="text-2xl">🛡️</span>
+  <div>
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
+    </h5>
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+      본 콘텐츠는 <strong>Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards</strong>에 기반하고 있습니다.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-6 rounded-[1.5rem] border border-slate-200/65 bg-slate-50/50 dark:border-white/5 dark:bg-slate-900/20">
+  <h3 class="text-lg font-extrabold text-indigo-600 dark:text-indigo-400 mt-0 mb-4 flex items-center gap-2">
+    🐾 왕관앵무 (Cockatiel) 핵심 프로필 (Profile)
+  </h3>
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+    <div class="flex flex-col"><span class="text-xs text-slate-400">평균 수명</span><span class="font-bold text-slate-800 dark:text-slate-200">15 ~ 20년</span></div>
+    <div class="flex flex-col"><span class="text-xs text-slate-400">수면 패턴</span><span class="font-bold text-slate-800 dark:text-slate-200">10 ~ 12시간 (규칙적인 암막 조용 수면 필수)</span></div>
+    <div class="flex flex-col"><span class="text-xs text-slate-400">성격 키워드</span><span class="font-bold text-slate-800 dark:text-slate-200">사교적임, 호기심 다분, 음률 애호, 예민함</span></div>
+  </div>
+</div>
+
+## 1. 왕관앵무의 기분 언어: 우관(벼슬)의 세밀한 신호와 긁기 표현
+
+왕관앵무 머리의 우관(Crest)은 기분과 경계 상태를 알려주는 안테나입니다. 우관이 머리에 바짝 붙어있을 때와 수직으로 곧게 섰을 때의 의미가 완전히 다르며, 머리를 푹 숙이고 목을 내밀 때는 깊은 신뢰의 표현입니다.
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">우관 바짝 세우기 & 수평 유지 (Fully Erect Crest)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 주변 환경에 강한 호기심을 느끼거나 새로운 소리/물체에 긴장하여 유심히 경계하고 있는 상태입니다.<br/>
+    <strong>• 올바른 대처:</strong> 갑자기 손을 가져다 대지 말고 잔잔한 목소리로 대화하며 앵무새가 상황을 안전하게 파악하도록 기다려 줍니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">SIGNAL 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">머리 숙이고 목 내밀기 (Head Lowering for Scratches)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 보호자에게 깊은 친밀감을 느끼며 머리와 뺨 주변(우관 뿌리)을 부드럽게 긁어달라는 애정 표현입니다.<br/>
+    <strong>• 올바른 대처:</strong> 손가락 끝으로 깃결의 반대 방향이나 뺨의 주황색 깃털 부위를 살살 다정하게 긁어줍니다.
+  </p>
+</div>
+
+---
+
+## 2. 맞춤형 홈케어 루틴
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 자연광 환기, 깃털 청결 점검 및 신선한 펠릿 급여</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    아침 덮개를 개봉한 후 펠릿 사료와 깨끗한 물을 교체하고, 깃털 손상이나 눈곱이 없는지 비행 상태를 살핍니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 새장 밖 자유 비행(방사) 및 아크릴 씹기 장난감 상호작용</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    창문과 펜슬을 닫고 안전이 확보된 방에서 최소 1 - 2시간 자유 비행을 시키며 먹이 탐색 장난감(Foraging Toy)을 제공합니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 깃털 파우더 닦기 및 나이트 파닉 방지용 암막·미등 커버링</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    새장 주변 깃털 파우더를 청소하고, 완전히 깜깜한 것보다는 은은한 수면 미등을 켜둔 뒤 암막 커튼을 씌워 숙면을 유도합니다.
+  </p>
+</div>
+
+## 3. 요약 및 주의사항
+<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
+  <span class="text-xl">💡</span>
+  <div>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      반려동물의 언어(카밍 시그널)를 세심하게 관찰하는 것만으로도 대부분의 행동 발달 및 스트레스성 질환을 사전에 예방할 수 있습니다. 수의학적 치료도 중요하지만, 집안 환경(안전 발판, 수직 공간 확보, 신선한 다각적 물 공급)을 안전하게 관리하는 것이 평생 동반자로서의 행복을 지탱하는 가장 강력한 보호막입니다.
+    </p>
+  </div>
+</div>
+
+---
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
+      <span>한밤중에 새장 안에서 비명을 지르며 날개를 펄럭이는데(나이트 파닉) 어떻게 해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      즉시 방 조명을 켜고 다정한 목소리로 안심시킨 뒤, 날개나 부리에 상처가 없는지 확인하세요. 나이트 파닉 예방을 위해 새장 옆에 작은 야간 미등(Night light)을 항상 켜두는 것이 좋습니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>왕관앵무 비듬(파우더)이 너무 많이 날리는데 정상인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      왕관앵무는 깃털 보호를 위한 파우더(Powder Down)가 자연스럽게 분비되는 종입니다. 공기청정기를 가동하고 일주일에 2 - 3회 부드러운 분무기 분사로 깃털 목욕을 시켜주면 파우더 날림을 줄일 수 있습니다.
+    </p>
+  </details>
+</div>

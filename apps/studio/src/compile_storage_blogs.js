@@ -47,7 +47,7 @@ allIngredients.forEach(ing => {
   });
 });
 
-const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
+const languages = process.env.BUILD_LANGS ? process.env.BUILD_LANGS.split(',').map(l => l.trim()) : ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
 
 // 1. 공통 메타 정보 로드
 const { l10n, storageFaqs, sourceMapLang } = JSON.parse(

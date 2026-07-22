@@ -18,13 +18,13 @@ faqs:
 
 시바견은 한국과 일본뿐만 아니라 전 세계적으로 많은 사랑을 받는 고유 견종입니다. 여우를 닮은 외모와 꼿꼿한 꼬리가 매력적이지만, 성격은 고양이처럼 아주 독립적이고 고집이 세며 경계심이 많습니다. 🐕 특히 시바견은 발끝이나 귀, 엉덩이 등 신체 말단 부위를 만지는 것에 매우 민감하여, 강압적인 빗질이나 발톱 깎기를 시도할 경우 비명을 지르는 듯한 소리인 '시바 스크림(Shiba Scream)'을 지르며 거부하기 일쑤입니다. 또한, 빽빽한 이중모를 가지고 있어 털빠짐 시기에는 털이 엄청나게 빠져나갑니다. 오늘 PetSelf에서는 시바견의 독립적인 성향을 존중하면서 털을 관리하고 올바른 터치 교감을 나누는 3단계 홈케어 루틴을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>National Shiba Club of America 및 IAABC 행동 치료 가이드라인</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>시바견이 빗질할 때 소리를 지르고 비명을 지르는데 어떻게 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>시바견은 왜 다른 개들처럼 꼬리를 치며 살갑게 굴지 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -11,20 +11,20 @@ formatVersion: 4
 tags: ["터키시 앙고라","선천 난청","오드아이 케어","장모 빗질"]
 faqs:
   - question: "흰 털에 오드아이인 터키시 앙고라는 무조건 귀가 안 들리나요?"
-    answer: "무조건은 아니지만 파란 눈을 가진 흰색 고양이는 선천성 난청을 가질 확률이 -%에 달합니다. 오드아이의 경우 파란 눈이 있는 쪽 귀만 들리지 않는 편측성 난청이 유발되는 경우가 대다수입니다."
+    answer: "무조건은 아니지만 파란 눈을 가진 흰색 고양이는 선천성 난청을 가질 확률이 60~80%에 달합니다. 오드아이의 경우 파란 눈이 있는 쪽 귀만 들리지 않는 편측성 난청이 유발되는 경우가 대다수입니다."
   - question: "난청 고양이를 키울 때 가장 주의해야 할 집안 환경은 무엇인가요?"
     answer: "바깥 소리를 전혀 듣지 못해 위험 상황 대처가 안 되므로 절대 방출해서는 안 되며 완전한 실내 사육을 유지해야 합니다. 또한 창문이나 출입문에 안전 방충망을 이중 설치하여 돌발 탈출을 막아야 합니다."
 ---
 
 우아한 실크 같은 장모와 신비로운 오드아이로 유명한 터키시 앙고라는 호기심이 많고 영리한 품종입니다. 하지만 백색 털에 파란 눈(또는 오드아이)을 지닌 터키시 앙고라는 유전적으로 선천성 난청을 앓을 확률이 대단히 높습니다. 또한 노령기에 접어들면 비대성 심근증(HCM)을 주의해야 합니다. 오늘 PetSelf에서는 터키시 앙고라의 난청 관련 특이 행동을 해독하고, 이들을 배려하는 3단계 관리 루틴을 공유합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>CFA 터키시 앙고라 분과위원회 및 고양이 선천 난청 연구 표준</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,17 +119,17 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>흰 털에 오드아이인 터키시 앙고라는 무조건 귀가 안 들리나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      무조건은 아니지만 파란 눈을 가진 흰색 고양이는 선천성 난청을 가질 확률이 -%에 달합니다. 오드아이의 경우 파란 눈이 있는 쪽 귀만 들리지 않는 편측성 난청이 유발되는 경우가 대다수입니다.
+      무조건은 아니지만 파란 눈을 가진 흰색 고양이는 선천성 난청을 가질 확률이 60~80%에 달합니다. 오드아이의 경우 파란 눈이 있는 쪽 귀만 들리지 않는 편측성 난청이 유발되는 경우가 대다수입니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>난청 고양이를 키울 때 가장 주의해야 할 집안 환경은 무엇인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

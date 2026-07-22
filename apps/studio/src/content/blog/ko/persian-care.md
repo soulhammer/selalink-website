@@ -11,20 +11,20 @@ formatVersion: 4
 tags: ["페르시안 고양이","장모종 빗질","단두종 관리","눈물자국"]
 faqs:
   - question: "페르시안 고양이는 빗질을 며칠만 걸러도 왜 안 되나요?"
-    answer: "페르시안의 모질은 얇고 길며 촘촘해 -일만 빗질을 소홀히 해도 뭉쳐 털판이 됩니다. 이는 피부가 당기는 통증을 일으키고 결국 털을 삭발해야 하므로 매일 빗질이 필수입니다."
+    answer: "페르시안의 모질은 얇고 길며 촘촘해 2~3일만 빗질을 소홀히 해도 뭉쳐 털판이 됩니다. 이는 피부가 당기는 통증을 일으키고 결국 털을 삭발해야 하므로 매일 빗질이 필수입니다."
   - question: "단두종 고양이의 주름 관리는 왜 중요한가요?"
     answer: "얼굴이 납작한 페르시안은 코 주변에 주름이 깊게 생깁니다. 여기에 눈물이 고이면 산소 공급이 막히고 박테리아와 효모균이 번식해 악취와 피부 괴사성 염증을 유발할 수 있습니다."
 ---
 
 풍성한 털과 특유의 동글납작한 얼굴이 귀여운 페르시안 고양이는 성격이 온화하고 차분하여 실내에서 기르기 좋은 대표적인 묘종입니다. 하지만 납작한 단두종 골격 때문에 눈물이 자주 흐르고 코와 눈 주변 주름에 이물질이 끼기 쉽습니다. 또한 촘촘하고 길어 뭉치기 쉬운 이중 장모는 엉켜서 굳어지면 피부를 당겨 큰 통증을 일으키고 공기 순환을 막아 피부염을 일으킵니다. 오늘 PetSelf에서는 페르시안 고양이의 은밀한 안구 및 모질 스트레스 신호를 읽어내고, 이를 일상에서 예방하는 3단계 홈케어 루틴을 공유합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>Cat Fanciers' Association (CFA) 페르시안 가이드 및 AAFP 수의학 지침</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,17 +119,17 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>페르시안 고양이는 빗질을 며칠만 걸러도 왜 안 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      페르시안의 모질은 얇고 길며 촘촘해 -일만 빗질을 소홀히 해도 뭉쳐 털판이 됩니다. 이는 피부가 당기는 통증을 일으키고 결국 털을 삭발해야 하므로 매일 빗질이 필수입니다.
+      페르시안의 모질은 얇고 길며 촘촘해 2~3일만 빗질을 소홀히 해도 뭉쳐 털판이 됩니다. 이는 피부가 당기는 통증을 일으키고 결국 털을 삭발해야 하므로 매일 빗질이 필수입니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>단두종 고양이의 주름 관리는 왜 중요한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

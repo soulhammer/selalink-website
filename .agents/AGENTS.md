@@ -49,4 +49,14 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
 *   **프롬프트 공식**:
     > "A high-quality realistic photo of [식재료 상태 묘사] on a clean kitchen countertop. In the background, a bright, airy modern kitchen with soft natural window light, shallow depth of field. Professional food styling, clean and hygienic presentation. No text, high quality."
 
+---
+
+## 6. 마크다운 본문 내 수치 범위 표기 시 물결표(~) 사용 금지 규칙 (Strikethrough Strikethrough Avoidance Rule)
+*   **물결표(~)에 의한 취소선 버그 절대 금지**: 마크다운(Markdown) 본문이나 JSON 텍스트 내에서 온도, 수명, 비율, 시간 등의 수치 범위를 표기할 때 물결표(`~`) 문자를 한 문장 안에 2개 이상 직접 사용하면, 마크다운 파서가 `~...~` 영역 전체를 **취소선(strikethrough)**으로 오인하여 텍스트 중간에 줄이 그어지는 현상이 발생합니다.
+*   **올바른 수치 범위 표기 방식**:
+    *   수치 범위 표기 시 `~` 문자 좌우에 공백을 명확히 두거나(`30 ~ 32°C`), 각 수치 뒤에 단위를 표기하고 공백을 두거나(`30°C ~ 32°C`), **하이픈/붙임표`-`** 또는 **`~` 대신 엔 다시 `–`**를 사용해야 합니다.
+    *   **잘못된 표기 예시**: `핫존(30~32°C)과 쿨존(24~26°C)` ❌ (32°C)과 쿨존(24 부분이 취소선 처리됨)
+    *   **올바른 표기 예시**: `핫존(30°C ~ 32°C)과 쿨존(24°C ~ 26°C)` ⭕ 또는 `핫존(30 - 32°C)과 쿨존(24 - 26°C)` ⭕
+
+
 

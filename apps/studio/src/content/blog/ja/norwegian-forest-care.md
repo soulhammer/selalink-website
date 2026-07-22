@@ -22,7 +22,7 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      獣医学・行動学的根拠
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本コンテンツは、<strong>国際猫協会(TICA)品種ガイドおよび猫行動学専門指針</strong>に基づいています。

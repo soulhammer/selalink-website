@@ -22,7 +22,7 @@ Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière reb
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Ce contenu est basé sur <strong>Guide officiel du Pembroke Welsh Corgi Club of America et directives de santé de l'AKC</strong>.

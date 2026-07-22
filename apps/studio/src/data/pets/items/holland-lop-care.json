@@ -1,0 +1,36 @@
+{
+  "id": "holland-lop-care",
+  "title": "홀랜드 롭 처진 귀 외이염 예방과 빙키 춤 감정 해독",
+  "species": "rabbit",
+  "breed": "홀랜드 롭 토끼 (Holland Lop Rabbit)",
+  "lifespan": "8 ~ 12년",
+  "sleepPattern": "8 ~ 10시간 낮과 한밤중에 분할하여 수면을 취하는 크레푸스큘러(Crepuscular) 패턴입니다.",
+  "likes": [
+    "공중으로 뛰어오르며 몸을 비틀어 최고의 행복을 표출하는 빙키 춤(Binky)",
+    "24시간 가득 채워진 바삭한 1번 칼 티모시 건초를 무제한으로 갉아먹기"
+  ],
+  "dislikes": [
+    "건초 섭취 부진으로 인해 장운동이 멈추어 생명이 위험해지는 장정체(GI Stasis)",
+    "접힌 처진 귀 내부에 습기가 차서 외이염 진드기나 곰팡이가 가려움을 유발하는 상태"
+  ],
+  "bodyLanguage": [
+    {
+      "signal": "공중으로 뛰어오르며 몸 비틀기 (Binky Dance)",
+      "meaning": "현재 사육 환경과 보호자에 대해 극도의 기쁨과 행복감을 느낄 때 나타나는 표현입니다."
+    },
+    {
+      "signal": "뒷발로 바닥 쿵쿵 치기 (Thumping)",
+      "meaning": "주변의 위협적인 소리나 낯선 냄새에 경계하거나 강한 불만을 표현하는 신호입니다."
+    }
+  ],
+  "dailyRoutine": {
+    "step1": "아침에는 신선한 1번 칼 티모시 건초를 무제한으로 채우고 깨끗한 식수를 공급합니다.",
+    "step2": "낮에는 처진 귀 안쪽을 살짝 뒤집어 붉은 이물질이 없는지 검사하고 수면을 돕습니다.",
+    "step3": "저녁에는 방풍 울타리 터널 운동을 시키고 모구증 예방 빗질 브러싱을 진행합니다."
+  },
+  "heroImage": "/images/blog/holland_lop_care.png",
+  "sources": [
+    "House Rabbit Society (HRS) Care Guidelines",
+    "Association of Exotic Mammal Veterinarians (AEMV)"
+  ]
+}

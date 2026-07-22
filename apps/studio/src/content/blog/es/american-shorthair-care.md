@@ -22,7 +22,7 @@ Conocido por su patrón atigrado plateado y su cuerpo fuerte, el American Shorth
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Este contenido se basa en <strong>Cat Fanciers' Association (CFA) & Centro de Salud Felina de Cornell</strong>.

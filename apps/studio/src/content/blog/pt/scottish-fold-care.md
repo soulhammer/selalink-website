@@ -26,7 +26,7 @@ Hoje, o PetSelf decodifica os sinais de dor do Scottish Fold e apresenta uma rot
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      Evidência Veterinária e Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Este conteúdo baseia-se em <strong>Protocolo de cartilagem hereditária da ISFM (International Society of Feline Medicine) e diretrizes do GCCF</strong>.

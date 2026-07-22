@@ -18,13 +18,13 @@ faqs:
 
 긴 허리와 짧은 다리의 독특한 체형을 가진 닥스훈트는 전 세계적으로 큰 사랑을 받는 견종입니다. 그러나 이 개성 있는 신체 구조 때문에 닥스훈트는 허리 디스크(척추 추간판 탈출증 - IVDD)에 극도로 취약합니다. 소파에서 뛰어내리거나 계단을 오르내리는 평범한 행동조차 척추에 치명적인 무리를 줄 수 있습니다. 오늘 PetSelf에서는 닥스훈트가 보내는 척추 이상 신호를 분석하고, 허리 건강을 지키며 코어 근육을 강화하는 3단계 홈케어 루틴을 공유합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>미국 캔넬 클럽(AKC) 닥스훈트 건강 가이드 및 수의학 척추 연합 권고사항</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>닥스훈트가 계단을 오르내려도 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>닥스훈트를 안아 올리는 올바른 방법은 무엇인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

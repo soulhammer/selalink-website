@@ -22,7 +22,7 @@ Avec de minuscules oreilles et un corps rond et compact, le lapin nain de couleu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Ce contenu est basé sur <strong>Directives Médicales de la House Rabbit Society et Normes Vétérinaires pour Petits Animaux</strong>.

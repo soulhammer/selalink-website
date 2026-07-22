@@ -18,17 +18,17 @@ faqs:
 
 메인쿤(Maine Coon)은 북미 출신의 자연 발생 품종으로, 고양이계의 'Gentle Giant(신사적인 거인)'라 불리는 초대형 묘종입니다. 풍성하고 사자 갈기 같은 목 주변 털과 귀 끝의 뾰족한 장식털, 늠름한 주둥이가 매력적입니다. 성격은 겉모습과 달리 매우 다정하고 아이나 다른 동물과도 잘 지내며, 물을 두려워하지 않는 특성을 지닙니다. 🐈
 
-그러나 성묘 기준 몸무게가 -kg에 달해 중력으로 인한 관절 부하가 큰 편이며, 특히 고양이의 유전 질환 중 하나인 '비대성 심근증(Hypertrophic Cardiomyopathy, HCM)'의 잠재 발생률이 높습니다. 이 때문에 메인쿤의 라이프케어에서는 심박 상태를 일상에서 모니터링하고, 착지 시 가해지는 관절 충격을 보강하는 데일리 루틴이 필수적입니다.
+그러나 성묘 기준 몸무게가 8~12kg에 달해 중력으로 인한 관절 부하가 큰 편이며, 특히 고양이의 유전 질환 중 하나인 '비대성 심근증(Hypertrophic Cardiomyopathy, HCM)'의 잠재 발생률이 높습니다. 이 때문에 메인쿤의 라이프케어에서는 심박 상태를 일상에서 모니터링하고, 착지 시 가해지는 관절 충격을 보강하는 데일리 루틴이 필수적입니다.
 
 오늘 PetSelf에서는 메인쿤이 보내는 카밍 시그널과 바디 랭귀지를 정밀 분석하고, 풍성한 모질 관리 및 심장을 보호하는 3단계 홈케어 방법을 전해드립니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>Maine Coon Breeders & Fanciers Association (MCBFA) 및 AAFP 대형묘 관리 프로토콜</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -123,7 +123,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>메인쿤이 비대성 심근증(HCM) 위험이 높다는 것은 어떻게 대처해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -133,7 +133,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>메인쿤의 이중 장모 빗질을 억지로 하면 어떤 부작용이 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 
 const pathModule = path;
 const blogRoot = path.join(__dirname, 'content/blog');
-const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
+const languages = process.env.BUILD_LANGS ? process.env.BUILD_LANGS.split(',').map(l => l.trim()) : ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
 
 const labelsPath = path.join(__dirname, 'data/blogs/compilerLabels.json');
 const labels = JSON.parse(fs.readFileSync(labelsPath, 'utf-8'));

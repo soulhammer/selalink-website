@@ -18,13 +18,13 @@ faqs:
 
 아름다운 실버 태비 패턴과 탄탄한 골격을 자랑하는 아메리칸 쇼트헤어는 성격이 유순하고 적응력이 뛰어난 고양이입니다. 그러나 먹는 것을 좋아하고 느긋한 성격 탓에 쉽게 비만이 될 수 있으며, 이는 심혈관계에 큰 무리를 줍니다. 특히 이 품종은 심장 벽이 두꺼워져 기능이 저하되는 비대성 심근증(HCM)의 유전적 소인을 갖고 있습니다. 오늘 PetSelf에서는 아메리칸 쇼트헤어의 심장 이상 바디 랭귀지를 진단하고, 심장과 체중을 케어하는 3단계 루틴을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>CFA 아메리칸 쇼트헤어 품종 표준 및 코넬 고양이 건강 센터 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -97,7 +97,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 단모종 전용 단모 슬리커 빗질 및 모질 관리</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    단모종이지만 털의 밀도가 매우 높으므로 주 -회 빗질로 죽은 속털을 제거하여 헤어볼 구토로 인한 위장 장애를 예방합니다.
+    단모종이지만 털의 밀도가 매우 높으므로 주 1~2회 빗질로 죽은 속털을 제거하여 헤어볼 구토로 인한 위장 장애를 예방합니다.
   </p>
 </div>
 
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>고양이 비대성 심근증(HCM)이란 무엇인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>아메리칸 쇼트헤어의 비만 예방 식단 팁이 있을까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

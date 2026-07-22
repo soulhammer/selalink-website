@@ -1,0 +1,36 @@
+{
+  "id": "betta-fish-care",
+  "title": "베타 피쉬 아가미 플레어링 관리 및 화관 지느러미 보존",
+  "species": "fish",
+  "breed": "베타 피쉬 (Betta Fish)",
+  "lifespan": "3 ~ 5년",
+  "sleepPattern": "8 ~ 10시간 수면 근처 수초나 베타 침대 잎 위에 누워 얕은 수면을 취합니다.",
+  "likes": [
+    "수면 근처 수초 침대에 지느러미를 얹고 라비린스 공기 호흡하기",
+    "하루 3 - 5분간 거울을 보고 플레어링하여 지느러미 유착 방지 운동하기"
+  ],
+  "dislikes": [
+    "여과기의 강한 수류로 인해 드레스 지느러미가 밀려 헤엄치기 힘든 환경",
+    "수질 오염으로 인해 지느러미 끝이 검게 녹아내리는 지느러미 썩음병(Fin Rot)"
+  ],
+  "bodyLanguage": [
+    {
+      "signal": "아가미 덮개 확장 및 지느러미 팽창 (Flaring)",
+      "meaning": "영역 침범에 대한 경고 또는 거울 반사에 대한 공격성 및 스트레스 표출입니다."
+    },
+    {
+      "signal": "수초 잎 위에 가만히 누워있음 (Labyrinth Resting)",
+      "meaning": "라비린스 기관으로 호흡하며 휴식을 취하는 정체적 자연 수면입니다."
+    }
+  ],
+  "dailyRoutine": {
+    "step1": "아침에는 수온(24°C ~ 26°C)과 스펀지 여과기의 잔잔한 수류 상태를 점검합니다.",
+    "step2": "낮에는 베타 전용 펠릿 사료를 3 - 4알 급여하고 떨어진 잔여물은 스포이트로 치웁니다.",
+    "step3": "저녁에는 거품집 유무를 관찰하고 3 - 5분간 거울 훈련으로 활력을 증진시킵니다."
+  },
+  "heroImage": "/images/blog/betta_fish_care.png",
+  "sources": [
+    "WSAVA Aquatic Animal Welfare Guidelines",
+    "Anabantoid Fish Medicine Standards"
+  ]
+}

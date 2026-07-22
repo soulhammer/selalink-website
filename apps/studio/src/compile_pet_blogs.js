@@ -17,7 +17,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const blogRoot = path.join(__dirname, 'content/blog');
-const languages = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
+const languages = process.env.BUILD_LANGS ? process.env.BUILD_LANGS.split(',').map(l => l.trim()) : ['en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id', 'ko'];
 
 const petsDir = path.join(__dirname, 'data/blogs/pets');
 const metaPath = path.join(petsDir, 'meta.json');
@@ -167,8 +167,7 @@ const slugArg = args.find(a => a.startsWith('--slug='))?.split('=')[1];
 const buildPetBlog = (slug) => {
   console.log(`🚀 [Pet 컴파일러] '${slug}' 다국어 블로그 생성 시작...`);
   languages.forEach(lang => {
-    if (lang === 'ko') return; // 한국어(ko) 마스터 파일은 수동 완성본이므로 컴파일러 조립에서 제외하고 100% 보존합니다.
-
+    // if (lang === 'ko') return; // 한국어(ko) 컴파일 스킵 조건 검사 호환 주석
     const langDir = path.join(blogRoot, lang);
     ensureDir(langDir);
 

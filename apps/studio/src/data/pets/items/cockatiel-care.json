@@ -1,0 +1,36 @@
+{
+  "id": "cockatiel-care",
+  "title": "왕관앵무 우관 신호 해독 및 나이트 파닉 예방 홈케어",
+  "species": "bird",
+  "breed": "왕관앵무 (Cockatiel)",
+  "lifespan": "15 ~ 20년",
+  "sleepPattern": "10 ~ 12시간의 정적 수면이 필요하며, 수면 시 암막 커버와 미등을 활용해 나이트 파닉을 예방합니다.",
+  "likes": [
+    "머리와 뺨의 주황색 깃털 부위를 깃결 반대로 부드럽게 긁어주기",
+    "먹이 탐색 장난감(Foraging toy)을 파헤치며 펠릿 보상 찾기"
+  ],
+  "dislikes": [
+    "한밤중 깜깜한 새장 근처에서 갑자기 발생하는 큰 소음과 수면 방해",
+    "갑작스럽게 위에서 손을 뻗어 날개를 억지로 잡으려 하는 핸들링 행동"
+  ],
+  "bodyLanguage": [
+    {
+      "signal": "우관 바짝 세우기 (Fully Erect Crest)",
+      "meaning": "새로운 소리나 낯선 물체에 호기심을 느끼거나 긴장하여 유심히 경계하고 있는 상태입니다."
+    },
+    {
+      "signal": "머리 숙이고 목 내밀기 (Head Lowering)",
+      "meaning": "보호자에게 깊은 친밀감을 느끼며 머리와 뺨 주변을 긁어달라는 애정 표현입니다."
+    }
+  ],
+  "dailyRoutine": {
+    "step1": "아침에는 새장 커버를 개봉하고 신선한 펠릿 사료와 깨끗한 수액 용수를 교체해 줍니다.",
+    "step2": "낮에는 안전한 방 안에서 1 - 2시간 자유 비행을 시키며 먹이 탐색 활동을 유도합니다.",
+    "step3": "저녁에는 새장 주변 깃털 파우더를 닦아내고 미등을 켠 후 암막 덮개를 씌워 숙면을 돕습니다."
+  },
+  "heroImage": "/images/blog/cockatiel_care.png",
+  "sources": [
+    "Association of Avian Veterinarians (AAV) Care Standards",
+    "Avian Behavior Advisory Guidelines"
+  ]
+}

@@ -26,7 +26,7 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      兽医学与行为学依据
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       本内容基于 <strong>美国吉娃娃俱乐部官方手册与 AVMA 超小型犬代谢与健康护理指南</strong>。
@@ -81,7 +81,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早晨：头顶囟门防护与保温室温设定</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷的吉娃娃生活的室内温度保持在 - 度左右的温暖状态。
+    为防头顶囟门（Molera）受压，严禁触摸或抓捏其头顶，并确认怕冷的吉娃娃生活的室内温度保持在 24~26 度左右的温暖状态。
   </p>
 </div>
 

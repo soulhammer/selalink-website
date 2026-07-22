@@ -1,0 +1,521 @@
+{
+  "holland-lop-care": {
+    "pubDate": "2026-07-15",
+    "updatedDate": "2026-07-15",
+    "locales": {
+      "ko": {
+        "title": "홀랜드 롭 토끼의 처진 귀 관리와 행복의 빙키 춤 3단계 데일리 루틴",
+        "description": "귀여운 처진 귀가 매력적인 홀랜드 롭(Holland Lop). 외이염 예방과 행복의 기쁨 표현 '빙키(Binky)' 춤 시그널, 티모시 무제한 급여 3단계 케어.",
+        "authority": "House Rabbit Society (HRS) & Association of Exotic Mammal Veterinarians (AEMV)",
+        "profile": {
+          "breed": "홀랜드 롭 토끼 (Holland Lop Rabbit)",
+          "lifespan": "8 ~ 12년",
+          "sleep_pattern": "8 ~ 10시간 (낮과 한밤중 분할 수면)",
+          "temperament": "애교 많음, 호기심, 온순함, 장난기"
+        },
+        "intro": "둥근 얼굴과 아래로 길게 늘어진 처진 귀가 귀여운 홀랜드 롭(Holland Lop)은 세계적으로 큰 사랑을 받는 소형 반려토끼 품종입니다. 미국 토끼 수의사회(HRS)와 특수소동물 수의학회(AEMV)의 행동 지침에 따르면, 홀랜드 롭은 귓구멍이 아래로 막혀있어 귓병(외이염)에 취약하며, 섬유질이 풍부한 티모시 건초를 24시간 무제한 섭취해야 장정체(GI Stasis)를 예방할 수 있습니다.",
+        "whyTitle": "홀랜드 롭의 감정 표현: 빙키(Binky) 춤과 발 쿵쿵거리기(Thumping)",
+        "whyDesc": "토끼는 소리보다 온몸의 가벼운 동작으로 기분을 표현합니다. 공중으로 뛰어오르며 몸을 꼬는 '빙키 춤'은 최고조의 행복을 의미하며, 뒷발로 바닥을 강하게 치는 '쿵쿵이'는 경계 신호입니다.",
+        "body_signals": [
+          {
+            "name": "공중으로 소용돌이치듯 뛰어오르며 몸 비틀기 (Binky Dance)",
+            "meaning": "현재 사육 환경과 보호자의 행동에 대해 극도의 기쁨과 행복감을 느낄 때 나타나는 최고의 기쁨 신호입니다.",
+            "response": "토끼가 신나게 달릴 수 있도록 미끄러지지 않는 안심 매트 공간을 넓혀주고 함께 기뻐해 줍니다."
+          },
+          {
+            "name": "뒷발로 바닥을 강하게 쿵쿵 소리 내어 치기 (Thumping)",
+            "meaning": "주변에 위협적인 소리나 낯선 냄새가 나거나, 원하는 간식을 주지 않아 강한 불만을 경고하는 신호입니다.",
+            "response": "무엇이 토끼를 놀라게 했는지 주변 환경(소음, 다른 동물)을 체크하고 낮고 부드러운 목소리로 달래줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 티모시 건초 무제한 채우기 및 신선한 식수 수액기 교체",
+            "text": "장운동을 지속하기 위해 신선한 1번 칼티모시 건초를 건초대에 가득 채우고 깨끗한 물을 제공합니다."
+          },
+          {
+            "name": "낮: 처진 귀 안쪽 통풍 통증 상태 확인 및 정적 유지",
+            "text": "늘어진 귀 내부를 부드럽게 젖혀 이물질이나 붉은 귓병 전조가 없는지 살피고 낮 수면을 보장합니다."
+          },
+          {
+            "name": "저녁: 터널 자율 운동 울타리 놀이 및 림프 순환 브러싱 케어",
+            "text": "안전하게 울타리를 열어 터널 놀이 운동을 시키고, 모구증(Hairball) 예방을 위해 빗질을 해줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "토끼가 갑자기 밥을 안 먹고 똥을 안 싸는데(장정체) 어떡하나요?",
+            "answer": "토끼에게 장정체(GI Stasis)는 12시간 이내에 목숨을 앗아갈 수 있는 응급 상황입니다. 배를 어루만져 주거나 억지로 먹이지 말고 즉시 토끼 전문 특수소동물 병원으로 이송하세요."
+          },
+          {
+            "question": "귀를 자주 털고 발로 귓가 주변을 긁는데 정상인가요?",
+            "answer": "홀랜드 롭은 귓구멍이 접혀 습기가 차기 쉬워 진드기나 외이염 곰팡이가 생기기 쉽습니다. 귓속에 검은 귓밥이 보이거나 긁는 증상이 심하면 수의사 진료를 받아야 합니다."
+          }
+        ],
+        "tags": [
+          "홀랜드롭",
+          "토끼케어",
+          "빙키춤",
+          "외이염예방",
+          "HRS지침"
+        ]
+      },
+      "en": {
+        "title": "Holland Lop Ear Care Communication and 3-Step Routine for Happy Binky Dances",
+        "description": "Comprehensive care guide for the floppy-eared Holland Lop Rabbit. Prevent ear infections (otitis), decode happy 'Binky' jumps, and ensure 24/7 Timothy hay under HRS standards.",
+        "authority": "House Rabbit Society (HRS) & Association of Exotic Mammal Veterinarians (AEMV)",
+        "profile": {
+          "breed": "Holland Lop Rabbit",
+          "lifespan": "8 - 12 Years",
+          "sleep_pattern": "8 - 10 Hours (Crepuscular / Split Daytime & Midnight Sleep)",
+          "temperament": "Highly Affectionate, Playful, Gentle, Curious"
+        },
+        "intro": "Distinguished by their compact round heads and floppy ears, Holland Lops are among the most beloved rabbit breeds worldwide. According to House Rabbit Society (HRS) and AEMV veterinary standards, their folded ear anatomy makes them vulnerable to inner ear infections (otitis), while continuous 24/7 high-fiber Timothy hay ingestion is vital to prevent fatal Gastrointestinal (GI) Stasis.",
+        "whyTitle": "Holland Lop Communication: Deciphering the Binky Dance & Thumping Signals",
+        "whyDesc": "Rabbits express intense emotion through full-body movements rather than vocalization. The airborne twist jump known as a 'Binky' signals peak euphoria, whereas foot thumping is a defensive alarm.",
+        "body_signals": [
+          {
+            "name": "Mid-Air Twist & Jump (Binky Dance)",
+            "meaning": "An expression of pure joy, high spirits, and deep contentment with their living environment.",
+            "response": "Provide non-slip mat areas so the rabbit can safely sprint and express its happiness without slipping."
+          },
+          {
+            "name": "Stomping Hard with Hind Legs (Thumping)",
+            "meaning": "A warning signal triggered by startling noises, unfamiliar predator scents, or extreme discontent.",
+            "response": "Identify environmental stress factors, speak in low comforting tones, and gently reassure the rabbit."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Unlimited 1st-Cut Timothy Hay Refill & Fresh Water Change",
+            "text": "Fill hay racks generously with fresh 1st-cut Timothy hay to maintain continuous GI motility."
+          },
+          {
+            "name": "Afternoon: Floppy Ear Ventilation Inspection & Quiet Daytime Rest",
+            "text": "Gently lift floppy ears to inspect for redness or discharge, and ensure quiet daytime rest."
+          },
+          {
+            "name": "Evening: Pen Enclosure Tunnel Playtime & Hairball Brushing",
+            "text": "Open the exercise pen for tunnel exploration and brush fur gently to prevent hairball ingestion."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What should I do if my rabbit suddenly stops eating and pooping?",
+            "answer": "This is GI Stasis, a critical medical emergency that can be fatal within 12 hours. Do not force feed; seek immediate emergency care at an exotic mammal veterinary hospital."
+          },
+          {
+            "question": "Is it normal for a Holland Lop to shake its head and scratch its ears frequently?",
+            "answer": "No. Floppy ears trap moisture, making them prone to ear mites and fungal otitis. If you see dark earwax or frequent scratching, take your rabbit to an exotic vet."
+          }
+        ],
+        "tags": [
+          "Holland Lop",
+          "Rabbit Care",
+          "Binky Dance",
+          "HRS Standards",
+          "GI Stasis Prevention"
+        ]
+      },
+      "ja": {
+        "title": "ホーランドロップの垂れ耳ケアとビンキーダンスを引き出す3ステップデイリーケア",
+        "description": "愛くるしい垂れ耳のホーランドロップ。外耳炎予防、最高潮の喜び表現「ビンキーダンス」、HRS基準に準拠したチモシー無制限給餌の3ステップケアを解説します。",
+        "authority": "House Rabbit Society (HRS) & 特殊小動物獣医師会 (AEMV)",
+        "profile": {
+          "breed": "ホーランドロップ (Holland Lop)",
+          "lifespan": "8 - 12年",
+          "sleep_pattern": "8 - 10時間 (薄明薄暮性・昼と夜中の分割睡眠)",
+          "temperament": "人懐っこい、遊び好き、温厚、甘えん坊"
+        },
+        "intro": "丸い顔と垂れ耳が特徴のホーランドロップは、世界中で大人気の小型ウサギです。HRS（アメリカ家兎協会）およびAEMVのガイドラインに基づき、構造上外耳炎になりやすい垂れ耳の衛生管理と、致死的なうっ滞（GI Stasis）を防ぐ24時間チモシー無制限給餌が健康の根幹です。",
+        "whyTitle": "ホーランドロップの感情表現：ビンキーダンスと足ダンの解読",
+        "whyDesc": "ウサギは声よりも全身のしぐさで感情を表現します。空中へジャンプして体をひねる「ビンキー（Binky）」は最高潮の喜びの舞であり、後ろ足で床を叩く「足ダン（Thumping）」は警戒のサインです。",
+        "body_signals": [
+          {
+            "name": "空中ジャンプして体をひねる (Binky Dance)",
+            "meaning": "環境と飼い主に心から安心し、最高の喜びを感じている幸運のサインです。",
+            "response": "滑らないラグやマットを敷いた広いスペースで楽しく走らせてあげましょう。"
+          },
+          {
+            "name": "後ろ足で床を強力に叩く (Thumping / 足ダン)",
+            "meaning": "大きな音や見慣れない匂いに警戒し、恐怖や不満を周囲に警告しています。",
+            "response": "何に驚いたか原因を確認し、優しく低い声で声をかけて落ち着かせます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：新鮮なチモシーの無制限補給と給水器の水交換",
+            "text": "胃腸の動きを止めることのないよう、1番刈りチモシー牧草をたっぷりと補給します。"
+          },
+          {
+            "name": "昼：垂れ耳内部の通気チェックと昼間の静かな睡眠",
+            "text": "耳を優しくめくって赤みや汚れがないか確認し、静かに休ませます。"
+          },
+          {
+            "name": "夜：トンネル運動と毛球症予防のグルーミング",
+            "text": "サークルを広げてトンネル遊びをさせ、毛玉の誤飲を防ぐブラッシングを行います。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ウサギがご飯を食べずフンも出ない（うっ滞）時はどうすればいいですか？",
+            "answer": "うっ滞(GI Stasis)は12時間以内に命に関わる緊急事態です。無理に食べさせず、すぐにエキゾチックアニマル専門の獣医に見せてください。"
+          },
+          {
+            "question": "耳を頻繁に振ったり足で掻いたりするのは正常ですか？",
+            "answer": "垂れ耳は湿気がこもりやすく外耳炎やダニが発生しやすいです。黒い耳垢や頻繁なダニ掻きが見られたら獣医師の診察が必要です。"
+          }
+        ],
+        "tags": [
+          "ホーランドロップ",
+          "ウサギの飼い方",
+          "ビンキーダンス",
+          "うっ滞予防",
+          "HRS基準"
+        ]
+      },
+      "zh": {
+        "title": "荷兰垂耳兔耳朵护理与激发快乐Binky舞 responses 3步日常",
+        "description": "可爱垂耳兔子荷兰垂耳兔（Holland Lop）护理指南。外耳炎预防、极度喜悦‘Binky’跳跃解读 responses HRS 24小时无限量提摩西干草喂养。",
+        "authority": "美国家兔协会 (HRS) 与 特殊小动物兽医师学会 (AEMV)",
+        "profile": {
+          "breed": "荷兰垂耳兔 (Holland Lop Rabbit)",
+          "lifespan": "8 - 12年",
+          "sleep_pattern": "8 - 10小时 (晨昏性、分段睡眠)",
+          "temperament": "亲人、黏人、温顺、好动"
+        },
+        "intro": "圆滚滚的面庞与垂落在两旁的大耳朵使荷兰垂耳兔备受全球喜好。遵照HRS与AEMV权威指导，垂耳结构使其耳道易积聚湿气引发外耳炎，保持24小时不限量提摩西干草供应是预防致命胃肠停滞（GI Stasis） responses 基础。",
+        "whyTitle": "荷兰垂耳兔的情绪语言：Binky快乐舞与跺脚警告解密",
+        "whyDesc": "兔子主要通过肢体动作表达情感。在空中腾空拧身跳跃的‘Binky舞’代表极致 responses 快乐，而用后脚猛烈跺脚（Thumping）则是警惕与表达不满。",
+        "body_signals": [
+          {
+            "name": "空中腾空跃起并扭动身体 (Binky Dance)",
+            "meaning": "对当前环境与主人感到极度安全、兴奋与幸福 responses 最高级快乐表达。",
+            "response": "铺设防滑地毯，扩大活动范围，让其尽情奔跑欢跳。"
+          },
+          {
+            "name": "用后脚用力跺击地面 (Thumping / 跺脚)",
+            "meaning": "受到外界异常噪音、陌生气味惊吓，或表达强烈的警惕与抗议。",
+            "response": "排查环境中的惊吓源，用轻柔低沉 responses 声音抚慰兔子。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：无限量提摩西干草补充与饮水器换水",
+            "text": "将干草架塞满新鲜1切提摩西干草，确保肠道24小时蠕动。"
+          },
+          {
+            "name": "下午：垂耳内部通气检查与日间睡眠保护",
+            "text": "轻轻掀起下垂 responses 耳朵检查耳道是否发红或有异味，保持环境安静。"
+          },
+          {
+            "name": "夜晚：隧道放风运动与防止毛球症梳毛护理",
+            "text": "打开围栏放风玩耍隧道，并用专用排梳梳理脱落浮毛。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "兔子突然绝食且不排便（胃肠停滞）怎么办？",
+            "answer": "胃肠停滞（GI Stasis）是极为致命 responses 急症，12小时内可危及生命。请勿自行喂药，必须立即送往异宠/兔子专业医院急救。"
+          },
+          {
+            "question": "荷兰垂耳兔经常甩头抓耳朵是正常的吗？",
+            "answer": "不正常。垂耳结构容易积聚湿气导致耳螨或外耳炎。如果发现黑色耳垢或频繁抓挠，需立即就医。"
+          }
+        ],
+        "tags": [
+          "荷兰垂耳兔",
+          "兔子护理",
+          "Binky舞",
+          "胃肠停滞",
+          "HRS标准"
+        ]
+      },
+      "es": {
+        "title": "Cuidados de Orejas de Holland Lop y Rutina de 3 Pasos para el Baile 'Binky'",
+        "description": "Guía completa de cuidado para el conejo Holland Lop. Previene otitis, interpreta los saltos de felicidad 'Binky' y proporciona heno Timothy ilimitado 24/7.",
+        "authority": "House Rabbit Society (HRS) & AEMV Normas de Conejos",
+        "profile": {
+          "breed": "Conejo Holland Lop (Holland Lop)",
+          "lifespan": "8 - 12 años",
+          "sleep_pattern": "8 - 10 horas (Crepuscular / Sueño diurno divido)",
+          "temperament": "Afectuoso, juguetón, dócil, curioso"
+        },
+        "intro": "El Holland Lop es una de las razas de conejos más queridas del mundo por su cara redonda y orejas caídas. Según la House Rabbit Society (HRS), su anatomía de orejas caídas requiere prevención de otitis e inspección constante, mientras que el heno Timothy ilimitado 24/7 es vital para prevenir la estasis gastrointestinal.",
+        "whyTitle": "Comunicación del Holland Lop: El Baile Binky y el Pisotón Trasero",
+        "whyDesc": "Los conejos expresan su alegría con el 'Binky' (salto giratorio en el aire). El pisotón fuerte con las patas traseras es una señal de alerta o descontento.",
+        "body_signals": [
+          {
+            "name": "Salto y Giro en el Aire (Binky Dance)",
+            "meaning": "Expresión de pura alegría, entusiasmo y máxima seguridad en su entorno.",
+            "response": "Proporciona alfombras antideslizantes para que corra de forma segura sin resbalar."
+          },
+          {
+            "name": "Pisotón Fuerte con Pata Trasera (Thumping)",
+            "meaning": "Señal de advertencia ante ruidos extraños, olores de depredador o molestia.",
+            "response": "Identifica la fuente de susto y háblale con voz suave y grave."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Relleno Ilimitado de Heno Timothy y Agua Fresca",
+            "text": "Llena el henero con heno Timothy fresco de 1er corte para mantener la motilidad intestinal."
+          },
+          {
+            "name": "Tarde: Inspección de Orejas Caídas y Descanso Diurno",
+            "text": "Levanta suavemente las orejas para revisar si hay enrojecimiento o secreciones."
+          },
+          {
+            "name": "Noche: Ejercicio en Túneles y Cepillado de Pelaje",
+            "text": "Abre el parque de juegos para ejercicio y cepilla su pelaje para evitar bolas de pelo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Qué hacer si el conejo deja de comer y defecar de repente?",
+            "answer": "Es Estasis Gastrointestinal (GI Stasis), una urgencia veterinaria vital en 12 horas. Llévalo inmediatamente a un veterinario de animales exóticos."
+          },
+          {
+            "question": "¿Es normal que sacuda la cabeza y se rasque mucho las orejas?",
+            "answer": "No. Las orejas caídas acumulan humedad y son propensas a ácaros u otitis. Si notas cera oscura o rascado excesivo, requiere atención médica."
+          }
+        ],
+        "tags": [
+          "Holland Lop",
+          "Conejos",
+          "Cuidados de Mascotas",
+          "Estasis GI",
+          "Normas HRS"
+        ]
+      },
+      "fr": {
+        "title": "Soins des Oreilles du Holland Lop et Routine en 3 Étapes pour la Danse Binky",
+        "description": "Guide complet pour le lapin Holland Lop. Prévenez les otites, décodez les sauts de joie 'Binky' et fournissez du foin de fléole à volonté sous les normes HRS.",
+        "authority": "House Rabbit Society (HRS) & AEMV Normes NAC",
+        "profile": {
+          "breed": "Holland Lop (Lapin Bélier)",
+          "lifespan": "8 - 12 ans",
+          "sleep_pattern": "8 - 10 heures (Crépusculaire / Sommeil scindé)",
+          "temperament": "Très affectueux, joueur, doux, curieux"
+        },
+        "intro": "Le Holland Lop est un lapin très populaire reconnaissable à sa tête ronde et ses oreilles tombantes. Suivant la House Rabbit Society (HRS), inspectez régulièrement ses oreilles pour éviter l'otite et fournissez du foin de fléole à volonté 24/7 contre la stase digestive mortelle.",
+        "whyTitle": "Communication du Holland Lop: Danse Binky et Taper du Pied",
+        "whyDesc": "Le 'Binky' (saut vrillé dans les airs) est l'expression ultime du bonheur. Taper fort du pied arrière indique la peur ou le mécontentement.",
+        "body_signals": [
+          {
+            "name": "Saut Vrillé dans les Airs (Binky Dance)",
+            "meaning": "Signe de pure joie, de grande forme et de sécurité absolue dans son habitat.",
+            "response": "Offrez un espace sécurisé avec tapis antidérapant."
+          },
+          {
+            "name": "Tape du Pied Arrière (Thumping)",
+            "meaning": "Avertissement de danger face à un bruit suspect ou un mécontentement.",
+            "response": "Identifiez la cause et rassurez-le d'une voix douce."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin: Foin de Fléole à Volonté & Eau Fraîche",
+            "text": "Remplissez le râtelier de foin de fléole frais de 1ère coupe pour stimuler le transit."
+          },
+          {
+            "name": "Après-midi: Inspection des Oreilles Tombantes & Repos",
+            "text": "Soulevez délicatement les oreilles pour vérifier l'absence d'inflammation."
+          },
+          {
+            "name": "Soir: Exercice dans les Tunnels & Brossage",
+            "text": "Laissez-le courir dans un parc sécurisé et brossez-le pour éviter l'ingestion de poils."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Que faire si mon lapin ne mange plus et ne fait plus de crottes ?",
+            "answer": "C'est une stase gastro-intestinale (GI Stasis), une urgence vitale en 12h. Consultez immédiatement un vétérinaire NAC."
+          },
+          {
+            "question": "Est-il normal qu'il secoue la tête et se gratte souvent les oreilles ?",
+            "answer": "Non, ses oreilles tombantes retiennent l'humidité et favorisent les otites et gale d'oreille. Consultez un vétérinaire NAC."
+          }
+        ],
+        "tags": [
+          "Holland Lop",
+          "Lapin Bélier",
+          "Soins NAC",
+          "Stase Digestive",
+          "Normes HRS"
+        ]
+      },
+      "de": {
+        "title": "Holland-Lop-Ohrenpflege und 3-Schritte-Routine für glückliche Binky-Tänze",
+        "description": "Pflegeanleitung für Holland Lop Zwergwidder. Otitis vorbeugen, Binky-Freudensprünge verstehen und unbegrenzt Timotheegras nach HRS-Standards anbieten.",
+        "authority": "House Rabbit Society (HRS) & AEMV Standards",
+        "profile": {
+          "breed": "Holland Lop (Zwergwidder)",
+          "lifespan": "8 - 12 Jahre",
+          "sleep_pattern": "8 - 10 Stunden (Dämmerungsaktiv / Geteilter Schlaf)",
+          "temperament": "Anhänglich, verspielt, sanft, neugierig"
+        },
+        "intro": "Der Holland Lop zeichnet sich durch seine Schlappohren aus. Gemäß HRS-Richtlinien müssen Schlappohren wegen Infektionsgefahr (Otitis) belüftet und rund um die Uhr unbegrenzt Heu zur Vermeidung von Magen-Darm-Stase gefüttert werden.",
+        "whyTitle": "Körpersprache: Binky-Tanz & Klopfen mit den Hinterläufen",
+        "whyDesc": "Der Binky-Sprung steht für pure Lebensfreude. Das Klopfen (Thumping) mit den Hinterbeinen signalisiert Warnung oder Unmut.",
+        "body_signals": [
+          {
+            "name": "Freudensprung mit Drehung in der Luft (Binky Dance)",
+            "meaning": "Ausdruck von tiefer Freude, Energie und vollkommenem Wohlbefinden.",
+            "response": "Rutschfeste Teppiche für sicheres Auslaufen bereitstellen."
+          },
+          {
+            "name": "Klopfen mit den Hinterläufen (Thumping)",
+            "meaning": "Warnung vor Geräuschen, Raubtiergerüchen oder Unzufriedenheit.",
+            "response": "Ursache ermitteln und mit sanfter Stimme beruhigen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Unbegrenzt Timothy-Heu & Frischwasser",
+            "text": "Heuraufe auffüllen, um die Magen-Darm-Motorik aufrechtzuerhalten."
+          },
+          {
+            "name": "Nachmittag: Schlappohren-Kontrolle & Ruhezeit",
+            "text": "Ohren sanft anheben und auf Rötungen oder Ausfluss prüfen."
+          },
+          {
+            "name": "Abend: Auslauf im Tunnel & Fellpflege",
+            "text": "Auslauf gewähren und Fell bürsten gegen Haarballenbildung."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Was tun, wenn das Kaninchen nicht mehr frisst und keinen Kot absetzt?",
+            "answer": "Dies ist eine lebensgefährliche Magen-Darm-Stase (GI Stasis). Bringen Sie das Tier binnen 12 Stunden zum Heimtier-Tierarzt."
+          },
+          {
+            "question": "Ist es normal, wenn das Kaninchen oft den Kopf schüttelt und die Ohren kratzt?",
+            "answer": "Nein. Schlappohren neigen zu Milben und Pilzinfektionen. Bei dunklem Schmalz oder Kratzen ist ein Tierarztbesuch nötig."
+          }
+        ],
+        "tags": [
+          "Holland Lop",
+          "Zwergwidder",
+          "Kaninchenpflege",
+          "GI Stasis",
+          "HRS-Standards"
+        ]
+      },
+      "pt": {
+        "title": "Cuidados com Orelhas do Holland Lop e Rotina em 3 Passos Para a Dança Binky",
+        "description": "Guia completo de cuidados para o coelho Holland Lop. Previna otite, decodifique os saltos de alegria 'Binky' e ofereça feno Timothy ilimitado 24/7.",
+        "authority": "House Rabbit Society (HRS) & AEMV Normas de Coelhos",
+        "profile": {
+          "breed": "Coelho Holland Lop (Holland Lop)",
+          "lifespan": "8 - 12 anos",
+          "sleep_pattern": "8 - 10 horas (Crepuscular / Sono dividido)",
+          "temperament": "Afetuoso, brincalhão, dócil, curioso"
+        },
+        "intro": "O Holland Lop é muito querido por suas orelhas caídas. Conforme a House Rabbit Society (HRS), suas orelhas necessitam de atenção para evitar otite e feno constante 24/7 contra estase intestinal vital.",
+        "whyTitle": "Comunicação do Holland Lop: A Dança Binky e as Batidas de Pata",
+        "whyDesc": "O 'Binky' (salto giratório no ar) é a expressão máxima de felicidade. Batidas fortes com as patas traseiras indicam alerta ou insatisfação.",
+        "body_signals": [
+          {
+            "name": "Salto e Giro no Ar (Binky Dance)",
+            "meaning": "Expressão de pura alegria e segurança total no ambiente.",
+            "response": "Ofereça espaço com tapete antiderrapante."
+          },
+          {
+            "name": "Batida Forte com Pata Traseira (Thumping)",
+            "meaning": "Sinal de alerta diante de barulhos ou insatisfação.",
+            "response": "Acalme o coelho falando baixinho e suave."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Feno Timothy Ilimitado e Água Fresca",
+            "text": "Encha o porta-feno com feno Timothy fresco de 1º corte."
+          },
+          {
+            "name": "Tarde: Inspeção de Orelhas Caídas e Descanso",
+            "text": "Levante suavemente as orelhas para checar se há vermelhidão."
+          },
+          {
+            "name": "Noite: Exercício em Túneis e Escovação",
+            "text": "Deixe-o correr no recinto e escove a pelagem contra bolas de pelo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O que fazer se o coelho parar de comer e defecar?",
+            "answer": "Isso é Estase Gastrointestinal (GI Stasis), uma emergência médica vital em 12h. Leve imediatamente a um veterinário de exóticos."
+          },
+          {
+            "question": "É normal balançar a cabeça e coçar muito as orelhas?",
+            "answer": "Não. Orelhas caídas acumulam umidade e ácaros. Se houver cera escura ou coceira, consulte um veterinário."
+          }
+        ],
+        "tags": [
+          "Holland Lop",
+          "Coelhos",
+          "Cuidados com Pets",
+          "Estase Intestinal",
+          "Padrões HRS"
+        ]
+      },
+      "id": {
+        "title": "Perawatan Telinga Holland Lop dan Rutinitas 3 Langkah Tarian Binky yang Bahagia",
+        "description": "Panduan lengkap merawat Kelinci Holland Lop. Cegah infeksi telinga (otitis), pahami lompatan bahagia 'Binky', dan sediakan rumput Timothy 24/7 sesuai standar HRS.",
+        "authority": "House Rabbit Society (HRS) & Standar Dokter Hewan AEMV",
+        "profile": {
+          "breed": "Kelinci Holland Lop",
+          "lifespan": "8 - 12 Tahun",
+          "sleep_pattern": "8 - 10 Jam (Krepuskular / Tidur Terbagi)",
+          "temperament": "Manja, Lincah, Penurut, Sangat Ingin Tahu"
+        },
+        "intro": "Holland Lop sangat disukai karena wajah bulat dan telinganya yang menggantung. Menurut standar House Rabbit Society (HRS), bentuk telinga menggantung butuh pemeriksaan rutin agar tidak infeksi otitis, serta rumput Timothy tak terbatas 24 jam untuk mencegah GI Stasis yang mematikan.",
+        "whyTitle": "Komunikasi Holland Lop: Tarian Binky & Menghentakkan Kaki Belakang",
+        "whyDesc": "Lompatan berputar di udara (Binky) adalah ungkapan kebahagiaan tertinggi. Menghentakkan kaki belakang (Thumping) menandakan kewaspadaan atau rasa tidak suka.",
+        "body_signals": [
+          {
+            "name": "Lompatan Berputar di Udara (Binky Dance)",
+            "meaning": "Ungkapan rasa gembira, antusiasme, dan kenyamanan luar biasa pada lingkungannya.",
+            "response": "Sediakan karpet anti-licin agar kelinci dapat berlari aman tanpa terpeleset."
+          },
+          {
+            "name": "Menghentakkan Kaki Belakang (Thumping)",
+            "meaning": "Peringatan bahaya akibat suara asing, bau pemangsa, atau kekesalan.",
+            "response": "Cari tahu penyebab kaget dan tenangkan dengan suara lembut ber-nada rendah."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Isi Rumput Timothy Tanpa Batas & Ganti Air Minum",
+            "text": "Isi tempat rumput dengan rumput Timothy segar pemotongan pertama untuk usus."
+          },
+          {
+            "name": "Siang: Cek Kebersihan Telinga Menggantung & Tidur Siang",
+            "text": "Buka telinganya perlahan untuk mengecek kemerahan atau kotoran."
+          },
+          {
+            "name": "Malam: Bermain Terowongan & Menyikat Bulu",
+            "text": "Buka kandang untuk berlari dan sikat bulunya agar tidak tertelan (hairball)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana jika kelinci tiba-tiba tidak mau makan dan buang air?",
+            "answer": "Ini adalah GI Stasis (Stasis Pencernaan), kondisi darurat yang mengancam jiwa dalam 12 jam. Segera bawa ke dokter hewan spesialis eksotis."
+          },
+          {
+            "question": "Apakah normal jika kelinci sering menggelengkan kepala dan menggaruk telinga?",
+            "answer": "Tidak normal. Telinga menggantung mudah lembap dan terinfeksi tungau atau jamur. Jika ada kotoran hitam atau garukan hebat, segera konsultasikan ke dokter hewan."
+          }
+        ],
+        "tags": [
+          "Holland Lop",
+          "Kelinci",
+          "Perawatan Kelinci",
+          "GI Stasis Prevention",
+          "Standar HRS"
+        ]
+      }
+    }
+  }
+}

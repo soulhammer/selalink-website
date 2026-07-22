@@ -18,13 +18,13 @@ faqs:
 
 샴 고양이는 태국의 왕실에서 유래한 유서 깊은 품종으로, 귀와 얼굴, 발끝에 드러나는 포인트 컬러가 아름다운 반려묘입니다. 성격은 흔히 '개냥이'라고 불릴 정도로 매우 사교적이며, 다른 고양이 품종들과 달리 보호자에게 계속 말을 거는 듯이 다양한 톤으로 우는 독특한 매력을 자랑합니다. 🐱 하지만 보호자에 대한 극도의 의존도는 분리불안이라는 취약점을 낳습니다. 샴 고양이는 오랜 시간 홀로 방치되면 외로움과 스트레스로 인해 끊임없이 우는 하울링을 하거나 파괴적인 긁기 행동을 유발할 확률이 높습니다. 오늘 PetSelf에서는 샴 고양이의 애정 가득한 목소리에 반응하는 올바른 소통법을 알아보고, 외로움을 극복하게 돕는 정서 안정 놀이 3단계 루틴을 제공합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>Cat Fanciers' Association (CFA) 공식 가이드 및 AAFP 고양이 행동 프로토콜</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>샴 고양이가 밤에 쉴 새 없이 우는데 어디 아픈 건가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>샴 고양이를 혼자 둔 뒤 하울링이 심해졌는데 외출 시 어떻게 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

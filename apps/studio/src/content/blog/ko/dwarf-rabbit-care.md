@@ -18,13 +18,13 @@ faqs:
 
 앙증맞은 작은 귀와 둥글고 귀여운 외모를 가진 네덜란드 드워프 토끼는 전 세계적으로 가장 사랑받는 토끼 품종 중 하나입니다. 그러나 몸집이 작은 만큼 겁이 많고 환경 변화에 극도로 예민하며, 섬유질 섭취가 부족하면 위장관 정체증(GI Stasis)과 같은 치명적인 질환에 걸리기 쉽습니다. 또한 불안을 느끼면 뒷발로 바닥을 쿵쿵 구르며 격렬한 거부 의사를 표시합니다. 오늘 PetSelf에서는 드워프 토끼의 덤핑 불안 신호를 분석하고, 건강한 소화 기관과 발톱 안전을 보장하는 3단계 홈케어 루틴을 공유합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>House Rabbit Society 토끼 메디컬 가이드 및 소동물 수의학 행동 매뉴얼</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>토끼 목욕을 꼭 시켜야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>변의 크기가 작아지거나 잘 먹지 않을 때는요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

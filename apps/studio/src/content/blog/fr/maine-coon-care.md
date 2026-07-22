@@ -26,7 +26,7 @@ Aujourd'hui, PetSelf décode le langage corporel du Maine Coon et présente une 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      Preuves Vétérinaires et Comportementales
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Ce contenu est basé sur <strong>Guide de la Maine Coon Breeders & Fanciers Association (MCBFA) et protocoles de gestion des grands félins de l'AAFP</strong>.

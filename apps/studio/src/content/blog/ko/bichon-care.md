@@ -18,13 +18,13 @@ faqs:
 
 솜사탕처럼 하얗고 보송보송한 비숑 프리제는 지치지 않는 쾌활함과 극강의 사랑스러움으로 많은 반려인들에게 행복을 주는 견종입니다. 하지만 곱슬거리는 얇은 장모는 빗질을 멈추면 속털부터 단단히 뭉치며, 귀와 다리 주변의 털 엉킴은 피부염을 직접 유발합니다. 또한 실내 생활에서 과도한 에너지가 폭발할 때 나타나는 급격한 전속력 질주 행동(일명 비숑타임, FRAPs)은 관절에 큰 무리를 줍니다. 오늘 PetSelf에서는 비숑의 유쾌한 몸짓 신호를 해독하고, 엉킴 없는 코트 브러싱과 비숑타임 시 부상 방지를 돕는 3단계 케어 루틴을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>Bichon Frise Club of America 가이드라인 및 AVMA 수의학 지침</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>비숑 타임(Bichon Blitz) 시 어떻게 진정시켜야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>비숑 프리제의 털 뭉침은 왜 위험한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

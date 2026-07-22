@@ -13,18 +13,18 @@ faqs:
   - question: "털이 안 빠지니 알레르기가 전혀 없나요?"
     answer: "고양이 알레르기는 털 자체보다 침, 비듬, 피지선에서 나오는 단백질이 주원인입니다. 스핑크스는 오히려 알레르기를 유발할 수 있으므로 분양 전 알레르기 반응을 미리 확인해야 합니다."
   - question: "목욕은 얼마나 자주 시켜야 하나요?"
-    answer: "피부 유분 분비 정도에 따라 대략 -주에 한 번 따뜻한 물로 저자극 전용 샴푸를 사용하여 가볍게 목욕시키는 것이 좋습니다. 평소에는 매일 타월로 닦아 관리해 줍니다."
+    answer: "피부 유분 분비 정도에 따라 대략 1~2주에 한 번 따뜻한 물로 저자극 전용 샴푸를 사용하여 가볍게 목욕시키는 것이 좋습니다. 평소에는 매일 타월로 닦아 관리해 줍니다."
 ---
 
 스핑크스 고양이는 돌연변이에 의해 털이 거의 없이 솜털만 지니고 태어난 아주 특별하고 신비로운 품종입니다. 털이 없기 때문에 피지선에서 분비되는 유분이 털로 흡수되지 못하고 피부에 그대로 쌓여 자주 닦아주지 않으면 피부염이나 블랙헤드가 생기기 쉽습니다. 🐈 또한 외부 온도로부터 몸을 보호해 줄 피모가 없어 추위에 극도로 취약하며 쉽게 체온을 잃습니다. 오늘 PetSelf에서는 스핑크스의 민감한 피부를 깨끗하게 유지하고 따뜻하게 보살펴줄 수 있는 3단계 홈케어 루틴을 전합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>고양이의학협회(ISFM) 스핑크스 가이드 및 피모 관리 수의 지침</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>털이 안 빠지니 알레르기가 전혀 없나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,12 +129,12 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>목욕은 얼마나 자주 시켜야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      피부 유분 분비 정도에 따라 대략 -주에 한 번 따뜻한 물로 저자극 전용 샴푸를 사용하여 가볍게 목욕시키는 것이 좋습니다. 평소에는 매일 타월로 닦아 관리해 줍니다.
+      피부 유분 분비 정도에 따라 대략 1~2주에 한 번 따뜻한 물로 저자극 전용 샴푸를 사용하여 가볍게 목욕시키는 것이 좋습니다. 평소에는 매일 타월로 닦아 관리해 줍니다.
     </p>
   </details>
 </div>

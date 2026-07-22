@@ -18,13 +18,13 @@ faqs:
 
 몸 전체에 회오리치는 모양의 가마(로제트) 털을 가진 아비시니안 기니피그는 활발하고 호기심 많은 성격으로 인기가 많습니다. 기니피그는 사람처럼 체내에서 비타민 C를 스스로 합성하지 못하는 독특한 생리 구조를 가지고 있어, 비타민 C 결핍 시 괴혈병, 관절 부종, 면역력 급감을 유발합니다. 또한 호흡기가 매우 취약하여 먼지 없는 건초 급여와 케어 위생이 필수적입니다. 오늘 PetSelf에서는 기니피그의 감정 소리와 몸짓을 분석하고, 비타민 C 강화 및 호흡기 안전을 돕는 3단계 홈케어 루틴을 다룹니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>영국 왕립동물학대방지협회(RSPCA) 설치류 관리 가이드라인 및 소동물 수의학 임상 표준</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>비타민 C 보충을 위해 귤이나 오렌지를 주어도 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>아비시니안 기니피그를 한 마리만 키워도 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

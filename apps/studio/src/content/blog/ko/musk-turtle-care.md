@@ -18,13 +18,13 @@ faqs:
 
 아담한 소형 크기로 큰 수조를 요구하지 않아 초보 반려인들에게 적합한 커먼 머스크 터틀은 조용하고 강인한 반수생 거북이 품종입니다. 비록 물속에서 대부분의 시간을 보내지만, 등껍질 살균과 비타민 D 합성, 그리고 체온 유지를 위해 정기적인 육지 일광욕이 절대적으로 필수적입니다. 일광욕이 부족하거나 필터 정비 없이 탁한 물에 오래 방치하면 쉘 롯(Shell Rot, 갑갑 부패증)과 같은 치명적인 질환으로 고통받을 수 있습니다. 오늘 PetSelf에서는 머스크 터틀의 몸짓 언어와 일광욕 이완 시그널을 확인하고, 맑은 물과 쉘 케어를 돕는 3단계 수조 관리법을 익혀봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>World Chelonian Association 거북이 위생 가이드 및 반수생 거북 사육 수의 지침</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -74,7 +74,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 수온 -도 점검 및 영양 균형 사료 공급</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 수온 25~28도 점검 및 영양 균형 사료 공급</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     거북이의 대사 작용 활성화를 돕기 위해 온도계 수온을 체크하고 전용 거북이 사료와 영양 사료를 소량 나누어 급여합니다.
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>수돗물을 그냥 물그릇과 수조에 채워도 안전한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>등껍질이 하얗게 껍질처럼 벗겨지는데 정상인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

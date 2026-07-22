@@ -22,7 +22,7 @@ Los perros salchicha (Teckel) son adorados por su silueta encantadora y personal
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      Evidencia Veterinaria y Comportamental
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       Este contenido se basa en <strong>Guía de salud del Dachshund del American Kennel Club y Estándares de la Asociación Veterinaria de la Columna</strong>.

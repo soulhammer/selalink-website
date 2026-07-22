@@ -18,13 +18,13 @@ faqs:
 
 작고 귀여운 골든 햄스터는 보호자와 단독 공간에서 조용하게 생활할 수 있어 많은 이들의 사랑을 받는 소형 반려동물입니다. 하지만 자연 상태에서 굴을 파고 살며 매일 수 킬로미터를 달리던 습성이 그대로 남아있어, 좁은 케이지와 시끄러운 환경에서 쉽게 극도의 스트레스를 받습니다. 스트레스를 받은 햄스터는 이갈이를 하며 딱딱 소리를 내거나 케이지 철창을 갉아 이빨이 부러질 수 있습니다. 오늘 PetSelf에서는 골든 햄스터의 경계 신호를 알아보고, 스트레스 없이 아늑한 하루를 만들어주는 3단계 데일리 케어 루틴을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
+<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
   <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      과학적 & 행동학적 근거
+    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+      수의학적 & 행동학적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       본 콘텐츠는 <strong>Humane Society 햄스터 케어 가이드 및 수의학 행동 지침</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -119,7 +119,7 @@ faqs:
   </h3>
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>햄스터가 철장을 자꾸 갉는데 어떡하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
@@ -129,7 +129,7 @@ faqs:
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>모래 목욕탕은 꼭 설치해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>

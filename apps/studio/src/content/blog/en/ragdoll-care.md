@@ -26,7 +26,7 @@ Today, PetSelf decodes Ragdoll body language and introduces a safe 3-step daily 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      
+      Veterinary & Behavioral Evidence
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
       This content is based on <strong>Official Cat Fanciers' Association (CFA) Breed Guide & AAFP Cat Friendly Practice Guidelines</strong>.
