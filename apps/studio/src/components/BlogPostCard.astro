@@ -86,7 +86,7 @@ const formattedDate = new Date(pubDate).toLocaleDateString(lang, {
   data-tags={post.data.tags ? post.data.tags.join(',').toLowerCase() : ''}
 >
   {heroImage && (
-    <div class="relative aspect-video w-full overflow-hidden">
+    <div class="relative aspect-video w-full overflow-hidden bg-slate-200 dark:bg-slate-800 skeleton-shimmer">
       <img 
         src={heroImage} 
         alt={title}

@@ -132,25 +132,46 @@
 /* Force Tailwind v4 to use class-based dark mode instead of strictly relying on media queries */
 @custom-variant dark (&:is(.dark *));
 
+/* Smooth Theme & Color Transitions */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+body {
+  transition: background-color 0.3s cubic-bezier(0.16, 1, 0.3, 1), color 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+::selection {
+  background-color: rgba(13, 148, 136, 0.25);
+  color: inherit;
+}
+
+html.dark ::selection {
+  background-color: rgba(20, 184, 166, 0.35);
+  color: inherit;
+}
+
 /* ==========================================
    Design System - Premium Interactive Cards
    ========================================== */
 
 /* 1. Base Interactive Card */
 .app-card-interactive {
-  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-  border: 1px solid rgba(var(--theme-accent-rgb, 13, 148, 136), 0.1);
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.4s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.4s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.3s ease;
+  border: 1px solid rgba(var(--theme-accent-rgb, 13, 148, 136), 0.12);
 }
 @media (hover: hover) {
   .app-card-interactive:hover {
-    transform: scale(1.02) translateY(-6px);
-    box-shadow: 0 30px 60px -15px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.2), 0 0 0 1px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.2);
-    border-color: rgba(var(--theme-accent-rgb, 13, 148, 136), 0.3);
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px -15px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.18), 0 0 0 1px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.25);
+    border-color: rgba(var(--theme-accent-rgb, 13, 148, 136), 0.35);
   }
 }
 .app-card-interactive:active {
-  transform: scale(0.99) translateY(-2px);
-  box-shadow: 0 15px 30px -10px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.15);
+  transform: translateY(-1px);
+  box-shadow: 0 10px 20px -5px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.15);
   transition: transform 0.1s ease, box-shadow 0.1s ease;
 }
 
@@ -324,4 +345,63 @@ html.dark .app-card-neon {
   font-weight: 800;
   border-width: 1px;
   transition: all 0.2s ease;
+}
+
+/* ==========================================
+   7. Premium UX Enhancements
+   ========================================== */
+
+/* Reading Scroll Progress Bar */
+#scrollProgressBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2.5px;
+  width: 0%;
+  background: linear-gradient(90deg, var(--theme-accent, #0D9488) 0%, #6366F1 50%, #8B5CF6 100%);
+  z-index: 100;
+  transition: width 0.1s ease-out;
+  box-shadow: 0 0 10px rgba(var(--theme-accent-rgb, 13, 148, 136), 0.5);
+  pointer-events: none;
+}
+
+/* Shimmer Loading Animation */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.skeleton-shimmer {
+  background: linear-gradient(90deg, rgba(226, 232, 240, 0.6) 25%, rgba(241, 245, 249, 0.9) 50%, rgba(226, 232, 240, 0.6) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.8s infinite ease-in-out;
+}
+html.dark .skeleton-shimmer {
+  background: linear-gradient(90deg, rgba(30, 41, 59, 0.5) 25%, rgba(51, 65, 85, 0.8) 50%, rgba(30, 41, 59, 0.5) 75%);
+  background-size: 200% 100%;
+}
+
+/* Enhanced Typography & Blockquotes in Blog Content */
+article blockquote {
+  border-left: 3px solid var(--theme-accent, #0D9488) !important;
+  background-color: rgba(var(--theme-accent-rgb, 13, 148, 136), 0.04) !important;
+  padding: 1rem 1.25rem !important;
+  border-radius: 0 0.75rem 0.75rem 0 !important;
+  font-style: italic;
+  margin: 1.5rem 0 !important;
+  transition: background-color 0.3s ease;
+}
+html.dark article blockquote {
+  background-color: rgba(var(--theme-accent-rgb, 13, 148, 136), 0.08) !important;
+  border-left-color: var(--theme-accent, #14B8A6) !important;
+}
+
+article pre {
+  border: 1px solid rgba(226, 232, 240, 0.8);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+  border-radius: 0.875rem !important;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+html.dark article pre {
+  border-color: rgba(255, 255, 255, 0.08);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
 }

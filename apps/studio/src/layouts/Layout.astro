@@ -204,6 +204,9 @@ const isProd = import.meta.env.PROD;
 		</script>
 	</head>
 	<body class="antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black">
+		<!-- Reading Scroll Progress Bar -->
+		<div id="scrollProgressBar"></div>
+
 		<!-- Navigation Bar with Lang & Theme Switches -->
 		<header class="max-w-[1250px] mx-auto px-4 md:px-6 pt-6 md:pt-12 flex flex-row justify-between items-center gap-4 relative z-50">
 			<a href={logoLink} class="text-xl sm:text-2xl font-bold tracking-tighter flex items-center transition-all duration-300 hover:opacity-80">
@@ -354,6 +357,19 @@ const isProd = import.meta.env.PROD;
                     langMenu.classList.remove('scale-100');
                 }
             });
+
+			// Reading Scroll Progress Bar Update
+			const progressBar = document.getElementById('scrollProgressBar');
+			if (progressBar) {
+				const updateProgressBar = () => {
+					const scrollTop = window.scrollY || document.documentElement.scrollTop;
+					const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+					const progress = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
+					progressBar.style.width = `${Math.min(100, Math.max(0, progress))}%`;
+				};
+				window.addEventListener('scroll', updateProgressBar, { passive: true });
+				updateProgressBar();
+			}
 
 			// Interactive Radial Glow logic
 			if (window.matchMedia('(hover: hover)').matches) {
