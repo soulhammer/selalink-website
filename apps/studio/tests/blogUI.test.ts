@@ -66,7 +66,8 @@ describe('블로그 메인 UI JSDOM 동적 기능 통합 검증', () => {
 
     // 3. blogIndex.ts 동적 리로드하여 이벤트 바인딩 실행
     vi.resetModules();
-    await import('../src/utils/blogIndex');
+    // @ts-ignore
+    await import('../src/utils/blogIndex.js');
     document.dispatchEvent(new Event('DOMContentLoaded'));
   });
 

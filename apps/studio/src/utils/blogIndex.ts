@@ -202,13 +202,13 @@ document.addEventListener('DOMContentLoaded', () => {
       if (filter === 'all') {
         btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-slate-900 border-slate-900 text-white dark:bg-white dark:border-white dark:text-slate-900";
       } else if (filter === 'freshsnap') {
-        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-emerald-500 border-emerald-500 text-white dark:bg-emerald-600 dark:border-emerald-600";
+        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-emerald-600 border-emerald-600 text-white dark:bg-emerald-500 dark:border-emerald-500 dark:text-white";
       } else if (filter === 'buildself') {
-        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-indigo-500 border-indigo-500 text-white dark:bg-indigo-600 dark:border-indigo-600";
+        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-sky-600 border-sky-600 text-white dark:bg-sky-500 dark:border-sky-500 dark:text-white";
       } else if (filter === 'logself') {
-        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-blue-500 border-blue-500 text-white dark:bg-blue-600 dark:border-blue-600";
+        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-indigo-600 border-indigo-600 text-white dark:bg-indigo-500 dark:border-indigo-500 dark:text-white";
       } else if (filter === 'petself') {
-        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-rose-500 border-rose-500 text-white dark:bg-rose-600 dark:border-rose-600";
+        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-rose-600 border-rose-600 text-white dark:bg-rose-500 dark:border-rose-500 dark:text-white";
       }
 
       filterAndSort(true); // 필터 변경 시 페이징 리셋

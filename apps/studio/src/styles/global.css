@@ -118,6 +118,15 @@
   --color-slate-650: #3f4e62;
   --color-slate-750: #253246;
   --color-slate-850: #141f2e;
+
+  /* SelaLink Brand Theme System Tokens */
+  --color-brand-studio: #0D9488;
+  --color-brand-buildself: #0284C7;
+  --color-brand-freshself: #8B5CF6;
+  --color-brand-freshsnap: #10B981;
+  --color-brand-logself: #6366F1;
+  --color-brand-petself: #F43F5E;
+  --color-brand-buildsnap: #6366F1;
 }
 
 /* Force Tailwind v4 to use class-based dark mode instead of strictly relying on media queries */

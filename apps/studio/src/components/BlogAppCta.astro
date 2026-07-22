@@ -39,10 +39,10 @@ const appDetails = {
     desc: t('cta.buildself.desc'),
     btnText: t('cta.buildself.btn'),
     link: `/${currentLang}/apps/buildself/`,
-    bgColor: 'bg-indigo-50/50 border-indigo-100 dark:bg-indigo-950/10 dark:border-indigo-500/20',
-    btnBg: 'bg-indigo-600 hover:bg-indigo-700 text-white focus:ring-indigo-500/20',
+    bgColor: 'bg-sky-50/50 border-sky-100 dark:bg-sky-950/10 dark:border-sky-500/20',
+    btnBg: 'bg-sky-600 hover:bg-sky-700 text-white focus:ring-sky-500/20',
     badgeText: t('cta.badge.download'),
-    badgeStyle: 'bg-indigo-100 text-indigo-800 dark:bg-indigo-500/20 dark:text-indigo-300 border-indigo-200/50 dark:border-indigo-500/20',
+    badgeStyle: 'bg-sky-100 text-sky-800 dark:bg-sky-500/20 dark:text-sky-300 border-sky-200/50 dark:border-sky-500/20',
     playStoreId: 'com.selalink.buildself'
   },
   logself: {
@@ -50,10 +50,10 @@ const appDetails = {
     desc: t('app.logself.desc') || 'The safest way to log yourself.',
     btnText: t('cta.general.btn') || 'Learn More',
     link: `/${currentLang}/apps/logself/`,
-    bgColor: 'bg-blue-50/50 border-blue-100 dark:bg-blue-950/10 dark:border-blue-500/20',
-    btnBg: 'bg-blue-600 hover:bg-blue-700 text-white focus:ring-blue-500/20',
+    bgColor: 'bg-indigo-50/50 border-indigo-100 dark:bg-indigo-950/10 dark:border-indigo-500/20',
+    btnBg: 'bg-indigo-600 hover:bg-indigo-700 text-white focus:ring-indigo-500/20',
     badgeText: t('cta.badge.download'),
-    badgeStyle: 'bg-blue-100 text-blue-800 dark:bg-blue-500/20 dark:text-blue-300 border-blue-200/50 dark:border-blue-500/20',
+    badgeStyle: 'bg-indigo-100 text-indigo-800 dark:bg-indigo-500/20 dark:text-indigo-300 border-indigo-200/50 dark:border-indigo-500/20',
     playStoreId: 'com.selalink.logself'
   },
   general: {
@@ -88,9 +88,9 @@ const styleVars = app === 'freshsnap'
   : app === 'freshself'
   ? '--theme-color-light: rgba(139, 92, 246, 0.05); --theme-color-border-hover: rgba(139, 92, 246, 0.3); --theme-color-glow: rgba(139, 92, 246, 0.15);'
   : app === 'buildself'
-  ? '--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);'
+  ? '--theme-color-light: rgba(2, 132, 199, 0.05); --theme-color-border-hover: rgba(2, 132, 199, 0.3); --theme-color-glow: rgba(2, 132, 199, 0.15);'
   : app === 'logself'
-  ? '--theme-color-light: rgba(59, 130, 246, 0.05); --theme-color-border-hover: rgba(59, 130, 246, 0.3); --theme-color-glow: rgba(59, 130, 246, 0.15);'
+  ? '--theme-color-light: rgba(99, 102, 241, 0.05); --theme-color-border-hover: rgba(99, 102, 241, 0.3); --theme-color-glow: rgba(99, 102, 241, 0.15);'
   : app === 'petself'
   ? '--theme-color-light: rgba(244, 63, 94, 0.05); --theme-color-border-hover: rgba(244, 63, 94, 0.3); --theme-color-glow: rgba(244, 63, 94, 0.15);'
   : '--theme-color-light: rgba(13, 148, 136, 0.05); --theme-color-border-hover: rgba(13, 148, 136, 0.3); --theme-color-glow: rgba(13, 148, 136, 0.15);';

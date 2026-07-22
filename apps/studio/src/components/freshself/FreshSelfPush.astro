@@ -23,7 +23,7 @@ const t = useTranslations(lang as keyof typeof languages);
   <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 max-w-4xl mx-auto">
 	{([
 	  { id: 'd7', titleKey: 'fs.push.d7.title', bodyKey: 'fs.push.d7.body', icon: '🛡️', color: 'border-l-purple-500', styleVars: '--theme-color-light: rgba(139, 92, 246, 0.05); --theme-color-border-hover: rgba(139, 92, 246, 0.3); --theme-color-glow: rgba(139, 92, 246, 0.15);' },
-	  { id: 'd3', titleKey: 'fs.push.d3.title', bodyKey: 'fs.push.d3.body', icon: '🌟', color: 'border-l-emerald-500', styleVars: '--theme-color-light: rgba(16, 185, 129, 0.05); --theme-color-border-hover: rgba(16, 185, 129, 0.3); --theme-color-glow: rgba(16, 185, 129, 0.15);' },
+	  { id: 'd3', titleKey: 'fs.push.d3.title', bodyKey: 'fs.push.d3.body', icon: '🌟', color: 'border-l-purple-500', styleVars: '--theme-color-light: rgba(139, 92, 246, 0.05); --theme-color-border-hover: rgba(139, 92, 246, 0.3); --theme-color-glow: rgba(139, 92, 246, 0.15);' },
 	  { id: 'd1', titleKey: 'fs.push.d1.title', bodyKey: 'fs.push.d1.body', icon: '🏆', color: 'border-l-amber-500', styleVars: '--theme-color-light: rgba(245, 158, 11, 0.05); --theme-color-border-hover: rgba(245, 158, 11, 0.3); --theme-color-glow: rgba(245, 158, 11, 0.15);' }
 	] as const).map((level) => (
 	  <div 

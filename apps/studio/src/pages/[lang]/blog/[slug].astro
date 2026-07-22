@@ -6,6 +6,7 @@ import ShareToolkit from '../../../components/ShareToolkit.astro';
 import { getCollection, render } from 'astro:content';
 import { useTranslations } from '../../../i18n/ui';
 import { getFormattedDate, generateStructuredData } from '../../../utils/blogDetailHelper';
+import { themeColors } from '../../../utils/layoutHelper';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -71,8 +72,8 @@ const formattedDate = getFormattedDate(pubDate, lang || 'en');
 const themeAccents: Record<string, string> = {
   freshsnap: 'prose-a:text-emerald-600 dark:prose-a:text-emerald-400 hover:prose-a:text-emerald-700 dark:hover:prose-a:text-emerald-300 border-emerald-500/10 dark:border-emerald-500/20 bg-emerald-500/5',
   freshself: 'prose-a:text-purple-600 dark:prose-a:text-purple-400 hover:prose-a:text-purple-700 dark:hover:prose-a:text-purple-300 border-purple-500/10 dark:border-purple-500/20 bg-purple-500/5',
-  buildself: 'prose-a:text-indigo-600 dark:prose-a:text-indigo-400 hover:prose-a:text-indigo-700 dark:hover:prose-a:text-indigo-300 border-indigo-500/10 dark:border-indigo-500/20 bg-indigo-500/5',
-  logself: 'prose-a:text-blue-600 dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 border-blue-500/10 dark:border-blue-500/20 bg-blue-500/5',
+  buildself: 'prose-a:text-sky-600 dark:prose-a:text-sky-400 hover:prose-a:text-sky-700 dark:hover:prose-a:text-sky-300 border-sky-500/10 dark:border-sky-500/20 bg-sky-500/5',
+  logself: 'prose-a:text-indigo-600 dark:prose-a:text-indigo-400 hover:prose-a:text-indigo-700 dark:hover:prose-a:text-indigo-300 border-indigo-500/10 dark:border-indigo-500/20 bg-indigo-500/5',
   petself: 'prose-a:text-rose-600 dark:prose-a:text-rose-400 hover:prose-a:text-rose-700 dark:hover:prose-a:text-rose-300 border-rose-500/10 dark:border-rose-500/20 bg-rose-500/5',
   general: 'prose-a:text-teal-600 dark:prose-a:text-teal-400 hover:prose-a:text-teal-700 dark:hover:prose-a:text-teal-300 border-teal-500/10 dark:border-teal-500/20 bg-teal-500/5'
 };
@@ -93,12 +94,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
   <div 
     id="reading-progress" 
     class="fixed top-0 left-0 h-1 bg-gradient-to-r from-[var(--theme-accent,#10B981)] to-teal-400 z-50 transition-all duration-100" 
-    style={`width: 0%; --theme-accent: ${
-      app === 'freshsnap' ? '#10B981' : 
-      app === 'freshself' ? '#A855F7' : 
-      app === 'buildself' ? '#6366F1' : 
-      app === 'logself' ? '#3B82F6' : '#14B8A6'
-    };`}
+    style={`width: 0%; --theme-accent: ${themeColors[app] || themeColors.studio};`}
   ></div>
 
   <main class="max-w-[1080px] mx-auto px-6 py-12 md:py-20">
@@ -219,12 +215,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
             prose-li:relative prose-li:pl-7 prose-li:my-3 prose-li:text-[15px] prose-li:md:text-[16px] prose-li:text-slate-700 dark:prose-li:text-slate-300
             prose-li:before:content-["•"] prose-li:before:absolute prose-li:before:left-2 prose-li:before:text-[var(--theme-accent,#10B981)] prose-li:before:font-extrabold prose-li:before:text-lg
             prose-blockquote:border-l-4 prose-blockquote:border-[var(--theme-accent,#10B981)] prose-blockquote:bg-[var(--theme-accent,#10B981)]/5 prose-blockquote:py-5 prose-blockquote:px-7 prose-blockquote:rounded-r-3xl prose-blockquote:my-8 prose-blockquote:text-slate-700 dark:prose-blockquote:text-slate-300 prose-blockquote:not-italic`}
-          style={`--theme-accent: ${
-            app === 'freshsnap' ? '#10B981' : 
-            app === 'freshself' ? '#A855F7' : 
-            app === 'buildself' ? '#6366F1' : 
-            app === 'logself' ? '#3B82F6' : '#14B8A6'
-          };`}
+          style={`--theme-accent: ${themeColors[app] || themeColors.studio};`}
         >
           <Content />
         </article>
@@ -352,10 +343,10 @@ const activeAccent = themeAccents[app] || themeAccents.general;
             />
             <div class="text-left font-sans min-w-0">
               <h5 class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white leading-snug line-clamp-2 break-words">
-                {t(`cta.${app === 'freshsnap' ? 'freshself' : app}.title`) || t('cta.general.title')}
+                {t(`cta.${app === 'freshsnap' ? 'freshself' : app}.title` as any) || t('cta.general.title')}
               </h5>
               <p class="hidden sm:block text-[10px] text-slate-500 dark:text-slate-400 font-medium leading-normal mt-0.5 max-w-[280px] lg:max-w-sm truncate">
-                {t(`cta.${app === 'freshsnap' ? 'freshself' : app}.desc`) || t('cta.general.desc')}
+                {t(`cta.${app === 'freshsnap' ? 'freshself' : app}.desc` as any) || t('cta.general.desc')}
               </p>
             </div>
           </div>
@@ -367,10 +358,7 @@ const activeAccent = themeAccents[app] || themeAccents.general;
               target="_blank" 
               rel="noopener noreferrer"
               class="flex items-center gap-1.5 text-xs font-bold text-white px-4 py-2 rounded-xl transition-all duration-300 hover:scale-105 active:scale-95 cursor-pointer shadow-md shadow-black/10"
-              style={`background-color: ${
-                (app === 'freshsnap' || app === 'freshself') ? '#A855F7' : 
-                app === 'buildself' ? '#10B981' : '#14B8A6'
-              };`}
+              style={`background-color: ${themeColors[app === 'freshsnap' ? 'freshself' : app] || themeColors.studio};`}
             >
               <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>

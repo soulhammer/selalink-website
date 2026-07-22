@@ -1,6 +1,6 @@
 export const themeColors: Record<string, string> = {
   studio: '#0D9488', // Teal
-  buildself: '#0D9488',
+  buildself: '#0284C7', // Sky Blue (Distinct from FreshSnap Emerald)
   freshself: '#8B5CF6',
   freshsnap: '#10B981', // Pistachio Mint
   logself: '#6366F1',
