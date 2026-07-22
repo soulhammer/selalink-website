@@ -38,7 +38,7 @@ function getHtmlFiles(dir, files = []) {
   return files;
 }
 
-function checkTranslationIntegrity() {
+async function checkTranslationIntegrity() {
   console.log('\n🔎 \x1b[36m[웹사이트 빌드 결과물 다국어 검증기] 최종 품질 검사를 시작합니다...\x1b[0m\n');
 
   if (!fs.existsSync(distRoot)) {
@@ -121,7 +121,7 @@ function checkTranslationIntegrity() {
     console.log('📊 전수 검증(Full Scan) 실행 - 모든 빌드 HTML 페이지를 검사합니다.');
   }
 
-  scanTargets.forEach((filePath) => {
+  await Promise.all(scanTargets.map(async (filePath) => {
     const relativePath = path.relative(distRoot, filePath);
     const pathParts = relativePath.split(path.sep);
     const lang = pathParts[0];
@@ -129,7 +129,7 @@ function checkTranslationIntegrity() {
     // robots.txt나 sitemap 등 언어 경로가 아닌 것은 검사하지 않음
     if (!locales.includes(lang)) return;
 
-    const rawHtml = fs.readFileSync(filePath, 'utf-8');
+    const rawHtml = await fs.promises.readFile(filePath, 'utf-8');
 
     // 리다이렉트 전용 HTML은 검사에서 스킵
     if (rawHtml.includes('http-equiv="refresh"') || rawHtml.includes('Redirecting to')) {
@@ -228,7 +228,7 @@ function checkTranslationIntegrity() {
             hasTargetLangChar = hasFrChar || frWords.length >= 3;
           } else if (lang === 'es') {
             const hasEsChar = /[áéíóúñüÁÉÍÓÚÑÜ¿¡]/.test(plainText);
-            const esWords = plainText.match(/\b(el|la|los|las|un|una|es|son|y|en|para|con|de|no|que)\b/gi) || [];
+            const esWords = plainText.match(/\b(el|la|los|las|un|una|es|son|y|en|para|com|de|no|que)\b/gi) || [];
             hasTargetLangChar = hasEsChar || esWords.length >= 3;
           } else if (lang === 'pt') {
             const hasPtChar = /[áéíóúçãõâêôÁÉÍÓÚÇÃÕÂÊÔ]/.test(plainText);
@@ -267,7 +267,7 @@ function checkTranslationIntegrity() {
         }
       }
     }
-  });
+  }));
 
   console.log(`\n📊 총 ${checkedCount}개의 다국어 HTML 페이지 검증 완료.`);
   if (hasErrors) {
