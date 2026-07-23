@@ -11,36 +11,39 @@ const t = useTranslations(lang as keyof typeof languages);
 
 <!-- Gamified Habit Loop & Heatmap (습관 복리 루프) -->
 <section 
-	class="mb-12 md:mb-16 p-8 md:p-12 rounded-[2.5rem] bg-gradient-to-r from-sky-955/40 to-slate-900/60 backdrop-blur-xl text-white relative overflow-hidden group app-card-neon"
-	style="--theme-color-light: rgba(2, 132, 199, 0.15); --theme-color-brand: #0284C7; --theme-color-glow: rgba(2, 132, 199, 0.15); --theme-color-glow-secondary: rgba(2, 132, 199, 0.05);"
+	class="mb-12 md:mb-16 p-8 md:p-12 rounded-[2.5rem] bg-gradient-to-br from-sky-50/90 via-slate-50 to-sky-100/60 dark:bg-gradient-to-br dark:from-slate-900 dark:via-slate-950 dark:to-slate-900 border border-sky-200/90 dark:border-sky-500/40 shadow-xl dark:shadow-2xl backdrop-blur-xl relative overflow-hidden group"
+	style="--theme-color-light: rgba(2, 132, 199, 0.15); --theme-color-brand: #0284C7; --theme-color-glow: rgba(2, 132, 199, 0.25);"
 >
-	<div class="absolute -top-32 -left-32 w-96 h-96 bg-sky-500/10 rounded-full blur-[100px] pointer-events-none"></div>
+	<!-- Glowing Ambient Spheres -->
+	<div class="absolute -top-32 -left-32 w-96 h-96 bg-sky-400/15 dark:bg-sky-500/20 rounded-full blur-[100px] pointer-events-none"></div>
+	
 	<div class="relative z-10 flex flex-col lg:flex-row items-center justify-between gap-12 text-left">
+		<!-- Left Text Content (Pure High-Contrast 100% Opaque for Light & Dark) -->
 		<div class="max-w-xl space-y-4">
-			<span class="text-[11px] uppercase tracking-wider font-bold bg-sky-500/20 text-sky-300 px-3 py-1 rounded-full">{t('bs.gamified.title')}</span>
-			<h2 class="text-2xl md:text-4xl font-black tracking-tight leading-tight">{t('bs.gamified.title')}</h2>
-			<p class="text-sm md:text-base text-sky-200/90 leading-relaxed font-medium">{t('bs.gamified.desc')}</p>
+			<span class="inline-block text-[11px] uppercase tracking-wider font-black bg-sky-500/15 dark:bg-sky-500/30 text-sky-700 dark:text-sky-300 border border-sky-300 dark:border-sky-400/50 px-3.5 py-1 rounded-full shadow-sm">{t('bs.gamified.title')}</span>
+			<h2 class="text-2xl md:text-4xl font-black tracking-tight leading-tight text-slate-900 dark:text-white drop-shadow-sm">{t('bs.gamified.title')}</h2>
+			<p class="text-sm md:text-base text-slate-700 dark:text-slate-100 leading-relaxed font-semibold">{t('bs.gamified.desc')}</p>
 		</div>
 		
 		<!-- Monthly Donut-Ring Footprint Calendar (Astro/CSS) -->
 		<div 
-			class="flex flex-col gap-3 p-5 rounded-2xl bg-slate-955/80 border border-slate-800/80 shadow-2xl backdrop-blur-md max-w-sm sm:max-w-md w-full app-card-interactive"
+			class="flex flex-col gap-3 p-5 rounded-2xl bg-white dark:bg-slate-900/95 border border-slate-200 dark:border-slate-700/80 shadow-xl dark:shadow-2xl backdrop-blur-md max-w-sm sm:max-w-md w-full app-card-interactive"
 			style="--theme-color-light: rgba(2, 132, 199, 0.1); --theme-color-glow: rgba(2, 132, 199, 0.25); --theme-color-border-hover: rgba(2, 132, 199, 0.3);"
 		>
 			<!-- Calendar Header -->
-			<div class="flex items-center justify-between border-b border-slate-800/60 pb-3">
+			<div class="flex items-center justify-between border-b border-slate-100 dark:border-slate-800 pb-3">
 				<div class="flex flex-col text-left">
-					<span class="text-[10px] text-sky-400 font-mono font-bold tracking-wider uppercase">Footprint Calendar</span>
-					<span class="text-sm font-black text-white font-sans mt-0.5">March 2026</span>
+					<span class="text-[10px] text-sky-600 dark:text-sky-400 font-mono font-black tracking-wider uppercase">Footprint Calendar</span>
+					<span class="text-sm font-black text-slate-900 dark:text-white font-sans mt-0.5">March 2026</span>
 				</div>
-				<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-sky-500/10 border border-sky-500/20 text-[10px] text-sky-300 font-bold">
-					<span class="w-1.5 h-1.5 rounded-full bg-sky-400 animate-pulse"></span>
+				<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-sky-50 dark:bg-sky-500/20 border border-sky-200 dark:border-sky-500/40 text-[10px] text-sky-700 dark:text-sky-300 font-extrabold">
+					<span class="w-1.5 h-1.5 rounded-full bg-sky-500 dark:bg-sky-400 animate-pulse"></span>
 					<span>Monthly Score: 92%</span>
 				</div>
 			</div>
 
 			<!-- Weekday Headers -->
-			<div class="grid grid-cols-7 gap-1 text-center text-[10px] text-slate-500 font-bold tracking-wider uppercase">
+			<div class="grid grid-cols-7 gap-1 text-center text-[10px] text-slate-500 dark:text-slate-400 font-extrabold tracking-wider uppercase">
 				<span>Su</span><span>Mo</span><span>Tu</span><span>We</span><span>Th</span><span>Fr</span><span>Sa</span>
 			</div>
 
@@ -58,13 +61,12 @@ const t = useTranslations(lang as keyof typeof languages);
 							return <div class="w-full h-full opacity-0 pointer-events-none" />;
 						}
 
-						// Define completion rate styles (SVG stroke-dasharray based on 2 * pi * r where r=14, circumference ~ 88)
-						// 0: None, 1: 30%, 2: 65%, 3: 100%
+						// Define completion rate styles
 						const rates = [
-							{ dash: "0 88", color: "text-slate-800/30" }, // 0%
-							{ dash: "26 88", color: "text-amber-500" },   // 30% (Warning/Partial)
-							{ dash: "57 88", color: "text-sky-400/80" }, // 65% (Good)
-							{ dash: "88 88", color: "text-sky-400" }     // 100% (Perfect)
+							{ dash: "0 88", color: "text-slate-200 dark:text-slate-800" }, // 0%
+							{ dash: "26 88", color: "text-amber-500 dark:text-amber-400" }, // 30%
+							{ dash: "57 88", color: "text-sky-500 dark:text-sky-400" },     // 65%
+							{ dash: "88 88", color: "text-sky-600 dark:text-sky-300" }      // 100%
 						];
 						
 						let rateIdx = 3;
@@ -76,11 +78,11 @@ const t = useTranslations(lang as keyof typeof languages);
 						const isToday = day === 29;
 
 						return (
-							<div class="relative w-full h-full aspect-square flex items-center justify-center rounded-xl bg-slate-900/60 border border-slate-800/40 hover:border-sky-500/50 hover:scale-110 hover:z-10 transition-all duration-300 cursor-pointer group">
+							<div class="relative w-full h-full aspect-square flex items-center justify-center rounded-xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 hover:border-sky-500 dark:hover:border-sky-400 hover:scale-110 hover:z-10 transition-all duration-300 cursor-pointer group">
 								<!-- SVG Donut Ring -->
 								<svg class="absolute w-[90%] h-[90%] -rotate-90 transform" viewBox="0 0 36 36">
 									{/* Outer ring track */}
-									<circle cx="18" cy="18" r="14" fill="none" stroke="currentColor" stroke-width="3" class="text-slate-850/50 dark:text-slate-850/60" />
+									<circle cx="18" cy="18" r="14" fill="none" stroke="currentColor" stroke-width="3" class="text-slate-200 dark:text-slate-800" />
 									{/* Progress segment */}
 									{rateIdx > 0 && (
 										<circle 
@@ -99,11 +101,11 @@ const t = useTranslations(lang as keyof typeof languages);
 
 								{/* Today Highlight Indicator */}
 								{isToday && (
-									<span class="absolute inset-0.5 rounded-[10px] border border-sky-400/80 animate-pulse pointer-events-none" />
+									<span class="absolute inset-0.5 rounded-[10px] border-2 border-sky-500 dark:border-sky-400 animate-pulse pointer-events-none" />
 								)}
 
 								{/* Day Number */}
-								<span class={`relative z-10 text-[10px] sm:text-xs font-mono font-bold ${isToday ? 'text-sky-400' : 'text-slate-350 group-hover:text-white'}`}>
+								<span class={`relative z-10 text-[10px] sm:text-xs font-mono font-bold ${isToday ? 'text-sky-600 dark:text-sky-300 font-extrabold' : 'text-slate-700 dark:text-slate-200 group-hover:text-slate-900 dark:group-hover:text-white'}`}>
 									{day}
 								</span>
 							</div>
