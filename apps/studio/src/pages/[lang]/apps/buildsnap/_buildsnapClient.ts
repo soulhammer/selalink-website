@@ -608,7 +608,7 @@ export function initBuildSnapUI(config: BuildSnapConfig) {
       recordExposure(item.id);
 
       if (resultHeroImage) {
-        resultHeroImage.src = `/images/blog/${item.id.replace(/-/g, '_')}.png`;
+        resultHeroImage.src = `/images/blog/${item.id.replace(/-/g, '_')}.webp`;
       }
       if (resultMentorName) {
         resultMentorName.textContent = mentorName;
