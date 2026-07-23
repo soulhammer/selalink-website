@@ -1,11 +1,11 @@
 {
   "id": "amelia-earhart",
   "name": "어밀리아 이어하트",
-  "gender": "male",
+  "gender": "female",
   "era": "근대",
-  "location": "유럽",
-  "lifespan": "1800 - 1900",
-  "birthYear": 1800,
+  "location": "미국",
+  "lifespan": "1897 - 1937",
+  "birthYear": 1897,
   "bio": "대서양 단독 횡단에 성공한 최초의 여성 비행사로, 매일 아침의 기상 데이터와 바람의 변동을 정밀 스크랩하여 비행 불안을 잠재웠습니다.",
   "habitName": "기상 지도와 항로의 변수 요소를 매일 수집하고 기록하는 스크랩북 정돈",
   "tags": [

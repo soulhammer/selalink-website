@@ -60,7 +60,7 @@
     "fridge": {
       "durationDays": 3,
       "tips": {
-        "ko": "이미 불린 미역은 체에 받쳐 물기를 확실히 제거한 뒤 키친타월로 물기를 완전히 닦고 밀폐용기에 넣어 1~3일 이내에 조리하세요.",
+        "ko": "이미 불린 미역은 체에 받쳐 물기를 확실히 제거한 뒤 키친타월로 물기를 완전히 닦고 밀폐용기에 넣어 1 - 3일 이내에 조리하세요.",
         "en": "For soaked seaweed, drain and dry completely with paper towels. Store in airtight containers and use within 1–3 days.",
         "ja": "水で戻したワカメはしっかりと水気を絞り、密閉容器やジッパーバッグに入れて1〜3日以内に調理してお召し上がりください。",
         "zh": "已泡发的海带请用筛网沥干，再用厨房纸彻底擦干水分。装入密封容器中并在1-3天内烹饪完毕。",

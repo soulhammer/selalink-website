@@ -41,7 +41,7 @@
     "fridge": {
       "durationDays": 180,
       "tips": {
-        "ko": "개봉 후 실온에 두면 곰팡이가 필 확률이 대단히 높으므로 반드시 입구를 닦아 냉장 보관하고, 3~6개월 내에 드세요.",
+        "ko": "개봉 후 실온에 두면 곰팡이가 필 확률이 대단히 높으므로 반드시 입구를 닦아 냉장 보관하고, 3 - 6개월 내에 드세요.",
         "en": "Highly prone to mold at room temp once opened. Wipe opening clean, keep refrigerated, and consume within 3–6 months.",
         "ja": "開封後に常温に置くと、注ぎ口付近にカビが発生しやすくなります。必ず注ぎ口を拭いて冷蔵保存し、3〜6ヶ月以内に使用してください。",
         "zh": "开封后若置于常温，极易发霉。请务必擦净瓶口并冷藏保存，在3-6个月内用完。",

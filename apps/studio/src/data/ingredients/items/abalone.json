@@ -42,7 +42,7 @@
     "fridge": {
       "durationDays": 2,
       "tips": {
-        "ko": "활전복은 씻지 말고 물에 적신 키친타월로 위를 덮고 뚜껑을 약간 틈을 주어 살짝 닫은 채 야채칸에 보관하며 2일 이내에 조리하세요. 손질해 살만 둔 경우 1~2일 내 드세요.",
+        "ko": "활전복은 씻지 말고 물에 적신 키친타월로 위를 덮고 뚜껑을 약간 틈을 주어 살짝 닫은 채 야채칸에 보관하며 2일 이내에 조리하세요. 손질해 살만 둔 경우 1 - 2일 내 드세요.",
         "en": "Do not wash live abalone. Cover with wet paper towels and store in the crisper drawer with the lid slightly ajar (for air circulation). Cook in 2 days. If shucked, use in 1–2 days.",
         "ja": "活アワビは洗わずに、濡らしたキッチンペーパーを被せてフタを少し開けた状態で冷蔵室の奥に置き、2日以内に調理してお召し上がりください。",
         "zh": "活鲍鱼切勿洗涤，盖上湿厨房纸，将盖子留出微缝存入蔬菜室中，在2天内烹饪。如果是去壳鲍鱼肉，请在1-2天内食用。",

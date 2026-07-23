@@ -39,7 +39,7 @@
   },
   "storage": {
     "fridge": {
-      "durationDays": 1,
+      "durationDays": 2,
       "tips": {
         "ko": "신선도가 급격히 떨어지므로 가급적 당일 조리하시고, 냉장 시에는 밀가루로 이물질을 씻어 물기를 완전히 말려 밀폐 용기에 담아 2일 내로 드세요.",
         "en": "Spoils rapidly; cook on purchase day if possible. Otherwise, wash with flour, dry completely, and store in airtight containers for up to 2 days.",

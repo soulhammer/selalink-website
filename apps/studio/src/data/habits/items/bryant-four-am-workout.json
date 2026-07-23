@@ -1,6 +1,6 @@
 {
   "id": "bryant-four-am-workout",
-  "name": "코비 브라이언트 (Kobe Bryant)",
+  "name": "코비 브라이언트",
   "gender": "male",
   "era": "현대",
   "location": "미국",
@@ -8,9 +8,16 @@
   "birthYear": 1978,
   "bio": "전설적인 NBA 농구 선수로, 매일 새벽 4시에 농구 코트에 나가 누구보다 일찍 훈련을 소화하며 전 세계 الرياض 운동인들에게 영감을 준 맘바 멘탈리티의 화신입니다.",
   "habitName": "새벽 4시 한계 돌파 훈련 루틴",
-  "tags": ["#성장", "#의지력", "#신체활성"],
+  "tags": [
+    "#성장",
+    "#의지력",
+    "#신체활성"
+  ],
   "timeOfDay": "morning",
-  "requiredItems": ["훈련용 농구공", "실내외 코트 또는 체육관"],
+  "requiredItems": [
+    "훈련용 농구공",
+    "실내외 코트 또는 체육관"
+  ],
   "frequency": "daily",
   "historicalStory": "코비 브라이언트는 고등학교 시절부터 은퇴할 때까지 매일 새벽 4시에 훈련을 개시하는 극단적인 시간 관리 루틴을 고수했습니다. 올림픽 국가대표팀 소집 당시 동료들이 자고 있던 새벽에 홀로 체육관의 불을 켜고 구슬땀을 흘렸던 일화는 스포츠계에서 가장 유명한 훈련 스토리입니다.",
   "sciencePrinciples": "매일 일정한 새벽 시각에 훈련을 시작하면 일주기 리듬(Circadian Rhythm)이 스포츠 수행 모드로 강하게 동기화됩니다. 이로 인해 이른 아침에도 성장 호르몬과 코르티솔이 규칙적이고 안정적으로 분비되어, 근력과 순발력을 빠르게 발휘할 수 있는 생리학적 준비 상태를 달성합니다.",
@@ -22,5 +29,8 @@
     "첫 30분 동안 가벼운 유산소 훈련 또는 목표 지적 활동을 시작해 뇌와 신체를 각성시킵니다."
   ],
   "actionName": "맘바 멘탈리티 새벽 각성 루틴",
-  "sources": ["The Mamba Mentality: How I Play (2018)", "Chronobiology International 일주기 리듬 최적화 연구"]
+  "sources": [
+    "The Mamba Mentality: How I Play (2018)",
+    "Chronobiology International 일주기 리듬 최적화 연구"
+  ]
 }

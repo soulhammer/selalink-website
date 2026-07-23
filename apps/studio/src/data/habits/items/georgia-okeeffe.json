@@ -1,11 +1,11 @@
 {
   "id": "georgia-okeeffe",
   "name": "조지아 오키프",
-  "gender": "male",
-  "era": "근대",
-  "location": "유럽",
-  "lifespan": "1800 - 1900",
-  "birthYear": 1800,
+  "gender": "female",
+  "era": "현대",
+  "location": "미국",
+  "lifespan": "1887 - 1986",
+  "birthYear": 1887,
   "bio": "미국 모더니즘 미술의 대모로, 매일 아침 뉴멕시코의 척박한 사막을 산책하며 시야를 지평선까지 무한히 확장해 시각적 피로를 회복했습니다.",
   "habitName": "새벽녘 뉴멕시코 사막의 지평선을 5분간 고요히 응시하는 새벽 산책 루틴",
   "tags": [

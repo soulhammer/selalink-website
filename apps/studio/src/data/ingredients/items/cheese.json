@@ -18,7 +18,7 @@
     "fridge": {
       "durationDays": 30,
       "tips": {
-        "ko": "개봉 후에는 밀폐가 중요합니다. 슬라이스 치즈는 지퍼백에 밀봉하고, 모짜렐라는 소분하여 냉장실 안쪽 깊숙한 곳에 두세요. 수분이 많은 소프트 치즈는 개봉 후 1~2주 내 드시고, 하드 치즈는 밀봉 시 3~4주까지 보존 가능합니다.",
+        "ko": "개봉 후에는 밀폐가 중요합니다. 슬라이스 치즈는 지퍼백에 밀봉하고, 모짜렐라는 소분하여 냉장실 안쪽 깊숙한 곳에 두세요. 수분이 많은 소프트 치즈는 개봉 후 1 - 2주 내 드시고, 하드 치즈는 밀봉 시 3 - 4주까지 보존 가능합니다.",
         "en": "Airtight sealing is crucial after opening. Seal sliced cheese in bags; portion and store mozzarella deep in the fridge. Soft cheeses with high moisture should be consumed within 1–2 weeks, while hard cheeses can keep up to 3–4 weeks if sealed.",
         "ja": "開封後は密閉が極めて重要です。スライスチーズは袋に入れ、モッツァレラは小分けして冷蔵庫の奥で保存します。水分の多いソフトチーズは開封後1〜2週間以内に消費し、ハードチーズは密閉状態で3〜4週間保存可能です。",
         "zh": "开封后密封至关重要。片装奶酪封入口袋中；马苏里拉奶酪切块，存放在冰箱冷藏室最深处。高水分的软质奶酪应在开封后1-2周内食用，硬质奶酪密封时可保存3-4周。",

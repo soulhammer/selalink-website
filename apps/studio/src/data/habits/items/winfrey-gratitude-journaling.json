@@ -4,7 +4,7 @@
   "gender": "female",
   "era": "현대",
   "location": "미국",
-  "lifespan": "1954 - ",
+  "lifespan": "1954 - 현재",
   "bio": "전설적인 토크쇼 《오프라 윈프리 쇼》의 진행자이자 미디어 기업가로, 전 세계 시청자들의 마음을 움직인 최고의 영향력을 지닌 현대의 여성 리더입니다.",
   "habitName": "매일 아침 눈을 뜨자마자 감사 일기 5줄 손글씨 기록",
   "tags": [
@@ -33,5 +33,6 @@
     "Oprah Winfrey, *What I Know for Sure* (2014)",
     "Oprah Winfrey, *The Wisdom of Sundays* (2017)",
     "*Journal of Personality and Social Psychology* (감사 일기 수동 작성이 뇌 중변연계 도파민/세로토닌 분비 촉진 및 기본 모드 네트워크 긍정 가소성에 미치는 영향)"
-  ]
+  ],
+  "birthYear": 1954
 }

@@ -42,7 +42,7 @@
     "fridge": {
       "durationDays": 14,
       "tips": {
-        "ko": "참외는 아열대 과채류로 4℃ 이하에서는 저온 장해(껍질 패임, 씨 갈변)가 생깁니다. 씻지 말고 신문지로 감싸 온도 변화가 적은 5~7℃ 야채칸에 보관하세요.",
+        "ko": "참외는 아열대 과채류로 4℃ 이하에서는 저온 장해(껍질 패임, 씨 갈변)가 생깁니다. 씻지 말고 신문지로 감싸 온도 변화가 적은 5 - 7℃ 야채칸에 보관하세요.",
         "en": "Subtropical fruit vulnerable to under 4°C (causes skin pitting and seed browning). Wrap unwashed in newspaper and store in 5–7°C crisper drawers.",
         "ja": "マクワウリは亜熱帯の果物で、4℃以下では冷害（皮の凹み、種の褐変）が発生します。洗わずに新聞紙で包み、温度が低すぎない野菜室に保管してください。",
         "zh": "属于亚热带果蔬，低于4℃易受冷害（果皮凹陷、瓜籽变褐）。请勿淘洗，用报纸包裹存放在5-7℃的蔬菜抽屉中。",

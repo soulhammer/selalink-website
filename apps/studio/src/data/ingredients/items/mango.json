@@ -58,7 +58,7 @@
     "fridge": {
       "durationDays": 7,
       "tips": {
-        "ko": "후숙이 끝난 망고는 신문지에 감싸 냉장실 야채칸에 보관해 3~4일 이내에 드세요. 덜 익은 채 냉장하면 저온장해로 후숙되지 않고 썩습니다.",
+        "ko": "후숙이 끝난 망고는 신문지에 감싸 냉장실 야채칸에 보관해 3 - 4일 이내에 드세요. 덜 익은 채 냉장하면 저온장해로 후숙되지 않고 썩습니다.",
         "en": "Once ripe, wrap in newspaper and store in the crisper drawer; consume in 3–4 days. Refrigerating unripe mangoes stops ripening and causes rot.",
         "ja": "追熟が終わったものは新聞紙で包み野菜室に入れ、3〜4日以内に召し上がりください。未熟なまま冷蔵すると冷害で熟さず腐ります。",
         "zh": "成熟后的芒果请用报纸包裹存放在蔬菜抽屉中，并在3-4天内食用。未成熟时冷藏会受冷害，导致无法成熟并腐烂。",

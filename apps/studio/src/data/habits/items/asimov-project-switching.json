@@ -2,15 +2,23 @@
   "id": "asimov-project-switching",
   "name": "아이작 아시모프",
   "gender": "male",
-  "era": "modern",
+  "era": "현대",
   "location": "미국",
   "lifespan": "1920 - 1992",
   "birthYear": 1920,
   "bio": "평생 500권이 넘는 책을 저술한 미국의 소설가이자 생화학자로, SF 문학의 거장이자 대중 과학 해설가로 칭송받는 인물입니다.",
   "habitName": "다중 작업 전환을 통한 몰입 회복",
-  "tags": ["#집중력", "#다중작업", "#창의성", "#생산성"],
+  "tags": [
+    "#집중력",
+    "#다중작업",
+    "#창의성",
+    "#생산성"
+  ],
   "timeOfDay": "anytime",
-  "requiredItems": ["다양한 작업 도구(컴퓨터, 타자기 등)", "진행 중인 여러 작업(2~3개)"],
+  "requiredItems": [
+    "다양한 작업 도구(컴퓨터, 타자기 등)",
+    "진행 중인 여러 작업(2 - 3개)"
+  ],
   "frequency": "daily",
   "historicalStory": "아이작 아시모프는 엄청난 양의 다작을 할 수 있었던 독특한 비결이 있었습니다. 그는 방 안에 여러 대의 타자기를 설치해 두고 각각 다른 주제의 프로젝트(SF 소설, 과학 논픽션, 대중 해설서 등)를 세팅해 두었습니다. 한 타자기에서 원고를 쓰다가 막히거나 지루해지면, 억지로 끙끙대며 스트레스를 받지 않고 즉시 자리에서 일어나 옆 타자기로 이동하여 전혀 다른 주제의 프로젝트를 이어서 집필했습니다. 그는 이 방식으로 뇌의 피로를 최소화하며 끊임없는 집필 열정을 유지했습니다.",
   "sciencePrinciples": "인지심리학에 따르면, 단일 작업(Single Task)에 장시간 몰입하면 뉴런의 피로도와 인지적 정체 현상이 심화됩니다. 이때 억지로 붙들고 있으면 인지 왜곡이 생기고 창의성이 급감합니다. 하지만 아시모프처럼 성격이 완전히 다른 종류의 작업으로 맥락 전환(Context Switching)을 하면, 기존에 사용되던 뇌 부위는 휴식을 취하고 새로운 작업에 대응하는 뇌의 다른 연합 피질이 자극을 받아 활성화되는 '참신성 효과(Novelty Effect)'가 작용합니다.",
@@ -22,5 +30,8 @@
     "주의를 집중하여 새로운 맥락의 자극을 뇌에 주어 참신성 효과를 유발하고, 자연스럽게 이전 작업의 피로를 해소시킵니다."
   ],
   "actionName": "스마트 맥락 전환 루틴",
-  "sources": ["American Psychological Association - Study on Context Switching & Fatigue (2018)", "Isaac Asimov - 'It's Been a Good Life' (2002)"]
+  "sources": [
+    "American Psychological Association - Study on Context Switching & Fatigue (2018)",
+    "Isaac Asimov - 'It's Been a Good Life' (2002)"
+  ]
 }

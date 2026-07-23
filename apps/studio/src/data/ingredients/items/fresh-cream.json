@@ -39,7 +39,7 @@
   },
   "storage": {
     "fridge": {
-      "durationDays": 5,
+      "durationDays": 7,
       "tips": {
         "ko": "유지방 함량이 높아 냄새 흡수가 매우 빠릅니다. 개봉 후 팩 입구를 집게로 꽉 밀봉하고 반찬이나 김치 옆은 피해서 보관하되 7일 내에 사용하세요.",
         "en": "High milk fat absorbs odors quickly. After opening, seal the pack tightly with a clip and store away from smelly food. Use in 7 days.",

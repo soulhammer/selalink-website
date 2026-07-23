@@ -34,17 +34,17 @@
       ]
     },
     "freezer": {
-      "durationDays": 90,
+      "durationDays": 180,
       "tips": {
-        "ko": "용도에 맞게 1회용으로 소분하여 랩핑한 뒤 지퍼백에 넣어 급속 냉동하세요. 냉동 상태에서도 최대 6개월 보관 가능합니다.",
-        "en": "Portion into single-use sizes, wrap, and seal in freezer bags. Keeps for up to 6 months.",
-        "ja": "使いやすいよう1回分ずつ小分けにしてラップに包み、保存袋に入れて急速冷凍してください。最大6ヶ月持ちます。",
-        "zh": "按单次用量分装打包，包裹后放入密封袋中急速冷冻。在冷冻状态下最多可保存6个月。",
-        "es": "Divida en raciones de un solo uso, envuélvalas y séllelas en bolsas de congelador. Dura hasta 6 meses.",
-        "fr": "Répartissez en portions individuelles, enveloppez-les et placez-les au congélateur. Se conserve jusqu’à 6 mois.",
-        "de": "In Einzelportionen teilen, einwickeln und in Gefrierbeuteln einfrieren. Hält bis zu 6 Monate.",
-        "pt": "Divida em porções, embrulhe bem e guarde em sacos de congelador. Pode ser mantido por até 6 meses.",
-        "id": "Bagi dalam porsi sekali masak, bungkus, dan segel dalam kantong pembeku. Awet hingga 6 bulan."
+        "ko": "용도에 맞게 1회용으로 소분하여 랩핑한 뒤 지퍼백에 넣어 급속 냉동하세요. 구이/정육 덩어리는 최대 6개월(180일) 보관 가능합니다.",
+        "en": "Portion into single-use sizes, wrap, and seal in freezer bags. Keeps for up to 6 months (180 days).",
+        "ja": "使いやすいよう1回分ずつ小分けにしてラップに包み、保存袋に入れて急速冷凍してください。最大6ヶ月(180日)持ちます。",
+        "zh": "按单次用量分装打包，包裹后放入密封袋中急速冷冻。在冷冻状态下最多可保存6个月(180天)。",
+        "es": "Divida en raciones de un solo uso, envuélvalas y séllelas en bolsas de congelador. Dura hasta 6 meses (180 días).",
+        "fr": "Répartissez en portions individuelles, enveloppez-les et placez-les au congélateur. Se conserve jusqu’à 6 mois (180 jours).",
+        "de": "In Einzelportionen teilen, einwickeln und in Gefrierbeuteln einfrieren. Hält bis zu 6 Monate (180 Tage).",
+        "pt": "Divida em porções, embrulhe bem e guarde em sacos de congelador. Pode ser mantido por até 6 meses (180 dias).",
+        "id": "Bagi dalam porsi sekali masak, bungkus, dan segel dalam kantong pembeku. Awet hingga 6 bulan (180 hari)."
       },
       "sources": [
         "MFDS",

@@ -1,11 +1,11 @@
 {
   "id": "coco-chanel",
   "name": "코코 샤넬",
-  "gender": "male",
-  "era": "근대",
-  "location": "유럽",
-  "lifespan": "1800 - 1900",
-  "birthYear": 1800,
+  "gender": "female",
+  "era": "현대",
+  "location": "프랑스",
+  "lifespan": "1883 - 1971",
+  "birthYear": 1883,
   "bio": "여성 패션의 혁명을 일군 전설적 디자이너로, 스케치 대신 살아 움직이는 모델에 흰 원단을 직접 감아가며 공간을 조각했습니다.",
   "habitName": "평면적 기획 대신 물리적 모형을 손가락 끝으로 접고 입체화하는 시공간 조각 루틴",
   "tags": [

@@ -1,16 +1,23 @@
 {
   "id": "stravinsky-headstand-composition",
-  "name": "이고르 스트라빈스키 (Igor Stravinsky)",
+  "name": "이고르 스트라빈스키",
   "gender": "male",
-  "era": "근현대",
+  "era": "현대",
   "location": "러시아",
   "lifespan": "1882 - 1971",
   "birthYear": 1882,
   "bio": "20세기 전위 음악을 개척한 현대 음악의 거장으로, 작곡 중 아이디어가 고갈되면 거꾸로 서기(물구나무서기)를 통해 정신을 환기하고 인지 활력을 얻은 인물입니다.",
   "habitName": "물구나무서기를 통한 인지 환기",
-  "tags": ["#리프레시", "#창의성", "#집중"],
+  "tags": [
+    "#리프레시",
+    "#창의성",
+    "#집중"
+  ],
   "timeOfDay": "anytime",
-  "requiredItems": ["평평한 벽면", "안전한 매트"],
+  "requiredItems": [
+    "평평한 벽면",
+    "안전한 매트"
+  ],
   "frequency": "daily",
   "historicalStory": "스트라빈스키는 자신의 자서전과 동료들의 회고록에서, 음악적 영감이 막힐 때마다 머리를 아래로 향하고 물구나무를 섰다고 고백했습니다. 그는 이를 통해 뇌에 즉각적인 산소를 공급하고 막혔던 인지적 통로를 연다고 믿었습니다.",
   "sciencePrinciples": "물구나무서기는 물리적인 혈류 흐름을 뇌로 집중시켜 전두엽의 산소 및 포도당 공급을 일시적으로 개선합니다. 또한 척수와 소뇌에 새로운 전정 감각 자극을 주어 주의 집중력 회복에 기여합니다.",
@@ -18,9 +25,12 @@
   "trigger": "장시간의 창의적 작업으로 머리가 무겁거나 새로운 아이디어가 떠오르지 않는 순간",
   "modernGuide": [
     "안전한 벽면을 확보하고 매트를 깝니다.",
-    "정적인 자세로 30초에서 1분 동안 벽을 짚고 거꾸로 서서 뇌의 압력 증가와 호흡에 집중합니다.",
+    "정적인 자세로 30초 - 1분 동안 벽을 짚고 거꾸로 서서 뇌의 압력 증가와 호흡에 집중합니다.",
     "자세 복귀 후 약 2분간 이완하며 뇌에 퍼지는 산소와 인지적 전환감을 느낍니다."
   ],
   "actionName": "물구나무서기 뇌 혈류 촉진 루틴",
-  "sources": ["Igor Stravinsky: An Autobiography (1936)", "Journal of Applied Physiology 뇌 혈류 증가 연구"]
+  "sources": [
+    "Igor Stravinsky: An Autobiography (1936)",
+    "Journal of Applied Physiology 뇌 혈류 증가 연구"
+  ]
 }

@@ -4,7 +4,7 @@
   "gender": "male",
   "era": "현대",
   "location": "미국",
-  "lifespan": "1946 - ",
+  "lifespan": "1946 - 현재",
   "bio": "역사상 가장 성공적인 영화감독으로, 《죠스》, 《E.T.》, 《쥬라기 공원》 등의 작품을 통해 전 세계인들의 상상력을 현실로 바꾼 거장입니다.",
   "habitName": "기획이나 설계 연산 도중 정체기가 오면 아날로그 뷰파인더 렌즈와 장난감 촉각 회전",
   "tags": [
@@ -33,5 +33,6 @@
     "Joseph McBride, *Steven Spielberg: A Biography* (1997)",
     "Steven Spielberg, *Director's Notebook and Interviews* (American Film Institute)",
     "*Nature Neuroscience* (촉각 피드백 및 시야 Reframing이 두정엽의 3차원 공간 회전 연산 및 창의적 문제 해결에 미치는 영향)"
-  ]
+  ],
+  "birthYear": 1946
 }

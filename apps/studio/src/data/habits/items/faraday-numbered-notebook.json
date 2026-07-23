@@ -1,6 +1,6 @@
 {
   "id": "faraday-numbered-notebook",
-  "name": "마이클 패러데이 (Michael Faraday)",
+  "name": "마이클 패러데이",
   "gender": "male",
   "era": "근대",
   "location": "영국",
@@ -8,9 +8,16 @@
   "birthYear": 1791,
   "bio": "전자기 유도와 전기 분해 법칙 등을 발견한 영국의 위대한 물리학자이자 화학자로, 평생 수행한 모든 실험 항목에 순차적으로 번호를 매겨 기록하고 인덱싱하는 철저한 기록 습관을 가졌던 인물입니다.",
   "habitName": "번호화된 실험 노트를 통한 지식 정리",
-  "tags": ["#기록", "#생산성", "#논리력"],
+  "tags": [
+    "#기록",
+    "#생산성",
+    "#논리력"
+  ],
   "timeOfDay": "anytime",
-  "requiredItems": ["기록용 일지", "인덱싱 도구"],
+  "requiredItems": [
+    "기록용 일지",
+    "인덱싱 도구"
+  ],
   "frequency": "daily",
   "historicalStory": "마이클 패러데이는 평생 동안 자신이 연구한 모든 실험과 아이디어에 순차적인 번호를 부여해 기록했습니다. 그가 왕립연구소에 남긴 친필 연구 일지는 총 16,041개의 상세 항목으로 나누어져 있으며, 각 항목마다 명확한 숫자가 붙어 있어 필요한 지식을 즉각 찾아볼 수 있는 완벽한 아카이브였습니다.",
   "sciencePrinciples": "체계적인 번호화 및 인덱싱 기록은 지식의 외재화(Knowledge Externalization)를 완성합니다. 뇌는 과거 정보를 일일이 기억하는 데 필요한 인지적 자원(Cognitive Load)을 아껴 메인 분석 작업에만 작업 기억(Working Memory) 공간을 집중할 수 있어 복잡한 문제를 풀 때 인지 효율을 대폭 향상시킵니다.",
@@ -22,5 +29,8 @@
     "새로운 업무나 아이디어를 구상할 때 과거 번호를 참조하여 지식의 연결망을 구축합니다."
   ],
   "actionName": "번호화된 지식 아카이빙 루틴",
-  "sources": ["Michael Faraday 친필 연구 일지(Faraday's Diary)", "Cognitive Science 지식 외재화 및 인지 부하 감소 연구"]
+  "sources": [
+    "Michael Faraday 친필 연구 일지(Faraday's Diary)",
+    "Cognitive Science 지식 외재화 및 인지 부하 감소 연구"
+  ]
 }

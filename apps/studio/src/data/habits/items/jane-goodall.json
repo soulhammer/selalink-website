@@ -1,11 +1,11 @@
 {
   "id": "jane-goodall",
   "name": "제인 구달",
-  "gender": "male",
-  "era": "근대",
-  "location": "유럽",
-  "lifespan": "1800 - 1900",
-  "birthYear": 1800,
+  "gender": "female",
+  "era": "현대",
+  "location": "영국",
+  "lifespan": "1934 - 현재",
+  "birthYear": 1934,
   "bio": "아프리카 곰베의 숲속에서 침팬지들과 함께 생활한 행동과학자로, 판단을 철저히 배제하고 대상을 응시하는 훈련으로 과학적 고찰을 이뤘습니다.",
   "habitName": "새벽녘 숲속의 침팬지를 숨소리조차 멈춘 채 응시하는 3단계 침묵 관찰",
   "tags": [

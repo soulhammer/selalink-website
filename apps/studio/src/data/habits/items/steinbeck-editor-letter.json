@@ -1,16 +1,23 @@
 {
   "id": "steinbeck-editor-letter",
-  "name": "존 스타인벡 (John Steinbeck)",
+  "name": "존 스타인벡",
   "gender": "male",
-  "era": "근현대",
+  "era": "현대",
   "location": "미국",
   "lifespan": "1902 - 1968",
   "birthYear": 1902,
   "bio": "분노의 포도, 에덴의 동쪽 등으로 노벨 문학상을 수상한 미국의 대표적인 소설가로, 매일 본 소설 집필 전 친구인 편집자에게 사소한 일상 편지를 쓰며 손과 머리를 예열한 인물입니다.",
   "habitName": "예열 편지 쓰기를 통한 작가 블록 극복",
-  "tags": ["#리프레시", "#창의성", "#생산성"],
+  "tags": [
+    "#리프레시",
+    "#창의성",
+    "#생산성"
+  ],
   "timeOfDay": "anytime",
-  "requiredItems": ["타자기 또는 펜", "편지 수신자(또는 일기장)"],
+  "requiredItems": [
+    "타자기 또는 펜",
+    "편지 수신자(또는 일기장)"
+  ],
   "frequency": "daily",
   "historicalStory": "존 스타인벡은 대작 《에덴의 동쪽》을 집필할 당시, 매일 아침 본격적인 원고 작업을 시작하기 전에 그의 편집자이자 절친한 친구였던 파스칼 코비치에게 매일 아침 편지를 썼습니다. 날씨 이야기, 어제 느낀 피로, 손가락 류머티즘 통증 등 아주 시시콜콜한 주제로 편지를 채우며 글쓰기 시작 단계의 심리적 저항감을 녹여냈고, 이 편지들은 후에 《Journal of a Novel》이라는 책으로 출판되었습니다.",
   "sciencePrinciples": "창의적이거나 어려운 과업에 직면할 때 뇌의 편도체(Amygdala)는 실패에 대한 무의식적 공포와 불안 반응을 유발해 행동 지연(Procrastination)을 일으킵니다. 이때 평가나 부담이 없는 사소한 자유 글쓰기(Free Writing)나 편지 쓰기를 수행하면 뇌의 언어 운동 영역(Broca's area)이 활성화되며 편도체의 불안 반응을 억제하고, 부드럽게 몰입 모드로 기어를 변속하게 돕습니다.",
@@ -22,5 +29,8 @@
     "손과 뇌가 충분히 예열되면, 브레이크 없이 즉시 메인 본 업무 문서나 집필 원고를 열어 작업을 개시합니다."
   ],
   "actionName": "뇌 예열 5분 프리라이팅 루틴",
-  "sources": ["John Steinbeck 서한집 Journal of a Novel: The East of Eden Letters", "Cognitive Psychology 완벽주의와 행동 지연 극복 연구"]
+  "sources": [
+    "John Steinbeck 서한집 Journal of a Novel: The East of Eden Letters",
+    "Cognitive Psychology 완벽주의와 행동 지연 극복 연구"
+  ]
 }

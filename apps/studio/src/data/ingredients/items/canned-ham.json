@@ -58,7 +58,7 @@
       ]
     },
     "fridge": {
-      "durationDays": 7,
+      "durationDays": 4,
       "tips": {
         "ko": "개봉 후 남은 햄을 캔 그대로 냉장 보관 시 산소 접촉으로 산패 및 금속 용출이 일어납니다. 반드시 락앤락 등 별도 밀폐용기에 덜어 냉장하고 4일 이내 드세요.",
         "en": "Do not refrigerate in the open metal can; oxygen contact causes spoilage and metal leaching. Transfer to a sealed plastic/glass container and consume in 4 days.",

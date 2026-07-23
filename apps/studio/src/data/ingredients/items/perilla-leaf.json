@@ -41,9 +41,9 @@
   },
   "storage": {
     "fridge": {
-      "durationDays": 7,
+      "durationDays": 14,
       "tips": {
-        "ko": "물기를 닦고 꼭지 부분을 아래로 하여 키친타월로 감싸 지퍼백에 세워 냉장 보관하세요. 건조를 막아 2주간 신선합니다.",
+        "ko": "물기를 닦고 꼭지 부분을 아래로 하여 키친타월로 감싸 지퍼백에 세워 냉장 보관하세요. 건조를 막아 최대 2주(14일)간 신선합니다.",
         "en": "Dry surface moisture, wrap stems down in paper towels, and store upright in a zipper bag. Stays fresh for 2 weeks.",
         "ja": "水気を拭き取り、茎を下にしてキッチンペーパーで包み、保存袋に立てて冷蔵保管します。2週間新鮮に保てます。",
         "zh": "擦干水分，将叶柄朝下用厨房纸包裹，放入密封袋中竖立冷藏。可防止干燥并保持2周新鲜。",
