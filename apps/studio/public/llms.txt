@@ -1,0 +1,33 @@
+# SelaLink Studio
+
+> Break the cycle. You are already great, you just lacked the right tool.
+
+SelaLink Studio is a privacy-first software studio and digital content platform. We provide privacy-focused mobile applications, web analytics tools, and multilingual educational resources regarding personal habit optimization, historical mentor routines, and food preservation science.
+
+## Applications & Web Services
+
+- [BuildSelf](https://selalink.net/ko/apps/buildself/): 100% private, client-side mobile habit tracker app supporting historical mentor characters and rich habit visualization graphs.
+- [BuildSnap](https://selalink.net/ko/apps/buildsnap/): Web-based interactive mentor habit diagnosis and analytics platform. Matches users with historical figures (e.g., King Sejong, Albert Einstein) based on cognitive focus goals.
+- [FreshSelf](https://selalink.net/ko/apps/freshself/): Intelligent food storage life and expiration manager for zero-waste lifestyle.
+- [FreshSnap](https://selalink.net/ko/apps/freshsnap/): Visual virtual refrigerator storage calculator and ingredient preservation guide.
+- [logSelf](https://selalink.net/ko/apps/logself/): Micro-journaling and daily life logging mobile application.
+
+## Multilingual Content Ecosystem
+
+SelaLink Studio publishes structured, evidence-based blog posts and research articles translated into 9 languages:
+- Korean (`/ko/blog/`)
+- English (`/en/blog/`)
+- Japanese (`/ja/blog/`)
+- Chinese (`/zh/blog/`)
+- Spanish (`/es/blog/`)
+- French (`/fr/blog/`)
+- German (`/de/blog/`)
+- Portuguese (`/pt/blog/`)
+- Indonesian (`/id/blog/`)
+
+## Technical Specifications & Accessibility
+
+- Primary Domain: `https://selalink.net`
+- Sitemap Index: `https://selalink.net/sitemap.xml`
+- Robots Policy: All AI search engines (OAI-SearchBot, PerplexityBot, ClaudeBot, Google-Extended) are fully allowed.
+- Architecture: Zero-server data transmission, 100% client-side privacy, Schema.org structured JSON-LD data.

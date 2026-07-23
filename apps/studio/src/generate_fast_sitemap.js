@@ -69,7 +69,10 @@ ${urls.map(url => `  <url>\n    <loc>${url}</loc>\n    <lastmod>${lastMod}</last
 const sitemapPath = path.join(distRoot, 'sitemap-index.xml');
 fs.writeFileSync(sitemapPath, sitemapXml, 'utf-8');
 
-// 하위 호환성을 위해 sitemap-0.xml 도 동일하게 생성
+// 기본 sitemap.xml 및 하위 호환 sitemap-0.xml 동시 생성
+const defaultSitemapPath = path.join(distRoot, 'sitemap.xml');
+fs.writeFileSync(defaultSitemapPath, sitemapXml, 'utf-8');
+
 const sitemap0Path = path.join(distRoot, 'sitemap-0.xml');
 fs.writeFileSync(sitemap0Path, sitemapXml, 'utf-8');
 
